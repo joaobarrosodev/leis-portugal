@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/10/22700/20642066.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1978-329010
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T05:58:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1362d3d7058cf913baa3c378c9a0107911c1ca867324ca997246a083ff768af9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9ca834a4a33bacbf9c3e74e9514870a77a49163e8738c6863ca1bc3347d8d21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estacionamento
+- Transporte de Mercadorias
+- Transporte de Passageiros
+- Veículo de Aluguer
 relationships:
 - type: amended_by
   target: pt:dre:221347:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:461801:por
+  label: "Alterado o n.º 3 do art. 3.º e a al. c) do art. 6.º pelo DR.52/80.1980.09.26.MAI DR.IS [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/52-1980-461801
+  date: '1980-09-26'
+- type: amended_by
+  target: pt:dre:392444:por
+  label: "Alterado o montante das multas previsto nos nºs. 1, 2 e 3 do art. 89º e no art. 90º, pelo DEC LEI.186/82.1982.05.15.MHOPT\
+    \ DR.IS [110]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1982-392444
+  date: '1982-05-15'
+- type: amended_by
+  target: pt:dre:358961:por
+  label: "Repristinado pela Lei.18/97.1997.06.11.AR, DR.IS-A [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/18-1997-358961
+  date: '1997-06-11'
+- type: cites
+  target: pt:dre:160714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:393788:por
+  label: "Revogado o regime constante da alínea a) do n.º 2 do art. 8.º e o art. 11.º pelo DR.68-A/79.24.12.1979.PCM, DR.IS\
+    \ [295-3.º Supl] de 24.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/68-a-1979-393788
+  date: '1979-12-24'
+- type: repealed_by
+  target: pt:dre:626587:por
+  label: "Revogado pelo DEC LEI.319/95.1995.11.28.MOPTC, DR.IS-A [275], a partir da data da entrada em vigor dos Regulamentos\
+    \ Municipais previstos naquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/319-1995-626587
+  date: '1995-11-28'
+- type: repealed_by
+  target: pt:dre:438069:por
+  label: "Revogado pelo DEC LEI.251/98.1998.08.11.MEPAT DR.IS-A [184]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-1998-438069
+  date: '1998-08-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:58:49Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +155,7 @@ Deste modo:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os automóveis de aluguer, quer se destinem ao transporte de passageiros, quer ao de mercadorias, devem encontrar-se à disposição do público nos locais de estacionamento constantes das respectivas licenças, salvo quando estejam autorizados pela Direcção-Geral de Transportes Terrestres os regimes de praça livre e praça livre condicionada e o previsto no n.º 6 deste artigo.
+Artigo 1.º - 1 - Os automóveis de aluguer, quer se destinem ao transporte de passageiros, quer ao de mercadorias, devem encontrar-se à disposição do público nos locais de estacionamento constantes das respectivas licenças, salvo quando estejam autorizados pela Direcção-Geral de Transportes Terrestres os regimes de praça livre e praça livre condicionada e o previsto no n.º 6 deste artigo.
 
 2 - No regime de praça livre, os veículos explorados a taxímetro não têm local de estacionamento fixado.
 
@@ -114,9 +167,9 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 6 - Os automóveis afectos a serviços especiais, designadamente os destinados a casamentos ou funerais, podem ser dispensados de estacionar nas vias públicas.
 
-###### Art. 2.º As alterações de locais de estacionamento só terão lugar, desde que o interesse público o justifique, nos termos e condições previstos nos artigos seguintes.
+Art. 2.º As alterações de locais de estacionamento só terão lugar, desde que o interesse público o justifique, nos termos e condições previstos nos artigos seguintes.
 
-###### Art. 3.º - 1 - As alterações temporárias de locais de estacionamento fixados para os veículos de aluguer ligeiros de passageiros só serão autorizadas, a requerimento dos interessados, nos seguintes casos:
+Art. 3.º - 1 - As alterações temporárias de locais de estacionamento fixados para os veículos de aluguer ligeiros de passageiros só serão autorizadas, a requerimento dos interessados, nos seguintes casos:
 
 a) Na épocas termais ou balneares, ou por ocasião de festividades, para as localidades das termas, praias ou festas;
 
@@ -130,25 +183,25 @@ b) Pelo tempo que as festividades durarem, para o serviço de festas;
 
 c) Por períodos até um ano para o serviço nas estações de caminho de ferro, aeroportos ou nós rodoviários.
 
-###### Art. 4.º - 1 - Quando as alterações de locais de estacionamento previstas no artigo anterior se processem dentro da mesma freguesia ou freguesias da sede do concelho, competirá às câmaras municipais autorizá-las, precedendo parecer da associação representativa dos industriais de aluguer em automóveis ligeiros de passageiros.
+Art. 4.º - 1 - Quando as alterações de locais de estacionamento previstas no artigo anterior se processem dentro da mesma freguesia ou freguesias da sede do concelho, competirá às câmaras municipais autorizá-las, precedendo parecer da associação representativa dos industriais de aluguer em automóveis ligeiros de passageiros.
 
 2 - Nos restantes casos será competente para o efeito a Direcção-Geral de Transportes Terrestres, mediante parecer das câmaras municipais interessadas e da associação representativa dos industriais de aluguer em automóveis ligeiros de passageiros.
 
-###### Art. 5.º - 1 - Na apreciação das alterações temporárias do local de estacionamento a que se refere a alínea b) do n.º 1 do artigo 3.º deverá ter-se em atenção a distância entre as estações de caminho de ferro, aeroportos ou nós rodoviários e os locais onde os veículos se encontram normalmente à disposição do público.
+Art. 5.º - 1 - Na apreciação das alterações temporárias do local de estacionamento a que se refere a alínea b) do n.º 1 do artigo 3.º deverá ter-se em atenção a distância entre as estações de caminho de ferro, aeroportos ou nós rodoviários e os locais onde os veículos se encontram normalmente à disposição do público.
 
 2 - Quando aquelas alterações se reportem a veículos com estacionamento fixado em freguesia diversa da da estação, aeroporto ou nó rodoviário, só serão autorizadas desde que a frequência dos comboios, aviões ou carreiras do serviço público não ponha em causa a prestação do serviço público no local habitual de estacionamento.
 
 3 - Sempre que se verifiquem autorizações nos termos da alínea b) do n.º 1 do artigo 3.º, no condicionalismo previsto no n.º 1 do artigo anterior, os proprietários dos veículos com estacionamento previamente fixado nas estações de caminho de ferro, aeroportos ou nós rodoviários poderão requerer junto das câmaras municipais competentes autorizações para estacionarem, fora das horas de chegada dos comboios, aviões ou carreiras de serviço público, nas praças fixadas para os veículos autorizados a deslocarem-se temporariamente àqueles locais.
 
-###### Art. 6.º A alteração permanente dos locais de estacionamento fixados para os veículos de aluguer ligeiros de passageiros só poderá ser autorizada nos seguintes casos:
+Art. 6.º A alteração permanente dos locais de estacionamento fixados para os veículos de aluguer ligeiros de passageiros só poderá ser autorizada nos seguintes casos:
 
 a) Dentro de cada freguesia ou das freguesias que constituem a sede do concelho;
 
 b) Entre freguesias do mesmo concelho, ou de concelhos limítrofes.
 
-###### Art. 7.º A alteração a que se refere a alínea a) do artigo anterior será da competência das câmaras municipais e só poderá efectuar-se ouvida a associação representativa dos industriais de aluguer em automóveis ligeiros de passageiros, com fundamento na necessidade de readaptação da oferta às carências de transporte da população ou quando a racionalização do tráfego dentro das povoações o imponha.
+Art. 7.º A alteração a que se refere a alínea a) do artigo anterior será da competência das câmaras municipais e só poderá efectuar-se ouvida a associação representativa dos industriais de aluguer em automóveis ligeiros de passageiros, com fundamento na necessidade de readaptação da oferta às carências de transporte da população ou quando a racionalização do tráfego dentro das povoações o imponha.
 
-###### Art. 8.º - 1 - A alteração permanente de locais de estacionamento entre freguesias do mesmo concelho, ou de concelhos limítrofes, será da competência da Direcção-Geral de Transportes Terestres, sob parecer fundamentado da câmara municipal interessada.
+Art. 8.º - 1 - A alteração permanente de locais de estacionamento entre freguesias do mesmo concelho, ou de concelhos limítrofes, será da competência da Direcção-Geral de Transportes Terestres, sob parecer fundamentado da câmara municipal interessada.
 
 2 - Só será autorizada a alteração prevista no número anterior com os seguintes fundamentos:
 
@@ -158,7 +211,7 @@ b) Alteração, superveniente à atribuição da licença, das condições econ�
 
 3 - A inviabilidade ou a alteração das condições económicas de exploração local da indústria deverá em todos os casos ser comprovada pelos interessados.
 
-###### Art. 9.º - 1 - A alteração a que se refere o artigo anterior deverá efectuar-se:
+Art. 9.º - 1 - A alteração a que se refere o artigo anterior deverá efectuar-se:
 
 a) Entre freguesias do mesmo concelho;
 
@@ -168,15 +221,15 @@ b) Entre freguesias situadas em concelhos limítrofes, quando a alteração não
 
 3 - Em qualquer dos casos previstos no n.º 1 do presente artigo devem ser ouvidos o sindicato e a associação representativos dos motoristas profissionais e dos industriais de aluguer em veículos ligeiros de passageiros.
 
-###### Art. 10.º Para os efeitos do disposto nos artigos 8.º e 9.º, a Direcção-Geral de Transportes Terrestres procederá aos necessários aumentos e reduções dos contingentes.
+Art. 10.º Para os efeitos do disposto nos artigos 8.º e 9.º, a Direcção-Geral de Transportes Terrestres procederá aos necessários aumentos e reduções dos contingentes.
 
-###### Art. 11.º Na alteração a título permanente do local de estacionamento a que se referem os artigos 6.º, 7.º, 8.º e 9.º, beneficiará de prioridade o industrial mais antigo:
+Art. 11.º Na alteração a título permanente do local de estacionamento a que se referem os artigos 6.º, 7.º, 8.º e 9.º, beneficiará de prioridade o industrial mais antigo:
 
 a) Da freguesia, no caso do artigo 7.º;
 
 b) Da freguesia onde tem local de estacionamento o interessado, no caso do artigo 8.º
 
-###### Art. 12.º - 1 - A fixação em cada freguesia do novo local de estacionamento será da competência da respectiva câmara municipal, beneficiando de prioridade o industrial mais antigo da freguesia.
+Art. 12.º - 1 - A fixação em cada freguesia do novo local de estacionamento será da competência da respectiva câmara municipal, beneficiando de prioridade o industrial mais antigo da freguesia.
 
 2 - As alterações do local de estacionamento a que se refere o presente diploma, salvo as previstas na alínea a) do n.º 1 do artigo 3.º, deverão ser sempre objecto de publicação, através de postura das câmaras municipais competentes.
 
@@ -184,7 +237,7 @@ b) Da freguesia onde tem local de estacionamento o interessado, no caso do artig
 
 4 - Em todas as alterações, exceptuadas as previstas na alínea a) do n.º 1 do artigo 3.º, os interessados serão notificados de que deverão, no prazo de trinta dias, solicitar a correcção do respectivo título de licenciamento.
 
-###### Art. 13.º - 1 - A transgressão à regra do n.º 1 do artigo 1.º será punida:
+Art. 13.º - 1 - A transgressão à regra do n.º 1 do artigo 1.º será punida:
 
 a) Com a multa de 1000$00, se o veículo se mantiver dentro da localidade ou freguesia em que está autorizado a estacionar;
 
@@ -194,18 +247,18 @@ b) Com multa de 3000$00, se o veículo estacionar em localidade ou freguesia dif
 
 3 - A multa prevista na alínea b) do n.º 1 passará a ser de 5000$00 pela prática da segunda infracção nas condições referidas no número anterior e a terceira infracção praticada no prazo de seis meses a contar da anterior condenação será punida com a multa de 10000$00 e com o cancelamento da licença.
 
-###### Art. 14.º A ausência temporária e não justificada do veículo automóvel do respectivo local de estacionamento, sem que o veículo se encontre à disposição do público noutro local, será punida com a multa de 5000$00, sem prejuízo do disposto no artigo 19.º do [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948.
+Art. 14.º A ausência temporária e não justificada do veículo automóvel do respectivo local de estacionamento, sem que o veículo se encontre à disposição do público noutro local, será punida com a multa de 5000$00, sem prejuízo do disposto no artigo 19.º do [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948.
 
-###### Art. 15.º A falsidade da prova a que se refere o n.º 3 do artigo 8.º implica, para além da responsabilidade criminal a que der lugar, a aplicação cumulada de multa de 10000$00 e cancelamento da licença.
+Art. 15.º A falsidade da prova a que se refere o n.º 3 do artigo 8.º implica, para além da responsabilidade criminal a que der lugar, a aplicação cumulada de multa de 10000$00 e cancelamento da licença.
 
-###### Art. 16.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 16.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
-###### Art. 17.º O presente diploma revoga o [Decreto n.º 119/75](https://diariodarepublica.pt/dr/detalhe/decreto/119-1975-160714), de 8 de Março, e o [Decreto Regulamentar n.º 49/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-1977-255399), de 10 de Agosto.
+Art. 17.º O presente diploma revoga o [Decreto n.º 119/75](https://diariodarepublica.pt/dr/detalhe/decreto/119-1975-160714), de 8 de Março, e o [Decreto Regulamentar n.º 49/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-1977-255399), de 10 de Agosto.
 
 Mário Soares - Jaime José Matos da Gama - Manuel Branco Ferreira Lima.
 
-**Promulgado em 11 de Setembro de 1978.**
+Promulgado em 11 de Setembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

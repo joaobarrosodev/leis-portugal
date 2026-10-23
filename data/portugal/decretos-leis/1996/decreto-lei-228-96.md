@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/11/277a00/43244325.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/228/1996/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1996-201230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:46:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18a7fe6244dd464463a976c35d2d4bc30bbc7463cb4125a0c86591e919140ccc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8c4ffe11b0dcdc7514e47514b534efa0e07a4dcc8a12d0a4acc067a6c06a6f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:46:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Ministério da Administração Interna
-- Habitação por Conta do Estado
-- Serviço de Estrangeiros e Fronteiras
-- Madeira.região Autónoma
-- Funcionário Público
 - Açores
+- Funcionário Público
+- Habitação por Conta do Estado
+- Madeira.região Autónoma
+- Ministério da Administração Interna
+- Região Autónoma
+- Serviço de Estrangeiros e Fronteiras
 - Subsídio de Fixação
 - Transporte
 relationships:
@@ -79,16 +79,33 @@ relationships:
   target: pt:dre:649343:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:367065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663306:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:649343:por
+  label: "Revogado pelo DEC LEI 290-A/2001.2001.11.17.MAI,DR.IS-A [267]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-a-2001-649343
+  date: '2001-11-17'
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:46:08Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +150,9 @@ Colocação do pessoal
 
 6 - Por despacho do Ministro da Administração Interna e mediante proposta do director será aprovado um regulamento de colocações e transferências do pessoal.
 
-###### Artigo 73.º — Transporte do pessoal
+Artigo 73.º
+
+Transporte do pessoal
 
 1 - O pessoal do SEF tem direito a transporte pago pelo SEF nas seguintes situações:
 
@@ -147,13 +166,17 @@ d) Quando deslocado para frequência de cursos de formação ou para a realizaç
 
 2 - ...
 
-###### Artigo 74.º — Transporte do agregado familiar
+Artigo 74.º
+
+Transporte do agregado familiar
 
 1 - O pessoal do SEF que, residindo no continente, seja colocado nas Regiões Autónomas, e vice-versa, tem direito a transporte pago pelo SEF para o seu agregado familiar.
 
 2 - ...
 
-###### Artigo 75.º — Habitação por conta do Estado
+Artigo 75.º
+
+Habitação por conta do Estado
 
 1 - O SEF promoverá a reafectação, aquisição ou o arrendamento de casas de habitação para os directores regionais, bem como para o pessoal da carreira de investigação e fiscalização que seja colocado, transferido ou nomeado em comissão de serviço em cargos dirigentes, para departamento situado fora da área da sua residência permanente, determinada nos termos do artigo 2.º do [Decreto-Lei n.º 47/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1987-663306), de 29 de Janeiro.
 
@@ -177,12 +200,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Setembro de 1996. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 15 de Novembro de 1996.**
+Promulgado em 15 de Novembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Novembro de 1996.**
+Referendado em 20 de Novembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

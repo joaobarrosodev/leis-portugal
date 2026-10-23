@@ -52,18 +52,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/51/2008/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2008-246821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 482adca0c32c683ee2e40b9556f4215dd0f31c94436ddec8981e5a25b6fae345
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b31867ed57e0509d7356a6d1b0ae15f53ff35d92fd7dbafd4812ae3d8bb5a473
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,32 +71,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aproximação das Legislações
+- ASAE
 - Cereal
 - Comissão de Aplicação de Coimas em Matéria Económica e Publicidade
 - Contra-ordenação
-- Definição de Competências
 - Controlo Sanitário
-- Saúde Pública
+- Definição de Competências
 - Fiscalização
 - Fruto
-- ASAE
-- Resíduo
-- Produto Farmacêutico
-- Produto Hortícola
-- Madeira.região Autónoma
-- Proteção do Consumidor
-- Pesticida
-- Produto Fitofarmacêutico
 - Limite Máximo de Resíduos
-- Açores
-- Substância Perigosa
+- Madeira.região Autónoma
+- Pesticida
 - Produto Agrícola
+- Produto Farmacêutico
+- Produto Fitofarmacêutico
+- Produto Hortícola
+- Proteção do Consumidor
+- Resíduo
+- Saúde Pública
+- Substância Perigosa
 relationships:
 - type: amended_by
   target: pt:dre:452889:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:452889:por
+  label: "Alterado o anexo A do Dec Lei 27/2000 de 03-Mar, com as alterações constantes do presente diploma, pelo DEC LEI.202/2008.09.10.2008.MADRP,\
+    \ DR.IS [196] de 09.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2008-452889
+  date: '2008-10-09'
 - type: cites
   target: celex:32007L0055
   label: null
@@ -116,13 +122,13 @@ relationships:
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:03Z'
   warnings: []
   errors: []
 ---
@@ -263,36 +269,36 @@ O disposto no presente decreto-lei produz efeitos a partir de:
 
 Visto e aprovado em Conselho de Ministros de 31 de Janeiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Ana Maria Teodoro Jorge.
 
-**Promulgado em 4 de Março de 2008.**
+Promulgado em 4 de Março de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 6 de Março de 2008.**
+Referendado em 6 de Março de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 2.º, por referência à Directiva n.º [2007/55/CE](https://data.europa.eu/eli/dir/2007/55/oj?locale=pt), da Comissão, de 17 de Setembro)
 
 Forma de expressão do resíduo de substâncias activas de produtos fitofarmacêuticos e respectivos LMR (mg/kg)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05700/0162701644.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05700/0162701644.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05700/0162701644.pdf)
 
 ## ANEXO II — (a que se refere o artigo 2.º, por referência à Directiva n.º [2007/56/CE](https://data.europa.eu/eli/dir/2007/56/oj?locale=pt), da Comissão, de 17 de Setembro)
 
 Forma de expressão do resíduo de substâncias activas de produtos fitofarmacêuticos e respectivos LMR (mg/kg)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05700/0162701644.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05700/0162701644.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05700/0162701644.pdf)
 
 ## ANEXO III — (a que se refere o artigo 2.º, por referência à Directiva n.º [2007/57/CE](https://data.europa.eu/eli/dir/2007/57/oj?locale=pt), da Comissão, de 17 de Setembro)
 
 Forma de expressão do resíduo de substâncias activas de produtos fitofarmacêuticos e respectivos LMR (mg/kg)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05700/0162701644.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05700/0162701644.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05700/0162701644.pdf)
 
 ## ANEXO IV — (a que se refere o artigo 2.º, por referência à Directiva n.º [2007/62/CE](https://data.europa.eu/eli/dir/2007/62/oj?locale=pt), da Comissão, de 4 de Outubro)
 
 Forma de expressão do resíduo de substâncias activas de produtos fitofarmacêuticos e respectivos LMR (mg/kg)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05700/0162701644.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05700/0162701644.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05700/0162701644.pdf)

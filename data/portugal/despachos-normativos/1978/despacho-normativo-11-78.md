@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-1978-447896
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:41:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a53e8fc2e2043cc5799ec2fee6a2c1c83a3552452ab0d98a442f6b5ccc3d5f2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 132081202703a641fd70a7d5c1014bd7c44b5c05639461e5911a345f1137bba6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:41:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cergal-cervejas de Portugal
+- Cometna
+- Empresa Pública
+- Estaleiros Navais de Viana do Castelo
+- Intervenção do Estado
+- IPE
+- Portucel
+- Setor Público
+- Sociedade Central de Cervejas
+- Sorefame-sociedades Reunidas de Fabricações Metálicas
+- Tabaqueira
+- Transferência de Competências
+- Transferência Patrimonial
+relationships:
+- type: cites
+  target: pt:dre:230969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250635:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:41:36Z'
   warnings: []
   errors: []
 ---

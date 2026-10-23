@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/223-1984-654544
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T07:59:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 296a15bf91792afe70b70254319f8ad6b0ebd667022544ee406722ddae340555
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9041ccc18cff43b742dd3156f3f1828c03f8537c29ea5ebf98af9580d2508b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:59:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto Superior de Economia
+- Universidade Técnica de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:59:22Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +100,15 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação, o seguint
 
 Ministério da Educação.
 
-**Assinada em 16 de Março de 1984.**
+Assinada em 16 de Março de 1984.
 
-**O Ministro da Educação, José Augusto Seabra.**
+O Ministro da Educação, José Augusto Seabra.
 
 Regulamento do Departamento de Gestão do Instituto Superior de Economia, da Universidade Técnica de Lisboa
 
 ### CAPÍTULO I — Natureza e objectivos
 
-###### Artigo 1.º O Departamento de Gestão do Instituto Superior de Economia, da Universidade Técnica de Lisboa (designados, respectivamente, por «Departamento», «Instituto» e «Universidade»), é uma unidade orgânica permanente de ensino, de investigação fundamental e aplicada e de prestação de serviços, na área específica da gestão, competindo-lhe, designadamente:
+Artigo 1.º O Departamento de Gestão do Instituto Superior de Economia, da Universidade Técnica de Lisboa (designados, respectivamente, por «Departamento», «Instituto» e «Universidade»), é uma unidade orgânica permanente de ensino, de investigação fundamental e aplicada e de prestação de serviços, na área específica da gestão, competindo-lhe, designadamente:
 
 a) Realizar o ensino das disciplinas de gestão fixadas nos planos de estudos das licenciaturas do Instituto, bem como organizar e ministrar cursos de pós-licenciatura, de especialização ou de reciclagem, na área referida;
 
@@ -116,25 +122,25 @@ e) Desenvolver actividades de prestação de serviços à comunidade, no âmbito
 
 f) Promover a formação de docentes e investigadores na área de gestão, contribuindo para a expansão do ensino e o progresso do conhecimento nesse ramo do saber.
 
-###### Art. 2.º O Departamento é autónomo no que se refere à organização e realização das suas actividades de ensino, de investigação e de prestação de serviços, podendo realizar contratos de prestação de serviço com entidades públicas ou privadas.
+Art. 2.º O Departamento é autónomo no que se refere à organização e realização das suas actividades de ensino, de investigação e de prestação de serviços, podendo realizar contratos de prestação de serviço com entidades públicas ou privadas.
 
-###### Art. 3.º Poderão ser criadas secções do Departamento, nos termos previstos no n.º 2 do artigo 3.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
+Art. 3.º Poderão ser criadas secções do Departamento, nos termos previstos no n.º 2 do artigo 3.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
 ### CAPÍTULO II — Órgãos
 
-###### Art. 4.º A gestão do Departamento é exercida pelos seguintes órgãos:
+Art. 4.º A gestão do Departamento é exercida pelos seguintes órgãos:
 
 a) Conselho do Departamento;
 
 b) Comissão executiva.
 
-###### Art. 5.º - 1 - O conselho do Departamento é constituído por membros permanentes e por membros não permanentes.
+Art. 5.º - 1 - O conselho do Departamento é constituído por membros permanentes e por membros não permanentes.
 
 2 - São membros permanentes todos os professores catedráticos, associados e auxiliares, incluindo os convidados, da área científica abrangida pelo Departamento.
 
 3 - São membros não permanentes os assistentes, assistentes estagiários e assistentes convidados eleitos para mandatos bienais pelo conjunto das três categorias, na proporção de um terço do número de membros permanentes.
 
-###### Art. 6.º - 1 - A eleição dos membros não permanentes terá lugar no mês de Novembro.
+Art. 6.º - 1 - A eleição dos membros não permanentes terá lugar no mês de Novembro.
 
 2 - A fim de se proceder à eleição dos membros não permanentes, o presidente do conselho do Departamento ou, na sua falta ou impedimento, o membro mais antigo da categoria mais elevada do Departamento convocará os docentes do Departamento não incluídos nas categorias definidas no n.º 2 do artigo 5.º para sessão especial, a que presidirá.
 
@@ -146,7 +152,7 @@ b) Comissão executiva.
 
 6 - Os membros eleitos entram em funções no dia imediato ao da eleição e cessam funções no dia em que forem eleitos novos membros permanentes.
 
-###### Art. 7.º - 1 - O conselho do Departamento é presidido por um professor catedrático ou associado do Departamento.
+Art. 7.º - 1 - O conselho do Departamento é presidido por um professor catedrático ou associado do Departamento.
 
 2 - O presidente é eleito pelos membros do conselho para mandato bienal.
 
@@ -164,7 +170,7 @@ b) Comissão executiva.
 
 9 - O exercício do cargo do presidente do conselho do Departamento é incompatível com o de presidente de outros órgãos de gestão universitária.
 
-###### Art. 8.º - 1 - Ao conselho do Departamento compete:
+Art. 8.º - 1 - Ao conselho do Departamento compete:
 
 a) Elaborar propostas de alteração ao Regulamento do Departamento;
 
@@ -206,13 +212,13 @@ m) Deliberar sobre matérias que lhe sejam submetidas pelos órgãos de gestão 
 
 9 - Das reuniões do conselho do Departamento serão elaboradas actas.
 
-###### Art. 9.º A comissão executiva do Departamento é constituída por:
+Art. 9.º A comissão executiva do Departamento é constituída por:
 
 a) O presidente do conselho do Departamento, que preside;
 
 b) 2 membros do conselho do Departamento em exercício de funções, designados pelo presidente.
 
-###### Art. 10.º - 1 - À comissão executiva compete:
+Art. 10.º - 1 - À comissão executiva compete:
 
 a) Preparar as reuniões do conselho do Departamento;
 
@@ -234,7 +240,7 @@ i) Apresentar anualmente ao conselho do Departamento o relatório das suas activ
 
 2 - A destituição ou demissão do presidente do conselho do Departamento implica a cessação de funções da comissão executiva.
 
-###### Art. 11.º - 1 - O presidente do conselho do Departamento tem voto de qualidade.
+Art. 11.º - 1 - O presidente do conselho do Departamento tem voto de qualidade.
 
 2 - O presidente do conselho do Departamento poderá ser total ou parcialmente dispensado do serviço docente durante o seu mandato sem perda da remuneração que vinha auferindo, sob proposta do conselho do Departamento.
 
@@ -242,17 +248,17 @@ i) Apresentar anualmente ao conselho do Departamento o relatório das suas activ
 
 ### CAPÍTULO III — Autonomia do Departamento
 
-###### Art. 12.º A autonomia científica e pedagógica atribuída ao Departamento nos termos do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril, e deste Regulamento terá os limites impostos pela demais legislação em vigor, nunca devendo pôr em causa a preservação da unidade da escola.
+Art. 12.º A autonomia científica e pedagógica atribuída ao Departamento nos termos do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril, e deste Regulamento terá os limites impostos pela demais legislação em vigor, nunca devendo pôr em causa a preservação da unidade da escola.
 
-###### Art. 13.º Os órgãos de gestão do Instituto afectarão ao Departamento as instalações e o equipamento que se mostrem indispensáveis ao seu funcionamento, os quais ficarão sob a responsabilidade da comissão executiva, de acordo com o disposto na alínea h) do artigo 10.º deste Regulamento.
+Art. 13.º Os órgãos de gestão do Instituto afectarão ao Departamento as instalações e o equipamento que se mostrem indispensáveis ao seu funcionamento, os quais ficarão sob a responsabilidade da comissão executiva, de acordo com o disposto na alínea h) do artigo 10.º deste Regulamento.
 
-###### Art. 14.º Os órgãos de gestão do Instituto procederão ao destacamento interno do pessoal docente e não docente que se mostre necessário ao funcionamento do Departamento, em cumprimento das normas constantes do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
+Art. 14.º Os órgãos de gestão do Instituto procederão ao destacamento interno do pessoal docente e não docente que se mostre necessário ao funcionamento do Departamento, em cumprimento das normas constantes do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
-###### Art. 15.º A gestão financeira do Departamento obedecerá aos princípios estabelecidos no [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril, designadamente os que constam dos artigos 17.º e 19.º desse diploma legal.
+Art. 15.º A gestão financeira do Departamento obedecerá aos princípios estabelecidos no [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril, designadamente os que constam dos artigos 17.º e 19.º desse diploma legal.
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### Art. 16.º - 1 - Os órgãos com poder deliberativo só podem deliberar quando estiver presente a maioria dos seus membros em efectividade de funções.
+Art. 16.º - 1 - Os órgãos com poder deliberativo só podem deliberar quando estiver presente a maioria dos seus membros em efectividade de funções.
 
 2 - As deliberações são tomadas por maioria simples, salvo quando por lei ou regulamento seja exigida maioria qualificada.
 
@@ -260,4 +266,4 @@ i) Apresentar anualmente ao conselho do Departamento o relatório das suas activ
 
 ### CAPÍTULO V — Disposições transitórias
 
-###### Art. 17.º No prazo de 30 dias após a publicação deste Regulamento, o membro mais antigo da categoria mais elevada do Departamento promoverá as diligências necessárias à realização dos processos eleitorais nele previstos e regulados.
+Art. 17.º No prazo de 30 dias após a publicação deste Regulamento, o membro mais antigo da categoria mais elevada do Departamento promoverá as diligências necessárias à realização dos processos eleitorais nele previstos e regulados.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/216a00/48184828.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/292/1998/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1998-241440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:00:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5010f72150a6fa6213b3cecc26499ef46c7cb8c37d294f288d2c957d5fa6b27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bd9b5de845b37d09c1da34268b712760cb9f60a7ebfbe7d500602eb0492cb48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:00:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Gestão Financeira
 - Definição de Competências
 - Direcção Geral do Turismo
-- Ministério da Economia
+- Gestão Financeira
 - Integração de Trabalhadores
+- Ministério da Economia
 - Orgânica
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:240776:por
@@ -93,16 +93,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1997/05/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1997/05/23/p/dre
+- type: cites
+  target: pt:dre:199846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679823:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:240776:por
+  label: "Revogado pelo DEC LEI.8/2004.07.01.2004.MECO, DR.IS-A [5] de 07.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2004-240776
+  date: '2004-01-07'
 article_structure:
   article_count: 50
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 26
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:00:24Z'
   warnings: []
   errors: []
 ---
@@ -307,7 +348,9 @@ c) Repartição de Gestão Financeira;
 
 d) Repartição de Administração Geral.
 
-###### Artigo 9.º — Divisão de Recursos Humanos
+###### Artigo 9.º
+
+##### Divisão de Recursos Humanos
 
 À Divisão de Recursos Humanos (DRH) compete:
 
@@ -329,7 +372,9 @@ h) Assegurar as tarefas de administração corrente do pessoal;
 
 i) Organizar e manter actualizados o cadastro e os ficheiros de pessoal.
 
-###### Artigo 10.º — Divisão de Informática
+###### Artigo 10.º
+
+##### Divisão de Informática
 
 À Divisão de Informática compete:
 
@@ -359,7 +404,9 @@ b) Secção de Património e Aprovisionamento.
 
 2 - Adstrita à Secção de Gestão Financeira funciona uma tesouraria, coordenada por um tesoureiro.
 
-###### Artigo 12.º — Secção de Gestão Financeira
+###### Artigo 12.º
+
+#### Secção de Gestão Financeira
 
 À Secção de Gestão Financeira compete:
 
@@ -385,7 +432,9 @@ b) Efectuar o pagamento das despesas autorizadas;
 
 c) Manter devidamente escriturados os livros de tesouraria.
 
-###### Artigo 14.º — Secção de Património e Aprovisionamento
+###### Artigo 14.º
+
+#### Secção de Património e Aprovisionamento
 
 À Secção de Património e Aprovisionamento compete:
 
@@ -405,7 +454,9 @@ a) Secção de Assuntos Gerais;
 
 b) Secção de Expediente e Arquivo.
 
-###### Artigo 16.º — Secção de Assuntos Gerais
+###### Artigo 16.º
+
+#### Secção de Assuntos Gerais
 
 À Secção de Assuntos Gerais compete:
 
@@ -419,7 +470,9 @@ d) Coordenar a actividade do pessoal auxiliar;
 
 e) Promover as acções necessárias à efectivação das construções, remodelações e reparações que se tornem necessárias.
 
-###### Artigo 17.º — Secção de Expediente e Arquivo
+###### Artigo 17.º
+
+#### Secção de Expediente e Arquivo
 
 À Secção de Expediente e Arquivo compete:
 
@@ -437,7 +490,9 @@ a) Divisão de Estudos e Investigação;
 
 b) Divisão de Recolha de Informação e Estatística.
 
-###### Artigo 19.º — Divisão de Estudos e Investigação
+###### Artigo 19.º
+
+##### Divisão de Estudos e Investigação
 
 À Divisão de Estudos e Investigação compete:
 
@@ -465,7 +520,9 @@ l) Acompanhar a execução da política de turismo, através da coordenação da
 
 m) Prestar o apoio técnico necessário à formulação das políticas do sector.
 
-###### Artigo 20.º — Divisão de Recolha de Informação e Estatística
+###### Artigo 20.º
+
+##### Divisão de Recolha de Informação e Estatística
 
 À Divisão de Recolha de Informação e Estatística compete:
 
@@ -499,7 +556,9 @@ b) Divisão de Recursos Turísticos;
 
 c) Divisão de Valorização da Oferta Turística.
 
-###### Artigo 22.º — Divisão de Ordenamento e Planeamento Físico
+###### Artigo 22.º
+
+##### Divisão de Ordenamento e Planeamento Físico
 
 À Divisão de Ordenamento e Planeamento Físico compete:
 
@@ -521,7 +580,9 @@ h) Representar a DGT nas comissões técnicas de acompanhamento dos planos refer
 
 i) Participar nas actividades das comissões de estudo e elaboração dos planos das obras das zonas de jogo e dar parecer sobre os mesmos planos.
 
-###### Artigo 23.º — Divisão de Recursos Turísticos
+###### Artigo 23.º
+
+##### Divisão de Recursos Turísticos
 
 À Divisão de Recursos Turísticos compete:
 
@@ -539,7 +600,9 @@ f) Proceder à qualificação dos recursos turísticos nacionais, tendo em vista
 
 g) Identificar novas áreas, produtos e serviços de interesse para o turismo.
 
-###### Artigo 24.º — Divisão de Valorização da Oferta Turística
+###### Artigo 24.º
+
+##### Divisão de Valorização da Oferta Turística
 
 À Divisão de Valorização da Oferta Turística compete:
 
@@ -587,7 +650,9 @@ d) Divisão de Turismo no Espaço Rural e Cinegético;
 
 e) Divisão de Agências de Viagens e Turismo.
 
-###### Artigo 26.º — Divisão de Estabelecimentos Hoteleiros
+###### Artigo 26.º
+
+##### Divisão de Estabelecimentos Hoteleiros
 
 À Divisão de Estabelecimentos Hoteleiros compete:
 
@@ -603,7 +668,9 @@ e) Vistoriar os estabelecimentos referidos na alínea anterior;
 
 f) Organizar e manter actualizado o registo dos empreendimentos a que se refere a alínea a).
 
-###### Artigo 27.º — Divisão de Meios Complementares de Alojamento Turístico
+###### Artigo 27.º
+
+##### Divisão de Meios Complementares de Alojamento Turístico
 
 À Divisão dos Meios Complementares de Alojamento Turístico compete:
 
@@ -621,7 +688,9 @@ f) Organizar os processos referentes ao direito real de habitação periódica e
 
 g) Organizar e manter actualizado o registo dos meios complementares de alojamento turístico.
 
-###### Artigo 28.º — Divisão de Restauração e Animação
+###### Artigo 28.º
+
+##### Divisão de Restauração e Animação
 
 À Divisão de Restauração e Animação compete:
 
@@ -633,7 +702,9 @@ c) Dar parecer sobre os projectos de animação turística;
 
 d) Organizar e manter actualizado o registo dos estabelecimentos de restauração e de bebidas e dos empreendimentos de animação turística.
 
-###### Artigo 29.º — Divisão de Turismo no Espaço Rural e Cinegético
+###### Artigo 29.º
+
+##### Divisão de Turismo no Espaço Rural e Cinegético
 
 À Divisão de Turismo no Espaço Rural e Cinegético compete:
 
@@ -653,7 +724,9 @@ g) Dar parecer sobre a concessão de zonas de caça turística, bem como propor 
 
 h) Vistoriar os empreendimentos referidos na alínea anterior e propor a revogação de concessões.
 
-###### Artigo 30.º — Divisão de Agências de Viagens e Turismo
+###### Artigo 30.º
+
+##### Divisão de Agências de Viagens e Turismo
 
 À Divisão de Agências de Viagens e Turismo compete:
 
@@ -681,7 +754,9 @@ b) Divisão de Apoio ao Consumidor e ao Investidor;
 
 c) Divisão de Informação.
 
-###### Artigo 32.º — Divisão de Relações Internacionais
+###### Artigo 32.º
+
+##### Divisão de Relações Internacionais
 
 À Divisão de Relações Internacionais compete:
 
@@ -697,7 +772,9 @@ e) Preparar e dar parecer sobre textos de acordos internacionais;
 
 f) Dar apoio em todas as áreas de cooperação no domínio do turismo com outros países e organizações estrangeiras.
 
-###### Artigo 33.º — Divisão de Apoio ao Consumidor e ao Investidor
+###### Artigo 33.º
+
+##### Divisão de Apoio ao Consumidor e ao Investidor
 
 1 - A Divisão de Apoio ao Consumidor e ao Investidor (DACI) é composta por dois gabinetes com especializações distintas:
 
@@ -733,7 +810,9 @@ f) Participação em eventos onde se perspective uma representação do sector e
 
 g) Recolha de informação relevante para os empresários e sistematização da mesma.
 
-###### Artigo 34.º — Divisão de Informação
+###### Artigo 34.º
+
+##### Divisão de Informação
 
 À Divisão de Informação compete:
 
@@ -917,15 +996,15 @@ O presente diploma entra em vigor no dia imediatamente a seguir ao da sua public
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes de Pina Moura.
 
-**Promulgado em 3 de Setembro de 1998.**
+Promulgado em 3 de Setembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Setembro de 1998.**
+Referendado em 8 de Setembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Mapa a que se refere o n.º 1 do artigo 42.º
 

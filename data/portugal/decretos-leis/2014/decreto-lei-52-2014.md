@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/52/2014/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2014-25344734
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 085494b9408b78a9f8d66dbb6584b316f25595a8695d78c170c17bc475e78bba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 699582f2b41c3764b3832a98f5873321d152162a0446947d99f799623a8899cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,160 +68,167 @@ subjects:
 - Acesso à Informação
 - Acidente de Trabalho
 - Administração Central
+- Administração Central do Sistema de Saúde
+- Administração Local
+- Administração Regional
+- Administração Regional de Saúde
 - ADSE
+- Agência de Gestão da Tesouraria e da Dívida Pública
 - Agência para o Desenvolvimento e Coesão
-- QREN
-- Investigador
 - Agrupamento de Escolas
 - Ajuste Direto
-- NATO
 - Alienação de BENS
 - Alienação de Imóveis
 - Alteração Orçamental
-- Reestruturação de Serviços
 - Aquisição de Bens e Serviços
+- Arrendamento Urbano não Habitacional
+- Arrendamento Urbano para Habitação
 - Associação de Municípios
-- Região Autónoma
+- Autarquia Local
 - Autonomia Administrativa
 - Autorização de Despesas
-- Financiamento
 - AVAL do Estado
-- Garantia
 - BEI
-- Hospital das Forças Armadas
-- Moeda Eletrónica
-- Ministério da Defesa Nacional
-- Formação Profissional
-- Investigação Científica e Tecnológica
+- Bolsa de Estudos
+- Caixa Geral de Aposentações
+- Camões - Instituto da Cooperação e da Língua
+- CASA PIA de Lisboa
+- Cobrança de Dívidas
 - Combate à Fraude
-- Gestão Financeira
 - Comissão para a Igualdade no Trabalho e no Emprego
 - Concurso Público
-- Deficiente das Forças Armadas
-- Instituto Portuário e dos Transportes Marítimos
-- Pocissss
+- Contabilidade Pública
+- Contratação de Pessoal
+- Contratação Pública
 - Contrato Administrativo
-- Arrendamento Urbano não Habitacional
 - Contrato de Prestação de Serviços
+- Contrato de Trabalho
 - Contribuições da Segurança Social
 - Controlo Orçamental
-- Política de Cooperação
+- Créditos do Estado
+- Cuidados Médicos
 - Dação em Cumprimento
+- Deficiente das Forças Armadas
 - Definição de Competências
 - Deslocação em Serviço
 - Despesas Públicas
-- Administração Regional de Saúde
-- Instituto de Gestão do Crédito Público
+- Direção Geral de Política do Mar
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Direção Geral do Orçamento
 - Direção Geral do Tesouro e Finanças
+- Direcção Geral da Administração da Justiça
 - Dívidas ao Estado
 - Dívidas das Autarquias Locais
 - Docapesca-sociedade Concessionária da DOCA de Pesca
-- Dotação Orçamental
 - Documento Único de Cobrança
+- Doença Profissional
+- Dotação Orçamental
 - Empreitada de Obras Públicas
+- Empresa Pública
 - Empresa Pública Municipal
 - Empresa Pública Regional
-- Empresa Pública
-- Universidade de Aveiro
-- Serviço Nacional de Saúde
+- Ensino Superior
+- Entidade de Serviços Partilhados da Administração Pública
+- Estabelecimento de Ensino
 - Estrutura de Missão para a Extensão da Plataforma Continental
+- Evasão Fiscal
 - Execução do Orçamento
-- Caixa Geral de Aposentações
-- Lisboa
+- Financiamento
+- Formação Profissional
+- FSE
+- Funcionário Público
 - Fundo de Estabilização Financeira da Segurança Social
-- Secretaria Geral
-- Ministério da Economia
 - Fundo de Maneio
 - Fundo de Pensões dos Militares das Forças Armadas
-- Titularização de Créditos
+- Fundo para as Relações Internacionais
 - Fundos Autónomos
 - Gabinete Governamental
-- Créditos do Estado
+- Garantia
 - Gestão do Património
+- Gestão Financeira
 - Gestão Orçamental
-- Ministério das Finanças
-- Pagamento
-- Ministério da Educação e Ciência
+- Hospital das Forças Armadas
 - IFAP
+- Incapacidade Permanente
+- Incapacidade Temporária
+- Instituto de Gestão do Crédito Público
 - Instituto de Gestão Financeira da Segurança Social
-- CASA PIA de Lisboa
+- Instituto Portuário e dos Transportes Marítimos
 - Instituto Português do Mar e da Atmosfera
 - Instituto Público
-- Universidade do Porto
 - Interpretação do Direito
+- Investigação Científica e Tecnológica
+- Investigador
 - Iscte
 - Junta de Freguesia
 - Junta Médica
-- Veículo
 - Linha de Crédito
+- Lisboa
 - Locação Financeira
-- Santa Casa da Misericórdia
-- FSE
-- Contratação de Pessoal
 - Membros do Governo
 - Mercado Agrícola
-- Direção Geral de Política do Mar
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Administração Central do Sistema de Saúde
-- Agência de Gestão da Tesouraria e da Dívida Pública
-- Direção Geral do Orçamento
-- Entidade de Serviços Partilhados da Administração Pública
-- Camões - Instituto da Cooperação e da Língua
-- Fundo para as Relações Internacionais
+- Ministério da Defesa Nacional
+- Ministério da Economia
+- Ministério da Educação e Ciência
+- Ministério da Saúde
+- Ministério das Finanças
+- Ministério dos Negócios Estrangeiros
 - Missão de PAZ
 - Missão Humanitária
-- Sistema de Normalização Contabilística
-- Orçamento Geral do Estado
+- Mobilidade de Pessoal
+- Moeda Eletrónica
+- NATO
 - Operações de Tesouraria
 - Orçamento da Segurança Social
+- Orçamento Geral do Estado
 - Organismo Autónomo
 - Organismo do Estado
+- Pagamento
 - Património do Estado
-- Doença Profissional
 - Pessoa Colectiva de Direito Público
+- Pessoal Docente
 - Pessoal não Docente
 - Plano Oficial de Contabilidade Pública
-- Sistema de Informação
-- Evasão Fiscal
-- Estabelecimento de Ensino
-- Pessoal Docente
+- Pocissss
+- Política de Cooperação
+- Prédio Urbano
 - Prestação de Contas
 - Prestação de Serviços
 - Prestações da Segurança Social
-- Cuidados Médicos
+- Proteção Social
+- QREN
 - Receita Própria
 - Receita Pública
-- Cobrança de Dívidas
-- Direcção Geral da Administração da Justiça
-- Proteção Social
-- Ministério da Saúde
 - Reembolso
-- Administração Local
-- Contrato de Trabalho
-- Ensino Superior
-- Bolsa de Estudos
+- Reestruturação de Serviços
+- Região Autónoma
 - Remuneração
 - Reposição de Verbas
-- Mobilidade de Pessoal
-- Incapacidade Temporária
-- Ministério dos Negócios Estrangeiros
+- Santa Casa da Misericórdia
+- Secretaria Geral
 - Sector Empresarial Local
 - Segurança Social
-- Funcionário Público
-- Administração Regional
-- Contabilidade Pública
-- Prédio Urbano
-- Arrendamento Urbano para Habitação
-- Incapacidade Permanente
+- Serviço Nacional de Saúde
+- Sistema de Informação
+- Sistema de Normalização Contabilística
+- Titularização de Créditos
 - Transferência de Verbas
 - Transferência Patrimonial
-- Autarquia Local
-- Contratação Pública
+- Universidade de Aveiro
+- Universidade do Porto
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:57701290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:57701290:por
+  label: Determinada a exclusão das alterações orçamentais que resultem da aplicação do Programa SOLARH (regulado pelo Dec
+    Lei 39/2001, de 09-fev, posteriormente alterado) do âmbito de aplicação da al. c) do n.º 2 do art. 7.º do presente diploma
+    pelo(a) Lei n.º 75-A/2014 - Diário da República n.º 188/2014, 1º Suplemento, Série I de 2014-09-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-a-2014-57701290
+  date: '2014-09-30'
 - type: cites
   target: celex:31993R3605
   label: null
@@ -230,16 +237,21 @@ relationships:
   target: celex:32004R1222
   label: null
   source: http://data.europa.eu/eli/reg/2004/1222/oj
+- type: corrected_by
+  target: pt:dre:25344031:por
+  label: "Retificado o nº 9 do art. 7º, pela DECL-RECT.25/2014.11.04.2014.SG-PCM, DR.IS [72] de 11.04.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/25-2014-25344031
+  date: '2014-04-11'
 article_structure:
   article_count: 72
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:28Z'
   warnings: []
   errors: []
 ---
@@ -1214,18 +1226,18 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de fevereiro de 2014. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Álvaro Barbosa de Campos Ferreira - Berta Maria Correia de Almeida de Melo Cabral - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - Luís Maria de Barros Serra Marques Guedes - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - José Diogo Santiago de Albuquerque - Manuel Ferreira Teixeira - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 3 de abril de 2014.**
+Promulgado em 3 de abril de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de abril de 2014.**
+Referendado em 4 de abril de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 55.º)
 
 Transferências das entidades municipais para o SNS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/04/06800/0229502319.pdf))](https://files.diariodarepublica.pt/1s/2014/04/06800/0229502319.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/04/06800/0229502319.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/78/2011/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe0f1763044e7d7c633adf106e1ab5b826d534749b83924363679cc5ffa5f1dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7c8e710b1454a398c5dd4666576f888c067a4ce5ff143275ea4452febc83637
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,32 +68,58 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Distribuição de Energia Elétrica
+- Açores
 - Aproximação das Legislações
-- Energia Elétrica
 - Definição de Competências
+- Direção Geral de Energia e Geologia
+- Distribuição de Energia Elétrica
 - EDP
+- Energia Elétrica
 - Entidade Reguladora da Saúde
 - Entidade Reguladora do Sector Eléctrico
-- Direção Geral de Energia e Geologia
-- Licenciamento
-- Mercado Interno
 - Informação do Consumidor
+- Licenciamento
+- Madeira.região Autónoma
+- Mercado Interno
 - Preço
 - Produção de Energia Elétrica
-- Madeira.região Autónoma
 - Proteção do Consumidor
 - Rede Elétrica de Serviço Público
 - Rede Elétrica Nacional
 - REDE Nacional de Distribuição de Electricidade em Média e ALTA Tensão
 - Rede Nacional de Transporte de Energia Elétrica
 - Regime Jurídico
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:70128401:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553927:por
+  label: "Alterado do art. 46º do Dec Lei 29/2006, de 15-Fev , na redação do presente diploma, pelo DEC LEI.75/2012.26.03.2012.MEE,\
+    \ DR.IS [61] de 26.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-2012-553927
+  date: '2012-03-26'
+- type: amended_by
+  target: pt:dre:177864:por
+  label: "Alterado o art. 25º do Dec Lei 29/2006, de 15-fev, na redação do presente diploma, pelo DEC LEI.112/2012.23.05.2012.MEE,\
+    \ DR.IS [100] de 23.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-2012-177864
+  date: '2012-05-23'
+- type: amended_by
+  target: pt:dre:588860:por
+  label: "Alterados , a partir de 09.10.2012, os arts. 3º, 6º, 9º, 18º, 20º (a alteração aos dois últimos artigos entra em\
+    \ vigor nos termos do nº2 do art. 7º), 22º, 24º, 25º, 25º -A , 25º -B, 30º, 35º, 36º, 36º -A , 41º, 41º -A , 42º, 43º\
+    \ -A, 45º -A, 45º -B, 46º, 47º, 53º, 54º, 57º -A, 58º, 61º, 63º, 77º e 78º -A do Dec Lei 29/2006, de 15-fev, na redação\
+    \ do presente diploma, pelo DEC LEI.215-A/2012.08.10.2012.MEE, DR.IS [194-Supl] de 08.10.2012\012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2012-588860
+  date: '2012-10-08'
+- type: amended_by
+  target: pt:dre:70128401:por
+  label: Alterado o art. 73.º-A do Dec Lei 29/2006, de 15-fev, aditado pelo presente diploma pelo(a) Decreto-Lei n.º 178/2015
+    - Diário da República n.º 167/2015, Série I de 2015-08-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2015-70128401
+  date: '2015-08-27'
 - type: cites
   target: celex:31983L0349
   label: null
@@ -123,15 +149,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/29/2006/02/15/p/dre
 article_structure:
-  article_count: 138
+  article_count: 100
   section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:53Z'
   warnings: []
   errors: []
 ---
@@ -258,7 +284,9 @@ mm) [Anterior alínea ll).]
 
 nn) [Anterior alínea mm).]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -290,7 +318,9 @@ g) ...
 
 h) Direito de reclamação e ao seu tratamento eficiente.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -308,7 +338,9 @@ b) O tratamento eficiente das reclamações através das entidades administrativ
 
 6 - Entende-se por 'cliente vulnerável' as pessoas singulares que se encontrem em situação de carência sócio-económica e que, tendo o direito de acesso ao serviço essencial de fornecimento de energia eléctrica, devem ser protegidas, nomeadamente no que respeita a preços.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -324,23 +356,31 @@ e) Promover o desenvolvimento de infra-estruturas fundamentais para a construç�
 
 2 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Considera-se 'produção de electricidade em regime especial' a actividade sujeita a regimes jurídicos especiais, no âmbito da adopção de políticas destinadas a incentivar a produção de electricidade, incluindo a produção descentralizada, nomeadamente através da utilização de recursos endógenos renováveis ou de tecnologias de produção em co-geração.
 
 2 - O regime jurídico de produção em regime especial é estabelecido na lei.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Os produtores de electricidade em regime especial gozam do direito de vender toda ou parte da electricidade que produzem a um comercializador, incluindo o comercializador de último recurso, em mercados organizados ou através de contratos bilaterais, nas condições estabelecidas na lei.
 
 2 - Os produtores de electricidade em regime especial podem igualmente fornecer serviços de sistema, através da celebração de contratos com o operador de sistema, ou através da participação em mercados organizados, nos termos previstos na lei.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 A RNT compreende as redes que integram a concessão do operador da RNT, as interligações e as instalações para operação da rede de transporte.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -380,7 +420,9 @@ o) Publicar as informações necessárias para assegurar uma concorrência efect
 
 5 - O operador da RNT não pode utilizar abusivamente informações comercialmente sensíveis obtidas de terceiros no âmbito do fornecimento ou da negociação do acesso à rede.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - O operador da RNT é independente, no plano jurídico e patrimonial, das entidades que exerçam, directamente ou através de empresas coligadas, actividades de produção ou comercialização de electricidade ou gás natural.
 
@@ -418,7 +460,9 @@ c) A detenção da maioria do capital social.
 
 5 - Para efeitos do presente decreto-lei, entende-se que uma empresa exerce controlo sobre outra quando uma delas é detentora de uma posição jurídica que lhe confira a possibilidade de exercer influência determinante sobre outra, em especial através de direitos de propriedade, de uso ou de fruição sobre a totalidade ou parte dos activos de uma empresa ou de direitos ou contratos que conferem influência determinante na composição, na votação ou nas decisões dos órgãos de uma empresa.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - O planeamento da RNT deve prever medidas destinadas a garantir a adequação da rede e a segurança do abastecimento, assegurando, nomeadamente, a existência de capacidade para a recepção e entrega de electricidade, com níveis adequados de segurança e de qualidade de serviço, no âmbito do mercado interno da electricidade.
 
@@ -436,7 +480,9 @@ b) As medidas de articulação necessárias ao cumprimento junto da Agência de 
 
 6 - O plano de desenvolvimento e investimento da rede de transporte bem como os respectivos procedimentos obedecem aos termos estabelecidos na lei.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -462,7 +508,9 @@ i) [Anterior alínea h).]
 
 3 - ...
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -480,7 +528,9 @@ e) O operador da rede de distribuição deve garantir a diferenciação da sua i
 
 3 - Sem prejuízo da separação contabilística das actividades, a separação jurídica prevista no presente artigo e a forma de comunicação prevista na alínea e) do número anterior não são exigidas aos operadores das redes de distribuição de BT que abasteçam um número de clientes inferior a 100 000.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -494,7 +544,9 @@ e) O operador da rede de distribuição deve garantir a diferenciação da sua i
 
 6 - O PDIRD bem como os respectivos procedimentos obedecem aos termos estabelecidos na lei.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - O exercício da actividade de comercialização de electricidade é livre, ficando sujeito a registo prévio, nos termos estabelecidos na lei.
 
@@ -502,11 +554,15 @@ e) O operador da rede de distribuição deve garantir a diferenciação da sua i
 
 3 - O exercício da actividade de comercialização de electricidade consiste na compra e venda de electricidade, para comercialização a clientes finais ou outros agentes, através da celebração de contratos bilaterais ou da participação em mercados organizados.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 A actividade de comercialização de electricidade é separada juridicamente das restantes actividades.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - Os comercializadores de electricidade podem contratar a electricidade necessária ao abastecimento dos seus clientes através da celebração de contratos bilaterais ou através da participação em mercados organizados.
 
@@ -520,7 +576,9 @@ A actividade de comercialização de electricidade é separada juridicamente das
 
 6 - ...
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - ...
 
@@ -532,7 +590,9 @@ b) As fontes de consulta em que se baseiam as informações facultadas ao públi
 
 3 - Para além do disposto nos números anteriores, os comercializadores devem, ainda, em matéria de rotulagem de electricidade, cumprir com as disposições estabelecidas na lei e regulamentação aplicável.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - Considera-se 'comercializador de último recurso' aquele que estiver sujeito a obrigações de serviço público universal, nos termos previstos na presente subsecção e na respectiva licença.
 
@@ -542,13 +602,17 @@ b) As fontes de consulta em que se baseiam as informações facultadas ao públi
 
 4 - (Revogado.)
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - A actividade de comercialização de electricidade de último recurso é separada juridicamente das restantes actividades, incluindo outras formas de comercialização, sendo exercida segundo critérios de independência, nos termos da lei, sem prejuízo do disposto no n.º 3 do artigo 36.º
 
 2 - O comercializador de último recurso deve diferenciar as suas imagem e comunicação das restantes entidades que actuam no âmbito do SEN por forma a não induzir confusão com estas últimas entidades, nos termos estabelecidos no Regulamento de Relações Comerciais.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - ...
 
@@ -582,7 +646,9 @@ b) Disporem de uma ampla escolha quanto aos métodos de pagamento, que não deve
 
 9 - A todos os clientes é garantido o fornecimento de electricidade nos termos previstos no presente decreto-lei.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - Sem prejuízo do disposto nas Leis n.os 24/96, de 31 de Julho, alterada pela Lei n.º 85/98, de 16 de Dezembro, e pelo Decreto-Lei n.º 67/2003, de 8 de Maio, e 23/96, de 26 de Julho, alterada pelas Leis n.os 12/2008, de 26 de Fevereiro, 24/2008, de 2 de Junho, e 6/2011, de 10 de Março, os consumidores, ou os seus representantes, têm direito a:
 
@@ -602,7 +668,9 @@ g) Acesso aos dados de consumo.
 
 2 - Os comercializadores e operadores das redes de distribuição de electricidade devem fornecer aos seus clientes, nos termos e na forma estabelecidos no Regulamento de Relações Comerciais, o catálogo ou lista dos direitos dos consumidores de energia, nos termos aprovados pela Comissão Europeia.
 
-###### Artigo 57.º — Actividades sujeitas a regulação
+Artigo 57.º
+
+Actividades sujeitas a regulação
 
 1 - As actividades de transporte, de distribuição e de comercialização de electricidade, bem como as de operação logística de mudança de comercializador e de gestão de mercados organizados, estão sujeitas a regulação, sem prejuízo do disposto nos números seguintes.
 
@@ -610,7 +678,9 @@ g) Acesso aos dados de consumo.
 
 3 - A regulação exerce-se nos termos e com os limites previstos no presente decreto-lei e na legislação que defina as competências das entidades referidas no número anterior.
 
-###### Artigo 58.º — Atribuições e competências da regulação no âmbito do SEN
+Artigo 58.º
+
+Atribuições e competências da regulação no âmbito do SEN
 
 Sem prejuízo das atribuições e competências das entidades referidas no artigo 57.º, do previsto nos seus Estatutos, no presente decreto-lei, nos regulamentos comunitários e na lei, a ERSE tem relativamente à regulação do SEN as seguintes atribuições e competências:
 
@@ -640,7 +710,9 @@ m) Conduzir inquéritos, realizar auditorias, efectuar inspecções nas instala�
 
 n) Actuar como autoridade para o tratamento das reclamações no âmbito do incumprimento dos seus regulamentos.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - O cálculo e a fixação das tarifas reguladas aplicáveis às diversas actividades, considerando como tal as tarifas de uso das redes, de uso global do sistema e comercialização de último recurso, obedecem aos seguintes princípios:
 
@@ -664,13 +736,17 @@ h) ...
 
 3 - A fixação das demais tarifas e preços de venda a clientes finais não abrangidos pelo n.º 1 do presente artigo são da responsabilidade dos comercializadores de mercado, devendo na sua fixação ter em conta os princípios estabelecidos no n.º 1 naquilo que não for incompatível com a sua natureza de comercializador de mercado.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - As regras e as metodologias para o cálculo e fixação das tarifas reguladas previstas no n.º 1 do artigo anterior, bem como a estrutura tarifária, são estabelecidas no Regulamento Tarifário.
 
 2 - ...
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - ...
 
@@ -680,7 +756,9 @@ h) ...
 
 4 - O Governo publica o relatório sobre a monitorização da segurança do abastecimento previsto no número anterior, dando conhecimento do mesmo à Comissão Europeia e à ERSE.
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - Sem prejuízo do regime geral de acesso à actividade de produção, o Governo pode, em último recurso, promover procedimento concursal para a atribuição de licença para a construção e a exploração de centros electroprodutores destinados a assegurar as necessidades de energia e potência identificadas no relatório de monitorização da segurança do abastecimento ou no PDIRT.
 
@@ -692,7 +770,9 @@ h) ...
 
 5 - (Revogado.)
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - ...
 
@@ -738,7 +818,9 @@ Certificação do operador da RNT
 
 8 - Os procedimentos a observar para a certificação do cumprimento das condições previstas no n.º 1 são estabelecidos na regulamentação da ERSE.
 
-###### Artigo 25.º-B — Reapreciação das condições de certificação do operador da RNT
+Artigo 25.º-B
+
+Reapreciação das condições de certificação do operador da RNT
 
 1 - O operador da RNT deve notificar a ERSE de quaisquer alterações ou transacções previstas que possam exigir a reapreciação das condições que foram objecto de certificação para avaliar do cumprimento do disposto no n.º 1 do artigo anterior.
 
@@ -746,7 +828,9 @@ Certificação do operador da RNT
 
 3 - A ERSE deve desencadear um processo de reapreciação da certificação sempre que tenha conhecimento da realização ou da previsão de alterações ou transacções que levem ao incumprimento das condições da certificação do operador da RNT.
 
-###### Artigo 36.º-A — Programa de conformidade do operador de rede de distribuição
+Artigo 36.º-A
+
+Programa de conformidade do operador de rede de distribuição
 
 1 - O operador de uma rede de distribuição que pertença a empresa verticalmente integrada e sirva um número de clientes igual ou superior a 100 000 deve elaborar um programa de conformidade que contemple as medidas adoptadas para excluir comportamentos discriminatórios.
 
@@ -760,7 +844,9 @@ Certificação do operador da RNT
 
 6 - Os termos e a forma a que devem obedecer o programa de conformidade e os relatórios de acompanhamento da sua execução, bem como a sua publicitação, constam do Regulamento de Relações Comerciais.
 
-###### Artigo 41.º-A — Redes de distribuição fechadas
+Artigo 41.º-A
+
+Redes de distribuição fechadas
 
 1 - Considera-se 'rede de distribuição fechada' uma rede que se integre em domínios ou infra-estruturas excluídas do âmbito das concessões de distribuição de electricidade dos municípios, nomeadamente uma rede que distribua electricidade no interior de um sítio industrial, comercial ou de serviços partilhados, geograficamente circunscritos, caminhos de ferro, portos, aeroportos e parques de campismo, e preencha um dos seguintes requisitos:
 
@@ -774,13 +860,17 @@ b) A rede distribuir electricidade essencialmente ao proprietário ou ao operado
 
 4 - Caso um utilizador de uma rede fechada não concorde, por falta de transparência e razoabilidade, com as tarifas de acesso ou as suas metodologias, pode solicitar a intervenção da ERSE para analisar e, caso necessário, fixar as tarifas segundo as metodologias a estabelecer por esta entidade nos seus regulamentos.
 
-###### Artigo 42.º-A — Reconhecimento de comercializadores
+Artigo 42.º-A
+
+Reconhecimento de comercializadores
 
 1 - No âmbito do funcionamento de mercados constituídos ao abrigo de acordos internacionais de que o Estado Português seja parte, o reconhecimento da qualidade de comercializador por uma das partes significa o reconhecimento automático pela outra, nos termos previstos nos respectivos acordos.
 
 2 - Compete à DGEG efectuar o registo dos comercializadores reconhecidos nos termos do número anterior.
 
-###### Artigo 43.º-A — Direitos e deveres do comercializador
+Artigo 43.º-A
+
+Direitos e deveres do comercializador
 
 1 - Constituem direitos do comercializador, nomeadamente, os seguintes:
 
@@ -812,7 +902,9 @@ i) Prestar informações à DGEG e à ERSE sobre consumos e tarifas das diversas
 
 j) Manter a capacidade técnica, legal e financeira necessárias para o exercício da função.
 
-###### Artigo 45.º-A — Relações com os clientes
+Artigo 45.º-A
+
+Relações com os clientes
 
 1 - O contrato de fornecimento de energia eléctrica está sujeito à forma escrita.
 
@@ -852,7 +944,9 @@ l) Informar os clientes sobre o seu consumo, os preços e as tarifas aplicáveis
 
 8 - Os comercializadores devem notificar directamente os seus clientes de qualquer aumento dos encargos resultante de alteração de condições contratuais, previamente à entrada em vigor do aumento, podendo os clientes rescindir os contratos se não aceitarem as novas condições que lhes sejam notificadas pelos respectivos comercializadores.
 
-###### Artigo 45.º-B — Informação sobre preços
+Artigo 45.º-B
+
+Informação sobre preços
 
 1 - Os comercializadores ficam obrigados a enviar à ERSE, anualmente e sempre que ocorram alterações, nos termos do Regulamento de Relações Comerciais, a tabela de preços de referência relativos aos fornecimentos em BT que se propõem praticar no âmbito da comercialização de electricidade, bem como as suas alterações, nos termos a regulamentar por esta entidade.
 
@@ -866,7 +960,9 @@ b) Enviar à ERSE trimestralmente os preços praticados a todos os clientes nos 
 
 4 - A informação prevista no presente artigo fica sujeita a supervisão da ERSE, ficando os comercializadores obrigados a facultar-lhe toda a documentação necessária e o acesso directo aos registos que suportam esta informação.
 
-###### Artigo 57.º-A — Objectivos gerais da regulação da ERSE
+Artigo 57.º-A
+
+Objectivos gerais da regulação da ERSE
 
 A regulação da electricidade pela ERSE visa a prossecução dos seguintes objectivos:
 
@@ -888,7 +984,9 @@ h) Contribuição para a emergência de mercados retalhistas transparentes e efi
 
 i) Garantia de acesso dos clientes e comercializadores às redes, bem como o direito dos grandes clientes de celebrar contratos simultaneamente com diversos comercializadores.
 
-###### Artigo 65.º-A — Manutenção de dados e informações relevantes
+Artigo 65.º-A
+
+Manutenção de dados e informações relevantes
 
 1 - As empresas de electricidade estão obrigadas a manter à disposição da DGEG, da ERSE, da Autoridade da Concorrência e da Comissão Europeia, para cumprimento das respectivas obrigações e competências, todos os suportes contratuais e dados e informações relativos a todas as transacções relevantes de electricidade, nos termos estabelecidos no Regulamento de Relações Comerciais.
 
@@ -902,7 +1000,9 @@ i) Garantia de acesso dos clientes e comercializadores às redes, bem como o dir
 
 6 - A ERSE pode tornar pública a informação prevista no presente artigo, salvaguardando a informação considerada comercialmente sensível sobre intervenientes ou transacções em concreto, nos termos do Regulamento de Relações Comerciais.
 
-###### Artigo 73.º-A — Repercussão dos sobrecustos com a aquisição de energia a produtores em regime especial
+Artigo 73.º-A
+
+Repercussão dos sobrecustos com a aquisição de energia a produtores em regime especial
 
 1 - Os sobrecustos com a produção em regime especial determinados nos termos da lei, incluindo os ajustamentos dos dois anos anteriores, devem ser repercutidos nos proveitos a recuperar pelas empresas reguladas num período quinquenal, para efeitos do cálculo das tarifas para 2012.
 
@@ -920,7 +1020,9 @@ i) Garantia de acesso dos clientes e comercializadores às redes, bem como o dir
 
 8 - De acordo com o regime de transferência intertemporal estabelecido no presente artigo, só podem ser repercutidos nos proveitos a recuperar pelas empresas reguladas os ajustamentos tarifários referentes a sobrecustos com a produção em regime especial ocorridos até 31 de Dezembro de 2015.
 
-###### Artigo 78.º-A — Sistemas inteligentes
+Artigo 78.º-A
+
+Sistemas inteligentes
 
 1 - Designam-se por sistemas inteligentes os sistemas destinados à medição da energia eléctrica e gestão da informação relativa à electricidade que favoreçam a participação activa do consumidor no mercado de fornecimento de electricidade.
 
@@ -960,15 +1062,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Março de 2011. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto de Sousa Martins - José António Fonseca Vieira da Silva.
 
-**Promulgado em 11 de Maio de 2011.**
+Promulgado em 11 de Maio de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Maio de 2011.**
+Referendado em 12 de Maio de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 29/2006, de 15 de Fevereiro
 

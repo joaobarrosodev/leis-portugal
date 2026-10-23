@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/27522755.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/154/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2007-521013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:56:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f51623b71c3c0bc81488901f9c79bb1be083a07da6f69fce113d7d42b7d652f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9de3401f7fa0d6049b55a7285e950c8e801b3207931b08ad05aea00125fbeed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
+- Bolsa de Estudos
 - Carreira de Investigação Científica
-- Investigação Científica e Tecnológica
-- Pessoal Dirigente
-- Unidade de Acompanhamento
+- Centro Científico e Cultural de Macau
 - Conselho Científico
 - Definição de Competências
 - Diretor
-- Centro Científico e Cultural de Macau
-- Orgânica
-- Pessoal Docente
-- Bolsa de Estudos
+- Fiscal Único
+- Investigação Científica e Tecnológica
 - Ministério da Ciência Tecnologia e Ensino Superior
+- Orgânica
+- Pessoal Dirigente
+- Pessoal Docente
+- Unidade de Acompanhamento
 relationships:
 - type: amended_by
   target: pt:dre:543880:por
@@ -103,16 +103,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:226629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673641:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:543880:por
+  label: "Revogado, a partir de 01.02.2012, pelo DEC LEI.20/2012.27.01.2012.MECI, DR.IS [20] de 27.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2012-543880
+  date: '2012-01-27'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:56:54Z'
   warnings: []
   errors: []
 ---
@@ -301,12 +326,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 2007 - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Fernando Teixeira dos Santos - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima.
 
-**Promulgado em 13 de Abril de 2007.**
+Promulgado em 13 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 19 de Abril de 2007.**
+Referendado em 19 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

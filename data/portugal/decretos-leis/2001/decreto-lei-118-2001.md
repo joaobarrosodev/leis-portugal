@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/118/2001/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2001-164212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:24:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3769b5c51fbf37b516417db8cfdaba6f29fb7ba15dfeeae8c2c8a58d582e682b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76349ee3cc04f1c4ac6d71dabc402bca87f1ffd7d3692c50b0afa6e4e3472a73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:24:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituição de Crédito
-- EURO
 - Banco de Portugal
+- EURO
+- Instituição de Crédito
 - Orgânica
 - Responsabilidade Civil
 relationships:
@@ -75,20 +75,26 @@ relationships:
   target: pt:dre:517844:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517844:por
+  label: "Alterado o art. 59º da orgânica do Banco de Portugal, aprovada pela lei 5/98 de 31-Jan, na redacção do presente\
+    \ diploma, pelo DEC LEI.39/2007.20.02.2007.MFAP, DR.IS [36] de 20.02.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2007-517844
+  date: '2007-02-20'
 - type: cites
   target: eli:/application/external/tratado
   label: null
   source: /application/external/tratado
 article_structure:
-  article_count: 7
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:24:03Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +125,7 @@ Os artigos 4.º, 6.º, 39.º, 59.º, 64.º e 65.º da Lei Orgânica do Banco de 
 
 2 - ...
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - Nos termos do artigo 106.º do Tratado que institui a Comunidade Europeia, o Banco emite notas com curso legal e poder liberatório.
 
@@ -127,11 +133,11 @@ Os artigos 4.º, 6.º, 39.º, 59.º, 64.º e 65.º da Lei Orgânica do Banco de 
 
 3 - ...
 
-###### Artigo 39.º
+Artigo 39.º
 
 Dos actos praticados pelo governador, vice-governadores, conselho de administração e demais órgãos do Banco, ou por delegação sua, no exercício de funções públicas de autoridade, cabem os meios de recurso ou acção previstos na legislação própria do contencioso administrativo, incluindo os destinados a obter a declaração de ilegalidade de normas regulamentares.
 
-###### Artigo 59.º
+Artigo 59.º
 
 1 - ...
 
@@ -143,7 +149,7 @@ a) As instruções do Banco;
 
 b) Outros actos que por lei devam ser publicados.
 
-###### Artigo 64.º
+Artigo 64.º
 
 1 - Em tudo o que não estiver previsto na presente Lei Orgânica e nos regulamentos adoptados em sua execução, o Banco, salvo o disposto no número seguinte, rege-se pelas normas da legislação reguladora da actividade das instituições de crédito, quando aplicáveis, e pelas demais normas e princípios do direito privado.
 
@@ -153,7 +159,7 @@ b) Outros actos que por lei devam ser publicados.
 
 4 - O Banco está sujeito a registo comercial nos termos gerais, com as adaptações que se revelem necessárias.
 
-###### Artigo 65.º
+Artigo 65.º
 
 Mantêm-se em vigor até 28 de Fevereiro de 2002, data a partir da qual se considerarão revogados, os artigos 6.º a 9.º da Lei Orgânica do Banco de Portugal, com a redacção do Decreto-Lei n.º 337/90, de 30 de Outubro, sem prejuízo da competência exclusiva do BCE para autorizar a emissão.»
 
@@ -163,12 +169,12 @@ O artigo 64.º da Lei Orgânica do Banco de Portugal, com a redacção que lhe �
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura.
 
-**Promulgado em 30 de Março de 2001.**
+Promulgado em 30 de Março de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Abril de 2001.**
+Referendado em 5 de Abril de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

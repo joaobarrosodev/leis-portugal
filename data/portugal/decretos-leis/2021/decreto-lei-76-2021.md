@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/16700/0000200023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/76/2021/08/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f9fb679d4571a35dd8b31e226b5c16897856a5428721847538abf2cd05115de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d768c9b5a3fe2422d1466bb58e73bbc3c983de7ecbe0a1d952e175b3e764ff0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abastecimento
-- Produto Alimentar
+- Alimentação Humana
 - Aproximação das Legislações
-- Empresa
+- ASAE
 - CE Países
-- Contra-ordenação
-- Contrato de Compra e Venda
+- Comércio
 - Concorrência
-- União Europeia
+- Contra-ordenação
+- Contraordenação Económica
+- Contrato de Compra e Venda
+- Empresa
 - Fiscalização
-- Pagamento
+- Indústria Alimentar
 - JURO de MORA
 - Juros
-- ASAE
 - Medidas Preventivas
-- Alimentação Humana
+- Pagamento
 - Prazo
 - Preço
-- Proteção do Consumidor
-- Indústria Alimentar
-- Comércio
 - Produto Agrícola
+- Produto Alimentar
+- Proteção do Consumidor
 - Transacção Comercial
-- Contraordenação Económica
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:175506671:por
+  label: Alterado, a partir de 01.01.2022, o art. 9.º e aditado, na mesma data, o art. 5.º-A ao Dec Lei 166/2013, de 27-dez,
+    na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 108/2021 - Diário da República n.º 236/2021, Série
+    I de 2021-12-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2021-175506671
+  date: '2021-12-07'
 - type: cites
   target: celex:32013R1308
   label: null
@@ -143,16 +150,72 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:117279933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124283152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124539914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70485721:por
+  label: null
+  source: null
 article_structure:
-  article_count: 62
+  article_count: 49
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:31Z'
   warnings: []
   errors: []
 ---
@@ -205,7 +268,9 @@ Os artigos 1.º, 2.º e 4.º a 6.º-A do [Decreto-Lei n.º 118/2010](https://dia
 
 2 - (Revogado.)
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O presente decreto-lei é aplicável:
 
@@ -219,7 +284,9 @@ c) (Revogada.)
 
 3 - (Revogado.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -229,7 +296,9 @@ c) (Revogada.)
 
 4 - A documentação necessária para efeitos de prova do cumprimento do disposto no presente decreto-lei, designadamente as guias de remessa ou documentos equivalentes, e as faturas, deve ser mantida em arquivo físico ou digital por um período de três anos e disponibilizada à entidade fiscalizadora mediante solicitação.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O incumprimento da obrigação de pagamento do preço no prazo de vencimento referido no artigo 3.º-A faz acrescer à taxa supletiva de juro moratório fixada nos termos do artigo 102.º do Código Comercial ou à taxa de juro convencionada o montante de 2 %.
 
@@ -237,7 +306,9 @@ c) (Revogada.)
 
 3 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
 
@@ -249,7 +320,9 @@ c) A não prestação ou a prestação de informações falsas, inexatas ou inco
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 6.º-A — [...]
+Artigo 6.º-A
+
+[...]
 
 1 - Podem ser estabelecidos prazos de pagamento superiores aos previstos no presente decreto-lei, desde que tal possibilidade resulte do disposto em instrumento de autorregulação que envolva as estruturas representativas dos intervenientes, designadamente da distribuição, da indústria e da produção, nos termos definidos no regime jurídico aplicável às práticas individuais restritivas do comércio, em conformidade com a Diretiva (UE) [2019/633](http://data.europa.eu/eli/dir/2019/633/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de abril de 2019.
 
@@ -303,7 +376,9 @@ b) 50 dias nos casos previstos no n.º 4.
 
 6 - Para efeitos dos n.os 1, 3 e 4, o volume anual de negócios dos fornecedores e dos compradores deve ser entendido de acordo com as partes pertinentes do anexo da [Recomendação n.º 2003/361/CE](http://data.europa.eu/eli/reco/2003/361/oj?locale=pt), da Comissão Europeia, de 6 de maio de 2003, relativa à definição de micro, pequena e média empresa, em particular, com os seus artigos 3.º, 4.º e 6.º, incluindo as definições de 'empresa autónoma', 'empresa parceira' e 'empresa associada', e outras questões relacionadas com o volume anual de negócios.
 
-###### Artigo 3.º-B — Exceções relativas ao prazo de pagamento no setor agroalimentar
+Artigo 3.º-B
+
+Exceções relativas ao prazo de pagamento no setor agroalimentar
 
 1 - O disposto no artigo 3.º-A não prejudica:
 
@@ -317,7 +392,9 @@ a) Aos pagamentos efetuados no âmbito do regime escolar, em conformidade com o 
 
 b) Aos contratos celebrados por entidades públicas que prestem cuidados de saúde e estejam devidamente reconhecidas como tal.
 
-###### Artigo 7.º-A — Denúncias e avaliação da execução
+Artigo 7.º-A
+
+Denúncias e avaliação da execução
 
 Ao presente decreto-lei são aplicáveis as normas sobre denúncias, investigação e avaliação constantes do artigo 7.º-D e dos artigos 15.º e 18.º do [Decreto-Lei n.º 166/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2013-483672), de 27 de dezembro, na sua redação atual.»
 
@@ -375,7 +452,9 @@ f) [...].
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]:
 
@@ -397,7 +476,9 @@ b) [...].
 
 3 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -407,7 +488,9 @@ b) [...].
 
 4 - O financiamento do mecanismo de acompanhamento da autorregulação é assegurado exclusivamente pelas entidades que dele beneficiem.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -429,7 +512,9 @@ a) Fornecedores singulares ou coletivos do setor agroalimentar, independentement
 
 b) Compradores singulares ou coletivos de produtos agrícolas e alimentares ou agrupamentos destes, independentemente do Estado-Membro da União Europeia em que se encontrem estabelecidos, ou com compradores que sejam entidades públicas, entendendo-se como tal os serviços e entidades que integram a administração direta, indireta e autónoma do Estado, incluindo os serviços e entidades da administração regional, local e associações públicas sujeitos a um regime de direito público.
 
-###### Artigo 7.º-B — Práticas negociais proibidas no setor agroalimentar
+Artigo 7.º-B
+
+Práticas negociais proibidas no setor agroalimentar
 
 Sem prejuízo do disposto nos artigos anteriores, são ainda proibidas as seguintes práticas negociais do comprador nas transações comerciais que tenham por objeto produtos agrícolas ou alimentares:
 
@@ -447,7 +532,9 @@ d) Rejeição ou devolução de produtos entregues, com fundamento na menor qual
 
 e) Recusa de confirmação por escrito dos termos de um acordo, quando tal tenha sido expressamente solicitado pelo fornecedor, exceto nas transações comerciais entre as cooperativas constituídas ao abrigo do [Decreto-Lei n.º 335/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1999-434001), de 20 de agosto, na sua redação atual, ou as organizações de produtores e respetivas associações, reconhecidas nos termos da [Portaria n.º 298/2019](https://diariodarepublica.pt/dr/detalhe/portaria/298-2019-124539914), de 9 de setembro, e os seus respetivos membros, sempre que os respetivos estatutos ou decisões deles decorrentes incluam disposições de efeito semelhante aos termos do acordo de fornecimento.
 
-###### Artigo 7.º-C — Práticas negociais sujeitas a acordo no setor agroalimentar
+Artigo 7.º-C
+
+Práticas negociais sujeitas a acordo no setor agroalimentar
 
 1 - Sem prejuízo do disposto nos artigos anteriores, são ainda proibidas as seguintes práticas negociais no âmbito de transações comerciais que tenham por objeto produtos agrícolas ou alimentares, salvo se as mesmas tiverem sido previamente estipuladas de forma clara e inequívoca no acordo de fornecimento ou em qualquer acordo posteriormente celebrado entre o fornecedor e o comprador:
 
@@ -463,7 +550,9 @@ e) Cobrança pelo comprador de remuneração devida a pessoal para arranjo das i
 
 2 - Se forem acordados pagamentos nos termos das alíneas b) a e) do número anterior, o comprador deve facultar, por escrito, uma estimativa dos pagamentos por unidade ou globais, e no caso das alíneas b), d) e e) do mesmo número, também uma estimativa dos custos e das bases dessa estimativa, sempre que tal lhe seja requerido pelo fornecedor.
 
-###### Artigo 7.º-D — Denúncia e investigação
+Artigo 7.º-D
+
+Denúncia e investigação
 
 1 - A entidade fiscalizadora procede à investigação e desencadeia as ações inspetivas que entenda necessárias ao apuramento da verdade e à prossecução do interesse público na repressão de práticas restritivas do comércio.
 
@@ -505,13 +594,13 @@ O presente decreto-lei entra em vigor no dia 1 de novembro de 2021.
 
 Visto e aprovado em Conselho de Ministros de 15 de julho de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Ana Paula Baptista Grade Zacarias - António Mendonça Mendes - Anabela Damásio Caetano Pedroso - Maria do Céu de Oliveira Antunes.
 
-**Promulgado em 19 de agosto de 2021.**
+Promulgado em 19 de agosto de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de agosto de 2021.**
+Referendado em 19 de agosto de 2021.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra de Estado e da Presidência.
 
@@ -1008,3 +1097,5 @@ b) A alínea b) do n.º 1 do artigo 5.º do Decreto-Lei n.º [10/2003](https://d
 1 - O presente decreto-lei entra em vigor 60 dias após a data da sua publicação.
 
 2 - Sem prejuízo do disposto no número anterior, o artigo 19.º do presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+114510853

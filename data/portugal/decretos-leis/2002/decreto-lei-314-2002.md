@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/314/2002/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-2002-405296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:35:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17e4664aec402aca4d7c65935eae3c99ef44187c7c762cd2a399d31bb5c2942f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe5b3234a73076e1fe70ec5e8780c2560f455db3955064341163dd3d8c2b27a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:35:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,17 @@ reuse:
 subjects:
 - Albufeira.cidade
 - Aveiro
-- Programa Polis
-- Covilhã
-- Renovação Urbana
-- Fiscalização
-- Medidas Preventivas
 - Beja
-- Vila Real
-- Urbanismo
-- Prorrogação de Prazo
 - Bragança
+- Covilhã
+- Fiscalização
 - Guarda
+- Medidas Preventivas
+- Programa Polis
+- Prorrogação de Prazo
+- Renovação Urbana
+- Urbanismo
+- Vila Real
 relationships:
 - type: amended_by
   target: pt:dre:628829:por
@@ -101,16 +101,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/319/2000/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/319/2000/12/14/p/dre
+- type: cites
+  target: pt:dre:300844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583238:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:35:18Z'
   warnings: []
   errors: []
 ---
@@ -139,12 +159,12 @@ A presente prorrogação produz efeitos a partir da data da cessação do prazo 
 
 Visto e aprovado em Conselho de Ministros de 31 de Outubro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Isaltino Afonso de Morais.
 
-**Promulgado em 6 de Dezembro de 2002.**
+Promulgado em 6 de Dezembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Dezembro de 2002.**
+Referendado em 11 de Dezembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/177a00/45904592.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/174/2003/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2003-652701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a9d86a10f977fa82a10ff3aad7e5b90919c92347ca8e2940ce6d00d34df0576
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b554dca409b1508f00eeddd6955cb5eef4fab804757b9cc5c0758af36b8a59e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ subjects:
 - Comunidade Europeia
 - Dentista
 - Diploma
-- Equivalência de Habilitações Literárias
 - Direito de Estabelecimento
+- Equivalência de Habilitações Literárias
 - Livre Prestação de Serviços
 - Trabalhador Comunitário
 relationships:
@@ -127,16 +127,21 @@ relationships:
   target: eli:http://data.europa.eu/eli/di
   label: null
   source: http://data.europa.eu/eli/di
+- type: repealed_by
+  target: pt:dre:604779:por
+  label: Revogado, nos termos do nº 2 do art. 55.º, pela LEI.9/2009.04.03.2009.AR, DR.IS [44] de 04.03.2009
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2009-604779
+  date: '2009-03-04'
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:20Z'
   warnings: []
   errors: []
 ---
@@ -185,7 +190,9 @@ Diplomas, certificados e outros títulos
 
 3 - À situação prevista no número anterior é aplicável o prazo previsto no artigo 9.º
 
-###### Artigo 9.º — Prazos
+Artigo 9.º
+
+Prazos
 
 1 - ...
 
@@ -195,7 +202,9 @@ Diplomas, certificados e outros títulos
 
 4 - Aos requerentes é assegurado o direito de impugnação perante os tribunais, nos termos da legislação reguladora do contencioso administrativo, sendo igualmente passível de recurso a falta de decisão no prazo previsto no n.º 1.
 
-###### Artigo 11.º — Situação especial de Itália
+Artigo 11.º
+
+Situação especial de Itália
 
 1 - ...
 
@@ -211,7 +220,9 @@ c) Estão autorizados a exercer ou exercem efectiva e licitamente, a título pri
 
 4 - Ficam dispensadas da prova de aptidão prevista na alínea a) as pessoas que tenham concluído com aproveitamento estudos de, pelo menos, três anos, comprovados pelas autoridades competentes como sendo equivalentes à formação referida no artigo 1.º da Directiva n.º [78/687/CEE](https://data.europa.eu/eli/dir/1978/687/oj?locale=pt).
 
-###### Artigo 12.º — Alterações às denominações e dúvidas sobre diplomas e condições de formação
+Artigo 12.º
+
+Alterações às denominações e dúvidas sobre diplomas e condições de formação
 
 1 - As autoridades competentes nacionais devem notificar a Comissão das disposições legislativas regulamentares e administrativas que adoptarem em matéria de concessão de diplomas, certificados e outros títulos, no âmbito do presente decreto-lei.
 
@@ -227,15 +238,15 @@ O anexo ao Decreto-Lei n.º 327/87, de 2 de Setembro, alterado pelos Decretos-Le
 
 Visto e aprovado em Conselho de Ministros de 13 de Junho de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Luís Filipe Pereira.
 
-**Promulgado em 17 de Julho de 2003.**
+Promulgado em 17 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Julho de 2003.**
+Referendado em 21 de Julho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (alteração do anexo ao Decreto-Lei n.º 327/87, de 2 de Setembro)
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 155/1994, 1º Suplemento, Série I-A de 1994-07-07
   number: '155'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3624-(2) a 3624-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/155a01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/51/1994/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/51-1994-641451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T04:17:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: faa56a28dc5e9b0a4d9b5aa0fda41e7f25fe609e141d7ee3df4bb91e88c864e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c891c9a4525d6f065ce2c6ec4959b2c8e6e0e063173b894e640d5121313602c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:17:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,23 +72,27 @@ subjects:
 - CEE
 - Comunidade Europeia
 - Convenção
-- Portugal
 - Euratom
+- Portugal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/36/1994/07/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/36/1994/07/07/p/dre
+- type: cites
+  target: pt:dre:641452:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:17:11Z'
   warnings: []
   errors: []
 ---
@@ -97,16 +101,16 @@ validation:
 
 de 7 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo Europeu Que Cria Uma Associação entre as Comunidades Europeias e os Seus Estados Membros, por um lado, e a República Eslovaca, por outro, e respectivos protocolos, anexos, acta final e declarações, assinado em Bruxelas em 4 de Outubro de 1993, aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 36/94](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/36-1994-641452), em 12 de Maio de 1994.
 
-**Assinado em 1 de Julho de 1994.**
+Assinado em 1 de Julho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Julho de 1994.**
+Referendado em 4 de Julho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva**
+O Primeiro-Ministro, Aníbal António Cavaco Silva

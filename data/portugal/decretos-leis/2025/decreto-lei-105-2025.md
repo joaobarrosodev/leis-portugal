@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/09/17600/0000300020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/105/2025/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2025-935098429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3579b594addfee1f292f7ae738d0ba78ace055e6a828ebb4ba78d13247a351ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fca852acd3f6945aa4ca52a322fab2769acd43f058ada13d834360b372b9d7a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Biblioteca Escolar
-- Fiscal Único
 - Direcção Geral da Educação
 - Extinção de Serviços
-- Lisboa
+- Fiscal Único
 - Gabinete Coordenador da REDE de Bibliotecas Escolares
+- Instituto de Avaliação Educativa
+- Instituto de Educação Qualidade e Avaliação
 - Instituto Público
 - Integração de Trabalhadores
+- Lisboa
 - Lista Nominativa
-- Instituto de Avaliação Educativa
+- Ministério da Educação Ciência e Inovação
 - Orgânica
 - Plano Nacional de Leitura
 - Quadro de Pessoal
 - Transferência de Competências
-- Ministério da Educação Ciência e Inovação
-- Instituto de Educação Qualidade e Avaliação
 relationships:
 - type: cites
   target: celex:32004L0018
@@ -132,16 +132,82 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/48-d/2017/03/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/48-d/2017/03/31/p/dre
+- type: cites
+  target: pt:dre:106816250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2551724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:14/2012
+  label: Revoga, a partir de 01 de outubro de 2025, nos termos da alínea b) do artigo 17.º do presente diploma, o Decreto-Lei
+    n.º 14/2012, de 20 de janeiro, Diário da República n.º 15/2012, Série I
+  source: null
+  date: '2012-01-20'
+- type: repeals
+  target: pt:numero:decreto-lei:102/2013
+  label: Revoga, a partir de 01 de outubro de 2025, nos termos da alínea a) do artigo 17.º do presente diploma, o Decreto-Lei
+    n.º 102/2013, de 25 de julho Diário da República n.º 142/2013, Série I
+  source: null
+  date: '2013-07-25'
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:48-D/2017
+  label: Revoga, a partir de 01 de outubro de 2025, nos termos da alínea c) do artigo 17.º do presente diploma, a Resolução
+    do Conselho de Ministros n.º 48-D/2017, de 31 de março, Diário da República n.º 65/2017, 1º Suplemento, Série I
+  source: null
+  date: '2017-03-31'
 article_structure:
   article_count: 44
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:44Z'
   warnings: []
   errors: []
 ---
@@ -270,7 +336,7 @@ Os bens móveis, nestes incluindo viaturas, e imóveis das entidades e serviços
 
 4 - Os trabalhadores são reafetos às entidades e serviços integradores com efeitos à data do despacho conjunto do respetivo dirigente máximo e do dirigente máximo do serviço integrado.
 
-5 - Com exceção das situações previstas nos n.<sup>os</sup>3 e 5 do artigo 11.º, o disposto no n.º 1 determina a integração dos trabalhadores em postos de trabalho não ocupados ou a prever no mapa de pessoal das entidades e serviços integradores.
+5 - Com exceção das situações previstas nos n.os3 e 5 do artigo 11.º, o disposto no n.º 1 determina a integração dos trabalhadores em postos de trabalho não ocupados ou a prever no mapa de pessoal das entidades e serviços integradores.
 
 ###### Artigo 8.º — Critério de seleção do pessoal
 
@@ -372,13 +438,13 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 7 de agosto de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Fernando Alexandre.
 
-**Promulgado em 5 de setembro de 2025.**
+Promulgado em 5 de setembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de setembro de 2025.**
+Referendado em 9 de setembro de 2025.
 
 Pelo Primeiro-Ministro, António Leitão Amaro, Ministro da Presidência.
 
@@ -775,3 +841,5 @@ Constituem despesas do EduQA, I. P., as que resultem de encargos decorrentes da 
 ###### Artigo 26.º — Sítio na Internet
 
 O EduQA, I. P., disponibiliza os estudos, pareceres e relatórios que elabore no âmbito da sua atividade no seu sítio na Internet.
+
+119519076

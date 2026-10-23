@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/05/109a00/44204421.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/128/2002/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2002-368265
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a09a0abaf8be241624cab3acdc022ab041dfc13f352b33477cd1b22005b38b1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f21575d92eeb15f9ec748b75d14487048133ff9c684278ca01a07b19aea4612d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- INEM
 - Comissão de Planeamento de Emergência da Agricultura
 - Comissão de Planeamento de Emergência da Saúde
 - Comissão de Planeamento de Emergência do Ambiente
 - Comissão de Planeamento de Emergência do Ciberespaço
 - Comissão de Planeamento de Emergência do Transporte Aéreo
-- Comissão de Planeamento de Emergência dos Transportes Terrestres
 - Comissão de Planeamento de Emergência do Transporte Marítimo
+- Comissão de Planeamento de Emergência dos Transportes Terrestres
+- Comissão de Planeamento Energético de Emergência
 - Comissão de Planeamento Industrial de Emergência
 - Conselho Nacional de Planeamento Civil de Emergência
 - Definição de Competências
-- Instituto Nacional de Aviação Civil
 - Direcção Geral da Indústria
 - Direcção Geral de Energia
 - Direcção Geral do Ambiente
@@ -85,18 +84,83 @@ subjects:
 - Diretor
 - Diretor Geral
 - Gabinete de Planeamento e Política Agro-alimentar
-- Remuneração Acessória
+- INEM
 - Instituto das Comunicações de Portugal
 - Instituto Marítimo-portuário
-- Comissão de Planeamento Energético de Emergência
+- Instituto Nacional de Aviação Civil
 - Presidente
 - Remuneração
+- Remuneração Acessória
 - Vice-presidente
 relationships:
 - type: amended_by
   target: pt:dre:553933:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145186:por
+  label: "Extinta, sendo objecto de fusão, a Comissão de Planeamento de Emergência da Saúde e integradas as suas atribuições\
+    \ no Instituto Nacional de Emergência Médica, I. P., pelo DEC LEI.124/2011.29.12.2011.MS, DR.IS [249] de 29.12.2011, \0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2011-145186
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:145195:por
+  label: "Extinta, sendo objecto de fusão, a Comissão de Planeamento de Emergência do Ciberespaço e integradas as suas atribuições\
+    \ na Fundação para a Ciência e a Tecnologia, I. P., pelo DEC LEI.125/2011.29.12.2011.MECI, DR.IS [249] de 29.12.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2011-145195
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:642010:por
+  label: "Extinto, nos termos dos arts. 45.º e 48.º, sendo objecto de fusão, o Conselho Nacional de planeamento Civil de Emergência,\
+    \ reorganizado pelo Dec Lei 153/91 de 23-Abr, na redacção do presente diploma e integradas as suas atribuições na Autoridade\
+    \ Nacional de Protecção Civil, no âmbito do Ministério da Administração Interna, pelo DEC LEI.126-A/2011.29.12.2011.PCM,\
+    \ DR.IS [249-Supl] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-a-2011-642010
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:642012:por
+  label: "Extinta, sendo objecto de fusão, a Comissão de Planeamento Energético de Emergência e integradas as suas atribuições\
+    \ e competências na Direcção-Geral de Energia e Geologia, pelo DEC LEI.126-C/2011.29.12.2011.MEE, DR.IS [249-Supl] de\
+    \ 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-c-2011-642012
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extintas, sendo objecto de fusão, a Comissão de Planeamento de Emergência da Agricultura, a Comissão de Planeamento\
+    \ de Emergência do Ambiente, e a Comissão de Planeamento do Transporte Marítimo de Emergência, reorganizadas pelo Dec\
+    \ Lei 153/91 de 23-Abr, com as alterações introduzidas pelo presente diploma, pelo DEC LEI.7/2012.17.01.2012.MAMAOT, DR.IS\
+    \ [12] de 17.01.2012, nos termos do disposto no nº 3 do seu art. 34º; sendo as suas atribuições integradas, respectivamente,\
+    \ no Gabinete de Planeamento e Políticas, na Agência Portuguesa do Ambiente, e na Direção-Geral de recursos Naturais,\
+    \ Segurança e Serviços Marítimos.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
+- type: amended_by
+  target: pt:dre:543036:por
+  label: "Determinada a sucessão do INEM, I. P. nas atribuições da Comissão de Planeamento de Emergência da Saúde, pelo DEC\
+    \ LEI.34/2012.14.02.2012.MS, DR.IS [32] de 14.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2012-543036
+  date: '2012-02-14'
+- type: amended_by
+  target: pt:dre:542865:por
+  label: "Determinado que a FCT, I. P., suceda nas atribuições da Comissão de Planeamento de Emergência do Ciberespaço, pelo\
+    \ DEC LEI.45/2012.23.02.2012.MECI, DR.IS [39] de 23.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-2012-542865
+  date: '2012-02-23'
+- type: amended_by
+  target: pt:dre:553603:por
+  label: "Determinado que a Agência Portuguesa do Ambiente, I.P., suceda nas atribuições da Comissão de Planeamento de Emergência\
+    \ do Ambiente, constante do Dec Lei 153/91, de 23-abr, na redacção do presente diploma, pelo DEC LEI.56/2012.12.03.2012.MAMAOT,\
+    \ DR.IS [51] de 12.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-2012-553603
+  date: '2012-03-12'
+- type: amended_by
+  target: pt:dre:553933:por
+  label: "Determinado que o GPP suceda nas atribuições da Comissão de Planeamento de Emergência da Agricultura pelo DR.34/2012.26.03.2012.MAMAOT,\
+    \ DR.IS [61] de 26.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/34-2012-553933
+  date: '2012-03-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/153/1991/04/23/p/dre
   label: null
@@ -105,16 +169,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/13/1993/05/05/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/13/1993/05/05/p/dre
+- type: cites
+  target: pt:dre:273821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594679:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553925:por
+  label: "Revogado, a partir de 31.03.2012, o Dec Lei 153/91, de 23-abr, na redação do presente diploma, pelo DEC LEI.73/2012.26.03.2012.MAI,\
+    \ DR.IS [61] de 26.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2012-553925
+  date: '2012-03-26'
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:16Z'
   warnings: []
   errors: []
 ---
@@ -221,7 +303,9 @@ i) O director-geral do Ambiente.
 
 3 - O presidente tem direito ao abono mensal de uma remuneração de montante equivalente a 15% do índice 900 da escala salarial do regime geral.
 
-###### Artigo 18.º-B — Competência do presidente
+Artigo 18.º-B
+
+Competência do presidente
 
 Compete aos presidentes das comissões:
 
@@ -241,7 +325,9 @@ g) Submeter a aprovação superior a constituição das delegações nacionais d
 
 h) Submeter a apreciação do presidente do CNPCE ou do próprio Conselho os assuntos que julgue merecerem tal tratamento.
 
-###### Artigo 18.º-C — Designação e funções do vice-presidente
+Artigo 18.º-C
+
+Designação e funções do vice-presidente
 
 1 - O vice-presidente é nomeado, em acumulação, por despacho do ministro respectivo, sob proposta do presidente, de entre os subdirectores-gerais ou equiparados da direcção-geral a que este pertença.
 
@@ -267,12 +353,12 @@ Consideram-se revogadas todas as disposições que contrariem o disposto no pres
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Rui Eduardo Ferreira Rodrigues Pena.
 
-**Promulgado em 23 de Abril de 2002.**
+Promulgado em 23 de Abril de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Maio de 2002.**
+Referendado em 2 de Maio de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

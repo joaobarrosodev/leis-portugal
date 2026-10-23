@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20407-1964-470018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6178689a84e3d59b536dea19822506f54046226042445135e1283dda784dc48c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50966e8a37193c3d3aae15dfd8f050ae0e9c2611cec955ca4679c5dac4b9366e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:21Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +90,19 @@ REGULAMENTO DOS EXAMES
 
 #### SECÇÃO I — Disposições gerais
 
-###### Artigo 1.º - 1. A habilitação dos alunos será julgada por meio de exames de frequência e exames finais; os primeiros realizar-se-ão durante a frequência das aulas e os segundos após o encerramento destas.
+Artigo 1.º - 1. A habilitação dos alunos será julgada por meio de exames de frequência e exames finais; os primeiros realizar-se-ão durante a frequência das aulas e os segundos após o encerramento destas.
 
 2. Os exames versarão sobre as matérias constantes dos sumários.
 
 3. Os exames poderão ainda recair sobre textos indicados nos sumários pelo professor respectivo, precedendo autorização do conselho dos professores.
 
-###### Art. 2.º - 1. Os alunos não poderão ser chamados a prestar no mesmo dia mais do que uma prova de exame.
+Art. 2.º - 1. Os alunos não poderão ser chamados a prestar no mesmo dia mais do que uma prova de exame.
 
 2. Quando coincidirem no mesmo dia exames de duas ou mais disciplinas, a prioridade será dada segundo a ordem estabelecida no artigo 5.º do regulamento do Instituto.
 
 3. O director pode autorizar, não havendo inconveniente para o serviço e ouvido o respectivo professor, a prestação de mais de uma prova por dia, a requerimento do aluno.
 
-###### Art. 3.º - 1. Os alunos que, por qualquer motivo, não obtenham frequência, desistam durante as provas ou não alcancem aprovação em exame final deverão voltar a inscrever-se na disciplina respectiva.
+Art. 3.º - 1. Os alunos que, por qualquer motivo, não obtenham frequência, desistam durante as provas ou não alcancem aprovação em exame final deverão voltar a inscrever-se na disciplina respectiva.
 
 2. Ao princípio consagrado no número anterior abrem-se apenas as seguintes excepções:
 
@@ -110,7 +110,7 @@ a) Os alunos que tendo faltado a exame, desistido durante as provas ou sido repr
 
 b) Os alunos sujeitos a serviço militar obrigatório, quando por este estejam impedidos de se apresentar na época de Outubro, nos termos previstos no artigo 30.º
 
-###### Art. 4.º - 1. Em cada exame haverá uma única chamada.
+Art. 4.º - 1. Em cada exame haverá uma única chamada.
 
 2. O aluno que faltar a uma prova, escrita ou oral, por caso de força maior, poderá requerer ao director do Instituto, até 24 horas após a data em que deveria realizar a prova, que o autorize a fazer esta, em data posterior.
 
@@ -122,17 +122,17 @@ b) Os alunos sujeitos a serviço militar obrigatório, quando por este estejam i
 
 6. A declaração de falso motivo de força maior, ou qualquer fraude por parte do aluno constitui infracção disciplinar, a que corresponderá a anulação não só do exame em causa mas também qualquer outro posteriormente a realizar no mesmo ano lectivo.
 
-###### Art. 5.º - 1. As provas serão escritas em folhas de papel timbrado, fornecidas pelo Instituto e distribuídas aos alunos.
+Art. 5.º - 1. As provas serão escritas em folhas de papel timbrado, fornecidas pelo Instituto e distribuídas aos alunos.
 
 2. Findo o tempo fixado, os candidatos entregarão as suas provas no estado em que se encontrarem, assinando-as com o nome por inteiro.
 
 3. Na resolução dos problemas ou hipóteses que constituírem objecto das provas escritas, os candidatos não poderão ter junto de si quaisquer elementos de consulta, salvo os permitidos pelo professor da disciplina.
 
-###### Art. 6.º - 1. As provas escritas não serão públicas.
+Art. 6.º - 1. As provas escritas não serão públicas.
 
 2. Os candidatos deverão ser distribuídos por tantas salas quantas as necessárias para uma fiscalização eficiente, podendo, para o exercício desta, o director do Instituto requerer a colaboração de quaisquer professores ou assistentes.
 
-###### Art. 7.º - 1. Durante as provas escritas é proibido aos candidatos:
+Art. 7.º - 1. Durante as provas escritas é proibido aos candidatos:
 
 a) Servirem-se de elementos não autorizados, nos termos do n.º 3 do artigo 5.º;
 
@@ -148,29 +148,29 @@ e) Perturbarem o trabalho dos outros candidatos ou manifestarem por qualquer for
 
 3. Os candidatos que infringirem o disposto no n.º 1 deste artigo serão considerados para todos os efeitos como reprovados, sem prejuízo do procedimento disciplinar que for de aplicar.
 
-###### Art. 8.º - 1. Se, ao serem julgados, aparecerem provas tão semelhantes entre si que o júri suspeite ter havido cópia, serão as mesmas anuladas e os seus autores sujeitos a novas provas.
+Art. 8.º - 1. Se, ao serem julgados, aparecerem provas tão semelhantes entre si que o júri suspeite ter havido cópia, serão as mesmas anuladas e os seus autores sujeitos a novas provas.
 
 2. Idêntico sistema deverá ser seguido quando o júri suspeite que um candidato se serviu de elementos cuja consulta lhe era vedada.
 
-###### Art. 9.º Depois de julgadas, serão as provas arquivadas na secretaria do Instituto durante cinco anos, podendo pedir delas certidões o candidato e os membros do júri.
+Art. 9.º Depois de julgadas, serão as provas arquivadas na secretaria do Instituto durante cinco anos, podendo pedir delas certidões o candidato e os membros do júri.
 
 #### SECÇÃO II — Exames de frequência
 
-###### Art. 10.º Os exames de frequência constarão de exercícios escritos sobre a matéria ministrada até oito dias antes e terão a duração normal de 90 minutos.
+Art. 10.º Os exames de frequência constarão de exercícios escritos sobre a matéria ministrada até oito dias antes e terão a duração normal de 90 minutos.
 
-###### Art. 11.º - 1. Haverá um exame de frequência para cada curso e dois para cada cadeira.
+Art. 11.º - 1. Haverá um exame de frequência para cada curso e dois para cada cadeira.
 
 2. As datas desses exames serão determinadas com quinze dias de antecedência pelos respectivos professores, dentro das épocas fixadas pelo conselho escolar, devendo ser, em princípio, no início do 2.º e 3.º períodos.
 
-###### Art. 12.º - 1. Só serão admitidos a exame final de cada disciplina os alunos voluntários que nos respectivos exames de frequência obtiverem, pelo menos, a classificação ou média de 9 valores.
+Art. 12.º - 1. Só serão admitidos a exame final de cada disciplina os alunos voluntários que nos respectivos exames de frequência obtiverem, pelo menos, a classificação ou média de 9 valores.
 
 2. Ficará imediatamente excluído o aluno que nalguma das frequências não obtenha classificação superior a 6 valores.
 
-###### Art. 13.º - 1. Os alunos voluntários, que hajam obtido nos exames de frequência a classificação ou média de 12 valores, serão dispensados da prova escrita do exame final; em caso algum poderão ser dispensados da prova oral.
+Art. 13.º - 1. Os alunos voluntários, que hajam obtido nos exames de frequência a classificação ou média de 12 valores, serão dispensados da prova escrita do exame final; em caso algum poderão ser dispensados da prova oral.
 
 2. Os alunos que, nos termos do número anterior, tenham direito a ser dispensados da prova escrita podem renunciar a este beneficio, desde que o declarem no requerimento a que se refere o n.º 1 do artigo 16.º
 
-###### Art. 14.º - 1. Os alunos ordinários serão dispensados também da prova escrita do exame final das disciplinas em que se tiverem apresentado aos exames de frequência e neles obtido a classificação ou média de 12 valores.
+Art. 14.º - 1. Os alunos ordinários serão dispensados também da prova escrita do exame final das disciplinas em que se tiverem apresentado aos exames de frequência e neles obtido a classificação ou média de 12 valores.
 
 2. No caso previsto no número anterior, os alunos ordinários ficarão sujeitos à disciplina do n.º 2 do artigo 12.º, mas não á do n.º 1.
 
@@ -178,17 +178,17 @@ e) Perturbarem o trabalho dos outros candidatos ou manifestarem por qualquer for
 
 #### SECÇÃO III — Exames finais
 
-###### Art. 15.º - 1. Os exames finais terão lugar nos meses de Junho e Julho (1.ª época) e Outubro (2.ª época).
+Art. 15.º - 1. Os exames finais terão lugar nos meses de Junho e Julho (1.ª época) e Outubro (2.ª época).
 
 2. Os exames finais da 1.ª época deverão estar concluídos em 31 de Julho e os da 2.ª época em 31 de Outubro.
 
-###### Art. 16.º - 1. Os requerimentos de admissão a exame final, mesmo de alunos que tenham sido dispensados da prova escrita, deverão ser apresentados na secretaria do Instituto nos dias 10 a 20 de Maio, quanto á 1.ª época, e nos dias 10 a 20 de Setembro, quanto à 2.ª
+Art. 16.º - 1. Os requerimentos de admissão a exame final, mesmo de alunos que tenham sido dispensados da prova escrita, deverão ser apresentados na secretaria do Instituto nos dias 10 a 20 de Maio, quanto á 1.ª época, e nos dias 10 a 20 de Setembro, quanto à 2.ª
 
 2. Os requerimentos, a que se refere o número anterior, feitos em papel comum, são dirigidos ao director do Instituto e neles se indicará a disciplina ou disciplinas sobre que se pretende fazer exame.
 
 3. Quando, por absoluta e comprovada força maior, não tenha sido possível a um candidato entregar o seu requerimento dentro dos prazos estabelecidos no n.º 1, o director, ouvido o professor respectivo e ponderadas as circunstâncias do caso concreto, poderá excepcionalmente autorizar a sua admissão a exame.
 
-###### Art. 17.º Só poderá ser admitido a exame final o aluno que se encontre devidamente inscrito na respectiva disciplina e em relação ao qual se verifiquem cumulativamente as seguintes condições:
+Art. 17.º Só poderá ser admitido a exame final o aluno que se encontre devidamente inscrito na respectiva disciplina e em relação ao qual se verifiquem cumulativamente as seguintes condições:
 
 a) Haver obtido aprovação em todas as disciplinas do ano anterior;
 
@@ -198,19 +198,19 @@ c) Não ter ficado excluído em exame de frequência;
 
 d) Ter apresentado a tempo o requerimento de exame, nos termos do n.º 1 do artigo anterior.
 
-###### Art. 18.º Podem requerer exame de uma ou duas disciplinas na 2.ª época os alunos que não se tenham apresentado a exame na 1.ª época, hajam desistido durante as provas ou sido reprovados, desde que a aprovação nessa ou nessas disciplinas seja suficiente para lhes permitir transitar para o ano imediato.
+Art. 18.º Podem requerer exame de uma ou duas disciplinas na 2.ª época os alunos que não se tenham apresentado a exame na 1.ª época, hajam desistido durante as provas ou sido reprovados, desde que a aprovação nessa ou nessas disciplinas seja suficiente para lhes permitir transitar para o ano imediato.
 
-###### Art. 19.º - 1. Os exames finais de cada disciplina serão realizados perante um júri constituído por dois elementos do corpo docente, devendo um deles ser professor, e de preferência o professor e assistente dessa disciplina.
+Art. 19.º - 1. Os exames finais de cada disciplina serão realizados perante um júri constituído por dois elementos do corpo docente, devendo um deles ser professor, e de preferência o professor e assistente dessa disciplina.
 
 2. A disciplina do serviço de exames compete ao conselho escolar, que, em casos excepcionais, poderá autorizar que os exames se realizem apenas perante um professor ou assistente.
 
-###### Art. 20.º - 1. O exame final de cada disciplina constará de duas provas, uma escrita e outra oral, salvo o caso previsto no n.º 2 do artigo 13.º e n.º 1 do artigo 14.º
+Art. 20.º - 1. O exame final de cada disciplina constará de duas provas, uma escrita e outra oral, salvo o caso previsto no n.º 2 do artigo 13.º e n.º 1 do artigo 14.º
 
 2. As provas escritas terão a duração normal de duas horas.
 
-###### Art. 21.º As provas escritas terão lugar a partir de 1 de Junho e de 1 de Outubro, em dia e hora fixados pelo conselho escolar e publicados com a antecedência mínima de dez dias, iniciando-se a chamada pelos alunos ordinários.
+Art. 21.º As provas escritas terão lugar a partir de 1 de Junho e de 1 de Outubro, em dia e hora fixados pelo conselho escolar e publicados com a antecedência mínima de dez dias, iniciando-se a chamada pelos alunos ordinários.
 
-###### Art. 22.º - 1. A organização, datas e horários das provas orais serão fixados pelo director, ouvidos os professores do respectivo ano.
+Art. 22.º - 1. A organização, datas e horários das provas orais serão fixados pelo director, ouvidos os professores do respectivo ano.
 
 2. As datas das provas orais serão publicadas com a máxima antecedência possível.
 
@@ -218,15 +218,15 @@ d) Ter apresentado a tempo o requerimento de exame, nos termos do n.º 1 do arti
 
 4. Excepcionalmente o conselho escolar poderá permitir acumulação num só interrogatório das provas orais de duas disciplinas do mesmo ano, desde que uma seja semestral.
 
-###### Art. 23.º Não será admitido à prova oral o candidato que na prova escrita haja obtido classificação inferior a 9 valores.
+Art. 23.º Não será admitido à prova oral o candidato que na prova escrita haja obtido classificação inferior a 9 valores.
 
-###### Art. 24.º - 1. A duração da prova oral não será, em princípio, inferior a 15 nem superior a 30 minutos.
+Art. 24.º - 1. A duração da prova oral não será, em princípio, inferior a 15 nem superior a 30 minutos.
 
 2. Na hipótese prevista na parte final do n.º 4 do artigo 22.º, a prova terá duração mínima de 30 minutos.
 
 #### SECÇÃO IV — Classificações
 
-###### Art. 25.º - 1. As classificações das frequências e das provas escritas dos exames finais são expressas de 0 a 20 valores.
+Art. 25.º - 1. As classificações das frequências e das provas escritas dos exames finais são expressas de 0 a 20 valores.
 
 2. As classificações das provas orais dos exames finais são expressas de harmonia com a seguinte escala, indicando-se sempre o valor respectivo:
 
@@ -242,13 +242,13 @@ Muito bom com distinção (18 a 19 valores);
 
 Muito bom com distinção e louvor (20 valores).
 
-###### Art. 26.º - 1. Nos exames finais, no fim das provas orais de cada dia, o júri decidirá sobre os candidatos, atribuindo-lhes a respectiva classificação.
+Art. 26.º - 1. Nos exames finais, no fim das provas orais de cada dia, o júri decidirá sobre os candidatos, atribuindo-lhes a respectiva classificação.
 
 2. No julgamento de cada candidato, o júri deverá levar em linha de conta, como elemento de apreciação, as provas dadas durante o ano lectivo, as classificações de anos anteriores e as das outras disciplinas.
 
 3. A classificação final de cada disciplina é a obtida na prova oral.
 
-###### Art. 27.º - 1. A classificação anual calcula-se na base da média aritmética ponderada das classificações finais de cada disciplina, multiplicando-se a classificação obtida nas cadeiras pelo factor 3 e a obtida nos cursos pelo factor 2.
+Art. 27.º - 1. A classificação anual calcula-se na base da média aritmética ponderada das classificações finais de cada disciplina, multiplicando-se a classificação obtida nas cadeiras pelo factor 3 e a obtida nos cursos pelo factor 2.
 
 2. À média determinada nos termos do número anterior aditar-se-ão três décimas quando se verificarem cumulativamente os seguintes requisitos:
 
@@ -258,13 +258,13 @@ b) Não ter tido classificação inferior a 10 valores em nenhuma das provas esc
 
 3. Quando a média, apurada em conformidade com as disposições precedentes, exceder um número exacto de unidades, será arredondada para a unidade imediatamente superior ou inferior, consoante o excedente atingir ou não cinco décimas.
 
-###### Art. 28.º - 1. A informação final do curso apurar-se-á com base na média aritmética das classificações anuais, antes de arredondadas, multiplicando-se a informação do último ano pelo factor 2.
+Art. 28.º - 1. A informação final do curso apurar-se-á com base na média aritmética das classificações anuais, antes de arredondadas, multiplicando-se a informação do último ano pelo factor 2.
 
 2. A informação final assim obtida será arredondada nos termos do n.º 3 do artigo 27.º
 
 #### SECÇÃO V — Disposições finais
 
-###### Art. 29.º - 1. Serão excluídos da frequência de uma dada disciplina os alunos que nela hajam sido três vezes reprovados em exame final.
+Art. 29.º - 1. Serão excluídos da frequência de uma dada disciplina os alunos que nela hajam sido três vezes reprovados em exame final.
 
 2. Não serão consideradas reprovações para os efeitos do n.º 1:
 
@@ -280,8 +280,8 @@ d) A desistência expressamente declarada durante a prova escrita.
 
 4. Serão excluídos do Instituto os alunos que, durante três anos sucessivos ou cinco alternados, não tenham obtido aprovação em nenhuma disciplina.
 
-###### Art. 30.º Os alunos chamados a prestar serviço militar obrigatório beneficiarão de uma 2.ª época especial em termos análogos ao regime estabelecido na Universidade.
+Art. 30.º Os alunos chamados a prestar serviço militar obrigatório beneficiarão de uma 2.ª época especial em termos análogos ao regime estabelecido na Universidade.
 
-###### Art. 31.º Os casos omissos serão resolvidos pelo director, tendo em conta as regras em vigor na Universidade.
+Art. 31.º Os casos omissos serão resolvidos pelo director, tendo em conta as regras em vigor na Universidade.
 
 Ministério das Corporações e Previdência Social, 2 de Março de 1964. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença.

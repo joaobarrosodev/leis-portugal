@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/12/283a00/82888293.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/304/2003/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-2003-429175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adefb385ffd6b811467bff5420d4c337ef07ab966cf906d5b6023dd2ecee8bc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4c04ba27fb93bbb11ec41040b6195643cb2829493459d3f5c4c853b65c7e314
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato de Seguro
-- Livro de Reclamações
 - Campo de Férias
-- Formação Profissional
-- Multa
 - Contra-ordenação
+- Contrato de Seguro
 - Controlo Sanitário
 - Férias
 - Fiscalização
+- Formação Profissional
+- Instituto do Desporto de Portugal
 - Instituto Português da Juventude
 - Jovem
-- Instituto do Desporto de Portugal
 - Licenciamento
+- Livro de Reclamações
 - Monitor
+- Multa
 - Pessoal Técnico
 - Plano de Actividades
-- Regime Jurídico
 - Política de Juventude
+- Regime Jurídico
 - Registo Obrigatório
 - Regulamento Interno
 - Segurança das Instalações
@@ -91,6 +91,27 @@ relationships:
   target: pt:dre:279423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:235909:por
+  label: "Alterados os arts. 7º, 15º, 16º, 21º e 29º do presente diploma pelo DEC LEI.109/2005.08.07.2005.PCM, DR.IS-A [130]\
+    \ de 08.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-2005-235909
+  date: '2005-07-08'
+- type: amended_by
+  target: pt:dre:636410:por
+  label: "Determinada a transferência para a ASAE das competências de fiscalização cometidas ao IPJ, nos termos do art. 24º\
+    \ do presente diploma, pelo DEC LEI.274/2007.30.07.2007.MEI, DR.IS [145] de 30.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/274-2007-636410
+  date: '2007-07-30'
+- type: amended_by
+  target: pt:dre:493240:por
+  label: "Alterados os arts. 3.º, 6.º, 8.º, 15.º, 16.º (estes dois últimos na redacção do Dec Lei 109/2005, de 08-Jul), 19.º,\
+    \ 20.º, 24.º, 25.º, 26.º e 29.º (este último na redacção do Dec Lei 109/2005, de 08-Jul), aditado o art. 7.º-A, determinado\
+    \ que as referências feitas a «IPJ » e «presidente da comissão executiva do IPJ » entendem-se como dizendo respeito a\
+    \ «IPJ, I. P.» e «presidente do IPJ, I. P.» e revogados a al. c) do n.º 2 do art. 7.º e os arts 27.º e 28.º, pelo DEC\
+    \ LEI.163/2009.22.07.2009.PCM, DR.IS [140] de 22.07.2009, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-2009-493240
+  date: '2009-07-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
   label: null
@@ -99,16 +120,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/109/2001/12/24/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/109/2001/12/24/p/dre
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:279423:por
+  label: "Revogado, a partir de 12.03.2011, o presente diploma, alterado pelos Dec Lei 109/2005 de 08-Jul e 163/2009 de 22-Jul,\
+    \ pelo DEC LEI.32/2011.07.03.2011.PCM, DR.IS [46] de 07.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2011-279423
+  date: '2011-03-07'
 article_structure:
-  article_count: 29
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 30
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:01Z'
   warnings: []
   errors: []
 ---
@@ -281,7 +324,9 @@ Os participantes nos campos de férias devem ser permanentemente acompanhados pe
 
 ### CAPÍTULO IV — Exercício da actividade
 
-#### SECÇÃO I — Artigo 14.º
+#### SECÇÃO I
+
+###### Artigo 14.º
 
 Instalações
 
@@ -333,7 +378,9 @@ g) Ficha sanitária individual, contendo a informação referida no n.º 1 do ar
 
 As entidades organizadoras devem celebrar um contrato de seguro que cubra acidentes pessoais dos participantes, com valor mínimo e âmbito de cobertura fixados por portaria conjunta a emitir pelos membros do Governo responsáveis pelas áreas das finanças e da juventude.
 
-###### Artigo 18.º — Livro de reclamações
+###### Artigo 18.º
+
+## Livro de reclamações
 
 1 - As entidades organizadoras de campos de férias devem possuir um livro destinado à formulação de observações e reclamações sobre a qualidade dos serviços e o modo como foram prestados, bem como, quando for o caso, sobre o estado e a apresentação das instalações e dos equipamentos.
 
@@ -517,12 +564,12 @@ O presente diploma entra em vigor no prazo de 90 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Setembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - José Luís Fazenda Arnaut Duarte - Luís Filipe Pereira - António José de Castro Bagão Félix - António Pedro de Nobre Carmona Rodrigues.
 
-**Promulgado em 26 de Novembro de 2003.**
+Promulgado em 26 de Novembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Novembro de 2003.**
+Referendado em 27 de Novembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

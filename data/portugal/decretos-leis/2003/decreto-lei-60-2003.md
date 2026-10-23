@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/077a00/21182127.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/60/2003/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2003-232365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7609d539ff5c49df66252cce2d1170bd8519d8111cbf9038a75f9a803c67ee26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb8902e9d319a4fd45b47784f9b90a84b873949f3d9d48f093ca639635ea9f11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Regional de Saúde
 - Assistência Médica
 - Assistência Medicamentosa
+- Centro de Saúde
 - Conselho de Administração
 - Contrato de Prestação de Serviços
 - Contrato Individual de Trabalho
 - Coordenador
-- Administração Regional de Saúde
-- Diretor
-- Política de Saúde
-- Serviço Nacional de Saúde
-- Remuneração Acessória
-- Horário de Funcionamento
-- Centro de Saúde
 - Cuidados Médicos
+- Diretor
+- Horário de Funcionamento
+- Horário de Trabalho
+- Política de Saúde
 - Recursos Humanos
 - Regime de Pessoal
-- Horário de Trabalho
+- Remuneração Acessória
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:608237:por
@@ -111,16 +111,63 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
+- type: cites
+  target: pt:dre:171692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:220169:por
+  label: "Revogado pelo DEC LEI.88/2005.03.06.2005.MS, DR.IS-A [107] de 03.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-2005-220169
+  date: '2005-06-03'
+- type: repealed_by
+  target: pt:dre:608237:por
+  label: "Revogado, a partir de 16.05.2009., o Dec Lei 157/99, de 10-Mai, revogado pelo presente diploma e repristinado pelo\
+    \ Dec Lei 88/2005, de 03-Jun, pelo DEC LEI.102/2009.11.05.2009.MS, DR.IS [90] de 11.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2009-608237
+  date: '2009-05-11'
 article_structure:
   article_count: 31
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:59Z'
   warnings: []
   errors: []
 ---
@@ -645,7 +692,7 @@ c) As informações julgadas necessárias ao acompanhamento da actividade dos es
 
 ###### Artigo 28.º — Divulgação pública
 
-**O Ministro da Saúde efectua a divulgação pública todos os anos, através da ARS respectiva, de um relatório com os resultados da avaliação dos serviços e entidades integrados na rede de prestação de cuidados de saúde primários, mediante um conjunto de indicadores que evidencie o seu desempenho, qualidade e eficiência.**
+O Ministro da Saúde efectua a divulgação pública todos os anos, através da ARS respectiva, de um relatório com os resultados da avaliação dos serviços e entidades integrados na rede de prestação de cuidados de saúde primários, mediante um conjunto de indicadores que evidencie o seu desempenho, qualidade e eficiência.
 
 ###### Artigo 29.º — Comissões de serviço
 
@@ -663,28 +710,28 @@ São revogados o [Decreto-Lei n.º 157/99](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Luís Filipe Pereira - Isaltino Afonso de Morais.
 
-**Promulgado em 27 de Fevereiro de 2003.**
+Promulgado em 27 de Fevereiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Março de 2003.**
+Referendado em 24 de Março de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Tabela I
 
 Directores dos centros de saúde - Subsídios de função
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/04/077a00/21182127.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/04/077a00/21182127.pdf)](https://files.diariodarepublica.pt/1s/2003/04/077a00/21182127.pdf)](https://files.diariodarepublica.pt/1s/2003/04/077a00/21182127.pdf)
 
 Tabela II
 
 Directores dos centros de saúde - Remuneração de base
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/04/077a00/21182127.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/04/077a00/21182127.pdf)](https://files.diariodarepublica.pt/1s/2003/04/077a00/21182127.pdf)](https://files.diariodarepublica.pt/1s/2003/04/077a00/21182127.pdf)
 
 Coordenadores dos centros de saúde - Remuneração de base
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/04/077a00/21182127.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/04/077a00/21182127.pdf)](https://files.diariodarepublica.pt/1s/2003/04/077a00/21182127.pdf)](https://files.diariodarepublica.pt/1s/2003/04/077a00/21182127.pdf)

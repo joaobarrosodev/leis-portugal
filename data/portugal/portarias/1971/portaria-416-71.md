@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/416-1971-635631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 359990402d862936a1f9a59062e1a28a569d48c5eea9d169c01760f98367b70c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76156d80d9d2988e3ff7bb9d5689cd5d35fe52752e4f0ce57b4afd7582db1da5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445352:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:28Z'
   warnings: []
   errors: []
 ---
@@ -91,10 +99,10 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o material:
 
-###### Artigo 3.º-A «Construções e obras novas» ... 7951421$40
+Artigo 3.º-A «Construções e obras novas» ... 7951421$40
 
 tomando como contrapartida igual quantia a sair do crédito especial aberto pelo Governo-Geral de Moçambique através da [Portaria n.º 139/71](https://diariodarepublica.pt/dr/detalhe/portaria/139-1971-445352), de 27 de Fevereiro.
 
-**O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.**
+O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.
 
 Para ser publicada no Boletim Oficial de Moçambique.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/12/2004/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/12-2004-608910
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T04:46:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ec9ca34657db6e795f5c0fc8b0f6df7614e9b1bc92deed3a5f6fea14c1fea9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c8da20f33dbb8d3e3e051a0aa93a84f6b2be7e73e0e8b755a09185199b9619a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:46:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cuba
 - Embaixador
 - Havana
 - Nomeação
-- Cuba
 relationships:
 - type: amended_by
   target: pt:dre:452745:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:452745:por
+  label: "Exonerado pelo DEC.121/2008.13.10.2008.PR, DR.IS [198] de 13.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/121-2008-452745
+  date: '2008-10-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:46:57Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +98,16 @@ validation:
 
 de 23 de Janeiro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o ministro plenipotenciário de 1.ª classe Mário Godinho de Matos para o cargo de embaixador de Portugal em Havana.
 
-**Assinado em 5 de Dezembro de 2003.**
+Assinado em 5 de Dezembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Dezembro de 2003.**
+Referendado em 10 de Dezembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso. - A Ministra dos Negócios Estrangeiros e das Comunidades Portuguesas, Maria Teresa Pinto Basto Gouveia.**
+O Primeiro-Ministro, José Manuel Durão Barroso. - A Ministra dos Negócios Estrangeiros e das Comunidades Portuguesas, Maria Teresa Pinto Basto Gouveia.

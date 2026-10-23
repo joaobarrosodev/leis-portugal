@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23554-1968-276201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea87fc6e0a424a1d412a79b1b5bb0c4a1a8a54be188d45940128f4f249c986df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d633fb227df90999ed932c4f5cb645c8af8a8687b83aac21c87666a79e57b07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:281456:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:29Z'
   warnings: []
   errors: []
 ---
@@ -96,6 +100,6 @@ Ministério das Corporações e Previdência Social, 22 de Agosto de 1968. - O M
 
 Da Figura 1 à Figura 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/08/19800/12191220.pdf))](https://files.diariodarepublica.pt/1s/1968/08/19800/12191220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/08/19800/12191220.pdf)
 
 Ministério das Corporações e Previdência Social, 22 de Agosto de 1968. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença.

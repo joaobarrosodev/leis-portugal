@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/15300/0000200009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106/2019/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2019-123891090
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd71273f51b874f431ce10704b4f3bc5092393a8f60bba65cde25964ea43bf64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65269920a0f82090a359828eef95e8758f536479b7676dca8cfe148b8115fe6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Atividade Bancária
 - Autonomia Administrativa
 - Autonomia Financeira
-- Fundo de Resolução
+- Banca
+- Banco de Portugal
 - Caixa de Crédito Agrícola
+- CMVM
 - Comissão Directiva
-- Portugal
 - Estatuto
 - Fundo de Garantia de Depósitos
 - Fundo de Garantia do Crédito Agrícola Mútuo
-- Banco de Portugal
+- Fundo de Resolução
 - Ilícito de MERA Ordenação Social
-- Banca
-- Atividade Bancária
 - Pessoa Colectiva de Direito Público
+- Portugal
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
-- CMVM
 - Sociedade Administradora de Compras em Grupo
 - Sociedade de Factoring
 - Sociedade de Investimento
@@ -132,16 +132,224 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/345/1998/11/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/345/1998/11/09/p/dre
+- type: cites
+  target: pt:dre:106960759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107094725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108074436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114248651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115740680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119397717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:120837264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55068738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55069677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58585556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66581992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66868336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69727377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69920314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70139954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70241306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74216972:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:43Z'
   warnings: []
   errors: []
 ---
@@ -268,7 +476,9 @@ c) [...].
 
 18 - [...].
 
-###### Artigo 145.º-Q — [...]
+Artigo 145.º-Q
+
+[...]
 
 1 - [...].
 
@@ -284,7 +494,9 @@ c) [...].
 
 7 - O valor total dos passivos e elementos extrapatrimoniais a transferir para a instituição de transição não deve exceder o valor total dos ativos transferidos da instituição de crédito objeto de resolução, acrescido, sendo caso disso, dos fundos provenientes do Fundo de Resolução ou do Fundo, nos termos e condições previstos nos artigos 145.º-AA e 167.º-B.
 
-###### Artigo 145.º-T — [...]
+Artigo 145.º-T
+
+[...]
 
 1 - [...].
 
@@ -308,7 +520,9 @@ c) [...].
 
 11 - [...].
 
-###### Artigo 145.º-Y — [...]
+Artigo 145.º-Y
+
+[...]
 
 1 - [...].
 
@@ -346,13 +560,17 @@ g) [...].
 
 11 - [...].
 
-###### Artigo 145.º-AS — [...]
+Artigo 145.º-AS
+
+[...]
 
 1 - Para efeitos do disposto no n.º 3 do artigo anterior, bem como de qualquer meio contencioso onde seja discutido o pagamento de indemnização relacionada com a adoção das medidas previstas no n.º 1 do artigo 145.º-E, não deve ser tomada em consideração a mais-valia resultante de qualquer apoio financeiro público extraordinário, nomeadamente do que seja prestado pelo Fundo de Resolução, ou da intervenção eventualmente realizada pelo Fundo.
 
 2 - [...].
 
-###### Artigo 153.º-F — [...]
+Artigo 153.º-F
+
+[...]
 
 1 - [...].
 
@@ -376,7 +594,9 @@ g) [...].
 
 11 - Os recursos provenientes das contribuições referidas nas alíneas b) e c) do n.º 1 só podem ser utilizados para os efeitos previstos no n.º 1 do artigo 145.º-AA, para reembolsar os empréstimos contraídos pelo Fundo para esses efeitos ou para conceder empréstimos a outros mecanismos de financiamento nos termos do disposto no n.º 8.
 
-###### Artigo 153.º-H — [...]
+Artigo 153.º-H
+
+[...]
 
 1 - [...].
 
@@ -392,7 +612,9 @@ g) [...].
 
 7 - [...].
 
-###### Artigo 156.º — [...]
+Artigo 156.º
+
+[...]
 
 1 - [...].
 
@@ -412,7 +634,9 @@ g) [...].
 
 9 - No caso de um organismo central e das instituições de crédito a ele permanentemente associadas, o organismo central coopera com o Fundo e com o Banco de Portugal com vista ao cumprimento pelas instituições de crédito a ele permanentemente associadas das obrigações previstas no presente título.
 
-###### Artigo 161.º — [...]
+Artigo 161.º
+
+[...]
 
 1 - [...].
 
@@ -458,12 +682,14 @@ O presente decreto-lei entra em vigor no dia 1 de janeiro de 2020.
 
 Visto e aprovado em Conselho de Ministros de 25 de julho de 2019. - Augusto Ernesto Santos Silva - Maria de Fátima de Jesus Fonseca.
 
-**Promulgado em 31 de julho de 2019.**
+Promulgado em 31 de julho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 1 de agosto de 2019.**
+Referendado em 1 de agosto de 2019.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
+
+112508006

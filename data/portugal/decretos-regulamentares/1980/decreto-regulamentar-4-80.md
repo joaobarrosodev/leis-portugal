@@ -47,36 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1980-678214
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a2202929a9b9b29d1f89f7bc8aa9584c07620c7be5603888416b38381be0699
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27e2c02693d6e4c66075a28a9f31ba6915727e830bef153ca80df95dc03c274b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caderno de Encargos
+- Cimento
+- Normalização
+relationships:
+- type: cites
+  target: pt:dre:171082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631617:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:25Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +118,7 @@ Atendendo a estas circunstâncias, e com base nos resultados dos ensaios levados
 
 Assim, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O caderno de encargos para fornecimento e recepção do cimento portland normal, aprovado pelo [Decreto n.º 40870](https://diariodarepublica.pt/dr/detalhe/decreto/40870-1956-298620), de 22 de Novembro de 1956, terá as seguintes alterações no capítulo I:
+Artigo 1.º O caderno de encargos para fornecimento e recepção do cimento portland normal, aprovado pelo [Decreto n.º 40870](https://diariodarepublica.pt/dr/detalhe/decreto/40870-1956-298620), de 22 de Novembro de 1956, terá as seguintes alterações no capítulo I:
 
 1 - O n.º 1 passa a ter a seguinte redacção:
 
@@ -105,9 +128,9 @@ Durante a moagem do clínquer é permitida a adição de gesso, em quantidade ad
 
 2 - No n.º 5 «Valores especificados» o quadro será alterado nas linhas 15 e 16, como se indica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/06100/04160417.pdf))](https://files.diariodarepublica.pt/1s/1980/03/06100/04160417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/06100/04160417.pdf)
 
-###### Art. 2.º O n.º 1 do capítulo I do caderno de encargos para fornecimento e recepção do cimento pozolânico normal, aprovado pelo [Decreto n.º 43683](https://diariodarepublica.pt/dr/detalhe/decreto/43683-1961-171082), de 11 de Maio de 1961, passa a ter a seguinte redacção:
+Art. 2.º O n.º 1 do capítulo I do caderno de encargos para fornecimento e recepção do cimento pozolânico normal, aprovado pelo [Decreto n.º 43683](https://diariodarepublica.pt/dr/detalhe/decreto/43683-1961-171082), de 11 de Maio de 1961, passa a ter a seguinte redacção:
 
 1 - Definição. - O cimento pozolânico normal é o produto obtido por moedura conjunta de clínquer de cimento portland e pozolana e que obedece a todas as prescrições do presente caderno de encargos.
 
@@ -117,7 +140,7 @@ A pozolana deve obedecer às prescrições do caderno de encargos para o forneci
 
 Durante a moagem de clínquer com a pozolana é permitida a adição de gesso, em quantidade adequada para a regularização dos tempos de presa, de agentes de moagem, em muito pequena quantidade, para facilitar esta operação, e de uma quantidade, até 5% do peso do clínquer e de pozolana, de matérias minerais de natureza diversa, como outras pozolanas, escórias de alto-forno ou aditivos inertes (calcário, basalto, etc.).
 
-###### Art. 3.º O caderno de encargos para o fornecimento e recepção dos cimentos portland de ferro e do cimento de alto-forno aprovado pelo [Decreto n.º 49371](https://diariodarepublica.pt/dr/detalhe/decreto/49371-1969-215766), de 11 de Novembro de 1969, terá as seguintes alterações no capítulo I:
+Art. 3.º O caderno de encargos para o fornecimento e recepção dos cimentos portland de ferro e do cimento de alto-forno aprovado pelo [Decreto n.º 49371](https://diariodarepublica.pt/dr/detalhe/decreto/49371-1969-215766), de 11 de Novembro de 1969, terá as seguintes alterações no capítulo I:
 
 1 - O n.º 1 passa a ter a seguinte redacção:
 
@@ -133,14 +156,14 @@ Durante a moagem do clínquer com a escória é permitida a adição de gesso, e
 
 2 - No n.º 6 «Valores especificados» o quadro será alterado nas linhas 14 e 15, como se indica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/06100/04160417.pdf))](https://files.diariodarepublica.pt/1s/1980/03/06100/04160417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/06100/04160417.pdf)
 
-###### Art. 4.º Este decreto entra em vigor na data da sua publicação.
+Art. 4.º Este decreto entra em vigor na data da sua publicação.
 
 Francisco Sá Carneiro - João Lopes Porto.
 
-**Promulgado em 22 de Fevereiro de 1980.**
+Promulgado em 22 de Fevereiro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

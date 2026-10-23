@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/346-1971-643563
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3cf533a2ba0d491ae14b1f124901ba97776bac4083c49b8d25b057d2996a12a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88a370b56a2a6f0494a14e4880498ccad1a0cc590a8c3e1dc182410f515a5a68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,34 @@ relationships:
   target: pt:dre:311073:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:311073:por
+  label: Revogado, a partir de 01.01.1976, o disposto na norma VII da presente portaria, pelo(a) Portaria n.º 752/75 - Diário
+    do Governo n.º 289/1975, Série I de 1975-12-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/752-1975-311073
+  date: '1975-12-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:43Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +139,7 @@ VI - 1. Os subsídios concedidos ao abrigo dos despachos de 26 de Outubro e de 1
 
 VII - 1. A taxa global de contribuição de 10,5 por cento, devida conjuntamente por contribuintes e beneficiários, acrescida de 3 por cento a partir de 1 de Julho de 1970, será repartida como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/15000/09690970.pdf))](https://files.diariodarepublica.pt/1s/1971/06/15000/09690970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/15000/09690970.pdf)
 
 2. Relativamente às contribuições para abono de família e prestações complementares, manter-se-á o condicionalismo actual.
 
@@ -137,4 +155,4 @@ IX - 1. Enquanto não se proceder à completa articulação das duas instituiç�
 
 X - A presente portaria entra em vigor em 1 de Julho de 1971, salvo quanto ao disposto nas normas V e VII, que produzem efeitos a partir de 1 de Janeiro de 1970.
 
-**O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.**
+O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.

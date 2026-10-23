@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/311/2003/12/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-2003-431014
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62388a1af9359013a2c14af6610ba08cbae60abe11afbe379b206790d8948193
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddbfa47bb526ae38efd884f3cd22306c7646a22180d40d6c6c7a99702c3c02c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,36 @@ subjects:
 - Certificado de Conformidade
 - Código da Estrada
 - Direcção Geral de Viação
-- União Europeia
-- Veículo
 - Equipamento de Veículo
 - Regulamento
 - Regulamento da Homologação CE de Modelo de Automóveis e Reboques seus Sistemas Componentes e Unidades Técnicas
 - Regulamento Relativo aos Sistemas de Aquecimento dos Automóveis e seus Reboques
+- União Europeia
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:502980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457203:por
+  label: "Alterados os anexo I, II, III, V, VI, X e aditada a secção III ao cap. IV todos do Regulamento Relativo aos Sistemas\
+    \ de Aquecimento dos Automóveis e Seus Reboques aprovado pelo presente diploma, pelo DEC LEI.3/2005.05.01.2005.MAI, DR.IS-A\
+    \ [3] de 05.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-2005-457203
+  date: '2005-01-05'
+- type: amended_by
+  target: pt:dre:456780:por
+  label: "Alterado o anexo X do Regulamento aprovado pelo presente diploma, com a redacção conferida no Dec Lei 3/005 de 05-Jan,\
+    \ e aditado o anexo XI ao citado regulamento, pelo DEC LEI.134/2008.21.07.2008.MOPTC, DR.IS [139] de 21.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-2008-456780
+  date: '2008-07-21'
+- type: amended_by
+  target: pt:dre:502980:por
+  label: "Dada nova redação ao anexo V (alterado pelo Dec Lei 3/2005 de 05-jan) do Regulamento Relativo aos Sistemas de Aquecimento\
+    \ dos Automóveis e seus Reboques pelo DEC LEI.148/2013.24.10.2013.MECO, DR.IS [206] de 24.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2013-502980
+  date: '2013-10-24'
 - type: cites
   target: celex:31970L0156
   label: null
@@ -96,13 +115,13 @@ relationships:
 article_structure:
   article_count: 29
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:07Z'
   warnings: []
   errors: []
 ---
@@ -165,15 +184,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Outubro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 25 de Novembro de 2003.**
+Promulgado em 25 de Novembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Novembro de 2003.**
+Referendado em 27 de Novembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Regulamento Relativo aos Sistemas de Aquecimento dos Automóveis e Seus Reboques
 
@@ -727,7 +746,7 @@ A marca de homologação como componente acima ilustrada indica que o aquecedor 
 
 1 - No quadro seguinte indicam-se os anexos que são aplicáveis a cada tipo de sistema de aquecimento, em função da categoria do veículo:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/286a00/83958403.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/286a00/83958403.pdf)](https://files.diariodarepublica.pt/1s/2003/12/286a00/83958403.pdf)
 
 2 - O capítulo IV do presente Regulamento contém outros requisitos relativos aos aquecedores de combustão e sua instalação nos veículos.
 
@@ -779,7 +798,7 @@ b) Num ponto situado no interior do veículo, a menos de 1 m da saída do ar aqu
 
 2 - As emissões de escape secas e não diluídas, medidas com um aparelho apropriado, não poderão exceder os valores indicados no quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/286a00/83958403.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/286a00/83958403.pdf)](https://files.diariodarepublica.pt/1s/2003/12/286a00/83958403.pdf)
 
 3 - Repete-se o ensaio em condições equivalentes a uma velocidade do veículo de 100 km/h. Em tais condições, a concentração de CO não poderá exceder 0,2% em volume. Se o ensaio tiver sido efectuado com o aquecedor entendido como componente, não é necessário repeti-lo no caso do modelo de veículo em que o aquecedor está instalado.
 

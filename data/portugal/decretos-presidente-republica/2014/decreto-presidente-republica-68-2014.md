@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/09/17800/0496604966.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/68/2014/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/68-2014-56890478
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T05:20:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2971a7c2461b1f8fee5a622425c7fb7dd6b4ad5eee15cc1734ed96c322736a08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de62bf3c576c47d96e96b9b1ab2e07a9425963a0a76e63d47f44aff297d3f014
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:20:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,39 +68,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Fiscal
-- Imposto Municipal sobre Imóveis
-- Multa
-- Política Fiscal
 - Convenção
-- Portugal
 - Derrama
 - Direito Fiscal
 - Estrasburgo
 - Imposto do SELO
 - Imposto Especial sobre o Consumo
 - Imposto Municipal sobre as Transmissões Onerosas de Imóveis
+- Imposto Municipal sobre Imóveis
+- Imposto sobre Veículos
+- Imposto Único de Circulação
+- IRC
 - IRS
 - IVA
-- Imposto Único de Circulação
+- Multa
 - Paris
-- IRC
+- Política Fiscal
+- Portugal
 - Segurança Social
-- Imposto sobre Veículos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/80/2014/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/80/2014/09/16/p/dre
+- type: cites
+  target: pt:dre:56890479:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:20:47Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +113,7 @@ validation:
 
 de 16 de setembro
 
-**O Presidente da República decreta, nos termos do artigo 135º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135º, alínea b), da Constituição, o seguinte:
 
 ###### Artigo 1.º — Aprovação
 
@@ -169,12 +173,12 @@ Imposto sobre veículos.
 
 b) Nos termos do artigo 3.º da Convenção, a República Portuguesa declara que integram o anexo B, constituindo "autoridades competentes", para efeitos da Convenção, o Ministro das Finanças, o diretor-geral da Autoridade Tributária e Aduaneira ou os seus representantes autorizados.
 
-**Assinado em 5 de setembro de 2014.**
+Assinado em 5 de setembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 11 de setembro de 2014.**
+Referendado em 11 de setembro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

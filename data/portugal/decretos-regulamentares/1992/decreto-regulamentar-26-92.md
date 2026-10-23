@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/26/1992/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/26-1992-226803
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd10cab8b0a9ef428063f0902379cc4f6bafbe7bf2228fb5c97bcc26585b52f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b34ee2257f2f6d4755964f951d7b94a61e512d8dd0fe6225b89ffa6fff13a55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alfândega
+- Exportação
 - Impresso
 - Veículo
-- Exportação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/262/1991/07/26/p/dre
@@ -78,16 +78,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/884/1991/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/884/1991/08/28/p/dre
+- type: cites
+  target: pt:dre:302294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690984:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:04Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +122,7 @@ Assim:
 
 Ao abrigo do n.º 6 do artigo 13.º do [Decreto-Lei n.º 262/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), de 26 de Julho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Para efeitos de atribuição de matrícula de exportação, o interessado apresentará, na sede da alfândega que superintenda na área por onde se efectue a exportação, o respectivo pedido, efectuado em formulário próprio, constante do anexo I ao presente decreto regulamentar, devidamente preenchido e instruído com os seguintes documentos:
+Artigo 1.º Para efeitos de atribuição de matrícula de exportação, o interessado apresentará, na sede da alfândega que superintenda na área por onde se efectue a exportação, o respectivo pedido, efectuado em formulário próprio, constante do anexo I ao presente decreto regulamentar, devidamente preenchido e instruído com os seguintes documentos:
 
 a) Livrete e título de registo de propriedade, bem como respectivas fotocópias, caso aqueles tenham sido anteriormente emitidos;
 
@@ -114,7 +130,7 @@ b) Factura comercial ou outros documentos administrativos e comerciais, nos caso
 
 c) Fotocópia do documento único (DU) ou documento equivalente, respeitante ao anterior regime aduaneiro, se for esse o caso.
 
-###### Art. 2.º - 1 - O pedido de atribuição de matrícula de exportação será analisado pelo serviço da alfândega a que se refere o artigo 1.º, o qual inscreverá no campo 15 do formulário referido no mesmo artigo, se estiver em condições de ser aceite, o número de série sequencial, a respectiva data e a alfândega processadora.
+Art. 2.º - 1 - O pedido de atribuição de matrícula de exportação será analisado pelo serviço da alfândega a que se refere o artigo 1.º, o qual inscreverá no campo 15 do formulário referido no mesmo artigo, se estiver em condições de ser aceite, o número de série sequencial, a respectiva data e a alfândega processadora.
 
 2 - O serviço a que se refere o número anterior aporá ainda, no livrete e no título de registo de propriedade, um carimbo com a menção «Exportação-Alfândega de ...», rubricado, enviando estes documentos à Direcção-Geral de Viação para efeitos de cancelamento da anterior matrícula nacional.
 
@@ -122,49 +138,49 @@ c) Fotocópia do documento único (DU) ou documento equivalente, respeitante ao 
 
 4 - Não será atribuído número de série de matrícula de exportação aos veículos que sejam portadores de uma matrícula nacional sem que previamente seja emitida a respectiva certidão de cancelamento pela Direcção-Geral de Viação.
 
-###### Art. 3.º - 1 - O interessado deverá, mediante guia processada para o efeito pelo serviço competente da alfândega, adquirir a respectiva chapa de matrícula, nos termos do disposto na [Portaria n.º 884/91](https://diariodarepublica.pt/dr/detalhe/portaria/884-1991-403919), de 28 de Agosto, junto da entidade oficialmente autorizada para o seu fabrico, a indicar pela Direcção-Geral de Viação.
+Art. 3.º - 1 - O interessado deverá, mediante guia processada para o efeito pelo serviço competente da alfândega, adquirir a respectiva chapa de matrícula, nos termos do disposto na [Portaria n.º 884/91](https://diariodarepublica.pt/dr/detalhe/portaria/884-1991-403919), de 28 de Agosto, junto da entidade oficialmente autorizada para o seu fabrico, a indicar pela Direcção-Geral de Viação.
 
 2 - O serviço competente da alfândega aporá na chapa de matrícula o respectivo selo distintivo de validade e, após ter procedido a essa aposição, emitirá o documento aduaneiro de circulação, adiante denominado DAC, no qual constará o prazo de validade da matrícula.
 
 3 - O DAC - documento aduaneiro de circulação - será numerado sequencialmente e obedecerá ao modelo constante do anexo II ao presente diploma.
 
-###### Art. 4.º - 1 - A matrícula de exportação, a que se refere o n.º 3 do artigo 3.º, comportará um selo distintivo do seu prazo de validade, conforme modelo n.º 1 constante do quadro n.º 11 anexo à [Portaria n.º 884/91](https://diariodarepublica.pt/dr/detalhe/portaria/884-1991-403919), de 28 de Agosto, sendo o fundo em branco retrorreflector e os caracteres referentes ao ano e mês de validade a preto, em material autocolante indelével.
+Art. 4.º - 1 - A matrícula de exportação, a que se refere o n.º 3 do artigo 3.º, comportará um selo distintivo do seu prazo de validade, conforme modelo n.º 1 constante do quadro n.º 11 anexo à [Portaria n.º 884/91](https://diariodarepublica.pt/dr/detalhe/portaria/884-1991-403919), de 28 de Agosto, sendo o fundo em branco retrorreflector e os caracteres referentes ao ano e mês de validade a preto, em material autocolante indelével.
 
 2 - Os selos não utilizados no mês para que foram emitidos serão destruídos, mediante levantamento do respectivo auto.
 
-###### Art. 5.º - 1 - Atribuídos que sejam a matrícula de exportação e o DAC, a segunda via do pedido de atribuição de matrícula de exportação será enviada à delegação aduaneira nele indicada como processadora da exportação, sendo os campos 15, 16, 17, 18, 19, 20 e 21 devidamente preenchidos.
+Art. 5.º - 1 - Atribuídos que sejam a matrícula de exportação e o DAC, a segunda via do pedido de atribuição de matrícula de exportação será enviada à delegação aduaneira nele indicada como processadora da exportação, sendo os campos 15, 16, 17, 18, 19, 20 e 21 devidamente preenchidos.
 
 2 - Aquando da exportação, a delegação aduaneira juntará aquela via ao DU respectivo nos casos em que houver lugar ao seu processamento, devendo a folha de declarações e pedidos conter o número de série do DAC e da matrícula de exportação.
 
-###### Art. 6.º - 1 - As delegações aduaneiras processadoras dos DUs de exportação devem enviar aos serviços da respectiva alfândega listagem mensal dos veículos efectivamente saídos do País com matrículas de exportação.
+Art. 6.º - 1 - As delegações aduaneiras processadoras dos DUs de exportação devem enviar aos serviços da respectiva alfândega listagem mensal dos veículos efectivamente saídos do País com matrículas de exportação.
 
 2 - A delegação aduaneira de saída deverá igualmente, havendo ou não lugar ao processamento do DU, destacar a folha de saída do DAC e remetê-la mensalmente, devidamente preenchida, à alfândega emissora.
 
-###### Art. 7.º As sedes das alfândegas enviarão mensalmente à Direcção-Geral das Alfândegas listagens das matrículas de exportação atribuídas, selos apostos e inutilizados, bem como das operações de exportação efectiva que se tenham efectuado ao abrigo deste regime.
+Art. 7.º As sedes das alfândegas enviarão mensalmente à Direcção-Geral das Alfândegas listagens das matrículas de exportação atribuídas, selos apostos e inutilizados, bem como das operações de exportação efectiva que se tenham efectuado ao abrigo deste regime.
 
-###### Art. 8.º Os veículos para os quais tenha sido emitido o DAC poderão circular no território nacional, a coberto do mesmo, durante o seu prazo de validade, mediante a atribuição de uma matrícula de exportação.
+Art. 8.º Os veículos para os quais tenha sido emitido o DAC poderão circular no território nacional, a coberto do mesmo, durante o seu prazo de validade, mediante a atribuição de uma matrícula de exportação.
 
-###### Art. 9.º As infracções ao disposto neste diploma constituem contra-ordenação aduaneira, nos termos do disposto no Regime Jurídico das Infracções Fiscais Aduaneiras, aprovado pelo [Decreto-Lei n.º 376-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-a-1989-302294), de 25 de Outubro, sem prejuízo do disposto no que respeita a matéria criminal.
+Art. 9.º As infracções ao disposto neste diploma constituem contra-ordenação aduaneira, nos termos do disposto no Regime Jurídico das Infracções Fiscais Aduaneiras, aprovado pelo [Decreto-Lei n.º 376-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-a-1989-302294), de 25 de Outubro, sem prejuízo do disposto no que respeita a matéria criminal.
 
 Presidência do Conselho de Ministros, 10 de Agosto de 1992.
 
 Aníbal António Cavaco Silva - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 16 de Agosto de 1992.**
+Promulgado em 16 de Agosto de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Setembro de 1992.**
+Referendado em 20 de Setembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — (a que se refere o artigo 1.º)
 
 Pedido de atribuição de matrícula de exportação mod. V. 2099 e instruções de preenchimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/237b00/48184821.pdf))](https://files.diariodarepublica.pt/1s/1992/10/237b00/48184821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/237b00/48184821.pdf)
 
 Instruções de preenchimento respeitantes ao mod. V. 2099
 
@@ -228,4 +244,4 @@ Numerado sequencialmente por picotagem com agulhas: seis algarismos.
 
 Dimensão: 7 mm.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/237b00/48184821.pdf))](https://files.diariodarepublica.pt/1s/1992/10/237b00/48184821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/237b00/48184821.pdf)

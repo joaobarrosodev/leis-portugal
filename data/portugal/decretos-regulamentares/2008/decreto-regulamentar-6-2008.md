@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/6/2008/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2008-247450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:32:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56da4318139192654896de862264a581547959796ec5ddf161c264f474784183
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3cf54a6ced2631fcd0197f0f0bcb0df187cb5e87546038b890ce21a5a588ea8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:32:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção dos Animais
 - Cuba.alentejo
+- Diversidade Biológica
+- Évora
 - Monforte
 - Proteção do Ambiente
-- Diversidade Biológica
-- Zona de Proteção
-- Évora
+- Proteção dos Animais
 - Rede Natura 2000
+- Zona de Proteção
 relationships:
 - type: cites
   target: celex:31979L0409
@@ -82,13 +82,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:32:10Z'
   warnings: []
   errors: []
 ---
@@ -137,15 +137,15 @@ b) A protecção, a gestão e o controlo das espécies referidas na alínea a) d
 
 Visto e aprovado em Conselho de Ministros de 10 de Janeiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 8 de Fevereiro de 2008.**
+Promulgado em 8 de Fevereiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Fevereiro de 2008.**
+Referendado em 12 de Fevereiro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Zona de protecção especial de Monforte
 
@@ -157,7 +157,7 @@ O perímetro da zona de protecção especial de Monforte está incluído nas car
 
 Coordenadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
 
 Zona de protecção especial de Veiros
 
@@ -169,7 +169,7 @@ O perímetro da zona de protecção especial de Veiros está incluído na carta 
 
 Coordenadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
 
 Zona de protecção especial de Vila Fernando
 
@@ -181,7 +181,7 @@ O perímetro da zona de protecção especial de Vila Fernando está incluído na
 
 Coordenadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
 
 Zona de protecção especial de São Vicente
 
@@ -193,7 +193,7 @@ O perímetro da zona de protecção especial de São Vicente está incluído nas
 
 Coordenadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
 
 Zona de protecção especial de Évora
 
@@ -207,7 +207,7 @@ O perímetro da zona de protecção especial está incluído na carta militar 1:
 
 Coordenadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
 
 Évora Sul
 
@@ -219,7 +219,7 @@ O perímetro da zona de protecção especial está incluído nas cartas militare
 
 Coordenadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
 
 Zona de protecção especial de Reguengos
 
@@ -231,7 +231,7 @@ O perímetro da zona de protecção especial de Reguengos está incluído nas ca
 
 Coordenadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
 
 Zona de protecção especial de Cuba
 
@@ -243,7 +243,7 @@ O perímetro da zona de protecção especial de Cuba está incluído nas cartas 
 
 Coordenadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
 
 Zona de protecção especial de Piçarras
 
@@ -255,36 +255,36 @@ O perímetro da zona de protecção especial de Piçarras está incluído nas ca
 
 Coordenadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
 
 ## ANEXO II — Carta da zona de protecção especial (ZPE) de Monforte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
 
 Carta da zona de protecção especial (ZPE) de Veiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
 
 Carta da zona de protecção especial (ZPE) de Vila Fernando
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
 
 Carta da zona de protecção especial (ZPE) de São Vicente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
 
 Carta da zona de protecção especial (ZPE) de Évora
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
 
 Carta da zona de protecção especial (ZPE) de Reguengos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
 
 Carta da zona de protecção especial (ZPE) de Cuba
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
 
 Carta da Zona de Protecção Especial (ZPE) de Piçarras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04000/0128801297.pdf)

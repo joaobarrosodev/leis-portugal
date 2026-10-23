@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/132/2009/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2009-494476
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3830ee8a460e30093d22862e9ffc47e832ca1f01ed578adb3f9d1073e8b5e38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d54114d883441a2716625dbf2017a0a9450e3d547af009e2d11a5764ec2c47f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Secretaria Geral
-- Presidência da República
 - Orgânica
+- Presidência da República
 - Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/288/2000/11/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/288/2000/11/13/p/dre
+- type: cites
+  target: pt:dre:615796:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:19Z'
   warnings: []
   errors: []
 ---
@@ -156,12 +160,12 @@ h) Gerir e supervisionar as equipas de trabalho da sua área de responsabilidade
 
 Visto e aprovado em Conselho de Ministros de 23 de Abril de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 20 de Maio de 2009.**
+Promulgado em 20 de Maio de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de Maio de 2009.**
+Referendado em 21 de Maio de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

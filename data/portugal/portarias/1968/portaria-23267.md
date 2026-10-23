@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23267-1968-234764
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38d07b2715fb216787206939228410475dd360d52899a92656637774f68e23cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f5a0b6cf2d949dcef6f239aa1f9a9d847b372742e57bd73ec282e7d0187ed40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:475084:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:21Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +98,11 @@ Para ser publicada no Boletim Oficial de todas as províncias ultramarinas. - J.
 
 REGULAMENTO DO SECTOR DA PREVIDÊNCIA DA OBRA SOCIAL DO MINISTÉRIO DO ULTRAMAR
 
-###### Artigo 1.º - 1. No sector da previdência, a Obra Social do Ministério do Ultramar, adiante designada por Obra Social, tem por fim essencial assegurar por morte dos seus subscritores um subsídio pecuniário único, pago por uma só vez, à pessoa ou pessoas consideradas hábeis para o efeito, nos termos deste Regulamento.
+Artigo 1.º - 1. No sector da previdência, a Obra Social do Ministério do Ultramar, adiante designada por Obra Social, tem por fim essencial assegurar por morte dos seus subscritores um subsídio pecuniário único, pago por uma só vez, à pessoa ou pessoas consideradas hábeis para o efeito, nos termos deste Regulamento.
 
 2. Sem prejuízo da finalidade essencial referida no n.º 1 deste artigo, e quando as suas condições financeiras o permitirem, a Obra Social poderá cooperar em quaisquer outras actividades destinadas a beneficiar os subscritores, mediante condições a aprovar por despacho do Ministro do Ultramar.
 
-###### Art. 2.º - 1. São hábeis para se inscreverem como subscritores da previdência da Obra Social os beneficiários previstos no artigo 4.º do [Decreto-Lei n.º 47069](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47069-1966-475084), de 4 de Julho de 1966.
+Art. 2.º - 1. São hábeis para se inscreverem como subscritores da previdência da Obra Social os beneficiários previstos no artigo 4.º do [Decreto-Lei n.º 47069](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47069-1966-475084), de 4 de Julho de 1966.
 
 2. A inscrição dos indivíduos referidos no n.º 1 deste artigo é facultativa.
 
@@ -106,27 +110,27 @@ REGULAMENTO DO SECTOR DA PREVIDÊNCIA DA OBRA SOCIAL DO MINISTÉRIO DO ULTRAMAR
 
 4. São mantidos aos subscritores a que se refere o número anterior os direitos que tinham na referida instituição nas condições previstas nos respectivos estatutos, salvo se desejarem actualizar os seus subsídios nos termos do artigo 7.º do presente Regulamento.
 
-###### Art. 3.º - 1. As inscrições serão feitas numa folha individual de inscrição, da qual conste o nome do interessado, data do nascimento, lugar, freguesia, concelho e província ultramarina onde nasceu, filiação, estado, indicação do diploma, portaria de nomeação, data da posse e importância que deseja subscrever, tudo segundo o modelo I anexo a este Regulamento.
+Art. 3.º - 1. As inscrições serão feitas numa folha individual de inscrição, da qual conste o nome do interessado, data do nascimento, lugar, freguesia, concelho e província ultramarina onde nasceu, filiação, estado, indicação do diploma, portaria de nomeação, data da posse e importância que deseja subscrever, tudo segundo o modelo I anexo a este Regulamento.
 
 2. Estes elementos serão confirmados pelo chefe hierárquico de que dependa o funcionário a inscrever.
 
 3. As inscrições a que se refere o artigo anterior só se consideram efectuadas quando a importância da primeira quota der entrada na tesouraria da Comissão Executiva dos Organismos Assistenciais.
 
-###### Art. 4.º - 1. Os subsídios pecuniários a subscrever, nos termos do artigo 1.º, não poderão ser inferiores a 10000$00, nem superiores a 50000$00, devendo ser sempre múltiplos de 5000$00.
+Art. 4.º - 1. Os subsídios pecuniários a subscrever, nos termos do artigo 1.º, não poderão ser inferiores a 10000$00, nem superiores a 50000$00, devendo ser sempre múltiplos de 5000$00.
 
 2. Logo que as circunstâncias o permitirem, o limite a que se refere o n.º 1 deste artigo poderá ser elevado para 100000$00, mediante autorização ministerial, em face de proposta fundamentada da direcção da Obra Social.
 
 3. No acto da inscrição o subsídio a subscrever não poderá ser superior a 25000$00.
 
-###### Art. 5.º - 1. Os subsídios são impenhoráveis, não ficando assim sujeitos a arresto ou acção judicial para pagamento de dívidas, e sobre eles não poderá incidir qualquer contribuição, imposto ou taxa, e não poderão, pela sua natureza, fazer parte de arrolamentos de bens.
+Art. 5.º - 1. Os subsídios são impenhoráveis, não ficando assim sujeitos a arresto ou acção judicial para pagamento de dívidas, e sobre eles não poderá incidir qualquer contribuição, imposto ou taxa, e não poderão, pela sua natureza, fazer parte de arrolamentos de bens.
 
 2. Quando o subscritor, à data do seu falecimento, dever à Obra Social quaisquer das quotas, adicionais e indemnizações a que se referem os artigos 12.º a 18.º do presente Regulamento ou qualquer outra importância, o total do seu débito será deduzido do subsídio a entregar aos herdeiros considerados hábeis, nos termos do artigo 21.º
 
-###### Art. 6.º - 1. As pessoas hábeis designadas nos n.os 1.º a 3.º da alínea 2) do artigo 21.º, quando os subsídios subscritos não forem superiores a 10000$00, têm obrigatòriamente direito à sua totalidade. Quando, porém, os subsídios forem superiores àquela quantia, os subscritores podem dispor livremente do excedente em benefício de quem designarem em declaração formulada nas condições referidas no artigo 24.º do presente Regulamento.
+Art. 6.º - 1. As pessoas hábeis designadas nos n.os 1.º a 3.º da alínea 2) do artigo 21.º, quando os subsídios subscritos não forem superiores a 10000$00, têm obrigatòriamente direito à sua totalidade. Quando, porém, os subsídios forem superiores àquela quantia, os subscritores podem dispor livremente do excedente em benefício de quem designarem em declaração formulada nas condições referidas no artigo 24.º do presente Regulamento.
 
 2. Para efeitos da aplicação do disposto na segunda parte do n.º 1 deste artigo, o subsídio reduzido a que se refere o artigo 19.º, quando acumulado com qualquer outro subsídio, considerar-se-á como um único subsídio.
 
-###### Art. 7.º - 1. Qualquer subscritor poderá aumentar, a seu pedido, o subsídio em que inicialmente se tenha inscrito, devendo subordinar-se às seguintes condições:
+Art. 7.º - 1. Qualquer subscritor poderá aumentar, a seu pedido, o subsídio em que inicialmente se tenha inscrito, devendo subordinar-se às seguintes condições:
 
 a) Ter um ano, pelo menos, de subscritor, a contar da data de admissão;
 
@@ -140,33 +144,33 @@ d) Estar em boas condições de saúde.
 
 3. Os subscritores que aumentem os subsídios ficam sujeitos ao disposto no artigo 13.º quanto ao pagamento de quotas e adicionais.
 
-###### Art. 8.º - 1. Os subscritores podem reduzir o seu subsídio até aos limites mínimos preceituados no artigo 4.º, ficando, porém, os respectivos beneficiários com direito ao subsídio reduzido e a um subsídio suplementar correspondente à diferença entre a reserva matemática do subsídio anterior à data da redução e a reserva do novo subsídio na mesma data, sendo ambas calculadas com a mesma taxa de juro que a utilizada no cálculo das quotas que os subscritores tiverem pago.
+Art. 8.º - 1. Os subscritores podem reduzir o seu subsídio até aos limites mínimos preceituados no artigo 4.º, ficando, porém, os respectivos beneficiários com direito ao subsídio reduzido e a um subsídio suplementar correspondente à diferença entre a reserva matemática do subsídio anterior à data da redução e a reserva do novo subsídio na mesma data, sendo ambas calculadas com a mesma taxa de juro que a utilizada no cálculo das quotas que os subscritores tiverem pago.
 
 2. Os subscritores que reduzam os subsídios ficam sujeitos às disposições do artigo 13.º quanto ao pagamento de quotas e adicionais.
 
-###### Art. 9.º Os subscritores que hajam completado 69 anos de idade e não tenham a seu cargo qualquer dos parentes designados nos n.os 1.º a 3.º da alínea 2) do artigo 21.º poderão requerer a liquidação dos seus encargos com a Obra Social, recebendo 90 por cento da reserva matemática a que tiverem direito à data do requerimento.
+Art. 9.º Os subscritores que hajam completado 69 anos de idade e não tenham a seu cargo qualquer dos parentes designados nos n.os 1.º a 3.º da alínea 2) do artigo 21.º poderão requerer a liquidação dos seus encargos com a Obra Social, recebendo 90 por cento da reserva matemática a que tiverem direito à data do requerimento.
 
-###### Art. 10.º - 1. Os subscritores adquirem o direito de legar um quinto do subsídio com que se subscreveram, ou do seu aumento, por cada ano decorrido após a inscrição ou a concessão do aumento, até se atingir a totalidade do subsídio subscrito ou do seu aumento.
+Art. 10.º - 1. Os subscritores adquirem o direito de legar um quinto do subsídio com que se subscreveram, ou do seu aumento, por cada ano decorrido após a inscrição ou a concessão do aumento, até se atingir a totalidade do subsídio subscrito ou do seu aumento.
 
 2. O período de um ano a que se refere este artigo começa a contar-se desde o dia em que derem entrada na Obra Social as primeiras quotas correspondentes ao subsídio ou ao seu aumento.
 
-###### Art. 11.º Se o subscritor falecer antes de decorrido um ano após a inscrição ou depois de ter aumentado o subsídio, será entregue às pessoas hábeis para receberem o subsídio subscrito, no primeiro caso, a importância das quotas pagas e, no segundo caso, o subsídio em que estava inscrito antes da concessão do aumento ou aquele a que tiver direito nos termos do artigo 10.º, acrescido das quotas correspondentes ao mesmo aumento.
+Art. 11.º Se o subscritor falecer antes de decorrido um ano após a inscrição ou depois de ter aumentado o subsídio, será entregue às pessoas hábeis para receberem o subsídio subscrito, no primeiro caso, a importância das quotas pagas e, no segundo caso, o subsídio em que estava inscrito antes da concessão do aumento ou aquele a que tiver direito nos termos do artigo 10.º, acrescido das quotas correspondentes ao mesmo aumento.
 
-###### Art. 12.º As quotas mensais a que os subscritores ficam obrigados são as da tabela A anexa a este Regulamento, correspondentes à sua idade na data da inscrição ou na da concessão do aumento do subsídio, arredondadas, na totalidade, para a dezena de centavos imediatamente superior.
+Art. 12.º As quotas mensais a que os subscritores ficam obrigados são as da tabela A anexa a este Regulamento, correspondentes à sua idade na data da inscrição ou na da concessão do aumento do subsídio, arredondadas, na totalidade, para a dezena de centavos imediatamente superior.
 
-###### Art. 13.º Os subscritores a quem for concedido o aumento de subsídio nos termos do artigo 7.º ficam obrigados a pagar, desde o dia 1 do mês imediato ao da concessão, a quota correspondente ao subsídio inicialmente subscrito, acrescida da que corresponder à importância do aumento e à idade na data da concessão, calculada pela tabela em vigor na mesma data, e bem assim o adicional correspondente de que trata o artigo 15.º
+Art. 13.º Os subscritores a quem for concedido o aumento de subsídio nos termos do artigo 7.º ficam obrigados a pagar, desde o dia 1 do mês imediato ao da concessão, a quota correspondente ao subsídio inicialmente subscrito, acrescida da que corresponder à importância do aumento e à idade na data da concessão, calculada pela tabela em vigor na mesma data, e bem assim o adicional correspondente de que trata o artigo 15.º
 
-###### Art. 14.º Os subscritores que reduzirem o subsídio nos termos do artigo 8.º ficam obrigados, desde o dia 1 do mês imediato ao da concessão, ao pagamento da quota correspondente ao novo subsídio, calculada de acordo com a idade e a tabela em vigor na data da inscrição, e ao adicional de que trata o artigo 15.º correspondente à soma das importâncias do novo subsídio e do subsídio suplementar.
+Art. 14.º Os subscritores que reduzirem o subsídio nos termos do artigo 8.º ficam obrigados, desde o dia 1 do mês imediato ao da concessão, ao pagamento da quota correspondente ao novo subsídio, calculada de acordo com a idade e a tabela em vigor na data da inscrição, e ao adicional de que trata o artigo 15.º correspondente à soma das importâncias do novo subsídio e do subsídio suplementar.
 
-###### Art. 15.º - 1. Todos os subscritores contribuirão mensalmente para as despesas de administração com um adicional à sua quotização da importância indicada na tabela B anexa a este Regulamento.
+Art. 15.º - 1. Todos os subscritores contribuirão mensalmente para as despesas de administração com um adicional à sua quotização da importância indicada na tabela B anexa a este Regulamento.
 
 2. Quando as circunstâncias o exijam, o Ministro do Ultramar poderá determinar a alteração do adicional referido neste artigo, mediante proposta fundamentada da respectiva comissão executiva.
 
-###### Art. 16.º - 1. As quotas mensais e os respectivos adicionais a pagar pelos subscritores consideram-se vencidos no primeiro dia do mês a que disserem respeito e pagos quando a respectiva importância der entrada na tesouraria da Comissão Executiva dos Organismos Assistenciais da Obra Social até ao dia 10 do mesmo mês ou, quando o pagamento se efectuar por desconto nos vencimentos, na data em que a respectiva importância for entregue nos cofres do Estado.
+Art. 16.º - 1. As quotas mensais e os respectivos adicionais a pagar pelos subscritores consideram-se vencidos no primeiro dia do mês a que disserem respeito e pagos quando a respectiva importância der entrada na tesouraria da Comissão Executiva dos Organismos Assistenciais da Obra Social até ao dia 10 do mesmo mês ou, quando o pagamento se efectuar por desconto nos vencimentos, na data em que a respectiva importância for entregue nos cofres do Estado.
 
 2. Qualquer atraso nesta liquidação importará o pagamento ao cofre de uma indemnização de 1 por cento ao mês quando o atraso for superior a um ou três meses, segundo se trate, respectivamente, de subscritores com residência na metrópole ou de subscritores noutras condições referidas no artigo 17.º, a qual será sempre arredondada para mais em escudos. O pagamento desta indemnização deverá ser feito pelos subscritores ou entidades a quem, nos termos do artigo seguinte, competir fazer os descontos das quotas e adicionais nos vencimentos do subscritor e entregá-lo ou remetê-lo à Obra Social ou ainda daqueles por intermédio dos quais os referidos descontos sejam transferidos, conforme se verificar que a responsabilidade do atraso pertence a uns ou a outros.
 
-###### Art. 17.º - 1. As quotas, adicionais e indemnizações serão pagos:
+Art. 17.º - 1. As quotas, adicionais e indemnizações serão pagos:
 
 a) Por descontos feitos nos respectivos vencimentos ou pensões no mês anterior àquele a que as quotas e adicionais disserem respeito, no caso de subscritores funcionários;
 
@@ -182,9 +186,9 @@ b) Por entrega pessoal ou por intermédio de representante em Lisboa, por remess
 
 6. Qualquer que seja a sua situação, os subscritores serão sempre os primeiros e directos responsáveis pelo pagamento das suas quotas, adicionais e indemnizações, pelo que, para garantia dos seus direitos, devem informar-se da modalidade do pagamento mais compatível com a situação que tiverem e assegurar-se de que a remessa das importâncias correspondentes aos seus débitos seja feita de modo a realizarem-se os pagamentos dentro dos prazos normais.
 
-###### Art. 18.º As importâncias respeitantes a quotas, adicionais e indemnizações devidas por subscritores falecidos e deduzidas dos subsídios serão entregues aos interessados logo que sejam recebidas na Obra Social as quantias que tenham sido descontadas nos vencimentos ou pensões dos subscritores para liquidação dos referidos encargos e remetidas pelas entidades competentes.
+Art. 18.º As importâncias respeitantes a quotas, adicionais e indemnizações devidas por subscritores falecidos e deduzidas dos subsídios serão entregues aos interessados logo que sejam recebidas na Obra Social as quantias que tenham sido descontadas nos vencimentos ou pensões dos subscritores para liquidação dos referidos encargos e remetidas pelas entidades competentes.
 
-###### Art. 19.º - 1. Os subscritores que estiverem em atraso de pagamento à Obra Social das quotas e adicionais correspondentes a seis meses e que após o aviso da Comissão Executiva dos Organismos Assistenciais não liquidarem esse débito no prazo de seis meses, acrescido da indemnização estabelecida no n.º 2 do artigo 16.º, enquanto não saldarem a sua dívida à Obra Social, terão os subsídios reduzidos ao valor da reserva matemática na data em que cessarem o pagamento. O cálculo da reserva matemática será feito com a mesma taxa de juro utilizada no cálculo das quotas que os subscritores pagaram.
+Art. 19.º - 1. Os subscritores que estiverem em atraso de pagamento à Obra Social das quotas e adicionais correspondentes a seis meses e que após o aviso da Comissão Executiva dos Organismos Assistenciais não liquidarem esse débito no prazo de seis meses, acrescido da indemnização estabelecida no n.º 2 do artigo 16.º, enquanto não saldarem a sua dívida à Obra Social, terão os subsídios reduzidos ao valor da reserva matemática na data em que cessarem o pagamento. O cálculo da reserva matemática será feito com a mesma taxa de juro utilizada no cálculo das quotas que os subscritores pagaram.
 
 2. A aplicação do disposto no n.º 1 deste artigo poderá ficar suspensa quando ocorram circunstâncias extraordinárias e ponderosas que tal tornem aconselhável e os subscritores não se encontrem em condições de cuidar dos seus deveres e velar pelos seus direitos. Em tais casos os débitos à Obra Social serão liquidados de uma só vez ou em prestações mensais nunca inferiores ao quantitativo de duas quotas.
 
@@ -192,13 +196,13 @@ Para o cálculo da indemnização deverá considerar-se uma taxa igual à dos ju
 
 3. Quando se verifique o falecimento de subscritores abrangidos pelas disposições deste artigo, os seus beneficiários apenas terão direito aos respectivos subsídios reduzidos, salvo se a morte tiver ocorrido por motivo de acidente em serviço.
 
-###### Art. 20.º Os subscritores que tenham sofrido redução do subsídio nos termos do artigo anterior podem, se não excederem o limite de idade fixado no artigo 7.º e forem julgados em condições favoráveis de saúde, readquirir os seus direitos, pagando de uma só vez todas as importâncias em dívida, acrescidas dos respectivos juros à taxa de 1 por cento ao mês.
+Art. 20.º Os subscritores que tenham sofrido redução do subsídio nos termos do artigo anterior podem, se não excederem o limite de idade fixado no artigo 7.º e forem julgados em condições favoráveis de saúde, readquirir os seus direitos, pagando de uma só vez todas as importâncias em dívida, acrescidas dos respectivos juros à taxa de 1 por cento ao mês.
 
 Aos subscritores nas condições indicadas é também facultado socorrerem-se do preceituado no artigo 7.º, subscrevendo um aumento do seu subsídio reduzido.
 
 No primeiro caso, o subscritor fica obrigado à quota que pagava até à redução do subsídio; no segundo caso, fica sujeito ao pagamento da quota correspondente ao aumento.
 
-###### Art. 21.º - 1. São hábeis para receber o subsídio legado:
+Art. 21.º - 1. São hábeis para receber o subsídio legado:
 
 1) Quaisquer pessoas designadas pelo subscritor na declaração a que se refere o artigo 24.º, na proporção nela indicada, com a restrição imposta pelo artigo 6.º;
 
@@ -218,15 +222,15 @@ b) As irmãs solteiras, viúvas, divorciadas ou separadas judicialmente, quando 
 
 2. Se não houver herdeiros hábeis, o subsídio reverte para a Obra Social, cumpridas as formalidades prescritas no artigo 29.º
 
-###### Art. 22.º - 1. A viúva do subscritor, sempre que este não deixar declaração em contrário, é competente para receber a parte do subsídio que cabe aos filhos menores ou mentalmente incapazes que estejam a seu cargo.
+Art. 22.º - 1. A viúva do subscritor, sempre que este não deixar declaração em contrário, é competente para receber a parte do subsídio que cabe aos filhos menores ou mentalmente incapazes que estejam a seu cargo.
 
 2. Na falta da viúva e quando não houver declaração escrita do subscritor indicando a pessoa ou pessoas que devem receber o subsídio destinado a herdeiros hábeis, menores ou mentalmente incapazes, será o referido subsídio confiado à pessoa ou pessoas que forem pela Obra Social consideradas idóneas para o receber e dar-lhe a devida aplicação. Na falta de pessoas nestas condições, o subsídio destinado a menores será depositado em seu nome e à sua ordem na Caixa Geral de Depósitos, Crédito e Previdência, com a cláusula de só poder ser levantado quando aqueles atingirem a maioridade.
 
 3. Os subsídios, quando depositados à ordem dos menores nos termos do artigo anterior, ficam isentos de qualquer penhora, arresto ou acção judicial que se destine ao pagamento de dívidas ou quaisquer outros encargos da responsabilidade dos subscritores que os legarem.
 
-###### Art. 23.º Quando se verificar a incapacidade mental ou de administração de bens por parte dos herdeiros hábeis maiores, será o subsídio entregue a tutor legal ou à pessoa idónea indicada expressamente pelo subscritor.
+Art. 23.º Quando se verificar a incapacidade mental ou de administração de bens por parte dos herdeiros hábeis maiores, será o subsídio entregue a tutor legal ou à pessoa idónea indicada expressamente pelo subscritor.
 
-###### Art. 24.º - 1. Para efeitos do disposto nos artigos 6.º, 21.º, 22.º e 23.º, os subscritores entregarão pessoalmente ou remeterão à Comissão Executiva dos Organismos Assistenciais, juntamente com a sua folha de inscrição, uma declaração modelo III anexo ao presente Regulamento, sobre a forma como deve ser distribuído o subsídio que tenham direito a legar, indicando o nome, estado e naturalidade, data do nascimento e filiação da pessoa ou pessoas beneficiárias, desde que não se trate das especificadas nos n.os 1.º, 2.º e 3.º da alínea 2) do artigo 21.º
+Art. 24.º - 1. Para efeitos do disposto nos artigos 6.º, 21.º, 22.º e 23.º, os subscritores entregarão pessoalmente ou remeterão à Comissão Executiva dos Organismos Assistenciais, juntamente com a sua folha de inscrição, uma declaração modelo III anexo ao presente Regulamento, sobre a forma como deve ser distribuído o subsídio que tenham direito a legar, indicando o nome, estado e naturalidade, data do nascimento e filiação da pessoa ou pessoas beneficiárias, desde que não se trate das especificadas nos n.os 1.º, 2.º e 3.º da alínea 2) do artigo 21.º
 
 2. A declaração a que se refere o número anterior será encerrada em envelope lacrado, de formato comercial, que indicará na parte anterior e em cima: «Este envelope contém a declaração a que se refere o artigo 24.º do Regulamento», e, ainda, o número e a assinatura do subscritor reconhecida por notário ou autenticada pelo chefe hierárquico de que depende o subscritor.
 
@@ -238,15 +242,15 @@ b) As irmãs solteiras, viúvas, divorciadas ou separadas judicialmente, quando 
 
 6. As declarações que não derem entrada na Obra Social antes do falecimento do subscritor e aquelas que não obedecerem às condições que ficam expressas serão consideradas nulas.
 
-###### Art. 25.º Não têm direito a receber o subsídio, que reverterá a favor de outros herdeiros hábeis indicados no artigo 21.º:
+Art. 25.º Não têm direito a receber o subsídio, que reverterá a favor de outros herdeiros hábeis indicados no artigo 21.º:
 
 1.º A pessoa ou pessoas de quem judicialmente se prove terem sido autores ou cúmplices da morte do subscritor;
 
 2.º A viúva, desde que se prove ter abandonado o lar voluntàriamente e sem fundamento legítimo.
 
-###### Art. 26.º Logo que a Obra Social tenha conhecimento oficial do falecimento de qualquer subscritor, publicará no Diário do Governo ou no Boletim Oficial da respectiva província, no caso de o falecimento ter ocorrido no ultramar, éditos de 30 dias convidando os herdeiros hábeis, nos termos do artigo 21.º, que se julguem com direito ao subsídio, a apresentarem os documentos justificativos desse direito.
+Art. 26.º Logo que a Obra Social tenha conhecimento oficial do falecimento de qualquer subscritor, publicará no Diário do Governo ou no Boletim Oficial da respectiva província, no caso de o falecimento ter ocorrido no ultramar, éditos de 30 dias convidando os herdeiros hábeis, nos termos do artigo 21.º, que se julguem com direito ao subsídio, a apresentarem os documentos justificativos desse direito.
 
-###### Art. 27.º - 1. A habilitação aos subsídios cabe aos herdeiros interessados, os quais, para o efeito, deverão apresentar, em devido tempo, na Obra Social, um requerimento em papel comum, dirigido ao presidente da direcção da Obra Social, solicitando a concessão do subsídio a que tenham direito, acompanhado dos seguintes documentos:
+Art. 27.º - 1. A habilitação aos subsídios cabe aos herdeiros interessados, os quais, para o efeito, deverão apresentar, em devido tempo, na Obra Social, um requerimento em papel comum, dirigido ao presidente da direcção da Obra Social, solicitando a concessão do subsídio a que tenham direito, acompanhado dos seguintes documentos:
 
 a) Certidão de óbito do subscritor, cópia integral;
 
@@ -266,11 +270,11 @@ c) Termo de responsabilidade, redigido segundo o modelo IV anexo ao presente Reg
 
 7. As pessoas interessadas ou seus tutores e procuradores legais receberão da Obra Social a importância do subsídio que lhes competir mediante a entrega do recibo, isento do imposto do selo, conforme modelo V anexo ao presente Regulamento, com a assinatura reconhecida por notário ou mediante a apresentação do respectivo bilhete de identidade.
 
-###### Art. 28.º Se no decurso da habilitação ao subsídio a que se refere o artigo anterior houver conhecimento de que o pretenso herdeiro está promovendo acção de investigação de parentesco que lhe dê direito a todo ou parte do subsídio, ficará este cativo até decisão final do tribunal.
+Art. 28.º Se no decurso da habilitação ao subsídio a que se refere o artigo anterior houver conhecimento de que o pretenso herdeiro está promovendo acção de investigação de parentesco que lhe dê direito a todo ou parte do subsídio, ficará este cativo até decisão final do tribunal.
 
-###### Art. 29.º Reverterão para a Obra Social os subsídios que não puderem ser pagos por carência de pessoas hábeis para o receber, nos termos do artigo 21.º, e bem assim quaisquer importâncias respeitantes aos subscritores falecidos que não sejam reclamadas dentro de um ano, a contar da data do falecimento, depois de terem sido publicados éditos de 30 dias no Diário do Governo ou no Boletim Oficial da respectiva província, quando o falecimento tenha ocorrido no ultramar, e anúncios em jornais de grande circulação, para se dar conhecimento aos interessados das importâncias a que tenham direito.
+Art. 29.º Reverterão para a Obra Social os subsídios que não puderem ser pagos por carência de pessoas hábeis para o receber, nos termos do artigo 21.º, e bem assim quaisquer importâncias respeitantes aos subscritores falecidos que não sejam reclamadas dentro de um ano, a contar da data do falecimento, depois de terem sido publicados éditos de 30 dias no Diário do Governo ou no Boletim Oficial da respectiva província, quando o falecimento tenha ocorrido no ultramar, e anúncios em jornais de grande circulação, para se dar conhecimento aos interessados das importâncias a que tenham direito.
 
-###### Art. 30.º - 1. Para garantia dos direitos dos subscritores da previdência, existirá na Comissão Executiva dos Organismos Assistenciais da Obra Social um fundo de reserva, que se destina essencialmente a ocorrer aos encargos da liquidação dos subsídios legados pelos subscritores, o qual será constituído:
+Art. 30.º - 1. Para garantia dos direitos dos subscritores da previdência, existirá na Comissão Executiva dos Organismos Assistenciais da Obra Social um fundo de reserva, que se destina essencialmente a ocorrer aos encargos da liquidação dos subsídios legados pelos subscritores, o qual será constituído:
 
 a) Pelos actuais fundos de reserva da Associação de Previdência do Ministério do Ultramar;
 
@@ -280,7 +284,7 @@ c) Pelas importâncias referidas no artigo anterior.
 
 2. Este fundo poderá ser aplicado tendo em vista o melhor interesse dos subscritores e da Obra Social, designadamente na construção de casas económicas em regime de propriedade resolúvel, mediante despacho do Ministro do Ultramar.
 
-###### Art. 31.º O pessoal de secretaria da Associação de Previdência do Ministério do Ultramar existente à data da publicação do [Decreto-Lei n.º 47069](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47069-1966-475084), de 4 de Julho de 1966, será mantido ao serviço da Obra Social com as regalias então auferidas.
+Art. 31.º O pessoal de secretaria da Associação de Previdência do Ministério do Ultramar existente à data da publicação do [Decreto-Lei n.º 47069](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47069-1966-475084), de 4 de Julho de 1966, será mantido ao serviço da Obra Social com as regalias então auferidas.
 
 Ministério do Ultramar, 13 de Março de 1968. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
@@ -290,7 +294,7 @@ Quotas mensais correspondentes a cada 1000$00 de subsídio
 
 (Tábua HM 3 por cento)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/03/06200/03530358.pdf))](https://files.diariodarepublica.pt/1s/1968/03/06200/03530358.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/03/06200/03530358.pdf)
 
 As quotas constantes desta tabela podem ser alteradas por despacho do Ministro, mediante proposta da direcção da Obra Social do Ministério do Ultramar.
 
@@ -298,7 +302,7 @@ Tabela B a que se refere o artigo 14.º
 
 Adicionais mensais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/03/06200/03530358.pdf))](https://files.diariodarepublica.pt/1s/1968/03/06200/03530358.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/03/06200/03530358.pdf)
 
 Os adicionais referidos nesta tabela podem ser modificados por despacho do Ministro do Ultramar, mediante proposta da direcção da Obra Social do Ministério do Ultramar.
 
@@ -362,13 +366,13 @@ Mês de (ver nota b) ...
 
 Relação dos subscritores de ... que descontaram quotas para a Obra Social do Ministério do Ultramar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/03/06200/03530358.pdf))](https://files.diariodarepublica.pt/1s/1968/03/06200/03530358.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/03/06200/03530358.pdf)
 
 Importa esta relação na quantia de ...
 
 ..., ... de ... de 19 ...
 
-**O Chefe dos Serviços,**
+O Chefe dos Serviços,
 
 ...
 
@@ -408,7 +412,7 @@ Aberto em sessão da direcção de ... de ... de 19 ...
 
 Acta n.º ...
 
-**O Presidente,**
+O Presidente,
 
 ...
 

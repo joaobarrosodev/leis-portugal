@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 250/1996, 1º Suplemento, Série I-B de 1996-10-28
   number: '250'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3798-(2) a 3798-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/10/250b01/00020019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/43-a/1996/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/43-a-1996-598160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T08:30:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bef88ebcac26f1183d60c7f8a8d08d42a230ee7e83743883553628f0550a7d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c2a8a3ae095cc7dc2fe68dfd3f9c866f4b38a8b48bf4078b3c5629399160e99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:30:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,6 +80,41 @@ relationships:
   target: pt:dre:643075:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570772:por
+  label: "Derrogado o disposto na al. a) do nº23 pelo DN.2/97.1996.12.30.MADRP, DR.IS-B [25] de 1997.01.30\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-1997-570772
+  date: '1996-12-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Derrogado o disposto na al a) do num 23 e o disposto no num 6 pelo DN.11/97.1997.01.31.MEPAT, DR.IS-B [52] de 1997.03.03\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1997-01-31'
+- type: amended_by
+  target: pt:dre:513180:por
+  label: "Derrogado o disposto na al a) do nº 33 e o disposto no nº 6 pelo DN.11/97.1997.01.31.MADRP DR.IS-B [52] de 03.03.1997\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-1997-513180
+  date: '1997-01-31'
+- type: amended_by
+  target: pt:dre:224987:por
+  label: "Introduzidos ajustamentos ao disposto na al. a) do nº 3, no nº 15 e no nº 24 pelo pelo DN.8/98.1998.01.14.MADRP,\
+    \ DR.IS-B [25] de 30.01.1998\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-1998-224987
+  date: '1998-01-14'
+- type: amended_by
+  target: pt:dre:423897:por
+  label: "Alterada a al. d) do nº 3, o cap VII e a parte V do anexo I e derrogado o nº 6 pelo DN.50/98.1998.06.18.MADRP, DR.IS-B\
+    \ [160]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/50-1998-423897
+  date: '1998-06-18'
+- type: amended_by
+  target: pt:dre:235291:por
+  label: "Alterada a al. d) do nº 3, os nºs 10, 11, 14, 21 e a epígrafe do anexo II e substitui o anexo I, todos do presente\
+    \ diploma, na redacção do DN 50/98 de 14-Jul, pelo DN.72/98.1998.09.25.MADRP, DR.IS-B [239] de 16/Out/1998\01998\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/72-1998-235291
+  date: '1998-09-25'
 - type: cites
   target: celex:31986R2239
   label: null
@@ -136,16 +171,31 @@ relationships:
   target: eli:http://data.europa.e
   label: null
   source: http://data.europa.e
+- type: corrected_by
+  target: pt:dre:516908:por
+  label: "Rectificado pela Decl-Rect.16-O/96.1996.11.29.PCM, DR.IS-B [278]2ºSupl de 1996.11.30\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-o-1996-516908
+  date: '1996-11-29'
+- type: corrected_by
+  target: pt:dre:602486:por
+  label: "Rectificado pela DECL-RECT.6-G/97.1996.11.29.PCM, DR.IS-B [75]2ºSupl de 1997.03.31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/6-g-1997-602486
+  date: '1996-11-29'
+- type: repealed_by
+  target: pt:dre:643075:por
+  label: "Revogado pelo DN.64/99.1999.11.04.MADRP,DR.IS-B [274] de 24.11.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/64-1999-643075
+  date: '1999-11-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:30:43Z'
   warnings: []
   errors: []
 ---
@@ -368,7 +418,7 @@ Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, 25 de Outubro
 
 ## ANEXO I — Identificação das classes de rendimento por freguesias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/250b01/00020019.pdf))](https://files.diariodarepublica.pt/1s/1996/10/250b01/00020019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/250b01/00020019.pdf)
 
 ## ANEXO II
 
@@ -482,6 +532,6 @@ Nota. - Ver limites demarcados na Carta Militar de Portugal, à escala de 1:2500
 
 ## ANEXO III — Disponibilidades mínimas de água para elegibilidade das culturas arvenses de regadio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/250b01/00020019.pdf))](https://files.diariodarepublica.pt/1s/1996/10/250b01/00020019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/250b01/00020019.pdf)
 
 Os valores constantes dos quadros são válidos para as regiões do Ribatejo e Oeste, Beira Interior, Trás-os-Montes, Alentejo e Algarve; nas regiões da Beira Litoral e Entre Douro e Minho deve utilizar-se um factor de correcção de 0,8.

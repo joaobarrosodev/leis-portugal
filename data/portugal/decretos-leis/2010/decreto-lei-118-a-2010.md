@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25
   number: '207'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4834-(2) a 4834-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/10/20701/0000200015.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/118-a/2010/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b5aad8d39a71a910225272645efe4b3714e0bb182708f83ed2bd3c93af52927
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0c87c5be301ca2ffc34188ab92b21e5d9a1d1d95cde0e245f824f31161a52e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distribuição de Energia Elétrica
 - Certificado de Conformidade
-- Energia Elétrica
-- Diretor
-- EDP
-- Energia Renovável
 - Direção Geral de Energia e Geologia
+- Diretor
+- Distribuição de Energia Elétrica
+- EDP
+- Energia Elétrica
+- Energia Renovável
 - Produção de Energia Elétrica
 - Produtor
 - Rede Elétrica de Serviço Público
@@ -84,6 +84,12 @@ relationships:
   target: pt:dre:58406974:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:258540:por
+  label: "Alterados os art.s 2.º, 6.º, 12.º, 17.º, 19.º e 20.º do Dec. Lei 36/2007, de 02-nov, na redação do presente diploma,\
+    \ pelo DEC LEI.25/2013.19.02.2013.MEE, DR.IS [35] de 19.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2013-258540
+  date: '2013-02-19'
 - type: cites
   target: eli:http://data.dre.pt/e
   label: null
@@ -124,16 +130,94 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
+- type: cites
+  target: pt:dre:201849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692422:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:588861:por
+  label: "Revogado, a partir de 07.11.2012, e sem prejuízo do disposto no art. 15º, o Dec Lei 312/2001, de 10-dez, na redação\
+    \ do Dec Lei 33-A/2005, de 16 -fev, do Dec Lei 172/2006, de 23-ago, do presente diploma e do Dec Lei 25/2012, de 06-fev,\
+    \ pelo DEC LEI.215-B/2012.08.10.2012.MEE, DR.IS [194-Supl] de 08.10.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-b-2012-588861
+  date: '2012-10-08'
+- type: repealed_by
+  target: pt:dre:58406974:por
+  label: Revogado, a partir de 18.01.2015, o Dec Lei 363/2007 de 02-nov (com as alterações constantes do presente diploma)
+    pelo(a) Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20, que manteve contudo em vigor
+    o n.º 5 do seu art. 12.º, nos termos do disposto no art. 45.º citado Dec Lei 153/2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/153-2014-58406974
+  date: '2014-10-20'
 article_structure:
-  article_count: 59
+  article_count: 38
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:00Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +288,9 @@ l) «SRM» o Sistema de Registo de Microprodução, que constitui uma plataforma
 
 m) (Revogada.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O presente decreto-lei aplica-se à microprodução de electricidade a partir de recursos renováveis e à microprodução de electricidade e calor em co-geração, ainda que não renovável, mediante a utilização de uma unidade ou instalação, monofásica ou trifásica, em baixa tensão, com potência de ligação até 5,75 kW.
 
@@ -212,7 +298,9 @@ m) (Revogada.)
 
 3 - Em qualquer dos casos referidos nos números anteriores, a microprodução tem de ter por base uma só tecnologia de produção.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Podem ser produtores de electricidade por intermédio de unidades de microprodução as entidades que preencham os seguintes requisitos:
 
@@ -238,7 +326,9 @@ b) A utilização de procedimentos especiais para acesso ao registo, quando tal 
 
 7 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 ...
 
@@ -248,7 +338,9 @@ b) Ligar a unidade de microprodução à RESP, após a emissão do certificado d
 
 c) Vender a totalidade da electricidade produzida, líquida do consumo dos serviços auxiliares, nos termos e com os limites estabelecidos no presente decreto-lei.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 ...
 
@@ -268,7 +360,9 @@ g) ...
 
 h) ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -298,7 +392,9 @@ i) Fornecer aos interessados e divulgar no SRM informação relativamente às di
 
 5 - O director-geral de Energia e Geologia aprova, mediante despacho publicado no SRM, um guia técnico e de qualidade para as instalações de microprodução que se justifiquem para o adequado funcionamento do sistema.
 
-###### Artigo 8.º — Entidades instaladoras da microprodução
+Artigo 8.º
+
+Entidades instaladoras da microprodução
 
 1 - A actividade de instalação de unidades de microprodução é desenvolvida por entidades instaladoras da microprodução e depende de registo no SRM.
 
@@ -308,7 +404,9 @@ i) Fornecer aos interessados e divulgar no SRM informação relativamente às di
 
 4 - A DGEG, ou a entidade designada por esta, actualiza periodicamente a lista das entidades instaladoras registadas no SRM.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O produtor está sujeito a um dos seguintes regimes remuneratórios:
 
@@ -334,7 +432,9 @@ b) Aos condomínios, mediante uma auditoria energética e desde que a implementa
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - No regime bonificado, o produtor é remunerado com base na tarifa de referência que vigorar à data da emissão do certificado de exploração.
 
@@ -368,7 +468,9 @@ f) Co-geração não renovável - 40 %.
 
 10 - Mediante despacho a publicar no SRM até 31 de Dezembro de cada ano, o director-geral da Energia e Geologia divulga o valor da tarifa aplicável no ano seguinte e a quota de potência de ligação a alocar nesse ano, tendo em conta o disposto nos n.os 5 e 8 do presente artigo e no n.º 1 do artigo 11.º-A, e eventuais saldos de potência resultantes de anos anteriores, estabelecendo ainda a programação temporal da referida alocação de potência para a totalidade do ano a que respeita, através do sistema de registos.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Só o comercializador que fornece electricidade para consumo da instalação eléctrica de utilização do produtor pode celebrar contrato de compra e venda da electricidade resultante da microprodução, devendo assegurar o seu pagamento, nos termos do presente decreto-lei.
 
@@ -384,7 +486,9 @@ f) Co-geração não renovável - 40 %.
 
 7 - O disposto nos n.os 1 a 5 é aplicável à produção de electricidade, incluindo a produção em co-geração, com potência de ligação até 5 kW, realizada ao abrigo de outros regimes jurídicos de acesso à produção de electricidade desde que esta não seja remunerada através de tarifas de mercado.
 
-###### Artigo 13.º — Procedimento de registo no SRM
+Artigo 13.º
+
+Procedimento de registo no SRM
 
 1 - O registo é efectuado e processado electronicamente no SRM.
 
@@ -404,7 +508,9 @@ f) Co-geração não renovável - 40 %.
 
 9 - O membro do Governo responsável pela área da energia define, mediante despacho a publicar no SRM, os elementos instrutórios do pedido de registo, a marcha do respectivo procedimento, os termos da recusa de registo e demais instruções destinadas a assegurar o disposto no presente artigo e no artigo 12.º-A, sem prejuízo do previsto no n.º 4 do artigo 4.º e no n.º 7 do artigo 19.º
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O certificado de exploração é emitido na sequência de inspecção.
 
@@ -418,7 +524,9 @@ f) Co-geração não renovável - 40 %.
 
 6 - Se o relatório da inspecção concluir pela existência de não conformidades, o produtor deve proceder no sentido de colmatar as deficiências indicadas.
 
-###### Artigo 15.º — Reinspecção
+Artigo 15.º
+
+Reinspecção
 
 1 - Sempre que na inspecção prevista no artigo anterior sejam detectadas deficiências que não permitam a emissão de certificado de exploração, o produtor deve solicitar reinspecção no SRM, até ao máximo de três, observando-se com as necessárias adaptações o disposto no n.º 2 do artigo anterior.
 
@@ -428,7 +536,9 @@ f) Co-geração não renovável - 40 %.
 
 4 - A não realização de reinspecção por motivo imputável ao produtor implica o cancelamento do registo.
 
-###### Artigo 17.º — Contagem e disponibilização de dados
+Artigo 17.º
+
+Contagem e disponibilização de dados
 
 1 - O sistema de contagem de electricidade e os equipamentos que asseguram a protecção da interligação devem ser colocados em local de acesso livre ao comercializador e ao operador da rede de distribuição, bem como às entidades competentes para efeitos do presente decreto-lei, salvo situações especiais autorizadas pela DGEG.
 
@@ -438,7 +548,9 @@ f) Co-geração não renovável - 40 %.
 
 4 - Os comercializadores de electricidade e os operadores de rede de distribuição devem disponibilizar à ERSE as informações necessárias à correcta facturação dos diferentes intervenientes.
 
-###### Artigo 18.º — Controlo de certificação de equipamentos
+Artigo 18.º
+
+Controlo de certificação de equipamentos
 
 1 - Os fabricantes, importadores, seus representantes e entidades instaladoras devem comprovar junto da entidade responsável pelo SRM que os seus equipamentos estão certificados e qual a natureza da certificação, devendo aquela entidade proceder à respectiva disponibilização no SRM.
 
@@ -454,7 +566,9 @@ a) As normas ou especificações portuguesas relativas ao equipamento em causa e
 
 b) As normas ou especificações nacionais em vigor no Estado membro em que o equipamento foi produzido, desde que o IPQ, I. P., reconheça que garantem as condições equivalentes às estabelecidas nos n.os 3 e 4.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - No prazo de 10 dias após a emissão do certificado de exploração, ainda que provisório nos termos do n.º 7, o produtor adere ao contrato de comercialização cuja minuta deve estar disponibilizada no sítio da Internet do comercializador identificado no registo da instalação, o qual, no mesmo prazo, é ainda avisado da referida emissão, através do SRM, com vista à conclusão do contrato de compra e venda de electricidade oriunda da microprodução ao respectivo produtor.
 
@@ -470,7 +584,9 @@ b) As normas ou especificações nacionais em vigor no Estado membro em que o eq
 
 7 - Nos casos em que a inspecção ou reinspecção, por motivos não imputáveis ao produtor registado, não tenha ocorrido no prazo legalmente estabelecido para a sua realização, acrescido de uma dilação de três dias, a entidade responsável pelo SRM emite certificado de exploração provisório.
 
-###### Artigo 20.º — Averbamento de alterações ao registo
+Artigo 20.º
+
+Averbamento de alterações ao registo
 
 1 - Em caso de alteração da titularidade do contrato de compra e venda de electricidade para a instalação de utilização no local de consumo onde está instalada a unidade de microprodução, ou mudança de comercializador, o novo titular deve solicitar o averbamento ao registo da microporodução da alteração de titularidade, mantendo-se inalteradas as demais condições constantes do registo.
 
@@ -480,7 +596,9 @@ b) As normas ou especificações nacionais em vigor no Estado membro em que o eq
 
 4 - O averbamento da alteração prevista no n.º 2 pode ser recusado por razões de ordem técnica, designadamente as previstas no n.º 6 do artigo 4.º
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -494,7 +612,9 @@ c) Averbamento de alterações ao registo, previstas no artigo 20.º
 
 3 - Os montantes das taxas são definidos por portaria do membro do Governo responsável pela área da energia.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -550,7 +670,9 @@ Os artigos 4.º e 10.º do [Decreto-Lei n.º 312/2001](https://diariodarepublica
 
 6 - As autorizações previstas nos números anteriores são atribuídas mediante despacho do director-geral de Energia e Geologia, homologado pelo membro do Governo responsável pela área da energia, contendo o prazo de caducidade das mesmas e outros requisitos ou condições, nomeadamente, relativos à tarifa aplicável, à facturação da electricidade produzida e à fase de produção comercial.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -590,7 +712,9 @@ Registos de interesse público
 
 2 - O membro do Governo responsável pela área da energia, ouvidas as entidades do sector, actualiza, mediante portaria, o valor da tarifa de referência, podendo proceder a ajustamentos às percentagens definidas no n.º 6 do artigo 11.º ou às quotas estabelecidas no n.º 8 do artigo 11.º e no número anterior, tendo em vista assegurar a sua adequação aos objectivos da política energética, à sua relação com outras políticas sectoriais, e à evolução dos mercados ou ao equilíbrio regional.
 
-###### Artigo 12.º-A — SRM
+Artigo 12.º-A
+
+SRM
 
 1 - O SRM assegura, nomeadamente:
 
@@ -616,7 +740,9 @@ j) A emissão de relação actualizada periodicamente das inscrições concluíd
 
 2 - O operador da rede de distribuição e os comercializadores de electricidade devem registar-se no SRM e aderir ao sistema de comunicações electrónico.
 
-###### Artigo 13.º- A — Condomínios
+Artigo 13.º- A
+
+Condomínios
 
 1 - O registo para instalação por condómino promotor de uma unidade de microprodução em parte comum de edifício organizado em propriedade horizontal ou a utilização de parte comum para passagem de cabelagem ou outros componentes da microprodução é precedido de autorização da respectiva assembleia de condóminos.
 
@@ -666,15 +792,15 @@ Os artigos 1.º e 3.º entram em vigor 45 dias após a publicação do presente 
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 2010. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - José Manuel Santos de Magalhães - Fernando Medina Maciel Almeida Correia - Fernanda Maria Rosa do Carmo Julião.
 
-**Promulgado em 1 de Outubro de 2010.**
+Promulgado em 1 de Outubro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Outubro de 2010.**
+Referendado em 6 de Outubro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 363/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-2007-629412), de 2 de Novembro
 

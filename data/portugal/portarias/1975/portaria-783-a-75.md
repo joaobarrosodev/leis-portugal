@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 299/1975, 1º Suplemento, Série I de 1975-12-30
   number: '299'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2152-(2) a 2152-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/29901/00020004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/783-a-1975-402753
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T04:55:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96e25ea1584b6809ed3bce8c755e2612ce9ba437d355feb53d0dbbb868199455
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0619b694c5f264e0390a5f6f676fc06ae0d11c4b0bbec3e8122dacfc054db10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:55:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Passe Social
+- Preço
+- Transporte de Passageiros
+- Transporte Fluvial
+- Transporte Público
+- Transporte Rodoviário
+- Transporte Urbano
+- Veículo de Aluguer
 relationships:
 - type: amended_by
   target: pt:dre:482618:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302570:por
+  label: "Alterados os pontos 2, 4 e 5, criados os n.ºs 6.3 e 6.4, e alteradas as tarifas de correspondência, pela PORT.180-A/76.29.03.1976.MCT,\
+    \ DG.IS [75]2ºSupl de 29.03.1976, a qual mantem em vigor o presente diploma em tudo o que não for por ela revogado\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/180-a-1976-302570
+  date: '1976-03-29'
+- type: amended_by
+  target: pt:dre:430437:por
+  label: Alterado o ponto 2 do presente diploma, pelo(a) Portaria n.º 413/76 - Diário da República n.º 160/1976, Série I de
+    1976-07-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1976-430437
+  date: '1976-07-10'
+- type: repealed_by
+  target: pt:dre:482618:por
+  label: "Revogada pela PORT.595-A/76.08.10.1976.MCT, DR.IS [236]Supl de 08.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/595-a-1976-482618
+  date: '1976-10-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:55:14Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +223,7 @@ Mantém-se, nas condições em que actualmente se pratica, o sistema de «meio-b
 
 Tabela de tarifas de transportes interurbanos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/29901/00020004.pdf))](https://files.diariodarepublica.pt/1s/1975/12/29901/00020004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/29901/00020004.pdf)
 
 Nota. - Nas carreiras que servem a zona suburbana da cidade de Lisboa e que liguem nesta cidade com o metropolitano, existirá uma tarifa de correspondência com este, que terá o valor da tarifa base acrescida de 2$00.
 
@@ -206,7 +231,7 @@ Esta é a tarifa a praticar em qualquer percurso realizado dentro da cidade de L
 
 5 - Transportes fluviais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/29901/00020004.pdf))](https://files.diariodarepublica.pt/1s/1975/12/29901/00020004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/29901/00020004.pdf)
 
 São anulados todos os outros títulos de transportes existentes até 31 de Dezembro de 1975.
 
@@ -216,7 +241,7 @@ São anulados todos os outros títulos de transportes existentes até 31 de Deze
 
 É aprovada a seguinte tabela, considerando-se homologados os novos preços aí constantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/29901/00020004.pdf))](https://files.diariodarepublica.pt/1s/1975/12/29901/00020004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/29901/00020004.pdf)
 
 Nota. - Esta tabela deverá ser afixada em todos os veículos até à regularização dos taxímetros. Acima destes valores deverá ser aplicada uma sobretaxa de 20% sobre o valor marcado no taxímetro.
 

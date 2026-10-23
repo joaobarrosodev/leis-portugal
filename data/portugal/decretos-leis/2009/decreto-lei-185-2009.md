@@ -54,18 +54,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/185/2009/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2009-493506
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9e365cf4453e1118473ffa3c1c146abb25f3965d5d97fef190e2749ba9f9a8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 043d3c904ad89ef5dec03d63ce307ddf256486e7eb953cf4d29b514193253636
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,30 +74,135 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Valores Mobiliários
+- Banco de Portugal
+- Benefícios Fiscais
+- Cisão de Empresas
+- Código da Insolvência e da Recuperação de Empresas
 - Código das Sociedades Comerciais
 - Código do Registo Comercial
 - Código do Registo Predial
 - Código dos Valores Mobiliários
-- Registo Automóvel
-- Cisão de Empresas
-- Fusão de Empresas
 - Estatuto
 - Estatuto dos Benefícios Fiscais
-- Banco de Portugal
+- Fusão de Empresas
 - Informação Económica e Financeira
-- Código da Insolvência e da Recuperação de Empresas
 - Instituto de Seguros de Portugal
 - Ordem dos Revisores Oficiais de Contas
+- Registo Automóvel
 - Regulamento
 - Regulamento Emolumentar dos Registos e Notariado
-- Benefícios Fiscais
 - Sociedades
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:123962149:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:344272:por
+  label: "Alterado, a partir de 01.10.2010, o art. 22º do Regulamento Emolumentar dos Registos e Notariado, aprovado pelo\
+    \ Dec Lei 322-A/2001 de 14-Dez, com a redacção do presente diploma, pelo DEC LEI.99/2010.02.09.2010.MJ, DR.IS [171] de\
+    \ 02.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-2010-344272
+  date: '2010-09-02'
+- type: amended_by
+  target: pt:dre:276804:por
+  label: "Alterados os art.s 98º, 100º e 101º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86, de 02-Set,\
+    \ na redacção do presente diploma, pelo DEC LEI.53/2011.13.04.2011.MJ, DR.IS [73] de 13.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2011-276804
+  date: '2011-04-13'
+- type: amended_by
+  target: pt:dre:552804:por
+  label: "Alterado o art. 146º do Código da Insolvência e da Recuperação de Empresas, aprovado pelo Dec Lei 53/2004, de 18-mar,\
+    \ na redacção do presente diploma, pela LEI.16/2012.20.04.2012.AR, DR.IS [79] de 20.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2012-552804
+  date: '2012-04-20'
+- type: amended_by
+  target: pt:dre:176071:por
+  label: "Alterados os art.s 14º, 16º-B e 22º do Regulamento Emolumentar dos Registos e do Notariado aprovado pelo Dec Lei\
+    \ 322-A/2001, de 14-dez, na redação do presente diploma, pelo DEC LEI.209/2012.19.09.2012.MJ, DR.IS [182] de 19.09.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2012-176071
+  date: '2012-09-19'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterado o art. 73º do Código do Registo Predial aprovado pelo Dec Lei 224/84, de 06-jul, na redação do presente\
+    \ diploma, pelo DEC LEI.125/2013.30.08.2013.MJ, DR.IS [167] de 30.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2013-08-30'
+- type: amended_by
+  target: pt:dre:499550:por
+  label: "Alterado o art. 73º do Código do Registo Predial aprovado pelo Dec Lei 224/84, de 06-jul, na redação do presente\
+    \ diploma, pelo DEC LEI.125/2013.30.08.2013.MJ, DR.IS [167] de 30.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2013-499550
+  date: '2013-08-30'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterado o art. 60º do Estatuto dos Benefícios Fiscais (EBF) aprovado pelo Dec Lei 215/89 de 01-jul, na redação\
+    \ do presente diploma, pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:67356342:por
+  label: Alterados, a partir de 07.06.2015, os arts 32.º e 451.º do Código das Sociedades Comerciais, aprovado pelo Dec. Lei
+    262/86 de 02-set na versão republicada pelo Dec Lei 76-A/2006 de 29-mar, pelo(a) Decreto-Lei n.º 98/2015 - Diário da República
+    n.º 106/2015, Série I de 2015-06-02, nos termos do art. 15.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2015-67356342
+  date: '2015-06-02'
+- type: amended_by
+  target: pt:dre:70300348:por
+  label: Alterados, a partir de 01.11.2015, os arts. 14.º, 16.º, 16.º-B e 22.º do Regulamento Emolumentar dos Registos e do
+    Notariado, aprovado pelo Dec Lei 322-A/2001 de 14-dez, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei n.º
+    201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-2015-70300348
+  date: '2015-09-17'
+- type: amended_by
+  target: pt:dre:107596684:por
+  label: Alterado, a partir de 01.07.2017, o art. 38.º, na redação do presente diploma, do Código da Insolvência e da Recuperação
+    de Empresas, aprovado pelo Dec Lei 53/2004 de 18-mar, na versão republicada pelo Dec Lei 200/2004 de 18-ago, pelo Decreto-Lei
+    n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, sem prejuízo do art. 6.º deste último
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2017-107596684
+  date: '2017-06-30'
+- type: amended_by
+  target: pt:dre:107773645:por
+  label: Alterado o art. 451.º do Código das Sociedades Comerciais, na redação do presente diploma, pelo(a) Decreto-Lei n.º
+    89/2017 - Diário da República n.º 145/2017, Série I de 2017-07-28, nos termos do seu art. 5.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-2017-107773645
+  date: '2017-07-28'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Alterado o art. 60.º do Estatuto dos Benefícios Fiscais (EBF), aprovado pelo Dec Lei 215/89 de 01-jul, na versão
+    revista e republicada pelo Dec Lei 108/2008 de 26-jun e com a redação dada pelo presente diploma, pelo(a) Lei n.º 114/2017
+    - Diário da República n.º 249/2017, Série I de 2017-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Alterado o art. 60.º do Estatuto dos Benefícios Fiscais (EBF) aprovado pelo Dec Lei 215/89 de 01-jul, na versão renumerada,
+    com tabela de correspondência, e republicada do EBF pelo Dec Lei 108/2008 de 26-jun e na redação do presente diploma,
+    pelo(a) Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:118950630:por
+  label: Alterado a partir de 01.07.2019, o art. 22.º do Regulamento Emolumentar dos Registos e do Notariado aprovado pelo
+    Dec Lei 322-A/2001, de 14-dez, na redação do presente diploma, pelo Dec Lei 194/2003 de 23-ago pelo(a) Decreto-Lei n.º
+    24/2019 - Diário da República n.º 23/2019, Série I de 2019-02-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2019-118950630
+  date: '2019-02-01'
+- type: amended_by
+  target: pt:dre:122349220:por
+  label: Alterado, a partir de 20.06.2019, o art. 14.º, na redação do presente diploma, do Regulamento Emolumentar dos Registos
+    e Notariado, aprovado pelo Dec Lei 322-A/2001 de 14-dez, na versão republicada pelo Dec Lei 194/2003 de 23-ago, pelo(a)
+    Decreto-Lei n.º 66/2019 - Diário da República n.º 97/2019, Série I de 2019-05-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-2019-122349220
+  date: '2019-05-21'
+- type: amended_by
+  target: pt:dre:123962149:por
+  label: Alterados os arts. 12.º e 55.º do Dec 55/75, de 12-fev, na redação do presente diploma, pelo(a) Decreto-Lei n.º 111/2019
+    - Diário da República n.º 156/2019, Série I de 2019-08-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2019-123962149
+  date: '2019-08-16'
 - type: cites
   target: celex:31978L0660
   label: null
@@ -118,16 +223,22 @@ relationships:
   target: celex:32006L0046
   label: null
   source: http://data.europa.eu/eli/dir/2006/46/oj
+- type: repealed_by
+  target: pt:dre:70196967:por
+  label: Revogado a partir de 01.01.2016 o Estatuto da Ordem dos Revisores Oficiais de Contas, aprovado pelo Dec Lei 487/99,
+    de 16-nov, na redação do presente diploma pelo(a) Lei n.º 140/2015 - Diário da República n.º 174/2015, Série I de 2015-09-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/140-2015-70196967
+  date: '2015-09-07'
 article_structure:
-  article_count: 37
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:10Z'
   warnings: []
   errors: []
 ---
@@ -224,13 +335,17 @@ Os artigos 43.º, 45.º, 47.º, 55.º, 59.º e 73.º do Código do Registo Predi
 
 7 - Para efeitos de promoção de actos de registo predial através da Internet em que sejam interessadas sociedades comerciais ou civis sob forma comercial podem os respectivos gerentes e administradores certificar a conformidade dos documentos electrónicos por si submetidos com os documentos originais em suporte de papel.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - O disposto no número anterior é dispensado quando o registo seja promovido através da Internet, com recurso a meios electrónicos que permitam determinar a identidade do interessado ou do apresentante, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -240,7 +355,9 @@ Os artigos 43.º, 45.º, 47.º, 55.º, 59.º e 73.º do Código do Registo Predi
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - ...
 
@@ -250,7 +367,9 @@ Os artigos 43.º, 45.º, 47.º, 55.º, 59.º e 73.º do Código do Registo Predi
 
 4 - O reconhecimento previsto no número anterior pode igualmente ser dispensado quando o registo seja promovido através da Internet, com recurso a meios electrónicos que permitam determinar a identidade do interessado ou do apresentante, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - ...
 
@@ -262,7 +381,9 @@ Os artigos 43.º, 45.º, 47.º, 55.º, 59.º e 73.º do Código do Registo Predi
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - ...
 
@@ -290,7 +411,9 @@ Os artigos 32.º, 70.º, 98.º, 100.º, 101.º, 101.º-A, 116.º, 420.º, 423.º
 
 2 - Os incrementos decorrentes da aplicação do justo valor através de componentes do capital próprio, incluindo os da sua aplicação através do resultado líquido do exercício, apenas relevam para poderem ser distribuídos aos sócios bens da sociedade, a que se refere o número anterior, quando os elementos ou direitos que lhes deram origem sejam alienados, exercidos, extintos, liquidados ou, também quando se verifique o seu uso, no caso de activos fixos tangíveis e intangíveis.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - ...
 
@@ -304,7 +427,9 @@ c) [Anterior alínea b).]
 
 d) [Anterior alínea c).]
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - ...
 
@@ -314,7 +439,9 @@ d) [Anterior alínea c).]
 
 4 - O projecto de fusão pode ser elaborado através de modelo electrónico disponível em página na Internet que permita a entrega de todos os documentos necessários e a promoção imediata do registo do projecto, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - ...
 
@@ -328,7 +455,9 @@ d) [Anterior alínea c).]
 
 6 - O disposto nos n.os 2 e 3 não obsta à utilização de outras formas de comunicação aos sócios, nos termos previstos para cada tipo de sociedade, bem como à tomada da deliberação nos termos previstos no artigo 54.º
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - A partir da publicação do registo do projecto, os sócios, credores e representantes dos trabalhadores, ou, quando estes não existirem, os trabalhadores de qualquer das sociedades participantes na fusão têm o direito de consultar, na sede de cada uma delas, os seguintes documentos e de obter, sem encargos, cópia integral destes:
 
@@ -340,11 +469,15 @@ c) ...
 
 2 - ...
 
-###### Artigo 101.º-A — [...]
+Artigo 101.º-A
+
+[...]
 
 No prazo de um mês após a publicação do registo do projecto, os credores das sociedades participantes cujos créditos sejam anteriores a essa publicação podem deduzir oposição judicial à fusão, com fundamento no prejuízo que dela derive para a realização dos seus direitos, desde que tenham solicitado à sociedade a satisfação do seu crédito ou a prestação de garantia adequada, há pelo menos 15 dias, sem que o seu pedido tenha sido atendido.
 
-###### Artigo 116.º — Incorporação de sociedade detida pelo menos a 90 % por outra
+Artigo 116.º
+
+Incorporação de sociedade detida pelo menos a 90 % por outra
 
 1 - O disposto nos artigos anteriores aplica-se, com as excepções estabelecidas nos números seguintes, à incorporação por uma sociedade de outra de cujas partes, quotas ou acções aquela seja a titular de pelo menos 90 %, directamente ou por pessoas que detenham essas participações por conta dela mas em nome próprio.
 
@@ -364,7 +497,9 @@ d) ...
 
 5 - À exoneração pedida nos termos do número anterior aplica-se o disposto no artigo 105.º
 
-###### Artigo 420.º — [...]
+Artigo 420.º
+
+[...]
 
 1 - ...
 
@@ -378,19 +513,25 @@ d) ...
 
 6 - No parecer a que se refere a alínea g) do n.º 1, o fiscal único ou o conselho fiscal devem exprimir a sua concordância ou não com o relatório anual de gestão e com as contas do exercício, para além de incluir a declaração subscrita por cada um dos seus membros, prevista na alínea c) do n.º 1 do artigo 245.º do Código dos Valores Mobiliários.
 
-###### Artigo 423.º-F — [...]
+Artigo 423.º-F
+
+[...]
 
 1 - ...
 
 2 - É aplicável à comissão de auditoria, com as devidas adaptações, o disposto nos n.os 5 e 6 do artigo 420.º
 
-###### Artigo 441.º — [...]
+Artigo 441.º
+
+[...]
 
 1 - ...
 
 2 - É aplicável ao conselho geral e de supervisão, com as devidas adaptações, o disposto nos n.os 5 e 6 do artigo 420.º
 
-###### Artigo 451.º — [...]
+Artigo 451.º
+
+[...]
 
 1 - ...
 
@@ -402,7 +543,9 @@ d) ...
 
 5 - O âmbito do parecer a que se refere a alínea e) do n.º 3 deve igualmente incluir as matérias referidas nas alíneas c), d), f), h), i) e m) do n.º 1 do artigo 245.º-A do Código dos Valores Mobiliários, no caso dos emitentes abrangidos pelas disposições em causa.
 
-###### Artigo 508.º-C — [...]
+Artigo 508.º-C
+
+[...]
 
 1 - ...
 
@@ -470,7 +613,9 @@ i) ...
 
 6 - ...
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - ...
 
@@ -596,7 +741,9 @@ f) Os registos de actualização ou de transmissão de direitos efectuados na se
 
 2 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 São gratuitos os seguintes actos:
 
@@ -610,7 +757,9 @@ d) ...
 
 e) Os registos de actualização ou de transmissão de direitos efectuados na sequência de uma operação de fusão ou cisão.
 
-###### Artigo 16.º-B — [...]
+Artigo 16.º-B
+
+[...]
 
 1 - São gratuitos os seguintes actos:
 
@@ -626,7 +775,9 @@ e) Os registos de actualização ou de transmissão de direitos efectuados na se
 
 2 - ...
 
-###### Artigo 22.º — Emolumentos do registo comercial
+Artigo 22.º
+
+Emolumentos do registo comercial
 
 1 - ...
 
@@ -728,7 +879,9 @@ Os artigos 38.º e 146.º do Código da Insolvência e da Recuperação de Empre
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 146.º — [...]
+Artigo 146.º
+
+[...]
 
 1 - ...
 
@@ -752,7 +905,9 @@ O artigo 12.º e 55.º do Regulamento do Registo de Automóveis, aprovado pelo D
 
 3 - O reconhecimento previsto no número anterior pode igualmente ser dispensado quando o registo seja promovido através da Internet, com recurso a meios electrónicos que permitam determinar a identidade do interessado ou do apresentante, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - ...
 
@@ -766,7 +921,7 @@ São aditados ao Código das Sociedades Comerciais, aprovado pelo Decreto-Lei n.
 
 «Artigo 66.º-A
 
-## Anexo às contas
+Anexo às contas
 
 1 - As sociedades devem prestar informação, no anexo às contas:
 
@@ -782,7 +937,9 @@ a) A expressão 'partes relacionadas' tem o significado definido nas normas inte
 
 b) As informações sobre as diferentes operações podem ser agregadas em função da sua natureza, excepto quando sejam necessárias informações separadas para compreender os efeitos das operações com partes relacionadas sobre a situação financeira da sociedade.
 
-###### Artigo 508.º-F — Anexo às contas consolidadas
+Artigo 508.º-F
+
+Anexo às contas consolidadas
 
 1 - As sociedades devem prestar informação, no anexo às contas:
 
@@ -814,12 +971,12 @@ O disposto nos artigos 66.º-A e 508.º-F do Código das Sociedades Comerciais, 
 
 Visto e aprovado em Conselho de Ministros de 14 de Maio de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - Fernando Pereira Serrasqueiro.
 
-**Promulgado em 30 de Julho de 2009.**
+Promulgado em 30 de Julho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de Julho de 2009.**
+Referendado em 31 de Julho de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

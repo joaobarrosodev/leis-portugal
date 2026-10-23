@@ -46,40 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/244-1980-473902
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be06bb02b05eefe44bc1cca9011775e5d065c66a3ea4fd2862a3907c6bf7543b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 162556e5cc313eb6a3c572f1e6eaf9f3abc4e72a2e470a68738d7eb810c2a594
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete de Estudos e Planeamento
+- Orgânica
+- Presidência do Conselho de Ministros
+- Secretário de Estado da Reforma Administrativa
 relationships:
 - type: amended_by
   target: pt:dre:567893:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:579350:por
+  label: "Alterado o quadro de pessoal pela PORT.647/81.29.07.1981.MFP, DR.IS [172] de 29.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/647-1981-579350
+  date: '1981-07-29'
+- type: amended_by
+  target: pt:dre:567893:por
+  label: "Mantidas em vigor as disposições do presente diploma, até à entrada em vigor dos diplomas a que se referem os nºs\
+    \ 1 e 2 do art. 19º do Dec Lei 99/81, de 05-Mai, pelo DEC LEI.331/81.1981.12.04.MRA, DR.IS [279]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/331-1981-567893
+  date: '1981-12-04'
+- type: cites
+  target: pt:dre:141047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681414:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:12Z'
   warnings: []
   errors: []
 ---
@@ -256,8 +303,8 @@ Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 5 
 
 ## ANEXO I — Quadro do pessoal a que se refere o n.º 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/11100/09590961.pdf))](https://files.diariodarepublica.pt/1s/1980/05/11100/09590961.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/11100/09590961.pdf)
 
 ## ANEXO II — Lugares abatidos aos quadros das direcções-gerais, conforme o n.º 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/11100/09590961.pdf))](https://files.diariodarepublica.pt/1s/1980/05/11100/09590961.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/11100/09590961.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/294a00/74217423.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/325/2000/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-2000-660484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54f685ed8717df9017ea3509a24708f0b92d4a82c1e7c957edc8766c1b7d208b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e6152ef9bd7215ccd3186850c66ba83e94891fb25feedd01023619a1442e8ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,42 @@ relationships:
   target: pt:dre:404743:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:178368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250032:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:337864:por
+  label: "Rectificada pelo DECL-RECT.9-J/2001.2001.03.30.PCM, DR.IS-A [77]2º Supl. de 31/Mar/2001 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/9-j-2001-337864
+  date: '2001-03-30'
+- type: repealed_by
+  target: pt:dre:404743:por
+  label: "Revogado pelo DEC LEI.316/2002.2002.12.27.MDN DR.IS-A [299]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/316-2002-404743
+  date: '2002-12-27'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:47Z'
   warnings: []
   errors: []
 ---
@@ -137,15 +163,15 @@ b) Nota de assentos, no caso de militares ou militarizados, ou cópia do process
 
 Visto e aprovado em Conselho de Ministros de 2 de Novembro de 2000. - Jorge Paulo Sacadura Almeida Coelho - Júlio de Lemos de Castro Caldas - Joaquim Augusto Nunes Pina Moura.
 
-**Promulgado em 13 de Dezembro de 2000.**
+Promulgado em 13 de Dezembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Dezembro de 2000.**
+Referendado em 14 de Dezembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Cruz de São Jorge
 
@@ -177,7 +203,7 @@ Belheira: constituída por folhas de loureiro douradas;
 
 Pendente: igual ao da insígnia para o peito.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/12/294a00/74217423.pdf)
+[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/12/294a00/74217423.pdf)](https://files.diariodarepublica.pt/1s/2000/12/294a00/74217423.pdf)](https://files.diariodarepublica.pt/1s/2000/12/294a00/74217423.pdf)
 
 3 - Miniaturas (fig. 3):
 
@@ -203,10 +229,10 @@ ii) 2.ª classe - 0,015 m;
 
 iii) 3.ª classe - 0,012 m.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/12/294a00/74217423.pdf)
+[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/12/294a00/74217423.pdf)](https://files.diariodarepublica.pt/1s/2000/12/294a00/74217423.pdf)](https://files.diariodarepublica.pt/1s/2000/12/294a00/74217423.pdf)
 
 5 - Fitas simples (fig. 5):
 
 Com as cores da fita de suspensão carregadas com as peças constantes das medalhas de 1.ª, 2.ª e 3.ª classes e sem qualquer distinção para a de 4.ª classe.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/12/294a00/74217423.pdf)
+[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/12/294a00/74217423.pdf)](https://files.diariodarepublica.pt/1s/2000/12/294a00/74217423.pdf)](https://files.diariodarepublica.pt/1s/2000/12/294a00/74217423.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/123/2002/05/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2002-370865
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba8ab31f15c8e355c8193254796a3e20d1e9e98ee1ddc8403ae01f84f1b48cdc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb9a47402b25475b93855b9c7201c44908b2abf8188d44b4970d81848f0fe28d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
 - Contrato Individual de Trabalho
-- Entidade Patronal
 - Dados Estatísticos
 - Documento Eletrónico
+- Entidade Patronal
+- Modernização Administrativa
 - Pessoa Coletiva
 - Pessoa Singular
 - Quadro de Pessoal
@@ -86,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/118/1999/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/118/1999/08/11/p/dre
+- type: cites
+  target: pt:dre:423061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653129:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:11Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +146,9 @@ Objecto e âmbito
 
 3 - Os serviços da administração central, regional e local e os institutos públicos com trabalhadores ao seu serviço em regime de contrato individual de trabalho são abrangidos pelo presente diploma apenas em relação a estes trabalhadores.
 
-###### Artigo 2.º — Apresentação dos quadros de pessoal
+Artigo 2.º
+
+Apresentação dos quadros de pessoal
 
 1 - As entidades empregadoras devem apresentar, em Novembro de cada ano, os mapas de quadros de pessoal devidamente preenchidos com elementos relativos aos respectivos trabalhadores e referentes ao mês de Outubro anterior.
 
@@ -142,7 +156,9 @@ Objecto e âmbito
 
 3 - O modelo do mapa de quadro de pessoal é aprovado por portaria do Ministro do Trabalho e da Solidariedade.
 
-###### Artigo 3.º — Formas de entrega dos quadros de pessoal
+Artigo 3.º
+
+Formas de entrega dos quadros de pessoal
 
 1 - O mapa de quadro de pessoal pode ser entregue por meio informático, nomeadamente em suporte digital ou correio electrónico, ou em suporte de papel com um dos modelos referidos no n.º 4, salvo o disposto no número seguinte.
 
@@ -164,7 +180,9 @@ c) Aos respectivos serviços regionais, em relação a trabalhadores que trabalh
 
 7 - (Actual n.º 3.)
 
-###### Artigo 5.º — Documentos electrónicos
+Artigo 5.º
+
+Documentos electrónicos
 
 A validade, a eficácia e o valor probatório dos quadros de pessoal entregues por meio informático são regulados pelo [Decreto-Lei n.º 290-D/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-d-1999-445741), de 2 de Agosto.»
 
@@ -174,12 +192,12 @@ A obrigação de entregar o quadro de pessoal por meio informático aplica-se a 
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Paulo José Fernandes Pedroso - Alexandre António Cantigas Rosa.
 
-**Promulgado em 12 de Abril de 2002.**
+Promulgado em 12 de Abril de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Abril de 2002.**
+Referendado em 22 de Abril de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

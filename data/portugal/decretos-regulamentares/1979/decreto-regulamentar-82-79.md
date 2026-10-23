@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 300/1979, 7º Suplemento, Série I de 1979-12-31
   number: '300'
   series: I
-  supplement: 7º Suplemento
+  supplement: null
   pages: 3478-(136) a 3478-(140)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30007/01360140.pdf
 entry_into_force_dates: []
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/82-1979-231292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04ffa6e8e935d0fe93284ddd3b7f4cada779a8564be86eb4ebd18a4fc67a3109
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94bc5795cd4cd0f7b88700501ef94458b04a96b4f96d1c5ff37fc35b3fca5b8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Definição de Competências
+- Direcção Geral da Organização Administrativa
+- Quadro de Pessoal
+- Secretaria de Estado da Administração Pública
 relationships:
 - type: amended_by
   target: pt:dre:567893:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:461594:por
+  label: "Alterado o quadro de pessoal, aprovado no presente diploma, pela PORT.769/80.02.10.1980.PCM, DR.IS [228] de 02.10.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/769-1980-461594
+  date: '1980-10-02'
+- type: amended_by
+  target: pt:dre:388438:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Organização Administrativa constante do presente diploma, pela\
+    \ PORT.244/81.07.03.1981.MFP, DR.IS [55] de 07.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/244-1981-388438
+  date: '1981-03-07'
+- type: cites
+  target: pt:dre:231284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369823:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:475124:por
+  label: Rectificado o presente diploma, pela DECL.DD6918.23.04.1980.PCM, DR.IS [104] de 06.05.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-475124
+  date: '1980-04-23'
 article_structure:
-  article_count: 1
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:30Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +130,9 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Direcção-Geral da Organização Administrativa da SEAP é o serviço central de estudo, de cooperação e de coordenação, em matéria de organização e gestão, de processos e métodos de trabalho e de informática, tendo em vista o sistemático aperfeiçoamento, modernização e eficiência da Administração Pública.
+Artigo 1.º A Direcção-Geral da Organização Administrativa da SEAP é o serviço central de estudo, de cooperação e de coordenação, em matéria de organização e gestão, de processos e métodos de trabalho e de informática, tendo em vista o sistemático aperfeiçoamento, modernização e eficiência da Administração Pública.
 
-###### Art. 2.º As atribuições da Direcção-Geral exercem-se, fundamentalmente, nos seguintes domínios:
+Art. 2.º As atribuições da Direcção-Geral exercem-se, fundamentalmente, nos seguintes domínios:
 
 a) Organização e gestão administrativas;
 
@@ -112,7 +142,7 @@ c) Racionalização administrativa;
 
 d) Normalização.
 
-###### Art. 3.º - 1 - Para o exercício das suas atribuições, a Direcção-Geral dispõe dos seguintes Departamentos:
+Art. 3.º - 1 - Para o exercício das suas atribuições, a Direcção-Geral dispõe dos seguintes Departamentos:
 
 a) De Organização e Gestão;
 
@@ -124,7 +154,7 @@ c) De Racionalização Administrativa.
 
 3 - O apoio administrativo à Direcção-Geral será prestado por uma secção administrativa.
 
-###### Art. 4.º Compete, em geral, aos Departamentos:
+Art. 4.º Compete, em geral, aos Departamentos:
 
 a) A emissão de pareceres e a prestação de assessoria técnica que lhes for solicitada;
 
@@ -142,7 +172,7 @@ g) A colaboração na determinação das necessidades de formação em matérias
 
 #### SECÇÃO II — Departamento de Organização e Gestão
 
-###### Art. 5.º Compete ao Departamento de Organização e Gestão:
+Art. 5.º Compete ao Departamento de Organização e Gestão:
 
 a) A elaboração de estudos gerais sobre ciência da administração;
 
@@ -152,13 +182,13 @@ c) O estudo, divulgação e aplicação das modernas técnicas de gestão;
 
 d) O estudo e a interpretação do ambiente com implicação na organização e na gestão.
 
-###### Art. 6.º Para o exercício das competências referidas no artigo anterior, o Departamento dispõe das seguintes Divisões.
+Art. 6.º Para o exercício das competências referidas no artigo anterior, o Departamento dispõe das seguintes Divisões.
 
 a) De Organização;
 
 b) De Gestão.
 
-###### Art. 7.º Compete à Divisão de Organização:
+Art. 7.º Compete à Divisão de Organização:
 
 a) A elaboração de estudos sobre a orgânica da administração, sua divulgação e aplicação;
 
@@ -168,7 +198,7 @@ c) A proposição de critérios orientadores da criação e da estruturação de
 
 d) A emissão de pareceres e o acompanhamento de projectos sobre a criação, organização e reorganização dos serviços públicos.
 
-###### Art. 8.º Compete à Divisão de Gestão:
+Art. 8.º Compete à Divisão de Gestão:
 
 a) A difusão de métodos de direcção administrativa e acompanhamento da sua aplicação;
 
@@ -180,7 +210,7 @@ d) O estudo, divulgação e aplicação de técnicas de avaliação de programas
 
 #### SECÇÃO III — Departamento de Informática
 
-###### Art. 9.º Compete ao Departamento de Informática:
+Art. 9.º Compete ao Departamento de Informática:
 
 a) A realização de estudos conducentes à definição de uma política de informática para a Administração Pública;
 
@@ -192,13 +222,13 @@ d) O apoio técnico na informatização de serviços;
 
 e) O acompanhamento dos projectos e a emissão de pareceres sobre a primeira instalação, ampliação ou reconversão de equipamento e a aquisição de serviços de informática.
 
-###### Art. 10.º Para o exercício das competências referidas no artigo anterior o Departamento de Informática dispõe das seguintes Divisões:
+Art. 10.º Para o exercício das competências referidas no artigo anterior o Departamento de Informática dispõe das seguintes Divisões:
 
 a) De Planeamento e Normalização;
 
 b) De Automatização e Sistemas.
 
-###### Art. 11.º Compete à Divisão de Planeamento e Normalização:
+Art. 11.º Compete à Divisão de Planeamento e Normalização:
 
 a) A preparação, em colaboração com órgãos sectoriais, dos planos de informatização da Administração Pública que consubstanciem a política de informática, bem como o controle da sua execução;
 
@@ -214,7 +244,7 @@ f) A realização de estudos conducentes à regulamentação jurídica das quest
 
 g) A promoção e divulgação de normas gerais a ter em conta na selecção, aquisição, contratação e instalação de equipamentos de informática ou de suportes lógicos.
 
-###### Art. 12.º Compete à Divisão de Automatização e Sistemas:
+Art. 12.º Compete à Divisão de Automatização e Sistemas:
 
 a) O apoio técnico ao levantamento dos sistemas e subsistemas de informação, à definição e concepção de aplicações e à determinação dos volumes de informação a tratar com vista à informatização dos serviços;
 
@@ -230,7 +260,7 @@ f) O estudo das características técnicas do equipamento de informática e dos 
 
 #### SECÇÃO IV — Departamento de Racionalização Administrativa
 
-###### Art. 13.º Compete ao Departamento de Racionalização Administrativa:
+Art. 13.º Compete ao Departamento de Racionalização Administrativa:
 
 a) O estudo e a aplicação de metodologias de análise quantitativa da actividade administrativa;
 
@@ -240,13 +270,13 @@ c) A análise e a interpretação do ambiente com implicação na metodologia a 
 
 d) A emissão de pareceres sobre matéria da sua competência, designadamente sobre efectivos de pessoal e instalação de serviços.
 
-###### Art. 14.º Para o exercício das competências referidas no artigo anterior, o Departamento dispõe das seguintes Divisões:
+Art. 14.º Para o exercício das competências referidas no artigo anterior, o Departamento dispõe das seguintes Divisões:
 
 a) De Análise do Trabalho;
 
 b) De Procedimentos Administrativos.
 
-###### Art. 15.º Compete à Divisão de Análise do Trabalho:
+Art. 15.º Compete à Divisão de Análise do Trabalho:
 
 a) O estudo e aplicação de metodologias e técnicas de análise quantitativa do trabalho;
 
@@ -258,7 +288,7 @@ d) O cálculo de efectivos de pessoal em função do volume e natureza do trabal
 
 e) O estudo e determinação de índices de produtividade do trabalho e de rendibilidade de equipamentos administrativos.
 
-###### Art. 16.º Compete à Divisão de Procedimentos Administrativos:
+Art. 16.º Compete à Divisão de Procedimentos Administrativos:
 
 a) A aplicação de técnicas de simplificação dos circuitos administrativos;
 
@@ -270,9 +300,11 @@ d) O cálculo de áreas para instalação de serviços e aplicação de metodolo
 
 e) O estudo de medidas conducentes à melhoria das relações entre os serviços e os seus utentes, designadamente pelo aperfeiçoamento dos sistemas de informação ao público.
 
-#### SECÇÃO V — Divisão de Registo e Tratamento da Informação
+#### SECÇÃO V
 
-###### Art. 17.º Compete à Divisão de Registo e Tratamento da Informação:
+##### Divisão de Registo e Tratamento da Informação
+
+Art. 17.º Compete à Divisão de Registo e Tratamento da Informação:
 
 a) O registo de dados com interesse para a realização das atribuições da Direcção-Geral;
 
@@ -280,21 +312,23 @@ b) O tratamento automático da informação respeitante aos dados referidos na a
 
 c) O desenvolvimento da análise e programação das aplicações definidas pelos Departamentos da Direcção-Geral.
 
-#### SECÇÃO VI — Secção Administrativa
+#### SECÇÃO VI
 
-###### Art. 18.º - 1 - À Secção Administrativa compete assegurar o serviço de expediente, da administração do pessoal e de reprografia da Direcção-Geral.
+#### Secção Administrativa
+
+Art. 18.º - 1 - À Secção Administrativa compete assegurar o serviço de expediente, da administração do pessoal e de reprografia da Direcção-Geral.
 
 2 - Compete igualmente à Secção Administrativa assegurar o serviço de contabilidade da Direcção-Geral, em articulação com os Serviços de Administração Geral da Secretaria de Estado da Administração Pública.
 
 ### CAPÍTULO III — Do funcionamento dos serviços
 
-###### Art. 19.º - 1 - A Direcção-Geral será gerida pelo director-geral, coadjuvado pelos subdirectores-gerais, os quais exercerão as funções que lhes forem especificamente delegadas ou cometidas pelo director-geral.
+Art. 19.º - 1 - A Direcção-Geral será gerida pelo director-geral, coadjuvado pelos subdirectores-gerais, os quais exercerão as funções que lhes forem especificamente delegadas ou cometidas pelo director-geral.
 
 2 - Os Departamentos e Divisões serão dirigidos, respectivamente, pelos directores de serviços e chefes de divisão, aos quais cabe assegurar o funcionamento dos seus serviços.
 
-###### Art. 20.º Com vista à orientação e coordenação das actuações sectoriais relacionadas com as suas atribuições, a Direcção-Geral manterá a necessária ligação com os órgãos homólogos já existentes ou que venham a ser criados nos diversos Ministérios.
+Art. 20.º Com vista à orientação e coordenação das actuações sectoriais relacionadas com as suas atribuições, a Direcção-Geral manterá a necessária ligação com os órgãos homólogos já existentes ou que venham a ser criados nos diversos Ministérios.
 
-###### Art. 21.º Para a prossecução das respectivas atribuições, poderá a Direcção-Geral:
+Art. 21.º Para a prossecução das respectivas atribuições, poderá a Direcção-Geral:
 
 a) Colaborar com os diversos serviços da Administração na realização de projectos de aplicação das técnicas e metodologias da sua competência;
 
@@ -308,9 +342,9 @@ e) Desenvolver e manter contactos com organismos congéneres, nacionais, estrang
 
 f) Acolher e orientar, através dos respectivos serviços, estagiários que pretendam iniciar ou aperfeiçoar os seus conhecimentos em matérias da competência da Direcção-Geral.
 
-###### Art. 22.º A Direcção-Geral manterá permanente ligação com os demais serviços da Secretaria de Estado da Administração Pública no domínio das respectivas atribuições.
+Art. 22.º A Direcção-Geral manterá permanente ligação com os demais serviços da Secretaria de Estado da Administração Pública no domínio das respectivas atribuições.
 
-###### Art. 23.º - 1 - Os Departamentos da Direcção-Geral manterão estreitas relações entre si no exercício das respectivas competências.
+Art. 23.º - 1 - Os Departamentos da Direcção-Geral manterão estreitas relações entre si no exercício das respectivas competências.
 
 2 - A acção dos Departamentos será conjunta na realização de projectos comuns.
 
@@ -318,34 +352,34 @@ f) Acolher e orientar, através dos respectivos serviços, estagiários que pret
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 24.º - 1 - A Direcção-Geral dispõe do pessoal constante do quadro I anexo ao presente diploma.
+Art. 24.º - 1 - A Direcção-Geral dispõe do pessoal constante do quadro I anexo ao presente diploma.
 
 2 - O pessoal será distribuído pelos serviços mediante despacho do director-geral.
 
 3 - Os contingentes de pessoal fixados no quadro anexo poderão ser alterados de harmonia com o desenvolvimento das actividades da Direcção-Geral, mediante portaria conjunta do Ministro das Finanças e do Secretário de Estado da Administração Pública.
 
-###### Art. 25.º O regime de pessoal e as normas de provimento dos lugares do quadro de pessoal a que se refere o artigo anterior são os constantes do [Decreto Regulamentar n.º 78/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1979-231284), de 31 de Dezembro.
+Art. 25.º O regime de pessoal e as normas de provimento dos lugares do quadro de pessoal a que se refere o artigo anterior são os constantes do [Decreto Regulamentar n.º 78/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1979-231284), de 31 de Dezembro.
 
-###### Art. 26.º - 1 - Será integrado no quadro a que se refere o artigo 24.º do presente diploma todo o pessoal que à data da sua entrada em vigor se encontre a prestar efectivo serviço a tempo inteiro e a qualquer título da DGOA.
+Art. 26.º - 1 - Será integrado no quadro a que se refere o artigo 24.º do presente diploma todo o pessoal que à data da sua entrada em vigor se encontre a prestar efectivo serviço a tempo inteiro e a qualquer título da DGOA.
 
 2 - Sem prejuízo do disposto no n.º 1, aplicar-se-á ao primeiro provimento dos lugares do quadro anexo a este diploma o disposto no artigo 36.º do [Decreto Regulamentar n.º 78/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1979-231284), de 31 de Dezembro.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 27.º Até ao final do ano económico, os encargos respeitantes ao funcionamento da Direcção-Geral da Organização Administrativa serão suportados por força das verbas consignadas ao Secretariado da Administração Pública.
+Art. 27.º Até ao final do ano económico, os encargos respeitantes ao funcionamento da Direcção-Geral da Organização Administrativa serão suportados por força das verbas consignadas ao Secretariado da Administração Pública.
 
-###### Art. 28.º As dúvidas que ocorram na aplicação do presente diploma serão resolvidas por despacho do Secretário de Estado da Administração Pública.
+Art. 28.º As dúvidas que ocorram na aplicação do presente diploma serão resolvidas por despacho do Secretário de Estado da Administração Pública.
 
-###### Art. 29.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 29.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 31 de Dezembro de 1979.**
+Promulgado em 31 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro de pessoal a que se refere o n.º 1 do artigo 24.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30007/01360140.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30007/01360140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30007/01360140.pdf)

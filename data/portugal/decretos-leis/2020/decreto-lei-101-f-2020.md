@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07
   number: '237'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7-(66) a 7-(125)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/23701/0006600125.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/101-f/2020/12/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-f-2020-150570706
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ec8db568374a26ebad114b944ffdb671b0a935bc1bb7655385497003bd0a500
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d68e1d328644f9f61a105d0d9032aca7387102d8746e88d31620aa0f83d6550
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,54 +68,54 @@ reuse:
 subjects:
 - Acidente de Trabalho
 - Aproximação das Legislações
-- Região Autónoma
-- Embarcação
+- Armador
+- Autoridade Marítima Nacional
+- Autoridade para as Condições do Trabalho
 - Autorização Legislativa
-- Garantia
 - Bandeira
-- Pescador
-- Tráfego Marítimo
 - Certificação Profissional
-- Transporte Marítimo
-- Marinha Mercante
-- Pessoal do MAR
+- Código do Trabalho
+- Condições de Higiene e Segurança no Trabalho
 - Contra-ordenação Laboral
 - Contrato Individual de Trabalho
 - Curso de Aptidão Física e Saúde
-- Regime Laboral
-- Regulamentação de Atos Legislativos
-- Autoridade Marítima Nacional
-- Direito do Trabalho
-- Código do Trabalho
-- Embarcação Estrangeira
-- Inspecção de Navios
-- Segurança no Trabalho
-- Fiscalização
-- Pesca
-- Gabinete de Prevenção e de Investigação de Acidentes Marítimos
-- Horas Extraordinárias
-- Licença de Pesca
-- Menoridade
+- Descrição de Funções
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Direito do Trabalho
+- Duração do Trabalho
+- Embarcação
+- Embarcação de Pesca
+- Embarcação Estrangeira
+- Fiscalização
+- Gabinete de Prevenção e de Investigação de Acidentes Marítimos
+- Garantia
+- Horas Extraordinárias
+- Inspecção de Navios
+- Licença de Pesca
+- Marinha Mercante
+- Menoridade
 - Normas de Trabalho
 - OIT
-- Descrição de Funções
-- Porto de Pesca
+- Pesca
+- Pescador
+- Pessoal do MAR
 - Pirataria
 - Poluição Marinha
-- Queixa
-- Armador
-- Regime de Pessoal
-- Condições de Higiene e Segurança no Trabalho
-- Duração do Trabalho
-- Embarcação de Pesca
-- Repatriamento
+- Porto de Pesca
 - Portos
+- Queixa
+- Região Autónoma
+- Regime de Pessoal
+- Regime Laboral
+- Regulamentação de Atos Legislativos
+- Repatriamento
 - Segurança da Navegação
 - Segurança Marítima
+- Segurança no Trabalho
 - Trabalhador por Conta de Outrem
 - Trabalho a Bordo
-- Autoridade para as Condições do Trabalho
+- Tráfego Marítimo
+- Transporte Marítimo
 relationships:
 - type: cites
   target: celex:31993L0103
@@ -209,6 +209,126 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/19
   label: null
   source: http://data.europa.eu/eli/dir/19
+- type: cites
+  target: pt:dre:115698899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125865390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145102351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147432950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67040492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70236274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70237675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73807563:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31992L0029
   label: null
@@ -226,15 +346,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 118
+  article_count: 79
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:25Z'
   warnings: []
   errors: []
 ---
@@ -315,13 +435,17 @@ Os artigos 1.º, 3.º, 4.º, 6.º, 21.º, 27.º, 35.º e 37.º da [Lei n.º 15/9
 
 8 - A presente lei regula, ainda, as responsabilidades do Estado Português enquanto Estado de bandeira ou do porto, em cumprimento de disposições obrigatórias da Convenção sobre o Trabalho no Setor da Pesca, de 2007, da Organização Internacional do Trabalho (Convenção n.º 188).
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O contrato individual de trabalho a bordo das embarcações de pesca é aquele pelo qual o tripulante, também designado como marítimo para efeitos da presente lei, se obriga, mediante retribuição, a prestar a sua atividade profissional a um armador de pesca, sob a autoridade e direção deste ou do seu representante legal.
 
 2 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Para efeitos da presente lei, considera-se:
 
@@ -335,7 +459,9 @@ d) [Anterior alínea e).]
 
 e) Tripulante - qualquer pessoa contratada, seja a que título for, ou que exerça uma atividade profissional a bordo de um navio ou embarcação de pesca, incluindo as pessoas que trabalham a bordo e que são remuneradas com base numa parte das capturas, excluindo pilotos, pessoas em terra a efetuar trabalhos a bordo de um navio ou embarcação de pesca e observadores do pescado.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -359,7 +485,9 @@ f) Os restantes elementos constantes no anexo à presente lei e da qual faz part
 
 5 - O contrato de trabalho, cuja cópia deve ser entregue ao tripulante, deve ser conservado a bordo, em formato eletrónico ou em suporte papel, e estar à disposição do mesmo, bem como, em conformidade com a legislação especial aplicável, de outras partes interessadas que o solicitem.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -377,7 +505,9 @@ d) [...]
 
 4 - Logo que as situações descritas no número anterior fiquem normalizadas deve ser assegurado aos tripulantes um período de descanso adequado.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...]
 
@@ -385,7 +515,9 @@ d) [...]
 
 3 - A pedido do tripulante, o pagamento da retribuição pode ser efetuado, no todo ou em parte, a pessoa a quem este designar.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - O menor não pode prestar trabalho a bordo entre as 22 horas de um dia e as 7 horas do dia seguinte, ou em período previsto em regulamentação coletiva de trabalho de, pelo menos, 9 horas consecutivas que abranja um intervalo compreendido entre as 0 e as 5 horas.
 
@@ -397,7 +529,9 @@ b) Quando seja indispensável para prevenir ou reparar prejuízo grave para o na
 
 3 - Na situação a que se refere a alínea b) do número anterior, o menor tem direito a um período equivalente de descanso compensatório, a gozar nas três semanas seguintes.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -421,7 +555,9 @@ Aptidão física e psíquica do tripulante
 
 2 - Sem prejuízo das regras gerais aplicáveis em matéria de segurança e saúde no trabalho, os exames médicos e a emissão de certificados médicos do tripulante devem respeitar o disposto no [Decreto-Lei n.º 166/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2019-125865390), de 31 de outubro.
 
-###### Artigo 10.º-B — Procedimento de queixa a bordo
+Artigo 10.º-B
+
+Procedimento de queixa a bordo
 
 1 - O tripulante pode apresentar, ao responsável de quem dependa diretamente, queixa oral ou escrita sobre qualquer ocorrência que viole disposições obrigatórias previstas na legislação relativa ao trabalho a bordo das embarcações de pesca, no decurso da ocorrência ou no prazo contínuo de cinco dias a contar do seu termo.
 
@@ -451,7 +587,9 @@ Aptidão física e psíquica do tripulante
 
 14 - O presente artigo não se aplica às queixas que as autoridades competentes considerem manifestamente infundadas.
 
-###### Artigo 10.º-C — Afixação de documentos
+Artigo 10.º-C
+
+Afixação de documentos
 
 1 - Devem ser afixados em local acessível do navio ou embarcação de pesca:
 
@@ -463,11 +601,15 @@ b) O número máximo de horas de trabalho ou o número mínimo de horas de desca
 
 3 - Ficam dispensados da afixação dos documentos previstos nos números anteriores os navios ou embarcações que, pelas suas características, não possibilitem tal afixação, devendo o armador garantir que os documentos estão disponíveis a bordo.
 
-###### Artigo 16.º-A — Serviços de recrutamento e colocação
+Artigo 16.º-A
+
+Serviços de recrutamento e colocação
 
 Sempre que haja recurso a serviços de recrutamento e colocação de tripulantes a bordo de navios ou embarcações de pesca de bandeira portuguesa, o armador deve assegurar, na medida do possível, que estes serviços quando estabelecidos em Estados que não ratificaram a Convenção n.º 188 respeitam as prescrições da mesma.
 
-###### Artigo 20.º-A — Limites de tempo de trabalho e de descanso
+Artigo 20.º-A
+
+Limites de tempo de trabalho e de descanso
 
 1 - A duração do trabalho, incluindo o trabalho suplementar, não pode ser superior a:
 
@@ -481,7 +623,9 @@ b) 72 horas em cada período de sete dias.
 
 4 - O disposto nos números anteriores aplica-se sem prejuízo do disposto no Código do Trabalho, aprovado pela [Lei n.º 7/2009](https://diariodarepublica.pt/dr/detalhe/lei/7-2009-602073), de 12 de fevereiro, na sua redação atual, relativamente ao trabalho de menor.
 
-###### Artigo 36.º-A — Cumprimento da Convenção n.º 188 em navio ou embarcação de pesca que arvora a Bandeira Portuguesa
+Artigo 36.º-A
+
+Cumprimento da Convenção n.º 188 em navio ou embarcação de pesca que arvora a Bandeira Portuguesa
 
 1 - O cumprimento das obrigações decorrentes da Convenção n.º 188 é assegurado através de um sistema de inspeção e da emissão de um documento de conformidade das condições de trabalho e de vida a bordo de navio ou embarcação de pesca.
 
@@ -489,7 +633,9 @@ b) 72 horas em cada período de sete dias.
 
 3 - O disposto no presente capítulo relativamente à emissão do documento de conformidade é aplicável aos navios ou embarcações de pesca que arvorem a Bandeira Portuguesa, que passem mais de três dias no mar e que tenham um comprimento igual ou superior a 24 m ou que naveguem habitualmente a mais de 200 milhas náuticas da costa ou para além do limite exterior da plataforma continental, se este for mais distante.
 
-###### Artigo 36.º-B — Inspeção e certificação por organizações reconhecidas
+Artigo 36.º-B
+
+Inspeção e certificação por organizações reconhecidas
 
 1 - A inspeção e a emissão do documento de conformidade podem ser realizadas por organizações reconhecidas nos termos do [Regulamento (CE) n.º 391/2009](http://data.europa.eu/eli/reg/2009/391/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativo às regras comuns para as organizações de vistoria e inspeção de navios ou embarcações, desde que:
 
@@ -509,7 +655,9 @@ b) Sejam autorizadas para o efeito pela DGRM, mediante acordo escrito.
 
 5 - A DGRM dá conhecimento ao Secretariado Internacional do Trabalho da identificação das organizações reconhecidas e autorizadas, do tipo e do âmbito da respetiva autorização e de quaisquer alterações que ocorram.
 
-###### Artigo 36.º-C — Inspeções
+Artigo 36.º-C
+
+Inspeções
 
 1 - Os inspetores de navios e segurança marítima podem, no exercício de funções de inspeção:
 
@@ -527,13 +675,17 @@ e) Prestar informações, conselhos técnicos ou recomendações em alternativa 
 
 3 - A DGRM conserva os registos das inspeções efetuadas e publicita, no primeiro semestre de cada ano, o relatório da atividade inspetiva do ano anterior.
 
-###### Artigo 36.º-D — Documento de conformidade das condições de vida e de trabalho a bordo de navio ou embarcação de pesca
+Artigo 36.º-D
+
+Documento de conformidade das condições de vida e de trabalho a bordo de navio ou embarcação de pesca
 
 1 - O documento de conformidade emitido aos navios ou embarcações de pesca a que se refere o n.º 3 do artigo 36.º-A é válido por um período de quatro anos, prorrogável por mais um ano, mediante requerimento devidamente fundamentado e desde que sujeito a inspeção prévia.
 
 2 - O documento de conformidade referido no número anterior caduca quando expire o seu prazo de validade ou quando o navio ou a embarcação de pesca for sujeito a qualquer alteração estrutural.
 
-###### Artigo 36.º-E — Inspeção de navios ou embarcações de pesca de bandeira estrangeira
+Artigo 36.º-E
+
+Inspeção de navios ou embarcações de pesca de bandeira estrangeira
 
 1 - Qualquer navio ou embarcação de pesca que arvore bandeira estrangeira e se encontre em porto ou fundeadouro nacional no decurso normal da sua atividade ou por razões inerentes à sua exploração pode ser inspecionado pela DGRM para verificar:
 
@@ -571,7 +723,9 @@ d) [...]
 
 e) A [Diretiva (UE) 2015/1794](http://data.europa.eu/eli/dir/2015/1794/oj?locale=pt) do Parlamento Europeu e do Conselho, de 6 de outubro de 2015, que altera as Diretivas [2008/94/CE](http://data.europa.eu/eli/dir/2008/94/oj?locale=pt), [2009/38/CE](http://data.europa.eu/eli/dir/2009/38/oj?locale=pt) e [2002/14/CE](http://data.europa.eu/eli/dir/2002/14/oj?locale=pt) do Parlamento Europeu e do Conselho e as Diretivas [98/59/CE](http://data.europa.eu/eli/dir/1998/59/oj?locale=pt) e [2001/23/CE](http://data.europa.eu/eli/dir/2001/23/oj?locale=pt) do Conselho, no que respeita aos marítimos.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]
 
@@ -599,7 +753,9 @@ i) 'Assalto à mão armada contra navios', qualquer ato ilícito de violência o
 
 4 - [...]
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -641,7 +797,9 @@ b) [...]
 
 10 - Constitui contraordenação grave a violação do disposto no n.º 3.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -663,7 +821,9 @@ b) [...]
 
 10 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -671,7 +831,9 @@ b) [...]
 
 3 - O disposto nos n.os 1 e 2 é aplicável sem prejuízo do disposto no artigo 21.º-C da presente lei.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - A bordo de navio que arvore a Bandeira Portuguesa devem estar disponíveis, em suporte físico ou em suporte eletrónico, exemplares dos contratos de trabalho e dos contratos de prestação de serviço das pessoas contratadas que trabalham a bordo, bem como da presente lei, da Convenção e suas emendas, dos instrumentos de regulamentação coletiva de trabalho aplicáveis, e dos acordos celebrados pela ECSA e pela ETF sobre a Convenção, anexos à [Diretiva 2009/13/CE](http://data.europa.eu/eli/dir/2009/13/oj?locale=pt) do Conselho, de 16 de fevereiro de 2009, e à Diretiva (UE) [2018/131](http://data.europa.eu/eli/dir/2018/131/oj?locale=pt) do Conselho, de 23 de janeiro de 2018.
 
@@ -689,7 +851,9 @@ b) Os certificados ou documentos equivalentes das garantias financeiras, a que s
 
 6 - [...]
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...]
 
@@ -735,7 +899,9 @@ p) Garantia financeira relativa à responsabilidade dos armadores.
 
 6 - [...]
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...]
 
@@ -773,7 +939,9 @@ b) As garantias financeiras previstas nos artigos 20.º-A e 21.º-A perderem a s
 
 8 - (Anterior n.º 6.)
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Salvo o disposto no artigo 43.º-A e no n.º 6, aplica-se às infrações decorrentes da violação da presente lei o regime previsto nos artigos 548.º a 566.º do Código do Trabalho, aprovado pela [Lei n.º 7/2009](https://diariodarepublica.pt/dr/detalhe/lei/7-2009-602073), de 12 de fevereiro, na sua redação atual, sem prejuízo das competências legalmente atribuídas, nas Regiões Autónomas, aos respetivos órgãos e serviços.
 
@@ -833,7 +1001,9 @@ Garantia financeira para o repatriamento
 
 6 - Constitui contraordenação muito grave a violação dos n.os 1 e 2 e contraordenação grave, a violação do disposto nos n.os 3 a 5.
 
-###### Artigo 20.º-B — Prestação de assistência em caso de abandono
+Artigo 20.º-B
+
+Prestação de assistência em caso de abandono
 
 1 - Para efeitos do disposto no artigo anterior, um marítimo é considerado como tendo sido abandonado se, em violação das normas legais ou dos termos do respetivo contrato de trabalho, o armador:
 
@@ -883,13 +1053,17 @@ iv) Quaisquer outros custos ou encargos razoáveis decorrentes do ato ou da omis
 
 6 - Constitui contraordenação grave a violação do disposto nos n.os 2 a 5.
 
-###### Artigo 20.º-C — Sub-rogação e direito de regresso contra terceiros
+Artigo 20.º-C
+
+Sub-rogação e direito de regresso contra terceiros
 
 1 - O prestador de garantia financeira que tenha prestado assistência financeira a um marítimo abandonado adquire por sub-rogação, até ao limite do montante que pagou, os direitos de que o marítimo teria beneficiado por parte do armador.
 
 2 - A prestação de assistência a marítimo abandonado não prejudica o direito de regresso contra terceiros por parte do prestador da garantia financeira.
 
-###### Artigo 21.º-A — Garantia financeira relativa à responsabilidade dos armadores
+Artigo 21.º-A
+
+Garantia financeira relativa à responsabilidade dos armadores
 
 1 - O armador deve constituir uma garantia financeira para assegurar o pagamento de uma indemnização, ou de créditos de natureza indemnizatória, ao marítimo ou, sendo o caso, aos seus beneficiários, por morte ou incapacidade de longa duração daquele, resultante de acidente de trabalho ou de doença profissional, ocorrido durante o trabalho prestado ao abrigo do seu contrato de trabalho a bordo do navio, ou em consequência do trabalho, nos termos da lei, de instrumento de regulamentação coletiva de trabalho aplicável ou do contrato de trabalho.
 
@@ -915,7 +1089,9 @@ b) Seguro, outro regime de proteção social ou outra forma de garantia financei
 
 10 - Constitui contraordenação grave a violação do disposto nos n.os 3 a 7.
 
-###### Artigo 21.º-B — Requisitos da garantia financeira relativa à responsabilidade dos armadores
+Artigo 21.º-B
+
+Requisitos da garantia financeira relativa à responsabilidade dos armadores
 
 1 - A garantia financeira constituída ao abrigo da alínea b) do n.º 2 do artigo anterior deve ainda cumprir os seguintes requisitos mínimos:
 
@@ -931,7 +1107,9 @@ e) O pagamento da indemnização não prejudica outros direitos atribuídos por 
 
 2 - Constitui contraordenação grave a violação do disposto nas alíneas a) a d) do número anterior, sem prejuízo de eventual responsabilidade criminal, no que se refere à alínea b).
 
-###### Artigo 21.º-C — Proteção em caso de pirataria ou assalto à mão armada contra navios
+Artigo 21.º-C
+
+Proteção em caso de pirataria ou assalto à mão armada contra navios
 
 1 - Se, em resultado de eventuais atos de pirataria ou assalto à mão armada contra o navio onde presta o seu trabalho, o marítimo for mantido em cativeiro a bordo ou fora do navio, o seu contrato de trabalho continua a produzir efeitos, ainda que lhe tenha sido aposto um termo e o prazo convencionado para a cessação devesse ocorrer durante aquele período, ou qualquer das partes tenha comunicado à outra a suspensão ou a cessação do contrato de trabalho.
 
@@ -945,7 +1123,9 @@ e) O pagamento da indemnização não prejudica outros direitos atribuídos por 
 
 6 - Constitui contraordenação grave a violação do disposto nos n.os 3 e 4.
 
-###### Artigo 43.º-A — Contraordenações aplicáveis a empresas de seguros
+Artigo 43.º-A
+
+Contraordenações aplicáveis a empresas de seguros
 
 1 - Às infrações decorrentes da violação da presente lei praticadas por empresas de seguros é aplicável o regime contraordenacional previsto no regime jurídico do acesso e exercício da atividade seguradora e resseguradora, aprovado pela [Lei n.º 147/2015](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), de 9 de setembro, na sua redação atual, assim como o regime processual aplicável aos crimes especiais do setor segurador e dos fundos de pensões e às contraordenações cujo processamento compete à Autoridade de Supervisão de Seguros e Fundos de Pensões, aprovado pela mesma lei.
 
@@ -985,7 +1165,9 @@ f) [...]
 
 g) [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Sem prejuízo das obrigações gerais do empregador previstas no artigo 15.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009), de 10 de setembro, na sua redação atual, o armador deve:
 
@@ -1001,7 +1183,9 @@ e) [...]
 
 f) [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 O comandante ou mestre deve:
 
@@ -1013,19 +1197,25 @@ c) [...]
 
 d) Transmitir o relatório referido na alínea anterior ao órgão local da Autoridade Marítima Nacional (AMN) do primeiro porto nacional escalado após o incidente, que remete uma cópia à Autoridade para as Condições do Trabalho (ACT) e à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM), sem prejuízo de outras notificações previstas na lei.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
 2 - A consulta e a participação dos trabalhadores e dos seus representantes devem obedecer ao disposto nos artigos 18.º e 19.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009), de 10 de setembro, na sua redação atual.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 20.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009), de 10 de setembro, na sua redação atual, o armador deve facultar aos trabalhadores a formação adequada, assim como as atualizações necessárias sobre a segurança e a saúde a bordo do navio ou embarcação, em especial sobre emergências, prevenção de acidentes, combate a incêndios, utilização de meios de salvamento e de sobrevivência, utilização das artes de pesca e dos equipamentos de tração, bem como os métodos de sinalização, designadamente os gestuais, e ainda os necessários planos de treino internos para cada uma das matérias dos planos de formação.
 
 2 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Sem prejuízo de outras notificações previstas na lei, o armador deve comunicar à ACT e à DGRM, ao Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica e ao órgão local da AMN do primeiro porto nacional escalado após o incidente, no mais curto prazo possível, os acidentes mortais, bem como aqueles que evidenciem lesão física grave.
 
@@ -1035,7 +1225,9 @@ d) Transmitir o relatório referido na alínea anterior ao órgão local da Auto
 
 4 - Sem prejuízo da investigação técnica realizada pelo Gabinete de Prevenção e de Investigação de Acidentes Marítimos ao abrigo da [Lei n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/lei/18-2012-553057), de 7 de maio, o apuramento das causas que, no âmbito do presente decreto-lei, estiverem ligadas a acidente de que resulte a morte ou lesão de trabalhadores compete à ACT, com a participação de um representante da DGRM e um representante do órgão local da AMN.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A regulamentação das prescrições mínimas de segurança e de saúde no trabalho a bordo dos navios ou embarcações de pesca, novos e existentes, é estabelecida pela [Portaria n.º 356/98](https://diariodarepublica.pt/dr/detalhe/portaria/356-1998-478425), de 24 de junho.
 
@@ -1055,7 +1247,9 @@ ii) Tenha sido iniciada uma construção identificável como um navio específic
 
 iii) Tenha sido iniciada uma operação de montagem que envolva, pelo menos, 50 t ou 1 % do material total previsto para a sua estrutura, consoante o valor que for mais baixo.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Constitui contraordenação muito grave a violação do artigo 4.º
 
@@ -1065,13 +1259,17 @@ iii) Tenha sido iniciada uma operação de montagem que envolva, pelo menos, 50 
 
 4 - Às contraordenações previstas nos n.os 1 e 2 aplica-se o regime processual aplicável às contraordenações laborais e de segurança social, aprovado pela [Lei n.º 107/2009](https://diariodarepublica.pt/dr/detalhe/lei/107-2009-489761), de 14 de setembro, na sua redação atual.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O controlo e a fiscalização do cumprimento do disposto no presente diploma são cometidos, no âmbito das suas competências, à ACT, à DGRM e aos órgãos locais da AMN.
 
 2 - Sempre que a DGRM ou os órgãos locais da AMN detetarem, no exercício da respetiva atividade, situações que constituam contraordenação punível nos termos do artigo anterior devem participá-las à ACT para efeitos de processamento e aplicação das correspondentes coimas.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 O presente diploma é aplicável às Regiões Autónomas, sem prejuízo das competências legalmente atribuídas aos respetivos órgãos e serviços regionais.»
 
@@ -1117,15 +1315,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de novembro de 2020. - António Luís Santos da Costa - Berta Ferreira Milheiro Nunes - João Rodrigo Reis Carvalho Leão - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Ricardo da Piedade Abreu Serrão Santos.
 
-**Promulgado em 2 de dezembro de 2020.**
+Promulgado em 2 de dezembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de dezembro de 2020.**
+Referendado em 3 de dezembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -2694,3 +2892,5 @@ b) Os resultados dessas inspeções, e as disposições tomadas para corrigir ev
 Derrogações
 
 74 - A DGRM ou a Autoridade para as Condições do Trabalho podem, mediante requerimento fundamentado e após consulta às organizações representativas dos armadores e trabalhadores, autorizar derrogações ao disposto no presente anexo para ter em conta, sem discriminação, os interesses dos trabalhadores que tenham práticas religiosas e sociais diferentes e distintas, desde que essas derrogações não resultem em condições gerais menos favoráveis do que as que resultariam da aplicação do presente anexo.
+
+113784843

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/20/2007/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2007-522653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f87467e4c4b75e49a035b869ff58c18d3687c4e6ac7d2d42799f5331dbbc0308
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b79140eb1abffebdd0b1c1ce8d766721d40e195b6370bd4491f80b9a4603a103
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Registo Criminal
-- Modernização Administrativa
 - Certificado do Registo Criminal
-- Identificação de Contumazes
-- Registo de Contumazes
+- Contumaz
+- Direcção Geral da Administração da Justiça
 - Direcção Geral dos Serviços Judiciários
 - Diretor Geral
-- Identificação Criminal
-- Contumaz
 - Documento Eletrónico
+- Identificação Criminal
+- Identificação de Contumazes
+- Modernização Administrativa
 - Programa Simplex
-- Direcção Geral da Administração da Justiça
 - Regime Jurídico
+- Registo Criminal
+- Registo de Contumazes
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:124044666:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:491226:por
+  label: "Alterados os art.s 3º, 12º, 14º e 29º do Dec Lei 381/98, de 27-Nov, na redacção do presente diploma, pelo DEC LEI.288/2009.08.10.2009.MJ,\
+    \ DR.IS [195] de 08.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/288-2009-491226
+  date: '2009-10-08'
+- type: amended_by
+  target: pt:dre:67142147:por
+  label: Determinada a manutenção em vigor do Dec Lei 381/98, de 27-nov, na redação do presente diploma pelo(a) Lei n.º 37/2015
+    - Diário da República n.º 86/2015, Série I de 2015-05-05, até à publicação da regulamentação prevista no respetivo art.
+    45.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2015-67142147
+  date: '2015-05-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/381/1998/11/27/p/dre
   label: null
@@ -93,16 +106,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/57/1998/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/57/1998/08/18/p/dre
+- type: cites
+  target: pt:dre:217324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437236:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70095697:por
+  label: Revogado, a partir de 30.08.2015, o Dec Lei 381/98 de 27-nov, na redação do presente diploma, com exceção dos arts
+    33.º e 38.º, pelo(a) Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25 que mantém em
+    vigor os referidos arts. até à entrada em vigor do despacho e da portaria previstos, respetivamente, no n.º 2 do art 23.º
+    e no n.º 1 do art 35.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2015-70095697
+  date: '2015-08-25'
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:41Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +178,9 @@ a) ...
 
 b) Transmitir aos serviços intermediários referidos no artigo 14.º as instruções de ordem interna relativas à recepção de documentos e ao controlo de dados.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Os certificados do registo criminal são emitidos em impresso próprio, salvo quando sejam solicitados pelas entidades referidas no n.º 3 do artigo 14.º
 
@@ -165,7 +196,9 @@ b) Transmitir aos serviços intermediários referidos no artigo 14.º as instru�
 
 7 - A recepção de certificado do registo criminal por via electrónica, pelas entidades referidas no n.º 3 do artigo 14.º, está sujeita a despacho de autorização do director-geral da Administração da Justiça, valendo o certificado assim obtido apenas para os fins correspondentes à instrução dos processos que justificaram a sua emissão.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -173,7 +206,9 @@ b) Transmitir aos serviços intermediários referidos no artigo 14.º as instru�
 
 3 - Quando se trate das entidades referidas no n.º 3 do artigo 14.º, o requerimento de certificado do registo criminal é apresentado, em obediência aos requisitos impostos pelo presente diploma, por via electrónica, nos termos a definir por portaria do Ministro da Justiça.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O requerimento de certificado do registo criminal é formulado em impresso próprio, entregue nos serviços de identificação criminal, nas secretarias judiciais, nos serviços municipais de municípios que não sejam sede de comarca e nas representações diplomáticas ou consulares portuguesas no estrangeiro, sem prejuízo do disposto no número seguinte.
 
@@ -195,7 +230,9 @@ b) As Regiões Autónomas e os municípios, mediante a celebração de protocolo
 
 8 - (Anterior n.º 5.)
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -219,12 +256,12 @@ O presente decreto-lei entra em vigor 45 dias após a publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Novembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa.
 
-**Promulgado em 4 de Janeiro de 2007.**
+Promulgado em 4 de Janeiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 8 de Janeiro de 2007.**
+Referendado em 8 de Janeiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

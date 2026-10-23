@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13/1999/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1999-490771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e48c3665f97ad21cb51e2782cd4712bd092571c336fa65b09ee2464cb60762d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44f64a9e2a3d14851a266ab63005e394d474066cb76e9b6e915be4404b3878a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arqueologia
+- Estação Arqueológica do Freixo
 - Imóvel Classificado
 - Património Cultural
-- Estação Arqueológica do Freixo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/1997/05/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/120/1997/05/16/p/dre
+- type: cites
+  target: pt:dre:396754:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:04Z'
   warnings: []
   errors: []
 ---
@@ -163,12 +167,12 @@ Biblioteca da Ajuda.»
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Manuel Maria Ferreira Carrilho.
 
-**Promulgado em 29 de Dezembro de 1998.**
+Promulgado em 29 de Dezembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Dezembro de 1998.**
+Referendado em 30 de Dezembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

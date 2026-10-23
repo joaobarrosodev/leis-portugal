@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/422/1999/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1999-667357
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:12:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f0d4104cebcbb18c35b4906059d290986579043d8b5834e2f17a6928fce3987
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 303ee68103f14f7904862573b2e6f66f1ff7bd6b05c1ce6228134018da56d75d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:12:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,41 +68,78 @@ subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autonomia Patrimonial
-- Financiamento
-- Investigação Científica e Tecnológica
-- Pessoal Dirigente
 - Comissão de Acompanhamento
-- Construção Civil
 - Comissão de Fiscalização
-- Gestão Financeira
 - Comissão Paritária
 - Comissão Permanente
 - Conselho Científico
 - Conselho de Orientação
-- Mudança Tecnológica
+- Construção Civil
 - Estatuto do Pessoal
-- Recrutamento de Pessoal
+- Financiamento
+- Gestão de Recursos Humanos
 - Gestão do Património
+- Gestão Financeira
 - Integração de Trabalhadores
-- Propriedade Industrial
+- Investigação Científica e Tecnológica
+- Laboratório Nacional de Engenharia Civil
 - Livre Trânsito
 - LNEC
-- Laboratório Nacional de Engenharia Civil
+- Mudança Tecnológica
 - Obras Públicas
 - Orgânica
-- Proteção do Ambiente
 - Pessoa Colectiva de Direito Público
-- Urbanismo
+- Pessoal Dirigente
+- Propriedade Industrial
+- Proteção do Ambiente
+- Recrutamento de Pessoal
 - Regime de Pessoal
 - Remuneração
 - Revisor Oficial de Contas
 - Segredo Profissional
-- Gestão de Recursos Humanos
+- Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:179530:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Integrado no Ministério do Equipamento Social, o Laboratório Nacional de Engenharia Civil, cuja Lei Orgânica foi\
+    \ aprovada pelo presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Sujeitado a superintendência conjunta, cabendo a tutela funcional e patrimonial ao Ministério das Obras Públicas,\
+    \ Transportes e Habitação e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação\
+    \ exercida em articulação com o Ministro da Ciência e do Ensino Superior, pelo Dec Lei 120/2002 de 03-Mai, DR.IS-A [102]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Sujeitado a superintendência conjunta cabendo a tutela funcional e patrimonial ao Ministro das Obras Públicas, Transportes\
+    \ e Comunicações e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em\
+    \ articulação com o Ministro da Ciência, Inovação e Ensino Superior, pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl\
+    \ de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:589697:por
+  label: "Reafirmada a superintendência conjunta do Ministro das Obras Públicas, Transportes e Comunicações e do Ministro\
+    \ da Ciência, Inovação e Ensino Superior pelo DEC LEI.58/2005.04.03.2005.MOPTC, DR.IS-A [45] de 04.03.2005, nos termos\
+    \ da al. b) do n.º 1 do seu art. 6.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2005-589697
+  date: '2005-03-04'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinado que a competência relativa à definição das orientações estratégicas do Laboratório, cuja orgânica foi\
+    \ aprovada no presente diploma, bem como o acompanhamento da sua execução, seja exercida pelo Ministro das Obras Públicas,\
+    \ Transportes e Comunicações em articulação com o Ministro da Ciência, Tecnologia e Ensino Superior, pelo DEC LEI.79/2005.15.04.2005.PCM,\
+    \ DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/123/1999/04/20/p/dre
   label: null
@@ -139,16 +176,89 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:157053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621302:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:640914:por
+  label: "Revogado, a partir de 01.09.2007, com excepção do disposto do n.º 3 do artigo 5.º, do n.º 8 do artigo 7.º, dos n.ºs\
+    \ 4, 5 e 6 do artigo 35.º, do artigo 48.º e do n.º 3 do artigo 49.º do presente diploma, pelo DEC LEI.304/2007.24.08.2007.MOPTC,\
+    \ DR.IS [163] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/304-2007-640914
+  date: '2007-08-24'
+- type: repealed_by
+  target: pt:dre:179530:por
+  label: "Revogado, a partir de 01.08.2012, o Dec Lei 304/2007, de 24-ago, salvo o disposto no seu art. 21º no que se refere\
+    \ ao nº 5 do art 35º do presente diploma, pelo DEC LEI.157/2012.18.07.2012.MEE, DR.IS [138] de 18.07.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2012-179530
+  date: '2012-07-18'
 article_structure:
   article_count: 56
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:12:27Z'
   warnings: []
   errors: []
 ---
@@ -857,12 +967,12 @@ As disposições contidas no presente decreto-lei que não sejam susceptíveis d
 
 Visto e aprovado em Conselho de Ministros de 22 de Julho de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Fausto de Sousa Correia - João Cardona Gomes Cravinho - Vítor Manuel Sampaio Caetano Ramalho - Elisa Maria da Costa Guimarães Ferreira - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 24 de Setembro de 1999.**
+Promulgado em 24 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Outubro de 1999.**
+Referendado em 13 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

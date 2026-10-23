@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/149/2012/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2012-179776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcfccbbd3f49b93f2e07f90c92b131542b45b1a2ca2534d69543763091addfc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01c8262ecaedefa6ba81c708882a0e9f0ead6a2bef58c9db6bbfcaad426bd1e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,57 +69,66 @@ subjects:
 - Adjudicação de Obras Públicas
 - Ajuste Direto
 - Aquisição de Bens e Serviços
-- Região Autónoma
 - Associação Pública
+- Autarquia Local
 - Autoridade da Concorrência
-- Financiamento
-- Garantia
-- Empresa
 - BEM Móvel
 - Caderno de Encargos
-- Tecnologia da Informação
-- Serviço Universal de Telecomunicações
-- Urbanização
+- Código dos Contratos Públicos
+- Concurso Limitado por Prévia Qualificação
+- Concurso por Negociação
 - Concurso Público
+- Concurso sem Apresentação de Candidaturas
 - Contra-ordenação
+- Contratação Pública
 - Contrato
 - Contrato Administrativo
 - Contrato de Concessão
 - Empreitada de Obras Públicas
 - Empreiteiro de Obras Públicas
+- Empresa
 - Especificação Técnica
+- Financiamento
 - Fiscalização
 - Fundação Pública
+- Garantia
+- Gerap
 - Impugnação
 - Indemnização
-- Gerap
 - Instituto Público
+- Internet
 - JURI
-- Propriedade Industrial
-- Venda em Hasta Pública
 - Locação Financeira
-- Concurso Limitado por Prévia Qualificação
-- Concurso por Negociação
-- Concurso sem Apresentação de Candidaturas
 - Notificação
 - Obras Públicas
-- Portal dos Contratos Públicos
+- Observatório das Obras Públicas
 - Parceria Público-Privada
 - Pessoa Coletiva
-- Código dos Contratos Públicos
-- Internet
-- Observatório das Obras Públicas
-- Serviço Público
+- Portal dos Contratos Públicos
 - Prestação de Serviços
+- Propriedade Industrial
 - Reclamação
+- Região Autónoma
+- Serviço Público
+- Serviço Universal de Telecomunicações
+- Tecnologia da Informação
 - Transporte
-- Autarquia Local
-- Contratação Pública
+- Urbanização
+- Venda em Hasta Pública
 relationships:
 - type: amended_by
   target: pt:dre:108086621:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:108086621:por
+  label: Altera os arts. 2.º, 5.º, 19.º, 20.º, 27.º, 31.º, 42.º, 43.º, 55.º, 86.º, 114.º, 146.º, 276.º, 370.º, 378.º, 454.º,
+    465.º e os anexos i, ii e v do Código dos Contratos Públicos, aprovado pelo Dec Lei 18/2008 de 29-jan, na versão republicada
+    do Código pelo Dec Lei 278/2009 de 29-jan, na redação do presente diploma, pelo(a) Decreto-Lei n.º 111-B/2017 - Diário
+    da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, nos termos do disposto nos seus arts. 12.º e 13.º, que
+    procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-b-2017-108086621
+  date: '2017-08-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/131/2010/12/14/p/dre
   label: null
@@ -152,16 +161,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+- type: cites
+  target: pt:dre:221746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614148:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:03Z'
   warnings: []
   errors: []
 ---
@@ -238,7 +287,9 @@ d) ...
 
 3 - (Revogado.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -272,7 +323,9 @@ i) Os contratos diretamente abrangidos pelo disposto no artigo 346.º do Tratado
 
 7 - Quando a entidade adjudicante seja uma das referidas no n.º 1 do artigo 2.º, à formação de contratos referidos nos n.os 1, 2 e 4 é ainda aplicável, com as necessárias adaptações, o disposto no capítulo viii do título ii da parte ii do Código.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 ...
 
@@ -280,7 +333,9 @@ a) A escolha do ajuste direto só permite a celebração de contratos de valor i
 
 b) ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -294,7 +349,9 @@ b) ...
 
 4 - (Revogado.)
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -326,7 +383,9 @@ h) ...
 
 7 - (Revogado.)
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 24.º e no artigo anterior, para a formação de contratos de concessão de obras públicas e de concessão de serviços públicos, bem como de contratos de sociedade, qualquer que seja o valor do contrato a celebrar, deve ser adotado, em alternativa, o concurso público, o concurso limitado por prévia qualificação ou o procedimento de negociação.
 
@@ -334,7 +393,9 @@ h) ...
 
 3 - ...
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -356,7 +417,9 @@ h) ...
 
 10 - (Revogado.)
 
-###### Artigo 43.º — Caderno de encargos do procedimento de formação de contratos de empreitada
+Artigo 43.º
+
+Caderno de encargos do procedimento de formação de contratos de empreitada
 
 1 - Sem prejuízo do disposto no n.º 2 do artigo anterior, o caderno de encargos do procedimento de formação de contratos de empreitada de obras públicas deve incluir um projeto de execução.
 
@@ -388,7 +451,9 @@ f) ...
 
 9 - ...
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 ...
 
@@ -412,7 +477,9 @@ i) ...
 
 j) Tenham, a qualquer título, prestado, direta ou indiretamente, assessoria ou apoio técnico na preparação e elaboração das peças do procedimento que lhes confira vantagem que falseie as condições normais de concorrência.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - ...
 
@@ -422,7 +489,9 @@ j) Tenham, a qualquer título, prestado, direta ou indiretamente, assessoria ou 
 
 4 - (Revogado.)
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - Para os efeitos do disposto no presente Código, são erros e omissões do caderno de encargos:
 
@@ -448,7 +517,9 @@ b) Erros e omissões do projeto de execução que não se incluam na alínea ant
 
 7 - As listas com a identificação dos erros e das omissões detetados pelos interessados, bem como as decisões previstas nos n.os 4 a 6, são publicitadas em plataforma eletrónica utilizada pela entidade adjudicante e juntas às peças do procedimento que se encontrem patentes para consulta, devendo todos os interessados que as tenham adquirido ser imediatamente notificados do facto.
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1 - ...
 
@@ -466,13 +537,17 @@ c) Redigidos em língua portuguesa ou, no caso previsto no n.º 2 do artigo 82.�
 
 5 - ...
 
-###### Artigo 114.º — [...]
+Artigo 114.º
+
+[...]
 
 1 - ...
 
 2 - No caso de o ajuste direto ser adotado ao abrigo do disposto na alínea g) do n.º 1 do artigo 27.º, a entidade adjudicante deve convidar a apresentar propostas para a concretização ou o desenvolvimento dos trabalhos de conceção todos os selecionados no concurso de conceção.
 
-###### Artigo 146.º — [...]
+Artigo 146.º
+
+[...]
 
 1 - ...
 
@@ -512,13 +587,17 @@ o) ...
 
 5 - ...
 
-###### Artigo 219.º — [...]
+Artigo 219.º
+
+[...]
 
 1 - O concurso de conceção permite a seleção de um ou mais trabalhos de conceção, ao nível de programa base ou similar, designadamente nos domínios artístico, do ordenamento do território, do planeamento urbanístico, da arquitetura, da engenharia ou do processamento de dados.
 
 2 - ...
 
-###### Artigo 276.º — [...]
+Artigo 276.º
+
+[...]
 
 1 - ...
 
@@ -540,7 +619,9 @@ c) O adjudicatário seja membro do agrupamento que apresentou a proposta adjudic
 
 7 - ...
 
-###### Artigo 370.º — [...]
+Artigo 370.º
+
+[...]
 
 1 - ...
 
@@ -560,7 +641,9 @@ d) (Revogada.)
 
 5 - ...
 
-###### Artigo 376.º — [...]
+Artigo 376.º
+
+[...]
 
 1 - O empreiteiro tem a obrigação de executar todos os trabalhos de suprimento de erros e omissões que lhe sejam ordenados pelo dono da obra.
 
@@ -580,7 +663,9 @@ d) (Revogada.)
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 377.º — [...]
+Artigo 377.º
+
+[...]
 
 1 - ...
 
@@ -594,7 +679,9 @@ c) ...
 
 d) Erros e omissões referidos na alínea b) do n.º 1 do artigo 61.º
 
-###### Artigo 378.º — [...]
+Artigo 378.º
+
+[...]
 
 1 - ...
 
@@ -610,7 +697,9 @@ d) Erros e omissões referidos na alínea b) do n.º 1 do artigo 61.º
 
 7 - ...
 
-###### Artigo 454.º — [...]
+Artigo 454.º
+
+[...]
 
 1 - ...
 
@@ -636,7 +725,9 @@ d) (Revogada.)
 
 6 - ...
 
-###### Artigo 465.º — [...]
+Artigo 465.º
+
+[...]
 
 1 - É obrigatória a publicitação, no portal da Internet dedicado aos contratos públicos, dos elementos referentes à formação e à execução dos contratos públicos, desde o início do procedimento até ao termo da execução, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças e das obras públicas.
 
@@ -660,15 +751,15 @@ São revogados o n.º 3 do artigo 2.º, o n.º 3 do artigo 5.º, o n.º 4 do art
 
 Visto e aprovado em Conselho de Ministros de 10 de maio de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira.
 
-**Promulgado em 4 de julho de 2012.**
+Promulgado em 4 de julho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de julho de 2012.**
+Referendado em 6 de julho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -714,7 +805,9 @@ j) Não prestou, a qualquer título, direta ou indiretamente, assessoria ou apoi
 
 [...]
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 [...]
 
@@ -738,7 +831,9 @@ f) Não prestou, a qualquer título, direta ou indiretamente, assessoria ou apoi
 
 [...]
 
-## ANEXO IV — Expressão matemática que traduz o requisito mínimo de capacidade financeira
+ANEXO IV
+
+Expressão matemática que traduz o requisito mínimo de capacidade financeira
 
 [a que se refere a alínea i) do n.º 1, o n.º 4 do artigo 164.º e o n.º 2 do artigo 165.º]
 
@@ -754,7 +849,7 @@ t - a taxa de juro EURIBOR, a seis meses, acrescida de 200 pontos base, divulgad
 
 R - o valor médio dos resultados operacionais do candidato nos últimos três exercícios, calculado com recurso à seguinte função:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13400/0363903645.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13400/0363903645.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13400/0363903645.pdf)
 
 sendo EBITDA (i):
 
@@ -766,7 +861,9 @@ f - Um fator, igual ou superior a 1 e inferior ou igual a 10, a estabelecer no p
 
 2 - No caso de o candidato se ter constituído há menos de três exercícios, para efeitos do cálculo de R só são tidos em conta os resultados operacionais do candidato nos exercícios concluídos, sendo o denominador da função adaptado em conformidade.
 
-## ANEXO V — [...]
+ANEXO V
+
+[...]
 
 [...]
 

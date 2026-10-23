@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22583-1967-503242
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:28:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b68f0588c2b2184460511067a5a6b80702572311c48123fdcce493b8efd21950
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0ca4a1db2167a3a16b0c3f72d17ec38c5a006d598c5c0d6a8d2a09b4d7d3b46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:162800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486290:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:28:44Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +102,11 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, de acordo c
 
 1.º Os artigos 3.º e 6.º do mencionado decreto passam a ter a seguinte redacção:
 
-###### Art. 3.º São mantidas as penas aplicáveis pela legislação em vigor aos emigrantes clandestinos, considerando-se como tais os indivíduos que saiam do País sem passaporte ou documento que legalmente o substitua, com passaporte ou documento equivalente falsos ou passados em nome de outrem; os que, embora munidos de passaporte ou outro documento legal, não cumpram as formalidades necessárias para a saída; e ainda aqueles que, tendo intenção de fixar-se em país estrangeiro, não estejam munidos de documento que a tal os habilite.
+Art. 3.º São mantidas as penas aplicáveis pela legislação em vigor aos emigrantes clandestinos, considerando-se como tais os indivíduos que saiam do País sem passaporte ou documento que legalmente o substitua, com passaporte ou documento equivalente falsos ou passados em nome de outrem; os que, embora munidos de passaporte ou outro documento legal, não cumpram as formalidades necessárias para a saída; e ainda aqueles que, tendo intenção de fixar-se em país estrangeiro, não estejam munidos de documento que a tal os habilite.
 
 § único. A tentativa é punida com a pena estabelecida nos termos gerais de direito.
 
-###### Art. 6.º É revogada a alínea d) da [Portaria n.º 19270](https://diariodarepublica.pt/dr/detalhe/portaria/19270-1962-162800), de 11 de Julho de 1966, excepto quanto às penas aplicáveis aos emigrantes, nos termos do artigo 3.º do presente diploma.
+Art. 6.º É revogada a alínea d) da [Portaria n.º 19270](https://diariodarepublica.pt/dr/detalhe/portaria/19270-1962-162800), de 11 de Julho de 1966, excepto quanto às penas aplicáveis aos emigrantes, nos termos do artigo 3.º do presente diploma.
 
 2.º É aditado o artigo 7.º, com a seguinte redacção:
 

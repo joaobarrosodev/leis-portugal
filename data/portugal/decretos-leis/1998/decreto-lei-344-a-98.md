@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 257/1998, 1º Suplemento, Série I-A de 1998-11-06
   number: '257'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5964-(2) a 5964-(32)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/257a01/00020032.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/344-a/1998/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-a-1998-272053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T02:02:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b9a2a4b5598457aebc32f8a0bc651bb9c4027d75711677248922c2efc094ccc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 543fcf243b11f32c84a40496ede93040511d5247086d002373a66af06dc00ebc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:02:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
-- Multa
+- Capitania
 - Contra-ordenação
+- Desporto
+- Embarcação
 - Embarcação de Recreio
+- Estacionamento
 - Fiscalização
 - Instituto de Navegabilidade do Douro
+- Multa
 - Navegação Fluvial
 - Normas de Segurança
-- Estacionamento
-- RIO Douro
-- Capitania
 - Porto do Douro
 - Porto Fluvial
 - Regulamento
+- RIO Douro
 - Sinalização
 - Sinalização de Segurança
 - Taxa
-- Desporto
 relationships:
 - type: amended_by
   target: pt:dre:144217:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:144217:por
+  label: "Alterado o art. 4º do Regulamento da Via Navegável do Douro, aprovado em anexo ao presente diploma, pelo DEC LEI.29-A/2011.01.03.2011.MFAP,\
+    \ DR.IS [42-Supl] de 01.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-a-2011-144217
+  date: '2011-03-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/138-a/1997/06/03/p/dre
   label: null
@@ -96,16 +102,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
+- type: cites
+  target: pt:dre:182850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
 article_structure:
   article_count: 96
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:02:07Z'
   warnings: []
   errors: []
 ---
@@ -134,13 +168,13 @@ O Regulamento da Via Navegável do Douro entra em vigor 30 dias após a data da 
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - Emanuel José Leandro Maranha das Neves - António Ricardo Rocha de Magalhães.
 
-**Promulgado em 10 de Outubro de 1998.**
+Promulgado em 10 de Outubro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Outubro de 1998.**
+Referendado em 9 de Outubro de 1998.
 
 Pelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional.
 
@@ -1094,7 +1128,7 @@ Compete à Capitania do Porto do Douro e ao IND a fiscalização do cumprimento 
 
 2 - Nos processos relativos ao incumprimento das disposições constantes da
 
-#### secção IV do capítulo IV e do capítulo VII do presente Regulamento, as competências referidas no n.º 1 são exercidas pelo IND.
+secção IV do capítulo IV e do capítulo VII do presente Regulamento, as competências referidas no n.º 1 são exercidas pelo IND.
 
 ## ANEXO I — [(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/1998/11/257a01/00020032.pdf)
 

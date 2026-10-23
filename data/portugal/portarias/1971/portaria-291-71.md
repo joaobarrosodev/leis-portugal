@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/291-1971-644077
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 954b5b1b77d76d6ada64bfbc68c45770117366af11924c7e474e0ba364e4e4e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eed8d9e001ac0aac611c8a24796be1fc40f1e4cbd06cae2c335ae5658483da99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:147778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342472:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:26Z'
   warnings: []
   errors: []
 ---
@@ -96,20 +112,20 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças e pelo Sec
 
 A) Oficiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/13200/08590860.pdf))](https://files.diariodarepublica.pt/1s/1971/06/13200/08590860.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/13200/08590860.pdf)
 
 B) Sargentos e praças
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/13200/08590860.pdf))](https://files.diariodarepublica.pt/1s/1971/06/13200/08590860.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/13200/08590860.pdf)
 
 2.º O mapa IV anexo ao [Decreto n.º 48466](https://diariodarepublica.pt/dr/detalhe/decreto/48466-1968-272874), de 4 de Julho de 1968, passa a ser o seguinte:
 
 A) Pessoal civil contratado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/13200/08590860.pdf))](https://files.diariodarepublica.pt/1s/1971/06/13200/08590860.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/13200/08590860.pdf)
 
 B) Pessoal civil assalariado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/13200/08590860.pdf))](https://files.diariodarepublica.pt/1s/1971/06/13200/08590860.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/13200/08590860.pdf)
 
-**O Ministro das Finanças, João Augusto Dias Rosas. - O Secretário de Estado da Aeronáutica, José Pereira do Nascimento.**
+O Ministro das Finanças, João Augusto Dias Rosas. - O Secretário de Estado da Aeronáutica, José Pereira do Nascimento.

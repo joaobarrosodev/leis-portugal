@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/786-1980-462074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e0f3fd44c90c5ecddf038e3fc225e2d71b4a4ee72ceeeda6311e5fa01d24908
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e35325d49c56b15a91993a46c65667e7fb132bf9522410d67bf3564ce265c0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Hospitalar
+- Quadro de Pessoal
+- Sanatório Marítimo do Outão
 relationships:
 - type: amended_by
   target: pt:dre:669478:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:386421:por
+  label: "Alterado quadro de pessoal do Hospital Ortopédico do Outão, na parte referente a pessoal técnico superior, pessoal\
+    \ operário e auxiliar e outro pessoal, pela PORT.347/84.08.06.1984.PCM, DR.IS [133] de 08.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/347-1984-386421
+  date: '1984-06-08'
+- type: amended_by
+  target: pt:dre:642185:por
+  label: Substituído o quadro de pessoal médico do Hospital Ortopédico do Outão pelo(a) Portaria n.º 413/91 - Diário da República
+    n.º 112/1991, Série I-B de 1991-05-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1991-642185
+  date: '1991-05-16'
+- type: amended_by
+  target: pt:dre:669478:por
+  label: "Substituído o quadro de pessoal do Hospital Ortopédico do Outão, pela PORT.990/93.08.10.1993.MF, DR.IS-B [236] de\
+    \ 08.10.1993, pelo quadro anexo ao referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/990-1993-669478
+  date: '1993-10-08'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:04Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +133,6 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Sanatório Marítimo do Outão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23000/31213122.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23000/31213122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/23000/31213122.pdf)
 
 Nota. - Ao funcionário administrativo que exercer as funções de tesoureiro será atribuída a remuneração mensal de 600$00, para falhas.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/04100/0000400007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/16/2023/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2023-207881789
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79e3f5839feebdf64ec57358b0cc5c05ebf2834ff58562406fa1a0784c5941ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96017846b49658bc7bfba0718ecad7f4311af47d9dddf07dca5ef61ede9a2f25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ADSE
-- Autonomia Administrativa
-- Financiamento
-- Comunidade Intermunicipal
-- Educação
-- Descentralização
-- Serviço Nacional de Saúde
-- Pessoal não Docente
-- Estabelecimento de Ensino
-- Pessoal Docente
 - Administração Local
+- ADSE
+- Autarquia Local
+- Autonomia Administrativa
+- Comunidade Intermunicipal
+- Descentralização
+- Educação
+- Estabelecimento de Ensino
+- Financiamento
+- Pessoal Docente
+- Pessoal não Docente
+- Serviço Nacional de Saúde
 - Trabalhador
 - Transferência de Competências
 - Transferência de Verbas
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/21/2019/01/30/p/dre
@@ -106,16 +106,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118748848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140087206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:25Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +208,9 @@ c) Aos novos recrutamentos dentro dos rácios definidos.
 
 14 - O disposto no presente artigo é aplicável, com as necessárias adaptações, à substituição temporária ou definitiva de trabalhadores e aos novos trabalhadores recrutados, observada a dotação máxima fixada na portaria a que se refere o n.º 3 do artigo 42.º
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - O financiamento de equipamento previsto nos artigos 32.º e 37.º é fixado nos termos de portaria dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da educação.
 
@@ -206,7 +232,9 @@ b) Por área descoberta: (euro) 0,50/m2.
 
 5 - Os valores referidos nos números anteriores são atualizados automaticamente, no início de cada ano, através da aplicação dos índices oficiais de inflação verificados no ano civil anterior.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - O financiamento das despesas com o pessoal não docente é calculado de acordo com os encargos que resultam da aplicação, em cada município, dos critérios de afetação fixados na portaria a que se refere o n.º 3 do artigo 42.º
 
@@ -220,7 +248,9 @@ b) Por área descoberta: (euro) 0,50/m2.
 
 6 - Os valores de referência necessários ao financiamento das despesas previstas no n.º 5 são fixados por despacho dos membros do Governo responsáveis pelas áreas das finanças, da educação e das autarquias locais.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - [...]
 
@@ -246,7 +276,9 @@ c) O pessoal não docente tendo por referência a respetiva dotação máxima po
 
 9 - [...]
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - [...]
 
@@ -272,12 +304,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de dezembro de 2022. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - João Miguel Marques da Costa - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
 
-**Promulgado em 14 de fevereiro de 2023.**
+Promulgado em 14 de fevereiro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 17 de fevereiro de 2023.**
+Referendado em 17 de fevereiro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+116190745

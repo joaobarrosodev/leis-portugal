@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 7/1980, 2º Suplemento, Série I de 1980-01-09
   number: '7'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 26-(29) a 26-(33)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00702/00290033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-o-1980-508622
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73053a7cffeabe8aacb892eb0183c04fe604ae18b99f5eb4e8d91b6ed1eebaff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 930b1bb83c70fe9fed3317dfc9d21efeba674d52851c5c9c06949c77f805d1e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Curso de Formação
+- Diploma
+- Exame AD HOC
+- Formação Profissional
+- Instituto Nacional de Formação Turística
+- Plano de Estudos
+- Profissional de Turismo
+- Promoção Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:669541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:299059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329837:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669541:por
+  label: "Revogado o presente diploma, a partir de 01.08.2011, na redacção da Port 747/85, de 01-Out, e Port 293/95, de 10-Abr,\
+    \ pelo DEC LEI.92/2011.27.07.2011.MTSSO, DR.IS [143] de 27.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2011-669541
+  date: '2011-07-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:28Z'
   warnings: []
   errors: []
 ---
@@ -92,23 +120,23 @@ Em execução do disposto no n.º 2 do artigo 9.º do Decreto-Lei n.º 519-F, de
 
 Manda o Governo da República Portuguesa, pelos Ministros do Comércio e Turismo e da Educação, o seguinte:
 
-###### Artigo 1.º - 1 - As normas contidas nesta portaria constituem o modelo base para a formação dos profissionais de informação turística.
+Artigo 1.º - 1 - As normas contidas nesta portaria constituem o modelo base para a formação dos profissionais de informação turística.
 
 2 - As acções de aperfeiçoamento profissional organizadas pelo Instituto Nacional de Formação Turística deverão ser objecto de regulamentação interna, com base nas mesmas normas.
 
-###### Art. 2.º - 1 - Os planos de estudos e de cursos dos estabelecimentos particulares de ensino são submetidos, com parecer do Instituto Nacional de Formação Turística, a despacho conjunto dos Ministros do Comércio e Turismo e da Educação, de acordo com o disposto no artigo 10.º do Decreto-Lei n.º 519-F, de 28 de Dezembro.
+Art. 2.º - 1 - Os planos de estudos e de cursos dos estabelecimentos particulares de ensino são submetidos, com parecer do Instituto Nacional de Formação Turística, a despacho conjunto dos Ministros do Comércio e Turismo e da Educação, de acordo com o disposto no artigo 10.º do Decreto-Lei n.º 519-F, de 28 de Dezembro.
 
 2 - Os estabelecimentos particulares de ensino observarão as normas de admissão aos cursos referidas nesta portaria, bem como as de avaliação final, mediante o exame perante o juri oficial.
 
-###### Art. 3.º Serão criadas em cada escola de hotelaria e turismo onde forem ministrados os cursos de formação e aperfeiçoamento a que se refere a presente portaria comissões pedagógicas que sob orientação do Instituto Nacional de Formação Turística, deverão assegurar a orientação pedagógica a cada curso.
+Art. 3.º Serão criadas em cada escola de hotelaria e turismo onde forem ministrados os cursos de formação e aperfeiçoamento a que se refere a presente portaria comissões pedagógicas que sob orientação do Instituto Nacional de Formação Turística, deverão assegurar a orientação pedagógica a cada curso.
 
-###### Art. 4.º - 1 - Os cursos a que se refere o presente diploma classificam-se em cursos de nível complementar e de nível superior, com excepção dos motoristas de turismo.
+Art. 4.º - 1 - Os cursos a que se refere o presente diploma classificam-se em cursos de nível complementar e de nível superior, com excepção dos motoristas de turismo.
 
 2 - Os cursos de nível complementar são aqueles a que se tem acesso com a habilitação mínima do curso geral dos liceus.
 
 3 - Os cursos de nível superior são aqueles a que se tem acesso com a habilitação mínima do curso complementar dos liceus.
 
-###### Art. 5.º São admitidos aos cursos de formação de motoristas de turismo os candidatos que reúnam, cumulativamente, os requisitos seguintes:
+Art. 5.º São admitidos aos cursos de formação de motoristas de turismo os candidatos que reúnam, cumulativamente, os requisitos seguintes:
 
 a) Escolaridade obrigatória;
 
@@ -116,7 +144,7 @@ b) Carta profissional de condução;
 
 c) Aprovação num exame de admissão.
 
-###### Art. 6.º São admitidos aos cursos de formação de transferistas os candidatos que reúnam, cumulativamente, os requisitos seguintes:
+Art. 6.º São admitidos aos cursos de formação de transferistas os candidatos que reúnam, cumulativamente, os requisitos seguintes:
 
 a) Posse do curso geral dos liceus ou equivalente;
 
@@ -130,7 +158,7 @@ c) Aprovação num exame de admissão, de que constarão as seguintes provas, cu
 
 3) Prova de um idioma estrangeiro, escrita e oral, sem dispensa desta última.
 
-###### Art. 7.º São admitidos aos cursos de formação de guias-intérpretes regionais os candidatos que reúnam, cumulativamente, os requisitos seguintes:
+Art. 7.º São admitidos aos cursos de formação de guias-intérpretes regionais os candidatos que reúnam, cumulativamente, os requisitos seguintes:
 
 a) Posse do curso geral dos liceus ou equivalente;
 
@@ -138,13 +166,13 @@ b) Idade mínima de 17 anos, a completar até 31 de Dezembro do ano em que o res
 
 c) Aprovação num exame de admissão.
 
-###### Art. 8.º Sem prejuízo do disposto no artigo 10.º, são admitidos aos cursos de formação de guias-intérpretes nacionais os candidatos que reúnam, cumulativamente, os requisitos seguintes:
+Art. 8.º Sem prejuízo do disposto no artigo 10.º, são admitidos aos cursos de formação de guias-intérpretes nacionais os candidatos que reúnam, cumulativamente, os requisitos seguintes:
 
 a) Posse do curso complementar dos liceus ou equivalente;
 
 b) Aprovação num exame de admissão.
 
-###### Art. 9.º Os exames de admissão referidos nos artigos 5.º, 7.º, 8.º, 11.º e 12.º constarão das seguintes provas, cujos resultados serão apreciados em conjunto:
+Art. 9.º Os exames de admissão referidos nos artigos 5.º, 7.º, 8.º, 11.º e 12.º constarão das seguintes provas, cujos resultados serão apreciados em conjunto:
 
 a) Psicoteste;
 
@@ -152,27 +180,27 @@ b) Entrevista pessoal com incidência na capacidade de elocução;
 
 c) Prova de dois idiomas estrangeiros, escrita e oral, sem dispensa desta última.
 
-###### Art. 10.º As pessoas que possuam carteira profissional de guia-intérprete regional há mais de cinco anos poderão ter acesso a um curso especial de formação de guias-intérpretes nacionais mediante aprovação num exame de admissão.
+Art. 10.º As pessoas que possuam carteira profissional de guia-intérprete regional há mais de cinco anos poderão ter acesso a um curso especial de formação de guias-intérpretes nacionais mediante aprovação num exame de admissão.
 
-###### Art. 11.º Sem prejuízo do disposto nos artigos 13.º, 14.º e 15.º, são admitidos aos cursos de formação de correios de turismo os candidatos que reúnam, cumulativamente, os requisitos seguintes:
+Art. 11.º Sem prejuízo do disposto nos artigos 13.º, 14.º e 15.º, são admitidos aos cursos de formação de correios de turismo os candidatos que reúnam, cumulativamente, os requisitos seguintes:
 
 a) Posse do curso complementar dos liceus ou equivalente;
 
 b) Aprovação num exame de admissão.
 
-###### Art. 12.º São admitidos aos cursos de formação de recepcionistas de turismo os candidatos que reúnam, cumulativamente, os requisitos seguintes:
+Art. 12.º São admitidos aos cursos de formação de recepcionistas de turismo os candidatos que reúnam, cumulativamente, os requisitos seguintes:
 
 a) Posse do curso geral dos liceus ou equivalente;
 
 b) Aprovação num exame de admissão.
 
-###### Art. 13.º As pessoas que possuam carteira profissional de guia-intérprete nacional poderão ter acesso a um curso especial de formação de correios de turismo, com duração de um ano lectivo, mediante aprovação num exame de admissão.
+Art. 13.º As pessoas que possuam carteira profissional de guia-intérprete nacional poderão ter acesso a um curso especial de formação de correios de turismo, com duração de um ano lectivo, mediante aprovação num exame de admissão.
 
-###### Art. 14.º As pessoas que provem ser empregadas de agências de viagens e turismo nacionais há mais de três anos e tenham o curso complementar dos liceus ou equivalente poderão ter acesso a um curso especial de formação de correios de turismo, com a duração de um ano lectivo, mediante aprovação num exame de admissão.
+Art. 14.º As pessoas que provem ser empregadas de agências de viagens e turismo nacionais há mais de três anos e tenham o curso complementar dos liceus ou equivalente poderão ter acesso a um curso especial de formação de correios de turismo, com a duração de um ano lectivo, mediante aprovação num exame de admissão.
 
-###### Art. 15.º As pessoas que provem ser empregadas das agências de viagens há mais de quatro anos e tenham o curso geral dos liceus ou equivalente poderão ter acesso a um curso especial de formação de correios de turismo, com a duração de dois anos lectivos, mediante aprovação num exame de admissão.
+Art. 15.º As pessoas que provem ser empregadas das agências de viagens há mais de quatro anos e tenham o curso geral dos liceus ou equivalente poderão ter acesso a um curso especial de formação de correios de turismo, com a duração de dois anos lectivos, mediante aprovação num exame de admissão.
 
-###### Art. 16.º - 1 - O acesso aos exames de admissão referido nos artigos 10.º, 13.º, 14.º e 15.º será condicionado à apresentação do currículo profissional.
+Art. 16.º - 1 - O acesso aos exames de admissão referido nos artigos 10.º, 13.º, 14.º e 15.º será condicionado à apresentação do currículo profissional.
 
 2 - Os referidos exames constarão das seguintes provas, cujos resultados serão apreciados em conjunto:
 
@@ -182,11 +210,11 @@ b) Prova oral de cultura geral, realizada em língua estrangeira.
 
 3 - Entende-se por currículo profissional a declaração circunstanciada dos serviços prestados, mencionando as respectivas empresas ou organismos.
 
-###### Art. 17.º - 1 - As pessoas maiores de 25 anos que não possuam o curso complementar dos liceus poderão ser admitidas aos cursos, para cujo acesso é exigível aquela habilitação, mediante um exame ad hoc.
+Art. 17.º - 1 - As pessoas maiores de 25 anos que não possuam o curso complementar dos liceus poderão ser admitidas aos cursos, para cujo acesso é exigível aquela habilitação, mediante um exame ad hoc.
 
 2 - É condição de acesso ao exame previsto no número anterior a apresentação dos currículos escolar e profissional dos candidatos.
 
-###### Art. 18.º O exame ad hoc referido no artigo anterior constará das seguintes provas, cujos resultados serão apreciados em conjunto:
+Art. 18.º O exame ad hoc referido no artigo anterior constará das seguintes provas, cujos resultados serão apreciados em conjunto:
 
 a) Entrevista pessoal com incidência na capacidade de elocução;
 
@@ -194,35 +222,35 @@ b) Prova escrita de cultura geral;
 
 c) Prova oral de cultura geral, incluindo idiomas estrangeiros.
 
-###### Art. 19.º São disciplinas dos cursos de formação de correios de turismo referidos no artigo 13.º: Geografia Internacional, História Económica e Social, Legislação Turística Internacional, Técnica Profissional, Itinerários Internacionais e Português.
+Art. 19.º São disciplinas dos cursos de formação de correios de turismo referidos no artigo 13.º: Geografia Internacional, História Económica e Social, Legislação Turística Internacional, Técnica Profissional, Itinerários Internacionais e Português.
 
-###### Art. 20.º São disciplinas dos cursos de formação de correios de turismo referidos no artigo 14.º: dois idiomas estrangeiros, Geografia Internacional, História Geral da Civilização, História Económica e Social, História Geral da Arte, Legislação Turística Internacional, Técnica Profissional, Itinerários Internacionais, Relações Públicas e Humanas e Português.
+Art. 20.º São disciplinas dos cursos de formação de correios de turismo referidos no artigo 14.º: dois idiomas estrangeiros, Geografia Internacional, História Geral da Civilização, História Económica e Social, História Geral da Arte, Legislação Turística Internacional, Técnica Profissional, Itinerários Internacionais, Relações Públicas e Humanas e Português.
 
-###### Art. 21.º São disciplinas dos cursos de formação de correios de turismo referidos no artigo 15.º e respectiva duração:
+Art. 21.º São disciplinas dos cursos de formação de correios de turismo referidos no artigo 15.º e respectiva duração:
 
 a) Bienais: dois idiomas estrangeiros, Geografia Internacional, História Geral da Civilização, História Económica e Social e História Geral da Arte;
 
 b) Anuais: Legislação Turística, Itinerários Internacionais, Relações Públicas e Humanas, Técnica Profissional e Português.
 
-###### Art. 22.º Os cursos de formação de motorista de turismo terão a duração de dois anos lectivos.
+Art. 22.º Os cursos de formação de motorista de turismo terão a duração de dois anos lectivos.
 
-###### Art. 23.º São disciplinas dos cursos de motoristas de turismo e respectiva duração:
+Art. 23.º São disciplinas dos cursos de motoristas de turismo e respectiva duração:
 
 a) Bienais: dois idiomas estrangeiros, Geografia da Arte, Geografia de Portugal, História de Portugal, Noções de Folclore e Arte Popular e Português;
 
 b) Anuais: Gastronomia e Vinhos, Introdução à Problemática do Turismo, Relações Públicas e Humanas e Técnica Profissional.
 
-###### Art. 24.º Os cursos de formação de transferistas terão a duração de um ano lectivo.
+Art. 24.º Os cursos de formação de transferistas terão a duração de um ano lectivo.
 
-###### Art. 25.º São disciplinas dos cursos de formação de transferistas: dois idiomas estrangeiros, Introdução à Problemática do Turismo, Legislação Turística, História de Portugal, Geografia Turística, Relações Públicas e Humanas, Técnica Profissional, Ciência Política e Português.
+Art. 25.º São disciplinas dos cursos de formação de transferistas: dois idiomas estrangeiros, Introdução à Problemática do Turismo, Legislação Turística, História de Portugal, Geografia Turística, Relações Públicas e Humanas, Técnica Profissional, Ciência Política e Português.
 
-###### Art. 26.º Os cursos de formação de guias-intérpretes regionais terão a duração de quinze meses, com duas fases distintas:
+Art. 26.º Os cursos de formação de guias-intérpretes regionais terão a duração de quinze meses, com duas fases distintas:
 
 a) A 1.ª fase terá um carácter de preparação técnica geral e a sua duração será de um ano lectivo;
 
 b) A 2.ª fase visará a especialização local, com carácter eminentemente prático, e terá uma duração máxima de seis meses, os quais deverão ser graduados de acordo com os condicionalismos locais.
 
-###### Art. 27.º - 1 - A 1.ª fase dos cursos de formação de guias-intérpretes regionais referidos no artigo anterior integrará as seguintes disciplinas:
+Art. 27.º - 1 - A 1.ª fase dos cursos de formação de guias-intérpretes regionais referidos no artigo anterior integrará as seguintes disciplinas:
 
 a) Anuais: dois idiomas estrangeiros, História da Arte e Português;
 
@@ -230,9 +258,9 @@ b) Semestrais: Geografia, Técnica Profissional, História Geral da Civilizaçã
 
 2 - A 2.ª fase dos cursos deverá realizar-se na região abrangida e proporcionar, sobretudo, os conhecimentos que especificamente lhe respeitam, designadamente património monumental e artístico, equipamento hoteleiro, comunicações e transportes, produtos típicos e artesanais e gastronomia e vinhos.
 
-###### Art. 28.º Sem prejuízo do disposto no artigo 30.º, os cursos de formação de guias-intérpretes nacionais terão a duração de três anos lectivos.
+Art. 28.º Sem prejuízo do disposto no artigo 30.º, os cursos de formação de guias-intérpretes nacionais terão a duração de três anos lectivos.
 
-###### Art. 29.º São disciplinas dos cursos de guias-intérpretes nacionais referidos no artigo 8.º e respectiva duração:
+Art. 29.º São disciplinas dos cursos de guias-intérpretes nacionais referidos no artigo 8.º e respectiva duração:
 
 a) Trienais: dois idiomas estrangeiros, História Geral da Arte e Geografia;
 
@@ -240,13 +268,13 @@ b) Bienais: História da Arte em Portugal, História Geral da Civilização, His
 
 c) Anuais: Artes Decorativas, Introdução à Problemática do Turismo, Itinerários Turísticos, Prática Profissional, Introdução à Economia, Temas Económicos, Relações Públicas e Humanas, Ciência Política e Português.
 
-###### Art. 30.º Os cursos de formação de guias-intérpretes nacionais a que se refere o artigo 10.º terão a duração de um ano lectivo.
+Art. 30.º Os cursos de formação de guias-intérpretes nacionais a que se refere o artigo 10.º terão a duração de um ano lectivo.
 
-###### Art. 31.º São disciplinas dos cursos de guias-intérpretes nacionais a que se refere o artigo 10.º: História da Civilização, História da Cultura em Portugal, História Geral da Arte, História da Arte em Portugal, Geografia, Etnologia, Itinerários Turísticos, Artes Decorativas, Introdução à Economia, Temas Económicos e Português.
+Art. 31.º São disciplinas dos cursos de guias-intérpretes nacionais a que se refere o artigo 10.º: História da Civilização, História da Cultura em Portugal, História Geral da Arte, História da Arte em Portugal, Geografia, Etnologia, Itinerários Turísticos, Artes Decorativas, Introdução à Economia, Temas Económicos e Português.
 
-###### Art. 32.º Os cursos de formação de correios de turismo a que se refere o artigo 11.º terão a duração de três anos lectivos, sem prejuízo do disposto nos artigos 13.º, 14.º e 15.º
+Art. 32.º Os cursos de formação de correios de turismo a que se refere o artigo 11.º terão a duração de três anos lectivos, sem prejuízo do disposto nos artigos 13.º, 14.º e 15.º
 
-###### Art. 33.º São disciplinas dos cursos de correios de turismo referidos no artigo anterior e respectiva duração:
+Art. 33.º São disciplinas dos cursos de correios de turismo referidos no artigo anterior e respectiva duração:
 
 a) Trienais: dois idiomas estrangeiros, História Geral da Arte e Geografia Internacional;
 
@@ -254,13 +282,13 @@ b) Bienais: História Geral da Civilização, Itinerários Internacionais e Téc
 
 c) Anuais: História Económica e Social, Ciência Política, Legislação Turística Internacional, Introdução à Problemática do Turismo, Relações Públicas e Humanas e Português.
 
-###### Art. 34.º Os cursos de formação de recepcionistas de turismo a que se refere o artigo 12.º terão a duração de um ano lectivo.
+Art. 34.º Os cursos de formação de recepcionistas de turismo a que se refere o artigo 12.º terão a duração de um ano lectivo.
 
-###### Art. 35.º São disciplinas do curso de formação de recepcionistas de turismo: dois idiomas estrangeiros, História da Arte em Portugal, Geografia de Portugal, História de Portugal, Introdução à Problemática do Turismo, Prática Profissional, Relações Públicas e Humanas e Português.
+Art. 35.º São disciplinas do curso de formação de recepcionistas de turismo: dois idiomas estrangeiros, História da Arte em Portugal, Geografia de Portugal, História de Portugal, Introdução à Problemática do Turismo, Prática Profissional, Relações Públicas e Humanas e Português.
 
-###### Art. 36.º Os idiomas a leccionar em todos os cursos de formação deverão ser escolhidos de acordo com as necessidades do turismo nacional.
+Art. 36.º Os idiomas a leccionar em todos os cursos de formação deverão ser escolhidos de acordo com as necessidades do turismo nacional.
 
-###### Art. 37.º As disciplinas dos cursos de formação de motoristas de turismo distribuem-se pelos seguintes tempos semanais:
+Art. 37.º As disciplinas dos cursos de formação de motoristas de turismo distribuem-se pelos seguintes tempos semanais:
 
 1.º idioma - 4 horas;
 
@@ -284,7 +312,7 @@ Técnica Profissional - 3 horas;
 
 Português - 1 hora.
 
-###### Art. 38.º - 1 - As disciplinas dos cursos de formação de transferistas distribuem-se pelos seguintes tempos semanais:
+Art. 38.º - 1 - As disciplinas dos cursos de formação de transferistas distribuem-se pelos seguintes tempos semanais:
 
 1.º idioma - 5 horas;
 
@@ -306,7 +334,7 @@ Legislação Turística - 1 hora;
 
 Português - 1 hora.
 
-###### Art. 39.º As disciplinas da fase de preparação geral dos cursos de formação de guias-intérpretes regionais distribuir-se-ão pelos seguintes tempos lectivos semanais:
+Art. 39.º As disciplinas da fase de preparação geral dos cursos de formação de guias-intérpretes regionais distribuir-se-ão pelos seguintes tempos lectivos semanais:
 
 1.º idioma - 4 horas;
 
@@ -336,9 +364,9 @@ Introdução à Problemática do Turismo - 2 horas;
 
 Português - 1 hora.
 
-###### Art. 40.º Os tempos lectivos semanais das disciplinas a incluir na fase de especialização dos cursos de formação de guias-intérpretes regionais serão atribuídos para cada curso em função da natureza e características da região abrangida.
+Art. 40.º Os tempos lectivos semanais das disciplinas a incluir na fase de especialização dos cursos de formação de guias-intérpretes regionais serão atribuídos para cada curso em função da natureza e características da região abrangida.
 
-###### Art. 41.º As disciplinas dos cursos de formação de guias-intérpretes nacionais referidos no artigo 8.º distribuem-se pelos seguintes tempos semanais:
+Art. 41.º As disciplinas dos cursos de formação de guias-intérpretes nacionais referidos no artigo 8.º distribuem-se pelos seguintes tempos semanais:
 
 1.º idioma - 3 horas;
 
@@ -374,7 +402,7 @@ Relações Públicas e Humanas - 2 horas;
 
 Português - 1 hora.
 
-###### Art. 42.º As disciplinas dos cursos de formação de correios de turismo referidos no artigo 11.º distribuem-se pelos seguintes tempos semanais:
+Art. 42.º As disciplinas dos cursos de formação de correios de turismo referidos no artigo 11.º distribuem-se pelos seguintes tempos semanais:
 
 1.º idioma - 3 horas;
 
@@ -402,7 +430,7 @@ Relações Públicas e Humanas - 2 horas;
 
 Português - 1 hora.
 
-###### Art. 43.º As disciplinas dos cursos de formação de correios de turismo referidos no artigo 14.º distribuem-se pelos seguintes tempos semanais:
+Art. 43.º As disciplinas dos cursos de formação de correios de turismo referidos no artigo 14.º distribuem-se pelos seguintes tempos semanais:
 
 1.º idioma - 4 horas;
 
@@ -426,7 +454,7 @@ Relações Públicas e Humanas - 2 horas;
 
 Português - 1 hora.
 
-###### Art. 44.º As disciplinas dos cursos de formação de correios de turismo referidos no artigo 15.º distribuem-se pelos seguintes tempos semanais:
+Art. 44.º As disciplinas dos cursos de formação de correios de turismo referidos no artigo 15.º distribuem-se pelos seguintes tempos semanais:
 
 1.º idioma - 4 horas;
 
@@ -450,7 +478,7 @@ Relações Públicas e Humanas - 2 horas;
 
 Português - 1 hora.
 
-###### Art. 45.º As disciplinas dos cursos de formação de recepcionistas de turismo referidos no artigo 12.º distribuem-se pelos seguintes tempos semanais:
+Art. 45.º As disciplinas dos cursos de formação de recepcionistas de turismo referidos no artigo 12.º distribuem-se pelos seguintes tempos semanais:
 
 1.º idioma - 4 horas;
 
@@ -470,13 +498,13 @@ Relações Públicas e Humanas - 2 horas;
 
 Português - 1 hora.
 
-###### Art. 46.º - 1 - Os cursos de formação de transferistas deverão incluir visitas de estudo a aeroportos, gares marítimas e ferroviárias, hotéis e agências de viagens, coordenadas com o plano das aulas.
+Art. 46.º - 1 - Os cursos de formação de transferistas deverão incluir visitas de estudo a aeroportos, gares marítimas e ferroviárias, hotéis e agências de viagens, coordenadas com o plano das aulas.
 
 2 - Os cursos de formação de guias-intérpretes regionais e de guias-intérpretes nacionais deverão incluir visitas de estudo a museus, palácios, monumentos nacionais e estabelecimentos hoteleiros, coordenadas com o plano das aulas.
 
 3 - Os cursos de formação de guias-intérpretes nacionais deverão ainda abranger a realização de um número predeterminado de excursões ou circuitos.
 
-###### Art. 47.º - 1 - É adoptado o sistema de avaliação contínua para todos os cursos de formação referidos na presente portaria.
+Art. 47.º - 1 - É adoptado o sistema de avaliação contínua para todos os cursos de formação referidos na presente portaria.
 
 2 - O sistema de avaliação referido no número anterior inclui os seguintes elementos:
 
@@ -490,13 +518,13 @@ d) Realização de exames finais para os alunos que não obtenham aproveitamento
 
 3 - A avaliação final para efeito de passagem da carteira profissional constará de uma prova oral realizada perante um júri oficial.
 
-###### Art. 48.º - 1 - Os alunos dos cursos de formação de guias-intérpretes regionais deverão submeter-se a uma prova oral final, nos termos do n.º 3 do artigo 47.º, com o fim de serem admitidos à fase de especialização local, nos termos da alínea b) do artigo 26.º
+Art. 48.º - 1 - Os alunos dos cursos de formação de guias-intérpretes regionais deverão submeter-se a uma prova oral final, nos termos do n.º 3 do artigo 47.º, com o fim de serem admitidos à fase de especialização local, nos termos da alínea b) do artigo 26.º
 
 2 - Durante a fase de especialização local, os candidatos deverão elaborar um estudo sobre a região, o qual deverá ser planeado de acordo com o júri referido no n.º 1 do artigo 54.º
 
 3 - Da apreciação pelo júri do estudo referido no número anterior resultará a classificação definitiva de Apto ou Não apto, para efeito de obtenção da carteira profissional.
 
-###### Art. 49.º - 1 - As classificações mínimas exigidas para efeitos de passagem de ano e de admissão à prova de avaliação final referida no n.º 3 do artigo 47.º são:
+Art. 49.º - 1 - As classificações mínimas exigidas para efeitos de passagem de ano e de admissão à prova de avaliação final referida no n.º 3 do artigo 47.º são:
 
 a) 10 valores para dispensa de exame;
 
@@ -506,27 +534,27 @@ c) Menos de 8 valores, reprovação.
 
 2 - As classificações serão atribuídas de acordo com as notas dos testes semestrais e com o aproveitamento apurado no decurso das aulas, nomeadamente através dos trabalhos apresentados.
 
-###### Art. 50.º - 1 - A obtenção da classificação mínima de 10 valores é condição de dispensa de exame para efeitos de passagem de ano.
+Art. 50.º - 1 - A obtenção da classificação mínima de 10 valores é condição de dispensa de exame para efeitos de passagem de ano.
 
 2 - É exigida a classificação mínima entre 8 e 10 valores para prestação de provas de exame nos termos da alínea d) do n.º 2 do artigo 47.º
 
 3 - A obtenção de uma classificação inferior a 8 valores implica a reprovação.
 
-###### Art. 51.º - 1 - Os exames referidos na alínea d) do n.º 2 do artigo 47.º constarão de provas escritas ou orais, excepto para idiomas, em que deverão ser escritas e orais.
+Art. 51.º - 1 - Os exames referidos na alínea d) do n.º 2 do artigo 47.º constarão de provas escritas ou orais, excepto para idiomas, em que deverão ser escritas e orais.
 
 2 - A classificação mínima exigida para aprovação nos exames a que se refere o número anterior é de 10 valores.
 
-###### Art. 52.º - 1 - A classificação final dos candidatos à carteira profissional submetidos à prova de avaliação referida no n.º 3 do artigo 47.º será Apto e Não apto.
+Art. 52.º - 1 - A classificação final dos candidatos à carteira profissional submetidos à prova de avaliação referida no n.º 3 do artigo 47.º será Apto e Não apto.
 
 2 - A classificação deverá incidir, cumulativamente, sobre a qualidade da prova prestada e sobre as classificações obtidas ao longo do curso.
 
-###### Art. 53.º - 1 - Os alunos dos cursos de formação que derem um número de faltas superior a um quarto das aulas programadas serão automaticamente reprovados.
+Art. 53.º - 1 - Os alunos dos cursos de formação que derem um número de faltas superior a um quarto das aulas programadas serão automaticamente reprovados.
 
 2 - Em caso de doença, devidamente comprovada, os alunos poderão apresentar à direcção do respectivo estabelecimento de ensino um requerimento para apreciação da relevância do número de faltas que excedam o máximo referido no número anterior.
 
-###### Art. 54.º A matéria de que constará a prova de avaliação final referida no n.º 3 do artigo 47.º será afixada publicamente nos estabelecimentos de ensino, com um mês de antecedência sobre a data marcada para a prova.
+Art. 54.º A matéria de que constará a prova de avaliação final referida no n.º 3 do artigo 47.º será afixada publicamente nos estabelecimentos de ensino, com um mês de antecedência sobre a data marcada para a prova.
 
-###### Art. 55.º - 1 - A prova de avaliação final referida no n.º 3 do artigo 47.º decorrerá perante um júri oficial, em que estarão representados o Instituto Nacional de Formação Turística, o sindicato representativo dos profissionais de informação turística, a associação representativa das agências de viagens e turismo e os docentes.
+Art. 55.º - 1 - A prova de avaliação final referida no n.º 3 do artigo 47.º decorrerá perante um júri oficial, em que estarão representados o Instituto Nacional de Formação Turística, o sindicato representativo dos profissionais de informação turística, a associação representativa das agências de viagens e turismo e os docentes.
 
 2 - O júri será presidido pelo representante do Instituto Nacional de Formação Turística, que tem voto de qualidade.
 
@@ -534,17 +562,17 @@ c) Menos de 8 valores, reprovação.
 
 4 - Cada entidade não docente far-se-á representar por um único elemento.
 
-###### Art. 56.º A prova de exame referida na alínea d) do n.º 2 do artigo 47.º decorrerá perante os docentes das respectivas disciplinas.
+Art. 56.º A prova de exame referida na alínea d) do n.º 2 do artigo 47.º decorrerá perante os docentes das respectivas disciplinas.
 
-###### Art. 57.º No júri referente ao exame ad hoc estarão representados o Instituto Nacional de Formação Turística, que terá voto de qualidade, e os docentes.
+Art. 57.º No júri referente ao exame ad hoc estarão representados o Instituto Nacional de Formação Turística, que terá voto de qualidade, e os docentes.
 
-###### Art. 58.º - 1 - As provas de avaliação referidas no n.º 3 do artigo 47.º realizar-se-ão no decurso da 1.ª quinzena do mês de Julho e, em segunda época, no decurso da 1.ª quinzena do mês de Outubro.
+Art. 58.º - 1 - As provas de avaliação referidas no n.º 3 do artigo 47.º realizar-se-ão no decurso da 1.ª quinzena do mês de Julho e, em segunda época, no decurso da 1.ª quinzena do mês de Outubro.
 
 2 - As provas de exame referidas na alínea d) do n.º 2 do artigo 47.º realizar-se-ão uma semana após o fecho das aulas.
 
 3 - As provas de exame ad hoc realizar-se-ão em época única.
 
-###### Art. 59.º - 1 - Serão concedidos diplomas aos alunos dos cursos de formação que obtenham classificação de Apto na prova de avaliação final referida no n.º 3 do artigo 47.º
+Art. 59.º - 1 - Serão concedidos diplomas aos alunos dos cursos de formação que obtenham classificação de Apto na prova de avaliação final referida no n.º 3 do artigo 47.º
 
 2 - Serão concedidos diplomas aos alunos dos cursos de formação de guias-intérpretes regionais que obtenham a classificação final de Apto, nos termos do n.º 3 do artigo 48.º
 
@@ -552,8 +580,8 @@ c) Menos de 8 valores, reprovação.
 
 4 - A emissão dos diplomas é da competência do Instituto Nacional de Formação Turística.
 
-###### Art. 60.º De harmonia com o disposto na alínea a) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 281/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1978-329837), de 8 de Setembro, e com a alínea c) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 391/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1978-324712), de 14 de Dezembro, a presente portaria não é aplicável no âmbito territorial, respectivamente, da Região Autónoma da Madeira e da Região Autónoma dos Açores.
+Art. 60.º De harmonia com o disposto na alínea a) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 281/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1978-329837), de 8 de Setembro, e com a alínea c) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 391/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1978-324712), de 14 de Dezembro, a presente portaria não é aplicável no âmbito territorial, respectivamente, da Região Autónoma da Madeira e da Região Autónoma dos Açores.
 
-###### Art. 61.º É revogada a [Portaria n.º 482/78](https://diariodarepublica.pt/dr/detalhe/portaria/482-1978-299059), de 13 de Julho.
+Art. 61.º É revogada a [Portaria n.º 482/78](https://diariodarepublica.pt/dr/detalhe/portaria/482-1978-299059), de 13 de Julho.
 
 Ministérios do Comércio e Turismo e da Educação, 9 de Novembro de 1979. - O Ministro do Comércio e Turismo, Acácio Manuel Pereira Magro. - O Ministro da Educação, Luís Eugénio Caldas Veiga da Cunha.

@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/327-1975-335957
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T04:43:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92a286934d8c789e65355d354be811faf7213277eed852c60d491c12845069e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec2033f9ea318380eb072daac1baaf2239a128caf269fb80d5c416576d9fe32b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:43:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Concurso
+- Fundo de Fomento da Habitação
+- Habitação Social
+- Regulamento
+- Regulamento dos Concursos para Atribuição de Habitações Sociais
+relationships:
+- type: cites
+  target: pt:dre:622636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665133:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:43:54Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +105,15 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Habitaç
 
 1. Os artigos 13.º, 14.º, 15.º, 16.º e 17.º do Regulamento aprovado pela [Portaria n.º 343/74](https://diariodarepublica.pt/dr/detalhe/portaria/343-1974-622636), de 29 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 13.º - 1. Os concorrentes serão classificados por ordem decrescente do total de pontos obtidos, devendo a entidade promotora publicar a lista de verificação e reclamação no prazo máximo de sessenta dias, a contar da data do encerramento do concurso.
+Art. 13.º - 1. Os concorrentes serão classificados por ordem decrescente do total de pontos obtidos, devendo a entidade promotora publicar a lista de verificação e reclamação no prazo máximo de sessenta dias, a contar da data do encerramento do concurso.
 
 2. No caso de empate entre os concorrentes que obtenham a mesma pontuação, atender-se-á em primeiro lugar ao menor rendimento per capita e de seguida à maior idade do concorrente.
 
-###### Art. 14.º A lista é fixada nos locais em que teve lugar a apresentação dos requerimentos e posta em reclamação pelo prazo de oito dias, devendo ser dada publicidade ao facto pelos mesmos meios utilizados para a abertura do concurso.
+Art. 14.º A lista é fixada nos locais em que teve lugar a apresentação dos requerimentos e posta em reclamação pelo prazo de oito dias, devendo ser dada publicidade ao facto pelos mesmos meios utilizados para a abertura do concurso.
 
-###### Art. 15.º Apreciadas as reclamações, o promotor fixará a lista definitiva de atribuição, da qual não haverá recurso hierárquico.
+Art. 15.º Apreciadas as reclamações, o promotor fixará a lista definitiva de atribuição, da qual não haverá recurso hierárquico.
 
-###### Art. 16.º - 1 ...
+Art. 16.º - 1 ...
 
 2. Será atribuído ao concorrente o tipo de fogo adequado à composição do agregado cuja renda ou prestação mensal esteja mais próxima do valor determinado pela seguinte expressão:
 
@@ -114,7 +127,7 @@ x = rendimento mensal do concorrente e do cônjuge, em contos.
 
 5. O Secretário de Estado da Habitação e Urbanismo poderá, por despacho devidamente fundamentado, a publicar no Diário do Governo, autorizar os promotores referidos no artigo 1.º a reservarem determinado número de fogos para serem atribuídos nos termos da presente portaria com prejuízo do disposto no n.º 3.
 
-###### Art. 17.º - 1. As declarações sobre a situação do concorrente a observar para a classificação reportam-se à data de abertura do concurso.
+Art. 17.º - 1. As declarações sobre a situação do concorrente a observar para a classificação reportam-se à data de abertura do concurso.
 
 2. Sempre que haja lugar a nova distribuição, o promotor notificará os concorrentes suplentes para procederem à actualização das declarações, com vista à sua reclassificação, reportando-se as condições a observar à data da notificação.
 
@@ -124,6 +137,6 @@ x = rendimento mensal do concorrente e do cônjuge, em contos.
 
 Mapa de classificação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/05/12200/07360737.pdf))](https://files.diariodarepublica.pt/1s/1975/05/12200/07360737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/05/12200/07360737.pdf)
 
 Secretaria de Estado da Habitação e Urbanismo, 8 de Maio de 1975. - O Secretário de Estado da Habitação e Urbanismo, Eduardo Ribeiro Pereira.

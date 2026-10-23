@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/103-1973-684996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:58:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 909b4b195e842138aed72e7ae777c7c91dc1dfa00f19e9f47b99a35ea10611a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d1000bb2e5d0e8abcee561a4ed334208be2753d9103d0685076c36a8b127e40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:58:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:687853:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:58:50Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +95,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 1. As alíneas a) e f) do corpo do artigo 5.º, o corpo do artigo 6.º, a alínea c) do artigo 14.º, a alínea b) do artigo 17.º, a alínea c) do corpo do artigo 55.º e o corpo do artigo 57.º do Regulamento do Estado-Maior da Armada, aprovado pela [Portaria n.º 20139](https://diariodarepublica.pt/dr/detalhe/portaria/20139-1963-687853), de 28 de Outubro de 1963, tomam a redacção seguinte:
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 a) Substituir o chefe do Estado-Maior da Armada na sua falta ou impedimento
 
@@ -103,11 +107,11 @@ f) Assegurar a correcta execução das decisões do Ministro da Marinha e do che
 
 ...
 
-###### Art. 6.º O vice-chefe do Estado-Maior da Armada despacha os assuntos das suas atribuições, de acordo com a sua natureza, com o Ministro da Marinha ou com o chefe do Estado-Maior da Armada.
+Art. 6.º O vice-chefe do Estado-Maior da Armada despacha os assuntos das suas atribuições, de acordo com a sua natureza, com o Ministro da Marinha ou com o chefe do Estado-Maior da Armada.
 
 ...
 
-###### Art. 14.º ...
+Art. 14.º ...
 
 ...
 
@@ -117,7 +121,7 @@ c) Colaborar com o Serviço de Informação Pública do Gabinete do Ministro da 
 
 ...
 
-###### Art. 17.º ...
+Art. 17.º ...
 
 ...
 
@@ -127,7 +131,7 @@ b) Rever os trabalhos realizados pelas secções e submetê-los à apreciação 
 
 ...
 
-###### Art. 55.º ...
+Art. 55.º ...
 
 ...
 
@@ -137,7 +141,7 @@ c) Os chefes e adjuntos das divisões e o chefe do Gabinete do Chefe do Estado-M
 
 ...
 
-###### Art. 57.º Sem prejuízo da competência que pertence ao Ministro da Marinha, os oficiais referidos nas alíneas c) e e) do corpo do artigo 55.º são escolhidos pelo chefe do Estado-Maior da Armada, mediante proposta do vice-chefe quanto aos chefes e adjuntos das divisões.
+Art. 57.º Sem prejuízo da competência que pertence ao Ministro da Marinha, os oficiais referidos nas alíneas c) e e) do corpo do artigo 55.º são escolhidos pelo chefe do Estado-Maior da Armada, mediante proposta do vice-chefe quanto aos chefes e adjuntos das divisões.
 
 2. Ao artigo 14.º do citado Regulamento é adicionada uma nova alínea, com a redacção seguinte:
 

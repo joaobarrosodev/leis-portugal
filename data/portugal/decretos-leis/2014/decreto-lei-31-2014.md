@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/02/04100/0165601660.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/31/2014/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3edf22c10c51170e99782996649383c30dfcd65f0d9eac471cf9b040a08faa40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f56a1a9c96acd4966055df75196ef363b413711fb15fd497db0e36429ea46ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,47 +67,74 @@ reuse:
 subjects:
 - ALTO Comissariado para a Imigração e Diálogo Intercultural
 - ALTO Comissariado para as Migrações
-- Instituto da Segurança Social
-- Jurisdição
+- Alto Comissário para as Migrações
 - Associação Nacional de Municípios Portugueses
-- Fiscal Único
-- Instituto do Emprego e Formação Profissional
-- Pessoal Dirigente
-- Gestão Financeira
-- Direção Geral da Saúde
+- Associação Patronal
+- Autoridade para as Condições do Trabalho
+- Comissão para a Cidadania e a Igualdade de Género
 - Comissão para a Igualdade e contra a Discriminação Racial
+- Conselho das Comunidades Portuguesas
 - Conselho Económico e Social
 - Conselho para as Migrações
-- Portugal
 - Definição de Competências
+- Direção Geral da Saúde
 - Direção Geral das Atividades Económicas
-- Associação Patronal
-- Lisboa
-- Primeiro-ministro
-- Mandato
 - Direção Geral do Ensino Superior
-- Instituto do Turismo de Portugal
-- Direcção Geral das Artes
-- Conselho das Comunidades Portuguesas
 - Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
-- Serviço de Estrangeiros e Fronteiras
-- Orgânica
-- Premac
-- Presidente
-- Presidência do Conselho de Ministros
-- Regime de Pessoal
-- Comissão para a Cidadania e a Igualdade de Género
-- Ministério dos Negócios Estrangeiros
-- Sindicato
+- Direcção Geral das Artes
 - Direcção Geral de Política Externa
+- Fiscal Único
+- Gestão Financeira
+- Instituto da Segurança Social
+- Instituto do Emprego e Formação Profissional
+- Instituto do Turismo de Portugal
+- Jurisdição
+- Lisboa
+- Mandato
+- Ministério dos Negócios Estrangeiros
+- Orgânica
+- Pessoal Dirigente
+- Portugal
+- Premac
+- Presidência do Conselho de Ministros
+- Presidente
+- Primeiro-ministro
+- Regime de Pessoal
+- Serviço de Estrangeiros e Fronteiras
+- Sindicato
 - Vogal
-- Autoridade para as Condições do Trabalho
-- Alto Comissário para as Migrações
 relationships:
 - type: amended_by
   target: pt:dre:213881448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70167924:por
+  label: Alterado o art 92.º-A, do DR 84/2007, de 05-nov, na redação do presente diploma, e republicado em anexo, pelo(a)
+    Decreto Regulamentar n.º 15-A/2015 - Diário da República n.º 171/2015, 1º Suplemento, Série I de 2015-09-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/15-a-2015-70167924
+  date: '2015-09-02'
+- type: amended_by
+  target: pt:dre:114177785:por
+  label: Determinado que a superintendência e tutela sobre o Alto Comissariado para as Migrações, I. P., seja exercida pela
+    Ministra da Presidência e da Modernização Administrativa, pelo(a) Decreto-Lei n.º 138/2017 - Diário da República n.º 217/2017,
+    Série I de 2017-11-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-2017-114177785
+  date: '2017-11-10'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a superintendência e tutela sobre o Alto Comissariado para as Migrações,
+    I. P., com orgânica aprovada pelo presente diploma, seja exercida pela Ministra de Estado e da Presidência, pelo(a) Decreto-Lei
+    n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado com efeitos a 30.03.2022 que a Presidência do Conselho de Ministros compreende o Alto Comissariado para
+    as Migrações, I. P. com orgânica aprovada pelo presente diploma pelo(a) Decreto-Lei n.º 32/2022 - Diário da República
+    n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126-a/2011/12/29/p/dre
   label: null
@@ -144,16 +171,63 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:164417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642010:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:213881448:por
+  label: Revogada, a partir de 29.10.2023, o presente diploma, e extinto, o Alto Comissariado para as Migrações, I. P., sucedendo-lhe
+    nas atribuições e competências, nos direitos, obrigações e na posição contratual do ACM, I. P., a AIMA, I. P., nas atribuições
+    relativas a acolhimento e integração, no combate ao racismo e à discriminação, à integração de grupos étnicos, em particular
+    as comunidades ciganas, e à promoção do diálogo intercultural e inter-religioso e à matéria de desigualdade interseccional
+    e o IPDJ, I. P., nas atribuições relativas ao desenvolvimento de programas de inclusão social de crianças e jovens provenientes
+    de contextos socioeconómicos mais vulneráveis, pelo(a) Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série
+    I de 2023-06-02, nos termos da al. f) do art. 48.º e do art. 49.º deste.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2023-213881448
+  date: '2023-06-02'
 article_structure:
-  article_count: 20
+  article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:04Z'
   warnings: []
   errors: []
 ---
@@ -416,7 +490,7 @@ e) [...];
 
 f) [...].
 
-###### Artigo 36.º
+Artigo 36.º
 
 Alto Comissariado para as Migrações, I.P.
 
@@ -488,12 +562,12 @@ O presente decreto-lei entra em vigor no 1.º dia útil do mês seguinte ao da s
 
 Visto e aprovado em Conselho de Ministros de 23 de janeiro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Álvaro Barbosa de Campos Ferreira - Miguel Bento Martins Costa Macedo e Silva - Luís Maria de Barros Serra Marques Guedes - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 17 de fevereiro de 2014.**
+Promulgado em 17 de fevereiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de fevereiro de 2014.**
+Referendado em 20 de fevereiro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

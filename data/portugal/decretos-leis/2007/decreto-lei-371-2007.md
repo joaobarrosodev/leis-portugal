@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/371/2007/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-2007-629445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48a85e6e411c0450279ed3d4df86028452261911d1ae14a398ef878660ba9912
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36cdcc918394bf272603570fba57c00e88465cdea14c37fdb2cd75d1adcd17ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,67 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Livro de Reclamações
-- Inspecção Geral das Actividades Culturais
-- Instituto da Construção e do Imobiliário
-- Infarmed
-- Instituto dos Registos e do Notariado
+- ASAE
+- Banco de Portugal
+- Capitania
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral do Consumidor
-- Registos e Notariado
 - Fiscalização
-- Banco de Portugal
-- Instituto do Desporto de Portugal
+- Infarmed
 - Inspecção Geral da Educação
+- Inspecção Geral das Actividades Culturais
 - Instituições de Segurança Social
+- Instituto da Construção e do Imobiliário
 - Instituto de Seguros de Portugal
-- ASAE
+- Instituto do Desporto de Portugal
+- Instituto dos Registos e do Notariado
+- Livro de Reclamações
 - Mediação de Imóveis
 - Ordem dos Médicos Veterinários
 - OTL
-- Capitania
 - Prestação de Serviços
 - Reclamação
+- Registos e Notariado
 - Veterinário
 relationships:
 - type: amended_by
   target: pt:dre:122960393:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:608884:por
+  label: "Alterados, a partir de 17.08.2009, os art.s 11º e 12º do Dec Lei 156/2005, de 15-Set, ambos na redacção do presente\
+    \ diploma, pelo DEC LEI.118/2009.19.05.2009.MEI, DR.IS [96] de 19.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-2009-608884
+  date: '2009-05-19'
+- type: amended_by
+  target: pt:dre:483411:por
+  label: "Alterado, a partir de 01.11.2009, o anexo I do Dec Lei 156/2005 de 15-Set, alterado e republicado pelo presente\
+    \ diploma, pelo DEC LEI.317/2009.30.10.2009.MFAP, DR.IS [211] de 30.10.2009\0009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/317-2009-483411
+  date: '2009-10-30'
+- type: amended_by
+  target: pt:dre:191534:por
+  label: "Alterado o anexo i do Dec Lei 156/2005, de 15-set, na redação do presente diploma, pelo DEC LEI.242/2012.07.11.2012.MF,\
+    \ DR.IS [215] de 07.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2012-191534
+  date: '2012-11-07'
+- type: amended_by
+  target: pt:dre:107541411:por
+  label: 'Alterados, a partir de 01.07.2017, os arts. 1.º a 13.º e o anexo I; aditados, a partir da referida data, os arts.
+    5.º-A a 5.º-C, 12.º-A e 13.º-A; introduzidas, também a partir daquela data, as seguintes alterações à sistemática: - a
+    epígrafe do cap. II passou a ter a seguinte redação «Do formato físico do livro de reclamações e do procedimento do fornecedor
+    de bens ou prestador de serviços», - aditado o cap. III com a epígrafe «Do formato eletrónico do livro de reclamações
+    e do procedimento», o qual integra os arts. 5.º-B e 5.º-C, - aditado o cap. IV com a epígrafe «Do procedimento das entidades
+    competentes», que integra o art. 6.º, - renumerado o cap. III para cap. V e o cap. IV para cap. VI, que passou a ter a
+    seguinte epígrafe «Da fiscalização e regime contraordenacional», - aditado o cap. VII, com a epígrafe «Outras disposições»,
+    que integra os artigos 12.º a 13.º-A, - renumerado o cap. VI para cap. VIII; e revogados, a partir da mesma data, o n.º
+    4 do art. 9.º, o n.º 2 do art. 10.º, o n.º 7 do art. 12.º, os arts. 14.º e 15.º e o anexo II, todos do Dec Lei 156/2005
+    de 15-set, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017,
+    Série I de 2017-06-21, que o republicou no anexo II, com a redação atual.'
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2017-107541411
+  date: '2017-06-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/135/1999/04/22/p/dre
   label: null
@@ -106,16 +139,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1996/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1996/07/26/p/dre
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
 article_structure:
-  article_count: 29
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 20
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:05Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +209,9 @@ Os artigos 1.º, 2.º, 4.º, 5.º, 6.º, 9.º, 11.º, 12.º, 13.º e 14.º do [D
 
 3 - Sem prejuízo do disposto no número anterior, os fornecedores de bens e os prestadores de serviços podem disponibilizar no seu sítio de Internet instrumentos que permitam aos consumidores reclamarem.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Para efeitos do presente decreto-lei, a referência a «fornecedor de bens ou prestador de serviços» compreende os estabelecimentos referidos no artigo anterior que:
 
@@ -180,7 +227,9 @@ b) Tenham contacto com o público, designadamente através de serviços de atend
 
 5 - Exceptuam-se do disposto no n.º 3 os serviços e organismos da Administração Pública encarregues da prestação dos serviços de abastecimento público de água, de saneamento de águas residuais e de gestão de resíduos urbanos que passam a estar sujeitos às obrigações constantes deste decreto-lei.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A reclamação é formulada através do preenchimento da folha de reclamação.
 
@@ -194,7 +243,9 @@ c) Descrever de forma clara e completa os factos que motivam a reclamação.
 
 3 - Para efeitos do disposto na alínea b) do número anterior, o fornecedor de bens ou o prestador de serviços está obrigado a fornecer todos os elementos necessários ao correcto preenchimento dos campos relativos à sua identificação, devendo ainda confirmar que o utente os preencheu correctamente.
 
-###### Artigo 5.º — Envio da folha de reclamação e alegações
+Artigo 5.º
+
+Envio da folha de reclamação e alegações
 
 1 - Após o preenchimento da folha de reclamação, o fornecedor do bem, o prestador de serviços ou o funcionário do estabelecimento tem a obrigação de destacar do livro de reclamações o original que, no prazo de 10 dias úteis, deve ser remetido à entidade de controlo de mercado competente ou à entidade reguladora do sector.
 
@@ -208,7 +259,9 @@ c) Descrever de forma clara e completa os factos que motivam a reclamação.
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 6.º — Procedimento da entidade de controlo de mercado competente e da entidade reguladora do sector
+Artigo 6.º
+
+Procedimento da entidade de controlo de mercado competente e da entidade reguladora do sector
 
 1 - Para efeitos de aplicação do presente decreto-lei, cabe à entidade de controlo de mercado competente ou à entidade reguladora do sector:
 
@@ -222,7 +275,9 @@ b) ...
 
 4 - Quando da folha de reclamação resultar uma situação de litígio, a entidade de controlo de mercado competente ou a entidade reguladora do sector deve, através de comunicação escrita e após concluídas todas as diligências necessárias à reposição legal da situação, informar o reclamante sobre o procedimento ou as medidas que tenham sido ou venham a ser adoptadas na sequência da reclamação formulada.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Constituem contra-ordenações puníveis com a aplicação das seguintes coimas:
 
@@ -236,7 +291,9 @@ b) De (euro) 250 a (euro) 2500 e de (euro) 500 a (euro) 5000, consoante o infrac
 
 4 - ...
 
-###### Artigo 11.º — Fiscalização e instrução dos processos de contra-ordenação
+Artigo 11.º
+
+Fiscalização e instrução dos processos de contra-ordenação
 
 1 - A fiscalização e a instrução dos processos relativos às contra-ordenações previstas no n.º 1 do artigo 9.º compete:
 
@@ -278,19 +335,25 @@ p) À Secretaria-Geral do Ministério da Ciência, Tecnologia e Ensino Superior,
 
 5 - Coincidindo na mesma entidade a instrução e a aplicação das coimas, a distribuição da receita é de 60 % para o Estado e de 40 % para a entidade que instrui o processo.
 
-###### Artigo 12.º — Informação sobre reclamações recebidas
+Artigo 12.º
+
+Informação sobre reclamações recebidas
 
 1 - As entidades reguladoras e as entidades de controlo de mercado competentes devem remeter à Direcção-Geral do Consumidor, com uma periodicidade semestral, informação, designadamente sobre o tipo, natureza e objecto das reclamações apresentadas, identificação das entidades reclamadas e prazo de resolução das reclamações.
 
 2 - Para efeitos de aplicação do número anterior, a Direcção-Geral do Consumidor define, em documento a ser remetido às entidades reguladoras do sector e às entidades de controlo de mercado competentes no prazo de 30 dias a contar da data de entrada em vigor do presente decreto-lei, a informação pretendida.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A formulação da reclamação nos termos previstos no presente decreto-lei não exclui a possibilidade de o utente apresentar reclamações por quaisquer outros meios e não limita o exercício de quaisquer direitos constitucional ou legalmente consagrados.
 
 2 - Sem prejuízo dos procedimentos previstos no presente decreto-lei, as entidades de controlo de mercado competentes e as entidades reguladoras do sector podem estabelecer mecanismos internos, no âmbito das suas competências, que permitam uma resolução mais célere da reclamação e que não diminuam as garantias de defesa das partes.
 
-###### Artigo 14.º — Avaliação da execução
+Artigo 14.º
+
+Avaliação da execução
 
 No final do 1.º ano a contar da data de entrada em vigor do presente decreto-lei, e bianualmente nos anos subsequentes, a Direcção-Geral do Consumidor elabora um relatório de avaliação sobre a aplicação e execução do mesmo, devendo remetê-lo ao membro do Governo responsável pela área da defesa do consumidor.»
 
@@ -390,7 +453,9 @@ n) Estabelecimentos das empresas de ocupação de actividades de tempos livres o
 
 9 - Estabelecimentos do ensino superior particular e cooperativo.
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 1 - [Anterior alínea a).]
 
@@ -458,17 +523,19 @@ O presente decreto-lei entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - António José de Castro Guerra - Rui Nobre Gonçalves - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Valter Victorino Lemos - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima.
 
-**Promulgado em 19 de Outubro de 2007.**
+Promulgado em 19 de Outubro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de Outubro de 2007.**
+Referendado em 25 de Outubro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-## ANEXO — Capítulo I
+## ANEXO
+
+### Capítulo I
 
 Do objecto e do âmbito de aplicação
 

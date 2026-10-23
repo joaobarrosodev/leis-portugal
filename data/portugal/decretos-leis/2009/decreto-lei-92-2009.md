@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/92/2009/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2009-603879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:11:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43e94b478bca07fa5db829cfe2689c61ea4518ae8de2eca2452c8be6ad0c89ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 659078e631ea044ad96edef03b93b0441c0377b7d74ba1a4311f2c39f656b370
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:11:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Funções
-- Reestruturação de Serviços
-- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
 - Governo XVII
-- Secretário de Estado das Comunidades Portuguesas
-- Secretário de Estado para os Assuntos Europeus
 - Orgânica
+- Reestruturação de Serviços
+- Secretário de Estado das Comunidades Portuguesas
+- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
+- Secretário de Estado para os Assuntos Europeus
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-
@@ -115,16 +115,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/2005/04/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/2005/04/15/p/dre
+- type: cites
+  target: pt:dre:247024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657446:por
+  label: null
+  source: null
 article_structure:
   article_count: 34
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:11:33Z'
   warnings: []
   errors: []
 ---
@@ -181,7 +269,7 @@ O artigo 3.º da Lei Orgânica do XVII Governo Constitucional, aprovada pelo [De
 
 ###### Artigo 2.º — Disposição orçamental
 
-**O Ministro de Estado e das Finanças providencia a efectiva transferência das verbas necessárias ao funcionamento dos novos gabinetes dos membros do Governo, criados ou reestruturados nos termos do presente decreto-lei.**
+O Ministro de Estado e das Finanças providencia a efectiva transferência das verbas necessárias ao funcionamento dos novos gabinetes dos membros do Governo, criados ou reestruturados nos termos do presente decreto-lei.
 
 ###### Artigo 3.º — Republicação
 
@@ -193,15 +281,15 @@ O presente decreto-lei produz efeitos a 3 de Novembro de 2008.
 
 Visto e aprovado em Conselho de Ministros de 19 de Março de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - João António da Costa Mira Gomes - Rui Carlos Pereira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Bernardo Luís Amador Trindade - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - Ana Maria Teodoro Jorge - Maria de Lurdes Reis Rodrigues - Manuel Frederico Tojal de Valsassina Heitor - José António de Melo Pinto Ribeiro - Augusto Ernesto Santos Silva.
 
-**Promulgado em 3 de Abril de 2009.**
+Promulgado em 3 de Abril de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Abril de 2009.**
+Referendado em 6 de Abril de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -311,7 +399,7 @@ c) Pelo Secretário de Estado da Modernização Administrativa.
 
 ###### Artigo 6.º — Substituição do Primeiro-Ministro
 
-**O Primeiro-Ministro, salvo sua indicação em contrário, é substituído na sua ausência ou impedimento pelo Ministro de Estado e dos Negócios Estrangeiros ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.**
+O Primeiro-Ministro, salvo sua indicação em contrário, é substituído na sua ausência ou impedimento pelo Ministro de Estado e dos Negócios Estrangeiros ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.
 
 ###### Artigo 7.º — Competência dos ministros
 

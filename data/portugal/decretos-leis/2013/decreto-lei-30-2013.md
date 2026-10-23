@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/30/2013/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2013-258477
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48d93be62e5adc175fb52ce83c8b4a7087ffdb8b5b8565f09be31cc5d1608956
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d3a77572eb380fd14f71abecce9ce9d3b1d401cc7ec861b65410fc4ea953f53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo Colectivo de Trabalho
-- Financiamento
-- Centro Nacional de Pensões
-- Definição de Competências
 - Administração Pública
 - Caixa Geral de Aposentações
+- Centro Nacional de Pensões
+- Definição de Competências
+- Financiamento
 - Fundo de Pensões
-- Instituições de Segurança Social
+- Ifadap
 - IFAP
+- Instituições de Segurança Social
 - Integração de Trabalhadores
-- Pensão de Sobrevivência
 - Pensão de Reforma
+- Pensão de Sobrevivência
 - Pensionista
 - Proteção Social
 - Reformado
 - Regime Geral da Segurança Social
-- Ifadap
 - Remuneração
 - Transferência de Capitais
 - Transferência de Competências
@@ -121,16 +121,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617130:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:56Z'
   warnings: []
   errors: []
 ---
@@ -271,12 +303,12 @@ O disposto no presente decreto-lei tem natureza imperativa, não podendo ser afa
 
 Visto e aprovado em Conselho de Ministros de 27 de dezembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Maria de Assunção Oliveira Cristas Machado da Graça - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 15 de fevereiro de 2013.**
+Promulgado em 15 de fevereiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 18 de fevereiro de 2013.**
+Referendado em 18 de fevereiro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

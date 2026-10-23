@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/143/2010/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/143-2010-306597
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T05:07:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e429a0e31332fd32acd403424ba3f36fc60c0f07b4c8f1320919d4fed619f4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db84fc93d116e27973f940736c1792d237ca229d0966b8cfbcde97e4da9b44e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:07:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção à Vítima
+- Armamento
 - Armas e Munições
 - Convenção
-- Portugal
 - Dublin
-- Armamento
+- Portugal
+- Protecção à Vítima
 - Vítima de Guerra
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/141/2010/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/141/2010/12/29/p/dre
+- type: cites
+  target: pt:dre:306602:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:07:31Z'
   warnings: []
   errors: []
 ---
@@ -95,16 +99,16 @@ validation:
 
 de 29 de Dezembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificada a Convenção sobre Munições de Dispersão, adoptada em Dublin em 30 de Maio de 2008, aprovada pela [Resolução da Assembleia da República n.º 141/2010](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/141-2010-306602), em 22 de Outubro de 2010.
 
-**Assinado em 14 de Dezembro de 2010.**
+Assinado em 14 de Dezembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de Dezembro de 2010.**
+Referendado em 20 de Dezembro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

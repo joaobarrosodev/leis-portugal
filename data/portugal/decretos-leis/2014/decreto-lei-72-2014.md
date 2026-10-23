@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72/2014/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2014-25343690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fe5e7685d305405085b5425163ed8f2693940fb97ac67ecaab5e11aab687c07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d87152ff828992d684ac730af4234d0e45ddcda679cd0bfc8ebc4da049a76b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
 subjects:
 - ACTO Administrativo
 - Administração Central
-- Modernização Administrativa
-- Tecnologia da Informação
-- Criação de Serviços
 - Administração Pública
-- Informatização
-- TIC
-- Licenciamento
-- Núcleo de Modernização Administrativa
-- Serviço Público
 - Agência para a Modernização Administrativa
-- RIMA
 - Avaliação do Impacto Legislativo
+- Criação de Serviços
+- Informatização
+- Licenciamento
+- Modernização Administrativa
+- Núcleo de Modernização Administrativa
+- RIMA
+- Serviço Público
+- Tecnologia da Informação
+- TIC
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/4/1997/01/09/p/dre
@@ -97,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/60/2012/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/60/2012/07/10/p/dre
+- type: cites
+  target: pt:dre:146274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543701:por
+  label: null
+  source: null
 article_structure:
-  article_count: 27
+  article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:50Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +181,7 @@ g) Constituir-se como observatório permanente da modernização administrativa.
 
 2 - A Agência para a Modernização Administrativa, I.P. (AMA, I.P.), assegura a assessoria técnica ao funcionamento da RIMA.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - A RIMA é coordenada pelo membro do Governo responsável pela área da modernização administrativa e é composta por pontos focais de modernização e simplificação administrativa, doravante designados por pontos focais, a constituir em cada um dos ministérios.
 
@@ -175,7 +191,7 @@ g) Constituir-se como observatório permanente da modernização administrativa.
 
 4 - Pela participação nos pontos focais não é devida qualquer remuneração.
 
-###### Artigo 4.º
+Artigo 4.º
 
 Aos pontos focais incumbe especialmente:
 
@@ -187,11 +203,11 @@ c) [...];
 
 d) Assegurar a realização da avaliação de impacto regulatório dos diplomas legais e regulamentares que se enquadrem no âmbito das atribuições do respetivo ministério, nos termos a definir em resolução do Conselho de Ministros.
 
-###### Artigo 5.º
+Artigo 5.º
 
 Há pelo menos uma reunião plenária da RIMA por trimestre, coordenada pelo membro do Governo responsável pela área da modernização administrativa, sem prejuízo da realização de reuniões adicionais quando tal se revelar oportuno e necessário.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - Sem prejuízo das ações a desenvolver no âmbito dos planos de intervenção a que se refere a alínea a) do artigo 4.º, é criado um programa de simplificação administrativa da Administração Pública, coordenado pelo membro do Governo responsável pela área da modernização administrativa.
 
@@ -203,13 +219,13 @@ b) A elaboração de propostas de simplificação dos procedimentos e atos admin
 
 3 - No âmbito do programa referido no n.º 1, e com vista à identificação de áreas e aspetos críticos que careçam de simplificação administrativa, é promovida a consulta dos cidadãos, dos agentes económicos, dos trabalhadores em funções públicas e dos dirigentes da Administração Pública, designadamente através de questionários, entrevistas e reuniões com grupos focais.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - A análise dos procedimentos e atos administrativos, bem como as correspondentes propostas de simplificação, devem ser apresentadas ao respetivo ministro e ao membro do Governo responsável pela área da modernização administrativa.
 
 2 - Nos termos da alínea d) do n.º 1 do artigo 2.º, deve prever-se a participação dos cidadãos, agentes económicos e respetivas associações representativas, no âmbito da adoção das propostas referidas no número anterior.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - Sem prejuízo do disposto nos artigos anteriores, o membro do Governo responsável pela área da modernização administrativa, em articulação com a RIMA, promove programas de inventariação e análise dos custos diretos e indiretos das medidas legislativas e regulamentares que são suscetíveis de ter um maior impacto na atividade económica, com vista ao desenho de projetos específicos de modernização administrativa.
 
@@ -231,11 +247,11 @@ São aditados ao [Decreto-Lei n.º 4/97](https://diariodarepublica.pt/dr/detalhe
 
 5 - Os procedimentos e metodologias, a seguir no estudo prévio de impacto de custos da medida legislativa ou regulamentar proposta e na avaliação da execução dessa medida, são aprovados por resolução do Conselho de Ministros.
 
-###### Artigo 5.º-B
+Artigo 5.º-B
 
 Os serviços públicos devem, tendo em conta os princípios da eficiência e da desburocratização da Administração Pública e de modo a não onerar de forma desproporcionada o exercício dos direitos fundamentais, propor à respetiva tutela a consagração de deferimento tácito em procedimentos de licenciamento, aprovação ou autorização administrativas, a substituição destes controlos por meras comunicações prévias ou a isenção de qualquer controlo prévio.
 
-###### Artigo 10.º
+Artigo 10.º
 
 A RIMA pode cooperar com as administrações públicas regionais e locais na promoção de ações de modernização e simplificação administrativas que estas pretendam levar a cabo nos respetivos âmbitos de atuação administrativa.»
 
@@ -275,15 +291,15 @@ b) Os representantes ministeriais que integram o GPTIC, os quais integram os pon
 
 Visto e aprovado em Conselho de Ministros de 27 de março de 2014. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Álvaro Barbosa de Campos Ferreira - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - Luís Maria de Barros Serra Marques Guedes - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo - José Alberto Nunes Ferreira Gomes - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 8 de maio de 2014.**
+Promulgado em 8 de maio de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de maio de 2014.**
+Referendado em 9 de maio de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 4/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1997-302093), de 9 de janeiro
 

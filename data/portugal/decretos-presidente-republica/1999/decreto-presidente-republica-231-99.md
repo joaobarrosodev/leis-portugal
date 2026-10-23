@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/231/1999/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/231-1999-632039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T04:32:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5fe62611058fd26a7490506d9d5032bb5973ac16e0a724d86ef8bff60465bba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2357856d8c7b389bbbddfd8b672a474e99710227432fc03af67ebcc375329fae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:32:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal do MAR
-- Convenção
-- Portugal
-- Macau
-- Londres
 - Condições de Higiene e Segurança no Trabalho
+- Convenção
+- Londres
+- Macau
+- Pessoal do MAR
+- Portugal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/42/1998/11/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/42/1998/11/10/p/dre
+- type: cites
+  target: pt:dre:234106:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:32:18Z'
   warnings: []
   errors: []
 ---
@@ -96,14 +100,14 @@ validation:
 
 de 9 de Dezembro
 
-**O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:
 
 É estendida ao território de Macau, nos mesmos termos em que a ela está vinculado o Estado Português, a Emenda de 1995 à Convenção Internacional sobre Normas de Formação, Certificação e Serviços de Quartos para Marítimos, ratificada pelo [Decreto n.º 42/98](https://diariodarepublica.pt/dr/detalhe/decreto/42-1998-234106), de 13 de Outubro, cujo texto foi publicado no Diário da República, 1.ª série, de 13 de Outubro de 1998.
 
 Foram ouvidos os órgãos de governo próprios do território de Macau.
 
-**Assinado em 29 de Novembro de 1999.**
+Assinado em 29 de Novembro de 1999.
 
-**Publique-se no Boletim Oficial de Macau, em conjunto com os referidos decreto de ratificação e texto da Convenção.**
+Publique-se no Boletim Oficial de Macau, em conjunto com os referidos decreto de ratificação e texto da Convenção.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

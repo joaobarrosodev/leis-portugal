@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/10/250a00/71447157.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/269/2003/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-2003-466833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:40:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8012b427d7d6b31e777acd80c12df8cf2a8444aefd48af1321ed6ecd76c8953e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0fde9d2dddf721f62e1ede913d6c6f6e0e5c5d2864b47892e92b3cdde40742f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:40:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Embarcação
-- Turismo
-- Multa
-- Instituto Portuário e dos Transportes Marítimos
 - Contra-ordenação
+- Direcção Geral da Autoridade Marítima
+- Embarcação
 - Embarcação de Recreio
 - Fiscalização
-- Pesca
+- Instituto Portuário e dos Transportes Marítimos
 - Licenciamento
+- Multa
+- Navegação Marítima
 - Operador Turístico
+- Pesca
 - Regulamento
 - Regulamento da Actividade Marítimo-turística
 - Sanção
 - Segurança da Navegação
 - Seguro Obrigatório de Responsabilidade Civil
-- Direcção Geral da Autoridade Marítima
-- Navegação Marítima
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:58248462:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:636971:por
+  label: "Alterado os arts. 21º e 35º do Regulamento da Actividade Marítimo-Turística, aprovado pelo Decreto-Lei n.º 21/2002,\
+    \ de 31-Jan, na redacção do presente diploma, pelo DEC LEI.289/2007.17.08.2007.MOPTC, DR.IS [158] de 17.08.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-2007-636971
+  date: '2007-08-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/21/2002/01/31/p/dre
   label: null
@@ -112,16 +118,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/308/2002/03/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/308/2002/03/21/p/dre
+- type: cites
+  target: pt:dre:263038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661085:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:58248462:por
+  label: Revogado o Dec Lei 21/2002, de 31-jan, na redação do presente diploma, pelo(a) Decreto-Lei n.º 149/2014 - Diário
+    da República n.º 196/2014, Série I de 2014-10-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-2014-58248462
+  date: '2014-10-10'
 article_structure:
-  article_count: 67
+  article_count: 45
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:40:20Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +200,9 @@ c) Operador marítimo-turístico qualquer pessoa singular ou colectiva, designad
 
 d) ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 ...
 
@@ -184,7 +222,9 @@ g) Aluguer de motas de água e de pequenas embarcações dispensadas de registo;
 
 h) Outros serviços, designadamente os respeitantes a serviços de reboque de equipamentos de carácter recreativo, tais como bananas, pára-quedas, esqui aquático.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -194,7 +234,9 @@ h) Outros serviços, designadamente os respeitantes a serviços de reboque de eq
 
 4 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Pelos serviços prestados pelo IPTM, em resultado da aplicação das disposições do presente Regulamento, são cobradas taxas de acordo com as disposições do [Decreto-Lei n.º 98/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2001-344965), de 28 de Março, e da [Portaria n.º 308/2002](https://diariodarepublica.pt/dr/detalhe/portaria/308-2002-263038), de 21 de Março.
 
@@ -202,7 +244,9 @@ h) Outros serviços, designadamente os respeitantes a serviços de reboque de eq
 
 3 - Os montantes das taxas a que se refere o número anterior podem ser actualizados por portaria conjunta dos Ministros das Finanças, da Defesa Nacional e das Cidades, Ordenamento do Território e Ambiente.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -218,7 +262,9 @@ a) Proceder aos licenciamentos especiais a que se refere o artigo 10.º do prese
 
 b) Proceder aos licenciamentos para as modalidades previstas nas alíneas f), g) e h) do artigo 4.º, independentemente do registo das embarcações.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -256,7 +302,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -276,7 +324,9 @@ b) ...
 
 4 - As embarcações auxiliares podem ser limitadas a uma área de navegação mais restrita, a inscrever no certificado de navegabilidade e no título de registo de propriedade, tendo em conta a sua autonomia, as condições de habitabilidade e a duração das viagens.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A lotação de segurança das embarcações auxiliares que embarquem mais de 12 pessoas, excluindo a tripulação, só pode ser constituída por inscritos marítimos.
 
@@ -290,7 +340,9 @@ b) ...
 
 6 - Sempre que um operador esteja a exercer uma actividade regular com mais de uma embarcação, qualquer que seja o seu registo, classificação e área de navegação, pode ser emitido rol de tripulação colectivo para todas as embarcações, desde que estas se encontrem a operar na área ou a partir da área de jurisdição da mesma capitania.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - As embarcações de recreio só podem ser utilizadas na actividade marítimo-turística nas modalidades de aluguer e de pesca turística.
 
@@ -298,7 +350,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - As embarcações de recreio utilizadas na actividade marítimo-turística na modalidade de aluguer com tripulação e pesca turística são obrigadas a lotação mínima de segurança constituída por inscritos marítimos ou por navegadores de recreio detentores de carta adequada ao tipo de embarcação e à área de navegação.
 
@@ -314,59 +368,83 @@ b) ...
 
 5 - As motas de água com menos de 60 kw de potência, dotadas de sistema de corte de tracção à distância, usadas em circuito devidamente sinalizado, balizado e supervisionado pelos órgãos locais da DGAM e apoiadas por embarcação dedicada, podem ser alugadas a pessoas não habilitadas com carta de navegador de recreio por períodos não superiores a uma hora.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - As embarcações de recreio só podem ser utilizadas na actividade marítimo-turística depois de devidamente vistoriadas para o efeito, segundo critérios idênticos às restantes embarcações auxiliares designadas para a actividade marítimo-turística.
 
 2 - A validade da vistoria inicial é de um ano, devendo ser efectuadas vistorias anuais e inspecções ao casco em seco de dois em dois anos, enquanto se mantiverem afectas a esta actividade.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
 2 - A utilização de embarcações de bandeira de país terceiro por operadores marítimo-turísticos em exercício carece de autorização a conceder pelo IPTM, após vistoria a efectuar para o efeito, devendo ser observadas as condições de segurança que lhes forem fixadas.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 A fiscalização da observância do disposto no presente Regulamento é da competência do IPTM, dos órgãos locais da DGAM e das entidades com jurisdição no domínio fluvial e lacustre.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 É aplicada coima de montante mínimo de (euro) 500 e máximo de (euro) 3740 a quem exerça a actividade marítimo-turística sem que para tal se encontre devidamente licenciado, nos termos do artigo 5.º do presente Regulamento.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 É aplicada coima de montante mínimo de (euro) 500 e máximo de (euro) 3740 ao operador marítimo-turístico que exerça a actividade sem que para tal disponha de seguro de responsabilidade civil válido, em violação do disposto no artigo 26.º do presente Regulamento.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 É aplicada coima de montante mínimo de (euro) 250 e máximo de (euro) 1500 ao operador marítimo-turístico que não preste às entidades licenciadoras as informações previstas no artigo 24.º do presente Regulamento.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 É aplicada coima de montante mínimo de (euro) 250 e máximo de (euro) 1500 ao operador marítimo-turístico que no exercício da actividade não cumpra alguma das obrigações que lhe são impostas pelo disposto no artigo 25.º do presente Regulamento.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 É aplicada coima de montante mínimo de (euro) 250 e máximo de (euro) 1500 ao operador marítimo-turístico que utilize nesta actividade embarcações não devidamente sinalizadas, em violação do disposto nos n.os 2 e 3 do artigo 16.º do presente Regulamento.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 É aplicada coima de montante mínimo de (euro) 500 e máximo de (euro) 3740 ao operador marítimo-turístico que utilize embarcações que não satisfaçam as normas de segurança ou cuja utilização não seja permitida, em violação do disposto nos artigos 16.º, 17.º, 20.º, 22.º e 23.º do presente Regulamento.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 É aplicada coima de montante mínimo de (euro) 500 e máximo de (euro) 3740 a quem, no exercício desta actividade, governe uma embarcação sem que para tal esteja devidamente habilitado, em violação do disposto nos artigos 18.º e 21.º do presente Regulamento.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 É aplicada coima de montante mínimo de (euro) 250 e máximo de (euro) 1500 ao operador marítimo-turístico que não disponha de embarcação de assistência, em violação do disposto no n.º 1 do artigo 19.º do presente Regulamento.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 É aplicada coima de montante mínimo de (euro) 250 e máximo de (euro) 1500 ao operador marítimo-turístico que utilize embarcações de recreio em modalidade não permitida, em violação do disposto no n.º 1 do artigo 20.º do presente Regulamento.
 
-## ANEXO II
+ANEXO II
 
 Taxas a cobrar pela emissão das licenças e pelas alterações sujeitas a averbamento nos termos previstos no n.º 2 do artigo 7.º do Regulamento.
 
@@ -374,7 +452,9 @@ Taxas a cobrar pela emissão das licenças e pelas alterações sujeitas a averb
 
 2 - Averbamento - (euro) 60.
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 1 - ...
 
@@ -470,7 +550,9 @@ Embarcações de apoio
 
 4 - As situações de utilização das embarcações de apoio referidas no presente artigo podem ser restringidas pelo órgão local da DGAM, atendendo, designadamente, às suas características, aos locais de operação e condições meteorológicas.
 
-###### Artigo 36.º-A — Não observância de requisitos para embarcação de apoio
+Artigo 36.º-A
+
+Não observância de requisitos para embarcação de apoio
 
 É aplicada coima no montante mínimo de (euro) 250 e máximo de (euro) 1500 ao operador marítimo-turístico que utilize embarcações de apoio em violação do disposto no artigo 19.º-A do presente Regulamento.»
 
@@ -480,15 +562,15 @@ O Regulamento da Actividade Marítimo-Turística, com a redacção agora introdu
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - António Pedro de Nobre Carmona Rodrigues - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 10 de Outubro de 2003.**
+Promulgado em 10 de Outubro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Outubro de 2003.**
+Referendado em 15 de Outubro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — REGULAMENTO DA ACTIVIDADE MARÍTIMO-TURÍSTICA
 

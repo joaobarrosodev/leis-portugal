@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/183/2000/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2000-339847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:18:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a301ee5d46aae613fff2f560d4bca475f5fc3ed186d426d9d86e6c155f7641e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3bb0e64dd05947e8fad386922609b69575f4f68f16437f7ddb1e0936a5857bc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:18:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,95 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Declarativo
 - Advogado
-- Processo Civil
 - Código do Processo Civil
-- Sistema Judicial
 - Correio Electrónico
-- Notificação
 - Custas Judiciais
+- Notificação
+- Processo Civil
+- Processo Declarativo
+- Sistema Judicial
 - Testemunha
 relationships:
 - type: amended_by
   target: pt:dre:191994:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:315337:por
+  label: "Alterados os arts. 150.º, 238.º, 252.º-A, 257.º, 474.º, 623.º e 629.º do Código do Processo Civil, aprovado pelo\
+    \ Dec Lei 44129, de 28-Dez 1961, na redacção do presente diploma, revisto e republicado pelo Dec Lei 329-A/95 de 12-Dez,\
+    \ pela LEI.30-D/2000.2000.12.20.AR DR.IS [292]3ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-d-2000-315337
+  date: '2000-12-20'
+- type: amended_by
+  target: pt:dre:306916:por
+  label: "Alterados os nºs 1 e 2 do art. 7º, pelo DEC LEI.320-B/2002.2002.12.30.MJ, DR.IS-A [301]Supl com a rectificação introduzida\
+    \ pela Decl-Rect 7-S/2000 de 31-Ago\0o\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-b-2002-306916
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:189484:por
+  label: "Alterado, nos termos do n.º 2 do art. 10.º, o art. 12º-A do anexo do Dec Lei 269/98 de 01-Set, com a redacção dada\
+    \ pelo presente diploma, pelo DEC LEI.32/2003.2003.02.17.MJ DR.IS-A [40]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2003-189484
+  date: '2003-02-17'
+- type: amended_by
+  target: pt:dre:220944:por
+  label: "Alterados os arts. 233.º, 236.º, 238.º, 239.º, 240.º, 244.º, 252.º-A, 257.º, 467.º, 568.º, 621.º, 623.º, 629.º,\
+    \ 630.º e 651.º, todos do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961, na redacção do presente\
+    \ diploma, pelo DEC LEI.38/2003.08.03.2003.MJ, DR.IS-A [57] de 08.03.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2003-220944
+  date: '2003-03-08'
+- type: amended_by
+  target: pt:dre:511825:por
+  label: "Alterado o art. 252.º-A do Código do processo Civil (aprovado pelo Dec Lei 44129, de 28-Dez 1961), aditado pelo\
+    \ Dec Lei 329-A/95, de 12-Dez, na redacção do Dec Lei 180/96, de 25-Set, do presente diploma, da Lei 30-D/2000, de 20-Dez\
+    \ e do Dec Lei 38/2003, de 08-Mar, pelo DEC LEI.199/2003.2003.09.10.MJ DR.IS-A [209]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/199-2003-511825
+  date: '2003-09-10'
+- type: amended_by
+  target: pt:dre:424101:por
+  label: "Alterados os artigos 150.º, 152.º, 229.º-A e 260.º-A do Código de Processo Civil, aprovado pelo Decreto-Lei 44129,\
+    \ de 28 de Dezembro de 1961, na redacção do presente diploma, pelo DEC LEI.324/2003.27.12.2003.MJ, DR.IS-A [298] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2003-424101
+  date: '2003-12-27'
+- type: amended_by
+  target: pt:dre:640911:por
+  label: "Alterados a partir de 01 de Janeiro de 2008, sem prejuízo do disposto nos artigo 11.º, e 12.º, os artigo 143.º,\
+    \ 150.º, 152.º, 229.º-A, 233.º, 260.º-A, 467.º, 474.º, e 522.º-C, do Código de Processo Civil, aprovado pelo Decreto-Lei\
+    \ 44129, de 28 de Dezembro de 1961, na redacção do presente diploma, pelo DEC LEI.303/2007.24.08.2007.MJ, DR.IS [163]\
+    \ de 24.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-2007-640911
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:247448:por
+  label: "Alterados, a partir de 20.04.2009, os arts. 152º, 467º e 474º do Código de Processo Civil, aprovado pelo Dec Lei\
+    \ 44129, de 28-Dez de 1961, na redacção do presente diploma, pelo DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\
+    8\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: amended_by
+  target: pt:dre:453251:por
+  label: "Alterados a partir de 02.01.2009, os artigos 143.º, 239.º, 467.º, 474º e 623.º, do Código de Processo Civil, aprovado\
+    \ pelo Dec Lei 44129 de 28-Dez 1961, na redacção do presente diploma, pela LEI.52/2008.28.08.2008.AR, DR.IS [166] de 28.08.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-2008-453251
+  date: '2008-08-28'
+- type: amended_by
+  target: pt:dre:439815:por
+  label: "Alterados, a partir de 31.03.2009, os arts. 233º, 239º, 252º-A e 467º do Código do Processo Civil, aprovado pelo\
+    \ Dec Lei 44129, de 28-Dez, 1961, na redacção do presente diploma, pelo DEC LEI.226/2008.20.11.2008.MJ, DR.IS [226] de\
+    \ 20.11.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-2008-439815
+  date: '2008-11-20'
+- type: amended_by
+  target: pt:dre:613677:por
+  label: "Alterado, a partir de 20.04.2010, o art. 143º do Código de Processo Civil, aprovado pelo Decreto-Lei n.º 44129,\
+    \ de 28 de Dezembro de 1961, na redacção do presente diploma, pelo DEC LEI.35/2010.15.04.2010.MJ, DR.IS [73] de 15.04.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2010-613677
+  date: '2010-04-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/180/1996/09/25/p/dre
   label: null
@@ -101,16 +176,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/383/1999/09/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/383/1999/09/23/p/dre
+- type: cites
+  target: pt:dre:556239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566629:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:336713:por
+  label: "Rectificado o art. 1.º [na parte que altera a redacção dos arts. 621.º e 651.º do Código de Processo Civil, aprovado\
+    \ pelo Dec Lei 44129 de 28-Dez 1961], bem como o nº 1 do art. 7.º e o art. 8.º [entrada em vigor] do presente diploma,\
+    \ pela DECL-RECT.7-S/2000.2000.08.31.PCM DR.IS-A [201]2º Supl de 31/Ago/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-s-2000-336713
+  date: '2000-08-31'
+- type: corrected_by
+  target: pt:dre:235761:por
+  label: "Rectificado o art. 1.º do presente diploma [na parte que altera o art. 629.º do CPC aprovado pelo Dec Lei 44129\
+    \ de 28-Dez 1961], pela DECL-RECT.11-A/2000.2000.09.29.PCM DR.IS-A [227]Supl. de 30/Set/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-a-2000-235761
+  date: '2000-09-29'
+- type: repealed_by
+  target: pt:dre:424101:por
+  label: "Revogados os n.ºs 1 e 2 do art. 7.º , pelo DEC LEI.324/2003.27.12.2003.MJ, DR.IS-A [298] de 27.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2003-424101
+  date: '2003-12-27'
 article_structure:
-  article_count: 46
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:18:20Z'
   warnings: []
   errors: []
 ---
@@ -213,7 +314,9 @@ c) Ao surdo-mudo, formulam-se as perguntas por escrito, respondendo ele também 
 
 3 - O disposto nos números anteriores é correspondentemente aplicável aos requerimentos orais e à prestação de juramento.
 
-###### Artigo 143.º — [...]
+Artigo 143.º
+
+[...]
 
 1 - ...
 
@@ -223,7 +326,9 @@ c) Ao surdo-mudo, formulam-se as perguntas por escrito, respondendo ele também 
 
 4 - As partes podem praticar os actos processuais através de telecópia ou por correio electrónico, em qualquer dia e independentemente da hora da abertura e do encerramento dos tribunais.
 
-###### Artigo 150.º — [...]
+Artigo 150.º
+
+[...]
 
 1 - Os articulados, as alegações e as contra-alegações de recurso escritas devem ser apresentados em suporte digital, acompanhados de um exemplar em suporte de papel, que valerá como cópia de segurança e certificação contra adulterações introduzidas no texto digitalizado e dos documentos juntos pelas partes que não estejam digitalizados; quaisquer outros actos que devam ser praticados por escrito pelas partes no processo podem igualmente ser apresentados em suporte digital.
 
@@ -241,7 +346,9 @@ c) Enviados através de telecópia ou por correio electrónico, sendo neste últ
 
 5 - Sem prejuízo das disposições legais relativas à petição inicial, a falta de junção do documento referido no número anterior não implica a recusa da peça processual, devendo a parte proceder à sua junção nos 10 dias subsequentes à prática do acto processual, sob pena de aplicação das cominações previstas nas disposições relativas a custas judiciais.
 
-###### Artigo 152.º — [...]
+Artigo 152.º
+
+[...]
 
 1 - ...
 
@@ -255,7 +362,9 @@ c) Enviados através de telecópia ou por correio electrónico, sendo neste últ
 
 6 - A parte que apresente o articulado, o requerimento, a resposta, a alegação ou contra-alegação escrita ou a peça referente a quaisquer actos em suporte digital acompanhado da cópia de segurança ou que os envie através de correio electrónico fica dispensada de oferecer os duplicados, devendo a secretaria extrair tantos exemplares quantos os duplicados previstos nos números anteriores.
 
-###### Artigo 181.º — [...]
+Artigo 181.º
+
+[...]
 
 1 - ...
 
@@ -265,7 +374,7 @@ c) Enviados através de telecópia ou por correio electrónico, sendo neste últ
 
 4 - ...
 
-###### Artigo 233.º
+Artigo 233.º
 
 1 - ...
 
@@ -285,7 +394,9 @@ c) Contacto pessoal do funcionário judicial com o citando.
 
 6 - A citação edital tem lugar quando o citando se encontre ausente em parte incerta, nos termos dos artigos 244.º e 248.º ou, quando sejam incertas as pessoas a citar, ao abrigo do artigo 251.º
 
-###### Artigo 236.º — Citação por via postal registada
+Artigo 236.º
+
+Citação por via postal registada
 
 1 - ...
 
@@ -299,11 +410,15 @@ c) Contacto pessoal do funcionário judicial com o citando.
 
 6 - ...
 
-###### Artigo 237.º — [...]
+Artigo 237.º
+
+[...]
 
 Não podendo efectuar-se a citação por via postal registada na sede da pessoa colectiva ou sociedade, ou no local onde funciona normalmente a administração, por aí não se encontrar nem o legal representante, nem qualquer empregado ao seu serviço, procede-se à citação do representante, mediante carta registada com aviso de recepção, remetida para a sua residência ou local de trabalho, nos termos do disposto no artigo 236.º
 
-###### Artigo 238.º — Frustração da citação por via postal
+Artigo 238.º
+
+Frustração da citação por via postal
 
 1 - No caso de se frustrar a citação por via postal, a secretaria obterá informação sobre a residência, local de trabalho ou, tratando-se de pessoa colectiva ou sociedade, sobre a sede ou local onde funciona normalmente a administração do citando, nas bases de dados dos serviços de identificação civil, da segurança social, da Direcção-Geral dos Impostos e da Direcção-Geral de Viação.
 
@@ -311,7 +426,9 @@ Não podendo efectuar-se a citação por via postal registada na sede da pessoa 
 
 3 - Se a residência, local de trabalho, sede ou local onde funciona normalmente a administração do citando, para o qual se endereçou a carta registada com aviso de recepção ou a carta simples, não coincidir com o local obtido nas bases de dados de todos os serviços enumerados no n.º 1, ou se nestas constarem várias residências, locais de trabalho ou sedes, será expedida uma carta simples para cada um desses locais.
 
-###### Artigo 239.º — [...]
+Artigo 239.º
+
+[...]
 
 1 - A citação mediante contacto pessoal do funcionário de justiça com o citando será efectuada sempre que se afigure o meio mais célere de a realizar, entregando-se-lhe os elementos e nota de que constem as indicações a que alude o artigo 235.º e lavrando-se certidão assinada pelo citado.
 
@@ -321,7 +438,9 @@ Não podendo efectuar-se a citação por via postal registada na sede da pessoa 
 
 4 - ...
 
-###### Artigo 240.º — [...]
+Artigo 240.º
+
+[...]
 
 1 - No caso referido no artigo anterior, se o funcionário apurar que o citando reside ou trabalha efectivamente no local indicado, não podendo, todavia, proceder à citação por o não encontrar, deixará nota com indicação de hora certa para a diligência na pessoa encontrada que estiver em melhores condições de a transmitir ao citando ou, quando tal for impossível, afixará o respectivo aviso no local mais indicado.
 
@@ -333,13 +452,17 @@ Não podendo efectuar-se a citação por via postal registada na sede da pessoa 
 
 5 - ...
 
-###### Artigo 244.º — [...]
+Artigo 244.º
+
+[...]
 
 1 - O citando considera-se ausente em parte incerta se se frustrar a citação por via postal e a secretaria obtiver a informação de que nas bases de dados dos serviços de identificação civil, da segurança social, da Direcção-Geral dos Impostos e da Direcção-Geral de Viação não existe nenhum registo da residência, local de trabalho, sede ou local onde funciona normalmente a administração do citando, caso em que se procederá à sua citação edital.
 
 2 - No caso de o autor indicar o citando como ausente em parte incerta, a secretaria obterá a informação prevista no número anterior e só no caso de confirmar a inexistência de registo da residência, local de trabalho, sede ou local onde funciona normalmente a administração do citando é que se procede à sua citação edital; caso seja encontrado registo de algum daqueles locais, procede-se à citação por via postal registada para todos os locais que constem daquelas bases de dados.
 
-###### Artigo 245.º — [...]
+Artigo 245.º
+
+[...]
 
 1 - ...
 
@@ -347,7 +470,9 @@ Não podendo efectuar-se a citação por via postal registada na sede da pessoa 
 
 3 - ...
 
-###### Artigo 252.º-A — [...]
+Artigo 252.º-A
+
+[...]
 
 1 - ...
 
@@ -361,7 +486,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 257.º — [...]
+Artigo 257.º
+
+[...]
 
 1 - As notificações que tenham por fim chamar ao tribunal testemunhas, peritos e outras pessoas com intervenção acidental na causa são feitas mediante expedição de carta simples, indicando-se a data, o local e o fim da comparência.
 
@@ -371,7 +498,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 467.º — [...]
+Artigo 467.º
+
+[...]
 
 1 - Na petição, com que propõe a acção, deve o autor:
 
@@ -395,7 +524,9 @@ f) [Anterior alínea e).]
 
 5 - No caso previsto no número anterior, o autor deve efectuar o pagamento da taxa de justiça inicial no prazo de 10 dias a contar da data da notificação da decisão que indefira o pedido de apoio judiciário, sob pena de desentranhamento da petição inicial apresentada, salvo se o indeferimento do pedido de apoio judiciário só for notificado ao autor depois de efectuada a citação do réu.
 
-###### Artigo 474.º — [...]
+Artigo 474.º
+
+[...]
 
 1 - A secretaria recusa o recebimento da petição inicial indicando por escrito o fundamento da rejeição, quando ocorrer algum dos seguintes factos:
 
@@ -417,21 +548,29 @@ h) [Anterior alínea f).]
 
 i) [Anterior alínea g).]
 
-###### Artigo 476.º — [...]
+Artigo 476.º
+
+[...]
 
 O autor pode apresentar outra petição ou juntar o documento a que se refere a primeira parte do disposto na alínea f) do artigo 474.º, dentro dos 10 dias subsequentes à recusa de recebimento ou de distribuição da petição, ou à notificação da decisão judicial que a haja confirmado, considerando-se a acção proposta na data em que a primeira petição foi apresentada em juízo.
 
-###### Artigo 522.º-B — [...]
+Artigo 522.º-B
+
+[...]
 
 As audiências finais e os depoimentos, informações e esclarecimentos nelas prestados são gravados sempre que alguma das partes o requeira, por não prescindir da documentação da prova nelas produzida, quando o tribunal oficiosamente determinar a gravação e nos casos especialmente previstos na lei.
 
-###### Artigo 522.º-C — [...]
+Artigo 522.º-C
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - Quando haja lugar a registo áudio ou vídeo, deve ser assinalado na acta o início e o termo da gravação de cada depoimento, informação ou esclarecimento.
 
-###### Artigo 556.º — [...]
+Artigo 556.º
+
+[...]
 
 1 - O depoimento deve, em regra, ser prestado na audiência de discussão e julgamento, salvo se for urgente ou o depoente estiver impossibilitado de comparecer no tribunal.
 
@@ -439,13 +578,17 @@ As audiências finais e os depoimentos, informações e esclarecimentos nelas pr
 
 3 - ...
 
-###### Artigo 557.º — [...]
+Artigo 557.º
+
+[...]
 
 1 - ...
 
 2 - Havendo impossibilidade de comparência, mas não de prestação de depoimento, este realizar-se-á no dia, hora e local que o juiz designar, ouvido o médico assistente, se for necessário, sempre que não seja possível a sua prestação ao abrigo do disposto nos artigos 639.º e 639.º-B.
 
-###### Artigo 568.º — [...]
+Artigo 568.º
+
+[...]
 
 1 - ...
 
@@ -455,7 +598,9 @@ As audiências finais e os depoimentos, informações e esclarecimentos nelas pr
 
 4 - As perícias referidas nos números anteriores podem ser realizadas por entidade terceira que para tanto seja contratada pelos estabelecimentos, laboratórios ou serviços oficiais apropriados, desde que aquelas não tenham qualquer conexão com o objecto do processo ou ligação com as partes.
 
-###### Artigo 580.º — [...]
+Artigo 580.º
+
+[...]
 
 1 - ...
 
@@ -463,13 +608,17 @@ As audiências finais e os depoimentos, informações e esclarecimentos nelas pr
 
 3 - Quando por razões técnicas ou de serviço a perícia não puder ser realizada no prazo determinado pelo juiz, por si ou nos termos do n.º 4 do artigo 568.º, deve tal facto ser de imediato comunicado ao tribunal, para que este possa determinar a eventual designação de novo perito, nos termos do n.º 1 do artigo 568.º
 
-###### Artigo 588.º — [...]
+Artigo 588.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - Os peritos de estabelecimentos, laboratórios ou serviços oficiais são ouvidos por teleconferência a partir do seu local de trabalho.
 
-###### Artigo 621.º — [...]
+Artigo 621.º
+
+[...]
 
 As testemunhas depõem na audiência final, presencialmente ou através de teleconferência, excepto nos seguintes casos:
 
@@ -489,7 +638,9 @@ g) Inquirição por telefone, ao abrigo do disposto no artigo 639.º-B.
 
 h) ...
 
-###### Artigo 623.º — Inquirição por teleconferência
+Artigo 623.º
+
+Inquirição por teleconferência
 
 1 - As testemunhas residentes fora do círculo judicial, ou da respectiva ilha, no caso das Regiões Autónomas, são apresentadas pelas partes, nos termos do n.º 2 do artigo 628.º, quando estas assim o tenham declarado aquando do seu oferecimento, ou são ouvidas por teleconferência na própria audiência e a partir do tribunal da comarca da área da sua residência ou, caso nesta não existam ainda os meios necessários para tanto, a partir do tribunal da sede do círculo judicial da sua residência.
 
@@ -501,7 +652,9 @@ h) ...
 
 5 - Nas causas pendentes em tribunais sediados nas áreas metropolitanas de Lisboa e do Porto não se expedirá carta precatória nem existirá inquirição por teleconferência quando a testemunha a inquirir resida na respectiva circunscrição, ressalvando-se os casos previstos no artigo 639.º-B.
 
-###### Artigo 629.º — [...]
+Artigo 629.º
+
+[...]
 
 1 - ...
 
@@ -523,11 +676,15 @@ e) ...
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 630.º — [...]
+Artigo 630.º
+
+[...]
 
 A inquirição não pode ser adiada, sem acordo expresso das partes, por falta de testemunhas de que a parte não prescinda, e não pode haver segundo adiamento total da inquirição por falta da mesma ou de outra testemunha de qualquer das partes.
 
-###### Artigo 639.º-A.º — [...]
+Artigo 639.º-A.º
+
+[...]
 
 1 - ...
 
@@ -537,7 +694,9 @@ A inquirição não pode ser adiada, sem acordo expresso das partes, por falta d
 
 4 - Quando o entenda necessário, pode o juiz, oficiosamente ou a requerimento das partes, determinar, sendo ainda possível, a renovação do depoimento na sua presença, caso em que a testemunha será notificada pelo tribunal, ou a prestação de quaisquer esclarecimentos que se revelem necessários, por escrito a que se aplica o disposto nos números anteriores.
 
-###### Artigo 646.º — [...]
+Artigo 646.º
+
+[...]
 
 1 - A discussão e julgamento da causa são feitos com intervenção do tribunal colectivo se ambas as partes assim o tiverem requerido.
 
@@ -555,7 +714,9 @@ c) ...
 
 5 - (Anterior n.º 5.)
 
-###### Artigo 651.º — [...]
+Artigo 651.º
+
+[...]
 
 1 - Feita a chamada das pessoas que tenham sido convocadas, a audiência é aberta, só sendo adiada:
 
@@ -579,7 +740,9 @@ d) Se faltar algum dos advogados que tenha comunicado a impossibilidade da sua c
 
 7 - (Anterior n.º 5.)
 
-###### Artigo 690.º-A — [...]
+Artigo 690.º-A
+
+[...]
 
 1 - ...
 
@@ -595,7 +758,9 @@ b) ...
 
 5 - Nos casos referidos nos n.os 2 a 4, o tribunal de recurso procederá à audição ou visualização dos depoimentos indicados pelas partes, excepto se o juiz relator considerar necessária a sua transcrição, a qual será realizada por entidades externas para tanto contratadas pelo tribunal.
 
-###### Artigo 796.º — [...]
+Artigo 796.º
+
+[...]
 
 1 - ...
 
@@ -623,7 +788,9 @@ Notificações entre os mandatários das partes
 
 2 - O mandatário judicial que só assuma o patrocínio na pendência do processo, indicará o seu domicílio profissional ao mandatário judicial da contraparte.
 
-###### Artigo 236.º-A — Citação por via postal simples
+Artigo 236.º-A
+
+Citação por via postal simples
 
 1 - Nas acções para cumprimento de obrigações pecuniárias emergentes de contrato reduzido a escrito, a citação será efectuada mediante o envio de carta simples, dirigida ao citando e endereçada para o domicílio ou sede que tenha sido inscrito naquele contrato para identificação da parte, excepto se esta tiver expressamente convencionado um outro local onde se deva considerar domiciliada ou sediada para efeitos de realização da citação em caso de litígio.
 
@@ -643,7 +810,9 @@ b) Se a citação tiver sido realizada em data posterior à alteração do domic
 
 7 - Se não for possível proceder ao depósito da carta na caixa de correio do citando, o distribuidor do serviço postal lavrará nota do incidente, datando-a e remetendo-a de imediato ao tribunal, excepto no caso do depósito ser inviável em virtude das dimensões da carta, caso em que deixará um aviso nos termos do n.º 5 do artigo anterior.
 
-###### Artigo 238.º-A — Data e valor da citação por via postal
+Artigo 238.º-A
+
+Data e valor da citação por via postal
 
 1 - A citação postal registada efectuada ao abrigo do artigo 236.º considera-se feita no dia em que se mostrar assinado o aviso de recepção e tem-se por efectuada na própria pessoa do citando, mesmo quando o aviso de recepção haja sido assinado por terceiro, presumindo-se, salvo demonstração em contrário, que a carta foi oportunamente entregue ao destinatário.
 
@@ -653,7 +822,9 @@ b) Se a citação tiver sido realizada em data posterior à alteração do domic
 
 4 - Na situação prevista no n.º 3 do artigo anterior, a citação considera-se feita no dia e no local em que o distribuidor do serviço postal depositar a carta na caixa postal do último endereço para o qual seja remetido ou, se ocorrer a circunstância prevista no número anterior, no 8.º dia posterior à data do aviso que é deixado pelo distribuidor do serviço postal no último dos locais para os quais são remetidas as várias cartas, excepto se o réu acusar a recepção da carta num outro local.
 
-###### Artigo 260.º-A — Notificações entre os mandatários
+Artigo 260.º-A
+
+Notificações entre os mandatários
 
 1 - As notificações entre os mandatários judiciais das partes, nos termos do n.º 1 do artigo 229.º-A, são realizadas por todos os meios legalmente admissíveis para a prática dos actos processuais, aplicando-se o disposto nos artigos 150.º e 152.º
 
@@ -661,7 +832,9 @@ b) Se a citação tiver sido realizada em data posterior à alteração do domic
 
 3 - Se a notificação ocorrer no dia anterior a feriado, sábado, domingo ou férias judiciais, o prazo para a resposta a tal notificação inicia-se no primeiro dia útil seguinte ou no primeiro dia posterior ao termo das férias judiciais, respectivamente, salvo nos processos judiciais que correm termos durante as férias judiciais.
 
-###### Artigo 638.º-A — Inquirição por acordo das partes
+Artigo 638.º-A
+
+Inquirição por acordo das partes
 
 1 - Havendo acordo das partes, a testemunha pode ser inquirida pelos mandatários judiciais no domicílio profissional de um deles, devendo tal inquirição constar de uma acta, datada e assinada pelo depoente e pelos mandatários das partes, da qual conste a relação discriminada dos factos a que a testemunha assistiu ou que verificou pessoalmente e das razões de ciência invocadas, aplicando-se-lhe ainda disposto nos n.os 1, 2 e 4 do artigo 639.º-A.
 
@@ -681,7 +854,9 @@ Os artigos 1.º-A e 12.º-A do [Decreto-Lei n.º 269/98](https://diariodarepubli
 
 Nos casos de domicílio convencionado, nos termos do n.º 1 do artigo 2.º do diploma preambular, a citação efectua-se nos termos do artigo 236.º-A do Código de Processo Civil.
 
-###### Artigo 12.º-A — [...]
+Artigo 12.º-A
+
+[...]
 
 Nos casos de domicílio convencionado, nos termos do n.º 1 do artigo 2.º do diploma preambular, aplica-se à notificação o disposto no artigo 236.º-A do Código de Processo Civil, com as necessárias adaptações.»
 
@@ -719,12 +894,12 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 2001.
 
 Visto e aprovado em Conselho de Ministros de 7 de Julho de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - António Luís Santos Costa.
 
-**Promulgado em 27 de Julho de 2000.**
+Promulgado em 27 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Julho de 2000.**
+Referendado em 29 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

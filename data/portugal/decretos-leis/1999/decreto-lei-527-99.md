@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/286a00/87138713.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/527/1999/12/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/527-1999-632399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:14:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68490bfb90c88adb10991a797eb0183b3c02baeed302bcdd626a3ce3920c83f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8679fb1102b918d7ffc08be08ee3684ab0f74d5830e35bf9d71e15ed2d462a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:14:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Matadouro
-- Produto Alimentar
-- Produção Animal
+- Abate de Animais
 - Aproximação das Legislações
 - Armazenagem
+- Ave de Capoeira
 - Carcaça
 - Carne
-- Produto Cárneo
 - Carne de AVES de Capoeira
 - CEE
 - Certificado de Origem
+- Certificado de Qualidade
+- Comércio
 - Contra-ordenação
-- Direção Geral de Veterinária
-- Decisão CE
-- Direcção Regional de Agricultura
 - Controlo Sanitário
-- Saúde Pública
+- Decisão CE
+- Direção Geral de Veterinária
+- Direcção Regional de Agricultura
+- Embalagem
 - Fiscalização
-- Ave de Capoeira
 - Higiene Alimentar
 - Importação
-- Abate de Animais
+- Indústria Alimentar
 - Legislação Veterinária
-- Certificado de Qualidade
-- Embalagem
+- Matadouro
 - Política Agrícola Comum
+- Produção Animal
+- Produto Alimentar
+- Produto Cárneo
 - Proteção do Consumidor
 - Regulamento
-- Indústria Alimentar
-- Comércio
+- Saúde Pública
 - Veterinário
 relationships:
 - type: amended_by
@@ -114,16 +114,22 @@ relationships:
   target: celex:31997L0079
   label: null
   source: http://data.europa.eu/eli/dir/1997/79/oj
+- type: repealed_by
+  target: pt:dre:346359:por
+  label: "Revogado o Dec Lei 167/96, de 07-Set, na redacção do presente diploma, pelo DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A\
+    \ [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:14:43Z'
   warnings: []
   errors: []
 ---
@@ -148,12 +154,12 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 1 de Outubro de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos.
 
-**Promulgado em 19 de Novembro de 1999.**
+Promulgado em 19 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Novembro de 1999.**
+Referendado em 25 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

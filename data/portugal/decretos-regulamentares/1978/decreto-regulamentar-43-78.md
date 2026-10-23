@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/26800/24332441.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1978-325891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T05:59:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77cdc2179d28103d0d1d8caf71a4cc2cb57fc3ead3b58952501f6b63487a3d0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01ac8ad2b46739a5dc8ec1c3bc40c745dd0d1f6962a3ba96e468d97e2fd13d05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:59:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral de Protecção da Produção Agrícola
+- Orgânica
+- Quadro de Pessoal
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:153129:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281379:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:153129:por
+  label: "Revogado pelo DEC LEI.5-A/88.14.01.1988.MAPA, DR.IS [11]2ºSupl de 14.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-a-1988-153129
+  date: '1988-01-14'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:59:04Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +114,11 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição e
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Direcção-Geral de Protecção da Produção Agrícola, do Ministério da Agricultura e Pescas, abreviadamente designada por DGPPA, criada pelo artigo 42.º e alínea h) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), é um organismo dotado de autonomia administrativa que exerce a sua acção em todo o território nacional.
+Artigo 1.º A Direcção-Geral de Protecção da Produção Agrícola, do Ministério da Agricultura e Pescas, abreviadamente designada por DGPPA, criada pelo artigo 42.º e alínea h) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), é um organismo dotado de autonomia administrativa que exerce a sua acção em todo o território nacional.
 
-###### Art. 2.º As atribuições da Direcção-Geral de Protecção da Produção Agrícola são as constantes do artigo 30.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
+Art. 2.º As atribuições da Direcção-Geral de Protecção da Produção Agrícola são as constantes do artigo 30.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
 
-###### Art. 3.º - 1 - A Direcção-Geral de Protecção da Produção Agrícola disporá das seguintes receitas próprias:
+Art. 3.º - 1 - A Direcção-Geral de Protecção da Produção Agrícola disporá das seguintes receitas próprias:
 
 a) As quantias recebidas em pagamento de actividades remuneradas;
 
@@ -108,19 +130,19 @@ c) Quaisquer outras receitas que lhe sejam atribuídas por lei.
 
 3 - Os saldos das dotações não utilizadas serão transferidos para o ano económico subsequente.
 
-###### Art. 4.º A Direcção-Geral de Protecção da Produção Agrícola é dirigida por um director-geral, coadjuvado por um subdirector-geral que o substituirá nas suas ausências e impedimentos.
+Art. 4.º A Direcção-Geral de Protecção da Produção Agrícola é dirigida por um director-geral, coadjuvado por um subdirector-geral que o substituirá nas suas ausências e impedimentos.
 
 ### CAPÍTULO II — Órgãos e serviços
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 5.º São órgãos da Direcção-Geral de Protecção da Produção Agrícola:
+Art. 5.º São órgãos da Direcção-Geral de Protecção da Produção Agrícola:
 
 a) O conselho técnico;
 
 b) O conselho administrativo.
 
-###### Art. 6.º - 1 - O conselho técnico é constituído pelos seguintes membros:
+Art. 6.º - 1 - O conselho técnico é constituído pelos seguintes membros:
 
 a) O director-geral da DGPPA, que presidirá;
 
@@ -140,7 +162,7 @@ f) Os directores de serviço da DGPPA.
 
 4 - Sempre que se mostre conveniente, serão convocados ou convidados com estatuto consultivo outros elementos do Ministério da Agricultura e Pescas ou a ele estranhos, nomeadamente clientelas da Direcção-Geral, especialmente qualificados para o esclarecimento das matérias em apreciação.
 
-###### Art. 7.º - 1 - Ao conselho técnico compete, designadamente, emitir parecer sobre:
+Art. 7.º - 1 - Ao conselho técnico compete, designadamente, emitir parecer sobre:
 
 a) Os projectos de diploma que interfiram com a actividade da Direcção-Geral de Protecção da Produção Agrícola;
 
@@ -168,11 +190,11 @@ b) Elaborar as actas das reuniões e desenvolver as acções delas resultantes;
 
 c) Assegurar o arquivo e o expediente do conselho.
 
-###### Art. 8.º - 1 - O conselho técnico funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo o plenário ordinariamente, pelo menos, duas vezes por ano e extraordinariamente sempre que o presidente o convoque.
+Art. 8.º - 1 - O conselho técnico funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo o plenário ordinariamente, pelo menos, duas vezes por ano e extraordinariamente sempre que o presidente o convoque.
 
 2 - Os assuntos submetidos à apreciação do conselho técnico são resolvidos por maioria simples dos membros presentes, tendo o presidente voto de qualidade.
 
-###### Art. 9.º - 1 - O conselho administrativo é constituído pelos seguintes membros:
+Art. 9.º - 1 - O conselho administrativo é constituído pelos seguintes membros:
 
 a) O director-geral, que presidirá;
 
@@ -184,7 +206,7 @@ d) O chefe da Repartição Administrativa.
 
 2 - Servirá de secretário o funcionário que for designado pelo director-geral.
 
-###### Art. 10.º - 1 - Compete ao conselho administrativo a gestão financeira do organismo, designadamente:
+Art. 10.º - 1 - Compete ao conselho administrativo a gestão financeira do organismo, designadamente:
 
 a) Elaborar o projecto de orçamento da Direcção-Geral de conta das dotações consignadas no OGE;
 
@@ -216,7 +238,7 @@ d) Convocar e dirigir as reuniões do conselho.
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 11.º São os seguintes os serviços da Direcção-Geral de Protecção da Produção Agrícola:
+Art. 11.º São os seguintes os serviços da Direcção-Geral de Protecção da Produção Agrícola:
 
 A) Serviços operativos:
 
@@ -246,11 +268,11 @@ e) Repartição Administrativa.
 
 ##### SUBSECÇÃO I — Dos serviços operativos
 
-###### Art. 12.º - 1 - A Direcção de Serviços de Homologação tem como atribuições a homologação dos produtos fitofarmacêuticos, adubos e correctivos, a preparação da informação decorrente desta homologação tendo em vista a sua divulgação, a caracterização do material de aplicação dos produtos fitofarmacêuticos e a recolha e análise estatística de dados no domínio da protecção da produção agrícola.
+Art. 12.º - 1 - A Direcção de Serviços de Homologação tem como atribuições a homologação dos produtos fitofarmacêuticos, adubos e correctivos, a preparação da informação decorrente desta homologação tendo em vista a sua divulgação, a caracterização do material de aplicação dos produtos fitofarmacêuticos e a recolha e análise estatística de dados no domínio da protecção da produção agrícola.
 
 2 - A Direcção de Serviços de Homologação assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 13.º A Direcção de Serviços de Homologação é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 13.º A Direcção de Serviços de Homologação é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) De Homologação de Produtos Fitofarmacêuticos;
 
@@ -258,7 +280,7 @@ b) De Homologação de Adubos e Correctivos;
 
 c) De Estatística e Avaliação.
 
-###### Art. 14.º À Divisão de Homologação de Produtos Fitofarmacêuticos compete, designadamente:
+Art. 14.º À Divisão de Homologação de Produtos Fitofarmacêuticos compete, designadamente:
 
 a) Recolher e tratar os elementos de carácter físico-químico, biológico e toxicológico fornecidos pelas empresas, produzidos nos ensaios oficiais e referidos na documentação técnica, com vista à homologação dos produtos fitofarmacêuticos;
 
@@ -268,7 +290,7 @@ c) Tratar a informação decorrente da homologação dos produtos fitofarmacêut
 
 d) Colaborar na caracterização do material de aplicação de produtos fitofarmacêuticos.
 
-###### Art. 15.º À Divisão de Homologação de Adubos e Correctivos compete, designadamente:
+Art. 15.º À Divisão de Homologação de Adubos e Correctivos compete, designadamente:
 
 a) Recolher e tratar os elementos de carácter físico-químico e agronómico fornecidos pelas empresas, produzidos nos ensaios oficiais e referidos na documentação técnica, com vista à homologação dos adubos e correctivos;
 
@@ -276,7 +298,7 @@ b) Actualizar os pareceres de homologação dos adubos e correctivos de acordo c
 
 c) Tratar a informação decorrente da homologação dos adubos e correctivos.
 
-###### Art. 16.º À Divisão de Estatística e Avaliação compete, designadamente:
+Art. 16.º À Divisão de Estatística e Avaliação compete, designadamente:
 
 a) Proceder e dar parecer a delineamentos estatísticos para as actividades no âmbito da DGPPA;
 
@@ -286,11 +308,11 @@ c) Preparar os elementos de índole estatística no âmbito da DGPPA;
 
 d) Estabelecer os planos de produção de indicadores estatísticos de metodologia técnico-económicos para o sector de protecção da produção agrícola e recolher as informações a eles respeitantes.
 
-###### Art. 17.º - 1 - A Direcção de Serviços de Contrôle de Qualidade de Sementes tem como atribuições a apreciação das sementes, em laboratório, estufa e campo, quanto aos aspectos de purezas específica e varietal, germinação e sanidade, com vista à sua qualificação e certificação, assegurando ao agricultor a utilização de sementes de origem nacional ou importada, de alta qualidade.
+Art. 17.º - 1 - A Direcção de Serviços de Contrôle de Qualidade de Sementes tem como atribuições a apreciação das sementes, em laboratório, estufa e campo, quanto aos aspectos de purezas específica e varietal, germinação e sanidade, com vista à sua qualificação e certificação, assegurando ao agricultor a utilização de sementes de origem nacional ou importada, de alta qualidade.
 
 2 - A Direcção de Serviços de Contrôle de Qualidade de Sementes assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das restantes atribuições que lhe estão conferidas.
 
-###### Art. 18.º A Direcção de Serviços de Contrôle de Qualidade de Sementes é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 18.º A Direcção de Serviços de Contrôle de Qualidade de Sementes é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) De Amostragem;
 
@@ -302,7 +324,7 @@ d) De Contrôle de Sanidade;
 
 e) De Contrôle Varietal.
 
-###### Art. 19.º À Divisão de Amostragem compete, designadamente:
+Art. 19.º À Divisão de Amostragem compete, designadamente:
 
 a) Promover, orientar e colaborar na colheita de amostras de sementes, tendo em vista o seu contrôle relativamente às características em vigor e o apoio à fiscalização;
 
@@ -310,7 +332,7 @@ b) Proceder à recepção, registo e preparação das amostras de sementes para 
 
 c) Recolher e tratar a informação proveniente das análises laboratoriais e das inspecções de searas e apreciar a literatura referente à comercialização de sementes.
 
-###### Art. 20.º À Divisão de Contrôle de Pureza e Calibragem compete, designadamente:
+Art. 20.º À Divisão de Contrôle de Pureza e Calibragem compete, designadamente:
 
 a) Proceder ao contrôle laboratorial da pureza e da identificação específica de sementes;
 
@@ -318,7 +340,7 @@ b) Proceder à caracterização de técnicas de microlimpeza e de calibragem, te
 
 c) Proceder à determinação da humidade e à pesquisa de espécies interditas.
 
-###### Art. 21.º À Divisão de Contrôle de Germinação compete, designadamente:
+Art. 21.º À Divisão de Contrôle de Germinação compete, designadamente:
 
 a) Proceder à caracterização da faculdade germinativa das sementes;
 
@@ -326,7 +348,7 @@ b) Caracterizar a capacidade e o vigor germinativo das sementes;
 
 c) Caracterizar o valor agrícola das sementes, recorrendo a correlações entre a germinação no laboratório e no campo.
 
-###### Art. 22.º À Divisão de Contrôle de Sanidade compete, designadamente:
+Art. 22.º À Divisão de Contrôle de Sanidade compete, designadamente:
 
 a) Caracterizar o estado sanitário de sementes importadas e de produção nacional;
 
@@ -336,7 +358,7 @@ c) Propor medidas restritivas à introdução no País de doenças transmissíve
 
 d) Estabecer os limites de tolerância a admitir para os agentes patogénicos transmissíveis pelas sementes, propor a sua aprovação e fazer cumprir os limites de tolerância em vigor.
 
-###### Art. 23.º À Divisão de Contrôle Varietal compete, designadamente:
+Art. 23.º À Divisão de Contrôle Varietal compete, designadamente:
 
 a) Caracterizar a genuinidade e a pureza varietal das sementes;
 
@@ -346,11 +368,11 @@ c) Proceder à apreciação e qualificação de searas para a produção de seme
 
 d) Promover, orientar e colaborar na apreciação de culturas destinadas à produção de semente a certificar.
 
-###### Art. 24.º - 1 - A Direcção de Serviços de Propagação Vegetativa tem como atribuições a produção de material de propagação vegetativa de base e de batata-semente, o contrôle de qualidade destes materiais e a assistência técnica às respectivas clientelas, nomeadamente a viveiristas e a produtores de batata-semente.
+Art. 24.º - 1 - A Direcção de Serviços de Propagação Vegetativa tem como atribuições a produção de material de propagação vegetativa de base e de batata-semente, o contrôle de qualidade destes materiais e a assistência técnica às respectivas clientelas, nomeadamente a viveiristas e a produtores de batata-semente.
 
 2 - A Direcção de Serviços de Propagação Vegetativa assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 25.º A Direcção de Serviços de Propagação Vegetativa é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 25.º A Direcção de Serviços de Propagação Vegetativa é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) De Produção de Material de Propagação Vegetativa;
 
@@ -358,7 +380,7 @@ b) De Contrôle de Material de Propagação Vegetativa;
 
 c) De Batata-Semente.
 
-###### Art. 26.º À Divisão de Produção de Material de Propagação Vegetativa compete, designadamente:
+Art. 26.º À Divisão de Produção de Material de Propagação Vegetativa compete, designadamente:
 
 a) Seleccionar e multiplicar o material de propagação vegetativa a partir de material pré-multiplicado de origem nacional ou estrangeira;
 
@@ -368,7 +390,7 @@ c) Promover a inscrição oficial dos viveiristas e elaborar a lista dos viveiri
 
 d) Elaborar, com a colaboração das clientelas interessadas, as propostas de listas de material de propagação vegetativa.
 
-###### Art. 27.º À Divisão de Contrôle de Material de Propagação Vegetativa compete, designadamente:
+Art. 27.º À Divisão de Contrôle de Material de Propagação Vegetativa compete, designadamente:
 
 a) Promover a inspecção dos viveiros, em colaboração com os serviços regionais de agricultura;
 
@@ -376,7 +398,7 @@ b) Proceder à certificação varietal e fitossanitária do material de propaga�
 
 c) Proceder, em laboratório, estufa e campo, ao contrôle de qualidade do material de propagação vegetativa.
 
-###### Art. 28.º À Divisão de Batata-Semente compete, designadamente:
+Art. 28.º À Divisão de Batata-Semente compete, designadamente:
 
 a) Promover a inscrição oficial dos produtores de batata-semente e elaborar a sua lista;
 
@@ -390,11 +412,11 @@ e) Proceder à certificação varietal e fitossanitária de batata-semente de or
 
 f) Proceder ao contrôle de qualidade da batata-semente de origem nacional e importada.
 
-###### Art. 29.º - 1 - A Direcção de Serviços de Toxicologia e Análises tem como atribuições o contrôle de qualidade de formulações de pesticidas, adubos e correctivos, a defesa do meio ambiente, tendo em vista a actividade agrícola e a racionalização do uso dos pesticidas sob o ponto de vista toxicológico.
+Art. 29.º - 1 - A Direcção de Serviços de Toxicologia e Análises tem como atribuições o contrôle de qualidade de formulações de pesticidas, adubos e correctivos, a defesa do meio ambiente, tendo em vista a actividade agrícola e a racionalização do uso dos pesticidas sob o ponto de vista toxicológico.
 
 2 - A Direcção de Serviços de Toxicologia e Análises assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, nomeadamente com a Comissão de Toxicologia dos Pesticidas, a que dá apoio no campo da toxicologia e secretariado, de forma a garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 30.º A Direcção dos Serviços de Toxicologia e Análises é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 30.º A Direcção dos Serviços de Toxicologia e Análises é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) De Análises de Formulações;
 
@@ -402,7 +424,7 @@ b) De Toxicologia e Resíduos;
 
 c) De Contaminação.
 
-###### Art. 31.º À Divisão de Análises de Formações compete, designadamente:
+Art. 31.º À Divisão de Análises de Formações compete, designadamente:
 
 a) Caracterizar, em laboratório, as propriedades físicas e químicas dos pesticidas, adubos e correctivos, tendo em vista a sua homologação;
 
@@ -410,7 +432,7 @@ b) Caracterizar, em laboratório, as propriedades físicas e químicas de amostr
 
 c) Proceder à apreciação dos processos de homologação, no âmbito da sua especialidade.
 
-###### Art. 32.º À Divisão de Toxicologia e Resíduos compete, designadamente:
+Art. 32.º À Divisão de Toxicologia e Resíduos compete, designadamente:
 
 a) Proceder à recolha e tratamento da informação referente à toxicologia dos pesticidas, tendo em vista a elaboração de pareceres, de propostas de precauções e outras restrições toxicológicas e de material de divulgação;
 
@@ -424,7 +446,7 @@ e) Proceder à prospecção de práticas fitossanitárias não aceitáveis por r
 
 f) Proceder, em laboratório, à caracterização dos resíduos de pesticidas em produtos agrícolas.
 
-###### Art. 33.º À Divisão de Contaminação compete, designadamente:
+Art. 33.º À Divisão de Contaminação compete, designadamente:
 
 a) Promover e colaborar nos estudos, projectos e regulamentação sobre a defesa do meio ambiente, tendo em vista a protecção da actividade agrícola;
 
@@ -436,11 +458,11 @@ d) Propor medidas para a adequada utilização dos factores de produção agríc
 
 e) Proceder à apreciação dos processos de homologação no âmbito da sua especialidade.
 
-###### Artigo 34.º - 1 - A Direcção de Serviços de Protecção Fitossanitária tem como atribuições a manutenção e actualização dos sistemas de avisos, a elaboração para divulgação de esquemas tipo de tratamentos fitossanitários, a inspecção fitossanitária e o regime de quarentena para plantas e partes de plantas, o contrôle de qualidade de plantas e partes de plantas importadas e a manutenção e actualização da rede meteorológica para fins agrícolas, da rede de postos de observação biológicos e de outro equipamento especializado.
+Artigo 34.º - 1 - A Direcção de Serviços de Protecção Fitossanitária tem como atribuições a manutenção e actualização dos sistemas de avisos, a elaboração para divulgação de esquemas tipo de tratamentos fitossanitários, a inspecção fitossanitária e o regime de quarentena para plantas e partes de plantas, o contrôle de qualidade de plantas e partes de plantas importadas e a manutenção e actualização da rede meteorológica para fins agrícolas, da rede de postos de observação biológicos e de outro equipamento especializado.
 
 2 - A Direcção de Serviços de Protecção Fitossanitária assegura a ligação com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, de forma a garantir a efectivação das atribuições que lhe estão cometidas, nomeadamente o cumprimento do preconizado nas convenções internacionais fitossanitárias que o País ratifica ou a que adere.
 
-###### Art. 35.º A Direcção de Serviços de Protecção Fitossanitária é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 35.º A Direcção de Serviços de Protecção Fitossanitária é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) De Avisos e Esquemas de Tratamentos;
 
@@ -448,7 +470,7 @@ b) De Inspecção Fitossanitária;
 
 c) De Meteorologia.
 
-###### Art. 36.º À Divisão de Avisos e Esquemas de Tratamentos compete, designadamente:
+Art. 36.º À Divisão de Avisos e Esquemas de Tratamentos compete, designadamente:
 
 a) Recolher e tratar a informação necessária ao estabelecimento e actualização da metodologia e técnicas de previsão de tratamentos fitossanitários;
 
@@ -460,7 +482,7 @@ d) Definir e actualizar os processos mais adequados à difusão dos avisos e col
 
 e) Recolher a informação necessária para a caracterização dos indicadores estatísticos de contrôle técnico-económico da rede de avisos.
 
-###### Art. 37.º À Divisão de Inspecção Fitossanitária compete, designadamente:
+Art. 37.º À Divisão de Inspecção Fitossanitária compete, designadamente:
 
 a) Dar cumprimento ao preconizado nas convenções internacionais fitossanitárias que o País ratifica ou a que adere;
 
@@ -474,7 +496,7 @@ e) Dar cumprimento ao regime de quarentena para plantas e partes de plantas;
 
 f) Proceder ao contrôle de qualidade, através de acções em laboratório, estufa e campo, de plantas originadas de plantas ou partes de plantas importadas.
 
-###### Art. 38.º À Divisão de Meteorologia compete, designadamente:
+Art. 38.º À Divisão de Meteorologia compete, designadamente:
 
 a) Proceder à manutenção técnica dos equipamentos e à actualização da rede meteorológica necessária ao desempenho das atribuições da DGPPA;
 
@@ -484,7 +506,7 @@ c) Recolher e tratar os dados da rede meteorológica referida na alínea a);
 
 d) Colaborar na montagem de postos de observação biológica e proceder à manutenção técnica e actualização dos seus equipamentos.
 
-###### Art. 39.º A Divisão de Produção de Sementes é dirigida por um chefe de divisão, competindo-lhe a coordenação da produção de semente base e de sementes das gerações seguintes e, designadamente:
+Art. 39.º A Divisão de Produção de Sementes é dirigida por um chefe de divisão, competindo-lhe a coordenação da produção de semente base e de sementes das gerações seguintes e, designadamente:
 
 a) Coordenar e orientar a produção de semente base das cultivares incluídas na lista nacional de variedades das espécies agrícolas a certificar;
 
@@ -496,17 +518,17 @@ d) Informar sobre as medidas tendentes ao abastecimento do País em semente de q
 
 ##### SUBSECÇÃO II — Dos serviços de apoio
 
-###### Art. 40.º - 1 - A Direcção de Serviços de Planeamento e Ordenamento tem como atribuições a programação da Direcção-Geral de Protecção da Produção Agrícola, o ordenamento da produção agrícola no âmbito da fitossanidade e do material de propagação vegetativa e a informação da legislação interessando esta Direcção-Geral ou com incidência nas suas clientelas.
+Art. 40.º - 1 - A Direcção de Serviços de Planeamento e Ordenamento tem como atribuições a programação da Direcção-Geral de Protecção da Produção Agrícola, o ordenamento da produção agrícola no âmbito da fitossanidade e do material de propagação vegetativa e a informação da legislação interessando esta Direcção-Geral ou com incidência nas suas clientelas.
 
 2 - A Direcção de Serviços de Planeamento e Ordenamento assegura as ligações com outras unidades do Ministério da Agricultura e Pescas, nomeadamente o Gabinete de Planeamento e a Auditoria Jurídica, ou outras estranhas a este Ministério, de forma a garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 41.º A Direcção de Serviços de Planeamento e Ordenamento é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 41.º A Direcção de Serviços de Planeamento e Ordenamento é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) De Planeamento e Contrôle;
 
 b) De Ordenamento.
 
-###### Art. 42.º À Divisão de Planeamento e Contrôle compete, designadamente:
+Art. 42.º À Divisão de Planeamento e Contrôle compete, designadamente:
 
 a) Promover e coordenar a elaboração dos programas e projectos de trabalho, bem como assegurar a sua apresentação;
 
@@ -516,7 +538,7 @@ c) Assegurar a elaboração do relatório anual da DGPPA;
 
 d) Propor modificações à legislação relacionada com as actividades da DGPPA ou com incidência nas suas clientelas e informar sobre essa legislação.
 
-###### Art. 43.º À Divisão de Ordenamento compete, designadamente:
+Art. 43.º À Divisão de Ordenamento compete, designadamente:
 
 a) Recolher e tratar os dados disponíveis no domínio da fitossanidade e no do material de propagação vegetativa com vista à regulamentação do ordenamento da produção agrícola;
 
@@ -524,11 +546,11 @@ b) Recolher e tratar os dados disponíveis com vista à definição e implantaç
 
 c) Propor as medidas a tomar para que se utilizem, nos sistemas de culturas regionais, as cultivares mais adequadas.
 
-###### Art. 44.º - 1 - A Direcção de Serviços de Sanidade Vegetal tem como atribuições a caracterização biológica dos produtos fitofarmacêuticos, a caracterização do comportamento de pragas, agentes patogénicos e infestantes e das zonas sujeitas às suas influências e o estabelecimento de medidas necessárias ao seu contrôle.
+Art. 44.º - 1 - A Direcção de Serviços de Sanidade Vegetal tem como atribuições a caracterização biológica dos produtos fitofarmacêuticos, a caracterização do comportamento de pragas, agentes patogénicos e infestantes e das zonas sujeitas às suas influências e o estabelecimento de medidas necessárias ao seu contrôle.
 
 2 - A Direcção de Serviços de Sanidade Vegetal assegura o apoio, no âmbito das suas especialidades, às direcções regionais de agricultura, nomeadamente através da organização de colecções ou preparações de insectos, ácaros e agentes patogénicos, de herbários e de outro material que facilite a identificação de pragas, doenças e infestantes, e, também, a colaboração com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas.
 
-###### Art. 45.º A Direcção de Serviços de Sanidade Vegetal é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 45.º A Direcção de Serviços de Sanidade Vegetal é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) De Diagnose e Zonagem de Pragas e Doenças;
 
@@ -538,7 +560,7 @@ c) De Contrôle de Pragas e Doenças;
 
 d) De Infestantes.
 
-###### Art. 46.º À Divisão de Diagnose e Zonagem de Pragas e Doenças compete, designadamente:
+Art. 46.º À Divisão de Diagnose e Zonagem de Pragas e Doenças compete, designadamente:
 
 a) Proceder à recolha de elementos sobre a identificação e distribuição de pragas e agentes patogénicos, efectuar a sua identificação e organizar colecções, preparações ou outro material similar;
 
@@ -546,7 +568,7 @@ b) Proceder à caracterização das zonas sujeitas às principais pragas das cul
 
 c) Colaborar no estabelecimento de novos métodos, com vista à detecção das pragas e das doenças, bem como dos seus agentes causais, que afectam as culturas e os produtos agrícolas quando armazenados.
 
-###### Art. 47.º À Divisão de Caracterização Bioecológica de Pragas e Agentes Patogénicos compete, designadamente:
+Art. 47.º À Divisão de Caracterização Bioecológica de Pragas e Agentes Patogénicos compete, designadamente:
 
 a) Promover ou efectuar a caracterização do comportamento bioecológico de pragas e agentes patogénicos em laboratório, estufa e campo, com vista ao seu contrôle tecnicamente fundamentado;
 
@@ -554,7 +576,7 @@ b) Estabelecer métodos de previsão da oportunidade dos tratamentos fitossanit�
 
 c) Recolher e tratar os dados disponíveis e proceder à síntese dos conhecimentos bioecológicos sobre as pragas e doenças das principais culturas, com vista à sua integração em esquemas tipo de tratamentos.
 
-###### Art. 48.º À Divisão de Contrôle de Pragas e Doenças compete, designadamente:
+Art. 48.º À Divisão de Contrôle de Pragas e Doenças compete, designadamente:
 
 a) Proceder à caracterização biológica dos pesticidas em laboratório, estufa e campo, com excepção dos herbicidas, tendo em vista, nomeadamente, a sua homologação;
 
@@ -566,7 +588,7 @@ d) Colaborar no estabelecimento de novos métodos e técnicas de contrôle das p
 
 e) Colaborar no estabelecimento de regras fitossanitárias aplicáveis à prática do armazenamento e na definição das características a que devem obedecer as estruturas a ele destinadas.
 
-###### Art. 49.º À Divisão de Infestantes compete, designadamente:
+Art. 49.º À Divisão de Infestantes compete, designadamente:
 
 a) Proceder à caracterização biológica, em laboratório, estufa e campo, dos herbicidas e dos antiabrolhantes e à apreciação dos processos de homologação destes produtos fitofarmacêuticos;
 
@@ -578,7 +600,7 @@ d) Coordenar e orientar as acções conducentes ao adequado contrôle de infesta
 
 e) Recolher os dados disponíveis e proceder à síntese dos conhecimentos sobre a utilização dos herbicidas com vista à sua integração nos sistemas culturais.
 
-###### Art. 50.º A Divisão de Organização e Recursos Humanos é dirigida por um chefe de divisão, competindo-lhe, sob orientação directa do correspondente serviço central do Ministério da Agricultura e Pescas, designadamente:
+Art. 50.º A Divisão de Organização e Recursos Humanos é dirigida por um chefe de divisão, competindo-lhe, sob orientação directa do correspondente serviço central do Ministério da Agricultura e Pescas, designadamente:
 
 a) Colaborar na identificação e análise dos subsistemas orgânicos da DGPPA e na sua integração nos sistemas orgânicos do Ministério;
 
@@ -590,7 +612,7 @@ d) Propor necessidades de formação profissional do pessoal da DGPPA, de modo q
 
 e) Assegurar o acolhimento aos funcionários recém-admitidos.
 
-###### Art. 51.º A Divisão de Informação e Documentação Técnica é dirigida por um chefe de divisão, competindo-lhe, em colaboração com o correspondente serviço central do Ministério da Agricultura e Pescas, designadamente:
+Art. 51.º A Divisão de Informação e Documentação Técnica é dirigida por um chefe de divisão, competindo-lhe, em colaboração com o correspondente serviço central do Ministério da Agricultura e Pescas, designadamente:
 
 a) Organizar e gerir a biblioteca da DGPPA;
 
@@ -606,9 +628,9 @@ f) Assegurar a edição da revista da DGPPA e de outras publicações;
 
 g) Organizar a participação da DGPPA em feiras e exposições.
 
-###### Art. 52.º A Repartição Administrativa tem como atribuições a administração do pessoal, patrimonial e financeira e o arquivo e expediente, no âmbito da Direcção-Geral de Protecção da Produção Agrícola, tendo em atenção as disposições vigentes e as directivas emanadas da Secretaria-Geral do Ministério da Agricultura e Pescas.
+Art. 52.º A Repartição Administrativa tem como atribuições a administração do pessoal, patrimonial e financeira e o arquivo e expediente, no âmbito da Direcção-Geral de Protecção da Produção Agrícola, tendo em atenção as disposições vigentes e as directivas emanadas da Secretaria-Geral do Ministério da Agricultura e Pescas.
 
-###### Art. 53.º A Repartição Administrativa é dirigida por um chefe de repartição e compreende as seguintes secções:
+Art. 53.º A Repartição Administrativa é dirigida por um chefe de repartição e compreende as seguintes secções:
 
 a) De Expediente, Arquivo e Administração do Pessoal;
 
@@ -616,7 +638,7 @@ b) De Administração Financeira;
 
 c) De Administração Patrimonial.
 
-###### Art. 54.º À Secção de Expediente, Arquivo e Administração do Pessoal compete, designadamente:
+Art. 54.º À Secção de Expediente, Arquivo e Administração do Pessoal compete, designadamente:
 
 a) Assegurar a recepção e expedição de toda a correspondência e demais documentos da DGPPA e promover os circuitos de distribuição;
 
@@ -630,7 +652,7 @@ e) Assegurar as operações de administração do pessoal da DGPPA;
 
 f) Organizar e manter actualizado o registo biográfico de todos os funcionários da DGPPA.
 
-###### Art. 55.º À Secção de Administração Financeira compete, designadamente:
+Art. 55.º À Secção de Administração Financeira compete, designadamente:
 
 a) Preparar os elementos para a elaboração dos orçamentos e das respectivas alterações e executar a contabilidade;
 
@@ -642,7 +664,7 @@ d) Elaborar as requisições de fundos;
 
 e) Elaborar a conta anual de gerência.
 
-###### Art. 56.º À Secção de Administração Patrimonial compete, designadamente:
+Art. 56.º À Secção de Administração Patrimonial compete, designadamente:
 
 a) Assegurar a gestão do património da DGPPA, zelando pela conservação e manutenção dos edifícios, bens duradouros, maquinaria, equipamento e material de transporte e manter actualizado o respectivo cadastro;
 
@@ -652,48 +674,48 @@ c) Organizar e manter actualizado o inventário.
 
 ### CAPÍTULO III — Regime de substituição
 
-###### Art. 57.º Os directores de serviços são substituídos nas suas ausências e impedimentos pelo chefe de divisão da direcção de serviços que for designado, para o efeito, por despacho ministerial, sob proposta do director-geral, ou, na falta de designação, pelo chefe de divisão mais antigo da direcção de serviços.
+Art. 57.º Os directores de serviços são substituídos nas suas ausências e impedimentos pelo chefe de divisão da direcção de serviços que for designado, para o efeito, por despacho ministerial, sob proposta do director-geral, ou, na falta de designação, pelo chefe de divisão mais antigo da direcção de serviços.
 
-###### Art. 58.º Os chefes de divisões autónomas são substituídos nas suas ausências e impedimentos pelo técnico superior da divisão que, sob proposta do director-geral, for designado por despacho ministerial ou, na falta de designação, pelo técnico superior mais antigo da divisão.
+Art. 58.º Os chefes de divisões autónomas são substituídos nas suas ausências e impedimentos pelo técnico superior da divisão que, sob proposta do director-geral, for designado por despacho ministerial ou, na falta de designação, pelo técnico superior mais antigo da divisão.
 
-###### Art. 59.º O chefe da Repartição Administrativa é substituído nas suas ausências e impedimentos pelo chefe de secção da Repartição Administrativa da Direcção-Geral que for designado para o efeito por despacho ministerial, sob proposta do director-geral, ou, na falta de designação, pelo chefe de secção da Repartição Administrativa mais antigo da Direcção-Geral.
+Art. 59.º O chefe da Repartição Administrativa é substituído nas suas ausências e impedimentos pelo chefe de secção da Repartição Administrativa da Direcção-Geral que for designado para o efeito por despacho ministerial, sob proposta do director-geral, ou, na falta de designação, pelo chefe de secção da Repartição Administrativa mais antigo da Direcção-Geral.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 60.º A Direcção-Geral de Protecção da Produção Agrícola, para o desempenho das suas atribuições, disporá do contingente de pessoal dirigente e do pessoal dos quadros únicos constantes do mapa anexo ao presente diploma.
+Art. 60.º A Direcção-Geral de Protecção da Produção Agrícola, para o desempenho das suas atribuições, disporá do contingente de pessoal dirigente e do pessoal dos quadros únicos constantes do mapa anexo ao presente diploma.
 
-###### Art. 61.º - 1 - Os lugares dos quadros únicos do Ministério da Agricultura e Pescas que vierem a vagar por motivo de provimento dos seus titulares em lugares de pessoal dirigente da Direcção-Geral de Protecção da Produção Agrícola só poderão ser preenchidos mediante a observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro.
+Art. 61.º - 1 - Os lugares dos quadros únicos do Ministério da Agricultura e Pescas que vierem a vagar por motivo de provimento dos seus titulares em lugares de pessoal dirigente da Direcção-Geral de Protecção da Produção Agrícola só poderão ser preenchidos mediante a observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro.
 
 2 - O montante dos vencimentos correspondentes aos lugares vagos referidos no número anterior será abatido na dotação orçamental correspondente, enquanto se mantiver aquela situação.
 
 ### CAPÍTULO V — Disposições gerais e finais
 
-###### Art. 62.º - 1 - A Direcção-Geral de Protecção da Produção Agrícola poderá, sem prejuízo das funções que lhe estão cometidas, realizar quaisquer trabalhos que lhe sejam solicitados por entidades públicas, cooperativas ou privadas.
+Art. 62.º - 1 - A Direcção-Geral de Protecção da Produção Agrícola poderá, sem prejuízo das funções que lhe estão cometidas, realizar quaisquer trabalhos que lhe sejam solicitados por entidades públicas, cooperativas ou privadas.
 
 2 - Os serviços prestados serão cobrados de harmonia com a tabela de preços que vier a ser aprovada por despacho ministerial.
 
-###### Art. 63.º Mediante autorização ministerial e sob proposta fundamentada da Direcção-Geral de Protecção da Produção Agrícola, poderão ser celebrados contratos ou termos de tarefa com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das atribuições a ela cometidas.
+Art. 63.º Mediante autorização ministerial e sob proposta fundamentada da Direcção-Geral de Protecção da Produção Agrícola, poderão ser celebrados contratos ou termos de tarefa com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das atribuições a ela cometidas.
 
-###### Art. 64.º A Direcção-Geral de Protecção da Produção Agrícola poderá promover a realização de cursos de actualização técnico-profissional para o seu pessoal e conceder-lhe bolsas de estudo, de harmonia com a política de formação que vier a ser definida.
+Art. 64.º A Direcção-Geral de Protecção da Produção Agrícola poderá promover a realização de cursos de actualização técnico-profissional para o seu pessoal e conceder-lhe bolsas de estudo, de harmonia com a política de formação que vier a ser definida.
 
-###### Art. 65.º - 1 - A cobrança coerciva das dívidas à Direcção-Geral de Protecção da Produção Agrícola provenientes de taxas ou outros rendimentos cuja obrigação de pagamento haja sido reconhecida por despacho ministerial realizar-se-á através do processo de execução fiscal.
+Art. 65.º - 1 - A cobrança coerciva das dívidas à Direcção-Geral de Protecção da Produção Agrícola provenientes de taxas ou outros rendimentos cuja obrigação de pagamento haja sido reconhecida por despacho ministerial realizar-se-á através do processo de execução fiscal.
 
 2 - Servirá de base à execução fiscal a certidão extraída dos livros ou documentos, passada pelos serviços competentes, onde se certifique o montante da dívida e a sua proveniência.
 
-###### Art. 66.º As atribuições, competências e direitos, nomeadamente os inerentes à cobrança de receitas conferidas por lei aos organismos integrados na Direcção-Geral de Protecção da Produção Agrícola pelo [Decreto Regulamentar n.º 78/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1977-281379), de 25 de Novembro, transitam para esta Direcção-Geral.
+Art. 66.º As atribuições, competências e direitos, nomeadamente os inerentes à cobrança de receitas conferidas por lei aos organismos integrados na Direcção-Geral de Protecção da Produção Agrícola pelo [Decreto Regulamentar n.º 78/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1977-281379), de 25 de Novembro, transitam para esta Direcção-Geral.
 
-###### Art. 67.º As dúvidas suscitadas pela aplicação do presente diploma e os casos omissos serão resolvidos por despacho do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública quando estiverem em causa matérias das respectivas competências.
+Art. 67.º As dúvidas suscitadas pela aplicação do presente diploma e os casos omissos serão resolvidos por despacho do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública quando estiverem em causa matérias das respectivas competências.
 
 Alfredo Jorge Nobre da Costa - José da Silva Lopes - Apolinário José Barbosa da Cruz Vaz Portugal.
 
-**Promulgado em 10 de Novembro de 1978.**
+Promulgado em 10 de Novembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 60.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/26800/24332441.pdf))](https://files.diariodarepublica.pt/1s/1978/11/26800/24332441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/26800/24332441.pdf)
 
-**O Primeiro-Ministro, Alfredo Jorge Nobre da Costa. - O Ministro das Finanças e do Plano, José da Silva Lopes. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal.**
+O Primeiro-Ministro, Alfredo Jorge Nobre da Costa. - O Ministro das Finanças e do Plano, José da Silva Lopes. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal.

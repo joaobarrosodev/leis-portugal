@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/392-1971-643094
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44f69a41621ba1173a42c6aa1dbbdcc233b450f704fbd003a34730b9b8944d3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eddeb52d76bf1a7d814ca02ed2404578ce40981177e2de745a79997e43d20b02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:53Z'
   warnings: []
   errors: []
 ---
@@ -90,4 +90,4 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, declarar que
 
 Enquanto o navio tiver capitão-de-bandeira só poderá ser utilizado em serviço do Estado, e não comercial. Nestas condições, tem direito ao uso de bandeira e flâmula e goza das imunidades inerentes aos navios públicos.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

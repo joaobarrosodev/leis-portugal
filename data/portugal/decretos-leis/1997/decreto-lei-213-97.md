@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/08/188a00/42584259.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/213/1997/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1997-209591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:51:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9a5cc2237fedf787250912b5e4bcd6fae330a002079a7b56a29259222f50f0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ba048bd9a1fa10e48d89218697cc1079faea9e3ed4ab89c6e772bcbe364a74d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:51:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Comissão Directiva
-- Instituto da Conservação da Natureza
 - Conselho Consultivo
+- Instituto da Conservação da Natureza
+- Ordenamento do Território
 - Proteção do Ambiente
-- Zona de Proteção
 - Rede Nacional de Áreas Protegidas
 - Vogal
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:454502:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:432178:por
+  label: "Alterados do art. 17º e 20º do Dec Lei 19/93 de 23-Jan na redacção do presente diploma, pelo DEC LEI.221/2002.2002.10.22.MCOTA,\
+    \ DR.IS-A [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/221-2002-432178
+  date: '2002-10-22'
+- type: amended_by
+  target: pt:dre:238020:por
+  label: "Alterado o art. 17º do Dec Lei 19/93 de 23-Jan, na redacção do presente diploma, pelo DEC LEI.117/2005.18.07.2005.MAOTDR,\
+    \ DR.IS-A [136] de 18.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2005-238020
+  date: '2005-07-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520984:por
+  label: "Revogados os artigos 17.º e 19.º do Decreto-Lei 19/93, de 23 de Janeiro, na redacção do presente diploma, pelo DEC\
+    \ LEI.136/2007.27.04.2007.MAOTDR, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-2007-520984
+  date: '2007-04-27'
+- type: repealed_by
+  target: pt:dre:454502:por
+  label: Revogado, a partir de 29.07.2008, o Dec Lei 19/93, de 23-Jan, na redacção do presente diploma, pelo DEC LEI.142/2008.24.07.2008.MAOTDR,
+    DR.IS [142] de 24.07.2008
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2008-454502
+  date: '2008-07-24'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:51:15Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +163,9 @@ Comissão directiva
 
 6 - ...
 
-###### Artigo 19.º — Conselho consultivo
+Artigo 19.º
+
+Conselho consultivo
 
 1 - ...
 
@@ -149,12 +183,12 @@ O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Junho de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 28 de Julho de 1997.**
+Promulgado em 28 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Julho de 1997.**
+Referendado em 30 de Julho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

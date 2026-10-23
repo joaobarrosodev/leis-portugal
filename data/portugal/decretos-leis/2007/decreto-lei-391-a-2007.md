@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 246/2007, 1º Suplemento, Série I de 2007-12-21
   number: '246'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 9048-(2) a 9048-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/12/24601/0000200002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/391-a/2007/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-a-2007-243771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e82c52c45229a14404a744ebdeee33654e9906b240e21fd4d80f8286157f65f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2192a1d4428f81adb6bc2fb75da1a73e5d239c8b35ec25fa1d1ef1a8e3cd3676
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ARH
-- Instituto da ÁGUA
-- Recursos Hídricos
+- Comissão de Coordenação e Desenvolvimento Regional
 - Definição de Competências
 - Fiscalização
-- Comissão de Coordenação e Desenvolvimento Regional
+- Instituto da ÁGUA
 - Licenciamento
+- Recursos Hídricos
 - Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:221990535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25343987:por
+  label: Derrogadas as normas do Dec Lei 226-A/2007 de 31-mai (com as alterações constantes do presente diploma), com a entrada
+    em vigor da legislação complementar prevista no art. 30.º da LEI.17/2014.10.04.2014.AR, DR.IS [71] de 10.04.2014, no que
+    sejam contrárias ao que está disposto naquela lei.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/17-2014-25343987
+  date: '2014-04-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
   label: null
@@ -87,16 +94,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:23Z'
   warnings: []
   errors: []
 ---
@@ -145,12 +160,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Outubro de 2007. - José Sócrates Carvalho Pinto de Sousa - Rui Nuno Garcia de Pina Neves Baleiras - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 20 de Dezembro de 2007.**
+Promulgado em 20 de Dezembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Dezembro de 2007.**
+Referendado em 12 de Dezembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

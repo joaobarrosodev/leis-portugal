@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/178/2003/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2003-653499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d931b4be3f5c8fd6dc9a1625dc13b17916df05f7690d90f0f1d61e222a20dde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14e6d8fcd1de5e71a47efbd976908daaf73dfd19018af3795e3eb6b87b71993a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,18 @@ subjects:
 - Contra-ordenação
 - Fiscalização
 - Instituto do Ambiente
-- Proteção do Ambiente
 - Plano Nacional de Redução das Emissões
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:499546:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553447:por
+  label: "Aditado o art. 9º-A pelo DEC LEI.60/2012.14.03.2012.MEE, DR.IS [53] de 14.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-2012-553447
+  date: '2012-03-14'
 - type: cites
   target: celex:31988L0609
   label: null
@@ -97,16 +102,27 @@ relationships:
   target: celex:32001L0080
   label: null
   source: http://data.europa.eu/eli/dir/2001/80/oj
+- type: corrected_by
+  target: pt:dre:426743:por
+  label: "Rectificado pela DECL-RECT.11-B/2003.2003.08.27.PCM, DR.IS-A [200]5ºSupl de 30/Ago/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-b-2003-426743
+  date: '2003-08-27'
+- type: repealed_by
+  target: pt:dre:499546:por
+  label: "Revogado o presente diploma, retificado pela Decl-Ret 11-B/2003 de 30-ago, na redação do Dec Lei 60/2012 de 14-mar,\
+    \ pelo DEC LEI.127/2013.30.08.2013.MAMAOT, DR.IS [167] de 30.08.2013, nos termos do art. 116º \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-2013-499546
+  date: '2013-08-30'
 article_structure:
   article_count: 27
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:22Z'
   warnings: []
   errors: []
 ---
@@ -517,21 +533,21 @@ São revogados os n.os 5, 6 e 7 do artigo 13.º, os n.os 2 e 3 do artigo 17.º d
 
 Visto e aprovado em Conselho de Ministros de 13 de Junho de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 16 de Julho de 2003.**
+Promulgado em 16 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Julho de 2003.**
+Referendado em 21 de Julho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — Limites máximos e objectivos de redução das emissões de SO(índice 2) para as instalações existentes (ver nota 1) (ver nota 2)
 
 (artigo 25.º, n.º 1, do Decreto-Lei n.º 178/2003)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
+[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
 
 (nota 1) Da potência autorizada após 1 de Julho de 1987 podem resultar emissões adicionais.
 
@@ -541,7 +557,7 @@ Visto e aprovado em Conselho de Ministros de 13 de Junho de 2003. - José Manuel
 
 (artigo 25.º, n.º 1, do Decreto-Lei n.º 178/2003)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
+[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
 
 (nota 1) Da potência autorizada após 1 de Julho de 1987 podem resultar emissões adicionais.
 
@@ -555,13 +571,13 @@ Combustíveis sólidos
 
 A - Valores limite das emissões de SO(índice 2) expressos em mg/Nm3 (teor de O(índice 2) de 6%) a respeitar pelas novas instalações e pelas instalações existentes nos termos, respectivamente, dos n.os 1 e 3 do artigo 4.º (ver nota a):
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
+[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
 
 N. b. - No caso de não ser possível respeitar os valores limite das emissões devido às características do combustível, dever-se-á atingir uma taxa de dessulfurização de pelo menos 60%, no caso de instalações com uma potência inferior ou igual a 100 MWth, 75% no caso de instalações com mais de 100 MWth, e não mais de 300 MWth, e 90% no caso de instalações com mais de 300 MWth. No caso de instalações com mais de 500 MWth, aplicar-se-á uma taxa de dessulfurização de pelo menos 94%, ou de pelo menos 92% quando tiver sido concluído um contrato para o equipamento com um sistema de dessulfurização dos gases de combustão ou de injecção de calcário, e os trabalhos de instalação tenham tido início antes de 1 de Janeiro de 2001.
 
 B - Valores limite das emissões de SO(índice 2) expressos em mg/Nm3 (teor de O(índice 2) de 6%) a respeitar pelas novas instalações nos termos do n.º 2 do artigo 4.º, com excepção das turbinas a gás:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
+[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
 
 N. b. - No caso de não ser possível respeitar os valores limite das emissões devido às características do combustível, as instalações devem atingir 300 mg/Nm3 de SO(índice 2) ou uma taxa de dessulfurização de pelo menos 92% no caso de instalações com uma potência térmica nominal inferior ou igual a 300 MWth; no caso de instalações com uma potência térmica nominal superior a 300 MWth, deve ser aplicada uma taxa de dessulfurização de pelo menos 95%, juntamente com um valor limite máximo admissível de emissões de 400 mg/Nm3.
 
@@ -573,11 +589,11 @@ Combustíveis líquidos
 
 A - Valores limite das emissões de SO(índice 2) expressos em mg/Nm3 (teor de O(índice 2) de 3%) a respeitar pelas novas instalações e pelas instalações existentes nos termos, respectivamente, dos n.os 1 e 3 do artigo 4.º:
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
+[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
 
 B - Valores limite das emissões de SO(índice 2) expressos em mg/Nm3 (teor de O(índice 2) de 3%) a serem aplicados pelas novas instalações nos termos do n.º 2 do artigo 4.º, com excepção das turbinas a gás:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
+[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
 
 ## ANEXO V — Valores limite de emissão de SO(índice 2)
 
@@ -585,7 +601,7 @@ Combustíveis gasosos
 
 A - Valores limite das emissões de SO(índice 2) expressos em mg/Nm3 (teor de O(índice 2) de 3%) a respeitar pelas novas instalações e pelas instalações existentes nos termos, respectivamente, dos n.os 1 e 3 do artigo 4.º:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
+[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
 
 B - Valores limite das emissões de SO(índice 2) de 3% a respeitar pelas novas instalações nos termos do n.º 2 do artigo 4.º:
 
@@ -601,13 +617,13 @@ Gás de baixo poder calorífico proveniente de altos fornos - 200.
 
 A - Valores limite das emissões de NO(índice x) expressos em mg/Nm3 (teor de O(índice 2) de 6% para combustíveis sólidos e de 3% para combustíveis líquidos e gasosos) a respeitar pelas novas instalações e pelas instalações existentes nos termos, respectivamente, dos n.os 1 e 3 do artigo 4.º:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
+[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
 
 B - Valores limite das emissões do NO(índice x) expressos em mg/Nm3 a respeitar pelas novas instalações nos termos do n.º 2 do artigo 4.º, com excepção das turbinas a gás:
 
 Combustíveis sólidos (teor de O(índice 2) de 6%):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
+[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
 
 Combustíveis líquidos (teor de O(índice 2) de 3%):
 
@@ -621,13 +637,13 @@ Combustíveis líquidos (teor de O(índice 2) de 3%):
 
 Combustíveis gasosos (teor de O(índice 2) de 3%):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
+[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
 
 Turbinas a gás:
 
 Valores limite das emissões de NO(índice x) expressos em mg/Nm3 (teor de O(índice 2) de 15%) a respeitar por uma turbina a gás nos termos do n.º 2 do artigo 4.º (os valores limite só se aplicam a partir de uma carga de 70%):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
+[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
 
 As turbinas a gás para utilização em caso de emergência que funcionem menos de quinhentas horas anuais ficam isentas destes valores limite. O operador dessas instalações deve apresentar anualmente à autoridade competente um registo do tempo utilizado.
 
@@ -649,7 +665,7 @@ Nota 3. - Este valor limite de emissão aplica-se exclusivamente às turbinas a 
 
 A - Valores limite das emissões de partículas expressos em mg/Nm3 (teor de O(índice 2) de 6% para combustíveis sólidos e 3% para combustíveis líquidos e gasosos) a respeitar pelas novas instalações e pelas instalações existentes nos termos, respectivamente, dos n.os 1 e 3 do artigo 4.º:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
+[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
 
 B - Valores limite das emissões de partículas expressos em mg/Nm3 a respeitar pelas novas instalações nos termos do n.º 2 do artigo 4.º, com excepção das turbinas a gás:
 
@@ -763,23 +779,23 @@ Valores limite de emissão de SO(índice 2):
 
 Combustíveis sólidos (teor de O(índice 2) de 6%)
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
+[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
 
 Combustíveis líquidos (teor de O(índice 2) de 3%)
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
+[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
 
 Combustíveis gasosos (teor de O(índice 2) de 3%)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
+[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
 
 Valores limite de emissão de NO(índice x) (teor de O(índice 2) de 6% para combustíveis sólidos e de 3% para combustíveis líquidos e gasosos):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
+[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
 
 Valores limite de emissão de partículas (teor de O(índice 2) de 6% para combustívies sólidos e de 3% para combustíveis líquidos e gasosos):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
+[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46264638.pdf)
 
 2 - As instalações que queimem lignites produzidas no País podem exceder os valores limite referidos nos n.º 1 se, não obstante a utilização da melhor tecnologia disponível que não implique custos excessivos, importantes dificuldades ligadas à natureza deste combustível assim o exigirem e se a lignite for uma fonte essencial de combustível para essas instalações.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/050a00/16451664.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/41/2002/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2002-254667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:35:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9e3fb2aa29db6f2c65e4412dd29c848be328d88b6e2b3aa3366f7f1c0820ce8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0190339fcbcf119ba850284e43fe28b8a9719cb45c2d6b16ba20d923520e2389
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:35:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,22 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Contra-ordenação
-- Segurança Pública
+- Equipamento sob Pressão
 - Fiscalização
 - Normas de Segurança
 - Qualidade do Produto
-- Equipamento sob Pressão
+- Segurança Pública
 relationships:
 - type: amended_by
   target: pt:dre:287136:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:315882:por
+  label: "Alterados os nºs 1.3.1 e 1.3.2 do módulo D da parte I do anexo IV, pelo DEC LEI.72-L/2003.2003.04.14.MOPTH DR.IS-A\
+    \ [88]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-l-2003-315882
+  date: '2003-04-14'
 - type: cites
   target: celex:31984L0525
   label: null
@@ -110,16 +116,21 @@ relationships:
   target: celex:32001L0002
   label: null
   source: http://data.europa.eu/eli/dir/2001/2/oj
+- type: repealed_by
+  target: pt:dre:287136:por
+  label: "Revogado, a partir de 01.07.2011, pelo DEC LEI.57/2011.27.04.2011.MOPTC, DR.IS [81] de 27.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-2011-287136
+  date: '2011-04-27'
 article_structure:
   article_count: 21
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:35:41Z'
   warnings: []
   errors: []
 ---
@@ -346,15 +357,15 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação, e em
 
 Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Rui António Ferreira Cunha - Luís Garcia Braga da Cruz.
 
-**Promulgado em 11 de Fevereiro de 2002.**
+Promulgado em 11 de Fevereiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Fevereiro de 2002.**
+Referendado em 14 de Fevereiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Critérios mínimos a cumprir pelos organismos notificados e organismos aprovados referidos nos artigos 8.º e 9.º
 
@@ -392,7 +403,9 @@ O organismo notificado, o seu director e o pessoal encarregado de executar as op
 
 3 - O organismo aprovado deve garantir e demonstrar que existe uma clara separação de responsabilidades entre o pessoal encarregue das inspecções e aquele que exerce outras funções, a qual será estabelecida por uma identificação dentro da organização e através da atribuição da responsabilidade pela emissão de relatórios do organismo aprovado no interior da organização.
 
-## ANEXO IV — Parte I
+## ANEXO IV
+
+## Parte I
 
 Processos de avaliação da conformidade
 
@@ -1176,7 +1189,7 @@ e) Cada organismo notificado deve também comunicar aos outros organismos notifi
 
 2 - A verificação final será objecto de vigilância reforçada sob a forma de visitas sem aviso prévio por parte do organismo notificado. No âmbito dessas visitas, o organismo notificado deve proceder a verificações dos equipamentos sob pressão transportáveis.
 
-# Parte II
+Parte II
 
 Processo de reavaliação da conformidade
 
@@ -1192,7 +1205,7 @@ O organismo notificado deve igualmente verificar se as válvulas e outros acess�
 
 5 - Para os recipientes fabricados em série, incluindo as respectivas válvulas e outros acessórios utilizados para o transporte, as operações pertinentes de reavaliação da conformidade respeitantes à verificação individual dos equipamentos, referidas nos n.os 3 e 4 supra, podem ser realizadas por um organismo aprovado, na condição de as operações pertinentes para a reavaliação da conformidade do tipo referida no n.º 3 terem sido previamente efectuadas por um organismo notificado.
 
-# Parte III
+Parte III
 
 Processos de inspecção periódica
 
@@ -1304,7 +1317,7 @@ Deve notificar da sua decisão o proprietário, o seu mandatário estabelecido n
 
 O quadro que se segue indica os módulos de avaliação da conformidade, nos termos da parte I do anexo IV, que deverão ser aplicados para os diferentes tipos de equipamento sob pressão transportável definidos na alínea a) do artigo 2.º
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/050a00/16451664.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/050a00/16451664.pdf)](https://files.diariodarepublica.pt/1s/2002/02/050a00/16451664.pdf)
 
 Notas
 
@@ -1314,7 +1327,7 @@ Notas
 
 ## ANEXO VI — Lista das matérias perigosas não pertencentes à classe 2 a que se refere o artigo 2.º
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/050a00/16451664.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/050a00/16451664.pdf)](https://files.diariodarepublica.pt/1s/2002/02/050a00/16451664.pdf)
 
 ## ANEXO VII — Marcação de conformidade
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/23/1999/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1999-667750
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:26:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59ce8539a9d38841788bd97137fdbb7238517eeb8d51894dc21d7fddf42d560a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f209fa2a3bad68cf01534006df5aa5f69f1dc9ade3fcff7f4bf61d7c625c8051
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:26:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
-- Indústria Farmacêutica
+- Comércio
+- Droga
 - Fabrico Industrial
 - Fiscalização
+- Indústria Farmacêutica
 - Instituto Nacional de Intervenção e Garantia Agrícola
-- Droga
-- Regulamento CE
 - Polícia Judiciária
-- Comércio
+- Produto Químico
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:117821810:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117821810:por
+  label: Alterado a partir de 01.02.2019 o art. 13.º do DR 61/94, de 12-out, na redação do presente diploma pelo(a) Decreto-Lei
+    n.º 8/2019 - Diário da República n.º 10/2019, Série I de 2019-01-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2019-117821810
+  date: '2019-01-15'
 - type: cites
   target: celex:31970R1308
   label: null
@@ -104,13 +110,13 @@ relationships:
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:26:01Z'
   warnings: []
   errors: []
 ---
@@ -169,12 +175,12 @@ Presidência do Conselho de Ministros, 12 de Agosto de 1999.
 
 António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos da Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 23 de Setembro de 1999.**
+Promulgado em 23 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Outubro de 1999.**
+Referendado em 1 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

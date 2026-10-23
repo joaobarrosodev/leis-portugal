@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/08/18800/25132515.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1984-382388
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:09:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa1a2e3ec98e2cf23eb330c3840a562c34f9c5eba97110706ef2f9ef19e128ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94adcbf2d790cb4b143d7fc9c4b4023da33692653d824b3b35e7dc52d2633381
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:09:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Comunicações
+- ILHA de são Miguel
+- Instalações Radioelétricas
+- Servidão Radioelétrica
+- Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:401045:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401045:por
+  label: "Revogado pelo DR.88/84.30.11.1984.MES, DR.IS [278] de 30.11.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/88-1984-401045
+  date: '1984-11-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:09:51Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +116,11 @@ Considerando o disposto no artigo 14.º, n.º 1, do [Decreto-Lei n.º 597/73](ht
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º As áreas adjacentes ao percurso da ligação hertziana entre os centros radioeléctricos de Ponta Delgada e do Pico da Barrosa, numa distância de 15932 km, estão sujeitas a servidão radioeléctrica e, bem assim, a outras restrições de utilidade pública, nos termos do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro.
+Artigo 1.º As áreas adjacentes ao percurso da ligação hertziana entre os centros radioeléctricos de Ponta Delgada e do Pico da Barrosa, numa distância de 15932 km, estão sujeitas a servidão radioeléctrica e, bem assim, a outras restrições de utilidade pública, nos termos do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro.
 
-###### Art. 2.º A ligação hertziana referida no artigo anterior é composta por duas estações terminais, situadas respectivamente em Ponta Delgada (edifício dos CTT), na Praça de Vasco da Gama, e na estação de feixes hertzianos do Pico da Barrosa, na serra de Água do Pau.
+Art. 2.º A ligação hertziana referida no artigo anterior é composta por duas estações terminais, situadas respectivamente em Ponta Delgada (edifício dos CTT), na Praça de Vasco da Gama, e na estação de feixes hertzianos do Pico da Barrosa, na serra de Água do Pau.
 
-###### Art. 3.º Os centros radioeléctricos de Ponta Delgada e do Pico da Barrosa utilizam antenas directivas com cotas de, respectivamente, 31 m e 941 m, em relação ao nível do mar, e situam-se em pontos com as seguintes coordenadas geográficas:
+Art. 3.º Os centros radioeléctricos de Ponta Delgada e do Pico da Barrosa utilizam antenas directivas com cotas de, respectivamente, 31 m e 941 m, em relação ao nível do mar, e situam-se em pontos com as seguintes coordenadas geográficas:
 
 a) Ponta Delgada:
 
@@ -115,15 +134,15 @@ Latitude - 37º 45' 35" N.;
 
 Longitude - 25º 29' 27" W.
 
-###### Art. 4.º - 1 - A zona de desobstrução a que aludem a alínea b) do n.º 1 do artigo 6.º e o artigo 11.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro, tem 23,3 m de largura.
+Art. 4.º - 1 - A zona de desobstrução a que aludem a alínea b) do n.º 1 do artigo 6.º e o artigo 11.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro, tem 23,3 m de largura.
 
 2 - Esta zona de desobstrução, que é medida perpendicularmente e para cada lado da projecção horizontal da linha recta que une as antenas dos centros radioeléctricos respectivos, encontra-se demarcada em plano horizontal na planta topográfica à escala de 1:70000, conforme a figura 1 em anexo a este diploma.
 
-###### Art. 5.º - 1 - Na zona de desobstrução definida no artigo anterior é proibida a implantação ou manutenção de edifícios ou de outros obstáculos que distem da linha recta que une as duas antenas terminais menos de [([ver documento original](https://files.diariodarepublica.pt/1s/1984/08/18800/25132515.pdf))](https://files.diariodarepublica.pt/1s/1984/08/18800/25132515.pdf)
+Art. 5.º - 1 - Na zona de desobstrução definida no artigo anterior é proibida a implantação ou manutenção de edifícios ou de outros obstáculos que distem da linha recta que une as duas antenas terminais menos de [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/08/18800/25132515.pdf)
 
 2 - O elipsóide da 1.ª zona de Fresnel e o perfil do terreno entre as antenas consideradas estão representados em plano vertical nas escalas de 1:100000 (eixo das abcissas) e de 1:6000 (eixo das ordenadas) conforme a figura 2 em anexo a este diploma.
 
-###### Art. 6.º O director dos serviços de radiocomunicações dos CTT é a entidade competente para:
+Art. 6.º O director dos serviços de radiocomunicações dos CTT é a entidade competente para:
 
 a) Ordenar a demolição, remoção, abate ou inutilização dos obstáculos perturbadores referidos nos termos do artigo 20.º, n.º 2, do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro;
 
@@ -131,18 +150,18 @@ b) Fiscalizar o cumprimento das disposições legais respeitantes à presente se
 
 c) Aplicar, nos termos do artigo 24.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro, as multas decorrentes das infracções verificadas.
 
-###### Art. 7.º Das decisões tomadas nos termos das alíneas a) e c) do artigo anterior cabe recurso para o Ministro do Equipamento Social.
+Art. 7.º Das decisões tomadas nos termos das alíneas a) e c) do artigo anterior cabe recurso para o Ministro do Equipamento Social.
 
 Mário Soares - Carlos Alberto da Mota Pinto - João Rosado Correia.
 
-**Promulgado em 27 de Julho de 1984.**
+Promulgado em 27 de Julho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Julho de 1984.**
+Referendado em 27 de Julho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/08/18800/25132515.pdf))](https://files.diariodarepublica.pt/1s/1984/08/18800/25132515.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/08/18800/25132515.pdf)

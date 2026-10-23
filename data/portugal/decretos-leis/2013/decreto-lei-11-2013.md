@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/11/2013/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2013-256987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14992ecd0662a3431005b7cdd6e867cb652c73da9cb2df52535e1b01c0919afe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 269452bae9458d5aa71fc33b55918f57bacdfed230c492452c5532c7d0d454e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,20 +70,44 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
-- Multa
+- Comércio
 - Contra-ordenação
+- Embalagem
 - Etiquetagem
 - Fiscalização
 - Indústria de Brinquedos
-- Embalagem
+- Multa
 - Normas de Segurança
 - Proteção do Consumidor
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:122242530:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:67485180:por
+  label: Alterado o anexo II do Dec Lei 43/2011 de 24-mar, na redação do presente diploma, pelo(a) Decreto-Lei n.º 104/2015
+    - Diário da República n.º 114/2015, Série I de 2015-06-15 com produção de efeitos nos termos do art. 4.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-2015-67485180
+  date: '2015-06-15'
+- type: amended_by
+  target: pt:dre:107495706:por
+  label: Alterado o anexo II do Dec Lei 43/2011 de 24-mar, na redação do presente diploma, pelo(a) Decreto-Lei n.º 59/2017
+    - Diário da República n.º 112/2017, Série I de 2017-06-09, nos termos do seu art. 3.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2017-107495706
+  date: '2017-06-09'
+- type: amended_by
+  target: pt:dre:114163923:por
+  label: Alterado, com efeitos a partir de 01.07.2018, o anexo II ao Dec Lei 43/2011 de 24-mar, na redação do presente diploma,
+    pelo(a) Decreto-Lei n.º 137/2017 - Diário da República n.º 215/2017, Série I de 2017-11-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-2017-114163923
+  date: '2017-11-08'
+- type: amended_by
+  target: pt:dre:122242530:por
+  label: Alterado, a partir de 01.07.2019, o anexo ii ao Dec Lei 43/2011 de 24-mar, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 59/2019 - Diário da República n.º 88/2019, Série I de 2019-05-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2019-122242530
+  date: '2019-05-08'
 - type: cites
   target: celex:32009L0048
   label: null
@@ -99,13 +123,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:29Z'
   warnings: []
   errors: []
 ---
@@ -150,15 +174,15 @@ O presente decreto-lei produz efeitos a partir do dia 20 de julho de 2013.
 
 Visto e aprovado em Conselho de Ministros de 29 de novembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Sacadura Cabral Portas - Álvaro Santos Pereira.
 
-**Promulgado em 15 de janeiro de 2013.**
+Promulgado em 15 de janeiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de janeiro de 2013.**
+Referendado em 21 de janeiro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -230,7 +254,7 @@ III - [...]
 
 13 - [...]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/01800/0051000512.pdf))](https://files.diariodarepublica.pt/1s/2013/01/01800/0051000512.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/01800/0051000512.pdf)
 
 [...]
 
@@ -290,7 +314,9 @@ VI - [...]
 
 [...]
 
-## ANEXO III — (a que se refere o artigo 14.º)
+ANEXO III
+
+(a que se refere o artigo 14.º)
 
 [...]
 

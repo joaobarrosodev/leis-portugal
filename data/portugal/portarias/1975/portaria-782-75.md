@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/29900/21502150.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/782-1975-310649
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T04:55:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74911267ffe1b4adeead964f65f2a7ca725fbc1f3ba55b5c59a589e7fc76ecf4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdc76585f101c5a5fc9eec4cb63548389e3c26fc8b57a2efb401a44b78f4865c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:55:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pesca
+- Pesca Profissional
+- RIO ALVA
 relationships:
 - type: amended_by
   target: pt:dre:417643:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:507593:por
+  label: Alterado o n.º 1 pelo(a) Portaria n.º 89/76 - Diário do Governo n.º 43/1976, Série I de 1976-02-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/89-1976-507593
+  date: '1976-02-20'
+- type: cites
+  target: pt:dre:156660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419261:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:417643:por
+  label: "Revogada pela PORT.683/87.10.08.1987.MAPA, DR.IS [182] de 10.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/683-1987-417643
+  date: '1987-08-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:55:09Z'
   warnings: []
   errors: []
 ---

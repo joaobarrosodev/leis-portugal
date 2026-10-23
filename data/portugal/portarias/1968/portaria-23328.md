@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23328-1968-234716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b740e601ab2a156378190c1afffe6c2f73eac53e05a036035f1279045a77cbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe63b043d8e5ae30f4b5a5dcb0d84599fa538730dfb53575e33ee8a02f19e117
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:42Z'
   warnings: []
   errors: []
 ---
@@ -88,22 +88,22 @@ Ministério da Educação Nacional, 22 de Abril de 1968. - Pelo Ministro da Educ
 
 Regulamento do Prémio Escolar Coronel Médico Dr. Francisco da Silva Garcia
 
-###### Artigo 1.º É criado, por iniciativa de António Duarte da Silva Garcia, perito contabilista, o Prémio Escolar Coronel Médico Dr. Francisco da Silva Garcia, como estímulo aos alunos das escolas do ensino primário oficial da freguesia de S. Martinho de Sande, concelho de Guimarães, com o fim de perpetuar o nome daquele oficial médico na freguesia onde nasceu, a 3 de Março de 1865, e faleceu, a 25 de Janeiro de 1928.
+Artigo 1.º É criado, por iniciativa de António Duarte da Silva Garcia, perito contabilista, o Prémio Escolar Coronel Médico Dr. Francisco da Silva Garcia, como estímulo aos alunos das escolas do ensino primário oficial da freguesia de S. Martinho de Sande, concelho de Guimarães, com o fim de perpetuar o nome daquele oficial médico na freguesia onde nasceu, a 3 de Março de 1865, e faleceu, a 25 de Janeiro de 1928.
 
-###### Art. 2.º O fundo de manutenção do referido Prémio é constituído pela importância de 15000$00, oferecida para esse fim, convertida em certificado de renda perpétua da Junta do Crédito Público, assentado à Direcção do Distrito Escolar de Braga.
+Art. 2.º O fundo de manutenção do referido Prémio é constituído pela importância de 15000$00, oferecida para esse fim, convertida em certificado de renda perpétua da Junta do Crédito Público, assentado à Direcção do Distrito Escolar de Braga.
 
-###### Art. 3.º - 1. O rendimento do referido fundo será anualmente distribuído, em partes iguais, por dois alunos - um de cada sexo - do ensino primário oficial da citada freguesia de S. Martinho de Sande e residentes nessa mesma freguesia, que nesse ano tenham concluído com aprovação o exame do ciclo elementar (4.ª classe) do ensino primário e mais se tenham distinguido na prestação das provas desse exame.
+Art. 3.º - 1. O rendimento do referido fundo será anualmente distribuído, em partes iguais, por dois alunos - um de cada sexo - do ensino primário oficial da citada freguesia de S. Martinho de Sande e residentes nessa mesma freguesia, que nesse ano tenham concluído com aprovação o exame do ciclo elementar (4.ª classe) do ensino primário e mais se tenham distinguido na prestação das provas desse exame.
 
 2. Se se verificar igualdade de mérito entre vários alunos na prestação das provas, far-se-á a escolha em atenção ao currículo escolar anterior.
 
-###### Art. 4.º - 1. Os nomes do aluno e da aluna a premiar serão comunicados pelos respectivos professores, após a realização dos exames da 4.ª classe, ao delegado escolar, que, por sua vez, os transmitirá à Direcção do Distrito Escolar e à Câmara Municipal de Guimarães.
+Art. 4.º - 1. Os nomes do aluno e da aluna a premiar serão comunicados pelos respectivos professores, após a realização dos exames da 4.ª classe, ao delegado escolar, que, por sua vez, os transmitirá à Direcção do Distrito Escolar e à Câmara Municipal de Guimarães.
 
 2. No caso de não haver acordo dos professores na escolha dos candidatos, será o assunto resolvido pelo director escolar.
 
-###### Art. 5.º A distribuição dos prémios far-se-á anualmente, no dia 3 de Março, se for domingo, ou no domingo imediato àquela data, em sessão solene a realizar no edifício escolar da freguesia, presidida pelo director do Distrito Escolar de Braga ou por um seu representante. Devem estar presentes os professores e alunos e pôr-se-á em relevo o significado do Prémio.
+Art. 5.º A distribuição dos prémios far-se-á anualmente, no dia 3 de Março, se for domingo, ou no domingo imediato àquela data, em sessão solene a realizar no edifício escolar da freguesia, presidida pelo director do Distrito Escolar de Braga ou por um seu representante. Devem estar presentes os professores e alunos e pôr-se-á em relevo o significado do Prémio.
 
-###### Art. 6.º Os alunos que não comparecerem no dia designado para a distribuição dos prémios, nem os reclamarem no decorrer desse ano escolar, perderão o direito aos mesmos em benefício das caixas escolares.
+Art. 6.º Os alunos que não comparecerem no dia designado para a distribuição dos prémios, nem os reclamarem no decorrer desse ano escolar, perderão o direito aos mesmos em benefício das caixas escolares.
 
-###### Art. 7.º Deverá ficar arquivado, e pelo período de cinco anos, na Direcção Escolar, em relação à atribuição dos prémios de cada ano, um breve relatório das circunstâncias de que a mesma se tiver revestido.
+Art. 7.º Deverá ficar arquivado, e pelo período de cinco anos, na Direcção Escolar, em relação à atribuição dos prémios de cada ano, um breve relatório das circunstâncias de que a mesma se tiver revestido.
 
 Direcção-Geral do Ensino Primário, 22 de Abril de 1968. - O Director-Geral, José Gomes Branco.

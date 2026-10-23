@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/182/2002/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2002-171693
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdd131a45eaee9d16eb948ae40974e83492232ca5eac2398bcc43b6a1737d30c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6230219b7b59c2bd54797ac0e5746d3bacc83efbf5710ecd81d6c7e5bf2b6631
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,63 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Registo Automóvel
 - Base de Dados
+- Registo Automóvel
 - Veículo
 relationships:
 - type: amended_by
   target: pt:dre:123962149:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123962149:por
+  label: Alterados os arts. 27.º-A, 27.º-B, 27.º-C, 27.º-D, 27.º-E, 27.º-F, 27.º-H e 27.º-I do Dec Lei 54/75, de 12-fev, aditados
+    pelo presente diploma pelo(a) Decreto-Lei n.º 111/2019 - Diário da República n.º 156/2019, Série I de 2019-08-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2019-123962149
+  date: '2019-08-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:159881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451817:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:175144:por
+  label: "Rectificado pela DECL-RECT.31-B/2002.2002.10.25.PCM, DR.IS-A [252]Supl de 31/Out/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/31-b-2002-175144
+  date: '2002-10-25'
 article_structure:
-  article_count: 10
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:27Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +164,7 @@ São aditados os artigos 27.º-A a 27.º-I com o seguinte teor:
 
 2 - Cabe ao responsável referido no número anterior assegurar o direito de informação e de acesso aos dados pelos respectivos titulares, a correcção de inexactidões, o completamento de omissões, a supressão de dados indevidamente registados, bem como velar pela legalidade da consulta ou comunicação da informação.
 
-###### Artigo 27.º-B
+Artigo 27.º-B
 
 1 - São recolhidos para tratamento automatizado:
 
@@ -143,13 +178,13 @@ d) Número de identificação fiscal.
 
 2 - São ainda recolhidos os dados previstos no artigo 11.º do Regulamento do Registo de Automóveis, aprovado pelo [Decreto n.º 55/75](https://diariodarepublica.pt/dr/detalhe/decreto/55-1975-159882), de 12 de Fevereiro.
 
-###### Artigo 27.º-C
+Artigo 27.º-C
 
 1 - Os dados pessoais constantes das bases de dados têm por suporte a identificação dos sujeitos activos e passivos dos factos sujeitos a registo e são recolhidos do impresso do modelo próprio apresentado pelos interessados.
 
 2 - Dos impressos destinados ao pedido de registo devem constar as informações previstas no n.º 1 do artigo 10.º da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de Outubro.
 
-###### Artigo 27.º-D
+Artigo 27.º-D
 
 1 - A informação constante do registo automóvel, desde que respeite exclusivamente às características dos veículos e sem referência, neste caso, aos respectivos titulares, pode ser comunicada a quaisquer entidades, públicas ou privadas.
 
@@ -169,7 +204,7 @@ e) A quaisquer outras entidades, mediante consentimento escrito dos seus titular
 
 4 - Os dados comunicados não podem ser transmitidos a terceiros, estando o acesso à base de dados sujeito ao pagamento dos respectivos encargos, sendo, porém, isento o acesso e consulta à base de dados efectuados pelas entidades previstas no n.º 1 do artigo seguinte.
 
-###### Artigo 27.º-E
+Artigo 27.º-E
 
 1 - Têm acesso à informação constante do registo de automóveis, através de linha de transmissão de dados, as entidades judiciárias, os órgãos de polícia criminal, bem como a Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, a Direcção-Geral de Viação e a Direcção-Geral dos Impostos.
 
@@ -189,19 +224,19 @@ b) A não transmissão da informação a terceiros.
 
 7 - A Direcção-Geral dos Registos e do Notariado remete obrigatória e previamente à Comissão Nacional de Protecção de Dados cópia dos protocolos a celebrar.
 
-###### Artigo 27.º-F
+Artigo 27.º-F
 
 1 - Qualquer pessoa tem o direito de ser informada sobre os dados pessoais que lhe respeitem e a respectiva finalidade, bem como sobre a identidade e o endereço do responsável pela base de dados.
 
 2 - A actualização e a correcção de eventuais inexactidões realizam-se nos termos e pela forma prevista na legislação específica do registo de automóveis, sem prejuízo do disposto na alínea d) do n.º 1 do artigo 11.º da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de Outubro.
 
-###### Artigo 27.º-G
+Artigo 27.º-G
 
 1 - Os dados pessoais podem ser conservados na base de dados durante cinco anos a contar da data do cancelamento do registo.
 
 2 - Os dados pessoais podem ser conservados em ficheiro histórico durante 10 anos a contar da data da eliminação do registo da base de dados.
 
-###### Artigo 27.º-H
+Artigo 27.º-H
 
 1 - O director-geral dos Registos e do Notariado e as entidades referidas nas alíneas b), c) e d) do n.º 2 do artigo 27.º-D devem adoptar as medidas de segurança referidas no n.º 1 do artigo 15.º da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de Outubro.
 
@@ -211,7 +246,7 @@ b) A não transmissão da informação a terceiros.
 
 4 - As entidades referidas no n.º 1 obrigam-se a manter uma lista actualizada das pessoas autorizadas a aceder às bases de dados.
 
-###### Artigo 27.º-I
+Artigo 27.º-I
 
 1 - A comunicação ou a revelação dos dados pessoais registados na base de dados só pode ser efectuada nos termos previstos no presente diploma.
 
@@ -219,12 +254,12 @@ b) A não transmissão da informação a terceiros.
 
 Visto e aprovado em Conselho de Ministros de 4 de Julho de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 29 de Julho de 2002.**
+Promulgado em 29 de Julho de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Agosto de 2002.**
+Referendado em 5 de Agosto de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/020b00/04260432.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/2/1991/01/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1991-507807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:18:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66f47a6789fe191600c273a1380720af02943854591bf459f853055ddfe45043
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5aa5e64a6fe2285ec5d1504b4354522a74c1f487f6f4997fb3914eb7ecf4a8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:18:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Ordenamento do Território
 - Parque Natural da Ria Formosa
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
 - Regulamento
 - Ria Formosa
 relationships:
@@ -76,16 +76,75 @@ relationships:
   target: pt:dre:489528:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:346302:por
+  label: "Revisto o Plano de Ordenamento do Território e suspenso na área identificada na planta anexa, pela RES.37/2001.2001.03.15.PCM,DR.IS-B\
+    \ (79)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/37-2001-346302
+  date: '2001-03-15'
+- type: amended_by
+  target: pt:dre:234096:por
+  label: "Alterados os arts. 2º, 3º, 4º, 5º, 7º, 8º, 9º, 10º, 12º, 13º, 14º, 17º, 18º, 23º, 24º, 27º, 28º, 29º e 30º e revogados\
+    \ os arts. 6º, 15º 16º, todos do Regulamento do Plano de Ordenamento do Parque Natural da Ria Formosa, aprovado pelo presente\
+    \ diploma, no concernente à área de intervenção do POOC de Vilamoura-Vila Real de Santo António, aprovado pela RES.103/2005.05.06.2005.PCM,\
+    \ DR.IS-B [121] de 27.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/103-2005-234096
+  date: '2005-06-05'
+- type: cites
+  target: pt:dre:232498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:489528:por
+  label: "Revogado pela RES.78/2009.02.09.2009.PCM, DR.IS [170] de 02.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/78-2009-489528
+  date: '2009-09-02'
 article_structure:
-  article_count: 32
+  article_count: 31
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:18:29Z'
   warnings: []
   errors: []
 ---
@@ -102,23 +161,23 @@ Assim:
 
 Ao abrigo do disposto no n.º 3 do artigo 26.º do [Decreto-Lei n.º 373/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1987-498153), de 9 de Dezembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São aprovados o Plano de Ordenamento do Parque Natural da Ria Formosa e o respectivo Regulamento, que se publicam em anexo ao presente diploma e que dele fazem parte integrante.
+Artigo 1.º São aprovados o Plano de Ordenamento do Parque Natural da Ria Formosa e o respectivo Regulamento, que se publicam em anexo ao presente diploma e que dele fazem parte integrante.
 
-###### Art. 2.º As despesas resultantes da execução do presente diploma são suportadas pelas dotações adequadas do orçamento do Serviço Nacional de Parques, Reservas e Conservação da Natureza.
+Art. 2.º As despesas resultantes da execução do presente diploma são suportadas pelas dotações adequadas do orçamento do Serviço Nacional de Parques, Reservas e Conservação da Natureza.
 
 Presidência do Conselho de Ministros, 27 de Agosto de 1990.
 
 Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Manuel Pereira - Álvaro José Brilhante Laborinho Lúcio - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira - Fernando Nunes Ferreira Real.
 
-**Promulgado em 21 de Dezembro de 1990.**
+Promulgado em 21 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Janeiro de 1991.**
+Referendado em 1 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PLANO DE ORDENAMENTO E REGULAMENTO DO PARQUE NATURAL DA RIA FORMOSA
 
@@ -510,4 +569,4 @@ O licenciamento ou concessão de novas explorações que se dediquem à explora�
 
 4 - Dentro dos limites do Parque Natural da Ria Formosa, bem como na sua área de protecção, são proibidos os parques de sucata e os vazadouros de entulho, bem como qualquer forma de deposição ou armazenagem de resíduos industriais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/020b00/04260432.pdf))](https://files.diariodarepublica.pt/1s/1991/01/020b00/04260432.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/020b00/04260432.pdf)

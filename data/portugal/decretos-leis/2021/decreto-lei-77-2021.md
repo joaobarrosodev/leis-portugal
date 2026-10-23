@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/16700/0002400026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/77/2021/08/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2021-170322929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17b5e46b42dc221a10b120f11955b43983a2e57b245feb07e58905766a5d7108
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79ff0af9f9cb3ebff409f608b3c14c1f0580909ae6320b02ea394f5d6d05916c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Águas Residuais
 - Aproximação das Legislações
-- Instituto da ÁGUA
-- Saneamento Básico
 - Comissão de Acompanhamento
 - Contra-ordenação
-- Descarga de ÁGUA Residual
 - Controlo Sanitário
+- Descarga de ÁGUA Residual
 - Fiscalização
+- Instituto da ÁGUA
 - Meio Aquático
-- Proteção do Ambiente
-- Águas Residuais
 - Poluição da água
 - Poluição Industrial
 - Prédio Urbano
+- Proteção do Ambiente
+- Saneamento Básico
 - Tratamento de ÁGUA
 relationships:
 - type: cites
@@ -121,6 +121,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/348/1998/11/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/348/1998/11/09/p/dre
+- type: cites
+  target: pt:dre:223419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69778945:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31991L0271
   label: null
@@ -130,15 +158,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:31Z'
   warnings: []
   errors: []
 ---
@@ -181,7 +209,9 @@ Os artigos 3.º e 7.º-A do [Decreto-Lei n.º 152/97](https://diariodarepublica.
 
 4 - A informação geográfica relativa à identificação das zonas sensíveis e menos sensíveis é disponibilizada para consulta no sítio na Internet da APA, I. P., através do sistema de informação geográfica SNIAmb - Sistema Nacional de Informação de Ambiente.
 
-###### Artigo 7.º-A — [...]
+Artigo 7.º-A
+
+[...]
 
 1 - [...]
 
@@ -205,13 +235,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de agosto de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Augusto Ernesto Santos Silva - João Rodrigo Reis Carvalho Leão - José Correia Fontes Couto - António Lacerda Sales - Inês dos Santos Costa.
 
-**Promulgado em 19 de agosto de 2021.**
+Promulgado em 19 de agosto de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de agosto de 2021.**
+Referendado em 19 de agosto de 2021.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra de Estado e da Presidência.
 
@@ -244,3 +274,5 @@ Uma extensão ou uma zona de água marinha pode ser identificada como uma zona m
 Na identificação das zonas menos sensíveis deve ser tomado em consideração o risco de a carga descarregada poder ser transferida para zonas adjacentes onde possa ter efeitos nocivos para o ambiente.
 
 Na identificação das zonas menos sensíveis devem, ainda, ser tomados em consideração os seguintes elementos: baías abertas, estuários e outras águas costeiras com uma boa renovação das águas e que não estão sujeitos nem a eutrofização nem a empobrecimento de oxigénio ou cuja eutrofização ou empobrecimento de oxigénio na sequência das descargas residuais urbanas se considera improvável.»
+
+114510878

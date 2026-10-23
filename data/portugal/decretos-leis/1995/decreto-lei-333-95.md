@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/12/295a00/80768077.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/333/1995/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1995-643722
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e5605be53813f39340e05158069cfcd3da563915d8af1e97bc0b89b14253237
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 477bef4166cfddd667c2ed5932d3e533bb084d50532bb2592b6dff1840bf3e85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção da Maternidade
 - Aproximação das Legislações
 - CEE
-- Segurança no Trabalho
 - Maternidade
 - Paternidade
 - Proteção à Infância
 - Proteção ao Deficiente
+- Protecção da Maternidade
 - Regime Geral da Segurança Social
 - Regimes de Segurança Social
+- Segurança no Trabalho
 - Segurança Social
 - Subsídio de Adopção
 - Subsídio de Maternidade
@@ -85,20 +85,45 @@ relationships:
   target: pt:dre:603961:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:275867:por
+  label: "Alterados os arts. 1.º, 2.º, 3.º, 5.º, 20.º e 22.º, aditados os arts. 12.º-C e 12.º-D e revogado o art. 22.º-A do\
+    \ Dec Lei 154/88, de 29-Abr DR.IS [99], com as alterações do presente e do Dec Lei 347/98, de 09-Nov DR.IS-A [259], pelo\
+    \ DEC LEI.77/2000.2000.05.09.MTS DR.IS-A [107]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2000-275867
+  date: '2000-05-09'
+- type: amended_by
+  target: pt:dre:546624:por
+  label: "Alterado o art. 14º do Dec Lei 154/88 de 29-Abr, na redacção do presente diploma, pelo DEC LEI.77/2005.13.04.2005.MSSFC,\
+    \ DR.IS-A [72] de 13.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2005-546624
+  date: '2005-04-13'
+- type: amended_by
+  target: pt:dre:456212:por
+  label: "Alterados a partir de 01.08.2008, os arts. 12º-A e 20º do Dec Lei 154/88, de 29-Abr, na redacção do presente diploma,\
+    \ pelo DEC LEI.105/2008.25.06.2008.MTSSO, DR.IS [121] de 25.06.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-2008-456212
+  date: '2008-06-25'
 - type: cites
   target: celex:31992L0085
   label: null
   source: http://data.europa.eu/eli/dir/1992/85/oj
+- type: repealed_by
+  target: pt:dre:603961:por
+  label: "Revogado, a partir de 01.05.2009, o Dec Lei 154/88, de 29-Abr, na redacção do presente diplomas , pelo DEC LEI.91/2009.09.04.2009.MTSSO,\
+    \ DR.IS [70] de 09.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-2009-603961
+  date: '2009-04-09'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:36Z'
   warnings: []
   errors: []
 ---
@@ -187,12 +212,12 @@ Nas licenças gozadas ao abrigo do artigo 3.º da Lei n.º 17/95, de 9 de Junho,
 
 Visto e aprovado em Conselho de Ministros de 14 de Setembro de 1995. - Aníbal António Cavaco Silva - José Frederico de Lemos Salter Cid.
 
-**Promulgado em 24 de Outubro de 1995.**
+Promulgado em 24 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Outubro de 1995.**
+Referendado em 26 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

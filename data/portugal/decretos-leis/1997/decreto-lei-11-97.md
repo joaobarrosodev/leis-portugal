@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/01/011a00/01600164.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/11/1997/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1997-532240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:48:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da9455f58cd92b32562c5c289b1132dd781da12fe5f38bd1717cdff33d2deff9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18138b1024633b98f5d7139f0449443271fe76bd64e7a73740948d6dcf447a4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:48:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Árvore
-- Multa
+- Comércio
 - Contra-ordenação
 - Cortiça
 - Direcção Geral das Florestas
 - Direcção Regional de Agricultura
-- Proteção da Floresta
+- Exploração Florestal
 - Fiscalização
 - Montado de Azinho
 - Montado de Sobro
-- Exploração Florestal
+- Multa
 - Política Florestal
-- Comércio
+- Proteção da Floresta
 - Utilidade Pública
 relationships:
 - type: amended_by
@@ -92,16 +92,79 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/29/1996/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/29/1996/08/02/p/dre
+- type: cites
+  target: pt:dre:196569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687399:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:332749:por
+  label: "Revogado pelo DEC LEI.169/2001.2001.05.25.MADRP DR.IS-A [121]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-2001-332749
+  date: '2001-05-25'
+- type: repealed_by
+  target: pt:dre:490450:por
+  label: "Revogado o Dec Lei 13658, de 23-Maio 1927, na redacção do presente diploma, a partir de 16.12.2011 e sem prejuízo\
+    \ do disposto no n.º 1 do art. 2.º, pelo DEC LEI.254/2009.24.09.2009.MADRP, DR.IS [186] de 24.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2009-490450
+  date: '2009-09-24'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:48:54Z'
   warnings: []
   errors: []
 ---
@@ -378,12 +441,12 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Outubro de 1996. - António Manuel de Carvalho Ferreira Vitorino - José Eduardo Vera Cruz Jardim - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 19 de Dezembro de 1996.**
+Promulgado em 19 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Dezembro de 1996.**
+Referendado em 26 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

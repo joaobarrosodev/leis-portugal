@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/006a00/00730077.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/7/1999/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-1999-489992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:15:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3e638260926579bdfca83f479b4c6752800fd204a41f37a1bfffdd5fa96276a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb54ce0a1b07a8b5b940e2c68a442e76d4567610d50b683d40c1c2b67bc9356b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:15:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pobreza
-- Grupo Desfavorecido
-- Financiamento
-- Garantia
-- Património
+- Câmara Municipal
 - Casa Degradada
-- Propriedade Horizontal
-- Obras de Conservação e Restauro
 - Definição de Competências
 - Emolumento
-- Ministério do Equipamento do Planeamento e da Administração do Território
+- Financiamento
+- Garantia
+- Grupo Desfavorecido
+- Habitação
 - Instituto Nacional de Habitação
 - Licença de Habitação
+- Ministério do Equipamento do Planeamento e da Administração do Território
+- Obras de Conservação e Restauro
 - Orçamento
-- Programa Solarh
-- Programa Especial de Realojamento nas Áreas Metropolitanas de Lisboa e Porto
-- Câmara Municipal
-- Habitação
-- Rendimento
+- Património
+- Pobreza
 - Prédio Urbano
+- Programa Especial de Realojamento nas Áreas Metropolitanas de Lisboa e Porto
+- Programa Solarh
+- Propriedade Horizontal
+- Rendimento
 relationships:
 - type: amended_by
   target: pt:dre:319951:por
@@ -103,16 +103,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/197/1992/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/197/1992/09/22/p/dre
+- type: cites
+  target: pt:dre:231141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406888:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:319951:por
+  label: "Revogado pelo DEC LEI.39/2001.2001.02.09.MES, DR.IS-A [34]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2001-319951
+  date: '2001-02-09'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:15:49Z'
   warnings: []
   errors: []
 ---
@@ -331,12 +356,12 @@ O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Novembro de 1998. - António Manuel de Oliveira Guterres - Fernando Teixeira dos Santos - João Cardona Gomes Cravinho - José Manuel de Matos Fernandes - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 21 de Dezembro de 1998.**
+Promulgado em 21 de Dezembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Dezembro de 1998.**
+Referendado em 30 de Dezembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

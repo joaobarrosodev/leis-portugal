@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/303/2003/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:40:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 963f0a20fda762f561e39a2b346db5019da98b8c448b6ef27df021590572da4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b401b1f8ab95da56c058d16ade87140bf2df13956a90119631787698b859f4d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:40:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,34 +68,61 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Inspecção de Crédito
+- Banco de Portugal
+- Benefícios Fiscais
 - Certificação Profissional
+- CMVM
+- Cobrança de Dívidas
 - Código das Sociedades Comerciais
 - Código dos Valores Mobiliários
 - Constituição de Sociedade
 - Contrato
-- Banco de Portugal
-- Titularização de Créditos
-- Créditos do Estado
-- Instituto de Seguros de Portugal
-- Isenção Fiscal
 - Crédito
-- Obrigações
-- Privilégio Creditório
-- Cobrança de Dívidas
-- Registo de Valores Mobiliários
-- Benefícios Fiscais
-- Segurança Social
-- CMVM
-- Sociedade de Titularização de Créditos
 - Créditos da Segurança Social
+- Créditos do Estado
 - Fundo de Titularização de Créditos
 - Gestão de Créditos
+- Inspecção de Crédito
+- Instituto de Seguros de Portugal
+- Isenção Fiscal
+- Obrigações
+- Privilégio Creditório
+- Registo de Valores Mobiliários
+- Segurança Social
+- Sociedade de Titularização de Créditos
+- Titularização de Créditos
 relationships:
 - type: amended_by
   target: pt:dre:124256706:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667337:por
+  label: "Alterados os arts. 27º e 60º do Dec Lei 453/99 de 05-Nov, com a redacção do presente diploma, pelo DEC LEI.52/2006.15.03.2006.MFAP,\
+    \ DR.IS-A [53] de 15.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2006-667337
+  date: '2006-03-15'
+- type: amended_by
+  target: pt:dre:626446:por
+  label: "Alterados os arts. 6.º, 12.º e 45.º do Dec Lei 453/99, de 05-Nov, na redacção do presente diploma, pelo DEC LEI.211-A/2008.03.11.2008.MFAP,\
+    \ DR.IS [213-Supl] de 03.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-a-2008-626446
+  date: '2008-11-03'
+- type: amended_by
+  target: pt:dre:124256706:por
+  label: Alterados os arts. 1.º, 2.º, 3.º, 4.º, 5.º, 6.º e 7.º (os dois últimos na redação o Dec Lei 211-A/2008, de 03-nov),
+    8.º, 10.º, 12.º (na redação o Dec Lei 211-A/2008, de 03-nov), 18.º, 22.º, 25.º, 26.º, 27.º (na redação do Dec Lei 52/2006,
+    de 15-mar), 28.º, 29.º, 31.º, 35.º a 37.º (este último na redação do Dec Lei 52/2006, de 15-mar), 39.º, 41.º, 45.º (na
+    redação o Dec Lei 211-A/2008, de 03-nov), 61.º, 62.º e 66.º, aditados os arts. 8.º-A, 66.º-A, 66.º-B, 66.º-C, 66.º-D,
+    66.º-E, 66.º-F, 66.º-G e 66.º-H, determinado que o cap. I com a epígrafe «Titularização de créditos» inclui os arts. 1.º
+    a 8.º-A, aditado o cap. IV com a epígrafe «Autoridades competentes», que inclui os arts. 66.º-A a 66.º-C, aditado o cap.
+    V com a epígrafe «Regime sancionatório», que inclui os arts. 66.º-D a 66.º-H e renumerado o atual cap. IV para cap. VI,
+    passando a epígrafe a designar-se «Disposição final», que inclui o art. 67.º e revogados o n.º 2 do art. 2.º, os n.os
+    5 e 6 do art. 4.º, a al. j) do art. 18.º, os arts. 23.º e 24.º, o n.º 3 do art. 25.º, a al. b) do n.º 2, as als. a) a
+    e) do n.º 4 e os n.os 5 e 6 do art. 27.º e o art. 68.º do Dec Lei 453/99, de 05-nov, na versão revista e republicada pelo
+    presente diploma pelo(a) Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/69-2019-124256706
+  date: '2019-08-28'
 - type: cites
   target: celex:31998L0026
   label: null
@@ -109,15 +136,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/453/1999/11/05/p/dre
 article_structure:
-  article_count: 105
+  article_count: 85
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:40:59Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +189,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 3 - O disposto no presente decreto-lei é aplicável, com as devidas adaptações, às operações de titularização de outros activos, competindo à CMVM definir, por regulamento, as regras necessárias para a concretização do respectivo regime.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, só podem ser objecto de cessão para titularização créditos em relação aos quais se verifiquem cumulativamente os seguintes requisitos:
 
@@ -190,7 +219,9 @@ e) [Renumerada como alínea d).]
 
 8 - A entidade cedente fica obrigada a revelar ao cessionário os factos relevantes susceptíveis de afectar significativamente o valor global dos créditos que sejam do seu conhecimento à data da produção de efeitos da cessão.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -206,7 +237,9 @@ e) [Renumerada como alínea d).]
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -224,7 +257,9 @@ e) [Renumerada como alínea d).]
 
 8 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -238,7 +273,9 @@ e) [Renumerada como alínea d).]
 
 6 - Os créditos cedidos pelo Estado e pela segurança social para efeitos de titularização não são susceptíveis de posterior cessão pela entidade cessionária a terceiros, salvo para fundos de titularização de créditos ou sociedades de titularização de créditos com o consentimento do Estado ou da segurança social, conforme aplicável.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 ...
 
@@ -264,7 +301,9 @@ j) ...
 
 l) Autorizar a alienação e a oneração de créditos do fundo, nos casos previstos nos n.os 5 e 6 do artigo 12.º
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 ...
 
@@ -278,7 +317,9 @@ d) ...
 
 e) ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -310,7 +351,9 @@ j) ...
 
 5 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -330,7 +373,9 @@ j) ...
 
 9 - ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -346,7 +391,9 @@ j) ...
 
 7 - As alterações ao regulamento de gestão ficam dependentes de autorização da CMVM, com excepção das resultantes dos casos previstos na alínea b) do n.º 2 do artigo 10.º, as quais são objecto de mera comunicação à CMVM.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -354,7 +401,9 @@ j) ...
 
 3 - Sem prejuízo da aquisição de novos créditos ou da amortização das obrigações titularizadas, nos termos do artigo 61.º, o produto do reembolso dos créditos titularizados e os respectivos rendimentos só podem ser aplicados em instrumentos de baixo risco e elevada liquidez, a definir em regulamento da CMVM.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos números seguintes, as sociedades de titularização de créditos só podem ceder créditos a fundos de titularização de créditos e a outras sociedades de titularização de créditos.
 
@@ -362,7 +411,9 @@ j) ...
 
 3 - Os créditos cedidos pelo Estado e pela segurança social para efeitos de titularização não são susceptíveis de posterior cessão pela entidade cessionária a terceiros, salvo para fundos de titularização de créditos ou sociedades de titularização de créditos com o consentimento do Estado ou da segurança social, conforme aplicável.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
@@ -376,7 +427,9 @@ j) ...
 
 6 - A CMVM, antes de decidir, solicita informações ao Banco de Portugal e ao Instituto de Seguros de Portugal respeitantes à idoneidade, à disponibilidade e à experiência profissional, se aplicável, dos membros dos órgãos de administração ou de fiscalização e dos titulares de participações qualificadas, devendo aquelas entidades, se for caso disso, prestar as referidas informações no prazo de 10 dias.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - ...
 
@@ -394,7 +447,9 @@ j) ...
 
 8 - ...
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - ...
 
@@ -406,7 +461,9 @@ j) ...
 
 5 - ...
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - ...
 
@@ -416,11 +473,15 @@ j) ...
 
 4 - ...
 
-###### Artigo 61.º — Reembolso das obrigações titularizadas e pagamento de despesas com a emissão
+Artigo 61.º
+
+Reembolso das obrigações titularizadas e pagamento de despesas com a emissão
 
 O reembolso e a remuneração das obrigações titularizadas emitidas e o pagamento das despesas e encargos relacionados com a sua emissão são garantidos apenas pelos créditos que lhes estão exclusivamente afectos, pelo produto do seu reembolso, pelos respectivos rendimentos e por outras garantias ou instrumentos de cobertura de riscos eventualmente contratados no âmbito da sua emissão, por aquelas não respondendo o restante património da sociedade de titularização de créditos emitente das obrigações titularizadas.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - Os créditos afectos ao reembolso de uma emissão de obrigações titularizadas, bem como o produto do reembolso daqueles e os respectivos rendimentos, constituem um património autónomo, não respondendo por quaisquer dívidas da sociedade de titularização de créditos até ao pagamento integral dos montantes devidos aos titulares das obrigações titularizadas que constituem aquela emissão e das despesas e encargos com esta relacionados.
 
@@ -432,13 +493,17 @@ O reembolso e a remuneração das obrigações titularizadas emitidas e o pagame
 
 5 - A chave do código a que alude a primeira parte do n.º 2 fica depositada na CMVM, a qual estabelece, por regulamento, as condições em que os titulares de obrigações titularizadas, em caso de incumprimento, podem ter acesso à mesma.
 
-###### Artigo 63.º — Garantia dos credores obrigacionistas e demais credores da emissão
+Artigo 63.º
+
+Garantia dos credores obrigacionistas e demais credores da emissão
 
 1 - Os titulares de obrigações titularizadas e as entidades que prestam serviços relacionados com a sua emissão gozam de privilégio creditório especial sobre os bens que em cada momento integram o património autónomo afecto à respectiva emissão, com precedência sobre quaisquer outros credores.
 
 2 - ...
 
-###### Artigo 64.º — Requisitos e limites da emissão
+Artigo 64.º
+
+Requisitos e limites da emissão
 
 As emissões de obrigações titularizadas não estão sujeitas aos requisitos e limites estabelecidos no n.º 2 do artigo 348.º e no artigo 349.º do Código das Sociedades Comerciais.»
 
@@ -488,7 +553,9 @@ Os artigos 2.º e 7.º do Decreto-Lei n.º 219/2001, de 4 de Agosto, com a redac
 
 5 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As entidades obrigadas a efectuar a retenção parcial ou total do imposto sobre os rendimentos das unidades de titularização ou das obrigações titularizadas devem:
 
@@ -584,15 +651,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministro de 25 de Setembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - António José de Castro Bagão Félix.
 
-**Promulgado em 26 de Novembro de 2003.**
+Promulgado em 26 de Novembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Novembro de 2003.**
+Referendado em 27 de Novembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — Decreto-Lei n.º 453/99, de 5 de Novembro
 

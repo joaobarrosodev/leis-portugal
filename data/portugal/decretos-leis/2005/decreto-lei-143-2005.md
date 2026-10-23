@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/143/2005/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02d997082f4c80428275f136bef7034950eaac6577a184828b7d295e67e272aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf7966d7d7bc4850a0b0c9a6936bb8d0f5aaf7fa040cfe5f3ebec37fa64f5ecb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Gestão Financeira
-- Direcção Geral do Tesouro
-- Ministério da Economia
 - Apoio ao Investimento
 - Direcção Geral da Empresa
+- Direcção Geral do Tesouro
+- Financiamento
 - Fundo de Modernização do Comércio
+- Gestão Financeira
 - IAPMEI
+- Ministério da Economia
 relationships:
 - type: amended_by
   target: pt:dre:545425:por
@@ -91,16 +91,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/12/2004/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/12/2004/03/30/p/dre
+- type: cites
+  target: pt:dre:217164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570303:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:22Z'
   warnings: []
   errors: []
 ---
@@ -141,13 +153,17 @@ Os artigos 2.º, 4.º, 5.º e 6.º do [Decreto-Lei n.º 178/2004](https://diario
 
 3 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
 2 - As receitas do Fundo são afectas ao organismo gestor da vertente financeira, sendo aplicadas preferencialmente em projectos e iniciativas que se dirijam às regiões que estão na origem das mesmas, nos termos definidos nos programas e medidas de apoio a que se refere o n.º 3 do artigo 2.º
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A gestão do Fundo é atribuída:
 
@@ -163,7 +179,9 @@ c) À Direcção-Geral do Tesouro (DGT), na vertente da gestão dos fundos e res
 
 4 - O regulamento de gestão do Fundo é aprovado por portaria conjunta dos Ministros de Estado e das Finanças e da Economia e da Inovação.
 
-###### Artigo 6.º — Estruturas de acompanhamento
+Artigo 6.º
+
+Estruturas de acompanhamento
 
 1 - O Fundo tem estruturas de acompanhamento, a quem compete submeter ao Ministro da Economia e da Inovação as medidas de apoio a financiar pelo Fundo.
 
@@ -185,15 +203,15 @@ O [Decreto-Lei n.º 178/2004](https://diariodarepublica.pt/dr/detalhe/decreto-le
 
 Visto e aprovado em Conselho de Ministros de 29 de Julho de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Fernando Pereira Serrasqueiro - José António Fonseca Vieira da Silva.
 
-**Promulgado em 14 de Agosto de 2005.**
+Promulgado em 14 de Agosto de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Agosto de 2005.**
+Referendado em 18 de Agosto de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 178/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2004-507226), de 27 de Julho
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/10/25200/36033606.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1014-1982-378154
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T07:00:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f64017623f0ea8cdce5fb105e1483d9e9ccecdd85e7d780115c5a7c5e913297
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e30a506369d34fc4c2c3036a515e5c5637864cd5a1619aa1079ec98b68aca8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:00:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Controlo de Qualidade
+- Leite
+- Política de Preços
+- Preço
+- Preço Máximo
+- Produção Leiteira
 relationships:
 - type: amended_by
   target: pt:dre:627020:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:310403:por
+  label: "Alterados os n.ºs 12.º, 14.º, n.º 2, 15.º, 16.º, 17.º, n.º 2, 19.º, 20.º, 22.º e revogados os n.ºs 1.º a 10.º, 18.º\
+    \ e 21.º pela PORT.280/83.15.03.1983.MFP, DR.IS [61] de 15.03.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/280-1983-310403
+  date: '1983-03-15'
+- type: cites
+  target: pt:dre:144403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:627020:por
+  label: "Revogada pela PORT.714-C/83.23.06.1983.MFP, DR.IS [142]Supl de 23.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/714-c-1983-627020
+  date: '1983-06-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:00:44Z'
   warnings: []
   errors: []
 ---
@@ -183,7 +220,7 @@ Leite esterilizado magro ... 0,5
 
 12.º - 1 - Os preços máximos de leite pasteurizado para utilizar fora do local de aquisição, no continente, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/25200/36033606.pdf))](https://files.diariodarepublica.pt/1s/1982/10/25200/36033606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/25200/36033606.pdf)
 
 2 - Aos preços fixados no número anterior para a venda ao público poderá acrescer a importância de $40 por embalagem vendida para consumo fora da localidade onde se situam as instalações de tratamento, revertível para o centro de tratamento, se efectuar a distribuição até ao retalho, ou para o retalhista, se se abastecer no centro de tratamento.
 
@@ -203,7 +240,7 @@ Leite esterilizado magro ... 0,5
 
 15.º - 1 - Os preços máximos, no continente, do leite ultrapasteurizado da fabrico continental para utilizar fora do local de aquisição são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/25200/36033606.pdf))](https://files.diariodarepublica.pt/1s/1982/10/25200/36033606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/25200/36033606.pdf)
 
 2 - É permitida a absorção da margem de distribuição pelo centro de tratamento sempre que este efectue tal operação.
 
@@ -211,7 +248,7 @@ Leite esterilizado magro ... 0,5
 
 16.º - 1 - Os preços máximos de leite esterilizado de fabrico nacional para utilizar fora do local de aquisição, no continente, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/25200/36033606.pdf))](https://files.diariodarepublica.pt/1s/1982/10/25200/36033606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/25200/36033606.pdf)
 
 2 - É permitida a absorção da margem de distribuição pelo centro de tratamento sempre que este efectue tal operação.
 
@@ -219,7 +256,7 @@ Leite esterilizado magro ... 0,5
 
 17.º - 1 - Os preços máximos de leite especial pasteurizado para utilizar fora do local de aquisição, no continente, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/25200/36033606.pdf))](https://files.diariodarepublica.pt/1s/1982/10/25200/36033606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/25200/36033606.pdf)
 
 2 - Aos preços fixados no número anterior para venda ao público poderá acrescer a importância de $40 por embalagem vendida para consumo fora da localidade onde se situam as instalações de tratamento, revertível para o centro de tratamento, quando este efectuar a distribuição até ao retalho, ou para o retalhista, se se abastecer no centro de tratamento.
 
@@ -229,7 +266,7 @@ Leite esterilizado magro ... 0,5
 
 19.º - 1 - Os subsídios a atribuir por litro aos vários tipos de leite para consumo em natureza serão suportados pelo Fundo de Abastecimento e constam do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/25200/36033606.pdf))](https://files.diariodarepublica.pt/1s/1982/10/25200/36033606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/25200/36033606.pdf)
 
 2 - Os subsídios referidos no número anterior serão liquidados directamente pela Junta Nacional dos Produtos Pecuários às entidades que procedem ao tratamento daqueles tipos de leite para consumo em natureza e são válidos a partir de 16 de Setembro de 1982.
 

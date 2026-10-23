@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1979-378552
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54e43611f8ca82fe8f4babde6edf08bbcba0cc87e8b84827500fdabcacc8c9e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 586967312aac773ce15c079253bab287b656b4e41ac617c6346964e9c8ad8edc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comércio
+- Contrato
+- Contrato de Desenvolvimento
+- Contrato Promessa
+- Habitação
+- Taxa
+relationships:
+- type: cites
+  target: pt:dre:255250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621756:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:29Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +115,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Organização do contrato
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Condições de admissão)
 
@@ -105,7 +127,7 @@ b) Possuir, por si ou através de contrato com terceiros, os quadros e o equipam
 
 2 - No caso de as empresas não preencherem os requisitos exigidos na alínea a) do n.º 1 deste artigo, só será feita proposta de dispensa dos referidos requisitos, a aprovar por despacho do Ministro da Habitação e Obras Públicas, quando, pelos serviços competentes, na área da construção civil deste Ministério for prestado parecer favorável.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Organização da proposta inicial)
 
@@ -129,7 +151,7 @@ g) De documento comprovativo emitido pela câmara municipal competente de qual a
 
 3 - A proposta inicial e os elementos justificativos deverão obedecer rigorosamente às instruções estabelecidas e aos modelos a publicar por despacho do Secretário de Estado da Habitação.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Apresentação da proposta inicial)
 
@@ -139,7 +161,7 @@ g) De documento comprovativo emitido pela câmara municipal competente de qual a
 
 3 - Com base nos pareceres técnico e financeiro, será elaborado relatório final donde constarão as razões de rejeição ou as condições de admissão da proposta inicial, bem como calendário para apresentação da proposta final.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Admissão da proposta inicial)
 
@@ -153,7 +175,7 @@ g) De documento comprovativo emitido pela câmara municipal competente de qual a
 
 5 - Admitida a proposta inicial, o FFH poderá assistir e apoiar a empresa, nomeadamente na elaboração ou na cedência, a título oneroso ou gratuito, de projectos de edifícios.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Proposta final)
 
@@ -163,13 +185,13 @@ g) De documento comprovativo emitido pela câmara municipal competente de qual a
 
 3 - Se decorrido o prazo previsto no n.º 1 não for apresentada proposta final ou não tiver sido requerida a prorrogação daquele prazo, fica sem efeito a admissão da proposta inicial e o processo será mandado arquivar.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Contrato-programa)
 
 Quando houver lugar à celebração de um contrato-programa, serão definidos os objectivos e metas parciais e globais que as empresas se propõem atingir, as condições de financiamento que lhes são atribuídas, os benefícios a que terão direito, os prazos de celebração dos contratos e sanções por incumprimento das cláusulas contratuais.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Condições do contrato)
 
@@ -197,7 +219,7 @@ g) O prazo de utilização do crédito por parte da empresa construtora deve coi
 
 5 - Pela garantia prestada pelo FFH através de fiança solidária, poderá este organismo cobrar da empresa uma comissão à taxa de 3/8%, ao trimestre, sobre o montante em dívida no início do mesmo. Desta percentagem reterá 1/8% e devolverá a diferença, no termo do prazo previsto para a conclusão do empreendimento, no caso de cumprimento pontual dos objectivos e metas fixados no contrato.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Prazo de contrato)
 
@@ -205,7 +227,7 @@ g) O prazo de utilização do crédito por parte da empresa construtora deve coi
 
 2 - O prazo contratual fixado nos termos do número anterior poderá, contudo, mediante despacho do Ministro da Habitação e Obras Públicas, ser prorrogado para se atingirem os objectivos e metas referidos, quando a sua falta do cumprimento não for imputável a empresa.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Negociação e aprovação da minuta de contrato)
 
@@ -213,7 +235,7 @@ g) O prazo de utilização do crédito por parte da empresa construtora deve coi
 
 2 - Após adesão da empresa à minuta do contrato e aprovação pelos órgãos competentes da entidade financiadora, será a minuta submetida a despacho dos Ministros da Habitação e Obras Públicas e das Finanças e do Plano, para efeitos de homologação.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Celebração do contrato)
 
@@ -223,7 +245,7 @@ g) O prazo de utilização do crédito por parte da empresa construtora deve coi
 
 3 - No mesmo prazo, o FFH enviará à câmara municipal respectiva cópia do contrato e indicará o número de habitações, sua tipologia e respectivo quadro de preços.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Princípios gerais)
 
@@ -231,7 +253,7 @@ g) O prazo de utilização do crédito por parte da empresa construtora deve coi
 
 2 - A comercialização pode ser feita directamente pela empresa ou ainda por empresa mediadora de compra e venda de propriedades devidamente autorizada, genericamente adiante designada por agente de comercialização.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Abertura de inscrições)
 
@@ -239,7 +261,7 @@ g) O prazo de utilização do crédito por parte da empresa construtora deve coi
 
 2 - Os avisos obedecerão ao disposto no n.º 3 do artigo 18.º do [Decreto-Lei n.º 344/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1979-378554) e deles constará o período de abertura das inscrições, salvo se for praticado o sistema de inscrição permanente, o prazo de validade da inscrição, requisitos exigidos aos candidatos e a taxa de inscrição estabelecida pelo município.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Admissão às inscrições)
 
@@ -253,7 +275,7 @@ g) O prazo de utilização do crédito por parte da empresa construtora deve coi
 
 5 - O limite referido no número anterior também não é aplicável às entidades que pelo seu objecto social pratiquem regimes de atribuição de casas da sua propriedade não incompatíveis com o regime de casas de renda limitada, o que será previamente autorizado por despacho do Ministro da Habitação e Obras Públicas.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Listas de inscrição)
 
@@ -263,7 +285,7 @@ g) O prazo de utilização do crédito por parte da empresa construtora deve coi
 
 3 - Da não inclusão de qualquer candidato nas listas referidas no n.º 1, bem como de erro na ordem de inscrição, cabe reclamação para a câmara municipal, no prazo de cinco dias, a contar da afixação das mesmas.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Início da comercialização)
 
@@ -271,7 +293,7 @@ g) O prazo de utilização do crédito por parte da empresa construtora deve coi
 
 2 - As listas referidas no número anterior serão enviadas ao agente de comercialização pelo seguro de correio, no prazo de quinze dias, pelos serviços do município e delas constarão os nomes dos candidatos pela ordem respectiva e em número adequado à oferta de fogo.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Avisos)
 
@@ -285,7 +307,7 @@ c) O local e as horas onde podem ser prestados os esclarecimentos necessários a
 
 2 - Para efeitos do disposto no número anterior, o agente de comercialização comunicará à câmara os elementos necessários à organização do aviso a que se refere o mesmo número.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Promessa de compra)
 
@@ -299,13 +321,13 @@ c) O local e as horas onde podem ser prestados os esclarecimentos necessários a
 
 5 - No prazo de vinte dias, a contar da data de confirmação de inscrição, o interessado entregará, se for caso disso, os documentos necessários à prova da verificação dos requisitos referidos na alínea b) do n.º 1 do artigo 16.º deste diploma ao agente de comercialização, o qual emitirá recibo comprovativo de entrega. O não cumprimento desta obrigação no prazo indicado implica a anulação da confirmação da inscrição e a perda da quantia já entregue a título de sinal, salvo se no mesmo prazo o interessado comunicar que renuncia aos regimes especiais de crédito.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Organização dos processos de venda)
 
 O agente de comercialização elaborará os processos relativos aos interessados, enviando cópia à entidade financiadora a quem cabe financiar a aquisição, nos termos do artigo 16.º do [Decreto-Lei n.º 344/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1979-378554), de 28 de Agosto, e aos serviços competentes do município.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Actualização das listas de inscrição)
 
@@ -315,13 +337,13 @@ O agente de comercialização elaborará os processos relativos aos interessados
 
 3 - Em caso de segunda recusa para o mesmo empreendimento por parte dos candidatos, o município procederá à sua eliminação das listas de inscrição para o empreendimento.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 («Contrôle» administrativo da venda)
 
 Face aos processos remetidos nos termos do artigo anterior deverão os serviços competentes do município, no prazo de dez dias, verificar a regularidade da atribuição das habitações, podendo determinar, em deliberação fundamentada, o cancelamento da atribuição irregular, devendo a deliberação ser comunicada à empresa no prazo de três dias.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Financiamento à aquisição das habitações)
 
@@ -329,7 +351,7 @@ Face aos processos remetidos nos termos do artigo anterior deverão os serviços
 
 2 - O montante do empréstimo referido no número anterior será entregue directamente à empresa por crédito em conta aberta na entidade financiadora.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Celebração de contrato-promessa de compra)
 
@@ -339,13 +361,13 @@ Face aos processos remetidos nos termos do artigo anterior deverão os serviços
 
 3 - Pode prever-se, no contrato-promessa, o reforço da quantia entregue, nos termos do número anterior, até ao montante e nos termos em que tenha sido concedido o financiamento intercalar previsto no n.º 3 do artigo 16.º do [Decreto-Lei n.º 344/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1979-378554).
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Pagamento de taxas de comercialização)
 
 Havendo lugar ao pagamento de taxa pelos serviços prestados pelo município, nos termos dos artigos 12.º, 14.º, 15.º, 16.º e 19.º, a mesma será cobrada ao agente de comercialização até à celebração da escritura de compra e venda.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Comercialização sem intervenção dos serviços municipais)
 
@@ -353,13 +375,13 @@ Havendo lugar ao pagamento de taxa pelos serviços prestados pelo município, no
 
 2 - A faculdade prevista no número anterior exerce-se exclusivamente em relação ao número de fogos a que se refere o pedido feito ao município, nos termos dos artigos 15.º e 19.º deste diploma.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Dúvidas e omissões)
 
 As dúvidas e omissões que se suscitem na aplicação do presente diploma serão resolvidas e integradas por despacho do Ministro da Habitação e Obras Públicas.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Aplicação e entrada em vigor)
 
@@ -367,8 +389,8 @@ O presente decreto regulamentar entra imediatamente em vigor e aplica-se exclusi
 
 Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - João Orlindo Almeida Pina.
 
-**Promulgado em 30 de Julho de 1979.**
+Promulgado em 30 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

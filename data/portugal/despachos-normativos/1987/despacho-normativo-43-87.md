@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/04/09600/16811682.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/43-1987-665702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T07:37:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a381a87367aa6f053d83e02f9955d3a2695113a87b169eb7249bd6f7ecbf6cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f85f7510d4e864fcc3f47abee389fa09142f2a3e3b30180c0a9d9a13dbd950eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:37:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comparticipação do Estado
+- Definição de Competências
+- Direcção Geral do Ordenamento do Território
+- Equipamento Urbano
 relationships:
 - type: amended_by
   target: pt:dre:373406:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:221299:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:218294:por
+  label: Rectificado pela DECL.DD3053.1987.05.15.PCM, DR.IS [124]2ºSupl de 30/Mai/1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-218294
+  date: '1987-05-15'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DESPACHO NORMATIVO NUMERO 48/88, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 152, DE 4/7/88.\0\
+    88.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:373406:por
+  label: Revogado, para as candidaturas entradas a partir de 01.07.1988, pelo(a) Despacho Normativo n.º 48/88 - Diário da
+    República n.º 152/1988, Série I de 1988-07-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/48-1988-373406
+  date: '1988-07-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:37:49Z'
   warnings: []
   errors: []
 ---

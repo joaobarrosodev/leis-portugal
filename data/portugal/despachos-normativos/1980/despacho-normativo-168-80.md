@@ -48,40 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/168-1980-474685
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T07:00:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b05ff1d63326f23dd8eed7a4ba04f930ac62d8d7fd2f5fb0b2a3f2d7d3f83158
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63ad1400ffe226816963ce0f709be7d0860e2bfa651476086500351d3f1c9388
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:00:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Estatuto Laboral das Administrações e Juntas Portuárias
+- Integração de Trabalhadores
+- Junta Autónoma dos Portos
+- Trabalhador Portuário
 relationships:
 - type: amended_by
   target: pt:dre:601079:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:381287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681619:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:00:17Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +103,7 @@ validation:
 
 Determina, nos termos do n.º 6 do artigo 82.º do [Decreto-Lei n.º 247/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1979-381287), de 25 de Julho, a alteração seguinte ao [Despacho Normativo n.º 136/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/136-1980-681619), de 19 de Abril:
 
-###### Artigo único. A alínea c) do n.º 3 do artigo 4.º do [Despacho Normativo n.º 136/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/136-1980-681619) passa a ter a redacção seguinte:
+Artigo único. A alínea c) do n.º 3 do artigo 4.º do [Despacho Normativo n.º 136/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/136-1980-681619) passa a ter a redacção seguinte:
 
 c) Trinta anos de serviço na carreira ou em mais de uma carreira, quando uma delas constitua, por lei, campo de recrutamento da outra, mesmo que não exclusivo.
 

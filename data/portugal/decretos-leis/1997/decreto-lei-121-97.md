@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/115a00/24752475.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/121/1997/05/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1997-399012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a897c844ec78dc520db5b6a0f95e8c395127cb943c245f1011aee42e600fd8a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25d283d9fb0287a230ecc1b7b2a05e74dd29f40fb7b8fbbad7dd4b7e76cc805a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carta de Condução
+- Centro de Exame
+- Contra-ordenação
 - Exame de Condução
 - Multa
-- Contra-ordenação
-- Centro de Exame
 - Regime Jurídico
 relationships:
 - type: amended_by
@@ -89,16 +89,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/254/1992/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/254/1992/11/20/p/dre
+- type: cites
+  target: pt:dre:546976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611319:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:423602:por
+  label: "Revogado pelo DEC LEI.209/98.1998.07.15.MAI, DR.IS-A [161] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-1998-423602
+  date: '1998-07-15'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:04Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +140,9 @@ Fundo de fiscalização
 
 Por cada exame realizado em centro privado de exame, as associações autorizadas nos termos do artigo 2.º do [Decreto-Lei n.º 175/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1991-611319), de 11 de Maio, obrigam-se a fazer reverter para o fundo a que se refere o artigo 13.º do [Decreto-Lei n.º 254/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1992-584257), de 20 de Novembro, importância igual à estabelecida regulamentarmente para cada acto de inspecção de veículo pesado, nos termos do disposto no n.º 2 do artigo acima referido.
 
-###### Artigo 12.º — Sanções
+Artigo 12.º
+
+Sanções
 
 1 - Constituem contra-ordenações, sancionadas com coima de:
 
@@ -141,12 +160,12 @@ c) ...
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1997. - António Manuel de Carvalho Ferreira Vitorino - Alberto Bernardes Costa.
 
-**Promulgado em 22 de Abril de 1997.**
+Promulgado em 22 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Abril de 1997.**
+Referendado em 29 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

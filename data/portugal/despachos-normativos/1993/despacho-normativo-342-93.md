@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/255b00/61246126.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/342/1993/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/342-1993-664086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T08:05:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 172c326beb5bbe9cf9b82dcef3e6c195432f9932706d763b696700b34cd46d07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 686747239023a3bc08b9c5dcd9823d7f2d23156d670dfa730e078d58823bf3ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:05:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,20 +75,48 @@ relationships:
   target: pt:dre:493768:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 264/93, DA PCM, DE 28 DE DEZEMBRO, PUBLICADA NO DR.IS-B, 304, 7SUPL,
+    DE 931231.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/154/1991/04/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/154/1991/04/23/p/dre
+- type: cites
+  target: pt:dre:326736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:493768:por
+  label: "Revogado, sem prejuízo da sua aplicação aos pedidos de reembolso relativos a periodos anteriores aos mencionados\
+    \ no nº 11 do DN.53/2005.21.11.2005.MFAP, DR.IS-B [239] de 15.12.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/53-2005-493768
+  date: '2005-11-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:05:45Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +199,7 @@ Pelo Ministro das Finanças, Vasco Jorge Valdez Ferreira Matias, Subsecretário 
 
 ## ANEXO — [a que se refere a alínea c) do n.º 2 do Despacho Normativo n.º 342/93]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/255b00/61246126.pdf))](https://files.diariodarepublica.pt/1s/1993/10/255b00/61246126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/255b00/61246126.pdf)
 
 Instruções de preenchimento da relação de fornecedores
 

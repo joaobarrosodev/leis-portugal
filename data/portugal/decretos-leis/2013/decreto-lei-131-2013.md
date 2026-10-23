@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/131/2013/09/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2013-500020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bcf7cb068d05a944ec6142acad698c5e270f8246413c029fbd8e65a7e3e192e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d8044db523e92500c6907daab627281605a41b9b756e8d44b3e9686b73e2d7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
-- Financiamento
-- Instituto do Emprego e Formação Profissional
-- Centro de Emprego Protegido
-- Formação Profissional
 - Barreira Arquitectónica
+- Centro de Emprego Protegido
+- Deficiente
 - Emprego Protegido
-- Programa de Emprego e Apoio à Qualificação das Pessoas com Deficiências e Incapacidades
+- Financiamento
+- Formação Profissional
 - Fórum para a Integração Profissional
+- Instituto do Emprego e Formação Profissional
 - Política de Emprego
+- Programa de Emprego e Apoio à Qualificação das Pessoas com Deficiências e Incapacidades
 - Reconversão Profissional
 - Regime Jurídico
 relationships:
@@ -99,16 +99,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/24/2011/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/24/2011/06/16/p/dre
+- type: cites
+  target: pt:dre:182226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669997:por
+  label: null
+  source: null
 article_structure:
-  article_count: 113
+  article_count: 102
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:52Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +187,9 @@ c) [...];
 
 d) [Revogada].
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...].
 
@@ -165,7 +203,9 @@ d) [Revogada].
 
 6 - [Anterior n.º 5].
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - O IEFP, I. P., concede apoio financeiro para adaptação de postos de trabalho aos empregadores de direito privado ou de direito público que não façam parte da administração direta do Estado que, por admitirem pessoa com deficiência e incapacidade desempregada ou à procura do primeiro emprego, inscrita nos centros de emprego ou nos centros de emprego e formação profissional, através de contrato de trabalho sem termo ou a termo com duração mínima inicial de um ano, necessitem de adaptar o equipamento ou o posto de trabalho às dificuldades funcionais do trabalhador.
 
@@ -179,7 +219,9 @@ d) [Revogada].
 
 6 - [...].
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - O IEFP, I. P., concede apoio financeiro para eliminação de barreiras arquitetónicas aos empregadores de direito privado ou de direito público que não façam parte da administração direta do Estado que admitam pessoas com deficiência e incapacidade nas condições referidas no n.º 1 do artigo anterior e cuja funcionalidade dependa das alterações a introduzir no posto de trabalho.
 
@@ -191,7 +233,9 @@ d) [Revogada].
 
 5 - [...].
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - Os estágios de inserção para pessoas com deficiência e incapacidade previstos no presente capítulo regem-se, com as necessárias adaptações, pelas disposições aplicáveis à medida estágios emprego prevista em legislação própria, sem prejuízo do disposto nos números seguintes.
 
@@ -203,7 +247,9 @@ d) [Revogada].
 
 5 - [...].
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - Sem prejuízo da concessão dos apoios previstos no regime jurídico do «Contrato emprego-inserção» e do «Contrato emprego-inserção +», caso a entidade promotora não assegure ao destinatário o transporte entre a residência habitual e o local da atividade, deve pagar as despesas de transporte em montante equivalente ao custo das viagens realizadas em transporte coletivo ou, se não for possível a sua utilização, subsídio de transporte mensal no montante máximo de 12,5% do IAS, salvo situações excecionais e devidamente fundamentadas, a apreciar pelo IEFP, I. P.
 
@@ -213,7 +259,9 @@ a) Comparticipação nas despesas ou subsídio de transporte e no subsídio de a
 
 b) [Anterior alínea b) do n.º 1].
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - [...].
 
@@ -225,13 +273,17 @@ b) [Anterior alínea b) do n.º 1].
 
 5 - O IEFP, I. P., pode ainda conceder apoios financeiros aos centros de emprego protegido criados por pessoas coletivas de direito público, destinados à comparticipação na retribuição e contribuições para a segurança social dos trabalhadores em regime de emprego protegido, nos termos da secção VII, bem como os apoios previstos no n.º 3.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - Os empregadores de direito privado ou de direito público que não façam parte da administração direta do Estado que criem postos de trabalho em regime de contrato de emprego apoiado em entidades empregadoras podem beneficiar de apoios financeiros para comparticipação nas despesas com a retribuição e contribuições para a segurança social dos trabalhadores em regime de contrato de emprego apoiado, nos termos da secção VII.
 
 2 - [...].
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - Os empregadores de direito público ou privado do trabalhador integrado num centro de emprego protegido ou num contrato de emprego apoiado em entidades empregadoras podem ser compensados pelo IEFP, I. P., pelas despesas com a respetiva retribuição.
 
@@ -241,11 +293,15 @@ b) [Anterior alínea b) do n.º 1].
 
 4 - Os empregadores de direito público ou privado que pretendam beneficiar dos apoios previstos no presente artigo devem solicitá-lo ao IEFP, I. P.
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 O procedimento de avaliação da pessoa com deficiência e incapacidade, para efeitos de integração em postos de trabalho em regime de emprego protegido ou de contrato de emprego apoiado em entidades empregadoras, é realizado pelos centros de emprego ou centros de emprego e formação profissional, em articulação com a rede de centros de recursos do IEFP, I. P.
 
-###### Artigo 74.º — Procedimento de avaliação
+Artigo 74.º
+
+Procedimento de avaliação
 
 1 - A avaliação inicial é realizada por uma equipa técnica, constituída no âmbito do centro de emprego ou centro de emprego e formação profissional, composta por três técnicos da área do emprego e formação profissional, um dos quais pertence obrigatoriamente à equipa técnica do centro de emprego protegido ou da entidade que promove o programa de emprego apoiado.
 
@@ -279,7 +335,9 @@ d) Validar o processo em conjunto com a equipa técnica constituída no âmbito 
 
 8 - O procedimento de determinação da capacidade para o trabalho não deve ultrapassar os dois meses de duração.
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 A capacidade para o trabalho para efeitos de integração no regime de emprego apoiado é fixada pelo IEFP, I. P., nos termos do parecer previsto no n.º 7 do artigo 74.º»
 
@@ -305,15 +363,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de julho de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - António de Magalhães Pires de Lima - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 19 de agosto de 2013.**
+Promulgado em 19 de agosto de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de setembro de 2013.**
+Referendado em 4 de setembro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 

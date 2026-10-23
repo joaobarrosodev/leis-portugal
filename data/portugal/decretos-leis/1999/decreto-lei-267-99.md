@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/163a00/44094410.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/267/1999/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1999-358170
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4312c2b5fa4440e832da25d406d81adabca854983e2ec0bd551e16f77bdf1985
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ad05d86e113fd4890b841445b848e5bfd4c45e0b1827cd59460e46aa97f4301
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,21 @@ relationships:
   target: celex:31998L0062
   label: null
   source: http://data.europa.eu/eli/dir/1998/62/oj
+- type: repealed_by
+  target: pt:dre:344964:por
+  label: "Revogado pelo DEC LEI.100/2001.2001.03.28.MS DR.IS-A [74]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-2001-344964
+  date: '2001-03-28'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:06Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +151,7 @@ b) São acrescentados os números de ordem seguintes:
 
 No anexo III da Portaria n.º 1281/97, de 31 de Dezembro, o número de ordem 57 é alterado do modo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1999/07/163a00/44094410.pdf))](https://files.diariodarepublica.pt/1s/1999/07/163a00/44094410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1999/07/163a00/44094410.pdf)
 
 ###### Artigo 3.º
 
@@ -154,13 +159,13 @@ O anexo IV da Portaria n.º 1281/97, de 31 de Dezembro, é alterado nos termos s
 
 a) Primeira parte: é acrescentado o número de ordem seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/163a00/44094410.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/163a00/44094410.pdf)](https://files.diariodarepublica.pt/1s/1999/07/163a00/44094410.pdf)](https://files.diariodarepublica.pt/1s/1999/07/163a00/44094410.pdf)
 
 b) Segunda parte: é suprimido o número de ordem 16; relativamente aos números de ordem 21 e 29, a data de 30 de Junho de 1997 é substituída pela de 30 de Junho de 1999.
 
 c) O número de ordem 29 é alterado do modo seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/163a00/44094410.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/163a00/44094410.pdf)](https://files.diariodarepublica.pt/1s/1999/07/163a00/44094410.pdf)](https://files.diariodarepublica.pt/1s/1999/07/163a00/44094410.pdf)
 
 ###### Artigo 4.º
 
@@ -168,7 +173,7 @@ O anexo VII da Portaria n.º 1281/97, de 31 de Dezembro, é alterado nos termos 
 
 a) Primeira parte: são acrescentados os números de ordem seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/163a00/44094410.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/163a00/44094410.pdf)](https://files.diariodarepublica.pt/1s/1999/07/163a00/44094410.pdf)](https://files.diariodarepublica.pt/1s/1999/07/163a00/44094410.pdf)
 
 b) Segunda parte: são suprimidos os números de ordem 2, 6, 12, 25, 26 e 32; nos números de ordem 5, 17 e 29 a data de 30 de Junho de 1997 é substituída pela de 30 de Junho de 1999.
 
@@ -180,12 +185,12 @@ b) Segunda parte: são suprimidos os números de ordem 2, 6, 12, 25, 26 e 32; no
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 29 de Junho de 1999.**
+Promulgado em 29 de Junho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Julho de 1999.**
+Referendado em 1 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

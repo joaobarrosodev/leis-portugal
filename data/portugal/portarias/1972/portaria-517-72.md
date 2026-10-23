@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/517-1972-688628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b0f2c8aeddabb4f6fa8892ea398cbab991db737937c059136df93403b82b969
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 639e491e04b0421c3381cfc4a748f49199965ba32ab7e8e5e13839ed0af2ea5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:184962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557873:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:18Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +116,7 @@ Em Espanha os adubos azotados e os superfosfatos têm preços que excedem de 10 
 
 Tomando como referência dois dos adubos elementares de maior consumo, os preços de venda à lavoura em Portugal, Espanha e Itália são os seguintes, por 100 Kg, em igualdade de condições de embalagens:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20500/12411242.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20500/12411242.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20500/12411242.pdf)
 
 2. Na campanha de 1972-1973 o regime de preços e comércio de adubos não vai afastar-se significativamente dos anteriores e obedecerá aos seguintes princípios:
 
@@ -126,11 +146,11 @@ I) Preços
 
 Adubos a granel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20500/12411242.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20500/12411242.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20500/12411242.pdf)
 
 Adubos ensacados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20500/12411242.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20500/12411242.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20500/12411242.pdf)
 
 Notas
 

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/08/191a00/58505851.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/183/2002/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2002-171695
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8df1cafb58f36be24c43db4ae481f33763b2caf6c68978b28de48d7fa9616a55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d508ebbb7223a3a6af098dcaa203d4dbe4647eb08a049fdfcfe9bb8f2a482c9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Aproximação das Legislações
-- Etiquetagem
 - Embalagem
-- Informação do Consumidor
-- Proteção do Consumidor
+- Etiquetagem
 - Indústria Alimentar
+- Informação do Consumidor
+- Produto Alimentar
+- Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:74661197:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:231115:por
+  label: "Alterado o art. 3º pelo DEC LEI.50/2003.2003.03.25.MADRP DR.IS-A [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-2003-231115
+  date: '2003-03-25'
+- type: amended_by
+  target: pt:dre:241861:por
+  label: "Substituído o anexo I do Dec Lei 560/99, de 18-Dez, aditado pelo presente diploma, pelo DEC LEI.126/2005.05.08.2005.MADRP,\
+    \ DR.IS-A [150] de 05.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-2005-241861
+  date: '2005-08-05'
 - type: cites
   target: celex:31979L0112
   label: null
@@ -91,16 +102,28 @@ relationships:
   target: celex:32001L0101
   label: null
   source: http://data.europa.eu/eli/dir/2001/101/oj
+- type: corrected_by
+  target: pt:dre:657224:por
+  label: "Rectificado pela DECL-RECT.31/2002.2002.09.24.PCM, DR.IS-A [231] de 7/Out/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/31-2002-657224
+  date: '2002-09-24'
+- type: repealed_by
+  target: pt:dre:74661197:por
+  label: Revogado, a partir de 10.06.2016, o Dec Lei 560/99 de 18-dez, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 26/2016 - Diário da República n.º 111/2016, Série I de 2016-06-09, sem prejuízo do disposto transitoriamente no seu
+    art. 15.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-2016-74661197
+  date: '2016-06-09'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:28Z'
   warnings: []
   errors: []
 ---
@@ -141,15 +164,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Julho de 2002. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira - Isaltino Afonso de Morais.
 
-**Promulgado em 29 de Julho de 2002.**
+Promulgado em 29 de Julho de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Agosto de 2002.**
+Referendado em 5 de Agosto de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 

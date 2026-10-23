@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/56/2008/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2008-246491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04f0af759d6d4895a836379bff80c7abc04898a67931f0714723036191072626
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 595267fa7f58eaf37f2d8060dec63a4557775fabab5cc94d6def0de77e2d1836
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
 - Comissão Nacional de Protecção Civil
-- Primeiro-ministro
 - Ministro da Administração Interna
+- Primeiro-ministro
+- Proteção Civil
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/23/1993/07/19/p/dre
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27/2006/07/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/2006/07/03/p/dre
+- type: cites
+  target: pt:dre:392644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:08Z'
   warnings: []
   errors: []
 ---
@@ -119,12 +127,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Janeiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Henrique Nuno Pires Severiano Teixeira - Rui Carlos Pereira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - Pedro Manuel Dias de Jesus Marques - Francisco Ventura Ramos - Manuel Frederico Tojal de Valsassina Heitor.
 
-**Promulgado em 13 de Março de 2008.**
+Promulgado em 13 de Março de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de Março de 2008.**
+Referendado em 17 de Março de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/07/14300/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/64/2025/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/64-2025-926481286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T05:55:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f0606228f46d9dcdeb24c73104484d84977120a5df5c52755b04443c92788fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b1614bc180544c0b6281604ea11bd06ba504c94f9821d05f9adce46df25a91b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:55:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embaixador
-- Presidente da República
-- Nomeação
 - Costa Rica
+- Embaixador
 - Governo XXV
+- Nomeação
+- Presidente da República
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:55:27Z'
   warnings: []
   errors: []
 ---
@@ -90,16 +90,18 @@ validation:
 
 de 28 de julho
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o ministro plenipotenciário de 1.ª classe Paulo Carlos Ferreira Chaves como Embaixador de Portugal não residente na República da Costa Rica.
 
-**Assinado em 15 de julho de 2025.**
+Assinado em 15 de julho de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 17 de julho de 2025.**
+Referendado em 17 de julho de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo Artur dos Santos de Castro de Campos Rangel.**
+O Primeiro-Ministro, Luís Montenegro. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo Artur dos Santos de Castro de Campos Rangel.
+
+119352378

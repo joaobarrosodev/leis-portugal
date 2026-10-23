@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 140/1979, 1º Suplemento, Série I de 1979-06-20
   number: '140'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1350-(4) a 1350-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/06/14001/00040010.pdf
 entry_into_force_dates: []
@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/135-a-1979-269617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:50:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aec31d8461f0d359fa8c6ba3d9b4d1f19adce71957a0bc3d99abbd6995a6a4a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2dc8d84e85037c1cc9da18d2acc286ddf47ed07d28a011916b1a1503f7d47193
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:50:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Plano de Estudos
+- Sistema Educativo
+relationships:
+- type: cites
+  target: pt:dre:259204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:378971:por
+  label: Rectificado pela DECL.DD7258.18.08.1979.PCM, DR.IS [190] de 18.08.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-378971
+  date: '1979-08-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:50:40Z'
   warnings: []
   errors: []
 ---
@@ -114,18 +129,18 @@ QUADRO I
 
 Disciplinas de formação geral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14001/00040010.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14001/00040010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14001/00040010.pdf)
 
 QUADRO II
 
 Disciplinas de formação específica e opções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14001/00040010.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14001/00040010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14001/00040010.pdf)
 
 QUADRO III
 
 Componentes de formação vocacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14001/00040010.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14001/00040010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14001/00040010.pdf)
 
 Ministério da Educação e Investigação Científica, 5 de Junho de 1979. - O Ministro da Educação e Investigação Científica, Luís Francisco Valente de Oliveira.

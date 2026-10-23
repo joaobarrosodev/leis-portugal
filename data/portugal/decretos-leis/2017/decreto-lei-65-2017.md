@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/11300/0296802977.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/65/2017/06/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c74a16d5c8e60c63fc2b03c2563ffaec8f4c3faf401a120e90b0a77c04eeb62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c734bc8e5d0617dff65757f1fa7f36daf98459953753a2d8fa574d8a89c3171a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,6 +65,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Contra-ordenação
 - Fiscalização
 - Instituto da Conservação da Natureza e das Florestas
@@ -74,12 +75,17 @@ subjects:
 - Plano Regional de Ordenamento Florestal
 - Regime Jurídico
 - ZONA de Intervenção Florestal
-- Agência Portuguesa do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:118051704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:118051704:por
+  label: Alterados os arts. 4.º e 25.º do Dec Lei 16/2009, de 14-jan, na versão revista e republicada pelo presente diploma
+    pelo(a) Decreto-Lei n.º 11/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2019-118051704
+  date: '2019-01-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/2010/10/22/p/dre
   label: null
@@ -121,15 +127,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
 article_structure:
-  article_count: 57
+  article_count: 37
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:05Z'
   warnings: []
   errors: []
 ---
@@ -170,7 +176,9 @@ Os artigos 1.º, 3.º, 4.º, 5.º, 7.º, 8.º, 9.º, 10.º, 11.º, 14.º, 15.º,
 
 2 - [...].
 
-###### Artigo 3.º — Tipologia de programa e planos
+Artigo 3.º
+
+Tipologia de programa e planos
 
 1 - Os programas e planos de âmbito florestal são dos seguintes tipos:
 
@@ -182,7 +190,9 @@ c) [...].
 
 2 - [...].
 
-###### Artigo 4.º — Definição de programa regional de ordenamento florestal
+Artigo 4.º
+
+Definição de programa regional de ordenamento florestal
 
 1 - O PROF é o instrumento programático de concretização de política setorial à escala da região, que estabelece as normas específicas de utilização e exploração florestal dos seus espaços, de acordo com os objetivos previstos na Estratégia Nacional para as Florestas, com a finalidade de garantir a produção sustentada do conjunto de bens e serviços a eles associados.
 
@@ -194,11 +204,15 @@ c) [...].
 
 5 - Os Planos Diretores Municipais devem adaptar as suas disposições ao conteúdo dos PROF, com os quais devam ser compatíveis, nos termos do disposto no artigo 121.º do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/67212743/details/normal?l=1), de 14 de maio, envolvendo, obrigatoriamente, a atualização das respetivas plantas.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 Os PROF têm como base territorial de referência as unidades, ou conjunto de unidades, de nível III da nomenclatura de unidades territoriais para fins estatísticos (NUTS).
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A elaboração dos PROF é da responsabilidade do Instituto da Conservação da Natureza e Florestas, I. P. (ICNF, I. P.).
 
@@ -214,7 +228,9 @@ d) [...]
 
 e) A indicação da obrigatoriedade de sujeição do programa a avaliação ambiental nos termos do n.º 1 do artigo 3.º do [Decreto-Lei n.º 232/2007](https://diariodarepublica.pt/web/guest/pesquisa/-/search/639155/details/normal?l=1), de 15 de junho.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]:
 
@@ -250,7 +266,9 @@ k) Um representante das federações de baldios, nos casos em que se verifique a
 
 6 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -258,7 +276,9 @@ k) Um representante das federações de baldios, nos casos em que se verifique a
 
 3 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Concluída a elaboração da proposta de PROF e emitidos os pareceres previstos nos artigos anteriores ou decorridos os prazos aí fixados, o ICNF, I. P., procede à abertura de um período de discussão pública da proposta de programa setorial através de aviso a publicar com a antecedência de cinco dias, no Diário da República, e a divulgar através da comunicação social e do sítio na Internet do ICNF, I. P.
 
@@ -268,13 +288,17 @@ k) Um representante das federações de baldios, nos casos em que se verifique a
 
 4 - Findo o período de discussão pública, o ICNF, I. P., pondera e divulga os respetivos resultados, designadamente através da comunicação social e do seu sítio na Internet, e elabora a versão final da proposta para aprovação.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
 2 - Os Planos Diretores Municipais devem adaptar as suas disposições ao conteúdo dos PROF nos termos e no prazo definidos, respetivamente, na alínea a) do n.º 2 do artigo 51.º e no n.º 2 do artigo 199.º do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/67212743/details/normal?l=1), de 14 de maio.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A elaboração dos PGF compete ao ICNF, I. P., ou às autarquias locais, como entidade pública responsável pela sua gestão, no caso dos territórios previstos na alínea a) do n.º 1 do artigo anterior, no prazo de três anos contados da data da publicação do PROF respetivo, podendo, no caso de explorações florestais e agroflorestais comunitárias em regime de associação com o Estado, ser estabelecido protocolo atribuindo essa competência aos órgãos de administração dos baldios.
 
@@ -288,7 +312,9 @@ k) Um representante das federações de baldios, nos casos em que se verifique a
 
 6 - Os PGF relativos a explorações florestais e agroflorestais que se candidatem a fundos nacionais ou da União Europeia devem ser elaborados e aprovados previamente ou em simultâneo ao desenvolvimento do projeto apoiado.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...].
 
@@ -304,13 +330,17 @@ b) [Revogada].
 
 5 - Os PGF das zonas de intervenção florestal regem-se pelo regime de criação de zonas de intervenção florestal, aprovado pelo [Decreto-Lei n.º 127/2005](https://diariodarepublica.pt/web/guest/pesquisa/-/search/241857/details/normal?l=1), de 5 de agosto.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Ficam obrigatoriamente sujeitos à elaboração de PEIF todos os territórios que, por efeito das disposições legais ou notificação do ICNF, I. P., se obriguem a medidas extraordinárias de intervenção.
 
 2 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]:
 
@@ -324,7 +354,9 @@ d) [...].
 
 2 - [Revogado].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -340,7 +372,9 @@ c) [...].
 
 4 - O desenvolvimento técnico do conteúdo dos instrumentos previstos nos números anteriores é definido pelo conselho diretivo do ICNF, I. P., e publicitado no seu sítio na Internet.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...].
 
@@ -348,7 +382,9 @@ c) [...].
 
 3 - [...].
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Os PGF são aprovados pelo ICNF, I. P., que dispõe de um prazo de 30 dias para os apreciar, findo o qual deve ser comunicada a decisão aos interessados.
 
@@ -366,7 +402,9 @@ c) [...].
 
 8 - Não são devidas taxas nem quaisquer outros encargos pela emissão dos pareceres obrigatórios referidos no presente artigo.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Os PEIF são aprovados pelo ICNF, I. P., que dispõe de um prazo de 30 dias para os apreciar, findo o qual deve ser comunicada a decisão aos interessados.
 
@@ -382,7 +420,9 @@ c) [...].
 
 7 - Não são devidas taxas nem quaisquer outros encargos pela emissão dos pareceres obrigatórios referidos no presente artigo.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...].
 
@@ -398,7 +438,9 @@ c) [...].
 
 7 - Os interessados podem requerer ao ICNF, I. P., até ao termo do prazo referido no número anterior, a emissão de uma declaração de desnecessidade de adaptação dos PGF, na medida em que estes se conformem com os respetivos PROF entretanto aprovados ou revistos.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...].
 
@@ -418,7 +460,9 @@ Fiscalização
 
 2 - Sempre que qualquer entidade competente tome conhecimento de situações que indiciem a prática de uma contraordenação prevista no presente decreto-lei, deve dar notícia ao ICNF, I. P., e remeter-lhe toda a documentação de que disponha, para efeito de instauração e instrução do processo de contraordenação e consequente decisão.
 
-###### Artigo 24.º-B — Contraordenações
+Artigo 24.º-B
+
+Contraordenações
 
 1 - Constitui contraordenação punível com coima de (euro) 500,00 a (euro) 3 700,00, no caso de pessoas singulares, e de (euro) 2 500,00 a (euro) 44 000,00 no caso de pessoas coletivas:
 
@@ -432,7 +476,9 @@ b) O incumprimento do disposto no n.º 1 do artigo 17.º
 
 4 - Às contraordenações previstas no presente decreto-lei é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social, constante do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/web/guest/pesquisa/-/search/376273/details/normal?l=1), de 27 de outubro, alterado pelos [Decretos-Leis n.os 356/89](https://diariodarepublica.pt/web/guest/pesquisa/-/search/549005/details/normal?l=1), de 17 de outubro, [244/95](https://diariodarepublica.pt/web/guest/pesquisa/-/search/563986/details/normal?l=1), de 14 de setembro, e [323/2001](https://diariodarepublica.pt/web/guest/pesquisa/-/search/540216/details/normal?l=1), de 17 de dezembro, e pela [Lei n.º 109/2001](https://diariodarepublica.pt/web/guest/pesquisa/-/search/536642/details/normal?l=1), de 24 de dezembro.
 
-###### Artigo 24.º-C — Afetação do produto das coimas
+Artigo 24.º-C
+
+Afetação do produto das coimas
 
 O produto das coimas é afetado da seguinte forma:
 
@@ -464,15 +510,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministro de 21 de março de 2017. - António Luís Santos da Costa - Fernando António Portela Rocha de Andrade - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
 
-**Promulgado em 19 de maio de 2017.**
+Promulgado em 19 de maio de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 24 de maio de 2017.**
+Referendado em 24 de maio de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

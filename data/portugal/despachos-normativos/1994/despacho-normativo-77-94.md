@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/77/1994/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/77-1994-522235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T08:26:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a25a592ff28e10b322ed7d6767ba4bc50bd308e32d23a3a6c11e62930756a0b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf4eba937df03a4d881e614f56b5526a264586e20fd429f13dc34b7020282a0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:26:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/332/1991/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/332/1991/09/06/p/dre
+- type: cites
+  target: pt:dre:304536:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:26:56Z'
   warnings: []
   errors: []
 ---
@@ -94,6 +98,6 @@ Assim:
 
 Nos termos do disposto no artigo 8.º do [Decreto-Lei n.º 332/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1991-304536), de 6 de Setembro, e ao abrigo do Despacho n.º 18/91-XII, de 6 de Dezembro, do Ministo das Finanças, determino que sejam fixados os seguintes valores definitivos para as indemnizações respeitantes às sociedades adiante indicadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/033b00/06320633.pdf))](https://files.diariodarepublica.pt/1s/1994/02/033b00/06320633.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/033b00/06320633.pdf)
 
 Ministério das Finanças, 25 de Janeiro de 1994. - O Secretário de Estado do Tesouro, Francisco Adelino Gusmão Esteves de Carvalho.

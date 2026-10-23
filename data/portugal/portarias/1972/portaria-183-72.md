@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/183-1972-396152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9946c821ea55ee843c35ebb880b8f9a02116a0bd3a69f40d86d4e61424b5b10a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e07e870d98b1b39a1817145917c4c5f7fd27c0e1a0fc4967b9c8df2407c47a27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:24Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +97,16 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, nos 
 
 ### CAPÍTULO 1.º — Receita ordinária
 
-###### Artigo 4.º, n.º 1) «Receitas consignadas ao Fundo de Defesa Militar do Ultramar - Do orçamento geral da província com destino ao Departamento da Defesa Nacional para o referido Fundo» ... 1017649$90
+Artigo 4.º, n.º 1) «Receitas consignadas ao Fundo de Defesa Militar do Ultramar - Do orçamento geral da província com destino ao Departamento da Defesa Nacional para o referido Fundo» ... 1017649$90
 
 ### CAPÍTULO 1.º — Despesa ordinária
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 14.º, n.º 1) «Consignação de receitas - Fundo de Defesa Militar do Ultramar - Importância das receitas consignadas, constantes do artigo 4.º do orçamento da receita, a transferir para o Departamento da Defesa Nacional com destino ao Fundo de Defesa Militar do Ultramar» ... 1017649$90
+Artigo 14.º, n.º 1) «Consignação de receitas - Fundo de Defesa Militar do Ultramar - Importância das receitas consignadas, constantes do artigo 4.º do orçamento da receita, a transferir para o Departamento da Defesa Nacional com destino ao Fundo de Defesa Militar do Ultramar» ... 1017649$90
 
 tomando como contrapartida igual quantia em conta do crédito especial aberto pelo Governo-Geral de Angola, através da [Portaria n.º 122/72](https://diariodarepublica.pt/dr/detalhe/portaria/122-1972-398533), de 28 de Fevereiro.
 
-**O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.**
+O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.
 
 Para ser publicada no Boletim Oficial de Angola. - J. da Silva Cunha.

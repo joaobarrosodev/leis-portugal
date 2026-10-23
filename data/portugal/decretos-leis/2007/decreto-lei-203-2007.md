@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10200/34393446.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/203/2007/05/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22d6464ad8fc82bc72c4a186e297383547fca3df7bc45855fd0d3052af092d0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 583d529030de3e81f9cae35c8f9b1b09054d9d1609b80a100fcc9eec4084fc65
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Especificação Técnica
-- Veículo
 - Equipamento de Veículo
+- Especificação Técnica
+- Normalização
 - Regulamento
 - Regulamento que FIXA os Pesos e as Dimensões Máximos Autorizados para os Veículos em Circulação
 - Transporte de Passageiros
-- Normalização
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:108284890:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:306463:por
+  label: "Alterados os arts. 3º, 8º-A e 11º do Regulamento, aprovado pelo Dec Lei 99/2005, de 21-Jun, na redacção e republicado\
+    \ pelo presente diploma, pelo DEC LEI.133/2010.22.12.2010.MOPTC, DR.IS [246] de 22.12.2010, que procede à republicação\
+    \ do Regulamento\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-2010-306463
+  date: '2010-12-22'
+- type: amended_by
+  target: pt:dre:56474691:por
+  label: Dada nova redação aos arts. 8.º-A e 9.º e aditado o art. 8.º-C ao Regulamento Que Fixa os Pesos e as Dimensões Máximos
+    Autorizados para os Veículos em Circulação, aprovado pelo Dec Lei 99/2005 de 21-jun, alterado e republicado pelo presente
+    diploma, pelo(a) Decreto-Lei n.º 133/2014 - Diário da República n.º 171/2014, Série I de 2014-09-05, que procedeu novamente
+    à sua republicação em anexo com a redação atual, onde para os respetivos efeitos, substituiu as expressões «portaria conjunta»,
+    «Instituto da Mobilidade e dos Transportes Terrestres, I. P.» e «IMTT, I. P.» por, respetivamente, «portaria», «Instituto
+    da Mobilidade e dos Transportes, I. P.» e «IMT, I. P.». .
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-2014-56474691
+  date: '2014-09-05'
 - type: cites
   target: celex:32002L0007
   label: null
@@ -86,16 +103,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/2005/06/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/2005/06/21/p/dre
+- type: repealed_by
+  target: pt:dre:108284890:por
+  label: Revogado, a partir de 12.10.2017, pelo(a) Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de
+    2017-10-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-2017-108284890
+  date: '2017-10-11'
 article_structure:
-  article_count: 27
+  article_count: 21
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:46Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +151,9 @@ Os artigos 2.º, 3.º, 4.º, 8.º-A, 11.º e 13.º do Regulamento Que Fixa os Pe
 
 [...]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -156,7 +181,9 @@ l) 'Dolly' dispositivo equipado com um sistema mecânico de engate destinado a c
 
 2 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -212,7 +239,9 @@ b) As dimensões máximas do veículo a motor e do semi-reboque considerados ind
 
 11 - Por portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna e dos transportes pode ser restringida a circulação dos conjuntos a que se refere o número anterior nas vias em que devido ao seu traçado a circulação destes conjuntos não se mostre adequada, bem como nos períodos de maior intensidade de trânsito.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -222,13 +251,17 @@ b) As dimensões máximas do veículo a motor e do semi-reboque considerados ind
 
 4 - O raio interior previsto no n.º 1 deve ser de 2 m no caso dos conjuntos a que se refere o n.º 9 do artigo anterior.
 
-###### Artigo 8.º-A — Transporte de material lenhoso
+Artigo 8.º-A
+
+Transporte de material lenhoso
 
 1 - Os veículos a motor-reboque com cinco ou mais eixos que efectuem exclusivamente transporte de material lenhoso, nomeadamente toros de madeira e similares, podem circular com um peso bruto máximo de 60 t desde que estejam tecnicamente preparados para o efeito, devendo no respectivo certificado de matrícula estar fixado este valor.
 
 2 - Os proprietários dos veículos que estejam tecnicamente preparados para o transporte referido no número anterior mas não conste do respectivo certificado de matrícula este valor de peso bruto devem requerer a sua alteração.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -246,7 +279,9 @@ b) As dimensões máximas do veículo a motor e do semi-reboque considerados ind
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 13.º — Lotação
+Artigo 13.º
+
+Lotação
 
 1 - ...
 
@@ -280,15 +315,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - João Titterington Gomes Cravinho.
 
-**Promulgado em 16 de Maio de 2007.**
+Promulgado em 16 de Maio de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 17 de Maio de 2007.**
+Referendado em 17 de Maio de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do anexo I do Decreto-Lei n.º 99/2005, de 21 de Junho
 
@@ -658,11 +693,11 @@ M (d(elevado a 2)Z)/dt(elevado a 2) + C (dZ/dt) + kZ = 0
 
 A frequência da oscilação da massa suspensa F (rad/sec) é:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/10200/34393446.pdf))](https://files.diariodarepublica.pt/1s/2007/05/10200/34393446.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/10200/34393446.pdf)
 
 O amortecimento é crítico se C = C(índice o), sendo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/10200/34393446.pdf))](https://files.diariodarepublica.pt/1s/2007/05/10200/34393446.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/10200/34393446.pdf)
 
 A razão de amortecimento como fracção do amortecimento crítico é C/C(índice o).
 
@@ -684,4 +719,4 @@ d) Submetido a outros procedimentos na medida em que a sua equivalência tenha s
 
 Deve ser instalado no veículo um transdutor de deslocamento vertical entre o eixo motor e o quadro, directamente acima do eixo motor. No traçado pode ser medido, por um lado, o intervalo de tempo entre o 1.º e o 2.º pico de compressão de modo a obter a frequência F e, por outro, a razão de amplitude para obter o amortecimento. Para os eixos motores duplos, devem ser instalados transdutores entre cada eixo motor e o quadro que se encontra imediatamente por cima.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/10200/34393446.pdf))](https://files.diariodarepublica.pt/1s/2007/05/10200/34393446.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/10200/34393446.pdf)

@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/64-1982-606750
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T07:21:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36955026816f1a2320341898e58fdd6b931e5589d51924d110d568f217dd4336
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e708831bc7d121ff2c0f831aab540e8fc8b8e76b7ce180a522e95743b4d7f6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:21:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Atribuição de Verba
+- EPAL
+- Financiamento
+relationships:
+- type: cites
+  target: pt:dre:576498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576509:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:21:15Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +98,7 @@ Tendo em conta que a CNN - Companhia Nacional de Navegação, E. P., e a CTM - C
 
 Tendo em conta a difícil situação económico-financeira da EPAL, os elevados investimentos realizados e as responsabilidades que o Estado assumiu na ordem externa, no que respeita à manutenção do equilíbrio financeiro desta empresa:
 
-**O Ministro de Estado e das Finanças e do Plano e o Ministro da Habitação, Obras Públicas e Transportes determinam:**
+O Ministro de Estado e das Finanças e do Plano e o Ministro da Habitação, Obras Públicas e Transportes determinam:
 
 1 - É atribuída uma dotação de capital à EPAL - Empresa Pública das Águas Livres, E. P., no montante de 480 milhões de escudos, a realizar imediatamente por afectação global das dotações de capital cuja atribuição à CNN - Companhia Nacional de Navegação, E. P., e à CTM - Companhia Portuguesa de Transportes Marítimos, E. P., se encontrava prevista, respectivamente, no n.º 7 do [Despacho Normativo n.º 211/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/211-1981-576498), de 19 de Agosto, e no n.º 7 do [Despacho Normativo n.º 210/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/210-1981-576509), de 18 de Agosto.
 

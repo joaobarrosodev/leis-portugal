@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/01/00800/00200020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17-1975-300790
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T04:40:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13a122eabdddda27fab1f321a82a53120034f8a5f45f7010676cfc8019525e6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb548df2a9044a55e6b1fa72447b45b3d1e68c22ad973aa645948d8cfddb41e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:40:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alvará
+- Construção Civil
+- Empreitada de Obras Públicas
+- Empreiteiro de Obras Públicas
 relationships:
 - type: amended_by
   target: pt:dre:285742:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:285742:por
+  label: "Revogada a partir de 01.08.1988 pelo DEC LEI.100/88.23.03.1988.MOPTC, DR.IS [69] de 23.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-1988-285742
+  date: '1988-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:40:02Z'
   warnings: []
   errors: []
 ---
@@ -97,10 +106,10 @@ Tendo em consideração a proposta da Comissão de Inscrição e Classificação
 
 Manda o Governo da República Portuguesa, pelo Ministro do Equipamento Social e do Ambiente:
 
-###### Artigo 1.º - 1. É criada a subcategoria de construção industrializada e edifícios por sistemas de pré-fabricação no âmbito da I categoria - construção civil dos empreiteiros de obras públicas e da categoria única de industriais de construção civil.
+Artigo 1.º - 1. É criada a subcategoria de construção industrializada e edifícios por sistemas de pré-fabricação no âmbito da I categoria - construção civil dos empreiteiros de obras públicas e da categoria única de industriais de construção civil.
 
 2. A Comissão de Inscrição e Classificação dos Empreiteiros e dos Industriais da Construção Civil poderá fazer depender a concessão do alvará referente à nova subcategoria de parecer do Laboratório Nacional de Engenharia Civil.
 
-###### Art. 2.º Esta portaria entra imediatamente em vigor.
+Art. 2.º Esta portaria entra imediatamente em vigor.
 
 Ministério do Equipamento Social e do Ambiente, 2 de Dezembro de 1974. - O Ministro do Equipamento Social e do Ambiente, José Augusto Fernandes.

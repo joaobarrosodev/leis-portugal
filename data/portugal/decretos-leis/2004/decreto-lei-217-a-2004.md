@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 237/2004, 1º Suplemento, Série I-A de 2004-10-08
   number: '237'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6246-(2) a 6246-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/10/237a01/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/217-a/2004/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-a-2004-405301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: baf691f9bcb54a75c69c010d89b8ee4a79eac53a333d3c7d96067c3418164297
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9c40ce15abb47d67eaab0ac608f1df9cc865628b45845ade02282f5298470fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Zona de Proteção
 - Política de Solos
 - Prorrogação de Prazo
 - Rede Nacional de Áreas Protegidas
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:667534:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667534:por
+  label: "Prorrogado por dois anos, a contar do respectivo termo, o prazo de aprovação dos planos de ordenamento das áreas\
+    \ protegidas previsto no nº 1 do art. 1º deste diploma, na alteração que efectuou ao prazo previsto nº 2 do art. único\
+    \ do Dec Lei 204/2002 de 01-Out, pelo DEC LEI.67/2006.23.03.2006.MAOTDR, DR.IS-A [59] de 23.03.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2006-667534
+  date: '2006-03-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/151/1995/06/24/p/dre
   label: null
@@ -100,16 +107,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/227/1998/07/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/227/1998/07/17/p/dre
+- type: cites
+  target: pt:dre:209591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645100:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:26Z'
   warnings: []
   errors: []
 ---
@@ -144,12 +175,12 @@ O presente diploma produz efeitos a partir do dia 1 de Outubro de 2004 e entra e
 
 Visto e aprovado em Conselho de Ministros de 2 de Setembro de 2004. - Pedro Miguel de Santana Lopes - Luís José de Mello e Castro Guedes.
 
-**Promulgado em 7 de Outubro de 2004.**
+Promulgado em 7 de Outubro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Outubro de 2004.**
+Referendado em 7 de Outubro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

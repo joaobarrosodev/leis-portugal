@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/14/1998/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1998-489060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 690117fde5e49b92a7fe11e5fa9cd935ac00d6a9b45d45b9647cbd8be390c2ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cbbc52c16092576ab794cf0354d94cc72266c2da9302d638e9ab49097c6fe22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,26 +69,30 @@ subjects:
 - Ajudas de Custo
 - Conselho Sectorial do Comércio
 - Direcção Geral do Comércio e da Concorrência
+- Observatório do Comércio
 - Orgânica
 - Presidente
 - Regulamento Interno
-- Observatório do Comércio
 - Vice-presidente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/222/1996/11/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/222/1996/11/25/p/dre
+- type: cites
+  target: pt:dre:199846:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:11Z'
   warnings: []
   errors: []
 ---
@@ -205,12 +209,12 @@ Presidência do Conselho de Ministros, 2 de Abril de 1998.
 
 António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - Fernando Manuel Van-Zeller Gomes da Silva - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 5 de Junho de 1998.**
+Promulgado em 5 de Junho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Junho de 1998.**
+Referendado em 17 de Junho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

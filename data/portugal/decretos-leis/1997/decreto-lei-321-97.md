@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/274a00/63706371.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/321/1997/11/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1997-406530
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:53:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87e10116b8bd5aad713f431b25a59b5fbc209a0fc8d391548626f991b20b18b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c27d4842033892e9233c48fe2ca98eadcc4d32d4823d4b20290a9ee8a0656980
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:53:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ reuse:
 subjects:
 - Apoio Administrativo
 - Definição de Competências
-- Direcção Geral dos Impostos
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Direcção Geral dos Impostos
 - Estatuto
 - Fraude Fiscal
 - Ministério das Finanças
@@ -80,20 +80,44 @@ relationships:
   target: pt:dre:608072:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332441:por
+  label: "Alterado o art. 6º pelo DEC LEI.141/99.1999.04.30.MF, DR.IS-A [101]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-1999-332441
+  date: '1999-04-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/158/1996/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/158/1996/09/03/p/dre
+- type: cites
+  target: pt:dre:241227:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:336349:por
+  label: "Rectificado pela DECL-RECT.22-A/97.1997.12.29.PCM DR.IS-A [301]3ºSupl de 31/Dez/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/22-a-1997-336349
+  date: '1997-12-29'
+- type: repealed_by
+  target: pt:dre:683073:por
+  label: "Revogado pelo DEC LEI.476/99.1999.11.09.MF DR.IS-A [261]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/476-1999-683073
+  date: '1999-11-09'
+- type: repealed_by
+  target: pt:dre:608072:por
+  label: "Revogado pelo DEC LEI.47/2005.24.02.2005.MFAP, DR.IS-A [39] de 24.02.2005, nos termos do seu art. 35.º e 38.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-2005-608072
+  date: '2005-02-24'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:53:41Z'
   warnings: []
   errors: []
 ---
@@ -226,12 +250,12 @@ A composição e o funcionamento da UCLEFA deverão ser reanalisados, tendo em c
 
 Visto e aprovado em Conselho de Ministros de 26 de Junho de 1997. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - José Eduardo Vera Cruz Jardim - Augusto Carlos Serra Ventura Mateus - Maria João Fernandes Rodrigues - Eduardo Luís Barreto Ferro Rodrigues - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 5 de Novembro de 1997.**
+Promulgado em 5 de Novembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Novembro de 1997.**
+Referendado em 13 de Novembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/249/2012/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2012-191076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e4642a6eb0e09534e7a57eebff39d9b32e9a095ba63e3780362c38df201e611
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0db2a56de117290e7a05370e4003839df7ecbe9b53fd9f8f68f68c372b1260d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,34 +67,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Admissão de Pessoal
-- Tempo de Serviço
-- Sanção Disciplinar
 - Assistência Médica
+- Autarquia Local
+- Bombeiro
+- Carreira Profissional
 - Cartão de Identificação
 - Comandante
 - Definição de Competências
 - Direcção Nacional de Bombeiros
-- Serviço Nacional de Saúde
-- Carreira Profissional
+- Ensino Superior
+- Estágio de Formação
 - Fundo de Proteção Social do Bombeiro
 - Liga dos Bombeiros Portugueses
-- Bombeiro
 - Nomeação
-- Estágio de Formação
 - Progressão na Carreira
 - Propinas
 - Proteção Social
 - Reembolso
 - Regime Jurídico
-- Ensino Superior
+- Sanção Disciplinar
 - Seguro de Acidentes Pessoais
+- Serviço Nacional de Saúde
 - TAXA Moderadora
-- Autarquia Local
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:122317423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:107458721:por
+  label: Aditados os arts. 26.º-A e 26.º-B ao Dec Lei 241/2007 de 21-jun, na versão republicada pelo presente diploma, pelo(a)
+    Lei n.º 38/2017 - Diário da República n.º 107/2017, Série I de 2017-06-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/38-2017-107458721
+  date: '2017-06-02'
+- type: amended_by
+  target: pt:dre:122317423:por
+  label: Alterados os arts. 6.º, 10.º, 17.º, 18.º e 46.º, aditados os arts. 6.º-A e 6.º-B e revogados o art. 11.º e o n.º
+    2 do art. 18.º do Dec Lei 241/2007 de 21-jun, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 64/2019
+    - Diário da República n.º 94/2019, Série I de 2019-05-16 que procede à sua republicação (onde para aqueles efeitos se
+    deve ler «Autoridade Nacional de Emergência e Proteção Civil» e «Decreto-Lei n.º 113/2011, de 29 de novembro, na sua redação
+    atual» em vez de «Autoridade Nacional de Proteção Civil» e «Decreto-Lei n.º 113/2011, de 29 de novembro»)
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-2019-122317423
+  date: '2019-05-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/113/2011/11/29/p/dre
   label: null
@@ -119,16 +134,73 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/48/2009/08/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/48/2009/08/04/p/dre
+- type: cites
+  target: pt:dre:146061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666511:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:257040:por
+  label: "Retificado o art. 2º [na parte em que altera os arts. 34º e 35º do Dec Lei 241/2007 de 21-jun] pela DECL-RECT.3/2013.18.01.2013.PCM,\
+    \ DR.IS [13] de 18.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/3-2013-257040
+  date: '2013-01-18'
+- type: corrected_by
+  target: pt:dre:289588:por
+  label: "Retificada e republicada na íntegra a Decl-Rect 3/2013 de 18-jan, que retificou os arts. 2º (na parte em que alterou\
+    \ os arts. 34º e 35º do Dec Lei 241/2007 de 21-jun), o art. 3º (na parte em que aditou o art. 35.0-A ao Dec Lei 241/2007\
+    \ de 21-Jun) e o anexo (no referente aos arts. 6º, 29º, 32º, 34º, 35.0-A, 35º-B, 42º e 43º da republicação que efetuou\
+    \ do citado diploma) do Dec Lei 249/2012 de 21-nov, pela DECL-RECT.4-A/2013.18.01.2013.PCM, DR.IS [13-Supl] de 18.01.2013\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/4-a-2013-289588
+  date: '2013-01-18'
+- type: repealed_by
+  target: pt:dre:121748967:por
+  label: Revogado o n.º 3 do art. 40.º, na redacção do presente diploma, do Dec Lei 241/2007, de 21-jun, pelo(a) Decreto-Lei
+    n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-2019-121748967
+  date: '2019-04-01'
 article_structure:
-  article_count: 83
+  article_count: 60
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:39Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +269,9 @@ g) ...
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -207,7 +281,9 @@ g) ...
 
 4 - Os elementos pertencentes à carreira de bombeiro especialista beneficiam dos direitos referidos nas alíneas a), b), d), e), f), g) e h) do n.º 1.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -245,29 +321,39 @@ e) [Anterior alínea e) do n.º 4.]
 
 11 - A organização dos processos de candidatura referidos no número anterior é definida por regulamento aprovado pela Autoridade Nacional de Proteção Civil.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - As inspeções médico-sanitárias referidas no número anterior são asseguradas pela Autoridade Nacional de Proteção Civil, e suportadas pelo Fundo de Proteção Social do Bombeiro, mediante protocolo a celebrar com a Liga dos Bombeiros Portugueses.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Os bombeiros beneficiam de isenção de pagamento de taxas moderadoras no âmbito do Serviço Nacional de Saúde, nos termos do disposto na alínea g) do artigo 4.º do [Decreto-Lei n.º 113/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2011-146061), de 29 de novembro.
 
 2 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - Os municípios suportam os encargos com o seguro de acidentes pessoais dos bombeiros profissionais e voluntários.
 
 2 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 As entidades detentoras de corpos de bombeiros devem manter, permanentemente atualizada, no Recenseamento Nacional dos Bombeiros Portugueses, a informação necessária dos beneficiários do seguro de acidentes pessoais.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -283,7 +369,9 @@ As entidades detentoras de corpos de bombeiros devem manter, permanentemente atu
 
 7 - A organização dos processos referidos nos n.os 4 e 6 é definida por regulamento aprovado pela Autoridade Nacional de Proteção Civil.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Aos bombeiros voluntários que integram os quadros de comando e ativo podem ser concedidas licenças no âmbito da atividade do corpo de bombeiros, nomeadamente por motivo de férias, doença e parentalidade.
 
@@ -299,7 +387,9 @@ b) ...
 
 5 - As licenças dos bombeiros profissionais são concedidas nos termos da legislação respetiva, devendo as dos comandantes ser comunicadas, com a antecedência mínima de 15 dias, à Autoridade Nacional de Proteção Civil.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -319,7 +409,9 @@ b) O pedido não seja efetuado por motivos disciplinares.
 
 4 - O bombeiro transferido mantém a carreira, a categoria, antiguidade e demais direitos adquiridos.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - O provimento da estrutura de comando dos corpos de bombeiros voluntários ou mistos não pertencentes ao município é feito por designação de entre indivíduos com idades compreendidas entre os 25 e os 60 anos, nos termos seguintes:
 
@@ -357,7 +449,9 @@ c) Em oficial bombeiro superior, no final de três ou mais comissões.
 
 11 - (Anterior n.º 8.)
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - Para apreciação e decisão dos recursos interpostos das decisões de não renovação do exercício do cargo de comando a que se refere o n.º 7 do artigo anterior são criadas comissões arbitrais compostas pelo presidente da assembleia geral da associação humanitária de bombeiros, que preside, por um representante designado pela Autoridade Nacional de Proteção Civil e por um elemento indicado pela Liga de Bombeiros Portugueses.
 
@@ -365,7 +459,9 @@ c) Em oficial bombeiro superior, no final de três ou mais comissões.
 
 3 - A comissão arbitral deverá apreciar e decidir sobre o recurso interposto no prazo de 60 dias contados a partir do dia seguinte ao da receção do recurso.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -391,7 +487,9 @@ c) Em oficial bombeiro superior, no final de três ou mais comissões.
 
 12 - A Autoridade Nacional de Proteção Civil, ouvida a Escola Nacional de Bombeiros e o Conselho Nacional de Bombeiros, define os conteúdos programáticos dos cursos de ingresso e promoção da carreira de oficial bombeiro.
 
-###### Artigo 35.º — Carreira de bombeiro voluntário
+Artigo 35.º
+
+Carreira de bombeiro voluntário
 
 1 - ...
 
@@ -415,7 +513,9 @@ c) Em oficial bombeiro superior, no final de três ou mais comissões.
 
 11 - A Autoridade Nacional de Proteção Civil, ouvida a Escola Nacional de Bombeiros enquanto Autoridade Pedagógica do Setor e o Conselho Nacional de Bombeiros, define os conteúdos programáticos dos cursos de ingresso e promoção da carreira de bombeiro.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - Os bombeiros dos quadros de comando e ativo estão sujeitos a avaliação periódica do seu desempenho, a qual releva para efeitos de progressão na carreira dos bombeiros do quadro ativo.
 
@@ -425,13 +525,17 @@ c) Em oficial bombeiro superior, no final de três ou mais comissões.
 
 4 - O sistema de avaliação dos bombeiros dos quadros de comando e ativo consta de regulamento elaborado pela Autoridade Nacional de Proteção Civil, ouvido o Conselho Nacional de Bombeiros, a homologar pelo membro do Governo responsável pela administração interna.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
 2 - O estatuto disciplinar dos trabalhadores que exercem funções públicas aplica-se subsidiariamente aos bombeiros voluntários.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -441,7 +545,9 @@ c) Em oficial bombeiro superior, no final de três ou mais comissões.
 
 4 - A pena de demissão determina, sem prejuízo de anulação da pena, a impossibilidade de novo ingresso em qualquer corpo de bombeiros.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - A aplicação da pena de advertência é da competência de todos os superiores hierárquicos em relação aos bombeiros que lhes estejam subordinados.
 
@@ -449,7 +555,9 @@ c) Em oficial bombeiro superior, no final de três ou mais comissões.
 
 3 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -459,11 +567,15 @@ c) Em oficial bombeiro superior, no final de três ou mais comissões.
 
 4 - ...
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 A aplicação de pena disciplinar de repreensão escrita ou superior é publicada em ordem de serviço, registada no processo individual do arguido no Recenseamento Nacional de Bombeiros Portugueses e comunicada à entidade detentora do corpo de bombeiros e à Autoridade Nacional de Proteção Civil.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -471,7 +583,9 @@ A aplicação de pena disciplinar de repreensão escrita ou superior é publicad
 
 3 - O modelo do cartão de identificação de bombeiro é aprovado por despacho da Autoridade Nacional de Proteção Civil, ouvido o Conselho Nacional de Bombeiros.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - O Fundo de Proteção Social do Bombeiro, criado pela portaria do Ministério do Interior, de 4 de junho de 1932, com as inovações da [Portaria n.º 233/87](https://diariodarepublica.pt/dr/detalhe/portaria/233-1987-666511), de 28 de março, no âmbito da Liga dos Bombeiros Portugueses, suporta os encargos previstos nos artigos 6.º, 8.º, 18.º, 19.º, 20.º e 21.º
 
@@ -527,7 +641,9 @@ b) Tenham idade compreendida entre os 18 e os 55 anos.
 
 13 - A Autoridade Nacional de Proteção Civil, ouvida a Escola Nacional de Bombeiros e o Conselho Nacional de Bombeiros, define os conteúdos programáticos do curso de ingresso na carreira de bombeiro especialista.
 
-###### Artigo 35.º-B — Readmissões
+Artigo 35.º-B
+
+Readmissões
 
 1 - Os elementos do quadro ativo e de reserva que tenham solicitado a sua demissão poderão requerer a sua readmissão no corpo de bombeiros anterior ou num outro desde que:
 
@@ -547,7 +663,9 @@ a) No caso de elementos com mais de três anos de ausência, exige-se prova de c
 
 b) No caso de elementos com menos de três anos de ausência, exige-se um período de estágio de três meses.
 
-###### Artigo 48.º-A — Regime transitório de carreiras
+Artigo 48.º-A
+
+Regime transitório de carreiras
 
 Os oficiais bombeiros e os bombeiros voluntários do atual quadro ativo, na condição de supranumerários, podem ser integrados na carreira de bombeiro especialista, cujas condições são definidas por regulamento aprovado pela Autoridade Nacional de Proteção Civil.»
 
@@ -563,15 +681,15 @@ São revogados a alínea b) do n.º 1 do artigo 29.º e o n.º 1 do artigo 41.º
 
 Visto e aprovado em Conselho de Ministros de 27 de setembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 12 de novembro de 2012.**
+Promulgado em 12 de novembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de novembro de 2012.**
+Referendado em 15 de novembro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 

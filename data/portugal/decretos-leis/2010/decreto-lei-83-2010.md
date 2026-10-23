@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/07/13400/0258402585.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/83/2010/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2010-334363
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d2bb6888318b038b1d05abff440041e88eaa1c62f496c66701fafaf9f163801
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d33420a964cb3e317c6cecda1844e2e145438df27f6b7b71eb22354769f6dd27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ reuse:
 subjects:
 - Definição de Competências
 - Equipa de Projecto
+- Instituto das Tecnologias de Informação na Justiça
 - Integração de Trabalhadores
 - Justiça
-- Instituto das Tecnologias de Informação na Justiça
 - Orgânica
 relationships:
 - type: amended_by
@@ -102,16 +102,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:345147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:179291:por
+  label: "Revogado o Dec Lei 130/2007, de 27-abr, na redação do presente diploma, pelo DEC LEI.164/2012.31.07.2012.MJ, DR.IS\
+    \ [147] de 31.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/164-2012-179291
+  date: '2012-07-31'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:58Z'
   warnings: []
   errors: []
 ---
@@ -170,12 +200,12 @@ O presente decreto-lei produz efeitos a partir de 31 de Março de 2010.
 
 Visto e aprovado em Conselho de Ministros de 29 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto de Sousa Martins.
 
-**Promulgado em 8 de Julho de 2010.**
+Promulgado em 8 de Julho de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Julho de 2010.**
+Referendado em 12 de Julho de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

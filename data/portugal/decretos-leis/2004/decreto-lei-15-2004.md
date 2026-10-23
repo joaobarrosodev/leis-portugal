@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/01/011a00/02540259.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/15/2004/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2004-603045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 806e6321c99667b84e996aa1b55ef1ebe0b5881571f1a2e98393cd1363251ebe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b33e544a35d8c3c3350f174c7f0ad80a6767665724701796a519c2ee1510e30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autonomia Administrativa
-- Exoneração
-- Pessoal Dirigente
 - Chefe de Repartição
+- Comissão de Planeamento Energético de Emergência
 - Comissão de Serviço
 - Definição de Competências
 - Direcção Geral de Energia
+- Direcção Geral de Geologia e Energia
 - Direcção Regional de Economia
-- Ministério da Economia
+- Exoneração
 - Ineti
 - Instituto Geológico e Mineiro
-- Integração de Trabalhadores
 - Instituto Português da Qualidade
-- Comissão de Planeamento Energético de Emergência
-- Direcção Geral de Geologia e Energia
+- Integração de Trabalhadores
+- Ministério da Economia
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Reclassificação de Pessoal
 - Transferência de Pessoal
@@ -117,16 +117,51 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/7/1993/03/19/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/7/1993/03/19/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690983:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521030:por
+  label: "Revogado, a partir de 01.05.2007, e nos termos do artigo 5.º do Decreto-Lei 201/2006, de 27 de Outubro, e determinado\
+    \ que a Direcção-Geral de Energia e Geologia suceda nas atribuições da Direcção-Geral de Geologia e Energia, cuja orgânica\
+    \ foi aprovada pelo presente diploma, pelo DEC LEI.139/2007.27.04.2007.MEI, DR.IS [82] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-2007-521030
+  date: '2007-04-27'
 article_structure:
   article_count: 24
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:55Z'
   warnings: []
   errors: []
 ---
@@ -509,15 +544,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Novembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Carlos Manuel Tavares da Silva - Maria da Graça Martins da Silva Carvalho - António José Castro Bagão Félix - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 26 de Dezembro de 2003.**
+Promulgado em 26 de Dezembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Dezembro de 2003.**
+Referendado em 29 de Dezembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (mapa a que se refere o n.º 1 do artigo 16.º)
 

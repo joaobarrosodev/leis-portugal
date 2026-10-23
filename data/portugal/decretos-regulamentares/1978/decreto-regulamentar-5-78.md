@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1978-448508
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T05:59:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 640481946def2bc0bf9473ff11c32071c998463783dc621fb2ded7d1f722fca0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dfcf2ac1b909945832704ef339ce62b32fa67f119571e26dde27b811ba4828b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:59:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Exploração Portuária
+- Lisboa
+- Regulamento de Tarifas da Administração Geral do Porto de Lisboa
+- Tarifa Portuária
 relationships:
 - type: amended_by
   target: pt:dre:514034:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:514034:por
+  label: "Alterados os arts. 26º, 30º e 34º do Regulamento de Tarifas da Administação do Porto de Lisboa, aprovado pelo Dec\
+    \ 24831 de 31-Dez 1934, com as alterações introduzidas pelo presente diploma, pela PORT.925-G/87.04.12.1987.MOPTC, DR.IS\
+    \ [279-2º Supl] de 04.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/925-g-1987-514034
+  date: '1987-12-04'
+- type: cites
+  target: pt:dre:154983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435978:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:59:11Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +121,7 @@ As disposições do Regulamento de Tarifas do Porto de Lisboa, aprovado pelo [De
 
 ...
 
-###### Art. 26.º A taxa de estacionamento, por tonelada de arqueação bruta, constante do certificado de registo do navio, é a seguinte:
+Art. 26.º A taxa de estacionamento, por tonelada de arqueação bruta, constante do certificado de registo do navio, é a seguinte:
 
 a) Navios de carga, de carreira não regular:
 
@@ -135,7 +155,7 @@ Por iguais períodos sucessivos ... $10
 
 § único. ...
 
-###### Art. 27.º São feitas as seguintes excepções ao artigo 26.º:
+Art. 27.º São feitas as seguintes excepções ao artigo 26.º:
 
 a) ...
 
@@ -145,13 +165,13 @@ c) Os navios que entrem no porto de Lisboa única e exclusivamente para sofrer r
 
 ...
 
-###### Art. 29.º Todo o navio que acoste aos cais, pontes ou desembarcadouros flutuantes da AGPL está sujeito ao pagamento de uma taxa, dita taxa de acostagem, em função do comprimento fora a fora, dado em metros, de acordo com o certificado de registo do navio, pela forma estabelecida no presente Regulamento.
+Art. 29.º Todo o navio que acoste aos cais, pontes ou desembarcadouros flutuantes da AGPL está sujeito ao pagamento de uma taxa, dita taxa de acostagem, em função do comprimento fora a fora, dado em metros, de acordo com o certificado de registo do navio, pela forma estabelecida no presente Regulamento.
 
-###### Art. 30.º A taxa de acostagem de navios, a aplicar por metro e por período de vinte e quatro horas indivisível, é a seguinte:
+Art. 30.º A taxa de acostagem de navios, a aplicar por metro e por período de vinte e quatro horas indivisível, é a seguinte:
 
 a) Navios de carreira regular:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/02/03600/03420345.pdf))](https://files.diariodarepublica.pt/1s/1978/02/03600/03420345.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/02/03600/03420345.pdf)
 
 b) Navios de carreira não regular: tabela da alínea a), com um agravamento de 50%;
 
@@ -183,15 +203,15 @@ em que T representa a taxa em escudos e LBT a respectiva lotação de passageiro
 
 ...
 
-###### Art. 34.º Pode ser concedido por avença na muralha lugar fixo para acostagem mediante a taxa de 4000$00 por metro e por ano civil.
+Art. 34.º Pode ser concedido por avença na muralha lugar fixo para acostagem mediante a taxa de 4000$00 por metro e por ano civil.
 
 § único. Por metro de muralha ocupado a mais é devida a taxa de 25$00 por período de vinte e quatro horas.
 
 ...
 
-###### Art. 48.º A taxa de porto, aplicada de acordo com o grupo e a classe de mercadorias, é, por tonelada:
+Art. 48.º A taxa de porto, aplicada de acordo com o grupo e a classe de mercadorias, é, por tonelada:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/02/03600/03420345.pdf))](https://files.diariodarepublica.pt/1s/1978/02/03600/03420345.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/02/03600/03420345.pdf)
 
 § 1.º ...
 
@@ -203,7 +223,7 @@ em que T representa a taxa em escudos e LBT a respectiva lotação de passageiro
 
 ...
 
-###### Art. 54.º ...
+Art. 54.º ...
 
 § 1.º No caso de estacionamento a coberto de abrigos ou telheiros, as taxas a aplicar são duplas das correspondentes às do corpo deste artigo.
 
@@ -215,7 +235,7 @@ em que T representa a taxa em escudos e LBT a respectiva lotação de passageiro
 
 ...
 
-###### Art. 69.º As mercadorias provenientes do estrangeiro e do território de Macau e manifestadas para o porto de Lisboa, qualquer que seja o regime a que se encontrem sujeitas, deverão dar entrada nos entrepostos da AGPL.
+Art. 69.º As mercadorias provenientes do estrangeiro e do território de Macau e manifestadas para o porto de Lisboa, qualquer que seja o regime a que se encontrem sujeitas, deverão dar entrada nos entrepostos da AGPL.
 
 § 1.º ...
 
@@ -223,21 +243,21 @@ em que T representa a taxa em escudos e LBT a respectiva lotação de passageiro
 
 ...
 
-###### Art. 72.º A taxa devida por exame, modificação, extracção de amostras, selagem, marcação e outros serviços acessórios requisitados para mercadoria entrepositada é de 40$00 por quarto de hora, indivisível.
+Art. 72.º A taxa devida por exame, modificação, extracção de amostras, selagem, marcação e outros serviços acessórios requisitados para mercadoria entrepositada é de 40$00 por quarto de hora, indivisível.
 
 § único. ...
 
 ...
 
-###### Art. 75.º A taxa devida por aluguer de encerado para cobertura de mercadoria é de 40$00 por encerado e por dia completo ou incompleto.
+Art. 75.º A taxa devida por aluguer de encerado para cobertura de mercadoria é de 40$00 por encerado e por dia completo ou incompleto.
 
 ...
 
-###### Art. 98.º ...
+Art. 98.º ...
 
 § único. As taxas incluem o pessoal da AGPL adstrito aos guindastes de via necessário à efectivação do serviço e são devidas até final do período para que foi aceite a requisição das operações.
 
-###### Art. 99.º ...
+Art. 99.º ...
 
 § 1.º ...
 
@@ -251,7 +271,7 @@ b) ...
 
 ...
 
-###### Art. 105.º ...
+Art. 105.º ...
 
 a) Se o pedido de cancelamento, desistência ou adiamento for apresentado com a antecedência de, pelo menos, duas horas em relação à hora marcada para início do serviço, é facturada a importância correspondente a 50% do tempo estimado;
 
@@ -259,9 +279,9 @@ b) ...
 
 ...
 
-###### Art. 107.º Na movimentação de volumes que pela sua forma, dimensão, natureza, valor ou riscos obriguem a manobras ou cuidados especiais, ou em serviços a prestar fora da área de jurisdição da AGPL ou em salvamentos, não é aplicada a taxa do artigo 101.º, sendo o preço fixado, caso por caso, pela AGPL.
+Art. 107.º Na movimentação de volumes que pela sua forma, dimensão, natureza, valor ou riscos obriguem a manobras ou cuidados especiais, ou em serviços a prestar fora da área de jurisdição da AGPL ou em salvamentos, não é aplicada a taxa do artigo 101.º, sendo o preço fixado, caso por caso, pela AGPL.
 
-###### Art. 108.º Pela utilização de rebocador ou rebocadores em serviço de atracação (precedida ou não de reboque), de desatracação (seguida ou não de reboque), de amarração e de desamarração de navios a quaisquer instalações fixas ou flutuantes é cobrada, por cada unidade empregada, a taxa dada em escudos pelas seguintes expressões:
+Art. 108.º Pela utilização de rebocador ou rebocadores em serviço de atracação (precedida ou não de reboque), de desatracação (seguida ou não de reboque), de amarração e de desamarração de navios a quaisquer instalações fixas ou flutuantes é cobrada, por cada unidade empregada, a taxa dada em escudos pelas seguintes expressões:
 
 ...
 
@@ -269,11 +289,11 @@ b) ...
 
 § 2.º As taxas estabelecidas neste artigo e seu § 1.º correspondem ao limite de duração dos serviços de uma hora, excepto quando se trate de navios que atraquem às estações marítimas para desembarcar ou embarcar passageiros, caso em que é concedido o limite de duas horas; o tempo excedente é facturado pela taxa de rebocador, à hora.
 
-###### Art. 109.º Constituindo o rebocador um simples auxiliar de manobra, o cabo de reboque deve ser fornecido pelo navio rebocado, podendo, todavia, quando solicitado pelo capitão do navio (ou por quem, no momento, o substitua), ser fornecido pela AGPL mediante pagamento de 450$00 por cabo utilizado.
+Art. 109.º Constituindo o rebocador um simples auxiliar de manobra, o cabo de reboque deve ser fornecido pelo navio rebocado, podendo, todavia, quando solicitado pelo capitão do navio (ou por quem, no momento, o substitua), ser fornecido pela AGPL mediante pagamento de 450$00 por cabo utilizado.
 
 ...
 
-###### Art. 119.º A taxa devida por serviços prestados por lanchas é de 800$00 por hora.
+Art. 119.º A taxa devida por serviços prestados por lanchas é de 800$00 por hora.
 
 § 1.º ...
 
@@ -285,7 +305,7 @@ b) ...
 
 § 5.º ...
 
-###### Art. 120.º ...
+Art. 120.º ...
 
 a) Se o pedido de cancelamento, desistência ou adiamento for apresentado com a antecedência de, pelo menos, uma hora em relação à hora marcada para início do serviço, é facturada a importância correspondente a 50% do tempo requisitado;
 
@@ -293,7 +313,7 @@ b) ...
 
 ...
 
-###### Art. 125.º ...
+Art. 125.º ...
 
 § 1.º Se for necessário emprego de rebocador ou rebocadores, é sempre obrigatória a utilização de, pelo menos, uma unidade da AGPL, excepto para navios do Estado e de tráfego local.
 
@@ -305,27 +325,27 @@ b) ...
 
 § 5.º ...
 
-###### Art. 126.º A taxa devida por aluguer de defesas flutuantes - tipo pontão - ou pontões-cais é de 2300$00 por dia indivisível e por unidade.
+Art. 126.º A taxa devida por aluguer de defesas flutuantes - tipo pontão - ou pontões-cais é de 2300$00 por dia indivisível e por unidade.
 
-###### Art. 127.º A taxa devida por aluguer de defensas flutuantes - tipo pontão -, servindo de defensa a navios que venham acostar às muralhas da AGPL, incluindo a sua colocação e remoção, é de 430$00 por dia indivisível e por unidade.
+Art. 127.º A taxa devida por aluguer de defensas flutuantes - tipo pontão -, servindo de defensa a navios que venham acostar às muralhas da AGPL, incluindo a sua colocação e remoção, é de 430$00 por dia indivisível e por unidade.
 
 ...
 
-###### Art. 131.º A taxa a aplicar por serviço de mergulhador, compreendendo todo o pessoal e material, é, durante as operações de mergulho, de 1650$00 por hora, sendo o mínimo cobrável de duas horas. O tempo excedente é facturado por hora.
+Art. 131.º A taxa a aplicar por serviço de mergulhador, compreendendo todo o pessoal e material, é, durante as operações de mergulho, de 1650$00 por hora, sendo o mínimo cobrável de duas horas. O tempo excedente é facturado por hora.
 
 § único. ...
 
-###### Art. 132.º Reverte a favor dos mergulhadores que tenham intervindo no serviço a importância correspondente a 10% do valor cobrado nos termos do disposto no corpo do artigo 131.º
+Art. 132.º Reverte a favor dos mergulhadores que tenham intervindo no serviço a importância correspondente a 10% do valor cobrado nos termos do disposto no corpo do artigo 131.º
 
 ...
 
-###### Art. 142.º A taxa devida por fornecimento de água é de 20$00 por metro cúbico.
+Art. 142.º A taxa devida por fornecimento de água é de 20$00 por metro cúbico.
 
 § único. O mínimo a debitar é de 10 m3.
 
 ...
 
-###### Art. 164.º Pelas pontes, estacadas e outras instalações ocupando o leito do rio dentro da área de jurisdição da AGPL é cobrada pela superfície ocupada por metro quadrado e por mês a taxa de 1$00.
+Art. 164.º Pelas pontes, estacadas e outras instalações ocupando o leito do rio dentro da área de jurisdição da AGPL é cobrada pela superfície ocupada por metro quadrado e por mês a taxa de 1$00.
 
 § único. Quando a ocupação do leito do rio resulte da execução de aterros feitos pelo utente e exceda 1 ha, cobrar-se-á:
 
@@ -335,7 +355,7 @@ b) Pela área excedente, a taxa de $40 por metro quadrado e por mês.
 
 ...
 
-###### Art. 166.º A taxa devida pela utilização de passadiços de acesso a navios nas estações marítimas é de 400$00 por passadiço e por período de doze horas indivisível.
+Art. 166.º A taxa devida pela utilização de passadiços de acesso a navios nas estações marítimas é de 400$00 por passadiço e por período de doze horas indivisível.
 
 § 1.º ...
 
@@ -345,7 +365,7 @@ b) Pela área excedente, a taxa de $40 por metro quadrado e por mês.
 
 Esta taxa não inclui o transporte de e para o local de serviço e a colocação fora do período normal de trabalho do pessoal.
 
-###### Art. 167.º ...
+Art. 167.º ...
 
 a) Por passageiro ... 70$00
 
@@ -387,8 +407,8 @@ Este decreto revoga as seguintes disposições do Regulamento de Tarifas da Admi
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 30 de Janeiro de 1978.**
+Promulgado em 30 de Janeiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

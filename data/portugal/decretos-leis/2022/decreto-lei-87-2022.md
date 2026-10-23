@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/24900/0000300008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/87/2022/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2022-205378557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b927078795a43f8bf869f591ba97010bd6bdf48fc73427f3cdda0d32e02c4145
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b0a385f471d173061d0a27bacac96865f4c55688d94d0962b4c4b7db6b73b80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
+- ASAE
+- Autoridade Nacional de Comunicações
 - Autoridade Tributária e Aduaneira
 - Certificado de Conformidade
-- Radiocomunicações
-- Contra-ordenação
-- Instalações Radioelétricas
-- Fiscalização
-- ASAE
 - Circulação de Mercadorias
-- Comunicações
-- Regulamento CE
 - Comércio
+- Comunicações
+- Contra-ordenação
 - Equipamento de Transmissão
-- Autoridade Nacional de Comunicações
+- Fiscalização
+- Instalações Radioelétricas
+- Radiocomunicações
+- Regulamento CE
 relationships:
 - type: cites
   target: celex:32008R0765
@@ -104,20 +104,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
+- type: cites
+  target: pt:dre:106499601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107495704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32014L0053
   label: null
   source: null
 article_structure:
-  article_count: 13
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:16Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +162,9 @@ Os artigos 2.º, 4.º, 12.º, 14.º, 20.º, 34.º, 35.º, 44.º, 45.º e 46.º d
 
 2 - Os equipamentos de rádio abrangidos pelo presente decreto-lei não estão sujeitos ao disposto no [Decreto-Lei n.º 21/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2017-106499601), de 21 de fevereiro, na sua redação atual, exceto nos casos previstos na alínea a) do n.º 1 do artigo 4.º
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -162,7 +176,9 @@ b) [...]
 
 3 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -170,7 +186,9 @@ b) [...]
 
 3 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -198,7 +216,9 @@ j) [...]
 
 3 - [...]
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A marcação CE deve ser sempre aposta de modo visível e legível na embalagem, bem como nos equipamentos de rádio ou na respetiva placa de identificação de modo visível, legível e indelével, ou, não sendo possível ou não podendo ser garantido devido à natureza do aparelho, apenas na embalagem.
 
@@ -208,11 +228,15 @@ j) [...]
 
 4 - [...]
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 Em matéria de fiscalização do mercado da União Europeia e de controlo dos equipamentos de rádio que entram no mercado da União Europeia aplicam-se o n.º 3 do artigo 15.º e os artigos 16.º a 29.º do [Regulamento (CE) n.º 765/2008](https://data.europa.eu/eli/reg/2008/765/oj?locale=pt), do Parlamento Europeu e do Conselho, de 9 de julho de 2008, alterado pelo [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de junho de 2019, que devem ser lidos de acordo com a tabela de correspondência a que se refere o n.º 2 do artigo 39.º do [Regulamento (UE) 2019/1020](https://data.europa.eu/eli/reg/2019/1020/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de junho de 2019.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...]
 
@@ -242,7 +266,9 @@ Em matéria de fiscalização do mercado da União Europeia e de controlo dos eq
 
 14 - [...]
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...]
 
@@ -298,7 +324,9 @@ r) [...]
 
 7 - [...]
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - [...]
 
@@ -342,7 +370,9 @@ n) [...]
 
 7 - [...]
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - [...]
 
@@ -388,15 +418,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de dezembro de 2022. - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - António José da Costa Silva - Pedro Nuno de Oliveira Santos.
 
-**Promulgado em 15 de dezembro de 2022.**
+Promulgado em 15 de dezembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 16 de dezembro de 2022.**
+Referendado em 16 de dezembro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -420,7 +450,9 @@ O fabricante deve elaborar a documentação técnica de acordo com o artigo 21.�
 
 5 - [...]
 
-## ANEXO VI — [a que se referem o n.º 3 do artigo 5.º e a alínea a) do n.º 2 do artigo 18.º]
+ANEXO VI
+
+[a que se referem o n.º 3 do artigo 5.º e a alínea a) do n.º 2 do artigo 18.º]
 
 [...]
 
@@ -443,3 +475,5 @@ O fabricante deve elaborar a documentação técnica de acordo com o artigo 21.�
 8 - [...]
 
 9 - [...]»
+
+115981888

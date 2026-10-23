@@ -47,40 +47,321 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23232-1968-235275
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:42:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4179b7e4d593d05b7bdc0c42cd91d3956f695341c95a7ff9d3ab7ee6af263740
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 981a942998a143672604d52b1db45ab61dab9a1ef26abcf9ae788b206e41abb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:42:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ÁREA de Jurisdição
+- Consulado
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:403755:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:336749:por
+  label: Extinto o Consulado Honorário de Portugal em Porto Torres (Itália) constante no presente diploma, passando a sua
+    área de jurisdição para o Consulado de Portugal em Génova, pelo(a) Decreto n.º 335/75 - Diário do Governo n.º 150/1975,
+    Série I de 1975-07-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/335-1975-336749
+  date: '1975-07-02'
+- type: amended_by
+  target: pt:dre:312777:por
+  label: Alterada a lista anexa à presente portaria, pelo(a) Portaria n.º 630/75 - Diário do Governo n.º 255/1975, Série I
+    de 1975-11-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/630-1975-312777
+  date: '1975-11-04'
+- type: amended_by
+  target: pt:dre:310416:por
+  label: Alterada a lista anexa à presente portaria, pelo(a) Portaria n.º 681/75 - Diário do Governo n.º 268/1975, Série I
+    de 1975-11-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/681-1975-310416
+  date: '1975-11-19'
+- type: amended_by
+  target: pt:dre:311191:por
+  label: Inscritos diferentes postos consulares na lista anexa à presente portaria, pelo(a) Portaria n.º 743/75 - Diário do
+    Governo n.º 288/1975, Série I de 1975-12-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/743-1975-311191
+  date: '1975-12-15'
+- type: amended_by
+  target: pt:dre:310654:por
+  label: Extintos os consulados honorários de Portugal em Basileia e em Lausana pelo(a) Decreto n.º 728/75 - Diário do Governo
+    n.º 294/1975, Série I de 1975-12-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/728-1975-310654
+  date: '1975-12-22'
+- type: amended_by
+  target: pt:dre:427109:por
+  label: Extinto o Consulado de 2.ª classe em Mbabane e criado um consulado honorário na mesma cidade, dependente do Consulado-Geral
+    em Maputo inscrito na lista anexa pelo(a) Decreto n.º 466/76 - Diário da República n.º 136/1976, Série I de 1976-06-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/466-1976-427109
+  date: '1976-06-11'
+- type: amended_by
+  target: pt:dre:427094:por
+  label: Extintos os Consulados honorários em Argel, Arzew, Bone, Djidjelli, Orão, Philippeville, Alcácer Quibir, Arzila,
+    Larache, Tetuão, El Jadida (Mazagão), Kenitra (Port Lyautey), Fez, Marraquexe, Mequinez, Sfax, Sousse e Tunes pelo(a)
+    Decreto n.º 469/76 - Diário da República n.º 137/1976, Série I de 1976-06-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/469-1976-427094
+  date: '1976-06-12'
+- type: amended_by
+  target: pt:dre:431024:por
+  label: "Alterada a lista anexa ao presente diploma pelo DEC.478/76.16.06.1976.MNE, DR.IS [140] de 16.06.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/478-1976-431024
+  date: '1976-06-16'
+- type: amended_by
+  target: pt:dre:279420:por
+  label: Substituído, por um consulado de 1.ª classe em Bilbau, o consulado honorário existente na mesma cidade, previsto
+    na lista anexa ao presente diploma, pelo(a) Despacho Normativo n.º 198/77 - Diário da República n.º 237/1977, Série I
+    de 1977-10-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/198-1977-279420
+  date: '1977-10-13'
+- type: amended_by
+  target: pt:dre:329427:por
+  label: Alterada a lista anexa à presente portaria, pelo(a) Portaria n.º 580/78 - Diário da República n.º 218/1978, Série
+    I de 1978-09-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/580-1978-329427
+  date: '1978-09-21'
+- type: amended_by
+  target: pt:dre:382805:por
+  label: "Alterada, na parte referente ao distrito consular de Caracas, a lista anexa ao presente diploma, pela PORT.146/79.03.04.1979.MNE,\
+    \ DR.IS [78] de 03.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/146-1979-382805
+  date: '1979-04-03'
+- type: amended_by
+  target: pt:dre:370674:por
+  label: "Alterada a lista anexa pela PORT.473/79.05.09.1979.MNE, DR.IS [205] de 05.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/473-1979-370674
+  date: '1979-09-05'
+- type: amended_by
+  target: pt:dre:473897:por
+  label: "Alterada a lista anexa ao presente diploma, pela PORT.245/80.14.05.1980.MNE, DR.IS [111] de 14.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/245-1980-473897
+  date: '1980-05-14'
+- type: amended_by
+  target: pt:dre:474132:por
+  label: "Alterada a lista anexa pela PORT.266/80.20.05.1980.MNE, DR.IS [116] de 20.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/266-1980-474132
+  date: '1980-05-20'
+- type: amended_by
+  target: pt:dre:472510:por
+  label: "Alterada a lista anexa ao presente diploma, com as alterações constantes do Decreto 478/76 de 16 de Junho, pela\
+    \ PORT.427/80.24.07.1980.MNE, DR.IS [169] de 24.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/427-1980-472510
+  date: '1980-07-24'
+- type: amended_by
+  target: pt:dre:462668:por
+  label: "Alterada a lista anexa do presente diploma, pela PORT.865/80.23.10.1980.MNE, DR.IS [246] de 23.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/865-1980-462668
+  date: '1980-10-23'
+- type: amended_by
+  target: pt:dre:381745:por
+  label: "Alterada a lista anexa do presente diploma, pela PORT.539/84.31.07.1984.MNE, DR.IS [176] de 31.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/539-1984-381745
+  date: '1984-07-31'
+- type: amended_by
+  target: pt:dre:381340:por
+  label: "Alterada, na parte referente ao departamento Haute-Marne, a lista anexa do presente diploma, pela PORT.564/84.04.08.1984.MNE,\
+    \ DR.IS [180] de 04.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/564-1984-381340
+  date: '1984-08-04'
+- type: amended_by
+  target: pt:dre:382379:por
+  label: "Alterada, na parte referente ao Luxemburgo, a lista anexa do presente diploma, pela PORT.569/84.06.08.1984.MNE,\
+    \ DR.IS [181] de 06.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/569-1984-382379
+  date: '1984-08-06'
+- type: amended_by
+  target: pt:dre:399784:por
+  label: "Alterada, na parte referente ao consulado honorário em Cartum, a lista anexa ao presente diploma, pela PORT.773/84.02.10.1984.MNE,\
+    \ DR.IS [229] de 02.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/773-1984-399784
+  date: '1984-10-02'
+- type: amended_by
+  target: pt:dre:401060:por
+  label: "Extinta a secção consular da Embaixada de Portugal no Luxemburgo, constante do presente diploma, pelo DEC.77/84.28.11.1984.MNE,\
+    \ DR.IS [276] de 28.11.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-governo/77-1984-401060
+  date: '1984-11-28'
+- type: amended_by
+  target: pt:dre:396553:por
+  label: "Alterada, na parte referente ao consulado honorário em Porto Novo, a lista anexa ao presente diploma, pela PORT.987/84.28.12.1984.MNE,\
+    \ DR.IS [299] de 28.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/987-1984-396553
+  date: '1984-12-28'
+- type: amended_by
+  target: pt:dre:328255:por
+  label: "Alterada a lista anexa ao presente diploma, pela PORT.68/85.1985.02.02.MNE, Dr.IS [28]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/68-1985-328255
+  date: '1985-02-02'
+- type: amended_by
+  target: pt:dre:326897:por
+  label: "Alterada a lista anexa à presente Portaria pela PORT.146/85.13.02.1985.MNE, DR.IS [60] de 13.03.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/146-1985-326897
+  date: '1985-02-13'
+- type: amended_by
+  target: pt:dre:326311:por
+  label: "Alterada a lista anexa à presente Portaria pela PORT.140/85.12.03.1985.MNE, DR.IS [59] de 12.03.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/140-1985-326311
+  date: '1985-03-12'
+- type: amended_by
+  target: pt:dre:324941:por
+  label: "Alterada a lista anexa pela PORT.166/85.28.03.1985.MNE, DR.IS [73] de 28.03.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/166-1985-324941
+  date: '1985-03-28'
+- type: amended_by
+  target: pt:dre:325091:por
+  label: "Alterada a lista anexa pela PORT.180/85.03.04.1985.MNE, DR.IS [78] de 03.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/180-1985-325091
+  date: '1985-04-03'
+- type: amended_by
+  target: pt:dre:182975:por
+  label: "Alterados os distritos consulares em Espanha constantes da lista pela PORT.430/85.06.07.1985.MNE, DR.IS [153] de\
+    \ 06.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/430-1985-182975
+  date: '1985-07-06'
+- type: amended_by
+  target: pt:dre:183620:por
+  label: "Alterada a lista anexa ao presente diploma, na parte referente ao distrito consular de Roterdão, pela PORT.495/85.20.07.1985.MNE,\
+    \ DR.IS [165] de 20.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/495-1985-183620
+  date: '1985-07-20'
+- type: amended_by
+  target: pt:dre:180986:por
+  label: "Reformulado o distrito consular de Tolouse, constante da lista anexa ao presente diploma, pela PORT.638/85.24.08.1985.MNE,\
+    \ DR.IS [194] de 24.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/638-1985-180986
+  date: '1985-08-24'
+- type: amended_by
+  target: pt:dre:556999:por
+  label: "Alterada a lista anexa, pela PORT.763/90.30.08.1990.MNE, DR.IS [200] de 30.08.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/763-1990-556999
+  date: '1990-08-30'
+- type: amended_by
+  target: pt:dre:301653:por
+  label: "Alterada a lista anexa, pela PORT.332/94.1994.05.31.MNE, DR.IS-B [126]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/332-1994-301653
+  date: '1994-05-31'
+- type: amended_by
+  target: pt:dre:298778:por
+  label: "Alterada a lista anexa, pela PORT.647/94.1994.07.16.MNE, DR.IS-B [163)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/647-1994-298778
+  date: '1994-07-16'
+- type: amended_by
+  target: pt:dre:225465:por
+  label: "Alterada a lista anexa, pela PORT.728/94.1994.08.12.MNE, DR.IS-B [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/728-1994-225465
+  date: '1994-08-12'
+- type: amended_by
+  target: pt:dre:476319:por
+  label: "Alterada a lista anexa, pela PORT.664/95.1995.06.27.MNE, DR.IS-B [43]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/664-1995-476319
+  date: '1995-06-27'
+- type: amended_by
+  target: pt:dre:626007:por
+  label: "Alterada a lista anexa, pela PORT.59/96.1996.02.26.MNE, DR.IS-B [48]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/59-1996-626007
+  date: '1996-02-26'
+- type: amended_by
+  target: pt:dre:581673:por
+  label: "Alterada a lista anexa (com a redacção dada pela Port 647/94 de 16-Jul), pela PORT.51/97.1997.01.21.MNE, DR.IS-B\
+    \ [17]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/51-1997-581673
+  date: '1997-01-21'
+- type: amended_by
+  target: pt:dre:403755:por
+  label: "Alterada a lista anexa, pela PORT.1225/97.1997.12.15.MNE, DR.IS-B [288]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1225-1997-403755
+  date: '1997-12-15'
+- type: amended_by
+  target: pt:dre:1697364:por
+  label: "Extinto o Consulado Geral de Portugal em Madrid, pelo DESP.3950/2008.15.02.2008.MNE, DR.IIS [33] de 15.02.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/3950-2008-1697364
+  date: '2008-02-15'
+- type: amended_by
+  target: pt:dre:1697366:por
+  label: "Extintos os consulados de Portugal em Tours e em Lille, constantes do presente diploma, pelo DESP.3952/2008.15.02.2008.MNE,\
+    \ DR.IIS [33] de 15.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/3952-2008-1697366
+  date: '2008-02-15'
+- type: amended_by
+  target: pt:dre:1697373:por
+  label: "Extinto o consulado de Portugal em Hamilton, constante do presente diploma, pelo DESP.3959/2008.15.02.2008.MNE,\
+    \ DR.IIS [33] de 15.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/3959-2008-1697373
+  date: '2008-02-15'
+- type: amended_by
+  target: pt:dre:2133944:por
+  label: "Alterada a jurisdição da Secção Consular da Embaixada de Portugal em Camberra e do Consulado-Geral de Portugal em\
+    \ Sydney, pelo DESP.4166/2008.18.02.2008.MNE, DR.IIS [34] de 18.02.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/4166-2008-2133944
+  date: '2008-02-18'
+- type: amended_by
+  target: pt:dre:3526642:por
+  label: "Alterada a área de jurisdição do Consulado Honorário de Portugal em Larnaca,pelo DESP-EXT.8293/2012.20.06.2012.SG-MNE,\
+    \ DR.IIS [118] de 20.06.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-extrato/8293-2012-3526642
+  date: '2012-06-20'
+- type: amended_by
+  target: pt:dre:2569129:por
+  label: "Tornada pública a extinção do Consulado Honorário de Portugal em La Spezia, Itália, pelo DESP-EXT.12076/2012.13.09.2012.SG-MNE,\
+    \ DR.IIS [178] de 13.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-extrato/12076-2012-2569129
+  date: '2012-09-13'
+- type: amended_by
+  target: pt:dre:2569130:por
+  label: "Tornada pública a extinção do Consulado Honorário de Portugal em Ventimiglia, Itália pelo DESP-EXT.12077/2012.13.09.2012.SG-MNE,\
+    \ DR.IIS [178] de 13.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-extrato/12077-2012-2569130
+  date: '2012-09-13'
+- type: amended_by
+  target: pt:dre:2642948:por
+  label: "Determinada a integração na área de jurisdição consular do Consulado Geral de Portugal em Maputo, do Consulado Honorário\
+    \ de Portugal em Mombaça, pelo DESP-EXT.6002/2013.09.05.2013.SG-MNE, DR.IIS [89] de 09.05.2013 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-extrato/6002-2013-2642948
+  date: '2013-05-09'
+- type: amended_by
+  target: pt:dre:66538585:por
+  label: Tornada pública a extinção do Consulado Honorário de Portugal em Turku, na Finlândia, dependente da Embaixada de
+    Portugal em Helsínquia, pelo(a) Despacho (extrato) n.º 1724/2015 - Diário da República n.º 34/2015, Série II de 2015-02-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-extrato/1724-2015-66538585
+  date: '2015-02-18'
+- type: amended_by
+  target: pt:dre:67458317:por
+  label: Tornada pública a extinção do Consulado Honorário de Portugal em Duque de Caxias (Brasil), dependente do Consulado
+    Geral de Portugal no Rio de Janeiro, pelo(a) Despacho (extrato) n.º 6486/2015 - Diário da República n.º 112/2015, Série
+    II de 2015-06-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-extrato/6486-2015-67458317
+  date: '2015-06-11'
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 47
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:42:36Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +388,7 @@ Lista dos distritos consulares portugueses no estrangeiro, sua composição e á
 
 1) Distrito consular de Adis Abeba:
 
-#### Secção consular da Embaixada em Adis Abeba (a) - Etiópia.
+Secção consular da Embaixada em Adis Abeba (a) - Etiópia.
 
 2) Distrito consular de Adém:
 
@@ -117,7 +398,7 @@ Consulado honorário em Jibuti (a) - Costa Francesa dos Somalis.
 
 3) Distrito consular de Angora:
 
-#### Secção consular da Embaixada em Angora (a) - Cidade de Angora.
+Secção consular da Embaixada em Angora (a) - Cidade de Angora.
 
 4) Distrito consular de Antuérpia:
 
@@ -141,7 +422,7 @@ Consulado honorário em Verviers - Arrondissements de Verviers e Bastogne.
 
 5) Distrito consular de Atenas:
 
-#### Secção consular da Embaixada em Atenas - Prefeituras de Ática, Argólida, Viotia, Fokida, Ftiótis, Corinto, Euritânia, Etoloakarmania e ilhas de Evia, Cíclades, Dodecaneso e Creta.
+Secção consular da Embaixada em Atenas - Prefeituras de Ática, Argólida, Viotia, Fokida, Ftiótis, Corinto, Euritânia, Etoloakarmania e ilhas de Evia, Cíclades, Dodecaneso e Creta.
 
 Consulado honorário em Kalamata (a) - Prefeituras de Lacónia, Messínia e ilhas de Zakintos e Cefalónia.
 
@@ -167,7 +448,7 @@ Consulado honorário em Manama (Bahrein) (a) - Koweit, Bahrein, Qatar, Estados T
 
 7) Distrito consular de Bagdade:
 
-#### Secção consular da Embaixada em Bagdade (a) - República do Iraque, com excepção dos distritos de Amara, Basra e Nasiriya.
+Secção consular da Embaixada em Bagdade (a) - República do Iraque, com excepção dos distritos de Amara, Basra e Nasiriya.
 
 8) Distrito consular da Baía:
 
@@ -179,7 +460,7 @@ Consulado honorário em Aracaju - Estado de Sergipe.
 
 9) Distrito consular de Banquecoque:
 
-#### Secção consular da Embaixada em Banguecoque - Reinos da Tailândia, Camboja e Laos.
+Secção consular da Embaixada em Banguecoque - Reinos da Tailândia, Camboja e Laos.
 
 Consulado honorário em Rangum (a) - República da Birmânia.
 
@@ -211,7 +492,7 @@ Consulado honorário em Fernando Pó - Território autónomo da Guiné Equatoria
 
 11) Distrito consular de Beirute:
 
-#### Secção consular da Embaixada em Beirute - República do Líbano, com excepção da cidade de Trípolis.
+Secção consular da Embaixada em Beirute - República do Líbano, com excepção da cidade de Trípolis.
 
 Consulado honorário em Trípolis (a) - Cidade de Trípolis.
 
@@ -249,11 +530,11 @@ Consulado de 1.ª classe em Berlim (a) - Land de Berlim.
 
 14) Distrito consular de Berna:
 
-#### Secção consular da Embaixada em Berna - Cantões de Berna e de Soleure.
+Secção consular da Embaixada em Berna - Cantões de Berna e de Soleure.
 
 15) Distrito consular de Bogotá:
 
-#### Secção consular da Embaixada em Bogotá (a) - República da Colômbia, com excepção dos departamentos de Atlântico, Bolívar e Antioquia.
+Secção consular da Embaixada em Bogotá (a) - República da Colômbia, com excepção dos departamentos de Atlântico, Bolívar e Antioquia.
 
 Consulado honorário em Barranquilha - Departamento de Atlântico.
 
@@ -263,7 +544,7 @@ Consulado honorário em Medellin (a) - Departamento de Antioquia.
 
 16) Distrito consular de Bona:
 
-#### Secção consular da Embaixada em Bona (a) - Cidade de Bona.
+Secção consular da Embaixada em Bona (a) - Cidade de Bona.
 
 17) Distrito consular de Bordéus:
 
@@ -299,7 +580,7 @@ Consulado honorário em Goiania - Municípios do estado de Goiás com sede ao su
 
 20) Distrito consular de Brazzaville:
 
-#### Secção consular da Embaixada em Brazzaville (a) - República Popular do Congo, com excepção das prefeituras de Kouilou, Niari e Nyanga-Louessé.
+Secção consular da Embaixada em Brazzaville (a) - República Popular do Congo, com excepção das prefeituras de Kouilou, Niari e Nyanga-Louessé.
 
 Consulado honorário em Ponta Negra (a) - Prefeituras de Kouilou, Niari e Nyanga-Louessé.
 
@@ -333,11 +614,11 @@ Consulado de 2.ª classe em Brema - Laender de Brema e da Baixa Saxónia a ocide
 
 22) Distrito consular de Bruxelas:
 
-#### Secção consular da Embaixada em Bruxelas (a) - Província do Brabante, com excepção do arrondissement de Lovaina, e a província de Namur.
+Secção consular da Embaixada em Bruxelas (a) - Província do Brabante, com excepção do arrondissement de Lovaina, e a província de Namur.
 
 23) Distrito consular de Buenos Aires:
 
-#### Secção consular da Embaixada em Buenos Aires - Capital federal e províncias de Catamarca, Tucuman, Jujuy, Salta, Santiago del Estero, Chaco, Formosa, Misiones, Corrientes, Entre-Rios, Santa Fé, Cordoba, La Pampa e Buenos Aires, com excepção das cidades de Santa Fé, Rosário, San Nicolas, La Plata e Baía Branca.
+Secção consular da Embaixada em Buenos Aires - Capital federal e províncias de Catamarca, Tucuman, Jujuy, Salta, Santiago del Estero, Chaco, Formosa, Misiones, Corrientes, Entre-Rios, Santa Fé, Cordoba, La Pampa e Buenos Aires, com excepção das cidades de Santa Fé, Rosário, San Nicolas, La Plata e Baía Branca.
 
 Consulado honorário em Baía Branca - Províncias de Neuquen e de Rio Negro e cidade de Baía Branca.
 
@@ -367,7 +648,7 @@ Consulado honorário em Port Elizabeth (a) - Cidade de Port Elizabeth.
 
 25) Distrito consular do Cairo:
 
-#### Secção consular da Embaixada no Cairo - República Árabe Unida, com excepção das cidades de Alexandria, Port-Said e Suez.
+Secção consular da Embaixada no Cairo - República Árabe Unida, com excepção das cidades de Alexandria, Port-Said e Suez.
 
 Consulado honorário em Alexandria (a) - Cidade de Alexandria.
 
@@ -377,7 +658,7 @@ Consulado honorário em Suez (a) - Cidade de Suez
 
 26) Distrito consular de Camberra:
 
-#### Secção consular da Embaixada em Camberra (a) - Capital federal.
+Secção consular da Embaixada em Camberra (a) - Capital federal.
 
 Consulado honorário em Sydney - Estado de New South Wales, Tasmânia, territórios da Nova Guiné e Nauru, Papua e ilhas da Polinésia e Melanésia.
 
@@ -401,7 +682,7 @@ Consulado honorário em Pakhoi (a) - Distrito de Pakhoi.
 
 28) Distrito consular de Caracas:
 
-#### Secção consular da Embaixada em Caracas - República da Venezuela, com excepção do estado de Zulia e da cidade de La Guaira.
+Secção consular da Embaixada em Caracas - República da Venezuela, com excepção do estado de Zulia e da cidade de La Guaira.
 
 Consulado honorário em La Guaira - Cidade de La Guaira.
 
@@ -415,13 +696,13 @@ Consulado honorário em Vichy (a) - Departamento de Allier.
 
 30) Distrito consular de Colombo:
 
-#### Secção consular da Embaixada em Colombo - Ceilão.
+Secção consular da Embaixada em Colombo - Ceilão.
 
 Consulado honorário em Mahé (Seychelles) (a) - Ilhas Seychelles e dependências.
 
 31) Distrito consular de Copenhaga:
 
-#### Secção consular da Embaixada em Copenhaga - Reino da Dinamarca, com excepção das cidades de Aalborg, Aarhus, Esbjerg, Odense e Thorshaven.
+Secção consular da Embaixada em Copenhaga - Reino da Dinamarca, com excepção das cidades de Aalborg, Aarhus, Esbjerg, Odense e Thorshaven.
 
 Consulado honorário em Aalborg - Cidade de Aalborg.
 
@@ -449,7 +730,7 @@ Consulado honorário em Zanzibar (a) - Ilhas de Zanzibar e Pemba.
 
 34) Distrito consular de Dublim:
 
-#### Secção consular de Embaixada em Dublim - República da Irlanda.
+Secção consular de Embaixada em Dublim - República da Irlanda.
 
 35) Distrito consular de Durban:
 
@@ -477,7 +758,7 @@ Consulado honorário em Glásgua - Cidade de Glásgua.
 
 38) Distrito consular de Estocolmo:
 
-#### Secção consular da Embaixada em Estocolmo (a) - Reino da Suécia, com excepção das províncias de Jönköping, Kronoberg, Halland, Alvsborg, Skaraborg, Göteborg och Bohus, Blekinge, Kristianstad e Malmöhus.
+Secção consular da Embaixada em Estocolmo (a) - Reino da Suécia, com excepção das províncias de Jönköping, Kronoberg, Halland, Alvsborg, Skaraborg, Göteborg och Bohus, Blekinge, Kristianstad e Malmöhus.
 
 Consulado honorário em Gavle - Cidade de Gavle.
 
@@ -501,7 +782,7 @@ Consulado de 3.ª classe em Francoforte (a) - Laender de Hesse, Renânia-Palatin
 
 42) Distrito consular de Guatemala:
 
-#### Secção consular da Embaixada em Guatemala (a) - República da Guatemala.
+Secção consular da Embaixada em Guatemala (a) - República da Guatemala.
 
 43) Distrito consular de Genebra:
 
@@ -519,7 +800,7 @@ Consulado honorário em Malmö - Províncias de Blekinge, Kristianstad e Malmöh
 
 45) Distrito consular da Haia:
 
-#### Secção consular da Embaixada na Haia (a) - Cidade da Haia.
+Secção consular da Embaixada na Haia (a) - Cidade da Haia.
 
 46) Distrito consular de Hamburgo:
 
@@ -541,7 +822,7 @@ Consulado de 1.ª classe em Hamilton (a) - Ilhas Bermudas.
 
 48) Distrito consular de Havana:
 
-#### Secção consular da Embaixada em Havana - República de Cuba.
+Secção consular da Embaixada em Havana - República de Cuba.
 
 49) Distrito consular do Havre:
 
@@ -557,7 +838,7 @@ Consulado honorário em Ruão - Departamentos de Eure e Seine Maritime.
 
 50) Distrito consular de Helsínquia:
 
-#### Secção consular da Embaixada em Helsínquia (a) - República da Finlândia, com excepção das províncias de Turku-Pori, Lappi e Oulu.
+Secção consular da Embaixada em Helsínquia (a) - República da Finlândia, com excepção das províncias de Turku-Pori, Lappi e Oulu.
 
 Consulado honorário em Abo/Turku - Província de Turku-Pori.
 
@@ -573,7 +854,7 @@ Consulado-Geral em Honolulu (a) - Estado de Hawaii e ilhas da Micronésia; Guam 
 
 53) Distrito consular de Islamabad:
 
-#### Secção consular da Embaixada em Islamabad (a) - Capital federal.
+Secção consular da Embaixada em Islamabad (a) - Capital federal.
 
 54) Distrito consular de Istambul:
 
@@ -587,7 +868,7 @@ Consulado honorário em Tekirdag (a) - Cidade de Tekidarg (Rodosto).
 
 55) Distrito consular de Jacatra:
 
-#### Secção consular da Embaixada em Jacatra - Província de Samatra, Bornéu, Java Central e Ocidental, Atjeh, Riau e Djambi.
+Secção consular da Embaixada em Jacatra - Província de Samatra, Bornéu, Java Central e Ocidental, Atjeh, Riau e Djambi.
 
 Consulado honorário em Kupang (a) - Províncias de Nusa Tenggara.
 
@@ -609,7 +890,7 @@ Consulado honorário em Lahore - Cidade de Lahore.
 
 58) Distrito consular de Kinshasa:
 
-#### Secção consular da Embaixada em Kinshasa (a) - República Democrática do Congo, com excepção das cidades de Boma e Matadi e da província de Catanga.
+Secção consular da Embaixada em Kinshasa (a) - República Democrática do Congo, com excepção das cidades de Boma e Matadi e da província de Catanga.
 
 Consulado honorário de Boma (a) - Cidade de Boma.
 
@@ -621,7 +902,7 @@ Consulado de 1.ª classe em Lião - Departamentos de Ain, Ardèche, Doubs, Drome
 
 60) Distrito consular de Lima:
 
-#### Secção consular da Embaixada em Lima - República do Peru, com excepção do departamento de Loreto.
+Secção consular da Embaixada em Lima - República do Peru, com excepção do departamento de Loreto.
 
 Consulado honorário em Iquitos - Departamento de Loreto.
 
@@ -695,7 +976,7 @@ Consulado honorário em Ndola (a) - Cidade de Ndola.
 
 65) Distrito consular do Luxemburgo:
 
-#### Secção consular da Embaixada no Luxemburgo - Grão-Ducado do Luxemburgo.
+Secção consular da Embaixada no Luxemburgo - Grão-Ducado do Luxemburgo.
 
 66) Distrito consular de Madrid:
 
@@ -753,7 +1034,7 @@ Consulado honorário em Zarza la Mayor - Ayuntamiento de Zarza la Mayor.
 
 67) Distrito consular de Manágua:
 
-#### Secção consular da Embaixada em Manágua (a) - República da Nicarágua.
+Secção consular da Embaixada em Manágua (a) - República da Nicarágua.
 
 Consulado honorário em S. Salvador - República de El Salvador, com excepção do departamento de Santa Ana.
 
@@ -773,7 +1054,7 @@ Consulado honorário em Rio Branco (a) - Estado do Acre.
 
 69) Distrito consular de Manila:
 
-#### Secção consular da Embaixada em Manila - República das Filipinas.
+Secção consular da Embaixada em Manila - República das Filipinas.
 
 Consulado honorário em Taipé (a) - Taiwan (Formosa).
 
@@ -813,7 +1094,7 @@ Consulado de 2.ª classe em Mbabane - Suazilândia.
 
 72) Distrito consular do México:
 
-#### Secção consular da Embaixada do México - Estados Unidos Mexicanos, com excepção dos estados de Nuevo Léon e Vera Cruz.
+Secção consular da Embaixada do México - Estados Unidos Mexicanos, com excepção dos estados de Nuevo Léon e Vera Cruz.
 
 Consulado honorário em Monterrey (a) - Estado de Nuevo Léon.
 
@@ -843,7 +1124,7 @@ Consulado honorário em Ventimiglia - Município de Ventimiglia.
 
 74) Distrito consular de Montevideu:
 
-#### Secção consular da Embaixada em Montevideu - República do Uruguai, com excepção dos departamentos de Artigas, Paysandu e Salto.
+Secção consular da Embaixada em Montevideu - República do Uruguai, com excepção dos departamentos de Artigas, Paysandu e Salto.
 
 Consulado honorário em Salto - Departamentos de Salto, Artigas e Paysandu.
 
@@ -931,11 +1212,11 @@ Consulado honorário em Haifa (a) - Israel.
 
 82) Distrito consular de Nova Deli:
 
-#### Secção consular da Embaixada em Nova Deli (a) - União Indiana, Nepal, Sikkim e Butão.
+Secção consular da Embaixada em Nova Deli (a) - União Indiana, Nepal, Sikkim e Butão.
 
 83) Distrito consular de Oslo:
 
-#### Secção consular da Embaixada em Oslo - Províncias de Akerhus, Hedmark, Oppland e Buskerud e distrito urbano de Oslo.
+Secção consular da Embaixada em Oslo - Províncias de Akerhus, Hedmark, Oppland e Buskerud e distrito urbano de Oslo.
 
 Consulado honorário em Bergen - Províncias de Hordaland e Sogn og Fjordane e distrito urbano de Bergen.
 
@@ -949,9 +1230,9 @@ Consulado honorário em Mosse - Província de Ostfold Norte.
 
 Consulado honorário em Stavanger - Província de Rogaland.
 
-Consulado honorário em Trondhein - Províncias de [([ver documento original](https://files.diariodarepublica.pt/1s/1968/02/04300/02450257.pdf))](https://files.diariodarepublica.pt/1s/1968/02/04300/02450257.pdf), [([ver documento original](https://files.diariodarepublica.pt/1s/1968/02/04300/02450257.pdf))](https://files.diariodarepublica.pt/1s/1968/02/04300/02450257.pdf), Nordland, Troms e Finmark, arquipélago de Svalbard e ilha de Jan Mayen.
+Consulado honorário em Trondhein - Províncias de [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/02/04300/02450257.pdf), [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/02/04300/02450257.pdf), Nordland, Troms e Finmark, arquipélago de Svalbard e ilha de Jan Mayen.
 
-Consulado honorário em [([ver documento original](https://files.diariodarepublica.pt/1s/1968/02/04300/02450257.pdf))](https://files.diariodarepublica.pt/1s/1968/02/04300/02450257.pdf) - Províncias de Vestford e Telemark.
+Consulado honorário em [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/02/04300/02450257.pdf) - Províncias de Vestford e Telemark.
 
 Consulado honorário em Alesund - Cidade de Alesund.
 
@@ -959,7 +1240,7 @@ Consulado honorário em Reiquejavique - República da Islândia.
 
 84) Distrito consular de Otava:
 
-#### Secção consular da Embaixada em Otava (a) - Cidade de Otava.
+Secção consular da Embaixada em Otava (a) - Cidade de Otava.
 
 85) Distrito consular do Pará:
 
@@ -1011,17 +1292,17 @@ Consulado honorário em Santa Maria (a) - Município de Santa Maria.
 
 88) Distrito consular de Pretória:
 
-#### Secção consular da Embaixada em Pretória - Cidade de Pretória.
+Secção consular da Embaixada em Pretória - Cidade de Pretória.
 
 89) Distrito consular de Quito:
 
-#### Secção consular da Embaixada em Quito (a) - Províncias de Carchi, Chimborazo, Cotopaxi, Esmeraldas, Imbabura, Manabí, Napo Pechincha, Tungurahua, Napo, Pastaza e ilhas Galapagos.
+Secção consular da Embaixada em Quito (a) - Províncias de Carchi, Chimborazo, Cotopaxi, Esmeraldas, Imbabura, Manabí, Napo Pechincha, Tungurahua, Napo, Pastaza e ilhas Galapagos.
 
 Consulado honorário em Guayaquil (a) - Províncias de Azuay, Bolívar, Cañar, El Oro, Guayas, Loja, Los Rios, Morona-Santiago e Zamora-Chinchipe.
 
 90) Distrito consular de Rabat:
 
-#### Secção consular da Embaixada em Rabat - Reino de Marrocos, com excepção das províncias de Casablanca, Tânger e Tetuão, da prefeitura urbana de Casablanca e das cidades de Fez, Marraquexe, El Jadida, Mequinez, Kénitra, Safi, Alcácer Quibir, Arzila, Laroche e Tetuão.
+Secção consular da Embaixada em Rabat - Reino de Marrocos, com excepção das províncias de Casablanca, Tânger e Tetuão, da prefeitura urbana de Casablanca e das cidades de Fez, Marraquexe, El Jadida, Mequinez, Kénitra, Safi, Alcácer Quibir, Arzila, Laroche e Tetuão.
 
 Consulado honorário em Casablanca - Prefeitura urbana de Casablanca e província de Casablanca.
 
@@ -1083,7 +1364,7 @@ Consulado honorário em Vitória - Estado do Espírito Santo.
 
 93) Distrito consular de Roma:
 
-#### Secção consular da Embaixada em Roma - Regiões do Lázio e dos Abruzzi-Molise, com excepção do município de Civitavecchia.
+Secção consular da Embaixada em Roma - Regiões do Lázio e dos Abruzzi-Molise, com excepção do município de Civitavecchia.
 
 Consulado honorário em Bari - Município de Bari.
 
@@ -1121,7 +1402,7 @@ Consulado honorário em Umtali (a) - Distrito de Umtali.
 
 96) Distrito consular de Santiago do Chile:
 
-#### Secção consular da Embaixada em Santiago do Chile (a) - República do Chile, com excepção das províncias de Tarapaca, Magallanes, Concepción e Valparaíso.
+Secção consular da Embaixada em Santiago do Chile (a) - República do Chile, com excepção das províncias de Tarapaca, Magallanes, Concepción e Valparaíso.
 
 Consulado honorário em Iquique (a) - Província de Tarapaca.
 
@@ -1145,7 +1426,7 @@ Consulado honorário em Portland (a) - Estados de Oregon e de Washington.
 
 99) Distrito consular de S. José da Costa Rica:
 
-#### Secção consular da Embaixada em S. José da Costa Rica - República da Costa Rica.
+Secção consular da Embaixada em S. José da Costa Rica - República da Costa Rica.
 
 Consulado honorário em Colón (a) - Cidade de Colón.
 
@@ -1203,7 +1484,7 @@ Consulado honorário em Penang (a) - Estado de Penang.
 
 102) Distrito consular de Tananarive:
 
-#### Secção consular da Embaixada em Tananarive - Madagáscar e ilhas Comoro.
+Secção consular da Embaixada em Tananarive - Madagáscar e ilhas Comoro.
 
 103) Distrito consular de Tânger:
 
@@ -1219,11 +1500,11 @@ Consulado honorário em Tetuão - Cidade de Tetuão.
 
 104) Distrito consular de Teerão:
 
-#### Secção consular da Embaixada em Teerão (a) - Irão.
+Secção consular da Embaixada em Teerão (a) - Irão.
 
 105) Distrito consular de Tóquio:
 
-#### Secção consular da Embaixada em Tóquio - Ilhas de Ryukyu, Daito, Bonin, Rosário e Volcano, ilha de Hokkaido e ilhas adjacentes e as prefeituras de Aomori, Akita, Iware, Yamagata, Miyagi, Fukushima, Gumma, Tochigi, Ibaragi, Saitama, Niigata, Nagano, Yamanashi, Chiba, Tóquio, Kanagawa e Shizuoka.
+Secção consular da Embaixada em Tóquio - Ilhas de Ryukyu, Daito, Bonin, Rosário e Volcano, ilha de Hokkaido e ilhas adjacentes e as prefeituras de Aomori, Akita, Iware, Yamagata, Miyagi, Fukushima, Gumma, Tochigi, Ibaragi, Saitama, Niigata, Nagano, Yamanashi, Chiba, Tóquio, Kanagawa e Shizuoka.
 
 Consulado honorário em Quioto (a) - Prefeituras de Quioto e Shiga.
 
@@ -1259,7 +1540,7 @@ Consulado honorário em Regina (a) - Província de Saskatchewan.
 
 108) Distrito consular de Viena:
 
-#### Secção consular da Embaixada em Viena - Províncias de Viena, Burgenland, Estíria e Baixa Áustria.
+Secção consular da Embaixada em Viena - Províncias de Viena, Burgenland, Estíria e Baixa Áustria.
 
 Consulado honorário em Linz - Província da Alta Áustria.
 
@@ -1297,7 +1578,7 @@ Consulado honorário em Villagarcia de Arosa - Ayuntamientos de Villagarcia de A
 
 110) Distrito consular de Washington:
 
-#### Secção consular da Embaixada em Washington (a) - Distrito de Colúmbia e estado de Delaware, Maryland, Virginia, West Virginia, North Carolina, South Carolina, Kentucky e Tennessee.
+Secção consular da Embaixada em Washington (a) - Distrito de Colúmbia e estado de Delaware, Maryland, Virginia, West Virginia, North Carolina, South Carolina, Kentucky e Tennessee.
 
 Consulado honorário em Chicago (a) - Estados de Oaio, Indiana, Ilinóis, Michigão e Wisconsin.
 
@@ -1339,7 +1620,7 @@ Consulado honorário em Wuhan (a) - Província de Hopei.
 
 114) Distrito consular de Zomba:
 
-#### Secção consular da Embaixada em Zomba - República do Malawi.
+Secção consular da Embaixada em Zomba - República do Malawi.
 
 115) Distrito consular de Zurique:
 

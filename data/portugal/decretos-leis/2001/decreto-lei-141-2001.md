@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/141/2001/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2001-165049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:24:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe8c9ecab802f49faa0479f2401746f15926da1cce6478b737072bd53c56a1a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f93a8999f6f54b744bed734e8b24edbc5fd53406dcc9dbaea9312299443a2c77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:24:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Carreira Técnica Superior
-- Concurso
 - Administração Pública
 - Carreira Profissional
+- Carreira Técnica Superior
+- Concurso
 - Formas de Provimento
 - Progressão na Carreira
 - Quadro de Pessoal
@@ -79,6 +79,21 @@ relationships:
   target: pt:dre:529450:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Mantidas suspensas, até 31.12.2007, excepto as decorrentes da Res 109/2005 de 30-Jun, e as que sejam indispensáveis\
+    \ para o cumprimento de lei ou para a execução de sentenças judiciais, as revisões de carreiras aprovadas pelo Dec Lei\
+    \ 248/85 de 15-Jul, alterado pelo presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0\
+    6\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Suspensas, até 31 de Dezembro de 2008, e nos termos do art. 15.º, as revisões de carreiras e do regime e montantes\
+    \ dos suplementos remuneratórios, aprovadas pelo Dec Lei 248/85 de 15-Jul, alterado pelo presente diploma, pela LEI.67-A/2007.31.12.2007.AR,\
+    \ DR.IS [251-Supl] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -87,16 +102,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:24:34Z'
   warnings: []
   errors: []
 ---
@@ -153,12 +180,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 2001. - António Manuel de Oliveira Guterres - Júlio de Lemos de Castro Caldas - Joaquim Augusto Nunes Pina Moura - Alberto de Sousa Martins.
 
-**Promulgado em 4 de Abril de 2001.**
+Promulgado em 4 de Abril de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Abril de 2001.**
+Referendado em 12 de Abril de 2001.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.

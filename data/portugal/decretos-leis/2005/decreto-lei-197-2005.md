@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/11/214a00/64116439.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/197/2005/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2005-583190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8776e3b5ee628cc3b05aac72cab63f478ade187222d2f50b08ef3d6866a887cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33ec48de4786f9ae5ade285abb327714b0632ebfd8a0dda9a58708aafb7d3b4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Multa
-- Obras Particulares
-- Contra-ordenação
-- Definição de Competências
-- Direito de Participação
-- Fiscalização
-- Projeto de Investimento
-- Direito à Justiça
 - Avaliação de Impacte Ambiental
 - Conselho Consultivo
-- Instituto do Ambiente
-- Publicitação
-- Licenciamento
+- Contra-ordenação
+- Definição de Competências
+- Direito à Justiça
+- Direito de Participação
+- Fiscalização
 - Inspecção Geral do Ambiente e do Ordenamento do Território
+- Instituto do Ambiente
+- Licenciamento
+- Multa
+- Obras Particulares
 - Obras Públicas
-- Proteção do Ambiente
 - Política do Ambiente
+- Projeto de Investimento
+- Proteção do Ambiente
+- Publicitação
 - Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:114337013:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553447:por
+  label: "Alterados os anexos I e II do Dec Lei 69/2000, de 03-maio, na redação e republicado pelo presente diploma, pelo\
+    \ DEC LEI.60/2012.14.03.2012.MEE, DR.IS [53] de 14.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-2012-553447
+  date: '2012-03-14'
 - type: cites
   target: celex:31979L0409
   label: null
@@ -110,16 +116,27 @@ relationships:
   target: celex:32003L0035
   label: null
   source: http://data.europa.eu/eli/dir/2003/35/oj
+- type: corrected_by
+  target: pt:dre:168229:por
+  label: "Rectificado pela DECL-RECT.2/2006.02.01.2006.PCM, DR.IS-A [5] de 06.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/2-2006-168229
+  date: '2006-01-02'
+- type: repealed_by
+  target: pt:dre:513863:por
+  label: "Revogado o Dec Lei 69/2000, de 03-mai, na redação do presente diploma, pelo DEC LEI.151-B/2013.31.10.2013.MAGM,\
+    \ DR.IS [211-2ºSupl] de 31.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-b-2013-513863
+  date: '2013-10-31'
 article_structure:
-  article_count: 88
+  article_count: 53
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:30Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +195,9 @@ b) Os projectos enunciados no anexo II.
 
 6 - O presente diploma não se aplica a projectos destinados à defesa nacional, sempre que o Ministro da Defesa Nacional reconheça que o procedimento de AIA tem efeitos adversos sobre as necessidades da defesa nacional, sem prejuízo de a aprovação e execução destes projectos ter em consideração o respectivo impacte ambiental.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 ...
 
@@ -226,7 +245,9 @@ r) 'Público interessado' - os titulares de direitos subjectivos ou de interesse
 
 s) [Anterior alínea q).]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Em circunstâncias excepcionais e devidamente fundamentadas, o licenciamento ou a autorização de um projecto específico pode, por iniciativa do proponente e mediante despacho do ministro responsável pela área do ambiente e do ministro da tutela, ser efectuado com dispensa, total ou parcial, do procedimento de AIA.
 
@@ -254,7 +275,9 @@ b) Necessidade de proceder a outra forma de avaliação, quando tal se justifiqu
 
 11 - (Anterior n.º 10.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 ...
 
@@ -266,7 +289,9 @@ c) [Anterior alínea d).]
 
 d) [Anterior alínea e).]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 ...
 
@@ -276,7 +301,9 @@ b) ...
 
 c) Decidir sobre a sujeição a AIA dos projectos abrangidos pelo n.º 4 do artigo 1.º
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -326,7 +353,9 @@ q) Comunicar ao IA a decisão final do procedimento de licenciamento ou de autor
 
 r) [Anterior alínea j).]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -362,7 +391,9 @@ e) ...
 
 f) ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O IA assegura as funções de coordenação geral e de apoio técnico do procedimento de AIA, competindo-lhe, nomeadamente:
 
@@ -378,7 +409,9 @@ d) Organizar e manter actualizado o registo central de todos os EIA e respectivo
 
 3 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -402,7 +435,9 @@ b) ...
 
 9 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -420,7 +455,9 @@ b) ...
 
 8 - (Anterior n.º 9.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -442,7 +479,9 @@ b) ...
 
 10 - Os pareceres a que se refere o número anterior são emitidos no prazo de 40 dias, podendo não ser considerados se emitidos fora desse prazo.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - No prazo de 15 dias contados da declaração de conformidade a que se refere o artigo anterior, a autoridade de AIA promove a publicitação do procedimento de AIA através de anúncio que deverá conter os seguintes elementos:
 
@@ -488,7 +527,9 @@ b) De 20 a 30 dias, para outros projectos.
 
 6 - A autoridade de AIA deve responder por escrito, no prazo de 30 dias, aos pedidos de esclarecimento que lhe sejam dirigidos por escrito pelos interessados devidamente identificados no decurso da consulta pública, podendo a resposta ser idêntica quando as questões sejam de conteúdo substancialmente semelhante.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - A autoridade de AIA convoca, define as condições em que se realizam, conduz e preside às audiências públicas.
 
@@ -498,13 +539,17 @@ b) De 20 a 30 dias, para outros projectos.
 
 4 - Compete à autoridade de AIA registar em acta ou em outro suporte adequado, desde que posteriormente reduzido a acta, a identificação e opinião de cada participante.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
 2 - A autoridade de AIA deve remeter ao ministro responsável pela área do ambiente a proposta de DIA no decurso do prazo previsto no número anterior.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A decisão sobre o procedimento de AIA consta da DIA, a qual pode ser favorável, condicionalmente favorável ou desfavorável e inclui os seguintes elementos:
 
@@ -522,7 +567,9 @@ d) Razões de facto e de direito que justificam a decisão.
 
 4 - (Revogado.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A DIA é proferida pelo ministro responsável pela área do ambiente no prazo de 15 dias contados a partir da data da recepção da proposta da autoridade de AIA.
 
@@ -530,7 +577,9 @@ d) Razões de facto e de direito que justificam a decisão.
 
 3 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -546,7 +595,9 @@ d) Razões de facto e de direito que justificam a decisão.
 
 7 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -554,7 +605,9 @@ d) Razões de facto e de direito que justificam a decisão.
 
 3 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - O procedimento de AIA é público, devendo encontrar-se todos os seus elementos e peças processuais disponíveis, nomeadamente:
 
@@ -570,7 +623,9 @@ c) [Anterior alínea d).]
 
 4 - ...
 
-###### Artigo 23.º — Divulgação
+Artigo 23.º
+
+Divulgação
 
 1 - Sem prejuízo do disposto no n.º 4 do artigo anterior, são objecto de divulgação obrigatória:
 
@@ -594,11 +649,15 @@ i) [Anterior alínea h).]
 
 2 - (Anterior n.º 3.)
 
-###### Artigo 24.º — Responsabilidade pela divulgação
+Artigo 24.º
+
+Responsabilidade pela divulgação
 
 A divulgação dos documentos referidos nas alíneas a) a h) do n.º 1 e no n.º 3 do artigo anterior é da responsabilidade da autoridade de AIA, cabendo à entidade licenciadora ou competente para a autorização do projecto a responsabilidade pela publicitação do documento mencionado na alínea i) do n.º 1 do mesmo artigo.
 
-###### Artigo 25.º — Prazo de divulgação
+Artigo 25.º
+
+Prazo de divulgação
 
 1 - Os documentos referidos no n.º 1 do artigo 23.º são divulgados no prazo de 20 dias.
 
@@ -610,7 +669,9 @@ b) No caso dos documentos mencionados nas alíneas c) a e) do n.º 1 do artigo 2
 
 c) No caso dos documentos mencionados nas alíneas h) e i) do n.º 1 do artigo 23.º, a partir da respectiva data de emissão.
 
-###### Artigo 26.º — Modalidades de divulgação
+Artigo 26.º
+
+Modalidades de divulgação
 
 1 - A divulgação do procedimento de AIA, bem como da realização de audiências públicas, é feita obrigatoriamente através de um anúncio, contendo pelo menos os elementos referidos no artigo 14.º, publicado em pelo menos duas edições sucessivas de um jornal de circulação nacional e, sendo possível, também num jornal de circulação regional ou local, bem como pela afixação do mesmo anúncio nas câmaras municipais abrangidas pelo projecto, sem prejuízo da sua divulgação através de meios electrónicos, quando disponíveis.
 
@@ -620,7 +681,9 @@ c) No caso dos documentos mencionados nas alíneas h) e i) do n.º 1 do artigo 2
 
 4 - (Revogado.)
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -636,7 +699,9 @@ c) No caso dos documentos mencionados nas alíneas h) e i) do n.º 1 do artigo 2
 
 7 - ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -644,13 +709,17 @@ c) No caso dos documentos mencionados nas alíneas h) e i) do n.º 1 do artigo 2
 
 3 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - No decurso da pós-avaliação, o público interessado tem a faculdade de transmitir por escrito à autoridade de AIA quaisquer informações ou dados factuais relevantes sobre impactes negativos no ambiente causados pela execução do projecto.
 
 2 - Compete à autoridade de AIA comunicar por escrito ao público interessado as medidas adoptadas ou a adoptar.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - Sempre que o projecto possa produzir um impacte ambiental significativo no território de outro ou outros Estados membros da União Europeia, a autoridade de AIA envia, através dos serviços competentes do Ministério dos Negócios Estrangeiros, às autoridades do Estado potencialmente afectado, o mais tardar até à publicitação do procedimento de AIA, nos termos do artigo 14.º, pelo menos a seguinte informação:
 
@@ -664,7 +733,9 @@ b) Informação sobre a natureza da decisão que pode ser tomada.
 
 4 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - Sempre que as autoridades competentes do Estado membro potencialmente afectado por um projecto sujeito a procedimento de AIA manifestem formalmente a intenção de participar naquele procedimento, são enviados todos os elementos objecto de publicitação nos termos do artigo 14.º, bem como o projecto, o EIA e o resumo não técnico.
 
@@ -672,7 +743,9 @@ b) Informação sobre a natureza da decisão que pode ser tomada.
 
 3 - Concluído o procedimento, o IA envia, através dos serviços competentes do Ministério dos Negócios Estrangeiros, às autoridades do Estado membro a DIA e a decisão final sobre o licenciamento ou a autorização do projecto.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Sempre que o Estado Português receba informação de outro Estado membro sobre um projecto susceptível de produzir um impacte significativo no território nacional, o IA desencadeia o procedimento de participação do público, divulgando a informação recebida ao público interessado e a todas as autoridades a quem o projecto possa interessar.
 
@@ -680,13 +753,17 @@ b) Informação sobre a natureza da decisão que pode ser tomada.
 
 3 - A informação do Estado membro sobre a conclusão do procedimento é pública, encontra-se disponível no IA e é divulgada através de meios electrónicos, sempre que possível.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - A fiscalização do cumprimento das disposições previstas no presente diploma ou dele resultantes e o respectivo sancionamento são da competência da Inspecção-Geral do Ambiente e do Ordenamento do Território (IGAOT), sem prejuízo das competências de fiscalização próprias das entidades licenciadoras ou competentes para autorizar o projecto.
 
 2 - Sempre que a autoridade de AIA, o IA, a CCDR ou qualquer outra entidade competente tome conhecimento de situações que indiciem a prática de uma contra-ordenação prevista no presente diploma deve dar notícia à IGAOT e remeter-lhe toda a documentação de que disponha para efeito da instauração e instrução do processo de contra-ordenação e consequente decisão.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Constitui contra-ordenação punível com coima de (euro) 498,79 a (euro) 3740,98, no caso de pessoas individuais, e de (euro) 2493,98 a (euro) 44891,81, no caso de pessoas colectivas, a prática de qualquer das seguintes infracções:
 
@@ -712,13 +789,17 @@ h) ...
 
 4 - ...
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
 2 - Sempre que o dever de reposição da situação anterior não seja voluntariamente cumprido, os serviços competentes do ministério responsável pela área do ambiente actuarão directamente por conta do infractor, sendo as despesas cobradas coercivamente através do processo previsto para as execuções fiscais.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 O produto das coimas é afectado da seguinte forma:
 
@@ -728,13 +809,17 @@ O produto das coimas é afectado da seguinte forma:
 
 60% para o Estado.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
 2 - Os serviços e organismos das respectivas administrações regionais autónomas devem remeter ao IA a informação necessária ao cumprimento da obrigação de notificação à Comissão Europeia prevista no n.º 1 do artigo 3.º da Directiva n.º [97/11/CE](https://data.europa.eu/eli/dir/1997/11/oj?locale=pt), do Conselho, de 3 de Março.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - Por portaria do ministro responsável pela área do ambiente são fixadas as normas técnicas previstas no presente diploma, nomeadamente os requisitos a observar pelo proponente na elaboração do EIA, o conteúdo mínimo da proposta de definição do âmbito do EIA e a composição e funcionamento do conselho consultivo de AIA.
 
@@ -788,7 +873,9 @@ O produto das coimas é afectado da seguinte forma:
 
 21 - Qualquer alteração ou ampliação de projectos incluídos no presente anexo, se tal alteração ou ampliação, em si mesma, corresponde aos limiares estabelecidos no presente anexo.
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 1 - ...
 
@@ -880,7 +967,9 @@ Apreciação prévia e decisão
 
 3 - A entidade licenciadora ou competente para autorização do projecto pode solicitar ao proponente os elementos identificados no anexo IV que se afigurem necessários à apreciação do mesmo para efeitos de sujeição a AIA.
 
-###### Artigo 35.º-A — Acesso à justiça
+Artigo 35.º-A
+
+Acesso à justiça
 
 O público interessado bem como as ONGA têm a faculdade de impugnar a legalidade de qualquer decisão, acto ou omissão no âmbito do procedimento de AIA, nos termos gerais de direito.»
 
@@ -938,7 +1027,9 @@ Indicação da natureza (directo, indirecto, secundário, temporário e permanen
 
 Identificação das medidas do projecto preconizadas para minimizar os impactes negativos expectáveis nas fases de construção, de exploração e de desactivação.
 
-## ANEXO V — Critérios de selecção referidos nos n.os 4 e 5 do artigo 1.º
+ANEXO V
+
+Critérios de selecção referidos nos n.os 4 e 5 do artigo 1.º
 
 1 - Características dos projectos - as características dos projectos devem ser consideradas especialmente em relação aos seguintes aspectos:
 
@@ -1000,15 +1091,15 @@ O Decreto-Lei n.º 69/2000, de 3 de Maio, que aprova o regime jurídico da AIA d
 
 Visto e aprovado em Conselho de Ministros de 21 de Julho de 2005. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva.
 
-**Promulgado em 10 de Outubro de 2005.**
+Promulgado em 10 de Outubro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Outubro de 2005.**
+Referendado em 17 de Outubro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ### CAPÍTULO I — Disposições gerais
 

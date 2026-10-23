@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/070a00/16161621.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/89/2001/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2001-347953
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:30:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae0e46f5c2b3e3baba9800c9876efee3f6a05b86d2e8ee370a19806c862daf3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c1c40f105bce54dee2aed010e07a9cc4febee43f587c6d6a77029c05f3ee95f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:30:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Comissão de Estatística da Justiça
 - Equipa de Projecto
 - Gabinete de Política Legislativa e Planeamento
-- Ministério da Justiça
 - Integração de Trabalhadores
+- Ministério da Justiça
 - Orgânica
-- Quadro de Pessoal
+- Pessoal Dirigente
 - Processo Legislativo
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:521000:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457200:por
+  label: "Determinado que o Gabinete de Política Legislativa e Planeamento do Ministério da Justiça, suceda, no âmbito das\
+    \ respectivas competências, ao Gabinete de Auditoria e Modernização do Ministério da Justiça cuja orgânica foi aprovada\
+    \ pelo DEC LEI 84/2001, pelo DEC LEI.4/2005.05.01.2005.MJ, DR.IS-A [3] de 05.01.2005\0005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-2005-457200
+  date: '2005-01-05'
+- type: amended_by
+  target: pt:dre:521000:por
+  label: "Determinada a sucessão da Direcção Geral da Política da Justiça (DGPJ) nas atribuições do Gabinete de Política Legislativa\
+    \ e Planeamento (GPLP), cujo diploma orgânico consta do presente diploma, que é revogado a partir de 01.05.2007 pelo DEC\
+    \ LEI.123/2007.27.04.2007.MJ, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-2007-521000
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/146/2000/07/18/p/dre
   label: null
@@ -91,16 +105,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:171544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472487:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:337863:por
+  label: "Rectificada pela DECL-RECT.9-I/2001.2001.03.30.PCM, DR.IS-A [77]2ºSupl. de 31/Mar/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/9-i-2001-337863
+  date: '2001-03-30'
 article_structure:
   article_count: 20
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:30:31Z'
   warnings: []
   errors: []
 ---
@@ -271,7 +314,9 @@ j) Participar em reuniões nacionais e internacionais no âmbito das suas compet
 
 2 - A DSEJ compreende a Divisão de Produção Estatística, à qual incumbe o exercício das competências referidas nas alíneas a) a c) e j) do número anterior, e a Divisão de Análise Estatística, à qual incumbe o exercício das competências referidas nas alíneas d) a j).
 
-###### Artigo 7.º — Divisão de Informática
+###### Artigo 7.º
+
+##### Divisão de Informática
 
 Compete à Divisão de Informática (DI):
 
@@ -303,7 +348,9 @@ e) Exercer as demais funções que lhe sejam cometidas em matéria documental e 
 
 2 - O Centro de Documentação é dirigido por um chefe de divisão.
 
-###### Artigo 9.º — Divisão de Recursos Financeiros, Economato e Património
+###### Artigo 9.º
+
+##### Divisão de Recursos Financeiros, Economato e Património
 
 1 - Incumbe à Divisão de Recursos Financeiros, Economato e Património (DRFEP) o desenvolvimento das competências na área dos recursos financeiros e patrimoniais, bem como assegurar o apoio geral e as tarefas relacionadas com o expediente, tais como:
 
@@ -335,7 +382,9 @@ m) Manter actualizado o cadastro e inventário dos bens imóveis e móveis.
 
 2 - A DRFEP compreende a Secção de Recursos Financeiros, à qual incumbe o exercício das competências referidas nas alíneas a) a h) do número anterior, e a Secção de Economato e Património, à qual incumbe o exercício das competências referidas nas alíneas i) a m) do número anterior.
 
-###### Artigo 10.º — Divisão de Recursos Humanos
+###### Artigo 10.º
+
+##### Divisão de Recursos Humanos
 
 Incumbe à Divisão de Recursos Humanos (DRH) o desenvolvimento das competências na área dos recursos humanos, tais como:
 
@@ -437,15 +486,15 @@ O presente diploma entra em vigor no dia subsequente ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Janeiro de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - António Ricardo Rocha de Magalhães - Alberto de Sousa Martins.
 
-**Promulgado em 8 de Março de 2001.**
+Promulgado em 8 de Março de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Março de 2001.**
+Referendado em 15 de Março de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — (a que se refre o n.º 1 do artigo 11.º)
 

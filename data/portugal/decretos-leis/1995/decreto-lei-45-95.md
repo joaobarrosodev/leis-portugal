@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/45/1995/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1995-196936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb5803bc3d8910bd2f9d17a3fbbfddae7807d07ce271d0c8bfe76b84f286f0a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55e92112e1b78571992326ee4fde8cc402c38d25a7787db1cd26a54dd7b4a892
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,6 +80,11 @@ relationships:
   target: pt:dre:468663:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:484427:por
+  label: "Aditados os arts. 40º e 41º pelo DEC LEI.200/95.1995.07.31.MF, DR.IS-A [175]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1995-484427
+  date: '1995-07-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/131/1993/04/22/p/dre
   label: null
@@ -112,16 +117,110 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/6/1991/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/6/1991/02/20/p/dre
+- type: cites
+  target: pt:dre:157053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692655:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468663:por
+  label: "Revogado a partir da entrada em vigor do RCTFP, o art. 20º, pela LEI.12-A/2008.27.02.2008.AR, DR.IS [41-Supl] de\
+    \ 27.02.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2008-468663
+  date: '2008-02-27'
 article_structure:
   article_count: 39
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:51Z'
   warnings: []
   errors: []
 ---
@@ -462,12 +561,12 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1995.
 
 Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 21 de Fevereiro de 1995.**
+Promulgado em 21 de Fevereiro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Fevereiro de 1995.**
+Referendado em 24 de Fevereiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

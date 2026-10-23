@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/08/17700/28502852.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/809-1983-454055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T07:51:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d6306bc3bdbe5bd7afdad0fbbd347a9de6d1b0da0efc0800c4cd2376d979a14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2d1148b43b7706bd2d7ca3501adca64cb51da58d9bcf8147af34efdf19faa1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:51:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Ciências Musicais
+- Faculdade de Ciências Sociais e Humanas
+- Licenciatura
+- Plano de Estudos
+- Universidade NOVA de Lisboa
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA PELA PORTARIA NUMERO 489/84, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 142, DE 21/7/84. ALTERADA\
+    \ O NUMERO 3 PELA PORTARIA NUMERO 343/85, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 130, DE 7/6/85. REVOGADA PELA\
+    \ PORTARIA NUMERO 660/86, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 256, DE 6/11/86.\0 256, DE 6/11/86.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:221087:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:654735:por
+  label: "Alterado o quadro I do anexo I pela PORT.226/84.1984.04.11.ME DR.IS [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/226-1984-654735
+  date: '1984-04-11'
+- type: amended_by
+  target: pt:dre:386052:por
+  label: "Dada nova redacção ao quadro IV do anexo I ao presente diploma, pela PORT.489/84.21.07.1984.ME, DR.IS [168] de 21.07.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/489-1984-386052
+  date: '1984-07-21'
+- type: amended_by
+  target: pt:dre:181618:por
+  label: "Alterado o nº 3 pela PORT.343/85.07.06.1985.ME, DR.IS [130] de 07.06.1985 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/343-1985-181618
+  date: '1985-06-07'
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471140:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:221087:por
+  label: "Revogado o presente diploma, alterado nas Portarias 226/84, de 11 de Abril, 489/84, de 21 de Julho, e 343/85, de\
+    \ 7 de Junho, pela PORT.660/86.06.11.1986.MEC, DR.IS [256] de 06.11.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/660-1986-221087
+  date: '1986-11-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:51:30Z'
   warnings: []
   errors: []
 ---
@@ -215,7 +264,7 @@ São revogadas as Portarias n.os [804/80](https://diariodarepublica.pt/dr/detalh
 
 Ministério da Educação.
 
-**Assinada em 7 de Junho de 1983.**
+Assinada em 7 de Junho de 1983.
 
 Pelo Ministro da Educação, Alberto Romão Dias, Secretário de Estado do Ensino Superior.
 
@@ -227,7 +276,7 @@ Curso de Ciências Musicais
 
 Do QUADRO I ao QUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/17700/28502852.pdf))](https://files.diariodarepublica.pt/1s/1983/08/17700/28502852.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/17700/28502852.pdf)
 
 ## ANEXO II — Universidade Nova de Lisboa
 
@@ -241,4 +290,4 @@ Disciplinas de apoio
 
 Grau: licenciatura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/17700/28502852.pdf))](https://files.diariodarepublica.pt/1s/1983/08/17700/28502852.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/17700/28502852.pdf)

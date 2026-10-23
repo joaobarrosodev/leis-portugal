@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/093a00/22552255.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1995-223811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d931680ef38b06f0dec85ee9bd6c67b66ba46943d72ad8c876284eca1a8a4bab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b46cf216df99c5dd47af379dac645f6664a547ddbe57abcdb07f0c15d704eeac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Ordenamento do Território
 - Definição de Competências
-- Proteção do Ambiente
-- Política de Solos
-- Regime Jurídico
 - Governo
+- Ordenamento do Território
+- Política de Solos
+- Proteção do Ambiente
+- Regime Jurídico
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:124256708:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:539979:por
+  label: "Alterado o art 3º do Dec Lei 93/90 de 19-Mar, na redacção do presente diploma, pelo DEC LEI.180/2006.06.09.2006.MAOTDR,\
+    \ DR.IS [172] de 06.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-2006-539979
+  date: '2006-09-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
@@ -86,16 +92,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:453518:por
+  label: "Revogado, a partir de 21.09.2008, o Dec Lei 93/90, de 19-Mar, com as alterações introduzidas pelo presente diploma,\
+    \ revogado na mesma data, pelo DEC LEI.166/2008.22.08.2008.MAOTDR, DR.IS [162] de 22.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-2008-453518
+  date: '2008-08-22'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:36Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +144,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 3.º do [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março, alterado pelos Decretos-Leis n.os [316/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1990-555832), de 13 de Outubro, e [213/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1992-226005), de 12 de Outubro, passa a ter a seguinte redacção:
+Artigo único. O artigo 3.º do [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março, alterado pelos Decretos-Leis n.os [316/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1990-555832), de 13 de Outubro, e [213/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1992-226005), de 12 de Outubro, passa a ter a seguinte redacção:
 
 ###### Artigo 3.º — [...]
 
@@ -136,12 +168,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 23 de Fevereiro de 1995. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 17 de Março de 1995.**
+Promulgado em 17 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Março de 1995.**
+Referendado em 20 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

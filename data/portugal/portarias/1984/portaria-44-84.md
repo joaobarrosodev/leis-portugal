@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/01/01700/02650265.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/44-1984-659898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T08:04:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 836429526938cadb3b218bcf7469571945acc51f1006543da436895e1c1984d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e333f0c0a3013f16fa495385f5334de94e2562c870af2c3f08573f18193e829d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:04:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Azeite
+- Comércio
+- Margens de Comercialização
+- ÓLEO Comestivel
 relationships:
 - type: amended_by
   target: pt:dre:563382:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:275664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:563382:por
+  label: "Revogada pela PORT.1201/90.14.12.1990.MCT, DR.IS [287] de 14.12.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1201-1990-563382
+  date: '1990-12-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:04:46Z'
   warnings: []
   errors: []
 ---
@@ -132,6 +165,6 @@ b) Para o retalhista: margem de 10% calculada sobre o preço máximo de venda pe
 
 Secretaria de Estado do Comércio Interno.
 
-**Assinada em 9 de Janeiro de 1984.**
+Assinada em 9 de Janeiro de 1984.
 
-**O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.**
+O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.

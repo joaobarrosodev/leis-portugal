@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/603-1971-633700
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ea05b3fe26860166ac986e1a32f3c292fbe997a176b14556f1c4c86b6c57b45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55d0781d8b445a30103719263b6a30c00b5e67ad62bf9cdf5970ad4c254cc0ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção de Faróis
+- Escola de Faroleiros
+- Ministério da Marinha
+- Orgânica
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:661565:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661565:por
+  label: "Extinta a Escola de Faroleiros criada pelo presente diploma pelo Dec Lei 264/97.1997.10.02.MDN, DR.IS-A [228]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/264-1997-661565
+  date: '1997-10-02'
+- type: cites
+  target: pt:dre:200261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445476:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:57Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +114,11 @@ REGULAMENTO DA ESCOLA DE FAROLEIROS
 
 ### CAPÍTULO I — Missão e estrutura orgânica
 
-###### Artigo 1.º - 1. A Escola de Faroleiros (E. F.) é um estabelecimento de ensino do Ministério da Marinha destinado a ministrar os conhecimentos necessários ao desempenho das funções de faroleiro.
+Artigo 1.º - 1. A Escola de Faroleiros (E. F.) é um estabelecimento de ensino do Ministério da Marinha destinado a ministrar os conhecimentos necessários ao desempenho das funções de faroleiro.
 
 2. A E. F. funciona adstrita à Direcção de Faróis (D. F.).
 
-###### Art. 2.º A E. F. compreende:
+Art. 2.º A E. F. compreende:
 
 a) Director;
 
@@ -120,9 +138,9 @@ g) Conselho escolar.
 
 #### SECÇÃO I — Director
 
-###### Art. 3.º As funções de director da E. F. são exercidas pelo director de Faróis.
+Art. 3.º As funções de director da E. F. são exercidas pelo director de Faróis.
 
-###### Art. 4.º O director é responsável pela forma como a Escola desempenha a sua missão, nomeadamente pela formação dos alunos, pela disciplina e pelo cumprimento das leis, regulamentos, ordens e instruções, competindo-lhe, especialmente:
+Art. 4.º O director é responsável pela forma como a Escola desempenha a sua missão, nomeadamente pela formação dos alunos, pela disciplina e pelo cumprimento das leis, regulamentos, ordens e instruções, competindo-lhe, especialmente:
 
 a) Inspeccionar as instalações e zelar pela forma como decorrem os serviços, assistindo, quando entender, às aulas e instruções;
 
@@ -138,9 +156,9 @@ f) Assinar os diplomas de curso.
 
 #### SECÇÃO II — Director da instrução
 
-###### Art. 5.º As funções de director da instrução são exercidas pelo subdirector de Faróis.
+Art. 5.º As funções de director da instrução são exercidas pelo subdirector de Faróis.
 
-###### Art. 6.º O director da instrução é responsável perante o director da Escola pela orientação do ensino, competindo-lhe, em especial:
+Art. 6.º O director da instrução é responsável perante o director da Escola pela orientação do ensino, competindo-lhe, em especial:
 
 a) Propor as medidas tendentes a melhorar o ensino;
 
@@ -162,11 +180,11 @@ i) Orientar as actividades do serviço de publicações escolares.
 
 #### SECÇÃO III — Instrutores
 
-###### Art. 7.º - 1. Os instrutores da E. F. são oficiais da Armada para esse efeito designados.
+Art. 7.º - 1. Os instrutores da E. F. são oficiais da Armada para esse efeito designados.
 
 2. Quando prestem serviço na D. F., os instrutores são nomeados pelo respectivo director; se não pertencerem àquela Direcção, são nomeados pelo Ministro da Marinha, mediante proposta do director de Faróis.
 
-###### Art. 8.º Aos instrutores compete, em especial:
+Art. 8.º Aos instrutores compete, em especial:
 
 a) Contribuir para a formação moral, cívica e profissional dos alunos;
 
@@ -192,11 +210,11 @@ l) Elaborar, quando necessário, os apontamentos das disciplinas que regem.
 
 #### SECÇÃO IV — Auxiliares de instrução
 
-###### Art. 9.º - 1. Os auxiliares de instrução são sargentos da Armada e faroleiros-chefes.
+Art. 9.º - 1. Os auxiliares de instrução são sargentos da Armada e faroleiros-chefes.
 
 2. Os auxiliares de instrução, quando prestem serviço na D. F., são nomeados pelo director.
 
-###### Art. 10.º Aos auxiliares de instrução compete, especialmente:
+Art. 10.º Aos auxiliares de instrução compete, especialmente:
 
 a) Contribuir para a formação profissional, moral e cívica dos alunos;
 
@@ -214,7 +232,7 @@ g) Auxiliar os instrutores na elaboração dos apontamentos das respectivas disc
 
 #### SECÇÃO V — Serviço de publicações escolares
 
-###### Art. 11.º - 1. Ao serviço de publicações escolares compete, em especial:
+Art. 11.º - 1. Ao serviço de publicações escolares compete, em especial:
 
 a) Editar ou promover a aquisição de livros, apontamentos escolares, folhetos de instrução e outro material escolar que deva ser fornecido aos alunos;
 
@@ -226,7 +244,7 @@ c) Editar os pontos de exame e das repetições escritas, quando tal seja conven
 
 #### SECÇÃO VI — Secretaria escolar
 
-###### Art. 12.º - 1. À secretaria escolar incumbe realizar todos os trabalhos de expediente e arquivo relativos aos assuntos escolares, competindo-lhe, em especial:
+Art. 12.º - 1. À secretaria escolar incumbe realizar todos os trabalhos de expediente e arquivo relativos aos assuntos escolares, competindo-lhe, em especial:
 
 a) Escriturar os registos de matrícula dos alunos;
 
@@ -244,17 +262,17 @@ SBCÇÃO VII
 
 Conselho escolar
 
-###### Art. 13.º - 1. O conselho escolar é um órgão de consulta do director para assuntos de carácter pedagógico.
+Art. 13.º - 1. O conselho escolar é um órgão de consulta do director para assuntos de carácter pedagógico.
 
 2. O conselho escolar é presidido pelo director e do mesmo fazem parte o director da instrução e todos os instrutores.
 
-###### Art. 14.º Ao conselho escolar compete, especialmente:
+Art. 14.º Ao conselho escolar compete, especialmente:
 
 a) Dar parecer sobre todos os assuntos relativos à Escola e ao ensino nela ministrado que lhe sejam presentes;
 
 b) Apreciar os projectos dos planos dos cursos, os programas das disciplinas e as respectivas alterações.
 
-###### Art. 15.º - 1. A convocação do conselho escolar é da competência do director.
+Art. 15.º - 1. A convocação do conselho escolar é da competência do director.
 
 2. O conselho escolar será obrigatòriamente convocado:
 
@@ -266,13 +284,13 @@ b) Para apreciar alterações nos planos dos cursos.
 
 ### CAPÍTULO III — Cursos
 
-###### Art. 16.º Na E. F. funcionam os seguintes cursos:
+Art. 16.º Na E. F. funcionam os seguintes cursos:
 
 a) Curso elementar de farolagem;
 
 b) Curso complementar de farolagem.
 
-###### Art. 17.º - 1. O curso elementar de farolagem é frequentado pelos faroleiros auxiliares que tenham servido, pelo menos, seis meses num farol com instalação eléctrica e a sua frequência com aproveitamento constitui uma das condições de promoção a terceiro-faroleiro.
+Art. 17.º - 1. O curso elementar de farolagem é frequentado pelos faroleiros auxiliares que tenham servido, pelo menos, seis meses num farol com instalação eléctrica e a sua frequência com aproveitamento constitui uma das condições de promoção a terceiro-faroleiro.
 
 2. O curso complementar de farolagem é frequentado por segundos-faroleiros e a sua frequência com aproveitamento constitui uma das condições de promoção a primeiro-faroleiro.
 
@@ -280,19 +298,19 @@ b) Curso complementar de farolagem.
 
 4. O Ministro da Marinha pode autorizar, por despacho, que indivíduos que não sejam faroleiros do quadro do pessoal civil do Ministério da Marinha frequentem os cursos referidos no artigo anterior, sem qualquer encargo para o mesmo Ministério, desde que demonstrem possuir capacidade suficiente para essa frequência.
 
-###### Art. 18.º O número de alunos a admitir em cada curso depende das necessidades existentes e das vacaturas prováveis que possam ocorrer nas categorias de terceiros-faroleiros e primeiros-faroleiros e será fixado por despacho do Ministro da Marinha, mediante proposta do director de Faróis.
+Art. 18.º O número de alunos a admitir em cada curso depende das necessidades existentes e das vacaturas prováveis que possam ocorrer nas categorias de terceiros-faroleiros e primeiros-faroleiros e será fixado por despacho do Ministro da Marinha, mediante proposta do director de Faróis.
 
-###### Art. 19.º As datas de início dos cursos e a respectiva duração são fixadas por despacho do Ministro da Marinha.
+Art. 19.º As datas de início dos cursos e a respectiva duração são fixadas por despacho do Ministro da Marinha.
 
-###### Art. 20.º Os alunos que frequentem, com aproveitamento, os cursos referidos no artigo 17.º recebem um diploma de curso, cujo modelo figura em anexo a este Regulamento.
+Art. 20.º Os alunos que frequentem, com aproveitamento, os cursos referidos no artigo 17.º recebem um diploma de curso, cujo modelo figura em anexo a este Regulamento.
 
-###### Art. 21.º - 1. A estrutura de cada um dos cursos referidos no artigo 17.º consta dos planos dos cursos, os quais, depois de apreciados pelo conselho escolar, são submetidos a aprovação do Ministro da Marinha, mediante proposta do director de Faróis.
+Art. 21.º - 1. A estrutura de cada um dos cursos referidos no artigo 17.º consta dos planos dos cursos, os quais, depois de apreciados pelo conselho escolar, são submetidos a aprovação do Ministro da Marinha, mediante proposta do director de Faróis.
 
 2. O Ministro da Marinha pode delegar no director-geral dos Serviços de Fomento Marítimo a aprovação de alterações dos planos dos cursos.
 
-###### Art. 22.º Os programas das disciplinas e instruções são elaborados pelos respectivos instrutores e, depois de apreciados pelo conselho escolar, são submetidos à aprovação do director de Faróis.
+Art. 22.º Os programas das disciplinas e instruções são elaborados pelos respectivos instrutores e, depois de apreciados pelo conselho escolar, são submetidos à aprovação do director de Faróis.
 
-###### Art. 23.º O ensino nos cursos elementar e complementar de farolagem é ministrado por meio de:
+Art. 23.º O ensino nos cursos elementar e complementar de farolagem é ministrado por meio de:
 
 a) Aulas teóricas;
 
@@ -300,30 +318,30 @@ b) Aulas práticas;
 
 c) Palestras.
 
-###### Art. 24.º A avaliação do aproveitamento dos alunos é feita segundo normas análogas às que vigorarem nos estabelecimentos de ensino da Armada.
+Art. 24.º A avaliação do aproveitamento dos alunos é feita segundo normas análogas às que vigorarem nos estabelecimentos de ensino da Armada.
 
-###### Art. 25.º - 1. Os alunos que não obtenham aproveitamento no curso elementar de farolagem podem repeti-lo por uma só vez.
+Art. 25.º - 1. Os alunos que não obtenham aproveitamento no curso elementar de farolagem podem repeti-lo por uma só vez.
 
 2. Os alunos que pela segunda vez não obtenham aproveitamento no curso elementar de farolagem são demitidos de faroleiros do quadro do pessoal civil do Ministério da Marinha.
 
-###### Art. 26.º Os alunos que não obtenham aproveitamento no curso complementar de farolagem podem repeti-lo por uma só vez.
+Art. 26.º Os alunos que não obtenham aproveitamento no curso complementar de farolagem podem repeti-lo por uma só vez.
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 27.º A E. F. será apoiada, para a execução da sua missão, pelos órgãos da D. F., podendo, nomeadamente, utilizar as oficinas dos serviços de assistência oficinal e electrotecnia para a preparação prática dos alunos.
+Art. 27.º A E. F. será apoiada, para a execução da sua missão, pelos órgãos da D. F., podendo, nomeadamente, utilizar as oficinas dos serviços de assistência oficinal e electrotecnia para a preparação prática dos alunos.
 
-###### Art. 28.º Aos alunos da E. F. será abonado um subsídio de alimentação, fixado anualmente por despacho do Ministro da Marinha.
+Art. 28.º Aos alunos da E. F. será abonado um subsídio de alimentação, fixado anualmente por despacho do Ministro da Marinha.
 
-###### Art. 29.º - 1. Aos segundos-faroleiros e terceiros-faroleiros e faroleiros auxiliares que por doença ou imposição de serviço não possam iniciar ou completar o curso para que tenham sido nomeados será concedido adiamento desse curso.
+Art. 29.º - 1. Aos segundos-faroleiros e terceiros-faroleiros e faroleiros auxiliares que por doença ou imposição de serviço não possam iniciar ou completar o curso para que tenham sido nomeados será concedido adiamento desse curso.
 
 2. Compete ao chefe do serviço de saúde da D. F. verificar se o faroleiro se encontra ao abrigo do disposto no número anterior quando se tratar de doença.
 
 3. Nas ilhas adjacentes, a verificação da doença será feita por intermédio dos serviços médicos da localidade onde se encontra situada a capitania da área do farol, a qual fará a devida comunicação à D. F.
 
-###### Art. 30.º O regulamento interno da E. F. será aprovado por despacho do Ministro da Marinha.
+Art. 30.º O regulamento interno da E. F. será aprovado por despacho do Ministro da Marinha.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/11/25800/16551658.pdf))](https://files.diariodarepublica.pt/1s/1971/11/25800/16551658.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/11/25800/16551658.pdf)
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

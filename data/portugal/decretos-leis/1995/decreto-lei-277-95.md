@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/277/1995/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1995-668290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae22051f1c6a1a2a7640f2e34b2fe5c2dcaecd2536e9eba310cc91adb978962d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1071ebca943f4e86725853f9306b4743b73c4b426a31bfd2f19fdc07745bda1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
+- Administração Pública
 - Avião
-- Modernização Administrativa
 - Código do Registo de BENS Móveis
-- Serviços de Registo e Notariado
 - Conservatória de Registo de BENS Móveis
 - Conservatória do Registo Automóvel
 - Contrato
@@ -79,40 +77,61 @@ subjects:
 - Direcção Geral de Portos
 - Direcção Geral de Viação
 - Direcção Geral dos Registos e do Notariado
-- Registo Automóvel
+- Embarcação
 - Emolumento do Notariado
-- Administração Pública
-- Registos e Notariado
+- Execução por Dívidas
 - Extinção de Serviços
 - Fiscalização
 - Informatização
 - Inspecção Geral de Navios
-- Transmissão da Propriedade
-- Publicitação
 - Legalidade
 - Licenciamento
-- Veículo
+- Modernização Administrativa
 - Presunção
+- Propriedade de BENS
+- Publicitação
 - Regime Jurídico
 - Registo Aeronáutico Nacional
-- Propriedade de BENS
-- Execução por Dívidas
+- Registo Automóvel
 - Registo Obrigatório
+- Registos e Notariado
+- Serviços de Registo e Notariado
+- Transmissão da Propriedade
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:368070:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:239613:por
+  label: "Alterado o nº 1 do art. 7º (entrada em vigor) pelo DEC LEI.311-A/95.1995.11.21.MJ, DR.IS-A [269]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/311-a-1995-239613
+  date: '1995-11-21'
+- type: cites
+  target: pt:dre:159881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614782:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:515872:por
+  label: "Rectificado a al. g) do art. 15.º, o n.º 5 do art. 26.º e o n.º 6 do art. 40.º do Código do Registo de Bens Móveis,\
+    \ aprovado pelo presente diploma, pela DECL-RECT.131/95.31.10.1995.PCM, DR.IS-A [252-2ºSupl] de 31.10.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/131-1995-515872
+  date: '1995-10-31'
 article_structure:
-  article_count: 56
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 55
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:16Z'
   warnings: []
   errors: []
 ---
@@ -179,41 +198,41 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Código do Registo de Bens Móveis, que faz parte do presente diploma.
+Artigo 1.º É aprovado o Código do Registo de Bens Móveis, que faz parte do presente diploma.
 
-###### Art. 2.º - 1 - O registo da propriedade e dos demais direitos sobre bens móveis é lavrado em conservatórias próprias, denominadas «conservatórias de registo de bens móveis».
+Art. 2.º - 1 - O registo da propriedade e dos demais direitos sobre bens móveis é lavrado em conservatórias próprias, denominadas «conservatórias de registo de bens móveis».
 
 2 - As conservatórias do registo de automóveis passam a designar-se conservatórias de registo de bens móveis.
 
 3 - Podem ser criadas novas conservatórias de registo de bens móveis, autónomas ou a funcionar em regime de anexação, mediante portaria do Ministro da Justiça.
 
-###### Art. 3.º É revogada toda a legislação anterior que contrarie as matérias abrangidas por este Código, exceptuando os artigos 2.º, n.º 3, 15.º a 23.º do [Decreto-Lei n.º 54/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1975-159881), de 12 de Fevereiro, e as normas aplicáveis ao Registo Internacional de Navios da Madeira (MAR), aprovado pelo [Decreto-Lei n.º 96/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1989-614782), de 28 de Março.
+Art. 3.º É revogada toda a legislação anterior que contrarie as matérias abrangidas por este Código, exceptuando os artigos 2.º, n.º 3, 15.º a 23.º do [Decreto-Lei n.º 54/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1975-159881), de 12 de Fevereiro, e as normas aplicáveis ao Registo Internacional de Navios da Madeira (MAR), aprovado pelo [Decreto-Lei n.º 96/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1989-614782), de 28 de Março.
 
-###### Art. 4.º O Regulamento do Registo de Bens Móveis é aprovado por portaria do Ministro da Justiça.
+Art. 4.º O Regulamento do Registo de Bens Móveis é aprovado por portaria do Ministro da Justiça.
 
-###### Art. 5.º - 1 - Pelos registos são devidos os emolumentos previstos em tabela a aprovar por portaria do Ministro da Justiça.
+Art. 5.º - 1 - Pelos registos são devidos os emolumentos previstos em tabela a aprovar por portaria do Ministro da Justiça.
 
 2 - Exceptuam-se do disposto no número anterior os registos a favor do Estado.
 
-###### Art. 6.º - 1 - As normas de execução relativas ao registo das aeronaves são objecto de portaria conjunta dos Ministros da Justiça e das Obras Públicas, Transportes e Comunicações.
+Art. 6.º - 1 - As normas de execução relativas ao registo das aeronaves são objecto de portaria conjunta dos Ministros da Justiça e das Obras Públicas, Transportes e Comunicações.
 
 2 - As normas de execução relativas ao registo dos navios são objecto de portaria conjunta dos Ministros da Justiça e do Mar.
 
-###### Art. 7.º - 1 - O Código entra em vigor simultaneamente com o Regulamento a que se refere o artigo 4.º
+Art. 7.º - 1 - O Código entra em vigor simultaneamente com o Regulamento a que se refere o artigo 4.º
 
 2 - As disposições relativas a aeronaves e navios entram em vigor simultaneamente com as portarias a que se refere o artigo anterior.
 
 Visto e aprovado em Conselho de Ministros de 13 de Julho de 1995. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral - António Baptista Duarte Silva.
 
-**Promulgado em 3 de Outubro de 1995.**
+Promulgado em 3 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Outubro de 1995.**
+Referendado em 6 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — CÓDIGO DO REGISTO DE BENS MÓVEIS
 
@@ -537,7 +556,9 @@ m) De inscrições efectuadas na pendência de reclamação ou recurso contra a 
 
 3 - O prazo de validade da certidão é de seis meses.
 
-###### Artigo 35.º — Título de registo
+###### Artigo 35.º
+
+## Título de registo
 
 1 - Efectuado o primeiro registo de propriedade, é emitido o correspondente título de modelo aprovado.
 

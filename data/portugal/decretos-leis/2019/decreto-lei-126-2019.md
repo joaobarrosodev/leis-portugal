@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/16500/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/126/2019/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2019-124283150
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36833d2cfca4e2dac382f7c17ce18a9b895ab729fd169e4511851367cb0bdf41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa99c049ea4be29b575789a541dbc2a9f969e5730105a71f2197621f20d41cec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Administração Regional de Saúde do Norte
-- Modernização Administrativa
-- Ministério da Defesa Nacional
-- Direcção Geral da Administração e do Emprego Público
 - Administração Pública
-- Secretaria Geral
-- Gestão Pública
-- Instituto Nacional da Propriedade Industrial
-- Publicitação
+- Administração Regional de Saúde do Norte
 - Direção Geral da Política de Justiça
+- Direcção Geral da Administração e do Emprego Público
 - Direcção Geral da Qualificação dos Trabalhadores em Funções Públicas
 - Entidade de Serviços Partilhados da Administração Pública
-- Presidência do Conselho de Ministros
-- Recursos Humanos
 - Gestão de Recursos Humanos
+- Gestão Pública
+- Instituto Nacional da Propriedade Industrial
+- Ministério da Defesa Nacional
+- Modernização Administrativa
+- Presidência do Conselho de Ministros
+- Publicitação
+- Recursos Humanos
+- Secretaria Geral
 - Sistema de Incentivos à Inovação na Gestão Pública
 relationships:
 - type: cites
@@ -90,16 +90,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/186/2018/06/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/186/2018/06/27/p/dre
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115596624:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:03Z'
   warnings: []
   errors: []
 ---
@@ -180,20 +188,22 @@ O presente decreto-lei entra em vigor no dia seguinte à data da sua publicaçã
 
 Visto e aprovado em Conselho de Ministros de 27 de junho de 2019. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Mário José Gomes de Freitas Centeno - Ana Isabel dos Santos Figueiredo Pinto - Francisca Eugénia da Silva Dias Van Dunem - Marta Alexandra Fartura Braga Temido de Almeida Simões.
 
-**Promulgado em 6 de agosto de 2019.**
+Promulgado em 6 de agosto de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de agosto de 2019.**
+Referendado em 12 de agosto de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0000200007.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0000200007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0000200007.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/16500/0000200007.pdf))](https://files.diariodarepublica.pt/1s/2019/08/16500/0000200007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/16500/0000200007.pdf)
+
+112544692

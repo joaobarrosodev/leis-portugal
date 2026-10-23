@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85/2011/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 029c8959bc849829d64e8bef865626ed77618b1f2fb344c4b84826ad0cd23700
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b483415de459e0c6651870ab83cc3cb4f97e234160d4fb36e8f9a4bd8603bfbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Falência
 - Aproximação das Legislações
-- Valores Mobiliários
-- Instituição de Crédito
+- Banco de Portugal
 - Código dos Valores Mobiliários
 - Contrato de Garantia Financeira
-- Banco de Portugal
+- Falência
+- Instituição de Crédito
+- Instituição Financeira
 - Liquidação de Valores Mobiliários
 - Mercado Financeiro
 - Mercado Monetário
 - Obrigações
-- Instituição Financeira
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:571934:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:175333:por
+  label: "Alterados os arts. 7º, 8º, 11º do Dec Lei 105/2004, de 08-maio, na redação e republicado pelo presente diploma,\
+    \ pelo DEC LEI.192/2012.23.08.2012.MF, DR.IS [163] de 23.08.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-2012-175333
+  date: '2012-08-23'
+- type: amended_by
+  target: pt:dre:258114:por
+  label: "Alterado o art. 9º do Dec Lei 221/2000, de 09-set, na redação do presente diploma, pelo DEC LEI.18/2013.06.02.2013.MF,\
+    \ DR.IS [26] de 06.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2013-258114
+  date: '2013-02-06'
+- type: amended_by
+  target: pt:dre:571934:por
+  label: "Alterado, a partir de 17.04.2014, o art. 6.º do Dec Lei 221/2000, de 09-set, na redação do presente diploma, pelo\
+    \ DEC LEI.40/2014.18.03.2014.MF, DR.IS [54] de 18.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2014-571934
+  date: '2014-03-18'
 - type: cites
   target: celex:31998L0026
   label: null
@@ -115,15 +133,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
 article_structure:
-  article_count: 66
+  article_count: 48
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:02Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +196,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 8.º, 9.º, 11.º, 12.º e 13.º 
 
 2 - ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Para efeitos do presente diploma, entende-se por:
 
@@ -212,7 +232,9 @@ o) (Revogada.)
 
 p) 'Compensação' a conversão de créditos e obrigações decorrentes de ordens de transferência que um ou mais participantes emitem a favor de outro ou outros participantes, ou que dele ou deles recebem, num único crédito (líquido ou numa única obrigação líquida, de forma que apenas será exigível esse crédito líquido ou devida essa obrigação líquida).
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - As ordens de transferência, assim como a sua compensação bilateral ou multilateral de acordo com as regras do sistema, produzem efeitos jurídicos e, mesmo em caso de insolvência relativa a um participante no sistema em causa ou num sistema interoperável, ou relativas ao operador de um sistema interoperável que não seja participante, são oponíveis a terceiros, desde que tenham sido introduzidas no sistema antes do momento da abertura do respectivo processo, nos termos definidos no n.º 1 do artigo 8.º
 
@@ -226,7 +248,9 @@ p) 'Compensação' a conversão de créditos e obrigações decorrentes de orden
 
 6 - Para efeitos do presente diploma, o dia útil inclui todas as liquidações diurnas e nocturnas e engloba todos os acontecimentos ocorridos durante o ciclo de um sistema.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A partir do momento definido pelo próprio sistema, uma ordem de transferência não pode ser revogada pelos participantes ou por terceiros.
 
@@ -236,7 +260,9 @@ p) 'Compensação' a conversão de créditos e obrigações decorrentes de orden
 
 4 - O momento da irrevogabilidade não pode ser posterior à liquidação financeira.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 Para satisfazer as obrigações de um participante ou de um operador de um sistema interoperável que tenha sido objecto de um processo de insolvência, podem ser utilizados, até ao fim do dia da abertura desse processo:
 
@@ -244,7 +270,9 @@ a) ...
 
 b) ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - As garantias constituídas no quadro de um sistema ou de um sistema interoperável em favor de um participante ou de um banco central integrante do sistema europeu de bancos centrais não são afectadas pela abertura de um processo de insolvência contra:
 
@@ -260,7 +288,9 @@ d) Qualquer terceiro que tenha constituído as garantias.
 
 3 - Para os efeitos do presente diploma, considera-se garantia qualquer activo susceptível de execução, incluindo as garantias financeiras previstas no Decreto-Lei n.º 105/2004, de 8 de Maio, objecto de uma relação jurídica, nomeadamente de penhor ou de reporte, com o objectivo de tornar mais segura a posição jurídica dos participantes e dos bancos integrantes do sistema europeu de bancos centrais.
 
-###### Artigo 8.º — Abertura e efeitos da insolvência
+Artigo 8.º
+
+Abertura e efeitos da insolvência
 
 1 - Para efeitos do presente diploma, o momento da abertura do processo de insolvência é aquele em que a autoridade competente profere qualquer decisão que limita, suspenda ou faça cessar o cumprimento de obrigações ou as garantias a estas associadas.
 
@@ -272,7 +302,9 @@ d) Qualquer terceiro que tenha constituído as garantias.
 
 5 - Para os efeitos do presente diploma, considera-se que têm efeito equivalente ao processo de insolvência quaisquer medidas colectivas que visem a liquidação ou a recuperação de um participante, de que resulte a limitação, suspensão ou cessação do cumprimento das respectivas obrigações ou das garantias a elas associadas.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -280,11 +312,15 @@ d) Qualquer terceiro que tenha constituído as garantias.
 
 3 - O Banco de Portugal, sempre que receba do estrangeiro qualquer notificação relativa à insolvência de uma instituição, deve notificar imediatamente as entidades que gerem os sistemas.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Os operadores de sistemas regidos pela lei portuguesa comunicam ao Banco de Portugal, no mais breve prazo possível, as regras jurídicas, técnicas e operacionais do sistema, bem como a lista dos participantes, incluindo os participantes indirectos, e todas as alterações ocorridas.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -292,7 +328,9 @@ Os operadores de sistemas regidos pela lei portuguesa comunicam ao Banco de Port
 
 3 - Sem prejuízo de regras especiais sobre a lei aplicável aos direitos dos titulares de garantias constituídas por valores mobiliários ou direitos sobre valores mobiliários, a lei portuguesa, quando aplicável, regula todos os direitos e obrigações decorrentes da participação no sistema, mesmo em caso de abertura de um processo de insolvência.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O Banco de Portugal designa, através de aviso, os sistemas, bem como os respectivos operadores, abrangidos pelo presente diploma.
 
@@ -312,7 +350,9 @@ Sistemas de pagamentos
 
 3 - O operador de sistema é a entidade ou entidades legalmente responsáveis pelo funcionamento do sistema.
 
-###### Artigo 2.º-B — Participação nos sistemas de pagamentos
+Artigo 2.º-B
+
+Participação nos sistemas de pagamentos
 
 1 - Para efeitos do presente diploma, a compensação e a execução de ordens de transferência num sistema pode operar-se entre:
 
@@ -358,7 +398,9 @@ Os artigos 267.º e 283.º do Código dos Valores Mobiliários, aprovado pelo De
 
 5 - A responsabilidade pela introdução das ordens de transferência no sistema mantém-se na esfera do participante.
 
-###### Artigo 283.º — [...]
+Artigo 283.º
+
+[...]
 
 1 - ...
 
@@ -384,7 +426,9 @@ Os artigos 1.º, 3.º, 5.º, 7.º, 8.º, 9.º e 11.º do Decreto-Lei n.º 105/20
 
 2 - O disposto no presente diploma não prejudica as normas aplicáveis em matéria de contratos de crédito ao consumidor.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -402,7 +446,9 @@ f) ...
 
 2 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -418,7 +464,9 @@ a) Consumidores, nos termos da Lei n.º 24/96, de 31 de Julho de 1996, alterada 
 
 b) Microempresas ou pequenas empresas, conforme definidas na Recomendação n.º [2003/361/CE](https://data.europa.eu/eli/reco/2003/361/oj?locale=pt), da Comissão Europeia, de 6 de Maio, relativa à definição de microempresas, pequenas e médias empresas.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O presente diploma é aplicável aos contratos de garantia financeira e às garantias financeiras cuja celebração e prestação sejam susceptíveis de prova por documento escrito ou de forma juridicamente equivalente.
 
@@ -434,7 +482,9 @@ b) ...
 
 c) Nas garantias financeiras que tenham por objecto créditos sobre terceiros, a inclusão numa lista de créditos apresentada ao beneficiário da garantia por escrito ou de forma juridicamente equivalente à forma escrita é suficiente para identificar o crédito sobre terceiros e fazer prova da prestação do crédito dado como garantia financeira entre as partes.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -442,7 +492,9 @@ c) Nas garantias financeiras que tenham por objecto créditos sobre terceiros, a
 
 3 - O disposto nos números anteriores não prejudica, nos casos em que sejam utilizados créditos sobre terceiros como garantia financeira, a existência e a validade de regimes de registo ou notificação, para efeitos de conclusão, prioridade, execução ou admissibilidade enquanto prova contra o devedor ou terceiros.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O contrato de penhor financeiro pode conferir ao beneficiário da garantia o direito de disposição sobre o objecto desta, salvo no caso de créditos sobre terceiros.
 
@@ -450,7 +502,9 @@ c) Nas garantias financeiras que tenham por objecto créditos sobre terceiros, a
 
 3 - ...
 
-###### Artigo 11.º — Execução dos acordos de penhor financeiro
+Artigo 11.º
+
+Execução dos acordos de penhor financeiro
 
 1 - No penhor financeiro, o beneficiário da garantia pode proceder à sua execução, fazendo seu o objecto da garantia, mediante venda ou apropriação, quer compensando o seu valor, quer aplicando-o para liquidação das obrigações financeiras garantidas:
 
@@ -488,15 +542,15 @@ São revogadas as alíneas a), h), i), m) e o) do artigo 2.º do Decreto-Lei n.�
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 2011. - José Sócrates Carvalho Pinto de Sousa - Pedro Manuel Carqueijeiro Lourtie - Fernando Teixeira dos Santos.
 
-**Promulgado em 20 de Junho de 2011.**
+Promulgado em 20 de Junho de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de Junho de 2011.**
+Referendado em 20 de Junho de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Republicação do Decreto-Lei n.º 221/2000, de 9 de Setembro
 

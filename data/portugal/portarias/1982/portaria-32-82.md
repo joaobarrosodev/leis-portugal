@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/01/01000/00570057.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/32-1982-601146
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T07:13:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1266b52b938874f775aac5a7a9e8bea73741ee436cc8c9ea0346c68526f92bd3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47c6b6cb2893007c3bed24c18120ba4189b559e37a33d7129fe9f6c361d25d30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:13:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital do Conde de Ferreira
+- Pessoal Auxiliar
+- Pessoal Operário
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:599708:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:435460:por
+  label: "Alterado o quadro de pessoal, aprovado pela Portaria n.º 637/80, de 16 de Setembro, reajustado pelo presente diploma,\
+    \ na parte referente ao pessoal técnico superior e pessoal operário e auxiliar, pela PORT.807-J2/83.30.07.1983.MFP, DR.IS\
+    \ [174]6ºSupl de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-j2-1983-435460
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:435580:por
+  label: "Alterado o quadro de pessoal, aprovado pela Portaria n.º 637/80, de 16 de Setembro, na parte referente ao pessoal\
+    \ técnico superior e pessoal médico, alterado pelo presente diploma, pela PORT.807-T3/83.30.07.1983.MFP, DR.IS [174]6ºSupl\
+    \ de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-t3-1983-435580
+  date: '1983-07-30'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELO DEC LEI 232/95 DE 12-SET DR.IS-A [211]\0[211]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:13:38Z'
   warnings: []
   errors: []
 ---
@@ -96,6 +135,6 @@ Atento o exposto e em conformidade com as disposições legais invocadas:
 
 Manda o Governo da República Portuguesa, pelos Ministros de Estado e das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, que sejam introduzidas ao quadro de pessoal do Centro de Saúde Mental Oriental do Porto - Hospital do Conde de Ferreira as alterações que a seguir se mencionam:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/01/01000/00570057.pdf))](https://files.diariodarepublica.pt/1s/1982/01/01000/00570057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/01/01000/00570057.pdf)
 
 Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, 7 de Dezembro de 1981. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro dos Assuntos Sociais, Luís Eduardo da Silva Barbosa. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

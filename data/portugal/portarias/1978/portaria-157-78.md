@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/157-1978-447348
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T05:33:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fad359ce66eaf72e89fdae23f7c41fe5a3a5671676e717de0713db1a6941ce94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28481949289522c65a88fb04e8b3b041392b24b9fede97a1a9f261e1b5c35471
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:33:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Chefe do Estado Maior da Armada
+- Conselho da Revolução
+- Instituto Superior Naval de Guerra
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:313605:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:33:42Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +100,19 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo
 
 2.º O § 3.º do artigo 11.º as alíneas c) dos artigos 12.º e 13.º, as alíneas a) e b) e o § único do artigo 18.º do aludido Regulamento passam a ter as seguintes redacções:
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 ...
 
 § 3.º as lições e conferências terão uma duração total de uma hora e quinze minutos, sendo cinquenta minutos, no máximo, de exposição e o restante para perguntas-respostas e contacto professores-alunos.
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 ...
 
 c) Trabalhos de aplicação envolvendo a resolução de problemas de guerra, quer de operações navais, quer de operações conjuntas, discussões em grupo, jogos de guerra estratégicos e operacionais de alto comando, «estudos» de planeamento e dois breves «estudos» de natureza exclusivamente técnico-profissional.
 
-###### Art. 13.º ...
+Art. 13.º ...
 
 ...
 
@@ -112,7 +120,7 @@ c) Trabalhos de aplicação envolvendo a resolução de problemas de guerra, dis
 
 ...
 
-###### Art. 18.º ...
+Art. 18.º ...
 
 a) Menos de 10 valores são classificados como Não habilitados;
 

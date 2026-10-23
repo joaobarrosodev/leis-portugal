@@ -47,36 +47,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/199-1980-681456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86182eb67f84a11da4d59921181cccb0b1dafee3cba8d7fdddbc20da63474fa9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a225aba8e1a51626ca6562d6f29b378cc10b1542759830da4a54877b8e7c16a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Guarda Fiscal
+- Regulamento Geral de Informações Individuais dos Militares da Guarda Fiscal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:07Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +95,11 @@ Regulamento Geral de Informações Individuais dos Militares da Guarda Fiscal
 
 ### CAPÍTULO I — Das informações
 
-###### Artigo 1.º As informações individuais de que trata este Regulamento constam de documentos que dão a conhecer, em determinado momento, o conceito global e específico em que é tido todo o militar da Guarda Fiscal e compreendem elementos que, fornecidos de forma correcta e consciente, permitem uma apreciação, tanto quanto possível objectiva e justa, sobre o informado.
+Artigo 1.º As informações individuais de que trata este Regulamento constam de documentos que dão a conhecer, em determinado momento, o conceito global e específico em que é tido todo o militar da Guarda Fiscal e compreendem elementos que, fornecidos de forma correcta e consciente, permitem uma apreciação, tanto quanto possível objectiva e justa, sobre o informado.
 
-###### Art. 2.º A eficiência deste sistema de apreciação depende fundamentalmente do sentido de responsabilidade da entidade informadora, que não deverá limitar-se, no momento em que tem de prestar a informação, à indagação apressada das qualidades dos seus subordinados, mas sim a um contínuo trabalho de apreciação e de acção pedagógica de comando.
+Art. 2.º A eficiência deste sistema de apreciação depende fundamentalmente do sentido de responsabilidade da entidade informadora, que não deverá limitar-se, no momento em que tem de prestar a informação, à indagação apressada das qualidades dos seus subordinados, mas sim a um contínuo trabalho de apreciação e de acção pedagógica de comando.
 
-###### Art. 3.º As informações são confidenciais e prestadas em documento próprio designado por «Folha de informação», do modelo indicado em anexo, havendo folhas destinadas a praças (modelo n.º 1) e destinadas a oficiais e sargentos (modelo n.º 2).
+Art. 3.º As informações são confidenciais e prestadas em documento próprio designado por «Folha de informação», do modelo indicado em anexo, havendo folhas destinadas a praças (modelo n.º 1) e destinadas a oficiais e sargentos (modelo n.º 2).
 
 a) As informações a prestar em relação aos oficiais do QP são independentes da informação a prestar ao Exército, em documento do modelo em vigor.
 
@@ -105,19 +107,19 @@ b) As instruções para o preenchimento das folhas são insertas nos próprios i
 
 c) Na apreciação do desembaraço físico dos informados ter-se-á em consideração o resultado obtido na última prova física prestada por cada um, resultado que, além de ser referido obrigatoriamente na folha de informação da GF, ficará registado em ficha própria (modelo n.º 3).
 
-###### Art. 4.º Nos juízos ampliativos serão desenvolvidas, sempre que possível, as respostas dadas aos quesitos, descrevendo sucintamente o informado com a mais escrupulosa exactidão e clareza ou mencionando as acções que justifiquem a apreciação feita.
+Art. 4.º Nos juízos ampliativos serão desenvolvidas, sempre que possível, as respostas dadas aos quesitos, descrevendo sucintamente o informado com a mais escrupulosa exactidão e clareza ou mencionando as acções que justifiquem a apreciação feita.
 
-###### Art. 5.º Não é de admitir, alegando desconhecimento, a abstenção de resposta a qualquer quesito. Por isso, o informante deve recolher, a respeito de cada subordinado, o juízo que dele formam os outros militares, de preferência os que desempenham funções intermediárias às do informante e informado, ou comandantes ou chefes anteriores.
+Art. 5.º Não é de admitir, alegando desconhecimento, a abstenção de resposta a qualquer quesito. Por isso, o informante deve recolher, a respeito de cada subordinado, o juízo que dele formam os outros militares, de preferência os que desempenham funções intermediárias às do informante e informado, ou comandantes ou chefes anteriores.
 
-###### Art. 6.º A folha de informação constitui exemplar único, não sendo, portanto, permitido dela extrair duplicado ou cópia.
+Art. 6.º A folha de informação constitui exemplar único, não sendo, portanto, permitido dela extrair duplicado ou cópia.
 
-###### Art. 7.º Da matéria ou matérias constantes da folha de informação assiste ao informado o direito de reclamar, quando delas tiver conhecimento oficial, nos termos deste Regulamento, tendo para o efeito um prazo de cinco dias contados a partir desta data.
+Art. 7.º Da matéria ou matérias constantes da folha de informação assiste ao informado o direito de reclamar, quando delas tiver conhecimento oficial, nos termos deste Regulamento, tendo para o efeito um prazo de cinco dias contados a partir desta data.
 
-###### Art. 8.º As informações são da exclusiva competência e responsabilidade da entidade informante.
+Art. 8.º As informações são da exclusiva competência e responsabilidade da entidade informante.
 
 ### CAPÍTULO II — Da periodicidade das informações
 
-###### Art. 9.º As folhas de informação da Guarda Fiscal são elaboradas nos seguintes casos:
+Art. 9.º As folhas de informação da Guarda Fiscal são elaboradas nos seguintes casos:
 
 a) No fim de cada período anual compreendido entre 1 de Julho e 30 de Junho;
 
@@ -131,33 +133,33 @@ e) Por determinação superior.
 
 ### CAPÍTULO III — Dos informantes
 
-###### Art. 10.º São informantes todos os militares da Guarda Fiscal que exercem funções de comando, de inspecção e de chefia, ou equiparados, devendo as informações dizer respeito apenas ao pessoal que serve sob as suas ordens.
+Art. 10.º São informantes todos os militares da Guarda Fiscal que exercem funções de comando, de inspecção e de chefia, ou equiparados, devendo as informações dizer respeito apenas ao pessoal que serve sob as suas ordens.
 
 a) O 2.º comandante-geral é o informante dos oficiais que exerçam funções de comandantes de unidades ou outras equiparadas.
 
 b) O 2.º comandante das unidades é o informante dos comandantes de companhia.
 
-###### Art. 11.º Nenhum militar pode ser informante de outro de graduação superior à sua.
+Art. 11.º Nenhum militar pode ser informante de outro de graduação superior à sua.
 
-###### Art. 12.º As informações a que se refere o artigo 9.º deste Regulamento são sempre confirmadas ou alteradas pelo comandante imediatamente superior ao informante, devendo, no segundo caso, ser justificado tal procedimento.
+Art. 12.º As informações a que se refere o artigo 9.º deste Regulamento são sempre confirmadas ou alteradas pelo comandante imediatamente superior ao informante, devendo, no segundo caso, ser justificado tal procedimento.
 
 As informações prestadas pelo 2.º comandante-geral não carecem de confirmação.
 
-###### Art. 13.º Quando as entidades informantes façam apreciações de grau 1 nas folhas referentes aos oficiais e sargentos, elaboradas para os fins previstos nas alíneas a), d) e e) do artigo 9.º deste Regulamento, devem do facto dar conhecimento, por escrito, ao informado, utilizando, para o efeito, a alínea F) da respectiva folha.
+Art. 13.º Quando as entidades informantes façam apreciações de grau 1 nas folhas referentes aos oficiais e sargentos, elaboradas para os fins previstos nas alíneas a), d) e e) do artigo 9.º deste Regulamento, devem do facto dar conhecimento, por escrito, ao informado, utilizando, para o efeito, a alínea F) da respectiva folha.
 
 Quando as informações se destinarem ao Conselho Superior da Guarda Fiscal, delas se dará conhecimento ao informado.
 
-###### Art. 14.º Compete à entidade informante apreciar, no prazo de cinco dias, qualquer reclamação que lhe seja apresentada pelo informado. Neste caso, a informação não deve transitar para o comandante imediatamente superior antes de proferir despacho sobre a reclamação.
+Art. 14.º Compete à entidade informante apreciar, no prazo de cinco dias, qualquer reclamação que lhe seja apresentada pelo informado. Neste caso, a informação não deve transitar para o comandante imediatamente superior antes de proferir despacho sobre a reclamação.
 
-###### Art. 15.º No caso de a reclamação ser julgada procedente, o informante arquivará a folha e elaborará uma nova devidamente rectificada. Da sua decisão dará sempre conhecimento ao reclamante.
+Art. 15.º No caso de a reclamação ser julgada procedente, o informante arquivará a folha e elaborará uma nova devidamente rectificada. Da sua decisão dará sempre conhecimento ao reclamante.
 
-###### Art. 16.º No caso de o informado não se conformar com o despacho que mereceu a sua reclamação, assiste-lhe ainda o direito de recorrer para o comandante ou chefe imediatamente superior ao do informante, tendo para o efeito um prazo de cinco dias a contar da data em que tomou conhecimento oficial da decisão.
+Art. 16.º No caso de o informado não se conformar com o despacho que mereceu a sua reclamação, assiste-lhe ainda o direito de recorrer para o comandante ou chefe imediatamente superior ao do informante, tendo para o efeito um prazo de cinco dias a contar da data em que tomou conhecimento oficial da decisão.
 
-###### Art. 17.º O despacho de recurso é definitivo.
+Art. 17.º O despacho de recurso é definitivo.
 
 ### CAPÍTULO IV — Dos informados
 
-###### Art. 18.º São sujeitos a informação:
+Art. 18.º São sujeitos a informação:
 
 a) Os oficiais e os sargentos, através da folha modelo n.º 2 da Guarda Fiscal;
 
@@ -165,11 +167,11 @@ b) As praças, através da folha modelo n.º 1 da Guarda Fiscal.
 
 ### CAPÍTULO V — Do processamento das informações
 
-###### Art. 19.º Todos os militares da Guarda Fiscal que exercem funções de comando ou de chefia devem proceder ao estudo e comparação das informações recebidas e referentes a cada um dos subordinados.
+Art. 19.º Todos os militares da Guarda Fiscal que exercem funções de comando ou de chefia devem proceder ao estudo e comparação das informações recebidas e referentes a cada um dos subordinados.
 
-###### Art. 20.º Sempre que uma informação se apresente incompleta ou de juízo duvidoso, deve o informante procurar obter informações adicionais que eliminem tais deficiências.
+Art. 20.º Sempre que uma informação se apresente incompleta ou de juízo duvidoso, deve o informante procurar obter informações adicionais que eliminem tais deficiências.
 
-###### Art. 21.º Cada comandante deve normalmente aceitar como correctas as informações dadas pelos escalões subordinados. No seu estudo deve, porém, ter em linha de conta a diversidade de critérios de apreciação dos informantes, pelo que se torna necessário fazer um juízo prévio do grau de merecimento de cada um, ponderando essencialmente os seguintes factores:
+Art. 21.º Cada comandante deve normalmente aceitar como correctas as informações dadas pelos escalões subordinados. No seu estudo deve, porém, ter em linha de conta a diversidade de critérios de apreciação dos informantes, pelo que se torna necessário fazer um juízo prévio do grau de merecimento de cada um, ponderando essencialmente os seguintes factores:
 
 Coerência do conteúdo da informação;
 
@@ -179,12 +181,12 @@ Aspectos em que a informação concorda ou diverge de outras já obtidas e relat
 
 ### CAPÍTULO VI — Do arquivo das informações
 
-###### Art. 22.º As folhas de informação anuais da Guarda Fiscal são guardadas no comando imediatamente superior ao do informante, em arquivo próprio e adequado ao grau de segurança que lhes está atribuído.
+Art. 22.º As folhas de informação anuais da Guarda Fiscal são guardadas no comando imediatamente superior ao do informante, em arquivo próprio e adequado ao grau de segurança que lhes está atribuído.
 
-###### Art. 23.º As informações elaboradas para efeitos do disposto nas alíneas b) e c) do artigo 9.º são arquivadas nos processos para que foram solicitadas.
+Art. 23.º As informações elaboradas para efeitos do disposto nas alíneas b) e c) do artigo 9.º são arquivadas nos processos para que foram solicitadas.
 
-###### Art. 24.º As informações elaboradas para efeitos do disposto na alínea d) do artigo 9.º são enviadas para o comando da unidade onde o informado for colocado.
+Art. 24.º As informações elaboradas para efeitos do disposto na alínea d) do artigo 9.º são enviadas para o comando da unidade onde o informado for colocado.
 
 Comando-Geral da Guarda Fiscal, 24 de Março de 1980. - O Comandante-Geral, Arménio Nuno Ramires de Oliveira, general.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/04/09600/08090818.pdf))](https://files.diariodarepublica.pt/1s/1980/04/09600/08090818.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/04/09600/08090818.pdf)

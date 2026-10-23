@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/11/263a00/65116520.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/292/2000/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-2000-615046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:20:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1edb63e46a4aa30f91f688b34adffc1e5651f63dddc7e3526a6023fe3e39b2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81f8b14c6c230bd2441d95a3d72335ebabf0397a005ca56159f675e4bb24a3e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:20:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Câmara Municipal
 - Construção Civil
+- Controlo Metrológico
 - Definição de Competências
 - Direcção Geral do Ambiente
 - Direcção Regional do Ambiente e do Ordenamento do Território
-- Material de Obras Públicas
+- Equipamento de Veículo
 - Fiscalização
+- Habitação
 - Inspecção Geral do Ambiente
 - Instituto de Promoção Ambiental
 - Licenciamento
 - Máquina-Ferramenta
-- Proteção do Ambiente
-- Equipamento de Veículo
-- Câmara Municipal
-- Regulamento
-- Habitação
-- Controlo Metrológico
+- Material de Obras Públicas
 - Poluição Sonora
+- Proteção do Ambiente
+- Regulamento
 - Sanção
 - Segurança dos Edifícios
 - Sinalização de Segurança
@@ -91,20 +91,59 @@ relationships:
   target: pt:dre:204552601:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:448316:por
+  label: "Alterados os arts. 9º, 17º, 19º, 20º, 22º, 24º, 26º e 27º do Regulamento Geral do Ruído, aprovado pelo presente\
+    \ diploma, pelo DEC LEI.259/2002.2002.11.23.MCOTA DR.IS-A [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/259-2002-448316
+  date: '2002-11-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/316/1995/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/316/1995/11/28/p/dre
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:300606:por
+  label: "Revogados os arts 13º e 14º, a al. f) do nº 1 do art. 22º e a referência ao art. 10º constante da al. g) do nº 1\
+    \ do art. 22º pelo DEC LEI.76/2002.2002.03.26.MAOT DR.IS-A [72]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2002-300606
+  date: '2002-03-26'
+- type: repealed_by
+  target: pt:dre:522807:por
+  label: "Revogado o regime legal sobre poluição sonora, aprovado pelo presente diploma, alterado pelo Dec Lei 259/2002 de\
+    \ 23-Nov, pelo DEC LEI.9/2007.17.01.2007.MAOTDR, DR.IS [12] de 17.01.2007, sem prejuízo do disposto no seu art. 4º. \0\
+    \ \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2007-522807
+  date: '2007-01-17'
 article_structure:
   article_count: 34
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:20:46Z'
   warnings: []
   errors: []
 ---
@@ -163,15 +202,15 @@ O presente diploma entra em vigor 180 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Fernando Manuel dos Santos Gomes - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa - Alberto de Sousa Martins.
 
-**Promulgado em 26 de Outubro de 2000.**
+Promulgado em 26 de Outubro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Novembro de 2000.**
+Referendado em 2 de Novembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — REGIME LEGAL SOBRE A POLUIÇÃO SONORA (REGULAMENTO GERAL DO RUÍDO)
 
@@ -571,7 +610,7 @@ O método para detectar as características impulsivas do ruído dentro do inter
 
 2 - Aos valores limite da diferença entre o LAeq do ruído ambiente que inclui o ruído particular corrigido (LAr) e o LAeq do ruído residual, estabelecidos no n.º 3 do artigo 8.º, deverá ser adicionado o valor D indicado na tabela seguinte, em função da duração acumulada de ocorrência do ruído particular:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/65116520.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/65116520.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/65116520.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/65116520.pdf)
 
 3 - Para o período nocturno, os valores de D iguais a 4 e 3 indicados na tabela anterior apenas são aplicáveis para actividades com horário de funcionamento até às 24 h. Para aquelas que ultrapassem este horário, aplicam-se os restantes valores, mantendo-se D = 2 para qualquer T =< 4.
 
@@ -581,7 +620,7 @@ Nível de potência sonora de máquinas e equipamentos:
 
 Motocompressores, gruas-torre, grupos electrogéneos de soldadura e potência, martelos-demolidores e martelos-perfuradores manuais e máquinas de cortar relva.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/65116520.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/65116520.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/65116520.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/65116520.pdf)
 
 Quadro n.º 2
 
@@ -589,7 +628,7 @@ Nível de potência sonora de máquinas e equipamentos;
 
 Escavadoras hidráulicas, escavadoras de cabos, tractores de terraplanagem (bulldozers), carregadoras e escavadoras-carregadoras.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/65116520.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/65116520.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/65116520.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/65116520.pdf)
 
 ## Anexo III — Limites para veículos de duas e três rodas
 

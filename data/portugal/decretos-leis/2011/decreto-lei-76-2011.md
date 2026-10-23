@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/06/11700/0331503323.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/76/2011/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2011-670025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5f15c9716e3628c616e4d9f9d19775ffb3f385b7972ac9f77978c95bff37512
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f5b8e0605987a7045431b1e312859247e11654352d7c5912d57c7ef77970d84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Comissão de Análise
 - Apoio ao Investimento
-- Projeto de Investimento
+- Comissão de Análise
 - Projecto PIN
-- Sistema de Reconhecimento e Acompanhamento de Projectos de Potencial Interesse Nacional
+- Projeto de Investimento
 - Regulamento
+- Sistema de Reconhecimento e Acompanhamento de Projectos de Potencial Interesse Nacional
 relationships:
 - type: amended_by
   target: pt:dre:504978:por
@@ -86,16 +86,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/101-b/2010/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/101-b/2010/12/27/p/dre
+- type: cites
+  target: pt:dre:233715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453539:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:504978:por
+  label: "Revogado, a partir de 10.11.2013, o Dec Lei 174/2008, de 26-ago, na redação do presente diploma, pelo DEC LEI.154/2013.05.11.2013.MECO,\
+    \ DR.IS [214] de 05.11.2013\013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2013-504978
+  date: '2013-11-05'
 article_structure:
-  article_count: 26
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:52Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +192,9 @@ e) Produção relevante de bens e serviços transaccionáveis que permitam a sub
 
 8 - ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -202,7 +218,9 @@ g) Instituto do Emprego e Formação Profissional, I. P.
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -218,7 +236,9 @@ e) ...
 
 f) Elaborar relatórios trimestrais da sua actividade, a remeter aos membros do Governo responsáveis pelas áreas da economia, da inovação, do desenvolvimento, do ambiente e do ordenamento do território.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Os interessados no reconhecimento de um projecto como PIN apresentam o respectivo requerimento junto da CAA-PIN instruído com os elementos definidos em despacho dos membros do Governo responsáveis pelas áreas da economia, da inovação, do desenvolvimento, do ambiente e do ordenamento do território e com o comprovativo do pagamento da taxa a que se refere o número seguinte.
 
@@ -234,7 +254,9 @@ f) Elaborar relatórios trimestrais da sua actividade, a remeter aos membros do 
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -250,7 +272,9 @@ f) Elaborar relatórios trimestrais da sua actividade, a remeter aos membros do 
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -278,7 +302,9 @@ f) Elaborar relatórios trimestrais da sua actividade, a remeter aos membros do 
 
 13 - Sem prejuízo do disposto no número anterior, a CAA-PIN procede à recolha da informação relevante sobre a execução do projecto, ficando o promotor obrigado a responder às solicitações da CAA-PIN para o efeito.
 
-###### Artigo 7.º — Competência do interlocutor único
+Artigo 7.º
+
+Competência do interlocutor único
 
 O interlocutor único é responsável por acompanhar, em proximidade, o desenvolvimento do processo, relacionando-se directamente com o promotor do projecto PIN no âmbito e para o efeito de todos os procedimentos legais e regulamentares que prevejam a emissão de pareceres, autorizações, decisões ou licenciamentos da responsabilidade da administração central necessários à concretização do projecto PIN, competindo-lhe, em particular:
 
@@ -326,7 +352,9 @@ Conferência decisória
 
 8 - Todas as entidades integradas na conferência decisória devem colaborar activamente com o interlocutor único e responder às suas solicitações nos prazos fixados para o efeito, sendo obrigatório o reporte de eventuais incumprimentos à tutela respectiva.
 
-###### Artigo 7.º-B — Funcionamento da conferência decisória
+Artigo 7.º-B
+
+Funcionamento da conferência decisória
 
 1 - A conferência decisória pode reunir:
 
@@ -336,7 +364,9 @@ b) Sectorialmente, com os membros cuja presença se justifique em função da ma
 
 2 - A conferência decisória reúne, sempre que necessário, por convocação do interlocutor único e segundo as modalidades por este definidas.
 
-###### Artigo 7.º-C — Apreciação em conferência decisória
+Artigo 7.º-C
+
+Apreciação em conferência decisória
 
 1 - Os projectos de valor igual ou superior a 25 milhões de euros reconhecidos como PIN são objecto de uma apreciação global e harmonizada no âmbito da conferência decisória.
 
@@ -344,7 +374,9 @@ b) Sectorialmente, com os membros cuja presença se justifique em função da ma
 
 3 - Todas as entidades da administração central que sejam chamadas a pronunciar-se sobre o projecto PIN no âmbito da conferência decisória, devem fazê-lo exclusivamente quanto às matérias abrangidas pelas respectivas atribuições e competências, apreciando apenas as questões que lhes tenham sido expressamente cometidas por lei.
 
-###### Artigo 7.º-D — Documento único
+Artigo 7.º-D
+
+Documento único
 
 1 - Nos 10 dias posteriores à prática do último acto da administração central necessário à concretização do projecto PIN, a conferência decisória elabora um documento único, que integra no mesmo instrumento todos os pareceres, aprovações, autorizações, decisões ou licenças da responsabilidade da administração central, incluindo a declaração de impacte ambiental (DIA).
 
@@ -368,15 +400,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Janeiro de 2011. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Bernardo Luís Amador Trindade - Dulce dos Prazeres Fidalgo Álvaro Pássaro.
 
-**Promulgado em 13 de Abril de 2011.**
+Promulgado em 13 de Abril de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 18 de Abril de 2011.**
+Referendado em 18 de Abril de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 

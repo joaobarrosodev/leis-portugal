@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/275a00/73947403.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/320/1995/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1995-626591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c5dd4474caf44871001e1c259f3b9e7cc83cf085546763c095c3200ee8a2b23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42b7a0f1cf034b9831c90fd1ce2732651b143e691f828efbb8ea13a0cf395eb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Gestão Financeira
 - Conselho Administrativo
-- Departamento de Relações Internacionais de Segurança Social
 - Definição de Competências
+- Departamento de Relações Internacionais de Segurança Social
 - Diretor
+- Gestão Financeira
 - Integração de Trabalhadores
 - Orgânica
 - Personalidade Jurídica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Transferência de Competências
 - Transferência Patrimonial
@@ -82,20 +82,76 @@ relationships:
   target: pt:dre:638526:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:554780:por
+  label: "Alterado o art. 30.º pelo DEC LEI.32/96.1996.04.11.MSSS DR.IS-A [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-1996-554780
+  date: '1996-04-11'
+- type: amended_by
+  target: pt:dre:661563:por
+  label: "Alterados os arts. 3º, 4º, 5º, 7º, 8º, 10º, 11º, 12º, 13º, 14º, 15º, 17º, 20º, 23º e 28 e o mapa anexo do presente\
+    \ diploma, assim como lhe são aditados os arts. 2º-A, 6º-A, 6º-B e 17º-A, tudo pelo Dec Lei.268/97.1997.10.02.MSSS, DR.IS-A\
+    \ [228]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-1997-661563
+  date: '1997-10-02'
+- type: amended_by
+  target: pt:dre:527834:por
+  label: "Determinada a sucessão do Departamento de Acordos Internacionais de Segurança Social, nos direitos e obrigações,\
+    \ ao Departamento de Relações Internacionais de Segurança Social cuja orgânica foi aprovada pelo presente diploma, pelo\
+    \ DEC LEI.171/2004.17.07.2004.MSST, DR.IS-A [167] de 17.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2004-527834
+  date: '2004-07-17'
+- type: amended_by
+  target: pt:dre:545639:por
+  label: "Extinto o Departamento de Acordos Internacionais de Segurança Social (sucessor do ex-Departamento de Relações Internacionais\
+    \ de Segurança Social -DRISS, através do Dec Lei 171/2004 de 17-Fev), cuja orgânica consta do presente diploma, pelo DEC\
+    \ LEI.211/2006.27.10.2006.MTSSO, DR.IS [208] de 27.10.2006, nos termos do preceituado no respectivo art. 36º, sendo as\
+    \ suas atribuições de natureza técnico-normativa integradas na Direcção-Geral da Segurança Social e as atribuições de\
+    \ natureza operacional integradas no Instituto da Segurança Social\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2006-545639
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:638526:por
+  label: "Determinada a sucessão do Instituto da Segurança Social, I.P., (ISS, I.P.) nas atribuições de natureza operacional\
+    \ do Departamento de Acordos Internacionais da Segurança Social, I.P., (antigo DMISS), que é extinto, cujas atribuições\
+    \ constam do presente diploma, pelo DEC LEI.214/2007.29.05.2007.MTSSO, DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2007-638526
+  date: '2007-05-29'
+- type: amended_by
+  target: pt:dre:638546:por
+  label: "Determinado que a DGSS suceda nas atribuições técnicas e normativas do Departamento de Acordos Internacionasa de\
+    \ Segurança Social, sucessor da ex-DRISS através do Dec Lei 171/2004, de 17-Fev, cuja orgânica consta do presente diploma,\
+    \ e revogado, a partir de 01.06.2007 e nos termos do art. 5º do Dec Lei 201/2006, de 27 de Outubro, pelo DR.64/2007.29.05.2007.MTSSO,\
+    \ DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/64-2007-638546
+  date: '2007-05-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/83/1991/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/83/1991/02/20/p/dre
+- type: cites
+  target: pt:dre:454041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487122:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:423048:por
+  label: "Rectificado pela DECL-RECT.1-C/96.31.01.1996.PCM, DR.IS-A [26]Supl de 31.01.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/1-c-1996-423048
+  date: '1996-01-31'
 article_structure:
   article_count: 30
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:16Z'
   warnings: []
   errors: []
 ---
@@ -368,7 +424,9 @@ c) Gabinete de Informação Técnica.
 
 5 - A competência a que se refere a alínea n) do n.º 1 do artigo anterior é exercida pelo Gabinete de Informação Técnica.
 
-#### SECÇÃO IV — Divisão de Serviços Financeiros e de Administração Geral
+#### SECÇÃO IV
+
+##### Divisão de Serviços Financeiros e de Administração Geral
 
 ###### Artigo 12.º — Estrutura
 
@@ -482,7 +540,9 @@ f) Preparar o projecto de plano de deslocações ao estrangeiro do pessoal dos s
 
 5 - Ao Gabinete de Apoio Técnico compete assegurar o exercício das actividades previstas no n.º 3 do artigo anterior.
 
-#### SECÇÃO V — Divisão de Assuntos Jurídicos e de Contencioso
+#### SECÇÃO V
+
+##### Divisão de Assuntos Jurídicos e de Contencioso
 
 ###### Artigo 15.º — Competências
 
@@ -506,7 +566,9 @@ h) Manter actualizados os ficheiros de legislação e jurisprudência internas c
 
 i) Emitir pareceres e informações e elaborar estudos de natureza jurídica sobre matérias com relevância para o DRISS, que lhe sejam cometidos pelo director.
 
-#### SECÇÃO VI — Divisão de Organização e Informática
+#### SECÇÃO VI
+
+##### Divisão de Organização e Informática
 
 ###### Artigo 16.º — Competências
 
@@ -688,16 +750,16 @@ O presente diploma entra em vigor no dia 1 de Outubro de 1995.
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Bernardo Veloso Falcão e Cunha.
 
-**Promulgado em 13 de Outubro de 1995.**
+Promulgado em 13 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Outubro de 1995.**
+Referendado em 18 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo ao Decreto-Lei n.º 320/95, de 28 de Novembro
+Anexo ao Decreto-Lei n.º 320/95, de 28 de Novembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/275a00/73947403.pdf))](https://files.diariodarepublica.pt/1s/1995/11/275a00/73947403.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/275a00/73947403.pdf)

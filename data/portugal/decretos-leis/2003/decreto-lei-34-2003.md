@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/02/047a00/13381375.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/34/2003/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2003-188557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da907088453fe2eeaf709dab64f7175d4ff23077f9f4d20f52a337f4add4503d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2a0c75957cef7456b93ef60272af722309998c766af599505320320cd3c57ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo de Schengen
-- Direito de Residência
-- Imigração
+- Admissão de Estrangeiros
 - Aproximação das Legislações
 - Boletim de Alojamento
-- Instituto do Emprego e Formação Profissional
 - Cidadão Estrangeiro
+- Direito de Residência
+- Emprego
 - Estudante
 - Expulsão de Estrangeiros
-- Refugiado
-- Países de Língua Portuguesa
+- Imigração
+- Instituto do Emprego e Formação Profissional
 - Livre Circulação de Pessoas
-- Serviço de Estrangeiros e Fronteiras
-- Emprego
-- Política de Emprego
-- Regime Jurídico
+- Países de Língua Portuguesa
 - Passaporte
-- Admissão de Estrangeiros
+- Política de Emprego
+- Refugiado
+- Regime Jurídico
+- Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: amended_by
   target: pt:dre:201699171:por
@@ -101,16 +101,27 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/22/2002/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/22/2002/08/21/p/dre
+- type: corrected_by
+  target: pt:dre:275186:por
+  label: "Rectificado pela DECL-RECT.2-D/2003.2003.03.31.PCM DR.IS-A [76]2º Supl de 31/Mar/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/2-d-2003-275186
+  date: '2003-03-31'
+- type: repealed_by
+  target: pt:dre:635814:por
+  label: "Revogado, a partir de 03.08.2007, o Dec Lei 244/98 de 08-Ago, alterado pelo presente diploma, pela LEI.23/2007.04.07.2007.AR,\
+    \ DR.IS [127] de 04.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-2007-635814
+  date: '2007-07-04'
 article_structure:
-  article_count: 282
+  article_count: 197
   section_count: 29
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:26Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +200,9 @@ No uso da autorização legislativa concedida pelo artigo 2.º da Lei n.º 22/20
 
 Considera-se residente o estrangeiro habilitado com título válido de autorização de residência em Portugal.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -207,11 +220,15 @@ b) ...
 
 6 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 Sempre que tal for julgado necessário para comprovar o objectivo e as condições da estada, a autoridade de fronteira pode exigir ao cidadão estrangeiro a apresentação de prova adequada.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -221,7 +238,9 @@ Sempre que tal for julgado necessário para comprovar o objectivo e as condiçõ
 
 4 - É recusada a saída do território português a menores estrangeiros residentes que viajem desacompanhados de quem exerça o poder paternal e não se encontrem munidos de autorização concedida pelo mesmo, legalmente certificada.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - O transportador que proceda ao transporte para território português, por via aérea, marítima ou terrestre, de cidadão estrangeiro que não reúna as condições de entrada fica obrigado a promover o seu retorno, no mais curto espaço de tempo possível, para o ponto onde começou a utilizar o meio de transporte, ou, em caso de impossibilidade, para o país onde foi emitido o respectivo documento de viagem ou para qualquer outro local onde a sua admissão seja garantida.
 
@@ -237,17 +256,23 @@ a) O transportador que o deveria encaminhar para o país de destino se recusar a
 
 b) As autoridades do Estado de destino lhe tiverem recusado a entrada e o tiverem reencaminhado para território português.
 
-###### Artigo 23.º — Impugnação judicial
+Artigo 23.º
+
+Impugnação judicial
 
 A decisão de recusa de entrada pode ser judicialmente impugnada, com efeito meramente devolutivo, perante os tribunais administrativos, nos termos da lei.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Durante a permanência na zona internacional, definida nos termos do artigo 5.º, ou em centro de instalação temporária, o cidadão estrangeiro a quem tenha sido recusada a entrada em território português pode comunicar com a representação diplomática ou consular do seu país ou com qualquer pessoa da sua escolha, beneficiando igualmente de assistência de intérprete e de cuidados de saúde, incluindo a presença de médico, quando necessário.
 
 2 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - É interditada a entrada em território português aos estrangeiros indicados para efeitos de não admissão no Sistema de Informação Schengen.
 
@@ -275,7 +300,9 @@ g) Terem sido conduzidos à fronteira, nos termos do artigo 126.º
 
 6 - É da competência do director-geral do Serviço de Estrangeiros e Fronteiras a inscrição de um estrangeiro no Sistema de Informação Schengen ou na lista nacional de pessoas não admissíveis.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -291,7 +318,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -313,7 +342,9 @@ d) Ponderação geográfica de oportunidades de trabalho para cidadãos estrange
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 O visto de trabalho compreende os seguintes tipos:
 
@@ -325,7 +356,9 @@ c) ...
 
 d) ...
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -345,7 +378,9 @@ d) [Anterior alínea c).]
 
 5 - ...
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -357,7 +392,9 @@ d) [Anterior alínea c).]
 
 5 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -367,7 +404,9 @@ d) [Anterior alínea c).]
 
 4 - O Instituto do Emprego e Formação Profissional, em articulação com a Direcção-Geral dos Assuntos Consulares e Comunidades Portuguesas, do Ministério dos Negócios Estrangeiros, e com o Serviço de Estrangeiros e Fronteiras, desenvolverá, no âmbito de protocolos e acordos bilaterais, os mecanismos necessários ao preenchimento das ofertas de emprego não satisfeitas ao nível nacional e comunitário, desde que o empregador manifeste interesse no recrutamento de trabalhadores oriundos de países terceiros.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -381,7 +420,9 @@ b) ...
 
 c) Incumprimento dos requisitos exigidos pela Lei Geral do Trabalho e pelos instrumentos de regulamentação colectiva do trabalho.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - ...
 
@@ -393,7 +434,9 @@ c) Incumprimento dos requisitos exigidos pela Lei Geral do Trabalho e pelos inst
 
 5 - ...
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - ...
 
@@ -427,11 +470,15 @@ b) 60 dias após o fim do período de permanência autorizado, no caso de cidad�
 
 9 - (Anterior n.º 7.)
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 A apreciação e decisão dos pedidos de prorrogação de permanência é da competência exclusiva do director-geral do Serviço de Estrangeiros e Fronteiras, que a pode delegar nos directores regionais, os quais podem subdelegar.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - O cidadão residente há pelo menos um ano tem direito ao reagrupamento familiar com os membros da família que se encontrem fora do território nacional que com ele tenham vivido noutro país ou que dele dependam.
 
@@ -443,7 +490,9 @@ A apreciação e decisão dos pedidos de prorrogação de permanência é da com
 
 5 - ...
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - ...
 
@@ -461,7 +510,9 @@ e) ...
 
 3 - (Revogado.)
 
-###### Artigo 58.º — Entrada e residência dos membros da família
+Artigo 58.º
+
+Entrada e residência dos membros da família
 
 1 - O membro da família só poderá beneficiar do reagrupamento familiar desde que não esteja interdito de entrar em território nacional.
 
@@ -475,15 +526,21 @@ e) ...
 
 6 - Os membros da família referidos na alínea d) do n.º 1 do artigo 57.º só poderão beneficiar do reagrupamento familiar se não exercerem qualquer actividade profissional.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 A concessão do passaporte para estrangeiros obedece ao disposto no Decreto-Lei n.º 83/2000, de 11 de Maio.
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 É competente para a concessão de salvo-conduto o director-geral do Serviço de Estrangeiros e Fronteiras, que poderá delegar nos respectivos directores regionais.
 
-###### Artigo 76.º — Entrada e permanência de estudantes da União Europeia
+Artigo 76.º
+
+Entrada e permanência de estudantes da União Europeia
 
 Os estudantes estrangeiros residentes no território dos outros Estados membros da União Europeia poderão entrar e permanecer temporariamente em território nacional, sem necessidade de visto, desde que:
 
@@ -493,17 +550,23 @@ b) Sejam acompanhados por um professor do estabelecimento de ensino possuidor da
 
 c) Sejam titulares de documento de viagem válido, excepto se constarem de uma lista de estudantes que contenha a inclusão de fotografias recentes dos estudantes nessas circunstâncias e a confirmação do estatuto de residente, bem como autorização de reentrada para os estudantes, a efectuar pela autoridade responsável do Estado membro em questão, que deverá igualmente garantir que o documento se encontra devidamente autenticado.
 
-###### Artigo 77.º — Saída de estudantes residentes no País
+Artigo 77.º
+
+Saída de estudantes residentes no País
 
 Os estudantes residentes em território nacional podem igualmente sair para os outros Estados da União Europeia desde que se verifiquem os requisitos do artigo anterior, competindo ao Serviço de Estrangeiros e Fronteiras o reconhecimento da lista a que alude a mesma norma.
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1 - A autorização de residência temporária é válida pelo período de dois anos a partir da data da emissão do respectivo título e é renovável por períodos sucessivos de três anos.
 
 2 - ...
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - Podem beneficiar de uma autorização de residência permanente os estrangeiros que, cumulativamente:
 
@@ -513,11 +576,15 @@ b) Durante os últimos cinco ou oito anos de residência em território portugu�
 
 2 - ...
 
-###### Artigo 86.º — Familiares de cidadãos portugueses ou de cidadãos nacionais de um país membro do espaço económico europeu
+Artigo 86.º
+
+Familiares de cidadãos portugueses ou de cidadãos nacionais de um país membro do espaço económico europeu
 
 Ao estrangeiro membro da família de cidadão português ou de cidadão nacional de um país membro do espaço económico europeu é emitido um cartão de residência de harmonia com o disposto no Decreto-Lei n.º 60/93, de 3 de Março.
 
-###### Artigo 87.º — [...]
+Artigo 87.º
+
+[...]
 
 1 - ...
 
@@ -553,17 +620,23 @@ n) Agentes diplomáticos e consulares e respectivos cônjuges, ascendentes e des
 
 4 - Para efeitos do disposto na alínea h) do n.º 1, só são consideradas as uniões de facto com cidadãos residentes quando estes possuam essa qualidade há pelo menos dois anos e quando o membro da família se encontre regularmente em território nacional.
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 1 - Quando se verificarem situações extraordinárias a que não sejam aplicáveis as disposições previstas nos artigos 56.º e 87.º, bem como no artigo 8.º da Lei n.º 15/98, de 26 de Março, mediante proposta do director-geral do Serviço de Estrangeiros e Fronteiras ou por iniciativa do Ministro da Administração Interna, ouvida aquela entidade, poderá, a título excepcional, ser concedida autorização de residência, por interesse nacional, a cidadãos estrangeiros que não preencham os requisitos exigidos no presente diploma.
 
 2 - ...
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 O título de residência substitui, para todos os efeitos legais, o bilhete de identidade, sem prejuízo do regime previsto no Tratado de Amizade, Cooperação e Consulta entre a República Portuguesa e a República Federativa do Brasil, assinado em Porto Seguro em 22 de Abril de 2000.
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - ...
 
@@ -581,7 +654,9 @@ c) Cumprimento por parte do interessado das leis portuguesas, nomeadamente das r
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - A autorização de residência é cancelada sempre que o estrangeiro residente tenha sido objecto de uma decisão de expulsão do território nacional ou quando tenha sido emitida com base em falsas declarações ou através da utilização de meios fraudulentos.
 
@@ -603,7 +678,9 @@ c) O residente e os membros da família não mantenham os laços familiares, sem
 
 7 - A competência para o cancelamento pertence ao Ministro da Administração Interna, com a faculdade de delegação no director-geral do Serviço de Estrangeiros e Fronteiras.
 
-###### Artigo 134.º — Responsabilidade criminal e civil das pessoas colectivas e equiparadas
+Artigo 134.º
+
+Responsabilidade criminal e civil das pessoas colectivas e equiparadas
 
 1 - As pessoas colectivas, as sociedades, ainda que irregularmente constituídas, e as meras associações de facto são responsáveis pelas infracções previstas no presente diploma quando cometidas pelos seus órgãos ou representantes em seu nome e no seu interesse.
 
@@ -615,7 +692,9 @@ c) O residente e os membros da família não mantenham os laços familiares, sem
 
 5 - À responsabilidade criminal pela prática dos crimes previstos nos artigos 134.º-A, 135.º e 136.º-A acresce a responsabilidade civil pelo pagamento de todas as despesas inerentes à estada e afastamento dos cidadãos estrangeiros envolvidos.
 
-###### Artigo 135.º — [...]
+Artigo 135.º
+
+[...]
 
 1 - Quem fundar grupo, organização ou associação cuja actividade seja dirigida à prática dos crimes previstos no artigo anterior é punido com pena de prisão de 1 a 6 anos.
 
@@ -627,7 +706,9 @@ c) O residente e os membros da família não mantenham os laços familiares, sem
 
 5 - As penas aplicáveis às entidades referidas no n.º 1 do artigo 134.º são as de multa, cujos limites mínimo e máximo são elevados ao dobro ou de interdição do exercício da actividade de um a cinco anos.
 
-###### Artigo 136.º — Entrada, permanência e trânsito ilegais
+Artigo 136.º
+
+Entrada, permanência e trânsito ilegais
 
 1 - ...
 
@@ -635,7 +716,9 @@ c) O residente e os membros da família não mantenham os laços familiares, sem
 
 3 - Considera-se ilegal o trânsito de estrangeiros em território português quando estes não tenham garantida a sua admissão no país de destino.
 
-###### Artigo 136.º-A — [...]
+Artigo 136.º-A
+
+[...]
 
 1 - Quem, com intenção lucrativa, para si ou para terceiro, aliciar ou angariar com o objectivo de introduzir no mercado de trabalho cidadãos estrangeiros não habilitados com autorização de residência, autorização de permanência ou visto de trabalho é punido com pena de prisão de 1 a 4 anos.
 
@@ -643,13 +726,17 @@ c) O residente e os membros da família não mantenham os laços familiares, sem
 
 3 - ...
 
-###### Artigo 137.º — [...]
+Artigo 137.º
+
+[...]
 
 1 - Além das entidades competentes, cabe ao Serviço de Estrangeiros e Fronteiras investigar os crimes previstos no presente capítulo e outros que com ele estejam conexos.
 
 2 - As acções encobertas desenvolvidas pelo Serviço de Estrangeiros e Fronteiras, no âmbito da prevenção e investigação de crimes relacionados com a imigração ilegal em que estejam envolvidas associações criminosas, seguem os termos previstos na Lei n.º 101/2001, de 25 de Agosto.
 
-###### Artigo 140.º — [...]
+Artigo 140.º
+
+[...]
 
 1 - Nos casos em que o cidadão estrangeiro exceda o período de permanência autorizado em território português, aplicam-se as seguintes coimas:
 
@@ -663,19 +750,27 @@ d) De (euro) 500 a (euro) 700 se o período de permanência for superior a 180 d
 
 2 - ...
 
-###### Artigo 141.º — [...]
+Artigo 141.º
+
+[...]
 
 As empresas transportadoras bem como todos quantos no exercício de uma actividade profissional transportem para território português estrangeiros cuja entrada seja recusada ou que não reúnam os requisitos de entrada no País, previstos no capítulo II do presente diploma, ficam sujeitos, por cada um deles, à aplicação de uma coima de (euro) 3000 a (euro) 5000 no caso de pessoas colectivas e de (euro) 2000 a (euro) 3500 no caso de pessoas singulares.
 
-###### Artigo 142.º — [...]
+Artigo 142.º
+
+[...]
 
 As empresas transportadoras bem como todos quantos transportem para um porto ou aeroporto nacional cidadãos estrangeiros não habilitados com visto de escala quando dele careçam ficam sujeitos, por cada estrangeiro, à aplicação de uma coima de (euro) 600 a (euro) 1200 no caso de pessoas colectivas e de (euro) 500 a (euro) 1000 no caso de pessoas singulares.
 
-###### Artigo 143.º — [...]
+Artigo 143.º
+
+[...]
 
 À infracção do disposto no artigo 26.º corresponde a aplicação de uma coima de (euro) 60 a (euro) 160.
 
-###### Artigo 144.º — [...]
+Artigo 144.º
+
+[...]
 
 1 - O exercício de uma actividade profissional independente por estrangeiro não habilitado com o adequado visto de trabalho ou autorização de residência, quando exigível, fica sujeito à aplicação de uma coima de (euro) 300 a (euro) 1200.
 
@@ -701,41 +796,57 @@ d) Tratando-se de grande empresa, de (euro) 7500 a (euro) 27500.
 
 8 - Em caso de não pagamento das quantias em dívida respeitantes a créditos salariais decorrentes de trabalho efectivamente prestado, bem como pelo pagamento das despesas necessárias à estada e ao afastamento dos cidadãos estrangeiros envolvidos, a liquidação efectuada no respectivo processo constitui título executivo, aplicando-se as normas do processo comum de execução para pagamento de quantia certa.
 
-###### Artigo 145.º — [...]
+Artigo 145.º
+
+[...]
 
 À infracção ao disposto no artigo 79.º corresponde a aplicação de uma coima de (euro) 60 a (euro) 120.
 
-###### Artigo 146.º — [...]
+Artigo 146.º
+
+[...]
 
 À infracção ao disposto no n.º 2 do artigo 89.º corresponde a aplicação de uma coima de (euro) 60 a (euro) 120.
 
-###### Artigo 147.º — [...]
+Artigo 147.º
+
+[...]
 
 Ao cidadão estrangeiro que solicite a renovação da autorização de residência temporária mais de 30 dias após ter expirado a sua validade é aplicada uma coima de (euro) 75 a (euro) 300.
 
-###### Artigo 148.º — [...]
+Artigo 148.º
+
+[...]
 
 1 - À infracção dos deveres de comunicação previstos no artigo 95.º corresponde a aplicação de uma coima de (euro) 45 a (euro) 90.
 
 2 - À inobservância do dever previsto no artigo 9.º corresponde a aplicação de uma coima de (euro) 200 a (euro) 400.
 
-###### Artigo 149.º — [...]
+Artigo 149.º
+
+[...]
 
 1 - Por cada boletim de alojamento que deixe de ser apresentado nos termos dos n.os 1 ou 2 do artigo 98.º ou por cada cidadão estrangeiro não registado na lista ou no suporte magnético em conformidade com o disposto nos n.os 3 e 4 do mesmo artigo é aplicada uma coima de (euro) 100 a (euro) 500.
 
 2 - ...
 
-###### Artigo 153.º — Competência para aplicação das coimas e sanções acessórias
+Artigo 153.º
+
+Competência para aplicação das coimas e sanções acessórias
 
 1 - A aplicação das coimas previstas no presente capítulo é da competência do director-geral do Serviço de Estrangeiros e Fronteiras, que a pode delegar, nos termos gerais.
 
 2 - A aplicação das sanções acessórias previstas no presente capítulo é da competência do director-geral do Serviço de Estrangeiros e Fronteiras, que a pode delegar nos directores-gerais-adjuntos.
 
-###### Artigo 154.º — [...]
+Artigo 154.º
+
+[...]
 
 Sem prejuízo dos limites máximos previstos no Regime Geral das Contra-Ordenações, os quantitativos das coimas previstos neste diploma serão actualizados automaticamente de acordo com as percentagens de aumento da remuneração mínima nacional mais elevada, arredondando-se o resultado obtido para a unidade de euro imediatamente superior.
 
-###### Artigo 163.º — [...]
+Artigo 163.º
+
+[...]
 
 Até ao início da vigência da regulamentação prevista no presente diploma, mantém-se em vigor, em tudo o que não o contrarie, o Decreto Regulamentar n.º 5-A/2000, de 26 de Abril, com as alterações introduzidas pelo Decreto Regulamentar n.º 9/2001, de 31 de Maio, e os restantes diplomas aprovados ao abrigo do Decreto-Lei n.º 59/93, de 3 de Maio.»
 
@@ -753,7 +864,9 @@ Termo de responsabilidade
 
 3 - O previsto no n.º 2 não afasta a responsabilidade das entidades referidas no artigo 144.º, desde que verificados os respectivos pressupostos.
 
-###### Artigo 134.º-A — Auxílio à imigração ilegal
+Artigo 134.º-A
+
+Auxílio à imigração ilegal
 
 1 - Quem favorecer ou facilitar, por qualquer forma, a entrada ou o trânsito ilegais de cidadão estrangeiro em território nacional é punido com pena de prisão até 3 anos.
 
@@ -763,7 +876,9 @@ Termo de responsabilidade
 
 4 - As penas aplicáveis às entidades referidas no n.º 1 do artigo 134.º são as de multa, cujos limites mínimo e máximo são elevados ao dobro, ou de interdição do exercício da actividade de um a cinco anos.
 
-###### Artigo 136.º-B — Violação da medida de interdição de entrada
+Artigo 136.º-B
+
+Violação da medida de interdição de entrada
 
 1 - Constitui crime punível com pena de prisão até 2 anos ou multa até 100 dias a entrada em território nacional de estrangeiros durante o período por que a mesma lhe foi interditada.
 
@@ -771,7 +886,9 @@ Termo de responsabilidade
 
 3 - Sem prejuízo do disposto no n.º 1, o cidadão estrangeiro poderá ser afastado do território nacional para cumprimento do remanescente do período de interdição de entrada, em conformidade com o processo onde foi determinado o seu afastamento.
 
-###### Artigo 137.º-A — Perda de objectos
+Artigo 137.º-A
+
+Perda de objectos
 
 1 - Os objectos apreendidos pelo Serviço de Estrangeiros e Fronteiras que venham a ser declarados perdidos a favor do Estado ser-lhe-ão afectos quando:
 
@@ -783,17 +900,23 @@ b) Resultem do cumprimento de convenções internacionais e estejam correlaciona
 
 3 - Os objectos referidos na alínea a) do n.º 1 podem ser utilizados provisoriamente pelo Serviço de Estrangeiros e Fronteiras desde a sua apreensão e até à declaração de perda ou de restituição, mediante despacho do director-geral, após parecer favorável da Direcção-Geral do Património, a transmitir à autoridade que superintende no processo.
 
-###### Artigo 137.º-B — Auxílio à investigação
+Artigo 137.º-B
+
+Auxílio à investigação
 
 O cidadão estrangeiro que colabore na investigação de actividades ilícitas passíveis de procedimento criminal, nomeadamente ao nível da criminalidade organizada, pode ser dispensado de visto para obtenção de autorização de residência.
 
-###### Artigo 137.º-C — Penas acessórias e medidas de coacção
+Artigo 137.º-C
+
+Penas acessórias e medidas de coacção
 
 1 - Relativamente aos crimes previstos no presente diploma podem ser aplicadas as penas acessórias previstas nos artigos 66.º a 68.º do Código Penal.
 
 2 - Aos crimes previstos no presente diploma podem ainda ser aplicadas as medidas de coacção previstas nos artigos 196.º e seguintes do Código de Processo Penal.
 
-###### Artigo 137.º-D — Remessa de sentenças
+Artigo 137.º-D
+
+Remessa de sentenças
 
 Os tribunais enviarão ao Serviço de Estrangeiros e Fronteiras, com a maior brevidade:
 
@@ -853,13 +976,17 @@ A epígrafe da secção I do capítulo IX do Decreto-Lei n.º 244/98, de 8 de Ag
 
 3 - ...
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - O cidadão estrangeiro que se encontre na situação prevista na alínea a) do artigo anterior poderá, em casos fundamentados, não ser detido nos termos do artigo 117.º, mas notificado pelo Serviço de Estrangeiros e Fronteiras para abandonar voluntariamente o território nacional no prazo que lhe for fixado, entre 10 e 20 dias.
 
 2 - ...
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - ...
 
@@ -871,17 +998,23 @@ A epígrafe da secção I do capítulo IX do Decreto-Lei n.º 244/98, de 8 de Ag
 
 5 - ...
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 ...
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - ...
 
 2 - ...
 
-###### Artigo 104.º — País de destino
+Artigo 104.º
+
+País de destino
 
 1 - A expulsão não pode ser efectuada para qualquer país onde o estrangeiro possa ser perseguido pelos motivos que, nos termos da lei, justificam a concessão do direito de asilo.
 
@@ -889,11 +1022,15 @@ A epígrafe da secção I do capítulo IX do Decreto-Lei n.º 244/98, de 8 de Ag
 
 3 - Nos casos previstos no número anterior, o expulsando deverá ser encaminhado para outro país que o aceite.
 
-###### Artigo 105.º — Prazo de interdição de entrada
+Artigo 105.º
+
+Prazo de interdição de entrada
 
 Ao estrangeiro expulso é vedada a entrada em território nacional por período não inferior a cinco anos.
 
-###### Artigo 106.º — Medidas de coacção
+Artigo 106.º
+
+Medidas de coacção
 
 1 - Para além das medidas de coacção enumeradas no Código de Processo Penal, o juiz poderá ainda determinar as seguintes:
 
@@ -903,11 +1040,15 @@ b) Colocação do expulsando em centro de instalação temporária.
 
 2 - São competentes para eventual aplicação de medidas de coacção os tribunais de pequena instância criminal ou de comarca do local onde for encontrado o cidadão estrangeiro.
 
-###### Artigo 107.º — Colocação em centros de instalação temporária
+Artigo 107.º
+
+Colocação em centros de instalação temporária
 
 A colocação de estrangeiros em centros de instalação temporária obedece ao disposto na Lei n.º 34/94, de 14 de Setembro.
 
-###### Artigo 108.º — Familiares de cidadãos portugueses
+Artigo 108.º
+
+Familiares de cidadãos portugueses
 
 Aos estrangeiros membros da família de um cidadão português é aplicável o regime mais favorável previsto no Decreto-Lei n.º 60/93, de 3 de Março.»
 
@@ -927,7 +1068,9 @@ b) Seja titular de autorização de residência válida;
 
 c) Tenha apresentado pedido de asilo não recusado.
 
-###### Artigo 110.º — Tribunal competente
+Artigo 110.º
+
+Tribunal competente
 
 1 - São competentes para aplicar a medida autónoma de expulsão:
 
@@ -937,13 +1080,17 @@ b) Nas restantes áreas do País, os tribunais de comarca.
 
 2 - A competência territorial determina-se em função da residência em Portugal do cidadão estrangeiro ou, na falta desta, do lugar em que for encontrado.
 
-###### Artigo 111.º — Processo de expulsão
+Artigo 111.º
+
+Processo de expulsão
 
 1 - Sempre que tenha conhecimento de qualquer facto que possa constituir fundamento de expulsão, o Serviço de Estrangeiros e Fronteiras organizará um processo onde sejam recolhidas as provas que habilitem à decisão.
 
 2 - O processo de expulsão inicia-se com o despacho que o mandou instaurar e deve conter, além da identificação do estrangeiro contra o qual foi mandado instaurar, todos os demais elementos de prova relevantes que lhe respeitem, designadamente a circunstância de ser ou não residente no País e, sendo-o, o período de residência.
 
-###### Artigo 112.º — Audiência de julgamento
+Artigo 112.º
+
+Audiência de julgamento
 
 1 - Recebido o processo, o juiz marcará julgamento, que deverá realizar-se nos cinco dias seguintes, mandando notificar a pessoa contra a qual foi instaurado o processo, as testemunhas indicadas nos autos e o Serviço de Estrangeiros e Fronteiras, na pessoa do respectivo director regional.
 
@@ -953,7 +1100,9 @@ b) Nas restantes áreas do País, os tribunais de comarca.
 
 4 - A notificação do Serviço de Estrangeiros e Fronteiras, na pessoa do respectivo director regional, visa a designação de funcionário ou funcionários do Serviço que possam prestar ao tribunal os esclarecimentos considerados de interesse para a decisão.
 
-###### Artigo 113.º — Adiamento da audiência
+Artigo 113.º
+
+Adiamento da audiência
 
 O julgamento só poderá ser adiado uma única vez, e até ao 10.º dia posterior à data em que deveria ter lugar:
 
@@ -965,7 +1114,9 @@ c) Se ao julgamento faltarem as testemunhas de que o Ministério Público ou a p
 
 d) Se o tribunal, oficiosamente, considerar necessário que se proceda a quaisquer diligências de prova essenciais à descoberta da verdade dos factos e que possam previsivelmente realizar-se dentro daquele prazo.
 
-###### Artigo 114.º — Conteúdo da decisão
+Artigo 114.º
+
+Conteúdo da decisão
 
 1 - A decisão de expulsão conterá obrigatoriamente:
 
@@ -981,11 +1132,15 @@ d) A indicação do país para onde não deverá ser encaminhado o estrangeiro q
 
 3 - A inscrição no Sistema de Informação Schengen é notificada ao expulsando pelo Serviço de Estrangeiros e Fronteiras.
 
-###### Artigo 115.º — Aplicação subsidiária do processo sumário
+Artigo 115.º
+
+Aplicação subsidiária do processo sumário
 
 Em tudo quanto não esteja especialmente regulado são aplicáveis, com as necessárias adaptações, as disposições do Código de Processo Penal relativas ao julgamento em processo sumário.
 
-###### Artigo 116.º — Recurso
+Artigo 116.º
+
+Recurso
 
 1 - Da decisão de expulsão proferida nos termos dos artigos 109.º e seguintes cabe recurso para o tribunal da relação.
 
@@ -1017,7 +1172,9 @@ Detenção de cidadão ilegal
 
 8 - Para efeitos da presente secção, é correspondentemente aplicável o disposto no artigo 136.º
 
-###### Artigo 118.º — Processo
+Artigo 118.º
+
+Processo
 
 1 - Durante a instrução do processo é assegurada a audição da pessoa contra a qual o mesmo foi instaurado, a qual goza de todas as garantias de defesa.
 
@@ -1027,17 +1184,23 @@ Detenção de cidadão ilegal
 
 4 - Concluída a instrução, é elaborado o respectivo relatório, no qual o instrutor fará a descrição e apreciação dos factos apurados, propondo a resolução que considere adequada, posto o que é o processo presente à entidade competente para proferir a decisão.
 
-###### Artigo 119.º — Decisão de expulsão
+Artigo 119.º
+
+Decisão de expulsão
 
 A decisão de expulsão é da competência do director-geral do Serviço de Estrangeiros e Fronteiras.
 
-###### Artigo 120.º — Notificação da decisão de expulsão
+Artigo 120.º
+
+Notificação da decisão de expulsão
 
 1 - A decisão de expulsão deverá ser comunicada ao Alto-Comissariado para a Imigração e as Minorias Étnicas e notificada à pessoa contra a qual foi instaurado o processo, observando-se, quanto ao seu conteúdo, o disposto no artigo 114.º, sem prejuízo do disposto no artigo 68.º do Código do Procedimento Administrativo.
 
 2 - A notificação prevista no número anterior mencionará o direito de recurso, bem como o prazo para a sua interposição, e a sua inscrição no Sistema de Informação Schengen ou na lista nacional de pessoas não admissíveis.
 
-###### Artigo 121.º — Impugnação judicial
+Artigo 121.º
+
+Impugnação judicial
 
 A decisão de expulsão proferida pelo director-geral do Serviço de Estrangeiros e Fronteiras pode ser judicialmente impugnada, com efeito meramente devolutivo, sendo a validade da decisão apreciada pelos tribunais administrativos.»
 
@@ -1051,7 +1214,9 @@ Competência para a execução da decisão
 
 Compete ao Serviço de Estrangeiros e Fronteiras dar execução às decisões de expulsão.
 
-###### Artigo 123.º — Cumprimento da decisão
+Artigo 123.º
+
+Cumprimento da decisão
 
 1 - O estrangeiro contra quem haja sido proferida decisão de expulsão deve abandonar o território nacional no prazo que lhe for determinado.
 
@@ -1061,13 +1226,17 @@ a) De colocação em centro de instalação temporária;
 
 b) De apresentação periódica no Serviço de Estrangeiros e Fronteiras ou às autoridades policiais.
 
-###### Artigo 124.º — Desobediência à decisão de expulsão
+Artigo 124.º
+
+Desobediência à decisão de expulsão
 
 1 - O estrangeiro que não abandone o território nacional no prazo que lhe tiver sido fixado é conduzido ao posto de fronteira para afastamento de território nacional.
 
 2 - Se não for possível executar a decisão de expulsão no prazo de quarenta e oito horas após a detenção, é dado conhecimento do facto ao juiz competente a fim de ser determinada a manutenção do cidadão estrangeiro em centro de instalação temporária, aplicando-se o disposto na Lei n.º 34/94, de 14 de Setembro.
 
-###### Artigo 125.º — Comunicação da expulsão
+Artigo 125.º
+
+Comunicação da expulsão
 
 A execução da decisão de expulsão deve ser comunicada, pela via diplomática, às autoridades competentes do país de destino do expulsando.»
 
@@ -1113,13 +1282,17 @@ Conceito de readmissão
 
 2 - A readmissão diz-se activa quando Portugal é o Estado requerente e passiva quando Portugal é o Estado requerido.
 
-###### Artigo 128.º — Competência
+Artigo 128.º
+
+Competência
 
 1 - A aceitação de pedidos de readmissão de pessoas por parte de Portugal, bem como a apresentação de pedidos de readmissão a outro Estado, é da competência do director-geral do Serviço de Estrangeiros e Fronteiras.
 
 2 - As competências previstas no número anterior podem ser delegadas, com a faculdade de subdelegação.
 
-###### Artigo 129.º — Readmissão activa
+Artigo 129.º
+
+Readmissão activa
 
 1 - Sempre que um cidadão estrangeiro em situação irregular em território nacional deva ser readmitido por outro Estado, o Serviço de Estrangeiros e Fronteiras formulará o respectivo pedido, observando-se, com as necessárias adaptações, o disposto no artigo 111.º
 
@@ -1131,21 +1304,29 @@ Conceito de readmissão
 
 5 - O reenvio do cidadão estrangeiro para o Estado requerido implica a inscrição na lista nacional de pessoas não admissíveis e no Sistema de Informação Schengen, caso o Estado requerido seja um país terceiro.
 
-###### Artigo 130.º — Audição do interessado
+Artigo 130.º
+
+Audição do interessado
 
 Durante a instrução do processo de readmissão é assegurada a audição do estrangeiro a reenviar para o Estado requerido, valendo a mesma, para todos os efeitos, como audiência do interessado.
 
-###### Artigo 131.º — Recurso
+Artigo 131.º
+
+Recurso
 
 1 - Da decisão que determine o reenvio do cidadão estrangeiro para o Estado requerido cabe recurso para o Ministro da Administração Interna, a interpor no prazo de 30 dias.
 
 2 - O recurso tem efeito meramente devolutivo.
 
-###### Artigo 132.º — Readmissão passiva
+Artigo 132.º
+
+Readmissão passiva
 
 O estrangeiro readmitido em território português que não reúna as condições legalmente exigidas para permanecer no País é objecto de uma medida de afastamento do território nacional prevista no presente capítulo.
 
-###### Artigo 133.º — Interdição de entrada
+Artigo 133.º
+
+Interdição de entrada
 
 Ao cidadão estrangeiro reenviado para outro Estado ao abrigo de um acordo ou convenção internacional é vedada a entrada no País pelo período de três anos.»
 
@@ -1193,15 +1374,15 @@ Este diploma entra em vigor no prazo de 15 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - João Luís Mota de Campos - Nuno Albuquerque Morais Sarmento - António José de Castro Bagão Félix.
 
-**Promulgado em 10 de Fevereiro de 2003.**
+Promulgado em 10 de Fevereiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Fevereiro de 2003.**
+Referendado em 13 de Fevereiro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO
 

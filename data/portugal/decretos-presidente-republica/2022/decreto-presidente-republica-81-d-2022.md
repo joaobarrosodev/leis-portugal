@@ -42,7 +42,7 @@ publication:
   reference: Diário da República n.º 63/2022, 2º Suplemento, Série I de 2022-03-30
   number: '63'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 15-(6) a 15-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/06302/0000600007.pdf
 entry_into_force_dates: []
@@ -69,18 +69,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/81-d/2022/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/81-d-2022-181424627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T05:46:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39548f9a79f71bfc8f76e967dd6e288c3c7e1ee8d9a5c563abe98079674a298b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7dcfc45552ac32d4543765b985613b771c57822048ab83087e0fda728a28d304
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:46:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -88,63 +88,99 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário de Estado da Administração Interna
-- Secretário de Estado da Agricultura
-- Secretário de Estado do Ensino Superior
-- Secretário de Estado do Mar
-- Secretário de Estado da Cultura
-- Secretário de Estado da Educação
-- Secretário de Estado dos Assuntos Fiscais
-- Secretário de Estado da Juventude e do Desporto
-- Secretário de Estado da Proteção Civil
-- Secretário de Estado da Saúde
+- Governo XXIII
 - Membros do Governo
-- Secretário de Estado da Justiça
-- Secretário de Estado Adjunto e da Saúde
-- Secretário de Estado do Tesouro
-- Secretário de Estado das Comunidades Portuguesas
 - Nomeação
-- Secretário de Estado da Administração Local e Ordenamento do Território
-- Secretário de Estado da Presidência do Conselho de Ministros
 - Secretário de Estado
 - Secretário de Estado Adjunto e da Justiça
+- Secretário de Estado Adjunto e da Saúde
+- Secretário de Estado da Administração Interna
+- Secretário de Estado da Administração Local e Ordenamento do Território
 - Secretário de Estado da Administração Pública
+- Secretário de Estado da Agricultura
+- Secretário de Estado da Conservação da Natureza e Florestas
+- Secretário de Estado da Cultura
 - Secretário de Estado da Defesa Nacional
+- Secretário de Estado da Digitalização e da Modernização Administrativa
+- Secretário de Estado da Economia
+- Secretário de Estado da Educação
 - Secretário de Estado da Habitação
+- Secretário de Estado da Igualdade e Migrações
+- Secretário de Estado da Inclusão
+- Secretário de Estado da Internacionalização
+- Secretário de Estado da Justiça
+- Secretário de Estado da Juventude e do Desporto
+- Secretário de Estado da Mobilidade Urbana
+- Secretário de Estado da Presidência do Conselho de Ministros
+- Secretário de Estado da Proteção Civil
+- Secretário de Estado da Saúde
 - Secretário de Estado da Segurança Social
+- Secretário de Estado das Comunidades Portuguesas
+- Secretário de Estado das Infraestruturas
 - Secretário de Estado das Pescas
+- Secretário de Estado do Ambiente e da Energia
 - Secretário de Estado do Desenvolvimento Regional
+- Secretário de Estado do Ensino Superior
+- Secretário de Estado do Mar
 - Secretário de Estado do Orçamento
 - Secretário de Estado do Planeamento
+- Secretário de Estado do Tesouro
 - Secretário de Estado do Trabalho
-- Secretário de Estado dos Assuntos Europeus
-- Secretário de Estado dos Negócios Estrangeiros e Cooperação
-- Secretário de Estado da Economia
-- Secretário de Estado das Infraestruturas
-- Secretário de Estado da Internacionalização
-- Governo XXIII
-- Secretário de Estado da Digitalização e da Modernização Administrativa
-- Secretário de Estado da Igualdade e Migrações
 - Secretário de Estado do Turismo Comércio e Serviços
-- Secretário de Estado da Inclusão
-- Secretário de Estado do Ambiente e da Energia
-- Secretário de Estado da Conservação da Natureza e Florestas
-- Secretário de Estado da Mobilidade Urbana
+- Secretário de Estado dos Assuntos Europeus
+- Secretário de Estado dos Assuntos Fiscais
+- Secretário de Estado dos Negócios Estrangeiros e Cooperação
 relationships:
 - type: amended_by
   target: pt:dre:215461218:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:182873967:por
+  label: Exonerada Sara Abrantes Guerreiro do cargo de Secretário de Estado da Igualdade e das Migrações pelo(a) Decreto do
+    Presidente da República n.º 84-A/2022 - Diário da República n.º 84/2022, 1º Suplemento, Série I de 2022-05-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/84-a-2022-182873967
+  date: '2022-05-02'
+- type: amended_by
+  target: pt:dre:204273342:por
+  label: Exonerados, António Manuel Veiga dos Santos Mendonça Mendes do cargo de Secretário de Estado dos Assuntos Fiscais;
+    João Nuno Marques de Carvalho Mendes do cargo de Secretário de Estado do Tesouro; João Jorge Arêde Correia Neves do cargo
+    de Secretário de Estado da Economia e Rita Baptista Marques do cargo de Secretária de Estado do Turismo, Comércio e Serviços,
+    designados pelo presente diploma, pelo(a) Decreto do Presidente da República n.º 166-A/2022 - Diário da República n.º
+    232/2022, 1º Suplemento, Série I de 2022-12-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/166-a-2022-204273342
+  date: '2022-12-02'
+- type: amended_by
+  target: pt:dre:205748422:por
+  label: Exonerado, sob proposta do Primeiro-Ministro, João Saldanha de Azevedo Galamba do cargo de Secretário de Estado do
+    Ambiente e da Energia para que foi designado pelo presente diploma pelo(a) Decreto do Presidente da República n.º 1-B/2023
+    - Diário da República n.º 3/2023, 1º Suplemento, Série I de 2023-01-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/1-b-2023-205748422
+  date: '2023-01-04'
+- type: amended_by
+  target: pt:dre:205748424:por
+  label: Exonerado, sob proposta do Primeiro-Ministro, Rui Manuel Costa Martinho do cargo de Secretário de Estado da Agricultura
+    para que foi nomeado pelo presente diploma pelo(a) Decreto do Presidente da República n.º 1-D/2023 - Diário da República
+    n.º 3/2023, 1º Suplemento, Série I de 2023-01-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/1-d-2023-205748424
+  date: '2023-01-04'
+- type: amended_by
+  target: pt:dre:215461218:por
+  label: Exonerado Marco Alexandre da Silva Capitão Costa Ferreira do cargo de Secretário de Estado da Defesa Nacional, nomeado
+    pelo presente decreto, pelo(a) Decreto do Presidente da República n.º 63-A/2023 - Diário da República n.º 132/2023, 1º
+    Suplemento, Série I de 2023-07-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/63-a-2023-215461218
+  date: '2023-07-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:46:08Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +189,7 @@ validation:
 
 de 30 de março
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -233,12 +269,14 @@ Rui Manuel Costa Martinho, Secretário de Estado da Agricultura;
 
 Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro, Secretária de Estado das Pescas.
 
-**Assinado em 30 de março de 2022.**
+Assinado em 30 de março de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de março de 2022.**
+Referendado em 30 de março de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115179971

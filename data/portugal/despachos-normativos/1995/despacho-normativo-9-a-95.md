@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 40/1995, 1º Suplemento, Série I-B de 1995-02-16
   number: '40'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 994-(2) a 994-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/02/040b01/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/9-a/1995/02/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-a-1995-143719
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T08:29:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b9f94b2bd598b2670f6796c622ef4363aa48f701a9e66d998101de4c6495e41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6e9bdab8e6be97811fe4a76b1fe99aad91b6e05b43c8f70502c3414a28266d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:29:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Ajuda Comunitária
-- Financiamento
+- Apoio ao Investimento
+- Desenvolvimento Industrial
 - Empresa
+- Estabelecimento de Ensino
+- Financiamento
+- Indústria
 - Investigação Científica e Tecnológica
 - Metrologia
-- Sistema Português da Qualidade
-- Desenvolvimento Industrial
-- Política Industrial
-- Mudança Tecnológica
-- Administração Pública
-- Apoio ao Investimento
-- Projeto de Investimento
-- Indústria
-- Regime de Apoio à Investigação e Desenvolvimento
 - Modernização Industrial
 - Modernização Tecnológica
-- Tecnologia
-- Estabelecimento de Ensino
+- Mudança Tecnológica
+- Normalização
+- Pedip II
+- Política Industrial
+- Projeto de Investimento
 - Regime de Apoio
 - Regime de Apoio à Consolidação das Infra-Estruturas da Qualidade Industrial
 - Regime de Apoio à Consolidação das Infra-estruturas Tecnológicas
-- Pedip II
+- Regime de Apoio à Investigação e Desenvolvimento
 - Sistema de Incentivos Pedip
+- Sistema Português da Qualidade
 - Subsídio
-- Normalização
+- Tecnologia
 relationships:
 - type: amended_by
   target: pt:dre:471158:por
@@ -124,16 +124,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/768/1994/12/05/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/768/1994/12/05/p/dre
+- type: cites
+  target: pt:dre:231774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231888:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690408:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:29:45Z'
   warnings: []
   errors: []
 ---
@@ -234,7 +262,7 @@ b) Para acções de curta duração, até uma semana, os valores dos honorários
 
 c) Para os casos de acompanhamento da actividade de formação em posto de trabalho no âmbito da Acção C do Regime de Apoio à Consolidação das Infra-Estruturas Tecnológicas (IIDE0201) do SINFRAPEDIP, serão considerados valores máximos elegíveis, de acordo com a categoria do monitor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/040b01/00020003.pdf))](https://files.diariodarepublica.pt/1s/1995/02/040b01/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/040b01/00020003.pdf)
 
 5.º
 

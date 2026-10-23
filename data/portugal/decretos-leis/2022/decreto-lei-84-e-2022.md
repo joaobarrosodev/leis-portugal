@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14
   number: '239'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 21-(2) a 21-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/23901/0000200008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/84-e/2022/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e71b51cacab562377f791ed9f52a80f1234745630e91dbca39c825d8f8c7a8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce09f5c81c28e0f48f6c6a220322842872b89a21ca8b971e796b69c90c7afeff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ACES
+- Administração Local
 - ADSE
+- Autarquia Local
 - Autorização de Condução
-- Financiamento
+- Câmara Municipal
+- Centro de Saúde
 - Conselho Municipal
 - Contrato
-- Saúde
 - Definição de Competências
 - Descentralização
-- Regulamentação de Atos Legislativos
-- Serviço Nacional de Saúde
-- Horário de Funcionamento
-- Centro de Saúde
-- Plano Nacional de Saúde
-- Receita Municipal
-- Administração Local
-- Câmara Municipal
 - Estabelecimento Hospitalar
-- Funcionário Público
-- Transferência de Competências
-- Transferência de Pessoal
-- Autarquia Local
-- ACES
-- Veículo do Estado
 - Estratégia Municipal de Saúde
 - Estratégia Supramunicipal de Saúde
+- Financiamento
+- Funcionário Público
+- Horário de Funcionamento
+- Plano Nacional de Saúde
+- Receita Municipal
+- Regulamentação de Atos Legislativos
+- Saúde
+- Serviço Nacional de Saúde
+- Transferência de Competências
+- Transferência de Pessoal
+- Veículo do Estado
 relationships:
 - type: amended_by
   target: pt:dre:1129893557:por
@@ -120,16 +120,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118748850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140087206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684065:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:09Z'
   warnings: []
   errors: []
 ---
@@ -202,7 +226,9 @@ Os artigos 7.º, 10.º, 11.º, 13.º, 15.º, 17.º, 18.º, 20.º e 27.º do [Dec
 
 6 - Compete à comissão executiva metropolitana das áreas metropolitanas ou ao secretariado executivo intermunicipal das comunidades intermunicipais, ouvida a Administração Central do Sistema de Saúde, I. P., elaborar, rever e divulgar a ESS, devidamente enquadrada e alinhada com o Plano Nacional de Saúde e os Planos Regionais e Locais de Saúde, submetendo-a à aprovação do respetivo conselho metropolitano ou conselho intermunicipal.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -220,7 +246,9 @@ Os artigos 7.º, 10.º, 11.º, 13.º, 15.º, 17.º, 18.º, 20.º e 27.º do [Dec
 
 8 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A propriedade do Estado ou dos institutos públicos sobre viaturas, instalações ou parte de instalações, e equipamentos fixos ao edificado, designadamente sistemas de ar condicionado ou sistemas de deteção de incêndio, afetos aos cuidados de saúde primários e à divisão de intervenção nos comportamentos aditivos e nas dependências das administrações regionais de saúde, é transmitida aos municípios.
 
@@ -240,7 +268,9 @@ b) Imóveis não previstos no anexo i do presente decreto-lei que sejam transfer
 
 7 - (Anterior n.º 5.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os departamentos governamentais com competência na matéria, em articulação com as comissões de coordenação e desenvolvimento regional, desenvolvem programas de apoio financeiro às operações de investimento em instalações e equipamentos de unidades de prestação de cuidados de saúde primários, nomeadamente viaturas, quer através de dotações do Orçamento do Estado quer mediante a afetação de verbas provenientes de fundos europeus.
 
@@ -250,7 +280,9 @@ b) Imóveis não previstos no anexo i do presente decreto-lei que sejam transfer
 
 4 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -298,7 +330,9 @@ c) Abonos ou subsídios que os trabalhadores estejam a auferir no momento da tra
 
 10 - A Associação Nacional de Municípios Portugueses emite parecer vinculativo sobre o projeto de portaria referido no número anterior.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -316,7 +350,9 @@ c) Abonos ou subsídios que os trabalhadores estejam a auferir no momento da tra
 
 8 - Os valores constantes do n.º 5 e do anexo ii do presente decreto-lei são atualizados anualmente com base na última taxa de inflação anual apurada e publicada pelo INE, I. P.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -352,7 +388,9 @@ c) Aos novos recrutamentos dentro dos rácios definidos.
 
 12 - O disposto nos números anteriores é aplicável, com as necessárias adaptações, ao recrutamento de trabalhador adequado ao preenchimento de posto de trabalho anteriormente ocupado por trabalhador que, reunindo condições para ser abrangido pelo n.º 1, tenha cessado funções a título definitivo nos 12 meses anteriores à data do auto de transferência.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -368,7 +406,9 @@ d) [Anterior alínea b).]
 
 3 - O auto de transferência pode ser alterado mediante aditamento subscrito por todas as partes.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...]
 
@@ -412,12 +452,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de novembro de 2022. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - Manuel Francisco Pizarro de Sampaio e Castro - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
 
-**Promulgado em 8 de dezembro de 2022.**
+Promulgado em 8 de dezembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 13 de dezembro de 2022.**
+Referendado em 13 de dezembro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115967689

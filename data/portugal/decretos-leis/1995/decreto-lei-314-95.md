@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/272a00/72767284.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/314/1995/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1995-692421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12df4d8eaa5ad35f4907af5a6470d2d22d8d9d857340872fb1592851b3a06fef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02473422cd368ba1df80a75e765777f04a5a2857e567940fe56a3e36f37eb767
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,20 @@ reuse:
 subjects:
 - Adjudicação por Concurso Público
 - Atribuição de Verba
-- Garantia
-- Direito de Acesso
-- Jogos de Fortuna e Azar
-- Estabelecimento de Jogos
-- Multa
+- Bingo
 - Concurso Público
 - Contrato de Concessão
+- Direito de Acesso
+- Estabelecimento de Jogos
 - Fiscalização
+- Garantia
+- Gratificação
 - Inspecção Geral de Jogos
-- Bingo
+- Jogos de Fortuna e Azar
+- Multa
 - Pessoa Coletiva
 - Pessoal dos Casinos
 - Regulamento do JOGO do Bingo
-- Gratificação
 relationships:
 - type: amended_by
   target: pt:dre:279439:por
@@ -99,16 +99,65 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/880/1993/09/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/880/1993/09/15/p/dre
+- type: cites
+  target: pt:dre:145222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659970:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:279439:por
+  label: "Revogado pelo DEC LEI.31/2011.04.03.2011.MEID, DR.IS [45] de 04.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2011-279439
+  date: '2011-03-04'
 article_structure:
   article_count: 55
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:10Z'
   warnings: []
   errors: []
 ---
@@ -185,17 +234,17 @@ O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 1995. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Eduardo de Almeida Catroga - Maria Manuela Dias Ferreira Leite - Fernando Manuel Barbosa Faria de Oliveira - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 13 de Outubro de 1995.**
+Promulgado em 13 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Outubro de 1995.**
+Referendado em 16 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO A QUE SE REFERE O ARTIGO 1.º DO DECRETO-LEI N.º 314/95
+ANEXO A QUE SE REFERE O ARTIGO 1.º DO DECRETO-LEI N.º 314/95
 
 Regulamento da Exploração do Jogo do Bingo (REJB)
 

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/305-1975-336285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T04:43:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 633b9479c23a501c670a86acb0efe16e9a7199a6e46d94870f7f00f80be6aab9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12a06f0c6b23fe4f293f21872798357290b7468f2a80082cfd5844b6f44a3e02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:43:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:43:19Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +90,7 @@ Ministério da Educação e Cultura, 28 de Abril de 1975. - O Secretário de Est
 
 Regulamento do Prémio D. Maria Gracinda Guedes de Sá Mendonça Nunes de Figueiredo:
 
-###### Artigo 1.º O Prémio D. Maria Gracinda Guedes de Sá Mendonça Nunes de Figueiredo, instituído pelo Dr. José Nunes de Figueiredo com o nome de sua esposa, será anualmente atribuído, com início em 1973-1974, ao melhor aluno de Latim do Liceu Nacional da Guarda, no último ano do curso liceal.
+Artigo 1.º O Prémio D. Maria Gracinda Guedes de Sá Mendonça Nunes de Figueiredo, instituído pelo Dr. José Nunes de Figueiredo com o nome de sua esposa, será anualmente atribuído, com início em 1973-1974, ao melhor aluno de Latim do Liceu Nacional da Guarda, no último ano do curso liceal.
 
 § 1.º O Prémio só pode ser distribuído a aluno interno cujo comportamento seja exemplar e que obtenha em Latim pelo menos a nota de Bom.
 
@@ -98,10 +98,10 @@ Regulamento do Prémio D. Maria Gracinda Guedes de Sá Mendonça Nunes de Figuei
 
 § 3.º Em igualdade de circunstâncias, o Prémio será distribuído ao aluno mais novo.
 
-###### Art. 2.º O Prémio terá o valor correspondente ao rendimento anual de um título a prazo da Caixa Geral de Depósitos, Crédito e Previdência, em nome do Liceu Nacional da Guarda, com a designação a que se refere o artigo 1.º, cujo montante é de 20000$00.
+Art. 2.º O Prémio terá o valor correspondente ao rendimento anual de um título a prazo da Caixa Geral de Depósitos, Crédito e Previdência, em nome do Liceu Nacional da Guarda, com a designação a que se refere o artigo 1.º, cujo montante é de 20000$00.
 
-###### Art. 3.º O Prémio será entregue na oportunidade que for considerada mais própria, sempre que possível, solenemente, na altura da distribuição de outros prémios autorizados superiormente.
+Art. 3.º O Prémio será entregue na oportunidade que for considerada mais própria, sempre que possível, solenemente, na altura da distribuição de outros prémios autorizados superiormente.
 
-###### Art. 4.º Quando não se verificar o preceituado no § 1.º do artigo 1.º, o correspondente quantitativo será adicionado ao montante do título.
+Art. 4.º Quando não se verificar o preceituado no § 1.º do artigo 1.º, o correspondente quantitativo será adicionado ao montante do título.
 
 O Director-Geral do Ensino Secundário, Raul Rodrigues Gomes.

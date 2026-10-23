@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/118/1998/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1998-517194
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 258551fc6a01f8adb99fbc6c07e045c62e6680c232fec5fc98c33c0be289e0b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27ba82b175dbcdf3990b4e590651fc689261d1aa4e1c57a6a8e41fec92ae49f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
 - Climatização
 - Equipamento
 - Equipamento Térmico
 - Licenciamento
+- Multa
+- Prédio Urbano
 - Proteção do Ambiente
 - Regulamento
 - Segurança das Instalações
-- Prédio Urbano
 relationships:
 - type: amended_by
   target: pt:dre:672459:por
@@ -103,16 +103,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/29/1992/09/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/29/1992/09/05/p/dre
+- type: cites
+  target: pt:dre:235289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688801:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:672459:por
+  label: "Revogado pelo DEC LEI.79/2006.04.04.2006.MOPTC, DR.IS-A [67] de 04.04.2006, a partir de respectiva entrada em vigor\
+    \ (03.07.2006)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2006-672459
+  date: '2006-04-04'
 article_structure:
   article_count: 21
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:48Z'
   warnings: []
   errors: []
 ---
@@ -151,15 +189,15 @@ O presente diploma entra em vigor no prazo de 60 dias a contar da data da sua pu
 
 Visto e aprovado em Conselho de Ministros de 19 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 7 de Abril de 1998.**
+Promulgado em 7 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Abril de 1998.**
+Referendado em 16 de Abril de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — REGULAMENTO DOS SISTEMAS ENERGÉTICOS DE CLIMATIZAÇÃO EM EDIFÍCIOS
 
@@ -453,7 +491,7 @@ QUADRO II.1
 
 Condições nominais interiores
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
 
 ## ANEXO III — Condições nominais exteriores
 
@@ -467,13 +505,13 @@ QUADRO III.1
 
 Condições nominais exteriores no Inverno
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
 
 QUADRO III.2
 
 Condições nominais exteriores no Verão
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
 
 ## ANEXO IV — Método de verificação
 
@@ -533,7 +571,7 @@ QUADRO IV.1
 
 Coeficiente linear de perdas no perímetro de lajes enterradas K(índice 1)[W/mºC]
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
 
 1.1.3 - Potência total de perdas pela envolvente exterior. - A potência total de perdas pela envolvente opaca exterior é o somatório das perdas verificadas pelas paredes, pela cobertura, pelo pavimento e pelo solo, traduzido pela equação:
 
@@ -659,7 +697,7 @@ QUADRO IV.2
 
 Caudal de ar novo por ocupante
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
 
 O número de pessoas de referência deve corresponder à ocupação máxima normalmente prevista para o edifício, respeitando, no entanto, os limites máximos e mínimos de 0,02 pessoas/m2 nos pequenos espaços com pequenos níveis de ocupação (halls, consultórios, bibliotecas) e 1,2 pessoas/m2 nos espaços sujeitos a grande concentração de pessoas (salas de reuniões, auditórios), respectivamente.
 
@@ -675,7 +713,7 @@ o que é equivalente a exigir uma envolvente nos edifícios em que os valores de
 
 A folha de cálculo FCI estabelece o cálculo do valor da potência para aquecimento. O seu preenchimento faz chamada a três folhas de cálculo parcelares, FCI-a a FCI-c, que servem para calcular, respectivamente, as perdas correspondentes à envolvente exterior, à envolvente interior e à admissão de ar exterior.
 
-[(ver folhas de cálculo no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
+[[(ver folhas de cálculo no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
 
 2 - Justificação do método de verificação da potência térmica nominal de arrefecimento. - A potência térmica nominal de arrefecimento de um edifício ou de uma zona independente de um edifício é a potência dos ganhos térmicos nas condições nominais de projecto e corresponde à potência útil que é necessário extrair para compensar aqueles ganhos, mantendo no seu interior as condições pretendidas de temperatura e humidade de acordo com o definido no anexo II. Tal como para a potência de aquecimento, o valor calculado da potência térmica nominal de arrefecimento, para além de constituir critério de regulamentação, serve como um índice de qualificação do comportamento térmico do sistema/edifício durante o período em que se torne necessário o arrefecimento e constitui, portanto, uma forma de comparar sistemas/edifício desde a fase do licenciamento do ponto de vista da sua adequação térmica no período em que se verifique arrefecimento.
 
@@ -693,7 +731,7 @@ A potência de perdas pela envolvente exterior é calculada com os valores de re
 
 2.1.1 - Potência de ganhos por paredes. - O ganho de calor através das paredes exteriores é dado por:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
 
 2.1.2 - Coberturas. - A formulação para cálculo da potência Q(índice 1c) é idêntica à usada para as paredes, mas (Delta)T(índice e) é agora função do tipo de cobertura e da sua cor, de acordo com o indicado no quadro IV.6. Os valores de referência são os correspondentes às coberturas em terraço de cor clara.
 
@@ -717,7 +755,7 @@ A potência de perdas pela envolvente interior é calculada pelos valores de ref
 
 2.3 - Ganhos por radiação através dos envidraçados:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
 
 2.4 - Potência de ganhos por admissão de ar exterior. - A formulação para o cálculo da potência térmica de ganhos relativa à admissão de ar exterior é idêntica à do n.º 1.3 deste anexo, pelo que se indicam apenas as expressões resultantes, em que A(índice p) representa a área útil efectivamente arrefecida.
 
@@ -805,13 +843,13 @@ N(índice p) - número de pessoas.
 
 A potência de desumidificação é dada pela expressão:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
 
 A potência térmica nominal de arrefecimento das áreas efectivamente arrefecidas de um edifício ou de uma zona independente já existente é calculada pela soma algébrica dos valores das potências calculadas nos n.os 2.1 a 2.8. Para edifícios novos, os termos correspondentes aos n.os 2.1 a 2.3 devem ser afectados pelo valor 0,8, correspondente à melhoria da envolvente.
 
 2.9 - Folhas de cálculo. - O processo de verificação da potência térmica nominal de arrefecimento correspondente à solução projectada para um edifício está esquematizado na folha de cálculo FCV.
 
-[(ver folhas de cálculo no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
+[[(ver folhas de cálculo no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
 
 ## ANEXO V — Sistemas e equipamentos
 
@@ -847,7 +885,7 @@ QUADRO V.1
 
 Rendimento mínimo de caldeiras
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
 
 8 - No equipamento de arrefecimento do tipo máquina frigorífica de compressão, se o houver, tem o equipamento de arrefecimento de recorrer a um equipamento cujo COP nominal, para as condições nominais (artigo 5.º), seja, no mínimo, de 2,0.
 
@@ -857,7 +895,7 @@ QUADRO V.2
 
 Escalões das instalações de aquecimento
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
 
 10 - Para que o equipamento gerador de frio funcione o mais perto possível do regime de máximo rendimento, o fraccionamento das instalações de arrefecimento terá de obedecer, no mínimo, ao disposto no quadro V.3.
 
@@ -865,7 +903,7 @@ QUADRO V.3
 
 Escalões das instalações de arrefecimento
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)](https://files.diariodarepublica.pt/1s/1998/05/105a00/21142129.pdf)
 
 ## ANEXO VI — Ensaios
 

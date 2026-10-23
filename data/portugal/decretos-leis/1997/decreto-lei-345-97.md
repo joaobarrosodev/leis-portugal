@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/345/1997/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1997-402725
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:54:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec81fdd661a20b884328dfec6ece78dd3489ec502dfc0761861489cdd75a40f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 086722cfd81537d6d008e3ca1dcec24a7b92a238c70031ecdb28d98667804b55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:54:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crédito Bonificado
-- Faro
+- Beja
 - Catástrofe
+- Crédito Bonificado
+- Évora
+- Faro
 - Infraestrutura Municipal
 - Linha de Crédito
-- Beja
-- Évora
 relationships: []
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:54:11Z'
   warnings: []
   errors: []
 ---
@@ -158,12 +158,12 @@ A DGAA promove a publicação no Diário da República da lista dos municípios 
 
 Visto e aprovado em Conselho de Ministros de 13 de Novembro de 1997. - António Manuel de Oliveira Guterres - Maria Manuela de Brito Arcanjo Marques da Costa - Luís Filipe Marques Amado - José Manuel da Costa Monteiro Consiglieri Pedroso.
 
-**Promulgado em 19 de Novembro de 1997.**
+Promulgado em 19 de Novembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Novembro de 1997.**
+Referendado em 24 de Novembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

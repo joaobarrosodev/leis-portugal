@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/201b00/45384551.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/26/1993/08/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/26-1993-632177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cfb96e2c7eda15ccfb1be7ba45b031b48f52003e80c892276eaa8e339d3a115
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 031f50f72b51963233943f569e56a7d0a101632af15cec73fb86be1be6ad4efc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,94 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alcácer do SAL
-- Turismo
+- Alentejo
 - Conselho de Acompanhamento e Avaliação
 - Definição de Competências
 - Desenvolvimento Regional
 - Grândola
-- Santiago do Cacém
 - Odemira
 - PROT do Litoral Alentejano
-- Alentejo
+- Santiago do Cacém
 - Sines
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:1511695:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 215/93, DE 25 DE OUTUBRO, PUBLICADA NO DR.IS-B, 255, 3SUPL, DE 931030.\0\
+    \ 931030.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
+  target: pt:dre:333798:por
+  label: "Determinada a revogação, a partir de 03.08.2010, do Plano Regional de Ordenamento do Território do Litoral Alentejano\
+    \ (PROTALI) pela RES.53/2010.02.08.2010.PCM, DR.IS [148] de 02.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/53-2010-333798
+  date: '2010-08-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
 article_structure:
   article_count: 58
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:52Z'
   warnings: []
   errors: []
 ---
@@ -867,14 +926,14 @@ Presidência do Conselho de Ministros, 3 de Maio de 1993.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Fernando José Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 28 de Julho de 1993.**
+Promulgado em 28 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Julho de 1993.**
+Referendado em 30 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/201b00/45384551.pdf))](https://files.diariodarepublica.pt/1s/1993/08/201b00/45384551.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/201b00/45384551.pdf)

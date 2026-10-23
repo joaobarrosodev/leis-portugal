@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/190a00/40944097.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/263/1998/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1998-444693
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 918b8e14f144a3e2b7c87b06b338b1b47155257de762995a1f7162a40ea2a95e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0974d79835f1ab78023b5fdad780b1665772a090117ff1747956dbb0661e64b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Certificado de Aptidão Profissional
-- Entidade Certificadora
+- Condutor
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral dos Transportes Terrestres
+- Entidade Certificadora
 - Fiscalização
-- Condutor
 - Regulamentação dos Transportes
 - Transporte de Passageiros
 - Transporte Público
@@ -81,6 +81,19 @@ relationships:
   target: pt:dre:257176:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:438046:por
+  label: "Alterados os arts. 2.º, 3.º, 4.º, 5.º, 6.º, 9.º, 10.º e 11.º, aditados o art. III abrangendo os arts. 16.º a 22.º\
+    \ e divide em três capítulos o presente diploma, pelo DEC LEI.298/2003.21.11.2003.MOPTH, DR.IS-A [270] de 21.11.2003 republicando-o\
+    \ em anexo na integra, com as alterações introduzidas\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-2003-438046
+  date: '2003-11-21'
+- type: amended_by
+  target: pt:dre:223589:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade da norma constante do n.º 2 do artigo 4.º do presente\
+    \ diploma, pelo AC.154/2004.16.03.2004.TCS, DR.IS-A [91] de 17.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/154-2004-223589
+  date: '2004-03-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/378/1997/12/27/p/dre
   label: null
@@ -101,16 +114,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/18/1997/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/18/1997/06/11/p/dre
+- type: cites
+  target: pt:dre:289058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547021:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:257176:por
+  label: "Revogado pela LEI.6/2013.22.01.2013.AR, DR.IS [15] de 22.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/6-2013-257176
+  date: '2013-01-22'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:49Z'
   warnings: []
   errors: []
 ---
@@ -331,12 +377,12 @@ O presente diploma entra em vigor 30 dias após a publicação da portaria refer
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1998. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 24 de Julho de 1998.**
+Promulgado em 24 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Agosto de 1998.**
+Referendado em 6 de Agosto de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

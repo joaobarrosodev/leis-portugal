@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/08/16500/0448404484.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/64/2014/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/64-2014-56376283
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T05:20:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f6267138148949278d2f8fda0526da86a9f1ffc27761dd00ff64a95fe28edf9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38f716310d5262e464b33c891d7d4e1c3110bd4e33344a1ab1b576d41eefc8ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:20:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,35 @@ reuse:
 subjects:
 - Acidente Nuclear
 - ARMA Nuclear
-- Autoridade Nacional
-- Combate ao Terrorismo
-- Segurança Nuclear
-- Convenção
-- Portugal
 - Armamento
+- Autoridade Nacional
 - Catástrofe
+- Combate ao Terrorismo
+- Convenção
 - Nova Iorque
-- Terrorismo
 - Polícia Judiciária
+- Portugal
+- Segurança Nuclear
+- Terrorismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/77/2014/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/77/2014/08/28/p/dre
+- type: cites
+  target: pt:dre:56376288:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:20:39Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +105,7 @@ validation:
 
 de 28 de agosto
 
-**O Presidente da República decreta, nos termos do artigo 135º, alínea b) da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135º, alínea b) da Constituição, o seguinte:
 
 ###### Artigo 1º
 
@@ -111,12 +115,12 @@ de 28 de agosto
 
 Para efeitos do disposto no n.º 4 do artigo 7.º da Convenção, a República Portuguesa declara que a autoridade e o ponto de contacto competentes para comunicar e receber as informações referidas nesta disposição é a Polícia Judiciária, Unidade Nacional Contra-Terrorismo, Rua de Gomes Freire, 1169-007 Lisboa, telefone 211967000, unct.terrorismo@pj.pt.
 
-**Assinado em 21 de agosto de 2014.**
+Assinado em 21 de agosto de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de agosto de 2014.**
+Referendado em 22 de agosto de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

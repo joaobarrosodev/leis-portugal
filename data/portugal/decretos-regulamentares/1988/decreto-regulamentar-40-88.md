@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/26700/46164624.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1988-357732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49e8d899a99a02043421cd331cc039ea11fee9670ea2c2db918d83ec8ecf78d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c2ea9f43a7a0f27ef6fbf99084ec56c7cae6042c3d90f38df8b33d861a11cc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Contribuições e Impostos
+- Orgânica
+- Serviço de Informática Tributária
 relationships:
 - type: amended_by
   target: pt:dre:299463:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALARGADO O QUADRO DE PESSOAL DO SERVIÇO DE INFORMÁTICA TRIBUTÁRIA, PELA PORTARIA 544/93, PUBLICADA DR.IS-B, 122.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-05-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL PELO MAPA I ANEXO A PORTARIA 663/94, DE 19 DE JULHO, PUBLICADO NO DR.IS-B, 165.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-19'
+- type: cites
+  target: pt:dre:283367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493271:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:533376:por
+  label: "Revogado pelo DEC LEI.408/93.14.12.1993.MF, DR.IS-A [290] de 14.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/408-1993-533376
+  date: '1993-12-14'
 article_structure:
   article_count: 30
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:23Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +222,9 @@ b) Divisão de Concepção de Sistemas Informáticos;
 
 c) Divisão de Administração de Dados.
 
-###### Artigo 6.º — Divisão de Organização
+###### Artigo 6.º
+
+##### Divisão de Organização
 
 Compete à Divisão de Organização:
 
@@ -208,7 +244,9 @@ g) Colaborar, no âmbito da sua competência, com outros serviços na elaboraç�
 
 h) Estudar, colaborar e dar parecer sobre projectos de diploma e regulamentos que possam vir a afectar a organização e os sistemas informáticos da Direcção-Geral.
 
-###### Artigo 7.º — Divisão de Concepção de Sistemas Informáticos
+###### Artigo 7.º
+
+##### Divisão de Concepção de Sistemas Informáticos
 
 Compete à Divisão de Concepção de Sistemas Informáticos:
 
@@ -226,7 +264,9 @@ f) Promover a formação e acompanhamento dos utilizadores durante a fase de imp
 
 g) Colaborar no planeamento de sistemas informáticos, bem como no estudo e adopção de metodologias de gestão e de desenvolvimento de projectos informáticos.
 
-###### Artigo 8.º — Divisão de Administração de Dados
+###### Artigo 8.º
+
+##### Divisão de Administração de Dados
 
 Compete à Divisão de Administração de Dados:
 
@@ -256,7 +296,9 @@ b) Divisão de Realização de Sistemas Centrais;
 
 c) Divisão de Realização de Sistemas Locais.
 
-###### Artigo 10.º — Divisão de Infocentro
+###### Artigo 10.º
+
+##### Divisão de Infocentro
 
 À Divisão de Infocentro compete:
 
@@ -272,7 +314,9 @@ e) Assistir os utilizadores na obtenção de acessos a dados memorizados central
 
 f) Difundir na Direcção-Geral os produtos e serviços oferecidos pelo Infocentro e promover a troca de experiência entre os utilizadores deste.
 
-###### Artigo 11.º — Divisão de Realização de Sistemas Centrais
+###### Artigo 11.º
+
+##### Divisão de Realização de Sistemas Centrais
 
 Compete à Divisão de Realização de Sistemas Centrais:
 
@@ -286,7 +330,9 @@ d) Promover a instalação dos sistemas realizados nos equipamentos em colabora�
 
 e) Colaborar no estudo e adopção de metodologias de gestão e de desenvolvimento de projectos informáticos.
 
-###### Artigo 12.º — Divisão de Realização de Sistemas Locais
+###### Artigo 12.º
+
+##### Divisão de Realização de Sistemas Locais
 
 Compete à Divisão de Realização de Sistemas Locais:
 
@@ -308,7 +354,9 @@ b) Divisão de Suporte Operacional;
 
 c) Divisão de Suporte Técnico.
 
-###### Artigo 14.º — Divisão de Produção
+###### Artigo 14.º
+
+##### Divisão de Produção
 
 Compete à Divisão de Produção:
 
@@ -330,7 +378,9 @@ h) Assegurar a planificação e controle da execução de trabalhos cometidos à
 
 i) Garantir a segurança e confidencialidade da informação.
 
-###### Artigo 15.º — Divisão de Suporte Operacional
+###### Artigo 15.º
+
+##### Divisão de Suporte Operacional
 
 Compete à Divisão de Suporte Operacional:
 
@@ -340,7 +390,9 @@ b) Assegurar a análise e controle dos registos das avarias verificadas nos equi
 
 c)Promover o estabelecimento de acordos de manutenção dos equipamentos informáticos da Direcção-Geral no sentido de serem salvaguardados os interesses do Estado e a eficaz operacionalidade dos mesmos.
 
-###### Artigo 16.º — Divisão de Suporte Técnico
+###### Artigo 16.º
+
+##### Divisão de Suporte Técnico
 
 À Divisão de Suporte Técnico compete:
 
@@ -356,7 +408,9 @@ e) Administrar os sistemas lógicos locais;
 
 f) Responsabilizar-se pela manutenção, promoção e controle do centro de documentação.
 
-###### Artigo 17.º — Divisão de Registo de Dados
+###### Artigo 17.º
+
+##### Divisão de Registo de Dados
 
 À Divisão de Registo de Dados compete:
 
@@ -364,7 +418,9 @@ a) Controlar a recepção dos suportes recebidos;
 
 b) Proceder, em suportes adequados, ao registo de dados relacionados com as informações a tratar.
 
-###### Artigo 18.º — Divisão de Apoio Administrativo
+###### Artigo 18.º
+
+##### Divisão de Apoio Administrativo
 
 1 - A Divisão de Apoio Administrativo é o serviço de apoio do SIT cuja acção se desenvolve nas áreas dos recursos humanos, financeiros e materiais do mesmo e, bem assim, no âmbito do apoio administrativo e logístico às suas actividades.
 
@@ -518,18 +574,18 @@ Presidência do Conselho de Ministros, 6 de Outubro de 1988.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 5 de Novembro de 1988.**
+Promulgado em 5 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Novembro de 1988.**
+Referendado em 9 de Novembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA
 
 Quadro de pessoal a que se refere o artigo 24.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/11/26700/46164624.pdf))](https://files.diariodarepublica.pt/1s/1988/11/26700/46164624.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/26700/46164624.pdf)

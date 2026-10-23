@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05201/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13-b/2025/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-b-2025-911131668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e49c58c1efb139984fd542200a26227ad0972754df2abab5e4fe930d8af76072
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc740b14eb50c90fda07521a2f33d83e6483a187310db7185ce3a519ccdf5e53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
 - Comissão Liquidatária
 - Concurso Público
 - Contrato de Concessão
-- Prestação de Serviços
-- Exploração Portuária
 - Empresa de Silos Portuários
+- Exploração Portuária
+- Prestação de Serviços
+- Sociedade Anónima
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:188/2001
+  label: Adita os artigos 7.º-A e 7.º-B ao Decreto-Lei n.º 188/2001, de 25 de junho, Diário da República n.º 145/2001, Série
+    I-A
+  source: null
+  date: '2001-06-25'
+- type: amends
+  target: pt:numero:decreto-lei:29/2003
+  label: Altera o artigo 9.º do Decreto-Lei n.º 29/2003, de 12 de fevereiro, Diário da República n.º 36/2003, Série I-A
+  source: null
+  date: '2003-02-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/188/2001/06/25/p/dre
   label: null
@@ -98,16 +109,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:198687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58216993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:25Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +157,7 @@ de 14 de março
 
 O XXIV Governo Constitucional tem o objetivo de garantir o abastecimento e a segurança alimentar, a par do reforço da autonomia da Europa no que respeita ao domínio das cadeias de distribuição e abastecimento de bens essenciais.
 
-O [Decreto-Lei n.º 188/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2001-361507), de 25 de junho, alterado pelos Decretos-Leis n.<sup>os</sup>[242-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-a-2001-534588), de 31 de agosto, [250/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2002-450618), de 21 de novembro, [29/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2003-198687), de 12 de fevereiro, e [2/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2006-203014), de 3 de janeiro, determinou a dissolução da SILOPOR - Empresa de Silos Portuários, S. A. (SILOPOR, S. A.), com efeitos reportados a 19 de junho de 2000, bem como a consequente entrada em liquidação, tendo estabelecido, atendendo à importância do serviço de descarga e armazenagem de matérias-primas alimentares prestado por esta empresa, que a exploração da sua atividade nos portos de Lisboa e Leixões fosse concessionada a operadores privados, em regime de serviço público, precedendo concurso público.
+O [Decreto-Lei n.º 188/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2001-361507), de 25 de junho, alterado pelos Decretos-Leis n.os[242-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-a-2001-534588), de 31 de agosto, [250/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2002-450618), de 21 de novembro, [29/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2003-198687), de 12 de fevereiro, e [2/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2006-203014), de 3 de janeiro, determinou a dissolução da SILOPOR - Empresa de Silos Portuários, S. A. (SILOPOR, S. A.), com efeitos reportados a 19 de junho de 2000, bem como a consequente entrada em liquidação, tendo estabelecido, atendendo à importância do serviço de descarga e armazenagem de matérias-primas alimentares prestado por esta empresa, que a exploração da sua atividade nos portos de Lisboa e Leixões fosse concessionada a operadores privados, em regime de serviço público, precedendo concurso público.
 
 O referido decreto-lei, posteriormente complementado pelo [Decreto-Lei n.º 29/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2003-198687), de 12 de fevereiro, consagrou as regras a observar nos dois concursos públicos a lançar para a concessão da exploração da atividade da SILOPOR, S. A., nos portos de Leixões e de Lisboa, este último com a gestão integrada dos terminais da Trafaria e do Beato e a exploração do silo no interior de Vale de Figueira.
 
@@ -146,7 +185,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 O presente decreto-lei procede:
 
-a) À quinta alteração ao [Decreto-Lei n.º 188/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2001-361507), de 25 de junho, alterado pelos Decretos-Leis n.<sup>os</sup>[242-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-a-2001-534588), de 31 de agosto, [250/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2002-450618), de 21 de novembro, [29/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2003-198687), de 12 de fevereiro, e [2/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2006-203014), de 3 de janeiro, que regula o processo de liquidação da SILOPOR - Empresa de Silos Portuários, S. A., e estabelece um conjunto de regras sobre a concessão da atividade da empresa;
+a) À quinta alteração ao [Decreto-Lei n.º 188/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2001-361507), de 25 de junho, alterado pelos Decretos-Leis n.os[242-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-a-2001-534588), de 31 de agosto, [250/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2002-450618), de 21 de novembro, [29/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2003-198687), de 12 de fevereiro, e [2/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2006-203014), de 3 de janeiro, que regula o processo de liquidação da SILOPOR - Empresa de Silos Portuários, S. A., e estabelece um conjunto de regras sobre a concessão da atividade da empresa;
 
 b) À primeira alteração do [Decreto-Lei n.º 29/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2003-198687), de 12 de fevereiro, que altera o [Decreto-Lei n.º 188/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2001-361507), de 25 de junho, que regula o processo de liquidação da SILOPOR - Empresa de Silos Portuários, S. A., e estabelece um conjunto de regras sobre a concessão da atividade da empresa.
 
@@ -176,13 +215,15 @@ b) Da avaliação dos bens a transmitir com o estabelecimento que não integram 
 
 7 - A minuta do futuro contrato de concessão deve ser aprovada por resolução do Conselho de Ministros e as respetivas bases por decreto-lei.
 
-8 - No procedimento concursal do concurso indicado no n.º 6, são aplicadas, com as necessárias adaptações, as disposições previstas nos n.<sup>os</sup>2 a 6 do artigo 7.º
+8 - No procedimento concursal do concurso indicado no n.º 6, são aplicadas, com as necessárias adaptações, as disposições previstas nos n.os2 a 6 do artigo 7.º
 
-###### Artigo 7.º-B — Transmissão dos contratos de trabalho
+Artigo 7.º-B
+
+Transmissão dos contratos de trabalho
 
 1 - A sociedade a constituir pela APL, S. A., sucede na posição da SILOPOR, S. A., nos contratos vigentes a esta afetos, designadamente nos contratos de trabalho, mantendo os trabalhadores transmitidos ao adquirente todos os direitos contratuais e adquiridos, nomeadamente retribuição, antiguidade, categoria profissional e conteúdo funcional e benefícios sociais adquiridos, bem como os demais direitos constantes de instrumentos de regulamentação coletiva de trabalho, conforme previsto no artigo 498.º do Código do Trabalho, e de regulamentos de carreiras, nos termos previstos no n.º 3 do artigo 285.º do Código do Trabalho.
 
-2 - O acordo de empresa vigente na SILOPOR, S. A., é mantido por um período de cinco anos a contar da data da celebração do contrato de concessão referido nos n.<sup>os</sup>6 e 7 do artigo anterior.»
+2 - O acordo de empresa vigente na SILOPOR, S. A., é mantido por um período de cinco anos a contar da data da celebração do contrato de concessão referido nos n.os6 e 7 do artigo anterior.»
 
 ###### Artigo 3.º — Alteração ao [Decreto-Lei n.º 29/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2003-198687), de 12 de fevereiro
 
@@ -202,12 +243,14 @@ O artigo 9.º do [Decreto-Lei n.º 29/2003](https://diariodarepublica.pt/dr/deta
 
 Visto e aprovado em Conselho de Ministros de 7 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento.
 
-**Promulgado em 13 de março de 2025.**
+Promulgado em 13 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de março de 2025.**
+Referendado em 14 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118818726

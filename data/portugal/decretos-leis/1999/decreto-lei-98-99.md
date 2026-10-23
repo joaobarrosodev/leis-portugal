@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/98/1999/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1999-138128
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:16:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0c3838352950877054c28b39f7ad956df82fa54260ca3ae0af1bff942b12c14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8c2fdfb863f32590cdede480e2bed3cc0a5a0fb22f4521df9c40f81756d90a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ÁREA Crítica de Recuperação e Reconversão Urbanística
+- Câmara Municipal
 - Construção Civil
-- Plano Director Municipal
 - Contra-ordenação
+- Exposição Internacional de Lisboa de 1998
 - Fiscalização
 - Lisboa
-- ZONA de Intervenção
-- ÁREA Crítica de Recuperação e Reconversão Urbanística
-- Exposição Internacional de Lisboa de 1998
 - Medidas Preventivas
 - Parque EXPO 98
 - Plano de Pormenor
 - Plano de Urbanização
-- Câmara Municipal
+- Plano Director Municipal
+- ZONA de Intervenção
 relationships:
 - type: amended_by
   target: pt:dre:408374:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:408374:por
+  label: "Alterada a al. b) do art. 3º pelo DEC LEI.24/2000.2000.03.02.MAOT DR.IS-A [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2000-408374
+  date: '2000-03-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/354/1993/10/09/p/dre
   label: null
@@ -104,16 +109,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/94/1994/09/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/94/1994/09/29/p/dre
+- type: cites
+  target: pt:dre:298836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689023:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:16:24Z'
   warnings: []
   errors: []
 ---
@@ -194,14 +223,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - António Luís Santos da Costa.
 
-**Promulgado em 10 de Março de 1999.**
+Promulgado em 10 de Março de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Março de 1999.**
+Referendado em 15 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1999/03/071a00/16791681.pdf)

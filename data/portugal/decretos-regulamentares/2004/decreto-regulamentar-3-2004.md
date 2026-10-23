@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/3/2004/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2004-578878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ad126575508c5d16074b618ff4580383397599dcf61df215f96b3a51d4c57f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb49f27fa4453c7b5ceab068bb350306678052168c0eef8b8166d6f9f26426bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão Directiva
-- RIO TEJO
+- Diversidade Biológica
 - Instituto da Conservação da Natureza
 - Parque Natural do Tejo Internacional
-- Diversidade Biológica
+- RIO TEJO
 - Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:520231:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:552308:por
+  label: "Alterados os artigos 6.º e 8.º e a área defenida no anexo I do Decreto Regulamentar n.º 9/2000, de 18 de Agosto,\
+    \ na redacção do presente diploma, pelo DR.21/2006.27.12.2006.MAOTDR, DR.IS [247] de 27.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/21-2006-552308
+  date: '2006-12-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/97/2003/05/07/p/dre
   label: null
@@ -84,16 +90,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/9/2000/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/9/2000/08/18/p/dre
+- type: cites
+  target: pt:dre:324972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580669:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:02Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +154,9 @@ Os artigos 6.º e 8.º do [Decreto Regulamentar n.º 9/2000](https://diariodarep
 
 8 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -204,15 +220,15 @@ A descrição dos limites do Parque Natural do Tejo Internacional, constante do 
 
 Visto e aprovado em Conselho de Ministros de 17 de Dezembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Armando José Cordeiro Sevinate Pinto - Pedro Manuel da Cruz Roseta - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 23 de Janeiro de 2004.**
+Promulgado em 23 de Janeiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Janeiro de 2004.**
+Referendado em 27 de Janeiro de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — Descrição dos limites do Parque Natural do Tejo Internacional
 

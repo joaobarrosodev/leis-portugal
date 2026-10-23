@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/23100/0001300018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/95/2024/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2024-898201692
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6e925ca6c63f79d1f27035d91f3e9d7193a7c24e3129c5e9c5d3b3f3e3f0a12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f9806da352277aa5a32d632d42b4dc75ff35650acb92ab581bf1dfb224156c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Entidade de Serviços Partilhados da Administração Pública
+- Gestão de Recursos Humanos
 - Orgânica
 - Quadro de Pessoal
-- Gestão de Recursos Humanos
+- Reestruturação de Serviços
 - Sistema Nacional de Compras Públicas
 - Unidade Ministerial de Compras
 relationships:
@@ -78,6 +78,13 @@ relationships:
   target: pt:dre:992627242:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:117-A/2012
+  label: Altera, a partir de 29 de novembro de 2024, os artigos 1.º, 3.º (este último nos termos do n.º 2 do artigo 6.º),
+    5.º, 7.º, 8.º, 14.º e 17.º do Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de
+    2012-06-14
+  source: null
+  date: '2012-06-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117-a/2012/06/14/p/dre
   label: null
@@ -98,16 +105,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:411608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:839477381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:34Z'
   warnings: []
   errors: []
 ---
@@ -140,11 +167,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º — Objeto
+Artigo 1.º
+
+Objeto
 
 O presente decreto-lei procede, no âmbito do processo de reestruturação da Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP, I. P.), previsto no [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, à segunda alteração ao [Decreto-Lei n.º 117-A/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), de 14 de junho, alterado pelo [Decreto-Lei n.º 17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro.
 
-###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 117-A/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), de 14 de junho
+Artigo 2.º
+
+Alteração ao [Decreto-Lei n.º 117-A/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), de 14 de junho
 
 Os artigos 1.º, 3.º, 5.º, 7.º, 8.º, 14.º e 17.º do [Decreto-Lei n.º 117-A/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), de 14 de junho, na sua redação atual, passam a ter a seguinte redação:
 
@@ -158,7 +189,9 @@ Os artigos 1.º, 3.º, 5.º, 7.º, 8.º, 14.º e 17.º do [Decreto-Lei n.º 117-
 
 3 - A ESPAP, I. P., é equiparada a entidade pública empresarial para efeitos de conceção e desenvolvimento de soluções, aplicações, plataformas, projetos e execução de atividades conducentes ou necessárias à prestação de serviços partilhados, à prestação de serviços comuns e de suporte administrativo e especializado, compras públicas, gestão do parque de veículos do Estado (PVE) e às respetivas atividades de suporte e, em geral, à promoção da utilização de recursos comuns na Administração Pública.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A ESPAP, I. P., tem por missão assegurar o desenvolvimento e a prestação de serviços partilhados no âmbito da Administração Pública, conceber, gerir e avaliar o Sistema Nacional de Compras Públicas (SNCP) e assegurar a gestão do PVE, apoiando a definição de políticas estratégicas nas áreas das tecnologias de informação e comunicação (TIC), garantindo o planeamento, conceção, execução e avaliação das iniciativas de informatização tecnológica, bem como assegurar a prestação de serviços comuns e de suporte administrativo e especializado.
 
@@ -252,7 +285,9 @@ m) Assegurar as funções de Unidade Ministerial de Compras, sempre que esta atr
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O conselho diretivo é composto por um presidente, por um vice-presidente e por quatro vogais.
 
@@ -262,7 +297,9 @@ m) Assegurar as funções de Unidade Ministerial de Compras, sempre que esta atr
 
 4 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Junto da ESPAP, I. P., funciona a comissão interministerial de compras (CIC), mantendo articulação com o Fórum da Administração Pública, previsto no [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, cuja presidência é assegurada pelo presidente do conselho diretivo da ESPAP, I. P., ou por quem este designar.
 
@@ -280,11 +317,15 @@ m) Assegurar as funções de Unidade Ministerial de Compras, sempre que esta atr
 
 8 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 A organização interna da ESPAP, I. P., é a prevista nos respetivos estatutos e regulamentos internos, a aprovar nos termos da Lei-Quadro dos Institutos Públicos, aprovada pela [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, na sua redação atual.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -300,7 +341,9 @@ d) Criar e mobilizar as estruturas definitivas que assegurem a prestação de se
 
 3 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -332,21 +375,29 @@ k) Secretarias-Gerais dos Negócios Estrangeiros, da Defesa Nacional e da Admini
 
 4 - [...]»
 
-###### Artigo 3.º — Trabalhadores com relação jurídica de emprego público
+Artigo 3.º
+
+Trabalhadores com relação jurídica de emprego público
 
 1 - Aos trabalhadores com relação jurídica de emprego público que, à data da entrada em vigor do presente decreto-lei, pertençam ao mapa de pessoal da ESPAP, I. P., ou que venham a integrá-lo na sequência da reafetação de pessoal decorrente dos processos de fusão e reestruturação das secretarias-gerais é garantida a manutenção integral do seu estatuto jurídico.
 
 2 - Os trabalhadores a que se refere o número anterior integram o mapa de pessoal da ESPAP, I. P., que se mantém com caráter residual, exclusivamente para efeitos de desenvolvimento da carreira daqueles trabalhadores, sendo os respetivos postos de trabalho a extinguir quando vagarem, da base para o topo.
 
-###### Artigo 4.º — Trabalhadores em cedência de interesse público na Entidade de Serviços Partilhados da Administração Pública, I. P.
+Artigo 4.º
+
+Trabalhadores em cedência de interesse público na Entidade de Serviços Partilhados da Administração Pública, I. P.
 
 Aos trabalhadores em cedência de interesse público na ESPAP, I. P., à data da entrada em vigor do presente decreto-lei, incluindo o pessoal reafeto a esta entidade na sequência dos processos de fusão e reestruturação das secretarias-gerais, continua a ser aplicável o regime jurídico-laboral anteriormente vigente, mantendo-se as cedências de interesse público até ao seu termo.
 
-###### Artigo 5.º — Comissões de serviço de cargos dirigentes
+Artigo 5.º
+
+Comissões de serviço de cargos dirigentes
 
 No âmbito do processo de reestruturação da ESPAP, I. P., a que refere o presente decreto-lei, às comissões de serviço dos cargos dirigentes não se aplica o disposto no artigo 10.º do [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, mantendo-se pela duração remanescente.
 
-###### Artigo 6.º — Entrada em vigor e produção de efeitos
+Artigo 6.º
+
+Entrada em vigor e produção de efeitos
 
 1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de novembro de 2024, considerando-se ratificados todos os atos entretanto praticados, em conformidade com o presente decreto-lei.
 
@@ -354,12 +405,14 @@ No âmbito do processo de reestruturação da ESPAP, I. P., a que refere o prese
 
 Visto e aprovado em Conselho de Ministros de 29 de outubro de 2024. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro.
 
-**Promulgado em 18 de novembro de 2024.**
+Promulgado em 18 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de novembro de 2024.**
+Referendado em 21 de novembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118393354

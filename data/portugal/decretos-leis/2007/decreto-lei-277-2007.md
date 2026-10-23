@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/277/2007/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-2007-636388
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3887ca12473dcb73ff767a21d1cb8a94e9d8a28f5a1eef02e1bc3eacb3ab1600
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b74e39db24c896ae52c8ffd245a6f34145f7a6549066fe7922de08dc4688efb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,34 @@ subjects:
 - Código do Imposto do SELO
 - Depósito Bancário
 - Doação
-- SELO Fiscal
 - Imposto do SELO
 - Isenção Fiscal
+- SELO Fiscal
 - Tabela Geral do Imposto do SELO
 relationships:
 - type: amended_by
   target: pt:dre:243769:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642527:por
+  label: "Alterado o artigo 26.º do Código do Imposto do Selo, aprovado pela Lei n.º 150/99, de 11 de Setembro, na redacção\
+    \ do presente diploma, alterado e republicado pelo Dec Lei 287/2003 de 12-Nov, pelo DEC LEI.324/2007.28.09.2007.MJ, DR.IS\
+    \ [188] de 28.09.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2007-642527
+  date: '2007-09-28'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 26.º do Código do Imposto de Selo, aprovado pela Lei 150/99 de 11-Set, na redacção do presente diploma,\
+    \ republicado pelo Dec Lei 287/2003 de 12-Nov, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 26º do Código do Imposto do Selo, aprovado pela Lei 150/99, de 11-Set, na redacção do presente diploma,\
+    \ pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/2005/12/07/p/dre
   label: null
@@ -94,16 +113,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/150/1999/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/150/1999/09/11/p/dre
+- type: cites
+  target: pt:dre:447325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571194:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:15Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +185,9 @@ Os artigos 26.º e 28.º do Código do Imposto do Selo, aprovado pela [Lei n.º 
 
 11 - Ficam dispensados da obrigação de participação prevista no n.º 1 os beneficiários de doações isentos não abrangidos pela obrigação do n.º 1 do artigo 28.º
 
-###### Artigo 28.º — Obrigação de prestar declarações e relacionar os bens
+Artigo 28.º
+
+Obrigação de prestar declarações e relacionar os bens
 
 1 - Os beneficiários de transmissões gratuitas estão obrigados a prestar as declarações e proceder à relação dos bens e direitos, a qual, em caso de isenção, deve abranger os bens e direitos referidos no artigo 10.º do Código do IRS e outros bens sujeitos a registo, matrícula ou inscrição, bem como, excepto no caso de doações a favor de beneficiários isentos, os valores monetários, ainda que objecto de depósito em contas bancárias.
 
@@ -166,12 +203,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Junho de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 17 de Julho de 2007.**
+Promulgado em 17 de Julho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de Julho de 2007.**
+Referendado em 19 de Julho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

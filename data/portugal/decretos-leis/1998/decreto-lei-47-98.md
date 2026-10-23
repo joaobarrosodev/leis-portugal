@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/056a00/08920897.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/47/1998/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1998-219145
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7258f41c1eb3eebd9b18e3cdf017198d573d3b87f01fa8bfafc3c778882773b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abae51cd0214fda9ca85c4632bb4c1f573fd542be70ebc3324cdb5b1e86919c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,41 @@ reuse:
 subjects:
 - Acesso à Informação
 - Administração Central
-- Função Pública
-- BDAP
-- Pessoal Dirigente
-- Criação de Serviços
+- Administração Local
 - Administração Pública
+- Administração Regional
+- BDAP
+- Criação de Serviços
+- Dados Pessoais
+- Função Pública
+- Gestão de Recursos Humanos
 - Instituto de Gestão da BASE de Dados dos Recursos Humanos da Administração Pública
 - Orgânica
-- Sistema de Informação
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Recursos Humanos
-- Administração Local
-- Administração Regional
-- Gestão de Recursos Humanos
-- Dados Pessoais
+- Sistema de Informação
 relationships:
 - type: amended_by
   target: pt:dre:124500718:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693817:por
+  label: "Alterado o art. 16º pelo DEC LEI.450/99.1999.11.05.PCM, DR.IS-A [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/450-1999-693817
+  date: '1999-11-05'
+- type: amended_by
+  target: pt:dre:621721:por
+  label: "Extinto, com efeitos a partir da entrada em vigor da lei orgânica do Instituto para a Inovação na Administração\
+    \ Pública, pelo DEC LEI.269/2000.2000.11.04.MREAP DR.IS-A [255]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/269-2000-621721
+  date: '2000-11-04'
+- type: amended_by
+  target: pt:dre:432175:por
+  label: "Mantidos em vigor os arts. 1.º a 12.º pelo DEC LEI.215/2002.2002.10.22.MF DR.IS-A [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2002-432175
+  date: '2002-10-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/10/1991/04/29/p/dre
   label: null
@@ -94,16 +110,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/28/1994/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/28/1994/08/29/p/dre
+- type: cites
+  target: pt:dre:219369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599769:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:567032:por
+  label: "Revogado, com exepção dos arts. 1º a 13º que se manterão em vigor até à promulgação de nova legislação sobre a matéria,\
+    \ pelo DEC LEI.300/2001.2001.11.22.MREAP DR.IS-A [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/300-2001-567032
+  date: '2001-11-22'
+- type: repealed_by
+  target: pt:dre:124500718:por
+  label: Revogado pelo(a) Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/104-2019-124500718
+  date: '2019-09-06'
 article_structure:
   article_count: 33
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:58Z'
   warnings: []
   errors: []
 ---
@@ -336,7 +371,7 @@ e) Acompanhar as actividades do IGDAP.
 
 ###### Artigo 20.º — Competências do presidente
 
-**O presidente é o órgão do IGDAP com competência para executar as deliberações do conselho geral, incumbindo-lhe, em especial:**
+O presidente é o órgão do IGDAP com competência para executar as deliberações do conselho geral, incumbindo-lhe, em especial:
 
 a) Dirigir e coordenar as actividades do IGDAP;
 
@@ -426,7 +461,9 @@ o) Prestar apoio jurídico, nomeadamente no domínio da promoção, da interpret
 
 p) Elaborar os planos anuais e plurianuais de actividades, bem como os correspondentes relatórios de execução.
 
-###### Artigo 26.º — Secção Administrativa e Financeira
+###### Artigo 26.º
+
+#### Secção Administrativa e Financeira
 
 Compete à Secção Administrativa e Financeira:
 
@@ -528,15 +565,15 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Janeiro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 25 de Fevereiro de 1998.**
+Promulgado em 25 de Fevereiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Fevereiro de 1998.**
+Referendado em 26 de Fevereiro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Pessoal dirigente
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17200/0598605991.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/24/2009/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:32:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cb3e4cb0d435c7dddc48d296ed78b955999138602ffc77e13246f2cf51dc9bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f9da9cf2edfb006284f5245b369cce7cba984b1415b1939a0cd3c98378adc31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:32:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração de Aeroportos
 - Aeroporto
 - Assistência em Escala
-- Transporte Aéreo
+- Aviação Civil
 - Licenciamento
 - Prestação de Serviços
-- Administração de Aeroportos
-- Aviação Civil
 - Regime Jurídico
 - Taxa
 - Taxa Aeroportuária
 - TAXA de Prestação de Serviços
 - TAXA de Utilização
 - Tráfego Aéreo
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:190615:por
@@ -120,16 +120,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/5-a/2002/02/08/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/5-a/2002/02/08/p/dre
+- type: cites
+  target: pt:dre:241189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673617:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:190615:por
+  label: "Revogado pelo DEC LEI.254/2012.28.11.2012.MEE, DR.IS [230] de 28.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2012-190615
+  date: '2012-11-28'
 article_structure:
   article_count: 22
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:32:32Z'
   warnings: []
   errors: []
 ---
@@ -422,12 +467,12 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - João António da Costa Mira Gomes - Rui Carlos Pereira - Mário Lino Soares Correia.
 
-**Promulgado em 22 de Agosto de 2009.**
+Promulgado em 22 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de Agosto de 2009.**
+Referendado em 25 de Agosto de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

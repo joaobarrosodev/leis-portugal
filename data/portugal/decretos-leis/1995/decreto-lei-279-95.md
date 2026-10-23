@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/279/1995/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1995-668114
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a06c462b0970e11a6f0c32305bde04d4097cf4c32b97266879bbf936a46c206a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 768f0c1adff4e6129a019cc1aa86333ec4ed663ee0c1bd386a89e552f9059de6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,24 @@ reuse:
 subjects:
 - Acidente de Transporte
 - Contrato de Seguro
-- Transporte Aéreo
-- Seguro
 - Responsabilidade Civil
-relationships: []
+- Seguro
+- Transporte Aéreo
+relationships:
+- type: cites
+  target: pt:dre:548194:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:20Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +102,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 2.º, 4.º, 5.º, 11.º, 14.º e 19.º do Decreto-Lei 321/89, de 25 de Setembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 2.º, 4.º, 5.º, 11.º, 14.º e 19.º do Decreto-Lei 321/89, de 25 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º
 
@@ -174,12 +178,12 @@ b) Os danos referidos nos artigos 3.º e 10.º quando dolosamente provocados ou 
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - Walter Valdemar Pêgo Marques - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 29 de Setembro de 1995.**
+Promulgado em 29 de Setembro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Outubro de 1995.**
+Referendado em 3 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

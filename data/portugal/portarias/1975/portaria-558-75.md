@@ -46,40 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/558-1975-307380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T04:49:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26d7f14cdaec28fd5925d5be1adb32153e8883105e87212ffab054bee286df85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75a37d3778ef981592379c5062496300396e9e32f30297d4ed476c3f38981530
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:49:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:2357183:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:279809:por
+  label: Derrogada, no referente aos prédios rústicos da Fundação da Casa de Bragança, pelo(a) Portaria n.º 741/77 - Diário
+    da República n.º 283/1977, Série I de 1977-12-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/741-1977-279809
+  date: '1977-12-09'
+- type: amended_by
+  target: pt:dre:2734245:por
+  label: "Derrogada, na parte em que expropria vários prédios rústicos, pela PORT.DD353.22.09.1990.PCM, DR.IIS [220] de 22.09.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1990-2734245
+  date: '1990-09-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DERROGADA EM PARTE PELA PORTARIA 329/92IIS, PUBLICADA NO DR.IIS, 248, DE 921027.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-10-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DERROGADA EM PARTE PELA PORTARIA 78/93IIS, PUBLICADA NO DR.IIS, 71, DE 930325.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-03-25'
+- type: amended_by
+  target: pt:dre:2357183:por
+  label: Derrogada, em parte, pelo(a) Portaria n.º 78/93 (2.ª Série) - Diário da República n.º 71/1993, Série II de 1993-03-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/78-1993-2357183
+  date: '1993-03-25'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "DERROGADA EM PARTE, PELA PORTARIA 124/94IIS, DA PCM, DE 29 DE JULHO, PUBLICADA NO DR.IIS, 213, DE 940914.\0 213,\
+    \ DE 940914."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-09-14'
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:470821:por
+  label: "Revogada, relativamente à expropriação dos prédios n.ºs 29) e 30), pela PORT.521/80.14.08.1980.MAP, DR.IS [187]\
+    \ de 14.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/521-1980-470821
+  date: '1980-08-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:49:41Z'
   warnings: []
   errors: []
 ---

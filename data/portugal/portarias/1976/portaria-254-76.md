@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/254-1976-502215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T05:00:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a73914bb3e61abe7713dddb03f09c566325c0fbe0b8491be36cd3cc59795124
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 405acd7ab452ec0eb91afbfaa81594001c1464eab255a056b8251b3a51bb24eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:00:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código da Estrada
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:290839:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:428222:por
+  label: Rectificada pela DECL.DD8854.19.05.1976.PCM, DR.IS [117] de 19.05.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-428222
+  date: '1976-05-19'
+- type: corrected_by
+  target: pt:dre:310627:por
+  label: Rectificada pela DECL.DD8910.01.06.1976.PCM, DR.IS [128]4ºSupl de 01.06.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-310627
+  date: '1976-06-01'
+- type: corrected_by
+  target: pt:dre:430778:por
+  label: Rectificada pela DECL.DD8338.26.07.1976.PCM, DR.IS [173] de 26.07.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-430778
+  date: '1976-07-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:00:02Z'
   warnings: []
   errors: []
 ---

@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/157-1982-601098
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T07:09:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ac41c175b57ca02e9a13bda0a91e8f9396cdfebb1ab4a209f8524cb36e1f4ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 420733d75648d0e00ccccdab140290ebbe4a3ec5343aa2c286ffd117c8e3cc79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:09:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acesso à Informação
+- Comunicações
+- Criação de Serviços
+- CTT
+- Nova Tecnologia
+- REDE Pública de Telecomunicações
+- Serviço Público
+- Tecnologia da Informação
 relationships:
 - type: amended_by
   target: pt:dre:374779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:215770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288622:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374779:por
+  label: Revogada pelo(a) Decreto-Lei n.º 176/88 - Diário da República n.º 115/1988, Série I de 1988-05-18, nos termos da
+    al. n) do n.º 1 do seu art. 4.º, que a manteve, contudo, transitoriamente em vigor nos termos do disposto no n.º 2 do
+    mesmo artigo
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-1988-374779
+  date: '1988-05-18'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:09:41Z'
   warnings: []
   errors: []
 ---
@@ -113,15 +136,15 @@ As respectivas taxas constarão igualmente da tarifa n.º 1 - Correio.
 
 Secretaria de Estado dos Transportes Exteriores e Comunicações, 13 de Janeiro de 1982. - O Secretário de Estado dos Transportes Exteriores e Comunicações, José da Silva Domingos.
 
-## ANEXO I À PORTARIA N.º 157/82
+ANEXO I À PORTARIA N.º 157/82
 
 Taxas a incluir na tarifa n.º 1 - Correio
 
 Criado o serviço público de telecópia a cargo do correio e tornando-se necessário estabelecer os preços devidos pela sua execução, são incluídas na tarifa n.º 1 - Correio as seguintes taxas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/02/02800/02730274.pdf))](https://files.diariodarepublica.pt/1s/1982/02/02800/02730274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/02/02800/02730274.pdf)
 
-## ANEXO II À PORTARIA N.º 157/82
+ANEXO II À PORTARIA N.º 157/82
 
 Regulamento provisório para a execução do serviço público de telecópia a cargo do correio
 

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/443-1971-635258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6b32a9d9649c45089ade743cd60c9338d876a82eab8d79680032c3e52b3c96e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8c5a6c67d4229d6bde5d256cf8350d0c8fcbd9e4f57003349f20ca4d1f2ca1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,26 @@ relationships:
   target: pt:dre:285974:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:285974:por
+  label: Alterados os preços do lúpulo, a que se refere o n.º 4.º do presente diploma, na redacção dada pela Port 323/73 de
+    09-Mai, pelo(a) Portaria n.º 570/77 - Diário da República n.º 211/1977, Série I de 1977-09-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/570-1977-285974
+  date: '1977-09-12'
+- type: cites
+  target: pt:dre:472904:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:04Z'
   warnings: []
   errors: []
 ---
@@ -166,4 +176,4 @@ f) Colaborar na elaboração de contratos de produção.
 
 11.º São revogadas as Portarias n.os 23292 e 245/70, respectivamente, de 30 de Março de 1968 e 18 de Maio.
 
-**O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.**
+O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.

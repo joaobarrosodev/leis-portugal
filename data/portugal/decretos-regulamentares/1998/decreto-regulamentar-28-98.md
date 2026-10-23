@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/274b00/65566556.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/28/1998/11/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1998-216966
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 757d78d13220c41fe6456f42e6a5a860936cf25022139e7a2bbad9a52aac9beb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72fec2abadf3329fedf1cbbd07f7605c50a6dae26d370a531ab626dc04fd391f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ subjects:
 - Avião
 - Código do IRC
 - Embarcação de Recreio
-- Veículo
 - IRC
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:489774:por
@@ -81,16 +81,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
+- type: cites
+  target: pt:dre:333532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:489774:por
+  label: "Revogado, a partir de 01.01.2010, o DR 2/90, de 12-Jan, na redacção do presente diploma, pelo DR.25/2009.14.09.2009.MFAP,\
+    \ DR.IS [178] de 14.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/25-2009-489774
+  date: '2009-09-14'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:26Z'
   warnings: []
   errors: []
 ---
@@ -119,12 +137,12 @@ Reintegrações de viaturas ligeiras, barcos de recreio e aviões de turismo
 
 Visto e aprovado em Conselho de Ministros de 22 de Outubro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 9 de Novembro de 1998.**
+Promulgado em 9 de Novembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Novembro de 1998.**
+Referendado em 13 de Novembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

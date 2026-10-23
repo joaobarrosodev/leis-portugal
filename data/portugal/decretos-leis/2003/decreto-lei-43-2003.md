@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/03/061a00/17801780.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/43/2003/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2003-215078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 612b016d9948955056ac40318afc0e050012d8bcefe4ea493d240392e2a357de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1eb8dcbae5124c9ea6eab570a827600f10e02e563ba2fc7b1cb55cf15f394f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -85,16 +85,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/32-b/2002/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/32-b/2002/12/30/p/dre
+- type: cites
+  target: pt:dre:306907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406551:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:455412:por
+  label: "Revogados, a partir de 05.09.2008, os arts. 24º-A e 38º do Dec Lei 275-A/2000, de 09-Nov, na redacção do presente\
+    \ diploma, pela LEI.37/2008.06.08.2008.AR, DR.IS [151] de 06.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2008-455412
+  date: '2008-08-06'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:36Z'
   warnings: []
   errors: []
 ---
@@ -149,12 +167,12 @@ O disposto no artigo 1.º produz efeitos desde a data da entrada em vigor do [De
 
 Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona.
 
-**Promulgado em 26 de Fevereiro de 2003.**
+Promulgado em 26 de Fevereiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Fevereiro de 2003.**
+Referendado em 28 de Fevereiro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 75/1985, 1º Suplemento, Série I de 1985-03-30
   number: '75'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 868-(3) a 868-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/03/07501/00030011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-a-1985-649314
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:11:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9637cbe364e68e0a2ebfd5911ca1211615825b8f7c00e391b24314e9729b505e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 850138222133a83ab9fdd6729301efa014a36f748af7f3d0d10fd81a3db80aac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:11:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Serviços Centrais
+- Ministério da Agricultura
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:221573:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:310446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661545:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:495130:por
+  label: Rectificado pela DECL.DD4906.07.05.1985.PCM, DR.IS [125]Supl de 31.05.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-495130
+  date: '1985-05-07'
+- type: repealed_by
+  target: pt:dre:221573:por
+  label: "Revogado pelo DR.46/86.26.09.1986.MAPA, DR.IS [222] de 26.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/46-1986-221573
+  date: '1986-09-26'
 article_structure:
   article_count: 25
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:11:00Z'
   warnings: []
   errors: []
 ---
@@ -519,18 +560,18 @@ Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Mário Soares - Carlos Alberto da Mota Pinto - José Manuel San-Bento de Menezes - Ernâni Rodrigues Lopes - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 22 de Março de 1985.**
+Promulgado em 22 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 25 de Março de 1985.**
+Referendado em 25 de Março de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 MAPA I
 
 Quadro de pessoal a que se refere o artigo 22.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/07501/00030011.pdf))](https://files.diariodarepublica.pt/1s/1985/03/07501/00030011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/07501/00030011.pdf)

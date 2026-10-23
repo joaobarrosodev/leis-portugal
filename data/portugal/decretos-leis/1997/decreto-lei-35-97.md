@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35/1997/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1997-571074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:54:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1e085eb8207c570ffd465ffbc6cc1b8476fafe3a2622f0a48df21d616a9aeb3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: febd2963db4f8f241b50ae2a04a3183a0f8bd2da660b5240c68442b21f111f67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:54:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Código Civil
-- Regime Jurídico
 - Casamento
+- Código Civil
 - Direito Civil
 - Direito de Família
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:107061862:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642527:por
+  label: "Alterados os artigos 1589.º e 1616.º do Código Civil, aprovado pelo Dec Lei 47344, de 25-Nov 1966, com as alterações\
+    \ introduzidas pelo presente diploma, pelo DEC LEI.324/2007.28.09.2007.MJ, DR.IS [188] de 28.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2007-642527
+  date: '2007-09-28'
+- type: corrected_by
+  target: pt:dre:574703:por
+  label: "Rectificado pela DECL-RECT.5-C/97.1997.02.25.PCM, DR.IS-A [50]2º Supl de 1997.02.28\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/5-c-1997-574703
+  date: '1997-02-25'
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:54:16Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +126,9 @@ Os artigos 1589.º, 1616.º e 1631.º do Código Civil passam a ter a seguinte r
 
 2 - ...
 
-###### Artigo 1616.º — [...]
+Artigo 1616.º
+
+[...]
 
 ...
 
@@ -125,7 +138,9 @@ b) ...
 
 c) De duas testemunhas, sempre que exigida na lei do registo civil.
 
-###### Artigo 1631.º — [...]
+Artigo 1631.º
+
+[...]
 
 ...
 
@@ -141,12 +156,12 @@ O presente diploma entre em vigor na data do início da vigência do decreto-lei
 
 Visto e aprovado em Conselho de Ministros de 21 de Novembro de 1996. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 13 de Janeiro de 1997.**
+Promulgado em 13 de Janeiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Janeiro de 1997.**
+Referendado em 15 de Janeiro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 12/2002, 2º Suplemento, Série I-A de 2002-01-15
   number: '12'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 320-(16) a 320-(27)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/01/012a02/00160027.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/8-d/2002/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-d-2002-314414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66f40a918edafae84155eb3acb1567c4a7c0ce35d0c578992501e39b3055f6ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57532ad772c99e6b3f707dbd9e526720ccb7e70eabbc33c119efa1ab34a48e3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects:
 - Associação da Bolsa de Derivados
 - Associação da Bolsa de Lisboa
-- Valores Mobiliários
-- Sociedade Anónima
+- CMVM
 - Interbolsa-Associação Prestadora de Serviços às Bolsas de Valores
 - Mercado de Valores
+- Porto
 - Regime Jurídico
 - SGPS
-- CMVM
+- Sociedade Anónima
 - Sociedade Gestora de Mercados Regulamentados
-- Porto
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:209605:por
@@ -102,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/81/1992/02/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/81/1992/02/07/p/dre
+- type: cites
+  target: pt:dre:152132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662126:por
+  label: null
+  source: null
 article_structure:
-  article_count: 63
+  article_count: 45
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:29Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +174,9 @@ Os artigos 1.º, 5.º, 6.º, 7.º, 8.º, 9.º, 11.º, 13.º, 16.º, 17.º, 18.º
 
 2 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -186,7 +208,9 @@ h) O Estado.
 
 7 - A sociedade gestora de mercado regulamentado subsiste com qualquer número de accionistas ou em regime de unipessoalidade, se pelo menos um dos respectivos accionistas for uma das sociedades referidas nas alíneas f) e g) do n.º 1.
 
-###### Artigo 6.º — Participações qualificadas
+Artigo 6.º
+
+Participações qualificadas
 
 1 - As entidades que atinjam, ultrapassem ou reduzam uma participação qualificada, nos termos previstos na secção II do capítulo IV do título I do Código dos Valores Mobiliários, para as sociedades com o capital aberto ao investimento do público e com valores admitidos à negociação em mercado regulamentado ficam obrigadas a comunicar qualquer desses factos à CMVM e ao órgão de administração da sociedade gestora de mercado regulamentado no prazo de três dias após a ocorrência do facto.
 
@@ -194,7 +218,9 @@ h) O Estado.
 
 3 - O incumprimento dos deveres previstos no n.º 1 e no n.º 2, quanto à detenção de participação, determina a inibição do exercício dos direitos de voto e a dividendos inerentes à participação da entidade inadimplente, até que se verifique o integral cumprimento.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Sempre que a CMVM ou o órgão de administração da sociedade gestora de mercado regulamentado tenha conhecimento de alguma situação de inibição de exercício de direitos de voto, nos termos do disposto no n.º 3 do artigo anterior, deve comunicar esse facto ao presidente da mesa da assembleia geral da sociedade.
 
@@ -204,7 +230,9 @@ h) O Estado.
 
 4 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -218,7 +246,9 @@ a) ...
 
 b) Das entidades detentoras das participações referidas nos n.os 1 e 3 do artigo 6.º
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -232,7 +262,9 @@ d) ...
 
 2 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -252,7 +284,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O órgão de administração da sociedade gestora de mercado regulamentado tem composição plural, prevendo o pacto social mecanismos que impeçam a existência de um bloqueio do processo decisório, designadamente no caso de o mesmo ser composto por um número par de administradores eleitos.
 
@@ -264,7 +298,9 @@ d) ...
 
 5 - Sem prejuízo do disposto nos números anteriores, à administração das sociedades gestoras de mercado regulamentado aplica-se subsidiariamente o disposto no Código das Sociedades Comerciais.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -284,7 +320,9 @@ g) ...
 
 2 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A decisão é notificada aos interessados no prazo de dois meses contados da recepção do pedido, devendo o parecer da CMVM ser emitido no prazo de um mês contado da data da sua solicitação.
 
@@ -292,7 +330,9 @@ g) ...
 
 3 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 ...
 
@@ -308,7 +348,9 @@ e) ...
 
 f) [Revogada.]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -326,7 +368,9 @@ f) ...
 
 2 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 ...
 
@@ -348,7 +392,9 @@ h) ...
 
 i) ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
@@ -358,7 +404,9 @@ i) ...
 
 4 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -374,7 +422,9 @@ c) As competências do Ministro das Finanças previstas nos artigos 15.º, 20.º
 
 4 - ...
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -384,13 +434,17 @@ c) As competências do Ministro das Finanças previstas nos artigos 15.º, 20.º
 
 4 - ...
 
-###### Artigo 36.º — Trabalhadores
+Artigo 36.º
+
+Trabalhadores
 
 1 - Os trabalhadores e pensionistas das entidades anteriormente designadas Associação da Bolsa de Valores de Lisboa, Associação da Bolsa de Derivados do Porto e INTERBOLSA - Associação para a Prestação de Serviços às Bolsas de Valores, entretanto transformadas em sociedades anónimas, mantêm todos os direitos, obrigações e regalias que detinham à data da deliberação que aprovou a referida transformação.
 
 2 - Os direitos e regalias dos trabalhadores a que alude o número anterior, decorrentes da lei, de instrumentos de regulamentação colectiva ou de contratos individuais de trabalho, não são prejudicados pela transferência para as sociedades já constituídas, contando-se, para todos os efeitos, o tempo de serviço prestado nas entidades que lhes deram origem.
 
-###### Artigo 37.º — Sociedade gestora de mercado regulamentado de dívida pública
+Artigo 37.º
+
+Sociedade gestora de mercado regulamentado de dívida pública
 
 1 - Todas as alterações aos estatutos de sociedade gestora de mercado regulamentado que tenha por objecto a gestão de mercado regulamentado de dívida pública e que seja constituída no prazo de nove meses contados da data de entrada em vigor do presente decreto-lei, ficam isentas de quaisquer taxas e emolumentos advenientes, nomeadamente, da realização de escritura pública e de registos.
 
@@ -400,7 +454,9 @@ c) As competências do Ministro das Finanças previstas nos artigos 15.º, 20.º
 
 4 - A autorização referida no número anterior pode ficar sujeita a condições.
 
-###### Artigo 38.º — Tutela dos interesses patrimoniais do Estado
+Artigo 38.º
+
+Tutela dos interesses patrimoniais do Estado
 
 1 - O Ministro das Finanças estabelece, por portaria, as condições em que, relativamente à transformação em sociedades anónimas das anteriormente designadas Associação da Bolsa de Valores de Lisboa, Associação da Bolsa de Derivados do Porto e INTERBOLSA - Associação para a Prestação de Serviços às Bolsas de Valores, deverão ser tutelados os interesses patrimoniais do Estado.
 
@@ -412,7 +468,9 @@ b) Prever a subscrição pelo Estado de obrigações emitidas pelas sociedades a
 
 3 - A portaria mencionada no n.º 1 deverá fixar o montante a entregar ao Estado a título de reembolso do valor líquido actualizado do património da Bolsa de Valores de Lisboa e da Bolsa de Derivados do Porto, transferidos, sem quaisquer encargos, nos termos do n.º 6 do artigo 2.º e dos n.os 1 e 3 do artigo 6.º, ambos do [Decreto-Lei n.º 142-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-a-1991-322323), de 10 de Abril, da [Portaria n.º 81/92](https://diariodarepublica.pt/dr/detalhe/portaria/81-1992-152132), de 11 de Março, e do artigo 250.º do Código do Mercado de Valores Mobiliários, aprovado por aquele decreto-lei, para a Associação da Bolsa de Valores de Lisboa e para a Associação da Bolsa de Derivados do Porto.
 
-###### Artigo 39.º — Ilícitos de mera ordenação social
+Artigo 39.º
+
+Ilícitos de mera ordenação social
 
 À violação dos deveres consagrados neste diploma e ao respectivo processo aplica-se o disposto no Código dos Valores Mobiliários para os ilícitos de mera ordenação social.»
 
@@ -450,15 +508,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins.
 
-**Promulgado em 10 de Janeiro de 2002.**
+Promulgado em 10 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Janeiro de 2002.**
+Referendado em 14 de Janeiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — [Decreto-Lei n.º 349/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1999-582664), de 13 de Outubro
 
@@ -466,7 +524,9 @@ Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 2001. - António 
 
 ## TÍTULO I — Sociedades gestoras de mercado regulamentado
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Natureza e regime jurídico
 

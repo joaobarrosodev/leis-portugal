@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/03/06000/0170601714.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/41/2019/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4867620d873b9a6d55619182b1df2fc1ed7f530979cb1834f0ec4d53b7f67ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 160bbc056ce16669a5ad1491d323aec9bad0c480c3941875ffd55f9f97a33490
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Base de Dados
 - Comparticipação do Estado
 - Contrato Programa
 - Definição de Competências
+- Desporto
 - Dívidas à Segurança Social
 - Dívidas ao Estado
-- Base de Dados
+- Financiamento
 - Instituto Português do Desporto e Juventude
-- Publicitação
 - Página na Internet
-- Sistema de Informação
+- Publicitação
 - Reembolso
 - Regime Jurídico
 - Retenção na Fonte
-- Desporto
+- Sistema de Informação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/2007/04/19/p/dre
@@ -105,16 +105,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/2013/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/2013/09/06/p/dre
+- type: cites
+  target: pt:dre:108063582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522787:por
+  label: null
+  source: null
 article_structure:
-  article_count: 53
+  article_count: 40
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:14Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +197,9 @@ e) [...].
 
 4 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -183,7 +209,9 @@ e) [...].
 
 4 - [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Os contratos-programa entram em vigor na data da sua publicitação na página eletrónica das entidades concedentes dos apoios.
 
@@ -191,7 +219,9 @@ e) [...].
 
 3 - A comparticipação estabelecida no contrato-programa abrange a totalidade do programa desportivo a apoiar, independentemente da data do seu início.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]:
 
@@ -219,7 +249,9 @@ j) [...].
 
 3 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -229,29 +261,39 @@ j) [...].
 
 4 - Sem prejuízo do disposto no artigo 29.º, a violação do presente artigo constitui a entidade beneficiária na obrigação de restituição à entidade concedente do montante correspondente à parte que ultrapassa a limitação indicada no n.º 1.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Os contratos-programa podem ser outorgados para vigorarem por mais de um ano económico, até ao limite de quatro anos, com especificação dos montantes que devam ser anualmente liquidados ao respetivo beneficiário.
 
 2 - [...].
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 Em caso de suspensão do estatuto de utilidade pública desportiva, os apoios decorrentes de contratos-programa de desenvolvimento desportivo, a que a federação desportiva em causa teria direito, são reduzidos em montante proporcional ao período da suspensão, sendo esse valor integrado no orçamento de funcionamento do IPDJ, I. P.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...].
 
 2 - Tratando-se de apoios financeiros decorrentes de contratos-programa de desenvolvimento desportivo, a que a federação desportiva em causa teria direito, são os mesmos reduzidos em montante proporcional ao período da suspensão, sendo esse valor integrado no orçamento de funcionamento do IPDJ, I. P.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Não podem beneficiar de novos apoios financeiros por parte do Estado, das Regiões Autónomas e das autarquias locais, as entidades que se encontram em situação de incumprimento das suas obrigações fiscais, para com a segurança social ou decorrentes de contratos-programa anteriores ou em vigor, sendo suspensos os apoios decorrentes de quaisquer contratos-programa em curso enquanto a situação se mantiver.
 
 2 - Para efeitos do disposto no número anterior, a entidade que pretende beneficiar de apoios financeiros deve prestar consentimento expresso para a consulta da respetiva situação tributária e contributiva pelos serviços da entidade concedente, nos termos previstos no n.º 1 do artigo 4.º do [Decreto-Lei n.º 114/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2007-519402), de 19 de abril, na sua redação atual.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]:
 
@@ -265,13 +307,17 @@ d) [...];
 
 2 - [...].
 
-###### Artigo 27.º — Publicitação dos contratos
+Artigo 27.º
+
+Publicitação dos contratos
 
 1 - Os contratos-programa e os contratos de patrocínio desportivo, assim como os respetivos anexos, são publicitados na página eletrónica das entidades concedentes dos apoios.
 
 2 - (Revogado.)
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...].
 
@@ -279,13 +325,17 @@ d) [...];
 
 3 - [...].
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...].
 
 2 - A reposição das quantias a que se refere o número anterior pode ser efetuada mediante a retenção, pelas entidades concedentes do apoio, de verbas afetas a esse ou outros contratos-programa de desenvolvimento desportivo, celebrados pela mesma entidade, desde que não se coloquem em causa os fins essenciais dos mesmos.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - O IPDJ, I. P., organiza e mantém uma base de dados interministerial que centralize a totalidade dos apoios concedidos por entidades públicas às entidades desportivas, nos termos a definir por portaria do membro do Governo responsável pela área do desporto.
 
@@ -305,13 +355,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de fevereiro de 2019. - António Luís Santos da Costa - Maria de Fátima de Jesus Fonseca - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva.
 
-**Promulgado em 19 de março de 2019.**
+Promulgado em 19 de março de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de março de 2019.**
+Referendado em 21 de março de 2019.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
 
@@ -638,3 +688,5 @@ O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeir
 ###### Artigo 35.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+112164737

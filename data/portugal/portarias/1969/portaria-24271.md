@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24271-1969-214759
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a965f80fdf7879fd6f39ea218ff7a71de3afe2e4973e896e75fbde19c1d6e67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3597f1619c9454d6c0e36781f066f932be5c19655e1a6a35338e0fc89632f2c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:470018:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:50Z'
   warnings: []
   errors: []
 ---
@@ -85,10 +89,10 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Previdência Social, que os artigos 18.º e 30.º do Regulamento dos Exames do Instituto de Estudos Sociais, aprovado pela [Portaria n.º 20407](https://diariodarepublica.pt/dr/detalhe/portaria/20407-1964-470018), de 2 de Março de 1964, passem a ter a seguinte redacção:
 
-###### Art. 18.º Podem requerer exames na segunda época os alunos que não se tenham apresentado a exame na primeira época, hajam desistido durante as provas ou sido reprovados. O número de disciplinas, a que os alunos se poderão apresentar a exame na segunda época, será fixado por despacho do Ministro das Corporações e Previdência Social.
+Art. 18.º Podem requerer exames na segunda época os alunos que não se tenham apresentado a exame na primeira época, hajam desistido durante as provas ou sido reprovados. O número de disciplinas, a que os alunos se poderão apresentar a exame na segunda época, será fixado por despacho do Ministro das Corporações e Previdência Social.
 
 ...
 
-###### Art. 30.º Os alunos chamados a prestar serviço militar obrigatório gozarão de um regime especial de benefícios em relação aos exames e às matrículas.
+Art. 30.º Os alunos chamados a prestar serviço militar obrigatório gozarão de um regime especial de benefícios em relação aos exames e às matrículas.
 
 Ministério das Corporações e Previdência Social, 6 de Setembro de 1969. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença.

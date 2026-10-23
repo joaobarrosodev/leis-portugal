@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 300/1986, 11º Suplemento, Série I de 1986-12-31
   number: '300'
   series: I
-  supplement: 11º Suplemento
+  supplement: null
   pages: 3874-(543) a 3874-(553)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/30011/05430553.pdf
 entry_into_force_dates: []
@@ -47,40 +47,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/76-1986-627248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c22abe025daaff26d0e64ae709f223bf697dc8dd05bf557f1c0bd20d368c718f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ad7141a3b1d6b268c39a17ce41959e9afde1ac7820d54761e7e0a6e836e6e5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjudicação
+- Atribuição de Verba
+- Bingo
+- Concurso
+- Crime
+- Definição de Competências
+- Direito de Acesso
+- Estabelecimento de Jogos
+- Fiscalização
+- Garantia
+- Gratificação
+- Inspecção Geral de Jogos
+- Jogos de Fortuna e Azar
+- Licenciamento
+- Multa
+- Pessoal dos Casinos
+- Receita
+- Regime Jurídico
+- ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:279439:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:566194:por
+  label: "Alterado o art. 26º pelo DR.34/90.1990.11.03.MCT, DR.IS [300]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/34-1990-566194
+  date: '1990-11-03'
+- type: amended_by
+  target: pt:dre:376808:por
+  label: "Alterados os arts. 5º, 26º (este com a redacção constante do DR 34/90 de 03-Nov) e 35º pelo DR.19/93.1993.07.05.MCT,\
+    \ DR.IS-B [155]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/19-1993-376808
+  date: '1993-07-05'
+- type: cites
+  target: pt:dre:326945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531808:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:689375:por
+  label: Rectificado o art. único do DR 34/90 de 03-Nov, na redacção que conferiu aos nºs 14 e 15 do art. 26º do presente
+    diploma, pela DECL.DD3107.30.11.1990.PCM, DR.IS [277-3ºSupl] de 30.11.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-689375
+  date: '1990-11-30'
+- type: repealed_by
+  target: pt:dre:692421:por
+  label: "Revogado pelo DEC LEI.314/95.1995.11.24.MCT, DR.IS-A [272], com a redacção que lhe foi dada pelos DR 34/90 de 30-Nov\
+    \ e 19/93 de 05-Jul, bem como os diplomas que o regulamentam, mantido, no entanto, em vigor os nºs 1 e 2 do seu art. 16º,\
+    \ até a entrada em vigor do DR a que se refere o nº 1 do art. 18º do REJB\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/314-1995-692421
+  date: '1995-11-24'
+- type: repealed_by
+  target: pt:dre:279439:por
+  label: "Revogados os nºs. 1 e 2 do art. 16º pelo DEC LEI.31/2011.04.03.2011.MEID, DR.IS [45] de 04.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2011-279439
+  date: '2011-03-04'
 article_structure:
   article_count: 46
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:06Z'
   warnings: []
   errors: []
 ---
@@ -703,12 +767,12 @@ Fica revogado o [Decreto Regulamentar n.º 41/82](https://diariodarepublica.pt/d
 
 Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 26 de Dezembro de 1986.**
+Promulgado em 26 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Dezembro de 1986.**
+Referendado em 30 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

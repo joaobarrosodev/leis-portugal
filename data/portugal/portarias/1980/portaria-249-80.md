@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/249-1980-473947
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 982ed8e7b9e3fba9c3e994547f1d1c5edd07b1ea5f4fcc8444dab969d20869b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa5b05c4a7675b8a339f4999652ad1ad270f329bb20c92aa450dd67dc42589be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ministério das Finanças e do Plano
+- Pessoal Auxiliar
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:367263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527050:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:17Z'
   warnings: []
   errors: []
 ---
@@ -88,6 +107,6 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano
 
 O quadro de pessoal auxiliar privativo do Gabinete do Ministro das Finanças e do Plano, a que se refere o artigo 8.º do [Decreto-Lei n.º 28671](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28671-1938-367263), de 19 de Maio de 1938, o [Decreto-Lei n.º 38089](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38089-1950-490200), de 15 de Dezembro de 1950, e o [Decreto-Lei n.º 39119](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39119-1953-527050), de 2 de Março de 1953, passa a ser o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/11200/09660966.pdf))](https://files.diariodarepublica.pt/1s/1980/05/11200/09660966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/11200/09660966.pdf)
 
 Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 6 de Maio de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.

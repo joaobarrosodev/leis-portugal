@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/200/1996/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1996-226203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:45:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8aadde74be6588b50772e6a41b9db734640d84d037e92bccc3fe86741415cac8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99402f90f55f1e3ffbf16fa48d73a46c381d54b4750f8fd62752364d47b5a397
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:45:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crédito Fiscal por Investimento
+- Benefícios Fiscais
 - Contribuições e Impostos
+- Crédito Fiscal por Investimento
 - Investimento
 - IRC
-- Prorrogação de Prazo
 - Microempresa
+- Prorrogação de Prazo
 - Região Desfavorecida
-- Benefícios Fiscais
 relationships:
 - type: amended_by
   target: pt:dre:583042:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:583042:por
+  label: "Prorrogado, relativamente ao investimento adicional relevante efectuado em 1997 e 1998, o regime do crédito fiscal\
+    \ ao investimento estabelecido no Dec-Lei 121/95 de 31-Mai, com a redacção dada pelo presente diploma, pela LEI.52-C/96.1996.12.27.AR\
+    \ DR.IS-A [299]3ºSupl (OE 1997 - Art 49º)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-c-1996-583042
+  date: '1996-12-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/1995/05/31/p/dre
   label: null
@@ -88,16 +95,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527410:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:45:27Z'
   warnings: []
   errors: []
 ---
@@ -132,12 +147,12 @@ O elenco das regiões menos desenvolvidas a que se refere o artigo 2.º será fi
 
 Visto e aprovado em Conselho de Ministros de 12 de Setembro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus.
 
-**Promulgado em 4 de Outubro de 1996.**
+Promulgado em 4 de Outubro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Outubro de 1996.**
+Referendado em 10 de Outubro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

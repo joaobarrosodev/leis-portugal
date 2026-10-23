@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21189-1965-238631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:58:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c36d9200321456fa0631ebffd7633c48e51e170e3c749506b8468f396fbe6d2c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12ab22aa953226a51d0e5d356ceb7e4c55ce33c8d8106481058b02700e0c0d68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:58:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,24 @@ relationships:
   target: pt:dre:472318:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:469867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535977:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:58:03Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +103,11 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comérci
 
 a) Preços a pagar aos apanhadores, por quilograma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/03/06600/03480349.pdf))](https://files.diariodarepublica.pt/1s/1965/03/06600/03480349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/03/06600/03480349.pdf)
 
 b) Preços de venda à indústria nacional, por quilograma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/03/06600/03480349.pdf))](https://files.diariodarepublica.pt/1s/1965/03/06600/03480349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/03/06600/03480349.pdf)
 
 2.º Os preços de venda à indústria entendem-se para as plantas marinhas entregues à porta dos armazéns da Junta, em fardos atados com arame zincado.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/08/16800/0000600008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/52/2024/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2024-886311869
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1b440a1da5314a2157c6c42a56fc74c6c723eaff4bbc1944726b78e2d3892f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f40b842e99e25c4ecc0aab83611cf8b25b7899faa30bdffaf379f07f9266afd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Bens e Serviços
-- Obra de Arte
-- Inspecção Geral das Actividades Culturais
 - Criação de Serviços
 - Fiscalização
-- Museus e Monumentos de Portugal
 - Fundo para a Aquisição de Bens Culturais
+- Inspecção Geral das Actividades Culturais
+- Museus e Monumentos de Portugal
+- Obra de Arte
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/79/2023/09/04/p/dre
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/151/2015/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/151/2015/09/11/p/dre
+- type: cites
+  target: pt:dre:221225700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262477:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:43Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +143,7 @@ d) Os rendimentos provenientes da aplicação financeira dos seus capitais;
 
 e) Quaisquer outros meios financeiros que lhe venham a ser atribuídos ou consignados por lei ou por negócio jurídico.
 
-2 - A afetação dos impostos constante da alínea b) do número anterior está sujeita aos limites constantes dos n.<sup>os</sup>2 e 3 do artigo 16.º da Lei de Enquadramento Orçamental, aprovada pela [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro, na sua redação atual.
+2 - A afetação dos impostos constante da alínea b) do número anterior está sujeita aos limites constantes dos n.os2 e 3 do artigo 16.º da Lei de Enquadramento Orçamental, aprovada pela [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro, na sua redação atual.
 
 3 - O reforço do Fundo, para além das verbas previstas no n.º 1, carece de autorização conjunta dos membros do Governo responsáveis pela área das finanças e da cultura, em função da execução orçamental e da avaliação do seu impacto.
 
@@ -197,12 +205,14 @@ O presente decreto-lei entra em vigor no dia 1 de janeiro de 2025.
 
 Visto e aprovado em Conselho de Ministros de 8 de agosto de 2024. - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - Dalila Rodrigues.
 
-**Promulgado em 22 de agosto de 2024.**
+Promulgado em 22 de agosto de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de agosto de 2024.**
+Referendado em 23 de agosto de 2024.
 
 Pelo Primeiro-Ministro, Paulo Artur dos Santos de Castro de Campos Rangel, Ministro de Estado e dos Negócios Estrangeiros.
+
+118062688

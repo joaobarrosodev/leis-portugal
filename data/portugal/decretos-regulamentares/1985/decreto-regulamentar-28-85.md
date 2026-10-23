@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 106/1985, 1º Suplemento, Série I de 1985-05-09
   number: '106'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1276-(7) a 1276-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/10601/00070008.pdf
 entry_into_force_dates: []
@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1985-546825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:11:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19e8c9808bfd70bd5fcd5fc65ea233d96595263fcd31b460a1074cf0287d1e97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af8a416fab59d986a09f3efd11e142f973b5b5c1d6f67628449d5e50b0e83c1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:11:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código da Estrada
+- Limite de Velocidade
+relationships:
+- type: cites
+  target: pt:dre:427393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:11:10Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +107,7 @@ Assim, ao abrigo do disposto no § único do artigo 1.º do [Decreto-Lei n.º 39
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 7.º do Código da Estrada passa a ter a seguinte redacção:
+Artigo 1.º O artigo 7.º do Código da Estrada passa a ter a seguinte redacção:
 
 1 - ...
 
@@ -105,38 +115,38 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 3 - Os veículos automóveis, além das restrições constantes do número anterior, estão sujeitos aos limites máximos de velocidade a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/05/10601/00070008.pdf))](https://files.diariodarepublica.pt/1s/1985/05/10601/00070008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/05/10601/00070008.pdf)
 
 4 - Nas auto-estradas os veículos automóveis estão sujeitos aos limites máximos de velocidade instantânea a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/05/10601/00070008.pdf))](https://files.diariodarepublica.pt/1s/1985/05/10601/00070008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/05/10601/00070008.pdf)
 
 O limite mínimo de velocidade instantânea permitido nas auto-estradas, salvo em caso de sinalização especial, será de 40 km/h.
 
 ...
 
-###### Art. 2.º A Direcção-Geral de Viação poderá fixar valores inferiores aos estabelecidos no n.º 3 do artigo 7.º do Código da Estrada para as velocidades máximas instantâneas de determinados veículos, cujas características técnicas o revelem aconselhável, devendo tais veículos possuir, à frente e à retaguarda, inscritos, em chapa, reproduzida no anexo 1 a este diploma, esses limites, a qual deverá obedecer a todas as prescrições constantes do n.º 9 do artigo 14.º do Regulamento do Código da Estrada, à excepção da cor do fundo, que deverá ser verde e os números em branco.
+Art. 2.º A Direcção-Geral de Viação poderá fixar valores inferiores aos estabelecidos no n.º 3 do artigo 7.º do Código da Estrada para as velocidades máximas instantâneas de determinados veículos, cujas características técnicas o revelem aconselhável, devendo tais veículos possuir, à frente e à retaguarda, inscritos, em chapa, reproduzida no anexo 1 a este diploma, esses limites, a qual deverá obedecer a todas as prescrições constantes do n.º 9 do artigo 14.º do Regulamento do Código da Estrada, à excepção da cor do fundo, que deverá ser verde e os números em branco.
 
 As referidas chapas deverão ser colocadas em posição sensivelmente vertical e perpendicular ao plano médio do veículo e por forma a não ficarem em qualquer circunstância total ou parcialmente encobertas ou prejudicarem a visibilidade do condutor:À retaguarda, do lado esquerdo;
 
 À frente, do lado direito.
 
-###### Art. 3.º No uso da competência que lhe é atribuída pelo n.º 8 do artigo 7.º do Código da Estrada, o director-geral de Viação fixará limites máximos superiores aos constantes no n.º 3 da mesma disposição, através de despacho publicado no Diário da República, 2.ª série, devendo a Junta Autónoma de Estradas ou as câmaras municipais implementar a sinalização adequada no prazo de 30 dias.
+Art. 3.º No uso da competência que lhe é atribuída pelo n.º 8 do artigo 7.º do Código da Estrada, o director-geral de Viação fixará limites máximos superiores aos constantes no n.º 3 da mesma disposição, através de despacho publicado no Diário da República, 2.ª série, devendo a Junta Autónoma de Estradas ou as câmaras municipais implementar a sinalização adequada no prazo de 30 dias.
 
-###### Art. 4.º Fica revogada a [Portaria n.º 332/76](https://diariodarepublica.pt/dr/detalhe/portaria/332-1976-427393), de 3 de Junho.
+Art. 4.º Fica revogada a [Portaria n.º 332/76](https://diariodarepublica.pt/dr/detalhe/portaria/332-1976-427393), de 3 de Junho.
 
-###### Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Mário Soares - Rui Manuel Parente Chancerelle de Machete - Carlos Montez Melancia.
 
-**Promulgado em 3 de Abril de 1985.**
+Promulgado em 3 de Abril de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 4 de Abril de 1985.**
+Referendado em 4 de Abril de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-## ANEXO 1 — [([ver documento original](https://files.diariodarepublica.pt/1s/1985/05/10601/00070008.pdf))](https://files.diariodarepublica.pt/1s/1985/05/10601/00070008.pdf)
+## ANEXO 1 — [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/05/10601/00070008.pdf)

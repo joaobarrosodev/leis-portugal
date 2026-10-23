@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/120/2004/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 988008e6608b970e3c59e88625601e7f5b91965e692b341bb77aa6d7b3fcdce7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81a026140ff81795cc46f9db2acea9eb24e01117af67356bf980b95e0c3ee1a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,38 @@ reuse:
 subjects:
 - Compensação Remuneratória
 - Conselho de Patronos
-- Língua Portuguesa
-- Moçambique
+- Conselho Diretivo
 - Definição de Competências
 - Ensino Português no Estrangeiro
 - Escola Portuguesa de Moçambique-Centro de Ensino e Língua Portuguesa
-- Conselho Diretivo
-- Orgânica
-- Pessoal não Docente
 - Estabelecimento de Ensino
+- Língua Portuguesa
+- Moçambique
+- Orgânica
 - Pessoal Docente
+- Pessoal não Docente
 relationships:
 - type: amended_by
   target: pt:dre:70402846:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:602029:por
+  label: "Alterados os arts. 5.º, 5.º-A, 6.º, 8.º, 9.º-A, 15.º, 16.º, todos do Decreto-Lei n.º 241/99 de 25-Jun, na redacção\
+    \ do presente diploma, republicado com a redacção actual pelo DEC LEI.47/2009.23.02.2009.ME, DR.IS [37] de 23.02.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-2009-602029
+  date: '2009-02-23'
+- type: amended_by
+  target: pt:dre:70402846:por
+  label: Alterados os arts 1.º, 2.º, 5.º, 6.º, 7.º, 8.º, 9.º-A a 9.º-E, 13.º, 14.º, 15.º, 15.º-A, 16.º, 22.º e 24.º-A (todos
+    na redação do presente decreto-lei), aditado o art 21.º-A, alterado o capítulo VI (na redação do presente decreto-lei),
+    que passa a ser composto pelos artigos 21.º-A a 25.º, e revogados o art 9.º, o n.º 2 do art 9.º-D, os n.os 2 e 3 do art
+    14.º, os n.os 4 a 13 do art 15.º, o n.º 4 do art 15.º-A e o n.º 3 do art 22.º (todos na redação do presente decreto-lei)
+    do Dec Lei n.º 241/99 de 25-jul, pelo(a) Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29,
+    que o republica em anexo
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2015-70402846
+  date: '2015-09-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/177/2002/07/31/p/dre
   label: null
@@ -99,16 +116,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/367/1998/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/367/1998/06/29/p/dre
+- type: cites
+  target: pt:dre:196972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:278972:por
+  label: "Rectificado pela DECL-RECT.47/2004.27.05.2004.PCM, DR.IS-A [134] de 08.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/47-2004-278972
+  date: '2004-05-27'
 article_structure:
-  article_count: 40
+  article_count: 31
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:18Z'
   warnings: []
   errors: []
 ---
@@ -151,11 +189,15 @@ e) ...
 
 f) [Anterior alínea g).]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 Os princípios e as normas que estabelecem a organização interna da Escola são definidos nos seus estatutos, aprovados por portaria conjunta dos Ministérios das Finanças, dos Negócios Estrangeiros e da Educação.
 
-###### Artigo 6.º — Conselho de patronos
+Artigo 6.º
+
+Conselho de patronos
 
 O conselho de patronos é constituído por cinco elementos designados da seguinte forma:
 
@@ -167,7 +209,9 @@ c) Um representante da Comunidade Portuguesa em Moçambique, indicado pelo Minis
 
 d) Um representante da Associação de Pais dos Alunos da Escola ou de quem os represente.
 
-###### Artigo 7.º — Competências
+Artigo 7.º
+
+Competências
 
 O conselho de patronos é um órgão consultivo da Escola, competindo-lhe apoiar e participar na definição das linhas orientadoras da Escola e nas tomadas de decisão do conselho directivo, em especial:
 
@@ -189,7 +233,9 @@ vii) O regulamento interno da Escola;
 
 b) [Anterior alínea h) do artigo 7.º]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -199,13 +245,17 @@ b) [Anterior alínea h) do artigo 7.º]
 
 4 - A duração do mandato de cada elemento do conselho de patronos é de três anos, podendo o mesmo ser renovado.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
 2 - Aos membros referidos no número anterior aplica-se a lei geral da função pública em matéria de abono de despesas de transporte e de ajudas de custo.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -227,7 +277,9 @@ b) Residência para compensar as diferenças de custo de vida entre Portugal e M
 
 8 - É aplicável ao pessoal não docente, com as devidas adaptações, o disposto nos anteriores n.os 3, 4, 5, 6 e 7.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 O pessoal da Escola a que se referem os artigos anteriores não pode ultrapassar a dotação fixada em mapa a aprovar por despacho conjunto dos Ministros das Finanças e da tutela.»
 
@@ -239,7 +291,9 @@ São aditados os artigos 5.º-A e 9.º-A ao [Decreto-Lei n.º 241/99](https://di
 
 Órgãos, composição e competências
 
-###### Artigo 5.º-A — Órgãos
+Artigo 5.º-A
+
+Órgãos
 
 Sem prejuízo da estrutura que vier a ser definida no diploma a que se refere o artigo anterior, a Escola dispõe de:
 
@@ -247,7 +301,9 @@ a) Um conselho de patronos;
 
 b) Um conselho directivo.
 
-###### Artigo 9.º-A — Conselho directivo
+Artigo 9.º-A
+
+Conselho directivo
 
 1 - A direcção da Escola é composta por um presidente e dois vogais, nomeados, em comissão de serviço, por despacho conjunto do Primeiro-Ministro e dos Ministros dos Negócios Estrangeiros e da Educação, por um período de três anos, renovável.
 
@@ -263,15 +319,15 @@ O [Decreto-Lei n.º 241/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 Visto e aprovado em Conselho de Ministros de 24 de Março de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - José David Gomes Justino.
 
-**Promulgado em 10 de Maio de 2004.**
+Promulgado em 10 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Maio de 2004.**
+Referendado em 12 de Maio de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — [Decreto-Lei n.º 241/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1999-393007)
 

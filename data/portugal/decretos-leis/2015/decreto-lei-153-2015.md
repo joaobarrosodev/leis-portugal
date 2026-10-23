@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15300/0550805513.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/153/2015/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2015-69968711
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45ee6f1a8cf079c74e0ccbbd3bc24d4d7660525faf32a239b0fd5baeb4c0765f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0385ec3726299edc09b2130eb55b9515119a9cb940c4e744250e0c9f08e04c19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Apoio Administrativo
-- Reestruturação de Serviços
-- Pessoal Dirigente
 - Definição de Competências
-- Secretaria Geral
-- Ministério do Ambiente Ordenamento do Território e Energia
-- Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
 - Direção Geral do Território
+- Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Ministério do Ambiente Ordenamento do Território e Energia
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:204379871:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117202785:por
+  label: Alterados, a partir de 02.04.2019, os arts. 2.º e 7.º do Dec Lei 23/2012 de 01-fev, na versão alterada e republicada
+    pelo presente diploma, pelo(a) Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
+- type: amended_by
+  target: pt:dre:145440390:por
+  label: Alterado, com efeitos a 16.10.2020, o art. 2.º do Dec Lei 23/2012, de 01-fev, na versão republicada pelo presente
+    diploma, pelo(a) Decreto-Lei n.º 87/2020 - Diário da República n.º 201/2020, Série I de 2020-10-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-2020-145440390
+  date: '2020-10-15'
 - type: cites
   target: celex:32013R1306
   label: null
@@ -118,16 +130,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:25343980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636412:por
+  label: null
+  source: null
 article_structure:
-  article_count: 37
+  article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:15Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +206,9 @@ Os artigos 1.º, 2.º, 4.º, 6.º, 7.º, 10.º e 11.º do [Decreto-Lei n.º 23/2
 
 A Inspeção-geral dos Ministérios do Ambiente, Ordenamento do Território e Energia e da Agricultura e do Mar, abreviadamente designada IGAMAOT, é um serviço central da administração direta do Estado, dotado de autonomia administrativa.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - A IGAMAOT tem por missão avaliar o desempenho e a gestão dos serviços e organismos do Ministério do Ambiente, Ordenamento do Território e Energia (MAOTE) e do Ministério da Agricultura e do Mar (MAM), ou sujeitos à tutela dos respetivos ministros, através de ações de auditoria e controlo, bem como assegurar o permanente acompanhamento e avaliação do cumprimento da legalidade nas áreas do ambiente, do ordenamento do território e da conservação da natureza e, ainda, exercer o controlo e auditoria no âmbito da segurança alimentar e o controlo de apoios financiados por fundos nacionais e da União Europeia, a favor da agricultura, das florestas, do desenvolvimento rural e da política do mar.
 
@@ -202,7 +248,9 @@ p) Assegurar o acompanhamento das missões de controlo da União Europeia, no â
 
 q) Coordenar a representação nacional na Rede Europeia para a implementação e aplicação da legislação ambiental vigente (IMPEL - European Union Network for the Implementation and Enforcement of Environmental Law).
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]:
 
@@ -214,11 +262,15 @@ c) [...].
 
 2 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 A organização interna da IGAMAOT obedece ao modelo de estrutura matricial.
 
-###### Artigo 7.º — Estatuto remuneratório dos chefes de equipas multidisciplinares
+Artigo 7.º
+
+Estatuto remuneratório dos chefes de equipas multidisciplinares
 
 1 - [Revogado].
 
@@ -226,11 +278,15 @@ A organização interna da IGAMAOT obedece ao modelo de estrutura matricial.
 
 3 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Os lugares de direção superior de 1.º e 2.º graus constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Na prossecução da atribuição referida na alínea g) do n.º 2 do artigo 2.º, a IGAMAOT tem a natureza de órgão de polícia criminal, atuando no processo sob direção e na dependência funcional da autoridade judiciária competente.
 
@@ -272,7 +328,9 @@ Os artigos 3.º e 6.º do [Decreto Regulamentar n.º 30/2012](https://diariodare
 
 2 - Junto da DGT funcionam a Comissão Nacional da Reserva Ecológica Nacional, o Conselho Coordenador de Cartografia e o Observatório do Ordenamento do Território e do Urbanismo.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 [...]:
 
@@ -322,15 +380,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de junho de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Anabela Maria Pinto de Miranda Rodrigues - Paula Maria von Hafe Teixeira da Cruz - Jorge Manuel Lopes Moreira da Silva - José Diogo Santiago de Albuquerque.
 
-**Promulgado em 30 de julho de 2015.**
+Promulgado em 30 de julho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de agosto de 2015.**
+Referendado em 3 de agosto de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -340,7 +398,7 @@ Visto e aprovado em Conselho de Ministros de 18 de junho de 2015. - Pedro Passos
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15300/0550805513.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15300/0550805513.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15300/0550805513.pdf)»
 
 ## ANEXO II — (a que se refere o artigo 5.º)
 
@@ -350,7 +408,7 @@ Mapa de pessoal dirigente
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15300/0550805513.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15300/0550805513.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15300/0550805513.pdf)»
 
 ## ANEXO III — (a que se refere o artigo 7.º)
 
@@ -360,7 +418,7 @@ Mapa de pessoal dirigente
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15300/0550805513.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15300/0550805513.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15300/0550805513.pdf)»
 
 ## ANEXO IV — (a que se refere o artigo 13.º)
 
@@ -514,4 +572,4 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15300/0550805513.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15300/0550805513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15300/0550805513.pdf)

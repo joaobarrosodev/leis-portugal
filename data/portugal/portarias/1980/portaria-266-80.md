@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/266-1980-474132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2254fa2ceaebf98c6849e8a6b066cd2a1e75a5904a0f4d2107aeaf2d50f4612
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d04d91e6fa13e2eb294170d921729cad8b65e998227d263082b0dde80b63bd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bélgica
+- Bruxelas
+- Consulado
+- Extinção de Serviços
+relationships:
+- type: amended_by
+  target: pt:dre:1491561:por
+  label: "Extinto o Consulado Honorário de Portugal em Gent (Gand), Bélgica, pelo DESP.18297/2009.07.08.2009.MNE, DR.IIS [152]\
+    \ de 07.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/18297-2009-1491561
+  date: '2009-08-07'
+- type: cites
+  target: pt:dre:235275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:03Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +107,7 @@ Manda o Governo da República Portuguesa, pelo Ministro dos Negócios Estrangeir
 
 22) Distrito consular de Bruxelas:
 
-#### Secção consular da Embaixada em Bruxelas - província de Brabante e província de Namur;
+Secção consular da Embaixada em Bruxelas - província de Brabante e província de Namur;
 
 Consulado honorário em Liège - província de Liège, com excepção do arrondissement de Verviers, e província do Luxemburgo, com excepção do arrondissement de Bastogne;
 

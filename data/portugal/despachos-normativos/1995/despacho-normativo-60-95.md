@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/60/1995/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/60-1995-663280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T08:28:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f09ca35656ddcb017ba4275f1ff49a78d7f04a297dc361b1daad2efa7941c2b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2366ed2c4fee880e11483933ab2ee567dd2a110681aaf9ecb1de751e17cf74fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:28:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
 subjects:
 - Ensino Cooperativo
 - Ensino Particular
+- Ensino Superior
 - Estudante
+- Matrícula
 - Propinas
 - Regulamento
-- Ensino Superior
 - Subsídio de Estudos
 - Universidade Católica Portuguêsa
-- Matrícula
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
@@ -104,16 +104,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/1994/03/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/1994/03/14/p/dre
+- type: cites
+  target: pt:dre:219949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664892:por
+  label: null
+  source: null
 article_structure:
   article_count: 29
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:28:58Z'
   warnings: []
   errors: []
 ---

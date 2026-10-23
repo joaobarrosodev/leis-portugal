@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/06000/0000200006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/21/2023/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2023-210923317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7abf77ab947d96cd549f5f5b79c5bf5fbc577888257747bd402f5044d963c9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49b6b8ac4aba2a0ecd552028e6ec23bcf4cc61ebeb7ba3aaad838e17b523e3a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Autoridade Tributária e Aduaneira
-- Interconexão de Dados
+- Base de Dados
 - Cadastro Comercial
-- Estabelecimento Comercial
+- Comércio
 - Comunicações Eletrónicas
-- Instituto dos Registos e do Notariado
 - Definição de Competências
 - Direção Geral das Atividades Económicas
+- Estabelecimento Comercial
 - Estabelecimento de Bebidas
 - Estabelecimento de Restauração
-- Administração Pública
-- Base de Dados
-- Segurança da Informação
+- Infraestrutura Turística
+- Instituto dos Registos e do Notariado
+- Interconexão de Dados
+- Plataforma de Interoperabilidade da Administração Pública
+- Plataforma Eletrónica
 - Prestação de Serviços
 - Reposição de Verbas
-- Comércio
-- Infraestrutura Turística
-- Plataforma Eletrónica
-- Plataforma de Interoperabilidade da Administração Pública
+- Segurança da Informação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2015/01/16/p/dre
@@ -109,16 +109,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
+- type: cites
+  target: pt:dre:108041482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114913768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:33Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +189,9 @@ Os artigos 148.º, 151.º e 152.º do regime jurídico de acesso e exercício a 
 
 A base de dados de registos setoriais de comércio, serviços e restauração, designada por 'Cadastro comercial', é gerida pela DGAE e integra informação sobre atividades e estabelecimentos de comércio, serviços e restauração ou de bebidas identificadas no anexo ii ao presente decreto-lei e do qual é parte integrante.
 
-###### Artigo 151.º — [...]
+Artigo 151.º
+
+[...]
 
 [...]:
 
@@ -175,7 +205,9 @@ d) O início, alteração e cessação da atividade e códigos de classificaçã
 
 e) Informação sobre a instalação, modificação, caracterização e encerramento de estabelecimentos em território nacional, incluindo a sua localização e georreferenciação, quando exista.
 
-###### Artigo 152.º — [...]
+Artigo 152.º
+
+[...]
 
 1 - O cadastro comercial é alimentado com informação das permissões administrativas, das meras comunicações prévias, das comunicações obrigatórias, das informações obtidas pelas entidades com poder de fiscalização, bem como com informação na posse de outros organismos da Administração Pública, através da comunicação dessa informação à DGAE, ou permissão para consulta das respetivas bases de dados, realizada através da Plataforma de Interoperabilidade da Administração Pública, garantindo-se um aproveitamento máximo da informação, meios, infraestruturas e custos.
 
@@ -245,15 +277,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de março de 2023. - António Luís Santos da Costa - José Luís Pereira Carneiro - Catarina Teresa Rola Sarmento e Castro - Fernando Medina Maciel Almeida Correia - António José da Costa Silva - Elvira Maria Correia Fortunato - João Miguel Marques da Costa - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Manuel Francisco Pizarro de Sampaio e Castro - José Duarte Piteira Rica Silvestre Cordeiro - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
 
-**Promulgado em 21 de março de 2023.**
+Promulgado em 21 de março de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de março de 2023.**
+Referendado em 22 de março de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -314,3 +346,5 @@ As seguintes atividades do artigo 151.º do Código do IRS (CIRS):
 1329 - Massagistas;
 
 1519 - Outros prestadores de serviços.»
+
+116303115

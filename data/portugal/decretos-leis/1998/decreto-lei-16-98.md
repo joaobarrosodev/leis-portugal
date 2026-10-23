@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/16/1998/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1998-224664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:57:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d786177160d8bb4673757f15f2f05764c2281d01f2b04f8ad29e12496a842bf9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cb13b33cd18f9df7bc3c2aa6bd8751f1d3d53c1796d5d52fdc23a1861e7c501
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:57:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho Consultivo para a Cooperação Económica e Empresarial
-- Política de Cooperação
+- Cooperação Económica
 - Criação de Serviços
 - Definição de Competências
+- Desenvolvimento Económico
 - Fundo para a Cooperação Económica
 - Palop
-- Desenvolvimento Económico
-- Cooperação Económica
+- Política de Cooperação
 relationships:
 - type: amended_by
   target: pt:dre:545648:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545648:por
+  label: "Extinto, sem qualquer transferência de competências, o Conselho Consultivo e Empresarial criado pelo presente diploma,\
+    \ pelo DEC LEI.204/2006.27.10.2006.MNE, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/204-2006-545648
+  date: '2006-10-27'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:57:43Z'
   warnings: []
   errors: []
 ---
@@ -202,12 +208,12 @@ O regulamento interno do Conselho será aprovado mediante a publicação de port
 
 Visto e aprovado em Conselho de Ministros de 13 de Novembro de 1997. - António Manuel de Oliveira Guterres - Vitalino José Ferreira Prova Canas - Jaime José Matos da Gama - Fernando Teixeira dos Santos - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Promulgado em 6 de Janeiro de 1998.**
+Promulgado em 6 de Janeiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Janeiro de 1998.**
+Referendado em 19 de Janeiro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/31/2008/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2008-247714
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75b8469149e971facf7b8a395b15ea6258f48cd9d66627b948a01426f9e7afba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ed7a93f31c8bc540a76e5531ddd3712dcc0d8101b6df2b564a98e7fdec638af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armazenagem
-- Produto Petrolífero
 - Combustível
-- Fiscalização
 - Direção Geral de Energia e Geologia
+- Fiscalização
 - Licenciamento
 - Posto de Abastecimento de Combustíveis
+- Produto Petrolífero
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:66528824:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:452935:por
+  label: "Alterado o artigo 14.º do Decreto-Lei n.º 267/2002, de 26-Nov, na redacção do presente diploma, e republicado com\
+    \ a redacção actual pelo DEC LEI.195/2008.06.10.2008.MEI, DR.IS [193] de 06.10.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-2008-452935
+  date: '2008-10-06'
+- type: amended_by
+  target: pt:dre:175787:por
+  label: "Alterado o art. 14º do Dec Lei 267/2002, de 26-nov, na redação do presente diploma, pelo DEC LEI.217/2012.09.10.2012.MEE,\
+    \ DR.IS [195] de 09.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-2012-175787
+  date: '2012-10-09'
+- type: amended_by
+  target: pt:dre:66528824:por
+  label: Alterado a partir de 2015-03-18 o art. 18.º do Dec Lei 267/2002, de 26-nov, na redação do presente diploma pelo(a)
+    Lei n.º 15/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2015-66528824
+  date: '2015-02-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/119/1992/06/30/p/dre
   label: null
@@ -96,16 +114,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/389/2007/11/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/389/2007/11/30/p/dre
+- type: cites
+  target: pt:dre:185521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628828:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:37Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +200,9 @@ São alterados os artigos 14.º, 18.º, 19.º, 22.º e 26.º do [Decreto-Lei n.�
 
 6 - O disposto nos n.os 4 e 5 só se aplica às instalações identificadas nos anexos i e ii do presente decreto-lei.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A assinatura dos projectos apresentados a licenciamento, bem como a exploração das instalações, são da responsabilidade de engenheiros ou engenheiros técnicos, com formação adequada, reconhecida pela respectiva associação pública profissional, nos termos previstos no estatuto dos responsáveis técnicos pelo projecto e exploração de instalações de armazenamento de produtos de petróleo e de postos de abastecimentos de combustíveis.
 
@@ -164,7 +212,9 @@ São alterados os artigos 14.º, 18.º, 19.º, 22.º e 26.º do [Decreto-Lei n.�
 
 4 - A portaria prevista no n.º 2 pode definir igualmente os requisitos de formação de base e experiência aplicáveis aos técnicos referidos no número anterior.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -188,7 +238,9 @@ São alterados os artigos 14.º, 18.º, 19.º, 22.º e 26.º do [Decreto-Lei n.�
 
 11 - (Anterior n.º 8.)
 
-###### Artigo 22.º — Taxas
+Artigo 22.º
+
+Taxas
 
 1 - ...
 
@@ -218,7 +270,9 @@ h) Reconhecimento de entidades inspectoras de instalações de combustíveis der
 
 6 - O pagamento da taxa a que se refere o número anterior é devido com a apresentação do pedido e liquidado no prazo de 30 dias após a emissão de guia pela DGEG.
 
-###### Artigo 26.º — Contra-ordenações
+Artigo 26.º
+
+Contra-ordenações
 
 1 - ...
 
@@ -238,12 +292,12 @@ e) O não cumprimento das obrigações previstas no n.º 7 do artigo 19.º
 
 Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 8 de Fevereiro de 2008.**
+Promulgado em 8 de Fevereiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Fevereiro de 2008.**
+Referendado em 12 de Fevereiro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

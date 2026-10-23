@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/169a00/37273731.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/178/1997/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1997-149010
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70276f6bfb8927dec4ac9db75e05316ab777fef226eaefab49ea882c9c2c4c4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a1a4a3aef6f70cf33ceb96b98f752e3c260c9dd5e62907deca92913e42b8351
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Valores Mobiliários
-- Sociedade Comercial
 - Bolsa de Valores
+- CMVM
 - Código do Mercado de Valores Mobiliários
 - Contra-ordenação
 - Fiscalização
 - Mercado de Capitais
 - Mercado de Valores
-- CMVM
+- Sociedade Comercial
 - Sociedade Corretora
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:682983:por
@@ -104,16 +104,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/52-c/1996/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/52-c/1996/12/27/p/dre
+- type: cites
+  target: pt:dre:301411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691046:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:682983:por
+  label: "Revogado, com a entrada em vigor do Código dos Valores Mobiliários (aprovado pelo Dec Lei 486/99, de 13-Nov), pelo\
+    \ DEC LEI.486/99.1999.11.13.MF DR.IS-A [265] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/486-1999-682983
+  date: '1999-11-13'
 article_structure:
-  article_count: 15
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:24Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +186,9 @@ Os artigos 97.º, 100.º, 339.º, 341.º, 342.º, 343.º, 408.º, 429.º, 528.º
 
 3 - As entidades e pessoas referidas nos números anteriores não poderão, nomeadamente pela insuficiência, inexactidão ou falsidade da informação que divulguem, pela falta de rigor ou de fundamento objectivo dos indicadores, previsões ou juízos de valor que dela façam constar, pela forma dúbia ou confusa que revista, pelo modo ou contexto da sua apresentação, pela sua falta de actualidade ou de oportunidade, pela omissão de esclarecimentos necessários para o seu correcto entendimento e avaliação ou por quaisquer outras circunstâncias cujo conhecimento, explicitação ou consideração fosse razoavelmente exigível das mesmas entidades e pessoas, induzir o público em erro sobre a realidade dos factos, situações, actividades, resultados, negócios, perspectivas, valores, taxas de rendimento ou de valorização de capital investido ou quaisquer outras matérias que sejam objecto dessa informação.
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - Nos casos especificados no n.º 2 do presente artigo, o relatório de gestão, o balanço, a demonstração de resultados e os demais documentos de prestação de contas das entidades emitentes de valores mobiliários devem ser acompanhados, além da correspondente certificação legal de contas nos casos aplicáveis, de relatório ou parecer elaborado por auditor registado na CMVM, nos termos dos artigos 103.º e seguintes.
 
@@ -170,7 +202,9 @@ Os artigos 97.º, 100.º, 339.º, 341.º, 342.º, 343.º, 408.º, 429.º, 528.º
 
 6 - ...
 
-###### Artigo 339.º — [...]
+Artigo 339.º
+
+[...]
 
 1 - ...
 
@@ -180,7 +214,9 @@ Os artigos 97.º, 100.º, 339.º, 341.º, 342.º, 343.º, 408.º, 429.º, 528.º
 
 4 - ...
 
-###### Artigo 341.º — Aprovação e publicação dos relatórios e contas anuais
+Artigo 341.º
+
+Aprovação e publicação dos relatórios e contas anuais
 
 1 - A sociedade que tiver valores cotados deve apreciar, nos termos e prazos para o efeito estabelecidos na legislação aplicável, e publicar, nos 30 dias subsequentes ao da respectiva aprovação, os seguintes documentos de prestação de contas respeitantes a cada exercício:
 
@@ -204,7 +240,9 @@ f) Quaisquer outros documentos de prestação de contas cuja elaboração ou pub
 
 5 - ...
 
-###### Artigo 342.º — [...]
+Artigo 342.º
+
+[...]
 
 1 - As sociedades com acções cotadas devem ainda publicar, até três meses após o termo do 1.º semestre do exercício, uma informação sobre a sua actividade e resultados nesse 1.º semestre, contendo os elementos necessários para permitir aos investidores formar um juízo fundamentado sobre essa actividade e resultados, bem como sobre a situação da empresa, comparativamente com o período correspondente do exercício anterior, e indicando qualquer factor específico que tenha influenciado o comportamento económico e financeiro da sociedade ou que possa vir a influenciá-lo no futuro.
 
@@ -224,7 +262,9 @@ c) ...
 
 6 - Se o primeiro exercício económico das sociedades que adoptem um exercício anual diferente do correspondente ao ano civil tiver uma duração superior a 12 meses, devem aquelas publicar também informação semestral referente ao 2.º semestre do exercício, aplicando-se, com as devidas adaptações, o disposto nos números anteriores.
 
-###### Artigo 343.º — [...]
+Artigo 343.º
+
+[...]
 
 1 - Poderá ser ainda exigida a publicação, por todas ou determinadas categorias de sociedades com acções cotadas, de uma informação sobre a sua actividade, resultados e situação económica e financeira, reportada ao fim do 1.º, 3.º e, se for caso disso, 5.º trimestre de cada exercício.
 
@@ -232,7 +272,9 @@ c) ...
 
 3 - A CMVM, por regulamento, definirá quais os elementos que integram a informação a publicar nos termos dos números anteriores.
 
-###### Artigo 408.º — [...]
+Artigo 408.º
+
+[...]
 
 1 - ...
 
@@ -248,7 +290,9 @@ a) Pela sociedade que desencadear o procedimento tendente à aquisição, sendo 
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 429.º — [...]
+Artigo 429.º
+
+[...]
 
 1 - ...
 
@@ -274,7 +318,9 @@ h) ...
 
 4 - ...
 
-###### Artigo 528.º-A — [...]
+Artigo 528.º-A
+
+[...]
 
 1 - ...
 
@@ -298,7 +344,9 @@ h) De operações de fusão ou cisão de sociedades, como consequência necessá
 
 3 - ...
 
-###### Artigo 531.º-A — [...]
+Artigo 531.º-A
+
+[...]
 
 1 - ...
 
@@ -312,7 +360,9 @@ h) De operações de fusão ou cisão de sociedades, como consequência necessá
 
 6 - ...
 
-###### Artigo 670.º — [...]
+Artigo 670.º
+
+[...]
 
 ...
 
@@ -356,7 +406,9 @@ h) De operações de fusão ou cisão de sociedades, como consequência necessá
 
 20) ...
 
-###### Artigo 671.º — [...]
+Artigo 671.º
+
+[...]
 
 ...
 
@@ -440,7 +492,9 @@ g) ...
 
 29) A realização de operações a prazo sobre valores mobiliários ou direitos e instrumentos financeiros a eles equiparados por força do artigo 3.º, n.º 2, em mercados secundários especiais ou no mercado de balcão com infracção das disposições legais ou regulamentares que lhes sejam aplicáveis.
 
-###### Artigo 672.º — [...]
+Artigo 672.º
+
+[...]
 
 ...
 
@@ -458,18 +512,20 @@ Outras contra-ordenações graves
 
 Constituem também contra-ordenações, puníveis com coima de 300000$00 a 150000000$00, as infracções, não previstas nos artigos anteriores, resultantes da violação pelas pessoas e entidades referidas nas alíneas a), b), c) e d) do n.º 1 do artigo 13.º do presente Código e pelas entidades colocadoras de unidades de participação em fundos de investimento, de disposições legais e regulamentares, incluindo as disposições dos regulamentos das entidades gestoras dos mercados e associações prestadoras de serviços especializados, constantes da legislação específica reguladora de cada uma das actividades de intermediação em valores mobiliários indicadas no artigo 608.º, ou nela fundadas.
 
-###### Artigo 687.º — Exequibilidade de dívidas respeitantes a publicações
+Artigo 687.º
+
+Exequibilidade de dívidas respeitantes a publicações
 
 Em matéria de publicações a que a CMVM deva proceder, nos termos da lei, a expensas das entidades sujeitas à sua supervisão, constitui título executivo bastante a certidão emitida pela CMVM que declare a existência e montante da dívida, acompanhada de certidão da deliberação do conselho directivo que haja determinado a publicação.»
 
 Visto e aprovado em Conselho de Ministros de 28 de Maio de 1997. - António Manuel de Oliveira Guterres - Fernando Teixeira dos Santos.
 
-**Promulgado em 3 de Julho de 1997.**
+Promulgado em 3 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Julho de 1997.**
+Referendado em 10 de Julho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

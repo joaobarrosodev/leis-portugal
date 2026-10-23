@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 81/1997, 1º Suplemento, Série I-A de 1997-04-07
   number: '81'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1578-(2) a 1578-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/081a01/00020005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/78-a/1997/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-1997-642573
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b07867ee31d451e79489b03b0c28f4d83f8f7a970fb13eeb39b01b1f956414e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05b119034037a42c369892aee60b1522ae8ea3e37970a8d37ea04640c75ebbf2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Acções
-- Sociedade Anónima
 - Capital Social
 - EDP
 - Privatização
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:669513:por
@@ -87,16 +87,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/21/1996/03/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/21/1996/03/05/p/dre
+- type: cites
+  target: pt:dre:262841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669513:por
+  label: "Revogado o nº 5 do art. 9º pelo DEC LEI.90/2011.25.07.2011.MF, DR.IS [141] de 25.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2011-669513
+  date: '2011-07-25'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:02Z'
   warnings: []
   errors: []
 ---
@@ -303,12 +328,12 @@ O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Março de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Augusto Carlos Serra Ventura Mateus.
 
-**Promulgado em 1 de Abril de 1997.**
+Promulgado em 1 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Abril de 1997.**
+Referendado em 3 de Abril de 1997.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.

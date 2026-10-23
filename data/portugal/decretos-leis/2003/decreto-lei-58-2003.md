@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/077a00/21042107.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/58/2003/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2003-232367
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 078c20b0705268487e8b462112721754f9b1e78c74c29256f7ad4e60bea76781
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a57d6fbbb58e5c5b1ddbc9eb13082d34a9f93fa8a531527afdcb2729377c4209
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
-- Unesco
-- Ministro dos Negócios Estrangeiros
-- Integração de Trabalhadores
-- Orgânica
-- Quadro de Pessoal
 - Comissão Nacional da Unesco
+- Integração de Trabalhadores
+- Ministro dos Negócios Estrangeiros
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Unesco
 relationships:
 - type: amended_by
   target: pt:dre:520999:por
@@ -82,16 +82,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
+- type: cites
+  target: pt:dre:237992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614654:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520999:por
+  label: "Revogado pelo DEC LEI.121/2007.27.04.2007.MNE, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2007-520999
+  date: '2007-04-27'
 article_structure:
   article_count: 23
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:56Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +181,7 @@ c) O conselho administrativo.
 
 ###### Artigo 4.º — Presidente da Comissão
 
-**O presidente da Comissão é nomeado por despacho conjunto do Primeiro-Ministro e do Ministro dos Negócios Estrangeiros, ouvidos os membros do Governo responsáveis pelas áreas da educação, da ciência e da cultura de entre cidadãos portugueses de reconhecida competência, sendo equiparado, para todos os efeitos, a director-geral.**
+O presidente da Comissão é nomeado por despacho conjunto do Primeiro-Ministro e do Ministro dos Negócios Estrangeiros, ouvidos os membros do Governo responsáveis pelas áreas da educação, da ciência e da cultura de entre cidadãos portugueses de reconhecida competência, sendo equiparado, para todos os efeitos, a director-geral.
 
 ###### Artigo 5.º — Competências do presidente da Comissão
 
@@ -270,11 +291,15 @@ a) Secção Administrativa e Financeira;
 
 b) Divisão de Biblioteca e Documentação.
 
-###### Artigo 13.º — Secção Administrativa e Financeira
+###### Artigo 13.º
+
+#### Secção Administrativa e Financeira
 
 A Secção Administrativa e Financeira é o serviço de apoio nas áreas financeira, patrimonial, de contabilidade, expediente, arquivo e pessoal, exercendo funções nas áreas funcionais correspondentes.
 
-###### Artigo 14.º — Divisão de Biblioteca e Documentação
+###### Artigo 14.º
+
+##### Divisão de Biblioteca e Documentação
 
 1 - A Divisão de Biblioteca e Documentação é o serviço de apoio em matéria de organização do material informativo e documental.
 
@@ -356,15 +381,15 @@ Os membros do conselho consultivo, assim como o pessoal dos serviços da Comiss�
 
 Visto e aprovado em Conselho de Ministros de 23 de Janeiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Nuno Albuquerque Morais Sarmento - José Luís Fazenda Arnaut Duarte - José David Gomes Justino - Pedro Lynce de Faria - Pedro Manuel da Cruz Roseta.
 
-**Promulgado em 20 de Março de 2003.**
+Promulgado em 20 de Março de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Março de 2003.**
+Referendado em 25 de Março de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Quadro de pessoal dirigente da Comissão Nacional da UNESCO
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/08/16400/0594505953.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/169/2008/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2008-453563
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9de797ccd5d401d07001394dda17c6312bad991ffe792ead70b884cf4b92aca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd9f2d389ed85e50f52bbdebefcf6acfdc95aef358a3150a3c5830f918fa368f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ADSE
+- Caixa Geral de Aposentações
+- CMVM
+- Conselho Diretivo
 - Contrato Individual de Trabalho
 - Estatuto
-- Caixa Geral de Aposentações
-- Conselho Diretivo
 - Instituto de Gestão da Tesouraria e do Crédito Público
 - Mercado de Valores
 - Proteção Social
-- CMVM
 relationships:
 - type: amended_by
   target: pt:dre:66108236:por
@@ -88,16 +88,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/473/1999/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/473/1999/11/08/p/dre
+- type: repealed_by
+  target: pt:dre:66108236:por
+  label: Revogado a partir de 01.02.2015 o Dec Lei 473/99, de 08-nov, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 5/2015 - Diário da República n.º 5/2015, Série I de 2015-01-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-2015-66108236
+  date: '2015-01-08'
 article_structure:
-  article_count: 46
+  article_count: 37
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:03Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +178,9 @@ r)...
 
 s)...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -202,7 +210,9 @@ j)...
 
 4 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -222,7 +232,9 @@ e) ...
 
 4 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -252,7 +264,9 @@ l) Um representante da Ordem dos Revisores Oficiais de Contas.
 
 3 - ...
 
-###### Artigo 25.º-A — [...]
+Artigo 25.º-A
+
+[...]
 
 1 - ...
 
@@ -264,7 +278,9 @@ l) Um representante da Ordem dos Revisores Oficiais de Contas.
 
 5 - As taxas a que se referem as alíneas a), b), e) e f) do n.º 2 são estabelecidas por regulamento da CMVM, que define a incidência, subjectiva e objectiva, o montante ou a alíquota, a periodicidade e, se for caso disso, as isenções, totais ou parciais, de cada taxa, bem como os respectivos modos e prazos de liquidação e cobrança.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - A actividade financeira da CMVM sujeita-se exclusivamente ao disposto no presente Estatuto e supletivamente ao regime jurídico aplicável às entidades públicas empresariais.
 
@@ -272,13 +288,17 @@ l) Um representante da Ordem dos Revisores Oficiais de Contas.
 
 3 - ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Ao pessoal da CMVM aplica-se o regime jurídico do contrato individual de trabalho, sem prejuízo de às faltas e eventualidades relacionadas com o regime de protecção social a que o trabalhador estiver sujeito serem aplicáveis, com as devidas adaptações, as regras específicas deste mesmo regime.
 
 2 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -294,11 +314,15 @@ b) ...
 
 5 - O conselho directivo da CMVM aprova o regulamento interno laboral da CMVM.
 
-###### Artigo 32.º — Mobilidade
+Artigo 32.º
+
+Mobilidade
 
 Os trabalhadores que exerçam funções públicas, bem como quaisquer trabalhadores, quadros ou administradores de empresas públicas ou privadas, podem desempenhar funções na CMVM através do recurso aos meios legalmente aplicáveis em termos de mobilidade.
 
-###### Artigo 33.º — Protecção social
+Artigo 33.º
+
+Protecção social
 
 1 - Os trabalhadores da CMVM que tenham iniciado funções:
 
@@ -324,15 +348,15 @@ O presente decreto-lei entra em vigor no dia seguinte à sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Junho de 2008. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos.
 
-**Promulgado em 9 de Agosto de 2008.**
+Promulgado em 9 de Agosto de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 11 de Agosto de 2008.**
+Referendado em 11 de Agosto de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — ESTATUTO DA COMISSÃO DO MERCADO DE VALORES MOBILIÁRIOS
 

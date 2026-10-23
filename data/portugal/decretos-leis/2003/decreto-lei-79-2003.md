@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/79/2003/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2003-239795
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:42:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 278b1837a2bd71c5b2c82122a304afeff1efe4c1a82cd14828fca04da220d69e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f08cf65bd13dd3e1fabe3a3be18b9fa082204bcc0535afce656e5e0c1c36e860
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:42:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
 - Contabilidade
-- Inventário Permanente
+- Empresa
 - Estatuto dos Benefícios Fiscais
-- Gestão de Empresas
-- Plano Oficial de Contabilidade
 - Evasão Fiscal
+- Gestão de Empresas
 - Inventário
+- Inventário Permanente
+- Plano Oficial de Contabilidade
 - Sistema de Inventário Permanente
 relationships:
 - type: amended_by
   target: pt:dre:2242375:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:605330:por
+  label: "Alterado o Plano Oficial de Contabilidade, aprovado pelo Dec Lei 410/89, de 21-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.35/2005.17.02.2005.MFAP, DR.IS-A [34] de 17.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2005-605330
+  date: '2005-02-17'
 - type: cites
   target: celex:31978L0660
   label: null
@@ -89,16 +95,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/44/1999/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/44/1999/02/12/p/dre
+- type: repealed_by
+  target: pt:dre:492428:por
+  label: "Revogado o Dec Lei 44/99 de 12-Fev, com a redacção conferida no presente diploma, pelo DEC LEI.158/2009.13.07.2009.MFAP,\
+    \ DR.IS [133] de 13.07.2009, nos termos do estabelecido no seu art. 16º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-2009-492428
+  date: '2009-07-13'
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:42:28Z'
   warnings: []
   errors: []
 ---
@@ -159,11 +171,11 @@ d) Pontos de venda a retalho que, no seu conjunto, não apresentem, no período 
 
 7 - Não obstante o disposto no número anterior, podem voltar a beneficiar das dispensas previstas na alínea d) do n.º 4 e no n.º 5 as actividades e as entidades neles referidas que deixem de verificar, durante três exercícios consecutivos, os requisitos estabelecidos para a concessão da dispensa, produzindo efeitos a partir do exercício seguinte ao do termo daquele período.
 
-###### Artigo 4.º
+Artigo 4.º
 
 O regime fiscal previsto no artigo 51.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, é apenas aplicável aos sujeitos passivos do IRS e do IRC que não fiquem obrigados a adoptar o sistema de inventário permanente, nos termos do presente diploma.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - (Anterior corpo.)
 
@@ -183,15 +195,15 @@ O presente diploma produz efeitos a partir de 1 de Janeiro de 2003.
 
 Visto e aprovado em Conselho de Ministros de 13 de Março de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 4 de Abril de 2003.**
+Promulgado em 4 de Abril de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Abril de 2003.**
+Referendado em 9 de Abril de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO
 
@@ -253,11 +265,11 @@ Por ser desejável a uniformidade da demonstração dos fluxos de caixa, apresen
 
 9.1.1 - Método directo:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/04/095a00/25712575.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/04/095a00/25712575.pdf)](https://files.diariodarepublica.pt/1s/2003/04/095a00/25712575.pdf)](https://files.diariodarepublica.pt/1s/2003/04/095a00/25712575.pdf)
 
 9.1.2 - Método indirecto:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/04/095a00/25712575.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/04/095a00/25712575.pdf)](https://files.diariodarepublica.pt/1s/2003/04/095a00/25712575.pdf)](https://files.diariodarepublica.pt/1s/2003/04/095a00/25712575.pdf)
 
 9.2 - Anexo à demonstração dos fluxos de caixa
 
@@ -275,7 +287,7 @@ d) As quantias dos outros activos e passivos adquiridos (alienados), classificad
 
 2 - Discriminação dos componentes de caixa e seus equivalentes, reconciliando as quantias evidenciadas na demonstração dos fluxos de caixa com as rubricas do balanço:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/04/095a00/25712575.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/04/095a00/25712575.pdf)](https://files.diariodarepublica.pt/1s/2003/04/095a00/25712575.pdf)](https://files.diariodarepublica.pt/1s/2003/04/095a00/25712575.pdf)
 
 3 - Divulgação de informações respeitantes a actividades financeiras não monetárias, designadamente as relativas a:
 

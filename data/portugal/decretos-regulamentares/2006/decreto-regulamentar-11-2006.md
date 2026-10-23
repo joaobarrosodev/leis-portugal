@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/11/2006/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2006-539246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 375046a5a35dc79927918384b63883b89e27159b3077c2428c6262af363277a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5898f779aa365a31d0be37e82743f06201a12469434e1bc4c10e75158651a80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,18 @@ relationships:
   target: pt:dre:118051704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280498:por
+  label: "Suspensa, a partir de 07.02.2011 e pelo prazo de dois anos, a aplicação dos arts. 36º e 38º a 42º do regulamento\
+    \ anexo ao presente diploma, pela PORT.62/2011.02.02.2011.MADRP, DR.IS [23] de 02.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/62-2011-280498
+  date: '2011-02-02'
+- type: amended_by
+  target: pt:dre:258539:por
+  label: "Suspensa, com produção de efeitos a 07.02.2013 e pelo prazo máximo de dois anos, a aplicação dos art.s 36º e 38º\
+    \ a 42º do regulamento, pela PORT.78/2013.19.02.2013.MAMAOT, DR.IS [35] de 19.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/78-2013-258539
+  date: '2013-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2005/08/05/p/dre
   label: null
@@ -99,16 +111,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/118/2000/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/118/2000/09/13/p/dre
+- type: cites
+  target: pt:dre:241857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572092:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:118051704:por
+  label: Revogado com a entrada em vigor das portarias previstas no n.º 1 do art. 11.º do Dec Lei 16/2009, de 14-jan pelo(a)
+    Decreto-Lei n.º 11/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2019-118051704
+  date: '2019-01-21'
 article_structure:
   article_count: 51
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:31Z'
   warnings: []
   errors: []
 ---
@@ -173,15 +215,15 @@ O PROF CL entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 29 de Junho de 2006.**
+Promulgado em 29 de Junho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 30 de Junho de 2006.**
+Referendado em 30 de Junho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO A — REGULAMENTO DO PLANO REGIONAL DE ORDENAMENTO FLORESTAL DO CENTRO LITORAL
 
@@ -801,7 +843,7 @@ v) Espaços florestais com função de conservação de recursos genéticos, em 
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: amieiro (Alnus glutinosa), cipreste-de-lawson (Chamaecyparis lawsoniana), cipreste-do-buçaco (Cupressus lusitanica), cipreste-comum (Cupressus sempervirens), freixo (Fraxinus angustifolia), medronheiro (Arbutus unedo), salgueiro (Salix alba), tília (Tilia platyphyllos) e nogueiras (Juglans, spp.).
 
@@ -831,7 +873,7 @@ i) Espaços florestais com função de conservação de recursos genéticos, em 
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: amieiro (Alnus glutinosa), aveleira (Corylus avellana), azinheira (Quercus rotundifolia), carrasco (Quercus coccifera), salgueiro (Salix alba), cerejeira (Prunus avium), nogueira (Juglans regia) e pinheiro-de-alepo (Pinus halepensis).
 
@@ -871,7 +913,7 @@ v) Espaços florestais com função de conservação de recursos genéticos, em 
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: aveleira (Corylus avellana), choupo (Populus alba), freixo (Fraxinus angustifolia), plátano (Platanus hispanica), cerejeira (Prunus avium), salgueiro (Salix alba), tília (Tilia platyphyllos), freixo (Fraxinus angustifolia) e amieiro (Alnus glutinosa).
 
@@ -909,7 +951,7 @@ vi) Espaços florestais com função de conservação de recursos genéticos, em
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: acer (Acer pseudoplatanus), aveleira (Corylus avellana), cedro do atlas (Cedrus atlantica Endl.), cipreste-comum (Cupressus sempervirens), Cipreste-de-lawson (Chamaecyparis lawsoniana), freixo (Fraxinus angustifolia), nogueira (Juglans regia), pinheiro-de-alepo (Pinus halepensis), plátano (Platanus hispanica Miller ex Münchh), salgueiro (Salix alba), sobreiro (Quercus suber), tília (Tilia platyphyllos) e zimbro (Juniperus communis).
 
@@ -949,7 +991,7 @@ v) Espaços florestais com função de conservação de recursos genéticos, em 
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: amieiro (Alnus glutinosa), aveleira (Corylus avellana), cedro-do-atlas (Cedrus atlantica), carvalho-americano (Quercus rubra), cerejeira (Prunus avium), choupo-negro (Populus nigra), cipreste-comum (Cupressus sempervirens), cipreste-de-lawson (Chamaecyparis lawsoniana), freixo (Fraxinus angustifolia), pinheiro-de-alepo (Pinus halepensis), plátano (Platanus hispanica Miller ex Münchh), salgueiro (Salix alba) e tília (Tilia platyphyllos).
 
@@ -991,7 +1033,7 @@ v) Espaços florestais com função de conservação de recursos genéticos, em 
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: abeto-espanhol (Abies pinsapo), acer (Acer pseudoplatanus), cedro do atlas (Cedrus atlantica), cerejeira (Prunus avium), cipreste-comum (Cupressus sempervirens), cipreste-de-lawson (Chamaecyparis lawsoniana), freixo (Fraxinus angustifolia), nogueira (Juglans regia), nogueira-preta (Juglans nigra), pinheiro-de-alepo (Pinus halepensis), pinheiro-manso (Pinus pinea), plátano (Platanus hispanica), salgueiro (Salix alba), tília (Tilia platyphyllos), zimbro (Juniperus communis).
 
@@ -1031,7 +1073,7 @@ iv) Espaços florestais com função de conservação de recursos genéticos, em
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: pinheiro-de-alepo (Pinus halepensis), carrasco (Quercus coccifera), amieiro (Alnus glutinosa), cipreste-de-lawson (Chamaecyparis lawsoniana), cipreste-do-buçaco (Cupressus lusitanica), cipreste-comum (Cupressus sempervirens), freixo (Fraxinus angustifolia), salgueiro (Salix alba), sobreiro (Quercus suber) e plátano (Platano hispanica).
 
@@ -1063,7 +1105,7 @@ ii) Espaços florestais com função de conservação de recursos genéticos, em
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: cipreste-comum (Cupressus sempervirens), cipreste-do-buçaco (Cupressus lusitanica), sobreiro (Quercus suber), pinheiro-de-alepo (Pinus halepensis), pinheiro-bravo (Pinus pinaster), carrasco (Quercus coccifera), amieiro (Alnus glutinosa), freixo (Fraxinus angustifolia), salgueiro (Salix alba) e plátano (Platano hispanica).
 
@@ -1083,7 +1125,7 @@ ii) Espaços florestais com função de conservação de recursos genéticos, em
 
 1 - Estão sujeitas a PGF as explorações florestais públicas e comunitárias, tal como definido no artigo 5.º da Lei de Bases da Política Florestal, de acordo com a hierarquia de prioridades para a sua elaboração, nomeadamente as identificadas na seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
 
 2 - Encontram-se igualmente sujeitas à elaboração obrigatória de PGF as explorações florestais privadas com área mínima de 25 ha.
 
@@ -1119,7 +1161,7 @@ c) Áreas percorridas por incêndios de grandes dimensões.
 
 4 - No PROF CL são propostas e identificadas como freguesias com espaços florestais prioritários para instalação de ZIF as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
 
 ### CAPÍTULO V — Medidas de intervenção
 
@@ -1141,27 +1183,27 @@ No plano que integra o relatório do PROF CL estão consignadas medidas de inter
 
 1 - O PROF CL define como metas para 2025 e 2045 os seguintes valores de percentagem de espaços florestais em relação à superfície total da região PROF:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
 
 2 - O PROF CL define como metas para 2025 e 2045 os seguintes valores de percentagem de espaços florestais arborizados em relação à superfície total da região PROF:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
 
 3 - O PROF CL define como metas para 2025 e 2045 os seguintes valores percentuais de composição de espaços florestais arborizados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
 
 4 - O PROF CL define como metas para 2025 e 2045 os seguintes valores percentuais de composição de espaços florestais arborizados para as sub-regiões homogéneas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
 
 5 - O PROF CL define como metas para 2025 e 2045 as seguintes proporções, em termos percentuais, de povoamentos sujeitos a silvicultura intensiva:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
 
 6 - O PROF CL define como metas para 2025 e 2045 os seguintes valores de percentagem de área queimada anualmente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
 
 ###### Artigo 37.º — Objectivos comuns à região PROF e objectivos específicos às sub-regiões homogéneas
 
@@ -1267,14 +1309,14 @@ Quando se verificarem alterações às normas legais e regulamentares citadas no
 
 ## ANEXO I — Normas genéricas de intervenção nos espaços florestais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
 
 ## ANEXO II — Modelos de silvicultura
 
 Modelos de silvicultura para as principais espécies de árvores florestais e sistemas florestais produtivos mais relevantes para a região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
 
 ## ANEXO B — Mapa síntese do Plano Regional de Ordenamento Florestal do Centro Litoral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14000/51725195.pdf)

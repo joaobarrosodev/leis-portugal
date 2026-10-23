@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/14800/0518805191.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/142/2015/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2015-69920317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0791eac4662984e6d1cc3266feab75d9c23776c907260114a666abe3f054419
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1394aaddeac1b6bcd142df9bfb7caa48cfeffcc33812861425e6a12f5ef182aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
+- Despesas de Representação
 - Exército
 - Força Aérea
-- Despesas de Representação
-- Marinha
-- Graduação Militar
 - Forças Armadas
+- Graduação Militar
+- Marinha
+- Militar
 - Promoção Profissional
+- Proteção Social
 - Quadro Permanente da Armada
 - Quadro Permanente da Força Aérea
 - Quadro Permanente do Exército
-- Proteção Social
+- Reestruturação de Serviços
 - Remuneração
-- Militar
 relationships:
 - type: amended_by
   target: pt:dre:211312024:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:296/2009
+  label: Altera, a partir de 1 de agosto de 2015, os anexos I e III do Decreto-Lei n.º 296/2009, de 14 de outubro, Diário
+    da República n.º 199/2009, Série I
+  source: null
+  date: '2009-10-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/184/2014/12/29/p/dre
   label: null
@@ -111,16 +117,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/90/2015/05/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/90/2015/05/29/p/dre
+- type: cites
+  target: pt:dre:491439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:03Z'
   warnings: []
   errors: []
 ---
@@ -165,15 +195,15 @@ O presente diploma entra em vigor no dia seguinte à sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de junho de 2015. - Paulo Sacadura Cabral Portas - Hélder Manuel Gomes dos Reis - Berta Maria Correia de Almeida de Melo Cabral.
 
-**Promulgado em 23 de julho de 2015.**
+Promulgado em 23 de julho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de julho de 2015.**
+Referendado em 23 de julho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
@@ -183,10 +213,12 @@ Visto e aprovado em Conselho de Ministros de 25 de junho de 2015. - Paulo Sacadu
 
 Tabela remuneratória dos militares dos QP, em RC e RV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14800/0518805191.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14800/0518805191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14800/0518805191.pdf)
 
-## ANEXO III — (a que se refere o n.º 3 do artigo 11.º)
+ANEXO III
+
+(a que se refere o n.º 3 do artigo 11.º)
 
 Equiparações para efeitos de atribuição do abono por despesas de representação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14800/0518805191.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14800/0518805191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14800/0518805191.pdf)

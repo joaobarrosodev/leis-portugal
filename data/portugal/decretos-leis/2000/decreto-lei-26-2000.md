@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/053a00/07260730.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/26/2000/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2000-408498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:20:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c194dab0688252d6b329fe8b58fb1e011ed1c58b16e5b7460415139cd5af7cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4a57b07c7f5b550e5bde33e92f059c7759e98a5ee2661e2a05cab9e14ea61e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:20:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acção Financeira
-- Valores Mobiliários
-- Mercado de Títulos
-- Sociedade Comercial
+- Banco de Portugal
+- Cooperativa
 - Definição de Competências
 - Emissão de Títulos
 - Empresa Privada
-- Cooperativa
 - Fiscalização
-- Banco de Portugal
-- Títulos de Crédito
+- Mercado de Títulos
 - Mercado de Valores
 - Pessoa Coletiva
+- Sociedade Comercial
+- Títulos de Crédito
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:211029:por
@@ -116,16 +116,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/1998/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/1998/01/31/p/dre
+- type: cites
+  target: pt:dre:180578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682983:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:211029:por
+  label: "Revogado o Dec Lei 181/92 de 22-Ago DR.IS-A [193] com as alterações introduzidas pelo presente diploma pelo DEC\
+    \ LEI.69/2004.25.03.2004.MF, DR.IS-A [72] de 25.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2004-211029
+  date: '2004-03-25'
 article_structure:
-  article_count: 27
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:20:01Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +196,7 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 7.º, 9.º, 10.º, 11.º, 12.º, 13.º 
 
 3 - As entidades referidas no n.º 1 ficam dispensadas dos requisitos previstos no n.º 2 desde que o cumprimento das obrigações de pagamento inerentes aos valores mobiliários seja assegurado perante os tomadores através de garantia autónoma, à primeira interpelação, prestada por alguma das instituições de crédito mencionadas no artigo 6.º
 
-###### Artigo 2.º
+Artigo 2.º
 
 Os valores mobiliários são emitidos por prazo fixo, inferior a um ano, sendo admitido o seu resgate antes do fim do prazo, nos termos previstos nas condições da emissão.
 
@@ -164,7 +206,7 @@ Os valores mobiliários são emitidos por prazo fixo, inferior a um ano, sendo a
 
 4 - A emissão de valores mobiliários a que se refere o presente artigo não está sujeita a registo comercial nem lhe é aplicável o disposto no artigo 349.º do Código das Sociedades Comerciais.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - Os valores mobiliários referidos no artigo anterior, cujo registo e controlo não seja efectuado nos termos do disposto no número seguinte, devem, previamente, ser registados ou depositados em conta aberta junto de uma instituição de crédito sujeita a supervisão do Banco de Portugal ou de uma sucursal em Portugal de instituição de crédito autorizada em outro Estado membro da Comunidade Europeia, em cujo objecto se integre a guarda e administração de títulos por conta de terceiros.
 
@@ -176,13 +218,13 @@ Os valores mobiliários são emitidos por prazo fixo, inferior a um ano, sendo a
 
 5 - A transmissão dos valores mobiliários só se torna eficaz relativamente ao emitente após a comunicação efectuada pelo transmissário à instituição de crédito registadora ou depositária.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - Os valores mobiliários referidos no artigo 2.º devem ser nominativos, não podendo os valores titulados transmitir-se por endosso em branco.
 
 2 - ...
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - Os valores mobiliários podem ser emitidos com juros a:
 
@@ -192,7 +234,7 @@ b) ...
 
 2 - Caso os valores mobiliários sejam emitidos a desconto deve ser utilizada a técnica de desconto por dentro.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - ...
 
@@ -216,7 +258,7 @@ h) ...
 
 3 - ...
 
-###### Artigo 9.º
+Artigo 9.º
 
 ...
 
@@ -230,7 +272,7 @@ d) ...
 
 e) ...
 
-###### Artigo 10.º
+Artigo 10.º
 
 Dos valores mobiliários titulados devem constar:
 
@@ -252,23 +294,23 @@ h) ...
 
 i) ...
 
-###### Artigo 11.º
+Artigo 11.º
 
 Compete ao Banco de Portugal estabelecer, ao abrigo do disposto nos artigos 15.º, 16.º e 17.º da sua Lei Orgânica, aprovada pelo [Decreto-Lei n.º 337/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1990-565864), de 30 de Outubro, com as alterações introduzidas pelo [Decreto-Lei n.º 231/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1995-562272), de 12 de Setembro, pela [Lei n.º 3/96](https://diariodarepublica.pt/dr/detalhe/lei/3-1996-594748), de 5 de Fevereiro, e pela [Lei n.º 5/98](https://diariodarepublica.pt/dr/detalhe/lei/5-1998-225375), de 31 de Janeiro, através de aviso, as demais condições e aspectos regulamentares que, directa ou indirectamente, respeitem à emissão destes valores mobiliários, bem como ao regular funcionamento e à fiscalização dos respectivos mercados, salvo disposição em contrário.
 
-###### Artigo 12.º
+Artigo 12.º
 
 1 - Fica vedada a emissão, com oferta à subscrição pública ou particular, de quaisquer valores mobiliários de prazo inferior a um ano que não se mostrem conformes às disposições dos artigos anteriores, salvo se previstos em legislação especial.
 
 2 - Em conformidade com o disposto no n.º 2 do artigo 2.º do Código dos Valores Mobiliários as disposições deste Código não são aplicáveis aos valores mobiliários referidos nos artigos anteriores.
 
-###### Artigo 13.º
+Artigo 13.º
 
 1 - Aos valores mobiliários que representem direitos de crédito sobre as entidades emitentes, com prazo fixo igual ou superior a um ano e inferior a dois anos, que sejam oferecidos à subscrição particular, bem como à respectiva emissão, oferta à subscrição e transmissão, é aplicável o disposto nos artigos anteriores, não estando sujeitos ao Código dos Valores Mobiliários.
 
 2 - A emissão dos valores mobiliários referidos no número anterior não está sujeita a registo comercial, sendo os mesmos considerados de natureza monetária e podendo ser registados de acordo com o previsto no n.º 2 do artigo 3.º
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - Aos valores mobiliários que representem direitos de crédito sobre as entidades emitentes, com prazo fixo igual ou superior a um ano e inferior a dois anos, bem como à sua emissão, oferta à subscrição e negociação, sempre que tais valores sejam objecto de oferta à subscrição pública, não é aplicável o regime estabelecido nos artigos anteriores, estando sujeitos ao Código dos Valores Mobiliários com as alterações constantes dos números seguintes.
 
@@ -286,15 +328,15 @@ Compete ao Banco de Portugal estabelecer, ao abrigo do disposto nos artigos 15.�
 
 Visto e aprovado em Conselho de Ministros de 6 de Janeiro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura.
 
-**Promulgado em 17 de Fevereiro de 2000.**
+Promulgado em 17 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Fevereiro de 2000.**
+Referendado em 24 de Fevereiro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO
 

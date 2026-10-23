@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/11200/0285102867.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/56/2017/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2017-107495703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 221eea496d548614f9b4dfd5804251702dc165b8811604bc4b3d39bf735c451a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a8558e71a1945f95360f2db667b56cb91ff1b10aeabc74f39da528127d05b94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
 - ARMA Química
-- Equipamento Militar
 - Armamento
-- Segurança Pública
-- Fiscalização
-- Política de Defesa
-- Importação
-- Segurança Internacional
 - Circulação de Mercadorias
-- Exportação
 - Comércio
-- Transacção Intracomunitária
 - Comércio de Armas
+- Equipamento Militar
+- Exportação
+- Fiscalização
+- Importação
+- Política de Defesa
+- Produto Químico
+- Segurança Internacional
+- Segurança Pública
+- Transacção Intracomunitária
 relationships:
 - type: amended_by
   target: pt:dre:215647906:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114682826:por
+  label: Alterado o anexo I à Lei 37/2011 de 22-jun, na redação do presente diploma, pelo(a) Decreto-Lei n.º 9/2018 - Diário
+    da República n.º 30/2018, Série I de 2018-02-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2018-114682826
+  date: '2018-02-12'
+- type: amended_by
+  target: pt:dre:123578707:por
+  label: Alterado o anexo I à Lei 37/2011 de 22-jun, na redação do presente diploma, pelo(a) Decreto-Lei n.º 98/2019 - Diário
+    da República n.º 144/2019, Série I de 2019-07-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2019-123578707
+  date: '2019-07-30'
 - type: cites
   target: celex:32009L0043
   label: null
@@ -122,6 +134,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/2011/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/2011/06/22/p/dre
+- type: cites
+  target: pt:dre:179519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66990216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75784267:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32017L0433
   label: null
@@ -129,13 +165,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:57Z'
   warnings: []
   errors: []
 ---
@@ -168,15 +204,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de abril de 2017. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Marcos da Cunha e Lorena Perestrello de Vasconcellos.
 
-**Promulgado em 6 de junho de 2017.**
+Promulgado em 6 de junho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de junho de 2017.**
+Referendado em 7 de junho de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 

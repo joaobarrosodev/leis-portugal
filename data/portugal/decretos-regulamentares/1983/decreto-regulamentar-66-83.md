@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1983-453227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:08:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b22355b20b623d2e71ce77b1f67934ed9a07fc176e0b8681d781c63ef050a6c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ce027e66d6f9715837173afec6ee7012287696155d23260141f8719fd4eec71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:08:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
 relationships:
 - type: amended_by
   target: pt:dre:287392:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:654545:por
+  label: "Alterados os arts. 1º, 5º, 7º, 12º e 15º, pelo DR.31/84.1984.04.09.PCM, DR.IS [84]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/31-1984-654545
+  date: '1984-04-09'
+- type: amended_by
+  target: pt:dre:287392:por
+  label: Mantido em vigor o imposto extraordinário criado pelo art. 33.º do Dec Lei 119-A/83, de 28-fev, na redacção que lhe
+    foi dada pelo presente, relativamente aos rendimentos colectáveis respeitantes ao ano de 1987, e alteradas as datas previstas
+    naquele diploma, pelo(a) Decreto-Lei n.º 75/88 - Diário da República n.º 57/1988, Série I de 1988-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-1988-287392
+  date: '1988-03-09'
+- type: cites
+  target: pt:dre:355159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401315:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:08:13Z'
   warnings: []
   errors: []
 ---
@@ -92,25 +113,25 @@ Em cumprimento do artigo 33.º do [Decreto-Lei n.º 119-A/83](https://diariodare
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Regulamento do Imposto Extraordinário sobre Lucros, criado pelo artigo 33.º do [Decreto-Lei n.º 119-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-1983-401315), de 18 de Fevereiro, que faz parte do presente decreto.
+Artigo único. É aprovado o Regulamento do Imposto Extraordinário sobre Lucros, criado pelo artigo 33.º do [Decreto-Lei n.º 119-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-1983-401315), de 18 de Fevereiro, que faz parte do presente decreto.
 
 REGULAMENTO DO IMPOSTO EXTRAORDINÁRIO SOBRE LUCROS
 
 Incidência
 
-###### Artigo 1.º O imposto extraordinário sobre lucros, criado pelo artigo 33.º do [Decreto-Lei n.º 119-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-1983-401315), de 28 de Fevereiro, incide sobre os rendimentos colectáveis relativos ao ano de 1982 sujeitos a contribuição industrial, acrescidos das deduções efectuadas por investimentos, reinvestimentos e incentivos à exportação.
+Artigo 1.º O imposto extraordinário sobre lucros, criado pelo artigo 33.º do [Decreto-Lei n.º 119-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-1983-401315), de 28 de Fevereiro, incide sobre os rendimentos colectáveis relativos ao ano de 1982 sujeitos a contribuição industrial, acrescidos das deduções efectuadas por investimentos, reinvestimentos e incentivos à exportação.
 
-###### Art. 2.º Ficam sujeitas a este imposto as pessoas singulares ou colectivas, designadamente sociedades, cooperativas e empresas públicas, que são ou seriam tributadas pelos rendimentos em contribuição industrial se não beneficiassem da isenção desta ou das deduções referidas no artigo 1.º
+Art. 2.º Ficam sujeitas a este imposto as pessoas singulares ou colectivas, designadamente sociedades, cooperativas e empresas públicas, que são ou seriam tributadas pelos rendimentos em contribuição industrial se não beneficiassem da isenção desta ou das deduções referidas no artigo 1.º
 
 Isenções
 
-###### Art. 3.º São unicamente isentos deste imposto os rendimentos que beneficiem de isenção permanente de contribuição industrial.
+Art. 3.º São unicamente isentos deste imposto os rendimentos que beneficiem de isenção permanente de contribuição industrial.
 
 Determinação da matéria colectável
 
-###### Art. 4.º A matéria colectável do imposto será a referida no artigo 1.º
+Art. 4.º A matéria colectável do imposto será a referida no artigo 1.º
 
-###### Art. 5.º - 1 - Com excepção da matéria colectável que serve de base à liquidação da contribuição industrial nos termos da alínea a) do artigo 7.º, cuja determinação incumbirá ao contribuinte, a matéria colectável dos contribuintes dos grupos B e C é a que lhes foi ou for fixada definitivamente para efeitos da contribuição industrial, acrescida da importância das deduções e incentivos referidos no artigo 1.º
+Art. 5.º - 1 - Com excepção da matéria colectável que serve de base à liquidação da contribuição industrial nos termos da alínea a) do artigo 7.º, cuja determinação incumbirá ao contribuinte, a matéria colectável dos contribuintes dos grupos B e C é a que lhes foi ou for fixada definitivamente para efeitos da contribuição industrial, acrescida da importância das deduções e incentivos referidos no artigo 1.º
 
 2 - Os contribuintes do grupo A da contribuição industrial deverão apresentar até 15 de Agosto de 1983, na repartição de finanças competente para a liquidação da contribuição industrial, uma declaração do modelo anexo a este diploma, preenchida em triplicado, servindo um exemplar de recibo.
 
@@ -118,11 +139,11 @@ Determinação da matéria colectável
 
 Taxa
 
-###### Art. 6.º A taxa deste imposto é de 5%.
+Art. 6.º A taxa deste imposto é de 5%.
 
 Liquidação
 
-###### Art. 7.º A liquidação do imposto será efectuada:
+Art. 7.º A liquidação do imposto será efectuada:
 
 a) Tratando-se de contribuintes do grupo A da contribuição industrial, pelo própria contribuinte, na declaração a que alude o n.º 2 do artigo 5.º, quando apresentada no prazo aí estabelecido, ou pela repartição de finanças em que deve ser apresentada aquela declaração, nos restantes casos;
 
@@ -132,25 +153,25 @@ c) Tratando-se de contribuintes que hajam cessado totalmente a actividade poster
 
 d) Na falta de apresentação da declaração pelos contribuintes a que se refere a alínea a) até ao termo do prazo fixado no n.º 2 do artigo 5.º, a liquidação do imposto será efectuada até 20 de Agosto de 1983 e terá por base a totalidade da matéria colectável da contribuição industrial determinada ou que seria de determinar nos termos do n.º 2.º da alínea a) do artigo 85.º do Código da Contribuição Industrial, acrescida das deduções e incentivos referidos no artigo 1.º do presente diploma, salvo se o contribuinte tiver efectuado a autoliquidação da contribuição industrial, respeitante a 1982, nos termos do n.º 1.º da mesma alínea, caso em que a liquidação do imposto terá por base os elementos nos quais se baseou aquela autoliquidação.
 
-###### Art. 8.º Quando se verificar que na liquidação se cometeram erros de facto ou de direito ou houve quaisquer omissões de que resultou prejuízo para o Estado, a repartição de finanças deverá repará-los mediante liquidação adicional, sempre com observância do disposto no artigo 12.º
+Art. 8.º Quando se verificar que na liquidação se cometeram erros de facto ou de direito ou houve quaisquer omissões de que resultou prejuízo para o Estado, a repartição de finanças deverá repará-los mediante liquidação adicional, sempre com observância do disposto no artigo 12.º
 
-###### Art. 9.º A repartição de finanças também deverá proceder à liquidação adicional quando, depois de liquidado o imposto, seja de exigir, em virtude de correcção da matéria colectável, maior imposto do que o que foi liquidado.
+Art. 9.º A repartição de finanças também deverá proceder à liquidação adicional quando, depois de liquidado o imposto, seja de exigir, em virtude de correcção da matéria colectável, maior imposto do que o que foi liquidado.
 
-###### Art. 10.º Se, por omissões ao lançamento, deixar de liquidar-se o imposto, proceder-se-á à determinação da matéria colectável e à respectiva liquidação, com observância das disposições aplicáveis deste diploma.
+Art. 10.º Se, por omissões ao lançamento, deixar de liquidar-se o imposto, proceder-se-á à determinação da matéria colectável e à respectiva liquidação, com observância das disposições aplicáveis deste diploma.
 
-###### Art. 11.º - 1 - Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 24% ao ano.
+Art. 11.º - 1 - Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 24% ao ano.
 
 2 - O juro será contado dia a dia, desde o termo do prazo legal para a apresentação da respectiva declaração, no caso de contribuintes do grupo A da contribuição industrial, e desde o termo do prazo para cumprimento das obrigações exigidas no Código da Contribuição Industrial que tenham motivado atraso na liquidação do imposto, tratando-se de contribuintes dos grupos B e C da mesma contribuição, até à data em que vier a ser suprida ou corrigida a falta.
 
-###### Art. 12.º Só poderá ser liquidado imposto até 31 de Dezembro de 1987.
+Art. 12.º Só poderá ser liquidado imposto até 31 de Dezembro de 1987.
 
-###### Art. 13.º Não se procederá a qualquer liquidação, ainda que adicional, sempre que o quantitativo do imposto seja inferior a 100$00.
+Art. 13.º Não se procederá a qualquer liquidação, ainda que adicional, sempre que o quantitativo do imposto seja inferior a 100$00.
 
-###### Art. 14.º A liquidação do imposto, quando competir à repartição de finanças, será efectuada nos verbetes de lançamento utilizados para a liquidação da contribuição industrial, preenchendo-se seguidamente o índice dos verbetes e relação para descarga dos documentos de cobrança da mesma contribuição.
+Art. 14.º A liquidação do imposto, quando competir à repartição de finanças, será efectuada nos verbetes de lançamento utilizados para a liquidação da contribuição industrial, preenchendo-se seguidamente o índice dos verbetes e relação para descarga dos documentos de cobrança da mesma contribuição.
 
 Cobrança
 
-###### Art. 15.º - 1 - O imposto será pago:
+Art. 15.º - 1 - O imposto será pago:
 
 a) No caso da liquidação a que se refere a primeira parte da alínea a) do artigo 7.º, no dia da apresentação da declaração referida nesse preceito, mediante conhecimento de cobrança modelo n.º 10, a que alude o Código da Contribuição Industrial, devidamente adaptado e processado em triplicado pelos contribuintes;
 
@@ -166,31 +187,31 @@ e) Nos casos das alíneas b), c) e d) serão utilizados, com as devidas adaptaç
 
 3 - No caso de falta de pagamento no dia indicado na alínea a) do n.º 1, será considerada sem efeito a declaração apresentada.
 
-###### Art. 16.º - 1 - Não sendo pago no prazo de cobrança à boca do cofre o imposto liquidado, começarão a correr imediatamente juros de mora.
+Art. 16.º - 1 - Não sendo pago no prazo de cobrança à boca do cofre o imposto liquidado, começarão a correr imediatamente juros de mora.
 
 2 - Passados 60 dias sobre o vencimento do imposto sem que se mostre efectuado o pagamento, haverá lugar a procedimento executivo.
 
-###### Art. 17.º - 1 - Sempre que se proceda a liquidação adicional, nos termos dos artigos 8.º e 9.º, ou a liquidação por omissões ao lançamento, nos termos do artigo 10.º, o contribuinte será notificado para pagar o imposto devido no prazo de 15 dias.
+Art. 17.º - 1 - Sempre que se proceda a liquidação adicional, nos termos dos artigos 8.º e 9.º, ou a liquidação por omissões ao lançamento, nos termos do artigo 10.º, o contribuinte será notificado para pagar o imposto devido no prazo de 15 dias.
 
 2 - Se o pagamento não for efectuado no prazo estabelecido no número anterior, proceder-se-á à cobrança virtual, sem prejuízo do direito de reclamação e impugnação, devendo então o pagamento efectuar-se no mês seguinte ao do débito ao tesoureiro.
 
 Fiscalização
 
-###### Art. 18.º - 1 - São aplicáveis à fiscalização deste imposto as disposições dos artigos 110.º e 115.º do Código da Contribuição Industrial.
+Art. 18.º - 1 - São aplicáveis à fiscalização deste imposto as disposições dos artigos 110.º e 115.º do Código da Contribuição Industrial.
 
 2 - O duplicado da declaração a que se refere o n.º 2 do artigo 5.º será remetido pelas repartições de finanças aos serviços competentes, nos termos e para os efeitos do disposto no artigo 113.º do Código da Contribuição Industrial.
 
 Reclamações e recursos
 
-###### Art. 19.º Os contribuintes e as pessoas solidária ou subsidiariamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
+Art. 19.º Os contribuintes e as pessoas solidária ou subsidiariamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
 
-###### Art. 20.º - 1 - Quando, por motivos imputáveis ao serviço, tenha sido liquidado imposto superior ao devido, proceder-se-á a anulação oficiosa se ainda não tiverem decorrido 5 anos sobre a abertura dos cofres para a respectiva cobrança ou sobre o pagamento eventual.
+Art. 20.º - 1 - Quando, por motivos imputáveis ao serviço, tenha sido liquidado imposto superior ao devido, proceder-se-á a anulação oficiosa se ainda não tiverem decorrido 5 anos sobre a abertura dos cofres para a respectiva cobrança ou sobre o pagamento eventual.
 
 2 - O mesmo se observará quando, em exames à escrita dos contribuintes do grupo A ou em face da determinação da matéria colectável pelo sistema do grupo B nos termos do § 2.º do artigo 114.º ou ainda de revisão do lucro tributável nos termos do artigo 79.º, ambos do Código da Contribuição Industrial, se verifique que o imposto devido é inferior ao que foi liquidado.
 
 3 - Não se procederá a anulação quando o seu quantitativo seja inferior a 100$00.
 
-###### Art. 21.º - 1 - Anulada a liquidação, quer oficiosamente, quer por decisão do tribunal competente, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido no imposto debitado para a cobrança virtual.
+Art. 21.º - 1 - Anulada a liquidação, quer oficiosamente, quer por decisão do tribunal competente, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido no imposto debitado para a cobrança virtual.
 
 2 - Contar-se-ão juros de 18% ao ano a favor do contribuinte sempre que, estando pago o imposto, a Fazenda seja convencida, em processo gracioso ou judicial, de que na liquidação houve erro de facto imputável aos serviços.
 
@@ -198,32 +219,32 @@ Reclamações e recursos
 
 Penalidades
 
-###### Art. 22.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo a graduação das penas fazer-se de harmonia com a gravidade da culpa, a importância de imposto a pagar e as demais circunstâncias do caso.
+Art. 22.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo a graduação das penas fazer-se de harmonia com a gravidade da culpa, a importância de imposto a pagar e as demais circunstâncias do caso.
 
-###### Art. 23.º - 1 - A falta de apresentação no prazo legal da declaração a que se refere o n.º 2 do artigo 5.º, bem como as omissões ou inexactidões nela praticadas, serão punidas com multa de 3000$00 a 300000$00, ou, havendo dolo, com multa igual ao dobro do imposto não liquidado, com o mínimo de 6000$00 e o máximo de 3000000$00.
+Art. 23.º - 1 - A falta de apresentação no prazo legal da declaração a que se refere o n.º 2 do artigo 5.º, bem como as omissões ou inexactidões nela praticadas, serão punidas com multa de 3000$00 a 300000$00, ou, havendo dolo, com multa igual ao dobro do imposto não liquidado, com o mínimo de 6000$00 e o máximo de 3000000$00.
 
 2 - Quando as omissões ou inexactidões a que alude o número anterior decorrem de idênticas faltas praticadas na declaração modelo n.º 2 da contribuição industrial, serão aquelas consideradas apenas para efeitos da graduação ou liquidação da multa respeitante às faltas cometidas na referida declaração modelo n.º 2.
 
 3 - Se a declaração for apresentada nos 15 dias seguintes ao do termo do prazo legal, aplicar-se-á o disposto no artigo 8, n.º 1, alínea b), do [Decreto-Lei n.º 746/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/746-1975-355159), de 31 de Dezembro.
 
-###### Art. 24.º Verificada a falta da declaração a que se refere o artigo anterior, e independentemente do procedimento para aplicação da penalidade no mesmo referido, o autuante ou o chefe da repartição de finanças, consoante esteja ou não presente o transgressor, notificará ou mandará notificá-lo para proceder à regularização da falta dentro do prazo de 15 dias, com a cominação de que, não o fazendo, ficará sujeito à multa de 250000$00 a 10000000$00.
+Art. 24.º Verificada a falta da declaração a que se refere o artigo anterior, e independentemente do procedimento para aplicação da penalidade no mesmo referido, o autuante ou o chefe da repartição de finanças, consoante esteja ou não presente o transgressor, notificará ou mandará notificá-lo para proceder à regularização da falta dentro do prazo de 15 dias, com a cominação de que, não o fazendo, ficará sujeito à multa de 250000$00 a 10000000$00.
 
-###### Art. 25.º Sempre que haja lugar à aplicação de qualquer penalidade por infracção aos preceitos estabelecidos no Código da Contribuição Industrial relativamente aos contribuintes dos grupos B e C e com reflexos neste imposto extraordinário, será o montante deste imposto considerado também na graduação ou liquidação da multa.
+Art. 25.º Sempre que haja lugar à aplicação de qualquer penalidade por infracção aos preceitos estabelecidos no Código da Contribuição Industrial relativamente aos contribuintes dos grupos B e C e com reflexos neste imposto extraordinário, será o montante deste imposto considerado também na graduação ou liquidação da multa.
 
-###### Art. 26.º São aplicáveis neste imposto as disposições dos artigos 150.º a 159.º do Código da Contribuição Industrial.
+Art. 26.º São aplicáveis neste imposto as disposições dos artigos 150.º a 159.º do Código da Contribuição Industrial.
 
-###### Art. 27.º Este diploma entra em vigor na data da sua publicação.
+Art. 27.º Este diploma entra em vigor na data da sua publicação.
 
 Mário Soares - Ernâni Rodrigues Lopes.
 
-**Promulgado em 1 de Julho de 1983.**
+Promulgado em 1 de Julho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 4 de Julho de 1983.**
+Referendado em 4 de Julho de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15900/25452549.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15900/25452549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15900/25452549.pdf)

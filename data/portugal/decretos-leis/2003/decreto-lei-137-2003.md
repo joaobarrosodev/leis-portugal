@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/06/147a00/37283733.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/137/2003/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2003-693252
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b4724676ba8c68bb8f7b205b7e06fc8362200889dfc7d2a8eafb28865d04025
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26e06ba44ceef6faff430e7dcc1036e084611d8906c3195e12e1edcdef67e4d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Ministério da Segurança Social e do Trabalho
 - Definição de Competências
 - Departamento de Estudos Estatística e Planeamento
-- Extinção de Serviços
 - Departamento de Estudos Prospectiva e Planeamento
+- Extinção de Serviços
+- Ministério da Segurança Social e do Trabalho
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Receita
 relationships:
@@ -82,6 +82,14 @@ relationships:
   target: pt:dre:638547:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:527834:por
+  label: "Determinada a sucessão da Secretaria-Geral e da Direcção-Geral de Estudos, Estatística e Planeamento, nos direitos\
+    \ e obrigações, ao Departamento de Estudos, Prospectiva e Planeamento, nas áreas de coordenação, difusão e edição de informação,\
+    \ e ao Departamento de Estudos, Estatística e Planeamento, respectivamente, cuja orgânica foi reformulada e aprovada pelo\
+    \ presente diploma, pelo DEC LEI.171/2004.17.07.2004.MSST, DR.IS-A [167] de 17.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2004-527834
+  date: '2004-07-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/2/2003/01/06/p/dre
   label: null
@@ -94,16 +102,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
+- type: cites
+  target: pt:dre:481161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581871:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:638547:por
+  label: "Revogado, a partir de 01.06.2007, pelo DEC LEI.209/2007.29.05.2007.MTSSO, DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2007-638547
+  date: '2007-05-29'
 article_structure:
   article_count: 26
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:34Z'
   warnings: []
   errors: []
 ---
@@ -372,7 +397,9 @@ i) Assegurar o economato, a gestão de stocks e a gestão e manutenção do parq
 
 4 - A DSGA compreende ainda a Secção de Pessoal e a Secção de Expediente e Arquivo, que exercerão, respectivamente, as competências previstas nas alíneas a) a c) e d) do n.º 1 do presente artigo.
 
-###### Artigo 17.º — Divisão de Apoio Técnico
+###### Artigo 17.º
+
+##### Divisão de Apoio Técnico
 
 Compete à Divisão de Apoio Técnico, abreviadamente designada por DAT:
 
@@ -446,15 +473,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Maio de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António José de Castro Bagão Félix.
 
-**Promulgado em 13 de Junho de 2003, na ilha das Flores, Açores.**
+Promulgado em 13 de Junho de 2003, na ilha das Flores, Açores.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Junho de 2003.**
+Referendado em 18 de Junho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (mapa a que se refere o n.º 1 do artigo 21.º)
 

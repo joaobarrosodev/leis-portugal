@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/105b00/21572168.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/18/1997/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1997-383816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:24:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 396e47054cf0429fe172f743bdbd3a4e00241d239897571630ddf0fbb794b93d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb507ad39b0a27acb5f3d7ec7c62d3ec0a455fd4acbf9f56e65f41bd0c0903bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:24:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Direcção Regional de Agricultura do Algarve
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
@@ -99,16 +99,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/744-b/1993/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/744-b/1993/08/18/p/dre
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629664:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:218544:por
+  label: "Revogados os arts. 27.º, 28.º, 29.º, 30.º e 34.º, pelo DEC LEI.80/2004.10.04.2004.MADRP, DR.IS-A [85] de 10.04.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2004-218544
+  date: '2004-04-10'
+- type: repealed_by
+  target: pt:dre:473500:por
+  label: "Revogados os arts. 24º a 26º pelo DEC LEI.237/2005.30.12.2005.MEI, DR.IS-A [250] de 30.12.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-2005-473500
+  date: '2005-12-30'
+- type: repealed_by
+  target: pt:dre:518853:por
+  label: "Revogado pelo DR.12/2007.27.02.2007.MADRP, DR.IS [41] de 27.02.2007, a partir de 01.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-2007-518853
+  date: '2007-02-27'
 article_structure:
   article_count: 44
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:24:05Z'
   warnings: []
   errors: []
 ---
@@ -203,7 +255,9 @@ d) Divisão de Documentação, Informação e Relações Públicas;
 
 e) Repartição de Administração Geral.
 
-###### Artigo 6.º — Divisão de Formação e Gestão de Recursos Humanos
+###### Artigo 6.º
+
+##### Divisão de Formação e Gestão de Recursos Humanos
 
 À Divisão de Formação e Gestão de Recursos Humanos compete:
 
@@ -231,7 +285,9 @@ l) Instruir os processos relativos a acidentes em serviço e aposentação dos f
 
 m) Assegurar a análise e processamento dos elementos relativos aos vencimentos, salários e outros abonos de todo o pessoal, bem como elaborar os documentos que sirvam de suporte ao tratamento informático daquelas remunerações e abonos e respectivos descontos, e garantir os procedimentos inerentes.
 
-###### Artigo 7.º — Divisão de Gestão Financeira e Controlo Orçamental
+###### Artigo 7.º
+
+##### Divisão de Gestão Financeira e Controlo Orçamental
 
 1 - À Divisão de Gestão Financeira e Controlo Orçamental compete:
 
@@ -251,7 +307,9 @@ g) Assegurar, em colaboração com a Divisão de Organização e Informática, a
 
 2 - Na dependência da Divisão de Gestão Financeira e Controlo Orçamental funciona uma tesouraria, coordenada por um tesoureiro, que assegura as tarefas inerentes ao movimento de receitas e despesas e respectiva escrituração.
 
-###### Artigo 8.º — Divisão de Organização e Informática
+###### Artigo 8.º
+
+##### Divisão de Organização e Informática
 
 À Divisão de Organização e Informática compete:
 
@@ -273,7 +331,9 @@ h) Apoiar a formação e reciclagem do pessoal do domínio da informática, em c
 
 i) Apoiar tecnicamente a elaboração e execução de processos, devidamente autorizados, de aquisição de bens e serviços na área da informática.
 
-###### Artigo 9.º — Divisão de Documentação, Informação e Relações Públicas
+###### Artigo 9.º
+
+##### Divisão de Documentação, Informação e Relações Públicas
 
 À Divisão de Documentação, Informação e Relações Públicas compete:
 
@@ -345,7 +405,9 @@ a) Divisão de Estudos;
 
 b) Divisão de Programação, Recolha e Tratamento de Dados.
 
-###### Artigo 12.º — Divisão de Estudos
+###### Artigo 12.º
+
+##### Divisão de Estudos
 
 À Divisão de Estudos compete:
 
@@ -357,7 +419,9 @@ c) Colaborar com os serviços centrais competentes e outras entidades nacionais 
 
 d) Criar um observatório de análise da mudança, no meio rural em geral e no sector agrário em particular, que permita um conhecimento actualizado da situação e fundamente a apresentação de propostas de novas medidas de política agrária ou a melhoria das existentes.
 
-###### Artigo 13.º — Divisão de Programação, Recolha e Tratamento de Dados
+###### Artigo 13.º
+
+##### Divisão de Programação, Recolha e Tratamento de Dados
 
 À Divisão de Programação, Recolha e Tratamento de Dados compete:
 
@@ -405,7 +469,9 @@ c) Divisão de Horto-Floricultura e Fruticultura;
 
 d) Divisão de Citricultura.
 
-###### Artigo 16.º — Divisão de Protecção das Culturas
+###### Artigo 16.º
+
+##### Divisão de Protecção das Culturas
 
 À Divisão de Protecção das Culturas compete:
 
@@ -421,7 +487,9 @@ e) Assegurar a experimentação em luta química aconselhada, protecção integr
 
 f) Promover o levantamento de material fitogénico autóctone e colaborar com a Direcção-Geral da Protecção das Culturas nos trabalhos inerentes à sua caracterização.
 
-###### Artigo 17.º — Divisão de Produção Pecuária
+###### Artigo 17.º
+
+##### Divisão de Produção Pecuária
 
 À Divisão de Produção Pecuária compete:
 
@@ -435,7 +503,9 @@ d) Apoiar as organizações de produtores na preparação e execução de tarefa
 
 e) Acompanhar, validar e controlar a execução de projectos de investimento.
 
-###### Artigo 18.º — Divisão de Horto-Floricultura e Fruticultura
+###### Artigo 18.º
+
+##### Divisão de Horto-Floricultura e Fruticultura
 
 À Divisão de Horto-Floricultura e Fruticultura compete:
 
@@ -455,7 +525,9 @@ g) Assegurar a actualização dos diferentes cadastros e condicionamentos legais
 
 h) Acompanhar, validar e controlar a execução de projectos de investimento.
 
-###### Artigo 19.º — Divisão de Citricultura
+###### Artigo 19.º
+
+##### Divisão de Citricultura
 
 À Divisão de Citricultura compete:
 
@@ -481,7 +553,9 @@ b) Divisão de Qualificação Profissional;
 
 c) Divisão de Infra-Estruturas Rurais, Hidráulica, Engenharia Agrícola e Ambiente.
 
-###### Artigo 21.º — Divisão de Associativismo e Renovação do Tecido Produtivo
+###### Artigo 21.º
+
+##### Divisão de Associativismo e Renovação do Tecido Produtivo
 
 À Divisão de Associativismo e Renovação do Tecido Produtivo compete:
 
@@ -503,7 +577,9 @@ h) Apoiar a valorização e promoção dos produtos regionais, bem como a produ�
 
 i) Acompanhar, validar e controlar a execução de projectos de investimento.
 
-###### Artigo 22.º — Divisão de Qualificação Profissional
+###### Artigo 22.º
+
+##### Divisão de Qualificação Profissional
 
 À Divisão de Qualificação Profissional compete:
 
@@ -517,7 +593,9 @@ d) Participar e promover as acções e mecanismos que garantam a higiene e segur
 
 e) Acompanhar, validar e controlar a execução de projectos no âmbito da qualificação profissional.
 
-###### Artigo 23.º — Divisão de Infra-Estruturas Rurais, Hidráulica, Engenharia Agrícola e Ambiente
+###### Artigo 23.º
+
+##### Divisão de Infra-Estruturas Rurais, Hidráulica, Engenharia Agrícola e Ambiente
 
 À Divisão de Infra-Estruturas Rurais, Hidráulica, Engenharia Agrícola e Ambiente compete:
 
@@ -593,7 +671,9 @@ p) Assegurar a colaboração com as várias entidades intervenientes na defesa d
 
 q) Exercer quaisquer outras acções ou funções que lhes sejam superiormente determinadas.
 
-###### Artigo 26.º — Divisão de Ajudas à Produção e ao Rendimento
+###### Artigo 26.º
+
+##### Divisão de Ajudas à Produção e ao Rendimento
 
 À Divisão de Ajudas à Produção e ao Rendimento compete:
 
@@ -615,7 +695,9 @@ b) Divisão de Protecção e Conservação Florestal;
 
 c) Divisão de Caça e Pesca nas Águas Interiores.
 
-###### Artigo 28.º — Divisão de Valorização do Património Florestal
+###### Artigo 28.º
+
+##### Divisão de Valorização do Património Florestal
 
 À Divisão de Valorização do Património Florestal compete, designadamente:
 
@@ -645,7 +727,9 @@ m) Gerir espaços florestais públicos e comunitários, na área de intervençã
 
 n) Acompanhar, validar e controlar a execução de projectos de investimento.
 
-###### Artigo 29.º — Divisão de Protecção e Conservação Florestal
+###### Artigo 29.º
+
+##### Divisão de Protecção e Conservação Florestal
 
 À Divisão de Protecção e Conservação Florestal compete, designadamente:
 
@@ -673,7 +757,9 @@ l) Assegurar o cumprimento das medidas legislativas de protecção relativas aos
 
 m) Autorizar podas e cortes em desbaste de sobreiros e azinheiras nos termos da legislação em vigor relativa a estas espécies florestais.
 
-###### Artigo 30.º — Divisão de Caça e Pesca nas Águas Interiores
+###### Artigo 30.º
+
+##### Divisão de Caça e Pesca nas Águas Interiores
 
 1 - À Divisão de Caça e Pesca nas Águas Interiores compete, designadamente:
 
@@ -761,7 +847,9 @@ r) Assegurar o adequado desenvolvimento de medidas de inspecção sanitária e a
 
 s) Acompanhar, validar e controlar a execução de projectos de investimento.
 
-###### Artigo 33.º — Divisão de Controlo Fitossanitário
+###### Artigo 33.º
+
+##### Divisão de Controlo Fitossanitário
 
 À Divisão de Controlo Fitossanitário, na directa dependência do director regional e sob a orientação funcional da Direcção-Geral de Protecção das Culturas, compete:
 
@@ -867,24 +955,24 @@ Presidência de Conselho de Ministros, 20 de Fevereiro de 1997.
 
 António Manuel de Carvalho Ferreira Vitorino - Maria Manuela de Brito Arcanjo Marques da Costa - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 2 de Abril de 1997.**
+Promulgado em 2 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Abril de 1997.**
+Referendado em 10 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA I A QUE SE REFERE O ARTIGO 32.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/105b00/21572168.pdf))](https://files.diariodarepublica.pt/1s/1997/05/105b00/21572168.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/105b00/21572168.pdf)
 
 MAPA II A QUE SE REFERE O ARTIGO 38.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/105b00/21572168.pdf))](https://files.diariodarepublica.pt/1s/1997/05/105b00/21572168.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/105b00/21572168.pdf)
 
 MAPA III A QUE SE REFERE O n.º 2 DO ARTIGO 39.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/105b00/21572168.pdf))](https://files.diariodarepublica.pt/1s/1997/05/105b00/21572168.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/105b00/21572168.pdf)

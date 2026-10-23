@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/09/18700/0003700049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/147/2019/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2019-125016440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73041e6d64aaa1d6e6d918d64969a7fb2b359edb14f1d1fef5eb52263cb1568c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b6ce4bed01ed4b64d7f9c669d6632fe09189bed3cb32bc34ab13989038d5552
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Seguradora
-- Contrato de Seguro
-- Reino Unido
-- Instituição de Crédito
-- Supervisão Financeira
-- Contingentação
-- Contribuições da Segurança Social
-- Portugal
-- União Europeia
 - Atividade Bancária
+- Atividade Seguradora
+- CMVM
+- Contingentação
+- Contrato de Seguro
+- Contribuições da Segurança Social
+- Instituição de Crédito
 - Investimento Estrangeiro
 - Investimento no Estrangeiro
-- Investimento Público
-- Prestação de Serviços
 - Investimento Privado
+- Investimento Público
+- Portugal
+- Prestação de Serviços
+- Reino Unido
 - Segurança Social
-- CMVM
+- Supervisão Financeira
+- União Europeia
 relationships:
 - type: cites
   target: celex:32004R0883
@@ -111,16 +111,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27-a/2019/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27-a/2019/03/28/p/dre
+- type: cites
+  target: pt:dre:121734971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66581992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682983:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:23Z'
   warnings: []
   errors: []
 ---
@@ -299,19 +315,19 @@ Os contratos de seguro, cobrindo riscos situados em território português ou em
 
 Visto e aprovado em Conselho de Ministros de 12 de setembro de 2019. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Álvaro António da Costa Novo - José António Fonseca Vieira da Silva.
 
-**Promulgado em 22 de setembro de 2019.**
+Promulgado em 22 de setembro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de setembro de 2019.**
+Referendado em 23 de setembro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — Formulário relativo à notificação para a prestação de serviços e atividades de investimento e serviços auxiliares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/09/18700/0003700049.pdf))](https://files.diariodarepublica.pt/1s/2019/09/18700/0003700049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/18700/0003700049.pdf)
 
 A instituição ou empresa de investimento remete os elementos previstos no presente anexo para o endereço de correio eletrónico brexit@cmvm.pt, para que o mesmo seja divulgado no sítio da Internet da Comissão do Mercado de Valores Mobiliários.
 
@@ -321,7 +337,7 @@ Assinatura e função | Signature and job title:
 
 ## ANEXO II — Formulário relativo à notificação para a prestação de serviços relativos a OIC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/09/18700/0003700049.pdf))](https://files.diariodarepublica.pt/1s/2019/09/18700/0003700049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/18700/0003700049.pdf)
 
 A entidade gestora remete os elementos previstos no presente anexo para o endereço de correio eletrónico brexit@cmvm.pt, para que o mesmo seja divulgado no sítio da Internet da Comissão do Mercado de Valores Mobiliários.
 
@@ -331,10 +347,12 @@ Assinatura e função | Signature and job title:
 
 ## ANEXO III — Formulário relativo à notificação para a comercialização de OIC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/09/18700/0003700049.pdf))](https://files.diariodarepublica.pt/1s/2019/09/18700/0003700049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/18700/0003700049.pdf)
 
 A entidade gestora remete os elementos previstos no presente anexo para o endereço de correio eletrónico brexit@cmvm.pt, para que o mesmo seja divulgado no sítio da Internet da Comissão do Mercado de Valores Mobiliários
 
 Data | Date:
 
 Assinatura e função | Signature and job title:
+
+112610958

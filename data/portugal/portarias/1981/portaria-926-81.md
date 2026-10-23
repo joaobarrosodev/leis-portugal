@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/926-1981-562435
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:58:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0eb5b76e77d25596368e851f1491574534f219f89b5267139343a833978a8c8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee1377927ec892b012ad642a6f1d8520def8496f0a640a67f07718cc4ca7df86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:58:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ajudas de Custo
+- Deslocação ao Estrangeiro
+- Deslocação em Serviço
+- GNR
+- PSP
+relationships:
+- type: cites
+  target: pt:dre:508674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508776:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:58:05Z'
   warnings: []
   errors: []
 ---
@@ -93,20 +106,20 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 a) Guarda Nacional Republicana:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/24400/28152816.pdf))](https://files.diariodarepublica.pt/1s/1981/10/24400/28152816.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/24400/28152816.pdf)
 
 b) Polícia de Segurança Pública:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/24400/28152816.pdf))](https://files.diariodarepublica.pt/1s/1981/10/24400/28152816.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/24400/28152816.pdf)
 
 2.º As tabelas de ajudas de custo por deslocações em missão oficial ao estrangeiro ou no estrangeiro, a que se refere a [Portaria n.º 26-X/80](https://diariodarepublica.pt/dr/detalhe/portaria/26-x-1980-508776), de 9 de Janeiro, são substituídas, com efeitos desde 15 de Dezembro de 1980, pelas seguintes:
 
 Guarda Nacional Republicana:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/24400/28152816.pdf))](https://files.diariodarepublica.pt/1s/1981/10/24400/28152816.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/24400/28152816.pdf)
 
 b) Polícia de Segurança Pública:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/24400/28152816.pdf))](https://files.diariodarepublica.pt/1s/1981/10/24400/28152816.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/24400/28152816.pdf)
 
 Ministérios das Finanças e do Plano e da Administração Interna, 1 de Outubro de 1981. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Administração Interna, José Ângelo Ferreira Correia.

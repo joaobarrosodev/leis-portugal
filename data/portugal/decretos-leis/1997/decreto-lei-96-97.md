@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/096a00/18381841.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/96/1997/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1997-476957
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bb15316c3f910f51ac558d5b4261b6a032370b8461c2909a5e098ff60e67ef2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13a347d65d3bdf80bb00553853f804ab29c0ac369d683846f1655e1cb1fb312a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Certificado de Qualidade
+- Comércio
 - Controlo de Qualidade
 - Embarcação de Recreio
 - Fiscalização
-- Certificado de Qualidade
 - Normas de Segurança
 - Proteção do Ambiente
 - Proteção do Consumidor
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:147611:por
@@ -84,16 +84,22 @@ relationships:
   target: celex:31994L0025
   label: null
   source: http://data.europa.eu/eli/dir/1994/25/oj
+- type: repealed_by
+  target: pt:dre:147611:por
+  label: "Revogado, sem prejuízo das disposições transitórias previstas na al. a) do art. 19.º, pelo DEC LEI.168/2005.26.09.2005.MEI,\
+    \ DR.IS-A [185] de 26.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/168-2005-147611
+  date: '2005-09-26'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:22Z'
   warnings: []
   errors: []
 ---
@@ -272,15 +278,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Janeiro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 14 de Fevereiro de 1997.**
+Promulgado em 14 de Fevereiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Fevereiro de 1997.**
+Referendado em 20 de Fevereiro de 1997.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.
 
 ## ANEXO I — Declaração do construtor, do seu mandatário ou do responsável pela colocação no mercado dos produtos referidos no artigo 1.º (n.os 2 e 3 do artigo 4.º)
 
@@ -306,7 +312,7 @@ Declaração nos termos da qual os componentes preenchem os requisitos essenciai
 
 ## ANEXO II — Categorias de projecto das embarcações de recreio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/096a00/18381841.pdf))](https://files.diariodarepublica.pt/1s/1997/04/096a00/18381841.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/096a00/18381841.pdf)
 
 Definições
 

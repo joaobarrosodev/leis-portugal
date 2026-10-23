@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/197/2012/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb34629811b4d03be5d57e66ef2b615877e6a715a9b44dd68c21ffef5eecb8db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b94b74308d6d16a9191c6041d4ad91f37bc98dc40d2d696848ed46892e28cd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,27 +71,105 @@ subjects:
 - Aproximação das Legislações
 - Autoridade Tributária e Aduaneira
 - BENS em Segunda MÃO
+- Contribuições e Impostos
 - Cooperativa Agrícola
 - Embarcação de Recreio
 - Factura
-- Contribuições e Impostos
+- Investimento
+- IRC
 - IRS
 - IVA
-- Transmissão da Propriedade
-- Investimento
 - Locação Financeira
 - Margens de Comercialização
 - OURO
-- Transporte de Mercadorias
-- IRC
 - Prestação de Serviços
 - Regime Especial de Exigibilidade do Imposto sobre o Valor Acrescentado nas Entregas de BENS às Cooperativas Agrícolas
 - Transacção Intracomunitária
+- Transmissão da Propriedade
+- Transporte de Mercadorias
 relationships:
 - type: amended_by
   target: pt:dre:125815920:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação aos arts. 19º e 78º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-dez, alterado pelo\
+    \ presente diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:513603:por
+  label: "Dada nova redação, com efeitos a 01.10.2013, ao art. 19º do Código do IVA , aprovado pelo Dec Lei 394-B/84 de 26-dez\
+    \ , alterado pelo presente diploma, pelo DEC LEI.71/2013.30.05.2013.MF, DR.IS [104] de 30.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-2013-513603
+  date: '2013-05-30'
+- type: amended_by
+  target: pt:dre:498764:por
+  label: "Alterado o art. 115.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-nov, na redação do presente diploma,\
+    \ pela LEI.51/2013.24.07.2013.AR, DR.IS [141] de 24.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/51-2013-498764
+  date: '2013-07-24'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterado o art. 5º do Dec Lei 198/90, de 19-jun, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR,\
+    \ DR.IS [253-Supl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:58585557:por
+  label: Alterado, com efeitos a partir de 01.01.2015, o art. 6.º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-dez,
+    na redação do presente diploma, pelo(a) Decreto-Lei n.º 158/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-2014-58585557
+  date: '2014-10-24'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Alterado os arts 29.º(anterior art. 28.º) e 78.º (anterior art. 71.º) do Código do Imposto sobre o Valor Acrescentado
+    (Código do IVA), aprovado pelo Dec Lei 394-B/84 de 26-dez, na redação do presente diploma, pelo(a) Lei n.º 82-B/2014 -
+    Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66022085:por
+  label: Alterado o art. 115.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-nov, na redação do presente diploma,
+    pelo(a) Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-e-2014-66022085
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:75069302:por
+  label: Alterado o art. 62.º do Código do IVA aprovado pelo Dec Lei 394-B/84, de 26-dez, na redação do presente diploma pelo(a)
+    Decreto-Lei n.º 41/2016 - Diário da República n.º 146/2016, Série I de 2016-08-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2016-75069302
+  date: '2016-08-01'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Alterado o art. 27.º do Código do Imposto sobre o Valor Acrescentado (CIVA) aprovado pelo Dec Lei 394-B/84, de 26-dez,
+    renumerado na versão republicada do Código pelo Dec Lei 102/2008, de 20-jun pelo(a) Lei n.º 42/2016 - Diário da República
+    n.º 248/2016, Série I de 2016-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
+  date: '2016-12-28'
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Alterados os arts. 7.º e 16.º do Código do Imposto sobre o Valor Acrescentado aprovado pelo Dec Lei 394-B/84 de 26-dez,
+    renumerado e na versão republicada do Código pelo Dec Lei 102/2008 de 20-jun retificado pela Decl-Ret 44-A/2008 de 13-ago
+    e na redação do presente diploma, pelo(a) Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31 nos
+    termos do n.º 2 do seu art. 275.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:119622094:por
+  label: Alterados, a partir de 16.02.2019, e nos termos do disposto no art. 45.º, os art. 29.º e 36.º do Código do IVA, aprovado
+    pelo Dec Lei 394-B/84 de 26-dez, na redação do presente diploma, pelo presente diploma, pelo(a) Decreto-Lei n.º 28/2019
+    - Diário da República n.º 33/2019, Série I de 2019-02-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2019-119622094
+  date: '2019-02-15'
+- type: amended_by
+  target: pt:dre:125815920:por
+  label: Alterados, a partir de 01.01.2020, os arts.19.º, 29.º e 36.º na redação do presente diploma, do Código do IVA, aprovado
+    pelo Dec Lei 394-B/84 de 26-dez, renumerado e na versão republicada do Código pelo Dec Lei 102/2008 de 20-jun, retificado
+    pela Decl-Ret 44-A/2008 de 13-ago, pelo(a) Decreto-Lei n.º 165/2019 - Diário da República n.º 209/2019, Série I de 2019-10-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/165-2019-125815920
+  date: '2019-10-30'
 - type: cites
   target: celex:32006L0112
   label: null
@@ -112,16 +190,23 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/1994/820/oj
   label: null
   source: http://data.europa.eu/eli/reco/1994/820/oj
+- type: repealed_by
+  target: pt:dre:513603:por
+  label: "Revogado, a partir de 04.06.2013, com efeitos a 01.10.2013, o Regime Especial de Exigibilidade do Imposto sobre\
+    \ o Valor Acrescentado dos Serviços de Transporte Rodoviário Nacional de Mercadorias, aprovado pela Lei 15/2009, de 01-abr,\
+    \ alterado pelo presente diploma, pelo DEC LEI.71/2013.30.05.2013.MF, DR.IS [104] de 30.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-2013-513603
+  date: '2013-05-30'
 article_structure:
-  article_count: 47
+  article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:48Z'
   warnings: []
   errors: []
 ---
@@ -216,7 +301,9 @@ l) ...
 
 5 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -282,7 +369,9 @@ e) Locação de uma embarcação de recreio, que não seja de curta duração, e
 
 13 - O disposto na alínea g) do n.º 10 não tem aplicação relativamente à locação de uma embarcação de recreio, que não seja de curta duração, quando o locador tenha sede, estabelecimento estável ou, na sua falta, domicílio fora do território nacional, a partir do qual os serviços são prestados, e a efetiva colocação da embarcação à disposição do destinatário ocorra no mesmo território.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -308,7 +397,9 @@ e) Locação de uma embarcação de recreio, que não seja de curta duração, e
 
 12 - Nas transmissões de bens isentas nos termos do artigo 14.º do Regime do IVA nas Transações Intracomunitárias, efetuadas de forma continuada por um período superior a um mês, o imposto é devido e torna-se exigível no final de cada mês, pelo montante correspondente.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Não obstante o disposto no artigo anterior, sempre que a transmissão de bens ou prestação de serviços dê lugar à obrigação de emitir uma fatura nos termos do artigo 29.º, o imposto torna-se exigível:
 
@@ -324,7 +415,9 @@ c) Se a transmissão de bens ou a prestação de serviços derem lugar ao pagame
 
 4 - Nas transmissões de bens isentas nos termos do artigo 14.º do Regime do IVA nas Transações Intracomunitárias o imposto torna-se exigível no momento da emissão da fatura ou, quando esta não tenha sido emitida dentro do prazo previsto no n.º 2 do artigo 27.º daquele Regime, no momento em que aquele prazo termina.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -358,7 +451,9 @@ d) As quantias respeitantes a embalagens, desde que as mesmas não tenham sido e
 
 12 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -378,7 +473,9 @@ b) No recibo de pagamento do IVA que faz parte das declarações de importação
 
 7 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -414,7 +511,9 @@ b) No recibo de pagamento do IVA que faz parte das declarações de importação
 
 17 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -430,7 +529,9 @@ b) No recibo de pagamento do IVA que faz parte das declarações de importação
 
 7 - ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Para além da obrigação do pagamento do imposto, os sujeitos passivos referidos na alínea a) do n.º 1 do artigo 2.º devem, sem prejuízo do previsto em disposições especiais:
 
@@ -488,7 +589,9 @@ i) ...
 
 19 - Não é permitida aos sujeitos passivos a emissão e entrega de documentos de natureza diferente da fatura para titular a transmissão de bens ou prestação de serviços aos respetivos adquirentes ou destinatários, sob pena de aplicação das penalidades legalmente previstas.
 
-###### Artigo 36.º — Prazo de emissão e formalidades das faturas
+Artigo 36.º
+
+Prazo de emissão e formalidades das faturas
 
 1 - A fatura referida na alínea b) do n.º 1 do artigo 29.º deve ser emitida:
 
@@ -548,7 +651,9 @@ c) Conter a menção 'autofaturação'.
 
 16 - A indicação na fatura do número de identificação fiscal do adquirente ou destinatário não sujeito passivo é sempre obrigatória quando este o solicite.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - A importância do imposto liquidado deve ser adicionada ao valor da fatura, para efeitos da sua exigência aos adquirentes dos bens ou destinatários dos serviços.
 
@@ -556,7 +661,9 @@ c) Conter a menção 'autofaturação'.
 
 3 - ...
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - No caso de entrega de mercadorias à consignação, procede-se à emissão de faturas no prazo de cinco dias úteis a contar:
 
@@ -566,7 +673,9 @@ b) ...
 
 2 - A fatura, processada de acordo com a alínea b) do número anterior, deve fazer sempre apelo à documentação emitida aquando da situação referida na alínea a) do referido número.
 
-###### Artigo 40.º — Faturas simplificadas
+Artigo 40.º
+
+Faturas simplificadas
 
 1 - A obrigatoriedade de emissão de fatura prevista na alínea b) do n.º 1 do artigo 29.º pode ser cumprida através da emissão de uma fatura simplificada em transmissões de bens e prestações de serviços cujo imposto seja devido em território nacional, nas seguintes situações:
 
@@ -598,13 +707,17 @@ b) Transmissões de bens efetuadas através de aparelhos de distribuição autom
 
 7 - O Ministro das Finanças pode, nos casos em que julgue conveniente, e para os fins previstos neste Código, equiparar certos documentos de uso comercial a faturas.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - ...
 
 2 - Para tal efeito, as faturas, guias ou notas de devolução e outros documentos retificativos de faturas, incluindo os emitidos, em nome e por conta do sujeito passivo, pelo próprio adquirente dos bens ou por um terceiro, são identificados através das referidas designações e numerados sequencialmente, em uma ou mais séries convenientemente referenciadas, devendo conservar-se na respetiva ordem os seus duplicados e, bem assim, todos os exemplares dos que tiverem sido anulados ou inutilizados, com os averbamentos indispensáveis à identificação daqueles que os substituíram, se for caso disso.
 
-###### Artigo 46.º — Registo das operações em caso de emissão de faturas simplificadas
+Artigo 46.º
+
+Registo das operações em caso de emissão de faturas simplificadas
 
 1 - Os sujeitos passivos que emitam faturas nos termos do artigo 40.º e não utilizem sistemas informáticos integrados de faturação e contabilidade podem efetuar o registo das operações, realizadas diariamente com não sujeitos passivos, pelo montante global das contraprestações recebidas pelas transmissões de bens e prestações de serviços tributáveis, imposto incluído, assim como pelo montante das contraprestações relativas às operações não tributáveis ou isentas.
 
@@ -616,15 +729,21 @@ b) Transmissões de bens efetuadas através de aparelhos de distribuição autom
 
 5 - A opção pela elaboração de folhas de caixa a que se refere o n.º 2 não dispensa a obrigatoriedade de conservação dos duplicados das faturas e dos demais documentos ali referidos nas condições e prazo previstos no artigo 52.º
 
-###### Artigo 47.º — (Revogado.)
+Artigo 47.º
 
-###### Artigo 48.º — [...]
+(Revogado.)
+
+Artigo 48.º
+
+[...]
 
 1 - O registo das operações mencionadas nas alíneas b) e c) do n.º 2 do artigo 44.º deve ser efetuado após a receção das correspondentes faturas e guias ou notas de devolução, até à apresentação das declarações a que se referem os artigos 41.º ou 43.º, se enviadas dentro do prazo legal, ou até ao fim desse prazo, se essa obrigação não tiver sido cumprida.
 
 2 - Para tal efeito, as faturas, guias ou notas de devolução e outros documentos retificativos de faturas, incluindo os que sejam emitidos na qualidade de adquirente ao abrigo dos n.os 14 e 15 do artigo 29.º, são numerados seguidamente, em uma ou mais séries convenientemente referenciadas, devendo conservar-se na respetiva ordem os seus originais e, bem assim, todos os exemplares dos que tiverem sido anulados, com os averbamentos indispensáveis à identificação daqueles que os substituíram, se for caso disso.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - ...
 
@@ -638,7 +757,9 @@ b) ...
 
 c) ...
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - ...
 
@@ -654,17 +775,23 @@ c) ...
 
 7 - É ainda permitido o arquivamento em suporte eletrónico das faturas ou de quaisquer outros documentos com relevância fiscal desde que processados por computador, nos termos definidos por portaria do Ministro das Finanças.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 Salvo no caso das vendas referidas no n.º 9 do artigo 60.º, as faturas emitidas por retalhistas sujeitos ao regime especial de tributação previsto no artigo 60.º não conferem direito à dedução, devendo delas constar a menção 'IVA - não confere direito à dedução'.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - Os retalhistas sujeitos ao regime especial de tributação previsto no artigo 60.º são obrigados a registar no prazo de 30 dias a contar da respetiva receção as faturas e guias ou notas de devolução relativas aos bens ou serviços adquiridos e a conservá-las com observância do disposto no n.º 2 do artigo 48.º
 
 2 - ...
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - ...
 
@@ -674,7 +801,9 @@ Salvo no caso das vendas referidas no n.º 9 do artigo 60.º, as faturas emitida
 
 4 - No caso de entregas efetuadas por revendedores por conta dos distribuidores, as faturas emitidas pelos revendedores devem conter a menção 'IVA - não confere direito à dedução' ou expressão similar.
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - As disposições dos artigos 36.º e seguintes devem ser observadas sempre que, emitida a fatura, o valor tributável de uma operação ou o respetivo imposto venham a sofrer retificação por qualquer motivo.
 
@@ -710,7 +839,9 @@ Salvo no caso das vendas referidas no n.º 9 do artigo 60.º, as faturas emitida
 
 17 - ...
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - O adquirente dos bens ou serviços tributáveis que seja um sujeito passivo dos referidos na alínea a) do n.º 1 do artigo 2.º, agindo como tal, e não isento, é solidariamente responsável com o fornecedor pelo pagamento do imposto quando a fatura obrigatória não tenha sido passada, contenha uma indicação inexata quanto ao nome ou endereço das partes intervenientes, à natureza ou à quantidade dos bens transmitidos ou serviços fornecidos, ao preço ou ao montante de imposto devido.
 
@@ -722,7 +853,9 @@ Salvo no caso das vendas referidas no n.º 9 do artigo 60.º, as faturas emitida
 
 5 - A responsabilidade solidária prevista no número anterior é aplicável ainda que o adquirente dos bens ou serviços prove ter pago a totalidade ou parte do imposto ao sujeito passivo que na fatura figura como fornecedor dos bens ou prestador dos serviços.
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - ...
 
@@ -748,7 +881,9 @@ Os artigos 6.º, 13.º, 23.º, 27.º e 28.º do Regime do IVA nas Transações I
 
 3 - Para efeitos do disposto na alínea a) do número anterior, a data da primeira utilização é a constante do título de registo de propriedade ou documento equivalente quando se trate de bens sujeitos a registo, licença ou matrícula, ou, na sua falta, a da fatura emitida aquando da aquisição pelo primeiro proprietário.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -758,7 +893,9 @@ b) Na data da emissão da fatura, se tiver sido emitida antes do prazo previsto 
 
 2 - O disposto na alínea b) do número anterior não é aplicável quando a fatura respeitar a pagamentos parciais que precedam o momento em que os bens são colocados à disposição do adquirente.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 1 do artigo 29.º do Código do IVA, os sujeitos passivos referidos no artigo 2.º devem:
 
@@ -770,7 +907,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - O imposto devido pelas aquisições intracomunitárias de bens deve ser liquidado pelo sujeito passivo na fatura emitida pelo vendedor ou em documento interno emitido pelo próprio sujeito passivo.
 
@@ -784,7 +923,9 @@ c) ...
 
 6 - (Revogado.)
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - As pessoas singulares ou coletivas que efetuem aquisições intracomunitárias de meios de transporte novos devem exigir que a fatura emitida pelo vendedor contenha os seguintes elementos:
 
@@ -900,7 +1041,7 @@ Os artigos 5.º e 10.º do regime especial aplicável ao ouro para investimento,
 
 4 - A renúncia à isenção deve ser exercida caso a caso e a respetiva fatura, quando o adquirente seja um sujeito passivo dos mencionados na alínea a) do n.º 1 do artigo 2.º do Código do IVA, deve conter a menção 'IVA - autoliquidação'.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - ...
 
@@ -1006,12 +1147,12 @@ c) O n.º 2 do artigo 115.º do Código do IRS, aprovado pelo Decreto-Lei n.º 4
 
 Visto e aprovado em Conselho de Ministros de 12 de julho de 2012. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento.
 
-**Promulgado em 14 de agosto de 2012.**
+Promulgado em 14 de agosto de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de agosto de 2012.**
+Referendado em 21 de agosto de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

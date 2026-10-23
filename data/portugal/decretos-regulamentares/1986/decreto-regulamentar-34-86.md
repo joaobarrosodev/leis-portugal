@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/08/19500/21962209.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1986-219129
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94da12ae33da362697b502061be252c0d090c551bf30153ae6ae48240dc1403f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10c699f5e994c4aad5af027eee3f4212ba8f6aaa8f652dbf92c5d7c57318a07b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Administração dos Portos do Douro e Leixões
+- Porto de Leixões
+- Porto do Douro
+- Portos
+- Regulamento
+- Tarifa Portuária
 relationships:
 - type: amended_by
   target: pt:dre:517223:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:514035:por
+  label: "Alterados os arts. 15º, 18º e 53º do Regulamento de Tarifas da Administração dos Portos do Douro e Leixões, aprovado\
+    \ pelo presente diploma, pela PORT.925-H/87.04.12.1987.MOPTC, DR.IS [279-2º Supl] de 04.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/925-h-1987-514035
+  date: '1987-12-04'
+- type: amended_by
+  target: pt:dre:284892:por
+  label: "Alteradas as taxas constantes dos artigos 15.º, 18.º e 53.º do Regulamento, pela PORT.1110-J/89.28.12.1989.MOPTC,\
+    \ DR.IS [297]Supl de 28.12.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1110-j-1989-284892
+  date: '1989-12-28'
+- type: amended_by
+  target: pt:dre:508595:por
+  label: "Alterados os artigos 15.º, 18.º e 53.º do Regulamento, pela PORT.74/91.28.01.1991.MOPTC, DR.IS-B [23] de 28.01.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/74-1991-508595
+  date: '1991-01-28'
+- type: amended_by
+  target: pt:dre:348336:por
+  label: "Alterados os artigos 15.º, 18.º e 53.º do Regulamento, pela PORT.69/94.01.02.1994.MM, DR.IS-B [26]Supl de 01.02.1994\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/69-1994-348336
+  date: '1994-02-01'
+- type: cites
+  target: pt:dre:252058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385673:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:599755:por
+  label: "Revogado o art. 2º pelo DEC LEI.8/87.06.01.1987.MOPTC, DR.IS [4] de 06.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-1987-599755
+  date: '1987-01-06'
+- type: repealed_by
+  target: pt:dre:517223:por
+  label: "Revogado pelo DR.6/94.25.02.1994.MM, DR.IS-B [47] de 25.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-1994-517223
+  date: '1994-02-25'
 article_structure:
-  article_count: 113
+  article_count: 112
   section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:06Z'
   warnings: []
   errors: []
 ---
@@ -100,21 +149,21 @@ Tendo em conta o disposto no n.º 2 do artigo 8.º do [Decreto-Lei n.º 36977](h
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento de Tarifas da Administração dos Portos do Douro e Leixões (APDL), anexo ao presente diploma.
+Artigo 1.º É aprovado o Regulamento de Tarifas da Administração dos Portos do Douro e Leixões (APDL), anexo ao presente diploma.
 
-###### Art. 2.º Este Regulamento entra em vigor no dia 1 de Janeiro de 1987, com excepção dos artigos 51.º a 57.º, que entram em vigor no primeiro dia do mês seguinte ao da sua publicação.
+Art. 2.º Este Regulamento entra em vigor no dia 1 de Janeiro de 1987, com excepção dos artigos 51.º a 57.º, que entram em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
-###### Art. 3.º É revogado a partir de 1 de Janeiro de 1987 o [Decreto Regulamentar n.º 28/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1977-252058), de 17 de Maio, com excepção dos artigos 127.º, alínea a), 133.º, 135.º a 139.º, inclusive, e 150.º, que ficam revogados a partir do primeiro dia do mês seguinte ao da publicação do presente diploma.
+Art. 3.º É revogado a partir de 1 de Janeiro de 1987 o [Decreto Regulamentar n.º 28/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1977-252058), de 17 de Maio, com excepção dos artigos 127.º, alínea a), 133.º, 135.º a 139.º, inclusive, e 150.º, que ficam revogados a partir do primeiro dia do mês seguinte ao da publicação do presente diploma.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 9 de Agosto de 1986.**
+Promulgado em 9 de Agosto de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Agosto de 1986.**
+Referendado em 14 de Agosto de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo.
 
@@ -672,7 +721,7 @@ A taxa de porto é devida pela mercadoria descarregada e carregada que utiliza a
 
 1 - A taxa de porto, aplicada de acordo com o grupo a que pertence a mercadoria, tem para cada uma das operações de carga ou descarga e por tonelada indivisível os seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19500/21962209.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19500/21962209.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19500/21962209.pdf)
 
 2 - As taras, nelas incluindo os contentores, pagarão 50$00 por tonelada.
 
@@ -1518,4 +1567,4 @@ Motociclos, velocípedes motorizados e carros de mão - 350$00.
 
 5 - As isenções de pagamento de taxas de portagem serão estabelecidas pelo Conselho de Administração dos Portos do Douro e Leixões.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.

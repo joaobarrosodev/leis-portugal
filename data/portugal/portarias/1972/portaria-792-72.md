@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/792-1972-665285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:57:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cee37da1f11dc019f2be8c7d9ff478df80b2cb6fabf526861b748fe4eb87430
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b96c23b4c6d0b99c2347556b74ef9851c02ea9957eaa7c5234fe63d6e5621c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:57:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:314213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685594:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:57:55Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +103,7 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado das Comunicações e Transportes, ao abrigo do artigo 60.º do [Decreto n.º 32015](https://diariodarepublica.pt/dr/detalhe/decreto/32015-1942-314213), de 13 de Maio de 1942, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 3.º, 10.º, 11.º, 12.º, 17.º, 20.º, 21.º, 22.º, 25.º, 31.º, 32.º, 33.º, 35.º e 42.º do Regulamento do Grémio dos Industriais de Transportes em Automóveis, aprovado pela [Portaria n.º 22380](https://diariodarepublica.pt/dr/detalhe/portaria/22380-1966-478027), de 17 de Dezembro de 1966, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 3.º, 10.º, 11.º, 12.º, 17.º, 20.º, 21.º, 22.º, 25.º, 31.º, 32.º, 33.º, 35.º e 42.º do Regulamento do Grémio dos Industriais de Transportes em Automóveis, aprovado pela [Portaria n.º 22380](https://diariodarepublica.pt/dr/detalhe/portaria/22380-1966-478027), de 17 de Dezembro de 1966, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º ...
 
@@ -107,13 +119,13 @@ b) Declaração designando o sócio que representará a sociedade perante o Gré
 
 ...
 
-###### Art. 3.º Os processos de admissão serão despachados pelo presidente da direcção depois de recebida comunicação da repartição do Estado competente de que o requerente está aí registado como proprietário de veículos empregados em transportes públicos rodoviários.
+Art. 3.º Os processos de admissão serão despachados pelo presidente da direcção depois de recebida comunicação da repartição do Estado competente de que o requerente está aí registado como proprietário de veículos empregados em transportes públicos rodoviários.
 
 § único. ...
 
 ...
 
-###### Art. 10.º ...
+Art. 10.º ...
 
 § 1.º Os votos dos agremiados de cada secção são contados apenas para efeitos de votação do presidente do conselho geral e dos vogais da respectiva secção.
 
@@ -121,13 +133,13 @@ b) Declaração designando o sócio que representará a sociedade perante o Gré
 
 § 3.º Desse anúncio constará também, obrigatóriamente, o número de agremiados, por cada secção, necessários para a proposta de candidatura das listas destinadas à eleição do conselho geral, de harmonia com o artigo 12.º
 
-###### Art. 11.º O número de votos atribuídos aos sócios por cada secção será igual ao número de viaturas que cada um tenha inscritas no Grémio nas respectivas secções.
+Art. 11.º O número de votos atribuídos aos sócios por cada secção será igual ao número de viaturas que cada um tenha inscritas no Grémio nas respectivas secções.
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 12.º Só podem ser votados os sócios em situação regular e nas condições estabelecidas nas alíneas a) e b) e § 2.º do artigo 26.º do [Decreto n.º 32015](https://diariodarepublica.pt/dr/detalhe/decreto/32015-1942-314213), cuja candidatura tenha sido proposta por um mínimo de cinquenta agremiados, sendo vinte pela 1.ª Secção, vinte pela 2.ª e dez pela 3.ª também em situação regular e inscritos no Grémio há mais de três anos; 50 por cento dos proponentes devem ter registadas um mínimo de duas viaturas nas 1.ª e 2.ª Secções e um mínimo de quatro na 3.ª Secção.
+Art. 12.º Só podem ser votados os sócios em situação regular e nas condições estabelecidas nas alíneas a) e b) e § 2.º do artigo 26.º do [Decreto n.º 32015](https://diariodarepublica.pt/dr/detalhe/decreto/32015-1942-314213), cuja candidatura tenha sido proposta por um mínimo de cinquenta agremiados, sendo vinte pela 1.ª Secção, vinte pela 2.ª e dez pela 3.ª também em situação regular e inscritos no Grémio há mais de três anos; 50 por cento dos proponentes devem ter registadas um mínimo de duas viaturas nas 1.ª e 2.ª Secções e um mínimo de quatro na 3.ª Secção.
 
 § 1.º ...
 
@@ -135,7 +147,7 @@ b) Declaração designando o sócio que representará a sociedade perante o Gré
 
 ...
 
-###### Art. 17.º O resultado da eleição será julgado por um conselho de verificação composto por três ou mais agremiados escolhidos pela mesa da assembleia eleitoral, devendo o mais velho exercer as funções de presidente. No caso de haver mais de uma lista, o conselho será constituído por elementos pertencentes às diversas listas proponentes de entre os presentes.
+Art. 17.º O resultado da eleição será julgado por um conselho de verificação composto por três ou mais agremiados escolhidos pela mesa da assembleia eleitoral, devendo o mais velho exercer as funções de presidente. No caso de haver mais de uma lista, o conselho será constituído por elementos pertencentes às diversas listas proponentes de entre os presentes.
 
 § 1.º ...
 
@@ -151,17 +163,17 @@ Se dois ou mais candidatos tiverem sido igualmente votados, o conselho de verifi
 
 ...
 
-###### Art. 20.º Os membros do conselho geral tomarão posse dos seus cargos durante o mês de Janeiro, em dia a fixar pelo delegado do Governo.
+Art. 20.º Os membros do conselho geral tomarão posse dos seus cargos durante o mês de Janeiro, em dia a fixar pelo delegado do Governo.
 
-###### Art. 21.º O conselho geral procederá à eleição da direcção, nos termos do disposto no artigo 14.º do Regulamento, durante a segunda quinzena do mês de Novembro.
+Art. 21.º O conselho geral procederá à eleição da direcção, nos termos do disposto no artigo 14.º do Regulamento, durante a segunda quinzena do mês de Novembro.
 
 § único. Os vogais de cada secção proporão os directores da respectiva secção, em conformidade com o artigo 14.º do Regulamento.
 
-###### Art. 22.º Os membros da direcção, depois da confirmação do Ministro das Comunicações, tomarão posse dos seus cargos durante o mês de Janeiro, em dia a fixar pelo delegado do Governo.
+Art. 22.º Os membros da direcção, depois da confirmação do Ministro das Comunicações, tomarão posse dos seus cargos durante o mês de Janeiro, em dia a fixar pelo delegado do Governo.
 
 ...
 
-###### Art. 25.º ...
+Art. 25.º ...
 
 a) Velar pelo cumprimento, por parte dos agremiados, das leis, regulamentos e outras normas respeitantes à disciplina corporativa e económica da indústria de transportes em automóveis, desde que não interfira com a competência de outras entidades,
 
@@ -171,7 +183,7 @@ c) ...
 
 ...
 
-###### Art. 31.º Independentemente de outras disposições que venham a ser postas em execução no interesse dos agremiados, o Grémio deverá prestar:
+Art. 31.º Independentemente de outras disposições que venham a ser postas em execução no interesse dos agremiados, o Grémio deverá prestar:
 
 a) Assistência jurídica;
 
@@ -179,9 +191,9 @@ b) Assistência técnica;
 
 c) Assistência financeira.
 
-###### Art. 32.º A assistência jurídica terá por fim não só esclarecer os agremiados sobre a interpretação e cumprimento das normas legais referentes ao exercício da sua indústria, por meio de consultas escritas e verbais, como também prestar toda a assistência solicitada pelos agremiados para o exercício legal da profissão.
+Art. 32.º A assistência jurídica terá por fim não só esclarecer os agremiados sobre a interpretação e cumprimento das normas legais referentes ao exercício da sua indústria, por meio de consultas escritas e verbais, como também prestar toda a assistência solicitada pelos agremiados para o exercício legal da profissão.
 
-###### Art. 33.º ...
+Art. 33.º ...
 
 § 1.º Esta assistência será prestada na sede e delegações sempre que seja publicada uma lei inovadora ou esclarecedora respeitante a transportes, trabalho, finanças ou a outras matérias que por sua natureza influenciem com gravidade a indústria transportadora.
 
@@ -189,17 +201,17 @@ c) Assistência financeira.
 
 ...
 
-###### Art. 35.º ...
+Art. 35.º ...
 
 § único. As quotas consideram-se vencidas no primeiro dia do trimestre a que disserem respeito, e quando qualquer agremiado se atrasar no seu pagamento mais de dois trimestres deverá promover directamente a liquidação do seu débito, para o que será devidamente notificado.
 
 ...
 
-###### Art. 42.º Nenhuma viatura automóvel poderá ser utilizada na indústria de transportes em automóveis sem que esteja inscrita no G. I. T. A., só podendo circular desde que seu condutor seja portador do certificado de inscrição, de modelo anexo ao presente Regulamento, cuja apresentação é obrigatória quando exigida por qualquer autoridade e pelos agentes de fiscalização do G. I. T. A.
+Art. 42.º Nenhuma viatura automóvel poderá ser utilizada na indústria de transportes em automóveis sem que esteja inscrita no G. I. T. A., só podendo circular desde que seu condutor seja portador do certificado de inscrição, de modelo anexo ao presente Regulamento, cuja apresentação é obrigatória quando exigida por qualquer autoridade e pelos agentes de fiscalização do G. I. T. A.
 
 § único. Para o efeito do disposto neste artigo, a Direcção-Geral de Viação e a Direcção-Geral de Transportes Terrestres, consoante os casos, comunicarão ao G. I. T. A. os números de matrícula, características e regime de serviço dos veículos que forem registados para transporte público e respectivos proprietários, bem como as alterações que se verificarem posteriormente.
 
-###### Art. 2.º O presente diploma entra imediatamente em vigor.
+Art. 2.º O presente diploma entra imediatamente em vigor.
 
 Ministério das Comunicações, 15 de Dezembro de 1972. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.
 
@@ -207,6 +219,6 @@ Modelo do certificado previsto no artigo 42.º do Regulamento
 
 (Este certificado deve estar apenso ao livrete de circulação da viatura)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/30100/21102112.pdf))](https://files.diariodarepublica.pt/1s/1972/12/30100/21102112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30100/21102112.pdf)
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

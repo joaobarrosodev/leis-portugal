@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/080a00/15511555.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/77/1997/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1997-457066
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73022c4d9b6abaf2f2be47ec60ea8e32ccfad10a88de4ae2adbd234a1fad9e02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c66d502ffd2930bff39caec34fad066a942651ed43c1f600b01527123adb642
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Transporte Terrestre
 - Comunidade Europeia
 - Segurança Rodoviária
 - Transporte de Mercadorias
 - Transporte de Mercadorias Perigosas
+- Transporte Terrestre
 relationships:
 - type: amended_by
   target: pt:dre:656159:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:275873:por
+  label: "Alterados os arts. 1.º, 2.º, 3.º, 7.º, 10.º, 11.º e 12.º, as rubricas 32, 34 e 36 da Lista de Controlo e aditado\
+    \ um art. 11.º-A, pelo DEC LEI.76/2000.2000.05.09.MES DR.IS-A [107]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2000-275873
+  date: '2000-05-09'
 - type: cites
   target: celex:31994L0055
   label: null
@@ -84,16 +90,26 @@ relationships:
   target: celex:31995L0050
   label: null
   source: http://data.europa.eu/eli/dir/1995/50/oj
+- type: repealed_by
+  target: pt:dre:434032:por
+  label: "Revogado pelo DEC LEI.267-A/2003.27.10.2003.MOPTH, DR.IS-A [249-Supl] de 27.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-a-2003-434032
+  date: '1997-04-05'
+- type: repealed_by
+  target: pt:dre:656159:por
+  label: "Revogada a al c) do nº 1 do art. 10º pelo DEC LEI.322/2000.2000.12.19.MES,DR.IS-A [291]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/322-2000-656159
+  date: '2000-12-19'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:57Z'
   warnings: []
   errors: []
 ---
@@ -272,16 +288,16 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Janeiro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Maria de Belém Roseira Martins Coelho Henriques de Pina - Maria João Fernandes Rodrigues - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 14 de Março de 1997.**
+Promulgado em 14 de Março de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Março de 1997.**
+Referendado em 19 de Março de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Lista de controlo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/080a00/15511555.pdf))](https://files.diariodarepublica.pt/1s/1997/04/080a00/15511555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/080a00/15511555.pdf)

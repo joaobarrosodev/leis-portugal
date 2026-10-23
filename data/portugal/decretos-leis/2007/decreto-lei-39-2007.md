@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/39/2007/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2007-517844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5f983030792ab52b92e21daa2011cdc7342519f2d5910a9cac12fe59534c9f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05b0cb65839fb4068dc45beedd09f32c7523816740ac0780a868e311bef72ee4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aposentação
-- Instituição de Crédito
+- Atividade Bancária
+- Banco de Portugal
 - Conselho de Administração
 - Conselho de Auditoria
-- Banco de Portugal
 - Gestor Público
 - Governador do Banco de Portugal
 - Incompatibilidades
-- Atividade Bancária
+- Instituição de Crédito
 - Orgânica
 - Prestações Complementares
 - Proteção Social
@@ -84,6 +84,12 @@ relationships:
   target: pt:dre:67289909:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:67289909:por
+  label: Alterado o art. 27.º da orgânica do Banco de Portugal, aprovada pela Lei 5/98 de 31-jan , com a redação dada pelo
+    presente diploma, pelo(a) Lei n.º 39/2015 - Diário da República n.º 100/2015, Série I de 2015-05-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-2015-67289909
+  date: '2015-05-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/2001/04/17/p/dre
   label: null
@@ -96,16 +102,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/1998/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/1998/01/31/p/dre
+- type: cites
+  target: pt:dre:164212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553879:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:22Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +164,7 @@ Os artigos 27.º, 33.º, 40.º, 41.º, 42.º, 44.º, 47.º, 59.º, 61.º e 64.º
 
 2 - O governador e os demais membros do conselho de administração gozam de independência nos termos dos Estatutos do Sistema Europeu de Bancos Centrais e do Banco Central Europeu (SEBC/BCE), não podendo solicitar ou receber instruções das instituições comunitárias, dos órgãos de soberania ou de quaisquer outras instituições.
 
-###### Artigo 33.º
+Artigo 33.º
 
 1 - ...
 
@@ -160,7 +178,7 @@ Os artigos 27.º, 33.º, 40.º, 41.º, 42.º, 44.º, 47.º, 59.º, 61.º e 64.º
 
 6 - O exercício de funções dos membros do conselho de administração cessa ainda por termo do mandato, por incapacidade permanente, por renúncia ou por incompatibilidade.
 
-###### Artigo 40.º
+Artigo 40.º
 
 1 - ...
 
@@ -170,19 +188,19 @@ b) Gozam dos benefícios sociais atribuídos aos trabalhadores do Banco, nos ter
 
 c) Beneficiam do regime de protecção social de que gozavam à data da respectiva nomeação ou, na sua ausência, do regime geral da segurança social.
 
-###### Artigo 41.º
+Artigo 41.º
 
 1 - O conselho de auditoria é composto por três membros designados pelo Ministro das Finanças.
 
 2 - Dos membros designados, um será presidente, com voto de qualidade, outro será um revisor oficial de contas e o terceiro será uma personalidade de reconhecida competência em matéria económica.
 
-###### Artigo 42.º
+Artigo 42.º
 
 1 - Os membros do conselho de auditoria exercem as suas funções por um prazo de três anos, renovável por uma vez e por igual período mediante decisão do Ministro das Finanças, nos termos do n.º 1 do artigo anterior.
 
 2 - ...
 
-###### Artigo 44.º
+Artigo 44.º
 
 1 - ...
 
@@ -194,7 +212,7 @@ c) Beneficiam do regime de protecção social de que gozavam à data da respecti
 
 5 - Os membros do conselho de auditoria têm direito a remuneração mensal, fixada pelo Ministro das Finanças, a qual não pode integrar qualquer componente variável.
 
-###### Artigo 47.º
+Artigo 47.º
 
 1 - ...
 
@@ -204,7 +222,7 @@ c) Beneficiam do regime de protecção social de que gozavam à data da respecti
 
 4 - ...
 
-###### Artigo 59.º
+Artigo 59.º
 
 1 - ...
 
@@ -212,13 +230,13 @@ c) Beneficiam do regime de protecção social de que gozavam à data da respecti
 
 3 - ...
 
-###### Artigo 61.º
+Artigo 61.º
 
 1 - ...
 
 2 - Sem prejuízo de outras incompatibilidades ou impedimentos legalmente previstos, não podem os membros do conselho de administração exercer quaisquer funções remuneradas fora do Banco, salvo o exercício de funções docentes no ensino superior, desde que autorizado pelo Ministro das Finanças e não cause prejuízo ao exercício das suas funções, ou ser membros dos corpos sociais de qualquer sociedade, a menos que o façam em representação de interesses do Banco e devidamente autorizados pelo conselho de administração.
 
-###### Artigo 64.º
+Artigo 64.º
 
 1 - Em tudo o que não esteja previsto na presente lei e nos regulamentos adoptados em sua execução, o Banco, salvo o disposto no número seguinte, rege-se pelas normas da legislação reguladora da actividade das instituições de crédito, quando aplicáveis, e pelas demais normas e princípios de direito de privado, bem como, no que se refere aos membros dos órgãos de administração, pelo Estatuto do Gestor Público.
 
@@ -240,12 +258,12 @@ c) Beneficiam do regime de protecção social de que gozavam à data da respecti
 
 Visto e aprovado em Conselho de Ministros de 19 de Outubro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 8 de Fevereiro de 2007.**
+Promulgado em 8 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 9 de Fevereiro de 2007.**
+Referendado em 9 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

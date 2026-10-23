@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24700/0008200085.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/128/2023/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2023-835674293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4cc0936d24b83234c3cba28f88e32af9b8886a5cd6a9500c3dd342cd9bf2d646
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d0d166269caf574f761781b7c1799340fcec19cc33f7c526452d54aaea65a98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Publicidade
-- Infarmed
 - Conselho Nacional de Publicidade de Medicamentos
 - Contra-ordenação
 - Farmácia de Oficina
 - Fiscalização
+- Infarmed
 - Licenciamento
 - Preço
 - Produto Farmacêutico
 - Proteção do Consumidor
+- Publicidade
 - Sistema Nacional de Farmacovigilância de Medicamentos para USO Humano
 relationships:
 - type: amended_by
   target: pt:dre:888861493:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:176/2006
+  label: Adita, a partir de 27 de dezembro de 2023, com efeitos a partir de 2 de janeiro de 2024, o artigo 103.º-A, altera
+    sistematicamente a secção V do capítulo IV que passa a integrar os artigos 103.º e 103.º-A e revoga a alínea o) do n.º
+    1 do artigo 105.º do Decreto-Lei n.º 176/2006, de 30 de agosto, Diário da República n.º 167/2006, Série I
+  source: null
+  date: '2006-08-30'
+- type: amends
+  target: pt:numero:decreto-lei:307/2007
+  label: Altera, a partir de 27 de dezembro de 2023, com efeitos a 2 de janeiro de 2024, os artigos 8.º e 26.º e adita o artigo
+    26.º-A ao Decreto-Lei n.º 307/2007, de 31 de agosto, Diário da República n.º 168/2007, Série I
+  source: null
+  date: '2007-08-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/176/2006/08/30/p/dre
   label: null
@@ -94,16 +107,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/26/2011/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/26/2011/06/16/p/dre
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670006:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:lei:26/2011
+  label: Revoga, a partir de 27 de dezembro de 2023, com efeitos a 2 de janeiro de 2024, o artigo 2.º da Lei n.º 26/2011,
+    de 16 de junho, Diário da República n.º 115/2011, Série I
+  source: null
+  date: '2011-06-16'
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:03Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +207,9 @@ d) O custo suportado pelo Estado;
 
 e) O custo suportado pelo utente.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Dentro do mesmo município pode haver lugar à transferência da localização da farmácia, nos termos e condições previstas no presente artigo.
 
@@ -256,12 +289,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 7 de dezembro de 2023. - António Luís Santos da Costa - António José da Costa Silva - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Manuel Francisco Pizarro de Sampaio e Castro.
 
-**Promulgado em 18 de dezembro de 2023.**
+Promulgado em 18 de dezembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de dezembro de 2023.**
+Referendado em 19 de dezembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+117186584

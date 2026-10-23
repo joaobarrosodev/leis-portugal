@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/650-1973-412848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T04:11:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8daf427fc6687bdaf302860389d356fe6799469460404f67a14fa8094602a42d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7de2992c8024d5c249598caf58f38885ea5043bc0ee04fa56563a4efac01fe37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:11:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:11:47Z'
   warnings: []
   errors: []
 ---
@@ -90,20 +90,20 @@ Secretaria de Estado da Instrução e Cultura, 8 de Setembro de 1973. - O Secret
 
 Regulamento do Prémio Direito dos Seguros
 
-###### Artigo 1.º Os prémios universitários Direito dos Seguros, instituídos pela Secção Portuguesa da Associação Internacional do Direito dos Seguros (A. I. D. A.), visam fomentar o interesse pelas matérias de direito dos seguros.
+Artigo 1.º Os prémios universitários Direito dos Seguros, instituídos pela Secção Portuguesa da Associação Internacional do Direito dos Seguros (A. I. D. A.), visam fomentar o interesse pelas matérias de direito dos seguros.
 
-###### Art. 2.º A atribuição dos prémios verificar-se-á anualmente e estes destinam-se a galardoar os melhores trabalhos escolares sobre direito dos seguros, elaborados por alunos das Faculdades de Direito de Lisboa e de Coimbra.
+Art. 2.º A atribuição dos prémios verificar-se-á anualmente e estes destinam-se a galardoar os melhores trabalhos escolares sobre direito dos seguros, elaborados por alunos das Faculdades de Direito de Lisboa e de Coimbra.
 
-###### Art. 3.º Os prémios serão dois, constituídos por numerário, no montante de 15000$00 cada um e sendo um para cada Faculdade.
+Art. 3.º Os prémios serão dois, constituídos por numerário, no montante de 15000$00 cada um e sendo um para cada Faculdade.
 
-###### Art. 4.º Aos prémios poderão concorrer os alunos das Faculdades de Direito de Lisboa e de Coimbra que tenham concluído, pelo menos, os dois primeiros anos do curso, incluindo os alunos dos cursos de pós-graduação.
+Art. 4.º Aos prémios poderão concorrer os alunos das Faculdades de Direito de Lisboa e de Coimbra que tenham concluído, pelo menos, os dois primeiros anos do curso, incluindo os alunos dos cursos de pós-graduação.
 
-###### Art. 5.º Os prémios serão atribuídos por deliberação do Conselho Escolar de cada uma das Faculdades.
+Art. 5.º Os prémios serão atribuídos por deliberação do Conselho Escolar de cada uma das Faculdades.
 
-###### Art. 6.º O Conselho Escolar poderá decidir não atribuir os prémios por falta de suficiente mérito dos trabalhos apresentados. Neste caso, o montante dos prémios não atribuídos transitará para o ano ou anos seguintes, no qual poderão ser atribuídos tantos prémios quantas as fracções de 15000$00 disponíveis.
+Art. 6.º O Conselho Escolar poderá decidir não atribuir os prémios por falta de suficiente mérito dos trabalhos apresentados. Neste caso, o montante dos prémios não atribuídos transitará para o ano ou anos seguintes, no qual poderão ser atribuídos tantos prémios quantas as fracções de 15000$00 disponíveis.
 
-###### Art. 7.º O nome ou nomes dos alunos beneficiados e a data da entrega dos prémios serão comunicados, em cada ano e antes de se proceder a essa entrega, aos instituidores do Prémio.
+Art. 7.º O nome ou nomes dos alunos beneficiados e a data da entrega dos prémios serão comunicados, em cada ano e antes de se proceder a essa entrega, aos instituidores do Prémio.
 
-###### Art. 8.º A entrega do Prémio compete ao reitor da Universidade e terá lugar, em princípio, na sessão inaugural dos trabalhos escolares do ano lectivo imediato ao da decisão do Conselho Escolar.
+Art. 8.º A entrega do Prémio compete ao reitor da Universidade e terá lugar, em princípio, na sessão inaugural dos trabalhos escolares do ano lectivo imediato ao da decisão do Conselho Escolar.
 
 Direcção-Geral do Ensino Superior, 8 de Setembro de 1973. - O Director-Geral, Vítor P. Crespo.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/136/2009/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2009-494226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c788a8c3ed15abd0db0b421605dd82502ad98f8a1d142be6c364e55793af1ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16c60b71afa617142c90acf25ecf8a3cec054d24efdd34787ff5df484d849a5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Transitária
-- Certificado de Aptidão Profissional
 - Cabotagem
-- Multa
-- Documento de Transporte
-- União Europeia
-- Fiscalização
-- Instituto da Mobilidade e dos Transportes Terrestres
-- Inspecção de Veículos
-- Licenciamento
-- Licença de Transporte
-- Documentos do Veículo
+- Certificado de Aptidão Profissional
 - Condutor
-- Transporte de Mercadorias
+- Documento de Transporte
+- Documentos do Veículo
+- Fiscalização
+- Inspecção de Veículos
+- Instituto da Mobilidade e dos Transportes Terrestres
+- Licença de Transporte
+- Licenciamento
+- Multa
 - Regime Jurídico
+- Transporte de Mercadorias
 - Transporte Internacional
+- União Europeia
 relationships:
 - type: cites
   target: celex:31985D0368
@@ -133,15 +133,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/257/2007/07/16/p/dre
 article_structure:
-  article_count: 56
+  article_count: 50
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:19Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +184,9 @@ Os artigos 3.º, 7.º, 14.º, 29.º, 41.º e 42.º do Decreto-Lei n.º 257/2007,
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O certificado de capacidade profissional para transportes rodoviários de mercadorias é emitido pelo IMTT a pessoas que:
 
@@ -202,7 +204,9 @@ b) ...
 
 6 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -216,13 +220,17 @@ b) ...
 
 6 - ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
 2 - A realização de transportes internacionais ou de cabotagem sem as autorizações a que se refere o artigo 17.º é punível com coima de (euro) 1250 a (euro) 3740.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - As pessoas singulares ou colectivas que à data de entrada em vigor do presente decreto-lei efectuem transportes de mercadorias por conta de outrem exclusivamente por meio de veículos ligeiros com peso bruto igual ou superior a 2500 kg devem até 30 de Junho de 2009 conformar-se com os requisitos exigidos para o licenciamento da actividade e proceder ao licenciamento dos veículos ligeiros de mercadorias, nos termos previstos no artigo 14.º
 
@@ -234,7 +242,9 @@ b) ...
 
 5 - As empresas que instalem nos seus veículos o filtro de partículas a que se refere o n.º 5 do artigo 14.º, até à adopção dos procedimentos de aprovação ali previstos, podem beneficiar da redução em cinco anos da idade do veículo, sem prejuízo da ulterior verificação aquando das inspecções periódicas obrigatórias.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -254,7 +264,9 @@ Transportes de cabotagem por transportadores da União Europeia e do espaço eco
 
 3 - Para efeitos de comprovação do estabelecido nos números anteriores, deve estar a bordo do veículo guia de transporte, declaração de expedição adoptada para efeitos da Convenção Relativa ao Contrato de Transporte Internacional de Mercadorias por Estrada (CMR) ou documento equivalente que demonstre a efectiva realização do transporte internacional que precedeu a cabotagem.
 
-###### Artigo 23.º-A — Infracção aos transportes de cabotagem por transportadores da União Europeia e do espaço económico europeu
+Artigo 23.º-A
+
+Infracção aos transportes de cabotagem por transportadores da União Europeia e do espaço económico europeu
 
 As operações de cabotagem efectuadas em infracção ao disposto no artigo 17.º-A do presente decreto-lei são puníveis com coima de (euro) 1250 a (euro) 3740.»
 
@@ -268,15 +280,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 2009. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Costa Pina - Rui Carlos Pereira - António José de Castro Guerra - Mário Lino Soares Correia.
 
-**Promulgado em 25 de Maio de 2009.**
+Promulgado em 25 de Maio de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de Maio de 2009.**
+Referendado em 27 de Maio de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 257/2007
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/119/2000/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2000-300844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:16:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abb6b0275d99da10f7a87a8b4d98641de4890efdc39be890a92e074072b2634b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5d0c0612cc534e64dfa319e54e2dbe51eae2845a28a64b3a91f80488deb72ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,130 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Programa Polis
-- Multa
 - Contra-ordenação
-- Renovação Urbana
 - Expropriação
 - Fiscalização
 - Medidas Preventivas
+- Multa
+- Programa Polis
 - Proteção do Ambiente
+- Renovação Urbana
 - Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:602008:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:583238:por
+  label: "Alterado o anexo pelo DEC LEI.319/2000.2000.12.14.MAOT,DR.IS-A [287]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/319-2000-583238
+  date: '2000-12-14'
+- type: amended_by
+  target: pt:dre:517202:por
+  label: "Substituídas as plantas relativas às cidades de Aveiro, Coimbra, Covilhã, Vila do Conde, Vila Nova de Gaia e Viseu,\
+    \ constantes do Anexo ao presente diploma, na redacção do Dec Lei 319/2000, de 14-Dez, pelo DEC LEI.203-B/2001.2001.07.24.MAOT\
+    \ DR.IS-A [170]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-b-2001-517202
+  date: '2001-07-24'
+- type: amended_by
+  target: pt:dre:611561:por
+  label: "Substituidas as plantas relativas á zona de intervenção de Almada-Costa da Caparica, publicadas no anexo ao presente\
+    \ diploma, pelo DEC LEI.251/2001.2001.09.21.MAOT,DR.IS-A [220]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-2001-611561
+  date: '2001-09-21'
+- type: amended_by
+  target: pt:dre:576282:por
+  label: "Acrescentada a planta relativa à zona de intervenção de Setúbal ao anexo do presente diploma (com a redacção dada\
+    \ pelos Dec Leis 319/2000 de 14-Dez, 203-B/2001 de 24-Jul e 251/2001 de 21-Set) pelo DEC LEI.318/2001.2001.12.10.MAOT\
+    \ DR.IS-A [284]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/318-2001-576282
+  date: '2001-12-10'
+- type: amended_by
+  target: pt:dre:303202:por
+  label: "Substituidas as plantas relativas às zonas de intervenção de Aveiro e da Guarda e acrescentadas as plantas relativas\
+    \ à zonas de intervenção de Chaves, Portalegre, Silves e Tomar do Anexo, pelo DEC LEI.103/2002.2002.04.12.MAOT, DR.IS-A\
+    \ [86], na redacção dos Dec Lei 319/2000 de 14-Dez, 203-B/2001 de 24-Jul, 251/2001 de 21-Set e 318/2001 de 10-Dez\0z\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-2002-303202
+  date: '2002-04-12'
+- type: amended_by
+  target: pt:dre:432451:por
+  label: "Prorrogada com excepção da planta relativa à zona de intervenção na cidade do Porto, pelo prazo de um ano, a vigência\
+    \ das medidas preventivas previstas no presente diploma, na redacção do Dec Lei 319/2000, de 14-Dez, do Dec Lei 203-B/2001,\
+    \ de 24-Jul, do Dec Lei 251/2001, de 21-Set, do Dec Lei 318/2001, de 10-Dez e do Dec Lei 103/2002, de 12-Abr, pelo DEC\
+    \ LEI.212/2002.2002.10.17.MCOTA DR.IS-A [240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2002-432451
+  date: '2002-10-17'
+- type: amended_by
+  target: pt:dre:405296:por
+  label: "Prorrogada pelo prazo de um ano, relativamente ás zonas de intervenção de Vila Real, Bragança, Covilhã, Guarda,\
+    \ Aveiro, Beja e Albufeira, a vigência das medidas preventivas previstas no presente diploma nas áreas abrangidas pelas\
+    \ plantas publicadas em anexo, pelo DEC LEI.314/2002.2002.12.23.MCOTA, DR.IS-A [296]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/314-2002-405296
+  date: '2002-12-23'
+- type: amended_by
+  target: pt:dre:517415:por
+  label: "Substituídas as plantas relativas à zona de intervenção de Almada-Costa da Caparica constantes do anexo deste diploma,\
+    \ com a redacção dada pelo Dec Lei 251/2001 de 21-Set, pelo DEC LEI.161/2004.02.07.2004.MCOTA, DR.IS-A [154] de 02.07.2004\0\
+    4\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/161-2004-517415
+  date: '2004-07-02'
+- type: amended_by
+  target: pt:dre:480920:por
+  label: "Prorrogada, pelo prazo de um ano, relativamente às zonas de intervenção de Setúbal, Chaves, Portalegre, Silves e\
+    \ Tomar, a vigência das medidas preventivas previstas no presente diploma, na redacção dos Dec Lei 318/2001 de 10-Dez\
+    \ e 103/2002 de 12-Abr, pelo DEC LEI.198/2004.17.08.2004.MCOTA, DR.IS-A [193] de 17.08.2004, nas áreas abrangidas pelas\
+    \ plantas publicadas em anexo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-2004-480920
+  date: '2004-08-17'
+- type: amended_by
+  target: pt:dre:245331:por
+  label: "Substituídas as plantas relativas às zonas reservadas às intervenções da cidade de Coimbra e da cidade de Tomar\
+    \ constantes do anexo do presente diploma, com a redacção que lhe foi conferida pelos Dec Lei 203-B/2001 de 24-Jul e 103/2002\
+    \ de 12-Abr, pelo DEC LEI.149/2005.30.08.2005.MAOTDR, DR.IS-A [166] de 30.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-2005-245331
+  date: '2005-08-30'
+- type: amended_by
+  target: pt:dre:545388:por
+  label: "Substituída a planta relativa à zona de intervenção de Viseu constante do Anexo ao presente diploma, (na redacção\
+    \ dada pelo Dec Lei 203-B/2001, de 24-Jul), pelo DEC LEI.232/2006.29.11.2006.MAOTDR, DR.IS [230] de 29.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-2006-545388
+  date: '2006-11-29'
+- type: amended_by
+  target: pt:dre:628829:por
+  label: "Substituída a planta relativa à zona de intervenção de Vila Nova de Gaia constante do Anexo ao presente diploma\
+    \ (na redacção do Dec Lei 203-B/2001 de 24-Jul) pelo DEC LEI.388/2007.30.11.2007.MAOTDR, DR.IS [231] de 30.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/388-2007-628829
+  date: '2007-11-30'
+- type: amended_by
+  target: pt:dre:602008:por
+  label: "Prorrogada pelo prazo de um ano, a vigência das medidas preventivas aplicáveis à área abrangida pela planta relativa\
+    \ à zona de intervenção de Viseu, previstas no presente diploma, na redacção do Dec Lei 203-B/2001, de 24-Jul e do Dec\
+    \ Lei 232/2006, de 29-Nov, pela RES.21/2009.24.02.2009.PCM, DR.IS [38] de 24.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/21-2009-602008
+  date: '2009-02-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/26/2000/05/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/26/2000/05/15/p/dre
+- type: cites
+  target: pt:dre:274224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:16:54Z'
   warnings: []
   errors: []
 ---
@@ -174,14 +270,14 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Abril de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 15 de Junho de 2000.**
+Promulgado em 15 de Junho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Junho de 2000.**
+Referendado em 21 de Junho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 [(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/2000/07/152a00/28932897.pdf)

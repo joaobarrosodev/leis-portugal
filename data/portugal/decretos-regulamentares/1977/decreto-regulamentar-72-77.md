@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/72-1977-277816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e1a79d9af39cc4614f0ff7d0567ba5899772d1a47bbd92290a9ecde2e86d0c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8499b5e516d87cb92fef279cc16a3627cb3c863ec1c359d54ff5500e91a353a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Técnica dos Novos Medicamentos
+- Medicamento
 relationships:
 - type: amended_by
   target: pt:dre:478253:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:250857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469228:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:478253:por
+  label: "Revogado pelo DEC LEI.72/91.08.02.1991.MS, DR.IS-A [33] de 08.02.1991, revogação esta que produzirá efeitos a partir\
+    \ da data de entrada em vigor dos diplomas legais que regulamentarem a mesma matéria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-1991-478253
+  date: '1991-02-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:46Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +115,7 @@ Assim sendo:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É modificada a redacção dos parágrafos do artigo 28.º do [Decreto n.º 41448](https://diariodarepublica.pt/dr/detalhe/decreto/41448-1957-250857), de 18 de Dezembro de 1957, aditados pelo artigo 2.º do [Decreto n.º 45534](https://diariodarepublica.pt/dr/detalhe/decreto/45534-1964-469228), de 17 de Janeiro de 1964, pela forma seguinte:
+Artigo 1.º É modificada a redacção dos parágrafos do artigo 28.º do [Decreto n.º 41448](https://diariodarepublica.pt/dr/detalhe/decreto/41448-1957-250857), de 18 de Dezembro de 1957, aditados pelo artigo 2.º do [Decreto n.º 45534](https://diariodarepublica.pt/dr/detalhe/decreto/45534-1964-469228), de 17 de Janeiro de 1964, pela forma seguinte:
 
 § 1.º Por cada processo submetido à apreciação da Comissão Técnica dos Novos Medicamentos, nos termos deste diploma, cobrar-se-ão, além dos quantitativos fixados no corpo deste artigo, mais as taxas seguintes:
 
@@ -119,14 +139,14 @@ f) Por pedido de renovação de autorização de um medicamento, decorrido o pra
 
 § 5.º A autorização de pagamento das despesas dos serviços a que se reportam as taxas indicadas fica sujeita à regra do duplo cabimento, podendo, em qualquer altura do ano, atingir importância igual à das receitas arrecadadas e escrituradas nos termos indicados.
 
-###### Art. 2.º Os membros da Comissão Técnica, os assessores técnicos, o secretário e o elemento coordenador com o Departamento de Comprovação de Medicamentos do Instituto e o exterior terão direito a uma remuneração fixada por despacho dos Secretários de Estado da Saúde e da Administração Pública e, por cada reunião a que assistam, a uma senha de presença, bem como ao pagamento de ajudas de custo e transportes que lhes couberem pelo desempenho das suas funções.
+Art. 2.º Os membros da Comissão Técnica, os assessores técnicos, o secretário e o elemento coordenador com o Departamento de Comprovação de Medicamentos do Instituto e o exterior terão direito a uma remuneração fixada por despacho dos Secretários de Estado da Saúde e da Administração Pública e, por cada reunião a que assistam, a uma senha de presença, bem como ao pagamento de ajudas de custo e transportes que lhes couberem pelo desempenho das suas funções.
 
-###### Art. 3.º Fica revogado o [Decreto n.º 45534](https://diariodarepublica.pt/dr/detalhe/decreto/45534-1964-469228), de 17 de Janeiro de 1964.
+Art. 3.º Fica revogado o [Decreto n.º 45534](https://diariodarepublica.pt/dr/detalhe/decreto/45534-1964-469228), de 17 de Janeiro de 1964.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Armando Bacelar.
 
-**Promulgado em 15 de Outubro de 1977.**
+Promulgado em 15 de Outubro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

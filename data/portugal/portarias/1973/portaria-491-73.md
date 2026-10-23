@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/491-1973-421609
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T04:08:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8da78e1c221416bf6d653213d835d13abb4dc4f4a5c50d5d9d0c42fd49d6c860
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61f920e8979e2af3eae82b9a50f854ed15fd9013314159ccd3980c2d1fb0f65e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:08:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675638:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:08:00Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +101,11 @@ Regulamento dos Concursos de Provimento dos Lugares de Técnico Especialista dos
 
 Da abertura dos concursos
 
-###### Artigo 1.º - 1. Os lugares de técnico especialista dos quadros de pessoal do Secretariado Técnico da Presidência do Conselho e do Secretariado da Administração Pública são providos mediante concurso documental, nos termos do [Decreto-Lei n.º 147/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1973-675638), de 5 de Abril, e do presente Regulamento.
+Artigo 1.º - 1. Os lugares de técnico especialista dos quadros de pessoal do Secretariado Técnico da Presidência do Conselho e do Secretariado da Administração Pública são providos mediante concurso documental, nos termos do [Decreto-Lei n.º 147/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1973-675638), de 5 de Abril, e do presente Regulamento.
 
 2. A abertura dos concursos será autorizada por despacho ministerial, mediante proposta do director ou director-geral respectivo.
 
-###### Art. 2.º - 1. Os concursos serão anunciados no Diário do Governo e os candidatos terão o prazo de quinze dias, a contar da publicação do correspondente aviso de abertura, para apresentarem, nos serviços administrativos, requerimento endereçado ao director ou director-geral respectivo, solicitando admissão aos mesmos.
+Art. 2.º - 1. Os concursos serão anunciados no Diário do Governo e os candidatos terão o prazo de quinze dias, a contar da publicação do correspondente aviso de abertura, para apresentarem, nos serviços administrativos, requerimento endereçado ao director ou director-geral respectivo, solicitando admissão aos mesmos.
 
 2. Dos avisos de abertura dos concursos constarão:
 
@@ -123,7 +131,7 @@ j) As preferências a atender para efeitos de classificação dos concorrentes.
 
 Dos elementos a apresentar para efeitos de apreciação dos candidatos
 
-###### Art. 3.º - 1. Juntamente com o requerimento de admissão aos concursos, do qual constarão os elementos relativos à identificação dos candidatos, estes deverão apresentar o respectivo curriculum documentado, englobando, devidamente discriminados, os seguintes elementos:
+Art. 3.º - 1. Juntamente com o requerimento de admissão aos concursos, do qual constarão os elementos relativos à identificação dos candidatos, estes deverão apresentar o respectivo curriculum documentado, englobando, devidamente discriminados, os seguintes elementos:
 
 a) Formação académica de base, com indicação da instituição ou instituições de ensino frequentadas, ano e classificação de curso;
 
@@ -145,7 +153,7 @@ f) Quaisquer outros elementos comprovativos de preparação especial que o candi
 
 Das decisões sobre a admissão aos concursos
 
-###### Art. 4.º - 1. À medida que forem recebidos os requerimentos de admissão, o júri verificará os processos relativos a cada candidato e, nos casos em que se verifiquem deficiências ou irregularidades, marcará prazos não inferiores a três dias nem superiores a dez, para que as mesmas possam ser supridas ou sanadas, devendo as comunicações respectivas ser feitas por meio de ofício expedido sob registo e com aviso de recepção.
+Art. 4.º - 1. À medida que forem recebidos os requerimentos de admissão, o júri verificará os processos relativos a cada candidato e, nos casos em que se verifiquem deficiências ou irregularidades, marcará prazos não inferiores a três dias nem superiores a dez, para que as mesmas possam ser supridas ou sanadas, devendo as comunicações respectivas ser feitas por meio de ofício expedido sob registo e com aviso de recepção.
 
 2. Uma vez completada a organização dos processos, o júri reunirá para verificação das condições de admissibilidade dos concorrentes, elaborando a lista provisória dos candidatos admitidos ou excluídos, a qual será enviada para publicação no Diário do Governo nos oito dias seguintes ao da deliberação.
 
@@ -153,17 +161,17 @@ Das decisões sobre a admissão aos concursos
 
 4. Não havendo reclamações, nos oito dias seguintes ao do último dia do prazo concedido para apresentação das mesmas será enviada para publicação no Diário do Governo a declaração de conversão da lista provisória em definitiva.
 
-###### Art. 5.º - 1. Das decisões do júri poderão os interessados reclamar, no prazo de oito dias a contar da publicação da lista provisória no Diário do Governo, mediante requerimento em que exponham os fundamentos da reclamação.
+Art. 5.º - 1. Das decisões do júri poderão os interessados reclamar, no prazo de oito dias a contar da publicação da lista provisória no Diário do Governo, mediante requerimento em que exponham os fundamentos da reclamação.
 
 2. As reclamações, se não forem atendidas pelo júri, serão informadas por este e submetidas a despacho ministerial.
 
 3. As decisões sobre as reclamações serão notificadas aos interessados mediante ofício expedido sob registo e com aviso de recepção.
 
-###### Art. 6.º Nos oito dias seguintes ao das decisões sobre as reclamações, se as houver, será elaborada e enviada para publicação no Diário do Governo a lista definitiva dos candidatos.
+Art. 6.º Nos oito dias seguintes ao das decisões sobre as reclamações, se as houver, será elaborada e enviada para publicação no Diário do Governo a lista definitiva dos candidatos.
 
 Do júri dos concursos
 
-###### Art. 7.º - 1. O júri dos concursos será constituído pelo director ou director-geral, que será o presidente, por dois funcionários do quadro de pessoal do mesmo organismo com categoria não inferior à da letra E e ainda por duas individualidades de reconhecida competência em matérias relacionadas com as funções inerentes aos lugares a prover.
+Art. 7.º - 1. O júri dos concursos será constituído pelo director ou director-geral, que será o presidente, por dois funcionários do quadro de pessoal do mesmo organismo com categoria não inferior à da letra E e ainda por duas individualidades de reconhecida competência em matérias relacionadas com as funções inerentes aos lugares a prover.
 
 2. Os membros do júri, serão designados por despacho ministerial, possuindo o presidente voto de qualidade.
 
@@ -171,35 +179,35 @@ Do júri dos concursos
 
 4. Os membros do júri terão direito à remuneração que vier a ser fixada em despacho conjunto do Presidente do Conselho e do Ministro das Finanças.
 
-###### Art. 8.º - 1. O júri só poderá funcionar quando estiverem presentes pelo menos quatro dos seus membros.
+Art. 8.º - 1. O júri só poderá funcionar quando estiverem presentes pelo menos quatro dos seus membros.
 
 2. Das sessões do júri serão lavradas actas em livro especial, das quais deverão constar todas as deliberações tomadas, incluindo as decisões sobre a classificação dos candidatos.
 
 Da apreciação e classificação dos candidatos
 
-###### Art. 9.º - 1. As provas documentais dos concursos a que se refere o presente Regulamento consistem na apreciação do curriculum dos candidatos, tendo em vista determinar as respectivas qualificações técnicas ou científicas relacionadas com a natureza dos cargos a prover.
+Art. 9.º - 1. As provas documentais dos concursos a que se refere o presente Regulamento consistem na apreciação do curriculum dos candidatos, tendo em vista determinar as respectivas qualificações técnicas ou científicas relacionadas com a natureza dos cargos a prover.
 
 2. Para a determinação das qualificações, o júri terá particularmente em conta o grau de preparação especializada dos candidatos, avaliado através das habilitações especiais e da experiência profissional adquirida em serviço, bem como por intermédio do valor dos trabalhos da sua autoria.
 
 3. O júri poderá solicitar aos candidatos a apresentação de elementos complementares, bem como realizar entrevistas pessoais, sempre que tal se torne necessário para a apreciação a que se refere o presente artigo.
 
-###### Art. 10.º - 1. Finda a apreciação a que se refere o artigo anterior, que deverá ter lugar nos trinta dias subsequentes ao encerramento dos concursos, os candidatos serão classificados de 0 a 20 valores, sendo excluídos os candidatos que não consigam nota superior ou igual a 10.
+Art. 10.º - 1. Finda a apreciação a que se refere o artigo anterior, que deverá ter lugar nos trinta dias subsequentes ao encerramento dos concursos, os candidatos serão classificados de 0 a 20 valores, sendo excluídos os candidatos que não consigam nota superior ou igual a 10.
 
 2. Aos candidatos que sejam funcionários do quadro técnico do Secretariado Técnico da Presidência do Conselho ou do Secretariado da Administração Pública serão atribuídos 0,25 valores por cada ano de serviço naquele quadro, desde que tenham tido sempre boa informação de serviço.
 
 3. Se a classificação final dos candidatos a que se refere o número anterior for superior a 20 será a mesma arredondada para este valor.
 
-###### Art. 11.º - 1. Das deliberações do júri cabe recurso para o Presidente do Conselho, interposto no prazo de oito dias a contar da data da publicação das listas de classificação.
+Art. 11.º - 1. Das deliberações do júri cabe recurso para o Presidente do Conselho, interposto no prazo de oito dias a contar da data da publicação das listas de classificação.
 
 2. Os recursos referidos no presente artigo têm efeito suspensivo.
 
-###### Art. 12.º - 1. As listas de classificação serão enviadas para publicação no Diário do Governo nos oito dias seguintes ao da deliberação do júri.
+Art. 12.º - 1. As listas de classificação serão enviadas para publicação no Diário do Governo nos oito dias seguintes ao da deliberação do júri.
 
 2. Só será publicada a lista dos candidatos aprovados, ordenados segundo a respectiva classificação final.
 
 Das preferências a atender na ordem de classificação dos candidatos
 
-###### Art. 13.º Em igualdade de valorização constituem condições de preferência a observar para efeitos de classificação dos concorrentes, para além das regulamentadas em lei geral:
+Art. 13.º Em igualdade de valorização constituem condições de preferência a observar para efeitos de classificação dos concorrentes, para além das regulamentadas em lei geral:
 
 a) Prestar serviço no Secretariado Técnico da Presidência do Conselho ou no Secretariado da Administração Pública;
 
@@ -207,4 +215,4 @@ b) Prestar ou haver prestado serviço com boa informação em qualquer outro ser
 
 c) Ter mais tempo de serviço no caso das alíneas anteriores.
 
-**O Ministro de Estado, João Mota Pereira de Campos.**
+O Ministro de Estado, João Mota Pereira de Campos.

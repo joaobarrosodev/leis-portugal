@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/537-1980-471127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:23:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4238443f4c9ddb90084bacadff4a8aca5d36841e54ce8b8c4868cb83e524566e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0be55c83a01cce401edc48c26d451a64b0caa3ebbdae48cc805ac7bb64b5c90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:23:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ANO Propedêutico
+- Exame
+relationships:
+- type: cites
+  target: pt:dre:378763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393216:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:23:02Z'
   warnings: []
   errors: []
 ---
@@ -90,4 +100,4 @@ de 20 de Agosto
 
 2.º Em caso algum poderá o decurso deste processo vir a atrasar a realização das sucessivas fases de candidatura ao ingresso no ensino superior, devendo portanto a Comissão Pedagógico-Científica do Ano Propedêutico alertar os relatores da apreciação destes recursos para a necessidade de cumprimento dos prazos previstos para a análise dos mesmos.
 
-**O Ministro da Educação e Ciência, Vítor Pereira Crespo.**
+O Ministro da Educação e Ciência, Vítor Pereira Crespo.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 251/2022, 4º Suplemento, Série I de 2022-12-30
   number: '251'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 74-(4) a 74-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/25104/0000400024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/90-c/2022/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-c-2022-205557210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe47550eee5129679e73b3372d74286ac02627e947107102daf529119f285d8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 786350e258a20b466ff7d93cb78335193b5787bd6198095129ee540364adcaf6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direito de Residência
+- Arrendamento Urbano para Habitação
 - Contrato de Aluguer
 - Contrato Promessa
 - Definição de Competências
-- Regulamentação de Atos Legislativos
+- Direito de Residência
+- Documento Eletrónico
 - Estudante
 - Formulário Eletrónico
-- Iniciativa Porta 65
-- Documento Eletrónico
-- Instituto da Habitação e da Reabilitação Urbana
-- Página na Internet
-- Política de Habitação
-- Internet
-- Programa Porta 65-arrendamento por Jovens
 - Habitação
+- Iniciativa Porta 65
+- Instituto da Habitação e da Reabilitação Urbana
+- Internet
+- Página na Internet
+- Plataforma de Interoperabilidade da Administração Pública
+- Plataforma Eletrónica
+- Política de Habitação
+- Programa de Arrendamento Acessível
+- Programa Porta 65-arrendamento por Jovens
+- Regulamentação de Atos Legislativos
 - Renda de CASA
 - Renda Limite
-- Arrendamento Urbano para Habitação
-- Plataforma Eletrónica
-- Plataforma de Interoperabilidade da Administração Pública
-- Programa de Arrendamento Acessível
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/308/2007/09/03/p/dre
@@ -127,16 +127,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/277-a/2010/0
   label: null
   source: http://data.dre.pt/eli/port/277-a/2010/0
+- type: cites
+  target: pt:dre:108021182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117503936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:120038537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122373682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122373683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144454578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641166:por
+  label: null
+  source: null
 article_structure:
-  article_count: 58
+  article_count: 41
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:24Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +247,9 @@ b) «Renda máxima admitida (RMA)» o limite geral de preço de renda por tipolo
 
 c) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -219,7 +277,9 @@ c) ...
 
 13 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A candidatura ao Porta 65 - Jovem é efetuada por via eletrónica no sítio da Internet do IHRU ou através do Portal Único de Serviços previsto na [Resolução do Conselho de Ministros n.º 46/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/46-2019-120038537), de 22 de fevereiro.
 
@@ -231,7 +291,9 @@ c) ...
 
 5 - Todos os elementos necessários à instrução e verificação das candidaturas são obtidos através de mecanismos de interoperabilidade estabelecidos entre o IHRU, as entidades das áreas das finanças e da segurança social e as demais entidades públicas competentes na matéria, sempre que aplicável.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -255,13 +317,17 @@ c) ...
 
 8 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - A concessão de apoio ao abrigo do Porta 65 - Jovem não obsta a que o contrato de arrendamento seja enquadrado no âmbito do [Decreto-Lei n.º 68/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2019-122373682), de 22 de maio, na sua redação atual.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -269,11 +335,15 @@ c) ...
 
 3 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 A verificação dos dados relativos aos rendimentos, à composição dos agregados e aos imóveis inscritos a favor destes é realizada através de mecanismos de interoperabilidade estabelecidos entre o IHRU, as entidades das áreas das finanças e da segurança social e as demais entidades públicas competentes na matéria.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - As matérias previstas no n.º 3 do artigo 6.º, no n.º 4 do artigo 6.º-A, nas alíneas a) a c) do n.º 2 e no n.º 5 do artigo 7.º, nos n.os 2 e 3 do artigo 10.º, no n.º 5 do artigo 12.º e no artigo 15.º são objeto de regulamentação por portaria dos membros do Governo responsáveis pelas áreas das finanças, da juventude e da habitação.
 
@@ -301,13 +371,17 @@ Os artigos 6.º, 7.º, 10.º, 11.º, 14.º, 15.º, 16.º, 18.º, 19.º, 24.º e 
 
 5 - O contrato referido no número anterior pode ser renovado por período inferior ao prazo mínimo de cinco anos previsto no n.º 3, desde que a finalidade temporária se mantenha.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Os contratos previstos na alínea a) do n.º 1 do artigo 2.º são objeto de seguros obrigatórios, cujas garantias, condições e dever de contratação são definidos em diploma próprio.
 
 2 - Ficam excecionados do disposto no número anterior os contratos de arrendamento habitacional celebrados por entidades públicas.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -319,7 +393,9 @@ Os artigos 6.º, 7.º, 10.º, 11.º, 14.º, 15.º, 16.º, 18.º, 19.º, 24.º e 
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A inscrição do alojamento no Programa de Apoio ao Arrendamento é realizada através da plataforma eletrónica, também acessível através do Portal Único de Serviços previsto na [Resolução do Conselho de Ministros n.º 46/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/46-2019-120038537), de 22 de fevereiro, com recurso a mecanismos de interoperabilidade estabelecidos entre o IHRU, I. P., as entidades das áreas das finanças e da segurança social e as demais entidades públicas competentes na matéria, nos termos estabelecidos por portaria do membro do Governo responsável pela área da habitação.
 
@@ -331,7 +407,9 @@ Os artigos 6.º, 7.º, 10.º, 11.º, 14.º, 15.º, 16.º, 18.º, 19.º, 24.º e 
 
 5 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -347,7 +425,9 @@ b) Por opção do candidato.
 
 5 - ...
 
-###### Artigo 15.º — Taxa de esforço e tipologia adequada
+Artigo 15.º
+
+Taxa de esforço e tipologia adequada
 
 1 - Nos contratos de arrendamento a celebrar no âmbito do Programa de Apoio ao Arrendamento:
 
@@ -359,7 +439,9 @@ b) A tipologia do alojamento deve ser adequada em função da dimensão do agreg
 
 3 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - A candidatura a alojamento no âmbito do Programa de Apoio ao Arrendamento é registada através da plataforma eletrónica, também acessível através do Portal Único de Serviços previsto na [Resolução do Conselho de Ministros n.º 46/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/46-2019-120038537), de 22 de fevereiro, com recurso a mecanismos de interoperabilidade estabelecidos entre o IHRU, I. P., as entidades das áreas das finanças e da segurança social e as demais entidades públicas competentes na matéria, nos termos estabelecidos por portaria do membro do Governo responsável pela área da habitação.
 
@@ -387,7 +469,9 @@ c) O âmbito da candidatura definido nos termos do n.º 3.
 
 6 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -417,7 +501,9 @@ b) O certificado de registo de candidatura previsto no n.º 5 do artigo 16.º
 
 5 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -441,7 +527,9 @@ c) ...
 
 8 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -455,7 +543,9 @@ d) (Revogada.)
 
 2 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 ...
 
@@ -529,15 +619,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de dezembro de 2022. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - Ana Catarina Veiga dos Santos Mendonça Mendes - Pedro Nuno de Oliveira Santos - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
 
-**Promulgado em 27 de dezembro de 2022.**
+Promulgado em 27 de dezembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de dezembro de 2022.**
+Referendado em 29 de dezembro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 10.º)
 
@@ -952,3 +1042,5 @@ c) Portaria que regulamenta as disposições relativas ao registo de candidatura
 ###### Artigo 30.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia 1 de julho de 2019.
+
+116023552

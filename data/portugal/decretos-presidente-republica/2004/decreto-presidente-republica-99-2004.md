@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/99/2004/12/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/99-2004-213410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T04:49:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60961f5791d82f8ba8d387fd6c9f43a644ec0ee18367ce54fd7489d920a8607d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f765436c6f5247ed0ca5892ba826983203300a39c31bb33434a350c9e1be5cb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:49:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,26 @@ relationships:
   target: pt:dre:438460:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:438460:por
+  label: "Exonerado pelo DEC.133/2008.17.10.2008.PR, DR.IS [202] de 17.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/133-2008-438460
+  date: '2008-10-17'
+- type: corrected_by
+  target: pt:dre:589699:por
+  label: "Rectificado pela DECL-RECT.9/2005.23.02.2005.PR, DR.IS-A [45] de 04.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/9-2005-589699
+  date: '2005-02-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:49:34Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +102,16 @@ validation:
 
 de 10 de Dezembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o ministro plenipotenciário de 2.ª classe Paulo Tiago Fernandes Jerónimo da Silva como Embaixador de Portugal na Macedónia.
 
-**Assinado em 15 de Novembro de 2004.**
+Assinado em 15 de Novembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Novembro de 2004.**
+Referendado em 26 de Novembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes. - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Victor Martins Monteiro.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes. - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Victor Martins Monteiro.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/73/2006/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2006-671385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8d108d814f38ede3e16b5738b1109290cde36b125a9a864eed7784093792718
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 164d6d35d52d92efbb81f24b84d3e9b81ee233c0b4059bad430dde87e126e410
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
 - Aproximação das Legislações
-- Doença Animal
 - Certificado de Origem
-- Multa
-- Proteção dos Animais
-- Controlo Sanitário
-- Fiscalização
-- Importação
-- Reprodução Animal
-- Países Terceiros
-- Gado Equino
-- Regulamento
-- Material Biológico
 - Comércio
+- Controlo Sanitário
+- Doença Animal
+- Fiscalização
+- Gado Equino
+- Importação
+- Material Biológico
+- Multa
+- Países Terceiros
+- Produção Animal
+- Proteção dos Animais
+- Regulamento
+- Reprodução Animal
+- Saúde Animal
 - Transporte de Animais
 - Troca Intracomunitária
 - Vacinação
 - Veterinário
-- Saúde Animal
 relationships:
 - type: amended_by
   target: pt:dre:670027:por
@@ -140,16 +140,21 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/1
   label: null
   source: http://data.europa.eu/eli/dir/1
+- type: repealed_by
+  target: pt:dre:670027:por
+  label: "Revogados os arts. 13º, 14º e 15º pelo DEC LEI.79/2011.20.06.2011.MADRP, DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2011-670027
+  date: '2011-06-20'
 article_structure:
-  article_count: 26
+  article_count: 24
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:15Z'
   warnings: []
   errors: []
 ---
@@ -344,7 +349,7 @@ Os artigos 13.º e 19.º do Regulamento da Circulação de Equídeos no Territó
 
 2 - As listas referidas no número anterior podem ser combinadas com outras listas elaboradas para fins de protecção da saúde animal e da saúde pública e incluir modelos de certificados sanitários.
 
-###### Artigo 19.º
+Artigo 19.º
 
 ...
 
@@ -368,7 +373,7 @@ d) Pelo procedimento comunitariamente estabelecido pode ser designado um laborat
 
 3 - ...
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - Sem prejuízo do artigo 14.º, os ungulados das espécies não referidas em legislação específica só podem ser objecto de comércio se:
 
@@ -486,25 +491,25 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Fevereiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 5 de Março de 2006.**
+Promulgado em 5 de Março de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Março de 2006.**
+Referendado em 6 de Março de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Espécies animais referidas no artigo 1.º
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)
 
 ## ANEXO II
 
 Doenças referidas na subalínea i) da alínea f) do artigo 4.º e critérios gerais elementares para que um território possa ser considerado indemne de doenças, nos termos da alínea a) do artigo 7.º
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)
 
 ## ANEXO III — Requisitos relativos aos certificados veterinários referidos no artigo 11.º
 
@@ -528,27 +533,27 @@ c) Numa sequência de páginas numeradas por forma a indicar que se trata de uma
 
 ## ANEXO IV — (a que se refere o n.º 2 do artigo 14.º)
 
-# Parte 1
+Parte 1
 
 Certificado sanitário para o comércio de animais provenientes de explorações em conformidade com a Directiva n.º [92/65/CEE](https://data.europa.eu/eli/dir/1992/65/oj?locale=pt), do Conselho
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)
 
-# Parte 2
+Parte 2
 
 Certificado sanitário para o comércio de colónias de abelhas [colmeias ou abelhas-mestras, com obreiras, em conformidade com a Directiva n.º [92/65/CEE](https://data.europa.eu/eli/dir/1992/65/oj?locale=pt) (ver nota 1)]
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)
 
-(nota 1) Documento na acepção do artigo 8.º [(ver notas referentes à tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)
+(nota 1) Documento na acepção do artigo 8.º [[(ver notas referentes à tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)
 
-# Parte 3
+Parte 3
 
 Certificado sanitário para o comércio de animais, sémen, embriões e óvulos provenientes de organismos, institutos ou centros aprovados em conformidade com o anexo C da Directiva n.º [92/65/CEE](https://data.europa.eu/eli/dir/1992/65/oj?locale=pt) (ver nota 1)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)
 
-(nota 1) Documento na acepção do artigo 4.º e do n.º 1 do artigo 12.º; [(ver notas referentes à tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)
+(nota 1) Documento na acepção do artigo 4.º e do n.º 1 do artigo 12.º; [[(ver notas referentes à tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)](https://files.diariodarepublica.pt/1s/2006/03/060a00/22272241.pdf)
 
 ## ANEXO V — (a que se refere o artigo 15.º)
 

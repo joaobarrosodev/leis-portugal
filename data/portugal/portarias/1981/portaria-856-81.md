@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/856-1981-563775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:56:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e47d829e00ecfdb9b56a1ea08183a7dea3dd261ff086b6059420042e71ac4c80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4cd55d7ed8426290ddd23c5aee2653f09565663f39161991886797f0cf31ba7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:56:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Ensino Superior
+- Faculdade de Ciências
+- Regulamento
+- Universidade de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:56:22Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +108,9 @@ REGULAMENTO DO DEPARTAMENTO DE ESTATÍSTICA, INVESTIGAÇÃO OPERACIONAL E COMPUT
 
 ### CAPÍTULO I — Natureza e objectivos
 
-###### Artigo 1.º O Departamento de Estatística, Investigação Operacional e Computação da Faculdade de Ciências da Universidade de Lisboa, adiante designados, respectivamente, por Departamento e por Faculdade, constitui uma unidade orgânica de ensino, de investigação fundamental e aplicada e de prestação de serviços, nas áreas de Probabilidades, de Processos Estocásticos, de Estatística, de Investigação Operacional e de Computação.
+Artigo 1.º O Departamento de Estatística, Investigação Operacional e Computação da Faculdade de Ciências da Universidade de Lisboa, adiante designados, respectivamente, por Departamento e por Faculdade, constitui uma unidade orgânica de ensino, de investigação fundamental e aplicada e de prestação de serviços, nas áreas de Probabilidades, de Processos Estocásticos, de Estatística, de Investigação Operacional e de Computação.
 
-###### Art. 2.º - 1 - Como unidade de ensino, compete ao Departamento a realização de actividades do ensino fundamental e das suas aplicações, fixadas nos planos de estudo das licenciaturas nas áreas indicadas, bem como a organização ou intervenção em cursos de pós-graduação, de especialização ou de reciclagem, nas áreas referidas e suas aplicações, ou, ainda, em acções interdisciplinares.
+Art. 2.º - 1 - Como unidade de ensino, compete ao Departamento a realização de actividades do ensino fundamental e das suas aplicações, fixadas nos planos de estudo das licenciaturas nas áreas indicadas, bem como a organização ou intervenção em cursos de pós-graduação, de especialização ou de reciclagem, nas áreas referidas e suas aplicações, ou, ainda, em acções interdisciplinares.
 
 2 - Como unidade de investigação, o Departamento promoverá o desenvolvimento dos conhecimentos científicos nas áreas atrás indicadas.
 
@@ -111,27 +120,27 @@ REGULAMENTO DO DEPARTAMENTO DE ESTATÍSTICA, INVESTIGAÇÃO OPERACIONAL E COMPUT
 
 5 - O Departamento prestará serviços de extensão cultural, promovendo a difusão do saber nas áreas específicas de que se ocupa.
 
-###### Art. 3.º O Departamento goza de autonomia pedagógica e científica, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos da Universidade ou da Faculdade.
+Art. 3.º O Departamento goza de autonomia pedagógica e científica, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos da Universidade ou da Faculdade.
 
 ### CAPÍTULO II — Órgãos
 
-###### Art. 4.º O Departamento tem os seguintes órgãos:
+Art. 4.º O Departamento tem os seguintes órgãos:
 
 a) Conselho do Departamento;
 
 b) Comissão executiva.
 
-###### Art. 5.º - 1 - O conselho do Departamento é constituído por membros permanentes e por membros não permanentes.
+Art. 5.º - 1 - O conselho do Departamento é constituído por membros permanentes e por membros não permanentes.
 
 2 - São membros permanentes do conselho do Departamento os professores de carreira ou convidados em regime de tempo integral e os investigadores doutorados incluídos nas áreas científicas abrangidas pelo Departamento.
 
 3 - São membros não permanentes 2 representantes dos docentes e investigadores não doutorados das áreas do Departamento, por si e entre si eleitos para mandatos bienais.
 
-###### Art. 6.º - 1 - O conselho do Departamento é presidido por um professor catedrático ou associado do Departamento, eleito por todos os membros do conselho para um mandato bienal.
+Art. 6.º - 1 - O conselho do Departamento é presidido por um professor catedrático ou associado do Departamento, eleito por todos os membros do conselho para um mandato bienal.
 
 2 - O presidente será substituído, nas suas faltas ou impedimentos, pelo membro mais antigo da categoria mais elevada em serviço no Departamento.
 
-###### Art. 7.º - 1 - O conselho do Departamento reúne ordinariamente de dois em dois meses e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou por solicitação de, pelo menos, metade dos seus membros.
+Art. 7.º - 1 - O conselho do Departamento reúne ordinariamente de dois em dois meses e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou por solicitação de, pelo menos, metade dos seus membros.
 
 2 - A convocatória escrita deverá ser enviada a cada um dos membros do conselho do Departamento, com uma antecedência mínima de dois dias sobre a data da sessão, e dela constará a ordem de trabalhos, a data, a hora e o local da sessão.
 
@@ -139,7 +148,7 @@ b) Comissão executiva.
 
 4 - Das reuniões do conselho do Departamento serão elaboradas actas, que, uma vez lidas e aprovadas, serão assinadas pelo presidente e pelo secretário da respectiva reunião.
 
-###### Art. 8.º Ao conselho do Departamento compete:
+Art. 8.º Ao conselho do Departamento compete:
 
 a) Eleger e propor a demissão do presidente do conselho do Departamento, implicando esta demissão a cessação de funções da comissão executiva;
 
@@ -173,7 +182,7 @@ p) Deliberar sobre outras matérias que, nos termos do [Decreto-Lei n.º 66/80](
 
 q) Propor alterações ao presente Regulamento.
 
-###### Art. 9.º - 1 - A comissão executiva do Departamento é constituída por:
+Art. 9.º - 1 - A comissão executiva do Departamento é constituída por:
 
 a) O presidente do conselho do Departamento, que a ela preside;
 
@@ -181,7 +190,7 @@ b) 2 docentes ou investigadores do Departamento, em tempo integral e em exercíc
 
 2 - A comissão executiva será secretariada por um funcionário administrativo deslocado no Departamento.
 
-###### Art. 10.º À comissão executiva compete:
+Art. 10.º À comissão executiva compete:
 
 a) Gerir o Departamento de acordo com a legislação em vigor, com as normas gerais da Faculdade e com as deliberações e orientações estabelecidas pelo conselho do Departamento;
 
@@ -203,7 +212,7 @@ i) Apresentar anualmente ao conselho do Departamento o relatório das suas activ
 
 j) Preparar as reuniões do conselho do Departamento e executar as suas deliberações.
 
-###### Art. 11.º Ao presidente do conselho do Departamento compete:
+Art. 11.º Ao presidente do conselho do Departamento compete:
 
 a) Convocar e conduzir as reuniões do conselho do Departamento e da comissão executiva;
 
@@ -213,17 +222,17 @@ c) Representar o Departamento;
 
 d) Exercer, em permanência, as funções que lhe forem cometidas pelo conselho do Departamento ou pela comissão executiva, podendo qualquer membro destes órgãos pedir a ratificação das resoluções do presidente na reunião ordinária seguinte do conselho do Departamento.
 
-###### Art. 12.º O presidente do conselho do Departamento e os membros da comissão executiva poderão ser parcialmente dispensados de serviço docente durante o seu mandato.
+Art. 12.º O presidente do conselho do Departamento e os membros da comissão executiva poderão ser parcialmente dispensados de serviço docente durante o seu mandato.
 
-###### Art. 13.º Os órgãos de gestão da Faculdade funcionarão como órgãos de recurso e de fiscalização das decisões dos órgãos do Departamento.
+Art. 13.º Os órgãos de gestão da Faculdade funcionarão como órgãos de recurso e de fiscalização das decisões dos órgãos do Departamento.
 
 ### CAPÍTULO III — Contratos, convénios e prestação de serviços
 
-###### Art. 14.º O Departamento pode propor a celebração de convénios de cooperação e intercâmbio científico com Universidades e outras entidades públicas ou privadas, nacionais ou estrangeiras, bem como a realização de contratos de prestação de serviço às referidas entidades.
+Art. 14.º O Departamento pode propor a celebração de convénios de cooperação e intercâmbio científico com Universidades e outras entidades públicas ou privadas, nacionais ou estrangeiras, bem como a realização de contratos de prestação de serviço às referidas entidades.
 
-###### Art. 15.º O Departamento poderá celebrar contratos de aquisição de serviços ou termos de tarefa com entidades singulares ou colectivas, nacionais ou estrangeiras, para a realização de trabalhos científicos, técnicos e outros de carácter eventual, necessários ao prosseguimento da sua actividade.
+Art. 15.º O Departamento poderá celebrar contratos de aquisição de serviços ou termos de tarefa com entidades singulares ou colectivas, nacionais ou estrangeiras, para a realização de trabalhos científicos, técnicos e outros de carácter eventual, necessários ao prosseguimento da sua actividade.
 
-###### Art. 16.º Os instrumentos de formalização dos contratos e convénios deverão conter, entre outros, os seguintes elementos:
+Art. 16.º Os instrumentos de formalização dos contratos e convénios deverão conter, entre outros, os seguintes elementos:
 
 a) Identificação das partes e seus representantes;
 
@@ -233,11 +242,11 @@ c) Direitos e deveres das partes:
 
 d) Duração.
 
-###### Art. 17.º - 1 - O Departamento poderá aceitar professores, assistentes, investigadores e técnicos provenientes de outras instituições universitárias e de ensino superior ou de laboratórios públicos ou privados para nele realizarem estágios de investigação científica ou de aperfeiçoamento técnico.
+Art. 17.º - 1 - O Departamento poderá aceitar professores, assistentes, investigadores e técnicos provenientes de outras instituições universitárias e de ensino superior ou de laboratórios públicos ou privados para nele realizarem estágios de investigação científica ou de aperfeiçoamento técnico.
 
 2 - As pessoas a que se refere o número anterior ficam sujeitas às normas definidas pelo Departamento.
 
-###### Art. 18.º - 1 - O Departamento poderá prestar serviços à comunidade no âmbito da sua especialidade, sem prejuízo dos seus fins e objectivos primordiais.
+Art. 18.º - 1 - O Departamento poderá prestar serviços à comunidade no âmbito da sua especialidade, sem prejuízo dos seus fins e objectivos primordiais.
 
 2 - O conselho do Departamento indicará qual a linha de investigação encarregada da realização de cada trabalho, uma vez obtida prévia anuência do respectivo responsável.
 
@@ -245,7 +254,7 @@ d) Duração.
 
 4 - Não é permitida a realização de qualquer trabalho que envolva dispêndio ou utilização do material do Departamento por parte de qualquer membro do seu pessoal sem autorização do respectivo órgão de gestão.
 
-###### Art. 19.º - 1 - A comissão executiva proporá ao reitor da Universidade a tabela de preços dos serviços prestados, atendendo a:
+Art. 19.º - 1 - A comissão executiva proporá ao reitor da Universidade a tabela de preços dos serviços prestados, atendendo a:
 
 a) Despesas com a utilização e amortização de equipamento utilizado;
 
@@ -257,38 +266,38 @@ d) Remuneração por horas extraordinárias do pessoal envolvido na orientação
 
 2 - As importâncias recebidas pelo Departamento pela prestação de serviços, depois de deduzidas as cor respondentes às alíneas b) e d) do número anterior, serão entregues nos cofres do Estado e escrituradas em «Conta de ordem» do Orçamento Geral do Estado, podendo ser aplicadas no próprio ano ou em anos futuros, através de orçamentos privativos.
 
-###### Art. 20.º - 1 - Para fins de administração autónoma do orçamento privativo resultante das receitas provenientes do cumprimento de convénios ou contratos de prestação de serviços, bem como de doações, legados, subsídios e comparticipações concedidos por entidades públicas ou privadas, o Departamento ficará sujeito à legislação geral aplicável aos serviços com autonomia administrativa e financeira.
+Art. 20.º - 1 - Para fins de administração autónoma do orçamento privativo resultante das receitas provenientes do cumprimento de convénios ou contratos de prestação de serviços, bem como de doações, legados, subsídios e comparticipações concedidos por entidades públicas ou privadas, o Departamento ficará sujeito à legislação geral aplicável aos serviços com autonomia administrativa e financeira.
 
 2 - Nos termos do número anterior, a comissão executiva gozará da competência atribuída aos órgãos de gestão dos serviços com autonomia administrativa e financeira.
 
-###### Art. 21.º - 1 - O orçamento do Departamento constituirá uma subdivisão orgânica do orçamento da Faculdade de Ciências da Universidade de Lisboa no Orçamento Geral do Estado.
+Art. 21.º - 1 - O orçamento do Departamento constituirá uma subdivisão orgânica do orçamento da Faculdade de Ciências da Universidade de Lisboa no Orçamento Geral do Estado.
 
 2 - Enquanto não for possível estabelecer no Orçamento Geral do Estado dotação própria, serão satisfeitos pelas disponibilidades da Faculdade os encargos resultantes de serviços e do funcionamento do Departamento.
 
 ### CAPÍTULO IV — Instalações e equipamento
 
-###### Art. 22.º O Departamento ocupa as instalações mais convenientes da Universidade de Lisboa, consoante o artigo 13.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053) e de acordo com os órgãos de gestão da Faculdade.
+Art. 22.º O Departamento ocupa as instalações mais convenientes da Universidade de Lisboa, consoante o artigo 13.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053) e de acordo com os órgãos de gestão da Faculdade.
 
 ### CAPÍTULO V — Disposições gerais
 
-###### Art. 23.º - 1 - Os membros dos órgãos dotados de poder deliberativo são criminal, civil e disciplinarmente responsáveis pelas infracções à lei cometidas no exercício das suas funções.
+Art. 23.º - 1 - Os membros dos órgãos dotados de poder deliberativo são criminal, civil e disciplinarmente responsáveis pelas infracções à lei cometidas no exercício das suas funções.
 
 2 - São excluídos do disposto no número anterior os membros que fizerem exarar em acta a sua oposição às deliberações tomadas e os ausentes que o façam na primeira reunião em que estiverem presentes.
 
-###### Art. 24.º - 1 - Os órgãos com poder deliberativo só podem deliberar quando estiver presente a maioria dos seus membros em efectividade de funções.
+Art. 24.º - 1 - Os órgãos com poder deliberativo só podem deliberar quando estiver presente a maioria dos seus membros em efectividade de funções.
 
 2 - As decisões serão aprovadas por maioria simples.
 
 3 - Todas as deliberações e eleições que individualmente se refiram a pessoas estão sujeitas a escrutínio secreto.
 
-###### Art. 25.º O presente Regulamento poderá ser revisto mediante proposta dos órgãos de gestão do Departamento, após um ano da sua entrada em vigor.
+Art. 25.º O presente Regulamento poderá ser revisto mediante proposta dos órgãos de gestão do Departamento, após um ano da sua entrada em vigor.
 
 ### CAPÍTULO VI — Disposições transitórias
 
-###### Art. 26 O corpo docente do Departamento é constituído pelos docentes da Faculdade que para ele sejam destacados por proposta aprovada pela comissão coordenadora do conselho científico da Faculdade.
+Art. 26 O corpo docente do Departamento é constituído pelos docentes da Faculdade que para ele sejam destacados por proposta aprovada pela comissão coordenadora do conselho científico da Faculdade.
 
-###### Art. 27.º O pessoal administrativo, técnico e técnico superior do Departamento inclui os funcionários da Faculdade que para ele sejam destacados por proposta aprovada pela comissão coordenadora do conselho científico da Faculdade.
+Art. 27.º O pessoal administrativo, técnico e técnico superior do Departamento inclui os funcionários da Faculdade que para ele sejam destacados por proposta aprovada pela comissão coordenadora do conselho científico da Faculdade.
 
-###### Art. 28.º No prazo de trinta dias após a publicação deste Regulamento, o professor mais antigo da categoria mais elevada das áreas referidas no artigo 1.º desencadeará os processos eleitorais para a eleição dos membros não permanentes do conselho do Departamento, bem como para a posterior eleição do seu presidente.
+Art. 28.º No prazo de trinta dias após a publicação deste Regulamento, o professor mais antigo da categoria mais elevada das áreas referidas no artigo 1.º desencadeará os processos eleitorais para a eleição dos membros não permanentes do conselho do Departamento, bem como para a posterior eleição do seu presidente.
 
-**O Ministro da Educação e Ciência, Vítor Pereira Crespo.**
+O Ministro da Educação e Ciência, Vítor Pereira Crespo.

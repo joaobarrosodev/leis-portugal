@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/292b00/58675867.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/242/1992/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/242-1992-623832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T07:57:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e01e98eeece9ddf0973ab7503c5a3c809995f2cf76a1a0595bca0eccaf32910
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cea22443195023306d46ffc62260a3a8bfc478fcd0ce3da667604d41daac3b3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:57:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medicina
+- Estabelecimento Hospitalar
 - Fabrico Industrial
+- Medicina
 - Preço
 - Preço Convencional
-- Estabelecimento Hospitalar
 relationships:
 - type: amended_by
   target: pt:dre:510188:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:193463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311652:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:510188:por
+  label: "Revogado pelo DN.25/95.11.05.1995.MCT, DR.IS-B [109] de 11.05.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/25-1995-510188
+  date: '1995-05-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:57:42Z'
   warnings: []
   errors: []
 ---

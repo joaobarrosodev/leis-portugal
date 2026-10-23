@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 207/2009, 1º Suplemento, Série I de 2009-10-26
   number: '207'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8040-(2) a 8040-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/10/20701/0000200002.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/100-a/2009/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/100-a-2009-355887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T05:03:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51e8b55d2b7142dc5fe5d2a3612677a71048162facfedae5853b6b0b5374aa0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ff7c7bfae817f4be020ac5021e088773edfcc549c1b53bb79b50dc02b0df211
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:03:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Exoneração
-- Primeiro-ministro
 - Governo XVII
+- Primeiro-ministro
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:03:20Z'
   warnings: []
   errors: []
 ---
@@ -87,12 +87,12 @@ validation:
 
 de 26 de Outubro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea g), segunda parte, da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea g), segunda parte, da Constituição, o seguinte:
 
 É exonerado do cargo de Primeiro-Ministro o Eng.º José Sócrates Carvalho Pinto de Sousa.
 
-**Assinado em 26 de Outubro de 2009.**
+Assinado em 26 de Outubro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.

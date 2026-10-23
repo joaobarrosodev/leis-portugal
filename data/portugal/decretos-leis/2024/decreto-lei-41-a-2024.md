@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/06/12401/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/41-a/2024/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-a-2024-870297959
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5e7c82e5688ca5dc62a9865b337ecfcd925c920735c223632349dd2446b8dd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86d160dc149e5bcfbbb031869febe0614b3c992c997c6c9c61f05639e8e61711
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência para a Integração Migrações e Asilo I. P.
 - Cidadão Estrangeiro
 - Conselho Consultivo para os Assuntos da Imigração
-- Política de Cooperação
 - Documentação Administrativa
-- Serviço Nacional de Saúde
 - Imigrante
-- Prazo de Validade
 - Observatório das Migrações
-- Agência para a Integração Migrações e Asilo I. P.
+- Política de Cooperação
+- Prazo de Validade
+- Serviço Nacional de Saúde
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:10-A/2020
+  label: Altera, a partir de 29 de junho de 2024, o artigo 16.º do Decreto-Lei n.º 10-A/2020, de 13 de março, Diário da República
+    n.º 52/2020, 1º Suplemento, Série I
+  source: null
+  date: '2020-03-13'
+- type: amends
+  target: pt:numero:lei:73/2021
+  label: Altera, a partir de 29 de junho de 2024, o artigo 3.º da Lei n.º 73/2021, de 12 de novembro, Diário da República
+    n.º 220/2021, Série I
+  source: null
+  date: '2021-11-12'
+- type: amends
+  target: pt:numero:decreto-lei:41/2023
+  label: Altera, a partir de 29 de junho de 2024, os artigos 3.º e 4.º do anexo e adita o artigo 7.º-A ao anexo ao Decreto-Lei
+    n.º 41/2023, de 2 de junho, Diário da República n.º 107/2023, Série I
+  source: null
+  date: '2023-06-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
   label: null
@@ -105,16 +123,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/73/2021/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/73/2021/11/12/p/dre
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174244808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213881448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641142:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:21Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +187,7 @@ O presente decreto-lei procede:
 
 a) À quadragésima sétima alteração ao [Decreto-Lei n.º 10-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-a-2020-130243053), de 13 de março, que estabelece medidas excecionais e temporárias relativas à situação epidemiológica do novo Coronavírus - COVID-19;
 
-b) À quarta alteração à [Lei n.º 73/2021](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), de 12 de novembro, alterada pelas Leis n.<sup>os</sup>[53/2008](https://diariodarepublica.pt/dr/detalhe/lei/53-2008-453479), de 29 de agosto, [53/2007](https://diariodarepublica.pt/dr/detalhe/lei/53-2007-641142), de 31 de agosto, [63/2007](https://diariodarepublica.pt/dr/detalhe/lei/63-2007-629449), de 6 de novembro, e [49/2008](https://diariodarepublica.pt/dr/detalhe/lei/49-2008-453255), de 27 de agosto, que aprova a reestruturação do sistema português de controlo de fronteiras;
+b) À quarta alteração à [Lei n.º 73/2021](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), de 12 de novembro, alterada pelas Leis n.os[53/2008](https://diariodarepublica.pt/dr/detalhe/lei/53-2008-453479), de 29 de agosto, [53/2007](https://diariodarepublica.pt/dr/detalhe/lei/53-2007-641142), de 31 de agosto, [63/2007](https://diariodarepublica.pt/dr/detalhe/lei/63-2007-629449), de 6 de novembro, e [49/2008](https://diariodarepublica.pt/dr/detalhe/lei/49-2008-453255), de 27 de agosto, que aprova a reestruturação do sistema português de controlo de fronteiras;
 
 c) À primeira alteração ao [Decreto-Lei n.º 41/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), de 2 de junho, que cria a Agência para a Integração, Migrações e Asilo, I. P.
 
@@ -381,12 +427,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de junho de 2024. - Luís Montenegro - António Egrejas Leitão Amaro.
 
-**Promulgado em 28 de junho de 2024.**
+Promulgado em 28 de junho de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de junho de 2024.**
+Referendado em 28 de junho de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+117852185

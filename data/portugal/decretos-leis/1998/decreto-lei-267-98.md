@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/267/1998/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1998-448168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90c2427db6301b51f7468708f38a4c276e72117892fd25d03397f294c1b60dd3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8539a0f8ead2629ccc44385b34fdec58e3cf51bc55e29566849cad7d33bd9f9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho de Ministros para os Assuntos da Cooperação
-- Política de Cooperação
 - Criação de Serviços
 - Definição de Competências
-- Política Externa
 - Governo XIII
-- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
-- Primeiro-ministro
 - Orgânica
+- Política de Cooperação
+- Política Externa
 - Presidente
+- Primeiro-ministro
 - Secretário de Estado Adjunto do Primeiro-ministro
 - Secretário de Estado da Presidência do Conselho de Ministros
+- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/296-a/1995/11/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/296-a/1995/11/17/p/dre
+- type: cites
+  target: pt:dre:455465:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:54Z'
   warnings: []
   errors: []
 ---
@@ -136,12 +140,12 @@ e) Exercer outros poderes que lhe sejam conferidos por lei ou por delegação do
 
 Visto e aprovado em Conselho de Ministros de 2 de Julho de 1998. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Fernando Manuel Van-Zeller Gomes da Silva - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - António Luís Santos da Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 8 de Agosto de 1998.**
+Promulgado em 8 de Agosto de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Agosto de 1998.**
+Referendado em 20 de Agosto de 1998.
 
 Pelo Primeiro-Ministro, Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 85/1979, 1º Suplemento, Série I de 1979-04-11
   number: '85'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 594-(22) a 594-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/04/08501/00220023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/180-1979-515862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T05:52:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a333a0183682a8bc74f07f5e7ea61d916e571c2d3062dc9f8f4a0a49bcec2c47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8e4577e414b2e3a4e305991ce03044ba3db7d23c3161a7fb8b93fa0f6f63de7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:52:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ave de Capoeira
+- Carne de AVES de Capoeira
+- Comércio
+- Comércio a Retalho
+- Comércio por Grosso
+- Margens de Comercialização
+- Preço de Venda
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:275671:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:295653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:275671:por
+  label: "Revogada pela PORT.331-I/81.06.04.1981.MCT, DR.IS [80]Supl de 06.04.1981\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/331-i-1981-275671
+  date: '1981-04-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:52:22Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +129,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comérci
 
 3.º As margens de comercialização do grossista, qualquer que seja o número de intervenientes, e do retalhista são as seguintes, por quilograma, independentemente da classificação comercial da ave:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/08501/00220023.pdf))](https://files.diariodarepublica.pt/1s/1979/04/08501/00220023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08501/00220023.pdf)
 
 § único. As margens referidas no corpo deste número entendem-se fixas, incidem sobre o preço de aquisição e englobam o lucro líquido, bem como todos os encargos inerentes ao exercício da respectiva actividade.
 
@@ -120,6 +153,6 @@ Tabela anexa à Portaria n.º 180/79
 
 Preços máximos de venda do galo, galinha e frango e respectivas miudezas comestíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/08501/00220023.pdf))](https://files.diariodarepublica.pt/1s/1979/04/08501/00220023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08501/00220023.pdf)
 
-**O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.**
+O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.

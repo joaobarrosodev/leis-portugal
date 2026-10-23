@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/20200/0001500020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72/2022/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2022-202357817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ab39624b945053fc16eeecde74f3aa20ebff5b959363238371209f51fcc895a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a6b70ada88c0275ca49c932ef407a4926966b7cb2512e36c5b490d5d8eef6fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,34 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Financiamento
-- Energia não Poluente
-- Energia Elétrica
+- Agência Portuguesa do Ambiente
+- Autarquia Local
+- Avaliação de Impacte Ambiental
+- Centro Eletroprodutor
 - Compensação Financeira
-- Urbanização
 - Controlo Administrativo
 - Definição de Competências
+- Direção Geral de Energia e Geologia
+- Energia
+- Energia Elétrica
+- Energia não Poluente
 - Energia Renovável
 - Energia Solar
-- Projeto de Investimento
-- Direção Geral de Energia e Geologia
-- Avaliação de Impacte Ambiental
+- Financiamento
+- Fundo Ambiental
 - Inflação
 - Licenciamento
 - Página na Internet
-- Proteção do Ambiente
 - Período Experimental
-- Energia
 - Prazo
 - Produção de Energia Elétrica
+- Produção de Hidrogénio
+- Projeto de Investimento
 - Prorrogação de Prazo
+- Proteção do Ambiente
 - Rede Elétrica de Serviço Público
 - Relatório
-- Autarquia Local
-- Fundo Ambiental
-- Centro Eletroprodutor
-- Agência Portuguesa do Ambiente
-- Produção de Hidrogénio
+- Urbanização
 relationships:
 - type: amended_by
   target: pt:dre:901535571:por
@@ -116,16 +116,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+- type: cites
+  target: pt:dre:177634016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182213906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:54Z'
   warnings: []
   errors: []
 ---
@@ -244,7 +260,9 @@ c) O termo de responsabilidade onde o apresentante da notificação declare conh
 
 14 - A instalação dos projetos referidos no n.º 1 respeita as normas legais e regulamentares aplicáveis, designadamente as referentes a servidões e restrições de utilidade pública, ao património cultural e arqueológico e às áreas sensíveis, tal como definidas na alínea a) do artigo 2.º do Regime Jurídico da Avaliação de Impacte Ambiental, aprovado pelo [Decreto-Lei n.º 151-B/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-b-2013-513863), de 31 de outubro, na sua redação atual, bem como as normas técnicas de construção.
 
-###### Artigo 4.º-B — Compensação aos municípios
+Artigo 4.º-B
+
+Compensação aos municípios
 
 1 - A instalação de centros eletroprodutores de fontes de energia renováveis e de instalações de armazenamento que obtenha título de controlo prévio de operações urbanísticas ou que tenha sido isenta de controlo prévio nos termos do artigo anterior está sujeita a uma compensação aos municípios que acresce à prevista no artigo 49.º do [Decreto-Lei n.º 15/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), de 14 de janeiro.
 
@@ -290,12 +308,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de outubro de 2022. - António Luís Santos da Costa - José Duarte Piteira Rica Silvestre Cordeiro.
 
-**Promulgado em 14 de outubro de 2022.**
+Promulgado em 14 de outubro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 17 de outubro de 2022.**
+Referendado em 17 de outubro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115790679

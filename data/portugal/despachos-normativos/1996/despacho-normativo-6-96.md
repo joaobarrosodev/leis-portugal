@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/02/033b00/02500251.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/6/1996/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-1996-595950
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T08:31:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e70595169f3368e1fe273c79ce2218a82973adcb578f83e750cf1839ae3d000
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cc94491e94c8a46eadfe3fc87d327ed09d98d19f3afb2587c193d29de73d229
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:31:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
+- Autarquia Local
+- Câmara Municipal
 - Comparticipação do Estado
 - Concurso
 - Direcção Geral de Viação
-- Governo Civil
-- Segurança Rodoviária
 - Equipamento Urbano
-- Câmara Municipal
+- Governo Civil
 - Regulamento
+- Segurança Rodoviária
 - Sinalização
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:411122:por
@@ -85,16 +85,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499480:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:411122:por
+  label: "Revogado pelo DN.16/2000.2000.02.11.MAI,DR.IS-B [60] de 11/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/16-2000-411122
+  date: '2000-02-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:31:00Z'
   warnings: []
   errors: []
 ---

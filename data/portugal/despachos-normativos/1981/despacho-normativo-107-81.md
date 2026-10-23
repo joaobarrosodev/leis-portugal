@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/04/07700/08340834.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/107-1981-389465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T07:07:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a08498d0f5df974552fd44651b63d439bc504925b0a67df63d5fe0cce010521
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc6ff12dc3b3642e5c71562ea995fbe567e5801c628dd3e4e98d3808773deadc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:07:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fixação de Preços
+- Indústria de Conservas
+- Indústria Transformadora
+- Leguminosas
+- Preço
+- Preço de Campanha
 relationships:
 - type: amended_by
   target: pt:dre:609120:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:296428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682070:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:609120:por
+  label: Revogado, a partir de 2.03.1982, pelo(a) Despacho Normativo n.º 32/82 - Diário da República n.º 66/1982, Série I
+    de 1982-03-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/32-1982-609120
+  date: '1982-03-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:07:51Z'
   warnings: []
   errors: []
 ---

@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/672-1974-471974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T04:33:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6074f44bacf311bfda53c3919b49d78e0298098cd9ec3521697b1d74dd58c538
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfdb8cc65b83695e5f2adf17f5a4b7875c6c2cdff39e3678342ad0cae689e12e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:33:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Diário do Governo
+- Diploma Legal
+- Formulário dos Diplomas
+- Normalização
 relationships:
 - type: amended_by
   target: pt:dre:408675:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:264351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674445:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:466051:por
+  label: "Rectificada pela RECT.DD14.31.10.1974.PCM, DG.IS [270] de 20.11.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1974-466051
+  date: '1974-10-31'
+- type: repealed_by
+  target: pt:dre:408675:por
+  label: "Revogadas as normas 1 a 10, pela LEI.3/76.1976.09.10.AR DR.IS [213]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-1976-408675
+  date: '1976-09-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:33:01Z'
   warnings: []
   errors: []
 ---
@@ -107,11 +129,11 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 Visto e aprovado em Conselho de Ministros. - (Assinaturas do Primeiro-Ministro ou Ministros competentes.)
 
-**Promulgado em ...**
+Promulgado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, (assinatura do Chefe do Estado).**
+O Presidente da República, (assinatura do Chefe do Estado).
 
 B) Fórmula dos decretos-leis não aprovados em Conselho de Ministros:
 
@@ -121,11 +143,11 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 (Assinaturas do Primeiro-Ministro e de todos os Ministros.)
 
-**Promulgado em ...**
+Promulgado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, (assinatura do Chefe do Estado).**
+O Presidente da República, (assinatura do Chefe do Estado).
 
 C) Fórmula dos decretos para os territórios ultramarinos:
 
@@ -135,11 +157,11 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, e
 
 (Assinaturas do Primeiro-Ministro, do Ministro da Coordenação Interterritorial e de todos os Ministros.)
 
-**Promulgado em ...**
+Promulgado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, (assinatura do Chefe do Estado).**
+O Presidente da República, (assinatura do Chefe do Estado).
 
 D) Fórmula dos decretos regulamentares:
 
@@ -149,11 +171,11 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constituci
 
 (Assinaturas do Primeiro-Ministro e de todos os Ministros, caso o diploma não seja aprovado em Conselho de Ministros.)
 
-**Promulgado em ...**
+Promulgado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, (assinatura do Chefe do Estado).**
+O Presidente da República, (assinatura do Chefe do Estado).
 
 E) Fórmula dos decretos simples da competência própria do Presidente da República:
 
@@ -161,11 +183,11 @@ Usando da faculdade conferida ... (indicação de alguns dos números do artigo 
 
 Tenho por bem ... (segue-se o texto).
 
-**Assinado em ...**
+Assinado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, (assinatura do Chefe do Estado e ainda as assinaturas do Primeiro-Ministro ou Ministros competentes).**
+O Presidente da República, (assinatura do Chefe do Estado e ainda as assinaturas do Primeiro-Ministro ou Ministros competentes).
 
 F) Fórmula dos decretos simples da competência própria do Presidente da República e que não carecem de referenda:
 
@@ -173,11 +195,11 @@ Usando da faculdade conferida pela alínea a) do n.º 2 do artigo 8.º da Lei Co
 
 Tenho por bem ... (segue-se o texto).
 
-**Assinado em ...**
+Assinado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, (assinatura do Chefe do Estado).**
+O Presidente da República, (assinatura do Chefe do Estado).
 
 G) Fórmula das leis constitucionais da competência própria do Conselho de Estado:
 
@@ -187,11 +209,11 @@ O Conselho de Estado, no uso da faculdade conferida pelo n.º 1, 1.º, do artigo
 
 Visto e aprovado pelo Conselho de Estado.
 
-**Promulgada em ...**
+Promulgada em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, (assinatura do Chefe do Estado).**
+O Presidente da República, (assinatura do Chefe do Estado).
 
 H) Fórmula dos decretos simples da competência própria do Conselho de Estado:
 
@@ -213,11 +235,11 @@ Visto e aprovado em Conselho de Ministros.
 
 (Assinaturas do Primeiro-Ministro e do Ministro ou Ministros competentes.)
 
-**Assinado em ...**
+Assinado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, (segue-se a assinatura do Chefe do Estado).**
+O Presidente da República, (segue-se a assinatura do Chefe do Estado).
 
 J) Fórmula dos decretos de aprovação de tratados internacionais não aprovados em Conselho de Ministros:
 
@@ -227,11 +249,11 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 (Assinaturas do Primeiro-Ministro e de todos os Ministros.)
 
-**Assinado em ...**
+Assinado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, (assinatura do Chefe do Estado).**
+O Presidente da República, (assinatura do Chefe do Estado).
 
 L) Fórmula dos decretos de aprovação de acordos internacionais:
 
@@ -241,11 +263,11 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 (Assinaturas do Primeiro-Ministro e de todos os Ministros, caso não seja aprovado em Conselho.)
 
-**Assinado em ...**
+Assinado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, (assinatura do Chefe do Estado).**
+O Presidente da República, (assinatura do Chefe do Estado).
 
 M) Fórmula dos restantes decretos simples do Governo:
 
@@ -255,11 +277,11 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constituci
 
 (Assinaturas do Primeiro-Ministro e de todos os Ministros, caso não seja aprovado em Conselho.)
 
-**Assinado em ...**
+Assinado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, (assinatura do Chefe do Estado).**
+O Presidente da República, (assinatura do Chefe do Estado).
 
 N) Fórmula dos decretos emanados da Junta de Salvação Nacional:
 
@@ -269,9 +291,9 @@ Usando da faculdade conferida pelo artigo 10.º, n.º 2.º, ou 3.º (conforme os
 
 Visto e aprovado pela Junta de Salvação Nacional.
 
-**Assinado em ...**
+Assinado em ...
 
-**Publique-se.**
+Publique-se.
 
 (Seguem-se as assinaturas dos Membros da Junta.)
 

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/184/2015/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 241c2cf2d809c3eab70cf4f5b83370629dbbec899cb9017ae5e8027db2c2a37d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 258219c7d11d2ab7c1cff63adc2e74b8174911ab6e9ba9254424eb07f310b95c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,41 +69,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Instituto da Segurança Social
+- Administração Regional de Saúde
 - Aproximação das Legislações
+- ASAE
 - CE Países
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
-- Multa
-- Metrologia
-- Radiactividade
-- Radioprotecção
-- Direção Geral da Saúde
 - Comissão Nacional de Protecção de Dados
-- Higiene do Trabalho
+- Condições de Higiene e Segurança no Trabalho
+- Confidencialidade
 - Contra-ordenação
 - Definição de Competências
-- Administração Regional de Saúde
-- Saúde Pública
-- Segurança no Trabalho
-- Segurança Pública
-- Fiscalização
-- Formador
-- Instituto Superior Técnico
-- ASAE
-- Licenciamento
-- Instituto Português da Qualidade
+- Direção Geral da Saúde
 - Direcção Geral do Emprego e das Relações de Trabalho
+- Fiscalização
+- Formação Profissional
+- Formador
+- Higiene do Trabalho
+- IAPMEI
+- Instituto da Segurança Social
+- Instituto do Emprego e Formação Profissional
+- Instituto Português da Qualidade
 - Instituto Português de Acreditação
+- Instituto Superior Técnico
+- Licenciamento
+- Metrologia
+- Multa
 - Prazo
 - Prestação de Serviços
-- Confidencialidade
+- Radiactividade
 - Radiologia
-- Condições de Higiene e Segurança no Trabalho
+- Radioprotecção
 - Responsabilidade Civil
+- Saúde Pública
 - Segurança das Instalações
+- Segurança no Trabalho
+- Segurança Pública
 - Seguro Profissional e de Actividade
-- IAPMEI
 - Taxa
 relationships:
 - type: amended_by
@@ -130,20 +130,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:206660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440096:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:117202785:por
+  label: Revogado, a partir de 02.04.2019, o Dec Lei 167/2002 de 18-jul, alterado e republicado pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
 - type: transposes
   target: celex:31996L0029
   label: null
   source: null
 article_structure:
-  article_count: 68
+  article_count: 46
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:53Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +202,9 @@ Os artigos 2.º, 3.º, 4.º, 5.º, 5.º-A, 6.º, 7.º, 10.º, 12.º, 13.º, 14.�
 
 O presente diploma aplica-se às entidades que prestam serviços na área da proteção e segurança contra as radiações ionizantes, designadamente em instalações onde são desenvolvidas práticas nas áreas da medicina, indústria, investigação e ensino.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Para efeitos do disposto no presente diploma, entende-se por:
 
@@ -204,7 +228,9 @@ i) Trabalhadores expostos da categoria A - os trabalhadores expostos suscetívei
 
 j) [Anterior alínea h)].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -222,7 +248,9 @@ d) A documentação relativa à sua acreditação, nos termos previstos no artig
 
 4 - O Instituto Superior Técnico está autorizado a exercer a atividade de prestação de serviços de dosimetria individual e de área, sendo-lhe aplicável o regime previsto no presente diploma com as adaptações decorrentes da sua natureza de entidade pública.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]:
 
@@ -260,7 +288,9 @@ b) Do certificado de competências pedagógicas dos formadores, pelo Instituto d
 
 4 - Sem prejuízo do disposto no n.º 2, a Direção-Geral da Saúde pode solicitar pareceres técnicos complementares a serviços ou organismos nacionais ou internacionais competentes, sempre que o entenda conveniente.
 
-###### Artigo 5.º-A — [...]
+Artigo 5.º-A
+
+[...]
 
 1 - Pelos atos relativos ao procedimento referido no n.º 2 do artigo 5.º, é devida uma taxa de montante a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
 
@@ -276,7 +306,9 @@ b) 70 % a distribuir em partes iguais pelos serviços e organismos emissores de 
 
 5 - [Anterior n.º 4.]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Para efeitos do disposto no artigo 5.º, a entidade pode desenvolver, isolada ou conjuntamente, as atividades relativas às seguintes valências:
 
@@ -290,13 +322,17 @@ d) Formação em proteção e segurança radiológica;
 
 e) Verificação das condições de proteção e segurança radiológica e da conformidade dos critérios de aceitabilidade em instalações e equipamentos que produzam ou utilizem radiações ionizantes.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A direção técnica das entidades deve ser constituída por profissionais com nível 1 de qualificação profissional, nos termos definidos no [Decreto-Lei n.º 227/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-2008-440096), de 25 de novembro.
 
 2 - As entidades, para além da direção técnica, dispõem de pessoal técnico próprio devidamente qualificado para o exercício das suas atividades com um dos níveis de qualificação profissional, nos termos definidos no [Decreto-Lei n.º 227/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-2008-440096), de 25 de novembro.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Qualquer indivíduo ou entidade que preste um serviço no âmbito das atividades referidas nas alíneas a), b) ou c) do artigo 6.º não pode prestar ao mesmo destinatário as atividades previstas na alínea e) do mesmo artigo.
 
@@ -304,7 +340,9 @@ e) Verificação das condições de proteção e segurança radiológica e da co
 
 3 - A Direção-Geral da Saúde pode suspender a licença de funcionamento atribuída para o desenvolvimento da valência autorizada até à eliminação da incompatibilidade prevista no número anterior.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 Para efeitos do disposto no presente diploma, são designadas as seguintes autoridades competentes:
 
@@ -318,7 +356,9 @@ d) Instituto Português de Acreditação, I. P., relativamente ao processo de ac
 
 e) Instituto do Emprego e da Formação Profissional, I. P., relativamente à formação e certificação pedagógica de formadores.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A fiscalização do cumprimento do disposto no presente diploma, para efeitos do sancionamento dos ilícitos nele previstos, compete à Autoridade de Segurança Alimentar e Económica, sem prejuízo das atribuições dos serviços e organismos legalmente competentes, designadamente no que respeita às matérias a que se referem os artigos 19.º a 33.º e os anexos I e II.
 
@@ -326,7 +366,9 @@ e) Instituto do Emprego e da Formação Profissional, I. P., relativamente à fo
 
 3 - [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A Direção-Geral da Saúde organiza e mantém atualizado um registo central das entidades a que se refere o presente diploma.
 
@@ -334,7 +376,9 @@ e) Instituto do Emprego e da Formação Profissional, I. P., relativamente à fo
 
 3 - A lista das entidades licenciadas, ou que tenham iniciado a atividade ao abrigo do disposto no n.º 2 do artigo 4.º, e as respetivas valências, são publicadas no sítio na Internet da Direção-Geral da Saúde, devendo ser assegurado que esta publicação não é indexada a motores de pesquisa na Internet.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...].
 
@@ -342,7 +386,9 @@ e) Instituto do Emprego e da Formação Profissional, I. P., relativamente à fo
 
 3 - A licença pode ser retirada a todo o tempo, sempre que a Direção-Geral da Saúde verifique que a entidade não está a cumprir os requisitos previstos no presente diploma.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -362,7 +408,9 @@ c) Instituto Superior Técnico, quando se tratar de uma instalação radiológic
 
 6 - A Direção-Geral da Saúde e os organismos referidos no número anterior asseguram a confidencialidade das informações contidas nos relatórios previstos nos n.os 4 e 5 e não as disponibilizam a outras pessoas ou entidades externas.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Os critérios mínimos de aceitabilidade das instalações e equipamentos de radiodiagnóstico médico, de radioterapia e de medicina nuclear regem-se pelas boas práticas internacionalmente reconhecidas e pela legislação específica que lhes for aplicável.
 
@@ -370,13 +418,17 @@ c) Instituto Superior Técnico, quando se tratar de uma instalação radiológic
 
 3 - Compete à Direção-Geral da Saúde, em articulação com as demais autoridades competentes, validar os critérios de aceitabilidade em utilização.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...].
 
 2 - A entidade deve comunicar, no prazo máximo de três meses, ao serviço que gere a base de dados que constitui o registo dosimétrico central, as doses de radiação que registou.
 
-###### Artigo 21.º — Valor de dose
+Artigo 21.º
+
+Valor de dose
 
 1 - Se a dose efetiva correspondente ao período de vigilância ultrapassar o nível de registo de 2 mSv ou se a dose equivalente recebida por um órgão ultrapassar 10 mSv, o responsável do serviço de dosimetria deve comunicar esse valor à Direção-Geral da Saúde, no prazo máximo de 10 dias após a receção do dosímetro.
 
@@ -386,7 +438,9 @@ c) Instituto Superior Técnico, quando se tratar de uma instalação radiológic
 
 4 - As comunicações referidas nos números anteriores não dispensam a comunicação obrigatória da leitura do dosímetro ao trabalhador e ao titular da instalação radiológica.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - O Instituto da Segurança Social, I. P., cria e tem acesso à base de dados que constitui o registo dosimétrico central das doses acumuladas pelas pessoas expostas às radiações ionizantes no exercício da sua profissão, podendo a sua gestão ser delegada noutro serviço ou organismo público, desde que cumpridas as disposições da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de outubro.
 
@@ -394,7 +448,9 @@ c) Instituto Superior Técnico, quando se tratar de uma instalação radiológic
 
 3 - A base de dados referida no n.º 1 é objeto de notificação à CNPD, nos termos da lei.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A entidade deve comunicar ao Instituto da Segurança Social, I. P., a respetiva denominação e endereço, bem como a identidade dos profissionais que nela estão expostos às radiações no exercício da sua profissão.
 
@@ -402,7 +458,9 @@ c) Instituto Superior Técnico, quando se tratar de uma instalação radiológic
 
 3 - [Revogado].
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - A entidade só pode comunicar a identidade das pessoas controladas e as respetivas doses recebidas aos próprios, aos seus representantes, ao serviço que gere a base de dados que constitui o registo dosimétrico central, à Direção-Geral da Saúde e ao Instituto da Segurança Social, I. P., nos termos da lei.
 
@@ -410,23 +468,31 @@ c) Instituto Superior Técnico, quando se tratar de uma instalação radiológic
 
 3 - [...].
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Os dados constantes da base de dados que constitui o registo dosimétrico central devem ser conservados por um período não inferior a 35 anos.
 
 2 - O serviço que gere a base de dados que constitui o registo dosimétrico central elabora um relatório anual, em conjunto com as outras autoridades competentes, relativo aos resultados da dosimetria individual, cujos dados devem ser apresentados sob forma anonimizada.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 A valência de formação é concedida pela Direção-Geral da Saúde, após obtenção dos documentos referidos no n.º 2 do artigo 5.º, à entidade certificada pela Direção-Geral do Emprego e das Relações do Trabalho que preencha as condições, previstas nos artigos seguintes, para ministrar formação específica em proteção radiológica aos profissionais que prossigam atividades suscetíveis de causar exposição a radiações ionizantes.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - O formador deve ser detentor do nível 1 ou 2 de qualificação profissional, nos termos definidos no [Decreto-Lei n.º 227/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-2008-440096), de 25 de novembro.
 
 2 - O formador, para além da qualificação referida no número anterior, deve ser titular do certificado de competências pedagógicas, atribuído pelo Instituto do Emprego e da Formação Profissional, I. P., ou ser detentor de habilitação profissional para a docência nos ensinos básico ou secundário, ou exercer funções docentes em instituição de ensino superior.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...]:
 
@@ -482,13 +548,13 @@ O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 16 de julho de 2015. - Pedro Passos Coelho - Maria Isabel Cabral de Abreu Castelo Branco - António de Magalhães Pires de Lima - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 12 de agosto de 2015.**
+Promulgado em 12 de agosto de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de agosto de 2015.**
+Referendado em 17 de agosto de 2015.
 
 Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.
 
@@ -1068,33 +1134,33 @@ Medida de incorporação - determinação da dose efetiva comprometida E(índice
 
 Período efetivo: O período efetivo é calculado a partir do período biológico e do período físico de um radionuclido segundo a expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
 
 F - Curvas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
 
 G - Critérios de dosimetria individual
 
 1 - Critérios de dosimetria individual para fotões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
 
 2 - Critérios de dosimetria individual para radiação beta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
 
 3 - Critérios de dosimetria individual para os neutrões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
 
 4 - Critérios de dosimetria individual das extremidades para fotões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
 
 5 - Critérios de dosimetria individual das extremidades para a radiação beta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
 
 H - Coeficientes de conversão
 
@@ -1102,19 +1168,19 @@ H - Coeficientes de conversão
 
 Coeficientes de conversão do kerma no ar para a dose individual em profundidade, H(índice p)(10), e para a dose individual à superfície, H(índice p)(0,07), aplicáveis a um dosímetro individual colocado sobre um fantoma paralelipipédico:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
 
 Referências: ICRP 74, ISO 4037 - 3
 
 Coeficientes de conversão do kerma no ar para a dose individual à superfície H(índice p)(0,07) aplicável a um dosímetro de extremidades colocado sobre um fantoma - haste ISO em PMMA:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
 
 Referências: ISO 4037 - 3
 
 2 - Coeficientes de conversão para os neutrões - coeficientes de conversão H(índice p)(fi)(10; (alfa)) da fluência neutrónica (fi) para a dose individual em profundidade H(índice p)(10) aplicável a um dosímetro individual colocado num fantoma paralelipipédico (Art. ...).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
 
 Referências: ISO 8529-3, ICRP 74 - 3
 
@@ -1122,13 +1188,13 @@ Os valores inferiores a 30 MeV foram considerados idênticos aos coeficientes de
 
 3 - Coeficientes de conversão para os eletrões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
 
 Referências: ICRP 74
 
 4 - Coeficientes de conversão específicos para as fontes padrão beta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16900/0661506631.pdf)
 
 ## ANEXO II — Programa de formação
 

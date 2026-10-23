@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/13100/20702078.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,103 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1983-451864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff3241efb05c9aa266ff2ad51a56ae171e521d76972864973d634eaa4fc8aec6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b11929ef140f991d2ad1f48ebfb0e7bbd1f743ef988b1b3862985f7f186b3a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral de Geologia e Minas
+- Ministério da Indústria Energia e Exportação
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:183223:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:660564:por
+  label: "Alterado o quadro anexo pela PORT.91/84.1984.02.13.PCM DR.IS [37]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/91-1984-660564
+  date: '1984-02-13'
+- type: amended_by
+  target: pt:dre:401303:por
+  label: "Alterado o quadro de pessoal, com a redacção dada pela Port 91/84, de 13-Fev, pela PORT.910/84.14.12.1984.PCM, DR.IS\
+    \ [288] de 14.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/910-1984-401303
+  date: '1984-12-14'
+- type: amended_by
+  target: pt:dre:396316:por
+  label: "Alterado o quadro de pessoal da Direcção Geral de Geologia e Minas aprovado pelo presente diploma, com a redacção\
+    \ constante das Port 91/84, de 13-Fev e 910/84, de 14-Dez, pela PORT.938/84.19.12.1984.PCM, DR.IS [292] de 19.12.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/938-1984-396316
+  date: '1984-12-19'
+- type: amended_by
+  target: pt:dre:182846:por
+  label: "Aumentado o quadro de pessoal aprovado pelo presente diploma, pela PORT.418/85.03.07.1985.PCM, DR.IS [150] de 03.07.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/418-1985-182846
+  date: '1985-07-03'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635399:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:43Z'
   warnings: []
   errors: []
 ---
@@ -122,9 +185,9 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Direcção-Geral de Geologia e Minas, abreviadamente designada DGGM, é um serviço operativo do Ministério da Indústria, Energia e Exportação que superintende na cartografia geológica sistemática do território nacional - inventariação e exploração - e nas actividades relativas à valorização e aproveitamento de substâncias minerais e recursos geotérmicos.
+Artigo 1.º A Direcção-Geral de Geologia e Minas, abreviadamente designada DGGM, é um serviço operativo do Ministério da Indústria, Energia e Exportação que superintende na cartografia geológica sistemática do território nacional - inventariação e exploração - e nas actividades relativas à valorização e aproveitamento de substâncias minerais e recursos geotérmicos.
 
-###### Art. 2.º São atribuições da DGGM:
+Art. 2.º São atribuições da DGGM:
 
 a) Prestar apoio técnico aos membros do Governo no que se refere à formulação da política do sector;
 
@@ -148,7 +211,7 @@ i) Colaborar com os restantes órgãos do Ministério da Indústria, Energia e E
 
 #### SECÇÃO I — (Estrutura Geral)
 
-###### Art. 3.º - 1 - O director-geral é o órgão dirigente da DGGM.
+Art. 3.º - 1 - O director-geral é o órgão dirigente da DGGM.
 
 2 - Os serviços da DGGM são os seguintes:
 
@@ -200,7 +263,7 @@ c) Indústria Extractiva, integrando os serviços enumerados nas respectivas al�
 
 #### SECÇÃO II — (Órgãos)
 
-###### Art. 4.º - 1 - O director-geral é o órgão que dirige a DGGM, exercendo as competências fixadas por lei ou superiormente delegadas e que coordena a actuação de todos os serviços.
+Art. 4.º - 1 - O director-geral é o órgão que dirige a DGGM, exercendo as competências fixadas por lei ou superiormente delegadas e que coordena a actuação de todos os serviços.
 
 2 - O director-geral será coadjuvado por subdirectores-gerais, em quem poderá delegar, com ou sem poderes de subdelegação, o exercício de parte das suas competências.
 
@@ -208,7 +271,7 @@ c) Indústria Extractiva, integrando os serviços enumerados nas respectivas al�
 
 #### SECÇÃO III — (Serviços)
 
-###### Art. 5.º - 1 - A Direcção de Serviços de Estudos, Planeamento e Estatística é um serviço de estudo, planeamento e tratamento de dados estatísticos respeitantes à indústria extractiva.
+Art. 5.º - 1 - A Direcção de Serviços de Estudos, Planeamento e Estatística é um serviço de estudo, planeamento e tratamento de dados estatísticos respeitantes à indústria extractiva.
 
 2 - A Direcção de Serviços de Estudos, Planeamento e Estatística compreende as seguintes divisões:
 
@@ -260,7 +323,7 @@ j) Acompanhar a evolução do direito e prestar apoio jurídico;
 
 l) Colaborar na elaboração da legislação respeitante à actividade do sector.
 
-###### Art. 6.º À Direcção de Serviços de Administração Industrial incumbe:
+Art. 6.º À Direcção de Serviços de Administração Industrial incumbe:
 
 a) Proceder à análise dos actos de administração industrial;
 
@@ -276,7 +339,7 @@ f) Conduzir o processo de negociação e outorga dos contratos de exclusivo de p
 
 g) Colaborar nas acções de dinamização da exportação respeitante ao sector.
 
-###### Art. 7.º À Divisão de Informação e Relações Públicas incumbe:
+Art. 7.º À Divisão de Informação e Relações Públicas incumbe:
 
 a) Organizar a informação relativa ao sector com interesse para a indústria e fomentar a sua utilização e difusão;
 
@@ -284,7 +347,7 @@ b) Promover a edição de publicações;
 
 c) Receber e encaminhar os utentes para os serviços competentes.
 
-###### Art. 8.º - 1 - O Laboratório é um serviço de investigação e de apoio aos sectores geológico e mineiro, ao qual incumbe, em especial:
+Art. 8.º - 1 - O Laboratório é um serviço de investigação e de apoio aos sectores geológico e mineiro, ao qual incumbe, em especial:
 
 a) Promover e realizar a investigação aplicada nos vários domínios que lhe digam respeito, nomeadamente da mineralogia, petrografia, sedimentologia, geoquímica, técnicas analíticas físicas e químicas, ensaios tecnológicos de matérias-primas e preparação de minérios;
 
@@ -296,13 +359,13 @@ d) Realizar os estudos relacionados com o controle do ambiente e da segurança d
 
 2 - O Laboratório é dirigido por um investigador ou técnico superior, a designar de entre os investigadores ou técnicos superiores de maior categoria, por despacho do ministro, sob proposta do director-geral.
 
-###### Art. 9.º - 1 - O Museu Geológico é um serviço de apoio, ao qual incumbe genericamente a conservação, actualização e enriquecimento das peças que constituem o seu património com o objectivo de permitir o apoio permanente e indispensável à investigação do sector geológico e, ainda, de servir fins didácticos.
+Art. 9.º - 1 - O Museu Geológico é um serviço de apoio, ao qual incumbe genericamente a conservação, actualização e enriquecimento das peças que constituem o seu património com o objectivo de permitir o apoio permanente e indispensável à investigação do sector geológico e, ainda, de servir fins didácticos.
 
 2 - O Museu Geológico integra-se na área dos Serviços Geológicos de Portugal.
 
 3 - A responsabilidade pelo Museu Geológico será atribuída a um técnico superior, a designar pelo director-geral.
 
-###### Art. 10.º - 1 - A Direcção de Serviços de Gestão é um serviço que tem por missão essencialmente apoiar a gestão e promover a optimização dos meios necessários à prossecução dos objectivos da DGGM, em articulação com a Secretaria-Geral do Ministério da Indústria, Energia e Exportação.
+Art. 10.º - 1 - A Direcção de Serviços de Gestão é um serviço que tem por missão essencialmente apoiar a gestão e promover a optimização dos meios necessários à prossecução dos objectivos da DGGM, em articulação com a Secretaria-Geral do Ministério da Indústria, Energia e Exportação.
 
 2 - A Direcção de Serviços de Gestão compreende:
 
@@ -356,7 +419,7 @@ g) Assegurar as compras globais, visando a correcta gestão dos recursos materia
 
 6 - Cada repartição compreende 2 secções.
 
-###### Art. 11.º A Direcção de Serviços de Cartografia Geológica é um serviço que tem por missão promover e realizar a investigação conducente ao conhecimento da geologia do País, à qual incumbe, em especial:
+Art. 11.º A Direcção de Serviços de Cartografia Geológica é um serviço que tem por missão promover e realizar a investigação conducente ao conhecimento da geologia do País, à qual incumbe, em especial:
 
 a) Elaborar e publicar as cartas geológicas sistemáticas da área emersa do País;
 
@@ -368,7 +431,7 @@ d) Aplicar e desenvolver métodos de estatística matemática aplicada às geoci
 
 e) Apreciar e dar parecer sobre questões que envolvam o conhecimento geológico do País e, quando tal se revelar conveniente, acompanhar os respectivos trabalhos.
 
-###### Art. 12.º A Direcção de Serviços de Geologia Aplicada é um serviço que tem por missão promover e realizar a investigação conducente ao conhecimento hidrogeológico do País, bem como ao conhecimento geológico da área submersa sob jurisdição nacional, à qual incumbe, em especial:
+Art. 12.º A Direcção de Serviços de Geologia Aplicada é um serviço que tem por missão promover e realizar a investigação conducente ao conhecimento hidrogeológico do País, bem como ao conhecimento geológico da área submersa sob jurisdição nacional, à qual incumbe, em especial:
 
 a) Elaborar e publicar a cartografia geológica da área submersa sob jurisdição nacional;
 
@@ -382,7 +445,7 @@ e) Apreciar e dar pareceres sobre questões que envolvam conhecimento hidrogeol�
 
 f) Promover e realizar a inventariação e arquivo de documentação e amostragem geológicas de subsuperfície proveniente dos trabalhos realizados por organismos oficiais ou privados no âmbito do [Decreto-Lei n.º 39666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39666-1954-635399), de 20 de Maio de 1954, e das disposições dos contratos de prospecção e pesquisa de natureza geológica.
 
-###### Art. 13.º - 1 - A Direcção de Serviços de Prospecção é um serviço que tem por missão a execução de acções de inventariação que conduzam ao conhecimento e valorização dos recursos minerais úteis existentes no País susceptíveis de aproveitamento económico e o acompanhamento técnico dos trabalhos de prospecção nas áreas atribuídas a empresas e à qual incumbe, em especial:
+Art. 13.º - 1 - A Direcção de Serviços de Prospecção é um serviço que tem por missão a execução de acções de inventariação que conduzam ao conhecimento e valorização dos recursos minerais úteis existentes no País susceptíveis de aproveitamento económico e o acompanhamento técnico dos trabalhos de prospecção nas áreas atribuídas a empresas e à qual incumbe, em especial:
 
 a) Executar trabalhos de prospecção conducentes à descoberta de novas jazidas de matérias-primas minerais;
 
@@ -412,7 +475,7 @@ a) Definir áreas geologicamente favoráveis à ocorrência de minerais de urân
 
 b) Efectuar a prospecção sistemática de mineralizações de urânio e de outros minerais radioactivos, com vista ao adequado conhecimento e valorização das suas jazidas.
 
-###### Art. 14.º A Direcção de Serviços de Avaliação é um serviço que tem por missão executar os trabalhos de pesquisa necessários a uma avaliação preliminar das jazidas minerais evidenciadas na fase de inventariação geral, à qual incumbe, em especial:
+Art. 14.º A Direcção de Serviços de Avaliação é um serviço que tem por missão executar os trabalhos de pesquisa necessários a uma avaliação preliminar das jazidas minerais evidenciadas na fase de inventariação geral, à qual incumbe, em especial:
 
 a) Planear e desenvolver trabalhos de pesquisa tendo em vista a qualificação preliminar de reservas minerais, quando tal se justifique, na sequência dos trabalhos de prospecção;
 
@@ -420,7 +483,7 @@ b) Proceder à avaliação de reservas de jazidas minerais com base nos resultad
 
 c) Dar parecer sobre cálculos de reservas elaborados por entidades estranhas à DGGM, sempre que superiormente determinado.
 
-###### Art. 15.º A Direcção de Serviços de Minas e Pedreiras é um serviço que tem por missão prestar assistência técnica às empresas, analisando e promovendo a melhoria dos métodos de exploração e tratamento, ao qual incumbe, em especial:
+Art. 15.º A Direcção de Serviços de Minas e Pedreiras é um serviço que tem por missão prestar assistência técnica às empresas, analisando e promovendo a melhoria dos métodos de exploração e tratamento, ao qual incumbe, em especial:
 
 a) Acompanhar a aplicação dos acordos com empresas estrangeiras no que se refere à transferência de tecnologia;
 
@@ -442,7 +505,7 @@ i) Colaborar com as entidades competentes em estudos relativos à elaboração d
 
 j) Colaborar no ordenamento do território e preservação do meio ambiente, particularmente através das direcções dos serviços regionais.
 
-###### Art. 16.º À Direcção de Serviços de Águas Minerais e de Mesa incumbe:
+Art. 16.º À Direcção de Serviços de Águas Minerais e de Mesa incumbe:
 
 a) Colaborar no planeamento de acções relativas ao aproveitamento das águas minerais e de mesa;
 
@@ -460,13 +523,13 @@ g) Acompanhar os trabalhos de captação de água executados em áreas concessio
 
 h) Propor as medidas tendentes à preservação da qualidade das águas minerais e definir zonas de protecção dos respectivos aquíferos.
 
-###### Art. 17.º À Divisão de Sondagens incumbe:
+Art. 17.º À Divisão de Sondagens incumbe:
 
 a) Informar projectos de sondagens sob o ponto de vista da sua execução;
 
 b) Executar programas de sondagens em conformidade com projectos aprovados e segundo as prioridades estabelecidas.
 
-###### Art. 18.º À Divisão de Geofísica incumbe:
+Art. 18.º À Divisão de Geofísica incumbe:
 
 a) Desenvolver e aplicar métodos de prospecção geofísica para detecção de zonas anómalas potencialmente favoráveis à existência de recursos minerais;
 
@@ -474,7 +537,7 @@ b) Executar programas de geofísica em conformidade com projectos aprovados e se
 
 c) Acompanhar e dar parecer sobre trabalhos realizados por empresas na área da sua competência.
 
-###### Art. 19.º - 1 - As atribuições da DGGM, no âmbito da indústria extractiva, são prosseguidas, a nível regional e enquanto não transitarem para as delegações regionais do ministério, por direcções de serviços regionais dirigidas por directores de serviços, na dependência do director-geral de Geologia e Minas.
+Art. 19.º - 1 - As atribuições da DGGM, no âmbito da indústria extractiva, são prosseguidas, a nível regional e enquanto não transitarem para as delegações regionais do ministério, por direcções de serviços regionais dirigidas por directores de serviços, na dependência do director-geral de Geologia e Minas.
 
 2 - Incumbe, em especial, às direcções de serviço regionais:
 
@@ -506,17 +569,17 @@ l) Manter actualizados o registo e o cadastro relativos às unidades industriais
 
 ### CAPÍTULO III — Funcionamento
 
-###### Art. 20.º - 1 - Sempre que a natureza dos objectivos a prosseguir o aconselhe, a actividade da DGGM desenvolver-se-á por equipas de projectos.
+Art. 20.º - 1 - Sempre que a natureza dos objectivos a prosseguir o aconselhe, a actividade da DGGM desenvolver-se-á por equipas de projectos.
 
 2 - Os chefes das equipas de projectos são designados por despacho do director-geral, sob proposta dos responsáveis pelas áreas respectivas.
 
 3 - No que respeita à execução das tarefas referidas no número anterior, os técnicos designados actuarão na dependência funcional do chefe de equipa.
 
-###### Art. 21.º - 1 - A DGGM poderá prestar serviços, no âmbito das suas atribuições, a solicitação de entidades públicas e privadas.
+Art. 21.º - 1 - A DGGM poderá prestar serviços, no âmbito das suas atribuições, a solicitação de entidades públicas e privadas.
 
 2 - Quando aquela prestação vise a realização de estudos, serão estes orçamentados, podendo o seu custo ser suportado pelas entidades interessadas, ficando as respectivas receitas sujeitas ao regime dos Decretos-Leis n.os [509/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/509-1980-462810), de 21 de Outubro, [459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro, e [41/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1983-308359), de 25 de Janeiro.
 
-###### Art. 22.º No desempenho das suas atribuições, para além da colaboração que deve estabelecer com todos os serviços do ministério, a DGGM deverá, em especial:
+Art. 22.º No desempenho das suas atribuições, para além da colaboração que deve estabelecer com todos os serviços do ministério, a DGGM deverá, em especial:
 
 a) Articular a sua acção com outras entidades públicas ou privadas, nacionais ou estrangeiras, promovendo as ligações, acordos e associações que se revelem de utilidade para o exercício das suas funções;
 
@@ -528,13 +591,13 @@ d) Promover e incentivar trocas de conhecimento nos domínios da sua actividade 
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 23.º - 1 - O quadro de pessoal da DGGM é o constante do mapa anexo a este diploma.
+Art. 23.º - 1 - O quadro de pessoal da DGGM é o constante do mapa anexo a este diploma.
 
 2 - O quadro de pessoal referido no número anterior poderá ser alterado por portaria conjunta dos Ministros das Finanças e do Plano, da Indústria, Energia e Exportação e da Reforma Administrativa, de harmonia com o disposto na lei geral.
 
 3 - O contingente de pessoal de chefia, administrativo e auxiliar dos quadros únicos do ministério a atribuir à DGGM constará de despacho do ministro, a publicar no Diário da República.
 
-###### Art. 24.º - 1 - O regime de pessoal dos quadros da DGGM constará de diploma comum aos serviços do ministério.
+Art. 24.º - 1 - O regime de pessoal dos quadros da DGGM constará de diploma comum aos serviços do ministério.
 
 2 - Até à publicação do diploma referido no número anterior aplicar-se-á o disposto no capítulo VI do [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro, sem prejuízo da legislação geral da função pública posterior àquele diploma.
 
@@ -542,7 +605,7 @@ d) Promover e incentivar trocas de conhecimento nos domínios da sua actividade 
 
 4 - Os investigadores que forem nomeados para lugares de direcção na DGGM poderão optar pela remuneração dos lugares de origem.
 
-###### Art. 25.º - 1 - Os funcionários da DGGM, com excepção do pessoal da carreira de investigação, poderão ser abonados de prémios de produtividade em função do trabalho desenvolvido.
+Art. 25.º - 1 - Os funcionários da DGGM, com excepção do pessoal da carreira de investigação, poderão ser abonados de prémios de produtividade em função do trabalho desenvolvido.
 
 2 - Os prémios de produtividade têm natureza individual e a sua atribuição é sempre precedida de avaliação, caso a caso, a partir de critérios objectivos em que se atenda ao volume e qualidade do trabalho produzido e à redução de custos e de prazos do trabalho executado.
 
@@ -550,7 +613,7 @@ d) Promover e incentivar trocas de conhecimento nos domínios da sua actividade 
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 26.º - 1 - O pessoal integrado em carreiras dos actuais quadros da DGGM, bem como o pessoal do quadro geral de adidos que ali presta serviço, transita para os lugares dos quadros constantes do mapa anexo a este diploma, nos termos das regras seguintes:
+Art. 26.º - 1 - O pessoal integrado em carreiras dos actuais quadros da DGGM, bem como o pessoal do quadro geral de adidos que ali presta serviço, transita para os lugares dos quadros constantes do mapa anexo a este diploma, nos termos das regras seguintes:
 
 a) Para categoria idêntica à que o funcionário já possui;
 
@@ -564,38 +627,38 @@ c) Para categoria correspondente às funções que o funcionário actualmente de
 
 4 - A integração a que se refere o presente artigo far-se-á nos termos do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 21 de Maio.
 
-###### Art. 27.º - 1 - O primeiro provimento nos lugares de investigador e de assistente de investigação será feito de entre técnicos superiores, licenciados, da DGGM que venham desempenhando funções de natureza idêntica à do lugar a prover, com a mesma letra de vencimento ou imediatamente inferior na falta de coincidência ou sendo insuficiente o número daqueles outros candidatos, desde que, neste caso, possuam o número de anos de serviço necessário para acesso na carreira de investigação.
+Art. 27.º - 1 - O primeiro provimento nos lugares de investigador e de assistente de investigação será feito de entre técnicos superiores, licenciados, da DGGM que venham desempenhando funções de natureza idêntica à do lugar a prover, com a mesma letra de vencimento ou imediatamente inferior na falta de coincidência ou sendo insuficiente o número daqueles outros candidatos, desde que, neste caso, possuam o número de anos de serviço necessário para acesso na carreira de investigação.
 
 2 - O provimento previsto no número anterior será feito, precedendo análise curricular, a efectivar por júri nomeado para o efeito pelo ministro, o qual terá em conta, nomeadamente, a qualidade dos trabalhos científicos e tecnológicos realizados, o tempo de serviço em actividades de investigação, desenvolvimento experimental, de demonstração e de desenvolvimento de actividades de organização e gestão científica e tecnológica.
 
 3 - Os técnicos superiores de provimento definitivo que sejam providos na carreira de investigação mantêm a sua actual forma de provimento.
 
-###### Art. 28.º Mantém-se a validade dos concursos abertos até à entrada em vigor do [Decreto-Lei n.º 171/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1982-392864), de 10 de Maio, podendo os funcionários neles aprovados ser providos no novo quadro, desde que haja vagas e dentro do prazo de validade dos mesmos concursos.
+Art. 28.º Mantém-se a validade dos concursos abertos até à entrada em vigor do [Decreto-Lei n.º 171/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1982-392864), de 10 de Maio, podendo os funcionários neles aprovados ser providos no novo quadro, desde que haja vagas e dentro do prazo de validade dos mesmos concursos.
 
-###### Art. 29.º O lugar de director de serviços do Laboratório e os de chefe de divisão que desempenham funções inseridas no âmbito das Direcções de Serviços de Cartografia e de Geologia Aplicada e do Laboratório só se extinguirão à medida que forem sendo preenchidos os lugares de investigador nas respectivas áreas funcionais ou, em alternativa, no caso do n.º 2 do artigo 8.º, se se verificar a atribuição daquela responsabilidade a um técnico superior.
+Art. 29.º O lugar de director de serviços do Laboratório e os de chefe de divisão que desempenham funções inseridas no âmbito das Direcções de Serviços de Cartografia e de Geologia Aplicada e do Laboratório só se extinguirão à medida que forem sendo preenchidos os lugares de investigador nas respectivas áreas funcionais ou, em alternativa, no caso do n.º 2 do artigo 8.º, se se verificar a atribuição daquela responsabilidade a um técnico superior.
 
-###### Art. 30.º A reestruturação visada através do presente diploma deverá ficar implementada no prazo de 2 meses a contar da publicação do presente diploma.
+Art. 30.º A reestruturação visada através do presente diploma deverá ficar implementada no prazo de 2 meses a contar da publicação do presente diploma.
 
-###### Art. 31.º - 1 - O activo e passivo dos serviços da Direcção-Geral de Minas e Serviços Geológicos e dos serviços da Junta de Energia Nuclear integrados na DGGM, bem como quaisquer obrigações, valores e direitos de carácter laboral ou patrimonial, incluindo os emergentes de contratos de arrendamento, transitam para a DGGM.
+Art. 31.º - 1 - O activo e passivo dos serviços da Direcção-Geral de Minas e Serviços Geológicos e dos serviços da Junta de Energia Nuclear integrados na DGGM, bem como quaisquer obrigações, valores e direitos de carácter laboral ou patrimonial, incluindo os emergentes de contratos de arrendamento, transitam para a DGGM.
 
 2 - As obrigações de carácter laboral, nomeadamente as resultantes de incapacidade parcial, provenientes de acidentes em serviço ou doenças profissionais do pessoal da antiga Direcção-Geral de Serviços de Prospecção e Exploração Mineira da Junta de Energia Nuclear que tenha transitado para a Empresa Nacional de Urânio, E. P., constituem encargo desta empresa pública.
 
-###### Art. 32.º Considera-se alterada, em conformidade com o presente diploma, a lista a que se refere o n.º 1 do artigo 1.º do [Decreto Regulamentar n.º 1/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1981-570328), de 20 de Fevereiro.
+Art. 32.º Considera-se alterada, em conformidade com o presente diploma, a lista a que se refere o n.º 1 do artigo 1.º do [Decreto Regulamentar n.º 1/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1981-570328), de 20 de Fevereiro.
 
-###### Art. 33.º As funções de natureza executiva, de inspecção e de controle local, no âmbito do sector, serão transferidas para as delegações regionais logo que a respectiva estrutura desconcentrada esteja implementada.
+Art. 33.º As funções de natureza executiva, de inspecção e de controle local, no âmbito do sector, serão transferidas para as delegações regionais logo que a respectiva estrutura desconcentrada esteja implementada.
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - Ricardo Manuel Simões Bayão Horta - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 11 de Maio de 1983.**
+Promulgado em 11 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 13 de Maio de 1983.**
+Referendado em 13 de Maio de 1983.
 
 Pelo Primeiro-Ministro, Gonçalo Pereira Ribeiro Teles, Ministro de Estado e da Qualidade de Vida.
 
 Quadro de pessoal a que se refere o n.º 1 do Decreto Regulamentar n.º 46/83
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/13100/20702078.pdf))](https://files.diariodarepublica.pt/1s/1983/06/13100/20702078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/13100/20702078.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/07/13400/0000200011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/94/2019/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2019-123183036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 223fef783ae89a6f2f2c0d65fe816ac6a50b14d45185dfe61394749afedcd1e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95971b0f7d6eb86fb8d08e3a21e895b2a8960cdce4ad0bf9f5efb7044b18e58b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato
-- Renovação Urbana
-- Domínio Privado do Estado
-- Propriedade do Estado
-- Empresa Pública
 - Administração Pública
+- Arrendamento Urbano para Habitação
 - BENS Imóveis do Estado
+- Contrato
+- Domínio Privado do Estado
+- Empresa Pública
+- Fundo Nacional de Reabilitação do Edificado
 - Gestão do Património
 - Instituto da Habitação e da Reabilitação Urbana
 - Património do Estado
 - Política de Habitação
-- Renda de CASA
 - Prédio Urbano
-- Arrendamento Urbano para Habitação
-- Fundo Nacional de Reabilitação do Edificado
 - Programa de Arrendamento Acessível
+- Propriedade do Estado
+- Renda de CASA
+- Renovação Urbana
 relationships:
 - type: cites
   target: celex:32014L0024
@@ -121,13 +121,13 @@ relationships:
 article_structure:
   article_count: 21
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:04Z'
   warnings: []
   errors: []
 ---
@@ -324,27 +324,27 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de julho de 2019. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - João Alberto Sobrinho Teixeira - Pedro Nuno de Oliveira Santos.
 
-**Promulgado em 10 de julho de 2019.**
+Promulgado em 10 de julho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de julho de 2019.**
+Referendado em 10 de julho de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se referem o n.º 1 do artigo 3.º e o n.º 1 do artigo 6.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/07/13400/0000200011.pdf))](https://files.diariodarepublica.pt/1s/2019/07/13400/0000200011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/07/13400/0000200011.pdf)
 
 ## ANEXO II — (a que se referem o n.º 2 do artigo 3.º e o n.º 1 do artigo 8.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/07/13400/0000200011.pdf))](https://files.diariodarepublica.pt/1s/2019/07/13400/0000200011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/07/13400/0000200011.pdf)
 
 ## ANEXO III — (a que se referem o n.º 1 do artigo 12.º e o artigo 16.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/07/13400/0000200011.pdf))](https://files.diariodarepublica.pt/1s/2019/07/13400/0000200011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/07/13400/0000200011.pdf)
 
 ## ANEXO IV — (a que se refere o artigo 18.º)
 
@@ -352,4 +352,6 @@ Visto e aprovado em Conselho de Ministros de 4 de julho de 2019. - António Luí
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/07/13400/0000200011.pdf))](https://files.diariodarepublica.pt/1s/2019/07/13400/0000200011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/07/13400/0000200011.pdf)
+
+112444568

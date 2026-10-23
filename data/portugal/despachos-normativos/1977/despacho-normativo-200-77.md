@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/200-1977-276871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:37:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8e43a6148e44de55f9d9e225052edcebbf207a415c5c4803c7bdd769b4bfc7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c50f5f4da5bfc88bce283c1332492dd297d8e53715d102bca7e62a17445434a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:37:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Campanha Vinícola
+- Fixação de Preços
+- Junta Nacional dos Vinhos
+- Preço
+- Região Demarcada do DÃO
+- Região Demarcada dos Vinhos Verdes
+- Vinho
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:37:53Z'
   warnings: []
   errors: []
 ---
@@ -111,13 +118,13 @@ TABELA II
 
 Intervenção por compra de vinhos na área da Região Demarcada dos Vinhos Verdes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/10/24000/25062507.pdf))](https://files.diariodarepublica.pt/1s/1977/10/24000/25062507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/24000/25062507.pdf)
 
 TABELA I
 
 Intervenção por compra de vinhos na área da Junta Nacional do Vinho e Região Demarcada do Dão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/10/24000/25062507.pdf))](https://files.diariodarepublica.pt/1s/1977/10/24000/25062507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/24000/25062507.pdf)
 
 Notas:
 
@@ -131,4 +138,4 @@ Notas:
 
 5 - Os vinhos típicos regionais e os outros vinhos excepcionalmente admitidos nessas categorias nos termos da nota 3 serão valorizados até ao teor alcoólico volumétrico máximo de 13%.
 
-**O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.**
+O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.

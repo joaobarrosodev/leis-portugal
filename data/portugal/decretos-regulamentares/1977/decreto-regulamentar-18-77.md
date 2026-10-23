@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1977-140353
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T05:56:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bb3df2a2ce48337ab8ed0210ce3634bec7a13d71f087a4fd39ca17bc207bfb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3629ff47a662fa07a88a7504b061e1b03102378e9eeb586eebee57ef4114a597
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:56:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Carreira Profissional
+- Criação de Lugares
+- Extinção de Lugares
+- Ministério dos Assuntos Sociais
+- Pessoal Técnico Auxiliar Sanitário
+- Progressão na Carreira
+- Quadro de Pessoal
+- Qualificação Profissional
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:56:28Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +121,9 @@ Ao abrigo do artigo 1.º, n.º 1, do [Decreto-Lei n.º 59/76](https://diariodare
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 38.º e o n.º 15 do artigo 39.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º O artigo 38.º e o n.º 15 do artigo 39.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 38.º - 1. O ingresso na carreira de técnicos auxiliares sanitários faz-se por concurso documental pelo grau 1, para os indivíduos habilitados com o curso geral dos liceus ou equivalente e o curso de técnicos auxiliares sanitários.
+Art. 38.º - 1. O ingresso na carreira de técnicos auxiliares sanitários faz-se por concurso documental pelo grau 1, para os indivíduos habilitados com o curso geral dos liceus ou equivalente e o curso de técnicos auxiliares sanitários.
 
 2. O acesso far-se-á, quanto a cada grau, por selecção dos profissionais de grau imediatamente inferior e de acordo com o seguinte:
 
@@ -115,39 +137,39 @@ d) Do grau 4 ao grau 5, por concurso com prestação de provas de aptidão profi
 
 3. Quando não haja candidatos do grau 2 em número suficiente para preenchimento das vagas correspondentes ao grau 3, poderão ser admitidos em lugares deste grau, por concurso documental, os indivíduos que possuam a habilitação mínima do curso complementar dos liceus ou equivalente e hajam sido aprovados no curso de técnicos auxiliares sanitários.
 
-###### Art. 39.º ...
+Art. 39.º ...
 
 ...
 
 15. O curso de técnicos auxiliares sanitários referido nos n.os 1 e 3 do artigo anterior é professado no Instituto Nacional de Saúde.
 
-###### Art. 2.º É revogado o n.º 16 do artigo 39.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), passando o n.º 17 a ocupar aquela posição numérica.
+Art. 2.º É revogado o n.º 16 do artigo 39.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), passando o n.º 17 a ocupar aquela posição numérica.
 
-###### Art. 3.º O n.º VII do mapa II anexo ao [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740) é substituído pelo mapa anexo ao presente diploma.
+Art. 3.º O n.º VII do mapa II anexo ao [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740) é substituído pelo mapa anexo ao presente diploma.
 
-###### Art. 4.º - 1. São abatidos ao quadro x «Serviços locais - tabela B» anexo ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, os encargos constantes do quadro I anexo ao presente diploma.
+Art. 4.º - 1. São abatidos ao quadro x «Serviços locais - tabela B» anexo ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, os encargos constantes do quadro I anexo ao presente diploma.
 
 2. São acrescidas àquele mesmo quadro - tabela B - as categorias de técnicos auxiliares sanitários principais, de 1.ª e 2.ª classes e alterados o número de lugares e os vencimentos das categorias de agentes sanitários de 1.ª e 2.ª classes pela forma constante do quadro II anexo ao presente diploma.
 
-###### Art. 5.º - 1. Os actuais agentes sanitários de 1.ª e 2.ª classes mantêm as suas categorias no quadro, porém sem prejuízo do direito ao abono das remunerações que, nos termos deste diploma, às respectivas classes possam competir.
+Art. 5.º - 1. Os actuais agentes sanitários de 1.ª e 2.ª classes mantêm as suas categorias no quadro, porém sem prejuízo do direito ao abono das remunerações que, nos termos deste diploma, às respectivas classes possam competir.
 
 2. Os actuais fiscais sanitários passam à categoria de técnicos auxiliares sanitários de 2.ª classe.
 
 3. O acesso na carreira de técnicos auxiliares dos funcionários referidos nos números anteriores obedecerá ao disposto no artigo 38.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, com a redacção que lhe é dada por este diploma.
 
-###### Art. 6.º Os encargos decorrentes das alterações referidas nos artigos anteriores serão cobertos, no ano em curso, por conta da verba atribuída aos vencimentos do pessoal do quadro dos serviços locais.
+Art. 6.º Os encargos decorrentes das alterações referidas nos artigos anteriores serão cobertos, no ano em curso, por conta da verba atribuída aos vencimentos do pessoal do quadro dos serviços locais.
 
-###### Art. 7.º A transição dos actuais funcionários para o novo quadro far-se-á por lista nominativa aprovada pelo Ministro dos Assuntos Sociais e publicada no Diário da República, independentemente de outras formalidades, salvo o visto do Tribunal de Contas.
+Art. 7.º A transição dos actuais funcionários para o novo quadro far-se-á por lista nominativa aprovada pelo Ministro dos Assuntos Sociais e publicada no Diário da República, independentemente de outras formalidades, salvo o visto do Tribunal de Contas.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira - Armando Bacelar.
 
-**Promulgado em 21 de Fevereiro de 1977.**
+Promulgado em 21 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05500/03890390.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05500/03890390.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05500/03890390.pdf)
 
 QUADRO I
 
@@ -157,7 +179,7 @@ QUADRO X
 
 Serviços locais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05500/03890390.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05500/03890390.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05500/03890390.pdf)
 
 QUADRO II
 
@@ -167,6 +189,6 @@ QUADRO X
 
 Serviços locais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05500/03890390.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05500/03890390.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05500/03890390.pdf)
 
-**O Ministro de Estado, Henrique Teixeira Queirós de Barros. - O Ministro sem pasta, Joaquim Jorge de Pinho Campinos. - O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro dos Assuntos Sociais, Armando Bacelar.**
+O Ministro de Estado, Henrique Teixeira Queirós de Barros. - O Ministro sem pasta, Joaquim Jorge de Pinho Campinos. - O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro dos Assuntos Sociais, Armando Bacelar.

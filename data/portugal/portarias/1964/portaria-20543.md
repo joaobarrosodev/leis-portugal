@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20543-1964-582781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e212a6f45aa304ce095306a7c010a35e19391b941a13a9909572730b8532f8cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd00246622c83bcf0dc5eb92f0b295f3f8f30933f93f2be4762db86d76ac3e66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:582798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598125:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:17Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +94,7 @@ A publicação do [Decreto-Lei n.º 45691](https://diariodarepublica.pt/dr/detal
 
 Por outro lado, a cotação internacional das ramas - a cuja importação se terá de recorrer largamente durante os dois próximos anos sacarinos, em virtude de um inesperado desajustamento entre a oferta e a procura nacionais de açúcares que só se prevê venha a ser dominado a partir do ano cultural de 1966-1967 - tem vindo a registar nos últimos tempos, tanto por causas económicas como por razões políticas, um sensível aumento que a elevou a níveis nunca alcançados, como se pode verificar pelo seguinte quadro de valores mensais (libras por tonelada métrica F. O. B.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/04/10200/06000602.pdf))](https://files.diariodarepublica.pt/1s/1964/04/10200/06000602.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/04/10200/06000602.pdf)
 
 Da conjugação deste conjunto de factores resulta que, durante o ano sacarino que começa no próximo dia 1 de Maio, o País terá provàvelmente de despender mais 200000 contos do que em condições idênticas às dos anos anteriores.
 

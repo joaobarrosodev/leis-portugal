@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/203b00/51565164.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/43/1994/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1994-658436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d5e0f2e6f67a7d447158be022e202fbaa994787e0e189d320ef4fea53ce280a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdf686595615f2aa07939506ade41deb1636080f5e97782ecab07cee92ccddc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
+- Definição de Competências
 - Estado Maior do Exército
 - Exército
-- Definição de Competências
 - Orgânica
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:635825:por
@@ -79,16 +79,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/50/1993/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/50/1993/02/26/p/dre
+- type: cites
+  target: pt:dre:657445:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:635825:por
+  label: "Revogado pelo DR.72/2007.29.06.2007.MDN, DR.IS [124] de 29.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/72-2007-635825
+  date: '2007-06-29'
 article_structure:
   article_count: 15
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:07Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +176,9 @@ e) A Divisão de Planeamento e Programação;
 
 f) A Divisão de Instrução.
 
-###### Artigo 5.º — Divisão de Pessoal
+###### Artigo 5.º
+
+##### Divisão de Pessoal
 
 1 - À Divisão de Pessoal compete estudar, planear e coordenar o programa de actividades de recrutamento e administração de pessoal militar e civil necessário ao Exército e difundir as normas, os planos e as directivas que orientem e determinem as acções a realizar no âmbito das suas áreas de responsabilidade, cabendo-lhe em especial:
 
@@ -229,7 +240,9 @@ e) A Repartição de Justiça e Disciplina, Moral e Bem-Estar, à qual incumbe e
 
 f) A Secretaria, à qual incumbe prestar apoio administrativo à Divisão.
 
-###### Artigo 6.º — Divisão de Informações Militares
+###### Artigo 6.º
+
+##### Divisão de Informações Militares
 
 1 - À Divisão de Informações Militares compete estudar, planear, organizar e coordenar as actividades de informações e contra-informação militares, no âmbito do Exército, e difundir as normas técnicas, os planos e as directivas que orientem e determinem as acções a realizar no âmbito das suas áreas de responsabilidade, cabendo-lhe em especial:
 
@@ -275,7 +288,9 @@ f) A Secretaria, à qual incumbe prestar apoio administrativo à Divisão.
 
 3 - A Divisão de Informações Militares tem na sua dependência técnica o Batalhão de Informações e Segurança Militar e outros órgãos do Exército do Serviço de Informações Militares, regulado por diploma próprio.
 
-###### Artigo 7.º — Divisão de Operações
+###### Artigo 7.º
+
+##### Divisão de Operações
 
 1 - À Divisão de Operações compete estudar e efectuar o planeamento global das actividades referentes ao emprego da componente operacional do Exército, da estrutura organizacional e das diferentes actividades relacionadas com a cooperação militar e difundir as normas, os planos e as directivas que orientem e determinem as acções a realizar no âmbito das suas áreas de responsabilidade, cabendo-lhe em especial:
 
@@ -339,7 +354,9 @@ e) A Repartição de Cooperação Militar e Alianças, à qual incumbe exercer, 
 
 f) A Secretaria, à qual incumbe prestar apoio administrativo à Divisão.
 
-###### Artigo 8.º — Divisão de Logística
+###### Artigo 8.º
+
+##### Divisão de Logística
 
 1 - À Divisão de Logística compete elaborar os estudos respeitantes às diferentes funções logísticas e difundir as normas, os planos e as directivas que orientem e determinem as acções a realizar no âmbito das suas áreas de responsabilidade, cabendo-lhe em especial:
 
@@ -383,7 +400,9 @@ d) A Repartição de Cooperação Militar e Alianças, à qual incumbe exercer a
 
 e) A Secretaria, à qual incumbe prestar apoio administrativo à Divisão.
 
-###### Artigo 9.º — Divisão de Planeamento e Programação
+###### Artigo 9.º
+
+##### Divisão de Planeamento e Programação
 
 1 - À Divisão de Planeamento e Programação compete elaborar estudos referentes às actividades de planeamento e programação global do Exécito, à investigação e desenvolvimento, à estatística e à área financeira e difundir as respectivas normas, planos e directivas que orientem e determinem as acções a realizar no âmbito das suas áreas de responsabilidade, cabendo-lhe em especial:
 
@@ -439,7 +458,9 @@ e) A Repartição de Investigação, Desenvolvimento e Estatística, à qual inc
 
 f) A Secretaria, à qual incumbe prestar apoio administrativo à Divisão e exercer a competência referida na alínea t) do número anterior.
 
-###### Artigo 10.º — Divisão de Instrução
+###### Artigo 10.º
+
+##### Divisão de Instrução
 
 1 - À Divisão de Instrução compete elaborar estudos referentes às actividades de instrução do Exército e elaborar e difundir as normas, os planos e as directivas do general CEME que orientem e determinem as acções a desenvolver no âmbito das suas áreas de responsabilidade, cabendo-lhe em especial:
 
@@ -613,12 +634,12 @@ Presidência do Conselho de Ministros, 4 de Abril de 1994.
 
 Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
 
-**Promulgado em 27 de Julho de 1994.**
+Promulgado em 27 de Julho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1994.**
+Referendado em 29 de Julho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

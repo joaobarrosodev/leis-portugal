@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21124-1965-238871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03717849790610626c74a7dfb61ecb660c4d9f8521d094a6d1608bc57eb2ced9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c55d572d1c6d13e5571a504cfbe06f056f22d5effc063a7c36d0b45062eae10d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:337818:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:42Z'
   warnings: []
   errors: []
 ---
@@ -86,13 +90,13 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo do
 
 1.º No artigo 74.º do Regulamento da Escola Naval o § único passa a ter a designação de § 1.º e é acrescentado um § 2.º, com a seguinte redacção:
 
-###### Art. 74.º ...
+Art. 74.º ...
 
 § 2.º É excluído do concurso o candidato que em qualquer das provas escritas não obtenha uma valorização igual ou superior a 10 valores.
 
 2.º No artigo 76.º do referido regulamento é alterada a redacção do § 4.º e acrescentado um § 5.º, nos termos seguintes:
 
-###### Art. 76.º ...
+Art. 76.º ...
 
 § 4.º A valorização das provas físicas será estabelecida para cada candidato e para cada prova em harmonia com o quadro VII e tabela respectiva, não havendo recurso das valorizações decididas pelo júri.
 
@@ -100,9 +104,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo do
 
 3.º Os artigos 77.º e 78.º do mesmo regulamento passam a ter a seguinte redacção:
 
-###### Art. 77.º A classificação final das provas escritas e a classificação final as provas físicas são obtidas, para cada candidato, pela média aritmética, aproximada até centésimos, das valorizações das correspondentes provas escritas e provas físicas, respectivamente.
+Art. 77.º A classificação final das provas escritas e a classificação final as provas físicas são obtidas, para cada candidato, pela média aritmética, aproximada até centésimos, das valorizações das correspondentes provas escritas e provas físicas, respectivamente.
 
-###### Art. 78.º Depois de estabelecidas as classificações finais de que trata o artigo anterior, o júri mencionado no artigo 72.º procederá à classificação dos candidatos não excluídos, ordenando-os pela cota de mérito relativo resultante da média pesada dessas classificações e da classificação obtida nas habilitações exigidas para o concurso, mediante a aplicação dos seguintes coeficientes:
+Art. 78.º Depois de estabelecidas as classificações finais de que trata o artigo anterior, o júri mencionado no artigo 72.º procederá à classificação dos candidatos não excluídos, ordenando-os pela cota de mérito relativo resultante da média pesada dessas classificações e da classificação obtida nas habilitações exigidas para o concurso, mediante a aplicação dos seguintes coeficientes:
 
 Classificação das habilitações ... 4
 

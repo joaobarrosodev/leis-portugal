@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/30/2008/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2008-247722
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a60d00e37410656177e3d14c958ddf2107736f2ca9f1e4b6ba172d6b31b269c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16e67ed3fa879c14b50adabc9d6c6bdcb696cc592497b654d0c530512402406b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
 - Contrato de Locação Financeira
-- Registos e Notariado
 - Licença de Construção
 - Licença de Utilização
 - Locação Financeira
+- Modernização Administrativa
 - Propriedade Imobiliária
 - Reconhecimento Notarial
 - Regime Jurídico
+- Registos e Notariado
 - Tribunal Judicial
 relationships:
 - type: cites
@@ -94,16 +94,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/172/2007/11/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/172/2007/11/06/p/dre
+- type: cites
+  target: pt:dre:475373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661566:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:35Z'
   warnings: []
   errors: []
 ---
@@ -154,13 +170,17 @@ Os artigos 3.º, 17.º e 21.º do [Decreto-Lei n.º 149/95](https://diariodarepu
 
 5 - A locação financeira de bens imóveis ou de móveis sujeitos a registo fica sujeita a inscrição no serviço de registo competente.
 
-###### Artigo 17.º — Resolução do contrato por incumprimento e cancelamento do registo
+Artigo 17.º
+
+Resolução do contrato por incumprimento e cancelamento do registo
 
 1 - (Anterior corpo do artigo.)
 
 2 - Para o cancelamento do registo de locação financeira com fundamento na resolução do contrato por incumprimento é documento bastante a prova da comunicação da resolução à outra parte nos termos gerais.
 
-###### Artigo 21.º — Providência cautelar de entrega judicial
+Artigo 21.º
+
+Providência cautelar de entrega judicial
 
 1 - Se, findo o contrato por resolução ou pelo decurso do prazo sem ter sido exercido o direito de compra, o locatário não proceder à restituição do bem ao locador, pode este, após o pedido de cancelamento do registo da locação financeira, a efectuar por via electrónica sempre que as condições técnicas o permitam, requerer ao tribunal providência cautelar consistente na sua entrega imediata ao requerente.
 
@@ -186,12 +206,12 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Janeiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Alberto Bernardes Costa.
 
-**Promulgado em 13 de Fevereiro de 2008.**
+Promulgado em 13 de Fevereiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de Fevereiro de 2008.**
+Referendado em 15 de Fevereiro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

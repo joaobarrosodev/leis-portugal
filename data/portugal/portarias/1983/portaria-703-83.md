@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/703-1983-452517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T07:46:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec88cfff5aa62e7a9f40831b8637644ac21bc02ca5673de037f9cee57c6870f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9054636a424de5ef3d98ecf979a6dade5a25693bfe01c758602bcf40afd2ca08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:46:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação do Pessoal
+- Inspeção Geral de Finanças
+relationships:
+- type: cites
+  target: pt:dre:147386:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:435796:por
+  label: Rectificada pela DECL.DD6367.14.07.1983.PCM, DR.IS [174-3.º Supl] de 30.07.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-435796
+  date: '1983-07-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:46:47Z'
   warnings: []
   errors: []
 ---
@@ -99,31 +110,31 @@ Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finança
 
 Ministérios das Finanças e do Plano e da Reforma Administrativa.
 
-**Assinada em 23 de Abril de 1983.**
+Assinada em 23 de Abril de 1983.
 
 Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
 
 Regulamento para a Informação sobre os Serviços e os Funcionários inspeccionados, a que se referem os n.os 2 e 4 do artigo 12.º de [Decreto-Lei n.º 513-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-z-1979-147386), de 27 de Dezembro.
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Âmbito de aplicação
 
 A informação sobre o serviço dos funcionários inspeccionados a que se refere o n.º 4 do artigo 12.º do [Decreto-Lei n.º 513-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-z-1979-147386), de 27 de Dezembro, rege-se pelo presente Regulamento e aplica-se aos serviços, aos funcionários e aos agentes referidos no n.º 2 do mesmo artigo.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Objectivos
 
 A informação a que se refere o artigo 1.º obtém-se através de um sistema de notações e visa traduzir o estado do serviço e o grau do mérito dos funcionários e agentes.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Funcionários e agentes a informar
 
 A informação sobre o mérito dos funcionários ou agentes abrange apenas os que tenham o mínimo de 1 ano de funções no serviço inspeccionado, em relação ao dia do início da inspecção, não sendo contado para este efeito o tempo correspondente a regime de estágio.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Fichas de notação
 
@@ -141,13 +152,13 @@ e) Modelo n.º 5 - Destina-se a obter a informação prevista no artigo 12.º, n
 
 f) Modelo n.º 6 - Destina-se a resumir as notações e informações constantes dos modelos n.os 1 a 5 e a fornecer indicadores que, de uma forma sintética e global, traduzam a eficácia dos serviços.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Competência para informar
 
 Compete aos inspectores visitadores fazer a proposta das informações que compõem o presente sistema e ao inspector-geral de Finanças a fixação daquelas informações.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Processo de avaliação dos serviços
 
@@ -165,7 +176,7 @@ Processo de avaliação dos serviços
 
 3 - A informação global sobre o serviço visitado, a que se refere o n.º 4 do artigo 12.º do [Decreto-Lei n.º 513-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-z-1979-147386), de 27 de Dezembro, é dada na ficha de notação modelo n.º 6 e resulta da média aritmética das pontuações atribuídas aos serviços parcelares verificados e da tabela de conversão referida no n.º 2 deste artigo.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Processo de avaliação dos funcionários
 
@@ -185,13 +196,13 @@ A representa a média aritmética das pontuações obtidas na avaliação do exe
 
 B representa a média aritmética das pontuações obtidas pelo funcionário ou agente na avaliação das suas intervenções na execução de serviços parcelares.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Obrigações dos dirigentes
 
 O dirigente do serviço visitado em inspecção deverá entregar ao inspector visitador uma ficha de notação modelo n.º 5, em triplicado, relativamente a si e a cada um dos funcionários ou agentes seus subordinados referidos no artigo 3.º, preenchendo antecipadamente a I parte - Elementos biográficos do agente.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Conhecimento ao interessado
 
@@ -201,7 +212,7 @@ Conhecimento ao interessado
 
 3 - Os agentes ou funcionários informados poderão fazer, por escrito, as observações que entenderem convenientes ao conteúdo das respectivas fichas, observações essas que deverão acompanhar os pereceres referidos no n.º 1 e as fichas de notação, já datadas e assinadas.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Fixação da informação
 
@@ -209,7 +220,7 @@ Fixação da informação
 
 2 - As informações fixadas serão dadas a conhecer aos funcionários e agentes respectivos através das respectivas direcções-gerais ou das direcções distritais de finanças.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Revisão das informações
 
@@ -219,16 +230,16 @@ Revisão das informações
 
 3 - O despacho ministerial referido no n.º 2 será dado a conhecer ao agente ou funcionário interessado através das respectivas direcções-gerais ou direcções distritais de finanças.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Classificação de serviço
 
 A informação prestada nos termos deste Regulamento acerca dos funcionários e agentes referidos no artigo 3.º influenciará a classificação de serviço que lhes for atribuída pelo organismo a que pertencem, nos termos que vierem a ser estabelecidos.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Resolução de dúvidas
 
 As dúvidas na interpretação ou aplicação do presente Regulamento serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/14100/22082224.pdf))](https://files.diariodarepublica.pt/1s/1983/06/14100/22082224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14100/22082224.pdf)

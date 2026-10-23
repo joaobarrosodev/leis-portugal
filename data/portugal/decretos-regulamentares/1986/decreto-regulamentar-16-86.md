@@ -48,36 +48,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1986-227456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:12:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1f27efe20ccb1058ad40d695c2d7eb2177ac8f8c1942a54376eb54fc5104f59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a61b6547bbef0d115296de81542f2af86b27513ad996d7c2583b6314fc2e784
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:12:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Investigação Científica e Tecnológica
+- Investigador
+- Ministério da Agricultura e Pescas
+- Reestruturação de Carreiras
+relationships:
+- type: cites
+  target: pt:dre:227451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461651:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:654326:por
+  label: Rectificado pela DECL.DD4744.15.05.1986.PCM, DR.IS [124]Supl de 31.05.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-654326
+  date: '1986-05-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:12:40Z'
   warnings: []
   errors: []
 ---
@@ -98,18 +119,18 @@ De acordo com o disposto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 415/80](h
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. - 1 - O prazo máximo de seis anos constante na alínea f) do n.º 2 do artigo 28.º do [Decreto Regulamentar n.º 78/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1980-291870), de 15 de Dezembro, pode ser prorrogado por um biénio.
+Artigo único. - 1 - O prazo máximo de seis anos constante na alínea f) do n.º 2 do artigo 28.º do [Decreto Regulamentar n.º 78/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1980-291870), de 15 de Dezembro, pode ser prorrogado por um biénio.
 
 2 - A prorrogação só pode ser autorizada mediante proposta fundamentada do conselho de investigação ou órgão equivalente do respectivo serviço, baseado em relatório do chefe de departamento correspondente e desde que o especialista tenha em fase adiantada de realização o trabalho de investigação conducente à prestação das provas referidas no artigo 17.º daquele decreto regulamentar.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 14 de Abril de 1986.**
+Promulgado em 14 de Abril de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Abril de 1986.**
+Referendado em 21 de Abril de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

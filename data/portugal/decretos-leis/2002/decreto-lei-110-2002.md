@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/110/2002/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:30:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae28cebc066683c050f991387ee430065f251d13904312ba12b4ef2741774de2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d696753e69a6a8538aca52c3ea36ba4761daaaecb56b61062cc6a88026525fa7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:30:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Artesanato
 - Artesão
-- Empresa
 - Cartão de Identificação
 - Certificação Profissional
-- Artesanato
+- Empresa
 - Estatuto
 - Registo Nacional do Artesanato
 relationships:
@@ -81,16 +81,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/41/2001/02/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/41/2001/02/09/p/dre
+- type: cites
+  target: pt:dre:319952:por
+  label: null
+  source: null
 article_structure:
-  article_count: 56
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 35
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:30:57Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +133,9 @@ São alterados os artigos 1.º, 2.º, 3.º, 4.º, 6.º, 9.º, 10.º, 11.º, 13.�
 
 O presente diploma aprova o estatuto do artesão e da unidade produtiva artesanal e define o respectivo processo de reconhecimento.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 ...
 
@@ -143,17 +149,23 @@ d) ...
 
 e) Reforçar o papel das associações, bem como das federações ou outras estruturas representativas dos artesãos ou das unidades produtivas artesanais, na divulgação e promoção das artes e ofícios.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - As disposições contidas neste diploma são aplicáveis às actividades artesanais relativas à produção e preparação de bens alimentares e ao restauro de bens patrimoniais, sem prejuízo das normas específicas aplicáveis a estes sectores de actividade.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Designa-se por actividade artesanal a actividade económica, de reconhecido valor cultural e social, que assenta na produção, restauro ou reparação de bens de valor artístico ou utilitário, de raiz tradicional ou contemporânea, e na prestação de serviços de igual natureza, bem como na produção e preparação de bens alimentares.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 A fidelidade aos processos tradicionais referida no n.º 1 do artigo anterior pode ser compatibilizada com a inovação, desde que sejam respeitadas as exigências ambientais e de saúde pública e os direitos dos consumidores, nos seguintes domínios e condições:
 
@@ -163,7 +175,9 @@ b) ...
 
 c) Utilização de novas matérias-primas por razões de maior adequação ao resultado final pretendido, desde que, no caso da produção de bens de raiz tradicional, tal substituição não descaracterize o produto e não seja feita na produção e preparação de bens alimentares.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Para efeitos do presente diploma, entende-se por artesão o trabalhador que exerce uma actividade artesanal, por conta própria ou por conta de outrem, inserido em unidade produtiva artesanal reconhecida.
 
@@ -171,7 +185,9 @@ c) Utilização de novas matérias-primas por razões de maior adequação ao re
 
 3 - A comprovação do domínio dos saberes e técnicas inerentes ao exercício da actividade artesanal é definida por portaria conjunta dos Ministros do Trabalho e da Solidariedade, da Economia, do Planeamento, da Agricultura, do Desenvolvimento Rural e das Pescas, da Educação e da Cultura.
 
-###### Artigo 10.º — Carta de artesão
+Artigo 10.º
+
+Carta de artesão
 
 1 - O estatuto de artesão é reconhecido através da emissão do título «carta de artesão».
 
@@ -179,7 +195,9 @@ c) Utilização de novas matérias-primas por razões de maior adequação ao re
 
 3 - A carta de artesão é válida por períodos a definir na portaria conjunta a que se refere o n.º 3 do artigo 9.º, em função do tempo de exercício da actividade.
 
-###### Artigo 11.º — Requisitos para o reconhecimento
+Artigo 11.º
+
+Requisitos para o reconhecimento
 
 1 - A atribuição da carta de artesão supõe o exercício da actividade artesanal, nos seguintes termos:
 
@@ -195,7 +213,9 @@ d) Tratando-se do restauro de património cultural, móvel e integrado, o artes�
 
 3 - Os artesãos que beneficiem da excepção referida no número anterior devem disponibilizar-se para transmitir os seus conhecimentos, designadamente colaborando em projectos ou acções de formação de novos artesãos.
 
-###### Artigo 13.º — Carta de unidade produtiva artesanal
+Artigo 13.º
+
+Carta de unidade produtiva artesanal
 
 1 - O estatuto de unidade produtiva artesanal é reconhecido através da emissão do título «carta de unidade produtiva artesanal».
 
@@ -203,7 +223,9 @@ d) Tratando-se do restauro de património cultural, móvel e integrado, o artes�
 
 3 - A carta de unidade produtiva artesanal é válida por períodos a definir na portaria conjunta a que se refere o n.º 3 do artigo 9.º, em função do tempo de exercício da actividade.
 
-###### Artigo 14.º — Requisitos para o reconhecimento
+Artigo 14.º
+
+Requisitos para o reconhecimento
 
 1 - ...
 
@@ -219,7 +241,9 @@ d) Tratando-se do restauro de património cultural, móvel e integrado, a unidad
 
 3 - A obtenção da carta não isenta as unidades produtivas artesanais do cumprimento das obrigações legais a que estejam sujeitas, designadamente em matéria de licenciamento das actividades desenvolvidas.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O reconhecimento do estatuto de artesão e do estatuto de unidade produtiva artesanal é da competência da Comissão Nacional para a Promoção dos Ofícios e das Microempresas Artesanais.
 
@@ -229,7 +253,9 @@ d) Tratando-se do restauro de património cultural, móvel e integrado, a unidad
 
 4 - (Anterior n.º 2.)
 
-###### Artigo 17.º — Organização
+Artigo 17.º
+
+Organização
 
 O Registo Nacional do Artesanato é organizado pela Comissão Nacional para a Promoção dos Ofícios e das Microempresas Artesanais e integra as seguintes secções:
 
@@ -239,11 +265,15 @@ b) Secção II - Artesãos;
 
 c) Secção III - Unidades Produtivas Artesanais.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 A inscrição no Registo é da competência da Comissão Nacional para a Promoção dos Ofícios e das Microempresas Artesanais.
 
-###### Artigo 19.º — Inscrição
+Artigo 19.º
+
+Inscrição
 
 A inscrição dos artesãos e das unidades produtivas artesanais no Registo é gratuita.»
 
@@ -255,13 +285,17 @@ São aditados ao [Decreto-Lei n.º 41/2001](https://diariodarepublica.pt/dr/deta
 
 Publicitação do reconhecimento
 
-###### Artigo 15.º-A — Símbolo
+Artigo 15.º-A
+
+Símbolo
 
 1 - Os artesãos e as unidades produtivas artesanais podem mencionar o reconhecimento na rotulagem, publicidade e demais documentos comerciais de acompanhamento dos seus produtos, através da utilização de símbolo do qual constem as expressões: «Produzido por artesão reconhecido» ou «Produzido em unidade produtiva artesanal reconhecida», sem prejuízo da aplicação das regras gerais sobre rotulagem, apresentação e publicidade.
 
 2 - O modelo de símbolo referido no número anterior é aprovado por portaria conjunta dos Ministros do Trabalho e da Solidariedade, da Economia, do Planeamento, da Agricultura, do Desenvolvimento Rural e das Pescas, da Educação e da Cultura.
 
-###### Artigo 15.º-B — Uso indevido
+Artigo 15.º-B
+
+Uso indevido
 
 1 - A utilização do símbolo ou das expressões referidas no n.º 1 do artigo anterior, por pessoas singulares ou colectivas não reconhecidas nos termos do presente diploma, ou de expressões ou termos passíveis de induzir em erro quanto ao verdadeiro modo de produção, processo ou serviço ou que explorem a reputação dos produtos ou modos de produção artesanais, bem como as práticas que constituam actos de concorrência desleal, é sancionada nos termos da lei geral.
 
@@ -271,7 +305,9 @@ a) Não se trata de um produto ou serviço produzido por artesão reconhecido ou
 
 b) Não se trata de uma empresa reconhecida como unidade produtiva artesanal.
 
-###### Artigo 17.º-A — Repertório de actividades artesanais
+Artigo 17.º-A
+
+Repertório de actividades artesanais
 
 1 - O repertório de actividades artesanais é constituído pela lista de actividades desenvolvidas de acordo com as condições previstas no presente diploma e é aprovado pela portaria a que se refere o n.º 3 do artigo 9.º
 
@@ -279,7 +315,9 @@ b) Não se trata de uma empresa reconhecida como unidade produtiva artesanal.
 
 3 - Até cada nova actualização do repertório, pode a Comissão, mediante fundamentação adequada, e para efeitos de reconhecimento de artesãos e de unidades produtivas artesanais, reconhecer actividades ainda não constantes do mesmo.
 
-###### Artigo 20.º-A — Comunicação de alterações
+Artigo 20.º-A
+
+Comunicação de alterações
 
 1 - Todas as alterações das circunstâncias e dos elementos constantes dos processos de reconhecimento de artesãos e de unidades produtivas artesanais devem ser comunicadas à Comissão Nacional para a Promoção dos Ofícios e das Microempresas Artesanais no prazo máximo de 30 dias contados da sua verificação.
 
@@ -287,13 +325,19 @@ b) Não se trata de uma empresa reconhecida como unidade produtiva artesanal.
 
 3 - Ponderadas as alterações e os resultados da eventual reavaliação dos processos, a Comissão procede à correspondente actualização do Registo.
 
-### CAPÍTULO III-A — Suspensão e revogação das cartas de artesão e de unidade produtiva artesanal
+CAPÍTULO III-A
 
-###### Artigo 20.º-B — Iniciativa dos titulares
+Suspensão e revogação das cartas de artesão e de unidade produtiva artesanal
+
+Artigo 20.º-B
+
+Iniciativa dos titulares
 
 As cartas de artesão e de unidade produtiva artesanal podem ser suspensas ou revogadas a pedido dos respectivos titulares, sem prejuízo do disposto nos artigos seguintes.
 
-###### Artigo 20.º-C — Suspensão das cartas
+Artigo 20.º-C
+
+Suspensão das cartas
 
 1 - As cartas de artesão e de unidade produtiva artesanal podem, sem prejuízo da aplicação, pelas entidades competentes, de outras sanções, ser suspensas a todo o tempo, desde que se verifique uma das seguintes situações:
 
@@ -307,7 +351,9 @@ b) Incumprimento do dever de comunicar alterações das circunstâncias e dos el
 
 4 - A aplicação da suspensão das cartas é da competência da Comissão Nacional para a Promoção dos Ofícios e das Microempresas Artesanais.
 
-###### Artigo 20.º-D — Revogação das cartas
+Artigo 20.º-D
+
+Revogação das cartas
 
 1 - As cartas de artesão e de unidade produtiva artesanal podem, sem prejuízo da aplicação, pelas entidades competentes, de outras sanções, ser revogadas a todo o tempo, desde que se verifique uma das seguintes situações:
 
@@ -323,9 +369,13 @@ b) Não seja, no prazo previsto no artigo anterior, sanada a situação que levo
 
 5 - Da decisão da Comissão cabe recurso para o Ministro do Trabalho e da Solidariedade.
 
-### CAPÍTULO III-B — Estruturas representativas
+CAPÍTULO III-B
 
-###### Artigo 20.º-E — Das estruturas representativas de artesãos e de unidades produtivas artesanais
+Estruturas representativas
+
+Artigo 20.º-E
+
+Das estruturas representativas de artesãos e de unidades produtivas artesanais
 
 1 - São consideradas representativas do sector, para efeitos do presente diploma, as pessoas colectivas de direito privado, constituídas nos termos da lei geral, que não tenham fins lucrativos, sejam constituídas maioritariamente por artesãos ou unidades produtivas artesanais e tenham por objecto a defesa dos direitos e interesses dos artesãos e das unidades produtivas artesanais, bem como as suas uniões, federações ou confederações.
 
@@ -351,15 +401,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Luís Garcia Braga da Cruz - António Ricardo Rocha de Magalhães - Luís Medeiros Vieira - Júlio Domingos Pedrosa da Luz de Jesus - Paulo José Fernandes Pedroso - José Manuel Conde Rodrigues.
 
-**Promulgado em 22 de Março de 2002.**
+Promulgado em 22 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Março de 2002.**
+Referendado em 28 de Março de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 

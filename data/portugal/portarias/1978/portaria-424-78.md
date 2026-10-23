@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/424-1978-297052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T05:40:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afffbb97c9b836ca38f2d0214504fb20d4113eae7818856f6c83e6b9ca41e0d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc81a9e8c2bdfe0d8e607bb53229654253976eacbcbf02f360e8b50e1126142e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:40:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fiscal de Obras
+- Fiscalização
+- Ministério da Habitação e Obras Públicas
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:459605:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:381358:por
+  label: "Alterado o Quadro de Pessoal pela PORT.387/79.1979.08.02.PCM,DR.IS [177] de 2/Ago/1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/387-1979-381358
+  date: '1979-08-02'
+- type: amended_by
+  target: pt:dre:459605:por
+  label: "Substituído o quadro de pessoal aprovado pelo Dec Lei 383/77 de 10-Set, com as alterações do Dec Lei 500/77 de 28-Nov,\
+    \ DR.IS [275], do presente diploma, da Port 387/79 de 2-Ago, DR.IS [177] e do Dec Lei 113/80 de 12-Mai, DR.IS [109], pela\
+    \ PORT.1081/80.1980.12.19.PCM, DR.IS[292]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1081-1980-459605
+  date: '1980-12-19'
+- type: cites
+  target: pt:dre:447973:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:40:57Z'
   warnings: []
   errors: []
 ---
@@ -91,6 +111,6 @@ de 28 de Julho
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, da Reforma Administrativa e da Habitação e Obras Públicas, ao abrigo do disposto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 8/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1978-447973), de 12 de Janeiro, que a composição dos quadros fiscais técnicos de obras públicas e de fiscais de obras públicas dos organismos do Ministério da Habitação e Obras Públicas seja a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/17200/15351535.pdf))](https://files.diariodarepublica.pt/1s/1978/07/17200/15351535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/17200/15351535.pdf)
 
 Ministérios das Finanças e do Plano, da Reforma Administrativa e da Habitação e Obras Públicas, 28 de Junho de 1978. - O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Reforma Administrativa, Rui Eduardo Ferreira Rodrigues Pena. - O Ministro da Habitação e Obras Públicas, António Francisco Barroso de Sousa Gomes.

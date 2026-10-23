@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/13700/0000700008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/39/2020/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2020-138054853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83a8895ebc6887a8faf1f9708bbe44c1aeae7aab5c7caaafd272bd8e6f96aea9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61dac97314ff71d139f163840a5499a952436e771c013dced80386c8d28e7dd1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
 - Casa do Douro
+- Cobrança de Dívidas
 - Comissão Administrativa
 - Definição de Competências
+- Fiscal Único
 - Prestação de Contas
-- Cobrança de Dívidas
 - Relatório
 relationships:
 - type: cites
@@ -89,16 +89,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/73/2019/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/73/2019/09/02/p/dre
+- type: cites
+  target: pt:dre:118484590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124346824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74788779:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:30Z'
   warnings: []
   errors: []
 ---
@@ -137,11 +153,15 @@ Os artigos 3.º, 8.º e 9.º da [Lei n.º 19/2016](https://diariodarepublica.pt/
 
 3 - O processo de regularização extraordinário decorre entre a data de entrada em vigor da presente lei e a efetiva conclusão do referido processo.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 A comissão administrativa elabora e apresenta ao Governo, até ao dia 31 de março de cada ano, a prestação de contas relativa ao ano civil anterior.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -169,12 +189,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 2 de julho de 2020. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Maria do Céu de Oliveira Antunes Albuquerque.
 
-**Promulgado em 8 de julho de 2020.**
+Promulgado em 8 de julho de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de julho de 2020.**
+Referendado em 10 de julho de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113394625

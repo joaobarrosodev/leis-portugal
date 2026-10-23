@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 284/1996, 1º Suplemento, Série I-A de 1996-12-09
   number: '284'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4410-(2) a 4410-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/284a01/00020004.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/235-a/1996/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1996-694044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:46:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04f9e7c8d3b9297c4b3000ef7224ca42d017b990dfbade79cf5f9270c02f0a8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 399227fc7f106bfc3f30e3eb2e478b021a08e828b90b7a81ce817a2683b9fadf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:46:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assunção de Dívidas
-- Garantia
-- Sociedade Anónima
+- Cobrança de Dívidas
 - Cobrança de Impostos
 - Cobrança de Juros
 - Código de Processo Tributário
-- Política Fiscal
 - Competência Própria
 - Contribuições da Segurança Social
+- Crédito
 - Dívidas ao Estado
 - Documentação Administrativa
+- Execução por Dívidas
 - Fundo de Desemprego
-- Pagamento
+- Garantia
 - Instituto Público
 - JURO de MORA
 - Juros
-- Crédito
+- Pagamento
+- Política Fiscal
 - Prorrogação de Prazo
 - Reconversão de Empresas
-- Cobrança de Dívidas
-- Execução por Dívidas
 - Setor Empresarial
+- Sociedade Anónima
 - Tesouraria da Fazenda Pública
 relationships:
 - type: amended_by
@@ -118,16 +118,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1485-a/1995/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1485-a/1995/12/28/p/dre
+- type: cites
+  target: pt:dre:198913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621680:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:46:18Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +212,9 @@ Os artigos 1.º, 3.º, 4.º, 5.º, 14.º e 15.º do [Decreto-Lei n.º 124/96](ht
 
 4 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O acesso a qualquer das medidas excepcionais previstas no presente diploma depende da apresentação de requerimento, por parte do devedor, e, salvo no caso de pagamento imediato, do preenchimento das seguintes condições:
 
@@ -204,7 +234,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 4.º — Redução do valor dos créditos por juros de mora e juros compensatórios
+Artigo 4.º
+
+Redução do valor dos créditos por juros de mora e juros compensatórios
 
 1 - A redução do valor dos créditos é apenas aplicável aos créditos relativos a juros de mora vencidos e vincendos e a juros compensatórios.
 
@@ -228,7 +260,9 @@ b) Não ser legalmente permitida, em relação à correspondente dívida de impo
 
 9 - Na liquidação dos juros de mora vencidos é aplicável o disposto no artigo 6.º do [Decreto-Lei n.º 49168](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49168-1969-198913), de 5 de Agosto de 1969.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -248,7 +282,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - As entidades devedoras que pretendam beneficiar das medidas excepcionais previstas no presente diploma deverão apresentar requerimento na repartição de finanças da sua sede ou residência até 31 de Janeiro de 1997, acompanhado das declarações e autorizações decorrentes da lei, sendo para os efeitos previstos na alínea c) do n.º 1 do artigo 3.º emitida autorização, nos termos previstos no n.º 1 do artigo 79.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo [Decreto-Lei n.º 289/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1992-621680), de 31 de Dezembro, quando exigíveis.
 
@@ -272,7 +308,9 @@ d) ...
 
 11 - No momento da entrega dos requerimentos e mostrando-se pago valor correspondente ao da primeira prestação tal como decorre do pedido formulado, os serviços competentes poderão emitir declaração de situação tributária regularizada, válida por três meses, para os efeitos previstos no [Decreto-Lei n.º 236/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1995-563036), de 13 de Setembro, ou outra situação de igual natureza.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -302,12 +340,12 @@ Os efeitos do presente diploma são reportados à data da entrada em vigor do [D
 
 Visto e aprovado em Conselho de Ministros de 21 de Novembro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Augusto Carlos Serra Ventura Mateus - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 5 de Dezembro de 1996.**
+Promulgado em 5 de Dezembro de 1996.
 
-**Publique-se**
+Publique-se
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Dezembro de 1996.**
+Referendado em 5 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

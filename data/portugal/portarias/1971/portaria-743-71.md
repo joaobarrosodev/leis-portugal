@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/743-1971-165986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3cf16627a40657a7d58587c488d42471e5895a6863efdd081b0f3fd9fe783ff9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 749b55f11b5029b1024c185fddc903dcff7a4c27770a67dedad00d56af64a475
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:17Z'
   warnings: []
   errors: []
 ---
@@ -91,11 +95,11 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 Despesas com o material:
 
-###### Artigo 7.º, n.º 2 «Despesas de conservação e aproveitamento - De semoventes» ... 3400000$00
+Artigo 7.º, n.º 2 «Despesas de conservação e aproveitamento - De semoventes» ... 3400000$00
 
-###### Artigo 8.º, n.º 1 «Material de consumo corrente - Artigos de expediente, impressos e livros para escrituração» ... 350000$00
+Artigo 8.º, n.º 1 «Material de consumo corrente - Artigos de expediente, impressos e livros para escrituração» ... 350000$00
 
-###### Artigo 8.º, n.º 7 «Material de consumo corrente - Papéis, tintas, artigos de impressão e de encadernação, materiais de desenho e de cópias» ... 80000$00
+Artigo 8.º, n.º 7 «Material de consumo corrente - Papéis, tintas, artigos de impressão e de encadernação, materiais de desenho e de cópias» ... 80000$00
 
 ... 3830000$00
 
@@ -105,14 +109,14 @@ tomando como contrapartida igual importância a sair das disponibilidades existe
 
 Despesas com o material:
 
-###### Artigo 6.º, n.º 2, alínea b) «Aquisições de utilização permanente - Aquisição de semoventes - Embarcações com motores» ... 1200000$00
+Artigo 6.º, n.º 2, alínea b) «Aquisições de utilização permanente - Aquisição de semoventes - Embarcações com motores» ... 1200000$00
 
-###### Artigo 7.º, n.º 1 «Despesas de conservação e aproveitamento - De imóveis» ... 200000$00
+Artigo 7.º, n.º 1 «Despesas de conservação e aproveitamento - De imóveis» ... 200000$00
 
-###### Artigo 8.º, n.º 6 «Material de consumo corrente - Munições e explosivos» ... 2430000$00
+Artigo 8.º, n.º 6 «Material de consumo corrente - Munições e explosivos» ... 2430000$00
 
 ... 3830000$00
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada no Boletim Oficial de Moçambique. - J. da Silva Cunha.

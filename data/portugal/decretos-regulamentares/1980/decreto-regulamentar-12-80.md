@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/10600/09070924.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1980-475327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea8ea7d34476fdf85739a96adcc7b7b71ecde2d1fac8be7f0968c3fee738900e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3688fdd56fefb320a4362a592af5916afd26af2f95cd5869de8f5a8cfe23e835
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Permanente de Revisão da Lista de Doenças Profissionais
+- Condições de Higiene e Segurança no Trabalho
+- Definição de Competências
+- Doença Profissional
+- Higiene do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:636180:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:286506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419813:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:460803:por
+  label: Rectificado pela DECL.DD6882.01.09.1980.PCM, DR.IS [211] de 12.09.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-460803
+  date: '1980-09-01'
+- type: repealed_by
+  target: pt:dre:668527:por
+  label: "Revogado, mantendo contudo em vigor, sem preju&#237;zo da sua actualiza&#231;&#227;o, a lista de doen&#231;as profissionais\
+    \ e respectivo &#237;ndice codificado pelo DR.33/93.1993.10.15.MESS, DR.IS-B [242]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/33-1993-668527
+  date: '1993-10-15'
+- type: repealed_by
+  target: pt:dre:315913:por
+  label: "Revogado pelo DR.6/2001.2001.05.05.MTS, DR.IS-B [104] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-2001-315913
+  date: '2001-05-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:44Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +139,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São consideradas doenças profissionais as constantes da lista organizada e publicada em anexo a este diploma, juntamente com o seu índice codificado.
+Artigo 1.º São consideradas doenças profissionais as constantes da lista organizada e publicada em anexo a este diploma, juntamente com o seu índice codificado.
 
-###### Art. 2.º - 1 - A Comissão Permanente de Revisão da Lista das Doenças Profissionais, criada pelo artigo 2.º do [Decreto n.º 434/73](https://diariodarepublica.pt/dr/detalhe/decreto/434-1973-419813), de 25 de Agosto, passa a ter a seguinte constituição:
+Art. 2.º - 1 - A Comissão Permanente de Revisão da Lista das Doenças Profissionais, criada pelo artigo 2.º do [Decreto n.º 434/73](https://diariodarepublica.pt/dr/detalhe/decreto/434-1973-419813), de 25 de Agosto, passa a ter a seguinte constituição:
 
 a) Um representante da Secretaria de Estado da Segurança Social, que presidirá;
 
@@ -144,25 +177,25 @@ g) Um representante das associações de pensionistas.
 
 4 - Os representantes das empresas públicas, das associações sindicais, das associações patronais e das associações de pensionistas deverão ser escolhidos entre técnicos com formação particularmente qualificada para apreciar os assuntos que cabem na competência da Comissão.
 
-###### Art. 3.º - 1 - A Comissão tem por atribuição o exame e actualização constantes da lista das doenças profissionais.
+Art. 3.º - 1 - A Comissão tem por atribuição o exame e actualização constantes da lista das doenças profissionais.
 
 2 - A actualização da lista far-se-á por despacho conjunto dos Ministros do Trabalho e dos Assuntos Sociais, sob proposta da Comissão Permanente.
 
-###### Art. 4.º - 1 - Constitui também atribuição da Comissão Permanente de Revisão da Lista das Doenças Profissionais pronunciar-se, a pedido da Caixa Nacional de Seguros de Doenças Profissionais, sobre os casos de aplicação do disposto no n.º 2 da base XXV da [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536), de 3 de Agosto de 1965, desde que a responsabilidade da reparação possa presumivelmente caber à Caixa.
+Art. 4.º - 1 - Constitui também atribuição da Comissão Permanente de Revisão da Lista das Doenças Profissionais pronunciar-se, a pedido da Caixa Nacional de Seguros de Doenças Profissionais, sobre os casos de aplicação do disposto no n.º 2 da base XXV da [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536), de 3 de Agosto de 1965, desde que a responsabilidade da reparação possa presumivelmente caber à Caixa.
 
 2 - Para efeitos do número anterior, a Caixa Nacional de Seguros de Doenças Profissionais enviará à Comissão os processos instruídos com todos os elementos que tiver obtido.
 
-###### Art. 5.º A Caixa Nacional de Seguros de Doenças Profissionais promoverá a publicação dos pareceres emitidos pela Comissão ao abrigo do artigo anterior.
+Art. 5.º A Caixa Nacional de Seguros de Doenças Profissionais promoverá a publicação dos pareceres emitidos pela Comissão ao abrigo do artigo anterior.
 
-###### Art. 6.º É revogado o [Decreto n.º 434/73](https://diariodarepublica.pt/dr/detalhe/decreto/434-1973-419813), de 25 de Agosto, com a redacção que lhe foi dada pelo [Decreto Regulamentar n.º 59/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1977-286506), de 5 de Setembro.
+Art. 6.º É revogado o [Decreto n.º 434/73](https://diariodarepublica.pt/dr/detalhe/decreto/434-1973-419813), de 25 de Agosto, com a redacção que lhe foi dada pelo [Decreto Regulamentar n.º 59/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1977-286506), de 5 de Setembro.
 
 Francisco Sá Carneiro - Eusébio Marques de Carvalho - João António Morais Leitão - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 6 de Abril de 1980.**
+Promulgado em 6 de Abril de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Índice codificado de doenças profissionais
 
@@ -396,6 +429,6 @@ Veja n.os 12.05, 12.06, 12.13, 12.14, 31.09, 31.11, 31.13 e 32.03.
 
 Lista das doenças profissionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/10600/09070924.pdf))](https://files.diariodarepublica.pt/1s/1980/05/10600/09070924.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/10600/09070924.pdf)
 
-**O Ministro do Trabalho, Eusébio Marques de Carvalho. - O Ministro dos Assuntos Sociais, João António Morais Leitão. - O Ministro da Indústria e Energia, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro do Trabalho, Eusébio Marques de Carvalho. - O Ministro dos Assuntos Sociais, João António Morais Leitão. - O Ministro da Indústria e Energia, Álvaro Roque de Pinho Bissaia Barreto.

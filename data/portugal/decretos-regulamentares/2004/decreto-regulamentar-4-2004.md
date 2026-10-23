@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/4/2004/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2004-210024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6f10aa8d7c7eec28a0c26c1dcf00e3525cf0ed1fca0c0f1843e65deb77d6945
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa5f3c58c7fe79d925fe6bdbeb6a3a8d8793da404b4058b40216ba22f1eb86bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Conselho Consultivo
 - Conselho Diretivo
 - Instituto da Conservação da Natureza
-- Conselho Consultivo
 - Lagoa da Sancha
 - Proteção do Ambiente
 - Reserva Natural
@@ -109,16 +109,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/10/2000/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/10/2000/08/22/p/dre
+- type: cites
+  target: pt:dre:209591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:640890:por
+  label: "Revogados os arts. 10º, 11º, 12º, 13º, 14º, 17º e 19º do DR 10/2000 de 22-Ago, na redacção do presente diploma,\
+    \ pela RES.117/2007.23.08.2007.PCM, DR.IS [162] de 23.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/117-2007-640890
+  date: '2007-08-23'
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:03Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +201,9 @@ Os artigos 6.º, 8.º, 10.º e 12.º do [Decreto Regulamentar n.º 10/2000](http
 
 6 - [Anterior n.º 7.]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -193,7 +233,9 @@ m) [Anterior alínea n).]
 
 2 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -227,7 +269,9 @@ o) ...
 
 2 - A prática das actividades previstas nas alíneas a), d), f), g), l) e o) do número anterior não se encontra interdita quando se insira em acções de gestão e conservação ou com fins científicos levadas a efeito pelo Instituto da Conservação da Natureza.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 ...
 
@@ -273,15 +317,15 @@ b) (euro) 1000 a (euro) 30000, no caso de pessoas colectivas.
 
 Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Armando José Cordeiro Sevinate Pinto - Pedro Manuel da Cruz Roseta - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 10 de Março de 2004.**
+Promulgado em 10 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Março de 2004.**
+Referendado em 14 de Março de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — Limites terrestres da Reserva Natural das Lagoas de Santo André e da Sancha
 

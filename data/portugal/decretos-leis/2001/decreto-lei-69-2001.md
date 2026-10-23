@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/69/2001/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2001-385468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:30:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a5980376e7a6e7f031b19a3612c95badf709f68efc327d32a3519d65d3a0537
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d9eaadc5fec610f6da182bb3c53a617d84509b2b377dd94accbba1e4719d85a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:30:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Crime
-- Medicamento
 - Droga
+- Medicamento
+- Produto Químico
 - Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:553932:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:656131:por
+  label: "Aditadas as sementes de cannabis e a substância PMMA ou N-metil às tabelas I-C e II-A anexas ao Decreto-Lei n.º\
+    \ 15/93, de 22 de Janeiro, DR.IS-A [18], com a redacção dada pelo Decreto-Lei n.º 214/2000, de 2 de Setembro, e pelo presente\
+    \ diploma, pela LEI.47/2003.2003.08.22.AR, DR.IS-A [193]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/47-2003-656131
+  date: '2003-08-22'
+- type: amended_by
+  target: pt:dre:624464:por
+  label: "Aditadas novas substâncias à tabela II-A anexa ao Dec Lei 15/93, de 22-Jan, alterada pelo presente diploma, pela\
+    \ LEI.14/2005.26.01.2005.AR, DR.IS-A [18] de 26.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-2005-624464
+  date: '2005-01-26'
+- type: amended_by
+  target: pt:dre:608228:por
+  label: "Aditada nova susbstância à tabela II-A do Dec Lei 15/93 de 22-Jan, com a redacção conferida no presente diploma,\
+    \ pela LEI.18/2009.11.05.2009.AR, DR.IS [90] de 11.05.2009 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/18-2009-608228
+  date: '2009-05-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/1993/01/22/p/dre
   label: null
@@ -85,16 +104,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/214/2000/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/214/2000/09/02/p/dre
+- type: cites
+  target: pt:dre:580787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:30:01Z'
   warnings: []
   errors: []
 ---
@@ -127,15 +154,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Janeiro de 2001. - António Manuel de Oliveira Guterres - António Luís Santos Costa - Mário Cristina de Sousa - Maria Manuela de Brito Arcanjo Marques da Costa.
 
-**Promulgado em 8 de Fevereiro de 2001.**
+Promulgado em 8 de Fevereiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Fevereiro de 2001.**
+Referendado em 15 de Fevereiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Tabela II-A
 

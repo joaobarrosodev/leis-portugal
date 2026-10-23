@@ -46,40 +46,195 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/375-1976-431178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T05:03:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d9adedbf32477a536b7947d69b4f139131c3df8db71e04cf6d4a20c11fec402
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 559d834cef0e6dc99770905eceaf4f2f45eea77c0590e69bbdd513b645005124
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:03:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alandroal
+- Arraiolos
+- Estremoz
+- Évora
+- Expropriação
+- Montemor-o-Novo
+- MORA
+- Portel
+- Prédio Rústico
+- Redondo
+- Reguengos de Monsaraz
+- Viana do Alentejo
 relationships:
 - type: amended_by
   target: pt:dre:240252:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2979812:por
+  label: "DERROGADA EM PARTE PELA PORTARIA 141/93IIS, DA PCM/MA, DE 7 DE JUNHO, PUBLICADA NO DR.IIS, 145, DE 930623.\030623.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/141-1993-2979812
+- type: amended_by
+  target: pt:dre:3470874:por
+  label: "Derrogado parte do presente diploma pela PORT.1356/2003(2ªSérie).14.10.2003.PCM, dr.iis [250] de 28.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1356-2003-3470874
+  date: '1976-06-19'
+- type: amended_by
+  target: pt:dre:251780:por
+  label: Derrogada, relativamente à expropriação do prédio rústico denominado «Madeira Nova de Cima», concelho de Redondo
+    pelo(a) Portaria n.º 233/77 - Diário da República n.º 103/1977, Série I de 1977-05-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/233-1977-251780
+  date: '1977-05-04'
+- type: amended_by
+  target: pt:dre:327853:por
+  label: Derrogada, no respeitante ao prédio Fonte Branca, de Filipe Sampaio, pelo(a) Portaria n.º 637/78 - Diário da República
+    n.º 245/1978, Série I de 1978-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/637-1978-327853
+  date: '1978-10-24'
+- type: amended_by
+  target: pt:dre:383805:por
+  label: "Derrogada em parte, pela PORT.115/79.12.03.1979.MAP, DR.IS [59] de 12.03.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/115-1979-383805
+  date: '1979-03-12'
+- type: amended_by
+  target: pt:dre:383826:por
+  label: "Reformado o presente diploma, substituindo o sujeito passivo e à designação de um prédio, pela PORT.261/79.05.06.1979.MAP,\
+    \ DR.IS [129] de 05.06.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/261-1979-383826
+  date: '1979-06-05'
+- type: amended_by
+  target: pt:dre:678979:por
+  label: "Derrogada parte do presente diploma, pela PORT.84/80.03.03.1980.MAP, DR.IS [84] de 03.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/84-1980-678979
+  date: '1980-03-03'
+- type: amended_by
+  target: pt:dre:457183:por
+  label: "Derrogada, na parte respeitante aos prédios rústicos denominados \"Queijeirinha\", \"Curral Branco\" e \"Arcões\"\
+    ,pela PORT.1093/80.26.12.1980.MAP, DR.IS [297] de 26.12.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1093-1980-457183
+  date: '1980-12-26'
+- type: amended_by
+  target: pt:dre:390659:por
+  label: "Desanexado do domínio público parte do prédio rústico denominado \"Montinho\" no concelho de Évora pela PORT.224/81.17.02.1981.MFP,\
+    \ DR.IS [49] de 27.02.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/224-1981-390659
+  date: '1981-02-17'
+- type: amended_by
+  target: pt:dre:1618558:por
+  label: "Derrogada, em parte, pela PORT.1085/2003(2ªSÉRIE).2003.07.24.PCM DR.IIS [187] DE 14/AGO/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1085-2003-1618558
+  date: '2003-07-24'
+- type: amended_by
+  target: pt:dre:1206411:por
+  label: "Derrogada parte pela PORT.261/2004(2ªSérie).17.02.2004.PCM, DR.IIS [54] de 04.03.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/261-2004-1206411
+  date: '2004-02-17'
+- type: amended_by
+  target: pt:dre:1834903:por
+  label: "Derrogada parte do presente diploma, pela PORT.1326/2004(2ªSérie).07.12.2004.PCM, DR.IIS [299] de 23.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1326-2004-1834903
+  date: '2004-12-07'
+- type: amended_by
+  target: pt:dre:1922095:por
+  label: "Derrogada parte pela PORT.225/2005(2ªSérie).09.02.2005.PCM, DR.IIS [38] de 23.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/225-2005-1922095
+  date: '2005-02-09'
+- type: amended_by
+  target: pt:dre:240252:por
+  label: "Derrogada pela PORT.621/2005.01.08.2005.PCM, DR.IS-B [146] de 01.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/621-2005-240252
+  date: '2005-08-01'
+- type: cites
+  target: pt:dre:312185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:279612:por
+  label: Retificada, pelo(a) Portaria n.º 749/77 - Diário da República n.º 286/1977, Série I de 1977-12-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/749-1977-279612
+  date: '1977-12-13'
+- type: repealed_by
+  target: pt:dre:105601580:por
+  label: Revogada na parte em que expropria a área de 11,2000 ha, que faz parte integrante do prédio rústico denominado «Paço
+    Saraiva, Vale de Palma, Bate Velhos, Banhita, Gramacha e Montinho», inscrito na matriz cadastral sob o artigo 3 das secções
+    E, E1 a E4, atualmente parte integrante do prédio designado «Herdade do Montinho», inscrito na matriz predial rústica
+    sob o artigo 8.º, das secções E1, E2 e E3, a presente portaria, pelo(a) Portaria n.º 332/2016 - Diário da República n.º
+    245/2016, Série I de 2016-12-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/332-2016-105601580
+  date: '2016-12-23'
+- type: repealed_by
+  target: pt:dre:106607297:por
+  label: Revogada, com efeitos a partir de 22.11.2016, na parte em que expropria a área de 19,2150 ha, constituída pelas courelas
+    n.ºs 5, 29, 39 (1/2), 40, 62 (1/4), 65, 78, 151 e 174, que fazem parte integrante do prédio rústico denominado «Paço Saraiva,
+    Vale de Palma, Bate Velhos, Banhita, Gramacha e Montinho», inscrito na matriz cadastral sob o artigo 3.º das secções E,
+    E1 a E4, da freguesia de Nossa Senhora de Machede, concelho de Évora, atualmente parte integrante do prédio designado
+    «Herdade do Montinho», inscrito na matriz predial rústica sob o artigo 8.º, das secções E1, E2 e E3, da mesma freguesia
+    e do mesmo concelho, pela Portaria n.º 108/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/108-2017-106607297
+  date: '2017-03-15'
+- type: repealed_by
+  target: pt:dre:107573265:por
+  label: Revogada, com efeitos a partir de 22.11.2016, na parte em que expropria a área de 2 ha, referente à courela n.º 108,
+    que faz parte integrante do prédio rústico denominado «Paço Saraiva, Vale de Palma, Bate Velhos, Banhita, Gramacha e Montinho»,
+    inscrito na matriz cadastral sob o artigo 3 das secções E, E1 a E4, da freguesia de Nossa Senhora de Machede, concelho
+    de Évora, atualmente parte integrante do prédio designado «Herdade do Montinho», inscrito na matriz predial rústica sob
+    o artigo 8, das secções E1, E2 e E3, da mesma freguesia e do mesmo concelho, a presente portaria, pelo(a) Portaria n.º
+    201/2017 - Diário da República n.º 123/2017, Série I de 2017-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/201-2017-107573265
+  date: '2017-06-28'
+- type: repealed_by
+  target: pt:dre:115524221:por
+  label: Revogada, com efeitos a partir de 22.11.2016, na parte em que expropria a área de 10,000 0 ha, referente à courela
+    n.º 48, que faz parte integrante do prédio rústico denominado «Paço Saraiva, Vale de Palma, Bate Velhos, Banhita, Gramacha
+    e Montinho», inscrito na matriz cadastral sob o artigo 3 das secções E, E1 a E4, da freguesia de Nossa Senhora de Machede,
+    concelho de Évora, atualmente parte integrante do prédio designado «Herdade do Montinho», inscrito na matriz predial rústica
+    sob o artigo 8, das secções E1, E2 e E3, da mesma freguesia e do mesmo concelho, a presente portaria, pelo(a) Portaria
+    n.º 173/2018 - Diário da República n.º 114/2018, Série I de 2018-06-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/173-2018-115524221
+  date: '2018-06-15'
+- type: repealed_by
+  target: pt:dre:117347651:por
+  label: Revogada, com efeitos a partir de 22.11.2018, na parte em que expropria a área referente aos lotes n.º 43, n.º 45
+    (1/2), n.º 50, n.º 59 (1/4), n.º 100, n.º 115, n.º 115-A, n.º 119 e n.º 168 , que fazem parte integrante do prédio rústico
+    denominado «Paço Saraiva, Vale de Palma, Bate Velhos, Banhita, Gramacha e Montinho», inscrito na matriz predial rústica,
+    sob o art. 3 das secções E1 a E4 da freguesia de Nossa Senhora de Machede, concelho de Évora, da presente Portaria, pelo(a)
+    Portaria n.º 666/2018 - Diário da República n.º 239/2018, Série II de 2018-12-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/666-2018-117347651
+  date: '2018-12-12'
+- type: repealed_by
+  target: pt:dre:175043508:por
+  label: Revogada, na parte em que expropria a área de 29,8750 ha, constituída pelos lotes n.ºs 24 (1/2), 95, 137 e 226 (1/3),
+    que fazem parte integrante do prédio rústico denominado «Paço Saraiva, Vale de Palma, Bate-Velhos, Banhita, Gramacha e
+    Montinho», inscrito na matriz cadastral sob o artigo 3, secções E, E1, E2, E3 e E4, da presente Portaria, pelo(a) Portaria
+    n.º 270/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/270-2021-175043508
+  date: '2021-11-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:03:03Z'
   warnings: []
   errors: []
 ---

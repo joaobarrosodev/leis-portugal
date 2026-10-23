@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/031a00/07340735.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/29/2004/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2004-582016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0eeb5314d5eee3e4744a9741ad948c95d3ad7b50f1e1aa461db161f15979d133
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c434f1c606bc61e06eff9a75b310b5fd8e96ae7ec9196f30aa8d87d672e81da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,41 @@ subjects:
 - Conselheiro Técnico
 - Criação de Lugares
 - Eurojust
+- Ministério dos Negócios Estrangeiros
 - Pessoal Especializado
 - Quadro de Pessoal
-- Ministério dos Negócios Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:306877:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:539995:por
+  label: "Alterado o quadro de pessoal especializado do Ministério dos Negócios Estrangeiros, anexo ao Decreto-Lei n.º 133/85,\
+    \ de 2 de Maio, com a estrutura estabelecida no presente diploma, pela PORT.901/2006.04.09.2006.MNE, DR.IS [170] de 04.09.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/901-2006-539995
+  date: '2006-09-04'
+- type: amended_by
+  target: pt:dre:262360:por
+  label: "Alterado o quadro de pessoal especializado constante do mapa anexo ao Dec Lei 133/85 de 02-Mai, com as alterações\
+    \ que lhe foram introduzidas pelo presente diploma, pela PORT.76/2007.12.01.2007.PCM, DR.IS [9] de 12.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/76-2007-262360
+  date: '2007-01-12'
+- type: amended_by
+  target: pt:dre:248217:por
+  label: "Alterado o quadro de pessoal especializado constante do mapa anexo ao Dec Lei 133/85, de 02-Maio, com as alterações\
+    \ que lhe foram introduzidas pelo presente diploma e pelo Dec Lei 146/2001 de 02-Mai e pelas Port. 901/2006 de 09-Set\
+    \ e 76/2007, de 12-Jan, pela PORT.97/2008.31.01.2008.PCM, DR.IS [22] de 31.01.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/97-2008-248217
+  date: '2008-01-31'
+- type: amends
+  target: pt:numero:decreto-lei:146/2001
+  label: "Altera o quadro de pessoal especializado do Ministério dos Negócios Estrangeiros, anexo ao Decreto-Lei n.º 133/85,\
+    \ de 2 de Maio DR.IS [100] com a redacção que lhe foi dada pelo n.º 2 do artigo 2.º do Decreto-Lei n.º 146/2001, de 2\
+    \ de Maio DR.IS-A [101]\0\0"
+  source: null
+  date: '2001-05-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/146/2001/05/02/p/dre
   label: null
@@ -85,16 +112,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/36/2003/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/36/2003/08/22/p/dre
+- type: cites
+  target: pt:dre:152327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656116:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:306877:por
+  label: "Revogado, a partir de 02.12.2010, pelo DEC LEI.127/2010.30.11.2010.MNE, DR.IS [232] de 30.11.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-2010-306877
+  date: '2010-11-30'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:14Z'
   warnings: []
   errors: []
 ---
@@ -145,15 +193,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Dezembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona.
 
-**Promulgado em 23 de Janeiro de 2004.**
+Promulgado em 23 de Janeiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Janeiro de 2004.**
+Referendado em 27 de Janeiro de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Mapa a que se refere o n.º 2 do artigo 1.º
 

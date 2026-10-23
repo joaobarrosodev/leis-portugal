@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/373/1998/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1998-217939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:02:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebdb498e187fa0db59e47795c4a75e0fd190923dafe1ed9f0b1ab1b05e86dfcd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ce109c05783409009ff9a368d8a0a6c0525113840cdae1be3d671a39ca13c37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:02:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Academia Portuguesa de História
 - Orgânica
 - Quadro de Pessoal
-- Academia Portuguesa de História
 relationships:
 - type: amended_by
   target: pt:dre:242972:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:568355:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo ao presente diploma, pela PORT.397/2005.07.04.2005.MFAP, DR.IS-B\
+    \ [68] de 07.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/397-2005-568355
+  date: '2005-04-07'
+- type: amended_by
+  target: pt:dre:242972:por
+  label: "Criado no quadro de pessoal da Academia Portuguesa de História, constante do mapa anexo ao presente diploma, um\
+    \ lugar de assistente administrativo, a extinguir quando vagar, pelo PORT.689/2005.19.08.2005.MFAP, DR.IS-B [159] de 19.08.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/689-2005-242972
+  date: '2005-08-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/718/1994/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/718/1994/08/11/p/dre
+- type: cites
+  target: pt:dre:222623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417378:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:02:48Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +140,7 @@ Os artigos 41.º e 42.º do [Decreto-Lei n.º 357/84](https://diariodarepublica.
 
 3 - A secretaria é chefiada por um chefe de secção.
 
-###### Artigo 42.º
+Artigo 42.º
 
 1 - Incumbe ao chefe de secção elaborar e submeter ao conselho académico o plano de distribuição das tarefas que à mesma pertencem, assim como a orientação directa do seu desempenho.
 
@@ -127,15 +152,15 @@ O quadro de pessoal da Academia Portuguesa da História, aprovado pela [Portaria
 
 Visto e aprovado em Conselho de Ministros de 8 de Outubro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Manuel Maria Ferreira Carrilho.
 
-**Promulgado em 9 de Novembro de 1998.**
+Promulgado em 9 de Novembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Novembro de 1998.**
+Referendado em 13 de Novembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA
 

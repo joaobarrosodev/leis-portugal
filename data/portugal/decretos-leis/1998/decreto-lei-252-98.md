@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/184a00/38973903.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/252/1998/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1998-438074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e39d2826293209b9b3f97f4024e48c360649f9df6f5164652e3427c3f4ec645
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81726e27e547eb66510453402521332263a5d1ed69bd05e6ec77ee0322064a71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Agrupamento de Explorações Agrícolas
-- Ajuda Comunitária
 - Agrupamento de Produtores
-- Financiamento
+- Ajuda Comunitária
 - CEE
 - Definição de Competências
 - Direito de Associação
-- Fruto
-- Mercado Agrícola
 - Exploração Agrícola
-- Política Agrícola Comum
-- Produto Hortícola
+- Financiamento
+- Fruto
 - Madeira.região Autónoma
+- Mercado Agrícola
+- Política Agrícola Comum
 - Produção Agrícola
+- Produto Hortícola
 - Regulamento CE
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:209635:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:278030:por
+  label: "Alterados os arts. 1.º, 3.º, 5.º, 9.º, 10.º e 11.º e o anexo IV, pelo DEC LEI.32/2002.2002.02.19.MADRP DR.IS-A [42]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2002-278030
+  date: '2002-02-19'
 - type: cites
   target: celex:31972R1035
   label: null
@@ -111,16 +117,22 @@ relationships:
   target: celex:31997R0478
   label: null
   source: http://data.europa.eu/eli/reg/1997/478/oj
+- type: repealed_by
+  target: pt:dre:209635:por
+  label: "Revogado o presente diploma, com a redacção dada pelo Dec Lei 32/2002 de 19-Fev, pelo DEC LEI.222/2004.03.12.2004.MAPF,\
+    \ DR.IS-A [283] de 03.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-2004-209635
+  date: '2004-12-03'
 article_structure:
-  article_count: 18
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:34Z'
   warnings: []
   errors: []
 ---
@@ -285,13 +297,13 @@ As entidades das Regiões Autónomas competentes para a execução do presente d
 
 Visto e aprovado em Conselho de Ministros de 4 de Julho de 1998. - António Manuel de Oliveira Guterres - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Promulgado em 24 de Julho de 1998.**
+Promulgado em 24 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Julho de 1998.**
+Referendado em 27 de Julho de 1998.
 
 Pelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional.
 
@@ -381,15 +393,15 @@ d) Por um lado, coloquem efectivamente à disposição dos seus membros os meios
 
 ## ANEXO II — Número mínimo de produtores e volume mínimo de produção comercializável
 
-## Anexo I e anexo II do Regulamento (CE) n.º [412/97](http://data.europa.eu/eli/reg/1997/412/oj?locale=pt), da Comissão, de 3 de Março
+Anexo I e anexo II do Regulamento (CE) n.º [412/97](http://data.europa.eu/eli/reg/1997/412/oj?locale=pt), da Comissão, de 3 de Março
 
 ## ANEXO I — Critérios de reconhecimento para as organizações de produtores, com exclusão das de citrinos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/08/184a00/38973903.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/08/184a00/38973903.pdf)](https://files.diariodarepublica.pt/1s/1998/08/184a00/38973903.pdf)
 
 ## ANEXO II — Critérios de reconhecimento para as organizações de produtores de citrinos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/08/184a00/38973903.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/08/184a00/38973903.pdf)](https://files.diariodarepublica.pt/1s/1998/08/184a00/38973903.pdf)
 
 ## ANEXO III — Plano de reconhecimento
 
@@ -435,7 +447,7 @@ Os planos devem indicar, nomeadamente, o custo previsional dos investimentos nec
 
 Elementos necessários para a elaboração do programa operacional - artigo 15.º do Regulamento (CE) n.º [2200/96](http://data.europa.eu/eli/reg/1996/2200/oj?locale=pt), de 28 de Outubro, e artigos 3.º e 4.º do Regulamento (CE) n.º [411/97](http://data.europa.eu/eli/reg/1997/411/oj?locale=pt), de 3 de Março.
 
-###### Artigo 15.º do Regulamento (CE) n.º [2200/96](http://data.europa.eu/eli/reg/1996/2200/oj?locale=pt)
+Artigo 15.º do Regulamento (CE) n.º [2200/96](http://data.europa.eu/eli/reg/1996/2200/oj?locale=pt)
 
 1 - ...
 
@@ -457,13 +469,13 @@ c) Incluir nas suas previsões financeiras os meios técnicos e humanos necessá
 
 6 - ...
 
-###### Artigo 3.º do Regulamento (CE) n.º [411/97](http://data.europa.eu/eli/reg/1997/411/oj?locale=pt), de 3 de Março
+Artigo 3.º do Regulamento (CE) n.º [411/97](http://data.europa.eu/eli/reg/1997/411/oj?locale=pt), de 3 de Março
 
 Os projectos de programas operacionais são apresentados, para aprovação, à autoridade competente do Estado membro em que a organização de produtores tem a sua sede, o mais tardar em 15 de Setembro do ano que antecede o início da sua aplicação. Contudo os Estados membros podem adiar esta data.
 
 ...
 
-###### Artigo 4.º do Regulamento (CE) n.º [411/97](http://data.europa.eu/eli/reg/1997/411/oj?locale=pt), de 3 de Março
+Artigo 4.º do Regulamento (CE) n.º [411/97](http://data.europa.eu/eli/reg/1997/411/oj?locale=pt), de 3 de Março
 
 1 - O projecto de programa operacional deve conter os elementos previstos no n.º 4 do artigo 15.º do Regulamento (CE) n.º [2200/96](http://data.europa.eu/eli/reg/1996/2200/oj?locale=pt) ou, no caso dos planos de acção, os elementos susceptíveis de garantir, no final do plano de acção, o cumprimento do disposto no n.º 2 do artigo 11.º daquele regulamento. Deve incluir, pelo menos, os seguintes capítulos:
 

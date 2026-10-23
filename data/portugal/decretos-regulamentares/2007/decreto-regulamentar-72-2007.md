@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/06/12400/41524155.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/72/2007/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/72-2007-635825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:31:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8d378209392e44d31ef79083bec507be4d6f734f03298621ad0c6f3e8899eaf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 901a75b54605ffc25f2553ed86e7993dd3573e14df79a49d2825e45ca05adfd2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:31:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estado Maior do Exército
 - Definição de Competências
+- Estado Maior do Exército
 - Orgânica
 relationships:
 - type: amended_by
@@ -81,16 +81,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/43/1994/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/43/1994/09/02/p/dre
+- type: cites
+  target: pt:dre:658436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667774:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69920323:por
+  label: Revogado (a partir de 01.08.2015) pelo(a) Decreto Regulamentar n.º 11/2015 - Diário da República n.º 148/2015, Série
+    I de 2015-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/11-2015-69920323
+  date: '2015-07-31'
 article_structure:
   article_count: 14
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:31:21Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +163,9 @@ c) A Divisão de Comunicações e Sistemas de Informação;
 
 d) A Divisão de Informações.
 
-###### Artigo 6.º — Divisão de Recursos
+###### Artigo 6.º
+
+##### Divisão de Recursos
 
 1 - À Divisão de Recursos compete estudar as matérias e planear e coordenar as actividades relativas aos recursos humanos, materiais e financeiros do Exército, bem como difundir as normas, os planos e as directivas que orientem e determinem as acções a realizar nesse âmbito, cabendo-lhe, em especial:
 
@@ -201,7 +217,9 @@ d) A Repartição de Recursos Materiais e Infra-Estruturas, que exerce as compet
 
 e) A Repartição de Recursos Financeiros, que exerce as competências previstas nas alíneas o) a q) do número anterior.
 
-###### Artigo 7.º — Divisão de Planeamento de Forças
+###### Artigo 7.º
+
+##### Divisão de Planeamento de Forças
 
 1 - À Divisão de Planeamento de Forças compete estudar, planear e coordenar as actividades do Exército relativas à organização, ao planeamento de forças, ao reequipamento e à normalização de documentos, bem como difundir as normas, os planos e as directivas que orientem e determinem as acções a realizar nesse âmbito, cabendo-lhe, em especial:
 
@@ -253,7 +271,9 @@ d) A Repartição de Normalização, que exerce as competências previstas nas a
 
 e) A Repartição de Reequipamento e Programação, que exerce as competências previstas nas alíneas j) a q) do número anterior.
 
-###### Artigo 8.º — Divisão de Comunicações e Sistemas de Informação
+###### Artigo 8.º
+
+##### Divisão de Comunicações e Sistemas de Informação
 
 1 - À Divisão de Comunicações e Sistemas de Informação compete:
 
@@ -275,7 +295,9 @@ b) A Repartição de Comunicações e Guerra Electrónica;
 
 c) A Repartição de Sistemas e Tecnologias de Informação.
 
-###### Artigo 9.º — Divisão de Informações
+###### Artigo 9.º
+
+##### Divisão de Informações
 
 1 - À Divisão de Informações compete estudar, planear e coordenar as actividades do Exército relativas a informações, contra-informação e segurança militar, bem como assegurar a ligação aos adidos militares e difundir as normas, os planos e as directivas que orientem e determinem as acções a realizar nesse âmbito, cabendo-lhe, em especial:
 
@@ -375,12 +397,12 @@ g) Promover a realização de inquéritos de segurança e emitir parecer atravé
 
 Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Henrique Nuno Pires Severiano Teixeira.
 
-**Promulgado em 7 de Junho de 2007.**
+Promulgado em 7 de Junho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 8 de Junho de 2007.**
+Referendado em 8 de Junho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

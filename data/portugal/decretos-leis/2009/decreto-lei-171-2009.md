@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/08/14800/0499104993.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/171/2009/08/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2009-493030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63b4a515a1369499a811787cc6a6e18502b937c8523865be72cd3aa495e0a826
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8855f3080608a43b359bc4d9a195003ab40bd73689b386b17c551ed10f85a0b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Definição de Competências
+- Diversidade Biológica
 - Financiamento
 - Fiscal Único
-- Definição de Competências
 - Fiscalização
 - Fundo para a Conservação da Natureza e da Biodiversidade
-- Proteção do Ambiente
-- Diversidade Biológica
 - Instituto da Conservação da Natureza e da Biodiversidade
-- Regulamento de Gestão
+- Proteção do Ambiente
 - Rede Fundamental de Conservação da Natureza
+- Regulamento de Gestão
 relationships:
 - type: amended_by
   target: pt:dre:75150234:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66022084:por
+  label: Aditado o art. 9.º-A pelo(a) Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-d-2014-66022084
+  date: '2014-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/142/2008/07/24/p/dre
   label: null
@@ -88,16 +93,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/152/2001/10/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/152/2001/10/11/p/dre
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621510:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:75150234:por
+  label: Revogado, a partir de 01.01.2017, o presente diploma, na redação da Lei 82-D/2014 de 31-dez, pelo(a) Decreto-Lei
+    n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12, nos termos do disposto no n.º
+    2 do seu art. 22.º, que determina a extinção do Fundo para a Conservação da Natureza e da Biodiversidade, sucedendo-lhe,
+    nos termos do disposto no seu art. 2.º, o Fundo Ambiental ora criado
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-a-2016-75150234
+  date: '2016-08-12'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:59Z'
   warnings: []
   errors: []
 ---
@@ -252,12 +273,12 @@ O regulamento de gestão do Fundo determina o procedimento de apresentação e s
 
 Visto e aprovado em Conselho de Ministros de 5 de Junho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia.
 
-**Promulgado em 16 de Julho de 2009.**
+Promulgado em 16 de Julho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de Julho de 2009.**
+Referendado em 17 de Julho de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

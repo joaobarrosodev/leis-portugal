@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/482-1973-421429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T04:07:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c37b26b867e7c934bb4cc1b5e9f854c39f6fe690ab4182094c2ea53b3ba5698c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12273b5a0e813ce102c818c1fc9174ea1f1f79e8b55195a70413dad841684c2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:07:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Diploma
+- Ensino Técnico
+- Formação Profissional
+- Habilitações Literárias
+- Informação Turística
+- Plano de Estudos
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:295403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643348:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:07:49Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +118,7 @@ Normas relativas à formação de pessoal de informação turística
 
 ### CAPÍTULO I — Condições de admissão aos cursos
 
-###### Artigo 1.º São admitidos aos cursos de formação de transferistas os candidatos que reúnam cumulativamente os requisitos seguintes:
+Artigo 1.º São admitidos aos cursos de formação de transferistas os candidatos que reúnam cumulativamente os requisitos seguintes:
 
 a) Posse do curso geral dos liceus ou equivalente;
 
@@ -111,7 +126,7 @@ b) Idade mínima de 16 anos, a completar até 31 de Dezembro do ano em que o cur
 
 c) Aprovação num exame de admissão de um idioma estrangeiro.
 
-###### Art. 2.º São admitidos aos cursos de formação de guias regionais os candidatos que reúnam cumulativamente os requisitos seguintes:
+Art. 2.º São admitidos aos cursos de formação de guias regionais os candidatos que reúnam cumulativamente os requisitos seguintes:
 
 a) Posse do curso geral dos liceus ou equivalente;
 
@@ -119,45 +134,45 @@ b) Idade mínima de 17 anos, a completar até 31 de Dezembro do ano em que o cur
 
 c) Aprovação num exame de admissão de idiomas: inglês, com carácter obrigatório, e outro à escolha do candidato.
 
-###### Art. 3.º Sem prejuízo do disposto no artigo seguinte, são admitidos aos cursos de formação de guias-intérpretes os candidatos que reúnam cumulativamente os seguintes requisitos:
+Art. 3.º Sem prejuízo do disposto no artigo seguinte, são admitidos aos cursos de formação de guias-intérpretes os candidatos que reúnam cumulativamente os seguintes requisitos:
 
 a) Posse do curso complementar dos liceus, ou dos cursos preparatórios para ingresso no ensino superior ministrado nos institutos industriais, nos institutos comerciais e nas escolas de regentes agrícolas, ou do curso completo dos institutos médios industriais e comerciais;
 
 b) Aprovação num exame de admissão, englobando provas de inglês e de francês, escritas e orais, sem dispensa destas últimas.
 
-###### Art. 4.º Os indivíduos que possuam carteira profissional de guia regional há mais de cinco anos e tenham obtido classificação de Bom no respectivo curso de formação são admitidos a um curso especial de formação de guias-intérpretes.
+Art. 4.º Os indivíduos que possuam carteira profissional de guia regional há mais de cinco anos e tenham obtido classificação de Bom no respectivo curso de formação são admitidos a um curso especial de formação de guias-intérpretes.
 
-###### Art. 5.º São admitidos aos cursos de formação de correios de turismo os indivíduos que possuam categoria profissional de guia-intérprete.
+Art. 5.º São admitidos aos cursos de formação de correios de turismo os indivíduos que possuam categoria profissional de guia-intérprete.
 
-###### Art. 6.º São admitidos aos cursos de formação de guias de arte os indivíduos que possuam a categoria profissional de guias-intérpretes.
+Art. 6.º São admitidos aos cursos de formação de guias de arte os indivíduos que possuam a categoria profissional de guias-intérpretes.
 
 ### CAPÍTULO II — Planos de estudos
 
 #### SECÇÃO I — Cursos de formação de transferistas
 
-###### Art. 7.º Cada curso de formação de transferistas terá a duração de um semestre.
+Art. 7.º Cada curso de formação de transferistas terá a duração de um semestre.
 
-###### Art. 8.º São disciplinas dos cursos de formação de transferistas Inglês, Francês, Introdução à Problemática do Turismo, Técnica Profissional, Organização Política e Legislação Turística, História de Portugal, Geografia Turística e Relações Públicas.
+Art. 8.º São disciplinas dos cursos de formação de transferistas Inglês, Francês, Introdução à Problemática do Turismo, Técnica Profissional, Organização Política e Legislação Turística, História de Portugal, Geografia Turística e Relações Públicas.
 
 #### SECÇÃO II — Cursos de formação de guias regionais
 
-###### Art. 9.º Cada curso de formação de guias regionais terá a duração de um ano lectivo, com as seguintes fases:
+Art. 9.º Cada curso de formação de guias regionais terá a duração de um ano lectivo, com as seguintes fases:
 
 a) A 1.ª fase terá um carácter de preparação geral e a sua duração será de um semestre;
 
 b) A 2.ª fase visará a especialização local e terá uma duração máxima de três meses, de harmonia com os condicionalismos locais.
 
-###### Art. 10.º - 1. A 1.ª fase de cada um dos cursos deverá realizar-se em estabelecimentos escolares e englobará as disciplinas de Inglês, Francês ou Alemão, História de Portugal, Situação da Cultura Portuguesa no Passado e no Presente, História de Arte, Etnologia, Artes Decorativas, Geografia (turística, económica e humana), Introdução à Problemática do Turismo, Itinerários e Circuitos Turísticos, Relações Públicas e Prática de Serviço de Guia.
+Art. 10.º - 1. A 1.ª fase de cada um dos cursos deverá realizar-se em estabelecimentos escolares e englobará as disciplinas de Inglês, Francês ou Alemão, História de Portugal, Situação da Cultura Portuguesa no Passado e no Presente, História de Arte, Etnologia, Artes Decorativas, Geografia (turística, económica e humana), Introdução à Problemática do Turismo, Itinerários e Circuitos Turísticos, Relações Públicas e Prática de Serviço de Guia.
 
 2. Os idiomas a leccionar em cada curso serão o inglês, em carácter obrigatório para todos os alunos, e o francês ou o alemão, consoante a opção feita por cada aluno.
 
-###### Art. 11.º A 2.ª fase de cada um dos cursos deverá realizar-se na região abrangida e proporcionar, sobre tudo, os conhecimentos que especificamente lhe respeitem, designadamente património monumental e artístico, equipamento hoteleiro, comunicações e transportes, produtos típicos e artesanais e gastronomia e vinhos.
+Art. 11.º A 2.ª fase de cada um dos cursos deverá realizar-se na região abrangida e proporcionar, sobre tudo, os conhecimentos que especificamente lhe respeitem, designadamente património monumental e artístico, equipamento hoteleiro, comunicações e transportes, produtos típicos e artesanais e gastronomia e vinhos.
 
 #### SECÇÃO III — Cursos de formação de guias-intérpretes
 
-###### Art. 12.º Sem prejuízo do disposto no artigo 14.º, cada curso de formação de guias-intérpretes terá a duração de dois anos lectivos.
+Art. 12.º Sem prejuízo do disposto no artigo 14.º, cada curso de formação de guias-intérpretes terá a duração de dois anos lectivos.
 
-###### Art. 13.º - 1. São disciplinas bienais Inglês, Francês ou Alemão e Geografia (turística, económica e humana).
+Art. 13.º - 1. São disciplinas bienais Inglês, Francês ou Alemão e Geografia (turística, económica e humana).
 
 2. São disciplinas anuais História Geral de Arte, História de Arte em Portugal, Etnologia, Artes Decorativas, Introdução à Problemática do Turismo, Itinerários e Circuitos Turísticos, Prática de Serviço de Guias, História Comparada das Civilizações e História da Cultura Portuguesa.
 
@@ -169,23 +184,23 @@ b) A 2.ª fase visará a especialização local e terá uma duração máxima de
 
 5. Aos alunos que, nas condições indicadas no número anterior, tenham optado pela aprendizagem da língua alemã será ensinado o vocabulário técnico em língua francesa adequada à função de guia-intérprete, na disciplina de Francês (vocabulário especializado).
 
-###### Art. 14.º Cada um dos cursos de formação de guias-intérpretes a que se refere o artigo 4.º do presente diploma terá a duração de um semestre, decorrendo obrigatoriamente entre Outubro e Março.
+Art. 14.º Cada um dos cursos de formação de guias-intérpretes a que se refere o artigo 4.º do presente diploma terá a duração de um semestre, decorrendo obrigatoriamente entre Outubro e Março.
 
-###### Art. 15.º - 1. São disciplinas dos cursos a que se refere o artigo anterior História Comparada das Civilizações, História da Cultura Portuguesa, História Geral de Arte, História de Arte em Portugal, Itinerários e Circuitos Turísticos, Prática de Serviço de Guia, Propedêutica Económica, Introdução à Sociologia, Informação Social e Política, Legislação e Francês (vocabulário especializado).
+Art. 15.º - 1. São disciplinas dos cursos a que se refere o artigo anterior História Comparada das Civilizações, História da Cultura Portuguesa, História Geral de Arte, História de Arte em Portugal, Itinerários e Circuitos Turísticos, Prática de Serviço de Guia, Propedêutica Económica, Introdução à Sociologia, Informação Social e Política, Legislação e Francês (vocabulário especializado).
 
 2. A disciplina de Francês (vocabulário especializado) destinar-se-á unicamente àqueles alunos que, no respectivo curso de formação de guias regionais, tenham optado pela língua alemã.
 
 #### SECÇÃO IV — Cursos de formação de correios de turismo
 
-###### Art. 16.º Cada curso de formação de correios de turismo terá a duração de um semestre, decorrendo obrigatoriamente entre Outubro e Março.
+Art. 16.º Cada curso de formação de correios de turismo terá a duração de um semestre, decorrendo obrigatoriamente entre Outubro e Março.
 
-###### Art. 17.º - 1. São disciplinas dos cursos Espanhol, Geografia (turística, económica e humana), Itinerários Turísticos, Formalidades Consulares e Aduaneiras, Reservas, Expediente e Prática de Condução de Grupos.
+Art. 17.º - 1. São disciplinas dos cursos Espanhol, Geografia (turística, económica e humana), Itinerários Turísticos, Formalidades Consulares e Aduaneiras, Reservas, Expediente e Prática de Condução de Grupos.
 
 2. A leccionação de Geografia e de Itinerários Turísticos abrangerá obrigatoriamente o Norte de África e a Europa Ocidental.
 
 #### SECÇÃO V — Cursos de formação de guias de arte
 
-###### Art. 18.º - 1. Cada curso de formação de guias de arte abrangerá uma fase de preparação geral e uma fase de especialização.
+Art. 18.º - 1. Cada curso de formação de guias de arte abrangerá uma fase de preparação geral e uma fase de especialização.
 
 2. A fase de preparação geral, que terá a duração de um semestre e decorrerá obrigatoriamente entre Outubro e Março, abrangerá a leccionação das disciplinas de Arquitectura, Escultura, Cerâmica e Azulejos, Museologia, Vidros e Vitrais, Ourivesaria e Joalharia, Técnica de Visita de Museus, Mobiliário, Coches, Tapeçaria, Paramentos e Afaias, Francês (vocabulário especializado) e Inglês (vocabulário especializado).
 
@@ -197,7 +212,7 @@ b) A 2.ª fase visará a especialização local e terá uma duração máxima de
 
 ##### SUBSECÇÃO I — Cursos de formação de transferistas
 
-###### Art. 19.º As disciplinas dos cursos de formação de transferistas obedecerão aos seguintes tempos semanais:
+Art. 19.º As disciplinas dos cursos de formação de transferistas obedecerão aos seguintes tempos semanais:
 
 ... Horas
 
@@ -219,7 +234,7 @@ Relações Públicas ... 1
 
 ##### SUBSECÇÃO II — Cursos de formação de guias regionais
 
-###### Art. 20.º As disciplinas da fase de preparação geral do curso de formação de guias regionais obedecerão aos seguintes tempos lectivos semanais:
+Art. 20.º As disciplinas da fase de preparação geral do curso de formação de guias regionais obedecerão aos seguintes tempos lectivos semanais:
 
 ... Horas
 
@@ -247,11 +262,11 @@ Relações Públicas ... 1
 
 Prática de Serviço de Guia ... 1
 
-###### Art. 21.º Os tempos lectivos semanais das disciplinas a incluir na fase de especialização de cada um dos cursos de formação de guias regionais serão atribuídos para cada curso em função da natureza e características da região abrangida.
+Art. 21.º Os tempos lectivos semanais das disciplinas a incluir na fase de especialização de cada um dos cursos de formação de guias regionais serão atribuídos para cada curso em função da natureza e características da região abrangida.
 
 ##### SUBSECÇÃO III — Cursos de formação de guias-intérpretes
 
-###### Art. 22.º - 1. As disciplinas do 1.º ano dos cursos de formação de guias-intérpretes a que se refere o artigo 3.º deste diploma obedecerão aos seguintes tempos semanais:
+Art. 22.º - 1. As disciplinas do 1.º ano dos cursos de formação de guias-intérpretes a que se refere o artigo 3.º deste diploma obedecerão aos seguintes tempos semanais:
 
 ... Horas
 
@@ -279,7 +294,7 @@ Informação Social e Política ... 1
 
 2. As disciplinas de Propedêutica Económica e de Introdução à Sociologia serão leccionadas no 1.º semestre e a de Informação Social e Política no 2.º semestre.
 
-###### Art. 23.º - 1. As disciplinas do 2.º ano dos cursos de formação de guias-intérpretes a que se refere o artigo 3.º deste diploma obedecerão aos seguintes tempos semanais:
+Art. 23.º - 1. As disciplinas do 2.º ano dos cursos de formação de guias-intérpretes a que se refere o artigo 3.º deste diploma obedecerão aos seguintes tempos semanais:
 
 ... Horas
 
@@ -307,9 +322,9 @@ Legislação ... 1
 
 2. A disciplina de Relações Públicas será leccionada no 1.º semestre e as de Francês (vocabulário especializado) e Legislação no 2.º semestre.
 
-###### Art. 24.º Para efeitos do disposto no n.º 2 do artigo 22.º e no n.º 2 do 23.º do presente diploma, o 1.º semestre irá desde o início do ano lectivo até ao dia 15 de Fevereiro e o 2.º semestre desde o dia 16 de Fevereiro até ao fim do ano lectivo.
+Art. 24.º Para efeitos do disposto no n.º 2 do artigo 22.º e no n.º 2 do 23.º do presente diploma, o 1.º semestre irá desde o início do ano lectivo até ao dia 15 de Fevereiro e o 2.º semestre desde o dia 16 de Fevereiro até ao fim do ano lectivo.
 
-###### Art. 25.º As disciplinas dos cursos de formação de guias-intérpretes a que se refere o artigo 4.º deste diploma obedecerão aos seguintes tempos semanais:
+Art. 25.º As disciplinas dos cursos de formação de guias-intérpretes a que se refere o artigo 4.º deste diploma obedecerão aos seguintes tempos semanais:
 
 ... Horas
 
@@ -337,7 +352,7 @@ Francês (vocabulário especializado) ... 1
 
 ##### SUBSECÇÃO IV — Cursos de formação de correios de turismo
 
-###### Art. 26.º As disciplinas dos cursos de formação de correios de turismo obedecerão aos seguintes tempos normais:
+Art. 26.º As disciplinas dos cursos de formação de correios de turismo obedecerão aos seguintes tempos normais:
 
 ... Horas
 
@@ -357,7 +372,7 @@ Prática de Condução de Grupos ... 2
 
 ##### SUBSECÇÃO V — Cursos de formação de guias de arte
 
-###### Art. 27.º As disciplinas da fase de preparação geral dos cursos de formação de guias de arte obedecerão aos seguintes tempos semanais:
+Art. 27.º As disciplinas da fase de preparação geral dos cursos de formação de guias de arte obedecerão aos seguintes tempos semanais:
 
 ... Horas
 
@@ -389,7 +404,7 @@ Inglês (vocabulário especializado) ... 1
 
 Alemão (vocabulário especializado) ... 1
 
-###### Art. 28.º - 1. Os candidatos que, nas condições estabelecidas neste diploma, obtenham o acesso ao estágio ficarão sob a orientação do director ou conservador-chefe do museu, palácio ou monumento em que o efectuarem, podendo aquele delegar essa competência no conservador ou conservador-adjunto respectivo.
+Art. 28.º - 1. Os candidatos que, nas condições estabelecidas neste diploma, obtenham o acesso ao estágio ficarão sob a orientação do director ou conservador-chefe do museu, palácio ou monumento em que o efectuarem, podendo aquele delegar essa competência no conservador ou conservador-adjunto respectivo.
 
 2. O estágio será remunerado.
 
@@ -397,7 +412,7 @@ Alemão (vocabulário especializado) ... 1
 
 #### SECÇÃO II — Visitas de estudo
 
-###### Art. 29.º - 1. Os cursos de formação de transferistas deverão incluir visitas de estudo a aeroportos, gares marítimas e ferroviárias, hotéis e agências de viagens, coordenadas com o plano das aulas.
+Art. 29.º - 1. Os cursos de formação de transferistas deverão incluir visitas de estudo a aeroportos, gares marítimas e ferroviárias, hotéis e agências de viagens, coordenadas com o plano das aulas.
 
 2. Os cursos de formação de guias regionais e de guias-intérpretes deverão incluir visitas de estudo a museus, palácios, monumentos nacionais e estabelecimentos hoteleiros, coordenadas com o plano das aulas.
 
@@ -405,79 +420,79 @@ Alemão (vocabulário especializado) ... 1
 
 #### SECÇÃO III — Dos exames
 
-###### Art. 30.º - 1. Os alunos dos cursos de formação de transferistas, guias regionais, correios de turismo e guias de arte, bem como os dos cursos de guias-intérpretes referidos no artigo 4.º deste diploma, que derem um número de faltas superior a um terço do número efectivo de aulas numa disciplina não serão admitidos ao respectivo exame.
+Art. 30.º - 1. Os alunos dos cursos de formação de transferistas, guias regionais, correios de turismo e guias de arte, bem como os dos cursos de guias-intérpretes referidos no artigo 4.º deste diploma, que derem um número de faltas superior a um terço do número efectivo de aulas numa disciplina não serão admitidos ao respectivo exame.
 
 2. Os alunos dos cursos de formação de guias-intérpretes referidos no artigo 3.º deste diploma que derem um número de faltas superior a um terço do número efectivo de aulas numa disciplina não serão admitidos ao respectivo exame no correspondente ano lectivo.
 
-###### Art. 31.º - 1. Os exames finais dos cursos de formação de transferistas efectuar-se-ão imediatamente a seguir ao termo do curso respectivo e abrangerão duas fases.
+Art. 31.º - 1. Os exames finais dos cursos de formação de transferistas efectuar-se-ão imediatamente a seguir ao termo do curso respectivo e abrangerão duas fases.
 
 2. A 1.ª fase constará de provas escritas de todas as disciplinas e das provas orais de Inglês e de Francês.
 
 3. A 2.ª fase será constituída por uma prova oral final, abrangendo a matéria de todas as disciplinas.
 
-###### Art. 32.º - 1. Os exames finais da fase de preparação geral dos cursos de formação de guias regionais efectuar-se-ão imediatamente a seguir ao termo das aulas e compreenderão as provas escritas de todas as disciplinas e as provas orais de idiomas.
+Art. 32.º - 1. Os exames finais da fase de preparação geral dos cursos de formação de guias regionais efectuar-se-ão imediatamente a seguir ao termo das aulas e compreenderão as provas escritas de todas as disciplinas e as provas orais de idiomas.
 
 2. Os alunos aprovados nos exames a que se refere o número anterior são admitidos à realização da fase de especialização local do curso respectivo.
 
 3. Os exames da fase de especialização local constarão de uma prova oral final, abrangendo a matéria de todas as disciplinas do curso.
 
-###### Art. 33.º - 1. Os exames do 1.º ano dos cursos de formação de guias-intérpretes a que se refere o artigo 3.º do presente diploma constarão de um prova escrita e de uma prova oral em cada disciplina, sem possibilidade de dispensa desta última.
+Art. 33.º - 1. Os exames do 1.º ano dos cursos de formação de guias-intérpretes a que se refere o artigo 3.º do presente diploma constarão de um prova escrita e de uma prova oral em cada disciplina, sem possibilidade de dispensa desta última.
 
 2. A aprovação no 1.º ano dos cursos dependerá da aprovação em todas as disciplinas.
 
 3. Os exames do 2.º ano dos cursos prescritos no n.º 1 deste artigo constarão de uma prova escrita para cada uma das disciplinas e de uma prova oral final abrangendo a matéria de todas as disciplinas do curso.
 
-###### Art. 34.º Os exames finais dos cursos de formação de guias-intérpretes a que se refere o artigo 4.º deste diploma constarão de uma prova escrita para cada uma das disciplinas e de uma prova oral final, abrangendo a matéria de todas elas.
+Art. 34.º Os exames finais dos cursos de formação de guias-intérpretes a que se refere o artigo 4.º deste diploma constarão de uma prova escrita para cada uma das disciplinas e de uma prova oral final, abrangendo a matéria de todas elas.
 
-###### Art. 35.º - 1 Os exames finais dos cursos de formação de correios de turismo efectuar-se-ão imediatamente a seguir ao termo do curso respectivo e abrangerão duas fases.
+Art. 35.º - 1 Os exames finais dos cursos de formação de correios de turismo efectuar-se-ão imediatamente a seguir ao termo do curso respectivo e abrangerão duas fases.
 
 2. A 1.ª fase constará das provas escritas de todas as disciplinas e da prova oral de Espanhol.
 
 3. A 2.ª fase será constituída por uma prova oral final, abrangendo a matéria de todas as disciplinas.
 
-###### Art. 36.º - 1. Os exames finais dos cursos de formação de guias de arte efectuar-se-ão imediatamente a seguir ao termo das aulas e abrangerão duas fases.
+Art. 36.º - 1. Os exames finais dos cursos de formação de guias de arte efectuar-se-ão imediatamente a seguir ao termo das aulas e abrangerão duas fases.
 
 2. A 1.ª fase constará das provas escritas de todas as disciplinas.
 
 3. A 2.ª fase será constituída por uma prova oral final, abrangendo a matéria de todas as disciplinas.
 
-###### Art. 37.º - 1. A aprovação na 1.ª fase dos exames dos cursos de formação de transferistas, bem como nos exames da fase de preparação geral dos cursos de formação de guias regionais, é deliberada pelo júri em função de uma associação global e relacionada das provas prestadas.
+Art. 37.º - 1. A aprovação na 1.ª fase dos exames dos cursos de formação de transferistas, bem como nos exames da fase de preparação geral dos cursos de formação de guias regionais, é deliberada pelo júri em função de uma associação global e relacionada das provas prestadas.
 
 2. As aprovações a que se refere o número anterior terão por efeito admitir o candidato à prova oral final ou à fase de especialização do curso respectivo.
 
 3. A admissão à prova oral final dos cursos de formação de guias-intérpretes, correios de turismo e guias de arte é deliberada pelo júri, ou delegação do júri, em função da informação individual das provas escritas e ponderada a média respectiva, não podendo em caso algum ser o aluno admitido com duas notas negativas.
 
-###### Art. 38.º A prova oral final de cada um dos cursos de formação de pessoal de informação turística será orientada no sentido de avaliar os conhecimentos dos examinandos numa perspectiva global e relacionada das matérias estudadas.
+Art. 38.º A prova oral final de cada um dos cursos de formação de pessoal de informação turística será orientada no sentido de avaliar os conhecimentos dos examinandos numa perspectiva global e relacionada das matérias estudadas.
 
-###### Art. 39.º - 1. A prova oral final dos cursos de formação do pessoal de informação turística decorrerá perante um júri em que estarão representados o Centro Nacional de Formação Turística e Hoteleira, o Sindicato Nacional dos Guias e Intérpretes de Portugal, o Grémio Nacional das Agências de Viagens e Turismo, a Repartição de Actividades Turísticas, a Direcção-Geral do Turismo e os professores das disciplinas.
+Art. 39.º - 1. A prova oral final dos cursos de formação do pessoal de informação turística decorrerá perante um júri em que estarão representados o Centro Nacional de Formação Turística e Hoteleira, o Sindicato Nacional dos Guias e Intérpretes de Portugal, o Grémio Nacional das Agências de Viagens e Turismo, a Repartição de Actividades Turísticas, a Direcção-Geral do Turismo e os professores das disciplinas.
 
 2. O júri será presidido pelo representante do Centro Nacional de Formação Turística e Hoteleira.
 
-###### Art. 40.º - 1. O júri, ou delegação do júri, perante o qual decorrerá a prova oral final, dará, em caso de aprovação, uma nota final, expressa em classificação numérica e nominal, que figurará no diploma.
+Art. 40.º - 1. O júri, ou delegação do júri, perante o qual decorrerá a prova oral final, dará, em caso de aprovação, uma nota final, expressa em classificação numérica e nominal, que figurará no diploma.
 
 2. A classificação nominal será de Suficiente, Bom ou Muito bom.
 
 3. Exceptua-se do disposto nos números anteriores a prova oral final dos cursos de formação de guias de arte, na qual a aprovação terá por mero efeito permitir o acesso do candidato ao estágio.
 
-###### Art. 41.º - 1. Os alunos admitidos aos exames finais das disciplinas do 1.º semestre de cada ano lectivo dos cursos de formação de guias-intérpretes a que se refere o artigo 3.º do presente diploma poderão efectuá-los na 1.ª quinzena de Março.
+Art. 41.º - 1. Os alunos admitidos aos exames finais das disciplinas do 1.º semestre de cada ano lectivo dos cursos de formação de guias-intérpretes a que se refere o artigo 3.º do presente diploma poderão efectuá-los na 1.ª quinzena de Março.
 
 2. Os alunos que usem da faculdade prevista no número anterior só poderão repetir tais exames em 2.ª época.
 
-###### Art. 42.º - 1. Nos cursos previstos no artigo anterior haverá 2.ª época de exames, podendo cada aluno efectuar então o máximo de três disciplinas anuais.
+Art. 42.º - 1. Nos cursos previstos no artigo anterior haverá 2.ª época de exames, podendo cada aluno efectuar então o máximo de três disciplinas anuais.
 
 2. Para os efeitos do número anterior, duas disciplinas semestrais equivalerão a uma disciplina anual.
 
-###### Art. 43.º - 1. Os exames finais da 1.ª época dos cursos a que se referem os artigos 41.º e 42.º terão início em 15 de Junho.
+Art. 43.º - 1. Os exames finais da 1.ª época dos cursos a que se referem os artigos 41.º e 42.º terão início em 15 de Junho.
 
 2. Os exames finais da 2.ª época dos cursos a que se refere o número anterior terão início a partir de 20 de Setembro.
 
-###### Art. 44.º - 1. Os exames finais dos cursos de formação de guias-intérpretes a que se refere o artigo 4.º do presente diploma terão início em 1 de Março.
+Art. 44.º - 1. Os exames finais dos cursos de formação de guias-intérpretes a que se refere o artigo 4.º do presente diploma terão início em 1 de Março.
 
 2. Nos cursos referidos no número anterior não haverá 2.ª época de exames.
 
 ### CAPÍTULO IV — Condições de concessão de diplomas
 
-###### Art. 45.º - 1. Serão concedidos diplomas aos alunos dos cursos de formação de transferistas, guias regionais, guias-intérpretes e correios de turismo que obtenham aprovação na prova oral final respectiva.
+Art. 45.º - 1. Serão concedidos diplomas aos alunos dos cursos de formação de transferistas, guias regionais, guias-intérpretes e correios de turismo que obtenham aprovação na prova oral final respectiva.
 
 2. Serão concedidos diplomas aos alunos dos cursos de formação de guias de arte que hajam obtido informação favorável da entidade orientadora do estágio.
 
@@ -485,6 +500,6 @@ Alemão (vocabulário especializado) ... 1
 
 ### CAPÍTULO V — Disposição final
 
-###### Art. 46.º As omissões e dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho do Secretário de Estado da Informação e Turismo, ouvidos os serviços competentes do Ministério da Educação Nacional.
+Art. 46.º As omissões e dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho do Secretário de Estado da Informação e Turismo, ouvidos os serviços competentes do Ministério da Educação Nacional.
 
-**O Ministro da Educação Nacional, José Veiga Simão. - O Secretário de Estado da Informação e Turismo, César Henrique Moreira Baptista.**
+O Ministro da Educação Nacional, José Veiga Simão. - O Secretário de Estado da Informação e Turismo, César Henrique Moreira Baptista.

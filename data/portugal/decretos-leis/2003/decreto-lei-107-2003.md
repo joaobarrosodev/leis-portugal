@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/107/2003/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2003-553421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e76eb99b3f9db2db6bd207195d7cb3a8bff1fb8c06f0254b14bb9ecffa57949
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a201281f7b145846e24b550962b0d366a980805523ab1c235879c8ea3cf549d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,7 +66,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Comercial
+- CMVM
 - Código das Sociedades Comerciais
 - Código do Registo Comercial
 - Código dos Valores Mobiliários
@@ -76,13 +76,69 @@ subjects:
 - Mercado de Valores
 - Obrigações
 - OPV
-- CMVM
 - Registo Comercial
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:176071:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:538423:por
+  label: "Alterado o art. 69º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez , na redacção do presente\
+    \ diploma, pelo DEC LEI.53/2004.18.03.2004.MJ, DR.IS-A [66] de 18.03.2004, a partir da data de entrada em vigor estabelecida\
+    \ no art. 13º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2004-538423
+  date: '2004-03-18'
+- type: amended_by
+  target: pt:dre:209605:por
+  label: "Alterados os arts. 227º e 229º do Código dos Valores Mobiliários, aprovado pelo Dec Lei 486/99 de 13-Nov, com a\
+    \ redacção conferida pelo presente diploma, pelo DEC LEI.66/2004.24.03.2004.MF, DR.IS-A [71] de 24.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-2004-209605
+  date: '2004-03-24'
+- type: amended_by
+  target: pt:dre:211031:por
+  label: "Alterado o art. 3º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.70/2004.25.03.2004.MF, DR.IS-A [72] de 25.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2004-211031
+  date: '2004-03-25'
+- type: amended_by
+  target: pt:dre:457217:por
+  label: "Alterados os art.s 3º e 69º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção\
+    \ do presente diploma, pelo DEC LEI.2/2005.04.01.2005.MJ, DR.IS-A [2] de 04.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2005-457217
+  date: '2005-01-04'
+- type: amended_by
+  target: pt:dre:667337:por
+  label: "Alterados os arts. 118º, 227º e 229º, do Código dos Valores Mobiliários, aprovado pelo Dec Lei 486/99 de 13-Nov,\
+    \ com a redacção conferida pelo presente diploma, pelo DEC LEI.52/2006.15.03.2006.MFAP, DR.IS-A [53] de 15.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2006-667337
+  date: '2006-03-15'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: "Alterados os arts. 3º e 69º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86 de 03-Dez, na redacção\
+    \ do presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl] de 29.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:522813:por
+  label: "Alterado o art. 3º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.8/2007.17.01.2007.MJ, DR.IS [12] de 17.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2007-522813
+  date: '2007-01-17'
+- type: amended_by
+  target: pt:dre:241222:por
+  label: "Alterados os arts. 227º e 229º, revogados os nºs 6, 7 e 8 do art. 229º do Código dos Valores Mobiliários aprovado\
+    \ pelo Dec Lei 486/99 de 13-Nov, na redacção do presente diploma, republicado pelo DEC LEI.357-A/2007.31.10.2007.MFAP,\
+    \ DR.IS [210-2ºSupl] de 31.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/357-a-2007-241222
+  date: '2007-10-31'
+- type: amended_by
+  target: pt:dre:608246:por
+  label: "Alterado o art. 3º do Código de Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pela LEI.19/2009.12.05.2009.AR, DR.IS [91] de 12.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/19-2009-608246
+  date: '2009-05-12'
 - type: cites
   target: celex:31980L0390
   label: null
@@ -91,16 +147,23 @@ relationships:
   target: celex:32001L0034
   label: null
   source: http://data.europa.eu/eli/dir/2001/34/oj
+- type: corrected_by
+  target: pt:dre:227273:por
+  label: "Rectificado o Decreto-Lei n.º 357-A/2007, de 31 de Outubro, que alterou o Código dos Valores Mobiliários, aprovado\
+    \ pelo Decreto-Lei n.º 486/99, de 13 de Novembro, na redacção do presente diploma, e respectiva republicação, (acrescentando\
+    \ o artigo 179.º aos artigos alterados), pela DECL-RECT.117-A/2007.28.12.2007.PCM, DR.IS [250]3ºSupl de 28.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/117-a-2007-227273
+  date: '2007-12-28'
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:00Z'
   warnings: []
   errors: []
 ---
@@ -199,7 +262,9 @@ u) ...
 
 v) ...
 
-###### Artigo 69.º — Factos a averbar
+Artigo 69.º
+
+Factos a averbar
 
 1 - ...
 
@@ -255,7 +320,9 @@ Relatórios e contas especiais
 
 2 - Em oferta pública de obrigações apenas se aplica o disposto no número anterior se nas contas anuais apresentadas para instrução do pedido de registo o auditor tiver concluído no sentido de impossibilidade de emissão de opinião, ou emitido opinião adversa ou com reservas.
 
-###### Artigo 118.º — Decisão
+Artigo 118.º
+
+Decisão
 
 1 - ...
 
@@ -267,7 +334,9 @@ Relatórios e contas especiais
 
 5 - A decisão e a divulgação do registo de oferta pública de subscrição de obrigações nos termos do número anterior substituem, para todos os efeitos previstos na lei, o registo comercial da emissão de obrigações, bem como a respectiva publicação no Diário da República.
 
-###### Artigo 227.º — Requisitos gerais
+Artigo 227.º
+
+Requisitos gerais
 
 1 - ...
 
@@ -281,7 +350,9 @@ Relatórios e contas especiais
 
 6 - Se à data previsível para a admissão já tiverem decorrido mais de nove meses sobre o termo do último exercício a que se reportam as contas anuais apresentadas, a entidade que não se encontre obrigada a publicar informação semestral, ou que não haja cumprido essa obrigação, deve apresentar relatórios e contas especiais, organizados nos termos prescritos para o relatório e contas anuais e reportados a data não anterior ao fim do 1.º semestre do exercício em curso.
 
-###### Artigo 229.º — Admissão de obrigações à negociação
+Artigo 229.º
+
+Admissão de obrigações à negociação
 
 1 - ...
 
@@ -301,12 +372,12 @@ Relatórios e contas especiais
 
 Visto e aprovado em Conselho de Ministros de 24 de Abril de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona.
 
-**Promulgado em 20 de Maio de 2003.**
+Promulgado em 20 de Maio de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Maio de 2003.**
+Referendado em 23 de Maio de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

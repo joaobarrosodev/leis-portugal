@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/01/026a00/05140519.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/34/1997/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1997-571072
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:54:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 910888a9359479f6632bb63a2bc68660dc027f4730f94e568fd72925d563b62d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f48484ef23d801127453e39b092458a596d7db9753b06e6280c08980556e0570
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:54:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Extinção de Lugares
 - Extinção de Serviços
-- Secretaria Geral
-- Instituto da Comunicação Social
 - GAI
+- Instituto da Comunicação Social
 - Ministério da Justiça
 - Orgânica
+- Pessoal Dirigente
 - Presidência do Conselho de Ministros
+- Secretaria Geral
 - Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:521255:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:158042:por
+  label: "Alterados os arts. 3º, 7º, 9º, 13º e 17º pelo DEC LEI.65/99.1999.03.11.PCM, DR.IS-A [59]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-1999-158042
+  date: '1999-03-11'
+- type: amended_by
+  target: pt:dre:642555:por
+  label: "Determinada a transição para a dependência do Ministério da Cultura pelo DEC LEI.247/2001.2001.09.18.PCM, DR.IS-A\
+    \ [217]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-2001-642555
+  date: '2001-09-18'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinado, que o Instituto cuja orgânica foi aprovada no presente diploma, fique na dependência do Ministro dos\
+    \ Assuntos Parlamentares, sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e ao Ministro de Estado\
+    \ e das Finanças, pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:545641:por
+  label: "Determinada a reestruturação do Instituto, cuja orgânica foi aprovada no presente diploma, passando a integrar a\
+    \ administração directa do Estado, com a designação de Gabinete para os Meios de Comunicação Social pelo DEC LEI.202/2006.27.10.2006.PCM,\
+    \ DR.IS [208] de 27.10.2006, nos termos dos seus artigos 32.º e 33.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2006-545641
+  date: '2006-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/147/1993/05/03/p/dre
   label: null
@@ -88,16 +113,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/48/1992/04/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/48/1992/04/07/p/dre
+- type: cites
+  target: pt:dre:198546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300009:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:261285:por
+  label: "Rectificado pela DECL-RECT.4-C/97.1997.01.31.PCM DR.IS-A [26]2ºsuplD\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-c-1997-261285
+  date: '1997-01-31'
+- type: repealed_by
+  target: pt:dre:521255:por
+  label: "Revogado, a partir de 01.06.2007, e determinado que o GMCS suceda nas atribuições do Instituto da Comunicação Social\
+    \ (reestruturado nos termos da al. b) do nº 4 do art. 29º do Dec Lei 202/2006 de 27-Out) cuja orgânica foi aprovada pelo\
+    \ diploma ora revogado, pelo DEC LEI.165/2007.03.05.2007.PCM, DR.IS [85] de 03.05.2007\02007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/165-2007-521255
+  date: '2007-05-03'
 article_structure:
   article_count: 22
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:54:02Z'
   warnings: []
   errors: []
 ---
@@ -562,16 +611,16 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1996. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - José Manuel de Matos Fernandes - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 21 de Janeiro de 1997.**
+Promulgado em 21 de Janeiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Janeiro de 1997.**
+Referendado em 23 de Janeiro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO A QUE SE REFERE O N.º 1 DO ARTIGO 17.º
+ANEXO A QUE SE REFERE O N.º 1 DO ARTIGO 17.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/026a00/05140519.pdf))](https://files.diariodarepublica.pt/1s/1997/01/026a00/05140519.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/026a00/05140519.pdf)

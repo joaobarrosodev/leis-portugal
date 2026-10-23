@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/255/2001/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2001-611887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:27:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5792090326daa6cf086e6d4ae4af53764176e6edad981855e3928e05c4297ea2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf632671e98f9d4ed925b3162f6a8e4a4561695f80b100651e4ab307d4968973
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:27:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Financiamento
-- Pescador
 - Compensação Remuneratória
 - Definição de Competências
+- Financiamento
 - Fundo de Compensação Salarial
 - Fundo de Compensação Salarial dos Profissionais da Pesca
 - Pesca
+- Pescador
+- Região Autónoma
 - Secretário de Estado das Pescas
 relationships:
 - type: amended_by
   target: pt:dre:25344003:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:209634:por
+  label: "Alterado o nº 2 do art. 5º do Dec Lei 311/99 de 10-Ago, com a redacção do presente diploma, pela LEI.54/2004.03.12.2004.AR,\
+    \ DR.IS-A [283] de 03.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/54-2004-209634
+  date: '2004-12-03'
+- type: amended_by
+  target: pt:dre:541226:por
+  label: "Alterados os artigos 3.º, 4.º e 5.º do Decreto-Lei n.º 311/99, de 10 de Agosto, com a redacção conferida no presente\
+    \ diploma, pelo DEC LEI.197/2006.11.10.2006.MADRP, DR.IS [196] de 11.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-2006-541226
+  date: '2006-10-11'
+- type: amended_by
+  target: pt:dre:613967:por
+  label: "Alterados os arts. 4º e 5º do Dec Lei 311/99, de 10-Ago, na redacção do presente diploma, pelo DEC LEI.46/2010.07.05.2010.MADRP,\
+    \ DR.IS [89] de 07.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-2010-613967
+  date: '2010-05-07'
+- type: amended_by
+  target: pt:dre:25344003:por
+  label: "Alterados os arts. 4.º e 5.º do Dec Lei 311/99 de 10-ago, na redação do presente diploma, pelo DEC LEI.61/2014.23.04.2014.MAGM,\
+    \ DR.IS [79] de 23.04.2014 que procede à sua republicação em anexo \0xo \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2014-25344003
+  date: '2014-04-23'
 - type: cites
   target: celex:31999R2792
   label: null
@@ -88,15 +112,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/311/1999/08/10/p/dre
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:27:15Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +159,9 @@ a) Armadores os proprietários das embarcações de pesca cujos rendimentos mens
 
 b) Pescadores os que exerçam a sua actividade em regime de contrato individual de trabalho.
 
-###### Artigo 4.º — Âmbito material
+Artigo 4.º
+
+Âmbito material
 
 1 - ...
 
@@ -151,7 +177,9 @@ a) No caso dos armadores - mediante emissão de declaração por parte da DOCAPE
 
 b) No caso dos pescadores - mediante emissão por parte do armador respectivo de declaração de que constem a indicação do período de ausência e a razão para o não pagamento.
 
-###### Artigo 5.º — Montante da compensação e período máximo
+Artigo 5.º
+
+Montante da compensação e período máximo
 
 1 - ...
 
@@ -159,7 +187,9 @@ b) No caso dos pescadores - mediante emissão por parte do armador respectivo de
 
 3 - O pagamento da compensação salarial só é devido a partir do 9.º dia de imobilização total das embarcações.
 
-###### Artigo 12.º — Receitas
+Artigo 12.º
+
+Receitas
 
 1 - Constituem receitas do Fundo:
 
@@ -181,7 +211,9 @@ g) [Actual alínea f).]
 
 3 - As Regiões Autónomas definirão quais as receitas do Fundo para o pagamento dos apoios no âmbito das embarcações de pesca registadas em cada uma das Regiões.
 
-###### Artigo 15.º — Aplicações às Regiões Autónomas
+Artigo 15.º
+
+Aplicações às Regiões Autónomas
 
 1 - O regime previsto neste diploma é aplicável às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes dos respectivos estatutos em matéria de afectação de receitas próprias e estrutura da administração regional, a introduzir por diploma legislativo próprio.
 
@@ -193,12 +225,12 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 2002.
 
 Visto e aprovado em Conselho de Ministros de 2 de Agosto de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - José Carlos das Dores Zorrinho - Luís Manuel Capoulas Santos - António Fernando Correia de Campos - Paulo José Fernandes Pedroso.
 
-**Promulgado em 6 de Setembro de 2001.**
+Promulgado em 6 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Setembro de 2001.**
+Referendado em 13 de Setembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

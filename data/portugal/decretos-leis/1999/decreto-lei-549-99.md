@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/289a00/88498855.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/549/1999/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1999-633296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:15:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72ffd4e0e471a79a92aa6dda118800b61d791790895dd3846f7a48d9fdaa0699
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7617699557052a612a7babc8e7eae7de1887100578aa8c117bb666dbd951551
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:15:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Inspecção Geral do Ambiente
 - Integração de Trabalhadores
 - Ministério do Ambiente
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:569549:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério do Ambiente e do Ordenamento do Território da Inspecção-Geral do Ambiente\
+    \ (integrada no agora extinto Ministério das Cidades, Ordenamento do Território e Ambiente), pelo DEC LEI.215-A/2004.03.09.2004.PCM,\
+    \ DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:584398:por
+  label: "Determinado que a Inspecção-Geral do Ambiente, cuja orgânica consta do presente diploma, passe a denominar-se Inspecção-Geral\
+    \ do Ambiente e do Ordenamento do Território, e que todas as referências à Inspecção-Geral do Ambiente constantes de lei,\
+    \ acto ou contrato devem ter-se por feitas à Inspecção-Geral do Ambiente e do Ordenamento do Território, pelo DEC LEI.53/2005.25.02.2005.MAOT,\
+    \ DR.IS-A [53] de 25.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2005-584398
+  date: '2005-02-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/1993/05/24/p/dre
   label: null
@@ -92,16 +107,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:283523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671932:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:569549:por
+  label: "Revogado, a partir de 01.09.2007, pelo DEC LEI.276-B/2007.31.07.2007.MAOTDR, DR.IS [146]3ºSupl de 31.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/276-b-2007-569549
+  date: '2007-07-31'
 article_structure:
   article_count: 44
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:15:09Z'
   warnings: []
   errors: []
 ---
@@ -396,7 +432,9 @@ a) A Divisão de Serviços Administrativos;
 
 b) A Divisão de Serviços Financeiros.
 
-###### Artigo 29.º — Divisão de Serviços Administrativos
+###### Artigo 29.º
+
+##### Divisão de Serviços Administrativos
 
 1 - À Divisão de Serviços Administrativos compete:
 
@@ -462,7 +500,9 @@ c) Apoiar tecnicamente a gestão dos sistemas informáticos instalados.
 
 9 - O Sector de Sistemas de Informação é coordenado por um técnico superior designado pelo inspector-geral, que e enquanto no desempenho desta função será remunerado pelo índice correspondente ao da sua categoria e escalão, majorado de um impulso de 55 pontos, até ao limite de 900.
 
-###### Artigo 30.º — Divisão de Serviços Financeiros
+###### Artigo 30.º
+
+##### Divisão de Serviços Financeiros
 
 1 - À Divisão de Serviços Financeiros compete:
 
@@ -632,15 +672,15 @@ d) Quaisquer outras receitas que lhe sejam legalmente atribuídas.
 
 Visto e aprovado em Conselho de Ministros de 1 de Outubro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 19 de Novembro de 1999.**
+Promulgado em 19 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Novembro de 1999.**
+Referendado em 25 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA
 

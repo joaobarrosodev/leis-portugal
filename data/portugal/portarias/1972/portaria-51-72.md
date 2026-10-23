@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/51-1972-398356
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 248f0751edfdba7d1a0106ff8379b3755c44d4051833490d4a296bfa3847f2a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e70fd9e718ec878d22a2b9b97927ed4a3d18bf8e2103eed4684ce7dba21d078
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:632249:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:08Z'
   warnings: []
   errors: []
 ---
@@ -89,4 +93,4 @@ Sob proposta do conselho administrativo do Fundo de Garantia de Despesas de Emer
 
 Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Previdência Social, ao abrigo do disposto no n.º 2 do artigo 43.º do Código das Custas Judiciais do Trabalho, com a redacção dada pelo artigo 1.º do [Decreto-Lei n.º 562/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/562-1971-632249), de 17 de Dezembro, fixar em 5 por cento a percentagem prevista no n.º 1 do já citado artigo 43.º
 
-**O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.**
+O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.

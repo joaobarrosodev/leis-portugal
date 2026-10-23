@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/4/1993/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-1993-600368
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T08:07:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70cda7ae6c688cbbf60425da1c9792f91150291bdfc68aec08a8ef6d4edf9c06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b004be3f264b9eafd6123b01dc4118a1b3bc271fb06ee8a82ff9fb711066893
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:07:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,29 @@ relationships:
   target: pt:dre:233153:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:579351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613018:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:233153:por
+  label: "Revogado pela PORT.578/2005.06.07.2005.MEI, DR.IS-B [128] de 06.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/578-2005-233153
+  date: '2005-07-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:07:16Z'
   warnings: []
   errors: []
 ---

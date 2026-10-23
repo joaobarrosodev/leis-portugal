@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/369-1975-335716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T04:45:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc9d0cac6081e21492851f83a905b59a2d01fe682519ab1be3e6127272a3131a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0215ed9e2eb719899d9cd20a331e1efb5f02d6f3edd8b17c6c9099f397cd16e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:45:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Atividade Industrial
+- Condicionamento Industrial
+- Diploma Legal
+- Estabelecimento Industrial
+- Indústria
+- Licenciamento
+- Macau
+- Timor.Colónia Portuguesa
+relationships:
+- type: cites
+  target: pt:dre:261929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686584:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:45:00Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +110,11 @@ Nos termos do § 2.º do artigo 136.º da Constituição Política:
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado dos Assuntos Económicos, tornar extensivos a Macau e a Timor os seguintes artigos do [Decreto-Lei n.º 533/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1974-472719), de 10 de Outubro:
 
-###### Artigo 1.º São abolidos os regimes de condicionamento nacional e de autorização prévia discricionária criados, respectivamente, pelos Decretos-Leis n.os 46666, de 24 de Novembro de 1965, e 75/74, de 28 de Fevereiro.
+Artigo 1.º São abolidos os regimes de condicionamento nacional e de autorização prévia discricionária criados, respectivamente, pelos Decretos-Leis n.os 46666, de 24 de Novembro de 1965, e 75/74, de 28 de Fevereiro.
 
 ...
 
-###### Art. 45.º São revogados os Decretos-Leis n.os 46666, de 24 de Novembro de 1965, [481/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/481-1972-686584), de 28 de Novembro, e [75/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1974-261929), de 28 de Fevereiro.
+Art. 45.º São revogados os Decretos-Leis n.os 46666, de 24 de Novembro de 1965, [481/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/481-1972-686584), de 28 de Novembro, e [75/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1974-261929), de 28 de Fevereiro.
 
 Ministério da Coordenação Interterritorial, 30 de Maio de 1975. - O Secretário de Estado dos Assuntos Económicos, Fernando de Castro Fontes.
 

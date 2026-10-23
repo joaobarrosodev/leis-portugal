@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/17/2011/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2011-280965
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1aab1263a3a36c4c2443696791be45f00ecf1b3ea391f627b0fbcbfd2a438e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8eda633757bce3ada84d641814a303d9857eb89b57623f0789802813f2b70a1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
 - Cartão de Identificação
 - Deficiente Motor
 - Definição de Competências
-- Instituto da Mobilidade e dos Transportes Terrestres
 - Documento Eletrónico
-- Programa Simplex
 - Estacionamento
+- Instituto da Mobilidade e dos Transportes Terrestres
+- Modernização Administrativa
+- Programa Simplex
 - Proteção ao Deficiente
 relationships:
 - type: amended_by
   target: pt:dre:150757538:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:108265123:por
+  label: Alterado o art. 6.º do Dec Lei 307/2003 de 10-dez, na redação do presente diploma, pelo(a) Decreto-Lei n.º 128/2017
+    - Diário da República n.º 194/2017, Série I de 2017-10-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-2017-108265123
+  date: '2017-10-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/202/1996/10/23/p/dre
   label: null
@@ -92,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/307/2003/12/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/307/2003/12/10/p/dre
+- type: cites
+  target: pt:dre:226809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491686:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:51Z'
   warnings: []
   errors: []
 ---
@@ -138,13 +156,17 @@ Os artigos 3.º, 5.º, 6.º e 7.º do [Decreto-Lei n.º 307/2003](https://diario
 
 Para efeitos do presente diploma, considera-se pessoa com multideficiência profunda qualquer pessoa que, além de deficiência física ou motora, tenha cumulativamente deficiência sensorial, intelectual ou visual de carácter permanente, de que resulte um grau de incapacidade igual ou superior a 90 %.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Compete ao Instituto de Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), através dos seus serviços desconcentrados, emitir o cartão de estacionamento para pessoas com deficiência.
 
 2 - O IMTT, I. P., deve assegurar o registo dos cartões que emite.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Para efeitos do disposto no artigo anterior, pode o interessado, ou quem o represente, efectuar o pedido por meio electrónico disponível para o efeito ou presencialmente, em qualquer posto de atendimento do IMTT, I. P.
 
@@ -152,7 +174,9 @@ Para efeitos do presente diploma, considera-se pessoa com multideficiência prof
 
 3 - ...
 
-###### Artigo 7.º — Validade e revalidação do cartão
+Artigo 7.º
+
+Validade e revalidação do cartão
 
 1 - O cartão de estacionamento é válido pelo período de 10 anos, salvo se o atestado médico multiuso determinar a reavaliação da incapacidade, caso em que o período de validade corresponde à data estabelecida para a reavaliação.
 
@@ -164,12 +188,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 2 de Dezembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Emanuel Augusto dos Santos - Rui Carlos Pereira - António Augusto da Ascenção Mendonça - Valter Victorino Lemos - Ana Maria Teodoro Jorge.
 
-**Promulgado em 6 de Janeiro de 2011.**
+Promulgado em 6 de Janeiro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de Janeiro de 2011.**
+Referendado em 10 de Janeiro de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

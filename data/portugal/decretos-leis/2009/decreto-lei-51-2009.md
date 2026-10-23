@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/51/2009/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2009-604625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe1662d5bc65d08da44499c522f64718193acdd90d301e1b127990e680a45283
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d22a12ac05b1522ccfe605e35f6e0f8152e1c718d3827b626c3937987d5aec1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
 - Bolsa de Emprego
-- Educação Especial
 - Colocação de Professores
 - Concurso
 - Contratação de Docentes
+- Contrato de Trabalho
 - Destacamento de Pessoal
 - Direcção Geral dos Recursos Humanos da Educação
+- Educação Especial
 - Educador de Infância
-- Recrutamento de Pessoal
-- Estabelecimento de Ensino
-- Pessoal Docente
-- Qualificação Profissional
 - Ensino Básico
-- Quadro de Pessoal
-- Contrato de Trabalho
-- Regime Jurídico
+- Estabelecimento de Ensino
 - Horário de Trabalho
 - Mobilidade de Pessoal
+- Pessoal Docente
+- Quadro de Pessoal
+- Qualificação Profissional
+- Recrutamento de Pessoal
+- Recurso
+- Regime Jurídico
 - ZONA Pedagógica
 relationships:
 - type: amended_by
@@ -132,16 +132,122 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:151527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681638:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178492:por
+  label: "Revogado o Dec Lei 20/2006, de 31-jan, na redação dos Dec Lei 35/2007, de 15-fev, do presente diploma e 270/2009,\
+    \ de 30-set, pelo DEC LEI.132/2012.27.06.2012.MECI, DR.IS [123] de 27.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-2012-178492
+  date: '2012-06-27'
 article_structure:
-  article_count: 127
+  article_count: 88
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:50Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +298,9 @@ Os artigos 1.º, 2.º, 3.º, 5.º, 8.º, 10.º, 12.º, 13.º, 14.º, 16.º, 19.�
 
 3 - (Revogado.)
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O presente decreto-lei é aplicável aos docentes com a categoria de professor com nomeação definitiva ou provisória e aos portadores de qualificação profissional para a docência.
 
@@ -200,7 +308,9 @@ Os artigos 1.º, 2.º, 3.º, 5.º, 8.º, 10.º, 12.º, 13.º, 14.º, 16.º, 19.�
 
 3 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -212,7 +322,9 @@ b) ...
 
 c) Ensino artístico especializado.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -236,7 +348,9 @@ c) Concurso para a satisfação de necessidades transitórias.
 
 8 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, a abertura de concursos de pessoal docente obedece a uma periodicidade quadrienal.
 
@@ -264,7 +378,9 @@ d) Da bolsa de recrutamento.
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Os candidatos ao concurso interno não podem ser opositores, em simultâneo, ao grupo de recrutamento em que se encontram vinculados e à transição de grupo de recrutamento.
 
@@ -272,7 +388,9 @@ d) Da bolsa de recrutamento.
 
 3 - Os candidatos ao concurso externo apenas podem ser opositores a dois grupos de recrutamento.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Os candidatos manifestam as suas preferências, por ordem decrescente de prioridade, por agrupamentos de escolas, por escolas não agrupadas, por concelhos e pelo âmbito geográfico dos quadros de zona pedagógica.
 
@@ -310,7 +428,9 @@ a) Contratos a celebrar durante o 1.º período lectivo, com termo a 31 de Agost
 
 b) Contratos a celebrar durante o 1.º período lectivo, com termo a 31 de Agosto e contratos de duração temporária.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -346,7 +466,9 @@ c) ...
 
 d) ...
 
-###### Artigo 14.º — Graduação dos candidatos
+Artigo 14.º
+
+Graduação dos candidatos
 
 1 - A graduação dos candidatos detentores de qualificação profissional para a docência é determinada pelo resultado da soma dos valores obtidos, nos termos das alíneas seguintes:
 
@@ -372,7 +494,9 @@ e) [Anterior alínea d).]
 
 3 - A graduação dos candidatos para a leccionação na educação especial detentores de qualificação profissional para a docência é determinada de acordo com o disposto nas alíneas a), b) e c) do n.º 1 e no n.º 2.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -392,7 +516,9 @@ e) Candidatos com maior idade;
 
 f) Candidatos com o número de candidatura mais baixo.
 
-###### Artigo 19.º — Graduação
+Artigo 19.º
+
+Graduação
 
 1 - ...
 
@@ -402,7 +528,9 @@ f) Candidatos com o número de candidatura mais baixo.
 
 4 - Das listas definitivas de colocação, de ordenação e de exclusão cabe recurso hierárquico, elaborado em formulário electrónico, sem efeito suspensivo, a interpor, no prazo de cinco dias úteis, para o membro do Governo competente.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Os candidatos colocados em quadro de agrupamento de escolas ou escola não agrupada, na sequência do concurso interno ou externo, devem declarar aceitar a colocação, no prazo de oito dias úteis, junto do director do agrupamento de escolas ou escola não agrupada onde foram colocados, mediante declaração datada e assinada com o seguinte teor:
 
@@ -416,7 +544,9 @@ f) Candidatos com o número de candidatura mais baixo.
 
 5 - Os candidatos colocados por destacamento devem declarar aceitar a colocação junto do director do agrupamento de escolas ou escola não agrupada onde foram colocados, no prazo de quarenta e oito horas, correspondentes aos dois primeiros dias úteis seguintes ao da publicitação da respectiva lista.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Os candidatos devem apresentar-se no agrupamento de escolas ou escola não agrupada onde foram colocados no 1.º dia útil do mês de Setembro ou, quando colocados após essa data, no prazo de quarenta e oito horas após a respectiva colocação.
 
@@ -426,7 +556,9 @@ f) Candidatos com o número de candidatura mais baixo.
 
 4 - Os docentes dos quadros integrados na bolsa de recrutamento sem serviço atribuído devem apresentar-se no 1.º dia útil do mês de Setembro no último agrupamento de escolas ou escola não agrupada onde exerceram funções.
 
-###### Artigo 24.º — Quadros
+Artigo 24.º
+
+Quadros
 
 1 - Por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da educação, é fixada a dotação dos lugares dos quadros de agrupamento de escolas ou de escola não agrupada.
 
@@ -438,7 +570,9 @@ f) Candidatos com o número de candidatura mais baixo.
 
 5 - (Revogado.)
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Sempre que uma vaga de um lugar de quadro seja libertada por um candidato, é automaticamente colocada a concurso para ser preenchida pelo docente melhor posicionado na lista de ordenação, de acordo com a sua prioridade e manifestação de preferências.
 
@@ -450,11 +584,15 @@ f) Candidatos com o número de candidatura mais baixo.
 
 5 - De acordo com o disposto no n.º 2, cada candidato pode indicar, de entre as suas preferências, os agrupamentos de escolas ou escolas não agrupadas em que pretende ser colocado, independentemente de neles haver lugares vagos à data da abertura do concurso.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 Para efeitos de concurso interno, são considerados todos os lugares vagos e os resultantes da recuperação automática dos lugares dos quadros de agrupamento de escolas ou escola não agrupada, sem prejuízo do disposto no n.º 3 do artigo 27.º
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - Podem ser opositores ao concurso interno os docentes com a categoria de professor, com nomeação definitiva em lugar dos quadros de agrupamento de escolas ou de escola não agrupada que venham a ser objecto de suspensão, extinção, fusão ou reestruturação.
 
@@ -466,11 +604,15 @@ b) Transitar de grupo de recrutamento.
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 Para efeitos de concurso externo, são considerados todos os lugares vagos dos quadros dos agrupamentos de escolas ou escolas não agrupadas não preenchidos pelo concurso interno.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Podem ser opositores ao concurso externo os candidatos referidos no n.º 5 do artigo 5.º
 
@@ -478,7 +620,9 @@ Para efeitos de concurso externo, são considerados todos os lugares vagos dos q
 
 3 - O ingresso nos quadros é efectuado nos termos do artigo 20.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro.
 
-###### Artigo 38.º — Necessidades transitórias
+Artigo 38.º
+
+Necessidades transitórias
 
 1 - Consideram-se necessidades transitórias as que não foram satisfeitas pelos concursos interno e externo, as que resultarem das variações anuais de serviço docente e as correspondentes à recuperação automática dos horários do destacamento por condições específicas e do destacamento por aproximação à residência familiar.
 
@@ -496,7 +640,9 @@ Para efeitos de concurso externo, são considerados todos os lugares vagos dos q
 
 8 - (Revogado.)
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 O destacamento por ausência da componente lectiva destina-se aos docentes que se encontrem numa das seguintes situações:
 
@@ -506,7 +652,9 @@ b) Providos em lugar dos quadros de agrupamento de escolas ou de escola não agr
 
 c) Providos em lugar dos quadros de zona pedagógica não colocados no concurso interno ou que nos anos intercalares do concurso não tenham serviço lectivo atribuído.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Para efeitos de colocação por ausência da componente lectiva, podem os docentes indicar as suas preferências de acordo com o disposto no artigo 12.º
 
@@ -530,7 +678,9 @@ c) Providos em lugar dos quadros de zona pedagógica não colocados no concurso 
 
 11 - (Anterior n.º 9.)
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - Os docentes dos quadros podem ser opositores anualmente ao destacamento por condições específicas para agrupamento de escolas ou escola não agrupada diverso daquele em que se encontram desde que:
 
@@ -556,7 +706,9 @@ c) ...
 
 9 - ...
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - A candidatura deve ser instruída com relatório médico, em modelo da Direcção-Geral dos Recursos Humanos da Educação, que ateste e comprove a situação de doença ou deficiência.
 
@@ -572,7 +724,9 @@ c) ...
 
 7 - O incumprimento das formalidades previstas nos n.os 3 e 4 tem como consequência a exclusão do procedimento concursal.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - O concurso de destacamento por condições específicas é aberto pela Direcção-Geral dos Recursos Humanos da Educação pelo prazo de cinco dias úteis e após a publicação do aviso de publicitação da lista definitiva de colocação dos concursos interno e externo, quando a eles houver lugar.
 
@@ -580,7 +734,9 @@ c) ...
 
 3 - Os docentes que não forem opositores ao concurso interno devem indicar para efeitos de graduação e ordenação os elementos identificados nas alíneas a) a c) do n.º 1 do artigo 9.º
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -592,7 +748,9 @@ c) ...
 
 5 - Da lista de colocação cabe recurso hierárquico, a apresentar em formulário electrónico, sem efeito suspensivo, a interpor, no prazo de cinco dias úteis, para o membro do Governo competente.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - Os docentes opositores ao concurso interno podem apresentar-se, nesse ano, ao concurso de destacamento para aproximação à residência familiar desde que se encontrem numa das seguintes situações:
 
@@ -612,13 +770,17 @@ b) Docentes dos quadros de zona pedagógica e docentes dos quadros na situação
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - ...
 
 2 - Da lista de destacamento cabe recurso hierárquico, a apresentar em formulário electrónico, sem efeito suspensivo, no prazo de cinco dias úteis, para o membro do Governo competente.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - As necessidades transitórias não satisfeitas por docentes dos quadros são preenchidas por recrutamento de indivíduos detentores de habilitação profissional para a docência.
 
@@ -638,7 +800,9 @@ c) Avaliação de desempenho com classificação mínima de Bom;
 
 d) Concordância expressa da escola e do candidato relativamente à renovação do contrato.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - ...
 
@@ -660,7 +824,9 @@ d) Concordância expressa da escola e do candidato relativamente à renovação 
 
 10 - ...
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - ...
 
@@ -670,7 +836,9 @@ d) Concordância expressa da escola e do candidato relativamente à renovação 
 
 4 - (Revogado.)
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - ...
 
@@ -684,7 +852,9 @@ a) ...
 
 b) ...
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.»
 
@@ -698,7 +868,9 @@ Docentes da educação especial
 
 Aos professores da educação especial, integrados nos grupos de recrutamento 910, 920 ou 930, colocados ao abrigo do presente decreto-lei, pode ser distribuído serviço noutro agrupamento de escolas ou escola não agrupada no mesmo concelho ou em concelho limítrofe.
 
-###### Artigo 35.º-A — Preferências para a transferência por extinção do posto de trabalho
+Artigo 35.º-A
+
+Preferências para a transferência por extinção do posto de trabalho
 
 1 - Para efeitos de transferência por extinção do posto de trabalho, podem os docentes manifestar as suas preferências de acordo com o disposto no artigo 12.º
 
@@ -708,7 +880,9 @@ Aos professores da educação especial, integrados nos grupos de recrutamento 91
 
 4 - Aos docentes referidos no n.º 1 do artigo 34.º que não se apresentem ao procedimento da transferência por extinção do posto de trabalho aplica-se o disposto na alínea b) do n.º 1 do artigo 22.º
 
-###### Artigo 38.º-A — Ordenação das necessidades transitórias
+Artigo 38.º-A
+
+Ordenação das necessidades transitórias
 
 Para a satisfação de necessidades transitórias dos agrupamentos de escolas ou escolas não agrupadas os docentes são ordenados de acordo com a sua graduação profissional e na seguinte sequência:
 
@@ -724,7 +898,9 @@ e) Candidatos não colocados no concurso externo;
 
 f) Candidatos à contratação anual.
 
-###### Artigo 38.º-B — Procedimento de colocação
+Artigo 38.º-B
+
+Procedimento de colocação
 
 1 - As necessidades transitórias, estruturadas em horários completos ou incompletos, são recolhidas pela Direcção-Geral de Recursos Humanos da Educação mediante proposta do órgão de gestão do agrupamento de escolas ou da escola não agrupada.
 
@@ -734,7 +910,9 @@ f) Candidatos à contratação anual.
 
 4 - As necessidades surgidas após a colocação referida no número anterior são satisfeitas pela colocação dos docentes indicados nas alíneas a), b), e) e f) do artigo anterior, pela ordem neste indicada, de acordo com os procedimentos previstos no artigo 58.º-A para a bolsa de recrutamento.
 
-###### Artigo 58.º-A — Bolsa de recrutamento
+Artigo 58.º-A
+
+Bolsa de recrutamento
 
 1 - A satisfação das necessidades transitórias surgidas após o procedimento previsto no n.º 3 do artigo 38.º-B é efectuada através de uma aplicação informática concebida e mantida pela Direcção-Geral dos Recursos Humanos da Educação, obedecendo aos procedimentos previstos nos números seguintes.
 
@@ -764,7 +942,9 @@ f) Candidatos à contratação anual.
 
 14 - Da colocação de docentes nos termos do presente artigo cabe recurso hierárquico, a apresentar em formulário electrónico próprio, sem efeito suspensivo, no prazo de cinco dias úteis, para o membro do Governo competente.
 
-###### Artigo 64.º-A — Escolas prioritárias
+Artigo 64.º-A
+
+Escolas prioritárias
 
 1 - A promoção do sucesso educativo dos alunos, integrados em meios particularmente desfavorecidos, em especial, de jovens em risco de exclusão social e escolar, constitui objectivo das escolas prioritárias, cujas identificação e respectiva regulamentação são fixadas por despacho do membro do Governo responsável pela área da educação.
 
@@ -772,13 +952,17 @@ f) Candidatos à contratação anual.
 
 3 - Os lugares de quadro destinados às escolas prioritárias são retirados da dotação prevista no n.º 1 do artigo 24.º
 
-###### Artigo 67.º-A — Quadros de zona pedagógica
+Artigo 67.º-A
+
+Quadros de zona pedagógica
 
 1 - Os docentes dos quadros de zona pedagógica devem obrigatoriamente apresentar-se ao concurso interno.
 
 2 - A não oposição ao concurso referido no número anterior determina a aplicação do disposto na alínea b) do n.º 1 do artigo 22.º
 
-###### Artigo 69.º-A — Alteração terminológica
+Artigo 69.º-A
+
+Alteração terminológica
 
 As referências feitas no presente decreto-lei a nomeações definitivas e a nomeações provisórias consideram-se feitas a contratos por tempo indeterminado e a contratos por tempo indeterminado em período experimental, respectivamente.»
 
@@ -834,15 +1018,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Janeiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 23 de Fevereiro de 2009.**
+Promulgado em 23 de Fevereiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Fevereiro de 2009.**
+Referendado em 26 de Fevereiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 20/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2006-544667), de 31 de Janeiro
 

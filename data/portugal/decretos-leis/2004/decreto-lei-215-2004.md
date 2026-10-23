@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/215/2004/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2004-625022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ebffbea0314157b957ef2c3d1fb37ae9da49448e0e7b0601d29afc7df1c4c43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a289d8f495779b68f50b44b56a0e3475a961df49bde79f40c11cb84c69934ad3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,31 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
-- Regulamento Relativo a Homologação de Dispositivos para Visão Indirecta e de Veículos Equipados com estes Dispositivos
+- Equipamento de Veículo
 - Especificação Técnica
 - Homologação
-- Veículo
-- Equipamento de Veículo
 - Regulamento
+- Regulamento Relativo a Homologação de Dispositivos para Visão Indirecta e de Veículos Equipados com estes Dispositivos
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:502980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:583413:por
+  label: "Alterado o art. 2º, aditado o anexo VII-A e alterada a redacção dos anexos VI e IX do Regulamento Relativo à Homologação\
+    \ de Dispositivos para Visão Indirecta e de Veículos Equipados com Estes Dispositivos, para a constante dos anexos I e\
+    \ II do DEC LEI.191/2005.07.11.2005.MAI, DR.IS-A [213] de 07.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/191-2005-583413
+  date: '2005-11-07'
+- type: amended_by
+  target: pt:dre:502980:por
+  label: "Dada nova redação ao anexo VI (alterado pelo Dec Lei 191/2005 de 07-nov) do Regulamento Relativo à Homologação de\
+    \ Dispositivos para Visão Indireta e de Veículos Equipados com Estes Dispositivos pelo DEC LEI.148/2013.24.10.2013.MECO,\
+    \ DR.IS [206] de 24.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2013-502980
+  date: '2013-10-24'
 - type: cites
   target: celex:31970L0156
   label: null
@@ -103,13 +117,13 @@ relationships:
 article_structure:
   article_count: 15
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:21Z'
   warnings: []
   errors: []
 ---
@@ -172,15 +186,15 @@ b) É proibida a venda, a matrícula ou a entrada em circulação dos veículos.
 
 Visto e aprovado em Conselho de Ministros de 15 de Junho de 2004. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - António Jorge de Figueiredo Lopes - Carlos Manuel Tavares da Silva - António Pedro de Nobre Carmona Rodrigues.
 
-**Promulgado em 2 de Agosto de 2004.**
+Promulgado em 2 de Agosto de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Agosto de 2004.**
+Referendado em 5 de Agosto de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO
 
@@ -370,11 +384,11 @@ r(índice p) = (r(índice i) + r'(índice i))/2
 
 2 - A curvatura do eixo principal do espelho é definida, no sistema de coordenadas x/y, pelo raio da calota esférica principal através da seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 3 - Totalidade do campo de visão obtido por sobreposição dos campos monoculares do olho direito e do olho esquerdo:
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 4 - Objecto crítico designa um objecto circular com um diâmetro D(índice 0) = 0,8 m.
 
@@ -622,31 +636,31 @@ Exemplos de marcas de homologação CE e do símbolo adicional
 
 Exemplo n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf))](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 O espelho que exibe a marca de homologação CE, acima, é um espelho da classe I (espelho retrovisor interior), homologado em França (e2) com o n.º 03*3500.
 
 Exemplo n.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf))](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 O espelho que exibe a marca de homologação CE, acima, é um espelho da classe II (espelho retrovisor exterior), homologado nos Países Baixos (e4) com o n.º 03*1870.
 
 Exemplo n.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf))](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 O espelho que exibe a marca de homologação CE, acima, é um espelho da classe V («de arrumação»), homologado na Grécia (e23) com o n.º 03*3901.
 
 Exemplo n.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf))](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 O espelho que exibe a marca de homologação CE, acima, é um espelho da classe IV (espelho retrovisor exterior «de grande ângulo»), homologado na Itália (e3) com o n.º 03*1248.
 
 Exemplo n.º 5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf))](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 Explicação: o dispositivo para visão indirecta que exibe a marca de homologação CE, acima, é um dispositivo para visão indirecta (S) que não seja um espelho, homologado nos Países Baixos (e4) com o n.º 03*3002.
 
@@ -696,7 +710,7 @@ Um segmento paralelo à altura do rectângulo e cujo comprimento, expresso em mi
 
 2.2.2 - Os valores mínimos de a e b são dados pelo quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 2.3 - Espelhos exteriores «de grande ângulo» (classe IV). - A superfície reflectora deve ser de contorno simples e de dimensões tais que a sua utilização permita, se necessário em conjunção com um espelho exterior da classe II, obter o campo de visão descrito no n.º 5.4 do anexo IX do presente Regulamento.
 
@@ -762,7 +776,7 @@ Prevê-se a existência de um dispositivo que permita determinar o ângulo máxi
 
 A figura 2, abaixo, indica as dimensões da instalação de ensaio e as especificações construtivas especiais.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 4.2.1.2 - O centro de percussão do pêndulo considera-se coincidente com o centro da esfera que constitui o martelo. A sua distância «l» do eixo de oscilação no plano de lançamento é igual a 1 m (mais ou menos) 5 mm. A massa reduzida do pêndulo é m(índice o) = 6,8 (mais ou menos) 0,05 kg. A relação de m(índice o) com a massa total m do pêndulo e com a distância d entre o centro de gravidade do pêndulo e o seu eixo de rotação é expressa pela equação:
 
@@ -888,7 +902,7 @@ r(índice p3) = raio de curvatura do terceiro ponto de medição.
 
 Figura 3 - Esferómetro
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 ## ANEXO VIII-B — (artigo 11.º)
 
@@ -900,7 +914,7 @@ Método de ensaio para a determinação da reflectividade
 
 1.2 - «Fonte normalizada CIE A (ver nota 1)», lâmpada de filamento de tungsténio em atmosfera gasosa, funcionando a uma temperatura de cor próxima de T(índice 68) = 2855,6 K.
 
-1.3 - «Observador de referência colorimétrico CIE 1931 (ver nota 1)», receptor de radiação, cujas características colorimétricas correspondem aos valores dos componentes tricromáticos espectrais [([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf))](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf) (v. quadro).
+1.3 - «Observador de referência colorimétrico CIE 1931 (ver nota 1)», receptor de radiação, cujas características colorimétricas correspondem aos valores dos componentes tricromáticos espectrais [(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf) (v. quadro).
 
 1.4 - «Valores dos componentes tricromáticos espectrais CIE (ver nota 1)», valores dos componentes tricromáticos, no sistema CIE (XYZ), dos elementos monocromáticos de um espectro de energia igual.
 
@@ -940,21 +954,21 @@ X = E(n(índice x)/n(índice e))
 
 Figura 4 - Esquema geral da aparelhagem de medição da reflectividade pelos dois métodos de calibragem
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 Figura 5 - Esquema geral da aparelhagem de medição da reflectividade com esfera de Ulbricht no receptor
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 Valores dos componentes tricromáticos espectrais do observador de referência colorimétrico CIE 193 (ver nota 2)
 
 Este quadro é extraído da publicação CIE 50 (45) (1970).
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 (nota 1) Definições retiradas da publicação CIE 50 (45), «Vocabulário electrotécnico internacional», grupo 45, iluminação.
 
-(nota 2) Quadro sintético. Os valores de [([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf))](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf) foram arredondados ao quarto algarismo depois da vírgula.
+(nota 2) Quadro sintético. Os valores de [(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf) foram arredondados ao quarto algarismo depois da vírgula.
 
 ## ANEXO IX — (referente ao artigo 12.º)
 
@@ -976,7 +990,7 @@ Espelhos
 
 2.1.1 - Os campos de visão prescritos no n.º 5 devem ser obtidos pelo número mínimo obrigatório de espelhos constante do quadro seguinte. Quando não for obrigatória a presença de um espelho, tal significa que nenhum outro dispositivo para visão indirecta poderá ser exigido.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 2.1.2 - No caso de o campo de visão de um espelho frontal previsto no n.º 5.6 poder ser obtido por um outro dispositivo para visão indirecta, homologado em conformidade com a parte B do anexo VIII do presente Regulamento e montado em conformidade com as disposições desse anexo, poderá ser utilizado esse sistema em vez de um espelho frontal.
 
@@ -1022,7 +1036,7 @@ Todavia, estes espelhos não devem ser instalados em veículos cuja altura da ca
 
 Figura 6 - Campo de visão correspondente a espelhos da classe I
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 5.2 - Espelhos retrovisores exteriores principais (classe II):
 
@@ -1036,7 +1050,7 @@ Além disso, o condutor deve poder ter visibilidade sobre uma área de estrada c
 
 Figura 7 - Campo de visão correspondente a espelhos da classe II
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 5.3 - Espelhos retrovisores exteriores principais (classe III):
 
@@ -1050,7 +1064,7 @@ Além disso, o condutor deve poder ter visibilidade sobre uma área de estrada c
 
 Figura 8 - Campo de visão correspondente a espelhos da classe III
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 5.4 - Espelhos exteriores «de grande ângulo» (classe IV):
 
@@ -1064,7 +1078,7 @@ Além disso, o condutor deve poder ter visibilidade sobre uma área de estrada c
 
 Figura 9 - Campo de visão correspondente a espelhos de grande ângulo da classe IV
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 5.5 - Espelhos exteriores «de arrumação» (classe V). - O campo de visão deve ser tal que o condutor possa ver, do lado exterior do veículo, uma área de estrada plana e horizontal delimitada pelos seguintes planos verticais (v. figuras 10a e 10b):
 
@@ -1080,7 +1094,7 @@ Figura 9 - Campo de visão correspondente a espelhos de grande ângulo da classe
 
 Figuras 10a e 10b - Campo de visão correspondente a espelhos de arrumação da classe V
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 5.6 - Espelhos frontais (classe VI):
 
@@ -1102,7 +1116,7 @@ Se os veículos dessas categorias com outras características de fabrico relativ
 
 Figura 11 - Campo de visão correspondente a espelhos frontais da classe VI
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 5.6.2 - Contudo, não é obrigatório um espelho frontal da classe VI se o condutor puder ver, tendo em conta as obstruções geradas pelos montantes A, uma linha recta situada 300 mm à frente do veículo, a uma altura de 1200 mm acima da superfície da estrada e situada entre um plano vertical e longitudinal paralelo ao plano vertical, longitudinal e médio que passa pelo lado exterior mais saliente do veículo do lado do condutor e um plano vertical, longitudinal paralelo ao plano vertical, longitudinal e médio situado a 900 mm no exterior do lado exterior mais saliente do veículo e oposto ao lugar do condutor.
 
@@ -1140,7 +1154,7 @@ Dois planos longitudinais verticais paralelos ao plano longitudinal vertical mé
 
 Figura 12 - Campo de visão dos dispositivos para visão indirecta instalados à rectaguarda
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 ## ANEXO IX-A — (referente ao n.º 8 do anexo IX)
 
@@ -1186,11 +1200,11 @@ O fabricante fornecerá os valores de H(índice m) e N(índice m).
 
 1.3.1 - Distância de detecção máxima no âmbito da distância de visualização crítica. Quando, devido à instalação, a distância olhos-monitor for menor que a distância de visualização crítica, a distância de detecção máxima atingível deverá ser definida pela seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 1.3.2 - Distância de detecção maior que a distância de visualização crítica. Quando, devido à instalação, a distância olhos-monitor for maior que a distância de visualização crítica, a distância de detecção máxima atingível deverá ser definida pela seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 2 - Requisitos funcionais secundários. - Com base nas condições de instalação, deverá ser efectuada uma verificação para detectar se o dispositivo completo continua ainda a cumprir os requisitos funcionais enumerados no anexo VIII do presente Regulamento, especialmente no tocante à correcção dos reflexos e à luminância máxima e mínima do monitor. Deverá também determinar-se o grau a que a correcção dos reflexos será resolvida e o ângulo sob o qual a luz solar poderá incidir sobre um monitor e comparar-se-ão estes valores com os resultados das medições correspondentes provenientes das medições do sistema.
 

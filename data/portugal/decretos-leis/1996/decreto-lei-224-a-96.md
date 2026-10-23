@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 274/1996, 2º Suplemento, Série I-A de 1996-11-26
   number: '274'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4274-(6) a 4274-(31)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/11/274a02/00060031.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/224-a/1996/11/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-a-1996-553668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:46:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78b1ffccf6a8d9ca7b7345ca0e43f9e8716074a18bd36135e81b355cf0253afd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 078b439154e8958f3268c01c778b62cecd6ea2f8dedb8e210459b28e49cbe7ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:46:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,102 @@ subjects:
 - Código das Custas Judiciais
 - Código do Notariado
 - Cofre Geral dos Tribunais
-- Multa
-- Pagamento
+- Custas Judiciais
 - Imposto de Justiça
 - Justiça
-- Tesouraria
+- Multa
+- Pagamento
 - Responsabilidade Civil
 - Taxa
-- Custas Judiciais
+- Tesouraria
 - Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:105637672:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469177:por
+  label: "Alterada a al a) do nº 1 e o nº 3 do artº 131º pelo Dec Lei.91/97.1997.04.22.MJ DR.IS-A [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-1997-469177
+  date: '1997-04-22'
+- type: amended_by
+  target: pt:dre:448110:por
+  label: "Alterada a al. c) do n.º 1 do art. 85.º do Código das Custas Judiciais, pela LEI.59/98.1998.08.25.AR DR.IS-A [195]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/59-1998-448110
+  date: '1998-08-25'
+- type: amended_by
+  target: pt:dre:426158:por
+  label: "Alterado o art. 131.º na redacção dada pelo Dec Lei 91/97 e os arts. 121.º, 124.º, 126.º, 127.º e 132.º do Código\
+    \ aprovado pelo presente diploma, pelo DEC LEI.304/99.1999.08.06.MJ DR.IS-A [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/304-1999-426158
+  date: '1999-08-06'
+- type: amended_by
+  target: pt:dre:632723:por
+  label: "Alterado o art. 148.º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do presente\
+    \ diploma, pelo DEC LEI.533/99.11.12.1999.MJ, DR.IS-A [287] de 11.12.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/533-1999-632723
+  date: '1999-12-11'
+- type: amended_by
+  target: pt:dre:393230:por
+  label: "Alterados os arts. 23º, 24º, 25º, 26º, 27º, 28º, 32º, 33º, 34º, 42º, 43º, 53º, 56º, 57º, 59º,64º, 71º, 91º, 121º,\
+    \ 124º, 142º , 144º, revogado o art.70º. e revogados o nº 3 do art.43º e os arts 125º a 130º, 132º a 139º, 141º, 143º,\
+    \ e 145º , nos termos do seu art. 3º, do Código das Custas Judiciais, pelo Dec Lei 320-B/2000 de 15-Dez, DR.IS-B [288]2ºSupl\0\
+    l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-b-2000-393230
+  date: '2000-12-15'
+- type: amended_by
+  target: pt:dre:540216:por
+  label: "Alteradas as tabelas a que se referem os arts. 13º, 23º, 25º e 27º do Código das Custas Judiciais, com a redacção\
+    \ introduzida pelo Dec Lei 320-B/2000 de 15-Dez, pelo DEC LEI.323/2001.2001.12.17.MJ DR.IS-A [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-2001-540216
+  date: '2001-12-17'
+- type: amended_by
+  target: pt:dre:220944:por
+  label: "Alterados, a partir de 15 de Setembro de 2003, os arts. 32.º e 33.º do Código das Custas Judiciais, aprovado pelo\
+    \ presente diploma ambos na redacção do Dec Lei 320-B/2000, de 15-Dez, pelo DEC LEI.38/2003.2003.03.08.MJ DR.IS-A [57]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2003-220944
+  date: '2003-03-08'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterados os arts. 40º e 131º do Código das Custas Judiciais aprovado pelo presente diploma, com as alterações posteriormente\
+    \ introduzidas pelos Dec Lei 91/97 de 22-Abr, 304/99 de 06-Ago e 324/2003 de 27-Dez, pela LEI.60-A/2005.30.12.2005.AR,\
+    \ DR.IS-A [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterados os arts. 95º (na redacção do Dec Lei 324/2003 de 27-Dez), 124º (na redacção dos Dec Lei 304/99 de 06-Ago\
+    \ e 320-B/2000 de 15-Dez, 324/2003 de 27-Dez), 131º (na redacção dos Dec Lei 91/97 de 22-Abr, 304/99 de 06-Ago, 324/2003\
+    \ de 27-Dez e Lei 60-A/2005 de 30-Dez), 142º (na redacção dos Dec Lei 320-B/2000 de 15-Dez e 324/2003 de 27-Dez), revogados\
+    \ o nº 1 do art. 124º, o nº 2, as als. c) e d) do nº 3 e os nºs 4, 6 e 9 do art. 131º, todos do Código das Custas Judiciais,\
+    \ aprovado pelo presente diploma, republicado pelo Dec Lei 324/2003 de 27-Dez, pela LEI.53-A/2006.29.12.2006.AR, DR.IS\
+    \ [249-Supl] de 29.12.2006\0006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterado o art. 148º do Código do Registo Predial aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do presente\
+    \ diploma, pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:455152:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, do nº2 do art. 13º do Código das Custas Judiciais,\
+    \ alterado pelo Dec Lei 324/2003, de 27-Dez, pelo AC.375/2008.08.08.2008.TCS, DR.IS [153] de 08.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/375-2008-455152
+  date: '2008-08-08'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Determinado que são objeto de transferência imediata para a conta do IGFEJ, I. P. os depósitos obrigatórios existentes
+    na CGD, S. A. em 01.01.2004, e que ainda não tenham sido objeto de transferência para a conta do Instituto de Gestão Financeira
+    e Equipamentos da Justiça, I. P. (IGFEJ, I. P.), em cumprimento do disposto no n.º 8 do art. 124.º do Código das Custas
+    Judiciais aprovado pelo presente diploma pelo(a) Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28,
+    nos termos do art. 148.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
+  date: '2016-12-28'
 - type: cites
   target: eli:http://data.dre.pt/el
   label: null
@@ -122,16 +204,262 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/423/1991/10/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/423/1991/10/30/p/dre
+- type: cites
+  target: pt:dre:177869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680643:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:261284:por
+  label: "Rectificado pela DECL-RECT.4-B/97.1997.01.29.PCM DR.IS-A [26]2ºsupl de 1997.01.31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-b-1997-261284
+  date: '1997-01-29'
+- type: corrected_by
+  target: pt:dre:235918:por
+  label: "Rectifica o art. 18.º do Dec Lei 38/2003 de 08-Mar [na parte que altera o nº 1 do art. 32.º do Código das Custas\
+    \ Judiciais, aprovado pelo presente diploma], pela DECL-RECT.5-C/2003.30.04.2003.PCM, DR.IS-A [100-3ºSUPL] de 30.04.2003\0\
+    3\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/5-c-2003-235918
+  date: '2003-04-30'
+- type: corrected_by
+  target: pt:dre:569313:por
+  label: "Rectificado o anexo II do Dec Lei 324/2003, de 27-Dez, na parte que republica o nº 2 do art. 18.º do Código das\
+    \ Custas Judiciais, aprovado pelo presente diploma, pela DECL-RECT.26/2004.24.02.2004.PCM, DR.IS-A [46] de 24.02.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/26-2004-569313
+  date: '2004-02-24'
+- type: repealed_by
+  target: pt:dre:424101:por
+  label: "Revogados os arts. 16.º e 17.º do presente Del Lei e alterados os arts. 1.º, 2.º, 3.º,4.º, 5.º, 6.º, 7.º, 11.º,\
+    \ 12.º, 13.º (na redacção do Dec Lei 323/2001, de 17-Dez), 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 21.º, 23.º (na redacção\
+    \ do Dec Lei 320-B/2000, de 15-Dez e do Dec Lei 323/2001, de 17-Dez), 24.º (na redacção do Dec Lei 323/2001, de 17-Dez),\
+    \ 25.º (na redacção do Dec Lei 320-B/2000, de 15-Dez (na redacção do Dec Lei 320-B/2000, de 15-Dez e do Dec Lei 323/2001,\
+    \ de 17-Dez), 26.º (na redacção do Dec Lei 320-B/2000, de 15-Dez e do Dec Lei 323/2001, de 17-Dez), 27.º, (na redacção\
+    \ do Dec Lei 320-B/2000, de 15-Dez e do Dec Lei 323/2001, de 17-Dez), 28.º (na redacção do Dec Lei 320-B/2000, de 15-Dez),\
+    \ 29.º, 30.º, 31.º, 32.º e 33.º (ambos na redacção do Dec Lei 320-B/2000, de 15-Dez e do Dec Lei 38/2003, de 08-Mar),\
+    \ 36.º, 37.º, 40.º, 41.º, 43.º (na redacção do Dec Lei 320-B/2000, de 15-Dez), 54.º 55.º, 56.º e 59.º (ambos na redacção\
+    \ do Dec Lei 320-B/2000, de 15-Dez), 60.º, 61.º, 64.º (na redacção do Dec Lei 320-B/2000, de 15-Dez), 56.º, 69.º, 71.º\
+    \ (na redacção do Dec Lei 320-B/2000, de 15-Dez), 72.º, 80.º, 82.º, 83.º, 84.º, 85.º (na redacção da Lei 59/98, de 25-Ago),\
+    \ 86.º, 87.º, 89.º, 91.º (na redacção do Dec Lei 320-B/2000, de 15-Dez), 95.º, 96.º, 102.º, 103.º, 105.º, 108.º, 110.º,\
+    \ 116.º, 117.º, 124.º (na redacção do Dec Lei 304/99, de 06-Ago e do Dec Lei 320-B/2000, de 15-Dez)131.º (na redacção\
+    \ do Dec Lei 91/97 e do Dec Lei 304/99, de 06-Ago), 140.º, 142.º (na redacção do Dec Lei 320-B/2000, de 15-Dez), 147.º\
+    \ e 150.º, adita os arts. 33.º-A, 73.º-A, 73.º-B, 73.º-C, 73.º-D, 73.º-E, 73.º-F e 81.º-A, insere um novo título II, denominado\
+    \ “custas administrativas e tributárias” (com início no art. 73.º-A e fim no art. 73.º-F) renumerando os títulos subsequentes\
+    \ e revoga os art. 42.º, 107.º e 109.º, todos do Código das Custas Judiciais, aprovado pelo mesmo, pelo DEC LEI.324/2003.27.12.2003.MJ,\
+    \ DR.IS-A [298] de 27.12.2003 republicado no anexo II\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2003-424101
+  date: '2003-12-27'
+- type: repealed_by
+  target: pt:dre:480519:por
+  label: "Revogado o nº 2 do art. 91º do Código das Custas Judiciais, aprovado pelo presente diploma, na redacção dos Dec\
+    \ Lei 320-B/2000 de 15-Dez e 324/2003 de 27-Dez e mantida esta disposição transitoriamente em vigor até à publicação da\
+    \ legislação prevista no art 8º da LEI.45/2004.19.08.2004.AR, DR.IS-A [195] de 19.08.2004, pelo mesmo diploma legal\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/45-2004-480519
+  date: '2004-08-19'
+- type: repealed_by
+  target: pt:dre:247448:por
+  label: "Revogado, a partir de 20.04.2008, o n.º 11 do art. 29º (mantido em vigor pelo Código aprovado pelo presente diploma)\
+    \ do Dec Lei 522/85, de 31-Dez, já revogado na íntegra, desde 20.10.2007, pelo Dec Lei 291/2007, de 21-Ago, pelo DEC LEI.34/2008.26.02.2008.MJ,\
+    \ DR.IS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: repealed_by
+  target: pt:dre:453247:por
+  label: "Revogado o art. 15º (na redacção do Dec Lei 324/2003, de 27-Dez) do Código das Custas Judiciais, aprovado pelo presente\
+    \ diploma, pelo DEC LEI.181/2008.28.08.2008.MJ, DR.IS [166] de 28.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-2008-453247
+  date: '2008-08-28'
+- type: repealed_by
+  target: pt:dre:491440:por
+  label: "Revogado parcialmente, a partir de 01.10.2010, o Dec Lei 265/93 de 31-Jul, com as alterações constantes do presente\
+    \ diploma, pelo DEC LEI.297/2009.14.10.2009.MAI, DR.IS [199] de 14.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/297-2009-491440
+  date: '2009-10-14'
 article_structure:
   article_count: 169
-  section_count: 40
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 46
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:46:03Z'
   warnings: []
   errors: []
 ---
@@ -346,7 +674,9 @@ jj) Os n.os 2 e 3 do artigo 14.º e a alínea n) do n.º 1 do artigo 18.º da [L
 
 É organizado balanço nos termos da alínea b) do n.º 2 do artigo 38.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969, com referência ao último dia útil anterior à entrada em vigor deste diploma.
 
-###### Artigo 6.º — Livro de contas correntes-processos
+###### Artigo 6.º
+
+## Livro de contas correntes-processos
 
 Os saldos das contas correntes-processos são lançados no livro de pagamentos à medida que os processos sejam remetidos à conta ou a lançamento, nos termos dos artigos seguintes.
 
@@ -430,15 +760,15 @@ O Código das Custas Judiciais e o presente diploma entram em vigor no dia 1 de 
 
 Visto e aprovado em Conselho de Ministros de 31 de Outubro de 1996. - António Manuel de Carvalho Ferreira Vitorino - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 20 de Novembro de 1996.**
+Promulgado em 20 de Novembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Novembro de 1996.**
+Referendado em 22 de Novembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 CÓDIGO DAS CUSTAS JUDICIAIS
 
@@ -1794,27 +2124,37 @@ e) De contas correntes-processos.
 
 2 - Os livros a que se refere o número anterior devem, sempre que possível, ser constituídos por suportes informáticos.
 
-###### Artigo 133.º — Livro de registo de contas
+###### Artigo 133.º
+
+## Livro de registo de contas
 
 1 - O livro de registo de contas é constituído pelos duplicados das contas referidos no n.º 1 do artigo 56.º
 
 2 - Após o pagamento das custas em dívida e o lançamento e estorno no livro de pagamentos, os duplicados referidos no número anterior são extraídos para um livro arquivo.
 
-###### Artigo 134.º — Livro de pagamentos
+###### Artigo 134.º
+
+## Livro de pagamentos
 
 1 - No livro de pagamentos inscrevem-se as receitas, os pagamentos, os estornos e as restituições resultantes da conta ou do rateio, identificando o processo, a secção e o número da conta de custas, e averbando-se o lançamento nas guias, notas, rateios, contas ou respectivos duplicados, bem como os emolumentos mensais de actos avulsos e os juros das contas.
 
 2 - Lançadas no livro de pagamentos, as guias são entregues nas secções de processos, mediante recibo.
 
-###### Artigo 135.º — Livro de conta corrente com as dotações orçamentais
+###### Artigo 135.º
+
+## Livro de conta corrente com as dotações orçamentais
 
 O livro de conta corrente com as dotações orçamentais contém as dotações orçamentais do cofre do tribunal e nele, relativamente a cada ano económico, agrupamento, subagrupamento e rubrica do orçamento, inscrevem-se as dotações, os duodécimos, os reforços ou anulações, os encargos assumidos e as despesas pagas.
 
-###### Artigo 136.º — Livro de emolumentos de actos avulsos
+###### Artigo 136.º
+
+## Livro de emolumentos de actos avulsos
 
 No livro de emolumentos de actos avulsos registam-se, por ordem numérica, os actos avulsos, com anotação do número da respectiva conta e indicação do valor das estampilhas apostas nos processos de injunção.
 
-###### Artigo 137.º — Livro de contas correntes-processos
+###### Artigo 137.º
+
+## Livro de contas correntes-processos
 
 1 - O livro de contas correntes-processos é constituído por folhas móveis, uma para cada processo e seus apensos, onde se escrituram, diariamente, a crédito, os preparos para despesas pagos, e a débito, as despesas efectuadas.
 
@@ -1942,4 +2282,4 @@ Nas execuções emergentes de processos do foro laboral, o crédito exequendo qu
 
 TABELA A QUE SE REFERE O ARTIGO 13.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/274a02/00060031.pdf))](https://files.diariodarepublica.pt/1s/1996/11/274a02/00060031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/274a02/00060031.pdf)

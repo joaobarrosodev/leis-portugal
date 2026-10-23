@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/047b00/09120918.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/6/1994/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-1994-517223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 738826f99b5c6024ebd6585ec19b0f1c1b7042126b15b45c6c0148ed18550978
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6ba1abd4a5ca614d55bd761b6813a298e22508ecc6c70c17f2d5ca3d5f9322d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Administração dos Portos do Douro e Leixões
 - Administração de Portos
+- Administração dos Portos do Douro e Leixões
 - Porto de Leixões
 - Porto do Douro
-- Regulamento
 - Portos
+- Regulamento
 - Tarifa Portuária
 relationships:
 - type: amended_by
   target: pt:dre:485049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:219129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599755:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:485049:por
+  label: "Revogado pelo DEC LEI.200/98.1998.07.10.MEPAT DR.IS-A [157], com a entrada em vigor dos regulamentos a que se refere\
+    \ o seu nº 2 do art. 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1998-485049
+  date: '1998-07-10'
 article_structure:
-  article_count: 58
+  article_count: 57
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:30Z'
   warnings: []
   errors: []
 ---
@@ -105,23 +123,23 @@ Assim:
 
 Ao abrigo do disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 348/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1986-222392), de 16 de Outubro, e no n.º 1 do artigo 1.º do [Decreto-Lei n.º 8/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1987-599755), de 16 de Janeiro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento de Tarifas da Administração dos Portos do Douro e Leixões, anexo ao presente diploma e que dele faz parte integrante.
+Artigo 1.º É aprovado o Regulamento de Tarifas da Administração dos Portos do Douro e Leixões, anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º É revogado o [Decreto Regulamentar n.º 34/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1986-219129), de 26 de Agosto.
+Art. 2.º É revogado o [Decreto Regulamentar n.º 34/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1986-219129), de 26 de Agosto.
 
 Presidência do Conselho de Ministros, 20 de Dezembro de 1993.
 
 Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 21 de Janeiro de 1994.**
+Promulgado em 21 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Janeiro de 1994.**
+Referendado em 24 de Janeiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento de Tarifas da Administração dos Portos do Douro e Leixões
 
@@ -319,7 +337,7 @@ As taxas devidas pelas operações de encalhe, desencalhe e estadia no plano de 
 
 1 - Dentro do grupo a que pertence e por cada uma das operações de carga e descarga é aplicada à mercadoria, por tonelada indivisível, e em escudos, a seguinte taxa de porto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/047b00/09120918.pdf))](https://files.diariodarepublica.pt/1s/1994/02/047b00/09120918.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/047b00/09120918.pdf)
 
 2 - Às mercadorias abaixo designadas são aplicadas as seguintes taxas de porto:
 

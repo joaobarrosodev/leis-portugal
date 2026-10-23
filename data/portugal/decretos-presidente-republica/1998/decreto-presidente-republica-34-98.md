@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/34/1998/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/34-1998-430810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T04:27:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 973aa347f7a60eed54a4b7164fee14cee6dc8c1c60eda1d6d68ca190cfbb873d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 001c62707bc488b7d9fb7d47d566ece6eab1f1aa9cd9e9b470f5e1a8a36cfa3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:27:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- ONU
 - Livre Trânsito
 - Nova Iorque
+- ONU
+- Portugal
 - Privilegios e Imunidades
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/38/1998/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/38/1998/07/31/p/dre
+- type: cites
+  target: pt:dre:430807:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:27:56Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +99,7 @@ validation:
 
 de 31 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 ###### Artigo 1.º
 
@@ -107,12 +111,12 @@ Ao texto da Convenção é formulada a seguinte reserva:
 
 A isenção estabelecida na alínea b) da secção 18 não se aplica aos nacionais portugueses e aos residentes em território português que não adquiriram essa qualidade para o efeito do exercício da actividade.
 
-**Assinado em 21 de Julho de 1998.**
+Assinado em 21 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Julho de 1998.**
+Referendado em 22 de Julho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/09/224a00/33823382.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/181/1996/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1996-214534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:45:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db9df338e75f12e75ed379668e3a3275afdc87b9d8537c3a4236b8048d41b74b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f696cfa34b19f8b230588411533ab63eb72e5aeb40c746f8c8b717470db0259
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:45:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Criação de Serviços
-- Definição de Competências
 - Caixa Geral de Aposentações
 - Conselho Consultivo
+- Criação de Serviços
+- Definição de Competências
 relationships:
 - type: amended_by
   target: pt:dre:520455:por
@@ -78,16 +78,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/277/1993/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/277/1993/08/10/p/dre
+- type: cites
+  target: pt:dre:358127:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520455:por
+  label: "Revogado pelo DEC LEI.84/2007.29.03.2007.MFAP, DR.IS [63] de 29.03.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2007-520455
+  date: '2007-03-29'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:45:02Z'
   warnings: []
   errors: []
 ---
@@ -156,12 +165,12 @@ Aos membros do Conselho Consultivo é assegurado o acesso a toda a informação 
 
 Visto e aprovado em Conselho de Ministros de 8 de Agosto de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - António José Martins Seguro.
 
-**Promulgado em 4 de Setembro de 1996.**
+Promulgado em 4 de Setembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Setembro de 1996.**
+Referendado em 16 de Setembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/362-1975-335758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T04:44:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f41a49db257d6b309e5428e33663ada83dc2fbe63e53efce96b42a852b25bca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91c29823648fbcf1db7bc44695dacb19db9df185111a07c57eddbd77cb11287f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:44:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cartão de Identificação
+- Investigação Criminal
+- Polícia Judiciária
+relationships:
+- type: cites
+  target: pt:dre:464989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634734:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:44:53Z'
   warnings: []
   errors: []
 ---
@@ -98,6 +109,6 @@ Manda o Governo da República Portuguesa, pela Secretaria de Estado da Justiça,
 
 Ministério da Justiça, 30 de Maio de 1975. - O Secretário de Estado da Justiça, Armando Bacelar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/06/13400/08080808.pdf))](https://files.diariodarepublica.pt/1s/1975/06/13400/08080808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/06/13400/08080808.pdf)
 
-**O Secretário de Estado da Justiça, Armando Bacelar.**
+O Secretário de Estado da Justiça, Armando Bacelar.

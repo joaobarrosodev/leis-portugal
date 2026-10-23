@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/16400/0626106263.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/169/2015/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2015-70086392
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 659d000166d5c73e9ef152fbc0eaabdf158ecad6803033d091198cec6a9eb4b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 072f1311b21c8ba081191e9022ccc064dea3900229315ac4d87dd96e5b4703bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,20 @@ reuse:
 subjects:
 - Actividades de Complemento Curricular
 - Agrupamento de Escolas
+- Atividade Ocupacional
+- Autarquia Local
+- Contratação de Pessoal
+- Contrato de Trabalho
 - Direção Geral da Administração Escolar
 - Direcção Geral dos Recursos Humanos da Educação
-- Atividade Ocupacional
+- Ensino Básico
 - Ensino Oficial
-- Recrutamento de Pessoal
-- Tribunal de Contas
+- Estabelecimento de Ensino
 - Jurisprudencia
-- Contratação de Pessoal
 - Pessoal Técnico
 - Política de Educação
-- Estabelecimento de Ensino
-- Ensino Básico
-- Contrato de Trabalho
-- Autarquia Local
+- Recrutamento de Pessoal
+- Tribunal de Contas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/144/2008/07/28/p/dre
@@ -99,16 +99,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:34Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +161,9 @@ Os artigos 1.º, 2.º, 3.º e 6.º do [Decreto-Lei n.º 212/2009](https://diario
 
 O presente decreto-lei estabelece o regime aplicável à contratação de técnicos, por parte dos municípios e agrupamentos de escolas da rede pública, que asseguram o desenvolvimento das atividades de enriquecimento curricular (AEC) no 1.º ciclo do ensino básico.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O presente decreto-lei aplica-se aos municípios e aos agrupamentos de escolas da rede pública quando estes selecionem, recrutem e contratem os técnicos que venham a prestar funções no âmbito das AEC.
 
@@ -155,13 +173,17 @@ O presente decreto-lei estabelece o regime aplicável à contratação de técni
 
 4 - Nos casos previstos no n.º 1, as competências municipais a que se refere o presente decreto-lei são exercidas pelo diretor do agrupamento de escolas.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 3 do artigo anterior, para assegurar necessidades temporárias de serviço no âmbito das AEC, os municípios celebram contratos de trabalho a termo resolutivo, a tempo integral ou parcial, com técnicos especialmente habilitados para o efeito.
 
 2 - Os contratos de trabalho mencionados no número anterior regem-se pelo disposto na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, alterada pela [Lei n.º 82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, com as especificidades previstas no presente decreto-lei.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -193,13 +215,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de junho de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Miguel Poiares Pessoa Maduro - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 17 de agosto de 2015.**
+Promulgado em 17 de agosto de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de agosto de 2015.**
+Referendado em 20 de agosto de 2015.
 
 Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.
 

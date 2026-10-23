@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/155/1997/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1997-164053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8727953f3cbb924a27d8fa0a40ad5ff90fd63c8eaf6eb4e9c77fef82899a1988
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b5b9cc22909499d7933dd794713873435f8a4baedbcc0b37109e778127df8df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
-- Ordenamento do Território
-- Plano Director Municipal
+- Administração Local
 - Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
 - Ministro do Equipamento do Planeamento e da Administração do Território
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
 - Plano de Urbanização
-- Administração Local
+- Plano Director Municipal
+- Política de Solos
 - Regime Jurídico
 relationships:
 - type: amended_by
@@ -88,16 +88,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/18/1991/06/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/18/1991/06/12/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661715:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:54Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +150,9 @@ Os artigos 3.º, 6.º, 10.º, 12.º, 13.º, 16.º, 17.º, 19.º, 20.º, 26.º e 
 
 5 - Compete à Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano proceder ao registo dos planos municipais ratificados, bem como dos planos municipais não sujeitos a ratificação, das medidas preventivas e das normas provisórias relacionadas com uns e com outros.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -154,7 +172,9 @@ Os artigos 3.º, 6.º, 10.º, 12.º, 13.º, 16.º, 17.º, 19.º, 20.º, 26.º e 
 
 9 - Para os efeitos previstos no presente artigo, cabe à câmara municipal dar conhecimento à respectiva comissão de coordenação regional e à Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano do teor da deliberação que haja determinado a elaboração de planos municipais.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -168,7 +188,9 @@ Os artigos 3.º, 6.º, 10.º, 12.º, 13.º, 16.º, 17.º, 19.º, 20.º, 26.º e 
 
 6 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -180,7 +202,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -196,7 +220,9 @@ c) ...
 
 7 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -230,7 +256,9 @@ c) ...
 
 8 - O disposto nos números anteriores é aplicável, com as necessárias adaptações, ao estabelecimento de medidas preventivas e de normas provisórias e à alteração e suspensão de planos.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Os planos municipais são registados na Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano.
 
@@ -248,7 +276,9 @@ c) ...
 
 8 - No caso de planos municipais sujeitos a ratificação, o registo é feito oficiosamente na sequência desta.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -260,7 +290,9 @@ c) ...
 
 5 - Decorrido o prazo de 10 anos referido no n.º 3 sem que o plano municipal tenha sido revisto, ficam sujeitos a ratificação do Governo, pelo Ministro do Equipamento, do Planeamento e da Administração do Território, por intermédio da Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano, todos os planos de urbanização ou de pormenor que com aquele tenham área em comum.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - As disposições de um plano municipal podem ser objecto de alterações de âmbito limitado, que não ponham em causa a coerência global do plano, devendo a câmara municipal, nestes casos, solicitar parecer sobre as alterações às entidades interessadas em função da natureza e da área sobre a qual incidem, incluindo sempre nestas a comissão de coordenação regional, após o que procederá nos termos previstos nos artigos 14.º a 18.º do presente diploma.
 
@@ -284,7 +316,9 @@ g) Clarificação de disposições regulamentares.
 
 4 - Às alterações referidas nos n.os 2 e 3 aplica-se o disposto nos artigos 17.º e 18.º do presente diploma, devendo a câmara municipal solicitar sobre as mesmas parecer à respectiva comissão de coordenação regional antes de as submeter à aprovação da assembleia municipal.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Sem prejuízo do disposto na alínea l) do n.º 2 do artigo 53.º do [Decreto-Lei n.º 100/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1984-661715), de 29 de Março, na redacção dada pela [Lei n.º 18/91](https://diariodarepublica.pt/dr/detalhe/lei/18-1991-658473), de 12 de Junho, pode o Ministro do Equipamento, do Planeamento e da Administração do Território, em casos que considere de relevante interesse público, determinar o embargo de trabalhos ou a demolição de obras que violem plano municipal plenamente eficaz.
 
@@ -296,7 +330,9 @@ g) Clarificação de disposições regulamentares.
 
 5 - A ordem de embargo ou de demolição é objecto de registo na conservatória do registo predial competente, mediante comunicação pela Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano do despacho que os determinou, procedendo-se aos necessários averbamentos.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -308,12 +344,12 @@ g) Clarificação de disposições regulamentares.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1997. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho.
 
-**Promulgado em 28 de Maio de 1997.**
+Promulgado em 28 de Maio de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Junho de 1997.**
+Referendado em 6 de Junho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

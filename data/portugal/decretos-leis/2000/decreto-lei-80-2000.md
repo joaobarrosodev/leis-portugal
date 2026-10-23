@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/107a00/20022008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/80/2000/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2000-275870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:23:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7651bbe395549899e0f7cdaf139e3b9962fd8b0401ba54a2dc44ad90124b86f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 207ab8455b4cde293df054567f4d8b6e2e307ff4529998c169cc3336cc9914e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:23:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Leite
 - Contra-ordenação
 - Definição de Competências
 - Instituto Nacional de Intervenção e Garantia Agrícola
+- Leite
 - Produção Leiteira
 - Quota de Produção
 - Regulamento CE
@@ -97,16 +97,21 @@ relationships:
   target: celex:31999R1256
   label: null
   source: http://data.europa.eu/eli/reg/1999/1256/oj
+- type: repealed_by
+  target: pt:dre:424732:por
+  label: "Revogado pelo DEC LEI.240/2002.2002.11.05.MADRP, DR.IS-A [255]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-2002-424732
+  date: '2002-11-05'
 article_structure:
   article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:23:13Z'
   warnings: []
   errors: []
 ---
@@ -473,12 +478,12 @@ O presente diploma entra em vigor no dia 1 de Abril de 2000, com excepção dos 
 
 Visto e aprovado em Conselho de Ministros de 2 de Março de 2000. - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Luís Manuel Capoulas Santos.
 
-**Promulgado em 19 de Abril de 2000.**
+Promulgado em 19 de Abril de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Abril de 2000.**
+Referendado em 27 de Abril de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/116/2006/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2006-345103
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7a575245ab18db71f477dce15bc912169374c581a3ada81599773070947e867
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f61274f9516c5d5a09bb45ca704dec65f05ce7332c7ea35d818ea839f8917b29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aeroporto
 - Aeroporto JOÃO Paulo II
 - Espaço Aéreo
 - Ponta Delgada
 - Servidão Aeronáutica
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2004/01/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/10/2004/01/09/p/dre
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537044:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:02Z'
   warnings: []
   errors: []
 ---
@@ -117,15 +133,15 @@ A área confinante com o Aeroporto de João Paulo II, em Ponta Delgada, abrangid
 
 a) Zona 1 (ocupação) - toda a área de terreno ou de água ocupada pelas infra-estruturas que actualmente integram o aeródromo, bem como a área necessária ao respectivo desenvolvimento projectado, em conformidade com o disposto no plano director de desenvolvimento, cujos limites são dados pela linha poligonal com vértice nos pontos com as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf))](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
 
 b) Zona 2 (protecção da área de maior risco estatístico de acidente) - compreende toda a área de terreno ou de água que é, estatisticamente, de maior risco de acidente, cujos limites são dados pela linha poligonal com vértice nos pontos com as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf))](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
 
 c) Zona 3 (protecção de instrumentos radioeléctricos de bordo) - compreende toda a área de terreno ou de água cujos limites são dados pela linha poligonal com vértice nos pontos com as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf))](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
 
 d) Zona 4 (protecção de aves) - compreende a área de terreno ou de água constituída por três sectores, cujos limites são:
 
@@ -133,43 +149,43 @@ Sector A - coincidente com os limites da zona 1;
 
 Sector B - envolvendo o sector A e limitado exteriormente em planta por dois arcos de circunferência de 2000 m de raio e respectivos segmentos tangentes. Os centros dos arcos de circunferência situam-se na intersecção do eixo da pista com o lado interior de cada um dos canais de aproximação e têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf))](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
 
 Sector C - envolvendo o sector B e limitado exteriormente em planta por dois arcos de circunferência de 4000 m de raio e respectivos segmentos tangentes. Os centros dos arcos de circunferência situam-se na intersecção do eixo da pista com o lado interior de cada um dos canais de aproximação e têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf))](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
 
 e) Zona 5 (protecção do ruído) - compreende a área de terreno ou de água necessária para protecção, cujos limites são dados pela linha poligonal com vértice nos pontos com as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf))](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
 
 f) Zona 6 (protecção de sistemas de telecomunicações, radioeléctricos e rádio ajudas) - sem prejuízo das servidões específicas estabelecidas para as infra-estruturas de apoio à navegação aérea, compreende a área de terreno ou de água necessária à segurança de voo e à segurança e operacionalidade aeroportuária destinada à adequada protecção de sistemas de vigilância, de telecomunicações, radioeléctricos e de rádio ajudas, limitada em planta por dois arcos de circunferência de 2000 m de raio e respectivos segmentos tangentes. Os centros dos arcos de circunferência situam-se na intersecção do eixo da pista com o lado interior de cada um dos canais de aproximação e têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf))](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
 
 g) Zona 7 (canais operacionais) - compreende a área de terreno ou de água com diversos sectores delimitados por linhas poligonais com vértices nos pontos com as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf))](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
 
 h) Zona 8 (superfície de transição) - compreende a superfície de terreno ou de água, com inclinação a 14,3%, confinante com as zonas 1 e 7 (sectores G e I) e delimitada exteriormente pela zona 9, definida pelos pontos de coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf))](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
 
 i) Zona 9 (superfície horizontal interior) - compreende a superfície de terreno ou de água situada à cota de 112 m referidos à marca de nivelamento de Vila do Porto e limitada externamente em planta por dois arcos de circunferência de 4000 m de raio ligados pelos segmentos tangentes.
 
 Os centros dos arcos de circunferência situam-se na intersecção do eixo de cada pista com o lado interior de cada um dos canais de aproximação e têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf))](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
 
 j) Zona 10 (superfície cónica) - compreende a superfície de terreno ou de água confinante interiormente com a zona 9 e exteriormente com a zona 11, com uma inclinação de 5%, delimitada exteriormente em planta por dois arcos de circunferência de 6000 m de raio ligados pelos segmentos tangentes.
 
 Os centros dos arcos de circunferência situam-se na intersecção do eixo da pista com o lado interior de cada um dos canais de aproximação e têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf))](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
 
 l) Zona 11 (superfície horizontal exterior) - compreende a superfície de terreno ou de água situada à cota de 212 m referidos à marca de nivelamento de Vila do Porto, confinante interiormente com a zona 10 e delimitada exteriormente em planta por um círculo de 15000 m de raio com centro no ponto de coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf))](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
 
 m) Zona 12 (protecção de luzes passíveis de interferir com a segurança de voo da aeronave) - compreende a área de terreno ou de água constituída por dois sectores, cujos limites são:
 
@@ -177,17 +193,17 @@ Sector A (área sem instalações de feixes de luzes laser - LFFZ laser beam fre
 
 Os centros dos arcos de circunferência situam-se na intersecção do eixo de cada pista com o lado interior de cada um dos canais de aproximação e têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf))](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
 
 e pelas duas áreas externas simétricas em relação ao eixo das pistas de 1500 m de largura, que se prolongam por uma distância de 5600 m, cujos limites se encontram definidos pelos pontos de coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf))](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
 
 Em altura este sector é limitado pela cota de 700 m;
 
 Sector B (área crítica para instalação de feixes de luzes laser, LCFZ laser beam critical flight zone) - envolvendo o sector A e limitado exteriormente em planta por um círculo de 18500 m de raio com centro no ponto de coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf))](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
 
 Em altura, este sector é limitado pela cota de 3070 m.
 
@@ -287,7 +303,7 @@ i) Quaisquer outras obras, trabalhos, obstáculos ou actividades que possam ineq
 
 3 - Na zona 7 (sectores B, C, E, F, H, J, K e L), fica sujeita a parecer favorável da autoridade aeronáutica legalmente competente a realização de quaisquer obras, instalações e construções, seja qual for a sua natureza, sujeitas ou não a licenciamento municipal, dependendo a criação de quaisquer obstáculos, mesmo que temporários, de autorização prévia da mesma autoridade aeronáutica, nos termos e condições seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf))](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
 
 ###### Artigo 10.º — Obras, instalações, construções e actividades na zona 8
 
@@ -425,14 +441,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Março de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Mário Lino Soares Correia.
 
-**Promulgado em 25 de Maio de 2006.**
+Promulgado em 25 de Maio de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 29 de Maio de 2006.**
+Referendado em 29 de Maio de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf))](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/115a00/42894298.pdf)

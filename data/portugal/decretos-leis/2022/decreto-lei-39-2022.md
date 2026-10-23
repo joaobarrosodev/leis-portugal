@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/05/10500/0000300015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/39/2022/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6cf57e28709c7c62c77e4c10293e30683952a869a941c67498f00a08558426c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4b8ab2c30962326b2611dbf7034e81e1467416ec587f90c6a0c8e00e5c15bb9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Educação
-- Certificado de Aptidão Profissional
-- Ensino não Superior
+- Avaliação de Conhecimentos
 - Catálogo Nacional de Qualificações
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Certificação Profissional
-- REDE Escolar
+- Certificado de Aptidão Profissional
 - Curso de Especialização Tecnológica
-- Ensino Cooperativo
-- Ensino Oficial
-- Ensino Particular
-- Escola de Hotelaria e Turismo
-- Inserção Profissional
-- Ensino Secundário
-- Instituto do Turismo de Portugal
 - Direção Geral dos Estabelecimentos Escolares
 - Direcção Geral do Emprego e das Relações de Trabalho
-- Qualificação Profissional
-- Propinas
-- Avaliação de Conhecimentos
-- Quadro Nacional de Qualificações
+- Ensino Cooperativo
+- Ensino não Superior
+- Ensino Oficial
+- Ensino Particular
+- Ensino Secundário
 - Ensino Superior
+- Escola de Hotelaria e Turismo
+- Formação Profissional
+- Inserção Profissional
+- Instituto do Emprego e Formação Profissional
+- Instituto do Turismo de Portugal
+- Propinas
+- Quadro Nacional de Qualificações
+- Qualificação Profissional
+- REDE Escolar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/
@@ -129,16 +129,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
+- type: cites
+  target: pt:dre:135391594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152512121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:860621:por
+  label: null
+  source: null
 article_structure:
-  article_count: 66
+  article_count: 60
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:11Z'
   warnings: []
   errors: []
 ---
@@ -207,7 +263,9 @@ d) Estimular o prosseguimento de estudos para o ensino superior.
 
 3 - Os CET obedecem aos referenciais de competências e de formação associados ao nível 5 de qualificação do Quadro Nacional de Qualificações (QNQ) que integram o Catálogo Nacional de Qualificações (CNQ).
 
-###### Artigo 5.º — Certificação
+Artigo 5.º
+
+Certificação
 
 1 - A conclusão de um CET dá lugar à emissão de um diploma de qualificação e de um certificado de qualificações, bem como ao registo das competências adquiridas pelo formando no Passaporte Qualifica, nos termos da legislação aplicável.
 
@@ -219,7 +277,9 @@ d) Estimular o prosseguimento de estudos para o ensino superior.
 
 5 - O modelo e as condições de emissão dos certificados e do diploma referidos nos n.os 1 e 2 são regulamentados por portaria dos membros do Governo responsáveis pelas áreas da educação e da formação profissional.
 
-###### Artigo 7.º — Destinatários
+Artigo 7.º
+
+Destinatários
 
 1 - São destinatários dos CET os adultos com idade igual ou superior a 18 anos à data do início da formação e que cumpram um dos seguintes requisitos:
 
@@ -235,7 +295,9 @@ d) Sejam titulares de um diploma ou certificado de nível 5 de qualificação do
 
 3 - Para efeitos do n.º 1, podem ser admitidos, a título excecional e mediante autorização da Direção-Geral dos Estabelecimentos Escolares, candidatos abrangidos pela escolaridade obrigatória que, à data do início da formação, ainda não tenham completado 18 anos de idade, desde que nessa data cumpram um dos requisitos previstos nas alíneas a), b) e d) do n.º 1.
 
-###### Artigo 19.º — Entidades formadoras
+Artigo 19.º
+
+Entidades formadoras
 
 Os CET podem ser desenvolvidos pelas seguintes entidades:
 
@@ -251,7 +313,9 @@ e) Entidades formadoras certificadas pela Direção-Geral do Emprego e das Rela�
 
 f) A rede de Escolas de Hotelaria e Turismo do Instituto do Turismo de Portugal, I. P.
 
-###### Artigo 34.º — Funcionamento dos cursos de especialização tecnológica
+Artigo 34.º
+
+Funcionamento dos cursos de especialização tecnológica
 
 As condições de funcionamento dos CET são regulamentadas por portaria dos membros do Governo responsáveis pelas áreas da economia, do ensino superior, da educação e da formação profissional.»
 
@@ -289,15 +353,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de maio de 2022. - António Luís Santos da Costa - António José da Costa Silva - Pedro Nuno de Freitas Lopes Teixeira - João Miguel Marques da Costa - Gabriel Gameiro Rodrigues Bastos.
 
-**Promulgado em 23 de maio de 2022.**
+Promulgado em 23 de maio de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 24 de maio de 2022.**
+Referendado em 24 de maio de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -597,7 +661,9 @@ b) [...]
 
 c) Os titulares de um diploma de especialização tecnológica.
 
-###### Artigo 11.º — Cursos a que se podem candidatar
+Artigo 11.º
+
+Cursos a que se podem candidatar
 
 1 - [...]
 
@@ -605,7 +671,9 @@ c) Os titulares de um diploma de especialização tecnológica.
 
 3 - [...]
 
-###### Artigo 20.º — Regulamento
+Artigo 20.º
+
+Regulamento
 
 1 - Compete ao Ministro da Ciência, Tecnologia e Ensino Superior aprovar, por portaria, o regulamento dos concursos especiais, o qual contempla as regras a que obedece o requerimento de matrícula e inscrição.
 
@@ -630,3 +698,5 @@ b) O [Despacho conjunto n.º 350/2004](https://diariodarepublica.pt/dr/detalhe/d
 ## ANEXO I — (Revogado.)
 
 ## ANEXO II — (Revogado.)
+
+115366976

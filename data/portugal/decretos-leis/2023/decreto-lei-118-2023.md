@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24400/0005800073.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/118/2023/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2023-808125339
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21348a947634fd0bb2086afbfee1b14bcd8fc919b826e6e070673c5b5507afd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59da56cd35dd9c4c83b6942c0929994ae4f3fb91ad3a0c517503454173e36693
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
+- ACES
 - Centro de Responsabilidade Integrada
-- Unidade de Saúde Familiar
-- Enfermagem
-- Serviço Nacional de Saúde
 - Cuidados Médicos
+- Dedicação plena
+- Enfermagem
+- Médico
 - Regime Jurídico
 - Remuneração
-- ACES
-- Dedicação plena
+- Serviço Nacional de Saúde
+- Unidade de Saúde Familiar
 relationships:
 - type: amended_by
   target: pt:dre:914597187:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:103/2023
+  label: Altera, a partir de 21 de dezembro de 2023, com efeitos a 01 de janeiro de 2024, os artigos 1.º, 4.º, 11.º e 17.º,
+    os artigos 25.º e 36.º, adita um anexo ii, com a redação constante do anexo i, altera sistemáticamente o anexo ii que
+    passa a anexo iii (nos termos do n.º 1 do artigo 5.º do presente diploma) altera este anexo iii, com a redação constante
+    do anexo ii, adita o anexo iv, com a redação constante do anexo iii (nos termos do artigo 6.º do presente diploma) ao
+    Decreto-Lei n.º 103/2023, de 7 de novembro, bem como define as regras de transição dos trabalhadores médicos para a estrutura
+    remuneratória correspondente ao regime da dedicação plena, prevista no anexo iii, do Decreto-Lei n.º 103/2023, de 7 de
+    novembro, Diário da República n.º 215/2023, Série I
+  source: null
+  date: '2023-11-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/103/2023/11/07/p/dre
   label: null
@@ -104,16 +115,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/330/2017/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/330/2017/10/31/p/dre
+- type: cites
+  target: pt:dre:114133885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124417108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223906279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640665:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:330/2017
+  label: Revoga, a partir de 21 de dezembro de 2023, com efeitos a 1 de janeiro de 2024, nos termos do artigo 8.º e sem prejuízo
+    do disposto no n.º 2 do artigo 7.º do presente diploma, da Portaria n.º 330/2017, de 31 de outubro, Diário da República
+    n.º 210/2017, Série I
+  source: null
+  date: '2017-10-31'
 article_structure:
-  article_count: 42
+  article_count: 38
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:55Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +218,9 @@ c) Aprova o regime jurídico da organização e funcionamento dos centros de res
 
 2 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -188,11 +232,15 @@ c) Aprova o regime jurídico da organização e funcionamento dos centros de res
 
 5 - Para efeitos do disposto no n.º 2, a transição dos trabalhadores médicos para a estrutura remuneratória do regime da dedicação plena faz-se na mesma categoria e de acordo com o anexo iv do presente decreto-lei e do qual faz parte integrante.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Sem prejuízo do disposto na presente secção, o regime jurídico da organização e funcionamento dos CRI, assim como o regime remuneratório e de incentivos a atribuir a todos os profissionais que os integram, constam do anexo ii do presente decreto-lei e do qual faz parte integrante.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -220,7 +268,9 @@ Sem prejuízo do disposto na presente secção, o regime jurídico da organizaç
 
 4 - [...]
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...]
 
@@ -242,9 +292,9 @@ Sem prejuízo do disposto na presente secção, o regime jurídico da organizaç
 
 [...]
 
-|  |  |
-| --- | --- |
 | [...] | [...] |
+| --- | --- |
+|  |  |
 | [...] | [...] |
 | [...] | [...] |
 | [...] | [...] |
@@ -283,13 +333,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 29 de novembro de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - Manuel Francisco Pizarro de Sampaio e Castro.
 
-**Promulgado em 12 de dezembro de 2023.**
+Promulgado em 12 de dezembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 13 de dezembro de 2023.**
+Referendado em 13 de dezembro de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
 
@@ -636,45 +686,47 @@ VMM - Corresponde ao valor máximo mensal fixado para o correspondente grupo de 
 
 (40 horas)
 
-|  |  |  |  |
+| Situação detida | Situação para que transita |  |  |
 | --- | --- | --- | --- |
-| Situação detida | Situação detida | Situação para que transita | Situação para que transita |
-| Categoria | Posição remuneratória (40 horas) | Categoria | Posição remuneratória |
+| Categoria | Posição remuneratória (40 horas) | Categoria | Posição<br>remuneratória |
+|  |  |  |  |
 | Assistente graduado sénior... | 1.ª | Assistente graduado sénior... | 1.ª |
-| Assistente graduado sénior... | 2.ª | Assistente graduado sénior... | 2.ª |
-| Assistente graduado sénior... | 3.ª | Assistente graduado sénior... | 3.ª |
+| 2.ª | 2.ª |  |  |
+| 3.ª | 3.ª |  |  |
 | Assistente graduado... | 1.ª | Assistente graduado... | 1.ª |
-| Assistente graduado... | 2.ª | Assistente graduado... | 2.ª |
-| Assistente graduado... | 3.ª | Assistente graduado... | 3.ª |
-| Assistente graduado... | 4.ª | Assistente graduado... | 4.ª |
-| Assistente graduado... | 5.ª | Assistente graduado... | 5.ª |
+| 2.ª | 2.ª |  |  |
+| 3.ª | 3.ª |  |  |
+| 4.ª | 4.ª |  |  |
+| 5.ª | 5.ª |  |  |
 | Assistente... | 1.ª | Assistente... | 1.ª |
-| Assistente... | 2.ª | Assistente... | 2.ª |
-| Assistente... | 3.ª | Assistente... | 3.ª |
-| Assistente... | 4.ª | Assistente... | 4.ª |
-| Assistente... | 5.ª | Assistente... | 5.ª |
-| Assistente... | 6.ª | Assistente... | 6.ª |
-| Assistente... | 7.ª | Assistente... | 7.ª |
-| Assistente... | 8.ª | Assistente... | 8.ª |
+| 2.ª | 2.ª |  |  |
+| 3.ª | 3.ª |  |  |
+| 4.ª | 4.ª |  |  |
+| 5.ª | 5.ª |  |  |
+| 6.ª | 6.ª |  |  |
+| 7.ª | 7.ª |  |  |
+| 8.ª | 8.ª |  |  |
 
 (35 horas e 42 horas, ambos com dedicação exclusiva e 35 horas sem dedicação exclusiva)
 
-|  |  |  |  |
+| Situação detida | Situação para que transita |  |  |
 | --- | --- | --- | --- |
-| Situação detida | Situação detida | Situação para que transita | Situação para que transita |
 | Categoria | Escalão (35 h c/de, 42 h c/de e 35 h s/de) | Categoria | Posição remuneratória |
+|  |  |  |  |
 | Assistente graduado sénior... | 1.º | Assistente graduado sénior... | 1.ª |
-| Assistente graduado sénior... | 2.º | Assistente graduado sénior... | 1.ª |
-| Assistente graduado sénior... | 3.º | Assistente graduado sénior... | 2.ª |
-| Assistente graduado sénior... | 4.º | Assistente graduado sénior... | 3.ª |
+| 2.º | 1.ª |  |  |
+| 3.º | 2.ª |  |  |
+| 4.º | 3.ª |  |  |
 | Assistente graduado... | 1.º | Assistente graduado... | 1.ª |
-| Assistente graduado... | 2.º | Assistente graduado... | 2.ª |
-| Assistente graduado... | 3.º | Assistente graduado... | 3.ª |
-| Assistente graduado... | 4.º | Assistente graduado... | 4.ª |
-| Assistente graduado... | 5.º | Assistente graduado... | 5.ª |
-| Assistente graduado... | 6.º | Assistente graduado... | 6.ª |
+| 2.º | 2.ª |  |  |
+| 3.º | 3.ª |  |  |
+| 4.º | 4.ª |  |  |
+| 5.º | 5.ª |  |  |
+| 6.º | 6.ª |  |  |
 | Assistente... | 1.º | Assistente... | 1.ª |
-| Assistente... | 2.º | Assistente... | 2.ª |
-| Assistente... | 3.º | Assistente... | 3.ª |
-| Assistente... | 4.º | Assistente... | 4.ª |
-| Assistente... | 5.º | Assistente... | 5.ª |
+| 2.º | 2.ª |  |  |
+| 3.º | 3.ª |  |  |
+| 4.º | 4.ª |  |  |
+| 5.º | 5.ª |  |  |
+
+117168391

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/08/15300/0535905367.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/160/2008/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2008-455151
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62ade278ec9c9af4858faa709cbfbcadbdcf6ce771800f26c64d1b07d0fa0d3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 969453f02aab2db6a8eb4e62ad8e38740d33dc4df02ad03e47e8b3cc482f6e76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Autoridade Florestal Nacional
 - Definição de Competências
 - Denominação de Instituição
 - Direcção Geral dos Recursos Florestais
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orgânica
-- Autoridade Florestal Nacional
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:544386:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:602067:por
+  label: "Alterado o art. 21º do Dec Lei 209/2006, de 27-Out, na redacção do presente diploma, que o republica, pelo DEC LEI.44/2009.13.02.2009.MADRP,\
+    \ DR.IS [31] de 13.02.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2009-602067
+  date: '2009-02-13'
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Extinto o Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, e determinada a transição para o Ministério\
+    \ da Agricultura, do Mar, Ambiente e Ordenamento do Território dos serviços, organismos, entidades e estruturas identificados\
+    \ no Dec lei 209/2006 de 27-Out, alterado pelo presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl]\
+    \ de 12.07.2011, nos termos do seu art. 17º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amends
+  target: pt:numero:decreto-lei:32/2008
+  label: "Altera os artigos 4.º e 13.º, o anexo I (na redacção do Decreto-Lei n.º 32/2008, de 25 de Fevereiro), adita a alínea\
+    \ g) ao n.º 4 do artigo 21.º (alterando a designação da Direcção-Geral dos Recursos Florestais para Autoridade Florestal\
+    \ Nacional) ao Decreto-Lei n.º 209/2006, de 27 de Outubro, DR.IS [208] que republica em anexo \0\0"
+  source: null
+  date: '2006-10-27'
 - type: cites
   target: celex:31989R4045
   label: null
@@ -86,16 +107,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/209/2006/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/209/2006/10/27/p/dre
+- type: repealed_by
+  target: pt:dre:544386:por
+  label: "Revogado, a partir de 22.01.2012, o Dec Lei 209/2006 de 27-Out, alterado e republicado pelo presente diploma, pelo\
+    \ DEC LEI.7/2012.17.01.2012.MAMAOT, DR.IS [12] de 17.01.2012 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
+- type: repeals
+  target: pt:numero:decreto-lei:307/2001
+  label: "Revoga, a partir de 01.09.2008, as alíneas a), b) e d) do artigo 2.º, os artigos 7.º a 15.º, e 16.º, 16.º-A, 16.º-B\
+    \ (os três últimos na redacção do Decreto-Lei n.º 307/2001, de 6 de Dezembro), 19.º, 20.º e 25.º do Decreto-Lei n.º 166/2000,\
+    \ de 5 de Agosto, DR.IS-A [180]\0\0"
+  source: null
+  date: '2000-08-05'
 article_structure:
-  article_count: 34
+  article_count: 33
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:54Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +178,9 @@ g) ...
 
 2 - ...
 
-###### Artigo 13.º — Autoridade Florestal Nacional
+Artigo 13.º
+
+Autoridade Florestal Nacional
 
 1 - A AFN tem por missão promover o desenvolvimento sustentável dos recursos florestais e dos espaços associados e ainda dos recursos cinegéticos, apícolas e aquícolas das águas interiores e outros directamente associados à floresta e às actividades silvícolas, através do conhecimento da sua evolução e fruição, garantindo a sua protecção, conservação e gestão, promovendo os equilíbrios intersectoriais, a responsabilização dos diferentes agentes e uma adequada organização dos espaços florestais, assim como a melhoria da competitividade das indústrias que integram as várias fileiras florestais, bem como a prevenção estrutural, actuando de forma concertada no planeamento e na procura de estratégias conjuntas no domínio da defesa da floresta, assumindo as funções de autoridade florestal nacional.
 
@@ -168,7 +204,7 @@ O anexo i ao Decreto-Lei n.º 209/2006, de 27 de Outubro, na redacção que lhe 
 
 ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15300/0535905367.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15300/0535905367.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15300/0535905367.pdf)
 
 ###### Artigo 3.º — Aditamento ao Decreto-Lei n.º 209/2006, de 27 de Outubro
 
@@ -216,15 +252,15 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 19 de Junho de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Luís Medeiros Vieira.
 
-**Promulgado em 25 de Julho de 2008.**
+Promulgado em 25 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de Julho de 2008.**
+Referendado em 29 de Julho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 209/2006, de 27 de Outubro
 
@@ -648,8 +684,8 @@ No quadro da reforma dos laboratórios do Estado, podem ser objecto de revisão 
 
 ## ANEXO I — Cargos de direcção superior da administração directa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15300/0535905367.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15300/0535905367.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15300/0535905367.pdf)
 
 ## ANEXO II — Dirigentes de organismos da administração indirecta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15300/0535905367.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15300/0535905367.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15300/0535905367.pdf)

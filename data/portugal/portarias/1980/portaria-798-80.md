@@ -46,40 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/798-1980-462190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 682702bfdecd673fa29c0490066b95a4deb365292d9633c0af2854090421d6de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc48865c94e5b43a96b680f18097cd66d96dfed816460c2c06c93ced12bbd76d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Chaves
+- Hospital Distrital
+- Quadro de Pessoal
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA PELA PORTARIA NUMERO 725/83, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 143, DE 24/6/83.\0/6/83.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:642185:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:601143:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.48/82.13.01.1982.MFP, DR.IS [10] de 13.01.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/48-1982-601143
+  date: '1982-01-13'
+- type: amended_by
+  target: pt:dre:318305:por
+  label: "Alterado o quadro de pessoal pela PORT.1306/82.31.12.1982.MFP, DR.IS [301] de 31.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1306-1982-318305
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:312618:por
+  label: "Alterado o quadro de pessoal pela PORT.348/83.1983.03.29.MFP DR.IS [73]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/348-1983-312618
+  date: '1983-03-29'
+- type: amended_by
+  target: pt:dre:180455:por
+  label: "Aumentado um lugar ao quadro de pessoal aprovado pelo presente diploma, pela PORT.589/85.14.08.1985.PCM, DR.IS [186]\
+    \ de 14.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/589-1985-180455
+  date: '1985-08-14'
+- type: amended_by
+  target: pt:dre:642185:por
+  label: Substituído o quadro de pessoal médico do Hospital Distrital de Chaves pelo(a) Portaria n.º 413/91 - Diário da República
+    n.º 112/1991, Série I-B de 1991-05-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1991-642185
+  date: '1991-05-16'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:20Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +147,6 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Hospital Distrital de Chaves
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23200/31513152.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23200/31513152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/23200/31513152.pdf)
 
 Nota. - Ao funcionário administrativo que exercer as funções de tesoureiro será atribuída a remuneração mensal de 600$00 para falhas.

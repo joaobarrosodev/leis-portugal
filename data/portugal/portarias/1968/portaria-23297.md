@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23297-1968-234931
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec8617c700bdf7d561e6690d6a75474434f9430ea216873a4ca4b9cf39a6a3bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90207ed21ff2f5062969364d4c0a606c2b2c550a2e6df836bf9dbcded1e29548
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aveiro
+- Junta Autónoma do Porto de Aveiro
+- Junta Autónoma dos Portos
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:383042:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:217347:por
+  label: "Mantidas em vigor, com as alterações das tarifas provisórias aprovadas pela Portaria 15601, de 08 de Novembro de\
+    \ 1955, na redacção do presente diploma, pela PORT.24456.06.12.1969.MCOMN, DG.IS [285] de 06.12.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24456-1969-217347
+  date: '1969-12-06'
+- type: amended_by
+  target: pt:dre:680804:por
+  label: "Mantidas em vigor, com as alterações as tarifas provisórias aprovadas pela Portaria 15601, de 08 de Novembro de\
+    \ 1955, na redacção do presente diploma, pela PORT.266/72.12.05.1972.MCOMN, DG.IS [112] de 12.05.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/266-1972-680804
+  date: '1972-05-12'
+- type: amended_by
+  target: pt:dre:383042:por
+  label: "Alteradas as tarifas provisórias aprovadas pela Portaria 15601, de 08 de Novembro de 1955, na redacção do presente\
+    \ diploma, pela PORT.223/79.08.05.1979.MTC, DR.IS [105] de 08.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/223-1979-383042
+  date: '1979-05-08'
+- type: cites
+  target: pt:dre:247689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:56Z'
   warnings: []
   errors: []
 ---

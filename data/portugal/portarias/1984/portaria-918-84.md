@@ -47,40 +47,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/918-1984-401330
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T08:16:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 102163565cb4c424d1fae956e96b83fe0c217ac9251fa3ed0994f7d6aeb94573
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be9926960b39b6ffa78fdd56ee1187a8be5b5f46dd895897ec4787ed3c3b62c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:16:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Universitário de Trás-os-montes e ALTO Douro
+- Licenciatura
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:550458:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:550458:por
+  label: "Alterado o anexo I, pela PORT.1079/89.1989.12.14.ME, DR.IS[286]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1079-1989-550458
+  date: '1989-12-14'
+- type: cites
+  target: pt:dre:309694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565003:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:16:22Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +169,7 @@ A classificação final é calculada nos termos da [Portaria n.º 792/81](https:
 
 Ministério da Educação.
 
-**Assinada em 3 de Dezembro de 1984.**
+Assinada em 3 de Dezembro de 1984.
 
 Pelo Ministro da Educação, Joaquim Germano Pinto Machado Correia da Silva, Secretário de Estado do Ensino Superior.
 
@@ -139,22 +183,22 @@ QUADRO I
 
 1.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28900/38073808.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28900/38073808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28900/38073808.pdf)
 
 QUADRO II
 
 2.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28900/38073808.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28900/38073808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28900/38073808.pdf)
 
 QUADRO III
 
 3.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28900/38073808.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28900/38073808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28900/38073808.pdf)
 
 QUADRO IV
 
 4.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28900/38073808.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28900/38073808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28900/38073808.pdf)

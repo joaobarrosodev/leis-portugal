@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/168-1984-661887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T07:58:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37024dee4118a49c383aa04dae359f56206da38a5224e59d0b344c48f1acddb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 284a4a1946440343cd8f568a825744e3a4cf4eaf02d87f343dd8233131476e80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:58:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital Distrital
+- Leiria
+- Médico
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:609661:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:182989:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Leiria aprovado pela Port 760/80 de 01-Out, com a redacção\
+    \ do presente diploma, pela PORT.438/85.08.07.1985.PCM, DR.IS [154] de 08.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/438-1985-182989
+  date: '1985-07-08'
+- type: amended_by
+  target: pt:dre:494859:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Leiria aprovado pela Port 760/80 de 01-Out, com a redacção\
+    \ do presente diploma, pela PORT.755/87.02.09.1987.MF, DR.IS [201] de 02.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/755-1987-494859
+  date: '1987-09-02'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:58:02Z'
   warnings: []
   errors: []
 ---
@@ -96,10 +136,10 @@ Dado que tal reajustamento não origina aumento de encargos e, portanto, se enqu
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Saúde e pelo Secretário de Estado da Administração Pública, introduzir no quadro de pessoal do Hospital Distrital de Leiria as seguintes alterações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/03/07300/09990999.pdf))](https://files.diariodarepublica.pt/1s/1984/03/07300/09990999.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/03/07300/09990999.pdf)
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Saúde.
 
-**Assinada em 3 de Fevereiro de 1984.**
+Assinada em 3 de Fevereiro de 1984.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Saúde, António Manuel Maldonado Gonelha. - O Secretário de Estado da Administração Pública, José San-Bento de Menezes.

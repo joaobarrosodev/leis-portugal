@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/48-1980-460623
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd074c0b9fd924a8c70b8da571923110594e1c1101c8083bd7e1de1ababda516
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b60976384fe8bf1c34baf6dc9cfcff6f222043338619ef38f36a7302f5b6102e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autarquia Local
+- Comissão de Coordenação da Região Centro
+- Comissão de Coordenação da Região de Lisboa e VALE do TEJO
+- Comissão de Coordenação da Região do Alentejo
+- Comissão de Coordenação da Região Norte
+- Definição de Competências
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:365769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365886:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:36Z'
   warnings: []
   errors: []
 ---
@@ -169,8 +184,8 @@ Os quadros IX, X, XI e XII anexos ao [Decreto Regulamentar n.º 71/79](https://d
 
 Diogo Pinto de Freitas do Amaral - Eurico de Melo - Aníbal António Cavaco Silva.
 
-**Promulgado em 8 de Setembro de 1980.**
+Promulgado em 8 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

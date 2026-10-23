@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/30/1997/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1997-571197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:53:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 225b078e5c81fad18666fd9557ed916bc839b0ded82f42d2f2493611db52d78d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6828a9f7d8dedc01bc9116c3520e3499990e7bf96b063e483d4bd56ca48f38b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:53:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,20 +70,20 @@ reuse:
 subjects:
 - Administração Central
 - ÁREA Metropolitana
-- Financiamento
+- Arrendamento Urbano para Habitação
+- Autarquia Local
 - Crédito à Habitação
 - Crédito Bonificado
-- Realojamento
-- Lisboa
+- Financiamento
 - Habitação Social
 - Instituto de Gestão e Alienação do Património Habitacional do Estado
 - Instituto Nacional de Habitação
 - Intervenção do Estado
-- Programa Especial de Realojamento nas Áreas Metropolitanas de Lisboa e Porto
-- Arrendamento Urbano para Habitação
-- Transferência de Competências
-- Autarquia Local
+- Lisboa
 - Porto
+- Programa Especial de Realojamento nas Áreas Metropolitanas de Lisboa e Porto
+- Realojamento
+- Transferência de Competências
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/163/1993/05/07/p/dre
@@ -117,16 +117,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/922/1995/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/922/1995/07/21/p/dre
+- type: cites
+  target: pt:dre:243918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632883:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:53:11Z'
   warnings: []
   errors: []
 ---
@@ -179,12 +219,12 @@ Os procedimento administrativos e legais inerentes à instrução e concessão c
 
 Visto e aprovado em Conselho de Ministros de 14 de Novembro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho.
 
-**Promulgado em 13 de Janeiro de 1997.**
+Promulgado em 13 de Janeiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Janeiro de 1997.**
+Referendado em 15 de Janeiro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

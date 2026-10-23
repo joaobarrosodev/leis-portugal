@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/214/1996/11/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1996-168056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:45:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2aca6d6a8d70a5a78c8b4eff5f46e4b6ec0a3ad2ebdc1d4cee6d23cc838389b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9321b90cdba4fc0f8363399f42331f603aa377ef080b9bb7a20b8e413166469f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:45:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,35 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Carta de Condução
-- Exame de Condução
 - Cidadão Estrangeiro
 - Código da Estrada
+- Exame de Condução
 - Veículo
 relationships:
 - type: amended_by
   target: pt:dre:150757538:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:178550:por
+  label: "Alterados, a partir de 02.11.2012, os art.s 125º, 128º e 130º do Código da Estrada, aprovado pelo Dec Lei 114/94,\
+    \ de 03-maio, na redação do presente diploma, pelo DEC LEI.138/2012.05.07.2012.MEE, DR.IS [129] de 05.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-2012-178550
+  date: '2012-07-05'
 - type: cites
   target: celex:31991L0439
   label: null
   source: http://data.europa.eu/eli/dir/1991/439/oj
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:45:47Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +129,9 @@ Carta de condução
 
 6 - Os titulares de cartas de condução válidas para veículos da categoria C ou D estão habilitados para conduzir veículos da categoria B.
 
-###### Artigo 128.º — Limitações ao exercício da condução
+Artigo 128.º
+
+Limitações ao exercício da condução
 
 ...
 
@@ -131,7 +139,9 @@ Carta de condução
 
 ...
 
-###### Artigo 130.º — Outros títulos de habilitação para a condução de veículos automóveis
+Artigo 130.º
+
+Outros títulos de habilitação para a condução de veículos automóveis
 
 1 - ...
 
@@ -161,12 +171,12 @@ Exames para obtenção da carta de condução
 
 Visto e aprovado em Conselho de Ministros de 19 de Setembro de 1996. - António Manuel de Oliveira Guterres - Alberto Bernardes Costa.
 
-**Promulgado em 31 de Outubro de 1996.**
+Promulgado em 31 de Outubro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Novembro de 1996.**
+Referendado em 11 de Novembro de 1996.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.

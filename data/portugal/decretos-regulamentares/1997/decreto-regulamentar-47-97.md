@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/47/1997/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1997-685666
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:24:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f69154e0aea0f010f7e6994a8d2bea2305cc2490e4e1d45f7c3c705affb70dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8ef8f75c6716b7973f0b6c449d90ae63685b886b013b91823e444e9399d7a0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:24:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro de Classificação e Selecção
-- Exército
 - Definição de Competências
-- Serviço Militar
+- Exército
 - Forças Armadas
 - Recrutamento Militar
+- Serviço Militar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/50/1993/02/26/p/dre
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/70/1994/12/21/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/70/1994/12/21/p/dre
+- type: cites
+  target: pt:dre:571589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658440:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:24:44Z'
   warnings: []
   errors: []
 ---
@@ -220,11 +232,15 @@ b) Um oficial médico.
 
 2 - Às juntas especiais de inspecção compete, designadamente, proceder no domicílio às operações de classificação e selecção dos mancebos portadores de lesão ou doença que torne impossível a sua comparência nos CCS.
 
-###### Artigo 13.º — Secção de Pessoal
+###### Artigo 13.º
+
+#### Secção de Pessoal
 
 À Secção de Pessoal compete, designadamente, a administração dos recursos humanos dos CCS.
 
-###### Artigo 14.º — Secção de Informações e Operações)
+###### Artigo 14.º
+
+#### Secção de Informações e Operações)
 
 À Secção de Informações e Operações compete, designadamente:
 
@@ -240,7 +256,9 @@ a) Administrar os recursos materiais e financeiros disponibilizados;
 
 b) Estabelecer e assegurar o cumprimento das medidas de segurança de pessoal, material e instalações.
 
-###### Artigo 16.º — Secção de Logística
+###### Artigo 16.º
+
+#### Secção de Logística
 
 A natureza, as competências e a estrutura da Secção de Logística são as constantes do [Decreto Regulamentar n.º 70/94](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/70-1994-571589), de 21 de Dezembro.
 
@@ -256,12 +274,12 @@ Presidência do Conselho de Ministros, 18 de Setembro de 1997.
 
 António Manuel de Oliveira Guterres - José Júlio Pereira Gomes - Maria Manuela de Brito Arcanjo Marques da Costa.
 
-**Promulgado em 24 de Outubro de 1997.**
+Promulgado em 24 de Outubro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Outubro de 1997.**
+Referendado em 30 de Outubro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

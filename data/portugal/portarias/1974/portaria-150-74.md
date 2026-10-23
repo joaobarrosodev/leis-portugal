@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/02/04700/02880288.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/150-1974-412987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:20:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4db22f3f854df959e24d0d2d4a7b7e4478018258f9cca94cff8f8f60b9f9ed93
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 478471f6d5703a2b0cb32a6c0b3e273c8f712aa20df48c03f835b34298a0351f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:20:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pesca Desportiva
+- Pesca Fluvial
+- Proteção dos Animais
+- RIO Ancora
+- RIO Coura
+- ZONA de Pesca
 relationships:
 - type: amended_by
   target: pt:dre:610915:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:335748:por
+  label: "Suspensa e substituídas temporariamente as suas normas pela PORT.354/75.1975.06.09.SEP-MAP,DG.IS [132]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/354-1975-335748
+  date: '1975-06-09'
+- type: amended_by
+  target: pt:dre:392254:por
+  label: "Alterado o nº 2 pela PORT.36/79.1979.01.22.MAP,DG.IS [18]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/36-1979-392254
+  date: '1979-01-22'
+- type: cites
+  target: pt:dre:156660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643686:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:610915:por
+  label: "Revogada a al. a) do nº1 do presente diploma, pela PORT.369/89.24.05.1989.MAPA, DR.IS [119] de 24.05.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/369-1989-610915
+  date: '1989-05-24'
+- type: repealed_by
+  target: pt:dre:3565899:por
+  label: "Revogada pela PORT.101/2001(2ªSÉRIE).2001.01.12.MADRP, DR.IIS [24[ de 29/JAN/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-2001-3565899
+  date: '2001-01-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:20:31Z'
   warnings: []
   errors: []
 ---

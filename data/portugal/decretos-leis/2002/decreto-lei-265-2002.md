@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/11/273a00/73907396.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/265/2002/11/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-2002-447913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c531f8b67108a126ef44cc14a9c621bab32a846c6eaf778af7937cfe6c2d6c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43fc16e710936c509d1371e1fa70feabf52db0ee8d439eb94d4ac28954a7175c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,12 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Brucelose
-- Doença Animal
-- Gado Caprino
 - CE Países
 - Controlo Sanitário
-- Saúde Pública
+- Doença Animal
+- Gado Caprino
 - Gado Ovino
+- Saúde Pública
 - Troca Intracomunitária
 relationships:
 - type: amended_by
@@ -101,16 +101,21 @@ relationships:
   target: celex:32001L0010
   label: null
   source: http://data.europa.eu/eli/dir/2001/10/oj
+- type: repealed_by
+  target: pt:dre:213808:por
+  label: "Revogado pelo DEC LEI.227/2004.07.12.2004.MAPF, DR.IS-A [286] de 07.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-2004-213808
+  date: '2004-12-07'
 article_structure:
   article_count: 14
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:18Z'
   warnings: []
   errors: []
 ---
@@ -279,17 +284,19 @@ d) 60% para os cofres do Estado.
 
 Visto e aprovado em Conselho de Ministros de 19 de Setembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 6 de Novembro de 2002.**
+Promulgado em 6 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Novembro de 2002.**
+Referendado em 13 de Novembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
-## ANEXO A — SECÇÃO I
+## ANEXO A
+
+#### SECÇÃO I
 
 Febre aftosa.
 
@@ -353,7 +360,7 @@ I - Número de animais: ...
 
 II - Identificação de animais:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/11/273a00/73907396.pdf)
+[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/11/273a00/73907396.pdf)](https://files.diariodarepublica.pt/1s/2002/11/273a00/73907396.pdf)](https://files.diariodarepublica.pt/1s/2002/11/273a00/73907396.pdf)
 
 III - Proveniência:
 
@@ -443,7 +450,7 @@ I - Número de animais: ...
 
 II - Identificação de animais:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/11/273a00/73907396.pdf)
+[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/11/273a00/73907396.pdf)](https://files.diariodarepublica.pt/1s/2002/11/273a00/73907396.pdf)](https://files.diariodarepublica.pt/1s/2002/11/273a00/73907396.pdf)
 
 III - Proveniência:
 
@@ -559,7 +566,7 @@ I - Número de animais: ...
 
 II - Identificação de animais:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/11/273a00/73907396.pdf)
+[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/11/273a00/73907396.pdf)](https://files.diariodarepublica.pt/1s/2002/11/273a00/73907396.pdf)](https://files.diariodarepublica.pt/1s/2002/11/273a00/73907396.pdf)
 
 III - Proveniência:
 

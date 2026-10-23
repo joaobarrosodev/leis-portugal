@@ -46,36 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/692-1982-394766
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T07:22:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69328bbde7fbf1ef45393efb94ba28595b4f945e2ab4197d7ea3ef1cf38c516e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d58eb2da882e254b873ad51112611218bc235a91080f5382593f6302312b0e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:22:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ministério do Trabalho
+- Quadro de Pessoal
+- Serviço de Informação Científica e Técnica
+relationships:
+- type: cites
+  target: pt:dre:365767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621349:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:22:42Z'
   warnings: []
   errors: []
 ---
@@ -104,4 +127,4 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Ministérios das Finanças e do Plano, do Trabalho e da Reforma Administrativa, 30 de Junho de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro do Trabalho, Luís Alberto Garcia Ferrero de Morales. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/07/15900/20862086.pdf))](https://files.diariodarepublica.pt/1s/1982/07/15900/20862086.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/07/15900/20862086.pdf)

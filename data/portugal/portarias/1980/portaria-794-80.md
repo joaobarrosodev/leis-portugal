@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/794-1980-462204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d88f5aab519bbeca769b966e1690a7104456ab4b066dcbb331786c38b247a111
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2ff10d4afaf77f531fcb1f9b10e7563fffded8ffd12b0d861c66895815e9a81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Psicologia
+- Licenciatura
+- Plano de Estudos
+- Universidade de Coimbra
 relationships:
 - type: amended_by
   target: pt:dre:666130:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:395705:por
+  label: "Aditados os nºs 4º, 5º e 6º e revogados os quadros VI e VII do Anexo I, pela PORT.573/82.1982.06.09.MEU, DR.IS [131]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/573-1982-395705
+  date: '1982-06-09'
+- type: cites
+  target: pt:dre:138166:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORTARIA NUMERO 299/87, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 84, DE 10/4/87.\04/87.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:666130:por
+  label: "Revogada, sem prejuízo do disposto nos nºs 9º e 10º, pela PORT.299/87.1987.04.10.MEC, DR.IS [84]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/299-1987-666130
+  date: '1987-04-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:15Z'
   warnings: []
   errors: []
 ---
@@ -134,37 +157,37 @@ QUADRO I
 
 1.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf)
 
 QUADRO II
 
 2.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf)
 
 QUADRO III
 
 3.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf)
 
 QUADRO IV
 
 4.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf)
 
 QUADRO V
 
 5.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf)
 
 QUADRO VI
 
 Opções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf)
 
 Observações. - A comissão Instaladora fixará anualmente quais as opções que os alunos poderão escolher.
 
@@ -172,6 +195,6 @@ QUADRO VII
 
 Seminários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/23100/31403141.pdf)
 
 Observações. - A Comissão Instaladora fixará anualmente os seminários que os alunos poderão escolher. A Comissão Instaladora poderá fixar o número mínimo e máximo de alunos para o funcionamento de cada seminário.

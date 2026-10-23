@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/371-1971-642763
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3ea6f0bc0a0619f4479584ac8abf75f3eba233ab2f406a8cadc7cc2bb4301dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2615aef04c47d303b51d108b17d6cd263e27e816dccf2cb985d3b656d3c15ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:419843:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:18Z'
   warnings: []
   errors: []
 ---
@@ -127,4 +131,4 @@ Salvo disposição em contrário, qualquer distância menor que 6 km é contada 
 
 § único. A importância total de qualquer cobrança que não seja múltipla de 1$00 é arredondada para o múltiplo de 1$00 imediatamente superior. Este arredondamento é feito por cada empresa que intervém no transporte.
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

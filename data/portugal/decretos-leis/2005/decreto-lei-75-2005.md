@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/75/2005/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2005-563009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abf1f76cf5895058215bbfa0de2dfd8780155e186e326b6ab98dc681b389d7c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b020cd644bdd70d1916ccf98cc10162613f5e96564e6579f3efdbfb302001f7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Geral dos Serviços Prisionais
-- Subsídio de Risco
 - Estabelecimento Prisional
+- Subsídio de Risco
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Mantêm-se em vigor, nos termos do n.º 2 do art. 36.º, o disposto no art. 1.º do DR 38/82, de 07-jul, na redacção\
+    \ do presente diploma, e doDec Lei 237/97, de 8-set, pelo DEC LEI.215/2012.28.09.2012.MJ, DR.IS [189] de 28.09.2012\0\
+    2\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2012-09-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/237/1997/09/08/p/dre
   label: null
@@ -79,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/300/1991/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/300/1991/08/16/p/dre
+- type: cites
+  target: pt:dre:394533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674060:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:17Z'
   warnings: []
   errors: []
 ---
@@ -133,12 +152,12 @@ O artigo anterior tem natureza interpretativa.
 
 Visto e aprovado em Conselho de Ministros de 20 de Janeiro de 2005. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix - José Pedro Aguiar Branco.
 
-**Promulgado em 21 de Março de 2005.**
+Promulgado em 21 de Março de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Março de 2005.**
+Referendado em 24 de Março de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

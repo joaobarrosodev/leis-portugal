@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/236a00/63236323.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/264/1995/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1995-663765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:39:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba35759bc7bb57ae56d04992cfcec06c1f017a2b70d14840f883b44011c160c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07edbeff7579d76f594077f5fe45cc89ef8ae4dda0f14dfe98616d553f3c1488
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,15 @@ relationships:
   target: pt:dre:70508971:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinado que seja exercida pelo Ministério da Defesa Nacional em articulação com a Ministra da Agricultura, do\
+    \ Mar, Ambiente e Ordenamento do Terriório, e com o Ministro da Educação e Ciência a competência relativa às orientações\
+    \ estratégicas, bem como o acompanhamento da sua execução, para o Instituto Hidrográfico, cuja orgânica consta do Dec\
+    \ Lei 134/91 de 04-Abr, alterado pelo presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011\0\
+    1\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/134/1991/04/04/p/dre
   label: null
@@ -81,16 +90,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/49/1993/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/49/1993/02/26/p/dre
+- type: cites
+  target: pt:dre:622125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657439:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70508971:por
+  label: Revogado o Dec Lei 134/91, de 04-abr, na redação do presente diploma, pelo(a) Decreto-Lei n.º 230/2015 - Diário da
+    República n.º 199/2015, Série I de 2015-10-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-2015-70508971
+  date: '2015-10-12'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:39:55Z'
   warnings: []
   errors: []
 ---
@@ -111,11 +134,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 5.º e 21.º do [Decreto-Lei n.º 134/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1991-622125), de 4 de Abril, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 5.º e 21.º do [Decreto-Lei n.º 134/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1991-622125), de 4 de Abril, passam a ter a seguinte redacção:
 
-###### Artigo 1.º O Instituto Hidrográfico, abreviadamente designado por IH, é um órgão central de administração e direcção da Marinha, dotado de autonomia administrativa e financeira, que funciona na directa dependência do Chefe do Estado-Maior da Armada.
+Artigo 1.º O Instituto Hidrográfico, abreviadamente designado por IH, é um órgão central de administração e direcção da Marinha, dotado de autonomia administrativa e financeira, que funciona na directa dependência do Chefe do Estado-Maior da Armada.
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 a) ...
 
@@ -125,7 +148,7 @@ c) ...
 
 d) A comissão de fiscalização.
 
-###### Art. 21.º - 1 - ...
+Art. 21.º - 1 - ...
 
 a) Plano de actividades;
 
@@ -137,26 +160,26 @@ d) Balanço previsional.
 
 2 - ...
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 134/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1991-622125), de 4 de Abril, o artigo 12.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 134/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1991-622125), de 4 de Abril, o artigo 12.º-A, com a seguinte redacção:
 
-###### Art. 12.º-A - 1 - À comissão de fiscalização compete a fiscalização contabilística e a emissão de parecer sobre o relatório e conta de gerência financeira anuais.
+Art. 12.º-A - 1 - À comissão de fiscalização compete a fiscalização contabilística e a emissão de parecer sobre o relatório e conta de gerência financeira anuais.
 
 2 - A comissão de fiscalização é composta por um presidente e dois vogais, nomeados por despacho conjunto dos Ministros da Defesa Nacional e das Finanças.
 
 3 - As funções de membro da comissão de fiscalização são remuneradas nos termos fixados por despacho conjunto dos Ministros da Defesa Nacional e da Finanças.
 
-###### Art. 3.º São revogados o n.º 3 do artigo 21.º, os n.os 4 e 5 do artigo 22.º e o artigo 28.º do [Decreto-Lei n.º 134/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1991-622125), de 4 de Abril.
+Art. 3.º São revogados o n.º 3 do artigo 21.º, os n.os 4 e 5 do artigo 22.º e o artigo 28.º do [Decreto-Lei n.º 134/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1991-622125), de 4 de Abril.
 
-###### Art. 4.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1996.
+Art. 4.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1996.
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - António Jorge de Figueiredo Lopes - Eduardo de Almeida Catroga.
 
-**Promulgado em 3 de Outubro de 1995.**
+Promulgado em 3 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Outubro de 1995.**
+Referendado em 6 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

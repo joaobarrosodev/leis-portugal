@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T08:28:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01f38ab98845fdbde1166f3ca6e3f9e680b77a84c27988e8d2b033ebb26a2c2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ca049d1b32be3b3e46f06690d9dda30a9dd1c6cadd89162641ab340200862d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:28:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Marinha
+- Mergulhador
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:367241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412226:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:28:10Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +105,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, ao a
 
 1.º Os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 12.º, 16.º, 17.º, 26.º e 27.º do Regulamento do Serviço de Mergulhadores da Armada passam a ter, respectivamente, as seguintes redacções:
 
-###### Art. 2.º Os mergulhadores dos quadros permanentes compreendem:
+Art. 2.º Os mergulhadores dos quadros permanentes compreendem:
 
 a) Os mergulhadores a que se referem as alíneas a), b), c), d) e e) do artigo 4.º genericamente designados, no âmbito deste Regulamento, por mergulhadores-sapadores;
 
@@ -98,7 +113,7 @@ b) Os mergulhadores-nadadores de combate;
 
 c) Os mergulhadores-vigias.
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 1) Mergulhadores-sapadores:
 
@@ -138,7 +153,7 @@ i) Cooperar no serviço de limitação de avarias;
 
 j) Participar no serviço de vigilância.
 
-###### Art. 4.º Prestam serviço de mergulhadores-sapadores:
+Art. 4.º Prestam serviço de mergulhadores-sapadores:
 
 a) ...
 
@@ -150,38 +165,38 @@ d) ...
 
 e) As praças habilitadas com o curso de especialização em sapador submarino.
 
-###### Art. 5.º Prestam serviço de mergulhador-nadador de combate os oficiais, sargentos e praças habilitados com o curso de aperfeiçoamento em mergulhador-nadador de combate.
+Art. 5.º Prestam serviço de mergulhador-nadador de combate os oficiais, sargentos e praças habilitados com o curso de aperfeiçoamento em mergulhador-nadador de combate.
 
-###### Art. 6.º Prestam serviço de mergulhador-vigia os oficiais, sargentos e praças habilitados com o curso de aperfeiçoamento em mergulhador-vigia.
+Art. 6.º Prestam serviço de mergulhador-vigia os oficiais, sargentos e praças habilitados com o curso de aperfeiçoamento em mergulhador-vigia.
 
-###### Art. 7.º Prestam serviço de mergulhador em serviço militar obrigatório as praças habilitadas com a instrução técnica básica de mergulhadores.
+Art. 7.º Prestam serviço de mergulhador em serviço militar obrigatório as praças habilitadas com a instrução técnica básica de mergulhadores.
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 § único. O ingresso na categoria de sargentos mantém o direito à categoria de mergulhador anteriormente possuída como praça, nas condições do corpo, deste artigo e demais disposições do presente Regulamento.
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 a) Os mergulhadores-sapadores, os mergulhadores-nadadores de combate e os mergulhadores em serviço militar obrigatório devem treinar um mínimo de 270 minutos por trimestre à máxima profundidade praticável e com todos os aparelhos de mergulho para cuja condução estejam habilitados;
 
 b) ...
 
-###### Art. 17.º Os mergulhadores da Armada que tenham deixado de mergulhar por um período superior a 3 meses não devem imergir a mais de 20 m sem que antes tenham efectuado 3 mergulhos, em dias separados, a profundidades inferiores.
+Art. 17.º Os mergulhadores da Armada que tenham deixado de mergulhar por um período superior a 3 meses não devem imergir a mais de 20 m sem que antes tenham efectuado 3 mergulhos, em dias separados, a profundidades inferiores.
 
-###### Art. 26.º ...
+Art. 26.º ...
 
 § único. Em casos especiais, e na impossibilidade de se dispor de oficiais nas condições indicadas, os sargentos da classe de mergulhadores poderão assumir essa responsabilidade.
 
-###### Art. 27.º - 1 - ...
+Art. 27.º - 1 - ...
 
 2 - Em casos especiais, e na impossibilidade de se dispor de oficiais nas condições indicadas, os sargentos da classe de mergulhadores poderão assumir essa responsabilidade.
 
 2.º Ao mesmo Regulamento é aditado um novo artigo com a seguinte redacção:
 
-###### Art. 32.º-A. Salvo nos casos devidamente justificados, os mergulhadores-nadadores de combate não realizarão acções submarinas a título individual ou isolado do âmbito da missão do Destacamento de Acções Especiais.
+Art. 32.º-A. Salvo nos casos devidamente justificados, os mergulhadores-nadadores de combate não realizarão acções submarinas a título individual ou isolado do âmbito da missão do Destacamento de Acções Especiais.
 
 Ministério da Defesa Nacional.
 
-**Assinada em 4 de Julho de 1985.**
+Assinada em 4 de Julho de 1985.
 
-**O Ministro da Defesa Nacional, Rui Manuel Parente Chancerelle de Machete.**
+O Ministro da Defesa Nacional, Rui Manuel Parente Chancerelle de Machete.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/08/15600/0273202734.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/43/2016/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2016-75150220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4acdfec9fdc077b070418980a617fb7f4d3f5d8fc38fa0f674128ca151d8f96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0cc02acc85451ea8a3c198c1a3b2e3e8b0ee44c73174b45d9499080af65efca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jogos de Fortuna e Azar
 - Euromilhões
-- Lisboa
 - Interesse Público
-- Santa Casa da Misericórdia
+- Jogos de Fortuna e Azar
+- Lisboa
 - Prémio
 - Receita
+- Santa Casa da Misericórdia
 - Totosorteio
 relationships:
 - type: amended_by
@@ -111,16 +111,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/67/2015/04/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/67/2015/04/29/p/dre
+- type: cites
+  target: pt:dre:146221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67098360:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:10Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +211,9 @@ Os artigos 2.º, 5.º e 8.º do [Decreto-Lei n.º 210/2004](https://diariodarepu
 
 6 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -191,7 +229,9 @@ Os artigos 2.º, 5.º e 8.º do [Decreto-Lei n.º 210/2004](https://diariodarepu
 
 7 - A participação no EUROMILHÕES implica a participação no «Totosorteio» e o pagamento do respetivo preço, para além do pagamento das apostas realizadas no EUROMILHÕES.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A receita do EUROMILHÕES é constituída pelo montante total das apostas registadas neste jogo, nos termos do n.º 1 do artigo 14.º do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de março.
 
@@ -207,15 +247,15 @@ O presente decreto-lei entra em vigor no dia 24 de setembro de 2016.
 
 Visto e aprovado em Conselho de Ministros de 28 de julho de 2016. - Augusto Ernesto Santos Silva - Fernando António Portela Rocha de Andrade - José António Fonseca Vieira da Silva.
 
-**Promulgado em 9 de agosto de 2016.**
+Promulgado em 9 de agosto de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de agosto de 2016.**
+Referendado em 10 de agosto de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 

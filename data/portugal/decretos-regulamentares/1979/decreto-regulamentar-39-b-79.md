@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 175/1979, 4º Suplemento, Série I de 1979-07-31
   number: '175'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 1762-(25) a 1762-(33)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/17504/00250033.pdf
 entry_into_force_dates: []
@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-b-1979-402717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66543db1dd4a025f650c4d710ef428c032144c0521b63ba7cc66b19446b82dde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26d9a1777ca9873e9c2870bfc0d0273e0701e072257fd5f32dbba31e14b0983c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Técnico-científico
+- Definição de Competências
+- Gestão Financeira
+- Instituto Nacional de Investigação das Pescas
+- Orgânica
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:138293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281266:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:10Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +108,13 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição o
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - O Instituto Nacional de Investigação das Pescas, abreviadamente designado por INIP, criado pelo artigo 42.º e alínea c) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, é um organismo cuja actividade se desenvolve no âmbito do estudo dos recursos vivos e meios aquáticos em todo o território nacional, para o que disporá de navios de investigação e de instalações laboratoriais de apoio.
+Artigo 1.º - 1 - O Instituto Nacional de Investigação das Pescas, abreviadamente designado por INIP, criado pelo artigo 42.º e alínea c) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, é um organismo cuja actividade se desenvolve no âmbito do estudo dos recursos vivos e meios aquáticos em todo o território nacional, para o que disporá de navios de investigação e de instalações laboratoriais de apoio.
 
 2 - As atribuições do INIP são as constantes do artigo 25.º do [Decreto-Lei n.º 22/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1977-138293), de 28 de Maio, e quaisquer outras que lhe sejam cometidas por lei.
 
 3 - O INIP estabelecerá com os organismos estrangeiros internacionais congéneres as ligações necessárias no domínio da sua actividade.
 
-###### Art. 2.º - 1 - O INIP é um organismo dotado de autonomia administrativa.
+Art. 2.º - 1 - O INIP é um organismo dotado de autonomia administrativa.
 
 2 - Constituem receitas próprias do INIP:
 
@@ -116,19 +134,19 @@ f) Quaisquer outras receitas que lhe sejam atribuídas por lei ou contrato.
 
 4 - Os saldos das dotações não utilizadas serão transferidos para o ano económico subsequente.
 
-###### Art. 3.º O INIP é dirigido por um director, com a categoria equiparada a director-geral, coadjuvado por um subdirector, com a categoria equiparada a subdirector-geral, que o substituirá nas suas ausências e impedimentos.
+Art. 3.º O INIP é dirigido por um director, com a categoria equiparada a director-geral, coadjuvado por um subdirector, com a categoria equiparada a subdirector-geral, que o substituirá nas suas ausências e impedimentos.
 
 ### CAPÍTULO II — Organização e funcionamento
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 4.º São órgãos do INIP:
+Art. 4.º São órgãos do INIP:
 
 a) O Conselho Técnico-Científico;
 
 b) O Conselho Administrativo.
 
-###### Art. 5.º - 1 - O Conselho Técnico-Científico é constituído pelos seguintes membros:
+Art. 5.º - 1 - O Conselho Técnico-Científico é constituído pelos seguintes membros:
 
 a) O director do INIP, que presidirá;
 
@@ -142,7 +160,7 @@ c) Os directores de serviços e chefes dos centros de investigação pesqueira.
 
 4 - Sempre que se mostre conveniente, serão convocados ou convidados, com estatuto consultivo, outros elementos do Ministério da Agricultura e Pescas ou a eles estranhos especialmente qualificados para o esclarecimento das matérias em apreciação.
 
-###### Art. 6.º - 1 - Ao Conselho Técnico-Científico compete:
+Art. 6.º - 1 - Ao Conselho Técnico-Científico compete:
 
 a) Pronunciar-se sobre os projectos de diploma que interfiram com a actividade do INIP;
 
@@ -178,11 +196,11 @@ b) Elaborar as actas das reuniões e desenvolver as acções delas resultantes;
 
 c) Assegurar o arquivo e expediente do Conselho.
 
-###### Art. 7.º - 1 - O Conselho Técnico-Científico funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo o plenário ordinariamente pelo menos duas vezes por ano e extraordinariamente sempre que o presidente o convoque.
+Art. 7.º - 1 - O Conselho Técnico-Científico funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo o plenário ordinariamente pelo menos duas vezes por ano e extraordinariamente sempre que o presidente o convoque.
 
 2 - Os assuntos submetidos à apreciação do Conselho Técnico-Científico são resolvidos por maioria simples dos membros presentes, tendo o presidente voto de qualidade.
 
-###### Art. 8.º - 1 - O Conselho Administrativo é o órgão deliberativo em matéria de gestão financeira, constituído pelos seguintes membros:
+Art. 8.º - 1 - O Conselho Administrativo é o órgão deliberativo em matéria de gestão financeira, constituído pelos seguintes membros:
 
 a) O director do INIP, que presidirá;
 
@@ -192,7 +210,7 @@ c) O director dos Serviços de Administração.
 
 2 - Servirá de secretário o chefe da Repartição de Administração Patrimonial e Financeira.
 
-###### Art. 9.º - 1 - Compete ao Conselho Administrativo:
+Art. 9.º - 1 - Compete ao Conselho Administrativo:
 
 a) Elaborar o projecto de orçamento do INIP de conta das dotações consignadas no Orçamento Geral do Estado e propor as alterações orçamentais consideradas necessárias;
 
@@ -226,7 +244,7 @@ c) Submeter à apreciação do Conselho todos os assuntos que entenda convenient
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 10.º São os seguintes os serviços do INIP:
+Art. 10.º São os seguintes os serviços do INIP:
 
 A) Serviços de apoio:
 
@@ -258,7 +276,7 @@ d) O Centro de Investigação Pesqueira de Faro.
 
 ##### SUBSECÇÃO I — Dos serviços de apoio
 
-###### Art. 11.º - 1 - A Direcção de Serviços de Administração exerce as suas atribuições nos domínios da administração financeira e patrimonial e de pessoal, expediente e arquivo, competindo-lhe ainda promover e realizar o afretamento, aquisição ou apoio de embarcações para o serviço do INIP, assegurar a sua gestão, bem como as das que sejam propriedade do Estado, garantindo a sua manutenção, apetrechamento e operacionalidade em relação aos programas a executar.
+Art. 11.º - 1 - A Direcção de Serviços de Administração exerce as suas atribuições nos domínios da administração financeira e patrimonial e de pessoal, expediente e arquivo, competindo-lhe ainda promover e realizar o afretamento, aquisição ou apoio de embarcações para o serviço do INIP, assegurar a sua gestão, bem como as das que sejam propriedade do Estado, garantindo a sua manutenção, apetrechamento e operacionalidade em relação aos programas a executar.
 
 2 - A Direcção de Serviços de Administração assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
@@ -268,7 +286,7 @@ a) Repartição de Administração Patrimonial e Financeira;
 
 b) Repartição de Pessoal e Expediente.
 
-###### Art. 12.º A Repartição de Administração Patrimonial e Financeira é dirigida por um chefe de repartição e compreende as seguintes secções:
+Art. 12.º A Repartição de Administração Patrimonial e Financeira é dirigida por um chefe de repartição e compreende as seguintes secções:
 
 a) Orçamento e Conta;
 
@@ -276,7 +294,7 @@ b) Contabilidade;
 
 c) Património e Aprovisionamento.
 
-###### Art. 13.º À Secção de Orçamento e Conta compete:
+Art. 13.º À Secção de Orçamento e Conta compete:
 
 a) Coligir todos os elementos de receita e despesa indispensáveis à organização dos orçamentos do INIP;
 
@@ -290,7 +308,7 @@ e) Organizar a conta de gerência e preparar os elementos necessários à elabor
 
 f) Manter organizado o arquivo de toda a documentação das gerências findas.
 
-###### Art. 14.º À Secção de Contabilidade compete:
+Art. 14.º À Secção de Contabilidade compete:
 
 a) Verificar e liquidar todas as despesas dos serviços do INIP;
 
@@ -302,7 +320,7 @@ d) Assegurar o cálculo e análise de custos;
 
 e) Fiscalizar o movimento da tesouraria, efectuando mensalmente o seu balanço.
 
-###### Art. 15.º À Secção de Património e Aprovisionamento compete:
+Art. 15.º À Secção de Património e Aprovisionamento compete:
 
 a) Organizar e manter actualizado o inventário do INIP respeitante a edifícios e outras instalações, maquinaria e equipamento, material de transporte e demais bens de capital;
 
@@ -316,7 +334,7 @@ e) Processar os documentos de despesas das aquisições referidas nas alíneas b
 
 f) Zelar pela segurança dos edifícios e outras instalações do INIP.
 
-###### Art. 16.º Adstrita à Repartição de Administração Patrimonial e Financeira funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
+Art. 16.º Adstrita à Repartição de Administração Patrimonial e Financeira funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
 
 a) Arrecadar todas as receitas pertencentes ao INIP;
 
@@ -324,13 +342,13 @@ b) Efectuar o pagamento de todas as despesas devidamente autorizadas;
 
 c) Manter devidamente escriturados todos os livros de tesouraria.
 
-###### Art. 17.º A Repartição de Pessoal e Expediente é dirigida por um chefe de repartição e compreende as seguintes secções:
+Art. 17.º A Repartição de Pessoal e Expediente é dirigida por um chefe de repartição e compreende as seguintes secções:
 
 a) Pessoal;
 
 b) Expediente e Arquivo.
 
-###### Art. 18.º À Secção de Pessoal compete:
+Art. 18.º À Secção de Pessoal compete:
 
 a) Elaborar e manter actualizado o cadastro de todo o pessoal do INIP;
 
@@ -346,7 +364,7 @@ f) Instruir processos de acidentes em serviço e dar-lhes o devido andamento;
 
 g) Promover o recrutamento do pessoal afecto às embarcações e o seu embarque e desembarque.
 
-###### Art. 19.º À Secção de Expediente e Arquivo compete:
+Art. 19.º À Secção de Expediente e Arquivo compete:
 
 a) Executar as tarefas inerentes à recepção, classificação, expediente e arquivo do expediente dos serviços centrais do INIP;
 
@@ -354,7 +372,7 @@ b) Elaborar directivas de processamento e arquivo de correspondência e promover
 
 c) Assegurar uma adequada circulação de documentos e normas pelos diversos serviços do INIP.
 
-###### Art. 20.º A Divisão de Informação e Documentação Técnica e Científica é dirigida por um chefe de divisão e tem como competências:
+Art. 20.º A Divisão de Informação e Documentação Técnica e Científica é dirigida por um chefe de divisão e tem como competências:
 
 a) Seleccionar, em cooperação com outros serviços, e obter a informação e documentação bibliográfica de interesse no âmbito das pescas, assegurando ainda a sua divulgação junto dos diversos órgãos e serviços do INIP;
 
@@ -370,7 +388,7 @@ f) Assegurar e coordenar a execução de trabalhos de desenho, fotografia, carto
 
 ##### SUBSECÇÃO II — Dos serviços operativos
 
-###### Art. 21.º - 1 - A Direcção de Serviços de Limnologia e Oceanologia das Pescas tem como atribuições a promoção, realização e coordenação de estudos e acções sobre as massas de água e factores bióticos e abióticos que condicionam a produtividade biológica e sua influência nas diversas formas vivas no domínio da bioclimatologia aplicada e, ainda, no que respeita às primeira formas de vida das espécies, com relevo para as de maior interesse económico, e cooperar com outros serviços na elaboração da legislação atinente, no âmbito das suas competências.
+Art. 21.º - 1 - A Direcção de Serviços de Limnologia e Oceanologia das Pescas tem como atribuições a promoção, realização e coordenação de estudos e acções sobre as massas de água e factores bióticos e abióticos que condicionam a produtividade biológica e sua influência nas diversas formas vivas no domínio da bioclimatologia aplicada e, ainda, no que respeita às primeira formas de vida das espécies, com relevo para as de maior interesse económico, e cooperar com outros serviços na elaboração da legislação atinente, no âmbito das suas competências.
 
 2 - A Direcção de Serviços de Limnologia e Oceanologia das Pescas é dirigida por um director de serviços e compreende as seguintes divisões:
 
@@ -380,7 +398,7 @@ b) Divisão de Estudos de Planctonologia;
 
 c) Divisão de Estudos de Produção e Teias Tróficas.
 
-###### Art. 22.º À Divisão de Estudos do Ambiente e Previsão, dirigida por um chefe de divisão, compete:
+Art. 22.º À Divisão de Estudos do Ambiente e Previsão, dirigida por um chefe de divisão, compete:
 
 a) Estudar e caracterizar as massas de água, tanto nos meios límnicos como marinhos, procedendo à análise da sua circulação, comportamento e mecanismos de interacção no tempo e no espaço;
 
@@ -396,7 +414,7 @@ f) Promover e realizar projectos de pesquisa no domínio da sedimentologia aplic
 
 g) Cooperar com outros serviços na elaboração de cartas de pesca.
 
-###### Art. 23.º À Divisão de Estudos de Planctonologia, dirigida por um chefe de divisão, compete:
+Art. 23.º À Divisão de Estudos de Planctonologia, dirigida por um chefe de divisão, compete:
 
 a) Promover e realizar a localização, estudo e avaliação de áreas de produção, e, em particular, de épocas e áreas de desova, nomeadamente das espécies com interesse alimentar e económico;
 
@@ -408,7 +426,7 @@ d) Elaborar cartas de produção a nível planctónico e cooperar com outros ser
 
 e) Cooperar com outros serviços em estudos de bioclimatologia aplicada.
 
-###### Art. 24.º À Divisão de Estudos de Produção e Teias Tróficas, dirigida por um chefe de divisão, compete:
+Art. 24.º À Divisão de Estudos de Produção e Teias Tróficas, dirigida por um chefe de divisão, compete:
 
 a) Proceder ao estudo de mecanismos de transferência de elementos ou compostos químicos e dos valores prováveis de produção nos diferentes níveis tróficos, em termos bioenergéticos, bem como das suas variações no espaço e no tempo;
 
@@ -422,7 +440,7 @@ e) Desenvolver grandes volumes de culturas planctónicas com interesse económic
 
 f) Cooperar com outros serviços na elaboração de cartas de produção a nível planctónico.
 
-###### Art. 25.º - 1 - A Direcção de Serviços de Biologia Pesqueira e Avaliação tem como atribuições a promoção, realização e coordenação de estudos e acções sobre o inventário, distribuição, abundância, biologia e comportamento das espécies que constituem a flora e fauna aquáticas, bem como a estrutura dos respectivos potenciais de captura e consequente definição do regime da exploração, e cooperar com outros serviços na elaboração da legislação atinente, no âmbito das suas competências.
+Art. 25.º - 1 - A Direcção de Serviços de Biologia Pesqueira e Avaliação tem como atribuições a promoção, realização e coordenação de estudos e acções sobre o inventário, distribuição, abundância, biologia e comportamento das espécies que constituem a flora e fauna aquáticas, bem como a estrutura dos respectivos potenciais de captura e consequente definição do regime da exploração, e cooperar com outros serviços na elaboração da legislação atinente, no âmbito das suas competências.
 
 2 - A Direcção de Serviços de Biologia Pesqueira e Avaliação é dirigida por um director de serviços e compreende as seguintes divisões:
 
@@ -434,7 +452,7 @@ c) Divisão de Estudos de Flora Aquática;
 
 d) Divisão de Estudos de Pescas Internacionais.
 
-###### Art. 26.º À Divisão de Estudos de Vertebrados, dirigida por um chefe de divisão, compete:
+Art. 26.º À Divisão de Estudos de Vertebrados, dirigida por um chefe de divisão, compete:
 
 a) Proceder, em colaboração com outros serviços, ao inventário sistemático da fauna aquática, tanto límnica como marinha, com relevo para a ictiofauna;
 
@@ -446,7 +464,7 @@ d) Cooperar com outros serviços para o desenvolvimento das técnicas mais adequ
 
 e) Elaborar, em cooperação com outros serviços, cartas de pesca.
 
-###### Art. 27.º À Divisão de Estudos de Invertebrados, dirigida por um chefe de divisão, compete:
+Art. 27.º À Divisão de Estudos de Invertebrados, dirigida por um chefe de divisão, compete:
 
 a) Proceder, em colaboração com outros serviços, ao inventário sistemático dos invertebrados aquáticos, tanto límnicos como marinhos, nomeadamente no âmbito da carcinologia e da malacologia;
 
@@ -458,7 +476,7 @@ d) Cooperar com outros serviços para o desenvolvimento das técnicas mais adequ
 
 e) Cooperar com outros serviços na elaboração de cartas de pesca.
 
-###### Art. 28.º À Divisão de Estudos de Flora Aquática, dirigida por um chefe de divisão, compete:
+Art. 28.º À Divisão de Estudos de Flora Aquática, dirigida por um chefe de divisão, compete:
 
 a) Proceder ao inventário sistemático dos recursos existentes, tanto nas águas interiores como na plataforma continental, especialmente no âmbito da algologia;
 
@@ -470,7 +488,7 @@ d) Cooperar com outros serviços para o desenvolvimento de técnicas de cultura 
 
 e) Proceder à elaboração de uma carta de recursos em plantas aquáticas, nomeadamente no âmbito da algologia.
 
-###### Art. 29.º À Divisão de Estudos de Pescas Internacionais, dirigida por um chefe de divisão, compete:
+Art. 29.º À Divisão de Estudos de Pescas Internacionais, dirigida por um chefe de divisão, compete:
 
 a) Realizar estudos no âmbito da avaliação dos recursos vivos aquáticos dos pesqueiros internacionais ou abrangidos pela zona económica exclusiva de outros países, com especial incidência para as espécies consideradas de maior interesse do ponto de vista da pesca nacional;
 
@@ -478,7 +496,7 @@ b) Cooperar com outros serviços ou entidades na definição do regime de explor
 
 c) Realizar estudos de prospectiva dos recursos nos pesqueiros internacionais e analisar a evolução das pescas nessas áreas.
 
-###### Art. 30.º - 1 - A Direcção dos Serviços de Técnicas e Métodos de Pesca tem como atribuições a promoção, realização e coordenação de estudos e acções para a inventariação e aperfeiçoamento das diversas artes e métodos de pesca existentes, a introdução e desenvolvimento de outras, o aperfeiçoamento das técnicas de detecção e localização dos cardumes, o aperfeiçoamento das embarcações de pesca existentes e a definição de novos modelos, e, em cooperação com outros serviços, contribuir para os estudos de organização de frotas de pesca e participar na elaboração de cartas de pesca e da legislação atinente, no âmbito das suas competências.
+Art. 30.º - 1 - A Direcção dos Serviços de Técnicas e Métodos de Pesca tem como atribuições a promoção, realização e coordenação de estudos e acções para a inventariação e aperfeiçoamento das diversas artes e métodos de pesca existentes, a introdução e desenvolvimento de outras, o aperfeiçoamento das técnicas de detecção e localização dos cardumes, o aperfeiçoamento das embarcações de pesca existentes e a definição de novos modelos, e, em cooperação com outros serviços, contribuir para os estudos de organização de frotas de pesca e participar na elaboração de cartas de pesca e da legislação atinente, no âmbito das suas competências.
 
 2 - A Direcção dos Serviços de Técnicas e Métodos de Pesca é dirigida por um director de serviços e compreende as seguintes divisões:
 
@@ -488,7 +506,7 @@ b) Divisão de Estudos de Detecção e Tácticas de Pesca;
 
 c) Divisão de Estudos de Embarcações de Pesca.
 
-###### Art. 31.º À Divisão de Estudos de Métodos e Artes de Pesca, dirigida por um chefe de divisão, compete:
+Art. 31.º À Divisão de Estudos de Métodos e Artes de Pesca, dirigida por um chefe de divisão, compete:
 
 a) Proceder ao inventário e estudo sistemático dos métodos e artes de pesca praticados em território nacional, elaborando e mantendo actualizado o seu catálogo;
 
@@ -500,7 +518,7 @@ d) Conceber, desenvolver e realizar estudos de qualidade dos materiais e dos apa
 
 e) Cooperar com outros serviços na elaboração de legislação atinente à construção e uso de artes de pesca.
 
-###### Art. 32.º À Divisão de Estudos de Detecção e Tácticas de Pesca, dirigida por um chefe de divisão, compete:
+Art. 32.º À Divisão de Estudos de Detecção e Tácticas de Pesca, dirigida por um chefe de divisão, compete:
 
 a) Estudar e aperfeiçoar as técnicas de detecção e localização de cardumes com vista à sua captura;
 
@@ -512,7 +530,7 @@ d) Desenvolver, em cooperação com outros serviços, acções de apoio às frot
 
 e) Realizar, em cooperação com outros serviços, o estudo e desenvolvimento dos meios e técnicas de colheita e registo de dados in situ, bem como de telemetria.
 
-###### Art. 33.º À Divisão de Estudos de Embarcações de Pesca, dirigida por um chefe de divisão, compete:
+Art. 33.º À Divisão de Estudos de Embarcações de Pesca, dirigida por um chefe de divisão, compete:
 
 a) Proceder ao inventário e estudo sistemático dos tipos de embarcações de pesca existentes, bem como de melhoramentos susceptíveis de serem introduzidos, tendo em vista o seu mais adequado aproveitamento;
 
@@ -522,7 +540,7 @@ c) Cooperar com outros serviços no estudo da organização das frotas de pesca;
 
 d) Cooperar com outros serviços na elaboração de legislação atinente à construção e uso de embarcações de pesca.
 
-###### Art. 34.º - 1 - A Direcção de Serviços de Aquacultura tem como atribuições a promoção, realização e coordenação de estudos e acções para a inventariação sistemática das zonas mais favoráveis ao fomento da aquacultura, tanto nas águas interiores como na orla costeira, o desenvolvimento das técnicas de construção de viveiros, as de manutenção e desenvolvimento das espécies, em condições de cativeiro, bem como as concernentes ao seu melhoramento genético, tendo em vista o seu aproveitamento racional, e, em cooperação com outros serviços, proceder a estudos relativos à rentabilidade das explorações de aquacultura e participar na elaboração da legislação atinente, no âmbito das suas competências.
+Art. 34.º - 1 - A Direcção de Serviços de Aquacultura tem como atribuições a promoção, realização e coordenação de estudos e acções para a inventariação sistemática das zonas mais favoráveis ao fomento da aquacultura, tanto nas águas interiores como na orla costeira, o desenvolvimento das técnicas de construção de viveiros, as de manutenção e desenvolvimento das espécies, em condições de cativeiro, bem como as concernentes ao seu melhoramento genético, tendo em vista o seu aproveitamento racional, e, em cooperação com outros serviços, proceder a estudos relativos à rentabilidade das explorações de aquacultura e participar na elaboração da legislação atinente, no âmbito das suas competências.
 
 2 - A Direcção de Serviços de Aquacultura é dirigida por um director de serviços e compreende as seguintes divisões:
 
@@ -532,7 +550,7 @@ b) Divisão de Estudos de Aquacultura de Água Salgada;
 
 c) Divisão de Estudos de Patologia.
 
-###### Art. 35.º À Divisão de Estudos de Aquacultura de Água Doce, dirigida por um chefe de divisão, compete:
+Art. 35.º À Divisão de Estudos de Aquacultura de Água Doce, dirigida por um chefe de divisão, compete:
 
 a) Promover, em colaboração com a Direcção-Geral do Ordenamento e Gestão Florestal, a inventariação sistemática das zonas mais favoráveis ao fomento da aquacultura de águas doces, avaliando, em cooperação com outros serviços, as suas potencialidades e estabelecendo, em consequência, os níveis e regime mais favoráveis para a sua exploração;
 
@@ -542,7 +560,7 @@ c) Estudar, em cooperação com outros serviços, em laboratório ou instalaçõ
 
 d) Aperfeiçoar as técnicas de aquacultura, utilizando os meios tidos por convenientes, incluindo instalações piloto, e promover, em cooperação com outros serviços, a sua aplicação em apoio das acções de fomento de exploração artesanais e industriais.
 
-###### Art. 36.º À Divisão de Estudos de Aquacultura de Água Salgada, dirigida por um chefe de divisão, compete:
+Art. 36.º À Divisão de Estudos de Aquacultura de Água Salgada, dirigida por um chefe de divisão, compete:
 
 a) Promover e realizar o inventário sistemático das zonas mais favoráveis ao fomento da aquacultura de águas salgadas, avaliando, em cooperação com outros serviços, as suas potencialidades e estabelecendo, em consequência, os níveis e regime mais favoráveis para a sua exploração;
 
@@ -552,7 +570,7 @@ c) Estudar, em cooperação com outros serviços, em laboratório ou instalaçõ
 
 d) Aperfeiçoar as técnicas de aquacultura, utilizando os meios tidos por convenientes, incluindo instalações piloto, e promover, em cooperação com outros serviços, a sua aplicação em apoio das acções de fomento de explorações artesanais e industriais.
 
-###### Art. 37.º À Divisão de Estudos de Patologia, dirigida por um chefe de divisão, compete:
+Art. 37.º À Divisão de Estudos de Patologia, dirigida por um chefe de divisão, compete:
 
 a) Promover a realização do inventário das doenças dos animais aquáticos para organização do quadro nosológico do País;
 
@@ -562,7 +580,7 @@ c) Realizar estudos sobre doenças dos animais aquáticos, especialmente aqueles
 
 d) Cooperar com outros serviços na criação e aplicação de legislação relativa ao controle das doenças dos animais aquáticos destinados à cultura ou manutenção para fins económicos, científicos, lúdicos ou culturais, bem como na regulamentação do trânsito das espécies animais aquáticas.
 
-###### Art. 38.º - 1 - A Direcção de Serviços de Tecnologia dos Produtos Aquáticos tem como atribuições a promoção, realização e coordenação de estudos no domínio das técnicas de conservação e transformação dos produtos de natureza biológica com relevo para o desenvolvimento e introdução de nova tecnologia, e, em cooperação com outros serviços, prestar apoio à conceptualização, desenvolvimento e funcionamento das infra-estruturas e meios a utilizar pela indústria transformadora e participar na elaboração da legislação atinente, no âmbito das suas competências.
+Art. 38.º - 1 - A Direcção de Serviços de Tecnologia dos Produtos Aquáticos tem como atribuições a promoção, realização e coordenação de estudos no domínio das técnicas de conservação e transformação dos produtos de natureza biológica com relevo para o desenvolvimento e introdução de nova tecnologia, e, em cooperação com outros serviços, prestar apoio à conceptualização, desenvolvimento e funcionamento das infra-estruturas e meios a utilizar pela indústria transformadora e participar na elaboração da legislação atinente, no âmbito das suas competências.
 
 2 - A Direcção de Serviços de Tecnologia dos Produtos Aquáticos é dirigida por um director de serviços e compreende as seguintes divisões:
 
@@ -570,7 +588,7 @@ a) Divisão de Estudos de Conservação;
 
 b) Divisão de Estudos de Transformação.
 
-###### Art. 39.º À Divisão de Estudos de Conservação, dirigida por um chefe de divisão, compete:
+Art. 39.º À Divisão de Estudos de Conservação, dirigida por um chefe de divisão, compete:
 
 a) Conceber e realizar estudos e projectos destinados ao desenvolvimento das técnicas e meios de conservação dos produtos de origem aquática;
 
@@ -582,7 +600,7 @@ d) Cooperar com outros serviços no desenvolvimento de normas de funcionamento e
 
 e) Colaborar com outros serviços na realização de estudos de qualidade do produto na conservação do pescado, estabelecendo os critérios e normas a adoptar pela indústria do sector.
 
-###### Art. 40.º À Divisão de Estudos de Transformação, dirigida por um chefe de divisão, compete:
+Art. 40.º À Divisão de Estudos de Transformação, dirigida por um chefe de divisão, compete:
 
 a) Estudar e promover a melhoria das técnicas utilizadas pela indústria de transformação do pescado e outros produtos de origem aquática;
 
@@ -594,7 +612,7 @@ d) Estudar e aperfeiçoar, em cooperação com outros serviços, as técnicas e 
 
 ##### SUBSECÇÃO III — Dos serviços locais
 
-###### Art. 41.º Para cabal desempenho das suas atribuições o INIP dispõe de centros de investigação pesqueira, os quais, como serviços de investigação e desenvolvimento experimental, actuam com base na motivação regional, testando e adaptando conhecimentos e novos materiais às condições ecológicas e sócio-económicas da zona de actuação, e com as seguintes competências:
+Art. 41.º Para cabal desempenho das suas atribuições o INIP dispõe de centros de investigação pesqueira, os quais, como serviços de investigação e desenvolvimento experimental, actuam com base na motivação regional, testando e adaptando conhecimentos e novos materiais às condições ecológicas e sócio-económicas da zona de actuação, e com as seguintes competências:
 
 a) Executar, no âmbito das pescas, estudos e projectos de investigação, adaptando e melhorando conhecimentos com vista à solução de problemas locais e ao desenvolvimento da área da sua influência;
 
@@ -610,7 +628,7 @@ f) Participar em vistorias, efectuar o contrôle técnico dos postos de depuraç
 
 g) Cooperar com outros serviços na elaboração da legislação atinente, no âmbito das suas competências.
 
-###### Art. 42.º - 1 - Os centros de investigação pesqueira constituem-se nas seguintes zonas de acção:
+Art. 42.º - 1 - Os centros de investigação pesqueira constituem-se nas seguintes zonas de acção:
 
 a) Centro de Investigação Pesqueira de Matosinhos (de Caminha a Espinho, inclusive);
 
@@ -624,13 +642,13 @@ d) Centro de Investigação Pesqueira de Faro (do rio Mira a Vila Real de Santo 
 
 3 - Os centros de investigação pesqueira dependem hierarquicamente da Direcção, a qual coordenará as relações funcionais entre estes e os restantes serviços do INIP.
 
-###### Art. 43.º Os centros de investigação pesqueira serão dirigidos por um chefe de divisão, a designar de entre funcionários da carreira de investigadores ou da carreira de técnicos superiores, com formação específica e experiência comprovada para o exercício das respectivas funções.
+Art. 43.º Os centros de investigação pesqueira serão dirigidos por um chefe de divisão, a designar de entre funcionários da carreira de investigadores ou da carreira de técnicos superiores, com formação específica e experiência comprovada para o exercício das respectivas funções.
 
 ### CAPÍTULO III — Gestão patrimonial e financeira
 
-###### Art. 44.º Para realização dos seus fins o INIP administrará os bens do domínio público ou privado do Estado a seu cargo de acordo com as boas normas de gestão.
+Art. 44.º Para realização dos seus fins o INIP administrará os bens do domínio público ou privado do Estado a seu cargo de acordo com as boas normas de gestão.
 
-###### Art. 45.º - 1 - A gestão financeira do INIP será disciplinada pelas seguintes previsões:
+Art. 45.º - 1 - A gestão financeira do INIP será disciplinada pelas seguintes previsões:
 
 a) Programa anual e plurianual das actividades;
 
@@ -638,49 +656,49 @@ b) Orçamento anual.
 
 2 - Os programas de actividade são aprovados pelo Secretário de Estado das Pescas e servirão de base à elaboração do orçamento anual, que ficará sujeito às regras da contabilidade pública.
 
-###### Art. 46.º A contabilidade do INIP deve corresponder às necessidades da sua gestão corrente e permitir um contrôle orçamental permanente.
+Art. 46.º A contabilidade do INIP deve corresponder às necessidades da sua gestão corrente e permitir um contrôle orçamental permanente.
 
-###### Art. 47.º A administração e gestão dos navios e outras unidades ao serviço do INIP constará de diploma legal, a publicar oportunamente.
+Art. 47.º A administração e gestão dos navios e outras unidades ao serviço do INIP constará de diploma legal, a publicar oportunamente.
 
 ### CAPÍTULO IV — Pessoal
 
 #### SECÇÃO I — Dos quadros de pessoal
 
-###### Art. 48.º O INIP, para o desempenho das suas atribuições, disporá do contingente de pessoal dirigente e do pessoal dos quadros únicos constantes do mapa anexo ao presente diploma.
+Art. 48.º O INIP, para o desempenho das suas atribuições, disporá do contingente de pessoal dirigente e do pessoal dos quadros únicos constantes do mapa anexo ao presente diploma.
 
-###### Art. 49.º O lugar de director dos Serviços de Administração será provido nos termos do n.º 5 do artigo 46.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
+Art. 49.º O lugar de director dos Serviços de Administração será provido nos termos do n.º 5 do artigo 46.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
 
-###### Art. 50.º - 1 - Os lugares dos quadros únicos do Ministério da Agricultura e Pescas que vierem a vagar por motivo de provimento dos seus titulares em lugares de pessoal dirigente do INIP só poderão ser preenchidos mediante a observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro.
+Art. 50.º - 1 - Os lugares dos quadros únicos do Ministério da Agricultura e Pescas que vierem a vagar por motivo de provimento dos seus titulares em lugares de pessoal dirigente do INIP só poderão ser preenchidos mediante a observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro.
 
 2 - O montante dos vencimentos correspondentes aos lugares vagos referidos no número anterior será abatido na dotação orçamental correspondente, enquanto se mantiver aquela situação.
 
-###### Art. 51.º O tesoureiro terá direito a um abono para falhas de acordo com a lei geral.
+Art. 51.º O tesoureiro terá direito a um abono para falhas de acordo com a lei geral.
 
 #### SECÇÃO II — Do regime de substituição
 
-###### Art. 52.º Os directores de serviços são substituídos nas suas ausências e impedimentos pelo chefe de divisão da direcção de serviços que for designado por despacho do director, sob proposta do director de serviços, ou na falta de designação pelo chefe de divisão mais antigo da direcção de serviços.
+Art. 52.º Os directores de serviços são substituídos nas suas ausências e impedimentos pelo chefe de divisão da direcção de serviços que for designado por despacho do director, sob proposta do director de serviços, ou na falta de designação pelo chefe de divisão mais antigo da direcção de serviços.
 
-###### Art. 53.º O director de Serviços de Administração é substituído nas suas ausências e impedimentos pelo chefe de repartição da direcção de serviços que for designado por despacho do director, sob proposta do director de serviços, ou na falta de designação pelo chefe de repartição mais antigo da direcção de serviços.
+Art. 53.º O director de Serviços de Administração é substituído nas suas ausências e impedimentos pelo chefe de repartição da direcção de serviços que for designado por despacho do director, sob proposta do director de serviços, ou na falta de designação pelo chefe de repartição mais antigo da direcção de serviços.
 
-###### Art. 54.º Os chefes das divisões autónomas são substituídos nas suas ausências e impedimentos pelo técnico superior ou investigador que for designado por despacho do director, ou na falta de designação pelo técnico superior ou investigador mais antigo na divisão.
+Art. 54.º Os chefes das divisões autónomas são substituídos nas suas ausências e impedimentos pelo técnico superior ou investigador que for designado por despacho do director, ou na falta de designação pelo técnico superior ou investigador mais antigo na divisão.
 
-###### Art. 55.º Os chefes de repartições são substituídos nas suas ausências e impedimentos pelo chefe de secção que for designado por despacho do director, sob proposta do respectivo director de serviços, ou na falta de designação pelo chefe de secção mais antigo na repartição.
+Art. 55.º Os chefes de repartições são substituídos nas suas ausências e impedimentos pelo chefe de secção que for designado por despacho do director, sob proposta do respectivo director de serviços, ou na falta de designação pelo chefe de secção mais antigo na repartição.
 
-###### Art. 56.º O tesoureiro é substituído nas suas ausências e impedimentos pelo funcionário que, sob sua proposta, for designado por despacho do director.
+Art. 56.º O tesoureiro é substituído nas suas ausências e impedimentos pelo funcionário que, sob sua proposta, for designado por despacho do director.
 
 ### CAPÍTULO V — Disposições gerais
 
-###### Art. 57.º - 1 - O INIP pode exercer acessoriamente actividades relacionadas com o seu objectivo principal, nomeadamente a prestação de serviços solicitados por entidades públicas ou privadas, nacionais ou estrangeiras.
+Art. 57.º - 1 - O INIP pode exercer acessoriamente actividades relacionadas com o seu objectivo principal, nomeadamente a prestação de serviços solicitados por entidades públicas ou privadas, nacionais ou estrangeiras.
 
 2 - O exercício das actividades referidas no número anterior depende da deliberação do órgão competente do INIP e autorização ministerial.
 
 3 - Os serviços prestados nas condições indicadas no número anterior serão pagos segundo tabela a aprovar ministerialmente.
 
-###### Art. 58.º - 1 - Mediante autorização ministerial, e sob proposta fundamentada do respectivo director, o INIP poderá recorrer ocasionalmente à colaboração de técnicos, empresas ou organismos, nacionais ou estrangeiros, para a realização e execução de estudos, pareceres, projectos especializados, por contratos ou termos de tarefas de carácter eventual e que se mostrem necessários ao desempenho das atribuições a ele cometidas.
+Art. 58.º - 1 - Mediante autorização ministerial, e sob proposta fundamentada do respectivo director, o INIP poderá recorrer ocasionalmente à colaboração de técnicos, empresas ou organismos, nacionais ou estrangeiros, para a realização e execução de estudos, pareceres, projectos especializados, por contratos ou termos de tarefas de carácter eventual e que se mostrem necessários ao desempenho das atribuições a ele cometidas.
 
 2 - Os contratos celebrados ao abrigo do número anterior deverão especificar obrigatoriamente a natureza da tarefa a executar, o prazo para a sua execução e a remuneração a pagar e não conferirão em caso algum a qualidade de agente administrativo.
 
-###### Art. 59.º - 1 - A cobrança coerciva das dívidas ao INIP provenientes de taxas ou outros rendimentos, cuja obrigação de pagamento esteja reconhecida em diploma ou haja sido reconhecida por despacho ministerial, far-se-á pelo processo de execuções fiscais através dos serviços de justiça fiscal.
+Art. 59.º - 1 - A cobrança coerciva das dívidas ao INIP provenientes de taxas ou outros rendimentos, cuja obrigação de pagamento esteja reconhecida em diploma ou haja sido reconhecida por despacho ministerial, far-se-á pelo processo de execuções fiscais através dos serviços de justiça fiscal.
 
 2 - O processo terá por base certidão, passada por entidade competente, da qual constem os elementos seguintes:
 
@@ -694,28 +712,28 @@ d) Data da certidão e assinatura da entidade emitente devidamente autenticada c
 
 3 - A mora do devedor a que alude a alínea c) do número anterior conta-se a partir do último dia do prazo fixado para o pagamento.
 
-###### Art. 60.º - 1 - O pessoal do INIP prestando serviço em locais com condições especiais de isolamento ou de trabalho no mar, incluindo mergulho, terá direito à percepção de um subsídio adequado nos termos e condições que lhe vierem a ser fixados por diploma adequado.
+Art. 60.º - 1 - O pessoal do INIP prestando serviço em locais com condições especiais de isolamento ou de trabalho no mar, incluindo mergulho, terá direito à percepção de um subsídio adequado nos termos e condições que lhe vierem a ser fixados por diploma adequado.
 
 2 - As remunerações previstas neste artigo são acumuláveis com quaisquer outras que sejam devidas ao mesmo pessoal, nos termos deste diploma e outra legislação vigente.
 
-###### Art. 61.º O INIP poderá promover cursos de formação técnico-profissioal para o seu pessoal de harmonia com a política de formação que vier a ser definida e colaborar no aperfeiçoamento do pessoal técnico do sector das pescas.
+Art. 61.º O INIP poderá promover cursos de formação técnico-profissioal para o seu pessoal de harmonia com a política de formação que vier a ser definida e colaborar no aperfeiçoamento do pessoal técnico do sector das pescas.
 
-###### Art. 62.º As atribuições, competências e direitos conferidos por lei aos organismos integrados no INIP transitam para este Instituto.
+Art. 62.º As atribuições, competências e direitos conferidos por lei aos organismos integrados no INIP transitam para este Instituto.
 
-###### Art. 63.º As dúvidas suscitadas pela aplicação deste diploma, enquanto o mesmo não for regulamentado, serão resolvidas por despacho do Ministro da Agricultura e Pescas, com o acordo do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, quando estiver em causa as respectivas competências.
+Art. 63.º As dúvidas suscitadas pela aplicação deste diploma, enquanto o mesmo não for regulamentado, serão resolvidas por despacho do Ministro da Agricultura e Pescas, com o acordo do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, quando estiver em causa as respectivas competências.
 
-###### Art. 64.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 64.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Manuel Jacinto Nunes - Apolinário José Barbosa da Cruz Vaz Portugal - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 30 de Julho de 1979.**
+Promulgado em 30 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Mapa a que se refere o artigo 48.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/17504/00250033.pdf))](https://files.diariodarepublica.pt/1s/1979/07/17504/00250033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17504/00250033.pdf)
 
-**O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.**
+O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.

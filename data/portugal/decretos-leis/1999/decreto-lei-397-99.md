@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/397/1999/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1999-662123
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:11:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9572e7fa914093448f775ec29bb812d98ed75594e1b15ce42c80f72f148fdde7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce0df85f15d336ac57e78f80b7e2baf73e4b2f5ef209775963b2e001e64b163a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:11:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contribuições da Segurança Social
+- Doença
+- Incapacidade Temporária
 - Isenção Fiscal
 - Pensionista
 - Regime Geral da Segurança Social
-- Doença
-- Incapacidade Temporária
 - Segurança Social
 - Trabalhador Independente
 relationships:
@@ -79,6 +79,18 @@ relationships:
   target: pt:dre:490249:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343434:por
+  label: "Aditados os arts. 37º-A e 37º-B ao Dec Lei 328/93 de 25-Set , com a redação do presente diploma, DEC LEI.159/2001.2001.05.18.MTS\
+    \ DR.IS-A [115]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2001-343434
+  date: '2001-05-18'
+- type: amended_by
+  target: pt:dre:240006:por
+  label: "Alterado o nº 4 do art. 35º do Dec Lei 328/95 de 25-Set, com a redacção conferida pelo presente diploma, pelo DEC\
+    \ LEI.119/2005.22.07.2005.MTSSO, DR.IS-A [140] de 22.07.2005\005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2005-240006
+  date: '2005-07-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/240/1996/12/14/p/dre
   label: null
@@ -99,16 +111,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/6/1997/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/6/1997/04/10/p/dre
+- type: cites
+  target: pt:dre:189476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653124:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado o DR 17/94, de 16-Jul, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela Lei\
+    \ n.º 119/2009, de 30 de Dezembro), na redacção do presente diploma, pela LEI.110/2009.16.09.2009.AR, DR.IS [180] de 16.09.2009,\
+    \ sem prejuízo de, até à entrada em vigor da regulamentação [prevista no art. 4.º] se manter transitoriamente em vigor\
+    \ as disposições procedimentais do diploma revogado que não contrariem o disposto no Código aprovado pela citada Lei\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
 article_structure:
-  article_count: 11
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:11:52Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +194,9 @@ Escolha da remuneração convencional em situações especiais
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 39.º — Isenção da obrigação de contribuir
+Artigo 39.º
+
+Isenção da obrigação de contribuir
 
 O direito à isenção da obrigação de contribuir previsto no artigo 30.º depende da verificação das seguintes condições:
 
@@ -161,13 +204,17 @@ a) O exercício de actividade por conta própria em acumulação com actividade 
 
 b) O valor da remuneração mensal considerada para o outro regime de protecção social não ser inferior ao valor da remuneração mínima mensal garantida à generalidade dos trabalhadores.
 
-###### Artigo 43.º — Reconhecimento do direito à isenção de contribuir
+Artigo 43.º
+
+Reconhecimento do direito à isenção de contribuir
 
 1 - O direito à isenção de contribuir, nos termos dos artigos anteriores, é reconhecido pelos centros regionais, oficiosamente, na sequência de não pagamento de contribuições, sempre que as condições legalmente previstas para o efeito tenham lugar no âmbito do sistema de segurança social e a requerimento do interessado nos restantes casos.
 
 2 - O pagamento de contribuições pelos trabalhadores com direito à isenção contributiva é considerado, salvo declaração em contrário, como manifestação de vontade do interessado em melhorar a sua protecção social.
 
-###### Artigo 44.º — Efeitos da isenção
+Artigo 44.º
+
+Efeitos da isenção
 
 1 - A declaração referida no n.º 2 do artigo anterior produz efeitos para futuro, caso tenha havido concessão de prestações no período contributivo em causa, e desde a verificação das condições, em caso contrário.
 
@@ -175,7 +222,9 @@ b) O valor da remuneração mensal considerada para o outro regime de protecçã
 
 3 - A não comunicação de início de actividade por conta própria geradora do reconhecimento oficioso da isenção de contribuir não constitui contra-ordenação.
 
-###### Artigo 49.º — Manutenção da obrigação de contribuir em situação de incapacidade temporária por doença
+Artigo 49.º
+
+Manutenção da obrigação de contribuir em situação de incapacidade temporária por doença
 
 1 - ...
 
@@ -183,7 +232,9 @@ b) O valor da remuneração mensal considerada para o outro regime de protecçã
 
 3 - Para efeito do não pagamento de contribuições dos beneficiários referidos no número anterior, as instituições de segurança social podem promover, a todo o tempo, a verificação da subsistência da situação de doença no âmbito do sistema de verificação das incapacidades regulado pelo disposto no [Decreto-Lei n.º 360/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1997-417402), de 17 de Dezembro.
 
-###### Artigo 53.º-B — Duração do subsídio de doença
+Artigo 53.º-B
+
+Duração do subsídio de doença
 
 1 - ...
 
@@ -197,13 +248,17 @@ b) O valor da remuneração mensal considerada para o outro regime de protecçã
 
 6 - A verificação da subsistência da incapacidade temporária para o trabalho é efectuada nos termos regulados no [Decreto-Lei n.º 360/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1997-417402), de 17 de Dezembro.
 
-###### Artigo 54.º — Prazo para a opção
+Artigo 54.º
+
+Prazo para a opção
 
 1 - ...
 
 2 - Os beneficiários abrangidos pelo esquema obrigatório de prestações podem optar pela aplicação do esquema alargado nos meses de Março e Abril ou de Setembro e Outubro, produzindo a mesma efeitos a partir de 1 de Julho ou de 1 de Janeiro seguintes, respectivamente.
 
-###### Artigo 55.º — Revogabilidade da opção
+Artigo 55.º
+
+Revogabilidade da opção
 
 1 - A opção pelo esquema de prestações alargado é revogável mediante declaração do beneficiário, a apresentar nos meses de Março e Abril ou de Setembro e Outubro, produzindo a mesma efeitos a partir de 1 de Julho ou de 1 de Janeiro seguintes, respectivamente.
 
@@ -227,12 +282,12 @@ O direito a requerer a restituição das contribuições pagas, previsto no arti
 
 Visto e aprovado em Conselho de Ministros de 12 de Agosto de 1999. - António Manuel de Oliveira Guterres - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 23 de Setembro de 1999.**
+Promulgado em 23 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Outubro de 1999.**
+Referendado em 1 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

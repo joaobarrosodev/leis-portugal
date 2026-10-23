@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/279-1973-673822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T04:02:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9a2d1499fad0a49ceb31779cc7c42f4f446dda3a1e0fb604f2c9ddfc8957a3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15bd7bd14c848c69e708a5e1e9484f1e641dd5c543f685e0d89057ad3da42a43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:02:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:637472:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:02:57Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +90,7 @@ de 17 de Abril
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º 3 da base LXXVI da Lei Orgânica do Ultramar Português, que os artigos 16.º e 19.º do Estatuto do Ensino Liceal, aprovado pelo [Decreto n.º 36508](https://diariodarepublica.pt/dr/detalhe/decreto/36508-1947-637472), de 17 de Setembro de 1947, passem, na sua aplicação ao ultramar, a ter a seguinte redacção:
 
-###### Art. 16.º - 1. Cada liceu é dirigido por um reitor, livremente escolhido pelo Governador entre os professores do respectivo quadro.
+Art. 16.º - 1. Cada liceu é dirigido por um reitor, livremente escolhido pelo Governador entre os professores do respectivo quadro.
 
 2. O cargo será exercido em comissão de serviço por tempo indeterminado, podendo o Governador dá-la sempre por finda.
 
@@ -94,7 +98,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ...
 
-###### Art. 19.º - 1. Haverá em cada liceu um vice-reitor e um secretário, nomeados pelo Governador de entre os professores do respectivo quadro.
+Art. 19.º - 1. Haverá em cada liceu um vice-reitor e um secretário, nomeados pelo Governador de entre os professores do respectivo quadro.
 
 2. Nos liceus de frequência mista onde funcionam secções femininas haverá, além do vice-reitor, uma directora da secção, nomeada pelo Governador de entre as professoras do respectivo quadro, a qual representará o reitor em todos os actos respeitantes à secção, quando ele por si os não desempenhe.
 

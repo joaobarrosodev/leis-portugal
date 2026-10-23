@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/297a00/92149234.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/567/1999/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/567-1999-661085
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:15:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3f48b0000b3989d878187b23521ce9d917c5a8eb32fb061161ed930f04d7ebb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57a674d0996b8ec709841219ffcd965baa37cea3072d773df13a93e38baa6f29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:15:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
 - Conselho da Náutica de Recreio
 - Contra-ordenação
 - Embarcação de Recreio
 - Emolumento
+- Multa
+- Navegação de Recreio
 - Normas de Segurança
 - Regulamento
 - Regulamento da Náutica de Recreio
-- Navegação de Recreio
 - Taxa
 - Tripulação
 relationships:
@@ -105,16 +105,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/783/1998/09/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/783/1998/09/19/p/dre
+- type: cites
+  target: pt:dre:147235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631866:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:596729:por
+  label: "Rectificado pela DECL-RECT.4-G/2000.2000.01.31.PCM DR.IS-B [25]Supl de 31/Jan/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-g-2000-596729
+  date: '2000-01-31'
+- type: repealed_by
+  target: pt:dre:252202:por
+  label: "Revogado, a partir de 24.06.2004, pelo DEC LEI.124/2004.25.05.2004.MOPTH, DR.IS-A [122] de 25.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2004-252202
+  date: '2004-05-25'
 article_structure:
-  article_count: 101
+  article_count: 75
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:15:29Z'
   warnings: []
   errors: []
 ---
@@ -211,19 +253,25 @@ e) [Anterior alínea f).]
 
 3 - A utilização de ER com fins lucrativos será objecto de diploma específico.
 
-###### Artigo 4.º — Entidade responsável pela classificação e arqueação de embarcações de recreio
+Artigo 4.º
+
+Entidade responsável pela classificação e arqueação de embarcações de recreio
 
 1 - Ao Instituto Maritimo-Portuário (IMP) compete classificar e arquear as ER destinadas à navegação oceânica, à navegação ao largo e à navegação costeira, bem como emitir informação técnica para efeito de registo destas embarcações.
 
 2 - Às repartições marítimas compete classificar, arquear e emitir informação técnica para efeitos do registo das ER que se destinem à navegação costeira restrita e à navegação em águas abrigadas e que nessas repartições se pretendam registar.
 
-###### Artigo 6.º — Condições de segurança
+Artigo 6.º
+
+Condições de segurança
 
 1 - As condições de segurança e de certificação, as características dimensionais e a arqueação das ER são objecto de portaria do Ministro do Equipamento, do Planeamento e da Administração do Território.
 
 2 - Em matéria de segurança, às ER com comprimento superior a 24 m aplicam-se os requisitos que forem estabelecidos, caso a caso, pelo Departamento de Inspecção de Navios (DIN) do IMP.
 
-###### Artigo 12.º — Embarcações para navegação em águas abrigadas
+Artigo 12.º
+
+Embarcações para navegação em águas abrigadas
 
 1 - São consideradas embarcações para navegação em águas abrigadas, adiante designadas por ER tipo D, as concebidas e adequadas para navegar em zonas de fraca agitação marítima, junto à costa e em águas interiores.
 
@@ -235,7 +283,9 @@ e) [Anterior alínea f).]
 
 5 - As ER tipo D que não disponham de sinalização luminosa só podem navegar entre o nascer e o pôr do Sol.
 
-###### Artigo 17.º — Identificação das embarcações de recreio
+Artigo 17.º
+
+Identificação das embarcações de recreio
 
 1 - ...
 
@@ -247,17 +297,23 @@ b) ...
 
 c) ...
 
-###### Artigo 18.º — Porto de registo
+Artigo 18.º
+
+Porto de registo
 
 O porto de registo é o local onde se situa a Repartição Marítima na qual a ER se encontra registada.
 
-###### Artigo 19.º — Nome da embarcação de recreio
+Artigo 19.º
+
+Nome da embarcação de recreio
 
 1 - O nome da ER depende de aprovação da entidade competente para o seu registo.
 
 2 - ...
 
-###### Artigo 20.º — Inscrições exteriores
+Artigo 20.º
+
+Inscrições exteriores
 
 1 - ...
 
@@ -273,7 +329,9 @@ O porto de registo é o local onde se situa a Repartição Marítima na qual a E
 
 7 - As motos de água e as pranchas motorizadas (jet ski) estão apenas obrigadas à afixação do seu conjunto de identificação.
 
-###### Artigo 21.º — Uso da Bandeira Nacional
+Artigo 21.º
+
+Uso da Bandeira Nacional
 
 1 - ...
 
@@ -287,7 +345,9 @@ b) ...
 
 4 - Os distintivos dos proprietários das ER, os galhardetes dos clubes, bem como quaisquer outras bandeiras, só podem ser içados quando esteja a Bandeira Nacional içada no topo do mastro principal ou no pau de bandeira existente à popa, excepto quando em regata.
 
-###### Artigo 22.º — Registo
+Artigo 22.º
+
+Registo
 
 1 - ...
 
@@ -297,7 +357,9 @@ b) ...
 
 4 - Para efeitos do n.º 1 do presente artigo, as ER são passíveis de registo provisório nos consulados, nas condições a estabelecer por portaria conjunta dos Ministros dos Negócios Estrangeiros e do Equipamento, do Planeamento e da Administração do Território.
 
-###### Artigo 24.º — Embarcações em experiência
+Artigo 24.º
+
+Embarcações em experiência
 
 1 - A requerimento do construtor ou do comerciante interessado, as repartições marítimas podem autorizar a navegação de embarcações não registadas, em demonstrações para fins comerciais, devendo, no caso das ER de tipo A, B e C1, a autorização ser precedida de parecer técnico do IMP.
 
@@ -307,7 +369,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 28.º — Lotação
+Artigo 28.º
+
+Lotação
 
 1 - ...
 
@@ -315,7 +379,9 @@ b) ...
 
 3 - Nas ER com mais de 24 m compete ao IMP fixar ainda uma tripulação mínima de segurança, composta por navegadores de recreio ou inscritos marítimos, de acordo com as características e a área de navegação da embarcação.
 
-###### Artigo 30.º — Vistorias
+Artigo 30.º
+
+Vistorias
 
 1 - ...
 
@@ -329,11 +395,15 @@ b) ...
 
 4 - As vistorias referidas nos números anteriores são executadas pelo IMP ou pelas repartições marítimas, tendo em conta a competência de cada uma das entidades referidas no artigo 4.º do presente Regulamento.
 
-###### Artigo 31.º — Governo de embarcações de recreio
+Artigo 31.º
+
+Governo de embarcações de recreio
 
 As ER só podem navegar sob o governo de titulares de carta de navegador de recreio, ou de inscritos marítimos, no caso previsto no n.º 3 do artigo 28.º do presente Regulamento.
 
-###### Artigo 32.º — Carta de navegador de recreio
+Artigo 32.º
+
+Carta de navegador de recreio
 
 1 - As cartas de navegador de recreio são emitidas após a frequência de cursos e a aprovação nos exames a que se referem os artigos 34.º e 40.º do presente Regulamento.
 
@@ -361,7 +431,9 @@ f) Terem aptidão física para o exercício da navegação de recreio, comprovad
 
 5 - As cartas de navegador de recreio devem obedecer ao modelo a aprovar na portaria a que se refere o n.º 1 do artigo 40.º do presente Regulamento.
 
-###### Artigo 33.º — Categoria das cartas
+Artigo 33.º
+
+Categoria das cartas
 
 1 - ...
 
@@ -385,7 +457,9 @@ e) Principiante - habilita o titular ao comando de ER à vela ou a motor de comp
 
 3 - Na Região Autónoma dos Açores, a autoridade marítima competente pode autorizar a saída de uma ER comandada por navegador de recreio titular de uma carta de patrão de costa ou de patrão local, para viagem entre as ilhas daquela Região Autónoma, ainda que ultrapassados os limites de distância máxima estabelecidos no n.º 1 do presente artigo, desde que, consideradas todas as informações disponíveis, nomeadamente quanto à duração e tipo de viagem e as condições atmosféricas, se conclua que a segurança da ER e das pessoas a bordo se encontra assegurada.
 
-###### Artigo 34.º — Obtenção de cartas
+Artigo 34.º
+
+Obtenção de cartas
 
 1 - Sem prejuízo do disposto no n.º 2 do artigo 32.º, a obtenção de qualquer carta de navegador de recreio depende da frequência de curso e da aprovação no respectivo exame, a realizar na Escola Náutica Infante D. Henrique (ENIDH), na Escola de Pesca e da Marinha do Comércio (EPMC) ou ainda nas entidades devidamente credenciadas para o efeito pelo IMP, nos termos a definir por diploma próprio.
 
@@ -395,13 +469,17 @@ e) Principiante - habilita o titular ao comando de ER à vela ou a motor de comp
 
 4 - A licença de aprendizagem é emitida pelas entidades formadoras credenciadas, a quem compete igualmente efectuar o seguro de acidentes pessoais e de responsabilidade civil.
 
-###### Artigo 36.º — Emissão de cartas
+Artigo 36.º
+
+Emissão de cartas
 
 1 - As cartas são emitidas pelo IMP, nos termos a definir no diploma a que se refere o n.º 1 do artigo 34.º deste Regulamento.
 
 2 - O IMP manterá um cadastro actualizado de todas as cartas.
 
-###### Artigo 38.º — Caducidade, renovação e segundas vias das cartas
+Artigo 38.º
+
+Caducidade, renovação e segundas vias das cartas
 
 1 - As cartas de navegador de recreio caducam quando o seu titular atingir respectivamente 50 e 60 anos e, a partir desta idade, de cinco em cinco anos, podendo, no entanto, ser renovadas.
 
@@ -417,25 +495,33 @@ d) Duas fotografias actuais.
 
 3 - A renovação de cartas só é permitida desde que estas não tenham caducado há mais de cinco anos.
 
-###### Artigo 39.º — Reconhecimento de cartas estrangeiras para ER nacionais
+Artigo 39.º
+
+Reconhecimento de cartas estrangeiras para ER nacionais
 
 1 - As cartas de navegador de recreio ou documentos equivalentes emitidos por países da União Europeia são automaticamente reconhecidos em Portugal, nos termos e para os efeitos do presente Regulamento.
 
 2 - As cartas de navegador de recreio ou documentos equivalentes emitidos pelas entidades competentes de países não pertencentes à União Europeia podem ser reconhecidos em Portugal, desde que a sua emissão tenha como pressuposto o cumprimento de requisitos análogos aos exigidos no presente Regulamento.
 
-###### Artigo 40.º — Formação de navegadores de recreio e fiscalização das entidades formadoras
+Artigo 40.º
+
+Formação de navegadores de recreio e fiscalização das entidades formadoras
 
 1 - Os conteúdos programáticos e a duração dos cursos a ministrar pelas entidades formadoras, bem como o modelo de carta de navegador de recreio, são objecto de portaria do Ministro do Equipamento, do Planeamento e da Administração do Território.
 
 2 - Compete ao IMP a credenciação e fiscalização das entidades que exerçam a actividade formadora dos navegadores de recreio, nos termos e condições a estabelecer em diploma próprio.
 
-###### Artigo 44.º — Obrigatoriedade de seguro
+Artigo 44.º
+
+Obrigatoriedade de seguro
 
 1 - Os proprietários de ER tipos A, B, C1 e C2 e das restantes ER que possuam, pelo menos, um motor como meio de propulsão estão obrigados a celebrar um contrato de seguro que garanta a responsabilidade civil por danos causados a terceiros, nos termos a definir por portaria conjunta dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território.
 
 2 - ...
 
-###### Artigo 48.º — Certificados de operador dos equipamentos de rádio
+Artigo 48.º
+
+Certificados de operador dos equipamentos de rádio
 
 1 - Os navegadores de recreio que obtenham as cartas de patrão local, patrão de costa e patrão de alto mar, ao abrigo do disposto na portaria a que se refere o n.º 1 do artigo 40.º do presente Regulamento, podem requerer ao IMP a emissão do certificado de operador radiotelefonista da classe A, previsto no artigo 40.º da [Portaria n.º 1086/90](https://diariodarepublica.pt/dr/detalhe/portaria/1086-1990-565790), de 27 de Outubro.
 
@@ -447,13 +533,17 @@ d) Duas fotografias actuais.
 
 5 - Para efeitos da homologação do júri a que se refere o número anterior, pelo menos um dos seus membros deve ser titular do certificado geral de operador radiotelefonista.
 
-###### Artigo 56.º — Competições desportivas
+Artigo 56.º
+
+Competições desportivas
 
 1 - Em competições a nível nacional ou internacional, as embarcações podem ser dispensadas pelo IMP do cumprimento deste Regulamento, no todo ou em parte, sob proposta devidamente fundamentada da respectiva federação ou das associações ou clubes federados organizadores das provas.
 
 2 - ...
 
-###### Artigo 57.º — Responsabilidade contra-ordenacional
+Artigo 57.º
+
+Responsabilidade contra-ordenacional
 
 1 - ...
 
@@ -607,11 +697,15 @@ xiii) Meios de esgoto.
 
 11 - Em situações omissas serão aplicadas as regras em vigor para o registo das embarcações mercantes.
 
-###### Artigo 39.º-A — Reconhecimento de cartas emitidas em Macau
+Artigo 39.º-A
+
+Reconhecimento de cartas emitidas em Macau
 
 As cartas de navegadores de recreio emitidas até 19 de Dezembro de 1999 pela Capitania dos Portos de Macau serão reconhecidas em Portugal, tendo os respectivos detentores um prazo de três anos após aquela data para solicitar ao IMP a emissão de carta equivalente.
 
-###### Artigo 57.º-A — Responsabilidade contra-ordenacional relativa à navegação de recreio em albufeiras de águas interiores
+Artigo 57.º-A
+
+Responsabilidade contra-ordenacional relativa à navegação de recreio em albufeiras de águas interiores
 
 1 - Será aplicada coima, cujo montante mínimo é de 10000$00 e máximo de 100000$00, ao proprietário de ER que:
 
@@ -685,15 +779,15 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Setembro de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Victor Manuel Coelho Barros - Elisa Maria da Costa Guimarães Ferreira - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 29 de Novembro de 1999.**
+Promulgado em 29 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Dezembro de 1999.**
+Referendado em 8 de Dezembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Regulamento da Náutica de Recreio
 
@@ -1539,6 +1633,6 @@ Vila Praia da Vitória - VV.
 
 Vila Real de Santo António - VR.
 
-## ANEXO B — [(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/1999/12/297a00/92149234.pdf)
+## ANEXO B — [[(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/1999/12/297a00/92149234.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297a00/92149234.pdf)
 
-## ANEXO C — [(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/1999/12/297a00/92149234.pdf)
+## ANEXO C — [[(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/1999/12/297a00/92149234.pdf)](https://files.diariodarepublica.pt/1s/1999/12/297a00/92149234.pdf)

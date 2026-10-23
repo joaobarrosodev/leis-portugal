@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/192/1998/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1998-485057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:58:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a783c04c9d47f33617677e9ee958520e85a35b55c6930bb2c91970dd59479674
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bab26d08db86db852e195443ff573c32c2647c67d1d2ab2e7a09199a7ebd1346
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:58:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Defesa Nacional
 - Convenção
 - Definição de Competências
-- Ministério do Equipamento do Planeamento e da Administração do Território
 - Londres
+- Ministério da Defesa Nacional
 - Ministério do Ambiente
+- Ministério do Equipamento do Planeamento e da Administração do Território
+- Ministério dos Negócios Estrangeiros
 - Poluição Marinha
 - Poluição pelos Navios
-- Ministério dos Negócios Estrangeiros
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:663571:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:58:23Z'
   warnings: []
   errors: []
 ---
@@ -207,12 +211,12 @@ O presente diploma entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - José Veiga Simão - João Cardona Gomes Cravinho - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 22 de Maio de 1998.**
+Promulgado em 22 de Maio de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Maio de 1998.**
+Referendado em 29 de Maio de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

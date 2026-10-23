@@ -47,40 +47,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/843-1981-563797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:56:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81a654f4946c63dfc2a191d5643e236c7d26b309733d95936a49b5831a570883
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ae768f439803509293ef7459287dd58ba89df5ff31323aded36cec1a0af2981
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:56:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Bacharelato
+- Curso de Produção Agrícola
+- Curso de Produção Animal
+- Curso de Produção Florestal
+- Ensino Superior
+- Instituto Universitário
+- Instituto Universitário de Trás-os-montes e ALTO Douro
+- Licenciatura
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:550461:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:442926:por
+  label: "Alteradas as designações dos cursos de licenciatura em Produção Agrícola, Produção Animal e Produção Florestal aprovados\
+    \ pelo presente diploma, pela PORT.895/83.1983.09.27.ME DR.IS [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/895-1983-442926
+  date: '1983-09-27'
+- type: amended_by
+  target: pt:dre:421032:por
+  label: "Alterado o nº 3 do nº 3, na redacção da Port 895/83, de 27-Set, pela PORT.400/87.1987.05.13.MEC DR.IS [109] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/400-1987-421032
+  date: '1987-05-13'
+- type: amended_by
+  target: pt:dre:550461:por
+  label: "Alterado o nº 3 do nº 4 pela PORT.1073/89.1989.12.13.ME,DR.IS [285]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1073-1989-550461
+  date: '1989-12-13'
+- type: cites
+  target: pt:dre:297448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:56:02Z'
   warnings: []
   errors: []
 ---
@@ -279,7 +321,7 @@ Grau: bacharelato
 
 Do QUADRO I ao QUADRO VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/22000/25572561.pdf))](https://files.diariodarepublica.pt/1s/1981/09/22000/25572561.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22000/25572561.pdf)
 
 ## ANEXO II — Plano de estudos do bacharelato em Produção Animal
 
@@ -289,7 +331,7 @@ Grau: bacharelato
 
 Do QUADRO I ao QUADRO VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/22000/25572561.pdf))](https://files.diariodarepublica.pt/1s/1981/09/22000/25572561.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22000/25572561.pdf)
 
 ## ANEXO III — Plano de estudos do bacharelato em Produção Florestal
 
@@ -299,4 +341,4 @@ Grau: bacharelato
 
 Do QUADRO I ao QUADRO VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/22000/25572561.pdf))](https://files.diariodarepublica.pt/1s/1981/09/22000/25572561.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22000/25572561.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/07/12700/0334803363.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/90/2019/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd75157aba2bec5f60865a1c33611050e069dbed841c276990747f7f45057d97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10ee23f56f97aa8e0dd46263da9ec2f26975a73f935a0b7cdb6c19a4b7dbede7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,44 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Actividade Artística
 - Alvará
-- Espetáculos e Divertimentos Públicos
+- Autarquia Local
+- Bombeiro
+- Cinema
 - Classificação de Espectáculos
 - Código do Direito de Autor e dos Direitos Conexos
-- Multa
-- Inspecção Geral das Actividades Culturais
 - Contra-ordenação
+- Cultura
 - Definição de Competências
-- Regulamentação de Atos Legislativos
 - Direito de Autor
-- Local de Divertimento
 - Equipamento
-- Segurança Pública
-- Produção Cinematográfica
+- Espetáculos e Divertimentos Públicos
 - Fiscalização
-- Licenciamento
+- Fonograma
+- Indústria Cinematográfica
+- Inspecção Geral das Actividades Culturais
 - Licença Municipal
-- Bombeiro
+- Licenciamento
+- Local de Divertimento
 - Material Audiovisual
-- Programa Simplex
+- Multa
 - Música
 - Normas de Segurança
 - Opera
 - Página na Internet
-- Tauromaquia
+- Plataforma Eletrónica
 - Prestação de Serviços
-- Cultura
-- Cinema
-- Indústria Cinematográfica
-- Actividade Artística
+- Produção Cinematográfica
+- Programa Simplex
+- Regulamentação de Atos Legislativos
 - Segurança dos Edifícios
+- Segurança Pública
+- Tauromaquia
 - Taxa
 - Teatro
-- Fonograma
-- Autarquia Local
 - Videograma
 - Vistoria
-- Plataforma Eletrónica
 relationships:
 - type: amended_by
   target: pt:dre:160923378:por
@@ -153,20 +153,148 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/32-a/1998/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/32-a/1998/01/19/p/dre
+- type: cites
+  target: pt:dre:106654349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118748849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:270808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670000:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32006L0123
   label: null
   source: null
 article_structure:
-  article_count: 68
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 58
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:59Z'
   warnings: []
   errors: []
 ---
@@ -223,7 +351,9 @@ Os artigos 1.º, 2.º, 5.º, 6.º, 8.º, 29.º, 34.º, 35.º e 36.º do [Decreto
 
 3 - O presente decreto-lei regula, igualmente, a autenticação e distribuição de videogramas, bem como a colocação à disposição do público de obras no domínio das artes do espetáculo e do audiovisual.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -245,7 +375,9 @@ f) 'Videograma' o suporte material, analógico ou digital, de imagens, acompanha
 
 4 - Para efeitos do presente decreto-lei, considera-se 'colocação à disposição do público' a promoção e exploração de obras no domínio das artes do espetáculo e do audiovisual, através de oferta digital ou da possibilidade de acesso, no local e tempo selecionado pelo utilizador, por qualquer meio ou forma.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 3, a realização de espetáculos de natureza artística está sujeita à apresentação de uma mera comunicação prévia, dirigida ao município onde este se realize, pelo promotor do espetáculo, ainda que não esteja estabelecido em território nacional.
 
@@ -275,7 +407,9 @@ f) 'Videograma' o suporte material, analógico ou digital, de imagens, acompanha
 
 14 - Quando, por motivos de indisponibilidade do Portal ePortugal, não for possível o cumprimento do disposto no n.º 4, as comunicações podem ser realizadas com recurso a outros suportes digitais para o endereço de correio eletrónico da IGAC, que as envia ao município competente.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os locais de venda de bilhetes nos recintos de espetáculos, em agências ou postos de venda, e as plataformas de venda eletrónica de bilhetes, exploradas por empresas estabelecidas em território nacional, devem disponibilizar ao público de forma visível a seguinte informação:
 
@@ -297,7 +431,9 @@ f) ...
 
 4 - Nas situações de venda antecipada de bilhetes para espetáculos de natureza artística ou divertimentos públicos sem atribuição de classificação etária, o promotor deve dar prévio conhecimento à IGAC das razões que fundamentam a omissão da classificação e deixar expresso nos títulos de acesso ao espetáculo que o mesmo aguarda classificação etária.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -325,7 +461,9 @@ e) Meio não titulado através de bilhete.
 
 8 - O promotor do espetáculo ou divertimento público deve assegurar que os portadores de bilhetes com necessidades especiais são, sempre que o solicitem, acompanhados no acesso ao seu lugar.
 
-###### Artigo 29.º — Distribuição e classificação de videogramas
+Artigo 29.º
+
+Distribuição e classificação de videogramas
 
 1 - ...
 
@@ -359,7 +497,9 @@ c) Número de videojogos a distribuir.
 
 13 - Os videogramas, em suporte material, distribuídos ou exibidos publicamente, sem autorização da IGAC, são apreendidos e perdidos a favor do Estado sem direito a indemnização.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, a fiscalização do cumprimento do previsto no presente decreto-lei, em matéria de espetáculos de natureza artística, compete às câmaras municipais territorialmente competentes, sem prejuízo das competências organicamente atribuídas a outras entidades, nomeadamente à IGAC.
 
@@ -375,7 +515,9 @@ c) Número de videojogos a distribuir.
 
 7 - Sem prejuízo do disposto no n.º 5, os colaboradores das entidades a que se referem os n.os 1 e 2, quando no exercício da sua atividade de fiscalização, têm direito de acesso aos locais objeto de fiscalização, podendo permanecer nas coxias, não tendo contudo direito a permanecer nos recintos para além do tempo estritamente indispensável ao exercício das suas funções.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Os procedimentos administrativos tendentes ao registo de promotor, à emissão de pareceres obrigatórios, à apreciação da mera comunicação prévia para obtenção de DIR e das comunicações para os respetivos averbamentos, às vistorias e inspeções periódicas e à classificação de espetáculos de natureza artística e de divertimentos públicos, previstos no presente decreto-lei, implicam o pagamento de taxas, nos termos a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da cultura.
 
@@ -399,7 +541,9 @@ e) Os espetáculos de natureza artística, cuja receita reverta integralmente pa
 
 6 - O pagamento das taxas previstas no presente decreto-lei é realizado preferencialmente através da Plataforma de Pagamentos da Administração Pública, nos termos do disposto no n.º 4 do artigo 30.º do [Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), na redação dada pelo [Decreto-Lei n.º 75/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2014-25343693), de 13 de maio.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - Constitui contraordenação, punível com coima entre 250 EUR e 2500 EUR, no caso das pessoas singulares, e de 500 EUR a 15 000 EUR, no caso das pessoas coletivas, a violação do disposto no n.º 4 do artigo 3.º, no n.º 2 do artigo 4.º, nos n.os 1 e 5 do artigo 6.º, nos n.os 1 e 3 do artigo 7.º, nos n.os 1, 3 e 5 do artigo 8.º, no artigo 9.º, nos n.os 3 e 5 do artigo 10.º, do n.º 7 do artigo 16.º, no n.º 2 do artigo 18.º, no n.º 5 do artigo 22.º, no n.º 2 do artigo 27.º, nos n.os 2 e 6 do artigo 28.º, no n.º 11 do artigo 29.º, no n.º 6 do artigo 31.º e no n.º 4 do artigo 34.º
 
@@ -435,7 +579,9 @@ g) Cópia de apólice de seguro de responsabilidade civil, de garantia ou de ins
 
 4 - A publicação, divulgação e disponibilização, para consulta ou outro fim, de informações, documentos e outros conteúdos que, pela sua natureza e nos termos do presente decreto-lei, possam ou devam ser disponibilizados ao público, sem prejuízo do uso simultâneo de outros meios, deve estar disponível em formatos abertos, que permitam a leitura por máquina, para ser indexada no Portal Nacional de Dados Abertos.
 
-###### Artigo 21.º-A — Distribuição, autorização e disponibilização
+Artigo 21.º-A
+
+Distribuição, autorização e disponibilização
 
 1 - O exercício da atividade de edição, reprodução e distribuição, por qualquer meio, bem como a venda, locação ou troca de videogramas estão sujeitos ao controlo prévio e fiscalização da IGAC.
 
@@ -443,7 +589,9 @@ g) Cópia de apólice de seguro de responsabilidade civil, de garantia ou de ins
 
 3 - Os videogramas distribuídos ao público, independentemente da forma, carecem de autorização da IGAC, nos termos a regular por portaria do membro do Governo responsável pela área da cultura.
 
-###### Artigo 29.º-A — Colocação à disposição do público
+Artigo 29.º-A
+
+Colocação à disposição do público
 
 1 - A colocação à disposição do público de obras no domínio das artes do espetáculo e do audiovisual, através de oferta digital, carece de classificação etária.
 
@@ -507,15 +655,15 @@ b) O artigo 33.º do [Decreto-Lei n.º 23/2014](https://diariodarepublica.pt/dr/
 
 Visto e aprovado em Conselho de Ministros de 30 de maio de 2019. - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Graça Maria da Fonseca Caetano Gonçalves.
 
-**Promulgado em 28 de junho de 2019.**
+Promulgado em 28 de junho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de julho de 2019.**
+Referendado em 3 de julho de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 8.º)
 
@@ -1099,7 +1247,9 @@ f) Prova da titularidade dos direitos de exploração.
 
 6 - No momento da colocação à disposição do público de obras e conteúdos culturais passíveis de classificação, deve disponibilizar-se a classificação etária e o título, de acordo com o modelo previsto na portaria a que se refere o n.º 3 do artigo 21.º-A.
 
-###### Artigo 30.º — Título da obra cinematográfica ou audiovisual
+###### Artigo 30.º
+
+## Título da obra cinematográfica ou audiovisual
 
 1 - As obras cinematográficas ou audiovisuais distribuídas em Portugal devem, em regra, ser registadas com o título em português.
 
@@ -1292,3 +1442,5 @@ d) O artigo 59.º do [Decreto-Lei n.º 227/2006](https://diariodarepublica.pt/dr
 ###### Artigo 47.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no prazo de 60 dias após a respetiva publicação.
+
+112421336

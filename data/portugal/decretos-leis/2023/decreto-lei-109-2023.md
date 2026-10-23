@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22800/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/109/2023/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2023-224728395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27ad11abdf4013d97aafd2641081fe75688d5d25d57a03ecf59e45ff60b24e3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7be1c411b0aafbecf155c91222df1731867d67d3e4edb50fc00127c11d953be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
 - Documentação
-- Gestão Administrativa
+- Epidemia
 - Equipamento Social
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Gestão Financeira
 - Investimento
 - Linha de Crédito
-- Epidemia
+- PDR 2020
 - Prorrogação de Prazo
 - Regime Jurídico
-- Gestão de Recursos Humanos
-- PDR 2020
 relationships:
 - type: amended_by
   target: pt:dre:901661923:por
@@ -121,16 +121,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/73/2021/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/73/2021/11/12/p/dre
+- type: cites
+  target: pt:dre:114276583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116895169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124283151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174244808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177350574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203506992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210531717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213881448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70462181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70686134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75644169:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:40Z'
   warnings: []
   errors: []
 ---
@@ -273,12 +333,14 @@ O artigo 2.º do [Decreto-Lei n.º 78-A/2022](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministros de 9 de novembro de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Ana Catarina Veiga dos Santos Mendonça Mendes - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - José Duarte Piteira Rica Silvestre Cordeiro.
 
-**Promulgado em 18 de novembro de 2023.**
+Promulgado em 18 de novembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 20 de novembro de 2023.**
+Referendado em 20 de novembro de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+117083998

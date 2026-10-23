@@ -26,9 +26,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -49,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/61/2025/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2025-913224267
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e684bc8ab2ab68c60959e681b053d67cbc4313cf71c06cd5a3af01f2cb58e41c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5265341c01bb2528714ee8bc63c357de9df45f5d47200f1f4583c3d9a625162
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +66,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Instituto Nacional de Estatística
-- Pessoal Dirigente
 - Administração Pública
-- Presidência da República
-- Ministério das Finanças
-- Remuneração Acessória
-- Gabinete de Planeamento Estratégia Avaliação e Relações Internacionais
-- Remuneração
-- Funcionário Público
-- Trabalhador com Contrato de Trabalho em Funções Públicas
-- Secretaria-Geral do Governo
-- Centro Jurídico do Estado
+- Centro de Pessoas e Administração Pública
 - Centro de Planeamento e de Avaliação de Políticas Públicas
+- Centro Jurídico do Estado
 - Entidade do Tesouro e Finanças
 - Entidade Orçamental
-- Centro de Pessoas e Administração Pública
+- Função Pública
+- Funcionário Público
+- Gabinete de Planeamento Estratégia Avaliação e Relações Internacionais
+- Instituto Nacional de Estatística
+- Ministério das Finanças
+- Pessoal Dirigente
+- Presidência da República
+- Remuneração
+- Remuneração Acessória
+- Secretaria-Geral do Governo
+- Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
+- type: amended_by
+  target: pt:dre:1172319753:por
+  label: Alterado, com efeitos a 1 de outubro de 2026, o artigo 2.º pelo(a) Decreto-Lei n.º 193/2026 - Diário da República
+    n.º 184/2026, Série I de 2026-09-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/193-2026-1172319753
+  date: '2026-09-21'
+- type: amends
+  target: pt:numero:decreto-lei:288/2000
+  label: Adita, a partir de 3 de abril de 2025, com efeitos a partir de 1 de abril de 2025, o artigo 11.º-A e um anexo (Estatuto
+    remuneratório do pessoal dirigente) ao Decreto-Lei n.º 288/2000, de 13 de novembro, Diário da República n.º 262/2000,
+    Série I-A
+  source: null
+  date: '2000-11-13'
+- type: amends
+  target: pt:numero:decreto-lei:58/2015
+  label: Altera, a partir de 3 de abril de 2025, com efeitos a partir de 1 de abril de 2025, os artigos 1.º e 2.º e o anexo
+    i do Decreto-Lei n.º 58/2015, de 21 de abril, Diário da República n.º 77/2015, Série I
+  source: null
+  date: '2015-04-21'
+- type: amends
+  target: pt:numero:decreto-lei:187/2015
+  label: Altera, a partir de 3 de abril de 2025, com efeitos a partir de 1 de abril de 2025, o anexo i do Decreto-Lei n.º
+    187/2015, de 7 de setembro, Diário da República n.º 174/2015, Série I
+  source: null
+  date: '2015-09-07'
+- type: amends
+  target: pt:numero:decreto-regulamentar:7/2018
+  label: Adita, a partir de 3 de abril de 2025, com efeitos a partir de 1 de abril de 2025, o artigo 4.º-A e um anexo (Estatuto
+    remuneratório do pessoal dirigente) ao Decreto Regulamentar n.º 7/2018, de 13 de julho, Diário da República n.º 134/2018,
+    Série I
+  source: null
+  date: '2018-07-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/110-a/2023/11/28/p/dre
   label: null
@@ -126,16 +156,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66
   label: null
   source: http://data.dre.pt/eli/lei/66
+- type: cites
+  target: pt:dre:115692917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224966780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67040487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70196968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836437685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:912820662:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
+  article_count: 25
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:41Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +236,7 @@ Idêntica possibilidade de transição é prevista para os trabalhadores da carr
 
 Estabelece-se, ainda, no que respeita à transição dos trabalhadores da carreira geral de técnico superior para as carreiras de regime especial de técnico superior especialista em orçamento e finanças do MF, de técnico superior especialista em estatísticas do INE, I. P., e de técnico superior especialista em coordenação transversal de administração e políticas públicas, a aplicação de idêntico regime que, à data da criação das duas primeiras carreiras, ficou previsto para os trabalhadores da carreira geral de técnico superior que pertenciam aos mapas de pessoal do GPEARI, da DGO, da DGTF e do INE, I. P.
 
-Pelo presente decreto-lei procede-se ainda à alteração dos níveis remuneratórios da tabela remuneratória única correspondentes às 1.ª, 2.ª e 12.ª posições remuneratórias da estrutura remuneratória das carreiras de técnico superior especialista em orçamento e finanças do MF e de técnico superior especialista em estatísticas do INE, I. P., bem como à eliminação das posições remuneratórias transitórias 8.ª-A e 11.ª-A, sendo os trabalhadores reposicionados, respetivamente, nas posições remuneratórias 9.ª e 12.ª da estrutura remuneratória das referidas carreiras. Nesta sequência, são introduzidas alterações aos referidos Decretos-Leis n.<sup>os</sup>[58/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2015-67040487), de 21 de abril, e [187/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2015-70196968), de 7 de setembro, ambos na sua redação atual.
+Pelo presente decreto-lei procede-se ainda à alteração dos níveis remuneratórios da tabela remuneratória única correspondentes às 1.ª, 2.ª e 12.ª posições remuneratórias da estrutura remuneratória das carreiras de técnico superior especialista em orçamento e finanças do MF e de técnico superior especialista em estatísticas do INE, I. P., bem como à eliminação das posições remuneratórias transitórias 8.ª-A e 11.ª-A, sendo os trabalhadores reposicionados, respetivamente, nas posições remuneratórias 9.ª e 12.ª da estrutura remuneratória das referidas carreiras. Nesta sequência, são introduzidas alterações aos referidos Decretos-Leis n.os[58/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2015-67040487), de 21 de abril, e [187/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2015-70196968), de 7 de setembro, ambos na sua redação atual.
 
 Pelo presente decreto-lei, e conforme referido anteriormente, com o objetivo de atrair e reter trabalhadores com competências e conhecimento relevantes e especializados e que asseguram o cumprimento das missões dos organismos e a prossecução das suas atribuições consideradas como críticas e transversais ao funcionamento do Estado é criado um suplemento remuneratório pelo exercício de funções técnicas especializadas associadas à definição, condução e controlo da política financeira e de Administração Pública do Estado, à coordenação e apoio ao planeamento estratégico, à assessoria e apoio jurídico e às demais atividades críticas e transversais do Estado, em regime de isenção de horário e associado ao desempenho dos organismos, atribuído aos trabalhadores integrados nas carreiras de técnico superior especialista em orçamento e finanças do MF, de técnico superior especialista em estatísticas do INE, I. P., de técnico superior especialista em coordenação transversal de administração e políticas públicas e de especialista de sistemas e tecnologias de informação.
 
@@ -334,7 +404,9 @@ b) Depende do exercício efetivo de funções na SG-Gov, na EO, na ETF, no CEPAP
 
 O presente decreto-lei procede à criação da carreira de regime especial de técnico superior especialista em orçamento e finanças públicas do Ministério das Finanças (MF).
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 O presente decreto-lei aplica-se aos trabalhadores da carreira de regime especial de técnico superior especialista em orçamento e finanças públicas do MF integrados nos mapas de pessoal da Entidade Orçamental (EO), da Entidade do Tesouro e Finanças (ETF) e do Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais (GPEARI), doravante designados por Entidades.»
 
@@ -404,15 +476,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro.
 
-**Promulgado em 25 de março de 2025.**
+Promulgado em 25 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de março de 2025.**
+Referendado em 27 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — [a que se refere a alínea a) do n.º 1 do artigo 1.º]
 
@@ -557,3 +629,7 @@ Estatuto remuneratório do pessoal dirigente
 | Secretário-geral-adjunto | 85 % da RBM/SG | 20 % |
 | Diretor de serviços | 75 % da RBM/SG | 15 % |
 | Chefe de divisão | 70 % da RBM/SG | 10 % |
+
+118890176
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { border-collapse:collapse; border-width:1px; } .Tbl13 { min-height:264px; } .Tbl14 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl15 { min-height:82px; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl17 { min-height:35px; }

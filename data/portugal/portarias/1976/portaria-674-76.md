@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/26600/25862588.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/674-1976-407108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T05:10:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 948a36a2fac6110ad48f21709f44c99dc7403498c096c995935dd57726d10ce7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b59941a587c050f0fb087a2545ebcf7c6fca03de085191f5bd7ddf926dc7a599
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:10:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Gestão
+- Ensino Oficial
+- Escola de Enfermagem
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:479387:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA A REDACÇÃO DO ART 4 DO REGULAMENTO PELA PORT 384/82 DE 16-ABR DR.IS [88]\088]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-04-16'
+- type: cites
+  target: pt:dre:210055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668920:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479387:por
+  label: "Revogada com efeitos a partir da nomeação do director da escola a que se refere o DEC LEI.205/95.1995.08.08.MS,\
+    \ DR.IS-A [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-1995-479387
+  date: '1995-08-08'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:10:21Z'
   warnings: []
   errors: []
 ---

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 251/1991, 1º Suplemento, Série I-A de 1991-10-31
   number: '251'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5610-(2) a 5610-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/251a01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/53/1991/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/53-1991-198352
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T04:11:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd51c69b6793e650cd31aed29d7cf160b92317e7f3c398f18c6c04e0784a4f16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64d0296ff9a737d882b315e4a632fdb7725eefa391117ab89f2d974bb9efae16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:11:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Exoneração
-- Ministro da República
 - Madeira.região Autónoma
+- Ministro da República
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:11:04Z'
   warnings: []
   errors: []
 ---
@@ -88,16 +88,16 @@ validation:
 
 de 31 de Outubro
 
-**O Presidente da República, ouvido o Conselho de Estado, decreta, nos termos do artigo 136.º, alínea l), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Conselho de Estado, decreta, nos termos do artigo 136.º, alínea l), da Constituição, o seguinte:
 
 É exonerado, sob proposta do Governo, o general Lino Dias Miguel do cargo de Ministro da República para a Região Autónoma da Madeira.
 
-**Assinado em 30 de Outubro de 1991.**
+Assinado em 30 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Outubro de 1991.**
+Referendado em 30 de Outubro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

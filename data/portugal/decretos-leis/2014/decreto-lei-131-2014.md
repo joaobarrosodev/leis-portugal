@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/08/16600/0458704594.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/131/2014/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2014-56384883
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff33610276c2ca62c13f4e9ddf266786e7dcf3e02a51acdeb84cace0d39f6e22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b1d402bd85112eda6cb3526d0c23e06e9972c31c8b6d4c2c626e4292e0f39fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Banco de Produtos Biológicos
-- Investigação Científica e Tecnológica
-- Multa
-- Comissão Nacional de Protecção de Dados
-- Conselho Nacional de Ética para as Ciências da VIDA
-- Genética
-- Contra-ordenação
-- Informação Médica
-- Saúde
-- Teste Genético
-- Definição de Competências
-- Direcção Geral do Consumidor
-- Serviço Nacional de Saúde
-- Fiscalização
-- Base de Dados Genéticos
-- Genoma Humano
-- Património Genético Humano
-- Segurança da Informação
 - ASAE
+- Banco de Produtos Biológicos
+- Base de Dados Genéticos
+- Comissão Nacional de Protecção de Dados
+- Confidencialidade
+- Conselho Nacional de Ética para as Ciências da VIDA
+- Contra-ordenação
 - Cooperação Internacional
 - Cuidados Médicos
-- Confidencialidade
+- Definição de Competências
+- Direcção Geral do Consumidor
+- Fiscalização
+- Genética
+- Genoma Humano
 - Informação de Saúde
 - Informação Genética
-- Segredo Profissional
+- Informação Médica
+- Investigação Científica e Tecnológica
 - Material Biológico
+- Multa
+- Património Genético Humano
+- Saúde
+- Segredo Profissional
+- Segurança da Informação
+- Serviço Nacional de Saúde
+- Teste Genético
 relationships:
 - type: cites
   target: celex:32007R1394
@@ -105,13 +105,13 @@ relationships:
 article_structure:
   article_count: 36
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:54Z'
   warnings: []
   errors: []
 ---
@@ -572,12 +572,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 10 de julho de 2014. - Pedro Passos Coelho - António de Magalhães Pires de Lima - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 21 de agosto de 2014.**
+Promulgado em 21 de agosto de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de agosto de 2014.**
+Referendado em 26 de agosto de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

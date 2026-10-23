@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/146a00/38433856.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/237/1999/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1999-393003
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:08:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8199909b9975e4d0ecef318b61fcad6cabd246d0fc18bac5df7ac6002adff7e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7afc8134617c04246ee87596fdde05f182965517cdecba597f9b0e5517ea2f30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:08:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aposentação
-- Exoneração
+- Caixa Geral de Aposentações
 - Comissão de Fiscalização
 - Comissão de Serviço
+- Conselho Consultivo
 - Conselho de Administração
 - Contrato Individual de Trabalho
 - Criação de Serviços
 - Definição de Competências
 - Estatuto
+- Exoneração
 - Extinção de Serviços
-- Caixa Geral de Aposentações
-- Recrutamento de Pessoal
-- Instituto para a Construção Rodoviária
-- Conselho Consultivo
+- Instituto das Estradas de Portugal
 - Instituto para a Conservação e Exploração da REDE Rodoviária
+- Instituto para a Construção Rodoviária
 - Instituto Público
 - Junta Autónoma das Estradas
-- Instituto das Estradas de Portugal
 - Presidente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Regime de Pessoal
 - Regime Jurídico
 - Segurança Social
@@ -94,6 +94,46 @@ relationships:
   target: pt:dre:629168:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Integrado no Ministério do Equipamento Social, os Institutos das Estradas de Portugal, para a Construção Rodoviária\
+    \ e para a Conservação e Exploração da Rede Rodoviária, criados pelo presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM\
+    \ DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:661767:por
+  label: "Alterado pelo DEC LEI.563/99.1999.12.21.MEPAT DR.IS-A [295]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/563-1999-661767
+  date: '1999-12-21'
+- type: amended_by
+  target: pt:dre:140139:por
+  label: "Declaradada a inconstitucionalidade, com força obrigatória geral, limitando os efeitos da inconstitucionalidade\
+    \ a partir da publicação do AC.140/2002.2002.04.09.TCS, DR.IS-A [146] de 27/Jun/2002, sem prejuízo da produção desses\
+    \ efeitos nos casos pendentes de decisão de Tribunal, das normas constantes do nº 2 do art. 15º dos Estatutos do IEP e\
+    \ do nº 2 do art. 15º dos Estatutos do ICERR aprovados pelo presente diploma\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/140-2002-140139
+  date: '2002-04-09'
+- type: amended_by
+  target: pt:dre:425887:por
+  label: "Alterados os arts 1º, 2º, 3º, 4º, 6º, 7º, 8º, 9º, 11º, 12º, 15º e 16º dos Estatutos do IEP, extintos o ICOR e ICERR,\
+    \ transferindo as respectivas competências para o IEP, revogados os respectivos Estatutos e revogados com excepção dos\
+    \ arts 7º e 10º, republicado em anexo os Estatutos do IE pelo DEC LEI.227/2002.2002.10.30.MOPTH, DR.IS-A [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-2002-425887
+  date: '2002-10-30'
+- type: amended_by
+  target: pt:dre:219564:por
+  label: "Transformado o IEP em entidade pública empresarial, com a designação de EP - Estradas de Portugal E.P.E., e revogados\
+    \ os arts. 7º e 10º deste diploma pelo Dec Lei.239/2004.21.12.2004.MOPTC, DR.IS-A [297] de 21.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/239-2004-219564
+  date: '2004-12-21'
+- type: amended_by
+  target: pt:dre:629168:por
+  label: "Transformada a E.P. - Estradas de Portugal, EPE em sociedade anónima de capitais exclusivamente públicos, primeiramente\
+    \ Junta Autónoma das Estradas, criada pelo Dec 13969 de 20-Jul 1927, extinta e criado o Instituto das Estradas de Portugal,\
+    \ pelo presente diploma, pelo DEC LEI.374/2007.07.11.2007.MOPTC, DR.IS [214] de 07.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-2007-629168
+  date: '2007-11-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/142/1997/06/06/p/dre
   label: null
@@ -114,16 +154,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:406335:por
+  label: "Rectificado pela DECL-RECT.10-AV/99.1999.06.30.PCM, DR.IS-A [150]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-av-1999-406335
+  date: '1999-06-30'
 article_structure:
   article_count: 63
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:08:31Z'
   warnings: []
   errors: []
 ---
@@ -358,15 +431,15 @@ São revogados o [Decreto-Lei n.º 184/78](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 1999. - António Manuel de Oliveira Guterres - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 11 de Junho de 1999.**
+Promulgado em 11 de Junho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Junho de 1999.**
+Referendado em 14 de Junho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 1.º)
 

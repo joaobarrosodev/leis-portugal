@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/05/09800/0000200023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35/2024/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2024-865433933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38d286bc92312f89c98531f113649488804ed9b64145650cc8414dba9a5f376e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0330f8a7d046717285a303d7f7dce477b231b442dc30ce3239cbf4e99408803
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Complemento Solidário para Idosos
 - Instituto da Segurança Social
 - Pessoa a Cargo
 - Proteção na Velhice
 - Proteção Social
 - Rendimento de Referência
-- Complemento Solidário para Idosos
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:232/2005
+  label: Altera, a partir de 22 de maio de 2024, com efeitos efeitos a partir de 01 de junho de 2024, os artigos 6.º, 7.º,
+    9.º, 13.º e revoga a alínea b) do n.º 1 do artigo 6.º e o n.º 2 do artigo 7.º do Decreto-Lei n.º 232/2005, de 29 de dezembro,
+    Diário da República n.º 249/2005, Série I-A e republica-o, no anexo I
+  source: null
+  date: '2005-12-29'
+- type: amends
+  target: pt:numero:decreto-regulamentar:3/2006
+  label: Altera, a partir de 22 de maio de 2024, com efeitos efeitos a partir de 01 de junho de 2024, os artigos 9.º, 10.º,
+    11.º,25.º e revoga os artigos 6.º, 7.º e 13.º, o n.º 5 do artigo 25.º, o n.º 4 do artigo 26.º, a alínea c) do n.º 3 e
+    os n.ºs 4 e 5 do artigo 27.º e o artigo 29.º do Decreto Regulamentar n.º 3/2006, de 6 de fevereiro, Diário da República
+    n.º 26/2006, Série I-B, e republica-o, no anexo II
+  source: null
+  date: '2006-02-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/232/2005/12/29/p/dre
   label: null
@@ -81,16 +96,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/3/2006/02/06/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/3/2006/02/06/p/dre
+- type: cites
+  target: pt:dre:469064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551837:por
+  label: null
+  source: null
 article_structure:
   article_count: 70
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:14Z'
   warnings: []
   errors: []
 ---
@@ -215,23 +238,23 @@ c) O montante dos recursos de cada requerente, determinado nos termos do n.º 4 
 
 4 - A repartição é efetuada pela aplicação do ponderador W à diferença referida no número anterior, calculado através das fórmulas:
 
-W<sub>1</sub> = (VR – Y<sub>1</sub>)/(2VR –Y<sub>1</sub>– Y<sub>2</sub>)
+W1 = (VR – Y1)/(2VR –Y1– Y2)
 
 e
 
-W<sub>2</sub> = 1– W<sub>1</sub>
+W2 = 1– W1
 
 em que:
 
-W<sub>1</sub> é o ponderador do primeiro requerente;
+W1 é o ponderador do primeiro requerente;
 
-W<sub>2</sub> é o ponderador do segundo requerente;
+W2 é o ponderador do segundo requerente;
 
 VR é o valor de referência do complemento previsto n.º 1 do artigo 8.º;
 
-Y<sub>1</sub> é o total dos rendimentos individuais do primeiro requerente;
+Y1 é o total dos rendimentos individuais do primeiro requerente;
 
-Y<sub>2</sub> é o total dos rendimentos individuais do segundo requerente.
+Y2 é o total dos rendimentos individuais do segundo requerente.
 
 ###### Artigo 25.º — [...]
 
@@ -253,7 +276,7 @@ São revogados:
 
 a) A alínea b) do n.º 1 do artigo 6.º e o n.º 2 do artigo 7.º do [Decreto-Lei n.º 232/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2005-469064), de 29 de dezembro, na sua redação atual;
 
-b) Os artigos 6.º, 7.º e 13.º, o n.º 5 do artigo 25.º, o n.º 4 do artigo 26.º, a alínea c) do n.º 3 e os n.<sup>os</sup> 4 e 5 do artigo 27.º e o artigo 29.º do [Decreto Regulamentar n.º 3/2006](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2006-551837), de 6 de fevereiro, na sua redação atual.
+b) Os artigos 6.º, 7.º e 13.º, o n.º 5 do artigo 25.º, o n.º 4 do artigo 26.º, a alínea c) do n.º 3 e os n.os 4 e 5 do artigo 27.º e o artigo 29.º do [Decreto Regulamentar n.º 3/2006](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2006-551837), de 6 de fevereiro, na sua redação atual.
 
 ###### Artigo 5.º — Republicação
 
@@ -269,15 +292,15 @@ b) Os artigos 6.º, 7.º e 13.º, o n.º 5 do artigo 25.º, o n.º 4 do artigo 2
 
 Visto e aprovado em Conselho de Ministros de 9 de maio de 2024. - Luís Filipe Montenegro Cardoso de Morais Esteves - Joaquim José Miranda Sarmento - Maria do Rosário Valente Rebelo Pinto Palma Ramalho.
 
-**Promulgado em 16 de maio de 2024.**
+Promulgado em 16 de maio de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 16 de maio de 2024.**
+Referendado em 16 de maio de 2024.
 
-**O Primeiro-Ministro, Luís Filipe Montenegro Cardoso de Morais Esteves.**
+O Primeiro-Ministro, Luís Filipe Montenegro Cardoso de Morais Esteves.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 5.º)
 
@@ -429,7 +452,7 @@ d) Após o trânsito em julgado de decisão judicial condenatória do titular qu
 
 O direito ao complemento solidário para idosos cessa, designadamente, nos seguintes casos:
 
-a) Decorridos dois anos após o início da suspensão nos termos dos n.<sup>os</sup>1 e 2 do artigo anterior;
+a) Decorridos dois anos após o início da suspensão nos termos dos n.os1 e 2 do artigo anterior;
 
 b) Por morte do titular.
 
@@ -569,7 +592,7 @@ A prova de residência em território nacional, nos termos do disposto no artigo
 
 a) Atestado de residência emitido pela junta de freguesia, por outro documento que o demonstre ou por verificação oficiosa dos elementos constantes nos organismos da segurança social, no caso de cidadão nacional;
 
-b) Títulos previstos nos n.<sup>os</sup>1 e 2 do artigo 3.º do [Decreto-Lei n.º 232/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2005-469064), de 29 de dezembro, ou declaração de entidade competente, no caso de cidadãos estrangeiros, refugiados e apátridas.
+b) Títulos previstos nos n.os1 e 2 do artigo 3.º do [Decreto-Lei n.º 232/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2005-469064), de 29 de dezembro, ou declaração de entidade competente, no caso de cidadãos estrangeiros, refugiados e apátridas.
 
 ###### Artigo 4.º — Contagem do prazo de residência
 
@@ -623,7 +646,7 @@ A condição de recursos do requerente para acesso ao complemento solidário par
 
 a) O montante dos recursos do requerente, determinado nos termos do n.º 2 do artigo anterior, seja inferior ao valor de referência do complemento previsto no n.º 1 do artigo 8.º;
 
-b) Os montantes dos recursos do requerente, determinados nos termos das alíneas a) e b) do n.º 3 do artigo anterior, sejam simultaneamente inferiores aos respetivos valores de referência do complemento previsto nos n.<sup>os</sup>1 e 2 do artigo 8.º;
+b) Os montantes dos recursos do requerente, determinados nos termos das alíneas a) e b) do n.º 3 do artigo anterior, sejam simultaneamente inferiores aos respetivos valores de referência do complemento previsto nos n.os1 e 2 do artigo 8.º;
 
 c) O montante dos recursos de cada requerente, determinado nos termos do n.º 4 do artigo anterior, seja inferior ao valor de referência do complemento previsto no n.º 2 do artigo 8.º e, cumulativamente, o rendimento individualizado de cada requerente, seja inferior ao valor de referência do complemento previsto no n.º 1 do artigo 8.º
 
@@ -641,23 +664,23 @@ b) A diferença entre o valor de referência do complemento previsto no n.º 2 d
 
 4 - A repartição é efetuada pela aplicação do ponderador W à diferença referida no número anterior, calculado através das fórmulas:
 
-W<sub>1</sub> = (VR – Y<sub>1</sub>)/(2VR – Y <sub>1</sub>– Y<sub>2</sub>)
+W1 = (VR – Y1)/(2VR – Y 1– Y2)
 
 e
 
-W<sub>2</sub> = 1 – W<sub>1</sub>
+W2 = 1 – W1
 
 em que:
 
-W<sub>1</sub> é o ponderador do primeiro requerente;
+W1 é o ponderador do primeiro requerente;
 
-W<sub>2</sub> é o ponderador do segundo requerente;
+W2 é o ponderador do segundo requerente;
 
 VR é o valor de referência do complemento previsto n.º 1 do artigo 8.º;
 
-Y<sub>1</sub> é o total dos rendimentos individuais do primeiro requerente;
+Y1 é o total dos rendimentos individuais do primeiro requerente;
 
-Y<sub>2</sub> é o total dos rendimentos individuais do segundo requerente.
+Y2 é o total dos rendimentos individuais do segundo requerente.
 
 ###### Artigo 12.º — Rendimentos do agregado familiar do requerente
 
@@ -907,7 +930,7 @@ c) (Revogada.)
 
 5 - (Revogado.)
 
-6 - Os requerentes podem ser dispensados da apresentação de alguns dos documentos previstos nos n.<sup>os</sup>1, 2 e 3 do presente artigo, caso esteja salvaguardado o acesso à informação em causa por parte da segurança social, designadamente por efeito de processos de interconexão de dados com outros organismos da Administração Pública.
+6 - Os requerentes podem ser dispensados da apresentação de alguns dos documentos previstos nos n.os1, 2 e 3 do presente artigo, caso esteja salvaguardado o acesso à informação em causa por parte da segurança social, designadamente por efeito de processos de interconexão de dados com outros organismos da Administração Pública.
 
 ###### Artigo 28.º — Falta de apresentação de elementos de instrução do requerimento
 
@@ -952,3 +975,5 @@ c) (Revogada.)
 ###### Artigo 33.º — Produção de efeitos
 
 O presente decreto regulamentar produz efeitos a partir do dia 1 de janeiro de 2006.
+
+117715392

@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/195-1985-325510
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T08:20:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fa62fafff8327beae26a301bc00e90f51069359271dcdb9141afe8adad85099
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9e0f410338c53836d28e295346d221d68059eb1ebe4a24469ab7b22751437e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:20:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Vinha
 relationships:
 - type: amended_by
   target: pt:dre:665159:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:377887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593354:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:222272:por
+  label: "Revogada a restrição estabelecida para as castas de videira nos concelhos de Palmela, Setúbal e Sesimbra, pela PORT.608/86.17.10.1986.MAPA,\
+    \ DR.IS [240] de 17.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/608-1986-222272
+  date: '1986-10-17'
+- type: repealed_by
+  target: pt:dre:150313:por
+  label: "Revogada, na parte que se refere à Região Demarcada dos Vinhos Verdes, pelo DEC LEI.10/92.03.02.1992.MA, DR.IS-A\
+    \ [28] de 03.02.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-1992-150313
+  date: '1992-02-03'
+- type: repealed_by
+  target: pt:dre:665159:por
+  label: "Revogada, na parte que se refere aos vinhos da Região Demarcada do Dão, pelo DEC LEI.376/93.05.11.1993.MA, DR.IS-A\
+    \ [259] de 05.11.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/376-1993-665159
+  date: '1993-11-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:20:40Z'
   warnings: []
   errors: []
 ---
@@ -104,10 +139,10 @@ Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, nos term
 
 Ministério da Agricultura.
 
-**Assinada em 18 de Março de 1985.**
+Assinada em 18 de Março de 1985.
 
-**O Ministro da Agricultura, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Álvaro Roque de Pinho Bissaia Barreto.
 
-## Anexo a que se refere a Portaria n.º 195/85
+Anexo a que se refere a Portaria n.º 195/85
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/04/08300/09841002.pdf))](https://files.diariodarepublica.pt/1s/1985/04/08300/09841002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/04/08300/09841002.pdf)

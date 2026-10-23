@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/120/2011/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2011-145180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3131a363302632e15f9768fccf1e00405707406fd2d2b91f369e7b921b9685b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ed79c564ee74eda36171920d211111a3a84b77c6d272b65e5c0d15f817633fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Aditivo Alimentar
 - Aproximação das Legislações
+- Comércio
 - Contra-ordenação
 - Fabrico Industrial
-- Aditivo Alimentar
 - Indústria Alimentar
-- Comércio
+- Produto Alimentar
 relationships:
 - type: cites
   target: celex:31989R1576
@@ -129,15 +129,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/19
 article_structure:
-  article_count: 21
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 17
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:44Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +186,9 @@ Os artigos 4.º, 8.º e 9.º do Decreto-Lei n.º 193/2000, de 18 de Agosto, alte
 
 7 - ...
 
-###### Artigo 8.º — Regime sancionatório
+Artigo 8.º
+
+Regime sancionatório
 
 1 - Constituem contra-ordenações as infracções ao disposto nos n.os 1, 3, 4 e 5 do artigo 4.º e nos artigos 5.º a 7.º do presente diploma.
 
@@ -214,7 +216,9 @@ g) Suspensão de autorizações, licenças e alvarás.
 
 6 - Às contra-ordenações previstas no presente diploma é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de Outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de Outubro, 244/95, de 14 de Setembro, e 323/2001, de 17 de Dezembro, e pela Lei n.º 109/2001, de 24 de Dezembro.
 
-###### Artigo 9.º — Fiscalização, instrução e decisão
+Artigo 9.º
+
+Fiscalização, instrução e decisão
 
 1 - Sem prejuízo das competências atribuídas por lei a outras autoridades policiais e fiscalizadoras, a fiscalização e a instrução dos processos por infracção ao disposto no presente diploma competem à Autoridade de Segurança Alimentar e Económica (ASAE) e aos serviços competentes nas Regiões Autónomas.
 
@@ -246,9 +250,11 @@ c) 20 % para a entidade que instruiu o processo;
 
 d) 10 % para a CACMEP.
 
-###### Artigo 11.º — (Anterior artigo 8.º)
+Artigo 11.º
 
-###### Artigo 12.º
+(Anterior artigo 8.º)
+
+Artigo 12.º
 
 (Anterior artigo 9.º)»
 
@@ -258,15 +264,15 @@ d) 10 % para a CACMEP.
 
 Visto e aprovado em Conselho de Ministros de 1 de Setembro de 2011. - Pedro Passos Coelho - Paulo de Sacadura Cabral Portas - Paula Maria von Hafe Teixeira da Cruz - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 7 de Dezembro de 2011.**
+Promulgado em 7 de Dezembro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Dezembro de 2011.**
+Referendado em 12 de Dezembro de 2011.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 3.º)
 
@@ -340,7 +346,7 @@ Visto e aprovado em Conselho de Ministros de 1 de Setembro de 2011. - Pedro Pass
 
 33 - [...]
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/24800/0542205453.pdf))](https://files.diariodarepublica.pt/1s/2011/12/24800/0542205453.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/24800/0542205453.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 3.º)
 
@@ -348,7 +354,7 @@ Visto e aprovado em Conselho de Ministros de 1 de Setembro de 2011. - Pedro Pass
 
 B - [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/24800/0542205453.pdf))](https://files.diariodarepublica.pt/1s/2011/12/24800/0542205453.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/24800/0542205453.pdf)
 
 ## ANEXO III — (a que se refere o artigo 5.º)
 
@@ -464,7 +470,7 @@ O presente decreto-lei entra em vigor nos termos gerais, sem prejuízo da comerc
 
 Nota. - São autorizadas as lacas de alumínio preparadas a partir dos corantes mencionados no presente anexo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/24800/0542205453.pdf))](https://files.diariodarepublica.pt/1s/2011/12/24800/0542205453.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/24800/0542205453.pdf)
 
 ## ANEXO II — Géneros alimentícios que não podem conter corantes, excepto nos casos especificamente previstos nos anexos III, IV ou V
 
@@ -538,15 +544,15 @@ Nota. - São autorizadas as lacas de alumínio preparadas a partir dos corantes 
 
 ## ANEXO III — Géneros alimentícios que apenas podem conter determinados corantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/24800/0542205453.pdf))](https://files.diariodarepublica.pt/1s/2011/12/24800/0542205453.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/24800/0542205453.pdf)
 
 ## ANEXO IV — Corantes autorizados apenas para certos usos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/24800/0542205453.pdf))](https://files.diariodarepublica.pt/1s/2011/12/24800/0542205453.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/24800/0542205453.pdf)
 
 ## ANEXO V — Corantes autorizados nos géneros alimentícios para além dos enumerados nos anexos II e III
 
-# PARTE 1
+## PARTE 1
 
 Os seguintes corantes podem ser utilizados quantum satis em géneros alimentícios mencionados na parte 2 do presente anexo e em todos os outros géneros alimentícios que não são enumerados nos anexos ii e iii:
 
@@ -584,7 +590,7 @@ E 171 - Dióxido de titânio;
 
 E 172 - Óxidos e hidróxidos de ferro.
 
-# PARTE 2
+## PARTE 2
 
 Os seguintes corantes podem ser utilizados estremes ou em mistura nos seguintes géneros alimentícios, até aos limites máximos especificados na tabela. Todavia, no caso de bebidas não alcoólicas aromatizadas, gelados alimentares, sobremesas e produtos de pastelaria e padaria fina e de confeitaria, podem ser utilizados corantes até ao limite indicado no respectivo quadro, mas as quantidades de cada um dos corantes E 110, E 122, E 124 e E 155 não podem ser superiores a 50 mg/kg ou mg/l:
 
@@ -628,6 +634,6 @@ E 160f - Éster etílico de ácido beta-apo-8'-caroténico (C30);
 
 E 161b - Luteína.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/24800/0542205453.pdf))](https://files.diariodarepublica.pt/1s/2011/12/24800/0542205453.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/24800/0542205453.pdf)
 
-## ANEXO VI — [([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/24800/0542205453.pdf))](https://files.diariodarepublica.pt/1s/2011/12/24800/0542205453.pdf)
+## ANEXO VI — [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/24800/0542205453.pdf)

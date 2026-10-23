@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/13100/0426704271.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/117/2008/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2008-456519
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0d109b2fbbcba29334e10e78c7a2b9c84684c5fb5c9a01eaf7a62bc25cb6f12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1be89702c879dab865264e3f1e37fd5108dcf5d1ec28855c1560cefcfe3cee1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,36 +65,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
 - Capital Social
-- Renovação Urbana
 - Direção Geral do Tesouro e Finanças
 - Estatuto
 - Frente TEJO
+- Interesse Público
 - Lisboa
+- Renovação Urbana
 - RIO TEJO
 - Setor Empresarial do Estado
+- Sociedade Anónima
 - ZONA de Intervenção
-- Interesse Público
 relationships:
 - type: amended_by
   target: pt:dre:146199:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3674539:por
+  label: "Determinado que seja submetida à sociedade Frente Tejo, S. A., constituída pelo presente diploma, a gestão dos espaços\
+    \ dos imóveis do domínio público do Estado, actualmente afectos ao Ministério da Agricultura, do Desenvolvimento Rural\
+    \ e das Pescas, pelo DESP.7300/2010.27.04.2010.PCM, DR.IIS [81] de 27.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/7300-2010-3674539
+  date: '2010-04-27'
+- type: amended_by
+  target: pt:dre:3674540:por
+  label: "Determinado que seja submetida à sociedade Frente Tejo, S. A., constituída pelo presente diploma, a gestão dos espaços\
+    \ dos imóveis do domínio público do Estado, actualmente afectos ao Ministério da Agricultura, do Desenvolvimento Rural\
+    \ e das Pescas, pelo DESP.7301/2010.27.04.2010.PCM, DR.IIS [81] de 27.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/7301-2010-3674540
+  date: '2010-04-27'
 - type: cites
   target: celex:32004L0018
   label: null
   source: http://data.europa.eu/eli/dir/2004/18/oj
+- type: repealed_by
+  target: pt:dre:146199:por
+  label: "Revogado pelo DEC LEI.110/2011.25.11.2011.PCM, DR.IS [227] de 25.11.2011, sendo as atribuições e competências cometidas\
+    \ à Frente Tejo relativas à área de requalificação e reabilitação urbana (criada pela Res 78/2008, de 15-Maio, da PCM)\
+    \ transferidas para o Estado.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/110-2011-146199
+  date: '2011-11-25'
 article_structure:
   article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:02Z'
   warnings: []
   errors: []
 ---
@@ -207,15 +228,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Abril de 2008. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Manuel Pedro Cunha da Silva Pereira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Mário Lino Soares Correia.
 
-**Promulgado em 5 de Junho de 2008.**
+Promulgado em 5 de Junho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Junho de 2008.**
+Referendado em 6 de Junho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 1.º)
 

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 195/1977, 1º Suplemento, Série I de 1977-08-24
   number: '195'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2040-(17) a 2040-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/19501/00170018.pdf
 entry_into_force_dates: []
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1977-659714
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a010cb8e84886aa4efddd99365fd75ab91a3a095d667df3679a6992515d4c0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6c8220549f0288499f1ae083ab201f13808ac98058c41aa26745b1b292e951e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Bancária
+- Banco de Portugal
+- Conta Bancária
+- Crédito Bancário
+- Divisa
+- Fundo de Garantia de Riscos Cambiais
+- Instituição de Crédito
+- Investimento
+- Moeda
+- Operação Cambial
+- Operações de Tesouraria
 relationships:
 - type: amended_by
   target: pt:dre:382814:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382814:por
+  label: "Dada nova redacção ao n.º 1 do art. 1.º pelo DR.10/79.02.04.1979.MFP, DR.IS [77] de 02.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/10-1979-382814
+  date: '1979-04-02'
+- type: cites
+  target: pt:dre:237461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659717:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:18Z'
   warnings: []
   errors: []
 ---
@@ -92,17 +120,17 @@ Tendo em consideração o disposto nos artigos 13.º, 14.º e 17.º a 19.º do [
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Em conformidade com o previsto no artigo 19.º do [Decreto-Lei n.º 348/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1977-659717), de 24 de Agosto, as importâncias das transferências que não puderem efectuar-se, em consequência da aplicação do disposto no artigo 13.º, no artigo 14.º e nos artigos 17.º e 18.º daquele diploma, serão escrituradas em contas especiais a abrir, em nome e à ordem dos não residentes com direito às ditas transferências, em instituições de crédito nacionalizadas autorizadas a exercer o comércio de câmbios.
+Artigo 1.º - 1. Em conformidade com o previsto no artigo 19.º do [Decreto-Lei n.º 348/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1977-659717), de 24 de Agosto, as importâncias das transferências que não puderem efectuar-se, em consequência da aplicação do disposto no artigo 13.º, no artigo 14.º e nos artigos 17.º e 18.º daquele diploma, serão escrituradas em contas especiais a abrir, em nome e à ordem dos não residentes com direito às ditas transferências, em instituições de crédito nacionalizadas autorizadas a exercer o comércio de câmbios.
 
 2. As mencionadas contas especiais serão abertas em moeda nacional, ou numa das moedas estrangeiras cotadas pelo Banco de Portugal, à opção do não residente interessado, e na instituição de crédito que pelo mesmo não residente for designada.
 
 3. Os saldos das sobreditas contas especiais, em moeda nacional ou em moeda estrangeira, vencerão juros à taxa correspondente aos prazos por que o depósito estiver constituído.
 
-###### Art. 2.º - 1. As contas especiais, abertas nos termos do artigo precedente, apenas poderão ser creditadas pelas importâncias das transferências a que alude o n.º 1 desse artigo e pelos juros devidos em conformidade com o disposto no n.º 3 do mesmo artigo.
+Art. 2.º - 1. As contas especiais, abertas nos termos do artigo precedente, apenas poderão ser creditadas pelas importâncias das transferências a que alude o n.º 1 desse artigo e pelos juros devidos em conformidade com o disposto no n.º 3 do mesmo artigo.
 
 2. Para efeitos de crédito numa conta especial em moeda estrangeira, as importâncias das transferências, mencionadas no dito n.º 1 do artigo 1.º, serão convertidas nessa moeda estrangeira, ao câmbio de venda que, para a mesma moeda, vigorar na data em que as transferências deveriam ter lugar, para o que os respectivos residentes devedores farão, oportunamente, as necessárias entregas em moeda nacional.
 
-###### Art. 3.º - 1. No caso de conta especial aberta em moeda nacional, e de harmonia com o previsto no n.º 2 do artigo 19.º do [Decreto-Lei n.º 348/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1977-659717), o Fundo de Garantia de Riscos Cambiais, criado pelo [Decreto-Lei n.º 75-D/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-d-1977-509014), de 28 de Fevereiro, garantirá o valor dos saldos existentes nessa conta, em relação à moeda estrangeira que, de entre as moedas cotadas pelo Banco de Portugal, for indicada pelo titular da mesma conta.
+Art. 3.º - 1. No caso de conta especial aberta em moeda nacional, e de harmonia com o previsto no n.º 2 do artigo 19.º do [Decreto-Lei n.º 348/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1977-659717), o Fundo de Garantia de Riscos Cambiais, criado pelo [Decreto-Lei n.º 75-D/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-d-1977-509014), de 28 de Fevereiro, garantirá o valor dos saldos existentes nessa conta, em relação à moeda estrangeira que, de entre as moedas cotadas pelo Banco de Portugal, for indicada pelo titular da mesma conta.
 
 2. Pelas garantias prestadas pelo Fundo de Garantia de Riscos Cambiais, nos termos do número precedente, não serão devidas quaisquer comissões pelos titulares das contas especiais em referência.
 
@@ -114,7 +142,7 @@ b) As operações cambiais que forem sendo efectuadas, em liquidação total ou 
 
 c) As operações que os titulares das contas especiais forem realizando, por utilização das disponibilidades existentes nas mesmas contas e ao abrigo da faculdade conferida no presente diploma, entendendo-se que tal utilização corresponde à dos créditos referidos na alínea a), líquidos das transferências a que alude a alínea b), segundo a ordem cronológica de constituição dos ditos créditos.
 
-###### Art. 4.º - 1. Os titulares das contas especiais abertas nos termos do artigo 1.º, em moeda nacional ou em moeda estrangeira, poderão utilizar as disponibilidades existentes nessas contas para realização das operações seguintes:
+Art. 4.º - 1. Os titulares das contas especiais abertas nos termos do artigo 1.º, em moeda nacional ou em moeda estrangeira, poderão utilizar as disponibilidades existentes nessas contas para realização das operações seguintes:
 
 a) Liquidação de débitos resultantes de transacções de mercadorias, ou de invisíveis correntes, que os ditos titulares hajam efectuado com residentes em território nacional, nos termos das disposições legais reguladoras dessas transacções;
 
@@ -126,20 +154,20 @@ d) Realização de quaisquer outras operações de capitais previstas na legisla
 
 2. Os empréstimos e outros créditos, referidos na alínea b) do número precedente, poderão beneficiar de garantias pelo Fundo de Garantia de Riscos Cambiais, nos termos previstos pelo estatuto deste Fundo.
 
-###### Art. 5.º - 1. Os titulares de contas especiais abertas em moeda nacional, nos termos do artigo 1.º, poderão ceder a totalidade ou parte das disponibilidades constituídas nessas contas a outras não residentes, desde que, para tanto, hajam obtido autorização especial e prévia do Banco de Portugal.
+Art. 5.º - 1. Os titulares de contas especiais abertas em moeda nacional, nos termos do artigo 1.º, poderão ceder a totalidade ou parte das disponibilidades constituídas nessas contas a outras não residentes, desde que, para tanto, hajam obtido autorização especial e prévia do Banco de Portugal.
 
 2. As disponibilidades em moeda nacional, cedidas em conformidade com o número precedente deste artigo, não poderão beneficiar das garantias previstas no n.º 1 do artigo 3.º e as correspondentes contas, abertas ou a abrir numa instituição de crédito, ficarão sujeitas ao regime geral indicado no § único do artigo 30.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), de 17 de Novembro de 1962.
 
-###### Art. 6.º Relativamente às contas especiais em moeda estrangeira abertas nos termos do artigo 1.º, as transferências da totalidade ou de parte dos respectivos saldos para outras contas expressas em moeda estrangeira, abertas ao abrigo do previsto no artigo 31.º do citado [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), somente poderão realizar-se por efeito das operações mencionadas na alínea b) do n.º 3 do artigo 3.º do presente diploma.
+Art. 6.º Relativamente às contas especiais em moeda estrangeira abertas nos termos do artigo 1.º, as transferências da totalidade ou de parte dos respectivos saldos para outras contas expressas em moeda estrangeira, abertas ao abrigo do previsto no artigo 31.º do citado [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), somente poderão realizar-se por efeito das operações mencionadas na alínea b) do n.º 3 do artigo 3.º do presente diploma.
 
-###### Art. 7.º Quaisquer dúvidas de interpretação ou dificuldades de execução dos princípios estabelecidos neste decreto serão resolvidas por despacho conjunto dos Ministros do Plano e Coordenação Económica e das Finanças, sob proposta do Banco de Portugal.
+Art. 7.º Quaisquer dúvidas de interpretação ou dificuldades de execução dos princípios estabelecidos neste decreto serão resolvidas por despacho conjunto dos Ministros do Plano e Coordenação Económica e das Finanças, sob proposta do Banco de Portugal.
 
-###### Art. 8.º O estabelecido no presente decreto entra em vigor no dia imediato ao da sua publicação.
+Art. 8.º O estabelecido no presente decreto entra em vigor no dia imediato ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.
 
-**Promulgado em 9 de Agosto de 1977.**
+Promulgado em 9 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

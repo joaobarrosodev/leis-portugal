@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/55/2005/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2005-589938
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08793401081ba8f3a57de11e8fc8cb9ade82f03a15783fa12ca71a8317115642
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b3e10f64abe3ed1c92d24504709597a799b10f4c1996828d821c771cb1b1ed3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Aditivo Alimentar
 - Aproximação das Legislações
 - Fabrico Industrial
-- Aditivo Alimentar
 - Indústria Alimentar
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:145180:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518465:por
+  label: "Alterados os critérios de pureza fixados na parte B do anexo VI do Dec lei 193/2000, de 18-Ago,na redacção do presente\
+    \ diploma, pelo DEC LEI.57/2007.13.03.2007.MADRP, DR.IS [51] de 13.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-2007-518465
+  date: '2007-03-13'
+- type: amended_by
+  target: pt:dre:145180:por
+  label: "Alterados os critérios de pureza fixados na parte B do anexo vi, do Dec Lei n193/2000, de 18-Ago, na redacção do\
+    \ presente diploma, republicado em anexo com a nova redacção, pelo DEC LEI.120/2011.28.12.2011.MAMAOT, DR.IS [248] de\
+    \ 28.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2011-145180
+  date: '2011-12-28'
 - type: cites
   target: celex:31994L0036
   label: null
@@ -101,13 +114,13 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:51Z'
   warnings: []
   errors: []
 ---
@@ -152,15 +165,15 @@ O presente diploma entra em vigor no dia 1 de Abril de 2005.
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - António Victor Martins Monteiro - Carlos Henrique da Costa Neves - Rui Manuel Lobo Gomes da Silva.
 
-**Promulgado em 9 de Fevereiro de 2005.**
+Promulgado em 9 de Fevereiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Fevereiro de 2005.**
+Referendado em 14 de Fevereiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO
 

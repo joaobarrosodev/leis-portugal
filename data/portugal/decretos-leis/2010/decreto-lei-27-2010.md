@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/03/06300/0105501069.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/27/2010/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2010-612663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1be9fe528808e892126ebd7088d30746d3f94b2a6481cee7edc1a1911b764906
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bfc6703bad45bb6beb8d2bcb3bb8fc16a0820c3517f5466acf3104caf118ac6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Academia da Força Aérea
+- Academia Militar
+- Conselho do Ensino Superior Militar
 - Definição de Competências
 - Ensino Oficial
-- Conselho do Ensino Superior Militar
+- Ensino Superior
 - Ensino Superior Politécnico
 - Escola do Serviço de Saúde Militar
 - Escola Naval
 - Escola Superior de Tecnologias Militares e Aeronáuticas
-- Estatuto
-- Academia Militar
-- Instituto de Estudos Superiores Militares
 - Estabelecimento de Ensino
-- Ensino Superior
+- Estatuto
+- Instituto de Estudos Superiores Militares
 relationships:
 - type: amended_by
   target: pt:dre:70832992:por
@@ -124,16 +124,85 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: pt:dre:145800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:56384929:por
+  label: Revogados, com efeitos a partir do início do ano letivo de 2014-2105, a al. e) do n.º 1 e o n.º 5 do art. 4.º e o
+    nº 4 do art. 13.º do Dec Lei 37/2008 de 05-mar, alterado e republicado pelo presente diploma, pelo(a) Lei Orgânica n.º
+    6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01, nos termos do disposto no n.º 2 do art. 4º e do art.
+    5º da referida lei.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/6-2014-56384929
+  date: '2014-09-01'
+- type: repealed_by
+  target: pt:dre:70832992:por
+  label: Revogado o presente diploma, pelo(a) Decreto-Lei n.º 249/2015 - Diário da República n.º 211/2015, Série I de 2015-10-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-2015-70832992
+  date: '2015-10-28'
 article_structure:
-  article_count: 101
+  article_count: 89
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:43Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +261,9 @@ b) No ensino politécnico, um conselho técnico-científico, um conselho pedagó
 
 4 - ...
 
-###### Artigo 13.º — Graus académicos
+Artigo 13.º
+
+Graus académicos
 
 1 - ...
 
@@ -202,25 +273,33 @@ b) No ensino politécnico, um conselho técnico-científico, um conselho pedagó
 
 4 - A Escola de Serviço de Saúde Militar confere, por si ou em associação, o grau de licenciado e de mestre.
 
-###### Artigo 14.º — Atribuição do grau de licenciado
+Artigo 14.º
+
+Atribuição do grau de licenciado
 
 1 - As áreas de formação em que cada estabelecimento de ensino superior público militar confere o grau de licenciado são aprovadas pelo membro do Governo responsável pela área da defesa nacional, sob proposta do Chefe do Estado-Maior do ramo em que se integra o estabelecimento, precedida de pareceres do conselho científico ou técnico-científico e do conselho pedagógico.
 
 2 - ...
 
-###### Artigo 15.º — Normas regulamentares da licenciatura
+Artigo 15.º
+
+Normas regulamentares da licenciatura
 
 1 - O Chefe do Estado-Maior do ramo em que se integra o estabelecimento de ensino superior público militar, sob proposta do respectivo comandante ou director, precedida de pareceres do conselho científico ou técnico-científico e do conselho pedagógico, aprova as normas relativas às matérias constantes do artigo 14.º do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de Março.
 
 2 - ...
 
-###### Artigo 16.º — Atribuição do grau de mestre
+Artigo 16.º
+
+Atribuição do grau de mestre
 
 1 - As especialidades em que cada estabelecimento de ensino superior público militar confere o grau de mestre são aprovadas pelo membro do Governo responsável pela área da defesa nacional, sob proposta do Chefe do Estado-Maior do ramo em que se integra o estabelecimento, precedida de pareceres do conselho científico ou técnico-científico e do conselho pedagógico.
 
 2 - ...
 
-###### Artigo 17.º — Ciclos de estudos integrados conducentes ao grau de mestre
+Artigo 17.º
+
+Ciclos de estudos integrados conducentes ao grau de mestre
 
 1 - ...
 
@@ -230,23 +309,31 @@ b) No ensino politécnico, um conselho técnico-científico, um conselho pedagó
 
 4 - As especialidades em que cada estabelecimento de ensino superior público militar confere o grau de mestre após um ciclo de estudos integrado são aprovadas pelo membro do Governo responsável pela área da defesa nacional, sob proposta do Chefe do Estado-Maior do ramo em que se integra o estabelecimento, precedida de pareceres do conselho científico ou técnico-científico e do conselho pedagógico.
 
-###### Artigo 18.º — Júri do mestrado
+Artigo 18.º
+
+Júri do mestrado
 
 O júri a que se refere o artigo 22.º do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de Março, é nomeado pelo comandante ou director do estabelecimento de ensino superior público militar, sob proposta do conselho científico ou técnico-científico e do conselho pedagógico.
 
-###### Artigo 19.º — Normas regulamentares do mestrado
+Artigo 19.º
+
+Normas regulamentares do mestrado
 
 1 - O Chefe do Estado-Maior do ramo em que se integra o estabelecimento de ensino superior público militar, sob proposta do respectivo comandante ou director, precedida de pareceres do conselho científico ou técnico-científico e do conselho pedagógico, aprova as normas relativas às matérias constantes do artigo 26.º do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de Março.
 
 2 - ...
 
-###### Artigo 20.º — Grau de doutor
+Artigo 20.º
+
+Grau de doutor
 
 1 - Os ramos do conhecimento e especialidades em que os estabelecimentos de ensino superior público universitário militar podem associar-se com universidades para a realização de ciclos de estudos conducentes ao grau de doutor nos termos dos n.os 2 e 3 do artigo 13.º são fixados por despacho do membro do Governo responsável pela área da defesa nacional, sob proposta do Chefe do Estado-Maior em que se integra o estabelecimento, precedida de pareceres do conselho científico e do conselho pedagógico.
 
 2 - Nos casos em que o IESM se associe com universidades para a realização de ciclos de estudos conducentes ao grau de doutor, é ainda exigido parecer do Conselho de Chefes de Estado-Maior.
 
-###### Artigo 23.º — Adequação dos ciclos de estudos
+Artigo 23.º
+
+Adequação dos ciclos de estudos
 
 1 - ...
 
@@ -256,17 +343,23 @@ O júri a que se refere o artigo 22.º do [Decreto-Lei n.º 74/2006](https://dia
 
 4 - ...
 
-###### Artigo 25.º — Alterações
+Artigo 25.º
+
+Alterações
 
 1 - ...
 
 2 - O membro do Governo responsável pela área da defesa nacional aprova as alterações a que se refere o número anterior, sob proposta do respectivo Chefe de Estado-Maior, precedida de pareceres do conselho científico ou técnico-científico e do conselho pedagógico.
 
-###### Artigo 26.º — Formação de oficiais da Guarda Nacional Republicana
+Artigo 26.º
+
+Formação de oficiais da Guarda Nacional Republicana
 
 As matérias referentes à formação de oficiais dos quadros permanentes da GNR estão sujeitas a aprovação conjunta dos membros do Governo responsáveis pelas áreas da defesa nacional e da administração interna, sob proposta do respectivo comandante-geral, precedida de pareceres do conselho científico ou técnico-científico e do conselho pedagógico.
 
-###### Artigo 29.º — Atribuições
+Artigo 29.º
+
+Atribuições
 
 1 - ...
 
@@ -376,15 +469,15 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Augusto Ernesto Santos Silva - Rui Carlos Pereira - Manuel Frederico Tojal de Valsassina Heitor.
 
-**Promulgado em 16 de Março de 2010.**
+Promulgado em 16 de Março de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de Março de 2010.**
+Referendado em 17 de Março de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Estatuto dos Estabelecimentos de Ensino Superior Público Militar
 

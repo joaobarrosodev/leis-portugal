@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/55/2011/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2011-276798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31a13d956f2803242720fcc123cae223131e10c628e544fbfb5afa2e604ebdbf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b07b12d4bbed3c1e9a1798fe091892259e09717f2745cadeefdae2ef9c457171
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,20 @@ reuse:
 subjects:
 - Alimento para Crianças
 - Aproximação das Legislações
-- Multa
-- Criança
+- Comércio
 - Contra-ordenação
-- Definição de Competências
 - Controlo Sanitário
-- Saúde Pública
+- Criança
+- Definição de Competências
+- Embalagem
 - Fabrico Industrial
 - Gabinete de Planeamento e Políticas
 - Higiene Alimentar
-- Embalagem
+- Multa
 - Proteção do Consumidor
 - Puericultura
 - Saúde Infantil e Juvenil
-- Comércio
+- Saúde Pública
 relationships:
 - type: cites
   target: celex:32002L0072
@@ -102,14 +102,14 @@ relationships:
   source: http://data.dre.pt/eli/dec-lei/62/2008/03/31/p/dre
 article_structure:
   article_count: 5
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:30Z'
   warnings: []
   errors: []
 ---
@@ -180,15 +180,15 @@ b) De (euro) 250 a (euro) 44 890, quando cometidas por pessoas colectivas.
 
 Visto e aprovado em Conselho de Ministros de 24 de Fevereiro de 2011. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - José António Fonseca Vieira da Silva - Luís Medeiros Vieira - Ana Maria Teodoro Jorge.
 
-**Promulgado em 30 de Março de 2011.**
+Promulgado em 30 de Março de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de Março de 2011.**
+Referendado em 31 de Março de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -196,6 +196,8 @@ Visto e aprovado em Conselho de Ministros de 24 de Fevereiro de 2011. - José S�
 
 [...]
 
-#### Secção A — [...]
+Secção A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07400/0230702310.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07400/0230702310.pdf)
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07400/0230702310.pdf)

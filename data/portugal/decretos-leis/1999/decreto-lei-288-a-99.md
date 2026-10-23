@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 174/1999, 1º Suplemento, Série I-A de 1999-07-28
   number: '174'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4792-(2) a 4792-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/174a01/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/288-a/1999/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-a-1999-152709
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86617b0ad09bdc1738cc1997d99ac80770ecd0622b562e15d1efe651d7f285a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1c23ad3631952e1c83cca9657c6ad2ff438ed0220dfef1da55fcec486a42608
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código da Estrada
+- Contra-ordenação
 - Multa
 - Ponte 25 de Abril
-- Contra-ordenação
-- Veículo
 - Segurança Rodoviária
 - Trânsito
 - Transporte de Mercadorias Perigosas
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/2/1998/01/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/2/1998/01/03/p/dre
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474114:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:31Z'
   warnings: []
   errors: []
 ---
@@ -155,12 +167,12 @@ O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 15 de Julho de 1999. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho.
 
-**Promulgado em 28 de Julho de 1999.**
+Promulgado em 28 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Julho de 1999.**
+Referendado em 28 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

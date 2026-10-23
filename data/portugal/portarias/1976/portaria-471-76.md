@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/471-1976-430838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T05:05:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 974116956b0b57480ca9f80fb57b5f910f2ce34f5b1ac11c4ef936c251107bfa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 615ebe43ca6ff6ce1ce49d4d67552a70b690e601931ce0420812074e4e8ae4f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:05:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:1575343:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:253211:por
+  label: Derrogada no concernente ao prédio rústico denominado «Herdade da Areia» pelo(a) Portaria n.º 345/77 - Diário da
+    República n.º 132/1977, Série I de 1977-06-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/345-1977-253211
+  date: '1977-06-07'
+- type: amended_by
+  target: pt:dre:393244:por
+  label: "Derrogada em parte a pela PORT.82/79.15.02.1979.MAP, DR.IS [39] de 15.02.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/82-1979-393244
+  date: '1979-02-15'
+- type: amended_by
+  target: pt:dre:473967:por
+  label: "Derrogado em parte o disposto no presente diploma pela PORT.263/80.19.05.1980.MAP, DR.IS [115] de 19.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/263-1980-473967
+  date: '1980-05-19'
+- type: amended_by
+  target: pt:dre:540656:por
+  label: "Derrogada no concernente ao prédio rústico \"Paços Negros\" pela PORT.13/83.1983.01.05.MACP DR.IS [3]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/13-1983-540656
+  date: '1983-01-05'
+- type: amended_by
+  target: pt:dre:1575343:por
+  label: "Derrogada no concernente ao prédio rústico \"Carregouceirinha\" pela PORT.865/2000(2ªSÉRIE).2000.05.25.PCM DR.IIS\
+    \ [134] de 09/Jun/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/865-2000-1575343
+  date: '2000-05-25'
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:392658:por
+  label: "Rectificada pela PORT.56/79.31.01.1979.MAP, DR.IS [26] de 31.01.1979\09"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/56-1979-392658
+  date: '1979-01-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:05:19Z'
   warnings: []
   errors: []
 ---

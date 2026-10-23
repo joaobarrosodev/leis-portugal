@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/26572660.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/54/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/54-2007-520975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:30:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1647dbdad710f4d1c699669d2351453344a4fdfe7231482f80f0fe3f1ab8815e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3db32682e10c9f2a55495842d8d0ca33a135360b43252b47af4564ecb83ec1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:30:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Observatório do Ordenamento do Território e do Urbanismo
 - Definição de Competências
 - Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
+- Observatório do Ordenamento do Território e do Urbanismo
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:553446:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extinta, sendo objecto de fusão, a Direção-Geral do Ordenamento do Território e Desenvolvimento Urbano (criada pelo\
+    \ Dec Lei 271/94 de 28-Out, já revogado), cujas atribuições e competências constam do presente diploma, pelo DEC LEI.7/2012.17.01.2012.MAMAOT,\
+    \ DR.IS [12] de 17.01.2012; sendo as suas atribuições integradas na Direção-Geral do Território, criada naquele diploma.\
+    \ \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2006/10/27/p/dre
   label: null
@@ -96,16 +104,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/48/1998/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/48/1998/08/11/p/dre
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621544:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553446:por
+  label: "Revogado, a partir de 01.04.2012, pelo DR.30/2012.13.03.2012.MAMAOT, DR.IS [52] de 13.03.2012, nos termos do art.\
+    \ 14º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/30-2012-553446
+  date: '2012-03-13'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:30:55Z'
   warnings: []
   errors: []
 ---
@@ -272,16 +306,16 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Francisco Carlos da Graça Nunes Correia.
 
-**Promulgado em 13 de Abril de 2007.**
+Promulgado em 13 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Abril de 2007.**
+Referendado em 16 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 9.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/08200/26572660.pdf))](https://files.diariodarepublica.pt/1s/2007/04/08200/26572660.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/08200/26572660.pdf)

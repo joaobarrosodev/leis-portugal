@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/310/2003/12/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2003-429407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62c12e8c8c214cc29726935ee507aa948651a127758170ed1fda07286096c80b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ada08f3bc12a69cbad84b596ce7886f970bc20493d42cf7b3e0a8967b80a4ace
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Construção Clandestina
-- Ordenamento do Território
-- Plano Director Municipal
-- Definição de Competências
-- Planeamento Urbano
 - Comissão de Coordenação e Desenvolvimento Regional
+- Construção Clandestina
+- Definição de Competências
 - Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
+- Ordenamento do Território
 - Planeamento Regional
-- Política de Solos
+- Planeamento Urbano
+- Plano Director Municipal
 - Plano Regional de Ordenamento do Território
+- Política de Solos
 - Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:191996:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469068:por
+  label: "Alterado o art. 42º do Dec Lei 380/99 de 22-Set, republicado pelo presente diploma, pela LEI.58/2005.29.12.2005.AR,\
+    \ DR.IS-A [249] de 29.12.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/58-2005-469068
+  date: '2005-12-29'
+- type: amended_by
+  target: pt:dre:642219:por
+  label: "Alterados os art.s 30º, 45º, 47º, 56º, 57º, 64º, 65º, 66º, 75º, 76º, 77º, 78º, 80º, 81º, 85º, 86º, 87º, 88º, 89º,\
+    \ 91º, 92º, 93º, 95º, 96º, 97º, 99º, 100º, 104º, 105º, 107º, 113º, 114º, 144º, 148º, 151º e revogados os nºs 3 e 4 do\
+    \ art. 57º, nºs 2 a 10 do art. 75º, nºs 4 a 6 do art. 76º, nºs 10 e 11 do art. 77º, nº 2 do art. 91º - este mantido em\
+    \ vigor quanto às modalidades simplificadas de plano de pormenor previstas no seu n.º 2 , relativamente aos planos cuja\
+    \ elaboração haja sido deliberada pela câmara municipal até à data da entrada em vigor do decreto-lei 316/2007, de 19-Set\
+    \ - , als b) e e) do nº 1 e nº 4 do art. 97º, al. c) do nº 1 do art. 105º, al. d) do nº 2 do art. 148º, nºs 3 a 5 do art.\
+    \ 151º do Dec Lei 380/99, de 22-Set, na redacção do presente diploma, pelo DEC LEI.316/2007.19.09.2007.MAOTDR, DR.IS [181]\
+    \ de 19.09.2007, com republicação.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/316-2007-642219
+  date: '2007-09-19'
+- type: amended_by
+  target: pt:dre:602059:por
+  label: "Alterados os art.s 77º, 93º, 95º, 100.º, 104º, 107º e 148º do Dec Lei 380/99, de 22-Set, na redacção do presente\
+    \ diploma, pelo DEC LEI.46/2009.20.02.2009.MAOTDR, DR.IS [36] de 20.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-2009-602059
+  date: '2009-02-20'
+- type: amended_by
+  target: pt:dre:494006:por
+  label: "Alterados o nº 3 do art. 77º, o nº 2 do art. 85º, a al. b) do nº 4 do art. 107º ( com efeitos desde 24.09.2007 a\
+    \ 25.02.2009 ) e as als. j) do nº 2 ( com efeitos desde 24.09.2007 a 25.02.2009 ) e d) do nº 4 do art. 148º, todos do\
+    \ Dec Lei 380/99, de 22-Set, na redacção do presente diploma e dos arts. 2º e 3º do Dec Lei 316/2007, de 19-Set, pelo\
+    \ DEC LEI.181/2009.07.08.2009.MAOTDR, DR.IS [152] de 07.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-2009-494006
+  date: '2009-08-07'
+- type: amended_by
+  target: pt:dre:485605:por
+  label: "Alterados os art.s 148º e 151º do Dec Lei 380/99, de 22-Set, na redacção do presente diploma, pelo DEC LEI.2/2011.06.01.2011.PCM,\
+    \ DR.IS [4] de 06.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2011-485605
+  date: '2011-01-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/151/1995/06/24/p/dre
   label: null
@@ -106,16 +144,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83/1995/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83/1995/08/31/p/dre
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580669:por
+  label: null
+  source: null
 article_structure:
-  article_count: 208
+  article_count: 165
   section_count: 35
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:06Z'
   warnings: []
   errors: []
 ---
@@ -158,13 +232,17 @@ Os artigos 21.º, 30.º, 45.º, 47.º, 51.º, 55.º, 56.º, 57.º, 64.º, 65.º,
 
 4 - ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - A elaboração do programa nacional da política de ordenamento do território compete ao Governo, sob coordenação do Ministro das Cidades, Ordenamento do Território e Ambiente.
 
 2 - ...
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - ...
 
@@ -172,7 +250,9 @@ Os artigos 21.º, 30.º, 45.º, 47.º, 51.º, 55.º, 56.º, 57.º, 64.º, 65.º,
 
 3 - Os demais elementos que podem acompanhar os planos especiais de ordenamento do território são fixados por portaria do Ministro das Cidades, Ordenamento do Território e Ambiente.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -182,7 +262,9 @@ Os artigos 21.º, 30.º, 45.º, 47.º, 51.º, 55.º, 56.º, 57.º, 64.º, 65.º,
 
 4 - ...
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - ...
 
@@ -190,11 +272,15 @@ Os artigos 21.º, 30.º, 45.º, 47.º, 51.º, 55.º, 56.º, 57.º, 64.º, 65.º,
 
 3 - As comissões de coordenação e desenvolvimento regional podem propor ao Governo que o plano regional de ordenamento do território seja estruturado em unidades de planeamento correspondentes a espaços sub-regionais integrados na respectiva área de actuação susceptíveis de elaboração e aprovação faseadas.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 A elaboração dos planos regionais de ordenamento do território compete à comissão de coordenação e desenvolvimento regional, sendo determinada por resolução do Conselho de Ministros.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - A elaboração dos planos regionais de ordenamento do território é acompanhada por uma comissão mista de coordenação, integrada por representantes dos Ministérios das Cidades, Ordenamento do Território e Ambiente, da Economia, da Agricultura, Desenvolvimento Rural e Pescas, da Cultura e das Obras Públicas, Transportes e Habitação, dos municípios abrangidos, e de outras entidades públicas cuja participação seja aconselhada no âmbito do plano, bem como de representantes dos interesses económicos, sociais, culturais e ambientais.
 
@@ -206,7 +292,9 @@ A elaboração dos planos regionais de ordenamento do território compete à com
 
 5 - ...
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - Concluída a elaboração, a comissão de coordenação e desenvolvimento regional remete, para parecer, a proposta de plano regional de ordenamento do território, acompanhada do parecer da comissão mista de coordenação, às entidades que, no âmbito da mesma, hajam formalmente discordado das soluções definidas no futuro plano.
 
@@ -216,23 +304,31 @@ A elaboração dos planos regionais de ordenamento do território compete à com
 
 4 - Recebidos os pareceres, a comissão de coordenação e desenvolvimento regional promoverá a realização de reuniões com as entidades que os tenham emitido, tendo em vista obter uma solução concertada que permita ultrapassar as objecções formuladas, nos 30 dias subsequentes.
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - ...
 
 2 - A deliberação de elaboração do plano intermunicipal deve ser comunicada ao Governo e à comissão de coordenação e desenvolvimento regional.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 O acompanhamento, a concertação e a discussão pública dos planos intermunicipais de ordenamento do território regem-se, com as necessárias adaptações, pelas disposições relativas ao plano director municipal.
 
-###### Artigo 66.º — Parecer da comissão de coordenação e desenvolvimento regional
+Artigo 66.º
+
+Parecer da comissão de coordenação e desenvolvimento regional
 
 1 - Concluída a versão final, a proposta de plano intermunicipal de ordenamento do território é objecto de parecer da comissão de coordenação e desenvolvimento regional.
 
 2 - O parecer da comissão de coordenação e desenvolvimento regional incide sobre a conformidade com as disposições legais e regulamentares vigentes e a articulação e coerência da proposta com os objectivos, princípios e regras aplicáveis no território em causa, definidos por quaisquer outros instrumentos de gestão territorial eficazes.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - ...
 
@@ -254,7 +350,9 @@ O acompanhamento, a concertação e a discussão pública dos planos intermunici
 
 10 - A comissão de coordenação e desenvolvimento regional elaborará um parecer escrito nos termos do n.º 3, no prazo de 10 dias a contar da recepção dos pareceres das entidades representativas dos interesses a ponderar ou do termo dos prazos previstos nos números anteriores.
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - ...
 
@@ -268,7 +366,9 @@ O acompanhamento, a concertação e a discussão pública dos planos intermunici
 
 6 - Não observam o disposto no número anterior os procedimentos de elaboração dos planos de pormenor previstos no n.º 2 do artigo 91.º, sem prejuízo de, por decisão da câmara municipal e nos termos por esta definidos, com base no parecer referido no n.º 10 do artigo anterior, poderem ser promovidas reuniões de concertação.
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - ...
 
@@ -292,13 +392,17 @@ O acompanhamento, a concertação e a discussão pública dos planos intermunici
 
 11 - (Anterior n.º 9.)
 
-###### Artigo 78.º — Parecer final da comissão de coordenação e desenvolvimento regional
+Artigo 78.º
+
+Parecer final da comissão de coordenação e desenvolvimento regional
 
 1 - Concluída a versão final, a proposta dos planos municipais de ordenamento do território é objecto de parecer da comissão de coordenação e desenvolvimento regional.
 
 2 - O parecer da comissão de coordenação e desenvolvimento regional incide sobre a conformidade com as disposições legais e regulamentares vigentes, bem como sobre a articulação e coerência da proposta com os objectivos, princípios e regras aplicáveis no município, definidos por quaisquer outros instrumentos de gestão territorial eficazes.
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - ...
 
@@ -326,7 +430,9 @@ e) O plano de pormenor, não obstante a incompatibilidade com o plano director m
 
 8 - ...
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - ...
 
@@ -334,7 +440,9 @@ e) O plano de pormenor, não obstante a incompatibilidade com o plano director m
 
 3 - Os prazos fixados no número anterior suspendem-se no caso de devolução do plano ao município para reapreciação.
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 ...
 
@@ -378,7 +486,9 @@ t) ...
 
 u) ...
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1 - ...
 
@@ -386,11 +496,15 @@ u) ...
 
 3 - Os demais elementos que acompanham o plano director municipal são fixados por portaria do Ministro das Cidades, Ordenamento do Território e Ambiente.
 
-###### Artigo 87.º — [...]
+Artigo 87.º
+
+[...]
 
 O plano de urbanização define a organização espacial de parte determinada do território municipal, incluída em perímetros urbanos, podendo englobar solo rural complementar que exija uma intervenção integrada de planeamento.
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 ...
 
@@ -408,7 +522,9 @@ f) A estruturação das acções de perequação compensatória a desenvolver na
 
 g) [Anterior alínea f).]
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - ...
 
@@ -416,7 +532,9 @@ g) [Anterior alínea f).]
 
 3 - Os demais elementos que acompanham o plano de urbanização são fixados por portaria do Ministro das Cidades, Ordenamento do Território e Ambiente.
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - ...
 
@@ -434,7 +552,9 @@ e) ...
 
 3 - ...
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - ...
 
@@ -444,7 +564,9 @@ e) ...
 
 4 - Os elementos que acompanham a modalidade de projecto de intervenção em espaço rural são fixados por portaria conjunta dos Ministros das Cidades, Ordenamento do Território e Ambiente e da Agricultura, Desenvolvimento Rural e Pescas.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - ...
 
@@ -460,11 +582,15 @@ c) ...
 
 4 - ...
 
-###### Artigo 94.º — [...]
+Artigo 94.º
+
+[...]
 
 (Anterior artigo 95.º)
 
-###### Artigo 95.º — Alteração dos instrumentos de planeamento territorial e dos instrumentos de natureza especial
+Artigo 95.º
+
+Alteração dos instrumentos de planeamento territorial e dos instrumentos de natureza especial
 
 1 - Os planos municipais e os planos especiais de ordenamento do território só podem ser objecto de alteração decorridos três anos sobre a respectiva entrada em vigor.
 
@@ -476,7 +602,9 @@ b) A possibilidade de alteração resultante de circunstâncias excepcionais, de
 
 c) As alterações resultantes de situações de interesse público não previstas nas opções do plano, reconhecidas por despacho do Ministro das Cidades, Ordenamento do Território e Ambiente e do ministro competente em razão da matéria, designadamente decorrentes da necessidade de instalação de infra-estruturas de produção e transporte de energias renováveis, de infra-estruturas rodoviárias, de redes de saneamento básico e de abastecimento de água, do Programa Especial de Realojamento, da reconversão das áreas urbanas de génese ilegal e em matéria de Reserva Ecológica Nacional e de Reserva Agrícola Nacional.
 
-###### Artigo 96.º — Procedimento
+Artigo 96.º
+
+Procedimento
 
 1 - As alterações aos instrumentos de gestão territorial seguem, com as devidas adaptações, os procedimentos previstos no presente diploma para a sua elaboração, aprovação, ratificação e publicação, com excepção das alterações previstas nas alíneas b) e c) do n.º 2 do artigo anterior, cujo acompanhamento é sempre assegurado nos termos do disposto nos n.os 7 a 10 do artigo 75.º do presente diploma.
 
@@ -484,7 +612,9 @@ c) As alterações resultantes de situações de interesse público não previst
 
 3 - A suspensão dos instrumentos de gestão territorial é sempre instruída com a colaboração da comissão de coordenação e desenvolvimento regional.
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - ...
 
@@ -512,13 +642,17 @@ d) ...
 
 4 - Às alterações aos planos municipais de ordenamento do território referidas no n.º 1 aplica-se o disposto no n.º 1 do artigo 79.º, após o que são comunicadas à comissão de coordenação e desenvolvimento regional, encontrando-se ainda sujeitas ao previsto nos artigos 148.º a 151.º do presente diploma.
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - A suspensão, total e parcial, de instrumentos de desenvolvimento territorial e de instrumentos de política sectorial é determinada por resolução do Conselho de Ministros quando se verifiquem circunstâncias excepcionais resultantes de alteração significativa das perspectivas de desenvolvimento económico-social incompatíveis com a concretização das opções estabelecidas no plano, ouvidas as câmaras municipais das autarquias abrangidas e a comissão de coordenação e desenvolvimento regional.
 
 2 - ...
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - ...
 
@@ -532,7 +666,9 @@ b) Por deliberação da assembleia municipal, sob proposta da câmara municipal,
 
 4 - A suspensão prevista na alínea b) do n.º 2 do presente artigo implica obrigatoriamente o estabelecimento de medidas preventivas e a abertura de procedimento de revisão ou alteração do plano municipal de ordenamento do território suspenso.
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 1 - ...
 
@@ -558,7 +694,9 @@ a) O presidente da câmara municipal ou o presidente da comissão de coordenaç�
 
 b) ...
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - ...
 
@@ -574,7 +712,9 @@ c) Pelo Ministro das Cidades, Ordenamento do Território e Ambiente, quando este
 
 4 - As ordens de embargo e de demolição são objecto de registo na conservatória de registo predial competente mediante comunicação do presidente da câmara municipal, da comissão de coordenação e desenvolvimento regional ou do órgão competente do Ministério das Cidades, Ordenamento do Território e Ambiente, procedendo-se oficiosamente aos necessários averbamentos.
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - Em área para a qual tenha sido decidida a elaboração, alteração ou revisão de um plano municipal de ordenamento do território, podem ser estabelecidas medidas preventivas destinadas a evitar a alteração das circunstâncias e das condições de facto existentes que possa limitar a liberdade de planeamento ou comprometer ou tornar mais onerosa a execução do plano.
 
@@ -594,7 +734,9 @@ c) Pelo Ministro das Cidades, Ordenamento do Território e Ambiente, quando este
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 113.º — Contra-ordenações por violação de medidas preventivas
+Artigo 113.º
+
+Contra-ordenações por violação de medidas preventivas
 
 1 - Constitui contra-ordenação punível com coima a violação das limitações decorrentes das medidas preventivas.
 
@@ -620,13 +762,17 @@ a) O presidente da câmara municipal ou o presidente da comissão de coordenaç�
 
 b) As entidades competentes em razão da matéria, no caso de violação de medidas preventivas estabelecidas para salvaguarda de plano especial de ordenamento do território.
 
-###### Artigo 114.º — [...]
+Artigo 114.º
+
+[...]
 
 1 - ...
 
 2 - A competência para ordenar o embargo, a demolição, a reposição da configuração do terreno ou a recuperação do coberto vegetal referidos no número anterior pertence ao presidente da câmara municipal ou, quando se trate de medidas preventivas estabelecidas pelo Governo, ao presidente da comissão de coordenação e desenvolvimento regional ou ao orgão competente do Ministério das Cidades, Ordenamento do Território e Ambiente.
 
-###### Artigo 125.º — [...]
+Artigo 125.º
+
+[...]
 
 1 - Cada unidade de execução pode estar associada a um fundo de compensação com os seguintes objectivos:
 
@@ -638,7 +784,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 139.º — [...]
+Artigo 139.º
+
+[...]
 
 1 - ...
 
@@ -656,7 +804,9 @@ c) ...
 
 8 - ...
 
-###### Artigo 144.º — [...]
+Artigo 144.º
+
+[...]
 
 1 - ...
 
@@ -668,7 +818,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 146.º — [...]
+Artigo 146.º
+
+[...]
 
 1 - ...
 
@@ -680,7 +832,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 148.º — [...]
+Artigo 148.º
+
+[...]
 
 1 - ...
 
@@ -718,7 +872,9 @@ d) A deliberação municipal que aprova as medidas preventivas não sujeitas a r
 
 e) ...
 
-###### Artigo 151.º — [...]
+Artigo 151.º
+
+[...]
 
 1 - Para efeitos do registo a que se refere o artigo anterior, e sem prejuízo do disposto nos números seguintes para os planos municipais de ordenamento do território não sujeitos a ratificação, as entidades responsáveis pela elaboração dos instrumentos de gestão territorial devem remeter à Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano, no prazo de 15 dias após a publicação no Diário da República, uma colecção completa das peças escritas e gráficas que, nos termos do presente diploma, constituem o conteúdo documental do instrumento de gestão territorial.
 
@@ -730,7 +886,9 @@ e) ...
 
 5 - A Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano só pode recusar o registo com fundamento na violação de qualquer instrumento de gestão territorial com o qual o plano devesse ser compatível ou no não cumprimento de disposições legais e regulamentares vigentes, cabendo recurso para o Ministro das Cidades, Ordenamento do Território e Ambiente do acto de recusa do registo.
 
-###### Artigo 154.º — [...]
+Artigo 154.º
+
+[...]
 
 1 - ...
 
@@ -740,7 +898,9 @@ e) ...
 
 4 - ...
 
-###### Artigo 155.º — [...]
+Artigo 155.º
+
+[...]
 
 1 - ...
 
@@ -774,15 +934,15 @@ O [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 Visto e aprovado em Conselho de Ministros de 21 de Agosto de 2003. - José Manuel Durão Barroso - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Pedro Manuel da Cruz Roseta - António Pedro de Nobre Carmona Rodrigues - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 20 de Novembro de 2003.**
+Promulgado em 20 de Novembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Novembro de 2003.**
+Referendado em 24 de Novembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ### CAPÍTULO I — Disposições gerais
 

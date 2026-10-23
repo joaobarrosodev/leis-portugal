@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/02/04100/01690170.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/44-1980-679458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89e84205ad5091c56b55914c5dc18e71711fd3174157502c16602a725b3e4691
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc1523c6d083e22253f0d59a9a0718135a427f3e2761068aa04d5126a0d05b0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção do Serviço do Pessoal da Armada
+- Forças Armadas
+- Marinha
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:654537:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:399621:por
+  label: "Alterados os n.ºs 3.º, 9.º, 17.º, 18.º, 19.º e aditado o n.º 10.º-A, pela PORT.743/84.22.09.1984.MDN, DR.IS [221]\
+    \ de 22.09.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/743-1984-399621
+  date: '1984-09-22'
+- type: amended_by
+  target: pt:dre:663151:por
+  label: "Alterado o n.º 3.º, na redacção da Portaria n.º 743/84, de 22 de Setembro, o artigo 7.º e aditado o n.º 11.º-A,\
+    \ pela PORT.72/87.03.02.1987.MDN, DR.IS [28] de 03.02.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/72-1987-663151
+  date: '1987-02-03'
+- type: cites
+  target: pt:dre:263031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685040:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:654537:por
+  label: "Revogada pelo DR.22/94.1994.09.01.MDN, DR.IS-B [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/22-1994-654537
+  date: '1994-09-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:40Z'
   warnings: []
   errors: []
 ---

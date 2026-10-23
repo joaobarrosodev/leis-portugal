@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/240/2012/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff271cb4125681a35431d842b0a09a189b6481e6446a45f5a18e00d9a147d9b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3546195bda2e6534cd8257482b11831f7a137ef03b38874aa523b65603142ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Regional do Algarve
-- Direcção Regional do Centro
+- Açores
 - Conselho Administrativo
 - Definição de Competências
 - Direcção Regional da Madeira
 - Direcção Regional de Lisboa VALE do TEJO e Alentejo
+- Direcção Regional do Algarve
+- Direcção Regional do Centro
 - Direcção Regional dos Açores
 - Diretor Geral
+- Fardamento
 - Fronteiras
 - Integração de Trabalhadores
-- Serviço de Estrangeiros e Fronteiras
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Polícia Criminal
 - Quadro de Pessoal
 - Segredo Profissional
+- Serviço de Estrangeiros e Fronteiras
 - Serviço Regional
-- Polícia Criminal
-- Açores
 - Subdirector Geral
-- Fardamento
 - Uso e porte de arma
 relationships:
 - type: amended_by
@@ -132,16 +132,95 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/787/1998/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/787/1998/09/21/p/dre
+- type: cites
+  target: pt:dre:201230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693806:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:174244808:por
+  label: Revogado, a partir de 11.01.2022, o Dec Lei 252/2000 de 16-out, na versão republicada pelo presente diploma, pelo(a)
+    Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12 nos termos do seu art. 14.º (Ver Nota 1); (Ver
+    Nota 2)
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/73-2021-174244808
+  date: '2021-11-12'
 article_structure:
-  article_count: 126
+  article_count: 95
   section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:29Z'
   warnings: []
   errors: []
 ---
@@ -236,7 +315,9 @@ c) [Alínea c) do anterior ponto 2).]
 
 d) [Alínea d) do anterior ponto 2).]
 
-###### Artigo 11.º — Tipo de organização interna
+Artigo 11.º
+
+Tipo de organização interna
 
 1 - ...
 
@@ -258,7 +339,9 @@ d) ...
 
 6 - O número de núcleos não pode exceder, em cada momento, o máximo de 21.
 
-###### Artigo 12.º — Órgãos e serviços
+Artigo 12.º
+
+Órgãos e serviços
 
 A Diretoria Nacional compreende:
 
@@ -282,7 +365,9 @@ i) Gabinete de Recursos Humanos (GRH);
 
 j) Gabinete de Sistemas de Informação (GSI).
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -304,7 +389,9 @@ h) Proceder à elaboração do planeamento estratégico no que respeita às aç�
 
 2 - (Revogado.)
 
-###### Artigo 18.º — Gabinete de Relações Internacionais, Cooperação e Relações Públicas
+Artigo 18.º
+
+Gabinete de Relações Internacionais, Cooperação e Relações Públicas
 
 1 - Ao Gabinete de Relações Internacionais, Cooperação e Relações Públicas compete:
 
@@ -326,7 +413,9 @@ h) Enquadrar os programas das atividades desenvolvidas no âmbito das relações
 
 2 - No que respeita às competências previstas no número anterior, o SEF articula-se, em todos os assuntos que impliquem a tomada de uma posição nacional, com a DGAI.
 
-###### Artigo 19.º — Gabinete de Estudos, Planeamento e Formação
+Artigo 19.º
+
+Gabinete de Estudos, Planeamento e Formação
 
 1 - Ao Gabinete de Estudos, Planeamento e Formação compete:
 
@@ -360,7 +449,9 @@ n) Assegurar a reprodução, tradução e retroversão de documentação.
 
 2 - (Revogado.)
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -372,7 +463,9 @@ n) Assegurar a reprodução, tradução e retroversão de documentação.
 
 5 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 ...
 
@@ -392,7 +485,9 @@ g) (Revogada.)
 
 h) (Revogada.)
 
-###### Artigo 23.º — Direção Central de Investigação
+Artigo 23.º
+
+Direção Central de Investigação
 
 1 - À Direção Central de Investigação (DCINV) compete:
 
@@ -404,7 +499,9 @@ c) Concretizar as ações de interesse para a prevenção da criminalidade, desi
 
 2 - Nos casos onde subsista a dúvida relativamente à verificação dos pressupostos a que se refere a alínea a) do número anterior, o diretor nacional decide da intervenção da DCINV, sob proposta desta.
 
-###### Artigo 26.º — Direção Central de Imigração e Documentação
+Artigo 26.º
+
+Direção Central de Imigração e Documentação
 
 1 - À Direção Central de Imigração e Documentação (DCID) compete centralizar, tratar e difundir informação relacionada com os movimentos migratórios, estudar as medidas destinadas a apoiar a política de imigração, proceder à identificação e peritagem documental, registo e difusão dos movimentos migratórios e informação de natureza policial, bem como centralizar o controlo da emissão de documentos de viagem.
 
@@ -440,7 +537,9 @@ n) Tratar os elementos de identificação de estrangeiros e apátridas, nomeadam
 
 o) Prestar consultadoria técnica na conceção de documentos.
 
-###### Artigo 33.º — Direção Central de Gestão e Administração
+Artigo 33.º
+
+Direção Central de Gestão e Administração
 
 1 - À Direção Central de Gestão e Administração (DCGA) compete assegurar a gestão financeira e patrimonial e a gestão das telecomunicações e segurança.
 
@@ -474,7 +573,9 @@ n) Definir procedimentos uniformes relativos à segurança do pessoal e das inst
 
 o) Conservar, guardar e distribuir o armamento e munições.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 ...
 
@@ -488,7 +589,9 @@ d) [Anterior alínea c).]
 
 e) ...
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - ...
 
@@ -516,7 +619,9 @@ e) (Revogada.)
 
 3 - Mediante proposta do diretor regional, o diretor nacional designa o subdiretor regional de Lisboa, Vale do Tejo e Alentejo, que substitui o diretor regional nas suas faltas e impedimentos, e aquele que dirige a delegação de Setúbal.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -570,7 +675,9 @@ w) [Anterior alínea z).]
 
 3 - São delegadas nos subdiretores regionais do Norte e do Algarve as competências dos diretores regionais relativas aos postos de fronteira aéreos situados na área de jurisdição da respetiva direção regional.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
@@ -580,7 +687,9 @@ b) ...
 
 2 - (Revogado.)
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - Os postos de fronteira são os constantes do anexo ii do presente diploma, do qual faz parte integrante.
 
@@ -588,7 +697,9 @@ b) ...
 
 3 - (Revogado.)
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - O diretor de Fronteiras de Lisboa dirige os postos de fronteira integrados na mesma Direção.
 
@@ -598,13 +709,17 @@ b) ...
 
 4 - (Revogado.)
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - Os aeródromos e portos que não funcionem como postos de fronteira mas onde eventualmente seja autorizada a chegada ou a partida de tráfego internacional dependem do respetivo diretor regional, salvo se, por motivos de serviço e mediante despacho a publicar no Diário da República, o diretor nacional considerar mais conveniente colocá-los na dependência da Direção de Fronteiras de Lisboa.
 
 2 - (Revogado.)
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - Os trabalhadores da carreira de investigação e fiscalização ficam obrigados ao uso do respetivo fardamento durante os períodos de prestação de serviço nos postos de fronteira e nos CCPA.
 
@@ -616,7 +731,9 @@ b) ...
 
 5 - ...
 
-###### Artigo 65.º — Mapa de cargos de direção e de chefia
+Artigo 65.º
+
+Mapa de cargos de direção e de chefia
 
 1 - Os lugares de direção superior e de direção intermédia constam do mapa constante do anexo iii do presente diploma, do qual faz parte integrante.
 
@@ -628,7 +745,9 @@ b) ...
 
 5 - (Revogado.)
 
-###### Artigo 66.º — Diretor central, diretor regional, diretor de Fronteiras de Lisboa e coordenador do Gabinete de Inspeção
+Artigo 66.º
+
+Diretor central, diretor regional, diretor de Fronteiras de Lisboa e coordenador do Gabinete de Inspeção
 
 1 - As direções centrais e as direções regionais são dirigidas, respetivamente, por diretores centrais e diretores regionais, cargos de direção intermédia do 1.º grau.
 
@@ -646,7 +765,9 @@ b) ...
 
 8 - Ao provimento do cargo é aplicável o disposto nos n.os 3 a 5 do artigo 65.º-A, com as devidas adaptações.
 
-###### Artigo 67.º — Coordenador de gabinete
+Artigo 67.º
+
+Coordenador de gabinete
 
 1 - Os gabinetes são dirigidos por coordenadores, cargos de direção intermédia do 2.º grau.
 
@@ -658,7 +779,9 @@ b) ...
 
 5 - Ao provimento do cargo é aplicável o disposto nos n.os 3 a 5 do artigo 65.º-A, com as devidas adaptações.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - ...
 
@@ -676,7 +799,9 @@ e) (Revogada.)
 
 3 - Nas localidades em que exista uma delegação regional e postos de fronteira, o chefe da delegação pode assegurar, por conveniência de serviço, mediante despacho do diretor nacional, a publicar no Diário da República, a gestão dos postos de fronteira.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - O recrutamento para os cargos a que alude o artigo anterior faz-se:
 
@@ -726,7 +851,9 @@ g) Elaborar alertas e proceder à gestão de incidentes relacionados com imigra�
 
 h) Dar assistência a operações em curso, bem como gerir e processar toda a informação operacional resultante dessas operações.
 
-###### Artigo 19.º-B — Gabinete de Apoio às Direções Regionais
+Artigo 19.º-B
+
+Gabinete de Apoio às Direções Regionais
 
 Ao Gabinete de Apoio às Direções Regionais compete:
 
@@ -740,7 +867,9 @@ d) Instruir, informar e emitir parecer sobre pedidos de concessão do estatuto d
 
 e) Coordenar o funcionamento dos centros destinados à instalação temporária de cidadãos estrangeiros não admitidos em território nacional que aguardam decisão de afastamento ou a respetiva execução e de requerentes de asilo que esperam decisão judicial.
 
-###### Artigo 19.º-C — Gabinete de Recursos Humanos
+Artigo 19.º-C
+
+Gabinete de Recursos Humanos
 
 Ao Gabinete de Recursos Humanos compete:
 
@@ -756,7 +885,9 @@ e) Elaborar o balanço social, nos termos da legislação aplicável;
 
 f) Proceder às diligências necessárias à credenciação de trabalhadores.
 
-###### Artigo 19.º-D — Gabinete de Sistemas de Informação
+Artigo 19.º-D
+
+Gabinete de Sistemas de Informação
 
 1 - Ao Gabinete de Sistemas de Informação compete:
 
@@ -788,7 +919,9 @@ m) Garantir que se encontra vedado o acesso aos dados dos sistemas de informaç�
 
 2 - No que respeita às competências previstas nas alíneas e), g) e i) do número anterior, o SEF articula-se com a Direção-Geral de Infraestruturas e Equipamentos e também, quanto à alínea i), com a DGAI.
 
-###### Artigo 49.º-A — Direção de Fronteiras de Lisboa
+Artigo 49.º-A
+
+Direção de Fronteiras de Lisboa
 
 1 - À Direção de Fronteiras de Lisboa compete assegurar as atribuições do SEF em matéria de controlo da circulação de pessoas nos postos de fronteira aérea e marítima situados na área metropolitana de Lisboa.
 
@@ -802,7 +935,9 @@ c) Decidir e mandar executar os pedidos de readmissão ativa e passiva, por via 
 
 d) Garantir a instrução dos processos de contraordenação.
 
-###### Artigo 65.º-A — Diretor nacional
+Artigo 65.º-A
+
+Diretor nacional
 
 1 - O cargo de diretor nacional, cargo de direção superior do 1.º grau, é provido por despacho do Primeiro-Ministro e do membro do Governo responsável pela área da administração interna, de entre inspetores superiores da carreira de investigação e fiscalização ou licenciados de reconhecida idoneidade e experiência profissional, vinculados ou não à função pública.
 
@@ -814,13 +949,17 @@ d) Garantir a instrução dos processos de contraordenação.
 
 5 - Em qualquer momento, a comissão de serviço pode ser dada por finda por despacho do membro do Governo responsável pela área da administração interna, por iniciativa deste ou a requerimento do interessado.
 
-###### Artigo 65.º-B — Diretor nacional-adjunto
+Artigo 65.º-B
+
+Diretor nacional-adjunto
 
 1 - O cargo de diretor nacional-adjunto, cargo de direção superior do 2.º grau, é provido por despacho do membro do Governo responsável pela área da administração interna, de entre inspetores superiores da carreira de investigação e fiscalização ou licenciados de reconhecida idoneidade e experiência profissional, vinculados ou não à função pública.
 
 2 - Ao provimento do cargo é aplicável o disposto nos n.os 2 a 5 do artigo anterior.
 
-###### Artigo 67.º-A — Subdiretor central, subdiretor regional e subdiretor de Fronteiras de Lisboa
+Artigo 67.º-A
+
+Subdiretor central, subdiretor regional e subdiretor de Fronteiras de Lisboa
 
 1 - Os diretores centrais, os diretores regionais e o diretor de Fronteiras de Lisboa são coadjuvados por subdiretores centrais, por subdiretores regionais e por um subdiretor, respetivamente, cargos de direção intermédia do 2.º grau.
 
@@ -834,7 +973,9 @@ d) Garantir a instrução dos processos de contraordenação.
 
 6 - Ao provimento dos cargos é aplicável o disposto nos n.os 2 a 5 do artigo 65.º-A.
 
-###### Artigo 67.º-B — Dirigentes
+Artigo 67.º-B
+
+Dirigentes
 
 Ao pessoal dirigente do SEF aplica-se, subsidiariamente, o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Central, Regional e Local do Estado.»
 
@@ -894,15 +1035,15 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 26 de julho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Sacadura Cabral Portas - Miguel Bento Martins Costa Macedo e Silva.
 
-**Promulgado em 24 de outubro de 2012.**
+Promulgado em 24 de outubro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de outubro de 2012.**
+Referendado em 25 de outubro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -962,13 +1103,13 @@ Delegação Regional da Guarda.
 
 Postos de fronteira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21400/0637106394.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21400/0637106394.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21400/0637106394.pdf)
 
 ## ANEXO III — (a que se refere o n.º 1 do artigo 65.º)
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21400/0637106394.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21400/0637106394.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21400/0637106394.pdf)
 
 ## ANEXO II — (a que se refere o artigo 5.º)
 
@@ -976,7 +1117,7 @@ Mapa de pessoal dirigente
 
 Mapa de chefias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21400/0637106394.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21400/0637106394.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21400/0637106394.pdf)
 
 ## ANEXO III — (a que se refere o artigo 9.º)
 
@@ -2116,16 +2257,16 @@ Delegação Regional da Guarda.
 
 Postos de fronteira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21400/0637106394.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21400/0637106394.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21400/0637106394.pdf)
 
 ## ANEXO III — (a que se refere o n.º 1 do artigo 65.º)
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21400/0637106394.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21400/0637106394.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21400/0637106394.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 2 do artigo 65.º)
 
 Mapa de chefias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21400/0637106394.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21400/0637106394.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21400/0637106394.pdf)

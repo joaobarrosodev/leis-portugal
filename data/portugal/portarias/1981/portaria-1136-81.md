@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 300/1981, 4º Suplemento, Série I de 1981-12-31
   number: '300'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 3414-(48) a 3414-(49)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/30004/00480049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1136-1981-144404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:37:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c4d4fe6eebf55ff5e2dc6733b07bf5d67139fbf136875d65b5ba75cd36190b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b69d29fdcfdf612a87da8e02b9e7939a665adfbba2715cec585781a1e74ac04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:37:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Matéria-Prima
+- Oleaginosas
+- ÓLEO Comestivel
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:627019:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:450673:por
+  label: "Retirada a referência ao bagaço de gérmen de milho à lista referida no nº 1 do nº 2 do presente diploma, pela PORT.554/83.11.05.1983.MFP,\
+    \ DR.IS [108] de 11.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/554-1983-450673
+  date: '1983-05-11'
+- type: cites
+  target: pt:dre:275663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:307811:por
+  label: "Revogado o nº 6 pelo DEC LEI.19/83.1983.01.21.MFP DR.IS [17] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-1983-307811
+  date: '1983-01-21'
+- type: repealed_by
+  target: pt:dre:627019:por
+  label: "Revogada pela PORT.714-B/83.23.06.1983.MFP, DR.IS [142]Supl de 23.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/714-b-1983-627019
+  date: '1983-06-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:37:38Z'
   warnings: []
   errors: []
 ---
@@ -153,6 +185,6 @@ Secretarias de Estado do Orçamento, do Comércio e da Indústria, 30 de Dezembr
 
 ## ANEXO — Características das sementes oleaginosas a que se refere o n.º 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30004/00480049.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30004/00480049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30004/00480049.pdf)
 
-**O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado do Comércio, António Escaja Gonçalves. - O Secretário de Estado da Indústria, Alberto António Justiniano.**
+O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado do Comércio, António Escaja Gonçalves. - O Secretário de Estado da Indústria, Alberto António Justiniano.

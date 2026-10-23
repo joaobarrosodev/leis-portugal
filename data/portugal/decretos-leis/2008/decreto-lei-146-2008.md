@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/146/2008/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2008-454821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34a0b8c0fdd6da3c39890b3e21f7d50e72b4db750fcc3f0b72e8e5bb05eb63cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 250fcf12663e994f773800ff3e9810427127e61ca7b6368a8ca556c0b7864ef0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Igualdade de Tratamento
-- Luta contra a Discriminação
 - Ação Social
-- Ministro das Finanças
+- Educação Pré-escolar
+- Igualdade de Tratamento
 - Instituto Público
 - Jardim de Infância
-- Educação Pré-escolar
+- Luta contra a Discriminação
+- Ministro das Finanças
 - Trabalhador
 relationships:
 - type: cites
@@ -84,16 +84,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:520977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:38Z'
   warnings: []
   errors: []
 ---
@@ -126,12 +134,12 @@ O presente decreto-lei produz efeitos a partir de 1 de Julho de 2008.
 
 Visto e aprovado em Conselho de Ministros de 23 de Maio de 2008. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - José Manuel Vieira Conde Rodrigues - Francisco Carlos da Graça Nunes Correia - Fernando Pereira Serrasqueiro - Luís Medeiros Vieira - Mário Lino Soares Correia - Fernando Medina Maciel Almeida Correia - Ana Maria Teodoro Jorge - Maria de Lurdes Reis Rodrigues - Manuel Frederico Tojal de Valsassina Heitor - José António de Melo Pinto Ribeiro.
 
-**Promulgado em 16 de Julho de 2008.**
+Promulgado em 16 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 18 de Julho de 2008.**
+Referendado em 18 de Julho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

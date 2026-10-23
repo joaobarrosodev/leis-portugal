@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21060-1965-239023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bab59d4cee1d943292ba0b3048cc4f41c14055fac35c088009f057742cf5daa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 142578971280395baad3cb2cc3d982a0cbc12914af9bc184506bb28acd07f59c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:156665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239025:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:17Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +103,13 @@ Regulamento Geral do Instituto de Formação Profissional Acelerada
 
 Atribuições e competência
 
-###### Artigo 1.º O Instituto de Formação Profissional Acelerada (I. F. P. A.), criado pelo [Decreto n.º 44538](https://diariodarepublica.pt/dr/detalhe/decreto/44538-1962-165444), de 23 de Agosto de 1962, tem por objectivo a elevação do nível profissional dos trabalhadores portugueses.
+Artigo 1.º O Instituto de Formação Profissional Acelerada (I. F. P. A.), criado pelo [Decreto n.º 44538](https://diariodarepublica.pt/dr/detalhe/decreto/44538-1962-165444), de 23 de Agosto de 1962, tem por objectivo a elevação do nível profissional dos trabalhadores portugueses.
 
-###### Art. 2.º - 1. O I. F. P. A. funciona na dependência da Direcção-Geral do Trabalho e Corporações, através do Fundo de Desenvolvimento da Mão-de-Obra, devendo exercer a sua actividade na mais estreita colaboração com as corporações e organismos corporativos representativos das entidades patronais e dos trabalhadores.
+Art. 2.º - 1. O I. F. P. A. funciona na dependência da Direcção-Geral do Trabalho e Corporações, através do Fundo de Desenvolvimento da Mão-de-Obra, devendo exercer a sua actividade na mais estreita colaboração com as corporações e organismos corporativos representativos das entidades patronais e dos trabalhadores.
 
 2. O I. F. P. A. colaborará igualmente com todos os departamentos oficiais aos quais a sua actividade possa interessar.
 
-###### Art. 3.º No âmbito da sua acção compete, nomeadamente, ao I. F. P. A., ponderadas sempre as necessidades das empresas em matéria de mão-de-obra:
+Art. 3.º No âmbito da sua acção compete, nomeadamente, ao I. F. P. A., ponderadas sempre as necessidades das empresas em matéria de mão-de-obra:
 
 a) Operar a reconversão profissional dos trabalhadores quando as circunstâncias o justificarem, tendo em conta a vontade dos interessados e as suas possibilidades de reclassificação;
 
@@ -109,17 +121,17 @@ d) Colaborar com as empresas na formação do seu pessoal;
 
 e) Concorrer para a melhoria da adaptação recíproca entre o homem e o seu trabalho.
 
-###### Art. 4.º Para consecução dos seus objectivos, o Instituto deverá criar e fomentar a criação de centros nacionais ou regionais de formação profissional acelerada.
+Art. 4.º Para consecução dos seus objectivos, o Instituto deverá criar e fomentar a criação de centros nacionais ou regionais de formação profissional acelerada.
 
-###### Art. 5.º O ensino será ministrado por métodos activos e altamente racionalizados, de forma a permitir a rápida valorização do trabalhador, sem prejuízo do nível qualitativo exigido e com a devida consideração pelas condições fisiológicas e psicotécnicas necessárias ao exercício de cada profissão.
+Art. 5.º O ensino será ministrado por métodos activos e altamente racionalizados, de forma a permitir a rápida valorização do trabalhador, sem prejuízo do nível qualitativo exigido e com a devida consideração pelas condições fisiológicas e psicotécnicas necessárias ao exercício de cada profissão.
 
 Da direcção
 
-###### Art. 6.º - 1. O I. F. P. A. terá uma direcção constituída por um director e dois ou mais adjuntos, a designar pelo Ministro das Corporações e Previdência Social.
+Art. 6.º - 1. O I. F. P. A. terá uma direcção constituída por um director e dois ou mais adjuntos, a designar pelo Ministro das Corporações e Previdência Social.
 
 2. A orientação directa do Instituto cabe ao director, coadjuvado pelos adjuntos.
 
-###### Art. 7.º - 1. Compete especialmente ao director:
+Art. 7.º - 1. Compete especialmente ao director:
 
 a) Elaborar o programa anual de actividades e correspondente orçamento;
 
@@ -137,17 +149,17 @@ g) Tomar todas as demais providências que se tornem necessárias à prossecuç�
 
 2. Ao director compete ainda a distribuição dos diferentes serviços e actividades pelos adjuntos.
 
-###### Art. 8.º Aos adjuntos incumbe coadjuvar o director no exercício das suas funções.
+Art. 8.º Aos adjuntos incumbe coadjuvar o director no exercício das suas funções.
 
 Dos centros de formação profissional acelerada
 
-###### Art. 9.º - 1. A qualificação e reclassificação dos trabalhadores efectuar-se-á em centros de formação profissional acelerada, que disporão, para o efeito, de secções devidamente apetrechadas.
+Art. 9.º - 1. A qualificação e reclassificação dos trabalhadores efectuar-se-á em centros de formação profissional acelerada, que disporão, para o efeito, de secções devidamente apetrechadas.
 
 2. Cada secção é dirigida tècnicamente por um monitor, coadjuvado por um monitor ajudante.
 
 3. O número de estagiários de cada secção deverá ser fixado de acordo com as características do método adoptado e de modo a não prejudicar o nível profissional que se pretende atingir.
 
-###### Art. 10.º - 1. São condições de admissão aos estágios de formação profissional acelerada:
+Art. 10.º - 1. São condições de admissão aos estágios de formação profissional acelerada:
 
 a) Ser cidadão português, originário ou naturalizado;
 
@@ -177,13 +189,13 @@ j) Não estar ligado por qualquer contrato de trabalho nem estar em via de obter
 
 5. Não se aplica a primeira parte da alínea j) nos casos em que a existência de contrato de trabalho não prejudique a completa frequência do estágio nem os objectivos da formação profissional acelerada.
 
-###### Art. 11.º Durante a frequência dos cursos, podem ser atribuídos aos estagiários subsídios no montante e condições que forem estabelecidos por despacho do Ministro das Corporações e Previdência Social, tendo em vista, de modo especial, a sua manutenção, seguro contra acidentes de trabalho e situação perante as instituições de previdência.
+Art. 11.º Durante a frequência dos cursos, podem ser atribuídos aos estagiários subsídios no montante e condições que forem estabelecidos por despacho do Ministro das Corporações e Previdência Social, tendo em vista, de modo especial, a sua manutenção, seguro contra acidentes de trabalho e situação perante as instituições de previdência.
 
-###### Art. 12.º As demais actividades que o Instituto for desenvolvendo para a boa consecução dos seus objectivos poderão iniciar-se em qualquer dos seus organismos ou serviços já existentes que melhores condições ofereçam, e aí permanecer até o seu desenvolvimento justificar a criação de um novo organismo ou serviço do Instituto.
+Art. 12.º As demais actividades que o Instituto for desenvolvendo para a boa consecução dos seus objectivos poderão iniciar-se em qualquer dos seus organismos ou serviços já existentes que melhores condições ofereçam, e aí permanecer até o seu desenvolvimento justificar a criação de um novo organismo ou serviço do Instituto.
 
 Da administração
 
-###### Art. 13.º - 1. O I. F. P. A. disporá:
+Art. 13.º - 1. O I. F. P. A. disporá:
 
 a) Das verbas que em cada ano lhe forem atribuídas pelo Fundo de Desenvolvimento da Mão-de-Obra;
 
@@ -191,25 +203,25 @@ b) De quaisquer outras verbas que lhe sejam destinadas por entidades públicas o
 
 2. As importâncias recebidas na alínea b) do número anterior darão entrada no Fundo de Desenvolvimento da Mão-de-Obra como receita consignada ao I. F. P. A.
 
-###### Art. 14.º - 1. As receitas e despesas do I. F. P. A. constarão de um orçamento anual, elaborado até 15 de Dezembro do ano anterior àquele a que respeitar e submetido, até 31 de Dezembro, pelo Fundo de Desenvolvimento da Mão-de-Obra, à homologação do Ministro das Corporações e Previdência Social.
+Art. 14.º - 1. As receitas e despesas do I. F. P. A. constarão de um orçamento anual, elaborado até 15 de Dezembro do ano anterior àquele a que respeitar e submetido, até 31 de Dezembro, pelo Fundo de Desenvolvimento da Mão-de-Obra, à homologação do Ministro das Corporações e Previdência Social.
 
 2. Quaisquer alterações no orçamento anual serão levadas a efeito através de orçamentos suplementares, sujeitos, na parte aplicável, às regras estabelecidas no corpo do artigo.
 
-###### Art. 15.º O Fundo de Desenvolvimento da Mão-de-Obra colocará, em cada mês, à disposição do I. F. P. A., e em conta especial aberta na Caixa Geral de Depósitos, Crédito e Previdência, as verbas necessárias ao seu funcionamento.
+Art. 15.º O Fundo de Desenvolvimento da Mão-de-Obra colocará, em cada mês, à disposição do I. F. P. A., e em conta especial aberta na Caixa Geral de Depósitos, Crédito e Previdência, as verbas necessárias ao seu funcionamento.
 
-###### Art. 16.º A efectivação das despesas do I. F. P. A. será autorizada pelo Ministro das Corporações e Previdência Social, que poderá delegar a sua competência em termos a estabelecer por despacho.
+Art. 16.º A efectivação das despesas do I. F. P. A. será autorizada pelo Ministro das Corporações e Previdência Social, que poderá delegar a sua competência em termos a estabelecer por despacho.
 
-###### Art. 17.º - 1. Os pagamentos serão sempre feitos por meio de cheques, assinados pelo director e pelo funcionário encarregado da contabilidade.
+Art. 17.º - 1. Os pagamentos serão sempre feitos por meio de cheques, assinados pelo director e pelo funcionário encarregado da contabilidade.
 
 2. Para pagamentos correntes que devam efectuar-se em dinheiro poderá ser autorizada a constituição de um fundo de maneio.
 
-###### Art. 18.º - 1. As contas do I. F. P. A. serão elaboradas nos termos que forem determinados pelo conselho administrativo do Fundo de Desenvolvimento da Mão-de-Obra e ser-lhe-ão presentes, quinzenal ou mensalmente, para conferência e contabilização.
+Art. 18.º - 1. As contas do I. F. P. A. serão elaboradas nos termos que forem determinados pelo conselho administrativo do Fundo de Desenvolvimento da Mão-de-Obra e ser-lhe-ão presentes, quinzenal ou mensalmente, para conferência e contabilização.
 
 2. As contas de receita e despesa do I. F. P. A. serão apresentadas juntamente com as do Fundo de Desenvolvimento da Mão-de-Obra e submetidas com as deste à homologação ministerial, mediante a qual se consideram legitimadas para todos os efeitos.
 
 Do pessoal
 
-###### Art. 19.º - 1. O quadro do pessoal do I. F. P. A. será aprovado pelo Ministro das Corporações e Previdência Social, de acordo com as necessidades dos serviços.
+Art. 19.º - 1. O quadro do pessoal do I. F. P. A. será aprovado pelo Ministro das Corporações e Previdência Social, de acordo com as necessidades dos serviços.
 
 2. A admissão do pessoal fica dependente de despacho do Ministro e efectivar-se-á por meio de contrato em que intervirá o director do Instituto, quando não se tratar de funcionários públicos designados em comissão de serviço.
 

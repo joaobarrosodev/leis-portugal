@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/492-1976-429992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T05:05:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3b007c6772706b9358b8ca20d6dc07d49363b537650f3a351beed1d41fcc1b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3338837a450ed3f1e5518fca5aa7b7b695378431b1d5512087240e8b3e417a5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:05:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:2758376:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:251618:por
+  label: Derrogada, relativamente à expropriação do prédio rústico denominado «Amoreirinha e Hospitais», situado na freguesia
+    de Nossa Senhora da Vila, concelho de Montemor-o-Novo, a presente portaria, pelo(a) Portaria n.º 230/77 - Diário da República
+    n.º 101/1977, Série I de 1977-05-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/230-1977-251618
+  date: '1977-05-02'
+- type: amended_by
+  target: pt:dre:251471:por
+  label: Derrogada, relativamente à expropriação dos prédios rústicos Herdade da Alfarrobeira, concelho de Beja, e Monte da
+    Serra, concelho de Aljustrel, a presente portaria, pelo(a) Portaria n.º 243/77 - Diário da República n.º 106/1977, Série
+    I de 1977-05-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/243-1977-251471
+  date: '1977-05-07'
+- type: amended_by
+  target: pt:dre:471909:por
+  label: "Derrogada parcialmente pela PORT.395/80.10.07.1980.MAP, DR.IS [157] de 10.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/395-1980-471909
+  date: '1980-07-10'
+- type: amended_by
+  target: pt:dre:396566:por
+  label: "Derrogada pelo presente diploma na parte relativa à expropriação dos prédios rústicos Fonte do Corcho e Monte do\
+    \ Outeiro, Herdade do Peixoto, Eirinha e Vereda pela PORT.803/82.24.08.1982.MACP, DR.IS [195] de 24.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/803-1982-396566
+  date: '1982-08-24'
+- type: amended_by
+  target: pt:dre:2758376:por
+  label: "Derrogada parte pela PORT.1140/2004(2ªSérie).15.10.2004.PCM, DR.IIS [256] de 30.10.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1140-2004-2758376
+  date: '2004-10-15'
+- type: cites
+  target: pt:dre:311215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:106415323:por
+  label: Revogado o presente diploma, na parte em que expropria a área de 33,7250 ha, respeitante ao lote n.º 3, que faz parte
+    integrante do prédio rústico denominado «Herdade Fonte dos Cântaros e da Casa do Diabo», inscrito na matriz predial rústica
+    sob o artigo 28 da secção E, da freguesia de S. Brissos, concelho de Beja, pelo(a) Portaria n.º 61/2017 - Diário da República
+    n.º 28/2017, Série I de 2017-02-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/61-2017-106415323
+  date: '2017-02-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:05:52Z'
   warnings: []
   errors: []
 ---

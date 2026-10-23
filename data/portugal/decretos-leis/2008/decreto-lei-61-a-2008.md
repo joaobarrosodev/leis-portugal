@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 62/2008, 1º Suplemento, Série I de 2008-03-28
   number: '62'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1830-(8) a 1830-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/03/06201/0000800010.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/61-a/2008/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-a-2008-260917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8a92a1001db2c8133b17cf2964098894ceb99e018563ffeb0aa94f478cfef41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d9030f5d2708a6340fe7e6c63003138a66e89c9cd7bebd1f162aa769b6b0875
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Jovem
-- Iniciativa Porta 65
-- Programa Porta 65-arrendamento por Jovens
-- Habitação
 - Arrendamento Urbano para Habitação
+- Financiamento
+- Habitação
+- Iniciativa Porta 65
+- Jovem
+- Programa Porta 65-arrendamento por Jovens
 - Subsídio não Reembolsável
 relationships:
 - type: amended_by
   target: pt:dre:205557210:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614285:por
+  label: "Alterados os art.s 5º, 7º, 8º, 12º, 16º do Dec Lei 308/2007, de 03-Set, na redacção do presente diploma, pelo DEC\
+    \ LEI.43/2010.30.04.2010.MAOT, DR.IS [84] de 30.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-2010-614285
+  date: '2010-04-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/1992/08/05/p/dre
   label: null
@@ -86,16 +92,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/308/2007/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/308/2007/09/03/p/dre
+- type: cites
+  target: pt:dre:274435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641166:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:449203:por
+  label: "Rectificado pela DECL-RECT.30/2008.26.05.2008.PCM, DR.IS [100] de 26.05.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/30-2008-449203
+  date: '2008-05-26'
 article_structure:
-  article_count: 10
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:13Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +177,9 @@ Os artigos 5.º, 7.º, 8.º, 12.º, 16.º, 19.º e 27.º do [Decreto-Lei n.º 30
 
 11 - (Anterior n.º 10.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 4.º, o acesso ao Porta 65 - Jovem depende do cumprimento dos seguintes requisitos:
 
@@ -182,11 +203,15 @@ f) Em qualquer caso, o RM do jovem ou do agregado, corrigido nos termos do n.º 
 
 5 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Os candidatos a apoio financeiro ao abrigo do Porta 65 - Jovem não podem acumular esse apoio com quaisquer outras formas de apoio público à habitação, nem ter dívidas decorrentes da concessão do incentivo ao arrendamento por jovens (IAJ).
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -198,11 +223,15 @@ Os candidatos a apoio financeiro ao abrigo do Porta 65 - Jovem não podem acumul
 
 5 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 Sempre que, no âmbito do processo de renovação do apoio financeiro, se verifique existir alteração da pontuação que determine a aplicação de escalão diferente do anterior, a subvenção mensal a pagar no período da renovação é calculada com base na percentagem correspondente ao novo escalão.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -234,7 +263,9 @@ m) ...
 
 3 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -262,12 +293,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Humberto Delgado Ubach Chaves Rosa.
 
-**Promulgado em 27 de Março de 2008.**
+Promulgado em 27 de Março de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de Março de 2008.**
+Referendado em 27 de Março de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

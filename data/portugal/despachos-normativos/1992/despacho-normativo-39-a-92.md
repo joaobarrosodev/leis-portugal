@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 69/1992, 1º Suplemento, Série I-B de 1992-03-23
   number: '69'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1416-(2) a 1416-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/03/069b01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/39-a/1992/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-a-1992-405703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T07:58:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6db422621cbdae3637c95daf95d2b1141c51f46e8e58d87f8fa10b59a81bd03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82933e8c204917092886492badf1f6f0ae0d46ea148d2bb3f76bc6410f3c435c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:58:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Ferroviário
 - Lisboa
+- Porto
 - Preço
+- Transporte Ferroviário
 - Transporte Fluvial
 - Transporte Público
 - Transporte Urbano
-- Porto
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/18/1992/02/01/p/dre
@@ -82,16 +82,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/69/1992/02/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/69/1992/02/01/p/dre
+- type: cites
+  target: pt:dre:149822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514040:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:58:23Z'
   warnings: []
   errors: []
 ---

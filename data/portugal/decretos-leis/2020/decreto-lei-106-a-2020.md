@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30
   number: '252'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 168-(6) a 168-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/25203/0000600013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106-a/2020/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33514f595bfaf9a01dcd4a600c3a790a889f334413d25d04938753b4a0f8ad9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f48c767e739de1a683da2fc64689507b55daf4a6b116882bc915ce869c54058b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,69 +65,75 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal de Saúde
-- Financiamento
-- Empresa
-- Jogos de Fortuna e Azar
-- Estabelecimento de Jogos
-- Direção Geral da Saúde
-- Comunicações Eletrónicas
 - Arrendamento Urbano não Habitacional
+- Arrendamento Urbano para Habitação
+- Comunicações Eletrónicas
 - Contrato de Concessão
 - Contrato de Mútuo
-- CTT
-- Regime Laboral
-- Direção Geral do Tesouro e Finanças
-- Controlo Sanitário
-- Empréstimo
-- Saúde Pública
-- Estado de Emergência
-- Serviço Nacional de Saúde
-- Estoril
-- Recrutamento de Pessoal
+- Contrato de Trabalho
 - Contribuições e Impostos
+- Controlo Sanitário
+- CTT
+- Direção Geral da Saúde
+- Direção Geral do Tesouro e Finanças
+- Doença Infecciosa
+- Doença Profissional
+- Empresa
+- Empréstimo
+- Epidemia
+- Estabelecimento de Jogos
+- Estado de Emergência
+- Estoril
+- Faltas
+- Figueira da Foz
+- Financiamento
+- Forças Armadas
+- Fundo Ambiental
+- Gestão de Recursos Humanos
+- Habitação
+- Horário de Trabalho
+- Incapacidade Temporária
+- Instituto da Habitação e da Reabilitação Urbana
 - Instituto da Mobilidade e dos Transportes
 - Isolamento Profiláctico
-- Faltas
-- Instituto da Habitação e da Reabilitação Urbana
-- MORA
-- Forças Armadas
-- Doença Profissional
-- Doença Infecciosa
-- Epidemia
-- Figueira da Foz
-- Prorrogação de Prazo
-- Protecção na Doença
-- Proteção no Desemprego
-- Prova
+- Jogos de Fortuna e Azar
+- Militar
 - Ministério da Saúde
-- Contrato de Trabalho
-- Horário de Trabalho
-- Teletrabalho
-- Habitação
+- MORA
+- Pessoal de Saúde
+- Programa de Apoio à Densificação e Reforço da Oferta de Transporte Público
+- Prorrogação de Prazo
+- Proteção no Desemprego
+- Protecção na Doença
+- Prova
+- Recrutamento de Pessoal
+- Regime Laboral
 - Remuneração
 - Renda de CASA
 - Rendimento
-- Militar
-- Incapacidade Temporária
+- Saúde Pública
 - Segurança Social
-- Gestão de Recursos Humanos
+- Serviço Nacional de Saúde
 - Subsídio de Doença
-- Arrendamento Urbano para Habitação
+- Teletrabalho
 - Trabalhador
+- Trabalhador com Contrato de Trabalho em Funções Públicas
 - Trabalhador Independente
 - Trabalhador por Conta de Outrem
 - Transporte
 - Transporte de Doentes
 - Transporte Público
-- Fundo Ambiental
-- Programa de Apoio à Densificação e Reforço da Oferta de Transporte Público
-- Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
   label: null
@@ -168,16 +174,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75-a/2020/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75-a/2020/12/30/p/dre
+- type: cites
+  target: pt:dre:115440317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131193441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131228426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131457481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134762424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135391594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138217278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140631236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144272529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145589081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147533155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149220108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151865082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64797338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:39Z'
   warnings: []
   errors: []
 ---
@@ -260,7 +354,9 @@ Os artigos 6.º, 19.º-A, 35.º-F, 35.º-O e 37.º-A do [Decreto-Lei n.º 10-A/2
 
 8 - ...
 
-###### Artigo 19.º-A — [...]
+Artigo 19.º-A
+
+[...]
 
 1 - ...
 
@@ -276,15 +372,21 @@ Os artigos 6.º, 19.º-A, 35.º-F, 35.º-O e 37.º-A do [Decreto-Lei n.º 10-A/2
 
 7 - ...
 
-###### Artigo 35.º-F — [...]
+Artigo 35.º-F
+
+[...]
 
 Até ao dia 31 de dezembro de 2021, fica autorizada a prestação de serviço efetivo por militares na situação de reserva, prevista no artigo 156.º do Estatuto dos Militares das Forças Armadas, aprovado pelo [Decreto-Lei n.º 90/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2015-67348942), de 29 de maio, na sua redação atual, para além do quantitativo máximo fixado nos anexos iii e iv ao [Decreto-Lei n.º 104/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2020-151865082), de 22 de dezembro, que fixa os efetivos das Forças Armadas para 2021.
 
-###### Artigo 35.º-O — Veículos de transporte de doentes
+Artigo 35.º-O
+
+Veículos de transporte de doentes
 
 Ficam dispensados do licenciamento prévio, pelo Instituto da Mobilidade e dos Transportes, I. P., previsto no n.º 1 do artigo 6.º do [Decreto-Lei n.º 38/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1992-187932), de 28 de março, na sua redação atual, os veículos utilizados no transporte de doentes, estando os mesmos autorizados a circular apenas com o certificado de vistoria de veículo previsto na alínea a) do n.º 1 do artigo 31.º do Regulamento do Transporte de Doentes, aprovado pela [Portaria n.º 260/2014](https://diariodarepublica.pt/dr/detalhe/portaria/260-2014-64797338), de 15 de dezembro, na sua redação atual, até ao dia 31 de dezembro de 2021.
 
-###### Artigo 37.º-A — [...]
+Artigo 37.º-A
+
+[...]
 
 1 - Os artigos 26.º, 28.º-A e 28.º-B vigoram até ao dia 31 de dezembro de 2020.
 
@@ -312,13 +414,15 @@ d) (Revogada.)
 
 3 - Os beneficiários do apoio previsto no artigo 5.º devem remeter, trimestralmente, informação atualizada que comprove a quebra de rendimentos.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
 2 - No caso de mutuários de empréstimos com baixos rendimentos, cuja taxa de esforço destinada ao pagamento da renda seja ou se torne superior a 35 % e inferior a 100 %, o empréstimo previsto no número anterior é atribuído, mediante requerimento, a título de comparticipação financeira não reembolsável nos termos da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/25203/0000600013.pdf))](https://files.diariodarepublica.pt/1s/2020/12/25203/0000600013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/25203/0000600013.pdf)
 
 3 - No caso de mutuários de empréstimos com baixos rendimentos, cuja taxa de esforço destinada ao pagamento da renda seja igual ou superior a 100 %, o empréstimo previsto no n.º 1 é convertido na sua totalidade, mediante requerimento, em comparticipação financeira não reembolsável.
 
@@ -340,7 +444,9 @@ d) (Revogada.)
 
 12 - A aplicação do apoio previsto no presente artigo, no caso de contratos que venham a ser celebrados ou renovados a partir de 1 de janeiro de 2021, é regulamentada por portaria do membro do Governo responsável pela área da habitação.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -364,7 +470,9 @@ Os artigos 2.º e 3.º do [Decreto-Lei n.º 79-A/2020](https://diariodarepublica
 
 4 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Nos locais de trabalho a que se refere o n.º 1 do artigo anterior, o empregador deve organizar de forma desfasada as horas de entrada e saída dos locais de trabalho, garantindo intervalos mínimos de trinta minutos até ao limite de uma hora entre grupos de trabalhadores.
 
@@ -406,13 +514,17 @@ c) Declaração da entidade empregadora comprovativa da situação profissional 
 
 5 - Para efeitos do disposto no presente artigo consideram-se, com as devidas adaptações, os enfermeiros e os técnicos de emergência médica pré-hospitalar, os trabalhadores civis do HFAR, os profissionais dos serviços médico-legais do INMLCF, I. P., e os trabalhadores das unidades e serviços de saúde prisionais da DGRSP, vinculados por contrato de trabalho em funções públicas ou contrato de trabalho celebrado ao abrigo do Código do Trabalho, que tenham praticado atos diretamente relacionados com pessoas suspeitas e doentes infetados por SARS-CoV-2.
 
-###### Artigo 35.º-V — Revisão anual das declarações dos trabalhadores independentes relativas a 2019
+Artigo 35.º-V
+
+Revisão anual das declarações dos trabalhadores independentes relativas a 2019
 
 1 - No ano de 2021, os serviços da segurança social procedem à revisão anual das declarações relativas a 2019 conjuntamente com a revisão anual das declarações relativas a 2020.
 
 2 - O pagamento de contribuições resultante da revisão anual das declarações relativas a 2019 é considerado, para todos os efeitos, como efetuado fora do prazo a partir da data em que é considerado fora do prazo o pagamento de contribuições resultante da revisão anual das declarações relativas a 2020.
 
-###### Artigo 35.º-W — Prorrogação de contratos de concessão
+Artigo 35.º-W
+
+Prorrogação de contratos de concessão
 
 São prorrogados até 31 de dezembro de 2021 os seguintes contratos de concessão:
 
@@ -448,12 +560,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de dezembro de 2020. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Francisca Eugénia da Silva Dias Van Dunem - Alexandra Ludomila Ribeiro Fernandes Leitão - Gabriel Gameiro Rodrigues Bastos - Marta Alexandra Fartura Braga Temido de Almeida Simões - João Pedro Soeiro de Matos Fernandes - Pedro Nuno de Oliveira Santos.
 
-**Promulgado em 30 de dezembro de 2020.**
+Promulgado em 30 de dezembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de dezembro de 2020.**
+Referendado em 30 de dezembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+100000289

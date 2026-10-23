@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/15500/0000300012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/109/2019/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2019-123968666
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93f52c0b7627b857f892f8f32037f65ddf2fb0b1fa339db473038b4b3a1b582f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04dbcf43a1b358be04b0cfdc92a19bf3389b08768bc42793feac21760ad244b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estabelecimento Comercial
+- ASAE
+- Comércio
 - Comércio a Retalho
 - Contra-ordenação
-- Fiscalização
-- ASAE
 - Documento Eletrónico
+- Estabelecimento Comercial
+- Fiscalização
+- Plataforma Eletrónica
 - Preço de Venda
 - Profissão Comercial
 - Promoção de Produtos
 - Saldos
-- Comércio
-- Plataforma Eletrónica
 relationships:
 - type: amended_by
   target: pt:dre:155732595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Alterados, a partir de 28.07.2021, os arts. 16.º e 17.º do Dec Lei 70/2007 de 26-mar, na versão republicada pelo
+    presente diploma, pelo(a) Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
 - type: cites
   target: eli:http://data.dre.pt/e
   label: null
@@ -123,16 +129,74 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/46/2019/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/46/2019/02/22/p/dre
+- type: cites
+  target: pt:dre:120038537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:124097551:por
+  label: Retificado o art. 4.º pelo(a) Declaração de Retificação n.º 38/2019 - Diário da República n.º 159/2019, Série I de
+    2019-08-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/38-2019-124097551
+  date: '2019-08-21'
 article_structure:
-  article_count: 31
+  article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:48Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +261,9 @@ b) «Percentagem de redução», a percentagem de redução relativamente ao pre
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A redução de preço anunciada deve ser real, por referência ao preço mais baixo anteriormente praticado para o mesmo produto ou, quando se trate de um produto não comercializado anteriormente pelo agente económico, por referência ao preço a praticar após o período de redução.
 
@@ -209,7 +275,9 @@ b) «Percentagem de redução», a percentagem de redução relativamente ao pre
 
 5 - Incumbe ao operador económico a prova documental do preço anteriormente praticado e, no caso de serem utilizadas condições mais vantajosas do que as utilizadas nos períodos de vendas sem redução de preço, a prova de que a vantagem é real e concretizável.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A venda em saldos pode realizar-se em qualquer período do ano, desde que não ultrapasse, no seu conjunto, a duração de 124 dias por ano.
 
@@ -229,13 +297,17 @@ c) [Anterior alínea b).]
 
 d) [Anterior alínea c).]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - As promoções podem ocorrer em qualquer momento considerado oportuno pelo comerciante.
 
 2 - [...].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Sem prejuízo do disposto na alínea a) do n.º 1 do artigo anterior, a venda sob a forma de liquidação fica sujeita a uma declaração emitida pelo operador económico dirigida à ASAE, através do Portal «e.Portugal».
 
@@ -257,7 +329,9 @@ f) [Anterior alínea e).]
 
 4 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]:
 
@@ -295,13 +369,13 @@ O presente decreto-lei entra em vigor 60 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de julho de 2019. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Maria de Fátima de Jesus Fonseca - Pedro Gramaxo de Carvalho Siza Vieira.
 
-**Promulgado em 31 de julho de 2019.**
+Promulgado em 31 de julho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 1 de agosto de 2019.**
+Referendado em 1 de agosto de 2019.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
 
@@ -514,3 +588,5 @@ c) (Revogada.)
 ###### Artigo 19.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
+
+112512526

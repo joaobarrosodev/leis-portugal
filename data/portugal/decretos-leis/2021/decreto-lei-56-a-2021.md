@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 129/2021, 1º Suplemento, Série I de 2021-07-06
   number: '129'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 75-(2) a 75-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/12901/0000200006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/56-a/2021/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-a-2021-166579339
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb1bd29a5566170aef1262421387dc37eabf159f10c11246afaaa356b6497a99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e474a8f957db24a0191d236a4d4032348eecc35392622d51241f2331de368ef3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,40 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Empresa
-- Espetáculos e Divertimentos Públicos
-- Turismo
-- Instituto do Emprego e Formação Profissional
+- Apoio Extraordinário ao Rendimento dos Trabalhadores
 - Compensação Remuneratória
 - Contribuições da Segurança Social
-- Definição de Competências
-- Local de Divertimento
 - Controlo Sanitário
-- Saúde Pública
-- Estabelecimento de Bebidas
-- LAY OFF
-- Órgãos Sociais
+- Cultura
+- Definição de Competências
 - Doença Infecciosa
+- Empresa
 - Epidemia
+- Espetáculos e Divertimentos Públicos
+- Estabelecimento de Bebidas
+- Financiamento
+- Instituto do Emprego e Formação Profissional
+- LAY OFF
+- Local de Divertimento
+- Órgãos Sociais
+- Pequenas e Médias Empresas
+- PME
 - Posto de Trabalho
 - Prestações da Segurança Social
-- Cultura
 - Prorrogação de Prazo
 - Proteção Social
 - Redução do Período Normal de Trabalho
-- Pequenas e Médias Empresas
-- PME
+- Saúde Pública
 - Segurança Social
 - Subsídio
 - Trabalhador Independente
 - Trabalhador por Conta de Outrem
-- Apoio Extraordinário ao Rendimento dos Trabalhadores
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/d
   label: null
@@ -139,16 +145,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139209038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145714398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148853501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149971740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154202310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154361179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154946852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160149401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160994171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163158834:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:58Z'
   warnings: []
   errors: []
 ---
@@ -239,7 +293,9 @@ iii) Até 100 % nos meses de junho, julho e agosto de 2021, para o empregador do
 
 5 - Para efeitos de fiscalização, a percentagem de trabalhadores referida na subalínea ii) da alínea d) do n.º 1 é aferida pela declaração de remunerações do mês correspondente.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Os valores da compensação retributiva pagos pela segurança social nos termos do artigo 7.º são financiados pelo Orçamento do Estado.
 
@@ -303,12 +359,14 @@ O artigo 6.º do [Decreto-Lei n.º 23-A/2021](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministros de 1 de julho de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - João Rodrigo Reis Carvalho Leão - Graça Maria da Fonseca Caetano Gonçalves. - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 5 de julho de 2021.**
+Promulgado em 5 de julho de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de julho de 2021.**
+Referendado em 6 de julho de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114382874

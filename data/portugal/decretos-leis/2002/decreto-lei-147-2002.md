@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/147/2002/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90b2d83fd58c740f9f704f5e0324bf01a132ca58d87e4f6acf0a1bc52dabb797
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3a23b11ce382d2d4b99c70d6f780ab49948157a2a6063e035904a3f1fcdb04a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Geral
-- Sociedade Anónima
 - CASA da Música-porto 2001
-- Manifestação Cultural
-- Construção Civil
 - Conselho de Administração
+- Construção Civil
 - Definição de Competências
 - Empreitada de Obras Públicas
 - Estatuto
 - Mandato
+- Manifestação Cultural
 - Música
-- Porto 2001
 - Porto
+- Porto 2001
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/38/2001/02/08/p/dre
@@ -88,16 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/418-b/1998/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/418-b/1998/12/31/p/dre
+- type: cites
+  target: pt:dre:319899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570507:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:37Z'
   warnings: []
   errors: []
 ---
@@ -134,13 +142,13 @@ Os artigos 1.º, 3.º e 12.º do [Decreto-Lei n.º 418-B/98](https://diariodarep
 
 4 - A partir da data de entrada em vigor do presente diploma, todas as menções legais, contratuais ou outras referentes à sociedade Porto 2001, S. A., devem considerar-se, para todos os efeitos legais, como sendo feitas à sociedade Casa da Música/Porto 2001, S. A.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - A sociedade tem por objecto social a gestão e a execução das empreitadas para a construção do edifício denominado de Casa da Música, sito na Avenida da Boavista, 604-610, 4100-111 Porto, e o exercício dos actos necessários à utilização, manutenção e gestão daquele edifício, bem como a promoção e a realização de actividades culturais no domínio da música.
 
 2 - A sociedade tem também por objecto a gestão e a execução das obras iniciadas pela sociedade Porto 2001, S. A., que não estejam concluídas até 30 de Junho de 2002.
 
-###### Artigo 12.º
+Artigo 12.º
 
 1 - O mandato dos membros eleitos dos órgãos sociais durará até à tomada de posse dos cargos dirigentes da entidade que irá gerir a Casa da Música.
 
@@ -158,7 +166,9 @@ Tipo, denominação e duração
 
 2 - A sociedade dura até à tomada de posse dos cargos dirigentes da entidade que irá gerir a Casa da Música.
 
-###### Artigo 3.º — Objecto
+Artigo 3.º
+
+Objecto
 
 1 - A sociedade tem por objecto social a gestão e a execução das empreitadas para a construção do edifício denominado de Casa da Música, sito na Avenida da Boavista, 604-610, 4100-111 Porto, e o exercício dos actos necessários à utilização, manutenção e gestão daquele edifício, bem como a promoção e a realização de actividades culturais no domínio da música.
 
@@ -166,7 +176,9 @@ Tipo, denominação e duração
 
 3 - ...
 
-###### Artigo 10.º — Competência da assembleia geral
+Artigo 10.º
+
+Competência da assembleia geral
 
 1 - ...
 
@@ -190,13 +202,17 @@ i) ...
 
 2 - As deliberações são tomadas por maioria de votos dos accionistas presentes ou representados na assembleia geral, sempre que a lei não exija maior número.
 
-###### Artigo 13.º — Composição do conselho de administração
+Artigo 13.º
+
+Composição do conselho de administração
 
 1 - O conselho de administração é composto por três membros, sendo um deles o seu presidente, que deverá ser designado pela assembleia geral.
 
 2 - ...
 
-###### Artigo 14.º — Competência do conselho de administração
+Artigo 14.º
+
+Competência do conselho de administração
 
 1 - ...
 
@@ -230,7 +246,9 @@ n) ...
 
 3 - (Anterior n.º 4.)
 
-###### Artigo 15.º — Reuniões do conselho de administração
+Artigo 15.º
+
+Reuniões do conselho de administração
 
 1 - O conselho de administração reúne mensalmente e ainda sempre que convocado pelo seu presidente, por sua iniciativa ou a pedido de um dos vogais.
 
@@ -240,7 +258,9 @@ n) ...
 
 4 - ...
 
-###### Artigo 16.º — Representação
+Artigo 16.º
+
+Representação
 
 1 - A sociedade obriga-se:
 
@@ -252,13 +272,17 @@ c) Pela assinatura de um mandatário ou procurador da sociedade.
 
 2 - Em assuntos de mero expediente bastará a assinatura de um dos vogais.
 
-###### Artigo 23.º — Dissolução e liquidação
+Artigo 23.º
+
+Dissolução e liquidação
 
 1 - A sociedade dissolve-se nos termos da lei, aquando da criação da entidade que irá gerir a Casa da Música.
 
 2 - ...
 
-###### Artigo 24.º — Mandato dos órgãos sociais
+Artigo 24.º
+
+Mandato dos órgãos sociais
 
 1 - O mandato dos membros eleitos dos órgãos sociais durará até à tomada de posse dos cargos dirigentes da entidade que irá gerir a Casa da Música.
 
@@ -276,12 +300,12 @@ O presente diploma entra em vigor no dia 30 de Junho de 2002, data em que cessam
 
 Visto e aprovado em Conselho de Ministros de 21 Março de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - António Ricardo Rocha de Magalhães - José Sócrates Carvalho Pinto de Sousa - Augusto Ernesto Santos Silva.
 
-**Promulgado em 7 de Maio de 2002.**
+Promulgado em 7 de Maio de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Maio de 2002.**
+Referendado em 9 de Maio de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

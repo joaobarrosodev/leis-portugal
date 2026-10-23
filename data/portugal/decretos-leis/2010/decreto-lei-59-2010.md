@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/59/2010/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2010-332745
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28eb4dfeeebee724d5c3d7f351dbfd0a97f2e776decc975d8145c9164e3b1eef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 205fdec679b3fd70fecab01a114e8cad107e41ab5765481ee495459cdc2dfc2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Cinemateca Portuguesa-Museu do Cinema
 - Comissão de Classificação
-- Inspecção Geral das Actividades Culturais
 - Criação de Lugares
 - Definição de Competências
 - Diretor
-- Cinemateca Portuguesa-Museu do Cinema
+- Inspecção Geral das Actividades Culturais
 - Ministério da Cultura
 - Orgânica
+- Pessoal Dirigente
 - Presidente
 - Quadro de Pessoal
 - Subdiretor
@@ -84,6 +84,38 @@ relationships:
   target: pt:dre:73958532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Extinto o Ministério da Cultura, e determinada a transição para a Presidência do Conselho de Ministros dos organismos,\
+    \ entidades e estruturas identificados no Dec lei 215/2006 de 27-Out, alterado pelo presente diploma, assim como de todos\
+    \ os serviços, organismos e estruturas que não tenham sido expressamente incorporados em outros ministérios pelo DEC LEI.86-A/2011.12.07.2011.PCM,\
+    \ DR.IS [132-Supl] de 12.07.2011, nos termos do nº 3 do seu art. 10º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amended_by
+  target: pt:dre:258755:por
+  label: "Repristinado durante o ano de 2013 o Dec Lei 94/2007, de 29-mar, na redação do presente diploma, pelo DEC LEI.36/2013.11.03.2013.MF,\
+    \ DR.IS [49] de 11.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2013-258755
+  date: '2013-03-11'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Repristinado durante o ano de 2014 o Dec Lei 94/2007, de 29-mar, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR,\
+    \ DR.IS [253-Supl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Repristinado durante o ano de 2015 o Dec Lei 94/2007, de 29-mar, na redação do presente diploma, pelo(a) Lei n.º
+    82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Repristinado o Dec. Lei 94/2007 de 29-mar, na redação do presente diploma, pelo(a) Lei n.º 7-A/2016 - Diário da República
+    n.º 62/2016, 1º Suplemento, Série I de 2016-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-a-2016-73958532
+  date: '2016-03-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-b/1992/06/01/p/dre
   label: null
@@ -104,16 +136,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:410283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636413:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:642010:por
+  label: "Revogado o Dec Lei 215/2006 de 27-Out, na redação do presente diploma, pelo DEC LEI.126-A/2011.29.12.2011.PCM, DR.IS\
+    \ [249-Supl] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-a-2011-642010
+  date: '2011-12-29'
+- type: repealed_by
+  target: pt:dre:174867:por
+  label: "Revogado, a partir de 01.10.2012, o Dec Lei 94/2007, de 29-mar, na redação do presente diploma, pelo DEC LEI.208/2012.07.09.2012.PCM,\
+    \ DR.IS [174] de 07.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2012-174867
+  date: '2012-09-07'
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:34Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +218,9 @@ Os artigos 12.º e 19.º do [Decreto-Lei n.º 215/2006](https://diariodarepublic
 
 4 - O presidente da comissão de classificação é um cargo de direcção superior de 2.º grau.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -178,7 +244,9 @@ Os artigos 4.º e 5.º do [Decreto-Lei n.º 94/2007](https://diariodarepublica.p
 
 2 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -190,26 +258,28 @@ Os artigos 4.º e 5.º do [Decreto-Lei n.º 94/2007](https://diariodarepublica.p
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria Gabriela da Silveira Ferreira Canavilhas.
 
-**Promulgado em 24 de Maio de 2010.**
+Promulgado em 24 de Maio de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de Maio de 2010.**
+Referendado em 27 de Maio de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-## ANEXO — ANEXO I
+## ANEXO
+
+## ANEXO I
 
 (ao [Decreto-Lei n.º 215/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2006-545647), de 27 de Outubro)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/10900/0192401925.pdf))](https://files.diariodarepublica.pt/1s/2010/06/10900/0192401925.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/10900/0192401925.pdf)
 
 ## ANEXO II — (ao [Decreto-Lei n.º 215/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2006-545647), de 27 de Outubro)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/10900/0192401925.pdf))](https://files.diariodarepublica.pt/1s/2010/06/10900/0192401925.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/10900/0192401925.pdf)

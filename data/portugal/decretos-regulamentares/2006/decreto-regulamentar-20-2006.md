@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/20/2006/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-2006-544826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0206e4c1ed78891e2a455894a956d090aa25d5c0499a4c506637141b040297a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c4128f891c582f1baadb4fff9181300d474fc8cdbbbff51ca416a2c7716e24c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Matosinhos
 - Ordenamento do Território
 - Plano Director Municipal
-- Matosinhos
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:439394:por
+  label: "Prorrogada, por um ano, a suspensão do PDM de Matosinhos, pela RES.166/2008.10.11.2008.PCM, DR.IS [218] de 10.11.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/166-2008-439394
+  date: '2008-11-10'
+- type: amended_by
+  target: pt:dre:494007:por
+  label: "Prorrogada, por mais um ano, a suspensão do PDM de Matosinhos, pela RES.67/2009.07.08.2009.PCM, DR.IS [152] de 07.08.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/67-2009-494007
+  date: '2009-08-07'
+- type: amended_by
+  target: pt:dre:59009027:por
+  label: Tornada pública a aprovação da suspensão parcial, pelo prazo de doze meses, do Plano Diretor Municipal de Matosinhos,
+    cuja ratificação foi publicada pelo Desp 92/92 de 03-set do MPLAT, com as alterações introduzidas pelo presente diploma,
+    pelo(a) Aviso n.º 13106/2014 - Diário da República n.º 228/2014, Série II de 2014-11-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13106-2014-59009027
+  date: '2014-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/310/2003/12/10/p/dre
   label: null
@@ -95,16 +114,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/35/2003/03/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/35/2003/03/12/p/dre
+- type: cites
+  target: pt:dre:172315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:43Z'
   warnings: []
   errors: []
 ---
@@ -143,14 +186,14 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 3 de Agosto de 2006. - António Luís Santos Costa - António Luís Santos Costa - Humberto Delgado Ubach Chaves Rosa - Mário Lino Soares Correia.
 
-**Promulgado em 25 de Outubro de 2006.**
+Promulgado em 25 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 27 de Outubro de 2006.**
+Referendado em 27 de Outubro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22400/79777978.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22400/79777978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22400/79777978.pdf)

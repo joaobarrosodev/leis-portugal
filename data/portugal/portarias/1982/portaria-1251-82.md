@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1251-1982-318160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T07:06:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60d25e83e1b1eec0c6c8e162f8a467b51c83e6ec9bdce02f64d6fc9028e933f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26ba468a80947320b457415b456055e5fff1b4757c69771d20285583e7dd0175
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:06:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estabelecimento Hospitalar
+- Hospital Concelhio
+- Pessoal de Enfermagem
+- Quadro de Pessoal
+- Sertã
+relationships:
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573681:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:06:39Z'
   warnings: []
   errors: []
 ---
@@ -92,4 +109,4 @@ Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Adminis
 
 Quadro de pessoal do Hospital Concelhio da Sertã
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30100/42904290.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30100/42904290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30100/42904290.pdf)

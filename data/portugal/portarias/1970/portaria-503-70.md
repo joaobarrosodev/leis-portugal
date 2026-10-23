@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/503-1970-148425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ac7f595da702d66ec1cf9fcc589bf47d4544e02291f5807a6392feec0dfcc60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf5d6811f7b32e2f0b407d3b7aa4026e80f608ad9652a0067d848187f515f4a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:37Z'
   warnings: []
   errors: []
 ---
@@ -90,22 +90,22 @@ Pelo Ministro da Educação Nacional, Justino Mendes de Almeida, Subsecretário 
 
 REGULAMENTO DO PRÉMIO ESCOLAR SALUSTIANO DOS SANTOS LEAL E D. MARIANA LOPES FERREIRA LEAL
 
-###### Artigo 1.º É criado, por iniciativa do Sr. Fernando de Barros Leal, o Prémio Escolar Salustiano dos Santos Leal e D. Mariana Lopes Ferreira Leal, como estímulo aos alunos das escolas do ensino primário do núcleo de Runa, freguesia do mesmo nome, concelho de Torres Vedras.
+Artigo 1.º É criado, por iniciativa do Sr. Fernando de Barros Leal, o Prémio Escolar Salustiano dos Santos Leal e D. Mariana Lopes Ferreira Leal, como estímulo aos alunos das escolas do ensino primário do núcleo de Runa, freguesia do mesmo nome, concelho de Torres Vedras.
 
-###### Art. 2.º O fundo de manutenção do referido Prémio é constituído pela importância de 20000$00, oferecida para esse fim, convertida em certificado de renda perpétua da Junta do Crédito Público, assentado à Direcção do Distrito Escolar de Lisboa.
+Art. 2.º O fundo de manutenção do referido Prémio é constituído pela importância de 20000$00, oferecida para esse fim, convertida em certificado de renda perpétua da Junta do Crédito Público, assentado à Direcção do Distrito Escolar de Lisboa.
 
-###### Art. 3.º - 1. O rendimento do referido fundo será anualmente distribuído em partes iguais por dois alunos (um de cada sexo) das escolas referidas no artigo 1.º que tenham concluído com aprovação o exame do ciclo elementar (4.ª classe) do ensino primário e mais se tenham distinguido na prestação das provas desse exame.
+Art. 3.º - 1. O rendimento do referido fundo será anualmente distribuído em partes iguais por dois alunos (um de cada sexo) das escolas referidas no artigo 1.º que tenham concluído com aprovação o exame do ciclo elementar (4.ª classe) do ensino primário e mais se tenham distinguido na prestação das provas desse exame.
 
 2. Se se verificar igualdade de mérito entre vários alunos na prestação das provas, far-se-á a escolha em atenção ao currículo escolar anterior.
 
-###### Art. 4.º - 1. Os nomes dos alunos a premiar serão comunicados pelos respectivos professores, após a realização dos exames da 4.ª classe, ao delegado escolar, que, por sua vez, os transmitirá à Direcção do Distrito Escolar.
+Art. 4.º - 1. Os nomes dos alunos a premiar serão comunicados pelos respectivos professores, após a realização dos exames da 4.ª classe, ao delegado escolar, que, por sua vez, os transmitirá à Direcção do Distrito Escolar.
 
 2. No caso de surgirem dificuldades na escolha dos candidatos, será o assunto resolvido pelo director escolar.
 
-###### Art. 5.º A distribuição dos prémios far-se-á anualmente no mês de Outubro, logo após o início do ano lectivo, e de preferência num domingo, em sessão solene a realizar num dos edifícios escolares da localidade, presidida pelo director do Distrito Escolar de Lisboa ou por um seu representante. Devem estar presentes os professores e alunos e pôr-se-á em relevo o significado do Prémio.
+Art. 5.º A distribuição dos prémios far-se-á anualmente no mês de Outubro, logo após o início do ano lectivo, e de preferência num domingo, em sessão solene a realizar num dos edifícios escolares da localidade, presidida pelo director do Distrito Escolar de Lisboa ou por um seu representante. Devem estar presentes os professores e alunos e pôr-se-á em relevo o significado do Prémio.
 
-###### Art. 6.º Os alunos que não comparecerem no dia designado para a atribuição dos prémios, nem os reclamarem no decorrer desse ano escoltar, perderão o direito aos mesmos em benefício das caixas escolares.
+Art. 6.º Os alunos que não comparecerem no dia designado para a atribuição dos prémios, nem os reclamarem no decorrer desse ano escoltar, perderão o direito aos mesmos em benefício das caixas escolares.
 
-###### Art. 7.º Deverá ficar arquivado, pelo período de cinco anos, na Direcção Escolar, em relação à atribuição dos prémios de cada ano, um breve relatório das circunstâncias de que a mesma se tiver revestido.
+Art. 7.º Deverá ficar arquivado, pelo período de cinco anos, na Direcção Escolar, em relação à atribuição dos prémios de cada ano, um breve relatório das circunstâncias de que a mesma se tiver revestido.
 
 Pelo Director-Geral do Ensino Primário, Joaquim José Gomes Belo.

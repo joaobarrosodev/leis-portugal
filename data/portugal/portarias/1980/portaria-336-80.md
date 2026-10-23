@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/336-1980-472942
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:17:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 176c7041b92f492e01a6960c65ecb91da6ac4a0fe4334fadd91c8a2619bf3b08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bad7db86d1bc9d835beb1ef955c698219782d05f135eaaf38cd979c62a72903e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:17:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Leite
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:388994:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:388580:por
+  label: "Mantidos os suplementos de sazonalidade constantes no ponto 2 do n.º 3 pela PORT.227/81.04.03.1981.MFP, DR.IS [52]\
+    \ de 04.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/227-1981-388580
+  date: '1981-03-04'
+- type: amended_by
+  target: pt:dre:388839:por
+  label: "Alterado os n.os 1 e 2 do n.º 4.º, o n.º 2 do n.º 21.º, os n.os 29.º, 30.º, 31.º e 33.º pela PORT.338/81.10.04.1981.MFP,\
+    \ DR.IS [84] de 10.04.1981\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/338-1981-388839
+  date: '1981-04-10'
+- type: cites
+  target: pt:dre:380513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:388994:por
+  label: "Revogada, na sua última redacção, pela PORT.339/81.14.04.1981.MFP, DR.IS [87] de 14.04.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/339-1981-388994
+  date: '1981-04-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:17:59Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +235,7 @@ Leite ultrapasteurizado magro ... 0,5
 
 14.º - 1 - Os preços máximos de leite pasteurizado para utilizar fora do local de aquisição, no continente, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
 
 2 - Aos preços fixados no número anterior para a venda ao público poderá acrescer a importância de $30 por embalagem vendida para consumo fora da localidade onde se situam as instalações de tratamento, revertível para o centro de tratamento se efectuar a distribuição até ao retalho ou para o retalhista se se abastecer no centro de tratamento.
 
@@ -208,7 +251,7 @@ Leite ultrapasteurizado magro ... 0,5
 
 16.º - 1 - Os preços máximos, no continente, do leite ultrapasteurizado de fabrico continental, para utilizar fora do local de aquisição, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
 
 2 - É permitida a absorção da margem de distribuição pela central de tratamento, ou pelo retalhista, sempre que efectuem tal operação.
 
@@ -216,7 +259,7 @@ Leite ultrapasteurizado magro ... 0,5
 
 17.º - 1 - Os preços máximos, no continente, do leite ultrapasteurizado de fabrico açoriano, para utilizar fora do local de aquisição, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
 
 2 - É permitida a absorção da margem de distribuição pelo consignatário ou pelo retalhista sempre que efectuem tal operação.
 
@@ -224,7 +267,7 @@ Leite ultrapasteurizado magro ... 0,5
 
 18.º - 1 - Os preços máximos de leite esterilizado de fabrico nacional para utilizar fora do local de aquisição, no continente, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
 
 2 - É permitida a absorção da margem de distribuição pela central de tratamento ou pelo retalhista, sempre que efectuem tal operação.
 
@@ -232,7 +275,7 @@ Leite ultrapasteurizado magro ... 0,5
 
 19.º - 1 - Os preços máximos de leite especial pasteurizado, para utilizar fora do local de aquisição no continente, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
 
 2 - Aos preços fixados no n.º 1 deste número para venda ao público poderá acrescer a importância de $30 por embalagem vendida para consumo fora da localidade onde se situam as instalações de tratamento, revertível para o centro de tratamento quando efectuar a distribuição até ao retalho ou para o retalhista se se abastecer no centro de tratamento.
 
@@ -266,11 +309,11 @@ Leite ultrapasteurizado magro ... 0,5
 
 32.º - 1 - Os preços máximos do queijo tipo flamengo com 40% ou mais de gordura, de fabrico continental, para venda ao público no continente, são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
 
 2 - Os preços máximos do queijo tipo flamengo com 40% ou mais de gordura, de fabrico açoriano, para venda ao público, no continente, são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
 
 3 - Quando o fabricante ou o consignatário colocar o produto no armazém do distribuidor poderá deduzir da margem máxima fixada a este agente económico a importância de 2$50 por quilograma.
 
@@ -284,25 +327,25 @@ Leite ultrapasteurizado magro ... 0,5
 
 34.º - 1 - Os preços máximos do leite em pó a granel de fabrico açoriano, com destino à indústria utilizadora continental, são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
 
 2 - O leite em pó a granel de fabrico açoriano e continental embalado pela indústria continental, para venda ao público no continente como leite não instantâneo, beneficiará do subsídio seguinte, a suportar pelo Fundo de Abastecimento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
 
 3 - O leite em pó a granel de fabrico açoriano embalado pela indústria açoriana, para venda ao público no continente como leite não instantâneo, beneficiará do subsídio seguinte, a suportar pelo Fundo de Abastecimento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
 
 4 - Os subsídios referidos nos n.os 2 e 3 anteriores serão liquidados directamente pela Junta Nacional dos Produtos Pecuários às entidades embaladoras.
 
 35.º - 1 - Os preços máximos de leite em pó não instantâneo embalado no continente, para venda ao público no continente, são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
 
 2 - Os preços máximos do leite em pó não instantâneo embalado nos Açores, para venda ao público no continente, são os seguintes por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13900/14241428.pdf)
 
 3 - Os preços máximos de venda ao público de outras fracções serão os correspondentes aos fixados por quilograma.
 
@@ -336,4 +379,4 @@ Lista anexa a que se refere o ponto 1 do n.º 7.º da seguinte portaria
 
 7) Vasos colectores e medidores.
 
-**O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha. - O Ministro do Comércio e Turismo, Basílio Adolfo Mendonça Horta da Franca.**
+O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha. - O Ministro do Comércio e Turismo, Basílio Adolfo Mendonça Horta da Franca.

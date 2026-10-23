@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22191-1966-479649
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T02:20:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3d1c1381d6131ce851d887ce462df5cfbaa69f99b7923852f23cef5f86bb159
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d350417e6c36ad1db0abb0a57206ca11ecb1ebe45a84d437a995ce296a4da4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:20:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:20:21Z'
   warnings: []
   errors: []
 ---
@@ -88,12 +88,12 @@ Ministério da Educação Nacional, 1 de Setembro de 1966. - Pelo Ministro da Ed
 
 REGULAMENTO DO PRÉMIO MANUEL ALVES MONTEIRO INSTITUÍDO NA ACADEMIA DAS CIÊNCIAS DE LISBOA
 
-###### Artigo 1.º O prémio científico eventual denominado «Prémio Manuel Alves Monteiro», instituído na Academia das Ciências de Lisboa em 1966, no valor de 20000$00, destina-se a estimular os estudos de higiene e medicina social para melhoria da saúde pública em Portugal.
+Artigo 1.º O prémio científico eventual denominado «Prémio Manuel Alves Monteiro», instituído na Academia das Ciências de Lisboa em 1966, no valor de 20000$00, destina-se a estimular os estudos de higiene e medicina social para melhoria da saúde pública em Portugal.
 
-###### Art. 2.º O prémio será atribuído por uma só vez, mediante concurso realizado nos termos do Regulamento Geral dos Prémios da Academia das Ciências de Lisboa, a autor português de obra original sobre higiene e medicina social, publicada no ano da abertura ao concurso ou inédita.
+Art. 2.º O prémio será atribuído por uma só vez, mediante concurso realizado nos termos do Regulamento Geral dos Prémios da Academia das Ciências de Lisboa, a autor português de obra original sobre higiene e medicina social, publicada no ano da abertura ao concurso ou inédita.
 
-###### Art. 3.º A abertura do concurso será comunicada às Faculdades de Medicina do País e à Direcção-Geral de Saúde.
+Art. 3.º A abertura do concurso será comunicada às Faculdades de Medicina do País e à Direcção-Geral de Saúde.
 
-###### Art. 4.º Se o prémio não for atribuído no primeiro ano em que tiver sido posto a concurso, será novamente posto a concurso até ser atribuído.
+Art. 4.º Se o prémio não for atribuído no primeiro ano em que tiver sido posto a concurso, será novamente posto a concurso até ser atribuído.
 
 Direcção-Geral do Ensino Superior e das Belas-Artes, 1 de Setembro de 1966. - O Director-Geral, João Alexandre Ferreira de Almeida.

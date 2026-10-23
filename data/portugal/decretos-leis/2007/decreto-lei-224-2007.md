@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/224/2007/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-2007-638772
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fd859864b0ebdbc8933b7986fcfe45b9383ea8f6dd864971d5b39f9929957d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 311ce2c16679c26338cd9b9809a672206c5bcfd8d3b4984b979f06ac01ee427d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Modernização Administrativa
 - Cadastro Geométrico
-- Ordenamento do Território
-- Instituto dos Registos e do Notariado
+- Câmara Municipal
 - Definição de Competências
 - Direcção Geral dos Impostos
-- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
+- Documento Eletrónico
 - Fiscalização
 - Informação Geográfica
-- Segurança da Informação
-- Documento Eletrónico
-- Programa Simplex
-- Sistema de Informação
-- Prédio Rústico
-- Propriedade Imobiliária
-- Câmara Municipal
-- Registo Predial
-- Prédio Urbano
-- Sistema Nacional de Exploração e Gestão de Informação Cadastral
+- Instituto dos Registos e do Notariado
 - Instituto Geográfico Português
+- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
+- Modernização Administrativa
+- Ordenamento do Território
+- Prédio Rústico
+- Prédio Urbano
+- Programa Simplex
+- Propriedade Imobiliária
+- Registo Predial
+- Segurança da Informação
+- Sistema de Informação
+- Sistema Nacional de Exploração e Gestão de Informação Cadastral
 relationships:
 - type: amended_by
   target: pt:dre:911303058:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:287820:por
+  label: "Dada nova redacção ao art. 52º e aditado um cap. V-A, com a epígrafe «Cadastro predial em zonas de intervenção florestal»,\
+    \ integrado pelos arts. 48º-A a 48º-C, ao presente diploma pelo DEC LEI.65/2011.16.05.2011.MAOT, DR.IS [94] de 16.05.2011,\
+    \ que o republicou na sua redacção actual.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-2011-287820
+  date: '2011-05-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/172/1995/07/18/p/dre
   label: null
@@ -104,16 +111,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/45/2006/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/45/2006/05/04/p/dre
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660365:por
+  label: null
+  source: null
 article_structure:
   article_count: 54
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:12Z'
   warnings: []
   errors: []
 ---
@@ -828,15 +847,15 @@ O presente decreto-lei entra em vigor no 1.º dia útil após a sua publicação
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Humberto Delgado Ubach Chaves Rosa - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 16 de Maio de 2007.**
+Promulgado em 16 de Maio de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 17 de Maio de 2007.**
+Referendado em 17 de Maio de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Configuração do procedimento de atribuição do NIP
 

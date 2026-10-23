@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/877-1981-564202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T06:56:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd9eb9eaa67c06bb496c8d390b5ca49a9cd7ee876d165e844dcf2b7bde08b299
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 123d710b4968cbff9fb100195cddc725c35be3779eb9946017a0d91d69fb2bb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:56:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Abono de Família
+- Deficiente
+- Impresso
+- Segurança Social
+relationships:
+- type: cites
+  target: pt:dre:252069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658745:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:56:52Z'
   warnings: []
   errors: []
 ---
@@ -103,4 +123,4 @@ Modelo C. P.-D 16.15 - Boletim de Prestações Complementares de Abono de Famíl
 
 Ministério das Finanças e do Plano, 2 de Setembro de 1981. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/22600/26182619.pdf))](https://files.diariodarepublica.pt/1s/1981/10/22600/26182619.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/22600/26182619.pdf)

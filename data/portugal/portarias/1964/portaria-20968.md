@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20968-1964-535031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:53:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89020e06e10d6cab70634da3fa0b5d5abb0e79f1851a501ce76f01b820a905c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9594dc34a7a4d7f5dd0286faa91f2bd1fa429dd19b82cf4c9ba5ef9fb51306a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:53:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:53:21Z'
   warnings: []
   errors: []
 ---
@@ -88,35 +88,35 @@ Ministério da Educação Nacional, 15 de Dezembro de 1964. - O Ministro da Educ
 
 REGULAMENTO PARA A CONCESSÃO DO PRÉMIO MARCONI
 
-###### Artigo 1.º O Prémio Marconi, que será anualmente distribuído nos Institutos Industriais de Lisboa e do Porto e nas Escolas Industriais de Fonseca Benevides, em Lisboa, e do Infante D. Henrique, no Porto, é, nos Institutos, de 5000$00 e, nas Escolas, de 2500$00.
+Artigo 1.º O Prémio Marconi, que será anualmente distribuído nos Institutos Industriais de Lisboa e do Porto e nas Escolas Industriais de Fonseca Benevides, em Lisboa, e do Infante D. Henrique, no Porto, é, nos Institutos, de 5000$00 e, nas Escolas, de 2500$00.
 
 Institutos Industriais
 
-###### Art. 2.º O prémio será, em cada Instituto, atribuído ao diplomado com o curso de Electrotecnia e Máquinas que tiver a maior classificação média nas cadeiras de Electricidade, Máquinas Eléctricas, Instalações Eléctricas e Correntes Fracas, desde que essa classificação média seja no mínimo igual a 15 valores e a classificação final do curso não seja inferior a 14 valores.
+Art. 2.º O prémio será, em cada Instituto, atribuído ao diplomado com o curso de Electrotecnia e Máquinas que tiver a maior classificação média nas cadeiras de Electricidade, Máquinas Eléctricas, Instalações Eléctricas e Correntes Fracas, desde que essa classificação média seja no mínimo igual a 15 valores e a classificação final do curso não seja inferior a 14 valores.
 
 § 1.º A existência de reprovação durante o curso exclui a atribuição do prémio referido no artigo anterior.
 
 § 2.º Independentemente das referidas classificações, o citado prémio só será atribuído mediante parecer favorável do conselho escolar do estabelecimento de ensino de que se trate.
 
-###### Art. 3.º Os Institutos Industriais de Lisboa e do Porto comunicarão à Companhia Portuguesa Rádio Marconi, até 31 de Dezembro de cada ano, o nome do respectivo diplomado que, tendo completado a parte escolar do curso no ano anterior, já tenha sido aprovado no exame de aptidão profissional e satisfaça às condições do artigo 2.º, indicando as classificações das cadeiras ali referidas, a classificação final do curso e, ainda, o parecer do conselho escolar sobre a atribuição do prémio.
+Art. 3.º Os Institutos Industriais de Lisboa e do Porto comunicarão à Companhia Portuguesa Rádio Marconi, até 31 de Dezembro de cada ano, o nome do respectivo diplomado que, tendo completado a parte escolar do curso no ano anterior, já tenha sido aprovado no exame de aptidão profissional e satisfaça às condições do artigo 2.º, indicando as classificações das cadeiras ali referidas, a classificação final do curso e, ainda, o parecer do conselho escolar sobre a atribuição do prémio.
 
 § único. Se esta comunicação se não fizer durante o prazo indicado, poderá a Companhia Portuguesa Rádio Marconi não conceder o prémio correspondente.
 
-###### Art. 4.º A Companhia Portuguesa Rádio Marconi pode suspender, em qualquer altura, a concessão do prémio, avisando do facto os Institutos até 30 dias antes do início do ano lectivo. Nesse caso, as disposições deste regulamento deixarão de se aplicar aos alunos que nesse ano lectivo e nos seguintes se matricularem no último ano do curso respectivo nas cadeiras de Máquinas Eléctricas, Instalações Eléctricas e Correntes Fracas referidas no artigo 2.º
+Art. 4.º A Companhia Portuguesa Rádio Marconi pode suspender, em qualquer altura, a concessão do prémio, avisando do facto os Institutos até 30 dias antes do início do ano lectivo. Nesse caso, as disposições deste regulamento deixarão de se aplicar aos alunos que nesse ano lectivo e nos seguintes se matricularem no último ano do curso respectivo nas cadeiras de Máquinas Eléctricas, Instalações Eléctricas e Correntes Fracas referidas no artigo 2.º
 
 Escolas Industriais
 
-###### Art. 5.º O prémio será, em cada Escola, atribuído ao aluno diplomado com o curso de montador radiotécnico, quer no regime normal quer no regime de ensino de aperfeiçoamento, que tiver a maior classificação média nas disciplinas de Noções de Electrónica, Princípios de Telecomunicações e no exame de aptidão profissional, desde que essa classificação média não seja inferior a 15 valores e a classificação final não seja inferior a 14 valores.
+Art. 5.º O prémio será, em cada Escola, atribuído ao aluno diplomado com o curso de montador radiotécnico, quer no regime normal quer no regime de ensino de aperfeiçoamento, que tiver a maior classificação média nas disciplinas de Noções de Electrónica, Princípios de Telecomunicações e no exame de aptidão profissional, desde que essa classificação média não seja inferior a 15 valores e a classificação final não seja inferior a 14 valores.
 
 § 1.º A existência de reprovações durante o curso exclui a atribuição do prémio referido no artigo anterior.
 
 § 2.º Independentemente das referidas classificações, o citado prémio só será atribuído mediante parecer favorável do conselho escolar do estabelecimento de ensino de que se trate.
 
-###### Art. 6.º As Escolas Industriais de Fonseca Benevides e do Infante D. Henrique comunicarão à Companhia Portuguesa Rádio Marconi, até 31 de Dezembro de cada ano, o nome do aluno que, tendo concluído a parte escolar do seu curso no ano anterior, já tenha sido submetido a exame de aptidão profissional e satisfaça às condições do artigo 5.º, indicando as classificações obtidas nas disciplinas e no exame nesse artigo referidos e, ainda, o parecer do conselho escolar sobre a atribuição do prémio.
+Art. 6.º As Escolas Industriais de Fonseca Benevides e do Infante D. Henrique comunicarão à Companhia Portuguesa Rádio Marconi, até 31 de Dezembro de cada ano, o nome do aluno que, tendo concluído a parte escolar do seu curso no ano anterior, já tenha sido submetido a exame de aptidão profissional e satisfaça às condições do artigo 5.º, indicando as classificações obtidas nas disciplinas e no exame nesse artigo referidos e, ainda, o parecer do conselho escolar sobre a atribuição do prémio.
 
 § único. Se esta comunicação se não fizer durante o prazo indicado, poderá a Companhia Portuguesa Rádio Marconi não conceder o prémio correspondente.
 
-###### Art. 7.º A Companhia Portuguesa Rádio Marconi pode suspender, em qualquer altura, a concessão do prémio referido no artigo 1.º, avisando do facto as Escolas até 30 dias antes do início do ano lectivo.
+Art. 7.º A Companhia Portuguesa Rádio Marconi pode suspender, em qualquer altura, a concessão do prémio referido no artigo 1.º, avisando do facto as Escolas até 30 dias antes do início do ano lectivo.
 
 Nesse caso, as disposições deste regulamento deixarão de se aplicar aos alunos que nesse ano lectivo e nos seguintes se matricularem no último ano dos cursos respectivos nas disciplinas referidas no artigo 5.º
 

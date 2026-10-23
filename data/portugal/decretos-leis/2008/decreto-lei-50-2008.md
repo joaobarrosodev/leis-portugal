@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/50/2008/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2008-246551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aba322fa0e2b79cc747811f09235f7d64b9960421d43b04a64a19358da1a6ba7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ff44b5408d0b456f140efd28e2bee2af3fc7a3c3fe25342e902a58e8be8d50e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Construção Civil
-- Normas de Construção
-- Regulamento Geral das Edificações Urbanas
 - Material de Construção
-- Segurança dos Edifícios
+- Normas de Construção
 - Prédio Urbano
+- Regulamento Geral das Edificações Urbanas
+- Segurança dos Edifícios
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/113/1993/04/10/p/dre
@@ -109,16 +109,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/2000/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/2000/07/20/p/dre
+- type: cites
+  target: pt:dre:171359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688801:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:01Z'
   warnings: []
   errors: []
 ---
@@ -167,12 +227,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - António José de Castro Guerra - Mário Lino Soares Correia.
 
-**Promulgado em 11 de Março de 2008.**
+Promulgado em 11 de Março de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de Março de 2008.**
+Referendado em 13 de Março de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

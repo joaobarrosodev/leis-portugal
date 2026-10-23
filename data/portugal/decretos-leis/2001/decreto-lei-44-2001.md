@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/44/2001/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2001-320076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:29:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1de0e5a08d3fcc4b9ada7991b495d92c16ade21a0b2d53ef211ada2a94ac053f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 700631d64116df9cbb4ac78705be71f2656dd2fb0d0ccddafa92e0f09e91b439
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:29:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
 subjects:
 - Cejur
 - Consultor
-- Sistema Retributivo
 - Pessoal Técnico Superior
 - Quadro de Pessoal
 - Remuneração
+- Sistema Retributivo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/286/1992/12/26/p/dre
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/75/1993/01/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/75/1993/01/20/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621683:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:29:25Z'
   warnings: []
   errors: []
 ---
@@ -129,12 +141,12 @@ MAPA ANEXO
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Alberto de Sousa Martins.
 
-**Promulgado em 18 de Janeiro de 2001.**
+Promulgado em 18 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Janeiro de 2001.**
+Referendado em 25 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/22800/28602872.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-1986-221551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f09387393ad33f64f14931d0347a252870dfeb53c2eae67494c3063bde534aed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7ccb77988f28d143ef0401f01e050db02cb4194dd4593a168814daede07ea41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Escola Prática de Polícia
+- PSP
 relationships:
 - type: amended_by
   target: pt:dre:147234:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICACAO PUBLICADA NO DR.IS, 300, 6SUPL\0L\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-12-31'
+- type: amended_by
+  target: pt:dre:286327:por
+  label: "Alterado o nº 2 do art. 20º, pelo DR.16/88.1988.04.04.MAI, DR.IS [78]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/16-1988-286327
+  date: '1988-04-04'
+- type: cites
+  target: pt:dre:152342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394918:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:147234:por
+  label: "Revogado pelo DR.17/96.1996.12.20.MAI DR.IS-B [294]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/17-1996-147234
+  date: '1996-12-20'
+- type: republished_by
+  target: pt:dre:627073:por
+  label: "Republicado o anexo III, pela DECL.DD4417.07.12.1986.PCM, DR.IS [300]6ºSupl de 31.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-627073
+  date: '1986-12-07'
 article_structure:
   article_count: 38
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:30Z'
   warnings: []
   errors: []
 ---
@@ -482,17 +517,17 @@ c) Melhor nota de mérito.
 
 Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo.
 
-**Promulgado em 5 de Setembro de 1986.**
+Promulgado em 5 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MARIO SOARES.**
+O Presidente da República, MARIO SOARES.
 
-**Referendado em 9 de Setembro de 1986.**
+Referendado em 9 de Setembro de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/22800/28602872.pdf))](https://files.diariodarepublica.pt/1s/1986/10/22800/28602872.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/22800/28602872.pdf)
 
 ## ANEXO II — Orientação de inspecção médica a tabela de inaptidões
 
@@ -562,7 +597,7 @@ Mínima - 1,60 m.
 
 2 - Peso proporcional à altura de acordo com a tabela seguinte (ver nota b):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/22800/28602872.pdf))](https://files.diariodarepublica.pt/1s/1986/10/22800/28602872.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/22800/28602872.pdf)
 
 3 - Todas as doenças crónicas ou deformidades de carácter permanente que possam interferir com o serviço policial podem ser consideradas causas de inaptidão, embora não estejam especificamente mencionadas nesta tabela. Aos indivíduos inaptos ao abrigo deste número será feito um relatório circunstanciado pela junta de inspecção.
 
@@ -880,7 +915,7 @@ Mínima - 1,60 m.
 
 151 - Quisto do ovário.
 
-#### SECÇAO XI
+SECÇAO XI
 
 Doenças dos ossos, articulações, músculos e tendões
 
@@ -1294,7 +1329,7 @@ f) Irritáveis e explosivos.
 
 (nota j) Quando as lesões forem muito extensas e produzam mau aspecto ou que pela sua situação prejudiquem os movimentos e o uso do equipamento.
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/22800/28602872.pdf))](https://files.diariodarepublica.pt/1s/1986/10/22800/28602872.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/22800/28602872.pdf)
 
 ## ANEXO IV — Provas física
 
@@ -1336,4 +1371,4 @@ f) Os riscos a que os candidatos são sujeitos no decorrer dos exercícios são 
 
 2 - Exercícios a executar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/22800/28602872.pdf))](https://files.diariodarepublica.pt/1s/1986/10/22800/28602872.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/22800/28602872.pdf)

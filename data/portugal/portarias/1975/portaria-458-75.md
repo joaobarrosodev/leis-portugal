@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/458-1975-336490
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T04:47:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d00166f137358dea520c241165f9d1bdb459056d74edeb9099484facdb015a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e94bd901be21f2ed1ae42fbd883fb047dbf88300f843ca1340847d073d997b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:47:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estabelecimento Hoteleiro
+- Indústria Hoteleira
+- Política de Preços
+- Preço
+- Prestação de Serviços
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:160735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:47:11Z'
   warnings: []
   errors: []
 ---
@@ -97,6 +111,6 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Abaste
 
 Secretarias de Estado do Abastecimento e Preços e do Turismo, 16 de Julho de 1975. - O Secretário de Estado do Abastecimento e Preços, José António da Conceição Neto. - O Secretário de Estado do Turismo, Artur Luís Alves Conde.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/07/17000/10361037.pdf))](https://files.diariodarepublica.pt/1s/1975/07/17000/10361037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/07/17000/10361037.pdf)
 
-**O Secretário de Estado do Abastecimento e Preços, José António da Conceição Neto. - O Secretário de Estado do Turismo, Artur Luís Alves Conde.**
+O Secretário de Estado do Abastecimento e Preços, José António da Conceição Neto. - O Secretário de Estado do Turismo, Artur Luís Alves Conde.

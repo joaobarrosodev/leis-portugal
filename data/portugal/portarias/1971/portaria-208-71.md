@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/208-1971-444720
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86c852eb0ec9f0f685c661b31b0821bf0d3475a4e2aff738a5e753711660eaaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7a8df8ebac0be1e2098e3ef3de63814bb4eb82cf12a7c63b89497cb7f684df9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento de Ensino
+- Forças Armadas
+- Marinha
+- Prémio Manuel Viana
+- Regulamento
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:31Z'
   warnings: []
   errors: []
 ---
@@ -108,4 +113,4 @@ Em 16 de Agosto de 1968 falecia em combate naquela província, sendo promovido a
 
 5. O nome do aluno premiado será publicado na Ordem do Dia à Escola de Fuzileiros e na Ordem da Direcção do Serviço do Pessoal, 2.ª série.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/582-1971-633920
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b36ae6acc5cc779d01d40eb0c4589cab2e6a503364162cd6b6a200b3dd14630
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 508b9f56b261e0ffc71081648465ab0cee5fada382b2accf353d25c3a51770e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:225796:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:27Z'
   warnings: []
   errors: []
 ---
@@ -92,6 +96,6 @@ Nestas condições:
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, que sejam publicadas nas províncias ultramarinas as normas administrativas para a aplicação do Acordo e Ajuste Complementar de 18 de Outubro de 1969, bem como as normas de procedimento e respectivos formulários, insertos no Diário do Governo, 3.ª série, n.º 231, de 30 de Setembro de 1971.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

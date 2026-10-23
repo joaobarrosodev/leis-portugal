@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/163/2005/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2005-147998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d8d35bc04b072457946be6d6bd0c95dddc19d89f243aa68733e5ae05cb18228
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24ca02024a6a768d30ea357f3a0cba44bdbdb461430abdc783e3059662fec2b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aproximação das Legislações
-- Doença Animal
-- Produto Cárneo
+- Certificado de Qualidade
+- Comércio
 - Contra-ordenação
-- Direção Geral de Veterinária
 - Definição de Competências
+- Direção Geral de Veterinária
 - Direcção Regional de Agricultura
-- Saúde Pública
+- Doença Animal
 - Fabrico Industrial
 - Fiscalização
-- Certificado de Qualidade
-- Países Terceiros
 - Madeira.região Autónoma
-- Açores
-- Comércio
+- Países Terceiros
 - Produto Animal
-- Troca Intracomunitária
+- Produto Cárneo
 - Saúde Animal
+- Saúde Pública
+- Troca Intracomunitária
 relationships:
 - type: amended_by
   target: pt:dre:502985:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502985:por
+  label: "Alterado o anexo III, pelo DEC LEI.150/2013.24.10.2013.MAGM, DR.IS [206] de 24.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-2013-502985
+  date: '2013-10-24'
 - type: cites
   target: celex:31992R2913
   label: null
@@ -105,13 +110,13 @@ relationships:
 article_structure:
   article_count: 15
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:40Z'
   warnings: []
   errors: []
 ---
@@ -292,23 +297,23 @@ A aplicação do presente diploma às Regiões Autónomas dos Açores e da Madei
 
 Visto e aprovado em Conselho de Ministros de 18 de Agosto de 2005. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 8 de Setembro de 2005.**
+Promulgado em 8 de Setembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Setembro de 2005.**
+Referendado em 9 de Setembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Doenças com implicações no comércio de produtos de origem animal para as quais foram introduzidas medidas de controlo pela legislação comunitária
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/09/183a00/56795684.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/09/183a00/56795684.pdf)](https://files.diariodarepublica.pt/1s/2005/09/183a00/56795684.pdf)
 
 ## ANEXO II — Tratamentos para eliminar riscos sanitários especificados provenientes da carne e do leite
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/09/183a00/56795684.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/09/183a00/56795684.pdf)](https://files.diariodarepublica.pt/1s/2005/09/183a00/56795684.pdf)
 
 ## ANEXO III
 

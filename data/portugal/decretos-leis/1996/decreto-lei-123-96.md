@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/185a00/24682469.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/123/1996/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1996-405681
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:43:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2391ff6caaef3c59b88059c520546c3a478c1693d21864c0446f0badc05810b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c03b9f53b63bd45083c359f9dce0fe84e27a1fcdca35b24c2998f16df572da8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:43:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ subjects:
 - Apoio Técnico
 - Atleta de ALTA Competição
 - Atleta Profissional
-- Financiamento
 - Desporto de ALTA Competição
 - Desporto Profissional
 - Dispensa de Serviço
+- Ensino Superior
+- Financiamento
 - Prémio Desportivo
 - Regime Jurídico
-- Ensino Superior
 - Setor Público
 - Subsídio
 - Trabalhador por Conta de Outrem
@@ -91,16 +91,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/627-a/1993/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/627-a/1993/06/30/p/dre
+- type: cites
+  target: pt:dre:225404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527406:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490957:por
+  label: "Revogado, a partir de 06.10.2009, o Dec Lei 125/95 de 31-Mai, alterado pelo presente diploma, revogado a partir\
+    \ da mesma data, pelo DEC LEI.272/2009.01.10.2009.PCM, DR.IS [191] de 01.10.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/272-2009-490957
+  date: '2009-10-01'
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:43:37Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +151,9 @@ Os artigos 4.º, 5.º, 19.º, 24.º e 27.º do [Decreto-Lei n.º 125/95](https:/
 
 2 - Os praticantes que sejam integrados no percurso de alta competição beneficiam das formas de apoio previstas no presente diploma para os praticantes com estatuto de alta competição, salvo no que se refere à atribuição de bolsas e ao seguro desportivo.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Quando integrados em selecções ou outras representações nacionais, os praticantes desportivos profissionais em regime de alta competição beneficiam das medidas de apoio estabelecidas neste diploma, com excepção da prevista no artigo 30.º
 
@@ -141,7 +161,9 @@ Os artigos 4.º, 5.º, 19.º, 24.º e 27.º do [Decreto-Lei n.º 125/95](https:/
 
 3 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Aos praticantes em regime de alta competição a qualquer título vinculados ao Estado, às autarquias locais ou a outras pessoas colectivas de direito público pode ser concedida licença extraordinária pelo período de tempo necessário à sua preparação e participação nas provas constantes do plano estabelecido pela federação respectiva.
 
@@ -153,11 +175,15 @@ Os artigos 4.º, 5.º, 19.º, 24.º e 27.º do [Decreto-Lei n.º 125/95](https:/
 
 5 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 Os técnicos de apoio aos praticantes em regime de alta competição beneficiam, com as necessárias adaptações, do disposto nos artigos 13.º, 19.º, 20.º e 21.º
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Os praticantes aos quais seja aplicado o regime de alta competição beneficiam de regime especial de acesso ao ensino superior, nos termos do n.º 15.º da [Portaria n.º 627-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/627-a-1993-225404), de 30 de Junho.
 
@@ -179,12 +205,12 @@ A concessão dos apoios previstos neste diploma fica dependente da inscrição d
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 1996. - António Manuel de Oliveira Guterres - Eduardo Carrega Marçal Grilo - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 25 de Julho de 1996.**
+Promulgado em 25 de Julho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Julho de 1996.**
+Referendado em 30 de Julho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

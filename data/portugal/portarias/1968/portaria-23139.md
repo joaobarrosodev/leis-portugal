@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23139-1968-241063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:40:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99444df717620663b9cc635af61a311a64dbd982de647f2f78f55d823d13f063
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a504954f7c7765e6a51740a902d3d6f01ec2f42e1747d28633e1a3c84d9741c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:40:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:400868:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:40:40Z'
   warnings: []
   errors: []
 ---
@@ -85,6 +89,6 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro do Interior, nos termos do § único do artigo 1.º do [Decreto-Lei n.º 48055](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48055-1967-400868), de 22 de Novembro de 1967, distribuir pela forma seguinte o pessoal a que se refere o artigo 2.º do mesmo diploma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/01/00400/00120012.pdf))](https://files.diariodarepublica.pt/1s/1968/01/00400/00120012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/01/00400/00120012.pdf)
 
 Ministério do Interior, 5 de Janeiro de 1968. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior.

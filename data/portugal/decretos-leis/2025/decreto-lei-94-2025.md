@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/08/15600/0003700038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/94/2025/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2025-928937304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 006fc0591c2b374b4a10175d9fe4dbc1ed4cbe01bec5c2bb516eedb208030a7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a1153a0e72449afa14c3f956adc945de2613430468c242713e420ab18659449
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Animal de Exploração
+- Controlo Sanitário
 - Incêndio
 - Prevenção de Incêndios
-- Controlo Sanitário
 - Saúde Animal
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:64/2000
+  label: Altera, a partir de 15 de agosto de 2025 e repristina o n.º 4 do artigo 8.º e o n.º 15 do anexo A ao Decreto-Lei
+    n.º 64/2000, de 22 de abril, Diário da República n.º 95/2000, Série I-A
+  source: null
+  date: '2000-04-22'
 - type: cites
   target: celex:31998L0058
   label: null
@@ -92,6 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/96/2021/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/96/2021/12/29/p/dre
+- type: cites
+  target: pt:dre:176714549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522981:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:lei:96/2021
+  label: Revoga, a partir de 15 de agosto de 2025, nos termos do artigo 2.º do presente diploma, a Lei n.º 96/2021, de 29
+    de dezembro, Diário da República n.º 251/2021, Série I
+  source: null
+  date: '2021-12-29'
 - type: transposes
   target: celex:31998L0058
   label: null
@@ -99,13 +127,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:33Z'
   warnings: []
   errors: []
 ---
@@ -152,12 +180,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de julho de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Rui Alexandre Novo e Rocha - José Manuel Fernandes.
 
-**Promulgado em 6 de agosto de 2025.**
+Promulgado em 6 de agosto de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de agosto de 2025.**
+Referendado em 7 de agosto de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119423163

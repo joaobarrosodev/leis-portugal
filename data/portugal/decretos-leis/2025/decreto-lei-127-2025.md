@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/127/2025/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2025-967317021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ad60a476e76e53204f936abf6cec44ebeeb028cc8cacf26be35a993b005f549
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5e075c3870787c4fdacc1cf1e2ccc5e98b717d26aeb5d396d1c782562ac4e3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
 - Contribuições da Segurança Social
 - Inscrição Obrigatória
 - Pagamento de Contribuições
 - Regime Contributivo da Segurança Social
-- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
 - Segurança Social
 - Sistema Previdencial
 relationships:
+- type: amends
+  target: pt:numero:lei:110/2009
+  label: Altera, a partir de 1 de janeiro de 2026, nos termos do artigo 5.º do presente diploma, os artigos 23.º-B, 29.º,
+    32.º, 40.º e 43.º, adita o artigo 40.º-A e revoga o artigo 33.º, os n.os 2 a 6 do artigo 40.º e o artigo 41.º do Código
+    dos Regimes Contributivos do Sistema Previdencial de Segurança Social, anexo à Lei n.º 110/2009, de 16 de setembro, Diário
+    da República n.º 180/2009, Série I
+  source: null
+  date: '2009-09-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
   label: null
@@ -85,16 +93,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83-a/2013/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83-a/2013/12/30/p/dre
+- type: cites
+  target: pt:dre:423663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:20Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +153,9 @@ Os artigos 23.º-B, 29.º, 32.º, 40.º e 43.º do Código dos Regimes Contribut
 
 3 - [...]
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - A admissão de trabalhadores é obrigatoriamente comunicada pelas entidades empregadoras à instituição de segurança social competente, no serviço da Segurança Social Direta.
 
@@ -149,13 +171,15 @@ b) [...]
 
 5 - [...]
 
-6 - A presunção referida nos n.<sup>os</sup>4 e 5 é ilidível por prova de que resulte a data em que teve, efetivamente, início a prestação do trabalho.
+6 - A presunção referida nos n.os4 e 5 é ilidível por prova de que resulte a data em que teve, efetivamente, início a prestação do trabalho.
 
 7 - [...]
 
 8 - [...]
 
-###### Artigo 32.º — Cessação, suspensão e alteração do contrato de trabalho
+Artigo 32.º
+
+Cessação, suspensão e alteração do contrato de trabalho
 
 1 - A entidade empregadora é obrigada a comunicar à segurança social a cessação e a suspensão do contrato de trabalho, com a indicação do motivo que lhes deu causa, bem como a alteração da modalidade de contrato de trabalho.
 
@@ -167,7 +191,9 @@ b) [...]
 
 5 - Constitui contraordenação leve a violação do disposto no presente artigo.
 
-###### Artigo 40.º — Declaração à segurança social
+Artigo 40.º
+
+Declaração à segurança social
 
 1 - As entidades empregadoras são obrigadas a declarar à segurança social, em relação a cada um dos trabalhadores ao seu serviço, o valor da remuneração que constitui a base de incidência contributiva e os tempos de trabalho que lhe corresponde.
 
@@ -191,7 +217,9 @@ b) [...]
 
 11 - Sem prejuízo do disposto no número anterior, a violação do dever de declaração ou de correção dos elementos identificados no n.º 1, no prazo previsto no n.º 8, quando dele resultem diferenças relativamente aos valores devidos ao trabalhador, constitui contraordenação leve quando seja cumprida nos 60 dias subsequentes ao termo do prazo e constitui contraordenação grave nas demais situações.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 O pagamento das contribuições e das quotizações é mensal e é efetuado com base nos dados disponibilizados pela segurança social entre o dia 1 e o dia 25 do mês seguinte àquele a que as contribuições e as quotizações dizem respeito.»
 
@@ -211,7 +239,7 @@ Suprimento oficioso da comunicação de remunerações
 
 ###### Artigo 4.º — Norma revogatória
 
-São revogados o artigo 33.º, os n.<sup>os</sup>2 a 6 do artigo 40.º e o artigo 41.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, na sua redação atual.
+São revogados o artigo 33.º, os n.os2 a 6 do artigo 40.º e o artigo 41.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, na sua redação atual.
 
 ###### Artigo 5.º — Transição para o novo modelo de comunicação contributiva
 
@@ -231,12 +259,14 @@ O presente decreto-lei entra em vigor a 1 de janeiro de 2026.
 
 Visto e aprovado em Conselho de Ministros de 13 de novembro de 2025. - Luís Montenegro - Rosário Palma Ramalho.
 
-**Promulgado em 3 de dezembro de 2025.**
+Promulgado em 3 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de dezembro de 2025.**
+Referendado em 4 de dezembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119856222

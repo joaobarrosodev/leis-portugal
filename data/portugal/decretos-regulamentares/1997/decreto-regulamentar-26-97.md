@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/26/1997/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/26-1997-365921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:24:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f47c9aa00e8d8081ae2f1a5aa69fa20658263b441c2cb52151def583b92c9cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03e1e108d5a354621e15b3ed3c19275c2febdbdec7387830023f0584e3154b9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:24:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bolsa de Formação Profissional
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Diploma
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
+- Mercado do Trabalho
 - Pessoal Docente
 - Qualificação Profissional
-- Mercado do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:669541:por
@@ -98,16 +98,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/68/1994/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/68/1994/11/26/p/dre
+- type: cites
+  target: pt:dre:289056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550192:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669541:por
+  label: "Revogado, a partir de 01.08.2011, o DR 66/94, de 18-Nov, na redacção do presente diploma, pelo DEC LEI.92/2011.27.07.2011.MTSSO,\
+    \ DR.IS [143] de 27.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2011-669541
+  date: '2011-07-27'
 article_structure:
-  article_count: 11
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:24:16Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +168,9 @@ Conceito de formador
 
 2 - O formador deve reunir o domínio técnico actualizado relativo à área de formação em que é especialista, o domínio dos métodos e das técnicas pedagógicas adequados ao tipo e ao nível de formação que desenvolve, bem como competências na área da comunicação que proporcionem ambiente facilitador do processo de ensino/aprendizagem.
 
-###### Artigo 3.º — Tipos de formadores
+Artigo 3.º
+
+Tipos de formadores
 
 1 - ...
 
@@ -150,7 +178,9 @@ Conceito de formador
 
 3 - Relativamente ao vínculo, os formadores podem ser internos, quando tenham vínculo laboral com a entidade formadora ou beneficiária, ou externos, nos demais casos.
 
-###### Artigo 4.º — Requisitos
+Artigo 4.º
+
+Requisitos
 
 1 - ...
 
@@ -170,13 +200,17 @@ c) ...
 
 3 - Para efeitos do disposto na alínea c) do n.º 1 é exigível a frequência, com aproveitamento, de curso de formação pedagógica homologado pela entidade referida na alínea a) do artigo 8.º do [Decreto-Lei n.º 95/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1992-523412), de 23 de Maio, nos termos a estabelecer em normas específicas a aprovar pela Comissão Permanente de Certificação e a homologar por portaria do Ministro para a Qualificação e o Emprego.
 
-###### Artigo 6.º — Regime excepcional
+Artigo 6.º
+
+Regime excepcional
 
 1 - A título excepcional, e quando justificado por razões de natureza pedagógica ou técnica das acções de formação, podem ser autorizados, pela entidade certificadora, mediante decisão fundamentada, a intervir na formação os profissionais que, não satisfazendo algum ou alguns dos requisitos exigidos no artigo 4.º do presente diploma, possuam especial qualificação académica e ou profissional ou detenham formação não disponível no mercado.
 
 2 - Os formadores referidos no número anterior ficam investidos nos direitos e deveres estabelecidos nos artigos 7.º e 8.º do presente diploma, relativamente à formação para que foram autorizados a intervir.
 
-###### Artigo 7.º — Direitos do formador
+Artigo 7.º
+
+Direitos do formador
 
 1 - ...
 
@@ -188,7 +222,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 8.º — Deveres do formador
+Artigo 8.º
+
+Deveres do formador
 
 1 - São, em especial, deveres do formador:
 
@@ -212,7 +248,9 @@ i) Avaliar cada acção de formação e, globalmente, cada processo formativo, e
 
 2 - O formador, enquanto elemento determinante para o êxito da acção formativa, é submetido a avaliação, tanto no âmbito da sua competência técnico-profissional como no seu contributo para a criação de um clima de confiança e compreensão mútuas entre os intervenientes no processo formativo.
 
-###### Artigo 9.º — Emissão de certificados de aptidão
+Artigo 9.º
+
+Emissão de certificados de aptidão
 
 1 - Desde que verificados os requisitos exigidos para o exercício da respectiva actividade, o certificado de aptidão de formador é requerido pelo interessado ou pela entidade formadora ou beneficiária à entidade referida na alínea a) do artigo 8.º do [Decreto-Lei n.º 95/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1992-523412), de 23 de Maio, sendo válido pelo período de cinco anos se outro período de validade não for estabelecido em norma específica de certificação.
 
@@ -246,7 +284,9 @@ c) Actuação comprovada na área de formação por tipo de intervenção, com r
 
 6 - A certificação de aptidão de formador em contexto real de trabalho/tutor será objecto de regulamentação própria, dada a especificidade da sua actividade.
 
-###### Artigo 10.º — Bolsas de formadores
+Artigo 10.º
+
+Bolsas de formadores
 
 1 - Será constituída, no âmbito do Instituto do Emprego e Formação Profissional, nos termos do artigo 13.º do [Decreto-Lei n.º 405/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1991-289056), de 16 de Outubro, uma bolsa nacional de formadores, integrando a nível nacional todos os formadores para os quais foram emitidos certificados de aptidão de formador.
 
@@ -254,7 +294,9 @@ c) Actuação comprovada na área de formação por tipo de intervenção, com r
 
 3 - Compete ao Instituto do Emprego e Formação Profissional a organização, gestão e divulgação das bolsas de formadores, às quais terão acesso permanente todas as entidades gestoras, formadoras e beneficiárias de formação.
 
-###### Artigo 13.º — Disposições transitórias
+Artigo 13.º
+
+Disposições transitórias
 
 1 - O certificado de aptidão de formador é exigido para o exercício da respectiva actividade a partir de 1 de Janeiro de 1998.
 
@@ -284,12 +326,12 @@ Presidência do Conselho de Ministros, 17 de Abril de 1997.
 
 António Manuel de Oliveira Guterres - Eduardo Carrega Marçal Grilo - Maria João Fernandes Rodrigues - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 22 de Maio de 1997.**
+Promulgado em 22 de Maio de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Maio de 1997.**
+Referendado em 27 de Maio de 1997.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 277/1991, 1º Suplemento, Série I-A de 1991-12-02
   number: '277'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6282-(2) a 6282-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/12/277a01/00020002.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/60/1991/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/60-1991-402690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T04:11:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30b09151503279de1477c489fa09c0715690d0a87132666ecbe4eb87e18f03c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2027d961e438829e560b38d6394f4876089e0def8f1e20b774e72cc252ae6f0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:11:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:11:14Z'
   warnings: []
   errors: []
 ---
@@ -86,16 +86,16 @@ validation:
 
 de 2 de Dezembro
 
-**O Presidente da República decreta, nos termos do artigo 136.º, alínea p), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 136.º, alínea p), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo e ouvido o Chefe do Estado-Maior-General das Forças Armadas, o general Narciso Mendes Dias para o cargo de Chefe do Estado-Maior da Força Aérea.
 
-**Assinado em 27 de Novembro de 1991.**
+Assinado em 27 de Novembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Novembro de 1991.**
+Referendado em 28 de Novembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

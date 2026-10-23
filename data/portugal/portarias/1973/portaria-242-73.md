@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/242-1973-675612
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T04:02:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af3361c67f498e40fe4d2b59a974a7cd79beb66cb82846c8c52de5969fe8da82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa7ac96a3a63eaf222c65cae4b4d2bbd8cb853b7ef41d44ac8d61d59d1082367
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:02:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:351557:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:02:07Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +90,7 @@ de 7 de Abril
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado da Aeronáutica, que, nos termos do § 4.º do artigo 48.º do [Decreto-Lei n.º 41758](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41758-1958-351557), de 25 de Julho de 1958, os conselhos administrativos das unidades da Força Aérea a seguir indicados sejam autorizados a sacar, em conta do capítulo 10.º do orçamento ordinário de Encargos Gerais da Nação em vigor, as importâncias que lhes são indicadas:
 
-###### Artigo 309.º «Conservação e aproveitamento de bens - Comando da Zona
+Artigo 309.º «Conservação e aproveitamento de bens - Comando da Zona
 
 Aérea dos Açores» ... 40000$00
 

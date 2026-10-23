@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/363-1980-473291
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:18:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9cf576cb2435220367ef2ab6678f3831ef3c32ac2fe91ac34ad17302470a19d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 352f7ddfae63143667a875b480d7cd2057d625c0f6acc60036f86888fbb33bcd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:18:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Impresso
+- Investimento
+- Sistema Integrado de Incentivos ao Investimento
+relationships:
+- type: cites
+  target: pt:dre:472943:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:461655:por
+  label: Rectificada pela DECL.DD6922.27.09.1980.PCM, DR.IS [224] de 27.09.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-461655
+  date: '1980-09-27'
+- type: corrected_by
+  target: pt:dre:462659:por
+  label: Rectificada pela DECL.DD6831.23.10.1980.PCM, DR.IS [246] de 23.10.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-462659
+  date: '1980-10-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:18:37Z'
   warnings: []
   errors: []
 ---
@@ -113,21 +130,21 @@ Pede deferimento,
 
 Mapas normalizados para fins do regime geral de incentivos fiscais e financeiros (só para projectos de montante não superior a 200000 contos) e regime extraordinário de dotações de capital (só para projectos de montante não superior a 200000 contos).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/15000/15101524.pdf))](https://files.diariodarepublica.pt/1s/1980/07/15000/15101524.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/15000/15101524.pdf)
 
 ## ANEXO III
 
 Mapas normalizados para fins do regime especial de incentivos financeiros (qualquer que seja a dimensão do projecto), do regime geral de incentivos fiscais e financeiros (só para projectes de montante superior a 200000 contos) e do regime extraordinário de dotações de capital (só para projectos de montante superior a 200000 contos).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/15000/15101524.pdf))](https://files.diariodarepublica.pt/1s/1980/07/15000/15101524.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/15000/15101524.pdf)
 
 ## ANEXO IV — Mapas normalizados para fins do regime simplificado de incentivos fiscais e financeiros para empresas de pequena dimensão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/15000/15101524.pdf))](https://files.diariodarepublica.pt/1s/1980/07/15000/15101524.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/15000/15101524.pdf)
 
 ## ANEXO V — Mapas normalizados para fins do regime de subvenção à investigação e desenvolvimento tecnológico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/15000/15101524.pdf))](https://files.diariodarepublica.pt/1s/1980/07/15000/15101524.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/15000/15101524.pdf)
 
 ## ANEXO VI — Normas para comunicação ao Núcleo de Acompanhamento do SIII
 

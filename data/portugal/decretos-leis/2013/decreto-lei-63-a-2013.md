@@ -23,7 +23,7 @@ publication:
   reference: Diário da República n.º 90/2013, 1º Suplemento, Série I de 2013-05-10
   number: '90'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2818-(2) a 2818-(60)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/05/09001/0000200060.pdf
 entry_into_force_dates: []
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/63-a/2013/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-a-2013-475919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 891d2735ae558b859855981bd437e3fe775b9dd0477760b14a301306813eac7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0ffe054bd060dbb52ac2422e63afbb987084793efe8808262b7a8fda16123a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,29 +71,59 @@ reuse:
 subjects:
 - Acção Financeira
 - Aproximação das Legislações
-- Valores Mobiliários
 - Autoridade Europeia dos Valores Mobiliários e dos Mercados
-- Instituição de Crédito
+- Banco de Portugal
+- CMVM
 - Código dos Valores Mobiliários
 - Fundo de Investimento Mobiliário
-- Banco de Portugal
+- Instituição de Crédito
+- Instituição Financeira
 - Mercado de Valores
 - Mercado Financeiro
 - Organismo de Investimento Colectivo
 - Países Terceiros
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
 - Regime Jurídico
-- CMVM
-- Instituição Financeira
 - Sociedade de Investimento
 - Sociedade Gestora de Fundos de Investimento
 - Sociedade Gestora de Fundos de Investimento Mobiliário
 - Sociedade Mediadora
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:115740680:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:58585556:por
+  label: Alterados, a partir de 23.11.2014, sem prejuízo do disposto nos n.ºs 2 a 7 do art. 26.º, os arts 6.º, 199.º-A,199.º-L,
+    do Regime Geral das Instituições de Crédito e Sociedades Financeiras aprovado pelo Dec Lei 298/92 de 31-dez, e republicado
+    em anexo, na redação do presente diploma, pelo(a) Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I
+    de 2014-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2014-58585556
+  date: '2014-10-24'
+- type: amended_by
+  target: pt:dre:66581992:por
+  label: Alterados os arts. 199.º-A e 199.º-L do Regime Geral das Instituições de Crédito e Sociedades Financeiras aprovado
+    pelo Dec. Lei 298/92 de 31-dez, na redação do presente diploma, pelo(a) Lei n.º 16/2015 - Diário da República n.º 38/2015,
+    Série I de 2015-02-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2015-66581992
+  date: '2015-02-24'
+- type: amended_by
+  target: pt:dre:107094723:por
+  label: Alterados os arts. 2.º, 305.º e 309.º-E do Código dos Valores Mobiliários aprovado pelo Dec Lei 486/99 de 13-nov,
+    na versão republicada do Código pelo Dec Lei 357-A/2007 de 31-out e retificada pela Decl Ret 117-A/2007 de 28-dez, na
+    redação do presente diploma, pelo(a) Lei n.º 28/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30 nos termos
+    dos seus arts. 8.º e 10.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2017-107094723
+  date: '2017-05-30'
+- type: amended_by
+  target: pt:dre:115740680:por
+  label: Alterados os arts. 2.º, 289.º, 295.º, 305.º, 305.º-B, 305.º-D, 305.º-E, 307.º, 307.º-B e 323.º do Código dos Valores
+    Mobiliários aprovado pelo Dec Lei 486/99, de 13-nov, na redação do presente diploma pelo(a) Lei n.º 35/2018 - Diário da
+    República n.º 139/2018, Série I de 2018-07-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2018-115740680
+  date: '2018-07-20'
 - type: cites
   target: celex:31998L0026
   label: null
@@ -146,16 +176,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/25/2013/04/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/25/2013/04/08/p/dre
+- type: repealed_by
+  target: pt:dre:66581992:por
+  label: Revogado, a partir de 26.03.2015, o regime jurídico dos organismos de investimento coletivo aprovado pelo presente
+    diploma, pelo(a) Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2015-66581992
+  date: '2015-02-24'
 article_structure:
-  article_count: 203
+  article_count: 186
   section_count: 48
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:35Z'
   warnings: []
   errors: []
 ---
@@ -252,7 +288,9 @@ Os artigos 6.º, 199.º-A, 199.º-B e 199.º-L do RGICSF, aprovado pelo Decreto-
 
 4 - [...].
 
-###### Artigo 199.º-A — [...]
+Artigo 199.º-A
+
+[...]
 
 [...]:
 
@@ -268,13 +306,17 @@ Os artigos 6.º, 199.º-A, 199.º-B e 199.º-L do RGICSF, aprovado pelo Decreto-
 
 6 - «Sociedade gestora de fundos de investimento mobiliário», a sociedade cuja atividade habitual consista na gestão de organismos de investimento coletivo em valores mobiliários, podendo gerir, em paralelo, outros organismos de investimento coletivo.
 
-###### Artigo 199.º-B — [...]
+Artigo 199.º-B
+
+[...]
 
 1 - [...].
 
 2 - No âmbito da prestação de serviços de investimento, o disposto no n.º 5 do artigo 199.º-D, no artigo 199.º-F, e nos n.os 2 a 4 do artigo 199.º-J é também aplicável às instituições de crédito.
 
-###### Artigo 199.º-L — [...]
+Artigo 199.º-L
+
+[...]
 
 1 - [...].
 
@@ -378,7 +420,9 @@ Os artigos 2.º, 289.º, 295.º, 305.º, 305.º-B, 305.º-D, 305.º-E, 307.º, 3
 
 7 - As referências feitas no presente Código a unidades de participação devem ser entendidas de modo a abranger as ações de instituições de investimento coletivo, salvo se o contrário resultar da própria disposição.
 
-###### Artigo 289.º — [...]
+Artigo 289.º
+
+[...]
 
 1 - [...].
 
@@ -390,7 +434,9 @@ Os artigos 2.º, 289.º, 295.º, 305.º, 305.º-B, 305.º-D, 305.º-E, 307.º, 3
 
 5 - Sem prejuízo do disposto no número anterior, o disposto nos n.os 2 a 4 do artigo 305.º-A, artigos 305.º-B, 305.º-C, n.º 3 do artigo 305.º-D, artigos 305.º-E, 307.º a 307.º-B, 308.º a 308.º-C, 309.º-G e 310.º a 316.º não é aplicável às sociedades de investimento mobiliário e às sociedades de investimento imobiliário heterogeridas.
 
-###### Artigo 295.º — [...]
+Artigo 295.º
+
+[...]
 
 1 - [...].
 
@@ -404,7 +450,9 @@ a) Empresas de investimento e instituições de crédito que prestem serviços o
 
 b) Sociedades gestoras de fundos de investimento mobiliário e de sociedades de investimento mobiliário que giram organismos de investimento coletivo em valores mobiliários.
 
-###### Artigo 305.º — [...]
+Artigo 305.º
+
+[...]
 
 1 - [...].
 
@@ -434,7 +482,9 @@ k) Dispor de procedimentos de controlo interno adequados, incluindo regras relat
 
 3 - [...].
 
-###### Artigo 305.º-B — [...]
+Artigo 305.º-B
+
+[...]
 
 1 - [...].
 
@@ -482,7 +532,9 @@ d) Rever e reforçar, quando necessário, os mecanismos e procedimentos de avali
 
 11 - O intermediário financeiro deve notificar a CMVM de quaisquer alterações significativas efetuadas no procedimento de gestão de riscos.
 
-###### Artigo 305.º-D — [...]
+Artigo 305.º-D
+
+[...]
 
 1 - [...].
 
@@ -498,7 +550,9 @@ c) Por assegurar e verificar regularmente que a política geral de investimento,
 
 4 - Para efeitos do disposto no número anterior, deve ser elaborado e apresentado ao órgão de administração um relatório, de periodicidade pelo menos anual, sobre a aplicação de estratégias de investimento e dos procedimentos internos de tomada de decisões de investimento.
 
-###### Artigo 305.º-E — [...]
+Artigo 305.º-E
+
+[...]
 
 1 - [...].
 
@@ -506,7 +560,9 @@ c) Por assegurar e verificar regularmente que a política geral de investimento,
 
 3 - Os investidores podem apresentar reclamações de forma gratuita, sendo igualmente gratuito o acesso à resposta a reclamações apresentadas.
 
-###### Artigo 307.º — [...]
+Artigo 307.º
+
+[...]
 
 1 - [...].
 
@@ -550,7 +606,9 @@ l) O valor bruto da ordem incluindo os encargos de subscrição ou o montante l�
 
 10 - O intermediário financeiro deve adotar medidas adequadas no que respeita aos sistemas eletrónicos necessários para permitir o registo rápido e adequado de cada movimento da carteira ou ordem.
 
-###### Artigo 307.º-B — [...]
+Artigo 307.º-B
+
+[...]
 
 1 - [...].
 
@@ -568,7 +626,9 @@ b) [...].
 
 6 - [Anterior n.º 4].
 
-###### Artigo 309.º-B — [...]
+Artigo 309.º-B
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
@@ -580,7 +640,9 @@ a) Os interesses do próprio, incluindo os decorrentes de pertencer a um grupo o
 
 b) Os interesses de duas ou mais instituições geridas.
 
-###### Artigo 309.º-E — [...]
+Artigo 309.º-E
+
+[...]
 
 1 - [...].
 
@@ -588,7 +650,9 @@ b) Os interesses de duas ou mais instituições geridas.
 
 3 - Para efeitos da alínea b) do número anterior, se determinadas atividades forem asseguradas por entidades subcontratadas, o intermediário financeiro deve garantir que a entidade subcontratada mantém um registo das operações pessoais realizadas e presta essa informação ao intermediário imediatamente, quando esta lhe for solicitada.
 
-###### Artigo 312.º-E — [...]
+Artigo 312.º-E
+
+[...]
 
 1 - [...].
 
@@ -602,7 +666,9 @@ b) Os interesses de duas ou mais instituições geridas.
 
 6 - No caso de unidades de participação de organismo de investimento coletivo em valores mobiliários, o documento relativo à informação fundamental ao investidor é considerado adequado para efeitos do disposto na alínea d) do n.º 1 do artigo 312.º.
 
-###### Artigo 312.º-G — [...]
+Artigo 312.º-G
+
+[...]
 
 1 - [...].
 
@@ -610,7 +676,9 @@ b) Os interesses de duas ou mais instituições geridas.
 
 3 - No caso de unidades de participação de organismo de investimento coletivo em valores mobiliários, o documento relativo à informação fundamental ao investidor é considerado adequado para efeitos do disposto na alínea h) do n.º 1 do artigo 312.º, no que respeita aos custos relacionados com o organismo de investimento coletivo, incluindo as comissões de subscrição e de resgate.
 
-###### Artigo 323.º — [...]
+Artigo 323.º
+
+[...]
 
 1 - [...].
 
@@ -640,7 +708,9 @@ Gestão de ativos
 
 2 - Quando a autorização do intermediário financeiro abranja não só a gestão de instituições de investimento coletivo como também o serviço de gestão discricionária de carteiras, o intermediário não pode investir a totalidade ou parte da carteira de um cliente em unidades de participação de uma instituição de investimento coletivo sob a sua gestão, salvo com o consentimento prévio daquele, que pode ser dado em termos genéricos.
 
-###### Artigo 323.º-D — Particularidades relativas à execução de ordens de subscrição e de resgate
+Artigo 323.º-D
+
+Particularidades relativas à execução de ordens de subscrição e de resgate
 
 1 - Não obstante o disposto no n.º 1 do artigo 323.º, sempre que seja executada uma ordem de subscrição ou de resgate de unidades de participação de instituições de investimento coletivo, o intermediário financeiro responsável pela gestão destas envia uma comunicação ao participante, em suporte duradouro, que confirme a execução da ordem, até ao primeiro dia útil seguinte à execução.
 
@@ -676,15 +746,15 @@ O presente decreto-lei entra em vigor 120 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de abril de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Sacadura Cabral Portas.
 
-**Promulgado em 6 de maio de 2013.**
+Promulgado em 6 de maio de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 7 de maio de 2013.**
+Referendado em 7 de maio de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
@@ -3902,7 +3972,7 @@ iv) Condições de suspensão da subscrição e resgate de unidades de participa
 
 ESQUEMA A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/09001/0000200060.pdf))](https://files.diariodarepublica.pt/1s/2013/05/09001/0000200060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/09001/0000200060.pdf)
 
 2. Informações relativas ao depositário:
 

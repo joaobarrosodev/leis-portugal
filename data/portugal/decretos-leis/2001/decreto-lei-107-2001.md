@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/04/082a00/20382040.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/107/2001/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2001-362317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:23:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 896392476b18d90914a72c29efa6f11c1d3b2168a6717fcb3d2db83964ec2719
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf6df69c1d88101b893562a389ba85032aed4dae2c678bade2702b6f611c9eb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:23:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Condições de Higiene e Segurança no Trabalho
 - Contra-ordenação
-- Segurança no Trabalho
+- Emprego
 - Menoridade
 - Mercado de Emprego
-- Trabalho de Menores
-- Emprego
-- Política de Emprego
-- Condições de Higiene e Segurança no Trabalho
 - Mercado do Trabalho
+- Política de Emprego
+- Segurança no Trabalho
+- Trabalho de Menores
 relationships:
 - type: amended_by
   target: pt:dre:632906:por
@@ -85,16 +85,22 @@ relationships:
   target: celex:31994L0033
   label: null
   source: http://data.europa.eu/eli/dir/1994/33/oj
+- type: repealed_by
+  target: pt:dre:632906:por
+  label: "Revogado com a entrada em vigor das normas regulamentares do Código do Trabalho aprovado pela LEI.99/2003.2003.08.27.AR\
+    \ DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/99-2003-632906
+  date: '2003-08-27'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:23:48Z'
   warnings: []
   errors: []
 ---
@@ -157,15 +163,15 @@ São revogadas as Portarias n.os 714/93 e 715/93, de 3 de Agosto.
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 2001. - António Manuel de Oliveira Guterres - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 27 de Março de 2001.**
+Promulgado em 27 de Março de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Março de 2001.**
+Referendado em 30 de Março de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Actividades, processos e trabalhos proibidos a todos os menores
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/4/2010/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2010-307840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:32:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4c5b155d5aa7dd25377ba6ae3c8dc397ec9fe0afd9bb08a3c93fafe156b396d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84a5704667826581094ff80d64554dd43b874bf5ff39d1411e9c169472996b17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:32:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
+- Açores
 - Ajuda Comunitária
-- Financiamento
 - Empresa
+- Financiamento
 - Formação Profissional
-- Gestão Financeira
-- Gestão Administrativa
-- Projeto de Investimento
-- Pagamento
-- Instituto de Gestão do Fundo Social Europeu
 - FSE
+- Gestão Administrativa
+- Gestão Financeira
+- Instituto de Gestão do Fundo Social Europeu
+- Pagamento
 - Programa Operacional Potencial Humano
+- Projeto de Investimento
 - QCA III
+- QREN
 - Reembolso
 - Regime Jurídico
 - Regulamento CE
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:1173337:por
@@ -101,15 +101,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/decregul/84-a/2007/12/10/p/dre
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:32:47Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +166,9 @@ Os artigos 17.º, 35.º, 36.º, 44.º e 45.º do Decreto Regulamentar n.º 84-A/
 
 11 - O pagamento referido no número anterior é efectuado com dispensa de prestação da respectiva garantia, ou com liberação da garantia anteriormente prestada, deduzindo-se qualquer quantia já recebida.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Consideram-se custos elegíveis a título de custos reais de uma operação os que cumpram, cumulativamente, os seguintes requisitos:
 
@@ -196,7 +198,9 @@ c) Os montantes fixos destinados a cobrir a totalidade ou parte dos custos de um
 
 6 - A elegibilidade associada ao pagamento, designadamente no caso de ser efectuado através de cheque, é aferida pela relevância contabilística da respectiva prova legal, salvo se, em sede de verificação ou controlo, se concluir pelo protelamento intencional do pagamento efectivo.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -220,7 +224,9 @@ d) Montante fixo, em conformidade com a alínea c) do n.º 2 do artigo anterior.
 
 7 - (Revogado.)
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -248,7 +254,9 @@ l) ...
 
 2 - Nos casos em que a autoridade de gestão autorize a prorrogação do prazo de entrega do saldo para além do período previsto no n.º 7 do artigo 40.º, considera-se elegível a despesa realizada e paga até à nova data fixada, pela autoridade de gestão, para apresentação do referido saldo.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - Quando se verifique que as entidades beneficiárias receberam indevidamente ou não justificaram os apoios recebidos, há lugar à restituição dos mesmos, a promover por iniciativa dessas entidades ou das autoridades de gestão, através de compensação com montantes aprovados em sede de reembolsos intermédios ou de saldo, no âmbito do respectivo PO.
 
@@ -290,12 +298,12 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 29 de Julho de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Marcos da Cunha e Lorena Perestrello de Vasconcellos - Rui Carlos Pereira - José Manuel Santos de Magalhães - José António Fonseca Vieira da Silva - Rui Pedro de Sousa Barreiro - Paulo Jorge Oliveira Ribeiro de Campos - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Idália Maria Marques Salvador Serrão de Menezes Moniz - Ana Maria Teodoro Jorge - Maria Isabel Girão de Melo Veiga Vilar - Manuel Frederico Tojal de Valsassina Heitor - Maria Gabriela da Silveira Ferreira Canavilhas - Jorge Lacão Costa.
 
-**Promulgado em 6 de Outubro de 2010.**
+Promulgado em 6 de Outubro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Outubro de 2010.**
+Referendado em 6 de Outubro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

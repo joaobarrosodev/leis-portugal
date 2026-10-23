@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22
   number: '56'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 41-(2) a 41-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/05601/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/22-b/2021/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-b-2021-159869156
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a691ff30401550c97e6c998121d82a94413d46f1c71b0727b1d931bc70b241a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 343f2d822a1dfaf17acddbb878743b5b747e0f13828e9188ef07d6ea95f2be2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autoridade da Concorrência
+- Comércio
+- Desporto
 - Desporto Profissional
 - Federação Portuguesa de Futebol
 - Futebol
 - Liga Portuguesa de Futebol Profissional
 - Operador de Televisão
-- Comércio
 - Televisão
-- Desporto
 relationships: []
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:01Z'
   warnings: []
   errors: []
 ---
@@ -152,12 +152,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de fevereiro de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Tiago Brandão Rodrigues.
 
-**Promulgado em 19 de março de 2021.**
+Promulgado em 19 de março de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de março de 2021.**
+Referendado em 19 de março de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114088811

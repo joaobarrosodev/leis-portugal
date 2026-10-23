@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/03/04600/0070400705.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/9/2016/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2016-73788169
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61723453e0443dd2f7eae7c12ac6abf457ad8dc9b9af9d37e1b6d703300d8128
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52b1b22d1a343718c664ec265e482cba749702bcf70f9aaedf8da5a1152d2e41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Carreira Profissional
 - Colocação de Professores
 - Concurso
-- Carreira Profissional
-- Recrutamento de Pessoal
-- Habilitações Literárias
-- Ensino Secundário
 - Contratação de Pessoal
-- Estabelecimento de Ensino
-- Pessoal Docente
 - Ensino Básico
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Habilitações Literárias
+- Pessoal Docente
+- Recrutamento de Pessoal
 - Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:106607298:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:106607298:por
+  label: Alterados os arts. 36.º, 37.º, 38.º, 39.º do Dec Lei 132/2012 de 27-jun, na versão republicada pelo Dec Lei 83-A/2014
+    de 23-mai e na redação do presente diploma, pelo(a) Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I
+    de 2017-03-15 que republica o Dec Lei 132/2012
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2017-106607298
+  date: '2017-03-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/2012/06/27/p/dre
   label: null
@@ -107,16 +114,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/80/2013/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/80/2013/11/28/p/dre
+- type: cites
+  target: pt:dre:178492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64297587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:03Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +190,9 @@ Os artigos 32.º, 36.º, 37.º, 38.º e 39.º do [Decreto-Lei n.º 132/2012](htt
 
 O disposto na presente secção é também aplicável aos agrupamentos de escolas ou escolas não agrupadas abrangidos pelo Programa Territórios Educativos de Intervenção Prioritária e/ou com contrato de autonomia.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - O disposto na presente secção é também aplicável aos agrupamentos de escolas ou escolas não agrupadas abrangidos pelo Programa Territórios Educativos de Intervenção Prioritária e/ou com contrato de autonomia.
 
@@ -169,7 +202,9 @@ O disposto na presente secção é também aplicável aos agrupamentos de escola
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...].
 
@@ -195,7 +230,9 @@ O disposto na presente secção é também aplicável aos agrupamentos de escola
 
 12 - [...].
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...].
 
@@ -217,7 +254,9 @@ d) [...].
 
 6 - [...].
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - [...].
 
@@ -273,12 +312,12 @@ O presente decreto-lei entra em vigor no primeiro dia útil após a sua publica�
 
 Visto e aprovado em Conselho de Ministros de 18 de fevereiro de 2016. - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Tiago Brandão Rodrigues.
 
-**Promulgado em 2 de março de 2016.**
+Promulgado em 2 de março de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de março de 2016.**
+Referendado em 3 de março de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

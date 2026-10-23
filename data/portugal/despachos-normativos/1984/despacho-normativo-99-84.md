@@ -48,36 +48,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/99-1984-384030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T07:31:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fde001f4aa83f8f9931122c1743b9cdbbec001aefd58b1886bcaed94eb531dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7dc6baac5cf2021cc4c8c1f13747815aefcc8289e9023ebc40f18abccf8c9a63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:31:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Indústria da Celulose e do Papel
+- Preço
+- Produto em Madeira
+relationships:
+- type: cites
+  target: pt:dre:319155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661971:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:31:05Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +111,7 @@ Secções diferenciadas para produtores florestais das cooperativas agrícolas;
 
 Associações dos empresários de corte de árvores;
 
-#### Secção de empresários de corte de árvores da Associação Nacional das Indústrias da Madeira;
+Secção de empresários de corte de árvores da Associação Nacional das Indústrias da Madeira;
 
 Associações profissionais de produtores florestais ou representantes da secção florestal de associações profissionais de produtores agrícolas;
 

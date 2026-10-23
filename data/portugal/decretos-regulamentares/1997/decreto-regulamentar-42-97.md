@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/10/235b00/54615465.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/42/1997/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1997-667311
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:24:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22c0f03bea5f6f4ec4f4b76a17f58219622a3817e55f92a5f8e3f2d258962314
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00dd0e0854151143730e739ab3d3ccc70b5a50a6e5c5a1c93370fad67a96d7eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:24:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
 subjects:
 - Avaliação de Impacte Ambiental
 - Instituto de Promoção Ambiental
-- Proteção do Ambiente
 - Política do Ambiente
-- Poluição Industrial
-- Regime Jurídico
 - Poluição
+- Poluição Industrial
+- Proteção do Ambiente
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:281589:por
@@ -105,16 +105,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/732-a/1996/12/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/732-a/1996/12/11/p/dre
+- type: cites
+  target: pt:dre:223464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667169:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:281589:por
+  label: "Revogado o DR 38/90 de 27-Nov, na redacção dada pelo presente diploma, pelo DEC LEI.69/2000.2000.05.03.MAOT,DR.IS-A\
+    \ [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2000-281589
+  date: '2000-05-03'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:24:37Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +181,7 @@ Os artigos 1.º e 4.º do [Decreto Regulamentar n.º 38/90](https://diariodarepu
 
 2 - ...
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - O Instituto de Promoção Ambiental (IPAMB) é a entidade competente para a realização da consulta do público interessado, a qual, consoante a natureza e extensão dos impactes previsíveis, deve realizar-se por um período de tempo:
 
@@ -177,15 +219,15 @@ Presidência do Conselho de Ministros, 7 de Agosto de 1997.
 
 António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 19 de Setembro de 1997.**
+Promulgado em 19 de Setembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Setembro de 1997.**
+Referendado em 24 de Setembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15400/0568705694.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/157/2015/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a331c7fad743766425233bced543e170f90b992bd245c5e28f2bd91b709f944a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e439a31b11eb372dd272dd6d6d7e17f9c7a8c05780e3c83265e7677f4b1e58a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estatuto
 - Academia das Ciências de Lisboa
+- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:216771969:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:177847668:por
+  label: Alterados os arts. 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 8.º, 9.º, 10.º, 11.º, 16.º, 20.º, 21.º, 22.º, 23.º, 26.º, 27.º,
+    28.º, 31.º, 32.º, 33.º, 36.º, 37.º, 40.º, 41.º, 44.º, 46.º, 47.º, 48.º, 49.º, 50.º, 51.º, 52.º, 56.º, 59.º, 61.º, 74.º,
+    75.º, 76.º e 77.º, aditados os art. 7.º-A, 27.º-A, 60.º-A e 75.º-A, revogados os arts. 29.º e 53.º e republicados os Estatutos
+    da Academia das Ciências de Lisboa, aprovados pelo Dec Lei 5/78, de 12-jan, na versão alterada e republicada pelo presente
+    diploma, pelo(a) Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2022-177847668
+  date: '2022-01-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/179/1996/09/24/p/dre
   label: null
@@ -97,16 +106,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:214974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
 article_structure:
-  article_count: 89
+  article_count: 82
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:20Z'
   warnings: []
   errors: []
 ---
@@ -149,11 +190,11 @@ e) [Anterior alínea d)];
 
 f) [Anterior alínea e)].
 
-###### Artigo 44.º
+Artigo 44.º
 
 Os instrumentos de mobilidade previstos na Lei Geral do Trabalho em Funções Públicas, aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, alterada pela [Lei n.º 82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, são aplicáveis à Academia e aos seus trabalhadores.
 
-###### Artigo 49.º
+Artigo 49.º
 
 [...]:
 
@@ -173,13 +214,13 @@ g) [...];
 
 h) [...].
 
-###### Artigo 56.º
+Artigo 56.º
 
 1 - O presidente e o vice-presidente da Academia são eleitos por um período de três anos, em plenário, só podendo a eleição recair sobre os académicos efetivos que se encontrem há pelo menos dois anos nessa categoria.
 
 2 - Os titulares do mandato cessante não podem ser reeleitos para o mandato imediatamente posterior, tendo aqueles mandatos o seu início e o seu termo na mesma data.
 
-###### Artigo 59.º
+Artigo 59.º
 
 [...]:
 
@@ -199,7 +240,7 @@ g) [...];
 
 h) [...].
 
-###### Artigo 62.º
+Artigo 62.º
 
 [...]:
 
@@ -223,11 +264,11 @@ i) [...];
 
 j) [Revogada].
 
-###### Artigo 66.º
+Artigo 66.º
 
-**O secretário-geral e o vice-secretário-geral são eleitos em plenário de efetivos, por escrutínio secreto e por períodos de três anos, podendo ser reeleitos, uma ou mais vezes, por idêntico período.**
+O secretário-geral e o vice-secretário-geral são eleitos em plenário de efetivos, por escrutínio secreto e por períodos de três anos, podendo ser reeleitos, uma ou mais vezes, por idêntico período.
 
-###### Artigo 77.º
+Artigo 77.º
 
 Aos trabalhadores dos serviços da Academia é aplicável a Lei Geral do Trabalho em Funções Públicas, aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, alterada pela [Lei n.º 82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro.»
 
@@ -249,15 +290,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de março de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 3 de julho de 2015.**
+Promulgado em 3 de julho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de julho de 2015.**
+Referendado em 23 de julho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -663,7 +704,7 @@ O plenário da Academia reúne-se em sessão ordinária uma vez por ano, no iní
 
 ###### Artigo 51.º
 
-**O presidente da Academia pode convocar para o plenário geral o pessoal em serviço na Academia, devendo fazê-lo quando sejam submetidos à discussão assuntos do seu interesse como funcionários, ou que afetem a sua situação.**
+O presidente da Academia pode convocar para o plenário geral o pessoal em serviço na Academia, devendo fazê-lo quando sejam submetidos à discussão assuntos do seu interesse como funcionários, ou que afetem a sua situação.
 
 § único. No caso previsto no corpo deste artigo, a sessão será expressamente convocada, constando apenas da ordem do dia assuntos relativos ao pessoal.
 
@@ -697,11 +738,11 @@ A presidência da Academia é constituída pelo presidente e vice-presidente.
 
 ###### Artigo 57.º
 
-**O presidente e o vice-presidente devem pertencer a classes diferentes.**
+O presidente e o vice-presidente devem pertencer a classes diferentes.
 
 ###### Artigo 58.º
 
-**O presidente não pode ser eleito entre os membros da classe à qual pertencer o presidente cessante.**
+O presidente não pode ser eleito entre os membros da classe à qual pertencer o presidente cessante.
 
 ###### Artigo 59.º
 
@@ -769,11 +810,11 @@ O conselho administrativo reúne ordinariamente uma vez por mês e extraordinari
 
 ###### Artigo 66.º
 
-**O secretário-geral e o vice-secretário-geral são eleitos em plenário de efetivos, por escrutínio secreto e por períodos de três anos, podendo ser reeleitos, uma ou mais vezes, por idêntico período.**
+O secretário-geral e o vice-secretário-geral são eleitos em plenário de efetivos, por escrutínio secreto e por períodos de três anos, podendo ser reeleitos, uma ou mais vezes, por idêntico período.
 
 ###### Artigo 67.º
 
-**O secretário-geral e o vice-secretário-geral devem pertencer a classes diferentes.**
+O secretário-geral e o vice-secretário-geral devem pertencer a classes diferentes.
 
 ###### Artigo 68.º
 

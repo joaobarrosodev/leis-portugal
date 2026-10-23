@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/23/1995/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-1995-513988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T08:28:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf2e553f1b5bde4715993f9531c702e4079529ac69c090ff2b3eccf6274b8adb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2092db77529fae398faa51de730abfe5072159d53a14f350c7309979d6c3c50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:28:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,33 @@ relationships:
   target: pt:dre:1790220:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1790220:por
+  label: "Dada nova redacção ao artigo 5.º, n.º 6 do artigo 7.º, n.º 4 do artigo 13.º, aos nºs 6 e 7 do artigo 13.º, nºs 11,\
+    \ 12, 13, 14 e 15 do artigo 13.º, alínea c) do n.º 1 do artigo 17.º, artigo 27.º, n.º 1 do artigo 30.º, nºs 2 e 3 do artigo\
+    \ 32.º, n.º 2 do artigo 36.º, n.º 10 do artigo 47.º, alínea a) do n.º 1 do artigo 48.º, aditado um n.º 7 do artigo 7.º\
+    \ e um n.º 3.º do artigo 36º, e elimina as alíneas g) e h) do artigo 18.º e o n.º 3 do artigo 40.º (renumerando os restantes\
+    \ números deste artigo ) do presente diploma pelo ]DN.4/2007.05.12.2006.MCTES, DR.IIS [5] de 08.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2007-1790220
+  date: '2006-12-05'
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
 article_structure:
   article_count: 54
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:28:08Z'
   warnings: []
   errors: []
 ---
@@ -265,7 +282,7 @@ c) O conselho administrativo.
 
 ###### Artigo 12.º — Definição
 
-**O presidente é o órgão que superiormente representa e dirige o IPVC.**
+O presidente é o órgão que superiormente representa e dirige o IPVC.
 
 ###### Artigo 13.º — Eleição
 

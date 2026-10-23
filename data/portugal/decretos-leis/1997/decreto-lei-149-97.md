@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/06/134a00/28532858.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/149/1997/06/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-1997-359544
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 171a5fa8096c71d6d1c138a78e29f5c2ea81956a88c67f485f6f3117afb027d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 031f4279ea15dc26eb9eaa0d443d165aa9af21f7f2acdb142e6ebc839f8630c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,44 +66,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
 - Aproximação das Legislações
-- Doença Animal
-- Multa
+- Aquicultura
 - Contra-ordenação
-- Direção Geral de Veterinária
+- Controlo Sanitário
 - Definição de Competências
+- Direção Geral de Veterinária
 - Direcção Geral das Pescas e Aquicultura
 - Direcção Regional de Agricultura
-- Controlo Sanitário
-- Saúde Pública
+- Doença Animal
 - Fiscalização
 - Inspecção Geral das Actividades Económicas
 - Instituto de Investigação das Pescas e do Mar
 - Laboratório Nacional de Investigação Veterinária
-- Aquicultura
+- Multa
 - Peixe
+- Produção Animal
 - Regulamento
 - Saúde Animal
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:491908:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:330851:por
+  label: "Alterado a al. a) do art. 6º e o art. 12º do Regulamento pelo DEC LEI.175/2001.2001.06.01.MADRP DR.IS-A [127]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/175-2001-330851
+  date: '2001-06-01'
 - type: cites
   target: celex:31993L0053
   label: null
   source: http://data.europa.eu/eli/dir/1993/53/oj
+- type: repealed_by
+  target: pt:dre:491908:por
+  label: "Revogado pelo DEC LEI.152/2009.02.07.2009.MADRP, DR.IS [126] de 02.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-2009-491908
+  date: '2009-07-02'
 article_structure:
   article_count: 23
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:44Z'
   warnings: []
   errors: []
 ---
@@ -200,15 +210,15 @@ Nas Regiões Autónomas dos Açores e da Madeira, a execução administrativa do
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Promulgado em 22 de Maio de 1997.**
+Promulgado em 22 de Maio de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Maio de 1997.**
+Referendado em 27 de Maio de 1997.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.
 
 ## ANEXO — REGULAMENTO DAS MEDIDAS MÍNIMAS DE COMBATE ÀS DOENÇAS DOS PEIXES
 
@@ -394,7 +404,7 @@ Os peritos veterinários da Comissão da União Europeia, em colaboração com o
 
 ## ANEXO A — Laboratório comunitário de referência para as doenças dos peixes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/134a00/28532858.pdf))](https://files.diariodarepublica.pt/1s/1997/06/134a00/28532858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/134a00/28532858.pdf)
 
 ## ANEXO B — Critérios mínimos aplicáveis aos planos de emergência
 

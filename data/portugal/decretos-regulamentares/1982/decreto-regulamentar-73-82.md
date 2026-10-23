@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/11/25400/36393641.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/73-1982-378312
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:06:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5274ecfac732447a678bbb0943f9edab49ef09ee2115381272e9f0142d35aa6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c48bd9f8c9ea849025ca7c07793c4a1b5b60ac6ca3e51000c19ec5bae2d3402
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:06:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Superior da Reforma Administrativa
+- Ministério da Reforma Administrativa
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:218908:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:392869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:318150:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 300/1982, Série I de 1982-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-318150
+  date: '1982-12-30'
+- type: repealed_by
+  target: pt:dre:218908:por
+  label: Revogado, pelo(a) Decreto-Lei n.º 229/86 - Diário da República n.º 186/1986, Série I de 1986-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-1986-218908
+  date: '1986-08-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:06:12Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +123,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Conselho Superior da Reforma Administrativa (CSRA) é o órgão colegial de apoio consultivo do MRA que tem por objectivo assegurar a participação da Administração Pública e dos seus utentes na reforma administrativa, visando a ligação e interacção permanentes entre os programas e projectos de reforma e as necessidades efectivamente detectadas.
+Artigo 1.º O Conselho Superior da Reforma Administrativa (CSRA) é o órgão colegial de apoio consultivo do MRA que tem por objectivo assegurar a participação da Administração Pública e dos seus utentes na reforma administrativa, visando a ligação e interacção permanentes entre os programas e projectos de reforma e as necessidades efectivamente detectadas.
 
-###### Art. 2.º São atribuições do CSRA:
+Art. 2.º São atribuições do CSRA:
 
 a) Participar na definição das políticas globais e sectoriais de reforma e de aperfeiçoamento da Administração Pública;
 
@@ -118,7 +139,7 @@ e) Participar na avaliação dos resultados, pronunciando-se sobre a eficácia d
 
 f) Acompanhar a execução das políticas de reforma pelos competentes órgãos sectoriais.
 
-###### Art. 3.º No exercício das suas atribuições, compete ao CSRA:
+Art. 3.º No exercício das suas atribuições, compete ao CSRA:
 
 a) Pronunciar-se sobre o programa anual de actividades respeitantes à reforma administrativa e sobre os respectivos planos a médio e longo prazo, avaliando da oportunidade, prioridade e exequibilidade das acções programadas;
 
@@ -140,7 +161,7 @@ i) Designar, de entre os seus membros ou por indicação destes, elementos que i
 
 j) Estabelecer em regulamento as normas necessárias ao seu funcionamento.
 
-###### Art. 4.º - 1 - São membros do CSRA o presidente, o vice-presidente e as entidades referidas no n.º 3 deste artigo.
+Art. 4.º - 1 - São membros do CSRA o presidente, o vice-presidente e as entidades referidas no n.º 3 deste artigo.
 
 2 - O CSRA é presidido pelo Ministro da Reforma Administrativa e tem como vice-presidente uma individualidade de reconhecida competência, a nomear por despacho conjunto do Primeiro-Ministro e do Ministro da Reforma Administrativa, nos termos da legislação aplicável ao pessoal dirigente.
 
@@ -160,7 +181,7 @@ c) Em representação do ambiente externo, personalidades especialmente qualific
 
 7 - A não designação dos substitutos ou a sua demora não impedirá o válido funcionamento do Conselho, desde que estejam em funções pelo menos dois terços dos seus membros.
 
-###### Art. 5.º - 1 - Compete ao presidente:
+Art. 5.º - 1 - Compete ao presidente:
 
 a) Convocar o CSRA e dirigir as reuniões plenárias;
 
@@ -186,13 +207,13 @@ g) Submeter a despacho ao presidente do CSRA os assuntos que dele careçam.
 
 3 - O vice-presidente é equiparado, para todos os efeitos legais, a director-geral, sendo a respectiva remuneração fixada nos termos do n.º 3 do artigo 19.º do [Decreto-Lei n.º 170/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1982-392869), de 10 de Maio.
 
-###### Art. 6.º - 1 - O apoio técnico e administrativo ao CSRA será assegurado, respectivamente, por 1 secretariado técnico e por 1 núcleo administrativo.
+Art. 6.º - 1 - O apoio técnico e administrativo ao CSRA será assegurado, respectivamente, por 1 secretariado técnico e por 1 núcleo administrativo.
 
 2 - O secretariado técnico preparará os estudos e pareceres necessários ao normal desenvolvimento das actividades do Conselho e prestará todo o restante apoio técnico que lhe for solicitado pelos membros do Conselho, no âmbito do funcionamento deste último.
 
 3 - O núcleo administrativo assegurará o apoio ao Conselho em matéria de expediente, arquivo, pessoal, contabilidade e economato, e funcionará na dependência funcional da Direcção de Serviços de Administração Geral do MRA.
 
-###### Art. 7.º - 1 - O Conselho será secretariado por um funcionário de categoria não inferior à de assessor, letra C, ao qual caberá, designadamente:
+Art. 7.º - 1 - O Conselho será secretariado por um funcionário de categoria não inferior à de assessor, letra C, ao qual caberá, designadamente:
 
 a) Preparar e formalizar os trabalhos do Conselho, reunido em plenário ou em comissões especializadas;
 
@@ -204,9 +225,9 @@ d) Apoiar directamente o vice-presidente no exercício das competências previst
 
 2 - O cargo de secretário do CSRA será remunerado pela letra B e o exercício, em comissão de serviço, por tempo indeterminado, sendo a nomeação feita sob proposta do vice-presidente.
 
-###### Art. 8.º - 1 - O Centro de Informática Científica e Técnica da Reforma Administrativa prestará o apoio que, na respectiva área de competência, o CSRA lhe solicitar.
+Art. 8.º - 1 - O Centro de Informática Científica e Técnica da Reforma Administrativa prestará o apoio que, na respectiva área de competência, o CSRA lhe solicitar.
 
-###### Art. 9.º - 1 - O CSRA reunirá ordinariamente 6 vezes por ano, em plenário, funcionando em comissões especializadas sempre que necessário, nos termos a definir no regulamento.
+Art. 9.º - 1 - O CSRA reunirá ordinariamente 6 vezes por ano, em plenário, funcionando em comissões especializadas sempre que necessário, nos termos a definir no regulamento.
 
 b) A pedido de um terço dos seus membros em plenário:
 
@@ -216,27 +237,27 @@ b) A pedido de 1 terço dos seus membros em exercício.
 
 3 - Das reuniões do CSRA e das comissões especializadas serão elaboradas actas, nos termos a definir no regulamento.
 
-###### Art. 10.º - 1 - As prioridades serão definidas em ordem de trabalhos pelo presidente, tomando em consideração as propostas apresentadas pelos membros do CSRA.
+Art. 10.º - 1 - As prioridades serão definidas em ordem de trabalhos pelo presidente, tomando em consideração as propostas apresentadas pelos membros do CSRA.
 
 2 - A ordem de trabalhos poderá ser alterada, nos termos a definir no regulamento.
 
-###### Art. 11.º - 1 - As reuniões plenárias do CSRA só poderão funcionar com a presença de, pelo menos, dois terços dos seus membros em exercício.
+Art. 11.º - 1 - As reuniões plenárias do CSRA só poderão funcionar com a presença de, pelo menos, dois terços dos seus membros em exercício.
 
 2 - As reuniões das comissões só poderão funcionar com a presença de, pelo menos, metade dos seus vogais.
 
-###### Art. 12.º - 1 - As deliberações serão tomadas por maioria simples.
+Art. 12.º - 1 - As deliberações serão tomadas por maioria simples.
 
 2 - O vice-presidente só usará do direito de voto quando esteja a substituir o presidente.
 
 3 - Em caso de empate, proceder-se-á a nova votação e, se o empate persistir, competirá ao presidente o voto de qualidade.
 
-###### Art. 13.º - 1 - Sempre que o presidente e, pelo menos, um terço dos seus membros o entenda conveniente, o CSRA poderá ouvir ou solicitar parecer sobre qualquer dos assuntos para que é competente a individualidades ou entidades, nacionais ou estrangeiras, particularmente vocacionadas para a matéria.
+Art. 13.º - 1 - Sempre que o presidente e, pelo menos, um terço dos seus membros o entenda conveniente, o CSRA poderá ouvir ou solicitar parecer sobre qualquer dos assuntos para que é competente a individualidades ou entidades, nacionais ou estrangeiras, particularmente vocacionadas para a matéria.
 
 2 - O CSRA participará nos programas de assistência técnica a prestar pelas organizações internacionais competentes e nos projectos de cooperação bilateral com outros países na área da reforma administrativa.
 
-###### Art. 14.º Aos membros do CSRA poderá ser atribuída uma compensação por cada reunião a que compareçam, nos termos a fixar por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Reforma Administrativa.
+Art. 14.º Aos membros do CSRA poderá ser atribuída uma compensação por cada reunião a que compareçam, nos termos a fixar por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Reforma Administrativa.
 
-###### Art. 15.º - 1 - O CSRA disporá do pessoal técnico superior e técnico auxiliar constante do quadro fixado no anexo I ao presente diploma.
+Art. 15.º - 1 - O CSRA disporá do pessoal técnico superior e técnico auxiliar constante do quadro fixado no anexo I ao presente diploma.
 
 2 - Os lugares previstos no quadro referido no n.º 1 poderão ser providos, por interesse da Administração ou dos interessados, em regime de comissão de serviço, por períodos não superiores a 3 anos, podendo, neste caso, os lugares de origem ser preenchidos interinamente.
 
@@ -244,30 +265,30 @@ b) A pedido de 1 terço dos seus membros em exercício.
 
 4 - O quadro de pessoal a que se refere o n.º 1 poderá ser revisto nos termos da legislação aplicável.
 
-###### Art. 16.º O regime do pessoal, o do recrutamento e as normas de provimento são os constantes da legislação geral aplicável e do diploma regulamentar sobre pessoal do MRA.
+Art. 16.º O regime do pessoal, o do recrutamento e as normas de provimento são os constantes da legislação geral aplicável e do diploma regulamentar sobre pessoal do MRA.
 
-###### Art. 17.º O CSRA aprovará em plenário o respectivo regulamento interno, o qual será publicado no Diário da República, 2.ª série, após homologação do Ministro da Reforma Administrativa.
+Art. 17.º O CSRA aprovará em plenário o respectivo regulamento interno, o qual será publicado no Diário da República, 2.ª série, após homologação do Ministro da Reforma Administrativa.
 
-###### Art. 18.º - 1 - O Ministro da Reforma Administrativa providenciará para que sejam postas à disposição do CSRA as instalações necessárias ao seu normal funcionamento.
+Art. 18.º - 1 - O Ministro da Reforma Administrativa providenciará para que sejam postas à disposição do CSRA as instalações necessárias ao seu normal funcionamento.
 
 2 - Sempre que o considere conveniente, o CSRA pode reunir fora das suas instalações habituais.
 
-###### Art. 19.º As dúvidas que ocorram na execução do presente diploma serão esclarecidas por despacho do Ministro da Reforma Administrativa, o qual será conjunto com o do Ministro de Estado e das Finanças e do Plano quando se trate de matérias da sua competência.
+Art. 19.º As dúvidas que ocorram na execução do presente diploma serão esclarecidas por despacho do Ministro da Reforma Administrativa, o qual será conjunto com o do Ministro de Estado e das Finanças e do Plano quando se trate de matérias da sua competência.
 
-###### Art. 20.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 20.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Diogo Pinto de Freitas do Amaral - Alípio Barrosa Pereira Dias - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 20 de Outubro de 1982.**
+Promulgado em 20 de Outubro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO I — Quadro de pessoal a que se refere o n.º 1 do artigo 16.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36393641.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36393641.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36393641.pdf)
 
 ## ANEXO II — Pessoal a que se refere o n.º 3 do artigo 16.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36393641.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36393641.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36393641.pdf)

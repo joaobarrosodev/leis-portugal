@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10300/35043506.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/66/2007/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-2007-638530
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:31:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b480e0f83a383476a2c93aa3edeb4c71e0c7206304d9e1945b8a87f6e17fe0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 326bbd64cbf293d8532320b80564e7416458878982aa749d33b1bc6c25771678
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:31:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direção Geral da Saúde
-- Definição de Competências
 - Administração Regional de Saúde
 - Autoridade de Saúde Nacional
 - Centro de Atendimento do Serviço Nacional de Saúde
-- Unidade de Apoio às Emergências de Saúde Pública
+- Definição de Competências
+- Direção Geral da Saúde
 - Diretor Geral
 - Instituto da Qualidade em Saúde
-- Orgânica
 - Ministério da Saúde
+- Orgânica
 - Subdirector Geral
+- Unidade de Apoio às Emergências de Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:544428:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:440818:por
+  label: "Alterados os arts. 2.º, 10.º e 11.º, pelo DR.21/2008.02.12.2008.MS, DR.IS [233] de 02.12.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/21-2008-440818
+  date: '2008-12-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/122/1997/05/20/p/dre
   label: null
@@ -101,16 +106,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:398541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651701:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:544428:por
+  label: "Revogado, a partir de 01.02.2012, pelo DR.14/2012.26.01.2012.MS, DR.IS [19] de 26.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/14-2012-544428
+  date: '2012-01-26'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:31:13Z'
   warnings: []
   errors: []
 ---
@@ -225,16 +255,16 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos.
 
-**Promulgado em 12 de Abril de 2007.**
+Promulgado em 12 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Abril de 2007.**
+Referendado em 16 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 8.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/10300/35043506.pdf))](https://files.diariodarepublica.pt/1s/2007/05/10300/35043506.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/10300/35043506.pdf)

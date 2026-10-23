@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/27/1997/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1997-581228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f09ed98e0c616c5d3a04d886466da883a9dae4bea767013ce9dc50c0423e561b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a95682e896b1341ab8c1c85cadfb13e27488ddfe6d82abb325c8ec02b347e3b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ponte de Vasco da GAMA
 - Contribuição Especial
-- Lisboa
-- RIO TEJO
-- Imposto de Mais-Valias
 - Contribuições e Impostos
 - Exposição Internacional de Lisboa de 1998
+- Imposto de Mais-Valias
+- Lisboa
+- Mais-Valias
 - Parque EXPO 98
-- Zona de Proteção
+- Ponte de Vasco da GAMA
 - Prédio Rústico
 - Regulamento
 - Regulamento da Contribuição Especial
-- Mais-Valias
+- RIO TEJO
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/51/1995/03/20/p/dre
@@ -92,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
+- type: cites
+  target: pt:dre:166201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:31Z'
   warnings: []
   errors: []
 ---
@@ -142,12 +154,12 @@ No uso da autorização legislativa concedida pelo n.º 4 do artigo 32.º da [Le
 
 Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 1996. - António Manuel de Oliveira Guterres - António Carlos dos Santos - António José Borrani Crisóstomo Teixeira.
 
-**Promulgado em 31 de Dezembro de 1996.**
+Promulgado em 31 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Dezembro de 1996.**
+Referendado em 31 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 299/1984, 2º Suplemento, Série I de 1984-12-28
   number: '299'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3936-(26) a 3936-(27)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/12/29902/00260027.pdf
 entry_into_force_dates: []
@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/987-b-1984-621942
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T08:18:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6087644ea1b66b24668a584744d53306084a86fded317f1f082690b99c072315
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 977b232cadb77b6f2956ed20eef604a3fa0d269ea25468d4b7bba4549025e83f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:18:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aviação Civil
+- Navegação Aérea
+- Tarifa Transatlântica
+- Taxa de rota
+relationships:
+- type: cites
+  target: pt:dre:312659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659930:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:18:00Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +113,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Equipamento Social, o
 
 1.º O artigo 11.º da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659), de 31 de Outubro, passa a ter a seguinte redacção:
 
-###### Art. 11.º - 1 - Sem prejuízo da aplicação das disposições do artigo 5.º, a taxa unitária para os espaços aéreos definidos no artigo 2.º será de:
+Art. 11.º - 1 - Sem prejuízo da aplicação das disposições do artigo 5.º, a taxa unitária para os espaços aéreos definidos no artigo 2.º será de:
 
 US$ 26,85 para a Região de Informação de Voo de Lisboa;
 
@@ -107,19 +123,19 @@ US$ 9,09 para a Região de Informação de Voo de Santa Maria.
 
 2.º O anexo 1 a que se refere o n.º 1 do artigo 12.º da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659) é substituído pelo seguinte:
 
-## Anexo 1 a que se refere o artigo 12.º da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659), de 31 de Outubro
+Anexo 1 a que se refere o artigo 12.º da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659), de 31 de Outubro
 
 Lista das tarifas transatlânticas aplicáveis a partir de 1 de Janeiro de 1985 para uma aeronave cujo coeficiente de peso é igual à unidade (50 t métricas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/29902/00260027.pdf))](https://files.diariodarepublica.pt/1s/1984/12/29902/00260027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/29902/00260027.pdf)
 
 3.º O anexo 3 a que se refere o n.º 5 do artigo 12.º da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659) é substituído pelo seguinte:
 
-## Anexo 3 a que se refere o n.º 5 do artigo 12.º da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659), de 31 de Outubro
+Anexo 3 a que se refere o n.º 5 do artigo 12.º da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659), de 31 de Outubro
 
 Lista das taxas de câmbio das diversas moedas nacionais em relação ao dólar, na base das quais foram calculadas as tarifas transatlânticas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/29902/00260027.pdf))](https://files.diariodarepublica.pt/1s/1984/12/29902/00260027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/29902/00260027.pdf)
 
 4.º Mantém-se em vigor o disposto no artigo 3.º da [Portaria n.º 46/84](https://diariodarepublica.pt/dr/detalhe/portaria/46-1984-659930), de 21 de Janeiro.
 
@@ -127,6 +143,6 @@ Lista das taxas de câmbio das diversas moedas nacionais em relação ao dólar,
 
 Ministério do Equipamento Social.
 
-**Assinada em 28 de Dezembro de 1984.**
+Assinada em 28 de Dezembro de 1984.
 
-**O Ministro do Equipamento Social, João Rosado Correia.**
+O Ministro do Equipamento Social, João Rosado Correia.

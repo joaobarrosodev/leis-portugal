@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/92/2025/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2025-928937302
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe53c1c00a261e59012379876aca65b868153a6007e3fdf9dc8162b6ca2a012a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d125c20274aa4682dd1522ede5fcfafa1a50ff4880303275f4288bd0ad8e3e35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,11 +71,11 @@ subjects:
 - Conselho de Ministros
 - Delegação de Competências
 - Empresa Pública
-- Setor Empresarial do Estado
-- Privatização
-- Ministro de Estado e das Finanças
-- TAP
 - Governo XXV
+- Ministro de Estado e das Finanças
+- Privatização
+- Setor Empresarial do Estado
+- TAP
 relationships:
 - type: cites
   target: celex:32008R1008
@@ -105,16 +105,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/91-a/2015/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/91-a/2015/11/12/p/dre
+- type: cites
+  target: pt:dre:138217594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65990726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70999382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74498466:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:181-A/2014
+  label: Revoga, a partir de 18 de agosto de 2025, nos termos do artigo 16.º do presente diploma, o Decreto-Lei n.º 181-A/2014,
+    de 24 de dezembro, Diário da República n.º 248/2014, 1º Suplemento, Série I, com exceção do disposto no seu artigo 12.º
+  source: null
+  date: '2014-12-24'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:31Z'
   warnings: []
   errors: []
 ---
@@ -293,7 +323,7 @@ c) Direito de preferência e/ou direito de primeira oferta a favor do Estado Por
 
 5 - Com exceção de eventuais acordos parassociais celebrados entre o Estado Português e o investidor ou investidores de referência, é nulo qualquer negócio através do qual um acionista se obrigue a exercer, em determinado sentido, durante o período de indisponibilidade, os direitos de voto inerentes a ações abrangidas pelo regime de indisponibilidade, ainda que tal obrigação decorra de negócio celebrado antes de iniciado aquele período.
 
-6 - As nulidades previstas nos n.<sup>os</sup>4 e 5 podem ser judicialmente declaradas, a requerimento do Ministério Público, sem prejuízo da sua invocação, nos termos gerais de direito, por qualquer interessado, incluindo a própria TAP.
+6 - As nulidades previstas nos n.os4 e 5 podem ser judicialmente declaradas, a requerimento do Ministério Público, sem prejuízo da sua invocação, nos termos gerais de direito, por qualquer interessado, incluindo a própria TAP.
 
 7 - Em casos devidamente justificados, o Conselho de Ministros pode, na sequência de requerimento fundamentado dos interessados e devida ponderação dos interesses públicos em presença, autorizar a celebração dos negócios previstos no presente artigo.
 
@@ -381,12 +411,14 @@ O presente decreto-lei entra em vigor no primeiro dia útil após a sua publica�
 
 Visto e aprovado em Conselho de Ministros de 10 de julho de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 7 de agosto de 2025.**
+Promulgado em 7 de agosto de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de agosto de 2025.**
+Referendado em 11 de agosto de 2025.
 
 Pelo Primeiro-Ministro, Joaquim Miranda Sarmento, Ministro de Estado e das Finanças.
+
+119425431

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/05/119a00/46784678.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/150/2002/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2002-158584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d9d8126d748d9ca21ec4ac00dc14ca3782eddf2142e5cf32a5f192052317144
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d864168cbd8272a74c0d1ba56fa646c3327b4deb670b92fa6ba3dff28866bb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Comércio
 - Especificação Técnica
 - Gasóleo
 - Gasolina
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:218332:por
@@ -82,16 +82,22 @@ relationships:
   target: celex:31970L0098
   label: null
   source: http://data.europa.eu/eli/dir/1970/98/oj
+- type: repealed_by
+  target: pt:dre:218332:por
+  label: "Revogado, por força da revogação do Dec Lei 104/2000 de 03-Jun, pelo DEC LEI.235/2004.16.12.2004.MAET, DR.IS-A [293]\
+    \ de 16.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-2004-218332
+  date: '2004-12-16'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:45Z'
   warnings: []
   errors: []
 ---
@@ -130,12 +136,12 @@ Situações excepcionais
 
 Visto e aprovado em Conselho de Ministros de 21 de Março de 2002. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - António Luís Santos Costa - Luís Garcia Braga da Cruz - António Fernando Correia de Campos - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 7 de Maio de 2002.**
+Promulgado em 7 de Maio de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Maio de 2002.**
+Referendado em 9 de Maio de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

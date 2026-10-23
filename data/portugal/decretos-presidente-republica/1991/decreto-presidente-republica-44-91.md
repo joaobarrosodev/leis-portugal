@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/44/1991/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/44-1991-304530
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T04:10:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b412a3147723028e25bb7081a504da4e443079fe521601769fab07d1a14ee70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3be68da2176d139d243ebd2473562f713674f6954900de8b7d7e3baaf49ddf3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:10:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Estatuto Jurídico
 - Estrasburgo
+- Organismo Internacional
 - Organização não Governamental
 - Personalidade Jurídica
-- Organismo Internacional
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:70241301:por
@@ -82,16 +82,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/28/1991/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/28/1991/09/06/p/dre
+- type: cites
+  target: pt:dre:304529:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:10:49Z'
   warnings: []
   errors: []
 ---
@@ -100,16 +104,16 @@ validation:
 
 de 6 de Setembro
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:
 
 É ratificada a Convenção Europeia sobre o Reconhecimento da Personalidade Jurídica das Organizações Internacionais não Governamentais, aberta à assinatura em Estrasburgo em 24 de Abril de 1986, aprovada, para ratificação, pela [Resolução da Assembleia da República n.º 28/91](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/28-1991-304529), em 20 de Junho de 1991.
 
-**Assinado em 12 de Agosto de 1991.**
+Assinado em 12 de Agosto de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Agosto de 1991.**
+Referendado em 19 de Agosto de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

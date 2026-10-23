@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/9/2010/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2010-617118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c477ff575d0a7755017abb2250c29e8b9462cfdde5d335b67b9761a6f31fff97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a7d5059da1bb8991474d4b29fdf01009ec4b89a5312c09f01cb71a7b58613d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Regional de Saúde
 - Aproximação das Legislações
 - Armazenagem
 - Autoridade para os Serviços de Sangue e da Transplantação
-- Direção Geral da Saúde
 - Controlo de Qualidade
-- Definição de Competências
-- Dador de Sangue
-- Administração Regional de Saúde
 - Controlo Sanitário
-- Saúde Pública
-- Instituto Português de Sangue
-- Segurança da Informação
+- Dador de Sangue
+- Definição de Competências
+- Direção Geral da Saúde
 - Doença Infecciosa
-- Sistema de Informação
+- Instituto Português de Sangue
 - Sangue Humano
+- Saúde Pública
+- Segurança da Informação
+- Sistema de Informação
 relationships:
 - type: cites
   target: celex:32000D0096
@@ -114,13 +114,13 @@ relationships:
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:04Z'
   warnings: []
   errors: []
 ---
@@ -211,12 +211,12 @@ O presente decreto-lei cessa a sua vigência em 30 de Junho de 2010.
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 2009. - José Sócrates Carvalho Pinto de Sousa - António Fernandes da Silva Braga - Ana Maria Teodoro Jorge.
 
-**Promulgado em 26 de Janeiro de 2010.**
+Promulgado em 26 de Janeiro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de Janeiro de 2010.**
+Referendado em 27 de Janeiro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

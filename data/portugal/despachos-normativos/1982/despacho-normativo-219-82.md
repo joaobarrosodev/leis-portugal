@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/219-1982-376672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T07:18:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96e98df3afe615a74e18ab05b8aebd960d4b9d886152f6206f8589ea86459272
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6dceeed2a8fccecf857f1584f76890dae142c6cbb13a3e7f696d54208a47607
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:18:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Formas de Provimento
+- Presidência do Conselho de Ministros
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469776:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:18:20Z'
   warnings: []
   errors: []
 ---
@@ -89,6 +104,6 @@ validation:
 
 MAPA ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/23700/33363336.pdf))](https://files.diariodarepublica.pt/1s/1982/10/23700/33363336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/23700/33363336.pdf)
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Reforma Administrativa, 22 de Setembro de 1982. - Pelo Primeiro-Ministro, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares, Secretária de Estado da Presidência do Conselho de Ministros. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Reforma Administrativa, José Manuel Meneres Sampaio Pimentel.

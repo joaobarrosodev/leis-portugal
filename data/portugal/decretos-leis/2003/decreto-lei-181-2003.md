@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/188a00/51065115.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/181/2003/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2003-660295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4af9fd1332c58c4234c882fbbf350c06f67c983189695fdd49b99a735a3b098
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a54505c799638a2674307334498157bef4120e4f758a9619f7a1b62c658a2c73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autonomia Administrativa
-- Pessoal Dirigente
 - Conselho Administrativo
 - Criação de Serviços
-- Instituto das Artes
+- Gestão de Recursos Humanos
 - Gestão do Património
+- Instituto das Artes
 - Instituto de ARTE Contemporânea
 - Instituto Português das Artes do Espectáculo
 - Integração de Serviços
 - Integração de Trabalhadores
 - Orgânica
 - Pessoa Colectiva de Direito Público
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Reestruturação de Carreiras
-- Gestão de Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:520460:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545647:por
+  label: "Reestruturado o Instituto das Artes, criado pelo presente diploma que nos termos da alínea b) do nº. 4 do artigo\
+    \ 26.º passa a integrar a administração directa do Estado com a designação de Direcção-Geral das Artes pelo DEC LEI.215/2006.27.10.2006.MC,\
+    \ DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2006-545647
+  date: '2006-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/103/1997/04/28/p/dre
   label: null
@@ -126,16 +133,75 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:138784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:463444:por
+  label: "Revogado o nº 2 do art. 7º, pelo DEC LEI.224/2005.27.12.2005.MC, DR.IS-A [247] de 27.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-2005-463444
+  date: '2005-12-27'
+- type: repealed_by
+  target: pt:dre:520460:por
+  label: "Revogado e determinado que a Direcção-Geral das Artes suceda nas atribuições do Instituto das Artes, cuja orgânica\
+    \ foi aprovada pelo presente diploma, pelo DEC LEI.91/2007.29.03.2007.MC, DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-2007-520460
+  date: '2007-03-29'
 article_structure:
   article_count: 40
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:27Z'
   warnings: []
   errors: []
 ---
@@ -472,7 +538,9 @@ j) Zelar pela segurança e manutenção das instalações e equipamentos.
 
 2 - Para o desempenho das suas competências, o Departamento de Gestão e Apoio Técnico compreende as Secções de Pessoal e Expediente, de Contabilidade e de Economato e Património.
 
-###### Artigo 17.º — Secção de Pessoal e Expediente
+###### Artigo 17.º
+
+#### Secção de Pessoal e Expediente
 
 São funções da Secção de Pessoal e Expediente:
 
@@ -494,7 +562,9 @@ h) Organizar o arquivo geral do IA;
 
 i) Proceder à recolha, tratamento e preservação da documentação corrente, nomeadamente a referente aos serviços antecessores, recorrendo aos suportes mais adequados.
 
-###### Artigo 18.º — Secção de Contabilidade
+###### Artigo 18.º
+
+#### Secção de Contabilidade
 
 São funções da Secção de Contabilidade:
 
@@ -514,7 +584,9 @@ g) Promover a constituição, reconstituição e liquidação do fundo permanent
 
 h) Elaborar a conta de gerência.
 
-###### Artigo 19.º — Secção de Economato e Património
+###### Artigo 19.º
+
+#### Secção de Economato e Património
 
 São funções da Secção de Economato e Património:
 
@@ -764,15 +836,15 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 14 de Maio de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - José David Gomes Justino - Pedro Lynce de Faria - Pedro Manuel da Cruz Roseta - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 24 de Julho de 2003.**
+Promulgado em 24 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Agosto de 2003.**
+Referendado em 4 de Agosto de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (mapa a que se refere o n.º 1 do artigo 30.º)
 

@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/961-1984-396350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T08:17:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9c93b7d5598a5ca000556c4af7399bd7e50c29e156f4222d6c9a35b19c59d8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ed743fff5daf90387da55a332bddeb6c5f97d19434062a495dea5df963bc52f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:17:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior
+- Escola Superior de Medicina Veterinária
+- Orgânica
+- Regulamento
+- Universidade Técnica de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:17:23Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +104,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o
 
 Ministério da Educação.
 
-**Assinada em 4 de Dezembro de 1984.**
+Assinada em 4 de Dezembro de 1984.
 
 Pelo Ministro da Educação, Joaquim Germano Pinto Machado Correia da Silva, Secretário de Estado do Ensino Superior.
 
@@ -103,9 +112,9 @@ Regulamento do Departamento de Tecnologia e Sanidade Animal da Escola Superior d
 
 ### CAPÍTULO I — Natureza e objectivos
 
-###### Artigo 1.º O Departamento de Tecnologia e Sanidade Animal da Escola Superior de Medicina Veterinária, da Universidade Técnica de Lisboa, adiante designado por «Departamento», constitui uma unidade orgânica de ensino e investigação, no âmbito da sanidade animal e da transformação dos produtos alimentares de origem animal, vocacionada para o desenvolvimento tecnológico e para a prestação de serviços especializados à comunidade.
+Artigo 1.º O Departamento de Tecnologia e Sanidade Animal da Escola Superior de Medicina Veterinária, da Universidade Técnica de Lisboa, adiante designado por «Departamento», constitui uma unidade orgânica de ensino e investigação, no âmbito da sanidade animal e da transformação dos produtos alimentares de origem animal, vocacionada para o desenvolvimento tecnológico e para a prestação de serviços especializados à comunidade.
 
-###### Art. 2.º Quanto à actividade docente, compete ao Departamento:
+Art. 2.º Quanto à actividade docente, compete ao Departamento:
 
 a) Promover a aquisição e a difusão do conhecimento das áreas da sanidade e da tecnologia dos produtos alimentares de origem animal e a formação de docentes e técnicos de nível superior neste âmbito;
 
@@ -117,7 +126,7 @@ d) Elaborar propostas para a remodelação dos cursos em que figurem as discipli
 
 e) Colaborar no ensino de outras disciplinas integradas em departamentos ou unidades desta Escola ou de outras instituições universitárias.
 
-###### Art. 3.º No âmbito da investigação científica, com especial destaque para a investigação aplicada, compete ao Departamento:
+Art. 3.º No âmbito da investigação científica, com especial destaque para a investigação aplicada, compete ao Departamento:
 
 a) Promover o desenvolvimento do conhecimento nos domínios da sanidade animal e da tecnologia dos produtos animais, de acordo com os planos e programas de actividade para tal definidos;
 
@@ -127,15 +136,15 @@ c) Participar na organização dos programas de investigação destinados ao ens
 
 d) Desenvolver trabalhos de aplicação no âmbito do Departamento, com impacte noutros domínios científicos e tecnológicos, e participar em programas interdisciplinares.
 
-###### Art. 4.º - 1 - Quanto às actividades de apoio ao desenvolvimento e de prestação de serviços, o Departamento oferecerá serviços técnicos especializados e de consultoria nos domínios da sanidade animal e da tecnologia dos produtos de origem animal.
+Art. 4.º - 1 - Quanto às actividades de apoio ao desenvolvimento e de prestação de serviços, o Departamento oferecerá serviços técnicos especializados e de consultoria nos domínios da sanidade animal e da tecnologia dos produtos de origem animal.
 
 2 - Ao Departamento competirá ainda promover a divulgação do saber na área das suas secções e contribuir para a generalização do seu conhecimento, compreensão e integração na cultura.
 
-###### Art. 5.º O Departamento é autónomo no que se refere a organização e realização das suas actividades de ensino, investigação, apoio ao desenvolvimento e prestação de serviços, podendo estabelecer convénios e contratos de prestação de serviços com entidades públicas ou privadas, cuja celebração proporá à Universidade, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos competentes desta ou da Escola.
+Art. 5.º O Departamento é autónomo no que se refere a organização e realização das suas actividades de ensino, investigação, apoio ao desenvolvimento e prestação de serviços, podendo estabelecer convénios e contratos de prestação de serviços com entidades públicas ou privadas, cuja celebração proporá à Universidade, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos competentes desta ou da Escola.
 
 ### CAPÍTULO II — Secções
 
-###### Art. 6.º - 1 - Atendendo à pluralidade das matérias científicas professadas e investigadas no Departamento, poderão nele ser criadas secções.
+Art. 6.º - 1 - Atendendo à pluralidade das matérias científicas professadas e investigadas no Departamento, poderão nele ser criadas secções.
 
 2 - As secções são unidades respeitantes a áreas diferenciadas do conhecimento, com dimensões e características que permitam a prossecução e o desenvolvimento de actividades de ensino, investigação e prestação de serviços.
 
@@ -151,23 +160,23 @@ d) Inspecção Sanitária dos Produtos de Origem Animal;
 
 e) Tecnologia dos Produtos de Origem Animal.
 
-###### Art. 7.º A criação de novas secções ou a dissolução das existentes compete ao conselho do Departamento, sob proposta de, pelo menos, um professor catedrático ou associado e de acordo com as noções consignadas no artigo anterior, devendo essas alterações ser introduzidas no presente Regulamento, nos termos do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
+Art. 7.º A criação de novas secções ou a dissolução das existentes compete ao conselho do Departamento, sob proposta de, pelo menos, um professor catedrático ou associado e de acordo com as noções consignadas no artigo anterior, devendo essas alterações ser introduzidas no presente Regulamento, nos termos do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
 ### CAPÍTULO III — Órgãos
 
-###### Art. 8.º O Departamento tem os seguintes órgãos:
+Art. 8.º O Departamento tem os seguintes órgãos:
 
 a) Conselho de departamento;
 
 b) Comissão executiva.
 
-###### Art. 9.º O conselho de departamento é constituído por membros permanentes e por membros não permanentes.
+Art. 9.º O conselho de departamento é constituído por membros permanentes e por membros não permanentes.
 
 1 - São membros permanentes os professores catedráticos, associados e auxiliares, em regime de tempo integral, e os investigadores doutorados incluídos na área científica abrangida pelo Departamento.
 
 2 - São membros não permanentes os representantes dos docentes e investigadores não doutorados, das áreas científicas abrangidas pelo Departamento, eleitos por mandatos bienais por e entre todo o pessoal daquelas categorias, sem prejuízo do limite fixado na parte final do n.º 3 do artigo 7.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053).
 
-###### Art. 10.º - 1 - A eleição dos membros não permanentes terá lugar nos primeiros 10 dias do mês de Outubro do primeiro ano de cada biénio.
+Art. 10.º - 1 - A eleição dos membros não permanentes terá lugar nos primeiros 10 dias do mês de Outubro do primeiro ano de cada biénio.
 
 2 - A fim de se proceder à eleição dos membros não permanentes, o presidente do conselho de departamento ou, na sua falta ou impedimento, o membro permanente mais antigo da categoria mais elevada do Departamento convocará os docentes e investigadores não doutorados e em regime de tempo integral da área departamental para uma sessão especial, a que presidirá.
 
@@ -179,7 +188,7 @@ b) Comissão executiva.
 
 6 - Os membros eleitos entram em funções no dia imediato ao da eleição e cessam funções no dia em que forem eleitos novos membros não permanentes.
 
-###### Art. 11.º - 1 - O conselho de departamento é presidido por um professor catedrático ou associado do Departamento.
+Art. 11.º - 1 - O conselho de departamento é presidido por um professor catedrático ou associado do Departamento.
 
 2 - O presidente é eleito pelos membros do conselho para mandato bienal.
 
@@ -199,7 +208,7 @@ b) Comissão executiva.
 
 10 - O exercício do cargo de presidente do conselho de departamento é incompatível com o de presidente de outros órgãos directivos universitários.
 
-###### Art. 12.º Compete ao conselho de departamento:
+Art. 12.º Compete ao conselho de departamento:
 
 a) Elaborar propostas de alteração ao regulamento do Departamento;
 
@@ -227,7 +236,7 @@ m) Deliberar sobre matéria cuja competência lhe haja sido delegada pelos órg�
 
 n) Deliberar sobre outras matérias que, nos termos do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), se mostrem relevantes para o Departamento.
 
-###### Art. 13.º - 1 - A comissão executiva do Departamento é constituída por:
+Art. 13.º - 1 - A comissão executiva do Departamento é constituída por:
 
 a) O presidente do conselho de departamento;
 
@@ -235,7 +244,7 @@ b) 2 docentes ou investigadores do Departamento designados pelo presidente.
 
 2 - A comissão executiva, nas suas actividades de gestão, será coadjuvada por um funcionário do quadro do pessoal da Escola, que desempenhará as funções de secretário do Departamento.
 
-###### Art. 14.º Compete à comissão executiva:
+Art. 14.º Compete à comissão executiva:
 
 a) Preparar as reuniões do conselho de departamento e executar as suas deliberações;
 
@@ -247,22 +256,22 @@ d) Zelar pela conservação e manutenção das instalações e outros bens afect
 
 e) Elaborar as actas das reuniões do conselho de departamento.
 
-###### Art. 15.º O presidente do conselho de departamento poderá ser dispensado parcialmente do serviço docente durante o seu mandato.
+Art. 15.º O presidente do conselho de departamento poderá ser dispensado parcialmente do serviço docente durante o seu mandato.
 
 ### CAPÍTULO IV — Gestão financeira
 
-###### Art. 16.º - 1 - As disponibilidades orçamentais do Departamento serão as que resultarem do rateamento interno do orçamento próprio, nos termos do artigo 17.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
+Art. 16.º - 1 - As disponibilidades orçamentais do Departamento serão as que resultarem do rateamento interno do orçamento próprio, nos termos do artigo 17.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
 2 - Constituirão também receitas do Departamento as provenientes da prestação de serviços, bem como as doações, legados, subsídios e comparticipações concedidos por quaisquer entidades, públicas ou privadas, as quais ficarão sujeitas ao regime de gestão previsto nos artigos 18.º e 19.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
 ### CAPÍTULO V — Instalações e equipamento
 
-###### Art. 17.º Ao Departamento serão atribuídas todas as instalações e equipamentos pertencentes aos 2.º e 6.º grupos de disciplinas da ESMV que estão actualmente afectas ao seu funcionamento.
+Art. 17.º Ao Departamento serão atribuídas todas as instalações e equipamentos pertencentes aos 2.º e 6.º grupos de disciplinas da ESMV que estão actualmente afectas ao seu funcionamento.
 
 ### CAPÍTULO VI — Disposições transitórias
 
-###### Art. 18.º - 1 - No prazo de 30 dias após a publicação deste Regulamento, o professor mais antigo da categoria mais elevada promoverá as diligências necessárias à realização dos processos eleitorais nele previstos e regulados.
+Art. 18.º - 1 - No prazo de 30 dias após a publicação deste Regulamento, o professor mais antigo da categoria mais elevada promoverá as diligências necessárias à realização dos processos eleitorais nele previstos e regulados.
 
 2 - O primeiro mandato dos membros eleitos em consequência dos processos referidos no número anterior termina no fim do ano lectivo seguinte àquele em que tiver sido realizada a eleição.
 
-###### Art. 19.º Os órgãos de gestão da Escola deverão tomar as medidas necessárias ao pleno cumprimento das normas constantes do presente Regulamento no mais breve prazo possível a partir da sua entrada em vigor.
+Art. 19.º Os órgãos de gestão da Escola deverão tomar as medidas necessárias ao pleno cumprimento das normas constantes do presente Regulamento no mais breve prazo possível a partir da sua entrada em vigor.

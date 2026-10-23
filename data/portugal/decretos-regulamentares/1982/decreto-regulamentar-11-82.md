@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1982-599879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:04:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d721153d61f8c09af4f009315153aa4f2860bbee28dd1acff1292cfe699cfe14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c21db795ae1d55da9aebd775e3bf9b609438c97f2062bb96dfe269b13a67a38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:04:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Classificação de Espectáculos
+- Comissão de Classificação de Espectáculos
+- Espetáculos e Divertimentos Públicos
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:636413:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:462058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:410282:por
+  label: "Revogado pelo DEC LEI.106-A/92.01.06.1992.PCM, DR.IS-A [126]Supl de 01.06.1992, com excepção dos artigos 13.º a\
+    \ 15.º, os quais se mantêm em vigor com as devidas adaptações \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-a-1992-410282
+  date: '1992-06-01'
+- type: repealed_by
+  target: pt:dre:636413:por
+  label: "Revogados, a partir de 01.08.2007 e nos termos do art. 4º do Dec Lei 215/2006 de 27-Out, os arts. 13º e 15º do presente\
+    \ diploma pelo DR.81/2007.30.07.2007.MC, DR.IS [145] de 30.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/81-2007-636413
+  date: '2007-07-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:04:44Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +130,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Comissão de Classificação de Espectáculos, adiante designada por Comissão, tem como atribuições classificar os espectáculos nos termos estabelecidos na legislação em vigor.
+Artigo 1.º A Comissão de Classificação de Espectáculos, adiante designada por Comissão, tem como atribuições classificar os espectáculos nos termos estabelecidos na legislação em vigor.
 
-###### Art. 2.º Compete à Comissão:
+Art. 2.º Compete à Comissão:
 
 a) A classificação etária dos espectáculos;
 
@@ -116,9 +144,9 @@ d) Dar parecer, quando consultada, sobre legislação relativa à classificaçã
 
 e) Regulamentar o seu funcionamento interno.
 
-###### Art. 3.º A Comissão é composta por 1 presidente, 1 vice-presidente e até 43 vogais.
+Art. 3.º A Comissão é composta por 1 presidente, 1 vice-presidente e até 43 vogais.
 
-###### Art. 4.º - 1 - Os membros da Comissão são designados da seguinte forma:
+Art. 4.º - 1 - Os membros da Comissão são designados da seguinte forma:
 
 a) O presidente, 1 vice-presidente e até 10 vogais, pelo Ministério da Cultura e Coordenação Científica;
 
@@ -142,27 +170,27 @@ j) Até 14 vogais, escolhidos pelo Ministro da Cultura e Coordenação Científi
 
 2 - Cada uma das associações empresariais de espectáculos designará um representante, que será membro da Comissão, mas apenas terá assento nas respectivas sessões plenárias.
 
-###### Art. 5.º - 1 - Os membros da Comissão são nomeados por períodos de 3 anos por despacho do Ministro da Cultura e Coordenação Científica, precedendo proposta da entidade competente para proceder à designação.
+Art. 5.º - 1 - Os membros da Comissão são nomeados por períodos de 3 anos por despacho do Ministro da Cultura e Coordenação Científica, precedendo proposta da entidade competente para proceder à designação.
 
 2 - O presidente e o vice-presidente tomam posse perante o Ministro da Cultura, após a publicação do despacho de nomeação no Diário da República.
 
 3 - Os vogais a que se refere o n.º 2 do artigo 4.º tomam posse perante o presidente da Comissão, contando-se o período de exercício de funções a partir da data da posse.
 
-###### Art. 6.º A Comissão funciona em grupos de classificação etários, grupos especiais para a classificação de pornografia e de qualidade, subcomissão de recurso e sessão plenária.
+Art. 6.º A Comissão funciona em grupos de classificação etários, grupos especiais para a classificação de pornografia e de qualidade, subcomissão de recurso e sessão plenária.
 
-###### Art. 7.º - 1 - A sessão plenária é constituída por todos os membros da Comissão.
+Art. 7.º - 1 - A sessão plenária é constituída por todos os membros da Comissão.
 
 2 - Os grupos de classificação são constituídos por 5, 7 ou 9 vogais, consoante as necessidades de serviço e a especialização da classificação a atribuir.
 
 3 - A subcomissão de recurso é constituída pelo presidente, vice-presidente e 6 vogais da Comissão, a eleger pela Comissão de entre os seus membros designados nos termos das alíneas a), c), e), f), g) e i) do artigo 4.º e na proporção de um por cada uma dessas rubricas.
 
-###### Art. 8.º A Comissão, subcomissão e grupos de classificação só podem deliberar estando presente a maioria dos seus membros e as deliberações serão tomadas por maioria.
+Art. 8.º A Comissão, subcomissão e grupos de classificação só podem deliberar estando presente a maioria dos seus membros e as deliberações serão tomadas por maioria.
 
-###### Art. 9.º Aos grupos de classificação compete classificar os espectáculos segundo a lei e os critérios de classificação superiormente aprovados.
+Art. 9.º Aos grupos de classificação compete classificar os espectáculos segundo a lei e os critérios de classificação superiormente aprovados.
 
-###### Art. 10.º À subcomissão de recurso compete apreciar os recursos interpostos das deliberações dos grupos de classificação, mantendo ou alterando a classificação atribuída ao espectáculo.
+Art. 10.º À subcomissão de recurso compete apreciar os recursos interpostos das deliberações dos grupos de classificação, mantendo ou alterando a classificação atribuída ao espectáculo.
 
-###### Art. 11.º - 1 - À sessão plenária compete:
+Art. 11.º - 1 - À sessão plenária compete:
 
 a) Formular orientações ou directivas para a classificação dos espectáculos;
 
@@ -180,7 +208,7 @@ g) Criar grupos de trabalho e exercer todas as demais atribuições estabelecida
 
 2 - A Comissão reúne em sessão plenária uma vez por trimestre e, extraordinariamente, sempre que convocada pelo presidente.
 
-###### Art. 12.º - 1 - Compete ao presidente da Comissão:
+Art. 12.º - 1 - Compete ao presidente da Comissão:
 
 a) Superintender na actividade da Comissão;
 
@@ -202,7 +230,7 @@ i) Propor à sessão plenária a criação de grupos de trabalho para elaboraç�
 
 2 - O vice-presidente substituirá o presidente nas suas faltas e impedimentos.
 
-###### Art. 13.º - 1 - Das deliberações dos grupos de classificação cabe recurso para a subcomissão de recursos.
+Art. 13.º - 1 - Das deliberações dos grupos de classificação cabe recurso para a subcomissão de recursos.
 
 2 - Têm legitimidade para interpor recursos:
 
@@ -224,7 +252,7 @@ c) A todo o tempo, no caso da alínea c) do número anterior.
 
 5 - As deliberações da subcomissão de recurso devem ser fundamentadas.
 
-###### Art. 14.º - 1 - Das deliberações da subcomissão de recurso cabe recurso para o Ministro da Cultura e Coordenação Científica, que decidirá depois de ouvida a Comissão reunida para o efeito em sessão plenária.
+Art. 14.º - 1 - Das deliberações da subcomissão de recurso cabe recurso para o Ministro da Cultura e Coordenação Científica, que decidirá depois de ouvida a Comissão reunida para o efeito em sessão plenária.
 
 2 - O recurso pode ser interposto pelo exibidor, distribuidor ou produtor do espectáculo no prazo de 20 dias a contar da notificação da deliberação da subcomissão de recurso ou a todo o momento, na hipótese prevista na alínea c) do n.º 2 do artigo 13.º
 
@@ -232,24 +260,24 @@ c) A todo o tempo, no caso da alínea c) do número anterior.
 
 4 - A estreia do espectáculo no decurso do prazo referido no n.º 2 preclude o direito de recorrer.
 
-###### Art. 15.º - 1 - Serão reduzidas a actas as deliberações da sessão plenária e as da subcomissão de recurso.
+Art. 15.º - 1 - Serão reduzidas a actas as deliberações da sessão plenária e as da subcomissão de recurso.
 
 2 - As deliberações dos grupos de classificação serão devidamente justificadas e constarão de documento próprio.
 
-###### Art. 16.º - 1 - A regulamentação a que se refere a alínea e) do artigo 2.º será presente à sessão plenária no prazo de 30 dias contados da entrada em vigor deste diploma.
+Art. 16.º - 1 - A regulamentação a que se refere a alínea e) do artigo 2.º será presente à sessão plenária no prazo de 30 dias contados da entrada em vigor deste diploma.
 
 2 - Os critérios, orientações e directivas a que se refere a alínea a) do artigo 10.º estão sujeitos a aprovação do Ministro da Cultura e Coordenação Científica.
 
-###### Art. 17.º Os membros da Comissão têm direito a uma gratificação, que será fixada nos termos da lei geral.
+Art. 17.º Os membros da Comissão têm direito a uma gratificação, que será fixada nos termos da lei geral.
 
-###### Art. 18.º A Comissão será apoiada administrativamente pela Direcção-Geral dos Espectáculos e do Direito de Autor.
+Art. 18.º A Comissão será apoiada administrativamente pela Direcção-Geral dos Espectáculos e do Direito de Autor.
 
-###### Art. 19.º São revogados os Decretos Regulamentares n.os [15/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1980-474105), de 21 de Maio, e [62/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/62-1980-462058), de 15 de Outubro.
+Art. 19.º São revogados os Decretos Regulamentares n.os [15/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1980-474105), de 21 de Maio, e [62/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/62-1980-462058), de 15 de Outubro.
 
 Francisco José Pereira Pinto Balsemão - Francisco António Lucas Pires.
 
-**Promulgado em 18 de Fevereiro de 1982.**
+Promulgado em 18 de Fevereiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21064-1965-239058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ebf8e03ded8d1652e4f563979fb7b4212a6b011127acc3b8abe9ee4957404d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 346535d219f559ba95b62abd3f5af1df883f6183b6d7a7af9aaf7c9b07d2feef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:22Z'
   warnings: []
   errors: []
 ---
@@ -89,15 +93,15 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 5), alínea a) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na província» ... 200000$00
+Artigo 3.º, n.º 5), alínea a) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na província» ... 200000$00
 
-###### Artigo 3.º, n.º 5), alínea b) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na metrópole» ... 900000$00
+Artigo 3.º, n.º 5), alínea b) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na metrópole» ... 900000$00
 
-###### Artigo 3.º, n.º 6), alínea b) «Outras despesas com o pessoal - Subsídios de interrupção de viagem - A pagar na metrópole» ... 100000$00
+Artigo 3.º, n.º 6), alínea b) «Outras despesas com o pessoal - Subsídios de interrupção de viagem - A pagar na metrópole» ... 100000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal a pagar na província» ... 600000$00
+Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal a pagar na província» ... 600000$00
 
 ... 1800000$00
 
@@ -105,7 +109,7 @@ tomando como contrapartida a seguinte disponibilidade da mesma tabela de despesa
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 10.º, n.º 1), alínea a) «Encargos administrativos - Preparação militar do pessoal a incorporar na província - Recrutas do ultramar» ... 1800000$00
+Artigo 10.º, n.º 1), alínea a) «Encargos administrativos - Preparação militar do pessoal a incorporar na província - Recrutas do ultramar» ... 1800000$00
 
 Presidência do Conselho, 26 de Janeiro de 1965. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo.
 

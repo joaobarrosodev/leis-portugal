@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 206/2015, 1º Suplemento, Série I de 2015-10-21
   number: '206'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 9178-(2) a 9178-(1817)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20601/0000201817.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/246-a/2015/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-a-2015-70765717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fe7ccc4cb4208a621ba92def6f50f4f8c600fe0322cbb984e55816b81318b35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d98112432bff76f556d1f2dc53eb2172c4075462eb38cbd5ed71ede8124e736
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Formação Profissional
 - Certificação Profissional
-- Transporte Ferroviário
-- Segurança Rodoviária
+- Formação Profissional
 - Qualificação Profissional
+- Segurança Rodoviária
 - Transporte de Mercadorias Perigosas
+- Transporte Ferroviário
 - Transporte Internacional
 relationships:
 - type: amended_by
@@ -112,6 +112,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/41-a/2010/04/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/41-a/2010/04/29/p/dre
+- type: cites
+  target: pt:dre:138983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660369:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32006L0090
   label: null
@@ -125,15 +141,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:10Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +202,9 @@ e) ...
 
 4 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -216,28 +234,28 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de setembro de 2015. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - Anabela Maria Pinto de Miranda Rodrigues - Sérgio Paulo Lopes da Silva Monteiro.
 
-**Promulgado em 24 de setembro de 2015.**
+Promulgado em 24 de setembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de setembro de 2015.**
+Referendado em 28 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/20601/0000201817.pdf))](https://files.diariodarepublica.pt/1s/2015/10/20601/0000201817.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/20601/0000201817.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/20601/0000201817.pdf))](https://files.diariodarepublica.pt/1s/2015/10/20601/0000201817.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/20601/0000201817.pdf)
 
 ## ANEXO III — (a que se refere o n.º 3 do artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/20601/0000201817.pdf))](https://files.diariodarepublica.pt/1s/2015/10/20601/0000201817.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/20601/0000201817.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 4 do artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/20601/0000201817.pdf))](https://files.diariodarepublica.pt/1s/2015/10/20601/0000201817.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/20601/0000201817.pdf)

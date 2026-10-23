@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/239a00/68726882.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/394/1999/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-1999-662126
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:11:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24c2fc9e189b10ce1616932c2a384714f88a19dffa0d0f44e460237bc3c988b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4256f9d72e224b02707f2bd1c18c54ebfb2a81ef249b93206c22bc2a6d9e9a50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:11:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Valores Mobiliários
-- Sociedade Anónima
 - Bolsa de Valores
 - Capital Social
+- CMVM
 - Definição de Competências
 - Fiscalização
-- Ministro das Finanças
 - Ilícito de MERA Ordenação Social
 - Isenção Fiscal
 - Mercado de Capitais
 - Mercado de Valores
-- Sociedade Gestora de Mercados não Regulamentados
-- Sociedade Gestora de Sistemas Centralizados
+- Ministro das Finanças
 - Regime Jurídico
 - Registo de Valores Mobiliários
 - Responsabilidade Criminal
 - SGPS
-- CMVM
+- Sociedade Anónima
+- Sociedade Gestora de Mercados não Regulamentados
 - Sociedade Gestora de Mercados Regulamentados
+- Sociedade Gestora de Sistemas Centralizados
 - Sociedade Gestora de Sistemas de Liquidação
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:241224:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:314414:por
+  label: "Alterados os arts. 1º, 5º, 6º, 7º, 8º, 9º, 11º, 13º, 16º, 17º, 18º, 22º, 25º, 33º, 34º, 35º, 36º, 37º, 38º e 39º,\
+    \ aditado o art.. 20º-A e revogados os arts. 40º, 41º, 42º, 43º, 44º e 45º, pelo DEC LEI.8-D/2002.2002.01.15.MF DR.IS-A\
+    \ [12]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-d-2002-314414
+  date: '2002-01-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/142-a/1991/04/10/p/dre
   label: null
@@ -107,16 +114,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/81/1992/02/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/81/1992/02/07/p/dre
+- type: cites
+  target: pt:dre:152132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:484588:por
+  label: "Rectificado pela DECL-RECT.19-A/99.1999.11.22.PCM,DR.IS-A [279]2º Supl de 30/Nov/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/19-a-1999-484588
+  date: '1999-11-22'
+- type: corrected_by
+  target: pt:dre:249987:por
+  label: "Rectificado pela DECL-RECT.23-D/99.1999.12.31.PCM DR.IS-A [303]2º Supl de 31/Dez/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/23-d-1999-249987
+  date: '1999-12-31'
+- type: repealed_by
+  target: pt:dre:241224:por
+  label: "Revogado, a partir de 01.11.2007, pelo DEC LEI.357-C/2007.31.10.2007.MFAP, DR.IS [210-2ºSupl] de 31.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/357-c-2007-241224
+  date: '2007-10-31'
 article_structure:
   article_count: 45
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:11:47Z'
   warnings: []
   errors: []
 ---
@@ -755,12 +793,12 @@ d) Preverá os termos e condições da transferência, para as novas sociedades,
 
 Visto e aprovado em Conselho de Ministros de 2 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura.
 
-**Promulgado em 29 de Setembro de 1999.**
+Promulgado em 29 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Outubro de 1999.**
+Referendado em 1 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/481-1976-429812
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T05:05:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0a8a1d652f4100d22fd9f931dddc1a9aa31b0ca9c4f393532d265b7caa4ad03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2294d5ffdd44082c774e2de0ce62c14402e0386d281568ca27eb7119698ab4e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:05:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério do Trabalho
+- Regulamento
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:654726:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:654726:por
+  label: "Alterado o art. 36º do presente regulamento pela PORT.232/84.1984.04.12.MTSS DR.IS [87]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/232-1984-654726
+  date: '1984-04-12'
+- type: cites
+  target: pt:dre:215768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227264:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:05:34Z'
   warnings: []
   errors: []
 ---
@@ -108,13 +124,13 @@ REGULAMENTO DOS SERVIÇOS SOCIAIS DO MINISTÉRIO DO TRABALHO
 
 ### CAPÍTULO I — Da denominação e fins
 
-###### Artigo 1.º Os Serviços Sociais do Ministério do Trabalho, adiante designados por Serviços Sociais, criados pelo [Decreto-Lei n.º 49373](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49373-1969-215768), de 11 de Novembro de 1969, são uma pessoa colectiva de direito público, dotada de personalidade jurídica e de autonomia administrativa e financeira, dependente do Ministério do Trabalho.
+Artigo 1.º Os Serviços Sociais do Ministério do Trabalho, adiante designados por Serviços Sociais, criados pelo [Decreto-Lei n.º 49373](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49373-1969-215768), de 11 de Novembro de 1969, são uma pessoa colectiva de direito público, dotada de personalidade jurídica e de autonomia administrativa e financeira, dependente do Ministério do Trabalho.
 
-###### Art. 2.º Os Serviços Sociais têm por finalidade a satisfação das necessidades de ordem económica, social, profissional e cultural dos trabalhadores do Ministério do Trabalho e dos organismos e serviços autónomos dele dependentes, com vista a desenvolver os laços de solidariedade entre os mesmos.
+Art. 2.º Os Serviços Sociais têm por finalidade a satisfação das necessidades de ordem económica, social, profissional e cultural dos trabalhadores do Ministério do Trabalho e dos organismos e serviços autónomos dele dependentes, com vista a desenvolver os laços de solidariedade entre os mesmos.
 
-###### Art. 3.º Na actividade a desenvolver, os Serviços Sociais terão por objectivos a alcançar, de modo progressivo, os resultantes de acções de protecção social, de auxílio económico e de apoio cultural e recreativo, nos termos dos artigos seguintes.
+Art. 3.º Na actividade a desenvolver, os Serviços Sociais terão por objectivos a alcançar, de modo progressivo, os resultantes de acções de protecção social, de auxílio económico e de apoio cultural e recreativo, nos termos dos artigos seguintes.
 
-###### Art. 4.º - 1. No âmbito das acções de protecção social, os Serviços Sociais terão por objectivos, nomeadamente:
+Art. 4.º - 1. No âmbito das acções de protecção social, os Serviços Sociais terão por objectivos, nomeadamente:
 
 a) A concessão aos seus beneficiários de subsídios por ocasião do seu casamento e por nascimento de filhos;
 
@@ -126,7 +142,7 @@ d) A criação de condições que facilitem a utilização, pelos filhos dos ben
 
 2. As acções a desenvolver neste domínio terão natureza complementar dos esquemas análogos oficialmente estabelecidos ou destinam-se a suprir a falta ou insuficiência desses esquemas.
 
-###### Art. 5.º No âmbito das acções de protecção económica e financeira, os Serviços Sociais terão por objectivos, designadamente:
+Art. 5.º No âmbito das acções de protecção económica e financeira, os Serviços Sociais terão por objectivos, designadamente:
 
 a) A concessão de empréstimos, sem retribuição ou a juros módicos, garantidos pelos vencimentos ou outras retribuições de trabalho dos beneficiários, ou por outros meios considerados idóneos e suficientes;
 
@@ -134,7 +150,7 @@ b) Promoção ou auxílio, em coordenação com organismos oficiais ou particula
 
 c) A promoção do fornecimento de refeições a preços módicos e de produtos necessários à economia familiar.
 
-###### Art. 6.º No âmbito das acções de natureza cultural e recreativa, os Serviços Sociais terão por objectivos, fundamentalmente:
+Art. 6.º No âmbito das acções de natureza cultural e recreativa, os Serviços Sociais terão por objectivos, fundamentalmente:
 
 a) A realização de iniciativas culturais, recreativas e desportivas, contribuindo para a elevação cultural dos seus beneficiários e para o reforço dos laços de solidariedade entre si;
 
@@ -142,21 +158,21 @@ b) A criação dos meios adequados a tornar possível e menos oneroso aos seus b
 
 c) Proporcionar aos seus beneficiários e respectivos familiares a inscrição em colónias de férias, casas de repouso ou instituições similares.
 
-###### Art. 7.º - 1. Os objectivos previstos no número anterior serão prosseguidos de harmonia com as possibilidades dos Serviços Sociais e de acordo com as prioridades definidas nos termos da alínea a) do artigo 29.º
+Art. 7.º - 1. Os objectivos previstos no número anterior serão prosseguidos de harmonia com as possibilidades dos Serviços Sociais e de acordo com as prioridades definidas nos termos da alínea a) do artigo 29.º
 
 2. Poderão ser prosseguidos outros objectivos que se enquadrem nos fins dos Serviços Sociais, desde que aprovados por despacho do Ministro do Trabalho, precedendo parecer favorável do conselho consultivo a que se refere a alínea d) do artigo 35.º
 
-###### Art. 8.º Para cada uma das modalidades de benefícios a prosseguir será elaborado um regulamento próprio, onde serão definidas as condições a que deve obedecer a sua concessão.
+Art. 8.º Para cada uma das modalidades de benefícios a prosseguir será elaborado um regulamento próprio, onde serão definidas as condições a que deve obedecer a sua concessão.
 
-###### Art. 9.º - 1. Para a melhor prossecução dos seus objectivos com vista a assegurar a concessão e fruição de benefícios a maior número de funcionários poderão os Serviços Sociais constituir secções regionais nas localidades onde a concentração de beneficiários o justifique, nas condições que vierem a ser fixadas por despacho ministerial, ouvido o conselho consultivo.
+Art. 9.º - 1. Para a melhor prossecução dos seus objectivos com vista a assegurar a concessão e fruição de benefícios a maior número de funcionários poderão os Serviços Sociais constituir secções regionais nas localidades onde a concentração de beneficiários o justifique, nas condições que vierem a ser fixadas por despacho ministerial, ouvido o conselho consultivo.
 
 2. A criação das secções regionais referidas no número anterior dependerá de despacho do Ministro do Trabalho.
 
-###### Art. 10.º Para a realização dos seus fins, os Serviços Sociais deverão colaborar com serviços ou obras sociais de outros Ministérios e departamentos governamentais, podendo igualmente cooperar com outras instituições similares públicas ou privadas, nos termos do artigo 8.º do [Decreto-Lei n.º 49373](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49373-1969-215768), de 11 de Novembro de 1969.
+Art. 10.º Para a realização dos seus fins, os Serviços Sociais deverão colaborar com serviços ou obras sociais de outros Ministérios e departamentos governamentais, podendo igualmente cooperar com outras instituições similares públicas ou privadas, nos termos do artigo 8.º do [Decreto-Lei n.º 49373](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49373-1969-215768), de 11 de Novembro de 1969.
 
 ### CAPÍTULO II — Dos beneficiários
 
-###### Art. 11.º - 1. Podem ser beneficiários dos Serviços Sociais:
+Art. 11.º - 1. Podem ser beneficiários dos Serviços Sociais:
 
 a) O pessoal do Ministério do Trabalho e dos serviços ou organismos autónomos dele dependentes qualquer que seja a forma de provimento ou a natureza da prestação de serviço;
 
@@ -166,19 +182,19 @@ c) Os funcionários em licença ilimitada ou desligados do serviço por motivo d
 
 2. O pessoal pertencente a outros Ministérios que preste serviço no Ministério do Trabalho poderá beneficiar das regalias dos Serviços Sociais, desde que não esteja abrangido por outro sistema de benefícios similiar no Ministério de que depende ou, por motivos de serviço, não tenha a possibilidade prática de os usufruir.
 
-###### Art. 12.º - 1. A acção dos Serviços Sociais poderá ser extensiva ao agregado familiar a cargo dos beneficiários, de harmonia com as condições a estabelecer para cada modalidade de benefícios.
+Art. 12.º - 1. A acção dos Serviços Sociais poderá ser extensiva ao agregado familiar a cargo dos beneficiários, de harmonia com as condições a estabelecer para cada modalidade de benefícios.
 
 2. Para efeitos deste diploma, considera-se agregado familiar a cargo do beneficiário o conjunto de parentes e afins que com ele vivam em comunhão de mesa e habitação e que, não tendo rendimentos próprios, estejam na sua dependência económica.
 
 3. Em caso de falecimento do beneficiário, o cônjuge e os familiares a que se refere o número precedente manterão as regalias que vinham auferindo, desde que façam prova da sua necessidade.
 
-###### Art. 13.º - 1. A inscrição dos beneficiários far-se-á mediante o preenchimento de um boletim de inscrição do qual constem os elementos de identificação do funcionário, serviço a que pertence, categoria e composição do agregado familiar.
+Art. 13.º - 1. A inscrição dos beneficiários far-se-á mediante o preenchimento de um boletim de inscrição do qual constem os elementos de identificação do funcionário, serviço a que pertence, categoria e composição do agregado familiar.
 
 2. Os boletins de inscrição serão autenticados pelo responsável pelo serviço respectivo e acompanhados dos elementos de comprovação que se mostrem necessários.
 
-###### Art. 14.º A qualidade de beneficiário prova-se por cartão de identidade de modelo a aprovar por despacho do Ministro do Trabalho.
+Art. 14.º A qualidade de beneficiário prova-se por cartão de identidade de modelo a aprovar por despacho do Ministro do Trabalho.
 
-###### Art. 15.º São direitos dos beneficiários:
+Art. 15.º São direitos dos beneficiários:
 
 a) Usufruir das regalias concedidas pelos Serviços Sociais, nos termos regulamentares;
 
@@ -186,7 +202,7 @@ b) Ser eleito para os órgãos dos Serviços Sociais;
 
 c) Formular por escrito à direcção dos Serviços Sociais as sugestões e reclamações que julgarem convenientes com vista ao melhor funcionamento dos serviços.
 
-###### Art. 16.º São deveres dos beneficiários:
+Art. 16.º São deveres dos beneficiários:
 
 a) Pagar pontualmente as quotizações que forem fixadas;
 
@@ -196,13 +212,13 @@ c) Desempenhar os cargos para que sejam eleitos ou designados, salvo o caso de e
 
 d) Colaborar activamente com os órgãos directivos e o pessoal encarregado dos serviços com vista ao seu melhor funcionamento.
 
-###### Art. 17.º - 1. Os beneficiários contribuirão para os encargos dos Serviços Sociais com quotizações mensais, fixadas de harmonia com os grupos de vencimentos ou análogos valores da pensão de base e aprovadas por despacho do Ministro do Trabalho, sob proposta da direcção, ouvido o conselho consultivo.
+Art. 17.º - 1. Os beneficiários contribuirão para os encargos dos Serviços Sociais com quotizações mensais, fixadas de harmonia com os grupos de vencimentos ou análogos valores da pensão de base e aprovadas por despacho do Ministro do Trabalho, sob proposta da direcção, ouvido o conselho consultivo.
 
 2. Os beneficiários aposentados ou reformados poderão, em casos justificados e a solicitação sua, ser isentos da obrigação de pagamento de quotas.
 
 3. O pagamento de quotizações mensais poderá ser feito por desconto nos vencimentos dos beneficiários.
 
-###### Art. 18.º - 1. Serão suspensos dos benefícios dos Serviços Sociais:
+Art. 18.º - 1. Serão suspensos dos benefícios dos Serviços Sociais:
 
 a) Os funcionários que passem à situação de licença ilimitada, salvo o disposto no artigo 21.º;
 
@@ -216,21 +232,21 @@ d) Os beneficiários que se encontrem em atraso no pagamento das quotas por per�
 
 3. Para efeitos do disposto na alínea d) do n.º 1 não são de considerar os períodos durante os quais os beneficiários, sem que para isso tenham dado motivo, deixem de perceber vencimentos pelos respectivos serviços.
 
-###### Art. 19.º Será cancelada a inscrição nos Serviços Sociais:
+Art. 19.º Será cancelada a inscrição nos Serviços Sociais:
 
 a) Aos funcionários exonerados, demitidos ou cujos contratos sejam dados por findos, salvo o disposto no artigo 21.º;
 
 b) Aos beneficiários que, por praticarem infracções aos seus deveres para com os Serviços Sociais considerados particularmente graves pela direcção, sejam por esta punidos com pena de cancelamento da inscrição.
 
-###### Art. 20.º Das penas aplicadas nos termos das alíneas c) do n.º 1 do artigo 18.º e b) do artigo 19.º cabe recurso para o Ministro do Trabalho.
+Art. 20.º Das penas aplicadas nos termos das alíneas c) do n.º 1 do artigo 18.º e b) do artigo 19.º cabe recurso para o Ministro do Trabalho.
 
-###### Art. 21.º Não são abrangidos pela suspensão prevista na alínea a) do n.º 1 do artigo 18.º e pelo cancelamento de inscrição referido na alínea a) do artigo 19.º os funcionários em situação de licença ilimitada ou desligados do serviço por motivo de doença em conformidade com o regime geral do funcionalismo, desde que não abrangidos por outras formas de protecção social similares.
+Art. 21.º Não são abrangidos pela suspensão prevista na alínea a) do n.º 1 do artigo 18.º e pelo cancelamento de inscrição referido na alínea a) do artigo 19.º os funcionários em situação de licença ilimitada ou desligados do serviço por motivo de doença em conformidade com o regime geral do funcionalismo, desde que não abrangidos por outras formas de protecção social similares.
 
-###### Art. 22.º Na concessão de regalias pelos Serviços Sociais deverá ter-se em consideração a circunstância de os interessados ou seus familiares estarem abrangidos por outros sistemas de benefícios, com vista, designadamente, a evitar a duplicação de prestações.
+Art. 22.º Na concessão de regalias pelos Serviços Sociais deverá ter-se em consideração a circunstância de os interessados ou seus familiares estarem abrangidos por outros sistemas de benefícios, com vista, designadamente, a evitar a duplicação de prestações.
 
 ### CAPÍTULO III — Dos órgãos
 
-###### Art. 23.º - 1. São órgãos dos Serviços Sociais:
+Art. 23.º - 1. São órgãos dos Serviços Sociais:
 
 a) A direcção;
 
@@ -240,25 +256,25 @@ c) A comissão verificadora de contas.
 
 2. Dos órgãos dos Serviços Sociais farão parte representantes das direcções-gerais ou organismos e serviços equiparados do Ministério, nomeados pelo Ministro e, em número igual, representantes do pessoal, eleitos pelos funcionários.
 
-###### Art. 24.º Os lugares dos órgãos dos Serviços Sociais serão desempenhados em acumulação com as funções dos respectivos titulares, mas estes podem ser parcial ou totalmente dispensados do cumprimento das mesmas sempre que as tarefas a desempenhar nos Serviços Sociais o justifiquem.
+Art. 24.º Os lugares dos órgãos dos Serviços Sociais serão desempenhados em acumulação com as funções dos respectivos titulares, mas estes podem ser parcial ou totalmente dispensados do cumprimento das mesmas sempre que as tarefas a desempenhar nos Serviços Sociais o justifiquem.
 
-###### Art. 25.º Os funcionários designados para os órgãos dos Serviços Sociais terão direito, nos termos legais e conforme os casos, a gratificações ou a senhas de presença por cada sessão em que participem, a suportar pelo orçamento dos Serviços Sociais e de quantitativo a fixar por despacho do Ministro do Trabalho.
+Art. 25.º Os funcionários designados para os órgãos dos Serviços Sociais terão direito, nos termos legais e conforme os casos, a gratificações ou a senhas de presença por cada sessão em que participem, a suportar pelo orçamento dos Serviços Sociais e de quantitativo a fixar por despacho do Ministro do Trabalho.
 
 #### SECÇÃO I — Da direcção
 
-###### Art. 26.º - 1. A actividade dos Serviços Sociais será orientada por uma direcção, composta por um director e três vogais.
+Art. 26.º - 1. A actividade dos Serviços Sociais será orientada por uma direcção, composta por um director e três vogais.
 
 2. Os membros da direcção serão designados por períodos renováveis de dois anos, até ao máximo de três mandadtos consecutivos.
 
-###### Art. 27.º - 1. Um director e um dos vogais serão nomeados pelo Ministro do Trabalho, sob proposta do secretário-geral, de entre funcionários do Ministério.
+Art. 27.º - 1. Um director e um dos vogais serão nomeados pelo Ministro do Trabalho, sob proposta do secretário-geral, de entre funcionários do Ministério.
 
 2. Dois dos vogais serão eleitos de entre si pelos representantes dos funcionários no conselho consultivo.
 
 3. Só poderão ser eleitos representantes do pessoal que sejam funcionários dos serviços centrais do Ministério.
 
-###### Art. 28.º Mediante prévia concordância do secretário-geral, a direcção poderá nomear delegados seus para coordenarem os serviços regionais a que se refere o artigo 9.º
+Art. 28.º Mediante prévia concordância do secretário-geral, a direcção poderá nomear delegados seus para coordenarem os serviços regionais a que se refere o artigo 9.º
 
-###### Art. 29.º Compete à direcção, no âmbito das suas funções de orientação e administração geral:
+Art. 29.º Compete à direcção, no âmbito das suas funções de orientação e administração geral:
 
 a) Coordenar a actividade dos Serviços Sociais de acordo com os planos de acção aprovados pelo Ministro do Trabalho, estabelecendo as prioridades de execução que forem julgadas convenientes, ouvido o conselho consultivo;
 
@@ -278,7 +294,7 @@ h) Promover a inscrição dos beneficiários, bem como o cancelamento e suspens�
 
 i) Praticar os demais actos necessários ao bom funcionamento e à prossecução dos fins dos Serviços Sociais.
 
-###### Art. 30. Compete à direcção, no âmbito das suas funções de gestão financeira:
+Art. 30. Compete à direcção, no âmbito das suas funções de gestão financeira:
 
 a) Elaborar e submeter a apreciação do conselho consultivo até 15 de Novembro de cada ano o orçamento ordinário para o ano seguinte, e, depois de obtido o parecer do conselho, submetê-lo a aprovação do Ministro do Trabalho até 15 de Dezembro;
 
@@ -288,21 +304,21 @@ c) Elaborar o relatório e contas de gerência de cada ano, submetendo-os a pare
 
 d) Elaborar e submeter a aprovação do Ministro do Trabalho, depois de ouvido o conselho consultivo, os orçamentos suplementares que se mostrarem indispensáveis.
 
-###### Art. 31.º A execução das atribuições definidas no número anterior poderá ser confiada ao presidente por deliberação expressa da direcção, com poderes ou não para delegar em qualquer dos vogais.
+Art. 31.º A execução das atribuições definidas no número anterior poderá ser confiada ao presidente por deliberação expressa da direcção, com poderes ou não para delegar em qualquer dos vogais.
 
-###### Art. 32.º - 1. A direcção terá uma sessão ordinária semanal e as extraordinárias que forem convocadas pelo presidente por sua iniciativa ou a pedido de, pelo menos, dois dos seus membros.
+Art. 32.º - 1. A direcção terá uma sessão ordinária semanal e as extraordinárias que forem convocadas pelo presidente por sua iniciativa ou a pedido de, pelo menos, dois dos seus membros.
 
 2. As deliberações são tomadas por maioria, cabendo ao presidente voto de desempate.
 
-###### Art. 33.º A direcção desigará de entre si o vogal que substituirá o presidente nas suas faltas e impedimentos.
+Art. 33.º A direcção desigará de entre si o vogal que substituirá o presidente nas suas faltas e impedimentos.
 
-###### Art. 34.º - 1. Sem prejuízo do disposto no artigo 31.º, para obrigar os Serviços Sociais são necessárias as assinaturas do presidente da direcção e de um vogal eleito, ou de dois vogais, sendo um eleito e um nomeado, no caso de impedimento do presidente.
+Art. 34.º - 1. Sem prejuízo do disposto no artigo 31.º, para obrigar os Serviços Sociais são necessárias as assinaturas do presidente da direcção e de um vogal eleito, ou de dois vogais, sendo um eleito e um nomeado, no caso de impedimento do presidente.
 
 2. Compete à direcção designar os vogais a que se refere este artigo.
 
 #### SECÇÃO II — Do conselho consultivo
 
-###### Art. 35.º Compete ao conselho consultivo:
+Art. 35.º Compete ao conselho consultivo:
 
 a) Apreciar e dar parecer, até 30 de Novembro de cada ano, sobre o plano de acção e orçamento ordinário dos Serviços Sociais para o ano seguinte;
 
@@ -316,11 +332,11 @@ e) Emitir parecer sobre todos os assuntos que forem submetidos à sua apreciaç�
 
 f) Apresentar propostas e sugestões tendentes a fomentar ou aperfeiçoar a actividade dos Serviços Sociais.
 
-###### Art. 36.º - 1. A constituição, o modo de designação dos seus membros e o regime de funcionamento do conselho consultivo constarão de regulamento próprio, a aprovar por despacho do Ministro do Trabalho, sem prejuízo do disposto no artigo seguinte.
+Art. 36.º - 1. A constituição, o modo de designação dos seus membros e o regime de funcionamento do conselho consultivo constarão de regulamento próprio, a aprovar por despacho do Ministro do Trabalho, sem prejuízo do disposto no artigo seguinte.
 
 2. O conselho consultivo será presidido pelo director dos Serviços Sociais ou, quando se encontre presente na reunião, pelo secretário-geral do Ministério.
 
-###### Art. 37.º - 1. O número de membros do conselho consultivo eleitos será sempre igual ao dos membros nomeados.
+Art. 37.º - 1. O número de membros do conselho consultivo eleitos será sempre igual ao dos membros nomeados.
 
 2. Os representantes do pessoal são eleitos por escrutínio secreto, só sendo válida a eleição se no acto eleitoral participarem, pelo menos, 50% dos funcionários efectivamente ao serviço.
 
@@ -328,13 +344,13 @@ f) Apresentar propostas e sugestões tendentes a fomentar ou aperfeiçoar a acti
 
 #### SECÇÃO III — Da comissão verificadora de contas
 
-###### Art. 38.º - 1. A comissão verificadora de contas é composta por um presidente e três vogais.
+Art. 38.º - 1. A comissão verificadora de contas é composta por um presidente e três vogais.
 
 2. O presidente e um vogal serão nomeados pelo Ministro do Trabalho, sob proposta do secretário-geral, de entre funcionários do Ministério.
 
 3. Dois dos vogais serão eleitos de entre si pelos representantes dos funcionários no conselho consultivo.
 
-###### Art. 39.º Compete à comissão verificadora de contas.
+Art. 39.º Compete à comissão verificadora de contas.
 
 a) Examinar, sempre que julgue conveniente, a escrituração dos Serviços Sociais;
 
@@ -342,17 +358,17 @@ b) Emitir parecer até 5 de Março de cada ano sobre o relatório e contas da ge
 
 c) Pronunciar-se, sempre que tal lhe for solicitado pela direcção, pelo conselho consultivo ou pelo Ministro do Trabalho, sobre a aplicação das receitas dos Serviços Sociais à realização dos seus fins.
 
-###### Art. 40.º A comissão verificadora de contas reunirá ordinariamente uma vez por trimestre e extraordinariamente sempre que for convocada pelo seu presidente, por iniciativa própria ou a solicitação de pelo menos dois dos seus membros, pela direcção ou pelo conselho consultivo.
+Art. 40.º A comissão verificadora de contas reunirá ordinariamente uma vez por trimestre e extraordinariamente sempre que for convocada pelo seu presidente, por iniciativa própria ou a solicitação de pelo menos dois dos seus membros, pela direcção ou pelo conselho consultivo.
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 41.º Os Serviços Sociais não possuem quadro de pessoal próprio, sendo o pessoal indispensável à boa execução dos seus fins destacado de outros serviços do Ministério, caso em que os respectivos vencimentos serão pagos pelos orçamentos dos quadros a que pertençam, ou ainda contratado ou assalariado, nos termos do artigo seguinte.
+Art. 41.º Os Serviços Sociais não possuem quadro de pessoal próprio, sendo o pessoal indispensável à boa execução dos seus fins destacado de outros serviços do Ministério, caso em que os respectivos vencimentos serão pagos pelos orçamentos dos quadros a que pertençam, ou ainda contratado ou assalariado, nos termos do artigo seguinte.
 
-###### Art. 42.º Para tarefas específicas da sua actividade, os Serviços Sociais poderão, mediante autorização do secretário-geral, contratar ou assalariar o pessoal que se mostre indispensável ou confiar a quaisquer entidades, em regime de prestação de serviços, a realização de trabalhos necessários ao bom desempenho das atribuições do organismo.
+Art. 42.º Para tarefas específicas da sua actividade, os Serviços Sociais poderão, mediante autorização do secretário-geral, contratar ou assalariar o pessoal que se mostre indispensável ou confiar a quaisquer entidades, em regime de prestação de serviços, a realização de trabalhos necessários ao bom desempenho das atribuições do organismo.
 
 ### CAPÍTULO V — Das receitas e despesas
 
-###### Art. 43.º - 1. Constituem receitas dos Serviços Sociais:
+Art. 43.º - 1. Constituem receitas dos Serviços Sociais:
 
 a) As dotações orçamentais que sejam inscritas a seu favor no orçamento do Ministério e dos organismos dotados de autonomia financeira dependentes do Ministério do Trabalho;
 
@@ -374,9 +390,9 @@ i) Quaisquer outras receitas que lhe sejam atribuídas.
 
 2. As receitas dos Serviços Sociais serão depositadas à ordem da direcção e movimentadas por meio de cheques assinados pelo presidente e pelo vogal-tesoureiro.
 
-###### Art. 44.º As despesas dos Serviços Sociais são exclusivamente as que resultam da execução das suas finalidades legais, de acordo com os orçamentos aprovados.
+Art. 44.º As despesas dos Serviços Sociais são exclusivamente as que resultam da execução das suas finalidades legais, de acordo com os orçamentos aprovados.
 
-###### Art. 45.º - 1. Depedem de despacho do Ministro do Trabalho:
+Art. 45.º - 1. Depedem de despacho do Ministro do Trabalho:
 
 a) As transferências de verbas das dotações orçamentais;
 
@@ -392,18 +408,18 @@ f) Os contratos de arrendamento para instalações dos serviços.
 
 2. Quando se mostre conveniente, designadamente tendo em vista assegurar maior rapidez nas tomadas de decisão e garantir uma gestão mais dinâmica e descentralizada, o Ministro poderá delegar no secretário-geral qualquer dos poderes previstos no n.º 1.
 
-###### Art. 46.º - 1. A aprovação das contas anuais da gerência a que se refere o artigo 7.º do [Decreto-Lei n.º 49373](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49373-1969-215768), de 11 de Novembro de 1969, corresponde, para efeitos de prestação e julgamento de contas, a quitação dos membros da direcção.
+Art. 46.º - 1. A aprovação das contas anuais da gerência a que se refere o artigo 7.º do [Decreto-Lei n.º 49373](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49373-1969-215768), de 11 de Novembro de 1969, corresponde, para efeitos de prestação e julgamento de contas, a quitação dos membros da direcção.
 
 2. A revisão que houver que ser feita nos termos da lei geral poderá ser efectuada pela comissão verificadora de contas ou por uma comissão nomeada para o efeito.
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 47.º - 1. A direcção dos Serviços Sociais submeterá à consideração do Ministro do Trabalho, ouvido o conselho consultivo, as alterações ao presente Regulamento que a experiência torne aconselháveis.
+Art. 47.º - 1. A direcção dos Serviços Sociais submeterá à consideração do Ministro do Trabalho, ouvido o conselho consultivo, as alterações ao presente Regulamento que a experiência torne aconselháveis.
 
 2. O conselho consultivo poderá igualmente, por sua iniciativa, propor as alterações ao Regulamento que entender necessárias.
 
-###### Art. 48.º A competência conferida pelo presente Regulamento ao conselho consultivo poderá, por despacho do Ministro do Trabalho, ser total ou parcialmente atribuída ao conselho de pessoal a funcionar no âmbito da secretaria-geral do Ministério.
+Art. 48.º A competência conferida pelo presente Regulamento ao conselho consultivo poderá, por despacho do Ministro do Trabalho, ser total ou parcialmente atribuída ao conselho de pessoal a funcionar no âmbito da secretaria-geral do Ministério.
 
-###### Art. 49.º As dúvidas suscitadas na execução deste Regulamento, bem como os casos omissões, serão resolvidos por despacho do Ministro do Trabalho.
+Art. 49.º As dúvidas suscitadas na execução deste Regulamento, bem como os casos omissões, serão resolvidos por despacho do Ministro do Trabalho.
 
-**O Ministro do Trabalho, João Pedro Tomás Rosa.**
+O Ministro do Trabalho, João Pedro Tomás Rosa.

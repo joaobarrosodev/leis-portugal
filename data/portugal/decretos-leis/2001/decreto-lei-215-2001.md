@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/08/178a00/47154728.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/215/2001/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2001-379707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc06c596c3d9b8d4e3544960f933123c0dcc7d577e5c5bb95cfdb8f1b4206280
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81a240d40302e83c3eef04eceb306abb1f0507795b3758d36ec20f3a8b3313bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,98 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Alimentação Humana
 - Aproximação das Legislações
 - Batata
 - Cereal
 - Contra-ordenação
 - Controlo de Qualidade
 - Fruto
-- Alimentação Humana
+- Limite Máximo de Resíduos
+- Produto Alimentar
+- Produto Fitofarmacêutico
 - Produto Hortícola
 - Proteção do Consumidor
-- Produto Fitofarmacêutico
-- Limite Máximo de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:601372:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:278027:por
+  label: "Introduzida uma produção de efeitos no n.º 10 do art. 1.º e substitui, com efeitos a partir de 1 de Março de 2002,\
+    \ o valor do L.M.R no anexo do presente diploma, pelo DEC LEI.31/2002.2002.02.19.MADRP DR.IS-A [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2002-278027
+  date: '2002-02-19'
+- type: amended_by
+  target: pt:dre:425484:por
+  label: "Alterado o anexo à Port 649/96 de 12-Nov, na redacção do presente diploma e das Ports 102/97 de 14-Fev e 1101/99\
+    \ de 21-Dez e do Dec Lei 27/2000 de 03-Mar, pelo DEC LEI.245/2002.2002.11.08.MADRP,DR.IS-A [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-2002-425484
+  date: '2002-11-08'
+- type: amended_by
+  target: pt:dre:223629:por
+  label: "Suprimidas as rubricas referente à substância activa permetrina contanste do anexo A, e as rubricas referentes às\
+    \ substâncias activas bifentrina, bromopropilato, dimetoato, flucitrinato e profenofos constantes do anexo B, e alterado,\
+    \ neste anexo B, o valor do limite máximo residual correspondente à substância activa etião, ambos do Dec Lei 27/2000\
+    \ de 03-Mar, com as alterações introduzidas pelo presente diploma, pelo DEC LEI.68/2003.2003.04.08.MADRP DR.IS-A [83]\0\
+    ]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-2003-223629
+  date: '2003-04-08'
+- type: amended_by
+  target: pt:dre:671041:por
+  label: "Alterado o anexo da Port 649/96 de 12-Nov, com a redacção deste diploma, pelo DEC LEI.156/2003.2003.07.18.MADRP\
+    \ DR.IS-A [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-2003-671041
+  date: '2003-07-18'
+- type: amended_by
+  target: pt:dre:440083:por
+  label: "Alterado o Anexo do presente diploma, na redacção dos Decs Leis 256/2001, de 22-Set, 31/2002, de 19-Fev e 245/2002,\
+    \ de 08-Nov, pelo DEC LEI.300/2003.04.12.2003.MADRP, DR.IS-A [280] de 04.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/300-2003-440083
+  date: '2003-12-04'
+- type: amended_by
+  target: pt:dre:269642:por
+  label: "Suprimidas e alteradas as rubricas constantes do anexo à Port 1101/99, de 21-Dez, na redacção do presente diploma,\
+    \ pelo DEC LEI.116/2004.18.05.2004.MADRP, DR.IS-A [116] de 18.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2004-269642
+  date: '2004-05-18'
+- type: amended_by
+  target: pt:dre:683842:por
+  label: "Suprimidas várias rubricas ao anexo do presente diploma, pelo DEC LEI.32/2006.15.02.2006.MADRP, DR.IS-A [33] de\
+    \ 15.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2006-683842
+  date: '2006-02-15'
+- type: amended_by
+  target: pt:dre:358492:por
+  label: "Suprimidas várias rúbricas do anexo ao presente diploma, alterado pelos Decretos-Leis 256/2001, de 22 de Setembro,\
+    \ 31/2002, de 19 de Fevereiro, 245/2002, de 08 de Novembro, 300/2003, de 04 de Dezembro e 32/2006, de 15 de Fevereiro,\
+    \ pelo DEC LEI.123/2006.28.06.2006.MADRP, DR.IS-A [123] de 28.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-2006-358492
+  date: '2006-06-28'
+- type: amended_by
+  target: pt:dre:545386:por
+  label: "Alterado o anexo do presente diploma, pelo DEC LEI.233/2006.29.11.2006.MADRP, DR.IS [230] de 29.11.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/233-2006-545386
+  date: '2006-11-29'
+- type: amended_by
+  target: pt:dre:639288:por
+  label: "Suprimidas algumas rubricas no anexo II da Port 488/90 de 29-Jun, com a redacção conferida no presente diploma,\
+    \ pelo DEC LEI.235/2007.19.06.2007.MADRP, DR.IS [116] de 19.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-2007-639288
+  date: '2007-06-19'
+- type: amended_by
+  target: pt:dre:629450:por
+  label: "Suprimidas várias rubricas ao anexo do presente diploma, pelo DEC LEI.373/2007.06.11.2007.MADRP, DR.IS [213] de\
+    \ 06.11.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/373-2007-629450
+  date: '2007-11-06'
+- type: amended_by
+  target: pt:dre:452889:por
+  label: "Alterado o anexo A do Dec Lei 27/2000 de 03-Mar, com as alterações constantes do presente diploma, pelo DEC LEI.202/2008.09.10.2008.MADRP,\
+    \ DR.IS [196] de 09.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2008-452889
+  date: '2008-10-09'
 - type: cites
   target: celex:32000L0042
   label: null
@@ -107,16 +182,32 @@ relationships:
   target: celex:32000L0082
   label: null
   source: http://data.europa.eu/eli/dir/2000/82/oj
+- type: corrected_by
+  target: pt:dre:683979:por
+  label: "Rectificado pela DECL-RECT.19-A/2001.2001.09.28.PCM, DR.IS-A [227]Supl, de 29/Set/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/19-a-2001-683979
+  date: '2001-09-28'
+- type: repealed_by
+  target: pt:dre:278027:por
+  label: "Revogado, com efeitos a partir de 1 de Março de 2002, o n.º 12 do art. 1.º do presente diploma, pelo DEC LEI.31/2002.2002.02.19.MADRP\
+    \ DR.IS-A [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2002-278027
+  date: '2002-02-19'
+- type: repealed_by
+  target: pt:dre:601372:por
+  label: "Revogado, nos termos do art. 13.º, pelo DEC LEI.39/2009.10.02.2009.MADRP, DR.IS [28] de 10.02.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2009-601372
+  date: '2009-02-10'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:20Z'
   warnings: []
   errors: []
 ---
@@ -267,15 +358,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 2001. - António Manuel de Oliveira Guterres - Vítor Manuel da Silva Santos - Luís Manuel Capoulas Santos - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 17 de Julho de 2001.**
+Promulgado em 17 de Julho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Julho de 2001.**
+Referendado em 19 de Julho de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 Resíduos de produtos fitofarmacêuticos e LMR (miligramas/quilogramas)
 

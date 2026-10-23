@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 300/1987, 8º Suplemento, Série I de 1987-12-31
   number: '300'
   series: I
-  supplement: 8º Suplemento
+  supplement: null
   pages: 4440-(273) a 4440-(278)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/30008/02730278.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1987-406156
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1493aad619b317217c360ca0483492fcdcef72c9e928bc74e9fdbd8a4afc6e76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf38c6b9fdd13d4a3c0e1bd9c7c4cee8de89cdbc9d94ff417bc29d9f9999375e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete de Estudos e Planeamento de Instalações
+- Ministério da Administração Interna
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:520440:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELA PORT 180/91 DE 04-MAR DR.IS-B [52]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-03-04'
+- type: amended_by
+  target: pt:dre:466851:por
+  label: Alterado, no que se refere ao pessoal técnico superior, o quadro de pessoal do Gabinete de Estudos e de Planeamento
+    de Instalações do Ministério da Administração Interna, constante do mapa anexo, pelo(a) Portaria n.º 180/91 - Diário da
+    República n.º 52/1991, Série I-B de 1991-03-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/180-1991-466851
+  date: '1991-03-04'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL PELA PORT 1249/95 DE 19-OUT DR.IS-B [242]\0S-B [242]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-10-19'
+- type: amended_by
+  target: pt:dre:668506:por
+  label: Substituído o quadro de pessoal do Gabinete de Estudos e de Planeamento de Instalações (GEPI) pelo(a) Portaria n.º
+    1249/95 - Diário da República n.º 242/1995, Série I-B de 1995-10-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1249-1995-668506
+  date: '1995-10-19'
+- type: amended_by
+  target: pt:dre:545640:por
+  label: "Extinto o Gabinete de Estudos e de Planeamento de Instalações (GEPI), instituído pelo Dec Lei 55/87 de 31-Jan, já\
+    \ revogado, cuja orgânica consta do presente diploma, pelo DEC LEI.203/2006.27.10.2006.MAI, DR.IS [208] de 27.10.2006,\
+    \ nos termos do disposto no respectivo art. 16º, sendo as suas atribuições no domínio do estudo e análise das questões\
+    \ relativas a segurança interna, asilo e imigração, previsão e gestão de emergências integradas na Direcção-Geral da Administração\
+    \ Interna, e as suas atribuições relativas ao planeamento, elaboração e controlo dos processos de aquisição, construção\
+    \ e manutenção de equipamentos e instalações das forças e serviços de segurança e protecção civil e outros serviços comuns\
+    \ específicos da área de segurança interna integradas na Direcção-Geral de Infra-Estruturas e de Equipamentos\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-2006-545640
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663315:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520440:por
+  label: "Revogado o presente diploma e determinado que a Direcção Geral de Infra-Estruturas e Equipamentos, suceda nas atribuições\
+    \ do Gabinete de Estudos e de Planeamento de Instalações, pelo DR.18/2007.29.03.2007.MAI, DR.IS [63] de 29.03.2007, nos\
+    \ termos do nº 1 do art, 11º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/18-2007-520440
+  date: '2007-03-29'
 article_structure:
   article_count: 21
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:36Z'
   warnings: []
   errors: []
 ---
@@ -212,7 +265,9 @@ b) Divisão de Obras (DO);
 
 c) Divisão de Programação e Controle (DPC).
 
-###### Artigo 8.º — Divisão de projectos
+###### Artigo 8.º
+
+##### Divisão de projectos
 
 À DP compete:
 
@@ -234,7 +289,9 @@ h) Promover, se necessário com recurso a serviços externos, as vistorias atine
 
 i) Colaborar com a DPC na coordenação e controle de execução dos programas anuais e plurianuais de empreendimentos.
 
-###### Artigo 9.º — Divisão de Obras
+###### Artigo 9.º
+
+##### Divisão de Obras
 
 À DO compete:
 
@@ -252,7 +309,9 @@ f) Colaborar com a DPC na coordenação e controle de execução dos programas a
 
 g) Proceder à entrega dos empreendimentos e fornecimentos às entidades destinatárias dos mesmos.
 
-###### Artigo 10.º — Divisão de Programação e Controle
+###### Artigo 10.º
+
+##### Divisão de Programação e Controle
 
 1 - À DPC compete:
 
@@ -440,15 +499,15 @@ Os encargos resultantes da execução do presente diploma serão suportados em 1
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José António da Silveira Godinho - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 31 de Dezembro de 1987.**
+Promulgado em 31 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Dezembro de 1987.**
+Referendado em 31 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Conteúdo funcional da carreira de técnico auxiliar
 
@@ -458,4 +517,4 @@ MAPA ANEXO
 
 Quadro de pessoal do GEPI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/30008/02730278.pdf))](https://files.diariodarepublica.pt/1s/1987/12/30008/02730278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/30008/02730278.pdf)

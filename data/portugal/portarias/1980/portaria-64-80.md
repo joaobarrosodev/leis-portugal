@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/64-1980-679594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95ea2f5ea1676aacf26f9e535f1c79b3233a0060a51587029631dfc241d50159
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93dee8de23406d11f4d190a163d8ae08abac4770377c4f75a09075d073fa468c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Consulado
+- Embaixada
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:226584:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226584:por
+  label: "Extinto o quadro de pessoal assalariado do Consulado de Portugal no Havre, previsto no presente diploma, pelo DEC.146/80.31.12.1980.MNE,\
+    \ DR.IS [301-2.º Supl] de 31.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/146-1980-226584
+  date: '1980-12-31'
+- type: cites
+  target: pt:dre:690465:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:33Z'
   warnings: []
   errors: []
 ---
@@ -95,10 +108,10 @@ Ministério dos Negócios Estrangeiros, 1 de Fevereiro de 1980. - O Ministro dos
 
 Quadro do pessoal assalariado das embaixadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/02/04900/02500252.pdf))](https://files.diariodarepublica.pt/1s/1980/02/04900/02500252.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/02/04900/02500252.pdf)
 
 Quadro do pessoal assalariado dos consulados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/02/04900/02500252.pdf))](https://files.diariodarepublica.pt/1s/1980/02/04900/02500252.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/02/04900/02500252.pdf)
 
 Ministério dos Negócios Estrangeiros, 1 de Fevereiro de 1980. - O Ministro, Diogo Pinto de Freitas do Amaral.

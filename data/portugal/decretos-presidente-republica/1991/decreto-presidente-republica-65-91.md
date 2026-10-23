@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 294/1991, 1º Suplemento, Série I-A de 1991-12-21
   number: '294'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6710-(3) a 6710-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/12/294a01/00030003.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/65/1991/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/65-1991-195225
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T04:11:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f6204c2834057fa885c3b8e959cad14d8230242e687431a41cb89c10c3307d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 706027dd1eb3611454f0c6345c085a199843c55d25daa8973a003920c4b2c2fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:11:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:11:21Z'
   warnings: []
   errors: []
 ---
@@ -85,16 +85,16 @@ validation:
 
 de 21 de Dezembro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea f), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea f), da Constituição, o seguinte:
 
 A pena acessória de expulsão do País aplicada a João Baptista Domingos Joaquim Lourenço, de 29 anos de idade, no processo n.º 892/88, da 1.ª Secção do 2.º Juízo do Tribunal Judicial da Comarca de Portimão, é revogada, por indulto.
 
-**Assinado em 21 de Dezembro de 1991.**
+Assinado em 21 de Dezembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Dezembro de 1991.**
+Referendado em 21 de Dezembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

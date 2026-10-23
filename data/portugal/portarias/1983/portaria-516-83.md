@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/516-1983-451038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T07:42:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4b3e6cc30c32fe0395bf79523d0092a0f9733d47c1f6d4933e6b0b3a9445966
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adc917ae691ea1fb8a3bbbaf68dbab9adc8a42cd919facb6d92968b3b9e7cec1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:42:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Pessoal de Saúde
+- Pessoal Técnico Superior
+- Regulamento de Estágio
 relationships:
 - type: amended_by
   target: pt:dre:304767:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:221496:por
+  label: "Alterado o artigo 7.º do Regulamento, pela PORT.706/86.22.11.1986.MS, DR.IS [270] de 22.11.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/706-1986-221496
+  date: '1986-11-22'
+- type: amended_by
+  target: pt:dre:304767:por
+  label: "Aditado o elenco de licenciatura em Química aos constantes da alínea b) do n.º 2 do artigo 6.º do Regulamento, pela\
+    \ PORT.924/91.05.09.1991.MS, DR.IS-B [204] de 05.09.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/924-1991-304767
+  date: '1991-09-05'
+- type: cites
+  target: pt:dre:375407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578332:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:42:10Z'
   warnings: []
   errors: []
 ---
@@ -236,6 +263,6 @@ b) Da data do início do estágio.
 
 Ministério dos Assuntos Sociais.
 
-**Assinada em 17 de Março de 1983.**
+Assinada em 17 de Março de 1983.
 
 Pelo Ministro dos Assuntos Sociais, Adalberto Paulo da Fonseca Mendo. Secretário de Estado da Saúde.

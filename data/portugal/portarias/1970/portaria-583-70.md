@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/583-1970-147269
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9044bb1680d4e8ae9a9ced481e77f31634029f0979537963ad75895417fbdb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b24222917d7853fb3c626dfd1445e549da0e73bf340aacbd35464dba1afd2b3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:28Z'
   warnings: []
   errors: []
 ---
@@ -87,4 +87,4 @@ de 20 de Novembro
 
 Manda o Governo da República Portuguesa, pelo Ministro da Justiça, que, nos termos do artigo 251.º, n.º 2, do Estatuto Judiciário, seja aumentado o quadro da secretaria do Tribunal da Comarca de Oeiras com um lugar de escrivão de direito, um lugar de oficial de diligências e um lugar de escriturário de 1.ª classe.
 
-**O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.**
+O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.

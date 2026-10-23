@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/42/2007/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2007-517806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5507212db6e0b2426099d5040a858c38bdf9785fe762429125a2d685389ce133
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3357cc45026203349a30d0e59b722c150c95686f2f44b722c01d08212626fed4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,33 +68,99 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
+- Abastecimento de Água
+- Alqueva
+- Aproveitamento Hidroagrícola
 - Barragem de Pedrógão
+- Barragem do Alqueva
 - Capital Social
-- Empreendimento de Fins Múltiplos do Alqueva
-- Desenvolvimento Rural
-- Gestão Financeira
 - Conselho de Ministros
-- Recursos Hídricos
 - Definição de Competências
 - Desenvolvimento Regional
+- Desenvolvimento Rural
+- Domínio Público Hídrico
 - EDIA
-- Alqueva
-- Gestão Administrativa
+- Empreendimento de Fins Múltiplos do Alqueva
 - Estatuto
+- Gestão Administrativa
 - Gestão dos Recursos
-- Aproveitamento Hidroagrícola
+- Gestão Financeira
 - Interesse Público
 - Preço
-- Barragem do Alqueva
-- Domínio Público Hídrico
+- Recursos Hídricos
 - Regime Jurídico
-- Abastecimento de Água
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613415:por
+  label: "Alterados os nºs 1, 2 e 6 do art. 11º e revogado o nº 7 do art. 11º, a partir de 21.04.2010, pelo DEC LEI.36/2010.16.04.2010.MADRP,\
+    \ DR.IS [74] de 16.04.2010, (ver Notas, quanto à produção de efeitos da revogação) \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2010-613415
+  date: '2010-04-16'
+- type: amended_by
+  target: pt:dre:72909765:por
+  label: Determinado que a superintendência sobre a EDIA - Empresa de Desenvolvimento e Infraestruturas do Alqueva, S. A.
+    seja exercida pelo Ministro da Agricultura, Florestas e Desenvolvimento Rural sendo a competência relativa à definição
+    das orientações, nos domínios do ambiente, dos recursos hídricos, do ordenamento do território e do desenvolvimento regional,
+    bem como ao acompanhamento da sua execução, exercida em coordenação com o Ministro do Ambiente pelo(a) Decreto-Lei n.º
+    251-A/2015 - Diário da República n.º 246/2015, 1º Suplemento, Série I de 2015-12-17, nos termos do n.º 8 do art. 27.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-2015-72909765
+  date: '2015-12-17'
+- type: amended_by
+  target: pt:dre:116923610:por
+  label: Determinado que, sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e ao Ministro das Finanças,
+    seja exercida pelo Ministro da Agricultura, Florestas e Desenvolvimento Rural, a superintendência sobre a EDIA-Empresa
+    de Desenvolvimento e Infraesttuturas do Alqueva, S.A., em coordenação com o Ministro do Ambiente e da Transição Energética,
+    no que se refere à competência relativa à definição das orientações, nos domínios do ambiente, dos recursos hídricos,
+    do ordenamento do território e do desenvolvimento regional, bem como ao acompanhamento da sua execução pelo(a) Decreto-Lei
+    n.º 90/2018 - Diário da República n.º 216/2018, Série I de 2018-11-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2018-116923610
+  date: '2018-11-09'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e
+    ao Ministro de Estado e das Finanças, que a superintendência sobre a EDIA - Empresa de Desenvolvimento e Infraestruturas
+    do Alqueva, S. A., prevista no presente diploma, seja exercida pela Ministra da Agricultura, sendo a competência relativa
+    à definição das orientações, nos domínios do ambiente, dos recursos hídricos, do ordenamento do território e do desenvolvimento
+    regional, bem como ao acompanhamento da sua execução, exercida em coordenação com o Ministro do Ambiente e da Ação Climática,
+    pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a 30.03.2022, sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e
+    ao Ministro das Finanças, a superintendência e tutela da Ministra da Agricultura e da Alimentação sobre a EDIA - Empresa
+    de Desenvolvimento e Infraestruturas do Alqueva, S. A., sendo a competência relativa à definição das orientações, nos
+    domínios do ambiente, dos recursos hídricos, do ordenamento do território e do desenvolvimento regional, bem como ao acompanhamento
+    da sua execução, exercida em coordenação com o Ministro do Ambiente e da Ação Climática e com a Ministra da Coesão Territorial
+    pelo(a) Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pelo Ministro da Agricultura e Pescas, sem prejuízo
+    dos poderes legalmente conferidos ao Conselho de Ministros e ao Ministro de Estado e das Finanças, a superintendência
+    e tutela sobre a EDIA - Empresa de Desenvolvimento e Infraestruturas do Alqueva, S. A., sendo a competência relativa à
+    definição das orientações, nos domínios do ambiente, dos recursos hídricos, do ordenamento do território e do desenvolvimento
+    regional, bem como o acompanhamento da sua execução, exercida em coordenação com o Ministro Adjunto e da Coesão Territorial
+    e com a Ministra do Ambiente e Energia pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja exercida pelo Ministro da Agricultura e Mar, sem prejuízo
+    dos poderes legalmente conferidos ao Conselho de Ministros e ao Ministro de Estado e das Finanças, a superintendência
+    e tutela sobre a EDIA - Empresa de Desenvolvimento e Infraestruturas do Alqueva, S. A., sendo a competência relativa à
+    definição das orientações, nos domínios do ambiente, dos recursos hídricos, do ordenamento do território e do desenvolvimento
+    regional, bem como o acompanhamento da sua execução, exercida em coordenação com o Ministro da Economia e da Coesão Territorial
+    e com a Ministra do Ambiente e Energia pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República n.º 142/2025, Suplemento,
+    Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/
   label: null
@@ -135,16 +201,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/8/1996/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/8/1996/01/23/p/dre
+- type: cites
+  target: pt:dre:198146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683861:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:38Z'
   warnings: []
   errors: []
 ---
@@ -289,15 +403,15 @@ A área de intervenção do empreendimento corresponde à que se encontra delimi
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 8 de Fevereiro de 2007.**
+Promulgado em 8 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 9 de Fevereiro de 2007.**
+Referendado em 9 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — ESTATUTOS DA EDIA - EMPRESA DE DESENVOLVIMENTO E INFRA-ESTRUTURAS DO ALQUEVA, S. A.
 
@@ -499,4 +613,4 @@ A sociedade dissolve-se nos termos da lei.
 
 ## ANEXO II — Área de intervenção do empreendimento de Alqueva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03800/13141320.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03800/13141320.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03800/13141320.pdf)

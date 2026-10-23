@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/69-1987-417792
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T07:38:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1feebffde44ade31aabec21fc0c093d101a5cadf69a3026f5dbe132e0db540c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a632a4b628e1e20f3334ecc7e46ddc229c8536ce721b109693853bc00ffcba74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:38:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Amido
+- Cereal
+- Contingentação
+- Importação
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:38:29Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +98,7 @@ Determino o seguinte:
 
 1 - O montante, em toneladas, do contingente anual fixado pelos Regulamentos (CEE) n.os [596/86](http://data.europa.eu/eli/reg/1986/596/oj?locale=pt) e [597/86](http://data.europa.eu/eli/reg/1986/597/oj?locale=pt), de 28 de Fevereiro de 1986, é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18500/31463147.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18500/31463147.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18500/31463147.pdf)
 
 2 - O contingente referido no n.º 1 será repartido em duas parcelas, sendo uma correspondente a 90% do seu montante, destinada a ser distribuída pelos habituais importadores, e outra de 10% desse mesmo contingente, a ser distribuída pelos novos importadores.
 

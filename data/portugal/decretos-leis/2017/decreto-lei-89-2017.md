@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/07/14500/0426704271.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/89/2017/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2017-107773645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e19b749b6d62b236fd40af0425c08ee8f546e0becacec9c56d7e316c0583cd38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc7bb391f3884b9d9f1f8566bb76e16c1f43b75055f2e361097d5a79bc0e5688
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Valores Mobiliários
-- Sociedade Comercial
 - Código das Sociedades Comerciais
 - Código dos Valores Mobiliários
+- Sociedade Comercial
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:159707135:por
@@ -100,6 +100,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/148/2015/09/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/148/2015/09/09/p/dre
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70237676:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32013L0034
   label: null
@@ -109,15 +129,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 9
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:32Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +196,9 @@ Os artigos 65.º, 451.º e 528.º do Código das Sociedades Comerciais, aprovado
 
 5 - O relatório de gestão, o relatório separado com a informação não financeira, quando aplicável, as contas do exercício e demais documentos de prestação de contas devem ser apresentados ao órgão competente e por este apreciados, salvo casos particulares previstos na lei, no prazo de três meses a contar da data do encerramento de cada exercício anual, ou no prazo de cinco meses a contar da mesma data quando se trate de sociedades que devam apresentar contas consolidadas ou que apliquem o método da equivalência patrimonial.
 
-###### Artigo 451.º — [...]
+Artigo 451.º
+
+[...]
 
 1 - [...].
 
@@ -192,7 +214,9 @@ Os artigos 65.º, 451.º e 528.º do Código das Sociedades Comerciais, aprovado
 
 7 - A alínea e) do n.º 3 do presente artigo não é aplicável à demonstração não financeira referida no n.º 1 do artigo 66.º-B, nem à demonstração não financeira consolidada referida no n.º 1 do artigo 508.º-G, nem aos relatórios separados referidos nos n.os 8 e 9 do artigo 66.º-B e nos n.os 8 e 9 do artigo 508.º-G.
 
-###### Artigo 528.º — [...]
+Artigo 528.º
+
+[...]
 
 1 - O gerente ou administrador de sociedade que não submeter, ou por facto próprio impedir outrem de submeter, aos órgãos competentes da sociedade, o relatório de gestão, incluindo a demonstração não financeira, as contas do exercício e os demais documentos de prestação de contas previstos na lei, cuja apresentação lhe esteja cometida por lei ou pelo contrato social, ou por outro título, até ao fim do prazo previsto no n.º 1 do artigo 376.º, ou não submeter, ou por facto próprio impedir outrem de submeter, aos órgãos competentes da sociedade, o relatório separado, incluindo a demonstração não financeira, até ao fim do prazo previsto na alínea b) do n.º 9 do artigo 66.º-B e alínea b) do n.º 9 do artigo 508.º-G, quando aplicáveis, bem como viole o disposto no artigo 65.º-A, é punido com coima de (euro) 50 a (euro) 1500.
 
@@ -260,7 +284,9 @@ a) Entidades de interesse público, as assim qualificadas pelo artigo 3.º do Re
 
 b) Grandes empresas, aquelas que excedam pelo menos dois dos três limites definidos no n.º 3 do artigo 9.º, apurados nos termos do artigo 9.º-A, ambos do [Decreto-Lei n.º 158/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2009-492428), de 13 de julho, com a redação dada pelo [Decreto-Lei n.º 98/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342), de 2 de junho.
 
-###### Artigo 508.º-G — Demonstração não financeira consolidada
+Artigo 508.º-G
+
+Demonstração não financeira consolidada
 
 1 - As empresas-mãe de um grande grupo que sejam entidades de interesse público, que à data de encerramento do seu balanço consolidado excedam um número médio de 500 trabalhadores durante o exercício anual, devem incluir no seu relatório de gestão consolidado uma demonstração não financeira consolidada, nos termos do presente artigo.
 
@@ -302,7 +328,9 @@ a) Entidades de interesse público, as assim qualificadas pelo artigo 3.º do Re
 
 b) Grandes grupos, os constituídos pela empresa-mãe e pelas empresas filiais a incluir na consolidação e que, em base consolidada, excedam pelo menos dois dos três limites definidos no n.º 3 do artigo 9.º, apurados nos termos do artigo 9.º-A, ambos do [Decreto-Lei n.º 158/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2009-492428), de 13 de julho, com a redação dada pelo [Decreto-Lei n.º 98/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342), de 2 de junho.
 
-###### Artigo 546.º — Sistema de Certificação de Atributos Profissionais
+Artigo 546.º
+
+Sistema de Certificação de Atributos Profissionais
 
 1 - Os membros do Conselho de Administração, Gerentes ou Direções, das Sociedades Anónimas, Sociedades por Quotas ou Cooperativas, podem assinar e autenticarem-se eletronicamente, validando a respetiva qualidade profissional, através do recurso ao Sistema de Certificação de Atributos Profissionais (SCAP).
 
@@ -380,12 +408,12 @@ O disposto no presente decreto-lei é aplicável aos exercícios anuais que se i
 
 Visto e aprovado em Conselho de Ministros de 22 de junho de 2017. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - Maria Manuel de Lemos Leitão Marques - Mário José Gomes de Freitas Centeno - Helena Maria Mesquita Ribeiro.
 
-**Promulgado em 13 de julho de 2017.**
+Promulgado em 13 de julho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 24 de julho de 2017.**
+Referendado em 24 de julho de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/107a00/26032605.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/94/1995/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1995-513873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd815fae8e4f345aa88a6bc2f612cc48801e7e3a3110ee38987486cf4afdd213
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5b3c2d037d00950abed89bafe47164109b92b116772723c49ec90885bb00c98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Indústria Farmacêutica
-- Publicidade
 - CEE
-- Multa
-- Infarmed
+- Comércio
 - Contra-ordenação
 - Definição de Competências
 - Etiquetagem
 - Fabrico Industrial
 - Fiscalização
+- Indústria Farmacêutica
+- Infarmed
 - Inspecção Geral das Actividades Económicas
 - Medicamento Manipulado
-- Produto Farmacêutico
 - Medicinas Alternativas
+- Multa
+- Produto Farmacêutico
+- Publicidade
 - Regime Jurídico
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:540387:por
@@ -100,16 +100,21 @@ relationships:
   target: celex:31992L1973
   label: null
   source: http://data.europa.eu/eli/dir/1992/1973/oj
+- type: repealed_by
+  target: pt:dre:540387:por
+  label: "Revogado pelo Dec Lei.176/2006.30.08.2006.MS, DR.IS [167] de 30.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-2006-540387
+  date: '2006-08-30'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:56Z'
   warnings: []
   errors: []
 ---
@@ -272,12 +277,12 @@ g) O incumprimento do disposto nos artigos 7.º e 8.º do presente diploma, no c
 
 Visto e aprovado em Conselho de Ministros de 16 de Fevereiro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Fernando Mira Amaral - Adalberto Paulo da Fonseca Mendo - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 4 de Abril de 1995.**
+Promulgado em 4 de Abril de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1995.**
+Referendado em 6 de Abril de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

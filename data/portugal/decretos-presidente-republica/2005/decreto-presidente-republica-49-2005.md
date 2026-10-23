@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/49/2005/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/49-2005-589573
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T04:50:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc52e3a9d92aa327b4396a36e758377f931e9dbe12cdc4fa31e7be12e7348d6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36d45b5cd99dc950966f39dd025dd98ca15dbe658e6fcd57633dbd5ecf0379b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:50:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Suíça
-- Exoneração
-- Embaixador
 - Berna
+- Embaixador
+- Exoneração
+- Suíça
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:50:35Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +89,16 @@ validation:
 
 de 28 de Outubro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É exonerado, sob proposta do Governo, o embaixador Manuel Henrique de Mello e Castro de Mendonça Côrte-Real do cargo de Embaixador de Portugal em Berna.
 
-**Assinado em 26 de Setembro de 2005.**
+Assinado em 26 de Setembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Outubro de 2005.**
+Referendado em 19 de Outubro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa. - O Ministro de Estado e dos Negócios Estrangeiros, Diogo Pinto de Freitas do Amaral.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa. - O Ministro de Estado e dos Negócios Estrangeiros, Diogo Pinto de Freitas do Amaral.

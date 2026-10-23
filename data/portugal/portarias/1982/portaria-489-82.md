@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/10800/12231229.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/489-1982-392976
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T07:17:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6ac1041956c078eccf4cdf39c7cccfcbce9e7203aa5fdd3772f24505d351f75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b27679c1f1cd5415b3bf0731101440a3a398cc879a99595bc8264bdd4b7db625
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:17:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Infraestrutura Turística
+- Sistema de Incentivos ao Investimento Turístico
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:410774:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:385850:por
+  label: "Alterada a al. b) do n.º 3 e a al. b) do n.º 2 do n.º 6 do presente diploma, pela PORT.473/84.19.07.1984.MCT, DR.IS\
+    \ [166] de 19.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/473-1984-385850
+  date: '1984-07-19'
+- type: cites
+  target: pt:dre:217109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458992:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:395747:por
+  label: Rectificada pela DECL.DD3436.1982.05.17.SG-PCM, DR.IS [132] de 11/Jun/1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-395747
+  date: '1982-05-17'
+- type: corrected_by
+  target: pt:dre:394085:por
+  label: Rectificada pela DECL.DD6141.14.07.1982.PCM, DR.IS [168] de 23.07.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-394085
+  date: '1982-07-14'
+- type: repealed_by
+  target: pt:dre:410774:por
+  label: "Revogada pelo DEC LEI.420/87.31.12.1987.MPAT, DR.IS [300-10ºSupl] de 31.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/420-1987-410774
+  date: '1987-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:17:49Z'
   warnings: []
   errors: []
 ---
@@ -305,4 +342,4 @@ Presidência do Conselho de Ministros, 11 de Maio de 1982. - O Secretário de Es
 
 Do MAPA MODELO N.º 1 ao MAPA MODELO N.º 6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/05/10800/12231229.pdf))](https://files.diariodarepublica.pt/1s/1982/05/10800/12231229.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/05/10800/12231229.pdf)

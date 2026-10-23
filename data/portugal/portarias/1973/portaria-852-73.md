@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/852-1973-411107
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T04:16:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc51f4ec6927b982cc2bfaa5ffbbae0676b81327c3449210968eaa8b9cda8f83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9463d9d2ad01fc894921d0b98df6926de1097832c69f91f8388ce5536f0e3890
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:16:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:234774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689838:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:16:34Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +104,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1.º Elevar, para a importância que se indica, a seguinte verba do orçamento da receita do Hospital do Ultramar para o corrente ano económico:
 
-### CAPÍTULO
+CAPÍTULO
 
-###### Artigo 6.º «Quotização das províncias ultramarinas»:
+Artigo 6.º «Quotização das províncias ultramarinas»:
 
 a) ... -$-
 
@@ -106,13 +122,13 @@ d) ... -$-
 
 Despesas com o pessoal:
 
-###### Artigo 3.º «Outras despesas com o pessoal»:
+Artigo 3.º «Outras despesas com o pessoal»:
 
 N.º 1 «Alimentação» ... 53590$00
 
 Pagamento de serviços:
 
-###### Artigo 8.º «Despesas de higiene, saúde e conforto»:
+Artigo 8.º «Despesas de higiene, saúde e conforto»:
 
 N.º 1 «Aquisição, conserto e lavagem de roupas» ... 220000$00
 

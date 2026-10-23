@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/950-1983-441715
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T07:55:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fc99eb72cdecc194e88df249012319cc54e7f330f7be906af64384dba4f9cf7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3aed688041ed54825954472bd389ec530761f27adb3398b887fef746bdf852a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:55:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Farmácia
+- Licenciatura
+- Plano de Estudos
+- Universidade de Coimbra
+relationships:
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:55:02Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +113,9 @@ O presente plano de estudos entra em vigor a partir do ano lectivo de 1983-1984,
 
 Ministério da Educação.
 
-**Assinada em 7 de Outubro de 1983.**
+Assinada em 7 de Outubro de 1983.
 
-**O Ministro da Educação, José Augusto Seabra.**
+O Ministro da Educação, José Augusto Seabra.
 
 ## ANEXO I — Curso de Ciências Farmacêuticas
 
@@ -119,7 +127,7 @@ Grau: licenciatura
 
 1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
 
 QUADRO II
 
@@ -129,7 +137,7 @@ Grau: licenciatura
 
 2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
 
 QUADRO III
 
@@ -139,7 +147,7 @@ Grau: licenciatura
 
 1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
 
 QUADRO IV
 
@@ -149,7 +157,7 @@ Grau: licenciatura
 
 2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
 
 QUADRO V
 
@@ -159,7 +167,7 @@ Grau: licenciatura
 
 1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
 
 QUADRO VI
 
@@ -169,7 +177,7 @@ Grau: licenciatura
 
 2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
 
 Ramo: Farmácia de Oficina Hospitalar
 
@@ -181,7 +189,7 @@ Grau: licenciatura
 
 1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
 
 QUADRO VIII
 
@@ -191,7 +199,7 @@ Grau: licenciatura
 
 2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
 
 Ramo: Farmácia Industrial
 
@@ -203,7 +211,7 @@ Grau: licenciatura
 
 1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
 
 QUADRO X
 
@@ -213,7 +221,7 @@ Grau: licenciatura
 
 2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
 
 Ramo: Análises Químico-Biológicas
 
@@ -225,7 +233,7 @@ Grau: licenciatura
 
 1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
 
 QUADRO XII
 
@@ -235,7 +243,7 @@ Grau: licenciatura
 
 2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
 
 Ramo: Farmácia de Oficina e Hospitalar
 
@@ -247,7 +255,7 @@ Grau: licenciatura
 
 1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
 
 QUADRO XIV
 
@@ -257,7 +265,7 @@ Grau: licenciatura
 
 2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
 
 Ramo: Farmácia Industrial
 
@@ -269,7 +277,7 @@ Grau: licenciatura
 
 1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
 
 QUADRO XVI
 
@@ -279,7 +287,7 @@ Grau: licenciatura
 
 2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
 
 Ramo: Análises Químico-Biológicas
 
@@ -291,7 +299,7 @@ Grau: licenciatura
 
 1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
 
 QUADRO XVIII
 
@@ -301,4 +309,4 @@ Grau: licenciatura
 
 2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24800/36923695.pdf)

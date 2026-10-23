@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/11400/0378803790.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/104/2015/06/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2015-67485180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59cb4fd785fb9eb94dbccd339e561f90d8e977259857c560761f5d380632e8b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3fa0d3814dd4df5e4d425d167c9ea1f97b05d3e87592daf29cd73b6b0dc88ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,27 +69,45 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Publicidade
+- ASAE
 - Certificado de Conformidade
-- Multa
+- Comércio
 - Consumidor
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral do Consumidor
+- Embalagem
 - Etiquetagem
 - Fiscalização
 - Indústria de Brinquedos
-- ASAE
-- Embalagem
 - Instituto Português da Qualidade
+- Multa
 - Normas de Segurança
 - Proteção do Consumidor
-- Comércio
+- Publicidade
 relationships:
 - type: amended_by
   target: pt:dre:122242530:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:107495706:por
+  label: Alterado o anexo II do Dec Lei 43/2011 de 24-mar, na redação do presente diploma, pelo(a) Decreto-Lei n.º 59/2017
+    - Diário da República n.º 112/2017, Série I de 2017-06-09, nos termos do seu art. 3.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2017-107495706
+  date: '2017-06-09'
+- type: amended_by
+  target: pt:dre:114163923:por
+  label: Alterado, com efeitos a partir de 01.07.2018, o anexo II ao Dec Lei 43/2011 de 24-mar, na redação do presente diploma,
+    pelo(a) Decreto-Lei n.º 137/2017 - Diário da República n.º 215/2017, Série I de 2017-11-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-2017-114163923
+  date: '2017-11-08'
+- type: amended_by
+  target: pt:dre:122242530:por
+  label: Alterado, a partir de 01.07.2019, o anexo ii ao Dec Lei 43/2011 de 24-mar, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 59/2019 - Diário da República n.º 88/2019, Série I de 2019-05-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2019-122242530
+  date: '2019-05-08'
 - type: cites
   target: celex:31967L0548
   label: null
@@ -130,6 +148,14 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/43/2011/03/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/43/2011/03/24/p/dre
+- type: cites
+  target: pt:dre:256987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278880:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32009L0048
   label: null
@@ -137,13 +163,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:23Z'
   warnings: []
   errors: []
 ---
@@ -202,15 +228,15 @@ b) Relativamente ao apêndice C, a partir de 21 de dezembro de 2015.
 
 Visto e aprovado em Conselho de Ministros de 14 de maio de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Álvaro Barbosa de Campos Ferreira - António de Magalhães Pires de Lima.
 
-**Promulgado em 3 de junho de 2015.**
+Promulgado em 3 de junho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de junho de 2015.**
+Referendado em 4 de junho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -312,20 +338,20 @@ VI - [...]
 
 [...]
 
-## APÊNDICE A
+APÊNDICE A
 
 Lista das substâncias classificadas como CMR e das suas formas de utilização autorizadas em conformidade com os n.os 4, 5 e 6 da Parte III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/11400/0378803790.pdf))](https://files.diariodarepublica.pt/1s/2015/06/11400/0378803790.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/11400/0378803790.pdf)
 
-## APÊNDICE B
+APÊNDICE B
 
 Classificação de substâncias e misturas
 
 [...]
 
-## APÊNDICE C
+APÊNDICE C
 
 Valores limite específicos para os produtos químicos utilizados em brinquedos que se destinam a serem usados por crianças com menos de 36 meses ou noutros brinquedos destinados a serem colocados na boca, definidos nos termos do n.º 2 do artigo 46.º da [Diretiva n.º 2009/48/CE](https://data.europa.eu/eli/dir/2009/48/oj?locale=pt), do Parlamento Europeu e do Conselho, de 18 de junho de 2009.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/11400/0378803790.pdf))](https://files.diariodarepublica.pt/1s/2015/06/11400/0378803790.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/11400/0378803790.pdf)»

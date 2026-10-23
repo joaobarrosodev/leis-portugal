@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/18/2000/02/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2000-421021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:18:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb464b66723d246ed86de98865df7eb6edccd298569121066a48e9e2d9162165
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fea39b5f5743fbf7f709e1fce8aac11d31e622a736c558723bb4222af4b312b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:18:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aproximação das Legislações
 - Certificado de Conformidade
-- Multa
 - Comissão de Aplicação de Coimas em Matéria Económica
 - Consumo de Energia
 - Contra-ordenação
@@ -77,12 +77,12 @@ subjects:
 - Direcção Geral de Energia
 - Equipamento Eléctrico
 - Etiquetagem
-- Inspecção Geral das Actividades Económicas
 - Informação do Consumidor
+- Inspecção Geral das Actividades Económicas
 - Madeira.região Autónoma
-- Proteção do Consumidor
-- Açores
+- Multa
 - Normalização
+- Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:286756:por
@@ -96,16 +96,25 @@ relationships:
   target: celex:31998L0011
   label: null
   source: http://data.europa.eu/eli/dir/1998/11/oj
+- type: repealed_by
+  target: pt:dre:286756:por
+  label: "Revogado, a partir de 20.07.2011, pelo DEC LEI.63/2011.09.05.2011.MEID, DR.IS [89] de 09.05.2011, com produção de\
+    \ efeitos nos termos do disposto no nº 2 do seu art. 24º [na data em que, por acto delegado da Comissão Europeia, ao abrigo\
+    \ da Directiva n.º 2010/30/UE, do Parlamento Europeu e da Comissão, de 19 de Maio, produza efeitos a revogação da Directiva\
+    \ n.º 98/11/CE, da Comissão, de 17 de Janeiro, relativa à etiquetagem energética das lâmpadas eléctricas para uso doméstico].\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-2011-286756
+  date: '2011-05-09'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:18:15Z'
   warnings: []
   errors: []
 ---
@@ -316,15 +325,15 @@ As normas relativas à colocação no mercado, à comercialização e à exposi�
 
 Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - José Sócrates Carvalho Pinto de Sousa - Armando António Martins Vara.
 
-**Promulgado em 17 de Fevereiro de 2000.**
+Promulgado em 17 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Fevereiro de 2000.**
+Referendado em 18 de Fevereiro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Etiqueta
 
@@ -332,7 +341,7 @@ Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1999. - António 
 
 1.1 - A etiqueta deve ser escolhida de entre as ilustrações que se seguem. Caso a etiqueta não esteja impressa na embalagem, mas se encontre aposta ou fixa a ela, deve ser utilizada a versão policromática. Caso se utilize a versão com impressão monocromática, poderão usar-se, para o fundo e para a impressão, quaisquer cores, desde que seja mantida a legibilidade da etiqueta:
 
-[(ver etiqueta no documento original)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)
+[[[(ver etiqueta no documento original)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)
 
 1.2 - Da etiqueta devem constar as seguintes informações:
 
@@ -346,13 +355,13 @@ IV) Tempo de vida médio nominal da lâmpada eléctrica, em horas, medido de aco
 
 1.3 - As informações especificadas no n.º 1.2, alíneas II) e III), e, se for caso disso, no n.º 1.2, alínea IV), que já figurem na embalagem da lâmpada eléctrica podem não constar da etiqueta, podendo, nesse caso, a sua esquadria ser também suprimida. A etiqueta será então escolhida de entre as seguintes ilustrações:
 
-[(ver etiqueta no documento original)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)
+[[[(ver etiqueta no documento original)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)
 
 2 - Impressão da etiqueta:
 
 2.1 - A etiqueta deve ser impressa de acordo com as seguintes indicações:
 
-[(ver etiqueta no documento original)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)
+[[[(ver etiqueta no documento original)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)
 
 A etiqueta deve ter, em volta, uma margem em branco de, pelo menos, 5 mm.
 
@@ -404,11 +413,11 @@ A classe de eficiência energética de uma lâmpada eléctrica deve ser determin
 
 Lâmpadas eléctricas fluorescentes sem balastro integrado que satisfaçam a seguinte expressão (as lâmpadas eléctricas exigem um balastro e ou outro dispositivo de controlo para ligação à rede):
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)
 
 Outras lâmpadas que satisfaçam a seguinte expressão:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)
 
 2 - Se uma lâmpada eléctrica não for classificada na classe A, a sua classe de eficiência energética deve ser determinada de acordo com o seguinte quadro:
 
@@ -420,4 +429,4 @@ E(índice I) = (W/W(índice R)) x 100%
 
 em que W é a potência absorvida da lâmpada eléctrica, em watts, e a potência de referência W(índice R) é calculada do seguinte modo:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)](https://files.diariodarepublica.pt/1s/2000/02/050a00/06840688.pdf)

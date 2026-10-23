@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/28/1998/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1998-229486
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:00:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a77125679e68d87f0f96ea8247d40ed466698eecdb8fdbdd17013f7f6cd1f8a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e739f07b79f3e059074b118c9483102b079943ab7e40719cd3995bb7054fa91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:00:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,53 @@ reuse:
 subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
-- Gestão Financeira
 - Definição de Competências
 - Direcção Geral da Junta do Crédito Público
-- Instituto de Gestão do Crédito Público
+- Direcção Geral das Contribuições e Impostos
 - Dívida Pública
 - Estatuto
 - Estatuto do Pessoal
 - Extinção de Serviços
 - Gestão
+- Gestão de Recursos Humanos
 - Gestão do Património
-- Ministro das Finanças
+- Gestão Financeira
+- Instituto de Gestão do Crédito Público
 - Integração de Trabalhadores
+- Ministro das Finanças
+- Mobilidade de Pessoal
 - Regime Jurídico
 - Remuneração
-- Mobilidade de Pessoal
-- Direcção Geral das Contribuições e Impostos
-- Gestão de Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:174556:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:492268:por
+  label: "Alterado o art. 25º dos Estatutos do IGCP, aprovados pelo Dec Lei 160/96 de 04-Set, com a redacção do presente diploma,\
+    \ pelo DEC LEI.2/99.1999.01.04.MF DR.IS-A [2]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-1999-492268
+  date: '1999-01-04'
+- type: amended_by
+  target: pt:dre:693818:por
+  label: "Alterados os arts. 6º, 11º e 25º dos Estatutos aprovados pelo Dec Lei 160/96 de 04-Set, na redacção do presente\
+    \ diploma e do Dec Lei 2/99 de 04-Jan) e republicado em anexo o texto integral dos Estatutos, pelo DEC LEI.455/99.1999.11.05.MF,\
+    \ DR.IS-A [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/455-1999-693818
+  date: '1999-11-05'
+- type: amended_by
+  target: pt:dre:520442:por
+  label: "Alterado o artigo 5.º do Decreto-Lei 160/96, de 04 de Setembro, na redacção do presente diploma, pelo DEC LEI.86/2007.29.03.2007.MFAP,\
+    \ DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-2007-520442
+  date: '2007-03-29'
+- type: amended_by
+  target: pt:dre:636406:por
+  label: "Alterados os artigos 4.º e 5.º do Decreto-Lei n.º 160/96, de 4 de Setembro, na redacção do presente diploma, pelo\
+    \ DEC LEI.273/2007.30.07.2007.MFAP, DR.IS [145] de 30.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2007-636406
+  date: '2007-07-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/158/1996/09/03/p/dre
   label: null
@@ -102,16 +127,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/207/1997/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/207/1997/08/13/p/dre
+- type: cites
+  target: pt:dre:202778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241644:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:312796:por
+  label: "Rectificado pela DECL-RECT.6-B/98.1998.02.27.PCM DR.IS-A [50]2ºSupl de 28/Fev/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/6-b-1998-312796
+  date: '1998-02-27'
+- type: repealed_by
+  target: pt:dre:608072:por
+  label: "Revogado o Decreto-Lei n.º 158/96, de 3 de Setembro, na redacção do presente diploma, pelo DEC LEI.47/2005.24.02.2005.MFAP,\
+    \ DR.IS-A [39] de 24.02.2005, nos termos do seu art. 35.º e 38.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-2005-608072
+  date: '2005-02-24'
+- type: repealed_by
+  target: pt:dre:174556:por
+  label: "Revogado, a partir de 01.09.2012, o Dec Lei 160/96, de 04-set , na redação do presente diploma, da Lei 87-B/98,\
+    \ de 31-dez, dos Dec Lei 2/99, de 04-jan, 455/99, de 05-nov, 86/2007, de 29-mar, 273/2007, de 30-jul e 69-A/2009, de 24-mar\
+    \ e transformado o Instituto de Gestão da Tesouraria e do Crédito Público, I. P., na Agência de Gestão da Tesouraria e\
+    \ da Dívida Pública - IGCP, E. P. E., e aprova os respetivos estatutos, pelo DEC LEI.200/2012.27.08.2012.MF, DR.IS [165]\
+    \ de 27.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-2012-174556
+  date: '2012-08-27'
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:00:07Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +201,9 @@ Os artigos 2.º, 5.º e 11.º dos Estatutos do Instituto de Gestão do Crédito 
 
 O IGCP rege-se pelos presentes Estatutos e pelos seus regulamentos internos, a aprovar pelo Ministro das Finanças, bem como, no que por aqueles ou por estes não for especialmente regulado, exclusivamente pelo ordenamento jurídico e financeiro aplicável às entidades que revistam a natureza, forma e designação de empresa pública de regime de direito privado, não estando sujeito às normas aplicáveis aos fundos e serviços autónomos.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -166,7 +225,9 @@ g) Acompanhar as operações de dívida pública directa e executar toda a trami
 
 3 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 ...
 
@@ -222,12 +283,12 @@ O artigo 33.º do [Decreto-Lei n.º 158/96](https://diariodarepublica.pt/dr/deta
 
 Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 26 de Janeiro de 1998.**
+Promulgado em 26 de Janeiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Janeiro de 1998.**
+Referendado em 29 de Janeiro de 1998.
 
 Pelo Primeiro-Ministro, Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros.

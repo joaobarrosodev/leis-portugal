@@ -49,40 +49,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/866-1983-439608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T07:52:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 820c5968291ef59cd5de923bebc35254666f6ec404491de0f2e7b330d09083bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c0c633ce1b7ae957c7884b2bfdd272cce39bf08ebfaf93cc57857de781c0871
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:52:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública de Parques Industriais
+- Parque Industrial
 relationships:
 - type: amended_by
   target: pt:dre:400598:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:400598:por
+  label: "Actualizados os preços referidos nos n.os 10.º e 13.º e constantes da tabela I deste diploma, pela PORT.840/84.30.10.1984.MIE,\
+    \ DR.IS [252] de 30.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/840-1984-400598
+  date: '1984-10-30'
+- type: cites
+  target: pt:dre:308317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569104:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:52:54Z'
   warnings: []
   errors: []
 ---
@@ -269,14 +289,14 @@ c) Conjugação dos mecanismos de isenção e redução previstos nas alíneas a
 
 Ministério da Indústria e Energia.
 
-**Assinada em 11 de Agosto de 1983.**
+Assinada em 11 de Agosto de 1983.
 
 Pelo Ministro da Indústria e Energia, João Nuno Boulain de Carvalho Carreira, Secretário de Estado da Indústria.
 
 TABELA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/20000/30843088.pdf))](https://files.diariodarepublica.pt/1s/1983/08/20000/30843088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/20000/30843088.pdf)
 
 TABELA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/20000/30843088.pdf))](https://files.diariodarepublica.pt/1s/1983/08/20000/30843088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/20000/30843088.pdf)

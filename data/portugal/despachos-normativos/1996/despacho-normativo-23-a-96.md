@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 141/1996, 1º Suplemento, Série I-B de 1996-06-20
   number: '141'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1584-(2) a 1584-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/06/141b01/00020003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/23-a/1996/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-a-1996-631644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T08:30:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c9e62cbcd79d385502d7e6e4a1fa29c37aae6f1d7bef5bb00d1eecbd8f4f439
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55467bda9b8b9030d90516406331fac49340186c331f7deb3de9450634cc3262
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:30:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Transporte Terrestre
-- Estrada
-- Transporte Ferroviário
+- Apoio ao Investimento
+- Autarquia Local
 - Definição de Competências
 - Direcção Geral dos Transportes Terrestres
-- Apoio ao Investimento
+- Estrada
+- Financiamento
 - Infraestrutura dos Transportes
 - Segurança Rodoviária
-- Autarquia Local
-relationships: []
+- Transporte Ferroviário
+- Transporte Terrestre
+relationships:
+- type: cites
+  target: pt:dre:371471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547056:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:30:09Z'
   warnings: []
   errors: []
 ---
@@ -180,4 +192,4 @@ Ministérios da Administração Interna e do Equipamento, do Planeamento e da Ad
 
 ## ANEXO N.º 1 — Quadro referido no n.º 4.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/06/141b01/00020003.pdf))](https://files.diariodarepublica.pt/1s/1996/06/141b01/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/06/141b01/00020003.pdf)

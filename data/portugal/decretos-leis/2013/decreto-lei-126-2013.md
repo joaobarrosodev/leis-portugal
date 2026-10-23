@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/126/2013/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2013-499545
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d085dbfd838b8da496cdea4765bf7d27d2b370d49e5c439d8d6546a5049f27cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ccabe84a996b618652295c91b35b45356dc1fa3635fa0024e3d501221116b90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,64 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Direito
-- Processo Civil
-- Processo Penal
-- Sistema Judicial
+- Custas Judiciais
 - Injunção
+- Ministério Público
 - Processo Administrativo
+- Processo Civil
+- Processo de Execução
 - Processo Judicial
+- Processo Penal
 - Providencia Cautelar
 - Regulamento
-- Ministério Público
-- Processo de Execução
-- Custas Judiciais
+- Sistema Judicial
 relationships:
 - type: amended_by
   target: pt:dre:121665678:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:56388820:por
+  label: Alterado a partir de 02.10.2014, o art. 4º do Regulamento das Custas Processuais, aprovado pelo Dec Lei 34/2008 de
+    26-fev, na redação do presente diploma pelo(a) Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/72-2014-56388820
+  date: '2014-09-02'
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Alterado o art. 4.º do Regulamento das Custas Processuais aprovado pelo Dec. Lei 34/2008 de 26-fev, na versão republicada
+    do Regulamento pela Lei 7/2012 de 13-fev retificada pela Decl-Ret 16/2012 de 26-mar e na redação do presente diploma,
+    pelo(a) Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-a-2016-73958532
+  date: '2016-03-30'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Alterado o art. 4.º do Regulamento das Custas Processuais aprovado pelo Dec Lei 34/2008, de 26-fev, na versão republicada
+    pela Lei 7/2012 de 13-fev e na redação do presente diploma pelo(a) Lei n.º 42/2016 - Diário da República n.º 248/2016,
+    Série I de 2016-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
+  date: '2016-12-28'
+- type: amended_by
+  target: pt:dre:116043536:por
+  label: Alterado, a partir de 10.02.2019, o art. 4.º do Regulamento das Custas Processuais, aprovado pelo Dec Lei 34/2008
+    de 26-fev, na versão alterada e republicada pela Lei 7/2012 de 13-fev - retificado pela Decl-Ret 16/2012 de 26-mar, e
+    com a redação dada pelo presente diploma, pelo(a) Lei n.º 49/2018 - Diário da República n.º 156/2018, Série I de 2018-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/49-2018-116043536
+  date: '2018-08-14'
+- type: amended_by
+  target: pt:dre:116809383:por
+  label: Alterados o art. 7.º e a tabela II anexa do Regulamento das Custas Processuais, aprovado no anexo III do Dec Lei
+    34/2008 de 26-fev, na versão alterada e republicada pela Lei 7/2012 de 13-fev e pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 86/2018 - Diário da República n.º 208/2018, Série I de 2018-10-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-2018-116809383
+  date: '2018-10-29'
+- type: amended_by
+  target: pt:dre:121665678:por
+  label: Alterados, a partir de 27.04.2019, os arts. 14.º, 26.º e 35.º, na redação do presente diploma, do Regulamento das
+    Custas Processuais, aprovado em anexo ao Dec Lei 34/2008 de 26-fev, na versão republicada do Regulamento pela Lei 7/2012
+    de 13-fev retificada pela Decl-Ret 16/2012 de 26-mar, pelo(a) Lei n.º 27/2019 - Diário da República n.º 62/2019, Série
+    I de 2019-03-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/27-2019-121665678
+  date: '2019-03-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/34/2008/02/26/p/dre
   label: null
@@ -94,16 +136,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2012/02/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2012/02/13/p/dre
+- type: cites
+  target: pt:dre:247448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543045:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:47Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +252,9 @@ v) [...].
 
 7 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -216,7 +272,9 @@ v) [...].
 
 8 - [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]:
 
@@ -240,7 +298,9 @@ b) [...].
 
 9 - [...].
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - As custas de parte integram-se no âmbito da condenação judicial por custas, salvo quando se trate dos casos previstos no artigo 536.º e no n.º 2 do artigo 542.º do Código de Processo Civil.
 
@@ -254,7 +314,9 @@ b) [...].
 
 6 - [...].
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...].
 
@@ -272,7 +334,9 @@ b) [...].
 
 8 - [Anterior n.º 7.]
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...].
 
@@ -282,7 +346,9 @@ b) [...].
 
 4 - [...].
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...].
 
@@ -290,7 +356,9 @@ b) [...].
 
 3 - [...].
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 Salvo disposição especial em contrário, aos prazos previstos para pagamentos no presente Regulamento não se aplica o disposto no n.º 5 do artigo 139.º do Código de Processo Civil.»
 
@@ -316,15 +384,15 @@ A tabela ii do Regulamento das Custas Processuais, aprovado pelo [Decreto-Lei n.
 
 Visto e aprovado em Conselho de Ministros de 14 de agosto de 2013. - Paulo Sacadura Cabral Portas - Fernando Ferreira Santo.
 
-**Promulgado em 27 de agosto de 2013.**
+Promulgado em 27 de agosto de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de agosto de 2013.**
+Referendado em 29 de agosto de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -332,46 +400,220 @@ Visto e aprovado em Conselho de Ministros de 14 de agosto de 2013. - Paulo Sacad
 
 (a que se referem os n.os 1, 4, 5 e 7 do artigo 7.º do Regulamento)
 
-| Incidente/procedimento/execução | A - Taxa de justiça normal (UC) | B - Taxa de justiça agravada (UC) (n.º 3 do artigo 13.º) |
-| --- | --- | --- |
-| Procedimentos cautelares: |  |  |
-| Até € 300 000 | 3 | 3,5 |
-| Procedimentos cautelares de valor igual ou superior a € 300 000,01 | 8 | 9 |
-| Procedimentos cautelares de especial complexidade | 9 a 20 | 10 a 22 |
-| Restituição provisória de posse/alimentos provisórios/arbitramento de reparação provisória/regulação provisória do pagamento de quantias | 1 | 1 |
-| Processos administrativos urgentes (artigos 97.º e 100.º do CPTA): |  |  |
-| Contencioso eleitoral | 1 | 1 |
-| Contencioso pré-contratual | 2 | 2 |
-| Impugnação de procedimentos cautelares adotados pela administração tributária/impugnação de atos de autoliquidação, substituição tributária e pagamentos por conta | 2 | 2 |
-| Incidente de intervenção provocada principal ou acessória de terceiros e oposição provocada: |  |  |
-| Até € 30 000 | 2 | 2 |
-| Igual ou superior a € 30 000,01 | 4 | 4 |
-| Incidentes/procedimentos anómalos | 1 a 3 | 1 a 3 |
-| Incidente de verificação do valor da causa/produção antecipada de prova | 1 | 1 |
-| Incidentes de especial complexidade | 7 a 14 | 7 a 14 |
-| Outros incidentes | 0,5 a 5 | 0,5 a 5 |
-| Execução: |  |  |
-| Até € 30 000 | 2 | 3 |
-| Igual ou superior a € 30 000, 01 | 4 | 6 |
-| Quando as diligências de execução não forem realizadas por oficial de justiça: |  |  |
-| Até € 30 000 | 0,25 | 0,375 |
-| Igual ou superior a € 30 000, 01 | 0,5 | 0,75 |
-| Execução por custas/multas/coimas (a suportar pelo executado): |  |  |
-| Até € 30 000 | 2 | 2 |
-| Igual ou superior a € 30 000, 01 | 4 | 4 |
-| Reclamação de créditos: |  |  |
-| Até € 30 000 | 2 | 2 |
-| Igual ou superior a € 30 000,01 | 4 | 4 |
-| Oposição à execução por embargos, oposição à penhora ou embargos de terceiro e respetivas contestações: |  |  |
-| Até € 30 000 | 3 | 3 |
-| Execuções de valor igual ou superior a € 30 000, 01 | 6 | 6 |
-| Requerimento de injunção: |  |  |
-| Valores até € 5 000 | 0,5 | 0,75 |
-| De € 5 000,01 a € 15 000 | 1 | 1,5 |
-| A partir de € 15 000,01 | 1,5 | 2,25 |
-| Requerimento de injunção de pagamento europeia: |  |  |
-| Valores até € 5 000 | 1 | 1,5 |
-| De € 5 000 a € 15 000 | 2 | 3 |
-| A partir de € 15 000,01 | 3 | 4,5 |
-| Reclamações, pedidos de retificação, de esclarecimento e de reforma da sentença | 0,25 a 3 | 0,25 a 3 |
-| Processos da competência do Ministério Público previstos no Decreto-Lei n.º 272/2001, de 13 de outubro | 0,75 | 0,75 |
+Incidente/procedimento/execução
+
+A - Taxa de justiça
+
+normal (UC)
+
+B - Taxa de justiça agravada (UC)
+
+(n.º 3 do artigo 13.º)
+
+Procedimentos cautelares:
+
+Até € 300 000
+
+3
+
+3,5
+
+Procedimentos cautelares de valor igual ou superior a € 300 000,01
+
+8
+
+9
+
+Procedimentos cautelares de especial complexidade
+
+9 a 20
+
+10 a 22
+
+Restituição provisória de posse/alimentos provisórios/arbitramento de reparação provisória/regulação provisória do pagamento de quantias
+
+1
+
+1
+
+Processos administrativos urgentes (artigos 97.º e 100.º do CPTA):
+
+Contencioso eleitoral
+
+1
+
+1
+
+Contencioso pré-contratual
+
+2
+
+2
+
+Impugnação de procedimentos cautelares adotados pela administração tributária/impugnação de atos de autoliquidação, substituição tributária e pagamentos por conta
+
+2
+
+2
+
+Incidente de intervenção provocada principal ou acessória de terceiros e oposição provocada:
+
+Até € 30 000
+
+2
+
+2
+
+Igual ou superior a € 30 000,01
+
+4
+
+4
+
+Incidentes/procedimentos anómalos
+
+1 a 3
+
+1 a 3
+
+Incidente de verificação do valor da causa/produção antecipada de prova
+
+1
+
+1
+
+Incidentes de especial complexidade
+
+7 a 14
+
+7 a 14
+
+Outros incidentes
+
+0,5 a 5
+
+0,5 a 5
+
+Execução:
+
+Até € 30 000
+
+2
+
+3
+
+Igual ou superior a € 30 000, 01
+
+4
+
+6
+
+Quando as diligências de execução não forem realizadas por oficial de justiça:
+
+Até € 30 000
+
+0,25
+
+0,375
+
+Igual ou superior a € 30 000, 01
+
+0,5
+
+0,75
+
+Execução por custas/multas/coimas (a suportar pelo executado):
+
+Até € 30 000
+
+2
+
+2
+
+Igual ou superior a € 30 000, 01
+
+4
+
+4
+
+Reclamação de créditos:
+
+Até € 30 000
+
+2
+
+2
+
+Igual ou superior a € 30 000,01
+
+4
+
+4
+
+Oposição à execução por embargos, oposição à penhora ou embargos de terceiro e respetivas contestações:
+
+Até € 30 000
+
+3
+
+3
+
+Execuções de valor igual ou superior a € 30 000, 01
+
+6
+
+6
+
+Requerimento de injunção:
+
+Valores até € 5 000
+
+0,5
+
+0,75
+
+De € 5 000,01 a € 15 000
+
+1
+
+1,5
+
+A partir de € 15 000,01
+
+1,5
+
+2,25
+
+Requerimento de injunção de pagamento europeia:
+
+Valores até € 5 000
+
+1
+
+1,5
+
+De € 5 000 a € 15 000
+
+2
+
+3
+
+A partir de € 15 000,01
+
+3
+
+4,5
+
+Reclamações, pedidos de retificação, de esclarecimento e de reforma da sentença
+
+0,25 a 3
+
+0,25 a 3
+
+Processos da competência do Ministério Público previstos no Decreto-Lei n.º 272/2001, de 13 de outubro
+
+0,75
+
+0,75
+
+.Tbl2 { height:26px; } .Tbl3 { text-align:center; } .Tbl4 { text-indent:0px; margin-top:0px; text-align:justify; text-align-last:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl7 { text-indent:0px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:top; } .Tbl10 { min-height:28px; } .Tbl11 { min-height:34px; } .Tbl12 { min-height:23px; }

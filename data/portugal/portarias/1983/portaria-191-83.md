@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/191-1983-309689
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T07:34:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 983b567364004940fde58c965a464c5c4b8d8be1fecf9d867286ce1a3e9c464e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5edc4fcd61ae46bf754e8e38f186f52b123c18907a0cca1ad3aee773d693268
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:34:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital de EGAS Moniz
+- Lisboa
+- Pessoal de Enfermagem
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:431991:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:386592:por
+  label: "Alterado o quadro de pessoal aprovado pela Port 770/80, de 02-Out, na redacção do presente diploma e das Port 313/82,\
+    \ de 24-Mar e 52/84, de 25-Jan, pela PORT.368/84.1984.06.14.PCM DR.IS [137]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/368-1984-386592
+  date: '1984-06-14'
+- type: amended_by
+  target: pt:dre:396368:por
+  label: "Alterado o quadro de pessoal aprovado pela Port 770/80, de 02-Out, na redacção o presente diploma e das Port 313/82,\
+    \ de 24-Mar, 52/84, de 25-Jan e 368/84, de 14-Jun, pela PORT.957/84.1984.12.22.PCM DR.IS [295]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/957-1984-396368
+  date: '1984-12-22'
+- type: amended_by
+  target: pt:dre:182664:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, na redacção do presente diploma e das Port 313/82,\
+    \ de 24-Mar, 52/84, de 25-Jan, 368/84, de 14-Jun e 957/84, de 22-Dez, pela PORT.442/85.1985.07.09.PCM DR.IS [155]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/442-1985-182664
+  date: '1985-07-09'
+- type: cites
+  target: pt:dre:461588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:34:07Z'
   warnings: []
   errors: []
 ---
@@ -96,4 +130,4 @@ Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Adminis
 
 Quadro de pessoal do Hospital de Egas Moniz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/05000/07490749.pdf))](https://files.diariodarepublica.pt/1s/1983/03/05000/07490749.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/05000/07490749.pdf)

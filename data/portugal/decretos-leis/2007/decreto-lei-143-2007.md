@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/27022704.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/143/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2007-521007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:56:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2211979d2d4eb384e33f5aae2face46ab2a2a54bfb5f004fd7654e9fdfa8379
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcf7a01538aabf9ad2766610e7e85a17f2c51208d7ab810af502bb4acb9ae86d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Comissão de Aplicação de Coimas em Matéria Económica e Publicidade
 - Definição de Competências
 - Ministério da Economia e da Inovação
 - Orgânica
+- Pessoal Dirigente
 - Presidente
 - Quadro de Pessoal
 - Vogal
@@ -78,6 +78,14 @@ relationships:
   target: pt:dre:175336:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642012:por
+  label: "Extinta, sendo objecto de fusão, a Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade e integradas\
+    \ as suas atribuições no domínio da economia na Autoridade de Segurança Alimentar e Económica e as suas atribuições no\
+    \ domínio da publicidade na Direcção-Geral do Consumidor, pelo DEC LEI.126-C/2011.29.12.2011.MEE, DR.IS [249-Supl] de\
+    \ 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-c-2011-642012
+  date: '2011-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/208/2006/10/27/p/dre
   label: null
@@ -102,16 +110,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
+- type: cites
+  target: pt:dre:301260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175336:por
+  label: "Revogado, a partir de 01.09.2012, e determinado que a Autoridade de Segurança Alimentar e Económica suceda nas atribuições\
+    \ no domínio da economia da Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade, pelo DEC LEI.194/2012.23.08.2012.MEE,\
+    \ DR.IS [163] de 23.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-2012-175336
+  date: '2012-08-23'
 article_structure:
   article_count: 20
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:56:39Z'
   warnings: []
   errors: []
 ---
@@ -276,7 +323,7 @@ Findos os prazos referidos no artigo anterior, o processo é concluso ao preside
 
 ###### Artigo 18.º — Relatório anual
 
-**O presidente apresenta anualmente ao membro do Governo que tutela a área da economia um relatório pormenorizado da sua actividade, no qual são indicados, nomeadamente:**
+O presidente apresenta anualmente ao membro do Governo que tutela a área da economia um relatório pormenorizado da sua actividade, no qual são indicados, nomeadamente:
 
 a) O número de processos entrados;
 
@@ -298,16 +345,16 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 11 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 4 de Abril de 2007.**
+Promulgado em 4 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 5 de Abril de 2007.**
+Referendado em 5 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o artigo 7.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/08200/27022704.pdf))](https://files.diariodarepublica.pt/1s/2007/04/08200/27022704.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/08200/27022704.pdf)

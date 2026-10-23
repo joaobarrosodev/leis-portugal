@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/07/14300/52525254.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/136/2006/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2006-539236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72d280ff5f655216582ec108a43f8e4f5405fc18ed27c340df3ac3c6d5e3b23f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89cb814dc1f31e3ab3b31c7ab6587aafe448a690b6cb7685b9f46a25d47a37b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- PSP
 - Certificado de Conformidade
-- Multa
 - Combustível de Substituição
 - Contra-ordenação
 - Direcção Geral de Viação
-- Fiscalização
-- Homologação
-- Veículo
-- GNR
-- Segurança Rodoviária
 - Equipamento de Veículo
+- Fiscalização
+- GNR
+- Homologação
+- Multa
+- PSP
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:258281:por
@@ -112,16 +112,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/982/1991/09/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/982/1991/09/26/p/dre
+- type: cites
+  target: pt:dre:293305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655940:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:258281:por
+  label: "Revogado, a partir de 01.05.2013, pela LEI.13/2013.31.01.2013.AR, DR.IS [22] de 31.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-2013-258281
+  date: '2013-01-31'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:22Z'
   warnings: []
   errors: []
 ---
@@ -262,12 +295,12 @@ O presente decreto-lei entra em vigor 90 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Maio de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 8 de Julho de 2006.**
+Promulgado em 8 de Julho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 17 de Julho de 2006.**
+Referendado em 17 de Julho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

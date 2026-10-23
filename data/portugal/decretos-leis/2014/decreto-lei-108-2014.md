@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/07/12500/0366003668.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/108/2014/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22737aa227b60da292d097c4c8873f2ad4fc3096c009f690c913cfb1ba4398eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b1416b2441d7c557dc612751534e6aaeb4ed8b5d7f663b753df3a26d7b285ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Geral
-- Gestão de Resíduos
 - Código das Sociedades Comerciais
-- Saneamento Básico
-- Conselho de Administração
-- Valorsul-valorização e Tratamento de Resíduos Sólidos das Regiões de Lisboa e do Oeste
 - Conselho Consultivo
+- Conselho de Administração
+- Gestão de Resíduos
 - Proteção do Ambiente
+- Saneamento Básico
+- Valorsul-valorização e Tratamento de Resíduos Sólidos das Regiões de Lisboa e do Oeste
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/297/1994/11/21/p/dre
@@ -104,16 +104,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553038:por
+  label: null
+  source: null
 article_structure:
-  article_count: 63
+  article_count: 52
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:31Z'
   warnings: []
   errors: []
 ---
@@ -170,7 +198,9 @@ Os artigos 4.º, 5.º, 6.º, 9.º, 10.º e 13.º do [Decreto-Lei n.º 68/2010](h
 
 9 - [Revogado].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A VALORSUL, S. A., tem por objeto social a exploração e gestão, em regime de serviço público, do sistema multimunicipal de tratamento e recolha seletiva de resíduos urbanos das regiões de Lisboa e do Oeste, abreviadamente designado por sistema de Lisboa e do Oeste.
 
@@ -184,7 +214,9 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 3 - A VALORSUL, S. A., pode, desde que para o efeito esteja habilitada, exercer outras atividades para além daquelas que constituem o objeto da concessão, desde que consideradas complementares ou outras atividades nos termos do contrato de concessão e mediante autorização do concedente.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -194,7 +226,9 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 4 - [Revogado].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A exploração e gestão do sistema de Lisboa e do Oeste são atribuídas em regime de concessão exclusiva à VALORSUL S. A., até 31 de dezembro de 2034.
 
@@ -204,7 +238,9 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 4 - [Revogado].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [Revogado].
 
@@ -222,7 +258,9 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 8 - [...].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [Revogado].
 
@@ -248,7 +286,9 @@ Conselho consultivo
 
 2 - Integram o conselho consultivo previsto no número anterior, por inerência, os presidentes de todas as câmaras municipais dos municípios utilizadores do sistema gerido pela VALORSUL, S. A., bem como os membros do respetivo conselho de administração e do conselho fiscal desta.
 
-###### Artigo 10.º-B — Caução referente à exploração
+Artigo 10.º-B
+
+Caução referente à exploração
 
 1 - A VALORSUL, S. A., deve prestar em benefício do concedente uma caução destinada a garantir o cumprimento de todas as obrigações que para si emergem do contrato de concessão.
 
@@ -256,7 +296,9 @@ Conselho consultivo
 
 3 - A prestação da caução referida no número anterior deve ocorrer no prazo máximo de 90 dias após a VALORSUL, S. A., deixar de ser detida maioritariamente por entidades públicas.
 
-###### Artigo 10.º-C — Recolha seletiva
+Artigo 10.º-C
+
+Recolha seletiva
 
 A prestação do serviço de recolha seletiva nos Municípios de Amadora, Lisboa, Loures, Odivelas e Vila Franca de Xira pode continuar a ser por estes diretamente efetuada nos termos dos acordos em vigor estabelecidos com a VALORSUL, S. A.»
 
@@ -280,7 +322,9 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 3 - A VALORSUL, S. A., pode, desde que para o efeito esteja habilitada, exercer outras atividades para além daquelas que constituem o objeto da concessão, desde que consideradas complementares ou outras atividades nos termos do contrato de concessão e mediante autorização do concedente.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O capital social é de (euro) 25 200 000,00, encontrando-se integralmente realizado.
 
@@ -294,13 +338,17 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 6 - [Revogado].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As ações são nominativas e assumem a forma escritural ou titulada.
 
 2 - [Revogado].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [Revogado].
 
@@ -330,7 +378,9 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 14 - [...].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os acionistas com direito de voto podem participar nas assembleias gerais desde que as ações estejam averbadas em seu nome no livro de registo da sociedade até 10 dias antes daquele em que a assembleia geral deva reunir em primeira convocatória.
 
@@ -372,15 +422,15 @@ São revogados o artigo 3.º, os n.os 2, 4 e 7 a 9 do artigo 4.º, o n.º 4 do a
 
 Visto e aprovado em Conselho de Ministros de 8 de maio de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 24 de junho de 2014.**
+Promulgado em 24 de junho de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de junho de 2014.**
+Referendado em 25 de junho de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 

@@ -46,40 +46,105 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1022-1982-378485
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T07:00:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9159ba27f178c45124ecba34783de047ff164fded969465b68b8aab21f66648
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e649ee766107f21e17606a88ade072b08e948eea5676244ce223b4326153d9e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:00:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Biologia
+- Curso de Biologia Vegetal Aplicada
+- Curso de Bioquímica
+- Curso de Ciências Geofísicas
+- Curso de Computação
+- Curso de Engenharia Geográfica
+- Curso de Ensino da Física
+- Curso de Ensino da Química
+- Curso de Ensino de Biologia
+- Curso de Ensino de Geologia
+- Curso de Ensino de Matemática
+- Curso de Estatística e Investigação Operacional
+- Curso de Física
+- Curso de Física Tecnológica
+- Curso de Geologia Económica Aplicada
+- Curso de Matemática
+- Curso de Probabilidades e Estatística
+- Curso de Química
+- Curso de Química Tecnológica
+- Ensino Superior
+- Faculdade de Ciências
+- Licenciatura
+- Universidade de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:548204:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:325077:por
+  label: "Alterados os anexos XVIII a XXI pela PORT.184/85.04.04.1985.ME, DR.IS [79] de 04.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/184-1985-325077
+  date: '1985-04-04'
+- type: amended_by
+  target: pt:dre:221571:por
+  label: "Alterado o nº 4 do nº 4º e o anexo VI ao presente diploma, pela PORT.551/86.25.09.1986.MEC, DR.IS [221] de 25.09.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/551-1986-221571
+  date: '1986-09-25'
+- type: amended_by
+  target: pt:dre:373254:por
+  label: "Alteradas as alíneas c) do n.º 1.º e b) do n.º 2 do n.º 4.º, os anexos III, IV e V, e aditado o n.º 3.º-A e o n.º\
+    \ 5 ao n.º 4.º, pela PORT.447/88.08.07.1988.ME, DR.IS [156] de 08.07.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/447-1988-373254
+  date: '1988-07-08'
+- type: amended_by
+  target: pt:dre:548204:por
+  label: "Alterada a alínea a) do n.º 2 do n.º 4.º pela PORT.844/89.26.09.1989.ME, DR.IS [222] de 26.09.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/844-1989-548204
+  date: '1989-09-26'
+- type: cites
+  target: pt:dre:377538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565003:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:00:59Z'
   warnings: []
   errors: []
 ---

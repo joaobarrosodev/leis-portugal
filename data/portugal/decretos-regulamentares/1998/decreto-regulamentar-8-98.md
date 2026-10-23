@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/8/1998/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1998-516735
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3415b804779b42d9567f3c01b9b1ffbf1c0fcc9010afd1feec85452ada269dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6452fc03ade7c0121246f3e9e5aee35ea88f2c747b9f8d31051e1c6e139c910
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Comissão Directiva
-- Criação de Serviços
 - Conselho Consultivo
-- Parque Natural do Douro Internacional
-- Proteção do Ambiente
+- Criação de Serviços
 - Diversidade Biológica
-- Zona de Proteção
+- Ordenamento do Território
+- Parque Natural do Douro Internacional
 - Política de Solos
-- RIO Douro
+- Proteção do Ambiente
 - Quadro de Pessoal
+- RIO Douro
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:67198365:por
@@ -85,16 +85,27 @@ relationships:
   target: celex:31992L0043
   label: null
   source: http://data.europa.eu/eli/dir/1992/43/oj
+- type: repealed_by
+  target: pt:dre:240064:por
+  label: "Revogados os arts. 10.º e 11.º, pelo RES.120/2005.23.06.2005.PCM, DR.IS-B [144] de 28.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/120-2005-240064
+  date: '2005-06-23'
+- type: repealed_by
+  target: pt:dre:67198365:por
+  label: Revogados a al. b) do art. 5.º e os arts. 8.º e 9.º pelo(a) Decreto-Lei n.º 78/2015 - Diário da República n.º 92/2015,
+    Série I de 2015-05-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2015-67198365
+  date: '2015-05-13'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:41Z'
   warnings: []
   errors: []
 ---
@@ -343,13 +354,13 @@ Presidência do Conselho de Ministros, 30 de Dezembro de 1997.
 
 António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Fernando Manuel Van-Zeller Gomes da Silva - Guilherme d'Oliveira Martins - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 9 de Abril de 1998.**
+Promulgado em 9 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Abril de 1998.**
+Referendado em 23 de Abril de 1998.
 
 Pelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional.
 

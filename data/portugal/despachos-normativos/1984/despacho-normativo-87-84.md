@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/87-1984-654948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T07:30:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8bec20bce2f3162be27b9384ab662d5e3a25fa77e9b2622390b5d201377bc95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7485ea5968c6cc77ced986ad2803acefebbaa2cb576cbca7a228f34052919140
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:30:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Formas de Provimento
+- Instituto de Gestão e Estruturação Fundiária
+- Pessoal Dirigente
+relationships:
+- type: cites
+  target: pt:dre:197077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:30:49Z'
   warnings: []
   errors: []
 ---
@@ -89,6 +100,6 @@ validation:
 
 3 - Determina-se, ao abrigo do n.º 1 do artigo 7.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, que seja aprovada a programação escalonada de preenchimento de lugares vagos de pessoal dirigente constante do mapa anexo ao presente despacho, a prover por pessoal já vinculado à função pública.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/04/09400/13411341.pdf))](https://files.diariodarepublica.pt/1s/1984/04/09400/13411341.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/04/09400/13411341.pdf)
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Agricultura, Florestas e Alimentação, 20 de Fevereiro de 1984. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa. - O Secretário de Estado da Administração Pública, José San-Bento de Menezes.

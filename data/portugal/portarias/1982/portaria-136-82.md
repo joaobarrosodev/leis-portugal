@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/136-1982-600766
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T07:09:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9aeb2a53bc4577e4a72df0fed6f58bbf8ea7ed0da9d5ee4b35f9903c9524b02c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f61a4b75cd11c79fdaf6e00f536b1b734f5a7b9af45454d3ad8fce30858163c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:09:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Medicamento
+- Medicamento Manipulado
+- Preço
+- Produto Farmacêutico
+- Regimento
+- Regimento Geral dos Preços dos Medicamentos e Manipulações
 relationships:
 - type: amended_by
   target: pt:dre:517633:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:265130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:517633:por
+  label: "Revogado o Regimento Geral dos Medicamentos Manipulados e Manipulações, aprovado pela Port 659/81, de 04-Ago, na\
+    \ redacção do presente diploma, pela PORT.769/2004.01.07.2004.MECO, DR.IS-B [153] de 01.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/769-2004-517633
+  date: '2004-07-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:09:10Z'
   warnings: []
   errors: []
 ---
@@ -100,8 +128,8 @@ Secretaria de Estado da Saúde, 18 de Dezembro de 1981. - O Secretário de Estad
 
 Tabela dos preços dos medicamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/01/02500/02400241.pdf))](https://files.diariodarepublica.pt/1s/1982/01/02500/02400241.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/01/02500/02400241.pdf)
 
 Prontuário dos preços dos medicamentos e outros produtos de uso comum
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/01/02500/02400241.pdf))](https://files.diariodarepublica.pt/1s/1982/01/02500/02400241.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/01/02500/02400241.pdf)

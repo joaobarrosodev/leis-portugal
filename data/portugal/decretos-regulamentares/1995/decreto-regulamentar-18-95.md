@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/18/1995/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1995-526052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:23:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7c3bc4bb3cabc428c0755b0724180a5b27aef32c3ef07287fc76a059fd6a0ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe32de02a4023ac34d898b7e628bcd6175d28d59d65cd2bc2b81e3120b4855ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:23:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Timor Leste
-- Sistema Retributivo
 - Direcção Geral da Administração Pública
+- Função Pública
 - Quadro de Efectivos Interdepartamentais
 - Remuneração
+- Sistema Retributivo
+- Timor Leste
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a categoria de assistente operacional, nos termos do art. 7º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP) e revogado, a partir da mesma data, com excepção das disposições\
+    \ relativas às categorias subsistentes, pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
   label: null
@@ -89,16 +97,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/51/1991/09/24/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/51/1991/09/24/p/dre
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:23:00Z'
   warnings: []
   errors: []
 ---
@@ -119,24 +147,24 @@ Assim:
 
 Ao abrigo do disposto no artigo 27.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aditado ao mapa referido no n.º 2 do artigo 1.º do [Decreto Regulamentar n.º 51/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1991-291920), de 24 de Setembro, o mapa anexo ao presente diploma, que estabelece a estrutura das remunerações base de categorias existentes no âmbito do quadro de efectivos interdepartamentais, a que se refere o [Decreto-Lei n.º 247/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1992-216106), de 7 de Novembro, junto da Direcção-Geral da Administração Pública.
+Artigo 1.º É aditado ao mapa referido no n.º 2 do artigo 1.º do [Decreto Regulamentar n.º 51/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1991-291920), de 24 de Setembro, o mapa anexo ao presente diploma, que estabelece a estrutura das remunerações base de categorias existentes no âmbito do quadro de efectivos interdepartamentais, a que se refere o [Decreto-Lei n.º 247/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1992-216106), de 7 de Novembro, junto da Direcção-Geral da Administração Pública.
 
-###### Art. 2.º O presente diploma reporta os seus efeitos à data da entrada em vigor do [Decreto Regulamentar n.º 51/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1991-291920), de 24 de Setembro.
+Art. 2.º O presente diploma reporta os seus efeitos à data da entrada em vigor do [Decreto Regulamentar n.º 51/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1991-291920), de 24 de Setembro.
 
 Presidência do Conselho de Ministros, 24 de Abril de 1995.
 
 Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 16 de Maio de 1995.**
+Promulgado em 16 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Maio de 1995.**
+Referendado em 18 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/129b00/35613561.pdf))](https://files.diariodarepublica.pt/1s/1995/06/129b00/35613561.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/129b00/35613561.pdf)

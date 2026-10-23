@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/05/09000/0206002060.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/31/2018/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/31-2018-115262247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T05:32:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b430743eadab0403f26a18a2cbee8ece3127d031bdf088c5febb7b6e8b06f3a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7e3cd4bcaf3bb6b618f8523233ddbb6abb3a6cb72cf816759a5680b936ca92d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:32:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Embaixador
-- Nomeação
 - Letónia
+- Nomeação
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:32:32Z'
   warnings: []
   errors: []
 ---
@@ -87,16 +87,18 @@ validation:
 
 de 10 de maio
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o embaixador Henrique Manuel Vilela da Silveira Borges como Embaixador de Portugal não residente na Letónia.
 
-**Assinado em 9 de abril de 2018.**
+Assinado em 9 de abril de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de maio de 2018.**
+Referendado em 7 de maio de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa. - O Ministro dos Negócios Estrangeiros, Augusto Ernesto Santos Silva.**
+O Primeiro-Ministro, António Luís Santos da Costa. - O Ministro dos Negócios Estrangeiros, Augusto Ernesto Santos Silva.
+
+111332242

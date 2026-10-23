@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/281-1977-252004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T05:18:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0f6bee8edf8a34309d5da07c4330cd46847bf0fb2e010f577bf5e7111611263
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 361a73c87305b0b0301884c1f280f828133a98779ec165088e3f5d10d8156ffb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:18:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Academia Militar
+- Regulamento
+- Regulamento da VIDA Interna e Administração dos Alunos da Academia Militar
 relationships:
 - type: amended_by
   target: pt:dre:392449:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:677615:por
+  label: "Alterado o artigo 5.º pela PORT.140/80.29.03.1980.CR, DR.IS [75] de 29.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/140-1980-677615
+  date: '1980-03-29'
+- type: amended_by
+  target: pt:dre:392449:por
+  label: "Aditado um nº 3 ao art. 11º do Regulamento, pela PORT.497/82.1982.05.15.CR, DR.IS [110]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/497-1982-392449
+  date: '1982-05-15'
 article_structure:
-  article_count: 1
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:18:35Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +105,11 @@ de 21 de Maio
 
 2. Com essa finalidade se publica a presente portaria, que se articula em:
 
-### Capítulo I «Vida interna e administração»;
+Capítulo I «Vida interna e administração»;
 
-### Capítulo II «Disciplina»;
+Capítulo II «Disciplina»;
 
-### Capítulo III «Condições de eliminação dos alunos», e que, por força do disposto no artigo 83.º do citado decreto-lei, revoga as correspondentes disposições constantes dos Decretos-Leis n.os 42151 e 42152, ambos de 12 de Fevereiro de 1959.
+Capítulo III «Condições de eliminação dos alunos», e que, por força do disposto no artigo 83.º do citado decreto-lei, revoga as correspondentes disposições constantes dos Decretos-Leis n.os 42151 e 42152, ambos de 12 de Fevereiro de 1959.
 
 Nestes termos:
 
@@ -106,7 +119,7 @@ REGULAMENTO DA VIDA INTERNA E ADMINISTRAÇÃO DOS ALUNOS DA ACADEMIA MILITAR
 
 ### CAPÍTULO I — Vida interna e administração
 
-###### Artigo 1.º - 1. Os alunos da Academia Militar estão sujeitos, durante a frequência dos cursos, ao regime de internato obrigatório.
+Artigo 1.º - 1. Os alunos da Academia Militar estão sujeitos, durante a frequência dos cursos, ao regime de internato obrigatório.
 
 2. Segundo o regime de internato obrigatório a que se refere o número anterior, os alunos obrigam-se à frequência de todos os trabalhos escolares, alimentação e alojamento, incluindo pernoita, na Academia Militar.
 
@@ -114,11 +127,11 @@ REGULAMENTO DA VIDA INTERNA E ADMINISTRAÇÃO DOS ALUNOS DA ACADEMIA MILITAR
 
 4. Aos alunos que, excepcionalmente, venham a frequentar cursos com cadeiras ministradas em escolas civis de ensino superior pode ser concedido um regime especial de internato em condições a definir por regulamentação própria.
 
-###### Art. 2.º As condições de internato são detalhadas em regulamento próprio, designado por ISI (Instruções de Serviço Interno), a aprovar por despacho do comandante da Academia Militar, sob proposta do comandante do Corpo de Alunos.
+Art. 2.º As condições de internato são detalhadas em regulamento próprio, designado por ISI (Instruções de Serviço Interno), a aprovar por despacho do comandante da Academia Militar, sob proposta do comandante do Corpo de Alunos.
 
-###### Art. 3.º Os alunos da Academia Militar estão isentos do pagamento de propinas e inscrições.
+Art. 3.º Os alunos da Academia Militar estão isentos do pagamento de propinas e inscrições.
 
-###### Art. 4.º - 1. Para efeitos de hierarquia militar, os alunos, com excepção dos admitidos como oficiais milicianos, são graduados nos seguintes postos:
+Art. 4.º - 1. Para efeitos de hierarquia militar, os alunos, com excepção dos admitidos como oficiais milicianos, são graduados nos seguintes postos:
 
 a) Cadetes-alunos, durante a frequência na Academia dos 1.º, 2.º, 3.º e 4.º anos de todos os cursos;
 
@@ -142,7 +155,7 @@ d) Pelo maior tempo de serviço militar;
 
 e) Pela maior idade.
 
-###### Art. 5.º - 1. Enquanto frequentarem a Academia Militar, os alunos denominam-se cadetes-alunos, com excepção dos alunos admitidos como oficiais milicianos e dos alunos graduados nas condições referidas nos números seguintes deste artigo, os quais serão denominados por aspirantes a oficial, alferes ou tenentes-alunos, consoante a sua graduação.
+Art. 5.º - 1. Enquanto frequentarem a Academia Militar, os alunos denominam-se cadetes-alunos, com excepção dos alunos admitidos como oficiais milicianos e dos alunos graduados nas condições referidas nos números seguintes deste artigo, os quais serão denominados por aspirantes a oficial, alferes ou tenentes-alunos, consoante a sua graduação.
 
 2. Os cadetes-alunos dos cursos cuja frequência na Academia Militar tenha a duração de quatro anos são graduados em aspirantes a oficial, no início do tirocínio, com data de 1 de Outubro, assim como os cadetes-alunos que frequentam cursos cuja duração de frequência na Academia seja igual ou superior a cinco anos.
 
@@ -154,9 +167,9 @@ e) Pela maior idade.
 
 6. Os alunos dos cursos cuja duração de frequência na Academia Militar seja superior a seis anos são graduados nos postos correspondentes aos dos restantes cursos do mesmo ano de entrada na Academia, ingressando no quadro permanente imediatamente após o tirocínio com a antiguidade da data de graduação em tenente.
 
-###### Art. 6.º Os alunos admitidos como oficiais milicianos, como sargentos dos quadros permanentes e de complemento e como praças são transferidos para a Academia Militar na data em que forem mandados apresentar naquele estabelecimento de ensino para iniciar a frequência dos respectivos cursos.
+Art. 6.º Os alunos admitidos como oficiais milicianos, como sargentos dos quadros permanentes e de complemento e como praças são transferidos para a Academia Militar na data em que forem mandados apresentar naquele estabelecimento de ensino para iniciar a frequência dos respectivos cursos.
 
-###### Art. 7.º - 1. Os alunos da Academia Militar terão os seguintes vencimentos:
+Art. 7.º - 1. Os alunos da Academia Militar terão os seguintes vencimentos:
 
 a) Cadetes-alunos: vencimento mensal fixado por legislação própria;
 
@@ -178,7 +191,7 @@ g) Os alunos que forem oficiais milicianos e os alunos oriundos da classe de sar
 
 4. Aos alunos da Academia Militar é aplicável o regime de diuturnidades decorrente da legislação em vigor.
 
-###### Art. 8.º - 1. Durante a frequência dos cursos na Academia Militar, os cadetes-alunos têm direito a alojamento, alimentação, fardamento e publicações necessárias ao ensino, por conta do Estado.
+Art. 8.º - 1. Durante a frequência dos cursos na Academia Militar, os cadetes-alunos têm direito a alojamento, alimentação, fardamento e publicações necessárias ao ensino, por conta do Estado.
 
 2. Todos os alunos, independentemente do seu posto ou graduação, têm direito a alojamento por conta do Estado, nas instalações da Academia ou das escolas práticas, durante a frequência dos respectivos cursos, incluindo o tirocínio.
 
@@ -188,21 +201,21 @@ g) Os alunos que forem oficiais milicianos e os alunos oriundos da classe de sar
 
 5. As publicações necessárias ao ensino serão sempre fornecidas por conta do Estado, durante todos os anos de frequência dos cursos.
 
-###### Art. 9.º - 1. Durante a frequência dos cursos, os alunos são obrigados a fazer uso de uniforme segundo o plano de uniformes do ramo das forças armadas a que se destinam ou de uniforme privativo da Academia que venha a ser estabelecido.
+Art. 9.º - 1. Durante a frequência dos cursos, os alunos são obrigados a fazer uso de uniforme segundo o plano de uniformes do ramo das forças armadas a que se destinam ou de uniforme privativo da Academia que venha a ser estabelecido.
 
 2. A dotação e distribuição do fardamento é definida em regulamento especial aprovado pelo Chefe do Estado-Maior do Exército, ouvido o Chefe do Estado-Maior da Força Aérea no que respeita ao fardamento dos alunos que frequentam os cursos deste ramo das forças armadas.
 
-###### Art. 10.º Durante a frequência do curso da Academia Militar, o cadete-aluno admitido como candidato civil deve manter o estado civil de solteiro.
+Art. 10.º Durante a frequência do curso da Academia Militar, o cadete-aluno admitido como candidato civil deve manter o estado civil de solteiro.
 
 ### CAPÍTULO II — Disciplina
 
-###### Art. 11.º - 1. Os alunos da Academia Militar estão sujeitos às leis, disciplina e regulamentos militares.
+Art. 11.º - 1. Os alunos da Academia Militar estão sujeitos às leis, disciplina e regulamentos militares.
 
 2. De acordo com a natureza particular da Academia e da sua função educativa, é estabelecido um regime especial de recompensas e punições.
 
-###### Art. 12.º Aos alunos são concedidas as recompensas estabelecidas pelas leis e regulamentos em vigor, tendo particular aplicação o louvor e a dispensa de formaturas, assim como os prémios pecuniários, honoríficos ou outros de natureza especial, nas condições que forem estabelecidas em regulamento próprio.
+Art. 12.º Aos alunos são concedidas as recompensas estabelecidas pelas leis e regulamentos em vigor, tendo particular aplicação o louvor e a dispensa de formaturas, assim como os prémios pecuniários, honoríficos ou outros de natureza especial, nas condições que forem estabelecidas em regulamento próprio.
 
-###### Art. 13.º - 1. As penas aplicáveis aos alunos são:
+Art. 13.º - 1. As penas aplicáveis aos alunos são:
 
 a) Repreensão;
 
@@ -234,9 +247,9 @@ Ao toque de recolher, apresentando-se ao oficial de serviço, mesmo nos dias em 
 
 Durante o cumprimento desta pena o aluno comparece a todos os actos de serviço, incluindo o escolar, só podendo sair em serviço e devidamente acompanhado. A saída e entrada será sempre controlada pelo oficial de dia.
 
-###### Art. 14.º As recompensas e as penas disciplinares impostas aos alunos, com excepção das penas de repreensão e repreensão agravada, serão publicadas em ordem de serviço.
+Art. 14.º As recompensas e as penas disciplinares impostas aos alunos, com excepção das penas de repreensão e repreensão agravada, serão publicadas em ordem de serviço.
 
-###### Art. 15.º - 1. O aluno que for punido com a pena de detenção ficará privado de obter qualquer dispensa durante um número de dias igual ao dobro do número de dias de detenção.
+Art. 15.º - 1. O aluno que for punido com a pena de detenção ficará privado de obter qualquer dispensa durante um número de dias igual ao dobro do número de dias de detenção.
 
 2. O aluno que for punido com pena de prisão escolar ficará privado de obter qualquer dispensa durante um número de dias igual ao quádruplo do número de dias de prisão escolar.
 
@@ -244,7 +257,7 @@ Durante o cumprimento desta pena o aluno comparece a todos os actos de serviço,
 
 4. As punições aplicadas aos alunos, incluindo os oficiais de complemento e os sargentos dos quadros permanente e de complemento e as praças, só figuram nos registos escolares para os devidos efeitos.
 
-###### Art. 16.º - 1. O limite da competência disciplinar dos comandos da Academia Militar é o marcado no quadro anexo a este diploma, e que a seguir se discrimina:
+Art. 16.º - 1. O limite da competência disciplinar dos comandos da Academia Militar é o marcado no quadro anexo a este diploma, e que a seguir se discrimina:
 
 a) Comandante da Academia Militar - coluna A;
 
@@ -264,7 +277,7 @@ f) Professores militares quando chefiando missões ou comandando destacamentos -
 
 ### CAPÍTULO III — Condições de eliminação dos alunos
 
-###### Art. 17.º - 1. São eliminados da Academia Militar:
+Art. 17.º - 1. São eliminados da Academia Militar:
 
 a) Os alunos dos cursos com duração escolar de cinco anos que percam dois anos seguidos ou alternados;
 
@@ -294,18 +307,18 @@ j) Os cadetes-alunos que contraiam matrimónio sem autorização superior.
 
 5. As decisões do comandante da Academia Militar sobre a eliminação de alunos são definitivas.
 
-###### Art. 18.º Os alunos eliminados da frequência dos cursos da Academia Militar nos termos das alíneas d), f), g), i) e j) do n.º 1 do artigo anterior ficam obrigados para com o Estado a indemnização financeira, a propor pela Academia Militar para cada caso e a aprovar pelo Chefe do Estado-Maior do Exército, embora não superior a 50% da totalidade dos abonos percebidos durante a frequência do curso.
+Art. 18.º Os alunos eliminados da frequência dos cursos da Academia Militar nos termos das alíneas d), f), g), i) e j) do n.º 1 do artigo anterior ficam obrigados para com o Estado a indemnização financeira, a propor pela Academia Militar para cada caso e a aprovar pelo Chefe do Estado-Maior do Exército, embora não superior a 50% da totalidade dos abonos percebidos durante a frequência do curso.
 
-###### Art. 19.º Compete às Direcções do Serviço de Pessoal do Exército e da Força Aérea dar destino aos alunos da Academia Militar eliminados, incluindo os oficiais de complemento, sargentos dos quadros permanente e de complemento e praças, tendo em consideração as causas determinantes da eliminação, assim como a sua situação militar anterior.
+Art. 19.º Compete às Direcções do Serviço de Pessoal do Exército e da Força Aérea dar destino aos alunos da Academia Militar eliminados, incluindo os oficiais de complemento, sargentos dos quadros permanente e de complemento e praças, tendo em consideração as causas determinantes da eliminação, assim como a sua situação militar anterior.
 
-###### Art. 20.º Para efeitos de prestação de serviço militar, aos cadetes-alunos com a frequência completa dos 2.os anos dos cursos ministrados na Academia é dada equivalência ao 1.º ciclo dos cursos de oficiais milicianos.
+Art. 20.º Para efeitos de prestação de serviço militar, aos cadetes-alunos com a frequência completa dos 2.os anos dos cursos ministrados na Academia é dada equivalência ao 1.º ciclo dos cursos de oficiais milicianos.
 
-###### Art. 21.º De harmonia com o disposto no artigo 83.º do Decreto-Lei n.º 678/76, de 1 de Setembro, com a publicação da presente portaria são revogadas as correspondentes disposições insertas nos Decretos-Leis n.os 42151 e 42152, de 12 de Fevereiro de 1959, com a redacção que lhes foi fixada por força de outros diplomas legais posteriores.
+Art. 21.º De harmonia com o disposto no artigo 83.º do Decreto-Lei n.º 678/76, de 1 de Setembro, com a publicação da presente portaria são revogadas as correspondentes disposições insertas nos Decretos-Leis n.os 42151 e 42152, de 12 de Fevereiro de 1959, com a redacção que lhes foi fixada por força de outros diplomas legais posteriores.
 
 Estados-Maiores do Exército e da Força Aérea, 21 de Março de 1977. - O Chefe do Estado-Maior do Exército, Vasco Joaquim Rocha Vieira, general. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general.
 
 Quadro a que se refere o artigo 16.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/05/11800/11771181.pdf))](https://files.diariodarepublica.pt/1s/1977/05/11800/11771181.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/05/11800/11771181.pdf)
 
-**O Chefe do Estado-Maior do Exército, Vasco Joaquim Rocha Vieira, general. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general.**
+O Chefe do Estado-Maior do Exército, Vasco Joaquim Rocha Vieira, general. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general.

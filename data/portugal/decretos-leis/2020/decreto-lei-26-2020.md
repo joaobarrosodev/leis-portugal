@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/06/11500/0000800013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/26/2020/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2020-135844795
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ae12dc1597922ab0ccab728a4793000ecaf857bab1abe313e8995d1b7bc05e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52c5837210e99fae3bf8281bfd7c36d247cbd46e28bbf2534d26bb2fe674788a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,67 +67,73 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Insolvência
-- Família
 - Autoridade Tributária e Aduaneira
-- Financiamento
 - AVAL do Estado
-- Instituição de Crédito
-- Empresa
+- Banco de Portugal
 - Caixa de Previdência dos Advogados e Solicitadores
+- Catástrofe
 - Central de Responsabilidades de Crédito
-- Instituto do Emprego e Formação Profissional
-- Direcção Geral do Tesouro
-- Supervisão Financeira
 - Contra-ordenação
-- Segurança Interna
 - Crédito à Habitação
+- Crédito Bancário
 - Definição de Competências
+- Desemprego
+- Direcção Geral do Tesouro
 - Dívida Pública
+- Doença Infecciosa
+- Economia Social
+- Empresa
 - Empresário
 - Empréstimo
+- Epidemia
 - Estado de Emergência
+- Família
+- Financiamento
 - Fiscalização
-- IPSS
-- Catástrofe
 - Fundo de Contragarantia Mútuo
-- Banco de Portugal
 - Garantia Bancária
+- Insolvência
+- Instituição de Crédito
+- Instituição Financeira
 - Instituição Financeira de Crédito
 - Instituto de Formação Profissional
+- Instituto do Emprego e Formação Profissional
+- IPSS
 - Juros
-- Títulos de Crédito
-- Crédito Bancário
+- Microempresa
 - MORA
 - Moratória
 - Operações de Emprestimo
-- Sanção Penal
-- Doença Infecciosa
-- Epidemia
-- Política Económica
-- Política Financeira
-- Economia Social
-- Desemprego
-- Protecção do Património
-- Proteção no Desemprego
-- Microempresa
 - Pequenas e Médias Empresas
 - PME
+- Política Económica
+- Política Financeira
+- Proteção no Desemprego
+- Protecção do Património
+- Regime Extrajudicial de Recuperação de Empresas
+- Sanção Penal
+- Segurança Interna
 - Segurança Social
-- Instituição Financeira
 - Situação Económica Dificil
 - Sociedade de Factoring
 - Sociedade de Garantia Mútua
 - Sociedade de Investimento
 - Sociedade de Locação Financeira
+- Supervisão Financeira
+- Títulos de Crédito
 - Trabalhador Independente
 - Trabalhador por Conta de Outrem
-- Regime Extrajudicial de Recuperação de Empresas
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: celex:32018R1845
   label: null
@@ -156,16 +162,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2020/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2020/04/10/p/dre
+- type: cites
+  target: pt:dre:115879178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131338918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649166:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:13Z'
   warnings: []
   errors: []
 ---
@@ -252,7 +286,9 @@ b) As demais empresas independentemente da sua dimensão, que, à data de public
 
 5 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O presente capítulo aplica-se a operações de crédito concedidas por instituições de crédito, sociedades financeiras de crédito, sociedades de investimento, sociedades de locação financeira, sociedades de factoring e sociedades de garantia mútua, bem como por sucursais de instituições de crédito e de instituições financeiras a operar em Portugal, designadas por «instituições», às entidades beneficiárias do presente decreto-lei.
 
@@ -270,7 +306,9 @@ b) [Anterior alínea b) do n.º 2.]
 
 c) [Anterior alínea c) do n.º 2.]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -284,7 +322,9 @@ c) [Anterior alínea c) do n.º 2.]
 
 6 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -296,7 +336,9 @@ c) [Anterior alínea c) do n.º 2.]
 
 5 - A comunicação de adesão à moratória prevista no n.º 1 é efetuada até 30 de junho de 2020, com possibilidade de prorrogação.
 
-###### Artigo 6.º-A — [...]
+Artigo 6.º-A
+
+[...]
 
 1 - As instituições têm o dever de divulgar e publicitar as medidas previstas no presente decreto-lei, incluindo os termos e datas-limite de acesso à moratória, no seu sítio na Internet e através dos contactos habituais com os seus clientes.
 
@@ -306,7 +348,9 @@ c) [Anterior alínea c) do n.º 2.]
 
 4 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -314,7 +358,9 @@ c) [Anterior alínea c) do n.º 2.]
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 11.º — Garantias pessoais
+Artigo 11.º
+
+Garantias pessoais
 
 1 - ...
 
@@ -322,7 +368,9 @@ c) [Anterior alínea c) do n.º 2.]
 
 3 - À prestação de garantias ao abrigo dos números anteriores é aplicável, subsidiariamente, o disposto na [Lei n.º 112/97](https://diariodarepublica.pt/dr/detalhe/lei/112-1997-649166), de 16 de setembro, na sua redação atual, com as necessárias adaptações, salvo as disposições que, atentas as circunstâncias excecionais e temporárias, se revelem incompatíveis, designadamente o disposto nos artigos 9.º, 13.º, 14.º, 16.º e 19.º, devendo ser observado o procedimento previsto no artigo seguinte, bem como, quando respeite a seguros, o [Decreto-Lei n.º 183/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1988-374430), de 24 de maio, na sua redação atual, com as necessárias adaptações e salvo as disposições que, atentas as circunstâncias excecionais e temporárias, se revelem incompatíveis.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -336,7 +384,9 @@ c) [Anterior alínea c) do n.º 2.]
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 13.º-A — [...]
+Artigo 13.º-A
+
+[...]
 
 1 - O disposto no n.º 2 do artigo 2.º deve ser interpretado no sentido de abranger os beneficiários da Caixa de Previdência dos Advogados e Solicitadores que tenham a respetiva situação contributiva regularizada ou em processo de regularização através de um plano prestacional acordado com a Caixa de Previdência dos Advogados e Solicitadores.
 
@@ -346,7 +396,9 @@ c) [Anterior alínea c) do n.º 2.]
 
 4 - Sem prejuízo das condições de acesso previstas no artigo 2.º, durante o período de vigência do presente decreto-lei é suspensa a exigibilidade de todas as prestações pecuniárias associadas aos créditos que beneficiem das medidas de moratória, incluindo todas aquelas que possam estar em mora na data de adesão à moratória pela entidade beneficiária, deixando assim de ser aplicáveis juros de mora e outras penalidades contratuais.
 
-###### Artigo 14.º — Vigência
+Artigo 14.º
+
+Vigência
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora até 31 de março de 2021.»
 
@@ -380,12 +432,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de junho de 2020. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno.
 
-**Promulgado em 12 de junho de 2020.**
+Promulgado em 12 de junho de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de junho de 2020.**
+Referendado em 15 de junho de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113316702

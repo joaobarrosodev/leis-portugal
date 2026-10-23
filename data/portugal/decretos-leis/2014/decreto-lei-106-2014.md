@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/07/12500/0364503653.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106/2014/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b599a56e02cd332a64a5c438f4f81a43292c4382d48e1d90dfb76aac0a9e6bcc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5fca33259587db03d5f9a928a4d6e940016c15ca32c28452e83cbdc05ab6b55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,16 @@ reuse:
 subjects:
 - Assembleia Geral
 - Autoridade da Concorrência
-- Gestão de Resíduos
-- Garantia
-- Saneamento Básico
+- Conselho Consultivo
 - Conselho de Administração
 - Contrato de Concessão
 - Direito de Preferência
-- Conselho Consultivo
-- Proteção do Ambiente
+- Garantia
+- Gestão de Resíduos
 - Plano Estratégico dos Resíduos Sólidos Urbanos
+- Proteção do Ambiente
 - Resinorte
+- Saneamento Básico
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/226/2000/09/09/p/dre
@@ -112,16 +112,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577707:por
+  label: null
+  source: null
 article_structure:
-  article_count: 61
+  article_count: 51
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:27Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +210,9 @@ Os artigos 4.º, 5.º, 6.º, 9.º e 10.º do [Decreto-Lei n.º 235/2009](https:/
 
 9 - [Revogado].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A RESINORTE, S.A., tem por objeto social a exploração e gestão, em regime de serviço público, do sistema multimunicipal de tratamento e recolha seletiva de resíduos urbanos do sistema do Norte Central.
 
@@ -192,7 +226,9 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 3 - A RESINORTE, S.A., pode, desde que para o efeito esteja habilitada, exercer outras atividades para além daquelas que constituem o objeto da concessão, desde que consideradas complementares ou outras atividades nos termos do contrato de concessão e mediante autorização do concedente.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -202,7 +238,9 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 4 - [Revogado].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A exploração e gestão do sistema do Norte Central é atribuída em regime de concessão exclusiva à RESINORTE S.A., até 31 de dezembro de 2034.
 
@@ -210,7 +248,9 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 3 - [Revogado].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [Revogado].
 
@@ -240,7 +280,9 @@ Conselho consultivo
 
 2 - Integram o conselho consultivo previsto no número anterior, por inerência, os presidentes de todas as câmaras municipais dos municípios utilizadores do sistema gerido pela RESINORTE, S.A., bem como os membros do respetivo conselho de administração e do conselho fiscal desta.
 
-###### Artigo 10.º-B — Caução referente à exploração
+Artigo 10.º-B
+
+Caução referente à exploração
 
 1 - A RESINORTE, S.A., deve prestar em benefício do concedente uma caução destinada a garantir o cumprimento de todas as obrigações que para si emergem do contrato de concessão.
 
@@ -270,7 +312,9 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 3 - A RESINORTE, S.A., pode, desde que para o efeito esteja habilitada, exercer outras atividades para além daquelas que constituem o objeto da concessão, desde que consideradas complementares ou outras atividades nos termos do contrato de concessão e mediante autorização do concedente.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O capital social é de (euro) 8 000 000,00, encontrando-se integralmente realizado.
 
@@ -288,13 +332,17 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 8 - [Revogado].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As ações são nominativas e assumem a forma escritural ou titulada.
 
 2 - [Revogado].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [Revogado].
 
@@ -326,13 +374,17 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 15 - [Revogado].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os acionistas com direito de voto podem participar nas assembleias gerais desde que as ações estejam averbadas em seu nome no livro de registo da sociedade até 10 dias antes daquele em que a assembleia geral deva reunir em primeira convocatória.
 
 2 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -374,15 +426,15 @@ São revogados o artigo 3.º, os n.os 2, 4, 7, 8 e 9 do artigo 4.º, o n.º 4 do
 
 Visto e aprovado em Conselho de Ministros de 8 de maio de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 24 de junho de 2014.**
+Promulgado em 24 de junho de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de junho de 2014.**
+Referendado em 25 de junho de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 

@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/775-1982-397764
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T07:24:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b62bd51d7330ab8f7a287f56b43f5071ead4619987c0c8ff8cc5c5ec605c3c92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dcd0c5166ff49e0361fd8bd15e93319775f2c99de3a50fb10fc937e61e63d64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:24:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Junta Médica da Armada
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:395360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539256:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:24:43Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +98,7 @@ Verificando-se existir uma incorrecção no Regulamento das Juntas Médicas da A
 
 Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo do disposto no artigo único do [Decreto n.º 45893](https://diariodarepublica.pt/dr/detalhe/decreto/45893-1964-539256), de 28 de Agosto de 1964, que o § único do artigo 37.º do citado regulamento passe a ter a seguinte redacção:
 
-###### Art. 37.º ...
+Art. 37.º ...
 
 § único. Em relação ao pessoal que, nos termos do disposto no artigo 17.º, for considerado com incapacidade para o serviço, deverá ser expressamente indicado se se verifica a circunstância mencionada neste artigo.
 

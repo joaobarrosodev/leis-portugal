@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/08/157a00/47714773.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/137/2005/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2005-243501
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5479dc8dd9d07b7ff29dda85de47cc5bfceb0de0b2b610a9ae411697f94fb9c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2b0d0a2fa056446f6f632d1d8ae6cb1a03249706d1bc9ec152bf0f9b40d1d02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Aproximação das Legislações
-- Saúde Pública
-- Alimentação Humana
 - Aditivo Alimentar
-- Suplemento Alimentar
+- Alimentação Humana
+- Aproximação das Legislações
+- Comércio
+- Produto Alimentar
 - Produto Dietetico
 - Qualidade do Produto
-- Comércio
+- Saúde Pública
+- Suplemento Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:335468:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:635810:por
+  label: "Alterados o art. 6º e o anexo I do Dec Lei 241/2002 de 05-Nov, com as alterações constantes do presente diploma,\
+    \ pelo DEC LEI.251/2007.04.07.2007.MS, DR.IS [127] de 04.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-2007-635810
+  date: '2007-07-04'
+- type: amended_by
+  target: pt:dre:642233:por
+  label: "Alterado o art. 11º do Decreto-Lei n.º 241/2002, de 5 de Novembro, na redacção do presente diploma, pelo DEC LEI.317/2007.20.09.2007.MS,\
+    \ DR.IS [182] de 20.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/317-2007-642233
+  date: '2007-09-20'
 - type: cites
   target: celex:31989L0398
   label: null
@@ -98,16 +110,21 @@ relationships:
   target: celex:32004L0006
   label: null
   source: http://data.europa.eu/eli/dir/2004/6/oj
+- type: repealed_by
+  target: pt:dre:335468:por
+  label: "Revogado, a partir de 26.06.2010, pelo DEC LEI.74/2010.21.06.2010.MADRP, DR.IS [118] de 21.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2010-335468
+  date: '2010-06-21'
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:14Z'
   warnings: []
   errors: []
 ---
@@ -160,13 +177,17 @@ a) A Autoridade Europeia para a Segurança dos Alimentos não emita parecer desf
 
 b) A mesma haja sido utilizada no fabrico de um ou mais daqueles produtos e estes tenham sido comercializados na Comunidade até 11 de Fevereiro de 2004.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A comercialização de géneros alimentícios destinados a uma alimentação especial com violação do disposto no presente diploma constitui contra-ordenação punível com coima mínima de (euro) 50 e máxima de (euro) 3740.
 
 2 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -184,15 +205,15 @@ O anexo ao Decreto-Lei n.º 241/2002, de 5 de Novembro, é alterado nos termos s
 
 1 - Na secção relativa à «Categoria 2 - Minerais» é aditada a seguinte linha, sob a rubrica «Cálcio»:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/08/157a00/47714773.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/08/157a00/47714773.pdf)](https://files.diariodarepublica.pt/1s/2005/08/157a00/47714773.pdf)](https://files.diariodarepublica.pt/1s/2005/08/157a00/47714773.pdf)
 
 2 - Na secção relativa à «Categoria 3 - Aminoácidos» são aditadas as seguintes linhas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/08/157a00/47714773.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/08/157a00/47714773.pdf)](https://files.diariodarepublica.pt/1s/2005/08/157a00/47714773.pdf)](https://files.diariodarepublica.pt/1s/2005/08/157a00/47714773.pdf)
 
 3 - Na secção relativa à «Categoria 4 - Carnitina e taurina» é aditada a seguinte linha:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/08/157a00/47714773.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/08/157a00/47714773.pdf)](https://files.diariodarepublica.pt/1s/2005/08/157a00/47714773.pdf)](https://files.diariodarepublica.pt/1s/2005/08/157a00/47714773.pdf)
 
 ###### Artigo 4.º — Aditamento ao Decreto-Lei n.º 241/2002, de 5 de Novembro
 
@@ -262,12 +283,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de Julho de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Manuel Mendonça de Oliveira Neves - Manuel António Gomes de Almeida de Pinho - Francisco Ventura Ramos.
 
-**Promulgado em 2 de Agosto de 2005.**
+Promulgado em 2 de Agosto de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Agosto de 2005.**
+Referendado em 5 de Agosto de 2005.
 
 Pelo Primeiro-Ministro, António Luís Santos Costa, Ministro de Estado e da Administração Interna.

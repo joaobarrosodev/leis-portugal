@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/19700/0000700008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/69/2022/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2022-202127498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3ca3caeb25323d2aa0865a6c0dc9459ba0746edcf28a47ab189036be0bb7d26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53e14e84295375a6d9718ed35589773bbb8b9cf92879f8259abe835bf6fa035b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Amortização
+- Arrendamento Urbano para Habitação
 - Concurso
-- Obras de Conservação e Restauro
-- Instituto de Ação Social das Forças Armadas
-- Habitação Social
 - Forças Armadas
+- Habitação Social
+- Instituto de Ação Social das Forças Armadas
+- Obras de Conservação e Restauro
 - Prazo
 - Prédio Devoluto
+- Prédio Urbano
 - Regime Jurídico
 - Renda Apoiada
 - Renda de CASA
 - Serviços Sociais
-- Prédio Urbano
-- Arrendamento Urbano para Habitação
 relationships:
 - type: amended_by
   target: pt:dre:203898221:por
@@ -92,16 +92,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/83/2019/06/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/83/2019/06/27/p/dre
+- type: cites
+  target: pt:dre:122728685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319924:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:52Z'
   warnings: []
   errors: []
 ---
@@ -160,12 +168,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de setembro de 2022. - António Luís Santos da Costa - Marco Alexandre da Silva Capitão Costa Ferreira - António Manuel Veiga dos Santos Mendonça Mendes.
 
-**Promulgado em 29 de setembro de 2022.**
+Promulgado em 29 de setembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de setembro de 2022.**
+Referendado em 29 de setembro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115746314

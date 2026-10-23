@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/74/1991/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/74-1991-622985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T07:53:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6689e3241d6dec0c0b82c8b57296447fc13e667b12875866b8c0eca20de073f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 213dd2dfd9e075393f65b7dc753c2c4653946a861e4e066142bb0079c7dd5cbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:53:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ subjects:
 - CEE
 - Desenvolvimento Rural
 - Direcção Geral de Planeamento e Agricultura
-- Gestão Agrícola
 - Exploração Agrícola
+- Gestão Agrícola
 - Política Agrícola Comum
 - Regulamento CE
 relationships:
@@ -78,20 +78,30 @@ relationships:
   target: pt:dre:264749:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS VALORES DAS AJUDAS COMUNITARIAS, PELO DESPACHO NORMATIVO 247/94, DE 17 DE MARCO, PUBLICADO NO DR.IS-B,\
+    \ 90, DE 940418.\0 940418."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-04-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/81/1991/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/81/1991/02/19/p/dre
+- type: cites
+  target: pt:dre:487700:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:53:40Z'
   warnings: []
   errors: []
 ---

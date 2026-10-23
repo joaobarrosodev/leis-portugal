@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/230/2001/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2001-515580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb3908f9a3c4c1826c8e2a3aa161af82ab7a5b46c10379273ada29d21f38b454
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2caf2c973ef0306e525d4c3371d45ed7e469c8db6f8c82bcb8bf3983077c3b46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Comissão Nacional de Acesso ao Ensino Superior
-- Timor Leste
-- Definição de Competências
-- Ensino Oficial
-- Direção Geral do Ensino Superior
-- Regime Especial de Acesso e Ingresso no Ensino Superior
-- Ensino Superior
 - Bolsa de Estudos
+- Comissão Nacional de Acesso ao Ensino Superior
+- Definição de Competências
+- Direção Geral do Ensino Superior
+- Ensino Oficial
+- Ensino Superior
+- Regime Especial de Acesso e Ingresso no Ensino Superior
+- Timor Leste
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/296-a/1998/09/25/p/dre
@@ -95,16 +95,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:39Z'
   warnings: []
   errors: []
 ---
@@ -241,12 +265,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Augusto Ernesto Santos Silva - António Fernando Correia de Campos.
 
-**Promulgado em 11 de Agosto de 2001.**
+Promulgado em 11 de Agosto de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Agosto de 2001.**
+Referendado em 16 de Agosto de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

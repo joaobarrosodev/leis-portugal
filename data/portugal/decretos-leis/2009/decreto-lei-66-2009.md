@@ -52,18 +52,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/66/2009/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2009-605545
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:11:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac08ecfbc8cd6c24710d9cefa4584fd30d127750ffa493997c53e5ab9d1cb3c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 918f8886caf993e62d1d1b01fbda7b9810a7b0a27087af0509cb4be9ae6f7c98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:11:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,21 +71,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Financiamento
-- Ordenamento do Território
 - Desenvolvimento Regional
-- REDE Rural Nacional
 - Feader
+- Financiamento
 - Iniciativa Novas Oportunidades
+- Ordenamento do Território
+- Proder
 - Proderam
 - Prorural
+- REDE Rural Nacional
 - Reembolso
 relationships:
 - type: amended_by
   target: pt:dre:553458:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:335686:por
+  label: "Alterados os arts 14º, 20º e 21º, todos do Dec Lei 2/2008 de 04-Jan, alterado e republicado pelo presente diploma,\
+    \ pelo DEC LEI.69/2010.16.06.2010.MADRP, DR.IS [115] de 16.06.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2010-335686
+  date: '2010-06-16'
+- type: amended_by
+  target: pt:dre:553458:por
+  label: "Alterado o art. 11º do Dec Lei 2/2008, de 04-jan, na redação do presente diploma, pelo DEC LEI.62/2012.14.03.2012.MAMAOT,\
+    \ DR.IS [53] de 14.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-2012-553458
+  date: '2012-03-14'
 - type: cites
   target: celex:32004L0018
   label: null
@@ -123,15 +135,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/37-a/2008/03/05/p/dre
 article_structure:
-  article_count: 55
+  article_count: 47
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:11:06Z'
   warnings: []
   errors: []
 ---
@@ -230,13 +242,17 @@ v) ...
 
 7 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
 2 - A composição dos comités de acompanhamento referidos no número anterior consta do respectivo PDR e a designação das entidades privadas representadas é feita, conforme os casos, por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, a publicar no Diário da República, ou dos membros competentes dos Governos Regionais dos Açores e da Madeira, ao abrigo e nos termos previstos no artigo 77.º do Regulamento (CE) n.º [1698/2005](https://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -256,7 +272,9 @@ e) ...
 
 4 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -328,7 +346,9 @@ ab) ...
 
 ac) 'Autorização de pagamento' o acto realizado após a autorização de despesa e a verificação das condições requeridas para a emissão dos meios de pagamento.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -342,7 +362,9 @@ ac) 'Autorização de pagamento' o acto realizado após a autorização de despe
 
 6 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -376,7 +398,9 @@ j) ...
 
 6 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -408,7 +432,9 @@ f) ...
 
 9 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - As autoridades de gestão dos PDR são responsáveis pela realização dos controlos administrativos dos pedidos de apoio e dos controlos no âmbito do sistema de supervisão dos grupos de acção local, sem prejuízo da delegação destas funções noutros organismos.
 
@@ -418,7 +444,9 @@ f) ...
 
 4 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -470,15 +498,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Fevereiro de 2009. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Rui Carlos Pereira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva - José António Fonseca Vieira da Silva.
 
-**Promulgado em 13 de Março de 2009.**
+Promulgado em 13 de Março de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Março de 2009.**
+Referendado em 16 de Março de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Republicação do Decreto-Lei n.º 2/2008, de 4 de Janeiro
 

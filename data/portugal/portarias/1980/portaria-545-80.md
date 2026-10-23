@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/545-1980-469789
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:23:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cef70fd20cd96d5c2db35e453790e85f2bc067ff20cf444956a95eb7bd0ae282
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52aa41ca894bb845230ce22fdfac8ea52ecc054096741f4f473c2a60b0a00712
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:23:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino
+- Regulamento de Admissão aos Estabelecimentos Militares de Ensino
 relationships:
 - type: amended_by
   target: pt:dre:579519:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:579519:por
+  label: "Alterada a alínea c) do n.º 1 do artigo 16.º e aditado um n.º 3 ao artigo 26.º, ambos do Regulamento pela PORT.626/81.22.07.1981.CR,\
+    \ DR.IS [166] de 22.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/626-1981-579519
+  date: '1981-07-22'
+- type: cites
+  target: pt:dre:295825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472926:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:23:17Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +112,7 @@ REGULAMENTO DE ADMISSÃO AOS ESTABELECIMENTOS MILITARES DE ENSINO
 
 ### CAPÍTULO I — Condições de admissão
 
-###### Artigo 1.º - 1 - A admissão dos alunos faz-se para o 1.º ano ou 2.º ano do ciclo preparatório do ensino secundário ou Colégio Militar (CM), Instituto Militar dos Pupilos do Exército (IMPE) e Instituto de Odivelas (IO).
+Artigo 1.º - 1 - A admissão dos alunos faz-se para o 1.º ano ou 2.º ano do ciclo preparatório do ensino secundário ou Colégio Militar (CM), Instituto Militar dos Pupilos do Exército (IMPE) e Instituto de Odivelas (IO).
 
 2 - No Instituto Militar dos Pupilos do Exército a admissão faz-se também para o 1.º ano dos cursos superiores ali ministrados, nas condições a estabelecer em diploma próprio.
 
@@ -106,25 +122,25 @@ a) A orfandade tenha ocorrido há menos de um ano à data da abertura do concurs
 
 b) Verificando-se há mais tempo, tenha entretanto ocorrido, no mesmo período, facto superveniente que provoque grave desequilíbrio no agregado familiar do órfão.
 
-###### Art. 2.º São condições gerais de admissão:
+Art. 2.º São condições gerais de admissão:
 
 a) Ser português;
 
 b) Possuir as condições físicas e psicotécnicas e os conhecimentos literários indispensáveis à frequência do estabelecimento de ensino a que o candidato se destina, comprovados em provas do concurso de admissão.
 
-###### Art. 3.º São condições especiais de admissão ao 1.º ano do ciclo preparatório do ensino secundário (5.º ano de escolaridade):
+Art. 3.º São condições especiais de admissão ao 1.º ano do ciclo preparatório do ensino secundário (5.º ano de escolaridade):
 
 a) Ter menos de 12 anos de idade até 31 de Dezembro do ano civil em que tem lugar o concurso;
 
 b) Ter sido aprovado no ciclo elementar do ensino primário.
 
-###### Art. 4.º São condições especiais de admissão ao 2.º ano do ciclo preparatório do ensino secundário (6.º ano de escolaridade):
+Art. 4.º São condições especiais de admissão ao 2.º ano do ciclo preparatório do ensino secundário (6.º ano de escolaridade):
 
 a) Ter menos de 13 anos de idade até 31 de Dezembro do ano civil em que tem lugar o concurso;
 
 b) Ter sido aprovado na frequência do 1.º ano do ciclo preparatório do ensino secundário.
 
-###### Art. 5.º O candidato referido no n.º 3 do artigo 1.º deve obedecer às seguintes condições especiais de admissão:
+Art. 5.º O candidato referido no n.º 3 do artigo 1.º deve obedecer às seguintes condições especiais de admissão:
 
 a) Ser filho de militar do QP;
 
@@ -136,7 +152,7 @@ d) Não exceder em mais de um ano, quando se trate de admissão ao 1.º ou 2.º 
 
 ### CAPÍTULO II — Concurso de admissão
 
-###### Art. 6.º - 1 - A aptidão física, cultural e psicotécnica dos candidatos ao concurso de admissão é apreciada por meio das seguintes operações:
+Art. 6.º - 1 - A aptidão física, cultural e psicotécnica dos candidatos ao concurso de admissão é apreciada por meio das seguintes operações:
 
 a) Prova de aptidão cultural;
 
@@ -152,7 +168,7 @@ d) Prova de aptidão física (só para CM e IMPE).
 
 4 - O Chefe do Estado-Maior do Exército (CEME) definirá, por despacho, o critério de apuramento dos candidatos.
 
-###### Art. 7.º - 1 - Normalmente, as operações do concurso têm lugar nos estabelecimentos de ensino a que os candidatos concorrem, podendo, no entanto, para os candidatos residentes nas ilhas e em Macau, as mesmas ser realizadas localmente.
+Art. 7.º - 1 - Normalmente, as operações do concurso têm lugar nos estabelecimentos de ensino a que os candidatos concorrem, podendo, no entanto, para os candidatos residentes nas ilhas e em Macau, as mesmas ser realizadas localmente.
 
 2 - Os júris, no caso de as operações do concurso se realizarem nas ilhas e em Macau, serão nomeados pelos respectivos comandantes militares.
 
@@ -160,19 +176,19 @@ d) Prova de aptidão física (só para CM e IMPE).
 
 4 - A elaboração e classificação das provas psicotécnicas compete ao Centro de Estudos Psicotécnicos do Exército (CEPE).
 
-###### Art. 8.º Os candidatos que em qualquer altura do concurso declarem, através do respectivo encarregado de educação, por escrito, desistir do mesmo são desde logo eliminados, devendo o facto ser averbado nos registos.
+Art. 8.º Os candidatos que em qualquer altura do concurso declarem, através do respectivo encarregado de educação, por escrito, desistir do mesmo são desde logo eliminados, devendo o facto ser averbado nos registos.
 
-###### Art. 9.º Os candidatos convocados para as várias operações do concurso devem comparecer com pontualidade nos locais, dias e horas que lhes sejam fixados, sendo sempre portadores do respectivo bilhete de identidade ou, não o possuindo ainda, de cédula pessoal. O não cumprimento desta disposição pode implicar a exclusão do concurso.
+Art. 9.º Os candidatos convocados para as várias operações do concurso devem comparecer com pontualidade nos locais, dias e horas que lhes sejam fixados, sendo sempre portadores do respectivo bilhete de identidade ou, não o possuindo ainda, de cédula pessoal. O não cumprimento desta disposição pode implicar a exclusão do concurso.
 
-###### Art. 10.º - 1 - Para cada uma das operações do concurso são realizadas duas chamadas.
+Art. 10.º - 1 - Para cada uma das operações do concurso são realizadas duas chamadas.
 
 2 - Os candidatos que por motivo de doença ou acidente intercorrente não possam comparecer no dia e hora marcados para a realização das operações na 1.ª chamada terão de justificar, no prazo máximo de três dias úteis a contar da data em que se verificou a falta, as razões do impedimento, através de atestado médico com assinatura reconhecida ou outro documento legal comprovativo.
 
-###### Art. 11.º - 1 - Aos candidatos a quem for justificada a falta à 1.ª chamada será fixada a data da realização da 2.ª chamada, não devendo a mesma efectuar-se depois de dez dias úteis após a primeira.
+Art. 11.º - 1 - Aos candidatos a quem for justificada a falta à 1.ª chamada será fixada a data da realização da 2.ª chamada, não devendo a mesma efectuar-se depois de dez dias úteis após a primeira.
 
 2 - A falta à 2.ª chamada implica a exclusão do concurso, qualquer que seja o motivo.
 
-###### Art. 12.º - 1 - A fim de superintender no processamento das operações do concurso é nomeada anualmente, por despacho do director do estabelecimento de ensino, uma comissão de admissão a que presidirá o subdirector e da qual fazem parte:
+Art. 12.º - 1 - A fim de superintender no processamento das operações do concurso é nomeada anualmente, por despacho do director do estabelecimento de ensino, uma comissão de admissão a que presidirá o subdirector e da qual fazem parte:
 
 Presidente da junta de inspecção médica;
 
@@ -186,7 +202,7 @@ Secretário coordenador.
 
 2 - O director do estabelecimento de ensino nomeará o pessoal necessário ao apoio administrativo da comissão.
 
-###### Art. 13.º A comissão de admissão mantém-se constituída desde a abertura do concurso até ao seu encerramento e tem por atribuições as seguintes:
+Art. 13.º A comissão de admissão mantém-se constituída desde a abertura do concurso até ao seu encerramento e tem por atribuições as seguintes:
 
 a) Proceder à análise dos processos de admissão dos candidatos;
 
@@ -198,11 +214,11 @@ d) Elaborar informações, propostas e recomendações sobre a matéria da sua c
 
 ### CAPÍTULO III — Organização do concurso de admissão
 
-###### Art. 14.º Com base em informação dos estabelecimentos de ensino e mediante proposta do director do departamento de instrução (DDI), o CEME fixará anualmente, por despacho, o número de vagas a atribuir em cada um deles para cada ano de admissão.
+Art. 14.º Com base em informação dos estabelecimentos de ensino e mediante proposta do director do departamento de instrução (DDI), o CEME fixará anualmente, por despacho, o número de vagas a atribuir em cada um deles para cada ano de admissão.
 
-###### Art. 15.º O anúncio da abertura do concurso, respectivo calendário e número de vagas previstas serão efectuados até 31 de Maio, pelo que os estabelecimentos de ensino deverão remeter ao Estado-Maior do Exército (EME), até 15 do mesmo mês, as respectivas propostas.
+Art. 15.º O anúncio da abertura do concurso, respectivo calendário e número de vagas previstas serão efectuados até 31 de Maio, pelo que os estabelecimentos de ensino deverão remeter ao Estado-Maior do Exército (EME), até 15 do mesmo mês, as respectivas propostas.
 
-###### Art. 16.º - 1 - As vagas criadas serão repartidas anualmente, por despacho do CEME, pelos seguintes grupos e subgrupos de candidatos:
+Art. 16.º - 1 - As vagas criadas serão repartidas anualmente, por despacho do CEME, pelos seguintes grupos e subgrupos de candidatos:
 
 A) Grupo A - Casos especiais:
 
@@ -246,13 +262,13 @@ b) Filhos de funcionários civis do Exército com mais de cinco anos de serviço
 
 5 - As vagas destinadas a candidatos do grupo C e atribuídas a qualquer dos subgrupos que não forem preenchidas reverterão a favor do outro subgrupo e, se não forem preenchidas a favor do grupo B.
 
-###### Art. 17.º Para efeitos de admissão, são equiparados a filhos de militares dos QP, de acordo com as suas categorias hierárquicas:
+Art. 17.º Para efeitos de admissão, são equiparados a filhos de militares dos QP, de acordo com as suas categorias hierárquicas:
 
 a) Os órfãos de pai, filhos de militares dos QP das forças armadas (FA), ainda que a mãe tenha posteriormente casado com indivíduo civil;
 
 b) Os órfãos de pai, filhos de civis cuja mãe tenha posteriormente casado com militar dos QP das FA.
 
-###### Art. 18.º - 1 - Os candidatos aprovados no concurso de admissão serão agrupados pelo CEPE de acordo com as classificações obtidas nas provas cultural e psicotécnica e admitidos com base neste agrupamento, até ao limite das vagas.
+Art. 18.º - 1 - Os candidatos aprovados no concurso de admissão serão agrupados pelo CEPE de acordo com as classificações obtidas nas provas cultural e psicotécnica e admitidos com base neste agrupamento, até ao limite das vagas.
 
 2 - Em caso de igualdade de classificação, são condições de preferência:
 
@@ -270,21 +286,21 @@ b) Para os candidatos do grupo C:
 
 3) Menor capitação.
 
-###### Art. 19.º - 1 - Concluídos os trabalhos de ordenação, a comissão de admissão elaborará as listas dos candidatos a admitir e a excluir, submetendo-as à aprovação do director do respectivo estabelecimento de ensino.
+Art. 19.º - 1 - Concluídos os trabalhos de ordenação, a comissão de admissão elaborará as listas dos candidatos a admitir e a excluir, submetendo-as à aprovação do director do respectivo estabelecimento de ensino.
 
 2 - As listas, devidamente informadas e aprovadas, serão enviadas ao EME para homologação pelo CEME.
 
-###### Art. 20.º A documentação comprovativa das condições gerais e especiais e outra relacionada com a admissão será indicada pelos estabelecimentos de ensino aos interessados, a partir de 25 de Maio de cada ano.
+Art. 20.º A documentação comprovativa das condições gerais e especiais e outra relacionada com a admissão será indicada pelos estabelecimentos de ensino aos interessados, a partir de 25 de Maio de cada ano.
 
-###### Art. 21.º - 1 - Para efeitos do n.º 3 do artigo 1.º, será organizado, para cada candidato ou grupo de candidatos nas mesmas condições, concurso de admissão ad hoc, com vista ao disposto na alínea b) do artigo 2.º
+Art. 21.º - 1 - Para efeitos do n.º 3 do artigo 1.º, será organizado, para cada candidato ou grupo de candidatos nas mesmas condições, concurso de admissão ad hoc, com vista ao disposto na alínea b) do artigo 2.º
 
 2 - O concurso referido no número anterior constará das provas previstas no artigo 6.º deste Regulamento, devidamente adaptadas em função do ano escolar a que respeitarem e a submeter a prévia aprovação do CEME.
 
 ### CAPÍTULO IV — Prova de aptidão cultural
 
-###### Art. 22.º Os candidatos serão submetidos a uma prova de aptidão cultural, que se destina não só a avaliar se possuem um mínimo aceitável de conhecimentos necessário à frequência dos cursos ministrados nos estabelecimentos de ensino a que concorrem, mas também a capacidade de aprender.
+Art. 22.º Os candidatos serão submetidos a uma prova de aptidão cultural, que se destina não só a avaliar se possuem um mínimo aceitável de conhecimentos necessário à frequência dos cursos ministrados nos estabelecimentos de ensino a que concorrem, mas também a capacidade de aprender.
 
-###### Art. 23.º - 1 - Os candidatos residentes no continente realizarão a prova de aptidão cultural nos estabelecimentos de ensino a que concorrem, perante um júri a nomear pelo respectivo director.
+Art. 23.º - 1 - Os candidatos residentes no continente realizarão a prova de aptidão cultural nos estabelecimentos de ensino a que concorrem, perante um júri a nomear pelo respectivo director.
 
 2 - Os candidatos residentes nas ilhas e em Macau poderão realizar localmente as provas de aptidão cultural, perante um júri nomeado pelo comandante militar respectivo. A elaboração e classificação das provas será sempre feita nos estabelecimentos de ensino a que os candidatos concorrem.
 
@@ -304,29 +320,29 @@ b) Os júris funcionarão na sede dos comandos militares, actuarão como delega�
 
 2) Dois oficiais, devendo, sempre que possível, um deles ter experiência do exercício de funções docentes.
 
-###### Art. 24.º - 1 - O CEME, sob proposta dos estabelecimentos de ensino, definirá por despacho quais as matérias a incluir na prova de aptidão cultural, bem como as instruções referentes à sua execução.
+Art. 24.º - 1 - O CEME, sob proposta dos estabelecimentos de ensino, definirá por despacho quais as matérias a incluir na prova de aptidão cultural, bem como as instruções referentes à sua execução.
 
 2 - A prova de aptidão cultural ordena os candidatos de acordo com as classificações obtidas, com vista ao apuramento dos que prosseguirão em concurso.
 
 ### CAPÍTULO V — Prova de aptidão psicotécnica
 
-###### Art. 25.º Os candidatos serão submetidos a uma prova de aptidão psicotécnica cuja elaboração compete ao CEPE e que se destina a avaliar se possuem a capacidade mínima necessária para a frequência do estabelecimento de ensino.
+Art. 25.º Os candidatos serão submetidos a uma prova de aptidão psicotécnica cuja elaboração compete ao CEPE e que se destina a avaliar se possuem a capacidade mínima necessária para a frequência do estabelecimento de ensino.
 
-###### Art. 26.º - 1 - Os candidatos residentes no continente realizarão no estabelecimento de ensino a que concorrem, perante um júri, do qual fará parte obrigatoriamente um delegado a designar pelo CEPE.
+Art. 26.º - 1 - Os candidatos residentes no continente realizarão no estabelecimento de ensino a que concorrem, perante um júri, do qual fará parte obrigatoriamente um delegado a designar pelo CEPE.
 
 2 - Os candidatos residentes nas ilhas e em Macau poderão realizar localmente as provas de aptidão psicotécnica perante um júri nomeado pelo comandante militar respectivo, do qual deverá fazer parte um oficial com a especialidade do CEPE, quando exista. A elaboração e classificação das provas será sempre feita no CEPE.
 
-###### Art. 27.º - 1 - Os resultados das provas psicotécnicas serão traduzidos segundo o critério em uso no CEPE.
+Art. 27.º - 1 - Os resultados das provas psicotécnicas serão traduzidos segundo o critério em uso no CEPE.
 
 2 - Estes resultados serão conjugados com os obtidos na prova de aptidão cultural e o agrupamento deles resultante servirá de base ao apuramento dos candidatos que devem prosseguir em concurso, nos termos do n.º 3 do artigo 6.º
 
-###### Art. 28.º Sempre que o CEPE verificar, face às provas prestadas pelos candidatos, a existência de anomalias que justifiquem um exame individual mais completo, informará os respectivos estabelecimentos, a fim de que os pais ou encarregados de educação possam solicitar, no prazo de cinco dias úteis a partir da data em que tiverem oficialmente conhecimento, que os candidatos sejam submetidos a provas especiais.
+Art. 28.º Sempre que o CEPE verificar, face às provas prestadas pelos candidatos, a existência de anomalias que justifiquem um exame individual mais completo, informará os respectivos estabelecimentos, a fim de que os pais ou encarregados de educação possam solicitar, no prazo de cinco dias úteis a partir da data em que tiverem oficialmente conhecimento, que os candidatos sejam submetidos a provas especiais.
 
 ### CAPÍTULO VI — Inspecção médica
 
-###### Art. 29.º A verificação das condições físicas dos candidatos para a frequência dos estabelecimentos de ensino é feita através de inspecção médica.
+Art. 29.º A verificação das condições físicas dos candidatos para a frequência dos estabelecimentos de ensino é feita através de inspecção médica.
 
-###### Art. 30.º Para efeitos do disposto no artigo 29.º é constituída uma junta de inspecção, a funcionar em cada um dos estabelecimentos de ensino, na altura adequada, com a seguinte constituição:
+Art. 30.º Para efeitos do disposto no artigo 29.º é constituída uma junta de inspecção, a funcionar em cada um dos estabelecimentos de ensino, na altura adequada, com a seguinte constituição:
 
 a) CM e IMPE:
 
@@ -342,7 +358,7 @@ Uma professora, a nomear pela directora, que preside;
 
 Duas médicas.
 
-###### Art. 31.º Na constituição e funcionamento da junta de inspecção deverá ser observado o seguinte:
+Art. 31.º Na constituição e funcionamento da junta de inspecção deverá ser observado o seguinte:
 
 a) Sempre que possível, serão nomeados os médicos do respectivo estabelecimento de ensino;
 
@@ -350,7 +366,7 @@ b) Quando se tornar necessário, os estabelecimentos de ensino solicitarão à D
 
 c) O Hospital Militar Principal (HMP) apoiará a junta de inspecção no exercício das suas funções em todos os exames e análises que tenham de ser realizados e sempre em regime de prioridade.
 
-###### Art. 32.º - 1 - Os candidatos residentes nas ilhas e em Macau poderão ser submetidos localmente à inspecção médica de acordo com as normas aplicáveis a cada estabelecimento de ensino, perante juntas de inspecção a nomear pelos respectivos comandantes militares.
+Art. 32.º - 1 - Os candidatos residentes nas ilhas e em Macau poderão ser submetidos localmente à inspecção médica de acordo com as normas aplicáveis a cada estabelecimento de ensino, perante juntas de inspecção a nomear pelos respectivos comandantes militares.
 
 2 - Em relação aos candidatos residentes nas ilhas e em Macau deverá observar-se o seguinte:
 
@@ -364,11 +380,11 @@ a) Compete aos comandantes militares:
 
 b) As juntas de inspecção médica funcionarão na sede dos comandantes militares, actuarão como delegações da junta do estabelecimento de ensino e terão a constituição definida pelo comandante militar, dentro dos princípios estabelecidos no artigo 30.º
 
-###### Art. 33.º Aos candidatos podem ser exigidas análises ou exames médicos complementares em hospitais militares ou noutros hospitais, no caso de as inspecções terem lugar nas ilhas ou em Macau, sempre que a junta de inspecção os considere necessários para fundamentar a sua decisão.
+Art. 33.º Aos candidatos podem ser exigidas análises ou exames médicos complementares em hospitais militares ou noutros hospitais, no caso de as inspecções terem lugar nas ilhas ou em Macau, sempre que a junta de inspecção os considere necessários para fundamentar a sua decisão.
 
-###### Art. 34.º Os candidatos devem apresentar no acto da inspecção médica os documentos que para cada estabelecimento de ensino forem estabelecidos em normas próprias, a elaborar de acordo com o artigo 20.º deste diploma.
+Art. 34.º Os candidatos devem apresentar no acto da inspecção médica os documentos que para cada estabelecimento de ensino forem estabelecidos em normas próprias, a elaborar de acordo com o artigo 20.º deste diploma.
 
-###### Art. 35.º - 1 - A junta de inspecção julga da aptidão ou inaptidão dos candidatos para a frequência do estabelecimento de ensino respectivo, classificando-os nas categorias de «Apto», «Apto condicionalmente» ou «Inapto».
+Art. 35.º - 1 - A junta de inspecção julga da aptidão ou inaptidão dos candidatos para a frequência do estabelecimento de ensino respectivo, classificando-os nas categorias de «Apto», «Apto condicionalmente» ou «Inapto».
 
 a) São considerados «Aptos» os candidatos que superarem sem restrições as tabelas de inaptidão e possam ser admitidos nesse ano lectivo.
 
@@ -378,11 +394,11 @@ c) São considerados «Inaptos» os candidatos que não satisfizerem nem se prev
 
 2 - Podem ser considerados «Aptos» os candidatos sobre os quais a junta de inspecção se possa pronunciar definitivamente, apesar de virem a necessitar de ser submetidos a qualquer intervenção cirúrgica em data posterior ao início do ano lectivo, desde que o pai ou encarregado de educação tome, por escrito, o compromisso de autorizar essa intervenção cirúrgica na data em que o médico chefe dos serviços de saúde do respectivo estabelecimento de ensino venha a determinar.
 
-###### Art. 36.º - 1 - A decisão de «Inapto» aplicada pela junta de inspecção a um candidato inibe-o de concorrer a todos os estabelecimentos de ensino abrangidos por este diploma no concurso desse ano.
+Art. 36.º - 1 - A decisão de «Inapto» aplicada pela junta de inspecção a um candidato inibe-o de concorrer a todos os estabelecimentos de ensino abrangidos por este diploma no concurso desse ano.
 
 2 - Os candidatos julgados «Aptos condicionalmente» podem continuar em concurso até decisão em contrário.
 
-###### Art. 37.º - 1 - Das decisões da junta de inspecção pode ser interposto recurso pelo pai ou encarregado de educação do candidato para o CEME, que decidirá, em face do relatório a elaborar pela respectiva junta escolar e baseado em parecer da DSS, se o candidato deverá ou não ser presente a nova inspecção médica, a efectuar por uma junta do HMP.
+Art. 37.º - 1 - Das decisões da junta de inspecção pode ser interposto recurso pelo pai ou encarregado de educação do candidato para o CEME, que decidirá, em face do relatório a elaborar pela respectiva junta escolar e baseado em parecer da DSS, se o candidato deverá ou não ser presente a nova inspecção médica, a efectuar por uma junta do HMP.
 
 2 - No caso de deferimento do recurso a que se refere o número anterior, o resultado da junta do HMP substituirá o anterior para todos os efeitos legais.
 
@@ -392,17 +408,17 @@ c) São considerados «Inaptos» os candidatos que não satisfizerem nem se prev
 
 ### CAPÍTULO VII — Provas de aptidão física
 
-###### Art. 38.º A prova de aptidão física destina-se, em conjugação com a inspecção médica, a verificar se o candidato reúne as condições físicas indispensáveis ao regime próprio do estabelecimento a que se destina.
+Art. 38.º A prova de aptidão física destina-se, em conjugação com a inspecção médica, a verificar se o candidato reúne as condições físicas indispensáveis ao regime próprio do estabelecimento a que se destina.
 
-###### Art. 39.º A prova de aptidão física é constituída por um conjunto de exercícios, cuja composição e condições de execução serão estabelecidas por despacho do CEME.
+Art. 39.º A prova de aptidão física é constituída por um conjunto de exercícios, cuja composição e condições de execução serão estabelecidas por despacho do CEME.
 
-###### Art. 40.º A prova de aptidão física é prestada perante um júri constituído por:
+Art. 40.º A prova de aptidão física é prestada perante um júri constituído por:
 
 a) Comandante do corpo de alunos ou, no caso de impossibilidade deste, por um oficial a designar pelo director, que preside;
 
 b) Dois professores de Educação Física.
 
-###### Art. 41.º Relativamente às provas de aptidão física a realizar pelos candidatos residentes nas ilhas e em Macau deverá observar-se o seguinte:
+Art. 41.º Relativamente às provas de aptidão física a realizar pelos candidatos residentes nas ilhas e em Macau deverá observar-se o seguinte:
 
 a) Compete aos comandantes militares:
 
@@ -418,22 +434,22 @@ b) Os júris funcionarão na sede dos comandos militares, actuarão como delega�
 
 2) Dois oficiais, devendo, sempre que possível, um deles ser especializado em educação física.
 
-###### Art. 42.º Os riscos a que os candidatos são sujeitos no decorrer das provas são cobertos através de um seguro a estabelecer e da responsabilidade das forças armadas.
+Art. 42.º Os riscos a que os candidatos são sujeitos no decorrer das provas são cobertos através de um seguro a estabelecer e da responsabilidade das forças armadas.
 
-###### Art. 43.º Antes do início da prova e dos diversos exercícios os candidatos serão elucidados pelo júri sobre todas as condições da sua realização e demais disposições da prova e suas consequências.
+Art. 43.º Antes do início da prova e dos diversos exercícios os candidatos serão elucidados pelo júri sobre todas as condições da sua realização e demais disposições da prova e suas consequências.
 
-###### Art. 44.º O júri, terminadas as provas, lança em registo próprio os resultados alcançados por cada candidato, com as necessárias observações, para permitir a sua apreciação final.
+Art. 44.º O júri, terminadas as provas, lança em registo próprio os resultados alcançados por cada candidato, com as necessárias observações, para permitir a sua apreciação final.
 
-###### Art. 45.º Das decisões do júri da prova de aptidão física somente caberá recurso por desrespeito do Regulamento destas provas.
+Art. 45.º Das decisões do júri da prova de aptidão física somente caberá recurso por desrespeito do Regulamento destas provas.
 
 ### CAPÍTULO VIII — Disposições finais e transitórias
 
-###### Art. 46.º Para efeitos de aplicação deste diploma, consideram-se militares dos QP das FA os oficiais e sargentos dos QP em qualquer situação e as praças readmitidas do Exército e similares dos outros ramos das FA.
+Art. 46.º Para efeitos de aplicação deste diploma, consideram-se militares dos QP das FA os oficiais e sargentos dos QP em qualquer situação e as praças readmitidas do Exército e similares dos outros ramos das FA.
 
-###### Art. 47.º Para efeitos de aplicação deste diploma, os oficiais abrangidos pelo disposto no [Decreto-Lei n.º 90/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1978-295825), de 9 de Maio, são considerados para todos os efeitos como oficiais dos QP.
+Art. 47.º Para efeitos de aplicação deste diploma, os oficiais abrangidos pelo disposto no [Decreto-Lei n.º 90/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1978-295825), de 9 de Maio, são considerados para todos os efeitos como oficiais dos QP.
 
-###### Art. 48.º A execução do presente diploma será regulada por normas especiais para cada um dos estabelecimentos de ensino, que entrarão em vigor depois de aprovadas pelo CEME, ouvido o departamento de instrução.
+Art. 48.º A execução do presente diploma será regulada por normas especiais para cada um dos estabelecimentos de ensino, que entrarão em vigor depois de aprovadas pelo CEME, ouvido o departamento de instrução.
 
-###### Art. 49.º As dúvidas ou casos omissos serão resolvidos por despacho do CEME, ouvido o departamento de instrução.
+Art. 49.º As dúvidas ou casos omissos serão resolvidos por despacho do CEME, ouvido o departamento de instrução.
 
-**O Chefe do Estado-Maior do Exército, Pedro Alexandre Gomes Cardoso, general.**
+O Chefe do Estado-Maior do Exército, Pedro Alexandre Gomes Cardoso, general.

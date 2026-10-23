@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/004a00/00830087.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/6/2005/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2005-457007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ee8317bae00ed592543486d6db89c8d32a59198d224e969de257b73e636d8c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73c0e10e60a1d5d0c0363846877e4a8a9dd607596883fb440ac638c4362d62d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
-- Multa
 - Contra-ordenação
 - Fiscalização
 - Instituto da Comunicação Social
+- Multa
 - Porte PAGO
 - Publicação
 - Registo Obrigatório
@@ -86,16 +86,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/204/2001/03/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/204/2001/03/14/p/dre
+- type: cites
+  target: pt:dre:319739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390818:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520203:por
+  label: "Revogado pelo DEC LEI.98/2007.02.04.2007.PCM, DR.IS [65] de 02.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2007-520203
+  date: '2007-04-02'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:58Z'
   warnings: []
   errors: []
 ---
@@ -356,12 +369,12 @@ c) O envio das publicações classificadas como especializadas nos termos dos n.
 
 Visto e aprovado em Conselho de Ministros de 7 de Outubro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - Nuno Albuquerque Morais Sarmento - António José de Castro Bagão Félix - António Victor Martins Monteiro - José Pedro Aguiar Branco - José Luís Fazenda Arnaut Duarte - Maria do Carmo Félix da Costa Seabra - Maria da Graça Martins da Silva Carvalho - Fernando Mimoso Negrão - António Luís Guerra Nunes Mexia - Maria João Espírito Santo Bustorff Silva.
 
-**Promulgado em 20 de Dezembro de 2004.**
+Promulgado em 20 de Dezembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Dezembro de 2004.**
+Referendado em 22 de Dezembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

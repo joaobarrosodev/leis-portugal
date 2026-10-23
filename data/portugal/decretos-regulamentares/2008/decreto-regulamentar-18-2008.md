@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/18/2008/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-2008-440093
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:32:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e09fff7183a148d3cb8579293293e61ee3947978641c09993fc27db8b5c43d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a19350aa475912a1182cdb8c7c081c52992dbfecf31754f2f0666c9821e2496
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:32:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção dos Animais
+- Diversidade Biológica
 - Elvas
 - Proteção do Ambiente
-- Diversidade Biológica
-- Zona de Proteção
+- Proteção dos Animais
 - Rede Natura 2000
+- Zona de Proteção
 relationships:
 - type: cites
   target: celex:31979L0409
@@ -79,13 +79,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:32:02Z'
   warnings: []
   errors: []
 ---
@@ -138,15 +138,15 @@ b) A protecção, a gestão e o controlo das espécies referidas na alínea ante
 
 Visto e aprovado em Conselho de Ministros de 16 de Outubro de 2008. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 4 de Novembro de 2008.**
+Promulgado em 4 de Novembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de Novembro de 2008.**
+Referendado em 5 de Novembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Zona de Protecção Especial de Torre da Bolsa
 
@@ -158,7 +158,7 @@ O perímetro da Zona de Protecção Especial de Torre da Bolsa está incluído n
 
 Coordenadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22900/0846508467.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22900/0846508467.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22900/0846508467.pdf)
 
 Projected Coordinate System: Lisboa Hayford-Gauss IgeoE.
 
@@ -168,4 +168,4 @@ Datum Lisboa Hayford.
 
 ## ANEXO II — Carta da Zona de Protecção Especial (ZPE) de Torre da Bolsa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22900/0846508467.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22900/0846508467.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22900/0846508467.pdf)

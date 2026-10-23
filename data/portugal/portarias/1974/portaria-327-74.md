@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 96/1974, 1º Suplemento, Série I de 1974-04-24
   number: '96'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 580-(27) a 580-(32)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/04/09601/00270032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/327-1974-266085
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:24:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28c2c670a5fc6ddb913fbef728ec7ab62446a5a21f7e13eb2b5e9b48e960536d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c81bd42f51693fa89561dd4b63402424ce1444a84294296f4c47ad5308dfbd12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:24:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,46 @@ relationships:
   target: pt:dre:472275:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:298614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:472275:por
+  label: Revogada, a partir de 29.10.1974 e com efeitos a 01.01.1974, pelo(a) Portaria n.º 690/74 - Diário do Governo n.º
+    248/1974, Série I de 1974-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/690-1974-472275
+  date: '1974-10-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:24:43Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +127,7 @@ Nos termos do n.º 2 do artigo 3.º do [Decreto-Lei n.º 692/70](https://diariod
 
 Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Segurança Social, que o quadro do pessoal permanente da Santa Casa da Misericórdia de Lisboa não compreendido no quadro de direcção e chefia, aprovado pela [Portaria n.º 696/70](https://diariodarepublica.pt/dr/detalhe/portaria/696-1970-414430), de 31 de Dezembro, seja substituído pelo quadro do pessoal não dirigente que segue e que entra em vigor com efeito retroactivo a partir de 1 de Janeiro de 1974:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/09601/00270032.pdf))](https://files.diariodarepublica.pt/1s/1974/04/09601/00270032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/09601/00270032.pdf)
 
 Notas
 

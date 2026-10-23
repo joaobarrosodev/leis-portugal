@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/649-1970-146048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d28201b3eec2e74e721109025e961858cb88336cf9b7e1dd2a11cbdacdcab5ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c767e10ab45a4f47ebc26227a73414a71e20b69e4b4db58661c1ad5c72c54dbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:04Z'
   warnings: []
   errors: []
 ---
@@ -90,30 +94,30 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 Despesas com material:
 
-###### Artigo 6.º, n.º 2), alínea c) «Aquisições de utilização permanente - Aquisição de semoventes - Viaturas com motores (viaturas automóveis e máquinas-ferramentas) ... 2000000$00
+Artigo 6.º, n.º 2), alínea c) «Aquisições de utilização permanente - Aquisição de semoventes - Viaturas com motores (viaturas automóveis e máquinas-ferramentas) ... 2000000$00
 
-###### Artigo 6.º, n.º 3), alínea d) «Aquisições de utilização permanente - Aquisição de móveis - Mobiliário» ... 538000$00
+Artigo 6.º, n.º 3), alínea d) «Aquisições de utilização permanente - Aquisição de móveis - Mobiliário» ... 538000$00
 
-###### Artigo 6.º, n.º 3), alínea g) «Aquisições de utilização permanente - Aquisição de móveis - Instalações desmontáveis» ... 270000$00
+Artigo 6.º, n.º 3), alínea g) «Aquisições de utilização permanente - Aquisição de móveis - Instalações desmontáveis» ... 270000$00
 
-###### Artigo 8.º, n.º 1) «Material de consumo corrente - Artigos de expediente, impressos e livros para escrituração» ... 150000$00
+Artigo 8.º, n.º 1) «Material de consumo corrente - Artigos de expediente, impressos e livros para escrituração» ... 150000$00
 
 ... 2958000$00
 
 tomando como contrapartida igual importância a sair das disponibilidades existentes nas seguintes verbas da referida tabela de despesa:
 
-### CAPÍTULO ÚNICO
+CAPÍTULO ÚNICO
 
 Despesas com material:
 
-###### Artigo 6.º, n.º 2), alínea d) «Aquisições de utilização permanente - Aquisição de semoventes - Aeronaves» ... 2000000$00
+Artigo 6.º, n.º 2), alínea d) «Aquisições de utilização permanente - Aquisição de semoventes - Aeronaves» ... 2000000$00
 
-###### Artigo 6.º, n.º 3), alínea c) «Aquisições de utilização permanente - Aquisição de móveis - Máquinas, aparelhos, instrumentos, utensílios e ferramentas» ... 808000$00
+Artigo 6.º, n.º 3), alínea c) «Aquisições de utilização permanente - Aquisição de móveis - Máquinas, aparelhos, instrumentos, utensílios e ferramentas» ... 808000$00
 
-###### Artigo 8.º, n.º 3, «Material de consumo corrente - Combustível e lubrificantes» ... 150000$00
+Artigo 8.º, n.º 3, «Material de consumo corrente - Combustível e lubrificantes» ... 150000$00
 
 ... 2958000$00
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada no Boletim Oficial de Moçambique. - J. da Silva Cunha.

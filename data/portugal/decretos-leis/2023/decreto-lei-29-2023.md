@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/08700/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/29/2023/05/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2023-212591472
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7838034580bfedf6371194742c2c0993f4c811755be6e4d3f8518742e0d578f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 463ec4341aeb82dc5f69e108b2b24b7b3f789e4fbe992bdbf149c7af11a135d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Aproximação das Legislações
+- Documentos do Veículo
+- Equipamento de Veículo
+- GNR
 - Inspecção de Veículos
 - Instituto da Mobilidade e dos Transportes
+- PSP
 - Veículo
-- Documentos do Veículo
-- GNR
-- Equipamento de Veículo
 relationships:
 - type: amended_by
   target: pt:dre:910517154:por
@@ -99,16 +99,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/144/2017/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/144/2017/11/29/p/dre
+- type: cites
+  target: pt:dre:114276584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498752:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:48Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +165,9 @@ Os artigos 5.º e 18.º do [Decreto-Lei n.º 144/2012](https://diariodarepublica
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -175,15 +189,15 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de março de 2023. - Mariana Guimarães Vieira da Silva - José Luís Pereira Carneiro - Fernando Medina Maciel Almeida Correia - João Saldanha de Azevedo Galamba.
 
-**Promulgado em 21 de abril de 2023.**
+Promulgado em 21 de abril de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 26 de abril de 2023.**
+Referendado em 26 de abril de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 3.º)
 
@@ -191,7 +205,7 @@ Visto e aprovado em Conselho de Ministros de 23 de março de 2023. - Mariana Gui
 
 Veículos sujeitos a inspeção periódica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/08700/0000200007.pdf))](https://files.diariodarepublica.pt/1s/2023/05/08700/0000200007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/08700/0000200007.pdf)
 
 Nota. - [...]
 
@@ -398,3 +412,5 @@ d) Organismo de supervisão:
 Requisitos aplicáveis ao pessoal do IMT, I. P., com funções de controlo da atividade de inspeção ou de realização de exames de inspetores;
 
 Recursos e reclamações.
+
+116424876

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/112/2012/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2012-177864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48bf0a3a2311f7b325ad55321338d1d49e1df636d9f28d08d51763460b9b6fb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3524561d67c6c45231fcd361f13a27ebb9483a6bc30520dc2fa4bb182dd7d5f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Distribuição de Energia Elétrica
-- Garantia
-- Energia Elétrica
+- Comércio
 - Contrato de Concessão
 - Definição de Competências
+- Direcção Geral de Geologia e Energia
+- Distribuição de Energia Elétrica
 - Distribuição de Gás
 - EDP
-- Reservas de Combustível
+- Energia Elétrica
 - Entidade Reguladora do Sector Eléctrico
+- Garantia
 - Importação
+- Informação do Consumidor
 - Licenciamento
 - Mercado Interno
-- Direcção Geral de Geologia e Energia
-- Informação do Consumidor
 - Preço
-- Serviço Público
 - Produção de Energia Elétrica
 - Proteção do Consumidor
 - Rede Elétrica de Serviço Público
@@ -92,16 +91,29 @@ subjects:
 - Rede Nacional de Distribuição de Gás Natural
 - Rede Nacional de Transporte de Energia Elétrica
 - Rede Nacional de Transporte Instalações de Armazenamento e Terminais
+- Reservas de Combustível
 - Seguro Obrigatório de Responsabilidade Civil
+- Serviço Público
 - Sistema Elétrico Nacional
 - Sistema Nacional de Gás Natural
-- Comércio
 - Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:192436:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:588860:por
+  label: "Alterado, a partir de 09.10.2012, o art. 25º do Dec Lei 29/2006, de 15-fev, na redação do presente diploma, pelo\
+    \ DEC LEI.215-A/2012.08.10.2012.MEE, DR.IS [194-Supl] de 08.10.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2012-588860
+  date: '2012-10-08'
+- type: amended_by
+  target: pt:dre:192436:por
+  label: "Alterados os arts. 20º-A e 21º do Dec Lei 30/2006, de 15-fev, na redação do presente diploma, pelo DEC LEI.230/2012.26.10.2012.MEE,\
+    \ DR.IS [208] de 26.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-2012-192436
+  date: '2012-10-26'
 - type: cites
   target: celex:32009L0072
   label: null
@@ -111,15 +123,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2009/73/oj
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:32Z'
   warnings: []
   errors: []
 ---
@@ -218,7 +230,9 @@ d) ...
 
 8 - As restrições previstas na alínea b) do n.º 3 não são aplicáveis às novas infraestruturas de armazenamento subterrâneo e de terminal de GNL a concessionar após a entrada em vigor do presente decreto-lei.
 
-###### Artigo 21.º — Separação jurídica e patrimonial da atividade de transporte
+Artigo 21.º
+
+Separação jurídica e patrimonial da atividade de transporte
 
 1 - ...
 
@@ -262,12 +276,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de abril de 2012. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento - Álvaro Santos Pereira.
 
-**Promulgado em 14 de maio de 2012.**
+Promulgado em 14 de maio de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de maio de 2012.**
+Referendado em 14 de maio de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

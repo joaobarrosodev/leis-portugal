@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/560-1971-633371
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bf5093019047bf5521e0318cc1efb34dbb69f115a5fe064b66fb662e46d4299
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a0b3e4b03cc304138efe880b512ff21a8bc03318bea7040e85a7914ade28209
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:687853:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:54Z'
   warnings: []
   errors: []
 ---
@@ -91,6 +95,6 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 O artigo 20.º do Regulamento do Estado-Maior da Armada, aprovado e posto em execução pela [Portaria n.º 20139](https://diariodarepublica.pt/dr/detalhe/portaria/20139-1963-687853), de 28 de Outubro de 1963, toma a redacção seguinte:
 
-###### Art. 20.º Os chefes das divisões do Estado-Maior da Armada são capitães-de-mar-e-guerra de qualquer classe, com excepção do chefe da 3.ª Divisão, que é um capitão-de-mar-e-guerra da classe de marinha; os oficiais adjuntos das divisões são capitães-de-fragata, capitães-tenentes ou primeiros-tenentes habilitados com o curso geral naval de guerra, de qualquer classe, exceptuando também o caso da 3.ª Divisão, em que são da classe de marinha.
+Art. 20.º Os chefes das divisões do Estado-Maior da Armada são capitães-de-mar-e-guerra de qualquer classe, com excepção do chefe da 3.ª Divisão, que é um capitão-de-mar-e-guerra da classe de marinha; os oficiais adjuntos das divisões são capitães-de-fragata, capitães-tenentes ou primeiros-tenentes habilitados com o curso geral naval de guerra, de qualquer classe, exceptuando também o caso da 3.ª Divisão, em que são da classe de marinha.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

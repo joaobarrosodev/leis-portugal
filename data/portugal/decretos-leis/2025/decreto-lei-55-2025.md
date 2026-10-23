@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/06200/0004400046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/55/2025/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2025-912820663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7161d173b458c598126cd01a8ec4a40f8569c60c68d9fa85303ea493c43ae1a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0c4e8d1fe97f8706007a6665fdfbd5921e6f7b98a7c5a9e945fe6748bfb07e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
 - Conselho Fiscal
-- Estatuto
-- Serviço Nacional de Saúde
 - Estabelecimento Hospitalar
+- Estatuto
+- Fiscal Único
 - Revisor Oficial de Contas
+- Serviço Nacional de Saúde
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:52/2022
+  label: Altera, a partir de 2 de abril de 2024, nos termos do artigo 3.º do presente diploma, os artigos 68.º, 81.º e 82.º,
+    e revoga a alínea b) do n.º 2 do artigo 68.º e os artigos 79.º e 80.º do Decreto-Lei n.º 52/2022, de 4 de agosto, Diário
+    da República n.º 150/2022, Série I
+  source: null
+  date: '2025-03-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/102/2023/11/07/p/dre
   label: null
@@ -93,16 +100,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82/2023/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82/2023/12/29/p/dre
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206705211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223906278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835864042:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:35Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +154,7 @@ Nos termos do artigo 36.º do [Decreto-Lei n.º 133/2013](https://diariodarepubl
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à quarta alteração ao [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, alterado pelos Decretos-Leis n.<sup>os</sup>[7-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-a-2023-206705211), de 30 de janeiro, e [102/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2023-223906278), de 7 de novembro, e pela [Lei n.º 82/2023](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), de 29 de dezembro, que aprova o Estatuto do Serviço Nacional de Saúde.
+O presente decreto-lei procede à quarta alteração ao [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, alterado pelos Decretos-Leis n.os[7-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-a-2023-206705211), de 30 de janeiro, e [102/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2023-223906278), de 7 de novembro, e pela [Lei n.º 82/2023](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), de 29 de dezembro, que aprova o Estatuto do Serviço Nacional de Saúde.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto
 
@@ -151,7 +178,9 @@ d) [...]
 
 3 - [...]
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - O fiscal único, que é revisor oficial de contas, é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do estabelecimento de saúde, E. P. E., nos termos do artigo 413.º do Código das Sociedades Comerciais, e dos estabelecimentos de saúde, S. P. A.
 
@@ -167,7 +196,9 @@ d) [...]
 
 7 - [...]
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - [...]
 
@@ -211,12 +242,14 @@ São revogados a alínea b) do n.º 2 do artigo 68.º e os artigos 79.º e 80.º
 
 Visto e aprovado em Conselho de Ministros de 7 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Ana Paula Martins.
 
-**Promulgado em 24 de março de 2025.**
+Promulgado em 24 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 25 de março de 2025.**
+Referendado em 25 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118865471

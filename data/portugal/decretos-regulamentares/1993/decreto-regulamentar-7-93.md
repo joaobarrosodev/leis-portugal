@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/066b00/13801387.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/7/1993/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1993-634491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:21:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c15a0092baa39d52b3863afd7b020a3f62e5297cc9bd49e75bf4536cab6a8702
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57ab1a42e639ccd4d26b847a121be34bed92b3d7d8a9d2df0162d226a211f330
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:21:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,11 @@ relationships:
   target: pt:dre:603045:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "TRANSITOU PARA A TUTELA DO MINISTÉRIO DA ECONOMIA PELO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\066]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/99/1991/03/02/p/dre
   label: null
@@ -82,16 +87,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/9/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/9/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:276601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627067:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:654681:por
+  label: "Revogado, com excepção do art. 2º, e determinada a sucessão da Direcção Geral de Geologia e Energia (DGGE) à Direcção\
+    \ Geral de Energia, nas áreas de intervenção referidas nas disposições constantes do citado art, pelo DEC LEI.186/2003.2003.08.20.MECO\
+    \ DR.IS-A [191]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-2003-654681
+  date: '2003-08-20'
+- type: repealed_by
+  target: pt:dre:603045:por
+  label: "Revogado pelo DEC LEI.15/2004.14.01.2004.MECO, DR.IS-A [11] de 14.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2004-603045
+  date: '2004-01-14'
 article_structure:
   article_count: 32
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:21:19Z'
   warnings: []
   errors: []
 ---
@@ -438,7 +479,9 @@ h) Promover a eficiente execução das funções de aprovisionamento, economato 
 
 5 - A realização das tarefas executivas relativas a pessoal, expediente geral, contabilidade, compras e património será assegurada por quatro secções.
 
-###### Artigo 13.º — Divisão de Estatística
+###### Artigo 13.º
+
+##### Divisão de Estatística
 
 A DE é o serviço responsável pela recolha e tratamento da informação relativas aos movimentos de produtos energéticos e respectivos preços, tendo em conta a satisfação das necessidades do Sistema Estatístico Nacional e as obrigações decorrentes dos compromissos com organismos nacionais, bem como do conhecimento necessário à construção de suportes de decisão relativos à formulação da política sectorial, competindo-lhe:
 
@@ -452,7 +495,9 @@ d) Organizar e manter actualizado um banco de dados para a energia, bem como ass
 
 e) Elaborar, no âmbito do quadro legal do Sistema Estatístico Nacional, os textos relativos a publicações de natureza estatística.
 
-###### Artigo 14.º — Divisão de Informação e Relações Externas
+###### Artigo 14.º
+
+##### Divisão de Informação e Relações Externas
 
 A DIRE é o serviço responsável pela recolha e tratamento da informação científica e técnica relativa ao sector energético pela sua difusão junto do público e pela coordenação das relações da DGE com outras entidades nacionais ou estrangeiras na área da informação e documentação, competindo-lhe:
 
@@ -476,7 +521,9 @@ i) Promover, em conjunto com os serviços interessados, a realização e divulga
 
 j) Promover, com a participação dos serviços interessados, a presença da DGE em eventos relacionados com a sua esfera de actuação.
 
-###### Artigo 15.º — Divisão de Energia Nuclear
+###### Artigo 15.º
+
+##### Divisão de Energia Nuclear
 
 A DEN é o serviço responsável pela actualização sistemática do conhecimento relativo às tendências técnico-económicas que sustentam a evolução dos combustíveis e equipamentos para centrais nucleares, bem como da problemática da gestão dos resíduos radioactivos das centrais, competindo-lhe:
 
@@ -490,7 +537,9 @@ d) Preparar a participação da DGE na discussão de tratados, conversações e 
 
 e) Promover a informação pública sobre a problemática da energia nuclear.
 
-###### Artigo 16.º — Divisão de Informática
+###### Artigo 16.º
+
+##### Divisão de Informática
 
 A DI é o serviço responsável pela informatização das actividades da DGE, assegurando o respectivo desenvolvimento, manutenção e operacionalidade, competindo-lhe:
 
@@ -508,7 +557,9 @@ f) Propor e apoiar acções de formação sobre as aplicações informáticas de
 
 g) Representar a DGE na Comissão Informática do Ministério da Indústria e Energia.
 
-###### Artigo 17.º — Divisão de Energia/Ambiente
+###### Artigo 17.º
+
+##### Divisão de Energia/Ambiente
 
 A DEA é o serviço responsável pelo acompanhamento das questões ambientais relacionadas com o sector energético, competindo-lhe:
 
@@ -652,12 +703,12 @@ Presidência do Conselho de Ministros, 4 de Janeiro de 1993.
 
 Aníbal António Cavaco Silva - Jorge Braga e Macedo - Luís Fernando Mira Amaral.
 
-**Promulgado em 9 de Março de 1993.**
+Promulgado em 9 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Março de 1993.**
+Referendado em 10 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

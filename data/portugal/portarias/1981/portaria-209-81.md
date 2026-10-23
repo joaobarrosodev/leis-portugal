@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/02/04600/04970499.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/209-1981-391261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:40:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 453518c33cc9ba8f0ffd2bb808842be75baedb345201b3e22bd7f05cddd61083
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79a49db86090c943a9dcf648b3822d2520289926fea0d2b9bd9c975b38f71762
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:40:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Animais
+- Carcaça
+- Junta Nacional dos Produtos Pecuários
+- Matadouro
+- Prestação de Serviços
+- Produto Cárneo
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:580364:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:159772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656384:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:580364:por
+  label: "Revogada pela PORT.558/81.1981.07.04.MAP DR.IS [151]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/558-1981-580364
+  date: '1981-07-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:40:25Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +150,7 @@ Tabela de custos
 
 I - Dos serviços prestados nos matadouros por quilograma de carcaça
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/04600/04970499.pdf))](https://files.diariodarepublica.pt/1s/1981/02/04600/04970499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/04600/04970499.pdf)
 
 II - Dos abates de urgência e entradas fora do horário normal
 
@@ -146,11 +178,11 @@ II - Dos abates de urgência e entradas fora do horário normal
 
 3 - Abates de urgência de bovinos, equídeos, ovinos e caprinos e preparação das respectivas carcaças por quilograma/carcaça:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/04600/04970499.pdf))](https://files.diariodarepublica.pt/1s/1981/02/04600/04970499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/04600/04970499.pdf)
 
 4 - Abates de urgência e preparação das respectivas carcaças por quilograma/carcaça para suínos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/04600/04970499.pdf))](https://files.diariodarepublica.pt/1s/1981/02/04600/04970499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/04600/04970499.pdf)
 
 III - Do transporte extraordinário de carnes
 
@@ -238,7 +270,7 @@ Quando não industrializados pelo matadouro - vinte e quatro horas.
 
 V - Da armazenagem de peles e couros durante o segundo mês após o abate (ver nota a) e (ver nota b)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/04600/04970499.pdf))](https://files.diariodarepublica.pt/1s/1981/02/04600/04970499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/04600/04970499.pdf)
 
 (nota a) Findo o período de quatro quinzenas após o abate, a JNPP reserva-se o direito de promover a venda de couros e peles que não tenham sido retiradas, deduzindo do produto da venda os custos de armazenagem, acrescido das despesas de venda fixada em 3% do valor da pele transaccionada.
 

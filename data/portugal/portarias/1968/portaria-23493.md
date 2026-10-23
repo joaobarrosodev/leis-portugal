@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23493-1968-273813
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1da8c65da13faaffacd9fd97d67bb7927fafa53fe128fe5c47caabd9c027b92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b16af25f087ac826220b3a75b45b17c6fb267824632e7d6b915e86cc5d49f279
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:08Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +102,7 @@ Tendo em vista a autorização concedida pelo Conselho Económico em sessão de 
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos dos artigos 11.º, alínea h), e 13.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, conjugados com o disposto no artigo 5.º do [Decreto n.º 40712](https://diariodarepublica.pt/dr/detalhe/decreto/40712-1956-232510), de 1 de Agosto de 1956, que o Governo de Macau abra um crédito especial de 503500$00, tomando como contrapartida os saldos disponíveis de 1967, destinado a reforçar com as quantias que se indicam estas verbas da tabela de despesa extraordinária do orçamento geral em vigor:
 
-### Capítulo 12.º, artigo 289.º:
+Capítulo 12.º, artigo 289.º:
 
 III) «Plano de Fomento»:
 

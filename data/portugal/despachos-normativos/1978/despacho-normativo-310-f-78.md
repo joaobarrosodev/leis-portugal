@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 275/1978, 2º Suplemento, Série I de 1978-11-29
   number: '275'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2526-(5) a 2526-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/27502/00050005.pdf
 entry_into_force_dates: []
@@ -48,36 +48,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/310-f-1978-455945
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:46:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 639ea49083482a63dce59b1e1600162c5196dd715ecc8dfcb21babeeb1c56c9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d35db235b0c21f957202a53a688d7e5b22d315cd40c2a43e99de7cf5793e679
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:46:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ALTO Comissário para os Desalojados
+- Substituição de Funções
+relationships:
+- type: cites
+  target: pt:dre:384609:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:46:40Z'
   warnings: []
   errors: []
 ---

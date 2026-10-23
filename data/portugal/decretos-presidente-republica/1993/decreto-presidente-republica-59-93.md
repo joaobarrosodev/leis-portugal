@@ -27,7 +27,7 @@ publication:
   reference: Diário da República n.º 285/1993, 1º Suplemento, Série I-A de 1993-12-07
   number: '285'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6800-(2) a 6800-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/285a01/00020003.pdf
 entry_into_force_dates: []
@@ -54,18 +54,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/59/1993/12/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/59-1993-621921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T04:15:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f010db57fde37577e750e0c0177e77d71ec802cd810ab58fe6acf44b3958271f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43bff543b79b8dac60041e48b6fcab6767acd6e294bec4942dcd2c7100620219
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:15:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,31 +74,44 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Governo XII
-- Secretário de Estado do Ensino Superior
-- Secretário de Estado dos Assuntos Fiscais
-- Secretário de Estado da Saúde
-- Secretário de Estado do Emprego e Formação Profissional
-- Secretário de Estado do Tesouro
 - Nomeação
-- Secretário de Estado Adjunto do Primeiro-ministro
 - Secretário de Estado
+- Secretário de Estado Adjunto do Primeiro-ministro
 - Secretário de Estado Adjunto e das Finanças
 - Secretário de Estado da Educação e do Desporto
+- Secretário de Estado da Saúde
 - Secretário de Estado da Segurança Social
 - Secretário de Estado do Comércio
+- Secretário de Estado do Emprego e Formação Profissional
+- Secretário de Estado do Ensino Superior
 - Secretário de Estado do Orçamento
+- Secretário de Estado do Tesouro
+- Secretário de Estado dos Assuntos Fiscais
 - Secretário de Estado dos Recursos Educativos
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: EXONERADO O DR. FERNANDO MÁRIO TEIXEIRA DE ALMEIDA DO CARGO DE SECRETÁRIO DE ESTADO DA SEGURANÇA SOCIAL, PELO DECRETO
+    27/94, DO PR, DE 21 DE MAIO, PUBLICADO NO DR.IS-A, 118, SUPL.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-21'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: EXONERADOS O PROF. DR. ANTÓNIO JOSÉ FERNANDES DE SOUSA, DO CARGO DE SECRETÁRIO DE ESTADO ADJUNTO E DAS FINANÇAS E
+    O DR. ANTÓNIO MORGADO PINTO CARDOSO, DO CARGO DE SECRETÁRIO DE ESTADO DO EMPREGO E FORMAÇÃO PROFISSIONAL, PELO DECRETO
+    48-A/94, DE 28 DE JUNHO, DO PR, PUBLICADO NO D.IS-A, 147, 2SUPL.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-06-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:15:23Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +120,7 @@ validation:
 
 de 7 de Dezembro
 
-**O Presidente da República decreta, nos termos do artigo 136.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 136.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -135,12 +148,12 @@ O Dr. Luís Maria Viana Palha da Silva Secretário de Estado do Comércio;
 
 O Dr. Luís Maria de Barros Serra Marques Guedes Secretário de Estado Adjunto do Primeiro-Ministro.
 
-**Assinado em 7 de Dezembro de 1993.**
+Assinado em 7 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Dezembro de 1993.**
+Referendado em 7 de Dezembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

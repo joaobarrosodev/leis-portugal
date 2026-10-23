@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1069-1983-444397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T07:31:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf9eac24a3ffefdd4ce0340b2fcd6ed398327a36820504e956d7933214bb583e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 931483fd828ffaa50cb0613c38c3476e92b877d610c61e4b990d3b5256d62048
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:31:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Militar
+- Exército
+- Militar
+- Promoção Profissional
+- Regulamento
+- Regulamento para a Promoção aos Postos Inferiores do Exército
+relationships:
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656829:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:31:51Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +109,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, o se
 
 1.º O artigo 49.º do Regulamento para no Promoções aos Postos Inferiores do Exército, aprovado pela [Portaria n.º 6972](https://diariodarepublica.pt/dr/detalhe/portaria/6972-1930-656829), de 26 de Novembro de 1930, passa ter a seguinte redacção:
 
-###### Art. 49.º São promovidos, por diuturnidade, ao posto de primeiro-sargento miliciano os segundos-sargentos milicianos que estando na efectividade de serviço satisfaçam cumulativamente às seguintes condições:
+Art. 49.º São promovidos, por diuturnidade, ao posto de primeiro-sargento miliciano os segundos-sargentos milicianos que estando na efectividade de serviço satisfaçam cumulativamente às seguintes condições:
 
 a) Ter bom comportamento militar e civil e espírito militar;
 
@@ -113,6 +127,6 @@ e) Possuir o 9.º ano de escolaridade ou habilitação legalmente equivalente.
 
 Ministério da Defesa Nacional.
 
-**Assinada em 17 de Dezembro de 1983.**
+Assinada em 17 de Dezembro de 1983.
 
-**O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto.**
+O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto.

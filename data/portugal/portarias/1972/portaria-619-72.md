@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/619-1972-689979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d643d26cf8c5671f956b76066896805e765b90ec55363e90e9fb51b9cb57f0fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 960fdad3a020888c672ef5b8f372e5c1fe6ed05840da3a46c83677381eee71fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:147778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265113:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:48Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +97,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional e do 
 
 1. As designações do pessoal civil referidas no quadro orgânico da Manutenção Militar constante do mapa VI anexo ao [Decreto-Lei n.º 48566](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48566-1968-265113), de 3 de Setembro de 1968, são alteradas como seguidamente se indica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/10/24600/15261527.pdf))](https://files.diariodarepublica.pt/1s/1972/10/24600/15261527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/10/24600/15261527.pdf)
 
 2. Ao pessoal do quadro pertencente a categorias e classes a que pela presente equivalência corresponde mais de uma classe será atribuída pelo director da Manutenção Militar a classe julgada mais conveniente, mas de modo que o seu vencimento não seja inferior ao actual.
 

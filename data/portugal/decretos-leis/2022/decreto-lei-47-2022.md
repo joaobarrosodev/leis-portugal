@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/13300/0000600009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/47/2022/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2022-185971762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b4577fdd474635ef2d217b3a772beac05a8f57c0320699603dc4e5dd545dd66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a9bb091c3e0f323f2611d2303c4f9d1b41b0d097bb1354b3cffdada19dc11b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
 - Aproximação das Legislações
 - Beterraba
 - Catálogo Nacional de Variedades
 - Certificado Internacional
-- Organismo Geneticamente Modificado
 - Direção Geral de Alimentação e Veterinária
-- União Europeia
-- Etiquetagem
-- Proteção do Ambiente
 - Diversidade Biológica
-- Agricultor
+- Etiquetagem
+- Organismo Geneticamente Modificado
+- Produto Agrícola
+- Proteção do Ambiente
 - Recursos Genéticos
 - Regulamento
+- Regulamento Técnico da Comercialização de Sementes Pertencentes a Variedades em Fase de Inscrição Num Catálogo de Um Estado-Membro
 - Regulamento Técnico da Produção de Sementes de Espécies de Cereais
 - Regulamento Técnico da Produção de Sementes de Espécies Hortícolas
-- Regulamento Técnico da Produção e Comercialização de Sementes de Espécies Oleaginosas e Fibrosas
-- Semente
-- Produto Agrícola
 - Regulamento Técnico da Produção e Certificação de Sementes de Beterrabas
+- Regulamento Técnico da Produção e Comercialização de Sementes de Espécies Oleaginosas e Fibrosas
 - Regulamento Técnico das Etiquetas de Certificação de Lotes de Sementes
-- Regulamento Técnico da Comercialização de Sementes Pertencentes a Variedades em Fase de Inscrição Num Catálogo de Um Estado-Membro
+- Semente
+- União Europeia
 relationships:
 - type: cites
   target: celex:31966L0401
@@ -164,16 +164,44 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/2
   label: null
   source: http://data.europa.eu/eli/dir/2
+- type: cites
+  target: pt:dre:106825053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108125021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115487880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122242530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125468544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144010960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:22Z'
   warnings: []
   errors: []
 ---
@@ -240,7 +268,9 @@ Os artigos 15.º e 47.º do [Decreto-Lei n.º 42/2017](https://diariodarepublica
 
 5 - A DGAV pode autorizar uma variedade que tenha sido retirada do Catálogo Comum de um Estado-Membro desde que os critérios de inscrição continuem a ser mantidos e seja assegurada a sua seleção de manutenção.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -296,12 +326,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de junho de 2022. - Mariana Guimarães Vieira da Silva - João Titterington Gomes Cravinho - Fernando Medina Maciel Almeida Correia - António José da Costa Silva - Maria do Céu de Oliveira Antunes.
 
-**Promulgado em 5 de julho de 2022.**
+Promulgado em 5 de julho de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de julho de 2022.**
+Referendado em 6 de julho de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115492055

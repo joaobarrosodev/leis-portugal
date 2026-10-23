@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/02300/0065200656.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/21/2015/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2015-66414233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f554bdcfd2223cc5da3882ccb97b7139a9cd92ef94a17f686d6ec167c792f95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0e9b4ab5afb9a4be6503fef2ca8ab054a235b31d5a672f0890110c18d44b4eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão Coordenadora
-- Educação
+- Conselho Nacional de Educação
 - Criação de Serviços
 - Definição de Competências
-- Ministério da Educação e Ciência
+- Educação
 - Lei de Bases
 - Mandato
-- Conselho Nacional de Educação
+- Ministério da Educação e Ciência
 - Orgânica
 - Política de Educação
 - Presidente
@@ -83,6 +83,40 @@ relationships:
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:72909765:por
+  label: Determinado que o Conselho Nacional de Educação é um órgão independente com funções consultivas comuns ao Ministro
+    da Ciência, Tecnologia e Ensino Superior e ao Ministro da Educação pelo(a) Decreto-Lei n.º 251-A/2015 - Diário da República
+    n.º 246/2015, 1º Suplemento, Série I de 2015-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-2015-72909765
+  date: '2015-12-17'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que o Conselho Nacional de Educação, com orgânica aprovada pelo presente diploma,
+    é um órgão independente com funções consultivas comuns ao Ministro da Ciência, Tecnologia e Ensino Superior e ao Ministro
+    da Educação pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a 30.03.2022, que o Conselho Nacional de Educação é um órgão independente com funções consultivas
+    comuns à Ministra da Ciência, Tecnologia e Ensino Superior e ao Ministro da Educação pelo(a) Decreto-Lei n.º 32/2022 -
+    Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que o Conselho Nacional de Educação é um órgão consultivo do Ministro
+    da Educação, Ciência e Inovação pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que o Conselho Nacional de Educação é um órgão consultivo do Ministro
+    da Educação, Ciência e Inovação pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República n.º 142/2025, Suplemento, Série
+    I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/102/2013/07/25/p/dre
   label: null
@@ -106,13 +140,13 @@ relationships:
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:24Z'
   warnings: []
   errors: []
 ---
@@ -481,12 +515,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de dezembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Maria de Barros Serra Marques Guedes - Manuel Castro Almeida - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado 23 de janeiro de 2015.**
+Promulgado 23 de janeiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de janeiro de 2015.**
+Referendado em 27 de janeiro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

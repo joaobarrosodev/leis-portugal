@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/11/277b00/66376641.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/41/1993/11/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1993-681671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:21:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 243bca08e589098c606e4d274922bf332e8887e58bdef3712d18fdcd16abc431
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54b7e129f7d3e5e35cb2db53efd0ee826c3dfb6672aac271a99d2c9579fd4630
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:21:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Instituto da Vinha e do Vinho
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:476876:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476876:por
+  label: "Totalmente revogado pelo DEC LEI.99/97.1997.04.26.MADRP, DR.IS-A [97]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-1997-476876
+  date: '1997-04-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/102/1993/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/102/1993/04/02/p/dre
+- type: cites
+  target: pt:dre:498143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680644:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:460999:por
+  label: "Revogada a al. c) do nº 2 do art. 7.º pelo DEC LEI.331-B/95.1995.12.22.MF, DR.IS-A [294]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/331-b-1995-460999
+  date: '1995-12-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:21:12Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +125,7 @@ Ao abrigo do disposto no artigo 24.º do [Decreto-Lei n.º 102/93](https://diari
 
 ### CAPÍTULO I — Serviços
 
-###### Artigo 1.º Para a prossecução das atribuições e competências que lhe foram determinadas dispõe o Instituto da Vinha e do Vinho (IVV) dos seguintes serviços:
+Artigo 1.º Para a prossecução das atribuições e competências que lhe foram determinadas dispõe o Instituto da Vinha e do Vinho (IVV) dos seguintes serviços:
 
 a) Direcção de Serviços de Administração;
 
@@ -121,7 +139,7 @@ e) Divisão Jurídica e de Contencioso;
 
 f) Divisão de Inspecção e Controlos.
 
-###### Art. 2.º - 1 - A Direcção de Serviços de Administração visa promover e assegurar a administração dos recursos humanos, financeiros e patrimoniais e garantir a operacionalidade e coordenação dos meios informáticos de apoio às actividades dos órgãos e serviços do IVV.
+Art. 2.º - 1 - A Direcção de Serviços de Administração visa promover e assegurar a administração dos recursos humanos, financeiros e patrimoniais e garantir a operacionalidade e coordenação dos meios informáticos de apoio às actividades dos órgãos e serviços do IVV.
 
 2 - A Direcção de Serviços de Administração compreende as seguintes unidades orgânicas:
 
@@ -221,7 +239,7 @@ d) Participar na elaboração de cadernos de encargos, selecção, aquisição, 
 
 14 - O Centro de Informática é coordenado por um funcionário, pertencente a uma das carreiras de informática integradas no grupo de pessoal técnico superior, designado pelo conselho directivo.
 
-###### Art. 3.º - 1 - A Direcção de Serviços de Promoção e Apoio ao Sector tem como objectivos a promoção dos produtos vínicos e seus derivados, tanto no mercado interno como no externo, apoiar a constituição e o funcionamento das organizações profissionais e interprofissionais ligadas ao sector vitivinícola, bem como gerir e coordenar as acções atribuídas ao IVV nas suas zonas de actuação.
+Art. 3.º - 1 - A Direcção de Serviços de Promoção e Apoio ao Sector tem como objectivos a promoção dos produtos vínicos e seus derivados, tanto no mercado interno como no externo, apoiar a constituição e o funcionamento das organizações profissionais e interprofissionais ligadas ao sector vitivinícola, bem como gerir e coordenar as acções atribuídas ao IVV nas suas zonas de actuação.
 
 2 - A Direcção de Serviços de Promoção e Apoio ao Sector compreende as seguintes divisões:
 
@@ -267,7 +285,7 @@ e) Assegurar a boa ligação com os agentes económicos, prestando-lhes assistê
 
 6 - As zonas de actuação das Divisões de Controlo Operacional I, II e III serão definidas por deliberação do conselho directivo do IVV, de acordo com as necessidades e os níveis de controlo operacional.
 
-###### Art. 4.º - 1 - A Direcção de Serviços Vitivinícolas e Controlo de Qualidade tem como objectivos apoiar e controlar a execução da regulamentação relativa às estruturas vitivinícolas, proceder ao registo dos vitivinicultores e outros agentes económicos, bem como a implementação e gestão do Ficheiro Vitivinícola Nacional, assegurar a disciplina dos produtos de origem vínica e verificar a qualidade e legalidade dos produtos vínicos e seus derivados mediante análises físico-químicas e apreciação organoléptica.
+Art. 4.º - 1 - A Direcção de Serviços Vitivinícolas e Controlo de Qualidade tem como objectivos apoiar e controlar a execução da regulamentação relativa às estruturas vitivinícolas, proceder ao registo dos vitivinicultores e outros agentes económicos, bem como a implementação e gestão do Ficheiro Vitivinícola Nacional, assegurar a disciplina dos produtos de origem vínica e verificar a qualidade e legalidade dos produtos vínicos e seus derivados mediante análises físico-químicas e apreciação organoléptica.
 
 2 - A Direcção de Serviços Vitivinícolas e Controlo de Qualidade compreende as seguintes unidades orgânicas:
 
@@ -327,7 +345,7 @@ j) Promover, em colaboração com a Direcção de Serviços de Promoção e Apoi
 
 6 - Adstritas à Direcção de Serviços Vitivinícola e Controlo de Qualidade funcionam a Câmara de Provadores e a Junta de Recursos, que se regerão por normas internas emanadas do conselho directivo.
 
-###### Art. 5.º - 1 - A Direcção de Serviços dos Assuntos Comunitários tem como objectivos apoiar, coordenar e fazer respeitar o normativo comunitário relativo ao sistema de intervenções e saneamento do mercado, bem como assegurar as relações com os órgãos das comunidades europeias e promover os contactos com as organizações internacionais relevantes para o sector.
+Art. 5.º - 1 - A Direcção de Serviços dos Assuntos Comunitários tem como objectivos apoiar, coordenar e fazer respeitar o normativo comunitário relativo ao sistema de intervenções e saneamento do mercado, bem como assegurar as relações com os órgãos das comunidades europeias e promover os contactos com as organizações internacionais relevantes para o sector.
 
 2 - A Direcção de Serviços dos Assuntos Comunitários compreende as seguintes divisões:
 
@@ -347,7 +365,7 @@ d) Coordenar e dinamizar a inspecção das instalações dos produtores, destila
 
 e) Remeter à Direcção de Serviços de Administração os processos em relação aos quais haja necessidade de proceder ao pagamento dos montantes devidos.
 
-###### Art. 6.º - 1 - A Divisão Jurídica e de Contencioso tem como objectivos o apoio técnico-jurídico aos órgãos e serviços do IVV.
+Art. 6.º - 1 - A Divisão Jurídica e de Contencioso tem como objectivos o apoio técnico-jurídico aos órgãos e serviços do IVV.
 
 2 - À Divisão Jurídica e de Contencioso compete:
 
@@ -361,7 +379,7 @@ d) Dar apoio técnico-jurídico ao desempenho das actividades do IVV, nomeadamen
 
 e) Exercer o patrocínio judiciário nas acções com intervenção do IVV.
 
-###### Art. 7.º - 1 - A Divisão de Inspecção e Controlos tem como objectivos o apoio técnico nas áreas de inspecção, controlos e fiscalização, através da realização de auditorias, inquéritos e sindicâncias.
+Art. 7.º - 1 - A Divisão de Inspecção e Controlos tem como objectivos o apoio técnico nas áreas de inspecção, controlos e fiscalização, através da realização de auditorias, inquéritos e sindicâncias.
 
 2 - À Divisão de Inspecção e Controlos compete:
 
@@ -373,26 +391,26 @@ c) Fiscalizar a regularidade das operações financiadas pelo Fundo Europeu de O
 
 ### CAPÍTULO II — Pessoal
 
-###### Art. 8.º Os lugares de pessoal dirigente e de chefia do IVV são os constantes do mapa anexo ao presente diploma.
+Art. 8.º Os lugares de pessoal dirigente e de chefia do IVV são os constantes do mapa anexo ao presente diploma.
 
 ### CAPÍTULO III — Disposições finais
 
-###### Art. 9.º É revogado o [Decreto Regulamentar n.º 62/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/62-1987-498143), de 7 de Dezembro.
+Art. 9.º É revogado o [Decreto Regulamentar n.º 62/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/62-1987-498143), de 7 de Dezembro.
 
 Presidência do Conselho de Ministros, 2 de Agosto de 1993.
 
 Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís António Damásio Capoulas.
 
-**Promulgado em 11 de Novembro de 1993.**
+Promulgado em 11 de Novembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Novembro de 1993.**
+Referendado em 12 de Novembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo a que se refere o artigo 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/277b00/66376641.pdf))](https://files.diariodarepublica.pt/1s/1993/11/277b00/66376641.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/277b00/66376641.pdf)

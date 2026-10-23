@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22403-1966-488118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:24:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a12c89d3ead39fbb7ca8951ce7c3a1087b8d9e65c343cb4bb181b7a9dc318a60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b244d2ebe38eacddd1fc24f063bf82b389b83f26d03354b8063622078df57a0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:24:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:24:53Z'
   warnings: []
   errors: []
 ---
@@ -89,11 +89,11 @@ Ministério da Educação Nacional, 29 de Dezembro de 1966. - Pelo Ministro da E
 
 Regulamento do Prémio Escolar Escritor Ferreira de Castro
 
-###### Artigo 1.º É instituído, por iniciativa da Casa da Comarca de Oliveira de Azeméis, o Prémio Escolar Escritor Ferreira de Castro, com o fim de perpetuar o nome deste escritor na freguesia onde nasceu e viveu a sua infância, a atribuir em cada ano lectivo a dois alunos (um de cada sexo) entre os aprovados no exame da 4.ª classe do ensino primário concluído em qualquer das escolas ou postos escolares dos núcleos da freguesia de Ossela, concelho de Oliveira de Azeméis.
+Artigo 1.º É instituído, por iniciativa da Casa da Comarca de Oliveira de Azeméis, o Prémio Escolar Escritor Ferreira de Castro, com o fim de perpetuar o nome deste escritor na freguesia onde nasceu e viveu a sua infância, a atribuir em cada ano lectivo a dois alunos (um de cada sexo) entre os aprovados no exame da 4.ª classe do ensino primário concluído em qualquer das escolas ou postos escolares dos núcleos da freguesia de Ossela, concelho de Oliveira de Azeméis.
 
-###### Art. 2.º O fundo de manutenção do referido Prémio é constituído pelo produto do rendimento da importância de 10000$00, a converter em certificado de renda perpétua da Junta do Crédito Público, assentado à Direcção do Distrito Escolar de Aveiro.
+Art. 2.º O fundo de manutenção do referido Prémio é constituído pelo produto do rendimento da importância de 10000$00, a converter em certificado de renda perpétua da Junta do Crédito Público, assentado à Direcção do Distrito Escolar de Aveiro.
 
-###### Art. 3.º A escolha dos alunos a premiar será feita nas condições seguintes:
+Art. 3.º A escolha dos alunos a premiar será feita nas condições seguintes:
 
 a) Por cada estabelecimento do ensino primário será indicado um aluno e uma aluna escolhidos entre os aprovados no exame da 4.ª classe do ensino primário que mais se tenham distinguido por qualidades morais, assiduidade às aulas, aplicação ao estudo e dotes intelectuais;
 
@@ -105,6 +105,6 @@ d) A cada um dos alunos propostos será atribuído, em partes iguais, o rendimen
 
 e) A distribuição dos prémios far-se-á anualmente no mês de Outubro, logo após o início do ano lectivo e de preferência num domingo, numa das salas de aula do edifício escolar de Ossela (núcleo de Santo António), em sessão presidida pelo director do distrito escolar de Aveiro, ou por um seu representante, na presença de professores e alunos e das autoridades convidadas para o efeito, em que se enalteça o significado do Prémio e se dê o devido relevo à ideia que presidiu à sua instituição.
 
-###### Art. 4.º Os alunos que não comparecerem no dia designado para a distribuição dos prémios, nem os reclamem no decorrer desse ano escolar, perderão o direito aos mesmos em benefício das caixas escolares respectivas.
+Art. 4.º Os alunos que não comparecerem no dia designado para a distribuição dos prémios, nem os reclamem no decorrer desse ano escolar, perderão o direito aos mesmos em benefício das caixas escolares respectivas.
 
 Direcção-Geral do Ensino Primário, 29 de Dezembro de 1966. - O Director-Geral, José Gomes Branco.

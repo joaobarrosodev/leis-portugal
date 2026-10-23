@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/07/13200/0358903592.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/140/2012/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2012-179563
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b23942aa165af6be691a634cc551dce25e55221524d28c4e53171e79553f83c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d23211aa1a7977ecec4de5df59839d093789f9b99289b86fbfb60e6998fef04a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigador
 - Definição de Competências
-- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
 - Diretor
-- Secretaria Geral
 - Gabinete de Prevenção e de Investigação de Acidentes Marítimos
+- Investigador
+- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
 - Orgânica
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:70686130:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570704:por
+  label: "Determinada a reestruturação do Gabinete de Prevenção e Investigação de Acidentes Marítimos, cuja orgânica e atribuições\
+    \ constam do presente diploma, que passa a designar-se Gabinete de Investigação de Acidentes Marítimos e da Autoridade\
+    \ para a Meteorologia Aeronáutica, pelo DEC LEI.18/2014.04.02.2014.MAGM, DR.IS [24] de 04.02.2014 nos termos dos arts.\
+    \ 25.º e 28.º deste\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2014-570704
+  date: '2014-02-04'
 - type: cites
   target: celex:32009L0018
   label: null
@@ -85,16 +93,23 @@ relationships:
   target: celex:32011R1286
   label: null
   source: http://data.europa.eu/eli/reg/2011/1286/oj
+- type: repealed_by
+  target: pt:dre:70686130:por
+  label: Revogado pelo(a) Decreto-Lei n.º 236/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14, que determina
+    que o GAMA sucede nas atribuições do Gabinete de Prevenção e de Investigação de Acidentes Marítimos (GPIAM), no âmbito
+    das funções de investigação técnica de acidentes e incidentes marítimos
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/236-2015-70686130
+  date: '2015-10-14'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:55Z'
   warnings: []
   errors: []
 ---
@@ -265,13 +280,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de janeiro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Luís Miguel Gubert Morais Leitão - Paulo Frederico Agostinho Braga Lino - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 26 de junho de 2012.**
+Promulgado em 26 de junho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de junho de 2012.**
+Referendado em 28 de junho de 2012.
 
 Pelo Primeiro-Ministro, Vítor Louçã Rabaça Gaspar, Ministro de Estado e das Finanças.
 

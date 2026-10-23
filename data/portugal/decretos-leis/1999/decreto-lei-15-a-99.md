@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 15/1999, 1º Suplemento, Série I-A de 1999-01-19
   number: '15'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 320-(2) a 320-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/015a01/00020003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/15-a/1999/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6028e5dccfa9e6d69779543af442cc4355ea1c75e73f18869027ca035bf9a66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68cff9d2fcb9daea666106a73efe2a1dc37f9f00e4182f2c3067f0a1839fe6a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,23 @@ reuse:
 subjects:
 - Colocação de Professores
 - Concurso
-- Educador de Infância
-- Pessoal Docente
-- Ensino Básico
-- Quadro de Pessoal
 - Educação Pré-escolar
+- Educador de Infância
+- Ensino Básico
+- Pessoal Docente
+- Quadro de Pessoal
 - ZONA Pedagógica
 relationships:
 - type: amended_by
   target: pt:dre:72909748:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:301017:por
+  label: "Alterados os arts. 14º e 42º do Dec Lei 287/88 de 19-Ago, na redacção dada pelo presente diploma, pelo DEC LEI.127/2000.2000.07.06.ME,DR.IS-A\
+    \ [154]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-2000-301017
+  date: '2000-07-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1996/03/08/p/dre
   label: null
@@ -88,16 +94,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/384/1993/11/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/384/1993/11/18/p/dre
+- type: cites
+  target: pt:dre:380135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676429:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:534604:por
+  label: "Revogada a al. d) do art. 5º do Dec Lei 384/93, de 18-Nov, na redacção pelo Dec Lei 16/96, de 08-Mar e pelo resesente\
+    \ diploma, pelo DEC LEI.5-A/2001.2001.01.12.ME, DR.IS-A [10]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-a-2001-534604
+  date: '2001-01-12'
 article_structure:
-  article_count: 9
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:30Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +176,9 @@ d) ...
 
 2 - Podem, ainda, ser opositores ao mesmo concurso, para efeitos de transição de nível de docência, os educadores de infância e os professores do 1.º ciclo do ensino básico, que pertençam aos quadros referidos no n.º 2 do artigo 1.º, desde que possuam habilitação profissional ou própria para o nível e para o grau de ensino e grupo de docência a que se candidatam e tenham sido colocados, nos dois últimos anos lectivos, em regime de destacamento, no referido nível e grau de ensino.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -162,13 +200,17 @@ Os artigos 1.º, 3.º, 16.º, 19.º e 21.º do [Decreto-Lei n.º 287/88](https:/
 
 O presente diploma contém as normas orientadoras da profissionalização em serviço que se aplicam aos professores dos 2.º e 3.º ciclos do ensino básico e do ensino secundário pertencentes aos quadros com nomeação provisória, previstos no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, e no [Decreto-Lei n.º 384/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1993-676429), de 18 de Novembro, com a redacção dada pelo [Decreto-Lei n.º 16/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1996-621296), de 8 de Março.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - As listas por grupo, subgrupo, disciplina ou especialidade, organizadas de acordo com o estabelecido no artigo anterior, serão anualmente actualizadas em resultado das colocações de professores do quadro com nomeação provisória, operadas pela primeira parte do concurso a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, e do concurso para os quadros de zona pedagógica, ao abrigo do [Decreto-Lei n.º 384/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1993-676429), de 18 de Novembro, com a redacção dada pelo [Decreto-Lei n.º 16/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1996-621296), de 8 de Março.
 
 2 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -184,7 +226,9 @@ O presente diploma contém as normas orientadoras da profissionalização em ser
 
 7 - Para efeitos do disposto nos números anteriores, no final de cada ano escolar, os estabelecimentos de educação e ensino devem comunicar ao departamento central com competência na gestão dos recursos educativos, acompanhadas dos necessários comprovativos médicos, as referidas situações de incapacidade de que tenham sofrido docentes de nomeação provisória, bem como a data do respectivo início e termo.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -198,7 +242,9 @@ O presente diploma contém as normas orientadoras da profissionalização em ser
 
 6 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -216,12 +262,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, sem pr
 
 Visto e aprovado em Conselho de Ministros de 8 de Janeiro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Guilherme d'Oliveira Martins.
 
-**Promulgado em 18 de Janeiro de 1999.**
+Promulgado em 18 de Janeiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Janeiro de 1999.**
+Referendado em 19 de Janeiro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

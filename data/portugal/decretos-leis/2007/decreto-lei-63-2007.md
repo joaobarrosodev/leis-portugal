@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/63/2007/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2007-518429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78e99770c4c4b8448f9188c17816ba4f82cd81208160518a4fa784426a0c33b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d2430206b7637d273bf4d429b74a9aa94bc7889e9f00cd8315b5d1a9071af48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
+- Alimento para Animais
 - Aproximação das Legislações
 - Controlo de Qualidade
 - Controlo Sanitário
-- Alimento para Animais
+- Produto Químico
 relationships:
 - type: cites
   target: celex:32002D0657
@@ -86,15 +86,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2005/7/oj
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:10Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +145,7 @@ As presentes disposições em matéria de interpretação são aplicáveis ao re
 
 (nota *) Quadro de PCB sob a forma de dioxina.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05200/16021604.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05200/16021604.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05200/16021604.pdf)
 
 2 - O anexo II do Decreto-Lei n.º 33/2004, de 7 de Fevereiro, passa a ter a seguinte redacção:
 
@@ -179,18 +179,20 @@ As presentes disposições em matéria de interpretação são aplicáveis ao re
 
 8 - ...»
 
-###### Artigo 3.º — Entrada em vigor
+Artigo 3.º
+
+Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa. - António Fernandes da Silva Braga - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 26 de Fevereiro de 2007.**
+Promulgado em 26 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 1 de Março de 2007.**
+Referendado em 1 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/36/1997/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-1997-659296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:24:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71837a022d8b818280e931e9dfd768b16841c479764c81b74f9212e881c28116
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d1c012b41c441e2204386fda94ff811754cea635807030132455c7c30e55400
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:24:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
 - Contra-ordenação
 - Controlo de Qualidade
 - Especificação Técnica
 - Estabelecimento Hoteleiro
 - Indústria Hoteleira
+- Infraestrutura Turística
 - Proteção do Consumidor
 - Qualidade do Produto
-- Infraestrutura Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:247248:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:434406:por
+  label: "Alterados os arts. 1.º, 5.º, 6.º, 8.º, 12.º, a 15.º, 20.º, 24.º, 25.º, 28.º, 30.º, 35.º, 36.º, 38.º, 43.º, 44.º,\
+    \ 46.º e 47.º e os anexos I a V e republica com as devidas alterações pelo presente diploma, pelo DR.16/99.1999.08.18.MECO\
+    \ DR.IS-B [192]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/16-1999-434406
+  date: '1999-08-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/167/1997/07/04/p/dre
   label: null
@@ -87,16 +94,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/5/1997/03/31/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/5/1997/03/31/p/dre
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527662:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247248:por
+  label: "Revogado, com as alterações introduzidas pelo DR 16/99 de 18-Ago (revogado nos mesmos termos), pelo DEC LEI.39/2008.07.03.2008.MEI,\
+    \ DR.IS [48] de 07.03.2008, com a entrada em vigor das portarias nele previstas \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2008-247248
+  date: '2008-03-07'
 article_structure:
   article_count: 52
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:24:28Z'
   warnings: []
   errors: []
 ---
@@ -433,7 +462,9 @@ Os hotéis-apartamentos classificam-se, atendendo à sua localização, à quali
 
 As disposições do presente capítulo são aplicáveis aos hotéis-apartamentos cujas fracções imobiliárias sejam propriedade de pessoas diversas.
 
-###### Artigo 32.º — Título constitutivo
+###### Artigo 32.º
+
+## Título constitutivo
 
 No caso dos hotéis-apartamentos referidos no artigo anterior deve ser elaborado um título constitutivo da sua composição.
 
@@ -641,32 +672,32 @@ Presidência do Conselho de Ministros, 15 de Maio de 1997.
 
 António Manuel de Carvalho Ferreira Vitorino - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - Augusto Carlos Serra Ventura Mateus - Maria de Belém Roseira Martins Coelho Henriques de Pina - Manuel Maria Ferreira Carrilho.
 
-**Promulgado em 4 de Setembro de 1997.**
+Promulgado em 4 de Setembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Setembro de 1997.**
+Referendado em 10 de Setembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Tabela que estabelece os requisitos mínimos das instalações e de funcionamento dos hotéis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/222b00/52795296.pdf))](https://files.diariodarepublica.pt/1s/1997/09/222b00/52795296.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/222b00/52795296.pdf)
 
 ## ANEXO II — Tabela que estabelece os requisitos mínimos das instalações e de funcionamento dos hotéis-apartamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/222b00/52795296.pdf))](https://files.diariodarepublica.pt/1s/1997/09/222b00/52795296.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/222b00/52795296.pdf)
 
 ## ANEXO III — Tabela que estabelece os requisitos mínimos das instalações e de funcionamento das pensões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/222b00/52795296.pdf))](https://files.diariodarepublica.pt/1s/1997/09/222b00/52795296.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/222b00/52795296.pdf)
 
 ## ANEXO IV — Tabela que estabelece os requisitos mínimos das instalações e de funcionamento das estalagens
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/222b00/52795296.pdf))](https://files.diariodarepublica.pt/1s/1997/09/222b00/52795296.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/222b00/52795296.pdf)
 
 ## ANEXO V — Tabela que estabelece os requisitos mínimos das instalações e de funcionamento dos motéis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/222b00/52795296.pdf))](https://files.diariodarepublica.pt/1s/1997/09/222b00/52795296.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/222b00/52795296.pdf)

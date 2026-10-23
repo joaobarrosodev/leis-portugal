@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 238/2004, 1º Suplemento, Série I-A de 2004-10-09
   number: '238'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6254-(2) a 6254-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/10/238a01/00020004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/217-b/2004/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-b-2004-522977
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b59b7a746fe292db431b7695de556056bc1df236f01636ad5a999872d7195c28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95d5f8866ad120debaab790a68b573a8a8a74d133312fba627dd945710dc7f7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,37 +65,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Agência Portuguesa de Segurança Alimentar
+- Alimentação
 - Autonomia Administrativa
 - Contrato Individual de Trabalho
-- Lisboa
+- Informação do Consumidor
 - Instituto Público
+- Lisboa
+- Ministro da Presidência
 - Orgânica
 - Política Alimentar
-- Informação do Consumidor
-- Alimentação
+- Produto Alimentar
 - Proteção do Consumidor
-- Ministro da Presidência
-- Agência Portuguesa de Segurança Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:473500:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para o Ministério da Economia e da Inovação da Agência (integrada na Presidência do Conselho\
+    \ de Ministros), criada no presente diploma, pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
 - type: cites
   target: celex:32002R0178
   label: null
   source: http://data.europa.eu/eli/reg/2002/178/oj
+- type: repealed_by
+  target: pt:dre:473500:por
+  label: "Revogado e extinta a Agência Portuguesa se Segurança Alimentar cuja orgânica foi aprovada pelo presente diploma,\
+    \ pelo DEC LEI.237/2005.30.12.2005.MEI, DR.IS-A [250] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-2005-473500
+  date: '2005-12-30'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:28Z'
   warnings: []
   errors: []
 ---
@@ -250,12 +262,12 @@ São revogados os Decretos-Leis n.os 180/2000, de 10 de Agosto, 82/2001, de 9 de
 
 Visto e aprovado em Conselho de Ministros de 2 de Setembro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - Nuno Albuquerque Morais Sarmento - António José de Castro Bagão Félix - Carlos Henrique da Costa Neves - Maria da Graça Martins da Silva Carvalho - Luís Filipe da Conceição Pereira - Henrique José Monteiro Chaves.
 
-**Promulgado em 7 de Outubro de 2004.**
+Promulgado em 7 de Outubro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Outubro de 2004.**
+Referendado em 7 de Outubro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

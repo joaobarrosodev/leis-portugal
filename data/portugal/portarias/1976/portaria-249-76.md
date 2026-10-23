@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/09200/08300832.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/249-1976-502203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T04:59:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf2d43e6c8d67c165154d88eb9d2155658f6ed6ab93194130ae8fa296ebfd696
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2ad0df878c46339a32b5547ff8755f7521f4723ae801a5003eeac54f4984bfe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:59:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Concurso Público
+- Licença de Aluguer
+- Licença de Transporte
+- Programa
+- Transporte de Passageiros
+- Veículo de Aluguer
 relationships:
 - type: amended_by
   target: pt:dre:382823:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:281818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507064:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:382823:por
+  label: "Revogado o presente diploma, pela PORT.149/79.04.04.1979.MTC, DR.IS [79] de 04.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/149-1979-382823
+  date: '1979-04-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:59:56Z'
   warnings: []
   errors: []
 ---
@@ -230,4 +254,4 @@ A Direcção ...
 
 (nota a) Deverá, igualmente, ser indicado o tempo de inscrição noutro ou noutros sindicatos, se for caso disso.
 
-**O Secretário de Estado dos Transportes e Comunicações, António Machado Rodrigues.**
+O Secretário de Estado dos Transportes e Comunicações, António Machado Rodrigues.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 299/1979, 16º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 16º Suplemento
+  supplement: null
   pages: 3446-(322) a 3446-(326)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29916/03220326.pdf
 entry_into_force_dates: []
@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-h-1979-156831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6b7a4dd0f8ba2c73be6e48abef228416834af01abc92b1802c0daf4d6772218
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03df53d93f98070c977779bf6fcb4a06844aebc2842a13f082accc7fa228a1fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Administrativo
+- Conselho Consultivo
+- Definição de Competências
+- Direcção Geral da Administração das Pescas
+- Orgânica
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:281266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365284:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:15Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +104,11 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - A Direcção-Geral da Administração das Pescas, abreviadamente designada por DGAP, criada pelo artigo 1.º do [Decreto-Lei n.º 411/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1979-365284), de 28 de Setembro, é um organismo cuja actividade se exerce no âmbito da administração geral das pescas.
+Artigo 1.º - 1 - A Direcção-Geral da Administração das Pescas, abreviadamente designada por DGAP, criada pelo artigo 1.º do [Decreto-Lei n.º 411/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1979-365284), de 28 de Setembro, é um organismo cuja actividade se exerce no âmbito da administração geral das pescas.
 
 2 - As atribuições da DGAP são as constantes do artigo 3.º do [Decreto-Lei n.º 411/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1979-365284), de 28 de Setembro, e quaisquer outras que lhe sejam cometidas por lei.
 
-###### Art. 2.º - 1 - A DGAP é um organismo dotado de autonomia administrativa.
+Art. 2.º - 1 - A DGAP é um organismo dotado de autonomia administrativa.
 
 2 - Constituem receitas próprias da DGAP:
 
@@ -110,19 +124,19 @@ d) Quaisquer outras receitas que lhe sejam atribuídas por lei ou contrato.
 
 4 - Os saldos das dotações não utilizadas serão transferidos para o ano económico subsequente.
 
-###### Art. 3.º A DGAP é dirigida por um director-geral, coadjuvado por um subdirector-geral, que o substituirá nas suas ausências e impedimentos.
+Art. 3.º A DGAP é dirigida por um director-geral, coadjuvado por um subdirector-geral, que o substituirá nas suas ausências e impedimentos.
 
 ### CAPÍTULO II — Organização e funcionamento
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 4.º São órgãos da DGAP:
+Art. 4.º São órgãos da DGAP:
 
 a) O conselho consultivo do pessoal das pescas;
 
 b) O conselho administrativo.
 
-###### Art. 5.º - 1 - O conselho consultivo do pessoal das pescas é um órgão de consulta e apoio ao director-geral, por ele presidido.
+Art. 5.º - 1 - O conselho consultivo do pessoal das pescas é um órgão de consulta e apoio ao director-geral, por ele presidido.
 
 2 - O conselho consultivo do pessoal das pescas é constituído pelos seguintes membros:
 
@@ -156,7 +170,7 @@ l) Um representante do Sindicato dos Motoristas.
 
 5 - O conselho consultivo do pessoal das pescas funcionará em conformidade com o regulamento interno a aprovar por despacho do Secretário de Estado das Pescas.
 
-###### Art. 6.º - 1 - Ao conselho consultivo do pessoal das pescas compete emitir parecer sobre:
+Art. 6.º - 1 - Ao conselho consultivo do pessoal das pescas compete emitir parecer sobre:
 
 a) A regulamentação da inscrição marítima;
 
@@ -186,11 +200,11 @@ b) Elaborar as actas das reuniões e desenvolver as acções delas resultantes;
 
 c) Assegurar o arquivo e o expediente do conselho.
 
-###### Art. 7.º - 1 - O conselho consultivo do pessoal das pescas funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente.
+Art. 7.º - 1 - O conselho consultivo do pessoal das pescas funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente.
 
 2 - Os assuntos submetidos a apreciação do conselho consultivo são resolvidos por maioria simples dos membros presentes, tendo o presidente voto de qualidade.
 
-###### Art. 8.º - 1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira, constituído pelos seguintes membros:
+Art. 8.º - 1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira, constituído pelos seguintes membros:
 
 a) Director-geral da DGAP, que presidirá;
 
@@ -200,7 +214,7 @@ c) Chefe da Repartição de Administração.
 
 2 - Servirá de secretário o chefe da Secção de Administração Patrimonial e Financeira.
 
-###### Art. 9.º - Compete ao conselho administrativo:
+Art. 9.º - Compete ao conselho administrativo:
 
 a) Elaborar o projecto de orçamento da DGAP de conta das dotações consignadas no Orçamento Geral do Estado e propor as alterações orçamentais consideradas necessárias;
 
@@ -234,7 +248,7 @@ c) Submeter à apreciação do conselho todos os assuntos que entenda convenient
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 10.º A DGAP dispõe dos seguintes serviços:
+Art. 10.º A DGAP dispõe dos seguintes serviços:
 
 A) Serviços de apoio:
 
@@ -250,7 +264,7 @@ b) A Direcção de Serviços do Pessoal das Pescas;
 
 c) A Direcção de Serviços de Formação Profissional.
 
-###### Art. 11.º O Centro de Documentação e Informação é orientado por um técnico superior, competindo-lhe, em colaboração com o correspondente serviço central do Ministério da Agricultura e Pescas:
+Art. 11.º O Centro de Documentação e Informação é orientado por um técnico superior, competindo-lhe, em colaboração com o correspondente serviço central do Ministério da Agricultura e Pescas:
 
 a) Organizar e gerir a biblioteca da DGAP;
 
@@ -266,7 +280,7 @@ f) Assegurar a edição e divulgação de trabalhos de natureza técnica de inte
 
 g) Colaborar na organização e participação da DGAP em feiras e exposições.
 
-###### Art. 12.º - 1 - A Repartição de Administração exerce as suas atribuições nos domínios de administração financeira e patrimonial e de pessoal, expediente e arquivo.
+Art. 12.º - 1 - A Repartição de Administração exerce as suas atribuições nos domínios de administração financeira e patrimonial e de pessoal, expediente e arquivo.
 
 2 - A Repartição de Administração assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
@@ -276,7 +290,7 @@ a) Administração Patrimonial e Financeira;
 
 b) Pessoal e Expediente.
 
-###### Art. 13.º À Secção de Administração Patrimonial e Financeira, compete:
+Art. 13.º À Secção de Administração Patrimonial e Financeira, compete:
 
 a) Organizar e manter actualizado o inventário da DGAP respeitante a edifícios e outras instalações, maquinaria e equipamento, material de transporte e demais bens de capital;
 
@@ -308,7 +322,7 @@ o) Manter organizado o arquivo de toda a documentação das gerências findas;
 
 p) Fiscalizar o movimento de tesouraria, efectuando mensalmente o seu balanço.
 
-###### Art. 14.º Adstrita à secção de Administração Patrimonial e Financeira funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
+Art. 14.º Adstrita à secção de Administração Patrimonial e Financeira funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
 
 a) Arrecadar todas as receitas pertencentes à DGAP;
 
@@ -316,7 +330,7 @@ b) Efectuar o pagamento de todas as despesas devidamente autorizadas;
 
 c) Manter devidamente escriturados todos os livros de tesouraria.
 
-###### Art. 15.º À Secção de Pessoal e Expediente compete:
+Art. 15.º À Secção de Pessoal e Expediente compete:
 
 a) Elaborar e manter actualizado o cadastro de todo o pessoal da DGAP;
 
@@ -336,7 +350,7 @@ h) Elaborar directivas sobre processamento e arquivo de correspondência e promo
 
 i) Assegurar uma adequada circulação de documentos e normas pelos diversos serviços da DGAP.
 
-###### Art. 16.º - 1 - A Direcção de Serviços de Produção e Infra-Estruturas tem como atribuições a promoção das acções regulamentadoras da gestão, licenciamento e fiscalização dos recursos vivos e salmos, a regulamentação sobre embarcações, artes e infra-estruturas de pesca e o estudo de novos tipos de embarcações e artes de pesca.
+Art. 16.º - 1 - A Direcção de Serviços de Produção e Infra-Estruturas tem como atribuições a promoção das acções regulamentadoras da gestão, licenciamento e fiscalização dos recursos vivos e salmos, a regulamentação sobre embarcações, artes e infra-estruturas de pesca e o estudo de novos tipos de embarcações e artes de pesca.
 
 2 - A Direcção de Serviços de Produção e Infra-Estruturas é dirigida por um director de serviços e compreende as seguintes divisões:
 
@@ -346,7 +360,7 @@ b) Navios, Artes de Pesca e Infra-Estruturas;
 
 c) Sal, Apanha e Cultura Marinhas.
 
-###### Art. 17.º À Divisão de Pescas Marítimas e Estuarinas compete:
+Art. 17.º À Divisão de Pescas Marítimas e Estuarinas compete:
 
 a) Estudar e informar assuntos do domínio marítimo no âmbito da competência da Secretaria de Estado das Pescas;
 
@@ -358,7 +372,7 @@ d) Colaborar na protecção e conservação do meio hídrico nos seus múltiplos
 
 e) Manter actualizados, para efeitos de consulta e gestão, os elementos sobre frotas, suas características e apetrechamento, artes de pesca e armadores.
 
-###### Art. 18.º À Divisão de Navios, Artes de Pesca e Infra-Estruturas compete:
+Art. 18.º À Divisão de Navios, Artes de Pesca e Infra-Estruturas compete:
 
 a) Elaborar normas e regulamentos contendo as especificações respeitantes a navios, equipamentos e artes de pesca, assegurando a sua posterior divulgação e cumprimento;
 
@@ -368,7 +382,7 @@ c) Proceder a estudos, em colaboração com outros departamentos oficiais, nomea
 
 d) Dar parecer quanto à construção, beneficiação e remodelação de infra-estruturas e serviços necessários a uma maior eficácia do sector.
 
-###### Art. 19.º À Divisão do Sal, Apanha e Cultura Marinhas compete:
+Art. 19.º À Divisão do Sal, Apanha e Cultura Marinhas compete:
 
 a) Coordenar, licenciar, fiscalizar e disciplinar as actividades salineiras, estabelecendo, sempre que conveniente, regulamentos relativos à exploração e utilização dos respectivos recursos;
 
@@ -384,7 +398,7 @@ f) Colaborar com outros organismos oficiais na elaboração de pareceres técnic
 
 g) Licenciar e fiscalizar as actividades relacionadas com a cultura de crustáceos nomeadamente no que se refere aos viveiros.
 
-###### Art. 20.º - 1 - A Direcção de Serviços do Pessoal das Pescas tem como atribuições a definição das normas de gestão do pessoal inscrito marítimo do sector das pescas nos aspectos relacionados com o contrôle da sua inscrição, actividade profissional e segurança no trabalho e o apoio ao desenvolvimento da cooperatividade de inscritos marítimos no sector.
+Art. 20.º - 1 - A Direcção de Serviços do Pessoal das Pescas tem como atribuições a definição das normas de gestão do pessoal inscrito marítimo do sector das pescas nos aspectos relacionados com o contrôle da sua inscrição, actividade profissional e segurança no trabalho e o apoio ao desenvolvimento da cooperatividade de inscritos marítimos no sector.
 
 2 - A Direcção de Serviços do Pessoal das Pescas é dirigida por um director de serviços e compreende as seguintes divisões:
 
@@ -394,7 +408,7 @@ b) Segurança e Regulamentação do Trabalho;
 
 c) Apoio às Cooperativas.
 
-###### Art. 21.º À Divisão de Inscrição e Registo do pessoal compete:
+Art. 21.º À Divisão de Inscrição e Registo do pessoal compete:
 
 a) Elaborar normas e regulamentos sobre habilitações, qualificações e categorias profissionais;
 
@@ -410,7 +424,7 @@ f) Manter devidamente actualizados os registos de inscrição e actividade do pe
 
 g) Coligir todos os elementos estatísticos referentes ao pessoal do sector.
 
-###### Art. 22.º À Divisão de Segurança e Regulamentação do Trabalho compete:
+Art. 22.º À Divisão de Segurança e Regulamentação do Trabalho compete:
 
 a) Informar sobre condições de vida, saúde e trabalho do pessoal no exercício da actividade;
 
@@ -422,7 +436,7 @@ d) Colaborar na elaboração de normas sobre o combate à poluição marítima e
 
 e) Elaborar normas de segurança no trabalho a bordo de embarcações.
 
-###### Art. 23.º À Divisão de Apoio às Cooperativas compete:
+Art. 23.º À Divisão de Apoio às Cooperativas compete:
 
 a) Apoiar e assistir a projectos cooperativistas nas comunidades piscatórias;
 
@@ -432,7 +446,7 @@ c) Apoiar e propor todas as acções conducentes à formação dos cooperantes p
 
 d) Colaborar com as entidades competentes, designadamente o Instituto António Sérgio, nas formas mais adequadas ao desenvolvimento do cooperativismo do sector.
 
-###### Art. 24.º - 1 - A Direcção de Serviços de Formação Profissional tem como atribuições a promoção, a todos os níveis, da formação profissional do pessoal do sector e a administração das infra-estruturas escolares não autónomas.
+Art. 24.º - 1 - A Direcção de Serviços de Formação Profissional tem como atribuições a promoção, a todos os níveis, da formação profissional do pessoal do sector e a administração das infra-estruturas escolares não autónomas.
 
 2 - A Direcção de Serviços de Formação Profissional é dirigida por um director de serviços e compreende as seguintes divisões:
 
@@ -440,7 +454,7 @@ a) Estudos e Programas de Cursos;
 
 b) Infra-Estruturas Escolares.
 
-###### Art. 25.º À Divisão de Estudos e Programas de Cursos compete:
+Art. 25.º À Divisão de Estudos e Programas de Cursos compete:
 
 a) Promover, a todos os níveis, a formação profissional do pessoal do sector;
 
@@ -452,7 +466,7 @@ d) Promover, em colaboração com o Instituto Nacional de Investigação das Pes
 
 d) Propor e dar parecer sobre a criação de estabelecimentos de ensino do sector.
 
-###### Art. 26.º À Divisão de Infra-Estruturas Escolares compete:
+Art. 26.º À Divisão de Infra-Estruturas Escolares compete:
 
 a) A instalação das escolas e de outras infra-estruturas de interesse para a formação profissional dos trabalhadores do sector;
 
@@ -460,40 +474,40 @@ b) Assegurar a administração de escolas e outras infra-estruturas que não sej
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 27.º A DGAP, para o desempenho das suas atribuições, dispõe do contingente de pessoal dirigente e do pessoal dos quadros únicos constante do mapa anexo ao presente diploma.
+Art. 27.º A DGAP, para o desempenho das suas atribuições, dispõe do contingente de pessoal dirigente e do pessoal dos quadros únicos constante do mapa anexo ao presente diploma.
 
-###### Art. 28.º Os lugares dos quadros únicos cujos titulares forem providos em lugares de pessoal dirigente só poderão ser preenchidos interinamente e com observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro.
+Art. 28.º Os lugares dos quadros únicos cujos titulares forem providos em lugares de pessoal dirigente só poderão ser preenchidos interinamente e com observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro.
 
-###### Art. 29.º O tesoureiro terá direito a um abono para falhas de acordo com a lei geral.
+Art. 29.º O tesoureiro terá direito a um abono para falhas de acordo com a lei geral.
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### Art. 30.º - 1 - Mediante autorização ministerial, e sob proposta fundamentada do respectivo director-geral, a DGAP poderá celebrar contratos ou termos de tarefa com técnicos, empresas ou organismos, nacionais ou estrangeiros, para a realização e execução de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das atribuições que lhe estão cometidas.
+Art. 30.º - 1 - Mediante autorização ministerial, e sob proposta fundamentada do respectivo director-geral, a DGAP poderá celebrar contratos ou termos de tarefa com técnicos, empresas ou organismos, nacionais ou estrangeiros, para a realização e execução de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das atribuições que lhe estão cometidas.
 
 2 - Os contratos serão sempre reduzidos a escrito e deverão especificar, obrigatoriamente, a natureza da tarefa a executar, o prazo para a sua execução e a remuneração a pagar, e não conferirão em caso algum a qualidade de agente administrativo.
 
-###### Art. 31.º A cobrança coerciva das dívidas à DGAP, proveniente de taxas ou outros rendimentos, cuja obrigação de pagamento esteja estabelecida em diploma legal ou haja sido reconhecida por despacho ministerial, realizar-se-á através do processo de execução fiscal, servindo de base à execução certidão extraída dos livros ou documentos passada pela Repartição de Administração.
+Art. 31.º A cobrança coerciva das dívidas à DGAP, proveniente de taxas ou outros rendimentos, cuja obrigação de pagamento esteja estabelecida em diploma legal ou haja sido reconhecida por despacho ministerial, realizar-se-á através do processo de execução fiscal, servindo de base à execução certidão extraída dos livros ou documentos passada pela Repartição de Administração.
 
-###### Art. 32.º A DGAP poderá promover cursos de formação técnico-profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
+Art. 32.º A DGAP poderá promover cursos de formação técnico-profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
 
-###### Art. 33.º - 1 - Poderão ser criadas, por decreto simples, delegações regionais, dirigidas por um delegado regional.
+Art. 33.º - 1 - Poderão ser criadas, por decreto simples, delegações regionais, dirigidas por um delegado regional.
 
 2 - Competirá ao delegado regional a superintendência das acções desenvolvidas na região, a auscultação das necessidades do sector e o exercício dos poderes que nele forem delegados.
 
-###### Art. 34.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, com o acordo do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
+Art. 34.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, com o acordo do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 35.º O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+Art. 35.º O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Joaquim da Silva Lourenço - Gabriela Guedes Salgueiro.
 
-**Promulgado em 26 de Dezembro de 1979.**
+Promulgado em 26 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 27.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29916/03220326.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29916/03220326.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29916/03220326.pdf)
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Agricultura e Pescas; Joaquim da Silva Lourenço. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Agricultura e Pescas; Joaquim da Silva Lourenço. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro.

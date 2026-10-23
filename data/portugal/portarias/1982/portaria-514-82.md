@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/11700/13781380.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/514-1982-392433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T07:18:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8cff0df90ff7714e6299b96fb421ecb222c5b4f849dbfe41ba8f1a9c568e3a21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99cee81444663775b96b79f44e05e1ea484d349f4e2d463e3a825506c33d5a60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:18:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Faculdade de Psicologia e de Ciências da Educação
+- Mestrado em Ciências da Educação
+- Universidade de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:575164:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:451425:por
+  label: "Alterado o n.º 4 do n.º 9.º pela PORT.598/83.21.05.1983.ME, DR.IS [117] de 21.05.1983\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/598-1983-451425
+  date: '1983-05-21'
+- type: amended_by
+  target: pt:dre:283101:por
+  label: "Alterado o n.º 9.º, na redacção da Portaria 598/83, de 21 de Maio, e os n.ºs 10.º, 11.º e 13.º, pela PORT.81/88.05.02.1988.ME,\
+    \ DR.IS [30] de 05.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/81-1988-283101
+  date: '1988-02-05'
+- type: cites
+  target: pt:dre:470439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:575164:por
+  label: "Revogado o presente diploma, alterado pelas Port 598/83 de 21-Mai e 81/88 de 05-Fev, pela PORT.460/90.20.06.1990.ME,\
+    \ DR.IS [140] de 20.06.1990, sem prejuízo do disposto no nº 2 do art. 11º daquele diploma\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/460-1990-575164
+  date: '1990-06-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:18:24Z'
   warnings: []
   errors: []
 ---

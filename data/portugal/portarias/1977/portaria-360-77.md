@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/360-1977-253385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T05:20:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 347f57e5a6d3dd090545aa856ee4b233ef62de607649cb73eb90d3bf5bcaec19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 367511cd396fb9a2a14520969ca869346c0e594bc5578fdbe56607dcb3b237f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:20:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Empresa de Electricidade da Madeira
+- Energia Elétrica
+- Madeira.região Autónoma
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:617282:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:20:31Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +122,7 @@ Ministério das Obras Públicas, 17 de Maio de 1977. - O Ministro das Obras Púb
 
 SISTEMA TARIFÁRIO DA EMPRESA DE ELECTRICIDADE DA MADEIRA ANEXO À PORTARIA DO MINISTRO DAS OBRAS PÚBLICAS
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito e estrutura do sistema tarifário)
 
@@ -122,7 +130,7 @@ SISTEMA TARIFÁRIO DA EMPRESA DE ELECTRICIDADE DA MADEIRA ANEXO À PORTARIA DO M
 
 2 - Este sistema tarifário apresenta uma estrutura que considera como elementos intervenientes na facturação do fornecimento de energia eléctrica a potência e as energias activa e reactiva. Os preços a praticar dependem do nível de tensão e dos períodos de entrega da energia eléctrica e são apresentados nos quadros 1 e 2, que fazem parte integrante deste sistema tarifário.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Níveis de tensão)
 
@@ -134,7 +142,7 @@ Média tensão - entre 500 V e 60000 V.
 
 2 - Os valores de tensão indicados referem-se a valores nominais de tensão entre fases.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Períodos tarifários)
 
@@ -156,7 +164,7 @@ Horas cheias - principal período de fornecimento, com excepção das horas de v
 
 4 - Sempre que a energia consumida não seja objecto de medições diferenciadas por postos horários será, em regra, facturada ao preço de horas cheias.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Potência a facturar em média tensão)
 
@@ -178,7 +186,7 @@ onde P(índice 1) é a maior potência tomada nos últimos doze meses, P(índice
 
 7 - A potência a facturar dá origem à cobrança mensal de uma taxa por kilowatt, definida no quadro 1, exigível enquanto durar o contrato de fornecimento.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Potência a facturar em baixa tensão)
 
@@ -200,7 +208,7 @@ A justificação referida deverá indicar a potência instalada e os consumos an
 
 O distribuidor poderá recusar a redução de potência solicitada sempre que a correspondente utilização da nova potência no mês de maior consumo verificado nos últimos doze meses seja superior a sessenta horas.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Energia activa a facturar)
 
@@ -212,11 +220,11 @@ O distribuidor poderá recusar a redução de potência solicitada sempre que a 
 
 4 - Para fazer face às alterações do preço dos combustíveis utilizados na produção termoeléctrica, e enquanto o presente sistema tarifário não for revisto, a EEM, depois de obtida a autorização necessária, aplicará às taxas de energia um adicional - A - calculado pela seguinte expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/13600/14401443.pdf))](https://files.diariodarepublica.pt/1s/1977/06/13600/14401443.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/13600/14401443.pdf)
 
 O adicional será aplicado independentemente da tensão de entrega e do período tarifário considerado.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Energia reactiva a facturar)
 
@@ -224,7 +232,7 @@ Quando a energia reactiva medida fora das horas de vazio for superior a 60% da e
 
 Nos fornecimentos em média tensão, em que a respectiva contagem seja efectuada em baixa tensão, à energia reactiva medida será adicionado o valor de 10% da energia activa medida no mesmo período, para atender à contribuição do transformador para o consumo de energia reactiva.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Disposições complementares)
 
@@ -246,7 +254,7 @@ Os consumidores domésticos que exerçam uma pequena actividade profissional na 
 
 Todos os consumidores que actualmente são facturados pela tarifa doméstica especial serão considerados pelo distribuidor ao abrigo desta disposição, sem necessidade de o requererem.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Dúvidas)
 
@@ -256,7 +264,7 @@ Tarifas de energia eléctrica em média tensão
 
 QUADRO 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/13600/14401443.pdf))](https://files.diariodarepublica.pt/1s/1977/06/13600/14401443.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/13600/14401443.pdf)
 
 Nota. - Às indústrias de moagem e outras do ramo alimentar, de laboração contínua e com consumos anuais superiores a 750000 kWh, poderá ser facturado o consumo de ponta pelas tarifas de consumo de horas cheias, desde que utilizem permanentemente a energia do distribuidor.
 
@@ -264,6 +272,6 @@ Tarifas de energia eléctrica em baixa tensão
 
 QUADRO 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/13600/14401443.pdf))](https://files.diariodarepublica.pt/1s/1977/06/13600/14401443.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/13600/14401443.pdf)
 
-**O Ministro das Obras Públicas, João Orlindo de Almeida Pina.**
+O Ministro das Obras Públicas, João Orlindo de Almeida Pina.

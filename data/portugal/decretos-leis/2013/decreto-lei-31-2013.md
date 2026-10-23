@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/31/2013/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c681a9264c652f8a8c6d114894c804051355a11bc8ea48dbab32bd9661bde892
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97d69703087bbf05bc5d3a60c6e59a71aca09e36c94df3b36d18309e41daaff4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
-- Produto Mineiro
-- Recursos Minerais
+- Agência Portuguesa do Ambiente
 - Direção Geral de Energia e Geologia
+- Eliminação de Resíduos
+- Gestão de Resíduos
 - Indústria Mineira
 - Licenciamento
+- Produto Mineiro
 - Proteção do Ambiente
+- Recursos Minerais
 - Regime Jurídico
-- Eliminação de Resíduos
-- Agência Portuguesa do Ambiente
 relationships:
 - type: cites
   target: celex:32006L0021
@@ -86,15 +86,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/10/2010/02/04/p/dre
 article_structure:
-  article_count: 12
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:57Z'
   warnings: []
   errors: []
 ---
@@ -137,13 +137,17 @@ Os artigos 11.º, 19.º, 26.º, 28.º, 36.º, 37.º, 40.º, 47.º e 50.º do Dec
 
 7 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
 2 - Quando ocorra um acidente que potencialmente afete outros Estados membros da União Europeia, a entidade licenciadora deve imediatamente transmitir às autoridades dos outros Estados membros as informações relativas aos planos de emergência internos e externos, com vista à avaliação e minimização das consequências do acidente para a saúde humana e para o ambiente.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...].
 
@@ -175,7 +179,9 @@ i) Se aplicável, a indicação de que a licença de exploração da instalaçã
 
 6 - Os resultados da participação do público devem ser tidos em consideração pela entidade licenciadora na decisão do pedido de licenciamento.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...].
 
@@ -199,7 +205,9 @@ b) [...].
 
 6 - [...].
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 [...]:
 
@@ -211,7 +219,9 @@ c) [...];
 
 d) [...].
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...].
 
@@ -223,7 +233,9 @@ d) [...].
 
 5 - A decisão de aprovação do plano de lavra só pode ser proferida após o deferimento pela Agência Portuguesa de Ambiente, I.P., do pedido de licença ambiental, se aplicável, nos termos da legislação em vigor.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - [...].
 
@@ -235,7 +247,9 @@ d) [...].
 
 5 - [...].
 
-###### Artigo 47.º — Comunicação de informação
+Artigo 47.º
+
+Comunicação de informação
 
 1 - [...].
 
@@ -245,7 +259,9 @@ d) [...].
 
 4 - Para efeitos do disposto no presente artigo, as Direções Regionais de Economia remetem à Direção-Geral de Energia e Geologia a informação necessária.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
@@ -261,15 +277,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de janeiro de 2013. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Paula Maria von Hafe Teixeira da Cruz - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 19 de fevereiro de 2013.**
+Promulgado em 19 de fevereiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de fevereiro de 2013.**
+Referendado em 21 de fevereiro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -307,7 +323,9 @@ Tipo de instalação de resíduos em causa, forma final de exposição dos resí
 
 [...]
 
-## ANEXO VI — [...]
+ANEXO VI
+
+[...]
 
 1- [...]:
 

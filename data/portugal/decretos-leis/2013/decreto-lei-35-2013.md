@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/02/04200/0115401165.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35/2013/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2013-259256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fa60164113e4722c290a367e5a09c4ee5b8c5f9f6bf0b3baffe7c850a385522
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86861f86f87f41be4cfa417a419a5bac09a2773849cec65c1d8cad0cfa90d75a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distribuição de Energia Elétrica
 - Central Hidroeléctrica
+- Direção Geral de Energia e Geologia
+- Distribuição de Energia Elétrica
 - Energia Elétrica
 - Política Energética
-- Direção Geral de Energia e Geologia
 - Produção de Energia Elétrica
 - Regime Jurídico
 relationships:
@@ -90,16 +90,22 @@ relationships:
   target: celex:32009L0072
   label: null
   source: http://data.europa.eu/eli/dir/2009/72/oj
+- type: repealed_by
+  target: pt:dre:177634016:por
+  label: Revogado pelo(a) Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14 nos termos do seu
+    art. 305.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2022-177634016
+  date: '2022-01-14'
 article_structure:
   article_count: 22
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:02Z'
   warnings: []
   errors: []
 ---
@@ -488,15 +494,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de dezembro de 2012. - Pedro Passos Coelho - Álvaro Santos Pereira.
 
-**Promulgado em 6 de fevereiro de 2013.**
+Promulgado em 6 de fevereiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de fevereiro de 2013.**
+Referendado em 9 de fevereiro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 21.º)
 
@@ -574,7 +580,7 @@ c) POT(índice med,m) é a potência média disponibilizada pela central renová
 
 10 - O valor de COEF(índice pot,m), previsto no n.º 8, é calculado através da fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/04200/0115401165.pdf))](https://files.diariodarepublica.pt/1s/2013/02/04200/0115401165.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/04200/0115401165.pdf)
 
 11 - Na fórmula do número anterior:
 
@@ -588,7 +594,7 @@ d) NDM(índice m) é o número de dias do mês m, o qual, para efeitos do presen
 
 12 - O valor de POT(índice med,m), previsto no n.º 8, é calculado através da fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/04200/0115401165.pdf))](https://files.diariodarepublica.pt/1s/2013/02/04200/0115401165.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/04200/0115401165.pdf)
 
 13 - O valor de PV(VRD)(índice m), previsto no n.º 1, é calculado através da fórmula seguinte:
 

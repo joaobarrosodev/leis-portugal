@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/150/2017/12/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2017-114311303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95d2c2b315517cb238b9d2507d8b9450453db668a8fdcc719eea38f962b5fbbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 230b4247179183816db1c4ac092eac92da8728ae116175372295afc13118c6f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Alienação de Imóveis
+- BENS Imóveis do Estado
 - Definição de Competências
-- Renovação Urbana
 - Direção Geral do Tesouro e Finanças
 - Domínio Privado do Estado
-- Propriedade do Estado
-- Administração Pública
-- BENS Imóveis do Estado
+- Fundo Nacional de Reabilitação do Edificado
 - Gestão do Património
 - Página na Internet
 - Património do Estado
-- Prédio Urbano
 - Plataforma Eletrónica
-- Fundo Nacional de Reabilitação do Edificado
+- Prédio Urbano
+- Propriedade do Estado
+- Renovação Urbana
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/280/2007/08/07/p/dre
@@ -93,16 +93,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/48/2016/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/48/2016/09/01/p/dre
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66581992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75239710:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:03Z'
   warnings: []
   errors: []
 ---
@@ -293,12 +305,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de novembro de 2017. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 27 de novembro de 2017.**
+Promulgado em 27 de novembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de novembro de 2017.**
+Referendado em 29 de novembro de 2017.
 
 Pelo Primeiro-Ministro, Maria Manuel de Lemos Leitão Marques, Ministra da Presidência e da Modernização Administrativa.
+
+110964625

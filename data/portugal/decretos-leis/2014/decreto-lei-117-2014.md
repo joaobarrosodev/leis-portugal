@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/08/14900/0406504069.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/117/2014/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2014-55076560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efce527d6276ecd646cc1d871491c3fe992647d72c7e3894d026c61cb4463de8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 317aab1ccef1806d55fa7449cf0a07501c15d46de2fdeb9a1c4fcbad18a2a106
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Central do Sistema de Saúde
 - Análises Clínicas
 - Assistência Médica
 - Assistência Medicamentosa
 - Cobrança
-- Criança
 - Comparticipação
 - Consulta Médica
-- Saúde
-- Declaração de Rendimentos
-- Política de Saúde
-- Serviço Nacional de Saúde
-- Refugiado
-- Jovem
-- Pagamento
-- Insuficiência Económica
-- Meios Complementares de Diagnóstico
-- Exame Médico
-- Menoridade
-- Administração Central do Sistema de Saúde
-- Preço Máximo
+- Criança
 - Cuidados Médicos
+- Declaração de Rendimentos
+- Doença
+- Exame Médico
+- Insuficiência Económica
+- Jovem
+- Meios Complementares de Diagnóstico
+- Menoridade
+- Pagamento
+- Política de Saúde
+- Preço Máximo
 - Prova
+- Refugiado
 - Regime Jurídico
 - Rendimento
-- Doença
+- Saúde
+- Serviço Nacional de Saúde
 - Serviços de Urgência
 - Taxa
 - TAXA Moderadora
@@ -101,6 +101,45 @@ relationships:
   target: pt:dre:184054398:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:67051306:por
+  label: Alterado o art. 4.º do Dec Lei 113/2011, de 29-nov, republicado pelo presente diploma pelo(a) Decreto-Lei n.º 61/2015
+    - Diário da República n.º 78/2015, Série I de 2015-04-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2015-67051306
+  date: '2015-04-22'
+- type: amended_by
+  target: pt:dre:70196961:por
+  label: Alterado o art. 4.º do Dec Lei 113/2011, de 29-nov, republicado pelo presente diploma, na redação do Dec Lei 61/2015,
+    de 22-abr, pelo(a) Lei n.º 134/2015 - Diário da República n.º 174/2015, Série I de 2015-09-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/134-2015-70196961
+  date: '2015-09-07'
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Alterados os arts. 2.º, 4.º (na redação do Dec. Lei 61/2015 de 22-abr, e da Lei 134/2015 de 07-set, e repristinado
+    nos termos da Lei 3/2016 de 29-fev) e 8.º e revogada a al. d) do referido art. 2.º do Dec. Lei 113/2011 de 29-nov, na
+    versão republicada pelo presente diploma, pelo(a) Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série
+    I de 2016-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-a-2016-73958532
+  date: '2016-03-30'
+- type: amended_by
+  target: pt:dre:108280429:por
+  label: Alterado, a partir de 01.11.2017, o art. 8.º (na redação da Lei 7-A/2016 de 30-mar) do Dec Lei 113/2011 de 29-nov,
+    na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 131/2017 - Diário da República n.º 195/2017, Série
+    I de 2017-10-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/131-2017-108280429
+  date: '2017-10-10'
+- type: amended_by
+  target: pt:dre:147533138:por
+  label: Alterado o art. 8.º do Dec Lei 113/2011 de 29-nov, na versão republicada pelo Dec Lei 117/2014 de 05-ago, pelo(a)
+    Decreto-Lei n.º 96/2020 - Diário da República n.º 215/2020, Série I de 2020-11-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-2020-147533138
+  date: '2020-11-04'
+- type: amended_by
+  target: pt:dre:184054398:por
+  label: Alterados os arts. 2.º, 6.º e 8.º e revogado o art. 7.º-A do Dec Lei 113/2011, de 29-nov, na versão republicada pelo
+    presente diploma, pelo(a) Decreto-Lei n.º 37/2022 - Diário da República n.º 103/2022, Série I de 2022-05-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-2022-184054398
+  date: '2022-05-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/113/2011/11/29/p/dre
   label: null
@@ -141,16 +180,110 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
+- type: cites
+  target: pt:dre:146061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:105637672:por
+  label: Revogado o art. 8.º-A do Dec Lei 113/2011, de 29-nov, na versão republicada pelo presente diploma, pelo(a) Lei n.º
+    42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
+  date: '2016-12-28'
 article_structure:
-  article_count: 18
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:41Z'
   warnings: []
   errors: []
 ---
@@ -213,7 +346,9 @@ n) Os requerentes de asilo e refugiados e respetivos cônjuges ou equiparados e 
 
 3 - Para os efeitos previstos no número anterior, os termos e as condições da apresentação do documento são definidos pelo conselho diretivo da Administração Central do Sistema de Saúde, I.P.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 [...]:
 
@@ -253,15 +388,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de junho de 2014. - Pedro Passos Coelho - Hélder Manuel Gomes dos Reis - António de Magalhães Pires de Lima - Paulo José de Ribeiro Moita de Macedo - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 28 de julho de 2014.**
+Promulgado em 28 de julho de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de julho de 2014.**
+Referendado em 31 de julho de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 

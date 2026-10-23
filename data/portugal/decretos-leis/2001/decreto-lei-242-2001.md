@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/08/202a00/55945611.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/242/2001/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2001-632068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4743180e2264dffff05b21f7dff7abe67a817177705334585aa3351ad6c9da92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba62a3dc04096ca0c677848db84bad90d525ebff955f32d5d4d87e4e4c40de48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
 - Aproximação das Legislações
-- Gestão de Resíduos
-- Multa
+- Atividade Industrial
 - Definição de Competências
 - Direcção Geral do Ambiente
-- Saúde Pública
 - Fiscalização
+- Gestão de Resíduos
 - Licenciamento
+- Multa
 - Proteção do Ambiente
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:499546:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343084:por
+  label: "Alterados os arts. 2º, 7º( este a partir de 01.12.2010), 17º, 18º e 19º, bem como os anexos I, II-A e III pelo DEC\
+    \ LEI.98/2010.11.08.2010.MAOT, DR.IS [155] de 11.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2010-343084
+  date: '2010-08-11'
 - type: cites
   target: celex:31970L0156
   label: null
@@ -93,16 +99,28 @@ relationships:
   target: celex:31999L0013
   label: null
   source: http://data.europa.eu/eli/dir/1999/13/oj
+- type: repealed_by
+  target: pt:dre:539980:por
+  label: "Revogado o nº 5 do art. 21º do presente diploma, bem como a al a) da categoria L, constante do seu anexo I, pelo\
+    \ DEC LEI.181/2006.06.09.2006.MAOTDR, DR.IS [172] de 06.09.2006\0006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-2006-539980
+  date: '2006-09-06'
+- type: repealed_by
+  target: pt:dre:499546:por
+  label: "Revogado o presente diploma, na redação do Dec Lei 181/2006 de 06-set e do Dec Lei 98/2010 de 11-ago, pelo DEC LEI.127/2013.30.08.2013.MAMAOT,\
+    \ DR.IS [167] de 30.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-2013-499546
+  date: '2013-08-30'
 article_structure:
   article_count: 24
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:55Z'
   warnings: []
   errors: []
 ---
@@ -595,15 +613,15 @@ b) O licenciamento da construção dos estabelecimentos de prestação de servi�
 
 Visto e aprovado em Conselho de Ministros de 19 de Julho de 2001. - Jaime José Matos da Gama - Jaime José Matos da Gama - António Luís Santos Costa - Luís Garcia Braga da Cruz - Luís Manuel Capoulas Santos - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 17 de Agosto de 2001.**
+Promulgado em 17 de Agosto de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Agosto de 2001.**
+Referendado em 23 de Agosto de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Âmbito de aplicação do diploma
 
@@ -721,13 +739,15 @@ O) Fabrico de laminados de madeira e plástico
 
 Todas as actividades de colagem de madeira e ou plástico para a produção de laminados.
 
-## ANEXO II-A — PARTE 1
+## ANEXO II-A
+
+## PARTE 1
 
 Limiares de consumo e valores de referência aplicáveis às emissões
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/202a00/55945611.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/202a00/55945611.pdf)](https://files.diariodarepublica.pt/1s/2001/08/202a00/55945611.pdf)](https://files.diariodarepublica.pt/1s/2001/08/202a00/55945611.pdf)](https://files.diariodarepublica.pt/1s/2001/08/202a00/55945611.pdf)
 
-# PARTE 2 — Indústria de revestimento de veículos
+## PARTE 2 — Indústria de revestimento de veículos
 
 Os valores limite para a emissão total são expressos em gramas de solvente emitido por unidade de superfície do produto em metros quadrados e em quilogramas de solvente emitido por carroçaria de veículo.
 
@@ -745,7 +765,7 @@ Para o cálculo da superfície dos restantes componentes ou da superfície total
 
 O valor limite para a emissão total que se apresenta no quadro infra refere-se a todas as fases do processo executadas na mesma instalação, da aplicação por electroforese ou por qualquer outro processo de revestimento, incluindo o enceramento e o polimento final, bem como aos solventes utilizados na limpeza dos equipamentos, incluindo câmaras de pulverização e outros equipamentos fixos, durante e além do tempo de produção. O valor limite para a emissão total é expresso como a soma das massas dos compostos orgânicos por metro quadrado da área total da superfície do produto revestido e a soma das massas dos compostos orgânicos por carroçaria.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/202a00/55945611.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/202a00/55945611.pdf)](https://files.diariodarepublica.pt/1s/2001/08/202a00/55945611.pdf)](https://files.diariodarepublica.pt/1s/2001/08/202a00/55945611.pdf)](https://files.diariodarepublica.pt/1s/2001/08/202a00/55945611.pdf)
 
 As instalações de revestimento de veículos que apresentem valores inferiores aos limiares de consumo de solventes fornecidos no quadro supra devem cumprir as exigências relativas ao sector de retoque de veículos que se apresentam na parte 1 do anexo II-A.
 
@@ -767,7 +787,7 @@ O plano que se segue é aplicável a instalações relativamente às quais se po
 
 a) O operador deve aplicar um plano de redução de emissões que inclua, nomeadamente, a redução do teor médio de solvente utilizado e ou uma maior eficiência na utilização dos sólidos, de modo a reduzir as emissões totais provenientes da instalação a uma determinada percentagem das emissões anuais de referência, designada por objectivo de emissão. Tal deve efectuar-se de acordo com o seguinte calendário:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/202a00/55945611.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/202a00/55945611.pdf)](https://files.diariodarepublica.pt/1s/2001/08/202a00/55945611.pdf)](https://files.diariodarepublica.pt/1s/2001/08/202a00/55945611.pdf)](https://files.diariodarepublica.pt/1s/2001/08/202a00/55945611.pdf)
 
 b) As emissões anuais de referência são calculadas do seguinte modo:
 
@@ -775,7 +795,7 @@ i) Determina-se a massa total de sólidos na quantidade total de revestimento e 
 
 ii) Calculam-se as emissões anuais de referência mediante a multiplicação da massa determinada em i) pelo factor específico que se apresenta no quadro infra. As autoridades competentes podem ajustar os factores em causa de modo a adaptá-los aos progressos em matéria de utilização eficiente de sólidos documentados na literatura;
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/202a00/55945611.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/202a00/55945611.pdf)](https://files.diariodarepublica.pt/1s/2001/08/202a00/55945611.pdf)](https://files.diariodarepublica.pt/1s/2001/08/202a00/55945611.pdf)](https://files.diariodarepublica.pt/1s/2001/08/202a00/55945611.pdf)
 
 iii) O objectivo de emissão é calculado multiplicando a emissão anual de referência por uma determinada percentagem igual a:
 

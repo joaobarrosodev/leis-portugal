@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06300/18501851.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/19/2007/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-2007-520439
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:30:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ffc1978e03402e8ecd31f225d1c62d0645d13496b284d5fec92b44b9d0c247c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c3286ae668cc0a168c3457049a23d54b5266cd89354d92d09aa5b7e24cfd6d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:30:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério das Finanças e da Administração Pública
-- Pessoal Dirigente
 - Definição de Competências
 - Direcção Geral de Assuntos Europeus e Relações Internacionais
-- Recrutamento de Pessoal
 - Direcção Geral de Estudos e Previsão
+- Ministério das Finanças e da Administração Pública
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:175340:por
@@ -98,16 +98,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:219144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175340:por
+  label: "Revogado, a partir de 01.09.2012, pelo DR.48/2012.22.08.2012.MF, DR.IS [162] de 22.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/48-2012-175340
+  date: '2012-08-22'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:30:06Z'
   warnings: []
   errors: []
 ---
@@ -206,16 +231,16 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 8 de Março de 2007.**
+Promulgado em 8 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 9 de Março de 2007.**
+Referendado em 9 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Quadro de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06300/18501851.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06300/18501851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06300/18501851.pdf)

@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 276/2004, 1º Suplemento, Série I-A de 2004-11-24
   number: '276'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6848-(3) a 6848-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/11/276a01/00030003.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/90-g/2004/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/90-g-2004-316899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:49:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ee10d09f2d0ee7ac84e672cf7d8b3838090e77aec8f8d6d72aaee9fb6c936f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ecd168aac4d3a66c0e6b133913537269a8aa1f01ebfeedfd57bba466415de572
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:49:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Governo XVI
-- Secretário de Estado Adjunto do Ministro Adjunto do Primeiro-ministro
-- Secretário de Estado do Desporto
 - Nomeação
+- Secretário de Estado Adjunto do Ministro Adjunto do Primeiro-ministro
 - Secretário de Estado da Juventude
+- Secretário de Estado do Desporto
 - Secretário de Estado dos Assuntos Parlamentares
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:49:22Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +93,7 @@ validation:
 
 de 24 de Novembro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -105,12 +105,12 @@ O Dr. Pedro Miguel de Azeredo Duarte Secretário de Estado da Juventude;
 
 Hermínio José Sobral Loureiro Gonçalves Secretário de Estado do Desporto.
 
-**Assinado em 24 de Novembro de 2004.**
+Assinado em 24 de Novembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Novembro de 2004.**
+Referendado em 24 de Novembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/242/2008/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2008-443897
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f44fef496f6e85db8833f7c1b781573ad6ce9f961aea395a24cb258ded49917b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 484d3ce7bcad333eb5151ed4d244e4b9463c6d7ccd0b6a70d99e3505d99cc4bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,22 @@ reuse:
 subjects:
 - Definição de Competências
 - Entidade Gestora de Reservas Estratégicas de Produtos Petrolíferos
+- Estatuto
 - Petróleo
 - Política Energética
 - Produto Petrolífero
 - Reservas de Combustível
-- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:483938:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:483938:por
+  label: "Alterados os arts 5.º, 7.º, 14.º, 15.º, 16.º, 17.º, 23.º, 25.º, 26.ºe 32.º do presente diploma, pelo DEC LEI.165/2013.16.12.2013.MAOTE,\
+    \ DR.IS [243] de 16.12.2013\013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/165-2013-483938
+  date: '2013-12-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2001/01/23/p/dre
   label: null
@@ -106,16 +112,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/49/2007/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/49/2007/03/28/p/dre
+- type: cites
+  target: pt:dre:344926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
 article_structure:
-  article_count: 53
+  article_count: 41
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:22Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +222,9 @@ h) Autorizar ou determinar alterações ao capital estatutário, nos termos da l
 
 i) ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -208,17 +244,23 @@ d) O conselho consultivo.
 
 5 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O conselho de administração é composto por um presidente e dois vogais.
 
 2 - (Revogado.)
 
-###### Artigo 14.º — Fiscalização
+Artigo 14.º
+
+Fiscalização
 
 A fiscalização e controlo da legalidade da gestão financeira e patrimonial da EGREP, E. P. E., compete a um conselho fiscal composto por três membros efectivos e por um suplente, sendo um deles presidente, e a um revisor oficial de contas ou sociedade de revisores oficiais de contas, que não seja membro daquele órgão, nomeados por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da economia, nos termos do n.º 2 do artigo 7.º
 
-###### Artigo 15.º — Competências dos órgãos de fiscalização
+Artigo 15.º
+
+Competências dos órgãos de fiscalização
 
 1 - Os órgãos de fiscalização são responsáveis pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial da empresa.
 
@@ -246,7 +288,9 @@ d) Verificar se as políticas contabilísticas e os critérios valorimétricos a
 
 4 - Trimestralmente, o conselho fiscal e o revisor oficial de contas devem enviar aos membros do Governo responsáveis pelas áreas das finanças e da economia um relatório sucinto que refira os controlos efectuados e as anomalias detectadas, assim como os desvios verificados em relação aos orçamentos e respectivas causas.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -264,13 +308,17 @@ f) Membros do conselho fiscal, a título de observadores.
 
 2 - (Revogado.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
 2 - Os pareceres emitidos pelo conselho consultivo são apensos à documentação correspondente a submeter a aprovação da tutela.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -278,7 +326,9 @@ f) Membros do conselho fiscal, a título de observadores.
 
 3 - O relatório e contas, elaborados com referência a 31 de Dezembro de cada ano, acompanhados dos pareceres do conselho fiscal e do conselho consultivo, são submetidos à tutela até 31 de Março do ano seguinte aquele a que respeitam.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -286,7 +336,9 @@ f) Membros do conselho fiscal, a título de observadores.
 
 3 - Caso o excesso das receitas provenientes das prestações sobre as despesas ultrapasse de modo significativo o valor orçamentado, e sendo determinada por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da economia a devolução total ou parcial desse excedente aos operadores, numa base proporcional ao montante das prestações pagas, esta operação é efectuada antes do cálculo dos resultados referidos no n.º 1.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -300,7 +352,9 @@ f) Membros do conselho fiscal, a título de observadores.
 
 6 - O despacho de aprovação das prestações anuais e das prestações extraordinárias é publicado na 2.ª série do Diário da República, com a antecedência mínima de quatro dias úteis sobre a data da sua aplicação.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -312,7 +366,9 @@ f) Membros do conselho fiscal, a título de observadores.
 
 5 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Em contexto de resposta a situações de crise energética, a venda de reservas a cargo da EGREP, E. P. E., só é efectuada por determinação do membro do Governo responsável pela área da economia.
 
@@ -320,7 +376,9 @@ f) Membros do conselho fiscal, a título de observadores.
 
 3 - ...
 
-###### Artigo 37.º — Mobilidade
+Artigo 37.º
+
+Mobilidade
 
 1 - Os trabalhadores com relação de emprego público podem exercer funções na EGREP, E. P. E., por acordo de cedência de interesse público, nos termos previstos na [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro.
 
@@ -348,15 +406,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Outubro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Bernardo Luís Amador Trindade.
 
-**Promulgado em 11 de Dezembro de 2008.**
+Promulgado em 11 de Dezembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Dezembro de 2008.**
+Referendado em 12 de Dezembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -510,7 +568,7 @@ O conselho de administração reúne, ordinariamente, com a periodicidade que de
 
 ###### Artigo 13.º — Incompatibilidades e impedimentos
 
-**O presidente e os vogais do conselho de administração, quando nomeados em dedicação exclusiva, não podem acumular outras funções, excepto no que se refere ao desempenho de funções docentes no ensino superior em tempo parcial.**
+O presidente e os vogais do conselho de administração, quando nomeados em dedicação exclusiva, não podem acumular outras funções, excepto no que se refere ao desempenho de funções docentes no ensino superior em tempo parcial.
 
 ###### Artigo 14.º — Fiscalização
 

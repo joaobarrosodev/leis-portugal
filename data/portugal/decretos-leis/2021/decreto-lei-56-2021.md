@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/12500/0000500019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/56/2021/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2021-166099792
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98678ed4b32df77f735f6b999e07a1508324b10a7050f476bbf034d34e1b7de3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13cc40598145d5c8218300dda2e2dee9a31b9ec4f2c0bc12656582d460e22f0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,49 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Seguradora
-- Contrato de Seguro
 - Aproximação das Legislações
-- Valores Mobiliários
+- Atividade Bancária
+- Atividade Seguradora
 - Autoridade Bancária Europeia
-- Instituição de Crédito
-- Empresa
+- Autoridade de Supervisão de Seguros e Fundos de Pensões
+- Banca
+- Banco de Portugal
 - Beneficiário
-- Moeda Eletrónica
+- Branqueamento de Capitais
 - CE Países
+- CMVM
 - Código dos Valores Mobiliários
+- Companhia de Seguros
 - Conflito de Consumo
 - Consumidor
 - Conta Bancária
 - Contra-ordenação
+- Contrato de Seguro
+- Crédito Bancário
 - Definição de Competências
+- Empresa
+- Empresa Estrangeira
 - Empresa Europeia
-- União Europeia
 - Fiscalização
-- Banco de Portugal
-- Branqueamento de Capitais
-- Seguro
-- Banca
-- Atividade Bancária
+- Instituição de Crédito
+- Instituição Financeira
 - Instituição Financeira de Crédito
 - Mercado de Valores
-- Sociedade Gestora de Sistemas Centralizados
-- Crédito Bancário
-- Terrorismo
+- Moeda Eletrónica
 - Proteção do Consumidor
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
 - Regime Jurídico
 - Resseguro
-- Companhia de Seguros
+- Seguro
 - Serviços Mínimos
 - Sistema Bancário
-- CMVM
-- Instituição Financeira
 - Sociedade Gestora de Câmara de Compensação
 - Sociedade Gestora de Mercados Regulamentados
+- Sociedade Gestora de Sistemas Centralizados
 - Sociedade Gestora de Sistemas de Liquidação
-- Empresa Estrangeira
-- Autoridade de Supervisão de Seguros e Fundos de Pensões
+- Terrorismo
+- União Europeia
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:176907512:por
@@ -194,16 +194,124 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83/2017/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83/2017/08/18/p/dre
+- type: cites
+  target: pt:dre:107094723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108021178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108074436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108265122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115235753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115740680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116936932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117821873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124917020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138638754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140631199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141382321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145132199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58585556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69727377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70086389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70237675:por
+  label: null
+  source: null
 article_structure:
-  article_count: 32
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:56Z'
   warnings: []
   errors: []
 ---
@@ -290,7 +398,9 @@ b) O Banco de Portugal ou a Comissão do Mercado de Valores Mobiliários, sempre
 
 13 - (Anterior n.º 12.)
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - [...].
 
@@ -300,7 +410,9 @@ b) O Banco de Portugal ou a Comissão do Mercado de Valores Mobiliários, sempre
 
 4 - Para efeitos do disposto no n.º 9 do artigo seguinte, a ASF pode solicitar ao requerente a entrega de uma cópia do programa de atividades na língua oficial ou noutra língua aceite pelo Estado-Membro de acolhimento.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - [...].
 
@@ -322,7 +434,9 @@ b) O Banco de Portugal ou a Comissão do Mercado de Valores Mobiliários, sempre
 
 10 - A notificação mencionada no número anterior deve ser suficientemente detalhada por forma a permitir uma avaliação completa por parte da EIOPA e da autoridade de supervisão do Estado-Membro de acolhimento e não prejudica as competências de supervisão da ASF e da autoridade de supervisão do Estado-Membro de acolhimento, nos termos legalmente aplicáveis.
 
-###### Artigo 189.º — Riscos do exercício da atividade transfronteiras
+Artigo 189.º
+
+Riscos do exercício da atividade transfronteiras
 
 1 - (Anterior corpo do artigo.)
 
@@ -332,13 +446,17 @@ b) O Banco de Portugal ou a Comissão do Mercado de Valores Mobiliários, sempre
 
 4 - As notificações mencionadas nos n.os 2 e 3 devem ser suficientemente detalhadas por forma a permitir uma avaliação completa por parte da EIOPA e das autoridades de supervisão e não prejudicam as competências de supervisão das respetivas autoridades, nos termos legalmente aplicáveis.
 
-###### Artigo 198.º — [...]
+Artigo 198.º
+
+[...]
 
 1 - Ao exercício da atividade fora do território da União Europeia por sucursal de uma empresa de seguros ou de resseguros com sede em Portugal é aplicável, com as devidas adaptações, o disposto no n.º 1 do artigo 189.º e nos artigos 190.º, 191.º e 194.º
 
 2 - [...].
 
-###### Artigo 206.º — Riscos do exercício da atividade transfronteiras de empresa de seguros com sede noutro Estado-Membro
+Artigo 206.º
+
+Riscos do exercício da atividade transfronteiras de empresa de seguros com sede noutro Estado-Membro
 
 1 - (Anterior corpo do artigo.)
 
@@ -346,7 +464,9 @@ b) O Banco de Portugal ou a Comissão do Mercado de Valores Mobiliários, sempre
 
 3 - As notificações previstas no número anterior devem ser suficientemente detalhadas por forma a permitir uma avaliação completa por parte da EIOPA e das autoridades de supervisão e não prejudicam as competências de supervisão das respetivas autoridades, nos termos legalmente aplicáveis.
 
-###### Artigo 221.º — [...]
+Artigo 221.º
+
+[...]
 
 1 - [...]:
 
@@ -376,7 +496,9 @@ i) [...].
 
 5 - [...].
 
-###### Artigo 271.º — [...]
+Artigo 271.º
+
+[...]
 
 1 - [...].
 
@@ -410,7 +532,9 @@ i) [...].
 
 16 - A autoridade de supervisão fundamenta as decisões referidas nos n.os 13 a 15 perante a empresa de seguros ou de resseguros e os outros membros do colégio de supervisores.
 
-###### Artigo 272.º — [...]
+Artigo 272.º
+
+[...]
 
 1 - [...]:
 
@@ -420,7 +544,9 @@ b) Qualquer acréscimo do requisito de capital de solvência das empresas de seg
 
 2 - [...].
 
-###### Artigo 276.º — [...]
+Artigo 276.º
+
+[...]
 
 1 - [...].
 
@@ -538,7 +664,9 @@ nn) [...].
 
 4 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -572,7 +700,9 @@ c) [...].
 
 11 - [...].
 
-###### Artigo 110.º — [...]
+Artigo 110.º
+
+[...]
 
 1 - [...].
 
@@ -582,11 +712,15 @@ c) [...].
 
 4 - [...].
 
-###### Artigo 141.º — Cooperação com a Autoridade Bancária Europeia
+Artigo 141.º
+
+Cooperação com a Autoridade Bancária Europeia
 
 As autoridades de supervisão das entidades financeiras cooperam com a Autoridade Bancária Europeia, designadamente facultando-lhe todas as informações necessárias ao cumprimento das suas atribuições, nos termos do disposto na legislação da União Europeia relativa à prevenção do branqueamento de capitais e financiamento do terrorismo e da legislação aplicável a essa autoridade.
 
-###### Artigo 181.º — [...]
+Artigo 181.º
+
+[...]
 
 A Autoridade de Supervisão de Seguros e Fundos de Pensões, o Banco de Portugal e a CMVM comunicam à Autoridade Bancária Europeia as sanções aplicadas às instituições de crédito e às instituições financeiras pela prática de contraordenações previstas na presente lei, bem como a eventual interposição de recurso das decisões que as aplicam e o respetivo resultado.»
 
@@ -618,7 +752,9 @@ f) [...].
 
 4 - [...].
 
-###### Artigo 48.º-C — [...]
+Artigo 48.º-C
+
+[...]
 
 1 - As sociedades gestoras previstas no artigo 48.º-A utilizam na sua firma, consoante o objeto social que se proponham prosseguir, a denominação 'sociedade gestora de sistema de publicação autorizado (APA)', 'sociedade gestora de sistema de reporte autorizado (ARM)' ou 'sociedade gestora de sistemas de comunicação de dados de negociação'.
 
@@ -704,7 +840,9 @@ b) Os mecanismos de reação à disposição do interessado, nomeadamente a poss
 
 8 - O disposto no número anterior não se aplica se a prestação dessas informações for proibida pela legislação nacional ou da União, ou se for contrária a objetivos de ordem pública ou de segurança pública.
 
-###### Artigo 4.º-A — [...]
+Artigo 4.º-A
+
+[...]
 
 1 - [...].
 
@@ -712,7 +850,9 @@ b) Os mecanismos de reação à disposição do interessado, nomeadamente a poss
 
 3 - O disposto nos n.os 2 a 7 do artigo anterior e no artigo 4.º-D é aplicável, com as necessárias adaptações, à conversão de conta de depósito à ordem em conta de serviços mínimos bancários.
 
-###### Artigo 7.º-D — [...]
+Artigo 7.º-D
+
+[...]
 
 1 - [...].
 
@@ -832,7 +972,9 @@ bb) [...];
 
 cc) [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -840,7 +982,9 @@ cc) [...].
 
 3 - Sem prejuízo do disposto no RJSPME relativamente à informação pré-contratual sobre encargos, taxas de juro e de câmbio, no capítulo ii do [Decreto-Lei n.º 133/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), de 2 de junho, na sua redação atual, e de outras normas legais e regulamentares aplicáveis, o prestador de serviços de pagamento entrega, em papel ou noutro suporte duradouro, gratuitamente e em momento prévio à celebração do contrato quadro relativo a uma conta de pagamento, o documento de informação sobre comissões, com a antecedência necessária para permitir a sua análise pelo consumidor.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Sem prejuízo do disposto no RJSPME relativamente à denúncia de contratos-quadro, o prestador de serviços de pagamento transmitente, e desde que tal esteja previsto na autorização prestada pelo consumidor, encerra a conta de pagamento, gratuitamente, na data especificada na autorização ou na data que resulte da aplicação do n.º 4 do artigo 17.º, caso o consumidor não tenha obrigações pendentes nessa conta e desde que as tarefas elencadas nas alíneas a), b) e d) do artigo 19.º tenham sido concluídas.
 
@@ -848,7 +992,9 @@ cc) [...].
 
 3 - [...].
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]:
 
@@ -864,7 +1010,9 @@ c) Encerra, de forma gratuita, a conta de pagamento na data especificada na auto
 
 4 - [...].
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - São puníveis, nos termos da alínea m) do artigo 210.º e do artigo 212.º do RGICSF, quando praticadas por instituições de crédito ou sociedades financeiras, ou por pessoas singulares que desempenhem funções nestas entidades, e nos termos da alínea y) do n.º 1 do artigo 150.º e do artigo 152.º do RJSPME, quando praticadas por instituições de pagamento ou instituições de moeda eletrónica, ou por pessoas singulares que desempenhem funções nestas entidades, as seguintes infrações:
 
@@ -940,7 +1088,9 @@ Cooperação e informação a prestar à EIOPA
 
 2 - Sem prejuízo do disposto no número anterior, a ASF pode solicitar a assistência técnica da EIOPA, nos termos do disposto na alínea b) do n.º 1 do artigo 8.º do [Regulamento (UE) n.º 1094/2010](https://data.europa.eu/eli/reg/2010/1094/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, no que respeita à decisão sobre os pedidos de aprovação ou alteração dos modelos internos totais ou parciais.
 
-###### Artigo 247.º-A — Estabelecimento de plataformas de cooperação
+Artigo 247.º-A
+
+Estabelecimento de plataformas de cooperação
 
 1 - Enquanto autoridade de supervisão do Estado-Membro de origem ou de acolhimento, a ASF pode, por iniciativa sua, de uma autoridade de supervisão congénere ou da EIOPA, participar em plataformas de cooperação com o objetivo de reforçar a troca de informações e a cooperação entre as autoridades de supervisão, no âmbito da atividade transfronteiras, atual ou previsível, de empresas de seguros ou de resseguros com sede em Portugal ou noutro Estado-Membro da União Europeia.
 
@@ -982,12 +1132,14 @@ São revogados a alínea b) do n.º 1 e os n.os 2 e 3 do artigo 48.º-A, o artig
 
 Visto e aprovado em Conselho de Ministros de 9 de junho de 2021. - Mariana Guimarães Vieira da Silva - Francisco Gonçalo Nunes André - João Rodrigo Reis Carvalho Leão.
 
-**Promulgado em 19 de junho de 2021.**
+Promulgado em 19 de junho de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de junho de 2021.**
+Referendado em 22 de junho de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114344909

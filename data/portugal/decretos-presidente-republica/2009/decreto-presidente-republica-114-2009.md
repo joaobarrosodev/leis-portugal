@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/114/2009/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/114-2009-482642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T05:03:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c10c64c4d1fb5bc60e9b657e9dcc7e7c43b9b131e14d4cde00e2ccda7bd0079d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a6815cff5e98018af1db25a09027aa5a1dda76bf4df5ca910c4f8cfa5537ef0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:03:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Chefe do Estado Maior General das Forças Armadas
-- Nomeação
 - Estado Maior General das Forças Armadas
+- Nomeação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/1-a/2009/07/07/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1-a/2009/07/07/p/dre
+- type: cites
+  target: pt:dre:345291:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:03:40Z'
   warnings: []
   errors: []
 ---
@@ -92,12 +96,12 @@ validation:
 
 de 4 de Dezembro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição, e ao abrigo do disposto na alínea g) do n.º 2 do artigo 9.º da Lei Orgânica n.º 1-B/2009, de 7 de Julho, e nos n.os 1 do artigo 12.º e 1 do artigo 23.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-a-2009-345291), de 7 de Julho, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição, e ao abrigo do disposto na alínea g) do n.º 2 do artigo 9.º da Lei Orgânica n.º 1-B/2009, de 7 de Julho, e nos n.os 1 do artigo 12.º e 1 do artigo 23.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-a-2009-345291), de 7 de Julho, o seguinte:
 
 Sob proposta do Governo, é prorrogado, com efeitos a partir de 5 de Dezembro de 2009, o período de exercício do cargo de Chefe do Estado-Maior-General das Forças Armadas pelo general Luís Vasco Valença Pinto.
 
-**Assinado em 2 de Dezembro de 2009.**
+Assinado em 2 de Dezembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.

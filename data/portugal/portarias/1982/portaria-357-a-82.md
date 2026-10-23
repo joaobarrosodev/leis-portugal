@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 80/1982, 1º Suplemento, Série I de 1982-04-06
   number: '80'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 802-(1) a 802-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/08001/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/357-a-1982-235350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T07:14:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65926413c072cac9867610d7b08490e55845a92c9103da2aa7db8e63d3594d50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e64af1f213f64a18dcffa4906f7d45c487385f2c93f558add25409adf561364a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:14:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento de Bebidas
+- Margens de Comercialização
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:443152:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:395707:por
+  label: "Alterado o quadro II anexo pela PORT.575/82.1982.06.09.MACP, DR.IS [131]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/575-1982-395707
+  date: '1982-06-09'
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:443152:por
+  label: "Revogada pela PORT.1028/83.09.12.1983.MCT, DR.IS [282] de 09.12.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1028-1983-443152
+  date: '1983-12-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:14:38Z'
   warnings: []
   errors: []
 ---
@@ -147,13 +184,13 @@ QUADRO II
 
 Serviços sujeitos ao regime de preços a que se refere o n.º 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/08001/00010003.pdf))](https://files.diariodarepublica.pt/1s/1982/04/08001/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/08001/00010003.pdf)
 
 QUADRO III
 
 Estabelecimentos a que se aplicam os n.os 1.º e 2.º (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/08001/00010003.pdf))](https://files.diariodarepublica.pt/1s/1982/04/08001/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/08001/00010003.pdf)
 
 (nota a) Nos estabelecimentos em que funcionam unidades de diferente classificação serão aplicados os regimes de preços que correspondam à classificação ou categoria de cada uma dessas unidades.
 
@@ -161,6 +198,6 @@ QUADRO IV
 
 Estabelecimentos similares dos hoteleiros a que se refere a alínea a) do n.º 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/08001/00010003.pdf))](https://files.diariodarepublica.pt/1s/1982/04/08001/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/08001/00010003.pdf)
 
-**O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca.**
+O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca.

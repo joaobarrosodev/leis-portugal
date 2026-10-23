@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/116/2004/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2004-269642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0861f4902b475d0c20a4ca445685fdd99845d55548357c38390cd5f46f2165e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13a1acfe406431c8cb642e7293c0f915447519400f5ab42353a0122037c708e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Aproximação das Legislações
-- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
 - Cereal
-- Multa
 - Contra-ordenação
-- Definição de Competências
-- Direcção Regional de Agricultura
 - Controlo Sanitário
-- Saúde Pública
+- Definição de Competências
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
+- Direcção Regional de Agricultura
 - Fiscalização
 - Fruto
+- Limite Máximo de Resíduos
+- Multa
+- Produto Agrícola
+- Produto Alimentar
+- Produto Fitofarmacêutico
 - Produto Hortícola
 - Proteção do Consumidor
-- Produto Fitofarmacêutico
-- Limite Máximo de Resíduos
-- Produto Agrícola
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:601372:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:480523:por
+  label: "Alterado o anexo do presente diploma pelo DEC LEI.205/2004.19.08.2004.MADRP, DR.IS-A [195] de 19.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2004-480523
+  date: '2004-08-19'
+- type: amended_by
+  target: pt:dre:358492:por
+  label: "Suprimida uma rúbrica do anexo II da Portaria 488/90, de 29 de Junho, alterada pelo presente diploma, pelo DEC LEI.123/2006.28.06.2006.MADRP,\
+    \ DR.IS-A [123] de 28.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-2006-358492
+  date: '2006-06-28'
+- type: amended_by
+  target: pt:dre:545386:por
+  label: "Suprimidas várias rubricas no anexo do presente diploma, pelo DEC LEI.233/2006.29.11.2006.MADRP, DR.IS [230] de\
+    \ 29.11.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/233-2006-545386
+  date: '2006-11-29'
+- type: amended_by
+  target: pt:dre:639288:por
+  label: "Suprimidas algumas rubricas no anexo II da Port 488/90 de 29-Jun, com a redacção conferida no presente diploma,\
+    \ pelo DEC LEI.235/2007.19.06.2007.MADRP, DR.IS [116] de 19.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-2007-639288
+  date: '2007-06-19'
+- type: amended_by
+  target: pt:dre:452889:por
+  label: "Alterado o anexo do presente diploma, com a redacção conferida nos Dec Lei 205/2004 de 19-Ago e 233/2006 de 29-Nov,\
+    \ pelo DEC LEI.202/2008.09.10.2008.MADRP, DR.IS [196] de 09.10.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2008-452889
+  date: '2008-10-09'
 - type: cites
   target: celex:32002L0079
   label: null
@@ -110,16 +139,21 @@ relationships:
   target: celex:32004L0002
   label: null
   source: http://data.europa.eu/eli/dir/2004/2/oj
+- type: repealed_by
+  target: pt:dre:601372:por
+  label: "Revogado, nos termos do art. 13.º, pelo DEC LEI.39/2009.10.02.2009.MADRP, DR.IS [28] de 10.02.2009\0009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2009-601372
+  date: '2009-02-10'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:13Z'
   warnings: []
   errors: []
 ---
@@ -220,15 +254,15 @@ c) 4 de Junho de 2005, para as substâncias activas 2,4-DB, ciazofamida, etoxiss
 
 Visto e aprovado em Conselho de Ministros de 24 de Março de 2004. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 3 de Maio de 2004.**
+Promulgado em 3 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Maio de 2004.**
+Referendado em 5 de Maio de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Resíduos de substâncias activas de produtos fitofarmacêuticos e LMR
 

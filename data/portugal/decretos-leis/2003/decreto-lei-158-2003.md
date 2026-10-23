@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/07/164a00/41314137.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/158/2003/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2003-671045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc89dab5e657f77abef18b338d0a4808bb24adbfb8d6ef6cac7550fe00be7e3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83b94cea2caf2ec156ce36664c7c67df2695e7d360495711be6de5b519ce32d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Regional de Saúde de Lisboa e VALE do TEJO
 - Administração Regional de Saúde do Alentejo
 - Administração Regional de Saúde do Algarve
-- Administração Regional de Saúde de Lisboa e VALE do TEJO
 - Administração Regional de Saúde do Centro
 - Administração Regional de Saúde do Norte
-- Reestruturação de Serviços
-- Pessoal Dirigente
 - Criação de Serviços
 - Definição de Competências
 - Direcção Geral das Instalações e Equipamentos de Saúde
-- Extinção de Serviços
 - Direcção Regional das Instalações e Equipamentos da Saúde
+- Extinção de Serviços
+- Gestão de Recursos Humanos
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Reestruturação de Carreiras
-- Gestão de Recursos Humanos
+- Reestruturação de Serviços
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
@@ -88,6 +88,30 @@ relationships:
   target: pt:dre:638532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545638:por
+  label: "Extinta, sendo objecto de fusão, a Direcção-Geral das Instalações e Equipamentos da Saúde, criada pelo Dec Lei 497/85\
+    \ de 17-Dez, (já revogado) e cuja orgânica foi aprovada pelo presente diploma, sendo as suas atribuições relativas aos\
+    \ serviços não integrados no Serviço Nacional de Saúde integrados na Secretaria-Geral e as restantes atribuições integradas\
+    \ na Administração Central do Sistema de Saúde, I.P., pelo DEC LEI.212/2006.27.10.2006.MS, DR.IS [208] de 27.10.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2006-545638
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:638523:por
+  label: "Determinado que a Secretaria Geral suceda nas atribuições relativas aos serviços não integrados no Serviço Nacional\
+    \ de Saúde da Direcção Geral das Instalações e Equipamentos da Saúde (extinta nos termos da al a) do nº 2 do art. 26º\
+    \ do Dec Lei 212/2006 de 27-Out), cuja orgânica foi aprovada pelo presente diploma, pelo DR.65/2007.29.05.2007.MS, DR.IS\
+    \ [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/65-2007-638523
+  date: '2007-05-29'
+- type: amended_by
+  target: pt:dre:638532:por
+  label: "Determinada a sucessão da ACSS, I.P., nas atribuições da Direcção-Geral das Instalações e Equipamentos de Saúde,\
+    \ com excepcção das relativas aos serviços não integrados no Serviço Nacional de Saúde, e revogado o presente diploma,\
+    \ a partir de 01.06.2007, pelo DEC LEI.219/2007.29.05.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-2007-638532
+  date: '2007-05-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/185/2002/08/20/p/dre
   label: null
@@ -120,16 +144,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/86/2003/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/86/2003/08/26/p/dre
+- type: cites
+  target: pt:dre:171692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668520:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:57Z'
   warnings: []
   errors: []
 ---
@@ -298,7 +354,9 @@ c) A Divisão de Equipamento Médico e Geral;
 
 d) A Divisão de Informática e Património.
 
-###### Artigo 8.º — Divisão de Arquitectura
+###### Artigo 8.º
+
+##### Divisão de Arquitectura
 
 À Divisão de Arquitectura compete, no domínio técnico respectivo, desenvolver, aperfeiçoar, actualizar e aplicar conhecimentos em matéria de tipologias de projectos, de instalações de serviços, de instituições da saúde e, em especial:
 
@@ -328,7 +386,9 @@ m) Promover e elaborar estudos sobre projecto, equipamentos e construção hospi
 
 n) Propor a realização de acções de formação no domínio técnico-científico específico.
 
-###### Artigo 9.º — Divisão de Engenharia
+###### Artigo 9.º
+
+##### Divisão de Engenharia
 
 À Divisão de Engenharia compete, no domínio técnico respectivo, desenvolver, aperfeiçoar, actualizar e aplicar os conhecimentos que se mostrem necessários no âmbito do projecto, das instalações dos serviços, das instituições da saúde e, em especial:
 
@@ -360,7 +420,9 @@ n) Promover e elaborar estudos sobre projecto, equipamentos e construção hospi
 
 o) Propor a realização de acções de formação no domínio técnico-científico específico.
 
-###### Artigo 10.º — Divisão de Equipamento Médico e Geral
+###### Artigo 10.º
+
+##### Divisão de Equipamento Médico e Geral
 
 À Divisão de Equipamento Médico e Geral compete, no domínio técnico respectivo, desenvolver, aperfeiçoar, actualizar e aplicar os conhecimentos que se mostrem necessários no âmbito dos equipamentos médico e geral dos serviços e das instituições da saúde e, em especial:
 
@@ -386,7 +448,9 @@ j) Promover e elaborar estudos sobre equipamento médico e geral, com vista ao e
 
 l) Propor a realização de acções de formação no domínio técnico-científico específico.
 
-###### Artigo 11.º — Divisão de Informática e Património
+###### Artigo 11.º
+
+##### Divisão de Informática e Património
 
 1 - À Divisão de Informática e Património compete desenvolver, actualizar e aperfeiçoar conhecimentos no domínio da informática, elaborar projectos e acompanhar a sua execução, inventariar e organizar os ficheiros centrais de terrenos, instalações e equipamentos da saúde e, em especial:
 
@@ -616,15 +680,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Abril de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Luís Filipe Pereira.
 
-**Promulgado em 4 de Julho de 2003.**
+Promulgado em 4 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Julho de 2003.**
+Referendado em 7 de Julho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (mapa a que se refere o artigo 15.º)
 

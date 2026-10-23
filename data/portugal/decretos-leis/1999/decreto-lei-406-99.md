@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/406/1999/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-1999-667143
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:12:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9da5f7d9a2434d2aa9bc0b36a150040289674352becc71ad119cbecd1685bf52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86748202f5756bad6355ea9d5aaa11860a9cd96da188bdf25aa4523cf8a91af6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:12:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
 - Administração Pública
 - Conselho Superior da Administração e da Função Pública
+- Função Pública
 - Presidência do Conselho de Ministros
 relationships:
 - type: amended_by
@@ -79,16 +79,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/187/1996/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/187/1996/10/02/p/dre
+- type: cites
+  target: pt:dre:212590:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:386784:por
+  label: "Revogado o Dec Lei 187/96 de 02-Out, na redacção do presente diploma, pelo DEC LEI.67/2001.2001.02.22.MREAP,DR.IS-A\
+    \ [45]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2001-386784
+  date: '2001-02-22'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:12:02Z'
   warnings: []
   errors: []
 ---
@@ -123,12 +133,12 @@ d) O inspector-geral da Administração Pública, cuja representação será ass
 
 Visto e aprovado em Conselho de Ministros de 26 de Agosto de 1999. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 23 de Setembro de 1999.**
+Promulgado em 23 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Outubro de 1999.**
+Referendado em 1 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

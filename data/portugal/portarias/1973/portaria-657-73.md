@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/10/23100/16831699.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/657-1973-413023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T04:11:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2a37d3f0ace9bb2832393f4e87c2af402163c533e720dd0b1006a5d79c1e93d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfaf2f2c9e4f914142412ab9c7ea49c432c86856002afc63210130d4f41e881f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:11:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Junta Médico-Militar
 relationships:
 - type: amended_by
   target: pt:dre:345123:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609351:por
+  label: "MANTEM-SE EM VIGOR A TABELA DE LESÕES PARA USO DAS JUNTAS MEDICO-MILITARES, PELA PORTARIA 28/89, PUBLICADA NO DR.IS,\
+    \ 14, DE 890117, NA PARTE QUE NAO CONTRARIE A TABELA DE PERFIS PSICOFÍSICOS E DE INCAPACIDADES DO EXÉRCITO.\0DO EXÉRCITO.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/28-1989-609351
+- type: amended_by
+  target: pt:dre:609351:por
+  label: "Mantida em vigor a tabela de lesões para uso das juntas médico-militares, aprovado pelo presente diploma, na parte\
+    \ que não contrarie a tabela de perfis psicofísicos e de incapacidade do exército, pela PORT.28/89.17.01.1989.MDN, DR.IS\
+    \ [14] de 17.01.1989\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/28-1989-609351
+  date: '1989-01-17'
+- type: cites
+  target: pt:dre:233313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538263:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:411093:por
+  label: "Rectificadas as tabelas de lesões n.ºs 116, 205, 209, 262, a observação (b) da 306, as 321, 322, 420, 458, 485,\
+    \ 486, e a coluna correspondente à tabela M da 510, pela DECL.DD9050.03.12.1973.PC, DG.IS [281] de 03.12.1973\03"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1973-411093
+  date: '1973-12-03'
+- type: repealed_by
+  target: pt:dre:345123:por
+  label: "Revogada pelo DEC LEI.291/99.1999.08.03.MDN DR.IS-A [179], quando for publicada a legislação prevista nos arts.\
+    \ 1.º e 2.º da norma revogatória.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/291-1999-345123
+  date: '1999-08-03'
 article_structure:
   article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:11:57Z'
   warnings: []
   errors: []
 ---
@@ -132,6 +170,6 @@ AD A aguardar confirmação da aptidão.
 
 * Conforme critério da junta e grau de lesões.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23100/16831699.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23100/16831699.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23100/16831699.pdf)
 
-**O Secretário de Estado do Exército, José Alberty Correia.**
+O Secretário de Estado do Exército, José Alberty Correia.

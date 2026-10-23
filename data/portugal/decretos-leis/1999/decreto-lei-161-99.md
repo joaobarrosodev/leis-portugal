@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/161/1999/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1999-321930
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e39298cafddd3e4bba5206784b52cc40cf06a1d2706500c8a10dcf7767f71e97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 419239de39ce89bd52361524f84c71197222ea34e24b37262332a36870ee990c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,52 +69,57 @@ subjects:
 - Administração Fiscal
 - ADSE
 - Aquisição de Bens e Serviços
-- Região Autónoma
+- Autarquia Local
 - Autorização de Despesas
-- Gestão Financeira
-- Projecto VIDA
 - Concurso
-- Direcção Geral do Tesouro
-- Ministério da Educação
 - Contrato de Locação Financeira
-- Política de Cooperação
 - Dação em Cumprimento
-- Instituto de Gestão do Crédito Público
+- Direcção Geral do Tesouro
 - Dotação Orçamental
 - Duodécimo
-- Registos e Notariado
-- Serviço Nacional de Saúde
-- Presidência Portuguesa
 - Execução do Orçamento
 - Extinção de Serviços
-- Informática
 - Fiscalização
 - Fundo de Maneio
 - Fundo Permanente
-- IRS
+- Gestão Financeira
 - Indep
+- Informática
 - Informatização Judiciária
+- Instituto de Gestão do Crédito Público
 - Instituto de Gestão Financeira da Segurança Social
 - Instituto de Promoção Turística
-- Tribunal de Contas
+- IRS
+- Joker
 - Laboratório Nacional de Engenharia Civil
+- Ministério da Educação
+- Ministério dos Negócios Estrangeiros
 - Orçamento Geral do Estado
 - Parecer
-- Sistema de Informação
+- Política de Cooperação
+- Presidência Portuguesa
+- Projecto VIDA
 - Quadro de Excedentes
 - Quadro de Pessoal
 - Receita Própria
+- Região Autónoma
+- Registos e Notariado
 - Reposição de Verbas
 - Retenção na Fonte
-- Joker
-- Ministério dos Negócios Estrangeiros
+- Serviço Nacional de Saúde
+- Sistema de Informação
 - Subsídio
-- Autarquia Local
+- Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:661357:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661357:por
+  label: "Aditado um nº 4 ao art. 22º pelo DEC LEI.569/99.1999.12.24.MNE DR.IS-A [298]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/569-1999-661357
+  date: '1999-12-24'
 - type: cites
   target: celex:31993R3605
   label: null
@@ -122,13 +127,13 @@ relationships:
 article_structure:
   article_count: 41
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:46Z'
   warnings: []
   errors: []
 ---
@@ -525,12 +530,12 @@ Os contratos celebrados durante o ano de 1999 que tenham por objecto aquisiçõe
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Osvaldo Sarmento e Castro - Luís Manuel Capoulas Santos - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Catarina Marques de Almeida Vaz Pinto - José Mariano Rebelo Pires Gago - António Luís Santos da Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 29 de Abril de 1999.**
+Promulgado em 29 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Maio de 1999.**
+Referendado em 4 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

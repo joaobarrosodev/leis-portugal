@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/11/2010/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2010-610216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:11:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da92a03551bd3bcf777ab3651159fd5e08b7259ecf77218ae4f00ef92be50578
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfa2048c0c56a31897cd1067255d9436977fb702a642d95a67112eff98b39198
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:11:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,19 +71,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Material Electromagnético
 - Certificado de Conformidade
+- Equipamento de Veículo
 - Equipamento Eléctrico
 - Fabrico Industrial
 - Homologação
 - Instituto da Mobilidade e dos Transportes Terrestres
+- Material Electromagnético
 - Veículo
-- Equipamento de Veículo
 relationships:
 - type: amended_by
   target: pt:dre:502980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502980:por
+  label: "Dada nova redação ao anexo I do Dec Lei 237/2006 de 14-dez, alterado pelo presente diploma, pelo DEC LEI.148/2013.24.10.2013.MECO,\
+    \ DR.IS [206] de 24.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2013-502980
+  date: '2013-10-24'
 - type: cites
   target: celex:31972L0245
   label: null
@@ -120,16 +126,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/267-b/2000/10/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/267-b/2000/10/20/p/dre
+- type: repealed_by
+  target: pt:dre:458194:por
+  label: "Revogado o Dec Lei 267-B/2000, de 20-Out, a partir de 20.07.2010, na redacção do presente diploma, pelo DEC LEI.86-A/2010.15.07.2010.MOPTC,\
+    \ DR.IS [136-Supl] de 15.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2010-458194
+  date: '2010-07-15'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:11:50Z'
   warnings: []
   errors: []
 ---
@@ -200,15 +212,15 @@ São revogados o artigo 39.º e o anexo xiv do Decreto-Lei n.º 237/2006, de 14 
 
 Visto e aprovado em Conselho de Ministros de 7 de Janeiro de 2010. - José Sócrates Carvalho Pinto de Sousa - António Fernandes da Silva Braga - João José Garcia Correia - António Augusto da Ascenção Mendonça.
 
-**Promulgado em 27 de Janeiro de 2010.**
+Promulgado em 27 de Janeiro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de Janeiro de 2010.**
+Referendado em 28 de Janeiro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 

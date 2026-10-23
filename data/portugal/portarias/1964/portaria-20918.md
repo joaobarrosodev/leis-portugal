@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20918-1964-535398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ea755b062ba01aa6b995b09bab5ea975def47268917f71f97066227dd7e7788
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7e15e13b0aae017b626caa6a9d1663323d5b9c0de099f3a33650ca81d194203
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:298413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486558:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:13Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +101,13 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 2.º O artigo 26.º, com a seguinte redacção:
 
-###### Art. 26.º O subdirector das escolas de regentes agrícolas será um dos professores técnicos do quadro da escola, nomeado pelo governador-geral, em comissão, e a todo o tempo substituível.
+Art. 26.º O subdirector das escolas de regentes agrícolas será um dos professores técnicos do quadro da escola, nomeado pelo governador-geral, em comissão, e a todo o tempo substituível.
 
 § único. O actual subdirector da Escola de Regentes Agrícolas do Dr. Francisco Machado, do Tchivinguiro, será colocado nos serviços de agricultura e florestas da província, com garantia da sua actual categoria e situação legal.
 
 3.º O capítulo III, com exclusão dos artigos 46.º e 49.º, devendo observar-se para o artigo 43.º a seguinte redacção:
 
-###### Art. 43.º A Escola de Regentes Agrícolas do Dr. Francisco Machado será dotada no orçamento da província e gozará de autonomia administrativa e financeira.
+Art. 43.º A Escola de Regentes Agrícolas do Dr. Francisco Machado será dotada no orçamento da província e gozará de autonomia administrativa e financeira.
 
 4.º O governador-geral de Angola fixará a sede de um médico do quadro dos serviços de saúde pública da província na Escola de Regentes Agrícolas do Dr. Francisco Machado, ficando a seu cargo a assistência do corpo docente e suas famílias, dos alunos e do demais pessoal em serviço na Escola, ou residindo nas suas propriedades, bem como do pessoal do Centro de Estudos e da Estação Zootécnica da Humpata, e da população em geral da área deste posto administrativo.
 

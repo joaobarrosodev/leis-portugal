@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/157/2004/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2004-517466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 726b3c50bfbc3ec800e2eb367d81182e21ece406e8c001a0039e2f7a09e3d5dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb5534c415410f5642bda3de0c7f28b091ddad731649bb00f717d128f0064838
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Educação dos Adultos
 - Ensino Artístico
 - Plano de Estudos
-- Educação dos Adultos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/74/2004/03/26/p/dre
@@ -77,16 +77,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:05Z'
   warnings: []
   errors: []
 ---
@@ -115,15 +127,15 @@ Os cursos artísticos especializados de ensino recorrente e os respectivos plano
 
 Visto e aprovado em Conselho de Ministros de 17 de Maio de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - José David Gomes Justino - Maria da Graça Martins da Silva Carvalho - António José de Castro Bagão Félix.
 
-**Promulgado em 15 de Junho de 2004.**
+Promulgado em 15 de Junho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Junho de 2004.**
+Referendado em 21 de Junho de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Matriz dos cursos artísticos especializados de ensino recorrente
 

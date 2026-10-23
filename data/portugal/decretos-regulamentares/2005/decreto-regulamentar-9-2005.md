@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/09/175b00/55085509.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/9/2005/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-2005-143081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65889d3e401abea3e530930335f4120cf1a447f3727e201fd7ac7d68f15d20b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4e51539830799630f7609cd7af93d195ed71915064c7e6a57fa9141b33fed13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Águas Públicas
-- Barragem de Valtorno
-- Ordenamento do Território
 - Albufeiras
-- Licenciamento de Obras
-- Zona de Proteção
+- Barragem de Valtorno
 - Domínio Público Hídrico
+- Licenciamento de Obras
+- Ordenamento do Território
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:608704:por
@@ -89,16 +89,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/37/1991/07/23/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/37/1991/07/23/p/dre
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662300:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:608704:por
+  label: "Revogado pelo DEC LEI.107/2009.15.05.2009.MAOTDR, DR.IS [94] de 15.05.2009, com a entrada em vigor da portaria referida\
+    \ no nº 5 do seu art. 36º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2009-608704
+  date: '2009-05-15'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:28Z'
   warnings: []
   errors: []
 ---
@@ -129,12 +155,12 @@ Ao abrigo do artigo 8.º do [Decreto-Lei n.º 502/71](https://diariodarepublica.
 
 Visto e aprovado em Conselho de Ministros de 29 de Julho de 2005. - José Sócrates Carvalho Pinto de Sousa - Francisco Carlos da Graça Nunes Correia.
 
-**Promulgado em 14 de Agosto de 2005.**
+Promulgado em 14 de Agosto de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Agosto de 2005.**
+Referendado em 17 de Agosto de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

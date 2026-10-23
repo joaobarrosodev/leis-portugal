@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/695-1980-460472
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:26:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 078b235b5a250be7a185108d3ee034df2a377e4f95a9a415307dfdbe78ab765e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50a54f2bdeb1e90549cba89640f4beda1bc2c76e3addac27c56b44abed15df09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:26:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pessoal Técnico Superior
+- Presidência do Conselho de Ministros
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:421818:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:421818:por
+  label: "Substituído o quadro de pessoal, aprovado pela Port 547/80, de 28-Ago, com as alterações introduzidas pelo presente\
+    \ diploma e pelas Port 131/81, de 27-Jan, 1017/82, de 04-Nov, 287/84, de 12-Mai e 606/86, de 17-Out, pelo constante do\
+    \ anexo III da PORT.461/87.1987.06.02.PCM, DR.IS [126]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/461-1987-421818
+  date: '1987-06-02'
+- type: cites
+  target: pt:dre:381321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:26:51Z'
   warnings: []
   errors: []
 ---

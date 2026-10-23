@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/071a00/28392842.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/69/2002/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2002-300579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31db521d697339aa66c71db98d907fc013a8bb22fde0c6a039fc284de2acb0b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 251e6b5f3cdc53d32a5daabf5f3d5d5fda9c469e1722c9e7ca095a1bfd6f19c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Conselho Tarifário
 - Distribuição de Energia Elétrica
 - Energia Elétrica
-- Conselho Tarifário
 - Entidade Reguladora do Sector Eléctrico
-- Preço
-- Serviço Público
-- Produção de Energia Elétrica
 - Madeira.região Autónoma
-- Açores
+- Preço
+- Produção de Energia Elétrica
+- Serviço Público
 - Sistema Eléctrico de Serviço Público
 - Sistema Eléctrico não Vinculado
 relationships:
@@ -107,16 +107,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/56/1997/03/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/56/1997/03/14/p/dre
+- type: cites
+  target: pt:dre:484667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517247:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:683861:por
+  label: "Revogado o Dec Lei 182/95 de 27-Jul, na redacção do presente diploma, pelo DEC LEI.29/2006.15.02.2006.MEI, DR.IS-A\
+    \ [33] de 15.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-2006-683861
+  date: '2006-02-15'
 article_structure:
-  article_count: 19
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:19Z'
   warnings: []
   errors: []
 ---
@@ -227,7 +257,9 @@ Os artigos 1.º, 5.º, 6.º, 7.º, 29.º, 30.º, 32.º, 40.º, 41.º, 42.º e 52
 
 3 - O presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira no âmbito da extensão da regulação das actividades nos termos nele previstos, nomeadamente nos artigos 5.º, 6.º 29.º e 32.º
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - São objecto de regulação as actividades exercidas no âmbito do SEP, nomeadamente a gestão das tarifas reguladas pelo Regulamento Tarifário previsto neste diploma, a supervisão do cumprimento das regras de funcionamento do SEP e relacionamento comercial entre o SEP e o SENV, bem como a qualidade do serviço prestado.
 
@@ -237,19 +269,25 @@ Os artigos 1.º, 5.º, 6.º, 7.º, 29.º, 30.º, 32.º, 40.º, 41.º, 42.º e 52
 
 4 - A regulação das tarifas de venda de energia eléctrica aos clientes, aplicáveis nas Regiões Autónomas dos Açores e da Madeira, processa-se nos termos de uma convergência tarifária que terá em conta as desvantagens do carácter ultraperiférico destas Regiões Autónomas.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A regulação do SEP e das suas relações comerciais com o SENV incumbe a uma pessoa colectiva de direito público, adiante designada por entidade reguladora, cuja constituição, competência e funcionamento constam de decreto-lei.
 
 2 - Incumbe ainda à entidade reguladora prevista no número anterior a regulação das actividades nos termos estabelecidos nos n.os 2, 3 e 4 do artigo anterior.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Compete ao SEP assegurar em todo o território nacional a satisfação das necessidades dos consumidores de energia eléctrica, em regime de serviço público.
 
 2 - A entidade reguladora, no âmbito da regulação estabelecida nos artigos 5.º e 6.º, assegura a convergência tarifária do SEP com os sistemas eléctricos públicos das Regiões Autónomas dos Açores e da Madeira.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - A actividade de distribuição de energia eléctrica no SEP é realizada em obediência aos seguintes princípios:
 
@@ -261,7 +299,9 @@ c) Ao princípio da convergência tarifária dos sistemas eléctricos das Regiõ
 
 2 - No âmbito da aplicação dos princípios estabelecidos no número anterior, a entidade reguladora, no quadro da regulação prevista nos artigos 5.º e 6.º, adopta condições especiais de regulação que assegurem a convergência tarifária dos sistemas eléctricos públicos das Regiões Autónomas dos Açores e da Madeira, tendo em consideração as desvantagens do carácter ultraperiférico daquelas Regiões.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -279,7 +319,9 @@ d) ...
 
 e) ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -293,7 +335,9 @@ c) ...
 
 d) Com os custos da convergência tarifária prevista nos artigos 5.º, 29.º e 30.º
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -303,7 +347,9 @@ d) Com os custos da convergência tarifária prevista nos artigos 5.º, 29.º e 
 
 4 - As entidades dos sistemas eléctricos públicos das Regiões Autónomas dos Açores e da Madeira ficam igualmente obrigadas ao cumprimento das disposições do Regulamento Tarifário, nos termos nele estabelecidos, que terão em conta as especificidades dos sistemas eléctricos e das redes destas Regiões.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -311,7 +357,9 @@ d) Com os custos da convergência tarifária prevista nos artigos 5.º, 29.º e 
 
 3 - As entidades dos sistemas eléctricos públicos das Regiões Autónomas dos Açores e da Madeira ficam igualmente obrigadas ao cumprimento das disposições do Regulamento da Qualidade de Serviço, nos termos nele estabelecidos, que terão em conta as especificidade dos sistemas eléctricos e das redes destas Regiões.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -321,7 +369,9 @@ d) Com os custos da convergência tarifária prevista nos artigos 5.º, 29.º e 
 
 4 - As entidades dos sistemas eléctricos públicos das Regiões Autónomas dos Açores e da Madeira ficam igualmente obrigadas ao cumprimento das disposições do Regulamento de Relações Comerciais, nos termos nele estabelecidos, que terão em conta as especificidades dos sistemas eléctricos e das redes destas Regiões.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - ...
 
@@ -331,12 +381,12 @@ d) Com os custos da convergência tarifária prevista nos artigos 5.º, 29.º e 
 
 Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Luís Garcia Braga da Cruz.
 
-**Promulgado em 7 de Março de 2002.**
+Promulgado em 7 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Março de 2002.**
+Referendado em 14 de Março de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

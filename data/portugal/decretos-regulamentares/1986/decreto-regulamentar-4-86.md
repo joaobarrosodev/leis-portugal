@@ -46,36 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1986-616404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7e74a0ea2304f80219c50a509e9b5d7d4f7474637542b73d9bc7ad966ed15a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d4ebe4a35fd7d11ff7632986ad3cab05c66cc841484719a0599fc0b27b0bf29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aveiro
+- Orgânica
+- Serviços Sociais Universitários
+- Universidade de Aveiro
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL PELA PORT 1147/95 DE 18-SET DR.IS-B [216]\0B [216]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-18'
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655084:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:15Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +125,11 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º Os Serviços Sociais da Universidade de Aveiro, adiante designados por SSUA, são uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira.
+Artigo 1.º Os Serviços Sociais da Universidade de Aveiro, adiante designados por SSUA, são uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira.
 
-###### Art. 2.º Os SSUA têm por fim a concessão de auxílios económicos e a prestação de serviços a estudantes, nos termos e condições que forem fixados no contexto da política da acção social escolar superiormente definida.
+Art. 2.º Os SSUA têm por fim a concessão de auxílios económicos e a prestação de serviços a estudantes, nos termos e condições que forem fixados no contexto da política da acção social escolar superiormente definida.
 
-###### Art. 3.º - 1 - A acção social escolar a desenvolver pelos SSUA beneficiará todos os estudantes interessados, desde que estejam matriculados na Universidade de Aveiro e preencham as condições legalmente fixadas.
+Art. 3.º - 1 - A acção social escolar a desenvolver pelos SSUA beneficiará todos os estudantes interessados, desde que estejam matriculados na Universidade de Aveiro e preencham as condições legalmente fixadas.
 
 2 - Os estudantes matriculados em estabelecimentos de ensino superior não integrados na Universidade de Aveiro que não sejam abrangidos pela acção social de quaisquer outros serviços sociais do ensino superior poderão beneficiar da acção desenvolvida pelos SSUA, nos termos do disposto nos números seguintes.
 
@@ -120,7 +145,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 #### SECÇÃO I — Dos órgãos, sua estrutura, funcionamento e competência
 
-###### Art. 4.º Os SSUA têm os seguintes órgãos:
+Art. 4.º Os SSUA têm os seguintes órgãos:
 
 a) Presidente;
 
@@ -128,9 +153,9 @@ b) Conselho geral;
 
 c) Conselho administrativo.
 
-###### Art. 5.º O presidente dos SSUA é, por inerência, o reitor da Universidade.
+Art. 5.º O presidente dos SSUA é, por inerência, o reitor da Universidade.
 
-###### Art. 6.º - 1 - Compete ao presidente dirigir superiormente os SSUA, orientar e coordenar as suas actividades, designadamente:
+Art. 6.º - 1 - Compete ao presidente dirigir superiormente os SSUA, orientar e coordenar as suas actividades, designadamente:
 
 a) Assegurar a gestão corrente dos SSUA;
 
@@ -152,11 +177,11 @@ h) Submeter ao CASES os projectos de regulamentos e assuntos relativos ao funcio
 
 3 - O presidente será coadjuvado nas suas funções por um vice-presidente, no qual poderá delegar algumas das suas competências.
 
-###### Art. 7.º - 1 - O lugar de vice-presidente dos SSUA é equiparado, para todos os efeitos legais, ao cargo de subdirector-geral.
+Art. 7.º - 1 - O lugar de vice-presidente dos SSUA é equiparado, para todos os efeitos legais, ao cargo de subdirector-geral.
 
 2 - O vice-presidente dos SSUA é nomeado pelo Ministro da Educação, sob proposta do presidente, de entre indivíduos com licenciatura e experiência adequadas ao cargo.
 
-###### Art. 8.º - 1 - O conselho geral é constituído por:
+Art. 8.º - 1 - O conselho geral é constituído por:
 
 a) O presidente dos SSUA, que preside;
 
@@ -182,7 +207,7 @@ f) 2 representantes das associações de estudantes.
 
 7 - Os membros do conselho geral referidos nas alíneas d), e) e f) do n.º 1 manter-se-ão em funções após o tempo dos respectivos mandatos até que sejam designados os novos membros que os irão substituir.
 
-###### Art. 9.º Compete ao conselho geral dos SSUA:
+Art. 9.º Compete ao conselho geral dos SSUA:
 
 a) Aprovar as propostas dos planos anuais e plurianuais de actividades a submeter à aprovação do CASES;
 
@@ -196,7 +221,7 @@ e) Aprovar o projecto de relatório anual de actividades, com vista à sua aprov
 
 f) Acompanhar o funcionamento e consultar a documentação dos Serviços Operativos e de Apoio, podendo, para o efeito, delegar poderes em alguns dos seus membros.
 
-###### Art. 10.º - 1 - O conselho geral reunirá ordinariamente de 3 em 3 meses e extraordinariamente quando convocado pelo presidente dos SSUA, por sua iniciativa ou a pedido de, pelo menos, dois dos seus membros.
+Art. 10.º - 1 - O conselho geral reunirá ordinariamente de 3 em 3 meses e extraordinariamente quando convocado pelo presidente dos SSUA, por sua iniciativa ou a pedido de, pelo menos, dois dos seus membros.
 
 2 - A convocatória para a reunião do conselho geral será acompanhada da lista dos assuntos a tratar na reunião.
 
@@ -206,7 +231,7 @@ f) Acompanhar o funcionamento e consultar a documentação dos Serviços Operati
 
 5 - O presidente tem voto de qualidade.
 
-###### Art. 11.º - 1 - O conselho administrativo dos SSUA é constituído por:
+Art. 11.º - 1 - O conselho administrativo dos SSUA é constituído por:
 
 a) O presidente dos SSUA, que preside;
 
@@ -220,7 +245,7 @@ d) O chefe da Repartição de Administração Geral.
 
 3 - Nas faltas ou impedimentos dos membros do conselho administrativo mencionados nas alíneas a), b) e d) do n.º 1, será chamado a participar nas respectivas reuniões o seu substituto legal, o qual, se não estiver designado na lei, será o funcionário exercendo funções na escala hierárquica imediatamente inferior.
 
-###### Art. 12.º - 1 - Compete ao conselho administrativo dos SSUA:
+Art. 12.º - 1 - Compete ao conselho administrativo dos SSUA:
 
 a) Promover a elaboração dos planos financeiros anuais e plurianuais;
 
@@ -246,7 +271,7 @@ l) Promover a organização e permanente actualização do inventário e cadastr
 
 2 - Em matéria de autorização de despesas e de celebração de contratos, o conselho administrativo terá a competência atribuída na lei geral aos responsáveis dos serviços dotados com autonomia administrativa e financeira e a que lhe for atribuída por delegação do Ministro da Educação.
 
-###### Art. 13.º - 1 - O conselho administrativo dos SSUA reunirá ordinariamente duas vezes por mês e extraordinariamente por solicitação de qualquer dos seus membros.
+Art. 13.º - 1 - O conselho administrativo dos SSUA reunirá ordinariamente duas vezes por mês e extraordinariamente por solicitação de qualquer dos seus membros.
 
 2 - O conselho administrativo só poderá deliberar quando se encontre presente a maioria simples dos seus membros.
 
@@ -260,13 +285,13 @@ l) Promover a organização e permanente actualização do inventário e cadastr
 
 #### SECÇÃO II — Dos serviços, sua estrutura, funcionamento e competência
 
-###### Art. 14.º São serviços dos SSUA:
+Art. 14.º São serviços dos SSUA:
 
 a) Os Serviços Operativos;
 
 b) A Repartição de Administração Geral.
 
-###### Art. 15.º - 1 - Os Serviços Operativos exercem as suas atribuições nos seguintes domínios:
+Art. 15.º - 1 - Os Serviços Operativos exercem as suas atribuições nos seguintes domínios:
 
 a) Alojamento;
 
@@ -280,7 +305,7 @@ d) Textos, livraria e material escolar.
 
 3 - O vice-presidente será coadjuvado, em cada um dos domínios de acção dos Serviços Operativos, por um dos funcionários neles colocado, a designar para o efeito.
 
-###### Art. 16.º Em matéria de alojamento, compete aos SSUA:
+Art. 16.º Em matéria de alojamento, compete aos SSUA:
 
 a) Providenciar pela abertura e assegurar o funcionamento de residências estudantis;
 
@@ -300,7 +325,7 @@ h) Enviar aos serviços competentes os elementos necessários à elaboração do
 
 i) Assegurar a lavagem e tratamento de roupas.
 
-###### Art. 17.º Em matéria de alimentação, compete aos SSUA:
+Art. 17.º Em matéria de alimentação, compete aos SSUA:
 
 a) Providenciar pela abertura e assegurar o funcionamento de refeitórios, snacks e bares;
 
@@ -326,7 +351,7 @@ d) Estudar e propor superiormente a adopção de novos esquemas e tipos de auxí
 
 e) Enviar aos serviços competentes os elementos necessários à elaboração dos orçamentos e relatórios anuais dos SSUA.
 
-###### Art. 19.º Em matéria de textos, livraria e material escolar, compete aos SSUA:
+Art. 19.º Em matéria de textos, livraria e material escolar, compete aos SSUA:
 
 a) Promover a edição de folhas, textos de apoio ou didácticos, ou a sua reedição, no sentido da sua melhoria e actualização;
 
@@ -352,13 +377,13 @@ l) Enviar aos serviços competentes os elementos necessários à elaboração do
 
 m) Manter permanentemente actualizado um sistema de controle de actualização e consumos.
 
-###### Art. 20.º A Repartição de Administração Geral é dirigida por um chefe de repartição e compreende:
+Art. 20.º A Repartição de Administração Geral é dirigida por um chefe de repartição e compreende:
 
 a) Secção administrativa;
 
 b) Secção de aprovisionamento.
 
-###### Art. 21.º A secção administrativa exerce as suas atribuições nos domínios de contabilidade e orçamento, do pessoal, expediente geral e arquivo, competindo-lhe:
+Art. 21.º A secção administrativa exerce as suas atribuições nos domínios de contabilidade e orçamento, do pessoal, expediente geral e arquivo, competindo-lhe:
 
 a) Preparar e elaborar o projecto de orçamento ordinário dos SSUA, bem como os dos orçamentos suplementares, e todos os processos de alteração orçamental, designadamente os de reforço e transferência de verbas e de antecipação de duodécimos;
 
@@ -404,7 +429,7 @@ v) Assegurar o apoio dactilográfico a todos os sectores dos SSUA;
 
 x) Prestar serviços de procuradoria aos estudantes.
 
-###### Art. 22.º Adstrita à secção administrativa funciona uma tesouraria, à qual compete:
+Art. 22.º Adstrita à secção administrativa funciona uma tesouraria, à qual compete:
 
 a) Efectuar os pagamentos e recebimentos;
 
@@ -414,7 +439,7 @@ c) Registar as folhas de cofre e remetê-las à contabilidade;
 
 d) Proceder ao balanço mensal de tesouraria.
 
-###### Art. 23.º A secção de aprovisionamento exerce as suas atribuições nos domínios de compras, gestão de stocks e património, competindo-lhe:
+Art. 23.º A secção de aprovisionamento exerce as suas atribuições nos domínios de compras, gestão de stocks e património, competindo-lhe:
 
 a) Proceder à prospecção de mercados, elaborando o respectivo processo de consultas;
 
@@ -454,7 +479,7 @@ s) Organizar os autos de abate e inutilização dos bens deteriorados e sem valo
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-###### Art. 24.º - 1 - Os SSUA arrecadarão e administrarão as suas receitas e satisfarão, por meio delas, os encargos que legalmente lhes caibam.
+Art. 24.º - 1 - Os SSUA arrecadarão e administrarão as suas receitas e satisfarão, por meio delas, os encargos que legalmente lhes caibam.
 
 2 - Constituem receitas dos SSUA:
 
@@ -476,33 +501,33 @@ h) Quaisquer outras receitas que por lei ou a outro título lhes sejam atribuíd
 
 3 - As receitas referidas nas alíneas b) e h) serão entregues nos cofres do Estado e escrituradas em contas de ordem no Orçamento do Estado, devendo ser movimentadas nos termos da lei geral aplicável.
 
-###### Art. 25.º - 1 - As disponibilidades dos SSUA serão depositadas na Caixa Geral de Depósitos, sem prejuízo de se poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devam ser feitas em dinheiro.
+Art. 25.º - 1 - As disponibilidades dos SSUA serão depositadas na Caixa Geral de Depósitos, sem prejuízo de se poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devam ser feitas em dinheiro.
 
 2 - Os pagamento serão efectuados, em regra, por meio de cheque e estes entregues em troca dos respectivos recibos devidamente legalizados.
 
-###### Art. 26.º Para a realização dos seus fins, os SSUA administrarão os bens do domínio público a seu cargo.
+Art. 26.º Para a realização dos seus fins, os SSUA administrarão os bens do domínio público a seu cargo.
 
-###### Art. 27.º A gestão económica e financeira dos SSUA será disciplinada pelos seguintes instrumentos de previsão:
+Art. 27.º A gestão económica e financeira dos SSUA será disciplinada pelos seguintes instrumentos de previsão:
 
 a) Plano de actividades financeiras, anuais e plurianuais;
 
 b) Orçamentos privativos anuais e suas actualizações.
 
-###### Art. 28.º - 1 - Com base no programa de trabalho para cada ano económico, o conselho administrativo dos SSUA promoverá a elaboração do respectivo orçamento privativo anual, sem prejuízo dos desdobramentos internos necessários à conveniente descentralização e responsabilidades e adequado controle de gestão.
+Art. 28.º - 1 - Com base no programa de trabalho para cada ano económico, o conselho administrativo dos SSUA promoverá a elaboração do respectivo orçamento privativo anual, sem prejuízo dos desdobramentos internos necessários à conveniente descentralização e responsabilidades e adequado controle de gestão.
 
 2 - O orçamento privativo será submetido à aprovação do Ministério da Educação, após apreciação do conselho geral e do CASES, e ao visto do Ministro das Finanças e do Plano, nos prazos legais.
 
 3 - Os SSUA poderão submeter à aprovação superior, no decurso de cada ano económico, os orçamentos suplementares previstos na lei geral destinados quer a reforçar verbas inscritas no orçamento privativo quer ainda para fins de alteração de rubricas.
 
-###### Art. 29.º O conselho administrativo dos SSUA requisitará mensalmente, nos termos da lei vigente, à delegação competente da Direcção-Geral da Contabilidade Pública, as importâncias que forem necessárias por conta das dotações orçamentais que lhes estejam atribuídas no Orçamento do Estado e das constantes de contas de ordem.
+Art. 29.º O conselho administrativo dos SSUA requisitará mensalmente, nos termos da lei vigente, à delegação competente da Direcção-Geral da Contabilidade Pública, as importâncias que forem necessárias por conta das dotações orçamentais que lhes estejam atribuídas no Orçamento do Estado e das constantes de contas de ordem.
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 30.º - 1 - Os SSUA dispõem do quadro de pessoal anexo ao presente diploma.
+Art. 30.º - 1 - Os SSUA dispõem do quadro de pessoal anexo ao presente diploma.
 
 2 - Sempre que as circunstâncias o justifiquem, poderá ser revisto o quadro de pessoal dos SSUA mediante portaria conjunta dos Ministros da Educação e das Finanças e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 31.º O quadro de pessoal dos SSUA compreenderá os seguintes grupos profissionais:
+Art. 31.º O quadro de pessoal dos SSUA compreenderá os seguintes grupos profissionais:
 
 a) Pessoal dirigente;
 
@@ -516,7 +541,7 @@ e) Pessoal operário;
 
 f) Pessoal auxiliar.
 
-###### Art. 32.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de 1 ano.
+Art. 32.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de 1 ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -534,21 +559,21 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No lugar do quadro em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 33.º As formas de recrutamento e regime de provimento do pessoal dirigente são as previstas no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e no artigo 14.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, no que se refere ao vice-presidente.
+Art. 33.º As formas de recrutamento e regime de provimento do pessoal dirigente são as previstas no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e no artigo 14.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, no que se refere ao vice-presidente.
 
-###### Art. 34.º Os lugares de chefe de repartição serão providos por concurso de entre chefes de secção com, pelo menos, 3 anos de bom e efectivo serviço ou de entre diplomados com curso superior adequado e reconhecida experiência para o desempenho das respectivas funções.
+Art. 34.º Os lugares de chefe de repartição serão providos por concurso de entre chefes de secção com, pelo menos, 3 anos de bom e efectivo serviço ou de entre diplomados com curso superior adequado e reconhecida experiência para o desempenho das respectivas funções.
 
-###### Art. 35.º As formas de recrutamento e regime de provimento para os lugares da carreira técnica superior são as previstas na lei geral.
+Art. 35.º As formas de recrutamento e regime de provimento para os lugares da carreira técnica superior são as previstas na lei geral.
 
-###### Art. 36.º As formas de recrutamento e regime de provimento do pessoal técnico são as previstas na lei geral.
+Art. 36.º As formas de recrutamento e regime de provimento do pessoal técnico são as previstas na lei geral.
 
-###### Art. 37.º As formas de recrutamento e regime de provimento para os lugares de chefe de secção, oficial administrativo, tesoureiro e escriturário-dactilógrafo são as previstas na lei geral.
+Art. 37.º As formas de recrutamento e regime de provimento para os lugares de chefe de secção, oficial administrativo, tesoureiro e escriturário-dactilógrafo são as previstas na lei geral.
 
-###### Art. 38.º - 1 - Os lugares de telefonista e de motorista são providos nos termos da lei geral.
+Art. 38.º - 1 - Os lugares de telefonista e de motorista são providos nos termos da lei geral.
 
 2 - O recrutamento, ingresso e acesso nos lugares de auxiliar administrativo far-se-á nos termos da lei geral.
 
-###### Art. 39.º - 1 - O recrutamento de encarregado de bar/snack far-se-á de entre empregados de bar/snack de 1.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria ou de entre habilitados com curso e experiência profissionais adequados.
+Art. 39.º - 1 - O recrutamento de encarregado de bar/snack far-se-á de entre empregados de bar/snack de 1.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria ou de entre habilitados com curso e experiência profissionais adequados.
 
 2 - O recrutamento de governante de residência far-se-á de entre empregados de andar/quarto de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço na categoria e mediante provas de selecção adequadas.
 
@@ -560,9 +585,9 @@ b) O acesso fica condicionado à permanência de 5 anos de bom e efectivo servi�
 
 c) Os lugares de cozinheiro principal são recrutados de entre cozinheiros de 1.ª classe com, pelo menos, 3 anos na categoria e mediante provas de selecção.
 
-###### Art. 40.º O provimento do pessoal operário em lugares do quadro dos SSUA, bem como a progressão nas respectivas carreiras, far-se-á segundo o disposto na lei geral.
+Art. 40.º O provimento do pessoal operário em lugares do quadro dos SSUA, bem como a progressão nas respectivas carreiras, far-se-á segundo o disposto na lei geral.
 
-###### Art. 41.º Ao pessoal do serviço de alimentação compete, designadamente:
+Art. 41.º Ao pessoal do serviço de alimentação compete, designadamente:
 
 1) Aos cozinheiros:
 
@@ -612,7 +637,7 @@ d) Transportar os géneros aos bares, snack-bars e refeitórios;
 
 e) Proceder à limpeza do seu local de trabalho e utensílios.
 
-###### Art. 42.º Compete aos empregados de andar/quarto:
+Art. 42.º Compete aos empregados de andar/quarto:
 
 a) Executar todas as tarefas relativas ao asseio e arranjo dos quartos, assim como dos corredores, acessos, locais de convívio e demais dependências dos alojamentos;
 
@@ -622,7 +647,7 @@ c) Recolher a roupa pessoal dos utentes das residências e assegurar o seu envio
 
 d) Colaborar no serviço de pequenos-almoços.
 
-###### Art. 43.º Compete aos operadores de lavandaria:
+Art. 43.º Compete aos operadores de lavandaria:
 
 a) Executar as tarefas de lavagem e tratamento de roupas, incluindo a preparação e funcionamento das máquinas de lavar e a desinfecção e preparação de autoclaves;
 
@@ -632,7 +657,7 @@ c) Executar as tarefas de costura, conserto e aproveitamento das roupas;
 
 d) Manter a limpeza do seu local de trabalho e utensílios.
 
-###### Art. 44.º Compete aos operadores de caixa:
+Art. 44.º Compete aos operadores de caixa:
 
 a) Receber e vender senhas de refeição e extras;
 
@@ -640,7 +665,7 @@ b) Elaborar mapas de movimento diário;
 
 c) Fazer entrega diária de todas as receitas relativas.
 
-###### Art. 45.º Compete aos fiéis de armazém:
+Art. 45.º Compete aos fiéis de armazém:
 
 a) Receber, armazenar, conservar e distribuir os materiais e géneros alimentares necessários, arrumando-os convenientemente em locais apropriados;
 
@@ -648,7 +673,7 @@ b) Fornecer os produtos solicitados;
 
 c) Assegurar a limpeza do seu local de trabalho.
 
-###### Art. 46.º Aos encarregados responsáveis pelos vários sectores de alimentação e de alojamento compete, nomeadamente:
+Art. 46.º Aos encarregados responsáveis pelos vários sectores de alimentação e de alojamento compete, nomeadamente:
 
 a) Organizar, coordenar e orientar as áreas de actuação sob a sua responsabilidade;
 
@@ -660,7 +685,7 @@ d) Receber os produtos, conferindo as guias de remessa, verificar periodicamente
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 47.º - 1 - A integração em lugares do quadro anexo ao presente diploma do pessoal abrangido pelo disposto no artigo 40.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, far-se-á por diploma individual de provimento, de acordo com as seguintes regras:
+Art. 47.º - 1 - A integração em lugares do quadro anexo ao presente diploma do pessoal abrangido pelo disposto no artigo 40.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, far-se-á por diploma individual de provimento, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário já possui;
 
@@ -682,28 +707,28 @@ c) Para categoria que resulte da aplicação da tabela de equivalências constan
 
 8 - O pessoal não abrangido pelo artigo 40.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, e que esteja a prestar serviço nos SSUA à data da entrada em vigor do presente diploma transita para lugares do quadro anexo, de acordo com o disposto nas alíneas a), b) e c) do n.º 1, sem prejuízo do disposto no artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
 
-###### Art. 48.º O pessoal não vinculado à função pública que, encontrando-se a prestar serviço nos SSUA ao abrigo da legislação geral do trabalho à data de entrada em vigor do presente diploma, opte pela não integração no quadro anexo a este decreto regulamentar será remunerado com vencimentos e outras regalias correspondentes às dos funcionários públicos integrados em carreiras e categorias com conteúdos funcionais equivalentes, não podendo ter tratamento mais favorável do que o aplicável aos restantes trabalhadores.
+Art. 48.º O pessoal não vinculado à função pública que, encontrando-se a prestar serviço nos SSUA ao abrigo da legislação geral do trabalho à data de entrada em vigor do presente diploma, opte pela não integração no quadro anexo a este decreto regulamentar será remunerado com vencimentos e outras regalias correspondentes às dos funcionários públicos integrados em carreiras e categorias com conteúdos funcionais equivalentes, não podendo ter tratamento mais favorável do que o aplicável aos restantes trabalhadores.
 
-###### Art. 49.º Os encargos resultantes da aplicação do presente diploma serão suportados pelas verbas do orçamento dos SSUA.
+Art. 49.º Os encargos resultantes da aplicação do presente diploma serão suportados pelas verbas do orçamento dos SSUA.
 
 Mário Soares - Rui Manuel Parente Chancerelle de Machete - José Manuel San-Bento de Menezes - Alípio Barrosa Pereira Dias - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 13 de Dezembro de 1985.**
+Promulgado em 13 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Dezembro de 1985.**
+Referendado em 19 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I
 
 Quadro do pessoal a que se refere o artigo 34.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, e o artigo 30.º deste diploma.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/01/00700/00740082.pdf))](https://files.diariodarepublica.pt/1s/1986/01/00700/00740082.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/01/00700/00740082.pdf)
 
 ## ANEXO II — Tabela de equivalências
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/01/00700/00740082.pdf))](https://files.diariodarepublica.pt/1s/1986/01/00700/00740082.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/01/00700/00740082.pdf)

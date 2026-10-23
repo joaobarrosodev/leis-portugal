@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/05/127a00/34083411.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/125/2004/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2004-261280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a81e570754ab1d6be741be4bd8bc78e32a23f7142f51ebc6cbdc308c97bcf47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 731c6df6ef01391736cd8a410720e1ff08e57b8c0d97d2a35daab1339dc2b39b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,49 +66,61 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Função Pública
-- Sanção Disciplinar
+- Administração Pública
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autonomia Patrimonial
-- Pessoal Dirigente
-- Sistema Português da Qualidade
+- Comércio
 - Contrato Individual de Trabalho
 - Controlo de Qualidade
 - Criação de Serviços
 - Definição de Competências
-- Administração Pública
+- Função Pública
+- Instituto Português da Qualidade
+- Instituto Português de Acreditação
 - Instituto Público
 - Integração de Trabalhadores
 - Mercado Interno
-- Instituto Português da Qualidade
-- Instituto Português de Acreditação
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Regime de Pessoal
+- Sanção Disciplinar
 - Segredo Profissional
 - Segurança Social
-- Comércio
+- Sistema Português da Qualidade
 - Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:553949:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545649:por
+  label: "Determinada a saída da administração central do Estado (externalização) do Instituto Português de Acreditação, criado\
+    \ pelo presente diploma, deixando de integrar o Ministério da Economia e Inovação, em termos a regulamentar, pelo DEC\
+    \ LEI.208/2006.27.10.2006.MEI, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2006-545649
+  date: '2006-10-27'
 - type: cites
   target: celex:31989R0090
   label: null
   source: http://data.europa.eu/eli/reg/1989/90/oj
+- type: repealed_by
+  target: pt:dre:553949:por
+  label: "Revogado, a partir de 01.04.2012, pelo DEC LEI.81/2012.27.03.2012.MEE, DR.IS [62] de 27.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-2012-553949
+  date: '2012-03-27'
 article_structure:
   article_count: 25
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:25Z'
   warnings: []
   errors: []
 ---
@@ -355,12 +367,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Abril de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Carlos Manuel Tavares da Silva - António José de Castro Bagão Félix - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 19 de Maio de 2004.**
+Promulgado em 19 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Maio de 2004.**
+Referendado em 21 de Maio de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

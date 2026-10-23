@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/07/130a00/41874188.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/109/2005/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2005-235909
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a062391af9f555f770e12a9db0ed40220f9e1bdf4f7defa6bebeb5d59399995
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de9f3d7b0583843478ace73232e509f4ec285b78ecdfce8127f3c543aea4789a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Campo de Férias
-- Formação Profissional
-- Juventude
 - Controlo Sanitário
 - Fiscalização
+- Formação Profissional
+- Instituto do Desporto de Portugal
 - Instituto Português da Juventude
 - Jovem
-- Instituto do Desporto de Portugal
+- Juventude
 - Monitor
 - Plano de Actividades
 - Regime Jurídico
@@ -84,6 +84,12 @@ relationships:
   target: pt:dre:279423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493240:por
+  label: "Alterados os arts. 15.º, 16.º e 29.º do Dec Lei 304/2003, de 09-Dez, na redacção do presente diploma, pelo DEC LEI.163/2009.22.07.2009.PCM,\
+    \ DR.IS [140] de 22.07.2009, que o republica.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-2009-493240
+  date: '2009-07-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/304/2003/12/09/p/dre
   label: null
@@ -92,16 +98,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/586/2004/06/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/586/2004/06/02/p/dre
+- type: cites
+  target: pt:dre:261772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429175:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:279423:por
+  label: "Revogado, a partir de 12.03.2011, o Dec Lei 304/2003 de 09-Dez, alterado pelo presente diploma, pelo DEC LEI.32/2011.07.03.2011.PCM,\
+    \ DR.IS [46] de 07.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2011-279423
+  date: '2011-03-07'
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:44Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +182,9 @@ e) Um exemplar do regulamento interno, do plano anual de actividades e do projec
 
 6 - ...
 
-###### Artigo 15.º — Regulamento interno, plano de actividades e projecto pedagógico e de animação
+Artigo 15.º
+
+Regulamento interno, plano de actividades e projecto pedagógico e de animação
 
 1 - ...
 
@@ -172,7 +194,9 @@ a) Um plano anual de actividades que determine a natureza de todas as actividade
 
 b) Um projecto pedagógico e de animação, no qual se expressem os princípios, valores, objectivos e estratégias educativas e pedagógicas, devendo, ainda, ser indicadas as acções preconizadas, e a preconizar, em relação à selecção, recrutamento e formação complementar do pessoal técnico.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -206,7 +230,9 @@ g) Contactos dos centros de saúde, hospitais, autoridades policiais e aquartela
 
 h) Ficha sanitária individual, contendo a informação referida no n.º 1 do artigo 23.º do presente diploma.
 
-###### Artigo 21.º — Monitores/animadores
+Artigo 21.º
+
+Monitores/animadores
 
 1 - ...
 
@@ -232,7 +258,9 @@ c) ...
 
 d) ...
 
-###### Artigo 29.º — Instalações
+Artigo 29.º
+
+Instalações
 
 1 - As instalações destinadas à organização e realização de actividades de campos de férias existentes à data da entrada em vigor da [Portaria n.º 586/2004](https://diariodarepublica.pt/dr/detalhe/portaria/586-2004-261772), de 2 de Junho, que não cumpram os requisitos aí regulamentados, conforme estatuição do n.º 1 do artigo 14.º do presente diploma, podem ser utilizadas para aquele fim até 31 de Dezembro de 2007, desde que previamente sujeitas a vistoria da autoridade de saúde competente que ateste a existência das condições mínimas de higiene, salubridade e segurança.
 
@@ -246,12 +274,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Visto e aprovado em Conselho de Ministros de 2 de Junho de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Manuel Moreira de Campos e Cunha - Manuel Pedro Cunha da Silva Pereira - Alberto Bernardes Costa - Mário Lino Soares Correia - José António Fonseca Vieira da Silva.
 
-**Promulgado em 23 de Junho de 2005.**
+Promulgado em 23 de Junho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Junho de 2005.**
+Referendado em 27 de Junho de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

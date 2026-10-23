@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/64/2008/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2008-246275
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2146110fc7321135c55df10128e044421e0432d4b6c5ef57d7fba393fd800aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca195a3a2de1b66a1953d519bbbdc2a0cf1fbf93c5c6446cd1058b218fae91e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,55 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
-- Financiamento
+- Certificado de Destruição ou Desmantelamento Qualificado
 - Comissão de Acompanhamento
-- Contra-ordenação
-- Fiscalização
 - Comissão de Acompanhamento da Gestão de Resíduos
-- Instituto da Mobilidade e dos Transportes Terrestres
-- Licenciamento
-- Veículo
-- Inspecção Geral do Ambiente e do Ordenamento do Território
-- Instituto dos Resíduos
-- Proteção do Ambiente
-- Tratamento de Resíduos
-- Produtor
 - Comissão de Aplicação de Coimas em Matéria de Publicidade
+- Contra-ordenação
+- Financiamento
+- Fiscalização
+- Inspecção Geral do Ambiente e do Ordenamento do Território
+- Instituto da Mobilidade e dos Transportes Terrestres
+- Instituto dos Resíduos
+- Licenciamento
+- Produtor
+- Proteção do Ambiente
 - Sirer
 - Taxa
-- Certificado de Destruição ou Desmantelamento Qualificado
+- Tratamento de Resíduos
+- Veículo
 - Veículo em FIM de VIDA
-- Agência Portuguesa do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:114337042:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343084:por
+  label: "Alterado, a partir de 01.12.2010, o art. 2º do Dec Lei nº 196/2003, de 23-Ago, na redacção do presente diploma,\
+    \ pelo DEC LEI.98/2010.11.08.2010.MAOT, DR.IS [155] de 11.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2010-343084
+  date: '2010-08-11'
+- type: amended_by
+  target: pt:dre:670034:por
+  label: "Alterados e renumerados os arts. 17.º e 20.º do Dec Lei n.º 196/2003, de 23-Ago, na redacção do presente diploma,\
+    \ pelo DEC LEI.73/2011.17.06.2011.MAOT, DR.IS [116] de 17.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2011-670034
+  date: '2011-06-17'
+- type: amended_by
+  target: pt:dre:477146:por
+  label: "Dada nova redacção ao anexo I do Dec Lei 196/2003 de 23-Ago, alterado pelo presente diploma, pelo DEC LEI.1/2012.11.01.2012.MAMAOT,\
+    \ DR.IS [8] de 11.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-2012-477146
+  date: '2012-01-11'
+- type: amended_by
+  target: pt:dre:498489:por
+  label: "Alterado o anexo I ao Dec Lei 196/2003, de 23-ago, na redação do presente diploma, pelo DEC LEI.114/2013.07.08.2013.MAMAOT,\
+    \ DR.IS [151] de 07.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-2013-498489
+  date: '2013-08-07'
 - type: cites
   target: celex:32000L0053
   label: null
@@ -115,16 +139,23 @@ relationships:
   target: celex:32006R1013
   label: null
   source: http://data.europa.eu/eli/reg/2006/1013/oj
+- type: repealed_by
+  target: pt:dre:114337042:por
+  label: Revogado, a partir de 01.01.2018, o Dec Lei 196/2003 de 23-ago, na versão republicada pelo presente diploma e na
+    redação dos Decs Leis 98/2010 de 11-ago, 73/2001 de 17-jun, 1/2012 de 11-jan e 114/2013 de 07-ago, pelo(a) Decreto-Lei
+    n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-d-2017-114337042
+  date: '2017-12-11'
 article_structure:
-  article_count: 57
+  article_count: 37
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:17Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +208,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 5 - São aplicáveis a «outros veículos», nos termos da definição constante da alínea s) do artigo 2.º do presente decreto-lei, as disposições constantes do artigo 3.º, dos n.os 1, 2, 3, 5 e 6 do artigo 5.º, dos n.os 7 e 8 do artigo 7.º, e dos artigos 17.º a 20.º, com as necessárias adaptações.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 ...
 
@@ -219,7 +252,9 @@ s) «Outros veículos» quaisquer veículos classificados em categorias diferent
 
 t) «Veículo em fim de vida (VFV)» um veículo que constitui um resíduo de acordo com a definição constante da alínea u) do artigo 3.º do Decreto-Lei n.º 178/2006, de 5 de Setembro.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -233,7 +268,9 @@ t) «Veículo em fim de vida (VFV)» um veículo que constitui um resíduo de ac
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -247,7 +284,9 @@ t) «Veículo em fim de vida (VFV)» um veículo que constitui um resíduo de ac
 
 6 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -267,7 +306,9 @@ t) «Veículo em fim de vida (VFV)» um veículo que constitui um resíduo de ac
 
 9 - (Anterior n.º 7.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -277,7 +318,9 @@ t) «Veículo em fim de vida (VFV)» um veículo que constitui um resíduo de ac
 
 4 - Os fabricantes ou importadores de veículos que entendam proceder à gestão de VFV através de um sistema integrado são responsáveis pela constituição da entidade gestora referida no n.º 2.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 ...
 
@@ -293,7 +336,9 @@ d) ...
 
 2 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -305,7 +350,9 @@ d) ...
 
 5 - O valor da prestação financeira pode ser actualizado nomeadamente através de proposta da entidade gestora, a apresentar à Agência Portuguesa do Ambiente (APA) até 30 de Setembro do ano imediatamente anterior àquele a que diz respeito, e aprovado por despacho conjunto dos membros do Governo responsáveis pelas áreas do ambiente e da economia.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Para tomar a seu cargo a gestão de VFV ao abrigo do sistema integrado, a entidade gestora carece de licença a conceder por despacho conjunto dos membros do Governo responsáveis pelas áreas do ambiente, da economia e dos transportes.
 
@@ -315,7 +362,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A adesão dos fabricantes ou importadores de veículos ao sistema integrado efectua-se através da celebração do contrato previsto no n.º 3 do artigo 9.º
 
@@ -339,13 +388,17 @@ d) ...
 
 11 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Em alternativa ao sistema integrado previsto nos artigos 9.º e seguintes, os fabricantes ou importadores de veículos poderão optar por assumir as suas obrigações a título individual, carecendo para o efeito de uma autorização específica da APA, a qual apenas será concedida se forem garantidas as obrigações previstas para o sistema integrado.
 
 2 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O cancelamento da matrícula de um VFV encontra-se condicionado à exibição, perante o Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT), de um certificado de destruição emitido por um operador de desmantelamento que exerça a respectiva actividade de harmonia com o disposto no artigo 20.º
 
@@ -381,7 +434,9 @@ c) Uma cópia do certificado de destruição, acompanhada da documentação refe
 
 12 - ...
 
-###### Artigo 18.º — Actividade de transporte de VFV
+Artigo 18.º
+
+Actividade de transporte de VFV
 
 1 - A actividade de transporte de VFV só pode ser realizada por operadores registados no Sistema Integrado de Registo Electrónico de Resíduos (SIRER) ao abrigo da alínea b) do artigo 48.º do Decreto-Lei n.º 178/2006, de 5 de Setembro.
 
@@ -397,7 +452,9 @@ c) Uma cópia do certificado de destruição, acompanhada da documentação refe
 
 7 - As disposições referidas nos números anteriores não são aplicáveis às situações em que o veículo é conduzido pelo respectivo proprietário ou detentor para um centro de recepção ou para operador de desmantelamento.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Os centros de recepção de VFV estão sujeitos a licenciamento simplificado nos termos da alínea d) do n.º 1 do artigo 32.º do Decreto-Lei n.º 178/2006, de 5 de Setembro.
 
@@ -409,7 +466,9 @@ c) Uma cópia do certificado de destruição, acompanhada da documentação refe
 
 5 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - As operações de tratamento de VFV estão sujeitas a licenciamento nos termos do disposto no Decreto-Lei n.º 178/2006, de 5 de Setembro, bem como aos requisitos técnicos mínimos constantes dos n.os 2 e 3 do anexo iv do presente diploma, sem prejuízo da demais legislação aplicável.
 
@@ -429,7 +488,9 @@ c) Uma cópia do certificado de destruição, acompanhada da documentação refe
 
 9 - É proibida a aceitação de VFV para efeitos de fragmentação que não tenham sido previamente sujeitos às operações descritas nos n.os 2.1 e 2.2 do anexo iv do presente diploma.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A entidade gestora fica obrigada a enviar à APA um relatório anual de actividade, até 31 de Março do ano imediato àquele a que se reporta, demonstrativo das acções levadas a cabo e dos resultados obtidos no âmbito das obrigações previstas no artigo 11.º
 
@@ -439,7 +500,9 @@ c) Uma cópia do certificado de destruição, acompanhada da documentação refe
 
 4 - Os fabricantes de materiais e de equipamentos para veículos ficam obrigados a enviar anualmente à APA, até 31 de Março do ano imediato àquele a que se reporta, um relatório relativo às acções levadas a cabo no âmbito do disposto no n.º 1 do artigo 6.º
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A fiscalização do cumprimento das disposições constantes do presente diploma compete à Inspecção-Geral do Ambiente e do Ordenamento do Território (IGAOT), sem prejuízo do exercício das competências próprias da Autoridade de Segurança Alimentar e Económica (ASAE), das autoridades policiais e das demais entidades intervenientes no processo.
 
@@ -451,7 +514,9 @@ c) Uma cópia do certificado de destruição, acompanhada da documentação refe
 
 5 - A aplicação das coimas e sanções acessórias cabe à Comissão de Aplicação de Coimas em Matéria Económica e Publicidade e ao inspector-geral do Ambiente e do Ordenamento do Território, consoante os processos tenham sido instruídos pela ASAE ou pelas demais entidades, respectivamente.
 
-###### Artigo 24.º — Classificação das contra-ordenações
+Artigo 24.º
+
+Classificação das contra-ordenações
 
 1 - Constituem contra-ordenações ambientais muito graves nos termos da Lei n.º 50/2006, de 29 de Agosto:
 
@@ -497,7 +562,9 @@ e) O exercício da actividade em violação do disposto no n.º 2 do artigo 18.�
 
 4 - (Anterior n.º 2.)
 
-###### Artigo 25.º — Sanções acessórias e apreensão cautelar
+Artigo 25.º
+
+Sanções acessórias e apreensão cautelar
 
 1 - Relativamente às infracções muito graves e graves previstas no artigo anterior, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos previstos na Lei n.º 50/2006, de 29 de Agosto.
 
@@ -505,13 +572,17 @@ e) O exercício da actividade em violação do disposto no n.º 2 do artigo 18.�
 
 3 - A autoridade administrativa pode ainda, sempre que necessário, determinar a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da Lei n.º 50/2006, de 29 de Agosto.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - O produto das coimas aplicadas ao abrigo do presente diploma, independentemente da fase em que se torne definitiva ou transite em julgado a decisão condenatória, é repartido nos termos do disposto no artigo 73.º da Lei n.º 50/2006, 29 de Agosto.
 
 2 - (Revogado.)
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - A APA, em articulação com a Comissão de Acompanhamento da Gestão de Resíduos (CAGER), criada pelo Decreto-Lei n.º 178/2006, de 5 de Setembro, elabora de três em três anos um relatório técnico de aplicação do disposto no presente diploma, o qual será disponibilizado ao público.
 
@@ -525,7 +596,7 @@ e) O exercício da actividade em violação do disposto no n.º 2 do artigo 18.�
 
 Materiais e componentes isentos da aplicação do disposto no n.º 2 do artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06900/0210602124.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06900/0210602124.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06900/0210602124.pdf)
 
 Notas
 
@@ -605,15 +676,15 @@ b) Por sobreposição directa dos VFV de vida nas galeras, durante a carga, tran
 
 Visto e aprovado em Conselho de Ministros de 14 de Fevereiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Fernando Teixeira dos Santos - Rui Carlos Pereira - Alberto Bernardes Costa - Humberto Delgado Ubach Chaves Rosa - António José de Castro Guerra - Mário Lino Soares Correia.
 
-**Promulgado em 28 de Março de 2008.**
+Promulgado em 28 de Março de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de Março de 2008.**
+Referendado em 31 de Março de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 196/2003, de 23 de Agosto
 
@@ -1125,7 +1196,7 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 ## ANEXO I — Materiais e componentes isentos da aplicação do disposto no n.º 2 do artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06900/0210602124.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06900/0210602124.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06900/0210602124.pdf)
 
 Notas
 
@@ -1141,11 +1212,11 @@ As seguintes nomenclaturas aplicam-se à rotulagem e identificação de componen
 
 ISO 1043-1 plásticos - símbolos e abreviaturas.
 
-# Parte 1: polímeros de base e suas características especiais;
+Parte 1: polímeros de base e suas características especiais;
 
 ISO 1043-1 plásticos - símbolos e abreviaturas.
 
-# Parte 2: cargas e materiais de reforço;
+Parte 2: cargas e materiais de reforço;
 
 ISO 11469 plásticos - identificação genérica e marcação de produtos plásticos.
 

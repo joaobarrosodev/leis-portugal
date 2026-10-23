@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/10/24900/12761277.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/692-1974-472161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T04:33:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60379c262f64102ff17e1f02370240027dea463f4da4e0e57da73a3ea1dc6fe2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c83065ec33d26770b002ca8015e0f3bdb86971ace9041a785b3df45e5ffcad1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:33:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,31 @@ relationships:
   target: pt:dre:461402:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:461402:por
+  label: Revogada, a partir de 21 de dezembro de 1974, com efeitos a partir de 25 de Outubro de 1974 no que respeita aos preços
+    máximos de venda ao público nela estabelecidos, a presente portaria, pelo(a) Portaria n.º 843/74 - Diário do Governo n.º
+    302/1974, Série I de 1974-12-30, nos termos do seu artigo 11.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/843-1974-461402
+  date: '1974-12-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:33:34Z'
   warnings: []
   errors: []
 ---
@@ -102,19 +117,19 @@ Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado
 
 2.º - 1. Os preços máximos de venda ao público, por quilograma, do leite em pó são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/10/24900/12761277.pdf))](https://files.diariodarepublica.pt/1s/1974/10/24900/12761277.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/10/24900/12761277.pdf)
 
 2. Os preços máximos de venda ao público de outras fracções serão os correspondentes aos fixados por quilograma.
 
 3.º - 1. Os preços máximos de venda ao público, por quilograma, do leite em pó instantâneo são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/10/24900/12761277.pdf))](https://files.diariodarepublica.pt/1s/1974/10/24900/12761277.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/10/24900/12761277.pdf)
 
 2. Os preços máximos de venda ao público de outras fracções serão os correspondentes aos fixados por quilograma.
 
 4.º - 1. Os preços máximos de venda ao público, por quilograma, dos produtos derivados do leite abaixo indicados são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/10/24900/12761277.pdf))](https://files.diariodarepublica.pt/1s/1974/10/24900/12761277.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/10/24900/12761277.pdf)
 
 2. Os preços máximos de venda ao público de outras fracções serão os correspondentes aos fixados por quilograma.
 
@@ -122,7 +137,7 @@ Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado
 
 5.º - 1. O preço máximo de venda ao público, por quilograma, de leite condensado é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/10/24900/12761277.pdf))](https://files.diariodarepublica.pt/1s/1974/10/24900/12761277.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/10/24900/12761277.pdf)
 
 2. Os preços máximos de venda ao público de outras fracções serão os correspondentes aos fixados por quilograma.
 

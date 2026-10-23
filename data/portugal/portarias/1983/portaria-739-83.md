@@ -46,36 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/739-1983-452560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T07:47:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f97eb9b8339c3f85df21805b06927d5c77013aeaff550f8b3ff3d2e353f6b248
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdd82785c90385dce9732bc8bc34236ad7dc60a06373252e4ae721cdac9ee09b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:47:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto de Acção Social Escolar
+- Ministério da Educação
+- Reestruturação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:379362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607138:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:47:42Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +211,7 @@ g) Participar na formação do pessoal afecto à acção social escolar, na áre
 
 15.º O artigo 7.º do [Decreto-Lei n.º 552/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1977-404482), de 31 de Dezembro, passa a ter a seguinte redacção:
 
-###### Art. 7.º - 1 - A Direcção de Serviços de Pessoal Docente é constituída por 4 divisões, competindo-lhe a gestão do pessoal docente dos estabelecimentos de ensino referidos no artigo 1.º deste diploma, sem prejuízo das autonomias e competências dos respectivos órgãos de gestão.
+Art. 7.º - 1 - A Direcção de Serviços de Pessoal Docente é constituída por 4 divisões, competindo-lhe a gestão do pessoal docente dos estabelecimentos de ensino referidos no artigo 1.º deste diploma, sem prejuízo das autonomias e competências dos respectivos órgãos de gestão.
 
 2 - As divisões referidas no número anterior actuam respectivamente nas áreas de gestão do pessoal docente da educação pré-escolar, do ensino primário, do ensino preparatório e do ensino secundário.
 
@@ -198,6 +229,6 @@ e) O [Decreto-Lei n.º 24618](https://diariodarepublica.pt/dr/detalhe/decreto-le
 
 Ministério da Educação
 
-**Assinada em 13 de Abril de 1983.**
+Assinada em 13 de Abril de 1983.
 
-**O Ministro da Educação, João José Fraústo da Silva.**
+O Ministro da Educação, João José Fraústo da Silva.

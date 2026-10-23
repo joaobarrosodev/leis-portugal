@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/125/2009/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2009-608740
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 945eda125b550c2f0fa00fae264fd7159d8f4e6617aa0f2b3e3ae5d3a454969e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9dac029349e6dd990c722e56593bb934261e2d2a433b25f93fb193d0a4bda321
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Publicidade
+- Informação do Consumidor
 - Plano Poupança-educação
 - Plano Poupança-reforma
-- Informação do Consumidor
+- Publicidade
 - Reembolso
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/158/2002/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/158/2002/07/02/p/dre
+- type: cites
+  target: pt:dre:142700:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:13Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +144,9 @@ Os artigos 6.º e 7.º do [Decreto-Lei n.º 158/2002](https://diariodarepublica.
 
 7 - Nos planos de poupança que garantam capital ou a respectiva rendibilidade, a comissão de transferência não pode ser superior a 0,5 % do valor a transferir.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -164,7 +170,9 @@ Comissões
 
 Sem prejuízo do disposto no n.º 6 do artigo 6.º relativamente à comissão de transferência, nos planos de poupança abrangidos pelo presente decreto-lei apenas são devidas comissões pela subscrição, depósito, gestão, transferência ou reembolso, devendo as comissões actualmente existentes ser subsumidas nestas designações.
 
-###### Artigo 6.º-A — Publicidade e divulgação de rendibilidade
+Artigo 6.º-A
+
+Publicidade e divulgação de rendibilidade
 
 Sem prejuízo do disposto em regulamentação específica aplicável, em todas as acções publicitárias ou informativas em que sejam divulgadas rendibilidades históricas, nomeadamente na informação pré-contratual, estas devem ser apresentadas deduzidas das comissões referidas no artigo 2.º-A.»
 
@@ -178,12 +186,12 @@ O presente decreto-lei entra em vigor 60 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Março de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Fernando Pereira Serrasqueiro - Fernando Medina Maciel Almeida Correia - Ana Maria Teodoro Jorge - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 8 de Maio de 2009.**
+Promulgado em 8 de Maio de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Maio de 2009.**
+Referendado em 12 de Maio de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

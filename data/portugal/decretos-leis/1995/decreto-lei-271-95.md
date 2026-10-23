@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/245a00/65346542.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/271/1995/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1995-668484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68d403c7887c28849108f038c1c5923b96feaf17f0fc77953b2e3ff0dcd42929
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f07eaa298e678f01434da193d247ab010f59d3b975217c3bf0a6da2a66f27eaf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,86 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
-- Ministério da Educação
 - Inspecção Geral de Educação
 - Integração de Trabalhadores
+- Ministério da Educação
 - Orgânica
 - Pessoal de Inspecção
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Reestruturação de Serviços
 - Serviço Regional
 relationships:
 - type: amended_by
   target: pt:dre:145195:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621550:por
+  label: "Suspensa a vigência do presente diploma, com excepção dos arts. 26º, nº 1 do art. 28º, nºs 1, 2 e 3 do art. 33º,\
+    \ e arts. 36º, 37º e 40º pelo DEC LEI.2/96.1996.01.04.ME, DR.IS-A [3]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-1996-621550
+  date: '1996-01-04'
+- type: amended_by
+  target: pt:dre:431038:por
+  label: "Alterados os arts. 1º, 2º, 3º, 5º, 6º, 7º, 8º, 9º, 10º, 11º, 12º, 15º, 17º, 18º, 19º, 20º, 21º, 23º, 26º, 27º, 28º,\
+    \ 29º, 33º, 35º, 36º, 38º e 39º pela LEI.18/96.1996.06.20.AR, DR.IS-A [141]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/18-1996-431038
+  date: '1996-06-20'
+- type: amended_by
+  target: pt:dre:641131:por
+  label: "Alterados os art 32º e 33º, alterado, por ratificação, pela Lei 18/96 de 20-Jun, pelo Dec Lei 233/97.1997.09.03.ME,\
+    \ DR.IS-A [203] \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/233-1997-641131
+  date: '1997-09-03'
+- type: amended_by
+  target: pt:dre:1716662:por
+  label: "Alterado o quadro de pessoal constante do anexo I pela PORT.78/99(2ªSÉRIE).1998.08.11.PCM DR.IIS [20] de 25/Jan/1999\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/78-1999-1716662
+  date: '1998-08-11'
+- type: amended_by
+  target: pt:dre:145239:por
+  label: "Alterados os arts. 2.º, 7.º, 9.º, 10.º, 11.º, 12.º, 15.º, 18.º e 20.º, na redacção da Lei 18/96, de 20-Jun, pelo\
+    \ DEC LEI.70/99.1999.03.12.ME DR.IS-A [60]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-1999-145239
+  date: '1999-03-12'
+- type: amended_by
+  target: pt:dre:2028606:por
+  label: "Alterado o quadro de pessoal constante do mapa I em anexo (e alterado por ratificação pela Lei 18/96 de 20-Jun)\
+    \ pela PORT.167/2000(2ªSÉRIE).2000.01.10.ME, DR.IIS [22] de 27/Jan/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/167-2000-2028606
+  date: '2000-01-10'
+- type: amended_by
+  target: pt:dre:2370387:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo, pela PORT.28/2001(2ªSÉRIE).2000.10.10.ME, DR.IIS [9] de 11/Jan/2001)\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/28-2001-2370387
+  date: '2000-10-10'
+- type: amended_by
+  target: pt:dre:2370388:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo, pela PORT.29/2001(2ªSÉRIE).2000.10.10.ME, DR.IIS [9] de 11/Jan/2001\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/29-2001-2370388
+  date: '2000-10-10'
+- type: amended_by
+  target: pt:dre:1833339:por
+  label: "Alterado o quadro de pessoal pela PORT.2020/2000(2ªSÉRIE).2000.12.12.ME, DR.IIS [299] de 29/Dez/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/2020-2000-1833339
+  date: '2000-12-12'
+- type: amended_by
+  target: pt:dre:667551:por
+  label: "Extinto o nucleo de Inspe&#231;&#227;o no Ensino Superior e revogadas todas as disposi&#231;&#245;es relativas a\
+    \ compet&#234;ncias em mat&#233;ria de ensino superior constantes da presente Lei organica pelo DEC LEI.149/2003.2003.07.11.MCES,\
+    \ DR.IS-A [158]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-2003-667551
+  date: '2003-07-11'
+- type: amended_by
+  target: pt:dre:145195:por
+  label: "Extinta, sendo objecto de fusão, a Inspecção-Geral da Educação e integradas as suas atribuições na Inspecção-Geral\
+    \ da Educação e Ciência pelo DEC LEI.125/2011.29.12.2011.MECI, DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2011-145195
+  date: '2011-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/140/1993/04/26/p/dre
   label: null
@@ -87,16 +153,67 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/248/1994/10/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/248/1994/10/07/p/dre
+- type: cites
+  target: pt:dre:230890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665349:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:569552:por
+  label: "Revogado, a partir 01.09.2007 e nos termos do art. 4º do Dec Lei 213/2007, de 27-Out, pelo DR.81-B/2007.31.07.2007.ME,\
+    \ DR.IS [146-3ºSupl] de 31.07.2007, com excepção do disposto nos art.s 21º, 22º, 26º,27º e 28º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/81-b-2007-569552
+  date: '2007-07-31'
+- type: repealed_by
+  target: pt:dre:493034:por
+  label: "Revogados os arts. 21º, 22º e 26º a 28º pelo DEC LEI.170/2009.03.08.2009.MFAP, DR.IS [148] de 03.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-2009-493034
+  date: '2009-08-03'
 article_structure:
   article_count: 41
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:10Z'
   warnings: []
   errors: []
 ---
@@ -601,30 +718,30 @@ A aplicação do presente diploma nas Regiões Autónomas dos Açores e da Madei
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 1995. - Manuel Dias Loureiro - Eduardo de Almeida Catroga - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 28 de Setembro de 1995.**
+Promulgado em 28 de Setembro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Outubro de 1995.**
+Referendado em 3 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
-## Anexo a que se refere o n.º 2 do artigo 21.º
+Anexo a que se refere o n.º 2 do artigo 21.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/245a00/65346542.pdf))](https://files.diariodarepublica.pt/1s/1995/10/245a00/65346542.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/245a00/65346542.pdf)
 
 MAPA II
 
-## Anexo a que se refere o n.º 1 do artigo 28.º
+Anexo a que se refere o n.º 1 do artigo 28.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/245a00/65346542.pdf))](https://files.diariodarepublica.pt/1s/1995/10/245a00/65346542.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/245a00/65346542.pdf)
 
 MAPA III
 
-## Anexo a que se refere o n.º 5 do artigo 33.º
+Anexo a que se refere o n.º 5 do artigo 33.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/245a00/65346542.pdf))](https://files.diariodarepublica.pt/1s/1995/10/245a00/65346542.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/245a00/65346542.pdf)

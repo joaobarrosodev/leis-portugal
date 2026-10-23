@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/315/1998/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1998-239980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:01:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c18e33fafa679a477cbdacdf4dd2a4e225c2b11bdb451a554bf839e3d24cccb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8dcfdcd568c1e44a293037cd51e29464996cb4d0f2d0b549490769bcb495a47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:01:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Insolvência
-- Falência
-- Liquidação Judicial
-- Empresa
+- Assembleia de Credores
 - Código de Processo Tributário
 - Código dos Processos Especiais de Recuperação da Empresa e de Falência
+- Código Penal
 - Direito Penal Económico
 - Embargo
+- Empresa
 - Execução Fiscal
-- Assembleia de Credores
+- Falência
+- Insolvência
+- Liquidação Judicial
 - Processo Especial de Falência
 - Recuperação de Empresas
-- Código Penal
 - Responsabilidade Solidária
 - Situação Económica Dificil
 - Viabilidade Económica
@@ -87,6 +87,19 @@ relationships:
   target: pt:dre:191994:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:540216:por
+  label: "Alterado o art. 246º do Código dos Processos Especiais de Recuperação da Empresa e de Falência aprovado pelo Dec\
+    \ Lei 132/93 de 23-Abr, com a redacção do presente diploma, pelo DEC LEI.323/2001.2001.12.17.MJ DR.IS-A [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-2001-540216
+  date: '2001-12-17'
+- type: amended_by
+  target: pt:dre:220944:por
+  label: "Alterados, a partir de 15 de Setembro de 2003, os arts. 181.º, 186.º, 187.º, 192.º e 195.º do Código dos Processos\
+    \ Especiais de Recuperação de Empresa e da Falência, aprovado pelo Dec Lei 132/93, de 23-Abr, na redacção do presente\
+    \ diploma, pelo DEC LEI.38/2003.2003.03.08.MJ DR.IS-A [57]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2003-220944
+  date: '2003-03-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1993/04/23/p/dre
   label: null
@@ -99,16 +112,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1996/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1996/08/31/p/dre
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666341:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:538423:por
+  label: "Revogado o Código dos Processos Especiais de Recuperação da Empresa e de Falência, aprovado pelo Dec Lei 132/93,\
+    \ de 23-Abr DR.IS-A [95], alterado pelo presente diploma e pelos Dec Leis 157/97, de 24-Jun, 323/2001, de 17-Dez e 38/2003,\
+    \ de 08-Mar, pelo DEC LEI.53/2004.18.03.2004.MJ, DR.IS-A [66] de 18.03.2004 a partir da entrada em vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2004-538423
+  date: '2004-03-18'
 article_structure:
-  article_count: 396
-  section_count: 35
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 266
+  section_count: 30
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:01:34Z'
   warnings: []
   errors: []
 ---
@@ -173,25 +209,35 @@ Os artigos 1.º, 3.º a 5.º, 7.º, 8.º, 10.º, 13.º, 14.º a 16.º, 18.º a 2
 
 3 - Sem prejuízo dos efeitos patrimoniais da existência de personalidade jurídica distinta, é permitida a coligação activa ou passiva de sociedades que se encontrem em relação de domínio ou de grupo, nos termos do Código das Sociedades Comerciais, ou que tenham os seus balanços e contas aprovados consolidadamente.
 
-###### Artigo 3.º — Situação de insolvência e situação económica difícil
+Artigo 3.º
+
+Situação de insolvência e situação económica difícil
 
 1 - É considerada em situação de insolvência a empresa que se encontre impossibilitada de cumprir pontualmente as suas obrigações em virtude de o seu activo disponível ser insuficiente para satisfazer o seu passivo exigível.
 
 2 - É considerada em situação económica difícil a empresa que, não devendo considerar-se em situação de insolvência, indicie dificuldades económicas e financeiras, designadamente por incumprimento das suas obrigações.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Constituem providências de recuperação da empresa a concordata, a reconstituição empresarial, a reestruturação financeira e a gestão controlada.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 A empresa insolvente ou em situação económica difícil que se considere economicamente viável e julgue superável a situação em que se encontra pode requerer em juízo a providência de recuperação adequada.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 A iniciativa do pedido de recuperação ou de declaração de falência por parte da empresa devedora cabe ao respectivo titular, ao órgão social incumbido da sua administração ou à assembleia geral dos sócios.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -209,7 +255,9 @@ c) ...
 
 5 - O disposto na primeira parte do n.º 2 e na parte final do n.º 3 não prejudica a possibilidade de representação das entidades públicas nos termos do n.º 2 do artigo 22.º
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -217,7 +265,9 @@ c) ...
 
 3 - Nem o falecimento do devedor, nem o de qualquer credor, determina a suspensão do processo de falência; o falecimento do devedor pode, no entanto, determinar a suspensão do processo de recuperação da empresa pelo prazo, não prorrogável, de cinco dias, quando um sucessor do devedor o requeira e o juiz considere conveniente a suspensão.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Sem prejuízo do disposto quanto à competência territorial dos tribunais de competência especializada, é competente para os processos de recuperação da empresa ou de falência o tribunal da sede ou do domicílio do devedor, cabendo sempre ao juiz singular a instrução e decisão de todos os seus termos, incidentes e apensos.
 
@@ -225,13 +275,17 @@ c) ...
 
 3 - Sempre que o devedor tenha sede ou domicílio no estrangeiro e actividade em Portugal, é competente o tribunal em cuja área se situe a sua representação permanente ou, não a tendo, qualquer espécie de representação ou o centro dos seus principais interesses, relativamente aos processos que derivem de obrigações contraídas em Portugal, ou que aqui devessem ser cumpridas, sendo a liquidação restrita, porém, aos bens existentes em território português.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - À contagem dos prazos aplica-se o disposto no Código de Processo Civil.
 
 2 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -241,7 +295,9 @@ c) ...
 
 4 - Nos casos previstos no n.º 3 do artigo 1.º devem ser identificadas as sociedades e indicar-se, sempre que possível, as respectivas participações no capital social.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -263,7 +319,9 @@ h) Relação de bens que detenha em regime de arrendamento, aluguer ou locação
 
 2 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -271,13 +329,17 @@ h) Relação de bens que detenha em regime de arrendamento, aluguer ou locação
 
 3 - O processo terá seguimento, apesar de não ter sido feita a entrega das fotocópias e dos duplicados exigidos; estes serão extraídos oficiosamente, mediante o respectivo pagamento e multa até 2 UC.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Os montantes dos créditos de capital e juros, quer para apuramento inicial dos cinco maiores credores, quer para o efeito da justificação de créditos prevista no artigo seguinte, devem reportar-se todos à mesma data, que será a da entrada da petição em juízo.
 
 2 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -289,7 +351,9 @@ h) Relação de bens que detenha em regime de arrendamento, aluguer ou locação
 
 5 - Se as citações não tiverem sido realizadas no prazo de 60 dias, por facto imputável ao requerente, será declarada extinta a instância.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Proferido o despacho de citação dos credores e, quando for caso disso, do próprio devedor, e sem prejuízo das citações ordenadas, é o processo continuado com vista ao Ministério Público, a fim de que este, havendo créditos do Estado, de institutos públicos sem a natureza de empresas públicas ou de instituições da segurança social, dê imediato conhecimento da pendência da acção ao Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento, bem como aos membros do Governo com jurisdição para participarem nas deliberações sobre as providências de recuperação.
 
@@ -297,19 +361,25 @@ h) Relação de bens que detenha em regime de arrendamento, aluguer ou locação
 
 3 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - Quando, antes de proferido o despacho sobre a verificação dos pressupostos legais do processo de recuperação, seja deduzida oposição ao prosseguimento da acção por credores que representem, pelo menos, 51% do valor dos créditos conhecidos e aleguem a inviabilidade económica da empresa, deve o juiz, se reconhecer a existência de qualquer dos factos previstos no n.º 1 do artigo 8.º, depois de ouvido o representante legal da empresa, declarar a falência dela.
 
 2 - Quando de igual modo, antes de declarada a falência requerida, seja deduzida oposição ao prosseguimento desse processo, por credores que representem, pelo menos, 51% do valor dos créditos conhecidos e aleguem a viabilidade económica da empresa, deve o juiz, quando reconheça a existência de qualquer dos factos mencionados no n.º 1 do artigo 8.º, depois de ouvido o apresentante ou requerente da falência, mandar a acção prosseguir como processo de recuperação.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Findo o prazo da oposição, deve o juiz, nos 15 dias subsequentes, examinar as provas oferecidas, realizar as diligências necessárias à averiguação dos pressupostos invocados e recolher os elementos que o habilitem a decidir sobre o prosseguimento da acção.
 
 2 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Efectuadas as diligências e recolhidos os elementos necessários, deve o juiz, dentro dos cinco dias subsequentes ao termo do prazo fixado no artigo anterior, decidir sobre o prosseguimento da acção.
 
@@ -321,13 +391,17 @@ h) Relação de bens que detenha em regime de arrendamento, aluguer ou locação
 
 5 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - O devedor insolvente que não seja titular de empresa ou cuja empresa não exerça actividade à data em que o processo for instaurado pode ser declarado em situação de falência, mas não pode beneficiar do processo de recuperação; ser-lhe-á, contudo, possível evitar a declaração de falência, mediante a apresentação de concordata que o juiz homologue nos termos dos artigos 240.º a 245.º
 
 2 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 ...
 
@@ -339,23 +413,31 @@ c) ...
 
 d) ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
 2 - A suspensão mantém-se até ao termo do prazo máximo estabelecido para a deliberação da assembleia de credores, fixado no n.º 1 do artigo 53.º, ou, antes disso, até ao trânsito em julgado da decisão que homologue ou rejeite a providência de recuperação aprovada, declare findos os efeitos do despacho de prosseguimento ou determine a extinção da instância, não podendo, porém, a cessação da suspensão prejudicar o disposto nos artigos 95.º, n.º 2, e 103.º, n.º 4.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Durante o período fixado no artigo anterior, os débitos da empresa existentes à data da entrada da petição inicial em juízo, qualquer que seja a sua natureza, não vencem juros.
 
 2 - São ineficazes em relação à devedora todos os negócios jurídicos entre vivos, posteriores ao despacho de prosseguimento da acção, que envolvam aquisição, alienação ou oneração de acções, ou de partes sociais da sociedade devedora, ou de participações sociais da devedora noutras sociedades, bem como a aquisição de imóveis e a alienação, oneração ou locação de imóveis da empresa, a cessão de exploração, o trespasse ou a extinção do direito de locação de estabelecimentos que lhe pertençam, salvo quando previamente autorizados ou ratificados pelo juiz, num caso e noutro com parecer favorável do gestor judicial e da comissão de credores; porém, se tiverem sido celebrados a título oneroso com terceiros de boa fé, os negócios só são ineficazes se celebrados posteriormente ao registo do despacho de prosseguimento da acção.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 A escolha do gestor judicial recairá em entidade inscrita na lista oficial respectiva.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -367,7 +449,9 @@ A escolha do gestor judicial recairá em entidade inscrita na lista oficial resp
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -375,7 +459,9 @@ A escolha do gestor judicial recairá em entidade inscrita na lista oficial resp
 
 3 - Deve ainda um terceiro exemplar do relatório ser remetido à entidade administrativa competente em matéria de inspecção de trabalho.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - A comissão de credores, nomeada e empossada pelo juiz, inicia imediatamente funções e é composta por três ou cinco membros, devendo o encargo da presidência recair de preferência sobre o maior credor da empresa e a escolha dos restantes assegurar a adequada representação das várias classes de credores, com excepção dos credores que sejam sócios, membros do órgão de administração, titulares de empresa individual ou entidades com interesse patrimonial equiparável; em qualquer caso, um dos membros da comissão representará os trabalhadores que detenham créditos sobre a empresa, devendo a sua escolha ser feita pelo juiz, de acordo, sempre que esta se verifique, com a designação feita pelos próprios trabalhadores ou pela comissão de trabalhadores, quando esta exista.
 
@@ -389,19 +475,23 @@ A escolha do gestor judicial recairá em entidade inscrita na lista oficial resp
 
 6 - O Estado e as instituições de segurança social só poderão ser nomeados para a presidência da comissão de credores desde que à data do despacho de prosseguimento da acção se encontre nos autos despacho do membro do Governo com supervisão sobre os organismos titulares de créditos a autorizar o exercício da função e a indicar o representante.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
 2 - No desempenho da sua função, pode a comissão de credores examinar livremente os livros e documentos da empresa e informar-se do estado e evolução dos seus negócios, cabendo-lhe ainda emitir juízo sobre o meio de recuperação proposto pelo gestor judicial, nos termos do n.º 1 do artigo 38.º
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - A data, hora e local da assembleia de credores são imediatamente comunicados por anúncio publicado no Diário da República e num dos jornais mais lidos na localidade e por editais afixados na porta da sede e do estabelecimento principal da empresa; os cinco maiores credores, bem como a empresa e a comissão de trabalhadores, são também avisados do dia, hora e local da reunião, por circulares expedidas sob registo.
 
 2 - O anúncio e as circulares previstos no número anterior devem conter a identificação do processo, a data da entrada em juízo da petição e do despacho de prosseguimento da acção e o nome e a sede do devedor; deverão ainda conter a advertência aos credores da necessidade de reclamarem os seus créditos, para poderem intervir na assembleia de credores, indicando o respectivo prazo da reclamação.
 
-###### Artigo 44.º
+Artigo 44.º
 
 1 - Os credores, ainda que preferentes, que pretendam intervir na assembleia devem reclamar os seus créditos, se antes o não houverem feito, através de simples requerimento, mencionando a origem, natureza e montante do crédito, no prazo de 10 dias a contar da data da publicação do anúncio no Diário da República.
 
@@ -409,7 +499,9 @@ A escolha do gestor judicial recairá em entidade inscrita na lista oficial resp
 
 3 - ...
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - Tanto os créditos reclamados como os que hajam sido relacionados pela empresa na petição inicial podem ser impugnados pelos credores, quanto à sua existência, natureza ou montante, nos 10 dias subsequentes ao termo do prazo fixado para as reclamações; dentro do mesmo prazo, pode a empresa impugnar os créditos reclamados.
 
@@ -417,13 +509,17 @@ A escolha do gestor judicial recairá em entidade inscrita na lista oficial resp
 
 3 - Nos cinco dias subsequentes ao recebimento do duplicado, cumpre à comissão de credores emitir parecer sobre os créditos reclamados ou relacionados pela empresa e, bem assim, sobre as impugnações que tenham sido apresentadas, considerando-se impugnados os créditos sobre os quais tenha recaído parecer desfavorável da comissão.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - Emitido o parecer da comissão, compete ao gestor judicial, nos cinco dias posteriores, elaborar a relação provisória dos créditos reclamados ou relacionados pela empresa, apreciar os termos da sua justificação, bem como as impugnações de que tenham sido objecto, considerando-se por ele impugnados todos os que não tenham o seu parecer favorável.
 
 2 - ...
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - Da deliberação da assembleia que aprove ou não o crédito pode qualquer interessado reclamar para o juiz, podendo fazê-lo oralmente, logo na própria assembleia, ou por escrito, no prazo de cinco dias.
 
@@ -431,7 +527,9 @@ A escolha do gestor judicial recairá em entidade inscrita na lista oficial resp
 
 3 - ...
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - Findos os trabalhos da assembleia provisória, designar-se-á logo o dia para a reunião da assembleia definitiva de credores, que deve realizar-se entre o 15.º e o 20.º dias subsequentes, se não puder prosseguir imediatamente.
 
@@ -443,13 +541,17 @@ A escolha do gestor judicial recairá em entidade inscrita na lista oficial resp
 
 5 - ...
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - Os trabalhos da assembleia podem ser suspensos uma ou mais vezes, fixando o juiz nova data para a sua continuação dentro dos 10 dias subsequentes à reunião suspensa.
 
 2 - ...
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - Se o representante do Estado ou das entidades públicas titulares de créditos privilegiados se abstiver de votar na assembleia de credores, por falta da prévia autorização do membro do Governo competente, e a abstenção impedir a tomada de deliberação, é a votação adiada e marcada nova reunião da assembleia para data que não exceda os 10 dias subsequentes, mas sempre sem prejuízo do disposto no n.º 1 do artigo 53.º
 
@@ -457,7 +559,9 @@ A escolha do gestor judicial recairá em entidade inscrita na lista oficial resp
 
 3 - ...
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - Se a assembleia de credores não deliberar dentro dos seis meses subsequentes à data da publicação no Diário da República do anúncio a que se refere o n.º 1 do artigo 43.º, caducam os efeitos do despacho de prosseguimento da acção, devendo ser declarada, ao mesmo tempo, a falência da empresa.
 
@@ -465,7 +569,9 @@ A escolha do gestor judicial recairá em entidade inscrita na lista oficial resp
 
 3 - No caso de o requerente ter sido o devedor e ocorrer a situação prevista no n.º 2 do artigo 52.º, pode o devedor apresentar proposta de concordata, que é imediatamente votada.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - As deliberações que tenham por objecto a aprovação de qualquer das providências de recuperação da empresa devem ser aprovadas por credores com direito de voto, quer credores comuns, quer preferentes, que representem, pelo menos, dois terços do valor de todos os créditos aprovados nos termos do artigo 48.º e não ter a oposição de credores que representem 51%, ou mais, dos créditos directamente atingidos pela providência.
 
@@ -473,11 +579,15 @@ A escolha do gestor judicial recairá em entidade inscrita na lista oficial resp
 
 3 - ...
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 As providências de recuperação não necessitam de aceitação ou do acordo da empresa devedora para a sua aprovação e homologação.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - ...
 
@@ -489,7 +599,9 @@ As providências de recuperação não necessitam de aceitação ou do acordo da
 
 5 - O requerimento a que se refere o número anterior interrompe o prazo para o trânsito em julgado do despacho de não homologação e apenas pode ser usado por uma vez.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - ...
 
@@ -499,7 +611,9 @@ As providências de recuperação não necessitam de aceitação ou do acordo da
 
 4 - A aceitação dos credores, caso não seja formulada na assembleia, deve ser manifestada por escrito, juntamente com o pedido de desistência.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - As providências que envolvam a extinção ou modificação dos créditos sobre a empresa são apenas aplicáveis aos créditos comuns e aos créditos com garantia prestada por terceiro, devendo incidir proporcionalmente sobre todos eles, salvo acordo expresso dos credores afectados, e podem estender-se ainda aos créditos com garantia real sobre bens da empresa devedora, nos termos em que o credor beneficiário de garantia real vier a acordar.
 
@@ -507,7 +621,9 @@ As providências de recuperação não necessitam de aceitação ou do acordo da
 
 3 - ...
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - Os créditos constituídos sobre a empresa, em capital e respectivos juros, depois de proferido o despacho de prosseguimento da acção e antes de findo o período de observação, gozam de privilégio mobiliário geral, graduado antes de qualquer outro crédito, sem prejuízo do disposto no n.º 5 do artigo 34.º, desde que o juiz, mediante proposta do gestor judicial com parecer favorável da comissão de credores, os tenha declarado contraídos no interesse simultâneo da empresa e dos credores.
 
@@ -515,11 +631,15 @@ As providências de recuperação não necessitam de aceitação ou do acordo da
 
 3 - Os créditos referidos no n.º 1, bem como os créditos a favor de entidades públicas em consequência do incumprimento de obrigações tributárias ou contributivas, constituídas posteriormente ao despacho de prosseguimento da acção, podem, a requerimento dos respectivos credores, ser incluídos na relação de créditos relevante para efeito de atribuição de direito de voto na assembleia de credores.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 A concordata é o meio de recuperação da empresa em situação de insolvência ou em situação económica difícil que consiste na simples redução ou modificação da totalidade ou de parte dos seus débitos, podendo a modificação limitar-se a uma simples moratória.
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - Na falta de estipulação em contrário, a concordata fica subordinada à cláusula 'salvo regresso de melhor fortuna', que produz efeitos durante 10 anos, ficando a empresa obrigada, logo que melhore de situação económica, a pagar rateadamente aos credores concordatários, sem prejuízo de novos créditos com preferência sobre eles.
 
@@ -527,17 +647,23 @@ A concordata é o meio de recuperação da empresa em situação de insolvência
 
 3 - ...
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 Se for declarada a falência do devedor concordatário antes de cumprida integralmente a concordata, não podem os credores, por crédito anterior à homologação desta, concorrer à falência senão pela importância que ainda não hajam recebido da percentagem estipulada; subsistem, porém, as garantias convencionadas para o pagamento dessa percentagem.
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - A reconstituição empresarial é o meio de recuperação da empresa insolvente ou em situação económica difícil que consiste na constituição de uma ou mais sociedades destinadas à exploração de um ou mais estabelecimentos da empresa devedora, desde que os credores, ou alguns deles, ou terceiros se disponham a assumir e dinamizar as respectivas actividades.
 
 2 - A constituição da nova sociedade determina a extinção da pessoa colectiva titular da empresa objecto do acordo sempre que este abranja todo o património dela ou a exoneração do empresário individual a que o acordo se refere, sem prejuízo do disposto no artigo 84.º
 
-###### Artigo 79.º — Proposta de acordo
+Artigo 79.º
+
+Proposta de acordo
 
 1 - A providência pode ser adoptada através da aprovação pela assembleia de uma proposta de acordo subscrita por credores ou terceiros interessados, desde que os créditos por ela abrangidos representem pelo menos 30% da totalidade dos créditos sobre o devedor; à proposta poderão aderir, salvo convenção em contrário, outros credores ou terceiros, mediante declaração emitida na assembleia ou apresentada por escrito, até ao momento da deliberação.
 
@@ -557,7 +683,9 @@ d) A atribuição à nova sociedade ou sociedades, independentemente do acordo d
 
 5 - A sentença homologatória é título bastante para o registo de constituição da nova sociedade ou sociedades e para a transmissão dos bens e direitos e correspondentes obrigações, bem como para a realização dos respectivos registos.
 
-###### Artigo 80.º — Forma, estatutos e capital da nova sociedade
+Artigo 80.º
+
+Forma, estatutos e capital da nova sociedade
 
 1 - A sociedade ou sociedades a constituir devem revestir a forma que for deliberada.
 
@@ -567,7 +695,9 @@ d) A atribuição à nova sociedade ou sociedades, independentemente do acordo d
 
 4 - O capital inicial poderá ser reduzido ao valor correspondente aos bens e direitos atribuídos à nova sociedade, depois de deduzidas as obrigações por ela assumidas originariamente, e aplicando à operação as disposições sobre reduções de capital para cobertura de prejuízos; poderá de igual modo ser aumentado, quando outros credores ou terceiros tenham aderido à proposta inicial de acordo, nos termos previstos no n.º 1 do artigo 79.º
 
-###### Artigo 81.º — Direitos dos credores não aceitantes
+Artigo 81.º
+
+Direitos dos credores não aceitantes
 
 1 - Os créditos dos não subscritores e dos não aderentes ao acordo, bem como os créditos não abrangidos dos credores aceitantes, serão assumidos pela nova sociedade, nos termos em que se encontrem à data da aprovação do acordo, podendo os subscritores da proposta subordinar, porém, a aceitação desta às seguintes modificações, quanto aos créditos que não beneficiem de garantia real:
 
@@ -581,17 +711,23 @@ c) Subordinação do pagamento do capital ou dos juros às possibilidades financ
 
 3 - Os créditos que beneficiem de garantia real, à qual os seus titulares não hajam renunciado, podem ser objecto de novo plano de pagamento, integrado na proposta do acordo, desde que os respectivos credores nisso concordem.
 
-###### Artigo 82.º — Anulação da reconstituição empresarial
+Artigo 82.º
+
+Anulação da reconstituição empresarial
 
 São aplicáveis à reconstituição empresarial os fundamentos e os termos da anulação da concordata.
 
-###### Artigo 83.º — Afastamento da anulação
+Artigo 83.º
+
+Afastamento da anulação
 
 1 - Requerida a anulação do acordo de reconstituição empresarial com o fundamento constante da alínea a) do n.º 1 do artigo 72.º, têm os credores aceitantes ou a sociedade por eles constituída a faculdade de impedir a anulação, oferecendo ao requerente o pagamento do seu crédito nas condições previstas para o pagamento dos credores não aceitantes do acordo.
 
 2 - Se o acordo de reconstituição empresarial tiver sido firmado por todos os credores, pode a anulação ser afastada mediante a oferta de pagamento imediato da quantia que provavelmente caberia ao requerente no caso de liquidação em processo de falência, sendo decretada a falência se tal oferta, uma vez apresentada e aceite, não vier a ser cumprida.
 
-###### Artigo 84.º — Efeitos da anulação
+Artigo 84.º
+
+Efeitos da anulação
 
 1 - A anulação do acordo determina a extinção da nova sociedade e a reconstituição da pessoa colectiva do devedor, caso ela se tenha extinguido.
 
@@ -601,11 +737,15 @@ São aplicáveis à reconstituição empresarial os fundamentos e os termos da a
 
 4 - Anulado o acordo, será decretada a falência da devedora, salvo se credores, representando pelo menos 30% dos créditos, requererem ao juiz, até ao trânsito em julgado da decisão de anulação, a convocação de nova assembleia de credores para aprovação de nova providência, que deverá ser deliberada no prazo máximo de 30 dias.
 
-###### Artigo 85.º — Pedido de falência por crédito anterior à reconstituição empresarial
+Artigo 85.º
+
+Pedido de falência por crédito anterior à reconstituição empresarial
 
 Sendo requerida a falência da nova sociedade com base em crédito anterior à deliberação da reconstituição empresarial, será sempre ouvida a administração da nova sociedade, a qual poderá impedir a declaração de falência, satisfazendo os direitos do requerente.
 
-###### Artigo 86.º — Criação de várias sociedades
+Artigo 86.º
+
+Criação de várias sociedades
 
 1 - Se o projecto de acordo de credores contiver a criação de várias sociedades para a exploração de partes diversas do estabelecimento ou de diversos estabelecimentos do devedor, aplicar-se-á o disposto nos preceitos constantes desta secção, com as necessárias adaptações, observando-se ainda as disposições seguintes:
 
@@ -619,11 +759,15 @@ d) A anulação do acordo envolve a extinção de todas as sociedades criadas.
 
 2 - Podem os credores acordar sobre a responsabilidade subsidiária das novas sociedades pelas dívidas anteriores das outras sociedades.
 
-###### Artigo 87.º — [...]
+Artigo 87.º
+
+[...]
 
 A reestruturação financeira é o meio de recuperação da empresa insolvente ou em situação económica difícil que consiste na adopção pelos credores de uma ou mais providências destinadas a modificar a situação do passivo da empresa ou a alterar o seu capital, em termos que assegurem, só por si, a superioridade do activo sobre o passivo e a existência de um fundo de maneio positivo.
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 1 - ...
 
@@ -635,13 +779,17 @@ A reestruturação financeira é o meio de recuperação da empresa insolvente o
 
 5 - ...
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - Se a providência do aumento de capital for aprovada com a cláusula de que a parte do aumento não subscrita pelos sócios, no exercício do direito de preferência, seja atribuída aos credores, em pagamento dos seus créditos, deve a assembleia fixar os critérios da atribuição.
 
 2 - As partes sociais não subscritas pelos sócios são atribuídas pelo gestor judicial aos credores da empresa, de acordo com os critérios estabelecidos, ficando os respectivos créditos extintos no montante correspondente ao valor nominal das partes sociais que eles subscreveram.
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - ...
 
@@ -651,15 +799,21 @@ A reestruturação financeira é o meio de recuperação da empresa insolvente o
 
 4 - Findo o prazo de condicionamento estabelecido, os credores que não tenham recebido a totalidade do que lhes era devido podem exercer livremente os seus direitos pela parte insatisfeita, nos termos do n.º 2.
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 A gestão controlada é o meio de recuperação da empresa insolvente ou em situação económica difícil que assenta num plano de actuação global, concertado entre os credores e executado por intermédio de nova administração, com um regime próprio de fiscalização.
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 O plano pode ter por base alguma ou algumas das providências e iniciativas referidas nos artigos seguintes e ser integrado com providências complementares de natureza jurídica, financeira, comercial, administrativa ou de outra ordem, convenientes à sua perfeita execução, desde que susceptíveis de realização mediante deliberação dos titulares da empresa.
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - ...
 
@@ -669,7 +823,9 @@ O plano pode ter por base alguma ou algumas das providências e iniciativas refe
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 1 - ...
 
@@ -679,11 +835,15 @@ O plano pode ter por base alguma ou algumas das providências e iniciativas refe
 
 4 - Pode no plano aprovado admitir-se que a administração da empresa devedora seja entregue a uma entidade especializada, mediante contrato que venha a celebrar-se com a sociedade gestora pelo prazo adequado, outorgando o contrato de gestão, em nome da empresa devedora, o órgão de fiscalização ou a pessoa designada para o efeito por este ou pela assembleia de credores, transferindo-se para a entidade gestora os plenos poderes da nova administração.
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 Durante o período de execução da gestão controlada, fica suspenso o funcionamento da assembleia geral e do órgão de fiscalização, bem como o exercício dos direitos de voto dos titulares do capital da empresa, cabendo à assembleia de credores, convocada pela nova administração ou pelo órgão de fiscalização, a apreciação e aprovação do relatório e contas da administração, a deliberação sobre o preenchimento de vagas, a destituição e substituição de membros da administração e ainda a deliberação sobre eventual resolução do contrato de gestão previsto no n.º 4 do artigo anterior e a subsequente celebração de novo contrato ou a designação de nova administração.
 
-###### Artigo 106.º — [...]
+Artigo 106.º
+
+[...]
 
 1 - A assembleia de credores designará o órgão de fiscalização do plano, composto por um ou três membros, especialmente incumbido, durante o período de gestão controlada, de velar pela execução do meio de recuperação aprovado e de exercer as funções que, nos termos da lei, caibam ao fiscal único ou ao conselho fiscal das sociedades.
 
@@ -693,13 +853,17 @@ Durante o período de execução da gestão controlada, fica suspenso o funciona
 
 4 - O órgão de fiscalização é obrigatoriamente composto por um revisor oficial de contas; no caso de ser constituído por três membros, dele não podem fazer parte representantes dos titulares da empresa ou de entidades com interesses patrimoniais equiparáveis.
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - ...
 
 2 - As deliberações da assembleia necessitam de ser aprovadas por credores com direito de voto, quer sejam credores comuns, quer sejam credores preferentes, que representem, pelo menos, dois terços do valor de todos os créditos aprovados, sendo o valor destes actualizado, conforme relação elaborada pela administração da empresa, com referência ao último dia do mês anterior à data da realização da assembleia.
 
-###### Artigo 108.º — [...]
+Artigo 108.º
+
+[...]
 
 1 - ...
 
@@ -707,19 +871,25 @@ Durante o período de execução da gestão controlada, fica suspenso o funciona
 
 3 - A venda é promovida pela nova administração, cabendo ao juiz fixar a modalidade mais ajustada às circunstâncias; cabe ainda ao juiz autorizar a venda em função do preço mínimo oferecido.
 
-###### Artigo 109.º — [...]
+Artigo 109.º
+
+[...]
 
 1 - Os créditos obtidos mediante concessão de privilégio nos termos da alínea b) do n.º 1 do artigo 101.º gozam de privilégio mobiliário geral, graduado antes de qualquer outro crédito sobre a empresa, salvo os adiantamentos previstos nos n.os 4 e 5 do artigo 34.º e os créditos previstos no artigo 65.º
 
 2 - ...
 
-###### Artigo 114.º — [...]
+Artigo 114.º
+
+[...]
 
 1 - ...
 
 2 - As datas intermédias eventualmente estabelecidas no plano para pagamentos parciais dos débitos podem ser diferidas, sempre que a administração julgue conveniente a dilação e o órgão de fiscalização manifeste o seu acordo, devendo, neste caso, comunicar aos credores o facto, com a respectiva fundamentação, até oito dias antes do vencimento.
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 1 - ...
 
@@ -727,13 +897,17 @@ Durante o período de execução da gestão controlada, fica suspenso o funciona
 
 3 - ...
 
-###### Artigo 116.º — [...]
+Artigo 116.º
+
+[...]
 
 1 - A requerimento da administração, do órgão de fiscalização, de credores que representem, pelo menos, 51% do passivo da empresa, do titular desta ou, tratando-se de sociedade, de titulares da maioria do capital social, pode a assembleia de credores, ouvida a administração e o órgão de fiscalização, quando não sejam os requerentes, deliberar a cessação da gestão controlada antes do termo do prazo, com fundamento na frustração substancial e irreversível dos objectivos do plano, devendo tal deliberação ser homologada pelo juiz.
 
 2 - ...
 
-###### Artigo 119.º — [...]
+Artigo 119.º
+
+[...]
 
 1 - ...
 
@@ -741,7 +915,9 @@ Durante o período de execução da gestão controlada, fica suspenso o funciona
 
 3 - O valor dos créditos que for objecto de redução, ao abrigo de qualquer providência de recuperação da empresa devidamente homologada, é considerado como custo ou perda do respectivo exercício, para efeitos de apuramento do lucro tributável dos sujeitos passivos do imposto sobre o rendimento das pessoas singulares e do imposto sobre o rendimento das pessoas colectivas.
 
-###### Artigo 123.º — [...]
+Artigo 123.º
+
+[...]
 
 1 - Tendo havido oposição à apresentação ou ao requerimento de falência e não se verificando a situação prevista no n.º 3 do artigo 25.º, é logo marcada audiência de julgamento para um dos cinco dias subsequentes ao despacho de prosseguimento da acção.
 
@@ -749,19 +925,25 @@ Durante o período de execução da gestão controlada, fica suspenso o funciona
 
 3 - Tendo-se verificado a situação prevista no n.º 4 do artigo 20.º, mas reconhecendo-se não existir já inconveniente em que o devedor seja imediatamente ouvido, é este citado para a audiência e para responder à matéria da oposição, podendo juntar documentos com a resposta e apresentar testemunhas, nos termos do disposto no número anterior.
 
-###### Artigo 124.º — [...]
+Artigo 124.º
+
+[...]
 
 1 - Na audiência de julgamento, deve o juiz fixar a base instrutória, sendo imediatamente decididas as respectivas reclamações; produzida a prova, terão lugar as alegações.
 
 2 - Em seguida, o tribunal decidirá sobre a matéria de facto; se a sentença não puder ser logo proferida, deverá sê-lo no prazo de cinco dias.
 
-###### Artigo 127.º — [...]
+Artigo 127.º
+
+[...]
 
 1 - O requerente da declaração de falência pode desistir do pedido ou da instância até ser proferida sentença, sem prejuízo do procedimento criminal que ao caso couber.
 
 2 - ...
 
-###### Artigo 128.º — [...]
+Artigo 128.º
+
+[...]
 
 1 - ...
 
@@ -779,7 +961,9 @@ e) Designar prazo, até 30 dias, para a reclamação de créditos.
 
 3 - Todas as diligências destinadas à execução e publicidade da sentença devem ser realizadas no prazo de cinco dias.
 
-###### Artigo 129.º — [...]
+Artigo 129.º
+
+[...]
 
 1 - ...
 
@@ -795,7 +979,9 @@ e) ...
 
 2 - Os embargos devem ser deduzidos dentro dos cinco dias subsequentes à publicação da sentença declaratória da falência no Diário da República.
 
-###### Artigo 130.º — [...]
+Artigo 130.º
+
+[...]
 
 1 - ...
 
@@ -805,7 +991,9 @@ e) ...
 
 4 - Em seguida à contestação e depois de produzidas, no prazo máximo de 10 dias, as provas que devam realizar-se antecipadamente, proceder-se-á à audiência de julgamento, dentro dos cinco dias imediatos, nos termos aplicáveis do disposto no artigo 124.º
 
-###### Artigo 132.º — [...]
+Artigo 132.º
+
+[...]
 
 1 - ...
 
@@ -813,7 +1001,9 @@ e) ...
 
 3 - Se a falência tiver sido precedida de providência de recuperação da empresa, não pode ser liquidatário quem tiver exercido as funções de gestor judicial.
 
-###### Artigo 134.º — [...]
+Artigo 134.º
+
+[...]
 
 1 - ...
 
@@ -829,7 +1019,9 @@ b) ...
 
 c) Exercer, relativamente aos trabalhadores do falido, todas as competências decorrentes do regime jurídico da cessação do contrato individual de trabalho, pelas formas de cessação aí previstas.
 
-###### Artigo 139.º — [...]
+Artigo 139.º
+
+[...]
 
 1 - A comissão de credores, nomeada pelo juiz, é composta por três ou cinco membros, devendo o encargo da presidência recair, de preferência, sobre o maior credor e a escolha dos restantes assegurar a adequada representação das várias classes de credores e dos diversos interesses em causa na liquidação, com excepção dos credores que sejam sócios, membros do órgão de administração, titulares de empresa individual ou entidades com interesse patrimonial equiparável, aplicando-se subsidiariamente o disposto na parte final do n.º 1 e no n.º 6 do artigo 41.º
 
@@ -837,13 +1029,17 @@ c) Exercer, relativamente aos trabalhadores do falido, todas as competências de
 
 3 - ...
 
-###### Artigo 142.º — Unidade de administração nas falências derivadas ou conjuntas
+Artigo 142.º
+
+Unidade de administração nas falências derivadas ou conjuntas
 
 1 - Nos casos de falências derivadas a que se refere o artigo 126.º e nos de falências conjuntas previstas no artigo 126.º-C, é uma só a administração da massa social, mas os bens sociais são inventariados, mantidos e liquidados em separado dos pertencentes a cada um dos sócios, cooperantes ou membros abrangidos na declaração judicial.
 
 2 - ...
 
-###### Artigo 145.º — [...]
+Artigo 145.º
+
+[...]
 
 1 - Ao liquidatário judicial, que deve agir como um gestor diligente, cabe especialmente:
 
@@ -859,7 +1055,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 148.º — [...]
+Artigo 148.º
+
+[...]
 
 1 - A declaração de falência determina o encerramento dos livros do falido e implica a sua inibição para o exercício do comércio, incluindo a possibilidade de ocupação de qualquer cargo de titular de órgão de sociedade comercial ou civil, associação ou fundação privada de actividade económica, empresa pública ou cooperativa, sem prejuízo do disposto na alínea d) do n.º 1 do artigo 238.º
 
@@ -867,7 +1065,9 @@ d) ...
 
 3 - A pessoa que for objecto da inibição pode, no entanto, ser autorizada pelo juiz, a seu pedido ou sob proposta do liquidatário judicial, a exercer as actividades referidas no número anterior, desde que a autorização se justifique pela necessidade de angariar os meios indispensáveis de subsistência e não prejudique a liquidação da massa.
 
-###### Artigo 150.º — Alimentos ao falido e aos trabalhadores
+Artigo 150.º
+
+Alimentos ao falido e aos trabalhadores
 
 1 - ...
 
@@ -875,11 +1075,15 @@ d) ...
 
 3 - O disposto nos números anteriores é aplicável aos trabalhadores que se encontrem na situação prevista no n.º 1 e detenham créditos sobre a massa falida, deduzindo-se, a final, o valor dos subsídios até ao valor dos seus créditos.
 
-###### Artigo 152.º — [...]
+Artigo 152.º
+
+[...]
 
 Com a declaração de falência extinguem-se imediatamente, passando os respectivos créditos a ser exigidos como créditos comuns, os privilégios creditórios do Estado, das autarquias locais e das instituições de segurança social, excepto os que se constituírem no decurso do processo de recuperação da empresa ou de falência.
 
-###### Artigo 155.º — [...]
+Artigo 155.º
+
+[...]
 
 1 - Os negócios realizados pelo falido, posteriormente à declaração de falência, são inoponíveis à massa falida; se forem, porém, celebrados a título oneroso com terceiros de boa fé, serão inoponíveis se celebrados depois do registo da sentença.
 
@@ -889,7 +1093,9 @@ Com a declaração de falência extinguem-se imediatamente, passando os respecti
 
 4 - ...
 
-###### Artigo 158.º — [...]
+Artigo 158.º
+
+[...]
 
 ...
 
@@ -903,7 +1109,9 @@ d) ...
 
 e) ...
 
-###### Artigo 161.º — [...]
+Artigo 161.º
+
+[...]
 
 1 - ...
 
@@ -911,11 +1119,15 @@ e) ...
 
 3 - O contrato de compra e venda não se extingue se o vendedor for o falido e o domínio da coisa se tiver já transmitido à data da declaração de falência; no caso contrário, cabe ao liquidatário optar pelo cumprimento do contrato ou pela resolução dele, com direito para o comprador a reclamar da massa falida a indemnização do dano sofrido.
 
-###### Artigo 172.º — [...]
+Artigo 172.º
+
+[...]
 
 Aos trabalhadores do falido aplica-se, quanto à manutenção dos seus contratos após a declaração de falência, o regime geral de cessação do contrato de trabalho, sem prejuízo da transmissão de contratos que acompanhe a alienação de estabelecimentos industriais e comerciais.
 
-###### Artigo 179.º — [...]
+Artigo 179.º
+
+[...]
 
 1 - Transitada em julgado a sentença declaratória da falência, ou proferida em 1.ª instância a decisão de rejeição dos embargos que lhe tenham sido opostos, sem que dela tenha havido recurso, proceder-se-á à venda de todos os bens arrolados para a massa falida, independentemente da verificação do passivo.
 
@@ -923,13 +1135,17 @@ Aos trabalhadores do falido aplica-se, quanto à manutenção dos seus contratos
 
 3 - ...
 
-###### Artigo 180.º — [...]
+Artigo 180.º
+
+[...]
 
 1 - ...
 
 2 - A liquidação deve ser concluída no prazo de seis meses, prorrogável a pedido do liquidatário, por período não superior a seis meses, obtido parecer favorável da comissão de credores.
 
-###### Artigo 181.º — [...]
+Artigo 181.º
+
+[...]
 
 1 - ...
 
@@ -939,17 +1155,23 @@ Aos trabalhadores do falido aplica-se, quanto à manutenção dos seus contratos
 
 4 - O liquidatário remeterá mensalmente ao tribunal e à comissão de credores relatório com a síntese das operações de liquidação realizadas.
 
-###### Artigo 184.º — [...]
+Artigo 184.º
+
+[...]
 
 Contra os actos irregulares praticados no decurso da liquidação podem os credores ou o falido, no prazo de cinco dias após a data em que for junto aos autos o relatório em que os actos se encontrem referidos, apresentar reclamação escrita ao juiz, que decidirá, depois de ouvidos o liquidatário judicial e a comissão de credores, bem como as pessoas directamente interessadas na manutenção do acto, com a produção da prova necessária.
 
-###### Artigo 186.º — [...]
+Artigo 186.º
+
+[...]
 
 1 - Se não houver bens susceptíveis de apreensão no património do falido, o liquidatário judicial, ouvida a comissão de credores, levará a informação do facto aos autos, sendo o processo imediatamente concluso ao juiz, para que o julgue extinto por inutilidade da lide, sem prejuízo da entrega ao Ministério Público, para os devidos efeitos, dos elementos que indiciem a prática de qualquer infracção criminal.
 
 2 - A decisão de extinção a que se refere o número anterior pode ser revogada a todo o tempo, se forem encontrados bens susceptíveis de apreensão.
 
-###### Artigo 187.º — [...]
+Artigo 187.º
+
+[...]
 
 1 - Quando o liquidatário verificar que os bens apreendidos, ou que o possam ser, se mostram insuficientes para a satisfação das custas e mais despesas do processo, dará de igual modo conhecimento do facto ao juiz.
 
@@ -957,7 +1179,9 @@ Contra os actos irregulares praticados no decurso da liquidação podem os credo
 
 3 - ...
 
-###### Artigo 188.º — [...]
+Artigo 188.º
+
+[...]
 
 1 - Dentro do prazo fixado na sentença declaratória da falência, devem os credores do falido, incluindo o Ministério Público na defesa dos interesses que represente, reclamar a verificação dos seus créditos, quer comuns, quer preferenciais, por meio de requerimento no qual indiquem a sua proveniência, natureza e montante, podendo ainda alegar o que houverem por necessário acerca da falência.
 
@@ -967,25 +1191,35 @@ Contra os actos irregulares praticados no decurso da liquidação podem os credo
 
 4 - Consideram-se devidamente reclamados o crédito do requerente da falência, bem como os créditos exigidos nos processos em que já tenha havido apreensão de bens do falido ou nos quais se debatam interesses relativos à massa, se esses processos forem mandados apensar aos autos da falência dentro do prazo fixado para a reclamação, e ainda os créditos reclamados no processo de recuperação que tenha antecedido o processo de falência, sem prejuízo da possibilidade de os credores apresentarem nova reclamação, em substituição da anterior, se nisso tiverem interesse.
 
-###### Artigo 191.º — [...]
+Artigo 191.º
+
+[...]
 
 1 - Findo o prazo das reclamações, deve o liquidatário apresentar na secretaria, nos 10 dias subsequentes, a fim de ser junta ao apenso das reclamações, relação de todos os créditos reclamados e seus titulares, à qual pode ser acrescentada outra, com a indicação de créditos não reclamados de existência provável.
 
 2 - Os credores identificados na segunda relação devem ser avisados pelo liquidatário, por carta registada, para se pronunciarem sobre a situação no prazo de cinco dias, valendo como apresentada em tempo útil a reclamação que entreguem na sequência do aviso.
 
-###### Artigo 192.º — [...]
+Artigo 192.º
+
+[...]
 
 Nos cinco dias seguintes ao termo do prazo fixado no n.º 2 do artigo anterior, podem os credores ou o falido contestar a existência ou o montante dos créditos reclamados, sem excepção dos que já houverem sido reconhecidos em outro processo.
 
-###### Artigo 193.º — [...]
+Artigo 193.º
+
+[...]
 
 O reclamante cujo crédito haja sido contestado pode responder dentro dos cinco dias subsequentes à notificação da contestação.
 
-###### Artigo 195.º — [...]
+Artigo 195.º
+
+[...]
 
 Dentro dos 10 dias posteriores ao termo do prazo das respostas às contestações, deve o liquidatário juntar aos autos o seu parecer final, sucintamente fundamentado, e, bem assim, o da comissão de credores sobre os créditos reclamados.
 
-###### Artigo 196.º — [...]
+Artigo 196.º
+
+[...]
 
 1 - Junto o parecer final do liquidatário e o da comissão de credores, o juiz designará dia e hora para uma tentativa de conciliação, que se realizará dentro dos 10 dias seguintes, para a qual serão notificados, a fim de comparecerem pessoalmente ou de se fazerem representar por procuradores com poderes especiais para transigir, os credores cujos créditos foram impugnados, os impugnantes, o falido ou seus representantes, a comissão de credores e o liquidatário.
 
@@ -999,11 +1233,15 @@ Dentro dos 10 dias posteriores ao termo do prazo das respostas às contestaçõe
 
 6 - Se a verificação de algum dos créditos necessitar de produção de prova, a graduação de todos os créditos terá lugar na sentença final.
 
-###### Artigo 198.º — [...]
+Artigo 198.º
+
+[...]
 
 Produzidas as provas ou expirado o prazo marcado nas cartas, o processo vai com vista, durante 5 dias, ao Ministério Público para promover quanto for necessário à tutela do interesse geral dos credores; em seguida, é marcada, para um dos 10 dias posteriores, a audiência de discussão e julgamento.
 
-###### Artigo 199.º — [...]
+Artigo 199.º
+
+[...]
 
 ...
 
@@ -1013,7 +1251,9 @@ b) [Anterior alínea c).]
 
 c) [Anterior alínea d).]
 
-###### Artigo 200.º — [...]
+Artigo 200.º
+
+[...]
 
 1 - Na sentença deve o juiz proceder à verificação e graduação dos créditos, independentemente do apuramento das operações de liquidação, e fixar a data da falência, se antes não o tiver sido.
 
@@ -1023,13 +1263,17 @@ c) [Anterior alínea d).]
 
 4 - ...
 
-###### Artigo 203.º — [...]
+Artigo 203.º
+
+[...]
 
 1 - No caso de serem apreendidos bens para a massa, depois de findo o prazo fixado para as reclamações, é ainda permitido exercer o direito de restituição ou separação desses bens nos 5 dias posteriores à apreensão, por meio de requerimento, apensado ao processo principal.
 
 2 - Citados em seguida os credores, por éditos de 10 dias, para contestarem dentro dos 5 dias imediatos, seguem-se os termos do processo de verificação de créditos.
 
-###### Artigo 205.º — [...]
+Artigo 205.º
+
+[...]
 
 1 - Findo o prazo das reclamações, é possível reconhecer ainda novos créditos, bem como o direito à separação ou restituição de bens, por meio de acção proposta contra os credores, efectuando-se a citação destes por éditos de 10 dias.
 
@@ -1037,11 +1281,15 @@ c) [Anterior alínea d).]
 
 3 - ...
 
-###### Artigo 209.º — [...]
+Artigo 209.º
+
+[...]
 
 Liquidados os bens onerados com garantia real, e sem prejuízo do disposto nos artigos 211.º e 213.º, é imediatamente feito o pagamento ao respectivo credor, o qual, não ficando integralmente pago, é logo incluído pelo saldo entre os credores comuns.
 
-###### Artigo 213.º — [...]
+Artigo 213.º
+
+[...]
 
 1 - Havendo recurso da sentença de verificação e graduação de créditos, ou protesto por acção pendente, consideram-se condicionalmente verificados os créditos reclamados pelos recorrentes ou autores do protesto ou deferidos os termos do seu recurso, para o efeito de serem atendidos nos rateios que se efectuarem, devendo continuar, porém, depositadas as quantias que por estes lhes sejam atribuídas.
 
@@ -1049,37 +1297,49 @@ Liquidados os bens onerados com garantia real, e sem prejuízo do disposto nos a
 
 3 - ...
 
-###### Artigo 215.º — [...]
+Artigo 215.º
+
+[...]
 
 1 - ...
 
 2 - Prescrevem a favor do Cofre Geral dos Tribunais as importâncias dos cheques que não forem solicitados na secretaria ou não forem apresentados a pagamento no prazo de um ano, contado desde a data do aviso ao credor.
 
-###### Artigo 216.º — [...]
+Artigo 216.º
+
+[...]
 
 1 - Havendo, nas situações de falência derivada ou conjunta, credores sociais e credores pessoais, são aqueles pagos de preferência a estes pelo produto dos bens da massa social, depois de satisfeitos os créditos com garantia real sobre estes bens.
 
 2 - ...
 
-###### Artigo 220.º — [...]
+Artigo 220.º
+
+[...]
 
 1 - O liquidatário apresentará contas dentro dos 10 dias subsequentes ao termo do período fixado para a liquidação, podendo o prazo ser prorrogado por despacho judicial.
 
 2 - ...
 
-###### Artigo 221.º — [...]
+Artigo 221.º
+
+[...]
 
 1 - Se o liquidatário não prestar voluntariamente contas, será ordenada, oficiosamente ou a requerimento de qualquer credor reconhecido ou do falido, a sua notificação, para as apresentar, no prazo de 10 dias.
 
 2 - ...
 
-###### Artigo 223.º — [...]
+Artigo 223.º
+
+[...]
 
 1 - Autuadas as contas por apenso, são os credores e o falido notificados por éditos de 10 dias e por anúncio à porta do tribunal, para, no prazo de 5 dias, se pronunciarem sobre a operação.
 
 2 - ...
 
-###### Artigo 224.º — [...]
+Artigo 224.º
+
+[...]
 
 1 - Logo que haja conhecimento de factos que indiciem a prática de qualquer dos crimes previstos e punidos nos artigos 227.º a 229.º do Código Penal, mandará o juiz dar conhecimento da ocorrência ao Ministério Público, para efeitos de exercício da acção penal.
 
@@ -1087,7 +1347,9 @@ Liquidados os bens onerados com garantia real, e sem prejuízo do disposto nos a
 
 3 - ...
 
-###### Artigo 232.º — [...]
+Artigo 232.º
+
+[...]
 
 1 - Em qualquer fase da liquidação, mas depois de proferida a sentença de verificação de créditos, pode a maioria absoluta dos credores reconhecidos que represente, pelo menos, dois terços do valor dos créditos comuns verificados requerer, conjuntamente com o falido, seus herdeiros ou representantes, a homologação do acordo extraordinário, constante de documento autêntico ou autenticado, que entre si tenham firmado.
 
@@ -1095,43 +1357,59 @@ Liquidados os bens onerados com garantia real, e sem prejuízo do disposto nos a
 
 3 - ...
 
-###### Artigo 233.º — [...]
+Artigo 233.º
+
+[...]
 
 1 - O requerimento de homologação do acordo, que será autuado por apenso, é logo submetido a despacho do juiz e, não havendo motivo para indeferimento liminar, suspende-se o processo de falência, sem prejuízo dos efeitos próprios da indiciação das infracções criminais a que se refere o n.º 1 do artigo 224.º; o processo de falência prosseguirá, todavia, se, por decisão definitiva, o acordo não for homologado.
 
 2 - ...
 
-###### Artigo 234.º — [...]
+Artigo 234.º
+
+[...]
 
 Recebido o acordo, são notificados os credores incertos e também os credores certos, que o não tenham aceitado, por editais com a dilação de 10 dias, publicados no Diário da República e num dos jornais mais lidos na comarca, para, em 10 dias após o termo do prazo dos éditos, deduzirem por embargos, querendo, o que tiverem a opor à extinção do processo; para o mesmo fim é notificado o Ministério Público, sendo também dado conhecimento do requerimento ao liquidatário judicial e à comissão de credores.
 
-###### Artigo 236.º — [...]
+Artigo 236.º
+
+[...]
 
 1 - Os embargos podem ser contestados nos cinco dias posteriores à notificação da sua apresentação, observando-se, após a contestação, os termos do processo sumário.
 
 2 - ...
 
-###### Artigo 240.º — [...]
+Artigo 240.º
+
+[...]
 
 1 - ...
 
 2 - Independentemente do pedido de declaração de falência apresentado por iniciativa dos credores ou do próprio devedor, podem aqueles ou este, até à data da sentença, submeter à homologação do juiz uma proposta de concordata particular.
 
-###### Artigo 241.º — [...]
+Artigo 241.º
+
+[...]
 
 1 - A proposta de concordata particular deve ser acompanhada do rol de todos os credores do devedor insolvente, conhecidos nessa data, e necessita de aceitação e de não oposição nos termos constantes do n.º 1 do artigo 54.º
 
 2 - ...
 
-###### Artigo 242.º — [...]
+Artigo 242.º
+
+[...]
 
 Não sendo liminarmente indeferido, o requerimento de homologação da concordata determina a suspensão dos termos do processo de falência, que volta, todavia, a prosseguir, se por decisão definitiva a concordata não for homologada; tendo a proposta de concordata sido apresentada antes do pedido de declaração de falência, a não homologação dela determina a abertura da instância de falência.
 
-###### Artigo 243.º — [...]
+Artigo 243.º
+
+[...]
 
 Recebida a proposta de concordata particular, são citados os credores incertos, por editais com a dilação de 10 dias e anúncio no Diário da República, e notificados os credores certos que a não tenham aceitado, bem como o Ministério Público, para oporem, querendo, no prazo de 10 dias após o termo da dilação edital, embargos à proposta apresentada.
 
-###### Artigo 244.º — [...]
+Artigo 244.º
+
+[...]
 
 1 - Os embargos podem ser contestados nos cinco dias subsequentes à notificação da sua dedução, realizando-se em seguida todas as diligências probatórias requeridas pelos interessados ou determinadas pelo tribunal.
 
@@ -1147,7 +1425,9 @@ Coligação processual
 
 Nos casos previstos no n.º 3 do artigo 1.º, as assembleias de credores têm lugar separadamente, sem prejuízo da realização de assembleia de credores conjunta, se as circunstâncias o aconselharem e o juiz assim o determinar, a requerimento do gestor judicial, da comissão de credores ou de qualquer dos requerentes da providência.
 
-###### Artigo 21.º-A — Nomeação de gestor judicial provisório
+Artigo 21.º-A
+
+Nomeação de gestor judicial provisório
 
 1 - Havendo justificado receio da prática de actos de má gestão, deve o requerente solicitar, logo na petição, a nomeação imediata de um gestor judicial que assista ao devedor e sem cuja aprovação não poderão ser praticados actos de alienação ou de oneração de bens ou de assunção de novas responsabilidades, que não sejam indispensáveis à gestão corrente da empresa.
 
@@ -1157,13 +1437,17 @@ Nos casos previstos no n.º 3 do artigo 1.º, as assembleias de credores têm lu
 
 4 - Ao gestor judicial provisório é aplicável o disposto no artigo 34.º, incumbindo, no entanto, ao devedor as despesas com a sua remuneração se tiver sido este o requerente.
 
-###### Artigo 121.º-A — Reclamação para o juiz
+Artigo 121.º-A
+
+Reclamação para o juiz
 
 1 - Os actos do gestor judicial, as deliberações da comissão de credores e as do órgão de fiscalização podem ser suspensos ou revogados mediante reclamação dirigida ao juiz.
 
 2 - Da decisão do juiz cabe recurso, nos termos gerais, até à Relação.
 
-###### Artigo 126.º-A — Responsabilização solidária dos dirigentes
+Artigo 126.º-A
+
+Responsabilização solidária dos dirigentes
 
 1 - No caso de falência de sociedade ou de pessoa colectiva, se para a situação de insolvência tiverem contribuído, de modo significativo, quaisquer actos praticados ao longo dos dois últimos anos anteriores à sentença por gerentes, administradores ou directores, ou por pessoas que simplesmente as tenham gerido, administrado ou dirigido de facto, o tribunal deve, se assim for requerido pelo Ministério Público ou por qualquer credor, declarar a responsabilidade solidária e ilimitada das referidas pessoas pelas dívidas da falida e condená-las no pagamento do respectivo passivo.
 
@@ -1187,7 +1471,9 @@ h) Prosseguido, no seu interesse pessoal ou de terceiro, uma exploração defici
 
 i) Mantido uma contabilidade fictícia, ou feito desaparecer documentos contabilísticos da sociedade ou da pessoa colectiva, ou deliberadamente omitido a organização de qualquer contabilidade.
 
-###### Artigo 126.º-B — Depósito do passivo a descoberto
+Artigo 126.º-B
+
+Depósito do passivo a descoberto
 
 1 - No caso de responsabilidade civil dos fundadores, gerentes, administradores ou directores, nos termos do Código das Sociedades Comerciais, ou no caso de responsabilidade solidária decorrente do disposto do artigo anterior, pode o tribunal, a todo o tempo, e sem prejuízo do regular andamento do processo contra o devedor, uma vez verificados os pressupostos da responsabilidade, fixar prazo para os responsáveis satisfazerem o passivo conhecido da sociedade ou pessoa colectiva, a descoberto, à data da declaração da falência, ou apenas o montante do dano por eles causado, se for considerado inferior.
 
@@ -1201,21 +1487,29 @@ i) Mantido uma contabilidade fictícia, ou feito desaparecer documentos contabil
 
 6 - As testemunhas devem ser apresentadas e as diligências instrutórias devem estar concluídas no prazo de 60 dias.
 
-###### Artigo 126.º-C — Falências conjuntas
+Artigo 126.º-C
+
+Falências conjuntas
 
 Decorrido o prazo fixado nos termos do n.º 1 do artigo anterior, se não se encontrar depositada a respectiva quantia, o tribunal, a requerimento de qualquer credor ou do Ministério Público, declarará no próprio apenso a falência dos responsáveis conjuntamente com a da empresa, efectuando-se o pagamento das importâncias em dívida através da liquidação no processo de falência.
 
-###### Artigo 164.º-A — Promessa de contrato
+Artigo 164.º-A
+
+Promessa de contrato
 
 1 - O contrato-promessa sem eficácia real que se encontre por cumprir à data da declaração de falência extingue-se com esta, com perda do sinal entregue ou restituição em dobro do sinal recebido, como dívida da massa falida, consoante os casos; ressalva-se a possibilidade de o liquidatário judicial, ouvida a comissão de credores, optar pela conclusão do contrato prometido, ou requerer a execução específica da promessa, se o contrato a permitir.
 
 2 - Tratando-se de promessa com eficácia real, o promitente adquirente poderá exigir à massa falida a celebração do contrato prometido ou recorrer à execução específica que lhe seja facultada; sendo o falido promitente adquirente, ao liquidatário judicial cabe decidir sobre a conveniência da execução do contrato, satisfazendo a contraprestação convencionada.
 
-###### Artigo 218.º-A — Direitos dos obrigacionistas
+Artigo 218.º-A
+
+Direitos dos obrigacionistas
 
 Os obrigacionistas da sociedade em estado de falência concorrem à respectiva massa falida pelo valor da emissão, quando este seja conhecido, ou, quando o não seja, pelo valor nominal das obrigações, deduzindo-se sempre tudo quanto se encontre amortizado.
 
-###### Artigo 245.º-A — Acções pendentes
+Artigo 245.º-A
+
+Acções pendentes
 
 1 - Nas acções de recuperação da empresa pendentes em que a deliberação da assembleia sobre o meio de recuperação não esteja judicialmente homologada, o juiz, a requerimento de credores que representem, pelo menos, 25% dos créditos, pode convocar uma assembleia de credores.
 
@@ -1249,19 +1543,19 @@ São revogados o artigo 26.º do CPEREF e o n.º 4 do artigo 30.º do Código de
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 1998. - Jaime José Matos da Gama - Fernando Teixeira dos Santos - José Manuel de Matos Fernandes - Vítor Manuel Sampaio Caetano Ramalho - Fernando Manuel Van-Zeller Gomes da Silva - Paulo José Fernandes Pedroso.
 
-**Promulgado em 1 de Outubro de 1998.**
+Promulgado em 1 de Outubro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Outubro de 1998.**
+Referendado em 9 de Outubro de 1998.
 
 Pelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional.
 
 CÓDIGO DOS PROCESSOS ESPECIAIS DE RECUPERAÇÃO DA EMPRESA E DE FALÊNCIA
 
-## TÍTULO I
+TÍTULO I
 
 Disposições introdutórias comuns
 
@@ -1487,7 +1781,7 @@ A pretensão formulada é também notificada à comissão de trabalhadores ou, q
 
 2 - É aplicável ao devedor insolvente não titular de empresa, com as devidas adaptações, o disposto nos artigos anteriores relativamente à falência.
 
-## TÍTULO II
+TÍTULO II
 
 Regime subsequente do processo de recuperação
 
@@ -2277,7 +2571,7 @@ c) Da autonomização jurídica de estabelecimentos comerciais ou industriais, d
 
 2 - Da decisão do juiz cabe recurso, nos termos gerais, até à Relação.
 
-## TÍTULO III
+TÍTULO III
 
 Processo de falência
 
@@ -3219,7 +3513,7 @@ Recebida a proposta de concordata particular, são citados os credores incertos,
 
 São aplicáveis à concordata particular, com as necessárias adaptações, as disposições relativas à concordata como providência de recuperação.
 
-## TÍTULO IV
+TÍTULO IV
 
 Disposição transitória
 
@@ -3229,7 +3523,7 @@ Disposição transitória
 
 2 - À assembleia de credores a que se refere o número anterior é aplicável o disposto nos artigos 43.º e seguintes.
 
-## TÍTULO V
+TÍTULO V
 
 Disposições finais
 

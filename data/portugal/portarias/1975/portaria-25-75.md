@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/25-1975-158887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T04:42:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9262a1910907a21bfbf30fdb8b1d737a66f9133a34a7914ec57405890398c3b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a61b278317b03554ee18b8ce8adafac67fd6c321d30c06467fdcffbfb8f8106
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:42:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:304750:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:42:02Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +95,7 @@ Tendo em vista o disposto no artigo 15.º do [Decreto-Lei n.º 41566](https://di
 
 Manda o Conselho dos Chefes dos Estados-Maiores das Forças Armadas. pelo Chefe do Estado-Maior-General das Forças Armadas e pelos Chefes dos Estados-Maiores dos três ramos das forças armadas, que as ajudas de custo diárias a abonar aos militares dos três ramos das forças armadas nas suas deslocações em serviço dentro da província de Cabo Verde sejam as constantes da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/01/01400/00500051.pdf))](https://files.diariodarepublica.pt/1s/1975/01/01400/00500051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/01/01400/00500051.pdf)
 
 Conselho dos Chefes dos Estados-Maiores das Forças Armadas, 6 de Janeiro de 1975. - O Chefe do Estado-Maior-General das Forças Armadas, Francisco da Costa Gomes. - O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo. - O Chefe do Estado-Maior do Exército, Carlos Alberto Idães Soares Fabião. - O Chefe do Estado-Maior da Força Aérea, Narciso Mendes Dias.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/213/1992/11/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/213-1992-585024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T07:56:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab3ccaf19b529fcaf49ad9028b1553ffeabf2dfbe5f45d935f42fc5979da05ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3106ecb702c86574a071b8e3ea0439ade8aabc02bee9aabf7fc5440cf27a7c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:56:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,15 +78,15 @@ relationships:
   label: null
   source: /application/external/tratado
 article_structure:
-  article_count: 31
+  article_count: 33
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:56:56Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +119,9 @@ Ministérios do Planeamento e da Administração do Território e da Indústria 
 
 Regulamento de Aplicação do Programa Operacional Prisma
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Âmbito e objecto
 
@@ -293,7 +295,9 @@ Consideram-se elegíveis, para efeitos de cálculo da comparticipação prevista
 
 São entidades beneficiárias da medida C as associações empresariais ou outras instituições sem finalidade lucrativa.
 
-### CAPÍTULO II — Artigo 16.º
+### CAPÍTULO II
+
+###### Artigo 16.º
 
 Quadro institucional
 
@@ -447,19 +451,19 @@ As comparticipações previstas neste diploma não são acumuláveis com quaisqu
 
 ## ANEXO I — Medida A - Apoio à criação, ampliação ou acreditação das estruturas laboratoriais do SNGQ à calibração e à certificação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/263b00/52395246.pdf))](https://files.diariodarepublica.pt/1s/1992/11/263b00/52395246.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/263b00/52395246.pdf)
 
 Medida B - Apoio a acções que visem a melhoria da capacidade concorrencial face a países terceiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/263b00/52395246.pdf))](https://files.diariodarepublica.pt/1s/1992/11/263b00/52395246.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/263b00/52395246.pdf)
 
 Medida C - Apoio a acções que visem a promoção do acesso aos mercados públicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/263b00/52395246.pdf))](https://files.diariodarepublica.pt/1s/1992/11/263b00/52395246.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/263b00/52395246.pdf)
 
 ## ANEXO II — Lista de sectores abrangidos pela medida B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/263b00/52395246.pdf))](https://files.diariodarepublica.pt/1s/1992/11/263b00/52395246.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/263b00/52395246.pdf)
 
 ## ANEXO III — Critérios específicos de admissão da medida B
 

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/76/2000/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2000-275873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:23:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5eaa12e8422037087d555762a4a93584f97b4704e297e27e54caa691aa119b49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd579d344ca1845fc4c7a9f4c2341f44d854d675d45d5bf7424ac8ae1b24190a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:23:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,9 +70,9 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Conselheiro de Segurança
+- Regulamento Nacional do Transporte de Mercadorias Perigosas por Estrada
 - Segurança Rodoviária
 - Transporte de Mercadorias
-- Regulamento Nacional do Transporte de Mercadorias Perigosas por Estrada
 - Transporte de Mercadorias Perigosas
 relationships:
 - type: amended_by
@@ -111,16 +111,21 @@ relationships:
   target: celex:31999L0047
   label: null
   source: http://data.europa.eu/eli/dir/1999/47/oj
+- type: repealed_by
+  target: pt:dre:434032:por
+  label: "Revogado pelo DEC LEI.267-A/2003.27.10.2003.MOPTH, DR.IS-A [249-Supl] de 27.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-a-2003-434032
+  date: '2000-05-09'
 article_structure:
-  article_count: 10
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 4
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:23:04Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +162,9 @@ Campo de aplicação
 
 4 - Aos transportes com origem e destino em território português aplica-se o Regulamento Nacional do Transporte de Mercadorias Perigosas por Estrada (RPE), a aprovar por portaria conjunta dos Ministros do Equipamento Social, da Administração Interna, da Economia, da Saúde, do Ambiente e do Ordenamento do Território e da Ciência e da Tecnologia.
 
-###### Artigo 2.º — Competências
+Artigo 2.º
+
+Competências
 
 1 - A execução do presente diploma, do ADR e do RPE compete:
 
@@ -169,13 +176,17 @@ c) Aos restantes serviços e entidades a designar na portaria a que se refere o 
 
 2 - ...
 
-###### Artigo 3.º — Conselheiros de segurança
+Artigo 3.º
+
+Conselheiros de segurança
 
 1 - As pessoas singulares ou colectivas estabelecidas em território português que efectuem transportes de mercadorias perigosas ou que procedam a operações de carregamento ou de descarga ligadas a estes transportes devem nomear um ou mais conselheiros de segurança para os transportes de mercadorias perigosas, para supervisionar as condições de realização desses transportes e respectivas operações de carregamento e descarga.
 
 2 - As qualificações que os conselheiros de segurança devem possuir e as demais condições de nomeação e exercício da sua actividade são definidas em diploma próprio.
 
-###### Artigo 7.º — Acidentes
+Artigo 7.º
+
+Acidentes
 
 1 - ...
 
@@ -183,7 +194,9 @@ c) Aos restantes serviços e entidades a designar na portaria a que se refere o 
 
 3 - No diploma a que se refere o n.º 2 do artigo 3.º é regulada a intervenção dos conselheiros de segurança no que respeita à avaliação dos acidentes que ocorram com os transportes sob a sua supervisão.
 
-###### Artigo 10.º — Contra-ordenações
+Artigo 10.º
+
+Contra-ordenações
 
 1 - ...
 
@@ -233,7 +246,9 @@ d) Do agente do facto constitutivo, a prevista na alínea n).
 
 6 - A mera falta de apresentação de documentos no acto da fiscalização é punível com coima de 10000$00 a 50000$00.
 
-###### Artigo 11.º — Infractores não estabelecidos ou domiciliados em Portugal
+Artigo 11.º
+
+Infractores não estabelecidos ou domiciliados em Portugal
 
 1 - Se o responsável pela infracção não for estabelecido ou domiciliado em Portugal e não efectuar de imediato o pagamento voluntário da coima, procederá ao depósito de quantia igual ao valor máximo da coima prevista para a contra-ordenação praticada.
 
@@ -253,7 +268,9 @@ b) À Direcção-Geral de Transportes Terrestres, os restantes títulos.
 
 7 - A falta de pagamento voluntário ou do depósito, nos termos dos números anteriores, implica a apreensão, a imobilização e a remoção do veículo, que se manterão até à efectivação do pagamento ou depósito ou até à decisão absolutória.
 
-###### Artigo 12.º — Instrução e decisão dos processos de contra-ordenação
+Artigo 12.º
+
+Instrução e decisão dos processos de contra-ordenação
 
 1 - A instrução dos processos por contra-ordenação previstos no presente diploma compete:
 
@@ -299,15 +316,15 @@ O Regulamento Nacional de Transporte de Mercadorias Perigosas por Estrada (RPE),
 
 Visto e aprovado em Conselho de Ministros de 24 de Fevereiro de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 11 de Abril de 2000.**
+Promulgado em 11 de Abril de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Abril de 2000.**
+Referendado em 13 de Abril de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 PLANO
 
@@ -1325,11 +1342,11 @@ Modificar a nota de fim (3) [renumerada (4)], que deve passar a ler-se como segu
 
 III Parte - Apêndices do anexo A
 
-## APÊNDICE A.1
+APÊNDICE A.1
 
 3170 Suprimir a palavra «industriais» na rubrica «Cargas ocas industriais», bem como na nota relativa aos «cartuchos para poços de petróleo».
 
-## APÊNDICE A.5
+APÊNDICE A.5
 
 Condições gerais de embalagem, tipos de embalagem, exigências relativas às embalagens e prescrições relativas aos ensaios sobre embalagens
 
@@ -1411,7 +1428,9 @@ Acrescentar a frase seguinte no final do marginal 3551 (6):
 
 «As embalagens de matéria plástica devem ser arrefecidas à temperatura ambiente antes da avaliação do resultado.»
 
-## ANEXO AO APÊNDICE A.5 — Secção I
+## ANEXO AO APÊNDICE A.5
+
+#### Secção I
 
 No título, substituir «alto peso molecular» por «alto ou médio peso molecular».
 
@@ -1429,7 +1448,7 @@ Classe 8, 61.º: Modificar a nota de fim (12) como segue:
 
 «Ensaio a efectuar unicamente com respiradouro. No caso de ensaios com o ácido nítrico como líquido normalizado, devem ser utilizados um respiradouro e uma junta de estanquidade resistentes aos ácidos. Para as soluções de hipocloritos são admitidos os respiradouros e as juntas de estanquidade do mesmo tipo de construção, resistentes ao hipoclorito (como, por exemplo, em borracha, em silicone) mas que não resistem ao ácido nítrico.»
 
-## APÊNDICE A.6
+APÊNDICE A.6
 
 Condições gerais de utilização dos grandes recipientes para granel (GRG), tipos de GRG, exigências relativas à construção de GRG e prescrições relativas aos ensaios sobre os GRG
 
@@ -1459,7 +1478,7 @@ b) Além disso, um GRG cujo enchimento tenha ocorrido antes da data em que expir
 
 Renumerar os actuais parágrafos (3) a (5) como (4) a (6).
 
-## APÊNDICE A.9
+APÊNDICE A.9
 
 Prescrições relativas às etiquetas de perigo; explicação das figuras e modelos das etiquetas
 
@@ -1481,7 +1500,7 @@ Generalidades
 
 10 011 (2) No quadro, inserir o valor 0 na col. «Quantidades máximas totais por unidade de transporte», na linha correspondente à categoria de transporte 0, na col. «Matérias ou objectos», nas linhas correspondentes às categorias de transporte 1 e 2, classe 1, substituir «1.º-10.º a)» por 1.º-10.º (a)» e 48.º a)» por «48.º (a)».
 
-#### Secção 1 - Maneira de transportar a mercadoria
+Secção 1 - Maneira de transportar a mercadoria
 
 10 111 (1) Suprimir a expressão «e nas condições previstas pelas mesmas disposições».
 
@@ -1491,7 +1510,7 @@ Inserir um novo parágrafo (2) como segue:
 
 Renumerar o actual parágrafo (2) como parágrafo (3).
 
-#### Secção 2 - Condições especiais a serem observadas pelos meios de transporte e respectivo equipamento
+Secção 2 - Condições especiais a serem observadas pelos meios de transporte e respectivo equipamento
 
 10 220 (1) Na última frase, depois das palavras «ou granulares», inserir «e as cisternas para resíduos operadas sob vácuo com reservatório basculante».
 
@@ -1565,7 +1584,7 @@ Acrescentar a nota de fim seguinte:
 
 «(6) Para as cisternas para resíduos operadas sob vácuo, v. nota 2 ao marginal 230 000.»
 
-#### Secção 3 - Disposições gerais de serviço
+Secção 3 - Disposições gerais de serviço
 
 10 300 Acrescentar um novo marginal como segue:
 
@@ -1683,7 +1702,7 @@ Informações complementares.»
 
 10 410 A expressão «a menos que esses volumes munidos das referidas etiquetas estejam equipados com embalagem suplementar ou inteiramente coberta (por exemplo, por uma folha de cartão de cobertura ou por outros meios)» deve ler-se separada da alínea c), sendo transferida para a linha seguinte.
 
-#### Secção 5 - Prescrições especiais relativas à circulação de veículos e contentores
+Secção 5 - Prescrições especiais relativas à circulação de veículos e contentores
 
 10 500 Acrescentar no final da nota que figura no início deste marginal: «Se as disposições do marginal 2007 c) forem aplicáveis, apenas se aplica o parágrafo (1) deste marginal.»
 
@@ -1769,7 +1788,7 @@ Para os veículos EX/II e EX/III em que o veículo de base tenha sido objecto de
 
 11 401 Modificar o quadro como segue:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)
 
 11 402 Acrescentar a seguinte frase:
 
@@ -1863,7 +1882,7 @@ Classe 9 - Matérias e objectos perigosos diversos
 
 III parte - Apêndice do anexo B
 
-## APÊNDICE B.1
+APÊNDICE B.1
 
 Disposições comuns relativas a cisternas
 
@@ -1873,7 +1892,7 @@ Disposições comuns aos apêndices B.1
 
 «e) O apêndice B.1e aplica-se às cisternas para resíduos operadas sob vácuo.»
 
-## APÊNDICE B.1a
+APÊNDICE B.1a
 
 Disposições relativas a cisternas fixas (veículos-cisternas), cisternas desmontáveis e veículos-baterias
 
@@ -1905,15 +1924,15 @@ As juntas de estanquidade devem ser constituídas por um material compatível co
 
 211 251 (5) Quadro:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)
 
 Inserir as rubricas seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)
 
 Modificar as rubricas seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)
 
 Transferir «2451 trifluoreto de azoto comprimido» e os respectivos dados do 1.º TO para o 1.º O.
 
@@ -2007,7 +2026,7 @@ As alíneas c) e d) actuais passam a ser, respectivamente, as alíneas d) e e).
 
 «As cisternas fixas (veículos-cisternas) e cisternas desmontáveis destinadas ao transporte de 2401 piperidina do 54.º a), construídas antes de 1 de Julho de 1999 segundo as prescrições do presente apêndice aplicáveis até 30 de Junho de 1999 para o transporte desta matéria, mas que não estejam em conformidade com as prescrições aplicáveis a partir de 1 de Julho de 1999, podem continuar ainda a ser utilizadas até 31 de Dezembro de 2004.»
 
-## APÊNDICE B.1b
+APÊNDICE B.1b
 
 Disposições relativas a contentores-cisternas
 
@@ -2023,15 +2042,15 @@ Disposições relativas a contentores-cisternas
 
 212 251 (5) Quadro:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)
 
 Inserir as rubricas seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)
 
 Modificar as rubricas seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)
 
 Transferir «2451 trifluoreto de azoto comprimido» e os respectivos dados do 1.º TO para o 1.º O.
 
@@ -2125,7 +2144,7 @@ As alíneas c) e d) actuais passam a ser, respectivamente, as alíneas d) e e).
 
 «Os contentores-cisternas destinados ao transporte de 2401 piperidina do 54.º a), construídos antes de 1 de Julho de 1999 segundo as prescrições do presente apêndice aplicáveis até 30 de Junho de 1999 para o transporte desta matéria, mas que não estejam em conformidade com as prescrições aplicáveis a partir de 1 de Julho de 1999, podem continuar ainda a ser utilizados até 31 de Dezembro de 2003.»
 
-## APÊNDICE B.1d
+APÊNDICE B.1d
 
 Prescrições relativas aos materiais e à construção das cisternas fixas soldadas, das cisternas desmontáveis soldadas e dos reservatórios soldados dos contentores-cisternas, para os quais é prescrita uma pressão de ensaio de pelo menos 1 MPa (10 bar), bem como das cisternas fixas soldadas, das cisternas desmontáveis soldadas e dos reservatórios soldados dos contentores-cisternas, destinados ao transporte de gases liquefeitos fortemente refrigerados da classe 2.
 
@@ -2147,7 +2166,7 @@ Disposições relativas a cisternas para resíduos operadas sob vácuo
 
 Nota. - O presente apêndice aplica-se às cisternas fixas ou desmontáveis.
 
-#### Secção 1 - Generalidades, domínio de aplicação (utilização das cisternas) definições
+Secção 1 - Generalidades, domínio de aplicação (utilização das cisternas) definições
 
 Definição
 
@@ -2175,13 +2194,13 @@ Utilização
 
 215 110 As matérias das classes 3, 4.1, 5.1, 6.1, 6.2, 8 e 9 podem ser transportadas em cisternas para resíduos operadas sob vácuo se as prescrições especiais da II parte do apêndice B.1 a autorizarem esse transporte em cisternas fixas ou desmontáveis.
 
-#### Secção 2 - Construção
+Secção 2 - Construção
 
 215 121 As cisternas devem ser calculadas segundo uma pressão de cálculo de 1,3 vezes a pressão de carga ou de descarga, mas de, pelo menos, 400 kPa (4 bar) (pressão manométrica). Para o transporte de matérias para as quais seja especificada no apêndice B.1 a uma pressão de cálculo mais elevada, deve ser utilizado esse valor mais elevado para o referido cálculo.
 
 215 122 As cisternas devem ser calculadas para resistir a uma pressão interna negativa de 100 kPa (1 bar).
 
-#### Secção 3 - Equipamentos
+Secção 3 - Equipamentos
 
 215 130 Os equipamentos devem estar dispostos de maneira a estarem protegidos contra os riscos de arrancamento ou de avaria durante o percurso e manuseamento. É possível satisfazer esta prescrição colocando os equipamentos numa zona dita 'protegida' (v. marginal 215 102).
 
@@ -2239,17 +2258,19 @@ iv) Estarem colocados numa zona que exclua todos os riscos de dano acidental.
 
 215 138 Os reservatórios das cisternas para resíduos operadas sob vácuo devem estar equipados com uma válvula de segurança precedida de um disco de ruptura.
 
-#### Secção 4 - Aprovação do protótipo
+Secção 4 - Aprovação do protótipo
 
 (Sem prescrições especiais.)
 
-#### Secção 5 - Ensaios
+Secção 5 - Ensaios
 
 215 150 As cisternas para resíduos operadas sob vácuo devem ser submetidas a um controlo interno e externo, pelo menos de três em três anos.
 
-#### Secção 6 - Marcação — (Sem prescrições especiais.)
+Secção 6 - Marcação
 
-#### Secção 7 - Serviço
+(Sem prescrições especiais.)
+
+Secção 7 - Serviço
 
 215 170 (1) O enchimento de líquidos classificados como inflamáveis em cisternas para resíduos operadas sob vácuo deve ser feito por condutas de enchimento operando a um nível inferior ao da cisterna. Devem ser tomadas medidas para reduzir ao máximo a vaporização.
 
@@ -2257,7 +2278,7 @@ iv) Estarem colocados numa zona que exclua todos os riscos de dano acidental.
 
 (3) A utilização de cisternas equipadas com um êmbolo interno como divisória de compartimento, só é autorizada quando as matérias colocadas em cada um dos lados da parede (êmbolo) não possam reagir perigosamente entre si (v. marginal 211 179).»
 
-## APÊNDICE B.2
+APÊNDICE B.2
 
 Disposições uniformes relativas à construção dos veículos destinados ao transporte de mercadorias perigosas, incluindo eventualmente disposições relativas à homologação de modelo
 
@@ -2267,7 +2288,7 @@ Modificar o título como segue:
 
 220 100 (1) Suprimir a expressão «e à homologação de modelo».
 
-#### Secção 3 - Modificar o título como segue:
+Secção 3 - Modificar o título como segue:
 
 «Secção 3 - Designação do veículo».
 
@@ -2295,11 +2316,11 @@ Substituir a nota de fim pela seguinte:
 
 220 303 Suprimir.
 
-#### Secção 4 - Suprimir (manter como secção «reservada»).
+Secção 4 - Suprimir (manter como secção «reservada»).
 
 220 500 Modificar a rubrica 220 536 do quadro como se segue:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)
 
 220 516 Acrescentar um parágrafo (3) como segue:
 
@@ -2345,7 +2366,7 @@ Secções 6, 7 e 8 - Suprimir.
 
 221 000 Suprimir.
 
-## APÊNDICE B.3
+APÊNDICE B.3
 
 Certificado de aprovação de veículos destinados ao transporte de determinadas mercadorias perigosas
 
@@ -2355,7 +2376,7 @@ Certificado de aprovação de veículos destinados ao transporte de determinadas
 
 A nota existente passa a ser a nota 1.
 
-## APÊNDICE B.4
+APÊNDICE B.4
 
 Disposições relativas à formação de condutores de veículos que transportam mercadorias perigosas
 
@@ -2395,7 +2416,7 @@ Disposições relativas à formação de condutores de veículos que transportam
 
 «A emissão e a revalidação do certificado ficam também condicionadas à demonstração das adequadas condições de saúde do condutor, nos termos do Regulamento aprovado pelo Decreto-Lei n.º 209/98, de 15 de Julho. Independentemente da categoria de veículos em que o transporte se realiza, o condutor deve ter sido aprovado na inspecção especial mencionada nos artigos 8.º a 13.º e nos exames psicológicos mencionados nos artigos 17.º a 19.º do referido Regulamento.»
 
-## APÊNDICE B.5
+APÊNDICE B.5
 
 Quadros I e II
 
@@ -2405,7 +2426,7 @@ Quadro III
 
 1. Modificar as rubricas da lista como segue:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)
 
 2 - Suprimir as rubricas seguintes:
 
@@ -2417,4 +2438,4 @@ Acrescentar no final do quadro a seguinte nota:
 
 3 - Acrescentar as novas rubricas seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)](https://files.diariodarepublica.pt/1s/2000/05/107a00/19671998.pdf)

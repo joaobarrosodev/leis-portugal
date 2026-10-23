@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/04/093a00/23822385.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/93/2004/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2004-223426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7390741d388e93a5de1b67d31602149a88dd175d8db8bbffc37c9923fca2fdb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 011ac155c521b0acf0856e1ebafd80b52efcc7394e982385c06eda5f828067ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Pessoal Dirigente
+- Administração Local
+- Câmara Municipal
 - Definição de Competências
 - Delegação de Competências
 - Estatuto
-- Recrutamento de Pessoal
+- Formação Profissional
+- Pessoal Dirigente
 - Qualificação Profissional
-- Administração Local
-- Câmara Municipal
+- Recrutamento de Pessoal
 - Serviços Municipalizados
 - Substituição de Funções
 relationships:
@@ -82,6 +82,19 @@ relationships:
   target: pt:dre:1124912331:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:345539:por
+  label: "Alterados os arts. 7.º, 8.º, 9.º, e 15.º, aditados os arts. 8.º.-A, 9.º-B, 9.º-C e 15.º-A e revogados o art. 6.º,\
+    \ nº 6 e 7 do art. 7.º, o nº 3 do art. 9.º e o art. 16.º do presente diploma, pelo DEC LEI.104/2006.07.06.2006.PCM, DR.IS-A\
+    \ [110] de 07.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-2006-345539
+  date: '2006-06-07'
+- type: amended_by
+  target: pt:dre:483152:por
+  label: "Alterado o art. 2º e revogada a al. d) do nº 1 do art. 2º, a partir de 28.10.2009, pelo DEC LEI.305/2009.23.10.2009.PCM,\
+    \ DR.IS [206] de 23.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/305-2009-483152
+  date: '2009-10-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/198/1991/05/29/p/dre
   label: null
@@ -98,16 +111,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643089:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:174801:por
+  label: "Revogado o presente diploma, na redação do Dec Lei 104/2006, de 07-jun e do Dec Lei 305/2009, de 23-out , pela LEI.49/2012.29.08.2012.AR,\
+    \ DR.IS [167] de 29.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/49-2012-174801
+  date: '2012-08-29'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:24Z'
   warnings: []
   errors: []
 ---
@@ -326,12 +365,12 @@ b) Por funcionários que até à data da entrada em vigor do presente diploma te
 
 Visto e aprovado em Conselho de Ministros de 11 de Março de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 5 de Abril de 2004.**
+Promulgado em 5 de Abril de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Abril de 2004.**
+Referendado em 7 de Abril de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/287a00/87808787.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/534/1999/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/534-1999-632722
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:14:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67d1e9b7cfbb17939d77478a65c9c181f2b68324ee9e56e68a25d326afb14397
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45b5a6e3c990ead725a95013ee57ffcbb30a1f832def4735c6956c1ecc139846
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:14:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ reuse:
 subjects:
 - Análises Clínicas
 - Bioquímica
-- Medicina Privada
 - Comissão de Verificação Técnica
-- Direção Geral da Saúde
-- Ministro da Saúde
 - Comissão Técnica Nacional
-- Higiene do Trabalho
 - Contra-ordenação
 - Controlo de Qualidade
 - Controlo Sanitário
+- Direção Geral da Saúde
 - Fiscalização
 - Hematologia Clínica
+- Higiene do Trabalho
 - Iniciativa Privada
 - Laboratório
 - Licenciamento
 - Material Médico-Cirúrgico
+- Medicina Privada
+- Ministro da Saúde
 - Serviços Complementares de Diagnóstico
 - Vistoria
 relationships:
@@ -90,6 +90,12 @@ relationships:
   target: pt:dre:491395:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:264285:por
+  label: "Alterados os arts. 7.º, 34.º, 40.º e 44.º do Dec Lei 217/99, de 15-Jun, na redacção do presente diploma, pelo DEC\
+    \ LEI.111/2004.12.05.2004.MS, DR.IS-A [111] de 12.05.2004 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2004-264285
+  date: '2004-05-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/1993/01/15/p/dre
   label: null
@@ -106,16 +112,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:309005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:491395:por
+  label: "Revogado, a partir de 11.10.2009, pelo DEC LEI.279/2009.06.10.2009.MS, DR.IS [193] de 06.10.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/279-2009-491395
+  date: '2009-10-06'
 article_structure:
-  article_count: 46
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:14:53Z'
   warnings: []
   errors: []
 ---
@@ -150,19 +177,27 @@ Liberdade de instalação
 
 Deve ser respeitado o princípio da liberdade de instalação dos laboratórios desde que sejam observados os requisitos previstos neste diploma.
 
-###### Artigo 4.º — Regras deontológicas
+Artigo 4.º
+
+Regras deontológicas
 
 (Actual artigo 6.º)
 
-###### Artigo 5.º — Dever de cooperação
+Artigo 5.º
+
+Dever de cooperação
 
 (Actual artigo 4.º)
 
-###### Artigo 6.º — Qualidade e segurança
+Artigo 6.º
+
+Qualidade e segurança
 
 (Actual artigo 3.º)
 
-###### Artigo 7.º — Programas de garantia e manual de boas práticas
+Artigo 7.º
+
+Programas de garantia e manual de boas práticas
 
 1 - O manual de boas práticas que deve integrar os processos de garantia de qualidade laboratorial é aprovado por despacho do Ministro da Saúde, ouvidas a comissão técnica nacional (CTN) e as Ordens dos Médicos e dos Farmacêuticos.
 
@@ -200,7 +235,9 @@ m) Requisitos do relatório anual de actividades.
 
 5 - Do manual de boas práticas de anatomia patológica a que se refere o n.º 2 devem constar todas as alíneas do número anterior, com excepção das alíneas j) e k).
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -230,7 +267,9 @@ g) Propor os prazos de realização das vistorias e atribuição de licenças de
 
 7 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -260,7 +299,9 @@ i) Verificar as condições de manutenção dos equipamentos, bem como dos reage
 
 5 - As normas que regem o exercício das competências e o modo de funcionamento das CVT são fixadas por despacho do Ministro da Saúde, ouvida a CTN.
 
-###### Artigo 11.º — Processo de licenciamento
+Artigo 11.º
+
+Processo de licenciamento
 
 1 - O pedido de licenciamento de um laboratório deve ser efectuado mediante a apresentação de um requerimento dirigido ao Ministro da Saúde, através da ARS da área onde aquele se situa, à qual compete a instrução do processo.
 
@@ -298,7 +339,9 @@ h) Projecto de regulamento interno.
 
 4 - Autorizado o licenciamento do laboratório, deve o mesmo apresentar, no prazo definido no despacho ministerial, a relação detalhada do pessoal e respectivo mapa, acompanhada de certificados de habilitações literárias e profissionais.
 
-###### Artigo 12.º — Licenciamento de postos de colheita
+Artigo 12.º
+
+Licenciamento de postos de colheita
 
 1 - Sempre que os laboratórios de análises clínicas pretendam dispor de outros postos de colheita para além dos constantes na licença de funcionamento, devem organizar um processo com os seguintes documentos:
 
@@ -314,7 +357,9 @@ d) Contrato de arrendamento ou outro documento equivalente que prove a utilizaç
 
 3 - A autorização de abertura de outros postos de colheita depende de despacho do Ministro da Saúde, ouvida a CTN.
 
-###### Artigo 13.º — Processo especial de licenciamento de valências
+Artigo 13.º
+
+Processo especial de licenciamento de valências
 
 1 - O laboratório que pretenda praticar nas instalações licenciadas outras valências para além das constantes na licença de funcionamento deve apresentar requerimento dirigido ao Ministro da Saúde, através da respectiva ARS, acompanhado dos seguintes elementos:
 
@@ -328,13 +373,17 @@ d) Indicação do equipamento.
 
 2 - A implementação de unidades para o desenvolvimento de valências fora das instalações licenciadas rege-se pelo processo geral de licenciamento.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - A atribuição da licença de funcionamento é precedida de vistoria a efectuar pelas CVT previstas no artigo 10.º, devendo ser articulada com as vistorias a que se refere o regime jurídico da urbanização e edificação, na parte relativa aos estabelecimentos comerciais, quando aplicável.
 
 2 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Sempre que o funcionamento de um laboratório decorra em condições de manifesta degradação qualitativa dos cuidados e tratamentos prestados ou quando, pelas entidades competentes, se verifique inobservância das regras técnicas que enformam as profissões, bem como as infracções de carácter deontológico ou ético, deve ser revogada a respectiva licença de funcionamento, por despacho do Ministro da Saúde, ouvida a CTN, sob proposta do director-geral da Saúde.
 
@@ -342,7 +391,9 @@ d) Indicação do equipamento.
 
 3 - Notificado o despacho de revogação da licença de funcionamento, deve o laboratório cessar a sua actividade no prazo fixado, sob pena de se solicitar às autoridades administrativas e policiais competentes o encerramento compulsivo mediante comunicação do despacho correspondente.
 
-###### Artigo 18.º — Suspensão da licença
+Artigo 18.º
+
+Suspensão da licença
 
 1 - Sempre que o laboratório não disponha dos meios humanos e materiais exigíveis segundo as presentes normas, mas seja possível supri-los, deve o director-geral da Saúde proceder à suspensão da licença de funcionamento, observando-se o disposto no n.º 2 do artigo anterior.
 
@@ -360,23 +411,33 @@ d) Não ser imediatamente assegurada a substituição interina do director do la
 
 4 - A suspensão pode ser imediatamente imposta, pelo director-geral da Saúde, quando o funcionamento da mesma constitua grave risco para a saúde pública, que informa seguidamente a CTN.
 
-###### Artigo 19.º — Verificações
+Artigo 19.º
+
+Verificações
 
 1 - As CVT efectuam verificações periódicas em termos a definir por despacho do Ministro da Saúde, ouvida a CTN.
 
 2 - As CVT efectuam verificações aos laboratórios quando recebam reclamações dos utentes, que pela sua natureza o justifiquem.
 
-###### Artigo 20.º — Publicidade da inibição de funcionamento e da revogação
+Artigo 20.º
+
+Publicidade da inibição de funcionamento e da revogação
 
 A medida de revogação da licença de funcionamento e a medida de inibição de funcionamento previstas nos artigos 17.º e 18.º são divulgadas ao público, pela respectiva ARS, através da afixação de edital na porta principal de acesso ao laboratório e dos postos de colheita e outros meios que se venham a revelar necessários à informação da população envolvida.
 
-###### Artigo 21.º — Autorização de reabertura
+Artigo 21.º
+
+Autorização de reabertura
 
 Logo que cessem as razões que motivaram a suspensão da licença de funcionamento, a requerimento do interessado, deve o Ministro da Saúde, ouvida a CTN, determinar o termo da suspensão após vistoria a realizar ao laboratório, pela CVT respectiva, sendo o despacho dado a conhecer ao público através da utilização dos mesmos meios que foram usados para aplicar a suspensão.
 
-### CAPÍTULO II — Organização e funcionamento
+CAPÍTULO II
 
-###### Artigo 22.º — Valências
+Organização e funcionamento
+
+Artigo 22.º
+
+Valências
 
 1 - Para efeitos do disposto no artigo 8.º, os laboratórios podem ser autorizados a desenvolver, isolada ou conjuntamente, designadamente, as seguintes valências:
 
@@ -414,7 +475,9 @@ d) Técnicas adicionais de estudo, como imunocitoquímica, ultrastruturas e pato
 
 6 - Por despacho do Ministro da Saúde e com fundamento em parecer da CTN, os laboratórios podem ser autorizados a desenvolver outras valências, justificadas pela evolução técnica e científica.
 
-###### Artigo 23.º — Direcção do laboratório
+Artigo 23.º
+
+Direcção do laboratório
 
 1 - Os laboratórios são tecnicamente dirigidos por um director com as seguintes qualificações:
 
@@ -450,13 +513,17 @@ g) Garantir a qualificação técnico-profissional adequada para o desempenho da
 
 h) Elaborar o relatório anual a que se refere o artigo 7.º
 
-###### Artigo 24.º — Pessoal
+Artigo 24.º
+
+Pessoal
 
 1 - O laboratório deve dispor, para além do director, do pessoal técnico necessário ao desempenho das funções para que estão licenciados, segundo especificações reguladas por despacho do Ministro da Saúde, ouvida a CTN.
 
 2 - O pessoal não habilitado pode permanecer em exercício de funções, em regime transitório, tal como o previsto no artigo 5.º do [Decreto-Lei n.º 261/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1993-346085), de 24 de Julho.
 
-###### Artigo 25.º — Regulamento interno
+Artigo 25.º
+
+Regulamento interno
 
 Os laboratórios devem dispor de um regulamento interno definido pelo director, do qual deve constar, pelo menos, o seguinte:
 
@@ -476,13 +543,17 @@ g) Laboratórios com os quais tem colaboração;
 
 h) Normas relativas aos utilizadores.
 
-###### Artigo 26.º — Identificação
+Artigo 26.º
+
+Identificação
 
 1 - Os laboratórios devem ser identificados em tabuleta exterior e com indicação do nome e habilitação profissional do director.
 
 2 - Os postos de colheita devem ser identificados em tabuleta exterior com a indicação e localização do laboratório de que dependem e do respectivo director com menção das suas habilitações profissionais.
 
-###### Artigo 27.º — Informação aos utentes
+Artigo 27.º
+
+Informação aos utentes
 
 1 - O horário de funcionamento e a licença de autorização de funcionamento devem ser afixados em local bem visível e acessível aos atentes.
 
@@ -490,7 +561,9 @@ h) Normas relativas aos utilizadores.
 
 3 - Deve ser afixada, em local bem visível, informação sobre a existência de livro de reclamações.
 
-###### Artigo 28.º — Livro de reclamações
+Artigo 28.º
+
+Livro de reclamações
 
 1 - Os laboratórios devem dispor de livro de reclamações de modelo normalizado insusceptível de ser desvirtuado, com termo de abertura datado e assinado pelo conselho de administração da ARS.
 
@@ -498,15 +571,21 @@ h) Normas relativas aos utilizadores.
 
 3 - O modelo de livro de reclamações é aprovado por despacho do Ministro da Saúde.
 
-###### Artigo 29.º — Funcionamento dos postos de colheita
+Artigo 29.º
+
+Funcionamento dos postos de colheita
 
 Os postos de colheita dos laboratórios não podem funcionar sem a presença, no mínimo, de um técnico nas condições referidas no artigo 24.º
 
-###### Artigo 30.º — Colheita de produtos biológicos
+Artigo 30.º
+
+Colheita de produtos biológicos
 
 Os produtos biológicos podem ser colhidos, nomeadamente, em laboratórios devidamente licenciados e respectivos postos de colheita, no domicílio e em outras unidades privadas de saúde por pessoal técnico devidamente habilitado para o efeito, em termos a definir por despacho do Ministro da Saúde, ouvida a CTN.
 
-###### Artigo 31.º — Transporte de produtos biológicos
+Artigo 31.º
+
+Transporte de produtos biológicos
 
 1 - O acondicionamento e o transporte dos produtos biológicos para laboratórios devem ser efectuados em condições de termo-estabilização adequadas, de acordo com as regras estabelecidas no manual de boas práticas.
 
@@ -514,17 +593,23 @@ Os produtos biológicos podem ser colhidos, nomeadamente, em laboratórios devid
 
 3 - Os produtos destinados a exames anátomo-patológicos devem ser transportados em meios de fixação apropriados e devidamente acondicionados em recipientes destinados para o efeito.
 
-###### Artigo 32.º — Restrições à colheita de produtos biológicos
+Artigo 32.º
+
+Restrições à colheita de produtos biológicos
 
 Não é permitida nos postos de colheita a obtenção de produtos biológicos destinados a análises cuja realização deva ser imediata ou cujo resultado possa vir a sofrer alterações com o transporte a efectuar para o laboratório central.
 
-###### Artigo 33.º — Resultados dos exames
+Artigo 33.º
+
+Resultados dos exames
 
 1 - Os resultados dos exames efectuados por cada laboratório devem constar de relatório validado pelo director ou por especialistas inscritos nas Ordens dos Médicos ou dos Farmacêuticos, nos quais aquele delegue funções, nos termos do regulamento interno.
 
 2 - Os resultados dos exames de anatomia patológica devem ser assinados por anátomo-patologistas inscritos na Ordem dos Médicos, devidamente identificados.
 
-###### Artigo 34.º — Colaboração entre laboratórios
+Artigo 34.º
+
+Colaboração entre laboratórios
 
 1 - Os laboratórios nacionais podem, excepcionalmente, estabelecer acordos com laboratórios estrangeiros para a realização de exames que exijam a utilização de técnicas não disponíveis no País nas condições a aprovar por despacho do Ministro da Saúde, ouvida a CTN.
 
@@ -532,17 +617,23 @@ Não é permitida nos postos de colheita a obtenção de produtos biológicos de
 
 3 - Os laboratórios licenciados ao abrigo deste diploma não podem ser utilizados como postos de colheita de laboratórios aos quais, pela sua situação geográfica, não se aplique este decreto-lei.
 
-###### Artigo 35.º — Seguro profissional e de actividade
+Artigo 35.º
+
+Seguro profissional e de actividade
 
 A responsabilidade civil e profissional bem como a responsabilidade pela actividade laboratorial devem ser transferidas, total ou parcialmente, para empresas de seguros.
 
-###### Artigo 36.º — Alterações relevantes de funcionamento
+Artigo 36.º
+
+Alterações relevantes de funcionamento
 
 1 - Estão sujeitas a comunicação prévia à Direcção-Geral da Saúde as alterações relevantes no funcionamento dos laboratórios e dos postos de colheita, designadamente a transferência de titularidade, a cessão de exploração, a mudança da direcção, dos especialistas ou de estruturas físicas, remodelação, transformação e ampliação.
 
 2 - Nas situações previstas no número anterior, a Direcção-Geral da Saúde tomará as medidas adequadas à garantia do cumprimento do presente decreto-lei, ouvida a CTN.
 
-###### Artigo 37.º — Conservação e arquivo
+Artigo 37.º
+
+Conservação e arquivo
 
 1 - Os laboratórios devem conservar, por qualquer processo, pelo menos durante cinco anos, sem prejuízo de outros prazos que venham a ser estabelecidos por despacho do Ministro da Saúde, ouvida a CTN, de acordo com as situações específicas relacionadas com a tipologia de informação adequada a diferentes situações clínicas, os seguintes documentos:
 
@@ -568,13 +659,19 @@ c) Blocos de parafina.
 
 3 - Os contratos e demais documentação relativos à aquisição dos equipamentos devem ser conservados durante todo o tempo em que os mesmos se encontrarem em funcionamento.
 
-### CAPÍTULO IV — Instalações e equipamento
+CAPÍTULO IV
 
-###### Artigo 38.º — Meio físico
+Instalações e equipamento
+
+Artigo 38.º
+
+Meio físico
 
 Os laboratórios devem situar-se em meios físicos salubres e de fácil acessibilidade e disporem de infra-estruturas viárias, de abastecimento de água, de sistema de recolha de águas residuais e de resíduos, de energia eléctrica e de telecomunicações, de acordo com a legislação em vigor.
 
-###### Artigo 39.º — Instalações
+Artigo 39.º
+
+Instalações
 
 1 - O exercício da actividade laboratorial deve ser realizado em áreas exclusivamente destinadas a esse fim.
 
@@ -584,13 +681,17 @@ Os laboratórios devem situar-se em meios físicos salubres e de fácil acessibi
 
 4 - Para os efeitos do disposto no presente artigo, as instalações dos laboratórios, independentemente das valências que prossigam, devem dispor das instalações estabelecidas por despacho do Ministro da Saúde, ouvida a CTN e mediante proposta do laboratório.
 
-###### Artigo 40.º — Postos de colheita
+Artigo 40.º
+
+Postos de colheita
 
 1 - À regulação das áreas dos postos de colheita aplica-se o disposto no n.º 4 do artigo anterior.
 
 2 - A distância entre o posto de colheitas e o laboratório central não pode ser superior a 60 km.
 
-###### Artigo 41.º — Normas genéricas de construção
+Artigo 41.º
+
+Normas genéricas de construção
 
 1 - As paredes, tectos, divisórias, portas e o revestimento do pavimento das áreas destinadas a exames devem permitir a manutenção de um grau de assepsia e isolamento compatíveis com a valência a que se destinam.
 
@@ -598,7 +699,9 @@ Os laboratórios devem situar-se em meios físicos salubres e de fácil acessibi
 
 3 - Os laboratórios que utilizem radioisótopos na realização de análises devem obedecer às normas em vigor no âmbito da protecção contra radiações ionizantes.
 
-###### Artigo 42.º — Instalações técnicas e equipamentos especiais
+Artigo 42.º
+
+Instalações técnicas e equipamentos especiais
 
 1 - Os laboratórios devem ser dotados de instalações técnicas e de equipamentos especiais adequados e com capacidade para assegurar a qualidade técnica dos exames efectuados, de acordo com as normas e legislação em vigor sobre qualidade, segurança e higiene.
 
@@ -628,13 +731,19 @@ h) Os laboratórios onde se manuseiem produtos tóxicos, irritantes ou corrosivo
 
 6 - As normas estruturais, funcionais e de qualidade da água são as estabelecidas na lei geral.
 
-###### Artigo 43.º — Equipamento geral
+Artigo 43.º
+
+Equipamento geral
 
 Os equipamentos mínimos que devem existir nos laboratórios são estabelecidos por despacho do Ministro da Saúde, ouvida a CTN.
 
-### CAPÍTULO V — Das contra-ordenações e sanções acessórias
+CAPÍTULO V
 
-###### Artigo 44.º — Contra-ordenações
+Das contra-ordenações e sanções acessórias
+
+Artigo 44.º
+
+Contra-ordenações
 
 1 - Constituem contra-ordenações puníveis com coima graduada de 250000$00 a 750000$00, no caso de pessoa singular, e de 500000$00 até ao máximo de 6000000$00, no caso de pessoa colectiva:
 
@@ -652,19 +761,27 @@ f) A violação do disposto no n.º 3 do artigo 34.º
 
 2 - A negligência é punível.
 
-###### Artigo 45.º — Instrução, aplicação e destino das coimas
+Artigo 45.º
+
+Instrução, aplicação e destino das coimas
 
 1 - A instrução dos processos de contra-ordenação compete às ARS e a aplicação das coimas ao respectivo conselho de administração.
 
 2 - O produto das coimas reverte em 60% para o Estado, em 20% para a Direcção-Geral da Saúde e em 20% para a ARS que instruiu o processo.
 
-###### Artigo 46.º — Sanção acessória
+Artigo 46.º
+
+Sanção acessória
 
 Em caso de revogação da licença de funcionamento, o titular do laboratório, seja pessoa singular ou colectiva, fica inibido de requerer nova licença pelo período de dois anos.
 
-### CAPÍTULO VI — Disposições transitórias e finais
+CAPÍTULO VI
 
-###### Artigo 47.º — Disposição transitória
+Disposições transitórias e finais
+
+Artigo 47.º
+
+Disposição transitória
 
 1 - Os laboratórios de análises clínicas e de anatomia patológica que se encontrem em funcionamento à data da entrada em vigor do presente diploma devem, no prazo de 180 dias, sob pena do seu encerramento, requerer a respectiva licença de funcionamento, organizando os correspondentes processos, de acordo com as regras constantes deste diploma.
 
@@ -672,15 +789,21 @@ Em caso de revogação da licença de funcionamento, o titular do laboratório, 
 
 3 - A obrigatoriedade da observância do contido nas alíneas a), b) e c) do n.º 1 do artigo 37.º reporta-se à data da entrada em vigor do presente diploma legal.
 
-###### Artigo 48.º — Revogação
+Artigo 48.º
+
+Revogação
 
 (Actual artigo 47.º)
 
-###### Artigo 49.º — Legislação supletiva
+Artigo 49.º
+
+Legislação supletiva
 
 (Actual artigo 48.º)
 
-###### Artigo 50.º — Entrada em vigor
+Artigo 50.º
+
+Entrada em vigor
 
 (Actual artigo 49.º)»
 
@@ -690,12 +813,12 @@ O prazo mencionado no n.º 1 do artigo 47.º começa a contar a partir da data d
 
 Visto e aprovado em Conselho de Ministros de 1 de Outubro de 1999. - António Manuel de Oliveira Guterres - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 19 de Novembro de 1999.**
+Promulgado em 19 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Novembro de 1999.**
+Referendado em 25 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

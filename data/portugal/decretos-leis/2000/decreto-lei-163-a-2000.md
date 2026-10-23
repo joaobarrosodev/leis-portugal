@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 172/2000, 1º Suplemento, Série I-A de 2000-07-27
   number: '172'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3658-(2) a 3658-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/172a01/00020004.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/163-a/2000/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-a-2000-220892
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:17:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2170d19003a9f0bd6dea4f15f205a4dac81f37eba2a796246023c3c1c091ec97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae467a67f49c96b420c3e644bc9f09a5d3bfb8435762bcad8068b82e8aa069ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,12 @@ subjects:
 - Ajuda Comunitária
 - Financiamento
 - Gestão Financeira
+- Ifadap
 - Isenção de Taxas e Emolumentos
+- Medida Agris
+- Programa AGRO
 - QCA III
 - Reembolso
-- Programa AGRO
-- Medida Agris
-- Ifadap
 relationships:
 - type: amended_by
   target: pt:dre:257010:por
@@ -84,16 +84,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/54-a/2000/04/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/54-a/2000/04/07/p/dre
+- type: cites
+  target: pt:dre:249799:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:235766:por
+  label: "Rectificado pela DECL-RECT.11-F/2000.2000.09.29.PCM DR.IS [227]Supl. de 30/Set/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-f-2000-235766
+  date: '2000-09-29'
+- type: repealed_by
+  target: pt:dre:257010:por
+  label: "Revogados os nºs 1 e 3 do art. 12º e art. 14º, pelo DEC LEI.16/2013.28.01.2013.MAMAOT, DR.IS [19] de 28.01.2013,\
+    \ na parte em que contrariem o que ele dispõe.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2013-257010
+  date: '2013-01-28'
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:17:50Z'
   warnings: []
   errors: []
 ---
@@ -296,12 +311,12 @@ h) Os circuitos processuais de acesso às ajudas.
 
 Visto e aprovado em Conselho de Ministros de 21 de Junho de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos.
 
-**Promulgado em 19 de Julho de 2000.**
+Promulgado em 19 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Julho de 2000.**
+Referendado em 27 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/07900/09450945.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/185-1985-325075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T08:20:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1600de2b181f8633748c55ed66b85527c753984d211c8d3907e96fcc6cc1d4a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eddadf71c995cb8d5b25b5385d88518776826f3ad4863a8cbc488fe4bebf71a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:20:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Controlo de Qualidade
+- Qualidade do Produto
+- Vinagre
 relationships:
 - type: amended_by
   target: pt:dre:282693:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:326325:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:282693:por
+  label: "Revogada pela PORT.55/88.27.01.1988.MAPA, DR.IS [22] de 27.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/55-1988-282693
+  date: '1988-01-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:20:26Z'
   warnings: []
   errors: []
 ---
@@ -139,6 +151,6 @@ l) Dióxido de enxofre total - máximo 70 mg/l.
 
 Secretaria de Estado do Comércio e Indústria Agrícolas.
 
-**Assinada em 14 de Março de 1985.**
+Assinada em 14 de Março de 1985.
 
-**O Secretário de Estado do Comércio e Indústria Agrícolas, Carlos Alberto Antunes Filipe.**
+O Secretário de Estado do Comércio e Indústria Agrícolas, Carlos Alberto Antunes Filipe.

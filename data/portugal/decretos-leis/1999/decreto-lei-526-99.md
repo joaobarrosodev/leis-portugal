@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/526/1999/12/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/526-1999-632398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:14:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5105a2aa18669fabec91ee3a35d5bee38cd29fdfffad728b4efd5e4c3161ebc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d35613fdf4f559008151ca680c50b6de8b5025e5563aa9aed95127e5f93ecedc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:14:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
-- Higiene do Trabalho
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Direção Geral de Veterinária
+- Controlo Sanitário
 - Criação de Serviços
 - Definição de Competências
-- Controlo Sanitário
-- Saúde Pública
+- Direção Geral de Veterinária
 - Extinção de Serviços
+- Higiene do Trabalho
 - Instituto de Estruturas Agrárias e Desenvolvimento Rural
 - Integração de Trabalhadores
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orgânica
+- Produção Animal
 - Quadro de Pessoal
+- Saúde Pública
 - Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:667535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:425486:por
+  label: "Alterados os arts. 1º, 4º, 5º, 6º, 7º, 8º, 10º, 11º, 13º, 15º, 16º, 17º, 18º, 19º, 20º, 21º e 22º do Dec Lei 74/96\
+    \ de 18-Jun, na redacção do presente diploma e do Dec lei 128/97 de 24-Mai, pelo DEC LEI.246/2002.2002.11.08.MADRP,DR.IS-A\
+    \ [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-2002-425486
+  date: '2002-11-08'
+- type: amended_by
+  target: pt:dre:218544:por
+  label: "Alterada a redacção dada ao art. 8.º (na redacção do Dec Lei 128/97, de 24-Mai) do Dec Lei 74/96, de 18-Jun, pelo\
+    \ DEC LEI.80/2004.10.04.2004.MADRP, DR.IS-A [85] de 10.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2004-218544
+  date: '2004-04-10'
+- type: amended_by
+  target: pt:dre:667535:por
+  label: "Alterada a al. c) e revogada a al. m), ambas do art. 8º do Dec Lei 74/96 de 18-Jun, com as alterações constantes\
+    \ do presente diploma, pelo DEC LEI.68/2006.23.03.2006.MADRP, DR.IS-A [59] de 23.03.2006 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-2006-667535
+  date: '2006-03-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/1997/05/02/p/dre
   label: null
@@ -108,16 +127,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:142112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485381:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:249988:por
+  label: "Rectificado pela DECL-RECT.23-E/99.1999.12.31.PCM DR.IS-A [303]2º Supl de 31/Dez/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/23-e-1999-249988
+  date: '1999-12-31'
 article_structure:
-  article_count: 15
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:14:38Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +240,9 @@ c) ...
 
 d) ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -246,7 +296,9 @@ c) ...
 
 7 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 ...
 
@@ -272,7 +324,9 @@ d) ...
 
 e) Direcção de Serviços de Produção e Melhoramento Animal.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - À Divisão de Formação e Gestão de Recursos Humanos compete:
 
@@ -302,7 +356,9 @@ l) ...
 
 2 - A Divisão de Formação e Gestão de Recursos Humanos dispõe de uma Secção de Pessoal e Processamentos, a quem compete a distribuição e verificação da execução do trabalho respeitante à administração do pessoal e ao processamento de vencimentos e outros abonos.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -326,7 +382,9 @@ h) ...
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 ...
 
@@ -344,7 +402,9 @@ f) Exercer a avaliação das actividades desenvolvidas pelos serviços;
 
 g) Administrar a aplicação integrada dos recursos financeiros, na perspectiva do cumprimento do plano de actividades e dos objectivos dos planos de âmbito nacional ou comunitário, tendo em conta a sua eficácia técnico-económica.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 ...
 
@@ -358,7 +418,9 @@ d) ...
 
 e) ...
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -378,7 +440,9 @@ c) ...
 
 6 - Finalmente transita para o quadro de pessoal da DGV o pessoal que exerce funções na Direcção de Serviços de Produção e Melhoramento Pecuário do quadro de pessoal do extinto Instituto de Estruturas Agrárias e Desenvolvimento Rural, agora designada Direcção de Serviços de Produção e Melhoramento Animal, bem como aquele que, exercendo a sua actividade na mesma Direcção de Serviços, tenha sido ou venha a ser integrado no quadro de pessoal do INIA, por virtude do processo de regularização que se encontra a correr ao abrigo dos Decretos-Leis n.os [81-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-a-1996-485381), de 21 de Junho, e [195/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1997-142112), de 31 de Julho, a designar, em qualquer dos casos, por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -414,7 +478,9 @@ a) Divisão de Melhoramento Animal e de Apoio à Produção;
 
 b) Divisão de Selecção e Reprodução Animal.
 
-###### Artigo 34.º-B — Divisão de Melhoramento Animal e de Apoio à Produção
+Artigo 34.º-B
+
+Divisão de Melhoramento Animal e de Apoio à Produção
 
 À Divisão de Melhoramento Animal e de Apoio à Produção compete:
 
@@ -440,7 +506,9 @@ j) Estabelecer a classificação dos concursos pecuários e leilões de reprodut
 
 k) Emitir parecer zootécnico sobre pedidos de importação e exportação de animais, sémen e embriões de ou para países terceiros.
 
-###### Artigo 34.º-C — Divisão de Selecção e Reprodução Animal
+Artigo 34.º-C
+
+Divisão de Selecção e Reprodução Animal
 
 À Divisão de Selecção e Reprodução Animal compete:
 
@@ -470,15 +538,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Outubro de 1999. - António Manuel de Oliveira Guterres - Fernando Teixeira dos Santos - Jorge Paulo Sacadura Almeida Coelho - Luís Manuel Capoulas Santos - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 23 de Novembro de 1999.**
+Promulgado em 23 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Novembro de 1999.**
+Referendado em 25 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA A QUE SE REFERE O N.º 2 DO ARTIGO 41.º DO DECRETO-LEI N.º 106/97, DE 2 DE MAIO
 

@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/32-1988-374783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T07:39:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73e2d8340a57a688b1b06fac9768f447ec74d79054bf344649a7bf3655095b3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbcb0e1cac4e5066548768a46d6598a03f92c3ef9a08bdf86aa04f6106f12f2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:39:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carne
+- Carne de Suíno
+- Contingentação
+- Importação
+relationships:
+- type: cites
+  target: pt:dre:214005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214552:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546423:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:39:50Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +113,7 @@ No âmbito da organização nacional do mercado da carne de suíno e relativamen
 
 2 - A distribuição do contingente fixado no número anterior pelas diferentes posições pautais, pelas diversas origens e consoante os produtos se destinam ao continente ou às regiões autónomas é feita nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/11500/20842085.pdf))](https://files.diariodarepublica.pt/1s/1988/05/11500/20842085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/11500/20842085.pdf)
 
 3 - A inscrição para a distribuição pelos agentes importadores dos contingentes definidos nos termos do número anterior encontra-se aberta a partir da publicação deste despacho normativo e os pedidos de inscrição, preenchidos nos termos do n.º 7.º da [Portaria n.º 63-J/86](https://diariodarepublica.pt/dr/detalhe/portaria/63-j-1986-245106), com a redacção que lhe foi dada pela [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), deverão ser dirigidos em carta registada com aviso de recepção ou entregues, contra recibo, no piso 0, Divisão de Licenciamento, Avenida da República, 79, rés-do-chão, Lisboa, impreterivelmente até às 17 horas e 30 minutos do 10.º dia útil a contar do dia da publicação deste despacho normativo.
 

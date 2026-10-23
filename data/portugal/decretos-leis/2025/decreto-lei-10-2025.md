@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/03500/0001100014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/10/2025/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2025-907934880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f55c2aa382620dd1c2178f37f150ee10ae02154978a4f68e9f195d48a462702
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a67eefe67837aa28e6e9201678726d6cfb91baf1149f1b2ea2e0985acf40ad1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Regulamentação de Atos Legislativos
 - Contratação de Pessoal
+- Formação Profissional
 - Programa de Sapadores Florestais
 - Regime de Apoio
 - Regime Jurídico
+- Regulamentação de Atos Legislativos
 - Sapador Florestal
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:8/2017
+  label: Altera, com efeitos a 1 de janeiro de 2025, os artigos 5.º, 16.º, 17.º, 19.º (os n.ºs 5, 6, 7 e 9 com efeitos desde
+    1 de janeiro de 2024 e o n.º 8 com efeitos desde 1 de janeiro de 2026), 21.º e 22.º e revoga o n.º 4 do artigo 5.º do
+    Decreto-Lei n.º 8/2017, de 9 de janeiro, Diário da República n.º 6/2017, Série I
+  source: null
+  date: '2017-01-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/44/2020/07/22/p/dre
   label: null
@@ -91,16 +98,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+- type: cites
+  target: pt:dre:105727475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138571583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215874580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:39Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +148,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 33/96](https:
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 8/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2017-105727475), de 9 de janeiro, alterado pelos Decretos-Leis n.<sup>os</sup>[44/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), de 22 de julho, e [58/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2023-215874580), de 19 de julho, que estabelece o regime jurídico aplicável aos sapadores florestais e às equipas de sapadores florestais no território continental português, definindo os apoios públicos de que podem beneficiar.
+O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 8/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2017-105727475), de 9 de janeiro, alterado pelos Decretos-Leis n.os[44/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), de 22 de julho, e [58/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2023-215874580), de 19 de julho, que estabelece o regime jurídico aplicável aos sapadores florestais e às equipas de sapadores florestais no território continental português, definindo os apoios públicos de que podem beneficiar.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 8/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2017-105727475), de 9 de janeiro
 
@@ -145,7 +168,9 @@ Os artigos 5.º, 16.º, 17.º, 19.º, 21.º e 22.º do [Decreto-Lei n.º 8/2017]
 
 5 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -171,7 +196,9 @@ Os artigos 5.º, 16.º, 17.º, 19.º, 21.º e 22.º do [Decreto-Lei n.º 8/2017]
 
 12 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Durante os períodos de maior suscetibilidade à ocorrência de incêndios rurais, as equipas de sapadores florestais, ainda que constituídas sob a forma de brigada, estão sujeitas a uma área de atuação estabelecida no programa sub-regional de gestão integrada de fogos rurais ou no plano municipal de defesa da floresta contra incêndios.
 
@@ -185,7 +212,9 @@ Os artigos 5.º, 16.º, 17.º, 19.º, 21.º e 22.º do [Decreto-Lei n.º 8/2017]
 
 6 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -205,13 +234,15 @@ Os artigos 5.º, 16.º, 17.º, 19.º, 21.º e 22.º do [Decreto-Lei n.º 8/2017]
 
 9 - A forma de atribuição do apoio anual ao funcionamento das equipas de sapadores florestais é definida por despacho do membro do Governo responsável pela área das florestas e, quando essa atribuição for assegurada pelo Fundo Ambiental, também do membro do Governo responsável pela área do ambiente.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
 2 - [...]
 
-3 - O incumprimento pela entidade titular relativo ao número dos elementos da equipa nos termos definidos nos n.<sup>os</sup>2 e 3 do artigo 5.º constitui causa imediata de perda de apoios na devida proporção, a partir de 120 dias úteis a contar da data de cessação do contrato de trabalho do anterior sapador, sem que se verifique a apresentação de contrato com o novo sapador.
+3 - O incumprimento pela entidade titular relativo ao número dos elementos da equipa nos termos definidos nos n.os2 e 3 do artigo 5.º constitui causa imediata de perda de apoios na devida proporção, a partir de 120 dias úteis a contar da data de cessação do contrato de trabalho do anterior sapador, sem que se verifique a apresentação de contrato com o novo sapador.
 
 4 - [...]
 
@@ -219,7 +250,9 @@ Os artigos 5.º, 16.º, 17.º, 19.º, 21.º e 22.º do [Decreto-Lei n.º 8/2017]
 
 6 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -253,18 +286,20 @@ i) [...]
 
 1 - O presente decreto-lei produz efeitos no dia 1 de janeiro de 2025, sem prejuízo do disposto no número seguinte.
 
-2 - O disposto nos n.<sup>os</sup>5, 6, 7 e 9 do artigo 19.º do [Decreto-Lei n.º 8/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2017-105727475), de 9 de janeiro, na redação introduzida pelo presente decreto-lei, produz efeitos desde 1 de janeiro de 2024.
+2 - O disposto nos n.os5, 6, 7 e 9 do artigo 19.º do [Decreto-Lei n.º 8/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2017-105727475), de 9 de janeiro, na redação introduzida pelo presente decreto-lei, produz efeitos desde 1 de janeiro de 2024.
 
 3 - O disposto no n.º 8 do artigo 19.º do [Decreto-Lei n.º 8/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2017-105727475), de 9 de janeiro, na redação introduzida pelo presente decreto-lei, produz efeitos desde 1 de janeiro de 2026.
 
 Visto e aprovado em Conselho de Ministros de 9 de janeiro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Maria da Graça Carvalho - José Manuel Fernandes.
 
-**Promulgado em 7 de fevereiro de 2025.**
+Promulgado em 7 de fevereiro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de fevereiro de 2025.**
+Referendado em 11 de fevereiro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118705885

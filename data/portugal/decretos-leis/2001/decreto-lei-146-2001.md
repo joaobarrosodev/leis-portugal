@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/101a00/24522454.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/146/2001/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2001-315503
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:24:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96f1aa369e54ee0611c30d561e2d2ad780010b6a388c940632e196c49adf1a7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7168a2076a8f7f076f75bb6e4858073f39ebb803a501bf8aae0f3348ad117134
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:24:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Conselheiro Regional
 - Conselheiro Técnico
 - Criação de Lugares
-- Conselheiro Regional
+- Ministério dos Negócios Estrangeiros
 - Quadro de Pessoal
 - Representação Permanente de Portugal Junto das Comunidades Europeias
-- Ministério dos Negócios Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:306877:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:582016:por
+  label: "Altera o quadro de pessoal especializado do Ministério dos Negócios Estrangeiros, anexo ao Decreto-Lei n.º 133/85,\
+    \ de 2 de Maio DR.IS [100] com a redacção que lhe foi dada pelo n.º 2 do artigo 2.º do presente diploma, pelo DEC LEI.29/2004.06.02.2004.MNE,\
+    \ DR.IS-A [31] de 06.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-2004-582016
+  date: '2004-02-06'
+- type: amended_by
+  target: pt:dre:262360:por
+  label: "Alterado o quadro de pessoal especializado constante do mapa anexo ao Dec Lei 133/85 de 02-Mai, com as alterações\
+    \ que lhe foram introduzidas pelo presente diploma, pela PORT.76/2007.12.01.2007.PCM, DR.IS [9] de 12.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/76-2007-262360
+  date: '2007-01-12'
+- type: amended_by
+  target: pt:dre:248217:por
+  label: "Alterado o quadro de pessoal especializado constante do mapa anexo ao Dec Lei 133/85, de 02-Maio, com as alterações\
+    \ que lhe foram introduzidas pelo presente diploma, e pelo Dec Lei 29/2004 de 06-Fev e pelas Port. 901/2006 de 09-Set\
+    \ e 76/2007, de 12-Jan, pela PORT.97/2008.31.01.2008.PCM, DR.IS [22] de 31.01.2008\0008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/97-2008-248217
+  date: '2008-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/30/1999/01/29/p/dre
   label: null
@@ -86,16 +106,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/6/1997/01/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/6/1997/01/09/p/dre
+- type: cites
+  target: pt:dre:152327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662323:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:306877:por
+  label: "Revogado, a partir de 02.12.2010, pelo DEC LEI.127/2010.30.11.2010.MNE, DR.IS [232] de 30.11.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-2010-306877
+  date: '2010-11-30'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:24:43Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +181,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 São criadas as categorias de conselheiro para os assuntos de agricultura, pescas e alimentação da Embaixada de Portugal em Roma, de conselheiro e adido para a cooperação, de adido social, de adido para os assuntos do ensino de português no estrangeiro e de conselheiro regional da Representação Permanente de Portugal junto da União Europeia.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - ...
 
@@ -194,15 +243,15 @@ O disposto no n.º 1 do artigo 2.º do presente diploma produz efeitos reportado
 
 Visto e aprovado em Conselho de Ministros de 15 de Março de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura - Alberto de Sousa Martins.
 
-**Promulgado em 20 de Abril de 2001.**
+Promulgado em 20 de Abril de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Abril de 2001.**
+Referendado em 23 de Abril de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Mapa I, a que se refere o artigo 2.º
 

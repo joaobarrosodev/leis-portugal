@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/198/2000/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2000-330216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:18:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a10f0dc6dde1a37170b40779732b9f44a66864e7d7fd171de55509c39db623f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7bc3c577ceb1623eb129101a5759694640d3bd1ac08e21e62638f3e78da7af1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:18:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distribuição de Energia Elétrica
 - Capital Social
+- Distribuição de Energia Elétrica
 - EDP
 - Rede Elétrica Nacional
 - Rede Nacional de Transporte de Energia Elétrica
@@ -79,6 +79,12 @@ relationships:
   target: pt:dre:122476954:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:303141:por
+  label: "Alterados os arts. 1º, 3º, 49º e 51º bem como o anexo do Dec Lei 182/95 de 27-Jul, com a redacção do presente diploma,\
+    \ pelo DEC LEI.85/2002.2002.04.06.MECO DR.IS-A [81]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-2002-303141
+  date: '2002-04-06'
 - type: cites
   target: celex:31996L0092
   label: null
@@ -99,16 +105,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/56/1997/03/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/56/1997/03/14/p/dre
+- type: repealed_by
+  target: pt:dre:517467:por
+  label: "Revogados os n.ºs 4 e 5 do art. 13.º e o n.º 5 do art. 15.º do Dec Lei 183/95, de 27-Jul, na redacção do presente\
+    \ diploma, pelo DEC LEI.153/2004.30.06.2004.MECO, DR.IS-A [152] de 30.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/153-2004-517467
+  date: '2004-06-30'
+- type: repealed_by
+  target: pt:dre:683861:por
+  label: "Revogado o Dec Lei 182/95 de 27-Jul, na redacção do presente diploma, pelo DEC LEI.29/2006.15.02.2006.MEI, DR.IS-A\
+    \ [33] de 15.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-2006-683861
+  date: '2006-02-15'
 article_structure:
-  article_count: 11
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:18:35Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +181,7 @@ Os artigos 19.º, 25.º e 28.º do Decreto-Lei n.º 182/95, de 27 de Julho, na r
 
 5 - O Estado tem direito de preferência na aquisição de acções representativas do remanescente do capital social da entidade concessionária da RNT.
 
-###### Artigo 25.º
+Artigo 25.º
 
 ...
 
@@ -173,7 +191,9 @@ b) ...
 
 2 - (Revogado.)
 
-###### Artigo 28.º — Integração de distribuidoras vinculadas no SEP
+Artigo 28.º
+
+Integração de distribuidoras vinculadas no SEP
 
 1 - ...
 
@@ -209,7 +229,9 @@ Os artigos 13.º e 15.º do Decreto-Lei n.º 183/95, de 27 de Julho, na redacç�
 
 5 - O direito de reserva previsto no n.º 1 do presente artigo só poderá ser exercido pela entidade concessionária da RNT se a utilização da capacidade instalada de produção da referida central for considerada necessária para o SEP no plano de expansão que estiver em vigor, ao tempo da caducidade do contrato de vinculação.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -247,12 +269,12 @@ Todas as referências constantes da legislação sobre o sector eléctrico e, em
 
 Visto e aprovado em Conselho de Ministros de 15 de Junho de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 3 de Agosto de 2000.**
+Promulgado em 3 de Agosto de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Agosto de 2000.**
+Referendado em 9 de Agosto de 2000.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.

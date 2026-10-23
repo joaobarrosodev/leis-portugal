@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/02/04300/0090600906.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/42/2012/02/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/42-2012-542454
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T05:14:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04202bc011678d10ccb15c2151b8345a300185d2480952a6ef9a2acae855df02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68fe1fff0b8e5e2318538690fef3a4b6c3523f390361f73870544e177aefe582
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:14:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,22 @@ relationships:
   target: pt:dre:107976088:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:107976088:por
+  label: Exonerado, pelo(a) Decreto do Presidente da República n.º 71/2017 - Diário da República n.º 152/2017, Série I de
+    2017-08-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/71-2017-107976088
+  date: '2017-08-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:14:14Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +98,16 @@ validation:
 
 de 29 de fevereiro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o ministro plenipotenciário de 1.ª classe Miguel Maria Simões Coelho de Almeida e Sousa para o cargo de Embaixador de Portugal em Telavive.
 
-**Assinado em 20 de fevereiro de 2012.**
+Assinado em 20 de fevereiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de fevereiro de 2012.**
+Referendado em 23 de fevereiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo de Sacadura Cabral Portas.**
+O Primeiro-Ministro, Pedro Passos Coelho. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo de Sacadura Cabral Portas.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/108/2005/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2005-233086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f4a803caca52a181fe7588c3906c00903381f9ec004ce2f2a245da014067265
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51e918aae28394372559d5671ca9757cc2aaa087e63879ccb327d2626ea47ad3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
+- Alimento para Animais
 - Aproximação das Legislações
-- Doença Animal
-- Leite
+- Comércio
 - Contra-ordenação
-- Direção Geral de Veterinária
 - Controlo Sanitário
-- Saúde Pública
+- Direção Geral de Veterinária
+- Doença Animal
+- Epidemia
 - Febre Aftosa
 - Fiscalização
 - Lacticínios
+- Leite
 - Medidas Preventivas
-- Epidemia
-- Zona de Proteção
-- Profissão Independente
-- Alimento para Animais
-- Comércio
+- Produção Animal
 - Produto Animal
+- Profissão Independente
+- Saúde Animal
+- Saúde Pública
 - Transporte de Animais
 - Vacinação
-- Saúde Animal
+- Zona de Proteção
 relationships:
 - type: cites
   target: celex:31985L0511
@@ -129,15 +129,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2003/85/oj
 article_structure:
-  article_count: 83
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 84
+  section_count: 25
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:42Z'
   warnings: []
   errors: []
 ---
@@ -248,7 +248,9 @@ bb) «Veterinário oficial» o veterinário designado pela autoridade competente
 
 ### CAPÍTULO II — Luta contra os focos de febre aftosa
 
-#### SECÇÃO I — Artigo 4.º
+#### SECÇÃO I
+
+###### Artigo 4.º
 
 Notificação da febre aftosa
 
@@ -1514,7 +1516,9 @@ O n.º 4 do capítulo I do anexo A do regulamento aprovado pela Portaria n.º 53
 
 [...]
 
-### CAPÍTULO I — [...]
+CAPÍTULO I
+
+[...]
 
 1 - ...
 
@@ -1538,15 +1542,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 2005. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Luís Manuel Moreira de Campos e Cunha - Alberto Bernardes Costa - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 15 de Junho de 2005.**
+Promulgado em 15 de Junho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Junho de 2005.**
+Referendado em 20 de Junho de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Definição de foco
 
@@ -1576,7 +1580,7 @@ d) Tenham sido observados num animal de uma espécie sensível sinais clínicos 
 
 No âmbito do presente anexo, entende-se por «teste» um procedimento de diagnóstico laboratorial e por «norma» um reagente de referência aceite internacionalmente como padrão na sequência de um teste comparativo executado em vários laboratórios diferentes.
 
-# Parte A
+Parte A
 
 Testes de diagnóstico
 
@@ -1614,7 +1618,7 @@ Antes do envio das amostras, deve enviar-se um aviso prévio de remessa e obter 
 
 Deve ser assegurada a observância da regulamentação relativa às importações e às exportações dos Estados membros em causa.
 
-# Parte B
+Parte B
 
 Normas
 
@@ -1790,7 +1794,7 @@ Os laboratórios nacionais que pretendam manter meios de diagnóstico destes ví
 
 ## ANEXO VI — Tratamento do leite para assegurar a destruição do vírus da febre aftosa
 
-# Parte A
+Parte A
 
 Leite e produtos lácteos destinados ao consumo humano
 
@@ -1816,7 +1820,7 @@ Os tratamentos que se seguem são reconhecidos como dando garantias suficientes 
 
 3 - Qualquer outro tratamento deverá ser decidido de acordo com o procedimento comunitariamente previsto, em especial em relação aos produtos à base de leite cru submetidos a um período prolongado de maturação, incluindo uma redução do pH para menos de 6.
 
-# Parte B
+Parte B
 
 Leite e produtos lácteos não destinados ao consumo humano e leite e produtos lácteos destinados ao consumo animal
 
@@ -1892,7 +1896,7 @@ Os tratamentos que se seguem são reconhecidos como dando garantias suficientes 
 
 ## ANEXO VIII — Tratamento dos produtos para assegurar a destruição do vírus da febre aftosa
 
-# Parte A
+Parte A
 
 Produtos de origem animal
 
@@ -1918,7 +1922,7 @@ b) A um tratamento pelo calor em que a temperatura no centro tenha atingido, no 
 
 9 - As tripas que, em conformidade com a legislação relativa aos controlos veterinários quanto aos agentes patogénicos, tenham sido limpas, raspadas e depois salgadas com cloreto de sódio durante 30 dias, branqueadas ou secas após o desbaste, e protegidas da recontaminação após o tratamento.
 
-# Parte B
+Parte B
 
 Produtos que não sejam de origem animal
 
@@ -1932,7 +1936,9 @@ ii) À acção de vapores de formol (formaldeído) produzidos numa câmara manti
 
 b) Tenham sido armazenadas e embaladas ou em fardos, num entreposto coberto, em locais situados à distância mínima de 2 km do foco de febre aftosa mais próximo, e que não tenham sido retiradas das explorações senão três meses, pelos menos, após a conclusão das medidas de limpeza e de desinfecção previstas no artigo 12.º e, em todo o caso, nunca antes do termo das restrições na zona de protecção.
 
-## ANEXO IX — Parte A
+## ANEXO IX
+
+## Parte A
 
 Tratamento da carne fresca
 
@@ -1960,7 +1966,7 @@ b) pH inferior a 6 na parte média do músculo Longissimus dorsi.
 
 4 - Devem ser aplicadas medidas eficazes para evitar a contaminação cruzada.
 
-# Parte B
+Parte B
 
 Medidas adicionais aplicáveis à produção de carne fresca de animais de espécies sensíveis originários da zona de vigilância
 
@@ -1998,13 +2004,13 @@ iv) A carne seja retida sob controlo oficial durante vinte e quatro horas e não
 
 1 - Critérios para a decisão de recorrer à vacinação de protecção (ver nota *):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/07/127a00/41004136.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/07/127a00/41004136.pdf)](https://files.diariodarepublica.pt/1s/2005/07/127a00/41004136.pdf)
 
 (nota *) Em conformidade com o relatório de 1999 do Comité Científico de Saúde Animal.
 
 2 - Critérios adicionais para a decisão de introduzir a vacinação de emergência:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/07/127a00/41004136.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/07/127a00/41004136.pdf)](https://files.diariodarepublica.pt/1s/2005/07/127a00/41004136.pdf)
 
 A occisão preventiva dos animais susceptíveis de estarem infectados ou contaminados não pode ser efectuada de forma segura em menos de quarenta e oito horas.
 
@@ -2068,7 +2074,9 @@ c) Tenham efeitos negativos mínimos na paisagem rural ou em locais de especial 
 
 15 - É fornecida informação aos agricultores, residentes das áreas rurais e restante população afectada, sendo assegurado o contacto directo e acessível com os residentes das zonas afectadas (nomeadamente através de linhas telefónicas de assistência), além do fornecimento de informações através dos meios de comunicação nacionais e regionais.
 
-## ANEXO XII — Parte A
+## ANEXO XII
+
+## Parte A
 
 Medidas em caso de confirmação da presença de febre aftosa em animais selvagens
 
@@ -2112,7 +2120,7 @@ e) Assegurar que o isolado do vírus da febre aftosa seja submetido ao procedime
 
 3 - Podem ser adoptadas medidas específicas, se se verificar um caso de febre aftosa em animais selvagens numa zona em que a criação extensiva de animais domésticos de espécies sensíveis torne impraticáveis certas disposições do n.º 1.
 
-# Parte B
+Parte B
 
 Planos de erradicação da febre aftosa em animais selvagens
 

@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/712-1984-399207
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T08:11:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7c2d8a8d1f02e61c36f22e1b91827801190207785f7b9883fdd1f532ee2d817
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e646e3d606d9dead07cb62e9179db35d20bd107fd0a1152bea2a229bec03326b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:11:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Apoio ao Investimento
+- Financiamento
+- Incentivos Fiscais
+- Sistema Integrado de Incentivos ao Investimento
+relationships:
+- type: cites
+  target: pt:dre:310440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473291:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:11:26Z'
   warnings: []
   errors: []
 ---
@@ -187,9 +203,9 @@ Do Regime de Incentivos à Transferência de Localização
 
 Ministérios das Finanças e do Plano, do Trabalho e Segurança Social e da Indústria e Energia.
 
-**Assinada em 12 de Julho de 1984.**
+Assinada em 12 de Julho de 1984.
 
-**O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Trabalho e Segurança Social, Amândio Anes de Azevedo. - O Ministro da Indústria e Energia, José Veiga Simão.**
+O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Trabalho e Segurança Social, Amândio Anes de Azevedo. - O Ministro da Indústria e Energia, José Veiga Simão.
 
 Regime das prioridades regionais/sectoriais
 
@@ -241,13 +257,13 @@ Actividade principal ...
 
 ... CAE ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf))](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
 
 2 - Caracterização do projecto:
 
 2.1 - Tipo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf))](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
 
 2.2 - Calendário previsto (mês/ano):
 
@@ -269,7 +285,7 @@ Concelho ...
 
 Discriminação dos produtos ou serviços a produzir, referindo para cada um a capacidade de instalar ou a ampliar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf))](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
 
 (Data) ... de ... de 19...
 
@@ -281,7 +297,7 @@ Estimativa do investimento do projecto e seu financiamento
 
 Preços concorrentes (valores em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf))](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
 
 (Data) ... de ... de 19...
 
@@ -319,7 +335,7 @@ b) Montante global do investimento ... (contos)
 
 c) Tipo (ver nota 2):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf))](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
 
 d) Localização da unidade produtiva:
 
@@ -365,7 +381,7 @@ P(índice 2) = ...
 
 P(índice 3) = ... Bonificação ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf))](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
 
 (Data) ... de ... de 19...
 
@@ -409,13 +425,13 @@ Memória justificativa do projecto de investimento
 
 1 - Identificação do promotor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf))](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
 
 2 - Caracterização do projecto:
 
 2.1 - Tipo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf))](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
 
 2.2 - Calendário previsto (mês/ano):
 
@@ -445,7 +461,7 @@ Postos de trabalho absorvidos ou eliminados através da execução do projecto .
 
 Discriminação dos produtos ou serviços a produzir, referindo para cada um a capacidade a instalar ou a ampliar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf))](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
 
 (Data) ... de ...de 19...
 
@@ -455,7 +471,7 @@ MAPA MODELO N.º 1
 
 Estimativa do investimento do projecto e seu financiamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf))](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
 
 (Data) ... de ... de 19...
 
@@ -547,7 +563,7 @@ b) Montante global do investimento ... (contos)
 
 c) Tipo (ver nota 2):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf))](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
 
 d) Localização da unidade produtiva:
 
@@ -607,7 +623,7 @@ Memória justificativa do projecto de investimento
 
 1 - Identificação do promotor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf))](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
 
 2 - Caracterização do projecto de transferência:
 
@@ -655,7 +671,7 @@ Valor das despesas de desmontagem, transporte, montagem e seguro do material de 
 
 Foram ou irão ser solicitados outros incentivos previstos no [Decreto-Lei n.º 132/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1983-310440)?
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf))](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/21400/28492857.pdf)
 
 (Data) ... de ... de 19...
 

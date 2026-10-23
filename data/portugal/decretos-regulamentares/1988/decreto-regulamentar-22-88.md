@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/12100/22302232.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-1988-374586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30779d95dbb643a8ca2f577cee4d91406ae3cda904258c49937afc19cb0426ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffb3cf9b24e386ef02b16469ce0a2a2dea85364bd41314af64334c218c35692c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Queijo
+- Região Demarcada dos Queijos da Beira Baixa
 relationships:
 - type: amended_by
   target: pt:dre:520226:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:385056:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:579916:por
+  label: Rectificado pela DECL.DD2865.1988.07.14.PCM,DR.IS [175]2º Supl de 30/Jul/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-579916
+  date: '1988-07-14'
+- type: repealed_by
+  target: pt:dre:520226:por
+  label: "Revogado pelo DR.38/2007.04.04.2007.MADRP, DR.IS [67] de 04.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/38-2007-520226
+  date: '2007-04-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:58Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +116,7 @@ Assim:
 
 Ao abrigo do disposto no artigo 1.º e no n.º 2 do artigo 3.º do [Decreto-Lei n.º 146/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1984-385056), de 9 de Maio, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É criada a Região Demarcada dos Queijos da Beira Baixa, que abrange a área definida no anexo I deste diploma, do qual faz parte integrante, onde podem ser produzidos o queijo amarelo da Beira Baixa e o queijo picante da Beira Baixa.
+Artigo 1.º - 1 - É criada a Região Demarcada dos Queijos da Beira Baixa, que abrange a área definida no anexo I deste diploma, do qual faz parte integrante, onde podem ser produzidos o queijo amarelo da Beira Baixa e o queijo picante da Beira Baixa.
 
 2 - É criada, na Região Demarcada dos Queijos da Beira Baixa a que se refere o número anterior, a Sub-Região do Queijo de Castelo Branco, que abrange a área definida no anexo II deste diploma, do qual faz parte integrante, onde pode ser produzido o queijo de Castelo Branco.
 
@@ -108,33 +124,33 @@ Ao abrigo do disposto no artigo 1.º e no n.º 2 do artigo 3.º do [Decreto-Lei 
 
 4 - O leite de ovelha destinado ao fabrico do queijo de Castelo Branco só pode ser produzido na Sub-Região a que se refere o n.º 2.
 
-###### Art. 2.º - 1 - Só podem aplicar-se as denominações de origem «queijo amarelo da Beira Baixa» e «queijo picante da Beira Baixa» aos queijos produzidos na Região Demarcada dos Queijos da Beira Baixa que satisfaçam as condições constantes do anexo III deste diploma, do qual faz parte integrante, e sejam devidamente certificados.
+Art. 2.º - 1 - Só podem aplicar-se as denominações de origem «queijo amarelo da Beira Baixa» e «queijo picante da Beira Baixa» aos queijos produzidos na Região Demarcada dos Queijos da Beira Baixa que satisfaçam as condições constantes do anexo III deste diploma, do qual faz parte integrante, e sejam devidamente certificados.
 
 2 - A denominação de origem «queijos de Castelo Branco» só pode aplicar-se ao queijo produzido na Sub-Região do Queijo de Castelo Branco da Região Demarcada dos Queijos da Beira Baixa que satisfaça as condições constantes do anexo III deste diploma e seja devidamente certificado.
 
-###### Art. 3.º - 1 - A obtenção do estatuto de entidade certificadora dos queijos da Beira Baixa, nos termos do disposto no artigo 5.º do [Decreto-Lei n.º 146/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1984-385056), de 9 de Maio, deve ser requerida pelos interessados no prazo de 180 dias a contar da data da entrada em vigor do presente diploma.
+Art. 3.º - 1 - A obtenção do estatuto de entidade certificadora dos queijos da Beira Baixa, nos termos do disposto no artigo 5.º do [Decreto-Lei n.º 146/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1984-385056), de 9 de Maio, deve ser requerida pelos interessados no prazo de 180 dias a contar da data da entrada em vigor do presente diploma.
 
 2 - A credenciação compete ao Ministro da Agricultura, Pescas e Alimentação, ouvido o Instituto de Qualidade Alimentar.
 
-###### Art. 4.º Os produtores dos queijos referidos nos n.os 1 e 2 do artigo 1.º carecem de autorização da entidade certificadora referida no artigo anterior para usarem a denominação de origem, ficando sujeitos às respectivas acções de controle e ao disposto no seu regulamento técnico.
+Art. 4.º Os produtores dos queijos referidos nos n.os 1 e 2 do artigo 1.º carecem de autorização da entidade certificadora referida no artigo anterior para usarem a denominação de origem, ficando sujeitos às respectivas acções de controle e ao disposto no seu regulamento técnico.
 
-###### Art. 5.º Compete ao Ministério da Agricultura, Pescas e Alimentação, através dos seus serviços centrais e regionais, desenvolver as acções que visem a promoção e melhoramento das raças ovinas e caprinas vocacionadas para a produção do leite utilizado no fabrico dos queijos da Beira Baixa.
+Art. 5.º Compete ao Ministério da Agricultura, Pescas e Alimentação, através dos seus serviços centrais e regionais, desenvolver as acções que visem a promoção e melhoramento das raças ovinas e caprinas vocacionadas para a produção do leite utilizado no fabrico dos queijos da Beira Baixa.
 
-###### Art. 6.º A Direcção Regional de Agricultura da Beira Interior deve promover, ao nível da Região Demarcada, acções que visem a melhoria qualitativa e quantitativa dos produtos certificáveis.
+Art. 6.º A Direcção Regional de Agricultura da Beira Interior deve promover, ao nível da Região Demarcada, acções que visem a melhoria qualitativa e quantitativa dos produtos certificáveis.
 
-###### Art. 7.º As acções de controle e disciplina da actividade das entidades certificadoras dos queijos da Beira Baixa são da competência do Instituto de Qualidade Alimentar, que pode delegá-la na Direcção Regional da Agricultura da Beira Interior.
+Art. 7.º As acções de controle e disciplina da actividade das entidades certificadoras dos queijos da Beira Baixa são da competência do Instituto de Qualidade Alimentar, que pode delegá-la na Direcção Regional da Agricultura da Beira Interior.
 
 Presidência do Conselho de Ministros, 18 de Abril de 1988. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 6 de Maio de 1988.**
+Promulgado em 6 de Maio de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Maio de 1988.**
+Referendado em 10 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Área da Região Demarcada dos Queijos da Beira Baixa
 

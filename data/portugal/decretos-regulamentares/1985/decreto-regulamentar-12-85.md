@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1985-327289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:10:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e96f4312afc1dec654d8917ee26e4715b07a852701383b174089675ef6773314
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36c69694a2c7fbcb8618c7a7f9560d6e6bd1ba25e38bb4b732ddebda13afb7fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:10:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Direcção Geral da Aviação Civil
+- Fiscalização
+- Servidão Aeronáutica
+- Servidão Militar
+- Sesimbra
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537044:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:10:49Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +108,13 @@ Ao abrigo do artigo 3.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/deta
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ficam sujeitos a servidão militar e aeronáutica os terrenos confinantes com o radiofarol VOR de Espichel, instalado em Sesimbra, abrangidos na planta anexa a este decreto e constituindo 2 zonas, assim definidas:
+Artigo 1.º Ficam sujeitos a servidão militar e aeronáutica os terrenos confinantes com o radiofarol VOR de Espichel, instalado em Sesimbra, abrangidos na planta anexa a este decreto e constituindo 2 zonas, assim definidas:
 
 a) Zona primária do VOR: terrenos situados no interior de uma circunferência de 300 m de raio com centro no VOR [M = -91924,7 e P = -137584,25 de coordenadas rectangulares referidas ao ponto central (Melriça)];
 
 b) Zona secundária do VOR: terrenos confinantes com os da zona primária e delimitada exteriormente por uma circunferência de 2000 m de raio, com centro no VOR.
 
-###### Art. 2.º - 1 - Os terrenos compreendidos nas zonas definidas no artigo anterior ficam sujeitos a servidão nos termos do artigo 10.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, e do artigo 5.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), de 22 de Outubro de 1964, carecendo de licença da Direcção-Geral da Aviação Civil a execução dos trabalhos e actividades seguintes:
+Art. 2.º - 1 - Os terrenos compreendidos nas zonas definidas no artigo anterior ficam sujeitos a servidão nos termos do artigo 10.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, e do artigo 5.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), de 22 de Outubro de 1964, carecendo de licença da Direcção-Geral da Aviação Civil a execução dos trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas;
 
@@ -120,28 +138,28 @@ h) Quaisquer outros trabalhos ou actividades que inequivocamente possam afectar 
 
 4 - Para os efeitos do disposto no número antecedente consideram-se obstáculos metálicos as linhas aéreas de transporte de energia em alta tensão, agregados de mais de 4 linhas telefónicas aéreas (8 fios), hangares, armazéns e pavilhões de grande vão com estrutura ou cobertura metálicas, torres para antenas, vedações em rede metálica de comprimento superior a 20 m e ou altura superior a 2,5 m, grandes depósitos de sucata ou de materiais metálicos, etc.
 
-###### Art. 3.º - 1 - Compete à Direcção-Geral de Aviação Civil (DGAC) o licenciamento dos trabalhos e actividades nas zonas sujeitas a servidão, ouvida a Empresa Pública de Aeroportos e Navegação Aérea - ANA, E. P., bem como ordenar a demolição de obras e construções nos casos previstos na lei e aplicar administrativamente as multas pelas infracções verificadas.
+Art. 3.º - 1 - Compete à Direcção-Geral de Aviação Civil (DGAC) o licenciamento dos trabalhos e actividades nas zonas sujeitas a servidão, ouvida a Empresa Pública de Aeroportos e Navegação Aérea - ANA, E. P., bem como ordenar a demolição de obras e construções nos casos previstos na lei e aplicar administrativamente as multas pelas infracções verificadas.
 
 2 - Para execução das suas decisões poderá a DGAC solicitar a intervenção das forças policiais.
 
-###### Art. 4.º - 1 - As licenças previstas no presente diploma serão requeridas ao director-geral da Aviação Civil por intermédio da câmara municipal respectiva, nos termos do disposto no artigo 8.º e seus parágrafos do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964.
+Art. 4.º - 1 - As licenças previstas no presente diploma serão requeridas ao director-geral da Aviação Civil por intermédio da câmara municipal respectiva, nos termos do disposto no artigo 8.º e seus parágrafos do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964.
 
 2 - A planta de localização referida na alínea a) do § 1.º do artigo 8.º do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043) deverá ser à escala de 1:5000, devidamente cotada e referenciada por coordenadas.
 
-###### Art. 5.º A fiscalização dos trabalhos e actividades nas zonas sujeitas a servidão é da competência da Direcção-Geral da Aviação Civil e da Empresa Pública de Aeroportos e Navegação Aérea - ANA, E. P.
+Art. 5.º A fiscalização dos trabalhos e actividades nas zonas sujeitas a servidão é da competência da Direcção-Geral da Aviação Civil e da Empresa Pública de Aeroportos e Navegação Aérea - ANA, E. P.
 
-###### Art. 6.º Das decisões do director-geral da Aviação Civil cabe recurso hierárquico necessário para o Ministro do Equipamento Social, a interpor no prazo de 8 dias.
+Art. 6.º Das decisões do director-geral da Aviação Civil cabe recurso hierárquico necessário para o Ministro do Equipamento Social, a interpor no prazo de 8 dias.
 
 Mário Soares - Carlos Alberto da Mota Pinto - João Rosado Correia.
 
-**Promulgado em 4 de Fevereiro de 1985.**
+Promulgado em 4 de Fevereiro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Fevereiro de 1985.**
+Referendado em 7 de Fevereiro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/02/04100/03750376.pdf))](https://files.diariodarepublica.pt/1s/1985/02/04100/03750376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/02/04100/03750376.pdf)

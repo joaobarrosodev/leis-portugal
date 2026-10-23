@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/528-1972-688987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 983cab1a24c80b298ca317964b4780ce2c7de0c8a81749f15907c26f5e74783f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d13d7213544acfb62e60bea54b3a8bf9a5fa4fd0f6764e89184d875d286a839
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:215774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352681:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:33Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +104,7 @@ I
 
 Abertura dos concursos
 
-###### Artigo 1.º - 1. Compete à Direcção-Geral de Educação, pela Repartição do Ensino, promover a abertura dos concursos para subdirectores escolares, por aviso a publicar no Diário do Governo e nos Boletins Oficiais das províncias ultramarinas.
+Artigo 1.º - 1. Compete à Direcção-Geral de Educação, pela Repartição do Ensino, promover a abertura dos concursos para subdirectores escolares, por aviso a publicar no Diário do Governo e nos Boletins Oficiais das províncias ultramarinas.
 
 2. Os concursos serão abertos pelo prazo de noventa dias, a contar da data da publicação dos respectivos avisos.
 
@@ -104,7 +112,7 @@ II
 
 Admissão a concurso
 
-###### Art. 2.º - 1. Para efeitos de admissão a concurso, os candidatos dividem-se em dois grupos:
+Art. 2.º - 1. Para efeitos de admissão a concurso, os candidatos dividem-se em dois grupos:
 
 Grupo A, constituído pelos que, cumulativamente:
 
@@ -142,7 +150,7 @@ III
 
 Do júri
 
-###### Art. 3.º - 1. O júri terá a constituição e funcionará nos termos do artigo 20.º do [Decreto-Lei n.º 49367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49367-1969-215774), de 8 de Novembro de 1969, sendo da competência do Ministro do Ultramar a designação dos respectivos vogais.
+Art. 3.º - 1. O júri terá a constituição e funcionará nos termos do artigo 20.º do [Decreto-Lei n.º 49367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49367-1969-215774), de 8 de Novembro de 1969, sendo da competência do Ministro do Ultramar a designação dos respectivos vogais.
 
 2. O presidente do júri, além da competência que este Regulamento lhe atribui para a fase anterior à da prestação das provas, assegurará a boa marcha dos trabalhos do concurso e procederá à elaboração dos pontos das provas escritas, podendo incumbir dessa tarefa um dos vogais do júri.
 
@@ -152,7 +160,7 @@ IV
 
 Natureza das provas
 
-###### Art. 4.º - 1. O concurso constará de provas escritas e de provas orais.
+Art. 4.º - 1. O concurso constará de provas escritas e de provas orais.
 
 2. No decorrer das provas é facultada aos examinandos a consulta de legislação contida em publicações oficiais.
 
@@ -160,7 +168,7 @@ V
 
 Datas das provas
 
-###### Art. 5.º - 1. É da competência do director-geral de Educação a fixação das datas das provas.
+Art. 5.º - 1. É da competência do director-geral de Educação a fixação das datas das provas.
 
 2. Entre as provas escritas e as provas orais haverá pelo menos um dia de intervalo.
 
@@ -182,7 +190,7 @@ VI
 
 Duração das provas
 
-###### Art. 6.º - 1. Cada prova escrita terá a duração de duas horas.
+Art. 6.º - 1. Cada prova escrita terá a duração de duas horas.
 
 2. Haverá apenas uma prova oral, com a duração mínima de vinte minutos, por candidato.
 
@@ -190,7 +198,7 @@ VII
 
 Classificação das provas
 
-###### Art. 7.º - 1. Findas as provas orais, o júri procederá ao cálculo da classificação das provas de cada candidato, a qual será a média, aproximada às décimas, das classificações seguintes:
+Art. 7.º - 1. Findas as provas orais, o júri procederá ao cálculo da classificação das provas de cada candidato, a qual será a média, aproximada às décimas, das classificações seguintes:
 
 a) Média das três primeiras provas escritas;
 
@@ -212,25 +220,25 @@ VIII
 
 Publicação da lista graduada dos candidatos
 
-###### Art. 8.º A lista graduada dos candidatos aprovados, após homologação ministerial, será publicada no Diário do Governo e nos Boletins Oficiais de todas as províncias ultramarinas.
+Art. 8.º A lista graduada dos candidatos aprovados, após homologação ministerial, será publicada no Diário do Governo e nos Boletins Oficiais de todas as províncias ultramarinas.
 
 IX
 
 Nomeações
 
-###### Art. 9.º As nomeações obedecerão à ordem de graduação.
+Art. 9.º As nomeações obedecerão à ordem de graduação.
 
 X
 
 Prazo de validade dos concursos
 
-###### Art. 10.º O prazo de validade do concurso é de dois anos.
+Art. 10.º O prazo de validade do concurso é de dois anos.
 
 XI
 
 Programas
 
-###### Art. 11.º Os programas para as provas compreenderão:
+Art. 11.º Os programas para as provas compreenderão:
 
 I) Biologia Educacional:
 
@@ -300,8 +308,8 @@ XII
 
 Disposições finais
 
-###### Art. 12.º - 1. Fica revogada a [Portaria n.º 16768](https://diariodarepublica.pt/dr/detalhe/portaria/16768-1958-352681), de 15 de Julho de 1958.
+Art. 12.º - 1. Fica revogada a [Portaria n.º 16768](https://diariodarepublica.pt/dr/detalhe/portaria/16768-1958-352681), de 15 de Julho de 1958.
 
 2. Nos casos omissos decidirá o Ministro do Ultramar por despacho, sobre parecer da Direcção-Geral de Educação.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

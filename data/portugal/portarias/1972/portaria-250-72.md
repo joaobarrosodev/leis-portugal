@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/250-1972-680265
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3769b6aafc2d5d64fc43ec2622267268b72d4d8cdc77b11245f3745ee736aa13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9404de96436e78d7aa19834f42b06a22fe7be66b2d1eea322f30cfc71f741b9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:00Z'
   warnings: []
   errors: []
 ---
@@ -95,4 +99,4 @@ Manda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência
 
 A Direcção de Serviços de Higiene e Medicina do Trabalho, que, por força do disposto na alínea d) do n.º 2.º do artigo 33.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, está compreendida na Inspecção Superior de Medicina Social, transita, com a competência atribuída pelo n.º 10.º do mesmo artigo, para a Inspecção Superior de Salubridade, a que se refere o artigo 32.º do citado diploma.
 
-**O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.**
+O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.

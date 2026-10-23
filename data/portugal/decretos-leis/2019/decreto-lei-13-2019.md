@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13/2019/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2019-118051706
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c453248dd0853f9330d191d4f0a5051fea61360b89013f5cac4ab4ad03c085f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77a1ebdc2c9673df5def36f7594090fff624d291606845c328bd630622894aec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Catálogo Nacional de Materiais de BASE
-- Registo Nacional dos Materiais de BASE
-- Certificado Fitossanitário
-- Definição de Competências
+- Açores
 - Arborização
-- União Europeia
+- Autoridade Florestal Nacional
+- Catálogo Nacional de Materiais de BASE
+- Certificado de Qualidade
+- Certificado Fitossanitário
+- Circulação de Mercadorias
+- Comércio
+- Definição de Competências
+- Exploração Florestal
 - Fiscalização
 - Informação
-- Licenciamento
-- Certificado de Qualidade
 - Instituto da Conservação da Natureza e das Florestas
-- Circulação de Mercadorias
-- Página na Internet
-- Exploração Florestal
-- Proteção Fitossanitária
-- Autoridade Florestal Nacional
+- Licenciamento
 - Madeira.região Autónoma
-- Regime Jurídico
-- Produção Vegetal
-- Açores
-- Taxa
-- Comércio
+- Página na Internet
 - Plataforma Eletrónica
+- Produção Vegetal
+- Proteção Fitossanitária
+- Regime Jurídico
+- Registo Nacional dos Materiais de BASE
 - Sistema de Informação de Materiais Florestais de Reprodução
+- Taxa
+- União Europeia
 relationships:
 - type: cites
   target: celex:31999L0105
@@ -155,20 +155,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/977/1995/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/977/1995/08/12/p/dre
+- type: cites
+  target: pt:dre:209839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682210:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31999L0105
   label: null
   source: null
 article_structure:
-  article_count: 111
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 67
+  section_count: 23
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:06Z'
   warnings: []
   errors: []
 ---
@@ -257,7 +341,9 @@ x) 'Unidade de aprovação', a área ocupada por um bosquete, povoamento, pomar 
 
 z) 'Utilizador final', a pessoa singular ou coletiva, pública ou privada, que adquira MFR a fornecedor legalmente autorizado e aplique os materiais obtidos para em seu benefício e interesse próprios, efetuar ações de arborização ou rearborização.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Os MFR derivados de materiais de base aprovados nos termos do presente diploma dividem-se nas seguintes categorias:
 
@@ -269,7 +355,9 @@ c) [...];
 
 d) [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A utilização de materiais de base destinados à produção de MFR carece de aprovação pelo organismo oficial, nos termos das disposições seguintes.
 
@@ -283,7 +371,9 @@ d) [...].
 
 6 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Os materiais de base que consistem em organismos geneticamente modificados só podem ser aprovados se a sua libertação deliberada no ambiente estiver autorizada em conformidade com a [Diretiva n.º 2001/18/CE](https://data.europa.eu/eli/dir/2001/18/oj?locale=pt), do Parlamento Europeu e do Conselho, de 12 de março de 2001, relativa à libertação deliberada no ambiente de OGM, ou em conformidade com o [Regulamento (CE) n.º 1829/2003](https://data.europa.eu/eli/reg/2003/1829/oj?locale=pt), do Parlamento Europeu e do Conselho, de 22 de setembro de 2003, relativo aos géneros alimentícios e alimentos para animais geneticamente modificados.
 
@@ -293,7 +383,9 @@ d) [...].
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A aprovação de materiais de base ao abrigo dos artigos 5.º a 7.º confere ao respetivo produtor a faculdade de dispor livremente sobre a utilização do material na categoria de MFR para a qual a produção foi aprovada.
 
@@ -313,7 +405,9 @@ e) Cumprir com as normas do presente diploma reguladoras da utilização de mate
 
 4 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Compete ao organismo oficial a delimitação e a aprovação, para as espécies florestais relevantes, das regiões de proveniência dos materiais de base destinados à produção de MFR das categorias 'Material de fonte identificada' e 'Material selecionado'.
 
@@ -321,7 +415,9 @@ e) Cumprir com as normas do presente diploma reguladoras da utilização de mate
 
 3 - O organismo oficial de controlo envia Comissão Europeia e às entidades competentes dos Estados membros da União Europeia a informação referida no número anterior.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Os materiais de base aprovados nos termos do presente diploma estão obrigatoriamente sujeitos à inscrição no RNMB.
 
@@ -359,7 +455,9 @@ m) [...].
 
 6 - A lista dos registos de materiais de base aprovados é disponibilizada no sítio da Internet do organismo oficial de controlo.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Compete ao organismo oficial a elaboração do CNMB com base em resumo atualizado dos elementos relevantes relativos aos materiais de base inscritos no RNMB, bem como proceder à sua manutenção e atualização.
 
@@ -367,7 +465,9 @@ m) [...].
 
 3 - (Revogado.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -381,21 +481,29 @@ a) [...];
 
 b) [...].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Todos os MFR estão sujeitos ao cumprimento das exigências fitossanitárias estabelecidas na lei e respetiva regulamentação.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 Verificando-se dificuldades temporárias de abastecimento do mercado nacional em MFR de uma ou mais espécies ou híbridos artificiais que satisfaçam os requisitos estabelecidos no presente diploma e que não possam ser superadas adequadamente dentro da União Europeia, pode ser autorizada a comercialização de MFR que satisfaçam requisitos menos rigorosos, em termos a definir por despacho do membro do Governo responsável pela área das florestas, após decisão da Comissão Europeia.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 13.º e do número seguinte, os MFR das espécies e híbridos artificiais identificados nas partes A e B do anexo I não estão sujeitos a quaisquer restrições de comercialização para além das previstas no presente diploma, no que se refira às características do material e às exigências relativas a exame, inspeção, rotulagem e selagem.
 
 2 - [...].
 
-###### Artigo 17.º — Requisitos específicos de comercialização de MFR, para o território nacional, de sobreiro, pinheiro-bravo, pinheiro-manso e eucalipto-glóbulo
+Artigo 17.º
+
+Requisitos específicos de comercialização de MFR, para o território nacional, de sobreiro, pinheiro-bravo, pinheiro-manso e eucalipto-glóbulo
 
 Dentro do território nacional só é permitida a comercialização de MFR das espécies listadas na parte B do anexo I que, cumulativamente:
 
@@ -405,7 +513,9 @@ b) [...];
 
 c) [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Só é permitida a comercialização de MFR das espécies e híbridos artificiais constantes do anexo I, reproduzidos vegetativamente, que, cumulativamente:
 
@@ -417,7 +527,9 @@ c) [...].
 
 2 - [...].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -425,7 +537,9 @@ c) [...].
 
 3 - O fornecedor deve conservar o comprovativo da autorização ou da comunicação prévia, até à implementação do SiMFR.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Os MFR, durante todas as fases de produção, têm de ser mantidos separados em lote único, por referência à respetiva unidade individual de aprovação ou registo no RNMB, devendo ser identificados através de etiqueta apropriada que contenha as seguintes informações:
 
@@ -471,7 +585,9 @@ d) Se trate de MFR de diferentes anos de maturação obtido a partir de uma úni
 
 5 - Nas misturas efetuadas nos termos das alíneas a) a c) do número anterior, a menção do código de identificação da região de proveniência a que se refere a alínea g) do n.º 1 deve ser substituída pelo número de identificação do material de base no RNMB.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - As unidades de sementes só podem ser comercializadas em embalagens seladas.
 
@@ -491,7 +607,9 @@ d) Data de início e de conclusão da colheita.
 
 5 - No caso de partes de plantas, após a colheita, as mesmas devem ser acondicionadas e comercializadas devidamente seladas, nos termos do n.º 2, e terem aposta uma ou duas etiquetas quando aplicável, contendo a informação referida no número anterior.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - Os MFR só podem ser comercializados em lotes que cumpram o disposto no artigo 21.º, devendo ser obrigatoriamente acompanhados de documento de fornecedor, devidamente identificado com um código numerário, que, para além desta designação, deve conter as indicações previstas naquele artigo adequadas ao material e ainda as seguintes especificações:
 
@@ -537,7 +655,9 @@ d) O número de sementes germinadas por quilograma de produto comercializado com
 
 9 - O modelo de documento de fornecedor é elaborado pelo organismo oficial e disponibilizado no sítio na Internet deste organismo.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]:
 
@@ -565,7 +685,9 @@ f) Objetivo
 
 7 - Os MFR derivados de material de base constituído total ou parcialmente por OGM só podem ser comercializados desde que cumpram o estabelecido na legislação aplicável.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...].
 
@@ -575,7 +697,9 @@ f) Objetivo
 
 4 - Todas as importações de MFR são declaradas ao organismo oficial pelo fornecedor importador, no prazo de cinco dias a contar da entrada do material em território nacional, em modelo de formulário a aprovar por aquele organismo.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...].
 
@@ -583,7 +707,9 @@ f) Objetivo
 
 3 - Os MFR que se destinem a fins não florestais ou à exportação ou reexportação, detido, comercializado ou em circulação, que não cumpram as condições previstas nos números anteriores, presumem-se destinados a fins florestais para efeitos da aplicação do disposto no presente diploma.
 
-###### Artigo 27.º — Condições para o licenciamento de fornecedor
+Artigo 27.º
+
+Condições para o licenciamento de fornecedor
 
 1 - Só é permitida a produção, a importação e a comercialização de MFR a fornecedores licenciados.
 
@@ -617,7 +743,9 @@ d) Dispor de responsável técnico com habilitação na área das ciências silv
 
 12 - Ao tratamento, segurança, conservação, acesso e proteção dos dados pessoais constantes da lista atualizada dos fornecedores é diretamente aplicável o disposto no Regulamento Geral de Proteção de Dados.
 
-###### Artigo 28.º — Licenças de fornecedor
+Artigo 28.º
+
+Licenças de fornecedor
 
 1 - [...].
 
@@ -639,7 +767,9 @@ f) [...].
 
 4 - Os modelos de formulário de requerimento para obtenção de licença de fornecedor e do título das respetivas licenças são aprovados pelo organismo oficial.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - A licença de fornecedor é revogada a pedido do respetivo titular e sempre que o mesmo deixe de cumprir os pressupostos previstos no n.º 5 do artigo 27.º, salvo quando deles o fornecedor esteja dispensado por força do disposto no n.º 7 do mesmo artigo.
 
@@ -647,7 +777,9 @@ f) [...].
 
 3 - [...].
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]:
 
@@ -675,7 +807,9 @@ l) Comunicar anualmente ao organismo oficial as quantidades produzidas e comerci
 
 2 - Os fornecedores devem entregar ao organismo oficial, no prazo de 15 dias a contar da data de recebimento ou expedição de MFR, cópia do documento de fornecedor a que se refere o artigo 23.º, referente a todo o material comercializado de e para outros Estados membros da União Europeia.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...].
 
@@ -683,7 +817,9 @@ l) Comunicar anualmente ao organismo oficial as quantidades produzidas e comerci
 
 3 - O modelo do certificado indicado na alínea b) do número anterior é aprovado pelo organismo oficial.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 É obrigatória a emissão e o envio ao fornecedor, pelo organismo oficial, de um certificado principal para a comercialização de MFR, de acordo com os modelos do anexo VIII, posteriormente à ocorrência de qualquer das seguintes situações:
 
@@ -693,7 +829,9 @@ b) [...];
 
 c) [...].
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - A certificação, a que se refere o artigo 20.º, é efetuada pelo organismo oficial através da emissão de um certificado de qualidade externa.
 
@@ -705,7 +843,9 @@ c) [...].
 
 5 - No caso das plantas destinadas à arborização e à rearborização deixarem de satisfazer as exigências para a comercialização ao utilizador final descritas na parte E do anexo VII, mesmo que o certificado de qualidade externa esteja válido, não podem os fornecedores proceder à sua comercialização para fins florestais.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - Os fornecedores devem comunicar ao organismo oficial a sua intenção de proceder à colheita de qualquer tipo de MFR, com a antecedência mínima de 10 dias antes do início da colheita indicando o número de registo do material de base no RNMB e a respetiva localização, bem como o período previsto para a realização da colheita.
 
@@ -727,7 +867,9 @@ c) [...].
 
 10 - Nas situações previstas nas alíneas b) e c) do artigo 32.º, e simultaneamente com o pedido de autorização prévia para a realização das operações em causa, os fornecedores devem solicitar ao organismo oficial a emissão de certificado principal para o MFR delas resultante.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - O organismo oficial emite o certificado de qualidade externa após verificação da conformidade do material com os requisitos mínimos constantes da parte E do anexo VII aplicáveis às plantas para arborização.
 
@@ -741,7 +883,9 @@ c) [...].
 
 6 - Sem prejuízo de eventual responsabilidade contraordenacional que ao caso couber, sempre que se verifique o não cumprimento de alguma das condições técnicas referidas no n.º 4, o organismo oficial notifica o fornecedor de que, à emissão do certificado de qualidade externa, é aplicável o disposto no n.º 1, sendo automaticamente revogada a aprovação expressa no n.º 3.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - O Instituto da Conservação da Natureza e das Florestas, I. P., doravante designado ICNF, I. P., é o organismo responsável pelo controlo oficial competindo-lhe, nomeadamente:
 
@@ -759,7 +903,9 @@ d) [...].
 
 4 - [...].
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Compete ao organismo oficial assegurar o cumprimento do disposto no presente diploma e avaliar a qualidade dos MFR, nomeadamente através das seguintes medidas:
 
@@ -781,17 +927,23 @@ d) [...].
 
 4 - A execução das ações descritas no número anterior que não envolvam poderes de autoridade pode ser cometida pelo organismo oficial, total ou parcialmente, a entidades devidamente credenciadas para o efeito.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 13.º e de eventual responsabilidade contraordenacional que ao caso couber, sempre que em resultado das ações de controlo referidas no n.º 3 do artigo 37.º se verificar que o MFR não preenche os requisitos estabelecidos no presente diploma e demais disposições regulamentares, o organismo oficial notifica o fornecedor para, em prazo razoável a fixar, proceder às medidas corretivas adequadas ou à destruição do material, consoante se justificar, ficando o mesmo impedido de comercializar o material inspecionado ou amostrado até ao cumprimento das ações determinadas.
 
 2 - Sempre que as medidas corretivas referidas no número anterior se revelarem ineficazes para a reposição dos requisitos em falta, o fornecedor mantém-se impedido de comercializar o material, devendo comunicar o facto ao organismo oficial que, em alternativa, pode ordenar a destruição do MFR em causa ou a sua remoção do circuito de comercialização para fins florestais, consoante se justificar.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 Sempre que o fornecedor, tendo sido regularmente notificado, não proceder dentro do prazo fixado aos tratamentos, a outras medidas corretivas ou à destruição de MFR, o organismo oficial pode substituir-se-lhe por si ou por outra entidade por ela credenciada para o efeito, na realização dos trabalhos em falta, correndo por conta daquele os custos inerentes.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...]:
 
@@ -811,7 +963,9 @@ d) [...].
 
 5 - O pagamento das taxas previstas no n.º 1 é realizado preferencialmente através da Plataforma de Pagamentos da Administração Pública, nos termos do disposto no n.º 4 do artigo 30.º do [Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de abril, na sua redação atual.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...]:
 
@@ -901,7 +1055,9 @@ d) De mínimo de (euro) 1000,00 e máximo de (euro) 3700,00 ou de mínimo de (eu
 
 5 - Às contraordenações previstas no presente artigo é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social, constante do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, na sua redação atual.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Em função da gravidade da infração e da culpa do agente, o conselho diretivo do ICNF, I. P., pode, cumulativamente com a aplicação das coimas previstas no artigo anterior, aplicar as seguintes sanções acessórias:
 
@@ -919,7 +1075,9 @@ f) Perda a favor do Estado dos bens ou produto resultantes da atividade contraor
 
 2 - [...].
 
-###### Artigo 44.º — Competências de fiscalização e contraordenacional
+Artigo 44.º
+
+Competências de fiscalização e contraordenacional
 
 1 - Sem prejuízo das competências atribuídas por lei a outras entidades em razão da matéria ou da área de jurisdição, a fiscalização do disposto no presente diploma compete ao ICNF, I. P., à ASAE e às entidades policiais.
 
@@ -929,7 +1087,9 @@ f) Perda a favor do Estado dos bens ou produto resultantes da atividade contraor
 
 4 - Os autos de contraordenação por infrações ao presente diploma são remetidos ao ICNF, I. P., no prazo máximo de cinco dias a contar do seu levantamento.
 
-###### Artigo 45.º — Destino das coimas
+Artigo 45.º
+
+Destino das coimas
 
 O produto das coimas aplicadas reverte a favor das seguintes entidades
 
@@ -941,7 +1101,9 @@ c) 25 % para o ICNF, I. P., o qual constitui receita própria;
 
 d) 60 % para o Estado.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - Até se esgotarem as existências de MFR acumuladas até 31 de dezembro de 2002 e já declaradas ao organismo oficial, é permitida a comercialização desse material independentemente da observância dos requisitos mínimos estabelecidos nos anexos II a VII e IX.
 
@@ -955,17 +1117,23 @@ d) 60 % para o Estado.
 
 6 - (Revogado.)
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - [...]
 
 2 - Os serviços competentes das Regiões Autónomas dos Açores e da Madeira cooperam com o organismo oficial, enquanto organismo de coordenação nacional do controlo oficial, prestando as informações que lhes forem solicitadas no âmbito das suas atribuições e fornecendo todos os dados regionais relevantes para efeitos de inscrição no RNMB e no registo nacional de fornecedores a que se refere o n.º 9 do artigo 27.º, bem como os relativos às alterações subsequentes.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 São aprovados os anexos I a X, que fazem parte integrante do presente diploma.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 As normas necessárias à execução do presente diploma são aprovadas por portaria do membro do Governo responsável pela área das florestas.»
 
@@ -1015,11 +1183,15 @@ j) O acesso aos dados do registo de fornecedor de MFR e das declarações, certi
 
 7 - Os fornecedores de MFR são dispensados da apresentação de documentos em posse de qualquer serviço ou organismo da Administração Pública quando derem o seu consentimento para a entidade responsável pela prestação do serviço proceder à sua obtenção.
 
-###### Artigo 40.º-B — Confidencialidade
+Artigo 40.º-B
+
+Confidencialidade
 
 A informação constante do licenciamento, das declarações, certificados e documentos de fornecedor, tem natureza confidencial, apenas podendo ser transmitida ao próprio e às entidades competentes para a fiscalização da aplicação do presente diploma, exclusivamente para esse fim.
 
-###### Artigo 40.º-C — Produção e divulgação de informação integrada
+Artigo 40.º-C
+
+Produção e divulgação de informação integrada
 
 Compete ao ICNF, I. P., a organização, o tratamento, a produção e a divulgação de informação integrada dos MFR recolhida no SiMFR, sem prejuízo do disposto no artigo anterior.»
 
@@ -1043,15 +1215,15 @@ São revogados o n.º 3 do artigo 11.º, a alínea d) do n.º 1 do artigo 23.º,
 
 Visto e aprovado em Conselho de Ministros de 6 de dezembro de 2018. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Carlos Manuel Soares Miguel - Francisca Eugénia da Silva Dias Van Dunem - Pedro Gramaxo de Carvalho Siza Vieira - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
 
-**Promulgado em 9 de janeiro de 2019.**
+Promulgado em 9 de janeiro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de janeiro de 2019.**
+Referendado em 11 de janeiro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -1079,11 +1251,15 @@ d) Ser constituído, no mínimo, por 20 árvores por hectare.
 
 6 - No caso de povoamentos os critérios a satisfazer são os do IFN, ou seja ter uma área maior ou igual a 0,5 hectares e largura maior ou igual a 20 metros onde se verifica a presença de árvores florestais com uma altura superior a 5 metros e grau de coberto maior ou igual a 10 %.
 
-## ANEXO VI — [...]
+ANEXO VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf)
+[...]
 
-## ANEXO VIII — Parte A
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf)
+
+ANEXO VIII
+
+Parte A
 
 [...]
 
@@ -1127,7 +1303,7 @@ Indígenas [ ] Não indígenas [ ]
 
 17 - [...]
 
-# Parte B
+Parte B
 
 [...]
 
@@ -1179,7 +1355,7 @@ Indígenas [ ] Não indígenas [ ]
 
 21 - [...]
 
-# Parte C
+Parte C
 
 [...]
 
@@ -1227,7 +1403,9 @@ Indígenas [ ]Não indígenas [ ]
 
 17 - [...]
 
-## ANEXO IX — Parte A
+ANEXO IX
+
+Parte A
 
 [...]
 
@@ -1259,7 +1437,7 @@ RP A - 1 ha.
 
 9 - [...]
 
-# Parte B
+Parte B
 
 [...]
 
@@ -1283,7 +1461,7 @@ RP A - 1 ha.
 
 10 - Efetivo da população - a fim de garantir uma fecundação cruzada suficiente para evitar ou minimizar os efeitos da consanguinidade, otimizar a eficácia da condução e gestão dos povoamentos e diminuir a probabilidade de contaminação por pólen exterior, os povoamentos devem ter uma área mínima de 2 ha e densidades consideradas adequadas à idade do arvoredo.
 
-# Parte C
+Parte C
 
 [...]
 
@@ -1325,7 +1503,7 @@ Região VII - 60 pinhas/árvore/ano.
 
 10 - [...]
 
-# Parte D
+Parte D
 
 [...]
 
@@ -2365,7 +2543,7 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 ## ANEXO I — Lista das espécies florestais e híbridos artificiais, a que se refere o artigo 2.º
 
-# Parte A
+Parte A
 
 Abies alba Mill.
 
@@ -2455,7 +2633,7 @@ Tilia cordata Mill.
 
 Tilia platyphyllos Scop.
 
-# Parte B
+Parte B
 
 Pinus pinaster Ait.
 
@@ -2665,9 +2843,11 @@ ii) Deve comunicar-se claramente se há carateres de importância económica ou 
 
 ## ANEXO VI — Categorias sob as quais podem ser comercializados os materiais florestais de reprodução obtidos dos diferentes tipos de materiais de base
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf)
 
-## ANEXO VII — Parte A
+## ANEXO VII
+
+## Parte A
 
 Exigências a satisfazer pelos lotes de frutos e sementes das espécies constantes do anexo I
 
@@ -2675,13 +2855,13 @@ Exigências a satisfazer pelos lotes de frutos e sementes das espécies constant
 
 2 - Não obstante o disposto no n.º 1, no caso de espécies estreitamente relacionadas constantes do anexo I, com exclusão dos híbridos artificiais, a pureza específica do lote de frutos ou sementes deve ser indicada, se não atingir o valor de 99 %.
 
-# Parte B
+Parte B
 
 Exigências a satisfazer pelas partes de plantas das espécies e híbridos artificiais constantes do anexo I
 
 As partes de plantas das espécies e híbridos artificiais constantes do anexo I devem ser de qualidade íntegra e comercializável. Esta qualidade será determinada por referência a características de sanidade e dimensão adequadas.
 
-# Parte C
+Parte C
 
 Exigências relativas às normas de qualidade exterior para as Populus spp. propagadas por estacas caulinares ou estacas enraizadas
 
@@ -2727,15 +2907,15 @@ vii) Uma curvatura excessiva do caule;
 
 b) Classes de dimensão para as estacas enraizadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf)
 
-# Parte D
+Parte D
 
 Exigências a satisfazer pelas plantas para arborização de espécies e híbridos artificiais constantes do anexo I
 
 As plantas para arborização devem ser de qualidade íntegra e comercializável, a qual será determinada pelas características de sanidade, vitalidade e qualidade fisiológica.
 
-# Parte E
+Parte E
 
 Exigências a satisfazer pelas plantas para arborização destinadas à comercialização ao utilizador final em regiões de clima mediterrânico
 
@@ -2757,47 +2937,51 @@ f) As plantas serem desequilibradas.
 
 3 - Tamanho das plantas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf)
 
 4 - A idade e dimensões para as plantas de eucalipto-glóbulo são:
 
 Plantas obtidas por via seminal:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf)
 
 Plantas obtidas por estacaria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf)
 
 5 - Tamanho do vaso, quando utilizado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf)
 
-## ANEXO VIII — Parte A
+## ANEXO VIII
+
+## Parte A
 
 Modelo de certificado principal de identidade de materiais florestais de reprodução derivados de bosquetes ou povoamentos
 
 (emitido nos termos da [Diretiva n.º 1999/105/CE](https://data.europa.eu/eli/dir/1999/105/oj?locale=pt))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf)
 
-# Parte B
+Parte B
 
 Modelo de certificado principal de identidade de materiais florestais de reprodução derivados de pomares de semente ou progenitores familiares
 
 (emitido nos termos da [Diretiva n.º 1999/105/CE](https://data.europa.eu/eli/dir/1999/105/oj?locale=pt))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf)
 
-# Parte C
+Parte C
 
 Modelo de certificado principal de identidade de materiais florestais de reprodução derivados de clones ou misturas clonais
 
 (emitido nos termos da [Diretiva n.º 1999/105/CE](https://data.europa.eu/eli/dir/1999/105/oj?locale=pt))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf))](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/01/01400/0040800443.pdf)
 
-## ANEXO IX — Parte A
+## ANEXO IX
+
+## Parte A
 
 Exigências mínimas para aprovação de materiais de base destinados à produção de materiais florestais de reprodução a certificar como «Selecionados» de sobreiro (Quercus suber L.)
 
@@ -2837,7 +3021,7 @@ c) Resultados da análise de amostras - resultados indicando uma percentagem de 
 
 9 - Inscrição definitiva no CNMB - quando todos os requisitos técnicos referidos nos n.os 1 a 8 deste anexo forem cumpridos, o povoamento poderá ser inscrito definitivamente no CNMB. Poderá ser inscrito provisoriamente se, não havendo ainda condições para aplicação do n.º 8, todos os requisitos, à exceção do da qualidade da cortiça, forem cumpridos.
 
-# Parte B
+Parte B
 
 Exigências mínimas para aprovação de materiais de base destinados à produção de materiais florestais de reprodução a certificar como «Selecionados» de pinheiro-bravo (Pinus pinaster Ait.).
 
@@ -2881,7 +3065,7 @@ b) Nas regiões marginais e submarginais a manifestação de resistência a agen
 
 10 - Efetivo da população - a fim de garantir uma fecundação cruzada suficiente para evitar ou minimizar os efeitos da consanguinidade, otimizar a eficácia da condução e gestão dos povoamentos e diminuir a probabilidade de contaminação por pólen exterior, os povoamentos devem ter uma área mínima de 2 ha e densidades consideradas adequadas à idade do arvoredo.
 
-# Parte C
+Parte C
 
 Exigências mínimas para aprovação de materiais de base destinados à produção de materiais florestais de reprodução a certificar como «Selecionados» de pinheiro-manso (Pinus pinea L.).
 
@@ -2931,7 +3115,7 @@ Região VII - 60 pinhas/árvore/ano.
 
 10 - Estado sanitário - os povoamentos devem apresentar de uma forma geral bom estado sanitário, traduzido pela ausência de sintomas de pragas e doenças.
 
-# Parte D
+Parte D
 
 Exigências mínimas para aprovação de materiais de base destinados à produção de materiais florestais de reprodução a certificar como «Selecionados» de eucalipto-glóbulo (Eucalytus globulus labill.).
 
@@ -2994,3 +3178,5 @@ l) Ter como responsável técnico um técnico com formação florestal ou uma pe
 m) Dispor de área de atempamento;
 
 n) Ter a licença e a taxa relativa ao exercício da atividade atualizadas.
+
+111989405

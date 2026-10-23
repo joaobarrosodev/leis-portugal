@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/24400/0000200009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85/2022/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef2d99b319ab472a0455fc245f36c3624ffa899916de27ecf54bda31bea9e867
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee8e11d9483198cedf2535a84aad485d21f84940f133d42b6ddcf7ac55dc6a2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,42 +69,42 @@ subjects:
 - Administração Fiscal
 - Aquisição de Bens e Serviços
 - Autoridade Tributária e Aduaneira
+- Benefícios Fiscais
 - Cobrança de Impostos
 - Código do IVA
-- Serviços de Segurança
+- Contribuições e Impostos
+- Cooperativa
 - Direito Fiscal
 - Documento de Transporte
-- Energia Renovável
-- Entidade sem FINS Lucrativos
-- Cooperativa
-- Factura
-- Formulário Eletrónico
-- Lisboa
-- IPSS
-- Pagamento
-- Contribuições e Impostos
-- IVA
-- Santa Casa da Misericórdia
 - Documento Eletrónico
+- Energia Renovável
+- Ensino Superior
+- Entidade sem FINS Lucrativos
+- Factura
+- Forças Armadas
+- Formulário Eletrónico
 - Instituto da Conservação da Natureza e das Florestas
 - Instituto do Turismo de Portugal
-- Forças Armadas
+- IPSS
+- IVA
+- Lisboa
+- Mercadoria
+- Microempresa
+- Pagamento
 - Pagamento a Prestações
-- Transporte de Mercadorias
+- Pequenas e Médias Empresas
+- Plataforma Eletrónica
 - Prazo
 - Procedimento Tributário
 - Produção de Energia Elétrica
-- Microempresa
-- Pequenas e Médias Empresas
-- Ensino Superior
-- Benefícios Fiscais
 - Restituição de Impostos
+- Santa Casa da Misericórdia
 - Serviço Nacional de Bombeiros
-- Mercadoria
+- Serviços de Segurança
 - Sistema Nacional de Ciência e Tecnologia
 - Transacção Comercial
+- Transporte de Mercadorias
 - Tributação
-- Plataforma Eletrónica
 relationships:
 - type: cites
   target: celex:32022L0890
@@ -146,16 +146,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/331-d/2021/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/331-d/2021/12/31/p/dre
+- type: cites
+  target: pt:dre:107725088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118406929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176800374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176908209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667554:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:11Z'
   warnings: []
   errors: []
 ---
@@ -246,7 +286,9 @@ n) As pessoas singulares ou coletivas referidas na alínea i) do artigo 1.º que
 
 5 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -274,7 +316,9 @@ e) [...]
 
 8 - [...]
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...]
 
@@ -318,7 +362,9 @@ e) [...]
 
 21 - [...]
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...]
 
@@ -424,7 +470,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º e 6.º do [Decreto-Lei n.º 84/2017](https://d
 
 O presente decreto-lei regula o benefício concedido às Forças Armadas, às forças e serviços de segurança, aos bombeiros, à Santa Casa da Misericórdia de Lisboa, às instituições particulares de solidariedade social, às instituições de ensino superior e às entidades sem fins lucrativos do sistema nacional de ciência e tecnologia, ao Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), e às entidades com a classificação portuguesa de atividades económicas principal '82300 - Organização de feiras, congressos e outros eventos similares', através da restituição total ou parcial do montante equivalente ao imposto sobre o valor acrescentado (IVA) suportado em determinadas aquisições de bens e serviços.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]
 
@@ -448,7 +496,9 @@ iv) Despesas relativas a imóveis ou parte de imóveis e seu equipamento, destin
 
 2 - [...]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]
 
@@ -458,7 +508,9 @@ b) [...]
 
 c) Às entidades e para os bens previstos nas alíneas d) e e) do n.º 1 do artigo anterior, sem qualquer limite.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 [...]
 
@@ -468,7 +520,9 @@ b) [...]
 
 c) 50 % do IVA suportado, na medida em que este não seja dedutível nos termos da alínea d) do n.º 2 do artigo 21.º do Código do IVA, nos casos previstos na alínea e) do n.º 1 do artigo 2.º
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 [...]
 
@@ -502,7 +556,9 @@ Regime excecional de flexibilização de obrigações fiscais relativas a 2022
 
 4 - Ao cumprimento das obrigações nos termos do número anterior aplica-se, com as necessárias adaptações, o disposto nos n.os 2 e 3 do artigo 16.º-A.
 
-###### Artigo 16.º-C — Regime complementar de diferimento de obrigações fiscais
+Artigo 16.º-C
+
+Regime complementar de diferimento de obrigações fiscais
 
 1 - As obrigações previstas no n.º 1 do artigo 27.º do Código do IVA podem ser cumpridas:
 
@@ -546,12 +602,14 @@ No âmbito da atividade de produção de eletricidade a partir de fontes de ener
 
 Visto e aprovado em Conselho de Ministros de 30 de novembro de 2022. - Mariana Guimarães Vieira da Silva - António Manuel Veiga dos Santos Mendonça Mendes.
 
-**Promulgado em 13 de dezembro de 2022.**
+Promulgado em 13 de dezembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de dezembro de 2022.**
+Referendado em 14 de dezembro de 2022.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+115980234

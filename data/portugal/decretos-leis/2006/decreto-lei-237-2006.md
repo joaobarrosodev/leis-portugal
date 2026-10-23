@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/237/2006/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2006-545618
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8704ce1b9854c637f5a74423bd268d4cb573b66451b20845f157d9adbe93e4eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c0f6177600f40f21d43e7eba4acff6bbc0a04ee87fd02f5cd179347d13c2d06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Material Electromagnético
 - Certificado de Conformidade
 - Direcção Geral de Viação
+- Equipamento de Veículo
 - Especificação Técnica
 - Homologação
-- Veículo
-- Equipamento de Veículo
+- Material Electromagnético
 - Produtor
 - Regime Jurídico
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:502980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:610216:por
+  label: "Alterado o anexo I e revogados o art. 39º e o anexo XIV pelo DEC LEI.11/2010.12.02.2010.MOPTC, DR.IS [30] de 12.02.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2010-610216
+  date: '2010-02-12'
+- type: amended_by
+  target: pt:dre:502980:por
+  label: "Dada nova redação ao anexo I do presente diploma (alterado pelo Dec Lei 11/2010 de 12-fev) pelo DEC LEI.148/2013.24.10.2013.MECO,\
+    \ DR.IS [206] de 24.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2013-502980
+  date: '2013-10-24'
 - type: cites
   target: celex:31970L0156
   label: null
@@ -126,13 +138,13 @@ relationships:
 article_structure:
   article_count: 42
   section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:15Z'
   warnings: []
   errors: []
 ---
@@ -621,21 +633,21 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Outubro de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 21 de Novembro de 2006.**
+Promulgado em 21 de Novembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 22 de Novembro de 2006.**
+Referendado em 22 de Novembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (referente ao n.º 1 do artigo 6.º, n.º 1 do artigo 15.º e artigos 29.º e 30.º)
 
 1 - Aplicabilidade do presente decreto-lei aos SCE:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
 
 2 - Todos os SCE conformes com um tipo aprovado ao abrigo do presente decreto-lei devem ostentar uma marca de homologação CE.
 
@@ -699,7 +711,7 @@ Quadro 1
 
 Imunidade dos SCE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
 
 4 - O ensaio com vista à determinação das radiações do SCE representativo do tipo deve ser efectuado pelos métodos de acordo com a norma ISO 7637-2: DIS2002, conforme descrito no anexo XXI, com os níveis apresentados no seguinte quadro:
 
@@ -707,7 +719,7 @@ Quadro 2
 
 Amplitude máxima de impulsos autorizada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
 
 ## ANEXO II — Lista de normas referidas no presente decreto-lei
 
@@ -725,23 +737,23 @@ Amplitude máxima de impulsos autorizada
 
 7) ISO 11451 «Road vehicles - Electrical disturbances by narrowband radiated electromagnetic energy - Vehicle test methods» (Veículos rodoviários - Interferências eléctricas por radiações electromagnéticas em banda estreita - Métodos de ensaio de veículos):
 
-# Parte 1: Considerações gerais e definições (ISO 11451-1: 3.ª edição, 2005)
+Parte 1: Considerações gerais e definições (ISO 11451-1: 3.ª edição, 2005)
 
-# Parte 2: Fonte de radiação exterior ao veículo (ISO 11451-2: 3.ª edição, 2005)
+Parte 2: Fonte de radiação exterior ao veículo (ISO 11451-2: 3.ª edição, 2005)
 
-# Parte 4: Injecção de corrente de massa (ICM) (ISO 11451-4: 1.ª edição, 1995)
+Parte 4: Injecção de corrente de massa (ICM) (ISO 11451-4: 1.ª edição, 1995)
 
 8) ISO 11452 «Road vehicles - Electrical disturbances by narrowband radiated electromagnetic energy - Component test methods» (Veículos rodoviários - Interferências eléctricas por radiações electromagnéticas em banda estreita - Métodos de ensaio de componentes)
 
-# Parte 1: Considerações gerais e definições (ISO 11452-1: 3.ª edição, 2005)
+Parte 1: Considerações gerais e definições (ISO 11452-1: 3.ª edição, 2005)
 
-# Parte 2: Câmara absorvente (ISO 11452-2: 2.ª edição, 2004)
+Parte 2: Câmara absorvente (ISO 11452-2: 2.ª edição, 2004)
 
-# Parte 3: Célula de modo electromagnético transversal (TEM) (ISO 11452-3: 2.ª edição, 2001)
+Parte 3: Célula de modo electromagnético transversal (TEM) (ISO 11452-3: 2.ª edição, 2001)
 
-# Parte 4: Injecção de corrente de massa (ICM) (ISO 11452-4: 3.ª edição, 2005)
+Parte 4: Injecção de corrente de massa (ICM) (ISO 11452-4: 3.ª edição, 2005)
 
-# Parte 5: Stripline (ISO 11452-5: 2.ª edição, 2002)
+Parte 5: Stripline (ISO 11452-5: 2.ª edição, 2002)
 
 9) Regulamento das Radiocomunicações, UIT, edição de 2001.
 
@@ -749,43 +761,43 @@ Amplitude máxima de impulsos autorizada
 
 Limites de referência em banda larga dos veículos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
 
 ## ANEXO IV — (referente ao n.º 2 do artigo 18.º)
 
 Limites de referência em banda larga dos veículos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
 
 ## ANEXO V — (referente ao n.º 1 do artigo 20.º)
 
 Limites de referência em banda estreita dos veículos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
 
 ## ANEXO VI — (referente ao n.º 2 do artigo 20.º)
 
 Limites de referência em banda estreita dos veículos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
 
 ## ANEXO VII — (referente ao n.º 1 do artigo 24.º)
 
 Subconjuntos eléctricos/electrónicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
 
 ## ANEXO VIII — (referente ao n.º 1 do artigo 26.º)
 
 Subconjuntos eléctricos/electrónicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
 
 ## ANEXO IX — (referente ao n.º 3 do artigo 15.º)
 
 Modelo de marca de homologação CE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
 
 O SCE com esta marca de homologação CE é um dispositivo homologado na Alemanha (e1) com o número de homologação de base 0148. Os dois primeiros algarismos (03) indicam que o dispositivo está em conformidade com os requisitos da Directiva [72/245/CE](https://data.europa.eu/eli/dir/1972/245/oj?locale=pt)[72/245/CEE](https://data.europa.eu/eli/dir/1972/245/oj?locale=pt), na sua última redacção.
 
@@ -949,21 +961,21 @@ Nome e endereço do eventual representante autorizado: ...
 
 12.7 - Quadro da instalação e utilização de transmissores de radiofrequências nos veículos, se aplicável (ver n.os 9 a 11 do artigo 5.º):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
 
 O requerente da homologação deve também fornecer, quando adequado:
 
 12.7.1 - Veículo equipado com equipamentos de radar de curto alcance na banda dos 24 GHz: sim/não/opcional (riscar o que não interessa)
 
-## Apêndice 1
+Apêndice 1
 
 Uma lista com marcas e tipos de todos os componentes eléctricos e ou electrónicos abrangidos pelo presente decreto-lei [ver alíneas j) e l) do artigo 3.º] e não indicadas anteriormente.
 
-## Apêndice 2
+Apêndice 2
 
 Esquemas ou desenho da disposição geral dos componentes eléctricos e ou electrónicos (abrangidos pelo presente decreto-lei) e da disposição geral dos feixes de cabos.
 
-## Apêndice 3
+Apêndice 3
 
 Descrição do veículo escolhido para representar o modelo
 
@@ -973,7 +985,7 @@ Condução à esquerda ou à direita:
 
 Distância entre eixos:
 
-## Apêndice 4
+Apêndice 4
 
 Relatórios de ensaios relevantes fornecidos pelo fabricante e provenientes de um laboratório de ensaios acreditado de acordo com a norma ISO 17025 e reconhecido pela autoridade de homologação para efeitos de elaboração do certificado de homologação.
 
@@ -1013,11 +1025,11 @@ Nome e endereço do eventual representante autorizado: ...
 
 3 - Tensão nominal do sistema eléctrico: ... V, terra positivo/negativo (ver nota 1)
 
-## Apêndice 1
+Apêndice 1
 
 Descrição do SCE escolhido para representar o tipo (diagrama de blocos electrónicos e lista dos principais componentes constitutivos do SCE (por exemplo, marca e tipo de microprocessador, cristal, etc.).
 
-## Apêndice 2
+Apêndice 2
 
 Relatórios de ensaios relevantes fornecidos pelo fabricante e provenientes de um laboratório de ensaios acreditado de acordo coma norma ISO 17025 e reconhecida pela autoridade de homologação para efeitos de elaboração do certificado de homologação.
 
@@ -1033,7 +1045,7 @@ MODELO
 
 CERTIFICADO DE HOMOLOGAÇÃO CE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
 
 Comunicação relativa a:
 
@@ -1087,7 +1099,7 @@ Nome e endereço do eventual representante autorizado: ...
 
 (nota 1) Riscar o que não interessa.
 
-## Apêndice à homologação CE de um modelo de veículo no que diz respeito à Directiva [72/245/CE](https://data.europa.eu/eli/dir/1972/245/oj?locale=pt)[72/245/CEE](https://data.europa.eu/eli/dir/1972/245/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva [2005/83/CE](https://data.europa.eu/eli/dir/2005/83/oj?locale=pt) da Comissão
+Apêndice à homologação CE de um modelo de veículo no que diz respeito à Directiva [72/245/CE](https://data.europa.eu/eli/dir/1972/245/oj?locale=pt)[72/245/CEE](https://data.europa.eu/eli/dir/1972/245/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva [2005/83/CE](https://data.europa.eu/eli/dir/2005/83/oj?locale=pt) da Comissão
 
 1 - Informações adicionais: ...
 
@@ -1113,7 +1125,7 @@ MODELO
 
 CERTIFICADO DE HOMOLOGAÇÃO CE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
 
 Comunicação relativa a:
 
@@ -1175,7 +1187,7 @@ Nome e endereço do eventual representante autorizado: ...
 
 (nota 2) Se os meios de identificação de tipo contiverem caracteres não relevantes para a descrição do componente ou da unidade técnica abrangidos por este certificado de homologação, esses caracteres devem ser representados no documentação por meio do símbolo «?» (por exemplo, ABC??123??).
 
-## Apêndice ao certificado de homologação CE n.º ... relativo à homologação de um tipo de subconjunto eléctrico/electrónico no que diz respeito à Directiva [72/245/CE](https://data.europa.eu/eli/dir/1972/245/oj?locale=pt)[72/245/CEE](https://data.europa.eu/eli/dir/1972/245/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva [2005/83/CE](https://data.europa.eu/eli/dir/2005/83/oj?locale=pt) da Comissão
+Apêndice ao certificado de homologação CE n.º ... relativo à homologação de um tipo de subconjunto eléctrico/electrónico no que diz respeito à Directiva [72/245/CE](https://data.europa.eu/eli/dir/1972/245/oj?locale=pt)[72/245/CEE](https://data.europa.eu/eli/dir/1972/245/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva [2005/83/CE](https://data.europa.eu/eli/dir/2005/83/oj?locale=pt) da Comissão
 
 1 - Informações adicionais: ...
 
@@ -1337,7 +1349,7 @@ Se um veículo tiver um comprimento superior a 12 m e/ou uma largura superior a 
 
 Este ponto define as condições mínimas de ensaio e os critérios de reprovação do veículo aos ensaios de imunidade. Outros sistemas do veículo susceptíveis de afectarem as funções relacionadas com a imunidade devem ser submetidos a ensaio de forma acordada entre o fabricante e o serviço técnico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
 
 2.1.3 - Todo o equipamento que possa ser ligado de forma permanente pelo condutor ou pelo passageiro deve encontrar-se no estado normal de funcionamento.
 
@@ -1443,7 +1455,7 @@ Zona de ensaio em campo livre: limite da zona de ensaio dos subconjuntos eléctr
 
 Superfície horizontal desimpedida isenta de reflexão electromagnética
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
 
 ## ANEXO XIX — (referente aos artigos 25.º e 26.º)
 
@@ -1633,19 +1645,19 @@ O feixe de cabos principal e os cabos dos sensores/accionadores deve subir na ve
 
 Ensaio com stripline de 800 mm
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
 
 Figura 2
 
 Dimensões do stripline de 800mm
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
 
 ## ANEXO XX-B — Dimensões típicas de uma célula TEM
 
 O quadro a seguir mostra as dimensões de uma célula com limites de frequência superior especificados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
 
 ## ANEXO XXI — (referente aos artigos 29.º e 30.º)
 

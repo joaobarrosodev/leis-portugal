@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 85/1979, 1º Suplemento, Série I de 1979-04-11
   number: '85'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 594-(13) a 594-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/04/08501/00130014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/78-1979-515843
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:58:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 930baad3b1ce2ef6ca97da0ffebd5e96881a9cd55b7bb438c8d58c636f449b35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64bb36fcb7109dfd83b4865882dd5ce0f277804d3c20bd2b277a51bffe563825
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:58:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- EPAC
+- Farinha
+- Semola
+- Subsídio
+- Trigo
 relationships:
 - type: amended_by
   target: pt:dre:628054:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:656378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656404:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:628054:por
+  label: Revogado pelo(a) Despacho Normativo n.º 58/80 - Diário da República n.º 43/1980, 1º Suplemento, Série I de 1980-02-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/58-1980-628054
+  date: '1980-02-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:58:07Z'
   warnings: []
   errors: []
 ---

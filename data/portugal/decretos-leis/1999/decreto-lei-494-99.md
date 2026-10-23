@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/494/1999/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/494-1999-684844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:13:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 692a872d33a21061e1a3bde0a8ada89c632e96f48651581a19239d342579ce11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee7c1a9891f3dda662b7ff3cb3ac6bbf750c32a10fa4e0b82964e1ab2712f044
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:13:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,38 +67,54 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Crime
 - Batata
-- Multa
-- Tomate
+- Controlo Sanitário
+- Crime
 - Definição de Competências
 - Direcção Geral de Protecção das Culturas
 - Direcção Regional de Agricultura
-- Controlo Sanitário
 - Fiscalização
 - Legume de Fruto
-- Proteção Fitossanitária
+- Multa
 - Produção Agrícola
 - Produção Vegetal
+- Proteção Fitossanitária
+- Tomate
 relationships:
 - type: amended_by
   target: pt:dre:635844:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:141854:por
+  label: "Mantido em vigor pelo DEC LEI.154/2005.06.09.2005.MADRP, DR.IS-A [171] de 06.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2005-141854
+  date: '2005-09-06'
 - type: cites
   target: celex:31998L0057
   label: null
   source: http://data.europa.eu/eli/dir/1998/57/oj
+- type: corrected_by
+  target: pt:dre:249990:por
+  label: "Rectificado pela DECL-RECT.23-G/99.1999.12.31.PCM DR.IS-A [303]2º Supl de 31/Dez/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/23-g-1999-249990
+  date: '1999-12-31'
+- type: repealed_by
+  target: pt:dre:635844:por
+  label: "Revogado pelo DEC LEI.249/2007.27.06.2007.MADRP, DR.IS [122] de 27.06.2007, remetendo para o próprio diploma todas\
+    \ as referências feitas ao presente.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-2007-635844
+  date: '2007-06-27'
 article_structure:
   article_count: 11
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:13:53Z'
   warnings: []
   errors: []
 ---
@@ -235,15 +251,15 @@ A iniciativa e a instrução dos processos de contra-ordenação são da compet�
 
 Visto e aprovado em Conselho de Ministros de 1 de Outubro de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Luís Medeiros Vieira.
 
-**Promulgado em 22 de Outubro de 1999.**
+Promulgado em 22 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Outubro de 1999.**
+Referendado em 26 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I
 
@@ -263,7 +279,7 @@ Nos apêndices ao presente anexo, são fornecidos pormenores para a preparação
 
 Quadro síntese do esquema de ensaio
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 #### SECÇÃO I — Aplicação do esquema de ensaio
 
@@ -271,13 +287,13 @@ Quadro síntese do esquema de ensaio
 
 Apresentação do fluxograma
 
-[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 2 - Detecção e identificação de Ralstonia solanacearum em amostras de tubérculos de batateira. - Este procedimento destina-se à detecção de infecções latentes em tubérculos de batateira por um ou, de preferência, mais testes de rastreio que, se positivos, são complementados pelo isolamento do patogéneo, seguido, no caso do isolamento de colónias típicas, da identificação de uma cultura pura como Ralstonia solanacearum.
 
 Apresentação do fluxograma
 
-[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 #### SECÇÃO II — Diagnóstico do mal murcho em tubérculos de batateira e em plantas de batateira e de tomateiro
 
@@ -377,7 +393,7 @@ Nota. - Incluir estirpes apropriadas de controlo para cada teste utilizado.
 
 As seguintes características fenotípicas de Ralstonia solanacearum estão universalmente presentes ou ausentes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 Os meios de cultura e métodos de ensaio estão descritos em Lelliott & Stead, 1987.
 
@@ -413,17 +429,17 @@ a) Determinação da biovar:
 
 A Ralstonia solanacearum é dividida em biovares com base na capacidade de produzir ácido a partir de três álcoois de hexose e três açúcares (Hayward, 1964 & 1994):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 Testes suplementares diferenciam a biovar 2 em subfenótipos (Hayward, 1994):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 b) Determinação da raça:
 
 A raça (Buddenhagen et al., 1962) é determinada com base no teste de patogenicidade em plantas de tomateiro ou beringela e em plantas de tabaco, bem como através de um teste de avaliação da reacção de hipersensibilidade (HR) em folhas de tabaco (Lozano & Sequeira, 1970):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 A caracterização da raça através de testes de patogenicidade ou hipersensibilidade em folhas de tabaco pode não ser muito fiável, pelo que poderá ser deduzida a partir da biovar e do hospedeiro natural de origem.
 
@@ -551,7 +567,7 @@ Uma diluição padrão do sedimento ressuspenso
 
 (T = título)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 Figura n.º 2
 
@@ -559,7 +575,7 @@ Preparação da lâmina de acordo com os n.os 2.1, alínea ii), e 2.3, alínea i
 
 FITC - Diluição padrão do anti-soro
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 2.3.1 - Dispor as lâminas sobre papel de filtro humedecido.
 
@@ -681,7 +697,7 @@ Em alternativa, transferir 90 (mi)l do sedimento ressuspenso para um microtubo c
 
 a) Para um volume de reacção de 50 (mi)l:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 b) Para mais reacções:
 
@@ -823,13 +839,13 @@ O bio-ensaio é positivo se as plântulas ensaiadas estiverem infectadas por Ral
 
 8 - Teste de patogenicidade (v. secção II, n.º 4.3).
 
-## APÊNDICE N.º 1
+APÊNDICE N.º 1
 
 Meios nutritivos para isolamento e cultura de Ralstonia solanacearum
 
 Ágar nutritivo (NA)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 Preparar volumes de 0,5 l de meio em frascos de 1 l.
 
@@ -841,7 +857,7 @@ Arrefecer a 50ºC. Preparar placas.
 
 Ágar de levedura-peptona-glucose (YPGA)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 Preparar volumes de 0,5 l de meio em frascos de 1 l.
 
@@ -853,7 +869,7 @@ Arrefecer a 50ºC. Preparar placas.
 
 Ágar de sacarose e peptona (SPA)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 Preparar volumes de 0,5 l de meio em frascos de 1 l.
 
@@ -865,7 +881,7 @@ Arrefecer a 50ºC. Preparar placas.
 
 Meio de tetrazólio de Kelman
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 Preparar volumes de 0,5 l de meio em frascos de 1 l.
 
@@ -879,7 +895,7 @@ Adicionar o volume necessário de solução aquosa de cloreto de trifenil tetraz
 
 Preparar placas.
 
-## APÊNDICE N.º 2
+APÊNDICE N.º 2
 
 Materiais para a preparação das amostras
 
@@ -887,7 +903,7 @@ Tampão de maceração: tampão fosfato 50 mM, pH 7,0
 
 Este tampão é utilizado para maceração dos tecidos.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 Dissolver os ingredientes e verificar o pH. Preparar as alíquotas que forem consideradas necessárias.
 
@@ -897,7 +913,7 @@ Para a realização do teste PCR directo, recomenda-se a adição de polivinilpi
 
 No caso de se utilizarem os procedimentos de homogeneização com Waring Blender ou com Ultra Turrax para a maceração dos hilos de batata, recomenda-se a adição de um antifloculante, antiespuma ou antioxidante.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 Esterilizar separadamente em autoclave. Adicionar de forma a obter a concentração desejada.
 
@@ -905,13 +921,13 @@ Tampão de ressuspensão: tampão fosfato 10 mM, pH 7,2
 
 Este tampão é utilizado para a ressuspensão e diluição dos sedimentos dos hilos de batata.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 Dissolver os ingredientes e verificar o pH. Preparar as alíquotas que forem consideradas necessárias.
 
 Esterilizar em autoclave a 121ºC durante quinze minutos.
 
-## APÊNDICE N.º 3
+APÊNDICE N.º 3
 
 Materiais para o teste IF
 
@@ -919,7 +935,7 @@ Tampão IF: tampão fosfato salino (PBS) 10 mM, pH 7,2
 
 Este tampão é utilizado para a diluição dos anti-soros.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 Dissolver os ingredientes e verificar o pH. Preparar as alíquotas que forem consideradas necessárias.
 
@@ -933,9 +949,9 @@ Tampão fosfato com glicerol 0,1 M, pH 7,6
 
 Este tampão é utilizado como fluido de montagem sobre os poços das lâminas de IF, para aumentar a fluorescência.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
-## APÊNDICE N.º 4
+APÊNDICE N.º 4
 
 Determinação do nível de contaminação no teste IF
 
@@ -965,11 +981,11 @@ G = ampliação da objectiva (100 vezes, 40 vezes, etc.).
 
 4 - De 2, vem que:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 de 3, vem que:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 Contar o número de células fluorescentes típicas por campo (c).
 
@@ -987,13 +1003,13 @@ y = volume de sedimento no poço;
 
 F = factor de diluição do sedimento.
 
-## APÊNDICE N.º 5
+APÊNDICE N.º 5
 
 Materiais para o teste ELISA
 
 Tampão carbonato 2 x concentrado para revestimento, pH 9,6
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 Dissolver os ingredientes e verificar o pH. Preparar as alíquotas que forem consideradas necessárias.
 
@@ -1003,7 +1019,7 @@ Pode ser acrescentado, como antioxidante, sulfito de sódio com uma concentraç�
 
 Tampão fosfato salino (PBS) 10 x concentrado, pH 7,4
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 Dissolver os ingredientes e verificar o pH. Preparar as alíquotas que forem consideradas necessárias.
 
@@ -1011,15 +1027,15 @@ Esterilizar em autoclave a 121ºC durante quinze minutos.
 
 Tampão fosfato salino - Tween (PBS-T)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 Tampão de bloqueio (anticorpo) - deve ser preparado na altura da utilização
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 Solução de substrato de fosfatase alcalina, pH 9,8
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 Misturar e acertar a pH 9,8 com HCl concentrado.
 
@@ -1029,7 +1045,7 @@ Juntar 0,2 g de MgCl(índice 2).
 
 Dissolver duas pastilhas de 5 mg de substrato de fosfatase (Sigma) por cada 15 ml de solução.
 
-## APÊNDICE N.º 6
+APÊNDICE N.º 6
 
 Materiais para o teste PCR
 
@@ -1041,13 +1057,13 @@ Sequência dos oligonucleótidos
 
 Os materiais encontram-se referidos em Seal et al., 1993.
 
-## APÊNDICE N.º 7
+APÊNDICE N.º 7
 
 Materiais para os testes de sementeira em placas com meio selectivo e testes de enriquecimento
 
 Meio selectivo SMSA (Engelbrecht, 1994, modificado por Elphinstone et al., 1996)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81718189.pdf)
 
 Preparar volumes de 0,5 l de meio em frascos de 1 l.
 

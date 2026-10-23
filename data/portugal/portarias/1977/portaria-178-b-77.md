@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 75/1977, 1º Suplemento, Série I de 1977-03-30
   number: '75'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 646-(2) a 646-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/07501/00020002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/178-b-1977-216140
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T05:16:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2e927a99e7bcc50f35e5bde4c48a99adf24326bdcda5ef6c323489e597ccc47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29ea6344ce521704e5f14cc2e38a256e5d62f2deac80e8162621b5fcfbd077bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:16:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- AGA
+- Álcool
+- Comércio
+- Fixação de Preços
+- Preço de Venda
 relationships:
 - type: amended_by
   target: pt:dre:280690:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:408349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681819:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:280690:por
+  label: Revogada, pelo(a) Portaria n.º 694/77 - Diário da República n.º 263/1977, Série I de 1977-11-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/694-1977-280690
+  date: '1977-11-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:16:03Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +127,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comérci
 
 1.º - 1. São fixados os seguintes preços por litro de álcool etílico a vender no continente pela Administração-Geral do Açúcar e do Álcool (AGA):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/07501/00020002.pdf))](https://files.diariodarepublica.pt/1s/1977/03/07501/00020002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/07501/00020002.pdf)
 
 2. Consideram-se incluídas no grupo A as farmácias e drogarias; no grupo B, os hospitais, casas de saúde e similares administrados pelo Estado ou corpos administrativos, estabelecimentos fabris do Estado, pessoas colectivas de utilidade pública administrativa, laboratórios, explorações agrícolas, instalações frigoríficas, fabricantes de produtos químicos e de tintas e vernizes; no grupo C, os fabricantes de bebidas espirituosas de origem não vínica, de perfumes, cosméticos e outros produtos de higiene pessoal, e ainda outras entidades utilizadoras de álcool como matéria subsidiária na sua actividade, não incluídas no grupo B.
 
@@ -113,7 +135,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comérci
 
 2.º - 1. Os preços de venda ao público no continente são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/07501/00020002.pdf))](https://files.diariodarepublica.pt/1s/1977/03/07501/00020002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/07501/00020002.pdf)
 
 2. Os preços a que se refere o número anterior incluem todas as importâncias correspondentes aos encargos de comercialização, abrangendo o lucro e o imposto de transacções.
 

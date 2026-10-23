@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/43-1990-557823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T04:07:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 100d728ac5ea852c31a300f37ee20119b1066a27bf5ddb0a4a23507f6867ad73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d8c4b996dc08a2a093ce24ed1a6f895f25b9dd224cec992552bc4f5ce9b324a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:07:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ankara
+- Embaixador
+- Exoneração
+- Turquia
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:07:35Z'
   warnings: []
   errors: []
 ---
@@ -84,16 +88,16 @@ validation:
 
 de 12 de Setembro
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea a), da Constituição, o seguinte:
 
 É exonerado, sob proposta do Governo, o embaixador José Manuel Borges Gama Cornélio da Silva do cargo de embaixador de Portugal em Ankara.
 
-**Assinado em 10 de Julho de 1990.**
+Assinado em 10 de Julho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Julho de 1990.**
+Referendado em 13 de Julho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro dos Negócios Estrangeiros, João de Deus Rogado Salvador Pinheiro.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro dos Negócios Estrangeiros, João de Deus Rogado Salvador Pinheiro.

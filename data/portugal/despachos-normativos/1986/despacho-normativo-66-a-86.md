@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 179/1986, 1º Suplemento, Série I de 1986-08-06
   number: '179'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1954-(3) a 1954-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/08/17901/00030003.pdf
 entry_into_force_dates: []
@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/66-a-1986-214006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T07:36:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7dcced354ce87fb3bbbb920b78ae1f981584174113f89207a18c5d86ce1f6fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14dcae341e057229fdfeae32c1d612e009d6bfb12553d6ffd81a5f6b3008fda9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:36:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carne
+- Carne de Suíno
+- CEE
+- Contingentação
+- Importação
+- Organização Comum de Mercado
+- Suinicultura
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:36:01Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +104,7 @@ Nestes termos, ao abrigo do disposto no n.º 4.º da Portaria n.º 63-J/86, de 1
 
 2 - A distribuição do contingente fixado no número anterior, quer pelas diferentes posições pautais dos produtos constantes do mapa anexo ao Decreto-Lei n.º 516/85, quer pelas diferentes origens, é feita nos termos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/17901/00030003.pdf))](https://files.diariodarepublica.pt/1s/1986/08/17901/00030003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/17901/00030003.pdf)
 
 3 - Se os pedidos de importação de animais vivos não esgotarem o contingente, o respectivo saldo, até ao máximo de 400 t, poderá acrescer ao contingente de carnes frescas, refrigeradas ou congeladas.
 

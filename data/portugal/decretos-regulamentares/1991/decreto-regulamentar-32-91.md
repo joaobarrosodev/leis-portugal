@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/32/1991/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/32-1991-633557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:18:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46430b48135139e51b3b516eacc39424943178e9962f152b0fddc68c1e743ae2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4b0837577e7a9654e949e3ccf951700e0d10975768fdeb13ef15567adf20a62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:18:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Lisboa
 - ÁREA Crítica de Recuperação e Reconversão Urbanística
+- Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:685658:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:685658:por
+  label: "Alterada a área crítica de recuperação e reconversão urbanística delimitada no presente diploma pelo DR.48/97.1997.11.18.MEPAT\
+    \ DR.IS-B [267]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/48-1997-685658
+  date: '1997-11-18'
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:18:48Z'
   warnings: []
   errors: []
 ---
@@ -100,24 +110,24 @@ Assim:
 
 Ao abrigo do disposto nos artigos 27.º e 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É declarada área crítica de recuperação e reconversão urbanística a zona do Bairro Alto, na cidade de Lisboa, de acordo com a área delimitada na planta anexa ao presente diploma e que dele faz parte integrante.
+Artigo 1.º É declarada área crítica de recuperação e reconversão urbanística a zona do Bairro Alto, na cidade de Lisboa, de acordo com a área delimitada na planta anexa ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º É concedido à Câmara Municipal de Lisboa, nos termos do n.º 1 do artigo 27.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e legislação complementar, o direito de preferência nas transmissões a título oneroso, entre particulares, dos terrenos ou edifícios situados na zona referida no artigo anterior.
+Art. 2.º É concedido à Câmara Municipal de Lisboa, nos termos do n.º 1 do artigo 27.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e legislação complementar, o direito de preferência nas transmissões a título oneroso, entre particulares, dos terrenos ou edifícios situados na zona referida no artigo anterior.
 
-###### Art. 3.º Compete à Câmara Municipal de Lisboa promover as acções e o processo de recuperação e reconversão urbanística da zona referida no artigo 1.º
+Art. 3.º Compete à Câmara Municipal de Lisboa promover as acções e o processo de recuperação e reconversão urbanística da zona referida no artigo 1.º
 
 Presidência do Conselho de Ministros, 15 de Abril de 1991.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 16 de Maio de 1991.**
+Promulgado em 16 de Maio de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Maio de 1991.**
+Referendado em 21 de Maio de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/06/129b00/30643065.pdf))](https://files.diariodarepublica.pt/1s/1991/06/129b00/30643065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/06/129b00/30643065.pdf)

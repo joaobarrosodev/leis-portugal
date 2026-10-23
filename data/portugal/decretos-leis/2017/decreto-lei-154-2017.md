@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/24800/0671206713.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/154/2017/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2017-114420276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f2564c8432276840d42735f5185ee70c5985bcecadb40ef1d8bfc14512a67b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ca42d777932e81f9b4fb026fe4f7405fac898efe202fd732ecd9af58ea51755
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ subjects:
 - Atividade Industrial
 - Câmara do Comércio e Indústria
 - Certificado de Origem
-- Comércio Interno
-- Comércio Externo
-- Definição de Competências
 - Comércio
+- Comércio Externo
+- Comércio Interno
+- Definição de Competências
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/244/1992/10/29/p/dre
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1066/1995/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1066/1995/08/30/p/dre
+- type: cites
+  target: pt:dre:217704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548002:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:17Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +143,9 @@ Os artigos 2.º, 5.º, 7.º, 8.º e 11.º do [Decreto-Lei n.º 244/92](https://d
 
 2 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - As câmaras de comércio e indústria são reconhecidas pelo membro do Governo responsável pela área da economia.
 
@@ -141,7 +155,9 @@ Os artigos 2.º, 5.º, 7.º, 8.º e 11.º do [Decreto-Lei n.º 244/92](https://d
 
 4 - A portaria que reconhecer a câmara de comércio e indústria pode definir uma área territorial em que esta exercerá as suas atribuições.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Os critérios em que assenta o reconhecimento das câmaras de comércio e indústria são os seguintes:
 
@@ -161,7 +177,9 @@ g) [...].
 
 2 - Na apreciação dos pedidos de reconhecimento são, ainda, valoradas, a complexidade e diversidade das funções desempenhadas, incluindo as decorrentes das participações de capital, de protocolos de colaboração com outras entidades nacionais e estrangeiras e de representação em estruturas internacionais.
 
-###### Artigo 8.º — Pedido de reconhecimento
+Artigo 8.º
+
+Pedido de reconhecimento
 
 1 - O pedido de reconhecimento deverá ser dirigido ao membro do Governo responsável pela área da economia, acompanhado dos seguintes elementos:
 
@@ -177,7 +195,9 @@ e) [...].
 
 2 - [...].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Pode ser retirada a qualidade de câmara de comércio e indústria que haja sido atribuída quando deixem de se verificar os pressupostos e requisitos exigidos pelo presente decreto-lei.
 
@@ -199,12 +219,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de novembro de 2017. - Maria Manuel de Lemos Leitão Marques - Ana Paula Baptista Grade Zacarias.
 
-**Promulgado em 18 de dezembro de 2017.**
+Promulgado em 18 de dezembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de dezembro de 2017.**
+Referendado em 21 de dezembro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111022174

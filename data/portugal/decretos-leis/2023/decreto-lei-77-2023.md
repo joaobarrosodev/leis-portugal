@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/09/17100/0001700129.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/77/2023/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2023-221225698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4788f83b38c3c99c74a18c3f358c0f90505249559bf199b2738d95b0303c59b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2768b9e1380924d0f6c62af5356f000b162a537a83816463a70aaa3a80f78041
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,30 @@ reuse:
 subjects:
 - Acidente de Trabalho
 - Admissão de Pessoal
-- Serviço Voluntário
 - Cálculo de Pensões
+- Contrato de Trabalho
 - Documento de Encarte
-- Exército
-- Força Aérea
-- Pensão por Incapacidade Permanente para o Trabalho
-- Marinha
 - Estatuto
 - Estatuto dos Militares das Forças Armadas
-- Serviço Militar
-- Recrutamento de Pessoal
-- Patente
+- Exército
+- Força Aérea
+- Forças Armadas
+- Gestão de Recursos Humanos
+- Incapacidade Permanente
+- Marinha
+- Militar
 - Missão de PAZ
 - Missão Humanitária
 - Missão Militar
-- Forças Armadas
+- Patente
+- Pensão por Incapacidade Permanente para o Trabalho
 - Progressão na Carreira
 - Promoção Profissional
 - Quadro Permanente das Forças Armadas
-- Contrato de Trabalho
-- Militar
+- Recrutamento de Pessoal
 - Serviço Efectivo
-- Gestão de Recursos Humanos
-- Incapacidade Permanente
+- Serviço Militar
+- Serviço Voluntário
 relationships:
 - type: amended_by
   target: pt:dre:836117871:por
@@ -121,16 +121,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/2006/02/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/2006/02/23/p/dre
+- type: cites
+  target: pt:dre:114796181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170175412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
 article_structure:
-  article_count: 318
-  section_count: 58
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 300
+  section_count: 67
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:49Z'
   warnings: []
   errors: []
 ---
@@ -237,13 +269,13 @@ c) O n.º 2 do artigo 99.º e os artigos 250.º e 253.º do EMFAR.
 
 Visto e aprovado em Conselho de Ministros de 11 de maio de 2023. - Mariana Guimarães Vieira da Silva - Mariana Guimarães Vieira da Silva - Maria Helena Chaves Carreiras - João Nuno Marques de Carvalho Mendes.
 
-**Promulgado em 10 de julho de 2023.**
+Promulgado em 10 de julho de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de julho de 2023.**
+Referendado em 12 de julho de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
 
@@ -257,7 +289,9 @@ Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidê
 
 2 - (Revogado.)
 
-###### Artigo 130.º — [...]
+Artigo 130.º
+
+[...]
 
 1 - [...]
 
@@ -271,7 +305,9 @@ b) Cabo (CAB) ou Cabo-de-Secção (CSEC);
 
 c) Primeiro-Marinheiro (1MAR) ou Cabo-Adjunto (CADJ).
 
-###### Artigo 246.º — [...]
+Artigo 246.º
+
+[...]
 
 1 - [...]
 
@@ -283,7 +319,9 @@ c) Primeiro-Marinheiro (1MAR) ou Cabo-Adjunto (CADJ).
 
 5 - Os cursos ou estágios de ingresso na categoria, cujo programa é definido por despacho do CEMA, são frequentados por militares e militares alunos com a graduação em primeiro-marinheiro.
 
-###### Artigo 248.º — [...]
+Artigo 248.º
+
+[...]
 
 [...]
 
@@ -309,7 +347,9 @@ j) [...]
 
 k) [...]
 
-###### Artigo 249.º — [...]
+Artigo 249.º
+
+[...]
 
 1 - [...]
 
@@ -319,7 +359,9 @@ k) [...]
 
 4 - [...].
 
-###### Artigo 252.º — [...]
+Artigo 252.º
+
+[...]
 
 1 - [...]
 
@@ -335,15 +377,15 @@ k) [...]
 
 (a que se refere o artigo 28.º do Estatuto)
 
-| Categorias | Subcategorias | Postos | Subcategorias | Postos | Subcategorias | Postos | Postos |
+| Categorias | Marinha | Exército | Força Aérea |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Categorias | Marinha | Marinha | Exército | Exército | Força Aérea | Força Aérea | Força Aérea |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] |  | [...] |  | [...] |  | [...] | [...] |
-| Praças |  | [...] |  | Cabo-mor Cabo-de-secção Cabo-adjunto Primeiro-cabo Segundo-cabo Soldado |  | Cabo-mor Cabo-de-secção Cabo-adjunto Primeiro-cabo Segundo-cabo Soldado | » |
+| Subcategorias | Postos | Subcategorias | Postos | Subcategorias | Postos |  |  |
+| [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
+| [...] | [...] | [...] | [...] | [...] | [...] |  |  |
+| [...] | [...] | [...] | [...] | [...] | [...] |  |  |
+| [...] | [...] |  |  |  |  |  |  |
+| [...] |  | [...] |  | [...] |  | [...] |  |
+| Praças |  | [...] |  | Cabo-mor<br>Cabo-de-secção<br>Cabo-adjunto<br>Primeiro-cabo<br>Segundo-cabo<br>Soldado |  | Cabo-mor<br>Cabo-de-secção<br>Cabo-adjunto<br>Primeiro-cabo<br>Segundo-cabo<br>Soldado | » |
 
 ## ANEXO III — (a que se refere o artigo 4.º)
 
@@ -353,10 +395,10 @@ k) [...]
 
 Oficiais do Exército
 
-| Corpo de oficiais generais/Armas serviços/Quadros especiais | Para promoção a | Funções específicas da arma/serviço | Cursos e provas | Outras condições | Tempos mínimos | Modalidade de promoção |
+| Corpo de oficiais generais/Armas<br>serviços/Quadros especiais | Para promoção a | Funções específicas<br>da arma/serviço | Cursos<br>e provas | Outras<br>condições | Tempos<br>mínimos | Modalidade<br>de promoção |
 | --- | --- | --- | --- | --- | --- | --- |
 | [...] | [...] |  |  |  |  | [...] |
-| [...] | [...] |  | [...] | [...] | [...] | [...] |
+| [...] |  | [...] | [...] | [...] | [...] |  |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
@@ -402,17 +444,17 @@ Oficiais do Exército
 
 Sargentos do Exército
 
-|  |  |  |  |  |  |  |
+| Armas Serviços | Para promoção a | Funções específicas<br>da arma/serviço | Cursos e provas | Outras condições | Tempos mínimos | Modalidade<br>de promoção |
 | --- | --- | --- | --- | --- | --- | --- |
-| Armas Serviços | Para promoção a | Funções específicas da arma/serviço | Cursos e provas | Outras condições | Tempos mínimos | Modalidade de promoção |
+|  |  |  |  |  |  |  |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] [...] (a) [...] (b) [...] | [...] [...] (a) [...] (b) [...] | [...] [...] (a) [...] (b) [...] | [...] [...] (a) [...] (b) [...] | [...] [...] (a) [...] (b) [...] | [...] [...] (a) [...] (b) [...] | [...] [...] (a) [...] (b) [...] |
+| [...]<br>[...]<br>(a) [...]<br>(b) [...] |  |  |  |  |  |  |
 
 Praças do Exército
 
-|  |  |  |  |  |  |  |
+| Armas Serviços | Para promoção a | Exercício de funções<br>ou desempenho<br>de cargos | Cursos e provas | Outras<br>condições | Tempo mínimo<br>de permanência<br>no posto anterior (anos) | Modalidades<br>de promoção |
 | --- | --- | --- | --- | --- | --- | --- |
-| Armas Serviços | Para promoção a | Exercício de funções ou desempenho de cargos | Cursos e provas | Outras condições | Tempo mínimo de permanência no posto anterior (anos) | Modalidades de promoção |
+|  |  |  |  |  |  |  |
 | Armas e serviços | Cabo-mor |  | CPCMOR (b) |  | 15 | Escolha |
 |  | Cabo-de-secção | (a) |  | (a) | 5 | Antiguidade |
 
@@ -430,11 +472,11 @@ CPCMOR - curso de promoção a cabo-mor.
 
 Oficiais da Força Aérea
 
-|  |  |  |  |  |  |  |  |
+| Especialidades | Para promoção a | Funções específicas<br>da especialidade | Horas de voo | Cursos | Outras condições | Tempos mínimos | Modalidade<br>de promoção |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Especialidades | Para promoção a | Funções específicas da especialidade | Horas de voo | Cursos | Outras condições | Tempos mínimos | Modalidade de promoção |
+|  |  |  |  |  |  |  |  |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] | [...] | [...] | [...] | [...] |  |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
@@ -495,9 +537,9 @@ CBC - curso básico de comando.
 
 Sargentos da Força Aérea
 
-|  |  |  |  |  |  |  |
+| Especialidades | Para promoção a | Funções específicas<br>da especialidade | Cursos | Outras condições | Tempos mínimos | Modalidade<br>de promoção |
 | --- | --- | --- | --- | --- | --- | --- |
-| Especialidades | Para promoção a | Funções específicas da especialidade | Cursos | Outras condições | Tempos mínimos | Modalidade de promoção |
+|  |  |  |  |  |  |  |
 | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 
 CPSCH - curso de promoção a sargento-chefe.
@@ -512,10 +554,10 @@ CPSCH - curso de promoção a sargento-chefe.
 
 Praças da Força Aérea
 
-|  |  |  |  |  |  |  |
+| Especialidades | Para promoção a | Funções específicas<br>da especialidade | Cursos e provas | Outras condições | Tempo mínimo<br>de permanência<br>no posto anterior (anos) | Modalidades<br>de promoção |
 | --- | --- | --- | --- | --- | --- | --- |
-| Especialidades | Para promoção a | Funções específicas da especialidade | Cursos e provas | Outras condições | Tempo mínimo de permanência no posto anterior (anos) | Modalidades de promoção |
-| Todas | Cabo-mor Cabo-de-secção | 2 anos (a) 2 anos (b) | CPCM (c) |  | 15 5 | Escolha Antiguidade |
+|  |  |  |  |  |  |  |
+| Todas | Cabo-mor<br>Cabo-de-secção | 2 anos (a)<br>2 anos (b) | CPCM (c) |  | 15<br>5 | Escolha<br>Antiguidade |
 
 CPCM - curso de promoção a cabo-mor.
 
@@ -537,7 +579,9 @@ a) Praças em RV, RC e RCE;
 
 b) Candidatos civis.
 
-###### Artigo 244.º-B — Modalidades de promoção
+Artigo 244.º-B
+
+Modalidades de promoção
 
 A promoção aos postos da categoria de praças processa-se nas seguintes modalidades, previstas no artigo 51.º:
 
@@ -545,7 +589,9 @@ a) Cabo-mor, por escolha;
 
 b) Cabo ou cabo-de-secção, por antiguidade.
 
-###### Artigo 244.º-C — Tempos mínimos
+Artigo 244.º-C
+
+Tempos mínimos
 
 O tempo mínimo de permanência em cada posto para acesso ao posto imediato é o seguinte:
 
@@ -553,7 +599,9 @@ a) 15 anos no posto de cabo ou cabo-de-secção;
 
 b) Cinco anos no posto de primeiro-marinheiro ou cabo-adjunto.
 
-###### Artigo 244.º-D — Ingresso em categorias superiores
+Artigo 244.º-D
+
+Ingresso em categorias superiores
 
 As praças dos QP podem concorrer à frequência de cursos ou tirocínios que habilitem ao ingresso nas categorias de sargento ou oficial, desde que satisfaçam, designadamente, as seguintes condições:
 
@@ -563,7 +611,9 @@ b) Ter idade não superior à exigida para a frequência do respetivo curso ou t
 
 c) Ficar aprovado nas provas do concurso de admissão ao curso ou tirocínio e ser selecionado para o preenchimento das vagas abertas para cada concurso.
 
-###### Artigo 252.º-A — Ingresso na categoria
+Artigo 252.º-A
+
+Ingresso na categoria
 
 1 - O ingresso na categoria de praças dos QP faz-se por habilitação com curso de formação inicial, conferente da qualificação de nível 4, no posto de cabo-adjunto.
 
@@ -575,7 +625,9 @@ c) Ficar aprovado nas provas do concurso de admissão ao curso ou tirocínio e s
 
 5 - Os cursos ou estágios de ingresso na categoria, cujo programa é definido por despacho do CEME, são frequentados por militares e militares alunos com a graduação em cabo-adjunto.
 
-###### Artigo 252.º-B — Quadros especiais
+Artigo 252.º-B
+
+Quadros especiais
 
 As praças do Exército distribuem-se pelos quadros especiais das seguintes armas e serviços:
 
@@ -605,7 +657,9 @@ v) Músicos (MUS);
 
 vi) Saúde (SAU).
 
-###### Artigo 252.º-C — Caracterização funcional dos quadros especiais
+Artigo 252.º-C
+
+Caracterização funcional dos quadros especiais
 
 De acordo com o quadro especial a que pertencem, incumbe genericamente às praças dos QP do Exército:
 
@@ -631,7 +685,9 @@ j) Do quadro especial de músicos: desenvolver atividades específicas relaciona
 
 k) Do quadro especial de saúde: desenvolver atividades específicas de cuidados de saúde, evacuação e transferência de vítimas, bem como outras atividades relacionadas com a função logística dos cuidados de saúde, tanto em unidades de saúde tipo i, ii ou iii como em outras equivalentes; executar as tarefas técnicas e logísticas que lhe sejam atribuídas, no âmbito da sua subunidade, enquadradas numa estrutura operacional e no âmbito da atividade do serviço de saúde militar; auxiliar a instrução no âmbito do serviço de saúde militar.
 
-###### Artigo 252.º-D — Cargos e funções
+Artigo 252.º-D
+
+Cargos e funções
 
 1 - Às praças do Exército incumbe exercer funções de execução nas unidades, estabelecimentos e órgãos do Exército, ou, no âmbito das Forças Armadas, em órgãos conjuntos ou combinados, bem como noutros organismos de Estado.
 
@@ -641,7 +697,9 @@ k) Do quadro especial de saúde: desenvolver atividades específicas de cuidados
 
 4 - Os cargos e funções de cada posto e especialidade são os previstos nos regulamentos internos e na estrutura orgânica das unidades, estabelecimentos, órgãos e organismos onde estas praças estiverem colocadas.
 
-###### Artigo 252.º-E — Condições especiais de promoção
+Artigo 252.º-E
+
+Condições especiais de promoção
 
 1 - As condições especiais de promoção para as praças do QP abrangem:
 
@@ -653,7 +711,9 @@ c) Outras condições de natureza específica dos quadros especiais, definidas p
 
 2 - As condições especiais de promoção para os diversos postos e classes constam do anexo iii ao presente Estatuto.
 
-###### Artigo 252.º-F — Ingresso na categoria
+Artigo 252.º-F
+
+Ingresso na categoria
 
 1 - O ingresso na categoria de praças dos QP faz-se por habilitação com curso de formação inicial, conferente da qualificação de nível 4, no posto de cabo-adjunto.
 
@@ -667,7 +727,9 @@ c) Outras condições de natureza específica dos quadros especiais, definidas p
 
 6 - Os cursos ou estágios de ingresso na categoria, cujo programa é definido por despacho do CEMFA, são frequentados por militares e militares alunos com a graduação em cabo-adjunto.
 
-###### Artigo 252.º-G — Especialidades
+Artigo 252.º-G
+
+Especialidades
 
 As praças da Força Aérea são distribuídas pelas seguintes especialidades:
 
@@ -713,7 +775,9 @@ t) Condutores auto (CAUT);
 
 u) Operadores de ciberdefesa (CIBER).
 
-###### Artigo 252.º-H — Caracterização funcional das especialidades
+Artigo 252.º-H
+
+Caracterização funcional das especialidades
 
 De acordo com a especialidade a que pertencem, incumbe às praças da Força Aérea exercer funções inerentes à sua formação e qualificação específicas, nomeadamente:
 
@@ -759,7 +823,9 @@ t) Da especialidade de condutores auto, no âmbito da condução de todos os tip
 
 u) Da especialidade de operadores de ciberdefesa, no âmbito da execução das tarefas relacionadas com a recolha, processamento, validação e análise de informações de fontes exploratórias, no domínio do ciberespaço.
 
-###### Artigo 252.º-I — Cargos e funções
+Artigo 252.º-I
+
+Cargos e funções
 
 1 - Às praças da Força Aérea incumbe exercer funções de execução nas unidades, estabelecimentos e órgãos da Força Aérea, ou, no âmbito das Forças Armadas, em órgãos conjuntos ou combinados, bem como noutros organismos de Estado.
 
@@ -769,7 +835,9 @@ u) Da especialidade de operadores de ciberdefesa, no âmbito da execução das t
 
 4 - Os cargos e funções de cada posto e especialidade são os previstos nos regulamentos internos e na estrutura orgânica das unidades, estabelecimentos e órgãos onde estas praças estiverem colocadas.
 
-###### Artigo 252.º-J — Condições especiais de promoção
+Artigo 252.º-J
+
+Condições especiais de promoção
 
 1 - As condições especiais de promoção para as praças do QP abrangem:
 
@@ -785,7 +853,9 @@ c) Tempo de serviço efetivo no exercício de funções próprias da especialida
 
 Republicação dos Estatuto dos Militares das Forças Armadas
 
-# LIVRO I — Parte geral
+## LIVRO I
+
+## Parte geral
 
 ## TÍTULO I — Disposições gerais
 
@@ -2037,9 +2107,11 @@ b) Integrado em forças fora dos quartéis ou bases, ou embarcado em navios ou a
 
 c) No desempenho de missões temporárias de serviço fora do território nacional.
 
-# LIVRO II — Dos militares dos quadros permanentes
+## LIVRO II — Dos militares dos quadros permanentes
 
-## TÍTULO I — Parte comum
+## TÍTULO I
+
+## Parte comum
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -2961,7 +3033,9 @@ c) A posição do militar na lista de antiguidade do posto a que pertence.
 
 ## TÍTULO II — Oficiais
 
-### CAPÍTULO I — Parte comum
+### CAPÍTULO I
+
+## Parte comum
 
 #### SECÇÃO I — Chefias militares
 
@@ -3651,7 +3725,9 @@ d) Licenciatura ou equivalente, ministrado em estabelecimento de ensino superior
 
 ## TÍTULO III — Sargentos
 
-### CAPÍTULO I — Parte comum
+### CAPÍTULO I
+
+## Parte comum
 
 ###### Artigo 227.º — Ingresso na categoria
 
@@ -4029,7 +4105,9 @@ d) No posto de primeiro-sargento e segundo-sargento, o exercício de funções d
 
 ## TÍTULO IV — Praças
 
-### CAPÍTULO I — Parte comum
+### CAPÍTULO I
+
+## Parte comum
 
 ###### Artigo 244.º-A — Alimentação da categoria
 
@@ -4435,9 +4513,11 @@ c) Tempo de serviço efetivo no exercício de funções próprias da especialida
 
 ###### Artigo 253.º — (Revogado.)
 
-# LIVRO III — Dos regimes de contrato e de voluntariado
+## LIVRO III — Dos regimes de contrato e de voluntariado
 
-## TÍTULO I — Parte comum
+## TÍTULO I
+
+## Parte comum
 
 ###### Artigo 254.º — Condições de admissão
 
@@ -4729,32 +4809,32 @@ As condições especiais de promoção dos militares em RV aplicam-se exclusivam
 
 ## ANEXO I — (a que se refere o artigo 28.º do Estatuto)
 
-|  |  |  |  |  |  |  |
+| Categorias | Marinha | Exército | Força Aérea |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Categorias | Marinha | Marinha | Exército | Exército | Força Aérea | Força Aérea |
-| Categorias | Subcategorias | Postos | Subcategorias | Postos | Subcategorias | Postos |
-| Oficiais | Oficiais generais | Almirante Vice-almirante Contra-almirante Comodoro | Oficiais generais | General Tenente-general Major-general Brigadeiro-general | Oficiais generais | General Tenente-general Major-general Brigadeiro-general |
-| Oficiais | Oficiais superiores | Capitão-de-mar-e-guerra Capitão-de-fragata Capitão-tenente | Oficiais superiores | Coronel Tenente-coronel Major | Oficiais superiores | Coronel Tenente-coronel Major |
-| Oficiais | Oficiais subalternos | Primeiro-tenente Segundo-tenente Subtenente ou guarda-marinha Aspirante a oficial | Capitães | Capitão | Capitães | Capitão |
-| Oficiais | Oficiais subalternos | Primeiro-tenente Segundo-tenente Subtenente ou guarda-marinha Aspirante a oficial | Oficiais subalternos | Tenente Alferes Aspirante a oficial | Oficiais subalternos | Tenente Alferes Aspirante a oficial |
-| Sargentos |  | Sargento-mor Sargento-chefe Sargento-ajudante Primeiro-sargento Segundo-sargento Subsargento Segundo-subsargento |  | Sargento-mor Sargento-chefe Sargento-ajudante Primeiro-sargento Segundo-sargento Furriel Segundo-furriel |  | Sargento-mor Sargento-chefe Sargento-ajudante Primeiro-sargento Segundo-sargento Furriel Segundo-furriel |
-| Praças |  | Cabo-mor Cabo Primeiro-marinheiro Segundo-marinheiro Primeiro-grumete Segundo-grumete |  | Cabo-mor Cabo-de-secção Cabo-adjunto Primeiro-cabo Segundo-cabo Soldado |  | Cabo-mor Cabo-de-secção Cabo-adjunto Primeiro-cabo Segundo-cabo Soldado |
+| Subcategorias | Postos | Subcategorias | Postos | Subcategorias | Postos |  |
+|  |  |  |  |  |  |  |
+| Oficiais | Oficiais generais | Almirante<br>Vice-almirante<br>Contra-almirante<br>Comodoro | Oficiais generais | General<br>Tenente-general<br>Major-general<br>Brigadeiro-general | Oficiais generais | General<br>Tenente-general<br>Major-general<br>Brigadeiro-general |
+| Oficiais superiores | Capitão-de-mar-e-guerra<br>Capitão-de-fragata<br>Capitão-tenente | Oficiais superiores | Coronel<br>Tenente-coronel<br>Major | Oficiais superiores | Coronel<br>Tenente-coronel<br>Major |  |
+| Oficiais subalternos | Primeiro-tenente<br>Segundo-tenente<br>Subtenente ou guarda-marinha<br>Aspirante a oficial | Capitães | Capitão | Capitães | Capitão |  |
+| Oficiais subalternos | Tenente<br>Alferes<br>Aspirante a oficial | Oficiais subalternos | Tenente<br>Alferes<br>Aspirante a oficial |  |  |  |
+| Sargentos |  | Sargento-mor<br>Sargento-chefe<br>Sargento-ajudante<br>Primeiro-sargento<br>Segundo-sargento<br>Subsargento<br>Segundo-subsargento |  | Sargento-mor<br>Sargento-chefe<br>Sargento-ajudante<br>Primeiro-sargento<br>Segundo-sargento<br>Furriel<br>Segundo-furriel |  | Sargento-mor<br>Sargento-chefe<br>Sargento-ajudante<br>Primeiro-sargento<br>Segundo-sargento<br>Furriel<br>Segundo-furriel |
+| Praças |  | Cabo-mor<br>Cabo<br>Primeiro-marinheiro<br>Segundo-marinheiro<br>Primeiro-grumete<br>Segundo-grumete |  | Cabo-mor<br>Cabo-de-secção<br>Cabo-adjunto<br>Primeiro-cabo<br>Segundo-cabo<br>Soldado |  | Cabo-mor<br>Cabo-de-secção<br>Cabo-adjunto<br>Primeiro-cabo<br>Segundo-cabo<br>Soldado |
 
 ## ANEXO II — (a que se referem os artigos 63.º, 207.º, 237.º e 251.º do Estatuto)
 
 Oficiais da Marinha
 
-|  |  |  |  |  |  |  |  |
+| Classe | Para promoção a | Tempo<br>de embarque<br>(anos) | Tempo<br>de navegação<br>(anos) | Cursos<br>e provas | Outras<br>condições | Tempo mínimo<br>de permanência<br>no posto anterior (anos) | Modalidade<br>de promoção |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Classe | Para promoção a | Tempo de embarque (anos) | Tempo de navegação (anos) | Cursos e provas | Outras condições | Tempo mínimo de permanência no posto anterior (anos) | Modalidade de promoção |
-| Marinha | Almirante Vice-almirante Contra-almirante Comodoro Capitão-de-mar-e-guerra Capitão-de-fragata Capitão-tenente Primeiro-tenente Segundo-tenente | 1 (c) 2 (j) 1 (a) (j) | 500 (c) (l) 1000 (a) (k) (l) 500 (a) (k) (l) | CPOG (b) CPOS | Um ano (c)(g) | 4 4 5 7 4 2 | Escolha Escolha Escolha Escolha Escolha Escolha Escolha Antiguidade Diuturnidade |
-| Engenheiros navais | Contra-almirante Comodoro Capitão-de-mar-e-guerra Capitão-de-fragata Capitão-tenente Primeiro-tenente Segundo-tenente | 2(i) (d) (j) | 1000 (l) 500 (i) (l) | CPOG (b) CPOS | Dois anos (e)(f) Um ano (d)(e) | 4 4 5 7 4 2 | Escolha Escolha Escolha Escolha Escolha Antiguidade Diuturnidade |
-| Administração naval | Contra-almirante Comodoro Capitão-de-mar-e-guerra Capitão-de-fragata Capitão-tenente Primeiro-tenente Segundo-tenente | 2 (d) | 1000 (l) | CPOG (b) CPOS | Dois anos (e)(f) Dois anos (e)(f) Um ano (d)(e) | 4 4 5 7 4 2 | Escolha Escolha Escolha Escolha Escolha Antiguidade Diuturnidade |
-| Fuzileiros | Contra-almirante Comodoro Capitão-de-mar-e-guerra Capitão-de-fragata Capitão-tenente Primeiro-tenente Segundo-tenente |  |  | CPOG (b) CPOS | Um ano (c)(g) Dois anos (d)(h) | 4 4 5 7 4 2 | Escolha Escolha Escolha Escolha Escolha Antiguidade Diuturnidade |
-| Médicos Navais | Contra-almirante Comodoro Capitão-de-mar-e-guerra Capitão-de-fragata Capitão-tenente Primeiro-tenente Segundo-tenente | 1 | 500 (d) (l) | CPOG (b) CPOS |  | 4 4 5 7 4 2 | Escolha Escolha Escolha Escolha Escolha Antiguidade Diuturnidade |
-| Técnicos superiores navais | Capitão-de-mar-e-guerra Capitão-de-fragata Capitão-tenente Primeiro-tenente Segundo-tenente |  |  | CPOS | Dois anos (e)(f) Dois anos (e)(f) Um ano (d)(e) | 4 5 7 4 2 | Escolha Escolha Escolha Antiguidade Diuturnidade |
-| Serviço técnico | Capitão-de-mar-e-guerra Capitão-de-fragata Capitão-tenente Primeiro-tenente Segundo-tenente |  |  | CPOS | Dois anos (e)(f) Um ano (d)(e) | 4 5 7 4 2 | Escolha Escolha Escolha Antiguidade Diuturnidade |
-| Técnico de saúde | Capitão-de-mar-e-guerra Capitão-de-fragata Capitão-tenente Primeiro-tenente Segundo-tenente | 1 | 500 (d) (l) (m) | CPOS |  | 4 5 7 4 2 | Escolha Escolha Escolha Antiguidade Diuturnidade |
+|  |  |  |  |  |  |  |  |
+| Marinha | Almirante<br>Vice-almirante<br>Contra-almirante<br>Comodoro<br>Capitão-de-mar-e-guerra<br>Capitão-de-fragata<br>Capitão-tenente<br>Primeiro-tenente<br>Segundo-tenente | 1 (c)<br><br><br>2 (j)<br>1 (a) (j) | 500 (c) (l)<br><br><br>1000 (a) (k) (l)<br>500 (a) (k) (l) | CPOG (b)<br><br><br>CPOS | Um ano (c)(g) | 4<br>4<br>5<br>7<br>4<br>2 | Escolha<br>Escolha<br>Escolha<br>Escolha<br>Escolha<br>Escolha<br>Escolha<br>Antiguidade<br>Diuturnidade |
+| Engenheiros navais | Contra-almirante<br>Comodoro<br>Capitão-de-mar-e-guerra<br>Capitão-de-fragata<br>Capitão-tenente<br>Primeiro-tenente<br>Segundo-tenente | 2(i) (d) (j) | 1000 (l)<br>500 (i) (l) | CPOG (b)<br><br><br>CPOS | Dois anos (e)(f)<br><br>Um ano (d)(e) | 4<br>4<br>5<br>7<br>4<br>2 | Escolha<br>Escolha<br>Escolha<br>Escolha<br>Escolha<br>Antiguidade<br>Diuturnidade |
+| Administração naval | Contra-almirante<br>Comodoro<br>Capitão-de-mar-e-guerra<br>Capitão-de-fragata<br>Capitão-tenente<br>Primeiro-tenente<br>Segundo-tenente | 2 (d) | 1000 (l) | CPOG (b)<br><br><br>CPOS | Dois anos (e)(f)<br>Dois anos (e)(f)<br>Um ano (d)(e) | 4<br>4<br>5<br>7<br>4<br>2 | Escolha<br>Escolha<br>Escolha<br>Escolha<br>Escolha<br>Antiguidade<br>Diuturnidade |
+| Fuzileiros | Contra-almirante<br>Comodoro<br>Capitão-de-mar-e-guerra<br>Capitão-de-fragata<br>Capitão-tenente<br>Primeiro-tenente<br>Segundo-tenente |  |  | CPOG (b)<br><br><br>CPOS | Um ano (c)(g)<br><br><br>Dois anos (d)(h) | 4<br>4<br>5<br>7<br>4<br>2 | Escolha<br>Escolha<br>Escolha<br>Escolha<br>Escolha<br>Antiguidade<br>Diuturnidade |
+| Médicos Navais | Contra-almirante<br>Comodoro<br>Capitão-de-mar-e-guerra<br>Capitão-de-fragata<br>Capitão-tenente<br>Primeiro-tenente<br>Segundo-tenente | 1 | 500 (d) (l) | CPOG (b)<br><br><br>CPOS |  | 4<br>4<br>5<br>7<br>4<br>2 | Escolha<br>Escolha<br>Escolha<br>Escolha<br>Escolha<br>Antiguidade<br>Diuturnidade |
+| Técnicos superiores navais | Capitão-de-mar-e-guerra<br>Capitão-de-fragata<br>Capitão-tenente<br>Primeiro-tenente<br>Segundo-tenente |  |  | CPOS | Dois anos (e)(f)<br>Dois anos (e)(f)<br>Um ano (d)(e) | 4<br>5<br>7<br>4<br>2 | Escolha<br>Escolha<br>Escolha<br>Antiguidade<br>Diuturnidade |
+| Serviço técnico | Capitão-de-mar-e-guerra<br>Capitão-de-fragata<br>Capitão-tenente<br>Primeiro-tenente<br>Segundo-tenente |  |  | CPOS | Dois anos (e)(f)<br><br>Um ano (d)(e) | 4<br>5<br>7<br>4<br>2 | Escolha<br>Escolha<br>Escolha<br>Antiguidade<br>Diuturnidade |
+| Técnico de saúde | Capitão-de-mar-e-guerra<br>Capitão-de-fragata<br>Capitão-tenente<br>Primeiro-tenente<br>Segundo-tenente | 1 | 500 (d) (l) (m) | CPOS |  | 4<br>5<br>7<br>4<br>2 | Escolha<br>Escolha<br>Escolha<br>Antiguidade<br>Diuturnidade |
 
 CPOG - curso de promoção a oficial general.
 
@@ -4788,11 +4868,11 @@ CPOS - curso de promoção a oficial superior.
 
 Sargentos da Marinha
 
-|  |  |  |  |  |  |  |  |
+| Classe | Para promoção a | Tempo<br>de embarque<br>(meses) | Tempo<br>de navegação<br>(horas) | Cursos<br>e<br>provas | Outras condições | Tempo mínimo<br>de permanência<br>no posto anterior<br>(anos) | Modalidade<br>de promoção |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Classe | Para promoção a | Tempo de embarque (meses) | Tempo de navegação (horas) | Cursos e provas | Outras condições | Tempo mínimo de permanência no posto anterior (anos) | Modalidade de promoção |
-| Administrativos, comunicações, eletromecânicos, eletrotécnicos, operações, manobras taifa, maquinistas navais e técnicos de armamento. | Sargento-mor Sargento-chefe Sargento-ajudante Primeiro-sargento | 24 (a) (c) (e) | 1000 (a)(d)(e)(f) | CPSC |  | 4 5 7 4 | Escolha Escolha Escolha Antiguidade |
-| Fuzileiros, condutores mecânicos de automóveis e mergulhadores | Sargento-mor Sargento-chefe Sargento-ajudante Primeiro-sargento |  |  | CPSC | 72 horas de imersão (b) | 4 5 7 4 | Escolha Escolha Escolha Antiguidade |
+|  |  |  |  |  |  |  |  |
+| Administrativos, comunicações, eletromecânicos, eletrotécnicos, operações, manobras taifa, maquinistas navais e técnicos de armamento. | Sargento-mor<br>Sargento-chefe<br>Sargento-ajudante<br>Primeiro-sargento | 24 (a) (c) (e) | 1000 (a)(d)(e)(f) | CPSC |  | 4<br>5<br>7<br>4 | Escolha<br>Escolha<br>Escolha<br>Antiguidade |
+| Fuzileiros, condutores mecânicos de automóveis e mergulhadores | Sargento-mor<br>Sargento-chefe<br>Sargento-ajudante<br>Primeiro-sargento |  |  | CPSC | 72 horas de imersão (b) | 4<br>5<br>7<br>4 | Escolha<br>Escolha<br>Escolha<br>Antiguidade |
 
 CPSC - curso de promoção a sargento-chefe.
 
@@ -4810,10 +4890,10 @@ CPSC - curso de promoção a sargento-chefe.
 
 Praças na Marinha
 
-|  |  |  |  |  |  |  |  |
+| Classe | Para promoção a | Tempo<br>de embarque<br>(meses) | Tempo<br>de navegação<br>(horas) | Cursos<br>e<br>provas | Outras condições | Tempo mínimo<br>de permanência<br>no posto anterior<br>(anos) | Modalidade<br>de promoção |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Classe | Para promoção a | Tempo de embarque (meses) | Tempo de navegação (horas) | Cursos e provas | Outras condições | Tempo mínimo de permanência no posto anterior (anos) | Modalidade de promoção |
-| Administrativos, comunicações, eletromecânicos, condutores mecânicos de automóveis, fuzileiros, mergulhadores, músicos, operações, manobras, taifa e técnicos de armamento. | Cabo-mor Cabo | 18 (b) (c) 18 (a) (b) |  |  |  | 15 5 | Escolha Antiguidade |
+|  |  |  |  |  |  |  |  |
+| Administrativos, comunicações, eletromecânicos, condutores mecânicos de automóveis, fuzileiros, mergulhadores, músicos, operações, manobras, taifa e técnicos de armamento. | Cabo-mor<br>Cabo | 18 (b) (c)<br>18 (a) (b) |  |  |  | 15<br>5 | Escolha<br>Antiguidade |
 
 (a) Realizadas no posto de primeiro-marinheiro.
 
@@ -4825,15 +4905,15 @@ Praças na Marinha
 
 Oficiais do Exército
 
-|  |  |  |  |  |  |  |
+| Corpo de oficiais generais/Armas<br>serviços/Quadros especiais | Para promoção a | Funções<br>específicas<br>da arma/serviço | Cursos<br>e provas | Outras condições | Tempos mínimos | Modalidade<br>de promoção |
 | --- | --- | --- | --- | --- | --- | --- |
-| Corpo de oficiais generais/Armas serviços/Quadros especiais | Para promoção a | Funções específicas da arma/serviço | Cursos e provas | Outras condições | Tempos mínimos | Modalidade de promoção |
-| Corpo de oficiais generais | General Tenente-general Major-general |  |  |  |  | Escolha |
-| Corpo de oficiais generais | Brigadeiro-general |  | CPOG | 1 ano (i) (j) | 4 anos em COR | Escolha |
-| Armas | Coronel Tenente-coronel Major Capitão Tenente | 2 anos (a) 2 anos (b) 2 anos (c) | CPOS CPC | 1 ano (k) 1 ano (l) | 4 anos em TCOR 5 anos em MAJ 7 anos em CAP 4 anos em TEN 2 anos em ALF | Escolha Escolha Escolha Antiguidade Diuturnidade |
-| Serviços | Coronel Tenente-coronel Major Capitão Tenente | 2 anos (d) 2 anos (e)(f) 2 anos (g) | CPOS CPC | (m) 1 ano (n) (o) 1 ano (p) | 4 anos em TCOR 5 anos em MAJ 7 anos em CAP 4 anos em TEN 2 anos em ALF | Escolha Escolha Escolha Antiguidade Diuturnidade |
-| Juristas, superior de apoio, técnicos de exploração de transmissões, técnicos de manutenção de transmissões, técnicos de manutenção de material, técnicos de pessoal e secretariado, técnicos de transportes, técnicos de saúde. | Coronel Tenente-coronel Major Capitão Tenente | 2 anos (d) 2 anos (f) 2 anos (g) | CPOS CPC | 1 ano (n) | 4 anos em TCOR 5 anos em MAJ 7 anos em CAP 4 anos em TEN 2 anos em ALF | Escolha Escolha Escolha Antiguidade Diuturnidade |
-| Chefes de banda de música | Tenente-coronel Major Capitão Tenente | 2 anos (f) 2 anos (g) | CPOS CPC | 1 ano (q) | 5 anos em MAJ 7 anos em CAP 4 anos em TEN 2 anos em ALF | Escolha Escolha Antiguidade Diuturnidade |
+|  |  |  |  |  |  |  |
+| Corpo de oficiais generais | General<br>Tenente-general<br>Major-general |  |  |  |  | Escolha |
+| Brigadeiro-general |  | CPOG | 1 ano (i) (j) | 4 anos em COR | Escolha |  |
+| Armas | Coronel<br>Tenente-coronel<br>Major<br>Capitão<br>Tenente | 2 anos (a)<br><br>2 anos (b)<br>2 anos (c) | CPOS<br>CPC | 1 ano (k)<br><br>1 ano (l) | 4 anos em TCOR<br>5 anos em MAJ<br>7 anos em CAP<br>4 anos em TEN<br>2 anos em ALF | Escolha<br>Escolha<br>Escolha<br>Antiguidade<br>Diuturnidade |
+| Serviços | Coronel<br>Tenente-coronel<br>Major<br>Capitão<br>Tenente | 2 anos (d)<br><br>2 anos (e)(f)<br>2 anos (g) | CPOS<br>CPC | (m) 1 ano (n)<br><br>(o) 1 ano (p) | 4 anos em TCOR<br>5 anos em MAJ<br>7 anos em CAP<br>4 anos em TEN<br>2 anos em ALF | Escolha<br>Escolha<br>Escolha<br>Antiguidade<br>Diuturnidade |
+| Juristas, superior de apoio, técnicos de exploração de transmissões, técnicos de manutenção de transmissões, técnicos de manutenção de material, técnicos de pessoal e secretariado, técnicos de transportes, técnicos de saúde. | Coronel<br>Tenente-coronel<br>Major<br>Capitão<br>Tenente | 2 anos (d)<br><br>2 anos (f)<br>2 anos (g) | CPOS<br>CPC | 1 ano (n) | 4 anos em TCOR<br>5 anos em MAJ<br>7 anos em CAP<br>4 anos em TEN<br>2 anos em ALF | Escolha<br>Escolha<br>Escolha<br>Antiguidade<br>Diuturnidade |
+| Chefes de banda de música | Tenente-coronel<br>Major<br>Capitão<br>Tenente | 2 anos (f)<br>2 anos (g) | CPOS<br>CPC | 1 ano (q) | 5 anos em MAJ<br>7 anos em CAP<br>4 anos em TEN<br>2 anos em ALF | Escolha<br>Escolha<br>Antiguidade<br>Diuturnidade |
 
 CPOG - curso de promoção a oficial general.
 
@@ -4875,10 +4955,10 @@ CPC - curso de promoção a capitão.
 
 Sargentos do Exército
 
-|  |  |  |  |  |  |  |
+| Armas Serviços | Para promoção a | Funções<br>específicas<br>da arma/serviço | Cursos<br>e provas | Outras condições | Tempos mínimos | Modalidade<br>de promoção |
 | --- | --- | --- | --- | --- | --- | --- |
-| Armas Serviços | Para promoção a | Funções específicas da arma/serviço | Cursos e provas | Outras condições | Tempos mínimos | Modalidade de promoção |
-| Armas e Serviços | Sargento-mor Sargento-chefe Sargento-ajudante Primeiro-sargento | 1 ano (a) 2 anos (b) | CPSCH CPSA |  | 4 anos em SCH 5 anos em SAJ 7 anos em 1SAR 4 anos em 2SAR | Escolha Escolha Escolha Antiguidade |
+|  |  |  |  |  |  |  |
+| Armas e Serviços | Sargento-mor<br>Sargento-chefe<br>Sargento-ajudante<br>Primeiro-sargento | 1 ano (a)<br><br>2 anos (b) | CPSCH<br>CPSA |  | 4 anos em SCH<br>5 anos em SAJ<br>7 anos em 1SAR<br>4 anos em 2SAR | Escolha<br>Escolha<br>Escolha<br>Antiguidade |
 
 CPSCH - curso de promoção a sargento-chefe.
 
@@ -4890,10 +4970,10 @@ CPSA - curso de promoção a sargento-ajudante.
 
 Praças do Exército
 
-| Armas Serviços | Para promoção a | Exercício de funções ou desempenho de cargos | Cursos e provas | Outras condições | Tempo mínimo de permanência no posto anterior (anos) | Modalidades de promoção |
+| Armas Serviços | Para promoção a | Exercício<br>de funções<br>ou desempenho<br>de cargos | Cursos<br>e provas | Outras condições | Tempo mínimo<br>de permanência<br>no posto anterior (anos) | Modalidades<br>de promoção |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| Armas e serviços | Cabo-mor Cabo-de-secção | (a) | CPCMOR (b) | (a) | 15 5 | Escolha Antiguidade |
+| Armas e serviços | Cabo-mor<br>Cabo-de-secção | (a) | CPCMOR (b) | (a) | 15<br>5 | Escolha<br>Antiguidade |
 
 CPCMOR - curso de promoção a cabo-mor.
 
@@ -4905,14 +4985,14 @@ CPCMOR - curso de promoção a cabo-mor.
 
 Oficiais da Força Aérea
 
-|  |  |  |  |  |  |  |  |
+| Especialidades | Para promoção a | Funções<br>específicas<br>da especialidade | Horas de voo | Cursos | Outras<br>condições | Tempos<br>mínimos | Modalidade<br>de<br>promoção |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Especialidades | Para promoção a | Funções específicas da especialidade | Horas de voo | Cursos | Outras condições | Tempos mínimos | Modalidade de promoção |
-| Pilotos Aviadores | General Tenente-general Major-general |  |  |  |  |  | Escolha |
-|  | Brigadeiro-general Coronel Tenente-coronel Major Capitão Tenente | 1 ano (a) 4 anos (b) 2 anos (e) 3 anos (g) 2 anos (j) 1 ano (l) | 300 horas (c) 250 horas (f) 400 horas (h) 500 horas (k) | CPOG CPOS CBC | 1 ano (d) 1 ano (i) | 4 anos em COR 4 anos em TCOR 5 anos em MAJ 7 anos em CAP 4 anos em TEN 2 anos em ALF | Escolha Escolha Escolha Escolha Antiguidade Diuturnidade |
-| Engenheiros, médicos, administração aeronáutica, juristas e psicólogos | Major-general Brigadeiro-general Coronel Tenente-coronel Major Capitão Tenente | 1 ano (m) 4 anos n) 2 anos (p) 3 anos (q) 2 anos (s) 1 ano (t) |  | CPOG CPOS CBC | (o) (r) | 4 anos em COR 4 anos em TCOR 5 anos em MAJ 7 anos em CAP 4 anos em TEN 2 anos em ALF | Escolha Escolha Escolha Antiguidade Diuturnidade |
-| Navegadores, técnicos e polícia aérea | Coronel Tenente-coronel Major Capitão Tenente | 4 anos (n) 2 anos (p) 3 anos (q) 2 anos (s) 1 ano (t) | 300 horas (u) 250 horas (v) 400 horas (x) 500 horas (z) | CPOS CBC |  | 4 anos em TCOR 5 anos em MAJ 7 anos em CAP 4 anos em TEN 2 anos em ALF | Escolha Escolha Escolha Antiguidade Diuturnidade |
-| Chefes de banda de música | Tenente-coronel Major Capitão Tenente | 2 anos (p) 3 anos (q) 2 anos (s) 1 ano (t) |  | CPOS CBC |  | 5 MAJ 7 anos em CAP 4 anos em TEN 2 anos em ALF | Escolha Escolha Antiguidade Diuturnidade |
+|  |  |  |  |  |  |  |  |
+| Pilotos Aviadores | General<br>Tenente-general<br>Major-general |  |  |  |  |  | Escolha |
+|  | Brigadeiro-general<br>Coronel<br>Tenente-coronel<br>Major<br>Capitão<br>Tenente | 1 ano (a)<br>4 anos (b)<br>2 anos (e)<br>3 anos (g)<br>2 anos (j)<br>1 ano (l) | 300 horas (c)<br>250 horas (f)<br>400 horas (h)<br>500 horas (k) | CPOG<br><br><br>CPOS<br>CBC | 1 ano (d)<br><br>1 ano (i) | 4 anos em COR<br>4 anos em TCOR<br>5 anos em MAJ<br>7 anos em CAP<br>4 anos em TEN<br>2 anos em ALF | Escolha<br>Escolha<br>Escolha<br>Escolha<br>Antiguidade<br>Diuturnidade |
+| Engenheiros, médicos, administração aeronáutica, juristas e psicólogos | Major-general<br>Brigadeiro-general<br>Coronel<br>Tenente-coronel<br>Major<br>Capitão<br>Tenente | 1 ano (m)<br>4 anos n)<br>2 anos (p)<br>3 anos (q)<br>2 anos (s)<br>1 ano (t) |  | CPOG<br><br><br>CPOS<br>CBC | (o)<br><br>(r) | 4 anos em COR<br>4 anos em TCOR<br>5 anos em MAJ<br>7 anos em CAP<br>4 anos em TEN<br>2 anos em ALF | Escolha<br>Escolha<br>Escolha<br>Antiguidade<br>Diuturnidade |
+| Navegadores, técnicos e polícia aérea | Coronel<br>Tenente-coronel<br>Major<br>Capitão<br>Tenente | 4 anos (n)<br>2 anos (p)<br>3 anos (q)<br>2 anos (s)<br>1 ano (t) | 300 horas (u)<br>250 horas (v)<br>400 horas (x)<br>500 horas (z) | CPOS<br>CBC |  | 4 anos em TCOR<br>5 anos em MAJ<br>7 anos em CAP<br>4 anos em TEN<br>2 anos em ALF | Escolha<br>Escolha<br>Escolha<br>Antiguidade<br>Diuturnidade |
+| Chefes de banda de música | Tenente-coronel<br>Major<br>Capitão<br>Tenente | 2 anos (p)<br>3 anos (q)<br>2 anos (s)<br>1 ano (t) |  | CPOS<br>CBC |  | 5 MAJ<br>7 anos em CAP<br>4 anos em TEN<br>2 anos em ALF | Escolha<br>Escolha<br>Antiguidade<br>Diuturnidade |
 
 CPOG - curso de promoção a oficial general.
 
@@ -4970,10 +5050,10 @@ CBC - curso básico de comando.
 
 Sargentos da Força Aérea
 
-|  |  |  |  |  |  |  |
+| Especialidades | Para promoção a | Funções específicas<br>da especialidade | Cursos | Outras condições | Tempos mínimos | Modalidade<br>de promoção |
 | --- | --- | --- | --- | --- | --- | --- |
-| Especialidades | Para promoção a | Funções específicas da especialidade | Cursos | Outras condições | Tempos mínimos | Modalidade de promoção |
-| Operadores, mecânicos e apoio serviços | Sargento-mor Sargento-chefe Sargento-ajudante Primeiro-sargento | 2 anos (a) 2 anos (b) 3 anos (c) 2 anos (d) | CPSCH |  | 4 anos em SCH 5 anos em SAJ 7 anos em 1SAR 4 anos em 2SAR | Escolha Escolha Escolha Antiguidade |
+|  |  |  |  |  |  |  |
+| Operadores, mecânicos e apoio serviços | Sargento-mor<br>Sargento-chefe<br>Sargento-ajudante<br>Primeiro-sargento | 2 anos (a)<br>2 anos (b)<br>3 anos (c)<br>2 anos (d) | CPSCH |  | 4 anos em SCH<br>5 anos em SAJ<br>7 anos em 1SAR<br>4 anos em 2SAR | Escolha<br>Escolha<br>Escolha<br>Antiguidade |
 
 CPSCH - curso de promoção a sargento-chefe.
 
@@ -4987,10 +5067,10 @@ CPSCH - curso de promoção a sargento-chefe.
 
 Praças da Força Aérea
 
-|  |  |  |  |  |  |  |
+| Especialidades | Para promoção a | Funções específicas<br>da especialidade | Cursos<br>e provas | Outras condições | Tempo mínimo<br>de permanência<br>no posto anterior (anos) | Modalidades<br>de promoção |
 | --- | --- | --- | --- | --- | --- | --- |
-| Especialidades | Para promoção a | Funções específicas da especialidade | Cursos e provas | Outras condições | Tempo mínimo de permanência no posto anterior (anos) | Modalidades de promoção |
-| Todas | Cabo-mor Cabo-de-secção | 2 anos (a) 2 anos (b) | CPCM (c) |  | 15 5 | Escolha Antiguidade |
+|  |  |  |  |  |  |  |
+| Todas | Cabo-mor<br>Cabo-de-secção | 2 anos (a)<br>2 anos (b) | CPCM (c) |  | 15<br>5 | Escolha<br>Antiguidade |
 
 CPCM - curso de promoção a cabo-mor.
 
@@ -4999,3 +5079,5 @@ CPCM - curso de promoção a cabo-mor.
 (b) Prestado, como cabo-adjunto, serviço efetivo no exercício de funções próprias da especialidade e posto.
 
 (c) Curso de promoção a cabo-mor.
+
+116722356

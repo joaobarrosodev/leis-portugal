@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/109-1986-221280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T07:34:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a745a98618375b9efe1013f6dc7764d3bf1bba30083d162ad526f78a17c1aa8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf9b1fef5f86217ebec8dca21988fec1e857920ddf88ff86487bc95d7538ce06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:34:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estágio de Formação
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:66325237:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182655:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66325237:por
+  label: Revogado a partir de 31.01.2015 pelo(a) Decreto-Lei n.º 13/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2015-66325237
+  date: '2015-01-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:34:22Z'
   warnings: []
   errors: []
 ---

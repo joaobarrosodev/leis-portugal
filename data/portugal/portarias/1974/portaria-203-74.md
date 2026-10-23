@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/03/06400/03550360.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/203-1974-412437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T04:21:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9edcb877914a03aafe99f0075e5865dc26547d832852382b537451750a314143
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bba515e5b9c4ca5d866ebca1dfcb3a21e73c3b4265b156ecde0bc7756b417386
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:21:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,25 @@ relationships:
   target: pt:dre:409563:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:684779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:409563:por
+  label: Revogada, a partir de 01.11.1976, pelo(a) Portaria n.º 610/76 - Diário da República n.º 242/1976, Série I de 1976-10-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/610-1976-409563
+  date: '1976-10-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:21:46Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +107,7 @@ Tabela de taxas a aplicar no Aeroporto de Lisboa
 
 I - Taxas de ocupação
 
-###### Artigo 1.º As taxas a cobrar pela ocupação de terrenos e instalações no Aeroporto de Lisboa são as abaixo indicadas:
+Artigo 1.º As taxas a cobrar pela ocupação de terrenos e instalações no Aeroporto de Lisboa são as abaixo indicadas:
 
 1 - Instalações de combustíveis:
 
@@ -282,21 +291,21 @@ Taxa por pessoa - 2$50.
 
 Taxa por pessoa - 5$00.
 
-###### Art. 2.º O Ministro das Comunicações poderá fixar taxas diferentes das estabelecidas no artigo anterior em casos especiais devidamente justificados e nomeadamente quando a licença se referir a um conjunto de instalações indispensáveis ao exercício de uma mesma actividade ou a edificações utilizadas totalmente por uma mesma entidade.
+Art. 2.º O Ministro das Comunicações poderá fixar taxas diferentes das estabelecidas no artigo anterior em casos especiais devidamente justificados e nomeadamente quando a licença se referir a um conjunto de instalações indispensáveis ao exercício de uma mesma actividade ou a edificações utilizadas totalmente por uma mesma entidade.
 
-###### Art. 3.º As taxas fixadas nos termos do artigo anterior deverão, em qualquer caso, ter em conta a amortização razoável das instalações e respectivo equipamento.
+Art. 3.º As taxas fixadas nos termos do artigo anterior deverão, em qualquer caso, ter em conta a amortização razoável das instalações e respectivo equipamento.
 
-###### Art. 4.º Para os casos que não se encontrem concretamente classificados na presente tabela, aplicar-se-á a taxa mais elevada daquelas em que possam ser compreendidos.
+Art. 4.º Para os casos que não se encontrem concretamente classificados na presente tabela, aplicar-se-á a taxa mais elevada daquelas em que possam ser compreendidos.
 
-###### Art. 5.º Estão isentos de taxa de ocupação de instalações de terrenos e de edificações os seguintes serviços do Estado, indispensáveis ao regular funcionamento do Aeroporto: Direcção-Geral das Alfândegas, Direcção-Geral de Saúde, Direcção-Geral de Segurança e Serviço Meteorológico Nacional.
+Art. 5.º Estão isentos de taxa de ocupação de instalações de terrenos e de edificações os seguintes serviços do Estado, indispensáveis ao regular funcionamento do Aeroporto: Direcção-Geral das Alfândegas, Direcção-Geral de Saúde, Direcção-Geral de Segurança e Serviço Meteorológico Nacional.
 
-###### Art. 6.º Gozam da redução de 50% nas taxas de ocupação os serviços do Estado cujo funcionamento no Aeroporto, embora não indispensável, seja considerado conveniente no âmbito das facilidades a proporcionar aos passageiros e ao público, uma vez que nesse sentido o requeiram.
+Art. 6.º Gozam da redução de 50% nas taxas de ocupação os serviços do Estado cujo funcionamento no Aeroporto, embora não indispensável, seja considerado conveniente no âmbito das facilidades a proporcionar aos passageiros e ao público, uma vez que nesse sentido o requeiram.
 
-###### Art. 7.º Em casos superiormente autorizados, poderão as companhias abastecedoras de combustíveis vir a ser dispensadas do pagamento de taxa de instalação de combustíveis relativamente a fornecimentos de combustíveis a determinadas entidades, mediante despachos do Ministro das Comunicações e confirmação dos fornecimentos por parte dessas mesmas entidades.
+Art. 7.º Em casos superiormente autorizados, poderão as companhias abastecedoras de combustíveis vir a ser dispensadas do pagamento de taxa de instalação de combustíveis relativamente a fornecimentos de combustíveis a determinadas entidades, mediante despachos do Ministro das Comunicações e confirmação dos fornecimentos por parte dessas mesmas entidades.
 
 II - Taxas de tráfego
 
-###### Art. 8.º As taxas de tráfego a cobrar no Aeroporto de Lisboa são as seguintes:
+Art. 8.º As taxas de tráfego a cobrar no Aeroporto de Lisboa são as seguintes:
 
 1 - Taxa de aterragem e descolagem:
 
@@ -548,14 +557,14 @@ O Aeroporto de Lisboa fica autorizado, nos casos não previstos por esta portari
 
 III - Prazo de pagamento
 
-###### Art. 9.º As taxas serão pagas dentro do prazo de dez dias a contar da data da entrega da respectiva guia de pagamento.
+Art. 9.º As taxas serão pagas dentro do prazo de dez dias a contar da data da entrega da respectiva guia de pagamento.
 
 IV - Entrada em vigor
 
-###### Art. 10.º A presente portaria substitui as Portarias n.os 22452, de 14 de Janeiro de 1967, e 329/73, de 10 de Maio, e entra em vigor a partir do dia 1 de Junho de 1974, à excepção da parte que diz respeito às taxas de utilização de parques de automóveis, que entra imediatamente em vigor.
+Art. 10.º A presente portaria substitui as Portarias n.os 22452, de 14 de Janeiro de 1967, e 329/73, de 10 de Maio, e entra em vigor a partir do dia 1 de Junho de 1974, à excepção da parte que diz respeito às taxas de utilização de parques de automóveis, que entra imediatamente em vigor.
 
 Ministério das Comunicações, 7 de Março de 1974. - O Ministro das Comunicações, Rui Alves da Silva Sanches.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/03/06400/03550360.pdf))](https://files.diariodarepublica.pt/1s/1974/03/06400/03550360.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/03/06400/03550360.pdf)
 
-**O Ministro das Comunicações, Rui Alves da Silva Sanches.**
+O Ministro das Comunicações, Rui Alves da Silva Sanches.

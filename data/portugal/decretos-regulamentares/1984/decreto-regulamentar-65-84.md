@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/08/19300/25692572.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/65-1984-380956
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:09:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5df95511e6c7868ad5e77964bca703ff8d566e406d42a1e23b7e924c9abb0387
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0b7f55f9d18b896d7722d1a6bfada69ab92c5ded4adf410df8af9e23eb28039
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:09:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Castelo Branco
+- Comunicações
+- CTT
+- Proença-a-nova
+- Servidão Radioelétrica
 relationships:
 - type: amended_by
   target: pt:dre:391646:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:380332:por
+  label: Rectificado pela DECL.DD5291.28.11.1984.PCM, DR.IS [278]2ºSupl de 30.11.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-380332
+  date: '1984-11-28'
+- type: repealed_by
+  target: pt:dre:391646:por
+  label: "Revogado pelo DR.49/2002.2002.12.30.MECO, DR.IS-B [301] de 30.12.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/49-2002-391646
+  date: '2002-12-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:09:59Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +120,11 @@ Considerando o disposto no artigo 14.º, n.º 1, do [Decreto-Lei n.º 597/73](ht
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º As áreas adjacentes ao percurso da ligação hertziana entre os centros radioeléctricos de Castelo Branco e Proença-a-Nova, numa distância de 40,620 km, estão sujeitas a servidão radioeléctrica e, bem assim, a outras restrições de utilidade pública, nos termos do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro.
+Artigo 1.º As áreas adjacentes ao percurso da ligação hertziana entre os centros radioeléctricos de Castelo Branco e Proença-a-Nova, numa distância de 40,620 km, estão sujeitas a servidão radioeléctrica e, bem assim, a outras restrições de utilidade pública, nos termos do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro.
 
-###### Art. 2.º A ligação hertziana referida no artigo anterior é composta por duas estações terminais, situadas, respectivamente, junto ao castelo, em Castelo Branco, e no edifício dos CTT, sito na Avenida de Frederico Ulrich, em Proença-a-Nova, e inclui um repetidor passivo situado numa elevação denominada «Fatelo».
+Art. 2.º A ligação hertziana referida no artigo anterior é composta por duas estações terminais, situadas, respectivamente, junto ao castelo, em Castelo Branco, e no edifício dos CTT, sito na Avenida de Frederico Ulrich, em Proença-a-Nova, e inclui um repetidor passivo situado numa elevação denominada «Fatelo».
 
-###### Art. 3.º As antenas directivas utilizadas nos centros radioeléctricos de Castelo Branco e Proença-a-Nova e o repetidor passivo do Fatelo encontram-se instalados às cotas de, respectivamente, 493 m, 482 m e 771 m, em relação ao nível médio do mar, e situam-se em pontos com as seguintes coordenadas geográficas:
+Art. 3.º As antenas directivas utilizadas nos centros radioeléctricos de Castelo Branco e Proença-a-Nova e o repetidor passivo do Fatelo encontram-se instalados às cotas de, respectivamente, 493 m, 482 m e 771 m, em relação ao nível médio do mar, e situam-se em pontos com as seguintes coordenadas geográficas:
 
 a) Castelo Branco:
 
@@ -121,7 +144,7 @@ Latitude - 39º 46' 52,0" N.;
 
 Longitude - 7º 55' 33,0" W.
 
-###### Art. 4.º - 1 - A zona de desobstrução a que aludem a alínea b) do n.º 1 do artigo 6.º e o artigo 11.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro, tem a seguinte largura:
+Art. 4.º - 1 - A zona de desobstrução a que aludem a alínea b) do n.º 1 do artigo 6.º e o artigo 11.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro, tem a seguinte largura:
 
 a) Troço Castelo Branco-Fatelo - 29 m;
 
@@ -129,7 +152,7 @@ b) Troço Fatelo-Proença-a-Nova - 16 m.
 
 2 - Esta zona de desobstrução, que é medida perpendicularmente e para cada lado da projecção horizontal da linha recta que une as antenas dos centros radioeléctricos terminais de cada troço acima referido, encontra-se demarcada em plano horizontal na planta topográfica, na escala de 1:250000, conforme a figura 1 em anexo a este diploma.
 
-###### Art. 5.º - 1 - Na zona de desobstrução definida no artigo anterior é proibida a implantação ou manutenção de edifícios ou de outros obstáculos que distem da linha recta que une as antenas terminais menos de [([ver documento original](https://files.diariodarepublica.pt/1s/1984/08/19300/25692572.pdf))](https://files.diariodarepublica.pt/1s/1984/08/19300/25692572.pdf)
+Art. 5.º - 1 - Na zona de desobstrução definida no artigo anterior é proibida a implantação ou manutenção de edifícios ou de outros obstáculos que distem da linha recta que une as antenas terminais menos de [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/08/19300/25692572.pdf)
 
 2 - O elipsóide da 1.º zona de Fresnel e o perfil do terreno entre as antenas consideradas de cada troço estão representados em plano vertical nas figuras 2/A e 2/B em anexo a este diploma, nas escalas seguintes:
 
@@ -145,7 +168,7 @@ Eixo das abcissas - 1:400000;
 
 Eixo das ordenadas - 1:6000.
 
-###### Art. 6.º O director dos Serviços de Radiocomunicações dos CTT é a entidade competente para:
+Art. 6.º O director dos Serviços de Radiocomunicações dos CTT é a entidade competente para:
 
 a) Ordenar a demolição, remoção, abate ou inutilização dos obstáculos perturbadores referidos nos termos do artigo 20.º, n.º 2, do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro;
 
@@ -153,18 +176,18 @@ b) Fiscalizar o cumprimento das disposições legais respeitantes à presente se
 
 c) Aplicar, nos termos do artigo 24.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro, as multas decorrentes das infracções verificadas.
 
-###### Art. 7.º Das decisões tomadas nos termos das alíneas a) e c) do artigo anterior cabe recurso para o Ministro do Equipamento Social.
+Art. 7.º Das decisões tomadas nos termos das alíneas a) e c) do artigo anterior cabe recurso para o Ministro do Equipamento Social.
 
 Mário Soares - Carlos Alberto da Mota Pinto - João Rosado Correia.
 
-**Promulgado em 3 de Agosto de 1984.**
+Promulgado em 3 de Agosto de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Agosto de 1984.**
+Referendado em 7 de Agosto de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/08/19300/25692572.pdf))](https://files.diariodarepublica.pt/1s/1984/08/19300/25692572.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/08/19300/25692572.pdf)

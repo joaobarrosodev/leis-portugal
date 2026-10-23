@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/22500/25372539.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/301-1979-365282
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:54:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a134ad2c6b57aa000f8cf55ca444557e7c30739b800050c1037ba95438b66d63
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d81325f1234b34967d0cf4e3d59a47c096f43c3e1892ae053163d28e4d976af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:54:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Catástrofe
+- Empresa
+- Financiamento
+- Processo Administrativo
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:632448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:325295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382013:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632448:por
+  label: "Revogado, a partir de 01.01.2013, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:54:57Z'
   warnings: []
   errors: []
 ---
@@ -219,4 +237,4 @@ e) Quaisquer outras situações que influenciem a concessão das compensações 
 
 O presente despacho entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro do Trabalho, Jorge de Carvalho Sá Borges.**
+O Ministro do Trabalho, Jorge de Carvalho Sá Borges.

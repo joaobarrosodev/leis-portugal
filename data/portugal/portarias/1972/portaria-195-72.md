@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/195-1972-397569
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a230d43173c8d26f673131b93eb4cb244ddde7eb1d410d8fda885e5d55643197
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a513e7b60dbd87560a9efb141047a4f49f87f2b045a5175574b7bbb6ff78ea11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429587:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:39Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +100,15 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 1.º Os artigos 5.º-A, 16.º e 112.º-A do Regulamento de Uniformes e Pequeno Equipamento para Sargentos e Praças da Armada (R. U. P. E. S. P. A.) passam a ter a seguinte redacção:
 
-###### Art. 5.º-A. As âncoras metálicas do boné de trabalho e do colarinho da camisa azul para sargentos e praças (fig. 27-A) são de metal oxidado, de 0,017 m de altura por 0,010 m de largura.
+Art. 5.º-A. As âncoras metálicas do boné de trabalho e do colarinho da camisa azul para sargentos e praças (fig. 27-A) são de metal oxidado, de 0,017 m de altura por 0,010 m de largura.
 
 ...
 
-###### Art. 16.º As botas para sargentos e praças (fig. 14) são de bezerro waterproof, de cor preta, com biqueira, sem enfeitos e sem presilha, tendo de cada lado oito ilhós pretos onde trabalha um atacador da mesma cor e têm sola de meio rasto. Têm no cano dois grampos para prender os polainitos pretos, do modelo descrito na alínea b) do n.º 6) do artigo 142.º deste Regulamento.
+Art. 16.º As botas para sargentos e praças (fig. 14) são de bezerro waterproof, de cor preta, com biqueira, sem enfeitos e sem presilha, tendo de cada lado oito ilhós pretos onde trabalha um atacador da mesma cor e têm sola de meio rasto. Têm no cano dois grampos para prender os polainitos pretos, do modelo descrito na alínea b) do n.º 6) do artigo 142.º deste Regulamento.
 
 ...
 
-###### Art. 112.º-A. A blusa de trabalho para praças não prontas (fig. 3) é do tecido padrão existente na 3.ª Repartição da D. S. A., azul, talhado em quimono de duas peças, formando uma a parte anterior e outra a posterior.
+Art. 112.º-A. A blusa de trabalho para praças não prontas (fig. 3) é do tecido padrão existente na 3.ª Repartição da D. S. A., azul, talhado em quimono de duas peças, formando uma a parte anterior e outra a posterior.
 
 A manga é de uma só costura, sem canhão, e com uma abertura no punho, que fecha por meio de dois botões pretos do padrão n.º 7.
 
@@ -112,11 +120,11 @@ Na altura do peito, de cada lado, tem uma algibeira exterior de 0,120 m de altur
 
 2.º São acrescentados ao R. U. P. E. S. P. A. os artigos seguintes:
 
-###### Art. 15.º-A. O boné de trabalho para sargentos e praças é do tecido padrão existente na 3.ª Repartição da D. S. A., azul, tem pala de lona forrada do mesmo tecido, levando um tapa-ouvidos e tapa-nuca, com colocação de uma âncora de metal oxidado, conforme é descrito no artigo 5.º-A, centrada por cima da pala, e a 0,100 m de cada lado da âncora um orifício de 0,007 m de diâmetro, que serve de ventilador.
+Art. 15.º-A. O boné de trabalho para sargentos e praças é do tecido padrão existente na 3.ª Repartição da D. S. A., azul, tem pala de lona forrada do mesmo tecido, levando um tapa-ouvidos e tapa-nuca, com colocação de uma âncora de metal oxidado, conforme é descrito no artigo 5.º-A, centrada por cima da pala, e a 0,100 m de cada lado da âncora um orifício de 0,007 m de diâmetro, que serve de ventilador.
 
 ...
 
-###### Art. 112.º-B. A boina de um só pano para sargentos e para praças das unidades de fuzileiros especiais é de lã azul-ferrete, forrada interiormente com um tecido preto, debruada no limite inferior com uma tira de carneira preta de 0,025 m, que forma um vivo de 0,010 m e se desenvolve verticalmente por dentro na área correspondente ao distintivo; por dentro do debrum corre uma fita preta de 0,050 m de largura, a qual forma um nó atrás e cujas pontas caem livremente com um comprimento entre 0,010m e 0,012 m; copa com um desenvolvimento radial de 0,040 m a 0,060 m em relação ao perímetro do debrum; no lado direito, dois ilhós metálicos de ventilação, pretos, com 0,005 m de diâmetro e cujos centros distam 0,035 m entre si e 0,035 m do limite do debrum.
+Art. 112.º-B. A boina de um só pano para sargentos e para praças das unidades de fuzileiros especiais é de lã azul-ferrete, forrada interiormente com um tecido preto, debruada no limite inferior com uma tira de carneira preta de 0,025 m, que forma um vivo de 0,010 m e se desenvolve verticalmente por dentro na área correspondente ao distintivo; por dentro do debrum corre uma fita preta de 0,050 m de largura, a qual forma um nó atrás e cujas pontas caem livremente com um comprimento entre 0,010m e 0,012 m; copa com um desenvolvimento radial de 0,040 m a 0,060 m em relação ao perímetro do debrum; no lado direito, dois ilhós metálicos de ventilação, pretos, com 0,005 m de diâmetro e cujos centros distam 0,035 m entre si e 0,035 m do limite do debrum.
 
 Na parte anterior e diametralmente oposta ao nó das pontas é aplicada como distintivo uma âncora metálica do modelo descrito no artigo 110.º-A e cujo centro fica a 0,035 m acima do debrum.
 
@@ -126,9 +134,9 @@ Na parte anterior e diametralmente oposta ao nó das pontas é aplicada como dis
 
 X) As «praças não prontas», enquanto não dispuserem de uniforme de licenças, usam a blusa de trabalho (artigo 112.º-A) e a calça de trabalho (artigo 26.º), nas ocasiões 10 e 15, em substituição das blusas azul e branca.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/04/08300/03940395.pdf))](https://files.diariodarepublica.pt/1s/1972/04/08300/03940395.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/04/08300/03940395.pdf)
 
 FIG. 3
 
@@ -136,4 +144,4 @@ Blusa de trabalho
 
 (Vista de frente)
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

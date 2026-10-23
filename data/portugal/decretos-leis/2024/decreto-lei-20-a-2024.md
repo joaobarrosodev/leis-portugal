@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 30/2024, 2º Suplemento, Série I de 2024-02-12
   number: '30'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 9-(2) a 9-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/03002/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/20-a/2024/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2024-848804205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7167bdc6e46c82194edb7f2d1cafaf3cf53205f884534c6eb8b3400cc484c80e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dff6107705ac80f4dd40b43540edf7228815bec4f98c2c201505259813c12584
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,16 @@ reuse:
 subjects:
 - Cartão de Cidadão
 - Certificação Electrónica
-- Recenseamento Eleitoral
-- Prorrogação de Prazo
 - Chave Móvel Digital
+- Prorrogação de Prazo
+- Recenseamento Eleitoral
 relationships:
+- type: amends
+  target: pt:numero:lei:19-A/2024
+  label: Altera, a partir de 13 de fevereiro de 2024, com efeitos a 13 de fevereiro de 2024, o n.º 1 do artigo 11.º da Lei
+    n.º 19-A/2024, de 7 de fevereiro, Diário da República n.º 27/2024, 2º Suplemento, Série I
+  source: null
+  date: '2024-02-07'
 - type: cites
   target: celex:32019R1157
   label: null
@@ -83,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2007/02/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2007/02/05/p/dre
+- type: cites
+  target: pt:dre:518073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:840716420:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:59Z'
   warnings: []
   errors: []
 ---
@@ -143,12 +157,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de fevereiro de 2024. - António Luís Santos da Costa.
 
-**Promulgado em 12 de fevereiro de 2024.**
+Promulgado em 12 de fevereiro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de fevereiro de 2024.**
+Referendado em 12 de fevereiro de 2024.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+117355096

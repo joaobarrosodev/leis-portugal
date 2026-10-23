@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 53/1977, 1º Suplemento, Série I de 1977-03-04
   number: '53'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 382-(1) a 382-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-a-1977-398837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T05:14:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa41726983bd14cd987f79705979f6b02f067f9f97bfe951ddcd4846232d868b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06f96aa73c7422e5c37c00001240ddf61516b7e548b661a2e83167f79b538d48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:14:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Comércio
+- Leite
+- Madeira.região Autónoma
+- Preço
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA PORTARIA NUMERO 808/77, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 302, 10 SUPLEMENTO, DE\
+    \ 31/12/77.\012/77.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:405136:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672655:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:405136:por
+  label: RECTIFICADA pelo(a) Portaria n.º 808/77 - Diário da República n.º 302/1977, 10º Suplemento, Série I de 1977-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/808-1977-405136
+  date: '1977-12-31'
+- type: repealed_by
+  target: pt:dre:250817:por
+  label: Revogada, a partir de 21.07.1977, pelo(a) Portaria n.º 431/77 - Diário da República n.º 163/1977, Série I de 1977-07-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/431-1977-250817
+  date: '1977-07-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:14:18Z'
   warnings: []
   errors: []
 ---
@@ -229,7 +273,7 @@ Leite esterilizado magro ... 0,5
 
 13.º - 1. Os preços de revenda e de venda ao público do leite pasteurizado, nos postos de venda e outros estabelecimentos, para utilizar fora do local de aquisição e ao domicílio, no continente e arquipélago da Madeira, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf)
 
 2. Aos preços fixados neste número para venda ao público poderá acrescer a importância de $10 por embalagem vendida para consumo fora do concelho onde se situam as instalações de tratamento.
 
@@ -239,7 +283,7 @@ Leite esterilizado magro ... 0,5
 
 14.º - 1. Os preços de revenda e de venda ao público do leite comum nos postos de venda e outros estabelecimentos, para utilizar fora do local de aquisição, e ao domicílio, no continente e no arquipélago da Madeira são os seguintes, por litro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf)
 
 2. Nas localidades onde existam postos de abastecimento ou outros que funcionem como tal, a venda de leite comum só poderá ser efectuada em bilhas seladas dotadas de dispositivo antifraude, em garrafas ou embalagens perdidas aprovadas pela Junta Nacional dos Produtos Pecuários.
 
@@ -247,19 +291,19 @@ Leite esterilizado magro ... 0,5
 
 15.º - 1. Os preços de revenda e de venda ao público do leite ultrapasteurizado, no continente, para utilizar fora do local de aquisição, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf)
 
 2. Estes preços são extensivos aos leites importados do tipo ultrapasteurizado.
 
 16.º - 1. Os preços de revenda e de venda ao público do leite esterilizado, no continente, para utilizar fora do local de aquisição, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf)
 
 2. Estes preços são extensivos ao leite importado do tipo esterilizado.
 
 17.º Os preços de revenda e de venda ao público do leite especial pasteurizado, no continente, para utilizar fora do local de aquisição, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf)
 
 18.º Transitoriamente, as cooperativas integradas na União das Cooperativas dos Produtores de Leite do Algarve poderão vender o leite classificado na classe A ao preço do leite pasteurizado, desde que acondicionado em bilhas seladas.
 
@@ -275,11 +319,11 @@ Leite esterilizado magro ... 0,5
 
 24.º - 1. Os preços máximos à porta de fábrica e na venda ao público do queijo tipo Flamengo de fabrico continental, com 40% ou mais de gordura, no continente, são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf)
 
 2. Os preços máximos à porta de fábrica nos Açores, no armazém do consignatário no continente e na venda ao público no continente do queijo tipo Flamengo de fabrico açoriano, com 40% ou mais de gordura, são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf)
 
 3. As margens máximas do armazenista e do retalhista, no continente, serão, respectivamente, de 8$00 e 18$00 por quilograma.
 
@@ -289,7 +333,7 @@ Leite esterilizado magro ... 0,5
 
 27.º - 1. Os preços à porta de fábrica e de venda ao público do leite condensado, no continente, são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf)
 
 2. A margem mínima do retalhista é de 15% sobre o preço de aquisição.
 
@@ -297,13 +341,13 @@ Leite esterilizado magro ... 0,5
 
 28.º - 1. Os preços máximos de venda de leite em pó a granel com destino à indústria de produtos dietéticos derivados do leite e destinados à alimentação infantil são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf)
 
 2. Os preços máximos de entrega de leite em pó a granel com destino à indústria de leite em pó embalado e à indústria de lacticínios, bem como os respectivos subsídios unitários, serão fixados por despacho conjunto dos Secretários de Estado do Comércio e Indústrias Agrícolas, do Comércio Interno e do Orçamento.
 
 29.º - 1. Os preços máximos à porta de fábrica e na venda ao público do leite em pó empacotado são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05301/00010006.pdf)
 
 2. A margem mínima do retalhista é de 15% sobre o preço de aquisição.
 

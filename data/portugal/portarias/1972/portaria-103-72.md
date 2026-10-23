@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 43/1972, 1º Suplemento, Série I de 1972-02-21
   number: '43'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 194-(1) a 194-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/02/04301/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/103-1972-423050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49681e4534a37a9bc2d7816c9b996df872bc3134fefc1e8c6a65b9df834e3675
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37672d2a00fd52c0f066ae464c9f97f1d6f1f7c2992fed19305ceb2cf41f2fc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,25 @@ relationships:
   target: pt:dre:326709:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:398136:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:326709:por
+  label: Revogada, a partir de 05.12.1978, pelo(a) Decreto-Lei n.º 371/78 - Diário da República n.º 276/1978, Série I de 1978-11-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/371-1978-326709
+  date: '1978-11-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:33Z'
   warnings: []
   errors: []
 ---

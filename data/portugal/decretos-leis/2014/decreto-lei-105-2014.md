@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/07/12500/0363803645.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/105/2014/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12efcc603ee9a0c4198ebd09e6d6ce24f85d7dfb90524a4f32ae1e0ab57fcfeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ff80437f9dc37ae3a2a396201d7588c6ef152dbec849a9a5df4ccb98aa33a00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,31 +71,31 @@ subjects:
 - Alter do CHÃO
 - Arronches
 - Assembleia Geral
-- Gestão de Resíduos
 - Avis
-- Fiscal Único
 - Campo Maior
+- Castelo Branco
 - Castelo de VIDE
 - Código das Sociedades Comerciais
-- Saneamento Básico
+- Conselho Consultivo
 - Conselho de Administração
 - Crato
 - Elvas
+- Fiscal Único
 - Gavião
+- Gestão de Resíduos
 - Idanha-a-nova
-- Conselho Consultivo
 - Mação
 - Marvão
 - Monforte
 - Nisa
 - Oleiros
-- Proteção do Ambiente
 - Plano Estratégico dos Resíduos Sólidos Urbanos
-- Castelo Branco
 - Ponte de Sor
 - Portalegre
 - Proença-a-nova
+- Proteção do Ambiente
 - Resíduo Urbano
+- Saneamento Básico
 - Sertã
 - Sousel
 - Valnor
@@ -125,16 +125,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3282943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
 article_structure:
-  article_count: 62
+  article_count: 49
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:26Z'
   warnings: []
   errors: []
 ---
@@ -173,13 +201,13 @@ Os artigos 1.º, 6.º e 7.º do [Decreto-Lei n.º 11/2001](https://diariodarepub
 
 É criado, nos termos e para os efeitos do n.º 2 do artigo 1.º do [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de novembro e do [Decreto-Lei n.º 92/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2013-498094), de 11 de julho, o sistema multimunicipal de triagem, recolha, valorização e tratamento de resíduos sólidos urbanos do Norte Alentejano, adiante designado por sistema multimunicipal do Norte Alentejano, integrando como utilizadores originários os municípios de Alter do Chão, Arronches, Avis, Campo Maior, Castelo de Vide, Crato, Elvas, Fronteira, Marvão, Monforte, Nisa, Ponte de Sor, Portalegre e Sousel, tendo sido alargado em 2004 aos municípios de Abrantes, Gavião, Mação, Sardoal e Vila de Rei através do Despacho n.º 26172/2004, de 22 de novembro, publicado no Diário da República, 2.ª série, n.º 294, de 17 de dezembro, e em 2010 aos municípios de Castelo Branco, Idanha-a-Nova, Oleiros, Proença-a-Nova, Sertã e Vila Velha de Ródão através do [Despacho n.º 16510/2010](https://diariodarepublica.pt/dr/detalhe/despacho/16510-2010-3282943), de 20 de setembro, publicado no Diário da República, 2.ª série, n.º 211, de 29 de outubro.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - A exploração e gestão do sistema multimunicipal do Norte Alentejano é atribuída em regime de concessão exclusiva à VALNOR - Valorização e Tratamento de Resíduos Sólidos, S. A., até 31 de dezembro de 2034.
 
 2 - [Revogado].
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - [Revogado].
 
@@ -201,7 +229,7 @@ São aditados ao [Decreto-Lei n.º 11/2001](https://diariodarepublica.pt/dr/deta
 
 2 - Integram o conselho consultivo previsto no número anterior, por inerência, os presidentes de todas as câmaras municipais dos municípios utilizadores do sistema gerido pela VALNOR - Valorização e Tratamento de Resíduos Sólidos, S. A., bem como os membros do respetivo conselho de administração e o fiscal único desta.
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - A VALNOR - Valorização e Tratamento de Resíduos Sólidos, S. A., deve prestar em benefício do concedente uma caução destinada a garantir o cumprimento de todas as obrigações que para si emergem do contrato de concessão.
 
@@ -227,19 +255,19 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 3 - A sociedade pode, desde que para o efeito esteja habilitada, exercer outras atividades para além daquelas que constituem o objeto da concessão, desde que consideradas complementares ou outras atividades nos termos do contrato de concessão e mediante autorização do concedente.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - [...].
 
 2 - O capital social é representado por 10 000 000 ações com o valor nominal de (euro) 1,00 cada uma.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - [...].
 
 2 - Por deliberação dos acionistas, as ações preferenciais podem ser sujeitas a remição, devendo ser feita pelo valor nominal das ações, eventualmente acrescido de um prémio determinado pela mesma deliberação.
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - [Revogado].
 
@@ -265,7 +293,7 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 12 - Querendo vários acionistas preferir, as ações alienadas são distribuídas a cada um, incluindo ao primitivo adquirente, se já for acionista, na proporção das respetivas participações sociais.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - Mediante deliberação dos sócios, a sociedade pode amortizar as ações que forem penhoradas, arrestadas, arroladas, incluídas em massa insolvente ou, em geral, apreendidas no âmbito de qualquer ação judicial ou estiverem em condições de ser transmitidas judicialmente.
 
@@ -273,25 +301,25 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 3 - [Revogado].
 
-###### Artigo 12.º
+Artigo 12.º
 
 1 - São órgãos da sociedade a assembleia geral, o conselho de administração, e o fiscal único que pode ser substituído por um fiscal único suplente.
 
 2 - [...].
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - Os acionistas com direito de voto podem participar nas assembleias gerais desde que as ações estejam averbadas em seu nome no livro de registo da sociedade até 10 dias antes daquele em que a assembleia geral deve reunir em primeira convocatória.
 
 2 - [...].
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - [...].
 
 2 - A assembleia geral reúne ainda sempre que o requeiram o conselho de administração, o fiscal único ou os acionistas que representem, pelo menos, 5 % do capital social.
 
-###### Artigo 18.º
+Artigo 18.º
 
 1 - [...].
 
@@ -315,7 +343,7 @@ h) [...].
 
 3 - [...].
 
-###### Artigo 19.º
+Artigo 19.º
 
 1 - [...].
 
@@ -325,7 +353,7 @@ h) [...].
 
 4 - [...].
 
-###### Artigo 25.º
+Artigo 25.º
 
 A fiscalização da sociedade compete a um fiscal único e a um suplente, ambos revisores oficiais de contas ou sociedade de revisores oficiais de contas, eleitos em assembleia geral.»
 
@@ -363,15 +391,15 @@ São revogados o artigo 2.º, o n.º 3 do artigo 4.º, o artigo 5.º, o n.º 2 d
 
 Visto e aprovado em Conselho de Ministros de 8 de maio de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 24 de junho de 2014.**
+Promulgado em 24 de junho de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de junho de 2014.**
+Referendado em 25 de junho de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 

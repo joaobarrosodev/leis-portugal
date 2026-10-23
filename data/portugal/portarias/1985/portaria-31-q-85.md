@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 10/1985, 3º Suplemento, Série I de 1985-01-12
   number: '10'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 72-(35) a 72-(37)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01003/00350037.pdf
 entry_into_force_dates: []
@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-q-1985-162794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T08:23:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8214cad35c9aa4dfa17e1ca0010c733f5ca8f2cc50fe2fc3d6130f0e42093db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbb6fbfa6e174bc94cbe5bba28b3be5e7f0112fb68a3bc39c2e254930cb66c2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:23:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avião
+- Política de Preços
+- Preço
+- Transporte Aéreo
+- Transporte de Carga
+- Transporte de Passageiros
+relationships:
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:23:41Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +110,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 1.º São aprovadas as seguintes tarifas de transporte aéreo de passageiros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01003/00350037.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01003/00350037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01003/00350037.pdf)
 
 2.º Não são permitidos quaisquer descontos sobre estas tarifas, excepto os de criança e bebé, nas condições internacionalmente estabelecidas para este tipo de tráfego.
 
@@ -128,9 +146,9 @@ Q. 45 kg ... 21$00
 
 Ministérios das Finanças e do Plano, do Comércio e Turismo e do Equipamento Social.
 
-**Assinada em 11 de Janeiro de 1985.**
+Assinada em 11 de Janeiro de 1985.
 
-**O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral. - O Ministro do Equipamento Social, João Rosado Correia.**
+O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral. - O Ministro do Equipamento Social, João Rosado Correia.
 
 ## ANEXO I — Condições de aplicação da tarifa de excursão
 

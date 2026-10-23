@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 226/1979, 1º Suplemento, Série I de 1979-09-29
   number: '226'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2546-(1) a 2546-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/525-1979-403329
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cef09dd214539486110623b7aa2e9ad5d2ade47660672ba118b55ec6f28d7458
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba81c21332ebea280d65df1b9913c6679d33078e86653681d969f6f3a5d5bb74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carris
+- CP
+- Metropolitano de Lisboa
+- Passe Social
+- Preço
+- Serviço de Transportes Colectivos do Porto
+- Transporte de Passageiros
+- Transporte Ferroviário
+- Transporte Fluvial
+- Transporte Público
+- Transporte Urbano
+- Transtejo
 relationships:
 - type: amended_by
   target: pt:dre:511242:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:462796:por
+  label: "Alterado o preço das tarifas previstas no ponto 2.1.2 e dada nova redacção ao ponto 4.2. do presente diploma, pela\
+    \ PORT.854/80.22.10.1980.MFP, DR.IS [245] de 22.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/854-1980-462796
+  date: '1980-10-22'
+- type: cites
+  target: pt:dre:148442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:511242:por
+  label: "Revogada pela PORT.50/94.19.01.1994.MF, DR.IS-B [15] de 19.01.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/50-1994-511242
+  date: '1994-01-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:41Z'
   warnings: []
   errors: []
 ---
@@ -106,11 +157,11 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças, do Com�
 
 Autocarros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf))](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
 
 Eléctricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf))](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
 
 Elevadores - Bilhete simples ... 3$00
 
@@ -124,7 +175,7 @@ Pré-comprado (ver nota a) ... 6$25
 
 1.1.3 - Transtejo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf))](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
 
 1.2 - Passes:
 
@@ -208,23 +259,23 @@ Terreiro do Paço-Montijo ... 175$00
 
 Autocarros e troleicarros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf))](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
 
 Eléctricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf))](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
 
 2.1.2 - Outros percursos com um ou dois términos fora da cidade:
 
 Autocarros e troleicarros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf))](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
 
 Fora da cidade, nos percursos comuns às carreiras dos STCP sujeitas a estas tarifas, os outros concessionários deverão praticar as tarifas homologadas para aquelas. A requerimento dos respectivos concessionários, o director-geral de transportes terrestres poderá autorizar, através de despacho, que nas carreiras interurbanas se pratique naqueles percursos o regime tarifário previsto no ponto 4 do presente diploma.
 
 Eléctricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf))](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
 
 2.2 - Passes:
 
@@ -270,7 +321,7 @@ Válidos para todos os dias, excepto domingos e feriados.
 
 4.1.1 - Para percursos até 20 km:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf))](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
 
 4.1.2 - Para percursos de mais de 20 km:
 
@@ -312,7 +363,7 @@ A requerimento dos concessionários, a Direcção-Geral de Transportes Terrestre
 
 4.4.1 - Para número ilimitado de viagens:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf))](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
 
 4.4.2 - Para número limitado de viagens:
 
@@ -334,12 +385,12 @@ São abolidos todos os outros títulos de transporte, excepto os que forem mais 
 
 Ministérios das Finanças, do Comércio e Turismo e dos Transportes e Comunicações, 25 de Setembro de 1979. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro do Comércio e Turismo, Acácio Manuel Pereira Magro. - O Ministro dos Transportes e Comunicações, Frederico Alberto Monteiro da Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf))](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
 
 ## ANEXO II — Taxa de operações acessórias e especiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf))](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/22601/00010010.pdf)
 
 Observação. - Os períodos acima referidos começam a contar a partir da hora do depósito.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro do Comércio e Turismo, Acácio Manuel Pereira Magro. - O Ministro dos Transportes e Comunicações, Frederico Alberto Monteiro da Silva.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro do Comércio e Turismo, Acácio Manuel Pereira Magro. - O Ministro dos Transportes e Comunicações, Frederico Alberto Monteiro da Silva.

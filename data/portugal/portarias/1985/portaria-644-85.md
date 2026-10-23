@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/644-1985-181177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T08:31:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69ca770bffc8f6aa18b002750ece4c5550a2b829db06e52b34fcef5c1fb82368
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 621c7ce3737e2c47066cfd21e9d4ca1a9cc3dd8dbaa5d6a1f41ce43c8b00b8ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:31:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- MIRA
+- Ordenamento do Território
+- Plano de Urbanização
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:31:51Z'
   warnings: []
   errors: []
 ---
@@ -88,31 +96,31 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Habitaç
 
 Secretaria de Estado da Habitação e Urbanismo.
 
-**Assinada em 6 de Agosto de 1985.**
+Assinada em 6 de Agosto de 1985.
 
-**O Secretário de Estado da Habitação e Urbanismo, Fernando Manuel dos Santos Gomes.**
+O Secretário de Estado da Habitação e Urbanismo, Fernando Manuel dos Santos Gomes.
 
 REGULAMENTO DO PLANO PARCIAL DA ZONA CENTRAL DA VILA DE MIRA
 
-###### Artigo 1.º Este Regulamento destina-se à área total delimitada na planta de síntese.
+Artigo 1.º Este Regulamento destina-se à área total delimitada na planta de síntese.
 
-###### Art. 2.º Na ocupação das zonas especificadas no Plano Parcial ter-se-ão em conta as directivas incluídas neste Regulamento.
+Art. 2.º Na ocupação das zonas especificadas no Plano Parcial ter-se-ão em conta as directivas incluídas neste Regulamento.
 
-###### Art. 3.º O coeficiente de edificabilidade é o número de metros quadrados de superfície construída por cada metro quadrado de terreno referido exclusivamente ao lote.
+Art. 3.º O coeficiente de edificabilidade é o número de metros quadrados de superfície construída por cada metro quadrado de terreno referido exclusivamente ao lote.
 
-###### Art. 4.º Zona H1/A2. - Zona destinada a habitação unifamiliar, em banda contínua, com o máximo de dois pisos (r/c + 1). O coeficiente de edificabilidade é, no máximo, de 1.
+Art. 4.º Zona H1/A2. - Zona destinada a habitação unifamiliar, em banda contínua, com o máximo de dois pisos (r/c + 1). O coeficiente de edificabilidade é, no máximo, de 1.
 
-###### Art. 5.º Zona H2/A1 e H1/A5. - Zonas destinadas a habitação unifamiliar, isolada ou agrupada, com o máximo de dois pisos (r/c + 1). O coeficiente de edificabilidade é, no máximo, de 0,75. Quando isolada, as bandas laterais livres não poderão ser inferiores a 3 m.
+Art. 5.º Zona H2/A1 e H1/A5. - Zonas destinadas a habitação unifamiliar, isolada ou agrupada, com o máximo de dois pisos (r/c + 1). O coeficiente de edificabilidade é, no máximo, de 0,75. Quando isolada, as bandas laterais livres não poderão ser inferiores a 3 m.
 
-###### Art. 6.º Zona H3/B1. - Zona destinada a habitação e comércio ou escritórios. O número máximo de pisos é de três mais um recuado (r/c + 2 + 1 recuado) para a Avenida de 25 de Abril, e de três (r/c + 2) e dois (r/c + 1) para a rua lateral. O coeficiente de edificabilidade é de 1,5.
+Art. 6.º Zona H3/B1. - Zona destinada a habitação e comércio ou escritórios. O número máximo de pisos é de três mais um recuado (r/c + 2 + 1 recuado) para a Avenida de 25 de Abril, e de três (r/c + 2) e dois (r/c + 1) para a rua lateral. O coeficiente de edificabilidade é de 1,5.
 
-###### Art. 7.º Zona H3C/B2. - Zona destinada a habitação, comércio e escritórios. O número máximo de pisos é de três mais um recuado (r/c + 2 + 1 recuado). O coeficiente de edificabilidade é, no máximo, de 0,5.
+Art. 7.º Zona H3C/B2. - Zona destinada a habitação, comércio e escritórios. O número máximo de pisos é de três mais um recuado (r/c + 2 + 1 recuado). O coeficiente de edificabilidade é, no máximo, de 0,5.
 
-###### Art. 8.º Zona H1/A3 e H1/A4. - Zona destinada a habitação, em banda contínua, com o máximo de dois pisos (r/c + 1). O coeficiente de edificabilidade é, no máximo, de 0,75.
+Art. 8.º Zona H1/A3 e H1/A4. - Zona destinada a habitação, em banda contínua, com o máximo de dois pisos (r/c + 1). O coeficiente de edificabilidade é, no máximo, de 0,75.
 
-###### Art. 9.º Zona rural de protecção. - Zona destinada essencialmente a fins agrícolas, com uma área mínima por lote de 5000 m2. Pode, no lote, haver construções de apoio à agricultura ou destinadas a habitação. Neste caso, a construção não pode ultrapassar os dois pisos (r/c + 1), com coeficiente de edificabilidade máximo de 0,03.
+Art. 9.º Zona rural de protecção. - Zona destinada essencialmente a fins agrícolas, com uma área mínima por lote de 5000 m2. Pode, no lote, haver construções de apoio à agricultura ou destinadas a habitação. Neste caso, a construção não pode ultrapassar os dois pisos (r/c + 1), com coeficiente de edificabilidade máximo de 0,03.
 
-###### Art. 10.º Os espaços destinados a equipamentos não podem ser diminuídos e são assim especificados:
+Art. 10.º Os espaços destinados a equipamentos não podem ser diminuídos e são assim especificados:
 
 EQ(índice 1) - Espaço destinado a quartel da GNR;
 
@@ -128,10 +136,10 @@ ESPV - Espaço destinado exclusivamente a zona verde;
 
 EQD - Espaço destinado a equipamento desportivo.
 
-###### Art. 11.º Nas zonas existentes, as construções em lotes livres devem seguir as características gerais da zona em relação à volumetria, cércea, afastamentos, assim como quanto ao índice de ocupação.
+Art. 11.º Nas zonas existentes, as construções em lotes livres devem seguir as características gerais da zona em relação à volumetria, cércea, afastamentos, assim como quanto ao índice de ocupação.
 
 Também não devem ser alteradas as funções das zonas existentes. Poderá, no entanto, a Câmara Municipal, em casos justificados, consentir em funções diferentes.
 
-###### Art. 12.º Todas as zonas propostas no plano parcial devem ser objecto de estudo em plano de pormenor.
+Art. 12.º Todas as zonas propostas no plano parcial devem ser objecto de estudo em plano de pormenor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/08/19600/27832784.pdf))](https://files.diariodarepublica.pt/1s/1985/08/19600/27832784.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/19600/27832784.pdf)

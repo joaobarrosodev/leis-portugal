@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 85/1979, 1º Suplemento, Série I de 1979-04-11
   number: '85'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 594-(8) a 594-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/04/08501/00080009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/167-1979-515858
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T05:52:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8abe70e40d0e0d4d4413798810df299e376e1be49b2bb53ebf8748a589f3edc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63819e2d7ca8efba6e7bdf0015286facc38f7f35d61163224026d51dc7d54d6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:52:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Indústria Alimentar
+- Indústria Química
+- Instituto do Azeite e Produtos Oleaginosos
+- Margarina
+- Matéria-Prima
+- ÓLEO Vegetal
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:275783:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656381:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:383842:por
+  label: Rectificada pela DECL.DD7392.04.06.1979.PCM, DR.IS [128] de 04.06.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-383842
+  date: '1979-06-04'
+- type: repealed_by
+  target: pt:dre:275783:por
+  label: "Revogada pela PORT.42-B/80.15.02.1980.MFP, DR.IS [39]Supl de 15.02.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/42-b-1980-275783
+  date: '1980-02-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:52:02Z'
   warnings: []
   errors: []
 ---
@@ -166,6 +195,6 @@ Secretarias de Estado do Orçamento, das Indústrias Extractivas e Transformador
 
 ## ANEXO — Características das sementes oleaginosas a que se refere o n.º 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/08501/00080009.pdf))](https://files.diariodarepublica.pt/1s/1979/04/08501/00080009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08501/00080009.pdf)
 
-**O Secretário de Estado do Orçamento, João Pinto Ribeiro. - O Secretário de Estado das Indústrias Extractivas e Transformadoras, António José Baptista Cardoso e Cunha. - O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.**
+O Secretário de Estado do Orçamento, João Pinto Ribeiro. - O Secretário de Estado das Indústrias Extractivas e Transformadoras, António José Baptista Cardoso e Cunha. - O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18-1971-300188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef020880ec2d0bd2ba4dc70a4eb9eacea74fc0f035c81bcade6fe8c6ccd0d665
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e7f7d309769fe1559362bf266855ae5e8379d74cb5b4cc5b65d4d076ca63c24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:45Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +97,13 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 1), alínea b) «Aquisições de utilização permanente - Aquisição de móveis - Máquinas, aparelhos, instrumentos e utensílios» ... 20000$00
+Artigo 4.º, n.º 1), alínea b) «Aquisições de utilização permanente - Aquisição de móveis - Máquinas, aparelhos, instrumentos e utensílios» ... 20000$00
 
 Diversos encargos:
 
-###### Artigo 11.º, n.º 1) «Outros encargos - Despesas com o armazém, incluindo o pagamento a pessoal assalariado eventual» ... 15000$00
+Artigo 11.º, n.º 1) «Outros encargos - Despesas com o armazém, incluindo o pagamento a pessoal assalariado eventual» ... 15000$00
 
-###### Artigo 13.º «Despesas de anos económicos findos» ... 12000$00
+Artigo 13.º «Despesas de anos económicos findos» ... 12000$00
 
 ... 47000$00
 
@@ -109,11 +113,11 @@ tomando como contrapartida igual importância a sair das disponibilidades existe
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 2), alínea a) «Aquisições de utilização permanente - Aquisição de semoventes - Viaturas com motor» ... 20000$00
+Artigo 4.º, n.º 2), alínea a) «Aquisições de utilização permanente - Aquisição de semoventes - Viaturas com motor» ... 20000$00
 
 Diversos encargos:
 
-###### Artigo 10.º, n.º 1) «Encargos das instalações - Renda de casa» ... 27000$00
+Artigo 10.º, n.º 1) «Encargos das instalações - Renda de casa» ... 27000$00
 
 ... 47000$00
 
@@ -125,17 +129,17 @@ a) Um da importância de 175000$00, destinado a reforçar, com as quantias que s
 
 Despesas com o material:
 
-###### Artigo 5.º, n.º 3), alínea a) «Despesas de conservação e aproveitamento do material - De semoventes - Viaturas com motor» ... 70000$00
+Artigo 5.º, n.º 3), alínea a) «Despesas de conservação e aproveitamento do material - De semoventes - Viaturas com motor» ... 70000$00
 
-###### Artigo 6.º, n.º 2) «Material de consumo corrente - Diversos não especificados, incluindo artigos de expediente, assinaturas do Diário do Governo e outras publicações, compra de livros indispensáveis ao serviço, pequenas reparações eventuais, etc.» ... 20000$00
+Artigo 6.º, n.º 2) «Material de consumo corrente - Diversos não especificados, incluindo artigos de expediente, assinaturas do Diário do Governo e outras publicações, compra de livros indispensáveis ao serviço, pequenas reparações eventuais, etc.» ... 20000$00
 
-###### Artigo 6.º, n.º 3) «Combustível, lubrificantes e sobresselentes» ... 30000$00
+Artigo 6.º, n.º 3) «Combustível, lubrificantes e sobresselentes» ... 30000$00
 
 Pagamento de serviços:
 
-###### Artigo 8.º, n.º 2) «Despesas de comunicações - Telefones» ... 25000$00
+Artigo 8.º, n.º 2) «Despesas de comunicações - Telefones» ... 25000$00
 
-###### Artigo 8.º, n.º 3) «Transportes, despachos, fretes e seguros» ... 30000$00
+Artigo 8.º, n.º 3) «Transportes, despachos, fretes e seguros» ... 30000$00
 
 ... 175000$00
 

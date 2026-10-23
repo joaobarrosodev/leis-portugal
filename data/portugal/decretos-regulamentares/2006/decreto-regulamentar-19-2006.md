@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/10/20600/73757381.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/19/2006/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-2006-545781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad275cd446a8002c1f8cb4d599bfe7dcf4c6885a7ffaf6e18d52af22c3cab966
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0762823dac42f5a69659632533bcaed5b9e93ce41ea5e9667e87961c213a61d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,7 +66,6 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Alvará
 - Campo de Tiro
 - Carreira de TIRO
@@ -74,6 +73,7 @@ subjects:
 - Fiscalização
 - Instituto do Desporto de Portugal
 - Licenciamento
+- PSP
 - Regulamento
 relationships:
 - type: amended_by
@@ -92,16 +92,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/2006/02/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/2006/02/23/p/dre
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:306606:por
+  label: "Revogado, a partir de 02.01.2011, pelo DR.6/2010.28.12.2010.MAI, DR.IS [250] de 28.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-2010-306606
+  date: '2010-12-28'
 article_structure:
   article_count: 39
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:41Z'
   warnings: []
   errors: []
 ---
@@ -218,19 +235,21 @@ Sem prejuízo de competências das demais autoridades públicas para a notícia 
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa.
 
-**Promulgado em 4 de Outubro de 2006.**
+Promulgado em 4 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 6 de Outubro de 2006.**
+Referendado em 6 de Outubro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — REGULAMENTO TÉCNICO E DE FUNCIONAMENTO E SEGURANÇA DAS CARREIRAS E CAMPOS DE TIRO
 
-### CAPÍTULO I — Parte geral
+### CAPÍTULO I
+
+## Parte geral
 
 ###### Artigo 1.º — Definições
 

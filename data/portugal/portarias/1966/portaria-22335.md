@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22335-1966-477340
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:23:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 190a870911ff06ed7e8eb39924de4f3c6771f946834eccda124272e45fa76ee8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c594f87d9bd31b08a2a669e28a4a0b8472885970378b4d89be6ccdb3fcfe12da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:23:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:23:27Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +108,7 @@ Segurança pública
 
 Despesas com o pessoal:
 
-###### Artigo 149.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 10000$00
+Artigo 149.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 10000$00
 
 ### CAPÍTULO 7.º — Serviços de fomento
 
@@ -104,7 +116,7 @@ Oficinas da província
 
 Despesas com o pessoal:
 
-###### Artigo 230.º, n.º 3) «Remunerações certas ao pessoal em exercício - Pessoal assalariado» ... 10000$00
+Artigo 230.º, n.º 3) «Remunerações certas ao pessoal em exercício - Pessoal assalariado» ... 10000$00
 
 ... 20000$00
 
@@ -118,7 +130,7 @@ Serviço de Fazenda e contabilidade
 
 Despesas com o pessoal:
 
-###### Artigo 155.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 20200$00
+Artigo 155.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 20200$00
 
 ### CAPÍTULO 7.º — Serviços de fomento
 
@@ -126,7 +138,7 @@ Repartição Provincial dos Serviços de Economia e Estatística Geral
 
 Despesas com o pessoal:
 
-###### Artigo 200.º, n.º 2) «Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 19800$00
+Artigo 200.º, n.º 2) «Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 19800$00
 
 ... 40000$00
 
@@ -138,7 +150,7 @@ Serviços de saúde e assistência
 
 Despesas com o pessoal:
 
-###### Artigo 131.º «Remunerações certas ao pessoal em exercício»:
+Artigo 131.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1), alínea a) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 40000$00
 

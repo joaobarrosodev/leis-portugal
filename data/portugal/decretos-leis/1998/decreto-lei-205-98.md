@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/158a00/32763281.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/205/1998/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1998-484842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:58:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0108174acb05664f2da38f9334b1150d45c93c70211e41cc89c1d3799530a5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3689b91e235fc3cc4c94d0ac12c5d2ffeb91c0cf0b2d0f36f89c381d3e5c29ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:58:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,42 +69,72 @@ reuse:
 subjects:
 - Acesso à Informação
 - Associação de Estudantes
-- Instituto Nacional de Estatística
+- Avaliação das Instituições
 - Comissão do Ensino Superior Politécnico
 - Comissão do Ensino Superior Universitário
-- Conselho Nacional de Avaliação do Ensino Superior
 - Conselho Administrativo
-- Ensino Superior Militar
 - Conselho Coordenador dos Institutos Superiores Politécnicos
 - Conselho de Avaliação
 - Conselho de Reitores das Universidades Portuguesas
+- Conselho Nacional de Avaliação do Ensino Superior
 - Definição de Competências
 - Ensino Oficial
 - Ensino Particular
-- Ensino Superior Politécnico
-- Avaliação das Instituições
-- Política de Educação
-- Estabelecimento de Ensino
 - Ensino Superior
+- Ensino Superior Militar
+- Ensino Superior Politécnico
+- Estabelecimento de Ensino
+- Instituto Nacional de Estatística
+- Política de Educação
 relationships:
 - type: amended_by
   target: pt:dre:629433:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Determinada a transição para o Ministério da Ciência e do Ensino Superior do Conselho Nacional da Avaliação do Ensino\
+    \ Superior (integrado no Ministério da Educação), pelo DEC LEI.120/2002.2002.05.03.PCM, DR.IS-A [158]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
+- type: amended_by
+  target: pt:dre:545643:por
+  label: "Extinto o Conselho Nacional de Avaliação do Ensino Superior, criado no presente diploma, mantido no entanto em funcionamento\
+    \ até à criação de uma agência de acreditação e avaliação do ensino superior, pelo DEC LEI.214/2006.27.10.2006.MCTES,\
+    \ DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2006-545643
+  date: '2006-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/38/1994/11/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/38/1994/11/21/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550837:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:629433:por
+  label: "Revogado pelo DEC LEI.369/2007.05.11.2007.MCTES, DR.IS [212] de 05.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/369-2007-629433
+  date: '2007-11-05'
 article_structure:
   article_count: 24
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:58:34Z'
   warnings: []
   errors: []
 ---
@@ -437,12 +467,12 @@ Nas instituições de ensino superior submetidas à tutela conjunta dos Ministé
 
 Visto e aprovado em Conselho de Ministros de 16 de Abril de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 19 de Junho de 1998.**
+Promulgado em 19 de Junho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Junho de 1998.**
+Referendado em 30 de Junho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

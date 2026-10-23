@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/1-1985-622290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:56:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a866054dd7b2294820269f7e9d98bc5a0bf1f754d37148b35f1af9a097486f3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd3592d70065be1762390ce1bcb1427b6f8b004c2b6178c2e9ac0a704b5b93ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:56:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exoneração
+- Governo IX
+- Subsecretário de Estado do Orçamento
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:56:32Z'
   warnings: []
   errors: []
 ---
@@ -85,16 +88,16 @@ validation:
 
 de 5 de Janeiro
 
-**O Presidente da República decreta, nos termos da alínea h) do artigo 136.º da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos da alínea h) do artigo 136.º da Constituição, o seguinte:
 
 É exonerado, a seu pedido, sob proposta do Primeiro-Ministro, o Dr. Alberto Fernando de Paiva Amorim Pereira do cargo de Subsecretário de Estado do Orçamento.
 
-**Assinado em 12 de Dezembro de 1984.**
+Assinado em 12 de Dezembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 12 de Dezembro de 1984.**
+Referendado em 12 de Dezembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/06/11300/0297202978.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/79/2019/06/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5170df40125a14ea075861acf0437946f538072ff0810d5295d7c323684b698a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55f62868a7ec0cf470c9e6cbfa5a63d2daa37b0d7be96f4853209ddd80155cfa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,23 +73,23 @@ subjects:
 - Beneficiário
 - Centro Nacional de Pensões
 - Complemento Extraordinario de Solidariedade
-- Regulamentação de Atos Legislativos
 - IAS
 - Idade de Reforma
-- Reforma Antecipada
 - Pensão de Aposentação
 - Pensão de Invalidez
+- Pensão de Reforma
 - Pensão de Sobrevivência
 - Pensão de Velhice
-- Pensão de Reforma
 - Pensão por Morte
 - Prestações da Segurança Social
 - Prestações Pecuniárias
 - Reembolso
 - Reforma
+- Reforma Antecipada
 - Regime Contributivo da Segurança Social
 - Regime Geral da Segurança Social
 - Regime Jurídico
+- Regulamentação de Atos Legislativos
 - Responsabilidade Civil
 - Segurança Social
 - Situação Económica Dificil
@@ -139,16 +139,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:108269606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116417932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117503935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66147743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73803671:por
+  label: null
+  source: null
 article_structure:
-  article_count: 41
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:46Z'
   warnings: []
   errors: []
 ---
@@ -209,7 +285,9 @@ b) Ao ressarcimento do valor de prestações da responsabilidade das entidades e
 
 c) Às compensações retributivas a que se refere o artigo 305.º do Código do Trabalho.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Consideram-se prestações indevidas as que sejam concedidas sem observância das disposições legais em vigor, designadamente:
 
@@ -223,7 +301,9 @@ c) As prestações continuadas atribuídas após deixarem de se verificar as con
 
 3 - Para os efeitos do presente decreto-lei, são equiparadas a prestações indevidas as que tenham sido recebidas por terceiro que para tal não tenha legitimidade, designadamente, após a morte do beneficiário, os cotitulares da conta bancária onde as prestações foram creditadas.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - São responsáveis pela restituição dos valores recebidos as pessoas ou entidades a quem as prestações forem indevidamente atribuídas ou aquelas que as tenham indevidamente recebido, bem como as que tenham contribuído para a atribuição ou recebimento indevido.
 
@@ -233,7 +313,9 @@ c) As prestações continuadas atribuídas após deixarem de se verificar as con
 
 4 - São igualmente responsáveis pela restituição das prestações pagas após a morte do titular do direito, a herança do falecido, bem como, quando o pagamento tiver sido efetuado por transferência bancária, o cotitular ou cotitulares da conta bancária.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Verificada a concessão indevida de prestações, os serviços de segurança social devem:
 
@@ -251,7 +333,9 @@ c) Proceder à interpelação dos responsáveis para efetuarem a restituição d
 
 5 - O reconhecimento da extinção prevista no número anterior é feito por decisão do dirigente máximo do organismo que atribui a prestação.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -263,7 +347,9 @@ c) Proceder à interpelação dos responsáveis para efetuarem a restituição d
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A compensação do valor das prestações indevidamente pagas com outras prestações devidas no âmbito do sistema de segurança social tem lugar quando for o mesmo o titular do débito pelas prestações indevidas e do crédito de outras prestações.
 
@@ -287,7 +373,9 @@ b) Um montante mensal igual ao valor da pensão social, ou o valor da respetiva 
 
 9 - A compensação efetua-se nas prestações devidas no mês ou meses seguintes, pela totalidade do montante indevidamente pago, salvo se o remanescente da prestação a pagar for inferior ao valor da pensão social, garantindo-se, nestes casos, este valor.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Os serviços de segurança social devem promover a cobrança coerciva do valor das prestações indevidamente pagas sempre que o recurso à compensação possa pôr em causa o seu efetivo reembolso e estejam em causa montantes de prestações que, no seu conjunto, sejam superiores a 50 euros.
 
@@ -295,7 +383,9 @@ b) Um montante mensal igual ao valor da pensão social, ou o valor da respetiva 
 
 3 - As dívidas referentes a prestações que garantam mínimos de subsistência não são passíveis de cobrança coerciva durante o período de concessão, salvo se a sua atribuição resultar de falsas declarações do interessado.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -317,7 +407,9 @@ Os artigos 3.º, 12.º, 13.º, 17.º, 29.º, 32.º, 38.º, 39.º, 46.º, 47.º, 
 
 3 - Podem ainda ser atribuídas pensões provisórias de sobrevivência, nas situações previstas no presente diploma.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -335,19 +427,25 @@ c) Sem limite de idade, tratando-se de pessoa com deficiência que nessa qualida
 
 5 - A prova da situação escolar, nas situações referidas nas alíneas a) e b) do n.º 2, é efetuada pelo interessado pelos meios e nos termos previstos no regime jurídico do abono de família.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A atribuição das prestações a descendentes além do 1.º grau depende de estes estarem a cargo do beneficiário falecido à data da sua morte.
 
 2 - Para efeitos do disposto no número anterior, consideram-se a cargo do beneficiário falecido os descendentes além do primeiro grau sem rendimentos e que convivessem com o beneficiário em comunhão de mesa e habitação à data da sua morte.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Pode ser atribuída pensão provisória de sobrevivência tendo em vista impedir situações temporárias de desproteção.
 
 2 - A atribuição da pensão provisória de sobrevivência depende de o requerente satisfazer, à data do requerimento, as condições de atribuição da pensão de sobrevivência.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -359,13 +457,17 @@ c) Sem limite de idade, tratando-se de pessoa com deficiência que nessa qualida
 
 5 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
 2 - Nas situações em que existam titulares do direito ao subsídio por morte e se verifique que as despesas de funeral não foram suportadas por estes, há lugar ao pagamento do subsídio por morte aos respetivos titulares, nos termos do artigo 35.º, pelo valor diferencial entre as despesas de funeral e o valor do subsídio por morte.
 
-###### Artigo 38.º — Período de concessão das pensões aos cônjuges, ex-cônjuges e unidos de facto
+Artigo 38.º
+
+Período de concessão das pensões aos cônjuges, ex-cônjuges e unidos de facto
 
 1 - As pensões são concedidas aos cônjuges, ex-cônjuges e unidos de facto pelo período de cinco anos, no caso de estes à data da morte do beneficiário terem idade inferior a 35 anos.
 
@@ -377,19 +479,25 @@ b) ...
 
 3 - O período referido no n.º 1 é prorrogado no caso de existirem descendentes do beneficiário falecido e do cônjuge, ex-cônjuge ou unido de facto com direito à pensão de sobrevivência até ao termo do ano civil em que ocorra a cessação do direito à pensão por parte dos descendentes.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - Quando a concessão da pensão de sobrevivência dependa da matrícula em estabelecimento de ensino, considera-se que integra o ano letivo o período de férias que lhe é subsequente, ainda que entretanto se tenham deixado de verificar os requisitos da sua concessão.
 
 2 - ...
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - A gestão das pensões previstas neste decreto-lei e a aplicação da respetiva legislação compete ao Instituto da Segurança Social, I. P., através do Centro Nacional de Pensões e dos centros distritais.
 
 2 - (Revogado.)
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -397,13 +505,17 @@ b) ...
 
 3 - A atribuição da pensão provisória de sobrevivência não depende de requerimento próprio, bastando a entrega de requerimento para atribuição de pensão de sobrevivência.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
 2 - O prazo para requerer o subsídio por morte é de 180 dias a contar da data do registo do óbito do beneficiário ou da data do seu desaparecimento nos casos de presunção previstos no artigo 6.º
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - Por morte de beneficiário da segurança social, a instituição de segurança social competente procede ao reembolso das despesas de funeral à pessoa que prove tê-las realizado.
 
@@ -439,7 +551,9 @@ Os artigos 20.º, 21.º, 21.º-A, 36.º, 44.º, 62.º, 68.º, 69.º, 71.º, 72.�
 
 9 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -451,7 +565,9 @@ Os artigos 20.º, 21.º, 21.º-A, 36.º, 44.º, 62.º, 68.º, 69.º, 71.º, 72.�
 
 5 - Em caso de concordância por parte do beneficiário, expressamente manifestada no requerimento, fica dispensado o período de espera previsto no número anterior.
 
-###### Artigo 21.º-A — [...]
+Artigo 21.º-A
+
+[...]
 
 1 - ...
 
@@ -461,7 +577,9 @@ Os artigos 20.º, 21.º, 21.º-A, 36.º, 44.º, 62.º, 68.º, 69.º, 71.º, 72.�
 
 4 - Em caso de concordância por parte do beneficiário, expressamente manifestada no requerimento, fica dispensado o período de espera previsto no número anterior.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -479,7 +597,9 @@ Os artigos 20.º, 21.º, 21.º-A, 36.º, 44.º, 62.º, 68.º, 69.º, 71.º, 72.�
 
 8 - ...
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -487,7 +607,9 @@ Os artigos 20.º, 21.º, 21.º-A, 36.º, 44.º, 62.º, 68.º, 69.º, 71.º, 72.�
 
 3 - O valor mínimo de pensão previsto no n.º 1 é aplicável nas pensões antecipadas atribuídas ao abrigo dos regimes previstos nas alíneas b), c), d) e e) do n.º 1 do artigo 20.º
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - ...
 
@@ -499,7 +621,9 @@ Os artigos 20.º, 21.º, 21.º-A, 36.º, 44.º, 62.º, 68.º, 69.º, 71.º, 72.�
 
 5 - ...
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - A atribuição de pensões provisórias de invalidez depende de o beneficiário, à data do requerimento, satisfazer as condições de atribuição da pensão, sem prejuízo do disposto no número seguinte.
 
@@ -507,23 +631,31 @@ Os artigos 20.º, 21.º, 21.º-A, 36.º, 44.º, 62.º, 68.º, 69.º, 71.º, 72.�
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - Nas situações previstas no n.º 2 do artigo anterior, não há lugar à atribuição de pensão provisória de invalidez nos casos em que o período máximo de 1095 dias de registo de remunerações por incapacidade temporária for atingido sem que tenha decorrido um ano sobre a data da deliberação anterior da comissão de verificação ou de recurso que não tenha considerado o beneficiário em situação de incapacidade permanente.
 
 2 - ...
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - O montante da pensão provisória de invalidez prevista no n.º 2 do artigo 68.º corresponde ao valor da pensão social do regime não contributivo.
 
 2 - O montante da pensão provisória de invalidez prevista no n.º 1 do artigo 68.º, e de velhice prevista no artigo 70.º, é o que resulta do cálculo efetuado nos termos gerais, de acordo com os elementos disponíveis, sem prejuízo da garantia do valor mínimo nos termos dos artigos 44.º e 45.º
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 As pensões provisórias de invalidez, previstas no n.º 2 do artigo 68.º, são devidas a partir do dia seguinte àquele em que se esgotou o período máximo de 1095 dias de registo de remunerações por incapacidade temporária.
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - ...
 
@@ -535,7 +667,9 @@ b) Se o beneficiário não comparecer, sem motivo justificado, ao exame para que
 
 3 - ...
 
-###### Artigo 79.º — Exercício de atividade profissional dos pensionistas de velhice antecipada
+Artigo 79.º
+
+Exercício de atividade profissional dos pensionistas de velhice antecipada
 
 1 - Para os efeitos previstos no n.º 3 do artigo 62.º, os pensionistas que acedam à pensão de velhice, no âmbito do regime de flexibilização da idade de pensão de velhice e do regime de antecipação da idade de pensão de velhice por carreiras contributivas muito longas são obrigados a cessar a atividade profissional na mesma empresa ou grupo empresarial em que exerciam à data do requerimento de pensão, caso ainda não o tenham feito, no prazo de 60 dias após a data de produção de efeitos do deferimento da pensão de velhice antecipada.
 
@@ -555,7 +689,9 @@ Comunicações e prazos
 
 O prazo para comunicação, pelo beneficiário da prestação ou terceiro responsável pelo seu requerimento ou recebimento, de quaisquer factos ou circunstâncias suscetíveis de alterar, suspender ou cessar a atribuição das prestações é fixado em 10 dias úteis, sem prejuízo dos prazos fixados nos regimes jurídicos próprios.
 
-###### Artigo 4.º-B — Estorno de valores pagos após o óbito do beneficiário
+Artigo 4.º-B
+
+Estorno de valores pagos após o óbito do beneficiário
 
 1 - No caso de ter sido efetuado o pagamento de valores de pensão de invalidez, velhice ou sobrevivência por transferência bancária em data posterior ao mês da morte do seu beneficiário, a instituição de segurança social que efetuou o pagamento procede à sua recuperação através de débito daqueles valores na conta onde efetuou o crédito.
 
@@ -595,15 +731,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de maio de 2019. - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - José António Fonseca Vieira da Silva.
 
-**Promulgado em 6 de junho de 2019.**
+Promulgado em 6 de junho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de junho de 2019.**
+Referendado em 10 de junho de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -611,4 +747,6 @@ Visto e aprovado em Conselho de Ministros de 30 de maio de 2019. - Augusto Ernes
 
 (a que se refere o n.º 4 do artigo 37.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/06/11300/0297202978.pdf))](https://files.diariodarepublica.pt/1s/2019/06/11300/0297202978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/06/11300/0297202978.pdf)
+
+112370039

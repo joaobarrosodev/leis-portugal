@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/10/19800/0496204964.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/78/2018/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2018-116673878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1817e97b1e15b50e730dfc9e08c80c9123708e2fde5f4935130566da43ed8f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 669654fb1728d0dc899e5675a46a17a8d23c71606a42db1e25627e9cf23acff3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,25 +69,25 @@ subjects:
 - Acesso à Informação
 - Aproximação das Legislações
 - Aquisição de Bens e Serviços
-- Empresa
-- Publicidade
-- Moeda Eletrónica
-- Estabelecimento Comercial
+- ASAE
+- Comércio
+- Comércio Eletrónico
 - Consumidor
 - Contra-ordenação
 - Direção Geral das Atividades Económicas
+- Direito à Informação
+- Empresa
+- Estabelecimento Comercial
 - Fiscalização
-- Pagamento
 - Hasta Pública
 - Informação
-- ASAE
-- Direito à Informação
+- Moeda Eletrónica
+- Pagamento
 - Preço
 - Prestação de Serviços
 - Proteção do Consumidor
+- Publicidade
 - Reembolso
-- Comércio Eletrónico
-- Comércio
 - Venda
 - Venda em Cadeia
 - Venda Ligada
@@ -124,6 +124,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/47/2014/07/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/47/2014/07/28/p/dre
+- type: cites
+  target: pt:dre:114832293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572450:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32011L0083
   label: null
@@ -133,15 +149,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 10
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:08Z'
   warnings: []
   errors: []
 ---
@@ -206,7 +222,9 @@ n) [...]
 
 3 - Sem prejuízo do disposto na alínea h) do número anterior, os n.os 2, 3, 4, 7 e 8 do artigo 5.º do presente decreto-lei, o n.º 3 do artigo 7.º e os artigos 9.º-A e 9.º-D da [Lei n.º 24/96](https://diariodarepublica.pt/dr/detalhe/lei/24-1996-406882), de 31 de julho, na sua redação atual, são aplicáveis, com as devidas adaptações às viagens organizadas, no que respeita aos viajantes, tal como definidos nas alíneas p) e q) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 17/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2018-114832293), de 8 de março sem prejuízo do n.º 3 do mesmo artigo.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -270,7 +288,9 @@ aa) [Anterior alínea z)].
 
 7 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -288,7 +308,9 @@ aa) [Anterior alínea z)].
 
 8 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O fornecedor de bens ou prestador de serviços deve confirmar a celebração do contrato à distância, em suporte duradouro, no prazo de cinco dias contados dessa celebração e, o mais tardar, no momento da entrega do bem ou antes do início da prestação do serviço.
 
@@ -296,7 +318,9 @@ aa) [Anterior alínea z)].
 
 3 - (Revogado.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -308,7 +332,9 @@ aa) [Anterior alínea z)].
 
 5 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -336,7 +362,9 @@ iii) [...]
 
 6 - Quando se trate de contrato celebrado à distância de prestação de serviços ou o fornecimento de água, gás ou eletricidade, caso não sejam postos à venda em volume ou quantidade limitados, ou de aquecimento urbano, sempre que o consumidor pretenda que a prestação ou o fornecimento desses serviços se inicie durante o prazo de retratação previsto no artigo 10.º, o profissional deve exigir que o consumidor apresente um pedido expresso.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]
 
@@ -366,12 +394,14 @@ O presente decreto-lei entra em vigor no dia 1 de janeiro de 2019.
 
 Visto e aprovado em Conselho de Ministros de 13 de setembro de 2018. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Manuel de Herédia Caldeira Cabral.
 
-**Promulgado em 4 de outubro de 2018.**
+Promulgado em 4 de outubro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de outubro de 2018.**
+Referendado em 10 de outubro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111721772

@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1983-312421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1be3711006531b08527172c3eb143a01676ce27220352f558e2310cd652cf152
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26fe017447e92bbe042e81cb5b5dbfab410ecd5dc0125a33ae008d4b65a16d3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA NON Aedificandi
+- Braga
+- Ordenamento do Território
+- Política de Solos
+relationships:
+- type: cites
+  target: pt:dre:264553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:18Z'
   warnings: []
   errors: []
 ---
@@ -96,28 +108,28 @@ Tendo em consideração o disposto no n.º 4 do artigo 30.º do Regulamento para
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Até à aprovação dos planos ou anteprojectos de ampliação das infra-estruturas do ramal de Braga entre Nine e Braga, serão consideradas áreas non aedificandi as faixas à esquerda e à direita do ramal de Braga entre os quilómetros 40,000 e 53,800, conforme os limites e distâncias expressos nos desenhos V-004743 V-004744, V-004745, V-004746, V-004747, V-004748, V-004749, V-004750, V-004751, V-004752, V-004753, V-004754, V-004755 e V-004756, anexos a este diploma e referidos ao eixo da via do ramal de Braga entre Nine e Braga.
+Artigo 1.º Até à aprovação dos planos ou anteprojectos de ampliação das infra-estruturas do ramal de Braga entre Nine e Braga, serão consideradas áreas non aedificandi as faixas à esquerda e à direita do ramal de Braga entre os quilómetros 40,000 e 53,800, conforme os limites e distâncias expressos nos desenhos V-004743 V-004744, V-004745, V-004746, V-004747, V-004748, V-004749, V-004750, V-004751, V-004752, V-004753, V-004754, V-004755 e V-004756, anexos a este diploma e referidos ao eixo da via do ramal de Braga entre Nine e Braga.
 
 Os referidos limites e distâncias encontram-se igualmente descritos no quadro anexo ao presente decreto regulamentar.
 
-###### Art. 2.º A implantação de edifícios, arruamentos, passagens de nível ou qualquer outro tipo de ampliação ou construção nas áreas referidas no artigo anterior ficam sujeitas, caso a caso, a autorização do Ministro da Habitação, Obras Públicas e Transportes, sob proposta dos Caminhos de Ferro Portugueses, E. P. (C. P.).
+Art. 2.º A implantação de edifícios, arruamentos, passagens de nível ou qualquer outro tipo de ampliação ou construção nas áreas referidas no artigo anterior ficam sujeitas, caso a caso, a autorização do Ministro da Habitação, Obras Públicas e Transportes, sob proposta dos Caminhos de Ferro Portugueses, E. P. (C. P.).
 
-###### Art. 3.º Os limites e distâncias das áreas non aedificandi definidos no artigo 1.º serão revistos decorridos 5 anos, para o que se tomará em consideração a evolução dos estudos e das ampliações em causa.
+Art. 3.º Os limites e distâncias das áreas non aedificandi definidos no artigo 1.º serão revistos decorridos 5 anos, para o que se tomará em consideração a evolução dos estudos e das ampliações em causa.
 
 Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 18 de Fevereiro de 1983.**
+Promulgado em 18 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 23 de Fevereiro de 1983.**
+Referendado em 23 de Fevereiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Ramal de Braga - Troço Nine-Braga
 
 Terrenos declarados como área «non aedificandi»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/07400/10801088.pdf))](https://files.diariodarepublica.pt/1s/1983/03/07400/10801088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/07400/10801088.pdf)

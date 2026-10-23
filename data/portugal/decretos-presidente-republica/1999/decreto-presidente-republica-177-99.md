@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/177/1999/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/177-1999-426759
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T04:30:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69a807e6ce847f2e3ba49309cd1ab26f4fe457620c32767f049c913108a1567d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fabdbc68a9da054b4ad0b1997f621e7aa9c33a2c5e1b0ab1a227f717d993f8bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:30:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abalroamento
-- Embarcação
 - Convenção
-- Portugal
-- Macau
+- Embarcação
 - Londres
+- Macau
+- Navegação Marítima
+- Portugal
 - Regulamento Internacional para Evitar Abalroamentos no MAR
 - Segurança Marítima
-- Navegação Marítima
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:30:52Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +95,14 @@ validation:
 
 de 5 de Agosto
 
-**O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:
 
 É estendida ao território de Macau, nos mesmos termos em que a ela está vinculado o Estado Português, a emenda à Convenção sobre o Regulamento Internacional para Evitar Abalroamentos no Mar, adoptada em 1981, cujo texto foi publicado no Diário da República, 1.ª série, de 9 de Novembro de 1983.
 
 Foram ouvidos os órgãos de governo próprios do território de Macau.
 
-**Assinado em 28 de Julho de 1999.**
+Assinado em 28 de Julho de 1999.
 
-**Publique-se no Boletim Oficial de Macau, em conjunto com o referido texto da Convenção.**
+Publique-se no Boletim Oficial de Macau, em conjunto com o referido texto da Convenção.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

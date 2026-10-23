@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/056a00/09060911.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/48/1998/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1998-219144
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 281874ddf7fa3eb97bb3b5691384a31c343e09878ce08ed59a19b622127b5b78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 783c09e42f5f2a24493e1a6b150fbe70c09dc4ab1f29ecdcec9f955dc24c0724
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Admissão de Pessoal
-- Definição de Competências
 - Carreira Profissional
-- Ministério das Finanças
-- Integração de Trabalhadores
+- Definição de Competências
 - Direcção Geral de Estudos e Previsão
 - Gabinete de Estudos Económicos
+- Integração de Trabalhadores
+- Ministério das Finanças
 - Orgânica
 - Pessoal Técnico Superior
 - Transferência Patrimonial
@@ -80,20 +80,47 @@ relationships:
   target: pt:dre:2433117:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545650:por
+  label: "Extinta a Direcção-Geral de Estudos e Previsão criada pelo presente dipoma, determinada a sua fusão e integradas\
+    \ as respectivas atribuições no Gabinete de Planeamento Estratégia, Avaliação e Relações Internacionais, pelo DEC LEI.205/2006.27.10.2006.MFAP,\
+    \ DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2006-545650
+  date: '2006-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/158/1996/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/158/1996/09/03/p/dre
+- type: cites
+  target: pt:dre:241227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575126:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520439:por
+  label: "Revogado, a partir de 01.04.2007 e nos termos do art. 5º do Dec Lei 201/2006 de 27-Out, e determinado, que o Gabinete\
+    \ de Planeamento, Estratégia, Avaliação e Relações Internacionais suceda nas atribuições da Direcção-Geral de Estudos\
+    \ e Previsão, cuja orgânica foi aprovada pelo presente diploma, pelo DR.19/2007.29.03.2007.MFAP, DR.IS [63] de 29.03.2007\0\
+    7\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/19-2007-520439
+  date: '2007-03-29'
 article_structure:
   article_count: 18
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:58Z'
   warnings: []
   errors: []
 ---
@@ -270,7 +297,9 @@ b) Manter actualizada uma biblioteca no domínio económico-social, gerir as bas
 
 c) Desenvolver o sistema de acesso a outras bibliotecas, utilizando as novas tecnologias de informação e tendo por referência a sua integração nas redes telemáticas.
 
-###### Artigo 12.º — Secção de Serviços Administrativos
+###### Artigo 12.º
+
+#### Secção de Serviços Administrativos
 
 Constituem tarefas a desenvolver pela Secção de Serviços Administrativos as operações materiais destinadas a assegurar as condições necessárias ao funcionamento eficaz da DGEP, designadamente:
 
@@ -340,20 +369,20 @@ b) Conclusão do mestrado em Economia com nota de Bom com distinção ou Muito b
 
 Visto e aprovado em Conselho de Ministros de 22 de Janeiro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 25 de Fevereiro de 1998.**
+Promulgado em 25 de Fevereiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Fevereiro de 1998.**
+Referendado em 26 de Fevereiro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Desenvolvimento indiciário da carreira de técnico economista superior
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/056a00/09060911.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/056a00/09060911.pdf)](https://files.diariodarepublica.pt/1s/1998/03/056a00/09060911.pdf)
 
 ## ANEXO II — Tabela de transição do pessoal técnico superior
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/056a00/09060911.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/03/056a00/09060911.pdf)](https://files.diariodarepublica.pt/1s/1998/03/056a00/09060911.pdf)

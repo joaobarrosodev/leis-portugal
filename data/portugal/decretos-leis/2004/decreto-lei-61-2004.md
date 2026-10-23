@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/61/2004/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2004-541269
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7840586372e5da7b8c18b74d44561d51eeaf8b2ca61f7ef10a79785bd4d4c55b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc662a9467b5aae27f789ff44b6847e2e1fec92f52ad3a1976b52287d76b3303
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Especificação Técnica
-- Veículo
 - Equipamento de Veículo
+- Especificação Técnica
 - Regulamento
 - Regulamento Relativo as Massas e Dimensões de Determinadas Categorias de Automóveis e seus Reboques
+- Veículo
 relationships:
 - type: cites
   target: celex:31970L0156
@@ -96,13 +96,13 @@ relationships:
 article_structure:
   article_count: 46
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:49Z'
   warnings: []
   errors: []
 ---
@@ -159,15 +159,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2003. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - António Jorge de Figueiredo Lopes - Carlos Manuel Tavares da Silva.
 
-**Promulgado em 26 de Fevereiro de 2004.**
+Promulgado em 26 de Fevereiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Março de 2004.**
+Referendado em 2 de Março de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — REGULAMENTO RELATIVO ÀS MASSAS E DIMENSÕES DE DETERMINADAS CATEGORIAS DE AUTOMÓVEIS E SEUS REBOQUES
 
@@ -803,13 +803,13 @@ MC = a massa máxima em carga tecnicamente admissível do conjunto de veículos.
 
 Quadro I
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
 
 3 - Quando o veículo se encontrar em ordem de marcha ou carregado conforme especificado no n.º 4 do artigo 19.º, a massa correspondente à carga no eixo dianteiro ou grupo de eixos dianteiros não pode ser inferior à percentagem da massa do veículo em ordem de marcha ou da massa máxima em carga tecnicamente admissível «M» estabelecidas no seguinte quadro:
 
 Quadro II
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
 
 4 - O comprimento dos requisitos constantes do artigo 22.º («Manobrabilidade») devem ser verificados do seguinte modo:
 
@@ -819,11 +819,11 @@ FIGURA A
 
 [v. alínea a) do n.º 3 do artigo 22.º]
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
 
 4.2 - No caso dos semi-reboques, considera-se que um semi-reboque obedece aos requisitos constantes do n.º 1 do artigo 22.º se a respectiva distância entre eixos não for superior a:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
 
 sendo L a largura do semi-reboque, e considerando-se, para efeitos deste ponto, que a distância entre eixos é a distância medida entre o eixo da cavilha de engate do semi-reboque e a linha central dos eixos não direccionais dos bogies; se um ou mais dos eixos não direccionais dos bogies incluir um dispositivo de elevação [v. n.º 16) do artigo 3.º], será tomada em consideração a distância entre eixos com o(s) eixo(s) descido(s) ou levantado(s), consoante a que for maior. Em caso de dúvida, a Direcção-Geral de Viação pode exigir a realização de um ensaio conforme descrito nos n.os 1 a 3 do artigo 22.º do presente Regulamento.
 
@@ -833,19 +833,19 @@ FIGURA B
 
 [v. alínea b) do n.º 1 do artigo 23.º]
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
 
 FIGURA C
 
 [v. alínea c) do n.º 2 do artigo 23.º]
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
 
 FIGURA D
 
 [v. alínea c) do n.º 2 do artigo 23.º]
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
 
 5 - Definição de frequência e de amortecimento (artigo 29.º do presente Regulamento) - nesta definição considera-se uma massa de M kg suspensa por cima de um eixo motor ou de um conjunto de eixos motores. O eixo ou conjunto de eixos tem uma rigidez vertical total entre a superfície da estrada e a massa suspensa de K Newtons/metro (N/m) e um coeficiente de amortecimento total de C Newtons por segundo por metro (N.s/m). O deslocamento vertical da massa suspensa é Z. A equação do movimento para a oscilação livre da massa suspensa é:
 
@@ -853,11 +853,11 @@ M (d(elevado a 2)Z/dt(elevado a 2)) + C.(dZ/dt) + Kz = 0
 
 A frequência de oscilação da massa suspensa F, em hertz, é:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
 
 O amortecimento é crítico se C = Co, sendo
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
 
 A relação de amortecimento como fracção do amortecimento crítico é C/Co.
 
@@ -875,7 +875,7 @@ Degraus para os ensaios de suspensão
 
 (v. artigo 30.º)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
 
 FIGURA 2
 
@@ -883,7 +883,7 @@ Resposta transitória amortecida
 
 (v. artigo 30.º)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)](https://files.diariodarepublica.pt/1s/2004/03/069a00/15911609.pdf)
 
 ## ANEXO II — (referente ao n.º 2 do artigo 7.º)
 

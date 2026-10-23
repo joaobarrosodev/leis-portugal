@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/241a00/64546454.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/266/1995/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1995-668901
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbd4fdb2580dcbaaabbe8e10a403abb2d4ed1b07eb9d029539ab6988c34ec3ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ca5bf6777a947b705206adf7af7565468d0e17365f8f2e46b4f38b9ad72a96b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção da Floresta
+- Exploração Florestal
 - Instituto Florestal
 - Montado de Sobro
-- Exploração Florestal
 - Política Florestal
+- Proteção da Floresta
 relationships:
 - type: amended_by
   target: pt:dre:532240:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:374809:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:532240:por
+  label: "Revogado pelo Dec Lei.11/97.1997.01.14. MADRP, DR.IS-A [11]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-1997-532240
+  date: '1997-01-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:00Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +112,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 2.º do [Decreto-Lei n.º 172/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1988-374809), de 16 de Maio, passa a ter a seguinte redacção:
+Artigo único. O artigo 2.º do [Decreto-Lei n.º 172/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1988-374809), de 16 de Maio, passa a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - Os cortes rasos em montados de sobro só podem efectuar-se mediante autorização do Ministro da Agricultura, sob proposta do Instituto Florestal, e quando visem a posterior ocupação do solo com obras de relevante interesse público ou uma conversão de cultura de comprovada vantagem para a economia nacional.
+Art. 2.º - 1 - Os cortes rasos em montados de sobro só podem efectuar-se mediante autorização do Ministro da Agricultura, sob proposta do Instituto Florestal, e quando visem a posterior ocupação do solo com obras de relevante interesse público ou uma conversão de cultura de comprovada vantagem para a economia nacional.
 
 2 - Quando um corte raso se destine a permitir a realização de obras de relevante interesse público, a entidade responsável pelo empreendimento terá de apresentar prova fundamentada da existência desse interesse, como tal certificado por despacho do ministro competente em razão da matéria, e, no caso de não existir estudo de impacte ambiental, também do Ministro do Ambiente e Recursos Naturais.
 
@@ -115,12 +124,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 31 de Agosto de 1995. - Aníbal António Cavaco Silva - António Duarte Silva - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 5 de Outubro de 1995.**
+Promulgado em 5 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Outubro de 1995.**
+Referendado em 12 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

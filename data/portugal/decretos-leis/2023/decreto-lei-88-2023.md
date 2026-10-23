@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/19600/0002600036.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/88/2023/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2023-222583134
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d915d72ad350a803d6f885edd6dc8675e65685221976e85117f03e860183c4bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7727dafb3be636088e1499b78cb80ea118ee95d88b042eaf19899f4fdb05e864
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Extinção de Carreiras
+- Administração Pública
+- Avaliação do Pessoal
 - Carreira de Especialista de Informática
 - Carreira de Informática
 - Carreira de Técnico de Informática
+- Carreira especial de especialista de sistemas e tecnologias de informação
+- Carreira especial de técnico de sistemas e tecnologias de informação
+- Carreira Profissional
 - Catálogo Nacional de Qualificações
-- Formação Profissional
 - Classificação Nacional das Áreas de Educação e Formação
 - Concurso
 - Consultor
 - Curso de Formação
-- Administração Pública
-- Carreira Profissional
-- Lei Geral do Trabalho em Funções Públicas
 - Descrição de Funções
+- Estágio de Formação
+- Extinção de Carreiras
+- Formação Profissional
+- Lei Geral do Trabalho em Funções Públicas
+- Mobilidade de Pessoal
 - Período Experimental
 - Pessoal de Informática
 - Qualificação Profissional
-- Estágio de Formação
 - Reestruturação de Carreiras
 - Remuneração
-- Mobilidade de Pessoal
-- Avaliação do Pessoal
-- Carreira especial de especialista de sistemas e tecnologias de informação
-- Carreira especial de técnico de sistemas e tecnologias de informação
 relationships:
 - type: amended_by
   target: pt:dre:1154660808:por
@@ -123,16 +123,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/358/2002/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/358/2002/04/03/p/dre
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
 article_structure:
   article_count: 25
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:03Z'
   warnings: []
   errors: []
 ---
@@ -393,37 +421,37 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 24 de agosto de 2023. - Mariana Guimarães Vieira da Silva - Mariana Guimarães Vieira da Silva - João Nuno Marques de Carvalho Mendes - Carlos Manuel Soares Miguel.
 
-**Promulgado em 24 de setembro de 2023.**
+Promulgado em 24 de setembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 26 de setembro de 2023.**
+Referendado em 26 de setembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se referem o artigo 7.º, o n.º 4 do artigo 8.º e o n.º 2 do artigo 19.º)
 
-| Carreira | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios |
+| Carreira | Posições e níveis remuneratórios |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Carreira | 1.ª | 2.ª | 3.ª | 4.ª | 5.ª | 6.ª | 7.ª | 8.ª | 9.ª | 10.ª | 11.ª |
+| 1.ª | 2.ª | 3.ª | 4.ª | 5.ª | 6.ª | 7.ª | 8.ª | 9.ª | 10.ª | 11.ª |  |
 | Especialista de sistemas e tecnologias de informação... | 24 | 28 | 32 | 36 | 40 | 44 | 48 | 52 | 56 | 59 | 62 |
 
 ## ANEXO II — (a que se referem o artigo 7.º, o n.º 4 do artigo 8.º e o n.º 2 do artigo 19.º)
 
-| Carreira | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios |
+| Carreira | Posições e níveis remuneratórios |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Carreira | 1.ª | 2.ª | 3.ª | 4.ª | 5.ª | 6.ª | 7.ª | 8.ª | 9.ª | 10.ª | 11.ª | 12.ª |
+| 1.ª | 2.ª | 3.ª | 4.ª | 5.ª | 6.ª | 7.ª | 8.ª | 9.ª | 10.ª | 11.ª | 12.ª |  |
 | Técnico de sistemas e tecnologias de informação... | 10 | 14 | 17 | 20 | 23 | 26 | 29 | 32 | 35 | 38 | 40 | 42 |
 
 ## ANEXO III — (a que se refere o artigo 10.º)
 
 Caracterização das carreiras de sistemas e tecnologias de informação
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | Carreira | Categoria | Conteúdo funcional | Grau de complexidade funcional | Número de posições remuneratórias |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
 | Especialista de sistemas e tecnologias de informação. | Especialista de sistemas e tecnologias de informação. | Funções consultivas, de estudo, planeamento, calendarização, avaliação e aplicação de boas práticas, métodos e processos de natureza técnica e ou científica, que fundamentem e preparem a decisão no âmbito dos sistemas e tecnologias de informação. | 3 | 11 |
 |  |  | Elaboração, autonomamente ou em grupo, de estudos e pareceres no âmbito de sistemas e tecnologias de informação. |  |  |
 |  |  | Gestão e/ou participação em projetos de desenvolvimento, implementação ou evolução de sistemas e tecnologias de informação. |  |  |
@@ -433,3 +461,5 @@ Caracterização das carreiras de sistemas e tecnologias de informação
 | Técnico de sistemas e tecnologias de informação | Técnico de sistemas e tecnologias de informação. | Funções de natureza essencialmente executiva, de aplicação de boas práticas, métodos e processos, com base em orientações e instruções estabelecidas, de grau médio de complexidade, na área de sistemas e tecnologias de informação. | 2 | 12 |
 |  |  | Participação em projetos de desenvolvimento, implementação ou evolução de sistemas e tecnologias de informação. |  |  |
 |  |  | Apoio à execução de atividades de gestão, administração, monitorização, manutenção, formação e apoio à utilização de sistemas e tecnologias de informação, garantindo o seu bom funcionamento e a segurança da informação tratada e armazenada por estes. |  |  |
+
+116923722

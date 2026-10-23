@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/166/1997/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1997-157639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54b0078467cd57f9258128c225c3b9ab7e3a9f2e7f0dd57d1856a428787e5935
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f40c368dc9a3b3c802a3659630a7ac77b70bd69b7cec09020732f7607e93f306
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água
-- Recursos Hídricos
-- Secretaria Geral
+- Conselho Nacional da ÁGUA
 - Gestão dos Recursos
 - Ministério do Ambiente
-- Conselho Nacional da ÁGUA
 - Ministro do Ambiente
 - Orgânica
+- Recursos Hídricos
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:220754:por
+  label: "Alterados os artigos 1.º, 2.º, 4.º, 5.º, 6.º, 7.º, 9.º, 11.º e 13.º do presente diploma, pelo DEC LEI.84/2004.14.04.2004.MCOTA,\
+    \ DR.IS-A [88] de 14.04.2004 republicando-o em anexo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2004-220754
+  date: '2004-04-14'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério do Ambiente e do Ordenamento do Território do Conselho Nacional da Água\
+    \ (integrado no agora extinto Ministério das Cidades, Ordenamento do Território e Ambiente), pelo DEC LEI.215-A/2004.03.09.2004.PCM,\
+    \ DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:499049:por
+  label: "Determinada a transição para o Ministério do Ambiente, Ordenamento do Território e Energia, pelo DEC LEI.119/2013.21.08.2013.PCM,\
+    \ DR.IS [160] de 21.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2013-499049
+  date: '2013-08-21'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que se encontra na dependência da Ministra do Ambiente e Energia o
+    Conselho Nacional da Água pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que o Conselho Nacional da Água é um órgão consultivo da Ministra
+    do Ambiente e Energia pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República n.º 142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/45/1994/02/22/p/dre
   label: null
@@ -86,16 +117,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/47/1994/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/47/1994/02/22/p/dre
+- type: cites
+  target: pt:dre:515807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515808:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:09Z'
   warnings: []
   errors: []
 ---
@@ -316,12 +355,12 @@ São revogados os artigos 9.º e 10.º do [Decreto-Lei n.º 45/94](https://diari
 
 Visto e aprovado em Conselho de Ministros de 17 de Abril de 1997. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Jaime Serrão Andrez - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 6 de Junho de 1997.**
+Promulgado em 6 de Junho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Junho de 1997.**
+Referendado em 18 de Junho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

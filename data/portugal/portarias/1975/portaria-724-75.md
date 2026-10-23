@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/724-1975-311418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T04:53:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3c39542714eae34efe757158c247d805d8145839179484154c697e8fef52120
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53b0a5b1da79b8bd75e46a8abd7d9b16d21af3958cb3ce852aa4ae9fd4bfce96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:53:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Pessoal Docente
+- Pessoal Técnico
+- Política de Educação
 relationships:
 - type: amended_by
   target: pt:dre:377771:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:377771:por
+  label: "Alterado o mapa n.º 3 anexo ao presente diploma, pela PORT.417/79.11.08.1979.PCM, DR.IS [185] de 11.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/417-1979-377771
+  date: '1979-08-11'
+- type: cites
+  target: pt:dre:526217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526219:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:355161:por
+  label: Rectificada pela DECL.DD8419.31.12.1975.PCM, DG.IS [300]Supl de 31.12.1975
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1975-355161
+  date: '1975-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:53:49Z'
   warnings: []
   errors: []
 ---
@@ -274,10 +298,10 @@ Curso complementar dos liceus.
 
 Mapa n.º 2 a que se refere o n.º 2 da Portaria n.º 724/75, de 5 de Dezembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/28100/19611964.pdf))](https://files.diariodarepublica.pt/1s/1975/12/28100/19611964.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/28100/19611964.pdf)
 
 Mapa n.º 3 a que se refere o n.º 3 da Portaria n.º 724/75, de 5 de Dezembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/28100/19611964.pdf))](https://files.diariodarepublica.pt/1s/1975/12/28100/19611964.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/28100/19611964.pdf)
 
-**O Ministro das Finanças, Francisco Salgado Zenha. - O Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves.**
+O Ministro das Finanças, Francisco Salgado Zenha. - O Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves.

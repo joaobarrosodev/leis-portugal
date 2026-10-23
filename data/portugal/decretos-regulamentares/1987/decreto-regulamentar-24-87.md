@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/04/07800/13671368.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1987-666353
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd3992c93ec7eb5444e983cc78f8fe78efdb1f065aa471403bef5f55231fce7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c782f564223f08d1a1d126a8406f70c18139b1a7dde78c9f4777beec8ebcf8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abono Complementar a Crianças e Jovens Deficientes
+- Acumulação de Pensões
+- Deficiente
+- Prestações Familiares
+- Proteção ao Deficiente
+- Regime de Protecção Social dos Funcionários e Agentes da Administração Pública
+- Regimes de Segurança Social
+- Segurança Social
+- Subsídio de Educação Especial
 relationships:
 - type: amended_by
   target: pt:dre:374798:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:169910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662129:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:406133:por
+  label: "Revogado pelo DR.67/87.1987.12.31.MESS, DR.IS [300]4ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/67-1987-406133
+  date: '1987-12-31'
+- type: repealed_by
+  target: pt:dre:374798:por
+  label: "Revogado o art. 5.º pelo DR.21/88.1988.05.17.MESS, DR.IS [114]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/21-1988-374798
+  date: '1988-05-17'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:31Z'
   warnings: []
   errors: []
 ---
@@ -149,12 +188,12 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1987.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral.
 
-**Promulgado em 21 de Março de 1987.**
+Promulgado em 21 de Março de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Março de 1987.**
+Referendado em 25 de Março de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

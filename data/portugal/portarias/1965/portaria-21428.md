@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21428-1965-292100
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd2f977107ba1e0895878dd95a91530567045d228c2e0758dd9c67eef3e7e2a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e70a963ce7dfa9510f39a16fa3da44f7d1848df6933c3db4400a76ba3d5ff9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431981:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:48Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +107,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1) Um de 300000$00, destinado a «Agricultura, silvicultura e pecuária - Carta dos solos», tomando como contrapartida as disponibilidades que se indicam das seguintes verbas da tabela de despesa extraordinária do orçamento geral em vigor:
 
-### Capítulo 12.º, artigo 249.º «Plano Intercalar de Fomento, 1965».
+Capítulo 12.º, artigo 249.º «Plano Intercalar de Fomento, 1965».
 
 1) «Conhecimento científico do território»:
 
@@ -111,7 +123,7 @@ b) «Bolsas de estudo» ... 100000$00
 
 2) Um de 2351369$00, destinado a reforçar com as seguintes importâncias estas verbas da mesma tabela de despesa, tomando como contrapartida disponibilidades do subsídio da metrópole autorizado pelo [Decreto-Lei n.º 42479](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42479-1959-431981), de 31 de Agosto de 1959:
 
-### Capítulo 12.º, artigo 249.º «Plano Intercalar de Fomento, 1965»:
+Capítulo 12.º, artigo 249.º «Plano Intercalar de Fomento, 1965»:
 
 IX) «Promoção social»:
 

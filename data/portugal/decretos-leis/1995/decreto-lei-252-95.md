@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/09/221a00/59365939.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/252/1995/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1995-572119
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:39:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29b1b8fb40551d97cf757a32d6125b99bfb05baa9a2befc7bf23672882fde67f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d9411e3e1996abe96fbc64589c18a24befc50d6312137c013fdbf269f09c73b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Empresa
-- Multa
 - Contra-ordenação
-- Transporte Ferroviário
 - Direcção Geral dos Transportes Terrestres
+- Empresa
+- Empresa Estrangeira
 - Empresa Europeia
-- União Europeia
 - Fiscalização
 - Iniciativa Privada
 - Livre Prestação de Serviços
+- Multa
 - Setor Privado
-- Empresa Estrangeira
 - TAXA de Utilização
+- Transporte Ferroviário
 - Transporte Internacional
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:522800:por
@@ -97,16 +97,21 @@ relationships:
   target: celex:31991L0440
   label: null
   source: http://data.europa.eu/eli/dir/1991/440/oj
+- type: repealed_by
+  target: pt:dre:522800:por
+  label: "Revogado pelo DEC LEI.60/2000.2000.04.19.MES, DR.IS-A [93]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-2000-522800
+  date: '2000-04-19'
 article_structure:
   article_count: 18
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:39:41Z'
   warnings: []
   errors: []
 ---
@@ -287,12 +292,12 @@ As empresas que prestem serviços de transportes internacionais ferroviários à
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 1995. - Manuel Dias Loureiro - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 7 de Setembro de 1995.**
+Promulgado em 7 de Setembro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Setembro de 1995.**
+Referendado em 11 de Setembro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

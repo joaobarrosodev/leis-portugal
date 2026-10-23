@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/06/11400/0298602988.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/80/2019/06/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2019-122592082
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27c2354e10bc6fc794689bad1f0631bb813cf6117bd5c9795e5b81aeccf80078
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fb31ea03d7b3a1ea21fc2b8e3f767945aa757483dba32657aa1c1dc9499e6cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Nacionalidade
+- Admissão de Estrangeiros
+- ASAE
 - CE Países
 - Centro Europeu do Consumidor
+- Comércio
 - Consumidor
 - Contra-ordenação
+- Cooperação Internacional
 - Definição de Competências
 - Direção Geral das Atividades Económicas
 - Direito de Concorrência
 - Fiscalização
-- ASAE
+- Informação do Consumidor
 - Livre Prestação de Serviços
 - Mercado Interno CE
-- Cooperação Internacional
-- Informação do Consumidor
+- Nacionalidade
 - Prestação de Serviços
 - Regime Jurídico
 - Regulamento CE
-- Comércio
-- Admissão de Estrangeiros
 relationships:
 - type: cites
   target: celex:32004R2006
@@ -115,20 +115,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/19/2012/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/19/2012/05/08/p/dre
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553391:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32006L0123
   label: null
   source: null
 article_structure:
-  article_count: 10
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:49Z'
   warnings: []
   errors: []
 ---
@@ -195,7 +203,9 @@ c) Proporcionalidade - os requisitos devem ser adequados a garantir a prossecuç
 
 4 - A Direção-Geral das Atividades Económicas (DGAE) é a entidade responsável pela notificação à Comissão Europeia prevista no n.º 7 do artigo 15.º e no n.º 5 do artigo 39.º da [Diretiva n.º 2006/123/CE](https://data.europa.eu/eli/dir/2006/123/oj?locale=pt), do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, relativa aos serviços no mercado interno.
 
-###### Artigo 19.º — Não discriminação dos destinatários e dos clientes
+Artigo 19.º
+
+Não discriminação dos destinatários e dos clientes
 
 1 - Os destinatários dos serviços não podem ser discriminados em virtude da sua nacionalidade, do seu local de residência ou do seu local de estabelecimento.
 
@@ -205,7 +215,9 @@ c) Proporcionalidade - os requisitos devem ser adequados a garantir a prossecuç
 
 4 - [...]
 
-###### Artigo 21.º — Assistência aos destinatários e clientes
+Artigo 21.º
+
+Assistência aos destinatários e clientes
 
 1 - [...]
 
@@ -215,7 +227,9 @@ c) Proporcionalidade - os requisitos devem ser adequados a garantir a prossecuç
 
 4 - O Centro Europeu do Consumidor é, nos termos do artigo 8.º do [Regulamento (UE) n.º 2018/302](https://data.europa.eu/eli/reg/2018/302/oj?locale=pt) do Parlamento Europeu e do Conselho, de 28 de fevereiro de 2018, o organismo responsável pela prestação de assistência prática aos consumidores em caso de litígios entre um consumidor e um comerciante decorrentes da aplicação desse regulamento.
 
-###### Artigo 23.º — Fiscalização e monitorização
+Artigo 23.º
+
+Fiscalização e monitorização
 
 1 - A fiscalização do cumprimento das normas do presente decreto-lei compete à Autoridade de Segurança Alimentar e Económica (ASAE), bem como às autoridades administrativas que tenham competências de fiscalização decorrentes de regimes jurídicos específicos reguladores de atividades de serviços relativamente aos prestadores desses serviços, e abrange as seguintes ações de fiscalização:
 
@@ -233,7 +247,9 @@ b) [...]
 
 6 - Os organismos referidos nos números anteriores prestam aos organismos congéneres de outros Estados- -membros as informações que estes lhes solicitem no âmbito da aplicação do [Regulamento (UE) n.º 2018/302](https://data.europa.eu/eli/reg/2018/302/oj?locale=pt), do Parlamento Europeu e do Conselho, de 28 de fevereiro de 2018, com a maior brevidade possível.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Constitui contraordenação grave a violação ao disposto:
 
@@ -253,7 +269,9 @@ g) No n.º 1 do artigo 5.º do [Regulamento (UE) n.º 2018/302](https://data.eur
 
 2 - [...]
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
@@ -293,12 +311,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de maio de 2019. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Mariana Guimarães Vieira da Silva - Pedro Gramaxo de Carvalho Siza Vieira.
 
-**Promulgado em 6 de junho de 2019.**
+Promulgado em 6 de junho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de junho de 2019.**
+Referendado em 10 de junho de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112370128

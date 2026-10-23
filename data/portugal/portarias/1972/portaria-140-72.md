@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/140-1972-396717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4b462cc84f6aeb4a5d2791aee0ad2a33bc36d96193814b0b8dec220ccac4ff4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38a9d4feeaba327e69b47cbb9756775ad93e4bc70bae6368b3f6e166a7d6ba7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:631670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632763:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:23Z'
   warnings: []
   errors: []
 ---
@@ -93,6 +101,6 @@ Mostrando-se cumpridas as formalidades exigidas pelo artigo 2.º do [Decreto-Lei
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo do [Decreto-Lei n.º 385/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1971-632763), de 17 de Setembro, conceder à empresa Fábrica de Conservas Atlântico, S. A. R. L., isenção de direitos, de outras imposições aduaneiras e da taxa de emolumentos gerais na importação do estrangeiro de uma embarcação usada, denominada Coastal Service, de propulsão mecânica, de arqueação bruta até 4000 t.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada no Boletim Oficial de Angola. - J. da Silva Cunha.

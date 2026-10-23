@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11200/0003300051.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/47/2021/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56fd011d3094905d44b8360185e6bcc9c1c44fe91cd2d35ca39f33ca5d0b7cca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9feb98a8de3c80a1ffe51c785aa7394beb5ee458faeb76b621976d1295d7efb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Desenvolvimento Cultural
-- Formulário Eletrónico
-- Documento Eletrónico
-- Direcção Geral das Artes
-- Internet
 - Cultura
+- Desenvolvimento Cultural
+- Direcção Geral das Artes
+- Documento Eletrónico
+- Financiamento
+- Formulário Eletrónico
+- Internet
 - Plataforma Eletrónica
 relationships:
 - type: amended_by
@@ -110,16 +110,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64/2013/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64/2013/08/27/p/dre
+- type: cites
+  target: pt:dre:108051992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
 article_structure:
-  article_count: 60
+  article_count: 39
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:41Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +218,9 @@ d) O cruzamento disciplinar.
 
 3 - ...
 
-###### Artigo 2.º — Entidades candidatas
+Artigo 2.º
+
+Entidades candidatas
 
 1 - São detentoras dos requisitos para apoio, nos termos do presente decreto-lei, as seguintes entidades que exerçam, a título predominante, atividades profissionais numa ou mais das áreas previstas no artigo anterior:
 
@@ -198,19 +232,25 @@ c) ...
 
 2 - Não são detentoras dos requisitos para apoio as fundações privadas ou as fundações públicas de direito privado que tenham outro tipo de financiamento continuado, assegurado pelo programa orçamental da área da cultura, bem como as associações maioritariamente constituídas por entidades públicas e as empresas do setor empresarial do Estado e das regiões autónomas, com exceção dos apoios previstos no artigo 12.º
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
 2 - A concretização dos fins de interesse público previstos no número anterior deve ser orientada por um conjunto de objetivos estratégicos, nomeadamente a igualdade em todas as suas dimensões, maior representação e participação étnico-raciais, a coesão social e territorial, a qualificação dos cidadãos, a valorização do território, a preservação ambiental e mitigação dos efeitos das alterações climáticas, a transversalidade setorial, a internacionalização e a inovação.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
 2 - Para a concretização dos objetivos enunciados no artigo 3.º, designadamente para correção de assimetrias territoriais, podem ser fixados diferentes montantes globais disponíveis para cada circunscrição territorial correspondente aos níveis II ou III da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS II ou III), estabelecidas pelo [Decreto-Lei n.º 46/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1989-611345), de 15 de fevereiro, na sua redação atual, antes da abertura de um programa de apoio, por despacho do membro do Governo responsável pela área da cultura, sob proposta fundamentada da DGARTES, salvaguardando-se as especificidades próprias das regiões autónomas.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 ...
 
@@ -230,7 +270,9 @@ g) ...
 
 h) ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A DGARTES publica anualmente, até ao máximo de 10 dias a contar da data de entrada em vigor da Lei do Orçamento do Estado, no seu sítio na Internet, uma declaração homologada pelo membro do Governo responsável pela área da cultura que define, com base nos objetivos, no plano estratégico plurianual, nas diversas necessidades de financiamento e nos recursos financeiros disponíveis:
 
@@ -242,7 +284,9 @@ c) [Anterior alínea c) do corpo do artigo.]
 
 2 - A informação sobre a declaração anual deve ser também disponibilizada no portal ePortugal, com uma hiperligação para o sítio na Internet da DGARTES.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -272,7 +316,9 @@ j) A composição das comissões de apreciação.
 
 4 - A informação sobre a abertura dos programas de apoio deve ser também disponibilizada no portal ePortugal, com uma hiperligação para o sítio na Internet da DGARTES.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O programa de apoio sustentado destina-se exclusivamente às pessoas coletivas previstas na alínea a) do n.º 1 do artigo 2.º e visa a estabilidade e consolidação de entidades com atividade continuada, assente em planos plurianuais, sendo considerados os respetivos encargos com recursos materiais e humanos, nomeadamente, através da preferência pela contratação de profissionais em regime de contrato de trabalho.
 
@@ -298,7 +344,9 @@ c) Espaço de criação e/ou apresentação para os fins a que se destina o apoi
 
 9 - No caso previsto no número anterior a entidade vai beneficiar do montante correspondente ao apoio recebido no âmbito do programa de apoio sustentado em curso.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O programa de apoio a projetos destina-se a projetos ou a um conjunto de atividades de um projeto que possam ser implementados até ao limite de 18 meses, visando contribuir para o dinamismo e a renovação do tecido artístico.
 
@@ -306,7 +354,9 @@ c) Espaço de criação e/ou apresentação para os fins a que se destina o apoi
 
 3 - Às modalidades de apoio a projetos referidas no número anterior não se aplica o limite de 18 meses para a sua implementação.
 
-###### Artigo 12.º — Programa de apoio em parceria
+Artigo 12.º
+
+Programa de apoio em parceria
 
 1 - O programa de apoio em parceria visa apoiar, de modo particular, o desenvolvimento de atividades que se enquadrem nos objetivos e linhas estratégicas previstas no presente decreto-lei, através da DGARTES, e outras pessoas coletivas, públicas ou privadas, nacionais ou estrangeiras, e reveste as seguintes modalidades:
 
@@ -324,7 +374,9 @@ c) Apoio em parceria com a administração local.
 
 5 - Nas modalidades previstas nas alíneas a) e c) do n.º 1 a DGARTES celebra com as respetivas pessoas coletivas o acordo de parceria que, antecedendo o programa de apoio em parceria, estabelece as condições do programa que, nos termos do presente decreto-lei, devem constar do aviso de abertura.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -354,7 +406,9 @@ d) (Revogada.)
 
 10 - Os documentos eletrónicos submetidos com as candidaturas devem ser assinados, preferencialmente, com recurso a assinaturas eletrónicas qualificadas, incluindo as do Cartão de Cidadão e Chave Móvel Digital ou outras que constem da Lista Europeia de Serviços de Confiança, sem prejuízo do disposto no artigo 4.º da [Lei n.º 37/2014](https://diariodarepublica.pt/dr/detalhe/lei/37-2014-25345579), de 26 de junho, na sua redação atual.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - (Anterior proémio do corpo do artigo:)
 
@@ -366,7 +420,9 @@ c) No caso de pessoas singulares, não desempenhar funções efetivas em órgão
 
 2 - Os candidatos são dispensados da apresentação de documentos que já se encontrem na posse de serviços e entidades da Administração Pública, quando derem o seu consentimento para que se proceda à sua obtenção, utilizando a Plataforma de Interoperabilidade da Administração Pública ou recorrendo ao mecanismo de portabilidade de dados previsto no n.º 2 do artigo 4.º-A da [Lei n.º 37/2014](https://diariodarepublica.pt/dr/detalhe/lei/37-2014-25345579), de 26 de junho, na sua redação atual.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - No concurso, a apreciação das candidaturas é efetuada por comissões, nomeadas pelo membro do Governo responsável pela área da cultura sob proposta fundamentada da DGARTES, compostas por consultores ou especialistas nas áreas artísticas e nas áreas de gestão financeira ou cultural, e por um técnico da DGARTES, que coordena.
 
@@ -376,7 +432,9 @@ c) No caso de pessoas singulares, não desempenhar funções efetivas em órgão
 
 4 - As propostas de decisão das comissões de apreciação são homologadas por despacho do diretor-geral da DGARTES e publicitadas no sítio na Internet da DGARTES.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - A atribuição de apoio financeiro é formalizada mediante contrato escrito, celebrado entre a entidade beneficiária do apoio e a DGARTES, e outras entidades públicas ou privadas envolvidas, quando aplicável.
 
@@ -394,13 +452,17 @@ d) O prazo de vigência.
 
 4 - Salvo situações de força maior, caso a entidade beneficiária não assine o contrato no prazo de 15 dias úteis a contar da data de envio do mesmo, o procedimento caduca quanto a esta, podendo a DGARTES selecionar para a contratação do apoio financeiro a entidade beneficiária que ficou graduada no lugar imediatamente seguinte.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Os contratos de apoio financeiro são objeto de acompanhamento permanente e de avaliação anual da sua execução, a qual compete à DGARTES, através das comissões de acompanhamento.
 
 2 - ...
 
-###### Artigo 18.º — Comissões de acompanhamento
+Artigo 18.º
+
+Comissões de acompanhamento
 
 1 - As comissões de acompanhamento funcionam sob orientação e coordenação da DGARTES, que assegura o apoio técnico, logístico e administrativo necessário ao seu funcionamento.
 
@@ -410,7 +472,9 @@ d) O prazo de vigência.
 
 4 - Compete às comissões de acompanhamento elaborar o relatório anual relativo às entidades beneficiárias de apoio financeiro.
 
-###### Artigo 19.º — Remuneração dos membros das comissões de apreciação e de acompanhamento
+Artigo 19.º
+
+Remuneração dos membros das comissões de apreciação e de acompanhamento
 
 1 - É devida aos membros das comissões de apreciação e aos membros das comissões de acompanhamento:
 
@@ -422,7 +486,9 @@ b) Caso, nos termos do artigo 21.º da Lei Geral do Trabalho em Funções Públi
 
 3 - (Revogado.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - O incumprimento, pelas entidades beneficiárias, das respetivas obrigações contratuais, a cessação do preenchimento dos respetivos requisitos de acesso aos programas de apoio, bem como as omissões ou falsas declarações no âmbito de informações prestadas à DGARTES, ou quaisquer irregularidades detetadas em sede da auditoria prevista no artigo 21.º, podem determinar, nos termos a definir no regulamento dos programas de apoio, uma das seguintes sanções:
 
@@ -434,23 +500,31 @@ c) ...
 
 2 - A não entrega do relatório de atividades e contas, bem como a aplicação do previsto na alínea c) do número anterior, determina, ainda, o impedimento de apresentação de nova candidatura enquanto subsistir o incumprimento, ou no máximo por um período de cinco anos, nos termos a definir no regulamento dos programas de apoio.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Por portaria do membro do Governo responsável pela área da cultura é definido o regulamento dos programas de apoio às artes.
 
 2 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 Os encargos decorrentes da aplicação do presente decreto-lei são inscritos no orçamento da DGARTES.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - As entidades beneficiárias de apoio sustentado apenas podem apresentar candidaturas ao programa de apoio a projetos e ao programa de apoio em parceria se tal for expressamente permitido no respetivo aviso de abertura.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Sem prejuízo do cumprimento da [Lei n.º 64/2013](https://diariodarepublica.pt/dr/detalhe/lei/64-2013-499522), de 27 de agosto, que regula a obrigatoriedade de publicitação dos benefícios concedidos pela Administração Pública a particulares, a DGARTES publicita no seu sítio na Internet, no primeiro trimestre de cada ano, as entidades beneficiárias dos apoios atribuídos no ano anterior e os respetivos montantes.
 
@@ -480,15 +554,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de abril de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Alexandra Ludomila Ribeiro Fernandes Leitão - Graça Maria da Fonseca Caetano Gonçalves.
 
-**Promulgado em 5 de junho de 2021.**
+Promulgado em 5 de junho de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de junho de 2021.**
+Referendado em 8 de junho de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -877,3 +951,5 @@ Do despacho de decisão, ou de qualquer outro ato praticado no decurso dos proce
 ###### Artigo 32.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+114306069

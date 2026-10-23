@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1988-286311
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ad52151caa83cbf80bae0e3dd89b6bb36c947094625c1682752516e74f0f941
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7eb0e0b4011142652c78c72cc675232ba71fb9a83d3b93707d5fce4a2fc9c782
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Estabelecimento Prisional
+- Madeira.região Autónoma
+- Subsídio de Fixação
+relationships:
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:47Z'
   warnings: []
   errors: []
 ---
@@ -92,22 +100,22 @@ Assim:
 
 Ao abrigo do disposto no n.º 2 do artigo 8.º do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É instituído pelo presente diploma, para os funcionários que prestem serviço em estabelecimentos prisionais sediados nas Regiões Autónomas dos Açores e da Madeira, um subsídio de fixação de montante a estabelecer por despacho do Ministro da Justiça.
+Artigo 1.º - 1 - É instituído pelo presente diploma, para os funcionários que prestem serviço em estabelecimentos prisionais sediados nas Regiões Autónomas dos Açores e da Madeira, um subsídio de fixação de montante a estabelecer por despacho do Ministro da Justiça.
 
 2 - São excluídos do âmbito do disposto no número anterior aqueles que na altura da respectiva colocação já estejam radicados na ilha onde se encontre sediado o estabelecimento prisional em que exerçam funções.
 
-###### Art. 2.º Têm direito ao subsídio instituído pelo n.º 1 do artigo precedente os funcionários que, prestando serviço naqueles estabelecimentos prisionais à data da publicação deste diploma, reunissem as condições estabelecidas no mencionado artigo no momento em que iniciaram o exercício das respectivas funções.
+Art. 2.º Têm direito ao subsídio instituído pelo n.º 1 do artigo precedente os funcionários que, prestando serviço naqueles estabelecimentos prisionais à data da publicação deste diploma, reunissem as condições estabelecidas no mencionado artigo no momento em que iniciaram o exercício das respectivas funções.
 
-###### Art. 3.º Os encargos resultantes da implementação do regime previsto no presente diploma são suportados pelas verbas administradas pelo Gabinete de Gestão Financeira do Ministério da Justiça, enquanto não forem inscritas no Orçamento do Estado as verbas necessárias.
+Art. 3.º Os encargos resultantes da implementação do regime previsto no presente diploma são suportados pelas verbas administradas pelo Gabinete de Gestão Financeira do Ministério da Justiça, enquanto não forem inscritas no Orçamento do Estado as verbas necessárias.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira.
 
-**Promulgado em 15 de Março de 1988.**
+Promulgado em 15 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Março de 1988.**
+Referendado em 16 de Março de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

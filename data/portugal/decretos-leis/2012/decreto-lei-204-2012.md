@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/204/2012/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2979b5e1b5cfb15e59cdd3fcf64519e498e0f1a94d9e889730224e01e31b601
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06c4aa2770b89184c4a7d10787a4e191952d5e98cf4a615bc8e0a7acd16e4060
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Titulo de Ingresso
-- Espetáculos e Divertimentos Públicos
 - Contra-ordenação
 - Definição de Competências
+- Espetáculos e Divertimentos Públicos
 - Fiscalização
-- Licenciamento
-- Licença Municipal
-- Instituto do Turismo de Portugal
-- Normas de Segurança
 - Guarda-nocturno
+- Instituto do Turismo de Portugal
+- Licença Municipal
+- Licenciamento
+- Normas de Segurança
+- Titulo de Ingresso
 - Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:66970718:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66970718:por
+  label: Dada nova redação ao art. 18.º do Dec Lei 310/2002 de 18-dez, republicado pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 51/2015 - Diário da República n.º 71/2015, Série I de 2015-04-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-2015-66970718
+  date: '2015-04-13'
 - type: cites
   target: celex:32006L0123
   label: null
@@ -95,16 +101,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/310/2002/12/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/310/2002/12/18/p/dre
+- type: repealed_by
+  target: pt:dre:500023:por
+  label: "Revogado o n.º 1 do art. 2.º do Dec Lei 310/2002, de 18-dez, na redação do presente diploma, pela LEI.75/2013.12.09.2013.AR,\
+    \ DR.IS [176] de 12.09.2013, nos termos do art. 4º e na parte em que refere as als b), c) e f) do art. 1.º do mesmo diploma,\
+    \ bem como as suas subsequentes disposições relativas à titularidade da competência para o licenciamento das atividades\
+    \ de venda ambulante de lotarias, de arrumador de automóveis e atividades ruidosas de caráter temporário que respeitem\
+    \ a festas populares, romarias, feiras, arraiais e bailes\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-2013-500023
+  date: '2013-09-12'
 article_structure:
-  article_count: 87
+  article_count: 74
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:54Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +180,9 @@ c) Cópia simples da apólice de seguro de acidentes pessoais, válida.
 
 8 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -177,13 +194,17 @@ c) Cópia simples da apólice de seguro de acidentes pessoais, válida.
 
 5 - Quando o auto de vistoria conclua em sentido desfavorável, ou quando seja desfavorável o voto fundamentado de um dos elementos referidos no n.º 2, não pode ser emitido o alvará da licença de utilização enquanto não forem removidas as causas que justificaram tal decisão, notificando-se o requerente no prazo de 15 dias a contar da data da realização da vistoria.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O alvará da licença de utilização para recintos de espetáculos e de divertimentos públicos é emitido por decisão do presidente da câmara municipal, no prazo de 15 dias a contar da data da realização da vistoria referida no artigo anterior ou do termo do prazo para a sua realização.
 
 2 - A falta de emissão do alvará no prazo previsto no número anterior ou a falta da notificação prevista no n.º 5 do artigo anterior vale como deferimento tácito do pedido daquela licença de utilização.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O certificado de inspeção visa atestar que o empreendimento cumpre e mantém os requisitos especificados nas normas técnicas e de segurança aplicáveis, previstas no artigo 8.º
 
@@ -193,7 +214,9 @@ c) Cópia simples da apólice de seguro de acidentes pessoais, válida.
 
 4 - Os proprietários ou os promotores de recintos de espetáculos e de divertimentos públicos devem solicitar uma inspeção à entidade referida no n.º 2 até 30 dias antes da data em que se cumpram três anos de anterior solicitação de inspeção.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Sem prejuízo das contraordenações previstas nos regulamentos das normas técnicas e de segurança aplicáveis, constituem contraordenações, puníveis com as seguintes coimas:
 
@@ -237,13 +260,17 @@ h) ...
 
 i) ...
 
-###### Artigo 2.º — Acesso e exercício das atividades
+Artigo 2.º
+
+Acesso e exercício das atividades
 
 1 - O acesso às atividades referidas nas alíneas a), b), c), d), f) e h) do artigo anterior carece de licenciamento municipal.
 
 2 - As atividades referidas nas alíneas e) e g) do artigo anterior são de livre acesso.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Nenhuma máquina submetida ao regime do presente capítulo pode ser posta em exploração sem que se encontre registada e os respetivos temas de jogo classificados.
 
@@ -255,11 +282,15 @@ i) ...
 
 5 - As alterações de propriedade da máquina obrigam o adquirente a efetuar o averbamento respetivo, por comunicação no balcão único eletrónico dos serviços, que identifique o adquirente e o anterior proprietário, devendo o comprovativo da comunicação acompanhar a máquina a que respeita.
 
-###### Artigo 21.º — Comunicação do registo
+Artigo 21.º
+
+Comunicação do registo
 
 A comunicação de promoção do registo da máquina referido no n.º 2 do artigo anterior identifica o seu proprietário, o local de exploração pretendido e a classificação do tema de jogo respetivo pelo Serviço de Inspeção de Jogos do Instituto do Turismo de Portugal, I. P.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -275,7 +306,9 @@ A comunicação de promoção do registo da máquina referido no n.º 2 do artig
 
 7 - A substituição referida no n.º 5 deve ser comunicada pelo proprietário ao presidente da câmara no balcão único eletrónico dos serviços.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -283,7 +316,9 @@ A comunicação de promoção do registo da máquina referido no n.º 2 do artig
 
 3 - A distância prevista no número anterior é aferida por referência à distância percorrida pelo caminho pedonal mais curto, obedecendo às regras de circulação pedonal constantes do Código da Estrada.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -291,7 +326,9 @@ A comunicação de promoção do registo da máquina referido no n.º 2 do artig
 
 3 - ...
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 ...
 
@@ -303,7 +340,9 @@ c) Fazer publicidade, por qualquer meio, dentro de um raio de 100 metros em torn
 
 d) ...
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -341,7 +380,9 @@ n) ...
 
 4 - ...
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
@@ -403,13 +444,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de maio de 2012. - Pedro Passos Coelho - Miguel Fernando Cassola de Miranda Relvas - Álvaro Santos Pereira.
 
-**Promulgado em 7 de agosto de 2012.**
+Promulgado em 7 de agosto de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de agosto de 2012.**
+Referendado em 14 de agosto de 2012.
 
 Pelo Primeiro-Ministro, Vítor Louçã Rabaça Gaspar, Ministro de Estado e das Finanças.
 

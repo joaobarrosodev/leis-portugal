@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/157-1983-311448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T07:33:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5ed8acd2e69dfe977b8c9a8c50a62740e9e81c7f49dc6da1b3300c47fb1e7b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbd89c49d596e96e1849cfda23fdf213a5a75e826f9631eaf690ff291c9d5dff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:33:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Faro
+- Hospital Distrital
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:642185:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 995/83 DE 28-NOV DR.IS [274]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-11-28'
+- type: amended_by
+  target: pt:dre:443117:por
+  label: "Alterado o quadro de pessoal pela PORT.995/83.28.11.1983.PCM, DR.IS [274] de 28.11.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/995-1983-443117
+  date: '1983-11-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 557/85 DE 09-AGO DR.IS [182]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-08-09'
+- type: amended_by
+  target: pt:dre:180450:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 598/85 DE 14-AGO DR.IS [186]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/598-1985-180450
+  date: '1985-08-14'
+- type: amended_by
+  target: pt:dre:497395:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Faro, aprovado pela presente portaria, alterado pelas Ports\
+    \ 995/83, de 28-Nov, 960/84, de 24-Dez, 557/85, de 09-Ago, 598/85, de 14-Ago, 909/85, de 29-Nov e 13/87, de 07-Jan, pela\
+    \ PORT.860/87.06.11.1987.MF, DR.IS [256] de 06.11.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/860-1987-497395
+  date: '1987-11-06'
+- type: amended_by
+  target: pt:dre:642185:por
+  label: Substituído o quadro de pessoal médico do Hospital Distrital de Faro pelo(a) Portaria n.º 413/91 - Diário da República
+    n.º 112/1991, Série I-B de 1991-05-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1991-642185
+  date: '1991-05-16'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:33:20Z'
   warnings: []
   errors: []
 ---
@@ -100,4 +152,4 @@ Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Adminis
 
 Quadro de pessoal do Hospital Distrital de Faro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04100/05260528.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04100/05260528.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04100/05260528.pdf)

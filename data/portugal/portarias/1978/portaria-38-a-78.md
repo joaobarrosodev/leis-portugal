@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 16/1978, 1º Suplemento, Série I de 1978-01-19
   number: '16'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 150-(1) a 150-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/01/01601/00010014.pdf
 entry_into_force_dates: []
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/38-a-1978-412199
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T05:39:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85b1e96f41561f64ebfba610469dbb7fac69374634428fc6408a5416d42cd787
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 839826846631259d155bc76fd68b2d1fa134c72cc4a046008f2503039df84c58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:39:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Caixa Central de Segurança Social dos Trabalhadores Migrantes
+- Caixa de Abono de Família dos Empregados Bancários
+- Caixa de Previdência
+- Caixa de Reforma
+- Caixa Nacional de Seguros de Doenças Profissionais
+- Caixa Sindical de Previdência
+- CASA do POVO
+- Comissão de Equipamentos Colectivos
+- Descrição de Funções
+- Federação das Caixas de Previdência e Abono de Família
+- Funcionário Público
+- Instituto de Obras Sociais
+- Reestruturação de Carreiras
+- Remuneração
+- Secretaria de Estado da Segurança Social
+- Segurança Social
+- Serviços Médico-sociais
 relationships:
 - type: amended_by
   target: pt:dre:299007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:299007:por
+  label: "Alterada a tabela de remunerações pela PORT.475/78.1987.06.05.MF DR.IS [192]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/475-1978-299007
+  date: '1987-06-05'
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380290:por
+  label: null
+  source: null
 article_structure:
-  article_count: 25
+  article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:39:46Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +170,9 @@ A presente portaria produz efeitos desde 1 de Janeiro de 1978.
 
 Presidência do Conselho de Ministros e Ministérios das Finanças, do Trabalho e dos Assuntos Sociais, 18 de Janeiro de 1978. - O Secretário de Estado da Administração Pública, José Dias dos Santos Pais. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado do Trabalho, Custódio de Almeida Simões. - O Secretário de Estado da Segurança Social, Vítor Manuel Gomes Vasques.
 
-## ANEXO I — Artigo 1.º
+## ANEXO I
+
+###### Artigo 1.º
 
 (Quadro de pessoal)
 
@@ -719,7 +760,7 @@ Da aplicação da presente portaria não poderá resultar redução da remunera�
 
 2 - Pelas deslocações em que a saída da residência de serviço e a entrada se observem dentro de um período de vinte e quatro horas abonar-se-ão as percentagens seguintes de ajudas de custo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/01/01601/00010014.pdf))](https://files.diariodarepublica.pt/1s/1978/01/01601/00010014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/01/01601/00010014.pdf)
 
 3 - Nas deslocações por dias sucessivos aplicam-se as percentagens referidas no número anterior nos dias da partida e do regresso, devendo observar-se o seguinte:
 
@@ -765,7 +806,7 @@ A antiguidade nas categorias em que, por força do presente diploma, se operam a
 
 ## ANEXO II — Quadros, categorias e vencimentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/01/01601/00010014.pdf))](https://files.diariodarepublica.pt/1s/1978/01/01601/00010014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/01/01601/00010014.pdf)
 
 Os encarregados do pessoal dos quadros complementar e operário têm direito à remuneração correspondente ao escalão imediatamente superior ao fixado para a maior categoria das profissões do pessoal por eles chefiado.
 
@@ -1143,4 +1184,4 @@ Compete, genericamente, à servente proceder a serviços de limpeza, arrumaçõe
 
 15 - Quadro de pessoal operário. - Competem ao pessoal deste quadro as atribuições normais das respectivas profissões.
 
-**O Secretário de Estado da Administração Pública, José Dias dos Santos Pais. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado do Trabalho, Custódio de Almeida Simões. - O Secretário de Estado da Segurança Social, Vítor Manuel Gomes Vasques.**
+O Secretário de Estado da Administração Pública, José Dias dos Santos Pais. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado do Trabalho, Custódio de Almeida Simões. - O Secretário de Estado da Segurança Social, Vítor Manuel Gomes Vasques.

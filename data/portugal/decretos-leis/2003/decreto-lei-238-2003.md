@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/238/2003/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 603cacba03a507b41a5a2f5f6c0e66035339abe276a0c929f7fcdc9cc0412473
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93d8eb94cf27610b3ab01aaa7266f1f6d4b0dbeddee510d5307760ae98920d30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Indústria Automóvel
 - Certificado de Conformidade
 - Direcção Geral de Viação
-- Especificação Técnica
-- Veículo
-- Segurança Rodoviária
-- Normas de Segurança
 - Equipamento de Veículo
-- Regulamento
+- Especificação Técnica
+- Indústria Automóvel
 - Motor
+- Normas de Segurança
+- Regulamento
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:114276584:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457048:por
+  label: "Alterado o art. 19.º-A e o anexo VI-A do Regulamento da Homologação de Veículos a Motor de Duas e Três Rodas e Respectivo\
+    \ Indicador de Velocidade, aprovado pelo Dec Lei 30/2002, de 16-Fev, aditados no presente diploma, pelo DEC LEI.14/2005.10.01.2005.MAI,\
+    \ DR.IS-A [6] de 10.01.2005 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-2005-457048
+  date: '2005-01-10'
+- type: amended_by
+  target: pt:dre:641686:por
+  label: "Alterados os anexos II e V do Regulamento da Homologação de Veículos a Motor de Duas e Três Rodas e Respectivo Indicador\
+    \ de Velocidade, aprovado pelo Decreto-Lei n.º 30/2002, de 16-Fev, na redacção do presente diploma, pelo DEC LEI.335/2007.11.10.2007.MAI,\
+    \ DR.IS [196] de 11.10.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/335-2007-641686
+  date: '2007-10-11'
+- type: amended_by
+  target: pt:dre:502980:por
+  label: "Dada nova redação aos anexos IV e V do Regulamento da Homologação de Veículos a Motor de Duas e Três Rodas e Respetivo\
+    \ Indicador de Velocidade, aprovado pelo Dec Lei 30/2002 de 16-fev , alterado pelo presente diploma, pelo DEC LEI.148/2013.24.10.2013.MECO,\
+    \ DR.IS [206] de 24.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2013-502980
+  date: '2013-10-24'
+- type: amended_by
+  target: pt:dre:56819090:por
+  label: Alterados de acordo com a redação constante do anexo III do presente diploma, os anexos IV e VI-A na redação do presente
+    diploma, pelo Dec Lei 30/2002, de 16-fev DR.IS-A [40] pelo(a) Decreto-Lei n.º 139/2014 - Diário da República n.º 177/2014,
+    Série I de 2014-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-2014-56819090
+  date: '2014-09-15'
 - type: cites
   target: celex:31992L0061
   label: null
@@ -108,15 +136,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2002/24/oj
 article_structure:
-  article_count: 22
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 8
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:36Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +201,9 @@ h) Velocípedes com motor auxiliar, ou seja os veículos com pedalagem assistida
 
 4 - O presente Regulamento também não se aplica à homologação de veículos isolados, porém, neste caso, deve ser aceite qualquer homologação de componentes e unidades técnicas concedida por força do presente diploma e não por força das disposições nacionais na matéria.
 
-###### Artigo 2.º — Classificação
+Artigo 2.º
+
+Classificação
 
 1 - Os veículos referidos no artigo 1.º são classificados em veículos da categoria:
 
@@ -199,7 +229,9 @@ iii) Cuja potência nominal máxima contínua seja igual ou inferior a 4 kW, no 
 
 b) L7e - quadriciclos motociclos, ou seja, veículos que devem satisfazer os requisitos técnicos aplicáveis aos triciclos a motor da categoria L5e (salvo especificação em contrário em alguma das directivas específicas) com massa sem carga não superior a 400 kg, ou 550 kg para os veículos destinados ao transporte de mercadorias, excluindo a massa das baterias no caso dos veículos eléctricos, e cujos motores tenham uma potência útil máxima não superior a 15 kW.
 
-###### Artigo 3.º — Definições
+Artigo 3.º
+
+Definições
 
 Para efeitos do disposto no presente capítulo, entende-se por:
 
@@ -265,7 +297,9 @@ b) Um conjunto de resultados de ensaios em conformidade com o anexo VI-A ao pres
 
 11 - «Serviço técnico», a organização ou entidade credenciada como laboratório de ensaio para proceder a ensaios ou inspecções em nome da autoridade competente em matéria de homologação de um Estado membro, podendo também ser asseguradas pela própria autoridade competente em matéria de homologação.
 
-###### Artigo 5.º — Condições para a homologação
+Artigo 5.º
+
+Condições para a homologação
 
 1 - A Direcção-Geral de Viação procede à homologação a todos os modelos de veículos, sistemas, unidades técnicas ou componentes que satisfaçam as seguintes condições:
 
@@ -275,7 +309,9 @@ b) O sistema, unidade técnica ou componente deve obedecer aos requisitos técni
 
 2 - ...
 
-###### Artigo 6.º — Controlo da conformidade de produção
+Artigo 6.º
+
+Controlo da conformidade de produção
 
 1 - ...
 
@@ -285,7 +321,9 @@ b) O sistema, unidade técnica ou componente deve obedecer aos requisitos técni
 
 4 - No caso de ser verificado que um veículo, sistema, unidade técnica ou componente que obedece aos requisitos constantes do n.º 1 do artigo 5.º constitui um risco sério para a segurança rodoviária, pode ser recusada a homologação, informando-se, do facto, imediatamente os outros Estados membros e a Comissão, expondo os motivos em que se fundamenta a sua decisão.
 
-###### Artigo 7.º — Preenchimento do certificado de homologação
+Artigo 7.º
+
+Preenchimento do certificado de homologação
 
 1 - Quando a Direcção-Geral de Viação proceder à homologação de qualquer modelo de veículo, deve preencher o formulário de homologação constante do anexo III e indicar os resultados dos ensaios nas rubricas adequadas do documento apenso ao formulário de homologação, cujo modelo se apresenta no anexo VI-A ao presente Regulamento.
 
@@ -293,7 +331,9 @@ b) O sistema, unidade técnica ou componente deve obedecer aos requisitos técni
 
 3 - Os certificados de homologação de um sistema, unidade técnica ou componente devem ser numerados de acordo com o método descrito na parte A do anexo V ao presente Regulamento.
 
-###### Artigo 8.º — Comunicação das homologações e recusas
+Artigo 8.º
+
+Comunicação das homologações e recusas
 
 1 - ...
 
@@ -301,7 +341,9 @@ b) O sistema, unidade técnica ou componente deve obedecer aos requisitos técni
 
 3 - Quando uma autoridade competente de outro Estado membro o solicitar, deve ser enviada, o mais brevemente possível, uma cópia do certificado de homologação, com os respectivos anexos, para cada tipo de sistema, unidade técnica ou componente.
 
-###### Artigo 9.º — Declaração de conformidade
+Artigo 9.º
+
+Declaração de conformidade
 
 1 - Para cada veículo construído em conformidade com o modelo homologado, é emitido pelo fabricante um certificado de conformidade, cujo modelo figura na parte A do anexo IV, que acompanhará o veículo.
 
@@ -315,17 +357,23 @@ b) O sistema, unidade técnica ou componente deve obedecer aos requisitos técni
 
 6 - No caso indicado no número anterior, o respectivo certificado de homologação da unidade técnica ou componente deverá mencionar as restrições de utilização e conter as eventuais instruções de montagem, devendo-se, aquando da homologação de um modelo de veículo, verificar se aquelas restrições e requisitos foram respeitadas.
 
-###### Artigo 10.º — Marca
+Artigo 10.º
+
+Marca
 
 Sem prejuízo do disposto no n.º 4 do artigo anterior, o titular de uma homologação de uma unidade técnica ou de um componente concedida, em conformidade com os artigos 5.º e 6.º, deve apor sobre cada unidade técnica ou componente construído em conformidade com o modelo homologado a sua marca de fabrico ou de comércio, a indicação do modelo e, se a directiva específica assim o dispuser, a marca de homologação referida no artigo 12.º, não sendo, neste último caso, obrigado a emitir a declaração prevista no n.º 4 supra.
 
-###### Artigo 11.º — Restrições, condições de montagem e informações
+Artigo 11.º
+
+Restrições, condições de montagem e informações
 
 1 - O titular de um certificado de homologação de uma unidade técnica ou componente que contenha restrições de utilização, fixadas nos termos dos n.os 5 e 6 do artigo 9.º, deve fornecer, com cada unidade técnica ou cada componente produzido, informações pormenorizadas relativas a essas restrições e indicar as eventuais condições de montagem, se adequado.
 
 2 - O titular do certificado de homologação de uma unidade técnica de equipamento que não seja de origem, concedida em ligação com um ou vários modelos de veículos, deve fornecer, com cada uma dessas unidades técnicas, informações pormenorizadas que permitam identificar esses veículos.
 
-###### Artigo 12.º — Número de homologação
+Artigo 12.º
+
+Número de homologação
 
 1 - Os veículos produzidos em conformidade com o modelo homologado devem conter uma marca de homologação, nos termos da secção 1, da secção 3 e da secção 4 do número de homologação, que consta da parte A do anexo V ao presente Regulamento.
 
@@ -335,7 +383,9 @@ Sem prejuízo do disposto no n.º 4 do artigo anterior, o titular de uma homolog
 
 4 - As informações contidas na marca de homologação podem ser completadas com informações suplementares que permitam identificar determinadas características próprias da unidade técnica ou do componente em questão, devendo as referidas informações, se for caso disso, estar enunciadas nas directivas específicas relativas a essas unidades técnicas ou componentes.
 
-###### Artigo 13.º — Responsabilidade do fabricante
+Artigo 13.º
+
+Responsabilidade do fabricante
 
 1 - ...
 
@@ -353,7 +403,9 @@ Sem prejuízo do disposto no n.º 4 do artigo anterior, o titular de uma homolog
 
 8 - Sempre que um certificado de homologação deixe de produzir efeitos devido à cessação definitiva da produção do modelo de veículo, do sistema, da unidade técnica ou do componente homologados, a Direcção-Geral de Viação deve comunicar tal facto, no prazo de um mês, às autoridades competentes dos outros Estados membros.
 
-###### Artigo 15.º — Não conformidade com o modelo aprovado
+Artigo 15.º
+
+Não conformidade com o modelo aprovado
 
 1 - ...
 
@@ -363,7 +415,9 @@ Sem prejuízo do disposto no n.º 4 do artigo anterior, o titular de uma homolog
 
 4 - Se o Estado membro que procedeu à homologação contestar a não conformidade que lhe foi notificada, os Estados membros envolvidos procurarão resolver entre si a questão, devendo a Comissão ser mantida ao corrente e, se necessário, proceder às consultas adequadas para chegar a uma solução.
 
-###### Artigo 19.º — Dispensas
+Artigo 19.º
+
+Dispensas
 
 1 - ...
 
@@ -409,7 +463,9 @@ b) Para efeitos do presente Regulamento, não se considera excepcional que um se
 
 3 - Os serviços notificados devem satisfazer a norma harmonizada.
 
-###### Artigo 19.º — Derrogação dos n.os 1 e 2 do artigo 18.º
+Artigo 19.º
+
+Derrogação dos n.os 1 e 2 do artigo 18.º
 
 1 - Em derrogação dos n.os 1 e 2 do artigo 18.º, a Direcção-Geral de Viação pode, dentro dos limites referidos no anexo VI-A ao presente Regulamento e durante um período limitado, matricular e permitir a venda ou a entrada em circulação de veículos novos conformes com um modelo de veículo cuja homologação já não seja válida.
 
@@ -469,15 +525,15 @@ O Regulamento ora aprovado entra em vigor no dia seguinte ao da sua publicação
 
 Visto e aprovado em Conselho de Ministros de 16 de Julho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - João Luís Mota de Campos - Carlos Manuel Tavares da Silva - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 11 de Setembro de 2003.**
+Promulgado em 11 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Setembro de 2003.**
+Referendado em 17 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — (referente ao artigo 4.º)
 
@@ -493,7 +549,7 @@ Os elementos e características do veículo indicados nas rubricas que se seguem
 
 (Ter-se-ão em conta, sempre que adequado, o âmbito e as últimas alterações de cada uma das directivas específicas abaixo indicadas.)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)
 
 Nota. - As directivas específicas deverão prever prescrições específicas para os ciclomotores de baixa potência, ou seja, os ciclomotores a pedal, com um motor auxiliar de potência inferior ou igual a 1 kW e com uma velocidade máxima de projecto inferior ou igual a 25 Km/h. Estas prescrições específicas aplicar-se-ão em particular aos componentes e características referidos nas rubricas n.os 18, 19, 29, 32, 33, 34, 41, 43 e 46 do presente anexo.»
 
@@ -923,7 +979,7 @@ quer:
 
 4.5 - Relações de desmultiplicação das velocidades.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)
 
 4.5.1 - Breve descrição dos componentes eléctricos e ou electrónicos utilizados na transmissão: ...
 
@@ -1243,7 +1299,7 @@ P = lado do passageiro da frente.
 
 2.10.4 - Designação dos tipos de cintos (ver nota *) que podem ser montados nas fixações com as quais o veículo está equipado:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)
 
 2.10.5 - Descrição do cinto de segurança, se este for de tipo especial e tiver uma fixação localizada no encosto do banco ou equipada com um dispositivo de dissipação de energia: ...
 
@@ -1339,7 +1395,7 @@ Pode ser tomado como referência pelas autoridades competentes, se estas assim o
 
 Deverão ser fornecidas as seguintes informações sobre as homologações existentes de sistemas, unidades técnicas ou componentes do veículo a homologar (ver nota *):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)
 
 (nota *) Não é necessário dar informações relativamente aos sistemas, unidades técnicas ou componentes que têm de ser incluídos no exame ou nos ensaios para a concessão da homologação do veículo no seu conjunto.
 
@@ -1755,11 +1811,11 @@ Quatro secções para as homologações de veículos; e
 
 Cinco secções para as homologações de sistemas, componentes e unidades técnicas, de acordo com as disposições a seguir. Em todos os casos, as secções devem ser separadas por um asterisco '*'
 
-#### Secção 1: a letra minúscula 'e' seguida do código (número) do Estado membro que emite a homologação: 1 para a Alemanha; 2 para a França; 3 para a Itália; 4 para os Países Baixos; 5 para a Suécia; 6 para a Bélgica; 9 para a Espanha; 11 para o Reino Unido; 12 para a Áustria; 13 para o Luxemburgo; 17 para a Finlândia; 18 para a Dinamarca; 21 para Portugal; 23 para a Grécia; 24 para a Irlanda;
+Secção 1: a letra minúscula 'e' seguida do código (número) do Estado membro que emite a homologação: 1 para a Alemanha; 2 para a França; 3 para a Itália; 4 para os Países Baixos; 5 para a Suécia; 6 para a Bélgica; 9 para a Espanha; 11 para o Reino Unido; 12 para a Áustria; 13 para o Luxemburgo; 17 para a Finlândia; 18 para a Dinamarca; 21 para Portugal; 23 para a Grécia; 24 para a Irlanda;
 
-#### Secção 2: o número da directiva de base;
+Secção 2: o número da directiva de base;
 
-#### Secção 3: o número da última directiva de alteração aplicável à homologação.
+Secção 3: o número da última directiva de alteração aplicável à homologação.
 
 No caso das homologações de veículos, trata-se da última directiva que altera um artigo (ou artigos) do presente diploma.
 
@@ -1771,9 +1827,9 @@ No caso de uma directiva incluir datas de entrada em aplicação diferentes que 
 
 No caso de serem possíveis homologações de sistemas, de componentes ou de unidades técnicas com base em capítulos ou secções da mesma directiva específica, o número da directiva deverá ser seguido do número do capítulo (ver nota 1), anexo (ver nota 2) e apêndice (ver nota 3), para indicar o objecto da homologação. Esses números serão sempre separados por uma barra (/);
 
-#### Secção 4: um número sequencial de quatro algarismos (eventualmente com zeros iniciais) a identificar o número de homologação de base. A sequência começa em 0001 para cada directiva de base;
+Secção 4: um número sequencial de quatro algarismos (eventualmente com zeros iniciais) a identificar o número de homologação de base. A sequência começa em 0001 para cada directiva de base;
 
-#### Secção 5: um número sequencial de dois algarismos (eventualmente com um zero inicial) a identificar a prorrogação. A sequência começa em 00 para cada número de homologação de base.
+Secção 5: um número sequencial de dois algarismos (eventualmente com um zero inicial) a identificar a prorrogação. A sequência começa em 00 para cada número de homologação de base.
 
 2 - No caso da homologação CE de veículos completos, é omitida a secção 2.
 
@@ -1847,7 +1903,7 @@ B) Marca de homologação
 
 3 - No apêndice ao presente anexo dá-se um exemplo de marca de homologação.
 
-## Apêndice
+Apêndice
 
 Exemplo de marca de homologação
 
@@ -1889,11 +1945,15 @@ Disposições relativas à verificação da conformidade da produção
 
 1.2.5 - As autoridades competentes devem autorizar uma inspecção por ano. Se for necessário efectuar um número diferente de inspecções, tal será especificado em cada uma das directivas específicas. Se se observarem resultados negativos durante a inspecção a autoridade competente deve assegurar que sejam tomadas todas as medidas necessárias para restabelecer, logo que possível, a conformidade da produção.»
 
-## ANEXO II — (referente ao artigo 5.º)
+ANEXO II
+
+(referente ao artigo 5.º)
 
 São aditados ao Regulamento aprovado pelo Decreto-Lei n.º 30/2002, de 16 de Fevereiro, os anexos VI-A, VI-B e VI-C, com a seguinte redacção:
 
-## ANEXO VI-A — Resultados dos ensaios
+ANEXO VI-A
+
+Resultados dos ensaios
 
 (n.º 1 do artigo 7.º)
 
@@ -1943,7 +2003,9 @@ Valor corrigido do coeficiente de absorção (m(elevado a -1)): ...
 
 (nota 2) Apenas para os motociclos e quadriciclos ligeiros definidos no artigo 2.º
 
-## ANEXO VI-B — Veículos de fim de série
+ANEXO VI-B
+
+Veículos de fim de série
 
 (artigo 19.º-A)
 
@@ -1955,6 +2017,8 @@ b) O número de veículos de cada tipo, seja qual for, é limitado aos veículos
 
 O certificado de conformidade dos veículos em circulação ao abrigo deste procedimento deve conter uma menção especial.
 
-## ANEXO VI-C — Quadro de correspondência
+ANEXO VI-C
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)
+Quadro de correspondência
+
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/65266544.pdf)

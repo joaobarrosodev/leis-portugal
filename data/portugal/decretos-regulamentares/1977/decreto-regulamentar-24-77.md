@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/07700/06650669.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1977-139726
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:56:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7e65c7d57fb46ce3a52d8b901e82f999dd612c9fdf3639b5471582bf644edb5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd35bc3d22b5037a9a400ffd95a7979b25daa4c8d99cd31fe717620120ba7cdf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:56:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Viabilização
+- Empresa Privada
+- Fundo de Compensação
+- Rectificação de Numero de Diploma
+- Rectificação de TIPO de Diploma
+- Saneamento Económico e Financeiro
 relationships:
 - type: amended_by
   target: pt:dre:666522:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS DIVERSOS ARTIGOS E PUBLICADO NOVAMENTE NA INTEGRA O PRESENTE DIPLOMA, PELO DECRETO LEI 112/83, DE 22 DE
+    FEVEREIRO, PUBLICADO NO DR.IS, 43.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-02-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O NUMERO 1 DO ARTIGO 15 PELO DECRETO LEI 381/84, DE 3 DE DEZEMBRO, PUBLICADO NO DR.IS, 279.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-12-03'
+- type: amended_by
+  target: pt:dre:666522:por
+  label: "Alterado o art. 3º pelo DEC LEI.152/87.30.03.1987.MF, DR.IS [74] de 30.03.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-1987-666522
+  date: '1987-03-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: EXTINTO O FUNDO DE COMPENSACAO PELO DECRETO LEI 338/87, DE 21 DE OUTUBRO, PUBLICADO NO DR.IS, 242.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-10-21'
+- type: cites
+  target: pt:dre:298214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407679:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:139955:por
+  label: Retificado o presente decreto-regulamentar , que passa a constituir o Dec Lei 124/77 de 01-abr, pelo(a) Declaração
+    - Diário da República n.º 88/1977, Série I de 1977-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-139955
+  date: '1977-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:56:38Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +145,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. As instituições de crédito nacionais poderão celebrar com empresas privadas contratos através dos quais:
+Artigo 1.º - 1. As instituições de crédito nacionais poderão celebrar com empresas privadas contratos através dos quais:
 
 a) As empresas se obriguem a atingir determinadas metas pré-fixadas de equilíbrio financeiro, de produtividade e de rentabilidade, em contrapartida de benefícios concedidos de entre os previstos neste diploma;
 
@@ -116,7 +157,7 @@ b) As instituições de crédito se obriguem a participar nas operações financ
 
 4. Os contratos mencionados nos números anteriores serão designados por «contratos de viabilização».
 
-###### Art. 2.º - 1. Podem celebrar contratos de viabilização as empresas privadas que preencham cumulativamente as condições seguintes:
+Art. 2.º - 1. Podem celebrar contratos de viabilização as empresas privadas que preencham cumulativamente as condições seguintes:
 
 a) Apresentem uma estrutura financeira desequilibrada, manifesta a partir dos exercícios de 1974, 1975 ou 1976;
 
@@ -142,7 +183,7 @@ d) Mais elevado quociente do valor de facturação, pela formação bruta de cap
 
 6. As empresas que à data da entrada em vigor deste diploma estiverem sob intervenção do Estado beneficiarão, na celebração de contratos de viabilização, de prioridade em relação às referidas nas várias alíneas do n.º 4.
 
-###### Art. 3.º - 1. As metas e objectivos finais a fixar nos contratos de viabilização devem, sempre que possível, ser decompostos em metas e objectivos anuais ou parcelares, claramente definidos.
+Art. 3.º - 1. As metas e objectivos finais a fixar nos contratos de viabilização devem, sempre que possível, ser decompostos em metas e objectivos anuais ou parcelares, claramente definidos.
 
 2. As metas e objectivos referidos no número anterior devem ser ordenados segundo modelo a publicar pelo Banco de Portugal e ser expressos sempre que possível, em:
 
@@ -152,7 +193,7 @@ b) Número de trabalhadores, horas anuais de trabalho e massa salarial, tratando
 
 c) Indicadores de gestão recomendados pelo despacho publicado no suplemento ao Diário da República, 2.ª série, de 1 de Julho de 1976, tratando-se de saneamento financeiro, nível de endividamento ou outros objectivos não especificados nas alíneas anteriores e a definir no contrato.
 
-###### Art. 4.º - 1. Sem prejuízo de outros benefícios porventura atribuíveis, nos termos dos regimes gerais ou especiais aplicáveis, poderão também ser concedidos os que a seguir se enumeram:
+Art. 4.º - 1. Sem prejuízo de outros benefícios porventura atribuíveis, nos termos dos regimes gerais ou especiais aplicáveis, poderão também ser concedidos os que a seguir se enumeram:
 
 a) Consolidação do passivo, nos termos referidos no artigo 6.º;
 
@@ -182,7 +223,7 @@ m) Concessão de benefícios fiscais, expressamente destinados às empresas priv
 
 3. As espécies de benefícios que devem ser concedidos às empresas contratantes, em cada caso concreto, bem como a sua medida e as condições de que depender a sua efectivação, deverão ser rigorosamente fixados nos contratos; a graduação dos benefícios será feita em função da graduação das metas e obrigações da empresa que hajam sido consideradas indispensáveis, atendendo ao grau de deterioração a que se refere o n.º 1 do artigo 9.º
 
-###### Art. 5.º - 1. O prazo dos contratos de viabilização será o estritamente indispensável à consecução dos objectivos globais estabelecidos no contrato, não devendo, porém, em regra, exceder sete anos.
+Art. 5.º - 1. O prazo dos contratos de viabilização será o estritamente indispensável à consecução dos objectivos globais estabelecidos no contrato, não devendo, porém, em regra, exceder sete anos.
 
 2. Findo esse prazo, e durante os dois anos subsequentes, devem as empresas considerar-se em regime de observação, ficando obrigadas a prestar ao Estado e às instituições de crédito contratantes os elementos que forem necessários para a avaliação da sua auto-suficiência.
 
@@ -190,7 +231,7 @@ m) Concessão de benefícios fiscais, expressamente destinados às empresas priv
 
 4. Durante a vigência do contrato de viabilização não pode a empresa contratante ser declarada em situação de falência.
 
-###### Art. 6.º - 1. O montante total do passivo a consolidar será igual ao maior dos dois valores seguintes:
+Art. 6.º - 1. O montante total do passivo a consolidar será igual ao maior dos dois valores seguintes:
 
 a) Prejuízos acumulados nos exercícios de 1975 e 1976, incluindo amortizações ou reintegrações do imobilizado eventualmente não contabilizadas, as quais para este efeito serão calculadas em função das taxas máximas admitidas para fins de contribuição industrial;
 
@@ -214,7 +255,7 @@ c) Outras dívidas da empresa.
 
 7. A consolidação de passivos referidos na alínea c) do n.º 5, quando houver disso necessidade, reger-se-á por analogia e por adequação às circunstâncias em presença, sendo sempre assegurada aos respectivos credores a mobilização, pelo sistema bancário, dos créditos consolidados.
 
-###### Art. 7.º - 1. As empresas que, reunindo os pressupostos e condições indicados no artigo 2.º, se proponham celebrar contratos de viabilização deverão apresentar a sua pretensão à instituição de crédito nacional que for sua maior credora, juntando processo, conforme ao modelo indicativo a publicar pelo Banco de Portugal e referido no n.º 2 do artigo 3.º, de que conste:
+Art. 7.º - 1. As empresas que, reunindo os pressupostos e condições indicados no artigo 2.º, se proponham celebrar contratos de viabilização deverão apresentar a sua pretensão à instituição de crédito nacional que for sua maior credora, juntando processo, conforme ao modelo indicativo a publicar pelo Banco de Portugal e referido no n.º 2 do artigo 3.º, de que conste:
 
 a) Estudo económico e financeiro referido no n.º 3 do artigo 2.º;
 
@@ -242,7 +283,7 @@ l) Quaisquer outros elementos julgados necessários à apreciação do processo 
 
 3. Uma vez manifestada a pretensão, deverá a instituição de credito em causa, no prazo máximo de vinte dias, remeter o respectivo processo à comissão de apreciação a que se refere o n.º 1 do artigo seguinte, juntamente com o seu parecer técnico quanto aos pressupostos dos planos, orçamentos metas e objectivo apresentados, ao grau de viabilidade da empresa, à justeza dos benefícios pretendidos e aos efeitos dos mesmos sobre os resultados, bem como fazer prova de estar reunido o consenso indispensável das restantes instituições de crédito nacionais financiadoras da empresa quanto à intervenção de cada uma delas na celebração e execução do contrato.
 
-###### Art. 8.º - 1. A comissão de apreciação, que funcionará no Ministério das Finanças, terá a seu cargo classificar a empresa quanto ao grau de viabilidade e posicionamento na escala de prioridades de acordo com o estipulado nos n.os 4 e 5 do artigo 2.º e, no caso de parecer favorável, formular, no prazo máximo de quinze dias, proposta final de contrato de viabilização.
+Art. 8.º - 1. A comissão de apreciação, que funcionará no Ministério das Finanças, terá a seu cargo classificar a empresa quanto ao grau de viabilidade e posicionamento na escala de prioridades de acordo com o estipulado nos n.os 4 e 5 do artigo 2.º e, no caso de parecer favorável, formular, no prazo máximo de quinze dias, proposta final de contrato de viabilização.
 
 2. A comissão será composta por um representante do Ministério do Plano e Coordenação Económica, um representante do Ministério das Finanças e um representante do Banco de Portugal.
 
@@ -252,7 +293,7 @@ l) Quaisquer outros elementos julgados necessários à apreciação do processo 
 
 5. Esta comissão de apreciação poderá vir a ser substituída por um instituto público em cujas atribuições se inclua a sua competência.
 
-###### Art. 9.º - 1. A classificação a que se refere o n.º 1 do artigo anterior terá por objectivo atribuir à empresa um dos seguintes graus quanto a viabilidade:
+Art. 9.º - 1. A classificação a que se refere o n.º 1 do artigo anterior terá por objectivo atribuir à empresa um dos seguintes graus quanto a viabilidade:
 
 Grau A - Viabilidade segura, fácil recuperação financeira;
 
@@ -266,7 +307,7 @@ Grau E - Inviabilidade.
 
 2. Uma vez emitido o parecer e formulada proposta, será o respectivo processo imediatamente enviado, para efeito de despacho de homologação, aos Ministros cujos representantes integram a comissão de apreciação.
 
-###### Art. 10.º - 1. O despacho mencionado no n.º 2 do artigo anterior deverá ser proferido no prazo de dez dias, decorrido o qual a homologação é tácita.
+Art. 10.º - 1. O despacho mencionado no n.º 2 do artigo anterior deverá ser proferido no prazo de dez dias, decorrido o qual a homologação é tácita.
 
 2. Sendo o despacho favorável, ficará o Estado vinculado nos precisos termos desse despacho, e no caso de homologação tácita, nos termos da proposta da comissão de apreciação.
 
@@ -274,7 +315,7 @@ Grau E - Inviabilidade.
 
 4. No caso de se concluir pela inviabilidade de uma empresa que apresente grande relevância económico-social no quadro nacional, poderão o Ministro do Plano e Coordenação Económica, ouvido o Ministro da Tutela, e o Ministro das Finanças determinar que o Estado intervenha no contrato, com vista a assegurar à empresa os meios necessários à sua viabilização.
 
-###### Art. 11.º - 1. A instituição de crédito que for a maior credora dará pronto conhecimento do despacho ministerial à empresa proponente.
+Art. 11.º - 1. A instituição de crédito que for a maior credora dará pronto conhecimento do despacho ministerial à empresa proponente.
 
 2. No caso de despacho favorável, deverá o contrato de viabilização ser concluído na prazo de quinze dias, sob pena de caducidade dos benefícios concedidos pelo Estado.
 
@@ -282,7 +323,7 @@ Grau E - Inviabilidade.
 
 4. Celebrado o contrato, a instituição de crédito maior credora comunicará à Direcção-Geral das Contribuições e Impostos, quando existam benefícios fiscais, a data de início da sua vigência para fins de efectivação dos benefícios respectivos.
 
-###### Art. 12.º - 1. O efectivo direito aos benefícios derivados dos contratos de viabilização, em especial no que toca aos benefícios financeiros e fiscais, dependerá de consecução pelas empresas das metas e objectivos que nos mesmos contratos se estabelecerem.
+Art. 12.º - 1. O efectivo direito aos benefícios derivados dos contratos de viabilização, em especial no que toca aos benefícios financeiros e fiscais, dependerá de consecução pelas empresas das metas e objectivos que nos mesmos contratos se estabelecerem.
 
 2. Cabe às empresas contratantes o ónus de provar, nos termos estabelecidos no contrato de viabilização, a efectiva consecução das metas e objectivos fixados e, bem assim, se for caso disso, que lhes não é imputável a sua eventual falta de cumprimento.
 
@@ -296,7 +337,7 @@ Grau E - Inviabilidade.
 
 7. Podem ser previstas excepções à proibição referida no número anterior relativamente aos aumentos de capital realizadas a dinheiro após a celebração do contrato de viabilização, designadamente por força da mobilização prevista na alínea h) do artigo 4.º, e se a economia do contrato o permitir.
 
-###### Art. 13.º - 1. As instituições de crédito poderão rescindir os contratos de viabilização:
+Art. 13.º - 1. As instituições de crédito poderão rescindir os contratos de viabilização:
 
 a) Quando se verifique a falta de cumprimento pelas empresas contratantes das metas e objectivos referidos no artigo 3.º;
 
@@ -312,22 +353,22 @@ c) Quando se verificarem quaisquer outros factos que, nos termos da lei geral ou
 
 5. Poderão ser estabelecidas no contrato cláusulas de salvaguarda quanto ao incumprimento das obrigações contratuais por parte da empresa, designadamente atendendo a eventual desajustamento entre ritmos previstos e ritmos observados de crescimento dos custos e dos preços de venda.
 
-###### Art. 14.º - 1. É criado um fundo de compensação, com personalidade jurídica, destinado à cobertura de eventuais prejuízos que resultem dos contratos de viabilização, designadamente da garantia de pagamento e da bonificação do juro a que se refere o artigo 6.º
+Art. 14.º - 1. É criado um fundo de compensação, com personalidade jurídica, destinado à cobertura de eventuais prejuízos que resultem dos contratos de viabilização, designadamente da garantia de pagamento e da bonificação do juro a que se refere o artigo 6.º
 
 2. A constituição, receitas e funcionamento do fundo referido no número anterior serão objecto de regulamentação, por portaria dos Ministros das Finanças e do Plano e Coordenação Económica, no prazo de trinta dias, a contar da data de publicação deste diploma, sendo-lhe atribuída, desde já, uma dotação inicial de 200000 contos.
 
 3. Para além de outras receitas que lhe venham a ser atribuídas pela portaria referida no número anterior, ao fundo de compensação será devida pelas instituições de crédito nacionais beneficiárias das garantias por ele prestadas uma comissão de garantia, que, desde já, se estabelece em 10%, 15%, 20% ou 30%, consoante se trate, respectivamente, de empresas classificadas no grau A, B, C ou D. Estas percentagens são calculadas sobre o montante dos prejuízos consolidados referentes aos exercícios de 1975 e 1976, a que se reporta a alínea a) do n.º 1 do artigo 6.º
 
-###### Art. 15.º Aos contratos de viabilização a que se refere o presente diploma aplica-se, supletivamente, o disposto no [Decreto-Lei n.º 718/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/718-1974-298214), de 17 de Dezembro.
+Art. 15.º Aos contratos de viabilização a que se refere o presente diploma aplica-se, supletivamente, o disposto no [Decreto-Lei n.º 718/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/718-1974-298214), de 17 de Dezembro.
 
-###### Art. 16.º Quaisquer dúvidas ou lacunas que surjam na aplicação e execução de um contrato de viabilização, quando este não estabeleça forma de as resolver, serão esclarecidas ou integradas por despacho dos Ministros que homologaram o respectivo projecto de contrato.
+Art. 16.º Quaisquer dúvidas ou lacunas que surjam na aplicação e execução de um contrato de viabilização, quando este não estabeleça forma de as resolver, serão esclarecidas ou integradas por despacho dos Ministros que homologaram o respectivo projecto de contrato.
 
-###### Art. 17.º Este diploma entrará em vigor conjuntamente com a lei dos incentivos fiscais referida na alínea m) do n.º 1 do artigo 4.º
+Art. 17.º Este diploma entrará em vigor conjuntamente com a lei dos incentivos fiscais referida na alínea m) do n.º 1 do artigo 4.º
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.
 
-**Promulgado em 19 de Março de 1977.**
+Promulgado em 19 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/05/117a00/46334635.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/149/2002/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2002-158623
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abbd85e8615236c87afbd85962191b6e8cf8c775bc48731eb97394ec53c217a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03d30d07ed6a8b5cf3114f2f04f481a3107da514a36d4f3d1a15e9a52216b243
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
-- Função Pública
-- Carreira de Operário Altamente Qualificado
-- Concurso
+- Administração Local
 - Administração Pública
+- Administração Regional
+- Carreira de Operário Altamente Qualificado
 - Carreira Profissional
-- Pessoal Operário
-- Recrutamento de Pessoal
+- Concurso
+- Descrição de Funções
+- Função Pública
+- Funcionário Público
 - Instituto Público
 - Integração de Trabalhadores
-- Descrição de Funções
 - Pessoal de Chefia
+- Pessoal Operário
 - Progressão na Carreira
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Reestruturação de Carreiras
-- Administração Local
 - Remuneração
-- Funcionário Público
-- Administração Regional
 - Tabela Salarial
 relationships:
 - type: amended_by
   target: pt:dre:456561:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para as as categorias de encarregado geral operacional e encarregado operacional, nos termos\
+    \ dos arts. 5º e 6º, dos trabalhadores integrados nas carreiras ou titulares das categorias previstas no presente diploma,\
+    \ extintas a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -107,16 +115,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632400:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468663:por
+  label: "Revogado a partir da entrada em vigor do RCTFP, pela LEI.12-A/2008.27.02.2008.AR, DR.IS [41-Supl] de 27.02.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2008-468663
+  date: '2008-02-27'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:41Z'
   warnings: []
   errors: []
 ---
@@ -207,14 +241,14 @@ Lugares de chefia de operário semiqualificado
 
 Visto e aprovado em Conselho de Ministros de 14 de Março de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - José Sócrates Carvalho Pinto de Sousa - Alexandre António Cantigas Rosa.
 
-**Promulgado em 7 de Maio de 2002.**
+Promulgado em 7 de Maio de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Maio de 2002.**
+Referendado em 9 de Maio de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/117a00/46334635.pdf)

@@ -46,40 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1979-383229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77f047a07faba0dc38a33ec709df7e115c2f84e7b53ff2da5f872d961a64bdb5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f596ee3ce683d9eb85c3bbb08d86a157f0bd3001672e512a42eb472b946d16e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Instituto de Emigração
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:613056:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:428224:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:02Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +101,11 @@ Considerando que para o exercício destas funções o pessoal necessário deve t
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criada no Instituto de Emigração a Divisão de Publicações.
+Artigo 1.º - 1 - É criada no Instituto de Emigração a Divisão de Publicações.
 
 2 - A Divisão de Publicações depende da direcção do Instituto de Emigração.
 
-###### Art. 2.º Compete à Divisão de Publicações:
+Art. 2.º Compete à Divisão de Publicações:
 
 a) Assegurar a elaboração de publicações periódicas e não periódicas destinadas aos emigrantes;
 
@@ -106,9 +113,9 @@ b) Promover a distribuição e difusão das publicações junto das comunidades 
 
 c) Fornecer material informativo às publicações em língua portuguesa existentes no estrangeiro.
 
-###### Art. 3.º No quadro de pessoal da Secretaria de Estado dos Negócios Estrangeiros e da Emigração anexo ao [Decreto n.º 375/76](https://diariodarepublica.pt/dr/detalhe/decreto/375-1976-428224), de 19 de Maio, são introduzidas as novas categorias de pessoal referidas no quadro anexo.
+Art. 3.º No quadro de pessoal da Secretaria de Estado dos Negócios Estrangeiros e da Emigração anexo ao [Decreto n.º 375/76](https://diariodarepublica.pt/dr/detalhe/decreto/375-1976-428224), de 19 de Maio, são introduzidas as novas categorias de pessoal referidas no quadro anexo.
 
-###### Art. 4.º - 1 - O lugar de chefe da Divisão de Publicações será provido, mediante despacho do Secretário de Estado dos Negócios Estrangeiros e da Emigração, sob proposta do director-geral, de entre os indivíduos habilitados com curso superior adequado ao exercício das respectivas funções.
+Art. 4.º - 1 - O lugar de chefe da Divisão de Publicações será provido, mediante despacho do Secretário de Estado dos Negócios Estrangeiros e da Emigração, sob proposta do director-geral, de entre os indivíduos habilitados com curso superior adequado ao exercício das respectivas funções.
 
 2 - O lugar de chefe de redacção será provido de entre os redactores de 1.ª classe que tenham três anos de bom e efectivo serviço.
 
@@ -122,7 +129,7 @@ c) Fornecer material informativo às publicações em língua portuguesa existen
 
 7 - O lugar de fotógrafo de fotolitografia de 3.ª classe será provido por indivíduos habilitados com o curso geral dos liceus ou equivalente e experiência profissional adequada.
 
-###### Art. 5.º - 1 - O primeiro provimento nos lugares do quadro anexo ao presente diploma será efectuado por listas nominativas aprovadas pelo Secretário de Estado dos Negócios Estrangeiros e da Emigração donde conste a categoria em que cada funcionário fica provido, com dispensa de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República, de acordo com as seguintes regras:
+Art. 5.º - 1 - O primeiro provimento nos lugares do quadro anexo ao presente diploma será efectuado por listas nominativas aprovadas pelo Secretário de Estado dos Negócios Estrangeiros e da Emigração donde conste a categoria em que cada funcionário fica provido, com dispensa de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República, de acordo com as seguintes regras:
 
 a) Para qualquer lugar do quadro, com respeito pelas habilitações exigidas no presente diploma;
 
@@ -136,26 +143,26 @@ c) Para o lugar do quadro que integra as funções efectivamente exercidas pelo 
 
 4 - Só poderá ser incluído na lista referida no número anterior o pessoal que presta serviço, à data da publicação do presente diploma, na Secretaria de Estado dos Negócios Estrangeiros e da Emigração.
 
-###### Art. 6.º O lugar de redactor de 2.ª classe só pode ser provido quando for extinto um dos lugares de redactor de 1.ª classe.
+Art. 6.º O lugar de redactor de 2.ª classe só pode ser provido quando for extinto um dos lugares de redactor de 1.ª classe.
 
-###### Art. 7.º Os lugares de chefe de oficinas gráficas, impressor de offset de 2.ª classe e fotógrafo de fotolitografia de 3.ª classe só poderão ser providos quando forem extintos, respectivamente, os lugares de maquetista-paginador, impressor e fotomontador.
+Art. 7.º Os lugares de chefe de oficinas gráficas, impressor de offset de 2.ª classe e fotógrafo de fotolitografia de 3.ª classe só poderão ser providos quando forem extintos, respectivamente, os lugares de maquetista-paginador, impressor e fotomontador.
 
-###### Art. 8.º As despesas com a execução do presente diploma serão suportadas pelo orçamento da Secretaria de Estado dos Negócios Estrangeiros e da Emigração.
+Art. 8.º As despesas com a execução do presente diploma serão suportadas pelo orçamento da Secretaria de Estado dos Negócios Estrangeiros e da Emigração.
 
-###### Art. 9.º As dúvidas surgidas na aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro das Finanças e do Plano e do Secretário de Estado dos Negócios Estrangeiros e da Emigração ou deste e do Secretário de Estado da Administração Pública, respectivamente, nas matérias das respectivas competências.
+Art. 9.º As dúvidas surgidas na aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro das Finanças e do Plano e do Secretário de Estado dos Negócios Estrangeiros e da Emigração ou deste e do Secretário de Estado da Administração Pública, respectivamente, nas matérias das respectivas competências.
 
-###### Art. 10.º O presente diploma entra em vigor dez dias após a sua publicação.
+Art. 10.º O presente diploma entra em vigor dez dias após a sua publicação.
 
 Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Promulgado em 25 de Maio de 1979.**
+Promulgado em 25 de Maio de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro de pessoal a que se refere o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/13200/12901291.pdf))](https://files.diariodarepublica.pt/1s/1979/06/13200/12901291.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/13200/12901291.pdf)
 
-**O Primeiro-Ministro, Carlos Alberto da Mota Pinto. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro dos Negócios Estrangeiros, João Carlos Lopes Cardoso de Freitas Cruz.**
+O Primeiro-Ministro, Carlos Alberto da Mota Pinto. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro dos Negócios Estrangeiros, João Carlos Lopes Cardoso de Freitas Cruz.

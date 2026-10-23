@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/01/01400/04990501.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/14/2007/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2007-522643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:56:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52e962804dcbf7f460b035650271b0e2b8cd8c5567ebe2a6a842e522a831e5e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2638d467675d5150b6babb3398d99944109de4f041bc34cdce757ae3bd8e3526
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Admissão de Pessoal
+- Contrato de Trabalho
 - Contribuições da Segurança Social
 - Entidade Patronal
 - Informação
-- Contrato de Trabalho
 - Segurança Social
 - Trabalhador Independente
 - Trabalhador por Conta de Outrem
@@ -80,20 +80,43 @@ relationships:
   target: pt:dre:335467:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:335467:por
+  label: "Alterado, a partir de 01.07.2010, o art. 2º do Dec Lei 124/84, de 18-Abr, na redacção do presente diploma, pelo\
+    \ DEC LEI.72/2010.18.06.2010.MTSSO, DR.IS [117] de 18.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-2010-335467
+  date: '2010-06-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/330/1998/11/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/330/1998/11/02/p/dre
+- type: cites
+  target: pt:dre:222610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654925:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado o Dec Lei 124/84, de 18-Abr, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela\
+    \ Lei n.º 119/2009, de 30 de Dezembro), na redacção do presente diploma, pela LEI.110/2009.16.09.2009.AR, DR.IS [180]\
+    \ de 16.09.2009, sem prejuízo de, até à entrada em vigor da regulamentação [prevista no art. 4.º] se manter transitoriamente\
+    \ em vigor as disposições procedimentais do diploma revogado que não contrariem o disposto no Código aprovado pela citada\
+    \ Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
 article_structure:
-  article_count: 8
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:56:34Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +175,9 @@ Comunicação obrigatória da admissão de trabalhadores
 
 4 - ...
 
-###### Artigo 2.º-A — [...]
+Artigo 2.º-A
+
+[...]
 
 1 - As entidades empregadoras são obrigadas a entregar aos trabalhadores admitidos ao seu serviço uma declaração em que constem a data da admissão do trabalhador e os números de identificação da segurança social e fiscal da entidade empregadora.
 
@@ -160,7 +185,9 @@ Comunicação obrigatória da admissão de trabalhadores
 
 3 - A obrigação constante do n.º 1 considera-se cumprida, sendo o contrato de trabalho reduzido a escrito, com a entrega ao trabalhador do exemplar do contrato no caso em que dele constem os elementos referidos.
 
-###### Artigo 2.º-B — Consequências da falta de comunicação ou de entrega da prova de admissão
+Artigo 2.º-B
+
+Consequências da falta de comunicação ou de entrega da prova de admissão
 
 1 - Na falta de cumprimento das obrigações previstas nos artigos 2.º e 2.º-A presume-se que o trabalhador iniciou a prestação de trabalho ao serviço da entidade empregadora faltosa no dia 1 do 6.º mês anterior ao da verificação do incumprimento, havendo lugar ao pagamento das contribuições à segurança social devidas desde essa data.
 
@@ -170,7 +197,9 @@ Comunicação obrigatória da admissão de trabalhadores
 
 4 - Sem prejuízo de outras sanções previstas na lei, o trabalhador é obrigado a devolver a totalidade dos montantes indevidamente recebidos, sendo a entidade empregadora solidariamente responsável pela sua devolução caso não fundamente e comprove o desconhecimento da situação de acumulação indevida de prestações de doença ou desemprego com rendimento de trabalho através da apresentação de uma das declarações prevista no artigo 2.º-C.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -208,7 +237,9 @@ b) Declaração dos serviços da segurança social obtida, preferencialmente, at
 
 4 - As declarações previstas no n.º 2 não dispensam a entidade empregadora ou o trabalhador do cumprimento das obrigações previstas no presente decreto-lei nem excluem a aplicação do disposto nos artigos 2.º-B ou 11.º-B sempre que se verifique o incumprimento da obrigação de comunicação prévia.
 
-###### Artigo 11.º-A — Contra-ordenações
+Artigo 11.º-A
+
+Contra-ordenações
 
 1 - A falta de declaração de início de actividade de novos trabalhadores no prazo estabelecido no artigo 2.º constitui contra-ordenação punível com coima de (euro) 100 a (euro) 700.
 
@@ -218,7 +249,9 @@ b) Declaração dos serviços da segurança social obtida, preferencialmente, at
 
 4 - Sem prejuízo da responsabilidade criminal que ao caso couber, as falsas declarações dos beneficiários relativas à sua situação perante o sistema de segurança social, designadamente no âmbito da relação jurídica prestacional, previstas na alínea a) do n.º 2 do artigo 2.º-C, constituem contra-ordenações puníveis com coima de (euro) 100 a (euro) 700.
 
-###### Artigo 11.º-B — Sanção acessória
+Artigo 11.º-B
+
+Sanção acessória
 
 Às entidades empregadoras que beneficiem da actividade profissional de trabalhadores que se encontrem a receber prestações de desemprego, nos casos em que não comuniquem a sua admissão aos serviços de segurança social ou, tendo-o feito, não os incluam nas declarações de remunerações, e tendo em conta a gravidade da infracção, pode ser aplicada, simultaneamente com a coima e por período até dois anos contado a partir da decisão condenatória definitiva, a sanção acessória de privação do acesso a medidas de apoio à contratação e a regimes especiais de isenção ou redução da taxa contributiva global.»
 
@@ -228,12 +261,12 @@ O presente decreto-lei entra em vigor no 1.º dia útil do 2.º mês seguinte ao
 
 Visto e aprovado em Conselho de Ministros de 9 de Novembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Pedro Manuel Dias de Jesus Marques.
 
-**Promulgado em 6 de Janeiro de 2007.**
+Promulgado em 6 de Janeiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 8 de Janeiro de 2007.**
+Referendado em 8 de Janeiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

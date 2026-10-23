@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 195/1977, 1º Suplemento, Série I de 1977-08-24
   number: '195'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2040-(7) a 2040-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/19501/00070009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1977-659718
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fbeaeda44fd93271f10267d5ab4027c4b374a3b36a66e0cbd91ba44a7daabee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc6053888c6fef00e327f68bb87c04bd3cc30567ca7b436f2a0631779ae206ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Importação de Capitais
+- Investimento Estrangeiro
 relationships:
 - type: amended_by
   target: pt:dre:661164:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:329807:por
+  label: Fixado o sentido da palavra «sucursais» no contexto do artigo 1.º, n.º 1, alínea b), do presente diploma, pelo(a)
+    Despacho Normativo n.º 225/78 - Diário da República n.º 212/1978, Série I de 1978-09-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/225-1978-329807
+  date: '1978-09-14'
+- type: amended_by
+  target: pt:dre:451218:por
+  label: "Alterado o artigo 15.º e revogado o artigo 16.º, pelo DEC LEI.194/83.17.05.1983.MJ, DR.IS [113] de 17.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-1983-451218
+  date: '1983-05-17'
+- type: cites
+  target: pt:dre:659717:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:661164:por
+  label: "Revogado pelo DEC LEI.197-D/86.18.07.1986.MF, DR.IS [163]Supl de 18.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-d-1986-661164
+  date: '1986-07-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:13Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +115,7 @@ Considerando o estabelecido sobre investimentos directos estrangeiros no [Decret
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Em conformidade com o disposto no artigo 2.º do [Decreto-Lei n.º 348/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1977-659717), de 24 de Agosto, as operações de importação de capitais consideradas como investimentos directos estrangeiros em território nacional compreendem os actos entre vivos e as transferências em que intervenham pessoas singulares ou colectivas não residentes tendo por objecto:
+Artigo 1.º - 1. Em conformidade com o disposto no artigo 2.º do [Decreto-Lei n.º 348/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1977-659717), de 24 de Agosto, as operações de importação de capitais consideradas como investimentos directos estrangeiros em território nacional compreendem os actos entre vivos e as transferências em que intervenham pessoas singulares ou colectivas não residentes tendo por objecto:
 
 a) Criação de novas empresas em território nacional;
 
@@ -117,72 +139,72 @@ d) O valor das transferências de tecnologia efectuadas pelos sobreditos não re
 
 e) Outras modalidades de realização dos investimentos directos previstas na legislação vigente e mediante prévia autorização do Instituto, ouvidas as entidades que tenham competência sobre as matérias directamente relacionadas com aquelas modalidades.
 
-###### Art. 2.º - 1. Os pedidos de autorização de investimentos directos estrangeiros serão submetidos ao Instituto e deverão conter ou ser acompanhados de todos os elementos de informação ou de prova necessários para avaliação dos mesmos investimentos, nomeadamente a completa identificação dos intervenientes, a perfeita caracterização desses investimentos e o preciso conhecimento dos direitos e obrigações deles decorrentes.
+Art. 2.º - 1. Os pedidos de autorização de investimentos directos estrangeiros serão submetidos ao Instituto e deverão conter ou ser acompanhados de todos os elementos de informação ou de prova necessários para avaliação dos mesmos investimentos, nomeadamente a completa identificação dos intervenientes, a perfeita caracterização desses investimentos e o preciso conhecimento dos direitos e obrigações deles decorrentes.
 
 2. Excepto em casos justificáveis, os não residentes interessados em investimentos directos deverão apresentar os respectivos pedidos de autorização através de pessoa residente em território nacional, para o que conferirão a esse residente os adequados poderes de representação.
 
-###### Art. 3.º - 1. Para efeitos de apreciação dos pedidos de autorização de investimentos directos estrangeiros o Instituto estabelecerá as apropriadas instruções técnicas sobre os tipos e formas de elementos informativos a prestar pelos interessados, consoante as modalidades dos investimentos de que se trate, tendo especialmente em atenção o que estiver regulamentado para a avaliação dos projectos de investimentos sob regime contratual.
+Art. 3.º - 1. Para efeitos de apreciação dos pedidos de autorização de investimentos directos estrangeiros o Instituto estabelecerá as apropriadas instruções técnicas sobre os tipos e formas de elementos informativos a prestar pelos interessados, consoante as modalidades dos investimentos de que se trate, tendo especialmente em atenção o que estiver regulamentado para a avaliação dos projectos de investimentos sob regime contratual.
 
 2. Sem prejuízo do previsto no número precedente deste artigo, o Instituto poderá exigir dos requerentes quaisquer elementos informativos, ou esclarecimentos adicionais sobre outros prestados, que considere indispensáveis.
 
-###### Art. 4.º A falta de prestação, nos prazos fixados, de quaisquer elementos requeridos nos termos do artigo precedente, ou a verificação da inexactidão dos que hajam sido prestados, poderá constituir motivo bastante para recusa pelo Instituto de apreciação dos pedidos de autorização, do que dará oportuno conhecimento aos interessados.
+Art. 4.º A falta de prestação, nos prazos fixados, de quaisquer elementos requeridos nos termos do artigo precedente, ou a verificação da inexactidão dos que hajam sido prestados, poderá constituir motivo bastante para recusa pelo Instituto de apreciação dos pedidos de autorização, do que dará oportuno conhecimento aos interessados.
 
-###### Art. 5.º - 1. As autorizações para investimentos directos estrangeiros no regime geral serão sujeitas a homologação do Ministro do Plano e Coordenação Económica, excepto quando o valor do investimento não exceda 100 milhões de escudos ou nos casos previstos nas alíneas a) e c) do n.º 1 do artigo 7.º do [Decreto-Lei n.º 348/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1977-659717), de 24 de Agosto.
+Art. 5.º - 1. As autorizações para investimentos directos estrangeiros no regime geral serão sujeitas a homologação do Ministro do Plano e Coordenação Económica, excepto quando o valor do investimento não exceda 100 milhões de escudos ou nos casos previstos nas alíneas a) e c) do n.º 1 do artigo 7.º do [Decreto-Lei n.º 348/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1977-659717), de 24 de Agosto.
 
 2. O limite fixado no número precedente deste artigo poderá ser modificado, para todos ou alguns dos tipos de investimentos directos estrangeiros antes referidos, por portaria do Ministro do Plano e Coordenação Económica.
 
-###### Art. 6.º - 1. Das decisões do Instituto ao abrigo do artigo 4.º, da não concessão por ele de quaisquer autorizações ou das condições a que o mesmo Instituto sujeite eventualmente as autorizações que conceda caberá recurso hierárquico necessário para o Ministro do Plano de Coordenação Económica, e das decisões deste, para o Conselho de Ministros.
+Art. 6.º - 1. Das decisões do Instituto ao abrigo do artigo 4.º, da não concessão por ele de quaisquer autorizações ou das condições a que o mesmo Instituto sujeite eventualmente as autorizações que conceda caberá recurso hierárquico necessário para o Ministro do Plano de Coordenação Económica, e das decisões deste, para o Conselho de Ministros.
 
 2. Caberá igualmente recurso hierárquico necessário para o Conselho de Ministros das decisões do dito Ministro quanto à homologação prevista no artigo 5.º e à admissão e apreciação dos projectos de investimentos sob regime contratual.
 
-###### Art. 7.º - 1. Os documentos de autorização de investimentos directos estrangeiros indicarão sempre os respectivos prazos de validade, nomeadamente para efeitos de correspondentes operações cambiais, bem como, quando for caso disso, o plano, prazos intermédios e outras condições de realização dos investimentos.
+Art. 7.º - 1. Os documentos de autorização de investimentos directos estrangeiros indicarão sempre os respectivos prazos de validade, nomeadamente para efeitos de correspondentes operações cambiais, bem como, quando for caso disso, o plano, prazos intermédios e outras condições de realização dos investimentos.
 
 2. O Instituto estabelecerá a forma dos aludidos documentos e o número e destino dos exemplares a emitir, devendo um desses exemplares destinar-se ao Banco de Portugal e ser-lhe remetido no próprio dia de emissão do documento ou no dia útil imediato.
 
 3. Sendo autorizadas modificações nos termos dos investimentos directos, deverão ser emitidos documentos rectificativos com o número de exemplares e distribuição iguais aos previstos no número anterior.
 
-###### Art. 8.º - 1. O prazo de validade dos documentos de autorização de investimentos directos estrangeiros não deverá, em regra, para efeitos das correspondentes operações cambiais, exceder cento e vinte dias, a contar da data da emissão dos ditos documentos.
+Art. 8.º - 1. O prazo de validade dos documentos de autorização de investimentos directos estrangeiros não deverá, em regra, para efeitos das correspondentes operações cambiais, exceder cento e vinte dias, a contar da data da emissão dos ditos documentos.
 
 2. Quando, em virtude da natureza ou das características dos investimentos, ou de outras circunstâncias atendíveis, for considerado justificável pelo Instituto, ouvido o Banco de Portugal, poderão ser fixados prazos de validade para as operações cambiais superiores ao indicado no número anterior deste artigo.
 
-###### Art. 9.º - 1. Poderão ser prorrogados ou revalidados por novos prazos, a fixar aquando da concessão da prorrogação ou da revalidação, os documentos de autorização que não hajam sido utilizados total ou parcialmente dentro dos prazos fixados nos termos dos artigos 7.º e 8.º precedentes, desde que os interessados o solicitem e sejam reputados procedentes pelo Instituto os motivos apresentados.
+Art. 9.º - 1. Poderão ser prorrogados ou revalidados por novos prazos, a fixar aquando da concessão da prorrogação ou da revalidação, os documentos de autorização que não hajam sido utilizados total ou parcialmente dentro dos prazos fixados nos termos dos artigos 7.º e 8.º precedentes, desde que os interessados o solicitem e sejam reputados procedentes pelo Instituto os motivos apresentados.
 
 2. A prorrogação deverá ser solicitada dentro do prazo de cinco dias, a contar da data limite para a utilização dos mencionados documentos de autorização. Findo esse prazo, poderá ainda ser solicitada a revalidação dos ditos documentos, mas sem prejuízo da aplicação do procedimento contravencional previsto na legislação vigente.
 
 3. As prorrogações ou as revalidações dos documentos de autorização referidas no presente artigo poderão ser concedidas pelo Instituto quer para a prática do acto autorizado, quer para a realização das operações cambiais, mas neste último caso uma vez obtida a concordância do Banco de Portugal.
 
-###### Art. 10.º - 1. Dentro do prazo de validade do respectivo documento de autorização e mediante a apresentação do adequado exemplar, deverão ser celebrados os actos assim autorizados, se para a validade dos mesmos for essencial que eles revistam a forma de documento autêntico ou autenticado.
+Art. 10.º - 1. Dentro do prazo de validade do respectivo documento de autorização e mediante a apresentação do adequado exemplar, deverão ser celebrados os actos assim autorizados, se para a validade dos mesmos for essencial que eles revistam a forma de documento autêntico ou autenticado.
 
 2. A realização dos actos a que se refere o número anterior deverá ser comprovada perante o Instituto no prazo de quinze dias a contar do termo do prazo de validade do documento de autorização.
 
-###### Art. 11.º - 1. As operações cambiais respeitantes a investimentos directos estrangeiros serão sempre efectuadas por intermédio de uma instituição de crédito autorizada a exercer o comércio de câmbios em território nacional e deverão realizar-se dentro do prazo de validade dos respectivos documentos de autorização.
+Art. 11.º - 1. As operações cambiais respeitantes a investimentos directos estrangeiros serão sempre efectuadas por intermédio de uma instituição de crédito autorizada a exercer o comércio de câmbios em território nacional e deverão realizar-se dentro do prazo de validade dos respectivos documentos de autorização.
 
 2. Para as referidas operações cambiais observar-se-á o disposto nas directivas monetárias estabelecidas para as liquidações em moeda estrangeira das operações de exportação ou reexportação de mercadorias.
 
-###### Art. 12.º - 1. As instituições de crédito a quem forem requeridas as operações cambiais mencionadas no artigo precedente comunicarão ao Banco de Portugal, de acordo com as instruções por ele transmitidas, os elementos essenciais das operações cambiais realizadas.
+Art. 12.º - 1. As instituições de crédito a quem forem requeridas as operações cambiais mencionadas no artigo precedente comunicarão ao Banco de Portugal, de acordo com as instruções por ele transmitidas, os elementos essenciais das operações cambiais realizadas.
 
 2. O Banco de Portugal transmitirá mensalmente ao Instituto, de acordo com as instruções por este transmitidas, os elementos de informação sobre as operações cambiais realizadas necessários ao desempenho das suas funções.
 
-###### Art. 13.º Nos casos em que os investimentos directos estrangeiros, nos termos das respectivas autorizações, correspondam total ou parcialmente a importações de bens de equipamento, as entidades competentes para autorizar estas importações aporão as adequadas indicações nos exemplares dos boletins de registo prévio a remeter ao Banco de Portugal, não emitindo os exemplares dos mesmos boletins que permitiriam a realização de operações cambiais para liquidação daquelas importações de bens de equipamento.
+Art. 13.º Nos casos em que os investimentos directos estrangeiros, nos termos das respectivas autorizações, correspondam total ou parcialmente a importações de bens de equipamento, as entidades competentes para autorizar estas importações aporão as adequadas indicações nos exemplares dos boletins de registo prévio a remeter ao Banco de Portugal, não emitindo os exemplares dos mesmos boletins que permitiriam a realização de operações cambiais para liquidação daquelas importações de bens de equipamento.
 
-###### Art. 14.º As contribuições provenientes do estrangeiro correspondentes a investimentos directos não poderão ser aplicadas por forma ou para finalidades diversas daquelas para que houverem sido concedidas as autorizações dos ditos investimentos.
+Art. 14.º As contribuições provenientes do estrangeiro correspondentes a investimentos directos não poderão ser aplicadas por forma ou para finalidades diversas daquelas para que houverem sido concedidas as autorizações dos ditos investimentos.
 
-###### Art. 15.º - 1. Nas escrituras, autos de arrematação e outros documentos autênticos ou autenticados referentes a actos relacionados com investimentos directos estrangeiros deverá fazer-se sempre menção dos números das respectivas autorizações e indicar, quando o haja, o despacho de homologação, sob pena de nulidade dos mesmos actos e da inadmissibilidade a registo predial, comercial ou de outra espécie que o investimento directo exigir.
+Art. 15.º - 1. Nas escrituras, autos de arrematação e outros documentos autênticos ou autenticados referentes a actos relacionados com investimentos directos estrangeiros deverá fazer-se sempre menção dos números das respectivas autorizações e indicar, quando o haja, o despacho de homologação, sob pena de nulidade dos mesmos actos e da inadmissibilidade a registo predial, comercial ou de outra espécie que o investimento directo exigir.
 
 2. Os notários, conservadores ou outros funcionários que intervenham nos aludidos actos deverão assegurar o rigoroso cumprimento do disposto no número precedente, podendo, a solicitação do Instituto, ser-lhes transmitidas pelas autoridades competentes instruções para velar por esse cumprimento.
 
-###### Art. 16.º - 1. Até ao dia 15 de cada mês, os notários e os conservadores do registo predial ou comercial devem dar conhecimento ao Instituto dos actos por eles realizados e dos registos efectuados durante o mês anterior relativos a investimentos directos estrangeiros.
+Art. 16.º - 1. Até ao dia 15 de cada mês, os notários e os conservadores do registo predial ou comercial devem dar conhecimento ao Instituto dos actos por eles realizados e dos registos efectuados durante o mês anterior relativos a investimentos directos estrangeiros.
 
 2. Nas comunicações a dirigir nos termos do número anterior deverá ser indicado, relativamente a cada acto ou registo, o número do documento de autorização passado pelo Instituto.
 
-###### Art. 17.º Quaisquer dúvidas ou lacunas que surjam na aplicação do disposto no presente decreto serão solucionadas por despacho do Ministro do Plano e Coordenação Económica, sob proposta do Instituto.
+Art. 17.º Quaisquer dúvidas ou lacunas que surjam na aplicação do disposto no presente decreto serão solucionadas por despacho do Ministro do Plano e Coordenação Económica, sob proposta do Instituto.
 
-###### Art. 18.º O estabelecido no presente diploma entra em vigor noventa dias a partir da data da sua publicação.
+Art. 18.º O estabelecido no presente diploma entra em vigor noventa dias a partir da data da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.
 
-**Promulgado em 9 de Agosto de 1977.**
+Promulgado em 9 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

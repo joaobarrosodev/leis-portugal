@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20331-1964-469261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:39:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0f23d1a72eb65fc622ebb52efd0d2fff7d530eddc0fc2c2c34437163e0e0778
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01dd64e3360d20c30912bf65d6e76657220fb53fddda265cd912dbd98184e2fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:537829:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:39:45Z'
   warnings: []
   errors: []
 ---
@@ -84,7 +88,7 @@ validation:
 
 Tornando-se necessário fixar o destino a dar ao rendimento do Prémio Trás-os-Montes nos anos em que não possa ser distribuído, manda o Governo da República Portuguesa, pelo Ministro da Educação Nacional, que o artigo 3.º do regulamento aprovado pela [Portaria n.º 15260](https://diariodarepublica.pt/dr/detalhe/portaria/15260-1955-537829), de 17 de Fevereiro de 1955, passe a ter a seguinte redacção:
 
-###### Art. 3.º Para efeito de atribuição, o Prémio é múltiplo, procedendo-se à divisão do seu quantitativo em duas fracções iguais, uma destinada a alunas do ensino superior, outra a alunas do ensino liceal que tenham concluído o 2.º ciclo.
+Art. 3.º Para efeito de atribuição, o Prémio é múltiplo, procedendo-se à divisão do seu quantitativo em duas fracções iguais, uma destinada a alunas do ensino superior, outra a alunas do ensino liceal que tenham concluído o 2.º ciclo.
 
 § 1.º Nos anos em que não seja possível atribuir qualquer dos prémios, o correspondente quantitativo será adicionado ao capital.
 

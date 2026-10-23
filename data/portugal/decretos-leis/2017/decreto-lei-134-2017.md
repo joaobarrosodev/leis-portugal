@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/10/20200/0573205743.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/134/2017/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2017-108323926
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05db38885a2473506e9c18211d5132a1d23614feb3546269541b4362658b8d5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea11d2d95c415946b390f8b0488a1afe6342b48da3b908c00df7c33f0e7768e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,21 +69,21 @@ subjects:
 - Acidente de Transporte
 - Acreditação
 - Aproximação das Legislações
-- Embarcação
-- Transporte Marítimo
-- Mar
 - Construção Naval
 - Contra-ordenação
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Embarcação
 - Embarcação de ALTA Velocidade
-- Segurança das Embarcações
 - Equipamento
 - Fiscalização
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Fundo Azul
+- Mar
 - Segurança da Navegação
+- Segurança das Embarcações
 - Segurança Marítima
 - Taxa
 - Transporte de Passageiros
-- Fundo Azul
+- Transporte Marítimo
 relationships:
 - type: cites
   target: celex:31998L0018
@@ -145,6 +145,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/93/2012/04/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/93/2012/04/19/p/dre
+- type: cites
+  target: pt:dre:302524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73807563:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31998L0018
   label: null
@@ -158,15 +186,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 5
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:45Z'
   warnings: []
   errors: []
 ---
@@ -231,7 +259,9 @@ Os artigos 11.º e 19.º do [Decreto-Lei n.º 293/2001](https://diariodarepublic
 
 13 - Do valor das taxas cobradas em virtude da aplicação do presente decreto-lei, 10 % reverte para o Fundo Azul, criado pelo [Decreto-Lei n.º 16/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2016-73807563), de 9 de março.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -263,15 +293,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de agosto de 2017. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - José Apolinário Nunes Portada.
 
-**Promulgado em 15 de setembro de 2017.**
+Promulgado em 15 de setembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de setembro de 2017.**
+Referendado em 28 de setembro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -279,13 +309,21 @@ Visto e aprovado em Conselho de Ministros de 10 de agosto de 2017. - António Lu
 
 [...]
 
-### CAPÍTULO I — [...]
+CAPÍTULO I
 
-### CAPÍTULO II-1 — [...]
+[...]
 
-# PARTE A — [...]
+CAPÍTULO II-1
 
-# PARTE A-1 — [...]
+[...]
+
+PARTE A
+
+[...]
+
+PARTE A-1
+
+[...]
 
 1 - [...]
 
@@ -299,13 +337,21 @@ Navios das classes B, C e D, construídos a partir de 1 de janeiro de 2018, incl
 
 4.1 - Os navios de arqueação bruta igual ou superior a 1600 devem ser construídos de forma a reduzir o ruído a bordo e a proteger o pessoal do ruído de acordo com o Código da OMI relativo aos níveis de ruído a bordo dos navios, adotado pela Resolução MSC.337 (91) do Comité de Segurança Marítima, conforme alterado pela OMI.
 
-# PARTE B — [...]
+PARTE B
 
-# PARTE B-1 — [...]
+[...]
 
-# PARTE B-2 — [...]
+PARTE B-1
 
-# PARTE C — [...]
+[...]
+
+PARTE B-2
+
+[...]
+
+PARTE C
+
+[...]
 
 1 - [...]
 
@@ -389,13 +435,21 @@ Navios novos das classes B, C e D não abrangidos pela regra II-1/A-1/4. - Devem
 
 16 - [...]
 
-# PARTE D — [...]
+PARTE D
 
-# PARTE E — [...]
+[...]
 
-### CAPÍTULO II-2 — [...]
+PARTE E
 
-# PARTE A — [...]
+[...]
+
+CAPÍTULO II-2
+
+[...]
+
+PARTE A
+
+[...]
 
 1 - [...]
 
@@ -591,7 +645,9 @@ Para os navios que devem ter a bordo pelo menos um equipamento de bombeiro e con
 
 16 - [...]
 
-# PARTE B — [...]
+PARTE B
+
+[...]
 
 1 - [...]
 
@@ -625,7 +681,7 @@ TABELA N.º 5.1.a
 
 Resistência ao fogo das anteparas que separam espaços adjacentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/20200/0573205743.pdf))](https://files.diariodarepublica.pt/1s/2017/10/20200/0573205743.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/20200/0573205743.pdf)
 
 TABELA N.º 5.2
 
@@ -637,7 +693,7 @@ TABELA N.º 5.2.a
 
 Resistência ao fogo das anteparas que separam espaços adjacentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/20200/0573205743.pdf))](https://files.diariodarepublica.pt/1s/2017/10/20200/0573205743.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/20200/0573205743.pdf)
 
 6 - [...]
 
@@ -955,7 +1011,9 @@ Navios das classes B, C e D, construídos a partir de 1 de janeiro de 2018, incl
 
 18 - [...]
 
-### CAPÍTULO III — [...]
+CAPÍTULO III
+
+[...]
 
 1 - [...]
 
@@ -975,7 +1033,7 @@ Navios das classes B, C e D, construídos a partir de 1 de janeiro de 2018, incl
 
 2.6 - [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/20200/0573205743.pdf))](https://files.diariodarepublica.pt/1s/2017/10/20200/0573205743.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/20200/0573205743.pdf)
 
 3 - [...]
 
@@ -1087,6 +1145,6 @@ Navios novos e existentes das classes B, C e D:
 
 14.1 - Deve ser registada, num diário de bordo eventualmente previsto pela DGRM, a data em que são organizadas as chamadas, informações pormenorizadas sobre exercícios de abandono e de incêndio do navio, de entrada em espaços fechados e de salvamento, bem como exercícios de outros meios de salvação e formação a bordo. Caso uma chamada, exercício ou sessão de formação não seja realizada na data prevista, o facto deve ser registado no diário de bordo indicando as circunstâncias e o âmbito da chamada, exercício ou sessão de formação.
 
-### CAPÍTULO IV
+CAPÍTULO IV
 
 [...]»

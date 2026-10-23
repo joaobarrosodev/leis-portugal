@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/860-1980-462800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:30:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4591eb756943c3ff8969877a9b5e0419c0aa2432dfd923663883e11ada790655
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89bdbbc5ca50aa2be9c93405b58cc1370967742e3e707217165edd4e4965028c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:30:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Marca
+- Normalização
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:256416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564839:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:30:50Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +117,7 @@ Regulamento da Marca Nacional de Conformidade com as Normas
 
 2.º A marca é representada pelo símbolo abaixo indicado e, quando necessário, por outras indicações complementares e será materializada de maneira indelével por meio de sinais impressos ou gravados, placas, etiquetas, selos, vinhetas ou quaisquer outros processos, conforme for definido para cada caso.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/24500/35483551.pdf))](https://files.diariodarepublica.pt/1s/1980/10/24500/35483551.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/24500/35483551.pdf)
 
 3.º A marca será registada como propriedade do Estado e integrada no registo internacional e bem assim nos registos nacionais dos países que não aderiram ao acordo de Madrid de 14 de Abril de 1891.
 

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/09/17300/0314003145.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/60/2016/09/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2016-75286797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4fc419a16a1eb88d794321697e1753e7247539fd2ea160e43c7749ecf21d5fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4524d99e19f5b67e1c6a5802471ec05a73591d1b17f8166ef769ff04bb25572
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade Competente
+- Autoridade da Mobilidade e dos Transportes
 - Contra-ordenação
 - Definição de Competências
-- Regulamentação de Atos Legislativos
 - Fiscalização
 - Iniciativa Privada
 - Instituto da Mobilidade e dos Transportes
 - Licenciamento
 - Mobilidade Sustentável
-- Política de Transportes
 - Organização dos Transportes
-- Serviço Público
+- Política de Transportes
 - Regime Jurídico
+- Regulamentação de Atos Legislativos
+- Serviço Público
 - Taxa
 - Transporte de Passageiros
-- Autoridade da Mobilidade e dos Transportes
-- Autoridade Competente
 relationships:
 - type: cites
   target: celex:32007R1370
@@ -132,16 +132,148 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/260/2014/12/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/260/2014/12/15/p/dre
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58900566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64797338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67442930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69879421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
 article_structure:
   article_count: 27
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:25Z'
   warnings: []
   errors: []
 ---
@@ -510,12 +642,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de junho de 2016. - António Luís Santos da Costa - Eduardo Arménio do Nascimento Cabrita - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 19 de agosto de 2016.**
+Promulgado em 19 de agosto de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de agosto de 2016.**
+Referendado em 30 de agosto de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

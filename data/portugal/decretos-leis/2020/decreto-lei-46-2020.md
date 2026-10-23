@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/14300/0000500009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/46/2020/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2020-138758378
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa30227c76a442347559db35551437b829f4c0769804adce02bc624afff34cf8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 038002a30e1518a94c0464fbd4133eed1cfbe9e8400c0fbe6889d0b6b134af61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
-- Hospital das Forças Armadas
+- Administração Central do Sistema de Saúde
 - Carreira Médica
 - Chefe do Estado Maior General das Forças Armadas
 - Colocação de Médicos
 - Concurso
+- Contratação de Pessoal
 - Definição de Competências
-- Serviço Nacional de Saúde
-- Recrutamento de Pessoal
+- Gestão de Recursos Humanos
+- Hospital das Forças Armadas
 - Instituto Nacional de Medicina Legal e Ciências Forenses
 - Internato Médico
 - JURI
-- Contratação de Pessoal
-- Administração Central do Sistema de Saúde
+- Médico
+- Recrutamento de Pessoal
+- Serviço Nacional de Saúde
 - Setor Empresarial
-- Gestão de Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:869623319:por
@@ -103,16 +103,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/207/2011/05/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/207/2011/05/24/p/dre
+- type: cites
+  target: pt:dre:116108101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74604861:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:869623319:por
+  label: Revogada, a partir, do dia 22 de junho de 2024, o presente diploma, pelo(a) Decreto-Lei n.º 41/2024 - Diário da República
+    n.º 119/2024, Série I de 2024-06-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2024-869623319
+  date: '2024-06-21'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:40Z'
   warnings: []
   errors: []
 ---
@@ -223,18 +245,20 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de julho de 2020. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - João Titterington Gomes Cravinho - Francisca Eugénia da Silva Dias Van Dunem - Alexandra Ludomila Ribeiro Fernandes Leitão - Jamila Bárbara Madeira e Madeira.
 
-**Promulgado em 22 de julho de 2020.**
+Promulgado em 22 de julho de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de julho de 2020.**
+Referendado em 22 de julho de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o n.º 3 do artigo 7.º)
 
 Critérios de avaliação curricular do procedimento concursal com perfil específico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/14300/0000500009.pdf))](https://files.diariodarepublica.pt/1s/2020/07/14300/0000500009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/14300/0000500009.pdf)
+
+113427454

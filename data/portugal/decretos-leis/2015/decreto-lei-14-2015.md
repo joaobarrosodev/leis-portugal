@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/01/01700/0057500578.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/14/2015/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2015-66325238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b574a6d08271072eb4fa94ffdc0ec39163d137faa49196078f8643113cf59ccd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f9e6a5594a56087687a6328ce6135685d27f99773465684a2c6920d0d984ff6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
 - Definição de Competências
 - Direção Geral das Atividades Económicas
-- Ministério da Economia
 - Direção Geral de Energia e Geologia
+- Gabinete de Estratégia e Estudos
 - Gabinete de Estratégia e Planeamento
+- Gestão de Recursos Humanos
+- Governo XIX
+- IAPMEI
+- Ministério da Economia
 - Ministério da Economia e do Emprego
 - Ministério da Solidariedade e da Segurança Social
 - Ministério da Solidariedade Emprego e Segurança Social
-- Gabinete de Estratégia e Estudos
-- Governo XIX
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Gestão de Recursos Humanos
-- IAPMEI
+- Reestruturação de Serviços
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:183159328:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:120454103:por
+  label: Determinado o exercício pelo Ministro Adjunto e da Economia as competências legalmente previstas sobre os serviços,
+    organismos, entidades e estruturas identificados no Dec Lei 11/2014 de 22-jan, com as alterações introduzidas pelo presente
+    diploma, com execção daqueles que transitam para o âmbito de competências do Ministro da Infraestruturas e da Habitação
+    e para a Ministra do Mar, pelo(a) Decreto-Lei n.º 31/2019 - Diário da República n.º 43/2019, Série I de 2019-03-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2019-120454103
+  date: '2019-03-01'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a 30.03.2022, o exercício da direção pela Ministra do Trabalho, Solidariedade e Segurança
+    Social sobre o Gabinete de Estratégia e Planeamento (GEP), cuja orgânica foi aprovada pelo DR 24/2012 de 13-fev, na versão
+    republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/2014/01/22/p/dre
   label: null
@@ -126,16 +141,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/24/2012/02/13/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/24/2012/02/13/p/dre
+- type: cites
+  target: pt:dre:145193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638547:por
+  label: null
+  source: null
 article_structure:
-  article_count: 24
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:00Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +249,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º e 9.º do [Decreto Regulamentar n.º 24/
 
 O Gabinete de Estratégia e Planeamento do Ministério da Solidariedade, Emprego e Segurança Social (MSESS), abreviadamente designado por GEP, é um serviço central da administração direta do Estado dotado de autonomia administrativa.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O GEP tem por missão, no âmbito das atribuições prosseguidas pelo MSESS, garantir o apoio técnico à formulação de políticas e ao planeamento estratégico e operacional, em articulação com a programação financeira, assegurar, diretamente ou sob sua coordenação, as relações internacionais e a cooperação com os países de língua oficial portuguesa e acompanhar e avaliar a execução de políticas, dos instrumentos de planeamento e os resultados dos sistemas de organização e gestão, em articulação com os demais serviços do MSESS.
 
@@ -226,17 +279,23 @@ j) [...];
 
 l) [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O GEP é dirigido por um diretor-geral, coadjuvado por um subdiretor-geral, cargos de direção superior de 1.º e 2.º graus, respetivamente.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
 2 - O subdiretor-geral exerce as competências que lhe sejam delegadas ou subdelegadas pelo diretor-geral, competindo substituí-lo nas suas faltas e impedimentos.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 [...]:
 
@@ -244,7 +303,9 @@ a) Nas áreas de atividade de planeamento, estudos, prospetiva, documentação e
 
 b) Nas áreas de atividade de estatística, avaliação de políticas e controlo orçamental, o modelo de estrutura matricial.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 Aos chefes de equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a diretor de serviços ou chefe de divisão, em função da natureza e complexidade das funções, não podendo o estatuto equiparado a diretor de serviços ser atribuído a mais de três chefias de equipa em simultâneo.»
 
@@ -278,15 +339,15 @@ O presente diploma entra em vigor no 1.º dia útil seguinte ao da sua publicaç
 
 Visto e aprovado em Conselho de Ministros de 11 de dezembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 20 de janeiro de 2015.**
+Promulgado em 20 de janeiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de janeiro de 2015.**
+Referendado em 22 de janeiro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -296,17 +357,23 @@ Visto e aprovado em Conselho de Ministros de 11 de dezembro de 2014. - Pedro Pas
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/01/01700/0057500578.pdf))](https://files.diariodarepublica.pt/1s/2015/01/01700/0057500578.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/01/01700/0057500578.pdf)
 
-## ANEXO II — (a que se refere o artigo 7.º)
+ANEXO II
+
+(a que se refere o artigo 7.º)
 
 Republicação do [Decreto Regulamentar n.º 24/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2012-543046), de 13 de fevereiro
 
-###### Artigo 1.º — Natureza
+Artigo 1.º
+
+Natureza
 
 O Gabinete de Estratégia e Planeamento do Ministério da Solidariedade, Emprego e Segurança Social (MSESS), abreviadamente designado por GEP, é um serviço central da administração direta do Estado dotado de autonomia administrativa.
 
-###### Artigo 2.º — Missão e atribuições
+Artigo 2.º
+
+Missão e atribuições
 
 1 - O GEP tem por missão, no âmbito das atribuições prosseguidas pelo MSESS, garantir o apoio técnico à formulação de políticas e ao planeamento estratégico e operacional, em articulação com a programação financeira, assegurar, diretamente ou sob sua coordenação, as relações internacionais e a cooperação com os países de língua oficial portuguesa e acompanhar e avaliar a execução de políticas, dos instrumentos de planeamento e os resultados dos sistemas de organização e gestão, em articulação com os demais serviços do MSESS.
 
@@ -334,17 +401,23 @@ j) Propor e desenvolver atividades no âmbito da cooperação para o desenvolvim
 
 l) Assegurar o desenvolvimento dos sistemas de avaliação de serviços, coordenar e controlar a sua aplicação e exercer as demais competências que lhe sejam atribuídas na lei sobre esta matéria.
 
-###### Artigo 3.º — Órgãos
+Artigo 3.º
+
+Órgãos
 
 O GEP é dirigido por um diretor-geral, coadjuvado por um subdiretor-geral, cargos de direção superior de 1.º e 2.º graus, respetivamente.
 
-###### Artigo 4.º — Diretor-geral
+Artigo 4.º
+
+Diretor-geral
 
 1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao diretor-geral dirigir e orientar a ação dos órgãos e serviços do GEP.
 
 2 - O subdiretor-geral exerce as competências que lhe sejam delegadas ou subdelegadas pelo diretor-geral, competindo substituí-lo nas suas faltas e impedimentos.
 
-###### Artigo 5.º — Tipo de organização interna
+Artigo 5.º
+
+Tipo de organização interna
 
 A organização interna do GEP obedece ao modelo estrutural misto:
 
@@ -352,7 +425,9 @@ a) Nas áreas de atividade de planeamento, estudos, prospetiva, documentação e
 
 b) Nas áreas de atividade de estatística, avaliação de políticas e controlo orçamental, o modelo de estrutura matricial.
 
-###### Artigo 6.º — Receitas
+Artigo 6.º
+
+Receitas
 
 1 - O GEP dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
 
@@ -368,28 +443,40 @@ d) Quaisquer receitas que por lei, contrato, protocolo ou outro título lhe seja
 
 3 - As quantias cobradas pelo GEP são fixadas e periodicamente atualizadas por despacho dos membros do Governo responsáveis pelas áreas da segurança social e das finanças, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indiretos de funcionamento.
 
-###### Artigo 7.º — Despesas
+Artigo 7.º
+
+Despesas
 
 Constituem despesas do GEP as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas, com exceção das atribuições no domínio da cooperação para o desenvolvimento.
 
-###### Artigo 8.º — Mapa de cargos de direção
+Artigo 8.º
+
+Mapa de cargos de direção
 
 Os lugares de direção superior de 1.º e 2.º graus e de direção intermédia de 1.º grau constam do mapa anexo ao presente decreto regulamentar, do qual faz parte integrante.
 
-###### Artigo 9.º — Estatuto remuneratório dos chefes de equipa multidisciplinares
+Artigo 9.º
+
+Estatuto remuneratório dos chefes de equipa multidisciplinares
 
 Aos chefes de equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a diretor de serviços ou chefe de divisão, em função da natureza e complexidade das funções, não podendo o estatuto equiparado a diretor de serviços ser atribuído a mais de três chefias de equipa em simultâneo.
 
-###### Artigo 10.º — Efeitos revogatórios
+Artigo 10.º
+
+Efeitos revogatórios
 
 Nos termos do artigo 30.º do [Decreto-Lei n.º 126/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2011-145193), de 29 de dezembro, considera-se revogado, na data de entrada em vigor do presente decreto regulamentar, o [Decreto-Lei n.º 209/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2007-638547), de 29 de maio.
 
-###### Artigo 11.º — Entrada em vigor
+Artigo 11.º
+
+Entrada em vigor
 
 O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
-## ANEXO — (a que se refere o artigo 8.º)
+ANEXO
+
+(a que se refere o artigo 8.º)
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/01/01700/0057500578.pdf))](https://files.diariodarepublica.pt/1s/2015/01/01700/0057500578.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/01/01700/0057500578.pdf)»

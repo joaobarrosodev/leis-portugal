@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/34/1992/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1992-618149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 787282c5922be46a9da2f16f7ea9f2a9ff8b493918b80a64f5726cc70d36148e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cb29c388cf2c7a8c26d3b5c2a3be6ed5faef16fb64f4074dbb3350bc6fdc216
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,60 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Exploração Mineira
-- Radioprotecção
 - Higiene do Trabalho
+- Indústria Mineira
+- Radioprotecção
 - Saúde Pública
 - Segurança no Trabalho
-- Indústria Mineira
 relationships:
 - type: amended_by
   target: pt:dre:204379871:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:332262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:117202785:por
+  label: Revogado, a partir de 02.04.2019, pelo(a) Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de
+    2018-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
 article_structure:
   article_count: 86
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:15Z'
   warnings: []
   errors: []
 ---
@@ -224,7 +258,7 @@ A este LIA corresponde um limite derivado de concentração no ar inalado (CAD) 
 
 1 - Nos locais de trabalho, o LIA por inalação de poeiras radioactivas do minério de urânio em equilíbrio secular com os seus descendentes é de 1,7 kBq em termos de actividade alfa de longa vida total, sendo de 0,73 Bq.m(elevado a -3) o correspondente CAD e 1,5 kBq.h.m(elevado a -3) o correspondente LEA.
 
-Quando o minério de urânio se apresentar num estado de franco desequilíbrio de [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf))](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) com os seus produtos de filiação, o LIA deve ser calculado em função das radiações efectivas dos radionuclidos presentes.
+Quando o minério de urânio se apresentar num estado de franco desequilíbrio de [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) com os seus produtos de filiação, o LIA deve ser calculado em função das radiações efectivas dos radionuclidos presentes.
 
 2 - Nos locais de trabalho com poeiras de concentrados de urânio, o LIA destas poeiras radioactivas é de 1,5 kBq com correspondente CAD de 0,61 Bq.m(elevado a -3) para o material da classe Y e de 28 kBq para o material de classe W.
 
@@ -644,7 +678,7 @@ Devem ser tomadas providências tendentes a que o ar de retorno da mina não pos
 
 ###### Artigo 60.º — Avaliação das disfunções ambientais
 
-1 - A fim de se avaliarem as disfunções ambientais derivadas do funcionamento de anexos de tratamento ou de recuperação, devem ser feitas medições pré-operacionais para a determinação dos níveis de base de radionuclidos e do fundo radioactivo natural, de acordo com as indicações do estudo de impacte radiológico ambiental, nomeadamente no que se refere a [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf))](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) no ar e [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf))](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) nas águas superficiais e sedimentos na área.
+1 - A fim de se avaliarem as disfunções ambientais derivadas do funcionamento de anexos de tratamento ou de recuperação, devem ser feitas medições pré-operacionais para a determinação dos níveis de base de radionuclidos e do fundo radioactivo natural, de acordo com as indicações do estudo de impacte radiológico ambiental, nomeadamente no que se refere a [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) no ar e [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) nas águas superficiais e sedimentos na área.
 
 2 - No que se refere a poluentes não radioactivos, decorrentes da laboração dos anexos de tratamento ou de recuperação, deve ser adaptado procedimento idêntico ao que foi indicado no número anterior.
 
@@ -666,7 +700,7 @@ A zona onde se encontra a unidade de concentração, bem como o local de deposi�
 
 ###### Artigo 63.º — Efluentes
 
-1 - Antes de descarregados no meio ambiente, os efluentes líquidos provenientes das instalações de concentração ou da zona de armazenamento de resíduos devem sofrer um tratamento de modo que o pH seja ajustado até cerca da neutralidade e a concentração de [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf))](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) solúvel e de outros poluentes dissolvidos ou em suspensão seja reduzido a níveis compatíveis com os regulamentos e normas em vigor.
+1 - Antes de descarregados no meio ambiente, os efluentes líquidos provenientes das instalações de concentração ou da zona de armazenamento de resíduos devem sofrer um tratamento de modo que o pH seja ajustado até cerca da neutralidade e a concentração de [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) solúvel e de outros poluentes dissolvidos ou em suspensão seja reduzido a níveis compatíveis com os regulamentos e normas em vigor.
 
 2 - Deve ser assegurado um controlo adequado, permanente ou periódico, dos poluentes contidos nos efluentes das instalações de tratamento de minério, não só na área das instalações mas também na sua vizinhança, que deve ser mantido enquanto for necessário, mesmo após o desmantelamento e abandono das instalações.
 
@@ -884,15 +918,15 @@ Presidência do Conselho de Ministros, 8 de Julho de 1992.
 
 Aníbal António Cavaco Silva - Luís Fernando Mira Amaral - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 28 de Outubro de 1992.**
+Promulgado em 28 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Novembro de 1992.**
+Referendado em 3 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Definições e memorial técnico
 
@@ -1006,7 +1040,7 @@ O termo «dose» usado neste regulamento corresponde ao conceito de «equivalent
 
 8) Dose eficaz (H(índice E)) - soma ponderada dos equivalentes de dose recebidos nos diversos tecidos e órgãos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf))](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf)
 
 9) Dosímetro individual - instrumento destinado a indicar a dose de radiação acumulada recebida por um indivíduo durante a sua utilização;
 
@@ -1058,9 +1092,9 @@ O termo «dose» usado neste regulamento corresponde ao conceito de «equivalent
 
 33) População em geral - colectividade, formada pelas pessoas profissionalmente expostas, pelos aprendizes e estagiários durante o seu horário normal de trabalho e pelos membros do público;
 
-34) Produtos de filiação do radão - são produtos de desintegração do [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf))](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) de curto período radioactivo: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf))](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) (RaA), [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf))](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf), [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf))](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) (RaB), [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf))](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) (RaC), [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf))](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) (RaC') e [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf))](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) (RaC");
+34) Produtos de filiação do radão - são produtos de desintegração do [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) de curto período radioactivo: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) (RaA), [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf), [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) (RaB), [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) (RaC), [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) (RaC') e [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) (RaC");
 
-35) Produtos de filiação do torão - são produtos de desintegração do [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf))](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) de curto período: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf))](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) (ThA), [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf))](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) (ThB), [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf))](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) (ThC), [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf))](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) (ThC') e [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf))](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) (ThC");
+35) Produtos de filiação do torão - são produtos de desintegração do [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) de curto período: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) (ThA), [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) (ThB), [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) (ThC), [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) (ThC') e [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/280b00/55705585.pdf) (ThC");
 
 36) Radionuclido - átomo que se encontra em instabilidade de equilíbrio energético devido ao seu núcleo ter um excesso de neutrões ou de protões e neutrões;
 

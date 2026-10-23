@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 39/2021, 2º Suplemento, Série I de 2021-02-25
   number: '39'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 11-(2) a 11-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/03902/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/21-a/2021/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/21-a-2021-158368125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T05:42:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c2f10e81892d04c4376abbfa6e29f1370d4e26bb88d91848b5c13848a25c6a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a72f60a16e2c4ddb93bd9b0073c45d69f4ec9667a6d82d6cfdbb88e153f812dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:42:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,71 +68,71 @@ subjects:
 - Abastecimento de BENS Essenciais
 - Acesso à Informação
 - Aeroporto
-- PSP
 - Análises Clínicas
 - Aposentado
-- Crime
+- Arrendamento Urbano para Habitação
 - Assistência Médica
 - Assistência Medicamentosa
-- Proteção Civil
-- Pessoal de Saúde
-- Direito de Acesso
-- Médico
-- Publicidade
-- Lares
 - Circulação de Pessoas
-- Medicina Privada
-- Multa
-- Terceira Idade
+- Comércio
 - Contra-ordenação
-- Sector Cooperativo
 - Controlo Sanitário
+- Crime
+- Dados Pessoais
+- Direito de Acesso
+- Doença Infecciosa
+- Doente Crónico
+- Educação Pré-escolar
+- Ensino Básico
+- Ensino Secundário
+- Ensino Superior
+- Epidemia
 - Equipamento Social
-- Material de Ensino
-- Saúde Pública
-- Serviço Nacional de Saúde
-- Recrutamento de Pessoal
+- Estabelecimento de Ensino
+- Estabelecimento Hospitalar
+- Forças Armadas
+- Funcionário Público
+- GNR
+- Habitação
 - Horário de Funcionamento
 - Isolamento Profiláctico
-- Ensino Secundário
-- GNR
-- Forças Armadas
+- Lares
+- Material de Ensino
+- Material Médico-Cirúrgico
+- Medicina Privada
+- Médico
+- Multa
 - Organismo do Estado
 - Pessoal de Enfermagem
-- Transporte de Mercadorias
-- Doença Infecciosa
-- Epidemia
-- Doente Crónico
-- Estabelecimento de Ensino
-- Prestação de Serviços
-- Ensino Básico
-- Reformado
-- Teletrabalho
-- Estabelecimento Hospitalar
-- Habitação
-- Ensino Superior
+- Pessoal de Saúde
 - Poluição Sonora
-- Relações de Trabalho
-- Material Médico-Cirúrgico
-- Sanção
 - Portos
+- Prestação de Serviços
+- Proteção Civil
+- PSP
+- Publicidade
+- Recrutamento de Pessoal
+- Reformado
+- Relações de Trabalho
+- Sanção
+- Saúde Pública
+- Sector Cooperativo
+- Sector Público Administrativo
+- Serviço Nacional de Saúde
 - Setor Privado
 - Setor Público
-- Sector Público Administrativo
-- Funcionário Público
-- Dados Pessoais
-- Educação Pré-escolar
-- Arrendamento Urbano para Habitação
-- Comércio
+- Situação de Calamidade
+- Teletrabalho
+- Terceira Idade
+- Trabalhador com Contrato de Trabalho em Funções Públicas
 - Trabalhador por Conta de Outrem
-- Transporte Transfronteiriço
+- Transporte de Mercadorias
 - Transporte de Passageiros
 - Transporte Internacional
 - Transporte Público
+- Transporte Transfronteiriço
 - Unidade de Saúde Pública
-- Trabalhador com Contrato de Trabalho em Funções Públicas
 - Vigilância Epidemiológica
-- Situação de Calamidade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/1/2011/11/30/p/dre
@@ -146,16 +146,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/69-a/2021/02/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/69-a/2021/02/25/p/dre
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158368126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552035:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:42:31Z'
   warnings: []
   errors: []
 ---
@@ -258,12 +274,14 @@ Os órgãos responsáveis, nos termos da [Lei n.º 44/86](https://diariodarepubl
 
 O presente Decreto entra imediatamente em vigor, produzindo efeitos nos termos definidos no artigo 3.º
 
-**Assinado em 25 de fevereiro de 2021.**
+Assinado em 25 de fevereiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 25 de fevereiro de 2021.**
+Referendado em 25 de fevereiro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114018138

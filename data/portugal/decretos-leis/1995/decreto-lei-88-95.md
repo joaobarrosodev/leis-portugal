@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/88/1995/05/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1995-512829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bb527416e96b63b8997d7d5eb9f5c5c0527e779b9f456bbb361b53af19bb70d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 736a5744a0d43bd5bbd7698b540d501fd6d57d77b602f8b1f6cf187014991df6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,9 +70,9 @@ subjects:
 - Ensino Superior Politécnico
 - Escola Superior de Enfermagem
 - Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico
+- Horário de Trabalho
 - Pessoal Docente
 - Regime de Pessoal
-- Horário de Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:534797:por
@@ -82,16 +82,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/166/1992/08/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/166/1992/08/05/p/dre
+- type: cites
+  target: pt:dre:274440:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:51Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +114,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 6.º do [Decreto-Lei n.º 166/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1992-274440), de 5 de Agosto, passa a ter a seguinte redacção:
+Artigo único. O artigo 6.º do [Decreto-Lei n.º 166/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1992-274440), de 5 de Agosto, passa a ter a seguinte redacção:
 
 ###### Artigo 6.º — Regime de trabalho
 
@@ -126,12 +130,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 2 de Março de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Maria Manuela Dias Ferreira Leite - Adalberto Paulo da Fonseca Mendo.
 
-**Promulgado em 4 de Abril de 1995.**
+Promulgado em 4 de Abril de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1995.**
+Referendado em 6 de Abril de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

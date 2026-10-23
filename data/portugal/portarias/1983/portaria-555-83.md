@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/555-1983-450671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T07:43:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1942d19af2d3fd22d70d45f24296e2eddda0d5d846ab411dbc8121a669da3eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 194e8bf95c2ea4bdfbe1d9fa4fe9d7abcaa813900212be178d72680c784ea7fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:43:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Técnica Superior
+- Ministério da Agricultura e Pescas
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:470626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:43:05Z'
   warnings: []
   errors: []
 ---
@@ -91,6 +106,6 @@ Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finança
 
 Ministérios das Finanças e do Plano, da Agricultura, Comércio e Pescas e da Reforma Administrativa.
 
-**Assinada em 31 de Março de 1982.**
+Assinada em 31 de Março de 1982.
 
 Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro da Agricultura, Comércio e Pescas, Manuel Eduardo Santos França e Silva, Secretário de Estado Adjunto do Ministro da Agricultura, Comércio e Pescas. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

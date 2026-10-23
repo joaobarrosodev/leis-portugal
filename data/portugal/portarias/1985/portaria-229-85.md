@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/229-1985-324351
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T08:21:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d386ec03f0fcebb1700a39383ab7eee31925b8807d1fed068ab787d4fd1772af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef96a1b98a8a53301c513e1c53078ece3a6ef40fd84cdb106b4f2997fa223d01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:21:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Apostas Mútuas Desportivas
+- Bolsa de Estudos
+- Formação Profissional
+- Totobola
+relationships:
+- type: cites
+  target: pt:dre:146055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508198:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:21:25Z'
   warnings: []
   errors: []
 ---
@@ -95,6 +115,6 @@ Manda o Governo da República Portuguesa, pelos Ministros do Trabalho e Seguran�
 
 Ministérios do Trabalho e Segurança Social e da Saúde.
 
-**Assinada em 3 de Abril de 1985.**
+Assinada em 3 de Abril de 1985.
 
 Pelo Ministro do Trabalho e Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares, Secretária de Estado da Segurança Social. - O Ministro da Saúde, António Manuel Maldonado Gonelha.

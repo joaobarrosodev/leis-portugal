@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/38/2022/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 070793a5cb02d2a678bf928d05fe0f33e64a3c51dd12df6c114546cf0858b020
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a489745b526dc1ddd64ef554d12357772eb368ba571142bc1b0412427308df9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,72 +68,72 @@ reuse:
 subjects:
 - Acesso à Informação
 - Administração Central
-- Reestruturação de Serviços
 - Aquisição de Bens e Serviços
 - Aquisição de Equipamento
-- Modernização Administrativa
 - Casa Museu Fernando de Castro
-- Instituto do Emprego e Formação Profissional
-- Pessoal Dirigente
-- Lei do Enquadramento
+- Ceger
+- Conselho Diretivo
 - Coordenador
 - Definição de Competências
 - Delegação de Competências
-- Mudança Tecnológica
-- Regulamentação de Atos Legislativos
+- Diploma Legal
+- Direção Geral da Política de Justiça
+- Direção Geral de Estatísticas da Educação e Ciência
+- Direção Geral de Política do Mar
+- Direção Geral do Orçamento
 - Direção Geral do Património Cultural
 - Diretor de Serviços
 - Diretor Geral
 - Empresa Pública
+- Entidade de Serviços Partilhados da Administração Pública
+- Equipamento Informático
 - Equiparação de Cargos
-- Sistema Retributivo
-- Setor Empresarial do Estado
-- Recrutamento de Pessoal
-- Ministério da Justiça
-- Conselho Diretivo
-- Panteão Nacional
-- Ministério da Educação e Ciência
+- Equiparação de Entidades
+- Estratégia Nacional para o MAR
+- Estratégia para a Inovação e Modernização do Estado e da Administração Pública 2020-2023
+- Fundo Azul
+- Hub Azul-Rede de Infraestruturas para a Economia Azul
+- IAPMEI
+- Instituto de Gestão Financeira da Educação
 - Instituto de Gestão Financeira e Equipamentos da Justiça
 - Instituto de Informática
+- Instituto do Emprego e Formação Profissional
 - Instituto Público
-- Estratégia Nacional para o MAR
-- Direção Geral de Política do Mar
-- Direção Geral de Estatísticas da Educação e Ciência
-- Direção Geral da Política de Justiça
-- Direção Geral do Orçamento
-- Entidade de Serviços Partilhados da Administração Pública
+- Lei do Enquadramento
+- Ministério da Educação e Ciência
+- Ministério da Justiça
+- Modernização Administrativa
 - Modernização Tecnológica
+- Mudança Tecnológica
 - Museu Nacional de Soares dos Reis
 - Museu Nacional dos Coches
-- Equipamento Informático
 - Orgânica
+- Panteão Nacional
 - Pessoal de Informática
+- Pessoal Dirigente
+- Plano de Ação para a Transição Digital
+- Plano de Recuperação e Resiliência
+- Plano Estratégico de Sistemas de Informação
 - Política Comunitária
 - Política de Investigação e Desenvolvimento
 - Política Governamental
-- Sistema de Informação
+- Portal ePortugal
 - Presidente
-- Ceger
-- Diploma Legal
+- Processo Legislativo
+- Recrutamento de Pessoal
+- Reestruturação de Serviços
+- Regulamentação de Atos Legislativos
 - Remuneração
 - Sector Público Administrativo
-- Processo Legislativo
-- IAPMEI
+- Setor Empresarial do Estado
+- Sistema de Informação
+- Sistema Integrado de Informação da Educação
+- Sistema Retributivo
 - Subdirector Geral
 - Unidade de Gestão
+- Unidade de Implementação da Lei de Enquadramento Orçamental
 - Vice-presidente
 - Vogal
-- Instituto de Gestão Financeira da Educação
-- Unidade de Implementação da Lei de Enquadramento Orçamental
-- Fundo Azul
-- Portal ePortugal
-- Plano de Ação para a Transição Digital
-- Estratégia para a Inovação e Modernização do Estado e da Administração Pública 2020-2023
-- Plano de Recuperação e Resiliência
-- Hub Azul-Rede de Infraestruturas para a Economia Azul
-- Equiparação de Entidades
-- Plano Estratégico de Sistemas de Informação
-- Sistema Integrado de Informação da Educação
 relationships:
 - type: amended_by
   target: pt:dre:220172308:por
@@ -179,16 +179,140 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/223/2012/07/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/223/2012/07/24/p/dre
+- type: cites
+  target: pt:dre:105263934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107094725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108028571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122074191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122498959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178264070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67409483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75784266:por
+  label: null
+  source: null
 article_structure:
-  article_count: 47
+  article_count: 26
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:09Z'
   warnings: []
   errors: []
 ---
@@ -323,11 +447,15 @@ q) [Anterior alínea p).]
 
 3 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O CEGER é dirigido por um diretor, coadjuvado por um subdiretor, cargos de direção superior de 1.º e 2.º graus, respetivamente.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Os lugares de direção superior de 1.º e 2.º graus constam do mapa anexo ao presente decreto-lei e do qual faz parte integrante.»
 
@@ -365,7 +493,9 @@ Os artigos 10.º e 14.º do [Decreto-Lei n.º 123/2011](https://diariodarepublic
 
 4 - A DGPJ é dirigida por um diretor-geral, coadjuvado por dois subdiretores-gerais, cargos de direção superior de 1.º e 2.º graus, respetivamente.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -401,7 +531,9 @@ Os artigos 1.º, 5.º e 7.º do [Decreto-Lei n.º 164/2012](https://diariodarepu
 
 3 - O IGFEJ, I. P., é equiparado a entidade pública empresarial no âmbito das suas atribuições na área da gestão dos sistemas e tecnologias de informação da justiça, para efeitos de recrutamento de trabalhadores que desempenhem funções correspondentes ao conteúdo funcional das carreiras de técnico de informática e especialista de informática.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O conselho diretivo é constituído por um presidente, um vice-presidente e dois vogais.
 
@@ -409,7 +541,9 @@ Os artigos 1.º, 5.º e 7.º do [Decreto-Lei n.º 164/2012](https://diariodarepu
 
 3 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -467,7 +601,9 @@ h) [...].
 
 3 - A DGEEC é dirigida por um diretor-geral, coadjuvado por um subdiretor-geral, cargos de direção superior de 1.º e 2.º graus, respetivamente.
 
-###### Artigo 21.º-B — [...]
+Artigo 21.º-B
+
+[...]
 
 1 - O IGeFE, I. P., tem por missão garantir a programação, a gestão financeira e o planeamento estratégico e operacional das áreas governativas da ciência, tecnologia, ensino superior e educação, a gestão previsional fiável e sustentada dos respetivos programas orçamentais, bem como a avaliação global da execução das políticas e dos resultados obtidos pelo sistema educativo e a criação e o bom funcionamento do Sistema Integrado de Informação da Educação (SIIE), em articulação com os demais serviços e organismos das referidas áreas governativas.
 
@@ -587,7 +723,9 @@ g) Assegurar a articulação com os organismos com atribuições interministeria
 
 5 - Para a prossecução das suas atribuições, o IGeFE, I. P., deve promover a articulação e colaboração com os restantes serviços e organismos das áreas governativas da ciência, tecnologia, ensino superior e educação.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O conselho diretivo é composto por um presidente, um vice-presidente e dois vogais.
 
@@ -597,7 +735,9 @@ g) Assegurar a articulação com os organismos com atribuições interministeria
 
 4 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 [...]:
 
@@ -653,17 +793,23 @@ p) [...];
 
 q) [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 A DGEEC é dirigida por um diretor-geral, coadjuvado por um subdiretor-geral, cargos de direção de 1.º e 2.º graus, respetivamente.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
 2 - O subdiretor-geral exerce as competências que lhe sejam delegadas ou subdelegadas pelo diretor-geral, e substitui o diretor-geral nas suas faltas e impedimentos.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 [...]:
 
@@ -759,11 +905,15 @@ Os artigos 1.º, 8.º e 14.º do [Decreto-Lei n.º 196/2012](https://diariodarep
 
 3 - O II, I. P.; é equiparado a entidade pública empresarial, no âmbito das suas atribuições de construção, gestão e operação de sistemas aplicacionais e de infraestruturas tecnológicas nas áreas de tecnologias de informação e comunicação dos serviços e organismos da área governativa do trabalho, solidariedade e segurança social, numa lógica de serviços comuns partilhados, para efeitos de recrutamento de trabalhadores que desempenhem funções correspondentes ao conteúdo funcional das carreiras de técnico de informática e especialista de informática.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 A organização interna do II, I. P., é a prevista nos respetivos estatutos e regulamentos internos, a aprovar nos termos da Lei-Quadro dos Institutos Públicos, aprovada pela [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, na sua redação atual.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 Podem candidatar-se aos procedimentos concursais para os cargos de direção intermédia do II, I. P., os trabalhadores em funções públicas contratados ou designados por tempo indeterminado da carreira técnica das carreiras específicas do II, I. P., ou em regime de contrato individual de trabalho sem termo do II, I. P., que possuam licenciatura e que reúnam aptidão técnica para o exercício de funções de direção, coordenação e controlo com, pelo menos, seis ou quatro anos de experiência profissional, consoante se trate de cargos de direção intermédia de 1.º ou 2.º grau, respetivamente.»
 
@@ -839,7 +989,9 @@ k) No domínio da transição digital, intervir na promoção, coordenação e d
 
 3 - O IAPMEI, I. P., demonstrada a prossecução do interesse público e no âmbito das suas atribuições, pode participar em associações ou colaborar com entidades nacionais e internacionais, podendo ainda, exclusivamente no âmbito da sua intervenção no Plano de Recuperação e Resiliência enquanto beneficiário, conceder apoios financeiros e celebrar protocolos de cooperação ou contratos-programa específicos com empresas públicas e entidades nacionais sem fins lucrativos, desde que desenvolvam atividades de interesse público e comum e prestem apoio ou promovam o reforço da competitividade das atividades empresariais.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O conselho diretivo é composto por um presidente, um vice-presidente e dois vogais.
 
@@ -869,7 +1021,9 @@ d) Apreciar projetos de diplomas apresentados pelo Gabinete de Gestão e Coorden
 
 e) [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 [...]:
 
@@ -881,7 +1035,9 @@ c) Os responsáveis das equipas mencionadas na alínea b) do artigo anterior, co
 
 d) O Responsável Técnico da Unidade, quando o mesmo se encontre designado nos termos do n.º 4 do artigo seguinte.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -899,7 +1055,9 @@ c) Exercer as competências inerentes à gestão dos recursos humanos afetos à 
 
 5 - O Coordenador da Unidade e o Responsável Técnico, quando designado, têm o estatuto remuneratório equivalente a cargo de direção superior de 1.º e de 2.º graus, respetivamente.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -907,7 +1065,9 @@ c) Exercer as competências inerentes à gestão dos recursos humanos afetos à 
 
 3 - Para efeitos do disposto no número anterior, cada entidade designa um gestor de equipa, o qual é responsável em cada equipa pela condução dos trabalhos na entidade que representa, sendo esta coordenada por um elemento da Unidade.
 
-###### Artigo 11.º — Reuniões da Unidade
+Artigo 11.º
+
+Reuniões da Unidade
 
 1 - [...].
 
@@ -915,7 +1075,9 @@ c) Exercer as competências inerentes à gestão dos recursos humanos afetos à 
 
 3 - O Gabinete Técnico reúne ordinariamente uma vez por semestre e, extraordinariamente, sempre que for convocado pelo coordenador da Unidade, ao qual compete dirigir as reuniões do Gabinete Técnico e fixar a respetiva agenda.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...].
 
@@ -925,7 +1087,9 @@ c) Exercer as competências inerentes à gestão dos recursos humanos afetos à 
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - A Unidade funciona pelo prazo de três anos, renovável por iguais períodos, até à conclusão da sua missão.
 
@@ -985,7 +1149,9 @@ s) Acompanhar a execução dos instrumentos de financiamento disponíveis na ár
 
 3 - Cabe, ainda, à DGPM exercer as demais atribuições que lhe sejam legalmente atribuídas.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A organização interna da DGPM obedece ao seguinte modelo estrutural misto:
 
@@ -1029,15 +1195,15 @@ O presente decreto-lei entra em vigor no primeiro dia útil do mês seguinte ao 
 
 Visto e aprovado em Conselho de Ministros de 19 de maio de 2022. - Mariana Guimarães Vieira da Silva - Mariana Guimarães Vieira da Silva - Catarina Teresa Rola Sarmento e Castro - António Manuel Veiga dos Santos Mendonça Mendes - António José da Costa Silva - Pedro Adão e Silva Cardoso Pereira - Elvira Maria Correia Fortunato - João Miguel Marques da Costa - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 26 de maio de 2022.**
+Promulgado em 26 de maio de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de maio de 2022.**
+Referendado em 27 de maio de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
@@ -1047,7 +1213,7 @@ Tabela de equivalências
 
 [a que se refere a alínea b) do n.º 2 do artigo 6.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf))](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf)»
 
 ## ANEXO II — (a que se refere o artigo 5.º)
 
@@ -1057,7 +1223,7 @@ Tabela de equivalências
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf))](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf)»
 
 ## ANEXO III — (a que se refere o artigo 9.º)
 
@@ -1067,13 +1233,15 @@ Mapa de pessoal dirigente
 
 Cargos de direção superior da administração direta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf))](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf)
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 Dirigentes de organismos da administração indireta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf))](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf)»
 
 ## ANEXO IV — (a que se refere o artigo 10.º)
 
@@ -1081,7 +1249,7 @@ Dirigentes de organismos da administração indireta
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf))](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf)»
 
 ## ANEXO V — (a que se refere o artigo 14.º)
 
@@ -1091,13 +1259,15 @@ Mapa de pessoal dirigente
 
 Cargos de direção superior da administração direta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf))](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf)
 
-## ANEXO II — (a que se refere o artigo 30.º)
+ANEXO II
+
+(a que se refere o artigo 30.º)
 
 Dirigentes de organismos da administração indireta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf))](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf)»
 
 ## ANEXO VI — (a que se refere o artigo 15.º)
 
@@ -1107,7 +1277,7 @@ Dirigentes de organismos da administração indireta
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf))](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf)»
 
 ## ANEXO VII — (a que se refere o artigo 17.º)
 
@@ -1167,7 +1337,9 @@ x) [...];
 
 y) [...].
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 a) [...];
 
@@ -1257,12 +1429,16 @@ qq) [...];
 
 rr) Edifício da Casa-Museu Fernando de Castro.
 
-## ANEXO III — [...]
+ANEXO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf))](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf)»
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf)»
 
 ## ANEXO VIII — (a que se refere o artigo 23.º)
 
 «Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf))](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/10400/0000200024.pdf)»
+
+115375431

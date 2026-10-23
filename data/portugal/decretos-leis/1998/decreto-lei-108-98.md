@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/108/1998/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1998-176331
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87e956d0e817673f335751bba32dbd1785231899487977db9d8e59dc77d35f63
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5b5cffe6fd691aded6585b53c8bf716fcb9530a081a30cd46065cb891cd9ff0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contribuições e Impostos
-- IVA
-- Isenção Fiscal
-- Veículo
-- Missão Diplomática
 - Benefícios Fiscais
+- Contribuições e Impostos
+- Isenção Fiscal
+- IVA
+- Missão Diplomática
 - Restituição de Impostos
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:66016527:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570099:por
+  label: "Alterado o art. 3.º-A do Dec Lei 143/86, de 16-Jun, na redacção do presente diploma pelo DEC LEI.296/2001.2001.11.21.MF\
+    \ DR.IS-A [270]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-2001-570099
+  date: '2001-11-21'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Alterado o art. 3.º-A do Dec Lei 143/86, de 16-jun, na redação do presente diploma, pelo(a) Lei n.º 82-B/2014 - Diário
+    da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: cites
+  target: pt:dre:228835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574957:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:36Z'
   warnings: []
   errors: []
 ---
@@ -118,12 +138,12 @@ O artigo 3.º-A do [Decreto-Lei n.º 143/86](https://diariodarepublica.pt/dr/det
 
 Visto e aprovado em Conselho de Ministros, 12 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 7 de Abril de 1998.**
+Promulgado em 7 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Abril de 1998.**
+Referendado em 16 de Abril de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1985-182049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:11:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a206ae719e35fbe9cf8ffbd418d6849a6696fe8c379595d2d9c5d609f7df3a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 252c5c702ae48f4c76f1ea976330d46f6f4c7c7cc81d8c36aa4c99b1089a7bf7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:11:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aparelho Complementar Terapêutico
+- Deficiente
+- Importação
+- Isenção Fiscal
+- Material Científico
+- Material de Ensino
+relationships:
+- type: cites
+  target: pt:dre:401374:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:11:25Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +109,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ## TÍTULO I — Disposições preliminares
 
-###### Artigo 1.º O presente decreto regulamentar fixa as disposições para aplicação dos artigos, 11.º a 19.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), de 4 de Dezembro.
+Artigo 1.º O presente decreto regulamentar fixa as disposições para aplicação dos artigos, 11.º a 19.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), de 4 de Dezembro.
 
 ## TÍTULO II — Disposições aplicáveis às importações efectuadas por instituições ou organizações
 
@@ -107,7 +117,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 #### SECÇÃO I — Obrigações da instituição ou organização destinatária
 
-###### Art. 2.º - 1 - A aplicação do benefício da franquia de direitos de importação de objectos referidos no artigo 12.º, nos n.os 1 e 3 do artigo 13.º e no artigo 15.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374) acarreta a obrigação para a instituição ou organização destinatária:
+Art. 2.º - 1 - A aplicação do benefício da franquia de direitos de importação de objectos referidos no artigo 12.º, nos n.os 1 e 3 do artigo 13.º e no artigo 15.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374) acarreta a obrigação para a instituição ou organização destinatária:
 
 De expedir directamente os objectos em causa até ao local de destino declarado;
 
@@ -123,13 +133,13 @@ De facilitar todos os controles que as autoridades aduaneiras considerem necess�
 
 #### SECÇÃO II — Disposições aplicáveis no caso de empréstimo, aluguer ou cessão
 
-###### Art. 3.º - 1 - Quando forem de aplicar as disposições do n.º 3 do artigo 18.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), a instituição ou organização beneficiária do empréstimo, do aluguer ou da cessão de um objecto destinado a pessoas diminuídas ficará sujeita, a contar da data da sua recepção, às mesmas obrigações que as referidas no artigo 2.º
+Art. 3.º - 1 - Quando forem de aplicar as disposições do n.º 3 do artigo 18.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), a instituição ou organização beneficiária do empréstimo, do aluguer ou da cessão de um objecto destinado a pessoas diminuídas ficará sujeita, a contar da data da sua recepção, às mesmas obrigações que as referidas no artigo 2.º
 
 2 - As disposições do n.º 1 aplicar-se-ão mutatis mutandis ao empréstimo, ao aluguer ou à cessão das peças sobresselentes, elementos ou acessórios específicos que se adaptem aos objectos destinados às pessoas diminuídas, assim como das ferramentas a utilizar na manutenção, controle, calibragem ou reparação dos referidos objectos que tenham sido importados com franquia ao abrigo do n.º 2 do artigo 12.º e do n.º 3 do artigo 13.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374).
 
 ### CAPÍTULO II — Disposições particulares relativas à importação com franquia de objectos ao abrigo do n.º 1 de artigo 12.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374)
 
-###### Art. 4.º - 1 - A fim de obter a importação com franquia de um objecto destinado a cegos, ao abrigo do n.º 1 do artigo 12.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), o chefe da instituição ou organização destinatária, ou o seu representante habilitado, deve formular o pedido ao director da alfândega em cuja circunscrição estiver situada a instituição ou organização.
+Art. 4.º - 1 - A fim de obter a importação com franquia de um objecto destinado a cegos, ao abrigo do n.º 1 do artigo 12.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), o chefe da instituição ou organização destinatária, ou o seu representante habilitado, deve formular o pedido ao director da alfândega em cuja circunscrição estiver situada a instituição ou organização.
 
 2 - O pedido referido no n.º 1 deve ser acompanhado de todos os elementos de informação considerados necessários pelas autoridades aduaneiras a fim de determinar, ouvido o Secretariado Nacional de Reabilitação, se se encontram satisfeitas as condições previstas para a concessão da franquia.
 
@@ -137,9 +147,9 @@ De facilitar todos os controles que as autoridades aduaneiras considerem necess�
 
 ### CAPÍTULO III — Disposições particulares relativas à importação com franquia de objectos ao abrigo do n.º 1 de artigo 13.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374)
 
-###### Art. 5.º Enquanto não tiver sido estabelecido por uma decisão da Direcção-Geral das Alfândegas adoptada em conformidade com o procedimento previsto nos n.os 3 ou 4 do artigo 8.º que a importação com franquia dos objectos referidos no n.º 1 do artigo 13.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374) é susceptível de prejudicar a produção nacional de objectos equivalentes, a franquia será concedida sem se proceder à verificação da condição prevista na alínea b) do n.º 1 do artigo 13.º do citado decreto-lei.
+Art. 5.º Enquanto não tiver sido estabelecido por uma decisão da Direcção-Geral das Alfândegas adoptada em conformidade com o procedimento previsto nos n.os 3 ou 4 do artigo 8.º que a importação com franquia dos objectos referidos no n.º 1 do artigo 13.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374) é susceptível de prejudicar a produção nacional de objectos equivalentes, a franquia será concedida sem se proceder à verificação da condição prevista na alínea b) do n.º 1 do artigo 13.º do citado decreto-lei.
 
-###### Art. 6.º - 1 - A fim de obter a importação com franquia de um objecto destinado a pessoas deficientes, ao abrigo das disposições do n.º 1 do artigo 13.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), o chefe da instituição ou organização destinatária, ou o seu representante habilitado, deve formular o pedido ao director da alfândega em cuja circunscrição estiver situada essa instituição ou organização.
+Art. 6.º - 1 - A fim de obter a importação com franquia de um objecto destinado a pessoas deficientes, ao abrigo das disposições do n.º 1 do artigo 13.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), o chefe da instituição ou organização destinatária, ou o seu representante habilitado, deve formular o pedido ao director da alfândega em cuja circunscrição estiver situada essa instituição ou organização.
 
 2 - O pedido referido no n.º 1 deve conter as seguintes informações relativas ao objecto em causa:
 
@@ -163,9 +173,9 @@ i) A data em que o objecto foi encomendado, se este o já tiver sido.
 
 3 - Ao pedido referido no n.º 1 deverá juntar-se documentação que forneça todas as informações úteis sobre as características e as especificações técnicas do objecto.
 
-###### Art. 7.º Sem prejuízo das disposições do artigo 9.º, o director da alfândega em cuja circunscrição estiver situada a instituição ou organização destinatária decidirá directamente sobre o pedido referido no artigo 6.º
+Art. 7.º Sem prejuízo das disposições do artigo 9.º, o director da alfândega em cuja circunscrição estiver situada a instituição ou organização destinatária decidirá directamente sobre o pedido referido no artigo 6.º
 
-###### Art. 8.º - 1 - Os directores das alfândegas comunicarão à Direcção-Geral das Alfândegas, de sua própria iniciativa ou a pedido desta última, todas as informações, incluindo a documentação técnica de que disponham, a fim de lhe permitir apreciar se a importação com franquia de direitos de um determinado objecto é susceptível de prejudicar a produção nacional de objectos equivalentes.
+Art. 8.º - 1 - Os directores das alfândegas comunicarão à Direcção-Geral das Alfândegas, de sua própria iniciativa ou a pedido desta última, todas as informações, incluindo a documentação técnica de que disponham, a fim de lhe permitir apreciar se a importação com franquia de direitos de um determinado objecto é susceptível de prejudicar a produção nacional de objectos equivalentes.
 
 2 - Quando, tendo em conta as informações em seu poder, a Direcção-Geral das Alfândegas considerar que a importação com franquia de direitos de um objecto é susceptível de prejudicar a produção nacional de objectos equivalentes, pedirá o parecer do Ministério da Indústria e Energia, enviando-lhe todas as informações em seu poder.
 
@@ -181,7 +191,7 @@ i) A data em que o objecto foi encomendado, se este o já tiver sido.
 
 8 - A notificação das decisões da Direcção-Geral das Alfândegas será feita ao interessado logo que sejam adoptadas e será publicada logo que seja possível, eventualmente em forma abreviada, na 3.ª série do Diário da República.
 
-###### Art. 9.º - 1 - Quando o director da alfândega em cuja circunscrição se situar a instituição ou organização destinatária não estiver em condições de determinar se o objecto incluído no pedido referido no artigo 6.º deve ser considerado como especialmente concebido para a educação, o emprego ou a promoção social de pessoas deficientes, esse pedido assim como a documentação técnica a ele referente serão transmitidos à Direcção-Geral das Alfândegas, a fim de permitir que esta inicie as formalidades previstas nos n.os 4 a 8.
+Art. 9.º - 1 - Quando o director da alfândega em cuja circunscrição se situar a instituição ou organização destinatária não estiver em condições de determinar se o objecto incluído no pedido referido no artigo 6.º deve ser considerado como especialmente concebido para a educação, o emprego ou a promoção social de pessoas deficientes, esse pedido assim como a documentação técnica a ele referente serão transmitidos à Direcção-Geral das Alfândegas, a fim de permitir que esta inicie as formalidades previstas nos n.os 4 a 8.
 
 2 - Enquanto estiver aguardando a conclusão das formalidades referidas no n.º 1, o director-geral das Alfândegas pode autorizar a importação do objecto a que o pedido se refere com isenção provisória de direitos mediante o compromisso da instituição ou organização destinatária de pagar os direitos no caso de a franquia não ser concedida.
 
@@ -197,13 +207,13 @@ i) A data em que o objecto foi encomendado, se este o já tiver sido.
 
 8 - A notificação da Direcção-Geral das Alfândegas será feita ao interessado num prazo de 2 semanas e será objecto, no mais curto prazo, de uma publicação, eventualmente sob forma resumida, na 3.ª série do Diário da República.
 
-###### Art. 10.º - 1 - O prazo de validade das autorizações de importação com franquia é de 6 meses.
+Art. 10.º - 1 - O prazo de validade das autorizações de importação com franquia é de 6 meses.
 
 2 - Os directores das alfândegas podem, no entanto, fixar um prazo maior, tendo em consideração as circunstâncias particulares de cada operação.
 
 ### CAPÍTULO IV — Disposições particulares relativas à importação com franquia de objectos ao abrigo de artigo 15.º do Decreto-lei n.º 383/84
 
-###### Art. 11.º - Para obter a importação com franquia ao abrigo do artigo 15.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374) de um objecto destinado a pessoas diminuídas, o chefe da instituição ou organização destinatária, ou o seu representante habilitado, deve formular o pedido ao director da alfândega em cuja circunscrição estiver situada essa instituição ou organização.
+Art. 11.º - Para obter a importação com franquia ao abrigo do artigo 15.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374) de um objecto destinado a pessoas diminuídas, o chefe da instituição ou organização destinatária, ou o seu representante habilitado, deve formular o pedido ao director da alfândega em cuja circunscrição estiver situada essa instituição ou organização.
 
 2 - O pedido referido no n.º 1 deve conter as mesmas indicações que as visadas nas alíneas a) a e) do n.º 2 do artigo 6.º e ser acompanhado de documentação que forneça todas as informações úteis sobre as características e as especificações técnicas do objecto em causa, devendo além disso mencionar:
 
@@ -211,7 +221,7 @@ a) O nome ou a razão social e morada do doador; e
 
 b) A declaração do requerente de que os objectos para os quais é pedida a franquia são efectivamente oferecidos à instituição ou organização em causa sem qualquer contrapartida comercial, particularmente de natureza publicitária.
 
-###### Art. 12.º - 1 - O director da alfândega em cuja circunscrição estiver situada a instituição ou a organização destinatária decidirá directamente sobre o pedido referido no artigo 11.º
+Art. 12.º - 1 - O director da alfândega em cuja circunscrição estiver situada a instituição ou a organização destinatária decidirá directamente sobre o pedido referido no artigo 11.º
 
 2 - O director da alfândega só autorizará a importação com franquia de direitos desse objecto se for demonstrado que o doador não obtém qualquer vantagem comercial, directa ou indirecta, da sua doação à instituição ou organização destinatária.
 
@@ -221,19 +231,19 @@ b) A declaração do requerente de que os objectos para os quais é pedida a fra
 
 Disposições particulares relativas à importação com franquia de peças sobresselentes, de elementos ou de acessórios específicos e de ferramentas ao abrigo do n.º 2 do artigo 12.º e do n.º 3 do artigo 13.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374).
 
-###### Art. 13.º Para efeito do n.º 2 do artigo 12.º e do n.º 3 do artigo 13.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), entende-se por acessórios específicos os artigos especialmente concebidos para serem utilizados com um objecto determinado a fim de melhorarem o seu rendimento ou as suas possibilidades de utilização.
+Art. 13.º Para efeito do n.º 2 do artigo 12.º e do n.º 3 do artigo 13.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), entende-se por acessórios específicos os artigos especialmente concebidos para serem utilizados com um objecto determinado a fim de melhorarem o seu rendimento ou as suas possibilidades de utilização.
 
-###### Art. 14.º - 1 - Para obter a importação com franquia de peças sobresselentes, de elementos ou de acessórios específicos e ferramentas ao abrigo do n.º 2 do artigo 12.º ou do n.º 3 do artigo 13.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), o chefe da instituição ou organização destinatária, ou o seu representante habilitado, deve formular o pedido ao director da alfândega em cuja circunscrição estiver situada essa instituição ou organização.
+Art. 14.º - 1 - Para obter a importação com franquia de peças sobresselentes, de elementos ou de acessórios específicos e ferramentas ao abrigo do n.º 2 do artigo 12.º ou do n.º 3 do artigo 13.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), o chefe da instituição ou organização destinatária, ou o seu representante habilitado, deve formular o pedido ao director da alfândega em cuja circunscrição estiver situada essa instituição ou organização.
 
 2 - O pedido formulado no n.º 1 deve ser acompanhado de todos os elementos de informação considerados necessários pelas autoridades aduaneiras para determinar se se encontram satisfeitas as condições previstas no n.º 2 do artigo 12.º ou no n.º 3 do artigo 13.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374).
 
-###### Art. 15.º O director da alfândega em cuja circunscrição estiver situada a instituição ou organização destinatária decidirá directamente sobre o pedido visado no artigo, 14.º
+Art. 15.º O director da alfândega em cuja circunscrição estiver situada a instituição ou organização destinatária decidirá directamente sobre o pedido visado no artigo, 14.º
 
 ## TÍTULO III — Importações efectuadas por cegos e outras disposições aplicáveis a pessoas diminuídas
 
-###### Art. 16.º Para a importação com franquia de direitos dos objectos referidos nos n.os 1 e 2 do artigo 12.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374) importados pelos próprios cegos e para seu próprio uso aplicar-se-ão mutatis mutandis as disposições dos artigos 4.º, 13.º, 14.º e 15.º
+Art. 16.º Para a importação com franquia de direitos dos objectos referidos nos n.os 1 e 2 do artigo 12.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374) importados pelos próprios cegos e para seu próprio uso aplicar-se-ão mutatis mutandis as disposições dos artigos 4.º, 13.º, 14.º e 15.º
 
-###### Art. 17.º Para a importação com franquia de direitos de objectos importados pelas próprias pessoas deficientes e para seu próprio uso aplicar-se-ão mutatis mutandis:
+Art. 17.º Para a importação com franquia de direitos de objectos importados pelas próprias pessoas deficientes e para seu próprio uso aplicar-se-ão mutatis mutandis:
 
 As disposições dos artigos 5.º a 10.º se se tratar de objectos referidos no n.º 1 do artigo 13.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374);
 
@@ -241,16 +251,16 @@ As disposições dos artigos 11.º e 12.º se se tratar de objectos referidos no
 
 As disposições dos artigos 13.º, 14.º e 15.º se se tratar de objectos referidos no n.º 3 do artigo 13.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374).
 
-###### Art. 18.º Os directores das alfândegas podem permitir que o pedido previsto nos artigos 4.º, 6.º e 11.º seja feito sob uma forma simplificada quando se referir a objectos importados nas condições mencionadas nos artigos 16.º e 17.º
+Art. 18.º Os directores das alfândegas podem permitir que o pedido previsto nos artigos 4.º, 6.º e 11.º seja feito sob uma forma simplificada quando se referir a objectos importados nas condições mencionadas nos artigos 16.º e 17.º
 
 Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Alípio Barrosa Pereira Dias - José Veiga Simão.
 
-**Promulgado em 4 de Junho de 1985.**
+Promulgado em 4 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Junho de 1985.**
+Referendado em 7 de Junho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

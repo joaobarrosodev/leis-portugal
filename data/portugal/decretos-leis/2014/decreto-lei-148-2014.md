@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/10/19500/0518905190.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/148/2014/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2014-58228088
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c63132709146c06fc088d0045c9d382e2064fef63e797a68fe7b43e6d8722260
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 425bd033fd55cf6c94ad20f449343b09e492520248e567568c092dae76226d60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Apoio ao Investimento
+- Desenvolvimento Económico
 - Empresa
 - Empresa Privada
-- Apoio ao Investimento
+- Financiamento
 - Incentivos ao Desenvolvimento
-- Desenvolvimento Económico
 relationships:
 - type: cites
   target: celex:32006R1998
@@ -91,15 +91,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/287/2007/08/17/p/dre
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:11Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +136,9 @@ Os artigos 1.º e 5.º do Decreto-Lei n.º 287/2007, de 17 de agosto, alterado p
 
 É aprovado o enquadramento nacional de sistemas de incentivos ao investimento nas empresas, doravante designado por enquadramento nacional, que define as condições e as regras a observar pelos sistemas de incentivos ao investimento nas empresas aplicáveis no território do continente, desde 2007 até 31 de dezembro de 2014.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
@@ -150,12 +152,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, re
 
 Visto e aprovado em Conselho de Ministros de 4 de setembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - José Pedro Correia de Aguiar-Branco - António Manuel Coelho da Costa Moura - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 1 de outubro de 2014.**
+Promulgado em 1 de outubro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de outubro de 2014.**
+Referendado em 6 de outubro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

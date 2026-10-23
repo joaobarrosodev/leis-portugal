@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/67/2000/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2000-521600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5658bd8bd44c4e1d38e6d4dca4201636f46af5c8e79803fb18e3aaf1e645f9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b71a0f54a2fa86fe174c1af7560d18157802b3e6ab177f39d72598ce2603bbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Ministério da Educação
+- Contratação Pública
 - Contrato Administrativo
+- Contrato de Trabalho
 - Desempregado
-- Ensino Oficial
-- Recrutamento de Pessoal
-- Pagamento
-- Instituições de Segurança Social
-- Pessoal Contratado
-- Prazo
-- Estabelecimento de Ensino
-- Pessoal Docente
-- Prestações de Desemprego
 - Desemprego
 - Emprego
+- Ensino Oficial
+- Estabelecimento de Ensino
+- Formação Profissional
+- Instituições de Segurança Social
+- Ministério da Educação
+- Pagamento
+- Pessoal Contratado
+- Pessoal Docente
+- Prazo
+- Prestações de Desemprego
 - Proteção no Desemprego
-- Contrato de Trabalho
+- Recrutamento de Pessoal
 - Regime Geral da Segurança Social
 - Segurança Social
 - Subsídio de Desemprego
-- Contratação Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/119/1999/04/14/p/dre
@@ -95,16 +95,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544611:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:49Z'
   warnings: []
   errors: []
 ---
@@ -241,12 +249,12 @@ Aos indivíduos a que se refere o artigo 12.º do presente diploma as prestaçõ
 
 Visto e aprovado em Conselho de Ministros de 24 de Fevereiro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Guilherme d'Oliveira Martins - Alberto de Sousa Martins.
 
-**Promulgado em 11 de Abril de 2000.**
+Promulgado em 11 de Abril de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Abril de 2000.**
+Referendado em 13 de Abril de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

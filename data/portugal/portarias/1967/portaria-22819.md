@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22819-1967-313656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:33:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 279e4b6c2792153333d9f54e46f4c24384b5696fd5f8ddee60c351632ff84154
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6c1c002ab3a79f25c9b6945ecef6849c68130a94f4f9e5adf1939f25e6ccbb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:33:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554816:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:33:47Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +110,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1) Um de 3340020$54, tomando como contrapartida igual quantia a sair do empréstimo da metrópole autorizado pelo [Decreto-Lei n.º 46683](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46683-1965-507855), de 3 de Dezembro de 1965, destinado a reforçar com as importâncias que se indicam as seguintes verbas da tabela de despesa extraordinária do orçamento geral em vigor:
 
-### Capítulo 12.º, artigo 330.º «Plano Intercalar de Fomento»:
+Capítulo 12.º, artigo 330.º «Plano Intercalar de Fomento»:
 
 V) «Indústria»:
 
@@ -128,7 +144,7 @@ a) «Do empréstimo da metrópole ([Decreto-Lei n.º 46683](https://diariodarepu
 
 2) Um de 557716$70, utilizando como contrapartida igual importância a sair do empréstimo da metrópole autorizado pelo [Decreto-Lei n.º 43519](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43519-1961-554816), de 28 de Fevereiro de 1961, consignado ao reforço com estas quantias das verbas da mesma tabela de despesa que se seguem:
 
-### Capítulo 12.º, artigo 330.º «Plano Intercalar de Fomento»:
+Capítulo 12.º, artigo 330.º «Plano Intercalar de Fomento»:
 
 VI) «Transportes e comunicações»:
 
@@ -140,7 +156,7 @@ VII) «Turismo» ... 400000$00
 
 3) Um de 13206694$40, usando como contrapartida o rendimento das concessões petrolíferas, para reforço das verbas da mesma tabela de despesa com as seguintes importâncias:
 
-### Capítulo 12.º, artigo 330.º «Plano Intercalar de Fomento»:
+Capítulo 12.º, artigo 330.º «Plano Intercalar de Fomento»:
 
 VI) «Transportes e comunicações»:
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/038a00/11911200.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/27/2002/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2002-284359
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c44058c0b61d00e108afa3414543047c66020089a4a156645067f19727db699
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ced18dbef4be2e45e78e576a07c07694a2ecc4c0e94264dede56ddf906cc2ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,25 @@ reuse:
 subjects:
 - Acidente de Navegação Marítima
 - Aproximação das Legislações
-- Embarcação
 - Certificado de Conformidade
-- Transporte Marítimo
 - Contra-ordenação
+- Embarcação
 - Fiscalização
 - Instituto Marítimo-portuário
 - Investigação
 - Segurança Marítima
+- Transporte Marítimo
 - Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:147432950:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:584400:por
+  label: "Alterado o art. 2.º, pelo DEC LEI.51/2005.25.02.2005.MDN, DR.IS-A [40] de 25.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-2005-584400
+  date: '2005-02-25'
 - type: cites
   target: celex:31995R3051
   label: null
@@ -98,16 +103,27 @@ relationships:
   target: celex:31999L0035
   label: null
   source: http://data.europa.eu/eli/dir/1999/35/oj
+- type: repealed_by
+  target: pt:dre:553057:por
+  label: "Revogado o art. 12º pela LEI.18/2012.07.05.2012.AR, DR.IS [88] de 07.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/18-2012-553057
+  date: '2012-05-07'
+- type: repealed_by
+  target: pt:dre:147432950:por
+  label: Revogado, a partir de 03.12.2020, o presente diploma, pelo(a) Decreto-Lei n.º 93/2020 - Diário da República n.º 214/2020,
+    Série I de 2020-11-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2020-147432950
+  date: '2020-11-03'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:23Z'
   warnings: []
   errors: []
 ---
@@ -350,15 +366,15 @@ O presente diploma entra em vigor no dia imediato ao da publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Rui Eduardo Ferreira Rodrigues Pena - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 28 de Janeiro de 2002.**
+Promulgado em 28 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Janeiro de 2002.**
+Referendado em 31 de Janeiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Requisitos específicos a satisfazer pelas companhias
 

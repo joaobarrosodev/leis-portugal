@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/14900/27652771.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,126 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1990-575345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:17:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e784588e2605fdabe87c65936fa4391906b2d2cfcc6ecd7b7b3d93db2565404d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d36d48c4d8f05b4ae961973dcd2005df69af47b72ce813176201c883232570e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:17:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Fiscalização
+- Conselho Administrativo
+- Definição de Competências
+- Gestão de Recursos Humanos
+- Gestão do Património
+- Gestão Financeira
+- Instituto Nacional da Propriedade Industrial
+- Integração de Trabalhadores
+- Orgânica
+- Presidente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:191557:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:168625:por
+  label: "Substituído, no referente ao grupo de pessoal de informática, o quadro de pessoal do Instituto Nacional da Propriedade\
+    \ Industrial, constante do mapa I anexo pela PORT.142/92.05.03.1992.MF, DR.IS-B [54] de 05.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/142-1992-168625
+  date: '1992-03-05'
+- type: amended_by
+  target: pt:dre:621733:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL, PELA PORT 1219/92 DE 29-DEZ DR.IS-B
+    [299], NA PARTE RELATIVA AO GRUPO DE PESSOAL TECNICO-PROFISSIONAL, NÍVEL 4
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1219-1992-621733
+  date: '1992-12-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL APROVADO, PELA PORT 517/95 DE 31-MAI
+    DR.IS-B [126]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-05-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: TRANSITOU PARA A TUTELA DO MINISTÉRIO DA ECONOMIA PELO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:2280947:por
+  label: "ALTERADO O MAPA 1 PELA PORT 58/96IIS DE 22-MAR DA PCM, MF E MECO DR.IIS [147] DE 27/JUN/1996\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/58-1996-2280947
+  date: '1996-06-27'
+- type: amended_by
+  target: pt:dre:1325710:por
+  label: "Alterado o quadro de pessoal pela PORT.723/97(2ªSÉRIE).1997.09.05.PCM, MF E MECO DR.IIS [217] DE 19/SET/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/723-1997-1325710
+  date: '1997-09-05'
+- type: amended_by
+  target: pt:dre:779586:por
+  label: "Alterado o quadro de pessoal pelo DC.513/98.1998.07.10.PCM, DR.IIS [175] de 31/Jul/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/513-1998-779586
+  date: '1998-07-10'
+- type: amended_by
+  target: pt:dre:2352610:por
+  label: "Alterado o quadro de pessoal anexo ao presnete diploma pela PORT.1185/98(2ªSÉRIE).1998.11.10.PCM, DR.IIS [272] de\
+    \ 24/Nov/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1185-1998-2352610
+  date: '1998-11-10'
+- type: amended_by
+  target: pt:dre:3665885:por
+  label: "Alterado o quadro de pessoal anexo, pela PORT.622/2000(2ªSÉRIE).2000.03.09.MECO, DR.IIS [81]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/622-2000-3665885
+  date: '2000-03-09'
+- type: cites
+  target: pt:dre:140498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620758:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:191557:por
+  label: "Revogado pelo DEC LEI.400/98.1998.12.17.MECO DR.IS-A [290], a partir da sua entrada em vigor, sem prejuízo da aplicação\
+    \ do disposto no seu art. 3º relativamente à manutenção do quadro de pessoal do presente diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/400-1998-191557
+  date: '1998-12-17'
 article_structure:
   article_count: 28
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:17:33Z'
   warnings: []
   errors: []
 ---
@@ -300,7 +386,9 @@ a) A Divisão de Informação e Divulgação;
 
 b) A Divisão de Informática.
 
-###### Artigo 14.º — Divisão de Informação e Divulgação
+###### Artigo 14.º
+
+##### Divisão de Informação e Divulgação
 
 Compete à Divisão de Informação e Divulgação:
 
@@ -316,7 +404,9 @@ e) Assegurar a edição das publicações do INPI e a actividade de microfilmage
 
 f) Assegurar as relações públicas do INPI e a prestação de informação ao público utente.
 
-###### Artigo 15.º — Divisão de Informática
+###### Artigo 15.º
+
+##### Divisão de Informática
 
 Compete à Divisão de Informática:
 
@@ -340,7 +430,9 @@ a) A Divisão de Organização e Gestão;
 
 b) A Repartição Administrativa.
 
-###### Artigo 17.º — Divisão de Organização e Gestão
+###### Artigo 17.º
+
+##### Divisão de Organização e Gestão
 
 Compete à Divisão de Organização e Gestão:
 
@@ -472,21 +564,21 @@ Presidência do Conselho de Ministros, 23 de Abril de 1990.
 
 Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Filipe Alves Monteiro.
 
-**Promulgado em 11 de Junho de 1990.**
+Promulgado em 11 de Junho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Junho de 1990.**
+Referendado em 16 de Junho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo I, a que se refere o n.º 1 do artigo 24.º
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14900/27652771.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14900/27652771.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14900/27652771.pdf)
 
 Conteúdos funcionais
 

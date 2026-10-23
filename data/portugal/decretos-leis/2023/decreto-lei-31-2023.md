@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/08700/0001000016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/31/2023/05/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2023-212591474
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ac720f099af53084f5a025283bb752827228d6c6ad682f340b18dfda9d211f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ecaa89e86af02ab977060fee23438c583b9de5d61c77d809185a369aca3c64f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,22 @@ subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
 - Cartão de Identificação
-- Pessoal Dirigente
 - Comissão de Serviço
 - Conselho Administrativo
 - Conselho Superior dos Tribunais Administrativos e Fiscais
-- Sistema Judicial
 - Conta de Gerência
 - Criação de Serviços
 - Definição de Competências
 - Gabinete Técnico
+- Gestão de Recursos Humanos
 - Juiz
 - Orçamento
 - Orgânica
+- Pessoal Dirigente
 - Presidente
 - Quadro de Pessoal
 - Recursos Humanos
-- Gestão de Recursos Humanos
+- Sistema Judicial
 - Supremo Tribunal Administrativo
 - Tribunal Administrativo e Fiscal
 relationships:
@@ -112,16 +112,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2013/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2013/08/26/p/dre
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544376:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:52Z'
   warnings: []
   errors: []
 ---
@@ -384,16 +408,18 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 13 de abril de 2023. - Mariana Guimarães Vieira da Silva - Mariana Guimarães Vieira da Silva - Catarina Teresa Rola Sarmento e Castro - Fernando Medina Maciel Almeida Correia.
 
-**Promulgado em 28 de abril de 2023.**
+Promulgado em 28 de abril de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 2 de maio de 2023.**
+Referendado em 2 de maio de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — Mapa a que se refere o n.º 4 do artigo 14.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/08700/0001000016.pdf))](https://files.diariodarepublica.pt/1s/2023/05/08700/0001000016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/08700/0001000016.pdf)
+
+116425094

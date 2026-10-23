@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/46/1995/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1995-196965
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f463e536b566b72c9bbe6307a44b19e73a10222a63e4c89497cf7df54e52b35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2869220f4b9d55b9b66a232aa8896321d1d0a2cc68094c050fbbcfa31f6507e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
 subjects:
 - Acumulação de Pensões e Remunerações
 - Alfândega
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Despachante Oficial
+- Formação Profissional
 - Indemnização
+- Instituto do Emprego e Formação Profissional
 - Mercado Interno CE
-- Reforma Antecipada
 - Pensão de Velhice
 - Pessoal Administrativo
 - Prestações da Segurança Social
 - Prorrogação de Prazo
 - Proteção no Desemprego
 - Reconversão Profissional
+- Reforma Antecipada
 - Segurança Social
 - Subsídio de Desemprego
 relationships:
@@ -87,20 +87,30 @@ relationships:
   target: pt:dre:554783:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:554783:por
+  label: "Prorrogada a vigência por mais seis meses a contar de 1 de Janeiro de 1996 os arts. 2º, 3º e 4º, pelo DEC LEI.31/96.1996.04.11.MQE,\
+    \ DR.IS-A [86]\0A [86]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-1996-554783
+  date: '1996-04-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/25/1993/02/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/25/1993/02/05/p/dre
+- type: cites
+  target: pt:dre:645721:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:56Z'
   warnings: []
   errors: []
 ---
@@ -147,12 +157,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Bernardo Veloso Falcão e Cunha.
 
-**Promulgado em 8 de Fevereiro de 1995.**
+Promulgado em 8 de Fevereiro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Fevereiro de 1995.**
+Referendado em 11 de Fevereiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

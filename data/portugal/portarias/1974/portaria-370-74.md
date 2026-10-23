@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/370-1974-476297
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T04:25:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61c1bc283cafa6f91661c0f79c6bf8546b9aa5c9dcd3f081f9c08bde696bee95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 068d112751bba0d6b13c6b4dc4198eab644abb3f373ec739b24a07c3fa5e4efc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:25:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:294899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693240:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:25:44Z'
   warnings: []
   errors: []
 ---
@@ -87,6 +95,6 @@ de 20 de Junho
 
 Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado das Finanças, nos termos do § 3.º do artigo 25.º do Código da Contribuição Industrial, aprovado pelo [Decreto-Lei n.º 45103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45103-1963-693240), de 1 de Julho de 1963, que, para efeitos de determinação da matéria colectável do imposto de mais-valias, se apliquem aos bens de que trata o n.º 2.º do artigo 1.º do Código aprovado pelo [Decreto-Lei n.º 46373](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46373-1965-294899), de 9 de Junho de 1965, alienados em 1974, e aos bens referidos nos n.os 1.º e 3.º do mesmo artigo, alienados posteriormente à publicação da presente portaria, os coeficientes seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/06/14200/07290729.pdf))](https://files.diariodarepublica.pt/1s/1974/06/14200/07290729.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/06/14200/07290729.pdf)
 
 Secretaria de Estado das Finanças, 11 de Junho de 1974. - Pelo Secretário de Estado das Finanças, António Costa Leal, Subsecretário de Estado do Orçamento.

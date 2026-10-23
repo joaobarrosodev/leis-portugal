@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/07/167a00/44114416.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/171/2004/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2004-527834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f1da5cd45f8c6e44b69999198772136ee277c7f9843c33830e439e46df8e3bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c015ad39cd3f6f2e145f50845d269135e15c41685914186fe1bb588546c7a67f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,56 +65,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
-- Instituto do Emprego e Formação Profissional
+- Caixa de Previdência
+- CASA PIA de Lisboa
 - Centro Nacional de Protecção contra os Riscos Profissionais
-- Ministério do Trabalho e da Solidariedade
 - Centro Regional de Segurança Social
-- Pessoal Dirigente
-- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
-- Ministério da Segurança Social e do Trabalho
-- Instituto de Solidariedade e Segurança Social
-- Departamento de Relações Internacionais de Segurança Social
-- Direcção Geral da Segurança Social
+- Comissão do Mercado Social de Emprego
+- Conselho Nacional de Segurança Social
+- Conselho Nacional para a Promoção do Voluntariado
 - Conselho Nacional para a Reabilitação e Integração das Pessoas com Deficiência
+- Conselho Nacional para a Segurança Higiene e Saúde no Trabalho
 - Coordenador Nacional para os Assuntos da Família
-- Departamento de Acordos Internacionais de Segurança Social
 - Definição de Competências
+- Departamento de Acordos Internacionais de Segurança Social
+- Departamento de Cooperação
 - Departamento de Estudos Estatística e Planeamento
+- Departamento de Estudos Prospectiva e Planeamento
+- Departamento de Relações Internacionais de Segurança Social
+- Departamento para os Assuntos Europeus e Relações Internacionais
+- Direcção Geral da Segurança Social
+- Direcção Geral da Solidariedade e Segurança Social
 - Direcção Geral de Estudos Estatística e Planeamento
-- Lisboa
-- Secretaria Geral
-- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Direcção Geral do Emprego e das Relações de Trabalho
 - Gabinete para a Cooperação
 - Gabinete para os Assuntos Europeus e Relações Internacionais
-- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
-- Instituto de Gestão do Fundo Social Europeu
-- Inspecção Geral
-- Instituto de Gestão Financeira da Segurança Social
-- CASA PIA de Lisboa
+- Inatel
 - Inofor
+- Inspecção Geral
+- Inspecção Geral do Trabalho
+- Instituto da Segurança Social
+- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
+- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Instituto de Gestão do Fundo Social Europeu
+- Instituto de Gestão Financeira da Segurança Social
+- Instituto de Informática e Estatística da Solidariedade
+- Instituto de Solidariedade e Segurança Social
+- Instituto do Emprego e Formação Profissional
 - Instituto para a Qualidade na Formação
 - Instituto para a Segurança Higiene e Saúde no Trabalho
 - Instituto Público
 - Integração de Trabalhadores
-- Santa Casa da Misericórdia
-- Comissão do Mercado Social de Emprego
-- Conselho Nacional para a Segurança Higiene e Saúde no Trabalho
-- Direcção Geral do Emprego e das Relações de Trabalho
-- Inspecção Geral do Trabalho
-- Departamento de Cooperação
-- Departamento de Estudos Prospectiva e Planeamento
-- Departamento para os Assuntos Europeus e Relações Internacionais
-- Direcção Geral da Solidariedade e Segurança Social
-- Instituto de Informática e Estatística da Solidariedade
-- Caixa de Previdência
-- Conselho Nacional de Segurança Social
-- Conselho Nacional para a Promoção do Voluntariado
+- Lisboa
+- Ministério da Segurança Social e do Trabalho
+- Ministério do Trabalho e da Solidariedade
 - Observatório do Emprego e Formação Profissional
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Santa Casa da Misericórdia
+- Secretaria Geral
+- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
 - Serviços Sociais
-- Inatel
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
@@ -122,6 +122,51 @@ relationships:
   target: pt:dre:638546:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Alterada a orgânica pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004, nos termos dos seus\
+    \ arts 8º, 10º, 22º e 39º, e determinada a transição para o Ministério da Segurança Social, da Família e da Criança dos\
+    \ serviços e organismos compreendidos no agora extinto Ministério da Segurança Social e do Trabalho, com excepção do Instituto\
+    \ para a Segurança, Higiene e Saúde no Trabalho, criado pelo presente diploma, que transita para o Ministério das Actividades\
+    \ Económicas e do Trabalho e dos serviços e organismos que transitam para a Presidência do Conselho de Ministros \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:545639:por
+  label: "Extintos a Direcção-Geral de Estudos, Estatística e Planeamento, o Gabinete para os Assuntos Europeus e Relações\
+    \ Internacionais, o Gabinete para a Cooperação e o Instituto para a Segurança, Higiene e Saúde no Trabalho, criados no\
+    \ âmbito do ex-Ministério da Segurança Social e do Trabalho pelo presente diploma e posteriormente integrados no ex-Ministério\
+    \ da Segurança Social, da Família e da Criança pelo Dec Lei 5/2005 de 05-Jan (já revogado) pelo DEC LEI.211/2006.27.10.2006.MTSSO,\
+    \ DR.IS [208] de 27.10.2006, nos termos do preceituado no respectivo art. 36º, sendo as suas atribuições integradas, relativamente\
+    \ aos três primeiros organismos no Gabinete de Estratégia e Planeamento e, relativamente ao ISHST na Autoridade para as\
+    \ Condições de Trabalho\0o\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2006-545639
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:638527:por
+  label: "Determinado que a DGERT suceda nas atribuições, em matéria de acreditação das entidades formadoras, ao Instituto\
+    \ para a Qualidade da Formação,I.P., constante do do presente diploma, e sucessor do Instituto para a Inovação da Formação\
+    \ - INOFOR, cuja criação e orgânica constam do Dec Lei 115/97, de 12-Mai, pelo DEC LEI.210/2007.29.05.2007.MTSSO, DR.IS\
+    \ [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-2007-638527
+  date: '2007-05-29'
+- type: amended_by
+  target: pt:dre:638546:por
+  label: "Determinado que a DGSS suceda nas atribuições técnicas e normativas do Departamento de Acordos Internacionasa de\
+    \ Segurança Social, sucessor da ex-DRISS através do do presente diploma, cuja orgânica consta do Dec Lei 320/95, de 28-Nov,\
+    \ e revogado, a partir de 01.06.2007 e nos termos do art. 5º do Dec Lei 201/2006, de 27 de Outubro, pelo DR.64/2007.29.05.2007.MTSSO,\
+    \ DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/64-2007-638546
+  date: '2007-05-29'
+- type: amended_by
+  target: pt:dre:638547:por
+  label: "Determinado que o GEP suceda nas atribuições da Direcção-Geral de Estudos, Estatística e Planeamento, do Gabinete\
+    \ para os Assuntos Europeus e Relações Internacionais e do Gabinete para a Cooperação, que se extinguem, todos criados\
+    \ no âmbito de ex-Ministério da Segurança Social e do Trabalho pelo presente diploma, e posteriormente integrados no ex-Ministério\
+    \ da Segurança Social, da Família e da Criança pelo Dec Lei 5/2005, de 05-Jan, pelo DEC LEI.209/2007.29.05.2007.MTSSO,\
+    \ DR.IS [103] de 29.05.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2007-638547
+  date: '2007-05-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/115/1998/05/04/p/dre
   label: null
@@ -142,16 +187,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:474696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:457199:por
+  label: "Revogado pelo DEC LEI.5/2005.05.01.2005.MSSFC, DR.IS-A [3] de 05.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-2005-457199
+  date: '2005-01-05'
 article_structure:
   article_count: 42
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:23Z'
   warnings: []
   errors: []
 ---
@@ -526,15 +596,15 @@ As referências à comissão executiva do IEFP, à direcção do INATEL e ao con
 
 Visto e aprovado em Conselho de Ministros de 3 de Junho de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - José David Gomes Justino - Luís Filipe Pereira - António José de Castro Bagão Félix.
 
-**Promulgado em 2 de Julho de 2004.**
+Promulgado em 2 de Julho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Julho de 2004.**
+Referendado em 8 de Julho de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (mapa a que se refere o n.º 4 do artigo 34.º)
 

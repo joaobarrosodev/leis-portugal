@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/557-1972-691255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 422860e342c332f7464bd15f5c870b6d58e7f6971f5af2ca1201f7cdae24627e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2939f0c5c1e4c33c72eb31f06df776bb482e1a34f3c322a12de1ed3ad855d275
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:167398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559043:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:14Z'
   warnings: []
   errors: []
 ---
@@ -91,6 +99,6 @@ Ministérios das Obras Públicas e da Educação Nacional, 7 de Setembro de 1972
 
 Ajustamentos introduzidos na localização e agrupamento de edifícios e salas previstos no plano de construções, aprovado pelo [Decreto n.º 43674](https://diariodarepublica.pt/dr/detalhe/decreto/43674-1961-167398), de 8 de Maio de 1961
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/22500/13951395.pdf))](https://files.diariodarepublica.pt/1s/1972/09/22500/13951395.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/22500/13951395.pdf)
 
-**O Ministro das Obras Públicas, Rui Alves da Silva Sanches. - O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro das Obras Públicas, Rui Alves da Silva Sanches. - O Ministro da Educação Nacional, José Veiga Simão.

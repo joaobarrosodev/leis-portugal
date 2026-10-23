@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/94-1977-141806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T05:32:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 372a9f8ab4ff11fba7938cbff83a27f17f36f7881ec5aeffec098851512a2960
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c09995ecbed892e8702488beccb925b45a1d64376518f831905aac7ec366d79a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:32:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Actualização de Pensões
+- Pensão de Invalidez
+- Pensão de Velhice
 relationships:
 - type: amended_by
   target: pt:dre:434602:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139901:por
+  label: Alterado o n.º 2 da norma X pelo(a) Portaria n.º 201/77 - Diário da República n.º 85/1977, Série I de 1977-04-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/201-1977-139901
+  date: '1977-04-12'
+- type: amended_by
+  target: pt:dre:434602:por
+  label: Substituida a tabela inserta no n.º 1 da norma XIV pelo(a) Decreto Regulamentar n.º 24/78 - Diário da República n.º
+    161/1978, 2º Suplemento, Série I de 1978-07-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/24-1978-434602
+  date: '1978-07-15'
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:32:06Z'
   warnings: []
   errors: []
 ---
@@ -229,7 +263,7 @@ XIII - 1. Se o beneficiário receber pensão de invalidez ou de velhice por mais
 
 XIV - 1. A tabela inserta no n.º 7 da [Portaria n.º 789/75](https://diariodarepublica.pt/dr/detalhe/portaria/789-1975-355284), de 31 de Dezembro, é substituída pela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/04500/02830286.pdf))](https://files.diariodarepublica.pt/1s/1977/02/04500/02830286.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/04500/02830286.pdf)
 
 2. Para os pensionistas da Caixa de Previdência do Pessoal da Companhia Carris de Ferro de Lisboa com pensões iniciadas antes de 1949 tomar-se-á como ano de início, para efeitos do número anterior, o ano de 1949.
 

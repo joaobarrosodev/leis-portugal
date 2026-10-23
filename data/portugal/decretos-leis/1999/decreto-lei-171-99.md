@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/116a00/26772679.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/171/1999/05/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1999-323950
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:07:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce5b53d8ee7efd1bcac931ab58699dc4b2b3b8d2299d9c7b5378ad4c46878e67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e1d9755d6bf5786f9cf14a85ad8c8d94e6e4e636c68f559a9d69656d120412c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:07:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
+- Comércio
 - Comissão de Aplicação de Coimas em Matéria Económica
 - Contra-ordenação
 - Contrastaria
 - Controlo de Qualidade
 - Fiscalização
 - Inspecção Geral das Actividades Económicas
-- Metal Precioso
-- Regulamento das Contrastarias
 - Joalharia e Ourivesaria
-- Comércio
+- Metal Precioso
+- Multa
+- Regulamento das Contrastarias
 relationships:
 - type: amended_by
   target: pt:dre:70042475:por
@@ -86,16 +86,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/57/1998/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/57/1998/03/16/p/dre
+- type: cites
+  target: pt:dre:186542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550069:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70042475:por
+  label: Revogado a partir de 16.11.2015 pelo(a) Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/98-2015-70042475
+  date: '2015-08-18'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:07:05Z'
   warnings: []
   errors: []
 ---
@@ -212,12 +229,12 @@ São revogados os artigos 59.º a 69.º, 71.º a 76.º, 95.º e 96.º, do Regula
 
 Visto e aprovado em Conselho de Ministros de 19 de Fevereiro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Vítor Manuel Sampaio Caetano Ramalho.
 
-**Promulgado em 23 de Abril de 1999.**
+Promulgado em 23 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Maio de 1999.**
+Referendado em 12 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

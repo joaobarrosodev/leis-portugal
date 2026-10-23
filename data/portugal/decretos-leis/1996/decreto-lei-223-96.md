@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/223/1996/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1996-199844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:45:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ecc4486e3aa6e0e0cde7c3c341e8f5f5370fefcc93c257e5d2ac0c9f98d396e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9d413375b288f3e6c07cfe7ebeb175f9a3f14dd40f27ce3ec2d3336b26222cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:45:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,32 @@ reuse:
 subjects:
 - Bagagem
 - Indemnização
-- Veículo
-- Transporte de Mercadorias
+- Mercadoria
 - Regulamentação dos Transportes
 - Regulamento
 - Regulamento de Transportes em Automóveis
-- Mercadoria
 - Transporte
 - Transporte de Carga
+- Transporte de Mercadorias
 - Transporte de Passageiros
 - Transporte Público
 - Transporte Urbano
-relationships: []
+- Veículo
+relationships:
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:45:57Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +125,7 @@ Os artigos 169.º, 170.º e 172.º do Regulamento de Transportes em Automóveis,
 
 § 5.º O montante de 10$00 previsto no § 1.º será automaticamente actualizado na percentagem de aumento médio fixada para os preços dos transportes colectivos rodoviários interurbanos de passageiros, nos termos da legislação aplicável.
 
-###### Artigo 170.º
+Artigo 170.º
 
 ...
 
@@ -131,7 +135,7 @@ Os artigos 169.º, 170.º e 172.º do Regulamento de Transportes em Automóveis,
 
 § 4.º O valor de 10$00 previsto no § 1.º ficará automaticamente actualizado pela aplicação do regime previsto no § 5.º do artigo 169.º
 
-###### Artigo 172.º
+Artigo 172.º
 
 ...
 
@@ -145,12 +149,12 @@ b) Se o quantitativo da perda não for provado, uma importância calculada por e
 
 Visto e aprovado em Conselho de Ministros de 10 de Outubro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - João Cardona Gomes Cravinho - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 31 de Outubro de 1996.**
+Promulgado em 31 de Outubro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Novembro de 1996.**
+Referendado em 11 de Novembro de 1996.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.

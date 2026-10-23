@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/02/04100/13701372.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/7/2007/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2007-518851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:31:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40d00a8b0e49f79f4912491192a49a78159b859ca795efde840b31b7b454afd9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e187cdb3609afe21021f637b3e1b2838d83a62d19b65a9aa993f6e133ee1a13a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:31:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Auditoria Jurídica
+- Definição de Competências
+- Gestão de Recursos Humanos
 - Gestão Financeira
 - Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Definição de Competências
-- Secretaria Geral
-- Auditoria Jurídica
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Gestão de Recursos Humanos
+- Secretaria Geral
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:553933:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:247711:por
+  label: "Alterado o art. 2º pelo DEC LEI.32/2008.25.02.2008.MADRP, DR.IS [39] de 25.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2008-247711
+  date: '2008-02-25'
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extinta, sendo objecto de fusão, a Secretaria-Geral do Ministério da Agricultura, do Desenvolvimento Rural e das\
+    \ Pescas (criada pelo Dec Lei 209/206 de 27-Out, ora revogado), cujas atribuições e competências constam do presente diploma,\
+    \ alterado pelo Dec Lei 32/2008 de 25-Fev, pelo DEC LEI.7/2012.17.01.2012.MAMAOT DR.IS [12] de 17.01.2012, nos termos\
+    \ do disposto no nº 3 do seu art. 34; sendo as suas atribuições no domínio da elaboração e do acompanhamento da execução\
+    \ do orçamento integradas no Gabinete de Planeamento e Políticas e as restantes na Secretaria-Geral, ambos do MAMAOT.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
+- type: amended_by
+  target: pt:dre:553933:por
+  label: "Determinado que o GPP suceda nas atribuições diretamente relacionadas com a elaboração e acompanhamento da execução\
+    \ do orçamento, pelo DR.34/2012.26.03.2012.MAMAOT, DR.IS [61] de 26.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/34-2012-553933
+  date: '2012-03-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/209/2006/10/27/p/dre
   label: null
@@ -92,16 +113,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:469605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665945:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553635:por
+  label: "Revogado, a partir de 01.04.2012, o presente diploma, na redacção do Dec Lei 32/2008, de 25-fev, pelo DR.33/2012.20.03.2012.MAMAOT,\
+    \ DR.IS [57] de 20.03.2012, sucedendo a SG do MAMAOT nas atribuições, direitos e obrigações da secretaria-geral do Ministério\
+    \ da Agricultura, do Desenvolvimento Rural e das Pescas, com exceção das atribuições no domínio da elaboração e do acompanhamento\
+    \ da execução do orçamento.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/33-2012-553635
+  date: '2012-03-20'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:31:19Z'
   warnings: []
   errors: []
 ---
@@ -226,16 +271,16 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 2 de Fevereiro de 2007.**
+Promulgado em 2 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 5 de Fevereiro de 2007.**
+Referendado em 5 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Mapa a que se refere o artigo 7.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/04100/13701372.pdf))](https://files.diariodarepublica.pt/1s/2007/02/04100/13701372.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/04100/13701372.pdf)

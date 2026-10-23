@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/11/271a00/42164221.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/219/1996/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1996-198092
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:45:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a85dedd8aaa2a0a616f0db33fa74506b6a5d6eaedc90139d72069d8e2fb738a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb0a882771fb2ef9e04d3b04a9fb55638182ce13178c90aace10f04a7836932e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:45:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aditivo Alimentar
+- Alimento Industrial
+- Alimento para Animais
 - Aproximação das Legislações
-- Saúde Pública
+- Comércio
+- Embalagem
 - Etiquetagem
 - Fabrico Industrial
-- Alimento Industrial
-- Embalagem
 - Informação do Consumidor
-- Aditivo Alimentar
-- Alimento para Animais
 - Regulamento
 - Regulamento do Fabrico Comercialização e Utilização de Aditivos nos Alimentos para Animais
-- Comércio
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:346078:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:323702:por
+  label: "Prorroga, até 1 de Julho de 1998, o regime previsto np n.º 3 do art. 4.º do Dec Lei 440/89, de 27-Dez DR.IS [296],\
+    \ na redacção dada pelo presente diploma, pelo DEC LEI.174/99.1999.05.20.MADRP DR.IS-A [117]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-1999-323702
+  date: '1999-05-20'
 - type: cites
   target: celex:31970L0524
   label: null
@@ -96,16 +102,21 @@ relationships:
   target: celex:31993L0114
   label: null
   source: http://data.europa.eu/eli/dir/1993/114/oj
+- type: repealed_by
+  target: pt:dre:346078:por
+  label: "Revogado pelo DEC LEI.289/99.1999.07.29.MADRP DR.IS-A [175]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-1999-346078
+  date: '1999-07-29'
 article_structure:
-  article_count: 8
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:45:52Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +161,9 @@ Autorizações especiais
 
 3 - A autorização referida no número anterior pode manter-se até 1 de Janeiro de 1997, desde que os responsáveis pela entrada em circulação dos produtos tenham apresentado os respectivos processos, para efeitos de análise e aprovação, nos termos do artigo 10.º do presente Regulamento.
 
-###### Artigo 7.º — Lista de fabricantes autorizados
+Artigo 7.º
+
+Lista de fabricantes autorizados
 
 1 - ...
 
@@ -158,7 +171,9 @@ Autorizações especiais
 
 3 - ...
 
-###### Artigo 8.º — Condições de admissibilidade e de exclusão dos aditivos
+Artigo 8.º
+
+Condições de admissibilidade e de exclusão dos aditivos
 
 1 - ...
 
@@ -176,7 +191,9 @@ a) Cópia de todas as autorizações das autoridades competentes relativas à li
 
 b) O processo técnico completo, incluindo as informações exigidas no anexo II da Portaria n.º 751/94, de 16 de Agosto, bem como a avaliação dos riscos para o ambiente realizada com base nessas informações e o resultado de todo e qualquer estudo efectuado para fins de investigação ou desenvolvimento.
 
-###### Artigo 13.º — Comunicações obrigatórias
+Artigo 13.º
+
+Comunicações obrigatórias
 
 1 - As entidades que fabricam ou comercializam, com ou sem responsabilidade de rotulagem, aditivos ou pré-misturas e as que fabricam, com ou sem responsabilidade de rotulagem, alimentos compostos para animais que contenham aditivos ou pré-misturas comunicam à DGV, no prazo máximo de 30 dias após o início da sua actividade, os elementos seguintes:
 
@@ -202,7 +219,9 @@ b) Quanto a pré-misturas, as quantidades de aditivos utilizados e de pré-mistu
 
 c) Quanto a alimentos compostos, as quantidades de aditivos utilizados, as quantidades de pré-misturas utilizadas e a sua composição, quantidade de alimentos compostos fabricados e espécies animais de destino.
 
-###### Artigo 15.º — Regras gerais de rotulagem de aditivos
+Artigo 15.º
+
+Regras gerais de rotulagem de aditivos
 
 1 - Os aditivos só podem ser comercializados com vista à sua utilização nos alimentos para animais quando estiverem inseridas em língua portuguesa na embalagem, recipiente ou rótulo fixado a este as indicações obrigatórias referidas nos n.os 2 a 8 seguintes, as quais devem ser apresentadas de forma visível, claramente legível e indelével, e que traduzam a responsabilidade do produtor, do importador, do embalador, do vendedor ou do distribuidor.
 
@@ -282,7 +301,9 @@ b) Excluam indicações de carácter profiláctico ou terapêutico;
 
 c) Não induzam o utilizador em erro, nomeadamente atribuindo ao aditivo efeitos ou propriedades que não possui.
 
-###### Artigo 16.º — Regras gerais de rotulagem de pré-misturas
+Artigo 16.º
+
+Regras gerais de rotulagem de pré-misturas
 
 1 - As pré-misturas só podem ser comercializadas com vista à sua utilização nos alimentos para animais quando estiverem inseridas em língua portuguesa na embalagem, recipiente ou rótulo fixado a este as indicações obrigatórias referidas nos n.os 2 a 11 seguintes, as quais devem ser apresentadas de forma visível, claramente legível e indelével, e que traduzam a responsabilidade do produtor, do importador, do embalador, do vendedor ou do distribuidor.
 
@@ -352,7 +373,9 @@ c) Não induzam o utilizador em erro, nomeadamente atribuindo às pré-misturas 
 
 14 - Quando a data limite de garantia ou o prazo de validade a contar da data de fabrico de vários aditivos pertencentes a um mesmo grupo ou a grupos diferentes deva ser declarado pode ser indicada uma só data ou um só prazo de validade para o conjunto dos aditivos, que será, nesse caso, o daquele que caducar primeiro.
 
-###### Artigo 17.º — Regras gerais de rotulagem de alimentos para animais que contenham aditivos
+Artigo 17.º
+
+Regras gerais de rotulagem de alimentos para animais que contenham aditivos
 
 1 - Os alimentos para animais que contenham aditivos só podem ser comercializados quando estiverem inseridas em língua portuguesa na embalagem, recipiente ou rótulo fixado a este as indicações obrigatórias referidas nos n.os 2 a 8 seguintes, que devem ser apresentadas de forma visível, claramente legível e indelével, e que traduzam a responsabilidade do produtor, do importador, do embalador, do vendedor ou do distribuidor.
 
@@ -420,21 +443,23 @@ b) Sempre que seja solicitado o fabricante comunique o nome específico do ou do
 
 14 - Não é permitida qualquer outra indicação nas embalagens, rótulos, dísticos ou etiquetas dos alimentos compostos que contenham aditivos ou pré-misturas além das que constam deste artigo e das previstas pela legislação em vigor respeitante à comercialização de alimentos compostos para animais.
 
-###### Artigo 22.º — Fiscalização, controlo e penalidades nas Regiões Autónomas
+Artigo 22.º
+
+Fiscalização, controlo e penalidades nas Regiões Autónomas
 
 Nas Regiões Autónomas as vistorias previstas no n.º 1 do artigo 7.º e as competências cometidas pelos artigos 18.º, 19.º e 20.º são, respectivamente, realizadas e exercidas pelos correspondentes serviços e organismos das administrações regionais com idênticas funções e competências, constituindo receita das Regiões Autónomas o produto das coimas aí cobradas.»
 
 Visto e aprovado em Conselho de Ministros de 3 de Outubro de 1996. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - Augusto Carlos Serra Ventura Mateus - Luís Manuel Capoulas Santos.
 
-**Promulgado em 6 de Novembro de 1996.**
+Promulgado em 6 de Novembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Novembro de 1996.**
+Referendado em 11 de Novembro de 1996.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira
 
 Vitorino.
 

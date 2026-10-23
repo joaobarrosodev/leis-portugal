@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/880-1973-410939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T04:17:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e59b6dc2ba978e1af87357605f03f10600573f2f282a2c85c67a260bde5ec01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f40e0b804f4cc252723bc3c9b0385920abe3a779e56f7bac53a863f0911508d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:17:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Habilitações Literárias
+- Instrução Militar
+- Marinha
+- Militar
+- Recrutamento Militar
+- Reserva
 relationships:
 - type: amended_by
   target: pt:dre:383003:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:370403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473492:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:383003:por
+  label: "Revogada a Portaria n.º 22016, de 26 de Maio de 1966, alterada pelo presente diploma, pela PORT.138/79.30.03.1979.CR,\
+    \ DR.IS [75] de 30.03.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/138-1979-383003
+  date: '1979-03-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:17:14Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +120,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 3.º As classes e postos do quadro de oficiais da reserva naval são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/28800/23852385.pdf))](https://files.diariodarepublica.pt/1s/1973/12/28800/23852385.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/28800/23852385.pdf)
 
 A classe dos especialistas compreende vários ramos, definidos por despacho do Ministro da Marinha de acordo com as conveniências do serviço.
 

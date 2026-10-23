@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14200/0002000035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/61/2023/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2023-216055961
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ff54464dad7e920577af0eb47d834893103fcc7f67b5911ef93cd31de37c7f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac3df53be0f5e22334b24a16076df09687f83fcdc08f909e6d73063d827e8955
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
 subjects:
 - Agência para o Desenvolvimento e Coesão
 - Ajuda Comunitária
-- Financiamento
+- Comissão de Auditoria e Controlo do PRR
 - Comissão Interministerial
+- Comissão Nacional de Acompanhamento do PRR
 - Definição de Competências
+- Estrutura de Missão Recuperar Portugal
+- Financiamento
 - Fundos CE
-- Primeiro-ministro
 - IVA
 - Plano de Recuperação e Resiliência
-- Comissão Nacional de Acompanhamento do PRR
-- Estrutura de Missão Recuperar Portugal
-- Comissão de Auditoria e Controlo do PRR
+- Primeiro-ministro
 relationships:
 - type: amended_by
   target: pt:dre:812826249:por
@@ -111,16 +111,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:115312062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162756795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207177836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
 article_structure:
-  article_count: 28
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:27Z'
   warnings: []
   errors: []
 ---
@@ -187,7 +211,9 @@ g) Elaborar e aprovar o respetivo regulamento interno.
 
 6 - Nas ausências e impedimentos do Primeiro-Ministro, a Comissão Interministerial é presidida pelo membro do Governo responsável pela área do planeamento.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -221,7 +247,9 @@ e) [Anterior alínea e) do n.º 4.]
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -253,7 +281,9 @@ h) Promover a avaliação dos resultados do PRR, articulando com a Agência, I. 
 
 7 - Para as funções de apoio aos trabalhos da CNA pode ser designado, por despacho do membro do Governo responsável pela área do planeamento e nos termos previstos na resolução do Conselho de Ministros referida no n.º 1, um técnico superior da estrutura de missão 'Recuperar Portugal' com equiparação para efeitos remuneratórios a dirigente superior de 2.º grau.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -273,7 +303,9 @@ c) Apresentar, no âmbito das ações de controlo e auditoria referidas na alín
 
 6 - A Inspeção-Geral de Finanças e a Agência, I. P., asseguram o apoio técnico e administrativo à CAC, podendo para este efeito, sempre que não o possam assegurar por meios próprios, recorrer à contratação externa de serviços de auditoria e de peritos necessários a assegurar o cumprimento das competências da CAC, designadamente para efeitos de aferição do cumprimento dos marcos e metas previstos.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Os membros da CNA e da CAC não têm direito a qualquer remuneração pelo desempenho das suas funções, sem prejuízo do disposto nos números seguintes.
 
@@ -281,7 +313,9 @@ c) Apresentar, no âmbito das ações de controlo e auditoria referidas na alín
 
 3 - Os membros da CNA a que se refere a alínea b) do n.º 2 do artigo 5.º e o membro da CAC a que se refere a alínea b) do n.º 2 do artigo anterior têm direito ao pagamento de senhas de presença e ajudas de custo pela participação nas reuniões, em montante a fixar por despacho dos membros do Governo responsáveis pelas áreas do planeamento e das finanças.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -293,7 +327,9 @@ c) Apresentar, no âmbito das ações de controlo e auditoria referidas na alín
 
 5 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -305,7 +341,9 @@ c) Apresentar, no âmbito das ações de controlo e auditoria referidas na alín
 
 5 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Os financiamentos do PRR não são acumuláveis com outros fundos ou mecanismos europeus para as mesmas despesas.
 
@@ -409,15 +447,15 @@ c) Hipoteca legal, graduando-se logo após os créditos referidos na alínea a) 
 
 Visto e aprovado em Conselho de Ministros de 1 de junho de 2023. - Mariana Guimarães Vieira da Silva - Mariana Guimarães Vieira da Silva - Nuno Miguel Bernardes Coelho Santos Félix - António José da Costa Silva - João Miguel Marques da Costa - Manuel Francisco Pizarro de Sampaio e Castro - José Duarte Piteira Rica Silvestre Cordeiro - Frederico André Branco dos Reis Francisco - Marina Sola Gonçalves.
 
-**Promulgado em 14 de julho de 2023.**
+Promulgado em 14 de julho de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de julho de 2023.**
+Referendado em 14 de julho de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -706,3 +744,5 @@ As reformas e os investimentos a realizar nas Regiões Autónomas dos Açores e 
 ###### Artigo 14.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+116684619

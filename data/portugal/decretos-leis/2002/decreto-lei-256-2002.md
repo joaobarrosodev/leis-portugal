@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/11/270a00/73447346.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/256/2002/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2002-448754
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b502321a05f52801221afcc7501d144994834785444557762c27049aa18562b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db791f942f62bff2b18729fa1421eb05d1467f694023ffacf586eaa6e2ada78b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,6 +82,21 @@ relationships:
   target: pt:dre:521009:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545646:por
+  label: "Extinto, sendo objecto de fusão, o Gabinete de Assuntos Europeus e Relações Externas, criado pelo presente diploma,\
+    \ cujas atribuições nos termos da al. a) do nº 2 do art. 26.º são integradas no Gabinete de Planeamento Estratégico e\
+    \ Relações Internacionais, pelo DEC LEI.210/2006.27.10.2006.MOPTC, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-2006-545646
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:521009:por
+  label: "Determinada a sucessão do Gabinete de Planeamento, Estratégia e Relações Interanacionais (GPERI) nas atribuições\
+    \ do Gabinete dos Assuntos Europeus e Relações Externas (que se extingue) constantes do presente diploma, que é revogado\
+    \ a partir de 01.05.2007, nos termos do art. 5º do Dec Lei 201/2006 de 27-Out, pelo DR.59/2007.27.04.2007.MOPTC, DR.IS\
+    \ [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/59-2007-521009
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/100/1999/03/31/p/dre
   label: null
@@ -102,16 +117,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660490:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:08Z'
   warnings: []
   errors: []
 ---
@@ -250,15 +285,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 6 de Novembro de 2002.**
+Promulgado em 6 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Novembro de 2002.**
+Referendado em 13 de Novembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Mapa a que se refere o n.º 1 do artigo 6.º
 

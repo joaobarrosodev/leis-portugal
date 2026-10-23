@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/679-1978-326369
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T05:47:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0bbf175dca657a4fc66d600f95f43de257903b277a811080f5e37876def24a6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69f9aa04a3bfaf12149abb66997032be6f9dacbc5a16fd210ef1c9bc901d9383
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:47:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Diploma
+- Ensino Básico
+- Ensino Preparatório
+- Estudante
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:47:15Z'
   warnings: []
   errors: []
 ---
@@ -100,4 +104,4 @@ d) Diploma de conclusão do ensino básico.
 
 Ministério da Educação e Cultura, 3 de Novembro de 1978. - O Ministro da Educação e Cultura, Carlos Alberto Lloyd Braga.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/27000/24732477.pdf))](https://files.diariodarepublica.pt/1s/1978/11/27000/24732477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/27000/24732477.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/62/2010/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/62-2010-335455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T05:08:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebe3b514131713f4ab652881b6c694c040109a1db2ca528d56001c6532cf85e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9601fecaf1d9e8d137cf5025261e3a05f9ec96375b3bbf99303f841cd958400
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:08:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Base das Lajes
-- Trabalho
-- EUA
 - Convenção
-- Portugal
+- EUA
 - Lisboa
+- Portugal
 - Regulamento
 - Relações de Trabalho
 - Remuneração
-- Açores
 - Tabela Salarial
 - Trabalhador por Conta de Outrem
+- Trabalho
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:08:37Z'
   warnings: []
   errors: []
 ---
@@ -98,16 +98,16 @@ validation:
 
 de 9 de Junho
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo Que Modifica o Regulamento do Trabalho, assinado em 12 de Fevereiro de 1997, assinado em Lisboa em 11 de Julho de 2009, que decorre do Acordo sobre Cooperação e Defesa entre a República Portuguesa e os Estados Unidos da América, aprovado pela Resolução da Assembleia da República n.º 53 /2010, em 7 de Maio de 2010.
 
-**Assinado em 27 de Maio de 2010.**
+Assinado em 27 de Maio de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de Junho de 2010.**
+Referendado em 4 de Junho de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/155/2008/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2008-455082
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b73811d3fc05b6075f402f0b6c0ae872064f503bfe897513c1f73076e4d30733
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2e843b6db0857c274db9579da58680efa94284840fbab2937e72865b7911908
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
+- Alimento para Animais
 - Aproximação das Legislações
-- Proteção dos Animais
 - Contra-ordenação
-- Direção Geral de Veterinária
 - Controlo Sanitário
+- Direção Geral de Veterinária
 - Exploração Pecuária
 - Fiscalização
-- Alimento para Animais
+- Produção Animal
+- Proteção dos Animais
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:64/2000
+  label: "Altera os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, adita o artigo 6.º-A e revoga a alínea h) do artigo\
+    \ 3.º e os n.ºs 2 e 3 dos artigos 6.º e 7.º do Decreto-Lei n.º 64/2000, de 22 de Abril, DR.IS-A [95], e republica-o em\
+    \ anexo\0\0"
+  source: null
+  date: '2000-04-22'
 - type: cites
   target: celex:31998L0058
   label: null
   source: http://data.europa.eu/eli/dir/1998/58/oj
 article_structure:
-  article_count: 25
+  article_count: 17
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:47Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +131,9 @@ Os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º e 10.º do Decreto-Lei
 
 2 - O presente decreto-lei é aplicável sem prejuízo das disposições específicas constantes dos Decretos-Leis n.os 48/2001, de 10 de Fevereiro, 72-F/2003, de 14 de Abril, e 135/2003, de 28 de Junho.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -144,7 +153,9 @@ g) ...
 
 h) (Revogada.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -156,13 +167,17 @@ h) (Revogada.)
 
 5 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Nas explorações pecuárias, os animais são criados e mantidos nas condições fixadas no anexo A do presente decreto-lei, do qual faz parte integrante, tendo em conta as características de cada espécie, o seu nível de desenvolvimento, adaptação e domesticação e as suas necessidades fisiológicas e etológicas, segundo os conhecimentos científicos existentes, cabendo ao proprietário ou detentor dos animais garantir o cumprimento das mesmas.
 
 2 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A fim de garantir a observância do disposto no presente diploma, a DGV, através das suas DSV, efectua, segundo um plano previamente definido, inspecções anuais às explorações registadas ou identificadas na área de cada DSV, podendo ser realizadas em simultâneo com os controlos executados para outros fins.
 
@@ -170,7 +185,9 @@ h) (Revogada.)
 
 3 - (Revogado.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Compete à DGV assegurar a fiscalização do cumprimento das normas do presente decreto-lei, sem prejuízo das competências atribuídas por lei a outras entidades.
 
@@ -178,7 +195,9 @@ h) (Revogada.)
 
 3 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O incumprimento das obrigações previstas no n.º 1 do artigo 4.º constitui contra-ordenação punível com coima cujo montante mínimo é de (euro) 2500 ou (euro) 4000 e o máximo de (euro) 3740 ou (euro) 44 890, consoante o agente seja pessoa singular ou colectiva.
 
@@ -204,7 +223,9 @@ h) (Revogada.)
 
 12 - A tentativa e a negligência são punidas, sendo os limites máximos e mínimos das coimas reduzidos a metade.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, simultaneamente, com a coima as seguintes sanções acessórias:
 
@@ -224,7 +245,9 @@ g) [Anterior alínea e).]
 
 2 - As sanções referidas nas alíneas b) e seguintes do número anterior têm a duração máxima de dois anos contados a partir do trânsito em julgado da decisão condenatória.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A aplicação das coimas e sanções acessórias compete ao director-geral de Veterinária.
 
@@ -270,15 +293,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Junho de 2008. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Rui Carlos Pereira - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 25 de Julho de 2008.**
+Promulgado em 25 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de Julho de 2008.**
+Referendado em 29 de Julho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 64/2000, de 22 de Abril
 
@@ -504,4 +527,4 @@ Processos de reprodução
 
 24 - Os animais só podem ser mantidos em explorações pecuárias se, com base no respectivo genótipo ou fenótipo, tal não vier a ter efeitos prejudiciais para a saúde ou bem-estar dos mesmos.
 
-## ANEXO B — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15200/0532405329.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15200/0532405329.pdf)
+## ANEXO B — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15200/0532405329.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/291/2009/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-2009-491686
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9a5363a99dfb5686799ef00fa289444679e16992555b3e16572549e0fb8a252
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d832c30aa44586d190990cc2c8e21c9c977fc41468bc89700e58d6f08460b05b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atestado Médico
+- Benefícios Fiscais
+- Incapacidade Física
 - Junta Médica
 - Proteção ao Deficiente
-- Incapacidade Física
-- Benefícios Fiscais
 - Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais
 relationships:
 - type: amended_by
   target: pt:dre:837022978:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:175043504:por
+  label: Aditado o art. 4.º-A ao Dec Lei 202/96 de 23-out, na versão republicada pelo presente diploma, pelo(a) Lei n.º 80/2021
+    - Diário da República n.º 231/2021, Série I de 2021-11-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/80-2021-175043504
+  date: '2021-11-29'
+- type: amended_by
+  target: pt:dre:176907537:por
+  label: Alterados, a partir de 28.02.2021 e nos termos do n.º 1 do art. 7.º, os arts. 3.º, 4.º e 6.º, aditado o art 4.º-B
+    e revogado o anexo II ao Dec Lei 202/96 de 23-out, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º
+    1/2022 - Diário da República n.º 1/2022, Série I de 2022-01-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-2022-176907537
+  date: '2022-01-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/174/1997/07/19/p/dre
   label: null
@@ -97,16 +110,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/38/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/38/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:147674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645876:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:51Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +170,9 @@ Objecto e âmbito de aplicação
 
 O presente decreto-lei estabelece o regime de avaliação das incapacidades das pessoas com deficiência, tal como definido no artigo 2.º da [Lei n.º 38/2004](https://diariodarepublica.pt/dr/detalhe/lei/38-2004-480708), de 18 de Agosto, para efeitos de acesso às medidas e benefícios previstos na lei para facilitar a sua plena participação na comunidade.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Sem prejuízo das competências específicas das juntas de saúde dos ramos das Forças Armadas e da Polícia de Segurança Pública e das juntas médicas da Guarda Nacional Republicana, a avaliação das incapacidades das pessoas com deficiência compete a juntas médicas para o efeito constituídas.
 
@@ -151,7 +186,9 @@ b) (Revogada.)
 
 4 - (Revogado.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Os requerimentos de avaliação das incapacidades das pessoas com deficiência são dirigidos ao adjunto do delegado regional de saúde e entregues ao delegado de saúde da residência habitual dos interessados, devendo ser acompanhados de relatório médico e dos meios auxiliares de diagnóstico complementares que os fundamentam.
 
@@ -163,7 +200,9 @@ b) (Revogada.)
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A avaliação da incapacidade é calculada de acordo com a Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais, aprovada pelo [Decreto-Lei n.º 352/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-2007-629107), de 23 de Outubro, tendo por base o seguinte:
 
@@ -197,15 +236,15 @@ São revogados a alínea b) do n.º 2 e os n.os 3 e 4 do artigo 2.º, bem como o
 
 Visto e aprovado em Conselho de Ministros de 20 de Agosto de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Fernando Medina Maciel Almeida Correia - Ana Maria Teodoro Jorge.
 
-**Promulgado em 6 de Outubro de 2009.**
+Promulgado em 6 de Outubro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 7 de Outubro de 2009.**
+Referendado em 7 de Outubro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 202/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1996-226809), de 23 de Outubro
 

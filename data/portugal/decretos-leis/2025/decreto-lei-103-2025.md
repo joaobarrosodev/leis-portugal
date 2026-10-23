@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/103/2025/09/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2025-935004232
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f824f2ece30a08e29ec226a614cc9a2c8d06f6998dce79165aacb3fa2c4cc6da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8230872a2a02cae5a4a22f8ff832165ae16671bec30542222c5cf035d47dc42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Valores Mobiliários
-- Livro de Reclamações
+- Banco de Portugal
+- Base de Dados
 - Central de Responsabilidades de Crédito
+- Cobrança de Dívidas
 - Código das Sociedades Comerciais
 - Fundo de Pensões
-- Banco de Portugal
-- Titularização de Créditos
-- Base de Dados
+- Gestão de Créditos
+- Livro de Reclamações
 - Operações de Capital
 - Operações de Crédito
 - Proteção do Consumidor
-- Cobrança de Dívidas
 - Regulamento CE
 - TAXA de JURO
-- Gestão de Créditos
+- Titularização de Créditos
+- Valores Mobiliários
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:156/2005
+  label: Altera, a partir de 12 de dezembro de 2025, o artigo 11.º, o anexo ao Decreto-Lei n.º 156/2005, de 15 de setembro,
+    Diário da República n.º 178/2005, Série I-A
+  source: null
+  date: '2005-09-15'
+- type: amends
+  target: pt:numero:decreto-lei:133/2009
+  label: Altera, a partir de 12 de dezembro de 2025, o artigo 14.º , revoga o artigo 21.º do Decreto-Lei n.º 133/2009, de
+    2 de junho, Diário da República n.º 106/2009, Série I
+  source: null
+  date: '2009-06-02'
+- type: amends
+  target: pt:numero:decreto-lei:74-A/2017
+  label: Altera, a partir de 12 de dezembro de 2025, os artigos 22.º e 29.º do Decreto-Lei n.º 74-A/2017, de 23 de junho,
+    Diário da República n.º 120/2017, 1º Suplemento, Série I
+  source: null
+  date: '2017-06-23'
+- type: amends
+  target: pt:numero:decreto-lei:27/2023
+  label: Altera, a partir de 12 de dezembro de 2025, os artigos 183.º e 234.º do regime da gestão de ativos, do Decreto-Lei
+    n.º 27/2023, de 28 de abril, Diário da República n.º 83/2023, Série I
+  source: null
+  date: '2023-04-28'
 - type: cites
   target: celex:32008L0048
   label: null
@@ -163,6 +187,97 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/57/2020/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/57/2020/08/28/p/dre
+- type: cites
+  target: pt:dre:107561581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122074191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141377977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212379454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260888:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70215248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75177807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:837135330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:896834901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:925904930:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:204/2008
+  label: Revoga, a partir de 12 de dezembro de 2025, nos termos do artigo 12.º e 13.º do presente diploma, o regime jurídico
+    relativo à Central de Responsabilidades de Crédito, aprovado pelo Decreto-Lei n.º 204/2008, de 14 de outubro, Diário da
+    República n.º 199/2008, Série I
+  source: null
+  date: '2008-10-14'
 - type: transposes
   target: celex:32008L0048
   label: null
@@ -176,15 +291,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 113
+  article_count: 104
   section_count: 35
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:42Z'
   warnings: []
   errors: []
 ---
@@ -233,7 +348,7 @@ c) Alteração ao [Decreto-Lei n.º 453/99](https://diariodarepublica.pt/dr/deta
 
 d) Alteração ao [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320), de 15 de setembro, na sua redação atual, que estabelece a obrigatoriedade de disponibilização do livro de reclamações a todos os fornecedores de bens ou prestadores de serviços que tenham contacto com o público em geral;
 
-e) Quinta alteração ao [Decreto-Lei n.º 133/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), de 2 de junho, alterado pelos Decretos-Leis n.<sup>os</sup>[72-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2010-569757), de 18 de junho, [42-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2013-276440), de 28 de março, e [74-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), de 23 de junho, e pela [Lei n.º 57/2020](https://diariodarepublica.pt/dr/detalhe/lei/57-2020-141377977), de 28 de agosto, que transpõe para a ordem jurídica interna a [Diretiva 2008/48/CE](https://data.europa.eu/eli/dir/2008/48/oj?locale=pt) do Parlamento Europeu e do Conselho, de 23 de abril, relativa a contratos de crédito aos consumidores;
+e) Quinta alteração ao [Decreto-Lei n.º 133/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), de 2 de junho, alterado pelos Decretos-Leis n.os[72-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2010-569757), de 18 de junho, [42-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2013-276440), de 28 de março, e [74-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), de 23 de junho, e pela [Lei n.º 57/2020](https://diariodarepublica.pt/dr/detalhe/lei/57-2020-141377977), de 28 de agosto, que transpõe para a ordem jurídica interna a [Diretiva 2008/48/CE](https://data.europa.eu/eli/dir/2008/48/oj?locale=pt) do Parlamento Europeu e do Conselho, de 23 de abril, relativa a contratos de crédito aos consumidores;
 
 f) Sexta alteração ao [Decreto-Lei n.º 74-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), de 23 de junho, na sua redação atual, que aprova o regime dos contratos de crédito relativos a imóveis, estabelecendo as regras aplicáveis ao crédito a consumidores quando garantido por hipoteca ou por outro direito sobre coisa imóvel, e procede à transposição parcial para a ordem jurídica interna da [Diretiva 2014/17/UE](https://data.europa.eu/eli/dir/2014/17/oj?locale=pt), do Parlamento Europeu e do Conselho, de 4 de fevereiro de 2014, relativa a contratos de crédito aos consumidores para imóveis destinados a habitação e que altera as Diretivas [2008/48/CE](https://data.europa.eu/eli/dir/2008/48/oj?locale=pt) e [2013/36/UE](https://data.europa.eu/eli/dir/2013/36/oj?locale=pt) e o [Regulamento (UE) n.º 1093/2010](https://data.europa.eu/eli/reg/2010/1093/oj?locale=pt), alterada pelo [Regulamento (UE) 2016/1011](https://data.europa.eu/eli/reg/2016/1011/oj?locale=pt), do Parlamento Europeu e do Conselho, de 8 de junho de 2016;
 
@@ -267,7 +382,9 @@ b) Transpõe parcialmente, para a ordem jurídica interna, a [Diretiva (UE) 2021
 
 4 - [...]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]
 
@@ -293,7 +410,9 @@ g) [...]
 
 2 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A gestão de créditos objeto de cessão para titularização é assegurada:
 
@@ -317,9 +436,11 @@ b) Pelo cedente, sempre que seja uma empresa de seguros, fundo de pensões ou so
 
 9 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
 
-1 - Sem prejuízo do disposto nos n.<sup>os</sup>4 e 9, a eficácia da cessão em relação aos devedores fica dependente de notificação prévia.
+[...]
+
+1 - Sem prejuízo do disposto nos n.os4 e 9, a eficácia da cessão em relação aos devedores fica dependente de notificação prévia.
 
 2 - [...]
 
@@ -345,13 +466,17 @@ a) Da contratação prevista na alínea a) do n.º 1 do artigo anterior; e
 
 b) Do envio da notificação prevista no n.º 1 do artigo seguinte.
 
-###### Artigo 8.º-A — [...]
+Artigo 8.º-A
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - Compete ao Banco de Portugal a supervisão, com os poderes e nos termos do RCGCB, do cumprimento dos deveres previstos no artigo 1.º-A, na subalínea iii) da alínea d) do n.º 1 do artigo 2.º, na alínea a) do n.º 1 do artigo 5.º, no n.º 9 do artigo 6.º e no artigo 6.º-A.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -379,7 +504,9 @@ e) Alienação de créditos em cumprimento a outros fundos de titularização de
 
 8 - [...]
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos números seguintes, as sociedades de titularização de créditos só podem ceder créditos a fundos de titularização de créditos, a outras sociedades de titularização de créditos, a instituições de crédito, a sociedades financeiras e a organismos de investimento alternativo de créditos.
 
@@ -501,7 +628,9 @@ b) A indicação de que o consumidor pode, a todo o tempo, apresentar uma reclam
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 [...]
 
@@ -643,7 +772,9 @@ Os artigos 183.º e 234.º do regime da gestão de ativos, passam a ter seguinte
 
 4 - Quando tenham em conta os principais impactos negativos das decisões de investimento sobre os fatores de sustentabilidade, nos termos previstos na legislação da União Europeia relativa à divulgação de informações relacionadas com a sustentabilidade no setor dos serviços financeiros, as sociedades gestoras de OICVM consideram-nos no cumprimento dos requisitos estabelecidos nos números anteriores.
 
-###### Artigo 234.º — [...]
+Artigo 234.º
+
+[...]
 
 1 - [...]
 
@@ -665,7 +796,9 @@ Cessão de créditos bancários para efeitos de titularização
 
 Em caso de cessão abrangida pelo regime da cessão e da gestão de créditos bancários, que consta do anexo i do Decreto-Lei n.º [103/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2025-935004232), de 11 de setembro (RCGCB), a cessão de créditos para efeitos de titularização observa ainda, com as necessárias adaptações, o disposto no artigo 6.º, 9.º, 13.º, 27.º, 29.º, 30.º, 34.º e 35.º do referido regime.
 
-###### Artigo 6.º-A — Comunicação em cessão de créditos bancários para efeitos de titularização
+Artigo 6.º-A
+
+Comunicação em cessão de créditos bancários para efeitos de titularização
 
 1 - A notificação prevista na alínea b) do n.º 9 do artigo anterior é efetuada no prazo de 10 dias após a cessão e, em qualquer caso, antes da primeira cobrança, em papel ou noutro suporte duradouro, redigida em linguagem clara e compreensível para o público em geral e contém, pelo menos, os seguintes elementos:
 
@@ -697,7 +830,7 @@ b) Os elementos previstos nas alíneas c) e d) do n.º 1, no caso da primeira co
 
 1 - No âmbito de cessão de créditos ou da posição contratual em contratos de crédito entre instituições de crédito relativamente a créditos ou contratos de crédito previstos na alínea c) do n.º 1 do artigo 5.º do RCGCB, a instituição de crédito cedente com sede em Portugal presta a informação prévia à instituição de crédito cessionária, de acordo com o modelo de dados estabelecido na regulamentação da União Europeia.
 
-2 - É correspondentemente aplicável o disposto nos n.<sup>os</sup>2 a 4 do artigo 8.º do RCGCB.
+2 - É correspondentemente aplicável o disposto nos n.os2 a 4 do artigo 8.º do RCGCB.
 
 ###### Artigo 12.º — Regulamentação
 
@@ -707,9 +840,9 @@ Sem prejuízo do disposto no artigo seguinte, a regulamentação adotada ao abri
 
 São revogados:
 
-a) O regime jurídico relativo à Central de Responsabilidades de Crédito, aprovado pelo [Decreto-Lei n.º 204/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2008-452697), de 14 de outubro, alterado pelos Decretos-Leis n.<sup>os</sup>[47/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2019-122074191), de 11 de abril, e [27/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), de 28 de abril;
+a) O regime jurídico relativo à Central de Responsabilidades de Crédito, aprovado pelo [Decreto-Lei n.º 204/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2008-452697), de 14 de outubro, alterado pelos Decretos-Leis n.os[47/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2019-122074191), de 11 de abril, e [27/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), de 28 de abril;
 
-b) O artigo 21.º do [Decreto-Lei n.º 133/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), de 2 de junho, alterado pelos Decretos-Leis n.<sup>os</sup>[72-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2010-569757), de 18 de junho, [42-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2013-276440), de 28 de março, e [74-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), de 23 de junho, e pela [Lei n.º 57/2020](https://diariodarepublica.pt/dr/detalhe/lei/57-2020-141377977), de 28 de agosto.
+b) O artigo 21.º do [Decreto-Lei n.º 133/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), de 2 de junho, alterado pelos Decretos-Leis n.os[72-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2010-569757), de 18 de junho, [42-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2013-276440), de 28 de março, e [74-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), de 23 de junho, e pela [Lei n.º 57/2020](https://diariodarepublica.pt/dr/detalhe/lei/57-2020-141377977), de 28 de agosto.
 
 ###### Artigo 14.º — Aplicação no tempo
 
@@ -735,15 +868,15 @@ b) Os cessionários ficam sujeitos ao disposto no artigo 6.º e no capítulo iii
 
 Visto e aprovado em Conselho de Ministros de 7 de agosto de 2025. - Luís Montenegro - Emídio Ferreira dos Santos Sousa - Joaquim Miranda Sarmento - Manuel Castro Almeida - Rita Alarcão Júdice.
 
-**Promulgado em 12 de agosto de 2025.**
+Promulgado em 12 de agosto de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de agosto de 2025.**
+Referendado em 18 de agosto de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
@@ -1215,7 +1348,7 @@ i) O nome, endereço e outros elementos de contacto da autoridade competente do 
 
 2 - O gestor de créditos assegura, em particular, o cumprimento do disposto no artigo 6.º e ainda do disposto em matéria de:
 
-a) Prestação de informação periódica durante a vigência do contrato, reembolso antecipado dos contratos de crédito, emissão e envio gratuito ao devedor do documento com vista à extinção da garantia real, incumprimento definitivo do contrato e à perda do benefício do prazo nos termos previstos nos Decretos-Leis n.<sup>os</sup>[133/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), de 2 de junho, e [74-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), de 23 de junho, nas suas redações atuais, e na regulamentação aplicável;
+a) Prestação de informação periódica durante a vigência do contrato, reembolso antecipado dos contratos de crédito, emissão e envio gratuito ao devedor do documento com vista à extinção da garantia real, incumprimento definitivo do contrato e à perda do benefício do prazo nos termos previstos nos Decretos-Leis n.os[133/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), de 2 de junho, e [74-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), de 23 de junho, nas suas redações atuais, e na regulamentação aplicável;
 
 b) Designação do cumprimento do contrato de crédito por parte do devedor e do direito à retoma do contrato de crédito, nos termos previstos no [Decreto-Lei n.º 74-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), de 23 de junho, na sua redação atual;
 
@@ -1391,7 +1524,7 @@ b) Decorridos dois meses a contar da comunicação referida no n.º 2, na ausên
 
 1 - O gestor de créditos comunica ao Banco de Portugal, no prazo de 30 dias, qualquer alteração aos elementos referidos no n.º 1 do artigo anterior.
 
-2 - Verificando-se o disposto no número anterior, o Banco de Portugal informa, sem demora, o Estado-Membro de acolhimento e o gestor de créditos, nos termos dos n.<sup>os</sup>2 e 3 do artigo anterior, com as devidas adaptações.
+2 - Verificando-se o disposto no número anterior, o Banco de Portugal informa, sem demora, o Estado-Membro de acolhimento e o gestor de créditos, nos termos dos n.os2 e 3 do artigo anterior, com as devidas adaptações.
 
 #### SECÇÃO II — GESTORES DE CRÉDITOS AUTORIZADOS EM ESTADOS-MEMBROS DA UNIÃO EUROPEIA
 
@@ -1465,7 +1598,7 @@ g) Instrui, decide e aplica sanções em processos de contraordenação.
 
 2 - Os procedimentos previstos nas alíneas b), d) e g) do número anterior são exercidos relativamente a qualquer pessoa, mesmo que não conste do n.º 1 do artigo anterior, em relação a factos que se enquadrem no âmbito de aplicação do presente regime.
 
-3 - Aos prazos da decisão em procedimento administrativo é aplicável o disposto nos n.<sup>os</sup>4 e seguintes do artigo 12.º-A do RGICSF.
+3 - Aos prazos da decisão em procedimento administrativo é aplicável o disposto nos n.os4 e seguintes do artigo 12.º-A do RGICSF.
 
 ###### Artigo 45.º — Prerrogativas de supervisão
 
@@ -1907,7 +2040,7 @@ f) Análise da situação económica e financeira das empresas.
 
 3 - O Banco de Portugal disponibiliza, ainda, às entidades participantes que o requeiram nos termos do número anterior, informação constante da CRC sobre a centralização relativa aos 12 meses anteriores à última centralização disponível relativamente aos clientes que hajam solicitado crédito ou tenham concedido uma autorização para esse efeito.
 
-4 - As entidades participantes referidas na alínea f) e nas subalíneas ii) e iii) da alínea g) do n.º 1 do artigo 3.º podem requerer, para efeitos da renegociação do crédito e nos termos previstos em regulamento do Banco de Portugal, que lhes seja dado conhecimento da informação prevista nos n.<sup>os</sup>2 e 3, mediante consentimento expresso do devedor para o efeito.
+4 - As entidades participantes referidas na alínea f) e nas subalíneas ii) e iii) da alínea g) do n.º 1 do artigo 3.º podem requerer, para efeitos da renegociação do crédito e nos termos previstos em regulamento do Banco de Portugal, que lhes seja dado conhecimento da informação prevista nos n.os2 e 3, mediante consentimento expresso do devedor para o efeito.
 
 5 - As empresas de seguros que explorem seguros de crédito e caução podem aceder à informação centralizada, de acordo com a legislação respetiva e nos termos previstos em regulamento do Banco de Portugal.
 
@@ -2027,7 +2160,7 @@ b) De não cobrar ou repercutir os custos do acesso à CRC ao cliente.
 
 3 - Constitui contraordenação leve a violação de deveres, previstos no presente regime e respetiva regulamentação, não referidos nos números anteriores.
 
-4 - A violação do dever de comunicar o resultado da consulta da CRC é punível de acordo com o regime sancionatório previsto nos Decretos-Leis n.<sup>os</sup>[133/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), de 2 de junho, e [74-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), de 23 de junho, quando esteja em causa um contrato abrangido por esses regimes.
+4 - A violação do dever de comunicar o resultado da consulta da CRC é punível de acordo com o regime sancionatório previsto nos Decretos-Leis n.os[133/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), de 2 de junho, e [74-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), de 23 de junho, quando esteja em causa um contrato abrangido por esses regimes.
 
 ###### Artigo 15.º — Formas da infração
 
@@ -2061,7 +2194,7 @@ Quando a contraordenação for imputável à entidade habilitada a exercer a ges
 
 ## ANEXO III — (a que se refere o artigo 6.º)
 
-## ANEXO — (a que se referem os n.<sup>os</sup>1, 2 e 4 do artigo 2.º, os n.<sup>os</sup>1 e 6 do artigo 5.º e os n.<sup>os</sup>1 e 3 do artigo 11.º)
+## ANEXO — (a que se referem os n.os1, 2 e 4 do artigo 2.º, os n.os1 e 6 do artigo 5.º e os n.os1 e 3 do artigo 11.º)
 
 1 - [...]
 
@@ -2100,3 +2233,5 @@ Quando a contraordenação for imputável à entidade habilitada a exercer a ges
 18 - [...]
 
 19 - [...]
+
+119450136

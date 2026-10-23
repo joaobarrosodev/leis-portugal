@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/06/131a00/25882593.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/154/1998/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1998-473319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:57:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 916410113f01ad77fc224460f50eb4453697478118532446ec54890319be95b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c16eed212466a4cf0dfe7a8d838f5f388582ba0e52a750fb4d421123c2550bce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:57:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,7 +65,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Autarquia Local
 - Concurso
 - Criação de Serviços
 - Definição de Competências
@@ -77,28 +77,78 @@ subjects:
 - Integração de Trabalhadores
 - Orçamento
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Subdirector Geral
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:521003:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:426491:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, pela PORT.606/99.1999.08.09.PCM, DR.IS-B [184]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/606-1999-426491
+  date: '1999-08-09'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros, da Direcção-Geral das Autarquias Locais (integrada\
+    \ no Ministério do Equipamento do Planeamento e da Administração do Território pelo Dec Lei 23/96, de 20-Mar), cuja Lei\
+    \ Orgânica foi aprovada pelo presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:276467:por
+  label: "Transferida a Direcção-Geral das Autarquias Locais da Presidência do Conselho de Ministros para o Ministério do\
+    \ Ambiente e do Ordenamento do Território, pelo DEC LEI.267-A/2000.2000.10.20.PCM DR.IS-A [243]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-a-2000-276467
+  date: '2000-10-20'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério das Cidades, Administração Local, Habitação e Desenvolvimento Regional\
+    \ da Direcção-Geral das Autarquias Locais (integrada no agora extinto Ministério das Cidades, Ordenamento do Território\
+    \ e Ambiente), pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros, da Direcção-Geral cuja orgânica foi aprovada\
+    \ no presente diploma, ficando na dependência do Ministro de Estado e da Administração Interna, pelo DEC LEI.79/2005.15.04.2005.PCM,\
+    \ DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/34/1993/02/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/34/1993/02/13/p/dre
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521003:por
+  label: "Revogado a partir de 01.05.2007 e nos termos do art. 5º do Dec Lei 201/2006 de 27-Out, pelo DR.44/2007.27.04.2007.PCM,\
+    \ DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/44-2007-521003
+  date: '2007-04-27'
 article_structure:
   article_count: 21
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:57:38Z'
   warnings: []
   errors: []
 ---
@@ -335,7 +385,9 @@ t) Desenvolver, quando possível, os programas informáticos a utilizar pelos di
 
 3 - Adstrita à DSAG funciona uma equipa de informática à qual cabe a execução das competências previstas nas alíneas o) a t) do n.º 1.
 
-###### Artigo 10.º — Divisão de Planeamento e de Auditoria Interna
+###### Artigo 10.º
+
+##### Divisão de Planeamento e de Auditoria Interna
 
 À DPAI compete:
 
@@ -451,15 +503,15 @@ O presente diploma entra em vigor um mês após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho.
 
-**Promulgado em 29 de Maio de 1998.**
+Promulgado em 29 de Maio de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Maio de 1998.**
+Referendado em 29 de Maio de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA ANEXO
 

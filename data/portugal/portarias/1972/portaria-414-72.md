@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/414-1972-675864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b11a8775c0a337cf7e0ce23dab8adadccd17eaaac8d16ad5a2b599f01d6f3ba3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd0815726d38b93a50b63961ce67aa5176ebf301a086b9456251dca836a3de9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:147454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632055:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:56Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +109,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 1. O corpo do artigo 83.º e seu § 2.º, o corpo do artigo 93.º e seus §§ 1.º e 2.º, o corpo do artigo 102.º e seu § 1.º e o corpo do artigo 103.º e seu § 1.º do Regulamento de Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca, aprovado e posto em execução pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, passam a ter a seguinte redacção:
 
-###### Art. 83.º A categoria de maquinista prático de 2.ª classe será atribuída ao inscrito marítimo que prove:
+Art. 83.º A categoria de maquinista prático de 2.ª classe será atribuída ao inscrito marítimo que prove:
 
 a) Ter o curso de fogueiro-motorista da Escola de Mestrança e Marinhagem e quatro anos de embarque na categoria de fogueiro, dos quais dezoito meses em navios da marinha mercante; ou
 
@@ -111,7 +123,7 @@ c) Em todos os casos, que está habilitado, por exame, ao desempenho das respect
 
 ...
 
-###### Art. 93.º Para obter a categoria de ajudante de motorista deverá o interessado provar que não tem idade inferior a 18 anos e que possui as condições de uma das seguintes alíneas:
+Art. 93.º Para obter a categoria de ajudante de motorista deverá o interessado provar que não tem idade inferior a 18 anos e que possui as condições de uma das seguintes alíneas:
 
 a) Curso de fogueiro-motorista da Escola de Mestrança e Marinhagem;
 
@@ -133,7 +145,7 @@ g) Havendo falta de ajudantes de motorista e insuficiência de candidatos que sa
 
 ...
 
-###### Art. 102.º A categoria de fogueiro será atribuída ao indivíduo que prove:
+Art. 102.º A categoria de fogueiro será atribuída ao indivíduo que prove:
 
 a) Ter o curso de fogueiro-motorista da Escola de Mestrança e Marinhagem; ou
 
@@ -143,13 +155,13 @@ b) Ter, pelo menos, três anos de embarque como chegador, com boas informações
 
 ...
 
-###### Art. 103.º A categoria de chegador será atribuída ao indivíduo que prove ter idade não inferior a 18 anos, ter a 4.ª classe do ensino primário ou equivalente e ter prática oficinal ou habilitações técnicas de mecânica ou serralharia.
+Art. 103.º A categoria de chegador será atribuída ao indivíduo que prove ter idade não inferior a 18 anos, ter a 4.ª classe do ensino primário ou equivalente e ter prática oficinal ou habilitações técnicas de mecânica ou serralharia.
 
 § 1.º Aos grumetes condutores de máquinas da reserva da Armada poderá ser atribuída a categoria de chegador, desde que estejam na 1.ª ou 2.ª classe de comportamento.
 
 2. É acrescentado ao mesmo Regulamento de Inscrição Marítima o seguinte artigo:
 
-###### Art. 132.º-A. Para as categorias cujo acesso é obtido mediante exame e tirocínio de embarque poderá este ser reduzido de um quantitativo a fixar por despacho do Ministro da Marinha, quando a escassez de pessoal para embarque assim o exigir.
+Art. 132.º-A. Para as categorias cujo acesso é obtido mediante exame e tirocínio de embarque poderá este ser reduzido de um quantitativo a fixar por despacho do Ministro da Marinha, quando a escassez de pessoal para embarque assim o exigir.
 
 3. É suprimido o artigo 97.º do citado Regulamento.
 

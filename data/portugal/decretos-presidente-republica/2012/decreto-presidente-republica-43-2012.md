@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/43/2012/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/43-2012-542394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T05:14:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a876b71b90a2692c6ce1a2c778cd83109b56f5849a878a7b7f9b24cb2b1eea6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c628eea6d0fa1fefe6fc3decdca19aad10e690acce78cceb104e2e30f2c932e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:14:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ankara
-- Exoneração
 - Embaixador
+- Exoneração
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:14:14Z'
   warnings: []
   errors: []
 ---
@@ -88,16 +88,16 @@ validation:
 
 de 2 de março
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É exonerada, sob proposta do Governo, a ministra plenipotenciária de 1.ª classe Luísa Margarida de Carvalho Bastos de Almeida do cargo de Embaixadora de Portugal em Ankara.
 
-**Assinado em 22 de fevereiro de 2012.**
+Assinado em 22 de fevereiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de fevereiro de 2012.**
+Referendado em 28 de fevereiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo de Sacadura Cabral Portas.**
+O Primeiro-Ministro, Pedro Passos Coelho. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo de Sacadura Cabral Portas.

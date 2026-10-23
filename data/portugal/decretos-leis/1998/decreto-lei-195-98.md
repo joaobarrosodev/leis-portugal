@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/157a00/31903203.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/195/1998/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1998-485050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:58:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2f975767e4f203d39d6cdb7aaffb6fa1e887cb401aba1954b98c23728e050a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d5cef025f9f579656856c930cd75edc9610659f4236128a3e9950f8b9a8d430
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:58:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Direcção Geral de Portos Navegação e Transportes Marítimos
+- Direito Internacional
 - Embarcação
+- Embarcação Estrangeira
+- Inspecção de Navios
+- Mar Territorial
+- Política de Transportes
+- Portos
+- Regulamento
+- Regulamento de Inspecção de Navios Estrangeiros
+- Segurança Marítima
 - Sistema de Autoridade Marítima
 - Tráfego Marítimo
 - Transporte Marítimo
-- Direcção Geral de Portos Navegação e Transportes Marítimos
-- Mar Territorial
-- Embarcação Estrangeira
-- Inspecção de Navios
-- Política de Transportes
-- Regulamento
-- Regulamento de Inspecção de Navios Estrangeiros
-- Portos
-- Segurança Marítima
-- Direito Internacional
 relationships:
 - type: amended_by
   target: pt:dre:553454:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:321336:por
+  label: "Alterados os arts. 2º, 3º, 6º, 7º e 17º e os anexos II, IV, VI e IX e aditados o art. 14º-A e o anexo XII ao Regulamento,\
+    \ pelo DEC LEI.156/2000.2000.07.22.MES, DR.IS-A [168]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-2000-321336
+  date: '2000-07-22'
+- type: amended_by
+  target: pt:dre:468987:por
+  label: "Alterados os arts. 2.º, 3.º, 6.º, 7.º, 9.º, 12.º, 13.º, 14.º, 15.º, 18.º, 19.º, 24.º, 26.º e 27.º, o título III\
+    \ e os anexos I, II, III, IV, VI, VII, IX e XII do Regulamento, com as alterações introduzidas pelo Dec Lei 156/2000,\
+    \ de 22-Jul, republicado, em anexo, o texto integral do Regulamento, pelo DEC LEI.284/2003.08.11.2003.MOPTH, DR.IS-A [259]\
+    \ de 08.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/284-2003-468987
+  date: '2003-11-08'
+- type: amended_by
+  target: pt:dre:518467:por
+  label: "Alterados os arts. 14º, 19º-A e 24º e revogados os nºs. 3, 4 e 5 do art. 5º do Regulamento de Inspecção de Navios\
+    \ Estrangeiros, aprovado pelo pelo presente diploma, alterado e republicado pelo Dec Lei 284/2003 de 08-Nov, pelo DEC\
+    \ LEI.58/2007.13.03.2007.MOPTC, DR.IS [51] de 13.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2007-518467
+  date: '2007-03-13'
 - type: cites
   target: celex:31993L0075
   label: null
@@ -107,16 +128,21 @@ relationships:
   target: celex:31996L0040
   label: null
   source: http://data.europa.eu/eli/dir/1996/40/oj
+- type: repealed_by
+  target: pt:dre:553454:por
+  label: "Revogado pelo DEC LEI.61/2012.14.03.2012.MAMAOT, DR.IS [53] de 14.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2012-553454
+  date: '2012-03-14'
 article_structure:
   article_count: 32
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:58:28Z'
   warnings: []
   errors: []
 ---
@@ -171,15 +197,15 @@ O presente diploma entra em vigor 180 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - José Veiga Simão - João Cardona Gomes Cravinho.
 
-**Promulgado em 8 de Maio de 1998.**
+Promulgado em 8 de Maio de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Junho de 1998.**
+Referendado em 5 de Junho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 REGULAMENTO DE INSPECÇÃO DE NAVIOS ESTRANGEIROS
 
@@ -757,17 +783,19 @@ Demonstração do conhecimento do plano de controlo de danos por parte dos princ
 
 Se se revelar necessário, a inspecção poderá continuar enquanto o navio está em trânsito para ou do porto de um Estado membro com o consentimento do comandante ou do armador. Os inspectores não entravarão o funcionamento do navio, nem provocarão situações que, na opinião do comandante, possam pôr em perigo a segurança dos passageiros, da tripulação e do navio.
 
-## ANEXO VIII/1 — ANEXO N.º 3 AO MA
+## ANEXO VIII/1
+
+## ANEXO N.º 3 AO MA
 
 Notificação ao comandante do navio
 
 MODELO A
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/31903203.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/31903203.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/31903203.pdf)
 
 ## ANEXO VIII/2 — MODELO B
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/31903203.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/31903203.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/31903203.pdf)
 
 ## ANEXO VIII/3 — Códigos de acções tomadas
 
@@ -917,7 +945,7 @@ Se a resposta a qualquer destas questões for negativa, tendo em consideração 
 
 3.7 - Áreas abrangidas pelo anexo II à Convenção MARPOL:
 
-1) Ausência do manual P&D;
+1) Ausência do manual P&D
 
 2) Carregamento não classificado em categorias [3(4)];
 

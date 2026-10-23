@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23500/32733298.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-1980-462237
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34cef31abbbda762fa3cbf4915eda5dcce1a20b5f2f5150fddd161c06e150924
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 985b25f46e1e058e70750bca0d81d1aea6ca5d5ecb46cbd07e70ad8ef2cc0946
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação do Pessoal
+- Função Pública
 relationships:
 - type: amended_by
   target: pt:dre:245329:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:599924:por
+  label: "Suspenso pelo DR.9/82.1982.03.03.PCM, DR.IS [51]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/9-1982-599924
+  date: '1982-03-03'
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:245329:por
+  label: "Revogado pelo DR.44-B/83.1983.06.01.MRA, DR.IS [126]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/44-a-1983-245329
+  date: '1983-06-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:48Z'
   warnings: []
   errors: []
 ---
@@ -116,13 +136,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A classificação de serviço a que se refere o artigo 4.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, rege-se pelo presente regulamento e aplica-se a todos os funcionários e agentes com categoria inferior ou igual a assessor ou equivalente dos serviços e organismos da Administração Central e dos fundos públicos que revistam a natureza de serviços personalizados.
+Artigo 1.º - 1 - A classificação de serviço a que se refere o artigo 4.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, rege-se pelo presente regulamento e aplica-se a todos os funcionários e agentes com categoria inferior ou igual a assessor ou equivalente dos serviços e organismos da Administração Central e dos fundos públicos que revistam a natureza de serviços personalizados.
 
 2 - O disposto no presente diploma não é aplicável ao pessoal abrangido pelo regime previsto no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e aos chefes de repartição.
 
 3 - O regime estabelecido neste decreto-lei será aplicado ao pessoal da Administração Local, com as necessárias adaptações, mediante decreto.
 
-###### Art. 2.º A classificação de serviço obtém-se através de um sistema de notação e visa:
+Art. 2.º A classificação de serviço obtém-se através de um sistema de notação e visa:
 
 a) A avaliação profissional do funcionário ou agente, tendo em atenção os conhecimentos e qualidades de que fez prova no exercício das suas funções;
 
@@ -132,7 +152,7 @@ c) A aplicação dos resultados da classificação nas acções de recrutamento,
 
 d) Contribuir para o diagnóstico das situações de trabalho com vista ao estabelecimento de medidas tendentes à sua correcção e transformação.
 
-###### Art. 3.º - 1 - A classificação de serviço reveste carácter ordinário e extraordinário.
+Art. 3.º - 1 - A classificação de serviço reveste carácter ordinário e extraordinário.
 
 2 - A classificação de serviço ordinária refere-se ao período do ano civil imediatamente anterior, devendo ser classificados somente os funcionários e agentes que contem, pelo menos, seis meses de efectivo serviço no referido período.
 
@@ -142,7 +162,7 @@ a) Após um ano de exercício de funções em lugar de ingresso na carreira;
 
 b) A pedido do funcionário ou agente, quando, decorrido um ano civil, não lhe tenha sido atribuída classificação de serviço.
 
-###### Art. 4.º - 1 - A classificação de serviço é obrigatoriamente considerada nos seguintes casos:
+Art. 4.º - 1 - A classificação de serviço é obrigatoriamente considerada nos seguintes casos:
 
 a) Promoção e progressão na carreira;
 
@@ -152,7 +172,7 @@ c) Celebração de novos contratos para diferente categoria ou cargo.
 
 2 - A classificação de serviço de Bom é requisito indispensável para celebração de novo contrato que estabeleça categoria de remuneração superior à que o agente detém por anterior contrato.
 
-###### Art. 5.º - 1 - O sistema de notação referido no artigo 2.º processa-se pela aplicação das fichas numeradas de 1 a 5, de acordo com os modelos em anexo.
+Art. 5.º - 1 - O sistema de notação referido no artigo 2.º processa-se pela aplicação das fichas numeradas de 1 a 5, de acordo com os modelos em anexo.
 
 2 - As fichas de notação n.os 1 a 4 destinam-se aos seguintes grupos de pessoal:
 
@@ -168,7 +188,7 @@ d) Ficha de notação n.º 4, para pessoal operário.
 
 4 - Os impressos dos modelos de fichas de notação anexas, bem como das respectivas instruções de preenchimento igualmente anexas, constituem modelo exclusivo da Imprensa Nacional-Casa da Moeda.
 
-###### Art. 6.º - 1 - A competência para classificar pertence conjuntamente aos superiores hierárquicos do notado, imediato e de segundo nível, adiante designados por notadores, salvo o disposto nos n.os 3 e 4 do presente artigo.
+Art. 6.º - 1 - A competência para classificar pertence conjuntamente aos superiores hierárquicos do notado, imediato e de segundo nível, adiante designados por notadores, salvo o disposto nos n.os 3 e 4 do presente artigo.
 
 2 - Considera-se superior hierárquico de segundo nível o dirigente que, na escala hierárquica, se situa na posição imediatamente superior ao dirigente ou chefe imediato do notado.
 
@@ -178,13 +198,13 @@ d) Ficha de notação n.º 4, para pessoal operário.
 
 5 - Quando a estrutura orgânica de determinado serviço ou organismo não permitir a aplicação dos n.os 1 e 3, o dirigente máximo do serviço designará dois notadores com competência para classificar, os quais terão necessariamente de se situar em posição hierárquica e funcional superior ao notado.
 
-###### Art. 7.º - 1 - A competência prevista nos n.os 1, 3 e 5 do artigo anterior deve ser exercida até 31 de Janeiro de cada ano.
+Art. 7.º - 1 - A competência prevista nos n.os 1, 3 e 5 do artigo anterior deve ser exercida até 31 de Janeiro de cada ano.
 
 2 - O exercício da competência para classificar será precedido, sempre que possível, de reunião conjunta dos notadores de cada organismo ou serviço para consenso quanto aos procedimentos a adoptar.
 
 3 - Nas reuniões de notadores deverão participar representantes dos serviços competentes em matéria de organização e recursos humanos.
 
-###### Art. 8.º - 1 - O processo de notação baseia-se na apreciação de cada funcionário ou agente em relação a cada um dos factores definidos na respectiva ficha de notação.
+Art. 8.º - 1 - O processo de notação baseia-se na apreciação de cada funcionário ou agente em relação a cada um dos factores definidos na respectiva ficha de notação.
 
 2 - Nas fichas de notação n.os 1, 2, 3 e 4 cada factor é susceptível de graduação em cinco posições, pontuadas em 4, 8, 12, 16 e 20, resultando a pontuação a atribuir ao notado da média aritmética da pontuação obtida nos factores.
 
@@ -192,17 +212,17 @@ d) Ficha de notação n.º 4, para pessoal operário.
 
 4 - Mediante despacho do membro do Governo competente e sob proposta das comissões paritárias de avaliação, os diversos serviços e organismos da Administração poderão introduzir coeficientes de ponderação, para valoração dos diferentes factores, nas fichas de notação a que se refere o n.º 2, tendo em atenção as funções efectivamente desempenhadas no respectivo organismo ou serviço.
 
-###### Art. 9.º - 1 - Terminado o processo de notação referido no artigo anterior, será dado conhecimento aos notados da respectiva ficha, em entrevista individual com os notadores.
+Art. 9.º - 1 - Terminado o processo de notação referido no artigo anterior, será dado conhecimento aos notados da respectiva ficha, em entrevista individual com os notadores.
 
 2 - As entrevistas referidas no número anterior deverão ter lugar até 15 de Fevereiro de cada ano.
 
-###### Art. 10.º - 1 - O interessado, após tomar conhecimento da ficha de notação, pode apresentar aos notadores, no prazo de cinco dias úteis, reclamação escrita com indicação dos factos ou circunstâncias que julgue susceptíveis de fundamentar a revisão da classificação atribuída.
+Art. 10.º - 1 - O interessado, após tomar conhecimento da ficha de notação, pode apresentar aos notadores, no prazo de cinco dias úteis, reclamação escrita com indicação dos factos ou circunstâncias que julgue susceptíveis de fundamentar a revisão da classificação atribuída.
 
 2 - As reclamações a que se refere o número anterior serão objecto de apreciação pelos respectivos notadores, que proferirão decisão fundamentada, a qual será dada a conhecer, por escrito, ao interessado, no prazo máximo de cinco dias úteis.
 
 3 - O notado, após tomar conhecimento da decisão prevista no número anterior, poderá solicitar, nos cinco dias úteis subsequentes, que o seu processo seja submetido a parecer da comissão paritária de avaliação.
 
-###### Art. 11.º - 1 - Das direcções-gerais e outras unidades orgânicas que funcionem directamente na dependência dos membros do Governo será constituída uma comissão paritária de avaliação, composta por quatro vogais, sendo dois representantes da Administração e dois representantes do pessoal.
+Art. 11.º - 1 - Das direcções-gerais e outras unidades orgânicas que funcionem directamente na dependência dos membros do Governo será constituída uma comissão paritária de avaliação, composta por quatro vogais, sendo dois representantes da Administração e dois representantes do pessoal.
 
 2 - A comissão paritária de avaliação, adiante designada por comissão de avaliação, é um órgão consultivo do dirigente máximo do serviço.
 
@@ -214,17 +234,17 @@ d) Ficha de notação n.º 4, para pessoal operário.
 
 6 - Nenhum representante poderá ser designado ou eleito dois anos consecutivos para a comissão de avaliação.
 
-###### Art. 12.º - 1 - Sempre que por impedimento de qualquer dos vogais se verifique interrupção do mandato, estes são substituídos pelos respectivos suplentes, até à conclusão do período a que se refere o n.º 5 do artigo anterior.
+Art. 12.º - 1 - Sempre que por impedimento de qualquer dos vogais se verifique interrupção do mandato, estes são substituídos pelos respectivos suplentes, até à conclusão do período a que se refere o n.º 5 do artigo anterior.
 
 2 - Sempre que num processo de reclamação, sobre o qual tenha de se pronunciar a comissão de avaliação, estejam envolvidos, como notador ou notado, qualquer dos seus vogais, estes são substituídos, para apreciação desse processo, pelos respectivos suplentes.
 
-###### Art. 13.º - 1 - Os pareceres da comissão de avaliação, a proferir no prazo máximo de quinze dias úteis contados a partir da data a que se refere o n.º 3 do artigo 10.º, devem conter proposta de solução da reclamação e revestem a forma de relatório fundamentado, a elaborar pelo vogal designado para orientar os trabalhos e a subscrever por todos os vogais.
+Art. 13.º - 1 - Os pareceres da comissão de avaliação, a proferir no prazo máximo de quinze dias úteis contados a partir da data a que se refere o n.º 3 do artigo 10.º, devem conter proposta de solução da reclamação e revestem a forma de relatório fundamentado, a elaborar pelo vogal designado para orientar os trabalhos e a subscrever por todos os vogais.
 
 2 - Quando na comissão de avaliação não se verificar maioria na votação das propostas de solução referidas no número anterior, deve o respectivo relatório conter as propostas em debate e sua fundamentação.
 
 3 - No caso referido no número anterior, cabe ao dirigente máximo da unidade orgânica decidir de entre as propostas alternativas apresentadas, mediante despacho fundamentado.
 
-###### Art. 14.º As pontuações obtidas pelos notados de cada serviço ou organismo deverão ser corrigidas antes da homologação, de acordo com a seguinte perequação:
+Art. 14.º As pontuações obtidas pelos notados de cada serviço ou organismo deverão ser corrigidas antes da homologação, de acordo com a seguinte perequação:
 
 C = g + (Sn - IN)/(N x n)
 
@@ -242,7 +262,7 @@ N - Número total de funcionários e agentes do serviço pertencentes à categor
 
 n - Número de funcionários e agentes da mesma categoria apurado pelos notadores que avaliarem o notado.
 
-###### Art. 15.º - 1 - A classificação de serviço de cada funcionário ou agente obtém-se pela tradução da pontuação final, atribuída nos termos dos artigos 8.º, n.os 1 e 2, e 14.º, numa das seguintes menções, de acordo com o intervalo de valores em que aquela se situar:
+Art. 15.º - 1 - A classificação de serviço de cada funcionário ou agente obtém-se pela tradução da pontuação final, atribuída nos termos dos artigos 8.º, n.os 1 e 2, e 14.º, numa das seguintes menções, de acordo com o intervalo de valores em que aquela se situar:
 
 Até 5 - Não satisfatório;
 
@@ -262,7 +282,7 @@ C - Insatisfatório.
 
 3 - A classificação de serviço de Insatisfatório, resultante de aplicação da ficha n.º 5, só terá lugar quando tiver sido atribuído um mínimo de três valorações na coluna assinalada com C.
 
-###### Art. 16.º - 1 - A homologação de classificação, após a aplicação de perequação a que se refere o artigo 14.º, compete ao dirigente máximo de serviço e terá lugar até 30 de Abril de cada ano civil.
+Art. 16.º - 1 - A homologação de classificação, após a aplicação de perequação a que se refere o artigo 14.º, compete ao dirigente máximo de serviço e terá lugar até 30 de Abril de cada ano civil.
 
 2 - Nenhum processo de notação subirá a homologação antes de decorrido o prazo mencionado no n.º 1 do artigo 10.º ou no n.º 3 do mesmo artigo, quando haja lugar a reclamação.
 
@@ -270,36 +290,36 @@ C - Insatisfatório.
 
 4 - Da classificação, após homologação, é dado conhecimento ao interessado.
 
-###### Art. 17.º Da homologação cabe recurso hierárquico ao membro do Governo competente, a interpor no prazo de dez dias contados a partir da data do conhecimento da homologação, devendo ser proferida decisão no prazo de quinze dias contados a partir da data de interposição do recurso.
+Art. 17.º Da homologação cabe recurso hierárquico ao membro do Governo competente, a interpor no prazo de dez dias contados a partir da data do conhecimento da homologação, devendo ser proferida decisão no prazo de quinze dias contados a partir da data de interposição do recurso.
 
-###### Art. 18.º - 1 - As fichas de notação têm carácter confidencial e são arquivadas no respectivo processo individual.
+Art. 18.º - 1 - As fichas de notação têm carácter confidencial e são arquivadas no respectivo processo individual.
 
 2 - Todos os órgãos ou entidades intervenientes no processo de notação ficam obrigados ao dever de sigilo profissional sobre esta matéria.
 
-###### Art. 19.º - 1 - Na promoção do pessoal que tiver desempenhado funções dirigentes e ao qual se aplique a disposição contida no artigo 10.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), considera-se a classificação de serviço obtida no último ano de exercício de funções no lugar de origem.
+Art. 19.º - 1 - Na promoção do pessoal que tiver desempenhado funções dirigentes e ao qual se aplique a disposição contida no artigo 10.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), considera-se a classificação de serviço obtida no último ano de exercício de funções no lugar de origem.
 
 2 - Quando o exercício de funções sindicais ou a prestação de serviço militar obrigatório impeça a atribuição da classificação a que se refere o n.º 1 do artigo 3.º, será automaticamente adoptada a última classificação de serviço obtida no ano anterior ao início da situação que deu origem ao impedimento.
 
-###### Art. 20.º - 1 - Os serviços e organismos com competência em matéria de organização e recursos humanos deverão assegurar a organização, dinamização e acompanhamento do processo de classificação de serviço instituído pelo presente diploma.
+Art. 20.º - 1 - Os serviços e organismos com competência em matéria de organização e recursos humanos deverão assegurar a organização, dinamização e acompanhamento do processo de classificação de serviço instituído pelo presente diploma.
 
 2 - As comissões paritárias de avaliação poderão solicitar a presença de técnicos de serviços e organismos a que se refere o número anterior, os quais, neste caso, participarão nas reuniões das comissões de avaliação, sem direito a voto.
 
 3 - A participação referida no número anterior é obrigatória sempre que a comissão paritária de avaliação se ocupe da matéria a que se refere o n.º 4 do artigo 8.º
 
-###### Art. 21.º Poderão ser utilizados outros sistemas de classificação de serviço, quando estejam em causa funções específicas, mediante portaria do Ministro do Governo competente e do membro do Governo que tiver a seu cargo a função pública.
+Art. 21.º Poderão ser utilizados outros sistemas de classificação de serviço, quando estejam em causa funções específicas, mediante portaria do Ministro do Governo competente e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 22.º Quando os serviços e organismos da Administração já pratiquem, à data da publicação deste diploma, sistemas de classificação de serviço, poderão continuar a praticá-los, durante o primeiro ano do período experimental deste diploma, mediante despacho conjunto do Ministro do Governo competente e do membro do Governo que tiver a seu cargo a função pública.
+Art. 22.º Quando os serviços e organismos da Administração já pratiquem, à data da publicação deste diploma, sistemas de classificação de serviço, poderão continuar a praticá-los, durante o primeiro ano do período experimental deste diploma, mediante despacho conjunto do Ministro do Governo competente e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 23.º - 1 - O presente regulamento tem carácter experimental e será revisto após três anos consecutivos de aplicação.
+Art. 23.º - 1 - O presente regulamento tem carácter experimental e será revisto após três anos consecutivos de aplicação.
 
 2 - Durante o período experimental, os serviços e organismos a que se refere o n.º 1 do artigo 20.º apresentarão ao membro do Governo competente relatório anual sobre as experiências colhidas em matéria de classificação de serviço.
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 14 de Agosto de 1980.**
+Promulgado em 14 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23500/32733298.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23500/32733298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/23500/32733298.pdf)

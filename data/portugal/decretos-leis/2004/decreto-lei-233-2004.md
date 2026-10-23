@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/233/2004/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2004-219293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05dd81a44abc9d7d1309d71e620a68ee6ef0108e90601d804eb51ef39732c37d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cb641a2a7fabfb11237530708c858c2da115f64b387572f61b476347cbdb1bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
-- Pnale
-- Efeito de Estufa
-- Licença de Emissão
+- Açores
+- Alteração Climática
 - Aproximação das Legislações
-- Publicidade
+- Atividade Industrial
 - CE Países
-- Multa
 - Comunidade Europeia
 - Contra-ordenação
 - Definição de Competências
-- Poluição Atmosférica
+- Direcção Geral de Geologia e Energia
+- Efeito de Estufa
 - Fiscalização
 - Instituto do Ambiente
+- Licença de Emissão
 - Licenciamento
-- Direcção Geral de Geologia e Energia
-- Proteção do Ambiente
 - Madeira.região Autónoma
+- Multa
+- Pnale
 - Poluição
-- Alteração Climática
-- Açores
+- Poluição Atmosférica
+- Proteção do Ambiente
+- Publicidade
 - Substância Perigosa
 - Taxa
 relationships:
@@ -94,6 +94,71 @@ relationships:
   target: pt:dre:124532100:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:209451:por
+  label: "Alterados os arts. 12º, 18º, 25º e 26º e republicado com as todas as alterações pelo DEC LEI.243-A/2004.31.12.2004.MAOT,\
+    \ DR.IS-A [305-Supl] de 31.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/243-a-2004-209451
+  date: '2004-12-31'
+- type: amended_by
+  target: pt:dre:243689:por
+  label: "Determinado que as referências feitas à Direcção Regional do Ambiente (DRA) no Dec Lei 194/2000 de 21-Ago, com as\
+    \ alterações introduzidas pelo presente diploma, se entendam por efectuadas à Comissão de Coordenação e Desenvolvimento\
+    \ Regional (CCDR), pelo DEC LEI.130/2005.16.08.2005.MAOTDR, DR.IS-A [156] de 16.08.2005 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-2005-243689
+  date: '2005-08-16'
+- type: amended_by
+  target: pt:dre:469070:por
+  label: "Alterados os arts. 4º, 6º e 34 do presente diploma, republicado pelo Dec Lei 243-A/2004 de 31-Dez, pelo DEC LEI.230/2005.29.12.2005.MAOTDR,\
+    \ DR.IS-A [249] de 29.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-2005-469070
+  date: '2005-12-29'
+- type: amended_by
+  target: pt:dre:671384:por
+  label: "Alterados os arts. 1º, 2º, 4º, 6º (este último na redacção do Dec Lei 230/2005 de 29-Dez), 8º, 9º, 10º, 11º, 12º\
+    \ (este último na redacção do Dec Lei 243-A/2004 de 31-Dez), 13º, 16º, 17º, 19º, 20º, 21º, 22º, 23º, 24º, 26º (este último\
+    \ na redacção do Dec Lei 243-A/2004 de 31-Dez), 29º, 31º, 32º, 33º e 34º (este último na redacção do Dec Lei 230/2005\
+    \ de 29-Dez), aditados os arts. 16º-A e 25º-A e alterados os anexos III e V, todos do presente diploma, republicado em\
+    \ anexo, pelo DEC LEI.72/2006.24.03.2006.MAOTDR, DR.IS-A [60] de 24.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-2006-671384
+  date: '2006-03-24'
+- type: amended_by
+  target: pt:dre:520846:por
+  label: "Alterado o art. 12º do Dec Lei 69/2003 de 10-Abr, com a redacção dada no presente diploma, pelo DEC LEI.183/2007.09.05.2007.MEI,\
+    \ DR.IS [89] de 09.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2007-520846
+  date: '2007-05-09'
+- type: amended_by
+  target: pt:dre:492216:por
+  label: "Alterados os art.s 3º, 4º (o último na redacção do Dec Lei 230/2005, de 29-Dez, Dec Lei 72/2006, de 24-Mar), 16º,\
+    \ 16º-A, 19º (os três na redacção do Dec Lei 72/2006, de 24-Mar), 25º (na redacção do Dec Lei 243-A/2004, de 31-Dez),\
+    \ 26º (na redacção do Dec Lei 243-A/2004, de 31-Dez, Dec Lei 72/2006, de 24-Mar), 27º, 29º (o último na redacção do Dec\
+    \ Lei 72/2006, de 24-Mar) e 30º, aditados os art.s 6º-A, 18º-A e 18º-B, revogados o nº 2 do art. 1º e o art. 28º e republicado\
+    \ pelo DEC LEI.154/2009.06.07.2009.MAOTDR, DR.IS [128] de 06.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2009-492216
+  date: '2009-07-06'
+- type: amended_by
+  target: pt:dre:612397:por
+  label: "Alterados os arts. 1.º (na redacção do Dec Lei 72/2006, de 24-Mar ), 3.º (na redacção do Dec Lei 154/2009, de 06-Jul),\
+    \ 4.º (na redacção do Dec Lei 230/2005, de 29-Dez, do Dec Lei 72/2006, de 24-Mar e do Dec Lei 154/2009, de 06-Jul), 22.º\
+    \ e 23.º (ambos na redacção do Dec Lei 72/2006, de 24-Mar) e 26.º (na redacção do Dec Lei 243-A/2004, de 31-Dez, Dec Lei\
+    \ 72/2006, de 24-Mar e do Dec Lei 154/2009, de 06-Jul) e aditados o art. 22.º-A e o anexo VI ao presente diploma, pelo\
+    \ DEC LEI.30/2010.08.04.2010.MAOT, DR.IS [68] de 08.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-2010-612397
+  date: '2010-04-08'
+- type: amended_by
+  target: pt:dre:333859:por
+  label: "Alterado o art. 17º (com a redacção que lhe foi introduzida pelos Dec Lei 72/2006 de 24-Mar e 154/2009 de 06-Jul,\
+    \ e a republicação deste último) pelo DEC LEI.93/2010.27.07.2010.MAOT, DR.IS [144] de 27.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2010-333859
+  date: '2010-07-27'
+- type: amended_by
+  target: pt:dre:191285:por
+  label: "Alterados os art.s 1º (na redação do Dec Lei 72/2006, de 24-mar, Dec Lei 154/2009, de 06-jul, e Dec Lei 30/2010,\
+    \ de 08-abr) e 2º (na redação do Dec Lei 72/2006, de 24-mar) e aditados os art.s 16º-B e 16º-C bem como o anexo vii, pelo\
+    \ DEC LEI.252/2012.26.11.2012.MAMAOT, DR.IS [228] de 26.11.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/252-2012-191285
+  date: '2012-11-26'
 - type: cites
   target: celex:31993D0389
   label: null
@@ -110,16 +175,33 @@ relationships:
   target: celex:32003L0087
   label: null
   source: http://data.europa.eu/eli/dir/2003/87/oj
+- type: repealed_by
+  target: pt:dre:453550:por
+  label: "Revogado, a partir de 31.08.2008, o Decreto-Lei 194/2000, de 21 de Agosto, na redacção do presente diploma, pelo\
+    \ DEC LEI.173/2008.26.08.2008.MAOTDR, DR.IS [164] de 26.08.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-2008-453550
+  date: '2008-08-26'
+- type: repealed_by
+  target: pt:dre:259892:por
+  label: "Revogado, a partir de 16.03.2013, ( sem prejuízo do disposto no art. 35.º do presente diploma, que mantém em vigor\
+    \ até 30.06.2013 ou até à conclusão de todos os procedimentos relativos ao período 2008-2012, consoante o que ocorrer\
+    \ primeiro, as disposições relativas à monitorização e reporte anual de emissões, à devolução de licenças de emissão e\
+    \ aos procedimentos ao nível do Registo de Licenças de Emissão), o Dec Lei 233/2004, de 14-dez, DR.IS-A [291], na redação\
+    \ do Dec Lei 243-A/2004, de 31-dez, do Dec Lei 230/2005, de 29-dez, do Dec Lei 72/2006, de 24-mar, Dec Lei 154/2009, de\
+    \ 06-jul, do Dec Lei 30/2010, de 08-abr,do Dec Lei 93/2010, de 27-jul, e Dec Lei 252/2012, de 26-nov., pelo DEC LEI.38/2013.15.03.2013.MAMAOT,\
+    \ DR.IS [53] de 15.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2013-259892
+  date: '2013-03-15'
 article_structure:
   article_count: 39
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:51Z'
   warnings: []
   errors: []
 ---
@@ -236,7 +318,9 @@ Compete à entidade coordenadora do licenciamento remeter ao Instituto do Ambien
 
 Compete à Direcção-Geral de Geologia e Energia (DGGE) acompanhar a implementação nacional do regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade Europeia promovendo em articulação com o Instituto do Ambiente, reuniões com representantes das instalações ou associações dos sectores de actividade constantes do anexo I para apreciar as matérias relativas às decisões adoptadas ao abrigo das alíneas a), c), e), g) e h) do n.º 1 do artigo 4.º
 
-### CAPÍTULO III — Título de emissão de gases com efeito de estufa
+### CAPÍTULO III
+
+## Título de emissão de gases com efeito de estufa
 
 ###### Artigo 7.º — Obrigatoriedade de existência de título de emissão de gases com efeito de estufa
 
@@ -694,15 +778,15 @@ b) Pedido de exclusão temporária do regime de comércio de licenças de emiss�
 
 Visto e aprovado em Conselho de Ministros de 16 de Setembro de 2004. - Pedro Miguel de Santana Lopes - Luís Miguel Pais Antunes - António Victor Martins Monteiro - José Pedro Aguiar Branco - Luís José de Mello e Castro Guedes.
 
-**Promulgado em 24 de Novembro de 2004.**
+Promulgado em 24 de Novembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Novembro de 2004.**
+Referendado em 26 de Novembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO I — Actividades
 

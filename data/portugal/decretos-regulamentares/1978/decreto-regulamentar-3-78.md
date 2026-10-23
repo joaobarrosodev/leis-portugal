@@ -47,36 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1978-447768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T05:58:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed1effeeb973764738ec9f97952bcfe77d421389b7fec51b701d92f1e93be0e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 963f6691a72618ad277d4c17074c4fddcc887ac57d4df07e3064d7c36faecb94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Definição de Competências
+- Extinção de Lugares
+- Extinção de Serviços
+- Formas de Provimento
+- Gabinete de Estudos e Planeamento
+- Gabinete de Planeamento
+- Ministério da Indústria e Tecnologia
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Transferência Patrimonial
+relationships:
+- type: cites
+  target: pt:dre:141049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:58:44Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +137,9 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - O Gabinete de Estudos e Planeamento do Ministério da Indústria e Tecnologia, adiante designado abreviadamente por GEP, é um órgão de estudo, coordenação e apoio técnico no domínio da formulação da política e do planeamento industrial e energético, que, nos termos do [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro, fica directamente dependente do respectivo Ministro.
+Artigo 1.º - 1 - O Gabinete de Estudos e Planeamento do Ministério da Indústria e Tecnologia, adiante designado abreviadamente por GEP, é um órgão de estudo, coordenação e apoio técnico no domínio da formulação da política e do planeamento industrial e energético, que, nos termos do [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro, fica directamente dependente do respectivo Ministro.
 
-###### Art. 2.º De harmonia com o artigo 26.º do [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro, são atribuições genéricas do GEP:
+Art. 2.º De harmonia com o artigo 26.º do [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro, são atribuições genéricas do GEP:
 
 a) Prestar apoio técnico na formulação e acompanhamento da política industrial e tecnológica e no planeamento da actividade do Ministério;
 
@@ -115,7 +147,7 @@ b) Colaborar na elaboração dos projectos e programas dos planos de desenvolvim
 
 c) Colaborar nos trabalhos decorrentes da participação do País nas relações económicas internacionais.
 
-###### Art. 3.º Para o desempenho das atribuições definidas no artigo anterior, compete ao GEP coordenar nesses domínios a actuação dos serviços e entidades sob tutela do Ministério.
+Art. 3.º Para o desempenho das atribuições definidas no artigo anterior, compete ao GEP coordenar nesses domínios a actuação dos serviços e entidades sob tutela do Ministério.
 
 1 - Em matéria de planeamento, de acordo com o processo de planeamento definido a nível central:
 
@@ -179,7 +211,7 @@ c) Acompanhar e coordenar a preparação e execução de medidas correctivas dos
 
 6 - Compete ainda ao GEP, em matéria de documentação e informação, proceder à divulgação de informação e referências bibliográficas necessárias à actividade de planeamento dos serviços e empresas públicas sob tutela do Ministério, assegurando as ligações a organismos nacionais e internacionais, por forma a garantir o acesso a mais vastas fontes de informação.
 
-###### Art. 4.º - 1 - Para o desempenho das atribuições que lhe são cometidas pelo presente diploma, o GEP articulará a sua actividade com a de outros serviços ou entidades públicas ou privadas que intervenham em matéria de planeamento, nomeadamente:
+Art. 4.º - 1 - Para o desempenho das atribuições que lhe são cometidas pelo presente diploma, o GEP articulará a sua actividade com a de outros serviços ou entidades públicas ou privadas que intervenham em matéria de planeamento, nomeadamente:
 
 a) Os serviços de planeamento das direcções-gerais e organismos equiparados do Ministério;
 
@@ -189,7 +221,7 @@ b) Os órgãos central, regionais, sectoriais e interministeriais de planeamento
 
 ### CAPÍTULO II — Organização interna
 
-###### Art. 5.º - 1 - O GEP é dirigido por um director, com a categoria de director-geral, coadjuvado no exercício das suas funções pelo pessoal dirigente do quadro I anexo ao presente decreto.
+Art. 5.º - 1 - O GEP é dirigido por um director, com a categoria de director-geral, coadjuvado no exercício das suas funções pelo pessoal dirigente do quadro I anexo ao presente decreto.
 
 2 - Ao director compete genericamente dirigir a actividade global do GEP, superintendendo na actuação de todos os serviços, praticando todos os actos da sua competência, própria ou delegada. Compete, em especial, ao director:
 
@@ -217,7 +249,7 @@ b) Estabelecer os circuitos de informação necessários ao contrôle de execuç
 
 c) Definir os indicadores que permitam avaliar da eficácia e eficiência das acções empreendidas nos serviços que dirigem.
 
-###### Art. 6.º O GEP compreende os seguintes serviços:
+Art. 6.º O GEP compreende os seguintes serviços:
 
 a) Direcção de Serviços de Planeamento;
 
@@ -231,23 +263,23 @@ e) Direcção de Serviços de Programação;
 
 f) Divisão Administrativa.
 
-###### Art. 7.º À Direcção de Serviços de Planeamento incumbe genericamente o desempenho das competências referidas no n.º 1 do artigo 3.º
+Art. 7.º À Direcção de Serviços de Planeamento incumbe genericamente o desempenho das competências referidas no n.º 1 do artigo 3.º
 
-###### Art. 8.º À Direcção de Serviços de Coordenação e Contrôle de Programas incumbe genericamente o desempenho das competências referidas no n.º 2 do artigo 3.º
+Art. 8.º À Direcção de Serviços de Coordenação e Contrôle de Programas incumbe genericamente o desempenho das competências referidas no n.º 2 do artigo 3.º
 
-###### Art. 9.º À Direcção de Serviços de Relações Económicas Internacionais incumbe genericamente o desempenho das competências referidas no n.º 3 do artigo 3.º
+Art. 9.º À Direcção de Serviços de Relações Económicas Internacionais incumbe genericamente o desempenho das competências referidas no n.º 3 do artigo 3.º
 
-###### Art. 10.º À Direcção de Serviços de Estatística, Documentação e Informação incumbe genericamente o desempenho das competências referidas nos n.os 4 e 6 do artigo 3.º
+Art. 10.º À Direcção de Serviços de Estatística, Documentação e Informação incumbe genericamente o desempenho das competências referidas nos n.os 4 e 6 do artigo 3.º
 
-###### Art. 11.º - 1 - À Direcção de Serviços de Programação incumbe genericamente o desempenho das competências referidas no n.º 5 do artigo 3.º
+Art. 11.º - 1 - À Direcção de Serviços de Programação incumbe genericamente o desempenho das competências referidas no n.º 5 do artigo 3.º
 
 2 - Incumbe ainda a esta Direcção de Serviços, em estreita articulação com os serviços competentes nos domínios de organização do Ministério, colaborar na implementação de métodos de gestão a introduzir nos Ministérios, que permitam uma correcta avaliação dos objectivos e da relação custos-benefícios das acções empreendidas pelos diferentes serviços de estrutura.
 
-###### Art. 12.º À Divisão Administrativa incumbe prestar o apoio administrativo e logístico necessário ao funcionamento dos diferentes serviços do GEP.
+Art. 12.º À Divisão Administrativa incumbe prestar o apoio administrativo e logístico necessário ao funcionamento dos diferentes serviços do GEP.
 
-###### Art. 13.º Serão regulamentados por despacho ou portaria ministerial, sob proposta do director, os aspectos relativos ao funcionamento do GEP.
+Art. 13.º Serão regulamentados por despacho ou portaria ministerial, sob proposta do director, os aspectos relativos ao funcionamento do GEP.
 
-###### Art. 14.º - 1 - Junto do GEP funcionará uma Comissão de Planeamento da Indústria e Energia com vista a assegurar a coordenação das actividades a prosseguir pelos vários departamentos e entidades no âmbito do planeamento dos sectores industrial e energético.
+Art. 14.º - 1 - Junto do GEP funcionará uma Comissão de Planeamento da Indústria e Energia com vista a assegurar a coordenação das actividades a prosseguir pelos vários departamentos e entidades no âmbito do planeamento dos sectores industrial e energético.
 
 2 - A Comissão será composta por:
 
@@ -263,17 +295,17 @@ Representantes de cada uma das direcções-gerais e organismos equiparados do MI
 
 6 - A Comissão de Planeamento estabelecerá as suas normas internas de funcionamento a aprovar por despacho ministerial.
 
-###### Art. 15.º - 1 - Junto do GEP, nos termos do disposto no n.º 1 do artigo 17.º do [Decreto-Lei n.º 97/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1977-141049), de 17 de Março, funcionará a Comissão Consultiva de Estatística do Ministério da Indústria e Tecnologia, órgão que se ocupará de assuntos de natureza estatística que interessam aos diversos departamentos e serviços do Ministério ou por ele tutelados, exercendo a sua actividade em estreita colaboração com os restantes órgãos do sistema estatístico nacional.
+Art. 15.º - 1 - Junto do GEP, nos termos do disposto no n.º 1 do artigo 17.º do [Decreto-Lei n.º 97/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1977-141049), de 17 de Março, funcionará a Comissão Consultiva de Estatística do Ministério da Indústria e Tecnologia, órgão que se ocupará de assuntos de natureza estatística que interessam aos diversos departamentos e serviços do Ministério ou por ele tutelados, exercendo a sua actividade em estreita colaboração com os restantes órgãos do sistema estatístico nacional.
 
 2 - A Comissão Consultiva de Estatística estabelecerá as suas normas internas de funcionamento a aprovar por despacho ministerial.
 
-###### Art. 16.º - 1 - O director poderá propor superiormente a celebração de contratos de prestação de serviço com entidades privadas ou públicas, bem como o convite a entidades nacionais ou estrangeiras para realizarem inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas ao GEP.
+Art. 16.º - 1 - O director poderá propor superiormente a celebração de contratos de prestação de serviço com entidades privadas ou públicas, bem como o convite a entidades nacionais ou estrangeiras para realizarem inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas ao GEP.
 
 2 - Os contratos deverão ser reduzidos a escrito e mencionar a natureza do trabalho, o seu montante e o prazo previsto para a sua execução, sendo pagos por força de dotações próprias a inscrever para tal fim no orçamento do GEP, não conferindo em nenhum caso às entidades contratadas a qualidade de agente administrativo.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 17.º - 1 - O pessoal do GEP agrupar-se-á de acordo com a seguinte classificação:
+Art. 17.º - 1 - O pessoal do GEP agrupar-se-á de acordo com a seguinte classificação:
 
 a) Pessoal dirigente;
 
@@ -283,7 +315,7 @@ b) Pessoal técnico.
 
 3 - A dotação do GEP em pessoal pertencente aos quadros únicos de pessoal administrativo e auxiliar será fixada por despacho do Ministro da Indústria e Tecnologia, sob proposta conjunta do secretário-geral do Ministério e do director do GEP.
 
-###### Art. 18.º - 1 - Os lugares de director e de subdirector do GEP serão providos por escolha do Ministro, em comissão de serviço por tempo indeterminado, de entre diplomados com o curso superior adequado e de reconhecida competência.
+Art. 18.º - 1 - Os lugares de director e de subdirector do GEP serão providos por escolha do Ministro, em comissão de serviço por tempo indeterminado, de entre diplomados com o curso superior adequado e de reconhecida competência.
 
 2 - Os lugares de director de serviço serão providos por escolha do Ministro, sob proposta do director do GEP, em comissão de serviço por tempo indeterminado, de entre diplomados com o curso superior adequado e de reconhecida competência.
 
@@ -295,7 +327,7 @@ b) Pessoal técnico.
 
 6 - Exceptua-se do regime estabelecido no presente artigo os lugares a preencher pelo pessoal dirigente com nomeação definitiva, que consta das observações insertas no mapa de pessoal anexo ao presente diploma.
 
-###### Art. 19.º - 1 - Os lugares de admissão nas diferentes carreiras técnicas do quadro do GEP serão providos de entre indivíduos que possuam as habilitações literárias a seguir indicadas, com preferência para o pessoal já vinculado ao Ministério:
+Art. 19.º - 1 - Os lugares de admissão nas diferentes carreiras técnicas do quadro do GEP serão providos de entre indivíduos que possuam as habilitações literárias a seguir indicadas, com preferência para o pessoal já vinculado ao Ministério:
 
 a) Técnico superior de 2.ª - licenciatura adequada ao desempenho das respectivas funções;
 
@@ -307,7 +339,7 @@ d) Técnico auxiliar de 2.ª - curso geral dos liceus ou habilitações equivale
 
 e) Auxiliar técnico de 2.ª - escolaridade obrigatória, de acordo com a idade do agente.
 
-###### Art. 20.º - 1 - O provimento do pessoal do GEP será feito por nomeação provisória ou comissão de serviço durante o período de um ano, salvo os casos de provimento por contrato nos termos da lei geral e sem prejuízo do disposto no artigo 18.º
+Art. 20.º - 1 - O provimento do pessoal do GEP será feito por nomeação provisória ou comissão de serviço durante o período de um ano, salvo os casos de provimento por contrato nos termos da lei geral e sem prejuízo do disposto no artigo 18.º
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -321,13 +353,13 @@ b) Será exonerado ou regressará ao lugar de origem, conforme se trate de nomea
 
 5 - Para efeitos do disposto no n.º 1 será contado o tempo de serviço prestado ao Ministério em regime de contrato.
 
-###### Art. 21.º O regime de pessoal do GEP, em tudo que não for expressamente regulado pelo presente diploma, será o que for aprovado para todo o pessoal do Ministério da Indústria e Tecnologia.
+Art. 21.º O regime de pessoal do GEP, em tudo que não for expressamente regulado pelo presente diploma, será o que for aprovado para todo o pessoal do Ministério da Indústria e Tecnologia.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 22.º No prazo de trinta dias a contar da data da publicação deste diploma, será publicada no Diário da República a lista nominativa, aprovada pelo Ministro da Indústria e Tecnologia, do pessoal que, prestando serviço a qualquer título no Ministério, transita para a GEP.
+Art. 22.º No prazo de trinta dias a contar da data da publicação deste diploma, será publicada no Diário da República a lista nominativa, aprovada pelo Ministro da Indústria e Tecnologia, do pessoal que, prestando serviço a qualquer título no Ministério, transita para a GEP.
 
-###### Art. 23.º - 1 - O primeiro provimento dos lugares do quadro anexo a este diploma será feito para qualquer lugar, independentemente da categoria e do tempo de serviço prestado, com respeito pelas habilitações literárias exigidas pelo presente diploma para o provimento dos lugares, prioritariamente com o pessoal constante da lista referida no artigo anterior.
+Art. 23.º - 1 - O primeiro provimento dos lugares do quadro anexo a este diploma será feito para qualquer lugar, independentemente da categoria e do tempo de serviço prestado, com respeito pelas habilitações literárias exigidas pelo presente diploma para o provimento dos lugares, prioritariamente com o pessoal constante da lista referida no artigo anterior.
 
 2 - O pessoal referido no número anterior ingressará no quadro do GEP, com respeito pelos direitos adquiridos à medida que os serviços forem sendo organizados, mediante listas nominativas, a publicar no Diário da República, aprovadas pelo Ministro da Indústria e Tecnologia e visadas pelo Tribunal de Contas, considerando-se investido nos respectivos lugares a partir da data da publicação dessas listas, com dispensa de qualquer outra formalidade.
 
@@ -335,27 +367,27 @@ b) Será exonerado ou regressará ao lugar de origem, conforme se trate de nomea
 
 4 - Para efeitos do disposto no n.º 2 do artigo 20.º será considerado o tempo de serviço já prestado ao Ministério, independentemente do vínculo e categoria em que o mesmo tiver sido prestado.
 
-###### Art. 24.º Transitam para o GEP a documentação e outros valores necessários ao exercício das funções que lhe são cometidas existentes em qualquer dos actuais organismos do MIT.
+Art. 24.º Transitam para o GEP a documentação e outros valores necessários ao exercício das funções que lhe são cometidas existentes em qualquer dos actuais organismos do MIT.
 
-###### Art. 25.º - 1 - O Gabinete de Estudos e Planeamento criado pelo [Decreto-Lei n.º 623/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/623-1973-412060), de 28 de Novembro, e o Gabinete de Planeamento, criado pelo [Decreto n.º 102/70](https://diariodarepublica.pt/dr/detalhe/decreto/102-1970-228661), de 13 de Março, serão extintos uma vez efectuada a integração do pessoal, verbas e património no organismo ora criado.
+Art. 25.º - 1 - O Gabinete de Estudos e Planeamento criado pelo [Decreto-Lei n.º 623/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/623-1973-412060), de 28 de Novembro, e o Gabinete de Planeamento, criado pelo [Decreto n.º 102/70](https://diariodarepublica.pt/dr/detalhe/decreto/102-1970-228661), de 13 de Março, serão extintos uma vez efectuada a integração do pessoal, verbas e património no organismo ora criado.
 
 2 - A data efectiva da extinção dos serviços referidos no número anterior será determinada por despacho do Ministro da Indústria e Tecnologia, a publicar na 1.ª série do Diário da República, o qual regulará quaisquer outros aspectos relativos a essa extinção, para além do que se dispõe no presente diploma.
 
 3 - São extintos, à medida em que se for procedendo à respectiva integração, os lugares dos quadros dos diferentes serviços do Ministério do pessoal que nos termos do disposto no presente decreto é integrado no quadro do pessoal do GEP.
 
-###### Art. 26.º Mediante despacho conjunto dos Ministros da Indústria e Tecnologia e das Finanças e nos termos nele definidos, podem ser utilizadas pelo GEP, até à efectivação das convenientes alterações orçamentais, as verbas dos Gabinetes do Ministro e dos Secretários de Estado, bem como a dos organismos a extinguir, nomeadamente as verbas orçamentadas destinadas ao pagamento de remunerações e outros abonos do pessoal referido no artigo anterior, assim como as que forem libertas nos serviços do Ministério pela integração do pessoal, a eles vinculado a qualquer título, nos quadros agora criados.
+Art. 26.º Mediante despacho conjunto dos Ministros da Indústria e Tecnologia e das Finanças e nos termos nele definidos, podem ser utilizadas pelo GEP, até à efectivação das convenientes alterações orçamentais, as verbas dos Gabinetes do Ministro e dos Secretários de Estado, bem como a dos organismos a extinguir, nomeadamente as verbas orçamentadas destinadas ao pagamento de remunerações e outros abonos do pessoal referido no artigo anterior, assim como as que forem libertas nos serviços do Ministério pela integração do pessoal, a eles vinculado a qualquer título, nos quadros agora criados.
 
-###### Art. 27.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Indústria e Tecnologia, conjunto com o Secretário de Estado da Administração Pública e com o Ministro das Finanças quando estiverem em causa matérias das respectivas competências.
+Art. 27.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Indústria e Tecnologia, conjunto com o Secretário de Estado da Administração Pública e com o Ministro das Finanças quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 28.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 28.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira - Alfredo Jorge Nobre da Costa - José Dias dos Santos Pais.
 
-**Promulgado em 7 de Janeiro de 1978.**
+Promulgado em 7 de Janeiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Mapas a que se refere o artigo 17.º
 
@@ -363,12 +395,12 @@ QUADRO I
 
 Pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/01/01600/01240129.pdf))](https://files.diariodarepublica.pt/1s/1978/01/01600/01240129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/01/01600/01240129.pdf)
 
 QUADRO II
 
 Pessoal técnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/01/01600/01240129.pdf))](https://files.diariodarepublica.pt/1s/1978/01/01600/01240129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/01/01600/01240129.pdf)
 
-**O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa. - O Secretário de Estado da Administração Pública, José Dias dos Santos Pais.**
+O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa. - O Secretário de Estado da Administração Pública, José Dias dos Santos Pais.

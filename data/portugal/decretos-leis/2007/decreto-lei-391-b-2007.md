@@ -23,12 +23,12 @@ publication:
   reference: Diário da República n.º 247/2007, 1º Suplemento, Série I de 2007-12-24
   number: '247'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 9056-(2) a 9056-(767)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/12/24701/0000200767.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/391-b/2007/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-b-2007-476926
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b8617ec56babbafc2cfc2a1c8bd26adac4b5f702ebd35b1ce0fe410d8fc382a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 786f0b8f61e18bebb304b687d4e811b3e5d2f1ed956fb1518c6fa48e811ed01e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Aproximação das Legislações
+- ASAE
 - Contra-ordenação
-- Transporte Ferroviário
 - Fiscalização
 - Instituto Nacional do Transporte Ferroviário
-- ASAE
-- Transporte de Mercadorias
+- PSP
 - Regulamento
 - Regulamento Nacional do Transporte de Mercadorias Perigosas por Caminho de Ferro
+- Transporte de Mercadorias
+- Transporte Ferroviário
 - Transporte Internacional
 relationships:
 - type: amended_by
@@ -109,16 +109,22 @@ relationships:
   target: celex:32004L0110
   label: null
   source: http://data.europa.eu/eli/dir/2004/110/oj
+- type: repealed_by
+  target: pt:dre:300828:por
+  label: "Revogado, a partir de 04.05.2010 o Dec Lei 124-A/2004, de 26-Maio, na redacção do presente diploma, pelo DEC LEI.41-A/2010.29.04.2010.MOPTC,\
+    \ DR.IS [83-Supl] de 29.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-a-2010-300828
+  date: '2010-04-29'
 article_structure:
-  article_count: 8
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:25Z'
   warnings: []
   errors: []
 ---
@@ -155,11 +161,15 @@ Os artigos 2.º, 9.º e 10.º do Decreto-Lei n.º 124-A/2004, de 26 de Maio, pas
 
 2 - Aos transportes com origem ou destino em território estrangeiro aplica-se o Regulamento Relativo ao Transporte Ferroviário Internacional de Mercadorias Perigosas (RID), que constitui o anexo i das Regras Uniformes Relativas ao Contrato de Transporte Ferroviário Internacional de Mercadorias (CIM), que integram o apêndice B da Convenção Relativa aos Transportes Internacionais por Caminho de Ferro (COTIF), concluída em Berna em 9 de Maio de 1980 e alterada pelo Protocolo de Vilnius de 3 de Junho de 1999.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 A fiscalização das condições de realização dos transportes ferroviários de mercadorias perigosas incumbe ao INTF, à Polícia de Segurança Pública e à Autoridade de Segurança Alimentar e Económica.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -219,14 +229,14 @@ O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Agosto de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Rui Carlos Pereira - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia.
 
-**Promulgado em 24 de Outubro de 2007.**
+Promulgado em 24 de Outubro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Outubro de 2007.**
+Referendado em 26 de Outubro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/24701/0000200767.pdf))](https://files.diariodarepublica.pt/1s/2007/12/24701/0000200767.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/24701/0000200767.pdf)

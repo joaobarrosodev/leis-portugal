@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24375-1969-216293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05e617339cd0514e60927b7d29a7bf2dddf5b11abd8a34fa958ac9b4cb39cc4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 404229d679061c57bed7e53bb2dfac124094efe5a2b4b39fd59f589ba7355a82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:07Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +93,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 334.º, n.º 2) «Subsídios e pensões - Subsídios para melhoramentos públicos» ... 150000$00
+Artigo 334.º, n.º 2) «Subsídios e pensões - Subsídios para melhoramentos públicos» ... 150000$00
 
-###### Artigo 338.º, n.º 20) «Diversas despesas - Despesas com a construção, apetrechamento e reparação dos portos da província» ... 50000$00
+Artigo 338.º, n.º 20) «Diversas despesas - Despesas com a construção, apetrechamento e reparação dos portos da província» ... 50000$00
 
 ... 200000$00
 

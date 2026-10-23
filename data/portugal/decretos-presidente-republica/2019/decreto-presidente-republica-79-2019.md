@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/22200/0000900009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/79/2019/11/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/79-2019-126318015
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T05:37:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a717125cc8544e2c17483f16881d0f46ca40e93753cbf52bbba797b1151be3c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c988bc8c33c0f0c505d0f6744311f1c2eae3b1372ae6607e95fccedabc947b18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:37:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Berlim
-- Portugal
 - Embaixador
 - Nomeação
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:913590007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:913590007:por
+  label: Exonerado o nomeado pelo(a) Decreto do Presidente da República n.º 32-A/2025 - Diário da República n.º 65/2025, Suplemento,
+    Série I de 2025-04-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/32-a-2025-913590007
+  date: '2025-04-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:37:49Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +98,18 @@ validation:
 
 de 19 de novembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o embaixador Francisco Pimentel de Mello Ribeiro de Menezes para o cargo de Embaixador de Portugal em Berlim.
 
-**Assinado em 6 de novembro de 2019.**
+Assinado em 6 de novembro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 13 de novembro de 2019.**
+Referendado em 13 de novembro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa. - O Ministro de Estado e dos Negócios Estrangeiros, Augusto Ernesto Santos Silva.**
+O Primeiro-Ministro, António Luís Santos da Costa. - O Ministro de Estado e dos Negócios Estrangeiros, Augusto Ernesto Santos Silva.
+
+112764518

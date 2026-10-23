@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-1980-461833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:27:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 408ef31ae6c02b9939c887b2adcdd5611953e4ba82e77192a1911ccfc891ee39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8db5e152840ddccac09002bd37244b8a2cd6789f9856842455d73922bd9fb98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:27:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Instituto Superior Técnico
 relationships:
 - type: amended_by
   target: pt:dre:183255:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:182992:por
+  label: "Alterada a designação do Departamento de Engenharia Electrónica criado pelo presente diploma, pela PORT.441/85.08.07.1985.ME,\
+    \ DR.IS [154] de 08.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/441-1985-182992
+  date: '1985-07-08'
+- type: amended_by
+  target: pt:dre:183255:por
+  label: "Extinta a Secção Autónoma de Engenharia de Minas criada pelo art. 2.º do presente diploma, pela PORT.503/85.24.07.1985.ME,\
+    \ DR.IS [168] de 24.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/503-1985-183255
+  date: '1985-07-24'
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:27:34Z'
   warnings: []
   errors: []
 ---
@@ -180,37 +198,37 @@ Regulamento dos Departamentos do Instituto Superior Técnico
 
 ### CAPÍTULO I — (Dos departamentos e secções do Instituto Superior Técnico)
 
-###### Artigo 1.º - 1 - O Instituto Superior Técnico é organizado em departamentos em grandes áreas do conhecimento delimitadas em função de objectivos próprios e de metodologias e técnicas de investigação específicas.
+Artigo 1.º - 1 - O Instituto Superior Técnico é organizado em departamentos em grandes áreas do conhecimento delimitadas em função de objectivos próprios e de metodologias e técnicas de investigação específicas.
 
 2 - Cada departamento tem por finalidades essenciais a realização de actividades de ensino de licenciatura e pós-licenciatura e de investigação fundamental e aplicada, tendo ainda por objectivos o desenvolvimento tecnológico, a prestação de serviços ao exterior e a efectivação de actividades de extensão universitária.
 
 3 - Cada departamento deverá dispor de um número mínimo de quinze docentes e investigadores, cinco dos quais, pelo menos, deverão ser doutorados a prestar serviço em regime de tempo integral.
 
-###### Art. 2.º A criação de departamentos do Instituto Superior Técnico subordina-se aos critérios enunciados no artigo 1.º e processa-se de acordo com o disposto no n.º 1 do artigo 5.º
+Art. 2.º A criação de departamentos do Instituto Superior Técnico subordina-se aos critérios enunciados no artigo 1.º e processa-se de acordo com o disposto no n.º 1 do artigo 5.º
 
-###### Art. 3.º - 1 - Os departamentos poderão, por sua iniciativa, subdividir-se em secções, sempre que a sua dimensão e a pluralidade de matérias científicas compreendidas na sua área o recomende.
+Art. 3.º - 1 - Os departamentos poderão, por sua iniciativa, subdividir-se em secções, sempre que a sua dimensão e a pluralidade de matérias científicas compreendidas na sua área o recomende.
 
 2 - As secções integradas em departamentos são entendidas como unidades orgânicas respeitantes a áreas diferenciadas do conhecimento, com dimensões e características tais que lhes permitam prosseguir e desenvolver actividades de ensino, de investigação e de prestação de serviços autónomas.
 
 3 - Cada secção deverá dispor de um número mínimo de cinco docentes e investigadores em tempo integral, um dos quais, pelo menos, deverá ser professor.
 
-###### Art. 4.º As unidades que, satisfazendo os n.os 1 e 2 do artigo 1.º, não verifiquem as condições impostas pelo n.º 3 do artigo 1.º constituem-se em secções autónomas, na dependência directa dos órgãos de gestão da escola.
+Art. 4.º As unidades que, satisfazendo os n.os 1 e 2 do artigo 1.º, não verifiquem as condições impostas pelo n.º 3 do artigo 1.º constituem-se em secções autónomas, na dependência directa dos órgãos de gestão da escola.
 
-###### Art. 5.º - 1 - A constituição e a dissolução de departamentos e das secções autónomas carece de parecer favorável do conselho científico e do conselho directivo.
+Art. 5.º - 1 - A constituição e a dissolução de departamentos e das secções autónomas carece de parecer favorável do conselho científico e do conselho directivo.
 
 2 - A constituição e a dissolução de secções integradas em departamentos carece de parecer favorável do conselho científico.
 
-###### Art. 6.º Quando, por quaisquer razões, um departamento ou secção deixar de verificar os mínimos estabelecidos nos n.os 3 do artigo 1.º e 3 do artigo 3.º, respectivamente, por um período continuado de um ano, a sua subsistência como unidade diferenciada será obrigatoriamente objecto de apreciação pelos órgãos de gestão da escola.
+Art. 6.º Quando, por quaisquer razões, um departamento ou secção deixar de verificar os mínimos estabelecidos nos n.os 3 do artigo 1.º e 3 do artigo 3.º, respectivamente, por um período continuado de um ano, a sua subsistência como unidade diferenciada será obrigatoriamente objecto de apreciação pelos órgãos de gestão da escola.
 
 ### CAPÍTULO II — (Dos órgãos dos departamentos)
 
-###### Art. 7.º O departamento tem os seguintes órgãos:
+Art. 7.º O departamento tem os seguintes órgãos:
 
 a) Conselho de departamento;
 
 b) Comissão executiva.
 
-###### Art. 8.º - 1 - O conselho de departamento é constituído por membros permanentes e por membros não permanentes.
+Art. 8.º - 1 - O conselho de departamento é constituído por membros permanentes e por membros não permanentes.
 
 2 - São membros permanentes os professores catedráticos, associados e auxiliares e os investigadores doutorados incluídos na área científica abrangida pelo departamento.
 
@@ -224,7 +242,7 @@ b) Comissão executiva.
 
 6 - O conselho de departamento reúne por iniciativa do seu presidente ou de metade dos seus membros, mediante convocatória assinada por aquele, da qual deve constar a ordem de trabalhos.
 
-###### Art. 9.º Ao conselho de departamento compete:
+Art. 9.º Ao conselho de departamento compete:
 
 a) Eleger e destituir o presidente do conselho de departamento, implicando a destituição do presidente e a cessação de funções da comissão executiva;
 
@@ -258,7 +276,7 @@ p) Decidir sobre os recursos que lhe sejam apresentados pelos membros do departa
 
 q) Deliberar sobre outras matérias que, nos termos do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), se mostrem relevantes para o departamento.
 
-###### Art. 10.º - 1 - No caso do número de membros do conselho de departamento ser superior a oito, poderá este funcionar em plenário e ou em comissão restrita, que se designará por comissão coordenadora do departamento.
+Art. 10.º - 1 - No caso do número de membros do conselho de departamento ser superior a oito, poderá este funcionar em plenário e ou em comissão restrita, que se designará por comissão coordenadora do departamento.
 
 2 - A comissão coordenadora do departamento é constituída por:
 
@@ -270,13 +288,13 @@ c) Docentes e investigadores não doutorados eleitos pelos seus pares do conselh
 
 3 - A comissão coordenadora do departamento terá todas as competências que o conselho de departamento entenda delegar-lhe, com excepção das referidas nas alíneas a), b) e f) do artigo 9.º
 
-###### Art. 11.º A comissão executiva do departamento é constituída por:
+Art. 11.º A comissão executiva do departamento é constituída por:
 
 a) Presidente do conselho de departamento, que preside;
 
 b) Dois docentes ou investigadores do departamento em tempo integral e em exercício de funções.
 
-###### Art. 12.º À comissão executiva compete:
+Art. 12.º À comissão executiva compete:
 
 a) Dirigir o departamento de acordo com a legislação em vigor, com as normas gerais da escola e com as decisões e orientações estabelecidas pelo conselho de departamento;
 
@@ -300,7 +318,7 @@ j) Apresentar anualmente ao conselho de departamento o relatório das suas activ
 
 l) Preparar as reuniões do conselho e da comissão coordenadora do departamento e executar as suas deliberações.
 
-###### Art. 13.º Ao presidente do conselho de departamento compete:
+Art. 13.º Ao presidente do conselho de departamento compete:
 
 a) Convocar e conduzir as reuniões do conselho, da comissão coordenadora e da comissão executiva;
 
@@ -312,25 +330,25 @@ d) Exercer, em permanência, as funções que lhe forem cometidas pelo conselho,
 
 e) Fazer parte, por inerência de funções, da comissão coordenadora do conselho científico do Instituto Superior Técnico.
 
-###### Art. 14.º O presidente do conselho de departamento poderá ser parcialmente dispensado de serviço docente durante o seu mandato.
+Art. 14.º O presidente do conselho de departamento poderá ser parcialmente dispensado de serviço docente durante o seu mandato.
 
-###### Art. 15.º Nas suas actividades de gestão, a comissão executiva poderá ser coadjuvada por um funcionário superior, de lugar do quadro, que desempenhará as funções de secretário do departamento.
+Art. 15.º Nas suas actividades de gestão, a comissão executiva poderá ser coadjuvada por um funcionário superior, de lugar do quadro, que desempenhará as funções de secretário do departamento.
 
 ### CAPÍTULO III — (Dos órgãos das secções)
 
-###### Art. 16.º A secção tem como órgãos o conselho e ou o coordenador de secção, o qual deverá ser um professor em tempo integral e em exercício de funções.
+Art. 16.º A secção tem como órgãos o conselho e ou o coordenador de secção, o qual deverá ser um professor em tempo integral e em exercício de funções.
 
 § único. Compete ao conjunto dos membros da secção deliberar da conveniência em constituir o conselho de secção.
 
-###### Art. 17.º As competências e atribuições dos órgãos das secções integrados em departamentos serão objecto de normas internas a aprovar pelos órgãos de gestão da escola.
+Art. 17.º As competências e atribuições dos órgãos das secções integrados em departamentos serão objecto de normas internas a aprovar pelos órgãos de gestão da escola.
 
-###### Art. 18.º Os conselhos e os coordenadores das secções autónomas, constituídas ao abrigo do artigo 4.º, têm, para além das competências a estabelecer para os órgãos das secções integradas em departamentos, as competências referidas nas alíneas d), h), i), j), m) e o) do artigo 9.º, com as necessárias adaptações.
+Art. 18.º Os conselhos e os coordenadores das secções autónomas, constituídas ao abrigo do artigo 4.º, têm, para além das competências a estabelecer para os órgãos das secções integradas em departamentos, as competências referidas nas alíneas d), h), i), j), m) e o) do artigo 9.º, com as necessárias adaptações.
 
 ### CAPÍTULO IV — (Dos órgãos de gestão da escola)
 
-###### Art. 19.º Os órgãos de gestão do Instituto Superior Técnico funcionarão como órgãos de recurso e de fiscalização das decisões dos órgãos dos departamentos e secções.
+Art. 19.º Os órgãos de gestão do Instituto Superior Técnico funcionarão como órgãos de recurso e de fiscalização das decisões dos órgãos dos departamentos e secções.
 
-###### Art. 20.º - 1 - A comissão coordenadora do conselho científico é constituída por:
+Art. 20.º - 1 - A comissão coordenadora do conselho científico é constituída por:
 
 a) Presidente do conselho científico, dispondo de voto de qualidade;
 
@@ -348,44 +366,44 @@ d) Coordenadores das secções autónomas.
 
 Instalações
 
-###### Art. 21.º Serão definidas pelos órgãos de gestão do Instituto Superior Técnico as instalações afectas aos departamentos, incluindo áreas para laboratórios, gabinetes, bibliotecas e serviços administrativos, que ficarão sob a responsabilidade dos departamentos de acordo com a alínea i) do artigo 12.º
+Art. 21.º Serão definidas pelos órgãos de gestão do Instituto Superior Técnico as instalações afectas aos departamentos, incluindo áreas para laboratórios, gabinetes, bibliotecas e serviços administrativos, que ficarão sob a responsabilidade dos departamentos de acordo com a alínea i) do artigo 12.º
 
 Pessoal administrativo e técnico
 
-###### Art. 22.º Os quadros de pessoal administrativo e técnico do Instituto Superior Técnico deverão explicitar os lugares adstritos aos departamentos.
+Art. 22.º Os quadros de pessoal administrativo e técnico do Instituto Superior Técnico deverão explicitar os lugares adstritos aos departamentos.
 
 Gestão de meios materiais
 
-###### Art. 23.º Dentro da legislação em vigor e das normas da contabilidade pública, deverão ser criadas condições que permitam aos departamentos, sob fiscalização do conselho directivo, desempenhar as suas funções de gestão da forma mais eficiente.
+Art. 23.º Dentro da legislação em vigor e das normas da contabilidade pública, deverão ser criadas condições que permitam aos departamentos, sob fiscalização do conselho directivo, desempenhar as suas funções de gestão da forma mais eficiente.
 
 Competências científicas e pedagógicas
 
-###### Art. 24.º Serão descentralizadas para os órgãos do departamento e de acordo com as normas gerais em vigor na escola todas as funções de natureza científica e pedagógica que sejam específicas da sua área.
+Art. 24.º Serão descentralizadas para os órgãos do departamento e de acordo com as normas gerais em vigor na escola todas as funções de natureza científica e pedagógica que sejam específicas da sua área.
 
-###### Art. 25.º As matérias objecto dos artigos 23.º e 24.º serão definidas em normas a estabelecer pelos órgãos de gestão da escola, depois de ouvidos os departamentos.
+Art. 25.º As matérias objecto dos artigos 23.º e 24.º serão definidas em normas a estabelecer pelos órgãos de gestão da escola, depois de ouvidos os departamentos.
 
 ### CAPÍTULO VI — (Das disposições gerais)
 
-###### Art. 26.º - 1 - Os membros dos órgãos dotados de poder deliberativo são criminal, civil e disciplinarmente responsáveis pelas infracções à lei cometidas no exercício das suas funções.
+Art. 26.º - 1 - Os membros dos órgãos dotados de poder deliberativo são criminal, civil e disciplinarmente responsáveis pelas infracções à lei cometidas no exercício das suas funções.
 
 2 - São excluídos do disposto no número anterior os membros que fizerem exarar em acta a sua oposição às deliberações tomadas e os ausentes que o façam na primeira reunião em que estiverem presentes.
 
-###### Art. 27.º - 1 - Os órgãos com poder deliberativo só podem deliberar quando estiver presente a maioria dos seus membros.
+Art. 27.º - 1 - Os órgãos com poder deliberativo só podem deliberar quando estiver presente a maioria dos seus membros.
 
 2 - As decisões serão aprovadas por maioria simples.
 
 3 - Todas as deliberações e eleições que individualmente se refiram a pessoas estão sujeitas a escrutínio secreto.
 
-###### Art. 28.º Os processos de eleição e destituição previstos no presente Regulamento serão definidos pelo departamento e ou secção a que se referem.
+Art. 28.º Os processos de eleição e destituição previstos no presente Regulamento serão definidos pelo departamento e ou secção a que se referem.
 
-###### Art. 29.º O presente Regulamento poderá ser revisto mediante proposta dos órgãos de gestão da escola ou de qualquer dos departamentos, após um ano da sua entrada em vigor.
+Art. 29.º O presente Regulamento poderá ser revisto mediante proposta dos órgãos de gestão da escola ou de qualquer dos departamentos, após um ano da sua entrada em vigor.
 
 ### CAPÍTULO VII — (Das disposições transitórias)
 
-###### Art. 30.º - 1 - No prazo de trinta dias após a publicação deste Regulamento, o conselho directivo desencadeará os processos eleitorais para a eleição dos membros não permanentes dos conselhos dos departamentos e dos órgãos das secções autónomas.
+Art. 30.º - 1 - No prazo de trinta dias após a publicação deste Regulamento, o conselho directivo desencadeará os processos eleitorais para a eleição dos membros não permanentes dos conselhos dos departamentos e dos órgãos das secções autónomas.
 
 2 - No prazo de quinze dias após a eleição do conselho de departamento, o professor mais antigo de categoria mais elevada convocará as reuniões em que serão eleitas a comissão coordenadora do departamento, no caso de existir, a comissão executiva e o representante do departamento à comissão coordenadora do conselho científico.
 
 3 - Uma vez eleita, a comissão executiva desencadeará os processos de eleição dos órgãos das secções do departamento.
 
-###### Art. 31.º A comissão coordenadora do conselho científico, constituída de acordo com o presente Regulamento, entra em funções no prazo de trinta dias após o termo deste processo eleitoral.
+Art. 31.º A comissão coordenadora do conselho científico, constituída de acordo com o presente Regulamento, entra em funções no prazo de trinta dias após o termo deste processo eleitoral.

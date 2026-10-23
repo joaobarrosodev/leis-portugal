@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/217a00/51075114.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/246/1997/09/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1997-653149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16e3715b3d3bcc57281b7289cdb7f00bac2ded2fb26e48e3fada19e5cacc7f89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6c2c164087637a2a13736deafce23ae72f55f3d7ed646209a1787970004fdc9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,37 +65,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Extinção de Serviços
-- Secretaria Geral
-- Ministério do Planeamento e da Administração do Território
-- Ministério do MAR
+- Ministério da Ciência e da Tecnologia
 - Ministério das Obras Públicas Transportes e Comunicações
 - Ministério do Equipamento do Planeamento e da Administração do Território
-- Ministério da Ciência e da Tecnologia
 - Ministério do Equipamento Social
+- Ministério do MAR
+- Ministério do Planeamento e da Administração do Território
 - Orgânica
+- Pessoal Dirigente
 - Receita Própria
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:321693:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Integrado no Ministério do Equipamento Social, a Secretaria-Geral do mesmo Ministério, extinta pelo presente diploma,\
+    \ pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1996/03/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/23/1996/03/20/p/dre
+- type: cites
+  target: pt:dre:221094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662143:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:321693:por
+  label: "Revogado a partir de 01.05.2007, nos termos do disposto no artigo 5.º do Decreto-Lei 201/2006 de 27 de Outubro,\
+    \ pelo DR.60-A/2007.30.04.2007.MOPTC, DR.IS [83-Supl] de 30.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/60-a-2007-321693
+  date: '2007-04-30'
 article_structure:
   article_count: 34
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:00Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +212,9 @@ b) A Divisão de Formação;
 
 c) A Repartição de Pessoal, Expediente e Arquivo.
 
-###### Artigo 6.º — Divisão de Gestão dos Recursos Humanos (DGRH)
+###### Artigo 6.º
+
+##### Divisão de Gestão dos Recursos Humanos (DGRH)
 
 À DGRH compete, designadamente:
 
@@ -198,7 +228,9 @@ d) Colaborar na definição e coordenar a aplicação das regras que devem presi
 
 e) Organizar e manter actualizado um sistema de comunicação e informação com vista à caracterização dos recursos humanos do Ministério e elaboração de indicadores de gestão.
 
-###### Artigo 7.º — Divisão de Formação (DF)
+###### Artigo 7.º
+
+##### Divisão de Formação (DF)
 
 À DF compete, designadamente:
 
@@ -256,7 +288,9 @@ a) A Divisão de Organização;
 
 b) A Divisão de Sistemas de Informação.
 
-###### Artigo 10.º — Divisão de Organização (DO)
+###### Artigo 10.º
+
+##### Divisão de Organização (DO)
 
 À DO compete, designadamente:
 
@@ -276,7 +310,9 @@ g) Proceder, em colaboração com a DGRH, à análise de funções, tendo em vis
 
 h) Apoiar a elaboração e execução de projectos de reorganização, reestruturação e inovação administrativa de serviços e organismos do Ministério.
 
-###### Artigo 11.º — Divisão de Sistemas de Informação (DSI)
+###### Artigo 11.º
+
+##### Divisão de Sistemas de Informação (DSI)
 
 À DSI compete, designadamente:
 
@@ -310,7 +346,9 @@ b) A Repartição de Administração Financeira;
 
 c) A Repartição de Administração Patrimonial.
 
-###### Artigo 13.º — Divisão de Planeamento e Coordenação Orçamental (DPCO)
+###### Artigo 13.º
+
+##### Divisão de Planeamento e Coordenação Orçamental (DPCO)
 
 À DPCO compete, designadamente:
 
@@ -418,7 +456,9 @@ a) A Divisão de Arquivo Histórico;
 
 b) A Divisão de Biblioteca e Documentação.
 
-###### Artigo 18.º — Divisão de Arquivo Histórico (DAH)
+###### Artigo 18.º
+
+##### Divisão de Arquivo Histórico (DAH)
 
 À DAH compete, designadamente:
 
@@ -440,7 +480,9 @@ h) Apoiar os utilizadores no acesso aos registos informáticos e convencionais;
 
 i) Elaborar normas e procedimentos relativamente à reprodução de espécies arquivísticas na perspectiva da sua conservação.
 
-###### Artigo 19.º — Divisão de Biblioteca e Documentação (DBD)
+###### Artigo 19.º
+
+##### Divisão de Biblioteca e Documentação (DBD)
 
 Compete à DBD, designadamente:
 
@@ -472,7 +514,9 @@ b) A Divisão de Actividade Gráfica e Editorial;
 
 c) O Centro de Divulgação.
 
-###### Artigo 21.º — Divisão de Relações Públicas (DRP)
+###### Artigo 21.º
+
+##### Divisão de Relações Públicas (DRP)
 
 À DRP compete, designadamente:
 
@@ -494,7 +538,9 @@ h) Organizar uma base de dados para tratamento temático das notícias seleccion
 
 i) Organizar cadernos temáticos de notícias referentes à actividade do Ministério, quando solicitados.
 
-###### Artigo 22.º — Divisão de Actividade Gráfica e Editorial (DAGE)
+###### Artigo 22.º
+
+##### Divisão de Actividade Gráfica e Editorial (DAGE)
 
 À DAGE compete, designadamente:
 
@@ -624,18 +670,18 @@ São revogados o [Decreto-Lei n.º 374/86](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 15 de Maio de 1997. - António Manuel de Oliveira Guterres - Fernando Teixeira dos Santos - José Augusto de Carvalho - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 4 de Setembro de 1997.**
+Promulgado em 4 de Setembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Setembro de 1997.**
+Referendado em 11 de Setembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO A QUE SE REFERE O N.º 1 DO ARTIGO 25.º
+ANEXO A QUE SE REFERE O N.º 1 DO ARTIGO 25.º
 
 Pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/217a00/51075114.pdf))](https://files.diariodarepublica.pt/1s/1997/09/217a00/51075114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/217a00/51075114.pdf)

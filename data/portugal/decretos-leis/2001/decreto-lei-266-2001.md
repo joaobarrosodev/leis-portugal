@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/266/2001/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-2001-616243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:27:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eca7fb7bdb05f5dfa1af63f4b4b171b941d8155741af7957acee2c18559c8230
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 255bc7cd20b7d53c3ede0faf1891f6210af08340d29a064212d5dac56df7957b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:27:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
 - Construção Naval
 - Contrato de Concessão
+- Embarcação
 - Estaleiro Naval de Olhão
 - Instituto Portuário do SUL
 - Olhão
@@ -77,13 +77,13 @@ relationships: []
 article_structure:
   article_count: 4
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:27:34Z'
   warnings: []
   errors: []
 ---
@@ -124,25 +124,29 @@ As obras que venham a ser executadas ao abrigo do disposto no artigo anterior se
 
 Visto e aprovado em Conselho de Ministros de 16 de Agosto de 2001. - António Manuel de Oliveira Guterres - Eduardo Luís Barreto Ferro Rodrigues - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 17 de Setembro de 2001.**
+Promulgado em 17 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Setembro de 2001.**
+Referendado em 20 de Setembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 BASES ANEXAS
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Base I — Objecto da concessão
+Base I
+
+Objecto da concessão
 
 A concessão tem por objecto a construção, apetrechamento e exploração, de forma contínua e eficiente, em regime de serviço público, de um estaleiro destinado à construção e reparação de embarcações, na zona do porto de Olhão, doravante designado por Estaleiro de Olhão, ou apenas Estaleiro.
 
-###### Base II — Exclusivo
+Base II
+
+Exclusivo
 
 1 - Na área da concessão, é atribuído à concessionária o exclusivo da indústria de construção e reparação navais.
 
@@ -150,11 +154,15 @@ A concessão tem por objecto a construção, apetrechamento e exploração, de f
 
 ### CAPÍTULO II — Área e âmbito da concessão
 
-###### Base III — Localização do Estaleiro e área da concessão
+Base III
+
+Localização do Estaleiro e área da concessão
 
 A localização do Estaleiro e as indispensáveis referências e pormenores de implantação, bem como as áreas de terreno a afectar à concessão são as que constam da planta anexa ao presente diploma.
 
-###### Base IV — Âmbito da concessão
+Base IV
+
+Âmbito da concessão
 
 1 - Integra-se no âmbito da concessão o direito de uso, construção, apetrechamento, remodelação, modernização e exploração das áreas, instalações e equipamentos que constituem o Estaleiro de Olhão, dentro do objecto e limites estabelecidos nas presentes bases.
 
@@ -162,7 +170,9 @@ A localização do Estaleiro e as indispensáveis referências e pormenores de i
 
 ### CAPÍTULO III — Do estabelecimento
 
-###### Base V — Noção de estabelecimento
+Base V
+
+Noção de estabelecimento
 
 1 - Constituem o estabelecimento da concessão:
 
@@ -172,7 +182,9 @@ b) O conjunto das coisas imóveis e a universalidade das coisas móveis, pertenc
 
 2 - A concessionária deve elaborar e manter permanentemente actualizado o registo dos bens que, nos termos do contrato, venham a integrar o estabelecimento da concessão.
 
-###### Base VI — Prazo de conclusão do estabelecimento
+Base VI
+
+Prazo de conclusão do estabelecimento
 
 1 - A organização do Estaleiro obedecerá ao projecto de plano geral, apresentado pela concessionária, no concurso para atribuição da concessão.
 
@@ -182,11 +194,15 @@ b) O conjunto das coisas imóveis e a universalidade das coisas móveis, pertenc
 
 ### CAPÍTULO IV — Construção, reparação e conservação das instalações da concessão
 
-###### Base VII — Obras
+Base VII
+
+Obras
 
 São da responsabilidade da concessionária as obras de construção ou revitalização de todos os bens e equipamentos que integram o estabelecimento, incluindo a construção das respectivas infra-estruturas de apoio ao equipamento de alagem existente e as demolições que se mostrem necessárias.
 
-###### Base VIII — Projectos e licenças de obras
+Base VIII
+
+Projectos e licenças de obras
 
 1 - A execução das obras referidas na base anterior fica sujeita a autorização do IPS, a cuja aprovação devem ser submetidos os respectivos projectos.
 
@@ -196,7 +212,9 @@ São da responsabilidade da concessionária as obras de construção ou revitali
 
 4 - O IPS emitirá a autorização prevista no n.º 1 no prazo máximo de 60 dias a contar da data de entrega dos respectivos projectos nos serviços competentes do Instituto.
 
-###### Base IX — Conservação dos bens afectos à concessão
+Base IX
+
+Conservação dos bens afectos à concessão
 
 1 - A concessionária obriga-se a manter em permanente estado de bom funcionamento, conservação e segurança os bens que constituem o estabelecimento e a substituir, por sua conta e responsabilidade, todos os bens que se destruírem ou se mostrem inadequados para os fins a que se destinam, por desgaste físico, avaria, deterioração ou obsolência.
 
@@ -208,27 +226,37 @@ São da responsabilidade da concessionária as obras de construção ou revitali
 
 5 - O IPS pode determinar que seja retirado qualquer equipamento que se mostre inadequado ao fim a que se destina e à regular e eficiente exploração dos serviços da concessão, impondo, se o tiver por conveniente, a sua substituição bem como determinar a execução em quaisquer bens da concessão e no prazo que fixar das reparações e beneficiações que se justificarem.
 
-###### Base X — Obras de conservação a cargo da concedente
+Base X
+
+Obras de conservação a cargo da concedente
 
 É da responsabilidade do IPS a manutenção dos fundos nos canais de acesso ao Estaleiro.
 
-###### Base XI — Fornecimento de água e energia eléctrica
+Base XI
+
+Fornecimento de água e energia eléctrica
 
 Os fornecimentos de água e de energia eléctrica, para iluminação e força motriz, necessários ao Estaleiro serão efectuados por intermédio do IPS, mediante o pagamento das taxas aplicáveis no porto de Olhão.
 
-###### Base XII — Garantia de boa execução nas obras e melhoramentos
+Base XII
+
+Garantia de boa execução nas obras e melhoramentos
 
 Nas obras e apetrechamento das instalações da concessão, deverá a concessionária utilizar materiais, equipamentos e métodos de trabalho de acordo com os padrões de qualidade exigidos em instalações similares.
 
 ### CAPÍTULO V — Exploração
 
-###### Base XIII — Regime de exploração
+Base XIII
+
+Regime de exploração
 
 1 - A exploração do Estaleiro será efectuada em regime de serviço público, de forma regular e continuada, em conformidade com o estabelecido no regulamento de exploração.
 
 2 - Compete à concessionária, dentro dos limites estabelecidos nas presentes bases e no contrato de concessão, assegurar todas as actividades e serviços no âmbito da concessão, com garantia de eficiência e de elevados padrões de qualidade nacionais e internacionais exigidos, quer os serviços sejam prestados por si, directamente, quer por terceiros, por si autorizados.
 
-###### Base XIV — Início da exploração
+Base XIV
+
+Início da exploração
 
 1 - A exploração do Estaleiro só pode iniciar-se quando a concessionária estiver munida de todas as licenças e autorizações necessárias ao exercício das actividades compreendidas na concessão.
 
@@ -236,7 +264,9 @@ Nas obras e apetrechamento das instalações da concessão, deverá a concession
 
 3 - A concessionária deve dar conhecimento ao IPS, com a antecedência mínima de 30 dias, de que pretende dar início à exploração do Estaleiro, remetendo cópias das licenças e autorizações a que se refere o n.º 1 desta base.
 
-###### Base XV — Regulamento de exploração
+Base XV
+
+Regulamento de exploração
 
 1 - Antes da entrada em funcionamento do Estaleiro, o IPS aprovará, mediante proposta da concessionária, o regulamento de exploração, que fixará, designadamente, as normas e procedimentos inerentes à prestação dos serviços concedidos e à utilização da área da concessão.
 
@@ -246,7 +276,9 @@ Nas obras e apetrechamento das instalações da concessão, deverá a concession
 
 4 - A aprovação do regulamento de exploração não substitui a regulamentação ou decisão sobre matérias da competência de outros serviços do Estado.
 
-###### Base XVI — Regulamento de tarifas
+Base XVI
+
+Regulamento de tarifas
 
 1 - Os limites máximos dos preços a cobrar pela concessionária pelos serviços prestados no âmbito da concessão, assim como as respectivas regras gerais de aplicação, serão fixados em regulamento de tarifas, a aprovar pelo IPS, sob proposta da concessionária.
 
@@ -256,7 +288,9 @@ Nas obras e apetrechamento das instalações da concessão, deverá a concession
 
 4 - O regulamento de tarifas contemplará que o IPS estará isento de quaisquer custos respeitantes à alagem e estacionamento das suas embarcações, sempre que estas necessitem ser colocadas a seco para vistorias ou reparações.
 
-###### Base XVII — Dever de informação
+Base XVII
+
+Dever de informação
 
 1 - Constitui dever da concessionária exercer a vigilância sobre toda a área da concessão, prestando ao IPS informação oportuna sobre ocorrências anómalas e participar às autoridades competentes os actos ilícitos de que tenha conhecimento.
 
@@ -268,7 +302,9 @@ b) As receitas de exploração detalhadas, em termos de proveniência e evoluç�
 
 c) Os trabalhos de conservação, manutenção e substituição efectuados nas instalações da área da concessão.
 
-###### Base XVIII — Protecção ambiental
+Base XVIII
+
+Protecção ambiental
 
 No exercício da actividade do Estaleiro, por si, ou por terceiros por si autorizados, deve a concessionária adoptar procedimentos que previnam ou minimizem quaisquer riscos de poluição, designadamente:
 
@@ -276,7 +312,9 @@ a) Cumprir e fazer cumprir as normas e regulamentos em vigor para a salvaguarda 
 
 b) Participar imediatamente ao IPS e às entidades competentes, em razão da matéria, quaisquer ocorrências anómalas de natureza poluente ou com efeitos negativos sobre o meio ambiente.
 
-###### Base XIX — Higiene e limpeza
+Base XIX
+
+Higiene e limpeza
 
 A concessionária obriga-se a manter as instalações em permanente estado de higiene e limpeza, tomando, designadamente, as medidas adequadas relativas a:
 
@@ -288,19 +326,25 @@ c) Limpeza dos terraplenos e demais instalações do Estaleiro;
 
 d) Recolha, armazenagem, tratamento e ou destino final dos resíduos sólidos e líquidos, resultantes da actividade exercida, por forma que não seja posta em risco a saúde das pessoas nem resultem prejuízos para o meio ambiente.
 
-###### Base XX — Segurança
+Base XX
+
+Segurança
 
 1 - É obrigação da concessionária adoptar medidas adequadas à prevenção de danos pessoais e materiais, elaborando, para o efeito, um plano de segurança, a aprovar pelo IPS.
 
 2 - No âmbito das obrigações previstas na base XXXIV a concessionária fica obrigada a constituir seguros e mantê-los actualizados, envolvendo todas as instalações e equipamentos utilizados no âmbito da concessão.
 
-###### Base XXI — Fundo de conservação e renovação
+Base XXI
+
+Fundo de conservação e renovação
 
 1 - Para ocorrer aos encargos decorrentes das obrigações de reparação, conservação e reapetrechamento dos bens da concessão, a concessionária afectará uma parte dos seus lucros anuais à constituição de um fundo de conservação e renovação, em termos a aprovar pelo IPS, sob proposta da concessionária.
 
 2 - Com autorização do IPS, poderá o fundo a que se refere o número anterior ser investido em novas aquisições ou ter outra aplicação reputada útil para a prossecução dos fins da concessão.
 
-###### Base XXII — Exploração por terceiros
+Base XXII
+
+Exploração por terceiros
 
 1 - A concessionária pode subconceder a exploração dos serviços concedidos, nos termos a definir no contrato de concessão.
 
@@ -308,13 +352,17 @@ d) Recolha, armazenagem, tratamento e ou destino final dos resíduos sólidos e 
 
 ### CAPÍTULO VI — Vigência, extinção e suspensão da concessão
 
-###### Base XXIII — Prazo
+Base XXIII
+
+Prazo
 
 1 - O prazo da concessão é de 30 anos contados a partir da data da assinatura do respectivo contrato, podendo ser prorrogado, por períodos de 10 anos, se tal resultar de acordo entre o IPS e a concessionária, até um ano antes do termo do prazo da concessão ou da sua última prorrogação.
 
 2 - No caso de se verificarem ampliações ou melhoramentos significativos nas instalações, os prazos de prorrogação poderão vir a ser alterados nos correspondentes contratos adicionais, tidos em conta os estudos económicos que fundamentarem as ampliações ou os melhoramentos, de modo a manter o equilíbrio contratual.
 
-###### Base XXIV — Decurso do prazo
+Base XXIV
+
+Decurso do prazo
 
 1 - No termo da concessão, pelo decurso do prazo, incluindo as suas prorrogações, o IPS entra imediatamente na posse da zona dominial, bem como das obras, edifícios, instalações, equipamentos, apetrechos e demais bens afectos à concessão, os quais reverterão para ela gratuitamente, livres de quaisquer ónus ou encargos, em estado de bom funcionamento, conservação e segurança, não podendo a concessionária reclamar indemnização alguma ou invocar, com qualquer fundamento, o direito de retenção.
 
@@ -336,7 +384,9 @@ d) Recolha, armazenagem, tratamento e ou destino final dos resíduos sólidos e 
 
 10 - As condições da cedência a que se refere o número anterior e a fixação do valor das instalações referidas no n.º 8 da presente base serão reguladas por acordo ou, na sua falta, nos termos do disposto na base XLI.
 
-###### Base XXV — Resgate
+Base XXV
+
+Resgate
 
 1 - O IPS pode resgatar a concessão, quando motivos de interesse público o justifiquem, desde que decorrido metade do prazo por que foi atribuída a concessão, mas o resgate só produzirá efeitos dois anos após a data de notificação à concessionária da intenção de resgatar a concessão.
 
@@ -356,7 +406,9 @@ d) Recolha, armazenagem, tratamento e ou destino final dos resíduos sólidos e 
 
 9 - O IPS pode liquidar os encargos da aquisição e da indemnização a que se referem, respectivamente, os n.os 6 e 7 da presente base, por uma só vez ou em anuidades, até ao limite previsto para o termo do prazo da concessão, vencendo as importâncias em débito juros calculados a uma taxa igual à taxa básica de desconto do Banco de Portugal, adicionada de 1%.
 
-###### Base XXVI — Rescisão
+Base XXVI
+
+Rescisão
 
 1 - O IPS poderá pôr termo à concessão através da rescisão do contrato sempre que, do incumprimento das obrigações essenciais, pela concessionária, resultem graves perturbações na organização ou no funcionamento dos serviços concedidos.
 
@@ -390,7 +442,9 @@ i) A repetição de actos de indisciplina do pessoal ou dos utentes, por culpa g
 
 7 - Uma vez declarada e comunicada, por escrito, à concessionária, a rescisão produz imediatamente os seus efeitos, independentemente de qualquer outra formalidade.
 
-###### Base XXVII — Sequestro
+Base XXVII
+
+Sequestro
 
 1 - O IPS pode assumir a exploração dos serviços concedidos, por si ou por outrem, quando se verifique ou esteja iminente a sua cessação, total ou parcial, por causa imputável à concessionária ou se mostrem graves deficiências na respectiva organização e funcionamento ou no estado geral das instalações ou do equipamento, susceptíveis de comprometerem a regularidade da exploração.
 
@@ -400,7 +454,9 @@ i) A repetição de actos de indisciplina do pessoal ou dos utentes, por culpa g
 
 4 - Se a concessionária não quiser ou não puder retomar a exploração ou, quando o tiver feito, continuem a verificar-se deficiências na organização e no funcionamento dos serviços, o IPS poderá declarar a imediata rescisão do contrato de concessão.
 
-###### Base XXVIII — Estado de sítio ou de emergência grave
+Base XXVIII
+
+Estado de sítio ou de emergência grave
 
 1 - De acordo com o previsto na legislação aplicável, o IPS, ou outra entidade para o efeito designada, pode, em situação de estado de sítio ou de emergência grave, formalmente declarados, ser investido na gestão e exploração dos serviços concedidos.
 
@@ -408,7 +464,9 @@ i) A repetição de actos de indisciplina do pessoal ou dos utentes, por culpa g
 
 ### CAPÍTULO VII — Obrigações especiais
 
-###### Base XXIX — Contrapartida pela concessão
+Base XXIX
+
+Contrapartida pela concessão
 
 1 - A concessionária pagará ao IPS, como contrapartida pela concessão da exploração do Estaleiro, uma anuidade correspondente à soma das duas parcelas seguintes:
 
@@ -428,7 +486,9 @@ b) Mensalmente, até 60 dias após o fim do mês a que respeita, no que se refer
 
 5 - O atraso no pagamento de qualquer importância constitui a concessionária em mora, sendo devidos juros, por cada mês ou fracção, à taxa legalmente fixada para as obrigações fiscais.
 
-###### Base XXX — Deliberações sujeitas a aprovação
+Base XXX
+
+Deliberações sujeitas a aprovação
 
 1 - Carecem de aprovação do IPS as deliberações da concessionária que visem:
 
@@ -450,19 +510,25 @@ g) A cessação, temporária ou definitiva, total ou parcial, dos serviços conc
 
 ### CAPÍTULO VIII — Transmissão e oneração dos direitos ou bens da concessão
 
-###### Base XXXI — Transmissão da concessão
+Base XXXI
+
+Transmissão da concessão
 
 1 - A concessionária não pode, sem prévio consentimento do IPS, celebrar contratos com terceiros que impliquem, no todo ou em parte, directa ou indirectamente, a cedência a qualquer título, de direitos ou bens da concessão.
 
 2 - São nulos os contratos que tenham sido celebrados com desrespeito pelo estabelecido no número anterior.
 
-###### Base XXXII — Oneração de bens e direitos
+Base XXXII
+
+Oneração de bens e direitos
 
 Não pode a concessionária alienar ou, por qualquer forma, onerar, no todo ou em parte, sem o consentimento escrito do IPS, quer os direitos da concessão quer os bens que integram o estabelecimento.
 
 ### CAPÍTULO IX — Sanções, seguros e garantias
 
-###### Base XXXIII — Incumprimento das obrigações
+Base XXXIII
+
+Incumprimento das obrigações
 
 1 - A falta de cumprimento das obrigações assumidas pela concessionária, quando não lhe correspondam sanções mais graves, nos termos das bases anteriores ou do regulamento de exploração, será punida com coima, de natureza contratual, de (euro) 500 a (euro) 5000, segundo a gravidade e a frequência da infracção, a aplicar mediante deliberação do IPS, a qual, comunicada por escrito à concessionária, produzirá os seus efeitos, independentemente de qualquer outra formalidade.
 
@@ -472,13 +538,17 @@ Não pode a concessionária alienar ou, por qualquer forma, onerar, no todo ou e
 
 4 - O pagamento das coimas não isenta a concessionária da responsabilidade civil em que incorrer, nem prejudica a competência de outras entidades para apreciar as infracções em que lhes caiba intervir.
 
-###### Base XXXIV — Seguros
+Base XXXIV
+
+Seguros
 
 1 - A concessionária fica obrigada a constituir, antes do início da exploração, e manter actualizados contratos de seguro contra os riscos inerentes ao exercício da actividade da construção e reparação navais, nomeadamente incêndio, explosão e poluição, assegurando a cobertura de danos materiais sobre todos os bens que integram o estabelecimento da concessão, bem como a responsabilidade civil por acidentes de trabalho, danos pessoais ou de qualquer outra natureza.
 
 2 - A concessionária fará prova, perante a concessionária, sempre que esta o solicitar, da vigência dos seguros constituídos.
 
-###### Base XXXV — Caução
+Base XXXV
+
+Caução
 
 1 - A concessionária depositará, em qualquer instituição de crédito, à ordem do IPS, no prazo de 60 dias a contar da data da assinatura do contrato, a importância de 5% do valor estimado do contrato, com exclusão do IVA, que servirá de garantia ao efectivo cumprimento das obrigações emergentes do contrato de concessão e ao pagamento das coimas que lhe forem aplicadas.
 
@@ -490,7 +560,9 @@ Não pode a concessionária alienar ou, por qualquer forma, onerar, no todo ou e
 
 ### CAPÍTULO X — Fiscalização
 
-###### Base XXXVI — Acção fiscalizadora
+Base XXXVI
+
+Acção fiscalizadora
 
 1 - O estabelecimento da concessão e as actividades nele exercidas, no âmbito da concessão, ficam sujeitos à fiscalização do IPS, cujas instruções e directivas a concessionária se obriga a cumprir.
 
@@ -498,25 +570,35 @@ Não pode a concessionária alienar ou, por qualquer forma, onerar, no todo ou e
 
 3 - O exercício da fiscalização pelo IPS não dispensa a concessionária das acções de fiscalização de quaisquer outros serviços oficiais competentes.
 
-###### Base XXXVII — Vistorias
+Base XXXVII
+
+Vistorias
 
 Constituem encargo da concessionária as despesas com vistorias efectuadas a seu pedido bem como as despesas com vistorias extraordinárias efectuadas aos componentes do estabelecimento, nomeadamente as que resultem de reclamações de terceiros, desde que a vistoria conclua pela existência de irregularidades imputáveis à concessionária.
 
 ### CAPÍTULO XI — Disposições finais
 
-###### Base XXXVIII — Responsabilidade civil
+Base XXXVIII
+
+Responsabilidade civil
 
 A concessionária é responsável, nos termos gerais de direito, pelos prejuízos ou danos causados a terceiros no exercício dos poderes que lhe são conferidos pelo contrato de concessão.
 
-###### Base XXXIX — Obrigações fiscais
+Base XXXIX
+
+Obrigações fiscais
 
 A afectação à concessão de terrenos ou de edifícios e instalações na zona do porto não confere à concessionária, às embarcações e às mercadorias e aos seus proprietários, ou aos meios de transporte terrestres ou marítimos utilizados, qualquer benefício especial relativamente aos sistemas fiscal e ao tarifário em vigor na área de jurisdição do IPS.
 
-###### Base XL — Elementos estatísticos
+Base XL
+
+Elementos estatísticos
 
 A concessionária obriga-se a fornecer ao IPS, até ao dia 15 do mês seguinte àquele a que digam respeito, os elementos estatísticos referentes ao movimento havido no Estaleiro, com indicação das embarcações reparadas ou construídas, bem como os elementos contabilísticos que traduzam o resultado da exploração.
 
-###### Base XLI — Contencioso
+Base XLI
+
+Contencioso
 
 Todas as questões suscitadas entre o IPS e a concessionária sobre a interpretação e a execução do contrato de concessão, bem como de quaisquer adendas que lhe venham a ser feitas, serão resolvidas, na falta de acordo, por um tribunal arbitral constituído nos termos a definir no contrato de concessão.
 

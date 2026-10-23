@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/04/07100/0217002177.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/67/2008/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0cadec8efb4075e68ebe16d51e3d5d1155c73e1410f62ac73893f0ec89889b89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1124ac3ef189c33faf598c27c2d0685b3383f42d4a5ec1619dbbee07f8fba0b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,58 +67,63 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Entidade Regional de Turismo
-- Nomenclatura das Unidades Territoriais para Fins Estatísticos
-- POLO de Desenvolvimento Turístico
+- ÁREA Regional de Turismo
 - Assembleia Geral
-- Vila Franca de Xira
-- Fiscal Único
-- Turismo
+- Cascais
 - Comissão Instaladora
 - Criação de Serviços
 - Direção
-- ÁREA Regional de Turismo
-- Região de Turismo
+- Entidade Regional de Turismo
 - Extinção de Serviços
+- Fiscal Único
 - Guimarães
 - Instituto de Turismo de Portugal
 - Integração de Trabalhadores
 - Loures
+- Nomenclatura das Unidades Territoriais para Fins Estatísticos
 - Odemira
+- Oeiras
 - Ovar
+- POLO de Desenvolvimento Turístico
 - Quadro de Pessoal
+- Região de Turismo
+- Região de Turismo da Planicie Dourada
+- Região de Turismo da ROTA da LUZ
+- Região de Turismo da Serra da Estrela
 - Região de Turismo da Serra de são Mamede
 - Região de Turismo da Serra do Marão
 - Região de Turismo de Dão-lafões
 - Região de Turismo de Évora
+- Região de Turismo de Leiria-rota do SOL
+- Região de Turismo de são Mamede
 - Região de Turismo de Setúbal
+- Região de Turismo do Algarve
 - Região de Turismo do ALTO Minho
+- Região de Turismo do ALTO Tâmega
 - Região de Turismo do Centro
 - Região de Turismo do Douro SUL
 - Região de Turismo do Nordeste Transmontano
 - Região de Turismo do Oeste
+- Região de Turismo do Ribatejo
 - Região de Turismo do Verde Minho
 - Região de Turismo dos Templarios
-- ZONA de Turismo de Montalegre
-- Região de Turismo da Planicie Dourada
-- Região de Turismo da ROTA da LUZ
-- Região de Turismo da Serra da Estrela
-- Região de Turismo de Leiria-rota do SOL
-- Região de Turismo de são Mamede
-- Região de Turismo do Algarve
-- Região de Turismo do ALTO Tâmega
-- Região de Turismo do Ribatejo
 - Regime Jurídico
-- Cascais
-- Oeiras
+- Turismo
+- Vila Franca de Xira
 - Zona de Turismo da Feira
 - ZONA de Turismo de Grândola
+- ZONA de Turismo de Montalegre
 - ZONA de Turismo de VILA NOVA de GAIA
 relationships:
 - type: amended_by
   target: pt:dre:261090:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493512:por
+  label: "Alterado o anexo do presente diploma, pelo DEC LEI.187/2009.12.08.2009.MEI, DR.IS [155] de 12.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/187-2009-493512
+  date: '2009-08-12'
 - type: cites
   target: eli:http://data.dre.pt/
   label: null
@@ -159,16 +164,213 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:158453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634940:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693821:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:261090:por
+  label: "Revogado pela LEI.33/2013.16.05.2013.AR, DR.IS [94] de 16.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/33-2013-261090
+  date: '2013-05-16'
 article_structure:
   article_count: 31
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:20Z'
   warnings: []
   errors: []
 ---
@@ -581,16 +783,16 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Dezembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Rui Carlos Pereira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 28 de Março de 2008.**
+Promulgado em 28 de Março de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de Março de 2008.**
+Referendado em 31 de Março de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Lista dos pólos de desenvolvimento turístico nos termos do artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07100/0217002177.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07100/0217002177.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07100/0217002177.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14300/22942294.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/730-1983-452483
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T07:47:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e664cdbf640be27c314e765e17d5824007836fedcd565ffe35fcc37c6aaac3a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2e727cb7d57ef684a8eba890d2be89147c053757d34cfa9860af9655595fc89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:47:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Instituto Superior de Economia
+- Mestrado
+- Universidade Técnica de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:374205:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:374250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374205:por
+  label: "Revogada a Portaria 848/82, de 6 de Setembro, na redacção do presente diploma, pela PORT.363/88.03.06.1988.ME, DR.IS\
+    \ [128] de 03.06.1988 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/363-1988-374205
+  date: '1988-06-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:47:28Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +128,7 @@ A duração do curso é de 3 semestres lectivos.
 
 As unidades de crédito necessárias à obtenção do curso distribuem-se da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/14300/22942294.pdf))](https://files.diariodarepublica.pt/1s/1983/06/14300/22942294.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14300/22942294.pdf)
 
 I - Comum às 2 áreas de especialização.
 
@@ -120,6 +138,6 @@ III - Da área de especialização de Métodos Matemáticos para Gestão de Empr
 
 Ministério da Educação.
 
-**Assinada em 31 de Maio de 1983.**
+Assinada em 31 de Maio de 1983.
 
-**O Ministro da Educação, João José Fraústo da Silva.**
+O Ministro da Educação, João José Fraústo da Silva.

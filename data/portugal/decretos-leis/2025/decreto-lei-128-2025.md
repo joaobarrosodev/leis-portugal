@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/128/2025/12/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 040d0fefb5a46eedb491ef4fb6f89d34dac21f2a6a22339f0412834eb2ba18f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d64e9667b446f12cdc10d3b72cc3b4ca74d3faadd9c827e7864895e70b6ea11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Farmácia
-- Direção Geral da Saúde
+- Administração Central do Sistema de Saúde
 - Administração Regional de Saúde
-- Serviço Nacional de Saúde
+- Direção Executiva do Serviço Nacional de Saúde
+- Direção Geral da Saúde
 - Extinção de Serviços
+- Farmácia
 - Farmácia de Oficina
 - Horário de Funcionamento
-- Administração Central do Sistema de Saúde
+- Serviço Nacional de Saúde
 - Transferência de Competências
-- Direção Executiva do Serviço Nacional de Saúde
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:53/2007
+  label: Altera, a partir de 22 de dezembro de 2025, os artigos 2.º, 6.º, 7.º, 10.º, 11.º, 12.º, 13.º, 14.º e 15.º, adita
+    o artigo 10.º-A e revoga o n.º 4 do artigo 6.º, o n.º 2 do artigo 7.º, os artigos 8.º e 9.º e as alíneas d), e) e f) do
+    n.º 1 do artigo 11.º do Decreto-Lei n.º 53/2007, de 8 de março, Diário da República n.º 48/2007, Série I
+  source: null
+  date: '2007-03-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/172/2012/08/01/p/dre
   label: null
@@ -92,16 +99,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/7/2011/01/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/7/2011/01/10/p/dre
+- type: cites
+  target: pt:dre:179071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:887091776:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:54/2024
+  label: Revoga, a partir de 22 de dezembro de 2025, o n.º 5 do artigo 27.º do Decreto-Lei n.º 54/2024, de 6 de setembro,
+    Diário da República n.º 173/2024, Série I
+  source: null
+  date: '2024-09-06'
 article_structure:
-  article_count: 12
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:20Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +139,7 @@ validation:
 
 de 17 de dezembro
 
-O regime jurídico aplicável ao horário de funcionamento das farmácias de oficina encontra-se previsto no [Decreto-Lei n.º 53/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2007-519221), de 8 de março, alterado pelos Decretos-Leis n.<sup>os</sup>[7/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), de 10 de janeiro, e [172/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2012-179071), de 1 de agosto.
+O regime jurídico aplicável ao horário de funcionamento das farmácias de oficina encontra-se previsto no [Decreto-Lei n.º 53/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2007-519221), de 8 de março, alterado pelos Decretos-Leis n.os[7/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), de 10 de janeiro, e [172/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2012-179071), de 1 de agosto.
 
 A última alteração realizada àquele diploma visou introduzir medidas de reajustamento relativas às obrigações públicas de serviço, em função das necessidades de acesso das populações aos medicamentos. Volvida mais de uma década constata-se, com base na experiência resultante da sua aplicação, a premência em introduzir algumas alterações ao referido regime jurídico, fruto de ajustamentos no contexto demográfico e populacional, bem como do estabelecimento de modelos organizacionais de prestação de cuidados de saúde, baseados numa gestão integrada e eficiente dos cuidados de saúde primários e cuidados hospitalares.
 
@@ -132,7 +161,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 53/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2007-519221), de 8 de março, alterado pelos Decretos-Leis n.<sup>os</sup>[7/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), de 10 de janeiro, e [172/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2012-179071), de 1 de agosto, que regula o horário de funcionamento das farmácias.
+O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 53/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2007-519221), de 8 de março, alterado pelos Decretos-Leis n.os[7/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), de 10 de janeiro, e [172/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2012-179071), de 1 de agosto, que regula o horário de funcionamento das farmácias.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 53/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2007-519221), de 8 de março
 
@@ -146,7 +175,9 @@ Os artigos 2.º, 6.º, 7.º, 10.º, 11.º, 12.º, 13.º, 14.º e 15.º do [Decre
 
 2 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O proprietário da farmácia comunica os períodos de funcionamento, diário e semanal, da farmácia, fixados nos termos dos artigos 4.º e 5.º, ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), nos seguintes termos:
 
@@ -168,7 +199,9 @@ d) Até ao dia 15 de setembro de cada ano, para o 4.º trimestre do ano civil.
 
 6 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As farmácias devem ter sempre afixado, em local visível, o horário de funcionamento, a linha de assistência farmacêutica e as escalas de assistência farmacêutica.
 
@@ -178,7 +211,9 @@ d) Até ao dia 15 de setembro de cada ano, para o 4.º trimestre do ano civil.
 
 4 - O Portal SNS e o INFARMED, I. P., divulgam, na sua página eletrónica, o horário de funcionamento das farmácias e as escalas de assistência farmacêutica.
 
-###### Artigo 10.º — Assistência farmacêutica
+Artigo 10.º
+
+Assistência farmacêutica
 
 1 - As farmácias estão obrigadas a participar nas escalas de assistência farmacêutica, com exceção das seguintes situações:
 
@@ -194,7 +229,9 @@ c) Se a farmácia estiver situada a uma distância igual ou inferior a dois quil
 
 4 - A farmácia em assistência farmacêutica permanente tem de assegurar o atendimento ao público nas suas instalações de forma presencial e ininterrupta.
 
-###### Artigo 11.º — Critérios mínimos
+Artigo 11.º
+
+Critérios mínimos
 
 1 - A assistência farmacêutica deve respeitar os seguintes critérios mínimos:
 
@@ -220,7 +257,9 @@ h) [...]
 
 4 - (Anterior n.º 2.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A farmácia em assistência farmacêutica não pode recusar a dispensa de medicamentos, nem a dispensa de produtos prescritos em receita médica, salvo nos casos expressamente previstos na lei.
 
@@ -232,7 +271,9 @@ h) [...]
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -244,13 +285,15 @@ c) [...]
 
 d) [...]
 
-e) A violação dos n.<sup>os</sup>1, 2 e 4 do artigo 12.º
+e) A violação dos n.os1, 2 e 4 do artigo 12.º
 
 2 - [...]
 
 3 - [...]
 
-###### Artigo 14.º — Escalas de assistência farmacêutica
+Artigo 14.º
+
+Escalas de assistência farmacêutica
 
 1 - As escalas de assistência farmacêutica são elaboradas pelas associações representativas das farmácias de acordo com os critérios mínimos previstos no artigo 11.º, e pareceres emitidos pelas ULS territorialmente competentes, ouvidos os municípios relevantes, nos termos a definir pela portaria mencionada no artigo seguinte.
 
@@ -260,7 +303,9 @@ e) A violação dos n.<sup>os</sup>1, 2 e 4 do artigo 12.º
 
 4 - Excecionalmente, sempre que se verifique que as escalas elaboradas nos termos previstos no n.º 1 não asseguram a adequada cobertura farmacêutica das populações e têm impacto na saúde pública ou por razões associadas a sazonalidade ou outros eventos que possam justificar o aumento da assistência farmacêutica, o INFARMED, I. P., pode determinar a sua alteração através do alargamento da cobertura, ainda que tal alargamento se verifique apenas em alguns períodos diários e em alguns dias, semanas ou meses.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 O procedimento de elaboração, duração, execução, divulgação e fiscalização das escalas de assistência farmacêutica é objeto de regulamentação por portaria do membro do Governo responsável pela área da saúde.»
 
@@ -284,12 +329,14 @@ b) O n.º 5 do artigo 27.º do [Decreto-Lei n.º 54/2024](https://diariodarepubl
 
 Visto e aprovado em Conselho de Ministros de 22 de outubro de 2025. - Luís Montenegro - Manuel Castro Almeida - Ana Paula Martins.
 
-**Promulgado em 4 de dezembro de 2025.**
+Promulgado em 4 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de dezembro de 2025.**
+Referendado em 5 de dezembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119887302

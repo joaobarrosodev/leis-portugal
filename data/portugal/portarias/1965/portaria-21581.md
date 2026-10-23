@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21581-1965-510659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:07:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 048a4edffab01de78e0e698839b3a178a92db2121ed21a203a0decc9524c2766
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d2bfc9e29f2d1aea21d9f7a0bd94694f053d71c33a91a840e2b87ae9b6a704d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:07:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:07:15Z'
   warnings: []
   errors: []
 ---
@@ -98,6 +98,6 @@ Manda o Governo da República Portuguesa, pelos Ministros da Educação Nacional
 
 Ministérios da Educação Nacional e das Corporações e Previdência Social, 16 de Outubro de 1965. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença. - Pelo Ministro da Educação Nacional, Alberto Carlos de Brito, Subsecretário de Estado da Administração Escolar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/10/23500/13491349.pdf))](https://files.diariodarepublica.pt/1s/1965/10/23500/13491349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/10/23500/13491349.pdf)
 
 Ministérios da Educação Nacional e das Corporações e Previdência Social, 16 de Outubro de 1965. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença. - Pelo Ministro da Educação Nacional, Alberto Carlos de Brito, Subsecretário de Estado da Administração Escolar.

@@ -44,7 +44,7 @@ publication:
   reference: Diário da República n.º 122/2011, 1º Suplemento, Série I de 2011-06-28
   number: '122'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3806-(2) a 3806-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2011/06/12201/0000200002.pdf
 entry_into_force_dates: []
@@ -71,18 +71,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/54-d/2011/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/54-d-2011-165029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:10:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7feef60687400bd96946a4d7cca6bc8450ce34ff8f27e0801927505bc0a7ac4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5545fbda56796f70d174e593c82b4e886c23da5b86f9258fbf6aea8a2a850af5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:10:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -90,56 +90,107 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário de Estado Adjunto do Ministro da Saúde
-- Secretário de Estado Adjunto e da Defesa Nacional
-- Secretário de Estado da Administração Interna
-- Secretário de Estado da Administração Patrimonial e Equipamentos do Ministério da Justiça
-- Secretário de Estado da Agricultura
-- Secretário de Estado da Energia
-- Secretário de Estado da Solidariedade e da Segurança Social
-- Secretário de Estado das Obras Públicas Transportes e Comunicações
-- Secretário de Estado do Ambiente e do Ordenamento do Território
-- Secretário de Estado do Emprego
-- Secretário de Estado do Ensino e da Administração Escolar
-- Secretário de Estado do Ensino Superior
-- Secretário de Estado do Mar
-- Secretário de Estado do Turismo
-- Secretário de Estado dos Assuntos Parlamentares e da Igualdade
-- Subsecretário de Estado Adjunto do Ministro de Estado e dos Negócios Estrangeiros
-- Secretário de Estado da Cultura
-- Secretário de Estado do Tesouro e das Finanças
-- Secretário de Estado dos Assuntos Fiscais
-- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
-- Secretário de Estado da Saúde
 - Governo XIX
-- Secretário de Estado Adjunto e dos Assuntos Europeus
-- Secretário de Estado das Comunidades Portuguesas
 - Nomeação
 - Secretário de Estado
 - Secretário de Estado Adjunto da Economia e Desenvolvimento Regional
 - Secretário de Estado Adjunto do Ministro Adjunto e dos Assuntos Parlamentares
+- Secretário de Estado Adjunto do Ministro da Saúde
+- Secretário de Estado Adjunto e da Defesa Nacional
+- Secretário de Estado Adjunto e dos Assuntos Europeus
+- Secretário de Estado da Administração Interna
 - Secretário de Estado da Administração Local e Reforma Administrativa
+- Secretário de Estado da Administração Patrimonial e Equipamentos do Ministério da Justiça
 - Secretário de Estado da Administração Pública
+- Secretário de Estado da Agricultura
 - Secretário de Estado da Ciência
+- Secretário de Estado da Cultura
+- Secretário de Estado da Energia
+- Secretário de Estado da Saúde
+- Secretário de Estado da Solidariedade e da Segurança Social
+- Secretário de Estado das Comunidades Portuguesas
 - Secretário de Estado das Florestas e Desenvolvimento Rural
+- Secretário de Estado das Obras Públicas Transportes e Comunicações
+- Secretário de Estado do Ambiente e do Ordenamento do Território
 - Secretário de Estado do Desporto e Juventude
 - Secretário de Estado do Empreendedorismo Competitividade e Inovação
+- Secretário de Estado do Emprego
+- Secretário de Estado do Ensino e da Administração Escolar
+- Secretário de Estado do Ensino Superior
+- Secretário de Estado do Mar
 - Secretário de Estado do Orçamento
+- Secretário de Estado do Tesouro e das Finanças
+- Secretário de Estado do Turismo
+- Secretário de Estado dos Assuntos Fiscais
+- Secretário de Estado dos Assuntos Parlamentares e da Igualdade
+- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
+- Subsecretário de Estado Adjunto do Ministro de Estado e dos Negócios Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:423659:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:643544:por
+  label: "Exonerado o engenheiro Henrique Joaquim Gomes do cargo de Secretário de Estado da Energia, pelo DEC.51-A/2012.13.03.2012.PR,\
+    \ DR.IS [52-Supl] de 13.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/51-a-2012-643544
+  date: '2012-03-13'
+- type: amended_by
+  target: pt:dre:437987:por
+  label: "Exonerados o Dr. Francisco José Pereira de Almeida Viegas do cargo de Secretário de Estado da Cultura; a Mestre\
+    \ Maria Luís Casanova Morgado Dias de Albuquerque do cargo de Secretária de Estado do Tesouro e Finanças; e a Profª Drª\
+    \ Isabel Maria Santos Silva Leite do cargo de Secretária de Estado do Ensino Básico e Secundário pelo DEC.159-A/2012.26.10.2012.PR,\
+    \ DR.IS [208-Supl] de 26.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/159-a-2012-437987
+  date: '2012-10-26'
+- type: amended_by
+  target: pt:dre:281831:por
+  label: "Exonerados o Eng. Paulo Jorge Simões Júlio do cargo de Secretário de Estado da Administração Local e Reforma Administrativa;\
+    \ o Prof. Doutor Pedro Miguel Rodrigues da Silva Martins do cargo de Secretário de Estado do Emprego; o Eng. Carlos Nuno\
+    \ Alves de Oliveira do cargo de Secretário de Estado do Empreendedorismo Competitividade e Inovação; a Dr.ª Cecília Felgueiras\
+    \ de Meireles Graça do cargo de Secretária de Estado do Turismo; o Eng. José Daniel Rosas Campelo da Rocha do cargo de\
+    \ Secretário de Estado das Florestas e Desenvolvimento Rural; e o Dr. Pedro Afonso de Paulo do cargo de Secretário de\
+    \ Estado do Ambiente e do Ordenamento do Território pelo DEC.31-A/2013.01.02.2013.PR, DR.IS [23-Supl] de 01.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/31-a-2013-281831
+  date: '2013-02-01'
+- type: amended_by
+  target: pt:dre:616634:por
+  label: "Exonerado o Dr. António Joaquim Almeida Henriques do cargo de Secretário de Estado Adjunto da Economia e do Desenvolvimento\
+    \ Regional pelo DEC.53-B/2013.13.04.2013.PR, DR.IS [72-A] de 13.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/53-b-2013-616634
+  date: '2013-04-13'
+- type: amended_by
+  target: pt:dre:396756:por
+  label: "Exonerados o Prof. Doutor Luís Brites Neves Pereira do cargo de Secretário de Estado dos Negócios Estrangeiros e\
+    \ da Cooperação e o Dr. Paulo Frederico Agostinho Braga Lino do cargo de Secretário de Estado Adjunto e da Defesa Nacional,\
+    \ pelo DEC.54-A/2013.22.04.2013.PR, DR.IS [78-Supl] de 22.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/54-a-2013-396756
+  date: '2013-04-22'
+- type: amended_by
+  target: pt:dre:292678:por
+  label: "Exonerado o Prof. Doutor João Filipe Cortez Rodrigues Queiró do cargo de Secretário de Estado do Ensino Superior\
+    \ pelo DEC.92-C/2013.26.07.2013.PR, DR.IS [143-Supl] de 26.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/92-c-2013-292678
+  date: '2013-07-26'
+- type: amended_by
+  target: pt:dre:423659:por
+  label: "Exonerados, Hélder Manuel Sebastião Rosalino do cargo de Secretário de Estado da Administração Pública, Filipe Tiago\
+    \ de Melo Sobral Lobo d'Ávila do cargo de Secretário de Estado da Administração Interna, e Fernando Ferreira Santo do\
+    \ cargo de Secretário de Estado da Administração Patrimonial e Equipamentos do Ministério da Justiça, nomeados pelo presente\
+    \ diploma, pelo DEC.126-H/2013.30.12.2013.PR, DR.IS [252-2.ºsupl] de 30.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/126-h-2013-423659
+  date: '2013-12-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:10:43Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +199,7 @@ validation:
 
 de 28 de Junho
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -218,12 +269,12 @@ O Dr. Marco António Ribeiro dos Santos Costa Secretário de Estado da Solidarie
 
 A Dr.ª Vânia Carvalho Dias da Silva de Antas de Barros Subsecretária de Estado Adjunta do Ministro de Estado e dos Negócios Estrangeiros.
 
-**Assinado em 28 de Junho de 2011.**
+Assinado em 28 de Junho de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de Junho de 2011.**
+Referendado em 28 de Junho de 2011.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

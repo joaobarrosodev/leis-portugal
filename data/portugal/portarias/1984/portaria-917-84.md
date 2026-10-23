@@ -48,40 +48,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/917-1984-401329
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T08:16:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b72be5b3d16792cd07bb44acea0b0b81fc649af2f52f310532e387e9273a3854
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b199969c494b1b8bf61167aa13977e5195e176f56466230bac8eccbabb32255
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:16:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultor
+- Agricultura
+- Atividade Agrícola
+- Combustível
+- Equipamento Agrícola
+- Exploração Agrícola
+- Fundo de Abastecimento
+- Gasóleo
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:181434:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:307811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443573:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667304:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:162784:por
+  label: "Revogada pela PORT.31-I/85.1985.01.12.MFP, DR.IS [10]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/31-i-1985-162784
+  date: '1985-01-12'
+- type: repealed_by
+  target: pt:dre:181434:por
+  label: "Revogado o nº. 14 da Port. 31-I/85, de 12-Jan, ficando, assim, reposto em vigor o presente diploma, e considerando-se\
+    \ prorrogado até 22-02-1985, inclusive, o período de inscrição previsto no nº. 5º, pela PORT.376/85.19.06.1985.MFP, DR.IS\
+    \ [138] de 19.06.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/376-1985-181434
+  date: '1985-06-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:16:19Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +135,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 2.º As máquinas agrícolas consideradas para efeitos do n.º 1.º e os respectivos subsídios anuais são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28900/38063807.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28900/38063807.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28900/38063807.pdf)
 
 3.º A atribuição do subsídio às áreas regadas por bombagem será baseada no valor médio de 2325$00 por hectare.
 
@@ -156,6 +189,6 @@ b) A comunicação dos factos ao Ministério Público quando as referidas declar
 
 Ministérios das Finanças e do Plano, da Agricultura e da Indústria e Energia.
 
-**Assinada em 7 de Novembro de 1984.**
+Assinada em 7 de Novembro de 1984.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Agricultura, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Indústria e Energia, José Veiga Simão.

@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-1980-473932
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1419d72b7c3221c19f084a4feb50f7ee72c56f5105a9adb37ea650e4523e05eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 725a3fed4c18a3b75237c0faacb240e00ec22d2a8fb88419dc6acccc0670c339
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Elevador
+- Regulamento de Segurança de Elevadores Eléctricos
+- Segurança dos Edifícios
+relationships:
+- type: cites
+  target: pt:dre:147794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362900:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:46Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +106,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 3.º, 24.º, 32.º, 39.º, 40.º, 42.º, 63.º, 86.º, 87.º, 88.º, 89.º, 90.º, 93.º, 94.º, 95.º, 102.º, 103.º e 111.º do Regulamento de Segurança de Elevadores Eléctricos, aprovado pelo [Decreto n.º 513/70](https://diariodarepublica.pt/dr/detalhe/decreto/513-1970-147794), de 30 de Outubro, passam a ter a redacção que consta do anexo.
+Artigo 1.º Os artigos 2.º, 3.º, 24.º, 32.º, 39.º, 40.º, 42.º, 63.º, 86.º, 87.º, 88.º, 89.º, 90.º, 93.º, 94.º, 95.º, 102.º, 103.º e 111.º do Regulamento de Segurança de Elevadores Eléctricos, aprovado pelo [Decreto n.º 513/70](https://diariodarepublica.pt/dr/detalhe/decreto/513-1970-147794), de 30 de Outubro, passam a ter a redacção que consta do anexo.
 
-###### Art. 2.º É aditado ao Regulamento referido no artigo anterior um artigo, com o n.º 113.º, com a redacção que consta do anexo.
+Art. 2.º É aditado ao Regulamento referido no artigo anterior um artigo, com o n.º 113.º, com a redacção que consta do anexo.
 
-###### Art. 3.º Aplicam-se aos elevadores existentes à data da publicação das alterações o disposto no artigo 111.º no prazo de:
+Art. 3.º Aplicam-se aos elevadores existentes à data da publicação das alterações o disposto no artigo 111.º no prazo de:
 
 a) Um ano para os elevadores estabelecidos até 31 de Dezembro de 1955;
 
@@ -111,15 +122,15 @@ d) Quatro anos para os elevadores estabelecidos até 31 de Dezembro de 1970;
 
 e) Cinco anos para os elevadores estabelecidos depois do prazo fixado na alínea d).
 
-###### Art. 4.º As alterações aprovadas pelo presente decreto regulamentar entram em vigor cento e oitenta dias após a sua publicação.
+Art. 4.º As alterações aprovadas pelo presente decreto regulamentar entram em vigor cento e oitenta dias após a sua publicação.
 
-**O Primeiro-Ministro, Francisco Sá Carneiro. - O Ministro da Indústria e Energia, Álvaro Roque de Pinho Bissaia Barreto.**
+O Primeiro-Ministro, Francisco Sá Carneiro. - O Ministro da Indústria e Energia, Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 30 de Abril de 1980.**
+Promulgado em 30 de Abril de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — REGULAMENTO DE SEGURANÇA DE ELEVADORES ELÉCTRICOS
 
@@ -297,7 +308,7 @@ b) Ligação directa de um contacto eléctrico e acção simultânea sobre uma p
 
 2 - O número máximo de pessoas a transportar simultaneamente e a área da cabina dos ascensores deverão estar relacionados com a carga nominal, de acordo com o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/11300/09760980.pdf))](https://files.diariodarepublica.pt/1s/1980/05/11300/09760980.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/11300/09760980.pdf)
 
 Para um número n de pessoas superior a 20 a carga será, pelo menos, n x 75 kg e a área da cabina será a correspondente a 20 pessoas adicionada de (n - 20) x 0,12 m2.
 
@@ -421,4 +432,4 @@ Comentários. - 1 - As determinações do n.º 2 deste artigo têm por objectivo
 
 No estabelecimento de elevadores em prédios antigos, dotados ou não de elevadores, a fiscalização do Governo poderá permitir a dispensa do cumprimento de disposições do presente Regulamento que não colidam com a segurança das pessoas ou da instalação.
 
-**O Ministro da Indústria e Energia, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Indústria e Energia, Álvaro Roque de Pinho Bissaia Barreto.

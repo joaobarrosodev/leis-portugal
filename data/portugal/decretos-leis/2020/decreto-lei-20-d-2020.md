@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 92/2020, 1º Suplemento, Série I de 2020-05-12
   number: '92'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6-(2) a 6-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/05/09201/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/20-d/2020/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-d-2020-133491339
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab7942273d9a8dcad0ea4378725f439f546ac0ea6e996d1dbcc1863ab63ed412
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8700a4caa9cf487f12fdd4e4e139e707853f79c67257ec1dcfc796a517d659b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência para a Modernização Administrativa
 - Ajuste Direto
 - Aquisição de Equipamento
-- Financiamento
-- Centro de Formação Profissional
+- Autarquia Local
 - Centro de Atendimento do Serviço Nacional de Saúde
+- Centro de Formação Profissional
+- Comissão de Acompanhamento da Resposta Nacional em Medicina Intensiva para a COVID-19
 - Direção Geral das Autarquias Locais
 - Documento Autentico
 - Empreitada de Obras Públicas
+- Equipamento de Proteção
+- Financiamento
 - Formulário Eletrónico
 - Isolamento Profiláctico
-- Programa Estágios Profissionais na Administração Local
 - Plano Nacional de Saúde
-- Agência para a Modernização Administrativa
-- Autarquia Local
+- Programa Estágios Profissionais na Administração Local
 - Suspensão de Prazo
-- Comissão de Acompanhamento da Resposta Nacional em Medicina Intensiva para a COVID-19
-- Equipamento de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
   label: null
@@ -104,16 +110,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/decpresrep/20-a/2020/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/decpresrep/20-a/2020/04/17/p/dre
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130399862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131908497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58763440:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:00Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +180,9 @@ Programa de Estágios Profissionais na Administração Local
 
 São suspensos todos os prazos relativos a procedimentos, atos e contratos, no âmbito do Programa de Estágios Profissionais na Administração Local, previsto no [Decreto-Lei n.º 166/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2014-58763440), de 6 de novembro, na sua redação atual.
 
-###### Artigo 13.º-D — Financiamento de barreiras de proteção
+Artigo 13.º-D
+
+Financiamento de barreiras de proteção
 
 1 - No ano de 2020, pode ser financiada, ao abrigo de acordo de colaboração técnica e financeira a celebrar nos termos do regime previsto no [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480), de 24 de dezembro, na sua redação atual, através da dotação inscrita no orçamento dos encargos gerais do Estado, a aquisição de barreiras acrílicas de proteção, para postos de atendimento presencial nos Espaços Cidadão e Lojas de Cidadão, cuja gestão seja da responsabilidade das autarquias locais.
 
@@ -176,12 +204,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de maio de 2020. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Alexandra Ludomila Ribeiro Fernandes Leitão.
 
-**Promulgado em 11 de maio de 2020.**
+Promulgado em 11 de maio de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de maio de 2020.**
+Referendado em 11 de maio de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113238221

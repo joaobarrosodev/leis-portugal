@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/03/050a00/21622167.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/62/2005/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2005-575550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be7cd66f4091c40be68f8de8596eb467d712b7fbb81e7c956d1e38d6c771807f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5af3448cd3d8ba11972245ffcd17fb4b15641b35dfc3d4ae97877a63c1fd75d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,86 @@ reuse:
 subjects:
 - Acesso à Informação
 - Aproximação das Legislações
+- Benefícios Fiscais
 - Cobrança de Impostos
 - Código do IRS
-- Política Fiscal
 - Definição de Competências
 - Direcção Geral dos Impostos
-- União Europeia
 - IRS
 - Juros
 - Nacional das Comunidades
 - Pessoa Singular
-- Benefícios Fiscais
+- Política Fiscal
 - Tributação
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:912653926:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:483459:por
+  label: "Alterado o artigo 15.º e aditado o artigo 15.º-A, pela LEI.39-A/2005.29.07.2005.AR, DR.IS-A [145]Supl de 29.07.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-a-2005-483459
+  date: '2005-07-29'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 78º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, revisto e republicado pelo Dec Lei\
+    \ 198/2001 de 03-Jul, alterado pelo presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:440498:por
+  label: "Alterado o art. 78º do Código IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, - revisto e republicado pelo Dec Lei\
+    \ 198/2001, de 03-Jul -, na redacção do presente diploma, pela LEI.64/2008.05.12.2008.AR, DR.IS [236] de 05.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-2008-440498
+  date: '2008-12-05'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 78.º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:344257:por
+  label: "Alterado o art. 1º pela LEI.37/2010.02.09.2010.AR, DR.IS [171] de 02.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2010-344257
+  date: '2010-09-02'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterado o art. 78º do Código do Imposto sobre o Rendimentos das Pessoas Singulares, aprovado pelo Dec Lei 442-A/88,\
+    \ de 30-Nov, na redacção do presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.55-A/2010.31.12.2010.AR,\
+    \ DR.IS [253-Supl] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 78º do Código do IRS, na redacção do presente diploma, pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl]\
+    \ de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação ao art. 78º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-nov, alterado pelo presente\
+    \ diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterado o art. 78º do Código do Imposto sobre o Rendimento das Pessoas Singulares (Código do IRS), aprovado pelo\
+    \ Dec Lei 442-A/88, de 30-nov, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl] de 31.12.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:66022085:por
+  label: Alterado o art. 78.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-nov, na redação do presente diploma,
+    pelo(a) Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-e-2014-66022085
+  date: '2014-12-31'
 - type: cites
   target: celex:31980L0390
   label: null
@@ -101,16 +164,22 @@ relationships:
   target: celex:32003L0048
   label: null
   source: http://data.europa.eu/eli/dir/2003/48/oj
+- type: repealed_by
+  target: pt:dre:912653926:por
+  label: Revogado, a partir de 1 de julho de 2025, pelo(a) Decreto-Lei n.º 49/2025 - Diário da República n.º 61/2025, Série
+    I de 2025-03-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2025-912653926
+  date: '2025-03-27'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:02Z'
   warnings: []
   errors: []
 ---
@@ -343,12 +412,12 @@ O presente regime entra em vigor em 1 de Julho de 2005, desde que se mostre obse
 
 Visto e aprovado em Conselho de Ministros de 2 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix - António Victor Martins Monteiro.
 
-**Promulgado em 7 de Janeiro de 2005.**
+Promulgado em 7 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Janeiro de 2005.**
+Referendado em 19 de Janeiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

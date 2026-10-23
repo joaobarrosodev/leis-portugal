@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/10/20800/75257531.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/213/2006/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2006-545651
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 294934e626c43af31fabfe7e02f4d731716bd7766908a28950bc6ccc645619d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 493bc7c392f3a3a139d0f209471897ad72472dc08e0ed799d1e1550aaf70ab3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário Geral Adjunto
-- Reestruturação de Serviços
-- Ministério das Finanças e da Administração Pública
-- Pessoal Dirigente
-- Serviços Sociais da Administração Pública
-- Conselho Coordenador do Ensino Particular e Cooperativo
+- Agência Nacional para a Qualificação
 - Conselho Coordenador da Administração Educativa
-- Ministério da Educação
+- Conselho Coordenador do Ensino Particular e Cooperativo
+- Conselho das Escolas
+- Conselho Nacional de Educação
 - Controlador Financeiro
 - Criação de Serviços
 - Definição de Competências
 - Direcção Geral de Formação Vocacional
+- Direcção Geral de Inovação e Desenvolvimento Curricular
 - Direcção Geral dos Recursos Humanos da Educação
+- Direcção Regional de Educação
 - Direcção Regional de Educação de Lisboa
 - Direcção Regional de Educação de Lisboa e VALE do TEJO
 - Direcção Regional de Educação do Alentejo
 - Direcção Regional de Educação do Algarve
 - Direcção Regional de Educação do Centro
 - Direcção Regional de Educação do Norte
+- Director Regional Adjunto
 - Diretor
 - Diretor Geral
 - Diretor Regional
-- Director Regional Adjunto
 - Editorial do Ministério da Educação
 - Equipa de Missão
 - Extinção de Serviços
-- Secretaria Geral
 - Gabinete Coordenador da Segurança nas Escolas
 - Gabinete Coordenador do Sistema de Informação do Ministério da Educação
 - Gabinete de Assuntos Europeus e de Relações Internacionais
@@ -99,21 +97,23 @@ subjects:
 - Gabinete de Estatística e Planeamento da Educação
 - Gabinete de Gestão Financeira
 - Gabinete de Informação e Avaliação do Sistema Educativo
-- Agência Nacional para a Qualificação
 - Inspecção Geral da Educação
 - Inspetor Geral
 - Integração de Serviços
 - JURI Nacional de Exames
-- Conselho Nacional de Educação
-- Direcção Regional de Educação
+- Ministério da Educação
+- Ministério das Finanças e da Administração Pública
 - Orgânica
-- Direcção Geral de Inovação e Desenvolvimento Curricular
-- Sistema de Informação
+- Pessoal Dirigente
 - Presidente
 - Quadro de Pessoal
-- Conselho das Escolas
+- Reestruturação de Serviços
+- Secretaria Geral
 - Secretário Geral
+- Secretário Geral Adjunto
 - Serviços Sociais
+- Serviços Sociais da Administração Pública
+- Sistema de Informação
 - Subinspector Geral
 - Vice-presidente
 relationships:
@@ -121,6 +121,31 @@ relationships:
   target: pt:dre:145195:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:455132:por
+  label: "Alterados, a partir de 01.09.2008, o nº1 do art. 2º, os nºs. 2 e 4 do art. 9º e o anexo I e revogado o nº3 do art\
+    \ 9º, todos do presente diploma, pelo DEC LEI.164/2008.08.08.2008.ME, DR.IS [153] de 08.08.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/164-2008-455132
+  date: '2008-08-08'
+- type: amended_by
+  target: pt:dre:608690:por
+  label: "Alterado o art. 7º e revogado o nº 3 do art. 11º, a partir de 23.05.2009, pelo DEC LEI.117/2009.18.05.2009.ME, DR.IS\
+    \ [95] de 18.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2009-608690
+  date: '2009-05-18'
+- type: amended_by
+  target: pt:dre:489527:por
+  label: "Alterados os arts. 10.º e 15.º pelo DEC LEI.208/2009.02.09.2009.ME, DR.IS [170] de 02.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2009-489527
+  date: '2009-09-02'
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Extinto o Ministério da Educação, e determinada a transição para o Ministério da Educação e Ciência dos serviços,\
+    \ organismos e estruturas identificados no presente diploma, alterado pelos Dec Lei 164/2008 de 08-Ago, 117/2009 de 18-Mai\
+    \ e 208/2009 de 02-Set, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011, nos termos do seu art.\
+    \ 19º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/208/2002/10/17/p/dre
   label: null
@@ -137,16 +162,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:240610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683408:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:145195:por
+  label: "Revogado a partir de 03.01.2012., na redacção dos Dec Lei 164/2008, de 08-Ago, Dec Lei 117/2009, de 18-Mai e Dec\
+    \ Lei 208/2009, de 02-Set, pelo DEC LEI.125/2011.29.12.2011.MECI, DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2011-145195
+  date: '2011-12-29'
 article_structure:
   article_count: 28
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:50Z'
   warnings: []
   errors: []
 ---
@@ -579,20 +626,20 @@ c) O provimento de candidatos não pertencentes ao quadro único opera-se em lug
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.
 
-**Promulgado em 19 de Outubro de 2006.**
+Promulgado em 19 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 23 de Outubro de 2006.**
+Referendado em 23 de Outubro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Cargos de direcção superior da administração directa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20800/75257531.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20800/75257531.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/75257531.pdf)
 
 ## ANEXO II — Dirigentes de organismos da administração indirecta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20800/75257531.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20800/75257531.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/75257531.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/6/2005/01/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/6-2005-476938
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T04:50:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4305dee282d6f6dd93cd87eba2910bd9e6ed2c20877c84d053f9826515437ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dce718218b486f2483aca29b97dd8d3089bd220effe5a104985e837e481c7c59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:50:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,21 @@ relationships:
   target: pt:dre:612260:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:612260:por
+  label: "Exonerado do cargo de Embaixador, pelo DEC.37/2010.07.04.2010.PR, DR.IS [67] de 07.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/37-2010-612260
+  date: '2010-04-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:50:50Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +97,16 @@ validation:
 
 de 13 de Janeiro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o ministro plenipotenciário de 1.ª classe José Ernst Henzler Vieira Branco para o cargo de Embaixador de Portugal em Bratislava.
 
-**Assinado em 20 de Dezembro de 2004.**
+Assinado em 20 de Dezembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Dezembro de 2004.**
+Referendado em 24 de Dezembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes. - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Victor Martins Monteiro.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes. - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Victor Martins Monteiro.

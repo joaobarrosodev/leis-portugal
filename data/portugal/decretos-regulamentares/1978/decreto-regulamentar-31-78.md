@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/20800/18801882.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/31-1978-329839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T05:58:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 921e2659ee469366066e4d3d974d1da9d3a96828f453d10a61f59be60ee22d56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c55fcd704cb88758b674b06c512cfd8572966531f6651809153723af25164935
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral do Tesouro
+- Formas de Provimento
+- Nomeação
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Dirigente
+- Pessoal Técnico
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:486488:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:299633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:327580:por
+  label: Rectificado pela DECL.DD7394.02.11.1978.PCM, DR.IS [252] de 02.11.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-327580
+  date: '1978-11-02'
+- type: repealed_by
+  target: pt:dre:486488:por
+  label: "Revogado pelo DEC LEI.186/98.1998.07.07.MF, DR.IS-A [154]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1998-486488
+  date: '1998-07-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:58:46Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +133,11 @@ Assim, e tendo em conta o disposto no [Decreto-Lei n.º 59/76](https://diariodar
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O pessoal dirigente e técnico superior e o pessoal técnico, técnico auxiliar, administrativo e auxiliar dos serviços centrais da Direcção-Geral do Tesouro será o constante dos quadros anexos ao presente diploma, que substituirão os quadros I a VI anexos ao [Decreto-Lei n.º 564/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1976-430594), de 17 de Julho, com as alterações introduzidas pelo [Decreto Regulamentar n.º 28/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1978-299633), de 9 de Agosto.
+Artigo 1.º O pessoal dirigente e técnico superior e o pessoal técnico, técnico auxiliar, administrativo e auxiliar dos serviços centrais da Direcção-Geral do Tesouro será o constante dos quadros anexos ao presente diploma, que substituirão os quadros I a VI anexos ao [Decreto-Lei n.º 564/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1976-430594), de 17 de Julho, com as alterações introduzidas pelo [Decreto Regulamentar n.º 28/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1978-299633), de 9 de Agosto.
 
-###### Art. 2.º São criadas na Direcção-Geral do Tesouro as seguintes divisões: na Direcção de Serviços Administrativos, a Divisão de Pessoal e Expediente e a Divisão do Orçamento e Contabilidade; na Direcção de Serviços de Operações Cambiais, a Divisão do Orçamento Cambial e a Divisão de Operações Cambiais; na Direcção dos Serviços Financeiros, a Divisão de Operações Financeiras Internas e a Divisão de Relações Financeiras Externas; na Direcção de Serviços de Tesouraria, a Divisão de Movimentação de Fundos no País e a Divisão de Movimentação de Fundos no Estrangeiro.
+Art. 2.º São criadas na Direcção-Geral do Tesouro as seguintes divisões: na Direcção de Serviços Administrativos, a Divisão de Pessoal e Expediente e a Divisão do Orçamento e Contabilidade; na Direcção de Serviços de Operações Cambiais, a Divisão do Orçamento Cambial e a Divisão de Operações Cambiais; na Direcção dos Serviços Financeiros, a Divisão de Operações Financeiras Internas e a Divisão de Relações Financeiras Externas; na Direcção de Serviços de Tesouraria, a Divisão de Movimentação de Fundos no País e a Divisão de Movimentação de Fundos no Estrangeiro.
 
-###### Art. 3.º - 1 - Compete à Divisão de Pessoal e Expediente tratar de todos os assuntos respeitantes a gestão de pessoal e expediente e arquivo.
+Art. 3.º - 1 - Compete à Divisão de Pessoal e Expediente tratar de todos os assuntos respeitantes a gestão de pessoal e expediente e arquivo.
 
 2 - Compete à Divisão do Orçamento e Contabilidade tratar de todos os assuntos respeitantes a contabilidade, orçamento e inventário.
 
@@ -118,17 +153,17 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 8 - Compete à Divisão de Movimentação de Fundos no Estrangeiro o contrôle da movimentação e utilização dos fundos do Tesouro no estrangeiro e o serviço respeitante aos cofres do Tesouro no estrangeiro e à gestão das contas dos banqueiros do Tesouro.
 
-###### Art. 4.º Os chefes de divisão serão directores de Fazenda nomeados, sob proposta do director-geral, de entre subdirectores de Fazenda que tenham pelo menos três anos de bom e efectivo serviço na categoria e hajam revelado qualidades para o exercício do cargo, ou, na falta deles, de entre licenciados estranhos ao quadro com as habilitações necessárias para o desempenho das funções.
+Art. 4.º Os chefes de divisão serão directores de Fazenda nomeados, sob proposta do director-geral, de entre subdirectores de Fazenda que tenham pelo menos três anos de bom e efectivo serviço na categoria e hajam revelado qualidades para o exercício do cargo, ou, na falta deles, de entre licenciados estranhos ao quadro com as habilitações necessárias para o desempenho das funções.
 
-###### Art. 5.º - 1 - Aos técnicos principais competirá o estudo dos problemas e a execução dos serviços de natureza jurídica, económica ou financeira que lhes forem cometidos pelo director-geral.
+Art. 5.º - 1 - Aos técnicos principais competirá o estudo dos problemas e a execução dos serviços de natureza jurídica, económica ou financeira que lhes forem cometidos pelo director-geral.
 
 2 - Os técnicos principais serão nomeados de entre os técnicos de 1.ª classe diplomados com curso superior adequado às necessidades da função e com boa informação de serviço, ou de entre licenciados estranhos ao quadro, com as habilitações referidas, sob proposta do director-geral.
 
-###### Art. 6.º - 1 - Os técnicos de 1.ª classe serão nomeados de entre os técnicos de 2.ª classe diplomados com o curso superior adequado às necessidades da função e com pelo menos dois anos de bom e efectivo serviço ou, na falta deles, de entre licenciados com as habilitações referidas, sob proposta do director-geral.
+Art. 6.º - 1 - Os técnicos de 1.ª classe serão nomeados de entre os técnicos de 2.ª classe diplomados com o curso superior adequado às necessidades da função e com pelo menos dois anos de bom e efectivo serviço ou, na falta deles, de entre licenciados com as habilitações referidas, sob proposta do director-geral.
 
 2 - Os lugares de técnico de 2.ª classe serão providos em diplomados com o curso superior adequado ao exercício das respectivas funções, sob proposta do director-geral.
 
-###### Art. 7.º - 1 - Os tradutores-correspondentes-intérpretes serão providos, sob proposta do director-geral, de entre os indivíduos habilitados com o curso geral dos liceus ou habilitação equiparada e bom conhecimento, falado e escrito, de pelo menos duas línguas estrangeiras, competindo-lhes assegurar o serviço de traduções e correspondência com o estrangeiro em língua não portuguesa e prestar todo o apoio requerido em outros contactos com línguas estrangeiras.
+Art. 7.º - 1 - Os tradutores-correspondentes-intérpretes serão providos, sob proposta do director-geral, de entre os indivíduos habilitados com o curso geral dos liceus ou habilitação equiparada e bom conhecimento, falado e escrito, de pelo menos duas línguas estrangeiras, competindo-lhes assegurar o serviço de traduções e correspondência com o estrangeiro em língua não portuguesa e prestar todo o apoio requerido em outros contactos com línguas estrangeiras.
 
 2 - Os técnicos auxiliares serão nomeados em primeiro provimento, sob proposta do director-geral, de entre os indivíduos com as habilitações literárias adequadas ao exercício das respectivas funções, que não poderão ser inferiores ao curso geral dos liceus ou equivalente, e apoiarão directamente o pessoal dirigente e técnico superior em assuntos de maior especialidade relacionados com as novas funções atribuídas à Direcção-Geral do Tesouro.
 
@@ -136,50 +171,50 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 4 - O provimento dos lugares de primeiro e segundo-mecanógrafo será feito de entre os mecanógrafos da Direcção-Geral do Tesouro com três anos de bom e efectivo serviço na categoria imediatamente inferior.
 
-###### Art. 8.º Ao primeiro concurso para auxiliares de Fazenda a realizar após a publicação do presente diploma serão admitidos os escriturários-dactilógrafos da Direcção-Geral do Tesouro que se encontrem providos neste lugar à data da referida publicação.
+Art. 8.º Ao primeiro concurso para auxiliares de Fazenda a realizar após a publicação do presente diploma serão admitidos os escriturários-dactilógrafos da Direcção-Geral do Tesouro que se encontrem providos neste lugar à data da referida publicação.
 
-###### Art. 9.º O provimento de lugares de telefonista far-se-á por despacho do Secretário de Estado do Tesouro, sob proposta do director-geral, de entre os indivíduos com as habilitações exigidas pela lei geral para esta categoria.
+Art. 9.º O provimento de lugares de telefonista far-se-á por despacho do Secretário de Estado do Tesouro, sob proposta do director-geral, de entre os indivíduos com as habilitações exigidas pela lei geral para esta categoria.
 
-###### Art. 10.º - 1 - Os provimentos já efectuados, quaisquer que sejam as suas formas e condições, nos lugares dos quadros dos serviços centrais da Direcção-Geral do Tesouro tornam-se definitivos com a publicação do presente diploma, desde que desse provimento não resulte um aumento dos quadros previstos no artigo 1.º, sem quaisquer formalidades, além do visto do Tribunal de Contas.
+Art. 10.º - 1 - Os provimentos já efectuados, quaisquer que sejam as suas formas e condições, nos lugares dos quadros dos serviços centrais da Direcção-Geral do Tesouro tornam-se definitivos com a publicação do presente diploma, desde que desse provimento não resulte um aumento dos quadros previstos no artigo 1.º, sem quaisquer formalidades, além do visto do Tribunal de Contas.
 
 2 - O pessoal técnico contratado além do quadro poderá ser provido definitivamente, a seu pedido, em lugares de técnico de 2.ª classe dos quadros dos serviços centrais da Direcção-Geral do Tesouro para os quais satisfaça aos requisitos exigidos, sem dependência de outras formalidades além do visto do Tribunal de Contas, passando a contar-se a respectiva antiguidade na categoria desde a data em que por qualquer vínculo começou a prestar serviço na Direcção-Geral.
 
-###### Art. 11.º Os provimentos nos lugares dos quadros dos serviços centrais da Direcção-Geral do Tesouro serão definitivos com o visto do Tribunal de Contas e a publicação no Diário da República, salvo quanto aos provimentos nos lugares de director de Fazenda e subdirector de fazenda e aos primeiros provimentos em qualquer dos lugares das carreiras do pessoal técnico auxiliar, dos mecanógrafos, do pessoal administrativo dos serviços centrais e do pessoal auxiliar dos serviços centrais, que se tornarão definitivos após dois anos de bom e efectivo serviço, sem dependência de outras formalidades além do visto do Tribunal de Contas.
+Art. 11.º Os provimentos nos lugares dos quadros dos serviços centrais da Direcção-Geral do Tesouro serão definitivos com o visto do Tribunal de Contas e a publicação no Diário da República, salvo quanto aos provimentos nos lugares de director de Fazenda e subdirector de fazenda e aos primeiros provimentos em qualquer dos lugares das carreiras do pessoal técnico auxiliar, dos mecanógrafos, do pessoal administrativo dos serviços centrais e do pessoal auxiliar dos serviços centrais, que se tornarão definitivos após dois anos de bom e efectivo serviço, sem dependência de outras formalidades além do visto do Tribunal de Contas.
 
-###### Art. 12.º Até à publicação da lei orgânica da Direcção-Geral do Tesouro, poderão os Ministros das Finanças e do Plano e da Reforma Administrativa fixar por despacho conjunto as secções em que poderão ser desdobradas as direcções de serviços e as divisões, definindo-lhes as atribuições e competências.
+Art. 12.º Até à publicação da lei orgânica da Direcção-Geral do Tesouro, poderão os Ministros das Finanças e do Plano e da Reforma Administrativa fixar por despacho conjunto as secções em que poderão ser desdobradas as direcções de serviços e as divisões, definindo-lhes as atribuições e competências.
 
-###### Art. 13.º - 1 - Os júris para os concursos dos tesoureiros da Fazenda Pública serão presididos pelo director-geral do Tesouro, deles fazendo parte um director de serviços da Direcção-Geral do Tesouro e um director de finanças da Direcção-Geral das Contribuições e Impostos.
+Art. 13.º - 1 - Os júris para os concursos dos tesoureiros da Fazenda Pública serão presididos pelo director-geral do Tesouro, deles fazendo parte um director de serviços da Direcção-Geral do Tesouro e um director de finanças da Direcção-Geral das Contribuições e Impostos.
 
 2 - O director-geral poderá delegar a presidência dos júris num inspector superior e autorizar que o director de serviços seja substituído por um director de Fazenda.
 
 3 - Os concursos terão lugar em Lisboa, salvo em relação aos candidatos a tesoureiros de 3.ª classe domiciliados nas Regiões Autónomas dos Açores e da Madeira, que poderão prestar as suas provas nas sedes das respectivas Regiões Autónomas se, existindo número suficiente de candidatos que justifique, o director-geral do Tesouro, por despacho, determinar que o júri se desloque àquelas Regiões para o efeito.
 
-###### Art. 14.º Poderão ser nomeados ajudantes de tesoureiro em qualquer tesouraria, independentemente das habilitações literárias que possuam:
+Art. 14.º Poderão ser nomeados ajudantes de tesoureiro em qualquer tesouraria, independentemente das habilitações literárias que possuam:
 
 a) Os indivíduos que façam parte do pessoal das tesourarias da Fazenda Pública reclassificado nos termos do [Decreto-Lei n.º 564/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1976-430594), de 17 de Julho;
 
 b) Os indivíduos que, anteriormente à entrada em vigor do diploma referido na alínea anterior, tenham exercido funções, ainda que interinamente, de auxiliar, ajudante ou proposto de tesoureiro, com bom e efectivo serviço, desde que a nomeação tenha lugar no prazo de um ano após a entrada em vigor do presente diploma.
 
-###### Art. 15.º É fixada em 18 anos a idade mínima para o exercício de funções nos quadros centrais e locais da Direcção-Geral do Tesouro.
+Art. 15.º É fixada em 18 anos a idade mínima para o exercício de funções nos quadros centrais e locais da Direcção-Geral do Tesouro.
 
-###### Art. 16.º As despesas resultantes da execução deste diploma serão satisfeitas, pelo decurso do presente ano económico, por conta de verbas inscritas a favor da Direcção-Geral do Tesouro.
+Art. 16.º As despesas resultantes da execução deste diploma serão satisfeitas, pelo decurso do presente ano económico, por conta de verbas inscritas a favor da Direcção-Geral do Tesouro.
 
-###### Art. 17.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros das Finanças e do Plano e da Reforma Administrativa.
+Art. 17.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros das Finanças e do Plano e da Reforma Administrativa.
 
-###### Art. 18.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 18.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Mário Soares - Vítor Manuel Ribeiro Constâncio - Rui Eduardo Ferreira Rodrigues Pena.
 
-**Promulgado em 5 de Setembro de 1978.**
+Promulgado em 5 de Setembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadros referidos no artigo 1.º do Decreto Regulamentar n.º 31/78
 
 Do QUADRO I ao QUADRO VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/20800/18801882.pdf))](https://files.diariodarepublica.pt/1s/1978/09/20800/18801882.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/20800/18801882.pdf)
 
-**O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Reforma Administrativa, Rui Eduardo Ferreira Rodrigues Pena.**
+O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Reforma Administrativa, Rui Eduardo Ferreira Rodrigues Pena.

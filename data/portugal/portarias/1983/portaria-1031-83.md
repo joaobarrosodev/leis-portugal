@@ -48,40 +48,103 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1031-1983-443285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T07:30:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 178dbc696468993137f4a9ace1020c91429f9d9ec1cb05febba34d25af9dadaf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97db315733fd0e260e5e6e467aa94361b3a187d6be5dfb83b00e4918b1145c6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:30:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Missão Permanente de Portugal Junto dos Organismos Internacionais com Sede em Genebra
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:506599:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:152327:por
+  label: "Alterado o quadro de pessoal especializado, constante do quadro I anexo à Port 1096/80, de 27-Dez, com as alterações\
+    \ resultantes presente diploma, do Dec 144/80, de 27-Dez, dos DR 21/82, de 17-Abr, e 33/82, de 16-Jun, dos Dec Leis 57/82,\
+    \ de 25-Fev, 18/83, de 21-Jan, e das Port 766/78, de 26-Dez, 578/82, de 11-Jun, 1012-D/82, de 29-Out, 917/83, de 07-Out,\
+    \ e 972/83, de 12-Nov, pelo DEC LEI.133/85.1985.05.02.MNE, DR.IS [100]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-1985-152327
+  date: '1985-05-02'
+- type: amended_by
+  target: pt:dre:506399:por
+  label: "Alterado o quadro de pessoal constante da al. b) do nº 2, pela PORT.40-A/88.1988.01.21.MF, DR.IS [17]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/40-a-1988-506399
+  date: '1988-01-21'
+- type: amended_by
+  target: pt:dre:540977:por
+  label: "Alterado o quadro de pessoalconstante da al. d) do nº 2, pela PORT.1287/93.1993.12.22.MF, DR.IS-B [297]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1287-1993-540977
+  date: '1993-12-22'
+- type: amended_by
+  target: pt:dre:679009:por
+  label: "Alterado o quadro de pessoal constante da al. d) do nº 2, pela PORT.1286/95.1995.10.31.MF, DR.IS-B [252] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1286-1995-679009
+  date: '1995-10-31'
+- type: amended_by
+  target: pt:dre:526005:por
+  label: "Alterada a al. a) do nº 2 do mapa de pessoal constante do presente diploma, pela Port.203/97.1997.03.25.PCM DR.IS-B\
+    \ [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/203-1997-526005
+  date: '1997-03-25'
+- type: amended_by
+  target: pt:dre:355886:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, na redacção dada pela Port 40-A/88, de 21-Jan, pela\
+    \ PORT.375/2001.2001.04.11.MNE, DR.IS-B [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/375-2001-355886
+  date: '2001-04-11'
+- type: amended_by
+  target: pt:dre:506599:por
+  label: "Alterada a al. a) do nº 2º, com a redacção introduzida pela Port 203/97 de 25-Mar, pela PORT.173-A/2005.11.02.2005.MFAP,\
+    \ DR.IS-B [30-Supl] de 11.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/173-a-2005-506599
+  date: '2005-02-11'
+- type: cites
+  target: pt:dre:273811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600510:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:30:51Z'
   warnings: []
   errors: []
 ---
@@ -140,6 +203,6 @@ d) Pessoal assalariado:
 
 Presidência do Conselho de Ministros e Ministérios dos Negócios Estrangeiros e das Finanças e do Plano.
 
-**Assinada em 7 de Novembro de 1983.**
+Assinada em 7 de Novembro de 1983.
 
-**O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José San-Bento de Menezes.**
+O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José San-Bento de Menezes.

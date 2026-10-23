@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/02/03300/0075500755.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/30/2012/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/30-2012-543016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T05:13:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02adfb1058ea19c39cf72263712f8b03162b3ba5ba37fd2853301b5b90bf52dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67736d764599cd5f81bc182c66aee0030a7e1b02ccb1e8854c1476d80662233c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:13:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,22 @@ relationships:
   target: pt:dre:70980176:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70980176:por
+  label: Exonerada pelo(a) Decreto do Presidente da República n.º 126/2015 - Diário da República n.º 221/2015, Série I de
+    2015-11-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/126-2015-70980176
+  date: '2015-11-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:13:56Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +98,16 @@ validation:
 
 de 15 de fevereiro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeada, sob proposta do Governo, a ministra plenipotenciária de 1.ª classe Maria de Fátima Pina Perestrello para o cargo de Embaixadora de Portugal em Helsínquia.
 
-**Assinado em 31 de janeiro de 2012.**
+Assinado em 31 de janeiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de fevereiro de 2012.**
+Referendado em 10 de fevereiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo de Sacadura Cabral Portas.**
+O Primeiro-Ministro, Pedro Passos Coelho. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo de Sacadura Cabral Portas.

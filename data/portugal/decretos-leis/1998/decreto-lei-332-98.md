@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/254a00/57045713.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/332/1998/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1998-223013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:01:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6204941a8c4b458b736b2d45995a7c08c7ce8c78828462f9d6a53bc3313e1466
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28f3ea369daa7061f618c7f810e7a2f99cc1549ad6a5e603fdf23745f8141eed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:01:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,41 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração de Portos
+- ÁREA de Jurisdição
 - Autonomia Administrativa
 - Autonomia Financeira
-- Património
+- Comissão
 - Comissão de Fiscalização
 - Comissão de Serviço
-- Gestão Financeira
+- Conselho Consultivo
 - Conselho de Administração
 - Criação de Serviços
 - Definição de Competências
-- Propriedade do Estado
 - Embargo
 - Estatuto
 - Estatuto do Pessoal
-- Administração de Portos
-- Junta Autónoma dos Portos
-- Comissão
 - Extinção de Serviços
 - Fiscalização
-- Ministério do Equipamento do Planeamento e da Administração do Território
-- Conselho Consultivo
+- Gestão Financeira
 - Instituto Portuário
 - Instituto Portuário do SUL
 - Integração de Trabalhadores
+- Junta Autónoma dos Portos
 - Junta Autónoma dos Portos do Barlavento do Algarve
 - Junta Autónoma dos Portos do Norte
 - Junta Autónoma dos Portos do Sotavento do Algarve
-- ÁREA de Jurisdição
 - Licenciamento de Obras
+- Ministério do Equipamento do Planeamento e da Administração do Território
 - Obras Públicas
+- Património
 - Pessoa Colectiva de Direito Público
+- Portos
 - Presidente
 - Prestação de Serviços
+- Propriedade do Estado
 - Receita
 - Receita Própria
-- Portos
 - Segurança Marítima
 - Taxa
 - Tutela
@@ -109,6 +109,11 @@ relationships:
   target: pt:dre:150947:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:150947:por
+  label: "Cessada a vigência, pela RES.13/99.1999.02.11.AR, DR.IS-A [52] de 03/Mar/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/13-1999-150947
+  date: '1999-02-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/154/1992/07/25/p/dre
   label: null
@@ -117,16 +122,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/316/1991/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/316/1991/08/20/p/dre
+- type: cites
+  target: pt:dre:286360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
 article_structure:
   article_count: 47
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:01:57Z'
   warnings: []
   errors: []
 ---
@@ -245,15 +282,15 @@ c) O [Decreto-Lei n.º 37754](https://diariodarepublica.pt/dr/detalhe/decreto-le
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1998. - Jaime José Matos da Gama - José Veiga Simão - Fernando Teixeira dos Santos - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Manuel de Matos Fernandes - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 1 de Outubro de 1998.**
+Promulgado em 1 de Outubro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Outubro de 1998.**
+Referendado em 16 de Outubro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 1.º)
 

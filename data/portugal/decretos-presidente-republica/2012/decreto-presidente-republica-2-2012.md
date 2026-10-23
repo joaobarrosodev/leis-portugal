@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/2/2012/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/2-2012-477124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T05:13:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2640e14a0a1b978952cd0d901b310ba0c72850db17c06a9b202bba306b81b6cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b1c202772455cb5a6421089f3701dd1951a461db26cab016a6b00fdc63e2fdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:13:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exoneração
 - Embaixador
-- Tallin
 - Estónia
+- Exoneração
+- Tallin
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:13:41Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +89,16 @@ validation:
 
 de 3 de janeiro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É exonerada, sob proposta do Governo, a ministra plenipotenciária de 1.ª classe Maria de Fátima Pina Perestrello do cargo de Embaixadora de Portugal em Tallin.
 
-**Assinado em 13 de Dezembro de 2011.**
+Assinado em 13 de Dezembro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de Dezembro de 2011.**
+Referendado em 23 de Dezembro de 2011.
 
-**O Primeiro-Ministro, Pedro Passos Coelho. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo de Sacadura Cabral Portas.**
+O Primeiro-Ministro, Pedro Passos Coelho. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo de Sacadura Cabral Portas.

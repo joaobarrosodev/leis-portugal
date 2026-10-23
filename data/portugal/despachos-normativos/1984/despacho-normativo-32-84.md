@@ -47,40 +47,190 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/32-1984-660513
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T07:29:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3778add6feb80a13e983cf9f21df30e12275c154c9f44c86de9cb186570fb2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ec31b3655799bb2136d6aa89bbaf353bf7226ef4f0a5fdaa22ad9723c638faa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:29:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Preparatório
+- Habilitações Literárias
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:519253:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Rectificado pela DECL.DD2379.1984.03.02.PCM DR.IS [77]2ºSupl. de 31/Mar/1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-03-02'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICAÇÃO DR.IS [77] 2SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-03-31'
+- type: amended_by
+  target: pt:dre:325554:por
+  label: "Alterado o mapa anexo a que se refere o n.º 1 pelo DN.23/85.08.04.1985.PCM, DR.IS [81] de 08.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/23-1985-325554
+  date: '1985-04-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELO DN 11-A/86, DR.IS [35] SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-02-12'
+- type: amended_by
+  target: pt:dre:186759:por
+  label: "Aditadas as habilitações próprias constantes do anexo I, pelo DN.52/96.1996.11.20.PCM DR.IS-B [284] de 09/Dez/1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/52-1996-186759
+  date: '1996-11-20'
+- type: amended_by
+  target: pt:dre:559026:por
+  label: "Aditadas as habilitações próprias e suficientes constantes do anexo do presente DN, pelo DN.7/97.1997.01.15.ME DR.IS-B\
+    \ [32] de 07/Fev/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/7-1997-559026
+  date: '1997-01-15'
+- type: amended_by
+  target: pt:dre:518793:por
+  label: "Aditadas outras habilitações próprias e suficientes e, alterado o elenco de habilitações próprias e suficientes\
+    \ para a docência no 1º grupo de ensino, pelo DN.10-B/98.1998.02.05.ME DR.IS-B [30]Supl de 05/Fev/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-b-1998-518793
+  date: '1998-02-05'
+- type: amended_by
+  target: pt:dre:692190:por
+  label: "Aditadas as habilitações próprias e suficientes constantes dos mapas em anexo ao presente diploma, pelo DN.1-A/99.1999.01.15.ME\
+    \ DR.IS-B [16]2ºSUPL DE 20/JAN/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-a-1999-692190
+  date: '1999-01-15'
+- type: amended_by
+  target: pt:dre:317117:por
+  label: "Aditadas as habilitações próprias e suficientes constantes do mapa anexo, pelo DN.28/99.1999.05.03.ME, DR.IS-B [121]\
+    \ de 25/Mai/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/28-1999-317117
+  date: '1999-05-03'
+- type: amended_by
+  target: pt:dre:587421:por
+  label: "Aditado o elenco das habilitações constantes do anexo do presente diploma, com a redacção posteriormente introduzida,\
+    \ pelo DN.3-A/2000.2000.01.10.ME DR.IS-B [14]Supl de 18/Jan/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-a-2000-587421
+  date: '2000-01-10'
+- type: amended_by
+  target: pt:dre:540190:por
+  label: "Aditadas, as habilitações próprias reconhecidas para a docência, ao elenco de cursos reconhecidos como habilitações\
+    \ próprias para os 2.º e 3.º ciclos do ensino básico e ensino secundário, constante do presente diploma, rectificado pela\
+    \ Decl DD722 de 31-Mar, com as alterações introduzidas pelos DN 112/84 de 28-Mai, 23/85 de 08-Abr, 11-A/86 de 12-Fev,\
+    \ 6-A/90 de 31-Jan, 1-A/95 de 06-Jan, 52/96 de 09-Dez, 10-B/98 de 05-Fev, 1-A/99 de 20-Jan, 28/99 de 25-Mai, e 3-A/2000\
+    \ de 18-Jan, bem como ao elenco constante das Ports. 92/97 de 06-Fev, 56-A/98 de 05-Fev e 16-A/2000 de 18-Jan, pela PORT.88/2006.24.01.2006.ME,\
+    \ DR.IS-B [17] de 24.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/88-2006-540190
+  date: '2006-01-24'
+- type: cites
+  target: pt:dre:186140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2520708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676613:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:631462:por
+  label: Retificado pelo(a) Declaração - Diário da República n.º 77/1984, 2º Suplemento, Série I de 1984-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-631462
+  date: '1984-03-31'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADO A PARTIR DO ANO ESCOLAR DE 1997-1998, PELA PORT 1141-D/95 DE 15-SET DR.IS-B [214]2SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-15'
+- type: repealed_by
+  target: pt:dre:519253:por
+  label: "Revogado, no que se refere ao reconhecimento de cursos superiores estrangeiros como conferentes de habilitação própria\
+    \ ou suficiente para a docência, o n.º 3 do presente diploma, pela PORT.254/2007.09.03.2007.ME, DR.IS [49] de 09.03.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-2007-519253
+  date: '2007-03-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:29:30Z'
   warnings: []
   errors: []
 ---
@@ -3077,4 +3227,4 @@ Frequência, com aproveitamento devidamente comprovado, do 4.º ano de um instru
 
 Nota. - As habilitações (próprias e suficientes) anteriormente mencionadas só poderão ser consideradas desde que os candidatos comprovem possuir a habilitação de um curso complementar do ensino secundário ou equivalente.
 
-**O Ministro da Educação, José Augusto Seabra.**
+O Ministro da Educação, José Augusto Seabra.

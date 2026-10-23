@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/12200/0000700011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/3/2021/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2021-165797124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:34:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3be509223b5d53a9d19736b846ae9a8290c6ff94eb1979feb9d03ace3676b02e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6721cfb3f762d6710bf52a1bb83e22f047c05c27ee97b57b163559005e652f62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:34:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,42 @@ subjects:
 - Animal de Exploração
 - Animal Doméstico
 - Animal Perigoso
-- Produção Animal
 - Animal Vadio
-- Proteção dos Animais
+- Dados Pessoais
 - Definição de Competências
-- Secretaria Geral
 - Mandato
 - Ministério do Ambiente
 - Página na Internet
-- Dados Pessoais
-- Sociedade Protectora dos Animais
-- Saúde Animal
+- Produção Animal
+- Proteção dos Animais
 - Provedor do Animal
+- Saúde Animal
+- Secretaria Geral
+- Sociedade Protectora dos Animais
 relationships:
 - type: amended_by
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a partir de 30.03.2022, o exercício da direção, nas matérias das repectivas competências,
+    pelo Ministro do Ambiente e da Ação Climática, conjuntamente com a Ministra da Agricultura e da Alimentação, sobre o Provedor
+    do Animal pelo(a) Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pelo Ministro da Agricultura e Pescas a direção
+    sobre o Provedor do Animal pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja exercida pelo Ministro da Agricultura e Mar a direção sobre
+    o Provedor do Animal pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República n.º 142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: celex:32016R0679
   label: null
@@ -125,16 +144,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/92/1995/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/92/1995/09/12/p/dre
+- type: cites
+  target: pt:dre:106549655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140431165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75170435:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:34:53Z'
   warnings: []
   errors: []
 ---
@@ -261,12 +316,14 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 25 de março de 2021. - António Luís Santos da Costa - Alexandra Ludomila Ribeiro Fernandes Leitão - João Pedro Soeiro de Matos Fernandes - Rui Manuel Costa Martinho.
 
-**Promulgado em 19 de junho de 2021.**
+Promulgado em 19 de junho de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de junho de 2021.**
+Referendado em 22 de junho de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114345079

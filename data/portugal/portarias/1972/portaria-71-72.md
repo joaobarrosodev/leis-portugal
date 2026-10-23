@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/71-1972-398084
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:55:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8464d1c020c2ad2afbef7b53e6bf0616f05f9d6103ddc8f5fa76539bae7da46b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 240ce42ba8eec3164fc82d3375cb3330281e4b306d4e7188673c47a1d24006ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:55:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:235275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:55:54Z'
   warnings: []
   errors: []
 ---
@@ -192,4 +200,4 @@ Consulado honorário em Nantes - Departamentos de Deux Sèvres, Loire Atlantique
 
 Consulado de 2.ª classe em Versalhes - Departamentos de Eure-et-Loire e Yvelines.
 
-**O Ministro dos Negócios Estrangeiros, Rui Manuel de Medeiros d'Espiney Patrício.**
+O Ministro dos Negócios Estrangeiros, Rui Manuel de Medeiros d'Espiney Patrício.

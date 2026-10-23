@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/37-1977-253242
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T05:56:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5480746a527e7183eef43e46b8ea85781eb4ede14c7bf22f6a51f9c1997a390f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf2e44d1746943e90566296ede5a7259327afb7169fb6e7ff9db3b7e534d42d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:56:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Extinção de Lugares
+- Fundo de Fomento Florestal
+- Integração de Trabalhadores
+- Pessoal Técnico Auxiliar
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:163788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578096:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:56:53Z'
   warnings: []
   errors: []
 ---
@@ -98,22 +119,22 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. São criadas na tabela anexa ao [Decreto n.º 45795](https://diariodarepublica.pt/dr/detalhe/decreto/45795-1964-578096), de 6 de Julho de 1964, Regulamento do Fundo de Fomento Florestal, as categorias de regente florestal principal, regente florestal de 1.ª e 2.ª classes e agente rural de 1.ª e 2.ª classes, às quais correspondem, respectivamente, as letras H, J, K, M e O do mapa do pessoal civil dos Ministérios civis, anexo ao [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Artigo 1.º - 1. São criadas na tabela anexa ao [Decreto n.º 45795](https://diariodarepublica.pt/dr/detalhe/decreto/45795-1964-578096), de 6 de Julho de 1964, Regulamento do Fundo de Fomento Florestal, as categorias de regente florestal principal, regente florestal de 1.ª e 2.ª classes e agente rural de 1.ª e 2.ª classes, às quais correspondem, respectivamente, as letras H, J, K, M e O do mapa do pessoal civil dos Ministérios civis, anexo ao [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
 2. Os lugares de regente florestal principal são providos de entre os regentes florestais de 1.ª classe.
 
 3. Os lugares de agente rural são providos por diplomados com os cursos de agente rural, feitor agrícola ou equiparado.
 
-###### Art. 2.º - 1. Os actuais técnicos auxiliares de 1.ª e 2.ª classes em serviço no Fundo de Fomento Florestal que possuem os cursos das escolas de regentes agrícolas transitam para os lugares de regente florestal de 1.ª e 2.ª classes independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas.
+Art. 2.º - 1. Os actuais técnicos auxiliares de 1.ª e 2.ª classes em serviço no Fundo de Fomento Florestal que possuem os cursos das escolas de regentes agrícolas transitam para os lugares de regente florestal de 1.ª e 2.ª classes independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas.
 
 2. Os encarregados de arborização de 1.ª e 2.ª classes possuidores dos cursos a que se refere o n.º 3 do artigo 1.º que actualmente prestam serviço no Fundo de Fomento Florestal transitam para os lugares de agente rural de 1.ª e 2.ª classes, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas.
 
-###### Art. 3.º São extintas, na tabela referida no artigo 1.º do presente diploma as categorias de técnico auxiliar e de encarregado de arborização, com as respectivas classes.
+Art. 3.º São extintas, na tabela referida no artigo 1.º do presente diploma as categorias de técnico auxiliar e de encarregado de arborização, com as respectivas classes.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - António Carlos Ribeiro Campos - José Dias dos Santos Pais.
 
-**Promulgado em 30 de Maio de 1977.**
+Promulgado em 30 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

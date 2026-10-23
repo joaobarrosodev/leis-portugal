@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 26/2017, 2º Suplemento, Série I de 2017-02-06
   number: '26'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 678-(22) a 678-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/02602/0002200022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/9-b/2017/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/9-b-2017-106415099
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T05:31:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da3ad5306f4246249cc894d2601b0fe4d50e5b43493571fc35610dcc562684b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3c893f6412ccdff2fd20b116bc080d07598485bf4e11b816cc03b221d85f926
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:31:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,13 +73,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:31:32Z'
   warnings: []
   errors: []
 ---
@@ -88,16 +88,16 @@ validation:
 
 de 6 de fevereiro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 É exonerado, sob proposta do Primeiro-Ministro, Ricardo Emanuel Martins Mourinho Félix do cargo de Secretário de Estado Adjunto, do Tesouro e das Finanças.
 
-**Assinado em 4 de fevereiro de 2017.**
+Assinado em 4 de fevereiro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de fevereiro de 2017.**
+Referendado em 5 de fevereiro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

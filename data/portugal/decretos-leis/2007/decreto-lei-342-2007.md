@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/342/2007/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-2007-641442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01d34d60cdb1fd446364bee2fe56689f217124dcb4d6a41aa09198939fc7e0b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8017bd0f112bd387bade21bd517cca14b2e5d13af81c4ced1774cfce4cab20bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
+- Certificado de Qualidade
 - Definição de Competências
-- Segurança Pública
+- Equipamento de Veículo
 - Homologação
 - Instituto da Mobilidade e dos Transportes Terrestres
-- Certificado de Qualidade
-- Segurança Rodoviária
-- Equipamento de Veículo
 - Regulamento
+- Segurança Pública
+- Segurança Rodoviária
 relationships:
 - type: cites
   target: celex:31970L0156
@@ -100,13 +100,13 @@ relationships:
 article_structure:
   article_count: 14
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:36Z'
   warnings: []
   errors: []
 ---
@@ -177,15 +177,15 @@ b) Recusar o registo, a venda ou a entrada em circulação de veículos novos, c
 
 Visto e aprovado em Conselho de Ministros de 5 de Julho de 2007. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Rui Carlos Pereira.
 
-**Promulgado em 25 de Setembro de 2007.**
+Promulgado em 25 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Setembro de 2007.**
+Referendado em 26 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — REGULAMENTO RELATIVO ÀS FIXAÇÕES DOS CINTOS DE SEGURANÇA DOS AUTOMÓVEIS
 
@@ -381,7 +381,7 @@ Para efeitos do disposto no presente requisito, entende-se por «zona de protec�
 
 Um banco é considerado como um «lugar exposto» se as zonas de protecção no interior do espaço definido acima tiverem uma superfície acumulada inferior a 800 cm2.
 
-1.3.7 - Cada lugar sentado indicado no anexo ii com o símbolo [([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf) deve estar dotado com três fixações, a não ser que seja satisfeita uma das seguintes condições:
+1.3.7 - Cada lugar sentado indicado no anexo ii com o símbolo [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf) deve estar dotado com três fixações, a não ser que seja satisfeita uma das seguintes condições:
 
 Haja um banco ou outras partes do veículo que estejam em conformidade com o disposto no n.º 3.5 do apêndice i do anexo iii da Directiva n.º [74/408/CEE](https://data.europa.eu/eli/dir/1974/408/oj?locale=pt), transposta para o direito interno pela Portaria n.º 517-A/96, de 27 de Setembro, com a última redacção conferida pela Portaria n.º 1080/97, de 29 de Outubro, directamente à sua frente; ou
 
@@ -615,13 +615,13 @@ Para os veículos das categorias M(índice 3) e N(índice 3), a força de tracç
 
 Número mínimo de pontos de fixação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf)
 
 ## ANEXO III — (a que se refere o artigo 9.º)
 
 Localização das fixações inferiores - requisitos relativos aos ângulos apenas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 2 do artigo 3.º)
 
@@ -695,7 +695,7 @@ No caso de os sistemas, componentes ou unidades técnicas possuírem controlos e
 
 9.13.3 - Designação dos tipos (1) de cintos de segurança autorizados para as fixações com que o veículo está equipado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf)
 
 9.13.4 - Descrição de um tipo especial de cinto de segurança se uma fixação estiver localizada no encosto do banco ou incorporar um dispositivo de dissipação de energia: ...
 
@@ -787,7 +787,7 @@ respeito à Directiva n.º [76/115/CEE](https://data.europa.eu/eli/dir/1976/115/
 
 1.2 - Localização das fixações e cintos de segurança previstos (1):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf)
 
 5 - Observações:
 
@@ -799,13 +799,13 @@ Figura 1
 
 Localização das fixações efectivas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf)
 
 Figura 2
 
 Fixações efectivas superiores conformes ao n.º 1.4.4.7.3 do anexo i
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf)
 
 ## ANEXO VII — (a que se refere o anexo i do Regulamento)
 
@@ -813,15 +813,15 @@ Dispositivo de tracção
 
 Figura 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf)
 
 Figura 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf)
 
 Dimensões e peso do manequim
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf)
 
 Peso do manequim: ... kg
 
@@ -839,4 +839,4 @@ Massas das pernas ... 13,2
 
 Figura 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0743507447.pdf)

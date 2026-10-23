@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/06/139a00/35783584.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/121/2003/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2003-685031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81ea30544dbda745f5d0131a04b5a943a85d11289161b48af5ebc427f7875239
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86f2fa563ef3674f976c6752ab855eefece7747f197fca5bd2080ce80574edd1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,51 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autonomia Administrativa
-- Pessoal Dirigente
-- Gestão Financeira
+- Base de Dados
 - Definição de Competências
-- Ministério da Ciência e do Ensino Superior
+- Ensino Superior
+- Estatística
+- Gestão Financeira
 - Informação
 - Informação Científica e Técnica
-- Base de Dados
 - Informatização
 - Integração de Trabalhadores
+- Ministério da Ciência e do Ensino Superior
 - Observatório da Ciência e do Ensino Superior
 - Orgânica
+- Pessoal Dirigente
 - Planeamento
-- Tecnologia
-- Estatística
 - Quadro de Pessoal
 - Receita
-- Ensino Superior
+- Tecnologia
 relationships:
 - type: amended_by
   target: pt:dre:521012:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457005:por
+  label: "Determinado que o Gabinete de Gestão Financeira da Ciência e do Ensino Superior, cuja orgânica foi aprovada no Dec\
+    \ Lei 123/2003, de 18-Jun, e o Observatório cuja orgânica foi aprovada no presente diploma, se fundam no Gabinete de Estudos\
+    \ e Prospectiva da Ciência, Inovação e Ensino Superior, assumindo as competências daqueles serviços, pelo DEC LEI.10/2005.06.01.2005.MCIES,\
+    \ DR.IS-A [4] de 06.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2005-457005
+  date: '2005-01-06'
+- type: amended_by
+  target: pt:dre:545643:por
+  label: "Extinto, sendo objecto de fusão, o Observatório criado no presente diploma, e integradas as atribuições no Gabinete\
+    \ de Planeamento, Estratégia, Avaliação e Relações Internacionais, pelo DEC LEI.214/2006.27.10.2006.MCTES, DR.IS [208]\
+    \ de 27.10.2006, nos termos dos seus artigos 31.º e 32.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2006-545643
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:521012:por
+  label: "Determinado que o Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais, suceda nas atribuições\
+    \ do Observatório da Ciência e do Ensino Superior (extinto nos termos do art. 26º do Dec Lei 214/2006 de 27-Out), criado\
+    \ pelo presente diploma, ora revogado, nos termos do art. 5º do Dec Lei 201/2006 de 27-Out, pelo DR.60/2007.27.04.2007.MCTES,\
+    \ DR.IS [82] de 27.04.2007, a partir de 01.05.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/60-2007-521012
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/1996/03/06/p/dre
   label: null
@@ -104,16 +127,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/205/2002/10/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/205/2002/10/07/p/dre
+- type: cites
+  target: pt:dre:144604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657223:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:19Z'
   warnings: []
   errors: []
 ---
@@ -480,15 +527,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Abril de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Nuno Albuquerque Morais Sarmento - José David Gomes Justino - Pedro Lynce de Faria - António José de Castro Bagão Félix.
 
-**Promulgado em 29 de Maio de 2003.**
+Promulgado em 29 de Maio de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Junho de 2003.**
+Referendado em 3 de Junho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Quadro de pessoal dirigente
 

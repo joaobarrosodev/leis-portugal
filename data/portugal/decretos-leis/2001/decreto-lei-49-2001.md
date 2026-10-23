@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/49/2001/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2001-320739
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:29:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54fcbdaf2323a3460171a3151cd23ee1741ed07d908550073c89417254ba586e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23af1e3f5e83dc357e633588f4ef832386343e35e1b97df69def0e11c7d25618
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:29:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Indústria Automóvel
 - Certificado de Conformidade
 - Direcção Geral de Viação
+- Equipamento de Veículo
 - Especificação Técnica
 - Homologação
-- Veículo
-- Proteção do Ambiente
-- Equipamento de Veículo
-- Regulamento
+- Indústria Automóvel
 - Poluição Sonora
+- Proteção do Ambiente
+- Regulamento
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:603186:por
@@ -115,16 +115,22 @@ relationships:
   target: celex:31999L0101
   label: null
   source: http://data.europa.eu/eli/dir/1999/101/oj
+- type: repealed_by
+  target: pt:dre:603186:por
+  label: "Revogado o Regulamento aprovado no presente diploma pelo DEC LEI.19/2009.15.01.2009.MOPTC, DR.IS [10] de 15.01.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-2009-603186
+  date: '2009-01-15'
 article_structure:
-  article_count: 85
-  section_count: 49
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 77
+  section_count: 32
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:29:31Z'
   warnings: []
   errors: []
 ---
@@ -181,15 +187,15 @@ b) A homologação de âmbito nacional a um modelo de veículo e a um modelo de 
 
 Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 2000. - António Manuel de Oliveira Guterres - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Vítor Manuel da Silva Santos.
 
-**Promulgado em 15 de Janeiro de 2001.**
+Promulgado em 15 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Janeiro de 2001.**
+Referendado em 18 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — REGULAMENTO RESPEITANTE AO NÍVEL SONORO ADMISSÍVEL E AO DISPOSITIVO DE ESCAPE DOS AUTOMÓVEIS
 
@@ -295,7 +301,7 @@ b) A designação comercial dada pelo fabricante.
 
 ##### SUBSECÇÃO II — Nível sonoro do veículo em marcha
 
-##### DIVISÃO I
+DIVISÃO I
 
 Valores limite
 
@@ -311,7 +317,7 @@ b) Nos veículos de massa máxima admissível superior a 2 t concebidos para uti
 
 c) Nos veículos referidos no ponto 5.2.2.1.1 do anexo III ao presente Regulamento, equipados com uma caixa de velocidades manual com mais de quatro velocidades e um motor que desenvolva uma potência máxima superior a 140 kW e cuja relação entre a potência máxima e a massa máxima autorizada seja superior a 75 kW/t, os valores limite são aumentados em 1 dB (A), se a velocidade a que a traseira do veículo ultrapassar a linha BB' (anexo IV) em terceira velocidade for superior a 61 km/h.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Aparelhos de medição
 
@@ -325,7 +331,7 @@ Aparelhos de medição
 
 A velocidade de rotação do motor e a velocidade do veículo no percurso de ensaio são determinadas com um erro máximo de 3%.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Condições de medição
 
@@ -361,11 +367,11 @@ Para as medições, o nível sonoro ponderado (A) de fontes acústicas que não 
 
 6 - Para os veículos que possuam mais de duas rodas motoras, somente será utilizado o modo de transmissão previsto para a condução normal em estrada.
 
-##### DIVISÃO IV
+DIVISÃO IV
 
 Método de medição
 
-##### SUBDIVISÃO I
+SUBDIVISÃO I
 
 Disposições gerais
 
@@ -379,7 +385,7 @@ Disposições gerais
 
 O microfone deve ser colocado a 7,5 m (mais ou menos) 0,2 m da linha de referência CC' (v. anexo IV) da pista e a 1,2 m (mais ou menos) 0,1 m acima do nível do solo, devendo o seu eixo de sensibilidade máxima ser horizontal e perpendicular ao percurso do veículo (linha CC').
 
-##### SUBDIVISÃO II
+SUBDIVISÃO II
 
 Condições de condução
 
@@ -451,7 +457,7 @@ c) Se o nível sonoro mais elevado for obtido com a relação x, considera-se qu
 
 11 - Nos veículos equipados com caixa de velocidades automática equipada com selector manual, o ensaio deve ser efectuado com o selector na posição recomendada pelo fabricante para condução «normal», não devendo ser utilizada a retrogradação forçada (kick down).
 
-##### DIVISÃO V
+DIVISÃO V
 
 Interpretação dos resultados
 
@@ -465,7 +471,7 @@ Interpretação dos resultados
 
 ##### SUBSECÇÃO III — Nível sonoro do veículo imobilizado
 
-##### DIVISÃO I
+DIVISÃO I
 
 Nível sonoro na proximidade dos veículos
 
@@ -473,7 +479,7 @@ Nível sonoro na proximidade dos veículos
 
 A fim de facilitar o controlo posterior dos veículos em circulação, o nível sonoro deve ser medido na proximidade da saída do dispositivo silencioso de escape, em conformidade com as prescrições a seguir, e os resultados da medição devem ser registados no relatório de ensaio com vista à emissão do certificado referido no anexo II ao presente Regulamento.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Aparelhos de medição
 
@@ -485,7 +491,7 @@ As medições devem ser efectuadas com um sonómetro de precisão, conforme defi
 
 A velocidade de rotação do motor deve ser determinada por meio de um conta-rotações com precisão mínima de 3% que não pode ser o conta-rotações do veículo.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Condições de medição
 
@@ -509,7 +515,7 @@ As indicações dos aparelhos de medição provocadas pelo ruído ambiente e pel
 
 2 - Durante as medições, a alavanca da caixa de velocidades deve estar em ponto morto.
 
-##### DIVISÃO IV
+DIVISÃO IV
 
 Método de medição
 
@@ -537,7 +543,7 @@ Método de medição
 
 2 - Assim que se atingir o regime estabilizado, o comando de aceleração deve ser rapidamente reconduzido à posição de marcha lenta sem carga, devendo o nível sonoro ser medido durante um período de funcionamento que inclua um breve trecho em que se manterá o regime estabilizado, bem como todo o tempo da desaceleração, sendo tomado como resultado da medição o nível sonoro máximo registado pelo sonómetro.
 
-##### DIVISÃO V
+DIVISÃO V
 
 Resultados
 
@@ -975,1246 +981,4 @@ d(índice max) = 6,3 mm para a curva de tolerância superior.
 
 4 - Além do disposto no número anterior deve, ainda, observar-se o seguinte:
 
-a) A fracção de areia (0,063 mm
-
-b) A base e a sub-base devem assegurar uma boa estabilidade e uma boa uniformidade, em conformidade com as melhores práticas de construção rodoviária;
-
-c) A gravilha deve ser triturada (100% de faces trituradas) e ser constituída por um material que ofereça uma resistência elevada à trituração;
-
-d) A gravilha utilizada na mistura deve ser lavada;
-
-e) Não pode ser acrescentada sobre a superfície qualquer gravilha suplementar;
-
-f) A dureza do aglutinante expressa em valores PEN deve ser de 40-60, 60-80 ou de 80-100, consoante as condições climáticas do país em causa, devendo ser utilizado um aglutinante o mais duro possível, desde que seja conforme à prática habitual;
-
-g) A temperatura da mistura antes da aplanagem deve ser escolhida de modo a realizar o teor em vazios exigido por aplanagem posterior.
-
-5 - Para aumentar a probabilidade de conformidade com as especificações dos artigos 67.º a 70.º, a compacidade deve ser estudada não apenas pela escolha adequada da temperatura da mistura, mas também por um número adequado de passagens a pela escolha do veículo de compactagem.
-
-CAPÍTULO III
-
-Métodos de ensaio
-
-Artigo 74.º
-
-Medição do teor em vazios residuais
-
-1 - Para efeitos da presente medição, devem ser extraídos da pista tarolos em, pelo menos, quatro posições diferentes, distribuídas pela superfície de ensaio entre as linhas AA e BB, de acordo com o anexo XII e, para evitar a falta de homogeneidade e de uniformidade das marcas das rodas, os tarolos não deverão ser extraídos nas marcas das rodas propriamente ditas, mas perto destas e deverão extrair-se, no mínimo, dois tarolos perto das marcas das rodas e um tarolo, no mínimo, a meio caminho, mais ou menos, entre as marcas de rodas e cada posição dos microfones.
-
-2 - Se se suspeitar que não se encontra satisfeita a condição de homogeneidade, os tarolos serão extraídos num maior número de locais da superfície de ensaio.
-
-3 - O teor em vazios residuais deve ser determinado para cada tarolo e, em seguida, calcular-se-á o valor médio para os tarolos e comparar-se-á este valor à exigência do artigo 67.º, não devendo nenhum tarolo ter um valor em vazios superior a 10%.
-
-4 - Quando a superfície de ensaio for aquecida por tubos ou fios eléctricos e os tarolos tiverem de ser extraídos nessa superfície, o construtor deve assegurar que as instalações serão cuidadosamente programadas em relação com a extracção posterior de novos tarolos, devendo, por isso, deixar alguns locais com uma dimensão de cerca de 200 mm x 300 mm sem fios nem tubos ou colocar estes a uma profundidade suficiente, de modo a não os danificar aquando da extracção de tarolos na camada superficial.
-
-Artigo 75.º
-
-Coeficiente de absorção acústica
-
-1 - O coeficiente de absorção acústica (incidência normal) deve ser medido pelo método do tubo de impedância utilizado pelo processo especificado no ISO/DIS 10534, «Acústica - Determinação do factor de absorção acústica a da impedância acústica pelo método do tubo».
-
-2 - No que se refere às provetas, devem ser respeitadas as mesmas exigências no que se refere ao teor em vazios residuais, nos termos do artigo anterior.
-
-3 - A absorção acústica deve ser medida no domínio compreendido entre 400 Hz e 800 Hz e no domínio compreendido entre 800 Hz e 1600 Hz, pelo menos nas frequências centrais das bandas terço de oitava, devendo os valores máximos ser identificados para estes dois domínios de frequência, sendo, em seguida, estes valores para todos os tarolos de ensaio ponderados de forma a obter o resultado final.
-
-Artigo 76.º
-
-Medição da profundidade de textura
-
-As medições da profundidade de textura devem ser realizadas em, pelo menos, 10 posições espaçadas uniformemente ao longo das marcas de rodas do troço de ensaio, calculando-se o valor médio que será comparado com a profundidade de textura mínima especificada, conforme o anexo F do projecto de norma ISO/DIS 10844 para a descrição do processo.
-
-CAPÍTULO IV
-
-Estabilidade no tempo e manutenção
-
-Artigo 77.º
-
-Influência do envelhecimento
-
-1 - Os níveis de ruído do contacto pneu/faixa de rodagem, medidos na superfície de ensaio, podem, eventualmente, aumentar ligeiramente nos 6 a 12 meses seguintes à construção.
-
-2 - A superfície atingirá as características exigidas, pelo menos, quatro semanas após a construção, sendo a influência do envelhecimento sobre o ruído emitido por automóveis pesados geralmente menor do que sobre o ruído emitido pelos ligeiros.
-
-3 - A estabilidade no tempo define-se essencialmente pelo polimento e pela compactação devidos aos veículos que se deslocam na superfície e deverá ser verificada periodicamente, tal como referido no artigo 71.º do presente Regulamento.
-
-Artigo 78.º
-
-Manutenção da superfície
-
-1 - Os detritos espalhados ou as poeiras susceptíveis de reduzir significativamente a profundidade da textura efectiva devem ser retirados da superfície.
-
-2 - Não é recomendada a utilização que por vezes se faz do sal para, nos países de clima invernoso, retirar a neve, uma vez que pode alterar a superfície temporariamente ou mesmo permanentemente, aumentando assim o ruído.
-
-Artigo 79.º
-
-Repavimentação da zona de ensaio
-
-Se for necessário reparar a pista de ensaio, geralmente não é necessário repavimentar mais do que a faixa de ensaio, com uma largura de 3 m, em que os veículos se deslocam, desde que a zona de ensaio no exterior dessa faixa satisfaça a exigência do teor em vazios residuais ou de absorção acústica na medição.
-
-CAPÍTULO V
-
-Documentação da superfície e dos ensaios efectuados sobre a mesma
-
-Artigo 80.º
-
-Documentação da superfície de ensaio
-
-No documento que descreve a superfície de ensaio, devem constar os seguintes dados:
-
-a) Localização da pista de ensaio;
-
-b) Tipo de aglutinante, dureza do aglutinante, tipo de granulados, densidade teórica máxima do betão (DR), espessura da faixa de aplanagem e curva granulométrica definida a partir dos tarolos extraídos na pista de ensaio;
-
-c) Método de compactagem, nomeadamente tipo de rolo, volume do rolo, número de passagens;
-
-d) Temperatura da mistura, temperatura do ar ambiente e velocidade do vento durante a construção da superfície;
-
-e) Data em que a superfície foi construída e nome do empreiteiro;
-
-f) Totalidade dos resultados dos ensaios ou, no mínimo, do ensaio mais recente, compreendendo:
-
-i) Teor em vazios residuais de cada tarolo;
-
-ii) Os locais da superfície de ensaio onde foram extraídos para a medição dos vazios;
-
-iii) Coeficiente de absorção acústica de cada tarolo (se for medido), especificando os resultados para cada tarolo e para cada domínio de frequência, bem como a média geral;
-
-iv) Os locais da zona de ensaio onde foram extraídos os tarolos para medição da absorção;
-
-v) A profundidade de textura, incluindo o número de ensaios e o desvio padrão;
-
-vi) A instituição responsável pelos ensaios f1 e f3 e o tipo de material utilizado;
-
-vii) A data do ou dos ensaios e a data em que foram extraídos os tarolos da pista de ensaio.
-
-Artigo 81.º
-
-Documentação dos ensaios do ruído emitido pelos veículos na superfície
-
-No documento que descreve o ou os ensaios do ruído emitido pelos veículos, será necessário referir se foram satisfeitas as exigências, em conformidade com o artigo anterior.
-
-ANEXO I
-
-(referente ao n.º 2 do artigo 2.º)
-
-Ficha de informações n.º... [nos termos do anexo I da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt), do Conselho (ver nota *)], relativa à homologação CE de um veículo no que diz respeito ao nível sonoro admissível e ao dispositivo de escape (Directiva n.º [70/157/CEE](https://data.europa.eu/eli/dir/1970/157/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º [1999/101/CE](https://data.europa.eu/eli/dir/1999/101/oj?locale=pt)).
-
-As informações seguintes, se aplicáveis, serão fornecidas em triplicado e incluirão um índice. Se houver desenhos, serão fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, deverão ser suficientemente pormenorizadas.
-
-Caso os sistemas, componentes ou unidades técnicas autónomas possuam funções com comando electrónico, serão fornecidas informações relativas ao respectivo desempenho.
-
-0 - Generalidades.
-
-0.1 - Marca (firma do fabricante): ...
-
-0.2 - Modelo e designação(ões) comercial(is) geral(is): ...
-
-0.3 - Meios de identificação do modelo, se marcados no veículo (b):
-
-0.3.1 - Localização dessa marcação: ...
-
-0.4 - Categoria do veículo (c): ...
-
-0.5 - Nome e morada do fabricante: ...
-
-0.8 - Morada(s) da(s) linha(s) de montagem: ...
-
-1 - Constituição geral do veículo:
-
-1.1 - Fotografia e ou desenhos de um veículo representativo: ...
-
-1.3.3 - Eixos motores (número, posição, interligação): ...
-
-1.6 - Localização e disposição do motor: ...
-
-2 - Massas e dimensões (e) (em kg e mm) (ver desenho quando aplicável):
-
-2.4 - Gama de dimensões (exteriores) do veículo:
-
-2.4.1 - Para o quadro sem carroçaria:
-
-2.4.1.1 - Comprimento (j): ...
-
-2.4.1.2 - Largura (k): ...
-
-2.4.2 - Para o quadro com carroçaria:
-
-2.4.2.1 - Comprimento (j): ...
-
-2.4.2.2 - Largura (k):...
-
-2.6 - Massa do veículo carroçado em ordem de marcha, ou massa do quadro com cabina, se o fabricante não fornecer a carroçaria (com equipamentos standard incluindo líquido de arrefecimento, lubrificantes, combustível, ferramentas, roda de reserva e condutor) (o) (máximo e mínimo): ...
-
-3 - Motor (q):
-
-3.1 - Fabricante:
-
-3.1.1 - Código do fabricante para o motor (conforme marcado no motor, ou outro meio de identificação): ...
-
-3.2 - Motor de combustão interna:
-
-3.2.1.1 - Princípio de funcionamento: ignição comandada/ignição por compressão, quatro tempos/dois tempos (ver nota 1).
-
-3.2.1.2 - Número e disposição dos cilindros:
-
-3.2.1.2.3 - Ordem de inflamação: ...
-
-3.2.1.3 - Cilindrada(s): ... cm3
-
-3.2.1.8 - Potência útil máxima (t): ... kW a... min(elevado a -1) (valor declarado pelo fabricante).
-
-3.2.4 - Alimentação de combustível:
-
-3.2.4.1 - Por meio de carburador(es): sim/não (ver nota 1).
-
-3.2.4.1.2 - Tipo(s): ...
-
-3.2.4.1.3 - Número instalado: ...
-
-3.2.4.2 - Por injecção de combustível (ignição por compressão apenas): sim/não (ver nota 1).
-
-3.2.4.2.2 - Princípio de funcionamento: injecção directa/pré-câmara/câmara de turbulência (ver nota 1).
-
-3.2.4.2.4 - Regulador:
-
-3.2.4.2.4.1 - Tipo:
-
-3.2.4.2.4.2.1 - Ponto de corte em carga: ... min(elevado a -1)
-
-3.2.4.3 - Por injecção de combustível (ignição comandada apenas): sim/não (ver nota 1).
-
-3.2.4.3.1 - Princípio de funcionamento: colector de admissão [ponto único/multiponto (ver nota 1)]/injecção directa/outro (especificar).
-
-3.2.8 - Sistema de admissão:
-
-3.2.8.4.2 - Filtro de ar, desenhos: ..., ou
-
-3.2.8.4.2.1 - Marca(s): ...
-
-3.2.8.4.2.2 - Tipo(s): ...
-
-3.2.8.4.3 - Silencioso de admissão, desenhos: ..., ou
-
-3.2.8.4.3.1 - Marca(s): ...
-
-3.2.8.4.3.2 - Tipo(s): ...
-
-3.2.9 - Sistema de escape:
-
-3.2.9.2 - Descrição e ou desenho do sistema de escape:
-
-3.2.9.4 - Silencioso(s) de escape (para o silencioso da frente, do centro, da retaguarda: construção, tipo, marcação; se for relevante para o ruído exterior: medidas de redução de ruído no compartimento do motor e no motor): ...
-
-3.2.9.5 - Localização da saída de escape: ...
-
-3.2.9.6 - Silencioso de escape com materiais fibrosos: ...
-
-3.2.1.2.2.1 - Catalisador: sim/não (ver nota 1).
-
-3.2.1.2.2.1.1 - Número de catalisadores e elementos:
-
-3.3 - Motor eléctrico:
-
-3.3.1 - Tipo (enrolamento, excitação):
-
-3.3.1.1 - Potência horária máxima: ... kW
-
-3.3.1.2 - Tensão de funcionamento: ... V
-
-3.4 - Outros motores ou suas combinações (pormenores relativos às partes de tais motores): ...
-
-4 - Transmissão:
-
-4.2 - Tipo (mecânica, hidráulica, eléctrica, etc.): ...
-
-4.6 - Relações de transmissão:
-
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)
-
-4.7 - Velocidade máxima do veículo e ralação de transmissão na qual é atingida (em Km/h) (w): ...
-
-6 - Suspensão:
-
-6.6 - Pneus e rodas:
-
-6.6.2 - Limites superior e inferior dos raios de rolamento:
-
-6.6.2.1 - Eixo 1: ...
-
-6.6.2.2 - Eixo 2: ...
-
-6.6.2.3 - Eixo 3: ...
-
-6.6.2.4 - Eixo 4: ...
-
-Etc.
-
-9 - Carroçaria (não aplicável a veículos da categoria M(índice 1)):
-
-9.1 - Tipo de carroçaria: ...
-
-9.2 - Materiais e tipo de construção: ...
-
-12 - Diversos:
-
-12.5 - Pormenores de quaisquer dispositivos não relacionados com o motor concebidos para reduzir o nível de ruído (se existirem e se não estiverem abrangidos por outros pontos): ...
-
-Informações adicionais no caso de veículos todo o terreno.
-
-1.3 - Número de eixos e rodas:
-
-2.4.1 - Para o quadro sem carroçaria:
-
-2.4.1.4.1 - Ângulo de ataque (na): ... graus.
-
-2.4.1.5.1 - Ângulo de fuga (nb): ... graus.
-
-2.4.1.6 - Altura ao solo (conforme definida no ponto 4.5.4 da parte A do anexo II da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt)):
-
-2.4.1.6.1 - Entre os eixos: ...
-
-2.4.1.6.2 - Sob o(s) eixo(s) da frente: ...
-
-2.4.1.6.3 - Sob o(s) eixos(s) da retaguarda: ...
-
-2.4.1.7 - Ângulo de rampa (nc): ... graus.
-
-2.4.2 - Para o quadro com carroçaria:
-
-2.4.2.4.1 - Ângulo de ataque (na): ... graus.
-
-2.4.2.5.1 - Ângulo de fuga (nb): ... graus.
-
-2.4.2.6 - Altura ao solo (conforme definida no ponto 4.5 da parte A do anexo II da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt)):
-
-2.4.2.6.1 - Entre os eixos: ...
-
-2.4.2.6.2 - Sob o(s) eixo(s) da frente: ...
-
-2.4.2.6.3 - Sob o(s) eixos(s) da retaguarda:
-
-2.4.2.7 - Ângulo de rampa (nc): ... graus.
-
-2.1.5 - Capacidade de arranque em subida (veículo a solo): ...%.
-
-4.9 - Bloqueio do diferencial: sim/não/opcional (ver nota 1).
-
-Data, processo.
-
-(nota *) Os números dos pontos e das notas de pé de página utilizados nesta ficha de informações correspondem aos que constam do anexo I da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt).
-
-(nota 1) Riscar o que não interessa.
-
-ANEXO II
-
-(referente ao n.º 2 do artigo 4.º)
-
-Modelo
-
-Ficha de homologação CE
-
-[formato máximo: A4 (210 mm x 297 mm)]
-
-[Carimbo da autoridade administrativa]
-
-Comunicação relativa à:
-
-- Homologação (ver nota 1);
-
-- Extensão da homologação (ver nota 1);
-
-- Recusa da homologação (ver nota 1);
-
-- Revogação da homologação (ver nota 1);
-
-de um modelo de veículo/componente/unidade técnica (ver nota 1) no que diz respeito à Directiva n.º .../.../CEE, com a última redacção que lhe foi dada pela Directiva n.º .../.../CE.
-
-Número de homologação: ...
-
-Razão da extensão: ...
-
-SECÇÃO I
-
-0 - Generalidades.
-
-0.1 - Marca (firma do fabricante): ...
-
-0.2 - Modelo/tipo e designação(ões) comercial(is) geral(is): ...
-
-0.3 - Meios de identificação do modelo/tipo, se marcados no veículo/componente/unidade técnica (ver nota 1) (ver nota 2):
-
-0.3.1 - Localização dessa marcação:
-
-0.4 - Categoria do veículo (ver nota 3): ...
-
-0.5 - Nome e morada do fabricante do veículo de base: ...
-
-0.7 - No caso de componentes e unidades técnicas, localização e método de fixação da marca de homologação CE: ...
-
-0.8 - Nome(s) e morada(s) das instalações de montagem: ...
-
-SECÇÃO II
-
-1 - Informações adicionais (se aplicável): v. adenda.
-
-2 - Serviço técnico responsável pela realização dos ensaios: ...
-
-3 - Data do relatório de ensaio: ...
-
-4 - Número do relatório de ensaio: ...
-
-5 - Eventuais observações: v. adenda.
-
-6 - Local: ...
-
-7 - Data: ...
-
-8 - Assinatura: ...
-
-9 - Está anexado o índice do dossier de homologação que está arquivado nas autoridades de homologação e pode ser obtido a pedido.
-
-(nota 1) Riscar o que não interessa.
-
-(nota 2) Se os meios de identificação do modelo/tipo contiverem caracteres não relevantes para a descrição dos modelos/tipos de veículo, componente ou unidade técnica abrangidos por esta ficha de informações, tais caracteres devem ser representados na documentação por meio do símbolo «?» (por exemplo: ABC??123??).
-
-(nota 3) Conforme definida na parte A do anexo II da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt).
-
-Adenda à ficha de homologação CE n.º ...
-
-Relativa à homologação de um modelo de veículo no que diz respeito à Directiva n.º [70/157/CEE](https://data.europa.eu/eli/dir/1970/157/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º [1999/101/CE](https://data.europa.eu/eli/dir/1999/101/oj?locale=pt).
-
-1 - Informações adicionais:
-
-1.1 - Se necessário, lista de veículos abrangidos pelo ponto 5.2.2.4.3.3.1.2. do anexo I:
-
-1.2 - Motor:
-
-1.2.1 - Fabricante: ...
-
-1.2.2 - Tipo: ...
-
-1.2.3 - Modelo: ...
-
-1.2.4 - Potência nominal máxima: ... kW a ... min(elevado a -1).
-
-1.3 - Transmissão: caixa não automática/automática (ver nota 1).
-
-1.4 - Equipamentos:
-
-1.4.1 - Silencioso de escape:
-
-1.4.1.1 - Fabricante: ...
-
-1.4.1.2 - Modelo: ...
-
-1.4.1.3 - Tipo: ... de acordo com o desenho n.º ...
-
-1.4.2 - Silencioso de admissão:
-
-1.4.2.1 - Fabricante: ...
-
-1.4.2.2 - Modelo: ...
-
-1.4.2.3 - Tipo: ... de acordo com o desenho n.º ...
-
-1.5 - Dimensões dos pneus:
-
-1.5.1 - Descrição do tipo de pneu utilizado para os ensaios de homologação: ...
-
-1.6 - Medições: ...
-
-1.6.1 - Nível sonoro do veículo em marcha: ...
-
-(nota 1) Riscar o que não interessa.
-
-Resultados da medição
-
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)
-
-1.6.2 - Nível sonoro do veículo imobilizado:
-
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)
-
-1.6.3 - Nível sonoro do ruído devido ao ar comprimido:
-
-Resultados da medição
-
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)
-
-5 - Observações: ...
-
-[(ver notas referentes ao quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)
-
-Do ANEXO III ao ANEXO VII
-
-[(ver anexos no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)
-
-ANEXO VIII
-
-(referente ao n.º 2 do artigo 44.º)
-
-Ficha de informações n.º ... relativa à homologação CE enquanto unidade técnica de dispositivos de escape para veículos (Directiva n.º [70/157/CEE](https://data.europa.eu/eli/dir/1970/157/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º [1999/101/CE](https://data.europa.eu/eli/dir/1999/101/oj?locale=pt)).
-
-As informações seguintes, se aplicáveis, serão fornecidas em triplicado e incluirão um índice. Se houver desenhos, serão fornecidos à escala adequada e com pormenor suficiente, em formato A(índice 4), ou dobrados nesse formato. Se houver fotografias, deverão ser suficientemente pormenorizadas.
-
-Caso os sistemas, componentes ou unidades técnicas autónomas possuam funções com comando electrónico, serão fornecidas informações relativas ao respectivo desempenho.
-
-0 - Generalidades:
-
-0.1 - Marca (firma do fabricante): ...
-
-0.2 - Tipo e designação(ões) comercial(is) geral(is): ...
-
-0.5 - Nome e morada do fabricante: ...
-
-0.7 - No caso de componentes e unidades técnicas, localização e método de fixação da marca de homologação CE: ...
-
-0.8 - Morada(s) da(s) linha(s) de montagem: ...
-
-1 - Descrição do veículo a que se destina o dispositivo (se o dispositivo se destinar a ser instalado em mais de um modelo de veículo, as informações pedidas neste ponto devem ser fornecidas para cada modelo envolvido):
-
-1.1 - Marca (firma do fabricante): ...
-
-1.2 - Modelo e designação(ões) comercial(is) geral(is): ...
-
-1.3 - Meios de identificação do modelo, se marcados no veículo: ...
-
-1.4 - Categoria de veículo: ...
-
-1.5 - Número de homologação CE no que diz respeito ao nível sonoro: ...
-
-1.6 - Todas as informações mencionadas nos pontos 1.1 a 1.5 da ficha de homologação ao veículo (apêndice 2 do anexo I da presente directiva): ...
-
-2 - Descrição do dispositivo:
-
-2.1 - Descrição do dispositivo de escape de substituição indicando a posição relativa de cada componente do dispositivo, juntamente com instruções de montagem: ...
-
-2.2 - Desenhos pormenorizados de cada componente, para que possa ser facilmente localizado e identificado, e referência aos materiais utilizados. Esses desenhos devem indicar o local previsto para a fixação obrigatória da marca de homologação CE: ...
-
-Data, processo.
-
-ANEXO IX
-
-(referente ao n.º 2 do artigo 46.º)
-
-Modelo
-
-Ficha de homologação CE
-
-[formato máximo: A4 (210 mm x 297 mm)]
-
-[Carimbo da autoridade administrativa]
-
-Comunicação relativa à:
-
-- Homologação (ver nota 1);
-
-- Extensão da homologação (ver nota 1);
-
-- Recusa da homologação (ver nota 1);
-
-- Revogação da homologação (ver nota 1);
-
-de um modelo/tipo de veículo/componente/unidade técnica (ver nota 1) no que diz respeito à Directiva n.º .../.../CEE, com a última redacção que lhe foi dada pela Directiva n.º [1999/101/CE](https://data.europa.eu/eli/dir/1999/101/oj?locale=pt).
-
-Número de homologação: ...
-
-Razão da extensão: ...
-
-SECÇÃO I
-
-0 - Generalidades.
-
-0.1 - Marca (firma do fabricante): ...
-
-0.2 - Modelo/tipo (ver nota 1) e designação(ões) comercial(is) geral(is): ...
-
-0.3 - Meios de identificação do modelo/tipo, se marcados no veículo - componente unidade técnica (ver nota 1) (ver nota 2):
-
-0.3.1 - Localização dessa marcação: ...
-
-0.4 - Categoria do veículo (ver nota 3): ...
-
-0.5 - Nome e morada do fabricante do veículo de base: ...
-
-0.7 - No caso de componentes e unidades técnicas, localização e método de fixação da marca de homologação CE: ...
-
-0.8 - Nome(s) e morada(s) das instalações de montagem: ...
-
-SECÇÃO II
-
-1 - Informações adicionais (se aplicável): v. adenda.
-
-2 - Serviço técnico responsável pela realização dos ensaios: ...
-
-3 - Data do relatório de ensaio: ...
-
-4 - Número do relatório de ensaio: ...
-
-5 - Eventuais observações: v. adenda: ...
-
-6 - Local: ...
-
-7 - Data: ...
-
-8 - Assinatura: ...
-
-9 - Está anexado o índice do dossier de homologação, que está arquivado nas autoridades de homologação e pode ser obtido a pedido.
-
-(nota 1) Riscar o que não interessa.
-
-(nota 2) Se os meios de identificação de modelo/tipo contiverem caracteres não relevantes para a descrição dos modelos/tipos de veículo, componente ou unidade técnica abrangidos por esta ficha de informações, tais caracteres devem ser representados na documentação por meio do símbolo «?» (por exemplo, ABC??123??).
-
-(nota 3) Conforme definida na parte A do anexo II da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt).
-
-Adenda à ficha de homologação CE n.º ...
-
-Relativa à homologação enquanto unidade técnica de dispositivos de escape para automóveis no que diz respeito à Directiva n.º [70/157/CEE](https://data.europa.eu/eli/dir/1970/157/oj?locale=pt) com a última redacção que lhe foi dada pela Directiva n.º [1999/101/CE](https://data.europa.eu/eli/dir/1999/101/oj?locale=pt).
-
-1 - Informações adicionais:
-
-1.1 - Composição da unidade técnica: ...
-
-1.2 - Marca de fabrico ou comercial do(s) modelo(s) de veículo(s) a motor a que se destina o dispositivo silencioso (ver nota 1): ...
-
-1.3 - Modelo(s) de veículo(s) e respectivo(s) número(s) de homologação: ...
-
-1.4 - Motor:
-
-1.4.1 - Tipo (ignição comandada, diesel): ...
-
-1.4.2 - Ciclos: 2 tempos, 4 tempos: ...
-
-1.4.3 - Cilindrada:
-
-1.4.4 - Potência máxima do motor: ... kW a ... min(elevado a -1)
-
-1.5 - Número de velocidades: ...
-
-1.6 - Relações de transmissão utilizadas: ...
-
-1.7 - Relação(ões) do eixo motor: ...
-
-1.8 - Valores do nível sonoro:
-
-- Veículo em marcha: ... dB (A), velocidade estabilizada antes da aceleração a. ... km/h;
-
-- Veículo imobilizado: ... dB (A) a ... min(elevado a -1)
-
-1.9 - Variação da perda de carga: ...
-
-1.10 - Eventuais restrições à utilização e prescrições de montagem: ...
-
-5 - Observações: ...
-
-(nota 1) Se forem indicados vários modelos, preencher os pontos 13 a 1.10, inclusive, para cada um deles.
-
-Do ANEXO X ao ANEXO XIV
-
-[(ver anexos no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)
-
-b) A base e a sub-base devem assegurar uma boa estabilidade e uma boa uniformidade, em conformidade com as melhores práticas de construção rodoviária;
-
-c) A gravilha deve ser triturada (100% de faces trituradas) e ser constituída por um material que ofereça uma resistência elevada à trituração;
-
-d) A gravilha utilizada na mistura deve ser lavada;
-
-e) Não pode ser acrescentada sobre a superfície qualquer gravilha suplementar;
-
-f) A dureza do aglutinante expressa em valores PEN deve ser de 40-60, 60-80 ou de 80-100, consoante as condições climáticas do país em causa, devendo ser utilizado um aglutinante o mais duro possível, desde que seja conforme à prática habitual;
-
-g) A temperatura da mistura antes da aplanagem deve ser escolhida de modo a realizar o teor em vazios exigido por aplanagem posterior.
-
-5 - Para aumentar a probabilidade de conformidade com as especificações dos artigos 67.º a 70.º, a compacidade deve ser estudada não apenas pela escolha adequada da temperatura da mistura, mas também por um número adequado de passagens a pela escolha do veículo de compactagem.
-
-### CAPÍTULO III — Métodos de ensaio
-
-###### Artigo 74.º — Medição do teor em vazios residuais
-
-1 - Para efeitos da presente medição, devem ser extraídos da pista tarolos em, pelo menos, quatro posições diferentes, distribuídas pela superfície de ensaio entre as linhas AA e BB, de acordo com o anexo XII e, para evitar a falta de homogeneidade e de uniformidade das marcas das rodas, os tarolos não deverão ser extraídos nas marcas das rodas propriamente ditas, mas perto destas e deverão extrair-se, no mínimo, dois tarolos perto das marcas das rodas e um tarolo, no mínimo, a meio caminho, mais ou menos, entre as marcas de rodas e cada posição dos microfones.
-
-2 - Se se suspeitar que não se encontra satisfeita a condição de homogeneidade, os tarolos serão extraídos num maior número de locais da superfície de ensaio.
-
-3 - O teor em vazios residuais deve ser determinado para cada tarolo e, em seguida, calcular-se-á o valor médio para os tarolos e comparar-se-á este valor à exigência do artigo 67.º, não devendo nenhum tarolo ter um valor em vazios superior a 10%.
-
-4 - Quando a superfície de ensaio for aquecida por tubos ou fios eléctricos e os tarolos tiverem de ser extraídos nessa superfície, o construtor deve assegurar que as instalações serão cuidadosamente programadas em relação com a extracção posterior de novos tarolos, devendo, por isso, deixar alguns locais com uma dimensão de cerca de 200 mm x 300 mm sem fios nem tubos ou colocar estes a uma profundidade suficiente, de modo a não os danificar aquando da extracção de tarolos na camada superficial.
-
-###### Artigo 75.º — Coeficiente de absorção acústica
-
-1 - O coeficiente de absorção acústica (incidência normal) deve ser medido pelo método do tubo de impedância utilizado pelo processo especificado no ISO/DIS 10534, «Acústica - Determinação do factor de absorção acústica a da impedância acústica pelo método do tubo».
-
-2 - No que se refere às provetas, devem ser respeitadas as mesmas exigências no que se refere ao teor em vazios residuais, nos termos do artigo anterior.
-
-3 - A absorção acústica deve ser medida no domínio compreendido entre 400 Hz e 800 Hz e no domínio compreendido entre 800 Hz e 1600 Hz, pelo menos nas frequências centrais das bandas terço de oitava, devendo os valores máximos ser identificados para estes dois domínios de frequência, sendo, em seguida, estes valores para todos os tarolos de ensaio ponderados de forma a obter o resultado final.
-
-###### Artigo 76.º — Medição da profundidade de textura
-
-As medições da profundidade de textura devem ser realizadas em, pelo menos, 10 posições espaçadas uniformemente ao longo das marcas de rodas do troço de ensaio, calculando-se o valor médio que será comparado com a profundidade de textura mínima especificada, conforme o anexo F do projecto de norma ISO/DIS 10844 para a descrição do processo.
-
-### CAPÍTULO IV — Estabilidade no tempo e manutenção
-
-###### Artigo 77.º — Influência do envelhecimento
-
-1 - Os níveis de ruído do contacto pneu/faixa de rodagem, medidos na superfície de ensaio, podem, eventualmente, aumentar ligeiramente nos 6 a 12 meses seguintes à construção.
-
-2 - A superfície atingirá as características exigidas, pelo menos, quatro semanas após a construção, sendo a influência do envelhecimento sobre o ruído emitido por automóveis pesados geralmente menor do que sobre o ruído emitido pelos ligeiros.
-
-3 - A estabilidade no tempo define-se essencialmente pelo polimento e pela compactação devidos aos veículos que se deslocam na superfície e deverá ser verificada periodicamente, tal como referido no artigo 71.º do presente Regulamento.
-
-###### Artigo 78.º — Manutenção da superfície
-
-1 - Os detritos espalhados ou as poeiras susceptíveis de reduzir significativamente a profundidade da textura efectiva devem ser retirados da superfície.
-
-2 - Não é recomendada a utilização que por vezes se faz do sal para, nos países de clima invernoso, retirar a neve, uma vez que pode alterar a superfície temporariamente ou mesmo permanentemente, aumentando assim o ruído.
-
-###### Artigo 79.º — Repavimentação da zona de ensaio
-
-Se for necessário reparar a pista de ensaio, geralmente não é necessário repavimentar mais do que a faixa de ensaio, com uma largura de 3 m, em que os veículos se deslocam, desde que a zona de ensaio no exterior dessa faixa satisfaça a exigência do teor em vazios residuais ou de absorção acústica na medição.
-
-### CAPÍTULO V — Documentação da superfície e dos ensaios efectuados sobre a mesma
-
-###### Artigo 80.º — Documentação da superfície de ensaio
-
-No documento que descreve a superfície de ensaio, devem constar os seguintes dados:
-
-a) Localização da pista de ensaio;
-
-b) Tipo de aglutinante, dureza do aglutinante, tipo de granulados, densidade teórica máxima do betão (DR), espessura da faixa de aplanagem e curva granulométrica definida a partir dos tarolos extraídos na pista de ensaio;
-
-c) Método de compactagem, nomeadamente tipo de rolo, volume do rolo, número de passagens;
-
-d) Temperatura da mistura, temperatura do ar ambiente e velocidade do vento durante a construção da superfície;
-
-e) Data em que a superfície foi construída e nome do empreiteiro;
-
-f) Totalidade dos resultados dos ensaios ou, no mínimo, do ensaio mais recente, compreendendo:
-
-i) Teor em vazios residuais de cada tarolo;
-
-ii) Os locais da superfície de ensaio onde foram extraídos para a medição dos vazios;
-
-iii) Coeficiente de absorção acústica de cada tarolo (se for medido), especificando os resultados para cada tarolo e para cada domínio de frequência, bem como a média geral;
-
-iv) Os locais da zona de ensaio onde foram extraídos os tarolos para medição da absorção;
-
-v) A profundidade de textura, incluindo o número de ensaios e o desvio padrão;
-
-vi) A instituição responsável pelos ensaios f1 e f3 e o tipo de material utilizado;
-
-vii) A data do ou dos ensaios e a data em que foram extraídos os tarolos da pista de ensaio.
-
-###### Artigo 81.º — Documentação dos ensaios do ruído emitido pelos veículos na superfície
-
-No documento que descreve o ou os ensaios do ruído emitido pelos veículos, será necessário referir se foram satisfeitas as exigências, em conformidade com o artigo anterior.
-
-## ANEXO I — (referente ao n.º 2 do artigo 2.º)
-
-Ficha de informações n.º... [nos termos do anexo I da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt), do Conselho (ver nota *)], relativa à homologação CE de um veículo no que diz respeito ao nível sonoro admissível e ao dispositivo de escape (Directiva n.º [70/157/CEE](https://data.europa.eu/eli/dir/1970/157/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º [1999/101/CE](https://data.europa.eu/eli/dir/1999/101/oj?locale=pt)).
-
-As informações seguintes, se aplicáveis, serão fornecidas em triplicado e incluirão um índice. Se houver desenhos, serão fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, deverão ser suficientemente pormenorizadas.
-
-Caso os sistemas, componentes ou unidades técnicas autónomas possuam funções com comando electrónico, serão fornecidas informações relativas ao respectivo desempenho.
-
-0 - Generalidades.
-
-0.1 - Marca (firma do fabricante): ...
-
-0.2 - Modelo e designação(ões) comercial(is) geral(is): ...
-
-0.3 - Meios de identificação do modelo, se marcados no veículo (b):
-
-0.3.1 - Localização dessa marcação: ...
-
-0.4 - Categoria do veículo (c): ...
-
-0.5 - Nome e morada do fabricante: ...
-
-0.8 - Morada(s) da(s) linha(s) de montagem: ...
-
-1 - Constituição geral do veículo:
-
-1.1 - Fotografia e ou desenhos de um veículo representativo: ...
-
-1.3.3 - Eixos motores (número, posição, interligação): ...
-
-1.6 - Localização e disposição do motor: ...
-
-2 - Massas e dimensões (e) (em kg e mm) (ver desenho quando aplicável):
-
-2.4 - Gama de dimensões (exteriores) do veículo:
-
-2.4.1 - Para o quadro sem carroçaria:
-
-2.4.1.1 - Comprimento (j): ...
-
-2.4.1.2 - Largura (k): ...
-
-2.4.2 - Para o quadro com carroçaria:
-
-2.4.2.1 - Comprimento (j): ...
-
-2.4.2.2 - Largura (k):...
-
-2.6 - Massa do veículo carroçado em ordem de marcha, ou massa do quadro com cabina, se o fabricante não fornecer a carroçaria (com equipamentos standard incluindo líquido de arrefecimento, lubrificantes, combustível, ferramentas, roda de reserva e condutor) (o) (máximo e mínimo): ...
-
-3 - Motor (q):
-
-3.1 - Fabricante:
-
-3.1.1 - Código do fabricante para o motor (conforme marcado no motor, ou outro meio de identificação): ...
-
-3.2 - Motor de combustão interna:
-
-3.2.1.1 - Princípio de funcionamento: ignição comandada/ignição por compressão, quatro tempos/dois tempos (ver nota 1).
-
-3.2.1.2 - Número e disposição dos cilindros:
-
-3.2.1.2.3 - Ordem de inflamação: ...
-
-3.2.1.3 - Cilindrada(s): ... cm3
-
-3.2.1.8 - Potência útil máxima (t): ... kW a... min(elevado a -1) (valor declarado pelo fabricante).
-
-3.2.4 - Alimentação de combustível:
-
-3.2.4.1 - Por meio de carburador(es): sim/não (ver nota 1).
-
-3.2.4.1.2 - Tipo(s): ...
-
-3.2.4.1.3 - Número instalado: ...
-
-3.2.4.2 - Por injecção de combustível (ignição por compressão apenas): sim/não (ver nota 1).
-
-3.2.4.2.2 - Princípio de funcionamento: injecção directa/pré-câmara/câmara de turbulência (ver nota 1).
-
-3.2.4.2.4 - Regulador:
-
-3.2.4.2.4.1 - Tipo:
-
-3.2.4.2.4.2.1 - Ponto de corte em carga: ... min(elevado a -1)
-
-3.2.4.3 - Por injecção de combustível (ignição comandada apenas): sim/não (ver nota 1).
-
-3.2.4.3.1 - Princípio de funcionamento: colector de admissão [ponto único/multiponto (ver nota 1)]/injecção directa/outro (especificar).
-
-3.2.8 - Sistema de admissão:
-
-3.2.8.4.2 - Filtro de ar, desenhos: ..., ou
-
-3.2.8.4.2.1 - Marca(s): ...
-
-3.2.8.4.2.2 - Tipo(s): ...
-
-3.2.8.4.3 - Silencioso de admissão, desenhos: ..., ou
-
-3.2.8.4.3.1 - Marca(s): ...
-
-3.2.8.4.3.2 - Tipo(s): ...
-
-3.2.9 - Sistema de escape:
-
-3.2.9.2 - Descrição e ou desenho do sistema de escape:
-
-3.2.9.4 - Silencioso(s) de escape (para o silencioso da frente, do centro, da retaguarda: construção, tipo, marcação; se for relevante para o ruído exterior: medidas de redução de ruído no compartimento do motor e no motor): ...
-
-3.2.9.5 - Localização da saída de escape: ...
-
-3.2.9.6 - Silencioso de escape com materiais fibrosos: ...
-
-3.2.1.2.2.1 - Catalisador: sim/não (ver nota 1).
-
-3.2.1.2.2.1.1 - Número de catalisadores e elementos:
-
-3.3 - Motor eléctrico:
-
-3.3.1 - Tipo (enrolamento, excitação):
-
-3.3.1.1 - Potência horária máxima: ... kW
-
-3.3.1.2 - Tensão de funcionamento: ... V
-
-3.4 - Outros motores ou suas combinações (pormenores relativos às partes de tais motores): ...
-
-4 - Transmissão:
-
-4.2 - Tipo (mecânica, hidráulica, eléctrica, etc.): ...
-
-4.6 - Relações de transmissão:
-
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)
-
-4.7 - Velocidade máxima do veículo e ralação de transmissão na qual é atingida (em Km/h) (w): ...
-
-6 - Suspensão:
-
-6.6 - Pneus e rodas:
-
-6.6.2 - Limites superior e inferior dos raios de rolamento:
-
-6.6.2.1 - Eixo 1: ...
-
-6.6.2.2 - Eixo 2: ...
-
-6.6.2.3 - Eixo 3: ...
-
-6.6.2.4 - Eixo 4: ...
-
-Etc.
-
-9 - Carroçaria (não aplicável a veículos da categoria M(índice 1)):
-
-9.1 - Tipo de carroçaria: ...
-
-9.2 - Materiais e tipo de construção: ...
-
-12 - Diversos:
-
-12.5 - Pormenores de quaisquer dispositivos não relacionados com o motor concebidos para reduzir o nível de ruído (se existirem e se não estiverem abrangidos por outros pontos): ...
-
-Informações adicionais no caso de veículos todo o terreno.
-
-1.3 - Número de eixos e rodas:
-
-2.4.1 - Para o quadro sem carroçaria:
-
-2.4.1.4.1 - Ângulo de ataque (na): ... graus.
-
-2.4.1.5.1 - Ângulo de fuga (nb): ... graus.
-
-2.4.1.6 - Altura ao solo (conforme definida no ponto 4.5.4 da parte A do anexo II da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt)):
-
-2.4.1.6.1 - Entre os eixos: ...
-
-2.4.1.6.2 - Sob o(s) eixo(s) da frente: ...
-
-2.4.1.6.3 - Sob o(s) eixos(s) da retaguarda: ...
-
-2.4.1.7 - Ângulo de rampa (nc): ... graus.
-
-2.4.2 - Para o quadro com carroçaria:
-
-2.4.2.4.1 - Ângulo de ataque (na): ... graus.
-
-2.4.2.5.1 - Ângulo de fuga (nb): ... graus.
-
-2.4.2.6 - Altura ao solo (conforme definida no ponto 4.5 da parte A do anexo II da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt)):
-
-2.4.2.6.1 - Entre os eixos: ...
-
-2.4.2.6.2 - Sob o(s) eixo(s) da frente: ...
-
-2.4.2.6.3 - Sob o(s) eixos(s) da retaguarda:
-
-2.4.2.7 - Ângulo de rampa (nc): ... graus.
-
-2.1.5 - Capacidade de arranque em subida (veículo a solo): ...%.
-
-4.9 - Bloqueio do diferencial: sim/não/opcional (ver nota 1).
-
-Data, processo.
-
-(nota *) Os números dos pontos e das notas de pé de página utilizados nesta ficha de informações correspondem aos que constam do anexo I da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt).
-
-(nota 1) Riscar o que não interessa.
-
-## ANEXO II — (referente ao n.º 2 do artigo 4.º)
-
-Modelo
-
-Ficha de homologação CE
-
-[formato máximo: A4 (210 mm x 297 mm)]
-
-[Carimbo da autoridade administrativa]
-
-Comunicação relativa à:
-
-- Homologação (ver nota 1);
-
-- Extensão da homologação (ver nota 1);
-
-- Recusa da homologação (ver nota 1);
-
-- Revogação da homologação (ver nota 1);
-
-de um modelo de veículo/componente/unidade técnica (ver nota 1) no que diz respeito à Directiva n.º .../.../CEE, com a última redacção que lhe foi dada pela Directiva n.º .../.../CE.
-
-Número de homologação: ...
-
-Razão da extensão: ...
-
-#### SECÇÃO I
-
-0 - Generalidades.
-
-0.1 - Marca (firma do fabricante): ...
-
-0.2 - Modelo/tipo e designação(ões) comercial(is) geral(is): ...
-
-0.3 - Meios de identificação do modelo/tipo, se marcados no veículo/componente/unidade técnica (ver nota 1) (ver nota 2):
-
-0.3.1 - Localização dessa marcação:
-
-0.4 - Categoria do veículo (ver nota 3): ...
-
-0.5 - Nome e morada do fabricante do veículo de base: ...
-
-0.7 - No caso de componentes e unidades técnicas, localização e método de fixação da marca de homologação CE: ...
-
-0.8 - Nome(s) e morada(s) das instalações de montagem: ...
-
-#### SECÇÃO II
-
-1 - Informações adicionais (se aplicável): v. adenda.
-
-2 - Serviço técnico responsável pela realização dos ensaios: ...
-
-3 - Data do relatório de ensaio: ...
-
-4 - Número do relatório de ensaio: ...
-
-5 - Eventuais observações: v. adenda.
-
-6 - Local: ...
-
-7 - Data: ...
-
-8 - Assinatura: ...
-
-9 - Está anexado o índice do dossier de homologação que está arquivado nas autoridades de homologação e pode ser obtido a pedido.
-
-(nota 1) Riscar o que não interessa.
-
-(nota 2) Se os meios de identificação do modelo/tipo contiverem caracteres não relevantes para a descrição dos modelos/tipos de veículo, componente ou unidade técnica abrangidos por esta ficha de informações, tais caracteres devem ser representados na documentação por meio do símbolo «?» (por exemplo: ABC??123??).
-
-(nota 3) Conforme definida na parte A do anexo II da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt).
-
-Adenda à ficha de homologação CE n.º ...
-
-Relativa à homologação de um modelo de veículo no que diz respeito à Directiva n.º [70/157/CEE](https://data.europa.eu/eli/dir/1970/157/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º [1999/101/CE](https://data.europa.eu/eli/dir/1999/101/oj?locale=pt).
-
-1 - Informações adicionais:
-
-1.1 - Se necessário, lista de veículos abrangidos pelo ponto 5.2.2.4.3.3.1.2. do anexo I:
-
-1.2 - Motor:
-
-1.2.1 - Fabricante: ...
-
-1.2.2 - Tipo: ...
-
-1.2.3 - Modelo: ...
-
-1.2.4 - Potência nominal máxima: ... kW a ... min(elevado a -1).
-
-1.3 - Transmissão: caixa não automática/automática (ver nota 1).
-
-1.4 - Equipamentos:
-
-1.4.1 - Silencioso de escape:
-
-1.4.1.1 - Fabricante: ...
-
-1.4.1.2 - Modelo: ...
-
-1.4.1.3 - Tipo: ... de acordo com o desenho n.º ...
-
-1.4.2 - Silencioso de admissão:
-
-1.4.2.1 - Fabricante: ...
-
-1.4.2.2 - Modelo: ...
-
-1.4.2.3 - Tipo: ... de acordo com o desenho n.º ...
-
-1.5 - Dimensões dos pneus:
-
-1.5.1 - Descrição do tipo de pneu utilizado para os ensaios de homologação: ...
-
-1.6 - Medições: ...
-
-1.6.1 - Nível sonoro do veículo em marcha: ...
-
-(nota 1) Riscar o que não interessa.
-
-Resultados da medição
-
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)
-
-1.6.2 - Nível sonoro do veículo imobilizado:
-
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)
-
-1.6.3 - Nível sonoro do ruído devido ao ar comprimido:
-
-Resultados da medição
-
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)
-
-5 - Observações: ...
-
-[(ver notas referentes ao quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)
-
-Do ANEXO III ao ANEXO VII
-
-[(ver anexos no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)
-
-## ANEXO VIII — (referente ao n.º 2 do artigo 44.º)
-
-Ficha de informações n.º ... relativa à homologação CE enquanto unidade técnica de dispositivos de escape para veículos (Directiva n.º [70/157/CEE](https://data.europa.eu/eli/dir/1970/157/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º [1999/101/CE](https://data.europa.eu/eli/dir/1999/101/oj?locale=pt)).
-
-As informações seguintes, se aplicáveis, serão fornecidas em triplicado e incluirão um índice. Se houver desenhos, serão fornecidos à escala adequada e com pormenor suficiente, em formato A(índice 4), ou dobrados nesse formato. Se houver fotografias, deverão ser suficientemente pormenorizadas.
-
-Caso os sistemas, componentes ou unidades técnicas autónomas possuam funções com comando electrónico, serão fornecidas informações relativas ao respectivo desempenho.
-
-0 - Generalidades:
-
-0.1 - Marca (firma do fabricante): ...
-
-0.2 - Tipo e designação(ões) comercial(is) geral(is): ...
-
-0.5 - Nome e morada do fabricante: ...
-
-0.7 - No caso de componentes e unidades técnicas, localização e método de fixação da marca de homologação CE: ...
-
-0.8 - Morada(s) da(s) linha(s) de montagem: ...
-
-1 - Descrição do veículo a que se destina o dispositivo (se o dispositivo se destinar a ser instalado em mais de um modelo de veículo, as informações pedidas neste ponto devem ser fornecidas para cada modelo envolvido):
-
-1.1 - Marca (firma do fabricante): ...
-
-1.2 - Modelo e designação(ões) comercial(is) geral(is): ...
-
-1.3 - Meios de identificação do modelo, se marcados no veículo: ...
-
-1.4 - Categoria de veículo: ...
-
-1.5 - Número de homologação CE no que diz respeito ao nível sonoro: ...
-
-1.6 - Todas as informações mencionadas nos pontos 1.1 a 1.5 da ficha de homologação ao veículo (apêndice 2 do anexo I da presente directiva): ...
-
-2 - Descrição do dispositivo:
-
-2.1 - Descrição do dispositivo de escape de substituição indicando a posição relativa de cada componente do dispositivo, juntamente com instruções de montagem: ...
-
-2.2 - Desenhos pormenorizados de cada componente, para que possa ser facilmente localizado e identificado, e referência aos materiais utilizados. Esses desenhos devem indicar o local previsto para a fixação obrigatória da marca de homologação CE: ...
-
-Data, processo.
-
-## ANEXO IX — (referente ao n.º 2 do artigo 46.º)
-
-Modelo
-
-Ficha de homologação CE
-
-[formato máximo: A4 (210 mm x 297 mm)]
-
-[Carimbo da autoridade administrativa]
-
-Comunicação relativa à:
-
-- Homologação (ver nota 1);
-
-- Extensão da homologação (ver nota 1);
-
-- Recusa da homologação (ver nota 1);
-
-- Revogação da homologação (ver nota 1);
-
-de um modelo/tipo de veículo/componente/unidade técnica (ver nota 1) no que diz respeito à Directiva n.º .../.../CEE, com a última redacção que lhe foi dada pela Directiva n.º [1999/101/CE](https://data.europa.eu/eli/dir/1999/101/oj?locale=pt).
-
-Número de homologação: ...
-
-Razão da extensão: ...
-
-#### SECÇÃO I
-
-0 - Generalidades.
-
-0.1 - Marca (firma do fabricante): ...
-
-0.2 - Modelo/tipo (ver nota 1) e designação(ões) comercial(is) geral(is): ...
-
-0.3 - Meios de identificação do modelo/tipo, se marcados no veículo - componente unidade técnica (ver nota 1) (ver nota 2):
-
-0.3.1 - Localização dessa marcação: ...
-
-0.4 - Categoria do veículo (ver nota 3): ...
-
-0.5 - Nome e morada do fabricante do veículo de base: ...
-
-0.7 - No caso de componentes e unidades técnicas, localização e método de fixação da marca de homologação CE: ...
-
-0.8 - Nome(s) e morada(s) das instalações de montagem: ...
-
-#### SECÇÃO II
-
-1 - Informações adicionais (se aplicável): v. adenda.
-
-2 - Serviço técnico responsável pela realização dos ensaios: ...
-
-3 - Data do relatório de ensaio: ...
-
-4 - Número do relatório de ensaio: ...
-
-5 - Eventuais observações: v. adenda: ...
-
-6 - Local: ...
-
-7 - Data: ...
-
-8 - Assinatura: ...
-
-9 - Está anexado o índice do dossier de homologação, que está arquivado nas autoridades de homologação e pode ser obtido a pedido.
-
-(nota 1) Riscar o que não interessa.
-
-(nota 2) Se os meios de identificação de modelo/tipo contiverem caracteres não relevantes para a descrição dos modelos/tipos de veículo, componente ou unidade técnica abrangidos por esta ficha de informações, tais caracteres devem ser representados na documentação por meio do símbolo «?» (por exemplo, ABC??123??).
-
-(nota 3) Conforme definida na parte A do anexo II da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt).
-
-Adenda à ficha de homologação CE n.º ...
-
-Relativa à homologação enquanto unidade técnica de dispositivos de escape para automóveis no que diz respeito à Directiva n.º [70/157/CEE](https://data.europa.eu/eli/dir/1970/157/oj?locale=pt) com a última redacção que lhe foi dada pela Directiva n.º [1999/101/CE](https://data.europa.eu/eli/dir/1999/101/oj?locale=pt).
-
-1 - Informações adicionais:
-
-1.1 - Composição da unidade técnica: ...
-
-1.2 - Marca de fabrico ou comercial do(s) modelo(s) de veículo(s) a motor a que se destina o dispositivo silencioso (ver nota 1): ...
-
-1.3 - Modelo(s) de veículo(s) e respectivo(s) número(s) de homologação: ...
-
-1.4 - Motor:
-
-1.4.1 - Tipo (ignição comandada, diesel): ...
-
-1.4.2 - Ciclos: 2 tempos, 4 tempos: ...
-
-1.4.3 - Cilindrada:
-
-1.4.4 - Potência máxima do motor: ... kW a ... min(elevado a -1)
-
-1.5 - Número de velocidades: ...
-
-1.6 - Relações de transmissão utilizadas: ...
-
-1.7 - Relação(ões) do eixo motor: ...
-
-1.8 - Valores do nível sonoro:
-
-- Veículo em marcha: ... dB (A), velocidade estabilizada antes da aceleração a. ... km/h;
-
-- Veículo imobilizado: ... dB (A) a ... min(elevado a -1)
-
-1.9 - Variação da perda de carga: ...
-
-1.10 - Eventuais restrições à utilização e prescrições de montagem: ...
-
-5 - Observações: ...
-
-(nota 1) Se forem indicados vários modelos, preencher os pontos 13 a 1.10, inclusive, para cada um deles.
-
-Do ANEXO X ao ANEXO XIV
-
-[(ver anexos no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)
+a) A fracção de areia (0,063 mmb) A base e a sub-base devem assegurar uma boa estabilidade e uma boa uniformidade, em conformidade com as melhores práticas de construção rodoviária; c) A gravilha deve ser triturada (100% de faces trituradas) e ser constituída por um material que ofereça uma resistência elevada à trituração; d) A gravilha utilizada na mistura deve ser lavada; e) Não pode ser acrescentada sobre a superfície qualquer gravilha suplementar; f) A dureza do aglutinante expressa em valores PEN deve ser de 40-60, 60-80 ou de 80-100, consoante as condições climáticas do país em causa, devendo ser utilizado um aglutinante o mais duro possível, desde que seja conforme à prática habitual; g) A temperatura da mistura antes da aplanagem deve ser escolhida de modo a realizar o teor em vazios exigido por aplanagem posterior. 5 - Para aumentar a probabilidade de conformidade com as especificações dos artigos 67.º a 70.º, a compacidade deve ser estudada não apenas pela escolha adequada da temperatura da mistura, mas também por um número adequado de passagens a pela escolha do veículo de compactagem. CAPÍTULO III Métodos de ensaio Artigo 74.º Medição do teor em vazios residuais 1 - Para efeitos da presente medição, devem ser extraídos da pista tarolos em, pelo menos, quatro posições diferentes, distribuídas pela superfície de ensaio entre as linhas AA e BB, de acordo com o anexo XII e, para evitar a falta de homogeneidade e de uniformidade das marcas das rodas, os tarolos não deverão ser extraídos nas marcas das rodas propriamente ditas, mas perto destas e deverão extrair-se, no mínimo, dois tarolos perto das marcas das rodas e um tarolo, no mínimo, a meio caminho, mais ou menos, entre as marcas de rodas e cada posição dos microfones. 2 - Se se suspeitar que não se encontra satisfeita a condição de homogeneidade, os tarolos serão extraídos num maior número de locais da superfície de ensaio. 3 - O teor em vazios residuais deve ser determinado para cada tarolo e, em seguida, calcular-se-á o valor médio para os tarolos e comparar-se-á este valor à exigência do artigo 67.º, não devendo nenhum tarolo ter um valor em vazios superior a 10%. 4 - Quando a superfície de ensaio for aquecida por tubos ou fios eléctricos e os tarolos tiverem de ser extraídos nessa superfície, o construtor deve assegurar que as instalações serão cuidadosamente programadas em relação com a extracção posterior de novos tarolos, devendo, por isso, deixar alguns locais com uma dimensão de cerca de 200 mm x 300 mm sem fios nem tubos ou colocar estes a uma profundidade suficiente, de modo a não os danificar aquando da extracção de tarolos na camada superficial. Artigo 75.º Coeficiente de absorção acústica 1 - O coeficiente de absorção acústica (incidência normal) deve ser medido pelo método do tubo de impedância utilizado pelo processo especificado no ISO/DIS 10534, «Acústica - Determinação do factor de absorção acústica a da impedância acústica pelo método do tubo». 2 - No que se refere às provetas, devem ser respeitadas as mesmas exigências no que se refere ao teor em vazios residuais, nos termos do artigo anterior. 3 - A absorção acústica deve ser medida no domínio compreendido entre 400 Hz e 800 Hz e no domínio compreendido entre 800 Hz e 1600 Hz, pelo menos nas frequências centrais das bandas terço de oitava, devendo os valores máximos ser identificados para estes dois domínios de frequência, sendo, em seguida, estes valores para todos os tarolos de ensaio ponderados de forma a obter o resultado final. Artigo 76.º Medição da profundidade de textura As medições da profundidade de textura devem ser realizadas em, pelo menos, 10 posições espaçadas uniformemente ao longo das marcas de rodas do troço de ensaio, calculando-se o valor médio que será comparado com a profundidade de textura mínima especificada, conforme o anexo F do projecto de norma ISO/DIS 10844 para a descrição do processo. CAPÍTULO IV Estabilidade no tempo e manutenção Artigo 77.º Influência do envelhecimento 1 - Os níveis de ruído do contacto pneu/faixa de rodagem, medidos na superfície de ensaio, podem, eventualmente, aumentar ligeiramente nos 6 a 12 meses seguintes à construção. 2 - A superfície atingirá as características exigidas, pelo menos, quatro semanas após a construção, sendo a influência do envelhecimento sobre o ruído emitido por automóveis pesados geralmente menor do que sobre o ruído emitido pelos ligeiros. 3 - A estabilidade no tempo define-se essencialmente pelo polimento e pela compactação devidos aos veículos que se deslocam na superfície e deverá ser verificada periodicamente, tal como referido no artigo 71.º do presente Regulamento. Artigo 78.º Manutenção da superfície 1 - Os detritos espalhados ou as poeiras susceptíveis de reduzir significativamente a profundidade da textura efectiva devem ser retirados da superfície. 2 - Não é recomendada a utilização que por vezes se faz do sal para, nos países de clima invernoso, retirar a neve, uma vez que pode alterar a superfície temporariamente ou mesmo permanentemente, aumentando assim o ruído. Artigo 79.º Repavimentação da zona de ensaio Se for necessário reparar a pista de ensaio, geralmente não é necessário repavimentar mais do que a faixa de ensaio, com uma largura de 3 m, em que os veículos se deslocam, desde que a zona de ensaio no exterior dessa faixa satisfaça a exigência do teor em vazios residuais ou de absorção acústica na medição. CAPÍTULO V Documentação da superfície e dos ensaios efectuados sobre a mesma Artigo 80.º Documentação da superfície de ensaio No documento que descreve a superfície de ensaio, devem constar os seguintes dados: a) Localização da pista de ensaio; b) Tipo de aglutinante, dureza do aglutinante, tipo de granulados, densidade teórica máxima do betão (DR), espessura da faixa de aplanagem e curva granulométrica definida a partir dos tarolos extraídos na pista de ensaio; c) Método de compactagem, nomeadamente tipo de rolo, volume do rolo, número de passagens; d) Temperatura da mistura, temperatura do ar ambiente e velocidade do vento durante a construção da superfície; e) Data em que a superfície foi construída e nome do empreiteiro; f) Totalidade dos resultados dos ensaios ou, no mínimo, do ensaio mais recente, compreendendo: i) Teor em vazios residuais de cada tarolo; ii) Os locais da superfície de ensaio onde foram extraídos para a medição dos vazios; iii) Coeficiente de absorção acústica de cada tarolo (se for medido), especificando os resultados para cada tarolo e para cada domínio de frequência, bem como a média geral; iv) Os locais da zona de ensaio onde foram extraídos os tarolos para medição da absorção; v) A profundidade de textura, incluindo o número de ensaios e o desvio padrão; vi) A instituição responsável pelos ensaios f1 e f3 e o tipo de material utilizado; vii) A data do ou dos ensaios e a data em que foram extraídos os tarolos da pista de ensaio. Artigo 81.º Documentação dos ensaios do ruído emitido pelos veículos na superfície No documento que descreve o ou os ensaios do ruído emitido pelos veículos, será necessário referir se foram satisfeitas as exigências, em conformidade com o artigo anterior. ANEXO I (referente ao n.º 2 do artigo 2.º) Ficha de informações n.º... [nos termos do anexo I da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt), do Conselho (ver nota *)], relativa à homologação CE de um veículo no que diz respeito ao nível sonoro admissível e ao dispositivo de escape (Directiva n.º [70/157/CEE](https://data.europa.eu/eli/dir/1970/157/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º [1999/101/CE](https://data.europa.eu/eli/dir/1999/101/oj?locale=pt)). As informações seguintes, se aplicáveis, serão fornecidas em triplicado e incluirão um índice. Se houver desenhos, serão fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, deverão ser suficientemente pormenorizadas. Caso os sistemas, componentes ou unidades técnicas autónomas possuam funções com comando electrónico, serão fornecidas informações relativas ao respectivo desempenho. 0 - Generalidades. 0.1 - Marca (firma do fabricante): ... 0.2 - Modelo e designação(ões) comercial(is) geral(is): ... 0.3 - Meios de identificação do modelo, se marcados no veículo (b): 0.3.1 - Localização dessa marcação: ... 0.4 - Categoria do veículo (c): ... 0.5 - Nome e morada do fabricante: ... 0.8 - Morada(s) da(s) linha(s) de montagem: ... 1 - Constituição geral do veículo: 1.1 - Fotografia e ou desenhos de um veículo representativo: ... 1.3.3 - Eixos motores (número, posição, interligação): ... 1.6 - Localização e disposição do motor: ... 2 - Massas e dimensões (e) (em kg e mm) (ver desenho quando aplicável): 2.4 - Gama de dimensões (exteriores) do veículo: 2.4.1 - Para o quadro sem carroçaria: 2.4.1.1 - Comprimento (j): ... 2.4.1.2 - Largura (k): ... 2.4.2 - Para o quadro com carroçaria: 2.4.2.1 - Comprimento (j): ... 2.4.2.2 - Largura (k):... 2.6 - Massa do veículo carroçado em ordem de marcha, ou massa do quadro com cabina, se o fabricante não fornecer a carroçaria (com equipamentos standard incluindo líquido de arrefecimento, lubrificantes, combustível, ferramentas, roda de reserva e condutor) (o) (máximo e mínimo): ... 3 - Motor (q): 3.1 - Fabricante: 3.1.1 - Código do fabricante para o motor (conforme marcado no motor, ou outro meio de identificação): ... 3.2 - Motor de combustão interna: 3.2.1.1 - Princípio de funcionamento: ignição comandada/ignição por compressão, quatro tempos/dois tempos (ver nota 1). 3.2.1.2 - Número e disposição dos cilindros: 3.2.1.2.3 - Ordem de inflamação: ... 3.2.1.3 - Cilindrada(s): ... cm3 3.2.1.8 - Potência útil máxima (t): ... kW a... min(elevado a -1) (valor declarado pelo fabricante). 3.2.4 - Alimentação de combustível: 3.2.4.1 - Por meio de carburador(es): sim/não (ver nota 1). 3.2.4.1.2 - Tipo(s): ... 3.2.4.1.3 - Número instalado: ... 3.2.4.2 - Por injecção de combustível (ignição por compressão apenas): sim/não (ver nota 1). 3.2.4.2.2 - Princípio de funcionamento: injecção directa/pré-câmara/câmara de turbulência (ver nota 1). 3.2.4.2.4 - Regulador: 3.2.4.2.4.1 - Tipo: 3.2.4.2.4.2.1 - Ponto de corte em carga: ... min(elevado a -1) 3.2.4.3 - Por injecção de combustível (ignição comandada apenas): sim/não (ver nota 1). 3.2.4.3.1 - Princípio de funcionamento: colector de admissão [ponto único/multiponto (ver nota 1)]/injecção directa/outro (especificar). 3.2.8 - Sistema de admissão: 3.2.8.4.2 - Filtro de ar, desenhos: ..., ou 3.2.8.4.2.1 - Marca(s): ... 3.2.8.4.2.2 - Tipo(s): ... 3.2.8.4.3 - Silencioso de admissão, desenhos: ..., ou 3.2.8.4.3.1 - Marca(s): ... 3.2.8.4.3.2 - Tipo(s): ... 3.2.9 - Sistema de escape: 3.2.9.2 - Descrição e ou desenho do sistema de escape: 3.2.9.4 - Silencioso(s) de escape (para o silencioso da frente, do centro, da retaguarda: construção, tipo, marcação; se for relevante para o ruído exterior: medidas de redução de ruído no compartimento do motor e no motor): ... 3.2.9.5 - Localização da saída de escape: ... 3.2.9.6 - Silencioso de escape com materiais fibrosos: ... 3.2.1.2.2.1 - Catalisador: sim/não (ver nota 1). 3.2.1.2.2.1.1 - Número de catalisadores e elementos: 3.3 - Motor eléctrico: 3.3.1 - Tipo (enrolamento, excitação): 3.3.1.1 - Potência horária máxima: ... kW 3.3.1.2 - Tensão de funcionamento: ... V 3.4 - Outros motores ou suas combinações (pormenores relativos às partes de tais motores): ... 4 - Transmissão: 4.2 - Tipo (mecânica, hidráulica, eléctrica, etc.): ... 4.6 - Relações de transmissão: [[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf) 4.7 - Velocidade máxima do veículo e ralação de transmissão na qual é atingida (em Km/h) (w): ... 6 - Suspensão: 6.6 - Pneus e rodas: 6.6.2 - Limites superior e inferior dos raios de rolamento: 6.6.2.1 - Eixo 1: ... 6.6.2.2 - Eixo 2: ... 6.6.2.3 - Eixo 3: ... 6.6.2.4 - Eixo 4: ... Etc. 9 - Carroçaria (não aplicável a veículos da categoria M(índice 1)): 9.1 - Tipo de carroçaria: ... 9.2 - Materiais e tipo de construção: ... 12 - Diversos: 12.5 - Pormenores de quaisquer dispositivos não relacionados com o motor concebidos para reduzir o nível de ruído (se existirem e se não estiverem abrangidos por outros pontos): ... Informações adicionais no caso de veículos todo o terreno. 1.3 - Número de eixos e rodas: 2.4.1 - Para o quadro sem carroçaria: 2.4.1.4.1 - Ângulo de ataque (na): ... graus. 2.4.1.5.1 - Ângulo de fuga (nb): ... graus. 2.4.1.6 - Altura ao solo (conforme definida no ponto 4.5.4 da parte A do anexo II da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt)): 2.4.1.6.1 - Entre os eixos: ... 2.4.1.6.2 - Sob o(s) eixo(s) da frente: ... 2.4.1.6.3 - Sob o(s) eixos(s) da retaguarda: ... 2.4.1.7 - Ângulo de rampa (nc): ... graus. 2.4.2 - Para o quadro com carroçaria: 2.4.2.4.1 - Ângulo de ataque (na): ... graus. 2.4.2.5.1 - Ângulo de fuga (nb): ... graus. 2.4.2.6 - Altura ao solo (conforme definida no ponto 4.5 da parte A do anexo II da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt)): 2.4.2.6.1 - Entre os eixos: ... 2.4.2.6.2 - Sob o(s) eixo(s) da frente: ... 2.4.2.6.3 - Sob o(s) eixos(s) da retaguarda: 2.4.2.7 - Ângulo de rampa (nc): ... graus. 2.1.5 - Capacidade de arranque em subida (veículo a solo): ...%. 4.9 - Bloqueio do diferencial: sim/não/opcional (ver nota 1). Data, processo. (nota *) Os números dos pontos e das notas de pé de página utilizados nesta ficha de informações correspondem aos que constam do anexo I da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt). (nota 1) Riscar o que não interessa. ANEXO II (referente ao n.º 2 do artigo 4.º) Modelo Ficha de homologação CE [formato máximo: A4 (210 mm x 297 mm)] [Carimbo da autoridade administrativa] Comunicação relativa à: - Homologação (ver nota 1); - Extensão da homologação (ver nota 1); - Recusa da homologação (ver nota 1); - Revogação da homologação (ver nota 1); de um modelo de veículo/componente/unidade técnica (ver nota 1) no que diz respeito à Directiva n.º .../.../CEE, com a última redacção que lhe foi dada pela Directiva n.º .../.../CE. Número de homologação: ... Razão da extensão: ... SECÇÃO I 0 - Generalidades. 0.1 - Marca (firma do fabricante): ... 0.2 - Modelo/tipo e designação(ões) comercial(is) geral(is): ... 0.3 - Meios de identificação do modelo/tipo, se marcados no veículo/componente/unidade técnica (ver nota 1) (ver nota 2): 0.3.1 - Localização dessa marcação: 0.4 - Categoria do veículo (ver nota 3): ... 0.5 - Nome e morada do fabricante do veículo de base: ... 0.7 - No caso de componentes e unidades técnicas, localização e método de fixação da marca de homologação CE: ... 0.8 - Nome(s) e morada(s) das instalações de montagem: ... SECÇÃO II 1 - Informações adicionais (se aplicável): v. adenda. 2 - Serviço técnico responsável pela realização dos ensaios: ... 3 - Data do relatório de ensaio: ... 4 - Número do relatório de ensaio: ... 5 - Eventuais observações: v. adenda. 6 - Local: ... 7 - Data: ... 8 - Assinatura: ... 9 - Está anexado o índice do dossier de homologação que está arquivado nas autoridades de homologação e pode ser obtido a pedido. (nota 1) Riscar o que não interessa. (nota 2) Se os meios de identificação do modelo/tipo contiverem caracteres não relevantes para a descrição dos modelos/tipos de veículo, componente ou unidade técnica abrangidos por esta ficha de informações, tais caracteres devem ser representados na documentação por meio do símbolo «?» (por exemplo: ABC??123??). (nota 3) Conforme definida na parte A do anexo II da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt). Adenda à ficha de homologação CE n.º ... Relativa à homologação de um modelo de veículo no que diz respeito à Directiva n.º [70/157/CEE](https://data.europa.eu/eli/dir/1970/157/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º [1999/101/CE](https://data.europa.eu/eli/dir/1999/101/oj?locale=pt). 1 - Informações adicionais: 1.1 - Se necessário, lista de veículos abrangidos pelo ponto 5.2.2.4.3.3.1.2. do anexo I: 1.2 - Motor: 1.2.1 - Fabricante: ... 1.2.2 - Tipo: ... 1.2.3 - Modelo: ... 1.2.4 - Potência nominal máxima: ... kW a ... min(elevado a -1). 1.3 - Transmissão: caixa não automática/automática (ver nota 1). 1.4 - Equipamentos: 1.4.1 - Silencioso de escape: 1.4.1.1 - Fabricante: ... 1.4.1.2 - Modelo: ... 1.4.1.3 - Tipo: ... de acordo com o desenho n.º ... 1.4.2 - Silencioso de admissão: 1.4.2.1 - Fabricante: ... 1.4.2.2 - Modelo: ... 1.4.2.3 - Tipo: ... de acordo com o desenho n.º ... 1.5 - Dimensões dos pneus: 1.5.1 - Descrição do tipo de pneu utilizado para os ensaios de homologação: ... 1.6 - Medições: ... 1.6.1 - Nível sonoro do veículo em marcha: ... (nota 1) Riscar o que não interessa. Resultados da medição [[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf) 1.6.2 - Nível sonoro do veículo imobilizado: [[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf) 1.6.3 - Nível sonoro do ruído devido ao ar comprimido: Resultados da medição [[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf) 5 - Observações: ... [(ver notas referentes ao quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf) Do ANEXO III ao ANEXO VII [[(ver anexos no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf) ANEXO VIII (referente ao n.º 2 do artigo 44.º) Ficha de informações n.º ... relativa à homologação CE enquanto unidade técnica de dispositivos de escape para veículos (Directiva n.º [70/157/CEE](https://data.europa.eu/eli/dir/1970/157/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º [1999/101/CE](https://data.europa.eu/eli/dir/1999/101/oj?locale=pt)). As informações seguintes, se aplicáveis, serão fornecidas em triplicado e incluirão um índice. Se houver desenhos, serão fornecidos à escala adequada e com pormenor suficiente, em formato A(índice 4), ou dobrados nesse formato. Se houver fotografias, deverão ser suficientemente pormenorizadas. Caso os sistemas, componentes ou unidades técnicas autónomas possuam funções com comando electrónico, serão fornecidas informações relativas ao respectivo desempenho. 0 - Generalidades: 0.1 - Marca (firma do fabricante): ... 0.2 - Tipo e designação(ões) comercial(is) geral(is): ... 0.5 - Nome e morada do fabricante: ... 0.7 - No caso de componentes e unidades técnicas, localização e método de fixação da marca de homologação CE: ... 0.8 - Morada(s) da(s) linha(s) de montagem: ... 1 - Descrição do veículo a que se destina o dispositivo (se o dispositivo se destinar a ser instalado em mais de um modelo de veículo, as informações pedidas neste ponto devem ser fornecidas para cada modelo envolvido): 1.1 - Marca (firma do fabricante): ... 1.2 - Modelo e designação(ões) comercial(is) geral(is): ... 1.3 - Meios de identificação do modelo, se marcados no veículo: ... 1.4 - Categoria de veículo: ... 1.5 - Número de homologação CE no que diz respeito ao nível sonoro: ... 1.6 - Todas as informações mencionadas nos pontos 1.1 a 1.5 da ficha de homologação ao veículo (apêndice 2 do anexo I da presente directiva): ... 2 - Descrição do dispositivo: 2.1 - Descrição do dispositivo de escape de substituição indicando a posição relativa de cada componente do dispositivo, juntamente com instruções de montagem: ... 2.2 - Desenhos pormenorizados de cada componente, para que possa ser facilmente localizado e identificado, e referência aos materiais utilizados. Esses desenhos devem indicar o local previsto para a fixação obrigatória da marca de homologação CE: ... Data, processo. ANEXO IX (referente ao n.º 2 do artigo 46.º) Modelo Ficha de homologação CE [formato máximo: A4 (210 mm x 297 mm)] [Carimbo da autoridade administrativa] Comunicação relativa à: - Homologação (ver nota 1); - Extensão da homologação (ver nota 1); - Recusa da homologação (ver nota 1); - Revogação da homologação (ver nota 1); de um modelo/tipo de veículo/componente/unidade técnica (ver nota 1) no que diz respeito à Directiva n.º .../.../CEE, com a última redacção que lhe foi dada pela Directiva n.º [1999/101/CE](https://data.europa.eu/eli/dir/1999/101/oj?locale=pt). Número de homologação: ... Razão da extensão: ... SECÇÃO I 0 - Generalidades. 0.1 - Marca (firma do fabricante): ... 0.2 - Modelo/tipo (ver nota 1) e designação(ões) comercial(is) geral(is): ... 0.3 - Meios de identificação do modelo/tipo, se marcados no veículo - componente unidade técnica (ver nota 1) (ver nota 2): 0.3.1 - Localização dessa marcação: ... 0.4 - Categoria do veículo (ver nota 3): ... 0.5 - Nome e morada do fabricante do veículo de base: ... 0.7 - No caso de componentes e unidades técnicas, localização e método de fixação da marca de homologação CE: ... 0.8 - Nome(s) e morada(s) das instalações de montagem: ... SECÇÃO II 1 - Informações adicionais (se aplicável): v. adenda. 2 - Serviço técnico responsável pela realização dos ensaios: ... 3 - Data do relatório de ensaio: ... 4 - Número do relatório de ensaio: ... 5 - Eventuais observações: v. adenda: ... 6 - Local: ... 7 - Data: ... 8 - Assinatura: ... 9 - Está anexado o índice do dossier de homologação, que está arquivado nas autoridades de homologação e pode ser obtido a pedido. (nota 1) Riscar o que não interessa. (nota 2) Se os meios de identificação de modelo/tipo contiverem caracteres não relevantes para a descrição dos modelos/tipos de veículo, componente ou unidade técnica abrangidos por esta ficha de informações, tais caracteres devem ser representados na documentação por meio do símbolo «?» (por exemplo, ABC??123??). (nota 3) Conforme definida na parte A do anexo II da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt). Adenda à ficha de homologação CE n.º ... Relativa à homologação enquanto unidade técnica de dispositivos de escape para automóveis no que diz respeito à Directiva n.º [70/157/CEE](https://data.europa.eu/eli/dir/1970/157/oj?locale=pt) com a última redacção que lhe foi dada pela Directiva n.º [1999/101/CE](https://data.europa.eu/eli/dir/1999/101/oj?locale=pt). 1 - Informações adicionais: 1.1 - Composição da unidade técnica: ... 1.2 - Marca de fabrico ou comercial do(s) modelo(s) de veículo(s) a motor a que se destina o dispositivo silencioso (ver nota 1): ... 1.3 - Modelo(s) de veículo(s) e respectivo(s) número(s) de homologação: ... 1.4 - Motor: 1.4.1 - Tipo (ignição comandada, diesel): ... 1.4.2 - Ciclos: 2 tempos, 4 tempos: ... 1.4.3 - Cilindrada: 1.4.4 - Potência máxima do motor: ... kW a ... min(elevado a -1) 1.5 - Número de velocidades: ... 1.6 - Relações de transmissão utilizadas: ... 1.7 - Relação(ões) do eixo motor: ... 1.8 - Valores do nível sonoro: - Veículo em marcha: ... dB (A), velocidade estabilizada antes da aceleração a. ... km/h; - Veículo imobilizado: ... dB (A) a ... min(elevado a -1) 1.9 - Variação da perda de carga: ... 1.10 - Eventuais restrições à utilização e prescrições de montagem: ... 5 - Observações: ... (nota 1) Se forem indicados vários modelos, preencher os pontos 13 a 1.10, inclusive, para cada um deles. Do ANEXO X ao ANEXO XIV [[(ver anexos no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07940815.pdf)

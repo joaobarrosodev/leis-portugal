@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/686-1970-154582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fca4e614a7e13ae72f16c64802b3ccfc310be187a11fe82b61968a0f83e1a0d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1385d29b23f87d1d11b3b426003c069dec9f3567ae9729e52f3544d841a5ed3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CABO Verde.Colónia Portuguesa
+- Crédito Especial
+- Ministério das Finanças
+- Ministério do Ultramar
+- Orçamento
+- Subsídio não Reembolsável
+relationships:
+- type: cites
+  target: pt:dre:139403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:55Z'
   warnings: []
   errors: []
 ---
@@ -87,6 +101,6 @@ de 31 de Dezembro
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, abrir um crédito especial de 10000000$00, a adicionar à tabela de despesa extraordinária do orçamento geral da província de Cabo Verde para o ano económico de 1970, destinado a ocorrer aos encargos com o apoio às populações afectadas pela estiagem, incluindo a realização de trabalhos públicos, tomando como contrapartida o Subsídio extraordinário, não reembolsável, concedido nos termos do [Decreto-Lei n.º 391/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1970-139403), de 19 de Agosto.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.

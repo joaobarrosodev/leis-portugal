@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/53/2002/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/53-2002-425481
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T04:42:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61c5f004782a942081880e91573bfe4a28cdc0086c4dbb0c5c1317b9bf39c594
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27bb6eed14d4cf49a9b46c4d003f227e442b5f5e88d01e57930707ee33492101
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:42:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Embaixador
+- Índia
 - Nomeação
 - Nova Delhi
-- Índia
 relationships:
 - type: amended_by
   target: pt:dre:552486:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:552486:por
+  label: "Exonerado o ministro plenipotenciário de 1.ª classe Joaquim José Lemos Ferreira Marques do cargo de Embaixador de\
+    \ Portugal em Nova Delhi, nomeado pelo presente diploma, pelo DEC.125/2006.19.12.2006.PR, DR.IS [242] de 19.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/125-2006-552486
+  date: '2006-12-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:42:39Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +99,16 @@ validation:
 
 de 8 de Novembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o ministro plenipotenciário de 2.ª classe Joaquim José Lemos Ferreira Marques para o cargo de embaixador de Portugal em Nova Delhi.
 
-**Assinado em 17 de Outubro de 2002.**
+Assinado em 17 de Outubro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Outubro de 2002.**
+Referendado em 23 de Outubro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso. - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Manuel de Mendonça Martins da Cruz.**
+O Primeiro-Ministro, José Manuel Durão Barroso. - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Manuel de Mendonça Martins da Cruz.

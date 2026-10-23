@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/04/06800/0115301156.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/30/2010/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2010-612397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13ed312ac66aafb394506c194ec3e4041195eddc2290c843ef88bf41b2c89d3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8484c2ad4690634810c1a365de87e7214b730dba553bfa65a1a22d1eded8709
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
-- Registo Português de Licenças de Emissão
-- Efeito de Estufa
-- Licença de Emissão
 - Aproximação das Legislações
-- Poluição Atmosférica
-- Fiscalização
+- Atividade Industrial
 - Direção Geral de Energia e Geologia
+- Efeito de Estufa
+- Fiscalização
+- Licença de Emissão
 - Licenciamento
-- Proteção do Ambiente
 - Poluição
+- Poluição Atmosférica
+- Proteção do Ambiente
+- Registo Português de Licenças de Emissão
 relationships:
 - type: amended_by
   target: pt:dre:259892:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:191285:por
+  label: "Alterado o art. 1º do Dec Lei 233/2004, de 14-dez, na redação do presente diploma, pelo DEC LEI.252/2012.26.11.2012.MAMAOT,\
+    \ DR.IS [228] de 26.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/252-2012-191285
+  date: '2012-11-26'
 - type: cites
   target: celex:31996L0061
   label: null
@@ -119,16 +125,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/233/2004/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/233/2004/12/14/p/dre
+- type: repealed_by
+  target: pt:dre:259892:por
+  label: "Revogado, a partir de 16.03.2013, ( sem prejuízo do disposto no art. 35.º do presente Dec Lei 38/2013 de 15-mar,\
+    \ que mantém em vigor até 30.06.2013 ou até à conclusão de todos os procedimentos relativos ao período 2008-2012, consoante\
+    \ o que ocorrer primeiro, as disposições relativas à monitorização e reporte anual de emissões, à devolução de licenças\
+    \ de emissão e aos procedimentos ao nível do Registo de Licenças de Emissão), o Dec Lei 233/2004, de 14-dez, na redação\
+    \ do presente diploma, pelo DEC LEI.38/2013.15.03.2013.MAMAOT, DR.IS [53] de 15.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2013-259892
+  date: '2013-03-15'
 article_structure:
-  article_count: 8
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:47Z'
   warnings: []
   errors: []
 ---
@@ -175,13 +190,17 @@ Os artigos 1.º, 3.º, 4.º, 22.º, 23.º e 26.º do Decreto-Lei n.º 233/2004, 
 
 O presente decreto-lei transpõe para a ordem jurídica nacional a Directiva n.º [2003/87/CE](https://data.europa.eu/eli/dir/2003/87/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de Outubro, relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade e que altera a Directiva n.º [96/61/CE](https://data.europa.eu/eli/dir/1996/61/oj?locale=pt), do Conselho, alterada pela Directiva n.º [2004/101/CE](https://data.europa.eu/eli/dir/2004/101/oj?locale=pt), do Parlamento Europeu e do Conselho, de 27 de Outubro, no que diz respeito aos mecanismos baseados em projectos do Protocolo de Quioto, bem como os n.os 10 e 13 do artigo 1.º da Directiva n.º [2009/29/CE](https://data.europa.eu/eli/dir/2009/29/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de Abril.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Sem prejuízo do disposto no regime jurídico da prevenção e controlo integrados da poluição, aprovado pelo Decreto-Lei n.º 173/2008, de 26 de Agosto, o presente decreto-lei aplica-se às emissões provenientes das actividades constantes dos anexos i e vi do presente decreto-lei, do qual fazem parte integrante, e aos gases com efeito de estufa identificados nos referidos anexos.
 
 2 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -217,7 +236,9 @@ o) Preparar, publicar e apresentar à Comissão Europeia, até 30 de Setembro de
 
 3 - As decisões adoptadas ao abrigo das alíneas d), f), j) e o) do n.º 1 carecem de parecer da Direcção-Geral de Energia e Geologia (DGEG).
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Os operadores de instalações que desenvolvam qualquer actividade constante do anexo i e de que resultem emissões de gases com efeito de estufa monitorizam e comunicam as respectivas emissões de acordo com as orientações gerais e as orientações específicas para cada actividade fixadas em conformidade com a Decisão da Comissão n.º [2007/589/CE](https://data.europa.eu/eli/dec/2007/589/oj?locale=pt), de 18 de Julho, alterada pela Decisão da Comissão n.º [2009/73/CE](https://data.europa.eu/eli/dec/2009/73/oj?locale=pt), de 17 de Dezembro de 2008.
 
@@ -225,7 +246,9 @@ o) Preparar, publicar e apresentar à Comissão Europeia, até 30 de Setembro de
 
 3 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - O relatório de emissões da instalação apresentado pelo operador, nos termos do n.º 3 do artigo 22.º, é verificado por verificadores independentes, em conformidade com os critérios estabelecidos no anexo v e nos termos do Regulamento (CE) n.º [2216/2004](https://data.europa.eu/eli/reg/2004/2216/oj?locale=pt), de 21 de Dezembro, que acedem ao Registo Português de Licenças de Emissão e introduzem directamente os dados nos termos do regulamento referido.
 
@@ -241,7 +264,9 @@ o) Preparar, publicar e apresentar à Comissão Europeia, até 30 de Setembro de
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -289,15 +314,15 @@ Dever de informação das instalações abrangidas a partir de 1 de Janeiro de 2
 
 Visto e aprovado em Conselho de Ministros de 18 de Fevereiro de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - Dulce dos Prazeres Fidalgo Álvaro Pássaro.
 
-**Promulgado em 29 de Março de 2010.**
+Promulgado em 29 de Março de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de Março de 2010.**
+Referendado em 30 de Março de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -305,7 +330,7 @@ Visto e aprovado em Conselho de Ministros de 18 de Fevereiro de 2010. - José S�
 
 (a que se refere o n.º 1 do artigo 22.º-A)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/06800/0115301156.pdf))](https://files.diariodarepublica.pt/1s/2010/04/06800/0115301156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/06800/0115301156.pdf)
 
 1 - Os limiares de abrangência mencionados no quadro anterior referem-se, de um modo geral, a capacidades de produção ou a produtos.
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 66/1998, 2º Suplemento, Série I-A de 1998-03-19
   number: '66'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1234-(4) a 1234-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/066a02/00040004.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/13-b/1998/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/13-b-1998-272651
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T04:27:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13646748f9ea9edcdf4488f7e7bac45eadd115f0eab385b81e9f339db73dd953
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 914b11554c0f54f0d18083624f3c2af3053e6d5595d93a0a38ead6e5206b1c58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:27:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,13 +73,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:27:16Z'
   warnings: []
   errors: []
 ---
@@ -88,16 +88,16 @@ validation:
 
 de 19 de Março
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Primeiro-Ministro, o Dr. João Carlos da Costa Ferreira da Silva para o cargo de Secretário de Estado do Orçamento.
 
-**Assinado em 18 de Março de 1998.**
+Assinado em 18 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Março de 1998.**
+Referendado em 19 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

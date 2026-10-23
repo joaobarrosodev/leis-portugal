@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/16000/28542855.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/27-1988-372422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b30d0f4b843a30c2492c99da95e3af197f249a117d1a3e8674efacc0f6a2144
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00d7259c8d1b0d00629d51a038f75b2b4db108d4e105db29069be3a2fe484e6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Secretaria de Estado da Cultura
+- Serviço Regional
 relationships:
 - type: amended_by
   target: pt:dre:520445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:616855:por
+  label: "Alterado o art. 1º, nº 1, na a redacção dada ao DR 18/80 de 23-Mai, pelo DR.25/91.1991.05.06.PCM, DR.IS-B [103],\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/25-1991-616855
+  date: '1991-05-06'
+- type: amended_by
+  target: pt:dre:181986:por
+  label: "Alterados art.s 4º, 5º e n.º 1 do art. 10.º-A do DR 18/80, de 23-Maio, na redacção do presente diploma, pelo DR.12/92.01.06.1992.PCM,\
+    \ DR.IS-B [126-2ºSupl] de 01.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-1992-181986
+  date: '1992-06-01'
+- type: amended_by
+  target: pt:dre:410289:por
+  label: "Mantido em vigor o Decreto Regulamentar n.º 18/80, de 23 de Maio, na redacção dada pelo presente diploma, pelo DEC\
+    \ LEI.106-H/92.01.06.1992.PCM, DR.IS-A [126]Supl de 01.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-h-1992-410289
+  date: '1992-06-01'
+- type: amended_by
+  target: pt:dre:524411:por
+  label: "Alterado os arts. 5º, 10º-A e 12º do DR 18/80 de 23-Mai, na redacção dada pelos DR 12/92 de 01-Jun e 3/94 de 09-Fev\
+    \ e pelo presente diploma, pelo DR.12/98.1998.05.19.MC DR.IS-B [115] de 19/Mai/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-1998-524411
+  date: '1998-05-19'
+- type: cites
+  target: pt:dre:474150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520445:por
+  label: "Revogado, a partir de 01.04.2007 pelo DR.34/2007.29.03.2007.MC, DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/34-2007-520445
+  date: '2007-03-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:04Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +141,9 @@ Assim:
 
 Ao abrigo do disposto no n.º 2 do artigo 19.º e do artigo 20.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 4.º, 5.º e 7.º do [Decreto Regulamentar n.º 18/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1980-474150), de 23 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 4.º, 5.º e 7.º do [Decreto Regulamentar n.º 18/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1980-474150), de 23 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - As delegações regionais são dotadas de autonomia administrativa e financeira.
+Art. 2.º - 1 - As delegações regionais são dotadas de autonomia administrativa e financeira.
 
 2 - Constituem receitas de cada delegação regional:
 
@@ -127,7 +167,7 @@ h) Quaisquer outras receitas que lhe sejam atribuídas por lei, por contrato ou 
 
 4 - Os levantamentos e transferências das contas abertas a favor de cada delegação regional só podem ter lugar com a assinatura de dois membros do conselho administrativo, sendo um deles o seu presidente.
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 a) ...
 
@@ -137,7 +177,7 @@ c) ...
 
 d) Apoiar e subsidiar as iniciativas culturais locais que pela sua natureza não se integrem nos programas de âmbito nacional.
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 a) ...
 
@@ -149,7 +189,7 @@ d) Divisão Técnica;
 
 e) Secção Administrativa.
 
-###### Art. 7.º Ao delegado regional compete:
+Art. 7.º Ao delegado regional compete:
 
 a) ...
 
@@ -159,9 +199,9 @@ c) Convocar e presidir às reuniões do conselho administrativo;
 
 d) Convocar as reuniões do conselho regional e dirigir os trabalhos.
 
-###### Art. 2.º É aditado ao [Decreto Regulamentar n.º 18/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1980-474150), de 23 de Maio, um artigo 10.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto Regulamentar n.º 18/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1980-474150), de 23 de Maio, um artigo 10.º-A, com a seguinte redacção:
 
-###### Art. 10.º-A - 1 - O conselho administrativo, como órgão de gestão financeira da delegação regional, é constituído pelo delegado regional, que presidirá, pelo chefe da Divisão Técnica e pelo chefe da Secção Administrativa, o qual secretariará as reuniões.
+Art. 10.º-A - 1 - O conselho administrativo, como órgão de gestão financeira da delegação regional, é constituído pelo delegado regional, que presidirá, pelo chefe da Divisão Técnica e pelo chefe da Secção Administrativa, o qual secretariará as reuniões.
 
 2 - O conselho administrativo reunirá mensalmente com carácter ordinário e extraordinariamente sempre que convocado pelo seu presidente.
 
@@ -187,12 +227,12 @@ Presidência do Conselho de Ministros, 16 de Março de 1988.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 29 de Junho de 1988.**
+Promulgado em 29 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Julho de 1988.**
+Referendado em 1 de Julho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

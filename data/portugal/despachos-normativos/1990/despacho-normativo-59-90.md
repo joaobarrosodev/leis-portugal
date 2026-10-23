@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/07/17400/31273127.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/59-1990-573096
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T07:47:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a40758ea1ff24fd5649adf52f2448cade0fd9dba6dc23a13f0361a1e4a122f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 289bfbd9e86bcc4eaa26af0b164e833282ebe67af1eaaffa13f429b5a7ad08f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:47:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAE
+- Embalagem
+- Leite
 relationships:
 - type: amended_by
   target: pt:dre:233153:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:284907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579351:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:233153:por
+  label: "Revogado pela PORT.578/2005.06.07.2005.MEI, DR.IS-B [128] de 06.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/578-2005-233153
+  date: '2005-07-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:47:22Z'
   warnings: []
   errors: []
 ---
@@ -103,6 +123,6 @@ ex. 3560.0.0 - Embalagens de plástico para leite.
 
 Ministério do Comércio e Turismo.
 
-**Assinado em 10 de Julho de 1990.**
+Assinado em 10 de Julho de 1990.
 
 Pelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno.

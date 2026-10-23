@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/253-1970-142350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c8c3d934fe909491fdabd697fb2303a0e42b7b749ca59fa0c3c4f299fe6586c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4fea488413ef34c0f3a761799059e076911e7df467e6d2fdb7c937806455dd7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,24 @@ relationships:
   target: pt:dre:422065:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:352127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:39Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +135,7 @@ TABELA A
 
 Preços máximos por lição ou por série de dez lições
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/05/12100/06910692.pdf))](https://files.diariodarepublica.pt/1s/1970/05/12100/06910692.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/05/12100/06910692.pdf)
 
 Observações
 
@@ -139,7 +147,7 @@ TABELA B
 
 Preços máximos do fornecimento de veículos de instrução para exame
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/05/12100/06910692.pdf))](https://files.diariodarepublica.pt/1s/1970/05/12100/06910692.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/05/12100/06910692.pdf)
 
 Observações
 
@@ -149,7 +157,7 @@ TABELA C
 
 Preços máximos globais para habilitação completa comprovada em exame
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/05/12100/06910692.pdf))](https://files.diariodarepublica.pt/1s/1970/05/12100/06910692.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/05/12100/06910692.pdf)
 
 Observações
 

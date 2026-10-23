@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00300/0000600006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/4/2024/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/4-2024-836105751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T05:51:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7101dd0ab6032d9f3f102334e619b519e2e8a85a8930f88ae1016a5fb9afa54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11f7e685fdad684318c47a14d8f913e1e244760f89ded156fe62ec8da2512e8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:51:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2021/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2021/08/09/p/dre
+- type: cites
+  target: pt:dre:169256653:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:51:35Z'
   warnings: []
   errors: []
 ---
@@ -92,12 +96,14 @@ validation:
 
 de 4 de janeiro
 
-**O Presidente da República decreta, nos termos do n.º 2 do artigo 26.º da [Lei Orgânica n.º 2/2021](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), de 9 de agosto, o seguinte:**
+O Presidente da República decreta, nos termos do n.º 2 do artigo 26.º da [Lei Orgânica n.º 2/2021](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), de 9 de agosto, o seguinte:
 
 É homologada a promoção ao posto de Major-General do Brigadeiro-General PILAV João Carlos de Bastos Jorge Gonçalves, efetuada por deliberação de 21 de dezembro de 2023 do Conselho de Chefes de Estado-Maior e aprovada por despacho da Ministra da Defesa Nacional de 22 de dezembro de 2023.
 
-**Assinado em 27 de dezembro de 2023.**
+Assinado em 27 de dezembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+117209352

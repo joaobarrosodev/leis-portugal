@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/05/09600/0000200020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/34/2024/05/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2024-865172007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-05-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3603babd879a0d0ab9ad39acd71447607997f2b4d21e0997d5538c54ce55062
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd1126e9829d78e445276d8ceebc979da30154dda67f167b848858f527c14c1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
+- Autarquia Local
 - Autoridade Nacional de Resíduos
 - Compensação Financeira
 - Direção Geral das Atividades Económicas
-- Garantia Bancária
-- Publicitação
+- Entidade Gestora de Resíduos
 - Entidade Reguladora dos Serviços das Águas e dos Resíduos
 - Entidade Reguladora dos Serviços Energéticos
+- Garantia Bancária
 - Internet
-- Entidade Gestora de Resíduos
-- Autarquia Local
 - Plano de Recuperação e Resiliência
-- Agência Portuguesa do Ambiente
+- Publicitação
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:152-D/2017
+  label: Altera, a partir de 18 de maio de 2024, os artigos 11.º, 12.º, 13.º, 14.º, 16.º, 28.º, 30.º-C, 30.º-D, 30.º-E, 30.º-F,
+    30.º-G, 30.º-H, 30.º-I, 30.º-J, 30.º-K, 30.º-L, 30.º-M, 30.º-N, 30.º-O,30.º-P, 30.º-Q, 30.º-R, 30.º-S, 30.º-T, 30.º-U,
+    30.º-V, 30.º-W, 30.º-X, 30.º-Y e revoga o n.º 6 do artigo 12.º do Decreto-Lei n.º 152-D/2017, de 11 de dezembro, Diário
+    da República n.º 236/2017, 2º Suplemento, Série I
+  source: null
+  date: '2017-12-11'
+- type: amends
+  target: pt:numero:decreto-lei:24/2024
+  label: Altera, a partir de 18 de maio de 2024, o artigo 17.º do Decreto-Lei n.º 24/2024, de 26 de março, Diário da República
+    n.º 61/2024, Série I
+  source: null
+  date: '2024-03-26'
 - type: cites
   target: celex:32015L0720
   label: null
@@ -99,16 +113,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/24/2024/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/24/2024/03/26/p/dre
+- type: cites
+  target: pt:dre:114337042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:857366010:por
+  label: null
+  source: null
 article_structure:
   article_count: 33
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:13Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +141,7 @@ de 17 de maio
 
 A regulação do sistema de depósito e reembolso (SDR) de embalagens de bebidas não reutilizáveis, muito recentemente introduzida no [Decreto-Lei n.º 152-D/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), de 11 de dezembro, visa alcançar as metas de reciclagem de resíduos de embalagens, contribuindo para um modelo de reciclagem com maior valor acrescentado e aprofundando a implementação do conceito estratégico da economia circular, assente na redução, reutilização, recuperação e reciclagem de materiais.
 
-No momento atual, torna-se particularmente premente agilizar a implementação de sistemas de depósito e reembolso, através da criação de um regime simplificado de apresentação de candidaturas a entidades gestoras, de modo a permitir a submissão e a apreciação célere das mesmas, adaptando, para este efeito, a disciplina jurídica contida nos Decretos-Leis n.<sup>os</sup>[24/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), de 26 de março, e [152-D/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), de 11 de dezembro.
+No momento atual, torna-se particularmente premente agilizar a implementação de sistemas de depósito e reembolso, através da criação de um regime simplificado de apresentação de candidaturas a entidades gestoras, de modo a permitir a submissão e a apreciação célere das mesmas, adaptando, para este efeito, a disciplina jurídica contida nos Decretos-Leis n.os[24/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), de 26 de março, e [152-D/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), de 11 de dezembro.
 
 Esta premência na criação deste regime é imposta pela necessidade de designação e licenciamento de uma entidade gestora do SDR, enquanto condição para o cumprimento do marco associado à REFORMA TC-C12-r39 do Plano de Recuperação e Resiliência.
 
@@ -259,7 +281,7 @@ r) [...]
 
 11 - [...]
 
-12 - No âmbito de um pedido de renúncia à licença apresentado pela entidade gestora ou de outras formas de cessação da vigência da licença, são aplicáveis os prazos para o cumprimento das obrigações a que se referem as alíneas j), l) e o) do n.º 1 e os n.<sup>os</sup>5 e 6 do artigo 18.º, podendo os membros do Governo responsáveis pelas áreas da economia e do ambiente determinar prazos diferentes, sob proposta da DGAE e da APA, I. P.
+12 - No âmbito de um pedido de renúncia à licença apresentado pela entidade gestora ou de outras formas de cessação da vigência da licença, são aplicáveis os prazos para o cumprimento das obrigações a que se referem as alíneas j), l) e o) do n.º 1 e os n.os5 e 6 do artigo 18.º, podendo os membros do Governo responsáveis pelas áreas da economia e do ambiente determinar prazos diferentes, sob proposta da DGAE e da APA, I. P.
 
 ###### Artigo 13.º — [...]
 
@@ -295,7 +317,7 @@ r) [...]
 
 16 - [...]
 
-17 - Para efeitos dos n.<sup>os</sup>15 e 16, o consumidor deve ser informado, de forma clara e no ato da compra do produto, das possibilidades de retoma à sua disposição.
+17 - Para efeitos dos n.os15 e 16, o consumidor deve ser informado, de forma clara e no ato da compra do produto, das possibilidades de retoma à sua disposição.
 
 ###### Artigo 14.º — Financiamento das entidades gestoras
 
@@ -429,7 +451,7 @@ o) [...]
 
 ###### Artigo 30.º-C — [...]
 
-Os embaladores que coloquem no mercado as embalagens previstas nos n.<sup>os</sup>1 e 2 do artigo anterior ficam obrigados a gerir os respetivos resíduos pelo SDR, através do sistema de depósito e reembolso, aderindo, para o efeito, a uma entidade gestora do sistema de depósito e reembolso.
+Os embaladores que coloquem no mercado as embalagens previstas nos n.os1 e 2 do artigo anterior ficam obrigados a gerir os respetivos resíduos pelo SDR, através do sistema de depósito e reembolso, aderindo, para o efeito, a uma entidade gestora do sistema de depósito e reembolso.
 
 ###### Artigo 30.º-D — [...]
 
@@ -501,7 +523,7 @@ c) Outros pontos de recolha instalados em espaço público e em espaços municip
 
 3 - [...]
 
-4 - Os estabelecimentos com área de exposição e venda contínua igual ou inferior a 50 m<sup>2</sup> e os que, independentemente da área de exposição e venda contínua, tenham uma atividade de comércio de produtos alimentares que represente menos de 10 % do respetivo volume total de vendas, estão isentos da obrigação de recolha dos resíduos de embalagens, podendo optar por constituir-se como ponto de recolha mediante acordo com as entidades gestoras do SDR.
+4 - Os estabelecimentos com área de exposição e venda contínua igual ou inferior a 50 m2 e os que, independentemente da área de exposição e venda contínua, tenham uma atividade de comércio de produtos alimentares que represente menos de 10 % do respetivo volume total de vendas, estão isentos da obrigação de recolha dos resíduos de embalagens, podendo optar por constituir-se como ponto de recolha mediante acordo com as entidades gestoras do SDR.
 
 5 - A opção pelo caráter automático ou manual da recolha cabe ao responsável pelo ponto de recolha, cabendo às entidades gestoras do SDR definir as especificações técnicas a que devem obedecer os equipamentos de recolha automática de modo a assegurar a sua compatibilidade com o SDR.
 
@@ -579,7 +601,7 @@ d) [...]
 
 4 - [...]
 
-5 - A metodologia de cálculo, a aferição das quantidades a compensar nos termos dos n.<sup>os</sup>2 e 3 e os valores de compensação são definidos pela ERSAR, ouvidas as entidades gestoras do SDR, as entidades gestoras do SIGRE, os municípios ou as entidades gestoras de sistemas municipais e multimunicipais de gestão de resíduos urbanos, bem como outras entidades que se considere relevante consultar.
+5 - A metodologia de cálculo, a aferição das quantidades a compensar nos termos dos n.os2 e 3 e os valores de compensação são definidos pela ERSAR, ouvidas as entidades gestoras do SDR, as entidades gestoras do SIGRE, os municípios ou as entidades gestoras de sistemas municipais e multimunicipais de gestão de resíduos urbanos, bem como outras entidades que se considere relevante consultar.
 
 6 - As entidades gestoras do SDR e os municípios ou as entidades gestoras de sistemas municipais e multimunicipais de gestão de resíduos urbanos devem estabelecer, mediante contrato, os mecanismos necessários ao pagamento das compensações e contribuições determinadas em conformidade com os números anteriores.
 
@@ -621,7 +643,7 @@ b) [...]
 
 6 - [...]
 
-7 - As entidades gestoras do SDR devem desenvolver e implementar os mecanismos apropriados para assegurar a não liquidação ou o reembolso de valores de prestação financeira cobrados em excesso, nos termos a fixar na licença e de acordo com o disposto nos n.<sup>os</sup>5 e 6 do artigo 14.º
+7 - As entidades gestoras do SDR devem desenvolver e implementar os mecanismos apropriados para assegurar a não liquidação ou o reembolso de valores de prestação financeira cobrados em excesso, nos termos a fixar na licença e de acordo com o disposto nos n.os5 e 6 do artigo 14.º
 
 8 - Cabe às entidades gestoras do SDR submeter à APA, I. P., e à DGAE, nos termos a definir nas licenças, um modelo de determinação dos valores de prestação financeira para a totalidade do período de vigência das licenças, instruído com os elementos previstos no n.º 1 do artigo 15.º e com os seguintes documentos:
 
@@ -687,7 +709,7 @@ c) [...]
 
 9 - [...]
 
-10 - As entidades gestoras estão obrigadas à prestação de caução, para garantir a boa execução das obrigações que decorrem do presente decreto lei e das licenças, a qual pode ser prestada mediante garantia bancária ou seguro-caução a favor da APA, I. P., nos termos previstos no n.º 12 do artigo 11.º e nos n.<sup>os</sup>11 a 15 do artigo 16.º, com as necessárias adaptações.
+10 - As entidades gestoras estão obrigadas à prestação de caução, para garantir a boa execução das obrigações que decorrem do presente decreto lei e das licenças, a qual pode ser prestada mediante garantia bancária ou seguro-caução a favor da APA, I. P., nos termos previstos no n.º 12 do artigo 11.º e nos n.os11 a 15 do artigo 16.º, com as necessárias adaptações.
 
 11 - As entidades gestoras do SDR devem implementar sistemas de contabilidade de gestão, por forma a assegurar a adequada prestação de contas nos termos exigidos nas licenças.
 
@@ -699,7 +721,7 @@ c) [...]
 
 a) Estatutos constitutivos ou certidão do registo comercial ou o respetivo código de acesso;
 
-b) Declaração de cumprimento das disposições previstas nos n.<sup>os</sup>1, 2 e 3 do artigo 11.º;
+b) Declaração de cumprimento das disposições previstas nos n.os1, 2 e 3 do artigo 11.º;
 
 c) Declaração que demonstre o previsto no n.º 3 do artigo 16.º
 
@@ -945,12 +967,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de maio de 2024. - Luís Filipe Montenegro Cardoso de Morais Esteves - Manuel Castro Almeida - Pedro Trigo de Morais de Albuquerque Reis - Maria da Graça Martins da Silva Carvalho.
 
-**Promulgado em 15 de maio de 2024.**
+Promulgado em 15 de maio de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 16 de maio de 2024.**
+Referendado em 16 de maio de 2024.
 
-**O Primeiro-Ministro, Luís Filipe Montenegro Cardoso de Morais Esteves.**
+O Primeiro-Ministro, Luís Filipe Montenegro Cardoso de Morais Esteves.
+
+117709714

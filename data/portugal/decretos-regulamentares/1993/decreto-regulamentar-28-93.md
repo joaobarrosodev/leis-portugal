@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/209b00/46954695.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/28/1993/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1993-629982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d03a88c2dd3bade3d225262a6457a680c4fded86d66b54f1c90efa2c67f90eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8191f81b01a3b25734e289950186b6e6de1079b681cd62f2da5e453d79ef12d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Águas Públicas
-- Vida Selvagem
-- Barragem do Monte Fidalgo
-- Recursos Hídricos
 - Albufeiras
-- RIO TEJO
-- Proteção do Ambiente
-- Zona de Proteção
+- Barragem do Monte Fidalgo
 - Domínio Público Hídrico
+- Proteção do Ambiente
+- Recursos Hídricos
+- RIO TEJO
 - TEJO Internacional
+- Vida Selvagem
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:608704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL, PELO DESPACHO NORMATIVO 314/94, DE 12 DE ABRIL, PUBLICADO NO DR.IS-B, 107.\0-B, 107."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-09'
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631657:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:608704:por
+  label: "Revogado pelo DEC LEI.107/2009.15.05.2009.MAOTDR, DR.IS [94] de 15.05.2009, com a entrada em vigor da portaria referida\
+    \ no nº 5 do seu art. 36º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2009-608704
+  date: '2009-05-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:54Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +125,9 @@ Considerando que a albufeira de Monte Fidalgo (Cedilho), no Tejo internacional, 
 
 Assim, ao abrigo do artigo 8.º do [Decreto-Lei n.º 502/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1971-631657), de 18 de Novembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É classificada como protegida a albufeira de Monte Fidalgo (Cedilho).
+Artigo 1.º É classificada como protegida a albufeira de Monte Fidalgo (Cedilho).
 
-###### Art. 2.º - 1 - Até à elaboração do plano de ordenamento, ficam proibidas, salvo o disposto no número seguinte, as seguintes actividades secundárias:
+Art. 2.º - 1 - Até à elaboração do plano de ordenamento, ficam proibidas, salvo o disposto no número seguinte, as seguintes actividades secundárias:
 
 a) Pesca recreativa, com excepção da pesca artesanal;
 
@@ -120,11 +139,11 @@ d) Caça.
 
 2 - As actividades referidas no número anterior podem, com carácter excepcional e sempre que razões ponderosas o justifiquem, ser autorizadas por despacho conjunto do Ministro do Ambiente e Recursos Naturais e do ministro competente em razão da matéria, com indicação dos locais, épocas e duração das mesmas.
 
-###### Art. 3.º - 1 - É definida uma zona de protecção à albufeira com uma largura de 500 m e uma zona reservada de 50 m contados a partir da linha do nível de pleno armazenamento (NPA).
+Art. 3.º - 1 - É definida uma zona de protecção à albufeira com uma largura de 500 m e uma zona reservada de 50 m contados a partir da linha do nível de pleno armazenamento (NPA).
 
 2 - Na zona reservada não são permitidas quaisquer construções que não sejam infra-estruturas de apoio à utilização da albufeira.
 
-###### Art. 4.º Na zona de protecção ficam proibidos:
+Art. 4.º Na zona de protecção ficam proibidos:
 
 a) O estabelecimento de indústrias que produzam ou usem produtos químicos tóxicos ou com elevados teores de fósforo ou de azoto;
 
@@ -140,9 +159,9 @@ f) O lançamento de excedentes de pesticidas e de águas de lavagem com uso de d
 
 g) A descarga ou infiltração no terreno de esgotos de qualquer natureza, não devidamente tratados e, mesmo tratados, quando seja viável o seu lançamento a jusante da albufeira ou quando excedam determinados valores, a fixar pelos serviços competentes, além de outros parâmetros, dos teores de fósforo, azoto, carbono, mercúrio e outros metais pesados (como o chumbo e o cádmio) e pesticidas.
 
-###### Art. 5.º O licenciamento municipal de obras a realizar na zona de protecção carece de parecer favorável do Instituto da Água.
+Art. 5.º O licenciamento municipal de obras a realizar na zona de protecção carece de parecer favorável do Instituto da Água.
 
-###### Art. 6.º Independentemente dos condicionalismos estabelecidos pelo presente diploma, as actividades secundárias nesta albufeira de água pública continuam sujeitas:
+Art. 6.º Independentemente dos condicionalismos estabelecidos pelo presente diploma, as actividades secundárias nesta albufeira de água pública continuam sujeitas:
 
 a) Às autorizações e licenças impostas para o seu exercício pelas leis e regulamentos;
 
@@ -154,12 +173,12 @@ Presidência do Conselho de Ministros, 7 de Junho de 1993.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 28 de Julho de 1993.**
+Promulgado em 28 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1993.**
+Referendado em 29 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

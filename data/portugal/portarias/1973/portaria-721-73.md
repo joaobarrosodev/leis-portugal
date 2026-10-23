@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/721-1973-412381
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T04:13:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2e04400adb879f76c8734ad51d20608f6526bb9995dc07ca304d789c513034c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9958c178078890b1f864501e86e17f7e8effa81b5152a77875d1309d74232287
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:13:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685442:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 42
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:13:27Z'
   warnings: []
   errors: []
 ---
@@ -860,7 +884,7 @@ As instituições de previdência poderão conceder outras facilidades para o ef
 
 O horário de trabalho do pessoal em serviço das instituições é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/24400/18731896.pdf))](https://files.diariodarepublica.pt/1s/1973/10/24400/18731896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/24400/18731896.pdf)
 
 ###### ARTIGO 85.º — (Trabalho extraordinário)
 
@@ -1180,7 +1204,7 @@ Os profissionais do serviço social que, nos termos do n.º 2 do artigo 24.º de
 
 O pessoal abrangido por este Estatuto tem direito às seguintes gratificações mensais, a conceder, nos termos do artigo 131.º, pelo serviço externo realizado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/24400/18731896.pdf))](https://files.diariodarepublica.pt/1s/1973/10/24400/18731896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/24400/18731896.pdf)
 
 ###### ARTIGO 132.º — (Cálculo das gratificações)
 
@@ -1204,7 +1228,7 @@ O pessoal abrangido por este Estatuto tem direito às seguintes gratificações 
 
 1. O pessoal abrangido por este Estatuto, quando ausente por motivo de serviço dos locais onde exerce normalmente a sua actividade, tem direito ao abono diário de ajudas de custo, de harmonia com a tabela seguinte, em função da sua categoria e das localidades para onde se desloca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/24400/18731896.pdf))](https://files.diariodarepublica.pt/1s/1973/10/24400/18731896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/24400/18731896.pdf)
 
 2. Só são devidas ajudas de custo pelas deslocações além de 5 km da residência das localidades onde o pessoal exerce normalmente a sua actividade.
 
@@ -1214,7 +1238,7 @@ O pessoal abrangido por este Estatuto tem direito às seguintes gratificações 
 
 2. Pelas deslocações em que a saída do local de serviço e a entrada se observem dentro de um período de vinte e quatro horas abonar-se-ão as percentagens seguintes de ajudas de custo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/24400/18731896.pdf))](https://files.diariodarepublica.pt/1s/1973/10/24400/18731896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/24400/18731896.pdf)
 
 3. Nas deslocações por dias sucessivos aplicam-se as percentagens referidas no número anterior nos dias da partida e do regresso, com as particularidades seguintes:
 
@@ -1556,6 +1580,6 @@ Além do pessoal das instituições de previdência referido no artigo 1.º, fic
 
 ## ANEXO I — Tabela de remunerações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/24400/18731896.pdf))](https://files.diariodarepublica.pt/1s/1973/10/24400/18731896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/24400/18731896.pdf)
 
-**O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.**
+O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.

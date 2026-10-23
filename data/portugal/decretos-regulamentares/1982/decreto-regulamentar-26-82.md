@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/26-1982-392796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:05:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aefbef39f6904cfe5ceafcd44788f36cd676e4f981e6cfcbf6b9a795b2578532
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a1a556cfc4ca8eb310fc16289afd08a9b33f7961ebfdfdaa0051d1bb7a811b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:05:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Enfermagem
+- Estágio de Formação
+- Saúde Pública
+relationships:
+- type: cites
+  target: pt:dre:390427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676007:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:05:04Z'
   warnings: []
   errors: []
 ---
@@ -94,14 +109,14 @@ Nestes termos, ao abrigo do artigo 1.º, n.º 1, do [Decreto-Lei n.º 59/76](htt
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Para efeito de exercício de funções na Santa Casa da Misericórdia de Lisboa, as enfermeiras que concluíram com aproveitamento o estágio teórico-prático para educadoras de saúde pública, organizado nessa instituição entre 1958 e 1968, são equiparadas ao pessoal de enfermagem com o curso de especialização em enfermagem de saúde pública.
+Artigo 1.º Para efeito de exercício de funções na Santa Casa da Misericórdia de Lisboa, as enfermeiras que concluíram com aproveitamento o estágio teórico-prático para educadoras de saúde pública, organizado nessa instituição entre 1958 e 1968, são equiparadas ao pessoal de enfermagem com o curso de especialização em enfermagem de saúde pública.
 
-###### Art. 2.º É revogada a [Portaria n.º 28/81](https://diariodarepublica.pt/dr/detalhe/portaria/28-1981-390427), de 13 de Janeiro.
+Art. 2.º É revogada a [Portaria n.º 28/81](https://diariodarepublica.pt/dr/detalhe/portaria/28-1981-390427), de 13 de Janeiro.
 
 Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Eduardo da Silva Barbosa - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 29 de Abril de 1982.**
+Promulgado em 29 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República Interino, FRANCISCO MANUEL LOPES VIEIRA DE OLIVEIRA DIAS.**
+O Presidente da República Interino, FRANCISCO MANUEL LOPES VIEIRA DE OLIVEIRA DIAS.

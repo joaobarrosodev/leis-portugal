@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/207/2008/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c21c3935a70840f742b30ee4d141ec6a8d20beb34513e8598431c353047335b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48b1d463ac77743a5ed8009b22ed1966efd2e68273633614f0871e0e35cbb086
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,36 @@ reuse:
 subjects:
 - Autoridade Sanitária
 - Carne
-- Produto Cárneo
-- Formação Profissional
-- Direção Geral de Veterinária
-- Definição de Competências
-- Controlo Sanitário
-- Fiscalização
 - Circulação de Mercadorias
-- Proteção do Consumidor
-- Condições de Higiene e Segurança no Trabalho
-- Regulamento
 - Comércio
+- Condições de Higiene e Segurança no Trabalho
+- Controlo Sanitário
+- Definição de Competências
+- Direção Geral de Veterinária
+- Fiscalização
+- Formação Profissional
+- Produto Cárneo
+- Proteção do Consumidor
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:155732595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Alterados, a partir de 28.07.2021, os arts. 3.º, 5.º e 6.º do Dec Lei 147/2006 de 31-jul, na versão republicada pelo
+    presente diploma, pelo(a) Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: amends
+  target: pt:numero:decreto-lei:147/2006
+  label: "Altera os arts. 2.º, 5.º, 6.º e 7.º do Decreto-Lei n.º 147/2006, de 31 de Julho, DR.IS [146], bem como altera os\
+    \ artigos 1.º, 2.º, 5.º, 10.º, 18.º, 19.º, 20.º, 22.º, 26.º e 27.º e revoga os n.os 5, 6 e 7 do artigo 2.º, o n.º 4 do\
+    \ artigo 19.º e os n.os 6 e 7 do artigo 22.º, todos do Regulamento das Condições Higiénicas e Técnicas a Observar na Distribuição\
+    \ e Venda de Carnes e Seus Produtos, aprovado em anexo ao citado diploma e republica ambos na redacção actual\0\0"
+  source: null
+  date: '2006-07-31'
 - type: cites
   target: celex:32002R1774
   label: null
@@ -110,15 +124,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/158/1997/06/24/p/dre
 article_structure:
-  article_count: 57
+  article_count: 45
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:41Z'
   warnings: []
   errors: []
 ---
@@ -157,13 +171,17 @@ Controlo e fiscalização
 
 2 - Compete à DGV e à Autoridade de Segurança Alimentar e Económica, adiante designada por ASAE, no âmbito das respectivas competências, assegurar a fiscalização do cumprimento das normas do presente decreto-lei, sem prejuízo das competências atribuídas por lei a outras entidades.
 
-###### Artigo 5.º — Instrução e decisão
+Artigo 5.º
+
+Instrução e decisão
 
 1 - Compete à ASAE e à DGV a instrução dos processos de contra-ordenação relativos às matérias do âmbito das respectivas competências.
 
 2 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 O produto das coimas é distribuído da seguinte forma:
 
@@ -175,7 +193,9 @@ c) 10 % para a entidade que aplicou a coima;
 
 d) 60 % para os cofres do Estado.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O disposto no presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo de as competências cometidas a serviços ou organismos da administração do Estado serem exercidas pelos correspondentes serviços e organismos das administrações regionais com idênticas atribuições e competências.
 
@@ -231,7 +251,9 @@ t) ...
 
 u) ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -247,13 +269,17 @@ u) ...
 
 7 - (Revogado.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
 2 - Como medida de controlo das operações de lavagem e de desinfecção, podem ser mandados efectuar exames laboratoriais considerados convenientes, sendo os mesmos obrigatórios sempre que solicitados pelas autoridades competentes.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -261,7 +287,9 @@ u) ...
 
 3 - Sem prejuízo do disposto no Regulamento (CE) n.º [37/2005](http://data.europa.eu/eli/reg/2005/37/oj?locale=pt), da Comissão, de 12 de Janeiro, os entrepostos frigoríficos com menos de 10 m3 destinados a armazenar existências nos locais de venda estão autorizados a efectuar a medição da temperatura do ar por meio de um termómetro facilmente visível.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -271,7 +299,9 @@ u) ...
 
 4 - Os médicos veterinários municipais devem remeter à DGV, através da direcção de serviços veterinários da respectiva região, pelo menos uma vez por ano, um relatório sobre a actividade de controlo dos locais de venda de carnes e seus produtos.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -281,7 +311,9 @@ u) ...
 
 4 - (Revogado.)
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -289,7 +321,9 @@ u) ...
 
 3 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Nos locais de venda de carnes e seus produtos é permitida a exposição e venda de géneros alimentícios e de alimentos para animais, desde que se apresentem devidamente pré-embalados.
 
@@ -305,7 +339,9 @@ u) ...
 
 7 - (Revogado.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Os manipuladores de carne e seus produtos só podem exercer a sua actividade nos sectores de distribuição e venda de carnes desde que tenham frequentado com aproveitamento um curso de formação em higiene e segurança alimentar, nos termos do capítulo xii do anexo ii do Regulamento (CE) n.º [852/2004](http://data.europa.eu/eli/reg/2004/852/oj?locale=pt), do Parlamento Europeu e do Conselho, de 29 de Abril.
 
@@ -321,7 +357,9 @@ u) ...
 
 7 - Em complemento do curso de formação em higiene e segurança alimentar, os manipuladores de carnes e seus produtos devem, de três em três anos, frequentar um curso de actualização daquele.
 
-###### Artigo 27.º — Documentos comprovativos da formação
+Artigo 27.º
+
+Documentos comprovativos da formação
 
 1 - A frequência com aproveitamento do curso de formação previsto no artigo anterior é atestada pela entidade que organizar e ministrar aquele, que emitirá os seguintes documentos:
 
@@ -345,15 +383,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Setembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Fernando Teixeira dos Santos - Alberto Bernardes Costa - António José de Castro Guerra - Ascenso Luís Seixas Simões.
 
-**Promulgado em 10 de Outubro de 2008.**
+Promulgado em 10 de Outubro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de Outubro de 2008.**
+Referendado em 20 de Outubro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 147/2006, de 31 de Julho
 
@@ -921,6 +959,6 @@ Qualquer pessoa que tenha contraído ou suspeite ter contraído uma doença pote
 
 Carnes e seus produtos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/20600/0750207512.pdf))](https://files.diariodarepublica.pt/1s/2008/10/20600/0750207512.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/20600/0750207512.pdf)
 
 Nota. - No que se refere às temperaturas de distribuição, conservação e venda de géneros alimentícios pré-embalados nos locais de venda de carnes, devem ter-se em conta as disposições dos Regulamentos (CE) n.os [852/2004](http://data.europa.eu/eli/reg/2004/852/oj?locale=pt) e [853/2004](http://data.europa.eu/eli/reg/2004/853/oj?locale=pt).

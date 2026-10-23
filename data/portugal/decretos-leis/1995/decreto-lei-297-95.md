@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/297/1995/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1995-691776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b72b65e18ae971437faed0b4480522bca690851cd73801b61993fbb7d2175e99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20ee6fae687653b61acfa9f458cf6cdc3380b8f41c74365b14356495a486c7fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Carta de Condução
-- Exame de Condução
 - Ensino de Condução
+- Exame de Condução
+- PSP
 - Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/76/1991/02/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/76/1991/02/16/p/dre
+- type: cites
+  target: pt:dre:477284:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:45Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +106,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A Polícia de Segurança Pública (PSP) pode ministrar, em qualquer das suas unidades, instrução de condução das várias categorias de veículos automóveis definidas no Código da Estrada, bem como de ciclomotores.
+Artigo 1.º A Polícia de Segurança Pública (PSP) pode ministrar, em qualquer das suas unidades, instrução de condução das várias categorias de veículos automóveis definidas no Código da Estrada, bem como de ciclomotores.
 
-###### Art. 2.º - 1 - A instrução a que se refere o artigo anterior termina com um exame de condução, efectuado na unidade que a ministrou, de harmonia com o disposto no Código da Estrada e seus regulamentos.
+Art. 2.º - 1 - A instrução a que se refere o artigo anterior termina com um exame de condução, efectuado na unidade que a ministrou, de harmonia com o disposto no Código da Estrada e seus regulamentos.
 
 2 - Aos condutores aprovados no exame referido no número anterior são passados certificados de condução, que habilitam a conduzir unicamente veículos automóveis ou ciclomotores afectos ao serviço da PSP, de modelos a aprovar por despacho do Ministro da Administração Interna.
 
 3 - A competência para proceder à apreensão dos certificados de condução é da PSP.
 
-###### Art. 3.º - 1 - O titular de certificado de condução tem direito a que, mediante requerimento, lhe seja atribuída carta ou licença de condução válida para as correspondentes categorias de veículos.
+Art. 3.º - 1 - O titular de certificado de condução tem direito a que, mediante requerimento, lhe seja atribuída carta ou licença de condução válida para as correspondentes categorias de veículos.
 
 2 - Sem prejuízo do disposto no n.º 5, o requerimento pode ser formulado desde o momento da atribuição do certificado de condução até dois anos após a obtenção de licença ou de baixa de serviço ou após passarem à situação de pré-aposentação ou à aposentação.
 
@@ -120,7 +124,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - No caso de equivalência relativa a categoria para o qual o Código da Estrada exija idade superior a 18 anos, o requerimento só pode ser formulado a partir da data em que o requerente atinja a idade prevista no Código da Estrada para a referida categoria.
 
-###### Art. 4.º Os certificados de condução a que se refere o n.º 2 do artigo 2.º perdem a validade no dia em que o seu titular:
+Art. 4.º Os certificados de condução a que se refere o n.º 2 do artigo 2.º perdem a validade no dia em que o seu titular:
 
 a) Seja exonerado da PSP, a seu pedido ou por motivos disciplinares;
 
@@ -128,7 +132,7 @@ b) Passe à situação de pré-aposentação;
 
 c) Transite para outros serviços.
 
-###### Art. 5.º São revogados:
+Art. 5.º São revogados:
 
 a) O [Decreto-Lei n.º 76/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1991-477284), de 16 de Fevereiro;
 
@@ -136,12 +140,12 @@ b) A Portaria n.º 270/91, de 4 de Abril.
 
 Visto e aprovado em Conselho de Ministros de 21 de Setembro de 1995. - Aníbal António Cavaco Silva - Manuel Dias Loureiro.
 
-**Promulgado em 5 de Outubro de 1995.**
+Promulgado em 5 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1995.**
+Referendado em 10 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

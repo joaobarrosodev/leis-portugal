@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/30/2001/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2001-319875
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:28:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c50a9a7395182aa57dc643486fb8f44670bebab5b2911e47c133713edbdd90e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc847052663c0e3bf3c2c8bf302a2bf9ad12902450d0d6c8d1b9b8465e1c912d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Benefícios Fiscais
 - Contribuição Autárquica
 - EURO 2004
 - EURO 2004-sociedade Promotora da Realização em Portugal da FASE Final do Campeonato Europeu de Futebol 2004
 - Imposto do SELO
-- Sisa
 - Imposto sobre Sucessões e Doações
-- Isenção Fiscal
 - IRC
-- Benefícios Fiscais
+- Isenção Fiscal
+- Sisa
 relationships:
 - type: amended_by
   target: pt:dre:621140:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621140:por
+  label: "Aditado o art. 8º-A, alterados os arts. 1º, 2º, 3º, 4º, 5º, 11º, e 12º e revogados os arts. 9º e 10º do Dec Lei\
+    \ 33/2000 de 04-Out, com a redacção conferida pelo presente diploma, bem como alterados os arts. 1º, 2º, 4º, 5º, 6º, 7º,\
+    \ 8º, 9º, 10º, 11º, 12º, 13º, 14º, 19º, 20º, 22º, e 23º e revogados os arts. 15º, 16º, 17º, 18º e 21º todos dos Estatutos\
+    \ da EURO 2004, publicados em anexo àquele diploma, pelo DEC LEI.267/2001.2001.10.04.MJD DR.IS-A [231]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-2001-621140
+  date: '2001-10-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/33/2000/03/14/p/dre
   label: null
@@ -96,16 +104,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3-b/2000/04/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3-b/2000/04/04/p/dre
+- type: cites
+  target: pt:dre:144987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679669:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:dre:411871:por
+  label: "Revoga os arts. 6º e 7º do Dec Lei 33/2000 de 14-Mar,DR.IS-A [62]\0\0"
+  source: null
+  date: '2000-03-14'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:28:11Z'
   warnings: []
   errors: []
 ---
@@ -160,12 +193,12 @@ São revogados os artigos 6.º e 7.º do [Decreto-Lei n.º 33/2000](https://diar
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 2000. - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura - José Sócrates Carvalho Pinto de Sousa - José Manuel Lello Ribeiro de Almeida.
 
-**Promulgado em 18 de Janeiro de 2001.**
+Promulgado em 18 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Janeiro de 2001.**
+Referendado em 25 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

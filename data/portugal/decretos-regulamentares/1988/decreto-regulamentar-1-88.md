@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1988-283481
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51e104b616d6c30cbf2950c10b178ea7ee689c53ec1b923c8e76ede8ce1e435c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bb1348e09d5b99ac5acc3dee6e95471a103f77596035c27709400c28a1bf441
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Reforma Aduaneira
+- Regulamento
+- Regulamento das Alfândegas
 relationships:
 - type: amended_by
   target: pt:dre:258553:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:219530:por
+  label: Rectificado pelo DECL.DD2161.1988.03.29.PCM,DR.IS [76]2º Supl de 31/Mar/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-219530
+  date: '1988-03-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:41Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +109,9 @@ Assim:
 
 O Governo decreta, ao abrigo da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º os artigos 481.º a 495.º e 590.º do Regulamento das Alfândegas, aprovado pelo Decreto n.º 31730, de 15 de Dezembro de 1941, passam a ter a seguinte redacção:
+Artigo 1.º os artigos 481.º a 495.º e 590.º do Regulamento das Alfândegas, aprovado pelo Decreto n.º 31730, de 15 de Dezembro de 1941, passam a ter a seguinte redacção:
 
-###### Art. 481.º Constituem atribuições da conferência final:
+Art. 481.º Constituem atribuições da conferência final:
 
 1.º Conferir o apuramento das declarações sumárias e de outros documentos que as substituam;
 
@@ -126,25 +135,25 @@ O Governo decreta, ao abrigo da alínea c) do artigo 202.º da Constituição, o
 
 11.º Exercer as demais atribuições que lhe sejam cometidas por lei ou normas regulamentares.
 
-###### Art. 482.º Para cumprimento do disposto no artigo anterior, a conferência final poderá solicitar aos diferentes serviços, às estâncias aduaneiras, aos importadores e exportadores ou seus representantes o envio de quaisquer documentos de que necessite.
+Art. 482.º Para cumprimento do disposto no artigo anterior, a conferência final poderá solicitar aos diferentes serviços, às estâncias aduaneiras, aos importadores e exportadores ou seus representantes o envio de quaisquer documentos de que necessite.
 
 § 1.º Independentemente do disposto no corpo do presente artigo, a conferência final poderá examinar esses documentos directamente nos serviços, estâncias aduaneiras e instalações das referidas entidades.
 
 § 2.º Quando se tratar de documentos de natureza confidencial, só poderão ser facultados se o director da alfândega expressamente o autorizar.
 
-###### Art. 483.º Os postos fiscais habilitados a despachar remeterão mensalmente à estância aduaneira de que dependem os documentos que tenham tomado números de receita e os que com ele se relacionem.
+Art. 483.º Os postos fiscais habilitados a despachar remeterão mensalmente à estância aduaneira de que dependem os documentos que tenham tomado números de receita e os que com ele se relacionem.
 
 § único. Os livros de receita serão remetidos pelos mesmos postos à estância aduaneira de que dependem, depois de ultimada a sua escrituração.
 
-###### Art. 484.º As declarações de importação e de exportação, bem como os outros documentos liquidados ou receitados, serão registados em fichas próprias imediatamente após a sua entrada.
+Art. 484.º As declarações de importação e de exportação, bem como os outros documentos liquidados ou receitados, serão registados em fichas próprias imediatamente após a sua entrada.
 
-###### Art. 485.º Depois de terminada qualquer conferência, o funcionário dela incumbido fará no respectivo documento a competente indicação, datando-a e apondo-lhe a sua rubrica.
+Art. 485.º Depois de terminada qualquer conferência, o funcionário dela incumbido fará no respectivo documento a competente indicação, datando-a e apondo-lhe a sua rubrica.
 
-###### Art. 486.º A conferência do apuramento das declarações sumárias, do registo de liquidação e da escrituração da receita far-se-á confrontando as inscrições efectuadas com os documentos que lhes serviram de suporte.
+Art. 486.º A conferência do apuramento das declarações sumárias, do registo de liquidação e da escrituração da receita far-se-á confrontando as inscrições efectuadas com os documentos que lhes serviram de suporte.
 
-###### Art. 487.º A conferência das declarações de importação e de exportação far-se-á examinando se todas as formalidades foram cumpridas e se foram observados todos os preceitos legais, regulamentares e instruções superiores, o mesmo se aplicando à conferência dos outros documentos liquidados ou receitados.
+Art. 487.º A conferência das declarações de importação e de exportação far-se-á examinando se todas as formalidades foram cumpridas e se foram observados todos os preceitos legais, regulamentares e instruções superiores, o mesmo se aplicando à conferência dos outros documentos liquidados ou receitados.
 
-###### Art. 488.º Quando se reconheça que deixou de ser paga qualquer importância cuja liquidação e cobrança esteja a cargo das alfândegas, a conferência final organizará o respectivo processo, o qual será registado em livro próprio.
+Art. 488.º Quando se reconheça que deixou de ser paga qualquer importância cuja liquidação e cobrança esteja a cargo das alfândegas, a conferência final organizará o respectivo processo, o qual será registado em livro próprio.
 
 § 1.º O processo, depois de informado pela conferência final, será presente ao chefe do serviço de despacho para decisão, o qual, se for caso disso, ordenará a notificação do devedor e o processamento de liquidação suplementar para pagamento da quantia que se reconheça ter sido cobrada a menos.
 
@@ -152,15 +161,15 @@ O Governo decreta, ao abrigo da alínea c) do artigo 202.º da Constituição, o
 
 § 3.º O registo da liquidação e da receita será efectuado em livros próprios.
 
-###### Art. 489.º O reembolso ou a dispensa de pagamento serão concedidos ao interessado, a pedido deste ou do seu representante, apresentado na estância aduaneira onde os direitos e demais imposições foram cobrados ou liquidados.
+Art. 489.º O reembolso ou a dispensa de pagamento serão concedidos ao interessado, a pedido deste ou do seu representante, apresentado na estância aduaneira onde os direitos e demais imposições foram cobrados ou liquidados.
 
 § único. Independentemente do disposto no corpo do presente artigo, proceder-se-á oficiosamente ao reembolso ou à dispensa de pagamento dos montantes cobrados ou liquidados a mais, mediante notificação ao interessado da decisão do director da alfândega.
 
-###### Art. 490.º As formalidades a que está sujeito o pedido de reembolso ou dispensa de pagamento serão as previstas nas disposições comunitárias respeitantes a esta matéria.
+Art. 490.º As formalidades a que está sujeito o pedido de reembolso ou dispensa de pagamento serão as previstas nas disposições comunitárias respeitantes a esta matéria.
 
-###### Art. 491.º A estância aduaneira onde o requerimento for apresentado procederá ao seu registo, apensará a respectiva declaração e, após parecer dos funcionários intervenientes na mesma, se ainda exercerem funções nessa estância aduaneira, remeterá esses documentos à conferência final.
+Art. 491.º A estância aduaneira onde o requerimento for apresentado procederá ao seu registo, apensará a respectiva declaração e, após parecer dos funcionários intervenientes na mesma, se ainda exercerem funções nessa estância aduaneira, remeterá esses documentos à conferência final.
 
-###### Art. 492.º A conferência final organizará o respectivo processo, registando-o em livro próprio, anotará o respectivo número na ficha de entrada e, depois de coordenados os respectivos elementos, no caso de não constar do mesmo o parecer dos funcionários intervenientes, ser-lhes-á remetido para cumprimento dessa diligência.
+Art. 492.º A conferência final organizará o respectivo processo, registando-o em livro próprio, anotará o respectivo número na ficha de entrada e, depois de coordenados os respectivos elementos, no caso de não constar do mesmo o parecer dos funcionários intervenientes, ser-lhes-á remetido para cumprimento dessa diligência.
 
 § 1.º O processo será seguidamente distribuído ao funcionário encarregado da sua conferência, o qual apresentará parecer devidamente fundamentado.
 
@@ -174,30 +183,30 @@ c) Do director-geral, no uso de competência exclusiva, nos casos especiais a qu
 
 § 3.º Quando existirem fundadas dúvidas acerca da aplicabilidade a um caso concreto do artigo 13.º do Regulamento (CEE) n.º [1430/79](http://data.europa.eu/eli/reg/1979/1430/oj?locale=pt), deverá o mesmo ser submetido à apreciação da Direcção-Geral.
 
-###### Art. 493.º O reembolso das importâncias pagas a mais será efectuado através de títulos de anulação pagáveis em dinheiro ou em cheque pelas tesourarias das sedes das alfândegas e emitidos pelo chefe do serviço onde foi instruído o respectivo processo.
+Art. 493.º O reembolso das importâncias pagas a mais será efectuado através de títulos de anulação pagáveis em dinheiro ou em cheque pelas tesourarias das sedes das alfândegas e emitidos pelo chefe do serviço onde foi instruído o respectivo processo.
 
 § único. No caso de as importâncias pagas a mais se referirem a rubricas já extintas, o reembolso far-se-á através de autorizações de pagamento dadas pela Direcção-Geral da Contabilidade Pública sobre as folhas de restituição processadas no serviço de contabilidade e pessoal da respectiva alfândega.
 
-###### Art. 494.º Nos processos de dispensa de pagamento, as declarações serão remetidas à estância aduaneira de liquidação para cumprimento da decisão da entidade competente, sendo posteriormente devolvidas à conferência final para proceder ao registo da liquidação rectificativa.
+Art. 494.º Nos processos de dispensa de pagamento, as declarações serão remetidas à estância aduaneira de liquidação para cumprimento da decisão da entidade competente, sendo posteriormente devolvidas à conferência final para proceder ao registo da liquidação rectificativa.
 
-###### Art. 495.º A remessa de documentos para o arquivo far-se-á separadamente, segundo a natureza dos documentos e a estância a que dizem respeito, e será acompanhada de relações em duplicados.
+Art. 495.º A remessa de documentos para o arquivo far-se-á separadamente, segundo a natureza dos documentos e a estância a que dizem respeito, e será acompanhada de relações em duplicados.
 
 § 1.º Os duplicados, nos quais se cobrará recibo, serão arquivados na conferência final e por eles se anotará, nas fichas de entrada, a saída dos documentos para o arquivo.
 
 § 2.º As declarações de importação e exportação e os outros documentos receitados ou liquidados serão devolvidos à estância aduaneira a que respeitam logo que os processos se encontrem ultimados.
 
-###### Art. 590.º No arquivo existente na sede das alfândegas serão guardados, conservados, arrumados e devidamente registados todos os livros, processos e documentos do expediente aduaneiro para ali remetidos das diversas estâncias aduaneiras e postos fiscais.
+Art. 590.º No arquivo existente na sede das alfândegas serão guardados, conservados, arrumados e devidamente registados todos os livros, processos e documentos do expediente aduaneiro para ali remetidos das diversas estâncias aduaneiras e postos fiscais.
 
-###### Art. 2.º São eliminados o § único do artigo 205.º, o § único do artigo 255.º e o § único do artigo 262.º do Regulamento das Alfândegas, aprovado pelo Decreto n.º 31730, de 15 de Dezembro de 1941.
+Art. 2.º São eliminados o § único do artigo 205.º, o § único do artigo 255.º e o § único do artigo 262.º do Regulamento das Alfândegas, aprovado pelo Decreto n.º 31730, de 15 de Dezembro de 1941.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 31 de Dezembro de 1987.**
+Promulgado em 31 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Dezembro de 1987.**
+Referendado em 31 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

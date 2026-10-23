@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/038a00/16251639.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/45/2005/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2005-608744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18380474a1b9e97e884274ffa60621c63b91962c1293c10375191adb8f19e8ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdf4a49894fe9614e7d3edfcc853058fcb73822a394a40e04b1ae19a76addb81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Avaliação de Conhecimentos
 - Carta de Condução
-- Exame de Condução
 - Doença Mental
 - Especificação Técnica
-- Incapacidade Psíquica
-- Veículo
-- Programa
+- Exame de Condução
 - Incapacidade Física
-- Avaliação de Conhecimentos
+- Incapacidade Psíquica
+- Programa
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:178550:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:233947:por
+  label: "Alterados os arts. 2º a 6º, 9º (este na redacção que conferiu ao Dec Lei 209/98 de 11-Jul) e 10º e a secção A do\
+    \ anexo I, todos deste diploma, pelo DEC LEI.103/2005.24.06.2005.MAI, DR.IS-A [120] de 24.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-2005-233947
+  date: '2005-06-24'
+- type: amended_by
+  target: pt:dre:493026:por
+  label: "Alterados os art.s 1º, 4º, 5º (os dois últimos na redacção do Dec Lei 103/2005, de 24-Jun) e 7º bem como os anexos\
+    \ I (na redacção do Dec Lei 103/2005, de 24-Jun) e II e republicado, pelo DEC LEI.174/2009.03.08.2009.MOPTC, DR.IS [148]\
+    \ de 03.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-2009-493026
+  date: '2009-08-03'
 - type: cites
   target: celex:31985R3820
   label: null
@@ -105,16 +118,28 @@ relationships:
   target: celex:32000L0056
   label: null
   source: http://data.europa.eu/eli/dir/2000/56/oj
+- type: repealed_by
+  target: pt:dre:483118:por
+  label: "Revogados, a partir de 25.01.2010, o art. 8.º e o anexo iii, pelo DEC LEI.313/2009.27.10.2009.MOPTC, DR.IS [208]\
+    \ de 27.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/313-2009-483118
+  date: '2009-10-27'
+- type: repealed_by
+  target: pt:dre:178550:por
+  label: "Revogada, a partir de 02.11.2012, a Port 520/98, de 14-ago, na redação do presente diploma, pelo DEC LEI.138/2012.05.07.2012.MEE,\
+    \ DR.IS [129] de 05.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-2012-178550
+  date: '2012-07-05'
 article_structure:
   article_count: 10
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:38Z'
   warnings: []
   errors: []
 ---
@@ -261,15 +286,15 @@ c) As características a que devem obedecer os parques de manobras, bem como a s
 
 Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - António Victor Martins Monteiro - Daniel Viegas Sanches - Luís Filipe da Conceição Pereira.
 
-**Promulgado em 20 de Janeiro de 2005.**
+Promulgado em 20 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Fevereiro de 2005.**
+Referendado em 2 de Fevereiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO I — Disposições relativas ao modelo comunitário de carta de condução
 
@@ -367,7 +392,7 @@ d) As informações específicas da carta emitida, constantes da página 1, nume
 
 e) A menção «modelo das Comunidades Europeias» e a menção «carta de condução» nas outras línguas da Comunidade, impressas em cor-de-rosa a fim de constituir a trama de fundo da carta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/02/038a00/16251639.pdf))](https://files.diariodarepublica.pt/1s/2005/02/038a00/16251639.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/02/038a00/16251639.pdf)
 
 f) Cores de referência:
 

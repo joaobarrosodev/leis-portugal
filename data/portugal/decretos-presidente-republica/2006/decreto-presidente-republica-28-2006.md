@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/28/2006/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/28-2006-667531
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T04:54:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b2849838e0561f6f4f25c94a384d67295d794e1720630781a9527463335b6fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98d34c61c6fa38d32631bbd7f0968f11a847928d4b7b7476e75f7f78dedae269
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:54:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,25 +72,29 @@ subjects:
 - Argélia
 - Cobrança de Impostos
 - Convenção
-- Portugal
-- Imposto sobre o Rendimento
 - Dupla Tributação
 - Evasão Fiscal
+- Imposto sobre o Rendimento
+- Portugal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/22/2006/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/22/2006/03/23/p/dre
+- type: cites
+  target: pt:dre:667528:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:54:50Z'
   warnings: []
   errors: []
 ---
@@ -99,16 +103,16 @@ validation:
 
 de 23 de Março
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificada a Convenção entre a República Portuguesa e o Governo da República Argelina Democrática e Popular para Evitar a Dupla Tributação, Prevenir a Evasão Fiscal e Estabelecer Regras de Assistência Mútua em Matéria de Cobrança de Impostos sobre o Rendimento e sobre o Património, assinada em Argel, em 2 de Dezembro de 2003, aprovada pela [Resolução da Assembleia da República n.º 22/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/22-2006-667528), em 7 de Dezembro de 2005.
 
-**Assinado em 15 de Fevereiro de 2006.**
+Assinado em 15 de Fevereiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Fevereiro de 2006.**
+Referendado em 22 de Fevereiro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

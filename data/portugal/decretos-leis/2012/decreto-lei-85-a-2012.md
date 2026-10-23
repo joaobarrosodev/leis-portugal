@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 69/2012, 1º Suplemento, Série I de 2012-04-05
   number: '69'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1762-(2) a 1762-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/04/06901/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85-a/2012/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2012-204462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d90bbc428d50724be89bd3bae75c324d421861b7dc10e9865e801426ad220512
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3f90b0dcefd0ae6507b8e83abcb00aadbe6fc6e6cde757678a7615cd4f6c7cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cálculo de Pensões
-- Reforma Antecipada
-- Pensão de Velhice
 - Desemprego
+- Pensão de Velhice
 - Reforma
+- Reforma Antecipada
 relationships:
 - type: amended_by
   target: pt:dre:117503935:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:164427:por
+  label: "Dada nova redação aos arts. 21º, 25º e 36º do Dec Lei 187/2007 de 10-mai, com as alterações constantes do presente\
+    \ diploma, pelo DEC LEI.167-E/2013.31.12.2013.MSESS, DR.IS [253-3ºSupl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-e-2013-164427
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:73803671:por
+  label: Alterado o art. 21.º do Dec Lei 187/2007, de 10-mai, na redação do presente diploma pelo(a) Decreto-Lei n.º 10/2016
+    - Diário da República n.º 47/2016, Série I de 2016-03-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2016-73803671
+  date: '2016-03-08'
+- type: amended_by
+  target: pt:dre:117503935:por
+  label: Alterados os arts. 21.º, 25.º e 36.º do Dec Lei 187/2007, de 10-mai, na redação do presente diploma pelo(a) Decreto-Lei
+    n.º 119/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2018-117503935
+  date: '2018-12-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/187/2007/05/10/p/dre
   label: null
@@ -89,16 +107,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66147743:por
+  label: Revogado pelo(a) Decreto-Lei n.º 8/2015 - Diário da República n.º 9/2015, Série I de 2015-01-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2015-66147743
+  date: '2015-01-14'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:02Z'
   warnings: []
   errors: []
 ---
@@ -141,12 +176,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de março de 2012. - Pedro Passos Coelho - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 5 de abril de 2012.**
+Promulgado em 5 de abril de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de abril de 2012.**
+Referendado em 5 de abril de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/04/095a00/24362439.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/94/2004/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2004-223254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7744a3ca319723e1289519122d31cc7b0538898ddd99aeeb2e5ef72315b62fee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9db1ea2f02f627fb5f51c633a2538c0c30f9367859d6d2919763723f640d556e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Financiamento
-- Formação Profissional
 - Comissão Nacional Especializada de Fogos Florestais
 - Direcção Geral dos Recursos Florestais
-- Proteção da Floresta
 - Exploração Florestal
+- Financiamento
+- Formação Profissional
+- Incêndio
+- Proteção da Floresta
 - Sanção
 - Sapador Florestal
 relationships:
@@ -79,6 +79,13 @@ relationships:
   target: pt:dre:608708:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:676840:por
+  label: "Alterados os arts. 1º-A, 3º, 3º-A, 5º-A, 5º-B, 7º, 8º, 10º, 11º, 12º, 13º, 13º-A, 14º, 14º-A e 15º e revogado o\
+    \ art. 16º do Dec Lei 179/99 de 21-Mai, com a redacção conferida no presente diploma, pelo DEC LEI.38/2006.20.02.2006.MADRP,\
+    \ DR.IS-A [36] de 20.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2006-676840
+  date: '2006-02-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/179/1999/05/21/p/dre
   label: null
@@ -87,16 +94,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+- type: cites
+  target: pt:dre:321574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:608708:por
+  label: "Revogado o Dec Lei 179/99, de 21-Mai, na redacção do presente diploma, sem prejuízo de, no ano de 2009, os procedimentos\
+    \ relativos à candidatura se regerem pelo diploma ora revogado, pelo DEC LEI.109/2009.15.05.2009.MADRP, DR.IS [94] de\
+    \ 15.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-2009-608708
+  date: '2009-05-15'
 article_structure:
-  article_count: 18
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:24Z'
   warnings: []
   errors: []
 ---
@@ -143,13 +165,17 @@ e) Empresas de capitais públicos.
 
 3 - As entidades referidas nas alíneas c), d) e e) do número anterior só podem candidatar-se à constituição de equipas de sapadores florestais quando proprietárias, detentoras ou gestoras de áreas florestais ou infra-estruturas florestais.
 
-###### Artigo 6.º — Área de intervenção das equipas
+Artigo 6.º
+
+Área de intervenção das equipas
 
 1 - Para cada equipa de sapadores florestais é definida uma área territorial de intervenção contínua, definida em cartografia, que não deve ser inferior a 1000 ha nem exceder a área do concelho onde se insere a equipa.
 
 2 - Em casos devidamente fundamentados, as entidades podem solicitar a alteração da sua área de intervenção, sem prejuízo do regime definido nos n.os 3 e seguintes do artigo 12.º
 
-###### Artigo 7.º — Plano de prevenção
+Artigo 7.º
+
+Plano de prevenção
 
 1 - As entidades candidatas à constituição de equipas de sapadores florestais devem elaborar um plano plurianual de prevenção a submeter à apreciação da comissão especializada de fogos florestais municipal contra incêndios.
 
@@ -157,7 +183,9 @@ e) Empresas de capitais públicos.
 
 3 - Os planos de prevenção de cada entidade devem enquadrar-se num único plano de defesa global para o município a elaborar pela respectiva comissão especializada de fogos florestais municipal, que definirá, nomeadamente, o número máximo de equipas a constituir em cada concelho.
 
-###### Artigo 8.º — Caracterização dos apoios
+Artigo 8.º
+
+Caracterização dos apoios
 
 1 - O Estado concede apoios às equipas de sapadores nas áreas da selecção, formação, equipamento e funcionamento.
 
@@ -169,7 +197,9 @@ b) Para as entidades referidas nas alíneas c), d) e e) do n.º 2 do artigo 3.º
 
 3 - Os protocolos referidos no número anterior definem os documentos necessários à instrução do processo de candidatura aos apoios referidos no n.º 1.
 
-###### Artigo 9.º — Apoios à formação
+Artigo 9.º
+
+Apoios à formação
 
 1 - Os apoios financeiros à formação profissional dos sapadores florestais estão a cargo da DGRF.
 
@@ -177,13 +207,17 @@ b) Para as entidades referidas nas alíneas c), d) e e) do n.º 2 do artigo 3.º
 
 3 - A competência para a formação de novos elementos a integrar nas equipas de sapadores florestais fica a cargo das organizações de produtores florestais, que, sob a coordenação da DGRF e sujeitas aos programas referidos no n.º 1 do artigo 5.º, beneficiam de apoios específicos para o efeito.
 
-###### Artigo 10.º — Apoios ao equipamento
+Artigo 10.º
+
+Apoios ao equipamento
 
 1 - O equipamento das equipas de sapadores florestais é definido por despacho normativo do Ministro da Agricultura, Desenvolvimento Rural e Pescas e cedido em regime de comodato às entidades referidas no n.º 2 do artigo 3.º
 
 2 - Compete às entidades comodatárias garantir a operacionalidade de todo o equipamento cedido, bem como a sua substituição, no caso de a sua perda ou deterioração lhes ser imputável, e ainda a reposição de todo o equipamento de protecção individual, sempre que este não assegure a necessária protecção ou comprometa a imagem e segurança da equipa.
 
-###### Artigo 11.º — Apoios ao funcionamento
+Artigo 11.º
+
+Apoios ao funcionamento
 
 1 - Os apoios ao funcionamento das equipas assumem a forma de subsídios a fundo perdido.
 
@@ -205,7 +239,9 @@ c) Encargos com o enquadramento técnico da equipa, desde que exercido por profi
 
 7 - Podem ainda ser atribuídos apoios adicionais, a título de prémio, às equipas que apresentem maior eficácia na prevenção aos incêndios florestais e até ao limite de (euro) 5000 por ano e por equipa, em termos a definir em despacho normativo do Ministro da Agricultura, Desenvolvimento Rural e Pescas.
 
-###### Artigo 12.º — Aprovação de candidaturas
+Artigo 12.º
+
+Aprovação de candidaturas
 
 1 - A aprovação das candidaturas é da competência do director de circunscrição florestal, após parecer emitido pelo núcleo florestal onde se integra a área de intervenção da equipa e ouvida a respectiva comissão especializada de fogos florestais municipal.
 
@@ -219,7 +255,9 @@ c) Encargos com o enquadramento técnico da equipa, desde que exercido por profi
 
 6 - A não aceitação das áreas redefinidas pelo núcleo florestal implica a não aprovação das novas candidaturas e a suspensão dos apoios financeiros às demais equipas existentes.
 
-###### Artigo 13.º — Primeira intervenção
+Artigo 13.º
+
+Primeira intervenção
 
 1 - Sempre que as equipas de sapadores florestais detectem ou sejam alertadas para a existência de um fogo nascente na sua área de intervenção, compete-lhes desencadear de imediato a primeira intervenção, dando conhecimento ao respectivo centro de prevenção e detecção (CPD).
 
@@ -229,7 +267,9 @@ c) Encargos com o enquadramento técnico da equipa, desde que exercido por profi
 
 4 - A primeira intervenção cessa com a chegada ao local da corporação de bombeiros.
 
-###### Artigo 14.º — Plano de actividades, relatório anual e auditorias
+Artigo 14.º
+
+Plano de actividades, relatório anual e auditorias
 
 1 - As entidades detentoras de equipas de sapadores florestais devem apresentar até ao dia 30 de Novembro de cada ano, no núcleo florestal respectivo, um plano de actividades para o ano seguinte, onde serão definidas, em suporte cartográfico digital, as áreas de actuação, bem como o elenco das acções a desenvolver.
 
@@ -249,7 +289,9 @@ c) Encargos com o enquadramento técnico da equipa, desde que exercido por profi
 
 9 - As auditorias realizadas nos termos do número anterior do presente artigo serão realizadas pela Agência para a Prevenção de Incêndios Florestais.
 
-###### Artigo 15.º — Extinção das equipas
+Artigo 15.º
+
+Extinção das equipas
 
 1 - As equipas podem ser extintas:
 
@@ -261,7 +303,9 @@ b) Na sequência de processo de auditoria.
 
 3 - A extinção das equipas implica a obrigação de devolução do equipamento cedido em regime de comodato.
 
-###### Artigo 16.º — Regime transitório de apoios ao funcionamento
+Artigo 16.º
+
+Regime transitório de apoios ao funcionamento
 
 1 - Para as equipas constituídas até 2003, inclusive, mantém-se, durante o ano de 2004, o montante de apoio anual ao seu funcionamento, conforme previsto na redacção inicial do n.º 2 do artigo 11.º do [Decreto-Lei n.º 179/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1999-321574), de 21 de Maio.
 
@@ -293,13 +337,17 @@ e) 'Critérios de prioridade' o conjunto de parâmetros a ter em conta para a se
 
 f) 'Requisição' o acto administrativo pelo qual a comissão especializada de fogos florestais municipal chama a participar, à sua ordem, as equipas de sapadores florestais.
 
-###### Artigo 3.º-A — Brigadas de sapadores florestais
+Artigo 3.º-A
+
+Brigadas de sapadores florestais
 
 1 - Para efeitos de maior operacionalidade e eficácia das acções de prevenção, podem ser constituídas brigadas de sapadores florestais integradas por equipas com áreas de intervenção contínuas afectas a uma ou mais entidades.
 
 2 - Sempre que as brigadas de sapadores florestais referidas no número anterior se encontrem afectas a mais de uma entidade, deverão dispor de equipamento complementar sendo a sua utilização definida em regulamento próprio aprovado pela DGRF.
 
-###### Artigo 5.º-A — Processo de candidatura
+Artigo 5.º-A
+
+Processo de candidatura
 
 1 - O processo de candidatura inicia-se com a apresentação de formulário na circunscrição florestal ou núcleo florestal da área onde se situam os espaços florestais objecto de intervenção.
 
@@ -315,7 +363,9 @@ d) Certidão que comprove que a situação contributiva e com a segurança socia
 
 3 - O período para a apresentação de candidaturas a constituir em cada ano decorre até ao fim do 1.º semestre do ano anterior.
 
-###### Artigo 5.º-B — Critérios de prioridade para a selecção das candidaturas
+Artigo 5.º-B
+
+Critérios de prioridade para a selecção das candidaturas
 
 1 - A aprovação de candidaturas obedece, nomeadamente, aos seguintes critérios de prioridade:
 
@@ -337,7 +387,9 @@ h) Área de intervenção proposta na candidatura.
 
 2 - Constitui critério de prioridade na constituição de equipas de sapadores florestais por parte das entidades referidas nas alíneas c), d) e e) do n.º 2 do artigo 3.º a utilização de pessoal dos seus quadros próprios, desde que se enquadre no perfil definido no artigo 4.º
 
-###### Artigo 13.º-A — Apoio ao combate aos incêndios
+Artigo 13.º-A
+
+Apoio ao combate aos incêndios
 
 1 - O apoio ao combate aos incêndios florestais por parte das equipas de sapadores florestais só é permitido mediante requisição da respectiva comissão especializada de fogos florestais municipal.
 
@@ -351,7 +403,9 @@ h) Área de intervenção proposta na candidatura.
 
 6 - A requisição deve ser confirmada por escrito no prazo de vinte e quatro horas e indicado o seu termo pela entidade requisitante.
 
-###### Artigo 14.º-A — Sanções por incumprimento
+Artigo 14.º-A
+
+Sanções por incumprimento
 
 1 - O não cumprimento do disposto nos n.os 1 e 5 do artigo 14.º do presente diploma, assim como a não apresentação de documentos exigidos no âmbito dos protocolos previstos no n.º 3 do artigo 8.º, suspendem o pagamento dos apoios ao funcionamento até à sua apresentação, a qual deve ocorrer no prazo de 45 dias, findo o qual as entidades apoiadas perdem o direito aos apoios.
 
@@ -363,15 +417,15 @@ h) Área de intervenção proposta na candidatura.
 
 Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 2004. - José Manuel Durão Barroso - António Jorge de Figueiredo Lopes - Armando José Cordeiro Sevinate Pinto - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 26 de Março de 2004.**
+Promulgado em 26 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Abril de 2004.**
+Referendado em 5 de Abril de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 16.º)
 

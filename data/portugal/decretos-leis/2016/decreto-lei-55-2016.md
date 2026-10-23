@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/08/16400/0296102962.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/55/2016/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2016-75207498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40a8e2d9bc0f344e72fbf0c4cd9dc7640eafb7e16c0a76944d3976348feea075
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d36923d62e31664f4dff33ae36eec79cc4630e713b433426cd86c165c90cd3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ARH do Algarve
-- Definição de Competências
+- Agência Portuguesa do Ambiente
 - ARH do Alentejo
+- ARH do Algarve
 - ARH do Centro
 - ARH do Norte
 - ARH do TEJO
+- Definição de Competências
 - Orgânica
-- Agência Portuguesa do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:204379871:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117202785:por
+  label: Alterado, a partir de 02.04.2019, o art. 3.º e revogada, a partir daquela data, a al. b) do n.º 8 do mesmo art. do
+    Dec Lei 56/2012 de 12-mar, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei n.º 108/2018 - Diário da República
+    n.º 232/2018, Série I de 2018-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
+- type: amends
+  target: pt:numero:lei:56/2012
+  label: Altera, a partir de 01.01.2017, os arts. 3.º e 4.º, revoga, a partir da mesma data, a al. i) do n.º 3 do art. 3.º
+    e altera, a partir de 27.08.2016, o n.º 5 do art. 3.º do Dec. Lei n.º 56/2012 de 12-mar DR.IS [51]
+  source: null
+  date: '2012-03-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/42-a/2016/08/12/p/dre
   label: null
@@ -104,15 +117,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/resolconsmin/45/2016/08/26/p/dre
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:20Z'
   warnings: []
   errors: []
 ---
@@ -235,7 +248,9 @@ e) Coordenar o Sistema Nacional de Políticas e Medidas e assegurar o respetivo 
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -253,12 +268,12 @@ e) Coordenar o Sistema Nacional de Políticas e Medidas e assegurar o respetivo 
 
 Visto e aprovado em Conselho de Ministros de 8 de junho de 2016. - António Luís Santos da Costa - Carolina Maria Gomes Ferra - João Pedro Soeiro de Matos Fernandes - Ana Paula Mendes Vitorino.
 
-**Promulgado em 25 de julho de 2016.**
+Promulgado em 25 de julho de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 26 de julho de 2016.**
+Referendado em 26 de julho de 2016.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.

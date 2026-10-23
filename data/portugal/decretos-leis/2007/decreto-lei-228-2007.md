@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/228/2007/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db91ca79157b1fde8609f0412edafbdba03df2a67aa898b3b1e3a43288d0afff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba2aa0efad60d541a5a8d0a5707acabc223e8189bef22d7c88a79f38f6163768
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,19 @@ relationships:
   target: pt:dre:225397113:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70128395:por
+  label: Transformada, a partir de 26.09.2015, a Câmara dos Despachantes Oficiais (constituída pelo Dec 34514 de 20-abr de
+    1945), em Ordem dos Despachantes Oficiais, e alterado, a partir daquela data, o respetivo Estatuto, aprovado e publicado
+    pelo Dec Lei 173/98 de 26-jun, com a redação e republicação do presente diploma, passando a designar-se Estatuto da Ordem
+    dos Despachantes Oficiais, pelo(a) Lei n.º 112/2015 - Diário da República n.º 167/2015, Série I de 2015-08-27, que determinou,
+    nos termos do disposto no seu art. 3.º, a sucessão pela Ordem dos Despachantes Oficiais na personalidade jurídica e nos
+    fins da Câmara dos Despachantes Oficiais, e a remissão de todas as referências legais e regulamentares à Câmara dos Despachantes
+    Oficiais ou ao Estatuto da Câmara dos Despachantes Oficiais, respetivamente, para a Ordem dos Despachantes Oficiais e
+    para o Estatuto da Ordem dos Despachantes Oficiais; assim como procedeu à republicação do citado Dec Lei 173/98, no anexo
+    II, com a redação atual e as demais correções materiais.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/112-2015-70128395
+  date: '2015-08-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/173/1998/06/26/p/dre
   label: null
@@ -88,16 +101,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53-a/2006/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53-a/2006/12/29/p/dre
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479415:por
+  label: null
+  source: null
 article_structure:
-  article_count: 140
+  article_count: 92
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:15Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +169,9 @@ Secções e delegações
 
 4 - Por deliberação do conselho directivo podem ser criadas delegações locais que exercem as funções que por este órgão sejam fixadas.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - São órgãos da CDO:
 
@@ -162,11 +189,15 @@ d) O conselho deontológico e fiscalizador.
 
 4 - (Revogado.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
 
-**O presidente da CDO, o conselho directivo e o conselho deontológico e fiscalizador respondem perante a assembleia geral.**
+[...]
 
-###### Artigo 6.º — [...]
+O presidente da CDO, o conselho directivo e o conselho deontológico e fiscalizador respondem perante a assembleia geral.
+
+Artigo 6.º
+
+[...]
 
 1 - O presidente da CDO e todos os membros dos restantes órgãos são eleitos em assembleia geral.
 
@@ -174,23 +205,31 @@ d) O conselho deontológico e fiscalizador.
 
 3 - Os membros da CDO ou os titulares dos seus órgãos que tenham sido eleitos membros de órgãos sociais de quaisquer organizações ou associações nacionais, internacionais ou comunitárias transmitem ao conselho directivo o conteúdo da sua actividade, devendo a CDO conferir-lhes meios logísticos para o exercício dos seus cargos até ao fim dos respectivos mandatos.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 Só podem ser eleitos presidente da CDO e presidentes dos restantes órgãos os despachantes oficiais com mais de cinco anos de profissão.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A mesa da assembleia geral é composta por um presidente, por um vice-presidente e por um secretário.
 
 2 - Pelo menos um dos lugares de membro da mesa da assembleia geral referidos no número anterior é preenchido por um despachante oficial inscrito na secção de Lisboa e outro por despachante oficial inscrito na secção do Porto, sendo, nos seus impedimentos e ausências, substituídos por despachantes oficiais designados pelo presidente ou eleitos pela assembleia geral.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
 2 - O presidente pode alterar a regra da alternância por motivos devidamente justificados, os quais devem constar do respectivo aviso convocatório.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 ...
 
@@ -214,7 +253,9 @@ i) Deliberar sobre qualquer assunto que se enquadre no âmbito das atribuições
 
 j) Aprovar o código deontológico da profissão, sob proposta do conselho deontológico e fiscalizador.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -222,7 +263,9 @@ j) Aprovar o código deontológico da profissão, sob proposta do conselho deont
 
 3 - Na reunião de Dezembro é submetido a aprovação o orçamento para o ano económico seguinte e, de três em três anos, tem igualmente lugar a assembleia geral para eleição dos membros dos órgãos sociais e do presidente da CDO.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -234,31 +277,41 @@ c) ...
 
 2 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - É permitida a apresentação de moções de louvor e de censura aos órgãos da CDO ou aos seus titulares, que só podem ser aceites se forem subscritas por, pelo menos, 30 despachantes oficiais presentes na assembleia, caso em que são obrigatoriamente submetidas a votação.
 
 2 - Se um órgão ou algum dos seus titulares for objecto de duas moções de censura durante o mesmo mandato, votadas favoravelmente em assembleias diferentes, todos os titulares desse órgão ou o referido titular, consoante o caso, são imediatamente destituídos com a aprovação da segunda moção.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
 2 - O mandato dos titulares dos órgãos eleitos nos termos do número anterior termina no final do mandato que se encontre em curso para os restantes órgãos.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
 2 - As deliberações relativas às matérias enunciadas nas alíneas d), e), f), g), h) e j) do artigo 14.º são aprovadas por dois terços dos votos validamente expressos pelos membros presentes, com excepção da extinção de secções, que observa o disposto no artigo 47.º
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - O conselho directivo assegura as condições materiais para o bom funcionamento das reuniões da assembleia geral.
 
 2 - ...
 
-###### Artigo 21.º — Composição do conselho directivo
+Artigo 21.º
+
+Composição do conselho directivo
 
 1 - ...
 
@@ -280,13 +333,17 @@ e) Um vogal da área da secção do Porto.
 
 5 - (Revogado.)
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - O conselho directivo reúne na sede da CDO ou onde for entendido mais conveniente.
 
 2 - (Revogado.)
 
-###### Artigo 23.º — Competências do conselho directivo
+Artigo 23.º
+
+Competências do conselho directivo
 
 1 - Ao conselho directivo compete:
 
@@ -342,7 +399,9 @@ ab) Aprovar o pacto social das sociedades de despachantes oficiais ou a sua alte
 
 2 - Decorridos 30 dias sobre a data de apresentação do projecto a que se refere a alínea ab) do número anterior, considera-se para todos os efeitos como aprovado o pacto social ou a sua alteração.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - O conselho directivo reúne por iniciativa do presidente da CDO ou de dois membros deste conselho.
 
@@ -350,7 +409,9 @@ ab) Aprovar o pacto social das sociedades de despachantes oficiais ou a sua alte
 
 3 - O conselho directivo delibera validamente com os votos favoráveis da maioria simples dos seus membros presentes.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - O conselho deontológico e fiscalizador funciona na sede da CDO e é composto por:
 
@@ -368,7 +429,9 @@ e) Um vogal da área da secção do Porto.
 
 3 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Ao conselho deontológico e fiscalizador compete:
 
@@ -400,19 +463,25 @@ m) Elaborar o seu regulamento interno.
 
 3 - O conselho deontológico e fiscalizador pode fazer-se representar por um dos seus membros nas reuniões do conselho directivo, sem direito a voto.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - No exercício das suas competências deontológicas, o conselho deontológico e fiscalizador reúne com a periodicidade que julgar necessária, devendo reunir, para o exercício das suas competências de fiscalização, pelo menos, uma vez em cada trimestre.
 
 2 - O conselho pode delegar, caso a caso, em qualquer dos seus membros as suas competências, com excepção da prevista na alínea g) do n.º 1 do artigo anterior.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - As eleições fazem-se por escrutínio secreto.
 
 2 - O presidente da mesa da assembleia geral deve convidar um representante de cada lista para acompanhar e fiscalizar os trabalhos da assembleia eleitoral.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - Só são admitidas a sufrágio as listas apresentadas até 30 dias antes da data das eleições e desde que subscritas por um mínimo de 30 despachantes oficiais.
 
@@ -424,11 +493,15 @@ m) Elaborar o seu regulamento interno.
 
 5 - Os proponentes das listas não podem ser candidatos nas listas que subscrevem.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 Os titulares dos órgãos sociais da CDO mantêm-se em funções de gestão após o termo dos respectivos mandatos e até à posse dos novos titulares, a qual se deve dar no prazo máximo de 30 dias após o apuramento dos resultados eleitorais.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - O voto pode ser exercido presencialmente, por correspondência ou por via electrónica.
 
@@ -444,7 +517,9 @@ Os titulares dos órgãos sociais da CDO mantêm-se em funções de gestão apó
 
 7 - O voto pode ainda ser exercido por via electrónica nas condições que a assembleia geral definir.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -454,13 +529,17 @@ Os titulares dos órgãos sociais da CDO mantêm-se em funções de gestão apó
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - O património da CDO é administrado pelo conselho directivo.
 
 2 - ...
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 -(Revogado.)
 
@@ -474,7 +553,9 @@ Os titulares dos órgãos sociais da CDO mantêm-se em funções de gestão apó
 
 6 - (Revogado.)
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 ...
 
@@ -498,21 +579,29 @@ i) [Anterior alínea g).]
 
 j) [Anterior alínea h).]
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 Nenhuma despesa ou movimentação de conta pode ser efectuada sem a assinatura do presidente da CDO e do tesoureiro do conselho directivo.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 As despesas de viagem, respectivos seguros, estadas e ajudas de custo atribuídas para refeições e deslocações, efectuadas pelos titulares dos órgãos sociais no desempenho das suas funções, são suportadas pelo orçamento da CDO.
 
-###### Artigo 53.º — Anualidade
+Artigo 53.º
+
+Anualidade
 
 1 - O orçamento e as contas da CDO são elaborados em correspondência com o ano civil e em conformidade com o Plano Oficial de Contabilidade.
 
 2 - (Revogado.)
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -526,7 +615,9 @@ As despesas de viagem, respectivos seguros, estadas e ajudas de custo atribuída
 
 6 - O conselho directivo elabora anualmente o regulamento de execução financeira.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - O conselho directivo elabora até 15 de Novembro de cada ano o respectivo projecto de orçamento contendo a previsão de receitas e despesas para o ano seguinte.
 
@@ -534,7 +625,9 @@ As despesas de viagem, respectivos seguros, estadas e ajudas de custo atribuída
 
 3 - (Revogado.)
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 O projecto de orçamento deve conter em anexo os seguintes documentos:
 
@@ -544,7 +637,9 @@ b) ...
 
 c) Parecer do conselho deontológico e fiscalizador.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - ...
 
@@ -558,7 +653,9 @@ a) ...
 
 b) O relatório do conselho deontológico e fiscalizador.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 ...
 
@@ -582,7 +679,9 @@ i) ...
 
 j) ...
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
@@ -616,7 +715,9 @@ m) ...
 
 4 - O incumprimento do dever previsto na alínea b) do n.º 1 considera-se verificado no termo do prazo de pagamento previsto no n.º 2.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - O processo disciplinar é instaurado pelo conselho deontológico e fiscalizador, por sua iniciativa ou mediante participação de outro órgão da CDO, da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC) ou de qualquer interessado.
 
@@ -624,7 +725,9 @@ m) ...
 
 3 - ...
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - ...
 
@@ -654,13 +757,17 @@ f) ...
 
 8 - As penas previstas nas alíneas d), e) e f) devem ser comunicadas à DGAIEC e publicadas no boletim da CDO, sendo as restantes objecto de circular nacional.
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - ...
 
 2 - Não sendo proferido despacho de acusação, o relator apresenta o parecer na primeira reunião do conselho deontológico e fiscalizador, a fim de ser deliberado o arquivamento do processo ou determinado que este prossiga com a realização de diligências suplementares ou com o despacho de acusação, podendo neste último caso ser designado novo relator.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - Finda a instrução, o processo é presente ao conselho deontológico e fiscalizador para julgamento, sendo lavrado e assinado o respectivo acórdão.
 
@@ -668,7 +775,9 @@ f) ...
 
 3 - (Revogado.)
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - ...
 
@@ -676,7 +785,9 @@ f) ...
 
 3 - ...
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - Compete ao conselho directivo executar as decisões disciplinares.
 
@@ -686,7 +797,9 @@ f) ...
 
 4 - ...
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - ...
 
@@ -712,21 +825,29 @@ d) Representar a CDO em juízo e fora dele e obrigá-la em todos os actos e cont
 
 2 - O presidente da CDO pode delegar os seus poderes em qualquer membro do conselho directivo e é substituído, nas suas ausências ou impedimentos, pelo vice-presidente para o efeito designado por si ou pelo conselho directivo.
 
-###### Artigo 39.º-A — Gestão das secções
+Artigo 39.º-A
+
+Gestão das secções
 
 As secções são geridas pelo conselho directivo através dos seus membros pertencentes às respectivas áreas geográficas.
 
-###### Artigo 39.º-B — Instalações
+Artigo 39.º-B
+
+Instalações
 
 A secção de Lisboa funciona na sede da CDO e a secção do Porto funciona no Edifício Freixieiro, Perafita, em fracção pertencente à CDO.
 
-###### Artigo 39.º-C — Funções
+Artigo 39.º-C
+
+Funções
 
 1 - Os membros do conselho directivo pertencentes a cada secção actuam em todas as matérias que lhes sejam delegadas pelo conselho directivo, considerando-se desde já delegadas as questões de âmbito meramente regional.
 
 2 - Em caso de dúvida sobre o âmbito das matérias referidas no número anterior, cabe ao conselho directivo a sua definição.
 
-###### Artigo 39.º-D — Director executivo
+Artigo 39.º-D
+
+Director executivo
 
 Ao director executivo, sob a direcção do conselho directivo, incumbe:
 
@@ -776,15 +897,15 @@ São revogados os n.os 2, 3 e 4 do artigo 4.º, a alínea b) do n.º 1 do artigo
 
 Visto e aprovado em Conselho de Ministros de 22 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 24 de Maio de 2007.**
+Promulgado em 24 de Maio de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 25 de Maio de 2007.**
+Referendado em 25 de Maio de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — ESTATUTO DA CÂMARA DOS DESPACHANTES OFICIAIS
 
@@ -852,7 +973,7 @@ d) O conselho deontológico e fiscalizador.
 
 ###### Artigo 5.º — Responsabilidade dos órgãos
 
-**O presidente da CDO, o conselho directivo e o conselho deontológico e fiscalizador respondem perante a assembleia geral.**
+O presidente da CDO, o conselho directivo e o conselho deontológico e fiscalizador respondem perante a assembleia geral.
 
 ###### Artigo 6.º — Eleição e duração dos mandatos
 

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 198/1986, 1º Suplemento, Série I de 1986-08-29
   number: '198'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2274-(4) a 2274-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/08/19801/00040005.pdf
 entry_into_force_dates: []
@@ -46,36 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/77-a-1986-656598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T07:36:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97bf27f6881029eba973aa5f479d60a694edd30bc4c2c6c055857f05a0020032
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0f6481caeebfb27a80604a2727a1fab2acacdaa64c6fd98f9a84ab103bd4105
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:36:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ave
+- Contingentação
+- Importação
+- Produção Animal
+relationships:
+- type: cites
+  target: pt:dre:214005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245111:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:477590:por
+  label: Rectificado pela DECL.DD4522.08.10.1986.PCM, DR.IS [252]3ºSupl de 31.10.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-477590
+  date: '1986-10-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:36:22Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +121,11 @@ Assim, no âmbito da Organização dos Mercados das Aves e dos Ovos e ao abrigo 
 
 1 - Os montantes dos contingentes de importação relativos aos reprodutores avícolas para o período compreendido entre 1 de Março e 31 de Dezembro de 1986 são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19801/00040005.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19801/00040005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19801/00040005.pdf)
 
 2 - Os montantes dos contingentes de importação para os restantes produtos do sector avícola, sujeitos a contingentação para o período compreendido entre 1 de Outubro e 31 de Dezembro, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19801/00040005.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19801/00040005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19801/00040005.pdf)
 
 3 - Os quantitativos dos produtos referidos no n.º 1 já distribuídos serão descontados aos agentes económicos já contemplados ao abrigo dos Despachos Normativos n.os [17-D/86](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-d-1986-245111) e [52/86](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/52-1986-228617).
 

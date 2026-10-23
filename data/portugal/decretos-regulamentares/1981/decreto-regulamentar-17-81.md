@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1981-394924
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:03:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b1cc1d03838ed575cbc9dd6ce93250e48d17d0ad1958f6dc66f04b02ffdb3fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a0ecb801e0ad23e47eb5be73bedfaf95125b29602e3b18bf5271d74c1a38540
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:03:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contribuições da Segurança Social
+- Segurança Social
+- Serviço Militar
+relationships:
+- type: cites
+  target: pt:dre:536415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:03:37Z'
   warnings: []
   errors: []
 ---
@@ -113,28 +124,28 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Aos beneficiários de esquemas contributivos da segurança social, activos ou pensionistas, que à data da prestação do serviço militar não preenchiam ou não preencham o condicionalismo previsto no artigo 24.º, n.º 1, alínea d), do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, e àqueles que na mesma data não se encontravam ou não se encontrem abrangidos por um tal esquema, mas vieram ou venham a sê-lo posteriormente, é concedida equivalência a período com entrada de contribuições na segurança social pelo tempo de serviço militar obrigatório prestado posteriormente a 16 de Outubro de 1935.
+Artigo 1.º Aos beneficiários de esquemas contributivos da segurança social, activos ou pensionistas, que à data da prestação do serviço militar não preenchiam ou não preencham o condicionalismo previsto no artigo 24.º, n.º 1, alínea d), do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, e àqueles que na mesma data não se encontravam ou não se encontrem abrangidos por um tal esquema, mas vieram ou venham a sê-lo posteriormente, é concedida equivalência a período com entrada de contribuições na segurança social pelo tempo de serviço militar obrigatório prestado posteriormente a 16 de Outubro de 1935.
 
-###### Art. 2.º Exclui-se do âmbito deste diploma, não podendo ser considerado equivalente a período com entrada de contribuições, o tempo de prestação de serviço militar que seja contado para efeito de aposentação pela Caixa Geral de Aposentações.
+Art. 2.º Exclui-se do âmbito deste diploma, não podendo ser considerado equivalente a período com entrada de contribuições, o tempo de prestação de serviço militar que seja contado para efeito de aposentação pela Caixa Geral de Aposentações.
 
-###### Art. 3.º A equivalência produz efeitos apenas no quantitativo das pensões de invalidez, velhice e sobrevivência, não dispensando o preenchimento efectivo dos respectivos prazos de garantia.
+Art. 3.º A equivalência produz efeitos apenas no quantitativo das pensões de invalidez, velhice e sobrevivência, não dispensando o preenchimento efectivo dos respectivos prazos de garantia.
 
-###### Art. 4.º - 1 - A equivalência deve ser requerida pelo interessado até à data em que for requerida a pensão relativamente à qual se pretenda que a equivalência produza efeitos.
+Art. 4.º - 1 - A equivalência deve ser requerida pelo interessado até à data em que for requerida a pensão relativamente à qual se pretenda que a equivalência produza efeitos.
 
 2 - Os pensionistas e os que, embora ainda não o sejam, tenham já requerido pensão à data da entrada em vigor do presente diploma devem, porém, requerer a equivalência no prazo de seis meses contados da data da entrada em vigor deste diploma, produzindo a mesma efeitos a partir do mês seguinte.
 
 3 - O requerimento deve ser instruído com documento comprovativo do serviço militar prestado e com declaração do requerente de que, relativamente ao mesmo tempo, não foi pedida contagem para a Caixa Geral de Aposentações e de que se obriga a fazer a respectiva comunicação ao serviço ou instituições de segurança social competentes se posteriormente tal contagem vier a ser requerida.
 
-###### Art. 5.º Independentemente do procedimento penal a que derem lugar, as declarações falsas, bem como a omissão de declarações obrigatórias, serão punidas com a sanção cominada na alínea d) do n.º 1 do artigo 179.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, com os efeitos previstos no n.º 4 da mesma disposição legal.
+Art. 5.º Independentemente do procedimento penal a que derem lugar, as declarações falsas, bem como a omissão de declarações obrigatórias, serão punidas com a sanção cominada na alínea d) do n.º 1 do artigo 179.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, com os efeitos previstos no n.º 4 da mesma disposição legal.
 
-###### Art. 6.º As dúvidas suscitadas na execução do presente diploma serão resolvidas por despacho do Ministro dos Assuntos Sociais.
+Art. 6.º As dúvidas suscitadas na execução do presente diploma serão resolvidas por despacho do Ministro dos Assuntos Sociais.
 
-###### Art. 7.º O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+Art. 7.º O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
 Francisco José Pereira Pinto Balsemão - Carlos Matos Chaves de Macedo.
 
-**Promulgado em 13 de Abril de 1981.**
+Promulgado em 13 de Abril de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

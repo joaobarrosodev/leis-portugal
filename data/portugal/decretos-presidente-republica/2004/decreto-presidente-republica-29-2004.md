@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/29/2004/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/29-2004-276783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T04:47:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48ff26a4d42a44970424aacba1de3a12a898d62fbe34a2b63c44d308e9304231
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49a8e5ba305a91ba5d8b5b109ef033a6f7f3cb2d0f5c729ee93ad75d218d97c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:47:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,33 +69,37 @@ reuse:
 subjects:
 - Agente Aduaneiro
 - Assistência Mútua
+- Bruxelas
 - CE Países
 - Circulação de Capitais
+- Circulação de Mercadorias
+- Comércio
 - Comunidade Europeia
+- Confidencialidade
 - Convenção
 - Cooperação Aduaneira
 - Cooperação Transfronteira
-- Portugal
-- Circulação de Mercadorias
-- Confidencialidade
 - Dados Pessoais
-- Comércio
-- Bruxelas
+- Portugal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/45/2004/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/45/2004/06/25/p/dre
+- type: cites
+  target: pt:dre:276779:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:47:29Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +108,7 @@ validation:
 
 de 25 de Junho
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 ###### Artigo 1.º
 
@@ -126,12 +130,12 @@ b) Para o efeito, segundo as regras previstas na alínea b) do n.º 5 do artigo 
 
 3 - Nos termos do n.º 4 do artigo 32.º, a República Portuguesa declara que a presente Convenção, com excepção do seu artigo 26.º, é aplicável nas suas relações com os Estados membros que tiverem formulado a mesma declaração.
 
-**Assinado em 7 de Junho de 2004.**
+Assinado em 7 de Junho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Junho de 2004.**
+Referendado em 14 de Junho de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

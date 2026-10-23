@@ -47,36 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/471-1982-392824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T07:17:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba278bd4bc6857a06d17a7d8ad3e41b2b28d7d9c514c521795cece32d76ee659
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57a840a56108ca84f7ea1e764bc7f1f526e386d4288bbf480a5c7a92cec00ebf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:17:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Concurso de Habilitação
+- Formas de Provimento
+- Função Pública
+- Ministério da Habitação Obras Públicas e Transportes
+- Quadro de Pessoal
+- Regime de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574675:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:17:24Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +119,19 @@ Regulamento dos Concursos Documentais
 
 ### CAPÍTULO I — Âmbito de aplicação e generalidades
 
-###### Artigo 1.º O presente Regulamento aplica-se aos concursos documentais a realizar no âmbito dos serviços abrangidos pelo regime do pessoal aprovado pelo [Decreto-Lei n.º 183/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1980-474753), de 4 de Junho.
+Artigo 1.º O presente Regulamento aplica-se aos concursos documentais a realizar no âmbito dos serviços abrangidos pelo regime do pessoal aprovado pelo [Decreto-Lei n.º 183/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1980-474753), de 4 de Junho.
 
-###### Art. 2.º A abertura dos concursos documentais depende de autorização ministerial, sob proposta dos órgãos dirigentes dos serviços a que se refere o artigo 1.º em cujos quadros de pessoal existam ou venham a existir vagas a preencher, devendo os de admissão satisfazer os condicionalismos legais vigentes em matéria de recrutamento de pessoal.
+Art. 2.º A abertura dos concursos documentais depende de autorização ministerial, sob proposta dos órgãos dirigentes dos serviços a que se refere o artigo 1.º em cujos quadros de pessoal existam ou venham a existir vagas a preencher, devendo os de admissão satisfazer os condicionalismos legais vigentes em matéria de recrutamento de pessoal.
 
-###### Art. 3.º Os concursos serão abertos, pelo prazo mínimo de 30 dias, através de anúncios publicados no Diário da República e, quando se trate de concursos de admissão, pelo menos em 2 jornais diários de grande divulgação.
+Art. 3.º Os concursos serão abertos, pelo prazo mínimo de 30 dias, através de anúncios publicados no Diário da República e, quando se trate de concursos de admissão, pelo menos em 2 jornais diários de grande divulgação.
 
-###### Art. 4.º - 1 - Dos avisos de abertura dos concursos constarão os elementos indicados nos n.os 2 e 3 do artigo 106.º do citado Regime do Pessoal, bem como dos artigos 15.º e 16.º do [Decreto-Lei n.º 140/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675), de 30 de Maio, com a nova redacção dada pelo [Decreto-Lei n.º 285/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1981-561660), de 9 de Outubro, quando tal se aplicar.
+Art. 4.º - 1 - Dos avisos de abertura dos concursos constarão os elementos indicados nos n.os 2 e 3 do artigo 106.º do citado Regime do Pessoal, bem como dos artigos 15.º e 16.º do [Decreto-Lei n.º 140/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675), de 30 de Maio, com a nova redacção dada pelo [Decreto-Lei n.º 285/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1981-561660), de 9 de Outubro, quando tal se aplicar.
 
 2 - Dos mesmos avisos deverão igualmente constar o conteúdo funcional dos lugares a preencher, quando se entenda necessário, o Diário da República onde foi publicado este Regulamento e outras informações julgadas convenientes.
 
 3 - Sempre que, para preenchimento de vagas em lugares de acesso, se admita a redução do tempo de permanência na categoria imediatamente inferior, ao abrigo do n.º 2 do artigo 10.º do mesmo Regime do Pessoal, deverá essa faculdade ficar expressamente consignada no aviso de abertura do concurso.
 
-###### Art. 5.º - 1 - Juntamente com o requerimento de admissão ao concurso, os candidatos deverão apresentar:
+Art. 5.º - 1 - Juntamente com o requerimento de admissão ao concurso, os candidatos deverão apresentar:
 
 A) Para os concursos de admissão, documentos comprovativos:
 
@@ -131,11 +157,11 @@ b) Quaisquer documentos comprovativos de preparação especial que entendam ser 
 
 4 - Os funcionários referidos no número anterior poderão optar pela sua exclusão do concurso mediante declaração expressa apresentada ao órgão dirigente do respectivo serviço dentro do prazo de 10 dias úteis após a publicação do aviso.
 
-###### Art. 6.º Os processos dos concursos serão organizados pela unidade orgânica que tiver a seu cargo o serviço de pessoal, a qual igualmente deve prestar todo o apoio técnico e administrativo aos júris dos concursos.
+Art. 6.º Os processos dos concursos serão organizados pela unidade orgânica que tiver a seu cargo o serviço de pessoal, a qual igualmente deve prestar todo o apoio técnico e administrativo aos júris dos concursos.
 
 ### CAPÍTULO II — Dos júris
 
-###### Art. 7.º - 1 - O júri dos concursos será designado por despacho ministerial, sob proposta dos órgãos dirigentes dos respectivos serviços, sendo constituído por 1 presidente e por 2 a 4 vogais.
+Art. 7.º - 1 - O júri dos concursos será designado por despacho ministerial, sob proposta dos órgãos dirigentes dos respectivos serviços, sendo constituído por 1 presidente e por 2 a 4 vogais.
 
 2 - O presidente será o dirigente máximo do respectivo serviço, podendo delegar aquela qualidade em funcionário do mesmo organismo de categoria não inferior a chefe de repartição.
 
@@ -143,13 +169,13 @@ b) Quaisquer documentos comprovativos de preparação especial que entendam ser 
 
 4 - Os membros do júri não poderão ser de categoria inferior à dos lugares a que os concursos digam respeito.
 
-###### Art. 8.º - 1 - O júri só poderá deliberar quando estiverem presentes todos os seus membros, sendo as deliberações tomadas por maioria de votos, tendo o presidente voto de qualidade.
+Art. 8.º - 1 - O júri só poderá deliberar quando estiverem presentes todos os seus membros, sendo as deliberações tomadas por maioria de votos, tendo o presidente voto de qualidade.
 
 2 - Das reuniões do júri serão lavradas actas.
 
 ### CAPÍTULO III — Admissão aos concursos e organização das listas
 
-###### Art. 9.º - 1 - Terminado o prazo de abertura do concurso, o júri reunirá no prazo máximo de 15 dias para início da verificação dos processos e das condições de admissibilidade dos candidatos.
+Art. 9.º - 1 - Terminado o prazo de abertura do concurso, o júri reunirá no prazo máximo de 15 dias para início da verificação dos processos e das condições de admissibilidade dos candidatos.
 
 2 - Completadas as operações descritas no número anterior, o júri elaborará e fará publicar no Diário da República a lista provisória dos candidatos admitidos e dos excluídos, dela devendo constar os motivos das exclusões.
 
@@ -159,7 +185,7 @@ b) Quaisquer documentos comprovativos de preparação especial que entendam ser 
 
 ### CAPÍTULO IV — Da classificação dos candidatos e dos recursos
 
-###### Art. 10.º - 1 - Na apreciação dos candidatos, independentemente da consideração de outros factores previstos em regulamentação especial ou em despacho ministerial e indicados no aviso de abertura do concurso, o júri terá particularmente em conta os seguintes elementos:
+Art. 10.º - 1 - Na apreciação dos candidatos, independentemente da consideração de outros factores previstos em regulamentação especial ou em despacho ministerial e indicados no aviso de abertura do concurso, o júri terá particularmente em conta os seguintes elementos:
 
 a) Currículo do candidato, incluindo a consideração de habilitações profissionais que se contenham dentro da linha de formação das exigidas para o respectivo concurso;
 
@@ -215,7 +241,7 @@ b) Quando a entidade responsável for um dos serviços referidos no artigo 1.º,
 
 7 - Serão reprovados os candidatos que obtiverem classificação final inferior a 10 valores.
 
-###### Art. 11.º - 1 - Nos concursos de admissão, em que não se aplica a fórmula indicada no n.º 4 do artigo 10.º, o júri terá particularmente em conta o grau de preparação especializada dos candidatos avaliada através dos seguintes elementos:
+Art. 11.º - 1 - Nos concursos de admissão, em que não se aplica a fórmula indicada no n.º 4 do artigo 10.º, o júri terá particularmente em conta o grau de preparação especializada dos candidatos avaliada através dos seguintes elementos:
 
 a) Currículo, compreendendo a avaliação dos seguintes elementos relacionados com o cargo a prover:
 
@@ -245,13 +271,13 @@ b) Prestar serviço em qualquer dos organismos referidos no artigo 1.º;
 
 c) Prestar serviço em qualquer outro organismo do Estado.
 
-###### Art. 12.º Nos concursos de promoção, em caso de igualdade de classificação, constituem factores de preferência, por ordem sucessiva:
+Art. 12.º Nos concursos de promoção, em caso de igualdade de classificação, constituem factores de preferência, por ordem sucessiva:
 
 a) O que tiver melhores habilitações de interesse para o lugar a prover;
 
 b) O que tiver idade mais avançada.
 
-###### Art. 13.º - 1 - A acta final do júri, contendo a classificação dos candidatos, será submetida a homologação do órgão dirigente do respectivo serviço.
+Art. 13.º - 1 - A acta final do júri, contendo a classificação dos candidatos, será submetida a homologação do órgão dirigente do respectivo serviço.
 
 2 - A relação dos candidatos aprovados, com as respectivas classificações, será remetida para publicação no Diário da República nos 8 dias seguintes ao da homologação da acta, e dela cabe recurso para o Ministro da Habitação, Obras Públicas e Transportes, no prazo de 10 dias, a contar da sua publicação.
 
@@ -259,11 +285,11 @@ b) O que tiver idade mais avançada.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 14.º O presente Regulamento tem carácter experimental durante os dois primeiros anos, podendo, contudo, ser revisto a qualquer momento, se a sua execução assim o aconselhar.
+Art. 14.º O presente Regulamento tem carácter experimental durante os dois primeiros anos, podendo, contudo, ser revisto a qualquer momento, se a sua execução assim o aconselhar.
 
-###### Art. 15.º O disposto no presente Regulamento não prejudica a aplicação das disposições que vierem a ser estabelecidas no diploma a emitir ao abrigo do artigo 3.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, em matéria de recrutamento e selecção.
+Art. 15.º O disposto no presente Regulamento não prejudica a aplicação das disposições que vierem a ser estabelecidas no diploma a emitir ao abrigo do artigo 3.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, em matéria de recrutamento e selecção.
 
-###### Art. 16.º As dúvidas que surgirem na aplicação do presente Regulamento serão resolvidas por despacho dos Ministros da Habitação, Obras Públicas e Transportes e da Reforma Administrativa.
+Art. 16.º As dúvidas que surgirem na aplicação do presente Regulamento serão resolvidas por despacho dos Ministros da Habitação, Obras Públicas e Transportes e da Reforma Administrativa.
 
 Ministérios da Habitação, Obras Públicas e Transportes e da Reforma Administrativa, 16 de Abril de 1982. - O Ministro da Habitação, Obras Públicas e Transportes, José Carlos Pinto Soromenho Viana Baptista. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
 
@@ -283,4 +309,4 @@ E = Frequência de cursos e ou estágios;
 
 N = Classificação de serviço.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/05/10300/11491152.pdf))](https://files.diariodarepublica.pt/1s/1982/05/10300/11491152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/05/10300/11491152.pdf)

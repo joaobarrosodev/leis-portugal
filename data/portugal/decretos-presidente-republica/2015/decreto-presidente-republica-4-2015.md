@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/01/00200/0001200012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/4/2015/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/4-2015-66023088
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T05:23:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e89ea1d6ddfc0f99f656f5438e89aa489911125048a6d566d3176ed40ac02162
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4225ce758a78d0ba447cb06b6ef1ac767b38576f16fdcf012aeb8ea6b2ee870
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:23:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,28 @@ reuse:
 subjects:
 - Atenas
 - Embaixador
-- Nomeação
 - Grécia
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:127764902:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:127764902:por
+  label: Exonerado pelo(a) Decreto do Presidente da República n.º 3/2020 - Diário da República n.º 3/2020, Série I de 2020-01-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/3-2020-127764902
+  date: '2020-01-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:23:19Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +98,16 @@ validation:
 
 de 5 de janeiro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a) da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a) da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o ministro plenipotenciário de 1.ª classe Rui Alberto Manuppella Tereno para o cargo de Embaixador de Portugal em Atenas.
 
-**Assinado em 15 de dezembro de 2014.**
+Assinado em 15 de dezembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de dezembro de 2014.**
+Referendado em 23 de dezembro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho. - O Ministro de Estado e dos Negócios Estrangeiros, Rui Manuel Parente Chancerelle de Machete.**
+O Primeiro-Ministro, Pedro Passos Coelho. - O Ministro de Estado e dos Negócios Estrangeiros, Rui Manuel Parente Chancerelle de Machete.

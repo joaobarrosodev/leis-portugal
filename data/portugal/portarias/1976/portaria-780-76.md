@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/780-1976-416448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T05:12:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 261f6ac9095525fc0678f644317de534de3de3947a2c0fd826c8a69abd5d3a7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f7775a91d5f2772eba4f5e0fddbf5c08d8fb99d8bb889ef1f058fa0e0ad3e76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:12:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Enfermagem
+- Gestão de Recursos Humanos
+- Integração de Trabalhadores
+- Lisboa
+- Pessoal de Enfermagem
+- Quadro de Pessoal
+- Santa Casa da Misericórdia
 relationships:
 - type: amended_by
   target: pt:dre:579298:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:425550:por
+  label: Alterado o n.º 4 (na redação que conferiu à Port 690/74 de 24-out) pelo(a) Portaria n.º 227/78 - Diário da República
+    n.º 94/1978, Série I de 1978-04-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/227-1978-425550
+  date: '1978-04-22'
+- type: cites
+  target: pt:dre:160280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:12:56Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +136,7 @@ Manda o Governo da República Portuguesa, pelo Ministro dos Assuntos Sociais, o 
 
 1. Os grupos 1.5 - De enfermagem, 1. 11 - De ensino na escola de reabilitação e 4 - Lugares a extinguir, quando vagarem, do quadro aprovado pela [Portaria n.º 690/74](https://diariodarepublica.pt/dr/detalhe/portaria/690-1974-472275), de 24 de Outubro, passam a ter a composição seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30300/28982900.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30300/28982900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30300/28982900.pdf)
 
 2. Os enfermeiros de 3.ª classe que, à data da publicação do [Decreto n.º 534/76](https://diariodarepublica.pt/dr/detalhe/decreto/534-1976-431440), estavam habilitados com o curso de promoção referido no n.º 1 do artigo 4.º do [Decreto-Lei n.º 440/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1974-473758), de 11 de Setembro, serão colocados em lugares desta categoria, com efeitos reportados a 1 de Setembro do ano em curso.
 

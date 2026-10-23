@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/208/2004/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9a2bb86db199ae963b6cc4a1e77a7551d80e99052c5beb0e2b8878466c90786
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b820d4796617584287faf430428679c2a8bb99ad74b4ac01ff37450f2b5503e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,37 +68,37 @@ reuse:
 subjects:
 - Aeronave com Motor
 - Aeroporto
-- Contrato de Seguro
 - Assistência em Escala
+- Aviação Civil
 - Avião
-- Titulo de Transporte
-- Multa
 - Companhia Aérea
-- Transporte Aéreo
 - Contra-ordenação
+- Contrato de Seguro
 - Controlo Técnico
-- Instituto Nacional de Aviação Civil
 - Fabrico Industrial
-- Seguro
+- Horário de Trabalho
+- Instituto Nacional de Aviação Civil
+- Licença de Pilotagem
 - Licenciamento
+- Multa
 - Normas de Segurança
 - Operador de Trabalho Aéreo
 - Operador de Transporte Aéreo
 - Pessoal Navegante
-- Licença de Pilotagem
+- Poluição Sonora
 - Preço
-- Serviço Público
 - Prestação de Serviços
 - Qualificação Profissional
-- Aviação Civil
-- Horário de Trabalho
-- Poluição Sonora
 - Sanção
 - Segurança Aérea
+- Seguro
+- Serviço Público
 - Subsídio
 - Taxa Aeroportuária
+- Titulo de Transporte
 - Trabalho Aéreo
 - Tráfego Aéreo
+- Transporte Aéreo
 - Transporte de Passageiros
 - Transporte Internacional
 - Tripulação
@@ -107,6 +107,19 @@ relationships:
   target: pt:dre:259949:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:543877:por
+  label: "Alterados os arts. 33.º e 35.º do Dec Lei 275/99, de 23-jul, na redação do presente diploma, pelo DEC LEI.19/2012.27.01.2012.MEE,\
+    \ DR.IS [20] de 27.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-2012-543877
+  date: '2012-01-27'
+- type: amended_by
+  target: pt:dre:259949:por
+  label: "Mantido em vigor o regime sancionatório relativo ao tempo de serviço de voo e repouso dos pilotos de aeronaves a\
+    \ operar em trabalho aéreo, constante do Dec Lei 152/2000 de 21-jul, alterado pelo presente diploma, pelo DEC LEI.44/2013.02.04.2013.MEE,\
+    \ DR.IS [64] de 02.04.2013, até à aprovação do diploma legal mencionado no no 3 do seu art. 20º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2013-259949
+  date: '2013-04-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-le
   label: null
@@ -147,16 +160,177 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/109/2001/12/24/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/109/2001/12/24/p/dre
+- type: cites
+  target: pt:dre:158618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674434:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:218363:por
+  label: "Revogada a redacção conferida ao Dec Lei 71/90 de 02-Mar, por força da revogação daquele diploma, pelo DEC LEI.238/2004.18.12.2004.MOPTC,\
+    \ DR.IS-A [295] de 18.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-2004-218363
+  date: '2004-12-18'
+- type: repealed_by
+  target: pt:dre:456225:por
+  label: "Revogado o art. 15º pelo DEC LEI.109/2008.26.06.2008.MOPTC, DR.IS [122] de 26.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-2008-456225
+  date: '2008-06-26'
+- type: repealed_by
+  target: pt:dre:177806:por
+  label: "Revogado o Dec Lei 66/92, de 23-abr, na redação do presente diploma, pelo DEC LEI.116/2012.29.05.2012.MEE, DR.IS\
+    \ [104] de 29.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2012-177806
+  date: '2012-05-29'
+- type: repealed_by
+  target: pt:dre:190615:por
+  label: "Revogado o Dec Lei 102/91, de 08-mar, na redação do presente diploma e do Dec Lei 11/2004, de 09-jan, pelo DEC LEI.254/2012.28.11.2012.MEE,\
+    \ DR.IS [230] de 28.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2012-190615
+  date: '2012-11-28'
+- type: repealed_by
+  target: pt:dre:259949:por
+  label: "Revogado, a partir de 03.04.2013, o Dec Lei 172/93 de 11-mai, alterado pelo presente diploma, pelo DEC LEI.44/2013.02.04.2013.MEE,\
+    \ DR.IS [64] de 02.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2013-259949
+  date: '2013-04-02'
 article_structure:
-  article_count: 34
+  article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:13Z'
   warnings: []
   errors: []
 ---
@@ -299,7 +473,9 @@ c) A operação de um ultraleve por um piloto que não se faça acompanhar da re
 
 5 - (Revogado.)
 
-###### Artigo 21.º — Sanções acessórias
+Artigo 21.º
+
+Sanções acessórias
 
 1 - Às contra-ordenações previstas nas alíneas a) a f) do n.º 1 do artigo anterior pode ser aplicada, em simultâneo com a coima, a sanção acessória de suspensão da licença de pilotagem prevista no artigo 3.º, pelo período máximo de dois anos.
 
@@ -327,7 +503,7 @@ a) A violação do disposto no artigo 6.º;
 
 b) A violação do disposto no artigo 8.º
 
-###### Artigo 10.º
+Artigo 10.º
 
 Para efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, aprovado pelo [Decreto-Lei n.º 10/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2004-241189), de 9 de Janeiro, constituem contra-ordenações muito graves:
 
@@ -341,7 +517,7 @@ d) O não cumprimento de especificações técnicas, condições e limitações 
 
 e) O exercício de operações de trabalho aéreo por entidade nacional não titular de um certificado de operador de trabalho aéreo válido.
 
-###### Artigo 12.º
+Artigo 12.º
 
 1 - Nas contra-ordenações previstas nos artigos 9.º e 10.º pode ser aplicada, em simultâneo com a coima, a sanção acessória de interdição do exercício da actividade de exploração de serviços de trabalho aéreo pelo período máximo de dois anos.
 
@@ -459,7 +635,9 @@ e) A apresentação pelas transportadoras aéreas de dados contabilísticos inco
 
 2 - Para efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, aprovado pelo [Decreto-Lei n.º 10/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2004-241189), de 9 de Janeiro, constitui contra-ordenação grave a violação, por parte das transportadoras aéreas, da obrigação de informação estabelecida no n.º 4 do artigo 28.º
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Às contra-ordenações previstas no n.º 1 do artigo anterior podem ser aplicadas, em simultâneo com a coima, as sanções acessórias seguintes:
 
@@ -525,7 +703,9 @@ e) A falta de prestação da informação prevista nos n.os 1, 2, 4 e 5 do artig
 
 3 - Para efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, aprovado pelo [Decreto-Lei n.º 10/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2004-241189), de 9 de Janeiro, constitui contra-ordenação leve a inexistência de separação contabilística, nos termos do artigo 18.º
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Às contra-ordenações previstas nas alíneas a), b) e e) do n.º 1 do artigo 33.º pode ser aplicada, em simultâneo com a coima, a sanção acessória de interdição da actividade de assistência em escala, por um período máximo de dois anos.
 
@@ -535,7 +715,9 @@ e) A falta de prestação da informação prevista nos n.os 1, 2, 4 e 5 do artig
 
 4 - A punição por contra-ordenação pode ser publicitada, nos termos previstos no artigo 13.º do [Decreto-Lei n.º 10/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2004-241189), de 9 de Janeiro.
 
-###### Artigo 38.º — Regime aplicável
+Artigo 38.º
+
+Regime aplicável
 
 Em tudo o que não se encontre previsto no presente capítulo, é aplicável o regime das contra-ordenações aeronáuticas civis, aprovado pelo [Decreto-Lei n.º 10/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2004-241189), de 9 de Janeiro.»
 
@@ -673,7 +855,9 @@ c) ...
 
 5 - (Revogado.)
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -717,7 +901,9 @@ h) ...
 
 6 - (Revogado.)
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -749,11 +935,15 @@ d) ...
 
 4 - A punição por contra-ordenação pode ser publicitada, nos termos previstos no artigo 13.º do [Decreto-Lei n.º 10/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2004-241189), de 9 de Janeiro.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 Compete ao INAC instaurar e instruir os processos de contra-ordenação nos termos do regime das contra-ordenações aeronáuticas civis, bem como proceder à aplicação das respectivas coimas.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Quanto à matéria constante do presente diploma são aplicáveis, subsidiariamente, o regime das contra-ordenações aeronáuticas civis e as disposições do Código Penal e respectiva legislação complementar.»
 
@@ -995,7 +1185,9 @@ u) ...
 
 5 - (Revogado.)
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - ...
 
@@ -1109,7 +1301,9 @@ f) ...
 
 5 - (Revogado.)
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -1149,12 +1343,12 @@ n) Os artigos 13.º e 15.º do [Decreto-Lei n.º 293/2003](https://diariodarepub
 
 Visto e aprovado em Conselho de Ministros de 1 de Julho de 2004. - Maria Manuela Dias Ferreira Leite - Maria Manuela Dias Ferreira Leite - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - António José de Castro Bagão Félix - António Pedro de Nobre Carmona Rodrigues - Arlindo Marques da Cunha.
 
-**Promulgado em 2 de Agosto de 2004.**
+Promulgado em 2 de Agosto de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Agosto de 2004.**
+Referendado em 5 de Agosto de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

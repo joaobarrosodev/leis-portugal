@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/105/2013/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2013-498702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45378bb0bf9dbe320b6661f2f5ce8d663e9f43c1f047739142752a1eefdb7fa2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1cb55285fc45a96a2c677164d0036ce129b371a38da109a7493b7bdf6e0ce7b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ADMA
-- Admfa
 - ADM
-- Função Pública
+- ADMA
+- ADME
+- Admfa
+- Administração Pública
 - ADSE
 - Assistência a Familiares
 - Assistência Médica
 - Assistência Medicamentosa
-- ADME
 - Comparticipação
 - Cônjuge
-- Administração Pública
-- Serviço Nacional de Saúde
-- Pagamento
-- GNR
 - Cuidados Médicos
-- Protecção na Doença
-- Proteção Social
-- Reembolso
 - Doença
+- Função Pública
 - Funcionário Público
+- GNR
+- Pagamento
+- Proteção Social
+- Protecção na Doença
+- Reembolso
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:67212152:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25343710:por
+  label: "Alterados os arts. 46º e 47º do Dec Lei 118/83 de 25-fev, na redação do presente diploma, pela LEI.30/2014.19.05.2014.AR,\
+    \ DR.IS [95] de 19.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2014-25343710
+  date: '2014-05-19'
+- type: amended_by
+  target: pt:dre:67212152:por
+  label: Alterado, a partir de 16.05.2015, o art. 13.º do Dec. Lei 167/2005 de 23-set, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 81/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-2015-67212152
+  date: '2015-05-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/158/2005/09/20/p/dre
   label: null
@@ -133,16 +145,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66-b/2012/12/31/
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2012/12/31/
+- type: cites
+  target: pt:dre:144217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:25Z'
   warnings: []
   errors: []
 ---
@@ -179,13 +239,17 @@ Os artigos 46.º, 47.º e 47.º-A do [Decreto-Lei n.º 118/83](https://diariodar
 
 A remuneração base dos beneficiários titulares fica sujeita ao desconto de 2,50% nos termos do n.º 1 do artigo 8.º-A da [Lei n.º 53-D/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-d-2006-197491), de 29 de dezembro, alterada pela [Lei n.º 3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril, e pelo [Decreto-Lei n.º 29-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), de 1 de março.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - As pensões de aposentação e de reforma dos beneficiários titulares, quando o seu montante for superior ao valor correspondente à retribuição mínima mensal garantida, ficam sujeitas ao desconto de 2,50 %.
 
 2 - [...].
 
-###### Artigo 47.º-A — [...]
+Artigo 47.º-A
+
+[...]
 
 1 - Os serviços integrados e os serviços e fundos autónomos, enquanto entidades empregadoras, pagam uma contribuição de 1,25% das remunerações sujeitas a desconto para a CGA, I. P., ou para a segurança social dos respetivos trabalhadores que sejam beneficiários titulares da ADSE.
 
@@ -251,12 +315,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de junho de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Berta Maria Correia de Almeida de Melo Cabral - Miguel Bento Martins Costa Macedo e Silva.
 
-**Promulgado em 24 de julho de 2013.**
+Promulgado em 24 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de julho de 2013.**
+Referendado em 26 de julho de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

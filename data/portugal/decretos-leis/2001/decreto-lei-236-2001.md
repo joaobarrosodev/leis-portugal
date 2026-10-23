@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/236/2001/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2001-631841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72c867aef2aadd9b5d77ec92fceb01d49bd8bb587c5df3e4cfd8744a9a200730
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47a6233676c0482fdec43708f3469ceccda70526177ed792bb13c803732c39e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Conservador
-- Feriado
 - Casamento
+- Conservador
 - Conservatória do Registo Civil
+- Feriado
 - Substituição de Funções
 relationships:
 - type: amended_by
   target: pt:dre:628488:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642527:por
+  label: "Alterados os artigos 2.º e 3.º pelo DEC LEI.324/2007.28.09.2007.MJ, DR.IS [188] de 28.09.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2007-642527
+  date: '2007-09-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:45Z'
   warnings: []
   errors: []
 ---
@@ -132,12 +141,12 @@ O presente diploma entra em vigor no 30.º dia após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Julho de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - António Luís Santos Costa - Alberto de Sousa Martins.
 
-**Promulgado em 11 de Agosto de 2001.**
+Promulgado em 11 de Agosto de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Agosto de 2001.**
+Referendado em 16 de Agosto de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

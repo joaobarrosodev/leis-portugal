@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/12600/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/42/2024/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2024-870515824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a182676c95c6f52c7e0e355cbea0456d4096327695601a3b70b3a8a037b6a7ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d05fe3dc3f0963fd9ca0165988b20cf8c8400545e2213e854e300f1a36e4218
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Arrendamento Urbano para Habitação
 - Financiamento
+- Habitação
 - Instituto da Habitação e da Reabilitação Urbana
 - Página na Internet
 - Programa Porta 65-arrendamento por Jovens
-- Habitação
-- Arrendamento Urbano para Habitação
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:308/2007
+  label: Altera, a partir de 01 de setembro de 2024, os artigos 3.º, 4.º, 5.º, 7.º, 9.º, 10.º e revoga as alíneas a) e b)
+    do n.º 2 do artigo 7.º do Decreto-Lei n.º 308/2007, de 3 de setembro, Diário da República n.º 169/2007, Série I
+  source: null
+  date: '2007-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/308/2007/09/03/p/dre
   label: null
@@ -84,16 +90,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/277-a/2010/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/277-a/2010/05/21/p/dre
+- type: cites
+  target: pt:dre:122373682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641166:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:23Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +190,7 @@ c) Jovens em coabitação, com idade igual ou superior a 18 anos e idade igual o
 
 11 - [...]
 
-12 - Ao cálculo do RM, no caso de se optar por apresentar os rendimentos dos últimos três meses, são aplicados os n.<sup>os</sup>3 a 9, com as devidas adaptações.
+12 - Ao cálculo do RM, no caso de se optar por apresentar os rendimentos dos últimos três meses, são aplicados os n.os3 a 9, com as devidas adaptações.
 
 13 - [...]
 
@@ -236,12 +254,14 @@ O presente decreto-lei entra em vigor a 1 de setembro de 2024.
 
 Visto e aprovado em Conselho de Ministros de 23 de maio de 2024. - Luís Montenegro - Joaquim José Miranda Sarmento - António Egrejas Leitão Amaro - Miguel Martinez de Castro Pinto Luz - Ana Margarida Balseiro de Sousa Lopes.
 
-**Promulgado em 13 de junho de 2024.**
+Promulgado em 13 de junho de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de junho de 2024.**
+Referendado em 19 de junho de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+117843178

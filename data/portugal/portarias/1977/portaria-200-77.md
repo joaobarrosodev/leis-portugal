@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/08500/08050806.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/200-1977-139896
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T05:16:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05bd4fc041125993a8d7ce5c3e42f5a252683437add4fc995a036fed3a7f0334
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1b4052c5bc40ec4ad6cd1482d3969bdf1a586eb6712af73bdad85104c507dec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:16:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embarcação de Pesca
+- Inscrição Marítima
+- Marinha Mercante
+- Regulamento da Inscrição Marítima Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca
 relationships:
 - type: amended_by
   target: pt:dre:251189:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:251189:por
+  label: Alterado o art. 55.º do Regulamento de Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e
+    da Pesca (RIM), aprovado pelo Dec 45969 de 15-Out e 1964, com a redacção dada pelo presente diploma, pelo(a) Portaria
+    n.º 463/77 - Diário da República n.º 172/1977, Série I de 1977-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/463-1977-251189
+  date: '1977-07-27'
+- type: cites
+  target: pt:dre:335771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:16:39Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +120,7 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado das Pesca
 
 2. O artigo 57.º do mesmo Regulamento passa a ter a redacção seguinte:
 
-###### Art. 57.º A categoria de marinheiro de 2.ª classe será atribuída ao indivíduo que possua qualquer das condições previstas nas alíneas seguintes e pela ordem de prioridade indicada:
+Art. 57.º A categoria de marinheiro de 2.ª classe será atribuída ao indivíduo que possua qualquer das condições previstas nas alíneas seguintes e pela ordem de prioridade indicada:
 
 a) Curso de marinheiro da Escola de Mestrança e Marinhagem;
 
@@ -115,7 +134,7 @@ d) Ser praça da reserva da Armada desde que esteja na 1.ª ou 2.ª classes de c
 
 3. Os artigos 123.º e 126.º do RIM passam a ter a seguinte redacção:
 
-###### Art. 123.º A categoria de empregado de câmara será atribuída ao indivíduo que possua qualquer das condições prescritas nas alíneas seguintes e pela ordem de prioridade indicada:
+Art. 123.º A categoria de empregado de câmara será atribuída ao indivíduo que possua qualquer das condições prescritas nas alíneas seguintes e pela ordem de prioridade indicada:
 
 a) Ter o curso de copeiro da Escola de Mestrança e Marinhagem;
 
@@ -127,7 +146,7 @@ d) Ser praça da reserva da Armada, oriundo da classe da taifa - TFD -, desde qu
 
 § único. A categoria de empregado de câmara só será atribuída aos indivíduos nas condições das alíneas c) e d) quando se verificar a impossibilidade de a respectiva escala satisfazer os pedidos de trabalhadores dessa categoria.
 
-###### Art. 126.º A categoria de ajudante de copa só poderá ser atribuída ao indivíduo que possua qualquer das condições prescritas nas alíneas seguintes e pela ordem de prioridade indicada:
+Art. 126.º A categoria de ajudante de copa só poderá ser atribuída ao indivíduo que possua qualquer das condições prescritas nas alíneas seguintes e pela ordem de prioridade indicada:
 
 a) Ser marítimo de outras categorias com seis anos de embarque após a obtenção da inscrição marítima;
 

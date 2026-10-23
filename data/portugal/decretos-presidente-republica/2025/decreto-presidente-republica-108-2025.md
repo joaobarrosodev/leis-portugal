@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/108/2025/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/108-2025-944098798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T05:53:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 330bb47e1d997b2c033ad06d3ed096ed6c2b3c927d90cc1ce8b32bc07340a6da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78273d9387aca261a9b2483424687cd8dde253d1e5577d22277799052948a0b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:53:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,38 @@ reuse:
 subjects:
 - Convenção
 - Cooperação Transfronteira
-- Portugal
 - Espanha
 - Faro
 - Pesca
 - Pesca Desportiva
 - Pesca Profissional
+- Portugal
 - Rio Guadiana
 relationships:
+- type: amends
+  target: pt:numero:resolucao-assembleia-republica:173/2025
+  label: Ratifica o Acordo aprovado pela Resolução da Assembleia da República n.º 173/2025, de 4 de novembro, Diário da República
+    n.º 213/2025, Série I
+  source: null
+  date: '2025-11-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/173/2025/11/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/173/2025/11/04/p/dre
+- type: cites
+  target: pt:dre:944098800:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:53:27Z'
   warnings: []
   errors: []
 ---
@@ -98,16 +108,18 @@ validation:
 
 de 4 de novembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo entre a República Portuguesa e o Reino de Espanha Relativo à Pesca no Troço Internacional do Rio Guadiana (TIRG), feito em Faro, em 23 de outubro de 2024, aprovado pela [Resolução da Assembleia da República n.º 173/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/173-2025-944098800), em 30 de setembro de 2025.
 
-**Assinado em 23 de outubro de 2025.**
+Assinado em 23 de outubro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de outubro de 2025.**
+Referendado em 29 de outubro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119719008

@@ -47,40 +47,127 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/150-1982-601079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T07:09:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 600d2af5a4d0490ff0b0e02ed75bd94eb7a3da6c6aff0284d4f4509a7b557b4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdc8aa7816f15803bab92e19879abe62731897a14066aa3141170cb4864be355
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:09:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Geral do Porto de Lisboa
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:228872:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:451226:por
+  label: "Aumentados lugares ao quadro de pessoal, pela PORT.576/83.17.05.1983.MFP, DR.IS [113] de 17.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/576-1983-451226
+  date: '1983-05-17'
+- type: amended_by
+  target: pt:dre:531809:por
+  label: "Alterado o quadro de pessoal anexo pela PORT.14/84.1984.01.09.PCM DR.IS [7]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/14-1984-531809
+  date: '1984-01-09'
+- type: amended_by
+  target: pt:dre:401361:por
+  label: "Alterado o quadro de pessoal constante do presente diploma, com as alterações introduzidas pelas Port 576/83, de\
+    \ 17-Mai e 14/84, de 09-Jan, pela PORT.902/84.11.12.1984.PCM, DR.IS [285] de 11.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/902-1984-401361
+  date: '1984-12-11'
+- type: amended_by
+  target: pt:dre:327119:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, pela PORT.108/85.1985.02.21.PCM DR.IS [43]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/108-1985-327119
+  date: '1985-02-21'
+- type: amended_by
+  target: pt:dre:152694:por
+  label: "Criado um lugar de técnico superior principal, do quadro de pessoal pela PORT.276/85.11.05.1985.PCM, DR.IS [108]\
+    \ de 11.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/276-1985-152694
+  date: '1985-05-11'
+- type: amended_by
+  target: pt:dre:182206:por
+  label: "Alterado, quanto ao pessoal dirigente, o mapa anexo ao presente diploma, pela PORT.384/85.22.06.1985.PCM, DR.IS\
+    \ [141] de 22.06.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/384-1985-182206
+  date: '1985-06-22'
+- type: amended_by
+  target: pt:dre:182634:por
+  label: "Alterado o mapa anexo pelo DR.46/85.11.07.1985.MM, DR.IS [157] de 11.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/46-1985-182634
+  date: '1985-07-11'
+- type: amended_by
+  target: pt:dre:180620:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, com as alterações introduzidas pelas Port 14/84, de\
+    \ 09-Jan, 108/85, de 21-Fev, 276/85, de 11-Mai e 384/85, de 22-Jun e pelo DR 46/85, de 11-Jul, pela PORT.577/85.10.08.1985.PCM,\
+    \ DR.IS [183] de 10.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/577-1985-180620
+  date: '1985-08-10'
+- type: amended_by
+  target: pt:dre:177061:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, na parte referente à carreira de técnico de exploração,\
+    \ pela PORT.701/85.21.09.1985.PCM, DR.IS [218] de 21.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/701-1985-177061
+  date: '1985-09-21'
+- type: amended_by
+  target: pt:dre:228872:por
+  label: "Alterado o quadro de pessoal pela PORT.294/86.19.06.1986.MF, DR.IS [138] de 19.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/294-1986-228872
+  date: '1986-06-19'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O MAPA ANEXO PELA PORT 152/87 DE 05-MAR DR.IS [53]\0 [53]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-03-05'
+- type: cites
+  target: pt:dre:381287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681619:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:09:31Z'
   warnings: []
   errors: []
 ---
@@ -113,4 +200,4 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Orçam
 
 Secretarias de Estado do Orçamento, dos Transportes Exteriores e Comunicações e da Reforma Administrativa, 30 de Dezembro de 1981. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado dos Transportes Exteriores e Comunicações, José da Silva Domingos. - O Secretário de Estado da Reforma Administrativa, António Jorge de Figueiredo Lopes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/02/02700/02550260.pdf))](https://files.diariodarepublica.pt/1s/1982/02/02700/02550260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/02/02700/02550260.pdf)

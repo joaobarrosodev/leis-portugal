@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 294/2000, 1º Suplemento, Série I-A de 2000-12-22
   number: '294'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7444-(4) a 7444-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/294a01/00040010.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/329-b/2000/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-2000-516973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b10137085a72ab9073dae969d3b3f6e2e7e32f479e98df298d1ce414d3aadaa9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 444200811f0077914ee1ee22a2333e62ec958baffaf91870079ae89968654398
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acção de Despejo
-- Obras de Conservação e Restauro
-- Contra-ordenação
 - Arrendamento Urbano não Habitacional
+- Arrendamento Urbano para Habitação
+- Contra-ordenação
+- Obras de Conservação e Restauro
 - Prédio Devoluto
 - Programa Recria
 - Regime de Apoio à Recuperação Habitacional em Áreas Urbanas Antigas
 - Subsídio de Renda de CASA
-- Arrendamento Urbano para Habitação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/104/1996/07/31/p/dre
@@ -99,16 +99,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16/2000/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16/2000/08/08/p/dre
+- type: cites
+  target: pt:dre:196194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
 article_structure:
-  article_count: 23
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:53Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +201,9 @@ Os artigos 12.º, 15.º, 16.º, 18.º, 31.º, 32.º, 36.º, 38.º, 56.º, 64.º,
 
 2 - A realização das obras referidas no número anterior dá lugar à actualização das rendas regulada nos artigos 38.º e 39.º
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Para efeitos da execução das obras coercivas, nos termos previstos nos artigos 91.º e 107.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, pode a câmara municipal proceder ao despejo administrativo, ocupar o prédio ou fogos, total ou parcialmente, até ao período de um ano após a data da conclusão das obras, devendo proceder, se for o caso, ao arrolamento de bens.
 
@@ -201,7 +247,9 @@ d) São aplicáveis ao arrolamento as disposições relativas à penhora, com as
 
 16 - Para efeito do disposto no n.º 1, mantêm-se em vigor todas as vistorias e actos administrativos subsequentes praticados até à entrada em vigor do referido diploma.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -213,11 +261,15 @@ d) São aplicáveis ao arrolamento as disposições relativas à penhora, com as
 
 5 - Nos casos a que se referem os n.os 1 e 4 pode ainda o arrendatário submeter à aprovação da câmara municipal o orçamento para execução das obras.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 Quando o arrendatário execute as obras ao abrigo do artigo 16.º, e enquanto não estiver integralmente reembolsado das despesas efectuadas e respectivos juros, acrescidos de 10% destinados a despesas de administração, apenas é obrigado a pagar ao senhorio 30% da renda vigente à data da notificação municipal ao senhorio para a execução das referidas obras.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -227,7 +279,9 @@ b) Noutras ocasiões, em função de obras de conservação ou beneficiação, n
 
 2 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - O coeficiente de actualização anual de renda dos diversos tipos de arrendamento é o resultante da totalidade da variação do índice de preços no consumidor, sem habitação, correspondente aos últimos 12 meses e para os quais existam valores disponíveis à data de 31 de Agosto, apurado pelo Instituto Nacional de Estatística.
 
@@ -235,7 +289,9 @@ b) Noutras ocasiões, em função de obras de conservação ou beneficiação, n
 
 3 - A renda resultante da actualização referida no n.º 1 deve ser arredondada para a centena de escudos imediatamente superior.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - Quando o senhorio rejeite o montante indicado, nos termos do n.º 3 do artigo 35.º, o arrendatário pode, nos 15 dias subsequentes à recepção da comunicação da rejeição, requerer a fixação definitiva do aumento devido a uma comissão especial ou ao tribunal de comarca competente, no prazo de 30 dias, sob pena de aceitação definitiva.
 
@@ -245,7 +301,9 @@ b) Noutras ocasiões, em função de obras de conservação ou beneficiação, n
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - Quando o senhorio realize no prédio obras de conservação ordinária ou extraordinária, ou obras de beneficiação que se enquadrem na lei geral ou local necessárias para a concessão de licença de utilização e que sejam aprovadas ou compelidas pela respectiva câmara municipal, pode exigir do arrendatário um aumento de renda apurado nos termos do Regime Especial de Comparticipação na Recuperação de Imóveis Arrendados (RECRIA).
 
@@ -255,7 +313,9 @@ b) Noutras ocasiões, em função de obras de conservação ou beneficiação, n
 
 4 - A actualização por obras de conservação ordinária prevista no n.º 1 só é aplicável aos arrendatários que se mantenham no local arrendado há oito ou mais anos nessa qualidade, considerando-se também para este efeito como tendo a qualidade de arrendatário a pessoa a quem tal posição se transfira por força dos artigos 84.º e 85.º, contando-se o decurso do tempo de que o transmitente já beneficiasse.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - ...
 
@@ -265,7 +325,9 @@ b) Noutras ocasiões, em função de obras de conservação ou beneficiação, n
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - ...
 
@@ -297,7 +359,9 @@ b) ...
 
 c) ...
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - ...
 
@@ -311,7 +375,9 @@ d) Quando o prédio esteja degradado e não se mostre aconselhável, sob o aspec
 
 2 - ...
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - ...
 
@@ -323,13 +389,17 @@ b) ...
 
 3 - O direito de denúncia para habitação do descendente está sujeito à verificação do requisito previsto na alínea a) do n.º 1 relativamente ao senhorio e do da alínea b) do mesmo número para o descendente.
 
-###### Artigo 73.º — Denúncia para aumento da capacidade do prédio ou por degradação do mesmo
+Artigo 73.º
+
+Denúncia para aumento da capacidade do prédio ou por degradação do mesmo
 
 1 - A denúncia do contrato para aumento do número de locais arrendáveis é objecto de legislação especial.
 
 2 - À denúncia do contrato previsto na alínea d) do n.º 1 do artigo 69.º aplica-se o regime referido no número anterior.
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - O direito de denúncia do contrato de arrendamento, facultado ao senhorio pelas alíneas a) e b) do n.º 1 do artigo 69.º, não pode ser exercido quando no momento em que deva produzir efeitos ocorra alguma das seguintes circunstâncias:
 
@@ -359,7 +429,7 @@ c) Contra arrendatários de prédio urbano degradado, e cuja beneficiação ou r
 
 § 4.º O disposto no § 2.º não tem aplicação se, nas áreas declaradas críticas de recuperação e reconversão urbanística, nos termos do artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, que possuam planos de urbanização, planos de pormenor ou planos urbanísticos aprovados, a respectiva câmara municipal aprovar outros critérios de inviabilidade.
 
-###### Art. 3.º O despejo com o fundamento indicado no artigo 1.º, alíneas a) e b), só é admissível se concorrerem os seguintes requisitos:
+Art. 3.º O despejo com o fundamento indicado no artigo 1.º, alíneas a) e b), só é admissível se concorrerem os seguintes requisitos:
 
 1.º ...
 
@@ -373,7 +443,7 @@ c) Contra arrendatários de prédio urbano degradado, e cuja beneficiação ou r
 
 § 3.º ...
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 § 1.º ...
 
@@ -381,7 +451,7 @@ c) Contra arrendatários de prédio urbano degradado, e cuja beneficiação ou r
 
 § 3.º Ao antigo inquilino que vier a ocupar o edifício alterado ou construído de novo e se encontre numa das situações previstas nas alíneas a) ou b) do artigo 107.º do RAU, a renda fixada pela Comissão Permanente de Avaliação não pode exceder a que resultar da aplicação do regime de renda condicionada.
 
-###### Art. 5.º-A. Quando o despejo tenha por fundamento a circunstância prevista na alínea c) do artigo 1.º, pode o inquilino:
+Art. 5.º-A. Quando o despejo tenha por fundamento a circunstância prevista na alínea c) do artigo 1.º, pode o inquilino:
 
 1.º Reocupar no edifício novo um local que satisfaça as necessidades do inquilino e da família, bem como as pessoas referidas no artigo 76.º do RAU que com ele vivam há cinco anos ou mais no prédio à data do despejo, tendo como limite a mesma tipologia, ficando a pagar a renda condicionada, fixada antecipadamente pela Comissão Permanente de Avaliação, perante cópia do projecto aprovado e seus anexos, autenticado pela câmara municipal, ou receber uma indemnização pela resolução do arrendamento apurada nos termos do n.º 2 do artigo 5.º;
 
@@ -409,7 +479,9 @@ Os artigos 1.º e 3.º do [Decreto-Lei n.º 105/96](https://diariodarepublica.pt
 
 3 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Quando sejam integradas no REHABITA as obras comparticipáveis ao abrigo do RECRIA e sejam para efeitos de realojamentos provisórios, elaboração de projectos ou fiscalização, têm uma percentagem de comparticipação adicional, a fundo perdido, até ao montante de 10%, a suportar pelo IGAPHE e pelo município na proporção estabelecida pelo RECRIA.
 
@@ -437,7 +509,9 @@ Os artigos 1.º e 3.º do [Decreto-Lei n.º 68/86](https://diariodarepublica.pt/
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - (Anterior n.º 1.)
 
@@ -445,7 +519,9 @@ Os artigos 1.º e 3.º do [Decreto-Lei n.º 68/86](https://diariodarepublica.pt/
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 2.º-A — Subsídios por aumentos resultantes de obras ou realojamentos
+Artigo 2.º-A
+
+Subsídios por aumentos resultantes de obras ou realojamentos
 
 1 - O subsídio atribuído por força do n.º 2 do artigo 1.º tem as especialidades seguintes, relativamente ao regime geral previsto no artigo 2.º
 
@@ -497,7 +573,9 @@ d) No caso de obras realizadas sem recurso a comparticipação, cópia do orçam
 
 12 - O pagamento do primeiro subsídio fica sujeito à condição suspensiva de o requerente juntar ao processo a comunicação do senhorio informando da conclusão das obras e o mês a partir do qual passa a cobrar a nova renda.
 
-###### Artigo 2.º-B — Contra-ordenações
+Artigo 2.º-B
+
+Contra-ordenações
 
 1 - Constituem contra-ordenações as declarações a que se referem as alíneas a) e b) do n.º 9 do artigo 2.º-A, quando emitidas em desconformidade com a verdade.
 
@@ -517,12 +595,12 @@ O presente diploma entre em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Outubro de 2000. - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - Guilherme d'Oliveira Martins - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Mário Cristina de Sousa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 13 de Dezembro de 2000.**
+Promulgado em 13 de Dezembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Dezembro de 2000.**
+Referendado em 14 de Dezembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22029-1966-471562
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:16:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 376a5fcd59058e2610fc7e9c69cee23dd473e7e65c9f9426da61cb80dce3d8e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c859c6a9aa8a94013597dd9b5b4c95d0ee34ae58b0fb89b6bf088860b59f2e1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636696:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:16:49Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +105,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que sejam ob
 
 I) Salvo o disposto na norma II, na área da Convenção das pescarias do Nordeste do Atlântico nenhuma embarcação poderá ter a bordo, ou empregar na pesca, qualquer rede de arrastar, ou de cercar, ou seja do tipo que for, para ser rebocada ou alada sobre o fundo do mar, ou próximo deste, se qualquer das suas partes componentes, quando molhadas e esticadas na direcção do seu comprimento, apresentarem malhas que se não deixem atravessar fàcilmente por bitolas rectangulares com 2 mm de espessura, com as larguras indicadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/06/13000/10571060.pdf))](https://files.diariodarepublica.pt/1s/1966/06/13000/10571060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/06/13000/10571060.pdf)
 
 Até 31 de Dezembro de 1968, os barcos de pesca do badejo (whiting) que registem e descarreguem na zona delimitada a norte, sul e leste, respectivamente, pelo paralelo 54º 30' N., pelo paralelo 53º 00' N. e pelo meridiano 5º 15' W. poderão ter a bordo, e utilizá-las, redes com malhagem não inferior a 60 mm.
 
@@ -111,7 +123,7 @@ b) Até 31 de Dezembro de 1968, às forras aplicadas na parte superior das redes
 
 IV) É proibido reter a bordo peixes com comprimentos inferiores aos referidos no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/06/13000/10571060.pdf))](https://files.diariodarepublica.pt/1s/1966/06/13000/10571060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/06/13000/10571060.pdf)
 
 a) Os peixes com comprimentos, medidos da ponta do focinho até à extremidade posterior da barbatana caudal, inferiores aos referidos no corpo desta norma deverão ser lançados ao mar imediatamente após a sua captura, a não ser que se destinem a transplantação para outros pesqueiros;
 
@@ -137,6 +149,6 @@ Os relatórios destas inspecções serão remetidos à Direcção das Pescarias,
 
 Ministério da Marinha, 3 de Junho de 1966. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1966/06/13000/10571060.pdf))](https://files.diariodarepublica.pt/1s/1966/06/13000/10571060.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1966/06/13000/10571060.pdf)
 
 Ministério da Marinha, 3 de Junho de 1966. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

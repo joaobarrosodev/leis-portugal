@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-1977-140333
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T05:14:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3f4abcc80701639b0bee8425cc514a574adf291b001bd2986407bfab05aa973
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9dd8a68de83f6b014b8b542eb4259502bf7fb545ff162e8a051389cf7c94a96a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:14:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Inscrição Marítima
+- Marinha Mercante
+- Pesca
+- Regulamento
+- Regulamento da Inscrição Marítima Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca
+- Tráfego Marítimo
+relationships:
+- type: cites
+  target: pt:dre:335771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684472:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:14:18Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +117,7 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado da Marinh
 
 1. O artigo 166.º passa a ter a seguinte redacção:
 
-###### Art. 166.º Nenhum inscrito marítimo cujo recrutamento seja efectuado por escala poderá ser matriculado sem que primeiro se tenha inscrito para embarque.
+Art. 166.º Nenhum inscrito marítimo cujo recrutamento seja efectuado por escala poderá ser matriculado sem que primeiro se tenha inscrito para embarque.
 
 § 1.º Para os fins do disposto no corpo deste artigo existirão nos sindicatos de pessoal do mar tantas listas de inscrição para embarque quantas as categorias de marítimos a inscrever.
 
@@ -119,6 +137,6 @@ Quando se justifique, tal comissão poderá assegurar transitoriamente as funç�
 
 3. O corpo do artigo 187.º passa a ter a seguinte redacção:
 
-###### Art. 187.º Todo o trabalhador destinado à tripulação de qualquer embarcação apresentará na repartição marítima ou consular a sua cédula de inscrição marítima e, quando o seu recrutamento seja efectuado por escalas, uma credencial passada pela entidade prevista no artigo 166.º comprovativa do respeito pela ordem de inscrição, a fim de ser incluído no respectivo rol de tripulação.
+Art. 187.º Todo o trabalhador destinado à tripulação de qualquer embarcação apresentará na repartição marítima ou consular a sua cédula de inscrição marítima e, quando o seu recrutamento seja efectuado por escalas, uma credencial passada pela entidade prevista no artigo 166.º comprovativa do respeito pela ordem de inscrição, a fim de ser incluído no respectivo rol de tripulação.
 
 Ministérios da Agricultura e Pescas e dos Transportes e Comunicações, 17 de Fevereiro de 1977. - O Secretário de Estado das Pescas, Pedro Amadeu de Albuquerque Santos Coelho. - O Secretário de Estado da Marinha Mercante, António José Borrani Crisóstomo Teixeira.

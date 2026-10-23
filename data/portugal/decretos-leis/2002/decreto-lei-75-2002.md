@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/072a00/28672878.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/75/2002/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2002-300609
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbad772767060648136e98e1b43059f84875df62a5cd854c23c3c436b9fd08f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc706be2a5056f99cdac594a4005a7601bf02c9d407ae50c56925178f1f2b3e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,21 @@ reuse:
 subjects:
 - Acreditação
 - Aproximação das Legislações
+- Comércio
 - Controlo de Qualidade
+- Produto Agrícola
 - Produto Hortícola
 - Semente
-- Comércio
-- Produto Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:245284:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:608181:por
+  label: "Alterado o artigo 23.º, pelo DEC LEI.21/2004.22.01.2004.MADRP, DR.IS-A [18] de 22.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2004-608181
+  date: '2004-01-22'
 - type: cites
   target: celex:31966L0400
   label: null
@@ -111,16 +116,26 @@ relationships:
   target: celex:32001L0064
   label: null
   source: http://data.europa.eu/eli/dir/2001/64/oj
+- type: corrected_by
+  target: pt:dre:241603:por
+  label: "Rectificado pela DECL-RECT.19-D/2002.2002.04.30.PCM, DR.IS-A [100]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/19-d-2002-241603
+  date: '2002-04-30'
+- type: repealed_by
+  target: pt:dre:245284:por
+  label: "Revogado pelo DEC LEI.144/2005.26.08.2005.MADRP, DR.IS-A [164] de 26.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-2005-245284
+  date: '2005-08-26'
 article_structure:
   article_count: 34
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:19Z'
   warnings: []
   errors: []
 ---
@@ -733,15 +748,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Janeiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - António Luís Santos Costa - Luís Garcia Braga da Cruz - Luís Manuel Capoulas Santos.
 
-**Promulgado em 7 de Março de 2002.**
+Promulgado em 7 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Março de 2002.**
+Referendado em 14 de Março de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I
 

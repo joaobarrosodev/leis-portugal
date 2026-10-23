@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/12/2014/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2014-571031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a33c1474b08e202b9c812d86d16cc69fe25f5e71ccf317ee7b2c8645a744c24d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4e990968e33e42804ceb551e09b090637abf796bd05f793bff4d05a78f27943
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Regime do Contrato de Trabalho em Funções Públicas
+- Administração Pública
 - Carreira Geral de Assistente Técnico
+- Carreira Profissional
 - Carreira Técnica Superior
+- Conselho Diretivo
+- Contrato de Trabalho
 - Contrato Individual de Trabalho
 - Equivalência de Categorias
 - Escola de Hotelaria e Turismo
-- Administração Pública
-- Carreira Profissional
-- Conselho Diretivo
+- Função Pública
+- Funcionário Público
 - Instituto do Turismo de Portugal
 - Prazo
 - Quadro de Pessoal
 - Reestruturação de Carreiras
-- Contrato de Trabalho
-- Funcionário Público
+- Regime do Contrato de Trabalho em Funções Públicas
 - Trabalhador
 - Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
@@ -94,16 +94,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:46Z'
   warnings: []
   errors: []
 ---
@@ -152,18 +160,18 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de dezembro de 2013. - Paulo Sacadura Cabral Portas - Hélder Manuel Gomes dos Reis - Pedro Pereira Gonçalves.
 
-**Promulgado em 14 de janeiro de 2014.**
+Promulgado em 14 de janeiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de janeiro de 2014.**
+Referendado em 16 de janeiro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
 Categorias subsistentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/01500/0046800469.pdf))](https://files.diariodarepublica.pt/1s/2014/01/01500/0046800469.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/01500/0046800469.pdf)

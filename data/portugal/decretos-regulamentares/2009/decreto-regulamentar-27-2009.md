@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/10/19300/0730107306.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/27/2009/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/27-2009-491398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:32:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 092b3bb6076924edf99607757ff5a0009bcc63b4f804f137f8bb43bee1ec45b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b6f7f799d98937547f5630f6634ac28ef14d0065d6730723dfe29087bbd47b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:32:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação de Conhecimentos
 - Definição de Competências
 - Direcção Geral dos Recursos Humanos da Educação
+- Educação Pré-escolar
 - Educador de Infância
+- Ensino Básico
+- Ensino Secundário
 - Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário
 - Gabinete de Avaliação Educacional
-- Recrutamento de Pessoal
-- Ensino Secundário
 - JURI
 - Pessoal Docente
 - Qualificação Profissional
-- Ensino Básico
-- Avaliação de Conhecimentos
-- Educação Pré-escolar
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:74717230:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502976:por
+  label: "Alterados os arts. 1.º, 3.º, 4.º, 5.º, 7.º, 8.º, 11.º, 14.º e 15.º do DR 3/2008 de 21-jan, na redação do presente\
+    \ diploma, pelo DR.7/2013.23.10.2013.MECI, DR.IS [205] de 23.10.2013 que o republica\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/7-2013-502976
+  date: '2013-10-23'
+- type: amends
+  target: pt:numero:decreto-regulamentar:3/2008
+  label: "Altera os artigos 1.º a 8.º, 11.º, 14.º, 15.º, 20.º e 21.º e revoga n.os 3 a 5 do artigo 5.º do Decreto Regulamentar\
+    \ n.º 3/2008, de 21 de Janeiro, DR.IS [14] e republica-o com a redacção actual \0\0"
+  source: null
+  date: '2008-01-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/2007/01/19/p/dre
   label: null
@@ -101,16 +113,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:248503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:335228:por
+  label: "Revogado o art. 20º do DR 3/2008 de 21-Jan, com a redacção constante deste diploma, pelo DEC LEI.75/2010.23.06.2010.ME,\
+    \ DR.IS [120] de 23.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-2010-335228
+  date: '2010-06-23'
+- type: repealed_by
+  target: pt:dre:74717230:por
+  label: Revogado, a partir de 18.06.2016, o DR 3/2008 de 21-jan, alterado pelo presente diploma, pelo(a) Lei n.º 16/2016
+    - Diário da República n.º 115/2016, Série I de 2016-06-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2016-74717230
+  date: '2016-06-17'
 article_structure:
-  article_count: 37
+  article_count: 25
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:32:35Z'
   warnings: []
   errors: []
 ---
@@ -141,11 +181,15 @@ Os artigos 1.º a 8.º, 11.º, 14.º, 15.º, 20.º e 21.º do [Decreto Regulamen
 
 O presente decreto regulamentar estabelece o regime da prova de avaliação de competências e conhecimentos, adiante, abreviadamente, designada por prova, prevista no artigo 22.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 A prova destina-se a quem, sendo detentor de uma qualificação profissional para a docência e não tendo ingressado na carreira docente, pretenda candidatar-se ao exercício de funções docentes nos concursos de selecção e recrutamento de pessoal docente da educação pré-escolar e dos ensinos básico e secundário, num dos grupos de recrutamento previstos no [Decreto-Lei n.º 27/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2006-684601), de 10 de Fevereiro, no âmbito dos agrupamentos de escolas ou escolas não agrupadas do ensino não superior na dependência do Ministério da Educação.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A prova visa verificar o domínio de competências fundamentais para o exercício da função docente.
 
@@ -153,13 +197,17 @@ A prova destina-se a quem, sendo detentor de uma qualificação profissional par
 
 3 - A prova pode ainda ter uma componente específica relativa ao nível de ensino, área disciplinar ou grupo de recrutamento dos candidatos.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A componente comum da prova realiza-se numa só chamada e em calendário a fixar por despacho do membro do Governo responsável pela área da educação.
 
 2 - A realização da componente específica da prova prevista e as respectivas condições são determinadas por portaria do membro do Governo responsável pela área da educação.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A componente comum da prova é realizada na modalidade de prova escrita e pode comportar itens de resposta fechada.
 
@@ -171,17 +219,23 @@ A prova destina-se a quem, sendo detentor de uma qualificação profissional par
 
 5 - (Revogado.)
 
-###### Artigo 6.º — Periodicidade
+Artigo 6.º
+
+Periodicidade
 
 A prova tem periodicidade anual.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A componente comum da prova tem a duração de 120 minutos, podendo ser concedida uma tolerância de 30 minutos.
 
 2 - A duração máxima da componente específica, nas modalidades de prova escrita e, ou, oral ou prática é a definida pela portaria prevista no n.º 2 do artigo 4.º
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A apreciação e a classificação das componentes da prova são da responsabilidade do Júri Nacional da Prova.
 
@@ -197,7 +251,9 @@ A prova tem periodicidade anual.
 
 7 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O Gabinete de Avaliação Educacional pode constituir parcerias com associações pedagógicas ou científicas, centros de investigação ou instituições de ensino superior nacionais ou estrangeiras, ou de outra natureza, tendo em vista a elaboração de qualquer das componentes da prova.
 
@@ -205,7 +261,9 @@ A prova tem periodicidade anual.
 
 3 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -227,7 +285,9 @@ g) Procedimentos a adoptar quanto a irregularidades e fraudes detectadas.
 
 3 - Determinam a anulação da componente comum da prova ou da modalidade escrita da componente específica a indicação na prova de elementos susceptíveis de identificarem o candidato, bem como a detecção, durante a realização da prova ou posteriormente, de fraude na sua realização.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -237,7 +297,9 @@ g) Procedimentos a adoptar quanto a irregularidades e fraudes detectadas.
 
 4 - Os responsáveis dos centros de provas são coadjuvados pelos docentes necessários ao funcionamento do centro, a designar por despacho do director regional de educação.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Estão dispensados da realização da primeira prova que se realizar os candidatos a concursos de selecção e recrutamento de pessoal docente da educação pré-escolar e dos ensinos básico e secundário que ainda não tenham integrado a carreira docente que, cumulativamente, cumpram os seguintes requisitos:
 
@@ -255,7 +317,9 @@ c) Tenham obtido avaliação de desempenho igual ou superior a Bom.
 
 5 - Os candidatos abrangidos pelo disposto nos n.os 1, 3 e 4, desde que se tenham apresentado a concurso e não tenham obtido colocação, beneficiam da dispensa da prova nos anos subsequentes.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A realização da prova por pessoas com deficiência respeita o princípio da igualdade de oportunidades.
 
@@ -275,15 +339,15 @@ São revogados os n.os 3 a 5 do artigo 5.º do [Decreto Regulamentar n.º 3/2008
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 2009. - José Sócrates Carvalho Pinto de Sousa - Valter Victorino Lemos.
 
-**Promulgado em 22 de Setembro de 2009.**
+Promulgado em 22 de Setembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de Setembro de 2009.**
+Referendado em 22 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto Regulamentar n.º 3/2008](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2008-248503), de 21 de Janeiro
 

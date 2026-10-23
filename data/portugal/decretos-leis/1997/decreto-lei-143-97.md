@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/143/1997/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f8d0b9e302eceb7f4822ceb168138b00e192da5b3468afb6666063af0b602ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cd536b60539e969920a5dac189b226f44841f42704d9fc29c1a8a977281961d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ subjects:
 - Conselho Diretivo
 - Instituto Nacional de Pilotagem dos Portos
 - Orgânica
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:39Z'
   warnings: []
   errors: []
 ---
@@ -123,11 +127,15 @@ b) Os serviços técnicos de apoio.
 
 3 - Os departamentos de pilotagem compreendem os serviços de pilotagem e os auxiliares do serviço de pilotagem.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 O conselho directivo é o órgão de gestão do INPP, com as competências definidas no artigo 12.º
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O conselho directivo é nomeado pelo Ministro do Equipamento, do Planeamento e da Administração do Território, sendo constituído por um presidente, equiparado a director-geral, e dois vogais, equiparados a subdirectores-gerais.
 
@@ -135,7 +143,9 @@ O conselho directivo é o órgão de gestão do INPP, com as competências defin
 
 3 - Os membros do conselho directivo têm direito à remuneração a fixar por despacho conjunto dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território e do membro do Governo que tem a seu cargo a Administração Pública.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 Compete ao conselho directivo:
 
@@ -155,7 +165,9 @@ g) Deliberar sobre a aquisição, alienação e oneração de imóveis;
 
 h) Praticar os demais actos referentes às atribuições do INPP que não sejam da competência de outros órgãos.
 
-###### Artigo 13.º — Competência do presidente
+Artigo 13.º
+
+Competência do presidente
 
 Compete especialmente ao presidente do INPP:
 
@@ -167,7 +179,9 @@ c) Convocar reuniões conjuntas do conselho directivo com as comissões administ
 
 d) Representar o INPP em juízo e fora dele.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O conselho directivo reúne ordinariamente uma vez por semana e, extraordinariamente, sempre que o presidente o julgue conveniente ou quando for requerido pelos dois vogais.
 
@@ -185,7 +199,7 @@ A epígrafe da secção I da divisão II do capítulo II do [Decreto-Lei n.º 36
 
 [...]
 
-#### SECÇÃO I
+SECÇÃO I
 
 Conselho directivo»
 
@@ -199,12 +213,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de Abril de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 22 de Maio de 1997.**
+Promulgado em 22 de Maio de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Maio de 1997.**
+Referendado em 26 de Maio de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

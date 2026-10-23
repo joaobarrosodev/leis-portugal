@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23156-1968-233285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0db4a1ac245be9e30c89b678af9367c74eea3cc38b5225ac69f3fb5e7a9169f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5ec821e520f70267ba6b1218b90913f7a029c50e7cbb7d46abd38c976272a0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:00Z'
   warnings: []
   errors: []
 ---
@@ -89,15 +93,15 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 2) «Outras despesas com o pessoal - Alimentação e subsídio de alimentação» ... 3550000$00
+Artigo 3.º, n.º 2) «Outras despesas com o pessoal - Alimentação e subsídio de alimentação» ... 3550000$00
 
 tomando como contrapartida a seguinte disponibilidade na mesma tabela de despesa:
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 3) «Remunerações certas ao pessoal em exercício - Vencimentos do pessoal civil contratado além dos quadros» ... 3450000$00
+Artigo 1.º, n.º 3) «Remunerações certas ao pessoal em exercício - Vencimentos do pessoal civil contratado além dos quadros» ... 3450000$00
 
-###### Artigo 2.º, n.º 3) «Remunerações acidentais - Gratificação de isolamento» ... 100000$00
+Artigo 2.º, n.º 3) «Remunerações acidentais - Gratificação de isolamento» ... 100000$00
 
 ... 3550000$00
 

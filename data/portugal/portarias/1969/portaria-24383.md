@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24383-1969-216127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb84d509ff05fd72d6a118a68af20267620b4b0d7b16aba86c51016d6f1a1630
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc4128c7824b2209a4d21fcb2decd23b269ce0d996085d5eded3f3e961188b5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Marinha
+- Ministro da Marinha
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:369827:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256662:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:369827:por
+  label: "Revogada pelo DEC LEI.384/79.19.09.1979.CR, DR.IS [217] de 19.09.1979, sem prejuízo do disposto no n.º 2 do seu\
+    \ artigo 14.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/384-1979-369827
+  date: '1979-09-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:17Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +107,9 @@ Ministério da Marinha, 22 de Outubro de 1969. - O Ministro da Marinha, Manuel P
 
 REGULAMENTO DA INTENDÊNCIA DOS SERVIÇOS DE ADMINISTRAÇÃO FINANCEIRA DA MARINHA
 
-###### Artigo 1.º À Intendência dos Serviços de Administração Financeira da Marinha (I. S. A. F. M.), organismo directamente dependente do Ministro da Marinha, compete a orientação, coordenação e fiscalização das actividades administrativo-financeiras da Marinha, nomeadamente das que são exercidas pelos conselhos administrativos e encarregados de toda a administração.
+Artigo 1.º À Intendência dos Serviços de Administração Financeira da Marinha (I. S. A. F. M.), organismo directamente dependente do Ministro da Marinha, compete a orientação, coordenação e fiscalização das actividades administrativo-financeiras da Marinha, nomeadamente das que são exercidas pelos conselhos administrativos e encarregados de toda a administração.
 
-###### Art. 2.º - 1. A Intendência dos Serviços de Administração Financeira da Marinha compreende:
+Art. 2.º - 1. A Intendência dos Serviços de Administração Financeira da Marinha compreende:
 
 a) O intendente dos Serviços de Administração Financeira da Marinha;
 
@@ -114,7 +127,7 @@ g) A Secretaria Central.
 
 2. Junto da I. S. A. F. M. funciona, como órgão de consulta e estudo, a Comissão Técnica de Administração Naval, presidida pelo intendente e com a constituição fixada por despacho do Ministro da Marinha, tendo a faculdade de agregar os oficiais que considerar convenientes consoante a natureza dos assuntos a estudar.
 
-###### Art. 3.º O intendente, oficial general de administração naval, despacha directamente com o Ministro da Marinha e compete-lhe:
+Art. 3.º O intendente, oficial general de administração naval, despacha directamente com o Ministro da Marinha e compete-lhe:
 
 a) Dirigir o funcionamento da I. S. A. F. M. e coordenar a actividade das suas repartições e serviços;
 
@@ -132,7 +145,7 @@ g) Apreciar os relatórios das inspecções administrativas e das conferências 
 
 h) Propor as alterações que julgar necessário introduzir na estrutura orgânica e nas atribuições da I. S. A. F. M.
 
-###### Art. 4.º - 1. À 1.ª Repartição (Normas e Métodos), chefiada por um capitão-de-mar-e-guerra de administração naval, compete em especial:
+Art. 4.º - 1. À 1.ª Repartição (Normas e Métodos), chefiada por um capitão-de-mar-e-guerra de administração naval, compete em especial:
 
 a) Elaborar projectos de diplomas de natureza administrativo-financeira e emitir parecer sobre aqueles que lhe tenham sido enviados;
 
@@ -164,7 +177,7 @@ o) Emitir parecer sobre a falta de cumprimento de cláusulas contratuais por par
 
 2. Os assuntos da competência da 1.ª Repartição são distribuídos por duas secções, competindo à 1.ª Secção as matérias referidas nas alíneas a) a j) e à 2.ª Secção as das alíneas seguintes.
 
-###### Art. 5.º - 1. À 2.ª Repartição (Orçamento e Contabilidade), chefiada por um capitão-de-mar-e-guerra de administração naval, compete em especial:
+Art. 5.º - 1. À 2.ª Repartição (Orçamento e Contabilidade), chefiada por um capitão-de-mar-e-guerra de administração naval, compete em especial:
 
 a) Centralizar e estudar as propostas orçamentais elaboradas pelos conselhos administrativos das unidades e serviços;
 
@@ -190,7 +203,7 @@ l) Promover a publicação das instruções julgadas necessárias para a boa exe
 
 2. Os assuntos da competência da 2.ª Repartição são distribuídos por três secções, competindo à 1.ª Secção as matérias referidas nas alíneas a) a d), à 2.ª Secção as das alíneas e) a h) e à 3.ª Secção as das restantes alíneas.
 
-###### Art. 6.º - 1. À 3.ª Repartição (Fiscalização), chefiada por um capitão-de-mar-e-guerra de administração naval, compete em especial:
+Art. 6.º - 1. À 3.ª Repartição (Fiscalização), chefiada por um capitão-de-mar-e-guerra de administração naval, compete em especial:
 
 a) Registar as requisições de fundos e os avisos de saques que, depois de autorizados pela 6.ª Repartição da Direcção-Geral da Contabilidade Pública, lhe sejam enviados para esse fim;
 
@@ -220,7 +233,7 @@ n) Elaborar anualmente o mapa de cadastro dos bens do Estado, na posse do Minist
 
 2. Os assuntos da competência da 3.ª Repartição, são distribuídos por três secções, competindo à 1.ª Secção as matérias respeitantes à conferência das contas de caixa, à 2.ª Secção as referentes à conferência das contas de material e à 3.ª Secção as relativas às restantes contas e documentos.
 
-###### Art. 7.º Ao Serviço de Inspecções Administrativas, chefiado por um capitão-de-mar-e-guerra de administração naval, compete em especial:
+Art. 7.º Ao Serviço de Inspecções Administrativas, chefiado por um capitão-de-mar-e-guerra de administração naval, compete em especial:
 
 a) Inspeccionar in loco os actos praticados pelos responsáveis por fundos e material na posse do Ministério da Marinha, nas condições estabelecidas no Regulamento de Administração da Fazenda Naval;
 
@@ -234,7 +247,7 @@ e) Recolher na 3.ª Repartição os elementos julgados necessários para a boa e
 
 f) Comunicar ao intendente quaisquer irregularidades de que tome conhecimento directamente, por comunicação dos oficiais que presidirem às inspecções ou por qualquer outra forma.
 
-###### Art. 8.º - 1. Ao Serviço Mecanográfico da Armada, chefiado por um capitão-de-mar-e-guerra ou capitão-de-fragata de administração naval, compete em especial:
+Art. 8.º - 1. Ao Serviço Mecanográfico da Armada, chefiado por um capitão-de-mar-e-guerra ou capitão-de-fragata de administração naval, compete em especial:
 
 a) Explorar todos os dados cujo processamento automático seja de reconhecida vantagem para o serviço naval, particularmente no que respeita à administração do material (gestão do inventário naval; codificação e catalogação do material; património naval), à administração financeira (processamento de vencimentos, abonos e descontos; estatística financeira; contrôle orçamental) e à administração do pessoal (registo e informação; ficheiros);
 
@@ -250,7 +263,7 @@ f) Apresentar anualmente ao intendente os planos de trabalho e a indicação dos
 
 2. Os estudos e trabalhos mecanográficos só podem ser executados mediante prévia autorização do Ministro da Marinha.
 
-###### Art. 9.º - 1. O Serviço Mecanográfico da Armada compreende os seguintes órgãos:
+Art. 9.º - 1. O Serviço Mecanográfico da Armada compreende os seguintes órgãos:
 
 a) Secção de Estudos, a quem compete o estudo e coordenação das actividades e aplicações mecanográficas;
 
@@ -260,7 +273,7 @@ c) Secções e centros mecanográficos, a constituir nas unidades e outros organ
 
 2. No âmbito da Secção de Estudos poderá o Ministro da Marinha, sob proposta do intendente, criar grupos de trabalho constituídos por militares ou civis especialmente indicados pelos órgãos utentes, consoante a natureza dos dados a explorar e a submeter a tratamento automático.
 
-###### Art. 10.º À Secretaria Central, chefiada por um capitão-tenente de administração naval, compete em especial:
+Art. 10.º À Secretaria Central, chefiada por um capitão-tenente de administração naval, compete em especial:
 
 a) Assegurar o expediente do gabinete do intendente e aquele que, pela sua natureza, não pertença especìficamente a qualquer das repartições e serviços da Intendência, bem como registar e arquivar os respectivos processos;
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/003a00/00390049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/2/2001/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2001-235307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47e3974dccdfc6c9f7af2f70f6947d30f97ab7a562d0ed6a21a5e53ac3f6c660
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a8cbcd359a7164e4e3dfd3b8ba52f4ba0c4290eec900680e50a69ffb294892d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Região Autónoma
 - Biotecnologia
-- Multa
-- Organismo Geneticamente Modificado
 - Contra-ordenação
 - Direcção Geral do Ambiente
-- Saúde Pública
 - Fiscalização
 - Instruções de Utilização
+- Multa
 - Normas de Segurança
+- Organismo Geneticamente Modificado
 - Proteção do Ambiente
+- Região Autónoma
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:67011880:por
@@ -107,16 +107,21 @@ relationships:
   target: celex:31998L0081
   label: null
   source: http://data.europa.eu/eli/dir/1998/81/oj
+- type: repealed_by
+  target: pt:dre:67011880:por
+  label: Revogado, a partir de 22.04.2015, pelo(a) Decreto-Lei n.º 55/2015 - Diário da República n.º 75/2015, Série I de 2015-04-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2015-67011880
+  date: '2015-04-17'
 article_structure:
   article_count: 21
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:55Z'
   warnings: []
   errors: []
 ---
@@ -367,17 +372,19 @@ d) N.º 2 do artigo 1.º e artigos 2.º a 6.º do Decreto-Lei n.º 63/99, de 2 d
 
 Visto e aprovado em Conselho de Ministros de 9 de Novembro de 2000. - Jorge Paulo Sacadura Almeida Coelho - Mário Cristina de Sousa - Eduardo Luís Barreto Ferro Rodrigues - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 19 de Dezembro de 2000.**
+Promulgado em 19 de Dezembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Dezembro de 2000.**
+Referendado em 20 de Dezembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO I — PARTE A
+## ANEXO I
+
+## PARTE A
 
 As técnicas de modificação genética são, entre outras, as seguintes:
 
@@ -387,7 +394,7 @@ As técnicas de modificação genética são, entre outras, as seguintes:
 
 3) Técnicas de fusão ou hibridização celular em que haja formação de células vivas com novas combinações de material genético hereditário, através da fusão de duas ou mais células por mecanismos que não ocorrem naturalmente.
 
-# PARTE B
+## PARTE B
 
 Técnicas não consideradas como dando origem a modificação genética, desde que não envolvam a utilização de moléculas de ácido nucleico recombinante ou MGM produzidos através de técnicas/métodos que não os mencionados no anexo II:
 
@@ -537,7 +544,7 @@ QUADRO I A
 
 Medidas de confinamento e outras medidas de protecção aplicáveis a actividades laboratoriais - requisitos mínimos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/003a00/00390049.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/003a00/00390049.pdf)](https://files.diariodarepublica.pt/1s/2001/01/003a00/00390049.pdf)](https://files.diariodarepublica.pt/1s/2001/01/003a00/00390049.pdf)](https://files.diariodarepublica.pt/1s/2001/01/003a00/00390049.pdf)
 
 QUADRO I B
 
@@ -547,7 +554,7 @@ Os termos estufa e recinto de crescimento referem-se a estruturas com paredes, t
 
 Aplicam-se todas as disposições constantes do quadro I A, com os seguintes aditamentos ou alterações:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/003a00/00390049.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/003a00/00390049.pdf)](https://files.diariodarepublica.pt/1s/2001/01/003a00/00390049.pdf)](https://files.diariodarepublica.pt/1s/2001/01/003a00/00390049.pdf)](https://files.diariodarepublica.pt/1s/2001/01/003a00/00390049.pdf)
 
 QUADRO I C
 
@@ -555,15 +562,17 @@ Medidas de confinamento e outras medidas de protecção aplicáveis a actividade
 
 Aplicam-se todas as disposições constantes do quadro I A, com os seguintes aditamentos ou alterações:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/003a00/00390049.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/003a00/00390049.pdf)](https://files.diariodarepublica.pt/1s/2001/01/003a00/00390049.pdf)](https://files.diariodarepublica.pt/1s/2001/01/003a00/00390049.pdf)](https://files.diariodarepublica.pt/1s/2001/01/003a00/00390049.pdf)
 
 QUADRO II
 
 Medidas de confinamento e outras medidas de protecção aplicáveis nas restantes actividades - requisitos mínimos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/003a00/00390049.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/003a00/00390049.pdf)](https://files.diariodarepublica.pt/1s/2001/01/003a00/00390049.pdf)](https://files.diariodarepublica.pt/1s/2001/01/003a00/00390049.pdf)](https://files.diariodarepublica.pt/1s/2001/01/003a00/00390049.pdf)
 
-## ANEXO V — PARTE A
+## ANEXO V
+
+## PARTE A
 
 Informações necessárias para efeitos da notificação referida no artigo 6.º:
 
@@ -581,7 +590,7 @@ Classe de risco das operações de utilização confinada a efectuar;
 
 Resumo da avaliação de risco referida na alínea a) do n.º 1 do artigo 4.º e qualquer informação adicional sobre a gestão dos resíduos.
 
-# PARTE B
+## PARTE B
 
 Informações necessárias para a notificação referida no n.º 1 do artigo 8.º:
 
@@ -605,7 +614,7 @@ Resumo da avaliação efectuada de acordo com o disposto na alínea a) do n.º 1
 
 Dados necessários para que as autoridades competentes possam avaliar os planos de emergência, estabelecidos de acordo com o disposto na alínea i) do n.º 1 do artigo 4.º
 
-# PARTE C
+## PARTE C
 
 Informações necessárias para a notificação referida no n.º 1 do artigo 9.º:
 

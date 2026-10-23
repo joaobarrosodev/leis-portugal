@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/07/12700/0336303364.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/91/2019/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2019-122960394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bffd387c56da2d0a5ae2b5e033ab016cea5e0a00dca30074d82c4f2a35e61bb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad29987c256876d16a7f9021cc15c6c1ffb76ff72dee874617c9577f4428b2de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,36 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Consultor
 - Consultor Coordenador
 - Consultoria
 - Definição de Competências
 - Digesto
+- Estatuto Remuneratório
 - Informação Jurídica
+- JurisAPP
 - Orgânica
 - PCM-Entidades
+- Pessoal Dirigente
 - Presidência do Conselho de Ministros
 - Quadro de Pessoal
-- Remuneração
-- Estatuto Remuneratório
-- JurisAPP
 - REJURIS
+- Remuneração
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/149/2017/12/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/149/2017/12/06/p/dre
+- type: cites
+  target: pt:dre:114311302:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:00Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +133,9 @@ Os artigos 2.º e 5.º a 7.º do [Decreto-Lei n.º 149/2017](https://diariodarep
 
 3 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]:
 
@@ -151,7 +157,9 @@ g) [Anterior alínea e).]
 
 3 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -177,7 +185,9 @@ g) [Anterior alínea e).]
 
 12 - As remunerações do consultor sénior, do consultor coordenador, do consultor principal e do consultor associado correspondem, respetivamente, aos níveis remuneratórios n.os 79, 68, 47 e 39 da tabela remuneratória única dos trabalhadores que exercem funções públicas.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A chefia das equipas multidisciplinares é exercida por um consultor coordenador ou por um consultor principal, que exerce as competências próprias de coordenação geral e as competências que lhe sejam delegadas pelo/a diretor/a.
 
@@ -193,12 +203,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de junho de 2019. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Mário José Gomes de Freitas Centeno.
 
-**Promulgado em 28 de junho de 2019.**
+Promulgado em 28 de junho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de julho de 2019.**
+Referendado em 3 de julho de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112421288

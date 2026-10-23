@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/03/04600/0139801410.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35/2015/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2015-66674047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9008ad78607e79796fc0cd31fbfa6bd7ec4657862ad03970c22f95c076416041
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2956464966e5767a3e56a7f916e891f95cd06f546f41508e4b10a5c8f447782
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,25 +71,25 @@ subjects:
 - Animal Doméstico
 - Autoridade Metropolitana de Transportes
 - Bagagem
-- Direito de Acesso
-- Titulo de Transporte
-- Multa
-- Criança
 - Contra-ordenação
-- Transporte Ferroviário
+- Criança
 - Definição de Competências
+- Direito de Acesso
 - Fiscalização
 - Indemnização
 - Instituto da Mobilidade e dos Transportes
+- Multa
 - Preço
 - Rede Ferroviária
 - Regulamento
 - Regulamento CE
 - Responsabilidade Civil
 - Taxa
+- Titulo de Transporte
 - Transporte de Animais
 - Transporte de Carga
 - Transporte de Passageiros
+- Transporte Ferroviário
 - Transporte Internacional
 - Transporte Urbano
 relationships:
@@ -97,6 +97,13 @@ relationships:
   target: pt:dre:117537589:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117537589:por
+  label: Alterados os arts 3.º, 4.º, 7.º, 6.º, 16.º-A, 20.º, 22.º, 24.º, 32.º e 34.º (na versão republicada do Dec Lei 58/2008,
+    de 26-mar), na redação do presente diploma, pelo(a) Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º
+    Suplemento, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-a-2018-117537589
+  date: '2018-12-31'
 - type: cites
   target: celex:32007R1371
   label: null
@@ -129,16 +136,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1080/1992/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1080/1992/11/24/p/dre
+- type: cites
+  target: pt:dre:162795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 68
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 50
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:35Z'
   warnings: []
   errors: []
 ---
@@ -181,7 +256,9 @@ Os artigos 1.º, 3.º a 5.º, 7.º, 9.º, 16.º, 20.º a 22.º, 24.º, 25.º, 28
 
 2 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -193,7 +270,9 @@ Os artigos 1.º, 3.º a 5.º, 7.º, 9.º, 16.º, 20.º a 22.º, 24.º, 25.º, 28
 
 5 - [...].
 
-###### Artigo 4.º — Obrigações do operador, do gestor da infraestrutura ou do gestor de estação
+Artigo 4.º
+
+Obrigações do operador, do gestor da infraestrutura ou do gestor de estação
 
 1 - [...].
 
@@ -237,7 +316,9 @@ c) Informar os passageiros dos atrasos e das horas previstas de partida e chegad
 
 10 - [Anterior n.º 9].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O operador e o gestor da estação obrigam-se a estabelecer regras de acesso não discriminatórias aplicáveis ao transporte de pessoas com mobilidade condicionada.
 
@@ -249,7 +330,9 @@ c) Informar os passageiros dos atrasos e das horas previstas de partida e chegad
 
 5 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O passageiro está obrigado a munir-se de título de transporte e a conservá-lo até ao final da viagem, saída do cais ou da estação, devendo validá-lo, designadamente no sistema de bilhética sem contacto, quando existente, e apresentá-lo aos agentes do operador encarregues da fiscalização sempre que solicitado.
 
@@ -263,7 +346,9 @@ c) Informar os passageiros dos atrasos e das horas previstas de partida e chegad
 
 6 - [Anterior n.º 5].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -283,7 +368,9 @@ c) Informar os passageiros dos atrasos e das horas previstas de partida e chegad
 
 9 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -311,7 +398,9 @@ b) Ser efetuado no prazo máximo de 30 dias a contar da apresentação do pedido
 
 9 - [Revogado].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]:
 
@@ -323,7 +412,9 @@ c) [...].
 
 2 - As crianças até aos quatro anos são transportadas gratuitamente, desde que não ocupem lugar.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Os preços dos serviços urbanos e suburbanos estão sujeitos a aprovação pela AMT competente, ou, caso se desenvolvam fora das áreas metropolitanas de Lisboa e do Porto, pelo IMT, I.P., devendo essa aprovação ocorrer no prazo de 20 dias após a apresentação da respetiva proposta pelo operador.
 
@@ -339,7 +430,9 @@ c) [...].
 
 7 - [...].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
@@ -351,7 +444,9 @@ c) [...].
 
 5 - [...].
 
-###### Artigo 24.º — Bonificação de preços
+Artigo 24.º
+
+Bonificação de preços
 
 1 - Sem prejuízo dos operadores praticarem uma política comercial com descontos comerciais para determinado segmento de passageiros, são definidos, através de portaria, regimes tarifários sociais bonificados aplicáveis aos serviços públicos de transporte ferroviário de passageiros.
 
@@ -361,13 +456,17 @@ c) [...].
 
 4 - [Revogado].
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - O operador é responsável pelos danos causados ao passageiro e a bens por este transportados durante a viagem, nos termos do presente decreto-lei e do [Regulamento (CE) n.º 1371/2007](https://data.europa.eu/eli/reg/2007/1371/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de outubro de 2007, sem prejuízo do direito de regresso sobre o gestor da infraestrutura ferroviária caso os danos resultem de defeito dessa infraestrutura ou avaria dos respetivos elementos.
 
 2 - Fica excluída a responsabilidade do operador quando o passageiro não tenha observado os deveres e obrigações a que está obrigado, designadamente a aquisição do título de transporte e demais deveres relativos à segurança a respeitar relativa ao transporte, bem como nos casos previstos no n.º 2 do artigo 26.º do anexo I ao [Regulamento (CE) n.º 1371/2007](https://data.europa.eu/eli/reg/2007/1371/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de outubro de 2007.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 16.º-A, o passageiro tem ainda direito a indemnização por outros danos que resultem direta e exclusivamente de atrasos ou supressões de serviços de transporte ferroviário, por razões imputáveis ao operador ou ao gestor de infraestrutura, nos termos dos números seguintes.
 
@@ -383,13 +482,17 @@ c) [...].
 
 7 - Os valores limite a que se referem os n.os 2 e 4 são atualizados anualmente de acordo com o índice de inflação.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Os operadores devem comunicar, anualmente, os serviços urbanos, suburbanos, regionais, inter-regionais e de longo curso em exploração à autoridade de transporte competente, AMT ou ao IMT, I.P., consoante a área geográfica onde os mesmos se desenvolvem.
 
 2 - As alterações aos serviços urbanos e suburbanos carecem de prévia aprovação da autoridade de transportes competente.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - A fiscalização do cumprimento das obrigações que incumbem ao operador ou ao gestor da infraestrutura, por força do disposto no presente decreto-lei, cabe à autoridade de transporte competente, AMT ou ao IMT, I.P., consoante a respetiva área geográfica.
 
@@ -397,7 +500,9 @@ c) [...].
 
 3 - [...].
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Constituem contraordenações imputáveis ao operador, ao gestor da estação e ao gestor da infraestrutura, consoante o caso, puníveis com coima de (euro) 2500 a (euro) 12 500:
 
@@ -435,13 +540,17 @@ c) O incumprimento das disposições relativas às queixas dos passageiros em vi
 
 6 - [Anterior n.º 5].
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - A instrução dos processos por contraordenações previstas no presente decreto-lei compete à autoridade de transporte competente, AMT ou ao IMT, I.P., consoante a respetiva área geográfica onde a infração é cometida.
 
 2 - A aplicação das coimas previstas neste decreto-lei é da competência do conselho executivo da AMT ou ao conselho diretivo do IMT, I.P..
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 [...]:
 
@@ -451,7 +560,9 @@ b) [...];
 
 c) 30 % para a entidade competente que aplica a coima.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 Pelos atos de aprovação da responsabilidade das autoridades de transportes competentes, previstos no presente decreto-lei, são cobradas taxas, as quais constam da respetiva tabela de taxas.»
 
@@ -519,15 +630,15 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 18 de dezembro de 2014. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima.
 
-**Promulgado em 26 de fevereiro de 2015.**
+Promulgado em 26 de fevereiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de março de 2015.**
+Referendado em 3 de março de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -729,7 +840,9 @@ ac) Praticar atos ou proferir expressões que perturbem a boa ordem dos serviço
 
 5 - Os passageiros cuja saída do comboio seja determinada nos termos do número anterior não têm direito a qualquer reembolso do preço do título de transporte.
 
-###### Artigo 7.º — Título de transporte
+###### Artigo 7.º
+
+## Título de transporte
 
 1 - O passageiro está obrigado a munir-se de título de transporte e a conservá-lo até ao final da viagem, saída do cais ou da estação, devendo validá-lo, designadamente no sistema de bilhética sem contacto, quando existente, e apresentá-lo aos agentes do operador encarregues da fiscalização sempre que solicitado.
 

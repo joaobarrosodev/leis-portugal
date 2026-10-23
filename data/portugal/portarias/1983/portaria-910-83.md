@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/10/22800/34363438.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/910-1983-442876
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T07:54:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66d249df22075704b797ab95dab9708dbd73943d5f5afaeee62376cda102ba6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 377041d2abee36831f992c4d19ad1f19136254ade1bea4cdacfb9ae40a29cdaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:54:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Instituto Universitário da Beira Interior
+- Licenciatura
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:419656:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:220965:por
+  label: "Alterados os anexos III e IV pela PORT.647/86.1986.10.31.MEC, DR.IS [252]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/647-1986-220965
+  date: '1986-10-31'
+- type: cites
+  target: pt:dre:369628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565003:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:419656:por
+  label: "Revogada, sem prejuízo do regime de transição fixado no art. 11º, pela PORT.511/87.1987.06.24.MEC, DR.IS [142]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/511-1987-419656
+  date: '1987-06-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:54:05Z'
   warnings: []
   errors: []
 ---
@@ -199,9 +242,9 @@ Disposição revogatória
 
 Ministério da Educação.
 
-**Assinada em 31 de Agosto de 1983.**
+Assinada em 31 de Agosto de 1983.
 
-**O Ministro da Educação, José Augusto Seabra.**
+O Ministro da Educação, José Augusto Seabra.
 
 ## ANEXO I — Licenciatura em Engenharia Têxtil
 

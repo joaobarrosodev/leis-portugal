@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/16400/0435004368.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/69/2018/08/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7dcefb244e6556317a477098c86ff8962869bd7df616440e34ca05afd5e03df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97c15b6f5b28969ea13494f96c3025e599543d1a59cefb4e7541711df4365a0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
+- ASAE
 - Conselho de Administração
 - Criação de Serviços
 - Definição de Competências
-- Petróleo
-- Política Energética
-- Produto Petrolífero
-- Reservas de Combustível
+- Direção Geral de Energia e Geologia
+- Energia
+- Entidade Nacional para o Mercado de Combustíveis
+- Entidade Nacional para o Setor Energético
+- Entidade Reguladora dos Serviços Energéticos
 - Estatuto
 - Extinção de Serviços
 - Fiscalização
-- Direção Geral de Energia e Geologia
-- ASAE
 - Laboratório Nacional de Energia e Geologia
-- Entidade Nacional para o Mercado de Combustíveis
 - Orgânica
-- Entidade Reguladora dos Serviços Energéticos
-- Energia
+- Pessoal Dirigente
+- Petróleo
+- Política Energética
+- Produto Petrolífero
 - Quadro de Pessoal
+- Reestruturação de Serviços
 - Regime de Pessoal
+- Reservas de Combustível
 - Sistema Petrolífero Nacional
 - Transferência de Competências
-- Entidade Nacional para o Setor Energético
 relationships:
 - type: amended_by
   target: pt:dre:123855889:por
@@ -143,16 +143,128 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/2013/01/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/2013/01/28/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114627386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70737913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73807560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73807563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74811910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75049338:por
+  label: null
+  source: null
 article_structure:
-  article_count: 94
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 10
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:56Z'
   warnings: []
   errors: []
 ---
@@ -221,7 +333,9 @@ Os artigos 1.º, 3.º, 5.º, 6.º-A, 7.º, 16.º, 17.º, 18.º, 19.º-A, 19.º-B
 
 2 - A ENSE, E. P. E., rege-se pelo regime jurídico aplicável às entidades públicas empresariais, com as especificidades previstas nos presentes estatutos.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A ENSE, E. P. E., tem por objeto:
 
@@ -273,7 +387,9 @@ s) Averiguar e avaliar as causas dos acidentes no setor da energia.
 
 4 - A ENSE, E. P. E., exerce ainda competências da gestão e monitorização das atividades de armazenamento de petróleo bruto e seus derivados em todo o território nacional, por forma a garantir e assegurar as condições de aprovisionamento nacionais em petróleo bruto e produtos de petróleo, em função das necessidades do consumo.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -305,7 +421,9 @@ k) [...]
 
 4 - [...]
 
-###### Artigo 6.º-A — [...]
+Artigo 6.º-A
+
+[...]
 
 [...]
 
@@ -319,7 +437,9 @@ d) [...]
 
 e) [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - São órgãos da ENSE, E. P. E.:
 
@@ -345,7 +465,9 @@ e) (Revogada.)
 
 7 - (Revogado.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -367,7 +489,9 @@ g) O conselho fiscal da ENSE, E. P. E., a título de observador.
 
 3 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Compete ao conselho consultivo dar apoio e participar na definição das linhas gerais de atuação da URP e na formação das decisões do conselho de administração, designadamente:
 
@@ -391,11 +515,15 @@ i) Pronunciar-se sobre quaisquer assuntos que o conselho de administração ente
 
 2 - [...]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 O conselho consultivo reúne, ordinariamente, uma vez por semestre e, extraordinariamente, quando convocado pelo seu presidente, por sua iniciativa ou a solicitação da comissão executiva ou de, pelo menos, três dos seus membros.
 
-###### Artigo 19.º-A — [...]
+Artigo 19.º-A
+
+[...]
 
 1 - A ENSE, E. P. E. é constituída pelas seguintes unidades:
 
@@ -409,11 +537,15 @@ d) (Revogada.)
 
 2 - As competências e regras de funcionamento das unidades previstas no número anterior são estabelecidas em regulamento interno da ENSE, E. P. E.
 
-###### Artigo 19.º-B — Unidade de reservas petrolíferas
+Artigo 19.º-B
+
+Unidade de reservas petrolíferas
 
 A URP é uma unidade da ENSE, E. P. E., dotada de autonomia técnica e administrativa e com regime de separação contabilística, que prossegue em exclusivo as atribuições da ENSE, E. P. E., em matéria de aquisição, manutenção, gestão e mobilização de reservas de petróleo bruto e de produtos de petróleo, a título de reservas estratégicas, assegurando as funções de entidade central de armazenagem nacional.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Na gestão patrimonial e financeira da ENSE, E. P. E., aplicam-se as regras legais, o disposto nestes Estatutos e os princípios da boa gestão empresarial.
 
@@ -435,7 +567,9 @@ c) Adjudicação pelo menor custo ou pela proposta economicamente mais vantajosa
 
 d) Salvaguarda do cumprimento dos contratos por parte dos cocontratantes.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -453,7 +587,9 @@ f) (Revogada.)
 
 2 - Não constitui rendimento da ENSE, E. P. E., o produto da venda de reservas de segurança que sejam aplicadas na aquisição de novas reservas, na amortização de dívida nos cinco exercícios seguintes ao da sua venda ou na dotação extraordinária do fundo a que se refere o n.º 4 do artigo 20.º, devendo a diferença entre aquele produto e o custo das reservas vendidas ser contabilizado numa conta específica de 'Outras Reservas'.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...]
 
@@ -559,17 +695,23 @@ ll) Proceder ao licenciamento das instalações de abastecimento de combustívei
 
 3 - Na prossecução das suas atribuições, a DGEG pode ser autorizada pelo membro do Governo responsável pelas áreas da energia e dos recursos geológicos a participar em associações ou outras entidades nacionais e internacionais, conceder apoios financeiros ou celebrar protocolos de cooperação com empresas públicas e entidades nacionais sem fins lucrativos que desenvolvam atividades de interesse público e comum de caráter técnico ou científico e prestem apoio ou promovam a inovação tecnológica no âmbito da utilização de energias renováveis, da eficiência energética, da competitividade ou do aproveitamento sustentável dos recursos energéticos e geológicos, ou assegurem a representação setorial em organizações internacionais de que tenham sido incumbidas.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 A DGEG é dirigida por um diretor-geral, coadjuvado por dois subdiretores-gerais, cargos de direção superior de 1.º e 2.º grau, respetivamente.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
 2 - Os subdiretores-gerais exercem as competências que lhes sejam delegadas ou subdelegadas pelo diretor-geral, competindo-lhes substituí-lo nas suas faltas e impedimentos.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -591,7 +733,9 @@ g) [...]
 
 3 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -607,7 +751,9 @@ d) [...]
 
 e) [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -619,7 +765,9 @@ e) [...]
 
 5 - As referências legais feitas à ENMC, E. P. E., consideram-se feitas à DGEG, no âmbito das atribuições integradas nesta.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 [...]
 
@@ -705,15 +853,15 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte à sua pu
 
 Visto e aprovado em Conselho de Ministros de 26 de julho de 2018. - Augusto Ernesto Santos Silva - João Rodrigo Reis Carvalho Leão - Manuel de Herédia Caldeira Cabral.
 
-**Promulgado em 7 de agosto de 2018.**
+Promulgado em 7 de agosto de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de agosto de 2018.**
+Referendado em 9 de agosto de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere artigo 5.º)
 
@@ -723,25 +871,35 @@ Visto e aprovado em Conselho de Ministros de 26 de julho de 2018. - Augusto Erne
 
 Mapa do pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/08/16400/0435004368.pdf))](https://files.diariodarepublica.pt/1s/2018/08/16400/0435004368.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/08/16400/0435004368.pdf)
 
-## ANEXO II — (a que se refere os n.os 1 e 2 do artigo 9.º)
+ANEXO II
+
+(a que se refere os n.os 1 e 2 do artigo 9.º)
 
 Republicação dos Estatutos da Entidade Nacional para o Setor Energético, E. P. E.
 
-### CAPÍTULO I — Disposições gerais
+CAPÍTULO I
 
-###### Artigo 1.º — Denominação e natureza
+Disposições gerais
+
+Artigo 1.º
+
+Denominação e natureza
 
 1 - A Entidade Nacional para o Setor Energético, E. P. E. (ENSE, E. P. E.), é uma entidade pública empresarial, dotada de autonomia administrativa, financeira e patrimonial.
 
 2 - A ENSE, E. P. E., rege-se pelo regime jurídico aplicável às entidades públicas empresariais, com as especificidades previstas nos presentes estatutos.
 
-###### Artigo 2.º — Sede e delegações
+Artigo 2.º
+
+Sede e delegações
 
 A ENSE, E. P. E., tem a sua sede em Lisboa, podendo dispor de delegações, núcleos ou outras formas de representação em qualquer local do território nacional.
 
-###### Artigo 3.º — Objeto
+Artigo 3.º
+
+Objeto
 
 1 - A ENSE, E. P. E., tem por objeto:
 
@@ -793,11 +951,15 @@ s) Averiguar e avaliar as causas dos acidentes no setor da energia.
 
 4 - A ENSE, E. P. E., exerce ainda competências da gestão e monitorização das atividades de armazenamento de petróleo bruto e seus derivados em todo o território nacional, por forma a garantir e assegurar as condições de aprovisionamento nacionais em petróleo bruto e produtos de petróleo, em função das necessidades do consumo.
 
-###### Artigo 4.º — Capital estatutário
+Artigo 4.º
+
+Capital estatutário
 
 O capital estatutário inicial da ENSE, E. P. E., é de (euro) 250 000, detidos integralmente pelo Estado.
 
-###### Artigo 5.º — Função acionista
+Artigo 5.º
+
+Função acionista
 
 1 - A ENSE, E. P. E., está sujeita à função acionista do membro do Governo responsável pela área das finanças em articulação com o membro do Governo responsável pela área da energia, a exercer nos termos do regime jurídico do setor público empresarial (RJSPE), aprovado pelo [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, e dos números seguintes.
 
@@ -861,13 +1023,17 @@ d) Propor a designação dos restantes vogais do conselho de administração, ob
 
 e) Designar os membros dos órgãos sociais a que se referem as alíneas b) e c) do n.º 1 do artigo 7.º
 
-###### Artigo 6.º — Cooperação
+Artigo 6.º
+
+Cooperação
 
 1 - A ENSE, E. P. E., dispõe da cooperação das autoridades e serviços competentes em tudo o que for necessário para o exercício das suas atribuições, designadamente da Direção-Geral de Energia e Geologia (DGEG) e da Autoridade Tributária e Aduaneira (AT).
 
 2 - A ENSE, E. P. E., proporciona a cooperação às mesmas entidades, nos mesmos termos.
 
-###### Artigo 6.º-A — Poderes de autoridade
+Artigo 6.º-A
+
+Poderes de autoridade
 
 Nos termos dos presentes estatutos e do [Decreto-Lei n.º 165/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), de 16 de dezembro, a ENSE, E. P. E., detém, para efeitos da prossecução das suas atribuições, os poderes, as prerrogativas e as obrigações conferidas ao Estado no que respeita:
 
@@ -881,9 +1047,13 @@ d) À responsabilidade civil extracontratual, nos domínios dos atos de gestão 
 
 e) À instrução e aplicação de sanções em processo contraordenacional.
 
-### CAPÍTULO II — Dos órgãos, da sua competência e funcionamento
+CAPÍTULO II
 
-###### Artigo 7.º — Órgãos estatutários
+Dos órgãos, da sua competência e funcionamento
+
+Artigo 7.º
+
+Órgãos estatutários
 
 1 - São órgãos da ENSE, E. P. E.:
 
@@ -909,21 +1079,29 @@ e) (Revogada.)
 
 7 - (Revogado.)
 
-###### Artigo 8.º — Assembleia geral
+Artigo 8.º
+
+Assembleia geral
 
 (Revogado.)
 
-###### Artigo 9.º — Mesa da assembleia geral
+Artigo 9.º
+
+Mesa da assembleia geral
 
 (Revogado.)
 
-###### Artigo 10.º — Conselho de administração
+Artigo 10.º
+
+Conselho de administração
 
 1 - O conselho de administração é composto por um presidente e dois vogais.
 
 2 - (Revogado.)
 
-###### Artigo 10.º-A — Delegação de poderes e distribuição de pelouros
+Artigo 10.º-A
+
+Delegação de poderes e distribuição de pelouros
 
 1 - O conselho de administração pode delegar em um ou mais dos seus membros as competências que lhe estão cometidas, fixando expressamente os limites dessas delegações e a existência ou não de faculdade de subdelegação.
 
@@ -933,7 +1111,9 @@ e) (Revogada.)
 
 4 - O disposto nos números anteriores não prejudica o dever que incumbe a todos os membros do conselho de administração de tomarem conhecimento e acompanharem a generalidade dos assuntos da ENSE, E. P. E., e de sobre os mesmos se pronunciarem.
 
-###### Artigo 11.º — Competências do conselho de administração
+Artigo 11.º
+
+Competências do conselho de administração
 
 1 - Compete ao conselho de administração definir e executar a orientação geral e as políticas de gestão da ENSE, E. P. E., sem prejuízo das competências dos demais órgãos estatutários, nomeadamente:
 
@@ -983,21 +1163,29 @@ b) Por um administrador, quando haja delegação expressa do conselho de adminis
 
 c) Por mandatários, dentro dos limites das procurações outorgadas.
 
-###### Artigo 12.º — Reuniões do conselho de administração
+Artigo 12.º
+
+Reuniões do conselho de administração
 
 1 - O conselho de administração reúne, ordinariamente, com a periodicidade que deliberar e, extraordinariamente, sempre que convocado pelo presidente, por sua iniciativa ou por solicitação de qualquer dos seus membros.
 
 2 - (Revogado.)
 
-###### Artigo 13.º — Incompatibilidades e impedimentos
+Artigo 13.º
+
+Incompatibilidades e impedimentos
 
 (Revogado.)
 
-###### Artigo 14.º — Fiscalização
+Artigo 14.º
+
+Fiscalização
 
 A fiscalização e controlo da legalidade da gestão financeira e patrimonial da ENSE, E. P. E., compete a um conselho fiscal, composto por três membros efetivos e por um suplente, sendo um deles o presidente, e a um revisor oficial de contas ou sociedade de revisores oficiais de contas, que não sejam membro daquele órgão, nomeados por despacho do membro do Governo responsável pela área das finanças.
 
-###### Artigo 15.º — Competências dos órgãos de fiscalização
+Artigo 15.º
+
+Competências dos órgãos de fiscalização
 
 1 - Os órgãos de fiscalização são responsáveis pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial da empresa.
 
@@ -1031,19 +1219,27 @@ e) Verificar o cumprimento da separação contabilística entre os resultados at
 
 4 - Com base nos relatórios trimestrais elaborados pelo conselho de administração, o conselho fiscal e o revisor oficial de contas devem emitir um relatório sucinto que reflita os controlos efetuados e as eventuais anomalias detetadas, bem como os eventuais desvios verificados em relação aos orçamentos e a identificação das respetivas causas, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças e da energia.
 
-###### Artigo 15.º-A — Conselho Nacional para os Combustíveis
+Artigo 15.º-A
+
+Conselho Nacional para os Combustíveis
 
 (Revogado.)
 
-###### Artigo 15.º-B — Unidade de reservas petrolíferas
+Artigo 15.º-B
+
+Unidade de reservas petrolíferas
 
 (Revogado.)
 
-###### Artigo 15.º-C — Competências da direção executiva da unidade de reservas petrolíferas
+Artigo 15.º-C
+
+Competências da direção executiva da unidade de reservas petrolíferas
 
 (Revogado.)
 
-###### Artigo 16.º — Conselho consultivo da unidade de reservas petrolíferas
+Artigo 16.º
+
+Conselho consultivo da unidade de reservas petrolíferas
 
 1 - O conselho consultivo da URP é um órgão de consulta e de apoio à gestão estratégica da URP, sendo composto por:
 
@@ -1065,7 +1261,9 @@ g) O conselho fiscal da ENSE, E. P. E. a título de observador.
 
 3 - A participação no conselho consultivo não é remunerada, a qualquer título.
 
-###### Artigo 17.º — Competências do conselho consultivo da unidade de reservas petrolíferas
+Artigo 17.º
+
+Competências do conselho consultivo da unidade de reservas petrolíferas
 
 1 - Compete ao conselho consultivo dar apoio e participar na definição das linhas gerais de atuação da URP e na formação das decisões do conselho de administração, designadamente:
 
@@ -1089,17 +1287,25 @@ i) Pronunciar-se sobre quaisquer assuntos que o conselho de administração ente
 
 2 - Os pareceres emitidos pelo conselho consultivo da URP são apensos à documentação correspondente a submeter a aprovação dos membros do Governo responsáveis pelas áreas das finanças e da energia.
 
-###### Artigo 18.º — Reuniões do conselho consultivo da URP
+Artigo 18.º
+
+Reuniões do conselho consultivo da URP
 
 O conselho consultivo reúne, ordinariamente, uma vez por semestre e, extraordinariamente, quando convocado pelo seu presidente, por sua iniciativa ou a solicitação da comissão executiva ou de, pelo menos, três dos seus membros.
 
-###### Artigo 19.º — Convocatórias
+Artigo 19.º
+
+Convocatórias
 
 (Revogado.)
 
-### CAPÍTULO III — Estrutura
+CAPÍTULO III
 
-###### Artigo 19.º-A — Organização interna
+Estrutura
+
+Artigo 19.º-A
+
+Organização interna
 
 1 - A ENSE, E. P. E., é constituída pelas seguintes unidades:
 
@@ -1113,17 +1319,25 @@ d) (Revogada.)
 
 2 - As competências e regras de funcionamento das unidades previstas no número anterior são estabelecidas em regulamento interno da ENSE, E. P. E.
 
-###### Artigo 19.º-B — Unidade de reservas petrolíferas
+Artigo 19.º-B
+
+Unidade de reservas petrolíferas
 
 A URP é uma unidade da ENSE, E. P. E., dotada de autonomia técnica e administrativa e com regime de separação contabilística, que prossegue em exclusivo as atribuições da ENSE, E. P. E., em matéria de aquisição, manutenção, gestão e mobilização de reservas de petróleo bruto e de produtos de petróleo, a título de reservas estratégicas, assegurando as funções de entidade central de armazenagem nacional.
 
-### CAPÍTULO IV — Da gestão patrimonial e financeira
+CAPÍTULO IV
 
-###### Artigo 19.º-C — Património
+Da gestão patrimonial e financeira
+
+Artigo 19.º-C
+
+Património
 
 O património da ENSE, E. P. E., é constituído pela universalidade de bens, direitos e obrigações que lhe foram afetos aquando da sua constituição e por aqueles bens que lhe sejam atribuídos por despacho do membro do Governo responsável pela área das finanças.
 
-###### Artigo 20.º — Princípios de gestão
+Artigo 20.º
+
+Princípios de gestão
 
 1 - Na gestão patrimonial e financeira da ENSE, E. P. E., aplicam-se as regras legais, o disposto nestes Estatutos e os princípios da boa gestão empresarial.
 
@@ -1145,13 +1359,17 @@ c) Adjudicação pelo menor custo ou pela proposta economicamente mais vantajosa
 
 d) Salvaguarda do cumprimento dos contratos por parte dos cocontratantes.
 
-###### Artigo 20.º-A — Práticas de bom governo
+Artigo 20.º-A
+
+Práticas de bom governo
 
 1 - A ENSE, E. P. E. observa as exigências legais e as melhores práticas em matéria de divulgação de informação, transparência, prevenção da corrupção, ética e conduta, responsabilidade social e ambiental e desenvolvimento económico sustentável, política de recursos humanos e promoção da igualdade.
 
 2 - A ENSE, E. P. E. elabora anualmente um relatório de boas práticas de governo societário, do qual consta informação atualizada e completa sobre todas as matérias referidas no número anterior.
 
-###### Artigo 21.º — Rendimentos
+Artigo 21.º
+
+Rendimentos
 
 1 - Constituem rendimentos da ENSE, E. P. E.:
 
@@ -1169,7 +1387,9 @@ f) (Revogada.)
 
 2 - Não constitui rendimento da ENSE, E. P. E., o produto da venda de reservas de segurança que sejam aplicadas na aquisição de novas reservas, na amortização de dívida nos cinco exercícios seguintes ao da sua venda ou na dotação extraordinária do fundo a que se refere o n.º 4 do artigo 20.º, devendo a diferença entre aquele produto e o custo das reservas vendidas ser contabilizado numa conta específica de «Outras Reservas».
 
-###### Artigo 22.º — Gastos
+Artigo 22.º
+
+Gastos
 
 Constituem gastos da ENSE, E. P. E.:
 
@@ -1185,7 +1405,9 @@ e) Os encargos com seguros;
 
 f) As dotações para o fundo estatutário a que se refere o n.º 4 do artigo 24.º, as quais são contabilizadas por contrapartida de uma conta específica de «Outras Reservas».
 
-###### Artigo 23.º — Gestão patrimonial e financeira
+Artigo 23.º
+
+Gestão patrimonial e financeira
 
 1 - A gestão patrimonial e financeira, incluindo a organização da sua contabilidade, rege-se pelas normas aplicáveis às entidades públicas empresariais, sem prejuízo do disposto nestes Estatutos e em disposições legais aplicáveis.
 
@@ -1195,11 +1417,15 @@ f) As dotações para o fundo estatutário a que se refere o n.º 4 do artigo 24
 
 4 - O relatório e contas, elaborados com referência a 31 de dezembro de cada ano, acompanhados dos pareceres do conselho fiscal são submetidos aos membros do Governo responsáveis pelas áreas das finanças e da energia até 31 de março do ano seguinte àquele a que respeitam.
 
-###### Artigo 23.º-A — Controlo orçamental de resultados da unidade de reservas petrolíferas
+Artigo 23.º-A
+
+Controlo orçamental de resultados da unidade de reservas petrolíferas
 
 Caso o resultado da atividade principal da URP, antes do apuramento definitivo dos resultados do exercício, divirja do resultado orçamentado, deve ser efetuado o correspondente acerto à faturação, numa base proporcional ao montante das prestações pagas pelos operadores obrigados, no mesmo exercício, produto a produto.
 
-###### Artigo 24.º — Aplicação de resultados
+Artigo 24.º
+
+Aplicação de resultados
 
 1 - Os resultados positivos são levados a uma conta de reservas livres, destinada prioritariamente à amortização da dívida ou à aquisição de produtos petrolíferos.
 
@@ -1207,13 +1433,19 @@ Caso o resultado da atividade principal da URP, antes do apuramento definitivo d
 
 3 - (Revogado.)
 
-###### Artigo 24.º-A — Regime contabilístico
+Artigo 24.º-A
+
+Regime contabilístico
 
 A ENSE, E. P. E., rege-se pelo princípio da transparência financeira e deve manter separados contabilisticamente os resultados atribuíveis à atividade de constituição, gestão e manutenção de reservas estratégicas, a exercer através da URP, dos resultados atribuíveis a outras atividades.
 
-### CAPÍTULO V — Prestações dos operadores obrigados
+CAPÍTULO V
 
-###### Artigo 25.º — Fixação das prestações
+Prestações dos operadores obrigados
+
+Artigo 25.º
+
+Fixação das prestações
 
 1 - Sem prejuízo do disposto no n.º 4, as prestações unitárias a pagar à ENSE, E. P. E., através da URP, pelos operadores obrigados são previstas nos orçamentos anuais, devendo o respetivo cálculo por produto ou por categoria de produtos ser demonstrado e justificado em anexo ao orçamento.
 
@@ -1227,7 +1459,9 @@ A ENSE, E. P. E., rege-se pelo princípio da transparência financeira e deve ma
 
 6 - (Revogado.)
 
-###### Artigo 26.º — Liquidação das prestações
+Artigo 26.º
+
+Liquidação das prestações
 
 1 - Para efeitos de pagamento das prestações devidas à ENSE, E. P. E., os operadores obrigados devem fornecer mensalmente, até ao dia 15 de cada mês, informação referente às quantidades introduzidas no mercado nacional no mês anterior, com referência ao último dia desse mês.
 
@@ -1241,27 +1475,39 @@ A ENSE, E. P. E., rege-se pelo princípio da transparência financeira e deve ma
 
 6 - A caução é devolvida se aquela entidade satisfizer regularmente as suas obrigações para com a ENSE, E. P. E., por um período de um ano, sendo perdida a favor da ENSE, E. P. E., a pedido desta, no caso de reincidência no incumprimento por prazo superior a 45 dias.
 
-###### Artigo 27.º — Formas de constituição das reservas
+Artigo 27.º
+
+Formas de constituição das reservas
 
 (Revogado.)
 
-###### Artigo 28.º — Delegação de reservas
+Artigo 28.º
+
+Delegação de reservas
 
 (Revogado.)
 
-###### Artigo 29.º — Manutenção de qualidade
+Artigo 29.º
+
+Manutenção de qualidade
 
 (Revogado.)
 
-###### Artigo 30.º — Rotação de existências
+Artigo 30.º
+
+Rotação de existências
 
 (Revogado.)
 
-###### Artigo 31.º — Venda de reservas excedentárias
+Artigo 31.º
+
+Venda de reservas excedentárias
 
 (Revogado.)
 
-###### Artigo 32.º — Mobilização de reservas em situação de perturbação grave ou de crise energética
+Artigo 32.º
+
+Mobilização de reservas em situação de perturbação grave ou de crise energética
 
 1 - Em contexto de resposta a situações de perturbação grave do abastecimento ou de crise energética, a mobilização de reservas a cargo da ENSE, E. P. E., através da URP, só pode ser efetuada após determinação nesse sentido do membro do Governo responsável pela área da energia.
 
@@ -1269,17 +1515,25 @@ A ENSE, E. P. E., rege-se pelo princípio da transparência financeira e deve ma
 
 3 - Se o rendimento apurado for insuficiente para cobrir o custo médio de aquisição do produto, deduzido do montante resultante da utilização proporcional do fundo estatutário previsto no n.º 4 do artigo 20.º, o Estado assume a perda resultante, através de uma dotação extraordinária daquele fundo.
 
-###### Artigo 33.º — Seguros
+Artigo 33.º
+
+Seguros
 
 As reservas detidas pela ENSE, E. P. E., são obrigatoriamente protegidas por seguros, por valores a aprovar nos termos previstos na alínea f) do n.º 4 do artigo 5.º
 
-### CAPÍTULO VI — Pessoal
+CAPÍTULO VI
 
-###### Artigo 34.º — Quadro
+Pessoal
+
+Artigo 34.º
+
+Quadro
 
 O quadro de pessoal da ENSE, E. P. E., é aprovado pelo conselho de administração.
 
-###### Artigo 35.º — Estatuto do pessoal
+Artigo 35.º
+
+Estatuto do pessoal
 
 1 - O pessoal da ENSE, E. P. E., rege-se pelas normas aplicáveis ao contrato individual de trabalho.
 
@@ -1295,29 +1549,43 @@ c) Proceder à selagem provisória de quaisquer instalações ou equipamentos, q
 
 d) Solicitar o apoio das autoridades administrativas e policiais para cumprimento das respetivas funções, nomeadamente para a selagem definitiva de instalações e levantamento de autos de notícia por infração de normas aplicáveis.
 
-###### Artigo 36.º — Regime de previdência
+Artigo 36.º
+
+Regime de previdência
 
 Os trabalhadores da ENSE, E. P. E., são inscritos na respetiva instituição de segurança social.
 
-###### Artigo 37.º — Mobilidade
+Artigo 37.º
+
+Mobilidade
 
 (Revogado.)
 
-### CAPÍTULO VII — Extinção
+CAPÍTULO VII
 
-###### Artigo 38.º — Extinção da Entidade Nacional para o Setor Energético, E. P. E.
+Extinção
+
+Artigo 38.º
+
+Extinção da Entidade Nacional para o Setor Energético, E. P. E.
 
 Em caso de extinção da ENSE, E. P. E., o Estado assume eventuais perdas derivadas da liquidação de ativos, bem como responsabilidades residuais.
 
-## ANEXO III — (a que se refere o n.º 3 do artigo 9.º)
+ANEXO III
+
+(a que se refere o n.º 3 do artigo 9.º)
 
 Republicação do [Decreto-Lei n.º 130/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2014-56384882), de 29 de agosto
 
-###### Artigo 1.º — Natureza
+Artigo 1.º
+
+Natureza
 
 A Direção-Geral de Energia e Geologia, abreviadamente designada por DGEG, é um serviço central da administração direta do Estado dotado de autonomia administrativa.
 
-###### Artigo 2.º — Missão e atribuições
+Artigo 2.º
+
+Missão e atribuições
 
 1 - A DGEG tem por missão contribuir para a conceção, promoção e avaliação das políticas relativas à energia e aos recursos geológicos e mineiros, numa ótica de desenvolvimento sustentável e de garantia da segurança do abastecimento.
 
@@ -1401,11 +1669,15 @@ ll) Proceder ao licenciamento das instalações de abastecimento de combustívei
 
 3 - Na prossecução das suas atribuições, a DGEG pode ser autorizada pelo membro do Governo responsável pelas áreas da energia e dos recursos geológicos a participar em associações ou outras entidades nacionais e internacionais, conceder apoios financeiros ou celebrar protocolos de cooperação com empresas públicas e entidades nacionais sem fins lucrativos que desenvolvam atividades de interesse público e comum de caráter técnico ou científico e prestem apoio ou promovam a inovação tecnológica no âmbito da utilização de energias renováveis, da eficiência energética, da competitividade ou do aproveitamento sustentável dos recursos energéticos e geológicos, ou assegurem a representação setorial em organizações internacionais de que tenham sido incumbidas.
 
-###### Artigo 3.º — Órgãos
+Artigo 3.º
+
+Órgãos
 
 A DGEG é dirigida por um diretor-geral, coadjuvado por dois subdiretores-gerais, cargos de direção superior de 1.º e 2.º grau, respetivamente.
 
-###### Artigo 4.º — Diretor-geral
+Artigo 4.º
+
+Diretor-geral
 
 1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao diretor-geral:
 
@@ -1415,7 +1687,9 @@ b) Assegurar a gestão executiva do Fundo de Apoio à Inovação.
 
 2 - Os subdiretores-gerais exercem as competências que lhes sejam delegadas ou subdelegadas pelo diretor-geral, competindo-lhes substituí-lo nas suas faltas e impedimentos.
 
-###### Artigo 5.º — Conselho científico
+Artigo 5.º
+
+Conselho científico
 
 1 - O conselho científico é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação e nas tomadas de decisão do diretor-geral no que se refere à atividade científica da DGEG.
 
@@ -1439,11 +1713,15 @@ e) Exercer as competências atribuídas por lei ao conselho científico, nomeada
 
 6 - A participação no conselho científico não é remunerada.
 
-###### Artigo 6.º — Tipo de organização interna
+Artigo 6.º
+
+Tipo de organização interna
 
 A organização interna da DGEG obedece ao modelo de estrutura hierarquizada.
 
-###### Artigo 7.º — Receitas
+Artigo 7.º
+
+Receitas
 
 1 - A DGEG dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
 
@@ -1465,15 +1743,21 @@ g) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam at
 
 3 - As quantias cobradas pela DGEG são fixadas e periodicamente atualizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e da energia e dos recursos geológicos, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indiretos de funcionamento.
 
-###### Artigo 8.º — Despesas
+Artigo 8.º
+
+Despesas
 
 Constituem despesas da DGEG as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
 
-###### Artigo 9.º — Mapa de cargos de direção
+Artigo 9.º
+
+Mapa de cargos de direção
 
 Os lugares de direção superior de 1.º e 2.º grau e de direção intermédia de 1.º grau constam do mapa anexo ao presente decreto-lei, que dele faz parte integrante.
 
-###### Artigo 10.º — Trabalhadores com funções de fiscalização
+Artigo 10.º
+
+Trabalhadores com funções de fiscalização
 
 1 - Os trabalhadores que se encontrem no exercício de funções de fiscalização ou em ações de vistoria devem ser portadores de cartão de identificação especial, cujo modelo é aprovado pelo membro do Governo responsável pelas áreas da energia e dos recursos geológicos.
 
@@ -1489,7 +1773,9 @@ d) Levantar autos de notícia por infração ao cumprimento de normas e regulame
 
 e) Solicitar o apoio das autoridades administrativas e policiais para cumprimento das respetivas funções.
 
-###### Artigo 11.º — Sucessão
+Artigo 11.º
+
+Sucessão
 
 1 - A DGEG sucede nas atribuições das DRE nos domínios da energia e da geologia.
 
@@ -1501,7 +1787,9 @@ e) Solicitar o apoio das autoridades administrativas e policiais para cumpriment
 
 5 - As referências legais feitas à ENMC, E. P. E., consideram-se feitas à DGEG, no âmbito das atribuições integradas nesta.
 
-###### Artigo 12.º — Critérios de seleção do pessoal
+Artigo 12.º
+
+Critérios de seleção do pessoal
 
 São fixados os seguintes critérios gerais e abstratos de seleção do pessoal necessário à prossecução das atribuições da DGEG:
 
@@ -1511,19 +1799,27 @@ b) Desempenho de funções no domínio da bioenergia com exceção dos biocombus
 
 c) Desempenho de funções nos domínios dos hidrocarbonetos e de licenciamento na área dos biocombustíveis.
 
-###### Artigo 13.º — Alteração ao [Decreto-Lei n.º 165/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), de 16 de dezembro
+Artigo 13.º
+
+Alteração ao [Decreto-Lei n.º 165/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), de 16 de dezembro
 
 [...]
 
-###### Artigo 14.º — Alteração dos Estatutos da Entidade Nacional para o Mercado de Combustíveis, E. P. E., aprovados pelo [Decreto-Lei n.º 339-D/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-d-2001-421437), de 28 de dezembro
+Artigo 14.º
+
+Alteração dos Estatutos da Entidade Nacional para o Mercado de Combustíveis, E. P. E., aprovados pelo [Decreto-Lei n.º 339-D/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-d-2001-421437), de 28 de dezembro
 
 [...]
 
-###### Artigo 15.º — Aditamento ao [Decreto-Lei n.º 165/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), de 16 de dezembro
+Artigo 15.º
+
+Aditamento ao [Decreto-Lei n.º 165/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), de 16 de dezembro
 
 [...]
 
-###### Artigo 16.º — Norma revogatória
+Artigo 16.º
+
+Norma revogatória
 
 São revogados:
 
@@ -1531,12 +1827,18 @@ a) O [Decreto-Lei n.º 151/2012](https://diariodarepublica.pt/dr/detalhe/decreto
 
 b) O [Decreto Regulamentar n.º 58/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/58-2007-520871), de 27 de abril, alterado pelo [Decreto Regulamentar n.º 5/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2009-604669), de 3 de março.
 
-###### Artigo 17.º — Entrada em vigor
+Artigo 17.º
+
+Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
-## ANEXO — (a que se refere o artigo 9.º)
+ANEXO
+
+(a que se refere o artigo 9.º)
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/08/16400/0435004368.pdf))](https://files.diariodarepublica.pt/1s/2018/08/16400/0435004368.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/08/16400/0435004368.pdf)
+
+111579772

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/00100/0000200024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/1/2023/01/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bec75a774390157976efd115036e3751bc3043535f30a0b98babc5cd6ad0e1c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0a0a6d94ed5d9c717a7be8c1a28f8fad42a2e4b137ed846a5b2681d4d75b534
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Património
-- Fundação
+- Benefícios Fiscais
 - Contrato Individual de Trabalho
 - Estatuto
 - Extinção de Serviços
+- Fundação
 - Fundação Museu Nacional Ferroviário Armando Ginestal Machado
 - Isenção Fiscal
+- Património
 - Pessoa Colectiva de Direito Privado sem FINS Lucrativos
-- Benefícios Fiscais
 - Utilidade Pública
 relationships:
 - type: cites
@@ -121,16 +121,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/2021/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/2021/08/25/p/dre
+- type: cites
+  target: pt:dre:165036155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170175410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70241301:por
+  label: null
+  source: null
 article_structure:
-  article_count: 83
+  article_count: 53
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:27Z'
   warnings: []
   errors: []
 ---
@@ -179,15 +223,21 @@ Os artigos 1.º, 2.º, 4.º e 7.º do [Decreto-Lei n.º 38/2005](https://diariod
 
 4 - A Fundação encontra-se sujeita à superintendência e tutela dos membros do Governo responsáveis pelas áreas da cultura e das infraestruturas.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 A Fundação tem estatuto de utilidade pública, para efeitos do disposto na Lei-Quadro do Estatuto de Utilidade Pública, aprovada em anexo à [Lei n.º 36/2021](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), de 14 de junho.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 É aplicável aos trabalhadores da Fundação o regime jurídico dos trabalhadores que exercem funções públicas, nos termos da alínea b) do n.º 2 do artigo 52.º da [Lei n.º 24/2012](https://diariodarepublica.pt/dr/detalhe/lei/24-2012-179571), de 9 de julho, na sua redação atual.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 A Fundação goza do regime reconhecido às pessoas coletivas de utilidade pública, nomeadamente no que respeita a isenções e benefícios fiscais e a candidaturas a fundos públicos nacionais ou europeus.»
 
@@ -231,13 +281,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de novembro de 2022. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - Pedro Adão e Silva Cardoso Pereira - Pedro Nuno de Oliveira Santos.
 
-**Promulgado em 13 de dezembro de 2022.**
+Promulgado em 13 de dezembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de dezembro de 2022.**
+Referendado em 14 de dezembro de 2022.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
 
@@ -245,13 +295,17 @@ Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidê
 
 «ESTATUTOS
 
-###### Artigo 1.º — Natureza e designação
+Artigo 1.º
+
+Natureza e designação
 
 1 - A Fundação Museu Nacional Ferroviário Armando Ginestal Machado, F. P., doravante designada por Fundação, é uma fundação pública de direito privado que se rege pelo disposto no decreto-lei que a institui, pelos presentes Estatutos, pela Lei-Quadro das Fundações, aprovada em anexo à [Lei n.º 24/2012](https://diariodarepublica.pt/dr/detalhe/lei/24-2012-179571), de 9 de julho, na sua redação atual, e pela demais legislação que lhe seja aplicável.
 
 2 - A Fundação encontra-se sujeita à superintendência e tutela dos membros do Governo responsáveis pelas áreas da cultura e das infraestruturas.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -289,7 +343,9 @@ n) [Anterior alínea m).]
 
 4 - A Fundação pode ainda gerir bens do domínio público ferroviário que lhe sejam subconcessionados, dentro dos seus fins e atividades.
 
-###### Artigo 6.º — Património e modo de funcionamento
+Artigo 6.º
+
+Património e modo de funcionamento
 
 1 - [...]
 
@@ -333,19 +389,25 @@ s) Quaisquer outros rendimentos ou valores que provenham da sua atividade ou que
 
 2 - (Revogado.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A Fundação goza de autonomia financeira, administrativa e patrimonial, estando a sua ação subordinada às normas dos presentes Estatutos, à Lei-Quadro das Fundações e à demais legislação aplicável.
 
 2 - (Revogado.)
 
-###### Artigo 7.º-A — Orçamento anual
+Artigo 7.º-A
+
+Orçamento anual
 
 1 - O orçamento anual de funcionamento da Fundação é assegurado através do património e receitas referidos no artigo 6.º, bem como de outras verbas que lhe sejam atribuídas, designadamente pelas respetivas entidades instituidoras, inscritas nos respetivos orçamentos, e pelo Fundo de Fomento Cultural.
 
 2 - O orçamento anual de funcionamento da Fundação inclui os encargos com pessoal e com as aquisições de bens e serviços essenciais para a atividade corrente da Fundação, deduzidas as receitas dela resultantes.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -353,7 +415,9 @@ s) Quaisquer outros rendimentos ou valores que provenham da sua atividade ou que
 
 3 - Os bens descritos na alínea a) do n.º 1 do artigo 6.º dos presentes Estatutos podem reverter, nos termos da lei, para o domínio público ferroviário sob gestão da IP, S. A., caso deixem de ser necessários para a prossecução dos fins da Fundação.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A Fundação, se tal se mostrar imprescindível para a prossecução das suas atribuições, pode criar ou participar em associações sem fins lucrativos ou sociedades comerciais cujo objeto se enquadre no âmbito dos seus fins ou, ainda, filiar-se ou estabelecer acordos de cooperação com instituições nacionais ou estrangeiras que prossigam fins análogos.
 
@@ -363,7 +427,9 @@ s) Quaisquer outros rendimentos ou valores que provenham da sua atividade ou que
 
 4 - A criação, participação ou filiação referidas no n.º 1 depende de prévia autorização dos membros do Governo responsáveis pelas áreas das finanças e da tutela e a deliberação do conselho diretivo tem de ter o voto favorável do respetivo presidente, ouvido o conselho de fundadores.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - São órgãos da Fundação:
 
@@ -383,11 +449,15 @@ d) O fiscal único.
 
 5 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial da Fundação.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Os titulares do conselho diretivo e o fiscal único exercem o respetivo mandato por cinco anos, renovável uma vez por igual período.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O conselho diretivo da Fundação é composto pelo presidente, por um vice-presidente, e por dois vogais.
 
@@ -401,7 +471,9 @@ a) O vice-presidente e um dos vogais são propostos, alternadamente, entre a CP,
 
 b) O outro vogal é proposto pelo Município do Entroncamento.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 Compete ao conselho diretivo:
 
@@ -437,7 +509,9 @@ p) Submeter à aprovação do membro do Governo responsável pela área das infr
 
 q) Exercer os demais poderes previstos nos presentes Estatutos e que não estejam atribuídos a outro órgão.
 
-###### Artigo 15.º — Competência do presidente do conselho diretivo
+Artigo 15.º
+
+Competência do presidente do conselho diretivo
 
 1 - Compete ao presidente do conselho diretivo:
 
@@ -457,7 +531,9 @@ g) Exercer quaisquer outras funções que lhe sejam delegadas pelo conselho dire
 
 2 - O presidente é substituído nas suas faltas e impedimentos pelo vice-presidente.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O conselho diretivo reúne ordinariamente uma vez por semana e, extraordinariamente, sempre que for convocado pelo seu presidente por iniciativa própria ou por solicitação de dois membros.
 
@@ -467,13 +543,17 @@ g) Exercer quaisquer outras funções que lhe sejam delegadas pelo conselho dire
 
 4 - [...]
 
-###### Artigo 17.º — Delegação de competências
+Artigo 17.º
+
+Delegação de competências
 
 1 - O conselho diretivo pode delegar num dos seus membros a prática dos atos de gestão corrente da Fundação.
 
 2 - (Revogado.)
 
-###### Artigo 18.º — Representação
+Artigo 18.º
+
+Representação
 
 A Fundação é representada, designadamente, em juízo ou na prática de atos jurídicos:
 
@@ -487,7 +567,9 @@ d) Por dois dos seus membros; ou
 
 e) Por mandatários especialmente designados.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 [...]
 
@@ -497,7 +579,9 @@ b) [...]
 
 c) [...]
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -525,13 +609,17 @@ j) Emitir parecer sobre proposta do conselho diretivo ao abrigo do n.º 3 do art
 
 3 - O conselho de fundadores pode dirigir ao conselho diretivo recomendações, bem como solicitar relativamente a essas recomendações o parecer do conselho consultivo.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Para efeitos do exercício dos direitos e obrigações conferidos pelos presentes Estatutos aos fundadores, são a estes equiparadas as entidades que contribuam para a realização dos fins da Fundação, mediante uma contribuição de valor igual ou superior ao montante fixado pelo conselho de fundadores sob proposta do conselho diretivo.
 
 2 - A contribuição referida no número anterior pode ser em espécie, mas o respetivo valor, para efeitos de equiparação a fundador, é traduzido em euros pelo conselho diretivo e mediante parecer prévio do fiscal único.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - O conselho de fundadores reúne ordinariamente duas vezes por ano e, extraordinariamente, mediante convocação do presidente do conselho diretivo da Fundação, por sua iniciativa, de um terço dos membros do conselho de fundadores ou a pedido do fiscal único.
 
@@ -543,7 +631,9 @@ j) Emitir parecer sobre proposta do conselho diretivo ao abrigo do n.º 3 do art
 
 5 - Às reuniões do conselho de fundadores podem assistir e participar, sem direito a voto, o presidente do conselho consultivo e o fiscal único.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 [...]
 
@@ -571,7 +661,9 @@ l) Por um representante das associações de amigos dos caminhos de ferro;
 
 m) Por três personalidades indicadas pelo membro do Governo responsável pela área das infraestruturas.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - O conselho consultivo tem como atribuições o aconselhamento e emissão de pareceres sobre todos os assuntos que lhe sejam submetidos pelo conselho diretivo ou pelo conselho de fundadores.
 
@@ -595,7 +687,9 @@ h) Emitir parecer sobre todos os assuntos que lhe sejam submetidos pelo conselho
 
 3 - O prazo para a elaboração dos pareceres referidos no número anterior é de 15 dias a contar da receção dos documentos a que respeitam.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - O conselho consultivo reúne ordinariamente pelo menos duas vezes por ano e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa, ou por solicitação do conselho diretivo, ou a pedido de um terço dos seus membros.
 
@@ -607,13 +701,17 @@ h) Emitir parecer sobre todos os assuntos que lhe sejam submetidos pelo conselho
 
 5 - O exercício das funções de membro do conselho consultivo não é remunerado.
 
-###### Artigo 26.º-A — Designação, mandato e remuneração
+Artigo 26.º-A
+
+Designação, mandato e remuneração
 
 1 - O fiscal único é designado por despacho dos membros do Governo responsáveis pelas áreas das finanças e da tutela, obrigatoriamente de entre os auditores registados na Comissão do Mercado de Valores Mobiliários ou, quando tal não se mostrar adequado, de entre os revisores oficiais de contas ou sociedades de revisores oficiais de contas inscritos na respetiva lista da Ordem dos Revisores Oficiais de Contas.
 
 2 - O exercício de funções no órgão de fiscalização é incompatível com a titularidade simultânea de cargos de administração ou de gestão corrente da Fundação.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Sem prejuízo das competências previstas na Lei-Quadro dos Institutos Públicos para os institutos públicos de regime comum, aplicável nos termos da Lei-Quadro das Fundações, compete ao fiscal único:
 
@@ -653,15 +751,21 @@ b) Ter livre acesso a todos os serviços e à documentação da Fundação e sol
 
 c) Tomar ou propor as demais providências que considere indispensáveis.
 
-###### Artigo 29.º-A — Gestão económico-financeira
+Artigo 29.º-A
+
+Gestão económico-financeira
 
 A Fundação está sujeita ao regime da gestão económico-financeira e patrimonial previsto na Lei-Quadro dos Institutos Públicos.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 À extinção da Fundação é aplicável o disposto na Lei-Quadro das Fundações.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]
 
@@ -1236,3 +1340,5 @@ h) Efacec.
 2 - O presidente da Fundação convocará, para os 15 dias subsequentes à data do despacho que o nomear, a primeira reunião do conselho de fundadores para proceder às eleições e designações previstas nos presentes Estatutos.
 
 3 - No prazo referido no número anterior, o presidente da Fundação diligenciará junto das entidades competentes para a designação dos restantes titulares dos órgãos sociais.
+
+115980201

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/055a00/12221229.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/80/2001/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:30:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eefb81b1ecdcc2876f305022ae67a07c9962ce4d69b26e31da3e772d01e912e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e37c5d968d21d464e7e27d37056182f6b5eae6078c23b762ff4e019b41802ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:30:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério do Trabalho e da Solidariedade
-- Pessoal Dirigente
 - Incompatibilidades
 - Inspecção Geral
 - Integração de Trabalhadores
+- Ministério do Trabalho e da Solidariedade
 - Orgânica
 - Pessoal de Inspecção
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Segredo Profissional
 relationships:
@@ -79,6 +79,20 @@ relationships:
   target: pt:dre:636408:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:527834:por
+  label: "Determinada a sucessão da Inspecção-Geral do Ministério da Segurança Social e do Trabalho, nos direitos e obrigações,\
+    \ à Inspecção-Geral do Ministério do Trabalho e da Solidariedade, cuja orgânica foi aprovada pelo presente diploma, pelo\
+    \ DEC LEI.171/2004.17.07.2004.MSST, DR.IS-A [167] de 17.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2004-527834
+  date: '2004-07-17'
+- type: amended_by
+  target: pt:dre:457199:por
+  label: "Determinada que a Inspecção Geral da Segurança Social e da Família suceda nos direitos e obrigações à Inspecção\
+    \ Geral da Segurança Social cuja orgânica foi aprovada pelo presente diploma, pelo DEC LEI.5/2005.05.01.2005.MSSFC, DR.IS-A\
+    \ [3] de 05.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-2005-457199
+  date: '2005-01-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/115/1998/05/04/p/dre
   label: null
@@ -103,16 +117,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/283/1993/03/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/283/1993/03/12/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636408:por
+  label: "Revogado a partir de 01.08.2007, nos termos do art. 4º do Dec Lei 211/2006 de 27-Out, pelo DR.80/2007.30.07.2007.MTSSO,\
+    \ DR.IS [145] de 30.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/80-2007-636408
+  date: '2007-07-30'
 article_structure:
   article_count: 35
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:30:17Z'
   warnings: []
   errors: []
 ---
@@ -489,15 +541,15 @@ Os encargos orçamentais decorrentes da aplicação deste diploma são suportado
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Alberto de Sousa Martins.
 
-**Promulgado em 13 de Fevereiro de 2001.**
+Promulgado em 13 de Fevereiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Fevereiro de 2001.**
+Referendado em 22 de Fevereiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Mapa do pessoal dirigente a que se refere o n.º 1 do artigo 20.º
 

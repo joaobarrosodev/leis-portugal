@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/16000/0000500007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/3/2022/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2022-192209137
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T06:35:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d63f6539b6d40ff7589f81dd33c4baa76adcf69439184ecd0edfba41d51575f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06dd9d4395dfb5b3dd955a893ed1edd19d4f32c10e31dee70c63ea97f1207c9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:35:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Criança
-- Regulamentação de Atos Legislativos
-- Proteção à Infância
-- Subsídio
 - Abono de Família
+- Criança
 - Garantia para a Infância
+- Proteção à Infância
+- Regulamentação de Atos Legislativos
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:1038101444:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:229857698:por
+  label: Atualizado, com efeitos a partir de 01.01.2024, o valor de referência da garantia para a infância previsto no n.º
+    2 do art. 5.º do presente diploma pelo(a) Portaria n.º 422/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/422-2023-229857698
+  date: '2023-12-11'
+- type: amended_by
+  target: pt:dre:1038101444:por
+  label: Atualizado, a partir de 6 de fevereiro de 2026, com efeitos a 1 de janeiro de 2026, o valor de referência da garantia
+    para a infância, de acordo com o n.º 2 do artigo 5.º do presente diploma pelo(a) Portaria n.º 60/2026/1 - Diário da República
+    n.º 25/2026, Série I de 2026-02-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/60-2026-1038101444
+  date: '2026-02-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/176/2003/08/02/p/dre
   label: null
@@ -88,16 +101,24 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2021/1004/oj
   label: null
   source: http://data.europa.eu/eli/reco/2021/1004/oj
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652702:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:35:02Z'
   warnings: []
   errors: []
 ---
@@ -198,12 +219,14 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 11 de agosto de 2022. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 15 de agosto de 2022.**
+Promulgado em 15 de agosto de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 17 de agosto de 2022.**
+Referendado em 17 de agosto de 2022.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+115621922

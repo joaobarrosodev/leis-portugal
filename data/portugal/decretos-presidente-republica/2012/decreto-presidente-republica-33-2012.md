@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/33/2012/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/33-2012-542848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T05:14:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b888dd2e59d5ba15236a181b6ba6ef163ae12e77b0e8c0534598b608946394d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33d26e7b9d906a1e99dd321ac2b7eaa0bb02a55ee3230d0f6679d2a052c60ad5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:14:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embaixador
 - Áustria
+- Embaixador
 - Nomeação
 - Viena
 relationships:
@@ -74,16 +74,21 @@ relationships:
   target: pt:dre:258718:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:258718:por
+  label: "Exonerada pelo DEC.33/2013.14.02.2013.PR, DR.IS [32] de 14.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/33-2013-258718
+  date: '2013-02-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:14:01Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +97,16 @@ validation:
 
 de 22 de fevereiro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeada, sob proposta do Governo, a embaixadora Ana Maria da Silva Marques Martinho para o cargo de Embaixadora de Portugal em Viena.
 
-**Assinado em 14 de fevereiro de 2012.**
+Assinado em 14 de fevereiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de fevereiro de 2012.**
+Referendado em 17 de fevereiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo de Sacadura Cabral Portas.**
+O Primeiro-Ministro, Pedro Passos Coelho. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo de Sacadura Cabral Portas.

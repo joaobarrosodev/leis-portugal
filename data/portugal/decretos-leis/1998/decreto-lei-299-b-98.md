@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 225/1998, 2º Suplemento, Série I-A de 1998-09-29
   number: '225'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4992-(8) a 4992-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/225a02/00080017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/299-b/1998/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-b-1998-349923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:00:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ea083ddecb517215b6cfd9de101c5a4e4013945a93ab1f9dd62afbd089cbd1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c27c38726814ed5d3d74c2f6e74db63aea1c90cf0923a2ee4a3266553c7caff9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:00:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,7 @@ reuse:
 subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
-- Multa
 - Contrato de Concessão
-- Transporte Ferroviário
 - Criação de Serviços
 - Definição de Competências
 - Direcção Geral dos Transportes Terrestres
@@ -79,10 +77,12 @@ subjects:
 - Instituto Público
 - Integração de Trabalhadores
 - Ministro do Equipamento do Planeamento e da Administração do Território
+- Multa
 - Personalidade Jurídica
-- Serviço Público
 - Regime Jurídico
+- Serviço Público
 - Setor Público
+- Transporte Ferroviário
 - Transporte Público
 - Tutela
 relationships:
@@ -90,6 +90,52 @@ relationships:
   target: pt:dre:520991:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Integrado pelo Dec Lei 474-A/99, de 8-Nov, no Ministério do Equipamento Social, o Instituto do Transporte Ferroviário,\
+    \ criado pelo Dec Lei 299-B/98, de 29-Set DR. IS-A [225]2 SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:140139:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, limitando os efeitos da inconstitucionalidade a\
+    \ partir da publicação do AC.140/2002.2002.04.09.TCS, DR.IS-A [146] de 27/Jun/2002, sem prejuízo da produção desses efeitos\
+    \ nos casos pendentes de decisão de Tribunal, da norma constante do nº 4 do art. 1º do presente diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/140-2002-140139
+  date: '2002-04-09'
+- type: amended_by
+  target: pt:dre:466831:por
+  label: "Determinada a transferência para as AMT das atribuições e competências conferidas pelo presente diploma e respectiva\
+    \ legislação complementar pelo DEC LEI.268/2003.28.10.2003.MOPTH, DR.IS-A [250] de 28.10.2003, nos termos do seu art.\
+    \ 14.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-2003-466831
+  date: '2003-10-28'
+- type: amended_by
+  target: pt:dre:466832:por
+  label: "Alterada a al. b) do n.º 2, o n.º 4 e o n.º 5 do art. 33.º, pelo DEC LEI.270/2003.28.10.2003.MOPTH, DR.IS-A [250]\
+    \ de 28.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-2003-466832
+  date: '2003-10-28'
+- type: amended_by
+  target: pt:dre:589697:por
+  label: "Determinada a sujeição à superintendência e tutela do Ministro das Obras Públicas, Transportes e Comunicações do\
+    \ Instituto, criado no presente diploma, pelo DEC LEI.58/2005.04.03.2005.MOPTC, DR.IS-A [45] de 04.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2005-589697
+  date: '2005-03-04'
+- type: amended_by
+  target: pt:dre:545646:por
+  label: "Extinto, sendo objecto de fusão, o Instituto Nacional de Transporte Ferroviário, I.P. criado pelo presente diploma,\
+    \ cujas atribuições nos termos da al. b) do nº 2 do art. 26.º são integradas no Instituto da Mobilidade e dos Transportes\
+    \ Terrestres, I.P., pelo DEC LEI.210/2006.27.10.2006.MOPTC, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-2006-545646
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:520991:por
+  label: "Determinada a sucessão do Instituto da Mobilidade e dos Transportes Terrestres, I.P. nas atribuições do INTT (que\
+    \ se extingue) constantes do presente diploma, que é revogado a partir de 01.05.2007 pelo DEC LEI.147/2007.27.04.2007.MOPTC,\
+    \ DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-2007-520991
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/104/1997/04/29/p/dre
   label: null
@@ -106,16 +152,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572119:por
+  label: null
+  source: null
 article_structure:
   article_count: 47
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:00:34Z'
   warnings: []
   errors: []
 ---
@@ -236,15 +298,15 @@ O presente diploma entra em vigor no 10.º dia útil do mês seguinte ao da sua 
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1998. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Manuel de Matos Fernandes.
 
-**Promulgado em 23 de Setembro de 1998.**
+Promulgado em 23 de Setembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Setembro de 1998.**
+Referendado em 24 de Setembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — (a que se refere o n.º 3 do artigo 1.º)
 

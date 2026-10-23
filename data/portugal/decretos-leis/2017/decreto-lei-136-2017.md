@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/21300/0587905886.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/136/2017/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1433421a3734d714d37712fb906b470c2f7f3cf53b279f3b5715523f1b1eefbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0439794a4f59dbbdc9a03010759db6be38d79a36dfa9338b188ef10353c2adc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
 subjects:
 - Acreditação
 - Apoio Administrativo
+- Assinatura Digital
 - Autoridade Nacional de Segurança
+- Centro Nacional de Cibersegurança
 - Certificação Electrónica
-- Pessoal Dirigente
-- Gestão Financeira
 - Definição de Competências
-- Secretaria Geral
 - Gabinete Nacional de Segurança
-- Recrutamento de Pessoal
 - Galileo
+- Gestão Financeira
 - Orgânica
 - PCM-Entidades
-- Centro Nacional de Cibersegurança
+- Pessoal Dirigente
 - Presidência do Conselho de Ministros
 - Quadro de Pessoal
-- Assinatura Digital
+- Recrutamento de Pessoal
 - Regime de Pessoal
+- Secretaria Geral
 - Sistema de Certificação Electrónica do Estado-Infraestrutura de Chaves Públicas
 relationships:
 - type: cites
@@ -105,16 +105,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/69/2014/05/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/69/2014/05/09/p/dre
+- type: cites
+  target: pt:dre:25343754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551977:por
+  label: null
+  source: null
 article_structure:
-  article_count: 31
+  article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:50Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +169,9 @@ Os artigos 1.º, 2.º, 2.º-A, 4.º, 6.º, 6.º-A, 7.º e 12.º-A do [Decreto-Le
 
 2 - A Autoridade Nacional de Segurança, abreviadamente designada por ANS, dirige o GNS e é a entidade que exerce, em exclusivo, a proteção, o controlo e a salvaguarda da informação classificada.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O GNS tem por missão garantir a segurança da informação classificada no âmbito nacional e das organizações internacionais de que Portugal é parte, e exercer a função de autoridade de credenciação de pessoas singulares ou coletivas para o acesso e manuseamento de informação classificada, bem como a de autoridade credenciadora e de fiscalização de entidades que atuem no âmbito do Sistema de Certificação Eletrónica do Estado - Infraestrutura de Chaves Públicas (SCEE) e de entidade credenciadora por força do disposto na lei que regula a disponibilização e a utilização das plataformas eletrónicas de contratação pública.
 
@@ -183,7 +205,9 @@ m) Exercer as competências de entidade credenciadora no âmbito da lei que regu
 
 n) [Anterior alínea m).]
 
-###### Artigo 2.º-A — Competências do Centro Nacional de Cibersegurança
+Artigo 2.º-A
+
+Competências do Centro Nacional de Cibersegurança
 
 1 - Na prossecução da sua missão, o CNCS possui as seguintes competências:
 
@@ -211,7 +235,9 @@ j) ...
 
 3 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -259,7 +285,9 @@ t) Exercer as competências de autoridade nacional de distribuição, no âmbito
 
 4 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os postos de trabalho do mapa de pessoal do GNS são ocupados em comissão de serviço, nos termos dos estatutos aplicáveis, ou através do recurso aos demais instrumentos constantes da lei geral do trabalho em funções públicas.
 
@@ -275,7 +303,9 @@ t) Exercer as competências de autoridade nacional de distribuição, no âmbito
 
 7 - A cessação do exercício de funções por iniciativa do próprio implica o dever de indemnização correspondente ao valor da formação profissional suportada pelo Estado, se aquela ocorrer no prazo de três anos a contar da data do fim da formação ministrada.
 
-###### Artigo 6.º-A — [...]
+Artigo 6.º-A
+
+[...]
 
 1 - O mapa de pessoal do GNS contém um número de postos de trabalho ocupados por trabalhadores que exercem funções no CNCS, doravante designados por trabalhadores do CNCS, de acordo com a seguinte distribuição:
 
@@ -317,7 +347,9 @@ c) Técnicos de grau 1, 2, 3, 4 e 5, respetivamente, níveis 27, 30, 33, 36 e 39
 
 12 - (Anterior n.º 11.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -329,7 +361,9 @@ c) Técnicos de grau 1, 2, 3, 4 e 5, respetivamente, níveis 27, 30, 33, 36 e 39
 
 5 - O diretor-geral e os subdiretores-gerais gozam igualmente dos direitos previstos no capítulo relativo aos direitos e deveres do estatuto referido no número anterior, sendo equiparados, para efeitos remuneratórios, respetivamente, a cargos de direção superior de 1.º e 2.º graus.
 
-###### Artigo 12.º-A — [...]
+Artigo 12.º-A
+
+[...]
 
 1 - Aos contratos de aquisição de bens e serviços destinados ao GNS e ao CNCS é aplicável o disposto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 107/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2012-551977), de 18 de maio, sendo o GNS e o CNCS considerados sistemas operacionais críticos, para efeitos do disposto no n.º 5 daquele artigo.
 
@@ -351,15 +385,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de julho de 2017. - José Alberto de Azeredo Ferreira Lopes - Maria Teresa Gonçalves Ribeiro - Maria Manuel de Lemos Leitão Marques - Ricardo Emanuel Martins Mourinho Félix - José Alberto de Azeredo Ferreira Lopes - Maria Isabel Solnado Porto Oneto.
 
-**Promulgado em 12 de setembro de 2017.**
+Promulgado em 12 de setembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de setembro de 2017.**
+Referendado em 28 de setembro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -639,4 +673,4 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/21300/0587905886.pdf))](https://files.diariodarepublica.pt/1s/2017/11/21300/0587905886.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/21300/0587905886.pdf)

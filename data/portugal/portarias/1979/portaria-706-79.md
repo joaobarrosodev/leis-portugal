@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/706-1979-365755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:05:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd4e2947256de743099539fdf2bca875443785ad564959b3096e188064bb3a1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fcf3f66e0cd51ed5b8b512fdf49584e499aade17900930b5466923f6a922e9cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:05:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Equiparação de Cargos
+- Instituto de Informática
+- Ministério das Finanças
+- Pessoal Dirigente
+relationships:
+- type: cites
+  target: pt:dre:366443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476685:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:05:08Z'
   warnings: []
   errors: []
 ---
@@ -131,4 +143,4 @@ g) Determinar o que for necessário ao bom funcionamento e regularidade dos serv
 
 Cabe-lhe, além disso, assegurar a direcção e coordenação das direcções de serviços integradas no departamento.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro.

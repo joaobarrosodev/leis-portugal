@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/409-1978-296989
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:40:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c37826f296b330bd0ba2dcc2237c3051aec4128ebd1df2e0e5de62ce8e19484
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a6f83e69c3737d4829e22e1e1301d004b6fdc680854ab6505edf91929ad97bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:40:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arrendamento Rural
+- Exploração Agrícola
+- Expropriação
+- Nacionalização
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:370055:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:370055:por
+  label: "Resolvido não se pronunciar pela inconstitucionalidade das normas constantes do presente diploma, pela RES.272/79.30.08.1979.CR,\
+    \ DR.IS [200] de 30.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/272-1979-370055
+  date: '1979-08-30'
+- type: cites
+  target: pt:dre:294675:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:299428:por
+  label: Rectificada pela DECL.DD7589.29.08.1978.PCM, DR.IS [198] de 29.08.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-299428
+  date: '1978-08-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:40:36Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +162,7 @@ MAPA I
 
 (Taxa efectiva de capitalização)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/17000/14931494.pdf))](https://files.diariodarepublica.pt/1s/1978/07/17000/14931494.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/17000/14931494.pdf)
 
 MAPA II
 
@@ -150,12 +170,12 @@ MAPA II
 
 Olival (Ol), pomares (Pm), horta (H), vinha (V) e montado de sobro (Sb), 4% - Restantes qualidades culturais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/17000/14931494.pdf))](https://files.diariodarepublica.pt/1s/1978/07/17000/14931494.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/17000/14931494.pdf)
 
 MAPA III
 
 (Coeficiente K)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/17000/14931494.pdf))](https://files.diariodarepublica.pt/1s/1978/07/17000/14931494.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/17000/14931494.pdf)
 
 Ministério da Agricultura e Pescas, 13 de Julho de 1978. - O Ministro da Agricultura e Pescas, Luís Silvério Gonçalves Saias.

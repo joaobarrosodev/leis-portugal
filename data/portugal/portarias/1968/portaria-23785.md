@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23785-1968-262296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84c3fca8807afcdf6ffea7388f9fceea54121eed0963fb82f3585a808d21e98b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5a756a9d104b8171d066fd8fc7ad122fe92281a239c1d00051ebbded9122934
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ação Social
+- Funcionário Público
+- Habitação
+- Habitação Social
+- Ministério do Ultramar
+- OBRA Social
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:217337:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:527453:por
+  label: "Dada nova redacção ao nº 1 do art. 11º do Regulamento pela PORT.23934.22.02.1969.MU, DG.IS [45] de 22.02.1969\0\
+    9\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23934-1969-527453
+  date: '1969-02-22'
+- type: amended_by
+  target: pt:dre:147831:por
+  label: "Alterado o nº 1 do art. 11º do Regulamento (com a redacção constante da Port 23934 de 22-Fev de 1969) pela PORT.564/70.05.11.1970.MU,\
+    \ DG.IS [257] de 05.11.1970\070\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/564-1970-147831
+  date: '1970-11-05'
+- type: amended_by
+  target: pt:dre:337201:por
+  label: "Alterados os arts. 8º, 14º e 32º do Regulamento pela PORT.407/75.01.07.1975.MCINT, DG.IS [149] de 01.07.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/407-1975-337201
+  date: '1975-07-01'
+- type: amended_by
+  target: pt:dre:473536:por
+  label: "Alterado o art. 34º do Regulamento pela PORT.359/80.01.07.1980.PCM, DR.IS [149] de 01.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/359-1980-473536
+  date: '1980-07-01'
+- type: amended_by
+  target: pt:dre:217337:por
+  label: "Alterado o art. 2º do Regulamento pela PORT.998/98.1998.11.27.PCM DR.IS-B [275]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/998-1998-217337
+  date: '1998-11-27'
+- type: cites
+  target: pt:dre:281616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475084:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:422267:por
+  label: "Revogados os nºs 3 a 6 do art. 11º, os nºs 1 e 2 do art. 15º e o art. 29º do Regulamento pelo DEC LEI.273/73.30.05.1973.MU,\
+    \ DG.IS [127] de 30.05.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-1973-422267
+  date: '1973-05-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:26Z'
   warnings: []
   errors: []
 ---
@@ -98,21 +150,21 @@ Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. -
 
 Regulamento de Casas Económicas da Obra Social do Ministério do Ultramar, em Regime de Propriedade Resolúvel
 
-###### Artigo 1.º O regime de casas económicas da Obra Social do Ministério do Ultramar é o constante do presente Regulamento.
+Artigo 1.º O regime de casas económicas da Obra Social do Ministério do Ultramar é o constante do presente Regulamento.
 
-###### Art. 2.º Sem prejuízo das atribuições conferidas pelo artigo 62.º do Regulamento da Obra Social do Ministério do Ultramar, aprovado pela [Portaria n.º 23068](https://diariodarepublica.pt/dr/detalhe/portaria/23068-1967-401717), de 19 de Dezembro de 1967, à comissão executiva de construção de casas económicas, compete à direcção da Obra Social proceder à distribuição de casas económicas, de harmonia com as respectivas disposições regulamentares. Das suas decisões poderá reclamar-se para o Ministro do Ultramar.
+Art. 2.º Sem prejuízo das atribuições conferidas pelo artigo 62.º do Regulamento da Obra Social do Ministério do Ultramar, aprovado pela [Portaria n.º 23068](https://diariodarepublica.pt/dr/detalhe/portaria/23068-1967-401717), de 19 de Dezembro de 1967, à comissão executiva de construção de casas económicas, compete à direcção da Obra Social proceder à distribuição de casas económicas, de harmonia com as respectivas disposições regulamentares. Das suas decisões poderá reclamar-se para o Ministro do Ultramar.
 
-###### Art. 3.º - 1. A atribuição de casas será feita em regime de propriedade resolúvel, a pedido do beneficiário, segundo as modalidades de propriedade horizontal ou moradia de família. Quando o pedido se refira a moradia de família, o mesmo será prèviamente objecto de parecer da comissão executiva de construção de casas económicas antes de ser submetido à apreciação e decisão da direcção da Obra Social.
+Art. 3.º - 1. A atribuição de casas será feita em regime de propriedade resolúvel, a pedido do beneficiário, segundo as modalidades de propriedade horizontal ou moradia de família. Quando o pedido se refira a moradia de família, o mesmo será prèviamente objecto de parecer da comissão executiva de construção de casas económicas antes de ser submetido à apreciação e decisão da direcção da Obra Social.
 
 2. As casas que venham a ser destinadas a regime de renda económica serão objecto de regulamentação própria, a publicar oportunamente.
 
-###### Art. 4.º - 1. Podem pedir a atribuição de casas na regime referido no n.º 1 do artigo anterior os funcionários do Ministério do Ultramar e das províncias ultramarinas que sejam beneficiários da Obra Social, nos termos e condições do capítulo III do regulamento aprovado pela [Portaria n.º 23068](https://diariodarepublica.pt/dr/detalhe/portaria/23068-1967-401717), de 19 de Dezembro de 1967.
+Art. 4.º - 1. Podem pedir a atribuição de casas na regime referido no n.º 1 do artigo anterior os funcionários do Ministério do Ultramar e das províncias ultramarinas que sejam beneficiários da Obra Social, nos termos e condições do capítulo III do regulamento aprovado pela [Portaria n.º 23068](https://diariodarepublica.pt/dr/detalhe/portaria/23068-1967-401717), de 19 de Dezembro de 1967.
 
 2. Sendo ambos os cônjuges funcionários e beneficiários, apenas um deles poderá pedir a atribuição referida no número anterior.
 
 3. Os beneficiários da Obra Social que forem titulares de residência própria atribuída por organismos de previdência social, oficiais ou privados, carecem de legitimidade para pedir a atribuição de casas económicas.
 
-###### Art. 5.º - 1. Os pedidos de atribuição de casas económicas serão formulados em boletins próprios e só poderão ter andamento desde que satisfaçam aos requisitos legais e a mensalidade correspondente à casa pretendida não exceda um terço dos rendimentos do agregado familiar.
+Art. 5.º - 1. Os pedidos de atribuição de casas económicas serão formulados em boletins próprios e só poderão ter andamento desde que satisfaçam aos requisitos legais e a mensalidade correspondente à casa pretendida não exceda um terço dos rendimentos do agregado familiar.
 
 2. Para os efeitos do disposto neste artigo entende-se:
 
@@ -124,7 +176,7 @@ c) Por mensalidade, a importância, referida ao mês, necessária à amortizaç�
 
 3. Os beneficiários poderão satisfazer a pronto pagamento a importância necessária para que a mensalidade se contenha no limite fixado no corpo do artigo.
 
-###### Art. 6.º - 1. A prova do disposto no artigo anterior deverá ser feita da seguinte forma:
+Art. 6.º - 1. A prova do disposto no artigo anterior deverá ser feita da seguinte forma:
 
 Quanto ao agregado familiar:
 
@@ -140,7 +192,7 @@ c) Por certidão do rendimento colectável, passada pelas secções de finanças
 
 2. Os beneficiários que directa ou indirectamente prestem declarações falsas ou inexactas perdem os direitos que tenham adquirido, sem qualquer indemnização pelas quotizações ou mensalidades pagas, independentemente do procedimento judicial a que haja lugar.
 
-###### Art. 7.º - 1. Os beneficiários da Obra Social que se inscrevam para a atribuição de casas ficarão sujeitos ao pagamento das seguintes quotizações:
+Art. 7.º - 1. Os beneficiários da Obra Social que se inscrevam para a atribuição de casas ficarão sujeitos ao pagamento das seguintes quotizações:
 
 a) Casas até quatro divisões assoalhadas: no acto de inscrição 250$00 e quota mensal de 100$00;
 
@@ -150,7 +202,7 @@ b) Casas com cinco divisões assoalhadas ou mais: no acto de inscrição 500$00 
 
 3. As quotizações sucessivas serão obrigatòriamente pagas até à data da ocupação efectiva da casa e o seu montante integralmente deduzido no preço da mesma no acto de celebração do contrato de compra e venda, fazendo-se nele referência expressa do facto.
 
-###### Art. 8.º - 1. A atribuição de casas a que se refere o presente Regulamento será feita nas percentagens seguintes:
+Art. 8.º - 1. A atribuição de casas a que se refere o presente Regulamento será feita nas percentagens seguintes:
 
 a) 70 por cento aos beneficiários casados, com filhos;
 
@@ -164,7 +216,7 @@ c) 10 por cento aos beneficiários solteiros, viúvos, divorciados ou separados 
 
 4. Pode também o beneficiário mudar de posição relativamente ao tipo de casa em que esteja inscrito, em conformidade com o disposto no artigo 7.º, mediante os necessários ajustamentos, desde que o pedido seja formulado antes da atribuição.
 
-###### Art. 9.º - 1. Dentro de cada grupo do artigo anterior a atribuição das casas será feita em obediência aos seguintes critérios:
+Art. 9.º - 1. Dentro de cada grupo do artigo anterior a atribuição das casas será feita em obediência aos seguintes critérios:
 
 a) Metade das casas aos que possuírem maior agregado familiar;
 
@@ -174,13 +226,13 @@ c) Um sexto aos que tiverem entrado com maior importância para a amortização 
 
 2. Em igualdade de condições, preferirá, por ordem, a maior antiguidade na função pública e a maior idade dos requerentes. Quando mesmo assim não houver desempate, a atribuição far-se-á por sorteio entre os interessados.
 
-###### Art. 10.º - 1. Os boletins de inscrição referidos no artigo 5.º serão registados em livro próprio, com termo de abertura e encerramento, e conterão na parte inferior um talão destacável, a entregar no acto ao pretendente, donde conste o seu nome, o número do cartão de beneficiário, o número e data da inscrição e a importância paga como prémio de inscrição.
+Art. 10.º - 1. Os boletins de inscrição referidos no artigo 5.º serão registados em livro próprio, com termo de abertura e encerramento, e conterão na parte inferior um talão destacável, a entregar no acto ao pretendente, donde conste o seu nome, o número do cartão de beneficiário, o número e data da inscrição e a importância paga como prémio de inscrição.
 
 2. Todos os boletins serão obrigatòriamente arquivados em pasta própria e deles será mensalmente elaborado um mapa pela comissão executiva de construção de casas económicas, em conformidade com as classes de beneficiários definidos no artigo 8.º, para ser apresentado ao visto da direcção da Obra Social. O referido mapa deverá conter todos os elementos necessários para o perfeito funcionamento dos critérios de distribuição referidos no artigo 9.º
 
 3. À medida que forem sendo feitas as atribuições aos beneficiários, nos respectivos boletins será averbado o facto, com indicação da data da deliberação da direcção.
 
-###### Art. 11.º - 1. Os beneficiários a quem hajam sido atribuídas casas económicas adquirem a sua posse e propriedade resolúvel mediante a celebração do respectivo contrato de compra e venda, do qual deverá constar, além do preço, que corresponderá ao capital investido acrescido do juro anual de 5 por cento, as entregas iniciais para amortização, a identificação completa do prédio, o montante de cada mensalidade, o prazo de amortização expresso em meses e, bem assim, quaisquer outras condições que forem reputadas necessárias.
+Art. 11.º - 1. Os beneficiários a quem hajam sido atribuídas casas económicas adquirem a sua posse e propriedade resolúvel mediante a celebração do respectivo contrato de compra e venda, do qual deverá constar, além do preço, que corresponderá ao capital investido acrescido do juro anual de 5 por cento, as entregas iniciais para amortização, a identificação completa do prédio, o montante de cada mensalidade, o prazo de amortização expresso em meses e, bem assim, quaisquer outras condições que forem reputadas necessárias.
 
 2. Por capital investido entende-se o custo do terreno urbanizado e o preço da construção, incluindo ainda o custo dos projectos, a residência do porteiro e as despesas notariais, matriciais e de registo predial do imóvel em nome da Obra Social.
 
@@ -194,11 +246,11 @@ c) Um sexto aos que tiverem entrado com maior importância para a amortização 
 
 7. Pela celebração do contrato de transmissão de casas económicas não são devidos selo ou emolumentos.
 
-###### Art. 12.º As mensalidades a pagar por cada beneficiário serão iguais, antecipadas em relação ao mês a que respeitam e determinadas pela divisão do capital investido pelo número de prestações convencionadas no contrato.
+Art. 12.º As mensalidades a pagar por cada beneficiário serão iguais, antecipadas em relação ao mês a que respeitam e determinadas pela divisão do capital investido pelo número de prestações convencionadas no contrato.
 
-###### Art. 13.º As mensalidades poderão ser distribuídas por períodos de cinco, dez, quinze, vinte ou vinte e cinco anos, à escolha dos beneficiários, que deverão fazer a devida comunicação à direcção da Obra Social no prazo máximo de quinze dias, a contar da data em que lhes foi atribuído o direito, ficando a direcção da Obra Social com a faculdade de fixar o limite quando este não tenha sido comunicado naquele prazo.
+Art. 13.º As mensalidades poderão ser distribuídas por períodos de cinco, dez, quinze, vinte ou vinte e cinco anos, à escolha dos beneficiários, que deverão fazer a devida comunicação à direcção da Obra Social no prazo máximo de quinze dias, a contar da data em que lhes foi atribuído o direito, ficando a direcção da Obra Social com a faculdade de fixar o limite quando este não tenha sido comunicado naquele prazo.
 
-###### Art. 14.º - 1. As duas primeiras mensalidades serão pagas, contra recibo, no acto da assinatura do contrato. As mensalidades seguintes e, bem assim, as quotas referidas no artigo 7.º serão pagas:
+Art. 14.º - 1. As duas primeiras mensalidades serão pagas, contra recibo, no acto da assinatura do contrato. As mensalidades seguintes e, bem assim, as quotas referidas no artigo 7.º serão pagas:
 
 a) Por descontos feitos nos respectivos vencimentos ou pensões no mês anterior àquele a que disserem respeito, no caso dos beneficiários funcionários;
 
@@ -210,13 +262,13 @@ b) Por entrega pessoal ou por intermédio do representante, por vale postal ou t
 
 4. As entidades referidas no número anterior deverão comunicar imediatamente à Obra Social qualquer alteração que, tendo influência no regular desconto das quotas ou mensalidades, justifique a circunstância de os beneficiários deixarem de figurar nas respectivas relações.
 
-###### Art. 15.º - 1. Satisfeitas integralmente pelo beneficiário as suas responsabilidades, será o facto averbado no contrato, adquirindo o beneficiário ou os seus herdeiros a propriedade plena, podendo ser feito na conservatória do registo predial, a requerimento dos interessados, o respectivo averbamento na inscrição do prédio.
+Art. 15.º - 1. Satisfeitas integralmente pelo beneficiário as suas responsabilidades, será o facto averbado no contrato, adquirindo o beneficiário ou os seus herdeiros a propriedade plena, podendo ser feito na conservatória do registo predial, a requerimento dos interessados, o respectivo averbamento na inscrição do prédio.
 
 2. A certidão ou fotocópia certificada do contrato, com o averbamento do pagamento da última prestação, será título suficiente para o registo de transmissão do prédio a favor do adquirente.
 
 3. A direcção da Obra Social deverá promover a imediata comunicação da transmissão da propriedade à secção de finanças da área a que o imóvel pertencer.
 
-###### Art. 16.º - 1. Os beneficiários-adquirentes terão a faculdade de antecipar, total ou parcialmente, a amortização do capital investido pela Obra Social na construção das casas, a qual será feita por anos completos e na data do vencimento de qualquer mensalidade.
+Art. 16.º - 1. Os beneficiários-adquirentes terão a faculdade de antecipar, total ou parcialmente, a amortização do capital investido pela Obra Social na construção das casas, a qual será feita por anos completos e na data do vencimento de qualquer mensalidade.
 
 2. A amortização parcial produzirá os seguintes efeitos, à escolha dos interessados:
 
@@ -224,66 +276,66 @@ a) Redução no prazo de pagamento de um número de anos igual ao das anuidades 
 
 b) Redução do valor das futuras mensalidades, de harmonia com a amortização feita, mantendo-se o prazo inicialmente estabelecido.
 
-###### Art. 17.º - 1. Os beneficiários-adquirentes serão obrigados a manter o imóvel em bom estado de conservação, devendo fazer-se à sua custa, em proporção do valor das suas fracções, por iniciativa própria ou intimação da direcção da Obra Social, as obras de limpeza e de reparação necessárias durante a vigência do contrato.
+Art. 17.º - 1. Os beneficiários-adquirentes serão obrigados a manter o imóvel em bom estado de conservação, devendo fazer-se à sua custa, em proporção do valor das suas fracções, por iniciativa própria ou intimação da direcção da Obra Social, as obras de limpeza e de reparação necessárias durante a vigência do contrato.
 
 2. As obras da iniciativa dos beneficiários-adquirentes serão antecipadamente comunicadas à direcção da Obra Social, que se pronunciará sobre a sua viabilidade, depois de ouvido o parecer técnico da comissão executiva.
 
 3. A direcção da Obra Social, através da comissão executiva, procederá a vistorias periódicas para se inteirar do estado de conservação do imóvel.
 
-###### Art. 18.º As despesas de conservação e de fruição das partes comuns do edifício constituem encargo dos respectivos condóminos, que por elas responderão conjuntamente perante a direcção da Obra Social durante todo o tempo por que vigorar o regime da propriedade resolúvel.
+Art. 18.º As despesas de conservação e de fruição das partes comuns do edifício constituem encargo dos respectivos condóminos, que por elas responderão conjuntamente perante a direcção da Obra Social durante todo o tempo por que vigorar o regime da propriedade resolúvel.
 
-###### Art. 19.º - 1. Durante a vigência do contrato não poderão realizar-se, sem autorização escrita da direcção da Obra Social, ouvida a comissão executiva, quaisquer benfeitorias ou obras que envolvam, ainda que parcialmente, modificações na estrutura, no aspecto estético ou nos materiais de revestimento do imóvel.
+Art. 19.º - 1. Durante a vigência do contrato não poderão realizar-se, sem autorização escrita da direcção da Obra Social, ouvida a comissão executiva, quaisquer benfeitorias ou obras que envolvam, ainda que parcialmente, modificações na estrutura, no aspecto estético ou nos materiais de revestimento do imóvel.
 
 2. A direcção da Obra Social, verificada a infracção do referido no número anterior, intimará o infractor a demolir as obras feitas no prazo de três meses, sob pena de resolução do contrato e da indemnização que for devida.
 
-###### Art. 20.º Enquanto subsistir a resolubilidade do seu direito de propriedade, os beneficiários apenas ficarão obrigados ao pagamento da mensalidade e dos encargos previstos nos artigos 17.º e 18.º do presente Regulamento. Todos os demais encargos, designadamente as despesas de fiscalização, serão da conta da Obra Social.
+Art. 20.º Enquanto subsistir a resolubilidade do seu direito de propriedade, os beneficiários apenas ficarão obrigados ao pagamento da mensalidade e dos encargos previstos nos artigos 17.º e 18.º do presente Regulamento. Todos os demais encargos, designadamente as despesas de fiscalização, serão da conta da Obra Social.
 
-###### Art. 21.º O valor do seguro será actualizado por conta do beneficiário-adquirente sempre que sejam introduzidas quaisquer benfeitorias na respectiva fracção do imóvel.
+Art. 21.º O valor do seguro será actualizado por conta do beneficiário-adquirente sempre que sejam introduzidas quaisquer benfeitorias na respectiva fracção do imóvel.
 
-###### Art. 22.º Em caso de destruição parcial do imóvel pelo fogo ou outras causas dele consequentes, a direcção da Obra Social, mediante proposta da comissão executiva, providenciará no sentido de o prédio ser restituído ao seu estado anterior, com todas as benfeitorias que estiverem cobertas pelo seguro.
+Art. 22.º Em caso de destruição parcial do imóvel pelo fogo ou outras causas dele consequentes, a direcção da Obra Social, mediante proposta da comissão executiva, providenciará no sentido de o prédio ser restituído ao seu estado anterior, com todas as benfeitorias que estiverem cobertas pelo seguro.
 
-###### Art. 23.º - 1. Quando a destruição do imóvel pelo fogo for total, a direcção da Obra Social reterá da indemnização a receber da entidade seguradora, adicionada ao produto da venda do terreno e de possíveis salvados, a importância correspondente ao capital ainda não amortizado e às despesas a que o sinistro tenha dado causa, entregando aos adquirentes o saldo que vier a apurar-se.
+Art. 23.º - 1. Quando a destruição do imóvel pelo fogo for total, a direcção da Obra Social reterá da indemnização a receber da entidade seguradora, adicionada ao produto da venda do terreno e de possíveis salvados, a importância correspondente ao capital ainda não amortizado e às despesas a que o sinistro tenha dado causa, entregando aos adquirentes o saldo que vier a apurar-se.
 
 2. O contrato, neste caso, ficará sem efeito, salvo se a direcção da Obra Social optar, com a anuência dos beneficiários, pela reconstituição do imóvel, mediante autorização do Ministro do Ultramar.
 
-###### Art. 24.º No caso de eventual expropriação do imóvel, proceder-se-á, quanto à indemnização recebida, pela forma indicada na parte final do n.º 1 do artigo anterior.
+Art. 24.º No caso de eventual expropriação do imóvel, proceder-se-á, quanto à indemnização recebida, pela forma indicada na parte final do n.º 1 do artigo anterior.
 
-###### Art. 25.º - 1. As casas não poderão ser alienadas antes do pagamento total da dívida.
+Art. 25.º - 1. As casas não poderão ser alienadas antes do pagamento total da dívida.
 
 2. Na hipótese de amortização antecipada, a alienação só poderá operar-se depois de decorridos cinco anos sobre a data do registo da concessão da resolubilidade da propriedade, salvo tratando-se de venda a beneficiários da Obra Social inscritos para a respectiva atribuição. Neste caso, apreciadas as circunstâncias do pedido, a direcção da Obra Social poderá dispensar o decurso do prazo e autorizar a venda.
 
 3. Em qualquer hipótese de alienação, a Obra Social gozará sempre do direito de preferência, a exercer no prazo de trinta dias.
 
-###### Art. 26.º As casas atribuídas não poderão ser ocupadas por pessoas estranhas ao agregado familiar, a não ser no caso de o chefe de família se ausentar da metrópole em serviço por período superior a cento e oitenta dias. A ocupação, neste caso, só poderá ter lugar precedendo autorização da direcção da Obra Social.
+Art. 26.º As casas atribuídas não poderão ser ocupadas por pessoas estranhas ao agregado familiar, a não ser no caso de o chefe de família se ausentar da metrópole em serviço por período superior a cento e oitenta dias. A ocupação, neste caso, só poderá ter lugar precedendo autorização da direcção da Obra Social.
 
-###### Art. 27.º - 1. Se os beneficiários faltarem ao cumprimento das suas obrigações, assistirá à Obra Social o direito de resolução do contrato.
+Art. 27.º - 1. Se os beneficiários faltarem ao cumprimento das suas obrigações, assistirá à Obra Social o direito de resolução do contrato.
 
 2. Resolvido este, a direcção da Obra Social restituirá ao beneficiário a diferença que se apurar entre o total das mensalidades já pagas e o rendimento que devia ter produzido o capital investido durante todo o tempo de ocupação, à taxa constante do artigo 11.º, acrescida de 3 por cento, depois de feitas as necessárias obras de beneficiação e integração e pagas as despesas inerentes.
 
 3. Havendo razões atendíveis, a direcção da Obra Social poderá não usar do seu direito de resolução e conceder prazo bastante para o cumprimento das obrigações em mora, comunicando o facto ao beneficiário por carta registada com aviso de recepção.
 
-###### Art. 28.º - 1. No caso de resolução do contrato, a direcção da Obra Social requererá à conservatória do registo predial o cancelamento do registo de transmissão a favor do beneficiário.
+Art. 28.º - 1. No caso de resolução do contrato, a direcção da Obra Social requererá à conservatória do registo predial o cancelamento do registo de transmissão a favor do beneficiário.
 
 2. Revertendo a propriedade do imóvel à Obra Social, promoverá esta a sua atribuição a outro beneficiário com direito a ela e dentro do critério estabelecido no artigo 8.º
 
-###### Art. 29.º As habitações atribuídas não podem ser hipotecadas ou de outro qualquer modo oneradas enquanto não pertencerem definitiva e incondicionalmente ao beneficiário-adquirente.
+Art. 29.º As habitações atribuídas não podem ser hipotecadas ou de outro qualquer modo oneradas enquanto não pertencerem definitiva e incondicionalmente ao beneficiário-adquirente.
 
-###### Art. 30.º São transmissíveis por morte os direitos e obrigações resultantes dos contratos celebrados, nos termos do artigo 11.º, entre a Obra Social e os beneficiários-adquirentes.
+Art. 30.º São transmissíveis por morte os direitos e obrigações resultantes dos contratos celebrados, nos termos do artigo 11.º, entre a Obra Social e os beneficiários-adquirentes.
 
-###### Art. 31.º - 1. Os beneficiários que assim o desejem podem, quando da entrega da casa por parte da Obra Social, constituir e manter um seguro de renda certa (amortização) ou outro, destinado a cobrir o pagamento das prestações em dívida no caso de invalidez permanente ou total ou de falecimento.
+Art. 31.º - 1. Os beneficiários que assim o desejem podem, quando da entrega da casa por parte da Obra Social, constituir e manter um seguro de renda certa (amortização) ou outro, destinado a cobrir o pagamento das prestações em dívida no caso de invalidez permanente ou total ou de falecimento.
 
 2. A Obra Social transferirá para uma empresa seguradora a sua responsabilidade pelos riscos assumidos.
 
-###### Art. 32.º A perda de qualidade de beneficiário implicará a aplicação do disposto no n.º 2 do artigo 27.º do presente Regulamento.
+Art. 32.º A perda de qualidade de beneficiário implicará a aplicação do disposto no n.º 2 do artigo 27.º do presente Regulamento.
 
-###### Art. 33.º À comissão executiva de construção de casas económicas compete manter devidamente escriturado e em dia o livro de contas correntes com os beneficiários da Obra Social, o qual, sendo conveniente, poderá ser substituído por fichas ou outro sistema mais eficiente de contabilização.
+Art. 33.º À comissão executiva de construção de casas económicas compete manter devidamente escriturado e em dia o livro de contas correntes com os beneficiários da Obra Social, o qual, sendo conveniente, poderá ser substituído por fichas ou outro sistema mais eficiente de contabilização.
 
-###### Art. 34.º - 1. Os lugares de porteiro serão exercidos em regime de prestação de serviço, com direito a residência, luz e água, a título gratuito, podendo em qualquer tempo ser dispensados.
+Art. 34.º - 1. Os lugares de porteiro serão exercidos em regime de prestação de serviço, com direito a residência, luz e água, a título gratuito, podendo em qualquer tempo ser dispensados.
 
 2. Podem ser admitidas as mulheres dos contínuos do Ministério ou de outros serventuários de categoria equivalente, bem como indivíduos, também casados, que tenham prestado serviço militar no ultramar incorporados nas forças armadas, com preferência dos mutilados e condecorados.
 
 3. Fica vedado ao porteiro alojar pessoas estranhas ao seu agregado familiar.
 
-###### Art. 35.º O Ministro do Ultramar resolverá, sob informação da direcção da Obra Social, os casos omissos e as dúvidas que se suscitem na interpretação, aplicação ou execução do presente Regulamento.
+Art. 35.º O Ministro do Ultramar resolverá, sob informação da direcção da Obra Social, os casos omissos e as dúvidas que se suscitem na interpretação, aplicação ou execução do presente Regulamento.
 
 Ministério do Ultramar, 18 de Dezembro de 1968. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

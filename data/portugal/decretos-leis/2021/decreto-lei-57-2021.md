@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/13400/0007500093.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/57/2021/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2021-167133018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f8e01d94d9cd3221759699911dc75ef1c5ac32cc329bf7b11b266b145d124fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96b0b82b7c812c16e46bbe83ff8f59c64d835e49901f2427bf8ad57c2b94dac7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Condutor
 - Contra-ordenação
 - Contrato
 - Documento de Transporte
 - Fiscalização
-- Condutor
-- Transporte de Mercadorias
+- Mercadoria
 - Regime Jurídico
 - Responsabilidade Civil
-- Mercadoria
+- Transporte de Mercadorias
 - Transporte de Mercadorias Perigosas
 relationships:
 - type: cites
@@ -101,15 +101,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
 article_structure:
-  article_count: 53
+  article_count: 45
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:01Z'
   warnings: []
   errors: []
 ---
@@ -194,7 +194,9 @@ c) 72 horas para os restantes transportes internacionais.
 
 8 - O período máximo de espera de duas horas não se aplica aos contratos em vigor que disponham em sentido diferente nesta matéria.
 
-###### Artigo 23.º-B — Responsabilidade pelo tempo de espera
+Artigo 23.º-B
+
+Responsabilidade pelo tempo de espera
 
 1 - A responsabilidade relativa ao tempo de espera assenta no princípio da reciprocidade e aplica-se em caso de incumprimento por parte do carregador, do expedidor, do destinatário ou do transportador.
 
@@ -214,7 +216,9 @@ c) 72 horas para os restantes transportes internacionais.
 
 9 - O direito ao pedido de indemnização referido nos n.os 4 a 7 prescreve no prazo de um ano, contado a partir da data da operação de carga ou de descarga que lhe dá origem.
 
-###### Artigo 23.º-C — Cargas e descargas
+Artigo 23.º-C
+
+Cargas e descargas
 
 1 - As operações de carga e de descarga de mercadorias devem ser realizadas pelo expedidor ou pelo destinatário da mercadoria, consoante se trate de carga ou descarga, respetivamente, salvo nos casos previstos na regulamentação coletiva de trabalho em vigor.
 
@@ -242,7 +246,9 @@ b) Por razões de segurança, em função da formação específica recebida e d
 
 11 - Nos terminais portuários de contentores, em que a operação de receção tenha sido previamente anunciada e aceite pelo terminal, após o registo de entrada em parque de espera do veículo, se o tempo de paralisação ultrapassar duas horas, excluindo as horas de refeição do terminal, e esta não for da responsabilidade do transportador ou do seu cliente, deve o terminal dar imediata prioridade à descarga do contentor, salvo motivo de força maior que o impeça.
 
-###### Artigo 23.º-D — Cargas e descargas de mercadorias de matérias perigosas
+Artigo 23.º-D
+
+Cargas e descargas de mercadorias de matérias perigosas
 
 1 - O trabalhador motorista que transporte matérias perigosas efetua a respetiva operação de carga e descarga quando, por razões de segurança, em função da formação específica recebida e da utilização de equipamento específico, tais operações tenham de ser realizadas pelo trabalhador, designadamente no caso de transporte de mercadorias perigosas, líquidas e gasosas, a granel, transportadas em cisternas.
 
@@ -250,17 +256,23 @@ b) Por razões de segurança, em função da formação específica recebida e d
 
 3 - Sempre que nos postos de abastecimento exista tecnologia que permita efetuar a medição do nível de combustível de modo automatizado não pode ser exigido ao motorista a realização manual daquela operação.
 
-###### Artigo 23.º-E — Condições dos motoristas durante o tempo de espera
+Artigo 23.º-E
+
+Condições dos motoristas durante o tempo de espera
 
 1 - O trabalhador motorista tem direito à prestação do trabalho em condições que respeitem a sua segurança e a sua saúde, asseguradas pelo empregador ou, nas situações identificadas pela lei, pela pessoa, individual ou coletiva, que detenha a gestão das instalações em que a atividade é desenvolvida, conforme disposto nos artigos 15.º e 16.º da [Lei n.º 102/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/490009/details/normal?l=1), de 10 de setembro, na sua redação atual.
 
 2 - Os locais onde o trabalhador motorista deve aguardar pela carga e pela descarga da mercadoria devem ser providos de instalações sanitárias e locais de espera com condições de higiene e salubridade, salvo quando tal não seja possível por razões operacionais, caso em que deve ser facultado o acesso às instalações que o expedidor ou o destinatário coloque à disposição dos seus trabalhadores para os referidos efeitos.
 
-###### Artigo 23.º-F — Fiscalização
+Artigo 23.º-F
+
+Fiscalização
 
 São competentes para a fiscalização do cumprimento do disposto no presente decreto-lei o Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), e a Autoridade para as Condições do Trabalho (ACT), nas respetivas áreas de atuação, sem prejuízo da competência fiscalizadora específica atribuída a outras entidades.
 
-###### Artigo 23.º-G — Contraordenações
+Artigo 23.º-G
+
+Contraordenações
 
 1 - A violação do disposto nos n.os 2 a 5 e 7 do artigo 4.º-A constitui contraordenação muito grave, sendo punível com coima de (euro) 1250 a (euro) 3740 ou de (euro) 5000 a (euro) 15 000, consoante se trate de pessoa singular ou coletiva.
 
@@ -274,7 +286,9 @@ São competentes para a fiscalização do cumprimento do disposto no presente de
 
 6 - Às infrações previstas nos n.os 2 a 4 aplicam-se os artigos 548.º a 566.º do Código do Trabalho, aprovado pela [Lei n.º 7/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/602073/details/normal?l=1), de 12 de fevereiro, na sua redação atual.
 
-###### Artigo 23.º-H — Processamento das contraordenações
+Artigo 23.º-H
+
+Processamento das contraordenações
 
 1 - O processamento das contraordenações previstas no presente decreto-lei compete ao IMT, I. P., salvo no que respeita às contraordenações laborais, que seguem o regime próprio da [Lei n.º 107/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/489761/details/normal?l=1), de 14 de setembro, na sua redação atual.
 
@@ -284,7 +298,9 @@ São competentes para a fiscalização do cumprimento do disposto no presente de
 
 4 - A ACT comunica ao IMT, I. P., as contraordenações aplicadas no âmbito do presente decreto-lei.
 
-###### Artigo 23.º-I — Produto das coimas
+Artigo 23.º-I
+
+Produto das coimas
 
 O produto das coimas é distribuído da seguinte forma:
 
@@ -316,15 +332,15 @@ O presente decreto-lei entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de junho de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Hugo Santos Mendes.
 
-**Promulgado em 7 de julho de 2021.**
+Promulgado em 7 de julho de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de julho de 2021.**
+Referendado em 8 de julho de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -332,7 +348,7 @@ Visto e aprovado em Conselho de Ministros de 17 de junho de 2021. - António Lu�
 
 Tabela
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/07/13400/0007500093.pdf))](https://files.diariodarepublica.pt/1s/2021/07/13400/0007500093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/07/13400/0007500093.pdf)
 
 ## ANEXO II — (a que se refere o artigo 7.º)
 
@@ -718,4 +734,6 @@ O presente decreto-lei entra em vigor 60 dias após a sua publicação.
 
 Tabela
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/07/13400/0007500093.pdf))](https://files.diariodarepublica.pt/1s/2021/07/13400/0007500093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/07/13400/0007500093.pdf)
+
+114396969

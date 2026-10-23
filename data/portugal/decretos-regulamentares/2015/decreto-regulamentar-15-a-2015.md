@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 171/2015, 1º Suplemento, Série I de 2015-09-02
   number: '171'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6812-(2) a 6812-(38)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/17101/0000200038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/15-a/2015/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-a-2015-70167924
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90348cd727f662b4789e01c4938ab8858d0c40f9f8055077ba96b0d99c079182
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db8f6b5035e988f0e36a092937a99afb44ac0f584bfaacd0182cd3a2235797c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imigração
+- Admissão de Estrangeiros
 - Aicep
 - ALTO Comissariado para as Migrações
 - Cidadão Estrangeiro
+- Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
 - Diretor Geral
 - Diretor Nacional
 - Entrada de Estrangeiros
 - Expulsão de Estrangeiros
-- Secretário de Estado da Cultura
-- Residência
-- Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
+- Imigração
 - Ministro da Educação e Ciência
-- Serviço de Estrangeiros e Fronteiras
 - Presidente
+- Residência
+- Secretário de Estado da Cultura
+- Serviço de Estrangeiros e Fronteiras
 - Titulo de Residência
-- Admissão de Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:201699171:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:116382281:por
+  label: Alterados, com efeitos a 01.10.2018, os arts. 1.º, 7.º, 10.º, 14.º, 23.º, 31.º a 33.º, 43.º, 45.º, 46.º, 51.º, 54.º
+    a 58.º, 61.º a 63.º, 65.º, 65.º-A, 65.º-D, 65.º-E, 65.º-F e 71.º, aditados os arts. 12.º-A, 17.º-A, 19.º-A, 23.º-A, 23.º-B,
+    58.º-A, 58.º-B, 62.º-A, 62.º-B e 65.º-K e revogados o art. 20.º, o n.º 3 do art 21.º, o n.º 3 do art. 30.º, a al. a) do
+    n.º 2 e o n.º 3 do art. 31.º, os n.os 2 a 5 do art. 32.º, os n.os 2 a 4 do art. 32.º-A, os n.os 2 e 5 do art. 33.º, o
+    art. 34.º, os n.os 3 e 5 do art. 45.º, os n.os 3 e 4 do art. 54.º, os n.os 3 e 4 do art. 55.º, o n.º 2 do art. 56.º, o
+    n.º 2 do art. 58.º, os n.os 3, 6, 8 e 11 do art. 65.º-A, as als. h) e i) do n.º 1, a al, e) do n.º 3, as als. a), b),
+    c), d), f) e g) do n.º 4, as als. a) e c) do n.º 7, a al. c) do n.º 8, as als c) e d) do n.º 9 e os n.os 12 e 13 do art.
+    65.º-D, a al. h) do n.º 1, as als. c), d) e e) do n.º 4 e os n.os 7 a 10 do art. 65.º-E e o art. 65.º-I do DR 84/2007,
+    de 05-nov, na versão revista e republicada pelo presente diploma, pelo(a) Decreto Regulamentar n.º 9/2018 - Diário da
+    República n.º 175/2018, Série I de 2018-09-11, que procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/9-2018-116382281
+  date: '2018-09-11'
 - type: cites
   target: celex:32001L0040
   label: null
@@ -139,20 +153,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/305-a/2012/10/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/305-a/2012/10/04/p/dre
+- type: cites
+  target: pt:dre:175291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:188557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344940:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56501680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67541737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67637970:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32001L0040
   label: null
   source: null
 article_structure:
-  article_count: 125
+  article_count: 113
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:48Z'
   warnings: []
   errors: []
 ---
@@ -231,7 +329,9 @@ Os artigos 61.º, 63.º, 90.º e 92.º-A do [Decreto Regulamentar n.º 84/2007](
 
 25 - (Anterior n.º 24.)
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - ...
 
@@ -261,13 +361,17 @@ Os artigos 61.º, 63.º, 90.º e 92.º-A do [Decreto Regulamentar n.º 84/2007](
 
 14 - A autorização de residência concedida nos termos da alínea p) do n.º 1 do artigo 122.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, alterada pelas [Leis n.os 29/2012](https://diariodarepublica.pt/dr/detalhe/lei/29-2012-175291), de 9 de agosto, [56/2015](https://diariodarepublica.pt/dr/detalhe/lei/56-2015-67541737), de 23 de junho, e [63/2015](https://diariodarepublica.pt/dr/detalhe/lei/63-2015-67637970), de 30 de junho, e do n.º 18 do artigo 61.º do presente decreto regulamentar só é renovada caso se confirme a inserção no mercado de trabalho, devendo o processo de renovação ser instruído ainda com contrato de trabalho, contrato de prestação de serviços ou comprovativo de inscrição em ordem profissional reconhecida pela lei portuguesa.
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 1 - ...
 
 2 - As taxas devidas pelos títulos de residência para atividade de investimento são as previstas no anexo à [Portaria n.º 1334-E/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1334-e-2010-344940), de 31 de dezembro, alterada pela [Portaria n.º 305-A/2012](https://diariodarepublica.pt/dr/detalhe/portaria/305-a-2012-197346), de 4 de outubro.
 
-###### Artigo 92.º-A — Acompanhamento pelo Alto Comissariado para as Migrações, I. P.
+Artigo 92.º-A
+
+Acompanhamento pelo Alto Comissariado para as Migrações, I. P.
 
 O Alto Comissariado para as Migrações, I. P., pode exercer funções de interlocução junto de atuais e potenciais imigrantes em procedimentos administrativos ou fora deles, sem prejuízo das competências próprias de outros organismos públicos, por via do aconselhamento daqueles imigrantes, do contacto com outras entidades públicas e privadas, do recurso a meios eletrónicos e da preparação da documentação pertinente.»
 
@@ -333,11 +437,15 @@ d) Dá-los de arrendamento e exploração para fins comerciais, agrícolas ou tu
 
 12 - Os requisitos quantitativos mínimos exigidos no presente artigo devem estar preenchidos no momento da apresentação do pedido de autorização de residência.
 
-###### Artigo 65.º-B — Requisito temporal mínimo de atividade de investimento
+Artigo 65.º-B
+
+Requisito temporal mínimo de atividade de investimento
 
 O requisito temporal mínimo de cinco anos para a manutenção da atividade de investimento é contado a partir da data da concessão da autorização de residência.
 
-###### Artigo 65.º-C — Prazos mínimos de permanência
+Artigo 65.º-C
+
+Prazos mínimos de permanência
 
 Para efeitos de renovação de autorização de residência, os cidadãos requerentes referidos no artigo 90.º-A da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, alterada pelas [Leis n.os 29/2012](https://diariodarepublica.pt/dr/detalhe/lei/29-2012-175291), de 9 de agosto, [56/2015](https://diariodarepublica.pt/dr/detalhe/lei/56-2015-67541737), de 23 de junho, e [63/2015](https://diariodarepublica.pt/dr/detalhe/lei/63-2015-67637970), de 30 de junho, devem cumprir os seguintes prazos mínimos de permanência:
 
@@ -345,7 +453,9 @@ a) 7 dias, seguidos ou interpolados, no 1.º ano;
 
 b) 14 dias, seguidos ou interpolados, nos subsequentes períodos de dois anos.
 
-###### Artigo 65.º-D — Meios de prova para concessão de autorização de residência
+Artigo 65.º-D
+
+Meios de prova para concessão de autorização de residência
 
 1 - Para prova do cumprimento do requisito previsto na alínea a) do n.º 1 do artigo 65.º-A, o requerente deve apresentar:
 
@@ -435,7 +545,9 @@ d) Declaração de instituição de crédito autorizada ou registada em territó
 
 13 - A decisão de concessão de autorização de residência para atividade de investimento é da competência do diretor nacional do SEF, mediante proposta do diretor regional competente nos termos do número anterior.
 
-###### Artigo 65.º-E — Meios de prova para renovação de autorização de residência
+Artigo 65.º-E
+
+Meios de prova para renovação de autorização de residência
 
 1 - Para prova do cumprimento do requisito previsto na alínea a) do n.º 1 do artigo 65.º-A, no âmbito da renovação de autorização de residência, o requerente deve apresentar:
 
@@ -505,17 +617,23 @@ a) Certificado comprovativo da titularidade das unidades de participação, livr
 
 b) Certidão do registo comercial atualizada, que demonstre ser o requerente o sócio da sociedade unipessoal por quotas, no caso de o investimento ser realizado através de sociedade unipessoal por quotas.
 
-###### Artigo 65.º-F — Divulgação
+Artigo 65.º-F
+
+Divulgação
 
 1 - O Ministério dos Negócios Estrangeiros e a Agência para o Investimento e Comércio Externo de Portugal, E. P. E. (AICEP, E. P. E.), são responsáveis pela divulgação do regime de autorização de residência para atividade de investimento e disponibilizam a outras entidades a informação necessária tendo em vista a prossecução deste objetivo.
 
 2 - Através das suas redes diplomáticas, consular e comercial o Ministério dos Negócios Estrangeiros e a AICEP, E. P. E., promovem, fora do território nacional, a divulgação do regime de autorização de residência para atividade de investimento, nas respetivas áreas de competência.
 
-###### Artigo 65.º-G — Verificação consular
+Artigo 65.º-G
+
+Verificação consular
 
 O SEF pode, através do Ministério dos Negócios Estrangeiros, consultar os postos da rede diplomática e consular, sempre que, na apreciação de pedidos de concessão ou renovação de autorizações de residência para atividade de investimento e reagrupamento familiar relacionado, careça de informações complementares sobre os meios de prova apresentados ou sobre outros elementos objetivos específicos do pedido, que necessitem de verificação no país de proveniência ou de última residência habitual do requerente.
 
-###### Artigo 65.º-H — Grupo de acompanhamento
+Artigo 65.º-H
+
+Grupo de acompanhamento
 
 1 - É criado um grupo de acompanhamento constituído pelo diretor nacional do SEF, pelo diretor-geral dos Assuntos Consulares e das Comunidades Portuguesas, pelo presidente da AICEP, E. P. E., por um representante do membro do Governo responsável pela área da cultura e por um representante do membro do Governo responsável pelas áreas da educação e da ciência.
 
@@ -531,13 +649,17 @@ b) Debater, coordenar e apresentar propostas sobre atividades de divulgação in
 
 c) Monitorizar a evolução estatística do regime de autorização de residência para atividade de investimento e apresentar às respetivas tutelas relatórios com pontos de situação e com as propostas que entender apropriadas.
 
-###### Artigo 65.º-I — Auditoria
+Artigo 65.º-I
+
+Auditoria
 
 1 - A Inspeção-Geral da Administração Interna realiza, pelo menos uma vez por ano, uma auditoria ao procedimento das autorizações de residência para atividade de investimento, nos termos da alínea a) do n.º 2 do artigo 2.º do [Decreto-Lei n.º 58/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), de 14 de março, alterado pelo [Decreto-Lei n.º 146/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2012-179778), de 12 de julho, dando conhecimento das conclusões e recomendações à 1.ª comissão da Assembleia da República.
 
 2 - As conclusões e recomendações referidas no número anterior são disponibilizadas no sítio do portal do Governo.
 
-###### Artigo 65.º-J — Manual de procedimentos do SEF
+Artigo 65.º-J
+
+Manual de procedimentos do SEF
 
 O SEF elabora um manual de procedimentos interno relativo à tramitação dos processos de autorização de residência para atividade de investimento, que é aprovado pelo membro do Governo responsável pela área da administração interna.»
 
@@ -565,13 +687,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de julho de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Anabela Maria Pinto de Miranda Rodrigues - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 15 de agosto de 2015.**
+Promulgado em 15 de agosto de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 18 de agosto de 2015.**
+Referendado em 18 de agosto de 2015.
 
 Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.
 

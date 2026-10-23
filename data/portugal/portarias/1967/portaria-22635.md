@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22635-1967-509823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:29:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c2215aba09487364aec72a54bee842c602363199232f86db0c2dd0a22bd57f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1faed957f1e3b5064fbfdd1602c86eb5309bd1c75f5acd49088e47eaebd40644
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:29:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:292082:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:29:50Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +196,7 @@ Excelência:
 
 ... (posto) ..., n.º ..., ... (nome) ..., em serviço (ver nota b) ..., natural de ..., ... (estado civil) ..., julgando-se abrangido pelas disposições do [Decreto-Lei n.º 46451](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46451-1965-292082), de 26 de Julho de 1965, requer a V.Ex.ª o abono da subvenção de família em benefício das pessoas abaixo indicadas, que com ele viviam em comunhão de mesa e habitação e a seu exclusivo cargo na data da sua (ver nota c) ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/04/09200/07610764.pdf))](https://files.diariodarepublica.pt/1s/1967/04/09200/07610764.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/04/09200/07610764.pdf)
 
 Espera deferimento.
 
@@ -212,7 +216,7 @@ Modelo n.º 1 (verso)
 
 § 2.º do artigo 8.º do [Decreto-Lei n.º 46451](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46451-1965-292082), de 26 de Julho de 1967.
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 ...
 
@@ -264,13 +268,13 @@ III) Constituição do agregado familiar:
 
 Pessoas que viviam com a praça, no domicílio acima citado, em comunhão de mesa e habitação à data da (ver nota b) ..., estando ou não a seu exclusivo cargo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/04/09200/07610764.pdf))](https://files.diariodarepublica.pt/1s/1967/04/09200/07610764.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/04/09200/07610764.pdf)
 
 Nota. - No caso de fazer parte do agregado familiar mulher sexagenária que criou ou educou desde a infância a praça, sendo esta órfã, exposta ou abandonada, assinalar essa condição com as iniciais MS na coluna «Grau de parentesco».
 
 IV) Pessoas que não viviam em comunhão de mesa e habitação com a praça à data da (ver nota b) ... e que contribuem para a manutenção do agregado familiar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/04/09200/07610764.pdf))](https://files.diariodarepublica.pt/1s/1967/04/09200/07610764.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/04/09200/07610764.pdf)
 
 Quartel em ..., ... de ... de de 19 ...
 
@@ -300,7 +304,7 @@ Informação a que se refere a instrução 9.ª da Portaria n.º 22635, de 18 de
 
 Requerimento registado com o n.º ... em .../.../... do ... (posto, número e nome do militar) ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/04/09200/07610764.pdf))](https://files.diariodarepublica.pt/1s/1967/04/09200/07610764.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/04/09200/07610764.pdf)
 
 Unidade em ..., ... de ... de 19 ...
 

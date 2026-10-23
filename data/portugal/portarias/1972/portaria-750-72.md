@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/750-1972-685585
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:56:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21021e00685b947c9f44b44418a3818e77f7f93070de835f7abd034f4dda79bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea9c577c8c00752ba6c1340c9213f8763aa151397e47fdd81a226eed129f52fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:56:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:312664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:56:50Z'
   warnings: []
   errors: []
 ---
@@ -93,15 +101,15 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 Despesas com o material:
 
-###### Artigo 6.º, n.º 2 «Material de consumo corrente - Diversos não especificados, incluindo artigos de expediente, assinaturas do Diário do Governo e outras publicações, compra de livros indispensáveis ao serviço, pequenas reparações eventuais, etc.» ... 50000$00
+Artigo 6.º, n.º 2 «Material de consumo corrente - Diversos não especificados, incluindo artigos de expediente, assinaturas do Diário do Governo e outras publicações, compra de livros indispensáveis ao serviço, pequenas reparações eventuais, etc.» ... 50000$00
 
 Pagamento de serviços:
 
-###### Artigo 8.º, n.º 1 «Despesas de comunicações - Portes de correio, encomendas postais, telégrafo e endereço telegráfico» ... 50000$00
+Artigo 8.º, n.º 1 «Despesas de comunicações - Portes de correio, encomendas postais, telégrafo e endereço telegráfico» ... 50000$00
 
-###### Artigo 8.º, n.º 3 «Transportes, despachos, fretes e seguros» ... 40000$00
+Artigo 8.º, n.º 3 «Transportes, despachos, fretes e seguros» ... 40000$00
 
-###### Artigo 9.º, n.º 2, alínea e) «Diversos serviços - Propaganda - Outros serviços de propaganda que forem determinados pelo Ministro» ... 1500000$00
+Artigo 9.º, n.º 2, alínea e) «Diversos serviços - Propaganda - Outros serviços de propaganda que forem determinados pelo Ministro» ... 1500000$00
 
 ... 1640000$00
 
@@ -111,11 +119,11 @@ Pagamento de serviços:
 
 Despesas com o pessoal:
 
-###### Artigo 2.º, n.º 3 «Remunerações acidentais - Gratificação ao agente-geral, nos termos do § 2.º do artigo 129.º do [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967» ... 1000$00
+Artigo 2.º, n.º 3 «Remunerações acidentais - Gratificação ao agente-geral, nos termos do § 2.º do artigo 129.º do [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967» ... 1000$00
 
 Diversos encargos:
 
-###### Artigo 12.º «Abono de família» ... 15000$00
+Artigo 12.º «Abono de família» ... 15000$00
 
 tomando como contrapartida as disponibilidades das seguintes verbas do mesmo orçamento:
 
@@ -123,11 +131,11 @@ tomando como contrapartida as disponibilidades das seguintes verbas do mesmo or�
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1, alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 1000$00
+Artigo 1.º, n.º 1, alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 1000$00
 
 Diversos encargos:
 
-###### Artigo 11.º, n.º 4 «Outros encargos - Prémio D. João II, a atribuir aos concorrentes ao concurso de literatura sobre o tema 'A unidade nacional'» ... 15000$00
+Artigo 11.º, n.º 4 «Outros encargos - Prémio D. João II, a atribuir aos concorrentes ao concurso de literatura sobre o tema 'A unidade nacional'» ... 15000$00
 
 3) Nos termos do artigo 5.º do [Decreto-Lei n.º 28326](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28326-1937-443530), de 27 de Dezembro de 1937, abrir um crédito especial da importância de 35000$00, destinado a reforçar a verba do capítulo único, artigo 9.º, n.º 2, alínea g) «Pagamento e serviços - Diversos serviços - Propaganda - Aquisição de obras de arte de autores portugueses», do orçamento da despesa em vigor da Agência-Geral do Ultramar, tomando como contrapartida igual importância a sair das disponibilidades do capitulo único, artigo 10.º n.º 1 «Diversos encargos - Encargos das instalações - Renda de casa», do actual orçamento;
 
@@ -139,23 +147,23 @@ Diversos encargos:
 
 Despesas com o material:
 
-###### Artigo 6.º, n.º 3, alínea a) «Despesas de conservação e aproveitamento do material - De móveis - Conserto de máquinas, móveis, aparelhos, instrumentos e outros» ... 30000$00
+Artigo 6.º, n.º 3, alínea a) «Despesas de conservação e aproveitamento do material - De móveis - Conserto de máquinas, móveis, aparelhos, instrumentos e outros» ... 30000$00
 
-###### Artigo 7.º, n.º 4 «Material de consumo corrente - Combustível, lubrificante e sobresselentes» ... 12000$00
+Artigo 7.º, n.º 4 «Material de consumo corrente - Combustível, lubrificante e sobresselentes» ... 12000$00
 
 Pagamento de serviços:
 
-###### Artigo 8.º, n.º 2 «Despesas de higiene, saúde e conforto - Dietas, combustíveis e utensílios de cozinha» ... 262000$00
+Artigo 8.º, n.º 2 «Despesas de higiene, saúde e conforto - Dietas, combustíveis e utensílios de cozinha» ... 262000$00
 
-###### Artigo 8.º, n.º 8 «Prémios aos dadores de sangue» ... 20000$00
+Artigo 8.º, n.º 8 «Prémios aos dadores de sangue» ... 20000$00
 
-###### Artigo 9.º, n.º 2 «Despesas de comunicações - Telefones» ... 12000$00
+Artigo 9.º, n.º 2 «Despesas de comunicações - Telefones» ... 12000$00
 
 Diversos encargos:
 
-###### Artigo 11.º» «Abono de família» ... 21000$00
+Artigo 11.º» «Abono de família» ... 21000$00
 
-###### Artigo 16.º «Vestuário, calçado e outros auxílios a prestar aos doentes pobres necessitados vindos das províncias ultramarinas» ... 5000$00
+Artigo 16.º «Vestuário, calçado e outros auxílios a prestar aos doentes pobres necessitados vindos das províncias ultramarinas» ... 5000$00
 
 ... 362000$00
 
@@ -165,27 +173,27 @@ tomando como contrapartida as disponibilidades das seguintes verbas do mesmo or�
 
 Despesas com o pessoal:
 
-###### Artigo 1.º «Remunerações certas ao pessoal em exercício» ... 100000$00
+Artigo 1.º «Remunerações certas ao pessoal em exercício» ... 100000$00
 
 Despesas com o material:
 
-###### Artigo 5.º, n.º 2, alínea c) «Aquisição de utilização permanente - Aquisição de móveis - Mobiliário» ... 20000$00
+Artigo 5.º, n.º 2, alínea c) «Aquisição de utilização permanente - Aquisição de móveis - Mobiliário» ... 20000$00
 
 Alínea e) «Outros móveis» ... 22000$00
 
 Alínea g) «Equipamento de novas instalações e serviços» ... 11000$00
 
-###### Artigo 6.º, n.º 1, alínea a) «Despesas de conservação e aproveitamento do material - Prédios rústicos» ... 18000$00
+Artigo 6.º, n.º 1, alínea a) «Despesas de conservação e aproveitamento do material - Prédios rústicos» ... 18000$00
 
-###### Artigo 6.º, n.º 2, alínea b) «De semoventes - Viaturas com motor» ... 32000$00
+Artigo 6.º, n.º 2, alínea b) «De semoventes - Viaturas com motor» ... 32000$00
 
-###### Artigo 7.º, n.º 5 «Material de consumo corrente - Despesas com a publicação do Boletim Clínico e Estatístico do Hospital do Ultramar» ... 100000$00
+Artigo 7.º, n.º 5 «Material de consumo corrente - Despesas com a publicação do Boletim Clínico e Estatístico do Hospital do Ultramar» ... 100000$00
 
 Diversos encargos:
 
-###### Artigo 13.º «Despesas com trabalhos de investigação, congressos e exposições» ... 35000$00
+Artigo 13.º «Despesas com trabalhos de investigação, congressos e exposições» ... 35000$00
 
-###### Artigo 14.º «Montagem, funcionamento e estudos com isótopos radioactivos » ... 24000$00
+Artigo 14.º «Montagem, funcionamento e estudos com isótopos radioactivos » ... 24000$00
 
 ... 362000$00
 

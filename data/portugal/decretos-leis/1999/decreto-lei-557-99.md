@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/557/1999/12/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/557-1999-655311
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:15:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e2de984fafe3db0bec4645689727a5f4aad5b10d24854ed81e0a6973bce4ebd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9448c6ec66754f99d22745d4cfa2290a7837e5c1d4bdc5750588c88957d889d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:15:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
+- Administração Pública
+- Carreira Profissional
 - Carreira Técnica Superior
-- Pessoal Dirigente
 - Chefe de Divisão
 - Comissão de Serviço
 - Concurso
@@ -75,19 +75,19 @@ subjects:
 - Director de Finanças
 - Diretor de Serviços
 - Equiparação de Cargos
+- Estágio de Formação
 - Estatuto
-- Administração Pública
-- Carreira Profissional
 - Formas de Provimento
-- Recrutamento de Pessoal
+- Função Pública
 - Inspecção Tributária
 - Integração de Trabalhadores
 - Orgânica
 - Pessoal da Administração Tributária
 - Pessoal de Chefia
-- Estágio de Formação
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Receita Própria
+- Recrutamento de Pessoal
 - Remuneração
 - Subdirector Geral
 - Subsídio
@@ -98,6 +98,41 @@ relationships:
   target: pt:dre:124324704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:567030:por
+  label: "Alterada a percentagem prevista no art. 51º pelo DEC LEI.299/2001.2001.11.22.MF DR.IS-A [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/299-2001-567030
+  date: '2001-11-22'
+- type: amended_by
+  target: pt:dre:218365:por
+  label: "Alterado o art. 59º pelo DEC LEI.237/2004.18.12.2004.MFAP, DR.IS-A [295] de 18.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-2004-218365
+  date: '2004-12-18'
+- type: amended_by
+  target: pt:dre:247426:por
+  label: "Alterados os arts. 15º e 45º pelo DEC LEI.36/2008.29.02.2008.MFAP, DR.IS [43] de 29.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2008-247426
+  date: '2008-02-29'
+- type: amended_by
+  target: pt:dre:439170:por
+  label: "Alterado o art. 51º do presente diploma, na redacção do Dec Lei 299/2001 de 22-Nov, pelo DEC LEI.212/2008.07.11.2008.MFAP,\
+    \ DR.IS [217] de 07.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2008-439170
+  date: '2008-11-07'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 51º do presente diploma, na redacção do Dec Lei 299/2001, de 22-Nov, e Dec Lei 212/2008, de 07-Nov,\
+    \ pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:106434233:por
+  label: Alterados os arts. 15.º (na redação do Dec Lei 36/2008 de 29-fev), 16.º, 30.º, 38.º, 41.º e 45.º (na redação do Dec
+    Lei 36/2008 de 29-fev) e revogados a al. c) do n.º 1 do art. 15.º, os n.ºs 5 e 6 do art. 30.º e os n.ºs 4, 5 e 6 do art.
+    32.º do presente diploma, pelo Decreto-Lei n.º 17/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10, sem prejuízo
+    do art. 3.º deste último
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-2017-106434233
+  date: '2017-02-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/204/1998/07/11/p/dre
   label: null
@@ -130,16 +165,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
+- type: cites
+  target: pt:dre:150926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575126:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:124324704:por
+  label: Revogados, a partir de 01.01.2020, os arts. 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º,
+    16.º, 17.º, 18.º, 19.º, 20.º, 21.º, 22.º, 23.º, 24.º, 28.º, 29.º. 30.º, 31.º, 32.º, 37.º, 38.º, 39.º, 40.º, 41.º, 42.º,
+    45.º, 46.º, 48.º, 49.º, 50.º, 67.º, 68.º, 69.º, 70.º, 72.º. 74.º, 75.º e 76.º do presente diploma pelo(a) Decreto-Lei
+    n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-2019-124324704
+  date: '2019-08-30'
 article_structure:
   article_count: 77
   section_count: 35
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:15:19Z'
   warnings: []
   errors: []
 ---
@@ -1028,15 +1123,15 @@ O presente diploma entra em vigor em 1 de Janeiro de 2000, excepto no que se ref
 
 Visto e aprovado em Conselho de Ministros, de 1 de Outubro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 19 de Novembro de 1999.**
+Promulgado em 19 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Novembro de 1999.**
+Referendado em 25 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Pessoal dirigente
 
@@ -1062,7 +1157,7 @@ Adjunto de chefe de finanças de nível II/adjunto de tesoureiro de finanças de
 
 ## ANEXO III — Grupo de administração tributária (GAT)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/12/292a00/89979012.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/12/292a00/89979012.pdf)](https://files.diariodarepublica.pt/1s/1999/12/292a00/89979012.pdf)
 
 ## ANEXO IV — Pessoal de regime geral
 
@@ -1078,4 +1173,4 @@ Auxiliar.
 
 Operário.
 
-## ANEXO V — [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/12/292a00/89979012.pdf)
+## ANEXO V — [[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/12/292a00/89979012.pdf)](https://files.diariodarepublica.pt/1s/1999/12/292a00/89979012.pdf)

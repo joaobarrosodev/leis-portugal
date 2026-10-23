@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/09000/0241202415.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/74/2015/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d07f886ecc757c182c6d1aca6cd7cbf144aee3dcd0c19a7b749d2c80421b0f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d10349b87588d6f6ecdfcb73a3d276947f48856c1b5ab700dbf939b112e96f78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Capital Social
-- Inspeção Geral de Finanças
 - Fiscalização
 - FSCR Pme-iapmei
 - Fundo de Investimento
 - Fundo de Sindicação de Capital de Risco
+- IAPMEI
+- Inspeção Geral de Finanças
 - Instituto do Turismo de Portugal
 - Relatório e Contas
-- IAPMEI
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/2007/01/19/p/dre
@@ -89,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/187/2002/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/187/2002/08/21/p/dre
+- type: cites
+  target: pt:dre:172275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522640:por
+  label: null
+  source: null
 article_structure:
-  article_count: 27
+  article_count: 21
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:12Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +151,9 @@ Os artigos 1.º, 4.º, 8.º, 10.º, 11.º e 14.º do [Decreto-Lei n.º 187/2002]
 
 2 - [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Os FSCR são administrados por uma entidade especializada, a entidade gestora, indicada pelo IAPMEI - Agência para a Competitividade e Inovação, I.P. (IAPMEI, I.P.), cujo capital social seja detido total ou maioritariamente pelo IAPMEI, I.P., e ou pelo Instituto do Turismo de Portugal, I.P. (Turismo de Portugal, I.P.).
 
@@ -149,7 +163,9 @@ Os artigos 1.º, 4.º, 8.º, 10.º, 11.º e 14.º do [Decreto-Lei n.º 187/2002]
 
 4 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]:
 
@@ -171,15 +187,21 @@ f) [...].
 
 4 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Cabe ao IAPMEI, I.P., e ao Turismo de Portugal, I.P., no âmbito das respetivas competências, o acompanhamento regular da atividade dos FSCR, designadamente no que respeita ao cumprimento das leis e regulamentos que lhes sejam aplicáveis.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 A fiscalização dos FSCR é exercida pela Inspeção-Geral de Finanças, competindo-lhe velar pelo cumprimento das leis e regulamentos que lhe são aplicáveis e emitir parecer sobre as suas contas anuais, as quais lhe deverão ser enviadas até ao dia 31 de maio de cada ano, acompanhadas do relatório produzido pelo auditor externo.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A entidade gestora submeterá ao respetivo conselho geral, até 30 de junho de cada ano, os relatórios e contas da atividade dos FSCR relativos ao ano findo, acompanhados do parecer da Inspeção-Geral de Finanças e do relatório do auditor externo.
 
@@ -229,7 +251,9 @@ q) Submeter ao conselho geral até 30 de junho de cada ano os relatórios e cont
 
 r) [...].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...].
 
@@ -251,15 +275,15 @@ r) [...].
 
 Visto e aprovado em Conselho de Ministros de 19 de março de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - António de Magalhães Pires de Lima.
 
-**Promulgado em 16 de abril de 2015.**
+Promulgado em 16 de abril de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de abril de 2015.**
+Referendado em 17 de abril de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 

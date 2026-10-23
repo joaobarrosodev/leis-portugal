@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/127/1999/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:05:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b61cb59eef44c32c01fec29d73a23b20987df0a162bd28eaed4de0738521f878
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f85b526c30c885db9a9ab94c627933fa9d3c7920fff5b771e676a7096e15c22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:05:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Base de Dados
 - Comissão Nacional de Objecção de Consciência
+- Confidencialidade
 - Conservação de Documentos
-- Registo de Contumazes
+- Contumácia
+- Dados Pessoais
 - Definição de Competências
 - Direcção Geral dos Serviços Judiciários
-- Informática
-- Serviço Militar
 - Gabinete do Serviço Cívico dos Objectores de Consciência
-- Base de Dados
-- Segurança da Informação
+- Informática
 - Objector de Consciência
 - Orgânica
-- Sistema de Informação
-- Confidencialidade
 - Regime Jurídico
-- Contumácia
+- Registo de Contumazes
 - Reprodução de Documentos
-- Dados Pessoais
+- Segurança da Informação
+- Serviço Militar
+- Sistema de Informação
 relationships:
 - type: amended_by
   target: pt:dre:532452:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:532452:por
+  label: "Alterada a redacção do art. 4.º do Dec Lei 191/92 de 08-Set, alterado pelo presente diploma, pela LEI.138/99.1999.08.28.AR\
+    \ DR.IS-A [201]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/138-1999-532452
+  date: '1999-08-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/173/1994/06/25/p/dre
   label: null
@@ -110,16 +116,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/1992/05/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/1992/05/12/p/dre
+- type: cites
+  target: pt:dre:234917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527210:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:05:59Z'
   warnings: []
   errors: []
 ---
@@ -156,13 +182,17 @@ São aditados ao [Decreto-Lei n.º 191/92](https://diariodarepublica.pt/dr/detal
 
 3 - A informação sobre identificação dos indivíduos objectores de consciência deve processar-se no estrito respeito pelos princípios da legalidade, autenticidade, veracidade e segurança dos elementos identificativos.
 
-###### Artigo 26.º-B — Entidade responsável pelo tratamento da base de dados
+Artigo 26.º-B
+
+Entidade responsável pelo tratamento da base de dados
 
 1 - O director do Gabinete do Serviço Cívico dos Objectores de Consciência (GSCOC) é o responsável pelo tratamento da base de dados de objectores de consciência, nos termos do artigo 3.º, alínea d), da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de Outubro.
 
 2 - Cabe ao director do GSCOC assegurar o direito de informação e de acesso aos dados pelos respectivos titulares, a correcção de inexactidões, o completamento de omissões, a supressão de dados indevidamente registados, bem como velar pela legalidade da consulta ou da comunicação da informação.
 
-###### Artigo 26.º-C — Constituição e actualização da base de dados
+Artigo 26.º-C
+
+Constituição e actualização da base de dados
 
 1 - A base de dados sobre objectores de consciência é constituída pelos seguintes dados pessoais:
 
@@ -198,11 +228,15 @@ e) Da data da criação do registo.
 
 5 - As condições de acesso em linha ao ficheiro central referido no número anterior são definidas em protocolo celebrado entre o GSCOC e a Direcção-Geral dos Registos e do Notariado.
 
-###### Artigo 26.º-D — Acesso à informação pelo titular
+Artigo 26.º-D
+
+Acesso à informação pelo titular
 
 O titular dos dados ou quem, exibindo autorização escrita, prove efectuar o acesso em seu nome ou no seu interesse tem o direito de aceder à informação que lhe diga respeito, podendo exigir a sua rectificação e actualização ou a supressão dos dados indevidamente registados.
 
-###### Artigo 26.º-E — Acesso à informação por outras entidades
+Artigo 26.º-E
+
+Acesso à informação por outras entidades
 
 1 - Podem aceder à informação contida na base de dados de objectores de consciência:
 
@@ -214,7 +248,9 @@ c) As entidades com competência para a prossecução de fins de investigação 
 
 2 - O acesso das entidades referidas na alínea c) do número anterior depende de autorização do ministro da tutela, devendo o respectivo despacho fixar as condições e os termos do acesso, não podendo em caso algum abranger elementos que permitam identificar qualquer registo individual.
 
-###### Artigo 26.º-F — Formas de acesso
+Artigo 26.º-F
+
+Formas de acesso
 
 1 - O conhecimento da informação sobre objectores de consciência pode ser obtido pelas seguintes formas:
 
@@ -236,15 +272,21 @@ c) O fim a que se destina a informação.
 
 4 - As entidades referidas no artigo anterior não podem utilizar os dados para fins diferentes dos invocados no momento em que acederam à informação.
 
-###### Artigo 26.º-G — Informação certificada de objector de consciência
+Artigo 26.º-G
+
+Informação certificada de objector de consciência
 
 A informação certificada é passada mediante fotocópia autenticada da acta de concessão do estatuto de objector de consciência, constituindo documento bastante para provar a qualidade de objector de consciência.
 
-###### Artigo 26.º-H — Reprodução autenticada do registo informático
+Artigo 26.º-H
+
+Reprodução autenticada do registo informático
 
 A reprodução autenticada do registo informático destina-se unicamente a facultar ao titular dos dados o conhecimento do conteúdo integral do registo a seu respeito.
 
-###### Artigo 26.º-I — Acesso directo ao ficheiro central informatizado
+Artigo 26.º-I
+
+Acesso directo ao ficheiro central informatizado
 
 1 - Podem aceder directamente ao ficheiro central informatizado as entidades previstas no artigo 26.º-E, n.º 1, alíneas a) e b).
 
@@ -252,17 +294,23 @@ A reprodução autenticada do registo informático destina-se unicamente a facul
 
 3 - O GSCOC implementará um sistema de registo de todas as consultas solicitadas ao abrigo do n.º 1.
 
-###### Artigo 26.º-J — Medidas de segurança
+Artigo 26.º-J
+
+Medidas de segurança
 
 O GSCOC e as entidades mencionadas no artigo 26.º-E, n.º 1, alíneas a) e b), devem adoptar as medidas de segurança referidas no artigo 15.º, n.º 1, da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de Outubro.
 
-###### Artigo 26.º-L — Conservação dos dados
+Artigo 26.º-L
+
+Conservação dos dados
 
 1 - Os dados constantes da base de dados de objectores de consciência são conservados até ao falecimento do respectivo titular.
 
 2 - Sem prejuízo do disposto no número anterior, as situações de cessação da situação de objecção de consciência determinam o cancelamento automático do registo.
 
-###### Artigo 28.º-A — Regulamentação específica
+Artigo 28.º-A
+
+Regulamentação específica
 
 Os direitos e os deveres cívicos dos objectores de consciência, designadamente no âmbito da prestação de cuidados de saúde, é objecto de diploma legal específico.»
 
@@ -294,7 +342,9 @@ Os artigos 1.º, 2.º, 17.º, 19.º, 20.º e 24.º do [Decreto-Lei n.º 173/94](
 
 2 - ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -306,7 +356,9 @@ Os artigos 1.º, 2.º, 17.º, 19.º, 20.º e 24.º do [Decreto-Lei n.º 173/94](
 
 d) A Direcção de Serviços de Identificação Criminal e de Contumazes (DSICC.)
 
-###### Artigo 17.º — Direcção de Serviços de Identificação Criminal e de Contumazes
+Artigo 17.º
+
+Direcção de Serviços de Identificação Criminal e de Contumazes
 
 1 - À DSICC compete assegurar a recolha e o tratamento dos elementos necessários à identificação criminal e de contumazes, promover a emissão dos respectivos certificados, efectuar os estudos e propor as medidas necessárias ao aperfeiçoamento e modernização dos registos a seu cargo.
 
@@ -316,7 +368,9 @@ a) ...
 
 b) A Divisão de Contumazes.
 
-###### Artigo 19.º — Divisão de Contumazes
+Artigo 19.º
+
+Divisão de Contumazes
 
 Compete à Divisão de Contumazes:
 
@@ -326,7 +380,9 @@ b) ...
 
 c) Realizar estudos em matéria de identificação de contumazes.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 Para efeitos de emissão de certificados do registo criminal, articulam-se com a DSICC:
 
@@ -334,7 +390,9 @@ a) ...
 
 b) ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -352,12 +410,12 @@ e) ...
 
 Visto e aprovado em Conselho de Ministros de 19 de Fevereiro de 1999. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 7 de Abril de 1999.**
+Promulgado em 7 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Abril de 1999.**
+Referendado em 9 de Abril de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

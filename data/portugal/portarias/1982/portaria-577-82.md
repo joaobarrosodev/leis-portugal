@@ -47,40 +47,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/577-1982-395751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T07:19:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebcf90f60afccfe7c96787893018ee3863a3b624e6e3a4e32b23274e2944008e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35f3560c071d7fc7d2ae1871ad708a7d2dfc60f0f62ac4147d548c4545aa2892
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:19:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Transportes Terrestres
+- TAXA de Prestação de Serviços
+- Transporte de Mercadorias
 relationships:
 - type: amended_by
   target: pt:dre:647089:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:401306:por
+  label: "Acrescentado o n.º 12 á tabela de taxas a cobrar anexa ao presente diploma, pela PORT.912/84.1984.12.14.MFP DR.IS\
+    \ [288]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/912-1984-401306
+  date: '1984-12-14'
+- type: amended_by
+  target: pt:dre:325518:por
+  label: "Modificado o n.º 11.6 e acrescentado um n.º 5.7 ao n.º 5 da tabela a cobrar anexa ao presente diploma, pela PORT.205/85.1985.04.13.MFP\
+    \ DR.IS [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/205-1985-325518
+  date: '1985-04-13'
+- type: amended_by
+  target: pt:dre:193590:por
+  label: "Alterado o nº 7 da tabela de taxas, pela PORT.70/86.1986.03.08.MF, DR.IS [56]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/70-1986-193590
+  date: '1986-03-08'
+- type: amended_by
+  target: pt:dre:625621:por
+  label: "Aditado um nº 4.9 à tabela de taxas, pela PORT.309/89.1989.04.22.MF, DR.IS [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/309-1989-625621
+  date: '1989-04-22'
+- type: cites
+  target: pt:dre:140546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693029:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:647089:por
+  label: "Revogada pelo DR.15/2003.2003.08.08.MOPTC DR.IS-B [182] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/15-2003-647089
+  date: '2003-08-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:19:56Z'
   warnings: []
   errors: []
 ---

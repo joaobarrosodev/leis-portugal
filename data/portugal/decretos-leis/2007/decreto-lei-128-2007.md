@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/26362639.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/128/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2007-521002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:56:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 618308a6a916af268831c0a1eace5ccbd431fd85ebbf47a165a478b91a23232f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a7cf4f0967dcf3cd849dc9531c5d940f8213a42bd113ed3e416c3cb8d66d6cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
 - Contrato Individual de Trabalho
 - Definição de Competências
+- Funcionário Público
+- Gestão de Recursos Humanos
+- Gestão Financeira
 - Instituto de Gestão Financeira e de Infra-estruturas da Justiça
 - Instituto Público
 - Orgânica
 - Regime de Pessoal
-- Funcionário Público
-- Gestão de Recursos Humanos
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:179291:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493997:por
+  label: "Alterado o art. 5º do presente diploma, pelo DEC LEI.179/2009.07.08.2009.MJ, DR.IS [152] de 07.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-2009-493997
+  date: '2009-08-07'
+- type: amended_by
+  target: pt:dre:145185:por
+  label: "Extinto, nos termos dos arts. 26.º a 28.º, sendo objecto de fusão, o Instituto de Gestão Financeira e de Infra-Estruturas\
+    \ da Justiça, cuja orgânica foi aprovada pelo presente diploma, sendo as suas atribuições integradas no Instituto de Gestão\
+    \ Financeira e Equipamentos da Justiça,IP, pelo DEC LEI.123/2011.29.12.2011.MJ, DR.IS [249] de 29.12.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-2011-145185
+  date: '2011-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/156/2001/05/11/p/dre
   label: null
@@ -96,16 +108,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:314190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:179291:por
+  label: "Revogado o presente diploma, na redação do Dec Lei 179/2009, de 07-ago, pelo DEC LEI.164/2012.31.07.2012.MJ, DR.IS\
+    \ [147] de 31.07.2012, sucedendo o IGFEJ, I. P., nas atribuições do Instituto de Gestão Financeira e de Infraestruturas\
+    \ da Justiça, I. P.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/164-2012-179291
+  date: '2012-07-31'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:56:18Z'
   warnings: []
   errors: []
 ---
@@ -294,12 +329,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa.
 
-**Promulgado em 27 de Março de 2007.**
+Promulgado em 27 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 27 de Março de 2007.**
+Referendado em 27 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

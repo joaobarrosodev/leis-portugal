@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/244/2012/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5b69d428c136c7190630ea16477f7f1be63b3a2bed47559289549bf9701afea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3433545b2c4e8e97f581523dfe70602267ed47bba273a0cc9ac95247cb4bac44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Funções
+- Administração Central do Sistema de Saúde
+- Administração Regional de Saúde
 - Aquisição de Bens e Serviços
 - Auditoria
-- Financiamento
-- Fiscal Único
 - Centro Hospitalar
-- Gestão Financeira
 - Conselho de Administração
+- Conselho Diretivo
 - Contrato Programa
 - Definição de Competências
-- Administração Regional de Saúde
 - Director Clínico
 - Empresa Pública
+- Estabelecimento Hospitalar
 - Estatuto
-- Serviço Nacional de Saúde
+- Financiamento
+- Fiscal Único
 - Fiscalização
-- Setor Empresarial do Estado
+- Gestão Financeira
 - Gestão Hospitalar
-- Conselho Diretivo
-- Administração Central do Sistema de Saúde
 - Orçamento
 - Plano de Actividades
 - Presidente
 - Prestação de Serviços
-- Estabelecimento Hospitalar
+- Serviço Nacional de Saúde
+- Setor Empresarial do Estado
 - Unidade de Saúde Pública
 - Vogal
 relationships:
@@ -98,6 +98,20 @@ relationships:
   target: pt:dre:106434234:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66325236:por
+  label: 'Dada nova redação ao art. 8.º e alterada a epígrafe do anexo II, que passa a ter a seguinte redação: «Estatutos
+    dos Hospitais e Centros Hospitalares, E.P.E.», ambos do Dec Lei 233/2005 de 29-dez, alterado pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26'
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-2015-66325236
+  date: '2015-01-26'
+- type: amended_by
+  target: pt:dre:70139963:por
+  label: Alterado o art. 24.º dos Estatutos dos Hospitais e Centros Hospitalares, E.P.E., constantes do anexo II do Dec Lei
+    233/2005 de 29-dez, com a redação do presente diploma, pelo(a) Decreto-Lei n.º 183/2015 - Diário da República n.º 169/2015,
+    Série I de 2015-08-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2015-70139963
+  date: '2015-08-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/2010/12/27/p/dre
   label: null
@@ -138,16 +152,102 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/
   label: null
   source: http://data.dre.pt/eli/lei/64-a/
+- type: cites
+  target: pt:dre:220550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:261078:por
+  label: "Revogado, na parte relativa ao Centro Hospitalar do Barlavento Algarvio, E.P.E. o mapa III do anexo I ao Dec Lei\
+    \ 233/2005 de 29-dez, alterado e republicado pelo presente diploma, pelo DEC LEI.69/2013.17.05.2013.MS, DR.IS [95] de\
+    \ 17.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2013-261078
+  date: '2013-05-17'
+- type: repealed_by
+  target: pt:dre:106434234:por
+  label: Revogado, a partir de 15.02.2017 e com efeitos a 01.01.2017, com exceção dos n.ºs 1 e 2 do art. 1.º, o Dec. Lei 233/2005
+    de 29-dez, na redação do presente diploma, pelo(a) Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I
+    de 2017-02-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2017-106434234
+  date: '2017-02-10'
 article_structure:
-  article_count: 75
+  article_count: 62
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:33Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +290,9 @@ Os artigos 5.º, 6.º, 8.º, 9.º, 11.º e 12.º do [Decreto-Lei n.º 233/2005](
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Compete ao membro do Governo responsável pela área da saúde:
 
@@ -206,11 +308,15 @@ e) (Revogada.)
 
 2 - O membro do Governo responsável pela área da saúde pode delegar os poderes referidos no número anterior nos conselhos diretivos da Administração Central do Sistema de Saúde, I. P., e da administração regional de saúde territorialmente competente.
 
-###### Artigo 8.º — Órgãos
+Artigo 8.º
+
+Órgãos
 
 Os hospitais E. P. E. dispõem dos órgãos previstos nos Estatutos constantes do anexo ii do presente decreto-lei.
 
-###### Artigo 9.º — Organização interna
+Artigo 9.º
+
+Organização interna
 
 1 - ...
 
@@ -218,7 +324,9 @@ Os hospitais E. P. E. dispõem dos órgãos previstos nos Estatutos constantes d
 
 3 - No hospital E. P. E. existe um serviço de auditoria interna, que é dirigido por um auditor, nos termos dos Estatutos anexos ao presente decreto-lei.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Sem prejuízo do disposto na legislação aplicável às empresas públicas em matéria de controlo financeiro e deveres especiais de informação e controlo, devem os hospitais E. P. E. submeter aos membros do Governo responsáveis pelas áreas das finanças e da saúde:
 
@@ -228,7 +336,9 @@ b) ...
 
 c) ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Os hospitais E. P. E. são financiados nos termos da base xxxiii da Lei de Bases da Saúde, aprovada pela [Lei n.º 48/90](https://diariodarepublica.pt/dr/detalhe/lei/48-1990-574127), de 24 de agosto, alterada pela [Lei n.º 27/2002](https://diariodarepublica.pt/dr/detalhe/lei/27-2002-425487), de 8 de novembro, devendo refletir as necessidades de saúde da população abrangida e permitir um adequado planeamento da oferta de cuidados de saúde.
 
@@ -290,7 +400,9 @@ i) Autorizar, sem prejuízo do disposto na alínea anterior, para a prossecuçã
 
 j) Autorizar os demais atos que, nos termos da legislação aplicável, necessitem de aprovação tutelar.
 
-###### Artigo 12.º-A — Modelo de acompanhamento
+Artigo 12.º-A
+
+Modelo de acompanhamento
 
 O modelo de acompanhamento do contrato-programa e os instrumentos de monitorização, acompanhamento e avaliação do desempenho assistencial de base populacional são definidos pelo conselho diretivo da Administração Central do Sistema de Saúde, I. P.»
 
@@ -306,7 +418,9 @@ Os artigos 1.º, 6.º, 9.º, 13.º, 14.º, 15.º, 17.º e 24.º dos Estatutos co
 
 2 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O conselho de administração é composto pelo presidente e um máximo de quatro vogais, que exercem funções executivas, em função da dimensão e complexidade do hospital E. P. E., sendo um dos membros o diretor clínico e outro o enfermeiro-diretor.
 
@@ -316,7 +430,9 @@ Os artigos 1.º, 6.º, 9.º, 13.º, 14.º, 15.º, 17.º e 24.º dos Estatutos co
 
 4 - O mandato dos membros do conselho de administração tem a duração de três anos e é renovável, até ao máximo de três renovações consecutivas, permanecendo aqueles no exercício das suas funções até à designação dos novos titulares, sem prejuízo da renúncia a que houver lugar.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -324,19 +440,25 @@ Os artigos 1.º, 6.º, 9.º, 13.º, 14.º, 15.º, 17.º e 24.º dos Estatutos co
 
 3 - O exercício da atividade prevista no número anterior depende de autorização prévia do conselho de administração, mediante pedido detalhado expresso por escrito do próprio diretor clínico quanto aos atos a realizar e ao tempo a dedicar, com demonstração do interesse público.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Aos membros do conselho de administração aplica-se o Estatuto do Gestor Público, sem prejuízo do disposto nos presentes Estatutos e no respetivo diploma de aprovação.
 
 2 - (Revogado.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Para além das situações previstas no n.º 1 do artigo 24.º do Estatuto do Gestor Público, o conselho de administração pode ser dissolvido em caso de grave deterioração da qualidade dos serviços prestados, quando não for provocada por razões alheias ao exercício das funções pelos gestores.
 
 2 - (Revogado.)
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -354,7 +476,9 @@ Os artigos 1.º, 6.º, 9.º, 13.º, 14.º, 15.º, 17.º e 24.º dos Estatutos co
 
 8 - A remuneração do fiscal único é fixada no despacho a que se refere o n.º 2, atendendo ao grau de complexidade e de exigência inerente ao exercício do respetivo cargo e tendo em conta os critérios de classificação do hospital E. P. E. fixados na resolução do Conselho de Ministros a que se refere o n.º 4 do artigo 28.º do Estatuto do Gestor Público.
 
-###### Artigo 17.º — Serviço de auditoria interna
+Artigo 17.º
+
+Serviço de auditoria interna
 
 1 - Ao serviço de auditoria interna compete a avaliação dos processos de controlo interno e de gestão de riscos, nos domínios contabilístico, financeiro, operacional, informático e de recursos humanos, contribuindo para o seu aperfeiçoamento contínuo.
 
@@ -396,7 +520,9 @@ b) Inscrição no organismo nacional que regule a atividade de auditoria interna
 
 14 - No sentido de obter informação adequada para o desenvolvimento das suas competências, o serviço de auditoria interna tem acesso livre a registos, documentação, computadores, instalações e pessoal do hospital, com exceção dos registos clínicos individuais dos utentes.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 O hospital E. P. E. segue o Plano Oficial de Contabilidade do Ministério da Saúde até que estejam verificadas as condições para a transição para o Sistema de Normalização Contabilística, nos termos a definir por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde.»
 
@@ -466,15 +592,15 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 16 de agosto de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 5 de novembro de 2012.**
+Promulgado em 5 de novembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de novembro de 2012.**
+Referendado em 6 de novembro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 10.º)
 
@@ -706,15 +832,15 @@ O presente decreto-lei entra em vigor no dia 31 de dezembro de 2005.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21700/0650006515.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21700/0650006515.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21700/0650006515.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21700/0650006515.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21700/0650006515.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21700/0650006515.pdf)
 
 MAPA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21700/0650006515.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21700/0650006515.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21700/0650006515.pdf)
 
 ## ANEXO II — ESTATUTOS
 

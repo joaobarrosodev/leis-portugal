@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/203b00/51895191.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/48/1994/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/48-1994-658435
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a37b5d9e92e9082043e84f0cd35efa7290adca5d712cbfec1256acafc5c78b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c9cd8a8ad782c546ef8819f8abb04150b37f49cf46c3fcd53653b5b139ab5b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exército
 - Comando Operacional das Forças Terrestres
+- Exército
 - Orgânica
 relationships:
 - type: amended_by
@@ -78,16 +78,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/50/1993/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/50/1993/02/26/p/dre
+- type: cites
+  target: pt:dre:657445:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:355897:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 235/94, DE 30 DE NOVEMBRO, PUBLICADA NO DR.IS-B, 277, 4SUPL, DE 941130.\0\
+    \ 941130."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/235-1994-355897
+  date: '1994-11-30'
+- type: repealed_by
+  target: pt:dre:635820:por
+  label: "Revogado pelo DR.74/2007.02.07.2007.MDN, DR.IS [125] de 02.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/74-2007-635820
+  date: '2007-07-02'
 article_structure:
   article_count: 18
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:14Z'
   warnings: []
   errors: []
 ---
@@ -304,12 +319,12 @@ Presidência do Conselho de Ministros, 4 de Abril de 1994.
 
 Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
 
-**Promulgado em 27 de Julho de 1994.**
+Promulgado em 27 de Julho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1994.**
+Referendado em 29 de Julho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/262-1977-252257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T05:18:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a91e6dd998d63bfd1fc8c9ee10f3f32999d0d051f031c9e4620eae7b32d4f86a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6712cee7572dd273feb591adef9a867a98d18deeb4fa432911851f61338a82f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:18:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Fardamento
+- Marinha
+- Militar
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:164617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429587:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:18:09Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +104,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguint
 
 1.º Alterar o artigo 46.º do RUPESPA, que passa ter a seguinte redacção:
 
-###### Art. 46.º Os distintivos de classe são os seguintes:
+Art. 46.º Os distintivos de classe são os seguintes:
 
 I) ...
 
@@ -154,8 +166,8 @@ XXII) Dos electrotécnicos (fig. 53). - Um núcleo circular de 0,008 m de diâme
 
 Estado-Maior da Armada, 23 de Abril de 1977. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, vice-almirante.
 
-## Anexo ao projecto de portaria
+Anexo ao projecto de portaria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/05/11100/10361037.pdf))](https://files.diariodarepublica.pt/1s/1977/05/11100/10361037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/05/11100/10361037.pdf)
 
-**O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, vice-almirante.**
+O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, vice-almirante.

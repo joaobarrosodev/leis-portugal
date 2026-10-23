@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/283-1979-383578
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T05:54:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e29ba0040c82d60d82aa6a6e31b2b1659b92f43b4bb703e639e87b82ce2a076
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc2b31afe4b346fa6db862d5603cc76d3a7868f2593e34fdb8ca012964c21d2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:54:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Estrada
+- Exame de Condução
+- Regulamento
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:417248:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:417248:por
+  label: "Alterado o nº 1 do art. 44º do Regulamento do Código da Estrada aprovado pelo Dec 39987 de 22-Dez 1954, com a redacção\
+    \ do presente diploma, pela PORT.664/87.29.07.1987.MOPTC, DR.IS [172] de 29.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/664-1987-417248
+  date: '1987-07-29'
+- type: cites
+  target: pt:dre:290839:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:54:48Z'
   warnings: []
   errors: []
 ---

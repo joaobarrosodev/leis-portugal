@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/4/2009/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2009-602066
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:32:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08865dd655fa4141c4e2969fd35966faafa3df5c5b48c013fac0a3b3d26c4fed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ac70522db05aa0f1babef63569966ffb94ce57d511cfbaa9549782d809738db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:32:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Direção Geral de Veterinária
 - Controlo Sanitário
+- Direção Geral de Veterinária
 - Integração de Trabalhadores
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orgânica
 - Transferência de Pessoal
 relationships:
@@ -77,6 +77,15 @@ relationships:
   target: pt:dre:544386:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extinta, sendo objecto de fusão, a Direção-Geral de Veterinária (criada no âmbito do então Ministério da Agricultura,\
+    \ do Desenvolvimento Rural e das Pescas pelo Dec Lei 74/96 de 18-Jun, já revogado), cujas atribuições e competências constam\
+    \ do DR 11/2007 de 27-Fev, alterado pelo presente diploma, pelo DEC LEI.7/2012.17.01.2012.MAMAOT, DR.IS [12] de 17.01.2012,\
+    \ nos termos do disposto no nº 3 do seu art. 34º; sendo as suas atribuições integradas na Direção-Geral de Alimentação\
+    \ e Veterinária, criada naquele diploma. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/2007/04/03/p/dre
   label: null
@@ -93,16 +102,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:247711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:32:37Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +152,9 @@ Sucessão
 
 A Direcção-Geral de Veterinária sucede nas atribuições das Direcções Regionais de Agricultura de Entre Douro e Minho, de Trás-os-Montes, da Beira Litoral, da Beira Interior, do Ribatejo e Oeste, do Alentejo e do Algarve nas áreas da saúde pública veterinária, da sanidade, protecção, identificação e alimentação animal, da preservação e melhoramento do património genético, da certificação dos animais e produtos de origem animal e da atribuição de marcas de identificação às explorações e aos operadores da cadeia alimentar e da alimentação animal.
 
-###### Artigo 8.º-B — Critérios de selecção de pessoal
+Artigo 8.º-B
+
+Critérios de selecção de pessoal
 
 É fixado, como critério geral e abstracto de selecção do pessoal das Direcções Regionais de Agricultura de Entre Douro e Minho, de Trás-os-Montes, da Beira Litoral, da Beira Interior, do Ribatejo e Oeste, do Alentejo e do Algarve a transitar para a Direcção-Geral de Veterinária, o exercício de funções nas áreas da saúde pública veterinária, da sanidade, protecção, identificação e alimentação animal, da preservação e melhoramento do património genético, da certificação dos animais e produtos de origem animal e da atribuição de marcas de identificação às explorações e aos operadores da cadeia alimentar e da alimentação animal.»
 
@@ -137,12 +164,12 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 27 de Novembro de 2008. - Luís Filipe Marques Amado - Emanuel Augusto dos Santos - Ascenso Luís Seixas Simões.
 
-**Promulgado em 4 de Fevereiro de 2009.**
+Promulgado em 4 de Fevereiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de Fevereiro de 2009.**
+Referendado em 5 de Fevereiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

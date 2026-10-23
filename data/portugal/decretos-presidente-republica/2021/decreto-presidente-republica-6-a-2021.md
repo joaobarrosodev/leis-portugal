@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 3/2021, 1º Suplemento, Série I de 2021-01-06
   number: '3'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 38-(2) a 38-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/00301/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/6-a/2021/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/6-a-2021-153138220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T05:43:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e8833d9fe9ea7b6dc8c506fabf2d93d04fa1fbb8db3913832380ed1b7dd9035
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e25e095a3fd8d333235b9fcb7e869f92b8058ca932c274f3ba1c829b6722b9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:43:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,50 +66,57 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Lares
-- Circulação de Pessoas
-- Estabelecimento Comercial
-- Sector Cooperativo
-- Definição de Competências
-- Direitos e Liberdades
-- Controlo Sanitário
-- Saúde Pública
-- Estado de Emergência
-- Serviço Nacional de Saúde
-- IPSS
-- Catástrofe
-- Presidente da República
-- Estabelecimento Prisional
-- Isolamento Profiláctico
-- Liberdade de Reunião
-- Direitos do Indivíduo
-- Liberdades Fundamentais
-- GNR
-- Forças Armadas
-- Circulação de Mercadorias
+- Açores
 - Assembleia da República
+- Autarquia Local
+- Catástrofe
+- Centro Educativo
+- Circulação de Mercadorias
+- Circulação de Pessoas
+- Controlo Sanitário
+- Dados Pessoais
+- Definição de Competências
+- Direitos do Indivíduo
+- Direitos e Liberdades
 - Doença Infecciosa
 - Epidemia
-- Prazo
+- Estabelecimento Comercial
 - Estabelecimento de Ensino
-- Madeira.região Autónoma
-- Centro Educativo
-- Setor Privado
+- Estabelecimento Prisional
+- Estado de Emergência
+- Forças Armadas
 - Funcionário Público
+- GNR
 - Governo
-- Açores
-- Dados Pessoais
-- Trabalhador
-- Trabalhador por Conta de Outrem
-- Autarquia Local
-- Trabalhador com Contrato de Trabalho em Funções Públicas
-- Vigilância Epidemiológica
+- IPSS
+- Isolamento Profiláctico
+- Lares
+- Liberdade de Reunião
+- Liberdades Fundamentais
+- Madeira.região Autónoma
+- Prazo
+- Presidente da República
+- Saúde Pública
+- Sector Cooperativo
+- Serviço Nacional de Saúde
+- Setor Privado
 - Situação de Calamidade
+- Trabalhador
+- Trabalhador com Contrato de Trabalho em Funções Públicas
+- Trabalhador por Conta de Outrem
+- Vigilância Epidemiológica
 relationships:
 - type: amended_by
   target: pt:dre:153917314:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:153917314:por
+  label: Modificada a declaração do estado de emergência e renovada por 15 dias pelo(a) Decreto do Presidente da República
+    n.º 6-B/2021 - Diário da República n.º 8/2021, 2º Suplemento, Série I de 2021-01-13, com os efeitos previstos no art.
+    3.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/6-b-2021-153917314
+  date: '2021-01-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/1/2011/11/30/p/dre
   label: null
@@ -122,16 +129,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/1-a/2021/01/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/1-a/2021/01/06/p/dre
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153138221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552035:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:43:27Z'
   warnings: []
   errors: []
 ---
@@ -206,12 +229,14 @@ Os órgãos responsáveis, nos termos da [Lei n.º 44/86](https://diariodarepubl
 
 O presente decreto entra imediatamente em vigor, produzindo efeitos nos termos definidos no artigo 3.º
 
-**Assinado em 6 de janeiro de 2021.**
+Assinado em 6 de janeiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de janeiro de 2021.**
+Referendado em 6 de janeiro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113867836

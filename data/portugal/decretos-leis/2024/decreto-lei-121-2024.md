@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/121/2024/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2024-901661920
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2011f5d473b53adf6a70cf3536add658d602183e1786639aa4eb10a08adb8eb5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a65d040f080b86062d864ef99f2694353da4800d184abcf476da77ed376c24e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
+- Autoridade Nacional de Segurança Rodoviária
 - Contra-ordenação
+- Equipamento de Veículo
 - Fiscalização
+- GNR
 - Inspecção de Veículos
 - Instituto da Mobilidade e dos Transportes
-- Autoridade Nacional de Segurança Rodoviária
-- GNR
-- Equipamento de Veículo
+- PSP
 relationships:
 - type: amended_by
   target: pt:dre:910517154:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:144/2012
+  label: Altera, a partir de 1 de janeiro de 2025 e nos termos do n.º 2 do artigo 3.º, o artigo 18.º do Decreto-Lei n.º 144/2012,
+    de 11 de julho, Diário da República n.º 133/2012, Série I
+  source: null
+  date: '2012-07-11'
 - type: cites
   target: celex:32009L0040
   label: null
@@ -114,6 +120,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/29/2023/05/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/29/2023/05/05/p/dre
+- type: cites
+  target: pt:dre:114276584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212591472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835994081:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32014L0045
   label: null
@@ -125,13 +155,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:41Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +176,7 @@ A [Diretiva 2014/45/UE](https://data.europa.eu/eli/dir/2014/45/oj?locale=pt) foi
 
 Na legislação nacional, o [Decreto-Lei n.º 144/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), de 29 de novembro, procedeu à transposição da [Diretiva 2014/45/UE](https://data.europa.eu/eli/dir/2014/45/oj?locale=pt). Posteriormente, o [Decreto-Lei n.º 29/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2023-212591472), de 5 de maio, transpôs para o ordenamento jurídico interno a [Diretiva Delegada (UE) 2021/1717](https://data.europa.eu/eli/dir/2021/1717/oj?locale=pt).
 
-Nesta circunstância, o [Decreto-Lei n.º 144/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), de 29 de novembro, na sua redação atual, estabelece os requisitos do regime de inspeção técnica periódica de veículos em circulação na via pública, estatuindo a obrigatoriedade de inspeção de motociclos, triciclos e quadriciclos com cilindrada superior a 125 cm<sup>3</sup>, bem como reboques e semirreboques com peso superior a 750 kg.
+Nesta circunstância, o [Decreto-Lei n.º 144/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), de 29 de novembro, na sua redação atual, estabelece os requisitos do regime de inspeção técnica periódica de veículos em circulação na via pública, estatuindo a obrigatoriedade de inspeção de motociclos, triciclos e quadriciclos com cilindrada superior a 125 cm3, bem como reboques e semirreboques com peso superior a 750 kg.
 
 Mais tarde, o [Decreto-Lei n.º 139-E/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-e-2023-835994081), de 29 de dezembro, veio alterar o [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11 de julho, adiando a entrada em vigor da obrigatoriedade de inspeções periódicas a motociclos, triciclos, quadriciclos e reboques e semirreboques, que estava prevista para 1 de janeiro de 2024, para 1 de janeiro de 2025.
 
@@ -166,7 +196,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à quinta alteração ao [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11 de julho, alterado pelos Decretos-Leis n.<sup>os</sup>[100/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2013-498752), de 25 de julho, [144/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), de 29 de novembro, [29/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2023-212591472), de 5 de maio, e [139-E/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-e-2023-835994081), de 29 de dezembro, que estabelece os requisitos do regime de inspeção técnica periódica de veículos em circulação na via pública, transpondo para a ordem jurídica interna a [Diretiva 2014/45/UE](https://data.europa.eu/eli/dir/2014/45/oj?locale=pt) do Parlamento Europeu e do Conselho, de 3 de abril de 2014, bem como os requisitos técnicos para as inspeções para atribuição de matrícula e extraordinárias de veículos a motor e seus reboques, previstas no artigo 116.º do Código da Estrada.
+O presente decreto-lei procede à quinta alteração ao [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11 de julho, alterado pelos Decretos-Leis n.os[100/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2013-498752), de 25 de julho, [144/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), de 29 de novembro, [29/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2023-212591472), de 5 de maio, e [139-E/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-e-2023-835994081), de 29 de dezembro, que estabelece os requisitos do regime de inspeção técnica periódica de veículos em circulação na via pública, transpondo para a ordem jurídica interna a [Diretiva 2014/45/UE](https://data.europa.eu/eli/dir/2014/45/oj?locale=pt) do Parlamento Europeu e do Conselho, de 3 de abril de 2014, bem como os requisitos técnicos para as inspeções para atribuição de matrícula e extraordinárias de veículos a motor e seus reboques, previstas no artigo 116.º do Código da Estrada.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11 de julho
 
@@ -188,12 +218,14 @@ O artigo 18.º do [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministros de 12 de dezembro de 2024. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 23 de dezembro de 2024.**
+Promulgado em 23 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de dezembro de 2024.**
+Referendado em 27 de dezembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118516069

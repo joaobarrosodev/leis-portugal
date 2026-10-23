@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/445-1979-378881
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T05:58:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ad359b8010e789cf39f48ae45e783ad06db1cf0f9219465396c1a98d1e221c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5514020f1b9347c749684b0ec3f612930d8019971bfdb6208ee1f966fbb29c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embarcação
+- Embarcação de Pesca
+- Exame
+- Formação Profissional
+- Inscrição Marítima
+- Marinha Mercante
+- Pesca
+- Pessoal do MAR
+- Qualificação Profissional
+- Regulamento
+- Regulamento da Inscrição Marítima Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca
 relationships:
 - type: amended_by
   target: pt:dre:364914:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:335771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:58:50Z'
   warnings: []
   errors: []
 ---
@@ -96,17 +119,17 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha 
 
 1.º O artigo 164.º do Regulamento da Inscrição Marítima, Matricula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, passa a ter a seguinte redacção:
 
-###### Art. 164.º As provas dos exames previstos neste Regulamento para as categorias de mestre costeiro, contramestre maquinista prático de 1.ª e 2.ª classes deverão constar de uma parte teórica e uma parte prática, devendo esta ser efectuada a bordo de qualquer navio, de preferência do tipo daquele em que o marítimo irá exercer a sua actividade.
+Art. 164.º As provas dos exames previstos neste Regulamento para as categorias de mestre costeiro, contramestre maquinista prático de 1.ª e 2.ª classes deverão constar de uma parte teórica e uma parte prática, devendo esta ser efectuada a bordo de qualquer navio, de preferência do tipo daquele em que o marítimo irá exercer a sua actividade.
 
 2.º O § único do artigo 141.º passa a § 1.º sendo aditado um § 2.º, com a seguinte redacção:
 
-###### Art. 141.º ...
+Art. 141.º ...
 
 § 2.º Os exames que, nos termos deste diploma, sejam de responsabilidade da Direcção-Geral dos Estudos Náuticos realizar-se-ão nas escolas dependentes deste organismo, perante júri designado pelo director-geral.
 
 3.º aditado um artigo 157.º-B, com a seguinte redacção:
 
-###### Art. 157.º-B. O programa de exame para bombeiro é o seguinte:
+Art. 157.º-B. O programa de exame para bombeiro é o seguinte:
 
 Bombas: Breve descrição dos principais tipos em utilização. Explicação simples de pressão, vácuo e sucção. Formas de bombagem. Influência da viscosidade. Vigilância dos acessos aos compartimentos das bombas.
 

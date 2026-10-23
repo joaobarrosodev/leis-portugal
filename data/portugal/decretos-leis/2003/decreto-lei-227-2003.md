@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/227/2003/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-2003-491933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c61249a53d1eba9a7a4ffe3305f68ba65d4c1b79ffb0f92c3963c19ac28207a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3ce3ab151852443f200a6cd1b96f8e8ef2d5f3305692d6b72f558c46ba8a8c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,19 @@ subjects:
 - Aproximação das Legislações
 - Código da Estrada
 - Direcção Geral de Viação
-- Veículo
 - Regulamento
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:642009:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642009:por
+  label: "Alterado o art. 10º do Regulamento aprovado pelo presente diploma, pelo DEC LEI.345/2007.16.10.2007.MAI, DR.IS [199]\
+    \ de 16.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/345-2007-642009
+  date: '2007-10-16'
 - type: cites
   target: celex:31995L0001
   label: null
@@ -88,13 +94,13 @@ relationships:
 article_structure:
   article_count: 16
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:25Z'
   warnings: []
   errors: []
 ---
@@ -141,15 +147,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de Julho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - João Luís Mota de Campos - Carlos Manuel Tavares da Silva - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 1 de Setembro de 2003.**
+Promulgado em 1 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Setembro de 2003.**
+Referendado em 4 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO
 
@@ -289,15 +295,15 @@ b) A velocidade da componente axial do vento não deve exceder 1 m/s.
 
 1.1 - Tipo 1:
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)
 
 1.2 - Tipo 2:
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)
 
 1.3 - Tipo 3:
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)
 
 1.3.1 - Ambas as bases de medição L devem ter o mesmo comprimento e a sua direcção deve ser praticamente paralela.
 
@@ -361,7 +367,7 @@ Processo de determinação do coeficiente de correcção para pistas de ensaio o
 
 4 - Os valores Va e Vd para cada uma das velocidades medidas devem ser inscritos num diagrama (figura 1), cujos pontos sucessivos devem ser ligados entre si através de segmentos de recta.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)
 
 5 - O coeficiente K para cada uma das velocidades medidas obtém-se através da fórmula:
 
@@ -461,7 +467,7 @@ QUADRO N.º 1
 
 Dispositivos auxiliares a incluir no ensaio para determinação do binário e da potência útil do motor
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)
 
 3.2 - Condições de regulação - as condições de regulação para os ensaios destinados à determinação do binário máximo e da potência útil máxima são indicadas no quadro n.º 2.
 
@@ -549,7 +555,7 @@ n(índice t) = n(índice 1) x n(índice 2) x ... x n(índice j)
 
 O rendimento n(índice j) de cada um dos elementos constituintes da transmissão consta do quadro que se segue:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)
 
 4.3.2 - Determinação do factor a(índice 1) (ver nota b):
 
@@ -803,7 +809,7 @@ QUADRO N.º 1
 
 Dispositivos auxiliares a incluir no ensaio para determinação do binário e da potência útil do motor
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)
 
 3.2 - Condições de regulação - as condições de regulação para os ensaios destinados à determinação do binário máximo e da potência útil máxima são indicadas no quadro n.º 2.
 
@@ -929,7 +935,7 @@ n(índice t) = n(índice 1) x n(índice 2) x ... x n(índice j)
 
 O rendimento n(índice j) de cada um dos elementos constituintes da transmissão consta do quadro que segue:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)
 
 4.3.2 - Determinação do factor a(índice 1) (ver nota b):
 
@@ -1243,7 +1249,7 @@ QUADRO N.º 1
 
 Dispositivos auxiliares a incluir no ensaio para a determinação do binário e da potência útil do motor de ignição por compressão
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)
 
 3.2 - Condições de regulação - as condições de regulação aquando dos ensaios para a determinação do binário máximo e da potência útil máxima estão indicadas no quadro n.º 2.
 
@@ -1359,7 +1365,7 @@ Para valores de q(índice c) inferiores a 40 mg/(litro.ciclo), tomar-se-á um va
 
 Para valores de q(índice c) superiores a 65 mg/(litro.ciclo), tomar-se-á um valor constante de f(índice m) igual a 1,2(elevado a c) (f(índice m) = 1,2) (v. figura).
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)](https://files.diariodarepublica.pt/1s/2003/09/223a00/62586276.pdf)
 
 4.4.3 - Condições que devem ser cumpridas no laboratório - para que um ensaio seja reconhecido como válido, o factor de correcção a deve ser tal que 0,9 (igual ou menor que) a(índice d) (igual ou maior que) 1,1.
 

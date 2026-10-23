@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/116a00/24882495.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/122/1997/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1997-398541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5744bad5e9f82e1749aca1fb9c01dd48ef471011c3a797c682cb0dfba2549fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 102324d4de2f98bbfed78aec821e01c1f8b738b2b50232ba7a1cede57936e5b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Direção Geral da Saúde
-- Política de Saúde
-- Extinção de Serviços
-- Gestão Orçamental
 - Departamento de Estudos e Planeamento da Saúde
-- Orgânica
-- Quadro de Pessoal
-- Ministério da Saúde
+- Direção Geral da Saúde
+- Extinção de Serviços
 - Gestão de Recursos Humanos
+- Gestão Orçamental
+- Ministério da Saúde
+- Orgânica
+- Pessoal Dirigente
+- Política de Saúde
+- Quadro de Pessoal
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:638532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:314415:por
+  label: "Alterado o art. 7º e o quadro de pessoal dirigente pelo DEC LEI.8-A/2002.2002.01.15.MS DR.IS-A [12]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-a-2002-314415
+  date: '2002-01-15'
+- type: amended_by
+  target: pt:dre:287653:por
+  label: "Alterado o art. 27º do presente diploma e determinada a transição para a Secretaria Geral do Ministério da Saúde,\
+    \ das competências atribuídas por lei à Direcção Geral da Saúde (cuja orgânica foi aprovada pelo presente diploma), no\
+    \ âmbito dos concursos da habilitação ao grau de consultor das carreiras médicas hospitalar, de saúde pública e de clínica\
+    \ geral, pelo DR.3-A/2005.31.05.2005.MS, DR.IS-B [104-Supl] de 31.05.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/3-a-2005-287653
+  date: '2005-05-31'
+- type: amended_by
+  target: pt:dre:638528:por
+  label: "Determinado que o Alto Comissariado da Saúde, suceda nas atribuições relativas à coordenação das relações internacionais\
+    \ e à elaboração e avaliação da execução do Plano Nacional de Saúde, da Direcção Geral de Saúde, cuja orgânica foi aprovada\
+    \ pelo presente diploma, pelo DEC LEI.218/2007.29.05.2007.MS, DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-2007-638528
+  date: '2007-05-29'
+- type: amended_by
+  target: pt:dre:638532:por
+  label: "Determinada a sucessão da ACSS, I.P., nas atribuições da Direcção-Geral da Saúde, relativamente às atribuições em\
+    \ matéria de planeamento, pelo DEC LEI.219/2007.29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-2007-638532
+  date: '2007-05-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/1993/01/15/p/dre
   label: null
@@ -105,16 +131,67 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/991/1993/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/991/1993/10/08/p/dre
+- type: cites
+  target: pt:dre:220140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686384:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:149606:por
+  label: "Rectificado o art. 37º pela DECL-RECT.11-C/97.1997.06.30.PCM, DR.IS-A [148]5ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-c-1997-149606
+  date: '1997-06-30'
+- type: repealed_by
+  target: pt:dre:361949:por
+  label: "Revogada a al r) do nº 2 do art. 1º, a al b) do nº 2 do art. 8º e o art. 10º pelo DEC LEI.194/2001.2001.06.26.MS,DR.IS-A\
+    \ [146]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-2001-361949
+  date: '2001-06-26'
+- type: repealed_by
+  target: pt:dre:321520:por
+  label: "Revogada a alínea r) do n.º 2 do artigo 1.º, a alínea b) do n.º 2 do artigo 8.º e o artigo 10.º, pelo DEC LEI.325-A/2003.29.12.2003.MS,\
+    \ DR.IS-A [299-Supl] de 29.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/325-a-2003-321520
+  date: '2003-12-29'
+- type: repealed_by
+  target: pt:dre:638530:por
+  label: "Revogado, a partir de 01.06.2007, e nos termos do artigo 5.º do Decreto-Lei 212/2006, de 27 de Outubro, pelo DR.66/2007.29.05.2007.MS,\
+    \ DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/66-2007-638530
+  date: '2007-05-29'
 article_structure:
   article_count: 42
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 23
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:09Z'
   warnings: []
   errors: []
 ---
@@ -237,7 +314,9 @@ b) A Divisão de Inquéritos de Saúde e de Codificação de Doenças, Traumatis
 
 c) A Divisão de Estatística.
 
-###### Artigo 5.º — Divisão de Epidemiologia
+###### Artigo 5.º
+
+##### Divisão de Epidemiologia
 
 À Divisão de Epidemiologia compete:
 
@@ -261,7 +340,9 @@ c) Proceder à codificação de doenças, traumatismos e causas de morte e garan
 
 d) Assegurar as funções de órgão delegado do INE para codificação de verbetes de óbitos.
 
-###### Artigo 7.º — Divisão de Estatística
+###### Artigo 7.º
+
+##### Divisão de Estatística
 
 À Divisão de Estatística compete:
 
@@ -289,7 +370,9 @@ a) A Divisão de Planeamento e Normalização;
 
 b) A Divisão de Programação e Controlo.
 
-###### Artigo 9.º — Divisão de Planeamento e Normalização
+###### Artigo 9.º
+
+##### Divisão de Planeamento e Normalização
 
 À Divisão de Planeamento e Normalização compete:
 
@@ -307,7 +390,9 @@ f) Avaliar os recursos do sector da saúde e propor medidas para a sua afectaç�
 
 g) Propor critérios de organização dos serviços de saúde, nomeadamente quanto à sua localização e dimensionamento.
 
-###### Artigo 10.º — Divisão de Programação e Controlo
+###### Artigo 10.º
+
+##### Divisão de Programação e Controlo
 
 À Divisão de Programação e Controlo compete:
 
@@ -337,7 +422,9 @@ f) A Divisão das Doenças Genéticas, Crónicas e Geriátricas;
 
 g) A Divisão das Doenças Transmissíveis.
 
-###### Artigo 12.º — Divisão de Promoção e Educação para a Saúde
+###### Artigo 12.º
+
+##### Divisão de Promoção e Educação para a Saúde
 
 À Divisão de Promoção e Educação para a Saúde compete:
 
@@ -351,7 +438,9 @@ d) Propor regras técnicas e programas de educação alimentar e proceder à sua
 
 e) Promover a educação para a saúde no que respeita ao controlo da sinistralidade, à prevenção do alcoolismo, do tabagismo, da toxicodependência e da sida.
 
-###### Artigo 13.º — Divisão de Saúde Ambiental
+###### Artigo 13.º
+
+##### Divisão de Saúde Ambiental
 
 À Divisão de Saúde Ambiental compete:
 
@@ -369,7 +458,9 @@ f) Propor regras técnicas e de intervenção em matéria de vigilância e redu�
 
 g) Propor regras técnicas e de intervenção em matéria de vigilância da actividade termal, qualificação das águas minerais e de nascentes, vigilância das características bacteriológicas e químicas das águas consumíveis.
 
-###### Artigo 14.º — Divisão de Saúde Ocupacional
+###### Artigo 14.º
+
+##### Divisão de Saúde Ocupacional
 
 À Divisão de Saúde Ocupacional compete:
 
@@ -391,7 +482,9 @@ h) Colaborar com as demais entidades competentes no licenciamento das entidades 
 
 i) Propor regras, de acordo com a legislação em vigor, relativas a inspecções e condições médicas de aptidão para a condução de veículos automóveis.
 
-###### Artigo 15.º — Divisão de Saúde Materna, Infantil e dos Adolescentes
+###### Artigo 15.º
+
+##### Divisão de Saúde Materna, Infantil e dos Adolescentes
 
 À Divisão de Saúde Materna, Infantil e dos Adolescentes compete:
 
@@ -405,7 +498,9 @@ d) Propor regras técnicas e de intervenção dos serviços em matéria de saúd
 
 e) Propor regras técnicas e programas de saúde oral e promover a sua difusão.
 
-###### Artigo 16.º — Divisão de Saúde Escolar
+###### Artigo 16.º
+
+##### Divisão de Saúde Escolar
 
 À Divisão de Saúde Escolar compete:
 
@@ -423,7 +518,9 @@ f) Promover a cooperação com os serviços competentes em matéria de desportos
 
 g) Participar em comissões ou grupos de trabalho que tenham por objecto o campo de aplicação da saúde escolar.
 
-###### Artigo 17.º — Divisão das Doenças Genéticas, Crónicas e Geriátricas
+###### Artigo 17.º
+
+##### Divisão das Doenças Genéticas, Crónicas e Geriátricas
 
 À Divisão das Doenças Genéticas, Crónicas e Geriátricas compete:
 
@@ -435,7 +532,9 @@ c) Proceder à análise dos factores que determinam o aparecimento de doenças g
 
 d) Propor regras técnicas relativas a doenças genéticas e crónicas de evolução prolongada.
 
-###### Artigo 18.º — Divisão de Doenças Transmissíveis
+###### Artigo 18.º
+
+##### Divisão de Doenças Transmissíveis
 
 À Divisão de Doenças Transmissíveis compete:
 
@@ -459,7 +558,9 @@ b) A Divisão de Convenções;
 
 c) A Divisão de Auditoria e Acreditação.
 
-###### Artigo 20.º — Divisão de Acordos e Contratos
+###### Artigo 20.º
+
+##### Divisão de Acordos e Contratos
 
 À Divisão de Acordos e Contratos compete:
 
@@ -471,7 +572,9 @@ c) Promover a elaboração de acordos de cooperação na área dos cuidados de s
 
 d) Propor a introdução de novas tecnologias para prestação de cuidados, nas instituições e serviços integrados no SNS.
 
-###### Artigo 21.º — Divisão de Convenções
+###### Artigo 21.º
+
+##### Divisão de Convenções
 
 À Divisão de Convenções compete:
 
@@ -481,7 +584,9 @@ b) Promover a elaboração de regras relativas a convenções com prestadores pr
 
 c) Elaborar os estudos necessários à definição das regras de contratação com entidades privadas e colaborar com o Instituto de Gestão Informática e Financeira da Saúde na definição dos preços a pagar a tais entidades.
 
-###### Artigo 22.º — Divisão de Acreditação e Auditoria
+###### Artigo 22.º
+
+##### Divisão de Acreditação e Auditoria
 
 À Divisão de Acreditação e Auditoria compete:
 
@@ -507,7 +612,9 @@ c) A Divisão de Métodos de Trabalho e Técnicas de Organização;
 
 d) A Divisão de Formação e Investigação.
 
-###### Artigo 24.º — Divisão de Cuidados de Saúde
+###### Artigo 24.º
+
+##### Divisão de Cuidados de Saúde
 
 À Divisão de Cuidados de Saúde compete:
 
@@ -529,7 +636,9 @@ h) Orientar a criação de novas unidades orgânicas e modelos de organização 
 
 i) Orientar a introdução de novas tecnologias de diagnóstico e tratamento, bem como avaliar a eficácia e segurança dos equipamentos de saúde.
 
-###### Artigo 25.º — Divisão da Qualidade
+###### Artigo 25.º
+
+##### Divisão da Qualidade
 
 À Divisão da Qualidade compete:
 
@@ -549,7 +658,9 @@ g) Fiscalizar a observância de um código de ética de boas práticas clínicas
 
 h) Propor e difundir orientações relativas ao consentimento livre e esclarecido e à confidencialidade dos cuidados e tratamentos prestados, bem como ao acesso aos processos clínicos dos doentes.
 
-###### Artigo 26.º — Divisão de Métodos de Trabalho e Técnicas de Organização
+###### Artigo 26.º
+
+##### Divisão de Métodos de Trabalho e Técnicas de Organização
 
 À Divisão de Métodos de Trabalho e Técnicas de Organização compete:
 
@@ -559,7 +670,9 @@ b) Estudar métodos de racionalização de trabalho a desenvolver com as institu
 
 c) Analisar as actuações institucionais e promover a adopção de códigos de valores específicos.
 
-###### Artigo 27.º — Divisão de Formação e Investigação
+###### Artigo 27.º
+
+##### Divisão de Formação e Investigação
 
 Compete à Divisão de Formação e Investigação:
 
@@ -603,7 +716,9 @@ d) Efectuar análises da actividade do sistema de saúde.
 
 Ao Gabinete de Documentação e Divulgação compete proceder à recolha sistemática de documentação, nacional e estrangeira, na área da saúde e proceder à sua divulgação pelas instituições e serviços do sistema de saúde, de modo a informar os profissionais de saúde, utilizadores e demais agentes do sistema de saúde.
 
-###### Artigo 31.º — Divisão de Cooperação Internacional
+###### Artigo 31.º
+
+##### Divisão de Cooperação Internacional
 
 À Divisão de Cooperação Internacional compete:
 
@@ -741,16 +856,16 @@ Os institutos de clínica geral, regulados pela [Portaria n.º 505/86](https://d
 
 Visto e aprovado em Conselho de Ministros de 3 de Abril de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Maria de Belém Roseira Martins Coelho Henriques de Pina - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 22 de Abril de 1997.**
+Promulgado em 22 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Maio de 1997.**
+Referendado em 5 de Maio de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Mapa a que se refere o n.º 2 do artigo 35.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/116a00/24882495.pdf))](https://files.diariodarepublica.pt/1s/1997/05/116a00/24882495.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/116a00/24882495.pdf)

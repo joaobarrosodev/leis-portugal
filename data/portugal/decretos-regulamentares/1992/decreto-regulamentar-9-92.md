@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/9/1992/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1992-217119
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d46eb085582a2529c71a23579aea963bbf40a8fdcad889fcea76c7bcdb955e11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3dcb8346c53d688b95080d40071f0106ae62ec352def1baab97ba5b30c1b8aea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Contra-ordenação
 - Administração Pública
-- Segurança no Trabalho
-- Proteção do Ambiente
+- Contra-ordenação
+- Empresa
 - Poluição Sonora
+- Proteção do Ambiente
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:539986:por
@@ -81,16 +81,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/72/1992/04/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/72/1992/04/28/p/dre
+- type: cites
+  target: pt:dre:217128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557469:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:539986:por
+  label: "Revogado a partir de 06.10.2006 pelo DEC LEI.182/2006.06.09.2006.MTSSO, DR.IS [172] de 06.09.2006, com excepção\
+    \ da sua revogação relativamente às actividades da música e do entretenimento, a qual só se verifica em 15.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/182-2006-539986
+  date: '2006-09-06'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:28Z'
   warnings: []
   errors: []
 ---
@@ -131,11 +153,11 @@ p(índice A) = valor eficaz da pressão sonora ponderada A, expresso em pascal, 
 
 c) Nível sonoro contínuo equivalente, L(índice Aeq,T), ponderado A de um ruído num intervalo de tempo T: o nível sonoro contínuo equivalente, L(índice Aeq,T), ponderado A de um ruído num dado intervalo de tempo T, é expresso em dB (A) pela relação seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf))](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
 
 d) Exposição pessoal diária de um trabalhador ao ruído durante o trabalho, L(índice EP,d): a exposição pessoal diária de um trabalhador ao ruído durante o trabalho, L(índice EP,d), é expressa, em dB (A), pela relação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf))](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
 
 e) Pico de nível de pressão sonora, L(índice PICO): valor máximo instantâneo do nível de pressão sonora, expresso em dB pela expressão seguinte:
 
@@ -159,7 +181,7 @@ m) Protectores de ouvido: equipamento de protecção individual que é utilizado
 
 n) Média semanal L(índice EP,W) dos valores diários da exposição de um trabalhador ao ruído durante o trabalho: a média semanal dos valores diários é calculada pela equação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf))](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
 
 o) Representante dos trabalhadores: aquele que é eleito ou escolhido pelos trabalhadores para exercer funções específicas no âmbito da segurança e da saúde no trabalho.
 
@@ -393,15 +415,15 @@ Presidência do Conselho de Ministros, 3 de Janeiro de 1992.
 
 Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 9 de Abril de 1992.**
+Promulgado em 9 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Abril de 1992.**
+Referendado em 11 de Abril de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Medição do ruído
 
@@ -459,7 +481,7 @@ e) A exposição pessoal diária de um trabalhador ao ruído durante o trabalho,
 
 3 - Estimativa da exposição pessoal diária de um trabalhador ao ruído durante o trabalho. - Se, durante um dia de trabalho, um trabalhador está exposto a n diferentes tipos de ruído, e se, para efeito de avaliação, cada um desses ruídos foi analisado separadamente, a exposição pessoal diária desse trabalhador ao ruído durante o trabalho, L(índice EP,d) pode estimar-se pelas equações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf))](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
 
 4 - Estimativa da média semanal dos valores da exposição pessoal diária de um trabalhador ao ruído durante o trabalho, L(índice EP,W). - A estimativa da média semanal dos valores diários deve-se fazer em duas fazes:
 
@@ -467,7 +489,7 @@ a) Calcular, para cada um dos m dias de trabalho na semana considerada, os valor
 
 b) A média semanal dos valores diários L(índice EP,W) é seguidamente calculada pela expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf))](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
 
 5 - Dosímetros de ruído. - Podem utilizar-se dosímetros de ruído para a medição da exposição pessoal diária de cada trabalhador a qualquer tipo de ruído durante o trabalho sempre que sejam satisfeitas as seguintes condições:
 
@@ -487,7 +509,7 @@ d) Se, durante um dia de trabalho, um trabalhador está exposto a n diferentes t
 
 A exposição pessoal diária desse trabalhador ao ruído durante o trabalho, L(índice EP,d), é estimada directamente em dB (A) pela aplicação da expressão seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf))](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
 
 2.º método
 
@@ -505,7 +527,7 @@ em que Dk[%] é a dose parcial desse ruído, diferente de zero, lida no dosímet
 
 A exposição pessoal diária desse trabalhador ao ruído durante o trabalho, L(índice EP,d), é expressa em dB (A) pela equação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf))](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
 
 6 - Os instrumentos utilizados para medir directamente o valor máximo do pico de nível de pressão sonora ou para determinar se este ultrapassa 140 dB devem ter uma constante de tempo de crescimento que não ultrapasse 100 (mi)s, mas se for utilizado um sonómetro com característica de ponderação A em frequência e característica de ponderação I no tempo (IMPULSO), conforme a norma NP 3496 (equivalente à publicação CEI 651, de 1979), pode admitir-se que MaxL(índice PICO) é inferior a 140 dB quando o valor máximo do nível sonoro ponderado AI não ultrapassa 130 dB (AI).
 
@@ -521,7 +543,7 @@ a) Medir o nível de pressão sonora contínuo equivalente em cada banda de oita
 
 b) Aplicar a ponderação A a cada nível L(índice eq,f,Tk) do espectro mais representativo, adicionando-lhe algebricamente os valores da ponderação A correspondente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf))](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
 
 Se o sonómetro ou o sonómetro integrador medir directamente L(índice Aeq,f,Tk) para cada banda de oitava, não são necessárias as correcções referidas na tabela anterior;
 
@@ -531,11 +553,11 @@ Ter-se-ão assim os níveis globais L(índice n) = L(índice eq,f,Tk) + (Delta)A
 
 d) Com os níveis globais, obtidos como indicado na alínea c), estimar o nível sonoro contínuo equivalente, L*(índice Aeq,Tk) de cada ruído que ocorra durante o tempo T(índice k), estando o trabalhador equipado com protectores de ouvido, pela relação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf))](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
 
 e) Aplicando ao conjunto destes valores, calculados como refere a alínea anterior, a expressão dada no n.º 3 do anexo II, para estimar a exposição diária, obtém-se a exposição diária efectiva, L(índice EP,d,efect), em dB (A), de cada trabalhador que use protectores de ouvido:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf))](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
 
 2 - O segundo método, mais expedito, consiste na utilização da atenuação estimada ENR dos protectores de ouvido definido no documento ISO/DIS 8353.
 
@@ -545,7 +567,7 @@ e) Aplicando ao conjunto destes valores, calculados como refere a alínea anteri
 
 5 - Do ponto de vista da segurança, a atenuação é o principal mas não o único factor a considerar na escolha de protectores de ouvido, pelo que são dadas seguidamente também indicações não exaustivas para a avaliação de protectores de ouvido, com base no documento n.º 89/C328/02, da Comissão das Comunidades Europeias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf))](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/098b00/19611971.pdf)
 
 ## ANEXO V
 

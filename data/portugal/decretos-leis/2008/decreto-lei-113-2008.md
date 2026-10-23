@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/113/2008/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2008-456273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28ed7d4f67a11ac1e1ad2fb3c29f8e339a19851ad68403ba31577706cb0c2a44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5c1ef504395ca4ec0cdf4ae3638798c28271979560a9791d6625a9ba54f5e36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade Nacional de Segurança Rodoviária
 - Carta de Condução
 - Código da Estrada
-- Multa
 - Contra-ordenação
 - Direcção Geral de Viação
 - Fiscalização Rodoviária
 - Ilícito de MERA Ordenação Social
-- Veículo
 - Limite de Velocidade
-- Autoridade Nacional de Segurança Rodoviária
-- Segurança Rodoviária
+- Multa
 - Responsabilidade Civil Automóvel
 - Sanção
+- Segurança Rodoviária
 - Sinalização
 - Taxa de Alcoolemia
 - Trânsito
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:150757538:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:499526:por
+  label: "Dada nova redação aos arts. 169º e 175º do Código da Estrada, aprovado pelo Dec Lei 114/94 de 03-mai, alterado pelo\
+    \ presente diploma pela LEI.72/2013.03.09.2013.AR, DR.IS [169] de 03.09.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/72-2013-499526
+  date: '2013-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
   label: null
@@ -103,16 +109,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/17/2008/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/17/2008/04/17/p/dre
+- type: cites
+  target: pt:dre:249812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:59Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +169,9 @@ Os artigos 131.º, 148.º, 169.º, 173.º e 177.º do Código da Estrada, aprova
 
 Constitui contra-ordenação rodoviária todo o facto ilícito e censurável que preencha um tipo legal correspondente à violação de norma do Código da Estrada ou de legislação complementar e legislação especial cuja aplicação esteja cometida à Autoridade Nacional de Segurança Rodoviária, e para o qual se comine uma coima.
 
-###### Artigo 148.º — Cassação do título de condução
+Artigo 148.º
+
+Cassação do título de condução
 
 1 - A prática de três contra-ordenações muito graves ou de cinco contra-ordenações entre graves ou muito graves num período de cinco anos tem como efeito necessário a cassação do título de condução do infractor.
 
@@ -159,7 +183,9 @@ Constitui contra-ordenação rodoviária todo o facto ilícito e censurável que
 
 5 - A decisão de cassação do título de condução é impugnável para os tribunais judiciais nos termos do regime geral das contra-ordenações.
 
-###### Artigo 169.º — Competência para o processamento e aplicação das sanções
+Artigo 169.º
+
+Competência para o processamento e aplicação das sanções
 
 1 - O processamento das contra-ordenações rodoviárias compete à Autoridade Nacional de Segurança Rodoviária.
 
@@ -173,7 +199,9 @@ Constitui contra-ordenação rodoviária todo o facto ilícito e censurável que
 
 6 - O pessoal da Autoridade Nacional de Segurança Rodoviária afecto a funções de fiscalização das disposições legais sobre o trânsito e a segurança rodoviária é equiparado a autoridade pública, para efeitos de instrução e decisão de processos de contra-ordenação rodoviária.
 
-###### Artigo 173.º — [...]
+Artigo 173.º
+
+[...]
 
 1 - ...
 
@@ -187,7 +215,9 @@ Constitui contra-ordenação rodoviária todo o facto ilícito e censurável que
 
 6 - ...
 
-###### Artigo 177.º — Depoimentos
+Artigo 177.º
+
+Depoimentos
 
 1 - ...
 
@@ -231,12 +261,12 @@ As contra-ordenações previstas em legislação complementar ao Código da Estr
 
 Visto e aprovado em Conselho de Ministros de 24 de Abril de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Rui Carlos Pereira - Alberto Bernardes Costa.
 
-**Promulgado em 26 de Maio de 2008.**
+Promulgado em 26 de Maio de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de Maio de 2008.**
+Referendado em 27 de Maio de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

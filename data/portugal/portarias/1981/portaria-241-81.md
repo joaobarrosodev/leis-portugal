@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/241-1981-388447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:41:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c681ae139ff3364af3f7888a2174d9164639d053e1984254fb0e5fddea8116a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88777f04c61f9743cb90c2bcc19c45a444006a0c52ac62efafdbe967ddba6160
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:41:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto do Oficial da Armada
+- Marinha
+- Militar
+- Norma Protocolar
+- Promoção Profissional
+- Quadro de Pessoal
+- Reforma
+- Reserva
 relationships:
 - type: amended_by
   target: pt:dre:229088:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:388838:por
+  label: "Alterada a alínea b) do artigo 124.º do Estatuto do Oficial da Armada, aprovado pelo Decreto 46960, de 14 de Abril,\
+    \ com a redacção constante do presente diploma, pela PORT.337/81.10.04.1981.CR, DR.IS [84] de 10.04.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/337-1981-388838
+  date: '1981-04-10'
+- type: amended_by
+  target: pt:dre:229088:por
+  label: "Alterada a referência feita à condição 6) da al. do art. 78º do Estatuto do Oficial da Armada e constante do nº\
+    \ 1º deste diploma pela PORT.284/86.17.06.1986.MDN, DR.IS [136] de 17.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/284-1986-229088
+  date: '1986-06-17'
+- type: cites
+  target: pt:dre:365764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:41:10Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +134,9 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, nos termo
 
 1.º O artigo 17.º, a alínea d) do artigo 70.º, a condição 6) da alínea a) do artigo 78.º, os artigos 80.º e 84.º, a alínea c) do artigo 86.º, o corpo e a alínea b) do artigo 124.º, o corpo do artigo 126.º, o corpo, a alínea c) e os §§ 1.º e 2.º do artigo 140.º, o § 1.º do artigo 142.º e os artigos 143.º e 203.º do Estatuto do Oficial da Armada passam a ter a seguinte redacção:
 
-###### Art. 17.º Aos oficiais generais é devido o tratamento de «excelência» e aos oficiais superiores e subalternos o de «senhor».
+Art. 17.º Aos oficiais generais é devido o tratamento de «excelência» e aos oficiais superiores e subalternos o de «senhor».
 
-###### Art. 70.º ...
+Art. 70.º ...
 
 ...
 
@@ -104,7 +144,7 @@ d) Colocados na Presidência da República ou exercendo as funções de assessor
 
 ...
 
-###### Art. 78.º ...
+Art. 78.º ...
 
 a) ...
 
@@ -114,7 +154,7 @@ a) ...
 
 ...
 
-###### Art. 80.º Os oficiais do quadro de oficiais do activo transitam para o quadro de oficiais da reserva da Armada, com direito a pensão, por qualquer das condições indicadas nas alíneas seguintes:
+Art. 80.º Os oficiais do quadro de oficiais do activo transitam para o quadro de oficiais da reserva da Armada, com direito a pensão, por qualquer das condições indicadas nas alíneas seguintes:
 
 a) Tendo prestado menos de 5 anos de serviço, sejam julgados fisicamente incapazes para serviço no quadro de oficiais do activo pela Junta de Saúde Naval, que comprove ser a incapacidade resultante de:
 
@@ -150,7 +190,7 @@ d) Requeiram a passagem à reserva da Armada, com direito a pensão, depois de c
 
 § 3.º A data da passagem ao quadro de oficiais da reserva da Armada, com direito a pensão, é a data em que, nos termos legais, o oficial for considerado abrangido pela condição que a motivou.
 
-###### Art. 84.º Transitam para o quadro de oficiais reformados os oficiais que deixem de pertencer aos quadros de oficiais do activo ou da reserva da Armada, com direito a pensão, por serem abrangidos por qualquer das seguintes condições:
+Art. 84.º Transitam para o quadro de oficiais reformados os oficiais que deixem de pertencer aos quadros de oficiais do activo ou da reserva da Armada, com direito a pensão, por serem abrangidos por qualquer das seguintes condições:
 
 a) Tendo prestado 5 ou mais anos de serviço:
 
@@ -174,7 +214,7 @@ c) Reúnam as condições estabelecidas na lei para a reforma extraordinária.
 
 § 3.º O disposto no corpo deste artigo não prejudica o direito de opção consagrado no [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro.
 
-###### Art. 86.º ...
+Art. 86.º ...
 
 ...
 
@@ -182,7 +222,7 @@ c) Tenham sofrido a pena de demissão ou a de expulsão;
 
 ...
 
-###### Art. 124.º Os oficiais apenas podem ser promovidos enquanto se mantiverem nos quadros dos oficiais do activo e não tenham sido abrangidos pela condição 19) ou 20) da alínea a) do artigo 78.º deste Estatuto. Constituem excepções ao atrás referido as seguintes:
+Art. 124.º Os oficiais apenas podem ser promovidos enquanto se mantiverem nos quadros dos oficiais do activo e não tenham sido abrangidos pela condição 19) ou 20) da alínea a) do artigo 78.º deste Estatuto. Constituem excepções ao atrás referido as seguintes:
 
 a) ...
 
@@ -190,9 +230,9 @@ b) Ao posto de almirante da Armada também podem ser promovidos os vice-almirant
 
 ...
 
-###### Art. 126.º A promoção dos oficiais efectua-se independentemente da sua situação em relação ao quadro [no quadro, supranumerários e adidos, excepto, neste último caso, quando tenham sido abrangidos pela condição 19) ou 20) da alínea a) do artigo 78.º deste Estatuto].
+Art. 126.º A promoção dos oficiais efectua-se independentemente da sua situação em relação ao quadro [no quadro, supranumerários e adidos, excepto, neste último caso, quando tenham sido abrangidos pela condição 19) ou 20) da alínea a) do artigo 78.º deste Estatuto].
 
-###### Art. 140.º Para verificação das 1.ª, 2.ª e 3.ª condições gerais de promoção são elementos de apreciação:
+Art. 140.º Para verificação das 1.ª, 2.ª e 3.ª condições gerais de promoção são elementos de apreciação:
 
 a) ...
 
@@ -204,13 +244,13 @@ e) Outros documentos, quer constem do processo individual do oficial, quer nele 
 
 § 2.º A verificação das 1.ª, 2.ª e 3.ª condições gerais de promoção pertence, em primeira análise, ao superintendente dos Serviços do Pessoal da Armada, com base em informação dada pela Direcção do Serviço do Pessoal.
 
-###### Art. 142.º ...
+Art. 142.º ...
 
 § 1.º Quando houver dúvidas sobre se o oficial satisfaz à 1.ª ou à 2.ª condição geral de promoção, deverá o mesmo ser submetido a apreciação do Conselho Superior de Disciplina da Armada para efeitos do respectivo parecer.
 
 § 2.º ...
 
-###### Art. 143.º O oficial que não satisfaça à 3.ª condição geral de promoção ficará excluído da promoção pelo prazo máximo de dois anos, findos os quais, se continuar a não satisfazer à mesma condição, será excluído definitivamente da promoção, ficando na situação de adido ao quadro, nos termos da condição 20) da alínea a) do artigo 78.º
+Art. 143.º O oficial que não satisfaça à 3.ª condição geral de promoção ficará excluído da promoção pelo prazo máximo de dois anos, findos os quais, se continuar a não satisfazer à mesma condição, será excluído definitivamente da promoção, ficando na situação de adido ao quadro, nos termos da condição 20) da alínea a) do artigo 78.º
 
 § 1.º A inexistência de informações a que se refere a alínea a) do artigo 140.º não pode constituir fundamento para se considerar um oficial como não satisfazendo a esta condição.
 
@@ -222,7 +262,7 @@ e) Outros documentos, quer constem do processo individual do oficial, quer nele 
 
 § 5.º O Conselho Superior da Armada, na apreciação dos casos que lhe forem presentes, dará o seu parecer com base em todos os documentos que lhe forem submetidos e os que entender juntar ao processo, podendo ainda ouvir pessoalmente o oficial e quem mais entenda útil antes de emitir parecer.
 
-###### Art. 203.º A informação periódica é confidencial, devendo, se desfavorável, ser comunicada aos oficiais sobre os quais recai antes de ser remetida à 1.ª Repartição da Direcção do Serviço do Pessoal.
+Art. 203.º A informação periódica é confidencial, devendo, se desfavorável, ser comunicada aos oficiais sobre os quais recai antes de ser remetida à 1.ª Repartição da Direcção do Serviço do Pessoal.
 
 § 1.º Esta informação, se desfavorável, será acompanhada de juízo ampliativo que constitua adequada fundamentação, sem o que ela será de nulo efeito nos aspectos inadequadamente fundamentados.
 
@@ -232,7 +272,7 @@ O segundo informador, sempre que o houver, deverá pronunciar-se claramente, por
 
 2.º As alíneas do corpo do artigo 160.º do aludido Estatuto são substituídas pelas que a seguir se indicam:
 
-###### Art. 160.º ...
+Art. 160.º ...
 
 a) Quando os oficiais aguardem julgamento ou apreciação do Conselho Superior de Disciplina da Armada;
 
@@ -256,7 +296,7 @@ i) Noutros casos em que a lei expressamente o determine.
 
 3.º À alínea a) do artigo 78.º, ao artigo 124.º, ao artigo 140.º e ao § 1.º do artigo 147.º do mesmo Estatuto são aditadas, respectivamente, uma condição 20), três parágrafos, um § 3.º e uma alínea c), com as seguintes redacções:
 
-###### Art. 78.º ...
+Art. 78.º ...
 
 a) ...
 
@@ -264,7 +304,7 @@ a) ...
 
 20) No termo do prazo de dois anos a que se refere o artigo 143.º não satisfaçam à 3.ª condição geral de promoção, até que atinjam o limite de idade estabelecido para o seu quadro e posto para a passagem à reserva.
 
-###### Art. 124.º ...
+Art. 124.º ...
 
 § 1.º A promoção por distinção também pode ter lugar a título póstumo.
 
@@ -272,13 +312,13 @@ a) ...
 
 § 3.º Os oficiais a que se refere o parágrafo anterior que hajam transitado para o quadro de oficiais da reserva da Armada, com direito a pensão, nos termos da condição 1.ª da alínea a) do artigo 80.º e não tenham, para o novo posto, atingido o limite de idade para a passagem àquele quadro serão mantidos no quadro de oficiais do activo, nos termos do artigo 69.º
 
-###### Art. 140.º ...
+Art. 140.º ...
 
 ...
 
 § 3.º Nos casos em que o superintendente dos Serviços do Pessoal da Armada considere que não são satisfeitas as referidas condições de promoção ou tenha dúvidas sobre essa satisfação, submeterá o assunto à apreciação do Chefe do Estado-Maior da Armada.
 
-###### Art. 147.º ...
+Art. 147.º ...
 
 § 1.º ...
 

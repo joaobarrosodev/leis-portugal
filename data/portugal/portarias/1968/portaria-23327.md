@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23327-1968-234715
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 310ce9a980ff24314a3b0386f562bc2753b4ed43fbdc6887e219df86f37c5d34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b959f52d15ed3e70db67f034f0c61897c33adba87561f549f19762c52ee27bb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:42Z'
   warnings: []
   errors: []
 ---
@@ -88,17 +88,17 @@ Ministério da Educação Nacional, 22 de Abril de 1968. - Pelo Ministro da Educ
 
 Regulamento do Prémio e Bolsas de Estudo Eng.º Cristiano P. Spratley
 
-###### Artigo 1.º São criados na Faculdade de Engenharia da Universidade do Porto, por força do rendimento do legado instituído por D. Maria Estela de Azevedo Pinheiro Spratley e Ricardo Spratley, rendimento que será anualmente entregue à Universidade do Porto pela Venerável Ordem Terceira de Nossa Senhora do Carmo, da mesma cidade, o Prémio e Bolsas de Estudo Eng.º Cristiano P. Spratley.
+Artigo 1.º São criados na Faculdade de Engenharia da Universidade do Porto, por força do rendimento do legado instituído por D. Maria Estela de Azevedo Pinheiro Spratley e Ricardo Spratley, rendimento que será anualmente entregue à Universidade do Porto pela Venerável Ordem Terceira de Nossa Senhora do Carmo, da mesma cidade, o Prémio e Bolsas de Estudo Eng.º Cristiano P. Spratley.
 
-###### Art. 2.º O Prémio, da importância de 2500$00, será atribuído, alternadamente, ao aluno da licenciatura em Engenharia Electrotécnica ou da licenciatura em Engenharia Químico-Industrial que nesse ano escolar concluir o curso com mais elevada classificação.
+Art. 2.º O Prémio, da importância de 2500$00, será atribuído, alternadamente, ao aluno da licenciatura em Engenharia Electrotécnica ou da licenciatura em Engenharia Químico-Industrial que nesse ano escolar concluir o curso com mais elevada classificação.
 
 § único. Em caso de igualdade de classificação, o Prémio deverá ser atribuído ao aluno que tiver alcançado a média mais elevada nos exames das disciplinas do último ano do curso.
 
-###### Art. 3.º A designação do aluno a quem deve ser atribuído o Prémio será feita pelo conselho escolar da Faculdade de Engenharia e transmitida ao reitor da Universidade.
+Art. 3.º A designação do aluno a quem deve ser atribuído o Prémio será feita pelo conselho escolar da Faculdade de Engenharia e transmitida ao reitor da Universidade.
 
-###### Art. 4.º A entrega do Prémio compete ao reitor da Universidade e terá lugar, em princípio, na sessão inaugural dos trabalhos escolares do ano lectivo imediato ao da decisão do conselho escolar.
+Art. 4.º A entrega do Prémio compete ao reitor da Universidade e terá lugar, em princípio, na sessão inaugural dos trabalhos escolares do ano lectivo imediato ao da decisão do conselho escolar.
 
-###### Art. 5.º O remanescente do rendimento anual do legado referido no artigo 1.º destina-se à concessão de bolsas de estudo a alunos de qualquer dos cursos professados na Faculdade de Engenharia.
+Art. 5.º O remanescente do rendimento anual do legado referido no artigo 1.º destina-se à concessão de bolsas de estudo a alunos de qualquer dos cursos professados na Faculdade de Engenharia.
 
 § 1.º As bolsas serão atribuídas pelo Senado Universitário, segundo as condições e o montante das bolsas concedidas pelo Estado, e o seu número será, anualmente, o mais elevado que o rendimento do legado comportar.
 

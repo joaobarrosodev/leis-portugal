@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/770-1983-453801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T07:48:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6deb02bc9c6ed10e757270d4f0290c85c80ebe271a1146ab1225ebb5165a221c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c23c04012e2f45ac06e7790935b0ff2bff0db4015e83a9ed12120c5f0924ea1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:48:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Profissão Artística
+- Regulamento do Fundo Especial da Caixa de Previdência dos Profissionais de Espectáculos
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:588262:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662733:por
+  label: "Alterado o art. 2º, o nº 1 do art. 5º e os arts. 13º e 24º, pela PORT.131/87.1987.02.25.MTSS, DR.IS [47]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/131-1987-662733
+  date: '1987-02-25'
+- type: amended_by
+  target: pt:dre:588262:por
+  label: "Cometida a gestão financeira, nos termos do art. 19º do Regulamento, constante do presente diploma, ao Instituto\
+    \ de Gestão Financeira da Segurança Social, pela PORT.58/93.1993.01.13.MESS, DR.IS-B [10]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/58-1993-588262
+  date: '1993-01-13'
+- type: cites
+  target: pt:dre:238249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596512:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:673781:por
+  label: Rectificada pela DECL.DD5721.23.08.1983.PCM, DR.IS [200-Supl] de 31.08.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-673781
+  date: '1983-08-23'
 article_structure:
-  article_count: 23
+  article_count: 24
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:48:28Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +155,9 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Seguran�
 
 Secretaria de Estado da Segurança Social.
 
-**Assinada em 1 de Junho de 1983.**
+Assinada em 1 de Junho de 1983.
 
-**O Secretário de Estado da Segurança Social, António José de Castro Bagão Félix.**
+O Secretário de Estado da Segurança Social, António José de Castro Bagão Félix.
 
 REGULAMENTO DO FUNDO ESPECIAL DA CAIXA DE PREVIDÊNCIA DOS PROFISSIONAIS DE ESPECTÁCULOS
 
@@ -304,7 +347,9 @@ f) Quaisquer receitas que legalmente lhe venham a ser atribuídas.
 
 2 - O Instituto de Gestão Financeira da Segurança Social remeterá mensalmente às instituições pagadoras das prestações o montante das despesas previstas.
 
-### CAPÍTULO IV — Artigo 22.º
+### CAPÍTULO IV
+
+###### Artigo 22.º
 
 Disposições finais e transitórias
 
@@ -326,4 +371,4 @@ A gestão das prestações previstas neste Regulamento compete à Caixa de Previ
 
 2 - No final do primeiro ano de gestão do Fundo, de acordo com o presente Regulamento, proceder-se-á à avaliação dos dados físicos e financeiros recolhidos pela Caixa de Previdência dos Profissionais de Espectáculos e pelo Instituto de Gestão Financeira da Segurança Social, por forma a possibilitar uma eventual adequação pontual das prestações aos meios existentes.
 
-**O Secretário de Estado da Segurança Social, António José de Castro Bagão Félix.**
+O Secretário de Estado da Segurança Social, António José de Castro Bagão Félix.

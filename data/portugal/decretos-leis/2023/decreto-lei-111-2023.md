@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/111/2023/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2023-224870951
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ee2f0becdae1ecdc4c17db602e4e3e4d2f46d175bcccaba8e8312f5909a8338
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b7230462597d34038fc4efc5c05b8f89522210d30a5b8f0d0e896c4084a6fa9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Local
+- Bombeiro
 - Estatuto
 - Estatuto do Pessoal
-- Sistema Retributivo
 - Horas Extraordinárias
 - Interpretação do Direito
-- Bombeiro
-- Administração Local
 - Remuneração
+- Sistema Retributivo
 - Trabalho por Turnos
 relationships:
 - type: amended_by
@@ -92,16 +92,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:122857879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303237:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:912653928:por
+  label: Revogado, a partir de 28 de março de 2025, com efeitos a 1 de janeiro de 2025, pelo(a) Decreto-Lei n.º 51/2025 -
+    Diário da República n.º 61/2025, Série I de 2025-03-27 nos termos dos artigo 6.º e da alínea b) do artigo 8.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-2025-912653928
+  date: '2025-03-27'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:43Z'
   warnings: []
   errors: []
 ---
@@ -140,12 +158,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de outubro de 2023. - Mariana Guimarães Vieira da Silva - Mariana Guimarães Vieira da Silva - José Luís Pereira Carneiro - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
 
-**Promulgado em 18 de novembro de 2023.**
+Promulgado em 18 de novembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de novembro de 2023.**
+Referendado em 21 de novembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+117099817

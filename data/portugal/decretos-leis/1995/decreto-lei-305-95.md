@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/267a00/70957099.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/305/1995/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1995-691673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 660199c9f56f6d60c45a1fe69923b2f397097585304ed28afc69a9a47680f1c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d80c390aba51e04d16d43bb9676092da90aa430316b87de72569fb717f8db4ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ subjects:
 - Agente Desportivo
 - Atleta Profissional
 - Contrato de Formação
+- Contrato de Trabalho
 - Despedimento Ilícito
 - Desporto Profissional
-- Rescisão de Contrato
+- Duração do Trabalho
 - Férias
 - Prémio Desportivo
-- Contrato de Trabalho
 - Regime Jurídico
-- Duração do Trabalho
 - Remuneração
+- Rescisão de Contrato
 relationships:
 - type: amended_by
   target: pt:dre:479416:por
@@ -86,16 +86,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/85/1995/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/85/1995/08/31/p/dre
+- type: cites
+  target: pt:dre:333524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479416:por
+  label: "Revogado pela LEI.28/98.1998.06.26.AR, DR.IS [145]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-1998-479416
+  date: '1998-06-26'
 article_structure:
-  article_count: 38
+  article_count: 37
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:55Z'
   warnings: []
   errors: []
 ---
@@ -120,19 +141,19 @@ Assim:
 
 No uso da autorização legislativa concedida pela [Lei n.º 85/95](https://diariodarepublica.pt/dr/detalhe/lei/85-1995-548465), de 31 de Agosto, no desenvolvimento do regime jurídico estabelecido pela [Lei n.º 1/90](https://diariodarepublica.pt/dr/detalhe/lei/1-1990-333524), de 13 de Janeiro, e nos termos das alíneas a), b) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Regime Jurídico do Contrato de Trabalho do Praticante Desportivo e do Contrato de Formação Desportiva anexo ao presente diploma, que dele faz parte integrante.
+Artigo único. É aprovado o Regime Jurídico do Contrato de Trabalho do Praticante Desportivo e do Contrato de Formação Desportiva anexo ao presente diploma, que dele faz parte integrante.
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 1995. - Aníbal António Cavaco Silva - Maria Manuela Dias Ferreira Leite - José Bernardo Veloso Falcão e Cunha.
 
-**Promulgado em 5 de Outubro de 1995.**
+Promulgado em 5 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1995.**
+Referendado em 10 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regime Jurídico do Contrato de Trabalho do Praticante Desportivo e do Contrato de Formação Desportiva
 

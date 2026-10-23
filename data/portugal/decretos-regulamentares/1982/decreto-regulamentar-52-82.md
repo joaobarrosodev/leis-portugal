@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/52-1982-397540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:05:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36be7be8de325a49df97651a55cb9dd58b893105bb9712e35708af7591063cc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0186fbbd534313000fc38151bc72202243f7b653cbe5b1d7d883f8c6a5084678
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:05:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contribuições e Impostos
+- Regulamento
+- Serviço Militar
+- TAXA Militar
+relationships:
+- type: cites
+  target: pt:dre:527229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606558:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:05:39Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +102,9 @@ Correspondendo o montante estabelecido na já citada disposição à remição t
 
 Assim, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. O § 1.º do artigo 35.º do Regulamento da Taxa Militar, aprovado pelo [Decreto n.º 39146](https://diariodarepublica.pt/dr/detalhe/decreto/39146-1953-527229), de 24 de Março de 1953, passa a ter a seguinte redacção:
+Artigo único. O § 1.º do artigo 35.º do Regulamento da Taxa Militar, aprovado pelo [Decreto n.º 39146](https://diariodarepublica.pt/dr/detalhe/decreto/39146-1953-527229), de 24 de Março de 1953, passa a ter a seguinte redacção:
 
-###### Art. 35.º ...
+Art. 35.º ...
 
 § 1.º Os contribuintes que, tendo transferido a sua residência para o estrangeiro, se apresentem no consulado sem terem liquidado toda a taxa a que estão obrigados pela sua situação militar poderão regularizar a sua situação mediante o pagamento da taxa única de 9600$00, considerando-se liquidadas todas as colectas vencidas e a vencer.
 
@@ -104,8 +116,8 @@ No caso de ter sido instaurado processo executivo, deverá o mesmo ser mandado a
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 4 de Agosto de 1982.**
+Promulgado em 4 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

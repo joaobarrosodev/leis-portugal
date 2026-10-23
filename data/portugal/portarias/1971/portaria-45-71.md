@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/45-1971-445930
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75c513536145698197e703ed59da475d66f657d48e1641cd6fa444b6e3d708f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ce84547d4e884e903293797d0a00c40f6980884f246b69bab23137b2749abfa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:19Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +95,13 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 Despesas com o material:
 
-###### Artigo 7.º, n.º 4) «Material de consumo corrente - Combustível, lubrificantes e sobresselentes» ... 10000$00
+Artigo 7.º, n.º 4) «Material de consumo corrente - Combustível, lubrificantes e sobresselentes» ... 10000$00
 
 Pagamento de serviço:
 
-###### Artigo 8.º, n.º 3) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e outras despesas» ... 23000$00
+Artigo 8.º, n.º 3) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e outras despesas» ... 23000$00
 
-###### Artigo 8.º, n.º 4) «Medicamentos, apósitos, vacinas, drogas, instrumentos cirúrgicos, utensílios de farmácia e aparelhos de laboratório, material clínico destinado aos serviços médicos especializados» ... 450000$00
+Artigo 8.º, n.º 4) «Medicamentos, apósitos, vacinas, drogas, instrumentos cirúrgicos, utensílios de farmácia e aparelhos de laboratório, material clínico destinado aos serviços médicos especializados» ... 450000$00
 
 ... 483000$00
 
@@ -107,27 +111,27 @@ tomando como contrapartida as disponibilidades existentes das seguintes verbas d
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 85000$00
+Artigo 1.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 85000$00
 
 Artigo l.º, n.º 2), alínea a) «Pessoal contratado - Vencimentos» ... 13000$00
 
-###### Artigo 1.º, n.º 3) «Pessoal assalariado» ... 10000$00
+Artigo 1.º, n.º 3) «Pessoal assalariado» ... 10000$00
 
-###### Artigo 3.º, n.º 2) «Outras despesas com o pessoal - Alimentação» ... 20000$00
+Artigo 3.º, n.º 2) «Outras despesas com o pessoal - Alimentação» ... 20000$00
 
 Despesas com o material:
 
-###### Artigo 5.º, n.º 2), alínea d) «Aquisições de utilização permanente - Aquisição de móveis - Outros móveis» ... 25000$00
+Artigo 5.º, n.º 2), alínea d) «Aquisições de utilização permanente - Aquisição de móveis - Outros móveis» ... 25000$00
 
-###### Artigo 5.º, n.º 2), alínea f) «Apetrechamento dos novos serviços de cirurgia, radiologia, agentes físicos, análises clínicas e infecto-contagiosos, isótopos, etc.» ... 200000$00
+Artigo 5.º, n.º 2), alínea f) «Apetrechamento dos novos serviços de cirurgia, radiologia, agentes físicos, análises clínicas e infecto-contagiosos, isótopos, etc.» ... 200000$00
 
-###### Artigo 6.º, n.º 1, alínea b) «Despesas de conservação e aproveitamento do material - De imóveis - Prédios urbanos, incluindo reparações nos edifícios, canalização de água, instalação eléctrica, etc.» ... 60000$00
+Artigo 6.º, n.º 1, alínea b) «Despesas de conservação e aproveitamento do material - De imóveis - Prédios urbanos, incluindo reparações nos edifícios, canalização de água, instalação eléctrica, etc.» ... 60000$00
 
 Diversos encargos:
 
-###### Artigo 12.º «Bolsas de estudo para estágios e aperfeiçoamento do corpo clínico e pessoal do quadro de enfermagem» ... 50000$00
+Artigo 12.º «Bolsas de estudo para estágios e aperfeiçoamento do corpo clínico e pessoal do quadro de enfermagem» ... 50000$00
 
-###### Artigo 13.º «Despesas com trabalhos de investigação, congressos e exposições» ... 20000$00
+Artigo 13.º «Despesas com trabalhos de investigação, congressos e exposições» ... 20000$00
 
 ... 483000$00
 

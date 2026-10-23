@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/323/2001/12/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:28:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 710706397c9af381e034a4f29e75e83e8e3cc5d58bbbfd57d7e616aaa9b3dabb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 162bb16e9015ba1aff5cab5bf9e8b8464bf41b2f4a44224b0cee1090aff4e1ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestor Judicial
-- Liquidação Judicial
-- Processo Civil
-- Contrato de Seguro
-- Crime
-- Processo Penal
-- Embarcação
 - Avião
-- Instituição de Crédito
-- Empresa
-- Obra de Arte
-- Jogos de Fortuna e Azar
 - Cheque
 - Código Administrativo
 - Código Civil
@@ -88,62 +77,250 @@ subjects:
 - Código do Registo Comercial
 - Código do Registo Predial
 - Código dos Processos Especiais de Recuperação da Empresa e de Falência
-- Multa
+- Código Penal
+- Comércio
 - Conta Poupança-condomínio
 - Contra-ordenação
 - Contra-ordenação Laboral
-- EURO
+- Contrato de Seguro
+- Crime
+- Custas Judiciais
 - Direito de Acção
-- Impresso
+- Embarcação
+- Empresa
+- EURO
 - Fundo de Pensões
+- Gestor Judicial
 - Guarda Prisional
-- IVA
+- Impresso
 - Injunção
-- Transmissão da Propriedade
+- Instituição de Crédito
+- IVA
+- Jogos de Fortuna e Azar
 - Lei de Imprensa
 - Lei de Organização e Funcionamento dos Tribunais Judiciais
 - Lei de Processo nos Tribunais Administrativos
 - Lei Geral Tributária
 - Lei Uniforme Relativa a Cheques
-- Veículo
+- Liquidação Judicial
 - Mediação de Imóveis
 - Metal Precioso
+- Multa
+- Obra de Arte
 - Pedra Preciosa
+- Pequenas e Médias Empresas
 - Pessoa Coletiva
 - Pessoa Singular
-- Processo Judicial
-- Código Penal
-- Pequenas e Médias Empresas
-- Registo Civil
-- Registo Predial
-- Polícia Judiciária
 - PME
-- Sanção Económica
+- Polícia Judiciária
+- Processo Civil
+- Processo Judicial
+- Processo Penal
+- Registo Civil
 - Registo Comercial
+- Registo Predial
+- Sanção Económica
 - Taxa
-- Custas Judiciais
-- Comércio
-- Tribunal da Relação
+- Transmissão da Propriedade
 - Tribunal
+- Tribunal da Relação
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:140431165:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:273418:por
+  label: "Aditados novos arts. 8.º-A, 8.º-B, 8.º-C e 8.º-D e alterada a redacção dos arts. 2.º e 10.º do Dec Lei 325/95, de\
+    \ 02-Dez, DR.IS-A [278], alterado pela Lei 65/98, de 02-Set, pelo Dec Lei 275-A/2000, de 09-Nov, pela Lei 104/2001, de\
+    \ 25-ago e pelo presente diploma, pela LEI.10/2002.2002.02.11.AR DR.IS-A [35]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-2002-273418
+  date: '2002-02-11'
+- type: amended_by
+  target: pt:dre:189484:por
+  label: "Alterado, nos termos do n.º 2 do art. 10.º, o art. 19º do anexo do Dec Lei 269/98 de 01-Set, na redacção do presente\
+    \ diploma, pelo DEC LEI.32/2003.2003.02.17.MJ DR.IS-A [40]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2003-189484
+  date: '2003-02-17'
+- type: amended_by
+  target: pt:dre:424101:por
+  label: "Alterado o art. 19.º do regime anexo ao Dec Lei 269/98, de 01-Set, na redacção do presente diploma e do Dec Lei\
+    \ 32/2003, de 17-Fev, pelo DEC LEI.324/2003.27.12.2003.MJ, DR.IS-A [298] de 27.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2003-424101
+  date: '2003-12-27'
+- type: amended_by
+  target: pt:dre:233745:por
+  label: "Alterado o art. 19º do Regime Anexo ao Dec Lei 269/98 de 01-Set, na redacção do presente diploma, pelo DEC LEI.107/2005.01.07.2005.MJ,\
+    \ DR.IS-A [125] de 01.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2005-233745
+  date: '2005-07-01'
+- type: amended_by
+  target: pt:dre:483459:por
+  label: "Alterado o artigo 71.º do Código do IVA, aprovado no Decreto-Lei n.º 394-B/84, de 26 de Dezembro, alterado no presente\
+    \ diploma, pela LEI.39-A/2005.29.07.2005.AR, DR.IS-A [145]Supl de 29.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-a-2005-483459
+  date: '2005-07-29'
+- type: amended_by
+  target: pt:dre:245299:por
+  label: "Alterados os arts. 2º, 8º e 11º do Dec Lei 454/91 de 28-Dez, que aprovou o regime jurídico do cheque sem provisão,\
+    \ na redacção do presente diploma, pela LEI.48/2005.29.08.2005.AR, DR.IS-A [165] de 29.08.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/48-2005-245299
+  date: '2005-08-29'
+- type: amended_by
+  target: pt:dre:404371:por
+  label: "Alterado o art. 65º do Regulamento do Registo Automóvel aprovado pelo Dec 55/75 de 12-Fev, na redacção do presente\
+    \ diploma, pelo DEC LEI.178-A/2005.28.10.2005.MJ, DR.IS-A [208-Supl] de 28.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-a-2005-404371
+  date: '2005-10-28'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterado o art. 71º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com as alterações introduzidas pelo\
+    \ presente diploma, pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: "Alterado o art. 17º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86 de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl] de 29.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 71º, do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na redacção do presente diploma,\
+    \ pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:640911:por
+  label: "Alterado, a partir de 01 de Janeiro de 2008, o artigo 24.º da Lei 3/99, de 13 de Janeiro, na redacção do presente\
+    \ diploma, pelo DEC LEI.303/2007.24.08.2007.MJ, DR.IS [163] de 24.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-2007-640911
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:640142:por
+  label: "Alterado, a partir de 15.09.2007, o art 47.º do Código Penal, aprovado pelo Dec Lei 400/82, de 23-Set, na redacção\
+    \ do presente diploma, pela LEI.59/2007.04.09.2007.AR, DR.IS [170] de 04.09.2007, que o republica\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/59-2007-640142
+  date: '2007-09-04'
+- type: amended_by
+  target: pt:dre:642527:por
+  label: "Alterados, sem prejuízo do disposto nos arts. 24º e 25º, o artigo 295.º do Código do Registo Civil, aprovado pelo\
+    \ Dec Lei 131/95 de 06-Jun, na redacção do presente diploma, republicado em anexo com a redacção actual, pelo DEC LEI.324/2007.28.09.2007.MJ,\
+    \ DR.IS [188] de 28.09.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2007-642527
+  date: '2007-09-28'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o artigo 19.º do Regime Anexo do Decreto-Lei 269/98, de 01 de Setembro, na redacção do presente diploma,\
+    \ pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:247448:por
+  label: "Alterado, a partir de 20.04.2009, o art. 312º do Código de Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez\
+    \ de 1961, na redacção do presente diploma, pelo DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: amended_by
+  target: pt:dre:249803:por
+  label: "Alterado o art. 17º do Código do Registo Comercial aprovado pelo Dec Lei 403/86, de 03-Dez,, na redacção do presente\
+    \ diploma, pelo DEC LEI.73/2008.16.04.2008.MJ, DR.IS [75] de 16.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2008-249803
+  date: '2008-04-16'
+- type: amended_by
+  target: pt:dre:449902:por
+  label: "Alterado o art. 71º do Dec Lei 394-B/94, de 26-Dez, na redacção do presente diploma, pelo DEC LEI.102/2008.20.06.2008.MFAP,\
+    \ DR.IS [118] de 20.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2008-449902
+  date: '2008-06-20'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterados os art.s 12º e 97º do Código do Registo Predial aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do\
+    \ presente diploma, pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:490401:por
+  label: "Alterado, a partir de 23.12.2009, o art. 23º da Lei 57/98, de 18-Ago, na redacção do presente diploma, pela LEI.114/2009.22.09.2009.AR,\
+    \ DR.IS [184] de 22.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2009-490401
+  date: '2009-09-22'
+- type: amended_by
+  target: pt:dre:491731:por
+  label: "Dada nova redacção ao art. 185º do Código de Processo de Trabalho, aprovado pelo Dec Lei 480/99 de 09-Nov, com a\
+    \ redacção constante do presente diploma, pelo DEC LEI.295/2009.13.10.2009.MTSSO, DR.IS [198] de 13.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/295-2009-491731
+  date: '2009-10-13'
+- type: amended_by
+  target: pt:dre:191168:por
+  label: "Alterado a partir de 03.12.2012 o art. 17º do Código do Registo Comercial aprovado pelo Dec Lei 403/86, de 03-dez,\
+    \ na redação do presente diploma, pelo DEC LEI.250/2012.23.11.2012.MJ, DR.IS [227] de 23.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-2012-191168
+  date: '2012-11-23'
+- type: amended_by
+  target: pt:dre:106549655:por
+  label: Alterado, a partir de 01.05.2017, o art. 1323.º do Código Civil aprovado pelo Dec Lei 47344 de 25-nov-1966, na redação
+    do presente diploma, pelo(a) Lei n.º 8/2017 - Diário da República n.º 45/2017, Série I de 2017-03-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/8-2017-106549655
+  date: '2017-03-03'
+- type: amended_by
+  target: pt:dre:108028571:por
+  label: Alterado o art. 4.º do Dec Lei 149/94 de 25-mai, na redação do presente diploma, pelo(a) Lei n.º 89/2017 - Diário
+    da República n.º 160/2017, Série I de 2017-08-21 nos termos do seu art. 25.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/89-2017-108028571
+  date: '2017-08-21'
 - type: cites
   target: celex:31998R2866
   label: null
   source: http://data.europa.eu/eli/reg/1998/2866/oj
+- type: repealed_by
+  target: pt:dre:538423:por
+  label: "Revogado o Código dos Processos Especiais de Recuperação da Empresa e de Falência, aprovado pelo Dec Lei 132/93,\
+    \ de 23-Abr DR.IS-A [95], alterado pelo presente diploma e pelos Dec Leis 157/97, de 24-Jun, 315/98, de 20-Out e 38/2003,\
+    \ de 08-Mar, pelo DEC LEI.53/2004.18.03.2004.MJ, DR.IS-A [66] de 18.03.2004 a partir da entrada em vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2004-538423
+  date: '2004-03-18'
+- type: repealed_by
+  target: pt:dre:210422:por
+  label: "Revogado o Dec Lei 313/93, de 15-Set DR.IS-A [217] alterado pelo presente diploma, pela LEI.11/2004.27.03.2004.AR,\
+    \ DR.IS-A [74] de 27.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/11-2004-210422
+  date: '2004-03-27'
+- type: repealed_by
+  target: pt:dre:507439:por
+  label: "Revogado o Dec Lei 188/96 de 08-Out, DR.IS-A [233], na redacção do presente diploma, pela LEI.32/2004.22.07.2004.AR,\
+    \ DR.IS-A [171] de 22.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-2004-507439
+  date: '2004-07-22'
+- type: repealed_by
+  target: pt:dre:247448:por
+  label: "Revogado, a partir de 20.04.2009, o art. 5º do Dec Lei 212/89, de 30-Jun, alterado pelo presente diploma, pelo DEC\
+    \ LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: repealed_by
+  target: pt:dre:455412:por
+  label: "Revogado, a partir de 05.09.2008, o art. 4º do Dec Lei 275-A/2000, de 09-Nov, na redacção do presente diploma, pela\
+    \ LEI.37/2008.06.08.2008.AR, DR.IS [151] de 06.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2008-455412
+  date: '2008-08-06'
+- type: repealed_by
+  target: pt:dre:67142147:por
+  label: Revogada a Lei 57/98, de 18-ago, na redação do presente diploma, pelo(a) Lei n.º 37/2015 - Diário da República n.º
+    86/2015, Série I de 2015-05-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2015-67142147
+  date: '2015-05-05'
 article_structure:
-  article_count: 63
+  article_count: 40
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:28:46Z'
   warnings: []
   errors: []
 ---
@@ -180,17 +357,19 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 2002.
 
 Visto e aprovado em Conselho de Ministros de 15 de Novembro de 2001. - Guilherme d'Oliveira Martins - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - António Luís Santos Costa.
 
-**Promulgado em 5 de Dezembro de 2001.**
+Promulgado em 5 de Dezembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Dezembro de 2001.**
+Referendado em 7 de Dezembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — Artigo 1.º
+## ANEXO
+
+###### Artigo 1.º
 
 Os artigos 10.º e 13.º da Lei n.º 109/91, de 17 de Agosto, passam a ter a seguinte redacção:
 
@@ -206,7 +385,9 @@ Os artigos 10.º e 13.º da Lei n.º 109/91, de 17 de Agosto, passam a ter a seg
 
 4 - Cada dia de multa corresponde a uma quantia entre (euro) 49,88 e (euro) 997,60, que o tribunal fixará em função da situação económica e financeira da pessoa colectiva ou equiparada e dos seus encargos.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A caução de boa conduta implica a obrigação de o agente depositar uma quantia em dinheiro, a fixar entre (euro) 49,88 e (euro) 4987,98, à ordem do tribunal, pelo prazo fixado na decisão condenatória, por um período entre seis meses e dois anos.
 
@@ -258,7 +439,9 @@ Os artigos 49.º e 50.º da Lei n.º 33/99, de 18 de Maio, passam a ter a seguin
 
 4 - ...
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - A venda de impressos de modelo oficial exclusivos dos serviços de identificação civil sem que tenha existido despacho de autorização constitui contra-ordenação punível com coima de (euro) 498,80 a (euro) 3740,98 e com a apreensão dos impressos e do produto de venda indevida.
 
@@ -300,7 +483,9 @@ c) Se praticadas por média empresa, de (euro) 4140,02 a (euro) 11771,63 em caso
 
 d) Se praticadas por grande empresa, de (euro) 6983,17 a (euro) 24441,10 em caso de negligência e de (euro) 12819,11 a (euro) 44891,81 em caso de dolo.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -310,7 +495,9 @@ d) Se praticadas por grande empresa, de (euro) 6983,17 a (euro) 24441,10 em caso
 
 4 - Às infracções muito graves correspondem coimas de (euro) 748,20 a (euro) 1870,49 em caso de negligência e de (euro) 1496,39 a (euro) 3740,98 em caso de dolo.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Para os efeitos do previsto no artigo 7.º, considera-se:
 
@@ -390,13 +577,17 @@ Os artigos 17.º, 52.º, 73.º, 80.º e 93.º do Decreto-Lei n.º 433/82, de 27 
 
 4 - ...
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - ...
 
 2 - Em caso de recusa injustificada, poderão as autoridades administrativas aplicar sanções pecuniárias até (euro) 49,88 e exigir a reparação dos danos causados com a sua recusa.
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - Pode recorrer-se para a Relação da sentença ou do despacho judicial proferidos nos termos do artigo 64.º quando:
 
@@ -414,7 +605,9 @@ e) ...
 
 3 - ...
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - ...
 
@@ -426,7 +619,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - ...
 
@@ -472,7 +667,9 @@ d) Não pagamento de cheque de valor não superior a (euro) 62,35, emitido atrav
 
 e) ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A instituição de crédito sacada é obrigada a pagar, não obstante a falta ou insuficiência de provisão, qualquer cheque emitido através de módulo por ela fornecido de montante não superior a (euro) 62,35.
 
@@ -480,7 +677,9 @@ e) ...
 
 3 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Quem, causando prejuízo patrimonial ao tomador do cheque ou a terceiro:
 
@@ -502,7 +701,9 @@ se o cheque for apresentado a pagamento nos termos e prazos estabelecidos pela L
 
 6 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Constitui contra-ordenação, punível com coima de (euro) 748,20 a (euro) 12469,95:
 
@@ -558,7 +759,9 @@ Os artigos 3.º, 4.º, 24.º e 25.º do Decreto-Lei n.º 313/93, de 15 de Setemb
 
 4 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O disposto no artigo anterior não se aplica:
 
@@ -572,7 +775,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 Constituem contra-ordenações, puníveis com coima de (euro) 748,20 a (euro) 748196,85 ou de (euro) 249,40 a (euro) 249398,95, consoante seja aplicada, respectivamente, a entidade financeira ou a qualquer pessoa mencionada na alínea b) do artigo 17.º, as seguintes infracções:
 
@@ -582,7 +787,9 @@ b) ...
 
 c) ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 Constituem contra-ordenações, puníveis com coima de (euro) 4987,98 a (euro) 2493989,49 ou de (euro) 24939,89 a (euro) 997595,79, consoante seja aplicada, respectivamente, a entidade financeira ou a qualquer pessoa mencionada na alínea b) do artigo 17.º, as seguintes infracções:
 
@@ -634,7 +841,9 @@ f) ...
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - As pessoas singulares ou colectivas que exerçam actividades de mediação imobiliária, nos termos do Decreto-Lei n.º 285/92, de 19 de Dezembro, devem proceder:
 
@@ -646,11 +855,15 @@ c) ...
 
 2 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 As entidades que procedam a pagamentos a ganhadores de prémios de apostas ou lotarias, de montante igual ou superior a (euro) 4987,98, devem proceder à identificação a que se refere o n.º 2 do artigo 4.º, cujos dados conservarão pelo período de 10 anos.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As entidades que comercializem pedras e metais preciosos, antiguidades, obras de arte, aeronaves, barcos ou automóveis devem proceder:
 
@@ -662,13 +875,17 @@ c) ...
 
 2 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O incumprimento das obrigações impostas nas alíneas a) a e) do n.º 1 do artigo 4.º, nas alíneas a) e b) do n.º 1 do artigo 5.º, nas alíneas a) a c) do n.º 1 do artigo 6.º, no artigo 7.º e nas alíneas a) e b) do n.º 1 do artigo 8.º constitui contra-ordenação punível com coima de (euro) 2493,99 a (euro) 249398,95.
 
 2 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O incumprimento das obrigações impostas na alínea f) do n.º 1 do artigo 4.º, na alínea c) do n.º 1 do artigo 5.º, na alínea d) do n.º 1 do artigo 6.º e na alínea c) do n.º 1 do artigo 8.º constitui contra-ordenação punível com coima de (euro) 4987,98 a (euro) 499797,90.
 
@@ -816,7 +1033,9 @@ Os artigos 12.º e 97.º do Código do Registo Predial, aprovado pelo Decreto-Le
 
 5 - ...
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - ...
 
@@ -838,7 +1057,9 @@ Os artigos 28.º e 32.º do Decreto-Lei n.º 446/85, de 25 de Outubro, com a red
 
 2 - O valor da acção excede (euro) 0,01 ao fixado para a alçada da Relação.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Se o demandado, vencido na acção inibitória, infringir a obrigação de se abster de utilizar ou de recomendar cláusulas contratuais gerais que foram objecto de proibição definitiva por decisão transitada em julgado, incorre numa sanção pecuniária compulsória que não pode ultrapassar o valor de (euro) 4987,98 por cada infracção.
 
@@ -942,15 +1163,17 @@ A tabela a que se refere o artigo 13.º, a tabela a que se referem os artigos 23
 
 «Tabela a que se refere o artigo 13.º do Código das Custas Judiciais
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/12/290a00/82888297.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/12/290a00/82888297.pdf)](https://files.diariodarepublica.pt/1s/2001/12/290a00/82888297.pdf)
 
 Para além de (euro) 49879,79: por cada (euro) 4987,98 de valor da acção ou fracção - (euro) 49,88 de taxa de justiça.
 
 Tabela a que se referem os artigos 23.º e 25.º do Código das Custas Judiciais
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/12/290a00/82888297.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/12/290a00/82888297.pdf)](https://files.diariodarepublica.pt/1s/2001/12/290a00/82888297.pdf)
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 Nas causas de valor superior a (euro) 199519,16 não é considerado o excesso para efeito do cálculo da taxa de justiça inicial e subsequente.»
 
@@ -970,7 +1193,9 @@ b) Tratando-se de pessoa colectiva, no mínimo de (euro) 997,60 e no máximo de 
 
 2 - ...
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - Praticam contra-ordenação e ficam sujeitas a coima, de (euro) 249,40 a (euro) 2493,99, tratando-se de pessoas singulares, e de (euro) 1496,39 a (euro) 14963,94, tratando-se de pessoas colectivas, as entidades que:
 
@@ -984,7 +1209,9 @@ d) ...
 
 2 - ...
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - Pratica contra-ordenação, ficando sujeito a coima, de (euro) 249,40 a (euro) 2493,99, tratando-se de pessoa singular, e de (euro) 1496,39 a (euro) 14963,94, tratando-se de pessoa colectiva, quem:
 
@@ -1052,7 +1279,9 @@ O artigo 4.º e o anexo III do Decreto-Lei n..º 275-A/2000, de 9 de Novembro, p
 
 9 - ...
 
-## ANEXO III — Valores correspondentes aos índices 100 das escalas salariais
+ANEXO III
+
+Valores correspondentes aos índices 100 das escalas salariais
 
 (a que se refere o n.º 4 do artigo 90.º)
 

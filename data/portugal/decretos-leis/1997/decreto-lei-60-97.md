@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/067a00/12761283.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/60/1997/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1997-518266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a34db3023bab28c075d0bbb444525f1296d80c2c3db0345901a903017a4fb81a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58ec87557d0af2a32378920a8aa16a9347bc48ff4044a9ae2fca0cb886b2a29f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arquivo Distrital
-- Pessoal Dirigente
+- Biblioteca Pública
 - Criação de Serviços
 - Extinção de Serviços
-- Ministério da Cultura
 - Instituto dos Arquivos Nacionais-torre do Tombo
+- Ministério da Cultura
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Biblioteca Pública
 relationships:
 - type: amended_by
   target: pt:dre:520446:por
@@ -87,16 +87,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/42/1996/05/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/42/1996/05/07/p/dre
+- type: cites
+  target: pt:dre:283093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469652:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520430:por
+  label: "Revogada a alínea c) do n.º 1 do artigo 3.º e o artigo 32.º do presente diploma, pelo DEC LEI.92/2007.29.03.2007.MC,\
+    \ DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2007-520430
+  date: '2007-03-29'
+- type: repealed_by
+  target: pt:dre:520446:por
+  label: "Revogado pelo DEC LEI.93/2007.29.03.2007.MC, DR.IS [63] de 29.03.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2007-520446
+  date: '2007-03-29'
 article_structure:
   article_count: 34
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:37Z'
   warnings: []
   errors: []
 ---
@@ -387,7 +418,9 @@ f) Executar outros trabalhos que lhe sejam cometidos no domínio da informática
 
 2 - O Gabinete de Informática é coordenado por um técnico superior de reconhecido mérito, a designar por despacho do director.
 
-###### Artigo 12.º — Divisão de Comunicação e Relações Externas
+###### Artigo 12.º
+
+##### Divisão de Comunicação e Relações Externas
 
 1 - Compete à Divisão de Comunicação e Relações Externas:
 
@@ -475,7 +508,9 @@ a) Secção de Pessoal;
 
 b) Secção de Secretariado e Expediente.
 
-###### Artigo 16.º — Secção de Pessoal
+###### Artigo 16.º
+
+#### Secção de Pessoal
 
 Compete à Repartição de Pessoal, Secretariado e Expediente, através da Secção de Pessoal:
 
@@ -487,7 +522,9 @@ c) Instruir os processos relativos aos benefícios sociais do pessoal e seus fam
 
 d) Assegurar o controlo de pontualidade e de assiduidade do pessoal.
 
-###### Artigo 17.º — Secção de Secretariado e Expediente
+###### Artigo 17.º
+
+#### Secção de Secretariado e Expediente
 
 Compete à Repartição de Pessoal, Secretariado e Expediente, através da Secção de Secretariado e Expediente:
 
@@ -505,7 +542,9 @@ a) Secção de Contabilidade;
 
 b) Secção de Património e Economato.
 
-###### Artigo 19.º — Secção de Contabilidade
+###### Artigo 19.º
+
+#### Secção de Contabilidade
 
 Compete à Repartição de Contabilidade, Património e Economato, através da Secção de Contabilidade:
 
@@ -523,7 +562,9 @@ f) Organizar e apresentar mensalmente ao conselho administrativo um balancete re
 
 g) Executar os instrumentos e indicadores necessários ao controlo de gestão.
 
-###### Artigo 20.º — Secção de Património e Economato
+###### Artigo 20.º
+
+#### Secção de Património e Economato
 
 Compete à Repartição de Contabilidade, Património e Economato, através da Secção de Património e Economato:
 
@@ -663,15 +704,15 @@ O presente diploma entra em vigor no dia imediato ao da respectiva publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1996. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Fernando Teixeira dos Santos - Manuel Maria Ferreira Carrilho - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 14 de Fevereiro de 1997.**
+Promulgado em 14 de Fevereiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Fevereiro de 1997.**
+Referendado em 27 de Fevereiro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA I
 
@@ -715,4 +756,4 @@ MAPA II
 
 Quadro do pessoal dirigente do IAN/TT, a que se refere o artigo 24.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/067a00/12761283.pdf))](https://files.diariodarepublica.pt/1s/1997/03/067a00/12761283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/067a00/12761283.pdf)

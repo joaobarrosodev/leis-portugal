@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/6/2008/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/6-2008-386853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T05:02:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 043b2458116b0d431581ecf0cbacd9a2393ef035c991a49e38b917aa70a06f7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a9e4113260f14792f946aae5833c8e7fc0c14be1f9660691f7349ce0fba868e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:02:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:02:19Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +85,7 @@ validation:
 
 de 9 de Janeiro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:
 
 A pena residual de prisão aplicada a Bruno Miguel Jerónimo Arcanjo, de 30 anos de idade, no processo n.º 224/06.7PDAMD, da 3.ª Secção da 7.ª Vara Criminal do Tribunal da Comarca de Lisboa, é reduzida, por indulto, em 6 meses de prisão, pelo esforço desenvolvido na sua reinserção social por via do estudo e da recuperação da toxicodependência.
 
@@ -95,12 +95,12 @@ a) Não se ter o indultado constituído em ausência ilegítima do estabelecimen
 
 b) Não se constituir o indultado em ausência ilegítima do estabelecimento prisional relativamente a medida de flexibilização da pena que esteja a gozar à data da publicação do indulto.
 
-**Assinado em 20 de Dezembro de 2007.**
+Assinado em 20 de Dezembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de Dezembro de 2007.**
+Referendado em 20 de Dezembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/75/2024/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2024-892125865
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b09272b7dcfde9ce709798ebff1dd00f35843885018f8414ef9ae2643871807
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e025dc8fbad4efcf75bc4181790110344780301d9d44f0923336572ed4824f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Transporte Marítimo
-- Definição de Competências
 - Autoridade Marítima Nacional
-- Instituto Nacional de Aviação Civil
+- Aviação Civil
+- Definição de Competências
+- Direcção Geral da Autoridade Marítima
 - Estatuto
 - Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica
+- Instituto Nacional de Aviação Civil
 - Integração de Serviços
 - Integração de Trabalhadores
-- Aviação Civil
+- Reestruturação de Serviços
 - Regulamento CE
-- Direcção Geral da Autoridade Marítima
+- Transporte Marítimo
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:40/2015
+  label: Altera, a partir de 21 de novembro de 2024, os artigos 4.º, 9.º, 32.º, 33.º e 34.º dos Estatutos da Autoridade Nacional
+    da Aviação Civil, aprovados em anexo ao Decreto-Lei n.º 40/2015, de 16 de março, Diário da República n.º 52/2015, Série
+    I
+  source: null
+  date: '2015-03-16'
+- type: amends
+  target: pt:numero:decreto-lei:236/2015
+  label: Altera, a partir de 21 de novembro de 2024, os artigos 1.º, 2.º, 3.º, 4.º, 6.º, 7.º, 8.º, 10.º, 13.º, 14.º e 15.º,
+    revoga o n.º 1 do artigo 4.º, o n.º 1 do artigo 5.º, o n.º 1 do artigo 6.º, a alínea e) do n.º 2 do artigo 7.º, os n.ºs
+    4 e 5 do artigo 14.º, o artigo 16.º e o artigo 17.º e republica o Decreto-Lei n.º 236/2015, de 14 de outubro, Diário da
+    República n.º 201/2015, Série I
+  source: null
+  date: '2015-10-14'
 - type: cites
   target: celex:32004R0549
   label: null
@@ -163,6 +178,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/109/2017/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/109/2017/03/15/p/dre
+- type: cites
+  target: pt:dre:106607299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144454620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70025054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70686130:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:109/2017
+  label: Revoga, a partir de 21 de novembro de 2024, a Portaria n.º 109/2017, de 15 de março, Diário da República n.º 53/2017,
+    Série I
+  source: null
+  date: '2017-03-15'
 - type: transposes
   target: celex:32009L0018
   label: null
@@ -170,13 +231,13 @@ relationships:
 article_structure:
   article_count: 47
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:10Z'
   warnings: []
   errors: []
 ---
@@ -621,7 +682,7 @@ c) […]"
 
 3 - A transição referida no n.º 1 implica a integração nas carreiras e categorias dos restantes trabalhadores da ANAC, por referência à respetiva posição remuneratória na carreira de origem, de acordo com o mapa de integração aprovado e previsto no Regulamento de Organização, Prestação e Disciplina do Trabalho, de Carreiras e Retributivo da ANAC à data da integração dos trabalhadores do então Instituto Nacional de Aviação Civil, I. P., nas carreiras desta Autoridade.
 
-4 - Os trabalhadores podem, no prazo referido no n.º 1, optar pela manutenção do vínculo de contrato de trabalho em funções públicas mediante a adoção da figura de mobilidade intercarreiras, nos termos do n.º 8 do artigo 3.º da [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, na sua redação atual, dos n.<sup>os</sup>2 e 5 do artigo 7.º do [Decreto-Lei n.º 40/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2015-66761450), de 16 de março, e do Regulamento de Organização, Prestação e Disciplina do Trabalho, de Carreiras e Retributivo da ANAC, com as devidas adaptações.
+4 - Os trabalhadores podem, no prazo referido no n.º 1, optar pela manutenção do vínculo de contrato de trabalho em funções públicas mediante a adoção da figura de mobilidade intercarreiras, nos termos do n.º 8 do artigo 3.º da [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, na sua redação atual, dos n.os2 e 5 do artigo 7.º do [Decreto-Lei n.º 40/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2015-66761450), de 16 de março, e do Regulamento de Organização, Prestação e Disciplina do Trabalho, de Carreiras e Retributivo da ANAC, com as devidas adaptações.
 
 5 - Na eventualidade de opção pela manutenção da relação jurídica de emprego público é aplicável o regime jurídico do contrato individual de trabalho que vigora para os demais trabalhadores da ANAC.
 
@@ -647,7 +708,7 @@ As referências ao GAMA constantes do [Decreto-Lei n.º 163/2015](https://diario
 
 São revogados:
 
-a) O n.º 1 do artigo 4.º, o n.º 1 do artigo 5.º, o n.º 1 do artigo 6.º, a alínea e) do n.º 2 do artigo 7.º, os n.<sup>os</sup>4 e 5 do artigo 14.º, o artigo 16.º e o artigo 17.º do [Decreto-Lei n.º 236/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2015-70686130), de 14 de outubro;
+a) O n.º 1 do artigo 4.º, o n.º 1 do artigo 5.º, o n.º 1 do artigo 6.º, a alínea e) do n.º 2 do artigo 7.º, os n.os4 e 5 do artigo 14.º, o artigo 16.º e o artigo 17.º do [Decreto-Lei n.º 236/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2015-70686130), de 14 de outubro;
 
 b) A [Portaria n.º 109/2017](https://diariodarepublica.pt/dr/detalhe/portaria/109-2017-106607299), de 15 de março.
 
@@ -665,15 +726,15 @@ O presente decreto-lei entra em vigor no 30.º dia seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 5 de setembro de 2024. - Luís Montenegro - Joaquim Miranda Sarmento - Miguel Martinez de Castro Pinto Luz - Pedro Reis.
 
-**Promulgado em 12 de setembro de 2024.**
+Promulgado em 12 de setembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de setembro de 2024.**
+Referendado em 12 de setembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 8.º)
 
@@ -927,6 +988,8 @@ f) Tradução no verso, em língua inglesa, dos elementos referidos nas alíneas
 
 ## ANEXO II — (a que se refere o artigo 12.º)
 
-| Designação dos cargos dirigentes | Qualificação dos cargos dirigentes | Grau | Número de lugares |
+| Designação dos cargos dirigentes | Qualificação dos cargos dirigentes | Grau | Número<br>de lugares |
 | --- | --- | --- | --- |
 | Diretor | Direção superior | 1.º | 1 |
+
+118142115

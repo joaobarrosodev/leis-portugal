@@ -46,40 +46,213 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/411-1976-430439
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T05:03:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: feb17e57f20bbdcd5816f82fc48f91d14d696e473db6eacf7995c5f312fff6d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2664f0325afe87c461a5affdb41e356b681d0fbcfb39c812bae8e0045d3dd28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:03:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:603521:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476548:por
+  label: "Derrogada, na parte referente ao prédio rústico \"Herdade dos Judeus\", pela PORT.7/79.04.01.1979.MAP, DR.IS [3]\
+    \ de 04.01.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/7-1979-476548
+  date: '1979-01-04'
+- type: amended_by
+  target: pt:dre:476553:por
+  label: "Derrogada, na parte referente aos prédios rústicos \"Quinta de Santo António\" e \"Belo\", pela PORT.6/79.04.01.1979.MAP,\
+    \ DR.IS [3] de 04.01.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/6-1979-476553
+  date: '1979-01-04'
+- type: amended_by
+  target: pt:dre:392049:por
+  label: "Derrogada, na parte referente ao prédio rústico \"Campo Grande\", pela PORT.23/79.17.01.1979.MAP, DR.IS [14] de\
+    \ 17.01.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23-1979-392049
+  date: '1979-01-17'
+- type: amended_by
+  target: pt:dre:381369:por
+  label: "Desanexado e transmitido o domínio a favor da Câmara Municipal de Alter do Chão do prédio rústico denominado «Tapada\
+    \ do Corvo-Talho das Almas-Horta» expropriado pelo presente diploma, pela PORT.391/79.03.08.1979.MFP, DR.IS [178] de 03.08.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/391-1979-381369
+  date: '1979-08-03'
+- type: amended_by
+  target: pt:dre:678065:por
+  label: "Derrogada, em parte pela PORT.117/80.15.03.1980.MAP, DR.IS [63] de 15.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/117-1980-678065
+  date: '1980-03-15'
+- type: amended_by
+  target: pt:dre:678066:por
+  label: "Derrogada, em parte, pela PORT.119/80.15.03.1980.MAP, DR.IS [63] de 15.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/119-1980-678066
+  date: '1980-03-15'
+- type: amended_by
+  target: pt:dre:677663:por
+  label: "Derrogada em parte pela PORT.153/80.02.04.1980.MAP, DR.IS [78] de 02.04.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/153-1980-677663
+  date: '1980-04-02'
+- type: amended_by
+  target: pt:dre:682040:por
+  label: "Derrogada em parte pela PORT.166/80.10.04.1980.MAP, DR.IS [84] de 10.04.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/166-1980-682040
+  date: '1980-04-10'
+- type: amended_by
+  target: pt:dre:475343:por
+  label: "Derrogado, na parte que respeita ao prédio rústico denominado «Herdade do Vale de Junco e Anexos», pela PORT.231/80.07.05.1980.MAP,\
+    \ DR.IS [105] de 07.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/231-1980-475343
+  date: '1980-05-07'
+- type: amended_by
+  target: pt:dre:473535:por
+  label: "Derrogada parcialmente pela PORT.362/80.01.07.1980.MAP, DR.IS [149] de 01.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/362-1980-473535
+  date: '1980-07-01'
+- type: amended_by
+  target: pt:dre:472485:por
+  label: "Derrogada parcialmente pela PORT.413/80.18.07.1980.MAP, DR.IS [164] de 18.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1980-472485
+  date: '1980-07-18'
+- type: amended_by
+  target: pt:dre:461836:por
+  label: "Desanexado o prédio rústico denominado «Ferragial da Casa de Bragança», expropriado pelo presente diploma, pela\
+    \ PORT.716/80.24.09.1980.MFP, DR.IS [221] de 24.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/716-1980-461836
+  date: '1980-09-24'
+- type: amended_by
+  target: pt:dre:457432:por
+  label: "Derrogado o presente diploma na parte que respeita aos prédios rústicos Abrunheira e Abrunheira de Cima, sitos na\
+    \ freguesia e concelho de Sousel, pela PORT.960/80.10.11.1980.MAP, DR.IS [260] de 10.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/960-1980-457432
+  date: '1980-11-10'
+- type: amended_by
+  target: pt:dre:563802:por
+  label: "Desanexado parte do prédio rústico Herdade do Monte do Outeiro, expropriado pela PORT.838/81.24.09.1981.MFP, DR.IS\
+    \ [220] de 24.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/838-1981-563802
+  date: '1981-09-24'
+- type: amended_by
+  target: pt:dre:540831:por
+  label: "Derrogada relativamente ao prédio rústico \"Herdade das Ferrarias\" pela PORT.29/83.1983.01.08.MACP DR.IS [6]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/29-1983-540831
+  date: '1983-01-08'
+- type: amended_by
+  target: pt:dre:2129924:por
+  label: DERROGADA EM PARTE PELA PORT 350/92IIS DA PCM, MA DR.IIS [264] DE 14/NOV/1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/350-1992-2129924
+  date: '1992-11-14'
+- type: amended_by
+  target: pt:dre:968632:por
+  label: DERROGADA EM PARTE PELA PORT 378/92IIS DA PCM, MA DR.IIS [290] DE 17/DEZ/1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-1992-968632
+  date: '1992-12-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DERROGADA EM PARTE PELA PORT 122/93IIS DA PCM, MA DR.IIS [117] DE 20/MAI/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-05-20'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DERROGADA EM PARTE PELA PORT 191/93IIS DE 27-AGO DA PCM, MA DR.IIS [212] DE 09/SET/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-09-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "DERROGADA EM PARTE PELA PORT 330/95IIS DE 25-SET DA PCM, MA DR.IIS [232] DE 07/OUT/1995\0DR.IIS [232] DE 07/OUT/1995"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-10-07'
+- type: amended_by
+  target: pt:dre:2053421:por
+  label: "Derrogada parte da presente portaria pela PORT.735/98(2ªSÉRIE).1998.07.23.PCM, DR.IIS [178] de 04/Ago/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/735-1998-2053421
+  date: '1998-07-23'
+- type: amended_by
+  target: pt:dre:1932470:por
+  label: "Derrogada relativamente aos prédios rústicos \"Chainça (arts. 39 e 195 da secção Q), Bagarro, Talho da Almas e Olival\
+    \ Grande da Misericórdia\" pela PORT.422/99(2ªSÉRIE).1999.04.09.PCM DR.IIS [98] de 27/Abr/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/422-1999-1932470
+  date: '1999-04-09'
+- type: amended_by
+  target: pt:dre:2743745:por
+  label: "Derrogada parcialmente pela PORT.1315/99(2ªSÉRIE).1999.11.30.PCM, DR.IIS [295] de 21/Dez/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1315-1999-2743745
+  date: '1999-11-30'
+- type: amended_by
+  target: pt:dre:2118399:por
+  label: "Derrogado, relativamente aos prédios rústicos denominados \"Romeiras\" e \"Soromonheiro\", pela PORT.328/2000(2ªSÉRIE).2000.02.15.PCM\
+    \ DR.IIS [53] DE 03/MAR/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/328-2000-2118399
+  date: '2000-02-15'
+- type: amended_by
+  target: pt:dre:2586038:por
+  label: "Derrogada, na parte em que expropria o prédio rústico denominado «Coutada», pela PORT.1156/2000(2ªSÉRIE).2000.07.20.PCM,\
+    \ DR.IIS [182] de 08/Ago/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1156-2000-2586038
+  date: '2000-07-20'
+- type: amended_by
+  target: pt:dre:2566218:por
+  label: "Derrogada em parte pela PORT.1242/2002(2ªSÉRIE).2002.07.29.PCM DR.IIS [194] DE 23/JUL/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1242-2002-2566218
+  date: '2002-07-29'
+- type: amended_by
+  target: pt:dre:3260136:por
+  label: "Derrogada relativamente ao prédio rústico \"Tapadas\" pela PORT.889/2003(2ªSÉRIE).2003.06.25.PCM, DR.IIS [158] de\
+    \ 11/Jul/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/889-2003-3260136
+  date: '2003-06-25'
+- type: amended_by
+  target: pt:dre:603521:por
+  label: "Derrogada, na parte em que procede à expropriação do prédio rústico denominado «Tapada Vaz e Verdugo», pela PORT.356/2009.06.04.2009.PCM,\
+    \ DR.IS [67] de 06.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/356-2009-603521
+  date: '2009-04-06'
+- type: cites
+  target: pt:dre:307375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501575:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:03:59Z'
   warnings: []
   errors: []
 ---

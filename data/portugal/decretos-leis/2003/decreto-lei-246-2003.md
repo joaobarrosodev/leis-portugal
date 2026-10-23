@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/246/2003/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2003-482576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a89b1037c7b307dff3c0720b38a6f416f22daecf148e95bbc55996955ad3fec4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1dcb16d09a89fd14a2438b22ee52efae6402ccbbabcdf474ea71447f4b7b75df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Caixa Geral de Aposentações
 - Capital Social
 - Contribuições da Segurança Social
 - CTT
 - Estatuto
 - Extinção de Serviços
-- Caixa Geral de Aposentações
 - Fundo de Pensões
 - Pensão de Aposentação
 - Prestações da Segurança Social
@@ -98,16 +98,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/42-a/1998/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/42-a/1998/03/23/p/dre
+- type: cites
+  target: pt:dre:215770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636690:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:46Z'
   warnings: []
   errors: []
 ---
@@ -190,12 +218,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Julho de 2003. - José Manuel Durão Barroso. - Maria Manuela Dias Ferreira Leite. - Carlos Manuel Tavares da Silva.
 
-**Promulgado em 26 de Setembro de 2003.**
+Promulgado em 26 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Setembro de 2003.**
+Referendado em 29 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 295/2003, 1º Suplemento, Série I-A de 2003-12-23
   number: '295'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8670-(11) a 8670-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/12/295a01/00110011.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/62-ao/2003/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/62-ao-2003-638332
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T04:45:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 738c044637ec52980550dd2f73d6c89d87cf06bdf450a7a64e2962a2241b8f22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5304634cd024f3c7bb58858b1acbf42adf172369695b2a3b63e1e698abb3cd2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:45:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:45:37Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +85,7 @@ validation:
 
 de 23 de Dezembro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:
 
 A pena residual de prisão aplicada a António Pedro França Gabriel, de 25 anos de idade, no processo n.º 802/99.9PBLSB, da 3.ª Secção da 2.ª Vara Criminal de Lisboa, é reduzida, por indulto, em 3 meses de prisão, pelo esforço desenvolvido na reinserção social por via do estudo e da recuperação da toxicodependência.
 
@@ -95,12 +95,12 @@ a) Não se ter o indultado constituído em ausência ilegítima do estabelecimen
 
 b) Não se constituir o indultado em ausência ilegítima do estabelecimento prisional relativamente a medida de flexibilização da pena que esteja a gozar à data da publicação do indulto.
 
-**Assinado em 22 de Dezembro de 2003.**
+Assinado em 22 de Dezembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Dezembro de 2003.**
+Referendado em 23 de Dezembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

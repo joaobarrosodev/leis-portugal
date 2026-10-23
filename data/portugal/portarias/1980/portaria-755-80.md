@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/755-1980-461619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:28:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44cb9ee9795552c715fb1c61622f7654971c4fdb7b701d105b5cdd293c90e2b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19776bc1de65b4c9cdef15848628523f67a69387245fdc0f96310fb80a8d88d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:28:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Numerus Clausus
+- Pessoal Docente
+- Universidade de Coimbra
+- Universidade de Lisboa
+- Universidade do Porto
+- Universidade Técnica de Lisboa
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O NUMERO MÁXIMO DE MONITORES DA UNIVERSIDADE DE LISBOA, PELA PORTARIA NUMERO 1087/80, DE 20 DE DEZEMBRO,\
+    \ PUBLICADA NO DR.IS, 293, DE 801220. ALTERADO O NUMERO MÁXIMO DO PESSOAL DOCENTE DA UNIVERSIDADE DE LISBOA, PELA PORTARIA\
+    \ NUMERO 980/83, DE 24 DE NOVEMBRO, PUBLICADA NO DR.IS, 271, DE 831124. ALTERADO O NUMERO MÁXIMO DO PESSOAL DOCENTE DA\
+    \ UNIVERSIDADE DO PORTO, PELA PORTARIA NUMERO 981/83, DE 24 DE NOVEMBRO, PUBLICADA NO DR.IS, 271, DE 831124.\0 NO DR.IS,\
+    \ 271, DE 831124.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:442970:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:459018:por
+  label: "Alterada pela PORT.1014/80.27.11.1980.MECI, DR.IS [275] de 27.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1014-1980-459018
+  date: '1980-11-27'
+- type: cites
+  target: pt:dre:226046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:28:19Z'
   warnings: []
   errors: []
 ---

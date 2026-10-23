@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/202/2012/08/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc075349c33c06ae27f45e497d880b67c326dafc9068ff8805ca24f06e194be3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a306d4bc1f19e65773565f7d7935f9e7e982ebe0449ae91d2e4d7944a01ba86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bolsa de Estudos
 - Bolsa de Formação
 - Bolseiro
-- Fundação para a Ciência e a Tecnologia
 - Definição de Competências
 - Estatuto
-- Bolsa de Estudos
+- Fundação para a Ciência e a Tecnologia
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:124256707:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:192592:por
+  label: "Determinado o diferimento da produção de efeitos (que passa a ser a partir do início do ano letivo de 2013-2014)\
+    \ das alterações efetuadas pelo presente diploma ao Estatuto do Bolseiro de Investigação, aprovado em anexo à Lei 40/2004,\
+    \ de 18-ago, pelo DEC LEI.233/2012.29.10.2012.MECI, DR.IS [209] de 29.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/233-2012-192592
+  date: '2012-10-29'
+- type: amended_by
+  target: pt:dre:258166:por
+  label: "Alterado [na parte que adita o art. 5º-A e altera o art. 17º do Estatuto do Bolseiro de Investigação, aprovado em\
+    \ anexo à Lei 40/2004, de 18-ago] o presente diploma, pela LEI.12/2013.29.01.2013.AR, DR.IS [20] de 29.01.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2013-258166
+  date: '2013-01-29'
+- type: amended_by
+  target: pt:dre:497867:por
+  label: "Dada nova redação ao art. 5º do Estatuto do Bolseiro de Investigação, aprovado pela Lei 40/2004 de 18-ago, alterado\
+    \ e republicado pelo presente diploma, pelo DEC LEI.89/2013.09.07.2013.MECI, DR.IS [130] de 09.07.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-2013-497867
+  date: '2013-07-09'
+- type: amended_by
+  target: pt:dre:124256707:por
+  label: Alterados os arts. 1.º, 2.º, 3.º, 5.º (na redação do Dec Lei 89/2013, de 09-jul), 9.º e 18.º e revogada a al. c)
+    do n.º 1 do art. 2.º do Estatuto do Bolseiro de Investigação aprovado em anexo à Lei 40/2004, de 18-ago, na versão revista
+    e republicada pelo presente diploma pelo(a) Decreto-Lei n.º 123/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-2019-124256707
+  date: '2019-08-28'
+- type: amends
+  target: pt:numero:lei:40/2004
+  label: "Altera os arts. 1º, 2º, 3º, 5º, 7º, 9º, 13º, 16º, 17º e 18º , adita os arts. 5º-A e 16º-A e revoga o nº 4 do art.\
+    \ 1º, a al. d) do nº 1 do art. 9º, o art. 16º e o nº 3 do art. 18º do Estatuto do Bolseiro de Investigação, aprovado em\
+    \ anexo à Lei n.º 40/2004, de 18-ago DR. IS-A [194] e republica o Estatuto do Bolseiro de Investigação\0\0"
+  source: null
+  date: '2004-08-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/40/2004/08/18/p/dre
   label: null
@@ -86,16 +119,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/2008/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/2008/09/11/p/dre
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610416:por
+  label: null
+  source: null
 article_structure:
-  article_count: 38
+  article_count: 28
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:53Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +189,9 @@ Os artigos 1.º, 2.º, 3.º, 5.º, 7.º, 9.º, 13.º, 16.º, 17.º e 18.º do Es
 
 5 - ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -156,7 +203,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -164,7 +213,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -190,7 +241,9 @@ h) Prestação de serviço docente pelos bolseiros de pós-doutoramento, exclusi
 
 4 - Considera-se, ainda, compatível com o regime de dedicação exclusiva a realização de atividades externas à entidade de acolhimento, ainda que remuneradas, desde que diretamente relacionadas com o plano de atividades subjacente à bolsa e desempenhadas sem caráter de permanência.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -210,7 +263,9 @@ h) Prestação de serviço docente pelos bolseiros de pós-doutoramento, exclusi
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -246,7 +301,9 @@ j) ...
 
 7 - (Anterior n.º 4.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -256,9 +313,13 @@ j) ...
 
 4 - O montante da bolsa pode ser majorado pela instituição de acolhimento desde que essa majoração não seja diretamente financiada pela Fundação para a Ciência e a Tecnologia, I. P., e não implique qualquer alteração ao programa de trabalhos.
 
-###### Artigo 16.º — (Revogado.)
+Artigo 16.º
 
-###### Artigo 17.º — [...]
+(Revogado.)
+
+Artigo 17.º
+
+[...]
 
 São causas de cessação do contrato de bolsa, com o consequente cancelamento do Estatuto:
 
@@ -276,7 +337,9 @@ f) ...
 
 g) ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -312,7 +375,9 @@ d) Elaborar, no âmbito das suas funções de supervisão, um relatório final d
 
 3 - As falsas declarações são punidas nos termos da lei.
 
-###### Artigo 16.º-A — Provedor do bolseiro
+Artigo 16.º-A
+
+Provedor do bolseiro
 
 1 - O provedor do bolseiro é designado pelo membro do Governo responsável pela área da ciência, de entre personalidades de reconhecido mérito científico, pelo período de três anos.
 
@@ -370,13 +435,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de junho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 7 de agosto de 2012.**
+Promulgado em 7 de agosto de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de agosto de 2012.**
+Referendado em 14 de agosto de 2012.
 
 Pelo Primeiro-Ministro, Vítor Louçã Rabaça Gaspar, Ministro de Estado e das Finanças.
 

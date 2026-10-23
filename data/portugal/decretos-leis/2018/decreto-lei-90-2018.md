@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/21600/0516805182.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/90/2018/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2018-116923610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51116a051f77ab99863e82b7720af017c1bce66faa50d10c7bd89cf78d17b7f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb7c61795957b37651b4ac231aae77ec4d2678d60586f55552e0678420e81c9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,77 +65,86 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Academia Internacional da Cultura Portuguesa
+- Academia Nacional de Belas-artes
+- Academia Portuguesa de História
 - Agência Nacional para a Qualificação e o Ensino Profissional
 - Agência para a Energia
 - Aicep
-- Instituto do Emprego e Formação Profissional
+- ANI-Agência Nacional de Inovação
+- Biblioteca Nacional de Portugal
+- Comissão de Coordenação e Desenvolvimento Regional
 - Comissão Internacional de Limites e Bacias Hidrográficas Luso-espanholas
-- Ministro da Saúde
+- Conselho Nacional de Cultura
 - Definição de Competências
+- Direção Geral de Energia e Geologia
 - Direção Geral do Livro dos Arquivos e das Bibliotecas
 - EDIA
 - Empresa Pública
-- Serviço Nacional de Saúde
-- Setor Empresarial do Estado
-- Direção Geral de Energia e Geologia
-- Comissão de Coordenação e Desenvolvimento Regional
-- Ministro da Justiça
-- Secretário de Estado da Energia
-- Secretário de Estado do Ordenamento do Território e da Conservação da Natureza
-- Secretário de Estado do Turismo
-- Ministro dos Negócios Estrangeiros
-- Secretário de Estado da Cultura
-- Ministro da Cultura
-- Ministro das Finanças
-- Secretário de Estado da Saúde
-- Conselho Nacional de Cultura
-- Instituto Nacional da Propriedade Industrial
+- Governo XXI
 - Instituição Financeira de Desenvolvimento
 - Instituto da Mobilidade e dos Transportes
+- Instituto do Emprego e Formação Profissional
+- Instituto Nacional da Propriedade Industrial
 - Instituto Português do Mar e da Atmosfera
+- JurisAPP
 - Laboratório Nacional de Energia e Geologia
 - Membros do Governo
-- Secretário de Estado da Ciência Tecnologia e Ensino Superior
-- Academia Nacional de Belas-artes
-- Biblioteca Nacional de Portugal
-- Secretário de Estado Adjunto e da Saúde
-- Secretário de Estado do Ambiente
 - Ministro
+- Ministro Adjunto e da Economia
+- Ministro da Administração Interna
+- Ministro da Agricultura Florestas e Desenvolvimento Rural
 - Ministro da Ciência Tecnologia e Ensino Superior
-- Ministro do MAR
-- Orgânica
-- Secretário de Estado da Presidência do Conselho de Ministros
-- Presidência do Conselho de Ministros
+- Ministro da Cultura
 - Ministro da Defesa Nacional
 - Ministro da Educação
-- Secretário de Estado
-- Secretário de Estado da Defesa Nacional
-- Secretário de Estado da Habitação
-- Ministro da Administração Interna
-- Tutela
-- Secretário de Estado da Economia
-- Governo XXI
+- Ministro da Justiça
 - Ministro da Presidência e da Modernização Administrativa
-- Ministro do Trabalho Solidariedade e Segurança Social
-- Ministro do Planeamento e das Infraestruturas
-- Ministro da Agricultura Florestas e Desenvolvimento Rural
-- Secretário de Estado Adjunto e da Modernização Administrativa
-- Secretário de Estado para a Cidadania e a Igualdade
-- Observatório para o Atlântico
-- ANI-Agência Nacional de Inovação
-- JurisAPP
+- Ministro da Saúde
+- Ministro das Finanças
 - Ministro do Ambiente e da Transição Energética
-- Ministro Adjunto e da Economia
-- Secretário de Estado da Valorização do Interior
+- Ministro do MAR
+- Ministro do Planeamento e das Infraestruturas
+- Ministro do Trabalho Solidariedade e Segurança Social
+- Ministro dos Negócios Estrangeiros
+- Observatório para o Atlântico
+- Orgânica
+- Presidência do Conselho de Ministros
+- Secretário de Estado
 - Secretário de Estado Adjunto e da Mobilidade
+- Secretário de Estado Adjunto e da Modernização Administrativa
+- Secretário de Estado Adjunto e da Saúde
+- Secretário de Estado da Ciência Tecnologia e Ensino Superior
+- Secretário de Estado da Cultura
 - Secretário de Estado da Defesa do Consumidor
-- Academia Internacional da Cultura Portuguesa
-- Academia Portuguesa de História
+- Secretário de Estado da Defesa Nacional
+- Secretário de Estado da Economia
+- Secretário de Estado da Energia
+- Secretário de Estado da Habitação
+- Secretário de Estado da Presidência do Conselho de Ministros
+- Secretário de Estado da Saúde
+- Secretário de Estado da Valorização do Interior
+- Secretário de Estado do Ambiente
+- Secretário de Estado do Ordenamento do Território e da Conservação da Natureza
+- Secretário de Estado do Turismo
+- Secretário de Estado para a Cidadania e a Igualdade
+- Serviço Nacional de Saúde
+- Setor Empresarial do Estado
+- Tutela
 relationships:
 - type: amended_by
   target: pt:dre:120454103:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:120454103:por
+  label: Alterados os arts. 2.º a 4.º, 10.º, 11.º, 13.º, 14.º, 16.º, 18.º, 20.º, 26.º a 28.º e 34.º, aditado o art. 24.º-A
+    e revogados a al. d) do n.º 2 e o n.º 4 do art. 11.º, a al. d) do n.º 2 do art. 13.º, o n.º 4 do art. 24.º e a al. b)
+    do n.º 3 do art. 26.º do Dec Lei 251-A/2015 de 17-dez, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 31/2019 - Diário da República n.º 43/2019, Série I de 2019-03-01, com produção de efeitos nos termos do disposto no
+    seu art. 6.º e que o republicou anexo com as presentes alterações.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2019-120454103
+  date: '2019-03-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/decpresrep/72-b/2018/10/15/p/dre
   label: null
@@ -172,16 +181,260 @@ relationships:
   target: eli:http://data.dre.pt/eli/decpresrep/72-p/2018/
   label: null
   source: http://data.dre.pt/eli/decpresrep/72-p/2018/
+- type: cites
+  target: pt:dre:106578565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108021183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114177785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116689553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116689555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116689557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116689560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116689563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116698961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116698962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116698963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116698964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116698965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116698966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116698967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116698969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116698970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116698971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116698972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116698973:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116698974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116716675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116716676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56304800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56304801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58683383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58940164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66463205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69927762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70686130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72909765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72909766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73268683:por
+  label: null
+  source: null
 article_structure:
-  article_count: 58
+  article_count: 41
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:28Z'
   warnings: []
   errors: []
 ---
@@ -244,7 +497,9 @@ p) [...];
 
 q) [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -282,7 +537,9 @@ q) [...].
 
 18 - [...].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...].
 
@@ -316,7 +573,9 @@ h) [...].
 
 8 - A Presidência do Conselho de Ministros assegura o apoio aos serviços dependentes da Ministra da Cultura e do Ministro do Planeamento e das Infraestruturas.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -330,7 +589,9 @@ h) [...].
 
 6 - O Ministro dos Negócios Estrangeiros exerce ainda os poderes que lhe são conferidos pelo n.º 11 do artigo 18.º
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...].
 
@@ -354,7 +615,9 @@ e) [...].
 
 6 - A Ministra da Presidência e da Modernização Administrativa exerce ainda os poderes que lhe são conferidos pelo n.º 5 do artigo seguinte, pelo n.º 11 do artigo 18.º e pelos n.os 7 e 8 do artigo 22.º
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -374,7 +637,9 @@ e) [...].
 
 9 - O Ministro das Finanças exerce ainda os poderes que lhe são conferidos pelo n.º 10 do artigo 18.º, pelo n.º 6 do artigo 22.º, pelo n.º 6 do artigo 27.º, e pelo n.º 6 do artigo 28.º
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -390,7 +655,9 @@ e) [...].
 
 7 - [...].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -398,7 +665,9 @@ e) [...].
 
 3 - A Ministra da Justiça exerce a superintendência e tutela sobre o Instituto Nacional da Propriedade Industrial, I. P., em coordenação com o Ministro da Ciência, Tecnologia e Ensino Superior e com o Ministro Adjunto e da Economia.
 
-###### Artigo 18.º — Adjunto e da Economia
+Artigo 18.º
+
+Adjunto e da Economia
 
 1 - O Ministro Adjunto e da Economia tem por missão acompanhar as medidas de caráter interministerial de execução do Programa do Governo, bem como formular, conduzir, executar e avaliar as políticas de desenvolvimento dirigidas ao crescimento da economia, da competitividade, do investimento e da inovação, à internacionalização das empresas, à promoção da indústria, do comércio e do turismo, à defesa dos consumidores e à valorização do interior.
 
@@ -426,7 +695,9 @@ e) [...].
 
 13 - O Ministro Adjunto e da Economia exerce ainda os poderes que lhe são conferidos pelo n.º 3 do artigo 12.º, pelo n.º 3 do artigo 17.º, pelo n.º 5 do artigo 21.º, pelos n.os 4 e 5 do artigo 22.º, e pelo n.º 15 do artigo 28.º
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - A Ministra da Cultura tem por missão formular, conduzir, executar e avaliar uma política global e coordenada na área da cultura e domínios com ela relacionados, designadamente na salvaguarda e valorização do património cultural, no incentivo à criação artística e à difusão cultural, na qualificação do tecido cultural e, em coordenação com o Ministro dos Negócios Estrangeiros, na internacionalização da cultura e língua portuguesa.
 
@@ -466,7 +737,9 @@ b) [...].
 
 7 - O Conselho Nacional de Cultura é o órgão consultivo da Ministra da Cultura.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...].
 
@@ -490,7 +763,9 @@ b) [...].
 
 11 - O Ministro da Ciência, Tecnologia e Ensino Superior exerce ainda os poderes que lhe são conferidos pelos n.os 3 e 5 do artigo 15.º, pelo n.º 3 do artigo 16.º, pelo n.º 3 do artigo 17.º, pelo n.º 9 do artigo 18.º, pelo n.º 3 do artigo anterior, pela alínea b) do n.º 2 do artigo 24.º, e pelos n.os 10, 11 e 15 do artigo 28.º
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...].
 
@@ -506,7 +781,9 @@ b) [...].
 
 7 - O Ministro da Educação exerce ainda os poderes que lhe são conferidos pelos n.os 6 e 8 do artigo anterior.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
@@ -526,13 +803,17 @@ b) [...].
 
 9 - [...].
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A Ministra da Saúde tem por missão formular, conduzir, executar e avaliar a política nacional de saúde e, em especial, a direção do serviço nacional de saúde, garantindo uma aplicação e utilização sustentáveis de recursos e a avaliação dos seus resultados.
 
 2 - A Ministra da Saúde exerce as competências legalmente previstas sobre os serviços, organismos, entidades e estruturas identificados no [Decreto-Lei n.º 124/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2011-145186), de 29 de dezembro, alterado pelos [Decretos-Leis n.os 126/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2014-56304800), de 22 de agosto, [127/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), de 22 de agosto, [173/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), de 19 de novembro, e [152/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2015-69968709), de 7 de agosto
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...].
 
@@ -558,7 +839,9 @@ e) [...].
 
 7 - O Ministro do Planeamento e das Infraestruturas exerce ainda os poderes que lhe são conferidos pelo n.º 8 do artigo 14.º, pelo n.º 10 do artigo 18.º, pelo n.º 6 do artigo 27.º, e pelos n.os 6 e 8 do artigo 28.º
 
-###### Artigo 26.º — Ambiente e Transição Energética
+Artigo 26.º
+
+Ambiente e Transição Energética
 
 1 - O Ministro do Ambiente e da Transição Energética tem por missão formular, conduzir, executar e avaliar as políticas de ambiente, ordenamento do território, cidades, habitação, transportes urbanos, suburbanos e rodoviários de passageiros, mobilidade, alterações climáticas, clima, conservação da natureza, energia e geologia, numa perspetiva de desenvolvimento sustentável e de coesão social e territorial.
 
@@ -590,7 +873,9 @@ c) O Laboratório Nacional de Energia e Geologia, I. P.
 
 8 - O Ministro do Ambiente e da Transição Energética exerce ainda os poderes que lhe são conferidos pelo n.º 4 do artigo 12.º, pela alínea d) do n.º 2 do artigo 24.º, pelo n.º 6 do artigo 24.º, pelo n.º 8 do artigo seguinte, e pelos n.os 10 e 15 do artigo 28.º
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...].
 
@@ -608,7 +893,9 @@ c) O Laboratório Nacional de Energia e Geologia, I. P.
 
 8 - Sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e ao Ministro das Finanças, o Ministro da Agricultura, Florestas e Desenvolvimento Rural exerce a superintendência sobre a EDIA - Empresa de Desenvolvimento e Infraestruturas do Alqueva, S. A., sendo a competência relativa à definição das orientações, nos domínios do ambiente, dos recursos hídricos, do ordenamento do território e do desenvolvimento regional, bem como ao acompanhamento da sua execução, exercida em coordenação com o Ministro do Ambiente e da Transição Energética.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...].
 
@@ -664,15 +951,15 @@ c) A [Resolução do Conselho de Ministros n.º 3/2016](https://diariodarepublic
 
 Visto e aprovado em Conselho de Ministros de 18 de outubro de 2018. - Maria Manuel de Lemos Leitão Marques - Augusto Ernesto Santos Silva - Maria Manuel de Lemos Leitão Marques - Mário José Gomes de Freitas Centeno - José Titterington Gomes Cravinho - Carlos Manuel Soares Miguel - Francisca Eugénia da Silva Dias Van Dunem - Pedro Gramaxo de Carvalho Siza Vieira - Graça Maria da Fonseca Caetano Gonçalves - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva - Marta Alexandra Fartura Braga Temido de Almeida Simões - Ângelo Nelson Rosário de Souza - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos - Ana Paula Mendes Vitorino.
 
-**Promulgado em 2 de novembro de 2018.**
+Promulgado em 2 de novembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de novembro de 2018.**
+Referendado em 6 de novembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -796,7 +1083,7 @@ q) Ministra do Mar.
 
 ###### Artigo 7.º — Ausências e impedimentos do Primeiro-Ministro
 
-**O Primeiro-Ministro, salvo sua indicação em contrário, é substituído na sua ausência ou impedimento pelo Ministro dos Negócios Estrangeiros ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.**
+O Primeiro-Ministro, salvo sua indicação em contrário, é substituído na sua ausência ou impedimento pelo Ministro dos Negócios Estrangeiros ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.
 
 ###### Artigo 8.º — Competência dos membros do Governo
 
@@ -1263,3 +1550,5 @@ Nos casos previstos na Constituição e na lei, o Governo da República procede 
 ###### Artigo 36.º — Produção de efeitos
 
 O presente decreto-lei produz efeitos reportados a 26 de novembro de 2015, considerando-se ratificados todos os atos entretanto praticados, em conformidade com o presente decreto-lei.
+
+111797062

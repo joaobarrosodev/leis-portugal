@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/24/2005/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2005-624455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4aad03a36f9f31ea08cafc815d67faf991f7c72a9d0ae376ba211c874d04ea3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c24bd72a1df4318acc81894efe2eacdad43494d6bb7fc8c3b57d1a95e18a804
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
 - Contra-ordenação
 - Instituto Nacional do Transporte Ferroviário
+- Multa
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:249571:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:249571:por
+  label: "Alterado o art. 31º, na redacção dada pelo presente diploma, pelo DEC LEI.77/2008.29.04.2008.MOPTC, DR.IS [83] de\
+    \ 29.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2008-249571
+  date: '2008-04-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/568/1999/12/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/568/1999/12/23/p/dre
+- type: cites
+  target: pt:dre:661084:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:16Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +140,9 @@ Os artigos 31.º e 33.º do Regulamento de Passagens de Nível, aprovado em anex
 
 4 - A aplicação das coimas previstas no presente diploma compete ao conselho de administração do INTF.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 ...
 
@@ -150,12 +162,12 @@ e) 60% para os cofres do Estado.»
 
 Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - Daniel Viegas Sanches - José Pedro Aguiar Branco - José Luís Fazenda Arnaut Duarte - António Luís Guerra Nunes Mexia.
 
-**Promulgado em 7 de Janeiro de 2005.**
+Promulgado em 7 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Janeiro de 2005.**
+Referendado em 13 de Janeiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

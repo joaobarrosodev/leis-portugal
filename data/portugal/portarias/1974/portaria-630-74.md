@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/630-1974-473313
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T04:32:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 825e524035c81ea2e036a859b9ca6dc974e1fa5d58e7aace1a39ebfdac70d359
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 657128569a5d4b6f2e18505a43f06285dcef24396fa4c937f7ab4651e4898851
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:32:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:32:06Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +97,7 @@ Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado
 
 Despesas com o pessoal:
 
-###### Artigo 3.º «Remunerações certas ao pessoal em exercício:
+Artigo 3.º «Remunerações certas ao pessoal em exercício:
 
 N.º 1 «Pessoal dos quadros aprovados por lei»:
 
@@ -103,7 +107,7 @@ N.º 2 «Pessoal contratado» ... 24600$00
 
 N.º 3 «Pessoal da secretaria do Conselho Superior Judiciário do Ultramar» ... 19200$00
 
-###### Artigo 5.º «Outras despesas com o pessoal»:
+Artigo 5.º «Outras despesas com o pessoal»:
 
 N.º 1 «Compensação de vencimentos aos sete vogais da secção do contencioso» ... 5775$00
 
@@ -113,17 +117,21 @@ tomando como contrapartida disponibilidades do capítulo I, artigo 2.º - «Repr
 
 2) Um de 359550$00, a inscrever em artigo adicional, destinado ao pagamento, no corrente ano, dos subsídios de férias e de Natal ao respectivo pessoal, tomando como contrapartida disponibilidades das seguintes verbas:
 
-### CAPÍTULO I — Representação das províncias ultramarinas no Conselho Ultramarino
+CAPÍTULO I
+
+Representação das províncias ultramarinas no Conselho Ultramarino
 
 Diversos encargos:
 
-###### Artigo 2.º «Gratificações aos onze vogais eleitos pelos conselhos legislativos das províncias ultramarinas» ... 86077$00
+Artigo 2.º «Gratificações aos onze vogais eleitos pelos conselhos legislativos das províncias ultramarinas» ... 86077$00
 
-### CAPÍTULO II — Serviços próprios do Conselho Ultramarino
+CAPÍTULO II
+
+Serviços próprios do Conselho Ultramarino
 
 Despesas com o pessoal:
 
-###### Artigo 4.º «Remunerações acidentais»:
+Artigo 4.º «Remunerações acidentais»:
 
 N.º 1 «Gratificações»:
 

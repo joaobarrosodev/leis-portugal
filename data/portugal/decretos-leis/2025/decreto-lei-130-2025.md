@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/130/2025/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2025-992627242
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62339a263fb41e860449d65ac080bbd91ef6560a482349ed4eb26f404310b958
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42386751aa36c8a8e2eeef284c83db99a6ddb1779f41d04ffbfa6c8ed8488241
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estamo-participações Imobiliárias
 - Administração Pública
 - BENS Imóveis do Estado
+- Entidade de Serviços Partilhados da Administração Pública
+- Estamo-participações Imobiliárias
 - Gestão do Património
 - Instituto Público
-- Entidade de Serviços Partilhados da Administração Pública
 - Orgânica
 - Património do Estado
 - Presidência do Conselho de Ministros
 - Secretaria-Geral do Governo
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:117-A/2012
+  label: Adita, a partir de 25 de dezembro de 2025, o artigo 24.º-A ao Decreto-Lei n.º 117-A/2012, de 14 de junho, Diário
+    da República n.º 114/2012, 1º Suplemento, Série I
+  source: null
+  date: '2012-06-14'
+- type: amends
+  target: pt:numero:decreto-lei:43-B/2024
+  label: Altera, a partir de 25 de dezembro de 2025, os artigos 5.º e 6.º e os artigos 2.º, 3.º, 5.º (a alteração introduzida
+    ao n.º 9 deste artigo, produz efeitos a partir de 1 de janeiro de 2025), 11.º e 16.º do anexo i e adita o artigo 6.º-A
+    e o artigo 5.º-A (este artigo é aditado ao anexo i) ao Decreto-Lei n.º 43-B/2024, de 2 de julho, Diário da República n.º
+    126/2024, Suplemento, Série I
+  source: null
+  date: '2024-07-02'
+- type: amends
+  target: pt:numero:decreto-lei:96/2024
+  label: Altera, a partir de 25 de dezembro de 2025, o artigo 25.º do Decreto-Lei n.º 96/2024, de 28 de novembro, Diário da
+    República n.º 231/2024, Série I
+  source: null
+  date: '2024-11-28'
+- type: amends
+  target: pt:numero:decreto-lei:113/2024
+  label: Altera, a partir de 25 de dezembro de 2025, o artigo 3.º do Decreto-Lei n.º 113/2024, de 20 de dezembro, Diário da
+    República n.º 247/2024, Série I
+  source: null
+  date: '2024-12-20'
 - type: cites
   target: eli:http://data.dre.pt/e
   label: null
@@ -116,16 +142,100 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/95/2024/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/95/2024/11/28/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216055960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835638817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:839477381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898201691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898201692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898201693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:900840739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901403813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:912820662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:913048489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:918999080:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:27Z'
   warnings: []
   errors: []
 ---
@@ -156,13 +266,13 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 O presente decreto-lei procede:
 
-a) À terceira alteração ao [Decreto-Lei n.º 117-A/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), de 14 de junho, alterado pelos Decretos-Leis n.<sup>os</sup>[17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, e [95/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2024-898201692), de 28 de novembro, que aprova a orgânica da Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP, I. P.), e extingue a Empresa de Gestão Partilhada de Recursos da Administração Pública, E. P. E. (GeRAP), e a Agência Nacional de Compras Públicas, E. P. E. (ANCP);
+a) À terceira alteração ao [Decreto-Lei n.º 117-A/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), de 14 de junho, alterado pelos Decretos-Leis n.os[17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, e [95/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2024-898201692), de 28 de novembro, que aprova a orgânica da Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP, I. P.), e extingue a Empresa de Gestão Partilhada de Recursos da Administração Pública, E. P. E. (GeRAP), e a Agência Nacional de Compras Públicas, E. P. E. (ANCP);
 
-b) À quarta alteração ao [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, alterado pelos Decretos-Leis n.<sup>os</sup>[94/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2024-898201691), de 28 de novembro, [114-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-b-2024-901403813), de 26 de dezembro, e [56/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2025-913048489), de 31 de março, que aprova a orgânica da Secretaria-Geral do Governo e o modelo organizativo a adotar pelas entidades com responsabilidade em matéria de estudos e planeamento, no âmbito da reforma da administração central do Estado;
+b) À quarta alteração ao [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, alterado pelos Decretos-Leis n.os[94/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2024-898201691), de 28 de novembro, [114-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-b-2024-901403813), de 26 de dezembro, e [56/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2025-913048489), de 31 de março, que aprova a orgânica da Secretaria-Geral do Governo e o modelo organizativo a adotar pelas entidades com responsabilidade em matéria de estudos e planeamento, no âmbito da reforma da administração central do Estado;
 
 c) À primeira alteração ao [Decreto-Lei n.º 113/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2024-900840739), de 20 de dezembro, que altera o [Decreto-Lei n.º 60/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), de 24 de julho, e estabelece um regime transitório permitindo a afetação ao Estado e às entidades beneficiárias das receitas provenientes de operações no património imobiliário público ocorridas nos anos 2023 e 2024;
 
-d) À terceira alteração ao [Decreto-Lei n.º 96/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2024-898201693), de 28 de novembro, alterado pelos Decretos-Leis n.<sup>os</sup>[114-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-b-2024-901403813), de 26 de dezembro, e [54/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2025-912820662), de 28 de março, que procede à extinção, por fusão, da Secretaria-Geral da Presidência do Conselho de Ministros.
+d) À terceira alteração ao [Decreto-Lei n.º 96/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2024-898201693), de 28 de novembro, alterado pelos Decretos-Leis n.os[114-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-b-2024-901403813), de 26 de dezembro, e [54/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2025-912820662), de 28 de março, que procede à extinção, por fusão, da Secretaria-Geral da Presidência do Conselho de Ministros.
 
 ###### Artigo 2.º — Aditamento ao [Decreto-Lei n.º 117-A/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), de 14 de junho
 
@@ -198,13 +308,15 @@ Os artigos 5.º e 6.º do [Decreto-Lei n.º 43-B/2024](https://diariodarepublica
 
 6 - A reafetação prevista no número anterior, em sede de elaboração das listas nominativas, é aprovada por despacho dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública, da presidência, da reforma do Estado e da respetiva área setorial, sob proposta do coordenador do Grupo de Trabalho da Reforma do Estado.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os bens móveis e imóveis, incluindo os bens imóveis arrendados e os veículos das entidades extintas, nos termos do n.º 2 do artigo 2.º, transitam para os serviços que sucedem nas suas atribuições, de acordo com o disposto no presente decreto-lei e sem prejuízo do disposto no n.º 5 do artigo 2.º
 
 2 - As entidades que são objeto de processo de fusão e reestruturação devem elaborar um inventário, que identifique os bens a transferir e uma proposta da respetiva entidade integradora.
 
-3 - A decisão final sobre a transferência é formalizada por despacho conjunto dos dirigentes máximos das entidades integradores e das entidades que são objeto de processo de fusão e reestruturação, nos termos dos n.<sup>os</sup>2 e 3 do artigo 2.º, respetivamente, exceto quando exista divergência sobre a decisão dos bens, cuja decisão cabe aos coordenadores executivos.»
+3 - A decisão final sobre a transferência é formalizada por despacho conjunto dos dirigentes máximos das entidades integradores e das entidades que são objeto de processo de fusão e reestruturação, nos termos dos n.os2 e 3 do artigo 2.º, respetivamente, exceto quando exista divergência sobre a decisão dos bens, cuja decisão cabe aos coordenadores executivos.»
 
 ###### Artigo 4.º — Alteração ao anexo i do [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho
 
@@ -216,7 +328,9 @@ Os artigos 2.º, 3.º, 5.º, 7.º, 11.º e 16.º do anexo i ao [Decreto-Lei n.º
 
 A Secretaria-Geral tem por missão prestar apoio técnico, administrativo e logístico ao Conselho de Ministros, ao Primeiro-Ministro e aos demais membros do Governo, contribuindo para as definições estratégicas, reforçando a integração interdepartamental e a coordenação das políticas públicas.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -260,7 +374,9 @@ s) Assegurar todo o apoio informativo, técnico, logístico, administrativo e do
 
 2 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -282,7 +398,7 @@ s) Assegurar todo o apoio informativo, técnico, logístico, administrativo e do
 
 a) Adoção dos instrumentos de mobilidade ou a celebração dos contratos previstos na lei, relativos ao exercício de funções de apoio técnico e administrativo nos gabinetes dos membros do Governo;
 
-b) Autorização da realização de despesas por conta do orçamento dos respetivos gabinetes, até ao limite previsto na alínea a) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, bem como a competência para a decisão de contratar e as demais competências atribuídas ao órgão competente para a decisão de contratar, nos termos do disposto nos n.<sup>os</sup>1 e 3 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual;
+b) Autorização da realização de despesas por conta do orçamento dos respetivos gabinetes, até ao limite previsto na alínea a) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, bem como a competência para a decisão de contratar e as demais competências atribuídas ao órgão competente para a decisão de contratar, nos termos do disposto nos n.os1 e 3 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual;
 
 c) Autorização, nos termos e para os efeitos previstos no n.º 2 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, para os Gabinetes dos membros do Governo, até ao limite máximo previsto na alínea a) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, a assunção de compromissos plurianuais que não se encontrem previstos no n.º 1 do mesmo artigo 11.º, desde que não possuam pagamentos em atraso;
 
@@ -292,7 +408,9 @@ e) Autorização da condução de viaturas oficiais por funcionários ou agentes
 
 10 - O disposto no número anterior não se aplica aos ministérios cujo apoio técnico, administrativo e logístico seja assegurado por secretarias-gerais, de acordo com a calendarização prevista no anexo iv ao presente decreto-lei e do qual faz parte integrante.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -310,7 +428,9 @@ b) [...]
 
 6 - [...]
 
-###### Artigo 16.º — Regimes especiais
+Artigo 16.º
+
+Regimes especiais
 
 1 - [...]
 
@@ -412,12 +532,14 @@ f) Desenvolver infografias e editar ações de comunicação no âmbito da açã
 
 Visto e aprovado em Conselho de Ministros de 5 de novembro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Gonçalo Nuno da Cruz Saraiva Matias.
 
-**Promulgado em 15 de dezembro de 2025.**
+Promulgado em 15 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 16 de dezembro de 2025.**
+Referendado em 16 de dezembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119919768

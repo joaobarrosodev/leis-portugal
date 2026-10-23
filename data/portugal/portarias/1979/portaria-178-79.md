@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 85/1979, 1º Suplemento, Série I de 1979-04-11
   number: '85'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 594-(19) a 594-(21)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/04/08501/00190021.pdf
 entry_into_force_dates: []
@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/178-1979-515855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T05:52:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30a8e1dfe48cac648e45d3e85cbf26bd41595ae754dacc062d5d13a2e7668c9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a6744d0f5ce4ce3028c633bdf5e0b7adc21c4bf3299effd5fdb17328460a203
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:52:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comércio
+- Fixação de Preços
+- Margarina
+- ÓLEO Comestivel
+- Sabao
+relationships:
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656392:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:52:17Z'
   warnings: []
   errors: []
 ---
@@ -100,19 +121,19 @@ c) Sabões tipos Offenbach, Super, Extra e Amêndoa.
 
 Preços máximos à porta da fábrica ou seus armazéns
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/08501/00190021.pdf))](https://files.diariodarepublica.pt/1s/1979/04/08501/00190021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08501/00190021.pdf)
 
 3.º Os preços máximos de venda ao consumidor e ao sector industrial são os seguintes:
 
 Preços máximos ao consumidor e ao sector industrial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/08501/00190021.pdf))](https://files.diariodarepublica.pt/1s/1979/04/08501/00190021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08501/00190021.pdf)
 
 4.º As margens mínimas do retalhista na venda das margarinas são as seguintes:
 
 Margens mínimas do retalhista
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/08501/00190021.pdf))](https://files.diariodarepublica.pt/1s/1979/04/08501/00190021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08501/00190021.pdf)
 
 5.º As margarinas com as características específicas da Flora e da Becel só poderão ser vendidas pelas fábricas ou nos seus armazéns aos adquirentes que possuam rede de frio completa (transporte e armazém).
 
@@ -130,7 +151,7 @@ Margens mínimas do retalhista
 
 12.º Os preços máximos de venda à porta da fábrica ou nos seus armazéns dos sabões do tipo Offenbach, Super, Extra e Amêndoa são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/08501/00190021.pdf))](https://files.diariodarepublica.pt/1s/1979/04/08501/00190021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08501/00190021.pdf)
 
 13.º Os preços máximos de venda ao público dos tipos de sabão referidos no número anterior são os seguintes:
 
@@ -158,7 +179,7 @@ Amêndoa ... 8$90/kg
 
 14.º - 1 - As margens mínimas do retalhista, por caixa, na venda dos tipos de sabão referidos são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/08501/00190021.pdf))](https://files.diariodarepublica.pt/1s/1979/04/08501/00190021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08501/00190021.pdf)
 
 2 - Os restantes sabões não incluídos no n.º 14.º, n.º 1, terão a margem de comercialização máxima global de 25% sobre o preço de fábrica, com um mínimo de 15% para o retalhista.
 

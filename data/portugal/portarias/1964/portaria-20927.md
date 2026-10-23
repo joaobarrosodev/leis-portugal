@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20927-1964-535464
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01799ea17cce39249284c86c179139ced33926a032182613ba23a61152e50127
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a81ce455cda6b76dea426f76ee871ef48751557a4c7b7566c0284b732355cd09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,48 @@ relationships:
   target: pt:dre:234558:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:322901:por
+  label: "Modificada a data final constante do texto da Convenção Internacional para limitar a fabricação e regulamentar a\
+    \ distribuição dos estupefacientes de 13-jul 1931, ratificada pela carta de confirmação e ratificação, publicada no Supl\
+    \ de 29.07.1932, DG.IS [176], e cujo texto da Convenção foi objecto de nova publicação, rectificada no DG.IS de 17.09.1932,\
+    \ pelo DEC LEI.27259.24.11.1936.MNE, DG.IS [276] de 24.11.1936.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27259-1936-322901
+  date: '1936-11-24'
+- type: cites
+  target: pt:dre:164415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635429:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:30Z'
   warnings: []
   errors: []
 ---
@@ -499,6 +531,6 @@ Para ser publicada no Boletim Oficial de S. Tomé e Príncipe. - Peixoto Correia
 
 Quadro do pessoal da Brigada de Fomento Agro-Pecuário de S. Tomé e Príncipe
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/11/27600/16521658.pdf))](https://files.diariodarepublica.pt/1s/1964/11/27600/16521658.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/11/27600/16521658.pdf)
 
 Ministério do Ultramar, 24 de Novembro de 1964. - O Ministro do Ultramar, António Augusto Peixoto Correia.

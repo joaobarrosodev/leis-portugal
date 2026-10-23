@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/11/255a00/61786183.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/269/2000/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-2000-621721
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:20:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e97427f7292050c25d62c2c10293db8f4cdfdd6998ee0ff018e75a464ff012f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a57c2858fe3e6cb9d2664188ea63ded9f97fab24790a68f8ddf0b1322047b73a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:20:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,38 +65,61 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Comissão de Empresas-administração
 - Comissão de Observação e Acompanhamento de Concursos para Cargos Dirigentes
 - Comissão Intersectorial de Formação
 - Conselho de Saúde e Segurança no Trabalho para a Administração Pública
 - Conselho para a Qualidade nos Serviços Públicos
-- Ministério da Reforma do Estado e da Administração Pública
+- Conselho Superior da Reforma do Estado e da Administração Pública
 - Conselho Superior de Acção Social Complementar
 - Criação de Serviços
 - Definição de Competências
+- Direcção Geral da Administração Pública
 - Extinção de Serviços
-- INA
 - Fórum Cidadãos-administração
-- Secretaria Geral
 - Gestão do Património
 - Gestão Orçamental
+- INA
 - Inspecção Geral da Administração Pública
+- Instituto para a Gestão das Lojas do Cidadão
 - Instituto para a Inovação na Administração do Estado
 - Integração de Trabalhadores
-- Conselho Superior da Reforma do Estado e da Administração Pública
-- Direcção Geral da Administração Pública
+- Ministério da Reforma do Estado e da Administração Pública
 - Ministro da Reforma do Estado e da Administração Pública
-- Instituto para a Gestão das Lojas do Cidadão
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - RIMA
+- Secretaria Geral
 - Secretariado para a Modernização Administrativa
 relationships:
 - type: amended_by
   target: pt:dre:608072:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:300610:por
+  label: "Alterado o art. 9º pelo DEC LEI.78/2002.2002.03.26.MREAP DR.IS-A [72]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2002-300610
+  date: '2002-03-26'
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Determinada a transição para o Ministério das Finanças dos serviços e organismos compreendidos no agora extinto\
+    \ Ministério da Reforma do Estado e da Administração Pública, pelo Dec Lei 120/2002 de 03-Mai, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
+- type: amended_by
+  target: pt:dre:647503:por
+  label: "Extinta a Secretaria Geral do MREAP criada pelo presente diploma, pelo DEC LEI.196/2002.2002.09.25.MF, DR.IS-A [222]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/196-2002-647503
+  date: '2002-09-25'
+- type: amended_by
+  target: pt:dre:432175:por
+  label: "Extinto o Instituto para a Inovação na Administração do Estado criado pelo presente diploma, pelo DEC LEI.215/2002.2002.10.22.MF,\
+    \ DR.IS-A [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2002-432175
+  date: '2002-10-22'
 - type: cites
   target: eli:http://data.dre.pt/el
   label: null
@@ -137,16 +160,74 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/110/1996/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/110/1996/07/25/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631203:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:608072:por
+  label: "Revogado, com a redacção dada no artigo 1.º do Decreto-Lei n.º 78/2002, de 26 de Março, pelo DEC LEI.47/2005.24.02.2005.MFAP,\
+    \ DR.IS-A [39] de 24.02.2005, nos termos do seu art. 35.º e 38.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-2005-608072
+  date: '2005-02-24'
 article_structure:
   article_count: 20
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:20:17Z'
   warnings: []
   errors: []
 ---
@@ -497,15 +578,15 @@ h) Comissão de Observação e Acompanhamento de Concursos para Cargos Dirigente
 
 Visto e aprovado em Conselho de Ministros de 21 de Setembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Alberto de Sousa Martins.
 
-**Promulgado em 13 de Outubro de 2000.**
+Promulgado em 13 de Outubro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Outubro de 2000.**
+Referendado em 26 de Outubro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Mapa a que se refere o artigo 15.º
 

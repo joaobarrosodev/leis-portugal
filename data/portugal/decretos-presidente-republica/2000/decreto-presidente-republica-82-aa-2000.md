@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 294/2000, 2º Suplemento, Série I-A de 2000-12-22
   number: '294'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7444-(23) a 7444-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/294a02/00230023.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/82-aa/2000/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/82-aa-2000-516936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:37:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81275d0f26223b0ba1c7ef36753e6dc6e09d17b57d14a3a1c4a2277c83af04c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16d32f20e00fbc63a7603ac3c1ab21b6827570c31a6d05bdb32df7db5b463114
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:37:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:37:24Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +85,7 @@ validation:
 
 de 22 de Dezembro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:
 
 A pena acessória de expulsão do País aplicada a Isaías Fortunato Grego, de 29 anos de idade, no processo n.º 38/98 da 4.ª Vara Criminal do Círculo do Porto é revogada, por indulto.
 
@@ -95,12 +95,12 @@ a) Não se ter o indultado constituído em ausência ilegítima do estabelecimen
 
 b) Não se constituir o indultado em ausência ilegítima do estabelecimento prisional relativamente à medida de flexibilização da pena que esteja a gozar à data da publicação do indulto.
 
-**Assinado em 21 de Dezembro de 2000.**
+Assinado em 21 de Dezembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Dezembro de 2000.**
+Referendado em 22 de Dezembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

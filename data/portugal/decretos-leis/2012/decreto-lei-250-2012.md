@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/250/2012/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2012-191168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8283f0da5ef68453385bffad08518b563a53461beb02aa77c1db807aaf73a1cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 608aad74c8f28a43f44c5abedc3b3301dc15111769a9d0b9033c2e99cfe5a6a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
+- Base de Dados
 - Código do Registo Comercial
 - Emolumento
+- Empresa
 - Extinção de Empresas
 - Ficheiro Central de Pessoas Colectivas
-- Base de Dados
 - Liquidação de Sociedades
-- Pessoa Coletiva
-- Sistema de Informação
 - Madeira.região Autónoma
+- Pessoa Coletiva
 - Regime do Registo Nacional de Pessoas Colectivas
-- Registo Nacional de Pessoas Coletivas
 - Registo Comercial
+- Registo Nacional de Pessoas Coletivas
+- Sistema de Informação
 - Zona Franca
 relationships:
 - type: amended_by
   target: pt:dre:118950630:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:107094725:por
+  label: Alterado o art. 17.º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86 de 03-dez, na versão republicada
+    pelo Dec Lei 76-A/2006 de 29-mar, na redação do presente diploma, pelo(a) Lei n.º 30/2017 - Diário da República n.º 104/2017,
+    Série I de 2017-05-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2017-107094725
+  date: '2017-05-30'
+- type: amended_by
+  target: pt:dre:118950630:por
+  label: Alterado, a partir de 01.07.2019, o art. 42.º do Código do Registo Comercial aprovado pelo Dec Lei 403/86, de 03-dez,
+    na redação do presente diploma, pelo(a) Decreto-Lei n.º 24/2019 - Diário da República n.º 23/2019, Série I de 2019-02-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2019-118950630
+  date: '2019-02-01'
 - type: cites
   target: celex:31978L0660
   label: null
@@ -103,15 +116,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/76-a/2006/03/29/p/dre
 article_structure:
-  article_count: 14
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:41Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +197,9 @@ Incumprimento da obrigação de registar dentro do prazo
 
 8 - (Revogado.)
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -202,7 +217,9 @@ Incumprimento da obrigação de registar dentro do prazo
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - ...
 
@@ -216,7 +233,9 @@ Incumprimento da obrigação de registar dentro do prazo
 
 6 - ...
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - ...
 
@@ -234,7 +253,9 @@ Incumprimento da obrigação de registar dentro do prazo
 
 8 - Sem prejuízo do disposto no n.º 8 do artigo 114.º, a verificação da causa de rejeição prevista na alínea b) do n.º 1 após a apresentação do pedido no diário dá lugar à recusa.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
@@ -256,7 +277,9 @@ h) Quando a entidade se encontrar em incumprimento quanto à obrigação do regi
 
 2 - ...
 
-###### Artigo 78.º-F — [...]
+Artigo 78.º-F
+
+[...]
 
 1 - ...
 
@@ -268,7 +291,9 @@ h) Quando a entidade se encontrar em incumprimento quanto à obrigação do regi
 
 5 - A informação para fins de investigação científica ou de estatística relativa a entidades sujeitas a registo comercial pode resultar do cruzamento dos dados contidos nas diversas bases de dados registais, Ficheiro Central de Pessoas Coletivas e Base de Dados das Contas Anuais, desde que não possam ser individualizadas as entidades a que respeita a informação.
 
-###### Artigo 114.º — [...]
+Artigo 114.º
+
+[...]
 
 1 - Os emolumentos e taxas devidas pelos atos praticados nos serviços de registo são pagos em simultâneo com o pedido ou antes deste.
 
@@ -316,7 +341,9 @@ i) ...
 
 j) A entidade competente para a concessão da licença para operar no âmbito institucional da Zona Franca da Madeira comunique à conservatória do registo comercial privativa a caducidade ou revogação da respetiva licença.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -382,12 +409,12 @@ O presente diploma entra em vigor no 1.º dia útil do mês seguinte ao da sua p
 
 Visto e aprovado em Conselho de Ministros de 25 de outubro de 2012. - Pedro Passos Coelho - Paula Maria von Hafe Teixeira da Cruz.
 
-**Promulgado em 15 de novembro de 2012.**
+Promulgado em 15 de novembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de novembro de 2012.**
+Referendado em 19 de novembro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

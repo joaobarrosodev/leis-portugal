@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/159/2001/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2001-343434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a9fb916557fc2bb79df192ecd41e7f171b0b2a49e4500af72639933d57dd45f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 437dcb157afc1344fc53db54f5b984f351c245c7ba1a9ac99a840b1795ad612d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contribuições da Segurança Social
-- Trabalhador Rural
 - Proteção Social
 - Regime Geral da Segurança Social
 - Segurança Social
 - TAXA Contributiva Reduzida
 - Trabalhador Independente
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:490249:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:236275:por
+  label: "Dispensados temporariamente (seis meses) os produtores agrícolas e respectivos cônjuges, abrangidos pelo regime\
+    \ social dos trabalhadores independentes, das áreas de influência das Direcções Regionais de Agricultura de Trás-os-Montes,\
+    \ da Beira Interior, do Ribatejo e Oeste, do Alentejo e do Algarve, do pagamento da taxa contributiva fixada pelo art.\
+    \ 37º-A do Dec Lei 328/93 de 25-Set , aditado pelo presente diploma, pelo DEC LEI.115/2005.14.07.2005.MADRP, DR.IS-A [134]\
+    \ de 14.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-2005-236275
+  date: '2005-07-14'
 - type: cites
   target: celex:31985D0377
   label: null
@@ -88,16 +97,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/328/1993/09/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/328/1993/09/25/p/dre
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado o Dec Lei 328/93, de 25-Set, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela\
+    \ Lei n.º 119/2009, de 30 de Dezembro), na redacção do presente diploma, pela LEI.110/2009.16.09.2009.AR, DR.IS [180]\
+    \ de 16.09.2009, sem prejuízo de, até à entrada em vigor da regulamentação [prevista no art. 4.º] se manter transitoriamente\
+    \ em vigor as disposições procedimentais do diploma revogado que não contrariem o disposto no Código aprovado pela citada\
+    \ Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
 article_structure:
-  article_count: 14
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:03Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +172,9 @@ a) 23,75%, tratando-se de produtores agrícolas e respectivos cônjuges abrangid
 
 b) 30,4%, tratando-se de produtores agrícolas e respectivos cônjuges abrangidos pelo esquema alargado de prestações previsto no presente diploma.
 
-###### Artigo 37.º-B — Prova de rendimentos
+Artigo 37.º-B
+
+Prova de rendimentos
 
 1 - Para efeitos do disposto no artigo anterior, a prova quanto à exclusividade da actividade é feita através de declaração em modelo próprio, o qual consta do anexo n.º 1 ao presente diploma, e produz efeitos no início do mês seguinte ao da apresentação da respectiva declaração.
 
@@ -244,14 +264,14 @@ O presente diploma produz efeitos a partir do 1.º dia útil do mês seguinte ao
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Luís Manuel Capoulas Santos.
 
-**Promulgado em 3 de Maio de 2001.**
+Promulgado em 3 de Maio de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Maio de 2001.**
+Referendado em 10 de Maio de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 [(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2001/05/115a00/29222926.pdf)

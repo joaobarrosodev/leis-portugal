@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/275a00/63896391.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/330/1997/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1997-406484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:53:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19daa1db5de21d93bc9185c0a944791c3b5051a641dc8c9d9cbee56123378c1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48c66918e3e7653d3cd1cb94c019a9602749a61c03f4ce9ebc4d082c76573295
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:53:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Geral das Relações Bilaterais
+- Direcção Geral de Política Externa
 - Direcção Geral dos Assuntos Multilaterais
 - Inspecção Diplomática e Consular
 - Instituto Diplomático
-- Orgânica
 - Ministério dos Negócios Estrangeiros
-- Direcção Geral de Política Externa
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:520985:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:520985:por
+  label: "Determinada a sucessão, nos termos do artigo 11.º, da Direcção-Geral dos Assuntos Técnicos e Económicos relativamente\
+    \ às atribuições da Direcção-Geral das Relações Bilaterais e da Direcção-Geral Assuntos Bilaterais (que se extinguem)\
+    \ cujas orgânicas foram aprovadas, respectivamente, pelo, Decreto-Lei 51/94 e 52/94, ambos de 24 de Fevereiro, na redacção\
+    \ do presente diploma e revogados os mesmos nos termos do artigo 5.º do Decreto-Lei 201/2006, de 27 de Outubro, a partir\
+    \ de 01.05.2007, pelo DR.46/2007.27.04.2007.MNE, DR.IS [82] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/46-2007-520985
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
   label: null
@@ -105,16 +114,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/55/1994/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/55/1994/02/24/p/dre
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515471:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520982:por
+  label: "Revogado, nos termos do artigo 5.º do Decreto-Lei 201/2006, de 27 de Outubro, a partir de 01.05.2007, pelo DR.45/2007.27.04.2007.MNE,\
+    \ DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/45-2007-520982
+  date: '2007-04-27'
+- type: repealed_by
+  target: pt:dre:521015:por
+  label: "Revogado pelo DEC LEI.117/2007.27.04.2007.MNE, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2007-521015
+  date: '2007-04-27'
 article_structure:
-  article_count: 21
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:53:56Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +193,9 @@ Os artigos 1.º e 3.º do [Decreto-Lei n.º 50/94](https://diariodarepublica.pt/
 
 A Direcção-Geral de Política Externa é o serviço central do Ministério dos Negócios Estrangeiros que visa assegurar a coordenação dos assuntos de natureza político-diplomática e o tratamento das questões de índole económica que revistam natureza interdepartamental.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Para a prossecução das suas atribuições, a Direcção-Geral de Política Externa compreende:
 
@@ -181,7 +231,9 @@ Os artigos 1.º e 3.º do [Decreto-Lei n.º 51/94](https://diariodarepublica.pt/
 
 A Direcção-Geral das Relações Bilaterais é o serviço central do Ministério dos Negócios Estrangeiros que visa assegurar a efectividade e continuidade da acção do Ministério no plano das relações internacionais políticas, económicas e culturais de carácter bilateral.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Para a prossecução das suas atribuições, a Direcção-Geral das Relações Bilaterais compreende:
 
@@ -221,7 +273,9 @@ Os artigos 1.º e 3.º do [Decreto-Lei n.º 52/94](https://diariodarepublica.pt/
 
 A Direcção-Geral dos Assuntos Multilaterais é o serviço central do Ministério dos Negócios Estrangeiros que visa assegurar a efectividade e continuidade da acção do Ministério no plano das relações internacionais políticas, económicas e culturais de carácter multilateral.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Para a prossecução das suas atribuições, a Direcção-Geral dos Assuntos Multilaterais compreende:
 
@@ -257,7 +311,9 @@ Os artigos 1.º, 3.º e 4.º do [Decreto-Lei n.º 54/94](https://diariodarepubli
 
 O Instituto Diplomático é o serviço central do Ministério dos Negócios Estrangeiros que visa assegurar a acção do Ministério no domínio da formação dos funcionários do serviço diplomático e a realização de estudos na área das relações internacionais.
 
-###### Artigo 3.º — Orgânica
+Artigo 3.º
+
+Orgânica
 
 1 - Para a prossecução das suas atribuições, o Instituto Diplomático compreende:
 
@@ -269,7 +325,9 @@ c) O Serviço de Biblioteca e Documentação Diplomática.
 
 2 - Junto do presidente do Instituto Diplomático funciona o conselho superior do Instituto Diplomático.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -335,12 +393,12 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1997.
 
 Visto e aprovado em Conselho de Ministros de 3 de Outubro de 1997. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 13 de Novembro de 1997.**
+Promulgado em 13 de Novembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Novembro de 1997.**
+Referendado em 17 de Novembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

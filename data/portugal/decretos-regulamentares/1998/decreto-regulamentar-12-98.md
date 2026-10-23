@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/115b00/23982401.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/12/1998/05/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1998-524411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d089581bfbf41dc089ccd2bde9b49bb78d623a0941c89f52ad4373331b9589c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ac8977eb441f4e8ed0e8c3ad46da592c7642b4709775a71a8e867d5163a6370
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,7 +65,6 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Criação de Serviços
 - Definição de Competências
 - Delegação Regional da Cultura do Alentejo
@@ -76,12 +75,18 @@ subjects:
 - Orgânica
 - Pessoal de Chefia
 - Quadro de Pessoal
+- Reestruturação de Serviços
 - Serviço Regional
 relationships:
 - type: amended_by
   target: pt:dre:520445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1505510:por
+  label: "Alterado o quadro de pessoal pela PORT.1669/2002(2ªSÉRIE).2002.10.17.MF e MC, DR.IIS [261] de 12/Nov/2002. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1669-2002-1505510
+  date: '2002-11-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/12/1992/06/01/p/dre
   label: null
@@ -94,16 +99,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/3/1994/02/09/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/3/1994/02/09/p/dre
+- type: cites
+  target: pt:dre:181986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520445:por
+  label: "Revogado, a partir de 01.04.2007 pelo DR.34/2007.29.03.2007.MC, DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/34-2007-520445
+  date: '2007-03-29'
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:07Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +170,7 @@ a) ...
 
 b) Repartição Administrativa.
 
-###### Artigo 10.º-A
+Artigo 10.º-A
 
 1 - ...
 
@@ -150,7 +184,7 @@ c) O chefe de repartição ou, quando tal não seja possível, por um chefe de s
 
 3 - ...
 
-###### Artigo 12.º
+Artigo 12.º
 
 1 - À Repartição Administrativa compete:
 
@@ -200,15 +234,15 @@ Presidência do Conselho de Ministros, 19 de Março de 1998.
 
 António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Manuel Maria Ferreira Carrilho.
 
-**Promulgado em 23 de Abril de 1998.**
+Promulgado em 23 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Abril de 1998.**
+Referendado em 30 de Abril de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 Do MAPA I ao MAPA IV
 

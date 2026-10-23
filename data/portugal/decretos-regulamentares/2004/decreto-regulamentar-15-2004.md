@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/04/100b00/26412643.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/15/2004/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-2004-302350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:28:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9dd7e43c9591659fb126c4c129951314c557d875bcc27cc14b963f250af4c5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f25194ade44619539f1f125b364de057fc167457e9ea8a310bd17c5ed2e47a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:28:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Ministério da Educação
 - Definição de Competências
 - Gabinete de Assuntos Europeus e de Relações Internacionais
 - Integração de Trabalhadores
+- Ministério da Educação
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:520453:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:520453:por
+  label: "Determinada a sucessão do Gabinete de Estatística e Plenamento da Educação (GEPE) nas atribuições do Gabinete de\
+    \ Assuntos Europeus e Relações Internacionais (GAERI) e revogado o presente diploma a partir de 01.04.2007 pelo DR.25/2007.29.03.2007.ME,\
+    \ DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/25-2007-520453
+  date: '2007-03-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/208/2002/10/17/p/dre
   label: null
@@ -85,16 +92,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:432449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:276788:por
+  label: "Rectificado pela DECL-RECT.55/2004.21.06.2004.PCM, DR.IS-B [149] de 26.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/55-2004-276788
+  date: '2004-06-21'
 article_structure:
   article_count: 10
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:28:45Z'
   warnings: []
   errors: []
 ---
@@ -219,15 +239,15 @@ As alterações que venham a revelar-se necessárias na dotação máxima de equ
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - José David Gomes Justino.
 
-**Promulgado em 5 de Abril de 2004.**
+Promulgado em 5 de Abril de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Abril de 2004.**
+Referendado em 7 de Abril de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (quadro a que se refere o n.º 1 do artigo 8.º)
 

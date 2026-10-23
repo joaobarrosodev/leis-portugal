@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/36/1997/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1997-571071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:54:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2df9ac108f7564291ba32333c7c131408b0543c68c5e28dd7844a7d8afb1a880
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfdd869916b9c98976e4654068acfa60cc8050f14502534b4058b846fd009bcf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:54:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,47 +66,127 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Nacionalidade
-- Modernização Administrativa
-- Cidadão Estrangeiro
+- Administração Ultramarina
+- Casamento
 - Certidão
+- Cidadão Estrangeiro
 - Código do Registo Civil
 - Cônjuge
 - Conservador
+- Conservatória do Registo Civil
 - Conservatória dos Registos Centrais
 - Definição de Competências
+- Direito Civil
 - Divórcio
 - Documento Autentico
 - Impresso
-- Palop
 - Informatização
-- Administração Ultramarina
+- Modernização Administrativa
+- Nacionalidade
 - Naturalização
-- Registo Civil
-- Casamento
-- Direito Civil
 - Óbito
-- Conservatória do Registo Civil
+- Palop
+- Recurso
+- Registo Civil
 relationships:
 - type: amended_by
   target: pt:dre:70215247:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:516053:por
+  label: "Alterados os arts. 20º, 34º, 82º, 154º, 200º e 212º, do Dec Lei 131/95, de 06-Jun, alterado pelo presente diploma,\
+    \ pelo DEC LEI.228/2001.2001.08.20.MJ,DR.IS-A[192]\02]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-2001-516053
+  date: '2001-08-20'
+- type: amended_by
+  target: pt:dre:621554:por
+  label: "Alterados os arts. 53º, 69º, 84º, 89º, 92.º, 98º, 233º, 235º e 286º, do Códogo de Registo civil , na redacção do\
+    \ presente diploma, pelo DEC LEI.273/2001.2001.10.13.MJ, DR.IS-A [238]\08]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2001-621554
+  date: '2001-10-13'
+- type: amended_by
+  target: pt:dre:538423:por
+  label: Alterado o art 69.º do Código do Registo Civil, aprovado pelo Dec Lei 131/95, de 06-Jun, na redacção do presente
+    diploma, pelo DEC LEI.53/2004.18.03.2004.MJ, DR.IS-A [66] de 18.03.2004, a partir da entrada em vigor prevista no seu
+    art. 13.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2004-538423
+  date: '2004-03-18'
+- type: amended_by
+  target: pt:dre:636447:por
+  label: "Alterados os art.s 11º, 101º e 102º do Dec Lei 131/95, de 06-Jun, na redacção do presente diploma, pelo LEI.29/2007.02.08.2007.AR,\
+    \ DR.IS [148] de 02.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/29-2007-636447
+  date: '2007-08-02'
+- type: amended_by
+  target: pt:dre:642527:por
+  label: "Alterados, sem prejuízo do disposto nos arts. 24º e 25º, os artigos 5.º, 6.º, 10.º, 11.º, 13.º 14.º, 15.º, 17.º,\
+    \ 45.º, 53º, 54.º, 56.º, 63.º, 68.º, 77.º, 81.º, 85.º, 92.º, 101.º, 102.º, 107.º, 111.º, 126.º, 140.º, 154.º, 155.º, 163.º,\
+    \ 177.º, 179.º, 187.º, 192.º, 200.º, 201.º, 209.º, 212.º, 233.º, 258.º, 259.º, 271.º, 286.º, 298.º e 305.º, todos do Código\
+    \ do Registo Civil, aprovado pelo Dec Lei 131/95 de 06-Jun, na redacção do presente diploma, republicado em anexo com\
+    \ a redacção actual, pelo DEC LEI.324/2007.28.09.2007.MJ, DR.IS [188] de 28.09.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2007-642527
+  date: '2007-09-28'
+- type: amended_by
+  target: pt:dre:487360:por
+  label: "Alterados os art.s 69º e 163º do Código do Registo Civil, aprovado pelo Dec Lei 131/95, de 06-Jun, na redacção do\
+    \ presente diploma, pelo DEC LEI.247-B/2008.30.12.2008.MJ, DR.IS [251-Supl] de 30.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-b-2008-487360
+  date: '2008-12-30'
+- type: amended_by
+  target: pt:dre:489737:por
+  label: "Alterado, a partir do dia seguinte ao da publicação do diploma regulamentador da habilitação dos padrinhos, prevista\
+    \ no artigo 12.º, o art. 69º do Código do Registo Civil, aprovado pelo Dec Lei 131/95, de 06-Jun, na redacção do presente\
+    \ diploma, pela LEI.103/2009.11.09.2009.AR, DR.IS [177] de 11.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/103-2009-489737
+  date: '2009-09-11'
+- type: amended_by
+  target: pt:dre:278187:por
+  label: "Alterados os arts. 69º e 123º do Código do Registo Civil, aprovado pelo Dec Lei 131/95, de 06-Jun, na redacção do\
+    \ presente diploma, pela LEI.7/2011.15.03.2011.AR, DR.IS [52] de 15.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-2011-278187
+  date: '2011-03-15'
+- type: amended_by
+  target: pt:dre:70215247:por
+  label: Alterado (a partir de 07.12.2015) o art 69.º do Código do Registo Civil aprovado pelo Dec Lei 131/95 de 06-jun, na
+    redação do presente diploma, pelo(a) Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/143-2015-70215247
+  date: '2015-09-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/131/1995/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/131/1995/06/06/p/dre
+- type: cites
+  target: pt:dre:253436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521238:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:306911:por
+  label: "Rectificado pela Decl-Rect.6-C/97.1997.03.20.PCM DR.IS-A [75]Supl de 1997.03.31,\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/6-c-1997-306911
+  date: '1997-03-20'
 article_structure:
-  article_count: 75
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:54:31Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +239,9 @@ Os artigos 5.º, 6.º, 10.º, 11.º, 13.º, 14.º, 15.º, 17.º, 18.º, 19.º, 2
 
 3 - Para a integração referida no n.º 1, as cópias autênticas ou os duplicados dos assentos devem ser enviados à conservatória competente pelas entidades que os tenham lavrado, por intermédio do ministério de que dependem, dentro do prazo de 15 dias, se outro não for especialmente designado na lei.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -169,7 +251,9 @@ Os artigos 5.º, 6.º, 10.º, 11.º, 13.º, 14.º, 15.º, 17.º, 18.º, 19.º, 2
 
 4 - (Anterior n.º 2.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Compete às conservatórias do registo civil o registo de todos os factos previstos neste Código quando ocorridos em território português, qualquer que seja a nacionalidade dos indivíduos a quem respeitem.
 
@@ -181,7 +265,9 @@ b) De óbito ocorrido no estrangeiro quando o nascimento do falecido se encontre
 
 3 - Compete ainda às conservatórias do registo civil efectuar a integração dos registos referidos no número anterior, se estes tiverem sido lavrados pelos agentes diplomáticos ou consulares portugueses.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Compete à Conservatória dos Registos Centrais lavrar os registos:
 
@@ -207,7 +293,9 @@ i) [Anterior alínea g).]
 
 3 - Compete ainda à Conservatória dos Registos Centrais o registo, por meio de assento, das decisões judiciais que devam ser averbadas a assento de nascimento cujo registo não seja obrigatório.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -215,7 +303,9 @@ i) [Anterior alínea g).]
 
 3 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -237,7 +327,9 @@ f) ...
 
 4 - São anuais os livros de assentos de nascimento, de casamento, de óbito e consulares.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -259,7 +351,9 @@ f) ...
 
 4 - É aplicável aos livros da Conservatória dos Registos Centrais o disposto no n.º 4 do artigo anterior.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Os livros de assentos são constituídos por folhas soltas, formando volumes com o número máximo de 150 folhas.
 
@@ -267,7 +361,9 @@ f) ...
 
 3 - Os assentos podem ser efectuados em suporte informático, nos termos a fixar por portaria do Ministro da Justiça.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -277,7 +373,9 @@ f) ...
 
 4 - A numeração das folhas pode ser feita por processo mecânico e a rubrica por meio de chancela.
 
-###### Artigo 19.º — Verbetes onomásticos
+Artigo 19.º
+
+Verbetes onomásticos
 
 1 - É obrigatória a feitura de verbetes onomásticos por cada espécie de assento, conforme modelo aprovado por portaria do Ministro da Justiça.
 
@@ -287,11 +385,15 @@ f) ...
 
 4 - Os verbetes onomásticos podem ser efectuados em suporte informático.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 Os livros de assentos são encadernados à medida que os volumes se completam e a encadernação deve estar terminada no prazo de 60 dias a contar da data em que tiver sido lavrado ou incorporado o último assento.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -301,7 +403,9 @@ Os livros de assentos são encadernados à medida que os volumes se completam e 
 
 4 - ...
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - Nos assentos de nascimento podem intervir duas testemunhas e nos de casamento entre duas a quatro testemunhas.
 
@@ -311,7 +415,9 @@ Os livros de assentos são encadernados à medida que os volumes se completam e 
 
 4 - ...
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 a) ...
 
@@ -323,7 +429,9 @@ d) ...
 
 e) Os assentos de casamento civil não urgente, celebrado em território português ou realizado no estrangeiro perante agente diplomático ou consular português.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - ...
 
@@ -341,7 +449,9 @@ e) ...
 
 3 - ...
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - ...
 
@@ -349,7 +459,9 @@ e) ...
 
 3 - A integração a que se refere o número anterior é feita mediante a incorporação do duplicado ou cópia autêntica, depois de numerada e rubricada pelo conservador, nos livros previstos na alínea e) do n.º 1 do artigo 14.º ou na alínea d) do n.º 1 do artigo 15.º
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - ...
 
@@ -357,7 +469,9 @@ e) ...
 
 3 - ...
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - ...
 
@@ -371,7 +485,9 @@ e) ...
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - Na sequência do texto dos assentos, além das cotas especiais previstas neste Código, deve constar:
 
@@ -385,7 +501,9 @@ b) [Anterior alínea d).]
 
 4 - A seguir a averbamentos já lavrados, devem ser lançadas cotas de referência à integração ulterior dos assentos dos factos a que respeitam.
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - As declarações de nascimento e de óbito prestadas em conservatória intermediária são reduzidas a auto de modelo aprovado por portaria do Ministro da Justiça.
 
@@ -393,13 +511,17 @@ b) [Anterior alínea d).]
 
 3 - O auto, depois de numerado e anotado no livro diário, é remetido à conservatória competente, acompanhado dos documentos que lhe respeitem, devidamente rubricados.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - As alterações ao conteúdo dos assentos que devam ser registadas são lançadas, na sequência do texto, por meio de averbamento.
 
 2 - Os averbamentos podem ser efectuados em suporte informático, nos termos a fixar por portaria do Ministro da Justiça.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - ...
 
@@ -433,7 +555,9 @@ n) ...
 
 3 - Os factos referidos na alínea h) do n.º 1 são averbados aos assentos de nascimento dos filhos.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - ...
 
@@ -445,7 +569,9 @@ n) ...
 
 5 - Compete às conservatórias do registo civil e à Conservatória dos Registos Centrais dar cumprimento ao disposto nos números antecedentes, relativamente ao averbamento dos factos que constituam objecto dos duplicados de assentos consulares e, bem assim, aos averbamentos que devam ser lançados simultaneamente a estes duplicados e aos originais correspondentes.
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - As dúvidas sobre a localização ou identificação do assento a que o facto deve ser averbado são esclarecidas por ofício, competindo às conservatórias emitente e receptora do respectivo boletim efectuar as diligências necessárias.
 
@@ -459,7 +585,9 @@ n) ...
 
 6 - ...
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - ...
 
@@ -469,11 +597,15 @@ n) ...
 
 4 - ...
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 Nos casos referidos no n.º 2 do artigo anterior, a conservatória que não seja detentora dos assentos de nascimento deve comunicar o facto, por boletim, às conservatórias onde estes assentos se encontrem, depois de efectuado o averbamento ao assento de casamento.
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - ...
 
@@ -483,7 +615,9 @@ Nos casos referidos no n.º 2 do artigo anterior, a conservatória que não seja
 
 4 - Para efeitos do disposto no número anterior, pode ser apresentada certidão do assento consular do casamento ou do óbito ocorrido no estrangeiro, ainda que não integrado nos termos do artigo 5.º
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - A inexistência ou insuficiência de espaço para averbamentos determina a transcrição oficiosa do assento, em livro próprio, com todos os seus averbamentos e cotas de referência, lançando-se em seguida à transcrição os novos averbamentos.
 
@@ -491,13 +625,17 @@ Nos casos referidos no n.º 2 do artigo anterior, a conservatória que não seja
 
 3 - O assento original é cancelado com indicação do número e ano do assento transcrito.
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 1 - A decisão judicial que determine a realização do registo omitido deve fixar concreta e expressamente todos os elementos a levar ao registo, consoante os requisitos legais de cada espécie.
 
 2 - O conservador pode, porém, socorrer-se de outros elementos constantes do processo sempre que haja omissão de alguma menção que, devendo constar do registo, não interesse à substância do facto registado.
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - ...
 
@@ -513,7 +651,9 @@ d) ...
 
 3 - A falta de assinatura do procurador, das testemunhas ou do intérprete não é causa de inexistência do registo, se do contexto constar a sua intervenção ou, tratando-se de assento de casamento, se a anulabilidade do acto celebrado, resultante da falta de intervenção das testemunhas, quando obrigatória, tiver sido sanada.
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - ...
 
@@ -523,7 +663,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - ...
 
@@ -535,7 +677,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - É competente para lavrar o registo a conservatória da área da naturalidade do registando.
 
@@ -543,7 +687,9 @@ d) ...
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 1 - ...
 
@@ -567,7 +713,9 @@ g) ...
 
 4 - ...
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - ...
 
@@ -589,21 +737,29 @@ f) [Anterior alínea e).]
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - ...
 
 2 - A hora, dia, mês e lugar em que o registando foi encontrado são considerados, para fins de registo, como correspondentes à hora, dia, mês e naturalidade, devendo o ano ser determinado em função da idade aparente.
 
-###### Artigo 111.º — [...]
+Artigo 111.º
+
+[...]
 
 Se o nascimento tiver ocorrido em viagem por terra dentro do território nacional, o registo de nascimento pode ser lavrado na conservatória do primeiro lugar sito em território português onde a mãe do registando permanecer por espaço de vinte e quatro horas ou for estabelecer a sua residência, caso em que o prazo para a declaração do nascimento se conta a partir do dia da chegada ao lugar onde a mãe vai residir.
 
-###### Artigo 122.º — [...]
+Artigo 122.º
+
+[...]
 
 Na sequência do assento de nascimento é lançada cota de remessa das certidões a que se referem os artigos 115.º e 121.º
 
-###### Artigo 123.º — [...]
+Artigo 123.º
+
+[...]
 
 1 - ...
 
@@ -615,7 +771,9 @@ Na sequência do assento de nascimento é lançada cota de remessa das certidõe
 
 5 - ...
 
-###### Artigo 126.º — [...]
+Artigo 126.º
+
+[...]
 
 1 - ...
 
@@ -633,13 +791,17 @@ d) ...
 
 4 - Na sequência do assento é lançada cota de referência ao assento de nascimento do filho e, se este já for falecido, ao assento do seu óbito.
 
-###### Artigo 133.º — [...]
+Artigo 133.º
+
+[...]
 
 1 - No caso de assento de perfilhação que deva considerar-se secreto, é lançada na sequência do assento de nascimento do perfilhado cota de referência com a menção do livro, número e ano do respectivo assento.
 
 2 - ...
 
-###### Artigo 140.º — [...]
+Artigo 140.º
+
+[...]
 
 1 - ...
 
@@ -651,7 +813,9 @@ d) ...
 
 5 - No rosto do edital e das cópias são anotadas e rubricadas pelo funcionário as datas do início e termo da afixação, juntando-se, em seguida, o edital ao processo ou remetendo-se as cópias à conservatória competente com os documentos oferecidos para prova dos impedimentos declarados.
 
-###### Artigo 154.º — Intervenientes
+Artigo 154.º
+
+Intervenientes
 
 1 - No acto da celebração do casamento devem estar presentes os nubentes, ou um deles e o procurador do outro, e o conservador.
 
@@ -667,7 +831,9 @@ c) Pela exibição do passaporte ou documento equivalente, se os nubentes forem 
 
 4 - (Anterior n.º 2.)
 
-###### Artigo 155.º — [...]
+Artigo 155.º
+
+[...]
 
 1 - ...
 
@@ -683,7 +849,9 @@ e) ...
 
 2 - ...
 
-###### Artigo 163.º — [...]
+Artigo 163.º
+
+[...]
 
 1 - ...
 
@@ -693,7 +861,9 @@ e) ...
 
 4 - O português residente no estrangeiro que pretenda casar perante as autoridades locais pode requerer a verificação da sua capacidade matrimonial à Conservatória dos Registos Centrais ou aos agentes diplomáticos ou consulares competentes para a organização do processo de publicações para casamento, devendo o duplicado do certificado ser remetido à conservatória a que se refere o número anterior.
 
-###### Artigo 177.º — [...]
+Artigo 177.º
+
+[...]
 
 1 - A sanação in radice do casamento católico nulo, mas transcrito, é averbada ao assento respectivo, mediante comunicação do pároco, feita no interesse dos cônjuges e com o consentimento do ordinário do lugar da celebração.
 
@@ -701,11 +871,15 @@ e) ...
 
 3 - ...
 
-###### Artigo 179.º — [...]
+Artigo 179.º
+
+[...]
 
 O casamento católico celebrado entre cônjuges já vinculados entre si por casamento civil anterior não dissolvido é averbado oficiosamente ao assento deste em face de duplicado ou certidão do assento paroquial, enviada pelo pároco ou a requerimento dos interessados, independentemente do processo de publicações.
 
-###### Artigo 181.º — [...]
+Artigo 181.º
+
+[...]
 
 a) ...
 
@@ -723,7 +897,9 @@ g) ...
 
 h) A menção à forma como foi verificada a identidade dos nubentes ou o nome completo e residência das testemunhas.
 
-###### Artigo 186.º — [...]
+Artigo 186.º
+
+[...]
 
 1 - Lavrado o assento consular, o cônsul deve enviar à conservatória competente o respectivo duplicado.
 
@@ -737,7 +913,9 @@ h) A menção à forma como foi verificada a identidade dos nubentes ou o nome c
 
 6 - Nos casos de assentos transferidos para arquivo central ou remetidos a arquivo nacional, a competência atribuída à conservatória detentora do assento de nascimento considera-se referida à conservatória onde o assento foi lavrado.
 
-###### Artigo 187.º — [...]
+Artigo 187.º
+
+[...]
 
 1 - O casamento cujo assento não tenha sido lavrado pelo competente agente diplomático ou consular pode ser directamente transcrito na conservatória competente, em face de qualquer dos seguintes documentos:
 
@@ -751,19 +929,25 @@ b) ...
 
 4 - A prova da prévia organização do processo de publicações, quando este não tenha sido organizado na conservatória competente para a transcrição, ou quando a esta não tenha sido enviado o duplicado previsto nos n.os 3 e 4 do artigo 163.º, deve ser feita mediante a apresentação de certidão ou cópia autentica do respectivo certificado.
 
-###### Artigo 190.º — [...]
+Artigo 190.º
+
+[...]
 
 1 - ...
 
 2 - ...
 
-###### Artigo 192.º — [...]
+Artigo 192.º
+
+[...]
 
 1 - ...
 
 2 - O prazo para a declaração conta-se, conforme os casos, do momento em que ocorrer o falecimento, for encontrado ou autopsiado o cadáver, da dispensa da autópsia ou daquele em que for recebida a cópia ou o duplicado da guia de enterramento emitida por autoridade policial.
 
-###### Artigo 200.º — [...]
+Artigo 200.º
+
+[...]
 
 1 - ...
 
@@ -777,7 +961,9 @@ b) ...
 
 6 - Sempre que o assento de nascimento tenha sido transferido para arquivo central ou remetido a arquivo nacional é aplicável o disposto no n.º 6 do artigo 186.º
 
-###### Artigo 201.º — [...]
+Artigo 201.º
+
+[...]
 
 1 - ...
 
@@ -797,7 +983,9 @@ e) Cemitério onde o falecido vai ser ou foi sepultado.
 
 4 - ...
 
-###### Artigo 209.º — Depósito do certificado médico de morte fetal
+Artigo 209.º
+
+Depósito do certificado médico de morte fetal
 
 1 - Sempre que ocorrer morte fetal com tempo de gestação de 22 semanas ou superior deve ser apresentado e depositado na conservatória do registo civil competente o respectivo certificado médico para fins de arquivo e registo no ficheiro geral.
 
@@ -819,7 +1007,9 @@ e) Cemitério onde vai ser ou foi sepultado.
 
 5 - O certificado médico de morte fetal e o auto respectivo são arquivados em maço próprio.
 
-###### Artigo 212.º — [...]
+Artigo 212.º
+
+[...]
 
 1 - ...
 
@@ -829,7 +1019,9 @@ e) Cemitério onde vai ser ou foi sepultado.
 
 4 - As certidões de registos que contenham menções discriminatórias de filiação são obrigatoriamente dactilografadas, com eliminação das referidas menções, seja qual for a espécie e o fim a que se destinem, excepto se o registado, ou quem o representar, requerer por escrito certidão por fotocópia do respectivo assento.
 
-###### Artigo 213.º — [...]
+Artigo 213.º
+
+[...]
 
 1 - ...
 
@@ -839,7 +1031,9 @@ e) Cemitério onde vai ser ou foi sepultado.
 
 4 - As certidões extraídas de registo que enferme de qualquer irregularidade ou deficiência ainda não sanada devem mencionar por forma bem visível, na respectiva certificação, as irregularidades ou deficiências que o viciam.
 
-###### Artigo 218.º — [...]
+Artigo 218.º
+
+[...]
 
 1 - Em seguida à feitura de assentos de nascimento, de casamento, de óbito ou de depósito do certificado médico de morte fetal, deve ser passado, gratuitamente, e entregue aos interessados, o respectivo boletim, em impresso de modelo aprovado por portaria do Ministro da Justiça.
 
@@ -851,7 +1045,9 @@ e) Cemitério onde vai ser ou foi sepultado.
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 219.º — [...]
+Artigo 219.º
+
+[...]
 
 1 - ...
 
@@ -867,7 +1063,9 @@ e) Cemitério onde vai ser ou foi sepultado.
 
 7 - Os boletins são assinados pelo conservador ou por ajudante ou por funcionário consular.
 
-###### Artigo 233.º — [...]
+Artigo 233.º
+
+[...]
 
 1 - O processo de justificação judicial é o meio próprio para proceder ao suprimento da omissão do registo, bem como à declaração da sua inexistência jurídica ou da sua nulidade.
 
@@ -877,7 +1075,9 @@ e) Cemitério onde vai ser ou foi sepultado.
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 235.º — [...]
+Artigo 235.º
+
+[...]
 
 1 - ...
 
@@ -889,7 +1089,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 258.º — [...]
+Artigo 258.º
+
+[...]
 
 1 - A sanação da anulabilidade do casamento celebrado sem intervenção de testemunhas, quando obrigatória, deve ser requerida pelos interessados, em petição dirigida ao Ministro da Justiça, por intermédio da conservatória detentora do respectivo assento.
 
@@ -897,15 +1099,21 @@ b) ...
 
 3 - ...
 
-###### Artigo 259.º — Remessa
+Artigo 259.º
+
+Remessa
 
 Organizado e instruído o processo, o conservador, depois de nele emitir parecer sobre a atendibilidade do pedido, remete-o à Direcção-Geral dos Registos e do Notariado.
 
-###### Artigo 260.º — [...]
+Artigo 260.º
+
+[...]
 
 A Direcção-Geral dos Registos e do Notariado, depois de examinar o processo e ordenar as diligências eventualmente necessárias à sua completa instrução, apresenta-o a despacho ministerial.
 
-###### Artigo 270.º — [...]
+Artigo 270.º
+
+[...]
 
 1 - ...
 
@@ -919,13 +1127,17 @@ c) ...
 
 3 - Quando não haja processo a correr em qualquer conservatória do registo civil é competente para a passagem do certificado a Conservatória dos Registos Centrais.
 
-###### Artigo 271.º — [...]
+Artigo 271.º
+
+[...]
 
 1 - O processo de divórcio ou de separação de pessoas e bens é instaurado mediante requerimento assinado pelos cônjuges ou seus procuradores.
 
 2 - É competente a conservatória do registo civil da área da residência de qualquer dos cônjuges ou outra por ambos expressamente designada.
 
-###### Artigo 275.º — [...]
+Artigo 275.º
+
+[...]
 
 1 - ...
 
@@ -933,7 +1145,9 @@ c) ...
 
 3 - Com a petição devem ser apresentadas certidões de cópia integral do assento de nascimento do registado e do auto a que se refere o n.º 2 do artigo 119.º, certidão de narrativa do assento de casamento da requerente e oferecidas todas as provas.
 
-###### Artigo 286.º — [...]
+Artigo 286.º
+
+[...]
 
 1 - ...
 
@@ -947,7 +1161,9 @@ c) ...
 
 6 - No caso previsto no número anterior, o processo é instruído com o recurso hierárquico.
 
-###### Artigo 298.º — [...]
+Artigo 298.º
+
+[...]
 
 1 - Aos funcionários do registo civil compete preencher, logo após a realização do registo ou do depósito, os verbetes estatísticos demográficos relativos aos assentos de nascimento, casamento e óbito e ao depósito de morte fetal.
 
@@ -957,7 +1173,9 @@ c) ...
 
 4 - Nas conservatórias intermediárias são preenchidos verbetes provisórios dos nascimentos, óbitos e do depósito do certificado médico de morte fetal aí declarados, os quais devem ser enviados, com os autos de declaração, às conservatórias competentes.
 
-###### Artigo 305.º — [...]
+Artigo 305.º
+
+[...]
 
 1 - ...
 
@@ -1017,12 +1235,12 @@ O disposto nos n.os 2 do artigo 10.º, 2 do artigo 187.º e 5 do artigo 200.º d
 
 Visto e aprovado em Conselho de Ministros de 21 de Novembro de 1996. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Alberto Bernardes Costa - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 13 de Janeiro de 1997.**
+Promulgado em 13 de Janeiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Janeiro de 1997.**
+Referendado em 15 de Janeiro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

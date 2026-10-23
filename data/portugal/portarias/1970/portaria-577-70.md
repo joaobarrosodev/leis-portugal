@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/577-1970-147238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57d2f44fed964265bd94dd6881be4ebde11170a501fdee2a6e106837c93704d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfa36a4be87c380b8afb9d1ab06e4a1eb8d9477546824d9daf01c40cf6ddebbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:140276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234955:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:18Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +115,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 2.º Abra um crédito especial de 337357510$00 destinado a reforçar com as quantias que vão designadas as seguintes verbas da referida tabela orçamental de despesa:
 
-### Capítulo 12.º, artigo 1473.º «III Plano de Fomento - Programa de execução para 1970»:
+Capítulo 12.º, artigo 1473.º «III Plano de Fomento - Programa de execução para 1970»:
 
 1) Agricultura, silvicultura e pecuária:
 
@@ -181,7 +201,7 @@ Administração provincial:
 
 Tomada de obrigações de fomento, cuja emissão foi autorizada pelo [Decreto n.º 242/70](https://diariodarepublica.pt/dr/detalhe/decreto/242-1970-142486), de 27 de Maio de 1970 ... 50000000$00
 
-# Parte do empréstimo do Banco de Angola, autorizado pelo [Decreto n.º 317/70](https://diariodarepublica.pt/dr/detalhe/decreto/317-1970-140276), de 9 de Julho de 1970 ... 200000000$00
+Parte do empréstimo do Banco de Angola, autorizado pelo [Decreto n.º 317/70](https://diariodarepublica.pt/dr/detalhe/decreto/317-1970-140276), de 9 de Julho de 1970 ... 200000000$00
 
 ... 250000000$00
 

@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24456-1969-217347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 911d196431a551bb294a0ac2f55076b8820a4b0c6fddc65fd53cf1b599adc150
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 814e76da8c321b4afe5ca8169f76b864ad9277877d9fb60604f2b175fdfa744b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aveiro
+- Junta Autónoma do Porto de Aveiro
+- Junta Autónoma dos Portos
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:383042:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:680804:por
+  label: "Mantidas em vigor, com as alterações as tarifas provisórias aprovadas pela Portaria 15601, de 08 de Novembro de\
+    \ 1955, na redacção do presente diploma, pela PORT.266/72.12.05.1972.MCOMN, DG.IS [112] de 12.05.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/266-1972-680804
+  date: '1972-05-12'
+- type: amended_by
+  target: pt:dre:383042:por
+  label: "Alteradas as tarifas provisórias aprovadas pela Portaria 15601, de 08 de Novembro de 1955, na redacção do presente\
+    \ diploma, pela PORT.223/79.08.05.1979.MTC, DR.IS [105] de 08.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/223-1979-383042
+  date: '1979-05-08'
+- type: cites
+  target: pt:dre:247689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:47Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +121,9 @@ Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, de h
 
 ### CAPÍTULO V — Defensas
 
-###### Art. 31.º-B. Pela utilização de defensas móveis, da Junta, de qualquer tipo, cobra-se, por defensa e período de vinte e quatro horas indivisível, a taxa de 50$00.
+Art. 31.º-B. Pela utilização de defensas móveis, da Junta, de qualquer tipo, cobra-se, por defensa e período de vinte e quatro horas indivisível, a taxa de 50$00.
 
-###### Art. 31.º-C. Pela utilização de defensas da Junta, fixas às obras acostáveis, de qualquer tipo, cobram-se as taxas que se seguem, correspondentes a períodos indivisíveis de vinte e quatro horas:
+Art. 31.º-C. Pela utilização de defensas da Junta, fixas às obras acostáveis, de qualquer tipo, cobram-se as taxas que se seguem, correspondentes a períodos indivisíveis de vinte e quatro horas:
 
 a) Navios até 50 m de comprimento de fora a fora ... 50$00
 
@@ -117,9 +141,9 @@ d) Navios até 200 m de comprimento de fora a fora ... 200$00
 
 ### CAPÍTULO II — Utilização de embarcações com motor
 
-###### Art. 63.º ...
+Art. 63.º ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/12/28500/17271728.pdf))](https://files.diariodarepublica.pt/1s/1969/12/28500/17271728.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/12/28500/17271728.pdf)
 
 ...
 
@@ -127,7 +151,7 @@ d) Navios até 200 m de comprimento de fora a fora ... 200$00
 
 ...
 
-###### Art. 63.º-F. Cobra-se a taxa de 1$00 por cada pesagem efectuada em balanças da Junta.
+Art. 63.º-F. Cobra-se a taxa de 1$00 por cada pesagem efectuada em balanças da Junta.
 
 § único. Entende-se por pesagem - tanto no caso das básculas como no das balanças - a operação ou conjunto de operações mediante a qual, ou as quais, se avalia um peso que se pretende determinar.
 
@@ -135,7 +159,7 @@ d) Navios até 200 m de comprimento de fora a fora ... 200$00
 
 ### CAPÍTULO VI — Entrada em recintos reservados
 
-###### Art. 66.º-A. Pela entrada em recintos reservados do porto de Aveiro - com excepção dos do porto de pesca costeira - cobram-se as taxas seguintes, por cada entrada:
+Art. 66.º-A. Pela entrada em recintos reservados do porto de Aveiro - com excepção dos do porto de pesca costeira - cobram-se as taxas seguintes, por cada entrada:
 
 a) Por pessoa ... $50
 
@@ -161,11 +185,11 @@ i) Por atrelado ou reboque ... 5$00
 
 § 3.º A comissão administrativa, por intermédio da direcção do porto, pode conceder isenções de pagamento das taxas referidas no corpo deste artigo a pessoas e entidades estranhas à actividade portuária.
 
-###### Art. 66.º-B. Podem ser concedidas avenças anuais, para entrada nos recintos reservados, sendo aquelas determinadas pela multiplicação das taxas do artigo anterior pelo factor 150.
+Art. 66.º-B. Podem ser concedidas avenças anuais, para entrada nos recintos reservados, sendo aquelas determinadas pela multiplicação das taxas do artigo anterior pelo factor 150.
 
-###### Art. 66.º-C. Estão isentos do pagamento das taxas do artigo 66.º-A todos os agentes das autoridades e das entidades com jurisdição nos locais reservados, os passageiros e os tripulantes das embarcações e todo o pessoal operário empregado no tráfego, estiva e e desestiva de mercadorias e em quaisquer obras a realizar em terra e nas embarcações.
+Art. 66.º-C. Estão isentos do pagamento das taxas do artigo 66.º-A todos os agentes das autoridades e das entidades com jurisdição nos locais reservados, os passageiros e os tripulantes das embarcações e todo o pessoal operário empregado no tráfego, estiva e e desestiva de mercadorias e em quaisquer obras a realizar em terra e nas embarcações.
 
-###### Art. 66.º-D. A comissão administrativa da Junta determinará, caso por caso, os recintos reservados nos quais se aplicarão as taxas do artigo 66.º-A e as datas para início da sua aplicação ou da sua cessação.
+Art. 66.º-D. A comissão administrativa da Junta determinará, caso por caso, os recintos reservados nos quais se aplicarão as taxas do artigo 66.º-A e as datas para início da sua aplicação ou da sua cessação.
 
 ...
 
@@ -173,7 +197,7 @@ i) Por atrelado ou reboque ... 5$00
 
 ...
 
-###### Art. 86.º-J. Para a afixação de anúncios, reclamos e letreiros:
+Art. 86.º-J. Para a afixação de anúncios, reclamos e letreiros:
 
 a) Nas zonas portuárias: Taxas por metro quadrado e por ano, indivisíveis, a fixar pela comissão administrativa, tendo em atenção os locais, os interesses em jogo, as características dos anúncios, reclamos e letreiros e os custos correntes de publicidade e propaganda;
 

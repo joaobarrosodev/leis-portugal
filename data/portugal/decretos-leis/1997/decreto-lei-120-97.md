@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/113a00/24212433.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/120/1997/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1997-396754
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3164dd246b2fae20e91293e34ab3221790c056f65ddf192ee057b318d8978ebe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fb5873d12d29f725d13b92460055821e700605c2a38e4eaf2da685f5abb584f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Biblioteca da Ajuda
-- Pessoal Dirigente
-- Imóvel Classificado
 - Comissão de Fiscalização
+- Conselho Consultivo
 - Convento de Cristo
 - Direcção Geral do Património
 - Direcção Geral dos Edifícios e Monumentos Nacionais
 - Estação Arqueológica de Miróbriga
-- Património Cultural
 - Fortaleza de Sagres
-- Presidência da República
-- Conselho Consultivo
+- Imóvel Classificado
 - Instituto Português de Arqueologia
 - Inventário do Património Cultural
 - Mosteiro de Alcobaça
@@ -85,16 +82,41 @@ subjects:
 - Mosteiro de São João de Tarouca
 - Orgânica
 - Paço dos Duques
-- Zona de Proteção
+- Património Cultural
+- Pessoal Dirigente
+- Presidência da República
 - Presidente
 - Quadro de Pessoal
 - Vice-presidente
 - Vogal
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:520449:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:520436:por
+  label: "Determinado que a Biblioteca Nacional de Portugal suceda nas atribuições do Instituto Português do Património Arquitectónico\
+    \ relativos à Biblioteca da Ajuda, cuja orgânica foi aprovada pelo presente diploma, pelo DEC LEI.90/2007.29.03.2007.MC,\
+    \ DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2007-520436
+  date: '2007-03-29'
+- type: amended_by
+  target: pt:dre:520449:por
+  label: "Determinado que o Conselho Nacional de Cultura, suceda nas competências do conselhos consultivos do Instituto Português\
+    \ do Património Arquitectónico, cuja orgânica foi aprovada pelo presente diploma, pelo DR.35/2007.29.03.2007.MC, DR.IS\
+    \ [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/35-2007-520449
+  date: '2007-03-29'
+- type: amended_by
+  target: pt:dre:520450:por
+  label: "Transferidos do IPPAR, cuja orgânica e competências constam do presente diploma, para o Instituto dos Museus e da\
+    \ Conservação (IMC) os seguintes serviços dependentes: Palácio Nacional da Ajuda, Palácio Nacional de Mafra, Palácio Nacional\
+    \ de Queluz, Palácio Nacional da Pena, Palácio Nacional de Sintra e o Paço dos Duques, pelo DEC LEI.97/2007.29.03.2007.MC,\
+    \ DR.IS [63] de 29.03.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2007-520450
+  date: '2007-03-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-f/1992/06/01/p/dre
   label: null
@@ -115,16 +137,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/decpresrep/5/1991/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/decpresrep/5/1991/01/23/p/dre
+- type: cites
+  target: pt:dre:241227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575290:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520437:por
+  label: "Revogado e determinado que o Instituto de Gestão do Património Arquitectónico e Arqueológico suceda nas atribuições\
+    \ do Instituto Português do Património Arquitectónico, com excepção das atribuições cometidas às respectivas direcções\
+    \ regionais e das atribuições relativas à gestão dos serviços dependentes transferidos para o Instituto Português dos\
+    \ Museus e da Conservação, cuja orgânica foi aprovada pelo presente diploma, peloDEC LEI.96/2007.29.03.2007.MC, DR.IS\
+    \ [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-2007-520437
+  date: '2007-03-29'
 article_structure:
   article_count: 40
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:04Z'
   warnings: []
   errors: []
 ---
@@ -717,7 +784,9 @@ h) Manter actualizados os ficheiros de legislação, jurisprudência e doutrina 
 
 i) Elaborar e analisar contratos e protocolos realizados no âmbito da actuação do IPPAR.
 
-###### Artigo 22.º — Divisão de Documentação e Arquivo
+###### Artigo 22.º
+
+##### Divisão de Documentação e Arquivo
 
 À Divisão de Documentação e Arquivo incumbe, em especial:
 
@@ -977,15 +1046,15 @@ O presente diploma entra em vigor no dia imediato ao da respectiva publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - Fernando Teixeira dos Santos - João Cardona Gomes Cravinho - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 26 de Abril de 1997.**
+Promulgado em 26 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Abril de 1997.**
+Referendado em 28 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Lista dos serviços dependentes, a que se refere o n.º 2 do artigo 8.º
 
@@ -1027,4 +1096,4 @@ Biblioteca da Ajuda.
 
 ## ANEXO II — Quadro de pessoal dirigente do IPPAR, a que se refere o artigo 33.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/113a00/24212433.pdf))](https://files.diariodarepublica.pt/1s/1997/05/113a00/24212433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/113a00/24212433.pdf)

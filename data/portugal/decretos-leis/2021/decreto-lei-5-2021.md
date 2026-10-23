@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/00600/0000700012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/5/2021/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2021-153519406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e32c6d113c017806f9b1c017ab2d626a786defa7b8a6dfb0e18d0c7469f50dba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32d24d7a8609a13670373877fbf5e57097b3144834696ec9ed9f28ef5b8e0428
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,38 +67,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Imóveis
-- BENS Imóveis
-- Património
-- Instituto do Emprego e Formação Profissional
-- Cessão de Imóveis
 - Arrendamento Urbano não Habitacional
+- BENS Imóveis
+- BENS Imóveis do Estado
+- Cessão de Imóveis
+- Coimbra
 - Definição de Competências
 - Direção Geral do Tesouro e Finanças
 - Domínio Privado do Estado
-- Universidade NOVA de Lisboa
-- Universidade do Algarve
-- BENS Imóveis do Estado
+- Ensino Superior
+- Estabelecimento de Ensino
+- Fundo Nacional de Reabilitação do Edificado
 - Gestão do Património
-- Universidade de Lisboa
+- Instituto do Emprego e Formação Profissional
 - Instituto Politécnico
 - Instituto Público
 - Leiria
 - Oneração de Imóveis
+- Organismo Internacional
 - País Estrangeiro
+- Património
 - Património do Estado
-- Coimbra
-- Estabelecimento de Ensino
+- Polícia Judiciária
+- Prédio Urbano
 - Propriedade Imobiliária
 - Receita
 - Registo Predial
-- Polícia Judiciária
-- Ensino Superior
 - Residência de Estudantes
-- Prédio Urbano
-- Organismo Internacional
 - Universidade de Coimbra
+- Universidade de Lisboa
+- Universidade do Algarve
+- Universidade NOVA de Lisboa
 - Venda de Imóveis
-- Fundo Nacional de Reabilitação do Edificado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/280/2007/08/07/p/dre
@@ -112,16 +112,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: pt:dre:120272925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:46Z'
   warnings: []
   errors: []
 ---
@@ -198,29 +210,29 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de dezembro de 2020. - António Luís Santos da Costa - Eurico Jorge Nogueira Leite Brilhante Dias - João Rodrigo Reis Carvalho Leão - Francisca Eugénia da Silva Dias Van Dunem - Alexandra Ludomila Ribeiro Fernandes Leitão - Manuel Frederico Tojal de Valsassina Heitor - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 30 de dezembro de 2020.**
+Promulgado em 30 de dezembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de janeiro de 2021.**
+Referendado em 4 de janeiro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — [a que se referem as alíneas a) a c) do n.º 1 do artigo 3.º e o artigo 4.º]
 
 TABELA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/00600/0000700012.pdf))](https://files.diariodarepublica.pt/1s/2021/01/00600/0000700012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/00600/0000700012.pdf)
 
 TABELA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/00600/0000700012.pdf))](https://files.diariodarepublica.pt/1s/2021/01/00600/0000700012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/00600/0000700012.pdf)
 
 TABELA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/00600/0000700012.pdf))](https://files.diariodarepublica.pt/1s/2021/01/00600/0000700012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/00600/0000700012.pdf)
 
 ## ANEXO II — (a que se refere o artigo 5.º)
 
@@ -230,4 +242,6 @@ TABELA III
 
 Imóveis a integrar no Fundo Nacional de Reabilitação do Edificado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/00600/0000700012.pdf))](https://files.diariodarepublica.pt/1s/2021/01/00600/0000700012.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/00600/0000700012.pdf)»
+
+113861111

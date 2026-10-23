@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/24800/0000300009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/105/2020/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2020-152015940
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eea62bcd66f34924381d3071e23e93315af3c3dfc256ed217c657ba749f59877
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3d2f646b71fb08af2a8f6ff3387b43a233e39b829ef6b3701a4894e1215ca3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ACTO Extrajudicial
-- Insolvência
+- Agência para a Modernização Administrativa
 - Arbitragem
-- Mediação do Crédito
-- Dívida
+- Conciliador do SISPACSE
 - Contribuições e Impostos
 - Crédito
+- Custas Judiciais
+- Dados Pessoais
+- Desemprego
 - Direção Geral da Política de Justiça
+- Dívida
 - Doença Infecciosa
 - Epidemia
-- Desemprego
-- Agência para a Modernização Administrativa
-- Segredo Profissional
-- Dados Pessoais
-- Custas Judiciais
+- Insolvência
+- Mediação do Crédito
 - Plataforma Eletrónica
+- Segredo Profissional
 - Sistema Público de Apoio à Conciliação no Sobre-Endividamento
-- Conciliador do SISPACSE
 relationships:
 - type: cites
   target: celex:32016R0679
@@ -128,16 +128,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/43/2011/10/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/43/2011/10/25/p/dre
+- type: cites
+  target: pt:dre:114937034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135391594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:35Z'
   warnings: []
   errors: []
 ---
@@ -354,12 +394,14 @@ O presente decreto-lei entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de novembro de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - João Rodrigo Reis Carvalho Leão - Francisca Eugénia da Silva Dias Van Dunem - Alexandra Ludomila Ribeiro Fernandes Leitão.
 
-**Promulgado em 16 de dezembro de 2020.**
+Promulgado em 16 de dezembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 17 de dezembro de 2020.**
+Referendado em 17 de dezembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113827724

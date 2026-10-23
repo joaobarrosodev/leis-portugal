@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/248/2012/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2012-190872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a520cb20b1966f6e6deaa69ea02df63c411892a9064cd7686eebe282bdb62c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1053f6e11d5e0786431111c17c3aa5a503af775cb970997c524bd01074f4074c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
+- Autoridade Nacional de Protecção Civil
+- Bombeiro
+- Carreira Profissional
 - Conselho Nacional de Bombeiros
 - Definição de Competências
-- Carreira Profissional
-- Veículo
-- Bombeiro
+- Formação Profissional
 - Quadro de Pessoal
 - Recenseamento Nacional dos Bombeiros Portugueses
 - Regime Jurídico
-- Autoridade Nacional de Protecção Civil
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:117142869:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117142869:por
+  label: Alterado o art. 17.º do Dec Lei 247/2007 de 27-jun, na versão alterada e republicada pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 103/2018 - Diário da República n.º 230/2018, Série I de 2018-11-29, com efeitos a 01.01.2019 e nos termos
+    do disposto nos n.ºs 1 e 2 do seu art. 6.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-2018-117142869
+  date: '2018-11-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/2007/06/27/p/dre
   label: null
@@ -93,16 +100,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/41/1997/10/07/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/41/1997/10/07/p/dre
+- type: cites
+  target: pt:dre:616186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667281:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:257041:por
+  label: "Retificado o art. 2º [na parte em que altera os arts. 5º e 10º do Dec Lei 247/2007 de 27-jun] pela DECL-RECT.4/2013.18.01.2013.PCM,\
+    \ DR.IS [13] de 18.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/4-2013-257041
+  date: '2013-01-18'
 article_structure:
-  article_count: 53
+  article_count: 38
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:41Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +202,9 @@ d) Associação Nacional de Bombeiros Profissionais.
 
 10 - Os bombeiros pertencentes a um corpo de bombeiros detido por uma associação humanitária de bombeiros, que seja extinto, podem ser afetos a outros corpos de bombeiros, nos termos a definir por despacho do presidente da ANPC.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -191,7 +218,9 @@ b) Se existirem vários corpos de bombeiros voluntários no mesmo município, as
 
 4 - Fora dos casos previstos no número anterior, havendo no mesmo município vários corpos de bombeiros voluntários ou mistos detidos pelas associações humanitárias, a responsabilidade de atuação prioritária cabe ao corpo de bombeiros da respetiva área de atuação, ainda que exista intervenção conjunta de outros corpos de bombeiros, sem prejuízo de eventual primeira intervenção de algum dos outros em benefício da rapidez e prontidão do socorro.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -207,7 +236,9 @@ d) ...
 
 3 - As câmaras municipais dão conhecimento à ANPC dos regulamentos internos e dos quadros de pessoal dos respetivos corpos de bombeiros.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os quadros dos corpos de bombeiros profissionais e mistos detidos pelos municípios, bem como dos corpos privativos de bombeiros, estruturam-se de acordo com o regime a definir em diploma próprio.
 
@@ -229,7 +260,9 @@ d) ...
 
 6 - O quadro de honra é constituído pelos elementos com 40 ou mais anos de idade que, com zelo, dedicação, disponibilidade e abnegação, exerceram funções ou prestaram serviço efetivo durante 15 ou mais anos, sem qualquer punição disciplinar nos últimos três anos, nos quadros de comando ou ativo de um corpo de bombeiros, e ainda aqueles que, independentemente da idade e do tempo de serviço prestado, adquiriram incapacidade por doença ou acidente ocorrido em serviço ou tenham prestado serviços de caráter relevante à causa dos bombeiros.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -241,7 +274,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Os bombeiros voluntários dos quadros de comando e ativo dos corpos de bombeiros voluntários e mistos podem encontrar-se nas situações de atividade ou inatividade.
 
@@ -261,7 +296,9 @@ c) ...
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A estrutura do quadro de comando nos corpos mistos e voluntários detidos pelas associações humanitárias de bombeiros é composta por:
 
@@ -287,7 +324,9 @@ b) Nos corpos de bombeiros voluntários ou mistos de tipo 2, por um comandante, 
 
 c) Nos corpos de bombeiros voluntários ou mistos de tipo 1, por um comandante, um 2.º comandante e três adjuntos.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O quadro ativo compreende as seguintes carreiras:
 
@@ -303,7 +342,9 @@ c) Carreira de bombeiro especialista.
 
 4 - À carreira de bombeiro especialista correspondem funções especializadas de apoio e socorro.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -333,7 +374,9 @@ c) Colaborar nas diversas atividades desenvolvidas pelo corpo de bombeiros, comp
 
 11 - O tempo decorrido na situação de reserva não é considerado para efeitos de contagem de tempo de serviço.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Podem ingressar no quadro de honra, no cargo que detinham, os elementos do quadro de comando que:
 
@@ -375,7 +418,9 @@ c) [Anterior alínea c) do n.º 4.]
 
 10 - Os elementos do quadro de honra não podem solicitar o seu regresso ao quadro ativo, podendo, no entanto, ser nomeados para a estrutura de comando.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Podem ser criadas forças conjuntas, constituídas por elementos pertencentes a diferentes corpos de bombeiros, cujas áreas de atuação sejam contíguas, com o objetivo de desenvolverem a sua atividade de forma partilhada.
 
@@ -383,7 +428,9 @@ c) [Anterior alínea c) do n.º 4.]
 
 3 - O regime da criação, funcionamento e comando das forças conjuntas é aprovado por portaria do membro do Governo responsável pela área da proteção civil.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A instrução do pessoal dos corpos de bombeiros é ministrada sob a direção e orientação do comandante, de acordo com programa previamente estabelecido e aprovado pela ANPC, ouvidos a Escola Nacional de Bombeiros, enquanto autoridade pedagógica da formação, e o Conselho Nacional de Bombeiros.
 
@@ -391,7 +438,9 @@ c) [Anterior alínea c) do n.º 4.]
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Os elementos do quadro de comando e do quadro ativo, que se encontrem na situação de atividade, têm direito à formação adequada para o exercício da missão de socorro e ainda à frequência de cursos, colóquios, seminários e outras ações destinadas ao aperfeiçoamento técnico.
 
@@ -411,13 +460,17 @@ d) Formação de quadro de comando, destinada a habilitar os elementos nomeados 
 
 5 - Compete à ANPC assegurar as ações de formação necessárias ao ingresso nas estruturas de comando, ao ingresso e acesso na carreira de oficial bombeiro, ao acesso na carreira de bombeiro e ao ingresso na carreira de bombeiro especialista.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
 2 - Os corpos de bombeiros, através da sua entidade detentora, devem manter permanentemente atualizada no Recenseamento Nacional dos Bombeiros Portugueses, por via informática, a informação sobre os seus quadros ativo, de reserva e de honra, com base nos elementos fornecidos pelo comandante.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -449,7 +502,9 @@ Agrupamentos
 
 4 - O regime da criação, funcionamento, comando e financiamento dos agrupamentos de corpos de bombeiros é aprovado por portaria do membro do Governo responsável pela área da proteção civil.
 
-###### Artigo 19.º-A — Dispositivo operacional dos corpos de bombeiros
+Artigo 19.º-A
+
+Dispositivo operacional dos corpos de bombeiros
 
 É definido por portaria do membro do Governo responsável pela área da proteção civil o dispositivo operacional dos corpos de bombeiros, para efeitos de coordenação, comando e controlo, em articulação com a ANPC e as câmaras municipais das áreas de atuação envolvidas.»
 
@@ -465,15 +520,15 @@ Agrupamentos
 
 Visto e aprovado em Conselho de Ministros de 27 de setembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Bento Martins Costa Macedo e Silva - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 12 de novembro de 2012.**
+Promulgado em 12 de novembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de novembro de 2012.**
+Referendado em 15 de novembro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 5.º)
 

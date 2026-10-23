@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/06/13800/08720874.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23429-1968-272394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c89042054d1a4a098ecc56328dad9aed6f227048ec7580d739595b0ec78beed3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b14c2a4736ed9239045f650859ddcb54087d91f57a9b475512ee6f8a8687d1f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,21 @@ relationships:
   target: pt:dre:406289:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:406289:por
+  label: "Revogada pela PORT.46-A/94.17.01.1994.MAI, DR.IS-B [13]Supl de 17.01.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/46-a-1994-406289
+  date: '1994-01-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:47Z'
   warnings: []
   errors: []
 ---
@@ -150,11 +155,11 @@ Ministério das Comunicações, 11 de Junho de 1968. - O Ministro das Comunicaç
 
 A) SINAIS DE PERIGO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/06/13800/08720874.pdf))](https://files.diariodarepublica.pt/1s/1968/06/13800/08720874.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/06/13800/08720874.pdf)
 
 B) SINAIS DE PROIBIÇÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/06/13800/08720874.pdf))](https://files.diariodarepublica.pt/1s/1968/06/13800/08720874.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/06/13800/08720874.pdf)
 
 C) SINAIS DE OBRIGAÇÃO
 
@@ -162,6 +167,6 @@ C) SINAIS DE OBRIGAÇÃO
 
 D) SINAIS DE INFORMAÇÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/06/13800/08720874.pdf))](https://files.diariodarepublica.pt/1s/1968/06/13800/08720874.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/06/13800/08720874.pdf)
 
 Ministério das Comunicações, 11 de Junho de 1968. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

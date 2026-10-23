@@ -53,18 +53,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13/2010/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2010-609369
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec8e7ae648e1a5e829965fbf644434aca7964f743c2505165ae4ef46cc679203
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bb01463528568a210035dc55549152e860096af63bd179f5039aef8fe428019
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,17 +73,53 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Produto Biocida
-- Saúde Pública
+- Comércio
 - Normas de Segurança
+- Produto Biocida
 - Produto Farmacêutico
 - Regime Jurídico
-- Comércio
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:114177787:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:307850:por
+  label: "Alterado o anexo I do Dec Lei 121/2002 de 03-Mai, alterado pelo presente diploma, pelo DEC LEI.112/2010.20.10.2010.MS,\
+    \ DR.IS [204] de 20.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-2010-307850
+  date: '2010-10-20'
+- type: amended_by
+  target: pt:dre:277589:por
+  label: "Alterado o anexo I do Dec Lei 121/2002 de 03-Maio, na redacção do presente diploma, pelo DEC LEI.47/2011.31.03.2011.MS,\
+    \ DR.IS [64] de 31.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-2011-277589
+  date: '2011-03-31'
+- type: amended_by
+  target: pt:dre:179514:por
+  label: "Alterado e republicado o anexo I do Dec Lei 121/2002, de 03-maio, na redação do presente diploma, pelo DEC LEI.154/2012.16.07.2012.MS,\
+    \ DR.IS [136] de 16.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2012-179514
+  date: '2012-07-16'
+- type: amended_by
+  target: pt:dre:259897:por
+  label: "Alterado o anexo I do Dec Lei 121/2002 de 03-mai, com as alterações constantes do presente diploma, pelo DEC LEI.40/2013.18.03.2013.MS,\
+    \ DR.IS [54] de 18.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2013-259897
+  date: '2013-03-18'
+- type: amended_by
+  target: pt:dre:497401:por
+  label: "Altera, com efeitos a partir de 01.02.2015, o anexo I do Dec Lei 121/2002 de 03-mai, com as alterações introduzidas\
+    \ pelo presente diploma, pelo DEC LEI.85/2013.26.06.2013.MS, DR.IS [121] de 26.06.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-2013-497401
+  date: '2013-06-26'
+- type: amended_by
+  target: pt:dre:571026:por
+  label: "Alterado, com produção de efeitos nos termos do art. 4.º, o anexo I do Dec Lei 121/2002, de 03-maio, na redação\
+    \ do presente diploma, pelo DEC LEI.9/2014.20.01.2014.MS, DR.IS [13] de 20.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2014-571026
+  date: '2014-01-20'
 - type: cites
   target: celex:32009L0084
   label: null
@@ -136,16 +172,23 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/121/2002/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/121/2002/05/03/p/dre
+- type: repealed_by
+  target: pt:dre:114177787:por
+  label: Revogado, a partir de 01.01.2018, o Dec Lei 121/2002 de 13-mai, na redação do presente diploma, mantendo-se contudo
+    transitoriamente em vigor o seu art. 38.º pelo(a) Decreto-Lei n.º 140/2017 - Diário da República n.º 217/2017, Série I
+    de 2017-11-10 nos termos do n.º 1 do seu art. 20.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2017-114177787
+  date: '2017-11-10'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:11Z'
   warnings: []
   errors: []
 ---
@@ -234,7 +277,9 @@ c) O produto biocida contiver uma ou várias substâncias activas colocadas no m
 
 5 - ...
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - Para além da autorização de colocação no mercado dos produtos químicos biocidas prevista nos termos do presente decreto-lei, podem ser aplicados, até 14 de Maio de 2014, outros sistemas ou métodos vigentes à data da sua publicação, sem prejuízo da revisão das autorizações concedidas na sequência da inclusão ou não das substâncias activas presentes num produto.
 
@@ -268,16 +313,16 @@ c) A 1 de Setembro de 2011, para o azoto, o tetraborato dissódico, o ácido bó
 
 Visto e aprovado em Conselho de Ministros de 7 de Janeiro de 2010. - José Sócrates Carvalho Pinto de Sousa - António Fernandes da Silva Braga - José António Fonseca Vieira da Silva - António Manuel Soares Serrano - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Maria Helena dos Santos André - Ana Maria Teodoro Jorge.
 
-**Promulgado em 9 de Fevereiro de 2010.**
+Promulgado em 9 de Fevereiro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de Fevereiro de 2010.**
+Referendado em 10 de Fevereiro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2010/02/03800/0051800540.pdf))](https://files.diariodarepublica.pt/1s/2010/02/03800/0051800540.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2010/02/03800/0051800540.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/08/18100/32223226.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1990-573555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:17:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc6557dd041ab067ff70f2c46a0b61d054ad9fcac7b79a917a5fecb71b18ef5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8deda51fe193999a34def477c4dddfb1caa30ea7d9922f2b3c88210c4e7bc3fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:17:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Gabinete para a Pesquisa e Exploração de Petróleo
+- Integração de Trabalhadores
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:434008:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:459611:por
+  label: "Alterado, relativamente ao pessoal técnico, o quadro de pessoal contante do mapa I anexo pela PORT.371-A/91.30.04.1991.MF,\
+    \ DR.IS-B [99-3º Supl] de 30.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/371-a-1991-459611
+  date: '1991-04-30'
+- type: amended_by
+  target: pt:dre:686429:por
+  label: "Alterado o quadro de pessoal, constante do mapa I anexo ao presente diploma, pela PORT.729/91.31.07.1991.MF, DR.IS-B\
+    \ [174] de 31.07.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/729-1991-686429
+  date: '1991-07-31'
+- type: amended_by
+  target: pt:dre:168625:por
+  label: "Substituído, no referente ao grupo de pessoal de informática, o quadro de pessoal do Gabinete para a Pesquisa e\
+    \ Exploração do Petróleo, constante do mapa I anexo pela PORT.142/92.05.03.1992.MF, DR.IS-B [54] de 05.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/142-1992-168625
+  date: '1992-03-05'
+- type: amended_by
+  target: pt:dre:3106446:por
+  label: "Alterado o quadro de pessoal pela PORT.997/97(2ªSÉRIE).1997.11.07.PCM, MF E MECO DR.IIS [275] de 27.11.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/997-1997-3106446
+  date: '1997-11-07'
+- type: amended_by
+  target: pt:dre:434008:por
+  label: "Extinto o Gabinete para a Pesquisa e Exploração do Petróleo (GPEP) criado pelo Dec Lei 156/77, de 15-Abr, e regulamentado\
+    \ pelo presente diploma, pelo DEC LEI.334/99.20.08.1999.MECO, DR.IS-A [194] de 20.08.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/334-1999-434008
+  date: '1999-08-20'
+- type: cites
+  target: pt:dre:139954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620758:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:199405:por
+  label: Rectificado o presente diploma [procedendo à publicação integral dos anexos relativos aos conteúdos funcionais, omissos
+    aquando da sua publicação] pela DECL.DD3165.1990.09.26.PCM DR.IS [226]Supl de 29.09.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-199405
+  date: '1990-09-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:17:42Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +156,11 @@ Ao abrigo do disposto no artigo 26.º do [Decreto-Lei n.º 206/89](https://diari
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - O Gabinete para a Pesquisa e Exploração de Petróleo, adiante abreviadamente designado por GPEP, é o organismo que, no âmbito do Ministério da Indústria e Energia, é responsável pela dinamização e controlo das actividades de prospecção, pesquisa, desenvolvimento e exploração dos recursos petrolíferos em Portugal.
+Artigo 1.º - 1 - O Gabinete para a Pesquisa e Exploração de Petróleo, adiante abreviadamente designado por GPEP, é o organismo que, no âmbito do Ministério da Indústria e Energia, é responsável pela dinamização e controlo das actividades de prospecção, pesquisa, desenvolvimento e exploração dos recursos petrolíferos em Portugal.
 
 2 - O GPEP é dotado de personalidade jurídica e de autonomia administrativa, sob tutela do Ministro da Indústria e Energia.
 
-###### Art. 2.º São atribuições do GPEP:
+Art. 2.º São atribuições do GPEP:
 
 a) Contribuir para a formulação da política no âmbito dos recursos petrolíferos;
 
@@ -134,7 +186,7 @@ l) Assegurar a ligação a entidades nacionais e internacionais nos domínios da
 
 ### CAPÍTULO II — Órgãos, serviços e competências
 
-###### Art. 3.º - 1 - São órgãos do GPEP:
+Art. 3.º - 1 - São órgãos do GPEP:
 
 a) O director;
 
@@ -148,7 +200,7 @@ b) A Direcção de Serviços de Planeamento e Informação.
 
 3 - O GPEP compreende ainda uma Secção Administrativa.
 
-###### Art. 4.º - 1 - O director, equiparado a director-geral, é o órgão que dirige o GPEP, competindo-lhe, designadamente:
+Art. 4.º - 1 - O director, equiparado a director-geral, é o órgão que dirige o GPEP, competindo-lhe, designadamente:
 
 a) Superintender em todos os serviços e actividades do GPEP;
 
@@ -160,13 +212,13 @@ d) Representar o GPEP em juízo e fora dele.
 
 2 - O director será coadjuvado por um subdirector, equiparado a subdirector-geral, em quem pode delegar competências e que o substitui nas suas ausências e impedimentos.
 
-###### Art. 5.º - 1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira, sendo constituído pelo director, que preside, pelo director de Serviços de Planeamento e Informação e pelo chefe da Secção Administrativa.
+Art. 5.º - 1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira, sendo constituído pelo director, que preside, pelo director de Serviços de Planeamento e Informação e pelo chefe da Secção Administrativa.
 
 2 - O presidente é substituído, nas suas ausências e impedimentos, pelo subdirector do GPEP.
 
 3 - O conselho administrativo é secretariado por funcionário do GPEP, a designar pelo director, sem direito a voto.
 
-###### Art. 6.º - 1 - Ao conselho administrativo compete:
+Art. 6.º - 1 - Ao conselho administrativo compete:
 
 a) Aprovar os projectos de orçamento do GPEP, bem como as respectivas alterações;
 
@@ -188,7 +240,7 @@ i) Deliberar sobre quaisquer outros assuntos de gestão financeira e patrimonial
 
 2 - O conselho administrativo pode delegar competências no respectivo presidente.
 
-###### Art. 7.º - 1 - O conselho administrativo reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que convocado pelo presidente.
+Art. 7.º - 1 - O conselho administrativo reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que convocado pelo presidente.
 
 2 - As deliberações do conselho administrativo são tomadas por maioria simples dos presentes, que têm de ser, no mínimo, dois, tendo o presidente direito a voto de qualidade.
 
@@ -196,7 +248,7 @@ i) Deliberar sobre quaisquer outros assuntos de gestão financeira e patrimonial
 
 4 - De todas as reuniões são lavradas actas, assinadas pelos membros presentes.
 
-###### Art. 8.º Compete à Direcção de Serviços de Geologia e Geofísica:
+Art. 8.º Compete à Direcção de Serviços de Geologia e Geofísica:
 
 a) Elaborar, nos domínios específicos de geologia e geofísica, estudos visando o conhecimento e valorização dos recursos petrolíferos do País;
 
@@ -210,7 +262,7 @@ e) Acompanhar de forma sistemática as actividades desenvolvidas pelos licenciad
 
 f) Fiscalizar as operações decorrentes das licenças atribuídas e dos contratos celebrados, por forma a garantir o cumprimento das obrigações assumidas e das disposições legais e regulamentares aplicáveis.
 
-###### Art. 9.º À Direcção de Serviços de Planeamento e Informação compete:
+Art. 9.º À Direcção de Serviços de Planeamento e Informação compete:
 
 a) Proceder à elaboração de projectos de planos e programas de actividades e elaborar o relatório anual de actividades;
 
@@ -224,7 +276,7 @@ e) Manter organizados os relatórios, amostras e demais dados produzidos no âmb
 
 f) Promover a edição de publicações no domínio das atribuições do GPEP.
 
-###### Art. 10.º Compete à Secção Administrativa:
+Art. 10.º Compete à Secção Administrativa:
 
 a) Proceder à elaboração dos orçamentos e assegurar a respectiva execução;
 
@@ -244,19 +296,19 @@ h) Assegurar a recepção, registo, classificação, distribuição e expediente
 
 ### CAPÍTULO III — Funcionamento
 
-###### Art. 11.º - 1 - O funcionamento do GPEP assenta na estrutura definida no presente diploma e na articulação entre os seus serviços, com vista à realização dos objectivos comuns.
+Art. 11.º - 1 - O funcionamento do GPEP assenta na estrutura definida no presente diploma e na articulação entre os seus serviços, com vista à realização dos objectivos comuns.
 
 2 - Para o desenvolvimento de trabalhos que não devam ser prosseguidos por uma única unidade orgânica, podem ser constituídos grupos de trabalho ou estruturas de projecto, cujo mandato, composição e funcionamento são estabelecidos por despacho do director.
 
-###### Art. 12.º No desempenho das suas atribuições, para além da articulação com a Secretaria-Geral em matéria de administração comum e da colaboração com os demais serviços e organismos do Ministério, o GPEP promove as ligações necessárias com outras entidades, nacionais ou internacionais, mediante autorização da tutela.
+Art. 12.º No desempenho das suas atribuições, para além da articulação com a Secretaria-Geral em matéria de administração comum e da colaboração com os demais serviços e organismos do Ministério, o GPEP promove as ligações necessárias com outras entidades, nacionais ou internacionais, mediante autorização da tutela.
 
-###### Art. 13.º O GPEP pode vender serviços e promover a informação relativa às suas actividades, em qualquer tipo de suporte, bem como amostras de material recolhido no âmbito das actividades de prospecção, pesquisa, avaliação, desenvolvimento e exploração de petróleo.
+Art. 13.º O GPEP pode vender serviços e promover a informação relativa às suas actividades, em qualquer tipo de suporte, bem como amostras de material recolhido no âmbito das actividades de prospecção, pesquisa, avaliação, desenvolvimento e exploração de petróleo.
 
 ### CAPÍTULO IV — Gestão
 
-###### Art. 14.º Na prossecução dos seus objectivos, o GPEP administra os recursos que lhe estão afectos de acordo com as regras de gestão, utilizando como instrumentos os planos de actividades e financeiros, anuais e plurianuais, e o orçamento.
+Art. 14.º Na prossecução dos seus objectivos, o GPEP administra os recursos que lhe estão afectos de acordo com as regras de gestão, utilizando como instrumentos os planos de actividades e financeiros, anuais e plurianuais, e o orçamento.
 
-###### Art. 15.º - 1 - Constituem receitas do GPEP:
+Art. 15.º - 1 - Constituem receitas do GPEP:
 
 a) As dotações atribuídas no Orçamento do Estado;
 
@@ -274,13 +326,13 @@ e) Quaisquer outras que lhe sejam devidas por lei, contrato ou outro título.
 
 ### CAPÍTULO V — Pessoal
 
-###### Art. 16.º O quadro de pessoal do GPEP é o constante do mapa I anexo a este diploma, que dele faz parte integrante.
+Art. 16.º O quadro de pessoal do GPEP é o constante do mapa I anexo a este diploma, que dele faz parte integrante.
 
 ### CAPÍTULO VI — Disposições finais e transitórias
 
-###### Art. 17.º A nova estrutura do GPEP deve estar implementada no prazo de 60 dias e nesse mesmo prazo, concluída a transição de pessoal, a efectuar nos termos do artigo seguinte.
+Art. 17.º A nova estrutura do GPEP deve estar implementada no prazo de 60 dias e nesse mesmo prazo, concluída a transição de pessoal, a efectuar nos termos do artigo seguinte.
 
-###### Art. 18.º - 1 - Transitam para lugares do quadro de pessoal constante do mapa I anexo a este diploma, nos termos previstos no artigo 27.º do [Decreto-Lei n.º 206/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1989-620758), de 27 de Junho:
+Art. 18.º - 1 - Transitam para lugares do quadro de pessoal constante do mapa I anexo a este diploma, nos termos previstos no artigo 27.º do [Decreto-Lei n.º 206/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1989-620758), de 27 de Junho:
 
 a) Os funcionários actualmente integrados no quadro constante do mapa XIII anexo à [Portaria n.º 704/87](https://diariodarepublica.pt/dr/detalhe/portaria/704-1987-417631), de 18 de Agosto;
 
@@ -292,26 +344,26 @@ c) Os funcionários que se encontrem a exercer funções no GPEP em regime de re
 
 3 - A integração no novo quadro do pessoal a que respeita o presente artigo far-se-á de acordo com os procedimentos previstos na lei geral.
 
-###### Art. 19.º Até à efectivação das necessárias adaptações, mantém-se a actual expressão orçamental do GPEP, continuando os encargos com o pessoal do quadro único do Ministério a ser suportados pelas verbas inscritas no capítulo 01, divisão 04, subdivisão 01, do orçamento do Ministério da Indústria e Energia.
+Art. 19.º Até à efectivação das necessárias adaptações, mantém-se a actual expressão orçamental do GPEP, continuando os encargos com o pessoal do quadro único do Ministério a ser suportados pelas verbas inscritas no capítulo 01, divisão 04, subdivisão 01, do orçamento do Ministério da Indústria e Energia.
 
 Presidência do Conselho de Ministros, 18 de Junho de 1990.
 
 Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Fernando Mira Amaral.
 
-**Promulgado em 13 de Julho de 1990.**
+Promulgado em 13 de Julho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Julho de 1990.**
+Referendado em 17 de Julho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/18100/32223226.pdf))](https://files.diariodarepublica.pt/1s/1990/08/18100/32223226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/18100/32223226.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/18100/32223226.pdf))](https://files.diariodarepublica.pt/1s/1990/08/18100/32223226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/18100/32223226.pdf)

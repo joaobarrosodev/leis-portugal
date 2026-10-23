@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/12/29000/19391940.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/729-1972-685444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:56:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15d5dc386d0eb8d2b9b44f24b0289c4e56eb0397c1d3bd345e6be1b9f02c7ccf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 351ef854b1c50d2a3e2e2209f1e58515efb55b7109e3e29b12a6e1fd8a50ef0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:56:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,33 @@ relationships:
   target: pt:dre:279628:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:148838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590162:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:279628:por
+  label: Revogada, pelo(a) Portaria n.º 759/77 - Diário da República n.º 289/1977, Série I de 1977-12-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/759-1977-279628
+  date: '1977-12-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:56:19Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +115,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo do
 
 Ministério da Marinha, 4 de Dezembro de 1972. - O Ministro da Marinha, Manuel Pereira Crespo.
 
-## Anexo a que se refere a Portaria n.º 729/72, de 15 de Dezembro
+Anexo a que se refere a Portaria n.º 729/72, de 15 de Dezembro
 
 Lotações completa e normal das corvetas da classe «João Coutinho»
 
@@ -280,4 +297,4 @@ Marinheiro-padeiro ... 1
 
 (nota e) Três elementos da guarnição, sargentos e praças, deverão estar habilitados com o curso de aperfeiçoamento em mergulhador-vigia.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

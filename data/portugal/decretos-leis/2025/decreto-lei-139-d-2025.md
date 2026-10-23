@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/139-d/2025/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-d-2025-993315595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4749bb4727045324612bb2f34347fbcb227a8f17b2185c6282dda2470c4bf0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29325d1a64961bbbf66e126151b86623b6c4f1178bc17f9ba68d88024b04dcaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jogos de Fortuna e Azar
 - Algarve
 - Espinho
+- Jogos de Fortuna e Azar
 - Póvoa de Varzim
 - Prorrogação de Prazo
 - ZONA de JOGO
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/decpresrep/31-a/2025/03/19/p/dre
   label: null
   source: http://data.dre.pt/eli/decpresrep/31-a/2025/03/19/p/dre
+- type: cites
+  target: pt:dre:174824633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911678593:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:42Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +109,13 @@ de 30 de dezembro
 
 Os contratos de concessão para a exploração das Zonas de Jogo do Algarve, de Espinho e da Póvoa de Varzim, cuja vigência terminava no final de 2023, foram objeto de uma prorrogação, por dois anos, determinada no contexto da pandemia provocada pela doença COVID-19, nos termos e condições estabelecidos no [Decreto-Lei n.º 103/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2021-174824633), de 24 de novembro.
 
-Essas prorrogações foram formalizadas pelos aditamentos aos contratos celebrados em 10 de março de 2022, publicados no Diário da República, 2.ª série, respetivamente, n.º 73, de 13 de abril de 2022 (Contrato n.º 336/2022) e n.º 117, de 20 de junho de 2022 (Contratos n.<sup>os</sup>453/2022 e 454/2022), passando, assim, a vigência dos mesmos a terminar em 31 de dezembro de 2025.
+Essas prorrogações foram formalizadas pelos aditamentos aos contratos celebrados em 10 de março de 2022, publicados no Diário da República, 2.ª série, respetivamente, n.º 73, de 13 de abril de 2022 (Contrato n.º 336/2022) e n.º 117, de 20 de junho de 2022 (Contratos n.os453/2022 e 454/2022), passando, assim, a vigência dos mesmos a terminar em 31 de dezembro de 2025.
 
 Pese embora no início do corrente ano de 2025 se encontrassem elaborados os instrumentos necessários ao lançamento dos concursos para a concessão da exploração das Zonas de Jogo acima referidas, a circunstância de o Governo ter cessado funções no dia 11 de março de 2025, tendo, em sequência, sido dissolvida a Assembleia da República e convocadas eleições para o dia 18 de maio, através do [Decreto do Presidente da República n.º 31-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/31-a-2025-911678593), de 19 de março, determinou, nos termos constitucionalmente previstos, a entrada do governo em gestão, limitando a sua atuação.
 
 O XXV Governo Constitucional tomou posse em 5 de junho de 2025, pelo que só a partir daí ficou legalmente habilitado a lançar os três concursos públicos.
 
-Todos os concursos públicos em questão seguiram o modelo de concurso limitado com prévia qualificação e com publicidade internacional, para a celebração dos contratos de concessão do exclusivo das explorações de jogos de fortuna ou azar na Zona de Jogo do Algarve, na Zona de Jogo de Espinho e na Zona de Jogo da Póvoa de Varzim, a vigorar para os próximos 15 anos, o que veio a suceder através dos Anúncios n.<sup>os</sup> 19927/2025, 19936/2025 e 19923/2025, respetivamente, publicados no Diário da República, 2.ª série, n.º 141, de 24 de julho de 2025, e no Jornal Oficial da União Europeia (JOUE) n.<sup>os</sup> 486230/2025, 484896/2025 e 486347/2025, de 24 de julho de 2025.
+Todos os concursos públicos em questão seguiram o modelo de concurso limitado com prévia qualificação e com publicidade internacional, para a celebração dos contratos de concessão do exclusivo das explorações de jogos de fortuna ou azar na Zona de Jogo do Algarve, na Zona de Jogo de Espinho e na Zona de Jogo da Póvoa de Varzim, a vigorar para os próximos 15 anos, o que veio a suceder através dos Anúncios n.os 19927/2025, 19936/2025 e 19923/2025, respetivamente, publicados no Diário da República, 2.ª série, n.º 141, de 24 de julho de 2025, e no Jornal Oficial da União Europeia (JOUE) n.os 486230/2025, 484896/2025 e 486347/2025, de 24 de julho de 2025.
 
 Os concursos públicos lançados pelo Estado ainda se encontram em curso, sendo que a complexidade inerente à sua tramitação procedimental não permitiu a apresentação das propostas de forma mais célere, considerando tratar-se de concursos que integram as seguintes fases legalmente obrigatórias:
 
@@ -153,12 +161,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 29 de dezembro de 2025. - Paulo Artur dos Santos de Castro de Campos Rangel - Hélder Manuel Gomes dos Reis.
 
-**Promulgado em 29 de dezembro de 2025.**
+Promulgado em 29 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de dezembro de 2025.**
+Referendado em 30 de dezembro de 2025.
 
 Pelo Primeiro-Ministro, Joaquim Miranda Sarmento, Ministro de Estado e das Finanças.
+
+119944407

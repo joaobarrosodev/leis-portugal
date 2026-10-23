@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20602-1964-576694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:45:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce2ebd85c1f419ddc7506b994dae58b15207bc877690520ae223f3bec8c89282
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef11f9545137ef4807617a78553fc683b88ba728d3e59ef73a807fdae32126bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:45:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:45:27Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +88,9 @@ Ministério da Educação Nacional, 29 de Maio de 1964. - Pelo Ministro da Educa
 
 REGULAMENTO DO PRÉMIO ESCOLAR MAJOR ARROCHELA LOBO
 
-###### Artigo 1.º É instituído por um grupo de admiradores do major Arrochela Lobo, como preito de homenagem ao desvelado carinho que aquela individualidade dedicou à causa da instrução pública quando presidente da Câmara Municipal de Penafiel, o prémio escolar major Arrochela Lobo, constituído pelo produto do rendimento da importância de 4000$00 convertida em certificado de renda perpétua da Junta do Crédito Público assentado à Direcção do Distrito Escolar do Porto.
+Artigo 1.º É instituído por um grupo de admiradores do major Arrochela Lobo, como preito de homenagem ao desvelado carinho que aquela individualidade dedicou à causa da instrução pública quando presidente da Câmara Municipal de Penafiel, o prémio escolar major Arrochela Lobo, constituído pelo produto do rendimento da importância de 4000$00 convertida em certificado de renda perpétua da Junta do Crédito Público assentado à Direcção do Distrito Escolar do Porto.
 
-###### Art. 2.º Será atribuído sucessivamente em cada ano a um aluno aprovado no exame da 4.ª classe de uma das escolas do sexo masculino ou feminino do concelho de Penafiel, segundo a ordem alfabética das respectivas freguesias, com observância do seguinte:
+Art. 2.º Será atribuído sucessivamente em cada ano a um aluno aprovado no exame da 4.ª classe de uma das escolas do sexo masculino ou feminino do concelho de Penafiel, segundo a ordem alfabética das respectivas freguesias, com observância do seguinte:
 
 a) Por cada lugar de professor será indicado um aluno ou aluna escolhidos entre os mais pobres;
 
@@ -102,8 +102,8 @@ d) De entre os alunos assim escolhidos nos vários lugares será feito um sortei
 
 e) Nas freguesias em que funcione mais de uma escola, os respectivos professores deliberarão, em conjunto, acerca do aluno a quem o prémio deve ser atribuído e farão a respectiva comunicação à Direcção do Distrito Escolar do Porto até ao dia 15 de Outubro.
 
-###### Art. 3.º A sua entrega será feita num dos primeiros quinze dias do mês de Novembro seguinte, pelo professor mais antigo das escolas da freguesia, de preferência em escola do sexo masculino e em presença das autoridades convidadas para o efeito.
+Art. 3.º A sua entrega será feita num dos primeiros quinze dias do mês de Novembro seguinte, pelo professor mais antigo das escolas da freguesia, de preferência em escola do sexo masculino e em presença das autoridades convidadas para o efeito.
 
-###### Art. 4.º Deverá ser comunicado à Direcção do Distrito Escolar do Porto, com a necessária antecedência, o dia designado para a distribuição do prémio, para que se possibilite a presença ao acto do director do Distrito Escolar ou de um seu representante.
+Art. 4.º Deverá ser comunicado à Direcção do Distrito Escolar do Porto, com a necessária antecedência, o dia designado para a distribuição do prémio, para que se possibilite a presença ao acto do director do Distrito Escolar ou de um seu representante.
 
 Direcção-Geral do Ensino Primário, 26 de Maio de 1964. - O Director-Geral, José Gomes Branco.

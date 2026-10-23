@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/536-1979-364901
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 340643f241fdb3c6bc9f60fbb72027948fe20a5b0a53a835cbaa643ebd93fe97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f63727a52b0c269d1e2f2f283281e33e370cded252cea0fb18e9b8c9025afe6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração da Fazenda Naval
+- Regulamento
+- Superintendencia dos Serviços Financeiros
+relationships:
+- type: cites
+  target: pt:dre:167631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526658:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:56Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +110,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo
 
 ...
 
-###### Art. 2.º Incumbe à Superintendência dos Serviços Financeiros tratar de todos os assuntos de natureza técnica e administrativa relativos às actividades de âmbito financeiro da Marinha, designadamente: o desenvolvimento e a aplicação de técnicas e métodos de gestão administrativo-financeira, visando a maximização do rendimento dos meios financeiros utilizados pela Marinha; a direcção das actividades dos conselhos administrativos, como órgãos executivos da gestão financeira; a preparação das propostas orçamentais da Marinha; a definição, selecção e aplicação dos procedimentos à execução dos orçamentos, nos aspectos de ordem administrativa, económica e financeira; a análise económica e o apuramento de responsabilidades em relação a todos os actos de administração financeira praticados em organismos da Marinha.
+Art. 2.º Incumbe à Superintendência dos Serviços Financeiros tratar de todos os assuntos de natureza técnica e administrativa relativos às actividades de âmbito financeiro da Marinha, designadamente: o desenvolvimento e a aplicação de técnicas e métodos de gestão administrativo-financeira, visando a maximização do rendimento dos meios financeiros utilizados pela Marinha; a direcção das actividades dos conselhos administrativos, como órgãos executivos da gestão financeira; a preparação das propostas orçamentais da Marinha; a definição, selecção e aplicação dos procedimentos à execução dos orçamentos, nos aspectos de ordem administrativa, económica e financeira; a análise económica e o apuramento de responsabilidades em relação a todos os actos de administração financeira praticados em organismos da Marinha.
 
 § 1.º As atribuições enunciadas neste artigo são exercidas sem prejuízo das funções que, nos termos legais, incumbem a outros departamentos da Armada e, no respeitante aos organismos dotados de autonomia financeira, situam-se nos limites que decorrem dos diplomas orgânicos estabelecidos para esses organismos.
 
@@ -107,11 +122,11 @@ b) A elaboração, centralização e coordenação de planeamentos orçamentais,
 
 c) A análise, dos pontos de vista jurídico e económico, dos actos de administração financeira praticados pelos conselhos administrativos, o apuramento das responsabilidades inerentes a esses actos, nomeadamente através da fiscalização documental das contas pecuniárias e de material dos diversos organismos e preparação dos processos destinados a acompanhá-las na sua remessa à comissão liquidatária de responsabilidades, nos termos e para os efeitos estabelecidos neste Regulamento, bem como mediante a realização de inspecções in loco aos actos de administração financeira praticados pelos responsáveis administrativos - funções que incumbem à Direcção do Apuramento de Responsabilidades.
 
-###### Art. 3.º Aos conselhos administrativos incumbe, dentro dos preceitos legais e regulamentares e com observância do princípio do máximo rendimento económico, a previsão e a administração das verbas destinadas a assegurar o cumprimento das missões atribuídas aos organismos que apoiam. Igualmente lhes incumbe, observados os correspondentes preceitos, a administração do material.
+Art. 3.º Aos conselhos administrativos incumbe, dentro dos preceitos legais e regulamentares e com observância do princípio do máximo rendimento económico, a previsão e a administração das verbas destinadas a assegurar o cumprimento das missões atribuídas aos organismos que apoiam. Igualmente lhes incumbe, observados os correspondentes preceitos, a administração do material.
 
 ...
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 a) ...
 
@@ -121,13 +136,13 @@ c) a f) ...
 
 ...
 
-###### Art. 14.º Os conselhos administrativos têm direito de proposta quanto ao estabelecimento ou revisão de preceitos ou procedimentos visando uma maior eficiência no cumprimento das suas missões, bem como o de suscitar a interpretação de disposições legais duvidosas ou o esclarecimento de dúvidas em relação a quaisquer actos ou matérias que se situem no seu âmbito.
+Art. 14.º Os conselhos administrativos têm direito de proposta quanto ao estabelecimento ou revisão de preceitos ou procedimentos visando uma maior eficiência no cumprimento das suas missões, bem como o de suscitar a interpretação de disposições legais duvidosas ou o esclarecimento de dúvidas em relação a quaisquer actos ou matérias que se situem no seu âmbito.
 
 § único. As propostas ou consultas de que trata este artigo serão dirigidas pelos conselhos administrativos à Direcção do Planeamento Administrativo.
 
 ...
 
-###### Art. 16.º Os conselhos administrativos liquidam e pagam os vencimentos do pessoal pertencente às unidades e serviços que apoiam, excepto os de carácter diário do pessoal em diligência noutras unidades ou serviços, cuja liquidação e pagamento competem ao conselho administrativo que apoia estes últimos. Como regra geral, o conselho administrativo que apoia a generalidade das unidades e serviços da Marinha no respeitante aos vencimentos do respectivo pessoal, quando aqueles estejam integrados em sistema de tratamento informático, é o Conselho Administrativo da Administração Central da Marinha.
+Art. 16.º Os conselhos administrativos liquidam e pagam os vencimentos do pessoal pertencente às unidades e serviços que apoiam, excepto os de carácter diário do pessoal em diligência noutras unidades ou serviços, cuja liquidação e pagamento competem ao conselho administrativo que apoia estes últimos. Como regra geral, o conselho administrativo que apoia a generalidade das unidades e serviços da Marinha no respeitante aos vencimentos do respectivo pessoal, quando aqueles estejam integrados em sistema de tratamento informático, é o Conselho Administrativo da Administração Central da Marinha.
 
 § 1.º Nos casos em que os vencimentos não sejam liquidados pelo Conselho Administrativo da Administração Central da Marinha, devem os conselhos administrativos que os liquidam enviar àquele as relações mensais do pessoal que haja sofrido descontos para pensões judiciais, com indicação das quantias descontadas.
 
@@ -155,13 +170,13 @@ c) Prestar ao pessoal todos os esclarecimentos do seu interesse sobre a liquida�
 
 ...
 
-###### Art. 20.º Os fornecimentos de bens ou serviços feitos por organismos da Marinha a outros organismos, da Marinha ou não, ou a particulares serão, por via de regra, satisfeitos pelas entidades requisitantes, salvo se, por despacho do Chefe do Estado-Maior da Armada, for mandado adoptar outro procedimento.
+Art. 20.º Os fornecimentos de bens ou serviços feitos por organismos da Marinha a outros organismos, da Marinha ou não, ou a particulares serão, por via de regra, satisfeitos pelas entidades requisitantes, salvo se, por despacho do Chefe do Estado-Maior da Armada, for mandado adoptar outro procedimento.
 
 § 1.º Tratando-se de organismos da Marinha, o disposto neste artigo é feito contra pagamento ou contra débito em conta corrente das dotações constituídas a seu favor em organismos abastecedores. Nos restantes casos será observado o disposto no artigo 244.º
 
 § 2.º As importâncias dos pagamentos cobrados nos termos deste artigo serão entregues pelos respectivos conselhos administrativos nos cofres do Estado, nos termos do artigo 121.º, quando, pela sua natureza ou por lei especial, não devam ter outro destino.
 
-###### Art. 21.º Os conselhos administrativos deverão verificar se existem, devidamente aprovadas, tabelas de armamento e tabelas especiais que indiquem o material que, instalado ou armazenado nos paióis, deve existir na unidade ou serviço, com vista a assegurar a sua eficiência.
+Art. 21.º Os conselhos administrativos deverão verificar se existem, devidamente aprovadas, tabelas de armamento e tabelas especiais que indiquem o material que, instalado ou armazenado nos paióis, deve existir na unidade ou serviço, com vista a assegurar a sua eficiência.
 
 § 1.º Quando na unidade ou serviço não existir todo o material constante das respectivas tabelas, os conselhos administrativos registarão, em documento anexo à acta, os materiais em falta, devendo um outro exemplar desse documento ser enviado pela unidade ou serviço à Superintendência dos Serviços do Material.
 
@@ -169,11 +184,11 @@ c) Prestar ao pessoal todos os esclarecimentos do seu interesse sobre a liquida�
 
 § 3.º Das comunicações de que trata o parágrafo anterior e, bem assim, das medidas que, na sua sequência, se venham a concretizar devem os conselhos administrativos dar conhecimento à Direcção do Apuramento de Responsabilidades.
 
-###### Art. 22.º Os conselhos administrativos devem proceder à verificação da existência dos artigos em carga, pelo menos uma vez por ano, na época em que isso for julgado mais conveniente, seja qual for a conta de que façam parte, comunicando à Direcção do Apuramento de Responsabilidades o resultado dessa verificação.
+Art. 22.º Os conselhos administrativos devem proceder à verificação da existência dos artigos em carga, pelo menos uma vez por ano, na época em que isso for julgado mais conveniente, seja qual for a conta de que façam parte, comunicando à Direcção do Apuramento de Responsabilidades o resultado dessa verificação.
 
 ...
 
-###### Art. 27.º Os deveres especiais dos conselhos administrativos são, em regra, fixados pelo diploma que autorizar a sua criação, sem prejuízo, no entanto, das atribuições indicadas nas alíneas seguintes:
+Art. 27.º Os deveres especiais dos conselhos administrativos são, em regra, fixados pelo diploma que autorizar a sua criação, sem prejuízo, no entanto, das atribuições indicadas nas alíneas seguintes:
 
 A) Conselho Administrativo da Administração Central da Marinha:
 
@@ -293,7 +308,7 @@ H) Conselho Administrativo da 5.ª Repartição (Bem-Estar) da Direcção do Ser
 
 ...
 
-###### Art. 30.º-A ...
+Art. 30.º-A ...
 
 1.º a 12.º ...
 
@@ -305,7 +320,7 @@ H) Conselho Administrativo da 5.ª Repartição (Bem-Estar) da Direcção do Ser
 
 ...
 
-###### Art. 49.º ...
+Art. 49.º ...
 
 § 1.º Nas unidades e serviços em que o movimento o justifique, poderá ainda, sob proposta do respectivo conselho administrativo dirigida à Superintendência dos Serviços Financeiros e sancionada pelo respectivo superintendente, ser investido nas funções de pagador um oficial subalterno, um sargento-chefe ou um sargento-mor, ou ainda um funcionário civil do quadro do pessoal civil da Marinha da carreira administrativa e de categoria não inferior a primeiro-oficial. O pagador assim nomeado, e cuja preparação profissional será necessariamente função do nível das responsabilidades a assumir, ficará responsável, mediante recibo, pelos valores que lhe forem entregues e para os quais disporá de cofre privativo, de que será o único claviculário. Os referidos valores, que em qualquer altura poderão ser verificados, por contagem, pelo tesoureiro, serão sempre mencionados em acta, nos termos do n.º 11.º do artigo 277.º
 
@@ -313,7 +328,7 @@ H) Conselho Administrativo da 5.ª Repartição (Bem-Estar) da Direcção do Ser
 
 ...
 
-###### Art. 54.º ...
+Art. 54.º ...
 
 a) a i) ...
 
@@ -329,19 +344,19 @@ j) ...
 
 ...
 
-###### Art. 72.º O destacamento de qualquer responsável só deve efectivar-se depois de feita a entrega dos seus cargos. Quando, ao findarem os prazos fixados, a entrega não esteja terminada, comunicar-se-á imediatamente o facto, bem como os motivos que o originaram, à Superintendência dos Serviços do Pessoal e à Superintendência dos Serviços Financeiros.
+Art. 72.º O destacamento de qualquer responsável só deve efectivar-se depois de feita a entrega dos seus cargos. Quando, ao findarem os prazos fixados, a entrega não esteja terminada, comunicar-se-á imediatamente o facto, bem como os motivos que o originaram, à Superintendência dos Serviços do Pessoal e à Superintendência dos Serviços Financeiros.
 
 § único. Quando se trate de encargos que não envolvam responsabilidades pecuniárias directas e se verifique a circunstância prevista na segunda parte deste artigo, dar-se-á guia ao responsável, acrescentar-se-á a Superintendência dos Serviços do Material aos destinatários das comunicações a fazer e proceder-se-á à elaboração de um inventário eventual sempre que o novo responsável constate que a contabilidade do material não está devidamente ordenada.
 
 ...
 
-###### Art. 99.º Na utilização das dotações inscritas nos respectivos orçamentos devem os conselhos administrativos observar as instruções que lhes sejam transmitidas pela Direcção da Fazenda Naval, nomeadamente no que respeita à compatibilização dessa utilização com as propostas orçamentais que lhes deram origem e as decisões que sobre estas recaíram.
+Art. 99.º Na utilização das dotações inscritas nos respectivos orçamentos devem os conselhos administrativos observar as instruções que lhes sejam transmitidas pela Direcção da Fazenda Naval, nomeadamente no que respeita à compatibilização dessa utilização com as propostas orçamentais que lhes deram origem e as decisões que sobre estas recaíram.
 
 § 1.º As alterações que os conselhos administrativos reconheçam ser indispensável introduzir em dotações dos seus orçamentos devem ser propostas à Direcção da Fazenda Naval, em documento devidamente fundamentado e contendo a indicação das circunstâncias que alteraram os factores em que assentou a proposta orçamental respectiva.
 
 § 2.º Os conselhos administrativos solicitarão à Direcção da Fazenda Naval o esclarecimento de quaisquer dúvidas que se lhes suscitem sobre a classificação ou o processamento das despesas.
 
-###### Art. 100.º ...
+Art. 100.º ...
 
 § 1.º ...
 
@@ -351,7 +366,7 @@ j) ...
 
 ...
 
-###### Art. 103.º ...
+Art. 103.º ...
 
 1.º a 3.º ...
 
@@ -367,7 +382,7 @@ j) ...
 
 ...
 
-###### Art. 105.º As requisições de fundos e os avisos de saque devem ser emitidos separadamente para:
+Art. 105.º As requisições de fundos e os avisos de saque devem ser emitidos separadamente para:
 
 a) Despesas correntes;
 
@@ -377,21 +392,21 @@ b) Despesas de capital.
 
 ...
 
-###### Art. 109.º Sendo as disponibilidades dos duodécimos vencidos, em dotações sujeitas ao regime dos duodécimos, inferiores ao custo do material a adquirir, deve esperar-se para a sua aquisição que sejam vencidos os duodécimos suficientes ou pedir-se antecipação em casos de urgência devidamente justificada.
+Art. 109.º Sendo as disponibilidades dos duodécimos vencidos, em dotações sujeitas ao regime dos duodécimos, inferiores ao custo do material a adquirir, deve esperar-se para a sua aquisição que sejam vencidos os duodécimos suficientes ou pedir-se antecipação em casos de urgência devidamente justificada.
 
 ...
 
-###### Art. 111.º ...
+Art. 111.º ...
 
 § único. As disposições deste artigo referem-se aos saques excepcionalmente emitidos em portos onde não haja entidade ou banco indicado, nos termos do n.º 4.º do artigo 103.º
 
 ...
 
-###### Art. 116.º Os vencimentos e outros valores que constituam o espólio de pessoa falecida a bordo de navio da Armada ou em qualquer outra unidade ou serviço da Marinha serão inventariados de acordo com as disposições relativas a espólios (anexo n.º 4).
+Art. 116.º Os vencimentos e outros valores que constituam o espólio de pessoa falecida a bordo de navio da Armada ou em qualquer outra unidade ou serviço da Marinha serão inventariados de acordo com as disposições relativas a espólios (anexo n.º 4).
 
 ...
 
-###### Art. 121.º ...
+Art. 121.º ...
 
 1.º a 4.º ...
 
@@ -403,13 +418,13 @@ b) Despesas de capital.
 
 ...
 
-###### Art. 126.º É proibida a aquisição de qualquer artigo pertencente à nomenclatura das tabelas de armamento e das tabelas especiais que nelas se não encontre incluído, sem despacho singular do Chefe do Estado-Maior da Armada.
+Art. 126.º É proibida a aquisição de qualquer artigo pertencente à nomenclatura das tabelas de armamento e das tabelas especiais que nelas se não encontre incluído, sem despacho singular do Chefe do Estado-Maior da Armada.
 
 § único ...
 
 ...
 
-###### Art. 138.º ...
+Art. 138.º ...
 
 A) ...
 
@@ -427,17 +442,17 @@ B) ...
 
 ...
 
-###### Art. 141.º Só em casos justificados e quando fiquem completamente salvaguardados por garantias prestadas nos termos da condição 8.ª da alínea A) do artigo 138.º se poderá estipular o abono de adiantamentos pelos fornecimentos a efectuar, devendo, nesses casos, ser previamente fixadas nos contratos as condições que salvaguardem os interesses do Estado.
+Art. 141.º Só em casos justificados e quando fiquem completamente salvaguardados por garantias prestadas nos termos da condição 8.ª da alínea A) do artigo 138.º se poderá estipular o abono de adiantamentos pelos fornecimentos a efectuar, devendo, nesses casos, ser previamente fixadas nos contratos as condições que salvaguardem os interesses do Estado.
 
 ...
 
-###### Art. 165.º ...
+Art. 165.º ...
 
 § único. (Eliminado.)
 
 ...
 
-###### Art. 174.º Os processos de compra, seja qual for o sistema adoptado, serão organizados de forma que pelo seu exame se verifiquem, sem recorrer a outros elementos, todas as circunstâncias que se produziram desde o seu início à sua conclusão.
+Art. 174.º Os processos de compra, seja qual for o sistema adoptado, serão organizados de forma que pelo seu exame se verifiquem, sem recorrer a outros elementos, todas as circunstâncias que se produziram desde o seu início à sua conclusão.
 
 § 1.º O primeiro documento dos processos de compra será a requisição ou ordem superior para a compra e o último será o triplicado da factura do fornecedor, onde se fará referência aos números de ordem que o original e o duplicado tomaram, respectivamente, nas contas de caixa e de material.
 
@@ -445,19 +460,19 @@ B) ...
 
 ...
 
-###### Art. 185.º Salvo nos casos exceptuados por legislação especial, como são os respeitantes à concessão de obras públicas ou de serviços públicos, as minutas de contratos estão sujeitas à aprovação da entidade que tiver autorizado a respectiva despesa.
+Art. 185.º Salvo nos casos exceptuados por legislação especial, como são os respeitantes à concessão de obras públicas ou de serviços públicos, as minutas de contratos estão sujeitas à aprovação da entidade que tiver autorizado a respectiva despesa.
 
 ...
 
-###### Art. 192.º Dos contratos se extrairão cópias autenticadas com o selo branco do conselho administrativo, devendo ser remetidas à Direcção da Fazenda Naval duas delas, uma das quais será destinada à 6.ª Delegação da Direcção-Geral da Contabilidade Pública; outra ou outras serão entregues aos fornecedores quando estes as pedirem.
+Art. 192.º Dos contratos se extrairão cópias autenticadas com o selo branco do conselho administrativo, devendo ser remetidas à Direcção da Fazenda Naval duas delas, uma das quais será destinada à 6.ª Delegação da Direcção-Geral da Contabilidade Pública; outra ou outras serão entregues aos fornecedores quando estes as pedirem.
 
 ...
 
-###### Art. 222.º Em portos de nações amigas ou aliadas o presidente diligenciará obter facilidades das autoridades navais locais para, de preferência, as reparações e os fabricos se efectuarem nas respectivas instalações oficinais militares, tendo sempre em conta as disposições de eventuais acordos de cooperação logística, designadamente de âmbito NATO, aplicáveis nas referidas circunstâncias.
+Art. 222.º Em portos de nações amigas ou aliadas o presidente diligenciará obter facilidades das autoridades navais locais para, de preferência, as reparações e os fabricos se efectuarem nas respectivas instalações oficinais militares, tendo sempre em conta as disposições de eventuais acordos de cooperação logística, designadamente de âmbito NATO, aplicáveis nas referidas circunstâncias.
 
 ...
 
-###### Art. 226.º ...
+Art. 226.º ...
 
 § 1.º No porto de Lisboa as vendas são feitas pelo Conselho Administrativo da Direcção de Abastecimento, com excepção dos navios mandados abater, cuja venda compete ao Conselho Administrativo da Base Naval de Lisboa, e de armas e munições, cuja venda é das atribuições do Conselho Administrativo da Direcção-Geral do Material Naval.
 
@@ -469,11 +484,11 @@ B) ...
 
 ...
 
-###### Art. 243.º Os conselhos administrativos que obtiverem despacho superior autorizando a despesa de qualquer artigo de material devem comunicá-lo à Direcção do Apuramento de Responsabilidades.
+Art. 243.º Os conselhos administrativos que obtiverem despacho superior autorizando a despesa de qualquer artigo de material devem comunicá-lo à Direcção do Apuramento de Responsabilidades.
 
 § único. Em casos de dimensão pouco significativa, a comunicação de que trata este artigo poderá ser incluída na própria ordem de despesa extraordinária a elaborar nos termos do artigo 249-A.
 
-###### Art. 244.º A despesa de artigos de qualquer natureza feita por motivo de serviço prestado, por determinação superior, a organismos ou entidades estranhas à Marinha deverá ser comunicada à Superintendência dos Serviços Financeiros.
+Art. 244.º A despesa de artigos de qualquer natureza feita por motivo de serviço prestado, por determinação superior, a organismos ou entidades estranhas à Marinha deverá ser comunicada à Superintendência dos Serviços Financeiros.
 
 § 1.º A Superintendência dos Serviços Financeiros accionará o necessário junto ao Conselho Administrativo da Administração Central da Marinha no sentido de por este Conselho Administrativo ser providenciada a cobrança das importâncias devidas, quando o seu pagamento não haja sido dispensado por despacho do Chefe do Estado-Maior da Armada, em casos especiais.
 
@@ -481,13 +496,13 @@ B) ...
 
 ...
 
-###### Art. 246.º Não são permitidas inteirações. No entanto, quando, em circunstâncias excepcionais, a bordo de navios fora do porto de Lisboa ocorrer a impossibilidade de se fazer o abono em espécie de um determinado género, os abonados serão compensados dessa falta em dinheiro, nas condições que forem definidas no despacho que, para cada caso, deve ser solicitado por intermédio da Superintendência dos Serviços Financeiros.
+Art. 246.º Não são permitidas inteirações. No entanto, quando, em circunstâncias excepcionais, a bordo de navios fora do porto de Lisboa ocorrer a impossibilidade de se fazer o abono em espécie de um determinado género, os abonados serão compensados dessa falta em dinheiro, nas condições que forem definidas no despacho que, para cada caso, deve ser solicitado por intermédio da Superintendência dos Serviços Financeiros.
 
 § único. Nos casos em que não for possível o funcionamento de ranchos, haverá lugar ao abono da alimentação a dinheiro, nos termos da legislação aplicável.
 
 ...
 
-###### Art. 249.º ...
+Art. 249.º ...
 
 a) A despesa ordinária compreende:
 
@@ -505,7 +520,7 @@ b) A despesa extraordinária compreende:
 
 ...
 
-###### Art. 254.º A alimentação fornecida pelos ranchos é constituída por uma ração de víveres, decomposta, normalmente, em três refeições cozinhadas, segundo combinações de espécies e capitações insertas nas respectivas tabelas e em conformidade com colecções de ementas organizadas e distribuídas trimestralmente pela Direcção de Abastecimento.
+Art. 254.º A alimentação fornecida pelos ranchos é constituída por uma ração de víveres, decomposta, normalmente, em três refeições cozinhadas, segundo combinações de espécies e capitações insertas nas respectivas tabelas e em conformidade com colecções de ementas organizadas e distribuídas trimestralmente pela Direcção de Abastecimento.
 
 § 1.º Com vista ao fornecimento dos géneros destinados à confecção da alimentação, deve ser entregue no serviço de abastecimento da unidade ou serviço, até às 14 horas do dia anterior, um «Mapa discriminativo das refeições a fornecer no dia ...», documento este que é elaborado em impresso próprio e sem prejuízo da escrituração do mapa de abono diário.
 
@@ -519,13 +534,13 @@ b) A despesa extraordinária compreende:
 
 ...
 
-###### Art. 284.º Todos os livros e impressos referidos neste Regulamento serão conforme os modelos superiormente aprovados e não poderão ser alterados sem despacho do Chefe do Estado-Maior da Armada lançado sobre parecer da Comissão Permanente de Normalização de Impressos e Material de Arquivo, ouvida a Superintendência dos Serviços Financeiros através da Direcção do Planeamento Administrativo.
+Art. 284.º Todos os livros e impressos referidos neste Regulamento serão conforme os modelos superiormente aprovados e não poderão ser alterados sem despacho do Chefe do Estado-Maior da Armada lançado sobre parecer da Comissão Permanente de Normalização de Impressos e Material de Arquivo, ouvida a Superintendência dos Serviços Financeiros através da Direcção do Planeamento Administrativo.
 
 § único. A criação de novos impressos respeitantes a matéria do presente Regulamento depende das mesmas formalidades.
 
 ...
 
-###### Art. 293.º A conta de caixa será escriturada mensalmente em livro (modelo n.º 15), por forma que do simples exame dos seus lançamentos se possa depreender a natureza das operações efectuadas, independentemente da consulta dos documentos, excepção feita para os seguintes casos:
+Art. 293.º A conta de caixa será escriturada mensalmente em livro (modelo n.º 15), por forma que do simples exame dos seus lançamentos se possa depreender a natureza das operações efectuadas, independentemente da consulta dos documentos, excepção feita para os seguintes casos:
 
 1.º Podem ser agrupados em resumo os documentos de despesa de importância inferior a 1000$00 e fazer-se o lançamento por esse resumo;
 
@@ -541,7 +556,7 @@ b) A despesa extraordinária compreende:
 
 ...
 
-###### Art. 295.º A escrituração da conta de caixa será feita por anos económicos e encerrada no dia 14 de Fevereiro, ou antes se se verificar a hipótese prevista no artigo 83.º ou se não houver mais despesas a efectuar. Em qualquer caso, a escrituração de todas as despesas respeitantes ao ano económico findo e pagas até ao encerramento da conta é feita em referência a 31 de Dezembro.
+Art. 295.º A escrituração da conta de caixa será feita por anos económicos e encerrada no dia 14 de Fevereiro, ou antes se se verificar a hipótese prevista no artigo 83.º ou se não houver mais despesas a efectuar. Em qualquer caso, a escrituração de todas as despesas respeitantes ao ano económico findo e pagas até ao encerramento da conta é feita em referência a 31 de Dezembro.
 
 § 1.º A cópia da conta do mês de Dezembro e os respectivos documentos deverão dar entrada na Direcção do Apuramento de Responsabilidades até à data fixada na alínea a) do artigo 8.º, sempre que essa conta possa ser encerrada até ao dia 31 daquele mês; caso assim não suceda, o referido prazo é ampliado na medida do indispensável, não podendo, porém, em caso algum, ultrapassar o dia 15 de Abril seguinte.
 
@@ -551,23 +566,23 @@ b) A despesa extraordinária compreende:
 
 ...
 
-###### Art. 300.º A conta de caixa é sempre escriturada em escudos.
+Art. 300.º A conta de caixa é sempre escriturada em escudos.
 
-###### Art. 301.º (Eliminado.)
-
-...
-
-###### Art. 303.º (Eliminado.)
-
-###### Art. 304.º (Eliminado.)
+Art. 301.º (Eliminado.)
 
 ...
 
-###### Art. 316.º A cópia da conta de caixa, autenticada nos termos do artigo 272.º, com os respectivos documentos de receita e de despesa, será remetida à Direcção do Apuramento de Responsabilidades, de harmonia com as disposições deste Regulamento, e deve ser acompanhada de todos os demais documentos úteis para a sua conferência, bem como dos mapas demonstrativos da despesa desta conta (modelos n.os 16, 16-A e 16-B) e do balancete do rancho a que se refere o § 4.º do artigo 254.º
+Art. 303.º (Eliminado.)
+
+Art. 304.º (Eliminado.)
+
+...
+
+Art. 316.º A cópia da conta de caixa, autenticada nos termos do artigo 272.º, com os respectivos documentos de receita e de despesa, será remetida à Direcção do Apuramento de Responsabilidades, de harmonia com as disposições deste Regulamento, e deve ser acompanhada de todos os demais documentos úteis para a sua conferência, bem como dos mapas demonstrativos da despesa desta conta (modelos n.os 16, 16-A e 16-B) e do balancete do rancho a que se refere o § 4.º do artigo 254.º
 
 § único ...
 
-###### Art. 317.º São documentos da conta de caixa:
+Art. 317.º São documentos da conta de caixa:
 
 a) Para o débito:
 
@@ -591,11 +606,11 @@ b) Para o crédito:
 
 ...
 
-###### Art. 321.º (Eliminado.)
+Art. 321.º (Eliminado.)
 
 ...
 
-###### Art. 326.º ...
+Art. 326.º ...
 
 § 1.º ...
 
@@ -611,15 +626,15 @@ b) Para o crédito:
 
 ...
 
-###### Art. 335.º-A. As disposições dos artigos 324.º a 335.º aplicam-se nos casos em que o processamento de abonos não é feito por tratamento informático. Quando esse processamento esteja integrado em sistema de tratamento informático, a sua aplicação far-se-á tão inteiramente quanto possível.
+Art. 335.º-A. As disposições dos artigos 324.º a 335.º aplicam-se nos casos em que o processamento de abonos não é feito por tratamento informático. Quando esse processamento esteja integrado em sistema de tratamento informático, a sua aplicação far-se-á tão inteiramente quanto possível.
 
 Mapas de pagamento de abonos de alimentação a dinheiro
 
-###### Art. 336.º Estes mapas são escriturados em impressos próprios (modelos n.os 27 e 28), devendo neles constar, além da identificação dos abonos, o montante dos abonos e justificações, quando necessárias, a indicação do despacho do Chefe do Estado-Maior da Armada que haja autorizado o regime de abono a dinheiro.
+Art. 336.º Estes mapas são escriturados em impressos próprios (modelos n.os 27 e 28), devendo neles constar, além da identificação dos abonos, o montante dos abonos e justificações, quando necessárias, a indicação do despacho do Chefe do Estado-Maior da Armada que haja autorizado o regime de abono a dinheiro.
 
 ...
 
-###### Art. 347.º ...
+Art. 347.º ...
 
 1.º A conta corrente deve indicar, em relação a cada abonado, a graduação e classe ou a categoria, o nome e o respectivo número individual de identificação (NII);
 
@@ -629,63 +644,63 @@ Mapas de pagamento de abonos de alimentação a dinheiro
 
 ...
 
-###### Art. 349.º-A. As disposições dos artigos 345.º a 349.º aplicam-se nos casos em que o processamento de abonos não é feito por tratamento informático. Quando esse processamento esteja integrado em sistema de tratamento informático, a sua aplicação far-se-á tão inteiramente quanto possível.
+Art. 349.º-A. As disposições dos artigos 345.º a 349.º aplicam-se nos casos em que o processamento de abonos não é feito por tratamento informático. Quando esse processamento esteja integrado em sistema de tratamento informático, a sua aplicação far-se-á tão inteiramente quanto possível.
 
 ...
 
-###### Art. 351.º (Eliminado.)
+Art. 351.º (Eliminado.)
 
 ...
 
-###### Art. 354.º (Eliminado.)
+Art. 354.º (Eliminado.)
 
-###### Art. 355.º (Eliminado.)
+Art. 355.º (Eliminado.)
 
 ...
 
-###### Art. 358.º (Eliminado.)
+Art. 358.º (Eliminado.)
 
-###### Art. 359.º (Eliminado.)
+Art. 359.º (Eliminado.)
 
-###### Art. 360.º (Eliminado.)
+Art. 360.º (Eliminado.)
 
-###### Art. 361.º (Eliminado.)
+Art. 361.º (Eliminado.)
 
-###### Art. 362.º (Eliminado.)
+Art. 362.º (Eliminado.)
 
-###### Art. 363.º Quando o pessoal for transferido para situação exterior à Marinha, ou de qualquer forma deixe de perceber vencimentos pelas respectivas dotações do orçamento da Marinha, será pago de todos os vencimentos até à data em que se verifique essa mudança de situação.
+Art. 363.º Quando o pessoal for transferido para situação exterior à Marinha, ou de qualquer forma deixe de perceber vencimentos pelas respectivas dotações do orçamento da Marinha, será pago de todos os vencimentos até à data em que se verifique essa mudança de situação.
 
 § único. (Eliminado.)
 
-###### Art. 364.º As guias de vencimentos são passadas em impressos modelo n.º 41, são numeradas seguidamente dentro de cada ano económico e um duplicado ficará no arquivo do conselho administrativo emissor.
+Art. 364.º As guias de vencimentos são passadas em impressos modelo n.º 41, são numeradas seguidamente dentro de cada ano económico e um duplicado ficará no arquivo do conselho administrativo emissor.
 
 § único ...
 
 ...
 
-###### Art. 420.º Na elaboração dos assentamentos deverá declarar-se:
+Art. 420.º Na elaboração dos assentamentos deverá declarar-se:
 
 1.º a 7.º ...
 
 ...
 
-###### Art. 422.º ...
+Art. 422.º ...
 
 § único. (Eliminado.)
 
 ...
 
-###### Art. 424.º Quando a importância despendida com passageiros não tiver sido satisfeita pela autoridade requisitante das passagens, o conselho administrativo organizará uma conta dos abonos efectuados e procederá em conformidade com o estabelecido no artigo 244.º
+Art. 424.º Quando a importância despendida com passageiros não tiver sido satisfeita pela autoridade requisitante das passagens, o conselho administrativo organizará uma conta dos abonos efectuados e procederá em conformidade com o estabelecido no artigo 244.º
 
 ...
 
-###### Art. 451.º Completam este Regulamento os anexos que se tornem necessários para neles se transcreverem ou resumirem os diplomas legais, as normas, as instruções e o que demais importe à administração financeira da Marinha e, em particular, à actividade dos seus conselhos administrativos.
+Art. 451.º Completam este Regulamento os anexos que se tornem necessários para neles se transcreverem ou resumirem os diplomas legais, as normas, as instruções e o que demais importe à administração financeira da Marinha e, em particular, à actividade dos seus conselhos administrativos.
 
-###### Art. 452.º Os anexos a este Regulamento constam da relação que lhe é junta e serão publicados mediante despacho ministerial.
+Art. 452.º Os anexos a este Regulamento constam da relação que lhe é junta e serão publicados mediante despacho ministerial.
 
-###### Art. 453.º Incumbe à Direcção do Planeamento Administrativo promover a integração nos anexos dos textos que neles devam figurar e, bem assim, propor o aditamento de novos anexos à relação de que trata o artigo anterior.
+Art. 453.º Incumbe à Direcção do Planeamento Administrativo promover a integração nos anexos dos textos que neles devam figurar e, bem assim, propor o aditamento de novos anexos à relação de que trata o artigo anterior.
 
-###### Art. 454.º A alteração de qualquer das disposições do presente Regulamento é condicionada à existência de prévia proposta ou parecer da Superintendência dos Serviços Financeiros.
+Art. 454.º A alteração de qualquer das disposições do presente Regulamento é condicionada à existência de prévia proposta ou parecer da Superintendência dos Serviços Financeiros.
 
 2.º São eliminados os artigos 436.º, 437.º e 438.º do Regulamento, o que implica a eliminação da secção II do capítulo IV do título único do livro II do mesmo Regulamento, deixando, em consequência, o referido capítulo de dividir-se em secções.
 

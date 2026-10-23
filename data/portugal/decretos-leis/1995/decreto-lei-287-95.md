@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/251a00/67556755.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/287/1995/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1995-678455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88f8463d3335c9ea918266d06fd0aeb5a7295e6912e4ca4e67720a3014a3803e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 087e72c49e2836077591ad96b96a51603f44522b22177325b9824f85b88f48e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ reuse:
 subjects:
 - Assistência Médica
 - Consulta Médica
-- Serviço Nacional de Saúde
 - Exame Médico
+- Serviço Nacional de Saúde
 - TAXA Moderadora
 relationships:
 - type: amended_by
@@ -81,16 +81,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/54/1992/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/54/1992/04/11/p/dre
+- type: cites
+  target: pt:dre:199795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:652284:por
+  label: "Revogado mantendo em vigor, até serem substituídos por outros, os regulamentos que fixam os valores das taxas moderadoras\
+    \ emitidos ao abrigo do presente diploma DEC LEI.173/2003.2003.08.01.MS DR.IS-A [176]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-2003-652284
+  date: '2003-08-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:30Z'
   warnings: []
   errors: []
 ---
@@ -107,9 +121,9 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 48/90](https://diariodarepublica.pt/dr/detalhe/lei/48-1990-574127), de 24 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 2.º do [Decreto-Lei n.º 54/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1992-199795), de 11 de Abril, passa a ter a redacção seguinte:
+Artigo único. O artigo 2.º do [Decreto-Lei n.º 54/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1992-199795), de 11 de Abril, passa a ter a redacção seguinte:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 a) ...
 
@@ -149,12 +163,12 @@ p) Os doentes portadores de doenças crónicas, identificadas em portaria do Min
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Adalberto Paulo da Fonseca Mendo.
 
-**Promulgado em 5 de Outubro de 1995.**
+Promulgado em 5 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1995.**
+Referendado em 10 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

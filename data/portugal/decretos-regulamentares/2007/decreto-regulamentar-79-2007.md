@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/14500/0487604878.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/79/2007/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-2007-636412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T06:31:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4624e2ec5034f2a34a8637cf0423c3df5531f718d0d9cc3e00eb7ce8515b4023
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 986012a677a70de3a8f0cca9937f809165641e909079571dba9d5c78cec7a66f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:31:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,35 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Definição de Competências
-- Instituto Nacional de Intervenção e Garantia Agrícola
-- Inspecção Geral da Agricultura e Pescas
 - Conselho de Inspecção
-- Inspecção Geral e Auditoria de Gestão
-- Orgânica
-- Quadro de Pessoal
+- Definição de Competências
 - Ifadap
+- Inspecção Geral da Agricultura e Pescas
+- Inspecção Geral e Auditoria de Gestão
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:543675:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extinta, sendo objecto de fusão, a Inspeção-Geral da Agricultura e Pescas (criada pelo Dec Lei 209/2006 de 27-Out,\
+    \ já revogado), e cujas atribuições e competências constam do presente diploma, pelo DEC LEI.7/2012.17.01.2012.MAMAOT,\
+    \ DR.IS [12] de 17.01.2012; nos termos do disposto no nº 3 do seu art. 34º; sendo as suas atribuições integradas na Inspeção-Geral\
+    \ da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, criada naquele diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
 - type: cites
   target: celex:31989R4045
   label: null
   source: http://data.europa.eu/eli/reg/1989/4045/oj
+- type: corrected_by
+  target: pt:dre:642514:por
+  label: "Rectificado pela DECL-RECT.85/2007.28.09.2007.PCM, DR.IS [188] de 28.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/85-2007-642514
+  date: '2007-09-28'
+- type: repealed_by
+  target: pt:dre:543675:por
+  label: "Revogado, a partir de 01.03.2012, pelo DEC LEI.23/2012.01.02.2012.MAMAOT, DR.IS [23] de 01.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2012-543675
+  date: '2012-02-01'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:31:30Z'
   warnings: []
   errors: []
 ---
@@ -212,16 +230,16 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 29 de Junho de 2007.**
+Promulgado em 29 de Junho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de Julho de 2007.**
+Referendado em 3 de Julho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa
 
 ## ANEXO — (mapa a que se refere o artigo 8.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/14500/0487604878.pdf))](https://files.diariodarepublica.pt/1s/2007/07/14500/0487604878.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/14500/0487604878.pdf)

@@ -48,36 +48,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/913-1983-442769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T07:54:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56cb807cbeda8fde8221d6c9105553525c2f850b141c6d2b237a62c07b197d85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0c96de7a0504d804f4927e40d4248a2fabfc59dbc01a78fc3f6432fb2ff5df7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:54:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Administrativo
+- Laboratório Nacional de Engenharia e Tecnologia Industrial
+relationships:
+- type: cites
+  target: pt:dre:370663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:54:10Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +148,7 @@ Secretariado
 
 VII
 
-# Livro de actas e sua elaboração
+## Livro de actas e sua elaboração
 
 11.º As actas das reuniões do conselho serão numeradas por ordem sucessiva, quer sejam ordinárias quer extraordinárias, e serão igualmente datadas, devendo sempre ser submetidas à aprovação dos membros presentes às mesmas na reunião seguinte àquela a que respeitam, após o que serão assinadas.
 
@@ -184,6 +190,6 @@ Recursos
 
 Ministérios das Finanças e do Plano e da Indústria e Energia.
 
-**Assinada em 6 de Setembro de 1983.**
+Assinada em 6 de Setembro de 1983.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Indústria e Energia, José Veiga Simão.

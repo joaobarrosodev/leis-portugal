@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/013a00/04090427.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/20/2005/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2005-624793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e957248bc430214e585037a5d4c6e956ab99a6cc960ffa78fb108196c565bb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1248e23059f2e101fce32d84a5b4985386f9934c43c83cba487c83605ce7f8ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assistência a Familiares
+- Carreira Profissional
 - Colocação de Professores
 - Concurso
 - Contratação de Docentes
 - Destacamento de Pessoal
 - Direcção Geral dos Recursos Humanos da Educação
-- Carreira Profissional
-- Formulário Eletrónico
-- Recrutamento de Pessoal
-- Proteção ao Deficiente
-- Internet
-- Estabelecimento de Ensino
-- Pessoal Docente
-- Incapacidade Física
-- Ensino Básico
-- Quadro de Pessoal
-- Mobilidade de Pessoal
 - Doença
 - Educação Pré-escolar
+- Ensino Básico
+- Estabelecimento de Ensino
+- Formulário Eletrónico
+- Incapacidade Física
+- Internet
+- Mobilidade de Pessoal
+- Pessoal Docente
+- Proteção ao Deficiente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 - ZONA Pedagógica
 relationships:
 - type: amended_by
@@ -115,16 +115,106 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:151527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676429:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:544667:por
+  label: "Revogado o Dec Lei 35/2003 de 27-Fev, com a redacção e republicação do presente diploma, pelo DEC LEI.20/2006.31.01.2006.ME,\
+    \ DR.IS-A [22] de 31.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2006-544667
+  date: '2006-01-31'
 article_structure:
-  article_count: 89
+  article_count: 73
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:33Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +257,9 @@ Os artigos 8.º, 9.º, 10.º, 12.º, 14.º, 15.º, 16.º, 30.º, 33.º, 34.º, 3
 
 6 - Do aviso de abertura pode constar a obrigatoriedade de utilização de formulários electrónicos.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -195,13 +287,17 @@ h) Formulação, para efeitos do contrato referido na alínea anterior, das pref
 
 5 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
 2 - Os candidatos ao concurso externo não podem ser opositores a mais de dois níveis, a mais de um nível e grupo de docência ou a mais de dois grupos de docência.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -235,7 +331,9 @@ a) Contratos a celebrar durante o 1.º período lectivo, com termo em 31 de Agos
 
 b) Contratos de duração temporária.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -249,7 +347,9 @@ d) ...
 
 2 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - A graduação de candidatos detentores de habilitação própria para a docência é determinada pela soma da classificação académica, expressa na escala de 0 a 20, com a parcela N x 1 valor, em que N é o quociente da divisão, com arredondamento à milésima, por 365 do número de dias de serviço docente ou equiparado avaliado com menção de Satisfaz, contado nos termos do regime geral da função pública, prestado até ao dia 31 de Agosto do ano imediatamente anterior à data da abertura do concurso.
 
@@ -257,7 +357,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -269,7 +371,9 @@ a) [Anterior alínea b).]
 
 b) [Anterior alínea c).]
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -297,7 +401,9 @@ e) ...
 
 8 - O destacamento previsto na alínea a) do número anterior realiza-se antes da mobilidade prevista nas alíneas b), c) e d) da mesma disposição; os destacamentos previstas nas alíneas c) e d), bem como a afectação prevista na alínea b), realizam-se simultaneamente, de forma a possibilitar a recuperação de horários, sendo, contudo, respeitadas as prioridades referidas.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - Os docentes dos quadros de estabelecimentos de educação ou de ensino e dos quadros de zona pedagógica podem manifestar a intenção de oposição ao destacamento por condições específicas para estabelecimento de educação ou de ensino diverso daquele em que se encontram providos desde que:
 
@@ -325,7 +431,9 @@ c) 3.ª prioridade - docentes nas situações previstas na alínea c) do número
 
 7 - Podem ainda ser ocupados horários com componente lectiva inferior a dezoito horas desde que a componente lectiva do docente, determinada nos termos do artigo 79.º do ECD, seja igual ou inferior ao horário declarado.
 
-###### Artigo 34.º — Instrução do processo
+Artigo 34.º
+
+Instrução do processo
 
 1 - Os opositores ao concurso que pretendam ser destacados por condições específicas devem manifestar essa intenção nos termos previstos na alínea e) do n.º 1 do artigo 9.º
 
@@ -337,7 +445,9 @@ c) 3.ª prioridade - docentes nas situações previstas na alínea c) do número
 
 5 - Sem prejuízo do disposto nos números anteriores, podem os docentes destacados por condições específicas ser submetidos a junta médica para comprovação das declarações prestadas.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -351,7 +461,9 @@ c) 3.ª prioridade - docentes nas situações previstas na alínea c) do número
 
 6 - (Revogado.)
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -373,7 +485,9 @@ c) 3.ª prioridade - docentes nas situações previstas na alínea c) do número
 
 10 - (Anterior n.º 9.)
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - A afectação é feita por um ano escolar, considerando, para cada quadro de zona pedagógica e cada grupo de docência, os horários integrantes de cada um dos seguintes intervalos:
 
@@ -395,7 +509,9 @@ e) Horário até sete horas.
 
 5 - Os docentes referidos no número anterior podem ser afectos nos termos dos n.os 1 e 2 ou podem assegurar, no estabelecimento de educação ou de ensino integrado no âmbito territorial do quadro de zona pedagógica a que pertencem que for indicado pela Direcção-Geral dos Recursos Humanos da Educação, a solicitação da respectiva direcção regional de educação, o serviço que, de acordo com os objectivos definidos no n.º 1 do artigo 27.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, lhes for atribuído, em ambos os casos determinando a actualização da lista graduada de candidatos não colocados.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -415,7 +531,9 @@ e) Horário até sete horas.
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Os horários disponíveis após a afectação e os destacamentos são preenchidos por candidatos que, em sede de concurso externo, não obtiveram colocação nos quadros.
 
@@ -435,13 +553,17 @@ e) Horário até sete horas.
 
 9 - (Anterior n.º 6.)
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - Até ao concurso para o ano lectivo de 2007-2008, inclusive, poderão candidatar-se aos concursos para o preenchimento de lugares dos quadros indivíduos portadores de habilitação própria para a docência.
 
 2 - ...
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - ...
 
@@ -487,15 +609,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix - Maria do Carmo Félix da Costa Seabra.
 
-**Promulgado em 7 de Janeiro de 2005.**
+Promulgado em 7 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Janeiro de 2005.**
+Referendado em 10 de Janeiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 35/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2003-186123), de 27 de Fevereiro
 

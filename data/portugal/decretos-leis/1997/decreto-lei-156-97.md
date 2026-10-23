@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/156/1997/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1997-164054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20f581f3cc2dc7aab2c105ba8d9ac1b90569dcf77cdbea9f0473e15ba56c2a20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fad7ee5d8a5c746208349cdb7dd6c48f3fed9c1dd3131e5a1360e6f35e3aad75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,20 @@ reuse:
 subjects:
 - Administração Central
 - Alvará
-- Pobreza
-- Ordenamento do Território
-- Plano Director Municipal
 - Arrendamento Urbano não Habitacional
+- Autarquia Local
+- Câmara Municipal
 - Habitação Social
 - Loteamento Urbano
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
 - Plano de Urbanização
+- Plano Director Municipal
+- Pobreza
+- Política de Solos
 - Programa
 - Programa Especial de Realojamento nas Áreas Metropolitanas de Lisboa e Porto
-- Câmara Municipal
 - Regime Jurídico
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/1997/06/24/p/dre
@@ -100,16 +100,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
+- type: cites
+  target: pt:dre:164053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418827:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:54Z'
   warnings: []
   errors: []
 ---
@@ -146,12 +170,12 @@ As alterações dos alvarás de loteamento destinados à execução dos empreend
 
 Visto e aprovado em Conselho de Ministros de 8 de Maio de 1997. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho.
 
-**Promulgado em 6 de Junho de 1997.**
+Promulgado em 6 de Junho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Junho de 1997.**
+Referendado em 11 de Junho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

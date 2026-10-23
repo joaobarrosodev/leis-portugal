@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/307/2001/12/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2001-582035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:28:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c15be072297d07ae0a9406e8bcb961884561ecc016ad627d880688a280e8380
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1874abc0f99b22f40ce469c76dc2b75e2845496d5e3cee25dd96b4d1292efdc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Organização Interprofissional
 - Conselho das Organizações Interprofissionais Florestais
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Definição de Competências
 - Interprofissionalismo Florestal
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Organização Interprofissional
 - Saúde Animal
 relationships:
 - type: amended_by
@@ -118,16 +118,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+- type: cites
+  target: pt:dre:335901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609994:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:455151:por
+  label: "Revogados, a partir de 01.09.2008, os artigos 16.º, 16.º-A e 16.º-B do Decreto-Lei n.º 166/2000, de 5 de Agosto,\
+    \ na redacção do presente diploma, pelo DEC LEI.160/2008.08.08.2008.MADRP, DR.IS [153] de 08.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-2008-455151
+  date: '2008-08-08'
 article_structure:
-  article_count: 36
+  article_count: 34
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:28:21Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +228,9 @@ e) A aprovação dos acordos a que se refere o n.º 2 do artigo 7.º da [Lei n.�
 
 f) [Anterior alínea d).]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -230,7 +286,9 @@ Secções especializadas
 
 Sem prejuízo do disposto no artigo 4.º, é desde já regulado o Conselho das Organizações Interprofissionais Florestais, adiante designado por COIF, que constitui uma secção especializada do CCF e cujas competências, composição e funcionamento são definidos no artigo seguinte.
 
-###### Artigo 16.º-B — Conselho das Organizações Interprofissionais Florestais
+Artigo 16.º-B
+
+Conselho das Organizações Interprofissionais Florestais
 
 1 - O COIF é um órgão de consulta, criado nos termos do artigo 6.º da [Lei n.º 158/99](https://diariodarepublica.pt/dr/detalhe/lei/158-1999-570565), de 14 de Setembro, e ao qual compete, em particular, dar parecer sobre todas as matérias previstas no artigo 2.º do mesmo diploma legal, no âmbito dos produtos ou grupos de produtos para os quais existam organizações interprofissionais florestais reconhecidas, sem prejuízo de outras questões para as quais o Ministro da Agricultura, do Desenvolvimento Rural e das Pescas entenda ouvi-lo.
 
@@ -256,15 +314,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Outubro de 2001. - António Manuel de Oliveira Guterres - Luís Manuel Capoulas Santos.
 
-**Promulgado em 15 de Novembro de 2001.**
+Promulgado em 15 de Novembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Novembro de 2001.**
+Referendado em 26 de Novembro de 2001.
 
-**O Primeiro-Ministro, em exercício, Guilherme d'Oliveira Martins.**
+O Primeiro-Ministro, em exercício, Guilherme d'Oliveira Martins.
 
 ## ANEXO — [Decreto-Lei n.º 166/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2000-335901), de 5 de Agosto
 

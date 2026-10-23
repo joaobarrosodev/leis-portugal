@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/105/2009/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2009-608241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd57466a7be9b0054bc30971e5d7ea99ea8d8b8ba2264fe21291201bf69aee73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7c77f8bda342fb12a12e74372e0705215b98b2ee2c5555e63225061c3bfed5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,35 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Conselho Geral
+- Criação de Emprego
 - Criação de Serviços
 - Definição de Competências
-- Fundo Autónomo de Apoio à Concentração e Consolidação de Empresas
-- Presidência da República
-- Linha de Crédito
-- Criação de Emprego
 - Desenvolvimento Económico
-- Reestruturação de Empresas
+- Financiamento
+- Fundo Autónomo de Apoio à Concentração e Consolidação de Empresas
+- IAPMEI
+- Linha de Crédito
 - Pequenas e Médias Empresas
 - PME
-- IAPMEI
+- Presidência da República
+- Reestruturação de Empresas
 - Sociedade Gestora de Empresas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/10/2009/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10/2009/03/10/p/dre
+- type: cites
+  target: pt:dre:604822:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:54Z'
   warnings: []
   errors: []
 ---
@@ -354,15 +358,15 @@ d) Sejam cumpridas as formalidades e obtidas as autorizações das autoridades d
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 2009. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Costa Pina - António José de Castro Guerra.
 
-**Promulgado em 5 de Maio de 2009.**
+Promulgado em 5 de Maio de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 11 de Maio de 2009.**
+Referendado em 11 de Maio de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Instrução de projectos
 

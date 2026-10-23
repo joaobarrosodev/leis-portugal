@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/090b00/17221729.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/7/1997/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1997-469650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 682934abfd134b41eb79f1d7d0286e4147b8b2ca32ff58034e1ac6a344bdff59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d20deeadf66360ea8e5c6336eea2f9c4ba52f312265445dc95f8bb831cb9824a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Direcção Geral de Desenvolvimento Rural
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:518854:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:198678:por
+  label: "Alterada a redacção do nº 2 do art. 33º, pelo DR.4/98.1998.03.30.MADRP DR.IS-B [75] de 30/Mar/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-1998-198678
+  date: '1998-03-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
   label: null
@@ -86,16 +91,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/97/1993/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/97/1993/04/02/p/dre
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680645:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:518854:por
+  label: "Revogado, a partir de 01.03.2007, pelo DR.8/2007.27.02.2007.MADRP, DR.IS [41] de 27.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/8-2007-518854
+  date: '2007-02-27'
 article_structure:
   article_count: 35
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:01Z'
   warnings: []
   errors: []
 ---
@@ -236,7 +262,9 @@ b) Divisão de Gestão Financeira e Controlo Orçamental;
 
 c) Repartição de Administração Geral.
 
-###### Artigo 8.º — Divisão de Formação, Gestão de Recursos Humanos e Informática
+###### Artigo 8.º
+
+##### Divisão de Formação, Gestão de Recursos Humanos e Informática
 
 À Divisão de Formação, Gestão de Recursos Humanos e Informática compete:
 
@@ -276,7 +304,9 @@ r) Colaborar no desenvolvimento de um sistema integrado de informação, utiliza
 
 s) Elaborar e manter actualizado o cadastro dos meios informáticos da DGDR e garantir a sua correcta gestão.
 
-###### Artigo 9.º — Divisão de Gestão Financeira e Controlo Orçamental
+###### Artigo 9.º
+
+##### Divisão de Gestão Financeira e Controlo Orçamental
 
 1 - À Divisão de Gestão Financeira e Controlo Orçamental compete:
 
@@ -362,7 +392,9 @@ b) Divisão de Estudos, Planeamento e Prospectiva;
 
 c) Divisão de Documentação e Tratamento da Informação.
 
-###### Artigo 12.º — Divisão de Programação, Acompanhamento e Avaliação
+###### Artigo 12.º
+
+##### Divisão de Programação, Acompanhamento e Avaliação
 
 À Divisão de Programação, Acompanhamento e Avaliação compete:
 
@@ -378,7 +410,9 @@ e) Assegurar e promover a realização de acções de controlo e auditoria inter
 
 f) Acompanhar a realização das missões ao estrangeiro, assegurando a elaboração dos respectivos relatórios e promover a adequada distribuição dos mesmos.
 
-###### Artigo 13.º — Divisão de Estudos, Planeamento e Prospectiva
+###### Artigo 13.º
+
+##### Divisão de Estudos, Planeamento e Prospectiva
 
 À Divisão de Estudos, Planeamento e Prospectiva compete:
 
@@ -388,7 +422,9 @@ b) Acompanhar a evolução das políticas e as mudanças de âmbito supranaciona
 
 c) Cooperar com outros organismos públicos e demais entidades responsáveis e competentes nestes domínios, em particular com as que se inserem na orgânica do MADRP.
 
-###### Artigo 14.º — Divisão de Documentação e Tratamento da Informação
+###### Artigo 14.º
+
+##### Divisão de Documentação e Tratamento da Informação
 
 À Divisão de Documentação e Tratamento da Informação compete:
 
@@ -456,7 +492,9 @@ d) Divisão para Renovação do Tecido Produtivo.
 
 5 - Os centros referidos no número anterior funcionam de acordo com as normas e princípios consagrados em regulamento próprio aprovado pelo director-geral.
 
-###### Artigo 19.º — Divisão de Gestão e Controlo da Formação
+###### Artigo 19.º
+
+##### Divisão de Gestão e Controlo da Formação
 
 À Divisão de Gestão e Controlo da Formação compete:
 
@@ -468,7 +506,9 @@ c) Proceder à avaliação da execução dos programas de formação, estabelece
 
 d) Assegurar o funcionamento dos sistemas de programação financeira e controlo orçamental dos programas.
 
-###### Artigo 20.º — Divisão para a Qualificação Profissional
+###### Artigo 20.º
+
+##### Divisão para a Qualificação Profissional
 
 À Divisão para a Qualificação Profissional compete:
 
@@ -480,7 +520,9 @@ c) Promover e assegurar a disponibilidade e utilização dos meios logísticos e
 
 d) Orientar e assegurar, em consonância com outros organismos do MADRP, ou a ele estranhos, a produção e divulgação adequadas de material pedagógico necessário ao seu correcto e pleno aproveitamento, bem como estudar outras formas e processos de bem gerir aqueles meios.
 
-###### Artigo 21.º — Divisão de Associativismo e Apoio Institucional
+###### Artigo 21.º
+
+##### Divisão de Associativismo e Apoio Institucional
 
 À Divisão de Associativismo e Apoio Institucional compete:
 
@@ -494,7 +536,9 @@ d) Acompanhar a situação e evolução do sector associativo, designadamente na
 
 e) Dar parecer sobre o reconhecimento e propor a declaração de conformidade das organizações e agrupamentos de produtores.
 
-###### Artigo 22.º — Divisão para Renovação do Tecido Produtivo
+###### Artigo 22.º
+
+##### Divisão para Renovação do Tecido Produtivo
 
 À Divisão para Renovação do Tecido Produtivo compete:
 
@@ -522,7 +566,9 @@ c) Divisão de Promoção dos Produtos de Qualidade;
 
 d) Divisão de Valorização do Ambiente Natural e do Património Cultural.
 
-###### Artigo 24.º — Divisão de Gestão de Programas e Projectos de Desenvolvimento Rural
+###### Artigo 24.º
+
+##### Divisão de Gestão de Programas e Projectos de Desenvolvimento Rural
 
 À Divisão de Gestão de Programas e Projectos de Desenvolvimento Rural compete:
 
@@ -530,7 +576,9 @@ a) Garantir a gestão ou participação em programas ou iniciativas comunitária
 
 b) Acompanhar a execução dos programas, iniciativas e projectos comunitários ou nacionais, especializados ou não, independentemente do seu enquadramento institucional ou financeiro, com incidências ou reflexos no mundo rural.
 
-###### Artigo 25.º — Divisão para a Diversificação das Actividades em Meio Rural
+###### Artigo 25.º
+
+##### Divisão para a Diversificação das Actividades em Meio Rural
 
 À Divisão para a Diversificação das Actividades em Meio Rural compete:
 
@@ -540,7 +588,9 @@ b) Promover e acompanhar as iniciativas e medidas de política que visem garanti
 
 c) Participar na gestão e acompanhamento de sistemas de incentivos promotores do desenvolvimento e diversificação das actividades em meio rural.
 
-###### Artigo 26.º — Divisão de Promoção de Produtos de Qualidade
+###### Artigo 26.º
+
+##### Divisão de Promoção de Produtos de Qualidade
 
 À Divisão de Promoção dos Produtos de Qualidade compete:
 
@@ -554,7 +604,9 @@ d) Apreciar e emitir pareceres relativos aos projectos de investimento publicame
 
 e) Apoiar acções de promoção e valorização dos produtos de qualidade, a sua organização na base territorial e a sua afirmação no mercado.
 
-###### Artigo 27.º — Divisão de Valorização do Ambiente Natural e do Património Cultural
+###### Artigo 27.º
+
+##### Divisão de Valorização do Ambiente Natural e do Património Cultural
 
 À Divisão de Valorização do Ambiente Natural e do Património Cultural compete:
 
@@ -666,14 +718,14 @@ Presidência do Conselho de Ministros, 20 de Fevereiro de 1997.
 
 António Manuel de Oliveira Guterres - Maria Manuela de Brito Arcanjo Marques da Costa - Fernando Manuel Van-Zeller Gomes da Silva - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 3 de Abril de 1997.**
+Promulgado em 3 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Abril de 1997.**
+Referendado em 7 de Abril de 1997.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/090b00/17221729.pdf))](https://files.diariodarepublica.pt/1s/1997/04/090b00/17221729.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/090b00/17221729.pdf)

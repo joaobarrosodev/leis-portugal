@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/14000/0001700024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/43/2020/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2020-138461839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 664290274aa38a2bda7121e23f2918a47847bfa300afb8c6a7ca618c4c7d7139
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2c0b92e90146a9a454438c6e4dfa5b890621ce374a967ce37c47cedb10238c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,66 +65,66 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
+- Açores
+- Administração Pública
+- Agência Portuguesa do Ambiente
 - Associação Nacional de Empresas Metalúrgicas e Metalomecânicas
 - Associação Nacional de Municípios Portugueses
-- Direcção Nacional de Auditoria e Fiscalização
-- Direcção Nacional de Meios Aéreos
-- Direcção Nacional de Recursos de Protecção Civil
+- Autarquia Local
+- Autoridade Marítima Nacional
+- Autoridade Nacional de Emergência e Proteção Civil
+- Autoridade Nacional de Protecção Civil
 - Autoridade Nacional de Segurança
-- Prevenção de Incêndios
 - Autoridade Tributária e Aduaneira
 - Carta das Nações Unidas
 - Centro de Coordenação de Socorros
-- Pessoal Dirigente
 - Chefe do Estado Maior General das Forças Armadas
-- INEM
 - Comando Distrital de Operações de Socorro
+- Comando Nacional de Operações de Socorro
 - Comando Operacional das Forças Armadas
-- Ministério da Administração Interna
-- Comissão de Planeamento de Emergência da Agricultura
 - Comissão de Planeamento da Agricultura Pescas e Alimentação de Emergência
 - Comissão de Planeamento da Saúde de Emergência
 - Comissão de Planeamento das Comunicações de Emergência
+- Comissão de Planeamento de Emergência da Agricultura
 - Comissão de Planeamento de Emergência das Comunicações
+- Comissão de Planeamento Energético de Emergência
+- Comissão Executiva
 - Comissão Executiva de Infraestruturas OTAN
 - Comissão Nacional de Planeamento de Emergência de Aviação Civil
 - Comité CE
-- Governo Regional
 - Conselho Nacional de Planeamento Civil de Emergência
 - Criação de Lugares
 - Definição de Competências
-- Regulamentação de Atos Legislativos
-- Autoridade Marítima Nacional
+- Direcção Nacional de Auditoria e Fiscalização
 - Direcção Nacional de Bombeiros
+- Direcção Nacional de Meios Aéreos
 - Direcção Nacional de Planeamento de Emergência
+- Direcção Nacional de Recursos de Protecção Civil
 - Escola Nacional de Bombeiros
 - Estado Maior da Força Aérea
-- Administração Pública
 - Estatuto Político-Administrativo da Região Autónoma da Madeira
-- Secretaria Geral
-- Recrutamento de Pessoal
-- Primeiro-ministro
 - GNR
-- Comissão de Planeamento Energético de Emergência
-- Tratado do Atlântico Norte
+- Governo
+- Governo Regional
+- INEM
+- Ministério da Administração Interna
+- Pessoal Dirigente
 - Presidente
+- Prevenção de Incêndios
+- Primeiro-ministro
+- PSP
+- Recrutamento de Pessoal
+- Regulamentação de Atos Legislativos
 - Representante do Estado
 - Responsabilidade Civil
+- Secretaria Geral
 - Secretário Geral
 - Secretário Geral do Sistema de Segurança Interna
-- Autoridade Nacional de Protecção Civil
-- Comando Nacional de Operações de Socorro
-- Governo
-- Açores
+- Sistema de Gestão Integrada de Fogos Rurais
 - Sistema Nacional de Planeamento Civil de Emergência
-- Autarquia Local
-- Comissão Executiva
+- Tratado do Atlântico Norte
 - Vice-presidente
 - Vogal
-- Sistema de Gestão Integrada de Fogos Rurais
-- Autoridade Nacional de Emergência e Proteção Civil
-- Agência Portuguesa do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:164955304:por
@@ -142,16 +142,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2008/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2008/08/29/p/dre
+- type: cites
+  target: pt:dre:121748967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553925:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
+  article_count: 21
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:37Z'
   warnings: []
   errors: []
 ---
@@ -496,7 +512,9 @@ d) [Anterior alínea c).]
 
 6 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 [...]:
 
@@ -540,12 +558,14 @@ b) A alínea o) do artigo 16.º do [Decreto-Lei n.º 45/2019](https://diariodare
 
 Visto e aprovado em Conselho de Ministros de 18 de junho de 2020. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - João Titterington Gomes Cravinho - Eduardo Arménio do Nascimento Cabrita - Marta Alexandra Fartura Braga Temido de Almeida Simões - João Pedro Soeiro de Matos Fernandes - Alberto Afonso Souto de Miranda - Maria do Céu de Oliveira Antunes Albuquerque - Ricardo da Piedade Abreu Serrão Santos.
 
-**Promulgado em 10 de julho de 2020.**
+Promulgado em 10 de julho de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de julho de 2020.**
+Referendado em 15 de julho de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113411383

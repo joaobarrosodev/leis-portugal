@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/16500/17451746.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/419-1980-472346
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 234680249171fdcd88c7d28884d7d6cc0c573fec91deacadceafcc2100960805
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a7bcc328428c51f6f7d47b3eaa85a0008426ef2046eca902423c9171a37c257
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ANO de Escolaridade 12
+- Habilitações Literárias
 relationships:
 - type: amended_by
   target: pt:dre:576541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:394916:por
+  label: "Alterado o quadro II anexo pela PORT.358/81.28.04.1981.MECI, DR.IS [97] de 28.04.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/358-1981-394916
+  date: '1981-04-28'
+- type: cites
+  target: pt:dre:281414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472347:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORTARIA NUMERO 684/81, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 183, DE 11/8/81.\0/8/81.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:576541:por
+  label: Revogada, pelo(a) Portaria n.º 684/81 - Diário da República n.º 183/1981, Série I de 1981-08-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/684-1981-576541
+  date: '1981-08-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:00Z'
   warnings: []
   errors: []
 ---
@@ -120,10 +144,10 @@ Quadro I anexo à Portaria n.º 419/80
 
 (Acessos ao 12.º ano de escolaridade)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/16500/17451746.pdf))](https://files.diariodarepublica.pt/1s/1980/07/16500/17451746.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/16500/17451746.pdf)
 
 Quadro II anexo à Portaria n.º 419/80
 
 (Equivalências)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/16500/17451746.pdf))](https://files.diariodarepublica.pt/1s/1980/07/16500/17451746.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/16500/17451746.pdf)

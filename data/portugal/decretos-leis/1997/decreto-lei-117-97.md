@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/111a00/23522358.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/117/1997/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1997-397534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:48:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 415f25c5cfc1e7d9c9e8abc5bd10f70dcea753abc9602957b1e4db71b4c81f6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76fce56e480413ab79438b746bd09d79980c045afa3d41ab9f81d768facb17c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:48:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,48 +67,63 @@ reuse:
 subjects:
 - Arqueologia
 - ARTE Rupestre
+- Bolsa de Estudos
 - Centro Nacional de Arqueologia Náutica e Subaquática
 - Centro Nacional de ARTE Rupestre
-- Formação Profissional
-- Investigação Científica e Tecnológica
-- Pessoal Dirigente
 - Criação de Serviços
-- Património Arqueológico
-- Património Cultural
+- Cultura
 - Fiscalização
+- Formação Profissional
 - Gestão do Património
-- Ministério da Cultura
-- Ministro da Cultura
 - Informação
 - Informação Científica e Técnica
 - Instituto Português de Arqueologia
 - Integração de Trabalhadores
+- Investigação Científica e Tecnológica
+- Ministério da Cultura
+- Ministro da Cultura
 - Museu
 - Orgânica
-- Património Subaquático
+- Património Arqueológico
+- Património Cultural
 - Património Histórico
+- Património Subaquático
 - Pessoa Coletiva
-- Zona de Proteção
-- Cultura
+- Pessoal Dirigente
 - Protecção do Património
 - Quadro de Pessoal
-- Bolsa de Estudos
 - Subsídio
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:211837464:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520437:por
+  label: "Revogado e determinado que o Instituto de Gestão do Património Arquitectónico e Arqueológico suceda nas atribuições\
+    \ do Instituto Português de Arquelogia, cuja orgânica foi aprovada pelo presente diploma, pelo DEC LEI.96/2007.29.03.2007.MC,\
+    \ DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-2007-520437
+  date: '2007-03-29'
 article_structure:
   article_count: 27
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:48:59Z'
   warnings: []
   errors: []
 ---
@@ -375,7 +390,9 @@ c) Fiscalizar e acompanhar tecnicamente a realização de trabalhos arqueológic
 
 Ao PAVC compete gerir, proteger, musealizar e organizar para visita pública os monumentos incluídos na zona especial de protecção do Vale do Côa.
 
-###### Artigo 14.º — Divisão de Inventário
+###### Artigo 14.º
+
+##### Divisão de Inventário
 
 Compete à Divisão de Inventário:
 
@@ -383,7 +400,9 @@ a) Constituir, gerir e actualizar um sistema de informação arqueológica (cart
 
 b) Organizar e conservar o arquivo histórico da arqueologia portuguesa, a partir dos processos herdados dos organismos que precederam o IPA na superintendência da arqueologia.
 
-###### Artigo 15.º — Divisão de Divulgação
+###### Artigo 15.º
+
+##### Divisão de Divulgação
 
 Compete à Divisão de Divulgação, para além das tarefas gerais de divulgação da arqueologia cometidas ao IPA:
 
@@ -535,16 +554,16 @@ O presente diploma entra em vigor no dia imediato ao da respectiva publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Manuel de Carvalho Ferreira Vitorino - José Alberto Rebelo dos Reis Lamego - Fernando Teixeira dos Santos - João Cardona Gomes Cravinho - Eduardo Carrega Marçal Grilo - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 26 de Abril de 1997.**
+Promulgado em 26 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Abril de 1997.**
+Referendado em 28 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Quadro de pessoal dirigente do IPA, a que se refere o n.º 1 do artigo 22.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/111a00/23522358.pdf))](https://files.diariodarepublica.pt/1s/1997/05/111a00/23522358.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/111a00/23522358.pdf)

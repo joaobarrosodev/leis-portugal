@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/70/2004/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c5bae6e15c2ebceff02d61fd68c67c1ce390da17ad0f2db5218ba8eeb807c24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d1adb85bdd2cd770e1cfdb57449c5cc2955c3e2242e9b1cf929bce885363278
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Valores Mobiliários
-- Mercado de Títulos
-- Sociedade Comercial
+- CMVM
 - Código do Registo Comercial
 - Código dos Valores Mobiliários
+- Comércio
 - Emissão de Títulos
+- Mercado de Títulos
 - Mercado de Valores
 - Regime Jurídico
 - Registo de Valores Mobiliários
-- CMVM
-- Comércio
+- Sociedade Comercial
+- Valores Mobiliários
 - Warrant Autónomo
 relationships:
 - type: amended_by
   target: pt:dre:176071:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457217:por
+  label: "Alterado o art. 3º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.2/2005.04.01.2005.MJ, DR.IS-A [2] de 04.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2005-457217
+  date: '2005-01-04'
+- type: amended_by
+  target: pt:dre:667337:por
+  label: "Alterado, a partir de 30.03.2006, o art. 3º do Código de Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez,\
+    \ na redacção dada pelo presente diploma, pelo DEC LEI.52/2006.15.03.2006.MFAP, DR.IS-A [53] de 15.03.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2006-667337
+  date: '2006-03-15'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: "Alterado o art. 3º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86 de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl] de 29.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:522813:por
+  label: "Alterado o art. 3º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.8/2007.17.01.2007.MJ, DR.IS [12] de 17.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2007-522813
+  date: '2007-01-17'
+- type: amended_by
+  target: pt:dre:608246:por
+  label: "Alterado o art. 3º do Código de Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pela LEI.19/2009.12.05.2009.AR, DR.IS [91] de 12.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/19-2009-608246
+  date: '2009-05-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/d
   label: null
@@ -122,16 +152,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/368/1998/11/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/368/1998/11/23/p/dre
+- type: cites
+  target: pt:dre:217934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667144:por
+  label: null
+  source: null
 article_structure:
-  article_count: 28
+  article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:56Z'
   warnings: []
   errors: []
 ---
@@ -170,11 +276,15 @@ b) Direito a exigir a diferença entre um valor do activo subjacente fixado na d
 
 2 - Em condições estabelecidas em regulamento, a Comissão do Mercado de Valores Mobiliários (CMVM) pode permitir que o preço de exercício seja fixado em momento posterior ao determinado no número anterior.
 
-###### Artigo 3.º — Activos subjacentes
+Artigo 3.º
+
+Activos subjacentes
 
 Compete à CMVM, através de regulamento, determinar que activos podem ser utilizados como activos subjacentes a warrants autónomos.
 
-###### Artigo 4.º — Entidades emitentes
+Artigo 4.º
+
+Entidades emitentes
 
 1 - ...
 
@@ -182,19 +292,25 @@ Compete à CMVM, através de regulamento, determinar que activos podem ser utili
 
 3 - A CMVM pode, por regulamento, permitir que sejam emitidos warrants autónomos por entidades que não se integrem em qualquer das categorias indicadas no n.º 1, desde que seja prestada garantia adequada por entidade idónea.
 
-###### Artigo 6.º — Limite de emissão
+Artigo 6.º
+
+Limite de emissão
 
 1 - ...
 
 2 - A CMVM pode, por regulamento, fixar outros limites para a emissão de warrants autónomos.
 
-###### Artigo 13.º — Warrants autónomos sobre valores mobiliários alheios
+Artigo 13.º
+
+Warrants autónomos sobre valores mobiliários alheios
 
 1 - A entidade emitente de warrants autónomos sobre valores mobiliários alheios informa a emitente do activo subjacente da deliberação de emissão de warrants no mais curto espaço de tempo possível.
 
 2 - Os warrants autónomos sobre valores mobiliários alheios conferem sempre ao respectivo emitente a faculdade de se exonerar através de liquidação financeira, nos termos da alínea b) do n.º 1 do artigo 2.º
 
-###### Artigo 15.º — Direito subsidiário
+Artigo 15.º
+
+Direito subsidiário
 
 Aos warrants autónomos aplica-se subsidiariamente:
 
@@ -278,15 +394,15 @@ O [Decreto-Lei n.º 172/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona.
 
-**Promulgado em 12 de Março de 2004.**
+Promulgado em 12 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Março de 2004.**
+Referendado em 15 de Março de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — [Decreto-Lei n.º 172/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1999-323701)
 

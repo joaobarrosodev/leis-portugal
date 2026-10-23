@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/01/015a00/04810487.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/14/2006/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2006-538997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e761f4054e6460b3bd441f7880a10785a3f171d601a6a8e464da6371e3c18873
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3987f07243f547e9ffb2fdedd4c036c5a20e0348d59cc559d6efe0e1e82c8566
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,18 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Crime
-- Publicidade
-- Multa
 - Definição de Competências
 - Fiscalização
-- Radiodifusão
-- Tabaco
+- Multa
+- Programa Audiovisual
 - Promoção de Produtos
 - Proteção do Consumidor
+- Publicidade
+- Radiodifusão
 - Sanção
+- Tabaco
 - Tabagismo
 - Televisão
-- Programa Audiovisual
 relationships:
 - type: amended_by
   target: pt:dre:636938:por
@@ -90,16 +90,21 @@ relationships:
   target: celex:32003L0033
   label: null
   source: http://data.europa.eu/eli/dir/2003/33/oj
+- type: repealed_by
+  target: pt:dre:636938:por
+  label: "Revogado, a partir de 01.01.2008, pela LEI.37/2007.14.08.2007.AR, DR.IS [156] de 14.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2007-636938
+  date: '2007-08-14'
 article_structure:
-  article_count: 34
+  article_count: 31
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:28Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +167,9 @@ c) «Mediante pedido individual de um destinatário de serviços» um serviço f
 
 11 - Entende-se por «canal publicitário» qualquer instrumento de comunicação utilizado na transmissão da mensagem publicitária.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - São proibidas todas as formas de publicidade ao tabaco e aos produtos do tabaco através de canais publicitários, salvo o disposto nos números seguintes.
 
@@ -170,7 +177,9 @@ c) «Mediante pedido individual de um destinatário de serviços» um serviço f
 
 3 - ...
 
-###### Artigo 9.º-A — [...]
+Artigo 9.º-A
+
+[...]
 
 1 - ...
 
@@ -192,7 +201,9 @@ c) De (euro) 30000 a (euro) 44891,81, para a infracção ao artigo 8.º, sendo e
 
 7 - Às contra-ordenações previstas neste diploma e em tudo quanto nele se não encontre especialmente regulado são aplicáveis as disposições do Decreto-Lei n.º 433/82, de 27 de Outubro, com as alterações introduzidas pelos Decretos-Leis n.os 356/89, de 17 de Outubro, 244/95, de 14 de Setembro, e 323/2001, de 17 de Dezembro, e pela Lei n.º 109/2001, de 24 de Dezembro.
 
-###### Artigo 9.º-B — Fiscalização e tramitação processual
+Artigo 9.º-B
+
+Fiscalização e tramitação processual
 
 1 - Sem prejuízo do disposto no artigo 5.º, a fiscalização do cumprimento das disposições do presente diploma compete ao Instituto do Consumidor.
 
@@ -236,15 +247,15 @@ As referências feitas no Decreto-Lei n.º 226/83, de 27 de Maio, aos Ministros 
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 2005. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - António Fernando Correia de Campos.
 
-**Promulgado em 10 de Janeiro de 2006.**
+Promulgado em 10 de Janeiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Janeiro de 2006.**
+Referendado em 11 de Janeiro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 226/83, de 27 de Maio
 

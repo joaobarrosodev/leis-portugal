@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22
   number: '56'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 41-(10) a 41-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/05601/0001000016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/22-d/2021/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e81cb068a6861c51967717513b79193f4734199426c42d4fa94a60dcfd91a52a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 914eaf16e9c99967f8e3806d42050a3103880c844eca75f73b45c7afe51f4866
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,42 +65,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Acesso à Educação
+- Avaliação de Conhecimentos
+- Avaliação do Impacto Legislativo
 - Certificado de Aptidão Profissional
 - Comissão de Serviço
+- Controlo Sanitário
 - Definição de Competências
 - Diploma
-- Controlo Sanitário
+- Direção Geral de Estatísticas da Educação e Ciência
+- Doença Infecciosa
+- Ensino Artístico
+- Ensino Básico
 - Ensino Doméstico
+- Ensino Individual
 - Ensino Profissional
-- Prova de Ingresso
-- Saúde Pública
+- Ensino Secundário
+- Epidemia
+- Estabelecimento de Ensino
 - Estado de Emergência
 - Exame
 - Gabinete Coordenador de Segurança Escolar
-- Ensino Secundário
-- Direção Geral de Estatísticas da Educação e Ciência
 - Instituto de Avaliação Educativa
 - Órgãos de Gestão
-- Pessoal de Chefia
-- Doença Infecciosa
-- Epidemia
-- Política de Educação
-- Estabelecimento de Ensino
-- Ensino Básico
-- Prova de Aferição
-- Avaliação de Conhecimentos
-- Pessoal de Vigilância
-- Avaliação do Impacto Legislativo
 - Perfil dos Alunos à Saída da Escolaridade Obrigatória
-- Ensino Individual
+- Pessoal de Chefia
+- Pessoal de Vigilância
+- Política de Educação
+- Prova de Aferição
+- Prova de Ingresso
+- Saúde Pública
 - Situação de Calamidade
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, com exceção do seu art. 4.º pelo(a) Decreto-Lei n.º 66-A/2022 - Diário
+    da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/d
   label: null
@@ -141,16 +147,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/53-d/2020/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53-d/2020/07/20/p/dre
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:120272926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125085420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138461849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153959843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154946853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155739190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156546167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157397591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158368125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158507655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159304330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608690:por
+  label: null
+  source: null
 article_structure:
-  article_count: 21
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:03Z'
   warnings: []
   errors: []
 ---
@@ -205,7 +283,9 @@ b) Das provas finais do ensino básico do 9.º ano de escolaridade;
 
 c) Dos exames finais nacionais, quando realizados por alunos internos, para efeitos de aprovação de disciplinas e conclusão do ensino secundário.
 
-###### Artigo 3.º-B — Avaliação e conclusão do ensino básico
+Artigo 3.º-B
+
+Avaliação e conclusão do ensino básico
 
 1 - Para efeitos de avaliação e conclusão do ensino básico geral, dos cursos artísticos especializados e de outras ofertas formativas e educativas, apenas é considerada a avaliação interna.
 
@@ -215,7 +295,9 @@ c) Dos exames finais nacionais, quando realizados por alunos internos, para efei
 
 4 - A conclusão de qualquer ciclo do ensino básico pelos alunos autopropostos, incluindo os alunos que se encontram na modalidade de ensino individual ou de ensino doméstico, é efetuada mediante a realização de provas de equivalência à frequência.
 
-###### Artigo 3.º-C — Avaliação, aprovação de disciplinas e conclusão do ensino secundário
+Artigo 3.º-C
+
+Avaliação, aprovação de disciplinas e conclusão do ensino secundário
 
 1 - Para efeitos de avaliação, aprovação de disciplinas e conclusão do ensino secundário, incluindo disciplinas em que haja lugar à realização de exames finais nacionais, é apenas considerada a avaliação interna.
 
@@ -227,7 +309,9 @@ c) Dos exames finais nacionais, quando realizados por alunos internos, para efei
 
 5 - Sem prejuízo do disposto nos n.os 3 e 4, os alunos autopropostos, incluindo os que se encontram na modalidade de ensino individual ou de ensino doméstico, realizam provas de equivalência à frequência, as quais são substituídas por exames finais nacionais quando exista essa oferta.
 
-###### Artigo 3.º-D — Avaliação, conclusão e certificação dos cursos de dupla certificação e dos cursos artísticos especializados
+Artigo 3.º-D
+
+Avaliação, conclusão e certificação dos cursos de dupla certificação e dos cursos artísticos especializados
 
 1 - Nos anos terminais dos cursos profissionais, cursos de educação e formação de jovens, cursos artísticos especializados e cursos com planos próprios, as provas de aptidão profissional, avaliação final e aptidão artística podem ser realizadas através de meios não presenciais, competindo a cada escola, no âmbito da sua autonomia, organizar os procedimentos mais adequados para o efeito.
 
@@ -235,7 +319,9 @@ c) Dos exames finais nacionais, quando realizados por alunos internos, para efei
 
 3 - O disposto nos números anteriores aplica-se, também, ao 3.º ano do ciclo formativo de nível secundário ou ao 12.º ano de escolaridade, consoante se trate ou não de uma organização dos cursos em ciclos formativos, bem como, com as devidas adaptações, ao ano terminal do ciclo formativo de nível básico dos cursos de educação e formação.
 
-###### Artigo 3.º-E — Estudo de diagnóstico
+Artigo 3.º-E
+
+Estudo de diagnóstico
 
 1 - Face ao impacto decorrente da suspensão das atividades educativas e letivas em regime presencial, é realizado um estudo amostral com vista à aferição do desenvolvimento das aprendizagens, podendo ser utilizadas, para este efeito, provas referidas na alínea a) do artigo 3.º-A, nos termos previstos no Despacho n.º 6906-B/2020, publicado no Diário da República, 2.ª série, n.º 128, de 3 de julho de 2020, na sua redação atual.
 
@@ -255,15 +341,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de março de 2021. - António Luís Santos da Costa - Tiago Brandão Rodrigues.
 
-**Promulgado em 19 de março de 2021.**
+Promulgado em 19 de março de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de março de 2021.**
+Referendado em 19 de março de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -356,3 +442,5 @@ b) As resultantes de uma não aceitação, referentes ao mesmo horário, nas col
 ###### Artigo 6.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+114088836

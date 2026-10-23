@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/73/2000/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2000-275674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a968e6945e16e5438545a6b7c0f1712b8c0aa849a35f9fcd05e9647532fd20bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c431e6bb5cac0dd895feb3406778ab9831bb1f478ade28d27ad72d4fbd176023
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Direcção Geral de Viação
+- Equipamento de Veículo
 - Especificação Técnica
 - Homologação
-- Veículo
-- Equipamento de Veículo
 - Regulamento da Homologação CE de Modelo de Automóveis e Reboques seus Sistemas Componentes e Unidades Técnicas
+- Veículo
 relationships:
 - type: cites
   target: celex:31970L0156
@@ -109,13 +109,13 @@ relationships:
 article_structure:
   article_count: 37
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:59Z'
   warnings: []
   errors: []
 ---
@@ -520,15 +520,15 @@ O funcionamento do equipamento de direcção não deverá ser perturbado por cam
 
 Visto e aprovado em Conselho de Ministros de 2 de Março de 2000. - Jaime José Matos da Gama - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa.
 
-**Promulgado em 28 de Março de 2000.**
+Promulgado em 28 de Março de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Abril de 2000.**
+Referendado em 6 de Abril de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Ficha de informações n.º ... (ver nota *)
 
@@ -748,7 +748,7 @@ Eficiência de travagem dos veículos que utilizam a mesma fonte de energia para
 
 1 - Em caso de avaria de fonte de energia, a eficiência do travão de serviço deve alcançar, no primeiro accionamento do travão, os valores indicados no quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/19001909.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/19001909.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/19001909.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/19001909.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/19001909.pdf)
 
 2 - Após qualquer avaria do equipamento de direcção ou de alimentação em energia, deve ser possível, após accionar oito vezes a fundo o comando do travão de serviço, obter à nona vez uma eficiência pelo menos igual à prescrita para o travão de emergência (v. quadro abaixo).
 
@@ -756,18 +756,18 @@ Se o travão de emergência alimentado por um depósito de energia for accionado
 
 Eficiência do travão de emergência e eficiência residual
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/19001909.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/19001909.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/19001909.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/19001909.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/19001909.pdf)
 
 ## ANEXO IV — Disposições relativas ao esforço sobre o comando de direcção
 
 (nos termos do n.º 2 do artigo 17.º)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/19001909.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/19001909.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/19001909.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/19001909.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/19001909.pdf)
 
 ## ANEXO V — Disposições relativas aos ensaios em caso de avaria
 
 [nos termos da alínea a) do n.º 2 do artigo 26.º]
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/19001909.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/19001909.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/19001909.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/19001909.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/19001909.pdf)
 
 A avaria deve ser provocada quando a velocidade especificada tiver sido atingida; o ensaio deve ser realizado no sentido horário e no sentido anti-horário.

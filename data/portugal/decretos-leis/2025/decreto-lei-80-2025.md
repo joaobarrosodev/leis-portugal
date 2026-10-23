@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/09800/0000200009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/80/2025/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2025-918999080
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05dfe2f885fca413e4085e26dcfc4462588ade3ddd60e8a6897734b7f6a2bbad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c5ed7f8025ad5f6cdfcb8d95f2942a4ede68739226f752b99bdcfdb26d7c8cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Carreira de Assistente Administrativo
 - Carreira de Informática
 - Carreira Profissional
-- Secretaria Geral
-- Ministério da Economia
-- Entidade de Serviços Partilhados da Administração Pública
-- Quadro de Pessoal
-- Contrato de Trabalho
-- Remuneração
 - Cedência de Interesse Público
-- Transferência de Pessoal
+- Contrato de Trabalho
+- Entidade de Serviços Partilhados da Administração Pública
+- Ministério da Economia
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Remuneração
+- Secretaria Geral
 - Trabalhador com Contrato de Trabalho em Funções Públicas
+- Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:992627242:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:114-B/2024
+  label: Altera, com efeitos a 1 de maio de 2025, o artigo 33.º do Decreto-Lei n.º 114-B/2024, de 26 de dezembro, Diário da
+    República n.º 250/2024, Suplemento, Série I
+  source: null
+  date: '2024-12-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114-b/2024/12/26/p/dre
   label: null
@@ -116,16 +122,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1553-c/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1553-c/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:243732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898201692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901403813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:912820662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:913224267:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:11Z'
   warnings: []
   errors: []
 ---
@@ -196,9 +234,9 @@ b) A categoria de consultor da carreira de técnico de sistemas e tecnologias de
 
 (Remuneração base × 12)/(52 × 35) × (52 × 40/12) + 108,40
 
-4 - Nos casos previstos nos n.<sup>os</sup>2 e 3, os trabalhadores, até ulterior alteração do posicionamento remuneratório na categoria, mantêm o direito à remuneração base que vêm auferindo, a qual é objeto de alteração nos termos que vierem a ser determinados nas atualizações salariais anuais.
+4 - Nos casos previstos nos n.os2 e 3, os trabalhadores, até ulterior alteração do posicionamento remuneratório na categoria, mantêm o direito à remuneração base que vêm auferindo, a qual é objeto de alteração nos termos que vierem a ser determinados nas atualizações salariais anuais.
 
-5 - Nos casos previstos nos n.<sup>os</sup>2 e 3, quando, em momento ulterior, os trabalhadores devam alterar a sua posição remuneratória na categoria, e da alteração para a posição seguinte resulte um acréscimo remuneratório inferior ao montante pecuniário fixado no n.º 11 da [Portaria n.º 1553-C/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1553-c-2008-243732), de 31 de dezembro, aquela alteração tem lugar para a posição que se siga a esta, quando exista.
+5 - Nos casos previstos nos n.os2 e 3, quando, em momento ulterior, os trabalhadores devam alterar a sua posição remuneratória na categoria, e da alteração para a posição seguinte resulte um acréscimo remuneratório inferior ao montante pecuniário fixado no n.º 11 da [Portaria n.º 1553-C/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1553-c-2008-243732), de 31 de dezembro, aquela alteração tem lugar para a posição que se siga a esta, quando exista.
 
 ###### Artigo 5.º — Trabalhadores em cedência de interesse público na Entidade de Serviços Partilhados da Administração Pública, I. P.
 
@@ -240,15 +278,15 @@ O presente decreto-lei produz efeitos a 1 de maio de 2025.
 
 Visto e aprovado em Conselho de Ministros de 23 de abril de 2025. - Luís Montenegro - João Alexandre da Silva Lopes.
 
-**Promulgado em 16 de maio de 2025.**
+Promulgado em 16 de maio de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 20 de maio de 2025.**
+Referendado em 20 de maio de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 4.º)
 
@@ -256,23 +294,23 @@ TABELA I
 
 [a que se refere a alínea a) do n.º 1 do artigo 4.º]
 
-| Categoria | Posição remuneratória | Categoria | Nível de complexidade | Posição remuneratória |
+| Situação detida | Nova situação |  |  |  |
 | --- | --- | --- | --- | --- |
-| Situação detida | Situação detida | Nova situação | Nova situação | Nova situação |
-| Carreira geral de técnico superior | Carreira geral de técnico superior | Carreira de técnico superior da Entidade de Serviços Partilhados da Administração Pública, I. P. | Carreira de técnico superior da Entidade de Serviços Partilhados da Administração Pública, I. P. | Carreira de técnico superior da Entidade de Serviços Partilhados da Administração Pública, I. P. |
+| Carreira geral de técnico superior | Carreira de técnico superior da Entidade de Serviços Partilhados da Administração Pública, I. P. |  |  |  |
+| Categoria | Posição remuneratória | Categoria | Nível de complexidade | Posição remuneratória |
 | Técnico superior | 1.ª | Técnico superior | Nível I | 1.ª |
-| Técnico superior | 2.ª | Técnico superior | Nível I | 2.ª |
-| Técnico superior | 3.ª | Técnico superior | Nível I | 3.ª |
-| Técnico superior | 4.ª | Técnico superior | Nível I | 4.ª |
-| Técnico superior | 5.ª | Técnico superior | Nível I | 5.ª |
-| Técnico superior | 6.ª | Técnico superior | Nível II | 1.ª |
-| Técnico superior | 7.ª | Técnico superior | Nível II | 2.ª |
-| Técnico superior | 7.ª-A | Técnico superior | Nível II | Entre 2.ª e 3.ª (NR 54) |
-| Técnico superior | 8.ª | Técnico superior | Nível II | 3.ª |
-| Técnico superior | 9.ª | Técnico superior | Nível II | 4.ª |
-| Técnico superior | 10.ª | Técnico superior | Nível III | 1.ª |
-| Técnico superior | 10.ª-A | Técnico superior | Nível III | Entre 1.ª e 2.ª (NR 67) |
-| Técnico superior | 11.ª | Técnico superior | Nível III | 2.ª |
+| 2.ª | 2.ª |  |  |  |
+| 3.ª | 3.ª |  |  |  |
+| 4.ª | 4.ª |  |  |  |
+| 5.ª | 5.ª |  |  |  |
+| 6.ª | Nível II | 1.ª |  |  |
+| 7.ª | 2.ª |  |  |  |
+| 7.ª-A | Entre 2.ª e 3.ª (NR 54) |  |  |  |
+| 8.ª | 3.ª |  |  |  |
+| 9.ª | 4.ª |  |  |  |
+| 10.ª | Nível III | 1.ª |  |  |
+| 10.ª-A | Entre 1.ª e 2.ª (NR 67) |  |  |  |
+| 11.ª | 2.ª |  |  |  |
 
 Nota. - NR - nível remuneratório da tabela remuneratória única.
 
@@ -280,94 +318,98 @@ TABELA II
 
 [a que se refere a alínea b) do n.º 1 do artigo 4.º]
 
-| Categoria | Posição remuneratória | Categoria | Nível de complexidade | Posição remuneratória |
+| Situação detida | Nova situação |  |  |  |
 | --- | --- | --- | --- | --- |
-| Situação detida | Situação detida | Nova situação | Nova situação | Nova situação |
-| Carreira geral de assistente técnico | Carreira geral de assistente técnico | Carreira de técnico da Entidade de Serviços Partilhados da Administração Pública, I. P. | Carreira de técnico da Entidade de Serviços Partilhados da Administração Pública, I. P. | Carreira de técnico da Entidade de Serviços Partilhados da Administração Pública, I. P. |
+| Carreira geral de assistente técnico | Carreira de técnico da Entidade de Serviços Partilhados da Administração Pública, I. P. |  |  |  |
+| Categoria | Posição remuneratória | Categoria | Nível de complexidade | Posição remuneratória |
 | Assistente técnico | 1.ª | Técnico assistente | Nível I | 1.ª |
-| Assistente técnico | 2.ª | Técnico assistente | Nível I | 2.ª |
-| Assistente técnico | 3.ª | Técnico assistente | Nível I | 3.ª |
-| Assistente técnico | 4.ª | Técnico assistente | Nível I | 4.ª |
-| Assistente técnico | 5.ª | Técnico assistente | Nível I | 5.ª |
-| Assistente técnico | 6.ª | Técnico assistente | Nível II | 1.ª |
-| Assistente técnico | 7.ª | Técnico assistente | Nível II | 2.ª |
-| Assistente técnico | 8.ª | Técnico assistente | Nível II | 3.ª |
-| Assistente técnico | 9.ª | Técnico assistente | Nível II | 4.ª |
-| Assistente técnico | 10.ª | Técnico assistente | Nível III | 1.ª |
-| Assistente técnico | 11.ª | Técnico assistente | Nível III | 2.ª |
-| Assistente técnico | 12.ª | Técnico assistente | Nível III | 3.ª |
+| 2.ª | 2.ª |  |  |  |
+| 3.ª | 3.ª |  |  |  |
+| 4.ª | 4.ª |  |  |  |
+| 5.ª | 5.ª |  |  |  |
+| 6.ª | Nível II | 1.ª |  |  |
+| 7.ª | 2.ª |  |  |  |
+| 8.ª | 3.ª |  |  |  |
+| 9.ª | 4.ª |  |  |  |
+| 10.ª | Nível III | 1.ª |  |  |
+| 11.ª | 2.ª |  |  |  |
+| 12.ª | 3.ª |  |  |  |
 | Coordenador técnico | 1.ª | Técnico especialista | Nível I | 1.ª |
-| Coordenador técnico | 2.ª | Técnico especialista | Nível I | 2.ª |
-| Coordenador técnico | 3.ª | Técnico especialista | Nível I | 3.ª |
-| Coordenador técnico | 4.ª | Técnico especialista | Nível II | 1.ª |
-| Coordenador técnico | 5.ª | Técnico especialista | Nível II | 2.ª |
-| Coordenador técnico | 6.ª | Técnico especialista | Nível II | 3.ª |
+| 2.ª | 2.ª |  |  |  |
+| 3.ª | 3.ª |  |  |  |
+| 4.ª | Nível II | 1.ª |  |  |
+| 5.ª | 2.ª |  |  |  |
+| 6.ª | 3.ª |  |  |  |
 
 TABELA III
 
 [a que se refere a alínea c) do n.º 1 do artigo 4.º]
 
-| Categoria | Posição remuneratória | Categoria | Nível de complexidade | Posição remuneratória |
+| Situação detida | Nova situação |  |  |  |
 | --- | --- | --- | --- | --- |
-| Situação detida | Situação detida | Nova situação | Nova situação | Nova situação |
-| Carreira geral de assistente operacional | Carreira geral de assistente operacional | Carreira de técnico auxiliar da Entidade de Serviços Partilhados da Administração Pública, I. P. | Carreira de técnico auxiliar da Entidade de Serviços Partilhados da Administração Pública, I. P. | Carreira de técnico auxiliar da Entidade de Serviços Partilhados da Administração Pública, I. P. |
+| Carreira geral de assistente operacional | Carreira de técnico auxiliar da Entidade de Serviços Partilhados da Administração Pública, I. P. |  |  |  |
+| Categoria | Posição remuneratória | Categoria | Nível de complexidade | Posição remuneratória |
 | Assistente operacional | 1.ª | Técnico auxiliar | Nível I | 1.ª |
-|  | 2.ª |  | Nível I | 2.ª |
-|  | 3.ª |  | Nível I | 3.ª |
-|  | 4.ª |  | Nível I | 4.ª |
-|  | 5.ª |  | Nível I | 5.ª |
+|  | 2.ª |  | 2.ª |  |
+|  | 3.ª |  | 3.ª |  |
+|  | 4.ª |  | 4.ª |  |
+|  | 5.ª |  | 5.ª |  |
 |  | 6.ª |  | Nível II | 1.ª |
 |  | 7.ª |  |  | 2.ª |
 |  | 8.ª |  |  | 3.ª |
 | Encarregado operacional | 1.ª |  | Nível I | 4.ª |
-| Encarregado operacional | 2.ª |  | Nível I | 5.ª |
-| Encarregado operacional | 3.ª |  | Nível II | 1.ª |
-| Encarregado operacional | 4.ª |  | Nível II | 2.ª |
-| Encarregado operacional | 5.ª |  | Nível II | 3.ª |
-| Encarregado operacional | 6.ª |  | Nível II | 4.ª |
-| Encarregado operacional | 7.ª |  | Nível III | 1.ª |
+| 2.ª |  | 5.ª |  |  |
+| 3.ª |  | Nível II | 1.ª |  |
+| 4.ª |  | 2.ª |  |  |
+| 5.ª |  | 3.ª |  |  |
+| 6.ª |  | 4.ª |  |  |
+| 7.ª |  | Nível III | 1.ª |  |
 | Encarregado geral operacional | 1.ª |  | Nível II | 3.ª |
-| Encarregado geral operacional | 2.ª |  | Nível III | 1.ª |
-| Encarregado geral operacional | 3.ª |  | Nível III | 2.ª |
-| Encarregado geral operacional | 4.ª |  | Nível III | 3.ª |
+| 2.ª |  | Nível III | 1.ª |  |
+| 3.ª |  | 2.ª |  |  |
+| 4.ª |  | 3.ª |  |  |
 
 TABELA IV
 
 [a que se refere a alínea d) do n.º 1 do artigo 4.º]
 
-| Categoria | Posição remuneratória | Categoria | Nível de complexidade | Posição remuneratória |
+| Situação detida | Nova situação |  |  |  |
 | --- | --- | --- | --- | --- |
-| Situação detida | Situação detida | Nova situação | Nova situação | Nova situação |
-| Carreira especial de técnico de sistemas e tecnologias de informação | Carreira especial de técnico de sistemas e tecnologias de informação | Carreira de Técnico de Sistemas e Tecnologias de Informação da Entidade de Serviços Partilhados da Administração Pública, I. P. | Carreira de Técnico de Sistemas e Tecnologias de Informação da Entidade de Serviços Partilhados da Administração Pública, I. P. | Carreira de Técnico de Sistemas e Tecnologias de Informação da Entidade de Serviços Partilhados da Administração Pública, I. P. |
+| Carreira especial de técnico de sistemas e tecnologias de informação | Carreira de Técnico de Sistemas e Tecnologias de Informação da Entidade de Serviços Partilhados da Administração Pública, I. P. |  |  |  |
+| Categoria | Posição remuneratória | Categoria | Nível de complexidade | Posição remuneratória |
 | Técnico de sistemas e tecnologias de informação | 1.ª | Assistente | Nível I | 1.ª |
-| Técnico de sistemas e tecnologias de informação | 2.ª | Assistente | Nível I | 2.ª |
-| Técnico de sistemas e tecnologias de informação | 3.ª | Assistente | Nível I | 3.ª |
-| Técnico de sistemas e tecnologias de informação | 4.ª | Assistente | Nível I | 4.ª |
-| Técnico de sistemas e tecnologias de informação | 5.ª | Assistente | Nível I | 5.ª |
-| Técnico de sistemas e tecnologias de informação | 6.ª | Assistente | Nível II | 1.ª |
-| Técnico de sistemas e tecnologias de informação | 7.ª | Assistente | Nível II | 2.ª |
-| Técnico de sistemas e tecnologias de informação | 8.ª | Assistente | Nível II | 3.ª |
-| Técnico de sistemas e tecnologias de informação | 9.ª | Assistente | Nível II | 4.ª |
-| Técnico de sistemas e tecnologias de informação | 10.ª | Assistente | Nível III | 1.ª |
-| Técnico de sistemas e tecnologias de informação | 11.ª | Assistente | Nível III | 2.ª |
-| Técnico de sistemas e tecnologias de informação | 12.ª | Assistente | Nível III | 3.ª |
+| 2.ª | 2.ª |  |  |  |
+| 3.ª | 3.ª |  |  |  |
+| 4.ª | 4.ª |  |  |  |
+| 5.ª | 5.ª |  |  |  |
+| 6.ª | Nível II | 1.ª |  |  |
+| 7.ª | 2.ª |  |  |  |
+| 8.ª | 3.ª |  |  |  |
+| 9.ª | 4.ª |  |  |  |
+| 10.ª | Nível III | 1.ª |  |  |
+| 11.ª | 2.ª |  |  |  |
+| 12.ª | 3.ª |  |  |  |
 
 TABELA V
 
 [a que se refere a alínea e) do n.º 1 do artigo 4.º]
 
-| Categoria | Posição remuneratória | Categoria | Nível de complexidade | Posição remuneratória |
+| Situação detida | Nova situação |  |  |  |
 | --- | --- | --- | --- | --- |
-| Situação detida | Situação detida | Nova situação | Nova situação | Nova situação |
-| Carreira especial de especialista de sistemas e tecnologias de informação | Carreira especial de especialista de sistemas e tecnologias de informação | Carreira de técnico de sistemas e tecnologias de informação da Entidade de Serviços Partilhados da Administração Pública, I. P. | Carreira de técnico de sistemas e tecnologias de informação da Entidade de Serviços Partilhados da Administração Pública, I. P. | Carreira de técnico de sistemas e tecnologias de informação da Entidade de Serviços Partilhados da Administração Pública, I. P. |
+| Carreira especial de especialista de sistemas e tecnologias de informação | Carreira de técnico de sistemas e tecnologias de informação da Entidade de Serviços Partilhados da Administração Pública, I. P. |  |  |  |
+| Categoria | Posição remuneratória | Categoria | Nível de complexidade | Posição remuneratória |
 | Especialista de sistemas e tecnologias de informação | 1.ª | Consultor | Nível I | 1.ª |
-| Especialista de sistemas e tecnologias de informação | 2.ª | Consultor | Nível I | 2.ª |
-| Especialista de sistemas e tecnologias de informação | 3.ª | Consultor | Nível I | 3.ª |
-| Especialista de sistemas e tecnologias de informação | 4.ª | Consultor | Nível I | 4.ª |
-| Especialista de sistemas e tecnologias de informação | 5.ª | Consultor | Nível I | 5.ª |
-| Especialista de sistemas e tecnologias de informação | 6.ª | Consultor | Nível II | 1.ª |
-| Especialista de sistemas e tecnologias de informação | 7.ª | Consultor | Nível II | 2.ª |
-| Especialista de sistemas e tecnologias de informação | 8.ª | Consultor | Nível II | 3.ª |
-| Especialista de sistemas e tecnologias de informação | 9.ª | Consultor | Nível II | 4.ª |
-| Especialista de sistemas e tecnologias de informação | 10.ª | Consultor | Nível III | 1.ª |
-| Especialista de sistemas e tecnologias de informação | 11.ª | Consultor | Nível III | 2.ª |
+| 2.ª | 2.ª |  |  |  |
+| 3.ª | 3.ª |  |  |  |
+| 4.ª | 4.ª |  |  |  |
+| 5.ª | 5.ª |  |  |  |
+| 6.ª | Nível II | 1.ª |  |  |
+| 7.ª | 2.ª |  |  |  |
+| 8.ª | 3.ª |  |  |  |
+| 9.ª | 4.ª |  |  |  |
+| 10.ª | Nível III | 1.ª |  |  |
+| 11.ª | 2.ª |  |  |  |
+
+119079408
+
+.Tbl2 { min-height:17px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:21px; } .Tbl7 { min-height:26px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl10 { min-height:18px; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { margin-left:4px; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl15 { min-height:23px; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

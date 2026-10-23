@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/233b00/67796779.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/22/1999/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-1999-672378
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1354fdd3f588974b127cb40940ae149e0c10ff95d3ec5bc8291169b62893a917
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69a8fafe6cb0c2f0ae10485c64c597228c67cdf98fd695fc3bee4b93ac0301b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Amortização
+- Contribuições e Impostos
 - Equipamento Eléctrico
 - Equipamento Térmico
-- Contribuições e Impostos
 - IRC
 - Taxa
 relationships:
@@ -77,16 +77,26 @@ relationships:
   target: pt:dre:489774:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:333532:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:489774:por
+  label: "Revogado, a partir de 01.01.2010, o DR 2/90, de 12-Jan, na redacção do presente diploma, pelo DR.25/2009.14.09.2009.MFAP,\
+    \ DR.IS [178] de 14.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/25-2009-489774
+  date: '2009-09-14'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:59Z'
   warnings: []
   errors: []
 ---
@@ -115,12 +125,12 @@ O código 2250 do grupo 3 da divisão I da tabela II anexa ao [Decreto Regulamen
 
 Visto e aprovado em Conselho de Ministros de 12 de Agosto de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 13 de Setembro de 1999.**
+Promulgado em 13 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Setembro de 1999.**
+Referendado em 20 de Setembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/100b00/19831991.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/11/1997/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1997-380349
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T06:23:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e6289e7fa77267b43e6733c12788e0482b7cee929180460f9ba68d46fbb6ff7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d4592f34c445f5554b14a748add4c3a054e143411d26e818a04c02c0b7f426b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:23:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Direcção Geral das Florestas
-- Orgânica
 - Autoridade Florestal Nacional
+- Direcção Geral das Florestas
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
@@ -89,16 +89,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:218544:por
+  label: "Revogado pelo DEC LEI.80/2004.10.04.2004.MADRP, DR.IS-A [85] de 10.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2004-218544
+  date: '2004-04-10'
 article_structure:
   article_count: 42
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 24
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:23:56Z'
   warnings: []
   errors: []
 ---
@@ -273,7 +290,9 @@ c) Divisão de Organização e Informática;
 
 d) Repartição de Administração Geral.
 
-###### Artigo 8.º — Divisão de Formação e Gestão de Recursos Humanos
+###### Artigo 8.º
+
+##### Divisão de Formação e Gestão de Recursos Humanos
 
 À Divisão de Formação e Gestão de Recursos Humanos compete:
 
@@ -303,7 +322,9 @@ k) Assegurar o processamento dos vencimentos do pessoal e demais abonos a que ti
 
 l) Instruir os processos relativos a prestações sociais dos funcionários da DGF e dos seus familiares e a acidentes em serviço.
 
-###### Artigo 9.º — Divisão de Gestão Financeira e Controlo Orçamental
+###### Artigo 9.º
+
+##### Divisão de Gestão Financeira e Controlo Orçamental
 
 1 - À Divisão de Gestão Financeira e Controlo Orçamental compete:
 
@@ -325,7 +346,9 @@ h) Garantir o tratamento automático da informação de carácter financeiro.
 
 2 - Na dependência da Divisão de Gestão Financeira e Controlo Orçamental funciona uma tesouraria, dirigida por um tesoureiro, que assegura as tarefas inerentes ao movimento de receitas e despesas e respectiva escrituração.
 
-###### Artigo 10.º — Divisão de Organização e Informática
+###### Artigo 10.º
+
+##### Divisão de Organização e Informática
 
 À Divisão de Organização e Informática compete:
 
@@ -397,7 +420,9 @@ b) Divisão de Gestão dos Sistemas de Informação;
 
 c) Divisão de Planeamento Estratégico e Controlo.
 
-###### Artigo 13.º — Divisão de Inventário e Estatísticas Florestais
+###### Artigo 13.º
+
+##### Divisão de Inventário e Estatísticas Florestais
 
 À Divisão de Inventário e Estatísticas Florestais compete:
 
@@ -411,7 +436,9 @@ d) Caracterizar as actividades ligadas aos recursos cinegéticos, aquícolas e o
 
 e) Coordenar as respostas a questionários estatísticos solicitados por entidades ou organismos nacionais, comunitários e internacionais.
 
-###### Artigo 14.º — Divisão de Gestão dos Sistemas de Informação
+###### Artigo 14.º
+
+##### Divisão de Gestão dos Sistemas de Informação
 
 À Divisão de Gestão dos Sistemas de Informação compete:
 
@@ -423,7 +450,9 @@ c) Apoiar os vários serviços da DGF na definição das suas necessidades de tr
 
 d) Assegurar a integração da DGF nas redes de informação técnica que operam no sector, quer a nível nacional, quer internacional.
 
-###### Artigo 15.º — Divisão de Planeamento Estratégico e Controlo
+###### Artigo 15.º
+
+##### Divisão de Planeamento Estratégico e Controlo
 
 À Divisão de Planeamento Estratégico e Controlo compete:
 
@@ -453,7 +482,9 @@ c) Divisão de Valorização dos Produtos Florestais;
 
 d) Divisão de Qualificação Profissional.
 
-###### Artigo 17.º — Divisão de Protecção e Conservação Florestal
+###### Artigo 17.º
+
+##### Divisão de Protecção e Conservação Florestal
 
 À Divisão de Protecção e Conservação Florestal compete:
 
@@ -481,7 +512,9 @@ l) Coordenar a prospecção e inventário dos agentes bióticos nocivos aos ecos
 
 m) Coordenar as acções relativas às inspecções fitossanitárias dos produtos florestais, propágulos e sementes decorrentes da aplicação da correspondente legislação comunitária.
 
-###### Artigo 18.º — Divisão de Fomento e Produção Florestal
+###### Artigo 18.º
+
+##### Divisão de Fomento e Produção Florestal
 
 À Divisão de Fomento e Produção Florestal compete:
 
@@ -495,7 +528,9 @@ d) Desenvolver estudos relativos à gestão da produção sustentável de bens d
 
 e) Definir normas de actuação destinadas à aplicação do regime florestal.
 
-###### Artigo 19.º — Divisão de Valorização dos Produtos Florestais
+###### Artigo 19.º
+
+##### Divisão de Valorização dos Produtos Florestais
 
 À Divisão de Valorização dos Produtos Florestais compete:
 
@@ -515,7 +550,9 @@ g) Coordenar as actividades de comercialização de matérias-primas e produtos 
 
 h) Colaborar nas diferentes comissões técnicas de normalização.
 
-###### Artigo 20.º — Divisão de Qualificação Profissional
+###### Artigo 20.º
+
+##### Divisão de Qualificação Profissional
 
 À Divisão de Qualificação Profissional compete:
 
@@ -545,7 +582,9 @@ a) Divisão de Caça;
 
 b) Divisão de Pesca nas Águas Interiores.
 
-###### Artigo 22.º — Divisão de Caça
+###### Artigo 22.º
+
+##### Divisão de Caça
 
 À Divisão de Caça compete:
 
@@ -571,7 +610,9 @@ j) Organizar e coordenar o licenciamento relativo à caça;
 
 l) Colaborar na coordenação e gestão do plano nacional de reservas de caça.
 
-###### Artigo 23.º — Divisão de Pesca nas Águas Interiores
+###### Artigo 23.º
+
+##### Divisão de Pesca nas Águas Interiores
 
 À Divisão de Pesca nas Águas Interiores compete:
 
@@ -607,7 +648,9 @@ b) Divisão de Documentação e História Florestal;
 
 c) Divisão de Relações Públicas.
 
-###### Artigo 25.º — Divisão de Relações Internacionais
+###### Artigo 25.º
+
+##### Divisão de Relações Internacionais
 
 À Divisão de Relações Internacionais compete:
 
@@ -619,7 +662,9 @@ c) Apoiar e assegurar a coordenação dos diversos serviços técnicos da DGF co
 
 d) Apoiar e assegurar a coordenação da participação da DGF em acções de cooperação bilateral, nomeadamente com países de língua oficial portuguesa, nos comités a funcionar junto da Comissão da União Europeia e nos órgãos da Nações Unidas, organismos subsidiários, convenções e painéis promovidos no seu âmbito.
 
-###### Artigo 26.º — Divisão de Documentação e História Florestal
+###### Artigo 26.º
+
+##### Divisão de Documentação e História Florestal
 
 À Divisão de Documentação e História Florestal compete:
 
@@ -633,7 +678,9 @@ d) Promover a preservação do património histórico florestal através do Gabi
 
 e) Organizar e gerir o Centro de Educação e Informação Florestal e o Museu Florestal.
 
-###### Artigo 27.º — Divisão de Relações Públicas
+###### Artigo 27.º
+
+##### Divisão de Relações Públicas
 
 À Divisão de Relações Públicas compete:
 
@@ -649,7 +696,9 @@ e) Promover, apoiar e participar em campanhas específicas de sensibilização e
 
 f) Promover e apoiar a realização de colóquios, seminários, congressos e outras reuniões de âmbito florestal.
 
-###### Artigo 28.º — Divisão de Coordenação do Corpo Nacional da Guarda Florestal
+###### Artigo 28.º
+
+##### Divisão de Coordenação do Corpo Nacional da Guarda Florestal
 
 À Divisão de Coordenação do Corpo Nacional da Guarda Florestal compete:
 
@@ -787,16 +836,16 @@ Presidência do Conselho de Ministros, 20 de Fevereiro de 1997.
 
 António Manuel de Oliveira Guterres - Maria Manuela de Brito Arcanjo Marques da Costa - José Eduardo Vera Cruz Jardim - Fernando Manuel Van-Zeller Gomes da Silva - Eduardo Carrega Marçal Grilo - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 3 de Abril de 1997.**
+Promulgado em 3 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Abril de 1997.**
+Referendado em 17 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 Mapa a que se refere o n.º 2 do artigo 38.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/100b00/19831991.pdf))](https://files.diariodarepublica.pt/1s/1997/04/100b00/19831991.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/100b00/19831991.pdf)

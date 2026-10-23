@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/23500/0010600119.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/102/2024/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 792ee3fd02d161715f68bc0cf424af97d621fff9c7582d64a25e5824b4c0133d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad4c71924663788a5063e9e19868c2b0b837ee22f07029137a65e796cc2abee8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Substancia Cancerigena
+- Chumbo
+- Condições de Higiene e Segurança no Trabalho
+- Doença Profissional
+- Hidrocarbonetos
 - Higiene do Trabalho
 - Política de Saúde
-- Segurança no Trabalho
-- Chumbo
-- Hidrocarbonetos
-- Doença Profissional
 - Prevenção de Riscos Profissionais
-- Condições de Higiene e Segurança no Trabalho
+- Segurança no Trabalho
+- Substancia Cancerigena
 - Substância Perigosa
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:301/2000
+  label: Altera, a partir de 2 de janeiro de 2025, os artigos 2.º a 5.º, 7.º, 8.º, 12.º a 15.º e 17.º-A, adita o artigo 12.º-A,
+    revoga o n.º 2 do artigo 22.º, determina, sempre na mesma data, que o anexo passa a ser designado por anexo i e adita
+    o anexo ii ao Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18
+  source: null
+  date: '2000-11-18'
 - type: cites
   target: celex:32004L0037
   label: null
@@ -115,6 +122,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/102/2009/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/102/2009/09/10/p/dre
+- type: cites
+  target: pt:dre:137703603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150661864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67332417:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32004L0037
   label: null
@@ -124,15 +155,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 20
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:21Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +194,7 @@ O presente decreto-lei:
 
 a) Transpõe para a ordem jurídica interna a [Diretiva (UE) 2022/431](https://data.europa.eu/eli/dir/2022/431/oj?locale=pt) do Parlamento Europeu e do Conselho, de 9 de março de 2022, que altera a [Diretiva 2004/37/CE](https://data.europa.eu/eli/dir/2004/37/oj?locale=pt) do Parlamento Europeu e do Conselho de 29 de abril de 2004 relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho;
 
-b) Procede à quarta alteração ao [Decreto-Lei n.º 301/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), de 18 de novembro, alterado pelos Decretos-Leis n.<sup>os</sup>[88/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), de 28 de maio, [35/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), de 13 de julho, e [102-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), de 9 de dezembro, que regula a proteção dos trabalhadores contra os riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho.
+b) Procede à quarta alteração ao [Decreto-Lei n.º 301/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), de 18 de novembro, alterado pelos Decretos-Leis n.os[88/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), de 28 de maio, [35/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), de 13 de julho, e [102-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), de 9 de dezembro, que regula a proteção dos trabalhadores contra os riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 301/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), de 18 de novembro
 
@@ -183,7 +214,9 @@ Os artigos 2.º a 5.º, 7.º, 8.º, 12.º a 15.º e 17.º-A do [Decreto-Lei n.º
 
 5 - O disposto pelo n.º 1 inclui os trabalhos suscetíveis de provocar exposição a qualquer substância ou mistura que preencha os requisitos de classificação referidos nas alíneas a) a c) do n.º 1 do artigo 3.º, e que integre a composição dos medicamentos.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -205,7 +238,9 @@ h) «Vigilância da saúde», o exame de um trabalhador com o objetivo de determ
 
 2 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Nas atividades suscetíveis de apresentar risco de exposição a agentes cancerígenos, mutagénicos ou a substâncias tóxicas para a reprodução, o empregador deve avaliar o risco para a segurança e a saúde dos trabalhadores, determinando para os postos de trabalho:
 
@@ -241,7 +276,9 @@ g) Considerar a possibilidade de não existir um nível seguro de exposição à
 
 4 - [...]
 
-###### Artigo 4.º-A — [...]
+Artigo 4.º-A
+
+[...]
 
 1 - Quando a determinação da concentração do agente cancerígeno, mutagénico ou da substância tóxica para a reprodução na atmosfera do local de trabalho revele a sujeição de algum trabalhador a um valor de exposição profissional superior ao valor-limite de exposição profissional indicado no anexo i ao presente decreto-lei, o empregador:
 
@@ -255,7 +292,9 @@ b) Procede a nova determinação da concentração do agente cancerígeno, mutag
 
 4 - Sempre que a determinação da concentração do agente cancerígeno, mutagénico ou da substância tóxica para a reprodução na atmosfera do local de trabalho revele a existência de um valor de exposição profissional superior ao valor-limite de exposição profissional indicado no anexo i ao presente decreto-lei, a frequência do controlo é trimestral, nos termos do n.º 2 do artigo anterior.
 
-###### Artigo 5.º — Substituição e redução de agentes cancerígenos, mutagénicos ou de substâncias tóxicas para a reprodução
+Artigo 5.º
+
+Substituição e redução de agentes cancerígenos, mutagénicos ou de substâncias tóxicas para a reprodução
 
 1 - O empregador deve evitar ou reduzir a utilização de agentes cancerígenos, mutagénicos ou de substâncias tóxicas para a reprodução, substituindo-os por substâncias, misturas ou processos que, nas condições de utilização, não sejam perigosos ou impliquem menor risco para a segurança e a saúde dos trabalhadores.
 
@@ -271,7 +310,9 @@ b) Procede a nova determinação da concentração do agente cancerígeno, mutag
 
 7 - A substituição dos medicamentos que, na sua composição, contenham qualquer substância ou mistura que preencha os requisitos de classificação referidos nas alíneas a) a c) do n.º 1 do artigo 3.º, não pode prejudicar a saúde dos doentes.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 Sem prejuízo do disposto em matéria de obrigações gerais do empregador de informação e consulta dos trabalhadores, previstas no regime jurídico da promoção da segurança e saúde no trabalho, nas atividades em que exista risco de contaminação por agentes cancerígenos, mutagénicos ou por substâncias tóxicas para a reprodução, o empregador deve tomar medidas para:
 
@@ -285,7 +326,9 @@ d) [...]
 
 e) [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -305,7 +348,9 @@ a) [...]
 
 b) O resultado de investigações que promova sobre a substituição e redução de agentes cancerígenos, mutagénicos ou de substâncias tóxicas para a reprodução e a redução dos riscos de exposição.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Sem prejuízo das obrigações gerais em matéria de exames de saúde previstas no regime jurídico da promoção da segurança e saúde no trabalho, aprovado pela [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009), de 10 de setembro, na sua redação atual, o empregador deve assegurar a vigilância da saúde dos trabalhadores em relação aos quais o resultado da avaliação revele a existência de riscos, através de exames de saúde de admissão, periódicos ou ocasionais, devendo em qualquer caso os primeiros ser realizados antes da exposição profissional a agente cancerígeno, mutagénico ou a substância tóxica para a reprodução.
 
@@ -339,7 +384,9 @@ d) [...]
 
 12 - Sem prejuízo do disposto em matéria de comunicação obrigatória estabelecido no regime de reparação de acidentes de trabalho e de doenças profissionais, o serviço com competências na área da proteção contra os riscos profissionais deve considerar prioritária a tramitação dos casos referidos na última parte do número anterior.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O empregador deve assegurar a formação adequada e suficiente dos trabalhadores e dos seus representantes para a segurança e saúde no trabalho, antes do início de uma atividade profissional que implique exposição, ou potencial exposição, a agentes cancerígenos, mutagénico ou substâncias tóxicas para a reprodução, que inclua todos os dados disponíveis sobre:
 
@@ -361,7 +408,9 @@ b) Disponibilizada periodicamente em contextos de prestação de cuidados de sa�
 
 c) Periodicamente repetida noutros contextos, se necessário.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O empregador deve, sem prejuízo das suas responsabilidades, fornecer aos trabalhadores e aos seus representantes informações relativas à aplicação das medidas previstas no presente decreto-lei, nomeadamente as que respeitem:
 
@@ -379,11 +428,15 @@ c) Às referidas na alínea g) do n.º 3 do artigo 4.º e na alínea a) do artig
 
 5 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 O empregador deve assegurar a informação e consulta dos trabalhadores e dos seus representantes para a segurança e saúde no trabalho sobre a aplicação das disposições do presente decreto-lei.
 
-###### Artigo 17.º-A — [...]
+Artigo 17.º-A
+
+[...]
 
 Os organismos competentes das áreas governativas do trabalho, solidariedade e segurança social e da saúde podem elaborar guias técnicos, ou outros referenciais, que contenham orientações práticas sobre a prevenção dos riscos profissionais, a proteção e vigilância da saúde dos trabalhadores expostos a agentes cancerígenos, mutagénicos ou a substâncias tóxicas para a reprodução, assim como sobre a avaliação de risco profissional.»
 
@@ -409,11 +462,11 @@ Sempre que seja indicado no anexo ii ao presente decreto-lei um valor-limite bio
 
 Sem prejuízo do disposto no artigo 5.º do [Decreto-Lei n.º 35/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), de 13 de julho, na sua redação atual, são estabelecidos os seguintes valores-limite transitórios:
 
-a) O valor limite de exposição profissional para o benzeno indicado no anexo i ao presente decreto-lei é de 1 ppm (3,25 mg/m<sup>3</sup>) até 4 de abril de 2024, inclusive, e de 0,5 ppm (1,65 mg/m<sup>3</sup>) entre 5 de abril de 2024 e 5 de abril de 2026, inclusive;
+a) O valor limite de exposição profissional para o benzeno indicado no anexo i ao presente decreto-lei é de 1 ppm (3,25 mg/m3) até 4 de abril de 2024, inclusive, e de 0,5 ppm (1,65 mg/m3) entre 5 de abril de 2024 e 5 de abril de 2026, inclusive;
 
 b) Os valores-limite de exposição profissional ao acrilonitrilo indicados no anexo i ao presente decreto-lei são aplicáveis a partir de 5 de abril de 2026;
 
-c) Os valores-limite previstos para os compostos de níquel respeitantes à fração respirável e à fração inalável indicados no anexo i ao presente decreto-lei, são aplicáveis a partir de 18 de janeiro de 2025, sendo o valor-limite respeitante à fração inalável, até essa data, de 0,1 mg/m<sup>3</sup>.
+c) Os valores-limite previstos para os compostos de níquel respeitantes à fração respirável e à fração inalável indicados no anexo i ao presente decreto-lei, são aplicáveis a partir de 18 de janeiro de 2025, sendo o valor-limite respeitante à fração inalável, até essa data, de 0,1 mg/m3.
 
 ###### Artigo 7.º — Norma transitória sobre a exposição ao chumbo
 
@@ -429,105 +482,107 @@ O presente decreto-lei entra em vigor no primeiro dia útil do mês seguinte ao 
 
 Visto e aprovado em Conselho de Ministros de 6 de novembro de 2024. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Ana Paula Martins - Rosário Palma Ramalho.
 
-**Promulgado em 28 de novembro de 2024.**
+Promulgado em 28 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de novembro de 2024.**
+Referendado em 29 de novembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se referem os artigos 3.º e 6.º)
 
 «ANEXO I
 
-[a que se referem as alíneas d), e) e f) do n.º 1 do artigo 3.º, a alínea b) do n.º 1 e a alínea b) do n.º 2 do artigo 4.º, os n.<sup>os</sup>1 e 4 do artigo 4.º-A, o n.º 6 do artigo 5.º e a alínea a) do n.º 1 do artigo 14.º]
+[a que se referem as alíneas d), e) e f) do n.º 1 do artigo 3.º, a alínea b) do n.º 1 e a alínea b) do n.º 2 do artigo 4.º, os n.os1 e 4 do artigo 4.º-A, o n.º 6 do artigo 5.º e a alínea a) do n.º 1 do artigo 14.º]
 
 Valores limite de exposição profissional
 
-| Nome do agente | N.º CE (<sup>1</sup>) | N.º CAS (<sup>2</sup>) | mg/m<sup>3</sup> (<sup>5</sup>) | ppm (<sup>6</sup>) | f/ml (<sup>7</sup>) | mg/m<sup>3</sup> (<sup>5</sup>) | ppm (<sup>6</sup>) | f/ml (<sup>7</sup>) | Notação | Medidas transitórias |
+| Nome do agente | N.º CE (1) | N.º CAS (2) | Valores-limite | Notação | Medidas transitórias |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nome do agente | N.º CE (<sup>1</sup>) | N.º CAS (<sup>2</sup>) | Valores-limite | Valores-limite | Valores-limite | Valores-limite | Valores-limite | Valores-limite | Notação | Medidas transitórias |
-| Nome do agente | N.º CE (<sup>1</sup>) | N.º CAS (<sup>2</sup>) | 8 horas (<sup>3</sup>) | 8 horas (<sup>3</sup>) | 8 horas (<sup>3</sup>) | Curta duração (<sup>4</sup>) | Curta duração (<sup>4</sup>) | Curta duração (<sup>4</sup>) | Notação | Medidas transitórias |
-| Poeira de madeira de folhosas | - | - | 2 (<sup>8</sup>) | - | - | - | - | - | - | Valor-limite 3 mg/m<sup>3</sup> até 17 de janeiro de 2023. |
-| Compostos de crómio (VI) que são agentes cancerígenos na aceção do artigo 2.º, alínea a), subalínea i)(como crómio) | - | - | 0,005 | - | - | - | - | - | - | Valor-limite 0,010 mg/m<sup>3</sup> até 17 de janeiro de 2025.Valor-limite: 0,025 mg/m<sup>3</sup> para processos de soldadura ou corte por plasma ou processos similares que produzam fumos até 17 de janeiro de 2025. |
+| 8 horas (3) | Curta duração (4) |  |  |  |  |  |  |  |  |  |
+| mg/m3 (5) | ppm (6) | f/ml (7) | mg/m3 (5) | ppm (6) | f/ml (7) |  |  |  |  |  |
+| Poeira de madeira de folhosas | - | - | 2 (8) | - | - | - | - | - | - | Valor-limite 3 mg/m3 até 17 de janeiro de 2023. |
+| Compostos de crómio (VI) que são agentes cancerígenos na aceção do artigo 2.º, alínea a), subalínea i)(como crómio) | - | - | 0,005 | - | - | - | - | - | - | Valor-limite 0,010 mg/m3 até 17 de janeiro de 2025.Valor-limite: 0,025 mg/m3 para processos de soldadura ou corte por plasma ou processos similares que produzam fumos até 17 de janeiro de 2025. |
 | Fibras de materiais cerâmicos refratários que são agentes cancerígenos na aceção do artigo 2.º, alínea a), subalínea i) | - | - | - | - | 0,3 | - | - | - | - |  |
-| Poeira de sílica cristalina respirável | - | - | 0,05 (<sup>9</sup>) | - | - | - | - | - | - | Valor-limite: 0,1 mg/m<sup>3</sup>até 31 de dezembro de 2022. |
-| Benzeno | 200-753-7 | 71-43-2 | 0,66 | 0,2 | - | - | - | - | Pele (<sup>10</sup>) | Valor-limite: 1 ppm (3,25 mg/m<sup>3</sup>) até 4 de abril de 2024, inclusive.Valor-limite: 0,5 ppm (1,65 mg/m<sup>3</sup>) entre 5 de abril de 2024 e 5 de abril de 2026, inclusive. |
+| Poeira de sílica cristalina respirável | - | - | 0,05 (9) | - | - | - | - | - | - | Valor-limite: 0,1 mg/m3até 31 de dezembro de 2022. |
+| Benzeno | 200-753-7 | 71-43-2 | 0,66 | 0,2 | - | - | - | - | Pele (10) | Valor-limite: 1 ppm (3,25 mg/m3) até 4 de abril de 2024, inclusive.Valor-limite: 0,5 ppm (1,65 mg/m3) entre 5 de abril de 2024 e 5 de abril de 2026, inclusive. |
 | Cloreto de vinilo monómero | 200-831-0 | 75-01-4 | 2,6 | 1 | - | - | - | - | - |  |
-| Óxido de etileno | 200-849-9 | 75-21-8 | 1,8 | 1 | - | - | - | - | Pele (<sup>10</sup>) |  |
+| Óxido de etileno | 200-849-9 | 75-21-8 | 1,8 | 1 | - | - | - | - | Pele (10) |  |
 | 1,2-Epoxipropano | 200-879-2 | 75-56-9 | 2,4 | 1 | - | - | - | - | - |  |
-| Tricloroetileno | 201-167-4 | 79-01-6 | 54,7 | 10 | - | 164,1 | 30 | - | Pele (<sup>10</sup>) |  |
-| Acrilamida | 201-173-7 | 79-06-1 | 0,1 | - | - | - | - | - | Pele (<sup>10</sup>) |  |
+| Tricloroetileno | 201-167-4 | 79-01-6 | 54,7 | 10 | - | 164,1 | 30 | - | Pele (10) |  |
+| Acrilamida | 201-173-7 | 79-06-1 | 0,1 | - | - | - | - | - | Pele (10) |  |
 | 2-Nitropropano | 201-209-1 | 79-46-9 | 18 | 5 | - | - | - | - | - |  |
-| o-Toluidina | 202-429-0 | 95-53-4 | 0,5 | 0,1 | - | - | - | - | Pele (<sup>10</sup>) |  |
-| 4,4′-Metilenodianilina | 202-974-4 | 101-77-9 | 0,08 | - | - | - | - | - | Pele (<sup>10</sup>) |  |
-| Epicloridrina | 203-439-8 | 106-89-8 | 1,9 | - | - | - | - | - | Pele (<sup>10</sup>) |  |
-| Dibrometo de etileno | 203-444-5 | 106-93-4 | 0,8 | 0,1 | - | - | - | - | Pele (<sup>10</sup>) |  |
+| o-Toluidina | 202-429-0 | 95-53-4 | 0,5 | 0,1 | - | - | - | - | Pele (10) |  |
+| 4,4′-Metilenodianilina | 202-974-4 | 101-77-9 | 0,08 | - | - | - | - | - | Pele (10) |  |
+| Epicloridrina | 203-439-8 | 106-89-8 | 1,9 | - | - | - | - | - | Pele (10) |  |
+| Dibrometo de etileno | 203-444-5 | 106-93-4 | 0,8 | 0,1 | - | - | - | - | Pele (10) |  |
 | 1,3-Butadieno | 203-450-8 | 106-99-0 | 2,2 | 1 | - | - | - | - | - |  |
-| Dicloreto de etileno | 203-458-1 | 107-06-2 | 8,2 | 2 | - | - | - | - | Pele (<sup>10</sup>) |  |
-| Hidrazina | 206-114-9 | 302-01-2 | 0,013 | 0,01 | - | - | - | - | Pele (<sup>10</sup>) |  |
+| Dicloreto de etileno | 203-458-1 | 107-06-2 | 8,2 | 2 | - | - | - | - | Pele (10) |  |
+| Hidrazina | 206-114-9 | 302-01-2 | 0,013 | 0,01 | - | - | - | - | Pele (10) |  |
 | Bromoetileno | 209-800-6 | 593-60-2 | 4,4 | 1 | - | - | - | - | - |  |
-| Emissões de gases de escape dos motores diesel |  |  | 0,05 (<sup>*1</sup>) |  |  |  |  |  |  | O valor-limite é aplicável a partir de 21 de fevereiro de 2023. No caso da indústria extrativa subterrânea e da construção de túneis, o valor-limite é aplicável a partir de 21 de fevereiro de 2026. |
-| Misturas de hidrocarbonetos aromáticos policíclicos, em especial as que contenham [benzo[a]pireno], que sejam agentes cancerígenos na aceção da presente diretiva |  |  |  |  |  |  |  |  | Pele (<sup>10</sup>) |  |
-| Óleos minerais que tenham sido previamente utilizados em motores de combustão interna para lubrificar e arrefecer as partes móveis dentro do motor |  |  |  |  |  |  |  |  | Pele (<sup>10</sup>) |  |
-| Cádmio e seus compostos inorgânicos | - | - | 0,001 (<sup>11</sup>) | - | - | - | - | - |  | Valor-limite 0,004 mg/m<sup>3</sup> (<sup>12</sup>) até 11 de julho de 2027. |
-| Berílio e compostos inorgânicos de berílio | - | - | 0,0002 (<sup>11</sup>) | - | - | - | - | - | Sensibilização cutânea e respiratória (<sup>13</sup>) | Valor-limite 0,0006 mg/m<sup>3</sup> até 11 de julho de 2026. |
-| Ácido arsénico e seus sais, bem como compostos inorgânicos de arsénio | - | - | 0,01 (<sup>11</sup>) | - | - | - | - | - | - | Para o setor da fundição de cobre, o valor-limite é aplicável a partir de 11 de julho de 2023. |
-| Formaldeído | 200-001-8 | 50-00-0 | 0,37 | 0,3 | - | 0,74 | 0,6 | - | Sensibilização cutânea (<sup>14</sup>) | Valor-limite de 0,62 mg/m<sup>3</sup> ou de 0,5 ppm (<sup>3</sup>) para os setores dos cuidados de saúde, funerário e de embalsamamento até 11 de julho de 2024. |
-| 4,4′-Metileno-bis(2-cloroanilina) | 202-918-9 | 101-14-4 | 0,01 | - | - | - | - | - | Pele (<sup>10</sup>) |  |
-| Acrilonitrilo | 203-466-5 | 107-13-1 | 1 | 0,45 | - | 4 | 1,8 | - | Pele (<sup>10</sup>)Sensibilização cutânea (<sup>14</sup>) | Os valores-limite são aplicáveis a partir de 5 de abril de 2026. |
-| Compostos de níquel | - | - | 0,01 (<sup>15</sup>)0,05 (<sup>16</sup>) | - | - | - | - | - | Sensibilização cutânea e respiratória (<sup>13</sup>) | O valor-limite (<sup>15</sup>) é aplicável a partir de 18 de janeiro de 2025.O valor-limite (<sup>16</sup>) é aplicável a partir de 18 de janeiro de 2025. Até essa data, aplica-se um valor-limite de 0,1 mg/m<sup>3</sup> (<sup>16</sup>). |
+| Emissões de gases de escape dos motores diesel |  |  | 0,05 (*1) |  |  |  |  |  |  | O valor-limite é aplicável a partir de 21 de fevereiro de 2023. No caso da indústria extrativa subterrânea e da construção de túneis, o valor-limite é aplicável a partir de 21 de fevereiro de 2026. |
+| Misturas de hidrocarbonetos aromáticos policíclicos, em especial as que contenham [benzo[a]pireno], que sejam agentes cancerígenos na aceção da presente diretiva |  |  |  |  |  |  |  |  | Pele (10) |  |
+| Óleos minerais que tenham sido previamente utilizados em motores de combustão interna para lubrificar e arrefecer as partes móveis dentro do motor |  |  |  |  |  |  |  |  | Pele (10) |  |
+| Cádmio e seus compostos inorgânicos | - | - | 0,001 (11) | - | - | - | - | - |  | Valor-limite 0,004 mg/m3 (12) até 11 de julho de 2027. |
+| Berílio e compostos inorgânicos de berílio | - | - | 0,0002 (11) | - | - | - | - | - | Sensibilização cutânea e respiratória (13) | Valor-limite 0,0006 mg/m3 até 11 de julho de 2026. |
+| Ácido arsénico e seus sais, bem como compostos inorgânicos de arsénio | - | - | 0,01 (11) | - | - | - | - | - | - | Para o setor da fundição de cobre, o valor-limite é aplicável a partir de 11 de julho de 2023. |
+| Formaldeído | 200-001-8 | 50-00-0 | 0,37 | 0,3 | - | 0,74 | 0,6 | - | Sensibilização cutânea (14) | Valor-limite de 0,62 mg/m3 ou de 0,5 ppm (3) para os setores dos cuidados de saúde, funerário e de embalsamamento até 11 de julho de 2024. |
+| 4,4′-Metileno-bis(2-cloroanilina) | 202-918-9 | 101-14-4 | 0,01 | - | - | - | - | - | Pele (10) |  |
+| Acrilonitrilo | 203-466-5 | 107-13-1 | 1 | 0,45 | - | 4 | 1,8 | - | Pele (10)Sensibilização cutânea (14) | Os valores-limite são aplicáveis a partir de 5 de abril de 2026. |
+| Compostos de níquel | - | - | 0,01 (15)0,05 (16) | - | - | - | - | - | Sensibilização cutânea e respiratória (13) | O valor-limite (15) é aplicável a partir de 18 de janeiro de 2025.O valor-limite (16) é aplicável a partir de 18 de janeiro de 2025. Até essa data, aplica-se um valor-limite de 0,1 mg/m3 (16). |
 | Chumbo metálico e respetivos compostos |  |  | 0,15 |  |  |  |  |  |  |  |
-| N,N-Dimetilacetamida | 204-826-4 | 127-19-5 | 36 | 10 |  | 72 | 20 |  | Pele (<sup>10</sup>) |  |
-| Nitrobenzeno | 202-716-0 | 98-95-3 | 1 | 0,2 |  |  |  |  | Pele (<sup>10</sup>) |  |
-| N,N Dimetilformamida | 200-679-5 | 68-12-2 | 15 | 5 |  | 30 | 10 |  | Pele (<sup>10</sup>) |  |
-| 2-Metoxietanol | 203-713-7 | 109-86-4 |  | 1 |  |  |  |  | Pele (<sup>10</sup>) |  |
-| Acetato de 2-metoxietilo | 203-772-9 | 110-49-6 |  | 1 |  |  |  |  | Pele (<sup>10</sup>) |  |
-| 2-Etoxietanol | 203-804-1 | 110-80-5 | 8 | 2 |  |  |  |  | Pele (<sup>10</sup>) |  |
-| Acetato de 2-etoxietilo | 203-839-2 | 111-15-9 | 11 | 2 |  |  |  |  | Pele (<sup>10</sup>) |  |
-| 1-Metil-2-pirrolidona | 212-828-1 | 872-50-4 | 40 | 10 |  | 80 | 20 |  | Pele (<sup>10</sup>) |  |
+| N,N-Dimetilacetamida | 204-826-4 | 127-19-5 | 36 | 10 |  | 72 | 20 |  | Pele (10) |  |
+| Nitrobenzeno | 202-716-0 | 98-95-3 | 1 | 0,2 |  |  |  |  | Pele (10) |  |
+| N,N Dimetilformamida | 200-679-5 | 68-12-2 | 15 | 5 |  | 30 | 10 |  | Pele (10) |  |
+| 2-Metoxietanol | 203-713-7 | 109-86-4 |  | 1 |  |  |  |  | Pele (10) |  |
+| Acetato de 2-metoxietilo | 203-772-9 | 110-49-6 |  | 1 |  |  |  |  | Pele (10) |  |
+| 2-Etoxietanol | 203-804-1 | 110-80-5 | 8 | 2 |  |  |  |  | Pele (10) |  |
+| Acetato de 2-etoxietilo | 203-839-2 | 111-15-9 | 11 | 2 |  |  |  |  | Pele (10) |  |
+| 1-Metil-2-pirrolidona | 212-828-1 | 872-50-4 | 40 | 10 |  | 80 | 20 |  | Pele (10) |  |
 | Mercúrio e compostos inorgânicos divalentes de mercúrio, incluindo o óxido mercúrico e o cloreto mercúrico (medidos como mercúrio) |  |  | 0,02 |  |  |  |  |  |  |  |
-| Bisfenol A; 4,4′-isopropilidenodifenol | 201-245-8 | 80-05-7 | 2 (<sup>11</sup>) |  |  |  |  |  |  |  |
+| Bisfenol A; 4,4′-isopropilidenodifenol | 201-245-8 | 80-05-7 | 2 (11) |  |  |  |  |  |  |  |
 | Monóxido de carbono | 211-128-3 | 630-08-0 | 23 | 20 |  | 117 | 100 |  |  |  |
 
-(<sup>1</sup>) Número CE, ou seja, EINECS, ELINCS ou NLP: número oficial da substância na União Europeia, na aceção do anexo vi, parte 1, ponto 1.1.1.2, do Regulamento (CE) n.º 1272/2008.
+(1) Número CE, ou seja, EINECS, ELINCS ou NLP: número oficial da substância na União Europeia, na aceção do anexo vi, parte 1, ponto 1.1.1.2, do Regulamento (CE) n.º 1272/2008.
 
-(<sup>2</sup>) Número CAS: Número de registo do Chemical Abstract Service.
+(2) Número CAS: Número de registo do Chemical Abstract Service.
 
-(<sup>3</sup>) Medidos ou calculados em relação a um período de referência de oito horas em média ponderada no tempo (TWA).
+(3) Medidos ou calculados em relação a um período de referência de oito horas em média ponderada no tempo (TWA).
 
-(<sup>4</sup>) Limite de exposição de curta duração (STEL): valor-limite acima do qual não deve haver exposição e que se refere a um período de 15 minutos, salvo indicação em contrário.
+(4) Limite de exposição de curta duração (STEL): valor-limite acima do qual não deve haver exposição e que se refere a um período de 15 minutos, salvo indicação em contrário.
 
-(<sup>5</sup>) mg/m<sup>3</sup> = Miligramas por metro cúbico de ar a 20°C e a 101,3 kPa (pressão de 760 mm de mercúrio).
+(5) mg/m3 = Miligramas por metro cúbico de ar a 20°C e a 101,3 kPa (pressão de 760 mm de mercúrio).
 
-(<sup>6</sup>) ppm = Partes por milhão em volume no ar (ml/m<sup>3</sup>).
+(6) ppm = Partes por milhão em volume no ar (ml/m3).
 
-(<sup>7</sup>) f/ml = Fibras por mililitro.
+(7) f/ml = Fibras por mililitro.
 
-(<sup>8</sup>) Fração inalável: Se a poeira de madeira de folhosas estiver misturada com outras poeiras de madeira, o valor-limite aplica-se a todas as poeiras de madeira presentes nessa mistura.
+(8) Fração inalável: Se a poeira de madeira de folhosas estiver misturada com outras poeiras de madeira, o valor-limite aplica-se a todas as poeiras de madeira presentes nessa mistura.
 
-(<sup>9</sup>) Fração respirável.
+(9) Fração respirável.
 
-(<sup>10</sup>) Possibilidade de contribuição considerável para a carga corporal total devido à exposição cutânea.
+(10) Possibilidade de contribuição considerável para a carga corporal total devido à exposição cutânea.
 
-(<sup>11</sup>) Fração inalável.
+(11) Fração inalável.
 
-(<sup>12</sup>) Fração inalável. Fração respirável nos Estados-Membros que apliquem, à data de entrada em vigor da presente diretiva, um sistema de biomonitorização com um valor-limite biológico que não exceda 0,002 mg de creatinina na urina.
+(12) Fração inalável. Fração respirável nos Estados-Membros que apliquem, à data de entrada em vigor da presente diretiva, um sistema de biomonitorização com um valor-limite biológico que não exceda 0,002 mg de creatinina na urina.
 
-(<sup>13</sup>) A substância pode causar sensibilização da pele e das vias respiratórias.
+(13) A substância pode causar sensibilização da pele e das vias respiratórias.
 
-(<sup>14</sup>) A substância pode causar sensibilização da pele.
+(14) A substância pode causar sensibilização da pele.
 
-(<sup>15</sup>) Fração respirável, medida em níquel.
+(15) Fração respirável, medida em níquel.
 
-(<sup>16</sup>) Fração inalável, medida em níquel.
+(16) Fração inalável, medida em níquel.
 
-(*<sup>1</sup>) Medidas sob a forma de carbono elementar.
+(*1) Medidas sob a forma de carbono elementar.
 
-## ANEXO II — (a que se refere o artigo 5.º)
+ANEXO II
+
+(a que se refere o artigo 5.º)
 
 «ANEXO II
 
@@ -539,4 +594,8 @@ Valores-limite biológicos e medidas de vigilância da saúde
 
 1.1 - O controlo biológico incluirá a medição da plumbemia (PbB), utilizando a espetroscopia de absorção atómica ou um método equivalente. O valor-limite biológico obrigatório é de: 70μg Pb/100 ml de sangue.
 
-1.2 - A vigilância da saúde será efetuada caso a exposição a uma concentração de chumbo na atmosfera seja superior a 0,075 mg/m<sup>3</sup>, sendo este valor a média ponderada em função do tempo calculada ao longo de 40 horas por semana, ou se as taxas individuais de plumbemia forem superiores a 40μg Pb/100 ml de sangue.
+1.2 - A vigilância da saúde será efetuada caso a exposição a uma concentração de chumbo na atmosfera seja superior a 0,075 mg/m3, sendo este valor a média ponderada em função do tempo calculada ao longo de 40 horas por semana, ou se as taxas individuais de plumbemia forem superiores a 40μg Pb/100 ml de sangue.
+
+118421363
+
+.Tbl1 { border-collapse:collapse; border-width:1px; border-style:none; } .Tbl2 { height:17px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { height:26px; } .Tbl8 { min-height:28px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl13 { min-height:72px; } .Tbl14 { min-height:37px; } .Tbl15 { min-height:62px; } .Tbl16 { min-height:18px; } .Tbl17 { min-height:56px; } .Tbl18 { min-height:46px; } .Tbl19 { min-height:27px; } .Tbl20 { min-height:36px; } .Tbl21 { min-height:42px; } .Tbl22 { min-height:61px; } .Tbl23 { min-height:47px; }

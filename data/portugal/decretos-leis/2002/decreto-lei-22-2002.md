@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/22/2002/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2002-276449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:33:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99b4d6aa5827701dd2f1ff7926067db5678ead941d6a60f4c6c7cdb35b82337d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bf4ed18c1426aab6c137927e8e8bc2b77cd147b79545587bf31050c1fdbf2d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:33:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,38 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Direito de Habitação Periódica
-- Transmissão da Propriedade
 - Regime Jurídico
+- Transmissão da Propriedade
 relationships:
 - type: amended_by
   target: pt:dre:70748598:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:620286:por
+  label: "Alterado o art. 48º do Dec Lei 275/93 de 05-Ago, na redacção do presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP,\
+    \ DR.IS-A [63-Supl] de 29.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterado o art. 11.º do Dec Lei 275/93, de 05-Ago, na redacção do presente diploma, pelo DEC LEI.116/2008.04.07.2008.MJ,\
+    \ DR.IS [128] de 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:279446:por
+  label: "Dada nova redacção, a partir de 09.04.2011, aos arts. 11º, 16º, 17º, 46º, 48º, 54º e 60º do Dec Lei 275/93 de 05-Ago,\
+    \ alterado pelo presente diploma, pelo DEC LEI.37/2011.10.03.2011.MEID, DR.IS [49] de 10.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-2011-279446
+  date: '2011-03-10'
+- type: amended_by
+  target: pt:dre:70748598:por
+  label: Alterados, a partir de 21.10.2015, os arts 16.º, 54.º, 58.º e 59.º, na redação do presente diploma, aditado o art
+    53.º-B e revogada a al c) do art 59.º do Dec Lei n.º 275/93, de 05-ago, pelo(a) Decreto-Lei n.º 245/2015 - Diário da República
+    n.º 205/2015, Série I de 2015-10-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-2015-70748598
+  date: '2015-10-20'
 - type: cites
   target: celex:31994L0047
   label: null
@@ -83,15 +108,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/275/1993/08/05/p/dre
 article_structure:
-  article_count: 12
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:33:17Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +165,9 @@ d) Os empreendimentos turísticos onde forem constituídos direitos reais de hab
 
 5 - As unidades de alojamento dos empreendimentos turísticos previstos no artigo 1.º não se consideram retiradas da exploração de serviços de alojamento turístico pelo facto de se encontrarem sujeitas ao regime do direito real de habitação periódica.
 
-###### Artigo 11.º — Requisitos
+Artigo 11.º
+
+Requisitos
 
 1 - ...
 
@@ -156,7 +183,9 @@ d) Os empreendimentos turísticos onde forem constituídos direitos reais de hab
 
 7 - ...
 
-###### Artigo 15.º — Caução
+Artigo 15.º
+
+Caução
 
 1 - ...
 
@@ -164,7 +193,9 @@ d) Os empreendimentos turísticos onde forem constituídos direitos reais de hab
 
 3 - ...
 
-###### Artigo 16.º — Direito de resolução
+Artigo 16.º
+
+Direito de resolução
 
 1 - O adquirente do direito real de habitação periódica pode resolver o respectivo contrato de aquisição, sem indicar o motivo e sem quaisquer encargos, no prazo de 10 dias úteis a contar da data em que lhe for entregue o contrato de transmissão do direito real de habitação periódica.
 
@@ -180,7 +211,9 @@ d) Os empreendimentos turísticos onde forem constituídos direitos reais de hab
 
 7 - ...
 
-###### Artigo 17.º — Contratos-promessa de transmissão de direitos reais de habitação periódica
+Artigo 17.º
+
+Contratos-promessa de transmissão de direitos reais de habitação periódica
 
 1 - ...
 
@@ -192,7 +225,9 @@ d) Os empreendimentos turísticos onde forem constituídos direitos reais de hab
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 46.º — Requisitos
+Artigo 46.º
+
+Requisitos
 
 1 - Sem prejuízo do disposto nos números seguintes, os direitos de habitação turística só podem constituir-se desde que os empreendimentos se encontrem em funcionamento e se verifiquem, com as necessárias adaptações, as condições previstas no artigo 4.º, estando a exploração nesse regime sujeita a autorização da Direcção-Geral do Turismo.
 
@@ -216,11 +251,15 @@ e) For prestada uma caução nos termos e para os efeitos previstos no artigo 15
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 47.º — Duração
+Artigo 47.º
+
+Duração
 
 Os direitos de habitação turística são, na falta de indicação em contrário, perpétuos, mas pode ser-lhes fixado um limite de duração não inferior a três anos, a contar da data da sua constituição, excepto quando o empreendimento estiver ainda em construção, em que o prazo começa a contar a partir da data da abertura ao público do empreendimento turístico ou da casa ou empreendimento de turismo no espaço rural.
 
-###### Artigo 48.º — Contrato de transmissão de direitos de habitação turística
+Artigo 48.º
+
+Contrato de transmissão de direitos de habitação turística
 
 1 - ...
 
@@ -240,7 +279,9 @@ Os direitos de habitação turística são, na falta de indicação em contrári
 
 9 - (Anterior n.º 7.)
 
-###### Artigo 54.º — Contra-ordenações
+Artigo 54.º
+
+Contra-ordenações
 
 1 - Constituem contra-ordenações puníveis com coima de (euro) 9975,94 (2000000$00) a (euro) 99759,40 (20000000$00):
 
@@ -298,7 +339,9 @@ l) ...
 
 3 - ...
 
-###### Artigo 60.º — Aplicação no tempo e no espaço
+Artigo 60.º
+
+Aplicação no tempo e no espaço
 
 1 - ...
 
@@ -330,12 +373,12 @@ O presente diploma entra em vigor no dia imediatamente a seguir ao da sua public
 
 Visto e aprovado em Conselho de Ministros de 15 de Novembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Luís Garcia Braga da Cruz - António Luís Santos Costa - António José Martins Seguro.
 
-**Promulgado em 4 de Janeiro de 2002.**
+Promulgado em 4 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Janeiro de 2002.**
+Referendado em 10 de Janeiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

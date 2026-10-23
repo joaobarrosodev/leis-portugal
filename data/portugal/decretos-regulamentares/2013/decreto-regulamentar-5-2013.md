@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/5/2013/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2013-499504
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f15a24d1ac740464417a44b6f62afce63cb8e00ea296ff63ee895c8bba7c5cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5e738d73e49adb293aa2df28747d6935fed4e35360184a1fa782c65c2e2d0f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,51 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Apoio Administrativo
-- Financiamento
 - Comissão Administrativa
 - Comissão Permanente
-- Definição de Competências
-- Diretor
-- Direito de Participação
-- Ensino Oficial
-- Secretaria Geral
-- Ministério da Educação e Ciência
-- Estabelecimento de Ensino
-- Presidente
-- Ensino Básico
-- Regulamento Eleitoral
 - Conselho das Escolas
+- Definição de Competências
+- Direito de Participação
+- Diretor
 - Educação Pré-escolar
+- Ensino Básico
+- Ensino Oficial
+- Estabelecimento de Ensino
+- Financiamento
+- Ministério da Educação e Ciência
+- Presidente
+- Regulamento Eleitoral
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que o Conselho das Escolas, previsto no presente diploma, é um órgão consultivo
+    do Ministro da Educação pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I
+    de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a 30.03.2022, que o Conselho das Escolas é um órgão independente com funções consultivas
+    do Ministro da Educação pelo(a) Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que o Conselho das Escolas é um órgão consultivo do Ministro da Educação,
+    Ciência e Inovação pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que o Conselho das Escolas é um órgão consultivo do Ministro da Educação,
+    Ciência e Inovação pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República n.º 142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/125/2011/12/29/p/dre
   label: null
@@ -103,16 +128,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:145195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632419:por
+  label: null
+  source: null
 article_structure:
   article_count: 44
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:32Z'
   warnings: []
   errors: []
 ---
@@ -321,15 +362,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de julho de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 15 de agosto de 2013.**
+Promulgado em 15 de agosto de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de agosto de 2013.**
+Referendado em 19 de agosto de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 

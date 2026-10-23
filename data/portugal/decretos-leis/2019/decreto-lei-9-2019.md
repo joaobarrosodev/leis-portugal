@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/01/01300/0035300354.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/9/2019/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2019-117919456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6155982a13b8b7d164e579311fb0b390510c8b1d3bbbbe6acee8c38c302e7314
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58d7f8d38f38552521d6b23139c07d13bb4c39b4c5edc088cfe0fe611091b25e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Formação Profissional
-- Desenvolvimento Rural
-- Exploração Agrícola Familiar
-- Estatuto
 - Apoio ao Investimento
-- Jovem
-- Investimento
-- Linha de Crédito
+- Benefícios Fiscais
+- Desenvolvimento Rural
+- Estatuto
 - Exploração Agrícola
+- Exploração Agrícola Familiar
+- Formação Profissional
+- Investimento
+- Jovem
+- Jovem Empresário
+- Linha de Crédito
 - Pessoa Coletiva
 - Pessoa Singular
+- Política de Emprego
+- Política de Juventude
 - Política Económica
 - Programa Comunitário
-- Jovem Empresário
-- Política de Emprego
 - Protecção à Juventude
-- Política de Juventude
-- Benefícios Fiscais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/372/2007/11/06/p/dre
@@ -97,16 +97,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/72/2016/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/72/2016/11/24/p/dre
+- type: cites
+  target: pt:dre:116330692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75796596:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:59Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +191,9 @@ d) O apoio, monitorização e avaliação da presença do JER nas atividades da 
 
 Entende-se por «JER», numa ótica transversal e multissetorial de abordagem territorial, o jovem que exerça ou pretenda iniciar o exercício de uma atividade económica em zona rural, no âmbito da prossecução dos objetivos definidos no artigo 2.º, e que cumpra as condições estabelecidas no presente decreto-lei.
 
-###### Artigo 5.º — Título de reconhecimento
+###### Artigo 5.º
+
+## Título de reconhecimento
 
 O reconhecimento do estatuto de JER é efetuado através da atribuição do respetivo título.
 
@@ -209,12 +223,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de dezembro de 2018. - Augusto Ernesto Santos Silva - Luís Manuel Capoulas Santos.
 
-**Promulgado em 17 de dezembro de 2018.**
+Promulgado em 17 de dezembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de dezembro de 2018.**
+Referendado em 18 de dezembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111967373

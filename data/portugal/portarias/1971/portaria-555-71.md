@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/555-1971-633499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff671627dbf61991bd8d9c89dcf54b6361f23bc4d3cc1390969e80a26769a1d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c27347c0b3ce2e1c434bfb3e88d9a198642d8198902d18aea11dd4cfb49763ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:231279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527418:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:45Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +133,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 2.º As disposições do [Decreto-Lei n.º 48871](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48871-1969-527418) a seguir mencionadas passam a ter a redacção que se indica:
 
-###### Artigo 1.º - 1. O presente diploma aplica-se às empreitadas destinadas à realização de trabalhos de construção, reconstrução, restauro, reparação, conservação ou adaptação de bens imóveis que, nos territórios das províncias ultramarinas, corram total ou parcialmente por conta do Estado ou de instituto público autónomo.
+Artigo 1.º - 1. O presente diploma aplica-se às empreitadas destinadas à realização de trabalhos de construção, reconstrução, restauro, reparação, conservação ou adaptação de bens imóveis que, nos territórios das províncias ultramarinas, corram total ou parcialmente por conta do Estado ou de instituto público autónomo.
 
 2. Nas obras das autarquias locais continuarão a observar-se as disposições especiais aplicáveis.
 
@@ -133,17 +141,17 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ...
 
-###### Art. 31.º - 1. Quando a assinatura do contrato tenha lugar decorridos mais de cento e oitenta dias sobre a data da apresentação da proposta por causas não imputáveis ao adjudicatário e entretanto o índice do custo de vida, verificado pelos serviços de estatística provinciais, tenha acusado variação para mais de 10 por cento do número registado nessa data, poderá o adjudicatário, antes de assinar o contrato, propor a correcção do preço ou dos preços de acordo com a tendência acusada.
+Art. 31.º - 1. Quando a assinatura do contrato tenha lugar decorridos mais de cento e oitenta dias sobre a data da apresentação da proposta por causas não imputáveis ao adjudicatário e entretanto o índice do custo de vida, verificado pelos serviços de estatística provinciais, tenha acusado variação para mais de 10 por cento do número registado nessa data, poderá o adjudicatário, antes de assinar o contrato, propor a correcção do preço ou dos preços de acordo com a tendência acusada.
 
 2. ...
 
 ...
 
-###### Art. 60.º Quando o valor da empreitada não imponha posse de alvará, poderá ser exigida no programa de concurso declaração do concorrente da qual conste o equipamento e pessoal de que dispõe para a execução da obra.
+Art. 60.º Quando o valor da empreitada não imponha posse de alvará, poderá ser exigida no programa de concurso declaração do concorrente da qual conste o equipamento e pessoal de que dispõe para a execução da obra.
 
 ...
 
-###### Art. 78.º - 1. ...
+Art. 78.º - 1. ...
 
 2. O Ministro do Ultramar fixará por portaria o valor das empreitadas acima do qual será necessária a assistência ao acto público do concurso do procurador da República ou de um seu representante.
 
@@ -151,7 +159,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ...
 
-###### Art. 80.º - 1. ...
+Art. 80.º - 1. ...
 
 a) ...
 
@@ -175,11 +183,11 @@ d) Se vier a apurar-se que o reclamante reclamou sem fundamento, com mero propó
 
 ...
 
-###### Art. 121.º O empreiteiro é responsável pelos acidentes no trabalho e doenças profissionais de todo o seu pessoal, transferindo sempre que possível essa responsabilidade para uma companhia de seguros, apresentando a apólice respectiva antes do início dos trabalhos e ainda quando lhe for exigida pelo fiscal da obra.
+Art. 121.º O empreiteiro é responsável pelos acidentes no trabalho e doenças profissionais de todo o seu pessoal, transferindo sempre que possível essa responsabilidade para uma companhia de seguros, apresentando a apólice respectiva antes do início dos trabalhos e ainda quando lhe for exigida pelo fiscal da obra.
 
 ...
 
-###### Art. 123.º - 1. ...
+Art. 123.º - 1. ...
 
 2. ...
 
@@ -205,7 +213,7 @@ c) ...
 
 ...
 
-###### Art. 127.º - 1. ...
+Art. 127.º - 1. ...
 
 2. ...
 
@@ -213,7 +221,7 @@ c) ...
 
 ...
 
-###### Art. 140.º - 1. ...
+Art. 140.º - 1. ...
 
 2. ...
 
@@ -223,7 +231,7 @@ c) ...
 
 ...
 
-###### Art. 196.º - 1. ...
+Art. 196.º - 1. ...
 
 2. ...
 
@@ -241,15 +249,15 @@ c) ...
 
 6. ...
 
-###### Art. 197.º Depois da recepção provisória, o dono da obra oficiará à competente autoridade administrativa da área em que os trabalhos foram executados, participando-lhe a sua conclusão e indicando o serviço, e respectiva sede, encarregado da liquidação.
+Art. 197.º Depois da recepção provisória, o dono da obra oficiará à competente autoridade administrativa da área em que os trabalhos foram executados, participando-lhe a sua conclusão e indicando o serviço, e respectiva sede, encarregado da liquidação.
 
-###### Art. 198.º - 1. A entidade referida no artigo anterior, recebida aquela comunicação, mandará afixar nos lugares do estilo éditos de vinte dias, chamando todos os interessados para, até dez dias depois do termo do prazo dos éditos, apresentarem na respectiva secretaria, por escrito e devidamente fundamentadas e documentadas, quaisquer reclamações por falta de pagamento de ordenados, salários e materiais ou de indemnizações a que se julgarem com direito e, bem assim, do preço de quaisquer trabalhos que o empreiteiro haja mandado executar por terceiros.
+Art. 198.º - 1. A entidade referida no artigo anterior, recebida aquela comunicação, mandará afixar nos lugares do estilo éditos de vinte dias, chamando todos os interessados para, até dez dias depois do termo do prazo dos éditos, apresentarem na respectiva secretaria, por escrito e devidamente fundamentadas e documentadas, quaisquer reclamações por falta de pagamento de ordenados, salários e materiais ou de indemnizações a que se julgarem com direito e, bem assim, do preço de quaisquer trabalhos que o empreiteiro haja mandado executar por terceiros.
 
 2. A afixação pode ser substituída por duas publicações feitas, com uma semana de intervalo, num jornal local com expansão na respectiva área, contando-se o prazo de dez dias para a apresentação de reclamações, a partir da data da segunda publicação.
 
 3. ...
 
-###### Art. 199.º - 1. Findo o prazo para a respectiva apresentação, a entidade referida no artigo 197.º enviará, dentro de dez dias, ao serviço que estiver encarregado da liquidação, as reclamações recebidas.
+Art. 199.º - 1. Findo o prazo para a respectiva apresentação, a entidade referida no artigo 197.º enviará, dentro de dez dias, ao serviço que estiver encarregado da liquidação, as reclamações recebidas.
 
 2. ...
 
@@ -257,7 +265,7 @@ c) ...
 
 ...
 
-###### Art. 210.º - 1. ...
+Art. 210.º - 1. ...
 
 2. ...
 
@@ -275,8 +283,8 @@ c) ...
 
 ...
 
-###### Art. 226.º O presente diploma entra em vigor cento e oitenta dias após a sua publicação no Diário do Governo e só será aplicável às obras postas posteriormente a concurso.
+Art. 226.º O presente diploma entra em vigor cento e oitenta dias após a sua publicação no Diário do Governo e só será aplicável às obras postas posteriormente a concurso.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/01/026a00/05300531.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/37/1997/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1997-571070
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:54:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 620179fedaf6793b200ce8bd4f72a805b687c38fab06ba2cbe59973a4ba4120a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9519907f7bd995a08e741af948144c8caaab8899a590c2ab0be16c75546b1a07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:54:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Nacionalidade
 - Cidadão Estrangeiro
 - Conservatória dos Registos Centrais
 - Emolumento do Notariado
+- Nacionalidade
 - Naturalização
 - Nome Civil
 - Regulamento
@@ -82,16 +82,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/253/1994/10/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/253/1994/10/20/p/dre
+- type: cites
+  target: pt:dre:397908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625996:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:216911:por
+  label: "Revogado o Dec Lei 322/82 de 12-Ago, com a redacção conferida no presente diploma, pelo DEC LEI.237-A/2006.14.12.2006.MJ,\
+    \ DR.IS [239-Supl] de 14.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-a-2006-216911
+  date: '2006-12-14'
 article_structure:
-  article_count: 12
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:54:42Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +154,7 @@ b) Inscrever o nascimento no registo civil português mediante declaração pres
 
 2 - ...
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - A inscrição de nascimento nas condições do artigo anterior é lavrada nos serviços consulares portugueses da área da naturalidade do registando ou na Conservatória dos Registos Centrais.
 
@@ -144,7 +162,7 @@ b) Inscrever o nascimento no registo civil português mediante declaração pres
 
 3 - As declarações e requerimentos necessários à inscrição de nascimento na Conservatória dos Registos Centrais são efectuados por intermédio dos serviços consulares ou de conservatórias do registo civil, nos termos estabelecidos nos n.os 1 e 2 do artigo 47.º
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - ...
 
@@ -158,13 +176,13 @@ b) Inscrever o nascimento no registo civil português mediante declaração pres
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 29.º
+Artigo 29.º
 
 1 - Na Conservatória dos Registos Centrais haverá um livro de registo da nacionalidade, anual e desdobrável, conforme as necessidades do serviço, a que são aplicáveis as normas regulamentares dos livros de registo civil.
 
 2 - O registo da nacionalidade pode ser efectuado em suporte informático, nos termos a fixar por portaria do Ministro da Justiça.
 
-###### Artigo 32.º
+Artigo 32.º
 
 ...
 
@@ -178,13 +196,13 @@ d) ...
 
 e) ...
 
-###### Artigo 33.º
+Artigo 33.º
 
 1 - Nos registos de nacionalidade deve ser mencionada a natureza e a data do documento com base no qual são lavrados.
 
 2 - ...
 
-###### Artigo 47.º
+Artigo 47.º
 
 1 - As declarações para fins de atribuição, aquisição e perda da nacionalidade portuguesa são prestadas por intermédio dos serviços consulares da área da residência dos interessados, se residentes no estrangeiro, ou por intermédio de conservatórias de registo civil, se os interessados residirem em território português ou em território sob administração portuguesa.
 
@@ -192,7 +210,7 @@ e) ...
 
 3 - As declarações a que se referem os números anteriores devem ser reduzidas a auto pelo funcionário perante quem hajam sido prestadas, salvo tratando-se de atribuição da nacionalidade mediante inscrição do nascimento no registo civil português, e enviadas à Conservatória dos Registos Centrais.
 
-###### Artigo 56.º
+Artigo 56.º
 
 1 - Recebidas na Conservatória dos Registos Centrais as declarações de que dependa a atribuição ou aquisição da nacionalidade, e estando o processo em condições de ser lavrado o correspondente registo, deve o funcionário, previamente, transcrever a certidão do assento estrangeiro de nascimento do interessado ou documento equivalente segundo a lei do país de que é nacional ou originário, salvo se o seu nascimento já constar do registo civil português.
 
@@ -220,7 +238,7 @@ e) Por cada certidão de documento, além do emolumento previsto na alínea ante
 
 2 - O emolumento previsto na alínea a) do número anterior pertence à repartição onde for prestada a declaração.
 
-###### Artigo 3.º
+Artigo 3.º
 
 São gratuitos:
 
@@ -242,12 +260,12 @@ Para ser publicado no Boletim Oficial de Macau.
 
 Visto e aprovado em Conselho de Ministros de 21 de Novembro de 1996. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Alberto Bernardes Costa - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 13 de Janeiro de 1997.**
+Promulgado em 13 de Janeiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Janeiro de 1997.**
+Referendado em 15 de Janeiro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

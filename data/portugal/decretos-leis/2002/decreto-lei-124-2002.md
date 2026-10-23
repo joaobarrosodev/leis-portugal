@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/124/2002/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2002-368663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d1e5d8d4b170048b1cd0185af1937138c836ff0691739d6baad267d60adeb68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14f1b601a2107a5479f78f684c81569f72bb997303e43461f15548d8e8e1898e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,23 @@ subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
 - Direcção Geral de Viação
-- Instalações Radioelétricas
-- Homologação
-- Veículo
-- Material Eléctrico e Electrónico
-- Equipamento de Veículo
 - Equipamento Agrícola
+- Equipamento de Veículo
+- Homologação
+- Instalações Radioelétricas
+- Material Eléctrico e Electrónico
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:580330:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:214715:por
+  label: "Alterado o anexo IX do Regulamento Relativo à Supressão das Interferências Radioeléctricas Produzidas pelos Tractores\
+    \ Agrícolas, pelo DEC LEI.42/2003.2003.03.12.MAI DR.IS-A [60]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-2003-214715
+  date: '2003-03-12'
 - type: cites
   target: celex:31974L0150
   label: null
@@ -96,16 +102,23 @@ relationships:
   target: celex:32000L0002
   label: null
   source: http://data.europa.eu/eli/dir/2000/2/oj
+- type: repealed_by
+  target: pt:dre:580330:por
+  label: "Revogado os anexos I e II do Regulamento da Homologação dos Tractores Agrícolas e Florestais de Rodas, aprovado\
+    \ pelo Dec Lei 291/2000 de 14-Nov, na redacção do presente diploma, pelo DEC LEI.74/2005.24.03.2005.MAI, DR.IS-A [59]\
+    \ de 24.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2005-580330
+  date: '2005-03-24'
 article_structure:
   article_count: 149
   section_count: 64
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:11Z'
   warnings: []
   errors: []
 ---
@@ -170,15 +183,15 @@ b) Deve recusar a venda e a colocação em serviço de subconjuntos eléctricos 
 
 Visto e aprovado em Conselho de Ministros de 10 de Janeiro de 2002. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - António Luís Santos Costa - Luís Garcia Braga da Cruz - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 31 de Janeiro de 2002.**
+Promulgado em 31 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Fevereiro de 2002.**
+Referendado em 22 de Fevereiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO
 
@@ -1470,7 +1483,7 @@ Limites de referência em banda larga dos tractores agrícolas ou florestais de 
 
 Separação veículo-antena: 10 m
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 ## ANEXO II — (referente ao capítulo I)
 
@@ -1478,7 +1491,7 @@ Limites de referência em banda larga dos tractores agrícolas ou florestais de 
 
 Separação veículo-antena: 3 m
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 ## ANEXO III — (referente ao capítulo I)
 
@@ -1486,7 +1499,7 @@ Limites de referência em banda estreita dos tractores agrícolas ou florestais 
 
 Separação veículo-antena: 10 m
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 ## ANEXO IV — (referente ao capítulo I)
 
@@ -1494,7 +1507,7 @@ Limites de referência em banda estreita dos tractores agrícolas ou florestais 
 
 Separação veículo-antena: 3 m
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 ## ANEXO V — (referente ao capítulo I)
 
@@ -1502,7 +1515,7 @@ Subconjunto eléctrico/electrónico
 
 Limites de referência em banda larga
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 ## ANEXO VI — (referente ao capítulo I)
 
@@ -1510,7 +1523,7 @@ Subconjunto eléctrico/electrónico
 
 Limites de referência em banda estreita
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 ## ANEXO VII — (referente ao capítulo I)
 
@@ -1710,7 +1723,7 @@ No caso de os sistemas, componentes ou unidades técnicas possuírem controlos e
 
 (nota 1) Riscar o que não interessa.
 
-## Apêndice 1
+Apêndice 1
 
 (referente ao anexo IX)
 
@@ -1724,7 +1737,7 @@ Distância entre eixos: ...
 
 Opções de componentes: ...
 
-## Apêndice 2
+Apêndice 2
 
 (referente ao anexo IX)
 
@@ -1758,13 +1771,13 @@ No caso de os sistemas, componentes ou unidades técnicas possuírem controlos e
 
 (nota *) Riscar o que não interessa.
 
-## Apêndice 1
+Apêndice 1
 
 (referente ao anexo X)
 
 Descrição do SCE escolhido para representar o tipo: ...
 
-## Apêndice 2
+Apêndice 2
 
 (referente ao anexo X)
 
@@ -1836,7 +1849,7 @@ Razão da extensão: ...
 
 (nota 2) Se os meios de identificação do modelo/tipo contiverem caracteres não relevantes para a descrição dos modelos/tipos de tractor(es) agrícola(s) ou floresta(is) de rodas, componente ou unidade técnica abrangidos por esta ficha de informações/ficha de homologação, tais caracteres devem ser representados na documentação por meio do símbolo «?» (por exemplo, ABC??123??).
 
-## Apêndice ao certificado de homologação CE n.º ...
+Apêndice ao certificado de homologação CE n.º ...
 
 (relativo à homologação CE de um modelo de tractor agrícola ou florestal de rodas no que diz respeito à Directiva n.º [75/322/CEE](https://data.europa.eu/eli/dir/1975/322/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º [2000/2/CE](https://data.europa.eu/eli/dir/2000/2/oj?locale=pt)).
 
@@ -1920,7 +1933,7 @@ Razão da extensão: ...
 
 (nota 2) Se os meios de identificação do modelo/tipo contiverem caracteres não relevantes para a descrição dos modelos/tipos de tractor agrícola ou florestal de rodas, componente ou unidade técnica abrangidos por esta ficha de informações/ficha de homologação, tais caracteres devem ser representados na documentação por meio do símbolo «?» (por exemplo, ABC??123??).
 
-## Apêndice ao certificado de homologação CE n.º ...
+Apêndice ao certificado de homologação CE n.º ...
 
 (relativo à homologação CE de um tipo de subconjunto eléctrico/electrónico no que diz respeito à Directiva n.º [75/322/CE](https://data.europa.eu/eli/dir/1975/322/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º [2000/2/CE](https://data.europa.eu/eli/dir/2000/2/oj?locale=pt)).
 
@@ -1950,13 +1963,13 @@ Razão da extensão: ...
 
 1 - Durante cada uma das medições, o motor deve funcionar do seguinte modo:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 2 - De acordo com o artigo 45.º do presente Regulamento, o serviço técnico deve efectuar os ensaios a 13 frequências, no máximo, dentro da gama: 45 MHz, 65 MHz, 90 MHz, 120 MHz, 150 MHz, 190 MHz, 230 MHz, 280 MHz, 380 MHz, 450 MHz, 600 MHz, 750 MHz e 900 MHz.
 
 3 - Tolerâncias que se aplicam às frequências:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 ## ANEXO XV — (referente ao artigo 60.º)
 
@@ -1966,17 +1979,17 @@ O serviço técnico deve efectuar os ensaios à frequência escolhida dentro de 
 
 ## ANEXO XVI — (referente ao capítulo IV)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 ## ANEXO XVII — (referente ao capítulo IV)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 ## ANEXO XVIII — (referente ao capítulo IV)
 
 Características do sinal de ensaio a gerar
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 ## ANEXO XIX — (referente ao capítulo IV)
 
@@ -1994,17 +2007,17 @@ Limite da zona de ensaio dos subconjuntos eléctricos/electrónicos
 
 Espaço desimpedido isento de qualquer superfície electromagneticamente reflectora
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 ## ANEXO XXI — (referente ao capítulo V)
 
 Figura 1
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 Figura 2
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 ## ANEXO XXII — (referente ao capítulo V)
 
@@ -2014,7 +2027,7 @@ Figura 2
 
 2 - Tolerâncias aplicadas às frequências:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 ## ANEXO XXIII — (referente ao capítulo VI)
 
@@ -2028,23 +2041,23 @@ Figura 1
 
 Ensaio com stripline de 150 mm
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 Figura 2
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 Figura 3
 
 Ensaio com stripline de 800 mm
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 Figura 4
 
 Dimensões do stripline de 800 mm
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 ## ANEXO XXV — (referente ao capítulo VII)
 
@@ -2052,7 +2065,7 @@ Figura 1
 
 Exemplo de configuração do ensaio de injecção de corrente de massa
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 ## ANEXO XXVI — (referente ao capítulo VII)
 
@@ -2060,19 +2073,19 @@ Figura 1
 
 Ensaio em célula TEM
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 Figura 2
 
 Dimensões da célula TEM
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 Figura 3
 
 O quadro a seguir mostra as dimensões de uma célula com limites de frequência superior especificados:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 Dimensões típicas de uma célula TEM.
 
@@ -2080,11 +2093,11 @@ Dimensões típicas de uma célula TEM.
 
 Figura 1
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 Figura 2
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
+[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)](https://files.diariodarepublica.pt/1s/2002/05/108a00/43744406.pdf)
 
 ## ANEXO XXVIII — (referente ao capítulo VII)
 

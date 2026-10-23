@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/17300/18981902.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/32-1980-471967
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d93ad1f0d3d770cac92957773515a555297d0858e0827c603157c2d1c9a94b4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3acce7eb591dd76735c75b09561f2d57f34dbe8bd987548ef6f8ad556173e421
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Espectáculos e do Direito de Autor
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:551193:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:396687:por
+  label: "Aumentados lugares ao quadro de pessoal aprovado pelo presente diploma, pela PORT.815/82.28.08.1982.MFP, DR.IS [199]\
+    \ de 28.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/815-1982-396687
+  date: '1982-08-28'
+- type: amended_by
+  target: pt:dre:583593:por
+  label: "Alterado o quadro de pessoal pela PORT.11/88.07.01.1988.PCM, DR.IS [5] de 07.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/11-1988-583593
+  date: '1988-01-07'
+- type: amended_by
+  target: pt:dre:177389:por
+  label: "Alterado o quadro de pessoal pela PORT.219/92.21.03.1992.PCM, DR.IS-B [68] de 21.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/219-1992-177389
+  date: '1992-03-21'
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:464236:por
+  label: Rectificado pela DECL.DD6859.19.08.1980.PCM, DR.IS [204] de 04.09.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-464236
+  date: '1980-08-19'
+- type: repealed_by
+  target: pt:dre:380149:por
+  label: "Revogado o art. 32º, pelo DEC LEI.460/82.26.11.1982.MCCC, DR.IS [274] de 26.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/460-1982-380149
+  date: '1982-11-26'
+- type: repealed_by
+  target: pt:dre:410282:por
+  label: "Revogado pelo DEC LEI.106-A/92.01.06.1992.PCM, DR.IS-A [126]Supl de 01.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-a-1992-410282
+  date: '1992-06-01'
+- type: repealed_by
+  target: pt:dre:551193:por
+  label: "Revogados os arts. 19º e 20º pelo DEC LEI.222/95.1995.09.08.PCM, DR.IS-A [208]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-1995-551193
+  date: '1995-09-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:15Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +151,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º À Direcção-Geral dos Espectáculos e do Direito de Autor compete:
+Artigo 1.º À Direcção-Geral dos Espectáculos e do Direito de Autor compete:
 
 a) Assegurar o cumprimento da legislação sobre espectáculos e divertimentos públicos e sobre o direito de autor, através de acções de carácter informativo, orientador ou fiscalizador;
 
@@ -122,11 +173,11 @@ i) Manter a agenda cronológica da queda das obras no domínio público.
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 2.º - 1 - A Direcção-Geral dos Espectáculos e do Direito de Autor é dirigida por um director-geral, a quem compete orientar, coordenar e dirigir todos os serviços.
+Art. 2.º - 1 - A Direcção-Geral dos Espectáculos e do Direito de Autor é dirigida por um director-geral, a quem compete orientar, coordenar e dirigir todos os serviços.
 
 2 - O director-geral será coadjuvado por um subdirector-geral, que o substituirá nas suas ausências e impedimentos.
 
-###### Art. 3.º A Direcção-Geral dos Espectáculos e do Direito de Autor compreende os seguintes serviços:
+Art. 3.º A Direcção-Geral dos Espectáculos e do Direito de Autor compreende os seguintes serviços:
 
 a) Direcção dos Serviços do Direito de Autor;
 
@@ -144,7 +195,7 @@ g) Divisão de Apoio Técnico;
 
 h) Serviços regionais e delegados concelhios.
 
-###### Art. 4.º À Direcção dos Serviços do Direito de Autor compete:
+Art. 4.º À Direcção dos Serviços do Direito de Autor compete:
 
 a) Proceder ao registo de obras intelectuais e das entidades individuais e colectivas que representam em Portugal os interesses dos autores ou seus sucessores;
 
@@ -154,7 +205,7 @@ c) Processar a cobrança das taxas previstas na legislação em vigor;
 
 d) Prestar informações sobre os titulares dos direitos das obras intelectuais publicadas em Portugal.
 
-###### Art. 5.º - 1 - A Direcção dos Serviços do Direito de Autor compreende:
+Art. 5.º - 1 - A Direcção dos Serviços do Direito de Autor compreende:
 
 a) Centro de Informação;
 
@@ -198,7 +249,7 @@ b) Proceder à distribuição dos exemplares referidos na alínea anterior em co
 
 6 - À Secção de Processamento e de Gestão compete controlar o processamento das taxas previstas na lei e calcular as verbas a cobrar aos usuários.
 
-###### Art. 6.º - 1 - À Repartição dos Espectáculos incumbe a aplicação da legislação de espectáculos que não seja da competência de outros serviços.
+Art. 6.º - 1 - À Repartição dos Espectáculos incumbe a aplicação da legislação de espectáculos que não seja da competência de outros serviços.
 
 2 - A Repartição dos Espectáculos compreende:
 
@@ -228,7 +279,7 @@ c) A passagem de alvarás.
 
 5 - À Secção de Contrôle compete controlar a liquidação do adicional sobre o preço dos bilhetes dos espectáculos e de outras taxas previstas na lei e informar a Divisão de Contencioso sobre eventuais infracções.
 
-###### Art. 7.º - 1 - À Repartição Administrativa compete assegurar os serviços de administração financeira e patrimonial, de expediente e arquivo da Direcção-Geral.
+Art. 7.º - 1 - À Repartição Administrativa compete assegurar os serviços de administração financeira e patrimonial, de expediente e arquivo da Direcção-Geral.
 
 2 - A Repartição Administrativa compreende:
 
@@ -262,15 +313,15 @@ a) Assegurar todos os serviços de recepção, expedição, registo e distribui�
 
 b) Assegurar o funcionamento dos serviços de reprografia e o expediente relacionado com o pessoal.
 
-###### Art. 8.º À Divisão de Informática compete assegurar a recepção, contrôle, tratamento, registo e arquivo de todos os elementos sobre espectáculos e divertimentos públicos e do direito de autor previstos na lei e, com base nos mesmos e de acordo com o Gabinete de Planeamento da Secretaria de Estado da Cultura, elaborar estatísticas e estudos, propondo as medidas que forem julgadas convenientes.
+Art. 8.º À Divisão de Informática compete assegurar a recepção, contrôle, tratamento, registo e arquivo de todos os elementos sobre espectáculos e divertimentos públicos e do direito de autor previstos na lei e, com base nos mesmos e de acordo com o Gabinete de Planeamento da Secretaria de Estado da Cultura, elaborar estatísticas e estudos, propondo as medidas que forem julgadas convenientes.
 
-###### Art. 9.º À Divisão de Inspecção compete:
+Art. 9.º À Divisão de Inspecção compete:
 
 a) Assegurar o cumprimento da legislação sobre espectáculos e divertimentos públicos e do direito de autor, através de acções de carácter informativo, orientador e fiscalizador;
 
 b) Prevenir as dificiências não controláveis por inexistência ou inadequação de disposições legais.
 
-###### Art. 10.º À Divisão de Contencioso compete:
+Art. 10.º À Divisão de Contencioso compete:
 
 a) Dar parecer sobre todos os assuntos de natureza jurídica que lhe sejam submetidos;
 
@@ -282,7 +333,7 @@ d) Manter actualizada a biblioteca e compilação de legislação especialmente 
 
 e) Instruir os processos de infracções que forem verificadas pela Divisão de Inspecção ou por outras entidades a que a lei confira idêntica competência.
 
-###### Art. 11.º À Divisão de Apoio Técnico compete:
+Art. 11.º À Divisão de Apoio Técnico compete:
 
 a) Aprovar os projectos de construção, reconstrução, adaptação e alteração de recintos de espectáculos e divertimentos públicos, nos termos que a lei fixar;
 
@@ -296,19 +347,19 @@ e) Vistoriar todos os recintos de espectáculos e divertimentos públicos, com v
 
 f) Determinar as vistorias locais previstas na legislação de espectáculos, sem prejuízo da uniformização de critérios que lhe incumbe assegurar.
 
-###### Art. 12.º - 1 - E criado o Serviço Regional do Porto, d aDirecção-Geral dos Espectáculos e do Direito de Autor, que integrará a delegação do Porto da extinta Direcção de Serviços de Espectáculos.
+Art. 12.º - 1 - E criado o Serviço Regional do Porto, d aDirecção-Geral dos Espectáculos e do Direito de Autor, que integrará a delegação do Porto da extinta Direcção de Serviços de Espectáculos.
 
 2 - O Serviço Regional do Porto é dirigido por um chefe de divisão.
 
-###### Art. 13.º Por decreto poderão ser criados outros serviços regionais da Direcção-Geral dos Espectáculos e do Direito de Autor em articulação com as delegações regionais da Secretaria de Estado da Cultura.
+Art. 13.º Por decreto poderão ser criados outros serviços regionais da Direcção-Geral dos Espectáculos e do Direito de Autor em articulação com as delegações regionais da Secretaria de Estado da Cultura.
 
-###### Art. 14.º Os delegados concelhios previstos na legislação sobre espectáculos serão remunerados mediante gratificação a fixar por despacho conjunto dos Ministros das Finanças e do Plano e da Administração Interna e do membro do Governo responsável pela área da Cultura e do membro do Governo que tem a seu cargo a função pública.
+Art. 14.º Os delegados concelhios previstos na legislação sobre espectáculos serão remunerados mediante gratificação a fixar por despacho conjunto dos Ministros das Finanças e do Plano e da Administração Interna e do membro do Governo responsável pela área da Cultura e do membro do Governo que tem a seu cargo a função pública.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 15.º A Direcção-Geral dos Espectáculos e do Direito de Autor disporá do pessoal constante do mapa anexo ao presente diploma.
+Art. 15.º A Direcção-Geral dos Espectáculos e do Direito de Autor disporá do pessoal constante do mapa anexo ao presente diploma.
 
-###### Art. 16.º - 1 - O provimento do pessoal do quadro a que se refere o artigo anterior será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+Art. 16.º - 1 - O provimento do pessoal do quadro a que se refere o artigo anterior será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -326,11 +377,11 @@ a) No lugar de origem quando à comissão se não seguir o provimento definitivo
 
 b) No lugar do quadro da Direcção-Geral dos Espectáculos e do Direito de Autor em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 17.º - 1 - Aos lugares de director-geral, subdirector-geral, director de serviços e chefe de divisão é aplicável o regime estabelecido na lei geral.
+Art. 17.º - 1 - Aos lugares de director-geral, subdirector-geral, director de serviços e chefe de divisão é aplicável o regime estabelecido na lei geral.
 
 2 - O lugar de chefe de divisão de inspecção poderá também ser provido de entre inspectores coordenadores e inspectores principais.
 
-###### Art. 18.º - 1 - Os lugares de chefe de repartição serão providos de entre:
+Art. 18.º - 1 - Os lugares de chefe de repartição serão providos de entre:
 
 a) Chefes de secção com, pelo menos, três anos de efectivo e bom serviço;
 
@@ -342,21 +393,21 @@ a) Primeiros-oficiais com, pelo menos, três anos de efectivo e bom serviço;
 
 b) Indivíduos habilitados com curso superior.
 
-###### Art. 19.º - 1 - É criada a carreira de inspector, que se desenvolve pelas categorias de inspector-coordenador, principal, de 1.ª classe e de 2.ª classe.
+Art. 19.º - 1 - É criada a carreira de inspector, que se desenvolve pelas categorias de inspector-coordenador, principal, de 1.ª classe e de 2.ª classe.
 
 2 - O ingresso na carreira é condicionado à posse do grau de licenciatura.
 
 3 - A progressão na carreira reger-se-á pelas normas definidas em lei geral para a carreira técnica superior.
 
-###### Art. 20.º - 1 - É criada a carreira de subinspector, que se desenvolve pelas categorias de principal, de 1.ª classe e de 2.ª classe.
+Art. 20.º - 1 - É criada a carreira de subinspector, que se desenvolve pelas categorias de principal, de 1.ª classe e de 2.ª classe.
 
 2 - O ingresso na carreira estará condicionado à posse do curso geral do ensino secundário ou equivalente.
 
 3 - O acesso à categoria superior dentro da carreira é condicionado à permanência de três anos na categoria e classificação de serviço não inferior a Bom.
 
-###### Art. 21.º São criadas as carreiras de analista, programador, operador, operador de registo de dados e controlador de trabalhos, que se regem pelo estabelecido no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+Art. 21.º São criadas as carreiras de analista, programador, operador, operador de registo de dados e controlador de trabalhos, que se regem pelo estabelecido no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
 
-###### Art. 22.º - 1 - É criada a carreira de desenhador, que se desenvolve pelas categorias de principal, de 1.ª classe e de 2.ª classe.
+Art. 22.º - 1 - É criada a carreira de desenhador, que se desenvolve pelas categorias de principal, de 1.ª classe e de 2.ª classe.
 
 2 - Os lugares de desenhador de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário e formação específica para as funções a que se destinam.
 
@@ -364,15 +415,15 @@ b) Indivíduos habilitados com curso superior.
 
 4 - Aplicam-se a esta carreira as normas definidas para a carreira técnico-profissional no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673).
 
-###### Art. 23.º O lugar de tradutor-correspondente-intérprete será provido de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente e domínio escrito e falado de, pelo menos, duas línguas estrangeiras.
+Art. 23.º O lugar de tradutor-correspondente-intérprete será provido de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente e domínio escrito e falado de, pelo menos, duas línguas estrangeiras.
 
-###### Art. 24.º - 1 - É criada a carreira de projeccionista de cinema, que se desenvolve pelas categorias de principal, de 1.ª classe, de 2.ª classe e de 3.ª classe.
+Art. 24.º - 1 - É criada a carreira de projeccionista de cinema, que se desenvolve pelas categorias de principal, de 1.ª classe, de 2.ª classe e de 3.ª classe.
 
 2 - A progressão na carreira é feita após um mínimo de três anos de bom e efectivo serviço em categoria inferior.
 
-###### Art. 25.º Os lugares de carpinteiro, costureira, electricista e guarda-roupa são providos nos termos da lei geral.
+Art. 25.º Os lugares de carpinteiro, costureira, electricista e guarda-roupa são providos nos termos da lei geral.
 
-###### Art. 26.º - 1 - É criada a carreira de operador de reprografia, que se desenvolve pelas categorias de 1.ª classe, de 2.ª classe e de 3.ª classe.
+Art. 26.º - 1 - É criada a carreira de operador de reprografia, que se desenvolve pelas categorias de 1.ª classe, de 2.ª classe e de 3.ª classe.
 
 2 - Os lugares de operador de reprografia de 3.ª classe serão providos de entre indivíduos habilitados com a escolaridade obrigatória.
 
@@ -382,42 +433,42 @@ b) Indivíduos habilitados com curso superior.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 27.º - 1 - Quando a natureza do trabalho o aconselhar, será o horário de trabalho especial fixado nos termos da lei aplicável.
+Art. 27.º - 1 - Quando a natureza do trabalho o aconselhar, será o horário de trabalho especial fixado nos termos da lei aplicável.
 
 2 - No caso de, nos termos do número anterior, ser autorizada a realização de trabalho nocturno, haverá direito à remuneração prevista em legislação geral, mediante verba própria inscrita no orçamento da Direcção-Geral.
 
-###### Art. 28.º - 1 - Os funcionários com atribuições de inspecção devem levantar autos de notícia por todas as infracções às disposições legais relativas a espectáculos e divertimentos públicos e do direito de autor que presenciarem ou de que tiverem conhecimento.
+Art. 28.º - 1 - Os funcionários com atribuições de inspecção devem levantar autos de notícia por todas as infracções às disposições legais relativas a espectáculos e divertimentos públicos e do direito de autor que presenciarem ou de que tiverem conhecimento.
 
 2 - Os funcionários a que se refere o número anterior podem, no exercício das suas funções e por causa delas, solicitar das autoridades administrativas e policiais o auxílio de que necessitem.
 
 3 - Os funcionários com atribuições de inspecção têm direito a uso de porte de arma, nos termos da legislação em vigor.
 
-###### Art. 29.º - 1 - O director-geral, o subdirector-geral e o director de serviços técnicos têm direito a livre acesso aos recintos de espectáculos e divertimentos públicos, bem como os inspectores, subinspectores e técnicos da Divisão de Apoio Técnico, quando se encontrem em serviço.
+Art. 29.º - 1 - O director-geral, o subdirector-geral e o director de serviços técnicos têm direito a livre acesso aos recintos de espectáculos e divertimentos públicos, bem como os inspectores, subinspectores e técnicos da Divisão de Apoio Técnico, quando se encontrem em serviço.
 
 2 - O livre acesso aos recintos de espectáculos e divertimentos públicos referido no número anterior será regulamentado por portaria.
 
-###### Art. 30.º Transitam para a Direcção-Geral dos Espectáculos e do Direito de Autor os Serviços de Depósito Legal até agora integrados na Biblioteca Nacional de Lisboa.
+Art. 30.º Transitam para a Direcção-Geral dos Espectáculos e do Direito de Autor os Serviços de Depósito Legal até agora integrados na Biblioteca Nacional de Lisboa.
 
-###### Art. 31.º O provimento dos lugares de chefe de repartição e de chefe de secção poderá também ser feito de entre pessoal afecto a funções administrativas nos termos seguintes:
+Art. 31.º O provimento dos lugares de chefe de repartição e de chefe de secção poderá também ser feito de entre pessoal afecto a funções administrativas nos termos seguintes:
 
 a) Chefe de repartição - técnico administrativo de 1.ª classe ou de 2.ª classe e inspector-orientador de 1.ª classe;
 
 b) Chefe de secção - adjunto técnico administrativo de 1.ª classe e adjunto técnico de 1.ª classe.
 
-###### Art. 32.º Junto da Direcção-Geral dos Espectáculos e do Direito de Autor funciona a Companhia Nacional de Bailado.
+Art. 32.º Junto da Direcção-Geral dos Espectáculos e do Direito de Autor funciona a Companhia Nacional de Bailado.
 
-###### Art. 33.º As dúvidas suscitadas na execução do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano e dos membros do Governo responsáveis pela área da Cultura e pela função pública, quando estiverem em causa matérias das respectivas competências.
+Art. 33.º As dúvidas suscitadas na execução do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano e dos membros do Governo responsáveis pela área da Cultura e pela função pública, quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 34.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 34.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva.
 
-**Promulgado em 16 de Julho de 1980.**
+Promulgado em 16 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 15.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/17300/18981902.pdf))](https://files.diariodarepublica.pt/1s/1980/07/17300/18981902.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/17300/18981902.pdf)

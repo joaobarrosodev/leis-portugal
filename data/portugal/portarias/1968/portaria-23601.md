@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 213/1968, 2º Suplemento, Série I de 1968-09-09
   number: '213'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1379 - 1434
   pdf_url: https://files.diariodarepublica.pt/1s/1968/09/21302/13791434.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23601-1968-508608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e4c352fc6fbe9a3d799edb9225eef7adcfe6201a40292f0be710e6f59aaecf7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 444c58d6ba69ed547dedf9c3386a03e0cbd6f8b46beae655465fd59589963d91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:239452:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:29Z'
   warnings: []
   errors: []
 ---
@@ -472,7 +476,7 @@ Verbos irregulares mais ocorrentes, sobretudo em vista à grafia de algumas form
 
 5. O período composto. Noção de coordenação e subordinação. Orações coordenadas e subordinadas. A subordinante.
 
-##### Divisão das orações de um período, sem grande preocupação, de início, de as classificar, mas sòmente de as delimitar e de chamar a atenção para as partículas de ligação que forem aparecendo nos períodos observados; pronomes e advérbios relativos; conjunções coordenativas e subordinativas (sem insistência nas concessivas e consecutivas); locuções conjuncionais.
+Divisão das orações de um período, sem grande preocupação, de início, de as classificar, mas sòmente de as delimitar e de chamar a atenção para as partículas de ligação que forem aparecendo nos períodos observados; pronomes e advérbios relativos; conjunções coordenativas e subordinativas (sem insistência nas concessivas e consecutivas); locuções conjuncionais.
 
 2.º ano
 
@@ -1704,7 +1708,7 @@ Processo análogo para deduzir a fórmula da área do círculo.
 
 Densidade populacional de uma dada região.
 
-8. Problema da construção de um quadrado, cuja área seja dada; equações do tipo x2 = a, sendo a um número positivo dado; noção de raiz quadrada; exemplos com quadrados perfeitos. O operador «raiz quadrada de» como inverso do operador «quadrado de» (o quadrado da raiz quadrada de um número é esse número; a raiz quadrada do quadrado de um número é esse número); tradução desse facto, primeiro em fórmulas numéricas, depois em fórmulas com letras: [([ver documento original](https://files.diariodarepublica.pt/1s/1968/09/21302/13791434.pdf))](https://files.diariodarepublica.pt/1s/1968/09/21302/13791434.pdf); [([ver documento original](https://files.diariodarepublica.pt/1s/1968/09/21302/13791434.pdf))](https://files.diariodarepublica.pt/1s/1968/09/21302/13791434.pdf).
+8. Problema da construção de um quadrado, cuja área seja dada; equações do tipo x2 = a, sendo a um número positivo dado; noção de raiz quadrada; exemplos com quadrados perfeitos. O operador «raiz quadrada de» como inverso do operador «quadrado de» (o quadrado da raiz quadrada de um número é esse número; a raiz quadrada do quadrado de um número é esse número); tradução desse facto, primeiro em fórmulas numéricas, depois em fórmulas com letras: [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/09/21302/13791434.pdf); [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/09/21302/13791434.pdf).
 
 Quadrados perfeitos. Uso de tabelas de raízes quadradas para a determinação das raízes quadradas com um certo número de algarismos exactos; referência ao facto de haver processos que permitem calcular a raiz de um número com a aproximação que se queira; nova alusão aos números irracionais.
 
@@ -1732,7 +1736,7 @@ Decomposição de um cubo em seis pirâmides quadrangulares iguais, com o vérti
 
 5. Problemas da construção de um cubo sendo dado o seu volume; equações do tipo x3 = a, sendo a um número positivo dado; noção de raiz cúbica: exemplos com cubos perfeitos. O operador «raiz cúbica de» como inverso do operador «cubo de» e as fórmulas respectivas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/09/21302/13791434.pdf))](https://files.diariodarepublica.pt/1s/1968/09/21302/13791434.pdf), [([ver documento original](https://files.diariodarepublica.pt/1s/1968/09/21302/13791434.pdf))](https://files.diariodarepublica.pt/1s/1968/09/21302/13791434.pdf). Uso de tabelas de raízes cúbicas. Equações do tipo a x x3 = b, sendo a, b números positivos dados.
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/09/21302/13791434.pdf), [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/09/21302/13791434.pdf). Uso de tabelas de raízes cúbicas. Equações do tipo a x x3 = b, sendo a, b números positivos dados.
 
 VI) Medição de pesos e massas
 
@@ -2564,7 +2568,7 @@ Sentido do movimento sonoro na escrita.
 
 Sinais representativos de altura e duração (notas, figuras rítmicas e respectivas pausas. Ponto de aumento; ligadura de valor).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/09/21302/13791434.pdf))](https://files.diariodarepublica.pt/1s/1968/09/21302/13791434.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/09/21302/13791434.pdf)
 
 Fórmulas rítmicas elementares.
 
@@ -2728,7 +2732,7 @@ Pauta simples de cinco linhas
 
 A pauta simples serve a leitura sem clave (relatividade) e a leitura com clave (absoluto). Esta última traz consigo a necessidade de conhecer a função das claves integradas na pauta dupla:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/09/21302/13791434.pdf))](https://files.diariodarepublica.pt/1s/1968/09/21302/13791434.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/09/21302/13791434.pdf)
 
 No entanto, o exercício de leitura nesta pauta não se impõe no ciclo preparatório por falta de tempo para uma prática conveniente. Ler-se-á, portanto, na pauta simples pelos sistemas de relatividade e absoluto - como já acima dissemos.
 

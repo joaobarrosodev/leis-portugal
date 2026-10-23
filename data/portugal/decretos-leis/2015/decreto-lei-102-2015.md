@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/10900/0363203636.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/102/2015/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2015-67409483
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5c783a7264f96becee8be52873620e2011197f51b4950e2f7c387ed857dad60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44eeb9d2e849ce14091e647bbc6bf33d52cea38ede3b9758143643cb16fef934
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Definição de Competências
 - Direção Geral do Património Cultural
-- Integração de Trabalhadores
 - Instituto da Habitação e da Reabilitação Urbana
+- Integração de Trabalhadores
 - Orgânica
+- Reestruturação de Serviços
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:184108564:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:120454103:por
+  label: Determinado o exercício pelo Ministro das Infraestruturas e da Habitação da superintendência e tutela sobre o Instituto
+    da Habitação e da Reabilitação Urbana, I.P., cuja orgânica consta do Dec Lei 175/2012 de 02-ago, com a redação dada pelo
+    presente diploma, pelo(a) Decreto-Lei n.º 31/2019 - Diário da República n.º 43/2019, Série I de 2019-03-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2019-120454103
+  date: '2019-03-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/115/2012/05/25/p/dre
   label: null
@@ -112,16 +119,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
+- type: cites
+  target: pt:dre:174824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638731:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:22Z'
   warnings: []
   errors: []
 ---
@@ -288,7 +327,9 @@ Os artigos 1.º, 3.º, 5.º, 15.º e 23.º do [Decreto-Lei n.º 175/2012](https:
 
 2 - O IHRU, I. P., prossegue as atribuições do Ministério do Ambiente, Ordenamento do Território e Energia, sob superintendência e tutela do respetivo ministro, e sob superintendência e tutela do membro do Governo responsável pela área das finanças em tudo o que respeitar a comparticipações e empréstimos, concessão de garantias e participação em sociedades, fundos de investimentos imobiliário, consórcios, parcerias público-privadas e outras formas de associação.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -346,7 +387,9 @@ y) [...].
 
 z) [Revogada].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O conselho diretivo é composto por um presidente e por dois vogais, nomeados por Resolução do Conselho de Ministros, devendo o perfil, experiência profissional e competências de gestão de um dos vogais ser obrigatoriamente na área financeira.
 
@@ -372,7 +415,9 @@ g) [...].
 
 5 - [...].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Cabe ao ministro da tutela e ao membro do Governo responsável pela área das finanças, para além dos poderes de superintendência e tutela cometidos por lei, fixar o limite de competência do conselho diretivo para a realização de operações financeiras e autorizar a realização das mesmas acima dos limites fixados.
 
@@ -388,7 +433,9 @@ d) Assumir compromissos plurianuais que não envolvam apenas receitas próprias 
 
 3 - Cabe ao membro do Governo responsável pela área das finanças emitir diretivas e instruções genéricas de natureza financeira ao conselho diretivo.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - O IHRU, I. P., mantém as atribuições e competências inerentes à sucessão operada pelo artigo 21.º do [Decreto-Lei n.º 223/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-2007-638731), de 30 de maio, designadamente quanto ao património imobiliário de que é atualmente o proprietário e quanto às posições contratuais em contratos e acordos já celebrados em 1 de junho de 2007 pelo Instituto Nacional de Habitação (INH), pelo Instituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE) e pela Direção-Geral dos Edifícios e Monumentos Nacionais (DGEMN), neste caso, com exceção do património classificado e do Sistema de Informação do Património (SIPA).
 
@@ -464,15 +511,15 @@ O presente diploma entra em vigor no 1.º dia útil do mês seguinte ao da sua p
 
 Visto e aprovado em Conselho de Ministros de 30 de abril de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 3 de junho de 2015.**
+Promulgado em 3 de junho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de junho de 2015.**
+Referendado em 4 de junho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 

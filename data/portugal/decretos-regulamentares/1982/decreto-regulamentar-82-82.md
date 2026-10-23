@@ -47,40 +47,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/82-1982-378319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T06:06:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5878b66d1e03bb9eeb8a4c5f5a2a07395724a57bcb691806914404bc92503838
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c584e611afef250af2cf21f0871b2d91b47f77dd2fa5a68675b17d96987a7227
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:06:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Direcção Geral do Emprego e Formação da Administração Pública
+- Formação Profissional
+- Ministério da Reforma Administrativa
+- Orgânica
+- Política de Emprego
 relationships:
 - type: amended_by
   target: pt:dre:221119:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:152332:por
+  label: "Aumentado lugares ao quadro de pessoal a que se refere o nº. 1 do art. 44º pela PORT.248/85.03.05.1985.PCM, DR.IS\
+    \ [101] de 03.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/248-1985-152332
+  date: '1985-05-03'
+- type: amended_by
+  target: pt:dre:182047:por
+  label: "Alterado o art. 37º, pelo DR.38/85.1985.06.28.PCM, DR.IS [146]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/38-1985-182047
+  date: '1985-06-28'
+- type: amended_by
+  target: pt:dre:221119:por
+  label: "Alargado o quadro de pessoal constante, e alterado pelo DR 38/85, de 28-Jun, pela PORT.671/86.10.11.1986.MF, DR.IS\
+    \ [259] de 10.11.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/671-1986-221119
+  date: '1986-11-10'
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
 article_structure:
   article_count: 51
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:06:27Z'
   warnings: []
   errors: []
 ---
@@ -789,26 +840,26 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Diogo Pinto de Freitas do Amaral - Alípio Barrosa Pereira Dias - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 20 de Outubro de 1982.**
+Promulgado em 20 de Outubro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 QUADRO I
 
 Pessoal a que se refere o n.º 1 do artigo 44.º do presente decreto regulamentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36663678.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36663678.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36663678.pdf)
 
 Quadro II
 
 Pessoal a que se refere o n.º 2 do artigo 44.º do presente decreto regulamentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36663678.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36663678.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36663678.pdf)
 
 Quadro III
 
 Lugares a que se refere o n.º 3 do artigo 44.º do presente decreto regulamentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36663678.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36663678.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36663678.pdf)

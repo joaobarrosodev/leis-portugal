@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/06700/0000300009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/62/2025/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2025-913816379
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c993db46099f00f5aa93bedbed4d561640760b3e6405aa8edcd764ba01040d8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36d1641fa7840aa64667cbbfd4c6b6a71b76a01f7f7a126ec9692bc2629f42f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Arquivo Nacional do Som
 - Direção Geral do Livro dos Arquivos e das Bibliotecas
-- Património Cultural
+- Museus e Monumentos de Portugal
 - Orgânica
+- Património Cultural
 - Património Histórico
 - Património Nacional
-- Arquivo Nacional do Som
-- Museus e Monumentos de Portugal
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:103/2012
+  label: Altera, a partir de 1 de maio de 2025, com efeitos nos termos do artigo 6.º, os artigos 1.º, 2.º, 6.º e 9.º e os
+    anexos i e ii do Decreto-Lei n.º 103/2012, de 16 de maio, Diário da República n.º 95/2012, Série I
+  source: null
+  date: '2012-05-16'
+- type: amends
+  target: pt:numero:decreto-lei:79/2023
+  label: Altera, a partir de 1 maio de 2025, o anexo i do Decreto-Lei n.º 79/2023, de 4 de setembro, Diário da República n.º
+    171/2023, Série I
+  source: null
+  date: '2023-09-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/de
   label: null
@@ -114,16 +126,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:119674803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221225700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69920316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:839477381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898201693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901403812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901403813:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:43Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +210,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 O presente decreto-lei procede à:
 
-a) Terceira alteração ao [Decreto-Lei n.º 103/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2012-552048), de 16 de maio, alterado pelos Decretos-Leis n.<sup>os</sup>[141/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2015-69920316), de 31 de julho, e [96/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2024-898201693), de 28 de novembro, que aprova a orgânica da Direção-Geral do Livro, dos Arquivos e das Bibliotecas (DGLAB);
+a) Terceira alteração ao [Decreto-Lei n.º 103/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2012-552048), de 16 de maio, alterado pelos Decretos-Leis n.os[141/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2015-69920316), de 31 de julho, e [96/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2024-898201693), de 28 de novembro, que aprova a orgânica da Direção-Geral do Livro, dos Arquivos e das Bibliotecas (DGLAB);
 
 b) Segunda alteração ao [Decreto-Lei n.º 79/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2023-221225700), de 4 de setembro, alterado pelo [Decreto-Lei n.º 17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, que procede à criação da Museus e Monumentos de Portugal, E. P. E.
 
@@ -172,7 +228,9 @@ Os artigos 1.º, 2.º, 6.º e 9.º do [Decreto-Lei n.º 103/2012](https://diario
 
 3 - Os serviços dependentes previstos nas alíneas r) e s) do anexo i do presente decreto-lei podem ser unidades orgânicas territorialmente deslocalizadas.
 
-###### Artigo 2.º — […]
+Artigo 2.º
+
+[…]
 
 1 - […]
 
@@ -246,7 +304,9 @@ g) Efetuar a gestão da biblioteca da Secretaria-Geral do Governo e das entidade
 
 6 - […]
 
-###### Artigo 6.º — […]
+Artigo 6.º
+
+[…]
 
 1 - […]
 
@@ -282,7 +342,9 @@ l) […]
 
 5 - […]
 
-###### Artigo 9.º — […]
+Artigo 9.º
+
+[…]
 
 No exercício das suas funções, os dirigentes e os trabalhadores da DGLAB gozam dos poderes de autoridade do Estado constantes das disposições da lei de bases da política e do regime de proteção e valorização do património cultural e demais legislação regulamentar, nomeadamente no que respeita ao património arquivístico, fotográfico e fonográfico, quando em serviço e sempre que tal se demonstre necessário à aplicação dos respetivos regimes jurídicos.»
 
@@ -324,15 +386,15 @@ O presente decreto-lei entra em vigor no dia 1 de maio de 2025.
 
 Visto e aprovado em Conselho de Ministros de 7 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Dalila Rodrigues.
 
-**Promulgado em 28 de março de 2025.**
+Promulgado em 28 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 31 de março de 2025.**
+Referendado em 31 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 3.º)
 
@@ -384,10 +446,10 @@ s) O Arquivo Geral da Administração Central.»
 
 […]
 
-| Designação dos cargos dirigentes | Qualificação dos cargos dirigentes | Grau | Número de lugares | Número de lugares |
+| Designação dos cargos dirigentes | Qualificação dos cargos dirigentes | Grau | Número de lugares |  |
 | --- | --- | --- | --- | --- |
-| Diretor-geral | Direção superior | 1.º | 1 | 1 |
-| Subdiretor-geral | Direção superior | 2.º | 3 | 3 |
+| Diretor-geral | Direção superior | 1.º | 1 |  |
+| Subdiretor-geral | Direção superior | 2.º | 3 |  |
 | Diretor de serviços | Direção intermédia | 1.º | 10 | » |
 
 ## ANEXO III — (a que se refere o artigo 4.º)
@@ -396,7 +458,7 @@ s) O Arquivo Geral da Administração Central.»
 
 […]
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - […]
 
@@ -439,3 +501,7 @@ r) […]
 s) Efetuar a gestão e disponibilizar o acervo de objetos relativos a factos históricos da Secretaria-Geral do Governo.
 
 2 - […]»
+
+118897004
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl13 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl14 { text-align:right; }

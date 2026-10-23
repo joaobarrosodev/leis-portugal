@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/06/128a00/34163416.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/127/2004/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2004-261503
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f686fe37772e339ff132406e1dab5f5a30ed5cefbb89a6c2422d98bc8f82b97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72e930cc1865bab34a8e8dad93a91880907f52d4b3377f4499d06b9e2bdf2613
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -87,16 +87,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/86/1998/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/86/1998/04/03/p/dre
+- type: repealed_by
+  target: pt:dre:571931:por
+  label: Revogado a partir de 16.06.2014 o Dec Lei 86/98, de 03-abr, na redação do presente diploma, pela LEI.14/2014.18.03.2014.AR,
+    DR.IS [54] de 18.03.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-2014-571931
+  date: '2014-03-18'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:27Z'
   warnings: []
   errors: []
 ---
@@ -135,12 +141,12 @@ Aos nacionais dos Estados membros da União Europeia e aos dos Estados signatár
 
 Visto e aprovado em Conselho de Ministros de 15 de Abril de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Luís Filipe Pereira - António José de Castro Bagão Félix.
 
-**Promulgado em 19 de Maio de 2004.**
+Promulgado em 19 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Maio de 2004.**
+Referendado em 21 de Maio de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

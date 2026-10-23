@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11
   number: '236'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6584-(2) a 6584-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/23601/0000200012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/152-a/2017/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc309b56d5808fdd21ba51d8bdfe35cff1ea27b1b85290670376108cd2089d4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a55a39c90e47689feea73dc880586a86edd36f75c3617d30e233b033ef3eb19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Modernização Administrativa
-- Livrete de Veículo Automóvel
-- Multa
+- Base de Dados
+- Conselho Diretivo
 - Contra-ordenação
 - Definição de Competências
 - Dispositivo Electrónico de Matrícula
 - Documentação
-- Registo Automóvel
+- Documento Eletrónico
+- Documento Único Automóvel
+- Documentos do Veículo
+- Equipamento de Veículo
 - Fiscalização
 - Homologação
-- Conselho Diretivo
-- Base de Dados
 - Instituto da Mobilidade e dos Transportes
-- Veículo
-- Documentos do Veículo
-- Documento Eletrónico
-- Equipamento de Veículo
-- Presidente
-- Documento Único Automóvel
-- Regulamento
+- Livrete de Veículo Automóvel
 - Matrícula
-- Regulamento de Atribuição de Matrícula a Automóveis Seus Reboques e Motociclos Ciclomotores Triciclos e Quadriciclos
 - Matrícula na Hora
+- Modernização Administrativa
+- Multa
+- Presidente
+- Registo Automóvel
+- Regulamento
+- Regulamento de Atribuição de Matrícula a Automóveis Seus Reboques e Motociclos Ciclomotores Triciclos e Quadriciclos
+- Veículo
 relationships:
 - type: cites
   target: celex:31999L0037
@@ -139,6 +139,82 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/22-a/2007/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/22-a/2007/06/29/p/dre
+- type: cites
+  target: pt:dre:191561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58228086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67250267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70300348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75784268:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31999L0037
   label: null
@@ -148,15 +224,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 68
+  article_count: 47
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:06Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +273,9 @@ Os artigos 1.º, 2.º, 4.º, 8.º, 9.º, 12.º, 13.º, 16.º, 19.º, 20.º, 21.�
 
 O presente decreto-lei aprova o Regulamento de Atribuição de Matrícula a Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos e Quadriciclos e Tratores Agrícolas ou Florestais e Seus Reboques, bem como, a suspensão da autorização de circulação na via pública.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Para efeitos do disposto no presente decreto-lei, entende-se por:
 
@@ -219,13 +297,17 @@ h) 'Suspensão', um período limitado durante o qual a circulação rodoviária 
 
 i) 'Titular do certificado de matrícula', a pessoa em nome da qual o veículo se encontra matriculado.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A matrícula dos automóveis e seus reboques, motociclos, ciclomotores, triciclos e quadriciclos e tratores agrícolas ou florestais e seus reboques é requerida nos serviços regionais do IMT, I. P., preferencialmente por via eletrónica.
 
 2 - Os procedimentos para requerimento de matrícula por via eletrónica são definidos por deliberação do conselho diretivo do IMT, I. P.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A atribuição de matrícula para veículos correspondentes a modelo com homologação europeia, a requerimento dos fabricantes, fica condicionada à posse do certificado de conformidade válido.
 
@@ -237,11 +319,15 @@ i) 'Titular do certificado de matrícula', a pessoa em nome da qual o veículo s
 
 5 - [...].
 
-###### Artigo 9.º — Veículos com homologação nacional
+Artigo 9.º
+
+Veículos com homologação nacional
 
 A atribuição de matrícula para veículos correspondentes a modelo com homologação nacional, a requerimento dos fabricantes, fica condicionada à apresentação de declaração de conformidade do veículo com o modelo homologado.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]:
 
@@ -253,7 +339,9 @@ b) Comprovativo do pagamento, garantia ou isenção do imposto sobre veículos, 
 
 3 - O certificado de conformidade deve ser conservado nos termos e para os efeitos consagrados no n.º 5 do artigo 8.º
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]:
 
@@ -267,7 +355,9 @@ b) Comprovativo do pagamento, garantia ou isenção do imposto sobre veículos, 
 
 4 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 [...]:
 
@@ -279,7 +369,9 @@ c) [...];
 
 d) Comprovativo da regularização da situação do veículo no que se refere aos impostos devidos.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -287,7 +379,9 @@ d) Comprovativo da regularização da situação do veículo no que se refere ao
 
 3 - [...].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Para efeitos de atribuição de matrícula nacional a veículos matriculados noutro Estado-Membro da União Europeia, com homologação CE, devem ser apresentados os seguintes elementos:
 
@@ -305,7 +399,9 @@ e) Certificação de inspeção do veículo para efeitos de matrícula, efetuada
 
 3 - É dispensada a apresentação dos elementos referidos na alínea d) do n.º 1, sempre que do certificado de matrícula do veículo constar o respetivo número de homologação e extensão europeia, a variante e versão, bem como o valor das emissões de CO(índice 2).
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 [...]:
 
@@ -315,7 +411,9 @@ b) Certificação efetuada pelo fabricante ou associação que o represente, com
 
 c) Certificação de inspeção do veículo para efeitos de matrícula, efetuada nos termos do regime jurídico das inspeções técnicas de veículos, ou relatório de ensaio emitido pela Direção-Geral de Agricultura e Desenvolvimento Rural, no caso dos tratores agrícolas ou florestais.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 [...]:
 
@@ -327,13 +425,17 @@ c) [...];
 
 d) Certificação de inspeção do veículo para efeitos de matrícula, efetuada nos termos do regime jurídico das inspeções técnicas de veículos, ou relatório de ensaio emitido pela Direção-Geral de Agricultura e Desenvolvimento Rural no caso dos tratores agrícolas ou florestais.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - A verificação das características técnicas dos veículos a que se refere o n.º 1 do artigo 18.º, a alínea d) do n.º 1 do artigo 20.º, a alínea c) do artigo 21.º e a alínea d) do artigo 22.º efetua-se nos termos do estabelecido no regime jurídico das inspeções técnicas de veículos, exceto para o ensaio dos tratores agrícolas e florestais.
 
 2 - O ensaio dos tratores agrícolas e florestais relativamente à sua aptidão funcional e condições de segurança para a circulação rodoviária é efetuada pela Direção-Geral de Agricultura e Desenvolvimento Rural, previamente à apresentação do pedido de atribuição de matrícula pelo IMT, I. P.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Para efeitos do disposto no n.º 7 do artigo 117.º do Código da Estrada, o IMT, I. P., mantém um registo nacional de matrículas, designado por Sistema de Informação de Veículos e Homologações (SIVH), onde constam as características e dados necessários à emissão do documento de identificação do veículo.
 
@@ -347,13 +449,17 @@ d) Certificação de inspeção do veículo para efeitos de matrícula, efetuada
 
 6 - Os dados respeitantes a todos os veículos matriculados devem compreender, com exceção dos dados pessoais, os dados constantes dos pontos 2.4 e 2.5 do anexo ao [Decreto-Lei n.º 178-A/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-a-2005-404371), de 28 de outubro, alterado pelos [Decretos-Leis n.os 85/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2006-633290), de 23 de maio, [20/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2008-248220), de 31 de janeiro, e [201/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2015-70300348), de 17 de setembro.
 
-###### Artigo 30.º — Responsável pelo Sistema de Informação de Veículos e Homologações
+Artigo 30.º
+
+Responsável pelo Sistema de Informação de Veículos e Homologações
 
 1 - É responsável pela base de dados referida no artigo anterior, nos termos e para os efeitos do disposto na alínea d) do artigo 3.º da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de outubro, o IMT, I. P.
 
 2 - [...].
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...].
 
@@ -365,13 +471,17 @@ d) Certificação de inspeção do veículo para efeitos de matrícula, efetuada
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Constitui contraordenação o incumprimento do prazo para o pedido de matrícula a que se refere o artigo 26.º, o qual é punível com coima de (euro) 50 a (euro) 250.
 
 2 - A aplicação da coima é da competência do conselho diretivo do IMT, I. P.
 
-###### Artigo 33.º — Substituição de livretes atribuídos pelas câmaras municipais
+Artigo 33.º
+
+Substituição de livretes atribuídos pelas câmaras municipais
 
 1 - Os veículos que ainda possuam matrícula atribuída pelas câmaras municipais só podem circular na via pública desde que as respetivas matrículas sejam canceladas e substituídas pelas previstas no presente decreto-lei.
 
@@ -401,7 +511,9 @@ Matrícula na hora
 
 3 - Por portaria dos membros do Governo responsáveis pelas áreas das finanças, da justiça e dos transportes são definidos os procedimentos do ato de atribuição de matrícula na hora.
 
-###### Artigo 26.º-A — Suspensão
+Artigo 26.º-A
+
+Suspensão
 
 1 - No caso do IMT, I. P., receber uma notificação de que a inspeção técnica periódica de um veículo revelou que a autorização de circulação rodoviária desse veículo foi suspensa no cumprimento do regime legal das inspeções técnicas de veículos, a suspensão deve ser registada eletronicamente, e o veículo deve ser submetido a nova inspeção.
 
@@ -411,15 +523,21 @@ Matrícula na hora
 
 4 - As disposições previstas no Código da Estrada aplicáveis à circulação de veículos com a matrícula cancelada aplicam-se com as devidas adaptações, à circulação de veículos objeto de suspensão.
 
-###### Artigo 26.º-B — Reconhecimento da validade do certificado de inspeção técnica
+Artigo 26.º-B
+
+Reconhecimento da validade do certificado de inspeção técnica
 
 Sem prejuízo das disposições específicas do regime legal das inspeções periódicas, o IMT, I. P., reconhece a validade do certificado de inspeção técnica no caso de mudança da propriedade de um veículo que disponha de um comprovativo válido de inspeção técnica periódica.
 
-###### Artigo 31.º-A — Fiscalização
+Artigo 31.º-A
+
+Fiscalização
 
 A fiscalização do cumprimento das disposições do presente decreto-lei é efetuada pelo IMT, I. P., e pelas entidades referidas no artigo 5.º do [Decreto-Lei n.º 44/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2005-608743), de 23 de fevereiro, alterado pelo [Decreto-Lei n.º 74-A/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2005-659728), de 24 de março, pela [Lei n.º 72/2013](https://diariodarepublica.pt/dr/detalhe/lei/72-2013-499526), de 3 de setembro, e pelo [Decreto-Lei n.º 146/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2014-58228086), de 9 de outubro, no âmbito das suas competências.
 
-###### Artigo 31.º-B — Produto das coimas
+Artigo 31.º-B
+
+Produto das coimas
 
 O produto das coimas é distribuído da seguinte forma:
 
@@ -451,15 +569,15 @@ São revogados o artigo 7.º, o n.º 3 do artigo 8.º e o n.º 6 do artigo 33.º
 
 Visto e aprovado em Conselho de Ministros de 9 de novembro de 2017. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Maria Manuel de Lemos Leitão Marques - Mário José Gomes de Freitas Centeno - Eduardo Arménio do Nascimento Cabrita - Pedro Manuel Dias de Jesus Marques.
 
-**Promulgado em 6 de dezembro de 2017.**
+Promulgado em 6 de dezembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de dezembro de 2017.**
+Referendado em 7 de dezembro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -1092,3 +1210,5 @@ Nas Regiões Autónomas dos Açores e da Madeira, as competências cometidas ao 
 ###### Artigo 35.º — Norma revogatória
 
 São revogados os n.os 1 e 3 do artigo 34.º do Regulamento do Código da Estrada, aprovado pelo Decreto n.º 39987, de 22 de dezembro de 1954, na redação conferida pelo Decreto n.º 47165, de 25 de agosto de 1966, e a [Portaria n.º 52/94](https://diariodarepublica.pt/dr/detalhe/portaria/52-1994-512391), de 21 de junho.
+
+110983117

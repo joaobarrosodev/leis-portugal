@@ -23,12 +23,12 @@ publication:
   reference: Diário da República n.º 90/2013, 2º Suplemento, Série I de 2013-05-10
   number: '90'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2818-(62) a 2818-(66)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/05/09002/0006200066.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/63-b/2013/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-b-2013-475886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61872ff176858f09933467204734f829d25c3623d974278ccd1c078a44e6171d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f864d2fd776ba14324be00be51d19d4d6ff964779117c862169de57500871d56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,21 +69,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
 - Aproximação das Legislações
+- Arroz
 - Cereal
 - Oleaginosas
-- Arroz
+- Produção Vegetal
+- Produto Agrícola
 - Produto Hortícola
 - Produtor
-- Agricultor
-- Produção Vegetal
 - Semente
-- Produto Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:106825053:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:572154:por
+  label: "Dada nova redação ao anexo II do Dec Lei 88/2010 de 20-jul, alterado pelo presente diploma, pelo DEC LEI.34/2014.05.03.2014.MAGM,\
+    \ DR.IS [45] de 05.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2014-572154
+  date: '2014-03-05'
 - type: cites
   target: celex:31966L0401
   label: null
@@ -116,16 +122,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/88/2010/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/2010/07/20/p/dre
+- type: repealed_by
+  target: pt:dre:106825053:por
+  label: Revogado o presente diploma, pelo(a) Decreto-Lei n.º 42/2017 - Diário da República n.º 69/2017, Série I de 2017-04-06,
+    sem prejuízo do previsto no seu art.º 59.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-2017-106825053
+  date: '2017-04-06'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:36Z'
   warnings: []
   errors: []
 ---
@@ -162,15 +174,15 @@ Os anexos I e II ao Decreto-Lei n.º 88/2010, de 20 de julho, alterado pelo Decr
 
 Visto e aprovado em Conselho de Ministros de 17 de abril de 2013. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 9 de maio de 2013.**
+Promulgado em 9 de maio de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de maio de 2013.**
+Referendado em 10 de maio de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -178,7 +190,9 @@ Visto e aprovado em Conselho de Ministros de 17 de abril de 2013. - Pedro Passos
 
 [...]
 
-# PARTE A — [...]
+PARTE A
+
+[...]
 
 1 - [...]
 
@@ -190,7 +204,9 @@ Visto e aprovado em Conselho de Ministros de 17 de abril de 2013. - Pedro Passos
 
 3.2 - [...]
 
-# PARTE B — [...]
+PARTE B
+
+[...]
 
 1 - [...]
 
@@ -250,7 +266,9 @@ Visto e aprovado em Conselho de Ministros de 17 de abril de 2013. - Pedro Passos
 
 9.3 - [...]
 
-# PARTE C — [...]
+PARTE C
+
+[...]
 
 1 - [...]
 
@@ -274,15 +292,19 @@ QUADRO IV
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/09002/0006200066.pdf))](https://files.diariodarepublica.pt/1s/2013/05/09002/0006200066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/09002/0006200066.pdf)
 
 [...]
 
 6 - [...]
 
-## Anexo II — [...]
+Anexo II
 
-# PARTE A — [...]
+[...]
+
+PARTE A
+
+[...]
 
 1 - [...]
 
@@ -294,7 +316,9 @@ QUADRO IV
 
 3 - [...]
 
-# PARTE B — [...]
+PARTE B
+
+[...]
 
 1 - [...]
 
@@ -338,7 +362,9 @@ QUADRO IV
 
 10.2 - [Anterior n.º 11.2.]
 
-# PARTE C — [...]
+PARTE C
+
+[...]
 
 1 - [...]
 
@@ -350,7 +376,7 @@ QUADRO I
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/09002/0006200066.pdf))](https://files.diariodarepublica.pt/1s/2013/05/09002/0006200066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/09002/0006200066.pdf)
 
 QUADRO II
 
@@ -368,11 +394,13 @@ QUADRO III
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/09002/0006200066.pdf))](https://files.diariodarepublica.pt/1s/2013/05/09002/0006200066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/09002/0006200066.pdf)
 
 [...]
 
-# PARTE D — [...]
+PARTE D
+
+[...]
 
 1 - [...]
 
@@ -386,7 +414,9 @@ QUADRO III
 
 6 - [...]
 
-# PARTE E — [...]
+PARTE E
+
+[...]
 
 1 - [...]
 

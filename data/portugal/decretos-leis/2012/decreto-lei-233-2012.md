@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/233/2012/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2012-192592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a0731a976af6df06bfe13807a1cade44078fe1985e69c3e510a1f7014b0ccba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e85a29600e0e5b513d5d41e56266ebef46d04d597ebdd179363728a8baaad6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bolsa de Estudos
 - Bolsa de Formação
 - Bolseiro
-- Fundação para a Ciência e a Tecnologia
 - Definição de Competências
 - Estatuto
-- Bolsa de Estudos
+- Fundação para a Ciência e a Tecnologia
 - Subsídio
 relationships:
 - type: cites
@@ -82,16 +82,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/40/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/40/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:174557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480705:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:23Z'
   warnings: []
   errors: []
 ---
@@ -124,12 +132,12 @@ O disposto no presente diploma reporta os seus efeitos à data da publicação d
 
 Visto e aprovado em Conselho de Ministros de 13 de setembro de 2012. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 23 de outubro de 2012.**
+Promulgado em 23 de outubro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de outubro de 2012.**
+Referendado em 25 de outubro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

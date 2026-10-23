@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/15/2011/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2011-280947
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d36e50a9089fdf4af5065f012ef39a66e9b263d75d63f39f2c6bf747fcd1168
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f62ca3e3a1d19221b7fe6f75b5462d00397db08e0163934396e4c8f724e01e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,13 @@ relationships:
   target: pt:dre:225397115:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70297420:por
+  label: Alterados os arts 4.º, 5.º, 25.º, 27.º e 40.º-A do Estatuto do Notariado aprovado pelo Dec Lei 26/2004 de 04-fev,
+    na redação do presente diploma, pelo(a) Lei n.º 155/2015 - Diário da República n.º 180/2015, Série I de 2015-09-15 nos
+    termos dos arts. 6.º e 9.º desta, que também republica o referido Estatuto
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/155-2015-70297420
+  date: '2015-09-15'
 - type: cites
   target: celex:31989L0048
   label: null
@@ -91,16 +98,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/45/2010/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/45/2010/09/03/p/dre
+- type: repealed_by
+  target: pt:dre:70297420:por
+  label: Revogado, a partir de 15.10.2015, o Dec Lei 27/2004 de 04-fev, na redação do presente diploma, pelo(a) Lei n.º 155/2015
+    - Diário da República n.º 180/2015, Série I de 2015-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/155-2015-70297420
+  date: '2015-09-15'
 article_structure:
-  article_count: 26
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:49Z'
   warnings: []
   errors: []
 ---
@@ -193,7 +206,9 @@ s) Exercer as demais funções que resultam das disposições do presente Estatu
 
 4 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -201,7 +216,9 @@ s) Exercer as demais funções que resultam das disposições do presente Estatu
 
 3 - Os notários podem associar-se em sociedades de notários, nos termos a definir por diploma próprio.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O notário pode, sob sua responsabilidade, autorizar trabalhadores com formação adequada a praticar determinados actos ou certas categorias de actos, sendo as respectivas condições mínimas definidas por portaria do membro do Governo responsável pela área da justiça, ouvida a Ordem dos Notários.
 
@@ -211,7 +228,9 @@ s) Exercer as demais funções que resultam das disposições do presente Estatu
 
 4 - O registo referido no número anterior constitui requisito de validade da intervenção do colaborador e do documento em causa, devendo ser publicitado no sítio da Ordem dos Notários, com acesso livre.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 Para adquirir a qualidade de notário em Portugal, são requisitos indispensáveis os seguintes:
 
@@ -227,11 +246,15 @@ e) Ter frequentado o estágio notarial;
 
 f) Ter obtido aprovação em concurso promovido nos termos dos artigos 31.º e 32.º do presente Estatuto.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 Quem possuir os requisitos previstos nas alíneas a) a d) do artigo anterior pode requerer à Ordem dos Notários a inscrição no estágio notarial.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - O estágio tem a duração de 18 meses e é realizado sob a orientação de notário com, pelo menos, cinco anos de exercício de funções notariais, livremente escolhido pelo estagiário ou designado pela Ordem dos Notários.
 
@@ -239,7 +262,9 @@ Quem possuir os requisitos previstos nas alíneas a) a d) do artigo anterior pod
 
 3 - ...
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 Os notários que tenham cessado a actividade por incapacidade, nos termos do artigo anterior, e que façam prova de que não subsistem os motivos que determinaram o seu afastamento podem requerer de novo licença de cartório notarial, de acordo com o disposto nos artigos 34.º e 35.º do presente Estatuto.»
 
@@ -261,7 +286,9 @@ c) Os nacionais de Estados membros da União Europeia legalmente habilitados a e
 
 2 - O Conselho do Notariado é a autoridade competente para atribuir e reconhecer a qualidade de notário em Portugal.
 
-###### Artigo 40.º-A — Liberdade de estabelecimento em Portugal
+Artigo 40.º-A
+
+Liberdade de estabelecimento em Portugal
 
 1 - Pode estabelecer-se em Portugal para o exercício de actividade de notário, em plena igualdade de direitos e deveres com os notários portugueses, o profissional que possua um título de formação exigido noutro Estado membro da União Europeia para nele exercer essa actividade.
 
@@ -275,7 +302,9 @@ b) Comprovar o nível de qualificação profissional no mínimo equivalente a um
 
 4 - Os profissionais mencionados nos números anteriores ficam sujeitos à obtenção de aprovação no concurso referido na alínea f) do artigo 25.º, bem como à prévia inscrição na Ordem dos Notários.
 
-###### Artigo 40.º-B — Liberdade de prestação de serviços
+Artigo 40.º-B
+
+Liberdade de prestação de serviços
 
 1 - São aplicáveis os artigos 3.º a 5.º e 7.º da Lei n.º 9/2009, de 4 de Março, à actuação em Portugal de notário que se encontre estabelecido noutro Estado membro da União Europeia, ao abrigo do princípio da livre prestação de serviços.
 
@@ -283,7 +312,9 @@ b) Comprovar o nível de qualificação profissional no mínimo equivalente a um
 
 3 - Na prestação de serviços de notariado em Portugal os notários estabelecidos noutros Estados membros da União Europeia estão sujeitos às regras profissionais e deontológicas aplicáveis aos notários portugueses, sem prejuízo das regras do Estado de origem a que devam continuar a sujeitar-se, nos termos do artigo 40.º-D do presente Estatuto.
 
-###### Artigo 40.º-C — Uso de título profissional
+Artigo 40.º-C
+
+Uso de título profissional
 
 1 - O profissional cujas qualificações sejam reconhecidas nos termos do artigo 40.º-A deve usar o título profissional de «notário», nos termos e para os efeitos do disposto no artigo 33.º do presente Estatuto.
 
@@ -293,7 +324,9 @@ b) Comprovar o nível de qualificação profissional no mínimo equivalente a um
 
 4 - No caso previsto no número anterior e sempre que o título de notário não exista no país de estabelecimento, o prestador deve usar o seu título de formação numa das línguas oficiais desse país.
 
-###### Artigo 40.º-D — Responsabilidade disciplinar
+Artigo 40.º-D
+
+Responsabilidade disciplinar
 
 1 - Os notários estabelecidos noutros Estados membros da União Europeia e que prestem serviços em Portugal com o título profissional de origem estão sujeitos às sanções disciplinares previstas para os notários estabelecidos em Portugal, devendo o respectivo processo disciplinar ser instruído em colaboração com a organização profissional equivalente do Estado de origem, a qual é informada da sanção aplicada.
 
@@ -359,11 +392,15 @@ s) Exercer as demais funções que resultam das disposições deste Estatuto ou 
 
 2 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Os titulares dos órgãos da Ordem dos Notários e da mesa da assembleia geral são eleitos durante o mês de Novembro do ano respectivo, por um período de três anos, podendo ser reeleitos.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - A eleição para os órgãos da Ordem dos Notários depende de apresentação de proposta de candidatura 30 dias antes do acto eleitoral ao presidente da assembleia geral, nos termos de regulamento aprovado para o efeito.
 
@@ -371,7 +408,9 @@ Os titulares dos órgãos da Ordem dos Notários e da mesa da assembleia geral s
 
 3 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -391,7 +430,9 @@ e) Dar posse aos novos órgãos nos termos previstos no artigo 17.º
 
 4 - ...
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - O notário pode divulgar a sua actividade profissional de forma objectiva, verdadeira e digna, no rigoroso respeito dos deveres deontológicos, do segredo profissional e das normas legais sobre publicidade e concorrência.
 
@@ -437,33 +478,45 @@ i) A inclusão de fotografia, ilustrações e logótipos adoptados.
 
 4 - As disposições constantes dos números anteriores são aplicáveis ao exercício de notariado quer a título individual quer às sociedades de notários.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - O notário, ou a sociedade de notários, caso o notário opte por esta forma de gestão do seu cartório notarial, contribui obrigatoriamente para o Fundo de Compensação com uma comparticipação ordinária equivalente a 1 % dos honorários cobrados.
 
 2 - O notário, ou a sociedade de notários, contribui ainda obrigatoriamente para o Fundo de Compensação com uma comparticipação extraordinária, tendo por base uma percentagem sobre os honorários cobrados, fixada anualmente pela assembleia geral, sob proposta da direcção.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 Os notários, ou as sociedades de notários, devem comunicar ao conselho fiscalizador, disciplinar e deontológico, até ao dia 10 de cada mês, o montante de honorários cobrados no mês anterior.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 Consideram-se deficitários os cartórios notariais, ou as sociedades de notários, que, no decurso de um trimestre, não atinjam de honorários cobrados o valor fixado anualmente pela assembleia geral, sob proposta da direcção.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - Os notários de cartórios deficitários ou as sociedades de notários deficitárias têm direito a uma prestação de reequilíbrio, entregue mensalmente nos termos do contrato de gestão celebrado entre a Ordem dos Notários e a instituição financeira gestora.
 
 2 - O montante da prestação de reequilíbrio é calculada em função do montante dos honorários, apurados trimestralmente, cobrados pelo notário titular do cartório deficitário, ou pela sociedade de notários deficitária.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - O conselho fiscalizador, disciplinar e deontológico deve promover acções de avaliação dos cartórios deficitários e das sociedades de notários deficitárias com o objectivo de apurar se o notário ou os sócios da sociedade de notários colocam no exercício da actividade o empenho e a diligência exigíveis.
 
 2 - ...
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 Sempre que um cartório notarial, ou uma sociedade de notários, sofra prejuízo grave causado por catástrofe natural, acidente ou acto criminoso, a direcção da Ordem dos Notários pode determinar a entrega ao notário, ou à sociedade de notários, de uma prestação extraordinária de reequilíbrio de montante adequado.»
 
@@ -473,12 +526,12 @@ As referências a nacionais, notários e profissionais de Estados membros da Uni
 
 Visto e aprovado em Conselho de Ministros de 11 de Novembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Manuel Pedro Cunha da Silva Pereira - José Manuel Santos de Magalhães.
 
-**Promulgado em 30 de Dezembro de 2010.**
+Promulgado em 30 de Dezembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de Janeiro de 2011.**
+Referendado em 3 de Janeiro de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

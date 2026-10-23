@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/268-1975-158406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:42:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4787a9a7237809df53f6879bc3df462330fa695b1c252af701638cea4fc0468
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e3fca0313ea3feff6cd90727ce4c73644bb9980c0daab6b8babe9e7d10bb72b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:42:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:167631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526658:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:42:28Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +104,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo
 
 1.º No Regulamento de Administração da Fazenda Naval, aprovado pelo [Decreto n.º 31859](https://diariodarepublica.pt/dr/detalhe/decreto/31859-1942-167631), de 17 de Janeiro de 1942, é incluída, entre os artigos 6.º e 7.º, uma nova disposição com a redacção seguinte:
 
-###### Art. 6.º-A O disposto neste Regulamento quanto ao exercício de funções nos conselhos administrativos por oficiais da classe de administração naval é igualmente aplicável aos oficiais da classe do serviço especial do ramo de abastecimento.
+Art. 6.º-A O disposto neste Regulamento quanto ao exercício de funções nos conselhos administrativos por oficiais da classe de administração naval é igualmente aplicável aos oficiais da classe do serviço especial do ramo de abastecimento.
 
 2.º No mesmo Regulamento é eliminado o artigo 68.º-A.
 

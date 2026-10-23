@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/23000/0000500013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/169/2019/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2019-126731019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e93512a350408e45375c2cd31f5acaecd2530667927b10b385acf611ea9443e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f0e4c027181368e17c0e410f601cee8283b6eb4301f75d2414b87edc22e5f2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Agricultura
+- Apicultura
 - Aproximação das Legislações
 - Armazenagem
+- Comércio
+- Controlo Sanitário
 - Definição de Competências
 - Direcção Regional de Agricultura e Pescas
-- Controlo Sanitário
-- Fiscalização
-- Licenciamento
 - Documento Eletrónico
+- Fiscalização
 - Instituto da Conservação da Natureza e das Florestas
+- Licenciamento
 - Normas de Segurança
 - Página na Internet
-- Apicultura
 - Pesticida
 - Produto Fitofarmacêutico
-- Agricultura
 - Substância Perigosa
-- Comércio
 - Trabalho Aéreo
 - Venda
 relationships:
@@ -131,6 +131,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/26/2013/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/26/2013/04/11/p/dre
+- type: cites
+  target: pt:dre:106654351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69920329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69951097:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32009L0128
   label: null
@@ -140,15 +156,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 7
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:41Z'
   warnings: []
   errors: []
 ---
@@ -193,7 +209,9 @@ Os artigos 5.º, 16.º, 18.º e 50.º da [Lei n.º 26/2013](https://diariodarepu
 
 6 - As instalações referidas no presente artigo devem, igualmente, obedecer à legislação e aos regulamentos em vigor, nomeadamente os relativos a higiene e segurança no trabalho, proteção contra riscos de incêndios e armazenamento de substâncias e preparações perigosas, e em especial ao disposto no [Decreto-Lei n.º 150/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2015-69951097), de 5 de agosto, que estabelece o regime de prevenção de acidentes graves que envolvam substâncias perigosas e de limitação das suas consequências para a saúde humana e para o ambiente, transpondo para a ordem jurídica interna a [Diretiva n.º 2012/18/UE](http://data.europa.eu/eli/dir/2012/18/oj?locale=pt), do Parlamento Europeu e do Conselho, de 4 de julho de 2012, relativa ao controlo dos perigos associados a acidentes graves que envolvem substâncias perigosas.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -211,7 +229,9 @@ e) A intenção de aplicação referida nas alíneas c) e d) deve ser complement
 
 3 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -233,7 +253,9 @@ e) A intenção de aplicação referida nas alíneas c) e d) deve ser complement
 
 10 - ...
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - Os indicadores de risco harmonizados a nível comunitário, destinados à avaliação dos progressos realizados na redução dos riscos e dos efeitos negativos da utilização de produtos fitofarmacêuticos na saúde humana e no ambiente, bem como o procedimento aplicável para o seu cálculo, constam do anexo vi da presente lei, da qual faz parte integrante.
 
@@ -259,25 +281,27 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de novembro de 2019. - António Luís Santos da Costa - João Jorge Arêde Correia Neves - Berta Ferreira Milheiro Nunes - Marta Alexandra Fartura Braga Temido de Almeida Simões - João Pedro Soeiro de Matos Fernandes - Maria do Céu de Oliveira Antunes Albuquerque.
 
-**Promulgado em 22 de novembro de 2019.**
+Promulgado em 22 de novembro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de novembro de 2019.**
+Referendado em 27 de novembro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
 «ANEXO VI
 
-#### SECÇÃO I — Indicadores de risco harmonizados
+SECÇÃO I
+
+Indicadores de risco harmonizados
 
 Os indicadores de risco harmonizados a que se refere o artigo 50.º são enumerados nas secções ii e iii.
 
-#### SECÇÃO II
+SECÇÃO II
 
 Indicador de risco harmonizado 1: indicador de risco harmonizado com base no perigo, baseado nas quantidades de substâncias ativas colocadas no mercado em produtos fitofarmacêuticos ao abrigo do [Regulamento (CE) n.º 1107/2009](http://data.europa.eu/eli/reg/2009/1107/oj?locale=pt), do Parlamento Europeu e do Conselho, de 21 de outubro
 
@@ -305,13 +329,13 @@ QUADRO I
 
 Categorização de substâncias ativas e ponderações de perigo para o cálculo do indicador de risco harmonizado 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/23000/0000500013.pdf))](https://files.diariodarepublica.pt/1s/2019/11/23000/0000500013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/23000/0000500013.pdf)
 
 5 - A base de referência do indicador de risco harmonizado 1 é fixada em 100 e é igual ao resultado médio do cálculo anterior para o período de 2011-2013.
 
 6 - O resultado do indicador de risco harmonizado 1 é expresso em relação à base de referência.
 
-#### SECÇÃO III
+SECÇÃO III
 
 Indicador de risco harmonizado 2: indicador de risco harmonizado baseado no número de autorizações concedidas ao abrigo do artigo 53.º do [Regulamento (CE) n.º 1107/2009](http://data.europa.eu/eli/reg/2009/1107/oj?locale=pt), do Parlamento Europeu e do Conselho, de 21 de outubro
 
@@ -337,8 +361,10 @@ QUADRO II
 
 Categorização de substâncias ativas e ponderações de perigo para o cálculo do indicador de risco harmonizado 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/23000/0000500013.pdf))](https://files.diariodarepublica.pt/1s/2019/11/23000/0000500013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/23000/0000500013.pdf)
 
 4 - A base de referência do indicador de risco harmonizado 2 é fixada em 100 e é igual ao resultado médio do cálculo anterior para o período de 2011-2013.
 
 5 - O resultado do indicador de risco harmonizado 2 é expresso em relação à base de referência.
+
+112802555

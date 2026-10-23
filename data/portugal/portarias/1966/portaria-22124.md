@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22124-1966-475278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:18:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf89e0c4aaa4e7589a86997a45cb58aa981eb939cc83a1af2d572b13a019324e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59449c90f078c8ac8dbedbc82b8b36e36902d68e6890ddbbcdcd2670ea14415c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:18:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:18:55Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +88,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 1.º O diploma de funções públicas do funcionalismo ultramarino será do modelo anexo a esta portaria, sendo por ele devidos os seguintes encargos fiscais, conforme os vencimentos-base anuais que se indicam:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/07/16900/12891290.pdf))](https://files.diariodarepublica.pt/1s/1966/07/16900/12891290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/07/16900/12891290.pdf)
 
 2.º Os encargos fiscais serão satisfeitos por estampilha no acto da posse, se esta for tomada na própria província onde o funcionário vai servir, ou no termo de início de funções nas restantes hipóteses.
 
@@ -104,6 +104,6 @@ MODELO DO DIPLOMA DE FUNÇÕES PÚBLICAS
 
 (Artigo 88.º, § 3.º, do Estatuto do Funcionalismo Ultramarino)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/07/16900/12891290.pdf))](https://files.diariodarepublica.pt/1s/1966/07/16900/12891290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/07/16900/12891290.pdf)
 
 Ministério do Ultramar, 22 de Julho de 1966. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

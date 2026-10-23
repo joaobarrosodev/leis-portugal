@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/04/07700/0219602200.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/54/2019/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2019-122142340
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8596788dd3501cc2b224a4a2cf0d817b829029ebd6358aee6e7ec5577473526a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e7789cb04d631a106b1e647ac3d40f69498971b77ffcef9eaeaae1546910287
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,43 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Administração Central
-- Função Pública
 - Associação Nacional de Municípios Portugueses
+- Autarquia Local
 - Autoridade Tributária e Aduaneira
 - Cartografia
-- Instituto Nacional de Estatística
 - Comissão Nacional de Protecção de Dados
 - Conselho Superior de Estatística
 - Contra-ordenação
+- Dados Estatísticos
+- Dados Pessoais
 - Definição de Competências
-- Regulamentação de Atos Legislativos
+- Diploma Legal
 - Encargo do Estado
 - Factura
-- Recrutamento de Pessoal
+- Função Pública
+- Governo
+- Instituto Nacional de Estatística
+- Internet
 - IRS
 - IVA
-- Dados Estatísticos
 - Junta de Freguesia
-- Página na Internet
-- Internet
-- Serviço Público
 - Madeira.região Autónoma
+- Página na Internet
 - Recenseamento
 - Recenseamento Geral da Habitação
 - Recenseamento Geral da População
-- Diploma Legal
+- Recrutamento de Pessoal
+- Regulamentação de Atos Legislativos
 - Regulamento
 - Regulamento CE
 - Segredo Estatístico
+- Serviço Público
 - Serviço Regional
 - Serviço Regional de Estatística da Madeira
 - Serviço Regional de Estatística dos Açores
-- Governo
-- Açores
-- Dados Pessoais
 - Sistema Estatístico Nacional
-- Autarquia Local
 - Tributação
 relationships:
 - type: cites
@@ -145,16 +145,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/6/2019/01/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/6/2019/01/11/p/dre
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117726475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
 article_structure:
   article_count: 26
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:24Z'
   warnings: []
   errors: []
 ---
@@ -247,7 +267,9 @@ e) Freguesias;
 
 f) Serviços e organismos das áreas governativas competentes, em razão da matéria.
 
-###### Artigo 6.º — Secção Eventual para Acompanhamento dos Censos 2021
+###### Artigo 6.º
+
+#### Secção Eventual para Acompanhamento dos Censos 2021
 
 A SEAC 2021 tem como competências:
 
@@ -517,12 +539,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de março de 2019. - Augusto Ernesto Santos Silva - Mariana Guimarães Vieira da Silva - Mário José Gomes de Freitas Centeno - Eduardo Arménio do Nascimento Cabrita.
 
-**Promulgado em 10 de abril de 2019.**
+Promulgado em 10 de abril de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de abril de 2019.**
+Referendado em 12 de abril de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112229301

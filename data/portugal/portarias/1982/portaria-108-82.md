@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/108-1982-600925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T07:02:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b718beabd84a87120c0c618b4a9488493e3ec7dbd61cd2987bbab39f437e3bbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c8294b052154597fa61b30147cd5e334f4108915f89ad614861e58dd464b6bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:02:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Mestrado
+- Universidade Técnica de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:228214:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:181593:por
+  label: "Dada nova redacção ao art. 7.º, pela PORT.350/85.08.06.1985.ME, DR.IS [131] de 08.06.1985\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/350-1985-181593
+  date: '1985-06-08'
+- type: amended_by
+  target: pt:dre:228214:por
+  label: "Dada nova redacção aos n.os 7.º e 8.º da presente portaria, alterada pela Port 350/95, de 08-Jun, pela PORT.360/86.10.07.1986.MEC,\
+    \ DR.IS [156] de 10.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/360-1986-228214
+  date: '1986-07-10'
+- type: cites
+  target: pt:dre:139272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:02:27Z'
   warnings: []
   errors: []
 ---

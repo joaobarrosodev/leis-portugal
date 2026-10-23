@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/147/2012/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/147-2012-174823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T05:12:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a34ceff9d3df6fd745f8ea0ed943ab30345ce3afde3cd562faf9398251c16e6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81c3d4ee1eaea4c59b5c070bd44b7a4ff8534a0fa7e6bf356c51a3ce6b6c0395
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:12:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,36 +68,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ACP Países
-- Financiamento
 - CE Países
-- Convenção
-- Política de Cooperação
-- Cotonu
-- Portugal
-- Desenvolvimento Industrial
-- Desenvolvimento Social
-- União Europeia
-- Política Externa
 - Comissão CE
-- Gestão Orçamental
-- Desenvolvimento Económico
+- Convenção
 - Cooperação Económica
 - Cooperação Internacional
+- Cotonu
+- Desenvolvimento Económico
+- Desenvolvimento Industrial
+- Desenvolvimento Social
+- Financiamento
+- Gestão Orçamental
+- Política de Cooperação
+- Política Externa
+- Portugal
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/123/2012/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/123/2012/08/31/p/dre
+- type: cites
+  target: pt:dre:174820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:12:49Z'
   warnings: []
   errors: []
 ---
@@ -106,16 +110,16 @@ validation:
 
 de 31 de agosto
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo de Parceria entre os Estados de África, das Caraíbas e do Pacífico e a Comunidade Europeia e os seus Estados Membros, assinado em Cotonu, em 23 de junho de 2000, e alterado pela primeira vez no Luxemburgo em 25 de junho de 2005, assinado em Ouagadougou em 22 de junho de 2010, aprovado pela [Resolução da Assembleia da República n.º 123/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/123-2012-174820), em 8 de junho de 2012.
 
-**Assinado em 8 de agosto de 2012.**
+Assinado em 8 de agosto de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 24 de agosto de 2012.**
+Referendado em 24 de agosto de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

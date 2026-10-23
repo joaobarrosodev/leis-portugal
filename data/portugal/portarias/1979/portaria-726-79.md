@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 300/1979, 3º Suplemento, Série I de 1979-12-31
   number: '300'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3478-(56) a 3478-(57)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30003/00560057.pdf
 entry_into_force_dates: []
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/726-1979-231157
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:06:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44f6de6c39a8fbd04e485afd7e294740f442845e13006fc533837ba65aae0fbf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b694c18c35b9b497c134c67c48cc4e5ffc8e3676b1a9f8e3f9f978ba46f67134
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:06:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Identificação Civil e Criminal
+- Direcção Geral dos Serviços Tutelares de Menores
+- Gabinete de Registo Nacional
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:394110:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:459894:por
+  label: "Aumentados lugares ao quadro de pessoal do Centro de Identificação Civil e Criminal, aprovado pelo Dec Lei 63/76,\
+    \ de 24-Jan DG.IS [20], na redacção do presente diploma, pela Port.1064/80.15.12.1980.PCM, DR.IS [288] de 15.12.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1064-1980-459894
+  date: '1980-12-15'
+- type: amended_by
+  target: pt:dre:578893:por
+  label: "Aumentados lugares ao quadro de pessoal do Centro de Identificação Civil e Criminal, aprovado pelo Dec Lei 63/76,\
+    \ de 24-Jan, na redacção do presente diploma, pela Port.473/81.08.06.1981.MJ, DR.IS [131] de 08.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/473-1981-578893
+  date: '1981-06-08'
+- type: amended_by
+  target: pt:dre:394110:por
+  label: "Aditados lugares ao quadro de pessoal do Centro de Identificação Civil e Criminal, aprovado pelo Dec Lei 63/76,\
+    \ de 24-Jan, na redacção do presente diploma, pela PORT.715/82.22.07.1982.MFP, DR.IS [167] de 22.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/715-1982-394110
+  date: '1982-07-22'
+- type: cites
+  target: pt:dre:252234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297797:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:06:03Z'
   warnings: []
   errors: []
 ---
@@ -147,16 +186,16 @@ QUADRO I
 
 Direcção-Geral dos Serviços Tutelares de Menores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30003/00560057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30003/00560057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30003/00560057.pdf)
 
 QUADRO II
 
 Centro de Identificação Civil e Criminal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30003/00560057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30003/00560057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30003/00560057.pdf)
 
 QUADRO III
 
 Gabinete do Registo Nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30003/00560057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30003/00560057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30003/00560057.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/243/2003/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2003-482632
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dac127469ce9e8799da4965d391fef851a6cbb35af89961d2a8c3f35248a29c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 464a8941e71fe49b2ad41f01222c48b021a1aa01968b46681616c0309882ae0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
-- Multa
-- Estabelecimento Comercial
+- Aquicultura
+- Comércio
 - Comércio a Retalho
 - Direcção Geral das Pescas e Aquicultura
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
+- Estabelecimento Comercial
 - Etiquetagem
 - Fiscalização
-- Inspecção Geral das Actividades Económicas
-- Aquicultura
 - Informação do Consumidor
+- Inspecção Geral das Actividades Económicas
+- Multa
 - Produtos de Pesca
 - Regulamento CE
-- Comércio
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:134/2002
+  label: "Altera os artigos 4.º, 5.º, 7.º, 8.º, 9.º e 13. ºe adita o 3.º-A, 5.º-A e 5.º-B ao Decreto-Lei n.º 134/2002, de\
+    \ 14 de Maio DR.IS-A [111]\0\0"
+  source: null
+  date: '2002-05-14'
 - type: cites
   target: celex:32001R2065
   label: null
@@ -89,15 +95,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/134/2002/05/14/p/dre
 article_structure:
-  article_count: 11
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:43Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +142,9 @@ Os artigos 4.º, 5.º, 7.º, 8.º, 9.º e 13.º do Decreto-Lei n.º 134/2002, de
 
 4 - (Anterior n.º 5.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -154,11 +162,15 @@ b) [Anterior alínea c).]
 
 4 - Exceptuam-se do disposto nos n.os 2 e 3, no que diz respeito ao número do lote e à identificação do operador que o atribuiu, os produtos vivos, frescos e refrigerados que sejam vendidos não preembalados ou não embalados.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 Compete à Inspecção-Geral das Actividades Económicas (IGAE), à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar (DGFCQA) e à Direcção-Geral das Pescas e Aquicultura (DGPA) assegurar a fiscalização do cumprimento das regras de informação ao consumidor final definidas na regulamentação referida no artigo anterior e das normas constantes do presente diploma, sem prejuízo das competências atribuídas por lei a outras entidades.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -176,13 +188,17 @@ e) A falta, inexactidão ou deficiência dos registos exigidos no artigo 5.º-B,
 
 3 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
 2 - As sanções referidas nas alíneas b) a e) do número anterior têm a duração máxima de dois anos contados a partir da decisão condenatória definitiva.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - As exigências de informação ao consumidor previstas no Regulamento (CE) n.º [2065/2001](http://data.europa.eu/eli/reg/2001/2065/oj?locale=pt), da Comissão, de 22 de Outubro, e no presente diploma não se aplicam aos produtos que, comprovadamente, foram colocados no mercado ou rotulados antes de 1 de Janeiro de 2002.
 
@@ -208,11 +224,15 @@ c) A zona de captura.
 
 2 - As informações obrigatórias na venda ao consumidor final devem ser indicadas de forma evidente, facilmente legíveis, não podendo ser dissimuladas ou encobertas.
 
-###### Artigo 5.º-A — Introdução de produtos no mercado nacional
+Artigo 5.º-A
+
+Introdução de produtos no mercado nacional
 
 Os operadores que procedem à introdução dos produtos no mercado nacional são responsáveis por assegurar o cumprimento das exigências de informação previstas no presente diploma, bem como a conformidade dessa informação.
 
-###### Artigo 5.º-B — Registos obrigatórios
+Artigo 5.º-B
+
+Registos obrigatórios
 
 1 - Todos os operadores envolvidos no circuito de comercialização de pescado são obrigados a manter um registo actualizado, em suporte documental ou informático, de entradas e saídas de produtos da pesca e da aquicultura, de modo a assegurar a veracidade da informação a que se reporta o presente diploma, bem como da proveniência imediatamente anterior.
 
@@ -230,12 +250,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 24 de Setembro de 2003.**
+Promulgado em 24 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Setembro de 2003.**
+Referendado em 25 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

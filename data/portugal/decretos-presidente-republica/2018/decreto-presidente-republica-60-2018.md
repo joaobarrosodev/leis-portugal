@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/09/17700/0476604766.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/60/2018/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/60-2018-116387660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T05:33:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d2fe0560d11c6a3ddb3d9aa4addad0d5aba0931458e91ccf5337ec40fae8477
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afbd8b45049181caacdde65c6063d54706e816abf4ab2f179ce35e7754a08932
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:33:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,31 +69,35 @@ subjects:
 - América Latina
 - Caraíbas
 - CE Países
-- Fundação
 - Convenção
+- Cooperação Internacional
 - Direito Internacional Público
-- União Europeia
+- Fundação
+- Fundação UE-ALC
 - Hamburgo
 - República Dominicana
-- Cooperação Internacional
 - Santo Domingo
 - Sede
-- Fundação UE-ALC
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/283/2018/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/283/2018/09/13/p/dre
+- type: cites
+  target: pt:dre:116387661:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:33:13Z'
   warnings: []
   errors: []
 ---
@@ -102,16 +106,18 @@ validation:
 
 de 13 de setembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo que institui a Fundação Internacional UE-ALC, assinado em 26 de outubro de 2016, em Santo Domingo, República Dominicana, aprovado pela [Resolução da Assembleia da República n.º 283/2018](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/283-2018-116387661), em 18 de julho de 2018.
 
-**Assinado em 26 de agosto de 2018.**
+Assinado em 26 de agosto de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de setembro de 2018.**
+Referendado em 10 de setembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111644896

@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/224-1977-139189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T05:17:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f12a10d728bb53632c4cb8c459faee8d52a6212b5c29d817922331b487b7a5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 624e1f644eab31c90aabd072afd9d060c0b4ba96e26c063f57a94c4942bc79c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:17:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Hospitais
+- Pessoal de Enfermagem
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:329999:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:431395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676628:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:252805:por
+  label: Rectificada pela DECL.DD8305.25.05.1977.PCM, DR.IS [121] de 25.05.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-252805
+  date: '1977-05-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:17:14Z'
   warnings: []
   errors: []
 ---
@@ -113,6 +141,6 @@ Direcção-Geral dos Hospitais
 
 Pessoal técnico de enfermagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/04/09600/09450945.pdf))](https://files.diariodarepublica.pt/1s/1977/04/09600/09450945.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/04/09600/09450945.pdf)
 
 Pelo Ministro dos Assuntos Sociais, Adalberto Paulo da Fonseca Mendo, Secretário de Estado da Saúde.

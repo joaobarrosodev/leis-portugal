@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31
   number: '252'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 7424-(295) a 7424-(297)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/12/25203/0029500297.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/266-g/2012/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3d08408cb9e0d38f2716a373b1ecb5ad8552319c293d547eb4522345d629535
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd8c5e8027b4d44ed5f0d4bebfb94d9bd2c751e82a7b1d7ee883af9e92be3fb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fundação para a Ciência e a Tecnologia
 - Definição de Competências
+- Direção Geral dos Estabelecimentos Escolares
 - Direcção Regional de Educação de Lisboa e VALE do TEJO
 - Direcção Regional de Educação do Alentejo
 - Direcção Regional de Educação do Algarve
 - Direcção Regional de Educação do Centro
 - Direcção Regional de Educação do Norte
+- Fundação para a Ciência e a Tecnologia
 - Fundação para a Computação Científica Nacional
 - Ministério da Educação e Ciência
-- Direção Geral dos Estabelecimentos Escolares
 - Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:184108564:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498755:por
+  label: "Dada nova redação ao art. 31º e aos anexos I e II do Dec Lei 125/2012 de 29-dez, alterado pelo presente diploma,\
+    \ pelo DEC LEI.102/2013.25.07.2013.MECI, DR.IS [142] de 25.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2013-498755
+  date: '2013-07-25'
+- type: amended_by
+  target: pt:dre:67348949:por
+  label: Alterados o art. e 31.º e os anexos I e II do Dec Lei 125/2011, de 29-dez, na redação do presente diploma pelo(a)
+    Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-2015-67348949
+  date: '2015-05-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/125/2011/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/125/2011/12/29/p/dre
+- type: cites
+  target: pt:dre:145195:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:10Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +176,9 @@ h) [...];
 
 i) A Direção-Geral dos Estabelecimentos Escolares.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A DGE tem por missão assegurar a concretização das políticas relativas à componente pedagógica e didática da educação pré-escolar, dos ensinos básico e secundário e da educação extra-escolar, prestando apoio técnico à sua formulação e acompanhando e avaliando a sua concretização, bem como coordenar a planificação das diversas provas e exames.
 
@@ -188,7 +206,9 @@ j) [...].
 
 3 - [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -210,7 +230,9 @@ g) [...].
 
 3 - A DGAE é dirigida por um diretor-geral, coadjuvado por um subdiretor-geral, cargos de direção superior de 1.º e 2.º graus, respetivamente.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A Fundação para a Ciência e a Tecnologia, I.P., abreviadamente designada por FCT, I.P., tem por missão o desenvolvimento, o financiamento e a avaliação de instituições, redes, infraestruturas, equipamentos científicos, programas, projetos e recursos humanos em todos os domínios da ciência e da tecnologia, bem como o desenvolvimento da cooperação científica e tecnológica internacional, a coordenação das políticas públicas de ciência e tecnologia, e ainda o desenvolvimento dos meios nacionais de computação científica, promovendo a instalação e utilização de meios avançados e a sua articulação em rede.
 
@@ -236,7 +258,9 @@ i) Promover e apoiar a criação e a modernização de infraestruturas de apoio 
 
 3 - A FCT, I.P., é dirigida por um conselho diretivo, constituído por um presidente e quatro vogais.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...].
 
@@ -314,7 +338,9 @@ q) [...].
 
 6 - [...].
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 O GAVE deixa de integrar a estrutura do MEC através da aprovação de novo enquadramento jurídico, mantendo-se transitoriamente na dependência do referido Ministério até 31 de março de 2013.»
 
@@ -348,7 +374,9 @@ h) Acompanhar os procedimentos e as atividades desenvolvidas no âmbito do siste
 
 i) Cooperar com outros serviços, organismos e entidades, tendo em vista a realização de ações conjuntas em matéria de educação e formação profissional.
 
-###### Artigo 29.º-A — Fundação para a Computação Científica Nacional
+Artigo 29.º-A
+
+Fundação para a Computação Científica Nacional
 
 A missão e as atribuições da Fundação para a Computação Científica Nacional são integradas na Fundação para a Ciência e Tecnologia, I.P., nos termos a definir em diploma próprio.»
 
@@ -366,15 +394,15 @@ O presente decreto-lei reporta os seus efeitos a 31 de dezembro de 2012.
 
 Visto e aprovado em Conselho de Ministros de 11 de dezembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 28 de dezembro de 2012.**
+Promulgado em 28 de dezembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de dezembro de 2012.**
+Referendado em 28 de dezembro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere artigo 4.º)
 
@@ -384,10 +412,12 @@ Visto e aprovado em Conselho de Ministros de 11 de dezembro de 2012. - Pedro Pas
 
 Cargos de direção superior da administração direta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25203/0029500297.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25203/0029500297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25203/0029500297.pdf)
 
-## ANEXO II — (a que se refere o artigo 30.º)
+ANEXO II
+
+(a que se refere o artigo 30.º)
 
 Dirigentes de organismos da administração indireta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25203/0029500297.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25203/0029500297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25203/0029500297.pdf)

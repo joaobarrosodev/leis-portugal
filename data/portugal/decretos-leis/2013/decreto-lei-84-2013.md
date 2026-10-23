@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/84/2013/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2013-497411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b11f20ab3587d9a05006dce9ea5e3414b858a235382f7ad20856170ea1a323c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 761aa30f85799a45b0e1a2fad8d83b812c7257dc66aec7fdfb7aa61a62c6dd50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,25 +70,37 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Arbitragem
-- Energia Elétrica
+- Assembleia da República
+- Conselho Consultivo
 - Conselho Tarifário
 - Cooperação
 - Definição de Competências
+- Energia Elétrica
+- Entidade Reguladora dos Serviços Energéticos
 - Estatuto
-- Conselho Consultivo
+- Governo
 - Mibel
 - Orçamento
-- Assembleia da República
-- Entidade Reguladora dos Serviços Energéticos
 - Regime de Pessoal
 - Responsabilidade Civil
 - Responsabilidade Criminal
-- Governo
 relationships:
 - type: amended_by
   target: pt:dre:122476954:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115698415:por
+  label: Alterados os arts. 1.º, 2.º, 3.º, 8.º, 9.º, 10.º, 16.º, 19.º, 26.º, 28.º, 33.º, 41.º, 42.º, 43.º, 46.º, 47.º e 50.º,
+    aditados os arts. 44.º-A, 44.º-B, 44.º-C, 44.º-D e 44.º-E, alterada a organização sistemática (alterada a denominação
+    da epígrafe da sec V do cap III, que passa a integrar os arts. 44.º-A, 44.º-B, 44.º-C, 44.º-D e 44.º-E, e aditada a sec
+    VI ao mesmo cap III, com a respetiva epígrafe e que integra os arts. 45.º, 46.º, 47.º, 48.º e 49.º) e revogadas as als.
+    c), k), m), t) e u) do n.º 2 do art. 3.º, dos Estatutos da Entidade Reguladora dos Serviços Energéticos aprovados pelo
+    Dec Lei 97/2002 de 12-abr, na versão republicada dos Estatutos pelo presente diploma, pelo(a) Decreto-Lei n.º 57-A/2018
+    - Diário da República n.º 134/2018, 1º Suplemento, Série I de 2018-07-13 que procede à republicação dos Estatutos com
+    a redação atual
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-a-2018-115698415
+  date: '2018-07-13'
 - type: cites
   target: celex:32003L0054
   label: null
@@ -106,15 +118,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2009/73/oj
 article_structure:
-  article_count: 110
+  article_count: 75
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:00Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +179,9 @@ Os artigos 1.º a 4.º, 6.º, 8.º, 10.º, 13.º, 20.º, 22.º, 28.º, 29.º, 30
 
 5 - A regulação da ERSE abrange todo o território nacional, sem prejuízo da sua adequação às especificidades das Regiões Autónomas dos Açores e da Madeira, de acordo com o disposto na legislação e regulamentação aplicáveis.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - A ERSE rege-se pelo disposto no regime de enquadramento das entidades reguladoras, na legislação setorial, nos presentes Estatutos, nos seus regulamentos internos e, supletivamente, no que respeita à sua gestão financeira e patrimonial, pelo regime jurídico aplicável às entidades públicas empresariais.
 
@@ -175,7 +189,9 @@ Os artigos 1.º a 4.º, 6.º, 8.º, 10.º, 13.º, 20.º, 22.º, 28.º, 29.º, 30
 
 3 - Compete ao Governo, nos termos constitucionais e legais, fixar as orientações gerais de política energética, designadamente em matérias relacionadas com segurança de abastecimento, proteção dos direitos dos consumidores, negociação e celebração de acordos internacionais na área da energia, eficiência energética, sustentabilidade ambiental e sustentabilidade do Sistema Elétrico Nacional (SEN), sem prejuízo do disposto no n.º 1 do artigo 58.º.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -235,7 +251,9 @@ y) [...].
 
 4 - [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Sem prejuízo da observância do princípio da legalidade no domínio da gestão pública, e salvo disposição expressa em contrário, a capacidade jurídica da ERSE abrange a prática de todos os atos jurídicos, o gozo de todos os direitos e a sujeição a todas as obrigações necessárias à prossecução das suas atribuições.
 
@@ -245,7 +263,9 @@ y) [...].
 
 4 - [Anterior n.º 3].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -253,13 +273,17 @@ y) [...].
 
 3 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A ERSE dispõe das competências necessárias à prossecução da sua finalidade e das atribuições estabelecidas nos presentes Estatutos e na legislação que regula o SEN e o Sistema Nacional de Gás Natural (SNGN).
 
 2 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -273,7 +297,9 @@ y) [...].
 
 6 - [...].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]:
 
@@ -289,7 +315,9 @@ e) Solicitar, a qualquer representante legal, trabalhador ou colaborador das ent
 
 2 - [...].
 
-###### Artigo 20.º — Resolução de litígios
+Artigo 20.º
+
+Resolução de litígios
 
 1 - [...]:
 
@@ -301,13 +329,17 @@ b) [...].
 
 3 - [...].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Compete à ERSE fomentar a arbitragem para a resolução de litígios emergentes dos contratos entre as entidades intervenientes nos setores regulados e os consumidores, designadamente entre estes e os comercializadores no âmbito do fornecimento de energia, assegurando aos consumidores os meios para a sua realização.
 
 2 - A arbitragem referida no número anterior tem a natureza prevista no artigo 15.º da Lei n.º 23/96, de 23 de julho, e segue, subsidiariamente, os termos da lei da arbitragem voluntária previstos na Lei n.º 63/2011, de 14 de dezembro.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...].
 
@@ -325,7 +357,9 @@ b) [...].
 
 8 - A utilização de cartões de crédito e outros instrumentos de pagamento, viaturas, comunicações, prémios, suplementos e gozo de benefícios sociais pelos membros do conselho de administração obedece ao disposto no Decreto-Lei n.º 71/2007, de 27 de março.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...].
 
@@ -349,7 +383,9 @@ b) Quando o membro do conselho de administração tenha direito a pensão de ref
 
 c) Nos casos em que o mandato do membro do conselho de administração cesse por outro motivo que não o decurso do respetivo prazo.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...].
 
@@ -387,7 +423,9 @@ e) Incumprimento do dever de exercício de funções em regime de exclusividade 
 
 7 - Em caso de cessação do mandato por decurso do prazo ou renúncia, os membros do conselho de administração mantêm-se no exercício das suas funções até à sua efetiva substituição.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...].
 
@@ -441,7 +479,9 @@ w) [Anterior alínea p)];
 
 x) Exercer os demais poderes previstos na lei e nos presentes Estatutos que não estejam atribuídos a outro órgão da ERSE.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...].
 
@@ -455,7 +495,9 @@ x) Exercer os demais poderes previstos na lei e nos presentes Estatutos que não
 
 6 - [...].
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...]:
 
@@ -477,19 +519,25 @@ f) [Anterior alínea e)].
 
 4 - [...].
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...].
 
 2 - São isentos de responsabilidade os membros que, tendo estado presentes na reunião em que foi tomada a deliberação, tiverem votado contra, em declaração consignada na respetiva ata, bem como os membros ausentes, que tenham declarado por escrito o seu desacordo, sendo este igualmente registado na ata.
 
-###### Artigo 36.º — Designação
+Artigo 36.º
+
+Designação
 
 1 - O fiscal único é revisor oficial de contas ou sociedade de revisores oficiais de contas e é designado por despacho dos membros do Governo responsáveis pelas áreas das finanças e da energia.
 
 2 - É aplicável ao fiscal único o disposto na alínea b) do n.º 2 do artigo 29.º, não podendo ainda o fiscal único manter qualquer vínculo laboral com o Estado.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - O mandato do fiscal único tem a duração de quatro anos, não sendo renovável, sem prejuízo de um anterior fiscal único poder ser designado para desempenhar cargos nos órgãos da ERSE decorridos quatro anos após a cessação do mandato anterior.
 
@@ -497,7 +545,9 @@ f) [Anterior alínea e)].
 
 3 - [Revogado].
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...].
 
@@ -521,7 +571,9 @@ b) Os membros do conselho consultivo devem ser pessoas singulares e representar 
 
 9 - [Anterior n.º 8].
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...].
 
@@ -539,7 +591,9 @@ b) Os membros do conselho consultivo devem ser pessoas singulares e representar 
 
 8 - É permitido o pagamento de ajudas de custo aos membros do conselho consultivo previstos nas alíneas a) a d) do n.º 2 do artigo 41.º, desde que relativas a deslocações ao continente, a partir das regiões autónomas dos Açores e da Madeira, motivadas por reuniões do referido conselho consultivo.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - [...].
 
@@ -563,7 +617,9 @@ b) Os membros do conselho tarifário devem ser pessoas singulares e representar 
 
 9 - [Anterior n.º 8].
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...].
 
@@ -581,7 +637,9 @@ b) Os membros do conselho tarifário devem ser pessoas singulares e representar 
 
 8 - [Anterior n.º 7].
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - A ERSE dispõe de receitas próprias, segundo o princípio da autossuficiência.
 
@@ -595,7 +653,9 @@ b) Os membros do conselho tarifário devem ser pessoas singulares e representar 
 
 6 - Caso se verifiquem saldos de gerência, devem os mesmos reverter a favor dos clientes de eletricidade e de gás natural, através da dedução dos saldos à tarifa de acesso, na proporção das contribuições cobradas nos termos da alínea a) do n.º 2.
 
-###### Artigo 51.º — Plano de atividades, orçamento e respetivo plano plurianual
+Artigo 51.º
+
+Plano de atividades, orçamento e respetivo plano plurianual
 
 1 - O conselho de administração elabora anualmente o plano de atividades anual e o orçamento para o ano seguinte e ainda o respetivo plano plurianual.
 
@@ -605,7 +665,9 @@ b) Os membros do conselho tarifário devem ser pessoas singulares e representar 
 
 4 - Os planos de atividades, anuais e plurianuais, os orçamentos e os respetivos planos plurianuais são divulgados na página eletrónica da ERSE.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - [...].
 
@@ -619,13 +681,17 @@ b) Os membros do conselho tarifário devem ser pessoas singulares e representar 
 
 6 - Os relatórios de atividades e as contas, incluindo os respetivos balanços, são divulgados na página eletrónica da ERSE.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - A ERSE dispõe de serviços de apoio técnico e administrativos necessários à prossecução das suas atribuições.
 
 2 - Os serviços e respetivas estruturas, organização e funcionamento constam de regulamento interno aprovado pelo conselho de administração.
 
-###### Artigo 54.º — Estatuto dos trabalhadores
+Artigo 54.º
+
+Estatuto dos trabalhadores
 
 1 - Os trabalhadores da ERSE estão sujeitos ao regime jurídico do contrato individual de trabalho, nos termos estabelecidos no Código de Trabalho e sua regulamentação, bem como aos regulamentos internos previstos nos presentes Estatutos, sendo abrangido pelo regime geral da segurança social.
 
@@ -651,7 +717,9 @@ d) Fundamentação da decisão tomada.
 
 8 - Os trabalhadores da ERSE podem, nos termos da lei, ser requisitados ou prestar funções em entidades da administração pública ou em instituições da União Europeia, mediante autorização do conselho de administração.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - A ERSE pode solicitar, nos termos da lei, a colaboração de trabalhadores pertencentes à administração direta ou indireta do Estado, Regiões Autónomas, autarquias locais, outras pessoas coletivas da administração autónoma, entidades administrativas independentes e demais pessoas coletivas públicas.
 
@@ -665,7 +733,9 @@ d) Fundamentação da decisão tomada.
 
 6 - [...].
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - [...].
 
@@ -673,7 +743,9 @@ d) Fundamentação da decisão tomada.
 
 3 - [Revogado].
 
-###### Artigo 58.º — Independência
+Artigo 58.º
+
+Independência
 
 1 - A ERSE é independente no desempenho das suas funções e não se encontra sujeita a tutela e a superintendência governamental, não podendo o Governo dirigir recomendações ou emitir diretivas ao conselho de administração da ERSE sobre a atividade reguladora desta entidade, nem sobre as prioridades a adotar na respetiva prossecução, sem prejuízo do disposto nos números seguintes.
 
@@ -697,7 +769,9 @@ b) A aceitação de doações, heranças ou legados;
 
 c) A criação de delegações territorialmente desconcentradas.
 
-###### Artigo 59.º — Cooperação com o Governo e com a Assembleia da República
+Artigo 59.º
+
+Cooperação com o Governo e com a Assembleia da República
 
 1 - Sem prejuízo da sua independência funcional e decisória, a ERSE deve manter o Governo devidamente informado da sua atividade regulatória, através do membro do Governo responsável pela área da energia, transmitindo-lhe, nomeadamente, informação sobre recomendações, propostas legislativas e projetos de regulamentos externos que se proponha adotar, bem como informação sobre os mesmos no quadro da política geral do Governo para os setores regulados.
 
@@ -707,13 +781,17 @@ c) A criação de delegações territorialmente desconcentradas.
 
 4 - Sempre que lhes seja solicitado, o presidente e demais membros do conselho de administração da ERSE devem apresentar-se perante a comissão parlamentar competente, para prestar esclarecimentos sobre a atividade reguladora da ERSE.
 
-###### Artigo 60.º — Responsabilidade civil, criminal, disciplinar e financeira
+Artigo 60.º
+
+Responsabilidade civil, criminal, disciplinar e financeira
 
 1 - A ERSE, os titulares dos seus órgãos e os seus trabalhadores respondem civil, criminal, disciplinar e financeiramente pelos atos e omissões que pratiquem no exercício das suas funções, nos termos da legislação aplicável.
 
 2 - Quando sejam demandados por terceiros, nos termos do número anterior, os titulares dos órgãos da ERSE e os seus trabalhadores têm direito a apoio jurídico assegurado pela entidade reguladora, sem prejuízo do direito de regresso desta nos termos gerais.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - A atividade da ERSE fica sujeita à jurisdição administrativa nos termos da respetiva legislação.
 
@@ -731,13 +809,17 @@ Regime orçamental e financeiro
 
 2 - As regras de contabilidade pública e o regime dos fundos e serviços autónomos, nomeadamente em matéria de autorização de despesas, de transição e utilização dos resultados líquidos e de cativação de verbas na parte que não dependa de dotações do orçamento de Estado, não são aplicáveis à ERSE.
 
-###### Artigo 49.º-B — Património
+Artigo 49.º-B
+
+Património
 
 1 - A ERSE dispõe de património próprio, constituído pelos seus bens, direitos e obrigações de conteúdo económico.
 
 2 - A ERSE pode ter sob a sua administração bens do património do Estado que sejam afetados à prossecução das suas atribuições, designadamente imóveis destinados ao funcionamento dos seus serviços.
 
-###### Artigo 55.º-A — Diligência e sigilo profissional
+Artigo 55.º-A
+
+Diligência e sigilo profissional
 
 1 - Os titulares dos órgãos da ERSE e os seus trabalhadores, prestadores de serviços e colaboradores estão sujeitos aos deveres de diligência e sigilo quanto aos factos cujo conhecimento lhes advenha exclusivamente do exercício das suas funções e que não possam ou devam ser por eles divulgados.
 
@@ -775,15 +857,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de março de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 14 de junho de 2013.**
+Promulgado em 14 de junho de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de junho de 2013.**
+Referendado em 19 de junho de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 

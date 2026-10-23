@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/67/2011/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2011-673399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50a16d4c667ec9e9d323c1aaf2225963afc21231a09298715a55847e09743a8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36d646b28c6622fb07557753a97a0e7c325a280c87c9e62fb8c70f7a11fac9bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agrupamento de Centros de Saúde de ALTO Trás-os-montes I- Nordeste
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autonomia Patrimonial
-- Unidade Local de Saúde do Nordeste
+- Bragança
 - Capital Social
-- Gestão Financeira
+- Centro Hospitalar do Nordeste
 - Criação de Serviços
 - Empresa Pública
 - Estatuto
 - Extinção de Serviços
+- Gestão Financeira
 - Integração de Serviços
 - Integração de Trabalhadores
 - Regime de Pessoal
-- Bragança
 - Transferência de Competências
 - Transferência Patrimonial
 - Tutela
-- Agrupamento de Centros de Saúde de ALTO Trás-os-montes I- Nordeste
-- Centro Hospitalar do Nordeste
+- Unidade Local de Saúde do Nordeste
 relationships:
 - type: amended_by
   target: pt:dre:66325236:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25344027:por
+  label: "Transferidas as atribuições e competências da ULSNE, E.P.E. criada pelo presente, no que se refere à prestação de\
+    \ cuidados de saúde à população do concelho de Vila Nova de Foz Côa, prestados pelo Centro de Saúde de Vila Nova de Foz\
+    \ Côa para a ULSG, E.P.E criada pelo Dec Lei 183/2008 de 04-set, pelo DEC LEI.59/2014.16.04.2014.MS, DR.IS [75] de 16.04.2014\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2014-25344027
+  date: '2014-04-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/12/2009/01/12/p/dre
   label: null
@@ -130,16 +138,86 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/6
   label: null
   source: http://data.dre.pt/eli/lei/6
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66325236:por
+  label: Revogados o n.º 2 do art. 1.º e os arts. 4.º a 16.º e 18.º pelo(a) Decreto-Lei n.º 12/2015 - Diário da República
+    n.º 17/2015, Série I de 2015-01-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-2015-66325236
+  date: '2015-01-26'
 article_structure:
   article_count: 42
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:43Z'
   warnings: []
   errors: []
 ---
@@ -346,19 +424,19 @@ O presente decreto-lei entra em vigor no 1.º dia útil do mês seguinte ao da s
 
 Visto e aprovado em Conselho de Ministros de 17 de Fevereiro de 2011. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Ana Maria Teodoro Jorge.
 
-**Promulgado em 11 de Abril de 2011.**
+Promulgado em 11 de Abril de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 18 de Abril de 2011.**
+Referendado em 18 de Abril de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/10700/0303203041.pdf))](https://files.diariodarepublica.pt/1s/2011/06/10700/0303203041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/10700/0303203041.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 1.º)
 

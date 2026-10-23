@@ -46,40 +46,167 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/680-1975-310415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:52:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7406f1f2027b39aada27da7f73fca305f2e8415eff87775263e45f49a5eab99d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17261cc0e9323c51f215e53e3c61e70b677c8a92b6b98823f58a3a852d89b1f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:52:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alter do CHÃO
+- Avis
+- Campo Maior
+- Crato
+- Expropriação
+- Fronteira.povoação
+- Gavião
+- Monforte
+- Ponte de Sor
+- Prédio Rústico
+- Sousel
 relationships:
 - type: amended_by
   target: pt:dre:603526:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:446675:por
+  label: Derrogada, no que concerne à expropriação do prédio rústico Herdade da Crucieira, a presente portaria, pelo(a) Portaria
+    n.º 117/78 - Diário da República n.º 47/1978, Série I de 1978-02-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/117-1978-446675
+  date: '1978-02-25'
+- type: amended_by
+  target: pt:dre:392049:por
+  label: "Derrogada, na parte referente ao prédio rústico \"Vale do Drou\", pela PORT.23/79.17.01.1979.MAP, DR.IS [14] de\
+    \ 17.01.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23-1979-392049
+  date: '1979-01-17'
+- type: amended_by
+  target: pt:dre:378769:por
+  label: "Derrogada relativamente aos prédios rústicos Herdade da Serrinha e Herdade do Pontão, pela PORT.452/79.22.08.1979.MAP,\
+    \ DR.IS [193] de 22.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/452-1979-378769
+  date: '1979-08-22'
+- type: amended_by
+  target: pt:dre:678065:por
+  label: "Derrogada, em parte pela PORT.117/80.15.03.1980.MAP, DR.IS [63] de 15.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/117-1980-678065
+  date: '1980-03-15'
+- type: amended_by
+  target: pt:dre:678074:por
+  label: "Derrogada, em parte pela PORT.116/80.15.03.1980.MAP, DR.IS [63] de 15.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/116-1980-678074
+  date: '1980-03-15'
+- type: amended_by
+  target: pt:dre:474489:por
+  label: "Derrogado o presente diploma relativamente ao prédio rústico «S. Martinho e Escola», no concelho de Avis, pela PORT.296/80.27.05.1980.MAP,\
+    \ DR.IS [122] de 27.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/296-1980-474489
+  date: '1980-05-27'
+- type: amended_by
+  target: pt:dre:472478:por
+  label: "Reformado o presente diploma, pela PORT.414/80.18.07.1980.MAP, DR.IS [164] de 18.07.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/414-1980-472478
+  date: '1980-07-18'
+- type: amended_by
+  target: pt:dre:390412:por
+  label: "Derrogada, relativamente ao prédio rústico \"Monte da Quinta\", pela PORT.67/81.16.01.1981.MAP, DR.IS [13] de 16.01.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/67-1981-390412
+  date: '1981-01-16'
+- type: amended_by
+  target: pt:dre:391195:por
+  label: "Desanexada a totalidade do prédio rústico Herdade da Tapada do Convento, expropriado pelo presente diploma, pela\
+    \ PORT.200/81.21.02.1981.MFP, DR.IS [44] de 21.02.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/200-1981-391195
+  date: '1981-02-21'
+- type: amended_by
+  target: pt:dre:387979:por
+  label: "Derrogada, relativamente ao prédio rústico denominado \"Herdade da Mourinha Courela Malfadada\" pela PORT.280/81.19.03.1981.MAP,\
+    \ DR.IS [65] de 19.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/280-1981-387979
+  date: '1981-03-19'
+- type: amended_by
+  target: pt:dre:1863829:por
+  label: "Derrogada, na parte em que expropria a totalidade da área do prédio rústico Cardoso e Escrivão e da totalidade das\
+    \ áreas excedentárias dos prédios Vale de Lousa e Padrão, pela PORT.DD346.02.08.1990.PCM, DR.IIS [177] de 02.08.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1990-1863829
+  date: '1990-08-02'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DERROGADA EM PARTE PELA PORT 152/95IIS DE 28-JUN DA PCM E MA DR.IIS [158] DE 08/JUL/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-07-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DERROGADA EM PARTE PELA PORT 77/94IIS DE 03-MAI DA PCM E MA DR.IIS [114] DE 17/MAI/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "DERROGADA EM PARTE PELA PORT 274/95IIS DE 29-AGO DA PCM E MA DR.IIS [212] DE 13/SET/1995\0212] DE 13/SET/1995"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-13'
+- type: amended_by
+  target: pt:dre:1932469:por
+  label: "Derrogada relativamente ao prédio rústico \"Do Monte do Outeiro de Cima\" pela PORT.421/99(2ªSÉRIE).1999.04.09.PCM\
+    \ DR.IIS [98] de 27/Abr/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/421-1999-1932469
+  date: '1999-04-09'
+- type: amended_by
+  target: pt:dre:1943282:por
+  label: "Derrogada parte deste diploma, pela PORT.466/2000(2ªSÉRIE).2000.03.15.PCM, DR.IIS [75] de 29/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/466-2000-1943282
+  date: '2000-03-15'
+- type: amended_by
+  target: pt:dre:2586040:por
+  label: "Derrogada, na parte em que expropria o prédio rústico denominado «Passarinhos», pela PORT.1158/2000(2ªSÉRIE).2000.07.20.PCM,\
+    \ DR.IIS [182] de 08/Ago/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1158-2000-2586040
+  date: '2000-07-20'
+- type: amended_by
+  target: pt:dre:2258200:por
+  label: "Derrogado em parte pela PORT.318/2004(2ªSérie).04.03.2004.PCM, DR.IIS [66] de 18.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/318-2004-2258200
+  date: '2004-03-04'
+- type: amended_by
+  target: pt:dre:603526:por
+  label: "Derrogada, na parte em que procede à expropriação da área de 47,1250 ha do prédio rústico denominado «Herdade dos\
+    \ Passarinhos», pela PORT.354/2009.06.04.2009.PCM, DR.IS [67] de 06.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/354-2009-603526
+  date: '2009-04-06'
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:506792:por
+  label: Rectificado o n.º 93 pelo(a) Declaração - Diário do Governo n.º 35/1976, Série I de 1976-02-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-506792
+  date: '1976-02-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:52:42Z'
   warnings: []
   errors: []
 ---

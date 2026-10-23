@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/03700/04830484.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/96-1984-660560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T08:17:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee898d2a6e97ce0b9c14c42b1c39b77832b23eb0bedd9ee49f8281815ba3d770
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ee9bbfae725d4b2bb7648a1e7f21cb72ca027304656e95350211027348c3331
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:17:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Artes Marciais
+- Comissão Directiva das Artes Marciais
+- Conselho Consultivo
+- Desporto
 relationships:
 - type: amended_by
   target: pt:dre:662764:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:396142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462808:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:607293:por
+  label: Rectificada pela DECL.DD5572.17.05.1984.PCM, DR.IS [126-2ºSUPL] de 31.05.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-607293
+  date: '1984-05-17'
+- type: repealed_by
+  target: pt:dre:662764:por
+  label: "Revogada pelo DEC LEI.69/87.1987.02.09.MEC DR.IS [33]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-1987-662764
+  date: '1987-02-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:17:20Z'
   warnings: []
   errors: []
 ---
@@ -168,6 +194,6 @@ c) Não haver sido punido disciplinarmente pela CDAM.
 
 Secretaria de Estado dos Transportes.
 
-**Assinada em 2 de Fevereiro de 1984.**
+Assinada em 2 de Fevereiro de 1984.
 
-**O Secretário de Estado dos Desportos, Júlio Francisco Miranda Calha.**
+O Secretário de Estado dos Desportos, Júlio Francisco Miranda Calha.

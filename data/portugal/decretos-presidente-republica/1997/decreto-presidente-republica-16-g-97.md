@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 83/1997, 1º Suplemento, Série I-A de 1997-04-09
   number: '83'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1608-(2) a 1608-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/083a01/00020002.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/16-g/1997/04/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/16-g-1997-224388
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T04:23:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44df811a614386cc72a45ddc540295ca46627e932cc155b7f9e99ff8c8135812
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ae6ded7c423d1735cc7254e7d94820dfbed105e5b95fde8928c37622f8b6f3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:23:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,53 +68,57 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo Europeu
+- Bruxelas
 - CE Países
 - CECA
 - CEE
-- Denominação de Origem
+- Comércio
 - Comunidade Europeia
+- Concorrência
 - Contingentação
 - Convenção
-- Cooperação Financeira
-- Cooperação Técnica
-- Portugal
-- Concorrência
-- Euratom
-- Cooperação Policial
-- Pesca
-- Indústria
-- Livre Prestação de Serviços
-- Livre Circulação de Capitais
-- Livre Circulação de Mercadorias
-- Mercado Agrícola
-- Mercado de Capitais
-- Política Aduaneira
 - Cooperação Agrícola
 - Cooperação Cultural
 - Cooperação Económica
 - Cooperação Europeia
+- Cooperação Financeira
 - Cooperação Industrial
+- Cooperação Policial
 - Cooperação Política
+- Cooperação Técnica
+- Denominação de Origem
+- Euratom
+- Indústria
+- Livre Circulação de Capitais
+- Livre Circulação de Mercadorias
+- Livre Prestação de Serviços
+- Luxemburgo
+- Mercado Agrícola
+- Mercado de Capitais
+- Pesca
+- Política Aduaneira
+- Portugal
 - Produto Têxtil
 - Produtos de Pesca
-- Comércio
-- Bruxelas
-- Luxemburgo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/16-b/1997/04/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/16-b/1997/04/09/p/dre
+- type: cites
+  target: pt:dre:224387:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:23:45Z'
   warnings: []
   errors: []
 ---
@@ -123,16 +127,16 @@ validation:
 
 de 9 de Abril
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo Europeu Que Cria Uma Associação entre as Comunidades Europeias e os Seus Estados Membros, por um lado, e a República da Letónia, por outro, e respectivos anexos e protocolos, bem como a Acta Final, com as declarações, assinado no Luxemburgo em 12 de Junho de 1995, aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 16-B/97](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-b-1997-224387), em 11 de Outubro de 1996.
 
-**Assinado em 7 de Fevereiro de 1997.**
+Assinado em 7 de Fevereiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Fevereiro de 1997.**
+Referendado em 14 de Fevereiro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/176/1999/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/176-1999-426767
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T04:30:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd8b8e1131c2cbabbbb2a4783422a3e8b7349e02f1d2adf8d697d3408545f5dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab47a86dc5a2218f4e31143dfcebb7c12dec281a1b6689e4037988d4b1aaf485
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:30:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Navegação Aérea
+- Aviação Civil Internacional
 - Chicago
 - Convenção
-- Portugal
-- Aviação Civil Internacional
 - Macau
 - Montreal
+- Navegação Aérea
 - Organização Internacional da Aviação Civil
+- Portugal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/47/1997/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/47/1997/09/03/p/dre
+- type: cites
+  target: pt:dre:641136:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:30:48Z'
   warnings: []
   errors: []
 ---
@@ -99,14 +103,14 @@ validation:
 
 de 5 de Agosto
 
-**O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:
 
 É estendida ao território de Macau, nos mesmos termos em que a ele está vinculado o Estado Português, o Protocolo Relativo a Uma Emenda à Alínea a) do Artigo 50.º da Convenção sobre Aviação Civil Internacional, adoptado em 26 de Outubro de 1990, aprovado pelo [Decreto n.º 47/97](https://diariodarepublica.pt/dr/detalhe/decreto/47-1997-641136), de 3 de Setembro, cujo texto foi publicado no Diário da República, 1.ª série, de 3 de Setembro de 1997.
 
 Foram ouvidos os órgãos de governo próprios do território de Macau.
 
-**Assinado em 28 de Julho de 1999.**
+Assinado em 28 de Julho de 1999.
 
-**Publique-se no Boletim Oficial de Macau, em conjunto com o referido decreto de aprovação e texto da Convenção.**
+Publique-se no Boletim Oficial de Macau, em conjunto com o referido decreto de aprovação e texto da Convenção.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

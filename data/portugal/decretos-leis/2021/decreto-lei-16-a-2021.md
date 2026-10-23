@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 39/2021, 1º Suplemento, Série I de 2021-02-25
   number: '39'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 11-(2) a 11-(37)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/03901/0000200037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/16-a/2021/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-a-2021-158316443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 453b001e68cfa522f87ca5f7baacdf864a9d4912bc5ae5d3ccc5bd98949301f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce5955b6695008cc7546b981ae748cba5789635a227852a6d8affe70fa8067ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,35 +68,35 @@ reuse:
 subjects:
 - Actualização de Pensões
 - Acumulação de Pensões e Remunerações
-- Tempo de Serviço
-- Instituição de Crédito
-- Modernização Administrativa
 - Cálculo de Pensões
 - Centro Nacional de Pensões
 - Comunicações Eletrónicas
-- Sistema de Verificação de Incapacidades
 - Conta Bancária
 - Contribuições da Segurança Social
 - Deferimento Tácito
-- Pagamento
 - IAS
+- Incapacidade Física
+- Instituição de Crédito
 - Junta Médica
-- Programa Simplex
+- Modernização Administrativa
 - Notificação
-- Reforma Antecipada
+- Pagamento
 - Pensão de Invalidez
 - Pensão de Sobrevivência
 - Pensão de Velhice
+- Pensão na Hora
 - Pensionista
 - Pensões
 - Prestações da Segurança Social
-- Incapacidade Física
+- Programa Simplex
 - Proteção Social
+- Reforma Antecipada
 - Reformado
 - Regime Geral da Segurança Social
 - Regime Jurídico
 - Segurança Social
-- Pensão na Hora
+- Sistema de Verificação de Incapacidades
+- Tempo de Serviço
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2016/03/
@@ -138,16 +138,128 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108269606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116417932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117503935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122572388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66147743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72997147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73803671:por
+  label: null
+  source: null
 article_structure:
-  article_count: 132
+  article_count: 125
   section_count: 35
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:53Z'
   warnings: []
   errors: []
 ---
@@ -226,7 +338,9 @@ f) [Anterior alínea e).]
 
 2 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -242,7 +356,9 @@ f) [Anterior alínea e).]
 
 7 - A revalorização das remunerações nos anos seguintes àqueles em que se verifique o disposto no número anterior é deduzida dos efeitos da desvalorização ocorrida, até que esta seja compensada.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
@@ -252,7 +368,9 @@ a) A perda do direito à pensão durante o correspondente período, sem prejuíz
 
 b) A avaliação da incapacidade pelo serviço de verificação de incapacidades permanente competente, no prazo máximo de 30 dias a contar da data em que a entidade gestora das pensões tomou conhecimento da situação de acumulação.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - ...
 
@@ -262,13 +380,17 @@ b) A avaliação da incapacidade pelo serviço de verificação de incapacidades
 
 4 - A pensão provisória de invalidez pode ser atribuída de forma automática com base nos elementos que constam do sistema de informação da segurança social.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - A pensão provisória de velhice pode ser atribuída de forma automática com base nos elementos que constam do sistema de informação da segurança social.
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 1 - ...
 
@@ -282,7 +404,9 @@ b) A avaliação da incapacidade pelo serviço de verificação de incapacidades
 
 6 - Na situação prevista no número anterior, caso já tenham sido recebidos montantes a título de pensão, a desistência só produz efeitos após a sua restituição, o que deve ocorrer no prazo máximo de 30 dias a contar da data da notificação prevista no n.º 3.
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - ...
 
@@ -292,7 +416,9 @@ b) A avaliação da incapacidade pelo serviço de verificação de incapacidades
 
 4 - A notificação a que se refere o n.º 2 pode ser efetuada através do sistema de notificações eletrónicas da segurança social sempre que o requerimento tenha sido entregue através da segurança social direta.
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -332,15 +458,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de fevereiro de 2021. - António Luís Santos da Costa - António Mendonça Mendes - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 23 de fevereiro de 2021.**
+Promulgado em 23 de fevereiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 24 de fevereiro de 2021.**
+Referendado em 24 de fevereiro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -514,7 +640,7 @@ e) Regime de antecipação da pensão de velhice nas situações de desemprego i
 
 3 - Após 2014 a idade normal de acesso à pensão de velhice varia em função da evolução da esperança média de vida aos 65 anos de idade, e corresponde à idade normal de acesso à pensão de velhice em 2014 acrescida do número de meses apurados pela aplicação da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/02/03901/0000200037.pdf))](https://files.diariodarepublica.pt/1s/2021/02/03901/0000200037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/02/03901/0000200037.pdf)
 
 4 - Para efeitos da aplicação da fórmula referida no número anterior, entende-se por:
 
@@ -1454,16 +1580,18 @@ O presente decreto-lei entra em vigor no 1.º dia útil do mês seguinte ao da s
 
 (a que se refere o n.º 1 do artigo 31.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/02/03901/0000200037.pdf))](https://files.diariodarepublica.pt/1s/2021/02/03901/0000200037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/02/03901/0000200037.pdf)
 
 ## ANEXO II — Taxa mensal de bonificação
 
 (a que se refere o n.º 4 do artigo 37.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/02/03901/0000200037.pdf))](https://files.diariodarepublica.pt/1s/2021/02/03901/0000200037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/02/03901/0000200037.pdf)
 
 ## ANEXO III — Limites da acumulação da pensão de invalidez relativa com rendimentos de trabalho
 
 (a que se refere o n.º 2 do artigo 59.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/02/03901/0000200037.pdf))](https://files.diariodarepublica.pt/1s/2021/02/03901/0000200037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/02/03901/0000200037.pdf)
+
+114011082

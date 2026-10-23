@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 142/1987, 1º Suplemento, Série I de 1987-06-24
   number: '142'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2412-(2) a 2412-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/06/14201/00020003.pdf
 entry_into_force_dates: []
@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/52-a-1987-647276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T07:38:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e80b4b0247ed67d73976ea5b215b099fa88ff8a6601b5928f279250fc0d5e44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03ffbf42fd5f77d74c8c9007ac4c47d914e210ab8ddb3ac6e9d1676ce53c218d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:38:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Construção Civil
+- Edifício Público
+- Financiamento
+- Junta de Freguesia
+relationships:
+- type: cites
+  target: pt:dre:627070:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:38:04Z'
   warnings: []
   errors: []
 ---
@@ -120,6 +128,6 @@ d) No caso de o subsídio se destinar à aquisição de edifício para sede da j
 
 Ministério do Plano e da Administração do Território, 17 de Junho de 1987. - O Ministro do Plano e da Administração do Território, Luís Francisco Valente de Oliveira.
 
-## Anexo a que se refere o n.º 1 do Despacho Normativo n.º 52-A/87
+Anexo a que se refere o n.º 1 do Despacho Normativo n.º 52-A/87
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/06/14201/00020003.pdf))](https://files.diariodarepublica.pt/1s/1987/06/14201/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/14201/00020003.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/60/2007/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7851d478a2ed1bb89ba615620a1aeafd73b97f7ff6db01f290b9cf8d397d814a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0cf02f70c62d80a5ba1839e14ebd413be728a5e2eb945bad1592e00192b6f60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica
-- Formação Profissional
 - Ensino Médico
-- Sistema Retributivo
+- Formação Profissional
 - Internato Complementar
 - Internato Geral
 - Internato Médico
 - Licenciatura
+- Médico
 - Regime de Exclusividade
 - Regime Jurídico
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:67250272:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterado o art. 49º do Dec Lei 555/99, de 16-Dez, na redacção do presente do diploma, pelo DEC LEI.116/2008.04.07.2008.MJ,\
+    \ DR.IS [128] de 04.07.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:602072:por
+  label: "Alterados os arts. 2º, 5º, 6º, 7º, 8º, 10º, 11º, 12º, 13º, 15º, 16º, 17º, 18º, 19º, 23º e 25º, e revogados o nº\
+    \ 2 do art. 7º, o nº 11 do art. 12º, os nºs 2 e 5 do art. 13º, o art. 14º e o nº 4 do art. 16º do Dec Lei 203/2004 de\
+    \ 18-Ago, com a redacção conferida no presente diploma, pelo DEC LEI.45/2009.13.02.2009.MS, DR.IS [31] de 13.02.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-2009-602072
+  date: '2009-02-13'
+- type: amended_by
+  target: pt:dre:493010:por
+  label: "Alterado o art. 23º do Dec Lei 203/2004 de 18-Ago, com a redacção constante do presente diploma, pelo DEC LEI.177/2009.04.08.2009.MS,\
+    \ DR.IS [149] de 04.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-2009-493010
+  date: '2009-08-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/2005/01/06/p/dre
   label: null
@@ -114,16 +134,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/183/2006/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/183/2006/02/22/p/dre
+- type: cites
+  target: pt:dre:142516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676200:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67250272:por
+  label: Revogado o Dec Lei 203/2004, de 18-ago, na redação do presente diploma, pelo(a) Decreto-Lei n.º 86/2015 - Diário
+    da República n.º 98/2015, Série I de 2015-05-21, sem prejuízo do n.º 3 do art. 35.º e do n.º 2 do art. 36.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-2015-67250272
+  date: '2015-05-21'
 article_structure:
-  article_count: 56
+  article_count: 37
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:06Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +232,9 @@ Os artigos 2.º, 4.º, 5.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º, 13.º, 14.º
 
 2 - Sem prejuízo do disposto no número anterior, o exercício autónomo da medicina é reconhecido a partir da conclusão do 2.º ano de formação do internato médico.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -178,7 +246,9 @@ Os artigos 2.º, 4.º, 5.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º, 13.º, 14.º
 
 5 - (Revogado.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os médicos do internato médico devem ter acesso a programas de investigação clínica, em termos a definir por portaria do Ministro da Saúde.
 
@@ -188,19 +258,25 @@ Os artigos 2.º, 4.º, 5.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º, 13.º, 14.º
 
 4 - A realização dos programas de investigação a que se refere o número anterior não prejudica a frequência do internato médico, podendo ocorrer interpolada ou concomitantemente, reflectindo-se no prolongamento do internato médico, de modo a não pôr em causa a obtenção dos conhecimentos e aptidões inerentes ao exercício especializado para o qual o respectivo internato habilita.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
 2 - O Ministério da Saúde exerce as suas atribuições através dos serviços e estabelecimentos de saúde e dos órgãos do internato médico, sob a coordenação da Secretaria-Geral do Ministério da Saúde, e com a colaboração da Ordem dos Médicos, de acordo com o previsto no presente diploma e no Regulamento do Internato Médico.
 
-###### Artigo 7.º — Participação das Regiões Autónomas e das administrações regionais de saúde
+Artigo 7.º
+
+Participação das Regiões Autónomas e das administrações regionais de saúde
 
 1 - As Regiões Autónomas dos Açores e da Madeira e as administrações regionais de saúde (ARS) participam, através dos órgãos próprios, na definição das necessidades nacionais de pessoal médico, no âmbito das suas atribuições.
 
 2 - Compete às Regiões Autónomas dos Açores e da Madeira e às ARS a celebração dos contratos administrativos de provimento e a nomeação em regime de comissão de serviço extraordinária dos internos colocados em estabelecimentos públicos com natureza empresarial, com contrato de gestão ou em regime de convenção, em estabelecimentos do sector social e privados ou em hospitais sociedades anónimas de capitais exclusivamente públicos.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -228,7 +304,9 @@ d) As coordenações do internato médico, adiante designadas por coordenações
 
 9 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Os programas de formação relativos ao ano comum e às áreas profissionais de especialização do internato médico são aprovados por portaria do Ministro da Saúde, sob proposta da Ordem dos Médicos, ouvido o Conselho Nacional.
 
@@ -236,7 +314,9 @@ d) As coordenações do internato médico, adiante designadas por coordenações
 
 3 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O internato médico realiza-se em estabelecimentos públicos, com ou sem natureza empresarial, com contrato de gestão ou em regime de convenção, do sector social, privados, em hospitais sociedades anónimas de capitais exclusivamente públicos, reconhecidos como idóneos para o efeito e de acordo com a sua capacidade formativa.
 
@@ -252,7 +332,9 @@ d) As coordenações do internato médico, adiante designadas por coordenações
 
 7 - ...
 
-###### Artigo 12.º — Admissão ao internato médico
+Artigo 12.º
+
+Admissão ao internato médico
 
 1 - A admissão ao internato médico, a que podem candidatar-se os médicos, implica a sujeição a uma prova de seriação, de âmbito nacional, a realizar no 4.º trimestre de cada ano civil, organizada pela Secretaria-Geral do Ministério da Saúde, de acordo com as regras estabelecidas no Regulamento do Internato Médico e no respectivo aviso de abertura.
 
@@ -284,7 +366,9 @@ d) As coordenações do internato médico, adiante designadas por coordenações
 
 15 - Para efeitos do disposto nos n.os 6 e 9, as Regiões Autónomas participam na fixação das vagas, sua natureza e distribuição, através de proposta a apresentar à Secretaria-Geral do Ministério da Saúde.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -298,13 +382,17 @@ d) As coordenações do internato médico, adiante designadas por coordenações
 
 6 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O contrato administrativo de provimento e a comissão de serviço extraordinária, sem prejuízo do disposto nos artigos 5.º, 24.º e 25.º, têm a duração estabelecida no programa de formação da respectiva área profissional de especialização, incluindo as repetições previstas nos mesmos artigos, sendo essa duração prorrogada automaticamente até à conclusão do processo de colocação dos médicos em estabelecimentos carenciados.
 
 2 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -316,7 +404,9 @@ d) As coordenações do internato médico, adiante designadas por coordenações
 
 5 - A não apresentação dos internos é comunicada ao secretário-geral do Ministério da Saúde.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -328,7 +418,9 @@ d) As coordenações do internato médico, adiante designadas por coordenações
 
 5 - Aos médicos internos que tenham acesso a programas de doutoramento em investigação médica pode ser concedido o regime de trabalho de tempo parcial, nos termos previstos na lei geral aplicável à função pública.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -338,7 +430,9 @@ d) As coordenações do internato médico, adiante designadas por coordenações
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 18.º — Transferências
+Artigo 18.º
+
+Transferências
 
 1 - O internato médico deve ser concluído, sem prejuízo do disposto nos números seguintes, no estabelecimento ou serviço de saúde em que os internos são colocados por concurso.
 
@@ -352,7 +446,9 @@ d) As coordenações do internato médico, adiante designadas por coordenações
 
 6 - As transferências a que se referem os números anteriores são autorizadas por despacho fundamentado do secretário-geral do Ministério da Saúde, sendo o médico interno colocado em estabelecimento indicado pela ARS ou pelos órgãos próprios das Regiões Autónomas respectivas, tendo em conta a proposta formulada pelo Conselho Nacional, atentas as capacidades formativas existentes e a proximidade do estabelecimento de colocação.
 
-###### Artigo 19.º — Mudança de área profissional
+Artigo 19.º
+
+Mudança de área profissional
 
 1 - Os médicos internos que pretendam mudar de área profissional podem candidatar-se a nova prova nacional de seriação para acesso ao internato médico, de acordo com as regras previstas no respectivo Regulamento.
 
@@ -366,7 +462,9 @@ d) As coordenações do internato médico, adiante designadas por coordenações
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -374,13 +472,17 @@ d) As coordenações do internato médico, adiante designadas por coordenações
 
 3 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - No caso de falta de aproveitamento em estágio ou parte do programa sujeito a avaliação contínua, o período de formação avaliado deve ser repetido ou compensado nos termos do Regulamento do Internato Médico.
 
 2 - As faltas motivadas por doença, maternidade, paternidade, prestação de serviço militar ou cívico, ou motivo de força maior, devidamente comprovadas perante a respectiva coordenação ou direcção do internato e por elas justificadas, devem ser compensadas nos termos do Regulamento do Internato Médico.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - A falta de aproveitamento nas avaliações previstas no n.º 1 do artigo 22.º, após as repetições e compensações admitidas nos termos do artigo anterior, pode determinar a cessação do contrato administrativo de provimento ou da comissão de serviço extraordinária e a consequente desvinculação do médico interno, nos termos previstos no Regulamento do Internato Médico.
 
@@ -392,7 +494,9 @@ d) As coordenações do internato médico, adiante designadas por coordenações
 
 5 - Nos casos de cessação do contrato administrativo de provimento ou da comissão de serviço extraordinária, a avaliação final pode ser realizada posteriormente, nos termos do Regulamento do Internato Médico.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -422,15 +526,15 @@ b) A alínea a) do n.º 1 do artigo 2.º, o n.º 2 do artigo 3.º e o n.º 1 do 
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 23 de Fevereiro de 2007.**
+Promulgado em 23 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 26 de Fevereiro de 2007.**
+Referendado em 26 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 

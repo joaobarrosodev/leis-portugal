@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/328-1973-422227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T04:04:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2194619b60e0538b3b6b65cc4a3a81f0d9653fe5f6f8561fcd4368369d824960
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d21826f5421aa94fed9887102b0be5032c96a65333848f8fba9bf18c5e01724
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:04:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:146179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447281:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 26
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:04:08Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +99,15 @@ Que seja tornado extensivo às províncias ultramarinas o Regulamento das Escola
 
 ### CAPÍTULO I — Das escolas e suas finalidades
 
-###### Artigo 1.º As Escolas de Instrutores de Educação Física de Luanda e de Lourenço Marques, criadas pela [Portaria n.º 655/70](https://diariodarepublica.pt/dr/detalhe/portaria/655-1970-146179), de 23 de Dezembro, são estabelecimentos de ensino público, de grau médio, que ficam na dependência do Conselho Provincial de Educação Física da respectiva província.
+Artigo 1.º As Escolas de Instrutores de Educação Física de Luanda e de Lourenço Marques, criadas pela [Portaria n.º 655/70](https://diariodarepublica.pt/dr/detalhe/portaria/655-1970-146179), de 23 de Dezembro, são estabelecimentos de ensino público, de grau médio, que ficam na dependência do Conselho Provincial de Educação Física da respectiva província.
 
-###### Art. 2.º - 1. As Escolas têm por finalidade a formação de agentes de ensino que, sob a orientação de diplomados com o curso de professores do Instituto Nacional de Educação Física, possam exercer o magistério da respectiva especialidade em estabelecimentos de ensino público ou particular ou em organismos onde se pratiquem actividades gimnodesportivas.
+Art. 2.º - 1. As Escolas têm por finalidade a formação de agentes de ensino que, sob a orientação de diplomados com o curso de professores do Instituto Nacional de Educação Física, possam exercer o magistério da respectiva especialidade em estabelecimentos de ensino público ou particular ou em organismos onde se pratiquem actividades gimnodesportivas.
 
 2. Os indivíduos diplomados por qualquer das Escolas têm direito ao título profissional de instrutores de educação física.
 
 ### CAPÍTULO II — Organização do ensino
 
-###### Art. 3.º - 1. O curso de instrutores de educação física tem a duração de dois anos escolares.
+Art. 3.º - 1. O curso de instrutores de educação física tem a duração de dois anos escolares.
 
 2. O ano lectivo começa em 1 de Outubro e termina em 16 de Junho.
 
@@ -109,13 +117,13 @@ Que seja tornado extensivo às províncias ultramarinas o Regulamento das Escola
 
 5. Os cursos de especialização em modalidades gimnodesportivas e os cursos para formação de técnicos desportivos terão a duração que as Escolas determinarem.
 
-###### Art. 4.º - 1. O primeiro ano de escolaridade destina-se à preparação teórica e prática da matéria correspondente às respectivas disciplinas.
+Art. 4.º - 1. O primeiro ano de escolaridade destina-se à preparação teórica e prática da matéria correspondente às respectivas disciplinas.
 
 Fica reservada para o segundo ano, além da continuidade da preparação anterior, toda a actividade de prática pedagógica a realizar nas próprias aulas e em regime de estágio pedagógico.
 
 2. Para a programação das actividades de prática pedagógica as Escolas podem solicitar aos serviços competentes da Secretaria Provincial de Educação a indispensável colaboração.
 
-###### Art. 5.º - 1. O curso de instrutores de educação física compreende o seguinte conjunto de disciplinas:
+Art. 5.º - 1. O curso de instrutores de educação física compreende o seguinte conjunto de disciplinas:
 
 I - Teoria da educação física:
 
@@ -163,15 +171,15 @@ Estágio pedagógico.
 
 4. No dia de abertura das aulas deve estar fixado o programa de cada disciplina.
 
-###### Art. 6.º Desde que o número de alunos e alunas o justifique, a direcção da Escola, mediante autorização do Governador-Geral, pode organizar as turmas das aulas práticas sem distinção de sexos.
+Art. 6.º Desde que o número de alunos e alunas o justifique, a direcção da Escola, mediante autorização do Governador-Geral, pode organizar as turmas das aulas práticas sem distinção de sexos.
 
-###### Art. 7.º - 1. O curso de instrutores de educação física funciona em regime de classe, só se considerando aprovados, em qualquer ano, os alunos que obtiverem aproveitamento em todas as disciplinas, quer teóricas, quer práticas.
+Art. 7.º - 1. O curso de instrutores de educação física funciona em regime de classe, só se considerando aprovados, em qualquer ano, os alunos que obtiverem aproveitamento em todas as disciplinas, quer teóricas, quer práticas.
 
 2. Considera-se aproveitamento a obtenção de nota não inferior a 10 valores.
 
-###### Art. 8.º Nenhum aluno poderá frequentar mais de três vezes qualquer ano do curso, salvo, em caso de doença devidamente comprovada pelos serviços médicos do Conselho Provincial de Educação Física.
+Art. 8.º Nenhum aluno poderá frequentar mais de três vezes qualquer ano do curso, salvo, em caso de doença devidamente comprovada pelos serviços médicos do Conselho Provincial de Educação Física.
 
-###### Art. 9.º - 1. Funcionarão durante todo o ano lectivo, ou durante parte dele, em complemento do curso normal, cursos de especialização nas várias modalidades desportivas, integradas no curso de instrutores de educação física, bem como cursos de formação de técnicos desportivos, monitores e treinadores das modalidades desportivas, quando for considerado conveniente.
+Art. 9.º - 1. Funcionarão durante todo o ano lectivo, ou durante parte dele, em complemento do curso normal, cursos de especialização nas várias modalidades desportivas, integradas no curso de instrutores de educação física, bem como cursos de formação de técnicos desportivos, monitores e treinadores das modalidades desportivas, quando for considerado conveniente.
 
 2. Os cursos de especialização são exclusivamente destinados aos alunos do 2.º ano e a diplomados com o curso de instrutores de educação física.
 
@@ -185,17 +193,19 @@ Estágio pedagógico.
 
 7. As modalidades desportivas que constituirão o objecto dos cursos de especialização e de formação de técnicos desportivos serão definidas pelo Conselho Provincial de Educação Física, ouvida a direcção das Escolas, e deverão corresponder às necessidades de formação de agentes de ensino reconhecidas pelo Conselho Provincial de Educação Física de cada província.
 
-###### Art. 10.º - 1. No início do segundo ano, os alunos farão a sua inscrição em dois cursos de especialização, escolhendo, de preferência, um desporto colectivo e um desporto individual.
+Art. 10.º - 1. No início do segundo ano, os alunos farão a sua inscrição em dois cursos de especialização, escolhendo, de preferência, um desporto colectivo e um desporto individual.
 
 2. A realização dos cursos de formação de técnicos desportivos será sempre precedida de aviso público com um mínimo de trinta dias de antecedência.
 
-### CAPÍTULO III — SECÇÃO I
+### CAPÍTULO III
+
+#### SECÇÃO I
 
 Inscrições para o exame de admissão
 
-###### Art. 11.º Serão admitidos ao exame de admissão os candidatos de qualquer sexo que possuam o 5.º ano dos liceus ou habilitação considerada equivalente, para este fim especial, pelo Ministro da Educação Nacional, ouvida a Junta Nacional da Educação.
+Art. 11.º Serão admitidos ao exame de admissão os candidatos de qualquer sexo que possuam o 5.º ano dos liceus ou habilitação considerada equivalente, para este fim especial, pelo Ministro da Educação Nacional, ouvida a Junta Nacional da Educação.
 
-###### Art. 12.º A inscrição para o exame de admissão é feita no período de 15 de Agosto a 9 de Setembro, mediante a apresentação dos seguintes documentos:
+Art. 12.º A inscrição para o exame de admissão é feita no período de 15 de Agosto a 9 de Setembro, mediante a apresentação dos seguintes documentos:
 
 a) Requerimento, em papel selado, dirigido ao director da Escola, a solicitar a admissão ao respectivo exame;
 
@@ -205,7 +215,7 @@ c) Bilhete de identidade.
 
 #### SECÇÃO II — Exames de admissão
 
-###### Art. 13.º - 1. Os exames de admissão efectuam-se no período de 10 a 19 de Setembro e constam de exame médico e morfológico, de uma prova de aptidão literária e de uma prova de aptidão física.
+Art. 13.º - 1. Os exames de admissão efectuam-se no período de 10 a 19 de Setembro e constam de exame médico e morfológico, de uma prova de aptidão literária e de uma prova de aptidão física.
 
 2. O exame médico e morfológico será feito no Centro de Medicina Desportiva, por uma comissão constituída por um médico do Centro e um professor da respectiva Escola. Os candidatos deverão satisfazer as condições seguintes:
 
@@ -301,7 +311,7 @@ c) Prova de piscina:
 
 5. Por despacho do Governador-Geral, podem ser dispensados da prova de aptidão física os candidatos que à data de 31 de Julho de 1972 tenham exercido o lugar de professor eventual de Educação Física em estabelecimento de ensino secundário oficial durante, pelo menos, cinco anos, com informação de bom e efectivo serviço.
 
-###### Art. 14.º - 1. Serão aprovados os candidatos que:
+Art. 14.º - 1. Serão aprovados os candidatos que:
 
 a) Sejam considerados aptos no exame médico e morfológico;
 
@@ -317,21 +327,23 @@ c) Realizem nas provas de campo, pelo menos, os tempos e marcas indicados, a que
 
 5. A classificação obtida no exame de admissão será tomada em consideração para atribuição de bolsas de estudo ou de outras regalias, nomeadamente, e, entre outras, as que respeitem à alimentação, alojamento e material didáctico.
 
-###### Art. 15.º - 1. As provas de admissão serão apreciadas por júris-nomeados pelo Conselho Provincial de Educação Física, sob proposta da direcção da Escola.
+Art. 15.º - 1. As provas de admissão serão apreciadas por júris-nomeados pelo Conselho Provincial de Educação Física, sob proposta da direcção da Escola.
 
 2. Os exames de admissão poderão ser realizados nas sedes das delegações dos Conselhos Provinciais de Educação Física sempre que neles se verifiquem inscrições de candidatos em número que justifique.
 
-### CAPÍTULO IV — SECÇÃO I
+### CAPÍTULO IV
+
+#### SECÇÃO I
 
 Matrículas
 
-###### Art. 16.º Serão admitidos a frequentar o curso de instrutores de educação física os candidatos que satisfaçam às seguintes condições:
+Art. 16.º Serão admitidos a frequentar o curso de instrutores de educação física os candidatos que satisfaçam às seguintes condições:
 
 a) Terem sido aprovados em exame de admissão;
 
 b) Terem idoneidade moral e cívica.
 
-###### Art. 17.º - 1. As matrículas efectuam-se de 20 a 27 de Setembro, mediante a apresentação dos seguintes documentos:
+Art. 17.º - 1. As matrículas efectuam-se de 20 a 27 de Setembro, mediante a apresentação dos seguintes documentos:
 
 a) Requerimento, em papel selado, dirigido ao director da Escola, a solicitar a matrícula;
 
@@ -347,7 +359,7 @@ e) Quatro fotografias tipo passe.
 
 #### SECÇÃO II — Transferências
 
-###### Art. 18.º - 1. É permitida a transferência de alunos de uma para outra Escola de Instrutores de Educação Física até final dó mês de Janeiro.
+Art. 18.º - 1. É permitida a transferência de alunos de uma para outra Escola de Instrutores de Educação Física até final dó mês de Janeiro.
 
 2. Decorrido o prazo referido no número anterior, as transferências processar-se-ão da forma seguinte:
 
@@ -363,23 +375,23 @@ c) De escolas da metrópole para o ultramar:
 
 por despacho do director-geral de Educação, do Ministério do Ultramar.
 
-###### Art. 19.º O requerimento de transferência, assinado pelo aluno, será dirigido ao director da Escola em que se encontra matriculado.
+Art. 19.º O requerimento de transferência, assinado pelo aluno, será dirigido ao director da Escola em que se encontra matriculado.
 
-###### Art. 20.º - 1. Deferida a transferência, o director da Escola onde o aluno está matriculado enviará imediatamente ao director da outra Escola uma nota discriminativa da frequência escolar do aluno transferido e determinará que este seja notificado do deferimento da transferência.
+Art. 20.º - 1. Deferida a transferência, o director da Escola onde o aluno está matriculado enviará imediatamente ao director da outra Escola uma nota discriminativa da frequência escolar do aluno transferido e determinará que este seja notificado do deferimento da transferência.
 
 2. A notificação prevista no número anterior será feita por termo no processo de matrícula, entregando-se ao aluno nota da notificação, ou por carta registada com aviso de recepção, caso em que a notificação se considera feita na data da recepção dessa carta.
 
 3. Efectuada a notificação, será dado imediato conhecimento da respectiva data à Escola para onde o aluno foi transferido.
 
-###### Art. 21.º O aluno apresentar-se-á, na Escola para onde foi transferido, no prazo de quarenta e oito horas, a contar da data de chegada à localidade da Escola, marcando-se-lhe faltas depois desse prazo, se não se tiver apresentado.
+Art. 21.º O aluno apresentar-se-á, na Escola para onde foi transferido, no prazo de quarenta e oito horas, a contar da data de chegada à localidade da Escola, marcando-se-lhe faltas depois desse prazo, se não se tiver apresentado.
 
-###### Art. 22.º O chefe da secretaria da Escola donde o aluno foi transferido anotará no termo de matrícula o despacho que autorizou a transferência e a data da sua notificação; e o chefe da secretaria da Escola para onde o aluno é transferido fará lavrar termo de matrícula onde anotará a proveniência do aluno, o despacho que autorizou a transferência e a data da respectiva notificação.
+Art. 22.º O chefe da secretaria da Escola donde o aluno foi transferido anotará no termo de matrícula o despacho que autorizou a transferência e a data da sua notificação; e o chefe da secretaria da Escola para onde o aluno é transferido fará lavrar termo de matrícula onde anotará a proveniência do aluno, o despacho que autorizou a transferência e a data da respectiva notificação.
 
-###### Art. 23.º Não é permitida a transferência de alunos que tenham processos disciplinares pendentes.
+Art. 23.º Não é permitida a transferência de alunos que tenham processos disciplinares pendentes.
 
 #### SECÇÃO III — Aproveitamento dos alunos
 
-###### Art. 24.º - 1. Durante cada ano lectivo serão dadas duas informações sobre o aproveitamento dos alunos em todas as disciplinas, obtidas segundo critério pessoal dos respectivos professores (testes, pontos escritos, interrogatórios, observações, etc.).
+Art. 24.º - 1. Durante cada ano lectivo serão dadas duas informações sobre o aproveitamento dos alunos em todas as disciplinas, obtidas segundo critério pessoal dos respectivos professores (testes, pontos escritos, interrogatórios, observações, etc.).
 
 2. A primeira informação, literal e expressa pelos índices classificativos de Deficiente, Suficiente e Bom, será afixada, publicamente, durante o mês de Fevereiro.
 
@@ -397,11 +409,11 @@ Poderão, no entanto, requerer exame para melhoria de nota, desde que o façam �
 
 #### SECÇÃO IV — Exames finais
 
-###### Art. 25.º Há duas épocas, para exames finais.
+Art. 25.º Há duas épocas, para exames finais.
 
 A primeira tem lugar no termo de cada ano lectivo, no período indicado no n.º 4 do artigo 3.º deste Regulamento. A segunda tem lugar no período compreendido entre os dias 10 e 25 do mês de Setembro.
 
-###### Art. 26.º - 1. Os exames finais são realizados nos seguintes termos:
+Art. 26.º - 1. Os exames finais são realizados nos seguintes termos:
 
 a) Grupo de disciplinas de teoria da educação física:
 
@@ -419,7 +431,7 @@ Prova teórico-prática a estabelecer pelos professores respectivos.
 
 4. Não haverá exame final da disciplina de Educação Musical Aplicada.
 
-###### Art. 27.º Serão admitidos a exames finais da segunda época os alunos:
+Art. 27.º Serão admitidos a exames finais da segunda época os alunos:
 
 a) Que na primeira época não efectuaram exames finais por motivo de doença, devidamente comprovada pelos serviços médicos competentes;
 
@@ -427,13 +439,13 @@ b) Que, tendo realizado na primeira época exame final de todas as disciplinas, 
 
 #### SECÇÃO V — Classificação dos alunos
 
-###### Art. 28.º A classificação dos alunos por disciplina será obtida de harmonia com os critérios seguintes:
+Art. 28.º A classificação dos alunos por disciplina será obtida de harmonia com os critérios seguintes:
 
 a) Os alunos dispensados de exame final serão classificados, nas respectivas disciplinas, pela nota da informação final;
 
 b) Os alunos que efectuarem exames finais serão classificados, nas respectivas disciplinas, pela nota resultante da média aritmética das notas obtidas na prova escrita e na prova oral; pela nota obtida na prova escrita, quando dispensados da prova oral, e pela nota obtida na prova teórico-prática, nas disciplinas de índole prática.
 
-###### Art. 29.º - 1. A classificação dos alunos nos dois anos do curso e a classificação final serão obtidas de harmonia com o disposto nos números seguintes.
+Art. 29.º - 1. A classificação dos alunos nos dois anos do curso e a classificação final serão obtidas de harmonia com o disposto nos números seguintes.
 
 2. A nota de passagem do 1.º para o 2.º ano será a resultante da média aritmética das notas obtidas nas diferentes disciplinas.
 
@@ -441,39 +453,41 @@ b) Os alunos que efectuarem exames finais serão classificados, nas respectivas 
 
 4. A classificação final do curso será a que resultar da aplicação da fórmula ((A + B/2) + C/2), em que A e B representam as notas do 1.º e 2.º anos, respectivamente, e em que C representa a nota obtida no estágio pedagógico.
 
-###### Art. 30.º Transitarão de ano ou concluirão o curso, com as classificações obtidas conforme o disposto no artigo anterior, os alunos que obtiverem aproveitamento em todas as disciplinas, considerando-se aproveitamento a nota mínima de 10 valores.
+Art. 30.º Transitarão de ano ou concluirão o curso, com as classificações obtidas conforme o disposto no artigo anterior, os alunos que obtiverem aproveitamento em todas as disciplinas, considerando-se aproveitamento a nota mínima de 10 valores.
 
-###### Art. 31.º - 1. A obtenção de nota inferior a 10 valores no estágio pedagógico impedirá o aluno de concluir o curso nesse ano lectivo.
+Art. 31.º - 1. A obtenção de nota inferior a 10 valores no estágio pedagógico impedirá o aluno de concluir o curso nesse ano lectivo.
 
 2. A repetição do estágio pedagógico terá de ser feita no ano lectivo imediato.
 
-###### Art. 32.º As provas orais dos exames finais das disciplinas do grupo de teoria da educação física e as provas teórico-práticas dos exames finais das disciplinas do grupo de prática gimnodesportiva serão prestadas perante júris constituídos por três professores designados pela direcção da Escola.
+Art. 32.º As provas orais dos exames finais das disciplinas do grupo de teoria da educação física e as provas teórico-práticas dos exames finais das disciplinas do grupo de prática gimnodesportiva serão prestadas perante júris constituídos por três professores designados pela direcção da Escola.
 
-### CAPÍTULO V — SECÇÃO I
+### CAPÍTULO V
+
+#### SECÇÃO I
 
 Frequência das aulas - Deveres dos alunos
 
-###### Art. 33.º As aulas e sessões devem começar e terminar às horas fixadas nos horários, sem tolerância nem interrupções.
+Art. 33.º As aulas e sessões devem começar e terminar às horas fixadas nos horários, sem tolerância nem interrupções.
 
-###### Art. 34.º Só é permitida a assistência às aulas ou sessões de pessoas estranhas quando devidamente autorizadas pela direcção da Escola, ouvidos os respectivos professores.
+Art. 34.º Só é permitida a assistência às aulas ou sessões de pessoas estranhas quando devidamente autorizadas pela direcção da Escola, ouvidos os respectivos professores.
 
-###### Art. 35.º - 1. Os alunos devem colaborar em todas as actividades escolares que lhes forem prescritas pela direcção da Escola e pelos professores.
+Art. 35.º - 1. Os alunos devem colaborar em todas as actividades escolares que lhes forem prescritas pela direcção da Escola e pelos professores.
 
 2. Os alunos devem comportar-se, nas aulas e fora delas, com o respeito devido a professores, colegas e funcionários, mantendo sempre, dentro e fora da Escola, o indispensável decoro.
 
 3. A qualidade de aluno da Escola é comprovada por cartão especial de modelo a aprovar pelo conselho escolar.
 
-###### Art. 36.º - 1. Haverá para cada professor um livro de ponto onde serão registados o sumário das lições e as faltas e presenças dos alunos.
+Art. 36.º - 1. Haverá para cada professor um livro de ponto onde serão registados o sumário das lições e as faltas e presenças dos alunos.
 
 2. As faltas dos alunos serão semanalmente transcritas, pelos serviços de secretaria, para o mapa geral de faltas de cada aluno.
 
 3. Se o professor não comparecer, não serão marcadas faltas aos alunos e a falta do professor será anotada pelo empregado no livro de ponto.
 
-###### Art. 37.º - 1. A recusa do aluno a qualquer lição ou exercício ou a sua comparência nas aulas ou sessões práticas sem o equipamento indispensável são equiparadas a falta de presença, salvo o caso de cabal explicação aceite pelo professor.
+Art. 37.º - 1. A recusa do aluno a qualquer lição ou exercício ou a sua comparência nas aulas ou sessões práticas sem o equipamento indispensável são equiparadas a falta de presença, salvo o caso de cabal explicação aceite pelo professor.
 
 2. A apresentação dos alunos nas aulas sem obediência aos princípios de higiene, decoro, dignidade e ética discente, exigíveis como futuros educadores, será igualmente equiparada a falta de presença.
 
-###### Art. 38.º - 1. Perdem o ano em todas as disciplinas os alunos que, em qualquer disciplina, dêem faltas que excedam três vezes o número respectivo de aulas semanais.
+Art. 38.º - 1. Perdem o ano em todas as disciplinas os alunos que, em qualquer disciplina, dêem faltas que excedam três vezes o número respectivo de aulas semanais.
 
 2. Para além daquele número, e até ao limite máximo de seis vezes o número respectivo de aulas semanais, as faltas excedentes poderão ser relevadas por deliberação do conselho escolar quando:
 
@@ -483,7 +497,7 @@ b) Tenham sido dadas por doença contraída na Escola ou resultante de actividad
 
 #### SECÇÃO II — Penas disciplinares
 
-###### Art. 39.º - 1. São as seguintes as penas disciplinares aplicáveis aos alunos por faltas praticadas durante as aulas ou fora delas:
+Art. 39.º - 1. São as seguintes as penas disciplinares aplicáveis aos alunos por faltas praticadas durante as aulas ou fora delas:
 
 a) Admoestação;
 
@@ -513,9 +527,9 @@ A exclusão da frequência das Escolas do ultramar e da metrópole é da compet�
 
 9. A aplicação da pena da alínea e) depende da organização de processo, nos termos do número anterior, o qual será enviado à Direcção-Geral de Educação, do Ministério do Ultramar, com o parecer do Conselho Provincial de Educação Física, podendo o director da Escola ordenar a suspensão da frequência do aluno até decisão definitiva.
 
-###### Art. 40.º Quando da aplicação de uma pena da competência do director resulte perda de ano, haverá recurso para o Governador-Geral.
+Art. 40.º Quando da aplicação de uma pena da competência do director resulte perda de ano, haverá recurso para o Governador-Geral.
 
-###### Art. 41.º - 1. É considerado infracção disciplinar qualquer acto ou omissão contrário aos deveres dos alunos.
+Art. 41.º - 1. É considerado infracção disciplinar qualquer acto ou omissão contrário aos deveres dos alunos.
 
 2. A graduação das penas disciplinares será feita segundo a gravidade das infracções, tendo sempre em vista o carácter educativo da acção disciplinar.
 
@@ -523,15 +537,15 @@ A exclusão da frequência das Escolas do ultramar e da metrópole é da compet�
 
 4. As faltas a aulas, a sessões ou a outras actividades escolares, dadas colectivamente, por meio de coligação, são sempre motivo de acção disciplinar.
 
-###### Art. 42.º Se algum aluno, por sua culpa ou negligência, e embora o facto não mereça sanção disciplinar, causar à Escola prejuízo material, é obrigado à competente indemnização, sob pena de ser ordenada a suspensão da frequência escolar.
+Art. 42.º Se algum aluno, por sua culpa ou negligência, e embora o facto não mereça sanção disciplinar, causar à Escola prejuízo material, é obrigado à competente indemnização, sob pena de ser ordenada a suspensão da frequência escolar.
 
-###### Art. 43.º Para as aulas das disciplinas do grupo de actividades gimnodesportivas é obrigatório, para todos os alunos, o uso do equipamento respectivo, oficializado pela direcção da Escola.
+Art. 43.º Para as aulas das disciplinas do grupo de actividades gimnodesportivas é obrigatório, para todos os alunos, o uso do equipamento respectivo, oficializado pela direcção da Escola.
 
 ### CAPÍTULO VI — Estágio pedagógico
 
 #### SECÇÃO I — Objectivos do estágio pedagógico
 
-###### Art. 44.º O estágio pedagógico é realizado durante todo o 2.º ano do curso, com os seguintes objectivos:
+Art. 44.º O estágio pedagógico é realizado durante todo o 2.º ano do curso, com os seguintes objectivos:
 
 a) Completar, no campo da prática pedagógica, os ensinamentos das aulas;
 
@@ -549,7 +563,7 @@ g) Fornecer possibilidades e elementos para a elaboração, por parte do aluno e
 
 #### SECÇÃO II — Condições do estágio pedagógico
 
-###### Art. 45.º - 1. O estágio pedagógico funcionará durante todo o ano lectivo e tem o seu início e o seu termo nas datas estabelecidas para os estabelecimentos de ensino onde aquele se realiza.
+Art. 45.º - 1. O estágio pedagógico funcionará durante todo o ano lectivo e tem o seu início e o seu termo nas datas estabelecidas para os estabelecimentos de ensino onde aquele se realiza.
 
 2. O estágio realiza-se em estabelecimentos de ensino, oficial ou particular, da localidade da área da Escola onde existam professores diplomados pelo Instituto Nacional de Educação Física, que desempenharão a função de metodólogos, e onde existam todas as condições consideradas necessárias para o efeito.
 
@@ -585,27 +599,27 @@ g) Fornecer possibilidades e elementos para a elaboração, por parte do aluno e
 
 ### CAPÍTULO VII — Plano de estudos
 
-###### Art. 46.º O plano de estudos do curso de instrutores de educação física compreende dois anos de escolaridade efectiva e tem a seguinte distribuição de disciplinas:
+Art. 46.º O plano de estudos do curso de instrutores de educação física compreende dois anos de escolaridade efectiva e tem a seguinte distribuição de disciplinas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/05/11000/07550767.pdf))](https://files.diariodarepublica.pt/1s/1973/05/11000/07550767.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/05/11000/07550767.pdf)
 
-###### Art. 47.º - 1. As aulas teóricas e práticas têm a duração efectiva de cinquenta minutos, devendo as primeiras incluir-se, sempre que possível, no horário da tarde e as segundas no horário da manhã.
+Art. 47.º - 1. As aulas teóricas e práticas têm a duração efectiva de cinquenta minutos, devendo as primeiras incluir-se, sempre que possível, no horário da tarde e as segundas no horário da manhã.
 
 2. Os tempos escolares sucessivos serão separados por intervalos de dez minutos.
 
 3. Os horários escolares serão afixados no mínimo de quarenta e oito horas antes do primeiro dia de aulas.
 
-###### Art. 48.º - 1. A Escola deverá organizar anualmente um programa de visitas de estudo e excursões a lugares de interesse cultural e científico para os alunos.
+Art. 48.º - 1. A Escola deverá organizar anualmente um programa de visitas de estudo e excursões a lugares de interesse cultural e científico para os alunos.
 
 2. O plano destas actividades será aprovado pelo conselho escolar de modo a não prejudicar o bom andamento das aulas.
 
 ### CAPÍTULO VIII — Direcção das Escolas
 
-###### Art. 49.º - 1. As Escolas terão um director, de preferência diplomado pelo Instituto Nacional de Educação Física, responsável pela sua orientação pedagógica e administrativa.
+Art. 49.º - 1. As Escolas terão um director, de preferência diplomado pelo Instituto Nacional de Educação Física, responsável pela sua orientação pedagógica e administrativa.
 
 2. O director da Escola é nomeado pelo Governador-Geral, sob proposta do Conselho Provincial de Educação Física.
 
-###### Art. 50.º - 1. O director é responsável pela regularidade de todos os serviços escolares e administrativos e, como tal, compete-lhe:
+Art. 50.º - 1. O director é responsável pela regularidade de todos os serviços escolares e administrativos e, como tal, compete-lhe:
 
 a) Representar a Escola em todos os actos e solenidades oficiais;
 
@@ -635,11 +649,11 @@ m) Tomar, em casos urgentes, as decisões que as circunstâncias reclamem, dando
 
 2. O director da Escola manterá estreita colaboração com o presidente do Conselho Provincial de Educação Física, com quem despacha.
 
-###### Art. 51.º O director da Escola será assistido por um subdirector e pelo conselho escolar, que é constituído por todos os professores, de qual quer categoria, que se encontrem em exercício na Escola.
+Art. 51.º O director da Escola será assistido por um subdirector e pelo conselho escolar, que é constituído por todos os professores, de qual quer categoria, que se encontrem em exercício na Escola.
 
-###### Art. 52.º Haverá em cada Escola um subdirector, que será nomeado pelo Governador-Geral, sob proposta do Conselho Provincial de Educação Física.
+Art. 52.º Haverá em cada Escola um subdirector, que será nomeado pelo Governador-Geral, sob proposta do Conselho Provincial de Educação Física.
 
-###### Art. 53.º - 1. Aos subdirectores compete:
+Art. 53.º - 1. Aos subdirectores compete:
 
 a) Substituir o director nas suas faltas ou impedimentos;
 
@@ -651,7 +665,7 @@ d) Outras funções determinadas pelo director.
 
 2. Nas suas faltas ou impedimentos o subdirector será substituído, no desempenho das suas funções, por um outro professor da Escola, designado pelo director.
 
-###### Art. 54.º - 1 O conselho escolar é constituído por todos os professores de qualquer categoria que se encontrem em exercício na Escola.
+Art. 54.º - 1 O conselho escolar é constituído por todos os professores de qualquer categoria que se encontrem em exercício na Escola.
 
 2. O conselho escolar, que tem atribuições pedagógicas e disciplinares, reúne em sessões ordinárias e extraordinárias.
 
@@ -665,7 +679,7 @@ c) Após a realização de todos os exames finais da primeira e segunda época, 
 
 4. O conselho escolar reúne, em sessão extraordinária, sempre que o director o convoque.
 
-###### Art. 55.º - 1. As reuniões do conselho escolar serão sempre convocadas para depois de terminados os trabalhos escolares do dia, sendo obrigatória a comparência do seus componentes.
+Art. 55.º - 1. As reuniões do conselho escolar serão sempre convocadas para depois de terminados os trabalhos escolares do dia, sendo obrigatória a comparência do seus componentes.
 
 2. Somente por motivo de força maior ou de doença, devidamente comprovados, podem ser justificadas as faltas dadas às sessões do conselho escolar pelos seus membros.
 
@@ -675,7 +689,7 @@ c) Após a realização de todos os exames finais da primeira e segunda época, 
 
 5. O presidente do conselho escolar tem voto de qualidade.
 
-###### Art. 56.º Compete ao conselho escolar:
+Art. 56.º Compete ao conselho escolar:
 
 a) Relevar, dentro dos limites legais, as faltas dos alunos dadas por motivos atendíveis e devidamente justificados;
 
@@ -697,11 +711,11 @@ i) Motivar a publicação de trabalhos da autoria dos professores, de alunos e p
 
 ### CAPÍTULO IX — Administração das Escolas
 
-###### Art. 57.º - 1. As Escolas têm administração especial, exercida por intermédio de um conselho administrativo, constituído pelo director da Escola, que servirá de presidente, pelo subdirector e por dois professores nomeados pelo director.
+Art. 57.º - 1. As Escolas têm administração especial, exercida por intermédio de um conselho administrativo, constituído pelo director da Escola, que servirá de presidente, pelo subdirector e por dois professores nomeados pelo director.
 
 2. Servirá de secretário, sem voto, o chefe de secretaria da Escola.
 
-###### Art. 58.º Ao conselho administrativo compete:
+Art. 58.º Ao conselho administrativo compete:
 
 a) Propor anualmente ao Conselho Provincial de Educação Física, por intermédio do director da Escola, a dotação global a inscrever no orçamento privativo daquele Conselho Provincial, destinada aos encargos da Escola;
 
@@ -717,27 +731,27 @@ f) Fazer escriturar, por anos económicos, de uma forma clara e simples, o movim
 
 g) Aceitar e receber quaisquer dádivas ou subsídios consignados à Escola, fazendo deles entrega ao Conselho Provincial de Educação Física, para serem utilizados para as finalidades a que se destinarem.
 
-###### Art. 59.º - 1. As reuniões do conselho administrativo serão convocadas pelo director da Escola sempre que tal se mostre necessário e só poderão realizar-se com a presença da maioria dos seus membros.
+Art. 59.º - 1. As reuniões do conselho administrativo serão convocadas pelo director da Escola sempre que tal se mostre necessário e só poderão realizar-se com a presença da maioria dos seus membros.
 
 2. Em caso de empate, o director da Escola poderá fazer uso do voto de qualidade.
 
-###### Art. 60.º Das deliberações tomadas será lavrada acta pelo chefe de secretaria, secretário do conselho, procedendo-se imediatamente à sua assinatura pelos presentes.
+Art. 60.º Das deliberações tomadas será lavrada acta pelo chefe de secretaria, secretário do conselho, procedendo-se imediatamente à sua assinatura pelos presentes.
 
-###### Art. 61.º O director da Escola pode, não se conformando com qualquer deliberação do conselho administrativo não lhe dar imediato cumprimento, submetendo-a à decisão final do Conselho Provincial de Educação Física.
+Art. 61.º O director da Escola pode, não se conformando com qualquer deliberação do conselho administrativo não lhe dar imediato cumprimento, submetendo-a à decisão final do Conselho Provincial de Educação Física.
 
-###### Art. 62.º Todos os membros do conselho administrativo são solidários na responsabilidade das deliberações tomadas, responsabilidade de que só podem eximir-se quanto às resoluções que não tenham aprovado e acerca das quais tenham feito declaração expressa de discordância na própria sessão, se estiverem presentes, ou na primeira a que assistam, no caso contrário, e tenham sido lavradas na respectiva acta.
+Art. 62.º Todos os membros do conselho administrativo são solidários na responsabilidade das deliberações tomadas, responsabilidade de que só podem eximir-se quanto às resoluções que não tenham aprovado e acerca das quais tenham feito declaração expressa de discordância na própria sessão, se estiverem presentes, ou na primeira a que assistam, no caso contrário, e tenham sido lavradas na respectiva acta.
 
-###### Art. 63.º O movimento geral das receitas e despesas da Escola assim como o dos artigos do seu inventário serão integrados, respectivamente, nas contas gerais do Conselho Provincial de Educação Física e do responsável pelos móveis e utensílios e outro material do mesmo Conselho e assim submetidos ao julgamento do Tribunal Administrativo.
+Art. 63.º O movimento geral das receitas e despesas da Escola assim como o dos artigos do seu inventário serão integrados, respectivamente, nas contas gerais do Conselho Provincial de Educação Física e do responsável pelos móveis e utensílios e outro material do mesmo Conselho e assim submetidos ao julgamento do Tribunal Administrativo.
 
 ### CAPÍTULO X — Obrigações do pessoal docente
 
-###### Art. 64.º - 1. A distribuição do serviço docente, em conformidade com as especialidades dos professores, compete ao director, que procederá à sua elaboração antes do início do ano lectivo, ouvido o conselho escolar.
+Art. 64.º - 1. A distribuição do serviço docente, em conformidade com as especialidades dos professores, compete ao director, que procederá à sua elaboração antes do início do ano lectivo, ouvido o conselho escolar.
 
 2. Será elaborado um mapa com a distribuição de todo o serviço docente, que será enviado ao Conselho Provincial de Educação Física.
 
 3. Há três categorias de professores: ordinários, auxiliares e extraordinários.
 
-###### Art. 65.º - 1. Os professores ordinários são obrigados a doze horas semanais de regência de aulas teóricas ou práticas.
+Art. 65.º - 1. Os professores ordinários são obrigados a doze horas semanais de regência de aulas teóricas ou práticas.
 
 2. Além da regência das aulas, os professores ordinários deverão perfazer um número de horas até o limite máximo de dez nos grupos de trabalho a que se refere a alínea c) do artigo 56.º deste Regulamento.
 
@@ -747,49 +761,49 @@ g) Aceitar e receber quaisquer dádivas ou subsídios consignados à Escola, faz
 
 5. A prestação de serviço dos professores extraordinários pode ser superior ao número de tempos semanais definidos pelo número anterior sempre que o serviço o exija, sem que O total de tempos exceda as vinte e duas horas.
 
-###### Art. 66.º - 1. O director é somente obrigado a seis horas semanais de serviço docente.
+Art. 66.º - 1. O director é somente obrigado a seis horas semanais de serviço docente.
 
 2. Haverá redução no tempo de serviço docente sempre que um professor ocupar um cargo na direcção da Escola.
 
-###### Art. 67.º Se, em consequência do serviço docente, qualquer professor exceder o número de horas de serviço obrigatório, este será pago como serviço extraordinário mediante gratificação a fixar pelo Governador-Geral.
+Art. 67.º Se, em consequência do serviço docente, qualquer professor exceder o número de horas de serviço obrigatório, este será pago como serviço extraordinário mediante gratificação a fixar pelo Governador-Geral.
 
 ### CAPÍTULO XI — Faltas e licenças do pessoal docente
 
-###### Art. 68.º - 1. O regime de faltas e licenças dos professores das Escolas é regulado, em tudo o que não estiver especificado no presente Regulamento, pela legislação geral aplicável.
+Art. 68.º - 1. O regime de faltas e licenças dos professores das Escolas é regulado, em tudo o que não estiver especificado no presente Regulamento, pela legislação geral aplicável.
 
 2. As faltas dadas às reuniões do conselho administrativo, do conselho escolar ou das suas secções e à assistência à Escola são contadas como faltas a tempos de serviço, para todos os efeitos legais.
 
-###### Art. 69.º Para a contagem de faltas e concessão de licenças aos professores das Escolas considera-se o ano com início em 1 de Outubro e com termo em 30 de Setembro.
+Art. 69.º Para a contagem de faltas e concessão de licenças aos professores das Escolas considera-se o ano com início em 1 de Outubro e com termo em 30 de Setembro.
 
-###### Art. 70.º O tempo de serviço prestado pelos professores de todas as categorias, para efeito de valorização profissional, concessão de diuturnidades ou preenchimento de condição legal que dependa da duração do mesmo, é contado dia a dia, com inclusão de férias, domingos e feriados. Aos professores extraordinários será contado, para os mesmos fins, o tempo de serviço, prestado, para efeitos de valorização, computado por inteiro, se tiverem entrado em exercício antes de 15 de Outubro e concluído o serviço que lhes haja sido distribuído até 31 de Julho.
+Art. 70.º O tempo de serviço prestado pelos professores de todas as categorias, para efeito de valorização profissional, concessão de diuturnidades ou preenchimento de condição legal que dependa da duração do mesmo, é contado dia a dia, com inclusão de férias, domingos e feriados. Aos professores extraordinários será contado, para os mesmos fins, o tempo de serviço, prestado, para efeitos de valorização, computado por inteiro, se tiverem entrado em exercício antes de 15 de Outubro e concluído o serviço que lhes haja sido distribuído até 31 de Julho.
 
-###### Art. 71.º O número de dias de serviço a descontar, para efeitos do artigo anterior, em cada ano, por motivo de faltas dadas pelo professor nesse ano, obtém-se dividindo pelo número de horas de serviço semanal que de facto lhe tiver sido distribuído o sêxtuplo da soma das faltas não justificadas com as faltas justificadas que tenham excedido o quádruplo daquele número de horas de serviço semanal. Contar-se-á por um dia qualquer fracção igual ou superior a cinco décimos.
+Art. 71.º O número de dias de serviço a descontar, para efeitos do artigo anterior, em cada ano, por motivo de faltas dadas pelo professor nesse ano, obtém-se dividindo pelo número de horas de serviço semanal que de facto lhe tiver sido distribuído o sêxtuplo da soma das faltas não justificadas com as faltas justificadas que tenham excedido o quádruplo daquele número de horas de serviço semanal. Contar-se-á por um dia qualquer fracção igual ou superior a cinco décimos.
 
 ...
 
-###### Art. 73.º - 1. As faltas a tempos de aula cujo número não exceda, em cada mês, a parte inteira do terço do número de horas de serviço semanal distribuído ao professor serão consideradas justificadas se o director assim o entender, em face de motivo devidamente concretizado.
+Art. 73.º - 1. As faltas a tempos de aula cujo número não exceda, em cada mês, a parte inteira do terço do número de horas de serviço semanal distribuído ao professor serão consideradas justificadas se o director assim o entender, em face de motivo devidamente concretizado.
 
 2. As faltas a que este artigo se refere devem ser participadas ao director, por escrito, pelo professor ou por pessoa de família, no próprio dia.
 
 ...
 
-###### Art. 77.º As faltas não justificadas dadas durante o ano escolar que excedam o quádruplo do número de horas de serviço semanal distribuído ao professor constituem fundamento para processo disciplinar.
+Art. 77.º As faltas não justificadas dadas durante o ano escolar que excedam o quádruplo do número de horas de serviço semanal distribuído ao professor constituem fundamento para processo disciplinar.
 
 ...
 
-###### Art. 87.º A concessão de licenças é da competência do presidente do Conselho Provincial de Educação Física.
+Art. 87.º A concessão de licenças é da competência do presidente do Conselho Provincial de Educação Física.
 
 ...
 
 ### CAPÍTULO XII — Secretarias das Escolas
 
-###### Art. 89.º Cada Escola terá uma secretaria destinada à execução do expediente relativo aos serviços escolares e administrativos e à guarda dos documentos e livros concernentes aos mesmos serviços.
+Art. 89.º Cada Escola terá uma secretaria destinada à execução do expediente relativo aos serviços escolares e administrativos e à guarda dos documentos e livros concernentes aos mesmos serviços.
 
-###### Art. 90.º - 1. O pessoal da secretaria pertencerá ao quadro do Conselho Provincial de Educação Física, do qual será destacado para a Escola consoante as necessidades.
+Art. 90.º - 1. O pessoal da secretaria pertencerá ao quadro do Conselho Provincial de Educação Física, do qual será destacado para a Escola consoante as necessidades.
 
 2. As funções de chefe de secretaria serão exercidas por um funcionário com a categoria de primeiro-oficial, o qual será substituído nas suas faltas e impedimentos por funcionário da mesma secretaria, de categoria imediatamente inferior, designado pelo director da Escola.
 
-###### Art. 91.º Compete ao chefe de secretaria:
+Art. 91.º Compete ao chefe de secretaria:
 
 a) Dirigir e fiscalizar o serviço da secretaria e velar pela disciplina dentro dela;
 
@@ -817,7 +831,7 @@ l) Cumprir quanto em matéria de serviço a seu cargo lhe for determinado pelo d
 
 m) Assistir às sessões do conselho administrativo.
 
-###### Art. 92.º O pessoal da secretaria coadjuvará o chefe de harmonia com a distribuição de serviço por ele determinada, competindo, no entanto, ao subordinado de maior categoria:
+Art. 92.º O pessoal da secretaria coadjuvará o chefe de harmonia com a distribuição de serviço por ele determinada, competindo, no entanto, ao subordinado de maior categoria:
 
 a) Lavrar os termos de matrícula e exames;
 
@@ -829,9 +843,9 @@ d) Registar e arquivar a correspondência recebida e expedida;
 
 e) Organizar os mapas estatísticos do movimento escolar.
 
-###### Art. 93.º Cada um dos funcionários da secretaria será substituído nas suas faltas ou impedimentos pelo que for designado pelo director.
+Art. 93.º Cada um dos funcionários da secretaria será substituído nas suas faltas ou impedimentos pelo que for designado pelo director.
 
-###### Art. 94.º - 1 A secretaria conserva-se aberta ao público, em todos os dias úteis, segundo o horário estabelecido pela lei geral para as repartições públicas.
+Art. 94.º - 1 A secretaria conserva-se aberta ao público, em todos os dias úteis, segundo o horário estabelecido pela lei geral para as repartições públicas.
 
 2. Haverá um livro de ponto, ou registo mecânico de presenças, em que todos os funcionários aporão a sua assinatura, em cada dia, à entrada e à saída de cada período de trabalho.
 
@@ -839,17 +853,17 @@ e) Organizar os mapas estatísticos do movimento escolar.
 
 4. Nenhum funcionário pode ausentar-se da secretaria durante as horas de expediente sem prévia autorização do chefe.
 
-###### Art. 95.º Não é permitida a restituição de quaisquer documentos entregues na secretaria.
+Art. 95.º Não é permitida a restituição de quaisquer documentos entregues na secretaria.
 
-###### Art. 96.º As certidões passadas nas secretarias serão escritas por extenso, sem algarismos nem abreviaturas, oferecendo todas as garantias de autenticidade, devendo ser ressalvadas rasuras, emendas ou entrelinhas.
+Art. 96.º As certidões passadas nas secretarias serão escritas por extenso, sem algarismos nem abreviaturas, oferecendo todas as garantias de autenticidade, devendo ser ressalvadas rasuras, emendas ou entrelinhas.
 
 ### CAPÍTULO XIII — Pessoal técnico e pessoal menor
 
 #### SECÇÃO I — Pessoal técnico
 
-###### Art. 97.º Ao pessoal técnico compete assegurar apoio especializado directamente relacionado com o ensino, de forma a contribuir para o seu melhor aperfeiçoamento e rentabilidade.
+Art. 97.º Ao pessoal técnico compete assegurar apoio especializado directamente relacionado com o ensino, de forma a contribuir para o seu melhor aperfeiçoamento e rentabilidade.
 
-###### Art. 98.º São das atribuições do médico:
+Art. 98.º São das atribuições do médico:
 
 a) Inspeccionar e proceder ao contrôle médico-desportivo dos alunos;
 
@@ -859,9 +873,9 @@ c) Julgar os casos de doença dos alunos motivada pelas actividades especificame
 
 d) Prestar a sua colaboração ao director da Escola e ao conselho escolar quando por estes lhe for solicitada ou quando o julgar conveniente.
 
-###### Art. 99.º Ao enfermeiro-massagista compete dar toda a assistência a professores e alunos segundo a orientação do médico da Escola.
+Art. 99.º Ao enfermeiro-massagista compete dar toda a assistência a professores e alunos segundo a orientação do médico da Escola.
 
-###### Art. 100.º Ao catalogador incumbe assegurar o perfeito funcionamento da biblioteca da Escola e, nomeadamente:
+Art. 100.º Ao catalogador incumbe assegurar o perfeito funcionamento da biblioteca da Escola e, nomeadamente:
 
 a) Coligir, seleccionar, registar e arrumar os documentos relacionados com a actividade da Escola;
 
@@ -873,7 +887,7 @@ d) Zelar pela boa conservação de todo o material e documentação existente na
 
 #### SECÇÃO II — Do pessoal menor
 
-###### Art. 101.º Ao contínuo compete desempenhar com prontidão e disciplina todos os serviços que lhe sejam atribuídos pelo director da Escola e, designadamente:
+Art. 101.º Ao contínuo compete desempenhar com prontidão e disciplina todos os serviços que lhe sejam atribuídos pelo director da Escola e, designadamente:
 
 a) Vigiar e zelar pela conservação e limpeza das instalações da Escola e bem assim a guarda das chaves, abertura e encerramento das suas portas;
 
@@ -887,11 +901,11 @@ e) Exercer vigilância e disciplina dos serventes, comunicando por escrito todas
 
 f) Fiscalizar a pontualidade dos serventes, o registo das suas faltas ou licenças e apresentar o livro de ponto para encermento diário ao chefe de secretaria.
 
-###### Art. 102.º Aos serventes incumbe assegurar, essencialmente, os serviços de limpeza e conservação das instalações e de todo o material da Escola, além de outros que lhes possam ser atribuídos e que constarão do regulamento interno da Escola.
+Art. 102.º Aos serventes incumbe assegurar, essencialmente, os serviços de limpeza e conservação das instalações e de todo o material da Escola, além de outros que lhes possam ser atribuídos e que constarão do regulamento interno da Escola.
 
 Disposição final
 
-###### Art. 103.º As dúvidas que suscitar a aplicação deste Regulamento serão resolvidas por despacho do Governador-Geral.
+Art. 103.º As dúvidas que suscitar a aplicação deste Regulamento serão resolvidas por despacho do Governador-Geral.
 
 Ministério do Ultramar, 20 de Abril de 1973. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 

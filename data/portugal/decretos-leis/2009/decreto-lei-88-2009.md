@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/04/07000/0215902175.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/88/2009/04/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2009-603950
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:11:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 459dd75a29d152a8d7aea4c6bff819ed417d9a1050e396bfab903fb6f6b7d965
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae95f50fb103ea343b4f7b77ce9842bb322d268333d46d547a629f6b51fa7d90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:11:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assinatura Digital
 - Autoridade Nacional de Segurança
-- Plano Tecnológico
-- Entidade Certificadora
+- Comunicações
+- Conselho Gestor do Sistema de Certificação Eletrónica do Estado
 - Contra-ordenação
-- Fiscalização
 - Documento Eletrónico
+- Entidade Certificadora
+- Fiscalização
+- Plano Tecnológico
 - Prestação de Serviços
 - Prova
-- Assinatura Digital
-- Comunicações
 - Sistema de Certificação Electrónica do Estado-Infraestrutura de Chaves Públicas
-- Conselho Gestor do Sistema de Certificação Eletrónica do Estado
 relationships:
 - type: amended_by
   target: pt:dre:137808679:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:179293:por
+  label: "Alterados os arts. 3º, 5º e 8º do Dec Lei 116-A/2006, de 16-jun, na redação e republicado pelo presente diploma,\
+    \ pelo DEC LEI.161/2012.31.07.2012.PCM, DR.IS [147] de 31.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/161-2012-179293
+  date: '2012-07-31'
 - type: cites
   target: celex:31999L0093
   label: null
@@ -97,15 +103,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/290-d/1999/08/02/p/dre
 article_structure:
-  article_count: 80
+  article_count: 69
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:11:31Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +156,9 @@ Documentos electrónicos das entidades públicas
 
 2 - Nas operações relativas à criação, emissão, arquivo, reprodução, cópia e transmissão de documentos electrónicos que formalizem actos administrativos através de sistemas informáticos, incluindo a sua transmissão por meios de telecomunicações, os dados relativos à entidade interessada e à pessoa que tenha praticado cada acto administrativo podem ser indicados de forma a torná-los facilmente identificáveis e a comprovar a função ou cargo desempenhado pela pessoa signatária de cada documento.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -170,7 +178,9 @@ d) À força probatória dos documentos aos quais seja aposta uma assinatura ele
 
 5 - ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -198,7 +208,9 @@ l) Indicação sempre que a chave privada do titular esteja armazenada num dispo
 
 2 - ...
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -212,7 +224,9 @@ l) Indicação sempre que a chave privada do titular esteja armazenada num dispo
 
 6 - A obrigação de registo referida no número anterior é extensível às entidades nacionais que prestem serviços de certificação electrónica com recurso a certificados qualificados emitidos pelas entidades referidas nos n.os 1, 2 e 3.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 A autoridade credenciadora competente para o registo, credenciação e fiscalização das entidades certificadoras que emitam certificados qualificados é a Autoridade Nacional de Segurança.»
 
@@ -274,7 +288,9 @@ f) O não cumprimento do disposto no artigo 33.º;
 
 g) A violação do dever de comunicação previsto no artigo 34.º
 
-###### Artigo 36.º-B — Sanções
+Artigo 36.º-B
+
+Sanções
 
 1 - Às contra-ordenações previstas no n.º 1 do artigo anterior são aplicáveis coimas entre (euro) 1500 e (euro) 3740,98, no caso de se tratar de pessoas singulares, e entre (euro) 15 000 e (euro) 44 891,81, no caso de se tratar de pessoas colectivas.
 
@@ -286,7 +302,9 @@ g) A violação do dever de comunicação previsto no artigo 34.º
 
 5 - Sempre que seja cometida alguma das contra-ordenações a que se refere o n.º 1 do artigo anterior, deva dela dar-se publicidade no sítio na Internet da autoridade credenciadora, bem como no registo a que se refere o n.º 2 do artigo 9.º
 
-###### Artigo 36.º-C — Processo contra-ordenacional
+Artigo 36.º-C
+
+Processo contra-ordenacional
 
 1 - Compete à autoridade credenciadora proceder à instrução dos processos de contra-ordenação e sanção acessória, sendo o seu director-geral competente para a aplicação das coimas.
 
@@ -310,7 +328,9 @@ Os artigos 1.º, 3.º, 4.º, 5.º, 7.º e 8.º do Decreto-Lei n.º 116-A/2006, d
 
 4 - As entidades certificadoras públicas e privadas referidas no número anterior não integram o SCEE.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -348,7 +368,9 @@ l) Um representante de cada entidade certificadora pública integrada no SCEE qu
 
 7 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -364,7 +386,9 @@ e) Pronunciar-se pela exclusão do SCEE das entidades certificadoras em caso de 
 
 2 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -380,7 +404,9 @@ e) Pronunciar-se pela exclusão do SCEE das entidades certificadoras em caso de 
 
 7 - Podem filiar-se na Entidade de Certificação Electrónica do Estado as entidades certificadoras do Estado, bem como as entidades certificadoras públicas ou privadas a que alude o n.º 3 do artigo 1.º que obedeçam aos requisitos previstos no n.º 1 do artigo 7.º
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - São entidades certificadoras do Estado as entidades que exerçam funções de entidade certificadora nos termos do disposto no Decreto-Lei n.º 290-D/99, de 2 de Agosto, e respectiva regulamentação, e que:
 
@@ -398,7 +424,9 @@ c) A autoridade credenciadora tenha capacidade de fiscalização directa sobre t
 
 5 - Os serviços de registo podem ser atribuídos a entidades, individuais ou colectivas, designadas como entidades de registo, com as quais as entidades certificadoras acordam a prestação de serviços de identificação e registo de utilizadores de certificados, bem como a gestão de pedidos de revogação de certificados, nos termos do disposto no n.º 1 do artigo 4.º do Decreto Regulamentar n.º 25/2004, de 15 de Julho.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A autoridade credenciadora competente para o registo, a credenciação e a fiscalização das entidades certificadoras compreendidas no SCEE é a Autoridade Nacional de Segurança.
 
@@ -422,15 +450,15 @@ São revogados os n.os 2 e 3 do artigo 7.º do Decreto-Lei n.º 116-A/2006, de 1
 
 Visto e aprovado em Conselho de Ministros de 5 de Março de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - José Manuel dos Santos de Magalhães - Alberto Bernardes Costa - Mário Lino Soares Correia - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 27 de Março de 2009.**
+Promulgado em 27 de Março de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de Março de 2009.**
+Referendado em 31 de Março de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 5.º)
 
@@ -664,7 +692,7 @@ c) Sujeita a sanções, no País ou no estrangeiro, pela prática de infracçõe
 
 ###### Artigo 16.º — Seguro obrigatório de responsabilidade civil
 
-**O Ministro das Finanças definirá, por portaria, as características do contrato de seguro de responsabilidade civil a que se refere a alínea d) do artigo 12.º**
+O Ministro das Finanças definirá, por portaria, as características do contrato de seguro de responsabilidade civil a que se refere a alínea d) do artigo 12.º
 
 ###### Artigo 17.º — Decisão
 

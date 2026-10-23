@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/292/2001/11/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-2001-564273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:28:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72b30da31aa3a129308e6dd85f5d066ff9e1fbdbea500398b822acc58ea57480
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66a92e8b7c0b8fe1805c94d9c3a02e4308c38c27bd9c4c6fa9d1d55194c38089
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Auditoria
-- Património
 - Capital Social
 - Constituição de Sociedade
 - Definição de Competências
 - Fundo de Pensões
 - Instituto de Seguros de Portugal
-- Sociedade Gestora de Fundos de Pensões
+- Património
 - Pensões
 - Revisor Oficial de Contas
+- Sociedade Gestora de Fundos de Pensões
 relationships:
 - type: amended_by
   target: pt:dre:538999:por
@@ -93,16 +93,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/475/1999/11/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/475/1999/11/09/p/dre
+- type: cites
+  target: pt:dre:341582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683064:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:538999:por
+  label: "Revogado o Dec Lei 475/99 de 09-Nov, com a redacção constante do presente diploma, pelo DEC LEI.12/2006.20.01.2006.MFAP,\
+    \ DR.IS-A [15] de 20.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-2006-538999
+  date: '2006-01-20'
 article_structure:
-  article_count: 10
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:28:05Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +153,9 @@ Os artigos 31.º, 32.º, 35.º, 36.º, 39.º, 41.º, 44.º, 57.º e 59.º do [De
 
 3 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -145,19 +165,25 @@ Os artigos 31.º, 32.º, 35.º, 36.º, 39.º, 41.º, 44.º, 57.º e 59.º do [De
 
 4 - ...
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - A constituição de sociedades gestoras de fundos de pensões depende de autorização, a conceder caso a caso pelo Instituto de Seguros de Portugal.
 
 2 - O requerimento para a constituição da sociedade deve referir o respectivo capital social, identificar os accionistas fundadores e as suas participações e ser acompanhado do projecto de estatutos.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - Às modificações dos estatutos e aos aumentos de capital das sociedades gestoras aplica-se, com as necessárias adaptações, o disposto no artigo 35.º
 
 2 - ...
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - A revogação da autorização compete ao Instituto de Seguros de Portugal.
 
@@ -165,7 +191,9 @@ Os artigos 31.º, 32.º, 35.º, 36.º, 39.º, 41.º, 44.º, 57.º e 59.º do [De
 
 3 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 ...
 
@@ -177,7 +205,9 @@ c) ...
 
 d) ...
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -187,13 +217,17 @@ d) ...
 
 4 - ...
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - A nomeação do actuário responsável, relativamente aos planos de pensões financiados através de fundos de pensões já constituídos, deve ser efectuada no prazo de 45 dias após a publicação da norma regulamentar referida no n.º 2 do artigo 32.º
 
 2 - ...
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - É revogado o [Decreto-Lei n.º 415/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1991-341582), de 25 de Outubro, mantendo-se em vigor, enquanto não for publicada a norma regulamentar referida no n.º 1 do artigo 31.º do presente decreto-lei, as disposições relativas às aplicações dos fundos de pensões.
 
@@ -205,12 +239,12 @@ O presente diploma entra em vigor 10 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - António José Martins Seguro.
 
-**Promulgado em 6 de Novembro de 2001.**
+Promulgado em 6 de Novembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Novembro de 2001.**
+Referendado em 9 de Novembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

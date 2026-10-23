@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/57/2005/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2005-589698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e7ab587088a04d11c3b43ee2b66782ab73ca65a822c21805ceedafce7a239cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 151c1956ec23b56b639b7afa4ff5094b6cf98ddba504e6ad301be0193405fa99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,97 +67,97 @@ reuse:
 subjects:
 - Acidente de Trabalho
 - ADSE
+- Agência Portuguesa de Segurança Alimentar
 - Alienação de BENS
 - Alteração Orçamental
 - Aquisição de Bens e Serviços
-- Região Autónoma
-- Serviço Nacional de Bombeiros e Protecção Civil
+- Autarquia Local
 - Autorização de Despesas
-- Financiamento
-- Garantia
-- Sociedade Anónima
-- Ministério das Finanças e da Administração Pública
-- Empresa
-- Ministério da Defesa Nacional
-- Formação Profissional
-- Ministério da Administração Interna
-- Gestão Financeira
-- Ministério da Educação
-- Política de Cooperação
+- Caixa Geral de Aposentações
+- Câmara Municipal
+- Cobrança de Dívidas
+- Comissão de Coordenação e Desenvolvimento Regional
+- Contabilidade Pública
+- Créditos da Segurança Social
+- Créditos do Estado
 - Dação em Cumprimento
 - Definição de Competências
 - Despesas Públicas
 - Direção Geral das Autarquias Locais
-- Instituto de Gestão do Crédito Público
+- Direção Geral do Orçamento
+- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
 - Direcção Regional da Educação
 - Dívida Pública
 - Dívidas ao Estado
+- Doença Profissional
 - Dotação Orçamental
 - Empreitada de Obras Públicas
+- Empresa
 - Equipamento Social
+- Estabelecimento Hospitalar
 - Execução do Orçamento
 - Execução Fiscal
 - Exmin
-- Caixa Geral de Aposentações
-- Secretaria Geral
+- Financiamento
+- Formação Profissional
+- Funcionário Público
 - Fundo de Maneio
 - Gabinete de Gestão Financeira
-- Ministério da Ciência e do Ensino Superior
-- Comissão de Coordenação e Desenvolvimento Regional
-- Créditos do Estado
+- Garantia
+- Gestão de Recursos Humanos
+- Gestão Financeira
 - Gestor Público
-- Ministro da Segurança Social da Família e da Criança
 - Igreja
 - Indep
-- Programa Nacional de Compras Electrónicas
 - Instituto da Qualidade em Saúde
+- Instituto de Gestão do Crédito Público
 - Instituto de Gestão Financeira da Segurança Social
 - Instituto de Gestão Informática e Financeira da Saúde
 - Instituto Politécnico
 - Instituto Público
-- Veículo
 - Locação Financeira
-- Direção Geral do Orçamento
-- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
+- Ministério da Administração Interna
+- Ministério da Ciência e do Ensino Superior
+- Ministério da Defesa Nacional
+- Ministério da Educação
+- Ministério das Finanças e da Administração Pública
+- Ministério dos Negócios Estrangeiros
 - Ministro da Defesa Nacional e dos Assuntos do MAR
-- Orçamento Geral do Estado
-- Orçamento da Segurança Social
-- Organismo Autónomo
+- Ministro da Segurança Social da Família e da Criança
 - Ministro das Finanças e da Administração Pública
-- Doença Profissional
-- Pessoa Colectiva de Direito Público
-- Piddac
-- POSI
-- UMIC
-- Pessoal Docente
-- Serviço Público
+- Mobilidade de Pessoal
+- Orçamento da Segurança Social
+- Orçamento Geral do Estado
+- Organismo Autónomo
 - Pensões
+- Pessoa Colectiva de Direito Público
+- Pessoal Docente
+- Piddac
+- Política de Cooperação
+- POSI
+- Presidência do Conselho de Ministros
 - Processo Tributário
 - Programa Comunitário
+- Programa Nacional de Compras Electrónicas
+- Proteção Social
 - QCA III
-- Presidência do Conselho de Ministros
 - Quadro de Excedentes
 - Quadro de Pessoal
 - Receita Própria
-- Cobrança de Dívidas
-- Proteção Social
-- Câmara Municipal
-- Estabelecimento Hospitalar
+- Região Autónoma
 - Reposição de Verbas
-- Mobilidade de Pessoal
 - Residouro
 - Retenção na Fonte
-- Ministério dos Negócios Estrangeiros
+- Secretaria Geral
 - Segurança Social
-- Funcionário Público
-- Gestão de Recursos Humanos
-- Contabilidade Pública
+- Serviço Nacional de Bombeiros e Protecção Civil
+- Serviço Público
 - Sistema Integrado de Incentivos ao Investimento
-- Créditos da Segurança Social
+- Sociedade Anónima
 - Transferência de Competências
-- Autarquia Local
+- UMIC
+- Veículo
 - Visto do Tribunal de Contas
-- Agência Portuguesa de Segurança Alimentar
 relationships:
 - type: cites
   target: celex:31993R3605
@@ -174,13 +174,13 @@ relationships:
 article_structure:
   article_count: 56
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:55Z'
   warnings: []
   errors: []
 ---
@@ -783,12 +783,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 2005. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix.
 
-**Promulgado em 18 de Fevereiro de 2005.**
+Promulgado em 18 de Fevereiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Fevereiro de 2005.**
+Referendado em 22 de Fevereiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

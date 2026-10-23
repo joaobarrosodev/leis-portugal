@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/62/1991/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/62-1991-461983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T07:53:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6c35bd597cb4077cbfb5f1e29ec8ac71deb7f2b3e9ad23630c48723a6c1cf8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 166a83783a2fc164daf8c7a4fc81cf88ba4d5f9be61e9f8f3500cd3e8641e059
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:53:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Admissão de Pessoal
-- Profissão Diplomática
 - Ministério da Justiça
+- Ministério da Saúde
+- Ministério dos Negócios Estrangeiros
 - Pessoal de Enfermagem
 - Pessoal Técnico
 - Pessoal Técnico de Diagnóstico e Terapêutica
 - Pessoal Técnico Superior
+- Profissão Diplomática
 - Quota de Descongelamento
-- Ministério da Saúde
-- Ministério dos Negócios Estrangeiros
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575162:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:53:21Z'
   warnings: []
   errors: []
 ---
@@ -106,4 +118,4 @@ Assim, ao abrigo do disposto no n.º 7 do artigo 12.º do [Decreto-Lei n.º 41/8
 
 Presidência do Conselho de Ministros e Ministério das Finanças, 13 de Fevereiro de 1991. - O Primeiro-Ministro, Aníbal António Cavaco Silva. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/059b00/12581259.pdf))](https://files.diariodarepublica.pt/1s/1991/03/059b00/12581259.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/03/059b00/12581259.pdf)

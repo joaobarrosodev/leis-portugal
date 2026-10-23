@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/97-1979-382980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:58:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c84d2bdf3023106aa3a1e98dd881b3c0dc03c926e939156e4d7d98ae242d47f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff7b5ae01d91648799d3d2c464f7b64732a5817f04fb05eb136c9fd51fc6474c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:58:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Azeite
+- Instituto do Azeite e Produtos Oleaginosos
+- ÓLEO Vegetal
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:291610:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:58:34Z'
   warnings: []
   errors: []
 ---
@@ -112,11 +120,11 @@ TABELA I
 
 Preços de garantia por litro de azeite colocado em bidões do Instituto do Azeite e Produtos Oleaginosos na estação de caminho de ferro mais próxima do armazém do produtor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/10000/07800781.pdf))](https://files.diariodarepublica.pt/1s/1979/05/10000/07800781.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/10000/07800781.pdf)
 
 Escala de diferenciais em função da acidez
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/10000/07800781.pdf))](https://files.diariodarepublica.pt/1s/1979/05/10000/07800781.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/10000/07800781.pdf)
 
 TABELA II
 
@@ -142,4 +150,4 @@ Acidez do óleo - 15º.
 
 Humidade - até 25%.
 
-**O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - O Ministro do Comércio e Turismo, Abel Pinto Repolho Correia.**
+O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - O Ministro do Comércio e Turismo, Abel Pinto Repolho Correia.

@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 140/2005, 1º Suplemento, Série I-A de 2005-07-22
   number: '140'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4350-(2) a 4350-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/07/140a01/00020002.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/36-a/2005/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/36-a-2005-232126
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T04:50:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 539fcc87b56c27ff2576fcd29640d50eb214bd19cd6f2df8979c3dcb3775bb8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 668141930102b93c2c568acd5de5d50ee7d2e359df8485f816a6e2aacdbbe0e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:50:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário de Estado do Tesouro e das Finanças
-- Secretário de Estado dos Assuntos Fiscais
-- Secretário de Estado Adjunto e do Orçamento
 - Governo XVII
 - Nomeação
+- Secretário de Estado Adjunto e do Orçamento
 - Secretário de Estado da Administração Pública
+- Secretário de Estado do Tesouro e das Finanças
+- Secretário de Estado dos Assuntos Fiscais
 relationships:
 - type: amended_by
   target: pt:dre:290424:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:281575:por
+  label: "Exonerado o Dr. João José Amaral Tomaz do cargo de Secretário de Estado dos Assuntos Fiscais pelo DEC.15-C/2008.01.02.2008.PR,\
+    \ DR.IS [23-Supl] de 01.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/15-c-2008-281575
+  date: '2008-02-01'
+- type: amended_by
+  target: pt:dre:290424:por
+  label: "Exonerado o Dr. João Alexandre Gonçalves de Figueiredo do cargo de Secretário de Estado da Administração Pública\
+    \ pelo DEC.32-A/2008.04.06.2008.PR, DR.IS [107-2ºSupl] de 04.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/32-a-2008-290424
+  date: '2008-06-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:50:19Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +109,7 @@ validation:
 
 de 22 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -109,12 +121,12 @@ O Dr. João José Amaral Tomaz Secretário de Estado dos Assuntos Fiscais;
 
 O Dr. João Alexandre Tavares Gonçalves de Figueiredo Secretário de Estado da Administração Pública.
 
-**Assinado em 22 de Julho de 2005.**
+Assinado em 22 de Julho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Julho de 2005.**
+Referendado em 22 de Julho de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

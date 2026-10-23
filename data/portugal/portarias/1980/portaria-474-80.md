@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/474-1980-470205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:21:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb1589f37293f2feb6fc26f98de49c3ae5ce3d8cf466d6a1f8b6d45f306024ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e6d6576127f4784eb8ae8e8be5a64a665fadbc6369af299f4692c4d57ca815f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:21:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete de Estudos e Planeamento
+- Ministério das Finanças e do Plano
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:400795:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:400795:por
+  label: "Criado um lugar de assessor no quadro de pessoal aprovado pelo Dec 473/76, de 16-Jun, na redacção do presente diploma,\
+    \ pela PORT.865/84.20.11.1984.PCM, DR.IS [269] de 20.11.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/865-1984-400795
+  date: '1984-11-20'
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:21:28Z'
   warnings: []
   errors: []
 ---
@@ -100,4 +113,4 @@ Ministério das Finanças e do Plano e Secretaria de Estado da Reforma Administr
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/17900/20482048.pdf))](https://files.diariodarepublica.pt/1s/1980/08/17900/20482048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/17900/20482048.pdf)

@@ -46,36 +46,108 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/678-1981-576553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:51:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8a745174d0b14dbd1bbc74a5d2b43236ec91e5f6a7840dd36a6831ad4c1e166
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39e74a6746312e907e2d948ee276eee871bd81fab1685dcc384518b1292bb90a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:51:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral dos Serviços Prisionais
+- Estabelecimento Prisional
+- Instituto de Criminologia de Coimbra
+- Instituto de Criminologia de Lisboa
+- Instituto de Criminologia do Porto
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:252234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685588:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:563379:por
+  label: Rectificada pela DECL.DD6403.08.09.1981.PCM, DR.IS [215] de 18.09.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-563379
+  date: '1981-09-08'
+- type: corrected_by
+  target: pt:dre:562418:por
+  label: Rectificada pela DECL.DD7401.14.10.1981.PCM, DR.IS [245] de 24.10.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-562418
+  date: '1981-10-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:51:55Z'
   warnings: []
   errors: []
 ---
@@ -98,12 +170,12 @@ Quadro de pessoal da Direcção-Geral dos Serviços Prisionais
 
 Mapa I - Serviços centrais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/18000/20342035.pdf))](https://files.diariodarepublica.pt/1s/1981/08/18000/20342035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/18000/20342035.pdf)
 
 Mapa II - Institutos de criminologia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/18000/20342035.pdf))](https://files.diariodarepublica.pt/1s/1981/08/18000/20342035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/18000/20342035.pdf)
 
 Mapa III - Estabelecimentos prisionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/18000/20342035.pdf))](https://files.diariodarepublica.pt/1s/1981/08/18000/20342035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/18000/20342035.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/261-1972-680655
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03729894ad699e1b8b0e9dc8879fe25e5a91c5c8d4edd9badc3c92fb6a308ac9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d2aba5bd8ee09919b96ce3579e4c8bdf0b04ca67c665deab76a64705b28c4ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:15Z'
   warnings: []
   errors: []
 ---
@@ -122,11 +138,11 @@ I) Aos beneficiários activos da Caixa Nacional de Pensões e das caixas sindica
 
 II) - 1. Quando ao beneficiário corresponderem contribuições relativas a, pelo menos, dez anos civis anteriores a 1966, com ou sem salários posteriores a 31 de Dezembro de 1965, o total de salários dos dez anos civis anteriores a 1966, a que correspondem melhores remunerações, obter-se-á multiplicando o total de salários registados até àquela data pelo factor A (n) dependente do número n de anos civis com entrada de contribuições, cujos valores são dados pela seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/05/11000/05960597.pdf))](https://files.diariodarepublica.pt/1s/1972/05/11000/05960597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/05/11000/05960597.pdf)
 
 2. O valor a atribuir a cada um dos dez anos civis de melhores remunerações anteriores a 1966 obter-se-á multiplicando o total de salários determinado nos termos do número anterior polo factor B (j) da tabela seguinte correspondente ao j-ésimo melhor salário anual.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/05/11000/05960597.pdf))](https://files.diariodarepublica.pt/1s/1972/05/11000/05960597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/05/11000/05960597.pdf)
 
 III) - 1. Quando ao beneficiário corresponderem menos de dez anos civis com entrada de contribuições anteriores a 1966, considerar-se-á, para cada ano anterior a 1966, salvo nos casos previstos nos números seguintes, o salário médio determinado pelo quociente da divisão do total de salários anteriores a 1966 por n - 1, sendo n o número de anos civis com entrada de contribuições.
 
@@ -142,4 +158,4 @@ VI) É facultado aos interessados requerer que sejam consideradas na determinaç
 
 VII) A presente portaria entra imediatamente em vigor e aplicar-se-á já aos processos em organização, relativamente aos quais não seja conhecida ainda a discriminação das remunerações anuais anteriores a 1966.
 
-**O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.**
+O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.

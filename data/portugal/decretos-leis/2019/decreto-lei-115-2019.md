@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/15800/0000900033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/115/2019/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2019-124044666
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6057d54757360dc73fcd3c17e2935cd0b7d6042db7e5fb45cf850233eb6d2390
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72512cbe365dc30e4cf91ff934b2b7fafb1aa0bf8e93ed140c6a22807a2fe6fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,40 +67,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Crime
-- Registo Criminal
+- Arguido
 - Autoridade Central
-- Ficheiro Informático
-- Modernização Administrativa
+- Base de Dados
 - CE Países
-- Cidadão Estrangeiro
 - Certificação Electrónica
 - Certificado do Registo Criminal
+- Cidadão Estrangeiro
 - Cidadão Nacional
-- Identificação de Contumazes
-- Registo de Contumazes
-- Arguido
-- Decisão Judicial
-- Identificação Criminal
-- Contumaz
-- Base de Dados
-- Documento Eletrónico
-- Medida Tutelar Educativa
-- Modernização Tecnológica
-- Programa Simplex
-- Países Terceiros
-- Sistema de Informação
 - Confidencialidade
-- Direcção Geral da Administração da Justiça
 - Contumácia
+- Contumaz
+- Crime
 - Dados Pessoais
-- Taxa
+- Decisão Judicial
+- Direcção Geral da Administração da Justiça
+- Documento Eletrónico
+- Ficheiro Informático
+- Identificação Criminal
+- Identificação de Contumazes
+- Medida Tutelar Educativa
+- Modernização Administrativa
+- Modernização Tecnológica
+- Países Terceiros
 - Plataforma Eletrónica
+- Programa Simplex
+- Registo Criminal
+- Registo de Contumazes
+- Sistema de Informação
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:835864043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:186949306:por
+  label: Alterados, a partir de 31.10.2022, os arts. 19.º e 34.º e revogado o art. 36.º, do Dec Lei 171/2015, de 25-ago, na
+    versão do presente diploma, pelo(a) Lei n.º 14/2022 - Diário da República n.º 148/2022, Série I de 2022-08-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-2022-186949306
+  date: '2022-08-02'
 - type: cites
   target: celex:32009D0315
   label: null
@@ -145,16 +151,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2015/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2015/01/15/p/dre
+- type: cites
+  target: pt:dre:107522250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116388437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66195397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67142147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70095697:por
+  label: null
+  source: null
 article_structure:
-  article_count: 61
+  article_count: 45
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:53Z'
   warnings: []
   errors: []
 ---
@@ -211,7 +281,9 @@ d) Sempre que seja solicitada por quem possua legitimidade para tal nos termos d
 
 5 - (Revogado.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -227,7 +299,9 @@ d) Sempre que seja solicitada por quem possua legitimidade para tal nos termos d
 
 7 - O acesso à informação do registo criminal pelo Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., é efetuado mediante consulta em linha, através de webservice, nos termos do n.º 1, relativamente a todos os inscritos no Portal dos Fornecedores do Estado de que seja necessária informação, apenas sendo emitido certificado do registo criminal no caso de dever ser certificada informação vigente neste registo.
 
-###### Artigo 19.º — Acesso à informação pelo titular da informação ou por seu representante
+Artigo 19.º
+
+Acesso à informação pelo titular da informação ou por seu representante
 
 1 - O pedido de um código de acesso ao registo criminal ou ao registo de contumazes de pessoa singular é efetuado pessoalmente pelo próprio titular da informação, ou por um seu representante com legitimidade para o efeito nos termos da lei de identificação criminal.
 
@@ -245,7 +319,9 @@ d) Sempre que seja solicitada por quem possua legitimidade para tal nos termos d
 
 8 - Os titulares da informação residentes no estrangeiro podem pedir um código de acesso ao registo criminal ou ao registo de contumazes através da remessa aos serviços de identificação criminal de formulário disponibilizado na página na Internet destes serviços.
 
-###### Artigo 20.º — Apresentação pessoal do pedido de código de acesso
+Artigo 20.º
+
+Apresentação pessoal do pedido de código de acesso
 
 1 - A apresentação pessoal do pedido de um código de acesso ao registo criminal ou ao registo de contumazes pode ser efetuada:
 
@@ -257,7 +333,9 @@ c) Nos demais postos de atendimento que hajam sido autorizados pelo diretor-gera
 
 2 - O código de acesso ao registo criminal ou ao registo de contumazes e o certificado onde o mesmo consta são transmitidos eletronicamente ao posto onde o pedido de emissão foi submetido, para entrega ao requerente.
 
-###### Artigo 21.º — Requisitos do pedido de código de acesso apresentado pelo próprio
+Artigo 21.º
+
+Requisitos do pedido de código de acesso apresentado pelo próprio
 
 1 - O titular da informação que solicite um código de acesso ao registo criminal ou ao registo de contumazes deve provar ser o próprio titular, comprovar os seus dados de identificação mediante a apresentação do seu cartão do cidadão ou bilhete de identidade, ou de outro documento de identificação idóneo para esse efeito, indicar a finalidade a que se destina o acesso ao registo e o prazo escolhido para a vigência do código de acesso.
 
@@ -265,7 +343,9 @@ c) Nos demais postos de atendimento que hajam sido autorizados pelo diretor-gera
 
 3 - [...].
 
-###### Artigo 22.º — Pedido de código de acesso apresentado por representante
+Artigo 22.º
+
+Pedido de código de acesso apresentado por representante
 
 1 - Podem pedir um código de acesso ao registo criminal ou ao registo de contumazes em nome ou no interesse do próprio titular da informação:
 
@@ -287,13 +367,17 @@ c) A declaração de que autoriza o pedido de um código de acesso ao seu regist
 
 4 - [...].
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - Os titulares da informação que sejam residentes no estrangeiro podem apresentar o pedido de um código de acesso ao registo criminal ou ao registo de contumazes pela remessa aos serviços de identificação criminal de formulário disponibilizado no sítio destes serviços na Internet, devidamente preenchido e assinado e acompanhado de cópias dos documentos necessários para provar a legitimidade do requerente, os dados de identificação declarados e a realização do pagamento devido pela emissão solicitada.
 
 2 - O código de acesso ao registo criminal ou ao registo de contumazes pedido nos termos do número anterior, bem como o certificado onde o mesmo consta, são remetidos ao requerente para o endereço eletrónico que por este for indicado para o efeito ou, se o requerente assim o solicitar, por correio, simples ou registado, para a morada que for indicada, mediante prévio pagamento das despesas de remessa nos termos fixados por despacho do diretor-geral da Administração da Justiça.
 
-###### Artigo 24.º — Requisitos do pedido de código de acesso de pessoa coletiva ou entidade equiparada
+Artigo 24.º
+
+Requisitos do pedido de código de acesso de pessoa coletiva ou entidade equiparada
 
 1 - O representante legal de pessoa coletiva ou entidade equiparada que solicite um código de acesso ao registo criminal ou ao registo de contumazes desta deve:
 
@@ -311,7 +395,9 @@ e) Indicar o prazo escolhido para a vigência do código de acesso.
 
 3 - [...].
 
-###### Artigo 25.º — Requisitos do pedido de código de acesso apresentado por um terceiro autorizado
+Artigo 25.º
+
+Requisitos do pedido de código de acesso apresentado por um terceiro autorizado
 
 1 - O terceiro autorizado pelo representante legal de pessoa coletiva ou entidade equiparada a pedir um código de acesso ao registo criminal ou ao registo de contumazes desta deve apresentar declaração escrita e assinada por um representante legal, onde conste:
 
@@ -335,13 +421,17 @@ d) [...].
 
 3 - [...].
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Quem pretenda aceder ao registo de contumazes de terceiro sem autorização do próprio deve provar que efetua o pedido com a finalidade de acautelar interesses ligados à celebração de negócio jurídico com contumaz ou para instruir processo da sua anulação, e fornecer os dados de identificação necessários à identificação inequívoca da pessoa a cujo registo pretende aceder.
 
 2 - O acesso ao registo de contumazes nos termos do número anterior concretiza-se na emissão de um certificado de contumácia cujo conteúdo se restringe ao despacho que declarar a contumácia, se existir, ou à certificação da respetiva inexistência.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 O pedido de obtenção de um código de acesso ao registo criminal ou ao registo de contumazes, ou de emissão de certificado, é fundamentadamente indeferido pelos serviços de identificação criminal:
 
@@ -351,7 +441,9 @@ b) Se os dados de identificação da pessoa de quem é pedido um código de aces
 
 c) Se não forem observados quaisquer outros requisitos de que a lei de identificação criminal ou o presente decreto-lei façam depender o acesso ao registo.
 
-###### Artigo 29.º — Certificado de acesso aos dados em registo
+Artigo 29.º
+
+Certificado de acesso aos dados em registo
 
 1 - As pessoas singulares ou coletivas que pretendam tomar conhecimento dos dados que lhes digam respeito constantes dos registos da competência dos serviços de identificação criminal devem solicitar a emissão de um certificado de acesso aos dados no registo em causa.
 
@@ -361,7 +453,9 @@ c) Se não forem observados quaisquer outros requisitos de que a lei de identifi
 
 4 - A utilização de um certificado de acesso aos dados no registo por terceiros para finalidade diversa daquela para que foi emitido constitui utilização indevida de informação em registo.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...].
 
@@ -373,13 +467,17 @@ c) Se não forem observados quaisquer outros requisitos de que a lei de identifi
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - O SICRIM contém um módulo de contabilidade com a finalidade de garantir o controlo da receita cobrada pela emissão de códigos de acesso ao registo criminal ou ao registo de contumazes e de certificados.
 
 2 - [...].
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Pela emissão de códigos de acesso ao registo criminal ou ao registo de contumazes, bem como pela emissão de certificados da sua competência que não resultem da utilização de um código de acesso durante o respetivo período de vigência, os serviços de identificação criminal cobram taxas, cujos montantes são fixados por portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça, constituindo receita da Direção-Geral da Administração da Justiça.
 
@@ -401,7 +499,9 @@ c) [...];
 
 d) As pessoas singulares ou coletivas que, previamente ao pedido de código de acesso ao registo criminal ou ao registo de contumazes, ou de emissão de certificado, demonstrem insuficiência económica para suportar a taxa devida, nos termos da lei sobre apoio judiciário, com as devidas adaptações.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...].
 
@@ -423,7 +523,9 @@ Acesso à informação do registo de medidas tutelares educativas
 
 O pedido de emissão de um certificado do registo de medidas tutelares educativas é efetuado pessoalmente por quem para tal possua legitimidade nos termos da lei de identificação criminal ou da lei tutelar educativa, aplicando-se o disposto nos artigos 20.º a 22.º, com as necessárias adaptações.
 
-###### Artigo 25.º-A — Cancelamento do código de acesso ao registo criminal ou ao registo de contumazes
+Artigo 25.º-A
+
+Cancelamento do código de acesso ao registo criminal ou ao registo de contumazes
 
 1 - O código de acesso ao registo criminal ou ao registo de contumazes pode ser cancelado, a todo o tempo, a pedido do próprio titular da informação, ou de um seu representante, bem como do representante legal de pessoa coletiva ou entidade equiparada, ou de um terceiro por este autorizado.
 
@@ -443,13 +545,13 @@ O presente decreto-lei entra em vigor no dia 17 de setembro de 2019.
 
 Visto e aprovado em Conselho de Ministros de 1 de agosto de 2019. - Augusto Ernesto Santos Silva - António Manuel Veiga dos Santos Mendonça Mendes - Anabela Damásio Caetano Pedroso.
 
-**Promulgado em 2 de agosto de 2019.**
+Promulgado em 2 de agosto de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de agosto de 2019.**
+Referendado em 6 de agosto de 2019.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
 
@@ -1166,3 +1268,5 @@ a) O [Decreto-Lei n.º 381/98](https://diariodarepublica.pt/dr/detalhe/decreto-l
 b) O [Decreto-Lei n.º 62/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1999-152525), de 29 de março, alterado pelo [Decreto-Lei n.º 288/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), de 8 de outubro;
 
 c) O [Decreto-Lei n.º 323-E/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-e-2000-315336), de 20 de dezembro.
+
+112515491

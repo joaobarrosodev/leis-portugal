@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-1983-451997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bc014001a29fa9b14ae6bcd56e234140261840619affb1322f550dd4bf9919e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f07832de884f343ac0adca7ef057c5154d1e3a0c8d4bfeb69f2252b92963ad62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Pessoal do MAR e Estudos Náuticos
+- Orgânica
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL DA DIRECÇÃO GERAL DO PESSOAL DO MAR E ESTUDOS NÁUTICOS, NA PARTE REFERENTE AO PESSOAL\
+    \ TÉCNICO SUPERIOR, PELA PORTARIA 385/84, PUBLICADA NO DR.IS, 140, DE 840618. ALTERADO O QUADRO DE PESSOAL DA DIRECÇÃO\
+    \ GERAL DO PESSOAL DO MAR E ESTUDOS NÁUTICOS, NA PARTE REFERENTE AO PESSOAL TÉCNICO SUPERIOR, PELA PORTARIA 576/85, PUBLICADA\
+    \ NO NO DR.IS, 183, DE 850810. ALTERADO O QUADRO DE PESSOAL DA DIRECÇÃO GERAL DO PESSOAL DO MAR E ESTUDOS NÁUTICOS, PELA\
+    \ PORTARIA 94/89, PUBLICADA NO DR.IS, 30, DE 890204.\0NO DR.IS, 30, DE 890204.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:611569:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:611569:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral do Pessoal do Mar e Estudos Náuticos, constante do anexo ao presente\
+    \ diploma, pela PORT.94/89.04.02.1989.MF, DR.IS [30] de 04.02.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/94-1989-611569
+  date: '1989-02-04'
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681625:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:435791:por
+  label: Rectificado pela DECL.DD6363.25.07.1983.PCM, DR.IS [174-3.º Supl] de 30.07.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-435791
+  date: '1983-07-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:50Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +139,9 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Direcção-Geral do Pessoal do Mar e Estudos Náuticos, abreviadamente designada por DGPMEN, é o organismo da Secretaria de Estado dos Transportes Exteriores e Comunicações incumbido de conhecer, estudar e propor as medidas tendentes à definição da política de pessoal da marinha mercante e de recreio, bem como de coordenar e desenvolver as acções de execução da política definida.
+Artigo 1.º A Direcção-Geral do Pessoal do Mar e Estudos Náuticos, abreviadamente designada por DGPMEN, é o organismo da Secretaria de Estado dos Transportes Exteriores e Comunicações incumbido de conhecer, estudar e propor as medidas tendentes à definição da política de pessoal da marinha mercante e de recreio, bem como de coordenar e desenvolver as acções de execução da política definida.
 
-###### Art. 2.º - 1 - A DGPMEN é um serviço dotado de autonomia administrativa, dispondo, para além das dotações que lhe forem atribuídas no Orçamento do Estado, das seguintes receitas próprias:
+Art. 2.º - 1 - A DGPMEN é um serviço dotado de autonomia administrativa, dispondo, para além das dotações que lhe forem atribuídas no Orçamento do Estado, das seguintes receitas próprias:
 
 a) As quantias resultantes da prestação de serviços a entidades públicas ou privadas;
 
@@ -110,7 +155,7 @@ d) Quaisquer outras receitas que, por lei, lhe vierem a ser atribuídas.
 
 3 - As receitas próprias não aplicadas em cada ano transitarão para o ano económico seguinte.
 
-###### Art. 3.º São atribuições da DGPMEN, designadamente:
+Art. 3.º São atribuições da DGPMEN, designadamente:
 
 a) Promover e coordenar a formação, especialização e reciclagem do pessoal da marinha mercante e dos sectores afins;
 
@@ -140,11 +185,11 @@ n) Fiscalizar o cumprimento das normas nacionais e internacionais no âmbito do 
 
 o) Assegurar a coordenação dos órgãos locais da SETEC na área das suas atribuições.
 
-###### Art. 4.º Dependem organicamente da Direcção-Geral do Pessoal do Mar e Estudos Náuticos a Escola Náutica Infante D. Henrique e a Escola de Mestrança e Marinhagem.
+Art. 4.º Dependem organicamente da Direcção-Geral do Pessoal do Mar e Estudos Náuticos a Escola Náutica Infante D. Henrique e a Escola de Mestrança e Marinhagem.
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 5.º - 1 - São órgãos e serviços da DGPMEN:
+Art. 5.º - 1 - São órgãos e serviços da DGPMEN:
 
 a) Director-geral;
 
@@ -162,11 +207,11 @@ g) Centro de Documentação e Informação.
 
 2 - As direcções regionais marítimas constituirão serviços regionais da DGPMEN.
 
-###### Art. 6.º - 1 - O director-geral é o órgão de direcção e representação da Direcção-Geral.
+Art. 6.º - 1 - O director-geral é o órgão de direcção e representação da Direcção-Geral.
 
 2 - O director-geral é coadjuvado por um subdirector-geral, que o substituirá nas suas ausências e impedimentos.
 
-###### Art. 7.º - 1 - Além do exercício das competências que lhe sejam conferidas nos termos da lei, compete ao director-geral, designadamente:
+Art. 7.º - 1 - Além do exercício das competências que lhe sejam conferidas nos termos da lei, compete ao director-geral, designadamente:
 
 a) Dirigir, coordenar, inspeccionar e fiscalizar todos os serviços da Direcção-Geral;
 
@@ -178,7 +223,7 @@ d) Presidir ao conselho administrativo.
 
 2 - O director-geral poderá delegar o exercício de parte da sua competência no subdirector-geral ou, quanto a assuntos de natureza corrente dos serviços, nos respectivos dirigentes, com ou sem poderes de subdelegação.
 
-###### Art. 8.º - 1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira, sendo constituído pelos seguintes membros:
+Art. 8.º - 1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira, sendo constituído pelos seguintes membros:
 
 a) Director-geral;
 
@@ -188,7 +233,7 @@ c) Director de serviços administrativos.
 
 2 - O conselho administrativo só poderá deliberar com a presença de, pelo menos, 2 dos seus membros,
 
-###### Art. 9.º - 1 - Compete ao conselho administrativo:
+Art. 9.º - 1 - Compete ao conselho administrativo:
 
 a) Estabelecer as regras a que deve obedecer a administração da DGPMEN, de acordo com as leis gerais de contabilidade pública;
 
@@ -208,7 +253,7 @@ h) Aceitar as liberalidades feitas a favor da DGPMEN com fins específicos ou ge
 
 2 - O conselho administrativo estabelecerá as normas internas do seu funcionamento.
 
-###### Art. 10.º - 1 - O Departamento de Inspecções efectua as inspecções, vistorias e exames que sejam da atribuição da DGPMEN, competindo-lhe, designadamente:
+Art. 10.º - 1 - O Departamento de Inspecções efectua as inspecções, vistorias e exames que sejam da atribuição da DGPMEN, competindo-lhe, designadamente:
 
 a) Fiscalizar o cumprimento de normas, nacionais e internacionais, relacionadas com habitabilidade, higiene e bem-estar;
 
@@ -222,7 +267,7 @@ e) Emitir parecer sobre projectos de diploma que se relacionem ou possam influen
 
 2 - O Departamento de Inspecções funciona na dependência do director-geral, sendo orientado por um inspector superior ou técnico superior assessor de comprovada qualificação para o exercício das funções.
 
-###### Art. 11.º - 1 - À Direcção de Serviços de Formação e Segurança incumbe promover e elaborar estudos e pareceres necessários à fundamentação da política de formação, higiene e segurança do pessoal do sector, bem como, no âmbito do ensino náutico, desenvolver a acção social escolar e coordenar a utilização dos espaços e equipamentos comuns às escolas.
+Art. 11.º - 1 - À Direcção de Serviços de Formação e Segurança incumbe promover e elaborar estudos e pareceres necessários à fundamentação da política de formação, higiene e segurança do pessoal do sector, bem como, no âmbito do ensino náutico, desenvolver a acção social escolar e coordenar a utilização dos espaços e equipamentos comuns às escolas.
 
 2 - A Direcção de Serviços de Formação e Segurança compreende as seguintes divisões:
 
@@ -232,7 +277,7 @@ b) Divisão de Acção Social;
 
 c) Divisão de Higiene e Segurança.
 
-###### Art. 12.º À Divisão de Formação compete:
+Art. 12.º À Divisão de Formação compete:
 
 a) Promover estudos e contactos necessários para que as novas tecnologias sejam introduzidas nos planos de formação do pessoal da marinha mercante, designadamente através de cursos, estágios e reciclagens, e coordenar a execução das acções de formação que não estejam cometidas a estabelecimentos de ensino náutico;
 
@@ -244,7 +289,7 @@ d) Estudar e acompanhar, na área do pessoal, os trabalhos e decisões relativos
 
 e) Emitir parecer sobre quaisquer assuntos que lhe sejam cometidos sobre matéria de sua competência.
 
-###### Art. 13.º À Divisão de Acção Social compete, designadamente:
+Art. 13.º À Divisão de Acção Social compete, designadamente:
 
 a) Estudar e propor os regulamentos para atribuição de apoios financeiros;
 
@@ -264,7 +309,7 @@ h) Desenvolver, no âmbito médico-social, acções profilácticas dirigidas aos
 
 i) Assegurar a higienização e proceder ao controle sanitário das instalações afectas.
 
-###### Art. 14.º À Divisão de Higiene e Segurança compete:
+Art. 14.º À Divisão de Higiene e Segurança compete:
 
 a) Realizar estudos de diagnóstico das condições de trabalho e bem-estar a bordo dos navios mercantes nacionais;
 
@@ -278,7 +323,7 @@ e) Estudar e colaborar na elaboração de normas que visem a saúde, habitabilid
 
 f) Emitir pareceres sobre quaisquer assuntos que lhe sejam cometidos sobre matéria da sua competência.
 
-###### Art. 15.º - 1 - A Direcção de Serviços do Trabalho Marítimo exerce a sua acção no âmbito dos assuntos relacionados com a actividade profissional do pessoal da marinha mercante, nomeadamente na inscrição marítima, matrícula, lotação e tripulação, bem como dos relativos aos desportistas náuticos.
+Art. 15.º - 1 - A Direcção de Serviços do Trabalho Marítimo exerce a sua acção no âmbito dos assuntos relacionados com a actividade profissional do pessoal da marinha mercante, nomeadamente na inscrição marítima, matrícula, lotação e tripulação, bem como dos relativos aos desportistas náuticos.
 
 2 - A Direcção de Serviços do Trabalho Marítimo compreende as seguintes divisões:
 
@@ -286,7 +331,7 @@ a) Divisão de Estatística e Cadastro;
 
 b) Divisão dos Assuntos Profissionais.
 
-###### Art. 16.º - 1 - À Divisão de Estatística e Cadastro compete:
+Art. 16.º - 1 - À Divisão de Estatística e Cadastro compete:
 
 a) Propor a sistematização da recolha de dados relativos ao pessoal da marinha mercante e desportistas náuticos, de acordo com as necessidades estatísticas da DGPMEN, e efectuar o respectivo processamento;
 
@@ -300,7 +345,7 @@ e) Apoiar os restantes órgãos e serviços da Direcção-Geral na utilização 
 
 2 - Para efeitos do número anterior, a Divisão de Estatística e Cadastro disporá dos meios informáticos necessários ao exercício das suas competências.
 
-###### Art. 17.º À Divisão dos Assuntos Profissionais compete:
+Art. 17.º À Divisão dos Assuntos Profissionais compete:
 
 a) Promover os estudos indispensáveis ao planeamento das actividades relevantes para o pessoal da marinha mercante, designadamente a caracterização das carreiras profissionais e do mercado de emprego e o acesso e mobilidade profissionais;
 
@@ -316,7 +361,7 @@ f) Estudar e acompanhar os trabalhos e decisões relativos a acordos e convenç�
 
 g) Apreciar e informar os processos relativos aos desportistas náuticos.
 
-###### Art. 18.º - 1 - A Direcção de Serviços Administrativos exerce as suas atribuições nos domínios de administração financeira e patrimonial, bem como de pessoal, expediente e arquivo.
+Art. 18.º - 1 - A Direcção de Serviços Administrativos exerce as suas atribuições nos domínios de administração financeira e patrimonial, bem como de pessoal, expediente e arquivo.
 
 2 - A Direcção dos Serviços Administrativos assegura as ligações com outras unidades do Ministério da Habitação, Obras Públicas e Transportes ou a ele estranhas, competindo-lhe superintender administrativamente nas direcções regionais marítimas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
@@ -326,7 +371,7 @@ a) Repartição de Contabilidade e Orçamento;
 
 b) Repartição de Pessoal e Assuntos Gerais.
 
-###### Art. 19.º - 1 - A Repartição de Contabilidade e Orçamento compreende as seguintes secções:
+Art. 19.º - 1 - A Repartição de Contabilidade e Orçamento compreende as seguintes secções:
 
 a) Secção de Contabilidade;
 
@@ -366,7 +411,7 @@ c) Manter devidamente escriturados todos os livros de tesouraria.
 
 5 - O tesoureiro terá direito a receber um abono para falhas, nos termos da lei geral.
 
-###### Art. 20.º - 1 - A Repartição de Pessoal e Assuntos Gerais compreende as seguintes secções:
+Art. 20.º - 1 - A Repartição de Pessoal e Assuntos Gerais compreende as seguintes secções:
 
 a) Secção de Pessoal;
 
@@ -402,7 +447,7 @@ f) Assegurar uma adequada circulação de documentos e normas pelos diversos ser
 
 g) Coordenar a actividade do pessoal auxiliar.
 
-###### Art. 21.º - 1 - A DGPMEN dispõe de um Centro de Documentação e Informação, competindo-lhe:
+Art. 21.º - 1 - A DGPMEN dispõe de um Centro de Documentação e Informação, competindo-lhe:
 
 a) Promover a pesquisa de documentação técnica, de acordo com os programas de acção da DGPMEN e propor a política de aquisição de publicações;
 
@@ -418,7 +463,7 @@ f) Estabelecer contactos com organismos nacionais, estrangeiros e internacionais
 
 2 - O Centro de Documentação e Informação funciona na dependência do director-geral e será orientado por um técnico superior.
 
-###### Art. 22.º Às direcções regionais marítimas, equiparadas a direcções de serviços, compete:
+Art. 22.º Às direcções regionais marítimas, equiparadas a direcções de serviços, compete:
 
 a) Superintender nas acções desenvolvidas na região relativas ao cumprimento das atribuições da DGPMEN;
 
@@ -428,11 +473,11 @@ c) Fornecer os elementos indispensáveis à manutenção do ficheiro central do 
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 23.º O quadro de pessoal do serviço figura no anexo a este diploma.
+Art. 23.º O quadro de pessoal do serviço figura no anexo a este diploma.
 
-###### Art. 24.º O provimento do pessoal dirigente far-se-á nos termos previstos na lei geral.
+Art. 24.º O provimento do pessoal dirigente far-se-á nos termos previstos na lei geral.
 
-###### Art. 25.º - 1 - O provimento do restante pessoal será feito por nomeação provisória ou em comissão de serviço, pelo período de 1 ano.
+Art. 25.º - 1 - O provimento do restante pessoal será feito por nomeação provisória ou em comissão de serviço, pelo período de 1 ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -450,7 +495,7 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No lugar do quadro em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 26.º - 1 - O recrutamento do pessoal será feito por concurso, recorrendo, conforme a natureza e exigência do cargo, aos seguintes métodos de selecção:
+Art. 26.º - 1 - O recrutamento do pessoal será feito por concurso, recorrendo, conforme a natureza e exigência do cargo, aos seguintes métodos de selecção:
 
 a) Avaliação curricular;
 
@@ -462,7 +507,7 @@ c) Provas de conhecimento teóricas e práticas.
 
 3 - Para a realização dos cursos, bem como para a aplicação dos métodos de selecção referidos no n.º 1, pode a DGPMEN recorrer aos serviços competentes da Direcção-Geral dos Recursos Humanos.
 
-###### Art. 27.º - 1 - Os lugares de chefe de repartição serão providos de entre:
+Art. 27.º - 1 - Os lugares de chefe de repartição serão providos de entre:
 
 a) Chefes de secção que contem, pelo menos, 3 anos de bom e efectivo serviço na categoria;
 
@@ -470,87 +515,87 @@ b) Indivíduos habilitados com curso superior e experiência adequada.
 
 2 - É da competência do Ministro da Habitação, Obras Públicas e Transportes a apreciação, em cada caso concreto, da adequação do curso superior a que se refere a alínea b) do número anterior.
 
-###### Art. 28.º Os lugares de assessor e de técnico superior principal, de 1.ª classe e de 2.ª classe serão providos, nos termos previstos no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, de entre indivíduos habilitados com licenciatura adequada.
+Art. 28.º Os lugares de assessor e de técnico superior principal, de 1.ª classe e de 2.ª classe serão providos, nos termos previstos no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, de entre indivíduos habilitados com licenciatura adequada.
 
-###### Art. 29.º - 1 - Os lugares de técnico principal e de técnico de 1.ª classe serão providos, respectivamente, de entre técnicos de 1.ª classe e de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.
+Art. 29.º - 1 - Os lugares de técnico principal e de técnico de 1.ª classe serão providos, respectivamente, de entre técnicos de 1.ª classe e de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.
 
 2 - O lugar de técnico de 2.ª classe será provido de entre indivíduos habilitados com curso superior adequado.
 
-###### Art. 30.º Os lugares de chefe de secção serão providos de entre:
+Art. 30.º Os lugares de chefe de secção serão providos de entre:
 
 a) Primeiros-oficiais ou técnicos auxiliares principais com um mínimo de 3 anos de bom e efectivo serviço nas respectivas categorias;
 
 b) Indivíduos habilitados com curso superior adequado.
 
-###### Art. 31.º - 1 - O provimento do lugar de tesoureiro principal e de 1.ª classe far-se-á, respectivamente, de entre tesoureiros de 1.ª classe e de 2.ª classe com, pelo menos, 5 anos de bom e efectivo serviço na categoria.
+Art. 31.º - 1 - O provimento do lugar de tesoureiro principal e de 1.ª classe far-se-á, respectivamente, de entre tesoureiros de 1.ª classe e de 2.ª classe com, pelo menos, 5 anos de bom e efectivo serviço na categoria.
 
 2 - O provimento do lugar de tesoureiro de 2.ª classe far-se-á de entre segundos-oficiais administrativos habilitados com o curso geral do ensino secundário ou equiparado com, pelo menos, 3 anos na categoria.
 
-###### Art. 32.º - 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos, respectivamente, de entre técnicos auxiliares de 1.ª classe e de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.
+Art. 32.º - 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos, respectivamente, de entre técnicos auxiliares de 1.ª classe e de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de técnico auxiliar de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado.
 
-###### Art. 33.º O lugar de ecónomo será provido de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente.
+Art. 33.º O lugar de ecónomo será provido de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente.
 
-###### Art. 34.º - 1 - Os lugares de primeiro-oficial e de segundo-oficial serão providos, respectivamente, de entre segundos-oficiais habilitados com o curso geral dos liceus ou equivalente e terceiros-oficiais, em ambos os casos, com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
+Art. 34.º - 1 - Os lugares de primeiro-oficial e de segundo-oficial serão providos, respectivamente, de entre segundos-oficiais habilitados com o curso geral dos liceus ou equivalente e terceiros-oficiais, em ambos os casos, com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de terceiro-oficial serão providos nos termos previstos no artigo 11.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 35.º O provimento dos lugares de auxiliar técnico administrativo, bem como a progressão na respectiva carreira, far-se-á nos termos previstos no [Decreto-Lei n.º 465/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1980-462024), de 14 de Outubro.
+Art. 35.º O provimento dos lugares de auxiliar técnico administrativo, bem como a progressão na respectiva carreira, far-se-á nos termos previstos no [Decreto-Lei n.º 465/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1980-462024), de 14 de Outubro.
 
-###### Art. 36.º O provimento dos lugares de escriturário-dactilógrafo de 2.ª classe, bem como a progressão na respectiva carreira, far-se-á nos termos previstos no artigo 12.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+Art. 36.º O provimento dos lugares de escriturário-dactilógrafo de 2.ª classe, bem como a progressão na respectiva carreira, far-se-á nos termos previstos no artigo 12.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 37.º - 1 - Os lugares de caldeireiro, electricista e mecânico principal, de 1.ª classe e de 2.ª classe serão providos de entre, respectivamente, caldeireiro, electricista e mecânico de 1.ª classe, 2.ª classe e 3.ª classe com 3 anos de bom e efectivo serviço.
+Art. 37.º - 1 - Os lugares de caldeireiro, electricista e mecânico principal, de 1.ª classe e de 2.ª classe serão providos de entre, respectivamente, caldeireiro, electricista e mecânico de 1.ª classe, 2.ª classe e 3.ª classe com 3 anos de bom e efectivo serviço.
 
 2 - Os lugares de caldeireiro, electricista e mecânico de 3.ª classe serão providos de entre indivíduos habilitados com a escolaridade obrigatória e possuidores das respectivas carteiras profissionais, mediante prestação de provas práticas.
 
-###### Art. 38.º - 1 - Os lugares de operador de reprografia de 1.ª classe e de 2.ª classe serão providos, respectivamente, de entre operadores de reprografia de 2.ª classe e de 3.ª classe com, pelo menos, 3 anos de bom e efectivo serviço.
+Art. 38.º - 1 - Os lugares de operador de reprografia de 1.ª classe e de 2.ª classe serão providos, respectivamente, de entre operadores de reprografia de 2.ª classe e de 3.ª classe com, pelo menos, 3 anos de bom e efectivo serviço.
 
 2 - O lugar de operador de reprografia de 3.ª classe será provido de entre indivíduos habilitados com a escolaridade obrigatória.
 
-###### Art. 39.º Os lugares de encarregado de pessoal auxiliar, bem como os de telefonista, motorista, contínuo, porteiro, guarda e servente, serão providos nos termos da lei geral.
+Art. 39.º Os lugares de encarregado de pessoal auxiliar, bem como os de telefonista, motorista, contínuo, porteiro, guarda e servente, serão providos nos termos da lei geral.
 
-###### Art. 40.º - 1 - Excepcionalmente, e sem prejuízo dos requisitos habilitacionais, quando se verifique a inexistência de funcionários que reúnam os demais requisitos de promoção, poderão ser recrutados para lugares de acesso da carreira técnica superior indivíduos de comprovada experiência profissional, mediante proposta fundamentada pelo director-geral.
+Art. 40.º - 1 - Excepcionalmente, e sem prejuízo dos requisitos habilitacionais, quando se verifique a inexistência de funcionários que reúnam os demais requisitos de promoção, poderão ser recrutados para lugares de acesso da carreira técnica superior indivíduos de comprovada experiência profissional, mediante proposta fundamentada pelo director-geral.
 
 2 - O recrutamento realizado nos termos do número anterior fica condicionado à comprovação e conhecimento equiparáveis ao exigido no presente diploma para a categoria onde o recrutado for provido.
 
-###### Art. 41.º - 1 - Para a realização de tarefas que não possam ser asseguradas pelo pessoal dos quadros, poderá ser requisitado pessoal a outros organismos e serviços, com o acordo prévio do funcionário ou agente a requisitar e a anuência do membro do Governo de que dependem.
+Art. 41.º - 1 - Para a realização de tarefas que não possam ser asseguradas pelo pessoal dos quadros, poderá ser requisitado pessoal a outros organismos e serviços, com o acordo prévio do funcionário ou agente a requisitar e a anuência do membro do Governo de que dependem.
 
 2 - O despacho de requisição fixará o vencimento correspondente, a satisfazer por conta de dotações para o efeito inscritas no respectivo orçamento, e determinará o período de duração, que não poderá exceder o prazo de 1 ano, prorrogável por uma só vez.
 
 3 - Nas condições previstas nos números anteriores, o pessoal da DGPMEN poderá ser requisitado para outros departamentos da Administração Pública.
 
-###### Art. 42.º - 1 - O pessoal da DGPMEN poderá ser destacado para outros serviços ou organismos da Administração Pública, podendo também o pessoal de outros serviços ou organismos ser destacado para a DGPMEN.
+Art. 42.º - 1 - O pessoal da DGPMEN poderá ser destacado para outros serviços ou organismos da Administração Pública, podendo também o pessoal de outros serviços ou organismos ser destacado para a DGPMEN.
 
 2 - Os destacamentos a que se refere o número anterior dependem do acordo dos interessados e de autorização do membro do Governo de que dependa o funcionário, não podendo exceder o período de 6 meses, prorrogável até ao limite de 1 ano.
 
-###### Art. 43.º A DGPMEN poderá promover a realização de cursos ou estágios de actualização técnico-profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
+Art. 43.º A DGPMEN poderá promover a realização de cursos ou estágios de actualização técnico-profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 44.º - 1 - Para os efeitos do presente diploma, entende-se por pessoal da marinha mercante os inscritos marítimos afectos às marinhas de comércio e da pesca, excluindo-se, do âmbito das atribuições desta Direcção-Geral, a especialização profissional do pessoal da marinha de pesca.
+Art. 44.º - 1 - Para os efeitos do presente diploma, entende-se por pessoal da marinha mercante os inscritos marítimos afectos às marinhas de comércio e da pesca, excluindo-se, do âmbito das atribuições desta Direcção-Geral, a especialização profissional do pessoal da marinha de pesca.
 
 2 - As atribuições da DGPMEN relativamente aos desportistas náuticos abrangem a sua qualificação técnica, excluindo-se os aspectos meramente desportivos.
 
 3 - Os rebocadores e embarcações auxiliares são considerados, para efeitos deste diploma, navios de comércio.
 
-###### Art. 45.º Serão definidos por decreto regulamentar a área de jurisdição, número, estrutura, funcionamento e respectivos quadros de pessoal das direcções regionais marítimas a que se refere o artigo 22.º do presente diploma.
+Art. 45.º Serão definidos por decreto regulamentar a área de jurisdição, número, estrutura, funcionamento e respectivos quadros de pessoal das direcções regionais marítimas a que se refere o artigo 22.º do presente diploma.
 
-###### Art. 46.º Integrarão o património da DGPMEN os bens e direitos do Estado, incluindo os emergentes de contratos de arrendamento e outros, anteriormente afectos às ex-Direcções-Gerais dos Estudos Náuticos e do Pessoal do Mar.
+Art. 46.º Integrarão o património da DGPMEN os bens e direitos do Estado, incluindo os emergentes de contratos de arrendamento e outros, anteriormente afectos às ex-Direcções-Gerais dos Estudos Náuticos e do Pessoal do Mar.
 
-###### Art. 47.º As quantias a cobrar por serviços prestados a entidades públicas ou privadas serão determinadas em tabela a publicar por portaria conjunta dos Ministros das Finanças e do Plano e da Habitação, Obras Públicas e Transportes.
+Art. 47.º As quantias a cobrar por serviços prestados a entidades públicas ou privadas serão determinadas em tabela a publicar por portaria conjunta dos Ministros das Finanças e do Plano e da Habitação, Obras Públicas e Transportes.
 
-###### Art. 48.º Enquanto não for atribuída autonomia administrativa à Escola de Mestrança e Marinhagem, compete à DGPMEN processar todas as requisições de fundos necessários não só ao pagamento de vencimentos do respectivo pessoal como de todas as despesas inerentes ao funcionamento normal da Escola.
+Art. 48.º Enquanto não for atribuída autonomia administrativa à Escola de Mestrança e Marinhagem, compete à DGPMEN processar todas as requisições de fundos necessários não só ao pagamento de vencimentos do respectivo pessoal como de todas as despesas inerentes ao funcionamento normal da Escola.
 
-###### Art. 49.º - 1 - Até ao pleno provimento dos lugares do quadro de pessoal referidos no artigo 23.º, o funcionamento dos serviços da DGPMEN será assegurado pelo pessoal que até à data da publicação do presente diploma se encontre a prestar serviço a qualquer título nas ex-Direcções-Gerais dos Estudos Náuticos e do Pessoal do Mar.
+Art. 49.º - 1 - Até ao pleno provimento dos lugares do quadro de pessoal referidos no artigo 23.º, o funcionamento dos serviços da DGPMEN será assegurado pelo pessoal que até à data da publicação do presente diploma se encontre a prestar serviço a qualquer título nas ex-Direcções-Gerais dos Estudos Náuticos e do Pessoal do Mar.
 
 2 - Sem prejuízo do disposto no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 25 de Junho, os lugares ou categorias constantes dos quadros de pessoal das ex-direcções-gerais e não previstos no anexo I deste diploma serão extintos à medida que os respectivos titulares transitem para novos cargos ou categorias, nos termos da alínea b) do n.º 1 e do n.º 2 do artigo 51.º do presente diploma.
 
-###### Art. 50.º - 1 - O recrutamento para o cargo de director de serviços administrativos poderá ser feito, nos termos do artigo 9.º do [Decreto-Lei n.º 180/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1980-474877), de 3 de Junho, de entre os chefes de repartição das ex-Direcções-Gerais dos Estudos Náuticos e do Pessoal do Mar.
+Art. 50.º - 1 - O recrutamento para o cargo de director de serviços administrativos poderá ser feito, nos termos do artigo 9.º do [Decreto-Lei n.º 180/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1980-474877), de 3 de Junho, de entre os chefes de repartição das ex-Direcções-Gerais dos Estudos Náuticos e do Pessoal do Mar.
 
 2 - Sendo feita a nomeação nos termos do número anterior, e finda a comissão de serviço, ao titular do cargo é assegurado o direito ao exercício de funções técnicas, mediante integração na categoria de técnico superior de 1.ª classe, contando o tempo de exercício do cargo de director de serviços administrativos, para todos os efeitos, como tendo sido prestado na carreira técnica superior.
 
-###### Art. 51.º - 1 - De acordo com os prazos fixados na lei geral, e sem prejuízo dos requisitos habilitacionais legalmente estabelecidos, o pessoal que à data de entrada em vigor deste diploma se encontre a prestar serviço na ex-Direcção-Geral dos Estudos Náuticos e na ex-Direcção-Geral do Pessoal do Mar transitará para as categorias previstas no quadro de pessoal da DGPMEN, com observância do disposto nas alíneas a) e b) do artigo 19.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, e de acordo com as seguintes regras:
+Art. 51.º - 1 - De acordo com os prazos fixados na lei geral, e sem prejuízo dos requisitos habilitacionais legalmente estabelecidos, o pessoal que à data de entrada em vigor deste diploma se encontre a prestar serviço na ex-Direcção-Geral dos Estudos Náuticos e na ex-Direcção-Geral do Pessoal do Mar transitará para as categorias previstas no quadro de pessoal da DGPMEN, com observância do disposto nas alíneas a) e b) do artigo 19.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, e de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário já possui;
 
@@ -562,24 +607,24 @@ b) Para categoria correspondente às funções que o funcionário ou agente actu
 
 4 - Quando, pela aplicação das normas constantes do presente diploma, puder resultar para o funcionário ou agente provimento em categoria remunerada por letra de vencimento inferior à que já detém, aquele manterá a actual designação funcional e respectiva remuneração, extinguindo-se os correspondentes lugares à medida que vagarem.
 
-###### Art. 52.º O ordenamento de carreiras e categorias constantes do quadro de pessoal da DGPMEN poderá ser alterado por portaria conjunta do Ministro da Habitação, Obras Públicas e Transportes e do Ministro da Reforma Administrativa, desde que o respectivo normativo de provimento conste da lei geral, ou, caso contrário, mediante decreto.
+Art. 52.º O ordenamento de carreiras e categorias constantes do quadro de pessoal da DGPMEN poderá ser alterado por portaria conjunta do Ministro da Habitação, Obras Públicas e Transportes e do Ministro da Reforma Administrativa, desde que o respectivo normativo de provimento conste da lei geral, ou, caso contrário, mediante decreto.
 
-###### Art. 53.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Habitação, Obras Públicas e Transportes e por despacho conjunto do Ministro da Habitação, Obras Públicas e Transportes, do Ministro das Finanças e do Plano e do Ministro da Reforma Administrativa sobre matérias das respectivas competências.
+Art. 53.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Habitação, Obras Públicas e Transportes e por despacho conjunto do Ministro da Habitação, Obras Públicas e Transportes, do Ministro das Finanças e do Plano e do Ministro da Reforma Administrativa sobre matérias das respectivas competências.
 
-###### Art. 54.º Na execução do presente diploma não serão ultrapassadas, no presente ano económico, as dotações consignadas no Orçamento Geral do Estado à DGPMEN.
+Art. 54.º Na execução do presente diploma não serão ultrapassadas, no presente ano económico, as dotações consignadas no Orçamento Geral do Estado à DGPMEN.
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - João Carlos Pinto Soromenho Viana Baptista - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 23 de Maio de 1983.**
+Promulgado em 23 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Maio de 1983.**
+Referendado em 30 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 ## ANEXO — Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/13800/21672174.pdf))](https://files.diariodarepublica.pt/1s/1983/06/13800/21672174.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/13800/21672174.pdf)

@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/111-1981-390023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:36:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c310e6f9a35422dcb831fff60a76ee6b67952314eae57cc99601311928242c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac4608ba602682e4aea503f2aae42724b5bb22b773cbd18626155578a2b4fdd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:36:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Ensino Superior
+- Faculdade de Ciências e Tecnologia
+- Regulamento
+- Universidade de Coimbra
+relationships:
+- type: cites
+  target: pt:dre:159731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:36:58Z'
   warnings: []
   errors: []
 ---
@@ -133,11 +154,11 @@ Regulamento dos Departamentos de Matemática e de Física da Faculdade de Ciênc
 
 ### CAPÍTULO I — Natureza e objectivos
 
-###### Artigo 1.º O Departamento de Matemática e o Departamento de Física da Faculdade de Ciências e Tecnologia são unidades orgânicas permanentes, dirigidas à realização continuada das tarefas de ensino conducente à licenciatura e à pós-licenciatura e de investigação fundamental e aplicada nos respectivos domínios científicos, cabendo-lhes ainda promover o desenvolvimento tecnológico, a prestação de serviços ao exterior e a efectivação das actividades de extensão universitária.
+Artigo 1.º O Departamento de Matemática e o Departamento de Física da Faculdade de Ciências e Tecnologia são unidades orgânicas permanentes, dirigidas à realização continuada das tarefas de ensino conducente à licenciatura e à pós-licenciatura e de investigação fundamental e aplicada nos respectivos domínios científicos, cabendo-lhes ainda promover o desenvolvimento tecnológico, a prestação de serviços ao exterior e a efectivação das actividades de extensão universitária.
 
-###### Art. 2.º Os Departamentos de Matemática e de Física da Faculdade de Ciências e Tecnologia da Universidade de Coimbra gozam de autonomia pedagógica e científica, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos da Universidade e ou da escola.
+Art. 2.º Os Departamentos de Matemática e de Física da Faculdade de Ciências e Tecnologia da Universidade de Coimbra gozam de autonomia pedagógica e científica, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos da Universidade e ou da escola.
 
-###### Art. 3.º - 1 - Poderão ser criadas secções nos Departamentos de Matemática e de Física da Faculdade de Ciências e Tecnologia da Universidade de Coimbra sempre que a sua dimensão e a pluralidade das matérias científicas compreendidas na sua área o recomendem.
+Art. 3.º - 1 - Poderão ser criadas secções nos Departamentos de Matemática e de Física da Faculdade de Ciências e Tecnologia da Universidade de Coimbra sempre que a sua dimensão e a pluralidade das matérias científicas compreendidas na sua área o recomendem.
 
 2 - As secções deverão corresponder a áreas diferenciadas do conhecimento, quer ao nível do departamento em que estão integradas quer também ao nível da Faculdade.
 
@@ -147,13 +168,13 @@ Regulamento dos Departamentos de Matemática e de Física da Faculdade de Ciênc
 
 ### CAPÍTULO II — Dos órgãos dos departamentos
 
-###### Art. 4.º Cada departamento tem os seguintes órgãos:
+Art. 4.º Cada departamento tem os seguintes órgãos:
 
 a) Conselho de departamento;
 
 b) Comissão executiva.
 
-###### Art. 5.º - 1 - O conselho de departamento é constituído por membros permanentes e por membros não permanentes.
+Art. 5.º - 1 - O conselho de departamento é constituído por membros permanentes e por membros não permanentes.
 
 2 - São membros permanentes do conselho de departamento os professores catedráticos, associados e auxiliares e os investigadores doutorados incluídos na área científica abrangida pelo departamento respectivo.
 
@@ -161,7 +182,7 @@ b) Comissão executiva.
 
 4 - Os membros não permanentes, em número de três por cada departamento, são eleitos por períodos bienais.
 
-###### Art. 6.º - 1 - A eleição dos membros não permanentes terá lugar nos primeiros dez dias do mês de Outubro do primeiro ano de cada biénio.
+Art. 6.º - 1 - A eleição dos membros não permanentes terá lugar nos primeiros dez dias do mês de Outubro do primeiro ano de cada biénio.
 
 2 - A fim de se proceder à eleição dos membros não permanentes, o presidente do conselho de departamento ou, na sua falta ou impedimento, o seu substituto legal convocará os docentes e investigadores não doutorados, bem como os professores convidados em regime de tempo integral, da área departamental, para uma sessão especial, a que presidirá.
 
@@ -173,7 +194,7 @@ b) Comissão executiva.
 
 6 - Os membros eleitos entram em funções no dia imediato ao da eleição e cessarão funções no dia em que forem eleitos novos membros não permanentes.
 
-###### Art. 7.º - 1 - O conselho de departamento é presidido por um professor catedrático ou associado do departamento.
+Art. 7.º - 1 - O conselho de departamento é presidido por um professor catedrático ou associado do departamento.
 
 2 - O presidente é eleito pela totalidade dos membros do conselho para mandato bienal.
 
@@ -195,7 +216,7 @@ b) Comissão executiva.
 
 11 - O exercício do cargo de presidente do conselho de departamento é incompatível com o de presidente de outros órgãos directivos universitários.
 
-###### Art. 8.º - 1 - Ao conselho de departamento compete:
+Art. 8.º - 1 - Ao conselho de departamento compete:
 
 a) Elaborar propostas de alteração ao regulamento do departamento;
 
@@ -239,13 +260,13 @@ o) Deliberar sobre as matérias que lhe sejam submetidas pelos órgãos de gest�
 
 8 - Nas deliberações relativas a equiparações a bolseiro, a dispensa de serviço docente, a nomeações de pessoal docente ou de júris de concurso ou de provas, só terão direito a voto os membros do conselho cuja categoria seja superior à dos interessados, salvo quando se trate de professores catedráticos, em que apenas terão direito a voto os membros do conselho de igual categoria.
 
-###### Art. 9.º A comissão executiva do departamento é constituída por:
+Art. 9.º A comissão executiva do departamento é constituída por:
 
 a) O presidente do conselho de departamento, que preside;
 
 b) Dois membros do conselho de departamento em exercício de funções, designados pelo presidente.
 
-###### Art. 10.º - 1 - À comissão executiva compete:
+Art. 10.º - 1 - À comissão executiva compete:
 
 a) Dirigir o departamento de acordo com a legislação em vigor, com as normas gerais da Faculdade e com as deliberações e orientações estabelecidas pelo conselho de departamento;
 
@@ -263,7 +284,7 @@ g) Zelar pela boa conservação das instalações e do equipamento afecto ao dep
 
 2 - A destituição ou demissão do presidente do conselho de departamento implica a cessação de funções da comissão executiva.
 
-###### Art. 11.º - 1 - Ao presidente do conselho de departamento compete:
+Art. 11.º - 1 - Ao presidente do conselho de departamento compete:
 
 a) Convocar e conduzir as reuniões do conselho de departamento e da comissão executiva;
 
@@ -277,17 +298,17 @@ d) Fazer parte, por inerência de funções, da comissão coordenadora do consel
 
 3 - O presidente do conselho de departamento poderá ser parcialmente dispensado do serviço docente durante o seu mandato, sem perda da remuneração que vinha auferindo.
 
-###### Art. 12.º - 1 - As atribuições das comissões de grupo previstas no [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro, e não consideradas no presente Regulamento ficam cometidas às comissões a constituir pelos professores doutorados do Departamento.
+Art. 12.º - 1 - As atribuições das comissões de grupo previstas no [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro, e não consideradas no presente Regulamento ficam cometidas às comissões a constituir pelos professores doutorados do Departamento.
 
 2 - Os professores que prestem serviço em mais de um departamento ou num grupo e num departamento só poderão integrar-se numa comissão de grupo ou de departamento.
 
 ### CAPÍTULO III — Dos órgãos das secções autónomas
 
-###### Art. 13.º - 1 - Cada secção autónoma tem como órgãos o conselho e ou o coordenador de secção, o qual deverá ser um professor em tempo integral e em exercício de funções.
+Art. 13.º - 1 - Cada secção autónoma tem como órgãos o conselho e ou o coordenador de secção, o qual deverá ser um professor em tempo integral e em exercício de funções.
 
 2 - Compete ao conjunto dos membros de cada secção deliberar da conveniência em constituir o conselho de secção.
 
-###### Art. 14.º Os conselhos e os coordenadores das secções autónomas têm, com as necessárias adaptações, as competências referidas nas alíneas e), f), h) e o) do artigo 8.º do presente Regulamento, competindo-lhes ainda:
+Art. 14.º Os conselhos e os coordenadores das secções autónomas têm, com as necessárias adaptações, as competências referidas nas alíneas e), f), h) e o) do artigo 8.º do presente Regulamento, competindo-lhes ainda:
 
 a) Elaborar as propostas do plano de actividades e do orçamento, submetendo-as à aprovação dos órgãos de gestão da Faculdade de Ciências e Tecnologia;
 
@@ -295,7 +316,7 @@ b) Propor aos órgãos de gestão da Faculdade de Ciências e Tecnologia o estab
 
 ### CAPÍTULO IV — Da comissão coordenadora do conselho científico da Faculdade de Ciências e Tecnologia
 
-###### Art. 15.º A comissão coordenadora do conselho científico da Faculdade de Ciências e Tecnologia será constituída por:
+Art. 15.º A comissão coordenadora do conselho científico da Faculdade de Ciências e Tecnologia será constituída por:
 
 a) O presidente do conselho científico, que dispõe de voto de qualidade;
 
@@ -309,15 +330,15 @@ e) Um professor de cada departamento, eleito pelo respectivo conselho.
 
 ### CAPÍTULO V — Da autonomia dos departamentos
 
-###### Art. 16.º - 1 - Ficarão afectos aos departamentos e estabelecimentos anexos os edifícios que foram construídos com o propósito da sua instalação e, bem assim, as instalações e equipamentos que se mostrem indispensáveis ao seu funcionamento.
+Art. 16.º - 1 - Ficarão afectos aos departamentos e estabelecimentos anexos os edifícios que foram construídos com o propósito da sua instalação e, bem assim, as instalações e equipamentos que se mostrem indispensáveis ao seu funcionamento.
 
 2 - A utilização dos edifícios, instalações e equipamentos referidos no número anterior será definida pelos órgãos de gestão da Faculdade de acordo com os órgãos directivos dos departamentos e dos estabelecimentos anexos, tendo em vista o bom funcionamento da Faculdade.
 
-###### Art. 17.º O pessoal necessário ao funcionamento dos departamentos pertencerá aos quadros da Faculdade de Ciências e Tecnologia e será afectado ao departamento respectivo.
+Art. 17.º O pessoal necessário ao funcionamento dos departamentos pertencerá aos quadros da Faculdade de Ciências e Tecnologia e será afectado ao departamento respectivo.
 
 ### CAPÍTULO VI — Das disposições gerais
 
-###### Art. 18.º - 1 - Os órgãos com poder deliberativo só podem deliberar quando estiver presente a maioria dos seus membros em efectividade de funções.
+Art. 18.º - 1 - Os órgãos com poder deliberativo só podem deliberar quando estiver presente a maioria dos seus membros em efectividade de funções.
 
 2 - As decisões são tomadas por maioria simples quando isso não contrarie preceitos legais ou normas regulamentares.
 
@@ -325,12 +346,12 @@ e) Um professor de cada departamento, eleito pelo respectivo conselho.
 
 ### CAPÍTULO VII — Das disposições transitórias
 
-###### Art. 19.º - 1 - No prazo de trinta dias após a publicação deste Regulamento serão desencadeados os processos eleitorais nele previstos.
+Art. 19.º - 1 - No prazo de trinta dias após a publicação deste Regulamento serão desencadeados os processos eleitorais nele previstos.
 
 2 - Cabe ao membro mais antigo da categoria mais elevada de cada departamento o desencadeamento dos respectivos processos eleitorais.
 
-###### Art. 20.º A comissão coordenadora do conselho científico, constituída de acordo com o presente Regulamento, entra em funções no prazo de trinta dias após o termo dos processos eleitorais referidos no artigo anterior.
+Art. 20.º A comissão coordenadora do conselho científico, constituída de acordo com o presente Regulamento, entra em funções no prazo de trinta dias após o termo dos processos eleitorais referidos no artigo anterior.
 
-###### Art. 21.º O presente Regulamento entra em vigor no dia da sua publicação no Diário da República.
+Art. 21.º O presente Regulamento entra em vigor no dia da sua publicação no Diário da República.
 
-**O Ministro da Educação e Ciência, Vítor Pereira Crespo.**
+O Ministro da Educação e Ciência, Vítor Pereira Crespo.

@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/540-1970-147432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18c95ab75059fd9b593f1680a24aad4edab5be8103cc164a9c1dc9d400497eee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 020cde1b429a0de8baf2d3c1aeba3bb9ddf1a59e4c5e2bfede94ea30357a1225
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,13 +72,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:28Z'
   warnings: []
   errors: []
 ---
@@ -101,4 +101,4 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado das Comunic
 
 2.º Como consequência desta denúncia, deverá The Western Union International, Incorporated, deixar de exercer a sua actividade em território português e encerrar a sua estação no dia 31 de Dezembro de 1970, devendo ainda desmontar todas as suas instalações e liquidar os respectivos serviços dentro do prazo de um ano, a contar desta última data, sob pena de tais instalações reverterem, no fim deste prazo, para os CTT.
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

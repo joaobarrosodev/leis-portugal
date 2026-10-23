@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 96/1974, 1º Suplemento, Série I de 1974-04-24
   number: '96'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 580-(24) a 580-(25)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/04/09601/00240025.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/323-1974-266127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T04:24:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 042ef94c6f57ae842a5845d4229c19050fa016f0aebab74ce453c4b12a7d1fb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b50028704d4183df4f1e37486a3ea2872fce2fff8731d545274f7e5ee87cf430
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:24:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,30 @@ relationships:
   target: pt:dre:315546:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:238645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410940:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:315546:por
+  label: Revogada pelo(a) Portaria n.º 101-I/77 - Diário da República n.º 50/1977, 2º Suplemento, Série I de 1977-03-01, na
+    parte que contraria a mesma portaria
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-i-1977-315546
+  date: '1977-03-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:24:38Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +125,7 @@ Quadro a que se refere o n.º 15.º
 
 Máximo admitido para despesas gerais de transporte, preparação e acondicionamento, incluído o custo do recipiente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/09601/00240025.pdf))](https://files.diariodarepublica.pt/1s/1974/04/09601/00240025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/09601/00240025.pdf)
 
 3.º Esta portaria entra imediatamente em vigor.
 

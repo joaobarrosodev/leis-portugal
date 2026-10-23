@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/15100/0390303903.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/48/2018/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/48-2018-115933861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T05:32:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f29191b35b4c792518ed393f9a4b9a79a2adefe27a68fdd1b62c1d3cae44058
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3e46491fe30488d4b854fc21ed51e8b1a573958ea4035dcc096bca2843fcb18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:32:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Conselho da Europa
+- Convenção
 - Crime
 - Órgãos Humanos
-- Convenção
 - Portugal
-- Saúde
-- Conselho da Europa
 - Santiago de Compostela
+- Saúde
 - Tráfico de Órgãos Humanos
 relationships:
 - type: cites
@@ -82,13 +82,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:32:53Z'
   warnings: []
   errors: []
 ---
@@ -97,16 +97,18 @@ validation:
 
 de 7 de agosto
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b) da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b) da Constituição, o seguinte:
 
 É ratificada a Convenção do Conselho da Europa contra o Tráfico de Órgãos Humanos, aberta a assinatura em Santiago de Compostela em 25 de março de 2015, aprovada pela [Resolução da Assembleia da República n.º 236/2018](https://diariodarepublica.pt/web/guest/pesquisa/-/search/115933864/details/normal?l=1), em 23 de março de 2018.
 
-**Assinado em 19 de julho de 2018.**
+Assinado em 19 de julho de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de julho de 2018.**
+Referendado em 27 de julho de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111561887

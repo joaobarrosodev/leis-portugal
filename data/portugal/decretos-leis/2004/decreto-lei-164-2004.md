@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/164/2004/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-2004-517436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df841c5e8894759ca8eed4189b6fbeb04fead5b8f63f8f53b873b84a821cc842
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71966d0b2efe8589ae676786865d5cb41a6fecba07f19c9d4086006fe43e761c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,14 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Biotecnologia
-- Organismo Geneticamente Modificado
+- Comércio
 - Direção Geral da Saúde
 - Direcção Geral de Protecção das Culturas
-- Saúde Pública
 - Instituto do Ambiente
+- Organismo Geneticamente Modificado
 - Proteção do Ambiente
+- Saúde Pública
 - Taxa
-- Comércio
 relationships:
 - type: cites
   target: celex:32001L0018
@@ -91,15 +91,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2003/1830/oj
 article_structure:
-  article_count: 4
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:15Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +132,9 @@ Medidas transitórias relativas à presença acidental ou tecnicamente inevitáv
 
 2 - O presente artigo vigorará por um período de três anos a contar da data da aplicação do Regulamento (CE) n.º [1829/2003](https://data.europa.eu/eli/reg/2003/1829/oj?locale=pt), do Parlamento Europeu e do Conselho, de 22 de Setembro.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -140,11 +142,15 @@ Medidas transitórias relativas à presença acidental ou tecnicamente inevitáv
 
 3 - No que respeita aos produtos destinados ao processamento directo, o disposto no n.º 1 não é aplicável aos vestígios de OGM autorizados numa proporção não superior a 0,9% ou a limiares mais baixos estabelecidos pela Comissão Europeia, de acordo com os procedimentos previstos no n.º 2 do artigo 30.º da Directiva n.º [2001/18/CE](https://data.europa.eu/eli/dir/2001/18/oj?locale=pt), do Parlamento Europeu e do Conselho, de 12 de Março, desde que a presença desses vestígios seja acidental ou tecnicamente inevitável.
 
-###### Artigo 26.º-A — Medidas destinadas a evitar a presença acidental de OGM
+Artigo 26.º-A
+
+Medidas destinadas a evitar a presença acidental de OGM
 
 O Governo estabelecerá, em diploma específico, medidas visando evitar a presença acidental de OGM, incluindo medidas de coexistência entre culturas geneticamente modificadas e outros modos de produção agrícola.
 
-###### Artigo 38.º-A — Taxas
+Artigo 38.º-A
+
+Taxas
 
 1 - Pela apreciação dos processos de notificação previstos nos artigos 5.º e 16.º do presente diploma são devidas taxas, cujo montante mínimo é de (euro) 1500 e o montante máximo é de (euro) 20000, a cobrar pelo Instituto do Ambiente, cujos critérios e montantes são fixados por portaria conjunta dos Ministros das Finanças e das Cidades, Ordenamento do Território e Ambiente.
 
@@ -164,12 +170,12 @@ c) 20% para a Direcção-Geral da Protecção das Culturas.»
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 22 de Junho de 2004.**
+Promulgado em 22 de Junho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Junho de 2004.**
+Referendado em 24 de Junho de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

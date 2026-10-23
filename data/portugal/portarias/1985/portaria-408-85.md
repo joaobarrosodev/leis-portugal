@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/408-1985-182181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T08:26:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c72ac68f3e3b55cb6d90e7768b3943ce9bec4ceea0a39b30fb2ea1375396cb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0aa3a9e8b44a0c8aec9d5f0267c1251ea827c7a2716a31ba77bc22d86ddb2e3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:26:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aeroporto
+- Taxa Aeroportuária
+- Transporte Aéreo
+relationships:
+- type: cites
+  target: pt:dre:383988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684779:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:26:07Z'
   warnings: []
   errors: []
 ---
@@ -393,6 +408,6 @@ Fica revogada a [Portaria n.º 308/84](https://diariodarepublica.pt/dr/detalhe/p
 
 Ministérios das Finanças e do Plano, do Comércio e Turismo e do Equipamento Social.
 
-**Assinada em 15 de Maio de 1985.**
+Assinada em 15 de Maio de 1985.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral. - O Ministro do Equipamento Social, Carlos Montez Melancia.

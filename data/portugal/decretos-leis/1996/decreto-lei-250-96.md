@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/250/1996/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1996-145862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:46:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e34df92b78e7a3ebff43c4cab4a6ae6caf62b4da0ce48547a0dd2b3507b3bdd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd01ae6f335a7cddbdd82e15bb19e1ec889c280c0f3d2adf2e6d7aa542931a9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:46:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,28 @@ subjects:
 - Arquivos Nacionais-torre do Tombo
 - Assinatura Reconhecida
 - Bilhete de Identidade
-- Modernização Administrativa
 - Código do Notariado
-- Serviços de Registo e Notariado
-- Registos e Notariado
+- Modernização Administrativa
 - Reconhecimento Notarial
+- Registos e Notariado
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:642527:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:217323:por
+  label: "Alterados os arts. 21.º e 155.º do Código do Notariado, aprovado pelo Dec Lei 207/95 de 14-Ago, na redacção do presente\
+    \ diploma, pelo DEC LEI.380/98.27.11.1998.MJ, DR.IS-A [275] de 27.11.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/380-1998-217323
+  date: '1998-11-27'
+- type: amended_by
+  target: pt:dre:621554:por
+  label: "Altera os arts.70º, 71º, 73º a 79º, 92º, 99º e 131º do Código do Notariado aprovado pelo Dec Lei 207/95 de 14-Ago,\
+    \ e alterado pelo presente diploma, pelo DEC LEI.273/2001.2001.10.13.MJ,DR.IS-A [238]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2001-621554
+  date: '2001-10-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/168/1995/07/15/p/dre
   label: null
@@ -92,16 +104,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/267/1992/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/267/1992/11/28/p/dre
+- type: cites
+  target: pt:dre:395890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599729:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:261283:por
+  label: "Rectificado o presente diploma, [na parte que confere nova redacção ao n.ºs 5 e 6 do art. 153.º do Código do Notariado,\
+    \ aprovado pelo Dec Lei 207/95, de 14-Ago] pela Decl-Rect 4-A/97.1997.01.14.PCM, DR.IS-A [26]2ºSupl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-a-1997-261283
+  date: '1997-01-14'
 article_structure:
-  article_count: 19
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:46:38Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +214,9 @@ m) [Anterior alínea n).]
 
 4 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -192,7 +236,9 @@ g) [Anterior alínea h).]
 
 2 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -202,7 +248,9 @@ g) [Anterior alínea h).]
 
 4 - (Anterior n.º 5.)
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -216,7 +264,9 @@ g) [Anterior alínea h).]
 
 6 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Em cada cartório deve haver índices dos outorgantes, pelo sistema de fichas ou de verbetes onomásticos, que devem ser preenchidos diariamente.
 
@@ -230,11 +280,15 @@ g) [Anterior alínea h).]
 
 6 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 As fichas ou verbetes devem catalogar-se por ordem alfabética e conter, pelo menos, o nome dos titulares, a espécie dos actos em que eles outorgaram e a indicação do número do livro e das folhas em que estes actos foram exarados ou do maço em que se encontrem os respectivos documentos, quando arquivados.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -244,7 +298,9 @@ As fichas ou verbetes devem catalogar-se por ordem alfabética e conter, pelo me
 
 4 - ...
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Os averbamentos lavrados nos instrumentos avulsos e nos livros previstos na alíneas a) e b) do n.º 1 do artigo 7.º e os actos ou termos lavrados nos livros a que se referem as alíneas c) a g) do n.º 1 do mesmo artigo são numerados segundo a ordem por que forem exarados.
 
@@ -252,7 +308,9 @@ As fichas ou verbetes devem catalogar-se por ordem alfabética e conter, pelo me
 
 3 - ...
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -276,7 +334,9 @@ g) ...
 
 4 - ...
 
-###### Artigo 116.º — [...]
+Artigo 116.º
+
+[...]
 
 1 - As procurações que exijam intervenção notarial podem ser lavradas por instrumento público, por documento escrito e assinado pelo representado com reconhecimento presencial da letra e assinatura ou por documento autenticado.
 
@@ -284,7 +344,9 @@ g) ...
 
 3 - (Anterior n.º 4.)
 
-###### Artigo 153.º — [...]
+Artigo 153.º
+
+[...]
 
 1 - Os reconhecimentos notariais podem ser simples ou com menções especiais.
 
@@ -298,7 +360,9 @@ g) ...
 
 6 - Designa-se por semelhança o reconhecimento com a menção especial relativa à qualidade de representante do signatário feito por simples confronto da assinatura deste com a assinatura aposta no bilhete de identidade do documento equivalente emitido pela autoridade competente de um dos países da União Europeia, ou no passaporte ou com a respectiva reprodução constante de pública-forma extraída por fotocópia.
 
-###### Artigo 155.º — [...]
+Artigo 155.º
+
+[...]
 
 1 - ...
 
@@ -306,7 +370,9 @@ g) ...
 
 3 - Os reconhecimentos com menções especiais devem conter, além dos requisitos exigidos no número anterior, a menção dos documentos exibidos e referenciados no termo.
 
-###### Artigo 198.º — [...]
+Artigo 198.º
+
+[...]
 
 1 - Os livros indicados nas alíneas a) a c), f) e g) do n.º 1 do artigo 7.º estão sujeitos ao imposto a que se refere o artigo 112 da Tabela Geral do Imposto do Selo.
 
@@ -344,12 +410,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Outubro de 1996. - António Manuel de Carvalho Ferreira Vitorino - José Manuel de Matos Fernandes.
 
-**Promulgado em 9 de Dezembro de 1996.**
+Promulgado em 9 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Dezembro de 1996.**
+Referendado em 11 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

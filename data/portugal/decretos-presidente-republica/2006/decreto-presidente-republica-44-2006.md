@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/44/2006/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/44-2006-653280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T04:55:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8afd4f2fcd364e34beb4b648a0164c312259556e134a81011eaa2e6939cc66e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e194951de0d54b57b817be99d21974201d46367a671860bb5945f9fe6cc279ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:55:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,13 +73,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:55:12Z'
   warnings: []
   errors: []
 ---
@@ -88,12 +88,12 @@ validation:
 
 de 10 de Abril
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea n), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea n), da Constituição, o seguinte:
 
 São nomeados vogais do Conselho Superior da Magistratura o Juiz Conselheiro Álvaro José Brilhante Laborinho Lúcio e o Prof. Doutor Manuel da Costa Andrade.
 
-**Assinado em 31 de Março de 2006.**
+Assinado em 31 de Março de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.

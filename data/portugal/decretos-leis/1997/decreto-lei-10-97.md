@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/10/1997/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1997-532239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:48:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a058290111f284dd7c4bac5d0be105973783ec2eca53292015ea61e26c9e506
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64388e60402bbeb27df67443b22c26045551987d776ec89e06b3826e11f4afb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:48:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Geral dos Serviços Prisionais
-- Pessoal Dirigente
 - Criação de Lugares
+- Direcção Geral dos Serviços Prisionais
 - Orgânica
 - Pessoal de Inspecção
+- Pessoal Dirigente
 - Programa de Acção para o Sistema Prisional
 - Quadro de Pessoal
 relationships:
@@ -77,6 +77,13 @@ relationships:
   target: pt:dre:374615:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:374615:por
+  label: "Alterados os arts. 2º, 5º, 7º, 8º, 10º, 11º, 12º, 14º, 15º, 16º, 17º, 18º, 21º, 36º-D, 38º, 43º, 46º, 47º, 50º,\
+    \ 62º e 113º do Dec Lei 268/81 de 16-Set, na redacção dada pelo presente diploma, pelo DEC LEI.257/99.1999.07.07.MJ,DR.IS-A\
+    \ [156]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-1999-374615
+  date: '1999-07-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/84/1996/03/18/p/dre
   label: null
@@ -85,16 +92,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/62/1996/04/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/62/1996/04/29/p/dre
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666119:por
+  label: null
+  source: null
 article_structure:
-  article_count: 34
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:48:39Z'
   warnings: []
   errors: []
 ---
@@ -125,9 +160,13 @@ A subsecção I da secção II do capítulo II do [Decreto-Lei n.º 268/81](http
 
 Serviços
 
-##### SUBSECÇÃO I — Serviços centrais
+SUBSECÇÃO I
 
-###### Artigo 14.º — Organização
+Serviços centrais
+
+Artigo 14.º
+
+Organização
 
 1 - ...
 
@@ -165,7 +204,9 @@ i) O Centro de Formação Penitenciária.
 
 5 - O Centro de Formação Penitenciária rege-se por diploma próprio.
 
-###### Artigo 15.º — Direcção de Serviços de Execução das Medidas Privativas de Liberdade
+Artigo 15.º
+
+Direcção de Serviços de Execução das Medidas Privativas de Liberdade
 
 A Direcção de Serviços de Execução das Medidas Privativas de Liberdade compreende:
 
@@ -173,7 +214,9 @@ a) A Divisão de Individualização e Definição de Regimes;
 
 b) A Divisão de Organização e Gestão da População Prisional.
 
-###### Artigo 16.º — Divisão de Individualização e Definição de Regimes
+Artigo 16.º
+
+Divisão de Individualização e Definição de Regimes
 
 Compete à Divisão de Individualização e Definição de Regimes:
 
@@ -189,7 +232,9 @@ e) Instruir e emitir parecer nos processos relativos às medidas previstas na le
 
 f) Emitir as informações e pareceres que lhe forem solicitados.
 
-###### Artigo 17.º — Divisão de Organização e Gestão da População Prisional
+Artigo 17.º
+
+Divisão de Organização e Gestão da População Prisional
 
 Compete à Divisão de Organização e Gestão da População Prisional:
 
@@ -205,7 +250,9 @@ e) Elaborar relatórios trimestrais sobre as diversas ocorrências nos estabelec
 
 f) Elaborar as informações e pareceres que lhe forem solicitados.
 
-###### Artigo 18.º — Direcção de Serviços de Educação, Ensino, Formação Profissional e de Apoio à Reintegração Social dos Reclusos
+Artigo 18.º
+
+Direcção de Serviços de Educação, Ensino, Formação Profissional e de Apoio à Reintegração Social dos Reclusos
 
 A Direcção de Serviços de Educação, Ensino, Formação Profissional e de Apoio à Reintegração Social dos Reclusos compreende:
 
@@ -213,7 +260,9 @@ a) A Divisão de Educação, Ensino e Animação Sócio-Cultural;
 
 b) A Divisão de Formação Profissional e de Apoio à Reintegração Social dos Reclusos.
 
-###### Artigo 19.º — Divisão de Educação, Ensino e Animação Sócio-Cultural
+Artigo 19.º
+
+Divisão de Educação, Ensino e Animação Sócio-Cultural
 
 À Divisão de Educação, Ensino e Animação Sócio-Cultural compete:
 
@@ -227,7 +276,9 @@ d) Propor, em matéria de educação, ensino e animação sócio-cultural, a atr
 
 e) Emitir as informações e os pareceres que lhe forem solicitados.
 
-###### Artigo 20.º — Divisão de Formação Profissional e de Apoio à Reintegração Social dos Reclusos
+Artigo 20.º
+
+Divisão de Formação Profissional e de Apoio à Reintegração Social dos Reclusos
 
 À Divisão de Formação Profissional e de Apoio à Reintegração Social dos Reclusos compete:
 
@@ -255,7 +306,9 @@ l) Colaborar com entidades públicas e privadas em matérias relacionadas com a 
 
 m) Emitir as informações e os pareceres que lhe forem solicitados.
 
-###### Artigo 21.º — Direcção de Serviços de Saúde
+Artigo 21.º
+
+Direcção de Serviços de Saúde
 
 À Direcção de Serviços de Saúde compete:
 
@@ -273,7 +326,9 @@ f) Prestar colaboração técnica aos serviços de auditoria e inspecção na á
 
 g) Emitir as informações e os pareceres que lhe forem solicitados.
 
-###### Artigo 22.º — Direcção de Serviços de Vigilância, Acompanhamento e Segurança Penitenciária
+Artigo 22.º
+
+Direcção de Serviços de Vigilância, Acompanhamento e Segurança Penitenciária
 
 A Direcção de Serviços de Vigilância, Acompanhamento e Segurança Penitenciária compreende:
 
@@ -283,7 +338,9 @@ b) A Divisão de Telecomunicações;
 
 c) A Divisão de Acompanhamento e Acções Especiais.
 
-###### Artigo 23.º — Divisão de Vigilância, Segurança e Logística
+Artigo 23.º
+
+Divisão de Vigilância, Segurança e Logística
 
 À Divisão de Vigilância, Segurança e Logística compete:
 
@@ -311,7 +368,9 @@ l) Garantir a guarda, manutenção e distribuição do material de defesa e segu
 
 m) Emitir as informações e os pareceres que lhe forem solicitados.
 
-###### Artigo 24.º — Divisão de Telecomunicações
+Artigo 24.º
+
+Divisão de Telecomunicações
 
 À Divisão de Telecomunicações compete:
 
@@ -323,7 +382,9 @@ c) Colaborar na formação do pessoal penitenciário;
 
 d) Emitir as informações e os pareceres que lhe forem solicitados.
 
-###### Artigo 25.º — Divisão de Acompanhamento e Acções Especiais
+Artigo 25.º
+
+Divisão de Acompanhamento e Acções Especiais
 
 1 - À Divisão de Acompanhamento e Acções Especiais compete:
 
@@ -341,7 +402,9 @@ f) Emitir as informações e os pareceres que lhe forem solicitados.
 
 2 - A constituição, organização e funcionamento do Grupo de Intervenção e Segurança Prisional são definidos por despacho do Ministro da Justiça.
 
-###### Artigo 26.º — Serviço de Auditoria e Inspecção
+Artigo 26.º
+
+Serviço de Auditoria e Inspecção
 
 1 - O Serviço de Auditoria e Inspecção actua, de preferência, nas áreas específicas dos serviços externos, designadamente nas de tratamento penitenciário, trabalho, formação e aperfeiçoamento profissionais, gestão administrativa, assistência médico-sanitária, vigilância e segurança.
 
@@ -371,7 +434,9 @@ l) Emitir as informações e pareceres que lhe forem solicitados.
 
 3 - Podem ser constituídas delegações do Serviço de Auditoria e Inspecção por despacho do Ministro da Justiça.
 
-###### Artigo 27.º — Direcção de Serviços de Gestão de Recursos Humanos e Apoio Geral
+Artigo 27.º
+
+Direcção de Serviços de Gestão de Recursos Humanos e Apoio Geral
 
 A Direcção de Serviços de Gestão de Recursos Humanos e Apoio Geral compreende:
 
@@ -381,7 +446,9 @@ b) A Divisão de Recrutamento e Selecção de Pessoal;
 
 c) À Repartição de Pessoal e Apoio Geral.
 
-###### Artigo 28.º — Divisão de Gestão de Recursos Humanos
+Artigo 28.º
+
+Divisão de Gestão de Recursos Humanos
 
 À Divisão de Gestão de Recursos Humanos compete:
 
@@ -401,7 +468,9 @@ g) Elaborar os estudos de caracterização dos recursos humanos da Direcção-Ge
 
 h) Emitir informações e pareceres que lhe forem solicitados.
 
-###### Artigo 29.º — Divisão de Recrutamento e Selecção de Pessoal
+Artigo 29.º
+
+Divisão de Recrutamento e Selecção de Pessoal
 
 À Divisão de Recrutamento e Selecção de Pessoal compete:
 
@@ -413,7 +482,9 @@ c) Colaborar com o Centro de Formação Penitenciária na elaboração e execuç
 
 d) Emitir informações e pareceres sobre todas as questões relativas ao recrutamento e à selecção do pessoal dos serviços prisionais.
 
-###### Artigo 30.º — Repartição de Pessoal e Apoio Geral
+Artigo 30.º
+
+Repartição de Pessoal e Apoio Geral
 
 1 - À Repartição de Pessoal e Apoio Geral compete:
 
@@ -441,7 +512,9 @@ b) A Secção do Pessoal do Corpo da Guarda Prisional, à qual incumbe o exercí
 
 c) A Secção de Apoio Geral, à qual incumbe o exercício das competências referidas nas alíneas e) a h) do número anterior.
 
-###### Artigo 31.º — Direcção de Serviços de Gestão Financeira e Patrimonial
+Artigo 31.º
+
+Direcção de Serviços de Gestão Financeira e Patrimonial
 
 A Direcção de Serviços de Gestão Financeira e Patrimonial compreende:
 
@@ -451,7 +524,9 @@ b) A Divisão de Gestão Patrimonial e Aprovisionamento;
 
 c) A Repartição de Administração Financeira e Patrimonial.
 
-###### Artigo 32.º — Divisão de Gestão Financeira e Orçamental
+Artigo 32.º
+
+Divisão de Gestão Financeira e Orçamental
 
 À Divisão de Gestão Financeira e Orçamental compete:
 
@@ -471,7 +546,9 @@ g) Acompanhar e prestar apoio técnico à gestão dos bares e cantinas existente
 
 h) Emitir as informações e os pareceres que lhe forem solicitados.
 
-###### Artigo 33.º — Divisão de Gestão Patrimonial e Aprovisionamento
+Artigo 33.º
+
+Divisão de Gestão Patrimonial e Aprovisionamento
 
 À Divisão de Gestão Patrimonial e Aprovisionamento compete:
 
@@ -487,7 +564,9 @@ e) Assegurar a execução dos procedimentos respeitantes às aquisições de ben
 
 f) Emitir as informações e os pareceres que lhe forem solicitados.
 
-###### Artigo 34.º — Repartição de Administração Financeira e Patrimonial
+Artigo 34.º
+
+Repartição de Administração Financeira e Patrimonial
 
 1 - À Repartição de Administração Financeira e Patrimonial compete:
 
@@ -529,7 +608,9 @@ c) A Secção de Património e Aprovisionamento, à qual incumbe o exercício da
 
 d) A Secção de Viaturas e Transporte, à qual incumbe o exercício das competências previstas nas alíneas m) a o) do número anterior.
 
-###### Artigo 35.º — Direcção de Serviços de Obras e Infra-Estruturas
+Artigo 35.º
+
+Direcção de Serviços de Obras e Infra-Estruturas
 
 A Direcção de Serviços de Obras e Infra-Estruturas compreende:
 
@@ -539,7 +620,9 @@ b) A Divisão de Empreitadas, Administração Directa de Obras e Manutenção de
 
 c) A Divisão de Contratação, Planificação e Execução de Investimentos.
 
-###### Artigo 36.º — Divisão de Estudos e Projectos
+Artigo 36.º
+
+Divisão de Estudos e Projectos
 
 À Divisão de Estudos e Projectos compete:
 
@@ -555,7 +638,9 @@ e) Manter e gerir a informação relativa ao património edificado e às instala
 
 f) Emitir as informações e os pareceres que lhe forem solicitados.
 
-###### Artigo 36.º-A — Divisão de Empreitadas, Administração Directa de Obras e Manutenção de Equipamentos e Infra-Estruturas
+Artigo 36.º-A
+
+Divisão de Empreitadas, Administração Directa de Obras e Manutenção de Equipamentos e Infra-Estruturas
 
 1 - À Divisão de Empreitadas, Administração Directa de Obras e Manutenção de Equipamentos e Infra-Estruturas compete:
 
@@ -585,7 +670,9 @@ j) Emitir as informações e pareceres que lhe forem solicitados.
 
 4 - Consideram-se equipamentos de infra-estruturas os equipamentos e maquinarias utilizados em cozinhas, lavandarias e outras instalações dos estabelecimentos prisionais, e ainda todo o equipamento e maquinaria de grande porte ligados ao sistema de aquecimento, refrigeração e energia eléctrica, bem como os destinados ao apetrechamento das oficinas dos estabelecimentos prisionais e às viaturas especiais.
 
-###### Artigo 36.º-B — Divisão de Contratação, Planificação e Execução de Investimentos
+Artigo 36.º-B
+
+Divisão de Contratação, Planificação e Execução de Investimentos
 
 À Divisão de Contratação, Planificação e Execução de Investimentos compete:
 
@@ -597,7 +684,9 @@ c) Colaborar com a Direcção de Serviços de Gestão Financeira e Patrimonial n
 
 d) Assegurar a execução do expediente necessário ao funcionamento da Direcção de Serviços de Obras e Infra-Estruturas.
 
-###### Artigo 36.º-C — Direcção de Serviços de Planeamento, Documentação, Estudos e Relações Internacionais
+Artigo 36.º-C
+
+Direcção de Serviços de Planeamento, Documentação, Estudos e Relações Internacionais
 
 À Direcção de Serviços de Planeamento, Documentação, Estudos e Relações Internacionais compete:
 
@@ -623,7 +712,9 @@ j) Assegurar o intercâmbio com serviços ou associações nacionais e estrangei
 
 l) Emitir as informações e os pareceres que lhe forem solicitados.
 
-###### Artigo 36.º-D — Divisão de Organização e Informática
+Artigo 36.º-D
+
+Divisão de Organização e Informática
 
 À Divisão de Organização e Informática compete:
 
@@ -645,7 +736,9 @@ h) Fazer auditoria aos sistemas implantados;
 
 i) Emitir as informações e os pareceres que lhe forem solicitados.
 
-###### Artigo 36.º-E — Gabinete Técnico-Jurídico
+Artigo 36.º-E
+
+Gabinete Técnico-Jurídico
 
 Ao Gabinete Técnico-Jurídico compete:
 
@@ -663,7 +756,9 @@ f) Colaborar com a Direcção de Serviços de Planeamento, Documentação, Estud
 
 g) Emitir pareceres, elaborar informações e proceder a estudos sobre quaisquer assuntos que lhe sejam submetidos.
 
-###### Artigo 36.º-F — Gabinete de Informação e Relações Públicas
+Artigo 36.º-F
+
+Gabinete de Informação e Relações Públicas
 
 Ao Gabinete de Informação e Relações Públicas compete:
 
@@ -697,7 +792,9 @@ a) Chefes principais e chefes do pessoal do corpo da guarda prisional com pelo m
 
 b) Oficiais das forças militares ou militarizadas ou da Polícia de Segurança Pública habilitados com grau de licenciatura e possuidores de reconhecido mérito e experiência profissional em matéria de segurança.
 
-###### Artigo 72.º — Inspectores
+Artigo 72.º
+
+Inspectores
 
 1 - O Serviço de Auditoria e Inspecção é integrado por inspectores, nomeados em regime de comissão de serviço, por três anos, renovável, de entre técnicos superiores de categoria igual ou superior a 1.ª classe, com, pelo menos, seis anos de serviço na carreira.
 
@@ -727,12 +824,12 @@ b) Na carreira e categoria correspondentes às funções efectivamente desempenh
 
 Visto e aprovado em Conselho de Ministros de 21 de Novembro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 19 de Dezembro de 1996.**
+Promulgado em 19 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Dezembro de 1996.**
+Referendado em 26 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

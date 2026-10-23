@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/50/2012/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-2012-175522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0466249fa003d38ed62638173c01f34cfa49c832b751892d8519c36dc2abab75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d3aa49ea8085c8137c56318b476b02b2b0568f736cc71316dc5150ee59eef71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
 - Contribuições da Segurança Social
 - Dívidas à Segurança Social
 - Documento Eletrónico
-- Pensionista
 - Internet
-- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
+- Pensionista
 - Segurança Social
 - TAXA Contributiva
 relationships:
@@ -79,6 +79,25 @@ relationships:
   target: pt:dre:115620692:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:494803:por
+  label: "Alterado o art. 54º-A do DR 1-A/2011, de 03-jan, aditado pelo presente diploma, pelo DR.6/2013.15.10.2013.MSESS,\
+    \ DR.IS [199] de 15.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-2013-494803
+  date: '2013-10-15'
+- type: amended_by
+  target: pt:dre:106642829:por
+  label: Alterado o art. 62.º do DR 1-A/2011 de 03-jan, na redação do presente diploma, pelo Decreto Regulamentar n.º 2/2017
+    - Diário da República n.º 58/2017, Série I de 2017-03-22, nos termos do art. 2.º deste último
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/2-2017-106642829
+  date: '2017-03-22'
+- type: amended_by
+  target: pt:dre:115620692:por
+  label: Alterados, com efeitos a 01.01.2019, os arts. 2.º, 58.º e 62.º, na redação do presente diploma, do DR 1-A/2011 de
+    03-jan pelo(a) Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02, que procede
+    à sua republicação, nos termos dos seus arts. 4.º e 8.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-2018-115620692
+  date: '2018-07-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/1-a/2011/01/03/p/dre
   label: null
@@ -99,16 +118,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552023:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:191162:por
+  label: "Retificados o sumário e o título [ onde se lê «Ministérios das Finanças e da Solidariedade e da Segurança Social»\
+    \ deve ler-se «Ministério da Solidariedade e da Segurança Social»], pela DECL-RECT.70/2012.23.11.2012.PCM, DR.IS [227]\
+    \ de 23.11.2012\012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/70-2012-191162
+  date: '2012-11-23'
 article_structure:
-  article_count: 9
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:20Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +197,9 @@ Os artigos 2.º, 58.º e 62.º do [Decreto Regulamentar n.º 1-A/2011](https://d
 
 3 - O regime da obrigação prevista no número anterior é regulamentado em diploma próprio.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 A declaração prevista no artigo 152.º do Código deve conter, para efeitos da alínea c) do n.º 1 do mesmo artigo, relativamente a cada entidade a quem foram prestados serviços:
 
@@ -161,7 +209,9 @@ b) ...
 
 c) ...
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - ...
 
@@ -181,11 +231,15 @@ Atualização de dados
 
 A atualização dos elementos relativos à identificação e enquadramento dos trabalhadores independentes é efetuada anualmente através do preenchimento de anexo ao modelo 3 da declaração do imposto sobre o rendimento das pessoas singulares, efetuada no prazo legal para a entrega da declaração fiscal, o qual é remetido aos serviços da segurança social pela entidade tributária competente.
 
-###### Artigo 62.º-A — Reavaliação da base de incidência
+Artigo 62.º-A
+
+Reavaliação da base de incidência
 
 Para efeitos da reavaliação da base de incidência contributiva prevista no n.º 6 do artigo 163.º do Código, devem ser contabilizados os recebimentos por conta e os adiantamentos.
 
-###### Artigo 62.º-B — Verificação das condições determinantes da reavaliação
+Artigo 62.º-B
+
+Verificação das condições determinantes da reavaliação
 
 1 - A reavaliação efetuada nos termos previstos no n.º 6 do artigo 163.º do Código é dada sem efeito, caso se venha a verificar, com base nos rendimentos declarados para efeitos fiscais relativos ao ano em causa, que não houve redução de rendimentos ou que a mesma não determinou uma redução superior a um escalão da base de incidência contributiva.
 
@@ -207,12 +261,12 @@ Para efeitos da reavaliação da base de incidência contributiva prevista no n.
 
 Visto e aprovado em Conselho de Ministros de 6 de setembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 20 de setembro de 2012.**
+Promulgado em 20 de setembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de setembro de 2012.**
+Referendado em 21 de setembro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

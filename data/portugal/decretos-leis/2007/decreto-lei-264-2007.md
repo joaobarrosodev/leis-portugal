@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/264/2007/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2007-636739
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5bcedfece70c4da157a25a4f348042c927bac3b990bd9934d168df1d1dea236
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b66a3f7f74c5d0f27742f98b158c1ebfce8fbe178fb8a0d51743e613fd3b820
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distribuição de Energia Elétrica
 - Central Hidroeléctrica
-- Energia Elétrica
+- Comércio
 - Contrato de Aquisição de Energia
 - Contrato de Concessão
-- Venda em Hasta Pública
+- Distribuição de Energia Elétrica
+- Domínio Público Hídrico
+- Energia Elétrica
 - Licenciamento
 - Mibel
 - Preço
 - Produção de Energia Elétrica
 - Produtor
-- Domínio Público Hídrico
-- Comércio
 - Transporte de Energia
+- Venda em Hasta Pública
 relationships:
 - type: amended_by
   target: pt:dre:122476954:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:588861:por
+  label: "Alterados, a partir de 07.11.2012, e sem prejuízo do disposto no art. 15º e no nº2 do art. 17º, os arts. 55º e 70º\
+    \ do Dec Lei 172/2006, de 23-ago, na redação do presente diploma, pelo DEC LEI.215-B/2012.08.10.2012.MEE, DR.IS [194-Supl]\
+    \ de 08.10.2012\0012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-b-2012-588861
+  date: '2012-10-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/172/2006/08/23/p/dre
   label: null
@@ -114,16 +121,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/338/1991/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/338/1991/09/10/p/dre
+- type: cites
+  target: pt:dre:303777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683861:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:59Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +203,9 @@ Os artigos 14.º e 15.º do [Decreto-Lei n.º 240/2004](https://diariodarepublic
 
 A cessação antecipada dos CAE nos termos previstos no presente decreto-lei depende da atribuição aos produtores de licenças de produção de energia eléctrica em regime ordinário para os centros electroprodutores afectados, em conformidade com o disposto nos Decretos-Leis n.os [29/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2006-683861), de 15 de Fevereiro, e [172/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2006-540627), de 23 de Agosto, sujeitas, no caso dos centros hidroeléctricos, ao prazo de duração dos respectivos títulos de utilização do domínio público hídrico.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 O regime estabelecido no [Decreto-Lei n.º 338/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1991-303777), de 10 de Setembro, mantém-se em vigor até à entrada em vigor de legislação complementar que defina um regime que substitua o da conta de correcção de hidrau-licidade.»
 
@@ -202,7 +239,9 @@ d) Pode adquirir electricidade através de contratos bilaterais, previamente apr
 
 7 - ...
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - ...
 
@@ -238,12 +277,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 2007. - José Sócrates Carvalho Pinto de Sousa - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 5 de Julho de 2007.**
+Promulgado em 5 de Julho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Julho de 2007.**
+Referendado em 9 de Julho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

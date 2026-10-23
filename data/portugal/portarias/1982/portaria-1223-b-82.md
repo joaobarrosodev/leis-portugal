@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 298/1982, 3º Suplemento, Série I de 1982-12-28
   number: '298'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4246-(11) a 4246-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/29803/00110019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,139 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1223-b-1982-381297
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T07:05:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64b9e2be183bacd4e1fc11aa977b676502ebc4886cfc8395621da6247d8982ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd8769bc7f6fcfb43be2d842eda60238de40e46eabde08a51ffc811066cd3823
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:05:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Médica
+- Carreira Médica Hospitalar
+- Clínica Geral
+- Comissão Nacional do Internato Complementar
+- Comissão Regional do Internato Complementar
+- Diploma
+- Ensino Médico
+- Formação Profissional
+- Internato Complementar
+- Médico
+- Regime Jurídico
+- Regulamento
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:670366:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:313069:por
+  label: "Alterado o n.º 2 do artigo 18.º do Regulamento, pela PORT.388/83.07.04.1983.MAS, DR.IS [80] de 07.04.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/388-1983-313069
+  date: '1983-04-07'
+- type: amended_by
+  target: pt:dre:386579:por
+  label: "Alterado o n.º 13 do artigo 14.º do Regulamento, pela PORT.366/84.12.06.1984.MS, DR.IS [136] de 12.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/366-1984-386579
+  date: '1984-06-12'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ART 2, O NUM 2 DO ART 4, O NUM 2 DO ART 5, O NUM 6 DO ART 14, O QUADRO ANEXO (REFERIDO NO NUM 3 DO ART
+    3), REVOGADOS OS NUN 1, 2 E 3 DO ART 2 E EXTINTAS A COMISSAO NACIONAL E AS COMISSOES REGIONAIS DO INTERNATO COMPLEMENTAR
+    (SUBSTITUIDAS RESPECTIVAMENTE PELA COMISSAO NACIONAL DOS INTERNATOS MÉDICOS E PELAS COMISSOES REGIONAIS DOS INTERNATOS
+    MÉDICOS, EM LISBOA, PORTO E COIMBRA) PELA PORT 598/84 DE 11-AGO DR.IS [186]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-08-11'
+- type: amended_by
+  target: pt:dre:382413:por
+  label: "Prorrogada a data da entrada em vigor do capítulo II, pela PORT.597/84.11.08.1984.MS, DR.IS [186] de 11.08.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/597-1984-382413
+  date: '1984-08-11'
+- type: amended_by
+  target: pt:dre:321307:por
+  label: "Prorrogada a data da entrada em vigor do capítulo II, pela PORT.381-A/85.20.06.1985.MS, DR.IS [139]Supl de 20.06.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/381-a-1985-321307
+  date: '1985-06-20'
+- type: amended_by
+  target: pt:dre:218683:por
+  label: "Acrescentada uma área profissional ao grupo II do quadro anexo ao presente diploma, pela PORT.417/86.31.07.1986.MS,\
+    \ DR.IS [174] de 31.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/417-1986-218683
+  date: '1986-07-31'
+- type: amended_by
+  target: pt:dre:219102:por
+  label: "Suspensa a aplicação do disposto nos artigos 7.º e 8.º do Regulamento, aprovado pelo presente diploma, na redacção\
+    \ conferida pela Portaria n.º 381-A/85, de 20 de Junho, pela PORT.458/86.22.08.1986.MS, DR.IS [192] de 22.08.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/458-1986-219102
+  date: '1986-08-22'
+- type: amended_by
+  target: pt:dre:219126:por
+  label: "Suspensa a aplicação do disposto nos artigos 7.º e 8.º do Regulamento, aprovado pelo presente diploma, na redacção\
+    \ dada pela Portaria n.º 381-A/85, de 20 de Junho, pela PORT.465/86.25.08.1986.MS, DR.IS [194] de 25.08.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/465-1986-219126
+  date: '1986-08-25'
+- type: amended_by
+  target: pt:dre:495734:por
+  label: "Substituído o modelo de diploma previsto e publicado em anexo ao n.º 15 do artigo 14.º do Regulamento, pela PORT.804/87.21.09.1987.MS,\
+    \ DR.IS [217] de 21.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/804-1987-495734
+  date: '1987-09-21'
+- type: amended_by
+  target: pt:dre:332930:por
+  label: "Alterado o nº 4 do art. 14º do Regulamento, pela PORT.158/90.23.02.1990.SEA-MS, DR.IS [46] de 23.02.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/158-1990-332930
+  date: '1990-02-23'
+- type: amended_by
+  target: pt:dre:676200:por
+  label: "Determinada a continuação da aplicação, até à aprovação dos novos programas, das especificações curriculares referentes\
+    \ às especialidades de Medicina Geral e Familiar (Clínica Geral) e Cirurgia Cardiotoráxica, constantes do quadro anexo\
+    \ ao presente diploma, pela PORT.183/2006.22.02.2006.MS, DR.IS-B [38] de 22.02.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/183-2006-676200
+  date: '2006-02-22'
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADOS OS ART 1 A 5 E 9 A 20 DO REGULAMENTO, PELA PORT 695/95 DE 30-JUN DR.IS-B [149], COM AS EXCEPÇÕES PREVISTAS\
+    \ EM DISPOSIÇÕES TRANSITÓRIAS CONSTANTES DO REGULAMENTO EM ANEXO AO REFERIDO DIPLOMA.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-06-30'
+- type: repealed_by
+  target: pt:dre:480721:por
+  label: "Revogados os artigos 6.º a 8.º do Regulamento, pela PORT.950/95.02.08.1995.MS, DR.IS-B [177] de 02.08.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/950-1995-480721
+  date: '1995-08-02'
+- type: repealed_by
+  target: pt:dre:670366:por
+  label: "Revogada, a partir de 01.07.2011, pela PORT.251/2011.24.06.2011.MS, DR.IS [120] de 24.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/251-2011-670366
+  date: '2011-06-24'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:05:54Z'
   warnings: []
   errors: []
 ---
@@ -620,4 +719,4 @@ Saúde pública. - 24 meses de treino nas áreas médicas hospitalar e ambulató
 
 Modelo de diploma anexo a que se refere o n.º 15 do artigo 14.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29803/00110019.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29803/00110019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29803/00110019.pdf)

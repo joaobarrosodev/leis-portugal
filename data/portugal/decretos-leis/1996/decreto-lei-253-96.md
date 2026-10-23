@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/253/1996/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1996-145872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:46:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aed6716a7d938de18fe18faf89f53498aa7e9743a17bce12f7b409769428fb4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1a489364a7ba973bbd6c0128c29463bcd2dd2841d3bc38cfd92cfa8d6fa5a77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:46:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
 subjects:
 - Cartório Notarial
 - Conservador
+- Conservatória do Registo Civil
 - Conservatória do Registo Comercial
 - Conservatória do Registo Predial
-- Recrutamento de Pessoal
 - Notário
 - Quadro de Pessoal
-- Conservatória do Registo Civil
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:138101:por
@@ -87,16 +87,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/40/1994/02/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/40/1994/02/11/p/dre
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534653:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:46:43Z'
   warnings: []
   errors: []
 ---
@@ -133,12 +145,12 @@ Sempre que situações de atraso, de deficiência nos serviços ou de impediment
 
 Visto e aprovado em Conselho de Ministros de 31 de Outubro de 1996. - António Manuel de Carvalho Ferreira Vitorino - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 9 de Dezembro de 1996.**
+Promulgado em 9 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Dezembro de 1996.**
+Referendado em 11 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

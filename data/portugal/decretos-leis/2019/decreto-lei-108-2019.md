@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/15400/0003400041.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/108/2019/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 388156368092648f9eaca0c79de09f1484d79fad86c96d6ab05d77010b96758f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1483bfa950edc657609ff6c44d96c73cbd05f1f54d58c07300fa8ee0c9afaf2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,54 +66,60 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Pensões e Remunerações
-- Função Pública
-- Tempo de Serviço
+- Administração Pública
 - Aposentação
 - Aposentação Bonificada
+- Aposentação Compulsiva
 - Arquivo
-- Ministério das Finanças e da Administração Pública
+- Caixa Geral de Aposentações
 - Cálculo de Pensões
 - Complemento Especial de Pensão
 - Complemento Extraordinario de Solidariedade
-- Instituto dos Registos e do Notariado
+- Direção Geral de Estatísticas da Educação e Ciência
+- Direção Geral do Ensino Superior
 - Dívidas ao Estado
 - Estatuto
 - Estatuto da Aposentação
-- Administração Pública
-- Subvenção Pública
-- Caixa Geral de Aposentações
-- Serviço Militar
-- Pagamento
+- Forças Armadas
+- Função Pública
 - Idade de Reforma
+- Incapacidade Física
+- Incapacidade Permanente
 - Incapacidade Psíquica
+- Instituto dos Registos e do Notariado
+- Internet
 - Junta Médica
 - Limite de Idade
-- Direção Geral do Ensino Superior
-- Direção Geral de Estatísticas da Educação e Ciência
+- Militar
+- Ministério das Finanças e da Administração Pública
 - Montepio dos Servidores do Estado
-- Forças Armadas
+- Óbito
+- Pagamento
 - Página na Internet
-- Reforma Antecipada
 - Pensão de Aposentação
 - Pensão de Invalidez
-- Pensão de Sobrevivência
 - Pensão de Reforma
+- Pensão de Sobrevivência
 - Pensionista
 - Política Social
-- Internet
-- Incapacidade Física
 - Reforma
+- Reforma Antecipada
 - Regime Geral da Segurança Social
-- Reserva
-- Militar
-- Aposentação Compulsiva
-- Segurança Social
-- Sistema Complementar
-- Óbito
-- Subsídio por Morte
-- Incapacidade Permanente
 - Regulamento Geral de Proteção de Dados
+- Reserva
+- Segurança Social
+- Serviço Militar
+- Sistema Complementar
+- Subsídio por Morte
+- Subvenção Pública
+- Tempo de Serviço
 relationships:
+- type: amends
+  target: pt:numero:lei:82-B/2014
+  label: Altera, a partir de 18.08.2019 e com efeitos a 01.10.2019, o art. 5.º (na redacção das Leis 11/2014, de 06-mar e
+    Lei n.º 82-B/2014, de 31-dez ) da Lei 52/2007, de 31-ago DR.IS-A [168]
+  source: null
+  date: '2007-08-31'
 - type: cites
   target: 'eli:http:'
   label: null
@@ -158,16 +164,260 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:106549661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108269606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116417932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116649878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117503935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117754017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 23
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:46Z'
   warnings: []
   errors: []
 ---
@@ -268,7 +518,9 @@ Os artigos 37.º, 37.º-A, 39.º, 40.º, 41.º, 53.º, 64.º, 69.º, 83.º e 109
 
 5 - O tempo de inscrição nas instituições de previdência referidas no n.º 2 do artigo 4.º, quer anterior, quer posterior ao tempo de inscrição na Caixa, conta-se também para o efeito de se considerar completado o prazo de garantia que resultar do disposto nos n.os 3 e 4.
 
-###### Artigo 37.º-A — [...]
+Artigo 37.º-A
+
+[...]
 
 1 - Podem requerer a aposentação antecipada, independentemente de submissão a junta médica e sem prejuízo da aplicação do regime de pensão unificada, os subscritores que tenham, pelo menos, 60 anos de idade e que, enquanto tiverem essa idade, tenham completado, pelo menos, 40 anos de exercício efetivo de funções.
 
@@ -280,7 +532,9 @@ Os artigos 37.º, 37.º-A, 39.º, 40.º, 41.º, 53.º, 64.º, 69.º, 83.º e 109
 
 5 - Às pensões atribuídas ao abrigo do n.º 1 não é aplicado o fator de sustentabilidade.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - A aposentação depende necessariamente de requerimento do interessado nos casos previstos nos n.os 1 e 2 do artigo 37.º e nos artigos 37.º-A, 37.º-B e 40.º
 
@@ -298,7 +552,9 @@ Os artigos 37.º, 37.º-A, 39.º, 40.º, 41.º, 53.º, 64.º, 69.º, 83.º e 109
 
 8 - (Revogado.)
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -310,7 +566,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - Nos casos da alínea a) do n.º 3 do artigo 37.º, a aposentação ordinária pode também ser promovida pelo competente órgão superior da Administração Pública, mediante apresentação do subscritor a exame médico.
 
@@ -318,7 +576,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - ...
 
@@ -328,7 +588,9 @@ b) ...
 
 4 - O tempo a que se refere o n.º 5 do artigo 37.º não influi na pensão a calcular pela Caixa.
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - ...
 
@@ -354,13 +616,17 @@ b) Para os residentes no estrangeiro, nos termos a definir em portaria dos membr
 
 10 - O processo de interconexão de dados previsto na alínea a) do número anterior é efetuado mediante protocolo estabelecido entre a CGA, I. P., e o IRN, I. P., nos termos e com os limites previstos na legislação aplicável à proteção de dados, nomeadamente no Regulamento Geral de Proteção de Dados e demais legislação complementar.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - A Caixa deve conservar em arquivo todos os documentos que compõem o processo individual do subscritor, incluindo o registo de comunicações, enquanto forem os mesmos necessários para a constituição de direitos do próprio ou dos seus herdeiros.
 
 2 - Os processos em formato digital têm valor probatório idêntico e substituem para todos os efeitos os correspondentes em papel, que a Caixa está dispensada de conservar.
 
-###### Artigo 83.º — Prestações por morte
+Artigo 83.º
+
+Prestações por morte
 
 1 - O subsídio por morte e o reembolso das despesas de funeral atribuídos pela Caixa Geral de Aposentações seguem o regime que sucessivamente estiver estabelecido no sistema previdencial do regime geral de segurança social para essas prestações.
 
@@ -368,7 +634,9 @@ b) Para os residentes no estrangeiro, nos termos a definir em portaria dos membr
 
 3 - ...
 
-###### Artigo 109.º — [...]
+Artigo 109.º
+
+[...]
 
 1 - ...
 
@@ -414,13 +682,17 @@ b) Para os residentes no estrangeiro, nos termos a definir em portaria dos membr
 
 13 - O processo de interconexão de dados previsto na alínea a) do número anterior é efetuado mediante protocolo estabelecido entre a CGA, I. P., e o IRN, I. P., nos termos e com os limites previstos na legislação aplicável à proteção de dados, nomeadamente no Regulamento Geral de Proteção de Dados e demais legislação complementar.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - A Caixa deve conservar em arquivo todos os documentos que compõem o processo individual do subscritor, incluindo o registo de comunicações, enquanto forem os mesmos necessários para a constituição de direitos do próprio ou dos seus herdeiros.
 
 2 - Os processos em formato digital têm valor probatório idêntico e substituem para todos os efeitos os correspondentes em papel, que a Caixa está dispensada de conservar.
 
-###### Artigo 42.º — Descendentes de 1.º grau
+Artigo 42.º
+
+Descendentes de 1.º grau
 
 1 - Têm direito à pensão os descendentes de 1.º grau menores de 18 anos ou que, tendo completado 18 anos, reúnam as seguintes condições:
 
@@ -434,7 +706,9 @@ c) Sem limite de idade, tratando-se de pessoas com deficiência que nessa qualid
 
 3 - O processo de interconexão de dados previsto no número anterior é efetuado mediante protocolo estabelecido entre a CGA, I. P., e a Direção-Geral de Estatísticas da Educação e Ciência e a Direção-Geral do Ensino Superior, nos termos e com os limites previstos na legislação aplicável à proteção de dados, nomeadamente no Regulamento Geral de Proteção de Dados e demais legislação complementar.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - ...
 
@@ -490,12 +764,14 @@ O presente decreto-lei produz efeitos a partir de 1 de outubro de 2019.
 
 Visto e aprovado em Conselho de Ministros de 1 de agosto de 2019. - Augusto Ernesto Santos Silva - António Manuel Veiga dos Santos Mendonça Mendes - Anabela Damásio Caetano Pedroso - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva.
 
-**Promulgado em 2 de agosto de 2019.**
+Promulgado em 2 de agosto de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de agosto de 2019.**
+Referendado em 6 de agosto de 2019.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
+
+112512501

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/372/1997/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1997-419395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:54:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 855041c2a9449e6b953113abb5e173ccc2db5c2b174a3953d1d2447fb8b87007
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65886c3f7dff29f634956242342da9faf51d6e998d16a27fe8fc89664fb978fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:54:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Calendário Venatório
-- Multa
 - CAÇA
+- Calendário Venatório
 - Conselho Cinegético
 - Conselho Nacional da CAÇA e da Conservação da Fauna
 - Contra-ordenação
 - Direcção Geral das Florestas
 - Licença de Caça
+- Multa
 - Proteção do Ambiente
-- Sistema Nacional de Áreas Protegidas
 - Regime Jurídico
+- Sistema Nacional de Áreas Protegidas
 - ZONA de CAÇA
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:54:47Z'
   warnings: []
   errors: []
 ---
@@ -129,12 +133,12 @@ Caça à lebre
 
 Visto e aprovado em Conselho de Ministros de 30 de Outubro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Maria João Fernandes Rodrigues - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 9 de Dezembro de 1997.**
+Promulgado em 9 de Dezembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Dezembro de 1997.**
+Referendado em 11 de Dezembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

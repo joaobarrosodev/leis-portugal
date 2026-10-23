@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/128/2009/05/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2009-494218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d91ff6119c2a8c115602501222c8a76a1df2b4994fb4e8e3d481e61595e10361
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc4f812b2441e55c8d98b86733edc085406e55a633fcf1b5f76e1d5518c958eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Açores
 - Coordenador Adjunto
 - Definição de Competências
 - Direcção Geral das Pescas e Aquicultura
 - Diretor Geral
 - Equipa de Missão
 - Extinção de Serviços
+- Financiamento
 - Formas de Provimento
-- Pesca
-- Projeto de Investimento
 - Gestor Público
 - IFAP
-- Programa para o Desenvolvimento Económico do Sector das Pescas
-- Madeira.região Autónoma
 - Intervenção Operacional Pescas
+- Madeira.região Autónoma
+- Pesca
+- Programa para o Desenvolvimento Económico do Sector das Pescas
+- Projeto de Investimento
 - Regulamento CE
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:58763442:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613243:por
+  label: "Alterados, a partir de 25.04.2010, os art.s 4º, 9º, 10º, do Dec Lei 81/2008, de 16-Maio, na redacção do presente\
+    \ diploma, pelo DEC LEI.37/2010.20.04.2010.MADRP, DR.IS [76] de 20.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-2010-613243
+  date: '2010-04-20'
+- type: amended_by
+  target: pt:dre:58763442:por
+  label: Alterados os arts. 9.º e 10.º do Dec Lei 80/2008 de 16-mai, na redação do presente diploma, pelo(a) Decreto-Lei n.º
+    168/2014 - Diário da República n.º 215/2014, Série I de 2014-11-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/168-2014-58763442
+  date: '2014-11-06'
+- type: amended_by
+  target: pt:dre:69909971:por
+  label: Transferidas as atribuições do gestor do PROMAR, previstas no Dec Lei 80/2008, de 16-mai, alterado pelo presente
+    diploma e pelo Dec Lei 168/2014, de 06-nov, para o gestor do Mar 2020, a partir da data da respetiva nomeação, pelo(a)
+    Despacho n.º 8466/2015 - Diário da República n.º 149/2015, Série II de 2015-08-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/8466-2015-69909971
+  date: '2015-08-03'
 - type: cites
   target: celex:32006R1198
   label: null
@@ -109,15 +128,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/81/2008/05/16/p/dre
 article_structure:
-  article_count: 12
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:14Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +173,9 @@ Os artigos 1.º, 5.º, 9.º e 10.º do Decreto-Lei n.º 80/2008, de 16 de Maio, 
 
 2 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -166,7 +187,9 @@ Os artigos 1.º, 5.º, 9.º e 10.º do Decreto-Lei n.º 80/2008, de 16 de Maio, 
 
 5 - O gestor é, por inerência, o director-geral das Pescas e Aquicultura, o coordenador-adjunto é designado, em comissão de serviço, por despacho do membro do Governo competente em matéria de pescas, e os coordenadores regionais são designados pelos órgãos de governo próprios das Regiões Autónomas da Madeira e Açores, respectivamente.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -178,7 +201,9 @@ Os artigos 1.º, 5.º, 9.º e 10.º do Decreto-Lei n.º 80/2008, de 16 de Maio, 
 
 5 - Os procedimentos relativos ao exercício das funções dos grupos de acção costeira, localizados nas Regiões Autónomas, são objecto de contrato a celebrar com o coordenador regional respectivo.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -248,7 +273,9 @@ i) Não ter prestado qualquer serviço a navios de pesca incluídos nas listas r
 
 4 - A instrução de candidaturas deve ser acompanhada de declaração sob compromisso de honra do promotor, de que não se encontra em qualquer uma das situações previstas nas alíneas g), h) e i) do n.º 2 e no número anterior.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -258,7 +285,9 @@ i) Não ter prestado qualquer serviço a navios de pesca incluídos nas listas r
 
 4 - Sempre que os projectos tenham por objecto uma embarcação de pesca, constitui condição geral de admissibilidade, não se encontrarem incluídas, à data de apresentação da candidatura, em lista comunitária ou de Organização Regional de Pesca, de navios de pesca INN.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Só são admitidas para apreciação e selecção as candidaturas que tenham dado entrada nas direcções regionais de agricultura e pescas, no caso do continente, e nos órgãos que detenham a competência para a recepção, no caso das Regiões Autónomas dos Açores e Madeira, nos prazos e mediante o preenchimento dos formulários previstos nos regulamentos dos regimes de apoio, acompanhados de todos os elementos aí mencionados.
 
@@ -276,7 +305,9 @@ i) Não ter prestado qualquer serviço a navios de pesca incluídos nas listas r
 
 8 - (Anterior n.º 6.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -286,7 +317,9 @@ b) Na Região Autónoma dos Açores, no caso de ser designado um órgão da admi
 
 2 - A decisão final de concessão dos apoios financeiros é comunicada pelo gestor da autoridade de gestão ao Instituto de Financiamento da Agricultura e Pescas, I. P., ou pelos coordenadores regionais da Madeira e Açores às entidades referidas nas alíneas a) e b) do número anterior, respectivamente.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -300,7 +333,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 ...
 
@@ -332,12 +367,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Março de 2009. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Costa Pina - Rui Carlos Pereira - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Luís Medeiros Vieira - Pedro Manuel Dias de Jesus Marques.
 
-**Promulgado em 20 de Maio de 2009.**
+Promulgado em 20 de Maio de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de Maio de 2009.**
+Referendado em 21 de Maio de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

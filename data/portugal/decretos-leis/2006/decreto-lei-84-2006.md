@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/05/091a00/33383357.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/84/2006/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2006-655570
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9c3562c4ccbb14b48d414495a2877ea68b8c82c3d7d3488f4b9c269f5209e11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b4b81ebc9a983e0d2b8765dceb92f39a03b23c4a902fa58d9e6d08fa86687d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Infarmed
 - Higiene Corporal
+- Infarmed
 - Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:452215:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518204:por
+  label: "Alterados os anexos II e III do Dec Lei 142/2005 de 24-Ago, na redacção do presente diploma, pelo DEC LEI.27/2007.08.02.2007.MS,\
+    \ DR.IS [28] de 08.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2007-518204
+  date: '2007-02-08'
+- type: amended_by
+  target: pt:dre:386603:por
+  label: "Alterado o n.º 663 do anexo ii, os anexos iii e iv e vi, aditados os n.os 1234 a 1243 e revogado o n.º 1182 do anexo\
+    \ ii do Dec Lei 142/2005, de 24-Ago, na redacção do presente diploma, pelo DEC LEI.8/2008.11.01.2008.MS, DR.IS [8] de\
+    \ 11.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2008-386603
+  date: '2008-01-11'
 - type: cites
   target: celex:31976L0768
   label: null
@@ -92,16 +105,21 @@ relationships:
   target: celex:32005L0080
   label: null
   source: http://data.europa.eu/eli/dir/2005/80/oj
+- type: repealed_by
+  target: pt:dre:452215:por
+  label: "Revogado pelo DEC LEI.189/2008.24.09.2008.MS, DR.IS [185] de 24.09.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-2008-452215
+  date: '2008-09-24'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:27Z'
   warnings: []
   errors: []
 ---
@@ -138,15 +156,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, se
 
 Visto e aprovado em Conselho de Ministros de 16 de Fevereiro de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - António Fernando Correia de Campos.
 
-**Promulgado em 26 de Abril de 2006.**
+Promulgado em 26 de Abril de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 27 de Abril de 2006.**
+Referendado em 27 de Abril de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que refere o artigo 2.º)
 
@@ -2580,8 +2598,8 @@ Visto e aprovado em Conselho de Ministros de 16 de Fevereiro de 2006. - José S�
 
 (nota 2) Para o ingrediente específico, v. o número de ordem 413.
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/2006/05/091a00/33383357.pdf))](https://files.diariodarepublica.pt/1s/2006/05/091a00/33383357.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/091a00/33383357.pdf)
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/1s/2006/05/091a00/33383357.pdf))](https://files.diariodarepublica.pt/1s/2006/05/091a00/33383357.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/091a00/33383357.pdf)
 
-## ANEXO VI — [([ver documento original](https://files.diariodarepublica.pt/1s/2006/05/091a00/33383357.pdf))](https://files.diariodarepublica.pt/1s/2006/05/091a00/33383357.pdf)
+## ANEXO VI — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/091a00/33383357.pdf)

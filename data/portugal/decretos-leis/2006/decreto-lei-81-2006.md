@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/81/2006/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2006-649721
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 263e5ff55edf525896a948e657d0a1fd37501009fc1adcaf683c5a6ce4066202
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29bc145c4622d313cd439c891c890edf02b07fb62508e00d96ce21afcaaca1a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Veículo
 - Estacionamento
 - Preço
 - Proteção do Consumidor
 - Regulamento
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
@@ -88,16 +88,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/24/1996/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/24/1996/07/31/p/dre
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:23Z'
   warnings: []
   errors: []
 ---
@@ -134,15 +150,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, sa
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia - Pedro Manuel Dias de Jesus Marques.
 
-**Promulgado em 6 de Abril de 2006.**
+Promulgado em 6 de Abril de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 10 de Abril de 2006.**
+Referendado em 10 de Abril de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -184,7 +200,9 @@ O acesso a parques de estacionamento não deve ser susceptível de causar embara
 
 3 - Pelo pagamento da taxa devida pelo estacionamento, nos termos previstos no número anterior, deve ser emitido recibo do mesmo, ainda que o pagamento seja feito através de meios automáticos.
 
-###### Artigo 5.º — Título de estacionamento
+###### Artigo 5.º
+
+## Título de estacionamento
 
 1 - Quando o estacionamento esteja sujeito ao pagamento prévio de uma taxa, o título de estacionamento deve ser colocado, sempre que possível, no interior do veículo, junto do pára-brisas, de forma bem visível e legível do exterior.
 
@@ -236,7 +254,7 @@ O acesso a parques de estacionamento não deve ser susceptível de causar embara
 
 3 - A sinalização dos lugares a que se refere o n.º 1 deve ser feita através do painel constante do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/078a00/28282830.pdf))](https://files.diariodarepublica.pt/1s/2006/04/078a00/28282830.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/078a00/28282830.pdf)
 
 ###### Artigo 10.º — Obrigação de desligar o motor
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/67/2009/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2009-605541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:11:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e1274e7d050c34543783de35036b7a4f5e0cd4e2439c72448d5828479110d65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71eca816048ba89c15dcb239b034d47453e80da7a3e36fc450a4a93cc79cfa4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:11:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,12 @@ subjects:
 - Contra-ordenação
 - Desalfândegamento
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
-- Fiscalização
-- Instituto da Mobilidade e dos Transportes Terrestres
-- Importação de Veículos
-- Veículo
 - Documentos do Veículo
+- Fiscalização
+- Importação de Veículos
+- Instituto da Mobilidade e dos Transportes Terrestres
 - Matrícula
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
@@ -96,16 +96,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/22-a/2007/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/22-a/2007/06/29/p/dre
+- type: cites
+  target: pt:dre:226204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:11:06Z'
   warnings: []
   errors: []
 ---
@@ -260,15 +280,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Rui Carlos Pereira - Mário Lino Soares Correia.
 
-**Promulgado em 13 de Março de 2009.**
+Promulgado em 13 de Março de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Março de 2009.**
+Referendado em 16 de Março de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -276,13 +296,13 @@ Modelo n.º 1
 
 Automóveis e seus reboques
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05600/0179801801.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05600/0179801801.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05600/0179801801.pdf)
 
 (dimensões mínimas em milímetros)
 
-# Parte superior: número de identificação atribuído sequencialmente.
+Parte superior: número de identificação atribuído sequencialmente.
 
-# Parte inferior: nome ou firma do operador registado, ou do fabricante, ou do respectivo agente concessionário.
+Parte inferior: nome ou firma do operador registado, ou do fabricante, ou do respectivo agente concessionário.
 
 Fundo: de cor vermelha e as letras e os algarismos devem ser de cor branca.
 
@@ -290,13 +310,13 @@ Modelo n.º 2
 
 Veículos de duas e três rodas e quadriciclos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05600/0179801801.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05600/0179801801.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05600/0179801801.pdf)
 
 (dimensões mínimas em milímetros)
 
-# Parte superior: número de identificação atribuído sequencialmente.
+Parte superior: número de identificação atribuído sequencialmente.
 
-# Parte inferior: nome ou firma do operador registado, ou do fabricante, ou do respectivo agente concessionário.
+Parte inferior: nome ou firma do operador registado, ou do fabricante, ou do respectivo agente concessionário.
 
 Fundo: de cor vermelha e as letras e os algarismos devem ser de cor branca.
 
@@ -304,7 +324,7 @@ Modelo n.º 3
 
 Veículos de ensaio ou de experiência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05600/0179801801.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05600/0179801801.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05600/0179801801.pdf)
 
 Lado esquerdo: eurobanda azul com a letra de identificação nacional «P».
 
@@ -318,7 +338,7 @@ Modelo n.º 4
 
 Veículos de ensaio ou de experiência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05600/0179801801.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05600/0179801801.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05600/0179801801.pdf)
 
 Lado esquerdo: eurobanda azul com a letra de identificação nacional «P».
 

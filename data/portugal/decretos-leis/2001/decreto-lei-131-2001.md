@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/131/2001/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2001-165044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:24:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f10f73c93eb165bc17473630313096fad3d49b24224fa06e705b5e3eced881de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b43536988d41ff49189977a9c94bdfd50c428c307f53be44ba4d3998d8650cfb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:24:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,15 +80,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1999/34/oj
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:24:19Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +119,9 @@ Os artigos 8.º e 9.º do Decreto-Lei n.º 383/89, de 6 de Novembro, passam a te
 
 São ressarcíveis os danos resultantes de morte ou lesão pessoal e os danos em coisa diversa do produto defeituoso, desde que seja normalmente destinada ao uso ou consumo privado e o lesado lhe tenha dado principalmente este destino.
 
-###### Artigo 9.º — Limites
+Artigo 9.º
+
+Limites
 
 Os danos causados em coisas a que se refere o artigo anterior só são indemnizáveis na medida em que excedam o valor de (euro) 500 ou 100241$00.»
 
@@ -133,12 +135,12 @@ O presente diploma entra em vigor no prazo de 60 dias a contar da data da sua pu
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - António Luís Santos Costa - Mário Cristina de Sousa.
 
-**Promulgado em 11 de Abril de 2001.**
+Promulgado em 11 de Abril de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Abril de 2001.**
+Referendado em 12 de Abril de 2001.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.

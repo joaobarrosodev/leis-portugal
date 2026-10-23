@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/235/2005/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2005-473502
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1cdad421a9f8dbd328b8250ba667a43d7736cb0913dc79d40d71bfef008ce02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 140308bbb6f168259a02bde2be97522141da4b02360218988bc8e5855df35cb4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
 - Aposentação
-- Ministro da Justiça
+- Estatuto de Disponibilidade
+- Força Paramilitar
 - Idade de Reforma
+- Investigação Criminal
+- Ministro da Justiça
 - Orgânica
 - Polícia Judiciária
-- Força Paramilitar
-- Investigação Criminal
-- Estatuto de Disponibilidade
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:632448:por
@@ -107,16 +107,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/110/2005/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/110/2005/06/30/p/dre
+- type: cites
+  target: pt:dre:215078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:683851:por
+  label: "Rectificado pela DECL-RECT.10/2006.08.02.2006.PCM, DR.IS-A [33] de 15.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-2006-683851
+  date: '2006-02-08'
+- type: repealed_by
+  target: pt:dre:632448:por
+  label: "Revogado o nº 2 do art. 4º (retificado pela Decl-Rect 10/2006 de 15-fev) pela LEI.66-B/2012.31.12.2012.AR, DR.IS\
+    \ [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
 article_structure:
-  article_count: 9
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:15Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +204,9 @@ Os artigos 87.º, 146.º, 147.º e 148.º da Lei Orgânica da Polícia Judiciár
 
 3 - ...
 
-###### Artigo 146.º — [...]
+Artigo 146.º
+
+[...]
 
 1 - O pessoal de investigação criminal que não se encontre provido em comissão de serviço em cargos dirigentes passa à disponibilidade:
 
@@ -175,7 +216,9 @@ b) Por despacho do Ministro da Justiça, a requerimento do funcionário, quando 
 
 2 - ...
 
-###### Artigo 147.º — [...]
+Artigo 147.º
+
+[...]
 
 1 - Na situação de disponibilidade, o funcionário conserva os direitos e regalias respectivos e continua vinculado aos deveres e incompatibilidades, com excepção:
 
@@ -191,7 +234,9 @@ b) Direito de promoção.
 
 5 - O regime de prestação de serviço na disponibilidade é definido por portaria do Ministro da Justiça.
 
-###### Artigo 148.º — [...]
+Artigo 148.º
+
+[...]
 
 1 - O pessoal de investigação criminal, mesmo quando provido em comissão de serviço em cargos dirigentes, passa à situação de aposentado, se o requerer, quando tenha completado 60 anos de idade.
 
@@ -211,7 +256,9 @@ Contingente em efectividade de serviço
 
 3 - As regras de prioridade no deferimento dos requerimentos são estabelecidas, tendo em conta a idade e o tempo de serviço prestado pelos funcionários, por despacho do Ministro da Justiça.
 
-###### Artigo 148.º-A — Passagem à situação de aposentação do pessoal da carreira de segurança
+Artigo 148.º-A
+
+Passagem à situação de aposentação do pessoal da carreira de segurança
 
 Os funcionários que integram a carreira de segurança podem requerer a aposentação quando completem 60 anos.»
 
@@ -237,15 +284,15 @@ O presente diploma entra em vigor em 1 de Janeiro de 2006.
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - José António Fonseca Vieira da Silva.
 
-**Promulgado em 21 de Dezembro de 2005.**
+Promulgado em 21 de Dezembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Dezembro de 2005.**
+Referendado em 22 de Dezembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 TABELA ANEXA
 

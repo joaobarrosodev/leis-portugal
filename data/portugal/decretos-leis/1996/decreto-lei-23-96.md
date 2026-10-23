@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/23/1996/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1996-534795
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:46:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34f65d9d75532e0fde36baef1d3f7a09995904d78b04e9b65b078b248634458f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1adaaf362360680b9e28522a91780bc8c8355f0d3fa9f1a3b9e0a502134b0749
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:46:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,49 +66,77 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Auditoria Ambiental
+- Auditoria Jurídica
 - Comissão de Apoio à Reestruturação do Equipamento e da Administração do Território
 - Comissão Portuguesa de História Militar
 - Conselho de Ministros para os Assuntos Económicos
 - Criação de Serviços
 - Extinção de Serviços
-- Ministério do Planeamento e da Administração do Território
 - Gabinete de Coordenação do Investimento e do Financiamento
-- Ministério do Equipamento do Planeamento e da Administração do Território
 - Gabinete para as Comunidades Europeias
 - Gabinete para os Assuntos Europeus e Relações Externas
 - Governo XIII
-- Ministro da Cultura
-- Secretário de Estado dos Transportes
 - Inspecção Geral
 - Integração de Serviços
-- Auditoria Jurídica
+- Ministério do Equipamento do Planeamento e da Administração do Território
 - Ministério do Equipamento Social
+- Ministério do Planeamento e da Administração do Território
+- Ministro da Cultura
 - Ministro do Equipamento do Planeamento e da Administração do Território
 - Orgânica
-- Secretário de Estado da Administração Local e Ordenamento do Território
 - Secretário de Estado Adjunto do Ministro do Equipamento Planeamento e Administração do Território
+- Secretário de Estado da Administração Local e Ordenamento do Território
 - Secretário de Estado da Habitação e Comunicações
 - Secretário de Estado das Obras Públicas
 - Secretário de Estado do Desenvolvimento Regional
+- Secretário de Estado dos Transportes
 relationships:
 - type: amended_by
   target: pt:dre:545646:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:186543:por
+  label: "Alterados os art. 2º, 10º e 31º do Dec Lei 296-A/95, de 17-Nov, na redacção do presente diploma, pelo DEC LEI.55/98.1998.03.16.PCM,\
+    \ DR.IS-A [63]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-1998-186543
+  date: '1998-03-16'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros, do Centro de Estudos e Formação Autárquica\
+    \ (integrado no Ministério do Equipamento do Planeamento e da Administração do Território pelo presente diploma), pelo\
+    \ DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:545646:por
+  label: "Extinto, sendo objecto de fusão, a Auditoria Ambiental, criada pelo presente diploma, cujas atribuições nos termos\
+    \ da al. a) do nº 2 do art. 26.º são integradas no Gabinete de Planeamento Estratégico e Relações Internacionais, pelo\
+    \ Dec.210/2006.27.10.2006.MOPTC, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-2006-545646
+  date: '2006-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/296-a/1995/11/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/296-a/1995/11/17/p/dre
+- type: cites
+  target: pt:dre:375192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455465:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:46:08Z'
   warnings: []
   errors: []
 ---
@@ -309,12 +337,12 @@ São revogados os artigos 14.º e 19.º do [Decreto-Lei n.º 296-A/95](https://d
 
 Visto e aprovado em Conselho de Ministros de 8 de Fevereiro de 1996. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - António Manuel de Carvalho Ferreira Vitorino - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 6 de Março de 1996.**
+Promulgado em 6 de Março de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Março de 1996.**
+Referendado em 8 de Março de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

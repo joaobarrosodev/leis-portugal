@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 112/1998, 1º Suplemento, Série I-A de 1998-05-15
   number: '112'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2336-(2) a 2336-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/112a01/00020003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/136-a/1998/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-a-1998-292914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:57:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3103929d9e4d8ae457495f5e13cf4324011a7c2c903c08363513ce80cc443a5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0a7cc0e12f76a1c39f733bbcb1c5c13ac4cd2343257efebf84446a92b2928a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:57:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Alienação de BENS
 - Alienação de Fogos
-- Financiamento
-- Garantia
-- Construção Civil
-- Governo Regional
-- Realojamento
-- Faro
-- Catástrofe
-- Habitação Social
-- Instituto Nacional de Habitação
-- Governo Civil
-- Beja
-- Évora
-- Açores
 - Arrendamento Urbano para Habitação
 - Autarquia Local
+- Beja
+- Catástrofe
+- Construção Civil
+- Évora
+- Faro
+- Financiamento
+- Garantia
+- Governo Civil
+- Governo Regional
+- Habitação Social
+- Instituto Nacional de Habitação
+- Realojamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/346/1997/12/05/p/dre
@@ -93,16 +93,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/500/1997/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/500/1997/07/21/p/dre
+- type: cites
+  target: pt:dre:147421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402731:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:57:13Z'
   warnings: []
   errors: []
 ---
@@ -135,13 +147,17 @@ Objecto
 
 2 - O apoio financeiro aos proprietários das habitações pode, porém, destinar-se a financiar a construção de uma habitação em local diferente do da habitação sinistrada ou a aquisição de uma nova habitação, sempre que, por razões comprovadas de natureza ambiental ou urbanística, designadamente, quando se trate de imóveis situados em leitos de cheia, não seja adequado reconstruir habitações naquele local.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - (Corpo do artigo.)
 
 2 - No caso do n.º 2 do artigo 2.º, deve ainda ser apresentada declaração do município sobre as razões de natureza ambiental ou urbanística invocadas, bem como os elementos relativos à localização do terreno, área bruta da habitação e estimativa do custo total das obras, tratando-se de construção de habitação ou os elementos identificativos e o preço da habitação a adquirir, tratando-se de aquisição.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Cabe ao INH, mediante contrato a celebrar com o proprietário da habitação, comparticipar a fundo perdido na percentagem de 50% do custo de construção ou reconstrução da habitação fixado nos termos do n.º 1 do artigo 9.º
 
@@ -151,7 +167,9 @@ Objecto
 
 4 - Para efeito do disposto no número anterior, os montantes a atribuir a título de comparticipação são estabelecidos em termos a definir por portaria conjunta dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O INH ou uma instituição de crédito pode assegurar o financiamento da parte do custo das obras de reconstrução, de construção ou de aquisição do fogo que não é comparticipada, nos seguintes termos:
 
@@ -161,13 +179,17 @@ b) Nos casos previstos nos artigos 2.º e 8.º do presente diploma, as condiçõ
 
 2 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - No caso de habitações arrendadas cujos proprietários não pretendam proceder à respectiva reconstrução ou aceder ao apoio financeiro previsto nos artigos anteriores, os arrendatários têm acesso à concessão de apoio financeiro para aquisição ou construção de habitação própria permanente.
 
 2 - Têm igualmente acesso à concessão de apoio financeiro para aquisição ou construção de habitação própria permanente, no caso indicado no número anterior, os agregados familiares que ocupavam habitações sinistradas a outro título, designadamente de usufruto ou comodato, e que comprovadamente as utilizavam como sua habitação permanente.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O custo máximo das obras de construção ou reconstrução a financiar ao abrigo do presente diploma é o resultante do produto da área bruta a construir ou a reconstruir por:
 
@@ -177,13 +199,17 @@ b) O montante de 64000$00 reportado a 1 de Abril de 1998 e actualizável nos ter
 
 2 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
 2 - Nos casos referidos no n.º 2 do artigo 2.º e no artigo 8.º, as áreas e tipologias das habitações a adquirir ou a construir devem ser as adequadas à composição do agregado familiar que residia na habitação sinistrada.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Os fogos reconstruídos, construídos ou adquiridos pelos proprietários ao abrigo do presente diploma deverão manter-se afectos, consoante os casos, a:
 
@@ -197,7 +223,9 @@ b) Arrendamento para habitação permanente do agregado familiar residente na ha
 
 4 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - As habitações reconstruídas, construídas ou adquiridas com financiamentos concedidos ao abrigo do presente diploma não podem ser alienadas antes de decorrido o prazo de 25 anos após a conclusão das obras ou da escritura de aquisição, salvo em caso de execução de dívidas de que os mesmos constituam garantia real e sem prejuízo do disposto no número seguinte.
 
@@ -211,12 +239,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho.
 
-**Promulgado em 6 de Maio de 1998.**
+Promulgado em 6 de Maio de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Maio de 1998.**
+Referendado em 14 de Maio de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

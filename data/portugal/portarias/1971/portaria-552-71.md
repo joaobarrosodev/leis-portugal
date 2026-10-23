@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/552-1971-632921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 937095331dcb2b58da3ba3131b1a54b325f6dfa66de7ddea827b389f88f7bcae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bfddbc6e566178ff88fe1ffa8a66890125557b1014c4fd3978a9f7f87c716ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429587:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:40Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +103,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 Uniformes e Pequeno Equipamento para Sargentos e Praças da Armada, aprovado pelo [Decreto n.º 42508](https://diariodarepublica.pt/dr/detalhe/decreto/42508-1959-429587), de 16 de Setembro de 1959, tomam a redacção seguinte:
 
-###### Artigo 1.º Os artigos estabelecidos neste Regulamento, para uso dos sargentos e praças da Armada, são requisitados pelas unidades ou serviços à Direcção do Serviço de Abastecimento (DSA) ou aos Depósitos Territoriais (DCT's) e compreendem:
+Artigo 1.º Os artigos estabelecidos neste Regulamento, para uso dos sargentos e praças da Armada, são requisitados pelas unidades ou serviços à Direcção do Serviço de Abastecimento (DSA) ou aos Depósitos Territoriais (DCT's) e compreendem:
 
 1.º grupo: Artigos pertencentes ao sargento ou à praça - fardamento e outros artigos de uso individual;
 
@@ -103,23 +111,23 @@ Uniformes e Pequeno Equipamento para Sargentos e Praças da Armada, aprovado pel
 
 3.º grupo: Artigos pertencentes à unidade ou serviço.
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 ...
 
 b) Os das praças são-lhes fornecidos pelas unidades ou serviços. São contabilizados nas contas correntes individuais existentes na DSA, como contrapartida do auxílio para fardamento (artigo 168.º), à excepção dos referidos no § 3.º do artigo 91.º Em caso de dívida elevada, haverá lugar a desconto nos vencimentos do pessoal a quem forem entregues os artigos.
 
-###### Art. 3.º Os artigos do 2.º grupo são fornecidos gratuitamente aos sargentos e praças, que ficam seus detentores enquanto estiverem na efectividade do serviço e mantiverem graduação que ao seu uso dê direito. São pessoalmente responsáveis pela sua conservação e duração, dentro dos prazos mínimos fixados, e devem fazer-se acompanhar deles sempre que mudem de situação. Findos os respectivos prazos, os sargentos e praças receberão normalmente novos artigos e entregarão em troca os artigos incapazes, ficando sujeitos ao pagamento da correspondente indemnização caso tenham deixado extraviar qualquer deles, salvo nos casos expressos neste Regulamento.
+Art. 3.º Os artigos do 2.º grupo são fornecidos gratuitamente aos sargentos e praças, que ficam seus detentores enquanto estiverem na efectividade do serviço e mantiverem graduação que ao seu uso dê direito. São pessoalmente responsáveis pela sua conservação e duração, dentro dos prazos mínimos fixados, e devem fazer-se acompanhar deles sempre que mudem de situação. Findos os respectivos prazos, os sargentos e praças receberão normalmente novos artigos e entregarão em troca os artigos incapazes, ficando sujeitos ao pagamento da correspondente indemnização caso tenham deixado extraviar qualquer deles, salvo nos casos expressos neste Regulamento.
 
-###### Art. 4.º Os artigos do 3.º grupo são pertença de cada unidade ou serviço, em cujas contas de material devem estar à carga. São distribuídos aos sargentos e praças para a execução de certos serviços, que os devolverão quando estes findem ou quando mudem de situação. Exceptuam-se deste procedimento as boinas e respectivas âncoras para fuzileiros especiais, que ficam sempre na posse dos utilizadores.
-
-...
-
-###### Art. 5.º-A. As âncoras metálicas do colarinho da camisa azul para sargentos e praças (fig. 27-A) são de metal oxidado, de 0,017 m de altura por 0,010 m de largura.
+Art. 4.º Os artigos do 3.º grupo são pertença de cada unidade ou serviço, em cujas contas de material devem estar à carga. São distribuídos aos sargentos e praças para a execução de certos serviços, que os devolverão quando estes findem ou quando mudem de situação. Exceptuam-se deste procedimento as boinas e respectivas âncoras para fuzileiros especiais, que ficam sempre na posse dos utilizadores.
 
 ...
 
-###### Art. 9.º O blusão para sargentos e para praças da música (figs. 4 e 5) é do tecido padrão existente na 3.ª Repartição da DSA, azul, de talhe folgado, para permitir liberdade de movimentos. A gola é voltada, com bandas de 0,120 m de largura, e de talhe que permita cruzar e abotoar; a altura da gola atrás é de 0,050 m. Abotoa à frente com uma ordem de quatro botões pretos do padrão n.º 6, em carcela de 0,050 m de largura. No prolongamento da ordem de botões e debaixo da banda da gola há um botão preto do padrão n.º 7, que serve para abotoar uma casa existente na banda do outro lado; este botão usa-se normalmente desabotoado, o que implica o uso de gravata preta com a camisa azul.
+Art. 5.º-A. As âncoras metálicas do colarinho da camisa azul para sargentos e praças (fig. 27-A) são de metal oxidado, de 0,017 m de altura por 0,010 m de largura.
+
+...
+
+Art. 9.º O blusão para sargentos e para praças da música (figs. 4 e 5) é do tecido padrão existente na 3.ª Repartição da DSA, azul, de talhe folgado, para permitir liberdade de movimentos. A gola é voltada, com bandas de 0,120 m de largura, e de talhe que permita cruzar e abotoar; a altura da gola atrás é de 0,050 m. Abotoa à frente com uma ordem de quatro botões pretos do padrão n.º 6, em carcela de 0,050 m de largura. No prolongamento da ordem de botões e debaixo da banda da gola há um botão preto do padrão n.º 7, que serve para abotoar uma casa existente na banda do outro lado; este botão usa-se normalmente desabotoado, o que implica o uso de gravata preta com a camisa azul.
 
 Na altura do peito, de cada lado, tem uma algibeira exterior, de 0,140 m de altura por 0,120 m de largura, fazendo um fole sobreposto de 0,040 m de largura. Por cima de cada algibeira, a uma distância de 0,010 m, existe uma portinhola, de duplo recorte, terminada em bico, com largura de 0,060 m ao centro e 0,060 m nos extremos; nesta portinhola está aberta uma casa para abotoar num botão do padrão n.º 2 ou n.º 3, conforme forem primeiros-sargentos e segundos-sargentos ou praças da música, pregado sobre o fole da algibeira.
 
@@ -133,7 +141,7 @@ Nos ombros tem platinas fixas do mesmo tecido, com 0,040 m de largura, que aboto
 
 ...
 
-###### Art. 14.º O boné de bivaque para sargentos-ajudantes (figs. 11 e 12) é do tecido padrão existente na 3.ª Repartição da DSA, azul, com copa formada por três peças: nas laterais, unidas com costuras verticais à frente e atrás da cabeça, e uma superior, unida com costuras longitudinais às peças laterais e vincada ao centro no sentido do comprimento. As peças laterais têm de altura: 0,100 m à frente, 0,130 m a meio e 0,090 m atrás e a peça superior tem o comprimento da cabeça e a largura de 0,095 m.
+Art. 14.º O boné de bivaque para sargentos-ajudantes (figs. 11 e 12) é do tecido padrão existente na 3.ª Repartição da DSA, azul, com copa formada por três peças: nas laterais, unidas com costuras verticais à frente e atrás da cabeça, e uma superior, unida com costuras longitudinais às peças laterais e vincada ao centro no sentido do comprimento. As peças laterais têm de altura: 0,100 m à frente, 0,130 m a meio e 0,090 m atrás e a peça superior tem o comprimento da cabeça e a largura de 0,095 m.
 
 Tem duas abas laterais (rebuço) cosidas atrás uma à outra e interiormente em toda a periferia do boné; estas abas são voltadas para cima e têm de altura: 0,050 m à frente, 0,080 m ao lado e 0,065 m atrás, sendo do feitio apropriado para virar para baixo, agasalhando as orelhas e cobrindo a nuca.
 
@@ -143,7 +151,7 @@ Interiormente é forrado com uma tira de carneira, com 0,040 m de largura, que f
 
 ...
 
-###### Art. 21.º As calças azuis (padrão n.º 2) para sargentos e praças da música (figs. 23-B e 24-B) são do tecido padrão existente na 3.ª Repartição da DSA, azul, sem listas nem pestanas, direitas, tendo de cada lado, na folha da frente, uma algibeira interior com abertura inclinada a 30º; a parte inferior da abertura começa na costura lateral. Na parte posterior tem de cada lado uma algibeira interior com abertura de 0,150 m, tendo superiormente uma portinhola de duplo recorte terminada em bico, com a largura de 0,060 m ao centro e 0,050 m nos extremos; nesta portinhola está aberta uma casa para abotoar num botão preto do padrão n.º 7.
+Art. 21.º As calças azuis (padrão n.º 2) para sargentos e praças da música (figs. 23-B e 24-B) são do tecido padrão existente na 3.ª Repartição da DSA, azul, sem listas nem pestanas, direitas, tendo de cada lado, na folha da frente, uma algibeira interior com abertura inclinada a 30º; a parte inferior da abertura começa na costura lateral. Na parte posterior tem de cada lado uma algibeira interior com abertura de 0,150 m, tendo superiormente uma portinhola de duplo recorte terminada em bico, com a largura de 0,060 m ao centro e 0,050 m nos extremos; nesta portinhola está aberta uma casa para abotoar num botão preto do padrão n.º 7.
 
 Tem cós de 0,040 m de altura com sete passadeiras para o cinto.
 
@@ -151,7 +159,7 @@ Largura inferior de perna entre 0,230 m e 0,280 m.
 
 ...
 
-###### Art. 26.º As calças de trabalho para sargentos e praças (figs. 23-A e 24-A) são do tecido padrão existente na 3.ª Repartição da DSA, azul, direitas, sem listas nem pestanas, tendo braguilha abotoada com seis botões pretos do padrão n.º 7, em carcela de 0,040 m de largura.
+Art. 26.º As calças de trabalho para sargentos e praças (figs. 23-A e 24-A) são do tecido padrão existente na 3.ª Repartição da DSA, azul, direitas, sem listas nem pestanas, tendo braguilha abotoada com seis botões pretos do padrão n.º 7, em carcela de 0,040 m de largura.
 
 De cada lado, junto à costura lateral, tem uma algibeira interior de 0,150 m de largura por 0,250 m de altura, de zuarte azul-ferrete; a abertura desta algibeira é vertical e está colocada na costura lateral das calças.
 
@@ -163,27 +171,27 @@ Largura inferior da perna entre 0,250 m e 0,280 m e a bainha interior de 0,035 m
 
 ...
 
-###### Art. 29.º Os calções de trabalho para sargentos e praças (figs. 25 e 26) são do tecido padrão existente na 3.ª Repartição da DSA, azul, de talhe igual ao dos calções brancos, descrito no artigo 28.º, mas com botões pretos e com as algibeiras interiores e o forro do cós de zuarte azul-ferrete.
+Art. 29.º Os calções de trabalho para sargentos e praças (figs. 25 e 26) são do tecido padrão existente na 3.ª Repartição da DSA, azul, de talhe igual ao dos calções brancos, descrito no artigo 28.º, mas com botões pretos e com as algibeiras interiores e o forro do cós de zuarte azul-ferrete.
 
 ...
 
-###### Art. 43.º As cuecas para sargentos e praças (fig. 40) são de malha de algodão, sem botões, do padrão existente na 3.ª Repartição da DSA.
+Art. 43.º As cuecas para sargentos e praças (fig. 40) são de malha de algodão, sem botões, do padrão existente na 3.ª Repartição da DSA.
 
 ...
 
-###### Art. 68.º As luvas brancas para sargentos, praças das classes da música e de mestres clarins e especializados em clarins (fig. 108) são de algodão, lisas, sem enfeites, abotoando com um botão branco.
+Art. 68.º As luvas brancas para sargentos, praças das classes da música e de mestres clarins e especializados em clarins (fig. 108) são de algodão, lisas, sem enfeites, abotoando com um botão branco.
 
 ...
 
-###### Art. 86.º As sandálias para sargentos e praças são do modelo e padrão existentes na 3.ª Repartição da DSA.
+Art. 86.º As sandálias para sargentos e praças são do modelo e padrão existentes na 3.ª Repartição da DSA.
 
 ...
 
-###### Art. 88.º Os sapatos pretos para sargentos e praças são do modelo e padrão existentes na 3.ª Repartição da DSA.
+Art. 88.º Os sapatos pretos para sargentos e praças são do modelo e padrão existentes na 3.ª Repartição da DSA.
 
 ...
 
-###### Art. 91.º Além dos artigos já indicados, pertencem a este grupo os seguintes artigos de uso individual, também obrigatório:
+Art. 91.º Além dos artigos já indicados, pertencem a este grupo os seguintes artigos de uso individual, também obrigatório:
 
 1) Caderneta militar (§ 3.º).
 
@@ -229,7 +237,7 @@ o seu comprimento, quando fechada, é de 0,110 m.
 
 ...
 
-###### Art. 142.º ...
+Art. 142.º ...
 
 ...
 
@@ -241,7 +249,7 @@ b) Polainitos pretos para sargentos e praças de bezerro waterproof de cor preta
 
 ...
 
-###### Art. 149.º ...
+Art. 149.º ...
 
 ...
 
@@ -249,7 +257,7 @@ b) Polainitos pretos para sargentos e praças de bezerro waterproof de cor preta
 
 ...
 
-###### Art. 171.º ...
+Art. 171.º ...
 
 ...
 
@@ -309,7 +317,7 @@ f) São eliminadas as figs. 125 e 126.
 
 4.º Ao mesmo Regulamento são acrescentados os parágrafos e artigos seguintes:
 
-###### Art. 47.º ...
+Art. 47.º ...
 
 § 1.º Estes distintivos, à excepção do de submersíveis, apenas se usam na manga do braço esquerdo da blusa azul, dentro da elipse e sob o distintivo da classe respectiva.
 
@@ -317,46 +325,46 @@ f) São eliminadas as figs. 125 e 126.
 
 ...
 
-###### Art. 110.º-A. As âncoras metálicas das boinas para sargentos e para praças das unidades de fuzileiros especiais (fig. 27-A) são de metal oxidado, de 0,035 m de altura por 0,020 m de largura.
+Art. 110.º-A. As âncoras metálicas das boinas para sargentos e para praças das unidades de fuzileiros especiais (fig. 27-A) são de metal oxidado, de 0,035 m de altura por 0,020 m de largura.
 
 ...
 
-###### Art. 112.º-A. A boina de um só pano para sargentos e para praças das unidades de fuzileiros especiais é de lã azul-ferrete, forrada interiormente com um tecido preto, debruada no limite inferior com uma tira de carneira preta de 0,025 m, que forma um vivo de 0,010 m e se desenvolve verticalmente por dentro na área correspondente ao distintivo; por dentro do debrum corre uma fita preta de 0,050 m de largura, a qual forma um nó atrás e cujas pontas caem livremente com um comprimento entre 0,010 m e 0,012 m; copa com um desenvolvimento radial de 0,040 m a 0,060 m em relação ao perímetro do debrum; no lado direito, dois ilhós metálicos de ventilação, pretos, com 0,005 m de diâmetro e cujos centros distam 0,035 m entre si e 0,035 m do limite do debrum.
+Art. 112.º-A. A boina de um só pano para sargentos e para praças das unidades de fuzileiros especiais é de lã azul-ferrete, forrada interiormente com um tecido preto, debruada no limite inferior com uma tira de carneira preta de 0,025 m, que forma um vivo de 0,010 m e se desenvolve verticalmente por dentro na área correspondente ao distintivo; por dentro do debrum corre uma fita preta de 0,050 m de largura, a qual forma um nó atrás e cujas pontas caem livremente com um comprimento entre 0,010 m e 0,012 m; copa com um desenvolvimento radial de 0,040 m a 0,060 m em relação ao perímetro do debrum; no lado direito, dois ilhós metálicos de ventilação, pretos, com 0,005 m de diâmetro e cujos centros distam 0,035 m entre si e 0,035 m do limite do debrum.
 
 Na parte anterior e diametralmente oposta ao nó das pontas é aplicada como distintivo uma âncora metálica do modelo descrito no artigo 110.º-A e cujo centro fica a 0,035 m acima do debrum.
 
 ...
 
-###### Art. 115.º As calças azuis (padrão n.º 1) para praças da subclasse dos despenseiros são iguais às descritas no artigo 21.º
+Art. 115.º As calças azuis (padrão n.º 1) para praças da subclasse dos despenseiros são iguais às descritas no artigo 21.º
 
 ...
 
-###### Art. 125.º-B. O cobertor é de lã, do padrão existente na DSA.
+Art. 125.º-B. O cobertor é de lã, do padrão existente na DSA.
 
 ...
 
-###### Art. 126.º-A. A colher é do padrão existente na DSA.
+Art. 126.º-A. A colher é do padrão existente na DSA.
 
 ...
 
-###### Art. 131.º-B. A faca é do padrão existente na DSA.
+Art. 131.º-B. A faca é do padrão existente na DSA.
 
 ...
 
-###### Art. 135.º-A. O garfo é do padrão existente na DSA.
+Art. 135.º-A. O garfo é do padrão existente na DSA.
 
 ...Art. 136.º-A. A jaqueta branca para cabos e marinheiros da subclasse dos despenseiros é como a descrita no artigo 61.º, sendo os botões do padrão n.º 4, e não têm âncora no peito.
 
-###### Art. 136.º-B. As luvas brancas para praças da subclasse dos despenseiros são iguais às descritas no artigo 68.º
+Art. 136.º-B. As luvas brancas para praças da subclasse dos despenseiros são iguais às descritas no artigo 68.º
 
 ...
 
-###### Art. 139.º-A. O prato é do padrão existente na DSA.
+Art. 139.º-A. O prato é do padrão existente na DSA.
 
-###### Art. 139.º-B. O púcaro é do padrão existente na DSA.
+Art. 139.º-B. O púcaro é do padrão existente na DSA.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/23800/15191522.pdf))](https://files.diariodarepublica.pt/1s/1971/10/23800/15191522.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/23800/15191522.pdf)
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

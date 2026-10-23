@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/252b00/67636767.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/27/1995/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/27-1995-679005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:23:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d0f889a0ce9a63ae568bf33fde346762eb0834d9e762410ac11423ae2a3e943
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfb1315f92c3590ef83869f48c7525db95e76cccc3ea1e26d2955116f3c8bfe9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:23:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
-- Diretor Geral
 - Base de Dados
-- Segurança da Informação
-- Direito à Informação
-- Sistema de Informação
 - Confidencialidade
-- Polícia Judiciária
 - Dados Pessoais
+- Definição de Competências
+- Direito à Informação
+- Diretor Geral
+- Polícia Judiciária
+- Segurança da Informação
+- Sistema de Informação
 relationships:
 - type: amended_by
   target: pt:dre:582191:por
@@ -87,16 +87,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/65/1993/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/65/1993/08/26/p/dre
+- type: cites
+  target: pt:dre:553435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632408:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:582191:por
+  label: "Revogado pelo DEC LEI.352/99.1999.09.03.MJ,DR.IS-A [206]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/352-1999-582191
+  date: '1999-09-03'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:23:10Z'
   warnings: []
   errors: []
 ---
@@ -431,12 +448,12 @@ Presidência do Conselho de Ministros, 8 de Setembro de 1995.
 
 Aníbal António Cavaco Silva - José Manuel Cardoso Borges Soeiro.
 
-**Promulgado em 3 de Outubro de 1995.**
+Promulgado em 3 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Outubro de 1995.**
+Referendado em 6 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

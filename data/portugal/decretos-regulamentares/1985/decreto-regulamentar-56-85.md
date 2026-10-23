@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/56-1985-179067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:11:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f2bff09f970baa6ac92742b743d320fb1bfc496d0c5b73a65102b67ad656af3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9d1a10ec2370b26c9c405fd843afa36e074f501907ebf8d0631f8dd74c4d320
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:11:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Regulamento de Segurança de Subestações e Postos de Transformação e de Seccionamento
+relationships:
+- type: cites
+  target: pt:dre:282328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396518:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:322305:por
+  label: Rectificado pela DECL.DD5177.18.10.1985.PCM, DR.IS [251]3ºSupl de 31.10.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-322305
+  date: '1985-10-18'
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:11:50Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +107,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 34.º, 38.º, 42.º, 62.º, 63.º, 64.º e 65.º do Regulamento de Segurança de Subestações e Postos de Transformação e de Seccionamento, aprovado pelo [Decreto n.º 42895](https://diariodarepublica.pt/dr/detalhe/decreto/42895-1960-282328), de 31 de Março de 1960, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 34.º, 38.º, 42.º, 62.º, 63.º, 64.º e 65.º do Regulamento de Segurança de Subestações e Postos de Transformação e de Seccionamento, aprovado pelo [Decreto n.º 42895](https://diariodarepublica.pt/dr/detalhe/decreto/42895-1960-282328), de 31 de Março de 1960, passam a ter a seguinte redacção:
 
 ###### Artigo 34.º — Sinalização de segurança
 
@@ -381,9 +395,9 @@ c) Por dispositivos de protecção integrados em aparelhos instalados na própri
 
 13 - Os dispositivos para identificação das saídas defeituosas, também referidos na alínea d) do § 4.º, podem ser idênticos às protecções individuais de terra, já mencionadas, embora apenas com funções de sinalização ou então ser dispositivos que se ligam sucessivamente às diferentes saídas para detectar a situação de defeito.
 
-###### Art. 2.º Por derrogação do disposto na alínea a) do corpo do artigo 52.º do Regulamento de Segurança de Subestações e Postos de Transformação e de Seccionamento, aprovado pelo Decreto-Lei n.º 42895, de 31 de Março de 1960, as armaduras, blindagens e bainhas metálicas dos cabos das saídas subterrâneas de baixa tensão das redes de distribuição pública e das instalações de utilização abrangidas pelo n.º 2 do artigo 2.º do Regulamento de Segurança de Redes de Distribuição de Energia Eléctrica em Baixa Tensão, aprovado pelo [Decreto Regulamentar n.º 90/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/90-1984-396518), de 26 de Dezembro, deverão ser ligadas à terra de serviço nos postos de transformação alimentadores por intermédio de cabos isolados da classe II de isolamento.
+Art. 2.º Por derrogação do disposto na alínea a) do corpo do artigo 52.º do Regulamento de Segurança de Subestações e Postos de Transformação e de Seccionamento, aprovado pelo Decreto-Lei n.º 42895, de 31 de Março de 1960, as armaduras, blindagens e bainhas metálicas dos cabos das saídas subterrâneas de baixa tensão das redes de distribuição pública e das instalações de utilização abrangidas pelo n.º 2 do artigo 2.º do Regulamento de Segurança de Redes de Distribuição de Energia Eléctrica em Baixa Tensão, aprovado pelo [Decreto Regulamentar n.º 90/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/90-1984-396518), de 26 de Dezembro, deverão ser ligadas à terra de serviço nos postos de transformação alimentadores por intermédio de cabos isolados da classe II de isolamento.
 
-###### Art. 3.º - 1 - O presente decreto regulamentar entrará em vigor 90 dias após a data da sua publicação, sem prejuízo do disposto no número seguinte.
+Art. 3.º - 1 - O presente decreto regulamentar entrará em vigor 90 dias após a data da sua publicação, sem prejuízo do disposto no número seguinte.
 
 2 - As subestações existentes à data da entrada em vigor deste decreto regulamentar que não satisfaçam o disposto no artigo 65.º do Regulamento de Segurança de Subestações e Postos de Transformação e de Seccionamento deverão ser modificadas no prazo máximo de 5 anos, com vista a serem dotadas de protecções contra defeitos à terra ou à massa.
 
@@ -391,12 +405,12 @@ c) Por dispositivos de protecção integrados em aparelhos instalados na própri
 
 Mário Soares - Rui Manuel Parente Chancerelle de Machete - José Veiga Simão.
 
-**Promulgado em 20 de Agosto de 1985.**
+Promulgado em 20 de Agosto de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 22 de Agosto de 1985.**
+Referendado em 22 de Agosto de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

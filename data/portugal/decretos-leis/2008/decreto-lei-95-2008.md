@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/95/2008/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2008-449386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7dd1983a576f173e925bc8f62c0ed10c3988975ac7621f9f4ccb45a9dfed3d0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b36837c2eb8ae5fcaa6222710f04f558738b1174e11dff4876d96a1e9bceb6b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
-- Ponte 25 de Abril
-- LUSOPONTE
 - Definição de Competências
 - Domínio Público Ferroviário
-- Segurança Pública
+- Gestão Financeira
+- LUSOPONTE
+- Ponte 25 de Abril
 - Refer
+- Segurança Pública
 - Vistoria
 relationships:
 - type: amended_by
@@ -104,16 +104,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/25-b/2000/05/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/25-b/2000/05/13/p/dre
+- type: cites
+  target: pt:dre:232731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664878:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67348943:por
+  label: Revogado, a partir de 01.06.2015, com exceção do n.º 1 do art 1.º, no que respeita à criação da REFER, E. P. E.,
+    e do art 5.º, do Dec Lei 104/97, de 29-abr, na redação do presente diploma, pelo(a) Decreto-Lei n.º 91/2015 - Diário da
+    República n.º 104/2015, Série I de 2015-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-2015-67348943
+  date: '2015-05-29'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:45Z'
   warnings: []
   errors: []
 ---
@@ -306,12 +337,12 @@ Sem prejuízo do disposto no artigo 9.º, o presente decreto-lei entra em vigor 
 
 Visto e aprovado em Conselho de Ministros de 3 de Abril de 2008. - José Sócrates Carvalho Pinto de Sousa - Rui Carlos Pereira - Mário Lino Soares Correia.
 
-**Promulgado em 21 de Maio de 2008.**
+Promulgado em 21 de Maio de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Maio de 2008.**
+Referendado em 26 de Maio de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

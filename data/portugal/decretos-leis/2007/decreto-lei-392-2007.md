@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/392/2007/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f449711aeec151474070cdb128d92ab5c00c48771f7ff11e502a10cbf5662927
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7886f4526ba133318de3f13b3142cbf8a211ce66c81fd063a14f356f441cb7a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Certificado de Qualidade
 - Controlo de Qualidade
+- Equipamento de Veículo
 - Especificação Técnica
 - Homologação
-- Veículo
-- Certificado de Qualidade
-- Segurança Rodoviária
-- Equipamento de Veículo
 - Regulamento Relativo aos Vidros de Segurança e aos Materiais para Vidros dos Automóveis e seus Reboques
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:493687:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493687:por
+  label: "Alterado o art. 12.º do Regulamento aprovado pelo Dec Lei 40/2003, de 11-Mar, na redacção dada pelo presente diploma,\
+    \ pelo DEC LEI.193/2009.17.08.2009.MOPTC, DR.IS [158] de 17.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/193-2009-493687
+  date: '2009-08-17'
 - type: cites
   target: celex:31970L0156
   label: null
@@ -106,15 +112,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/40/2003/03/11/p/dre
 article_structure:
-  article_count: 43
+  article_count: 30
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:27Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +161,9 @@ O presente decreto-lei altera o Decreto-Lei n.º 40/2003, de 11 de Março, que a
 
 O presente capítulo aplica-se às películas plásticas coloridas não homologadas conjuntamente com os vidros e destinadas a serem aplicadas no lado interior de vidros homologados, em todas as janelas dos automóveis das categorias M(índice 1) e N(índice 1).
 
-###### Artigo 13.º — Definições
+Artigo 13.º
+
+Definições
 
 Para efeitos do disposto no presente capítulo, entende-se por:
 
@@ -185,7 +193,9 @@ d) 'Ensaio' a operação feita para comprovar as propriedades da película;
 
 e) 'Factor de transmissão' a razão entre o fluxo energético ou o fluxo luminoso transmitido e o fluxo incidente nas condições dadas.
 
-###### Artigo 14.º — Ensaios
+Artigo 14.º
+
+Ensaios
 
 1 - As películas fabricadas em Portugal devem ser ensaiadas em laboratório acreditado no âmbito do Sistema Português da Qualidade e nos termos do Regulamento n.º 43 da Comissão Económica das Nações Unidas para a Europa, na sua última redacção.
 
@@ -197,33 +207,45 @@ b) Cinco amostras com as características constantes do regulamento referido no 
 
 3 - São admitidas amostras de vidro especialmente fabricadas para o ensaio ou amostras de vidros que já existem no mercado.
 
-###### Artigo 15.º — Confidencialidade
+Artigo 15.º
+
+Confidencialidade
 
 Deve ser assegurada a confidencialidade das informações técnicas do processo de fabricação, bem como do seu sistema de adesão ao vidro, quando não sejam do domínio público.
 
-###### Artigo 16.º — Tipos de ensaios
+Artigo 16.º
+
+Tipos de ensaios
 
 1 - As amostras de vidro, com a película afixada do lado interior, devem ser submetidas ao ensaio de fragmentação e ao ensaio de resistência ao fogo, de acordo com o disposto no Regulamento n.º 43 da Comissão Económica das Nações Unidas para a Europa.
 
 2 - Deve ser realizado um ensaio de medição relativamente ao factor de transmissão entre os ensaios a efectuar nas amostras de vidros, de modo a poder ser determinado qual o grupo de categoria a que corresponde a marca de homologação nacional, nos termos do despacho a que se refere o artigo 21.º
 
-###### Artigo 17.º — Ensaio de fragmentação
+Artigo 17.º
+
+Ensaio de fragmentação
 
 1 - O ensaio de fragmentação deve ser efectuado em conformidade com o parágrafo 1 do anexo n.º 3 do Regulamento n.º 43 da Comissão Económica das Nações Unidas para a Europa e os critérios de aprovação e de reprovação devem ser os estabelecidos no n.º 2.6 do anexo n.º 5 do mesmo regulamento.
 
 2 - A fragmentação mencionada no número anterior não se aplica ao vidro laminado dotado de películas de plástico.
 
-###### Artigo 18.º — Ensaio de resistência ao fogo
+Artigo 18.º
+
+Ensaio de resistência ao fogo
 
 O ensaio de resistência ao fogo deve ser efectuado em conformidade com o disposto no n.º 10 do anexo n.º 3 do mesmo regulamento referido no número anterior.
 
-###### Artigo 19.º — Laboratórios
+Artigo 19.º
+
+Laboratórios
 
 1 - As películas podem ser ensaiadas em laboratórios acreditados por outro Estado membro, pela Turquia ou por um Estado subscritor do Acordo sobre o Espaço Económico Europeu.
 
 2 - São aceites os relatórios de ensaio emitidos por laboratórios acreditados por outro Estado membro, pela Turquia ou por um Estado subscritor do Acordo sobre o Espaço Económico Europeu, desde que os resultados e a natureza dos ensaios efectuados demonstrem que foi garantido um nível de protecção equivalente ao estabelecido no presente capítulo.
 
-###### Artigo 20.º — Homologação
+Artigo 20.º
+
+Homologação
 
 1 - Aos tipos de películas conformes com o presente capítulo é concedida a homologação nacional.
 
@@ -231,7 +253,9 @@ O ensaio de resistência ao fogo deve ser efectuado em conformidade com o dispos
 
 3 - Consideram-se como equivalentes à homologação nacional as homologações concedidas por outros Estados membros, válidas.
 
-###### Artigo 21.º — Marca de homologação
+Artigo 21.º
+
+Marca de homologação
 
 1 - As películas devem conter marca de homologação, a definir por despacho do presidente do Instituto da Mobilidade e dos Transportes Terrestres, I. P.
 
@@ -239,17 +263,23 @@ O ensaio de resistência ao fogo deve ser efectuado em conformidade com o dispos
 
 3 - As marcas de homologação concedidas por outros Estados membros constituem prova suficiente da homologação válida de um tipo de película noutro Estado membro, reconhecida como equivalente à homologação nacional.
 
-###### Artigo 22.º — Especificações de instalação
+Artigo 22.º
+
+Especificações de instalação
 
 1 - As películas não podem ser afixadas em vidros de veículos que estejam marcados como 'saída de emergência', ou qualquer outra marca de significado equivalente.
 
 2 - A afixação de película no vidro à retaguarda do veículo implica, para todos os veículos em utilização, a obrigatoriedade de instalação de dois espelhos retrovisores exteriores, um à esquerda e outro à direita do condutor, homologados nos termos do Regulamento Relativo à Homologação de Dispositivos para Visão Indirecta e de Veículos Equipados com Estes Dispositivos, aprovado pelo Decreto-Lei n.º 215/2004, de 25 de Agosto, com a última redacção conferida pelo Decreto-Lei n.º 191/2005, de 7 de Novembro.
 
-###### Artigo 23.º — Controlo das condições de visibilidade
+Artigo 23.º
+
+Controlo das condições de visibilidade
 
 As condições de visibilidade em que permanecem as películas devem ser objecto de comprovação nas inspecções técnicas periódicas, nomeadamente a verificação da existência de bolhas de ar ou o descolar da película do vidro, que comprometam as condições de visibilidade do condutor.
 
-###### Artigo 24.º — Factor de transmissão
+Artigo 24.º
+
+Factor de transmissão
 
 O factor de transmissão regular das amostras de vidro, com película colorida afixada do lado interior, medido de fora para dentro, não deve ser:
 
@@ -257,7 +287,9 @@ a) Inferior a 75 % para os pára-brisas;
 
 b) Inferior a 70 %, no caso de vidros não destinados a pára-brisas, à frente do pilar B.
 
-###### Artigo 25.º — Averbamento
+Artigo 25.º
+
+Averbamento
 
 1 - A afixação de películas nos vidros é considerada como uma transformação das características do veículo.
 
@@ -279,15 +311,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Outubro de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Ascenso Luís Seixas Simões - José Manuel Vieira Conde Rodrigues - Mário Lino Soares Correia.
 
-**Promulgado em 25 de Novembro de 2007.**
+Promulgado em 25 de Novembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de Novembro de 2007.**
+Referendado em 30 de Novembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação
 
@@ -929,7 +961,7 @@ Coordenadas do ponto «R» (A, B, C) em relação ao meio do bordo superior do p
 
 Descrição do parâmetro F do pára-brisas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/24900/0906409074.pdf))](https://files.diariodarepublica.pt/1s/2007/12/24900/0906409074.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/24900/0906409074.pdf)
 
 Adenda n.º 8 ao certificado de homologação CE n.º..., relativo à homologação CE de um tipo de vidro de plástico rígido no que diz respeito à Directiva n.º [92/22/CEE](http://data.europa.eu/eli/dir/1992/22/oj?locale=pt), alterada pela Directiva n.º [2001/92/CE](http://data.europa.eu/eli/dir/2001/92/oj?locale=pt).
 

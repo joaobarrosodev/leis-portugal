@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/146a00/38093819.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/194/2001/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2001-361949
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 770d52e455f5d5464f0f251c30d63985610b04842ae586274e9b1af350325d96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5afee98c16901014ef357c0ac911c524722d2bf380d88c33954b7a2bbcb60078
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,6 +78,12 @@ relationships:
   target: pt:dre:321520:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:276462:por
+  label: "Determinada a suspensão da vigência do presente diploma, pelo DEC LEI.203-A/2001.2001.07.21.MS DR.IS-A [168]SUPL\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-a-2001-276462
+  date: '2001-07-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/1993/01/15/p/dre
   label: null
@@ -106,16 +112,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668109:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:321520:por
+  label: "Revogado pelo DEC LEI.325-A/2003.29.12.2003.MS, DR.IS-A [299-Supl] de 29.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/325-a-2003-321520
+  date: '2003-12-29'
 article_structure:
   article_count: 65
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:50Z'
   warnings: []
   errors: []
 ---
@@ -192,15 +231,15 @@ d) O [Decreto-Lei n.º 282/97](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 Visto e aprovado em Conselho de Ministros de 12 de Abril de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Maria Manuela de Brito Arcanjo Marques da Costa - Alberto de Sousa Martins.
 
-**Promulgado em 7 de Junho de 2001.**
+Promulgado em 7 de Junho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Junho de 2001.**
+Referendado em 8 de Junho de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Estatuto do Instituto de Gestão Financeira da Saúde
 

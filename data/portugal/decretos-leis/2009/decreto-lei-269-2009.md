@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/269/2009/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-2009-491222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39e46aba4910b7cc8c975daa0987d04166cb8ebfd16e2ced2fd13552b18eb91e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04798d5f781040585ed3a00e98282a8795dde1eda0b2724fbbea21b1ca87d499
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação do Pessoal
 - Função Pública
+- Mobilidade de Pessoal
 - Oficial de Justiça
 - Prorrogação de Prazo
-- Mobilidade de Pessoal
-- Avaliação do Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
@@ -89,16 +89,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:30Z'
   warnings: []
   errors: []
 ---
@@ -153,12 +169,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Rui Carlos Pereira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Fernando Teixeira dos Santos - Luís Medeiros Vieira - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - Ana Maria Teodoro Jorge - Jorge Miguel de Melo Viana Pedreira - José Mariano Rebelo Pires Gago - José António de Melo Pinto Ribeiro.
 
-**Promulgado em 21 de Setembro de 2009.**
+Promulgado em 21 de Setembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de Setembro de 2009.**
+Referendado em 21 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

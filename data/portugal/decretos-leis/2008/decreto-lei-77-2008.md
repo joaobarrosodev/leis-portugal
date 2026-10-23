@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/77/2008/04/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2008-249571
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58620ad540eb7e0aaad5e4ec113028d5d8b0b5d4909eb5394f5569eb60e0c197
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56e6b375f9175693d0509f039b0fa7a41e8653ab59a43c651d8f098cd365e584
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
 - Contra-ordenação
-- Transporte Ferroviário
-- Segurança Pública
+- Multa
 - Passagem de Nível
 - Regulamento
 - Responsabilidade Civil
+- Segurança Pública
+- Transporte Ferroviário
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/24/2005/01/26/p/dre
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/568/1999/12/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/568/1999/12/23/p/dre
+- type: cites
+  target: pt:dre:624455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661084:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:27Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +141,9 @@ Os artigos 31.º e 32.º do Regulamento de Passagens de Nível, aprovado em anex
 
 4 - A aplicação das coimas previstas no presente diploma compete ao conselho directivo do IMTT.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Sem prejuízo da responsabilidade civil pelos danos eventualmente causados, são punidas as seguintes infracções:
 
@@ -157,12 +167,12 @@ O disposto no artigo anterior produz efeitos a partir do dia 23 de Janeiro de 20
 
 Visto e aprovado em Conselho de Ministros de 6 de Março de 2008. - José Sócrates Carvalho Pinto de Sousa - Rui Carlos Pereira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Mário Lino Soares Correia.
 
-**Promulgado em 3 de Abril de 2008.**
+Promulgado em 3 de Abril de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de Abril de 2008.**
+Referendado em 4 de Abril de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

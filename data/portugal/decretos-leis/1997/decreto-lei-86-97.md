@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/86/1997/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1997-469584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9def2c3d01a2383a5931e9afa3b9b02243ab478741e586f2c5e0241d9b53e61b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df664fedd230ff50bbc8caf76c68eb694812e17bbbbff909464d42839b1e1ed8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,23 @@ reuse:
 subjects:
 - Ensino Cooperativo
 - Ensino Particular
-- Instituto Superior de Estudos Interculturais e Transdisciplinares
+- Ensino Superior
 - Instituto Piaget
+- Instituto Superior de Estudos Interculturais e Transdisciplinares
 - Interesse Público
 - Mirandela
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:599703:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25694498:por
+  label: "Tornado público o encerramento voluntário do Instituto Superior de Estudos Interculturais e Transdisciplinares de\
+    \ Mirandela, reconhecido de interesse público pelo presente diploma, pelo AV.7211/2014.18.06.2014.DGES-MECI, DR.IIS [115]\
+    \ de 18.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/7211-2014-25694498
+  date: '2014-06-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -85,16 +92,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:08Z'
   warnings: []
   errors: []
 ---
@@ -145,12 +160,12 @@ O reconhecimento a que se refere o presente diploma produz efeitos a partir do a
 
 Visto e aprovado em Conselho de Ministros de 20 de Fevereiro de 1997. - António Manuel de Carvalho Ferreira Vitorino - Eduardo Carrega Marçal Grilo.
 
-**Promulgado em 4 de Abril de 1997.**
+Promulgado em 4 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Abril de 1997.**
+Referendado em 7 de Abril de 1997.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.

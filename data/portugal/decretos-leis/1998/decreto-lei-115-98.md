@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/115/1998/05/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1998-516029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd6d9e31e1ab122f7161d492a524fa6f1411bcaa5b862d682da269ebca27b7db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e20dcbbc69100e14c5f5250081d72c38dc402cf97bd0135c619d70967033849e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,52 +65,103 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Emprego e Formação Profissional
+- Caixa de Previdência
+- CASA PIA de Lisboa
 - Centro Nacional de Pensões
 - Centro Nacional de Protecção contra os Riscos Profissionais
-- Ministério do Trabalho e da Solidariedade
 - Centro Regional de Segurança Social de Lisboa e VALE do TEJO
-- Centro Regional de Segurança Social do Norte
 - Centro Regional de Segurança Social do Alentejo
 - Centro Regional de Segurança Social do Algarve
 - Centro Regional de Segurança Social do Centro
-- Pessoal Dirigente
-- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
-- Departamento de Relações Internacionais de Segurança Social
+- Centro Regional de Segurança Social do Norte
 - Conselho Nacional para a Economia Social
+- Conselho Nacional para a Política de Terceira Idade
 - Conselho Nacional para a Reabilitação e Integração das Pessoas com Deficiência
-- Instituto António Sérgio do Sector Cooperativo
 - Criação de Serviços
+- Departamento de Cooperação
+- Departamento de Estatística do Trabalho Emprego e Formação Profissional
+- Departamento de Estudos Prospectiva e Planeamento
+- Departamento de Relações Internacionais de Segurança Social
 - Departamento para os Assuntos do Fundo Social Europeu
+- Departamento para os Assuntos Europeus e Relações Internacionais
 - Direcção Geral da Acção Social
 - Direcção Geral das Condições de Trabalho
 - Direcção Geral do Emprego e Formação Profissional
 - Direcção Geral dos Regimes de Segurança Social
 - Extinção de Serviços
 - Fundo de Estabilização Financeira da Segurança Social
-- Secretaria Geral
-- Inspecção Geral
-- Instituto de Gestão Financeira da Segurança Social
-- CASA PIA de Lisboa
+- Inatel
 - Inofor
+- Inspecção Geral
+- Instituto António Sérgio do Sector Cooperativo
+- Instituto de Gestão Financeira da Segurança Social
+- Instituto de Informática e Estatística da Solidariedade
+- Instituto do Emprego e Formação Profissional
 - Instituto para o Desenvolvimento Social
 - Integração de Trabalhadores
-- Departamento de Cooperação
-- Departamento de Estatística do Trabalho Emprego e Formação Profissional
-- Departamento de Estudos Prospectiva e Planeamento
-- Departamento para os Assuntos Europeus e Relações Internacionais
-- Instituto de Informática e Estatística da Solidariedade
-- Caixa de Previdência
-- Conselho Nacional para a Política de Terceira Idade
+- Ministério do Trabalho e da Solidariedade
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Secretaria Geral
+- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
 - Serviços Sociais
-- Inatel
 relationships:
 - type: amended_by
   target: pt:dre:457199:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:374620:por
+  label: "Derrogada, em tudo o que o contrarie e, bem assim, no que respeita a contribuintes, a al d) do nº 2 do art. 31º\
+    \ pelo DEC LEI.260/99.1999.07.07.MTS,DR.IS-A 8156]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-1999-374620
+  date: '1999-07-07'
+- type: amended_by
+  target: pt:dre:428992:por
+  label: "Extinto o quadro de pessoal, quando se completar a integração do respectivo pessoal do departamento, aprovado pelo\
+    \ presente diploma, pelo DEC LEI.340/99.1999.08.25.MTS, DR.IS-A [198]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/340-1999-428992
+  date: '1999-08-25'
+- type: amended_by
+  target: pt:dre:474696:por
+  label: "Alterados os arts. 4º (criada a Direcção-Geral de Solidariedade e Segurança Social), 5º, 10º, 13º, 18º a 23º e 28º,\
+    \ aditados os arts. 30º-A, 36º-A (extingue as Direcções Gerais dos Regimes de Segurança Social e da Acção Social) e 37º-A\
+    \ (determinada a sucessão) e substituído o quadro de pessoal anexo (referido no art. 34º) pelo DEC LEI.45-A/2000.2000.03.22.MTS\
+    \ DR.IS-A [69]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-a-2000-474696
+  date: '2000-03-22'
+- type: amended_by
+  target: pt:dre:276467:por
+  label: "Transferidos a Comissão para a Igualdade no Trabalho e no Emprego e o Observatório para a Integração das Pessoas\
+    \ Portadoras de Deficiência para o MTS, cuja orgânica consta do presente diploma, pelo DEC LEI.267-A/2000.2000.10.20.PCM\
+    \ DR.IS-A [243]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-a-2000-276467
+  date: '2000-10-20'
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Alterada a orgânica pelo Dec Lei 120/2002 de 03-Mai, DR.IS-A [102], nos termos do seu art 23º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
+- type: amended_by
+  target: pt:dre:481161:por
+  label: "Extintos o Instituto para o Desenvolvimento Social, o Departamento de Estatística do Trabalho, Emprego e Formação\
+    \ Profissional, criados pelo presente diploma, pelo DEC LEI.2/2003.2003.01.06.MSST, DR.IS-A [34]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2003-481161
+  date: '2003-01-06'
+- type: amended_by
+  target: pt:dre:527834:por
+  label: "Extinto o Conselho Nacional para a Economia Social, criado pelo Dec Lei 35/96 de 02-Maio, cuja dependência transitou\
+    \ para o Ministro do Trabalho e da Solidariedade prevista na orgânica do MTS aprovada pelo presente diploma, pelo DEC\
+    \ LEI.171/2004.17.07.2004.MSST, DR.IS-A [167] de 17.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2004-527834
+  date: '2004-07-17'
+- type: amended_by
+  target: pt:dre:457199:por
+  label: "Mantido em vigor o art. 29.º, com as alterações introduzidas no Dec Lei 45-A/2000, de 22-Mar, pelo DEC LEI.5/2005.05.01.2005.MSSFC,\
+    \ DR.IS-A [3] de 05.01.2005, até à integração prevista no seu art. 33.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-2005-457199
+  date: '2005-01-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/115/1997/05/12/p/dre
   label: null
@@ -143,16 +194,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/128/1997/12/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/128/1997/12/23/p/dre
+- type: cites
+  target: pt:dre:186543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653150:por
+  label: null
+  source: null
 article_structure:
   article_count: 46
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:47Z'
   warnings: []
   errors: []
 ---
@@ -1033,13 +1124,13 @@ São revogados os Decretos-Leis n.os [35/96](https://diariodarepublica.pt/dr/det
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 17 de Abril de 1998.**
+Promulgado em 17 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Abril de 1998.**
+Referendado em 23 de Abril de 1998.
 
 Pelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional.
 

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23487-1968-272639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 711f9f49a3adab9bef6317cec1491c2f48159d1aa56f9e34ea93579359e0906e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83653379c6eb9f1a5a0c7c81676d05ba9adef632a3873ab3d4a29b182f7ec9fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:138563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469859:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:03Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +116,13 @@ Serviços de Administração Civil
 
 Despesas com o pessoal:
 
-###### Artigo 39.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 100000$00
+Artigo 39.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 100000$00
 
 Serviços de Saúde e Higiene
 
 Despesas com o pessoal:
 
-###### Artigo 120.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 100000$00
+Artigo 120.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 100000$00
 
 ... 200000$00
 
@@ -114,13 +134,13 @@ Serviços de Saúde e Assistência
 
 Despesas com o pessoal:
 
-###### Artigo 116.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 103989$80
+Artigo 116.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 103989$80
 
 Polícia de Segurança Pública
 
 Despesas com o pessoal:
 
-###### Artigo 134.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 46010$20
+Artigo 134.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 46010$20
 
 ... 150000$00
 
@@ -132,7 +152,7 @@ a) Um da importância de 9000000$00 destinado a reforçar, com as quantias que s
 
 ### CAPÍTULO 12.º — Despesa extraordinária
 
-###### Artigo 2093.º «Outras despesas extraordinárias»:
+Artigo 2093.º «Outras despesas extraordinárias»:
 
 N.º 2) «Diversos»:
 
@@ -148,7 +168,7 @@ b) Um da importância de 2500000$00, a inscrever em adicional à tabela de despe
 
 ### CAPÍTULO 12.º — Despesa extraordinária
 
-###### Artigo 2093.º «Outras despesas extraordinárias»:
+Artigo 2093.º «Outras despesas extraordinárias»:
 
 N.º 2) «Diversos»:
 

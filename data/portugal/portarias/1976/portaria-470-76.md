@@ -46,40 +46,115 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/470-1976-430837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T05:05:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29c2b345cb58c2f1baa780f161e4e28db4d8888902cae306664c13427d3c0868
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35a43c87fcb73b6f0232e78913f208ce770d6207459c6fdcd027e82841e83253
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:05:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alandroal
+- Arraiolos
+- Borba
+- Estremoz
+- Évora
+- Expropriação
+- Montemor-o-Novo
+- MORA
+- Prédio Rústico
+- Redondo
+- Reforma Agrária
+- Reguengos de Monsaraz
+- Vendas Novas
+- Viana do Alentejo
+- Vila Viçosa
 relationships:
 - type: amended_by
   target: pt:dre:388431:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:299991:por
+  label: Derrogada, relativamente à expropriação do prédio rústico denominado «Herdade da Ajuda Nova», concelho de Vendas
+    Novas, a presente Portaria, pelo(a) Portaria n.º 456/78 - Diário da República n.º 184/1978, Série I de 1978-08-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/456-1978-299991
+  date: '1978-08-11'
+- type: amended_by
+  target: pt:dre:393655:por
+  label: "Derrogada, no atinente ao prédio rústico \"Courelas do Monte Branco\", pela PORT.97/79.24.02.1979.MAP, DR.IS [47]\
+    \ de 24.02.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/97-1979-393655
+  date: '1979-02-24'
+- type: amended_by
+  target: pt:dre:463985:por
+  label: "Derrogado, na parte que respeita ao prédio rústico denominado \"Outeiro\" pela PORT.554/80.01.09.1980.MAP, DR.IS\
+    \ [201] de 01.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/554-1980-463985
+  date: '1980-09-01'
+- type: amended_by
+  target: pt:dre:462012:por
+  label: "Derrogada, na parte que respeita ao prédio rústico denominado \"Herdade de Bencafede\", pela PORT.825/80.14.10.1980.MAP,\
+    \ DR.IS [238] de 14.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/825-1980-462012
+  date: '1980-10-14'
+- type: amended_by
+  target: pt:dre:388431:por
+  label: "Derrogada pelo presente diploma no que se refere aos prédios rústicos \"Herdade das Pipas e \"Horta das Pipas\"\
+    \ pela PORT.246/81.07.03.1981.MAP, DR.IS [55] de 07.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/246-1981-388431
+  date: '1981-03-07'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DERROGADA EM PARTE PELA PORT 123/91IIS DE 08-ABR DR.IIS [93] DE 22/ABR/1991
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-04-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "DERROGADA EM PARTE PELA PORT 81/96IIS DE 08-JUL DR.IIS [165] DE 18/JUL/1996\0/JUL/1996"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-07-18'
+- type: cites
+  target: pt:dre:307380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427098:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:05:19Z'
   warnings: []
   errors: []
 ---

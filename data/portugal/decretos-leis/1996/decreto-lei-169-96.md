@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/169/1996/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1996-219475
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b33511beaeb827fffebf94646cc30b1f218fc0eb07f69ae2e00d255b28e179a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c206d74fc9108754d33851f5584b05d9330e8d69fb79b1804370723893690bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Diretor
 - Equiparação de Cargos
 - Instituto da Conservação da Natureza
 - Orgânica
 - Parque Nacional da Peneda-Gerês
+- Pessoal Dirigente
 - Presidente
 - Quadro de Pessoal
 - Subdirector Geral
@@ -81,6 +81,40 @@ relationships:
   target: pt:dre:239049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:685043:por
+  label: "Alterado o quadro de pessoal dirigente aprovado pelo Dec Lei 193/93 de 24-Mai, com a redacção conferida no presente\
+    \ diploma, pelo DR.46/97.17.11.1997.MAM, DR.IS-B [266] de 17.11.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/46-1997-685043
+  date: '1997-11-17'
+- type: amended_by
+  target: pt:dre:694207:por
+  label: "Aditado um lugar de presidente da comissão directiva, equiparado a director de serviços, ao quadro de pessoal aprovado\
+    \ em anexo ao Dec Lei 193/93 de 24-Mai, com a redacção conferida no presente diploma, pelo DR.49/97.20.11.1997.MAM, DR.IS-B\
+    \ [269] de 20.11.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/49-1997-694207
+  date: '1997-11-20'
+- type: amended_by
+  target: pt:dre:694208:por
+  label: "Aditado um lugar de presidente da comissão directiva, equiparado a director de serviços, ao quadro de pessoal dirigente\
+    \ aprovado em anexo ao Dec Lei 193/93 de 24-Mai, com a redacção conferida no presente diploma, pelo DR.50/97.20.11.1997.MAM,\
+    \ DR.IS-B [269] de 20.11.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/50-1997-694208
+  date: '1997-11-20'
+- type: amended_by
+  target: pt:dre:186280:por
+  label: "Aditado um lugar de presidente da comissão directiva (equiparado a director de serviços) no quadro de pessoal dirigente\
+    \ constante do Dec Lei 193/93 de 24-Mai, na redacção do presente diploma, pelo DR.30/98.1998.12.23.MAM DR.IS-B [295]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/30-1998-186280
+  date: '1998-12-23'
+- type: amended_by
+  target: pt:dre:239049:por
+  label: "Aditado um lugar de presidente da comissão directiva ao quadro de pessoal dirigente do ICN constante do anexo ao\
+    \ Dec Lei 193/93 de 24-Mai, na redacção do presente diploma, pelo DR.6/2005.21.06.2005.MAOTDR, DR.IS-B [139] de 21.07.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-2005-239049
+  date: '2005-06-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/187/1993/05/24/p/dre
   label: null
@@ -89,16 +123,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/193/1993/05/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/193/1993/05/24/p/dre
+- type: cites
+  target: pt:dre:283518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283521:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:42Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +171,7 @@ Os artigos 4.º e 11.º do [Decreto-Lei n.º 193/93](https://diariodarepublica.p
 
 3 - O presidente é, nas suas faltas e impedimentos, substituído por um dos vice-presidentes.
 
-###### Artigo 11.º
+Artigo 11.º
 
 1 - ...
 
@@ -143,16 +185,16 @@ O quadro de pessoal dirigente do Instituto publicado em anexo ao [Decreto-Lei n.
 
 Visto e aprovado em Conselho de Ministros de 8 de Agosto de 1996. - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - António Ricardo Rocha de Magalhães.
 
-**Promulgado em 30 de Agosto de 1996.**
+Promulgado em 30 de Agosto de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Setembro de 1996.**
+Referendado em 5 de Setembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/217a00/32383239.pdf))](https://files.diariodarepublica.pt/1s/1996/09/217a00/32383239.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/217a00/32383239.pdf)

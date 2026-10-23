@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/69/2012/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2012-553627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f68acd749e1d198a3af349804e7b17555a802c7273d91ba0b5e4dc5898f1716
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0482900391988784018aec53320a2999d0f27be7f2222eb9ee361230bb3d5c88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
-- Unidade de Acompanhamento
 - Comissão Paritária
 - Conselho Científico
 - Conselho de Orientação
-- Definição de Competências
 - Conselho Diretivo
+- Definição de Competências
+- Fiscal Único
 - Instituto Nacional de Investigação Agrária e Veterinária
 - Instituto Nacional de Recursos Biológicos
 - Orgânica
 - Presidente
+- Unidade de Acompanhamento
 - Vogal
 relationships:
 - type: amended_by
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a superintendência e tutela sobre o Instituto Nacional de Investigação
+    Agrária e Veterinária, I. P., com orgânica aprovada pelo presente diploma, seja exercida pela Ministra da Agricultura
+    pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a 30.03.2022, o exercício da superintendência e tutela pela Ministra da Agricultura e da
+    Alimentação, em coordenação com a Ministra da Ciência, Tecnologia e Ensino Superior no que respeita às matérias de investigação
+    e inovação relacionadas com a respetiva área, sobre o Instituto Nacional de Investigação Agrária e Veterinária, I. P.
+    (INIAV, I.P.) pelo(a) Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pelo Ministro da Agricultura e Pescas, em coordenação
+    com a Ministro da Educação, Ciência e Inovação, no que respeita às matérias de investigação e inovação relacionadas com
+    a respetiva área, a superintendência e tutela sobre o Instituto Nacional de Investigação Agrária e Veterinária, I. P.
+    pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja exercida pelo Ministro da Agricultura e Mar, em coordenação
+    com o Ministro da Educação, Ciência e Inovação, no que respeita às matérias de investigação e inovação relacionadas com
+    a respetiva área, a superintendência e tutela sobre o Instituto Nacional de Investigação Agrária e Veterinária, I. P.
+    pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República n.º 142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/1999/04/20/p/dre
   label: null
@@ -102,16 +133,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:226629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628851:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:50Z'
   warnings: []
   errors: []
 ---
@@ -248,9 +299,9 @@ e) Um representante da Fundação para a Ciência e Tecnologia.
 
 5 - Compete ao conselho científico:
 
-a) Pronunciar-se sobre as linhas gerais das atividades do INIAV, I. P., em particular as de investigação científica e de desenvolvimento tecnológico, tendo nomeadamente em conta a aplicação dos princípios consagrados na legislação relativa às instituições de IC&DT;
+a) Pronunciar-se sobre as linhas gerais das atividades do INIAV, I. P., em particular as de investigação científica e de desenvolvimento tecnológico, tendo nomeadamente em conta a aplicação dos princípios consagrados na legislação relativa às instituições de IC&DT
 
-b) Emitir parecer sobre o orçamento, planos e relatórios anuais ou plurianuais de atividades do INIAV, I. P., nomeadamente no que respeita às atividades de IC&DT;
+b) Emitir parecer sobre o orçamento, planos e relatórios anuais ou plurianuais de atividades do INIAV, I. P., nomeadamente no que respeita às atividades de IC&DT
 
 c) Emitir parecer sobre a revisão dos regulamentos relacionados com o seu âmbito da sua atividade;
 
@@ -374,12 +425,12 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 2 de fevereiro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 9 de março de 2012.**
+Promulgado em 9 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de março de 2012.**
+Referendado em 13 de março de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

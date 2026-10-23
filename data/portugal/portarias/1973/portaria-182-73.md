@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/03/06100/04070408.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/182-1973-684230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T04:00:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a79d93e3f54e0f11eb2ea99ba928d3996f8823e629da2cc4adffda7afa06471
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1af8aaafd1a044d3936c5d7d0582b32272bd86b904cda1283da051c2e032839
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:00:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,30 @@ relationships:
   target: pt:dre:335714:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:684673:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:674865:por
+  label: Rectificado o n.º 2 pela DECL.DD9705.27.03.1973.PC, DG.IS [73] de 27.03.1973
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1973-674865
+  date: '1973-03-27'
+- type: repealed_by
+  target: pt:dre:335714:por
+  label: "Revogada pela PORT.372/75.17.06.1975.MTC, DG.IS [137] de 17.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/372-1975-335714
+  date: '1975-06-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:00:37Z'
   warnings: []
   errors: []
 ---

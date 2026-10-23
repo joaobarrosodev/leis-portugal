@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16300/15501552.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/420-1976-430433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T05:04:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbf5a32abbbf681eb8c8aac38646e94ce80c229a90d4d0e3b558a5eced67af0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb905bc5a7e17637e1ae389f3fd81540fbe9b71bc5062ef013197d49620b5f57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:04:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Contribuições e Impostos
+- Técnico de Contas
 relationships:
 - type: amended_by
   target: pt:dre:668706:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:429642:por
+  label: "Rectificada pela DECL.DD8239.11.08.1976.PCM, DR.IS [187] de 11.08.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-429642
+  date: '1976-08-11'
+- type: amended_by
+  target: pt:dre:380495:por
+  label: "Altera o nº 2, pela PORT.317/79.1979.07.05.MFP, DR.IS [153]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/317-1979-380495
+  date: '1979-07-05'
+- type: amended_by
+  target: pt:dre:660885:por
+  label: "Alterados os nºs 2, 4, 5, 6, 7 e 9, pela PORT.59/84.1984.01.27.MFP, DR.IS [23]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/59-1984-660885
+  date: '1984-01-27'
+- type: amended_by
+  target: pt:dre:386015:por
+  label: "Alteradas as als. b) e c) do nº 1 do nº 9, pela PORT.455/84.1984.07.14.MFP, DR.IS [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/455-1984-386015
+  date: '1984-07-14'
+- type: amended_by
+  target: pt:dre:228472:por
+  label: "Alterados os nºs 2, 3, 4, 7, 8, 9, 10 e 16, (na redacção constante da Port 317/79 de 05-Jul, 59/84 de 27-Jan e 455/84\
+    \ de 14-Jul) e revogada a al. c) do nº 1, pela PORT.319/86.1986.06.25.MF, DR.IS [143]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/319-1986-228472
+  date: '1986-06-25'
+- type: cites
+  target: pt:dre:146750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303111:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:668706:por
+  label: "Revogada pelo DEC LEI.265/95.1995.10.17.MF, DR.IS-A [240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-1995-668706
+  date: '1995-10-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:04:13Z'
   warnings: []
   errors: []
 ---

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29400/27372737.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/765-1978-325353
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T05:49:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e08ab0542bb300c5c8f53ee47395da57c65f65444543a93364fc64be40a683c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fa7575f9cb85d311817f6a015a6778592433debff178db2efdb10d3c33dd331
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:49:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Médica
+- Avaliação de Conhecimentos
+- Medicamento
+- Odontologista
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ADITADA UMA ALÍNEA F) DO NUMERO 2 PELA PORTARIA 793/91, PUBLICADA NO DR.IS-B, 217, DE 910920..\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:656092:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:376071:por
+  label: "Alterada a al. g) do art. 1º, pela PORT.984/82.1982.10.19.MAS, DR.IS [242]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/984-1982-376071
+  date: '1982-10-19'
+- type: amended_by
+  target: pt:dre:335406:por
+  label: "Alterado o ponto 2º pela PORT.72/90.29.01.1990.MS, DR.IS [24] de 29.01.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/72-1990-335406
+  date: '1990-01-29'
+- type: cites
+  target: pt:dre:325947:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:565040:por
+  label: "Revogada a al. g) do nº 1, pela PORT.782/81.1981.09.10.MAS, DR.IS [208]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/782-1981-565040
+  date: '1981-09-10'
+- type: repealed_by
+  target: pt:dre:656092:por
+  label: "Revogada pela LEI.40/2003.2003.08.22.AR, DR.IS-A [193]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/40-2003-656092
+  date: '2003-08-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:49:21Z'
   warnings: []
   errors: []
 ---

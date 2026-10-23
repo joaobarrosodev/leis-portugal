@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/47/2024/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2024-872180333
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecfb7b1627b2a3302a276b5c5614e6fde2e1566feed231b457a1147696cd7f8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f63ab5ce7d115a44361f7e1fb7054e79a98d095af2b6a80f2a3c78477dbfac0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código dos Impostos Especiais de Consumo
-- Imposto sobre Produtos Petrolíferos
-- Produto Petrolífero
 - Combustível
 - FMI
 - Gasóleo
+- Imposto sobre Produtos Petrolíferos
+- Produto Petrolífero
 - Prorrogação de Prazo
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:43-A/2022
+  label: Prorroga, a partir de 18 de julho de 2024, nos termos do art. 2.º do presente diploma, a vigência do mecanismo do
+    gasóleo profissional extraordinário previsto no Decreto-Lei n.º 43-A/2022, de 6 de julho, Diário da República n.º 129/2022,
+    1º Suplemento, Série I, para os abastecimentos elegíveis ocorram entre 1 de julho e 31 de dezembro de 2024.
+  source: null
+  date: '2022-07-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/131/2023/12/27/p/dre
   label: null
@@ -86,16 +93,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/73/2010/06/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/73/2010/06/21/p/dre
+- type: cites
+  target: pt:dre:185780383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835712410:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:31Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +127,7 @@ No quadro das medidas de mitigação do aumento do preço dos combustíveis, o G
 
 O mecanismo em questão, designado por "gasóleo profissional extraordinário", foi criado, com caráter temporário, pelo [Decreto-Lei n.º 43-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2022-185780383), de 6 de julho, tendo sido objeto de prorrogação, até 30 de junho de 2024, nos termos do [Decreto-Lei n.º 131/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2023-835712410), de 27 de dezembro.
 
-Por se manterem, em parte, as razões justificativas da medida em apreço, a prorrogação que o presente diploma estabelece visa atender às condições específicas deste setor transportador, contemplando os abastecimentos elegíveis que ocorram entre 1 de julho e 31 de dezembro de 2024. Neste sentido, os operadores económicos continuarão a beneficiar, até 31 de agosto de 2024, da devolução extraordinária dos montantes que se encontravam previstos no artigo 2.º do [Decreto-Lei n.º 131/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2023-835712410), de 27 de dezembro, beneficiando ainda, entre 1 de setembro e 31 de dezembro, do reembolso previsto nos n.<sup>os</sup>1 e 2 do artigo 93.º-A do Código dos Impostos Especiais de Consumo, até ao limite máximo de 50 000 litros anuais por viatura.
+Por se manterem, em parte, as razões justificativas da medida em apreço, a prorrogação que o presente diploma estabelece visa atender às condições específicas deste setor transportador, contemplando os abastecimentos elegíveis que ocorram entre 1 de julho e 31 de dezembro de 2024. Neste sentido, os operadores económicos continuarão a beneficiar, até 31 de agosto de 2024, da devolução extraordinária dos montantes que se encontravam previstos no artigo 2.º do [Decreto-Lei n.º 131/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2023-835712410), de 27 de dezembro, beneficiando ainda, entre 1 de setembro e 31 de dezembro, do reembolso previsto nos n.os1 e 2 do artigo 93.º-A do Código dos Impostos Especiais de Consumo, até ao limite máximo de 50 000 litros anuais por viatura.
 
 A presente prorrogação assegura, por conseguinte, a gradual redução deste benefício fiscal, em linha com as recomendações do Fundo Monetário Internacional, garantindo ainda a prossecução pelo Estado Português dos objetivos ambientais assumidos no âmbito da União Europeia.
 
@@ -136,7 +155,7 @@ b) 45 % do montante consignado ao serviço rodoviário nacional, integrado nas t
 
 1 - O disposto no n.º 1 do artigo anterior é aplicável até 31 de agosto de 2024.
 
-2 - Para os abastecimentos elegíveis que ocorram entre 1 de setembro e 31 de dezembro de 2024, o montante de reembolso é o previsto nos n.<sup>os</sup>1 e 2 do artigo 93.º-A do CIEC, nos termos da portaria a que se refere o n.º 4 do mesmo artigo.
+2 - Para os abastecimentos elegíveis que ocorram entre 1 de setembro e 31 de dezembro de 2024, o montante de reembolso é o previsto nos n.os1 e 2 do artigo 93.º-A do CIEC, nos termos da portaria a que se refere o n.º 4 do mesmo artigo.
 
 ###### Artigo 4.º — Entrada em vigor e produção de efeitos
 
@@ -146,12 +165,14 @@ b) 45 % do montante consignado ao serviço rodoviário nacional, integrado nas t
 
 Visto e aprovado em Conselho de Ministros de 4 de julho de 2024. - Luís Montenegro - Joaquim José Miranda Sarmento.
 
-**Promulgado em 8 de julho de 2024.**
+Promulgado em 8 de julho de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de julho de 2024.**
+Referendado em 9 de julho de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+117906382

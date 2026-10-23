@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/158/1996/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1996-241227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84306bec0796b46694fabefeccfdf2a3340e3c6fd57381d9a89ade149ebab23b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db7dd8ddeda575f69c2443b4f5c5668c0af0e303f01a291bbbd2face6fa93601
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,103 +66,103 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ADSE
-- Reestruturação de Serviços
 - Auditoria Financeira
+- Auditoria Jurídica
 - Autonomia Administrativa
 - Autonomia Financeira
-- Modernização Administrativa
+- Caixa Geral de Aposentações
 - Caixa Geral de Depósitos
-- Inspeção Geral de Finanças
-- Pessoal Dirigente
-- Política Fiscal
+- CMVM
 - Comissão de Fiscalização
 - Comissão de Instalação e de Inscrição da Associação de Técnicos de Contas
 - Comissão de Normalização Contabilística
-- Gestão Financeira
 - Comissão para a Reorganização dos Serviços Aduaneiros
 - Comissão para o Desenvolvimento da Reforma Fiscal
-- Direcção Geral do Tesouro
+- Conselho de Directores Gerais
+- Conselho de Garantias Financeiras
 - Conselho Nacional do Mercado de Valores Mobiliários
 - Conselho Superior de Finanças
 - Conta Geral do Estado
+- Contribuições e Impostos
 - Controlo Aduaneiro
 - Controlo Financeiro
 - Controlo Orçamental
 - Criação de Lugares
 - Criação de Serviços
 - Defensor do Contribuinte
+- Direção Geral do Orçamento
 - Direcção Geral da Contabilidade Pública
 - Direcção Geral da Junta do Crédito Público
 - Direcção Geral das Alfândegas
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Direcção Geral das Contribuições e Impostos
 - Direcção Geral de Administração e Orçamento
 - Direcção Geral de Assuntos Europeus e Relações Internacionais
+- Direcção Geral de Estudos e Previsão
 - Direcção Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros
 - Direcção Geral do Património
 - Direcção Geral do Património do Estado
-- Instituto de Gestão do Crédito Público
+- Direcção Geral do Tesouro
 - Direcção Geral dos Impostos
-- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
 - Dívida Pública
 - Empresa Pública
 - Equivalência de Categorias
 - Extinção de Serviços
 - Finanças Públicas
-- Caixa Geral de Aposentações
 - Fiscalização
 - Fraude Fiscal
-- Setor Empresarial do Estado
 - Fundação Ricardo Espírito Santo Silva
 - Fundo de Estabilização Aduaneiro
 - Fundo de Regularização da Dívida Pública
 - Fundo para a Cooperação Económica
+- Gabinete de Estudos Económicos
 - Gabinete dos Assuntos Europeus
 - Gabinete para a Análise do Financiamento do Estado e das Empresas Públicas
+- Gestão de Recursos Humanos
 - Gestão do Património
+- Gestão Financeira
 - Gestão Pública
-- Ministério das Finanças
 - Grupo de Trabalho Interministerial
-- Instituto de Gestão e Alienação do Património Habitacional do Estado
-- Contribuições e Impostos
-- Instituto Nacional de Habitação
+- IAPMEI
+- Ifadap
+- Inspeção Geral de Finanças
 - Inspecção Administrativo-financeira
 - Instalação de Serviços
-- Junta de Crédito Público
+- Instituto de Gestão do Crédito Público
+- Instituto de Gestão e Alienação do Património Habitacional do Estado
 - Instituto de Informática
 - Instituto de Seguros de Portugal
 - Instituto Nacional de Garantia Agrícola
+- Instituto Nacional de Habitação
 - Instituto Português de Santo António
 - Instituto Ultramarino
 - Integração de Serviços
-- Tribunal de Contas
-- Auditoria Jurídica
-- Conselho de Garantias Financeiras
-- Direcção Geral de Estudos e Previsão
-- Direção Geral do Orçamento
-- Gabinete de Estudos Económicos
-- Conselho de Directores Gerais
+- Junta de Crédito Público
+- Ministério das Finanças
+- Mobilidade de Pessoal
+- Modernização Administrativa
 - Orgânica
 - Património do Estado
+- Pessoal Dirigente
 - Plano Oficial de Contabilidade
 - Política de Crédito
 - Política Económica
 - Política Financeira
+- Política Fiscal
 - Política Orçamental
+- Proteção Social
 - Provedor de Justiça
 - Quadro de Pessoal
-- Proteção Social
+- Reestruturação de Serviços
 - Regime de Pessoal
-- Ifadap
-- Mobilidade de Pessoal
 - Segurança Social
 - Serviço de Informática
-- Direcção Geral das Contribuições e Impostos
 - Serviços Sociais
-- Gestão de Recursos Humanos
-- IAPMEI
-- CMVM
+- Setor Empresarial do Estado
 - Tesouraria da Fazenda Pública
 - Transferência de Serviços
 - Transferência de Verbas
+- Tribunal de Contas
 - Tribunal Tributário
 - Unidade de Coordenação da LUTA contra a Evasão e Fraude Fiscal e Aduaneira
 relationships:
@@ -170,6 +170,59 @@ relationships:
   target: pt:dre:108113698:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:383444:por
+  label: "Alterado o art 24º pelo Dec Lei 107/97.1997.05.08.MF, DR.IS-A [106] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-1997-383444
+  date: '1997-05-08'
+- type: amended_by
+  target: pt:dre:202778:por
+  label: "Alterado o art 33º pelo Dec Lei 207/97.1997.08.13.MF, DR.IS-A [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-1997-202778
+  date: '1997-08-13'
+- type: amended_by
+  target: pt:dre:229486:por
+  label: "Alterado o art. 33º do presente diploma, pelo DEC LEI.28/98.1998.02.11.MF DR.IS-A [35]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-1998-229486
+  date: '1998-02-11'
+- type: amended_by
+  target: pt:dre:180473:por
+  label: "Alterados os arts. 6.º, 8.º, 10.º, 26.º, e 27.º, a epígrafe da Subsecção III da Secção III do cap. II; aditado o\
+    \ art. 6.º-A; revogado a al. c) do art. 4.º pelo presente diploma, DEC LEI.21/99.1999.01.28.MF DR.IS-A [23]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-1999-180473
+  date: '1999-01-28'
+- type: amended_by
+  target: pt:dre:603511:por
+  label: "Alterado o art. 10º, com a redacção introduzida pelo Dec Lei 21/99 de 28-Jan, pelo DEC LEI.289/2001.2001.11.13.MF\
+    \ DR.IS-A [263]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-2001-603511
+  date: '2001-11-13'
+- type: amended_by
+  target: pt:dre:576276:por
+  label: "Alterado o art. 19º pelo DEC LEI.315/2001.2001.12.10.MECO DR.IS-A [284]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/315-2001-576276
+  date: '2001-12-10'
+- type: amended_by
+  target: pt:dre:432175:por
+  label: "Revertidos para dotação provisional do Ministério das Finanças, cuja orgânica foi aprovada pelo presente diploma,\
+    \ os saldos apurados do IIAE, pelo DEC LEI.215/2002.22.10.2002.MF, DR.IS-A [244] de 22.10.2002, nos termos do art. 9.º\
+    \ do citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2002-432175
+  date: '2002-10-22'
+- type: amended_by
+  target: pt:dre:306915:por
+  label: "Alterada a epigrafe da subsecção III da Secção III do Cap II e revogados os arts 27º e 6ºA pelo DEC LEI.320-A/2002.2002.12.30.MF,\
+    \ DR.IS-A [301}5ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-a-2002-306915
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Alterada a orgânica pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004, nos termos dos seus\
+    \ arts 13º e 17º, e determinada a transição para o Ministério das Finanças e da Administração Pública dos serviços e organismos\
+    \ compreendidos no agora extinto Ministério das Finanças, com excepção do Departamento de Prospectiva e Planeamento que\
+    \ transita para o Ministério das Cidades, Administração Local, Habitação e Desenvolvimento Regional \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/324/1993/09/25/p/dre
   label: null
@@ -182,16 +235,105 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/1994/04/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1994/04/19/p/dre
+- type: cites
+  target: pt:dre:218908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662372:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:147848:por
+  label: "Rectificado pela DECL-RECT.14-C/96.1996.09.23.PCM DR.IS-A [227]3ºSupl de 30.09.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/14-c-1996-147848
+  date: '1996-09-23'
+- type: corrected_by
+  target: pt:dre:276193:por
+  label: "Rectificado pela DECL-RECT.16-Q/96.1996.12.27.PCM, DR.IS-A [302]4Supl de 1996.12.31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-q-1996-276193
+  date: '1996-12-27'
+- type: repealed_by
+  target: pt:dre:608072:por
+  label: "Revogado, na redacção do Decreto-Lei n.º 107/97, de 8 de Maio, do Decreto-Lei n.º 207/97, de 13 de Agosto, do Decreto-Lei\
+    \ n.º 28/98, de 11 de Fevereiro, do Decreto-Lei n.º 21/99, de 28 de Janeiro, do Decreto-Lei n.º 289/2001, de 13 de Novembro,\
+    \ e do Decreto-Lei n.º 315/2001, de 10 de Dezembro, pelo DEC LEI.47/2005.24.02.2005.MFAP, DR.IS-A [39] de 24.02.2005,\
+    \ nos termos do seu art. 35.º e 38.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-2005-608072
+  date: '2005-02-24'
+- type: repealed_by
+  target: pt:dre:108113698:por
+  label: Revogado o art. 5.º do Dec Lei 274/90 de 07-set e determinada a fusão do Fundo de Estabilização Aduaneiro criado
+    pelo citado Dec Lei 274/90 no Fundo de Estabilização Tributário, criado pelo presente diploma, pelo(a) Decreto-Lei n.º
+    113/2017 - Diário da República n.º 173/2017, Série I de 2017-09-07 nos termos dos seus arts. 2.º, 5.º e 6.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-2017-108113698
+  date: '2017-09-07'
 article_structure:
   article_count: 56
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:32Z'
   warnings: []
   errors: []
 ---
@@ -1068,15 +1210,15 @@ No que diz respeito ao Instituto de Gestão do Crédito Público, o presente dip
 
 Visto e aprovado em Conselho de Ministros de 18 de Julho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 10 de Agosto de 1996.**
+Promulgado em 10 de Agosto de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Agosto de 1996.**
+Referendado em 14 de Agosto de 1996.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.
 
 ## ANEXO — Mapa a que se refere o artigo 35.º
 

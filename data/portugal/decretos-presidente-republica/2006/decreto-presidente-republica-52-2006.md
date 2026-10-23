@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/52/2006/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/52-2006-661922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T04:55:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99671f8af2d2e3495eb98b0d71e64bb0b267ce6dccbf0d3b5247801c8ce447d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7357c7dba376cffc8dc6e015236cd77b9de3a91eabc2387c85c88246f8c0b6e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:55:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,45 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bolívia
 - CE Países
 - Colômbia
-- Equador
-- PERU
-- Venezuela
+- Comunidade Andina
 - Convenção
 - Cooperação Aduaneira
-- Cooperação Comercial
-- Cooperação Diplomática
-- Cooperação Financeira
-- Cooperação Jurídica
-- Cooperação Técnica
-- Portugal
-- União Europeia
-- Bolívia
-- Comunidade Andina
 - Cooperação Agrícola
 - Cooperação Científica
+- Cooperação Comercial
 - Cooperação Cultural
+- Cooperação Diplomática
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Industrial
 - Cooperação Judiciária
+- Cooperação Jurídica
 - Cooperação Política
+- Cooperação Técnica
+- Equador
+- PERU
+- Portugal
 - Roma
+- União Europeia
+- Venezuela
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/39/2006/04/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/39/2006/04/28/p/dre
+- type: cites
+  target: pt:dre:661920:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:55:25Z'
   warnings: []
   errors: []
 ---
@@ -113,16 +117,16 @@ validation:
 
 de 28 de Abril
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo de Diálogo Político e Cooperação entre a Comunidade Europeia e os Seus Estados Membros, por um lado, e a Comunidade Andina e os Seus Países Membros, Repúblicas da Bolívia, Colômbia, Equador, Peru e Venezuela, por outro, incluindo as declarações, assinado em Roma em 15 de Dezembro de 2003, aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 39/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/39-2006-661920), em 8 de Março de 2006.
 
-**Assinado em 6 de Abril de 2006.**
+Assinado em 6 de Abril de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 19 de Abril de 2006.**
+Referendado em 19 de Abril de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

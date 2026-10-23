@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/23/1997/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1997-581222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:51:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6662e81719e6cf93c9b1567e7293ebca787fd0e5829f84b533a04da3d9ace630
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45000452f291ed25cd0cbae8383bda4702c55496946d7180951d63f5fae4cc00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:51:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,20 @@ subjects:
 - Código do IRC
 - Código do IRS
 - Código do IVA
-- Política Fiscal
+- Comissão
 - Contribuinte
 - Direcção Geral dos Impostos
 - Direito Fiscal
 - Direito Probatório
 - Documento Autentico
-- Comissão
 - Fazenda Pública
+- Informatização
+- IRC
 - IRS
 - IVA
-- Informatização
 - JURO de MORA
 - Juros
-- IRC
+- Política Fiscal
 - Regime Fiscal
 - Regulamento do Imposto do SELO
 - Responsabilidade Civil
@@ -97,6 +97,124 @@ relationships:
   target: pt:dre:571007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:682986:por
+  label: Alterada a redacção do art. 68.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente
+    diploma, pelo DEC LEI.472/99.08.11.1999.MF, DR.IS-A [260] de 08.11.1999
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/472-1999-682986
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Alterados os arts. 68.º e 70.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente\
+    \ diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.109-B/2001.27.12.2001.AR, DR.IS-A [298-2ºSupl]\
+    \ de 27.12.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Alterados os arts. 68.º e 70.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente\
+    \ diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.32-B/2002.30.12.2002.AR, DR.IS-A [301-2ºSupl]\
+    \ de 30.12.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:239796:por
+  label: "Alterado o art. 91º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.80/2003.23.04.2003.MF, DR.IS-A [95] de 23.04.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2003-239796
+  date: '2003-04-23'
+- type: amended_by
+  target: pt:dre:669556:por
+  label: "Alterados os arts. 68.º e 70.º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente\
+    \ diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.107-B/2003.31.12.2003.AR, DR.IS-A [301-2ºSupl]\
+    \ de 31.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/107-b-2003-669556
+  date: '2003-12-31'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterados os arts. 68.º e 70.º do Código dos IRS aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente\
+    \ diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl]\
+    \ de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterados os arts. 68º e 70º do Código do IRS aprovado pelo Dec Lei 442-A/88 de 30-Nov, com a redacção dada pelo\
+    \ presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A\
+    \ [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterados os arts. 68º e 70º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, revisto e republicado pelo\
+    \ Dec Lei 198/2001 de 03-Jul, alterado pelo presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterados os arts 68.º e 70.º do Código do IRS aprovado pelo Dec Lei 442-A/88 de 30-Nov, revisto e republicado pelo\
+    \ Dec Lei 198/2001 de 03-Jul, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:449902:por
+  label: "Alterados os art.s 84º e 90º do Dec Lei 394-B/94, de 26-Dez, na redacção do presente diploma, pelo DEC LEI.102/2008.20.06.2008.MFAP,\
+    \ DR.IS [118] de 20.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2008-449902
+  date: '2008-06-20'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterados os arts. 68.º e 70.º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente\
+    \ diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de\
+    \ 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterados os arts. 68.º e 70.º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente\
+    \ diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de\
+    \ 28.04.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:335437:por
+  label: "Alterado o art. 68º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.11/2010.15.06.2010.AR, DR.IS [114] de 15.06.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/11-2010-335437
+  date: '2010-06-15'
+- type: amended_by
+  target: pt:dre:292110:por
+  label: "Alterado o art. 68º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.12-A/2010.30.06.2010.AR, DR.IS [125-Supl] de 30.06.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2010-292110
+  date: '2010-06-30'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterado o art. 68º do Código do Imposto sobre o Rendimentos das Pessoas Singulares, aprovado pelo Dec Lei 442-A/88,\
+    \ de 30-Nov, na redacção do presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.55-A/2010.31.12.2010.AR,\
+    \ DR.IS [253-Supl] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterados os art.s 67º e 70º do Código do IRS, na redacção do presente diploma, pela LEI.64-B/2011.30.12.2011.AR,\
+    \ DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação ao art. 68º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-nov, alterado pelo presente\
+    \ diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:571007:por
+  label: Dada nova redação aos arts. 54.º e 91.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-nov, alterado pelo
+    presente diploma, pela LEI.2/2014.16.01.2014.AR, DR.IS [11] de 16.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/154/1991/04/23/p/dre
   label: null
@@ -113,16 +231,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631203:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:574702:por
+  label: "Rectificado pela DECL-RECT.5-B/97.1997.02.25.PCM, DR.IS-A [50]2ºsupl de 1997.02.28\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/5-b-1997-574702
+  date: '1997-02-25'
+- type: repealed_by
+  target: pt:dre:191558:por
+  label: "Revogados os arts. 5º, 14º-A, 85º, 86º, 87º, 88º e nº 2 do 91º do Código de Processo Tributário aprovado pelo Dec\
+    \ Lei 154/91 de 23-Abr, na redacção do presente diploma, pelo DEC LEI.398/98.1998.12.17.MF, DR.IS-A [290] (sem prejuízo\
+    \ do disposto no nº 2 do art. 3º)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/398-1998-191558
+  date: '1998-12-17'
 article_structure:
-  article_count: 18
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:51:36Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +313,9 @@ Responsabilidade de gestores de bens ou direitos de não residentes
 
 3 - Verificando-se as circunstâncias previstas no presente artigo, deve o representante fiscal do não residente, quando pessoa diferente do gestor dos bens ou direitos, obter a identificação deste e apresentá-la à administração fiscal sempre que solicitado.
 
-###### Artigo 25.º — Direito à redução das coimas
+Artigo 25.º
+
+Direito à redução das coimas
 
 1 - ...
 
@@ -177,13 +337,17 @@ c) ...
 
 7 - (Actual n.º 6.)
 
-###### Artigo 27.º — Coima dependente de imposto em falta
+Artigo 27.º
+
+Coima dependente de imposto em falta
 
 1 - Sempre que a coima variar em função do imposto, será considerado montante mínimo, para efeitos das alíneas a) e b) do n.º 1 do artigo 25.º, 5% ou 10% do imposto devido, conforme a infracção tiver sido praticada, respectivamente, com negligência ou dolo, não podendo ultrapassar a coima o montante mínimo cominado na lei.
 
 2 - No caso referido no número anterior e se o infractor for pessoa colectiva, os limites nele referidos elevam-se para o dobro.
 
-###### Artigo 66.º — Perfeição das notificações
+Artigo 66.º
+
+Perfeição das notificações
 
 1 - As notificações efectuadas nos termos do n.º 2 do artigo anterior presumem-se feitas no 3.º dia posterior ao do registo ou no 1.º dia útil seguinte a esse, caso esse dia não seja dia útil.
 
@@ -191,7 +355,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 85.º — Composição da comissão de revisão
+Artigo 85.º
+
+Composição da comissão de revisão
 
 1 - A comissão de revisão será constituída por um presidente, delegado da Fazenda Pública, e dois vogais, um dos quais será igualmente delegado da Fazenda Pública e o outro nomeado pelo contribuinte.
 
@@ -201,7 +367,9 @@ c) ...
 
 4 - (Anterior n.º 5.)
 
-###### Artigo 86.º — Nomeação de delegados e indicação de peritos
+Artigo 86.º
+
+Nomeação de delegados e indicação de peritos
 
 1 - Os delegados da Fazenda Pública às comissões de revisão constarão de listas constituídas no âmbito distrital, do concelho ou do bairro fiscal, a aprovar pelo Ministro das Finanças até 15 de Dezembro do ano anterior àquele para o qual a comissão vai ser constituída.
 
@@ -219,7 +387,9 @@ c) ...
 
 8 - No caso referido no número anterior, o presidente convocará nova reunião para o 5.º dia subsequente, advertindo o vogal do contribuinte de que a mesma terá lugar ainda que este não compareça e de que deverá justificar a falta à primeira reunião.
 
-###### Artigo 87.º — Decisão da reclamação
+Artigo 87.º
+
+Decisão da reclamação
 
 1 - O presidente da comissão procurará o estabelecimento de um acordo entre os vogais da comissão e, quando não seja possível, cada um dos vogais lavrará um laudo sucintamente fundamentado.
 
@@ -229,7 +399,9 @@ c) ...
 
 4 - Compete sempre ao director distrital e ao chefe da repartição de finanças confirmar a legalidade do acordo ou da decisão a que se refere o presente artigo, no prazo de oito dias.
 
-###### Artigo 91.º — Interposição do recurso hierárquico
+Artigo 91.º
+
+Interposição do recurso hierárquico
 
 1 - Os recursos hierárquicos são dirigidos ao mais elevado superior hierárquico do autor do acto e interpostos no prazo de 30 dias a contar da notificação do acto respectivo perante o órgão recorrido, devendo subir acompanhados de informação e parecer deste, bem como do processo a que respeite o acto ou, quando tiverem efeito meramente devolutivo, com um seu extracto.
 
@@ -245,7 +417,9 @@ Reclamação dos actos de fixação
 
 Do acto de fixação do conjunto dos rendimentos líquidos, sujeitos a tributação, podem os sujeitos passivos reclamar para a comissão de revisão, nos termos previstos no Código de Processo Tributário.
 
-###### Artigo 70.º — Impugnação das deliberações das comissões
+Artigo 70.º
+
+Impugnação das deliberações das comissões
 
 1 - ...
 
@@ -263,7 +437,9 @@ Os artigos 54.º e 91.º do Código do Imposto sobre o Rendimento das Pessoas Co
 
 Do montante do lucro tributável fixado poderão os contribuintes reclamar para a comissão de revisão, nos termos previstos no Código de Processo Tributário.
 
-###### Artigo 91.º — Juros e responsabilidade pelo pagamento nos casos de retenção na fonte
+Artigo 91.º
+
+Juros e responsabilidade pelo pagamento nos casos de retenção na fonte
 
 1 - ...
 
@@ -291,7 +467,7 @@ Os artigos 84.º e 90.º do Código do Imposto sobre o Valor Acrescentado (CIVA)
 
 5 - ...
 
-###### Artigo 90.º
+Artigo 90.º
 
 1 - ...
 
@@ -347,12 +523,12 @@ b) Certidão, fotocópia, reprodução de microfilme, reprodução de registo in
 
 Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 31 de Dezembro de 1996.**
+Promulgado em 31 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Dezembro de 1996.**
+Referendado em 31 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

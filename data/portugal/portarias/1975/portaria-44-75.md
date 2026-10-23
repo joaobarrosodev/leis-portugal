@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/44-1975-159127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T04:46:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea9255fafba71d79c0a3c0f3ef940f3280281dbce26b459cd5393fbce5cc8b37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e76df5a055738c25b2aa58e19451e209ef973f43228f661851a115a03102273
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:46:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:234774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689838:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:46:46Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +106,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado dos Assunto
 
 ### CAPÍTULO 2.º
 
-###### Artigo 6.º «Quotização das províncias ultramarinas»:
+Artigo 6.º «Quotização das províncias ultramarinas»:
 
 a) ... ...
 
@@ -106,25 +122,25 @@ d) Macau ... 1860505$20
 
 Despesas com o pessoal:
 
-###### Artigo 3.º «Outras despesas com o pessoal»:
+Artigo 3.º «Outras despesas com o pessoal»:
 
 N.º 1 «Alimentação» ... 1000000$00
 
 Despesas com o material:
 
-###### Artigo 5.º «Aquisições de utilização permanente»:
+Artigo 5.º «Aquisições de utilização permanente»:
 
 N.º 2 «Aquisição de móveis»:
 
 Alínea g) «Equipamento de novas instalações e serviços» ... 3500000$00
 
-###### Artigo 6.º «Despesas de conservação e aproveitamento do material»:
+Artigo 6.º «Despesas de conservação e aproveitamento do material»:
 
 N.º 3 «De móveis»:
 
 Alínea a) «Conserto de máquinas, móveis, aparelhos, instrumentos e outros» ... 100000$00
 
-###### Artigo 7.º «Material de consumo corrente»:
+Artigo 7.º «Material de consumo corrente»:
 
 N.º 1 «Artigos de expediente, impressos, livros para escrituração, etc.» ... 40000$00
 
@@ -132,7 +148,7 @@ N.º 6 «Diversos não especificados, incluindo desenho, fotografia e filmagem d
 
 Pagamento de serviços:
 
-###### Artigo 8.º «Despesas de higiene, saúde e conforto»:
+Artigo 8.º «Despesas de higiene, saúde e conforto»:
 
 N.º 2 «Dietas, combustível e utensílios de cozinha» ... 1300000$00
 
@@ -142,7 +158,7 @@ N.º 5 «Consultas, exames e tratamentos especiais a fazer fora do Hospital por 
 
 N.º 6 «Despesas resultantes de assistência nos casos de cancro, lepra, doença do sono e doenças mentais dos funcionários do Ministério do Ultramar e seus organismos consultivos e dependentes, nos termos do artigo 1.º do [Decreto-Lei n.º 402/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1972-689838), de 24 de Outubro» ... 368600$00
 
-###### Artigo 9.º «Despesas de comunicações»:
+Artigo 9.º «Despesas de comunicações»:
 
 N.º 1 «Portes de correio e telégrafo» ... 1400$00
 
@@ -150,7 +166,7 @@ N.º 2 «Telefones» ... 190000$00
 
 Diversos encargos:
 
-###### Artigo 17.º «Despesas de anos económicos findos» ... 350000$00
+Artigo 17.º «Despesas de anos económicos findos» ... 350000$00
 
 ... 9000000$00
 

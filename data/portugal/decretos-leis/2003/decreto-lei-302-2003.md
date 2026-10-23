@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/302/2003/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-2003-440087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:40:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 482d8246c6ab61a826140ac455d2eb2047ebf8141058e97acc10103cf41451c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cde75dbaf13a50e6717607dcc7281dda2927b80c43c1fe9a18d9395f869858d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:40:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Caldas da Rainha
-- Escola Superior de Artes e Design
+- Ensino Superior
 - Ensino Superior Politécnico
 - Escola Superior
+- Escola Superior de Artes e Design
 - Escola Superior de Tecnologia Gestão ARTE e Design
 - Instituto Politécnico
 - Leiria
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:346742:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:346742:por
+  label: "Prorrogado até 31 de Dezembro de 2008 o período de funcionamento no regime de instalação da Escola Superior de de\
+    \ Artes e Design das Caldas da Raínha cujos objectivos e designação foram redefinidos pelo presente diploma, pelo DEC\
+    \ LEI.114/2006.12.06.2006.MCTES, DR.IS-A [113] de 12.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-2006-346742
+  date: '2006-06-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/24/1994/01/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/24/1994/01/27/p/dre
+- type: cites
+  target: pt:dre:495503:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:40:57Z'
   warnings: []
   errors: []
 ---
@@ -137,12 +148,12 @@ A Escola fica localizada no concelho das Caldas da Rainha.
 
 Visto e aprovado em Conselho de Ministros de 31 de Outubro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria da Graça da Silva Martins Carvalho.
 
-**Promulgado em 20 de Novembro de 2003.**
+Promulgado em 20 de Novembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Novembro de 2003.**
+Referendado em 24 de Novembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/877-1984-401031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T08:15:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: effc5e5f879739c300ce834519d6bec47b4c337e065027ecc2e28bc93a88a505
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66fcb1cfc9e353651ae1e608a54ade6cb97ba2c5c34f94f501831a6e61ef73ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:15:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Integração de Trabalhadores
+- Polícia Judiciária
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:182993:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:182993:por
+  label: "Dada nova redacção ao mapa II anexo ao presente diploma no que se refere ao grupo de pessoal operário e auxiliar,\
+    \ pela PORT.433/85.08.07.1985.PCM, DR.IS [154] de 08.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/433-1985-182993
+  date: '1985-07-08'
+- type: cites
+  target: pt:dre:380091:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:15:24Z'
   warnings: []
   errors: []
 ---
@@ -96,20 +109,20 @@ Assim:
 
 Manda o Governo da República Portuguesa, pelos Ministros da Justiça e das Finanças e do Plano e pelo Secretário de Estado da Administração Pública, ao abrigo do disposto no n.º 2 do artigo 76.º do [Decreto-Lei n.º 458/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1982-380091), de 24 de Novembro, o seguinte:
 
-###### Artigo único. O quadro de pessoal da Polícia Judiciária, a que se refere o n.º 1 do artigo 76.º do [Decreto-Lei n.º 458/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1982-380091), de 24 de Novembro, é aumentado dos lugares constantes dos mapas anexos ao presente diploma.
+Artigo único. O quadro de pessoal da Polícia Judiciária, a que se refere o n.º 1 do artigo 76.º do [Decreto-Lei n.º 458/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1982-380091), de 24 de Novembro, é aumentado dos lugares constantes dos mapas anexos ao presente diploma.
 
 Presidência do Conselho de Ministros e Ministérios da Justiça e das Finanças e do Plano.
 
-**Assinada em 12 de Novembro de 1984.**
+Assinada em 12 de Novembro de 1984.
 
-**O Ministro da Justiça, Rui Manuel Parente Chancerelle de Machete. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.**
+O Ministro da Justiça, Rui Manuel Parente Chancerelle de Machete. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
 
 Quadro de pessoal da Polícia Judiciária
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/27900/36783678.pdf))](https://files.diariodarepublica.pt/1s/1984/12/27900/36783678.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/27900/36783678.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/27900/36783678.pdf))](https://files.diariodarepublica.pt/1s/1984/12/27900/36783678.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/27900/36783678.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/209/2008/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2008-439091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d17ea3a5ca9b8e3b2397e7941cf1860031745608024414fdcf609b1318a3a680
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ae33e6a24b8042c40a99b5ce82c12bba5d9b4a1ec86743e322c0f2540fd2299
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
-- Gestão de Resíduos
-- Ordenamento do Território
-- Higiene do Trabalho
 - Definição de Competências
-- Saúde Pública
 - Estabelecimento Industrial
-- Segurança no Trabalho
+- Gestão de Resíduos
+- Higiene do Trabalho
+- Ordenamento do Território
 - Qualidade do Ambiente
 - Saúde no Trabalho
+- Saúde Pública
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:66229856:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:611328:por
+  label: "Alterado, a partir de 30.03.2010, o art. 69º pelo DEC LEI.24/2010.25.03.2010.MADRP, DR.IS [59] de 25.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2010-611328
+  date: '2010-03-25'
 - type: cites
   target: celex:31979L0409
   label: null
@@ -93,16 +98,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/69/2003/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/69/2003/04/10/p/dre
+- type: corrected_by
+  target: pt:dre:331866:por
+  label: "Rectificado pela DECL-RECT.77-A/2008.26.12.2008.PCM, DR.IS [249]Supl de 26.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/77-a-2008-331866
+  date: '2008-12-26'
+- type: corrected_by
+  target: pt:dre:601366:por
+  label: "Rectificada a Declaração de Rectificação n.º 77-A/2008, de 26 de Dezembro, que rectificou o presente diploma, pela\
+    \ DECL-RECT.15/2009.10.02.2009.PCM, DR.IS [28] de 10.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/15-2009-601366
+  date: '2009-02-10'
+- type: repealed_by
+  target: pt:dre:277581:por
+  label: "Revogado, a partir de 02.05.2011, o Dec Lei 234/2007, de 19-Jun, na redacção do presente diploma, pelo DEC LEI.48/2011.01.04.2011.PCM,\
+    \ DR.IS [65] de 01.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-2011-277581
+  date: '2011-04-01'
+- type: repealed_by
+  target: pt:dre:179275:por
+  label: "Revogado o presente diploma, a partir de 03.09.2012, na redação do Dec Lei 24/2010, de 25-mar, pelo DEC LEI.169/2012.01.08.2012.MEE,\
+    \ DR.IS [148] de 01.08.2012, sem prejuízo do disposto no seu art. 9º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-2012-179275
+  date: '2012-08-01'
+- type: repealed_by
+  target: pt:dre:66229856:por
+  label: Revogado, a partir de 01.03.2015, o Dec. Lei 259/2007 de 17-jul, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2015-66229856
+  date: '2015-01-16'
 article_structure:
   article_count: 84
   section_count: 31
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:42Z'
   warnings: []
   errors: []
 ---
@@ -1365,15 +1399,15 @@ O presente decreto-lei entra em vigor no prazo de 90 dias a contar da data da su
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Rui Carlos Pereira - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - José António Fonseca Vieira da Silva.
 
-**Promulgado em 10 de Outubro de 2008.**
+Promulgado em 10 de Outubro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de Outubro de 2008.**
+Referendado em 15 de Outubro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Actividade industrial, actividade produtiva local e actividade produtiva similar
 
@@ -1381,7 +1415,7 @@ Visto e aprovado em Conselho de Ministros de 3 de Julho de 2008. - José Sócrat
 
 Consideram-se actividade industrial, nos termos da alínea a) do artigo 2.º do REAI, as actividades económicas que são incluídas nas subclasses da Classificação Portuguesa das Actividades Económicas (CAE - rev. 3), aprovada pelo Decreto-Lei n.º 381/2007, de 14 de Novembro, que seguidamente se apresentam, com exclusão das actividades que expressamente se indicam na respectiva subclasse e nas secções 2 e 3 do presente anexo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf))](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf)
 
 #### Secção 2 — Actividade produtiva local
 
@@ -1389,13 +1423,13 @@ Consideram-se actividade industrial, nos termos da alínea a) do artigo 2.º do 
 
 2 - Os valores anuais de produção estabelecidos para a actividade produtiva local constituem um limite máximo cuja superação determina a exclusão da actividade em causa da categoria de actividade produtiva local.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf))](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf)
 
 #### Secção 3 — Actividade produtiva similar
 
 Consideram-se actividade produtiva similar, nos termos da alínea c) do artigo 2.º do REAI, as actividades económicas que seguidamente se identificam, na sua designação coloquial, com indicação da respectiva nomenclatura e subclasse na Classificação Portuguesa das Actividades Económicas (CAE - rev. 3), aprovada pelo Decreto-Lei n.º 381/2007, de 14 de Novembro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf))](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf)
 
 ## ANEXO II — Factores de conversão e coeficientes de equivalência
 
@@ -1441,7 +1475,7 @@ Combustíveis sólidos:
 
 3 - No caso previsto no número anterior, se o número de trabalhadores for igual, o requerente indica qual das actividades industriais melhor caracteriza o estabelecimento industrial.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf))](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf)
 
 ## ANEXO IV — Requisitos formais e elementos instrutórios do pedido de autorização, da declaração prévia e do registo do pedido de regularização
 
@@ -1805,7 +1839,7 @@ QUADRO I
 
 Factores de dimensão (Fd) correspondentes aos regimes aplicáveis aos estabelecimentos industriais em função dos respectivos escalões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf))](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf)
 
 Nota explicativa. - Para efeito da determinação do factor de dimensão (Fd) o estabelecimento industrial insere-se no escalão mais elevado, a que corresponder o enquadramento de, pelo menos, um dos parâmetros dimensionais.
 
@@ -1815,15 +1849,15 @@ Factores de serviço (Fs) a aplicar para efeitos de cálculo das taxas
 
 Autorização prévia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf))](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf)
 
 Declaração prévia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf))](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf)
 
 Vistorias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf))](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/21000/0758107613.pdf)
 
 2 - O valor da taxa base (Tb) é de (euro) 89, sendo automaticamente actualizada, a partir de 1 de Março de cada ano, com base na variação do índice médio de preços no consumidor no continente relativo ao ano anterior, excluindo a habitação, e publicado pelo Instituto Nacional de Estatística.
 

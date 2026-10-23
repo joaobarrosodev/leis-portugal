@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/149/2004/06/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2004-272036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8003dd66a5bd6b80932f5de085b67fbdf700708b6f6f72fde0b3556b1fac431e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68ad605f6d86a1f6989b30e7510361b505e11337e1a3f11b01f0083f2e611a4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da ÁGUA
-- Multa
+- Açores
+- Águas Residuais
 - Contra-ordenação
+- Controlo Sanitário
 - Definição de Competências
 - Descarga de ÁGUA Residual
-- Controlo Sanitário
+- Instituto da ÁGUA
 - Licenciamento
-- Águas Residuais
-- Poluição da água
 - Madeira.região Autónoma
-- Açores
+- Multa
+- Poluição da água
 - Tratamento de ÁGUA
 - ZONA Sensivel
 relationships:
@@ -84,6 +84,18 @@ relationships:
   target: pt:dre:170322929:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:452916:por
+  label: "Alterados o art. 7º-A e o anexo ii do Dec Lei 152/97, de 19-Jun, na redacção do presente, pelo DEC LEI.198/2008.08.10.2008.MAOTDR,\
+    \ DR.IS [195] de 08.10.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-2008-452916
+  date: '2008-10-08'
+- type: amended_by
+  target: pt:dre:69778945:por
+  label: Alterado o anexo ii do Dec Lei 152/97, de 19-jun, na redação de substituição do presente diploma, pelo(a) Decreto-Lei
+    n.º 133/2015 - Diário da República n.º 134/2015, Série I de 2015-07-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-2015-69778945
+  date: '2015-07-13'
 - type: cites
   target: celex:31991L0271
   label: null
@@ -93,15 +105,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1998/15/oj
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:53Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +162,9 @@ Tratamento para descargas em zonas sensíveis
 
 5 - As descargas de águas residuais urbanas provenientes de aglomerações de dimensão inferior a 10000 e. p., quando localizadas em zona sensível ou na respectiva área de influência, podem ser sujeitas aos requisitos aplicáveis às descargas de águas residuais provenientes de aglomerações de dimensão superior a 10000 e. p. sempre que, no contexto local em que se inserem, seja necessário cumprir outras directivas comunitárias e ou objectivos de qualidade para o meio receptor fixados pela legislação vigente.
 
-###### Artigo 14.º — Contra-ordenações e coimas
+Artigo 14.º
+
+Contra-ordenações e coimas
 
 1 - Sem prejuízo da aplicação do disposto no Decreto-Lei n.º 236/98, de 1 de Agosto, a violação do disposto nos n.os 1 e 2 do artigo 4.º, nos n.os 1, 2 e 4 do artigo 5.º, nos artigos 6.º, 8.º e 10.º e no n.º 1 do artigo 12.º do presente diploma constitui contra-ordenação punível com coima de (euro) 1250 a (euro) 3740, quando praticada por pessoa singular, e de (euro) 2500 a (euro) 44890, quando praticada por pessoa colectiva.
 
@@ -160,7 +174,9 @@ Tratamento para descargas em zonas sensíveis
 
 4 - ...
 
-###### Artigo 18.º — Regiões Autónomas
+Artigo 18.º
+
+Regiões Autónomas
 
 1 - O presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma.
 
@@ -190,25 +206,25 @@ São revogados os Decretos-Leis n.os 261/99, de 7 de Julho, e 172/2001, de 26 de
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Nuno Albuquerque Morais Sarmento - Carlos Manuel Tavares da Silva - Luís Filipe Pereira - Arlindo Marques da Cunha.
 
-**Promulgado em 7 de Junho de 2004.**
+Promulgado em 7 de Junho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Junho de 2004.**
+Referendado em 14 de Junho de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — Lista de identificação
 
 Zonas sensíveis - Águas doces superficiais, estuários e lagoas costeiras
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/06/145a00/38053809.pdf)
+[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/06/145a00/38053809.pdf)](https://files.diariodarepublica.pt/1s/2004/06/145a00/38053809.pdf)
 
 Zonas menos sensíveis - Águas costeiras
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/06/145a00/38053809.pdf)
+[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/06/145a00/38053809.pdf)](https://files.diariodarepublica.pt/1s/2004/06/145a00/38053809.pdf)
 
 Nota. - Sistema de coordenadas - projecção Gauss do Datum Geodésico Hayford de Lisboa Militar.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/16/1995/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1995-528069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a07b3f22ae879fe2fca25b97ecc84578f5247b1291756ee7f11126827b1e0e45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b80c19bea8b4bf4027e9b79a74744e5984ebffbb05cf6e4806d395f5ca5d636
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arquivo
+- Confidencialidade
 - Conservação de Documentos
 - Dador de Sangue
 - Prazo de Conservação
-- Confidencialidade
 - Sangue Humano
 - Segredo Profissional
 relationships:
@@ -81,16 +81,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
+- type: cites
+  target: pt:dre:584777:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636749:por
+  label: "Revogado o nº 2 do art. 1º pelo DEC LEI.267/2007.24.07.2007.MS, DR.IS [141] de 24.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-2007-636749
+  date: '2007-07-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:56Z'
   warnings: []
   errors: []
 ---
@@ -113,17 +122,17 @@ Assim:
 
 Ao abrigo do disposto no n.º 2 do artigo 15.º do [Decreto-Lei n.º 16/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1993-584777), de 23 de Janeiro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O presente diploma aprova o regulamento arquivístico dos documentos relativos à transfusão de sangue.
+Artigo 1.º - 1 - O presente diploma aprova o regulamento arquivístico dos documentos relativos à transfusão de sangue.
 
 2 - Para efeitos do disposto no número anterior, deve ser registada e conservada pelo prazo mínimo de 50 anos a partir da data da última actualização a documentação, referida no anexo a este diploma e que dele faz parte integrante, relativa à recolha e à administração de sangue em estabelecimentos de saúde públicos ou privados.
 
-###### Art. 2.º - 1 - Toda a informação relativa à transfusão de sangue está sujeita a sigilo profissional.
+Art. 2.º - 1 - Toda a informação relativa à transfusão de sangue está sujeita a sigilo profissional.
 
 2 - A violação do disposto no número anterior constitui ilícito disciplinar e civil.
 
-###### Art. 3.º A fim de garantir a confidencialidade da identidade do dador e do receptor, a documentação referida no anexo só deve ser acessível a pessoal médico relacionado com a actividade transfusional.
+Art. 3.º A fim de garantir a confidencialidade da identidade do dador e do receptor, a documentação referida no anexo só deve ser acessível a pessoal médico relacionado com a actividade transfusional.
 
-###### Art. 4.º - 1 - A eliminação dos documentos só pode ser feita por incineração ou maceração, após a prescrição dos respectivos prazos de conservação, nos termos do disposto no n.º 2 do artigo 1.º
+Art. 4.º - 1 - A eliminação dos documentos só pode ser feita por incineração ou maceração, após a prescrição dos respectivos prazos de conservação, nos termos do disposto no n.º 2 do artigo 1.º
 
 2 - No acto da eliminação será lavrado um auto, no qual deverá constar uma relação dos documentos objecto de destruição, devidamente identificados.
 
@@ -131,15 +140,15 @@ Ao abrigo do disposto no n.º 2 do artigo 15.º do [Decreto-Lei n.º 16/93](http
 
 Presidência do Conselho de Ministros, 6 de Março de 1995. - Aníbal António Cavaco Silva - Adalberto Paulo da Fonseca Mendo.
 
-**Promulgado em 4 de Maio de 1995.**
+Promulgado em 4 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Maio de 1995.**
+Referendado em 10 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO
 

@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/247-1983-309747
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T07:35:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f2d2f2fcf4a5293678de46cbc16e7ca35913675b6d801de596fb4257303f05a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b90bf3df0531f925c1468f8358b2e24ffb583fdd16043cbc5846bfe9cbf09f59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:35:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Indústria
+- Ministério da Indústria Energia e Exportação
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:418219:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382404:por
+  label: "Criado um lugar de assessor, Letra B, no quadro de pessoal aprovado pelo presente diploma, pela PORT.602/84.13.08.1984.PCM,\
+    \ DR.IS [187] de 13.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/602-1984-382404
+  date: '1984-08-13'
+- type: amended_by
+  target: pt:dre:399203:por
+  label: "Criado um lugar de assessor, letra C, no quadro de pessoal aprovado pelo presente diploma, pela PORT.710/84.14.09.1984.PCM,\
+    \ DR.IS [214] de 14.09.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/710-1984-399203
+  date: '1984-09-14'
+- type: amended_by
+  target: pt:dre:396333:por
+  label: "Alterado o quadro de pessoal constante do anexo do presente diploma, com a redacção introduzida pelas Port 602/84,\
+    \ de 13-Ago e 710/84, de 14-Set, pela PORT.930/84.18.12.1984.PCM, DR.IS [291] de 18.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/930-1984-396333
+  date: '1984-12-18'
+- type: amended_by
+  target: pt:dre:420036:por
+  label: "Alterado o anexo ao presente diploma, pela PORT.580/87.09.07.1987.MF, DR.IS [155] de 09.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/580-1987-420036
+  date: '1987-07-09'
+- type: amended_by
+  target: pt:dre:418219:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, pela PORT.725/87.24.08.1987.MF, DR.IS [193] de 24.08.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/725-1987-418219
+  date: '1987-08-24'
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606738:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:165216:por
+  label: Rectificada pela DECL.DD3789.1983.03.29.PCM DR.IS [75]Supl de 31/Mar/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-165216
+  date: '1983-03-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:35:27Z'
   warnings: []
   errors: []
 ---
@@ -102,4 +147,4 @@ Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finança
 
 Ministérios das Finanças e do Plano, da Indústria, Energia e Exportação e da Reforma Administrativa, 11 de Fevereiro de 1983. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Indústria, Energia e Exportação, Ricardo Bayão Horta. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/05200/08090809.pdf))](https://files.diariodarepublica.pt/1s/1983/03/05200/08090809.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/05200/08090809.pdf)

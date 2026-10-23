@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/44/2014/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2014-571959
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3617de8ed10d43609d84106474c8bac49610d03dc1b369275fb8fc7f701131b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e1d6e1717a0fe030507c620ab5876ffc201a43d5391830f2647ff2a8779d381
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração de Portos
 - Administração do Porto de Sines
-- Reestruturação de Serviços
-- Jurisdição
 - Conselho de Administração
-- Instituto Portuário e dos Transportes Marítimos
 - Definição de Competências
 - Denominação de Instituição
 - Domínio Privado do Estado
 - Domínio Público do Estado
 - Estatuto
-- Administração de Portos
 - Faro
 - Instituto da Mobilidade e dos Transportes
+- Instituto Portuário e dos Transportes Marítimos
 - Integração de Serviços
 - Integração de Trabalhadores
+- Jurisdição
 - Portimão
 - Porto de Sines
-- Regime de Pessoal
 - Portos
+- Reestruturação de Serviços
+- Regime de Pessoal
 - Sines
 - Transferência de Serviços
 - Transferência Patrimonial
@@ -133,16 +133,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/78/2013/11/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/78/2013/11/21/p/dre
+- type: cites
+  target: pt:dre:178512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
+  article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:20Z'
   warnings: []
   errors: []
 ---
@@ -265,7 +329,7 @@ Os artigos 3.º e 7.º do [Decreto-Lei n.º 337/98](https://diariodarepublica.pt
 
 4 - A livre entrada a bordo dos navios fundeados nos portos de Sines, de Faro ou de Portimão, ou atracados aos respetivos cais, é sempre facultada aos funcionários da APS, S.A., encarregados da superintendência ou fiscalização de serviços portuários que disso tenham necessidade mediante a apresentação de documento de identificação emitido pela APS, S.A., acreditando-os para aquela missão.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - [...].
 
@@ -293,11 +357,15 @@ Os artigos 1.º, 3.º e 10.º dos Estatutos da APS, S.A., constantes do anexo II
 
 2 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 A APS, S.A., tem por objeto a administração dos portos de Sines, de Faro e de Portimão, visando a sua exploração económica, conservação e desenvolvimento, abrangendo o exercício das competências e prerrogativas de autoridade portuária que lhe estejam ou venham a estar cometidas.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 [...]:
 
@@ -381,24 +449,24 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de janeiro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Berta Maria Correia de Almeida de Melo Cabral - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 4 de março de 2014.**
+Promulgado em 4 de março de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de março de 2014.**
+Referendado em 5 de março de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05600/0210502112.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05600/0210502112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05600/0210502112.pdf)
 
 ## ANEXO II — (a que se refere o n.º 3 do artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05600/0210502112.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05600/0210502112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05600/0210502112.pdf)
 
 ## ANEXO III — (a que se refere o n.º 1 do artigo 6.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05600/0210502112.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05600/0210502112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05600/0210502112.pdf)

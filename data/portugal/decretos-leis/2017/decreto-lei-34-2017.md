@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/06000/0158501615.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/34/2017/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2017-106654350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f627f781174ba725c397e9eaf1d94627a683fc42601a1702e47ca15048bd97b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8a10bdf323a43e47f4ae32fb21edd2f471da54ee811ab6c6cefd1eee9891493
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
+- Águas de Lisboa e Vale do Tejo
+- Águas do Tejo Atlântico
+- Águas do Vale do Tejo
 - Capital Social
-- Saneamento Básico
+- Cisão de Empresas
 - Contrato de Concessão
 - Criação de Empresas
 - Definição de Competências
-- Cisão de Empresas
 - EPAL
 - Estatuto
+- Saneamento Básico
 - Setor Empresarial do Estado
 - Simarsul
-- Sistema Multimunicipal de Saneamento de Águas Residuais da Península de Setúbal
-- Transferência Patrimonial
 - SISTEMA MULTIMUNICIPAL DE ABASTECIMENTO DE ÁGUA E DE SANEAMENTO DE LISBOA E VALE DO TEJO
-- Águas de Lisboa e Vale do Tejo
-- Águas do Vale do Tejo
 - Sistema Multimunicipal de Saneamento de Águas Residuais da Grande Lisboa e Oeste
-- Águas do Tejo Atlântico
+- Sistema Multimunicipal de Saneamento de Águas Residuais da Península de Setúbal
 - Sistema Multimunicipal de Saneamento de Águas Residuais do Tejo Atlântico
+- Sociedade Anónima
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:158238385:por
@@ -130,16 +130,116 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/92-a/1995/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/92-a/1995/12/28/p/dre
+- type: cites
+  target: pt:dre:241638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75150234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75662182:por
+  label: null
+  source: null
 article_structure:
-  article_count: 127
-  section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 125
+  section_count: 37
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:36Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +282,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
-# PARTE I — Objeto
+## PARTE I — Objeto
 
 ###### Artigo 1.º — Objeto e definições
 
@@ -226,7 +326,7 @@ m) «Sociedades extintas», na parte II, as sociedades SANEST - Saneamento da Co
 
 n) «Utilizadores municipais», na parte II, os municípios servidos pelo sistema multimunicipal de saneamento de águas residuais da Grande Lisboa e Oeste, nos termos do disposto no n.º 3 do artigo 2.º, ou as entidades gestoras dos respetivos sistemas municipais, quando aplicável, e na parte III, os municípios servidos pelo sistema multimunicipal de saneamento de águas residuais da península de Setúbal, nos termos do disposto no n.º 3 do artigo 30.º, ou as entidades gestoras dos respetivos sistemas municipais, quando aplicável.
 
-# PARTE II — Saneamento de águas residuais da Grande Lisboa e Oeste
+## PARTE II — Saneamento de águas residuais da Grande Lisboa e Oeste
 
 ### CAPÍTULO I — Sistema multimunicipal de saneamento de águas residuais da Grande Lisboa e Oeste
 
@@ -540,7 +640,7 @@ Até à entrada em vigor do regulamento de exploração e serviço elaborado pel
 
 Considera-se convocada a assembleia geral da sociedade sem necessidade de cumprimento dos requisitos mencionados no artigo 17.º dos estatutos e na lei comercial, para o décimo dia posterior à data da entrada em vigor do presente decreto-lei, ou para o primeiro dia útil subsequente, às 10 horas, na sede da sociedade, com o objetivo de eleger os órgãos sociais da sociedade para o primeiro mandato que termina em 2019, aprovar o respetivo estatuto remuneratório e deliberar sobre as matérias previstas nas alíneas a) e b) do n.º 1 do artigo 38.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, em conjugação com o disposto no artigo 18.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro.
 
-# PARTE III — Saneamento de águas residuais da península de Setúbal
+## PARTE III — Saneamento de águas residuais da península de Setúbal
 
 ### CAPÍTULO I — Sistema multimunicipal de saneamento de águas residuais da península de Setúbal
 
@@ -850,7 +950,7 @@ A sociedade encontra-se dispensada de manter quaisquer fundos de reconstituiçã
 
 Considera-se convocada a assembleia geral da sociedade, sem necessidade de cumprimento dos requisitos mencionados no artigo 17.º dos estatutos e na lei comercial, para o décimo dia posterior à data da entrada em vigor do presente decreto-lei, ou para o primeiro dia útil subsequente, às 16 horas, na Quinta de São Paulo, Estrada das Machadas, em Setúbal, com o objetivo de eleger os órgãos sociais da sociedade para o primeiro mandato que termina em 2019, aprovar o respetivo estatuto remuneratório e deliberar sobre as matérias previstas nas alíneas a) e b) do n.º 1 do artigo 38.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, em conjugação com o disposto no artigo 18.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro.
 
-# PARTE IV — Alterações legislativas
+## PARTE IV — Alterações legislativas
 
 ###### Artigo 58.º — Alteração ao [Decreto-Lei n.º 94/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2015-67348947), de 29 de maio
 
@@ -884,7 +984,9 @@ b) No abastecimento de água, os municípios de Alcobaça, Alenquer, Arruda dos 
 
 10 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -896,7 +998,9 @@ b) No abastecimento de água, os municípios de Alcobaça, Alenquer, Arruda dos 
 
 5 - A sociedade pode, como forma de minimizar o impacto dos encargos financeiros nas tarifas e potenciar a diversificação das fontes de financiamento disponíveis, ceder, no todo ou em parte, a instituições de crédito ou sociedade financeira, o direito a receber, através de tarifas futuras, o montante correspondente aos desvios de recuperação de gastos de natureza deficitária, determinados com base no disposto no presente artigo.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -906,7 +1010,7 @@ b) No abastecimento de água, os municípios de Alcobaça, Alenquer, Arruda dos 
 
 4 - Se a AdP - Águas de Portugal, SGPS, S. A., ou os restantes acionistas da sociedade, não exercerem o direito de aquisição das participações sociais adquiridas aos municípios exonerantes, ou se, exercendo-o, não se verificar a concretização dessa aquisição, às ações adquiridas pela sociedade que não forem por ela alienadas nos termos do disposto nos números anteriores, é aplicável o regime das ações próprias previsto no artigo 324.º do Código das Sociedades Comerciais, não se aplicando quanto às mesmas o limite de tempo de detenção das ações previsto no artigo 323.º daquele diploma.»
 
-# PARTE V — Disposições complementares, transitórias e finais
+## PARTE V — Disposições complementares, transitórias e finais
 
 ###### Artigo 59.º — Águas do Vale do Tejo, S. A.
 
@@ -960,15 +1064,15 @@ Tendo em vista, nomeadamente, a eliminação ou redução de serviços duplicado
 
 Visto e aprovado em Conselho de Ministros de 26 de janeiro de 2017. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 8 de março de 2017.**
+Promulgado em 8 de março de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de março de 2017.**
+Referendado em 14 de março de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 8.º)
 
@@ -976,7 +1080,7 @@ Acionistas, capital subscrito e realizado e categoria das ações
 
 Águas do Tejo Atlântico, S. A.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/03/06000/0158501615.pdf))](https://files.diariodarepublica.pt/1s/2017/03/06000/0158501615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/03/06000/0158501615.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 9.º)
 
@@ -1324,7 +1428,7 @@ Componente tarifária acrescida (CTA)
 
 A - Os municípios utilizadores do sistema multimunicipal de saneamento de águas residuais da Grande Lisboa e Oeste que eram utilizadores originários do sistema multimunicipal de saneamento da Costa do Estoril, criado pelo [Decreto-Lei n.º 142/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1995-518658), de 14 de junho, alterado pela [Lei n.º 92-A/95](https://diariodarepublica.pt/dr/detalhe/lei/92-a-1995-621765), de 28 de dezembro, e do sistema multimunicipal de saneamento do Tejo e Trancão, criado pelo [Decreto-Lei n.º 288-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-a-2001-265145), de 10 de novembro, que foram extintos pelo [Decreto-Lei n.º 94/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2015-67348947), de 29 de maio, estão obrigados ao pagamento da CTA nos termos da seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/03/06000/0158501615.pdf))](https://files.diariodarepublica.pt/1s/2017/03/06000/0158501615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/03/06000/0158501615.pdf)
 
 B - Os municípios utilizadores do sistema multimunicipal de saneamento de águas residuais da Grande Lisboa e Oeste que eram utilizadores originários, na vertente de saneamento, do sistema multimunicipal de abastecimento de água e de saneamento do Oeste, criado pelo [Decreto-Lei n.º 305-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-a-2000-424481), de 24 de novembro, que foi extinto pelo [Decreto-Lei n.º 94/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2015-67348947), de 29 de maio, estão isentos do pagamento de CTA até 2026.
 
@@ -1338,7 +1442,7 @@ Acionistas, capital subscrito e realizado e categorias das ações
 
 SIMARSUL - Saneamento da Península de Setúbal, S. A.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/03/06000/0158501615.pdf))](https://files.diariodarepublica.pt/1s/2017/03/06000/0158501615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/03/06000/0158501615.pdf)
 
 ## ANEXO V — (a que se refere o n.º 1 do artigo 37.º)
 
@@ -1688,10 +1792,10 @@ Acionistas, capital subscrito e realizado e categorias das ações
 
 (com a denominação, antes da cisão, de Águas de Lisboa e Vale do Tejo, S. A.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/03/06000/0158501615.pdf))](https://files.diariodarepublica.pt/1s/2017/03/06000/0158501615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/03/06000/0158501615.pdf)
 
 ## ANEXO VII — (a que se refere o n.º 7 do artigo 59.º)
 
 Receitas extraordinárias adicionais sob a forma de apoio do Fundo Ambiental a transferir para a Águas do Vale do Tejo, S. A.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/03/06000/0158501615.pdf))](https://files.diariodarepublica.pt/1s/2017/03/06000/0158501615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/03/06000/0158501615.pdf)

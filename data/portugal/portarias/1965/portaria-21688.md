@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21688-1965-512253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4ef4773f13c12381531c2d9974feed9e346fc40d0df2e0067ef49f0af87cd4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44e31ce1181d7360219f7b62ef1d7f666e78fe7358b29c746c8160aa87e70175
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282138:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:31Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +105,13 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, aprovar e pu
 
 3.º O artigo 11.º passa a ter a seguinte redacção:
 
-###### Art. 11.º As calças de algodão azulado para oficiais, aspirantes a oficial e cadetes são de cotim sem lista nem pestanas, direitas, tendo de cada lado, junto à costura lateral, uma algibeira interior.
+Art. 11.º As calças de algodão azulado para oficiais, aspirantes a oficial e cadetes são de cotim sem lista nem pestanas, direitas, tendo de cada lado, junto à costura lateral, uma algibeira interior.
 
 Largura inferior da perna entre 0,23 m e 0,28 m.
 
 4.º O artigo 17.º passa a ter a seguinte redacção:
 
-###### Art. 17.º Os calções de algodão azulado para oficiais, aspirantes a oficial e cadetes (fig. 20) são de cotim, abotoados à frente com seis botões pretos do padrão n.º 5, dos quais os quatro inferiores em carcela de 0,04 m de largura.
+Art. 17.º Os calções de algodão azulado para oficiais, aspirantes a oficial e cadetes (fig. 20) são de cotim, abotoados à frente com seis botões pretos do padrão n.º 5, dos quais os quatro inferiores em carcela de 0,04 m de largura.
 
 À frente, de cada lado, têm uma algibeira interior de pano cru de 0,15 m de largura por 0,25 m de altura com a abertura oblíqua de 0,17 m de comprimento, fazendo um ângulo de 20º com a costura lateral da perna.
 
@@ -115,7 +123,7 @@ Largura inferior da perna entre 0,35 m e 0,4 m.
 
 5.º O artigo 20.º passa a ter a seguinte redacção:
 
-###### Art. 20.º A camisa azul para oficiais, aspirantes a oficial e cadetes (fig. 23) é de tecido de algodão (popelina) azul-mescla, com colarinho pegado de 0,035 m de altura atrás e 0,075 m nos bicos, de manga comprida com punhos simples, de 0,06 m de altura, abotoado por um botão cinzento-azulado do padrão n.º 5.
+Art. 20.º A camisa azul para oficiais, aspirantes a oficial e cadetes (fig. 23) é de tecido de algodão (popelina) azul-mescla, com colarinho pegado de 0,035 m de altura atrás e 0,075 m nos bicos, de manga comprida com punhos simples, de 0,06 m de altura, abotoado por um botão cinzento-azulado do padrão n.º 5.
 
 O colarinho tem, a 0,05 m dos vértices exteriores e na linha da bissectriz do ângulo formado nos dois bicos, orifícios caseados para colocar as âncoras metálicas.
 
@@ -129,7 +137,7 @@ Na altura do peito, de cada lado, tem uma algibeira exterior de 0,12 m de altura
 
 6.º O artigo 26.º passa a ter a seguinte redacção:
 
-###### Art. 26.º O capacete branco para oficiais, aspirantes a oficial e cadetes (figs. 25 e 26) é de cortiça ou outro material leve, forrado exteriormente de cotim de algodão branco liso, com orla debruada da mesma cor. A parte inferior da aba é forrada de cotim verde.
+Art. 26.º O capacete branco para oficiais, aspirantes a oficial e cadetes (figs. 25 e 26) é de cortiça ou outro material leve, forrado exteriormente de cotim de algodão branco liso, com orla debruada da mesma cor. A parte inferior da aba é forrada de cotim verde.
 
 Tem uma cinta de ventilação e, lateral e interiormente, na reunião da copa com a aba, dois ganchos onde se fixa a francalete, que é de cabedal branco.
 
@@ -141,15 +149,15 @@ A aba, inclinada de 30º, tem 0,06 m de largura.
 
 7.º O artigo 57.º passa a ter a seguinte redacção:
 
-###### Art. 57.º As meias brancas para oficiais, aspirantes a oficial e cadetes são de algodão, caneladas, tipo sport, de altura até abaixo do joelho; terminam por um canhão de 0,12 m para usar dobrado.
+Art. 57.º As meias brancas para oficiais, aspirantes a oficial e cadetes são de algodão, caneladas, tipo sport, de altura até abaixo do joelho; terminam por um canhão de 0,12 m para usar dobrado.
 
 8.º O artigo 58.º passa a ter a seguinte redacção:
 
-###### Art. 58.º As meias pretas para oficiais, aspirantes a oficial e cadetes são de algodão e do modelo descrito no artigo anterior.
+Art. 58.º As meias pretas para oficiais, aspirantes a oficial e cadetes são de algodão e do modelo descrito no artigo anterior.
 
 9.º O artigo 73.º passa a ter a seguinte redacção:
 
-###### Art. 73.º As cores designativas das classes dos oficiais, aspirantes a oficial e cadetes são as seguintes:
+Art. 73.º As cores designativas das classes dos oficiais, aspirantes a oficial e cadetes são as seguintes:
 
 1) Engenheiros construtores navais - preto (fig. 63).
 
@@ -173,7 +181,7 @@ b) Farmacêuticos navais - verde (fig. 65).
 
 10.º O artigo 79.º passa a ter a seguinte redacção:
 
-###### Art. 79.º Os distintivos de especialização para oficiais são os seguintes:
+Art. 79.º Os distintivos de especialização para oficiais são os seguintes:
 
 1) Mergulhador-sapador (fig. 91). Um capacete de mergulhador com 0,047 m de altura por 0,035 m de largura.
 
@@ -191,6 +199,6 @@ b) Farmacêuticos navais - verde (fig. 65).
 
 Ministério da Marinha, 26 de Novembro de 1965. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/11/26900/15361538.pdf))](https://files.diariodarepublica.pt/1s/1965/11/26900/15361538.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/11/26900/15361538.pdf)
 
 Ministério da Marinha, 26 de Novembro de 1965. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

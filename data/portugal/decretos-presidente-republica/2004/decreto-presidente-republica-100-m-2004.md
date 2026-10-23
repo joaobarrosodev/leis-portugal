@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 298/2004, 2º Suplemento, Série I-A de 2004-12-22
   number: '298'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7286-(7) a 7286-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/12/298a02/00070007.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/100-m/2004/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/100-m-2004-292714
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:46:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98a20658021cb0644b921bc281cab86e864ed3485544d35d7adca181fb8d1fb3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e5252836afa10b05a55c863153e77a9b271d782d31503e12cb036dded524063
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:46:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:46:42Z'
   warnings: []
   errors: []
 ---
@@ -85,16 +85,16 @@ validation:
 
 de 22 de Dezembro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:
 
 É indultada, na parte não cumprida, a pena de prisão aplicada a Maria José Soares Sousa Carvalho e Silva, de 35 anos de idade, no processo n.º 152/97, do 4.º Juízo Criminal do Tribunal Judicial da Comarca de Matosinhos, pelo esforço desenvolvido na sua reinserção social por via do estudo e da recuperação da toxicodependência.
 
-**Assinado em 22 de Dezembro de 2004.**
+Assinado em 22 de Dezembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Dezembro de 2004.**
+Referendado em 22 de Dezembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

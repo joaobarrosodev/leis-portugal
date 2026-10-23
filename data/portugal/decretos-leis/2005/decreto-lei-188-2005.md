@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/188/2005/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2005-583779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29b7c0534ad36540ae1b1b90652817635df1c784496d7dfedbbccc6aa54b517b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a54ab7c382c1735d0efbd7961c7a9db78b902473483bd42eaee86b9f3eff4257
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Controlo de Qualidade
-- Etiquetagem
-- Embalagem
-- Alimentação Humana
 - Açúcar
-- Informação do Consumidor
+- Alimentação Humana
 - Comércio
+- Controlo de Qualidade
+- Embalagem
+- Etiquetagem
+- Informação do Consumidor
 relationships:
 - type: cites
   target: celex:32001L0111
@@ -80,14 +80,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/2001/111/oj
 article_structure:
   article_count: 2
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:17Z'
   warnings: []
   errors: []
 ---
@@ -120,19 +120,21 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 2005. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - João José Amaral Tomaz - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 21 de Outubro de 2005.**
+Promulgado em 21 de Outubro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Outubro de 2005.**
+Referendado em 24 de Outubro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
-## ANEXO I — Parte A
+## ANEXO I
+
+## Parte A
 
 Denominações de venda, definições e características
 

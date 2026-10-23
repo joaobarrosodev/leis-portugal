@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/02/02600/0058900590.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/25/2012/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2012-543695
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ec3c9727761d85fcb5ce5e2fb5e2d52f559bd61bd879286a23f8d00b981616a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a520318ccb56ec4bbdd447efcab1791d719816721327bba8558ad9e0ecd0151
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Direção Geral de Energia e Geologia
 - Distribuição de Energia Elétrica
 - Energia Elétrica
-- Direção Geral de Energia e Geologia
 - Rede Elétrica de Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:588861:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:lei:312/2001
+  label: "Suspende, nos termos do nº 1 do art. 2º, a atribuição de potências de injeção na RESP, ao abrigo do disposto nos\
+    \ arts. 4.º e 10.º do Dec Lei n.º 312/2001, de 10-dez, DR IS-A [284]\0]\0"
+  source: null
+  date: '2001-12-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118-a/2010/10/25/p/dre
   label: null
@@ -91,16 +97,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/33-a/2005/02/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/33-a/2005/02/16/p/dre
+- type: cites
+  target: pt:dre:517381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646164:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:588861:por
+  label: "Revogado, a partir de 07.11.2012, e sem prejuízo do disposto no art. 15º, o Dec Lei 312/2001, de 10-dez, na redação\
+    \ do Dec Lei 33-A/2005, de 16 -fev, do Dec Lei 172/2006, de 23-ago, do Dec Lei 118-A/2010, de 25-out e do presente diploma,\
+    \ pelo DEC LEI.215-B/2012.08.10.2012.MEE, DR.IS [194-Supl] de 08.10.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-b-2012-588861
+  date: '2012-10-08'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:43Z'
   warnings: []
   errors: []
 ---
@@ -145,12 +174,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de janeiro de 2012. - Pedro Passos Coelho - Álvaro Santos Pereira.
 
-**Promulgado em 25 de janeiro de 2012.**
+Promulgado em 25 de janeiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de janeiro de 2012.**
+Referendado em 31 de janeiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

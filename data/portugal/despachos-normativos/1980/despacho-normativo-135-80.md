@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/135-1980-681631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:59:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b19389e4e6cc8eee4cb7b3abe5a946774dfdc268427db96933fcef7f4b805fab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1d42068bbc33a68ba4ac82acc619f31bf03fcee841a967705d980232cff93dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:59:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Fundo de Fomento da Habitação
+- Habitação
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:408927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408935:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:473911:por
+  label: Rectificado o presente diploma pela DECL.DD6951.13.05.1980.PCM, DR.IS [110] de 13.05.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-473911
+  date: '1980-05-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:59:29Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +123,7 @@ Nestes casos não haverá concessão de subsídio a fundo perdido, referido na a
 
 9 - Os agregados familiares dos mutuários dos empréstimos a conceder pelo FFH ao abrigo da alínea c) do artigo 3.º do [Decreto-Lei n.º 704/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/704-1976-408927) não poderão ter rendimentos ilíquidos que excedam os indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/04/09100/07790780.pdf))](https://files.diariodarepublica.pt/1s/1980/04/09100/07790780.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/04/09100/07790780.pdf)
 
 10.1 - Os empréstimos referidos no número anterior serão concedidos nas seguintes condições:
 
@@ -147,14 +163,14 @@ TABELA I
 
 Amortização mensal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/04/09100/07790780.pdf))](https://files.diariodarepublica.pt/1s/1980/04/09100/07790780.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/04/09100/07790780.pdf)
 
 TABELA II
 
 Prestações mensais para amortização de 100000$00, num período de tempo variável de um a doze anos, à taxa de juro de 7,5% ao ano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/04/09100/07790780.pdf))](https://files.diariodarepublica.pt/1s/1980/04/09100/07790780.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/04/09100/07790780.pdf)
 
 Nota. - Para qualquer montante diferente de 100000$00, multiplicar pelo múltiplo ou submúltiplo de 100000$00.
 
-**O Secretário de Estado da Habitação e Urbanismo, Casimiro António Pires.**
+O Secretário de Estado da Habitação e Urbanismo, Casimiro António Pires.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23472-1968-272802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12664b8d94d02a90833c0bb11b2629639eaca50b9d90293aec7445a2ec859722
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c3b0616aa7214624064d11c582cbfab1bbcea478e0b1c6f2b83e6a11d5f87d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:271226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693236:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:43Z'
   warnings: []
   errors: []
 ---
@@ -89,18 +97,18 @@ Ministério das Finanças, 10 de Julho de 1968. - O Ministro das Finanças, Ulis
 
 MAPA DOS QUADROS DO PESSOAL DA DIRECÇÃO-GERAL DAS CONTRIBUIÇÕES E IMPOSTOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/07/16200/09770984.pdf))](https://files.diariodarepublica.pt/1s/1968/07/16200/09770984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/07/16200/09770984.pdf)
 
 QUADRO DO PESSOAL DA DIRECÇÃO-GERAL EM SERVIÇO NO MINISTÉRIO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/07/16200/09770984.pdf))](https://files.diariodarepublica.pt/1s/1968/07/16200/09770984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/07/16200/09770984.pdf)
 
 QUADRO DO PESSOAL DAS DIRECÇÕES DE FINANÇAS DISTRITAIS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/07/16200/09770984.pdf))](https://files.diariodarepublica.pt/1s/1968/07/16200/09770984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/07/16200/09770984.pdf)
 
 QUADRO DO PESSOAL DAS REPARTIÇÕES DE FINANÇAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/07/16200/09770984.pdf))](https://files.diariodarepublica.pt/1s/1968/07/16200/09770984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/07/16200/09770984.pdf)
 
 Ministério das Finanças, 10 de Julho de 1968. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês.

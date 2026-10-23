@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/14/2000/02/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2000-414404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:17:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eef74681b7d6b527d3c3a63bc7745718f9b6eb852a6dfebefcf72c4bb1069958
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fdcedb1e0055fda98ea1d84f3c60f9c8d3e01f2d4b2f5ad263093708464f61e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro Nacional de Pensões
-- Sistema Retributivo
-- Recrutamento de Pessoal
 - Orgânica
 - Pessoal Administrativo
+- Recrutamento de Pessoal
 - Reestruturação de Carreiras
 - Remuneração
+- Sistema Retributivo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
@@ -87,16 +87,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523408:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:17:19Z'
   warnings: []
   errors: []
 ---
@@ -141,12 +153,12 @@ O presente diploma produz efeitos nos termos e com as limitações do disposto n
 
 Visto e aprovado em Conselho de Ministros de 13 de Janeiro de 2000. - António Manuel de Oliveira Guterres - António do Pranto Nogueira Leite - Eduardo Luís Barreto Ferro Rodrigues - Alberto de Sousa Martins.
 
-**Promulgado em 4 de Fevereiro.**
+Promulgado em 4 de Fevereiro.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Fevereiro de 2000.**
+Referendado em 10 de Fevereiro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

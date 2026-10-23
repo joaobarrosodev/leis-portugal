@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/36-1971-446714
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 957b96eff13834589a9ec0bcd50eae987e8f3a7afc8f8e4a51b496e7e91ec7a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61f12ebc679f1b2de3cfdd0405901b37bb574329da5778e22f195e96cf5df595
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:02Z'
   warnings: []
   errors: []
 ---
@@ -89,19 +93,19 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, nos 
 
 Despesas com o material:
 
-###### Artigo 5.º, n.º 3) «Despesas de conservação e aproveitamento do material - De móveis» ... 800$00
+Artigo 5.º, n.º 3) «Despesas de conservação e aproveitamento do material - De móveis» ... 800$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 7.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... 5000$00
+Artigo 7.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... 5000$00
 
-###### Artigo 7.º, n.º 3) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 5000$00
+Artigo 7.º, n.º 3) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 5000$00
 
-###### Artigo 8.º, n.º 1) «Despesas de comunicações - Correios e telégrafos» ... 2000$00
+Artigo 8.º, n.º 1) «Despesas de comunicações - Correios e telégrafos» ... 2000$00
 
-###### Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal» ... 2500$00
+Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal» ... 2500$00
 
-###### Artigo 10.º, n.º 2) «Encargos administrativos - Pagamento de serviços e encargos não especificados» ... 1200$00
+Artigo 10.º, n.º 2) «Encargos administrativos - Pagamento de serviços e encargos não especificados» ... 1200$00
 
 ... 16500$00
 
@@ -109,8 +113,8 @@ tomando como contrapartida a seguinte disponibilidade existente na mesma tabela 
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 9.º, n.º 1) «Encargos das instalações - Rendas de prédios rústicos e urbanos» ... 16500$00
+Artigo 9.º, n.º 1) «Encargos das instalações - Rendas de prédios rústicos e urbanos» ... 16500$00
 
-**O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.**
+O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.
 
 Para ser publicada no Boletim Oficial de S. Tomé e Príncipe. - J. da Silva Cunha.

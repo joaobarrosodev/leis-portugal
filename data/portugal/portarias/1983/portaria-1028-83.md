@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/12/28200/40004000.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1028-1983-443152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T07:30:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f9c1d0f86f6cd58667dc0a5ca71945772286417f63f9b956627cb0c3841b74e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57d91268ee5c227fdb84cc558492cf3cde75b080b744148882b7b3bdd03e2949
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:30:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento de Bebidas
+- Política de Preços
+- Preço
+- Preço Livre
 relationships:
 - type: amended_by
   target: pt:dre:273873:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:660724:por
+  label: "Alterados os n.ºs 3.º e 4.º pela PORT.80/84.03.02.1984.MCT, DR.IS [29] de 03.02.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/80-1984-660724
+  date: '1984-02-03'
+- type: cites
+  target: pt:dre:235350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:494215:por
+  label: "Revogado o n.º 4.º (na redacção da Portaria 80/84, de 3 de Fevereiro) pela PORT.1082-A/90.1990.10.25.MCT DR.IS [247]Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1082-a-1990-494215
+  date: '1990-10-25'
+- type: repealed_by
+  target: pt:dre:273873:por
+  label: "Revogada pela PORT.262/2000.2000.05.13.MECO, DR.IS-B [111] de 13/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/262-2000-273873
+  date: '2000-05-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:30:46Z'
   warnings: []
   errors: []
 ---
@@ -120,16 +172,16 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comérci
 
 Secretaria de Estado do Comércio Interno.
 
-**Assinada em 18 de Novembro de 1983.**
+Assinada em 18 de Novembro de 1983.
 
-**O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.**
+O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.
 
 QUADRO I
 
 Estabelecimentos a que se aplicam os n.os 2.º e 4.º (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/12/28200/40004000.pdf))](https://files.diariodarepublica.pt/1s/1983/12/28200/40004000.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/28200/40004000.pdf)
 
 (nota a) Nos estabelecimentos em que funcionam unidades de diferente classificação serão aplicadas as disposições que correspondam à classificação ou categoria de cada uma dessas unidades.
 
-**O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.**
+O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.

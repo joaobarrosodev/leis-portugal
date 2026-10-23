@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/95/2012/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2012-552805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 537ae199835b21290fedb0f9e3df8ad4d4dd23b08526851cc532a1532a613a87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e50e143496d75ac52930c6d1c496dcd68d98660ea5fe8333d87e68e9e487e49c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,35 +67,59 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Acreditação
-- Atividade Industrial
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
+- Atividade Industrial
 - Auditoria
-- Multa
 - Contra-ordenação
 - Definição de Competências
 - Direção Geral das Atividades Económicas
 - Estabelecimento Industrial
 - Fiscalização
+- IAPMEI
 - Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
 - Instituto Português de Acreditação
-- Proteção do Ambiente
-- Política do Ambiente
-- Poluição Industrial
 - Internet
 - Madeira.região Autónoma
+- Multa
+- Política do Ambiente
+- Poluição Industrial
+- Proteção do Ambiente
 - Regulamento CE
-- Açores
-- IAPMEI
 - Taxa
 - TAXA de Prestação de Serviços
 - Verificador Ambiental
-- Agência Portuguesa do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:185224662:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Atualizadas as taxas previstas no art. 13.º do presente diploma, pelo(a) Lei n.º 71/2018 - Diário da República n.º
+    251/2018, Série I de 2018-12-31 nos termos do seu art. 245.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:130893436:por
+  label: Atualizadas as taxas previstas no art. 13.º do presente diploma pelo(a) Lei n.º 2/2020 - Diário da República n.º
+    64/2020, Série I de 2020-03-31 nos termos do seu art. 299.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2020-130893436
+  date: '2020-03-31'
+- type: amended_by
+  target: pt:dre:152639825:por
+  label: Atualizadas, as taxas previstas no art. 13.º do presente diploma, pelo(a) Lei n.º 75-B/2020 - Diário da República
+    n.º 253/2020, 1º Suplemento, Série I de 2020-12-31, nos termos do seu art. 319.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-b-2020-152639825
+  date: '2020-12-31'
+- type: amended_by
+  target: pt:dre:185224662:por
+  label: Atualizadas, em 2022, as taxas previstas no art. 13.º pelo(a) Lei n.º 12/2022 - Diário da República n.º 122/2022,
+    Série I de 2022-06-27 nos termos do art. 241.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2022-185224662
+  date: '2022-06-27'
 - type: cites
   target: celex:32001R0761
   label: null
@@ -111,13 +135,13 @@ relationships:
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:15Z'
   warnings: []
   errors: []
 ---
@@ -312,12 +336,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de março de 2012. - Pedro Passos Coelho - Paulo de Sacadura Cabral Portas - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 13 de abril de 2012.**
+Promulgado em 13 de abril de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de abril de 2012.**
+Referendado em 16 de abril de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

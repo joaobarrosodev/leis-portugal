@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/05/09700/0287102879.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/82/2008/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2008-249242
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68f767025d1404e1636e3f959cdd0058f29cd77ea6944053a0321d29b58f89d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c64cde52931d839e7118ca8f2c34cbef868eb022552189d226723a21069b196
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- ASAE
 - Contrato à Distância
 - Contrato de Prestação de Serviços
 - Definição de Competências
 - Direção Geral das Atividades Económicas
 - Fiscalização
+- Habitação
 - Pagamento
-- ASAE
 - Prestação de Serviços
 - Proteção do Consumidor
-- Habitação
 - Transporte
 relationships:
 - type: cites
@@ -86,15 +86,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1997/7/oj
 article_structure:
-  article_count: 54
+  article_count: 42
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:32Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +127,9 @@ Os artigos 1.º, 6.º, 8.º, 9.º, 14.º, 15.º, 18.º, 19.º, 25.º, 31.º, 32.
 
 Disposições gerais
 
-###### Artigo 1.º — Objecto e âmbito de aplicação
+Artigo 1.º
+
+Objecto e âmbito de aplicação
 
 1 - ...
 
@@ -135,7 +137,9 @@ Disposições gerais
 
 3 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -155,7 +159,9 @@ d) (Revogada.)
 
 5 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -165,7 +171,9 @@ d) (Revogada.)
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -177,7 +185,9 @@ d) (Revogada.)
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 ...
 
@@ -189,7 +199,9 @@ c) ...
 
 d) Serviços e actividades de investimento em instrumentos financeiros.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -197,7 +209,9 @@ d) Serviços e actividades de investimento em instrumentos financeiros.
 
 3 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O consumidor pode resolver o contrato no prazo de 14 dias, a contar da data da sua assinatura, ou do início da prestação de serviços ou da entrega do bem, caso estas datas sejam posteriores à assinatura do contrato.
 
@@ -209,7 +223,9 @@ d) Serviços e actividades de investimento em instrumentos financeiros.
 
 5 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -219,17 +235,23 @@ d) Serviços e actividades de investimento em instrumentos financeiros.
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - As vendas especiais esporádicas ficam sujeitas a comunicação prévia à ASAE.
 
 2 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 Compete à ASAE a fiscalização do cumprimento do disposto no presente decreto-lei.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -249,7 +271,9 @@ c) De (euro) 3500 a (euro) 35 000, as infracções ao disposto nos artigos 26.º
 
 3 - A tentativa e a negligência são puníveis, sendo os limites mínimo e máximo da coima aplicável reduzidos a metade.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - A competência para a instrução dos processos de contra-ordenação cabe à ASAE.
 
@@ -277,15 +301,15 @@ O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Março de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - João Tiago Valente Almeida da Silveira - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 5 de Maio de 2008.**
+Promulgado em 5 de Maio de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Maio de 2008.**
+Referendado em 6 de Maio de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 143/2001, de 26 de Abril
 

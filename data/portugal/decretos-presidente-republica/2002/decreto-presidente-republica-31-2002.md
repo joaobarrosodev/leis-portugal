@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/31/2002/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/31-2002-197084
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T04:41:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b9bf47adbf6358a2743b1bf59b06e590e89f128a3c7d3bc66e8a069e02a2e00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1dc76190f504cc94c3b1612f3916dfa65abf9217f1f3deb9fc04b06d18d6d473
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:41:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,28 @@ reuse:
 subjects:
 - Combate ao Terrorismo
 - Convenção
-- Portugal
 - Nova Iorque
+- Portugal
 - Terrorismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/51/2002/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/51/2002/08/02/p/dre
+- type: cites
+  target: pt:dre:197085:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:41:35Z'
   warnings: []
   errors: []
 ---
@@ -94,16 +98,16 @@ validation:
 
 de 2 de Agosto
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificada a Convenção Internacional para a Eliminação do Financiamento do Terrorismo, adoptada em Nova Iorque em 9 de Dezembro de 1999, aprovada, para ratificação, pela [Resolução da Assembleia da República n.º 51/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/51-2002-197085) em 27 de Junho de 2002.
 
-**Assinado em 22 de Julho de 2002.**
+Assinado em 22 de Julho de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Julho de 2002.**
+Referendado em 24 de Julho de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14400/23002300.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/148-1983-452509
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T07:23:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 112f934bfbbb9bf531a5c6eb28ebc2e6fba7c8a418aa54f475f0cf4280d6c56b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e0b0a8e4b5816dc0b5424c5089fee03ad7ba343e782e9d1f8a8aabce89ee35d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:23:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armazenagem
+- Comércio
+- Direcção Geral do Comércio
+- Licenciamento
 relationships:
 - type: amended_by
   target: pt:dre:550396:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:299014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394487:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DESPACHO NORMATIVO NUMERO 109/89, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 287, DE 891215.\0\
+    91215.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:550396:por
+  label: "Revogado o presente diploma, pelo DN.109/89.15.12.1989.MCT, DR.IS [287] de 15.12.1989\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/109-1989-550396
+  date: '1989-12-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:23:26Z'
   warnings: []
   errors: []
 ---

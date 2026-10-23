@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13900/0001300016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/58/2023/07/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2023-215874580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: daf791af617792f2d970223d394fb40025d2aaceb61e01b1573603ccf91f2f70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8568b153e671e2c141d95821519b2acbd95054b284cfb3aeb538938c50a7eed6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
-- Incêndio
-- Prevenção de Incêndios
-- Catálogo Nacional de Qualificações
-- Formação Profissional
-- Regulamentação de Atos Legislativos
-- Instituto da Conservação da Natureza e das Florestas
-- Serviço Público
-- Exploração Florestal
-- Regime Jurídico
-- Sapador Florestal
 - Autoridade Nacional de Protecção Civil
+- Catálogo Nacional de Qualificações
+- Exploração Florestal
+- Formação Profissional
+- Incêndio
+- Instituto da Conservação da Natureza e das Florestas
 - Plano Nacional de Gestão Integrada de Fogos Rurais
+- Prevenção de Incêndios
+- Proteção Civil
+- Regime Jurídico
+- Regulamentação de Atos Legislativos
+- Sapador Florestal
+- Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:907934880:por
@@ -96,16 +96,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+- type: cites
+  target: pt:dre:105727475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138571583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:23Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +160,9 @@ Os artigos 1.º, 2.º, 4.º 6.º, 8.º, 16.º, 17.º, 18.º e 19.º do [Decreto-
 
 2 - [...]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 [...]
 
@@ -182,7 +196,9 @@ n) [...]
 
 o) [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A qualificação profissional de sapador florestal é obtida após conclusão com aproveitamento das unidades de competência (UC) e ou unidades de formação de curta duração (UFCD) da qualificação de Sapador Florestal inserida no Catálogo Nacional de Qualificações, que conferem as competências necessárias ao exercício das funções definidas no artigo anterior e ministradas por entidade formadora acreditada e reconhecida pelo ICNF, I. P., que integre a rede de entidades formadoras no âmbito do Sistema Nacional de Qualificações (SNQ) e respeitando o Plano Nacional de Qualificações do Sistema de Gestão Integrada de Fogos Rurais.
 
@@ -204,7 +220,9 @@ o) [...]
 
 10 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -218,7 +236,9 @@ o) [...]
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -232,7 +252,9 @@ o) [...]
 
 6 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -258,7 +280,9 @@ o) [...]
 
 12 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -272,7 +296,9 @@ o) [...]
 
 6 - [...]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 [...]
 
@@ -298,7 +324,9 @@ j) [...]
 
 k) [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - O Estado concede apoio financeiro para formação profissional, aquisição de equipamento e funcionamento das equipas de sapadores florestais, preferencialmente através do Fundo Ambiental.
 
@@ -320,12 +348,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de junho de 2023. - Mariana Guimarães Vieira da Silva - Patrícia Alexandra Costa Gaspar - Nuno Miguel Bernardes Coelho Santos Félix - João Miguel Marques da Costa - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - José Duarte Piteira Rica Silvestre Cordeiro - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
 
-**Promulgado em 12 de julho de 2023.**
+Promulgado em 12 de julho de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de julho de 2023.**
+Referendado em 12 de julho de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+116670832

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15200/0541605416.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/90/2015/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/90-2015-69956136
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T05:24:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1a8b2fff9eeb80867ac27fface66045a041e894bf193bd1b47c0773cd74985e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 481a5e08d8762bac1a1401c8fb8dbb846aac664b41f47fdb212605b7ed6d6eb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:24:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Estatuto
-- Cooperação Internacional
 - Bruxelas
+- Convenção
+- Cooperação Internacional
+- Estatuto
+- Portugal
 - Tribunal Unificado de Patentes
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/108/2015/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/108/2015/08/06/p/dre
+- type: cites
+  target: pt:dre:69956137:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:24:34Z'
   warnings: []
   errors: []
 ---
@@ -94,16 +98,16 @@ validation:
 
 de 6 de agosto
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo Relativo ao Tribunal Unificado de Patentes, assinado em Bruxelas, em 19 de fevereiro de 2013, aprovado pela [Resolução da Assembleia da República n.º 108/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/108-2015-69956137), em 10 de abril de 2015.
 
-**Assinado em 30 de julho de 2015.**
+Assinado em 30 de julho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de julho de 2015.**
+Referendado em 31 de julho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

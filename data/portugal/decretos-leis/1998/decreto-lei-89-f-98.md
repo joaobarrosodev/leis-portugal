@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 86/1998, 1º Suplemento, Série I-A de 1998-04-13
   number: '86'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1588-(4) a 1588-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/086a01/00040006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/89-f/1998/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-f-1998-314459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 118bbbfa848048b3b9bf07b930cb5552eef4219942ae414507027afd09e619cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55944d4d96e388c664001fafd62bf6e779b62a29534ff11193dee7714a897e81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
 - Administração Pública
-- Carreira Profissional
 - Caixa Geral de Aposentações
-- Macau
-- Governador de Macau
-- Integração de Trabalhadores
+- Carreira Profissional
+- Definição de Competências
 - Direcção Geral da Administração Pública
 - Funcionário Público
+- Governador de Macau
+- Integração de Trabalhadores
+- Macau
 relationships:
 - type: amended_by
   target: pt:dre:545575:por
@@ -88,16 +88,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/357/1993/10/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/357/1993/10/14/p/dre
+- type: cites
+  target: pt:dre:533395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668323:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:545575:por
+  label: "Revogado, no que se refere ao quadro de afectação e ao regime aplicável ao respectivo pessoal, pela LEI.53/2006.07.12.2006.AR,\
+    \ DR.IS [235] de 07.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-2006-545575
+  date: '2006-12-07'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:59Z'
   warnings: []
   errors: []
 ---
@@ -244,12 +258,12 @@ Visto e aprovado em Conselho de Ministros de 11 de Março de 1998. - António Ma
 
 Para publicar no Boletim Oficial de Macau.
 
-**Promulgado em 2 de Abril de 1998.**
+Promulgado em 2 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Abril de 1998.**
+Referendado em 6 de Abril de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

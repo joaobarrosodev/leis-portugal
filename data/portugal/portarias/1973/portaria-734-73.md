@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/734-1973-412375
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:13:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 663d90384136d4c059f503a80e6d0691053f6671d1551594ecf1fcf6f54eac51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75ce8e0b62ab48d3420a59344a4677f8dd4f0109df88cb5b83d912644b6d424e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:13:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:165988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644537:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:13:43Z'
   warnings: []
   errors: []
 ---
@@ -648,7 +660,7 @@ As direcções podem premiar sugestões e trabalhos especiais de interesse para 
 
 1. Constitui infracção disciplinar todo o acto ou omissão, contrários aos deveres profissionais do empregado, que envolvam culpa ou negligência da sua
 
-# parte.
+parte.
 
 2. A violação de deveres profissionais é punível, independentemente de ter produzido resultado perturbador do serviço ou outro qualquer prejuízo.
 
@@ -804,7 +816,7 @@ Nos organismos incluídos no grupo C o pagamento do subsídio a que se refere o 
 
 A) Escriturários:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/24900/19671980.pdf))](https://files.diariodarepublica.pt/1s/1973/10/24900/19671980.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/24900/19671980.pdf)
 
 1. Havendo quatro ou mais escriturários, o quadro será organizado de acordo com as seguintes densidades:
 
@@ -818,11 +830,11 @@ c) 40% de terceiros-escriturários.
 
 B) Cobradores, fiéis, contínuos e porteiros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/24900/19671980.pdf))](https://files.diariodarepublica.pt/1s/1973/10/24900/19671980.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/24900/19671980.pdf)
 
 ## ANEXO II — Tabela de remunerações mínimas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/24900/19671980.pdf))](https://files.diariodarepublica.pt/1s/1973/10/24900/19671980.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/24900/19671980.pdf)
 
 ## ANEXO III — Valor mínimo dos subsídios de chefia e para falhas
 
@@ -848,7 +860,7 @@ I
 
 1. Os empregados, quando ausentes, por motivo de serviço, dos locais onde exerçam normalmente a sua actividade, têm direito ao abono diário de ajudas de custo, de harmonia com a tabela seguinte, em função das suas categorias e das localidades para onde se desloquem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/24900/19671980.pdf))](https://files.diariodarepublica.pt/1s/1973/10/24900/19671980.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/24900/19671980.pdf)
 
 2. Só são devidas ajudas de custo pelas deslocações além de 5 km da periferia das localidades onde os empregados exerçam normalmente a sua actividade.
 
@@ -858,7 +870,7 @@ II
 
 2. Pelas deslocações de serviço dentro de um período de vinte e quatro horas abonar-se-ão as percentagens seguintes de ajudas de custo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/24900/19671980.pdf))](https://files.diariodarepublica.pt/1s/1973/10/24900/19671980.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/24900/19671980.pdf)
 
 3. Nas deslocações por dias sucessivos aplicam-se as percentagens referidas no número anterior nos dias da partida e do regresso, com as particularidades seguintes:
 

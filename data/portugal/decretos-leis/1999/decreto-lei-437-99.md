@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/437/1999/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1999-692186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:12:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83e6bf817876712d8e6d9283c6965fb7b46ed01fa33b65390955f58853fc171a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e9d1c44c6b7eae92f28c0a326adecea9c7b4549152c95b0ede62fd0362ea25b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:12:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,6 +77,13 @@ relationships:
   target: pt:dre:158316443:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:240378:por
+  label: "Suspensa a vigência das normas constantes do n.º 2 do art. 23.º, do n.º 2 do art. 26.º e dos n.ºs 1 a 4 do art.\
+    \ 38.º-A do Dec Lei 329/93, de 25-Set, na redacção dada pelo presente diploma, pelo DEC LEI.125/2005.03.08.2005.MTSSO,\
+    \ DR.IS-A [148] de 03.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2005-240378
+  date: '2005-08-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/329/1993/09/25/p/dre
   label: null
@@ -97,16 +104,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/800/1998/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/800/1998/09/22/p/dre
+- type: cites
+  target: pt:dre:222049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278032:por
+  label: "Revogado o art. 106º do Dec Lei 329/93, de 25-Set, na redacção do presente diploma, pelo DEC LEI.35/2002.2002.02.19.MTS,\
+    \ DR.IS-A [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2002-278032
+  date: '2002-02-19'
+- type: repealed_by
+  target: pt:dre:520669:por
+  label: "Revogado, sem prejuízo do previsto no nº 4 do art. 104º, o Dec Lei 329/93 de 25-Set, na redacção do presente diploma,\
+    \ pelo DEC LEI.187/2007.10.05.2007.MTSSO, DR.IS [90] de 10.05.2007, a partir de 01.06.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/187-2007-520669
+  date: '2007-05-10'
 article_structure:
-  article_count: 11
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:12:47Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +188,9 @@ Os artigos 23.º, 38.º-B, 43.º, 44.º e 106.º do [Decreto-Lei n.º 329/93](ht
 
 4 - O direito de requerer a pensão de velhice em idade superior a 65 anos não depende da verificação de condições especiais.
 
-###### Artigo 38.º-B — [...]
+Artigo 38.º-B
+
+[...]
 
 1 - O montante da pensão estatutária de velhice atribuída a beneficiário de idade superior a 65 anos e que, à data em que requeira a pensão, tenha completado 40 anos civis com registo de remunerações no âmbito do regime geral é calculado nos termos gerais e bonificado pela aplicação do factor definido no número seguinte.
 
@@ -155,7 +200,9 @@ Os artigos 23.º, 38.º-B, 43.º, 44.º e 106.º do [Decreto-Lei n.º 329/93](ht
 
 4 - ...
 
-###### Artigo 43.º — Garantia do valor mínimo
+Artigo 43.º
+
+Garantia do valor mínimo
 
 1 - Aos pensionistas de invalidez e velhice do regime geral é garantido um valor mínimo de pensão variável em função do disposto nos números seguintes.
 
@@ -167,13 +214,17 @@ Os artigos 23.º, 38.º-B, 43.º, 44.º e 106.º do [Decreto-Lei n.º 329/93](ht
 
 5 - Os valores previstos nos n.os 2 e 3 não são aplicáveis às pensões antecipadas atribuídas ao abrigo do regime de flexibilização da idade de pensão por velhice, previsto na alínea a) do n.º 2 do artigo 22.º
 
-###### Artigo 44.º — Atribuição do complemento social
+Artigo 44.º
+
+Atribuição do complemento social
 
 1 - No caso de a pensão, calculada nos termos gerais ser de montante inferior aos valores garantidos de acordo com o disposto nos n.os 2 e 3 do artigo anterior, acresce ao respectivo montante uma prestação, designada «complemento social», cujo valor corresponde à diferença entre o valor garantido e a pensão do regime geral.
 
 2 - Quando estiver em causa a atribuição de pensão proporcional ou pensão antecipada por força da aplicação do regime de flexibilização da idade de pensão por velhice e os respectivos montantes forem inferiores ao valor da pensão social, o montante do complemento social de pensão corresponde à diferença entre o montante da pensão social e o da pensão do regime geral.
 
-###### Artigo 106.º — [...]
+Artigo 106.º
+
+[...]
 
 Os índices da revalorização da base de cálculo referidos no artigo 34.º são aplicáveis até 31 de Dezembro de 2001.»
 
@@ -217,12 +268,12 @@ Sem prejuízo do disposto no artigo 3.º, o presente diploma produz efeitos a pa
 
 Visto e aprovado em Conselho de Ministros de 16 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 12 de Outubro de 1999.**
+Promulgado em 12 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Outubro de 1999.**
+Referendado em 21 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/71-1977-141273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T05:29:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 092082048b20451fbf118ac526820f2979652ad0d4c032129f181ebab585106c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 726f11d8fa7bee8abe984ff8dcc31514fa7523d99dfcd8f5f4861f9d35f1cd04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:29:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Inscrição Marítima
+- Pesca
+- Regulamento
+- Tráfego Marítimo
+relationships:
+- type: cites
+  target: pt:dre:335771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:530841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582779:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:29:14Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +113,7 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado das Pesca
 
 1 - É acrescentado ao Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo [Decreto n.º 45696](https://diariodarepublica.pt/dr/detalhe/decreto/45696-1964-582779), de 15 de Outubro de 1964, o artigo 248.º-A, com a seguinte redacção:
 
-###### Art. 248.º-A. Para efeitos de aplicação dos artigos 246.º, 247.º e 248.º, são equiparados a nacionais os indivíduos nascidos nas ex-colónias, quando ainda sob administração portuguesa, que se tenham inscrito como marítimos e exercido funções, como tal, em data anterior à sua independência.
+Art. 248.º-A. Para efeitos de aplicação dos artigos 246.º, 247.º e 248.º, são equiparados a nacionais os indivíduos nascidos nas ex-colónias, quando ainda sob administração portuguesa, que se tenham inscrito como marítimos e exercido funções, como tal, em data anterior à sua independência.
 
 2 - O disposto na presente portaria vigorará pelo período de dois anos, a contar da data da independência respectiva, podendo no decurso desse período os marítimos abrangidos pelo artigo 248.º-A, se lhes for conferida a nacionalidade portuguesa, promover, nos termos legais, a transferência da sua inscrição marítima para capitania ou delegação marítima portuguesa ou, nos casos em que originariamente tiverem sido inscritos em capitania ou delegação marítima do continente ou ilhas adjacentes, regularizar a sua situação junto dessas mesmas repartições marítimas, sob pena de deixarem de beneficiar do regime do artigo citado.
 

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 116/1984, 1º Suplemento, Série I de 1984-05-19
   number: '116'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1628-(9) a 1628-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/11601/00090009.pdf
 entry_into_force_dates: []
@@ -48,36 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/103-1984-660550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T07:27:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e68a7b5788ea0038188617a22957d856559d7bd64d431809ae6fab6b7a80f7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e6ee6c6a1c9e27cc5b7de2658ab7bdc0df2c5314afe5108b1184ccfe993d199
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:27:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Preço
+- Preço Máximo
+relationships:
+- type: cites
+  target: pt:dre:605807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656378:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:27:13Z'
   warnings: []
   errors: []
 ---
@@ -88,13 +102,13 @@ Ao abrigo do disposto no artigo 19.º do [Decreto-Lei n.º 70/78](https://diario
 
 1.º - 1 - Os preços máximos de venda ao público de pão de 1.ª qualidade e de 2.ª qualidade nos locais mencionados no artigo 1.º do Regulamento do Comércio do Pão e Produtos Afins, aprovado pelo [Decreto-Lei n.º 302/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1972-605807), de 14 de Agosto, com exclusão do domicílio, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/11601/00090009.pdf))](https://files.diariodarepublica.pt/1s/1984/05/11601/00090009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/11601/00090009.pdf)
 
 2 - Na venda de um número ímpar de unidades de 45 g, uma das unidades será vendida ao preço de 3$50.
 
 2.º Os preços máximos de venda ao domicílio de pão de 1.ª qualidade e de 2.ª qualidade são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/11601/00090009.pdf))](https://files.diariodarepublica.pt/1s/1984/05/11601/00090009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/11601/00090009.pdf)
 
 3.º Mantêm-se livres os preços de venda de pão de farinha de trigo em rama e de pão de mistura.
 

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/14600/18601861.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/107-1982-395331
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T07:15:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4659f83c8f84ed0a0a81bd42a252ff1af9dd9af7278ae179e17224beca6bf0f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70862c9d3a737667920abe9bb385abc981115dbd93b0948f85904ce2318ea63c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:15:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Indústria Hoteleira
+- Investimento
+- Sistema de Incentivos ao Investimento Turístico
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:454870:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:307812:por
+  label: "Prorrogados até 30 de Junho de 1983 os critérios e requisitos mínimos fixados neste diploma, pelo DN.19/83.1982.12.30.PCM\
+    \ DR.IS [17] de 21/Jan/1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/19-1983-307812
+  date: '1982-12-30'
+- type: cites
+  target: pt:dre:217109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522612:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:394086:por
+  label: Rectificado pela DECL.DD6143.14.07.1982.PCM, DR.IS [168] de 23.07.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-394086
+  date: '1982-07-14'
+- type: repealed_by
+  target: pt:dre:454870:por
+  label: Revogado pelo(a) Despacho Normativo n.º 165/83 - Diário da República n.º 183/1983, Série I de 1983-08-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/165-1983-454870
+  date: '1983-08-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:15:44Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +176,7 @@ Estabelecimentos hoteleiros
 
 (Graus de relevância)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14600/18601861.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14600/18601861.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14600/18601861.pdf)
 
 Notas
 
@@ -148,7 +188,7 @@ Estabelecimentos similares dos hoteleiros inseridos ou não em conjuntos
 
 (Graus de relevância)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14600/18601861.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14600/18601861.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14600/18601861.pdf)
 
 Nota. - Fora dos conjuntos turísticos apenas serão considerados os restaurantes ou similares com serviço dominante de restaurante.
 
@@ -156,8 +196,8 @@ QUADRO III
 
 Parques de campismo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14600/18601861.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14600/18601861.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14600/18601861.pdf)
 
 Localização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14600/18601861.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14600/18601861.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14600/18601861.pdf)

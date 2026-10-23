@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/10/19400/0560705608.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/128/2017/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2017-108265123
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c84b47672dbe352da2cda668409e7bf16f5d455333e438ec510b0d88a4d1e272
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dfc50c84d12b71cfc4b94aad8d79eaef5a7e607d60698d4479777a17d327fb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Cartão de Identificação
-- Deficiente das Forças Armadas
+- Deficiente
 - Deficiente Auditivo
+- Deficiente das Forças Armadas
+- Deficiente Mental
 - Deficiente Motor
 - Deficiente Visual
 - Definição de Competências
 - Estacionamento
 - Proteção ao Deficiente
-- Deficiente Mental
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/17/2011/01/27/p/dre
@@ -108,16 +108,44 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/1998/376/oj
   label: null
   source: http://data.europa.eu/eli/reco/1998/376/oj
+- type: cites
+  target: pt:dre:107648316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491686:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:38Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +192,9 @@ c) A pessoa com deficiência visual, com uma alteração permanente no domínio 
 
 2 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -182,12 +212,12 @@ O presente decreto-lei entra em vigor no dia seguinte à data da sua publicaçã
 
 Visto e aprovado em Conselho de Ministros de 10 de agosto de 2017. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Maria Constança Dias Urbano de Sousa - José António Fonseca Vieira da Silva - Fernando Manuel Ferreira Araújo - Ângelo Nelson Rosário de Souza.
 
-**Promulgado em 29 de setembro de 2017.**
+Promulgado em 29 de setembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de outubro de 2017.**
+Referendado em 3 de outubro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/139-1970-228382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8596148faf2c921d298a731a42186edb318a9ac5ba4428df63ac4d0da1d2ae5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7d18d8241ea934adb96c6c3752559f27b87df0302afee4197fb92a1beb90976
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,20 @@ relationships:
   target: pt:dre:148838:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:590162:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:59Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +96,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo do
 
 Ministério da Marinha, 10 de Março de 1970. - O Ministro da Marinha, Manuel Pereira Crespo.
 
-## Anexo a que se refere a Portaria n.º 139/70, de 10 de Março de 1970
+Anexo a que se refere a Portaria n.º 139/70, de 10 de Março de 1970
 
 Corvetas da classe «João Coutinho»
 

@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/679-1973-413051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T04:12:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0cece42ab223375927c9c9a0ff250c76564068c91d15eccd5018ea4d7cd392ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac10369431d95c3362fb5f804376edc35189a02995f6bb8cd2e4189eb3d08b92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:12:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Construção Civil
+- Licenciamento
+- Loteamento Urbano
 relationships:
 - type: amended_by
   target: pt:dre:395881:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:395881:por
+  label: "Acrescentada a al. f) ao nº 1 pela PORT.598/82.1982.06.17.MHOPT, DR.IS [137]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/598-1982-395881
+  date: '1982-06-17'
+- type: cites
+  target: pt:dre:413057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422822:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:12:27Z'
   warnings: []
   errors: []
 ---

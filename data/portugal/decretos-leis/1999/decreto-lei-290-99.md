@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/290/1999/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1999-346358
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb2820efeb2e7ea20a031e27e10f9aa79aa7cb65db8b5b5a023b167cf16dfd2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6c65176b4d9ad4f38241202f5f801982a74cc4595dfe449bc11c7a1f8cbc449
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,71 +73,69 @@ subjects:
 - Almeirim
 - Amarante
 - Apoio Administrativo
-- Jurisdição
-- Vila Franca de Xira
+- ÁREA de Jurisdição
 - Barcelos
 - Barreiro
 - Bombarral
 - Braga
-- Ordem dos Advogados
+- Cascais
 - Círculo Judicial
-- Procurador Geral da República
+- Coimbra
 - Competência Jurisdicional
+- Conselho dos Oficiais de Justiça
 - Conselho Superior da Magistratura
 - Criação de Lugares
 - Definição de Competências
 - Direcção Geral dos Serviços Judiciários
+- Évora
 - Faro
 - Feriado
 - Férias Judiciais
-- Lisboa
-- Pessoal de Justiça
-- Oficial de Justiça
-- Secretaria Geral
-- Tribunal do Trabalho
+- Funchal
 - Gabinete de Gestão Financeira
-- Ministério da Justiça
-- Remuneração Acessória
 - Guimarães
 - Horário de Funcionamento
 - Informatização
 - Instalação de Serviços
 - Integração de Trabalhadores
 - Julgamento
-- ÁREA de Jurisdição
+- Jurisdição
 - Lagoa
 - Leiria
+- Lisboa
 - Loures
 - Lousada
 - Magistrado do Ministério Público
 - Magistrado Judicial
 - Mangualde
 - Mealhada
-- Conselho dos Oficiais de Justiça
+- Ministério da Justiça
+- Ministério Público
 - MIRA
 - Mirandela
 - Moita
+- Oeiras
+- Oficial de Justiça
 - Oliveira de Azeméis
+- Ordem dos Advogados
 - Orgânica
+- Organização Judiciária
 - Paços de Ferreira
 - Paredes
 - Penafiel
-- Setúbal
-- Funchal
-- VILA do Conde
-- Vila Real
+- Pessoal de Justiça
 - Pombal
-- Coimbra
 - Portalegre
 - Portimão
+- Porto
 - Póvoa de Varzim
 - Presidente
-- Supremo Tribunal de Justiça
-- Procurador Geral Adjunto
 - Procurador da República
+- Procurador Geral Adjunto
+- Procurador Geral da República
 - Regime de Exclusividade
-- Ministério Público
 - Remuneração
+- Remuneração Acessória
 - Ribeira Grande
 - Santa Comba DÃO
 - Santa CRUZ
@@ -145,18 +143,18 @@ subjects:
 - Santa CRUZ das Flores
 - Santa Maria da Feira
 - Santo Tirso
-- Évora
-- Organização Judiciária
+- Secretaria Geral
 - Secretaria Judicial
 - Seixal
 - Serviços Administrativos
+- Setúbal
 - Sever do Vouga
 - Silves
-- Cascais
-- Oeiras
 - Sintra
 - Substituição de Funções
+- Supremo Tribunal de Justiça
 - Tondela
+- Tribunal
 - Tribunal Central de Instrução Criminal
 - Tribunal Colectivo
 - Tribunal da Relação
@@ -166,22 +164,43 @@ subjects:
 - Tribunal de Execução das Penas
 - Tribunal de Família e de Menores
 - Tribunal de Instrução Criminal
+- Tribunal do Trabalho
 - Tribunal Judicial
 - Tribunal Marítimo
-- Porto
-- Tribunal
 - VALE de Cambra
 - Valongo
 - VARA Criminal
 - Viana do Castelo
+- VILA do Conde
+- Vila Franca de Xira
 - VILA NOVA de Famalicão
 - VILA NOVA de GAIA
+- Vila Real
 - Viseu
 relationships:
 - type: amended_by
   target: pt:dre:553633:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670020:por
+  label: "Dada nova redacção aos mapas VII e VIII do Dec Lei 186-A/99 de 31-Mai, alterados pelo presente diploma, pelo DEC\
+    \ LEI.74/2011.20.06.2011.MJ, DR.IS [117] de 20.06.2011 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2011-670020
+  date: '2011-06-20'
+- type: amended_by
+  target: pt:dre:167413:por
+  label: "Alterado o mapa VII do Dec Lei 186-A/99, de 31-Maio, na redacção do presente diploma, pelo DEC LEI.113-A/2011.29.11.2011.MJ,\
+    \ DR.IS [229-Supl] de 29.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-a-2011-167413
+  date: '2011-11-29'
+- type: amended_by
+  target: pt:dre:553633:por
+  label: "Alterado o mapa VII do Regulamento da Lei de Organização e Funcionamento dos Tribunais Judiciais aprovado pelo Dec\
+    \ Lei 186-A/99, de 31-Maio, na redação do presente diploma, pelo DEC LEI.67/2012.20.03.2012.MJ, DR.IS [57] de 20.03.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2012-553633
+  date: '2012-03-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/186-a/1999/05/31/p/dre
   label: null
@@ -198,16 +217,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692253:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:36Z'
   warnings: []
   errors: []
 ---
@@ -242,7 +277,9 @@ Os artigos 15.º, 24.º, 25.º, 31.º, 38.º, 39.º, 65.º, 66.º, 67.º e 75.º
 
 5 - A distribuição de serviço pelas secções dos serviços administrativos faz-se por forma que a execução do expediente relativo ao Ministério Público caiba em exclusivo a uma ou mais secções.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -250,13 +287,17 @@ Os artigos 15.º, 24.º, 25.º, 31.º, 38.º, 39.º, 65.º, 66.º, 67.º e 75.º
 
 3 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
 2 - Sem prejuízo dos poderes de direcção do presidente do tribunal, o restante pessoal é distribuído, conforme os casos, pelo secretário judicial ou pelo funcionário que chefiar os serviços do Ministério Público, ouvidos os funcionários interessados.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -264,7 +305,9 @@ Os artigos 15.º, 24.º, 25.º, 31.º, 38.º, 39.º, 65.º, 66.º, 67.º e 75.º
 
 3 - Durante as férias judiciais, nos sábados e nos feriados que não recaiam em domingo, os turnos funcionam rotativamente, nos termos do artigo seguinte.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -272,7 +315,9 @@ Os artigos 15.º, 24.º, 25.º, 31.º, 38.º, 39.º, 65.º, 66.º, 67.º e 75.º
 
 3 - Pelo serviço a que se refere o n.º 1 é devido acréscimo de remuneração aos oficiais de justiça, nos termos do n.º 3 do artigo 33.º do [Decreto-Lei n.º 259/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1998-437237), de 18 de Agosto, a suportar pelo Gabinete de Gestão Financeira do Ministério da Justiça.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - Os mapas de férias distribuem por turnos de férias de Verão o pessoal das secretarias, tendo em conta o estado dos serviços; se não for possível organizar turnos autónomos, a distribuição é feita pelo secretário judicial por forma a assegurar também o serviço do Ministério Público.
 
@@ -280,19 +325,27 @@ Os artigos 15.º, 24.º, 25.º, 31.º, 38.º, 39.º, 65.º, 66.º, 67.º e 75.º
 
 3 - ...
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 Sem prejuízo do disposto no artigo 145.º da [Lei n.º 3/99](https://diariodarepublica.pt/dr/detalhe/lei/3-1999-196220), de 13 de Janeiro, e no artigo anterior, os juízes dos extintos tribunais de círculo e os juízes mencionados na disposição que precede têm ainda preferência na colocação em quaisquer lugares para os quais possuam requisitos exigíveis, no concurso com outros candidatos.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 Aos escrivães de direito que transitem, nos termos do presente diploma, para os serviços em que as secções foram convertidas, é permitida a permuta, no âmbito do respectivo tribunal, independentemente da observância dos prazos previstos na lei.
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 Os processos pendentes nos Tribunais das Comarcas de Guimarães, Loures e Vila Nova de Gaia são remetidos às respectivas varas com competência mista, para julgamento e termos posteriores.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 Salvo disposição em contrário, o presente diploma produz efeitos no dia imediato ao da sua publicação.»
 
@@ -312,15 +365,15 @@ O presente diploma produz efeitos a partir de 1 de Junho de 1999.
 
 Visto e aprovado em Conselho de Ministros de 17 de Junho de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Manuel de Matos Fernandes.
 
-**Promulgado em 8 de Julho de 1999.**
+Promulgado em 8 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Julho de 1999.**
+Referendado em 14 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA III
 

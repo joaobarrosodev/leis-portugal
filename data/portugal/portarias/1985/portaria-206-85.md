@@ -47,36 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/206-1985-325515
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T08:20:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 432b8e606c9991f7ef47f5e99c00cada4d2a63f6de1df935bd9b78f7d98730e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4128781702ae77248832496b3daf09d6a50e68022c4a57cdccf16415d8bbf347
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:20:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior
+- Estabelecimento de Ensino
+- Universidade
+relationships:
+- type: cites
+  target: pt:dre:266124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454282:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:20:56Z'
   warnings: []
   errors: []
 ---
@@ -99,6 +130,6 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação, que ao n.
 
 Ministério da Educação.
 
-**Assinada em 19 de Março de 1985.**
+Assinada em 19 de Março de 1985.
 
-**O Ministro da Educação, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação, João de Deus Rogado Salvador Pinheiro.

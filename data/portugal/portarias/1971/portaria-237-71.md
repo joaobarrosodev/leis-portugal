@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/237-1971-644305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fedc26cc1ebecb716db25fcb855e23cbdf24238ab506f1406d1abb548bcc10f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b29295b89aeb4d23692b16ad78ca828f873564cef84ab73aa8757842999e89a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:11Z'
   warnings: []
   errors: []
 ---
@@ -90,28 +90,28 @@ Pelo Ministro da Educação Nacional, Justino Mendes de Almeida, Subsecretário 
 
 REGULAMENTO DO PRÉMIO D. MARIA DA CONCEIÇÃO PINA ALA DOS REIS
 
-###### Artigo 1.º É criado, por iniciativa do Sr. Dr. Hermes Ala dos Reis, o Prémio D. Maria da Conceição Pina Ala dos Reis, destinado a galardoar uma aluna do Liceu Nacional de Aveiro que tenha feito todo o seu curso liceal neste estabelecimento de ensino sem perder qualquer ano e sempre com porte irrepreensível.
+Artigo 1.º É criado, por iniciativa do Sr. Dr. Hermes Ala dos Reis, o Prémio D. Maria da Conceição Pina Ala dos Reis, destinado a galardoar uma aluna do Liceu Nacional de Aveiro que tenha feito todo o seu curso liceal neste estabelecimento de ensino sem perder qualquer ano e sempre com porte irrepreensível.
 
-###### Art. 2.º Essa aluna será indicada pelo reitor, podendo a escolha basear-se em informações da vice-reitora da secção feminina ou das directoras de ciclo.
+Art. 2.º Essa aluna será indicada pelo reitor, podendo a escolha basear-se em informações da vice-reitora da secção feminina ou das directoras de ciclo.
 
-###### Art. 3.º O Prémio, em dinheiro, será o valor do rendimento do capital de 25000$00 entregue pelo instituidor do Prémio para o efeito, depois de convertido em título de renda perpétua, assentado em nome do Liceu Nacional de Aveiro.
+Art. 3.º O Prémio, em dinheiro, será o valor do rendimento do capital de 25000$00 entregue pelo instituidor do Prémio para o efeito, depois de convertido em título de renda perpétua, assentado em nome do Liceu Nacional de Aveiro.
 
-###### Art. 4.º Este Prémio destina-se a homenagear a memória de uma senhora, que, por seus altos méritos e grandes virtudes, se tornou merecedora da muita estima de seu marido, do muito apreço de todos aqueles com quem conviveu e da gratíssima lembrança daqueles muitos a quem ajudou.
+Art. 4.º Este Prémio destina-se a homenagear a memória de uma senhora, que, por seus altos méritos e grandes virtudes, se tornou merecedora da muita estima de seu marido, do muito apreço de todos aqueles com quem conviveu e da gratíssima lembrança daqueles muitos a quem ajudou.
 
-###### Art. 5.º Por força do artigo anterior, o mesmo Prémio será atribuído a uma aluna em quem concorram qualidades e virtudes cristãs e humanas que façam prever a existência futura de uma mulher perfeitamente digna na sua vida familiar e social.
+Art. 5.º Por força do artigo anterior, o mesmo Prémio será atribuído a uma aluna em quem concorram qualidades e virtudes cristãs e humanas que façam prever a existência futura de uma mulher perfeitamente digna na sua vida familiar e social.
 
-###### Art. 6.º São condições essenciais para a atribuição deste Prémio:
+Art. 6.º São condições essenciais para a atribuição deste Prémio:
 
 a) Ter feito todo o curso liceal como aluna interna do Liceu Nacional de Aveiro, sempre com bom comportamento;
 
 b) Não ter perdido nenhum ano.
 
-###### Art. 7.º No caso de haver mais de uma aluna nas condições acima mencionadas, o Prémio será atribuído à mais classificada.
+Art. 7.º No caso de haver mais de uma aluna nas condições acima mencionadas, o Prémio será atribuído à mais classificada.
 
-###### Art. 8.º Se em um ano não houver aluna em condições de ser contemplada com este Prémio, o seu valor em dinheiro será guardado pelo Liceu, devendo no ano imediato ser atribuídos dois prémios com este nome a outras tantas alunas, desde que satisfaçam a este Regulamento.
+Art. 8.º Se em um ano não houver aluna em condições de ser contemplada com este Prémio, o seu valor em dinheiro será guardado pelo Liceu, devendo no ano imediato ser atribuídos dois prémios com este nome a outras tantas alunas, desde que satisfaçam a este Regulamento.
 
-###### Art. 9.º De preferência, o Prémio será para uma aluna que não receba qualquer outro dos prémios escolares existentes no Liceu.
+Art. 9.º De preferência, o Prémio será para uma aluna que não receba qualquer outro dos prémios escolares existentes no Liceu.
 
-###### Art. 10.º A entrega do Prémio referente a um ano lectivo será feita na sessão de abertura das aulas do ano imediato.
+Art. 10.º A entrega do Prémio referente a um ano lectivo será feita na sessão de abertura das aulas do ano imediato.
 
 O Director-Geral do Ensino Liceal, J. Sabino Costa.

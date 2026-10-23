@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1978-425565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T05:58:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4521f2f59ddb5f32f4eeda0ee1db5103ee887d01e500c885ecf828d791c64bfe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 965a4afc2220208812e16837af2d35baf461613aba5a0fc6ee72da0674224495
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA NON Aedificandi
+- Sintra
+- Transporte Ferroviário
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:264553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:58:18Z'
   warnings: []
   errors: []
 ---
@@ -91,20 +103,20 @@ Visto o disposto no n.º 4 do artigo 30.º do Regulamento para a Exploração e 
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Até à aprovação dos planos ou anteprojectos de ampliação das infra-estruturas do ramal de Sintra, será considerada área non aedificandi a faixa de terreno entre os quilómetros 23,900 e 24,900, conforme os limites e distâncias expressos no mapa anexo a este diploma, referidos ao eixo actual da entrevia.
+Artigo 1.º Até à aprovação dos planos ou anteprojectos de ampliação das infra-estruturas do ramal de Sintra, será considerada área non aedificandi a faixa de terreno entre os quilómetros 23,900 e 24,900, conforme os limites e distâncias expressos no mapa anexo a este diploma, referidos ao eixo actual da entrevia.
 
-###### Art. 2.º A implantação de edifícios, arruamentos, passagens de nível ou outro tipo qualquer de construção na área referida no artigo antecedente fica sujeita, caso a caso, a autorização e aprovação especial dos Caminhos de Ferro Portugueses, E. P.
+Art. 2.º A implantação de edifícios, arruamentos, passagens de nível ou outro tipo qualquer de construção na área referida no artigo antecedente fica sujeita, caso a caso, a autorização e aprovação especial dos Caminhos de Ferro Portugueses, E. P.
 
-###### Art. 3.º Este diploma entra em vigor na data da sua publicação.
+Art. 3.º Este diploma entra em vigor na data da sua publicação.
 
 Mário Soares - Manuel Branco Ferreira Lima.
 
-**Promulgado em 6 de Abril de 1978.**
+Promulgado em 6 de Abril de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09600/07680768.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09600/07680768.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09600/07680768.pdf)
 
-**O Ministro dos Transportes e Comunicações, Manuel Branco Ferreira Lima.**
+O Ministro dos Transportes e Comunicações, Manuel Branco Ferreira Lima.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24168-1969-199628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11d5e0eb02818b3000d54e12958f95dad8ff642b8568ad68156b3dec0f6d7b37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1b6fcb758b42da629a4a8a8187c5cdfd2d6216473e517f675bf586450bcde61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:475320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590727:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:40Z'
   warnings: []
   errors: []
 ---
@@ -127,12 +139,12 @@ Educação, nos aspectos de civilidade e urbanidade.
 
 Ministério do Exército, 7 de Julho de 1969. - O Ministro do Exército, José Manuel Bethencourt Conceição Rodrigues.
 
-## Anexo n.º 1 à Portaria n.º 24168
+Anexo n.º 1 à Portaria n.º 24168
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/07/15700/08010802.pdf))](https://files.diariodarepublica.pt/1s/1969/07/15700/08010802.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/07/15700/08010802.pdf)
 
-## Anexo n.º 2 à Portaria n.º 24168
+Anexo n.º 2 à Portaria n.º 24168
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/07/15700/08010802.pdf))](https://files.diariodarepublica.pt/1s/1969/07/15700/08010802.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/07/15700/08010802.pdf)
 
 Ministério do Exército, 7 de Julho de 1969. - O Ministro do Exército, José Manuel Bethencourt Conceição Rodrigues.

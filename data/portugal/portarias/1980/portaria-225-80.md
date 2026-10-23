@@ -46,36 +46,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/225-1980-475127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc717d366b39a635a2808d17ba5e28506d6f27bb39ba29d98f1726a21b8ce9ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 599629745f067d2fc96b31ffe5b69b76136aa07f9be6eb99b59ee10b8700066e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cartão de Identificação
+- Secretariado Nacional de Reabilitação
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:46Z'
   warnings: []
   errors: []
 ---
@@ -98,6 +100,6 @@ Manda o Governo da República Portuguesa, pelo Ministro dos Assuntos Sociais, po
 
 Ministério dos Assuntos Sociais, 5 de Março de 1980. - O Ministro dos Assuntos Sociais, João António Morais Leitão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/10400/08680868.pdf))](https://files.diariodarepublica.pt/1s/1980/05/10400/08680868.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/10400/08680868.pdf)
 
-**O Ministro dos Assuntos Sociais, João António Morais Leitão.**
+O Ministro dos Assuntos Sociais, João António Morais Leitão.

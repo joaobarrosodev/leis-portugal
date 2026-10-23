@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/183a00/51375139.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/306/1999/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1999-426338
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:10:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1ed25c672e7052f5da7f39e5e0238e0f36bd0dcf0dde219eed77cefb98e330f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b08c298ed2e7076860cad098ae80f20089f4d6608fdd648fe19099bdd14bdcc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aproximação das Legislações
-- Controlo Sanitário
 - Alimento Industrial
-- Proteção do Ambiente
-- Política Agrícola Comum
 - Alimento para Animais
-- Regulamento
+- Aproximação das Legislações
 - Comércio
+- Controlo Sanitário
+- Política Agrícola Comum
+- Proteção do Ambiente
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:542413:por
@@ -87,16 +87,21 @@ relationships:
   target: celex:31998L0087
   label: null
   source: http://data.europa.eu/eli/dir/1998/87/oj
+- type: repealed_by
+  target: pt:dre:542413:por
+  label: "Revogado pelo DEC LEI.105/2003.2003.05.30.MADRP, DR.IS-A [125]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-2003-542413
+  date: '2003-05-30'
 article_structure:
   article_count: 2
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:10:01Z'
   warnings: []
   errors: []
 ---
@@ -129,16 +134,18 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Julho de 1999. - António Manuel de Oliveira Guterres - Luís Manuel Capoulas Santos.
 
-**Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.**
+Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Julho de 1999.**
+Referendado em 22 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — Parte B - Declaração dos constituintes analíticos
+## ANEXO
+
+## Parte B - Declaração dos constituintes analíticos
 
 [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/08/183a00/51375139.pdf)

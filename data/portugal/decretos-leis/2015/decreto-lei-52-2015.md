@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/07300/0186501881.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/52/2015/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2015-66990216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8c3433c4e39c7bfa6a89350788028e7541de3dbf29bfc0c2d4022a8026becb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdda3b179bb148dbb0679a834b116e06314cc3346edb71cfc8dfc0158b0971b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,50 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Proteção Civil
+- Armamento
 - Avião
+- Circulação de Mercadorias
+- Comércio
 - Comércio Internacional
 - Documento Aduaneiro
 - Equipamento Militar
-- Armamento
-- Segurança Pública
+- Exportação
 - Política de Defesa
+- Proteção Civil
+- Segurança Internacional
+- Segurança Pública
+- Transacção Intracomunitária
 - Transmissão da Propriedade
 - Veículo
-- Segurança Internacional
-- Circulação de Mercadorias
-- Exportação
-- Comércio
-- Transacção Intracomunitária
 relationships:
 - type: amended_by
   target: pt:dre:215647906:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:75784267:por
+  label: Alterado o anexo I à Lei 37/2011 de 22-jun, na redação do presente diploma, pelo(a) Decreto-Lei n.º 78/2016 - Diário
+    da República n.º 225/2016, Série I de 2016-11-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2016-75784267
+  date: '2016-11-23'
+- type: amended_by
+  target: pt:dre:107495703:por
+  label: Alterado o anexo i à Lei 37/2011 de 22-jun, na redação do presente diploma, pelo(a) Decreto-Lei n.º 56/2017 - Diário
+    da República n.º 112/2017, Série I de 2017-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-2017-107495703
+  date: '2017-06-09'
+- type: amended_by
+  target: pt:dre:114682826:por
+  label: Alterado o anexo I à Lei 37/2011 de 22-jun, na redação do presente diploma, pelo(a) Decreto-Lei n.º 9/2018 - Diário
+    da República n.º 30/2018, Série I de 2018-02-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2018-114682826
+  date: '2018-02-12'
+- type: amended_by
+  target: pt:dre:123578707:por
+  label: Alterado o anexo I à Lei 37/2011 de 22-jun, na redação do presente diploma, pelo(a) Decreto-Lei n.º 98/2019 - Diário
+    da República n.º 144/2019, Série I de 2019-07-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2019-123578707
+  date: '2019-07-30'
 - type: cites
   target: celex:32009L0043
   label: null
@@ -120,6 +144,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/2011/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/2011/06/22/p/dre
+- type: cites
+  target: pt:dre:179519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670066:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32014L0108
   label: null
@@ -127,13 +171,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:49Z'
   warnings: []
   errors: []
 ---
@@ -168,15 +212,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de março de 2015. - Paulo Sacadura Cabral Portas - Rui Manuel Parente Chancerelle de Machete - Berta Maria Correia de Almeida de Melo Cabral.
 
-**Promulgado em 8 de abril de 2015.**
+Promulgado em 8 de abril de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de abril de 2015.**
+Referendado em 10 de abril de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 

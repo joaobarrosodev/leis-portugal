@@ -47,40 +47,184 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/710-1979-365767
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T06:05:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cdf3922fa154626843f16a1ccb453f6f8cc69444d86a7b1d318ad87d94c0310f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65731a2c649226196851e767f4be53f828c7025cf2ef810f9c60ed199f517e02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:05:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Funcionário Público
+- Ministério do Trabalho
+- Quadro de Pessoal
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:220908:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:458412:por
+  label: "Alterados os quadros de pessoal da Secretaria Geral, do Serviço de Informação Científica e Técnica, da Direcção\
+    \ Geral de Higiene e Segurança do Trabalho e da Auditoria Jurídica, todos do Ministério do Trabalho, aprovados pelo Dec\
+    \ Lei 47/78, de 21-Mar, alterados pela presente portaria, pela PORT.977/80.13.11.1980.PCM, DR.IS [263] de 13.11.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/977-1980-458412
+  date: '1980-11-13'
+- type: amended_by
+  target: pt:dre:390227:por
+  label: "Alterado o quadro de pessoal, pela PORT.73/81.1981.01.17.PCM, DR.IS [14]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/73-1981-390227
+  date: '1981-01-17'
+- type: amended_by
+  target: pt:dre:389994:por
+  label: "Alterado o quadro de pessoal da Secretaria-Geral do Ministério do Trabalho, constante do mapa anexo, pela PORT.138/81.29.01.1981.PCM,\
+    \ DR.IS [24] de 29.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/138-1981-389994
+  date: '1981-01-29'
+- type: amended_by
+  target: pt:dre:600342:por
+  label: "Alterado o quadro de pessoal, anexo ao presente diploma, pela PORT.182/82.1982.02.11.MFP DR.IS [35]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/182-1982-600342
+  date: '1982-02-11'
+- type: amended_by
+  target: pt:dre:394766:por
+  label: "Alargado o quadro de pessoal do Serviço de Informação Científica e Técnica, do Ministério do Trabalho, aprovado\
+    \ pelo Dec Lei 47/78, de 21-Mar, na redacção do presente diploma, pela PORT.692/82.13.07.1982.MFP, DR.IS [159] de 13.07.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/692-1982-394766
+  date: '1982-07-13'
+- type: amended_by
+  target: pt:dre:394171:por
+  label: "Alterado o quadro de pessoal da Secretaria Geral do Ministério do Trabalho, aprovado pelo Dec Lei 47/78, de 21-Mar,\
+    \ alterado pela presente portaria, pela Port.700/82.15.07.1982.MFP, DR.IS [161] de 15.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/700-1982-394171
+  date: '1982-07-15'
+- type: amended_by
+  target: pt:dre:375201:por
+  label: "Alterados os quadros de pessoal da Secretaria Geral e da Direcção Geral de Higiene e Segurança do Trabalho, do Ministério\
+    \ do Trabalho, aprovados pelo Dec Lei 47/78, de 21-Mar, alterados pela presente portaria, pela Port.904/82.25.09.1982.MFP,\
+    \ DR.IS [223] de 25.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/904-1982-375201
+  date: '1982-09-25'
+- type: amended_by
+  target: pt:dre:310586:por
+  label: "Acrescido de uma unidade a dotação de lugares de assessor do quadro de pessoal, na redacção introduzida pela Port\
+    \ 29/82 de 13-Jan, pela PORT.299/83.1983.03.24.MFP DR.IS [69]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/299-1983-310586
+  date: '1983-03-24'
+- type: amended_by
+  target: pt:dre:386580:por
+  label: "Alterados os quadros de pessoal da Secretaria Geral e da Direcção Geral de Higiene e Segurança do Trabalho, do Ministério\
+    \ do Trabalho e Segurança Social, aprovados pelo Dec Lei 47/78, de 21-Mar, alterados pela presente portaria, pela PORT.362/84.12.06.1984.PCM,\
+    \ DR.IS [136] de 12.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/362-1984-386580
+  date: '1984-06-12'
+- type: amended_by
+  target: pt:dre:400455:por
+  label: "Alterados os quadros de pessoal da Secretaria Geral e da Direcção Geral de Higiene e Segurança do Trabalho do Ministério\
+    \ do Trabalho, aprovados pelo Dec Lei 47/78, de 21-Mar, alterados pela presente portaria, pela PORT.832/84.27.10.1984.MFP,\
+    \ DR.IS [250] de 27.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/832-1984-400455
+  date: '1984-10-27'
+- type: amended_by
+  target: pt:dre:326148:por
+  label: "Alterado o quadro de pessoal, criado pelo Dec Lei 47/78, de 21-Mar, na redacção dada pela presente Port., e pela\
+    \ Port. 90-A/80, de 06-Mar, 73/81, de17-Jan e 182/82 de 11-Fev, pela PORT.130/85.1985.03.08.PCM, DR.IS [56]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/130-1985-326148
+  date: '1985-03-08'
+- type: amended_by
+  target: pt:dre:195794:por
+  label: "Alterado o quadro de pessoal do Departamento de Estudos e Planeamento do Ministério do Trabalho e Segurança Social,\
+    \ constante do presente diploma, com a redacção dada pelo Dec Lei 1/85 de 03-Jan, pela PORT.149/86.16.04.1986.MF, DR.IS\
+    \ [88] de 16.04.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/149-1986-195794
+  date: '1986-04-16'
+- type: amended_by
+  target: pt:dre:228231:por
+  label: "Alterado o quadro de pessoal da Direcção Geral do Trabalho, aprovado pelo Dec Lei 47/78, de 21-Mar, alterado pela\
+    \ presente portaria, pela PORT.355/86.09.07.1986.MF, DR.IS [155] de 09.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/355-1986-228231
+  date: '1986-07-09'
+- type: amended_by
+  target: pt:dre:221997:por
+  label: "Aumentado o quadro de pessoal do Serviço de Organização e Gestão de Pessoal, aprovado pelo Dec Lei 47/78, de 21-Mar,\
+    \ na redacção do presente diploma, pela PORT.517/86.12.09.1986.MF, DR.IS [210] de 12.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/517-1986-221997
+  date: '1986-09-12'
+- type: amended_by
+  target: pt:dre:221981:por
+  label: "Aumentado o quadro de pessoal da Direcção-Geral das Relações Colectivas de Trabalho, aprovado pelo Dec Lei 47/78,\
+    \ de 21-Mar, na redacção do presente diploma, pela PORT.520/86.13.09.1986.MF, DR.IS [211] de 13.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/520-1986-221981
+  date: '1986-09-13'
+- type: amended_by
+  target: pt:dre:222429:por
+  label: "Reduzido os números de lugares de assistente assessor do quadro de pessoal da Direcção-Geral das Relações Colectivas\
+    \ de Trabalho, aprovado pelo presente diploma, pela PORT.593/86.11.10.1986.MF, DR.IS [235] de 11.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/593-1986-222429
+  date: '1986-10-11'
+- type: amended_by
+  target: pt:dre:220970:por
+  label: "Aumentados lugares no quadro de pessoal do serviço de Informação Científica e Técnica, aprovado pelo Dec Lei 47/78,\
+    \ de 21-Mar, na redacção do presente diploma, pela PORT.643/86.30.10.1986.MF, DR.IS [251] de 30.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/643-1986-220970
+  date: '1986-10-30'
+- type: amended_by
+  target: pt:dre:220964:por
+  label: "Aumentados lugares no quadro de pessoal da Direcção-Geral de Higiene e Segurança do Trabalho, aprovado pelo Dec\
+    \ Lei 47/78, de 21-Mar, na redacção do presente diploma, pela PORT 646/86, de 30-Out DR.IS [252] de 31.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/646-1986-220964
+  date: '1986-10-31'
+- type: amended_by
+  target: pt:dre:220908:por
+  label: "Criados lugares no quadro de pessoal anexo ao Estatuto da Inspecção do Trabalho, aprovado pelo Dec Lei 48/78, de\
+    \ 21-Mar DR.IS [67] Sul, na redacção do presente diploma, pela Port 693/86.19.11.1986.MF, DR.IS [267] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/693-1986-220908
+  date: '1986-11-19'
+- type: cites
+  target: pt:dre:297469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621349:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:05:18Z'
   warnings: []
   errors: []
 ---
@@ -103,12 +247,12 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Trabalho
 
 Mapas a que se refere o artigo 90.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), de 21 de Março
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29900/34153418.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29900/34153418.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29900/34153418.pdf)
 
 Mapa a que se refere o artigo 37.º do [Decreto-Lei n.º 48/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1978-621348), de 21 de Março
 
 Inspecção do Trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29900/34153418.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29900/34153418.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29900/34153418.pdf)
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro do Trabalho, Jorge de Carvalho Sá Borges.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro do Trabalho, Jorge de Carvalho Sá Borges.

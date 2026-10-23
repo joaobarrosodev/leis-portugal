@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/1/2013/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2013-259762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01c90a4278bc6044cb8ae8a7910c30d00b959e7f9a45c401d8f92a8ca777a165
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42edddca401bee83c98297335ee19b10fed63355e97e1b71d65da506a07ada94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
-- Unesco
-- Definição de Competências
-- Gestão Administrativa
-- Secretaria Geral
-- Inspecção Geral Diplomática e Consular
-- Departamento Geral de Administração
-- Orgânica
-- Ministério dos Negócios Estrangeiros
 - Comissão Nacional da Unesco
+- Definição de Competências
+- Departamento Geral de Administração
+- Gestão Administrativa
+- Gestão Financeira
+- Inspecção Geral Diplomática e Consular
+- Ministério dos Negócios Estrangeiros
+- Orgânica
+- Secretaria Geral
+- Unesco
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/16/2012/01/30/p/dre
@@ -90,16 +90,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:543921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:27Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +140,9 @@ Os artigos 1.º e 6.º do [Decreto Regulamentar n.º 8/2012](https://diariodarep
 
 A Inspeção-Geral Diplomática e Consular, abreviadamente designada por IGDC, é um serviço central da administração direta do Estado.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O apoio em matéria administrativa e financeira da IGDC cabe ao Departamento Geral de Administração da Secretaria-Geral do MNE, a cujo diretor compete a autorização e pagamento de despesas.
 
@@ -144,7 +158,9 @@ Os artigos 1.º, 8.º e 9.º do [Decreto Regulamentar n.º 16/2012](https://diar
 
 A Comissão Nacional da UNESCO, abreviadamente designada por CNU, é uma estrutura do Ministério dos Negócios Estrangeiros.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -156,7 +172,9 @@ A Comissão Nacional da UNESCO, abreviadamente designada por CNU, é uma estrutu
 
 5 - A gestão das receitas da CNU é assegurada pelo Departamento Geral de Administração da Secretaria-Geral do MNE.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Constituem despesas da CNU as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
 
@@ -176,12 +194,12 @@ Regime administrativo e financeiro
 
 Visto e aprovado em Conselho de Ministros de 10 de janeiro de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Sacadura Cabral Portas.
 
-**Promulgado em 1 de março de 2013.**
+Promulgado em 1 de março de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de março de 2013.**
+Referendado em 4 de março de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

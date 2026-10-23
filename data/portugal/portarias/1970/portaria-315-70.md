@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/315-1970-140874
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5215e5580b6c48792d2e2fdb90a3b20c07c5cd2ce40418aa82ceafc40c79e047
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b5b536e5ea5d7a7661b71175d625578eef119256146990f5294e72964f72bc9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:11Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +89,7 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado das Comunicações e Transportes, de harmonia com o disposto no artigo 96.º do Estatuto das Juntas Autónomas dos Portos, aprovado pelo [Decreto-Lei n.º 37754](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37754-1950-659507), de 18 de Fevereiro de 1950, alterar o Regulamento de Tarifas Provisórias em vigor na Junta Autónoma dos Portos de Barlavento do Algarve, nos termos seguintes:
 
-###### Art. 55.º ...
+Art. 55.º ...
 
 § 1.º ...
 

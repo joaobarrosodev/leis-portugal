@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/124/2007/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/124-2007-628502
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T04:57:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea5eda8e84a8221b37ffcf9f2367b71372cd89a71ac467ab80dc42ab3f1b0e0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9874ed15951b0e09017a9cddc586e2901aaa013b94ab4479301497e9d5e84aeb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:57:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,38 +69,51 @@ reuse:
 subjects:
 - ACP Países
 - África
-- Luta contra a Pobreza
 - ARMA de Destruição Maciça
-- Financiamento
 - Caraíbas
 - CE Países
 - Combate ao Terrorismo
 - Comunidade Europeia
 - Convenção
 - Cotonu
-- Portugal
 - Direitos da Criança
-- Oceano Pacífico
+- Financiamento
+- Luta contra a Pobreza
 - Luxemburgo
+- Oceano Pacífico
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:174820:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:174820:por
+  label: "Aprovadas as alterações ao Acordo de Parceria entre os Estados de África, das Caraíbas e do Pacífico e a Comunidade\
+    \ Europeia e os seus Estados Membros, assinado em Cotonu, em 23 de junho de 2000, aprovado, para ratificação, pela Res\
+    \ 25-A/2002 de 05-Abr, e ratificado pelo Dec 23-B/2002 de 05-Abr do PR, com as alterações posteriormente aprovadas, para\
+    \ ratificação, pela Res 58/2007 de 22-Nov da AR, e ratificadas pelo presente diploma, pela RES.123/2012.31.08.2012.AR,\
+    \ DR.IS [169] de 31.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/123-2012-174820
+  date: '2012-08-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/58/2007/11/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/58/2007/11/22/p/dre
+- type: cites
+  target: pt:dre:628501:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:57:11Z'
   warnings: []
   errors: []
 ---
@@ -109,16 +122,16 @@ validation:
 
 de 22 de Novembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo Que Altera o Acordo de Parceria entre os Estados de África, das Caraíbas e do Pacífico e a Comunidade Europeia e os Seus Estados Membros, assinado em Cotonou em 23 de Junho de 2000, e respectiva Acta Final, assinados no Luxemburgo em 25 de Junho de 2005, aprovado pela [Resolução da Assembleia da República n.º 58/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/58-2007-628501), em 20 de Setembro de 2007.
 
-**Assinado em 13 de Novembro de 2007.**
+Assinado em 13 de Novembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Novembro de 2007.**
+Referendado em 16 de Novembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

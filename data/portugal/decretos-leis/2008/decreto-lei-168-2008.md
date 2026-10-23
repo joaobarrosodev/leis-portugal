@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/168/2008/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2008-453552
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 707d5a5d802f26eee7b8a52a49b73a6a8c36fba7fb4d4b2b2fe053a23e3b10d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5e0eb5385ba0dd33022dc8814e66d5ae74ab9366dcdb1ae505dbae0c50896d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Acção Financeira
 - Delegação de Competências
-- Secretário de Estado do Tesouro e das Finanças
-- Ministro das Finanças
 - Isenção Fiscal
+- Ministro das Finanças
 - Participação do Estado
 - Privatização
+- Secretário de Estado do Tesouro e das Finanças
 - Siderurgia Nacional
 - Sn-longos
 - Sn-planos
@@ -94,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/54/1997/03/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/54/1997/03/31/p/dre
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535794:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:02Z'
   warnings: []
   errors: []
 ---
@@ -170,12 +190,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Junho de 2008. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos.
 
-**Promulgado em 30 de Julho de 2008.**
+Promulgado em 30 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de Agosto de 2008.**
+Referendado em 1 de Agosto de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

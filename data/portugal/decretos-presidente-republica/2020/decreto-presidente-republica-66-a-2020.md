@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 244/2020, 1º Suplemento, Série I de 2020-12-17
   number: '244'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 21-(2) a 21-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/24401/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/66-a/2020/12/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/66-a-2020-151557411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T05:41:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25a0740be8c59f70f2f9e9df012a167eed8d2a69eac0467d889e1c4266b9c513
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e36959fed7d81b1dbe8ecea626124f7e5ac04549415db1bbbb7c1bdbc56f197
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:41:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,42 +66,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abastecimento de BENS Essenciais
-- PSP
-- Crime
 - Assistência Médica
 - Assistência Medicamentosa
-- Proteção Civil
-- Pessoal de Saúde
-- Lares
-- Estabelecimento Comercial
-- Sector Cooperativo
-- Segurança Interna
-- Portugal
-- Definição de Competências
-- Controlo Sanitário
-- Empresa Privada
-- Estado de Emergência
-- Serviço Nacional de Saúde
-- Segurança Pública
-- Isolamento Profiláctico
-- Laboratório de Análises e Ensaios
-- Livre Circulação de Pessoas
-- GNR
-- Forças Armadas
+- Autoridade Nacional de Emergência e Proteção Civil
 - Circulação de Mercadorias
+- Controlo Sanitário
+- Crime
+- Dados Pessoais
+- Definição de Competências
 - Doença Infecciosa
 - Doente Crónico
-- Estabelecimento de Ensino
-- Prestação de Serviços
-- Estabelecimento Hospitalar
-- Pessoal de Vigilância
-- Material Médico-Cirúrgico
-- Setor Privado
-- Funcionário Público
-- Dados Pessoais
-- Trabalhador por Conta de Outrem
-- Autoridade Nacional de Emergência e Proteção Civil
+- Empresa Privada
 - Equipamento de Proteção
+- Estabelecimento Comercial
+- Estabelecimento de Ensino
+- Estabelecimento Hospitalar
+- Estado de Emergência
+- Forças Armadas
+- Funcionário Público
+- GNR
+- Isolamento Profiláctico
+- Laboratório de Análises e Ensaios
+- Lares
+- Livre Circulação de Pessoas
+- Material Médico-Cirúrgico
+- Pessoal de Saúde
+- Pessoal de Vigilância
+- Portugal
+- Prestação de Serviços
+- Proteção Civil
+- PSP
+- Sector Cooperativo
+- Segurança Interna
+- Segurança Pública
+- Serviço Nacional de Saúde
+- Setor Privado
+- Trabalhador por Conta de Outrem
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decpresrep/61-a/2020/12/04/p/dre
@@ -119,16 +119,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/90-a/2020/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/90-a/2020/12/17/p/dre
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150509281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151557412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552035:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:41:36Z'
   warnings: []
   errors: []
 ---
@@ -205,12 +225,14 @@ Os órgãos responsáveis, nos termos da [Lei n.º 44/86](https://diariodarepubl
 
 O presente Decreto entra imediatamente em vigor, produzindo efeitos nos termos definidos no artigo 3.º
 
-**Assinado em 17 de dezembro de 2020.**
+Assinado em 17 de dezembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 17 de dezembro de 2020.**
+Referendado em 17 de dezembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113825894

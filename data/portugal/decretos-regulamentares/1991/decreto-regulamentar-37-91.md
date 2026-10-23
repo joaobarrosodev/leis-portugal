@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/167b00/36923693.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/37/1991/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/37-1991-662300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T06:18:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6425330a6e6abde109c6a87e4ce1359effb186cebec76d70839aeeb308763cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85ff2986303df90820c86d1caf4b7373254c08f974f47e51c308a77a13df9ec2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:18:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,60 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Águas Públicas
-- Ordenamento do Território
 - Albufeiras
-- Zona de Proteção
-- Serviço Público
 - Domínio Público Hídrico
+- Ordenamento do Território
+- Serviço Público
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:1070022782:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:597158:por
+  label: "Alterado o artigo 11.º, na redacção do presente diploma, pelo DR.33/92.02.12.1992.MARN, DR.IS-B [278] de 02.12.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/33-1992-597158
+  date: '1992-12-02'
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631657:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:475371:por
+  label: "Revogados os n.ºs 7, 8, 9 e 10 do artigo 9.º do Decreto Regulamentar n.º 2/88, de 20 de Janeiro, na redacção do\
+    \ presente diploma, pelo DEC LEI.151/95.24.06.1995.MPLAT, DR.IS-A [144] de 24.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-1995-475371
+  date: '1995-06-24'
+- type: repealed_by
+  target: pt:dre:608704:por
+  label: "Revogado, a partir de 30.05.2009, o DR 2/88, de 20-Jan, na redacção do presente diploma, pelo DEC LEI.107/2009.15.05.2009.MAOTDR,\
+    \ DR.IS [94] de 15.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2009-608704
+  date: '2009-05-15'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:18:59Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +143,7 @@ Assim:
 
 Ao abrigo do artigo 8.º do [Decreto-Lei n.º 502/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1971-631657), de 18 de Novembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 3.º, 4.º e 9.º do [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 3.º, 4.º e 9.º do [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º - 1 - ...
 
@@ -129,7 +163,7 @@ f) Caça.
 
 3 - ...
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 2 - As restrições a estabelecer para cada actividade utilizadora das albufeiras são determinadas e sinalizadas, de acordo com o respectivo ordenamento, por forma a garantir, em cada momento, a maior compatibilidade possível dos diferentes usos entre si e destes com a protecção e conservação do ambiente natural, significando, em termos genéricos:
 
@@ -143,9 +177,9 @@ d) ...
 
 e) Nas albufeiras situadas em áreas protegidas nos termos do [Decreto-Lei n.º 613/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1976-430785), de 27 de Julho, e legislação complementar, o ordenamento de actividades ruidosas atenderá especificamente aos fins de protecção legalmente estabelecidos para a área.
 
-###### Art. 4.º A classificação e os índices de utilização para cada actividade secundária das albufeiras de águas públicas constantes do mapa anexo têm natureza meramente indicativa, tendo em vista a elaboração do respectivo ordenamento nos termos estabelecidos neste diploma.
+Art. 4.º A classificação e os índices de utilização para cada actividade secundária das albufeiras de águas públicas constantes do mapa anexo têm natureza meramente indicativa, tendo em vista a elaboração do respectivo ordenamento nos termos estabelecidos neste diploma.
 
-###### Art. 9.º - 1 - Cada albufeira classificada será objecto de um plano de ordenamento que definirá os princípios e regras da utilização das águas públicas e da ocupação, uso e transformação do solo da respectiva zona de protecção.
+Art. 9.º - 1 - Cada albufeira classificada será objecto de um plano de ordenamento que definirá os princípios e regras da utilização das águas públicas e da ocupação, uso e transformação do solo da respectiva zona de protecção.
 
 2 - O plano de ordenamento referido no número anterior é composto por:
 
@@ -171,28 +205,28 @@ c) Regulamento, definindo cada uma das unidades de gestão identificadas na plan
 
 10 - Os procedimentos e formalidades relativos ao acompanhamento técnico, consulta, inquérito público, aprovação, registo e publicação dos planos de ordenamento de albufeiras serão definidos em portaria aprovada pelos Ministros do Planeamento e da Administração do Território e do Ambiente e Recursos Naturais.
 
-###### Art. 2.º São aditados ao [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro, os artigos 10.º e 11.º, com a seguinte redacção:
+Art. 2.º São aditados ao [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro, os artigos 10.º e 11.º, com a seguinte redacção:
 
-###### Art. 10.º Na ausência de plano de ordenamento de albufeira ou de plano municipal de ordenamento do território, plenamente eficazes nos termos do presente diploma e do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 3 de Março, o licenciamento municipal de obras a realizar na zona de protecção das albufeiras classificadas carece de parecer favorável da Direcção-Geral dos Recursos Naturais.
+Art. 10.º Na ausência de plano de ordenamento de albufeira ou de plano municipal de ordenamento do território, plenamente eficazes nos termos do presente diploma e do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 3 de Março, o licenciamento municipal de obras a realizar na zona de protecção das albufeiras classificadas carece de parecer favorável da Direcção-Geral dos Recursos Naturais.
 
-###### Art. 11.º - 1 - No prazo de seis meses a contar da data da publicação do presente diploma, a Direcção-Geral dos Recursos Naturais, ouvida a Direcção-Geral do Ordenamento do Território, pode submeter a aprovação os planos de ordenamento de albufeiras classificadas, elaborados anteriormente à entrada em vigor do regime agora estabelecido.
+Art. 11.º - 1 - No prazo de seis meses a contar da data da publicação do presente diploma, a Direcção-Geral dos Recursos Naturais, ouvida a Direcção-Geral do Ordenamento do Território, pode submeter a aprovação os planos de ordenamento de albufeiras classificadas, elaborados anteriormente à entrada em vigor do regime agora estabelecido.
 
 2 - A aprovação mencionada no número anterior é feita por despacho conjunto dos Ministros do Planeamento e da Administração do Território e do Ambiente e Recursos Naturais.
 
-###### Art. 3.º É revogado o n.º 3 do artigo 2.º do [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro.
+Art. 3.º É revogado o n.º 3 do artigo 2.º do [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro.
 
-###### Art. 4.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
+Art. 4.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Presidência do Conselho de Ministros, 22 de Abril de 1991.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 25 de Junho de 1991.**
+Promulgado em 25 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Junho de 1991.**
+Referendado em 27 de Junho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

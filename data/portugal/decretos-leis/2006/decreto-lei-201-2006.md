@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/201/2006/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2006-545644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 570f4c703365357b48fa9b4731acde1a7d703a63f7a25819cbce6a87c4a47e08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db2b3613cb227ac427179207a35ec446c63ecb61634eb1f5019e52a8046f24af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,43 +66,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério das Finanças e da Administração Pública
-- Ministério da Defesa Nacional
-- Ministério da Administração Interna
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Ministério da Educação
+- Agência para a Modernização Administrativa
+- Coordenador Nacional da Estrategia de Lisboa e do Plano Tecnológico
 - Definição de Competências
 - Delegação de Competências
 - Direção Geral das Autarquias Locais
 - Empresa Pública
-- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
-- Setor Empresarial do Estado
-- Ministério da Ciência e do Ensino Superior
-- Ministério das Obras Públicas Transportes e Comunicações
-- Ministério da Cultura
-- Ministro do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
-- Ministério da Justiça
-- Ministério do Trabalho e da Solidariedade Social
-- Ministro para os Assuntos Parlamentares
-- Primeiro-ministro
-- Ministério da Economia e da Inovação
 - Governo XVII
-- Unidade de Coordenação da Modernização Administrativa
+- Ministério da Administração Interna
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Ministério da Ciência e do Ensino Superior
+- Ministério da Cultura
+- Ministério da Defesa Nacional
+- Ministério da Economia e da Inovação
+- Ministério da Educação
+- Ministério da Justiça
+- Ministério da Saúde
+- Ministério das Finanças e da Administração Pública
+- Ministério das Obras Públicas Transportes e Comunicações
+- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
+- Ministério do Trabalho e da Solidariedade Social
+- Ministério dos Negócios Estrangeiros
+- Ministro de Estado e da Administração Interna
+- Ministro de Estado e das Finanças
+- Ministro do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
+- Ministro para os Assuntos Parlamentares
 - Orgânica
 - Parpública
 - Piddac
-- Coordenador Nacional da Estrategia de Lisboa e do Plano Tecnológico
-- Ministro de Estado e da Administração Interna
-- Ministro de Estado e das Finanças
 - Presidência do Conselho de Ministros
-- Agência para a Modernização Administrativa
-- Ministério da Saúde
-- Ministério dos Negócios Estrangeiros
+- Primeiro-ministro
+- Setor Empresarial do Estado
+- Unidade de Coordenação da Modernização Administrativa
 relationships:
 - type: amended_by
   target: pt:dre:489502:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:639315:por
+  label: "Alterados os arts. 10º, 11º, 12º, 13º e 14º e revogados os nºs 9 a 11 do art. 10º da Lei Orgânica do XVII Governo\
+    \ Constitucional, aprovada pelo Dec Lei 79/2005 de 15-Abr, com as alterações constantes do presente diploma, pelo DEC\
+    \ LEI.240/2007.21.06.2007.PCM, DR.IS [118] de 21.06.2007 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-2007-639315
+  date: '2007-06-21'
+- type: amended_by
+  target: pt:dre:247024:por
+  label: "Alterados os art.s 7º e 9º da Orgânica do XVII Governo Constitucional, aprovada pelo Dec Lei 79/2005, de 15-Abr,\
+    \ na redacção do presente diploma, pelo DEC LEI.44/2008.11.03.2008.PCM, DR.IS [50] de 11.03.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2008-247024
+  date: '2008-03-11'
 - type: cites
   target: eli:http://data.dre.p
   label: null
@@ -143,16 +156,114 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:240610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:489502:por
+  label: "Revogado, a partir de 01.11.2009, o Dec Lei 211/97, de 16-Ago, nos termos do art. 5.º do presente diploma, pelo\
+    \ DR.19/2009.04.09.2009.MDN, DR.IS [172] de 04.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/19-2009-489502
+  date: '2009-09-04'
 article_structure:
-  article_count: 54
+  article_count: 35
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:33Z'
   warnings: []
   errors: []
 ---
@@ -183,11 +294,15 @@ Os artigos 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 17
 
 3 - Os Ministros podem delegar nos Secretários e Subsecretários de Estado que os coadjuvam, com faculdade de subdelegação, a competência relativa aos serviços, organismos e actividades deles dependentes.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Cada Ministro é substituído na sua ausência ou impedimento pelo Secretário de Estado que indicar ao Primeiro-Ministro ou, na falta de tal indicação, pelo membro do Governo que o Primeiro-Ministro designar.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os Secretários de Estado e o Subsecretário de Estado não dispõem de competência própria, excepto no que se refere aos respectivos gabinetes, e exercem, em cada caso, a competência que neles seja delegada pelo Primeiro-Ministro ou pelo Ministro respectivo.
 
@@ -195,7 +310,9 @@ Cada Ministro é substituído na sua ausência ou impedimento pelo Secretário d
 
 3 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A Presidência do Conselho de Ministros é o departamento central do Governo que tem por missão prestar apoio ao Conselho de Ministros, ao Primeiro-Ministro e aos demais membros do Governo aí integrados organicamente e promover a coordenação interministerial dos diversos departamentos governamentais.
 
@@ -235,19 +352,25 @@ d) A Direcção-Geral das Autarquias Locais.
 
 15 - A Presidência do Conselho de Ministros compreende ainda todos os serviços, organismos e estruturas que não tenham sido expressamente incorporados noutros ministérios.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O Ministério da Administração Interna é o departamento governamental que tem por missão a formulação, coordenação, execução e avaliação das políticas de segurança interna, de administração eleitoral, de protecção e socorro e de segurança rodoviária, bem como assegurar a representação desconcentrada do Governo no território nacional.
 
 2 - O Ministério da Administração Interna compreende os serviços identificados no [Decreto-Lei n.º 203/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2006-545640), de 27 de Outubro.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O Ministério dos Negócios Estrangeiros é o departamento governamental que tem por missão formular, coordenar e executar a política externa de Portugal.
 
 2 - O Ministério dos Negócios Estrangeiros compreende os serviços, organismos e estruturas identificados no [Decreto-Lei n.º 204/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2006-545648), de 27 de Outubro.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O Ministério das Finanças e da Administração Pública é o departamento governamental que tem por missão definir e conduzir a política financeira do Estado e as políticas da Administração Pública, promovendo a gestão racional dos recursos públicos, o aumento da eficiência e equidade na sua obtenção e gestão, e a melhoria dos sistemas e processos da sua organização e gestão.
 
@@ -263,7 +386,9 @@ d) A Direcção-Geral das Autarquias Locais.
 
 7 - [Revogado].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O Ministério da Defesa Nacional é o departamento governamental que tem por missão a preparação e execução da política de defesa nacional no âmbito das atribuições que lhe são conferidas pela Lei de Defesa Nacional e das Forças Armadas, bem como assegurar e fiscalizar a administração das Forças Armadas e dos demais serviços e organismos nele integrados.
 
@@ -277,13 +402,17 @@ d) A Direcção-Geral das Autarquias Locais.
 
 6 - [Anterior n.º 5].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O Ministério da Justiça é o departamento governamental que tem por missão a concepção, condução, execução e avaliação da política de justiça definida pela Assembleia da República e pelo Governo.
 
 2 - O Ministério da Justiça compreende os serviços, organismos e estruturas identificados no [Decreto-Lei n.º 206/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2006-545645), de 27 de Outubro.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional é o departamento governamental que tem por missão definir, executar e coordenar as políticas de ambiente, de ordenamento do território e cidades e de desenvolvimento regional, bem como coordenar globalmente a política de coesão em Portugal, numa perspectiva de desenvolvimento sustentável e de coesão territorial.
 
@@ -301,7 +430,9 @@ d) A Direcção-Geral das Autarquias Locais.
 
 8 - [Revogado].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O Ministério da Economia e da Inovação é o departamento governamental que tem por missão conceber, executar e avaliar as políticas dirigidas às actividades económicas, assim como as políticas horizontais dirigidas à inovação visando a competitividade e internacionalização das empresas, as políticas dirigidas à defesa dos direitos dos consumidores e as políticas de regulação dos mercados.
 
@@ -323,7 +454,9 @@ d) A Direcção-Geral das Autarquias Locais.
 
 10 - [Revogado].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O Ministério da Agricultura, do Desenvolvimento Rural e das Pescas é o departamento governamental que tem por missão definir as políticas agrícola, agro-alimentar, silvícola, de desenvolvimento rural e das pescas, numa perspectiva de desenvolvimento sustentável, da protecção, qualidade e segurança da produção agro-alimentar, e assegurar o planeamento e coordenação da aplicação dos fundos nacionais e comunitários a favor da agricultura, das florestas, do desenvolvimento rural e das pescas.
 
@@ -333,7 +466,9 @@ d) A Direcção-Geral das Autarquias Locais.
 
 4 - [Revogado].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - O Ministério das Obras Públicas, Transportes e Comunicações é o departamento governamental que tem por missão definir, coordenar e executar a política nacional nos domínios da construção e obras públicas, dos transportes aéreos, marítimos, fluviais e terrestres, e das comunicações.
 
@@ -351,7 +486,9 @@ d) A Direcção-Geral das Autarquias Locais.
 
 8 - [Revogado].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - O Ministério do Trabalho e da Solidariedade Social é o departamento governamental que tem por missão a definição, condução e execução das políticas de emprego, de formação profissional, de relações laborais e condições de trabalho e de segurança social, bem como a coordenação das políticas de família, de integração das pessoas com deficiência, de combate à pobreza e de promoção da inclusão social.
 
@@ -367,19 +504,25 @@ d) A Direcção-Geral das Autarquias Locais.
 
 7 - [Revogado].
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - O Ministério da Saúde é o departamento governamental que tem por missão definir a política nacional de saúde, exercer as correspondentes funções normativas e promover a respectiva execução e avaliar os resultados.
 
 2 - O Ministério da Saúde compreende os serviços e organismos identificados no [Decreto-Lei n.º 212/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2006-545638), de 27 de Outubro.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - O Ministério da Educação é o departamento governamental que tem por missão definir, coordenar, executar e avaliar a política nacional relativa ao sistema educativo, no âmbito da educação pré-escolar, dos ensinos básico e secundário e da educação extra-escolar, bem como articular, no âmbito das políticas nacionais de promoção da qualificação da população, a política nacional de educação e a política nacional de formação profissional.
 
 2 - O Ministério da Educação compreende os serviços, organismos e estruturas identificados no [Decreto-Lei n.º 213/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2006-545651), de 27 de Outubro.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - O Ministério da Ciência, Tecnologia e Ensino Superior é o departamento governamental que tem por missão definir, executar e avaliar a política nacional para a ciência, a tecnologia e o ensino superior, bem como para a sociedade da informação.
 
@@ -389,17 +532,23 @@ d) A Direcção-Geral das Autarquias Locais.
 
 4 - [Revogado].
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - O Ministério da Cultura é o departamento governamental que tem por missão a definição e execução de uma política global e coordenada na área da cultura e domínios com ela relacionados, designadamente, na salvaguarda e valorização do património cultural, no incentivo à criação artística e à difusão cultural, na qualificação do tecido cultural e na internacionalização da cultura portuguesa.
 
 2 - O Ministério da Cultura compreende os serviços, organismos e estruturas identificados no [Decreto-Lei n.º 215/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2006-545647), de 27 de Outubro.
 
-###### Artigo 25.º — Empresas públicas
+Artigo 25.º
+
+Empresas públicas
 
 O Governo deve aprovar e manter actualizado, em termos a definir por resolução do Conselho de Ministros, o elenco actualizado das empresas públicas que integram o sector empresarial do Estado, indicando, designadamente, os membros do Governo responsáveis pelo exercício dos respectivos poderes de tutela e superintendência, ou relativos ao exercício da função accionista, bem como as situações de articulação estratégica.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 Todos os actos do Governo que envolvam aumento de despesas ou diminuição de receitas são obrigatoriamente aprovados pelo Ministro de Estado e das Finanças.»
 
@@ -427,15 +576,15 @@ Até à entrada em vigor dos diplomas que concretizem as criações e fusões de
 
 Visto e aprovado em Conselho de Ministros de 13 de Setembro de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.
 
-**Promulgado em 19 de Outubro de 2006.**
+Promulgado em 19 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 23 de Outubro de 2006.**
+Referendado em 23 de Outubro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — LEI ORGÂNICA DO XVII GOVERNO CONSTITUCIONAL
 
@@ -541,7 +690,7 @@ b) Pelo Secretário de Estado da Juventude e do Desporto.
 
 ###### Artigo 6.º — Substituição do Primeiro-Ministro
 
-**O Primeiro-Ministro, salvo sua indicação em contrário, será substituído na sua ausência ou impedimento pelo Ministro de Estado e da Administração Interna ou por Ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.**
+O Primeiro-Ministro, salvo sua indicação em contrário, será substituído na sua ausência ou impedimento pelo Ministro de Estado e da Administração Interna ou por Ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.
 
 ###### Artigo 7.º — Competência dos Ministros
 

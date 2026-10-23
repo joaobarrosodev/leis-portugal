@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/192/1997/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1997-144847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d40a16aeaded0dffde9bcff15efe79b2862e85aa31b174cd1dc8b8e578ca1ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a087f9742a6a4c1b3388e1b3e690371d0872df6e11e26ff4bd6ffabf81624e5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/12/1994/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/12/1994/01/15/p/dre
+- type: cites
+  target: pt:dre:388644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509199:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:45Z'
   warnings: []
   errors: []
 ---
@@ -110,12 +118,12 @@ Os mergulhadores-apanhadores provisórios a que se refere o n.º 2 do artigo 3.�
 
 Visto e aprovado em Conselho de Ministros de 19 de Junho de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - Maria João Fernandes Rodrigues - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 14 de Julho de 1997.**
+Promulgado em 14 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Julho de 1997.**
+Referendado em 18 de Julho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

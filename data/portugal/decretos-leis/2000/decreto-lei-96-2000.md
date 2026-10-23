@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/119a00/22952300.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/96/2000/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2000-300040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:23:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a9cc483fd977e52ca85af8fa72bf13a507d8de5881eec604b27f3dbe8b707e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70b225fe94c9c898969a0b3b1a217e1f559306ade195751e2ca56d82f761a090
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:23:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,29 @@ reuse:
 subjects:
 - Concurso
 - Definição de Competências
-- Secretaria Geral
 - Integração de Trabalhadores
+- Ministério da Saúde
 - Orgânica
 - Quadro de Pessoal
-- Ministério da Saúde
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:287653:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:313618:por
+  label: "Alterados os arts. 2º, 4º, 14º e o mapa anexo ao art. 13º e aditado o art. 6º-A pelo DEC LEI.16/2001.2001.01.27.MS,DR.IS-A\
+    \ [23]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2001-313618
+  date: '2001-01-27'
+- type: amended_by
+  target: pt:dre:287653:por
+  label: "Determinada a transição para a Direcção Geral de Saúde, das atribuições de coordenação relacionadas com a União\
+    \ Europeia, atribuídas à Secretaria Geral do Ministério da Saúde, cuja orgânica foi aprovada pelo presente diploma, na\
+    \ redacção do Dec Lei 16/2001 de 27-Jan, pelo DR.3-A/2005.31.05.2005.MS, DR.IS-B [104-Supl] de 31.05.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/3-a-2005-287653
+  date: '2005-05-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/292/1993/08/24/p/dre
   label: null
@@ -89,16 +102,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/992/1993/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/992/1993/10/08/p/dre
+- type: cites
+  target: pt:dre:324150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669481:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:611883:por
+  label: "Revogado pelo DEC LEI.257/2001.2001.09.22.MS, DR.IS-A [221], reportando-se o seus efeitos a partir da data da entrada\
+    \ em vigor da Lei Orgânica do Departamento de Modernização e Recursos da Saúde\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-2001-611883
+  date: '2001-09-22'
 article_structure:
-  article_count: 18
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 19
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:23:34Z'
   warnings: []
   errors: []
 ---
@@ -289,7 +324,9 @@ b) A Secção de Arquivo e Expediente, à qual incumbem as tarefas a que se refe
 
 3 - O Gabinete de Informação, Documentação e Relações Públicas é dirigido por um chefe de divisão.
 
-###### Artigo 9.º — Divisão de Gestão Financeira e Patrimonial
+###### Artigo 9.º
+
+##### Divisão de Gestão Financeira e Patrimonial
 
 1 - À Divisão de Gestão Financeira e Patrimonial compete:
 
@@ -321,7 +358,9 @@ a) A Secção de Orçamento e Contabilidade, à qual incumbe o desempenho das ta
 
 b) A Secção de Património, à qual incumbe o desempenho das tarefas a que se referem as alíneas g) a l) do número anterior.
 
-###### Artigo 10.º — Divisão de Recursos Humanos
+###### Artigo 10.º
+
+##### Divisão de Recursos Humanos
 
 1 - À Divisão de Recursos Humanos compete:
 
@@ -347,7 +386,9 @@ j) Organizar e acompanhar a realização dos processos de recrutamento e selecç
 
 2 - A Divisão de Recursos Humanos integra a Secção de Pessoal, à qual incumbem as tarefas a que se referem as alíneas e) a j) do número anterior.
 
-### CAPÍTULO III — Artigo 11.º
+### CAPÍTULO III
+
+###### Artigo 11.º
 
 Funcionamento - Princípios e instrumentos de gestão
 
@@ -429,15 +470,15 @@ O presente diploma entra em vigor no dia 1 de Julho do corrente ano.
 
 Visto e aprovado em Conselho de Ministros de 9 de Março de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Maria Manuela de Brito Arcanjo Marques da Costa - Alberto de Sousa Martins.
 
-**Promulgado em 8 de Maio de 2000.**
+Promulgado em 8 de Maio de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Maio de 2000.**
+Referendado em 12 de Maio de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Quadro de pessoal dirigente a que se refere o artigo 13.º, n.º 1
 

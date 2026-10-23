@@ -19,13 +19,13 @@ summary: Nomeia, sob proposta do Primeiro-Ministro, o Dr. Luís Miguel Paes Antu
   Martins da Costa Macedo e Silva Secretário de Estado da Justiça, o Dr. António Alberto Rodrigues Ribeiro Secretário de Estado
   da Administração Judiciária, o engenheiro Carlos Manuel Duarte de Oliveira Secretário de Estado Adjunto do Ministro da Agricultura,
   Pescas e Florestas, o engenheiro David Ribeiro de Sousa Geraldes Secretário de Estado da Agricultura e Alimentação, o engenheiro
-  Luís António Pir es Pinheiro Secretário de Estado das Florestas, o Prof. Doutor José Manuel de Albuquerque Portocarrero
-  Canavarro Secretário de Estado Adjunto e da Administração Educativa, o Dr. Diogo Nuno de Gouveia Torres Feio Secretário
-  de Estado da Educação, o engenheiro Pedro Miguel Santos de Sampaio Nunes Secretário de Estado da Ciência e Inovação, o Prof.
-  Doutor Mário Patinha Antão Secretário de Estado Adjunto do Ministro da Saúde, a Dr.ª Regina Maria Pinto da Fonseca Ramos
-  Bastos Secretária de Estado da Saúde, a Dr.ª Maria do Rosário Cardoso Águas Secretária de Estado Adjunta do Ministro da
-  Segurança Social, da Família e da Criança, o engenheiro Jorge Fernando Magalhães da Costa Secretário de Estado Adjunto e
-  das Obras Públicas, o engenheiro Jorge Manuel Martins Borrego Secretário de Estado dos Transportes e Comunicações, o Dr.
+  Luís António Pir                     es Pinheiro Secretário de Estado das Florestas, o Prof. Doutor José Manuel de Albuquerque
+  Portocarrero Canavarro Secretário de Estado Adjunto e da Administração Educativa, o Dr. Diogo Nuno de Gouveia Torres Feio
+  Secretário de Estado da Educação, o engenheiro Pedro Miguel Santos de Sampaio Nunes Secretário de Estado da Ciência e Inovação,
+  o Prof. Doutor Mário Patinha Antão Secretário de Estado Adjunto do Ministro da Saúde, a Dr.ª Regina Maria Pinto da Fonseca
+  Ramos Bastos Secretária de Estado da Saúde, a Dr.ª Maria do Rosário Cardoso Águas Secretária de Estado Adjunta do Ministro
+  da Segurança Social, da Família e da Criança, o engenheiro Jorge Fernando Magalhães da Costa Secretário de Estado Adjunto
+  e das Obras Públicas, o engenheiro Jorge Manuel Martins Borrego Secretário de Estado dos Transportes e Comunicações, o Dr.
   José Manuel Amaral Lopes Secretário de Estado dos Bens Culturais, a Dr.ª Teresa Margarida Figueiredo de Vasconcelos Caeiro
   Secretária de Estado das Artes e Espectáculos, o engenheiro Jorge Manuel Lopes Moreira da Silva Secretário de Estado Adjunto
   do Ministro do Ambiente e do Ordenamento do Território, o Dr. Carlos José das Neves Martins Secretário de Estado Adjunto
@@ -46,7 +46,7 @@ publication:
   reference: Diário da República n.º 170/2004, 1º Suplemento, Série I-A de 2004-07-21
   number: '170'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4558-(3) a 4558-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/07/170a01/00030003.pdf
 entry_into_force_dates: []
@@ -73,18 +73,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/38-a/2004/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/38-a-2004-408370
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:47:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 583855ea9a6d441cd8dfd013b3267cac2343898fce946d4d581d1212c55fa35e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 758f5d8ab1934ccbf008af61296565415751bc58d5a7f1353bfd9e50f95a44b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:47:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -92,60 +92,79 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário de Estado Adjunto do Ministro da Saúde
-- Secretário de Estado da Administração Interna
 - Governo XVI
+- Nomeação
+- Secretário de Estado
 - Secretário de Estado Adjunto do Ministro da Administração Interna
 - Secretário de Estado Adjunto do Ministro da Agricultura Pescas e Florestas
 - Secretário de Estado Adjunto do Ministro da Justiça
+- Secretário de Estado Adjunto do Ministro da Presidência
+- Secretário de Estado Adjunto do Ministro da Saúde
+- Secretário de Estado Adjunto do Ministro da Segurança Social da Família e da Criança
 - Secretário de Estado Adjunto do Ministro do Ambiente e do Ordenamento do Território
 - Secretário de Estado Adjunto do Ministro do Turismo
 - Secretário de Estado Adjunto e da Administração Educativa
 - Secretário de Estado Adjunto e das Obras Públicas
 - Secretário de Estado Adjunto e do Trabalho
-- Secretário de Estado da Ciência e Inovação
-- Secretário de Estado da Indústria Comércio e Serviços
-- Secretário de Estado das Florestas
-- Secretário de Estado do Desenvolvimento Económico
-- Secretário de Estado para os Assuntos do Mar
-- Secretário de Estado da Educação
-- Secretário de Estado do Tesouro e das Finanças
-- Secretário de Estado dos Assuntos Fiscais
-- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
-- Secretário de Estado da Administração Local
-- Secretário de Estado da Saúde
-- Secretário de Estado da Justiça
-- Secretário de Estado das Comunidades Portuguesas
-- Secretário de Estado do Desporto
-- Secretário de Estado Adjunto do Ministro da Presidência
-- Secretário de Estado Adjunto do Ministro da Segurança Social da Família e da Criança
-- Nomeação
-- Secretário de Estado
+- Secretário de Estado da Administração Interna
 - Secretário de Estado da Administração Judiciária
+- Secretário de Estado da Administração Local
 - Secretário de Estado da Administração Pública
 - Secretário de Estado da Agricultura e Alimentação
+- Secretário de Estado da Ciência e Inovação
 - Secretário de Estado da Defesa e Antigos Combatentes
+- Secretário de Estado da Educação
+- Secretário de Estado da Indústria Comércio e Serviços
+- Secretário de Estado da Justiça
 - Secretário de Estado da Juventude
+- Secretário de Estado da Saúde
 - Secretário de Estado das Artes e Espectáculos
+- Secretário de Estado das Comunidades Portuguesas
+- Secretário de Estado das Florestas
+- Secretário de Estado do Desenvolvimento Económico
 - Secretário de Estado do Desenvolvimento Regional
+- Secretário de Estado do Desporto
 - Secretário de Estado do Orçamento
+- Secretário de Estado do Tesouro e das Finanças
+- Secretário de Estado dos Assuntos Fiscais
 - Secretário de Estado dos BENS Culturais
+- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
 - Secretário de Estado dos Transportes e Comunicações
+- Secretário de Estado para os Assuntos do Mar
 relationships:
 - type: amended_by
   target: pt:dre:316897:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:316893:por
+  label: "Exoneradas a Dr.ª Sofia de Sequeira Galvão e a Dr.ª Maria do Rosário da Silva Cardoso Águas, respectivamente, dos\
+    \ cargos de Secretária de Estado da Administração Pública e Secretária de Estado Adjunta do Ministro da Segurança Social,\
+    \ da Família e da Criança,pelo DEC.90-A/2004.24.11.2004.PR, DR.IS-A [276-Supl] de 24.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/90-a-2004-316893
+  date: '2004-11-24'
+- type: amended_by
+  target: pt:dre:316894:por
+  label: "Exonerado o Dr. José Manuel Pereira da Costa do cargo de Secretário de Estado da Defesa e Antigos Combatentes, pelo\
+    \ DEC.90-B/2004.24.11.2004.PR, DR.IS-A [276-Supl] de 24.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/90-b-2004-316894
+  date: '2004-11-24'
+- type: amended_by
+  target: pt:dre:316897:por
+  label: "Exonerado o Dr. Feliciano José Barreiras Duarte do cargo de Secretário de Estado Adjunto do Ministro da Presidência,\
+    \ pelo DEC.90-E/2004.24.11.2004.PR, DR.IS-A [276-Supl] de 24.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/90-e-2004-316897
+  date: '2004-11-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:47:53Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +173,7 @@ validation:
 
 de 21 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -230,12 +249,12 @@ O Dr. Pedro Miguel de Azeredo Duarte Secretário de Estado da Juventude;
 
 Hermínio José Sobral Loureiro Gonçalves Secretário de Estado do Desporto.
 
-**Assinado em 21 de Julho de 2004.**
+Assinado em 21 de Julho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Julho de 2004.**
+Referendado em 21 de Julho de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

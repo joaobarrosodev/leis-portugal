@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/11800/0312803140.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/73/2017/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2017-107541409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74932af7ff48306a427cd6ff5add387b04b1347cbbda578584c37431c2de5080
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4df059dbf5f1529c1abd1bd2f33958420e7d2664e8f64cd414c7b293f3ac81f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Assistência Médica
-- Médico
-- Direção Geral da Saúde
-- Unidade de Saúde Familiar
-- Administração Regional de Saúde
-- Equipa de Missão
-- Serviço Nacional de Saúde
-- Incentivo Profissional
-- Centro de Saúde
+- ACES
 - Administração Central do Sistema de Saúde
+- Administração Regional de Saúde
+- Assistência Médica
+- Centro de Saúde
+- Contrato de Trabalho
+- Cuidados Médicos
+- Direção Geral da Saúde
+- Equipa de Missão
+- Gestão de Recursos Humanos
+- Incentivo Profissional
+- Médico
 - Pessoal Administrativo
 - Pessoal de Enfermagem
-- Cuidados Médicos
-- Contrato de Trabalho
 - Regime Jurídico
 - Remuneração
-- Gestão de Recursos Humanos
-- ACES
+- Serviço Nacional de Saúde
+- Unidade de Saúde Familiar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117/1998/05/05/p/dre
@@ -124,16 +124,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/993-a/1998/11/24/p/
   label: null
   source: http://data.dre.pt/eli/port/993-a/1998/11/24/p/
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:530783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74738647:por
+  label: null
+  source: null
 article_structure:
-  article_count: 66
+  article_count: 52
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:13Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +226,9 @@ Os artigos 3.º, 6.º, 7.º, 9.º, 12.º, 13.º, 14.º, 19.º, 20.º, 21.º, 23.
 
 5 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O plano de ação da USF traduz o seu programa de atuação na prestação de cuidados de saúde de forma personalizada e contém o compromisso assistencial, os seus objetivos, indicadores e resultados a atingir nas áreas de desempenho, serviços e qualidade e inclui o plano de formação e o plano de aplicação dos incentivos institucionais.
 
@@ -208,7 +254,9 @@ c) As atividades específicas previstas nos artigos 29.º e 38.º
 
 9 - A carteira básica de serviços e os princípios da carteira adicional de serviços são fixados por portaria do membro do Governo responsável pela área da saúde, mediante prévia participação das organizações profissionais.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -218,7 +266,9 @@ c) As atividades específicas previstas nos artigos 29.º e 38.º
 
 4 - Os enfermeiros que constituem a USF têm de deter o título de especialista em enfermagem de saúde familiar.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os utentes inscritos em cada médico e enfermeiro de família são designados em lista, privilegiando-se a estrutura familiar.
 
@@ -232,7 +282,9 @@ c) As atividades específicas previstas nos artigos 29.º e 38.º
 
 6 - Sem prejuízo do disposto no número anterior procede-se à atualização nele referida sempre que haja alteração do número de profissionais da USF.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -250,7 +302,9 @@ c) As atividades específicas previstas nos artigos 29.º e 38.º
 
 8 - Em caso de impossibilidade permanente ou por um período igual ou superior a 120 dias seguidos do coordenador da USF o conselho geral reunirá sob presidência do médico do conselho técnico tendo em vista desencadear o processo de escolha de novo coordenador.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...].
 
@@ -280,7 +334,9 @@ h) Deliberar sobre a extinção da USF.
 
 6 - Nas decisões tomadas por votação todos os elementos do conselho geral têm paridade de voto.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O conselho técnico é constituído por um médico, um enfermeiro e um assistente técnico, preferencialmente detentores de qualificação profissional mais elevada e de maior experiência profissional nos cuidados de saúde primários, escolhidos pelos elementos de cada grupo profissional.
 
@@ -300,7 +356,9 @@ d) Contribuir para o desenvolvimento de uma cultura organizacional de formação
 
 5 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]:
 
@@ -332,7 +390,9 @@ b) Não cumprimento, em dois anos consecutivos, dos tempos máximos de resposta 
 
 8 - Caso ocorra a extinção da USF, os profissionais ali integrados mantêm-se em funções na Unidade de Cuidados de Saúde Personalizados que sucede a USF, sem prejuízo de poder haver lugar à constituição de uma nova equipa e candidatura a USF, nos termos da legislação em vigor.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...].
 
@@ -344,7 +404,9 @@ b) Não cumprimento, em dois anos consecutivos, dos tempos máximos de resposta 
 
 5 - Nos casos previstos nos n.os 2 e 4, a competência para autorizar a mobilidade de profissionais do mesmo ACES é da competência do respetivo diretor executivo mediante prévia comunicação à respetiva ARS.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...].
 
@@ -354,7 +416,9 @@ b) Não cumprimento, em dois anos consecutivos, dos tempos máximos de resposta 
 
 4 - O incumprimento do disposto nos números anteriores é objeto de comunicação à Inspeção-Geral das Atividades em Saúde para os devidos efeitos.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - O horário de trabalho a praticar por cada elemento da equipa multiprofissional assim como o início e o termo do período normal de trabalho deve ser definido em articulação e por acordo entre todos os profissionais, de acordo com o previsto no n.º 1 do artigo anterior.
 
@@ -362,7 +426,9 @@ b) Não cumprimento, em dois anos consecutivos, dos tempos máximos de resposta 
 
 3 - Os horários dos profissionais são aprovados em conselho geral e submetidos pelo coordenador a validação pelo diretor executivo do ACES.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...].
 
@@ -388,7 +454,9 @@ c) [...]
 
 d) [...].
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - A compensação prevista na alínea a) do n.º 4 do artigo anterior e no n.º 3 do artigo 38.º está associada ao aumento das unidades ponderadas da lista mínima de utentes dos médicos e dos enfermeiros por força das atividades específicas de vigilância a utentes vulneráveis e de risco, segundo orientações técnicas da Direção-Geral da Saúde, nos termos seguintes:
 
@@ -408,13 +476,17 @@ f) [...].
 
 3 - [...].
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Podem ser atribuídos outros incentivos institucionais e financeiros à equipa multiprofissional e que visam estimular e apoiar o desempenho coletivo tendo em conta os ganhos de eficiência conseguidos.
 
 2 - [...]
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...].
 
@@ -444,15 +516,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de abril de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Adalberto Campos Fernandes.
 
-**Promulgado em 6 de junho de 2017.**
+Promulgado em 6 de junho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de junho de 2017.**
+Referendado em 7 de junho de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

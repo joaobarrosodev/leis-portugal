@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/12/24900/0547405481.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/122/2011/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2011-145184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bf733e1c07255a3f2ed8c652d282052185912b1b60246142476042a9ab380b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0009575f8bd3e864084709ba6cc0bc187c3890c3d293aeba48604103a67ffc2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,40 +65,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Defesa Nacional
-- Exército
-- Direcção Geral de Pessoal e Recrutamento Militar
+- AUTORIDADE AERONÁUTICA NACIONAL
+- Autoridade Marítima Nacional
+- Busca e Salvamento
 - Conselho da Saúde Militar
 - Conselho de Chefes de Estado Maior
-- Força Aérea
+- Conselho do Ensino Superior Militar
 - Conselho Superior Militar
 - Cruz Vermelha Portuguesa
-- Autoridade Marítima Nacional
-- Direcção Geral de Armamento e Infra-estruturas de Defesa
 - Direção Geral de Política de Defesa Nacional
-- Conselho do Ensino Superior Militar
-- Marinha
-- Instituto de Ação Social das Forças Armadas
-- Setor Empresarial do Estado
-- Política de Defesa
-- Secretaria Geral
+- Direcção Geral de Armamento e Infra-estruturas de Defesa
+- Direcção Geral de Pessoal e Recrutamento Militar
+- Estado Maior General das Forças Armadas
+- Exército
+- Força Aérea
+- Forças Armadas
 - Inspeção Geral da Defesa Nacional
+- Instituto de Ação Social das Forças Armadas
 - Instituto de Defesa Nacional
 - Liga dos Combatentes
-- Forças Armadas
+- Marinha
+- Ministério da Defesa Nacional
 - Orgânica
 - Polícia Judiciária Militar
+- Política de Defesa
+- Secretaria Geral
 - Serviço de Assistência Religiosa das Forças Armadas
-- Estado Maior General das Forças Armadas
+- Setor Empresarial do Estado
 - Sistema Nacional para a Busca e Salvamento Aéreo
 - Sistema Nacional para a Busca e Salvamento Marítimo
-- AUTORIDADE AERONÁUTICA NACIONAL
-- Busca e Salvamento
 relationships:
 - type: amended_by
   target: pt:dre:65983260:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:65983260:por
+  label: Determinada a extinção, nos termos do disposto nos arts. 28.º e 29.º do Decreto-Lei n.º 183/2014 - Diário da República
+    n.º 250/2014, Série I de 2014-12-29, sendo objeto de fusão, a Direção-Geral de Pessoal e Recrutamento Militar e a Direção-Geral
+    de Armamento e Infraestruturas de Defesa (sendo as suas atribuições integradas na Direção-Geral de Recursos da Defesa
+    Nacional, ora criada), previstas nas als. d) e e) do art. 4.º do presente diploma, que é revogado a partir de 30.12.2014,
+    pelo citado Decreto-Lei n.º 183/2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2014-65983260
+  date: '2014-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/154-a/2009/07/06/p/dre
   label: null
@@ -135,16 +144,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:195802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661562:por
+  label: null
+  source: null
 article_structure:
   article_count: 35
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:43Z'
   warnings: []
   errors: []
 ---
@@ -551,24 +596,24 @@ Mantêm-se em vigor, até à revisão do Estatuto dos Militares das Forças Arma
 
 Visto e aprovado em Conselho de Ministros de 27 de Outubro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Luís Miguel Gubert Morais Leitão - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 21 de Dezembro de 2011.**
+Promulgado em 21 de Dezembro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de Dezembro de 2011.**
+Referendado em 23 de Dezembro de 2011.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 29.º)
 
 Cargos de direcção superior da administração directa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/24900/0547405481.pdf))](https://files.diariodarepublica.pt/1s/2011/12/24900/0547405481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/24900/0547405481.pdf)
 
 ## ANEXO II — (a que se refere o artigo 29.º)
 
 Dirigentes de organismos da administração indirecta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/24900/0547405481.pdf))](https://files.diariodarepublica.pt/1s/2011/12/24900/0547405481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/24900/0547405481.pdf)

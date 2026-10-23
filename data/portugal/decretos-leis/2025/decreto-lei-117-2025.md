@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/117/2025/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2025-944410938
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74fb7cf974d3cb0821843664aaf85804cf2bf6b35ae0651bb1c5e7ecbf8b473a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e3818158749f9dfaeaa91f5250d503f1156d74c9d777d2d854f8744517716d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
 - Comissão de Coordenação e Desenvolvimento Regional
+- Definição de Competências
 - Integração de Trabalhadores
 - Orgânica
 relationships:
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:992627243:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:36/2023
+  label: Altera, a partir de 6 de novembro de 2025, os artigos 3.º e 4.º do anexo ao Decreto-Lei n.º 36/2023, de 26 de maio,
+    Diário da República n.º 102/2023, Série I
+  source: null
+  date: '2023-05-26'
+- type: amends
+  target: pt:numero:decreto-lei:99/2025
+  label: Altera, a partir de 6 de novembro de 2025, o artigo 5.º do Decreto-Lei n.º 99/2025, de 28 de agosto, Diário da República
+    n.º 165/2025, Série I
+  source: null
+  date: '2025-08-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/103/2024/12/06/p/dre
   label: null
@@ -98,16 +110,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/2025/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/2025/08/28/p/dre
+- type: cites
+  target: pt:dre:192426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213558633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225125603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:890194535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:899204480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:933527232:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:02Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +170,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 O presente decreto-lei procede:
 
-a) À quarta alteração ao anexo do [Decreto-Lei n.º 36/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), de 26 de maio, alterado pelos Decretos-Leis n.<sup>os</sup>[114/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2023-225125603), de 4 de dezembro, [68/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2024-890194535), de 8 outubro, e [103/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), de 6 de dezembro, que estabelece a orgânica das Comissões de Coordenação e Desenvolvimento Regional;
+a) À quarta alteração ao anexo do [Decreto-Lei n.º 36/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), de 26 de maio, alterado pelos Decretos-Leis n.os[114/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2023-225125603), de 4 de dezembro, [68/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2024-890194535), de 8 outubro, e [103/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), de 6 de dezembro, que estabelece a orgânica das Comissões de Coordenação e Desenvolvimento Regional;
 
 b) À alteração ao [Decreto-Lei n.º 99/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), de 28 de agosto, que cria a Agência para a Gestão do Sistema Educativo, I. P., e aprova a respetiva orgânica, e extingue o Instituto de Gestão Financeira da Educação, I. P., a Direção-Geral da Administração Escolar e a Direção-Geral dos Estabelecimentos Escolares.
 
@@ -162,7 +198,9 @@ f) [...]
 
 g) Participar no planeamento das políticas públicas na área da educação e da formação profissional não superiores, nos seus diferentes níveis e modalidades, bem como acompanhar a organização e funcionamento das escolas, em estreita articulação com os municípios, as comunidades intermunicipais e os demais órgãos, serviços e organismos da área governativa da educação, ciência e inovação, de modo a promover o desenvolvimento e a consolidação da sua autonomia.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -266,12 +304,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de agosto de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Fernando Alexandre.
 
-**Promulgado em 29 de outubro de 2025.**
+Promulgado em 29 de outubro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de outubro de 2025.**
+Referendado em 29 de outubro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119728591

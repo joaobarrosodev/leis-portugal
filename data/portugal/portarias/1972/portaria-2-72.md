@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/2-1972-291798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 334fb13051d983912b24697f90bd80570c65637029d766d4c9d68aea7a3639bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e3d16fee2a63cd1ddd426d5ca22fb28790959380674b037a39eb004b64c8eed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:147262:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:44Z'
   warnings: []
   errors: []
 ---
@@ -88,6 +92,6 @@ de 4 de Janeiro
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º III da base LXXXIII da Lei Orgânica do Ultramar Português, que seja publicada nos Boletins Oficiais de Cabo Verde, Guiné, S. Tomé e Príncipe, Angola e Moçambique a [Portaria n.º 587/70](https://diariodarepublica.pt/dr/detalhe/portaria/587-1970-147262), de 21 de Novembro, do Ministério da Marinha, para nelas vigorar na parte que é da competência daquele Ministério, que estimula o armamento que pratica o tráfego reservado à bandeira nacional, atenta a sua potencialidade, a satisfazer suficientemente e dentro de breve prazo as necessidades de transporte marítimo de carga frigorífica entre portos da metrópole para portos do ultramar português e vice-versa.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada nos Boletins Oficiais de Cabo Verde, Guiné, S. Tomé e Príncipe, Angola e Moçambique. - J. da Silva Cunha.

@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 21/1968, 1º Suplemento, Série I de 1968-01-25
   number: '21'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 77 - 166
   pdf_url: https://files.diariodarepublica.pt/1s/1968/01/02101/00770166.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23181-1968-332401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fa74c3426549aad5ae80bca85a6c8e9322eba724c7947e9512c68c720c0ca8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a624be7b13dbfb6da878b32a2aad0c6058de2bda940eaa47c30777621681e6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:486537:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:30Z'
   warnings: []
   errors: []
 ---
@@ -261,7 +265,7 @@ Determinante de uma matriz; propriedades elementares. Cálculo de um determinant
 
 Aplicação dos determinantes à resolução de sistemas de equações lineares. Regra de Cramer. Sistemas impossíveis e indeterminados.
 
-Resolução geométrica de sistemas de equações envolvendo equações lineares e da forma [([ver documento original](https://files.diariodarepublica.pt/1s/1968/01/02101/00770166.pdf))](https://files.diariodarepublica.pt/1s/1968/01/02101/00770166.pdf) e x (sinal de «x») y = K.
+Resolução geométrica de sistemas de equações envolvendo equações lineares e da forma [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/01/02101/00770166.pdf) e x (sinal de «x») y = K.
 
 Intersecção de rectas e de curvas. Discussão. Tangentes a curvas.
 
@@ -513,7 +517,7 @@ f (x) = o - equação linear homogénea;
 
 f (x) = P (x), sendo P (x) um polinómio em x;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/01/02101/00770166.pdf))](https://files.diariodarepublica.pt/1s/1968/01/02101/00770166.pdf), com m constante e P (x) um polinómio;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/01/02101/00770166.pdf), com m constante e P (x) um polinómio;
 
 f (x)= A cos ax + B sen ax - A, B e a constantes.
 
@@ -541,7 +545,7 @@ Problemas métricos:
 
 Distância de dois pontos e distância de um ponto a uma recta.
 
-##### Divisão de um segmento.
+Divisão de um segmento.
 
 Ângulo de duas rectas.
 
@@ -13241,7 +13245,7 @@ O princípio da igualdade perante a lei.
 
 8) A soberania e os órgãos da soberania nacional:
 
-**O Chefe do Estado:**
+O Chefe do Estado:
 
 Eleição; condições de elegibilidade; posse; vacatura.
 
@@ -13553,7 +13557,7 @@ Método: a introspecção e a extrospecção; os progressos da experimentação;
 
 A consciência e a atenção.
 
-##### Divisão da vida psíquica.
+Divisão da vida psíquica.
 
 Vida cognitiva; conhecimento sensível - a aquisição de conhecimentos: sensação e percepção: conservação de conhecimentos: imagens e memória: combinação de conhecimentos e associação e imaginação - a importância da imaginação criadora; elaboração de conhecimentos: abstracção e generalização, ideia, juízo e reciocínio.
 
@@ -13989,9 +13993,9 @@ Cortes por planos paralelos, oblíquos e auxiliares.
 
 Secções - plano secante conveniente:
 
-#### Secção rebatida e secção deslocada.
+Secção rebatida e secção deslocada.
 
-#### Secção como vista normal.
+Secção como vista normal.
 
 Cortes e secções de peças compridas de secção constante ou variável: veios, eixos, fusos, hastes, etc. Nervuras, braços de tambores, de volantes, de rodas dentadas, etc.
 
@@ -14099,13 +14103,13 @@ Desenho de Máquinas - II
 
 Intersecções resultantes das operações necessárias à maquinagem das peças:
 
-#### Secção num cilindro recto por um plano vertical.
+Secção num cilindro recto por um plano vertical.
 
-#### Secção oblíqua num cilindro.
+Secção oblíqua num cilindro.
 
-#### Secção quebrada numa superfície cilíndrica.
+Secção quebrada numa superfície cilíndrica.
 
-#### Secção de um cone recto por um plano vertical.
+Secção de um cone recto por um plano vertical.
 
 Determinação das curvas de penetração:
 

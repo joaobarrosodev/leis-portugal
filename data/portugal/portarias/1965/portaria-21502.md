@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21502-1965-292767
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T02:05:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32535eb82734fb55186ccdcc3431c9be9309ad1f8d6f655c11a21add0275718f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 989b479d49b77f21158ba379689c2dc1e084058c3e2ccb09560856a25be858f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:05:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:05:19Z'
   warnings: []
   errors: []
 ---
@@ -89,11 +93,11 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 4), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal civil assalariado - Eventual» ... 54000$00
+Artigo 1.º, n.º 4), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal civil assalariado - Eventual» ... 54000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 7.º, n.º 3) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 50000$00
+Artigo 7.º, n.º 3) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 50000$00
 
 ... 104000$00
 
@@ -101,13 +105,13 @@ tomando como contrapartida as seguintes disponibilidades existentes na mesma tab
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 2), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal em comissão vitalícia além dos quadros - Pessoal em comissão além dos quadros por substituição antes do regresso» ... 30000$00
+Artigo 1.º, n.º 2), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal em comissão vitalícia além dos quadros - Pessoal em comissão além dos quadros por substituição antes do regresso» ... 30000$00
 
-###### Artigo 1.º, n.º 3) «Remunerações certas ao pessoal em exercício - Pessoal civil contratado» ... 24000$00
+Artigo 1.º, n.º 3) «Remunerações certas ao pessoal em exercício - Pessoal civil contratado» ... 24000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 1.º, n.º 2), alínea a) «Encargos administrativos - Instrução complementar de quadros milicianos - Primeiros-cabos milicianos em estágio» ... 50000$00
+Artigo 1.º, n.º 2), alínea a) «Encargos administrativos - Instrução complementar de quadros milicianos - Primeiros-cabos milicianos em estágio» ... 50000$00
 
 ... 104000$00
 

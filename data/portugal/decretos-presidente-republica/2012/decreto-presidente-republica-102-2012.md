@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/102/2012/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/102-2012-179565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T05:11:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c12052cc0e6683410c16716c54a7763a6e654d9ea8ac461f4d62d9349ed436a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d99d8544ea0317d4f87f0c3cb71abd75654c0f0c798cccdfd447f251c062b46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:11:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exoneração
 - Embaixador
+- Exoneração
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:11:48Z'
   warnings: []
   errors: []
 ---
@@ -87,16 +87,16 @@ validation:
 
 de 9 de julho
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É exonerado, sob proposta do Governo, o ministro plenipotenciário de 1.ª classe António Manuel Ricoca Freire do cargo de Embaixador de Portugal na Guiné-Bissau.
 
-**Assinado em 28 de junho de 2012.**
+Assinado em 28 de junho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de julho de 2012.**
+Referendado em 3 de julho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho. - Pelo Ministro de Estado e dos Negócios Estrangeiros, Luís Miguel Gubert Morais Leitão, Secretário de Estado Adjunto e dos Assuntos Europeus.**
+O Primeiro-Ministro, Pedro Passos Coelho. - Pelo Ministro de Estado e dos Negócios Estrangeiros, Luís Miguel Gubert Morais Leitão, Secretário de Estado Adjunto e dos Assuntos Europeus.

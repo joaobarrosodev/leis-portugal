@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/137a00/34103417.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/217/1999/06/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1999-309005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:08:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b96c8e85aa070faf51e600272d59fa437c2adbcfdb4a51b832c0b6b711ec93af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73fe7473f6a679dd2db4c1618b720662ee597650332a7a486054a9bb86a98a86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:08:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Análises Clínicas
-- Pessoal de Saúde
 - Bioquímica
-- Medicina Privada
 - Comissão de Verificação Técnica
-- Direção Geral da Saúde
-- Ministro da Saúde
 - Comissão Técnica Nacional
-- Higiene do Trabalho
-- Serviço de Saúde
 - Contra-ordenação
 - Controlo de Qualidade
-- Direcção Técnica
 - Controlo Sanitário
+- Direção Geral da Saúde
+- Direcção Técnica
 - Fiscalização
 - Hematologia Clínica
+- Higiene do Trabalho
 - Iniciativa Privada
 - Laboratório
 - Licenciamento
+- Medicina Privada
+- Ministro da Saúde
+- Pessoal de Saúde
 - Regime Jurídico
+- Serviço de Saúde
 - Serviços Complementares de Diagnóstico
 - Vistoria
 relationships:
@@ -93,6 +93,19 @@ relationships:
   target: pt:dre:491395:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632722:por
+  label: "Alterados os arts. 3.º, 4.º, 5º., 6.º, 7.º, 9.º, 10.º, 13.º, 16.º a 49.º, pelo DEC LEI.534/99.1999.12.11.MS DR.IS-A\
+    \ [287]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/534-1999-632722
+  date: '1999-12-11'
+- type: amended_by
+  target: pt:dre:264285:por
+  label: "Alterados os arts. 7.º (na redacção do Dec Lei 534/99, de 11-Dez), 8.º, 12.º, 34.º, 40.º e 44.º (os três últimos\
+    \ na redacção do Dec Lei 534/99, de 11-Dez), todos do presente diploma, pelo DEC LEI.111/2004.12.05.2004.MS, DR.IS-A [111]\
+    \ de 12.05.2004, Republicando-o em Anexo.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2004-264285
+  date: '2004-05-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/1993/01/15/p/dre
   label: null
@@ -109,16 +122,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/44/1993/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/44/1993/12/17/p/dre
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586007:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:638525:por
+  label: "Revogado o art. 8º pelo DEC LEI.222/2007.29.05.2007.MS, DR.IS [103] de 29.05.2007, a partir de 01.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-2007-638525
+  date: '2007-05-29'
+- type: repealed_by
+  target: pt:dre:491395:por
+  label: "Revogado, a partir de 11.10.2009, o presente diploma, alterado pelo Dec Lei 222/2007 de 29-Mai, pelo DEC LEI.279/2009.06.10.2009.MS,\
+    \ DR.IS [193] de 06.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/279-2009-491395
+  date: '2009-10-06'
 article_structure:
   article_count: 49
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:08:06Z'
   warnings: []
   errors: []
 ---
@@ -573,7 +613,9 @@ b) Nos laboratórios de anatomia patológica o director técnico deve ter a espe
 
 3 - Deve ser afixada, em local bem visível, informação sobre a existência de livro de reclamações.
 
-###### Artigo 33.º — Livro de reclamações
+###### Artigo 33.º
+
+## Livro de reclamações
 
 1 - Os laboratórios devem dispor de livro de reclamações de modelo normalizado insusceptível de ser desvirtuado, com termo de abertura datado e assinado pelo conselho de administração das ARS.
 
@@ -701,12 +743,12 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Abril de 1999. - António Manuel de Oliveira Guterres - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 25 de Maio de 1999.**
+Promulgado em 25 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Junho de 1999.**
+Referendado em 1 de Junho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

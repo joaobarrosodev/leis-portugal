@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/114-1984-661508
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T07:56:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e06a5bb6c7f803f7a1bd8729246edceebc2ba1232f2cc719e595f3c18af22c1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 978c5634a8853eaf9bf51bce689f2596870e9c19c3f5bff001cbf9f8ecdc2728
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:56:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Faculdade de Ciências
+- Regulamento
+- Universidade de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:244884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:56:41Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +110,19 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação:
 
 Ministério da Educação.
 
-**Assinada em 7 de Fevereiro de 1984.**
+Assinada em 7 de Fevereiro de 1984.
 
-**O Ministro da Educação, José Augusto Seabra.**
+O Ministro da Educação, José Augusto Seabra.
 
 ## ANEXO I — Regulamento do Departamento de Química da Faculdade de Ciências da Universidade de Lisboa
 
 ### CAPÍTULO I — Natureza e objectivos
 
-###### Artigo 1.º - 1 - O Departamento de Química da Faculdade de Ciências da Universidade de Lisboa, adiante designado por Departamento, é uma unidade orgânica permanente de ensino de licenciaturas e de pós-graduação, de investigação pura e aplicada, de apoio ao desenvolvimento tecnológico, de prestação de serviços à comunidade e de divulgação de cultura no âmbito da Química.
+Artigo 1.º - 1 - O Departamento de Química da Faculdade de Ciências da Universidade de Lisboa, adiante designado por Departamento, é uma unidade orgânica permanente de ensino de licenciaturas e de pós-graduação, de investigação pura e aplicada, de apoio ao desenvolvimento tecnológico, de prestação de serviços à comunidade e de divulgação de cultura no âmbito da Química.
 
 2 - Ao Departamento de Química são afectos os equipamentos e instalações que vêm sendo utilizados ou que estão previstos para o seu futuro funcionamento pelo 2.º curso da 2.ª secção (Ciências Físico-Químicas) da Faculdade de Ciências.
 
-###### Art. 2.º - 1 - No domínio do ensino compete ao Departamento:
+Art. 2.º - 1 - No domínio do ensino compete ao Departamento:
 
 a) Promover a aquisição e a difusão do conhecimento em Química e a formação de docentes, investigadores e técnicos de nível superior;
 
@@ -138,19 +154,19 @@ d) Desenvolver trabalhos de aplicação da Química a outros domínios científi
 
 4 - Ao Departamento compete ainda fomentar e promover a divulgação do saber nas áreas da sua intervenção como parte integrante da cultura.
 
-###### Art. 3.º O Departamento é autónomo no que se refere à organização e realização das suas actividades de ensino, investigação, apoio ao desenvolvimento e prestação de serviços, podendo estabelecer convénios e contratos de prestação de serviços com entidades públicas ou privadas, sem prejuízo dos limites legais fixados e das orientações gerais que vierem a ser estabelecidas pelos órgãos competentes da Faculdade e ou da Universidade.
+Art. 3.º O Departamento é autónomo no que se refere à organização e realização das suas actividades de ensino, investigação, apoio ao desenvolvimento e prestação de serviços, podendo estabelecer convénios e contratos de prestação de serviços com entidades públicas ou privadas, sem prejuízo dos limites legais fixados e das orientações gerais que vierem a ser estabelecidas pelos órgãos competentes da Faculdade e ou da Universidade.
 
-###### Art. 4.º O Departamento de Química garantirá a liberdade de investigação científica do seu pessoal docente e investigador, com vista ao progresso da investigação e da qualidade do ensino e da prestação de serviços à comunidade, sem prejuízo da unidade da Faculdade e da cooperação com os outros dos seus departamentos ou grupos.
+Art. 4.º O Departamento de Química garantirá a liberdade de investigação científica do seu pessoal docente e investigador, com vista ao progresso da investigação e da qualidade do ensino e da prestação de serviços à comunidade, sem prejuízo da unidade da Faculdade e da cooperação com os outros dos seus departamentos ou grupos.
 
 ### CAPÍTULO II
 
-###### Art. 5.º O Departamento terá os seguintes órgãos:
+Art. 5.º O Departamento terá os seguintes órgãos:
 
 a) O conselho de departamento;
 
 b) A comissão executiva.
 
-###### Art. 6.º - 1 - O conselho de departamento terá a composição definida pelo artigo 7.º, n.os 1, 2 e 3, do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
+Art. 6.º - 1 - O conselho de departamento terá a composição definida pelo artigo 7.º, n.os 1, 2 e 3, do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
 2 - Sem prejuízo do disposto no artigo 25.º do [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), do articulado no Estatuto da Carreira Docente Universitária e do fixado no artigo 8.º, n.º 1, do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), ao conselho de departamento compete:
 
@@ -168,7 +184,7 @@ f) Emitir parecer relativamente a acções disciplinares sobre o pessoal do Depa
 
 g) Decidir sobre os pedidos de recurso que lhe sejam apresentados pelos membros do Departamento relativamente a deliberações da comissão executiva.
 
-###### Art. 7.º - 1 - A comissão executiva terá a composição definida pelo artigo 9.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053).
+Art. 7.º - 1 - A comissão executiva terá a composição definida pelo artigo 9.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053).
 
 2 - À comissão executiva, para além de competências que lhe sejam delegadas pelo conselho de departamento, compete:
 
@@ -194,7 +210,7 @@ j) Elaborar o anuário do Departamento.
 
 3 - A comissão executiva, nas suas actividades de gestão, será coadjuvada por um ou mais funcionários do quadro do pessoal da Faculdade.
 
-###### Art. 8.º Ao presidente do conselho de departamento compete:
+Art. 8.º Ao presidente do conselho de departamento compete:
 
 a) Convocar e conduzir as reuniões do conselho de departamento e da comissão executiva;
 
@@ -202,11 +218,11 @@ b) Mandar proceder à elaboração das actas das reuniões;
 
 c) Representar o Departamento, podendo eventualmente delegar essa representação num membro da comissão executiva.
 
-###### Art. 9.º O presidente do conselho de departamento e os membros da comissão executiva poderão ser parcialmente dispensados de serviço docente durante o seu mandato.
+Art. 9.º O presidente do conselho de departamento e os membros da comissão executiva poderão ser parcialmente dispensados de serviço docente durante o seu mandato.
 
 ### CAPÍTULO III — (Autonomia do Departamento e órgãos de gestão da Faculdade)
 
-###### Art. 10.º Os órgãos do Departamento acordarão com os órgãos de gestão directamente interessados da Faculdade o modo de satisfação das suas necessidades, nomeadamente:
+Art. 10.º Os órgãos do Departamento acordarão com os órgãos de gestão directamente interessados da Faculdade o modo de satisfação das suas necessidades, nomeadamente:
 
 a) O destacamento interno de pessoal docente, investigador, técnico, auxiliar, reorganizando-se os quadros de forma a explicitar os quadros adstritos a estes;
 
@@ -214,9 +230,9 @@ b) A afectação ao Departamento das instalações e equipamentos que se mostrem
 
 c) O rateamento interno do orçamento próprio da Faculdade e dos órgãos estatais encarregados do financiamento da Universidade.
 
-###### Art. 11.º Os órgãos de gestão da Faculdade terão a colaboração e participação do Departamento da forma que vier a ser estabelecida para satisfação dos objectivos prosseguidos pela Faculdade.
+Art. 11.º Os órgãos de gestão da Faculdade terão a colaboração e participação do Departamento da forma que vier a ser estabelecida para satisfação dos objectivos prosseguidos pela Faculdade.
 
-###### Art. 12.º - 1 - Sem prejuízo do estabelecido com os órgãos da Faculdade, o Departamento disporá das seguintes receitas:
+Art. 12.º - 1 - Sem prejuízo do estabelecido com os órgãos da Faculdade, o Departamento disporá das seguintes receitas:
 
 a) As que lhe forem atribuídas no Orçamento do Estado e as que lhe forem concedidas pelos órgãos estatais encarregados do financiamento da Universidade;
 
@@ -230,28 +246,28 @@ c) As que resultem da atribuição das verbas da Faculdade.
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### Art. 13.º - 1 - Os membros dos órgãos dotados de poder deliberativo são criminal, civil e disciplinarmente responsáveis pelas infracções à lei cometidas no exercício das suas funções.
+Art. 13.º - 1 - Os membros dos órgãos dotados de poder deliberativo são criminal, civil e disciplinarmente responsáveis pelas infracções à lei cometidas no exercício das suas funções.
 
 2 - São excluídos do disposto no número anterior os membros presentes que fizerem exarar em acta a sua oposição às deliberações tomadas, bem como os ausentes que o fizerem na reunião imediatamente posterior, e os ausentes que, abrangidos por qualquer impedimento legal, o fizerem na primeira reunião efectuada após o término deste impedimento.
 
-###### Art. 14.º - 1 - Os órgãos com poder deliberativo só podem deliberar quando estiver presente a maioria dos seus membros em efectividade de funções.
+Art. 14.º - 1 - Os órgãos com poder deliberativo só podem deliberar quando estiver presente a maioria dos seus membros em efectividade de funções.
 
 2 - As decisões serão aprovadas por maioria simples, salvo o disposto na alínea a) do n.º 2 do artigo 6.º
 
 3 - Todas as deliberações e eleições que individualmente se refiram a pessoas estão sujeitas a escrutínio secreto.
 
-###### Art. 15.º - 1 - Os mandatos dos membros eleitos iniciam-se a 2 de Janeiro do ano a que se referem.
+Art. 15.º - 1 - Os mandatos dos membros eleitos iniciam-se a 2 de Janeiro do ano a que se referem.
 
 2 - Em caso de impedimento permanente ou demissão do presidente do conselho de departamento durante o ano n, será eleito um novo presidente cujo mandato terminará a 2 de Janeiro do ano n + 2; o processo eleitoral será assegurado pelo professor mais antigo de categoria mais elevada do Departamento.
 
-###### Art. 16.º O presente Regulamento poderá ser previsto mediante proposta do conselho de departamento.
+Art. 16.º O presente Regulamento poderá ser previsto mediante proposta do conselho de departamento.
 
 ### CAPÍTULO V — Disposições transitórias
 
-###### Art. 17.º O corpo docente do Departamento é constituído pelos docentes da Faculdade que prestem serviço no 2.º grupo (Química) da 2.ª secção (Ciências Físico-Químicas) à data da entrada em vigor do presente Regulamento, bem como por outros que tenham sido propostos por este grupo e para ele venham a ser destacados pela comissão coordenadora do conselho científico da Faculdade.
+Art. 17.º O corpo docente do Departamento é constituído pelos docentes da Faculdade que prestem serviço no 2.º grupo (Química) da 2.ª secção (Ciências Físico-Químicas) à data da entrada em vigor do presente Regulamento, bem como por outros que tenham sido propostos por este grupo e para ele venham a ser destacados pela comissão coordenadora do conselho científico da Faculdade.
 
-###### Art. 18.º O pessoal técnico superior, técnico, técnico-profissional, administrativo, operário e auxiliar do Departamento inclui os funcionários da Faculdade de Ciências de Lisboa integrados e a integrar no quadro previsto no [Decreto-Lei n.º 190/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1982-392463), de 18 de Maio, destacados para o 2.º grupo da 2.ª secção à data da entrada em vigor do presente Regulamento, bem como o que tenha sido proposto por este grupo e para ele venha a ser destacado pelo conselho directivo e pelo conselho científico da Faculdade.
+Art. 18.º O pessoal técnico superior, técnico, técnico-profissional, administrativo, operário e auxiliar do Departamento inclui os funcionários da Faculdade de Ciências de Lisboa integrados e a integrar no quadro previsto no [Decreto-Lei n.º 190/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1982-392463), de 18 de Maio, destacados para o 2.º grupo da 2.ª secção à data da entrada em vigor do presente Regulamento, bem como o que tenha sido proposto por este grupo e para ele venha a ser destacado pelo conselho directivo e pelo conselho científico da Faculdade.
 
-###### Art. 19.º No prazo de 30 dias após a publicação deste Regulamento, o professor mais antigo de categoria mais elevada que preste serviço no 2.º grupo da 2.ª secção promoverá as diligências necessárias à realização dos processos eleitorais aqui previstos.
+Art. 19.º No prazo de 30 dias após a publicação deste Regulamento, o professor mais antigo de categoria mais elevada que preste serviço no 2.º grupo da 2.ª secção promoverá as diligências necessárias à realização dos processos eleitorais aqui previstos.
 
-###### Art. 20.º O presente Regulamento não pode ser alterado até 1 ano após a sua entrada em vigor.
+Art. 20.º O presente Regulamento não pode ser alterado até 1 ano após a sua entrada em vigor.

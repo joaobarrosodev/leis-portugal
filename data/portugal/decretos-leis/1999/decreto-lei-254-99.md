@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/254/1999/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1999-374610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:08:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82fc51b18e50e80dc08141a3e9dd58789a356d725269b4cd77fd9b29bdc677f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f16fd5bbe7d1af6f637361f2d8e7e697646535fedc52218915e48949524c7224
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:08:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
-- Turismo
-- Zona Económica Exclusiva
-- Mar Territorial
+- Comércio
 - Domínio Público Marítimo
 - Equipamento Marítimo
 - Equipamento Portuário
-- Pesca
 - Licenciamento
+- Mar Territorial
+- Pesca
 - Porto de Pesca
 - Transporte de Mercadorias
-- Comércio
 - Transporte de Passageiros
+- Turismo
+- Zona Económica Exclusiva
 relationships:
 - type: amended_by
   target: pt:dre:469068:por
@@ -88,16 +88,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/10/1999/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10/1999/03/15/p/dre
+- type: cites
+  target: pt:dre:144872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:469068:por
+  label: "Revogado o presente diploma, nos termos do nº2 do art. 98º, na data da entrada em vigor dos actos legislativos previstos\
+    \ nos nºs. 1 e 2 do art. 102º pela LEI.58/2005.29.12.2005.AR, DR.IS-A [249] de 29.12.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/58-2005-469068
+  date: '2005-12-29'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:08:51Z'
   warnings: []
   errors: []
 ---
@@ -136,12 +150,12 @@ As concessões e licenças estabelecidas no presente diploma ficam sujeitas ao d
 
 Visto e aprovado em Conselho de Ministros de 29 de Abril de 1999. - António Manuel de Oliveira Guterres - José Veiga Simão - João Cardona Gomes Cravinho - Luís Manuel Capoulas Santos - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 18 de Junho de 1999.**
+Promulgado em 18 de Junho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Junho de 1999.**
+Referendado em 24 de Junho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

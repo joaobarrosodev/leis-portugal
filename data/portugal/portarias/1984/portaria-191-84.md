@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/191-1984-661697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T07:58:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b600d18ae1b3b002cb632feda87c6e6a4c37a4ec39ab8fda81ec751944a6cce3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5e6e991ab20d4bdd4ec802e50e63cfddfac84174af7cf0bef348d26e2faf829
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:58:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Fertilizante
+relationships:
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627018:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:58:34Z'
   warnings: []
   errors: []
 ---
@@ -105,6 +114,6 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 Ministérios das Finanças e do Plano, da Agricultura, Florestas e Alimentação, da Indústria e Energia, do Comércio e Turismo e do Equipamento Social.
 
-**Assinada em 19 de Março de 1984.**
+Assinada em 19 de Março de 1984.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa. - Pelo Ministro da Indústria e Energia, João Nuno Boulain de Carvalho Carreira, Secretário de Estado da Indústria. - Pelo Ministro do Comércio e Turismo, Carlos Alberto Antunes Filipe, Secretário de Estado do Comércio Interno. - O Ministro do Equipamento Social, João Rosado Correia.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/129/2024/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/129-2024-901400364
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T05:50:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe9810fd9000ce9d4d66b53c1ff913b2b58bc3e353b4da2078d5c2ce17c08fa8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6dd6d4789c02fb131dc9e2f68c7d3341f944a26f09e353364ceca1c7de366cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:50:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Chefe do Estado Maior da Armada
 - Autoridade Marítima Nacional
-- Marinha
-- Nomeação
+- Chefe do Estado Maior da Armada
 - Forças Armadas
-- Promoção Profissional
-- Ministro da Defesa Nacional
 - Governo XXIV
+- Marinha
+- Ministro da Defesa Nacional
+- Nomeação
+- Promoção Profissional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/90/2015/05/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/90/2015/05/29/p/dre
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:50:55Z'
   warnings: []
   errors: []
 ---
@@ -97,18 +101,20 @@ validation:
 
 de 27 de dezembro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição o seguinte:
 
 É nomeado para o cargo de Chefe do Estado-Maior da Armada, sob proposta do Governo, conforme deliberação do Conselho de Ministros de 23 de dezembro de 2024 e ouvido o Chefe do Estado-Maior-General das Forças Armadas, o Vice-Almirante Jorge Manuel Nobre de Sousa, bem como a correspondente promoção ao posto de Almirante, nos termos do n.º 2 do artigo 197.º do Estatuto dos Militares das Forças Armadas, aprovado em anexo ao [Decreto-Lei n.º 90/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2015-67348942), de 29 de maio, na sua redação atual.
 
 O presente decreto produz efeitos a 27 de dezembro de 2024.
 
-**Assinado em 24 de dezembro de 2024.**
+Assinado em 24 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 26 de dezembro de 2024.**
+Referendado em 26 de dezembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118509573

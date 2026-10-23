@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/085a00/23342342.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/69/2003/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2003-226807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:42:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2613b3ad977ef314b76df05b26026b5bf8bea03bdd730fb759282f550a74d8e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b11e1e39837cc94799f83a00ab2fe39d81a051f1e72255c3b705bf1d29f7cb29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:42:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
-- Localização de Empresas
+- Cadastro Industrial
+- Câmara Municipal
+- Classificação de Empresas
 - Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
 - Empresa
-- Cadastro Industrial
-- Classificação de Empresas
 - Estabelecimento Industrial
 - Fiscalização
-- Inspecção Geral das Actividades Económicas
 - Indústria
+- Inspecção Geral das Actividades Económicas
 - Licenciamento
-- Parque Industrial
+- Localização de Empresas
 - Normas de Segurança
-- Câmara Municipal
+- Parque Industrial
 - Sanção
 - Taxa
 - Transferência de Competências
@@ -87,6 +87,52 @@ relationships:
   target: pt:dre:124532100:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:217164:por
+  label: "Alterado o art. 13º do Dec Lei 69/2000 de 03-Mai, na redacção do presente diploma, pela LEI.12/2004.30.03.2004.AR,\
+    \ DR.IS-A [76] de 30.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2004-217164
+  date: '2004-03-30'
+- type: amended_by
+  target: pt:dre:219293:por
+  label: "Alterado o art. 12.º, pelo DEC LEI.233/2004.14.12.2004.MAOT, DR.IS-A [291] de 14.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/233-2004-219293
+  date: '2004-12-14'
+- type: amended_by
+  target: pt:dre:243689:por
+  label: "Alterados os artigos 2.º, 17.º, 24.º, 25.º e 26.º do Decreto-Lei n.º 194/2000, de 21 de Agosto, e determinado que\
+    \ as referências nele feitas, com as alterações que lhe foram introduzidas no presente diploma, à Direcção Regional do\
+    \ Ambiente (DRA) entendam-se por efectuadas à Comissão de Coordenação e Desenvolvimento Regional (CCDR), pelo DEC LEI.130/2005.16.08.2005.MAOTDR,\
+    \ DR.IS-A [156] de 16.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-2005-243689
+  date: '2005-08-16'
+- type: amended_by
+  target: pt:dre:583190:por
+  label: "Alterados os arts. 13º e 19º do Dec Lei 69/2000 de 03-Mai, com a redacção conferida pelo presente diploma, pelo\
+    \ DEC LEI.197/2005.08.11.2005.MAOTDR, DR.IS-A [214] de 08.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-2005-583190
+  date: '2005-11-08'
+- type: amended_by
+  target: pt:dre:540665:por
+  label: "Alterado o n.º 1 e revogado o n.º 2 do art. 8.º do presente diploma, pelo Dec Lei.174/2006.25.08.2006.MEI, DR.IS\
+    \ [164] de 25.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-2006-540665
+  date: '2006-08-25'
+- type: amended_by
+  target: pt:dre:520846:por
+  label: "Alterados os arts. 9º, 12º, 13º, 14º, 21º, 25º, 26º e 31º e revogados a al. b) do nº 4 do art. 14º e os arts. 35º\
+    \ e 36º do presente diploma, com a alteração introduzida pelo Dec Lei 233/2004 de 14-Dez, pelo DEC LEI.183/2007.09.05.2007.MEI,\
+    \ DR.IS [89] de 09.05.2007, que remeteu, respectivamente, as referências efectuadas no presente diploma: à Direcção Regional\
+    \ do Ambiente e do Ordenamento do Território, para a Comissão de Coordenação e Desenvolvimento Regional, à Inspecção-Geral\
+    \ das Actividades Económicas (contidas nos arts.17º e 23º) e à Direcção-Geral de Fiscalização e Controlo da Qualidade\
+    \ Alimentar (contidas nos arts. 17º e 36º), para a Autoridade de Segurança Alimentar e Económica; assim como as efectuadas\
+    \ (nos arts. 2º, 17º, 23º, 33º e 36º) ao Ministro ou Ministério da Economia, ao Ministro ou Ministério da Agricultura,\
+    \ Desenvolvimento Rural e Pescas e ao Ministro ou Ministério das Cidades, Ordenamento do Território e Ambiente, para,\
+    \ respectivamente: o ministro ou ministério responsável pela área da economia, o ministro ou ministério responsável pelas\
+    \ áreas da agricultura, do desenvolvimento rural e das pescas e o ministro ou ministério responsável pela área do ambiente;\
+    \ e o republicou com todas as alterações\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2007-520846
+  date: '2007-05-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/
   label: null
@@ -127,16 +173,86 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
+- type: cites
+  target: pt:dre:197496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681647:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636175:por
+  label: "Revogado, a partir de 17.07.2007, o Dec Lei 164/2001 de 23-Mai, na redacção do art. 30º (ora revogado) do presente\
+    \ diploma, pelo DEC LEI.254/2007.12.07.2007.MAOTDR, DR.IS [133] de 12.07.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2007-636175
+  date: '2007-07-12'
+- type: repealed_by
+  target: pt:dre:453550:por
+  label: "Revogado, a partir de 31.08.2008, o Decreto-Lei 194/2000, de 21 de Agosto, na redacção do presente diploma, pelo\
+    \ DEC LEI.173/2008.26.08.2008.MAOTDR, DR.IS [164] de 26.08.2008 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-2008-453550
+  date: '2008-08-26'
+- type: repealed_by
+  target: pt:dre:439091:por
+  label: "Revogado pelo DEC LEI.209/2008.29.10.2008.PCM, DR.IS [2210] de 29.10.200, a partir da entrada em vigor prevista\
+    \ no art. 84º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2008-439091
+  date: '2008-10-29'
 article_structure:
-  article_count: 41
+  article_count: 39
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:42:08Z'
   warnings: []
   errors: []
 ---
@@ -563,7 +679,9 @@ Os artigos 13.º e 19.º do [Decreto-Lei n.º 69/2000](https://diariodarepublica
 
 10 - (Anterior n.º 8.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -603,7 +721,9 @@ c) Os prazos referidos nas alíneas anteriores podem ser excepcionalmente reduzi
 
 5 - Os prazos previstos no n.º 1 podem ser prorrogados por despacho do ministro responsável pela área do ambiente, findos os quais a entidade competente tem obrigatoriamente de produzir decisão expressa sobre a licença ambiental.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -697,12 +817,12 @@ O presente diploma entra em vigor no prazo de 30 dias a contar da data da sua pu
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira - António José de Castro Bagão Félix - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.
 
-**Promulgado em 28 de Março de 2003.**
+Promulgado em 28 de Março de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Abril de 2003.**
+Referendado em 1 de Abril de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

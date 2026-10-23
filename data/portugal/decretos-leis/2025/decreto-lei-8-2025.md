@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/8/2025/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2025-906913019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3c3b03c395a5f549476a365e7fbe6660c7016a2cd0ad292bf37f4111a840cd7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bcfcc18c4b626b29f8134ca765656d3aa07b7e8ac2043186e786612f88a4927
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação de Conhecimentos
+- Currículo Nacional
 - Encarregado de Educação
+- Ensino Básico
 - Ensino Cooperativo
 - Ensino Doméstico
+- Ensino Individual
 - Ensino Oficial
 - Ensino Particular
-- Escolaridade Obrigatória
 - Ensino Secundário
-- Currículo Nacional
+- Escolaridade Obrigatória
 - Estabelecimento de Ensino
-- Ensino Básico
-- Avaliação de Conhecimentos
-- Ensino Individual
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:70/2021
+  label: Altera, a partir de 12 de fevereiro de 2025, os artigos 5.º, 12.º, 15.º, 19.º e 21.º (estes dois artigos nos termos
+    do artigo 3.º do presente diploma) do Decreto-Lei n.º 70/2021, de 3 de agosto, Diário da República n.º 149/2021, Série
+    I
+  source: null
+  date: '2021-08-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/54/2018/07/06/p/dre
   label: null
@@ -98,16 +105,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/116/2019/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/116/2019/09/13/p/dre
+- type: cites
+  target: pt:dre:115652961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124680588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168903099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216154388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:11Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +199,9 @@ e) [...]
 
 6 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -206,7 +239,9 @@ j) [...]
 
 8 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 [...]
 
@@ -228,7 +263,9 @@ d) [...]
 
 e) [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -236,9 +273,11 @@ e) [...]
 
 3 - Os alunos abrangidos por medidas adicionais de suporte à aprendizagem e à inclusão, com adaptações curriculares significativas, nos termos do [Decreto-Lei n.º 54/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), de 6 de julho, na sua redação atual, não realizam provas de equivalência à frequência, provas finais do ensino básico, nem exames finais nacionais, para os efeitos da aprovação, da aprovação em disciplinas e da conclusão de ciclo ou de nível de ensino.
 
-4 - Nos casos a que se refere o número anterior, é aplicável o regime de avaliação das aprendizagens e de progressão estabelecido no [Decreto-Lei n.º 54/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), de 6 de julho, na sua redação atual, designadamente o disposto nos respetivos artigos 28.º, n.<sup>os</sup>1 e 2, e 29.º, n.º 2, sendo as correspondentes competências exercidas pela escola de matrícula nos termos previstos no presente decreto-lei.
+4 - Nos casos a que se refere o número anterior, é aplicável o regime de avaliação das aprendizagens e de progressão estabelecido no [Decreto-Lei n.º 54/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), de 6 de julho, na sua redação atual, designadamente o disposto nos respetivos artigos 28.º, n.os1 e 2, e 29.º, n.º 2, sendo as correspondentes competências exercidas pela escola de matrícula nos termos previstos no presente decreto-lei.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -254,12 +293,14 @@ O presente decreto-lei entra em vigor no primeiro dia útil seguinte ao da sua p
 
 Visto e aprovado em Conselho de Ministros de 16 de janeiro de 2025. - Luís Montenegro - Fernando Alexandre.
 
-**Promulgado em 3 de fevereiro de 2025.**
+Promulgado em 3 de fevereiro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de fevereiro de 2025.**
+Referendado em 6 de fevereiro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118666705

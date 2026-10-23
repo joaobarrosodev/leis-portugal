@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-1983-450995
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8cec50cd8dd232c9c5e331627cb70b92fc7136538b1db67f2e3f4f5c87820a40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01220c426902f50b6afe3a981d0967d5e56adbae6d5a73471fe0dbe0c2485ebe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Albergaria-a-velha
+- ÁREA NON Aedificandi
+- CP
+- Estarreja
+- VILA NOVA de GAIA
+relationships:
+- type: cites
+  target: pt:dre:264553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:25Z'
   warnings: []
   errors: []
 ---
@@ -97,25 +110,25 @@ Tendo em consideração o disposto no n.º 4 do artigo 30.º do Regulamento de E
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Até à aprovação dos planos ou anteplano de ampliação das infra-estruturas da linha do Norte, serão consideradas áreas non aedificandi as faixas de terreno confinantes com a linha férrea, à direita e à esquerda, entre os quilómetros 280,000 e 295,000 (concelhos de Albergaria-a-Velha e Estarreja) e 317,900 a 331,700 (concelho de Vila Nova de Gaia), conforme os limites e distâncias expressos nos desenhos E-005434, E-005435, E-005436, E-005437, E-005438, E-005439, E-005440, E-005441, E-005396, E-005397, E-005398, E-005399, E-005400, E-005401, E-005402, E-005403, E-005404, E-005405, E-005406, E-005407, E-005408, E-005409, E-005410 e E-005411, anexos a este diploma.
+Artigo 1.º Até à aprovação dos planos ou anteplano de ampliação das infra-estruturas da linha do Norte, serão consideradas áreas non aedificandi as faixas de terreno confinantes com a linha férrea, à direita e à esquerda, entre os quilómetros 280,000 e 295,000 (concelhos de Albergaria-a-Velha e Estarreja) e 317,900 a 331,700 (concelho de Vila Nova de Gaia), conforme os limites e distâncias expressos nos desenhos E-005434, E-005435, E-005436, E-005437, E-005438, E-005439, E-005440, E-005441, E-005396, E-005397, E-005398, E-005399, E-005400, E-005401, E-005402, E-005403, E-005404, E-005405, E-005406, E-005407, E-005408, E-005409, E-005410 e E-005411, anexos a este diploma.
 
 Os referidos limites e distâncias encontram-se igualmente descritos nos quadros anexos ao presente decreto regulamentar.
 
-###### Art. 2.º A implantação de edifícios, arruamentos, passagens de nível ou quaisquer outros tipos de construção na área referida no artigo anterior fica sujeita, caso a caso, a autorização e aprovação especial do Ministro da Habitação, Obras Públicas e Transportes, sob proposta dos Caminhos de Ferro Portugueses, E. P. (CP).
+Art. 2.º A implantação de edifícios, arruamentos, passagens de nível ou quaisquer outros tipos de construção na área referida no artigo anterior fica sujeita, caso a caso, a autorização e aprovação especial do Ministro da Habitação, Obras Públicas e Transportes, sob proposta dos Caminhos de Ferro Portugueses, E. P. (CP).
 
-###### Art. 3.º Os limites e distâncias das áreas non aedificandi definidos no artigo 1.º serão revistos decorridos 5 anos, para o que se tomará em consideração a evolução dos estudos de projectadas ampliações.
+Art. 3.º Os limites e distâncias das áreas non aedificandi definidos no artigo 1.º serão revistos decorridos 5 anos, para o que se tomará em consideração a evolução dos estudos de projectadas ampliações.
 
 Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 4 de Abril de 1983.**
+Promulgado em 4 de Abril de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Abril de 1983.**
+Referendado em 7 de Abril de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Linha do Norte
 
@@ -125,8 +138,8 @@ Terrenos declarados área «non aedificandi»
 
 Concelhos de Albergaria-a-Velha e Estarreja
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/10200/15621581.pdf))](https://files.diariodarepublica.pt/1s/1983/05/10200/15621581.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/10200/15621581.pdf)
 
 Concelho de Vila Nova de Gaia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/10200/15621581.pdf))](https://files.diariodarepublica.pt/1s/1983/05/10200/15621581.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/10200/15621581.pdf)

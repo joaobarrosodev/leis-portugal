@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/321/2001/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2001-578727
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:28:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63f2f064cd7c867cff9b8800991cb27132fbe00646fb90f933d10006e3736b30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 752acdcf38668cfeb2224108ab56eff0695058ce46064213b066e0200970e60c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
+- Avaliação do Pessoal
+- Carreira Profissional
 - Escola Prática de Polícia
 - Estatuto do Pessoal
-- Carreira Profissional
-- Recrutamento de Pessoal
 - Progressão na Carreira
 - Promoção Profissional
-- Avaliação do Pessoal
+- PSP
+- Recrutamento de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/511/1999/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/511/1999/11/24/p/dre
+- type: cites
+  target: pt:dre:643086:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:28:41Z'
   warnings: []
   errors: []
 ---
@@ -118,12 +122,12 @@ Durante um período transitório de três anos contados a partir da data da entr
 
 Visto e aprovado em Conselho de Ministros de 18 de Outubro de 2001. - Guilherme d'Oliveira Martins - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - Alberto de Sousa Martins.
 
-**Promulgado em 5 de Dezembro de 2001.**
+Promulgado em 5 de Dezembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Dezembro de 2001.**
+Referendado em 7 de Dezembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

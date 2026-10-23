@@ -47,36 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/314-1977-252990
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:19:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22c9b12136b26c9bef2374041e67598b573564cf680ff1a76a83526f4e18a47d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11d604a4e2078bf3bca195f2296c6bea624e6939a8605adbc6998846f6b50f84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:19:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Cereal
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:315549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:31006280:por
+  label: "Revogado o art. 14.º da presente portaria pela PORT.5/78.27.01.1978.SRCI-RAA, JOA-IS [1] de 27.01.1978\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/5-1978-31006280
+  date: '1978-01-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:19:29Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +199,7 @@ Das massas alimentícias
 
 19.º Os preços máximos de venda ao público, por quilograma, das massas alimentícias a que se refere o número anterior, quando contidas em embalagens de papel, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/05/12500/12691271.pdf))](https://files.diariodarepublica.pt/1s/1977/05/12500/12691271.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/05/12500/12691271.pdf)
 
 20.º São livres os preços de venda das massas alimentícias quando contidas em embalagens de luxo.
 

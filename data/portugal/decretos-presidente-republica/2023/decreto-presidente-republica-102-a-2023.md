@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 219/2023, 1º Suplemento, Série I de 2023-11-13
   number: '219'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 73-(2) a 73-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/21901/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/102-a/2023/11/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/102-a-2023-224164166
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T05:46:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14f2a81f529156c65941fac227ac882fcbf10db357c7569f4686657c241aedf7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b407d7adbb2e2e15877f3199e9f9191be31bf1ecb58c4a85003cf5b8f6cc17a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:46:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Exoneração
-- Membros do Governo
-- Secretário de Estado da Economia
 - Governo XXIII
+- Membros do Governo
 - Ministro das Infraestruturas
+- Secretário de Estado da Economia
 relationships:
 - type: amended_by
   target: pt:dre:224661323:por
@@ -79,13 +79,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:46:51Z'
   warnings: []
   errors: []
 ---
@@ -94,16 +94,18 @@ validation:
 
 de 13 de novembro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 Na sequência da proposta agora submetida pelo Primeiro-Ministro, o Presidente da República exonerou, a pedido dos próprios e com efeitos imediatos, João Saldanha de Azevedo Galamba das funções de Ministro das Infraestruturas bem como Pedro Miguel Ferreira Jorge Cilínio do cargo de Secretário de Estado da Economia.
 
-**Assinado em 13 de novembro de 2023.**
+Assinado em 13 de novembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 13 de novembro de 2023.**
+Referendado em 13 de novembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+117058814

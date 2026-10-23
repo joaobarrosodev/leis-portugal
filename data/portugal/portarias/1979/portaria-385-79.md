@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 175/1979, 1º Suplemento, Série I de 1979-07-31
   number: '175'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1762-(1) a 1762-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/17501/00010005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/385-1979-402735
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63a1e1058a68208b4d374d73ceaac6147b9c166eb1bc4e9f3570651babb9068b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 795de38f3dce49c3230640ce181949157a48270d5c4617806b808507447e27fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arsenal do Alfeite
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:402553:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:365522:por
+  label: "Dada nova redacção à al. a) do n.º 2.º pela PORT.512/79.22.09.1979.CR, DR.IS [220] de 22.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/512-1979-365522
+  date: '1979-09-22'
+- type: amended_by
+  target: pt:dre:418823:por
+  label: "Alterado o nº. 12º pela PORT.478/87.1987.06.06.MDN, DR.IS [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/478-1987-418823
+  date: '1987-06-06'
+- type: cites
+  target: pt:dre:181626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668912:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:402553:por
+  label: "Revogada, a partir de 17.02.1992, pela PORT.1227/91.31.12.1991.MDN, DR.IS-B [301-6ºSupl] de 31.12.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1227-1991-402553
+  date: '1991-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:17Z'
   warnings: []
   errors: []
 ---
@@ -140,8 +169,8 @@ Estado-Maior da Armada, 19 de Julho de 1979. - O Chefe do Estado-Maior da Armada
 
 ## ANEXO I — Quadro de pessoal do Arsenal do Alfeite e formas de provimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/17501/00010005.pdf))](https://files.diariodarepublica.pt/1s/1979/07/17501/00010005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17501/00010005.pdf)
 
 ## ANEXO II — Tabela de equivalência de categorias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/17501/00010005.pdf))](https://files.diariodarepublica.pt/1s/1979/07/17501/00010005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17501/00010005.pdf)

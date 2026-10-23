@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 38/1997, 4º Suplemento, Série I-A de 1997-02-14
   number: '38'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 758-(12) a 758-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/02/038a04/00120012.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/7-a/1997/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/7-a-1997-668101
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T04:25:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7322047fbc125fa61a6ce8192e3a9e25a43038ea15b43a7200ebf433c6f845f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b43cf2fe59bc27526e180c49da6bc2f955b51de0517a48f0ba6679bc083e9bc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:25:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Chefe do Estado Maior General das Forças Armadas
-- Nomeação
 - Forças Armadas
+- Nomeação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/18/1995/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/18/1995/07/13/p/dre
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461220:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:25:20Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +100,16 @@ validation:
 
 de 14 de Fevereiro
 
-**O Presidente da República decreta, nos termos do artigo 136.º, alínea p), da Constituição e ao abrigo do disposto nos artigos 38.º, n.º 4, alínea e), 52.º, n.º 2, e 59.º, n.º 1, da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, na redacção dada pela [Lei n.º 18/95](https://diariodarepublica.pt/dr/detalhe/lei/18-1995-461220), de 13 de Julho, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 136.º, alínea p), da Constituição e ao abrigo do disposto nos artigos 38.º, n.º 4, alínea e), 52.º, n.º 2, e 59.º, n.º 1, da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, na redacção dada pela [Lei n.º 18/95](https://diariodarepublica.pt/dr/detalhe/lei/18-1995-461220), de 13 de Julho, o seguinte:
 
 Sob proposta do Governo, é prorrogado por dois anos, com efeitos a partir de 21 de Fevereiro de 1997, o período de exercício do cargo de Chefe de Estado-Maior-General das Forças Armadas pelo Almirante António Carlos Fuzeta da Ponte.
 
-**Assinado em 14 de Fevereiro de 1997.**
+Assinado em 14 de Fevereiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
 Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Fevereiro de 1997.**
+Referendado em 20 de Fevereiro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

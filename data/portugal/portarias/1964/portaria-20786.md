@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20786-1964-539661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46211ebdc02fb960c30bd786a4af322734d3970d5204aa77243774c1884648e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9370eadc9cc71f75c5b42e6c8dd37de5b8e4c2fe3446accb815fe3d529ad2820
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:250980:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:24Z'
   warnings: []
   errors: []
 ---
@@ -88,17 +92,17 @@ Ministério da Educação Nacional, 4 de Setembro de 1964. - O Ministro da Educa
 
 REGULAMENTO DO CURSO DE INSTRUTORES DE EDUCAÇÃO FÍSICA
 
-###### Artigo 1.º O curso de instrutores de educação física, ministrado no Instituto Nacional de Educação Física, ao abrigo do disposto no artigo 4.º do [Decreto-Lei n.º 41447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41447-1957-250980), de 11 de Dezembro de 1957, destina-se a promover a formação de agentes de ensino de grau médio que, sob a orientação de diplomados com o curso de professores daquele Instituto, possam exercer o magistério da respectiva especialidade em estabelecimentos de ensino oficial e particular ou em organismos desportivos, clubes ou associações, para maior divulgação das actividades de educação física.
+Artigo 1.º O curso de instrutores de educação física, ministrado no Instituto Nacional de Educação Física, ao abrigo do disposto no artigo 4.º do [Decreto-Lei n.º 41447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41447-1957-250980), de 11 de Dezembro de 1957, destina-se a promover a formação de agentes de ensino de grau médio que, sob a orientação de diplomados com o curso de professores daquele Instituto, possam exercer o magistério da respectiva especialidade em estabelecimentos de ensino oficial e particular ou em organismos desportivos, clubes ou associações, para maior divulgação das actividades de educação física.
 
-###### Art. 2.º O director do curso de instrutores de educação física e os professores do respectivo corpo docente serão nomeados pelo Ministro da Educação Nacional de entre pessoas de reconhecida competência.
+Art. 2.º O director do curso de instrutores de educação física e os professores do respectivo corpo docente serão nomeados pelo Ministro da Educação Nacional de entre pessoas de reconhecida competência.
 
 § 1.º O conselho escolar é constituído por todos os professores do curso e reunir-se-á no final de cada semestre, nos termos do disposto § 1.º do artigo 11.º deste regulamento, e, ainda, sempre que o director do curso o entenda necessário.
 
 § 2.º As remunerações do director e dos professores do curso serão livremente fixadas por despacho do Ministro da Educação Nacional.
 
-###### Art. 3.º Serão admitidos a frequentar o curso de instrutores de educação física todos os candidatos, de um e outro sexo, que tenham sido aprovados em exame de aptidão realizado nos termos dos artigos seguintes.
+Art. 3.º Serão admitidos a frequentar o curso de instrutores de educação física todos os candidatos, de um e outro sexo, que tenham sido aprovados em exame de aptidão realizado nos termos dos artigos seguintes.
 
-###### Art. 4.º O exame de aptidão efectuar-se-á durante o mês de Setembro e a ele poderão apresentar-se os candidatos devidamente inscritos na secretaria do Instituto, de 1 a 10 do mesmo mês, que satisfaçam as seguintes condições:
+Art. 4.º O exame de aptidão efectuar-se-á durante o mês de Setembro e a ele poderão apresentar-se os candidatos devidamente inscritos na secretaria do Instituto, de 1 a 10 do mesmo mês, que satisfaçam as seguintes condições:
 
 a) Possuir o 5.º ano dos liceus ou as habilitações consideradas equivalentes, para este fim especial, pelo Ministro de Educação Nacional, ouvida a Junta Nacional da Educação;
 
@@ -106,19 +110,19 @@ b) Não ter mais de 25 anos de idade, salvo quanto aos professores do ensino pri
 
 c) Ter a estatura, perfeição e robustez físicas indispensáveis ao normal exercício da profissão, devidamente apuradas através de inspecção médica a cargo do pessoal dos serviços médicos do Instituto ou da Direcção-Geral de que este depende.
 
-###### Art. 5.º O exame de aptidão constará de provas físicas a estabelecer pela direcção do Instituto Nacional de Educação Física e de uma prova escrita sobre um tema de história de Portugal, segundo o programa do 5.º ano do ensino liceal.
+Art. 5.º O exame de aptidão constará de provas físicas a estabelecer pela direcção do Instituto Nacional de Educação Física e de uma prova escrita sobre um tema de história de Portugal, segundo o programa do 5.º ano do ensino liceal.
 
-###### Art. 6.º As matrículas deverão efectuar-se entre 20 e 27 de Setembro de cada ano, na secretaria do Instituto, nas condições prèviamente afixadas.
+Art. 6.º As matrículas deverão efectuar-se entre 20 e 27 de Setembro de cada ano, na secretaria do Instituto, nas condições prèviamente afixadas.
 
-###### Art. 7.º O curso de instrutores de educação física terá a duração de quatro semestres, equivalentes a dois anos escolares.
+Art. 7.º O curso de instrutores de educação física terá a duração de quatro semestres, equivalentes a dois anos escolares.
 
 § 1.º O ano escolar terá início em 1 de Outubro e prolongar-se-á até 31 de Julho do ano seguinte, começando o 2.º e 4.º semestres em 1 de Março de cada ano.
 
 § 2.º Além das férias grandes, haverá dez dias de férias de Natal, três de Carnaval e dez de Páscoa.
 
-###### Art. 8.º O plano de estudos compreenderá quatro semestres de escolaridade efectiva, destinando-se os dois primeiros exclusivamente a preparação teórico-prática, e abrangendo-se nos outros dois também actividades de prática pedagógica em regime de estágio.
+Art. 8.º O plano de estudos compreenderá quatro semestres de escolaridade efectiva, destinando-se os dois primeiros exclusivamente a preparação teórico-prática, e abrangendo-se nos outros dois também actividades de prática pedagógica em regime de estágio.
 
-###### Art. 9.º O curso compreende as seguintes disciplinas:
+Art. 9.º O curso compreende as seguintes disciplinas:
 
 A) Disciplinas teóricas:
 
@@ -170,11 +174,11 @@ Voleibol.
 
 § único. A distribuição das disciplinas pelos quatro semestres do curso e o número de sessões semanais correspondentes a cada disciplina constam do quadro anexo ao presente diploma.
 
-###### Art. 10.º O curso divide-se em duas secções, uma masculina e outra feminina, para efeito de leccionação das aulas práticas, com excepção das de Canto Coral e Danças Folclóricas.
+Art. 10.º O curso divide-se em duas secções, uma masculina e outra feminina, para efeito de leccionação das aulas práticas, com excepção das de Canto Coral e Danças Folclóricas.
 
 § único. As aulas práticas de Andebol e Futebol serão ministradas exclusivamente na secção masculina.
 
-###### Art. 11.º No termo de cada semestre os alunos serão submetidos a provas de exame, a realizar nas segundas quinzenas dos meses de Fevereiro e Julho, durante as quais serão para esse efeito totalmente suspensas as aulas.
+Art. 11.º No termo de cada semestre os alunos serão submetidos a provas de exame, a realizar nas segundas quinzenas dos meses de Fevereiro e Julho, durante as quais serão para esse efeito totalmente suspensas as aulas.
 
 § 1.º Findas as provas de apuramento, o conselho escolar reunirá a fim de proceder à classificação das provas, cujos resultados deverão ser pùblicamente afixados antes de terminar o respectivo semestre.
 
@@ -184,17 +188,17 @@ Voleibol.
 
 § 4.º Os alunos que não obtiverem aproveitamento num semestre, mas quiserem assistir às aulas do seguinte, terão de para isso solicitar autorização ao director do curso. Uma vez autorizados, os alunos ficarão sujeitos às disposições regulamentares em vigor.
 
-###### Art. 12.º As actividades de estágio serão em princípio efectuadas no Instituto Nacional de Educação Física, ou eventualmente num estabelecimento de ensino oficial da cidade de Lisboa, desde que se satisfaçam as condições para o efeito consideradas necessárias, competindo a sua orientação e fiscalização ao Instituto Nacional de Educação Física, através do respectivo director do curso.
+Art. 12.º As actividades de estágio serão em princípio efectuadas no Instituto Nacional de Educação Física, ou eventualmente num estabelecimento de ensino oficial da cidade de Lisboa, desde que se satisfaçam as condições para o efeito consideradas necessárias, competindo a sua orientação e fiscalização ao Instituto Nacional de Educação Física, através do respectivo director do curso.
 
-###### Art. 13.º Em princípio realizar-se-ão anualmente, para frequência obrigatória dos alunos do curso de instrutores, dois cursos elementares de arbitragem e de treinadores, da mesma modalidade.
+Art. 13.º Em princípio realizar-se-ão anualmente, para frequência obrigatória dos alunos do curso de instrutores, dois cursos elementares de arbitragem e de treinadores, da mesma modalidade.
 
 § único. Esses cursos podem ser tornados extensivos aos filiados na federação da modalidade respectiva que satisfaçam as normas prèviamente estabelecidas pela direcção do Instituto Nacional da Educação Física, com a aprovação da Direcção-Geral da Educação Física, Desportos e Saúde Escolar, entidades a quem igualmente compete escolher as modalidades desportivas.
 
-###### Art. 14.º Em cada semestre os alunos não poderão exceder em faltas duas vezes o número dos tempos semanais destinados a cada disciplina, sob pena de imediata perda de ano, salvo em caso de doença devidamente comprovada pelos serviços médicos do Instituto ou da Direcção-Geral da Educação Física, Desportos e Saúde Escolar.
+Art. 14.º Em cada semestre os alunos não poderão exceder em faltas duas vezes o número dos tempos semanais destinados a cada disciplina, sob pena de imediata perda de ano, salvo em caso de doença devidamente comprovada pelos serviços médicos do Instituto ou da Direcção-Geral da Educação Física, Desportos e Saúde Escolar.
 
-###### Art. 15.º Os alunos são obrigados a adquirir fatos de treino, de ginástica e de natação, e um saco alpino, de modelos prèviamente aprovados pela direcção do Instituto, sendo facultativo o uso dos sapatos de atletismo nas provas de campo.
+Art. 15.º Os alunos são obrigados a adquirir fatos de treino, de ginástica e de natação, e um saco alpino, de modelos prèviamente aprovados pela direcção do Instituto, sendo facultativo o uso dos sapatos de atletismo nas provas de campo.
 
-###### Art. 16.º O curso de instrutores de educação física poderá igualmente funcionar em outras localidades do País, nos termos constantes do presente diploma, com as adaptações que se tornem necessárias.
+Art. 16.º O curso de instrutores de educação física poderá igualmente funcionar em outras localidades do País, nos termos constantes do presente diploma, com as adaptações que se tornem necessárias.
 
 § único. Depende de despacho ministerial a criação de cursos nocturnos, aos quais se aplicará com as necessárias adaptações o presente regulamento.
 

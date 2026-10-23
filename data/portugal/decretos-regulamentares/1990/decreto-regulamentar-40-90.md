@@ -46,40 +46,127 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1990-564832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:18:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c57a22ab8772bc7f6ac0a26c180378636dc54cccd88b5c96175f49906fb4b85b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08dda3f19e9b489188b90aab05996d261178115240a67c48dbe9930b472aa8ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:18:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral dos Mercados Agrícolas e da Indústria Agro-alimentar
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Integração de Trabalhadores
+- Orgânica
+- Quadro de Pessoal
+- Secretariado Agrícola para as Relações Europeias
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:466840:por
+  label: "Alterado o quadro de pessoal pelo DN.57/91.04.03.1991.SEO-MF, DR.IS-B [52] de 04.03.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/57-1991-466840
+  date: '1991-03-04'
+- type: amended_by
+  target: pt:dre:616260:por
+  label: "Alterado o quadro de pessoal pelo DN.88/91.10.04.1991.SEO-MF, DR.IS-B [83] de 10.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/88-1991-616260
+  date: '1991-04-10'
+- type: amended_by
+  target: pt:dre:616191:por
+  label: "Alterado o quadro de pessoal pelo DN.91/91.13.04.1991.SEO-MF, DR.IS-B [86] de 13.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/91-1991-616191
+  date: '1991-04-13'
+- type: amended_by
+  target: pt:dre:633558:por
+  label: "Alterado o quadro de pessoal pelo DN.117/91.06.06.1991.SEO-MF, DR.IS-B [129] de 06.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/117-1991-633558
+  date: '1991-06-06'
+- type: amended_by
+  target: pt:dre:649129:por
+  label: "Alterado o quadro de pessoal pelo DN.131/91.01.07.1991.SEO-MF, DR.IS-B [148] de 01.07.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/131-1991-649129
+  date: '1991-07-01'
+- type: amended_by
+  target: pt:dre:150972:por
+  label: "Alterado o quadro de pessoal, no referente às carreiras de BAD, pela PORT.74/92.05.02.1992.MF, DR.IS-B [30] de 05.02.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/74-1992-150972
+  date: '1992-02-05'
+- type: amended_by
+  target: pt:dre:165035:por
+  label: "Alterado o quadro de pessoal pelo DN.31/92.25.02.1992.SEAO-MF, DR.IS-B [47] de 25.02.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/31-1992-165035
+  date: '1992-02-25'
+- type: amended_by
+  target: pt:dre:283890:por
+  label: "Alterado o quadro de pessoal, no referente às carreiras de informática, pela PORT.758/92.07.08.1992.SEA-MF, DR.IS-B\
+    \ [181] de 07.08.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/758-1992-283890
+  date: '1992-08-07'
+- type: amended_by
+  target: pt:dre:628839:por
+  label: "Alterado o quadro de pessoal pelo DN.28/93.08.03.1993.MF, DR.IS-B [56] de 08.03.1993 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/28-1993-628839
+  date: '1993-03-08'
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a categoria de assistente técnico, nos termos do art. 4º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP) e revogados os nºs 2 e 3 do artigo 27.º e o anexo ii pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+- type: cites
+  target: pt:dre:334646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619144:por
+  label: null
+  source: null
 article_structure:
   article_count: 39
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:18:05Z'
   warnings: []
   errors: []
 ---
@@ -500,7 +587,9 @@ f) Participar na elaboração de cadernos de encargos, selecção, aquisição, 
 
 g) Assegurar o controlo de qualidade da informação e dos resultados.
 
-###### Artigo 15.º — Divisão de Documentação
+###### Artigo 15.º
+
+##### Divisão de Documentação
 
 À Divisão de Documentação compete:
 
@@ -626,7 +715,9 @@ d) Dinamizar acções de fomento da exportação, em articulação com o ICEP;
 
 e) Organizar a participação da DGMAIAA em exposições e feiras de interesse para a sua actividade.
 
-###### Artigo 19.º — Divisão de Reconhecimento e Registo
+###### Artigo 19.º
+
+##### Divisão de Reconhecimento e Registo
 
 À Divisão de Reconhecimento e Registo compete:
 
@@ -808,19 +899,19 @@ Presidência do Conselho de Ministros, 30 de Julho de 1990.
 
 Aníbal António Cavaco Silva - José Oliveira Costa - João de Deus Rogado Salvador Pinheiro - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 25 de Outubro de 1990.**
+Promulgado em 25 de Outubro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Outubro de 1990.**
+Referendado em 30 de Outubro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva**
+O Primeiro-Ministro, Aníbal António Cavaco Silva
 
 Mapa I a que se refere a alínea b) do n.º 2 do artigo 2.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/27500/48744896.pdf))](https://files.diariodarepublica.pt/1s/1990/11/27500/48744896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/27500/48744896.pdf)
 
 ## ANEXO II — Conteúdos funcionais do campo de pessoal técnico-profissional
 
@@ -894,4 +985,4 @@ Compilar e registar dados relativos às estruturas agro-alimentares, ao funciona
 
 Nota de encargos dos quadros actual e previsto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/27500/48744896.pdf))](https://files.diariodarepublica.pt/1s/1990/11/27500/48744896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/27500/48744896.pdf)

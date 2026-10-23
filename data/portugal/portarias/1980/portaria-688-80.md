@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/688-1980-460633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:26:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f0991aee731d08ceb50564b8e4c6f9392272541059a867bf0730308f8fd775b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d641b8f585a81480744346e7b5f2ebe1e21ce7c7011c6cc349715cd81c03d7ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:26:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Contrato
+- Força Aérea
+- Forças Armadas
+- Material Aeronáutico
+relationships:
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:26:41Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +103,9 @@ Tendo em vista as disposições do artigo 10.º do [Decreto-Lei n.º 211/79](htt
 
 Mandam o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, e o Governo, pelo Ministro das Finanças e do Plano, o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção do Serviço de Material da Força Aérea a celebrar contratos para a aquisição de diversos sobresselentes para helicópteros até ao montante de 90000 contos, correspondente a 7500000 francos franceses, ao câmbio de 12$00.
+Artigo 1.º É autorizada a Direcção do Serviço de Material da Força Aérea a celebrar contratos para a aquisição de diversos sobresselentes para helicópteros até ao montante de 90000 contos, correspondente a 7500000 francos franceses, ao câmbio de 12$00.
 
-###### Art. 2.º - 1 - O encargo resultante da aquisição a realizar a que se refere o artigo anterior não poderá, em cada ano, exceder as seguintes importâncias:
+Art. 2.º - 1 - O encargo resultante da aquisição a realizar a que se refere o artigo anterior não poderá, em cada ano, exceder as seguintes importâncias:
 
 Em 1980 - 27000 contos, correspondente a 2250000 francos franceses;
 
@@ -107,7 +117,7 @@ Em 1982 - 31500 contos, correspondente a 2625000 francos franceses.
 
 3 - Os montantes referidos nos números anteriores serão acrescidos das quantias indispensáveis à cobertura dos encargos assumidos, sempre que a oscilação cambial o justifique.
 
-###### Art. 3.º - 1 - Os encargos resultantes da execução do disposto no artigo anterior serão satisfeitos por dotações das despesas gerais dos orçamentos da Defesa Nacional - Departamento da Força Aérea para os anos de 1980 a 1982 inscritas e a inscrever pelos montantes correspondentes.
+Art. 3.º - 1 - Os encargos resultantes da execução do disposto no artigo anterior serão satisfeitos por dotações das despesas gerais dos orçamentos da Defesa Nacional - Departamento da Força Aérea para os anos de 1980 a 1982 inscritas e a inscrever pelos montantes correspondentes.
 
 2 - A orçamentação das despesas de cada ano será precedida pela apresentação de programas anuais de execução, elaborados de acordo com as normas definidas pelo Ministro das Finanças e do Plano, através do Departamento Central de Planeamento.
 

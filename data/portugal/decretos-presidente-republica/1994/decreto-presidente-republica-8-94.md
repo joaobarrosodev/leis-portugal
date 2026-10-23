@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 43/1994, 1º Suplemento, Série I-A de 1994-02-21
   number: '43'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 766-(2) a 766-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/043a01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/8/1994/02/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/8-1994-462041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T04:17:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 735de57ceb6bf790224db8714e452c5efa7cc47b74052be99629c83de0a7bceb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b13aeac1feb35067432b90470de03adc4f3d2da07f890ebab1ad575f022f7c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:17:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Chefe do Estado Maior General das Forças Armadas
-- Nomeação
 - Forças Armadas
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:461987:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:668101:por
+  label: "Prorrogada por dois anos, a partir de 21 de Fevereiro de 1997, a nomeação do Almirante António Carlos Fuzeta da\
+    \ Ponte pelo DEC.7-A/97.1997.02.14.PR, DR.IS-A [38]4º supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/7-a-1997-668101
+  date: '1997-02-14'
+- type: amended_by
+  target: pt:dre:461987:por
+  label: "Exonerado pelo DEC.8-A/98.1998.03.09.PR, DR.IS-A [57]Supl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/8-a-1998-461987
+  date: '1998-03-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:17:49Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +103,16 @@ validation:
 
 de 21 de Fevereiro
 
-**O Presidente da República decreta, nos termos do artigo 136.º, alínea p), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 136.º, alínea p), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o almirante António Carlos Fuzeta da Ponte para o cargo de Chefe do Estado-Maior-General das Forças Armadas.
 
-**Assinado em 21 de Fevereiro de 1994.**
+Assinado em 21 de Fevereiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Fevereiro de 1994.**
+Referendado em 21 de Fevereiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/09/18100/0501205020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/141/2014/09/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2014-56941586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 797d76edaf5ea8e0967e2455ea2cf4b67c8922329fff007f6192cbfe93b22722
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4278fdf1119b4923aa5acb9758d4c3137a5cff4179f18dd28e81b19ff9d4a36a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aproximação das Legislações
-- Região Autónoma
 - Cartografia
-- Ordenamento do Território
 - Definição de Competências
+- Direção Geral do Território
 - Informação Geográfica
 - Instituto Geográfico do Exército
 - Instituto Hidrográfico
-- Direção Geral do Território
-- Sistema Nacional de Informação Geográfica
 - Madeira.região Autónoma
-- Açores
+- Ordenamento do Território
+- Região Autónoma
 - Registo Nacional de Dados Geográficos
+- Sistema Nacional de Informação Geográfica
 - Topografia
 relationships:
 - type: amended_by
   target: pt:dre:124324702:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:124324702:por
+  label: Alterados os arts. 1.º, 2.º, 3.º, 5.º, 6.º, 7.º, 8.º, 14.º, 15.º, 15.º-A, 16.º e 17.º e republicado o Dec Lei 193/95
+    de 28-jul DR.IS-A [173], na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 130/2019 - Diário da República
+    n.º 166/2019, Série I de 2019-08-30 nos termos do art. 3.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-2019-124324702
+  date: '2019-08-30'
 - type: cites
   target: celex:32007L0002
   label: null
@@ -94,15 +101,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/193/1995/07/28/p/dre
 article_structure:
-  article_count: 42
+  article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:03Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +172,9 @@ d) [Anterior alínea c).]
 
 e) «Cartografia temática», a cartografia específica que representa fenómenos localizáveis de qualquer natureza, quantitativos ou qualitativos, sobre uma base cartográfica oficial ou homologada.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]:
 
@@ -195,7 +204,9 @@ c) [Anterior alínea b).]
 
 11 - Para a produção da cartografia referida no n.º 1 podem os organismos e serviços públicos competentes recorrer à colaboração de entidades que satisfaçam as condições referidas nos números anteriores.
 
-###### Artigo 3.º — Cartografia oficial e homologada
+Artigo 3.º
+
+Cartografia oficial e homologada
 
 1 - [...].
 
@@ -213,13 +224,17 @@ c) [Anterior alínea b).]
 
 8 - A metainformação inerente à cartografia oficial e homologada deve respeitar o perfil nacional de metadados divulgado no sítio na Internet da DGT.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O Conselho Coordenador de Cartografia funciona na dependência do membro do Governo responsável pela área do ordenamento do território.
 
 2 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]:
 
@@ -249,7 +264,9 @@ m) [...].
 
 2 - Para efeitos do disposto nas alíneas c) e d) do número anterior, o Conselho Coordenador de Cartografia pode ouvir, sempre que necessário, os municípios e as entidades intermunicipais, outras entidades públicas utilizadoras de cartografia, bem como entidades privadas, designadamente as associações profissionais.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]:
 
@@ -293,7 +310,9 @@ s) Um representante das entidade intermunicipais, a designar pelas mesmas, atrav
 
 3 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Compete à DGT assegurar o apoio logístico e administrativo e suportar os encargos financeiros decorrentes do funcionamento do Conselho Coordenador de Cartografia.
 
@@ -307,7 +326,9 @@ s) Um representante das entidade intermunicipais, a designar pelas mesmas, atrav
 
 6 - O estatuto remuneratório dos membros que integram a comissão permanente referida no número anterior é fixado por despacho dos membros do Governo responsáveis pelas áreas das finanças e do ordenamento do território.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Com exceção dos organismos produtores de cartografia oficial, o exercício de atividades no domínio da produção de cartografia topográfica, topográfica de imagem e temática, bem como a execução de coberturas aerofotogramétricas, estão sujeitos a mera comunicação prévia à DGT.
 
@@ -327,7 +348,9 @@ b) No caso de pessoa singular, de autorização para consultar, junto do Minist�
 
 7 - A cessação do exercício de atividades no domínio da produção de cartografia topográfica, topográfica de imagem ou temática e de atividades no domínio da produção de cartografia hidrográfica, em território nacional, deve ser comunicada através do balcão único eletrónico dos serviços, respetivamente, à DGT e ao IH, que procedem à atualização das listagens referidas no número anterior.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -335,7 +358,9 @@ b) No caso de pessoa singular, de autorização para consultar, junto do Minist�
 
 3 - [...].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...].
 
@@ -357,7 +382,9 @@ c) Pelos organismos responsáveis pelo tema subjacente à cartografia, no caso d
 
 7 - A DGT, o IH e os organismos responsáveis pelo tema subjacente à cartografia divulgam nos respetivos sítios na Internet a listagem com os resultados dos processos de homologação de produção cartográfica que lhes tenham sido submetidos.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -379,7 +406,9 @@ c) Documentação inerente ao processo de homologação, nos casos em que esta t
 
 7 - As entidades referidas nos números anteriores estão obrigadas a facultar os elementos neles referidos sempre que solicitado pelas entidades fiscalizadoras.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]:
 
@@ -419,7 +448,9 @@ Sistemas de georreferência
 
 2 - No caso da cartografia hidrográfica os sistemas a adotar devem ser os constantes do sítio na Internet do IH.
 
-###### Artigo 15.º-A — Programas e planos territoriais
+Artigo 15.º-A
+
+Programas e planos territoriais
 
 1 - A cartografia topográfica e topográfica de imagem para elaboração dos programas e planos territoriais e a cartografia temática que resulte dessa elaboração, estão sujeitas às normas e especificações técnicas constantes do sítio na Internet da DGT.
 
@@ -461,15 +492,15 @@ O presente diploma entra em vigor no prazo de 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministro de 29 de maio de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - José Pedro Correia de Aguiar-Branco - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 11 de setembro de 2014.**
+Promulgado em 11 de setembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de setembro de 2014.**
+Referendado em 15 de setembro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

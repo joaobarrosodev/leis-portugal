@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/059b00/12251226.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/7/1994/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1994-276668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cb59bcfc501e1783e8e1800dd1b97d6520b9b01f70d5baa6d5542d503db3938
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e33d2dc14e41c84bc87fd2d94acc1e6122c610cf01e105cfbf0fd7775ce3b9fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/329/1993/09/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/329/1993/09/25/p/dre
+- type: cites
+  target: pt:dre:549454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520669:por
+  label: "Revogado pelo DEC LEI.187/2007.10.05.2007.MTSSO, DR.IS [90] de 10.05.2007, a partir de 01.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/187-2007-520669
+  date: '2007-05-10'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:42Z'
   warnings: []
   errors: []
 ---
@@ -167,12 +188,12 @@ Presidência do Conselho de Ministros, 10 de Janeiro de 1994.
 
 Aníbal António Cavaco Silva - José Bernardo Veloso Falcão e Cunha.
 
-**Promulgado em 11 de Fevereiro de 1994.**
+Promulgado em 11 de Fevereiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Fevereiro de 1994.**
+Referendado em 15 de Fevereiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

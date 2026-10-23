@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 296/2002, 1º Suplemento, Série I-A de 2002-12-23
   number: '296'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8042-(8) a 8042-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/12/296a01/00080008.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/54-v/2002/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/54-v-2002-668479
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T04:43:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c7f1386f872ce43a0b72bc1451023e99084f2e89fa09c87372331adbebf5cf7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27faf90c474c6b7b78488ec3ffc38016ee1b4f335997bb3623f2e0d042be840d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:43:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:43:21Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +86,7 @@ validation:
 
 de 23 de Dezembro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:
 
 A pena residual de prisão aplicada a Sílvia do Carmo da Fonseca Vaz Farinha, de 32 anos de idade, no processo n.º 1246/99.8GFSNT da 1.ª Vara de Competência Mista de Sintra é reduzida, por indulto, em um ano de prisão, pelo esforço desenvolvido na sua reinserção social por via da recuperação da toxicodependência.
 
@@ -96,12 +96,12 @@ a) Não se ter a indultada constituído em ausência ilegítima do estabelecimen
 
 b) Não se constituir a indultada em ausência ilegítima do estabelecimento prisional relativamente a licença que esteja a gozar à data da concessão do indulto.
 
-**Assinado em 20 de Dezembro de 2002.**
+Assinado em 20 de Dezembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Dezembro de 2002.**
+Referendado em 23 de Dezembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

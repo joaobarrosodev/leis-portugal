@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/09/17200/0479904800.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/134/2014/09/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2014-56479730
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79bbb4b3fc57b5a6f6dfba102b2a2ce0d76edbb9b0806204e6d180afa608df7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4019fa7aa3c27f5f4442464d09fee8ba25c86f3a225d06ccebe2e34e0cb69598
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
+- Avaliação do Pessoal
 - Bolsa de Estágio
-- Formação Profissional
 - Contrato de Formação
 - Definição de Competências
 - Empresa Pública
-- Administração Pública
-- INA
-- Programa de Formação
 - Estágio de Formação
+- Formação Profissional
+- INA
 - Política de Emprego
-- Avaliação do Pessoal
+- Programa de Formação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2010/03/19/p/dre
@@ -99,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:175536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611493:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:56Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +169,9 @@ Os artigos 2.º, 5.º, 6.º, 8.º, 9.º, 14.º, 16.º, 17.º, 20.º e 21.º do [
 
 3 - Os programas de estágios profissionais nas regiões autónomas e na administração local são regulados em diplomas próprios.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Podem ser criados programas específicos de estágio cujos destinatários, pelas suas particulares qualificações profissionais e académicas, se enquadrem especificamente nas missões e atividades prosseguidas por determinados órgãos e serviços.
 
@@ -159,7 +181,9 @@ Os artigos 2.º, 5.º, 6.º, 8.º, 9.º, 14.º, 16.º, 17.º, 20.º e 21.º do [
 
 4 - A criação, as condições e os requisitos dos programas específicos de estágio referidos nos n.os 1 e 3, bem como a respetiva regulamentação devem obedecer, com as necessárias adaptações, ao disposto no presente decreto-lei e constam de portaria a aprovar pelos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da respetiva tutela.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -171,7 +195,9 @@ Os artigos 2.º, 5.º, 6.º, 8.º, 9.º, 14.º, 16.º, 17.º, 20.º e 21.º do [
 
 5 - [Anterior n.º 4.]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -181,7 +207,9 @@ Os artigos 2.º, 5.º, 6.º, 8.º, 9.º, 14.º, 16.º, 17.º, 20.º e 21.º do [
 
 4 - Não podem participar no Programa e nos programas específicos de estágio os interessados que se encontrem a frequentar ou tenham frequentado programas de estágios profissionais financiados, total ou parcialmente, pelo Estado, nomeadamente estágios integrados em edições do Programa de Estágios Profissionais na Administração Pública Central (PEPAC), Programa de Estágios Profissionais na Administração Local (PEPAL) e os promovidos pelo IEFP, I. P.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -197,7 +225,9 @@ Os artigos 2.º, 5.º, 6.º, 8.º, 9.º, 14.º, 16.º, 17.º, 20.º e 21.º do [
 
 7 - [Anterior n.º 4.]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -209,7 +239,9 @@ Os artigos 2.º, 5.º, 6.º, 8.º, 9.º, 14.º, 16.º, 17.º, 20.º e 21.º do [
 
 5 - A portaria a que se refere o n.º 4 do artigo 5.º pode prever a atribuição de outros apoios devidamente justificados pela especificidade do programa em causa.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - No fim do estágio é efetuada uma avaliação do estagiário tendo em conta o cumprimento do plano de estágio e respetivos objetivos.
 
@@ -217,7 +249,9 @@ Os artigos 2.º, 5.º, 6.º, 8.º, 9.º, 14.º, 16.º, 17.º, 20.º e 21.º do [
 
 3 - [Anterior n.º 2.]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -225,11 +259,15 @@ Os artigos 2.º, 5.º, 6.º, 8.º, 9.º, 14.º, 16.º, 17.º, 20.º e 21.º do [
 
 3 - O INA partilha a responsabilidade pela gestão e coordenação de cada programa específico, nos termos a regulamentar na portaria referida no n.º 4 do artigo 5.º
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 O presente decreto-lei é regulamentado através de portaria dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública, da economia, da solidariedade, do emprego e da segurança social.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...].
 
@@ -245,12 +283,12 @@ O presente decreto-lei entra em vigor no primeiro dia útil do mês seguinte ao 
 
 Visto e aprovado em Conselho de Ministros de 24 de julho de 2014. - Pedro Passos Coelho - Hélder Manuel Gomes dos Reis - António de Magalhães Pires de Lima - Octávio Félix de Oliveira.
 
-**Promulgado em 2 de setembro de 2014.**
+Promulgado em 2 de setembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de setembro de 2014.**
+Referendado em 4 de setembro de 2014.
 
 Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.

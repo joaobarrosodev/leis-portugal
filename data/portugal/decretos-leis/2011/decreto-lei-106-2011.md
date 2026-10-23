@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106/2011/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2011-146936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cff7ef82dc16c945a30f9d57bcfd8d4ea927905fb69579e59792f4d029e4eb88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f005527934269a7957741eb48a3909a6137dfe4973cae342ac5fbf128264eb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Central do Sistema de Saúde
 - Atribuição de Verba
-- Jogos de Fortuna e Azar
-- Ministério da Solidariedade e Segurança Social
 - Fundação Inatel
 - Instituto de Gestão Financeira da Segurança Social
-- Santa Casa da Misericórdia
-- Administração Central do Sistema de Saúde
+- Jogos de Fortuna e Azar
+- Ministério da Saúde
+- Ministério da Solidariedade e Segurança Social
 - Presidência do Conselho de Ministros
 - Receita Pública
-- Ministério da Saúde
+- Santa Casa da Misericórdia
 relationships:
 - type: amended_by
   target: pt:dre:911488702:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115017488:por
+  label: Alterado o art. 3.º do Dec Lei 56/2006 de 15-mar, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei n.º
+    23/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2018-115017488
+  date: '2018-04-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/44/2011/03/24/p/dre
   label: null
@@ -93,16 +99,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/86-a/2011/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/86-a/2011/07/12/p/dre
+- type: cites
+  target: pt:dre:278879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667323:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:24Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +191,9 @@ b) 1,19 % para a prestação de serviços sociais nas áreas do turismo e do ter
 
 14 - ...
 
-###### Artigo 6.º — Regulamentação
+Artigo 6.º
+
+Regulamentação
 
 As normas regulamentares necessárias à repartição anual das verbas referidas no presente diploma são aprovadas até 10 de Outubro, através de portaria do ministro responsável pela respectiva área sectorial, para vigorar no ano seguinte.»
 
@@ -187,12 +207,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Bento Martins Costa Macedo e Silva - Miguel Fernando Cassola de Miranda Relvas - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 10 de Outubro de 2011.**
+Promulgado em 10 de Outubro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 11 de Outubro de 2011.**
+Referendado em 11 de Outubro de 2011.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/570-1984-382380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T08:07:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4cf7b1395b1e696d6082607d690f7d9d0b09b93abfbcfa78e3836724e353ccdd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2d830f8363d251e87bd1cd48014208825301c7b80eed426fad4ddb6d0001b70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:07:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Faculdade de Ciências e Tecnologia
+- Licenciatura
+- Plano de Estudos
+- Universidade NOVA de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:550466:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621743:por
+  label: "Alterado o anexo pela PORT.317-A/86.24.06.1986.MEC, DR.IS [142-Supl] de 24.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/317-a-1986-621743
+  date: '1986-06-24'
+- type: amended_by
+  target: pt:dre:550466:por
+  label: "Alterado o anexo pela PORT.1078/89.1989.12.13.ME,DR.IS [285]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1078-1989-550466
+  date: '1989-12-13'
+- type: cites
+  target: pt:dre:451807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:07:55Z'
   warnings: []
   errors: []
 ---
@@ -147,9 +178,9 @@ A tabela e o regime de precedências serão propostos pelo conselho científico,
 
 Ministério da Educação.
 
-**Assinada em 1 de Julho de 1984.**
+Assinada em 1 de Julho de 1984.
 
-**O Ministro da Educação, José Augusto Seabra.**
+O Ministro da Educação, José Augusto Seabra.
 
 ## ANEXO — Licenciatura em Engenharia Geológica
 

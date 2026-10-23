@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/08/200a00/45484549.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/227/1997/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1997-641999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:51:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43764f8ab3578197ec4e629fa4e790a5bdbe2098ea70bb8e27529de7b20d997d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 891ad4b520f5d5b82e6b17831ce58e5afc51f65582317f135ff699fc5bf5c1ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:51:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretaria Geral
 - Instituto da Comunicação Social
 - Ministério da Cultura
 - Orgânica
 - Presidência do Conselho de Ministros
 - Quadro de Pessoal
+- Secretaria Geral
 - Serviços Sociais
 - Transferência de Competências
 - Transferência Patrimonial
@@ -87,16 +87,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/48/1992/04/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/48/1992/04/07/p/dre
+- type: cites
+  target: pt:dre:198546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300009:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:354698:por
+  label: "Revogado pelo DEC LEI.272/99.1999.07.22.PCM DR.IS-A [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/272-1999-354698
+  date: '1999-07-22'
 article_structure:
-  article_count: 8
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:51:35Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +164,9 @@ l) Assegurar o pagamento, por conta da rubrica adequada do respectivo orçamento
 
 2 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -165,7 +180,9 @@ d) ...
 
 e) ...
 
-###### Artigo 9.º — Direcção de Serviços de Documentação, Informação e Relações Públicas
+Artigo 9.º
+
+Direcção de Serviços de Documentação, Informação e Relações Públicas
 
 A Direcção de Serviços de Documentação, Informação e Relações Públicas compreende:
 
@@ -173,7 +190,9 @@ a) ...
 
 b) A Divisão de Informação e Relações Públicas.
 
-###### Artigo 11.º — Divisão de Informação e Relações Públicas
+Artigo 11.º
+
+Divisão de Informação e Relações Públicas
 
 Compete à Divisão de Informação e Relações Públicas:
 
@@ -201,11 +220,15 @@ l) Assegurar a ligação com os serviços congéneres dos diversos ministérios;
 
 m) Elaborar estudos e pareceres sobre assuntos da sua competência.
 
-###### Artigo 16.º — Quadro
+Artigo 16.º
+
+Quadro
 
 A Secretaria-Geral da Presidência do Conselho de Ministros disporá de novo quadro de pessoal a aprovar por portaria conjunta do Primeiro-Ministro, do Ministro das Finanças e do membro do Governo responsável pela Administração Pública, no prazo de 30 dias após a entrada em vigor deste diploma.
 
-###### Artigo 17.º — Afectação de pessoal
+Artigo 17.º
+
+Afectação de pessoal
 
 1 - O pessoal da Secretaria-Geral será distribuído pelos diversos serviços que a integram, ou aos quais apoia, por despacho do secretário-geral, ouvidos os responsáveis respectivos.
 
@@ -225,18 +248,20 @@ Transição do património
 
 3 - É afectado aos Serviços Sociais da Presidência do Conselho de Ministros o espaço denominado 'Oficinas/arquivos do 4.º pavimento, bem como o espaço ocupado pelo actual refeitório.'
 
-###### Artigo 3.º — Entrada em vigor
+Artigo 3.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Julho de 1997. - António Manuel Carvalho Ferreira Vitorino - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 16 de Agosto de 1997.**
+Promulgado em 16 de Agosto de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Agosto de 1997.**
+Referendado em 21 de Agosto de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

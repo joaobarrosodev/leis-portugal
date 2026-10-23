@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/162-1974-412666
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T04:20:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c73a1edc2be9f54765365083a09422ddea4f9308551f7a77b709da4c0e2cf14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70a056893b472f86bf6fd346c693e163524e9129d51a88010fde33201cc9032f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:20:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:20:51Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +107,13 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Administ
 
 Serviços de educação
 
-###### Artigo 267.º «Encargos administrativos»:
+Artigo 267.º «Encargos administrativos»:
 
 N.º 15 «Encargos com viagens e subsídios dos presidentes dos júris de fiscalização e outras despesas a que se referem os Decretos n.os 39291, de 24 de Julho de 1953, 39622, de 26 de Abril de 1954, 39791, de 27 de Agosto de 1954, e 40290, de 10 de Agosto de 1955» ... 159024$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 1537.º «Quota-parte da província em encargos na metrópole»:
+Artigo 1537.º «Quota-parte da província em encargos na metrópole»:
 
 N.º 7 «Junta das Missões Geográficas e de Investigações do Ultramar»:
 

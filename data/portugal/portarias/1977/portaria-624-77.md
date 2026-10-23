@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/22400/23572360.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/624-1977-278264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T05:26:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 753dda2599f10cfda0e4bf3000d1402fa54a224ddf12e7f4bf4776c3ffecb30d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d216146dcf4a507d739e65285d4352cc55b14ea550c41a5741e80f6645692be9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:26:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Cidadão Estrangeiro
+- Ensino Profissional
+- Escola Náutica Infante Dom Henrique
+- Incapacidade Física
+- Incapacidade Permanente
+- Incapacidade Psíquica
+- Marinha Mercante
 relationships:
 - type: amended_by
   target: pt:dre:365133:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:691274:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:365133:por
+  label: Revogada pela PORT.532/79.04.10.1979.MTC, DR.IS [230] de 04.10.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/532-1979-365133
+  date: '1979-10-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:26:59Z'
   warnings: []
   errors: []
 ---
@@ -449,4 +466,4 @@ i) Todas as demais perdas ou deformidades, além das mencionadas, e que possam p
 
 Nota. - Não deve ser considerada como causa de icapacidade o facto de um candidato não satisfazer a uma só das condições estipuladas nas alíneas do n.º 2 de I).
 
-**O Secretário de Estado da Marinha Mercante, António José Borrani Crisóstomo Teixeira.**
+O Secretário de Estado da Marinha Mercante, António José Borrani Crisóstomo Teixeira.

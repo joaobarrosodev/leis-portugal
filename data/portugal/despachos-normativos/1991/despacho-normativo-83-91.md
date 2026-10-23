@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/83/1991/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/83-1991-622990
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T07:53:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bcd1698afeb78479fa3aa7ed5d66e2e868426ee8b941066e7ab32fce11f02de4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bee402e4bf81b0412cdbed5f3401166c82456151b7308be5b2a79d151be23b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:53:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
 - CEE
 - Exploração Agrícola
-- Política Agrícola Comum
 - Exploração Florestal
+- Política Agrícola Comum
 - Regulamento CE
-- Agricultura
 relationships:
 - type: amended_by
   target: pt:dre:515190:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS VALORES DAS AJUDAS COMUNITARIAS, PELO DESPACHO NORMATIVO 247/94, DE 17 DE MARCO, PUBLICADO NO DR.IS-B,\
+    \ 90, DE 940418.\0 940418."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-04-18'
+- type: amended_by
+  target: pt:dre:515190:por
+  label: "Aditada uma al d) ao n&#186; 9 do presente diploma pelo DN.37/2004.02.07.2004.MADRP, DR.IS-B [182] de 04.08.2004\0\
+    4\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/37-2004-515190
+  date: '2004-07-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/81/1991/02/19/p/dre
   label: null
@@ -86,16 +98,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/75/1991/04/05/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/75/1991/04/05/p/dre
+- type: cites
+  target: pt:dre:487700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:53:51Z'
   warnings: []
   errors: []
 ---
@@ -158,8 +178,8 @@ Ministério da Agricultura, Pescas e Alimentação, 8 de Março de 1991. - Pelo 
 
 ## ANEXO I — Densidade inicial de florestação e duração do prémio de acordo com a espécie a os objectivos de produção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/079b00/17811782.pdf))](https://files.diariodarepublica.pt/1s/1991/04/079b00/17811782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/079b00/17811782.pdf)
 
 ## ANEXO II — Valor do prémio segundo o tipo de beneficiário e os escalões de superfície (em ECU/ha)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/079b00/17811782.pdf))](https://files.diariodarepublica.pt/1s/1991/04/079b00/17811782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/079b00/17811782.pdf)

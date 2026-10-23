@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/09/17900/0539705434.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/120/2017/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2017-108155297
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 828a133e3c91217fa44ed91ba1d743931223f7c9d69b419ead0faafe7746cda7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b477ae8703b910b82865757794d3df19bb6b9e7fd2736da10b4796073a8ce75c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,44 +67,53 @@ reuse:
 subjects:
 - Acesso à Informação
 - Aproximação das Legislações
-- Modernização Administrativa
-- Multa
+- ASAE
+- Balcão do Empreendedor
+- Comércio
 - Comércio a Retalho
+- Conselho Consultivo de Ourivesaria
 - Contra-ordenação
 - Contrastaria
 - Controlo de Qualidade
 - Criação de Serviços
 - Definição de Competências
-- Marca
-- União Europeia
-- Imprensa Nacional-Casa da Moeda
 - Fiscalização
-- Lisboa
-- Pagamento
-- ASAE
+- Imprensa Nacional-Casa da Moeda
+- Indústria de Ourivesaria e Relojoaria
+- Informação do Consumidor
+- Instituto Português da Qualidade
+- Joalharia e Ourivesaria
 - Licenciamento
+- Lisboa
 - Livre Circulação de Mercadorias
+- Marca
 - Mercado Interno CE
 - Metal Precioso
-- Instituto Português da Qualidade
-- Programa Simplex
-- Informação do Consumidor
-- Prestamista
-- Regime Jurídico
 - Ministério Público
-- Polícia Judiciária
-- Indústria de Ourivesaria e Relojoaria
-- Joalharia e Ourivesaria
-- Comércio
-- Porto
+- Modernização Administrativa
+- Multa
 - Normalização
-- Balcão do Empreendedor
-- Conselho Consultivo de Ourivesaria
+- Pagamento
+- Polícia Judiciária
+- Porto
+- Prestamista
+- Programa Simplex
+- Regime Jurídico
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:155732595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Alterados, a partir de 28.07.2021, os arts. 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 16.º, 20.º, 22.º, 26.º, 27.º,
+    28.º, 31.º, 32.º, 34.º, 35.º, 38.º, 39.º, 40.º, 41.º, 43.º, 44.º, 45.º, 47.º, 52.º, 53.º, 54.º, 62.º, 63.º, 64.º, 65.º,
+    66.º, 67.º, 68.º, 69.º, 72.º, 93.º, 95.º, 96.º, 99.º e 100.º e revogados o n.º 2 do art. 96.º e o art. 98.º do Regime
+    jurídico da ourivesaria e das contrastarias anexo à Lei 98/2015 de 18-ago, na versão republicada do Regime jurídico pelo
+    presente diploma, pelo(a) Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
 - type: cites
   target: celex:32006R1907
   label: null
@@ -162,15 +171,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/98/2015/08/18/p/dre
 article_structure:
-  article_count: 193
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 127
+  section_count: 25
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:28Z'
   warnings: []
   errors: []
 ---
@@ -235,7 +244,9 @@ a) Os setores da indústria e do comércio de artigos com metais preciosos e a p
 
 b) As atividades profissionais de responsável técnico de ensaiador-fundidor de metais preciosos e de avaliador de artigos com metais preciosos e de materiais gemológicos.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -249,7 +260,9 @@ c) Aos 'artigos com metal precioso usados', definidos nos termos da alínea j) d
 
 d) Às matérias-primas destinadas ao fabrico de objetos, nomeadamente barras, chapas, folhas, lâminas, fios, bandas, tubos, exceto quando sejam diretamente comercializados ao público, caso em que se aplicam as disposições do RJOC, devendo conter as mesmas garantias que os restantes artigos com metais preciosos.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -335,7 +348,9 @@ nn) ...
 
 oo) ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -357,7 +372,9 @@ a) A expansão e o desenvolvimento da indústria ou do comércio de ourivesaria 
 
 b) Seja assegurado o exercício da respetiva atividade de forma independente, bem como o ensaio e a marcação, nos termos e para os efeitos previstos no RJOC.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - As Contrastarias exercem as faculdades inerentes à qualidade de organismo de ensaio e marcação independente, tendo por missão:
 
@@ -391,7 +408,9 @@ i) Fiscalizar, instruir e decidir os processos contraordenacionais relativo ao e
 
 3 - (Revogado.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Qualquer pessoa singular ou coletiva pode solicitar às contrastarias a prestação de outros serviços não previstos no RJOC desde que respeitem à atividade destas, dos serviços técnicos da INCM os quais são aprovados, bem como os respetivos preços, pelo conselho de administração e publicitados no sítio na Internet da INCM.
 
@@ -399,7 +418,9 @@ i) Fiscalizar, instruir e decidir os processos contraordenacionais relativo ao e
 
 3 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -421,7 +442,9 @@ f) Aos requisitos técnicos constantes na portaria do membro do Governo respons�
 
 4 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -435,7 +458,9 @@ f) Aos requisitos técnicos constantes na portaria do membro do Governo respons�
 
 6 - Constitui contraordenação muito grave a violação do disposto no n.º 1.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo anterior, os artigos com metal precioso provenientes de um Estado membro da União Europeia ou do Espaço Económico Europeu, encontrando-se marcados, podem ser colocados no mercado nacional sem necessidade de ensaio e de marcação pela Contrastaria, desde que cumpram os seguintes requisitos cumulativos:
 
@@ -465,7 +490,9 @@ iii) ...
 
 6 - Constitui contraordenação muito grave a violação do disposto nos n.os 1, 3 ou 5.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - As entidades estabelecidas num Estado membro da União Europeia ou do Espaço Económico Europeu, que possuam marcas de responsabilidade registadas nos respetivos países e que pretendam comercializar os seus artigos em território nacional, para efeitos do disposto na alínea b) do n.º 1 do artigo anterior, ou marcar os seus artigos nas Contrastarias portuguesas, devem solicitar ao diretor da Contrastaria o depósito das suas marcas de responsabilidade.
 
@@ -483,7 +510,9 @@ c) ...
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 13.º — Reconhecimento de marcas de contrastaria
+Artigo 13.º
+
+Reconhecimento de marcas de contrastaria
 
 1 - Compete ao IPQ, I. P., pedir o reconhecimento das marcas de contrastaria portuguesas aos Estados membros da União Europeia ou do Espaço Económico Europeu e a países terceiros, sempre que tal lhe seja solicitado pela INCM.
 
@@ -495,7 +524,9 @@ c) ...
 
 5 - O IPQ, I. P., disponibiliza no seu sítio na Internet os desenhos das marcas de contrastaria e a lista de entidades com marcas de contrastaria reconhecidas em Portugal.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -507,7 +538,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Caso seja requerida a marcação dos artefactos de ourivesaria de interesse especial, nos termos do n.º 2 do artigo 2.º, aplicam-se as seguintes regras:
 
@@ -521,7 +554,9 @@ b) (Anterior n.º 2.)
 
 4 - (Revogado.)
 
-###### Artigo 16.º — Marcas de contrastaria utilizados no território nacional
+Artigo 16.º
+
+Marcas de contrastaria utilizados no território nacional
 
 1 - As marcas de contrastaria portuguesas são cunhos do Estado que servem para:
 
@@ -549,7 +584,9 @@ d) Atestar a conformidade legal dos artigos para a sua introdução no mercado.
 
 9 - Constitui contraordenação muito grave, quando tal não constitua crime, a venda ao público de artigos com metal precioso com marca de contrastaria falsa.
 
-###### Artigo 20.º — Métodos de marcação
+Artigo 20.º
+
+Métodos de marcação
 
 1 - A marca de contrastaria e as marcas de responsabilidade podem ser apostas por puncionamento, gravação a laser, etiquetagem ou qualquer outro método de marcação que se justifique pelo avanço tecnológico, desde que aprovado pelo diretor das Contrastarias.
 
@@ -567,17 +604,23 @@ b) Noutros artigos com metal precioso quando haja motivos fundados que o justifi
 
 6 - Constitui contraordenação muito grave, quando tal não constitua crime, a disponibilização e venda ao público de artigos ou artefactos sem marcação.
 
-###### Artigo 24.º — Publicidade das marcas de contrastaria
+Artigo 24.º
+
+Publicidade das marcas de contrastaria
 
 A INCM torna público, no seu sítio na Internet, as marcas de contrastaria em vigor.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - A marca de responsabilidade consiste numa gravura que identifica os operadores económicos mencionados no artigo seguinte, contendo um desenho privativo e uma letra do respetivo nome ou da sua firma, sendo o desenho e a letra visivelmente distintos e encerrados num contorno periférico.
 
 2 - ...
 
-###### Artigo 26.º — Titulares da marca de responsabilidade
+Artigo 26.º
+
+Titulares da marca de responsabilidade
 
 1 - A marca de responsabilidade é um desenho privativo e obrigatório para os operadores económicos titulados a exercer a respetiva atividade nos termos do artigo 41.º e a seguir identificados:
 
@@ -601,7 +644,9 @@ f) (Revogada.)
 
 5 - ...
 
-###### Artigo 27.º — Função da marca de responsabilidade
+Artigo 27.º
+
+Função da marca de responsabilidade
 
 1 - A marca de responsabilidade serve para identificar cada um dos operadores económicos a que se refere o artigo anterior, responsabilizando-os pelo seguinte:
 
@@ -619,7 +664,9 @@ e) Colocação no mercado de artigos que contenham substâncias sujeitas a autor
 
 3 - ...
 
-###### Artigo 28.º — Procedimento de aprovação do desenho da marca de responsabilidade
+Artigo 28.º
+
+Procedimento de aprovação do desenho da marca de responsabilidade
 
 1 - O procedimento para aprovação da marca de responsabilidade inicia-se com a apresentação no Balcão do Empreendedor do desenho privativo do requerente, em formato eletrónico, de acordo com os requisitos previstos no artigo 25.º
 
@@ -649,7 +696,9 @@ e) Colocação no mercado de artigos que contenham substâncias sujeitas a autor
 
 14 - Constitui contraordenação grave a violação do disposto no n.º 9.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - O procedimento de aprovação da marca de responsabilidade dos operadores económicos referidos no n.º 1 do artigo 26.º, quando aplicável, tramita previamente ao pedido de início e exercício de atividade.
 
@@ -667,7 +716,9 @@ b) Para os operadores económicos que exerçam atividades industriais, os consta
 
 6 - Os procedimentos previstos no presente artigo tramitam através do Balcão do Empreendedor.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - As atividades identificadas no artigo 41.º, a profissão de responsável técnico de ensaiador-fundidor e a de avaliador de artigos com metais preciosos e de materiais gemológicos só podem ser exercidas por operadores económicos considerados idóneos.
 
@@ -707,7 +758,9 @@ xii) ...
 
 5 - A falta superveniente do requisito de idoneidade determina a caducidade do título do operador para o exercício da atividade reportada à data da verificação da circunstância que determina a inidoneidade.
 
-###### Artigo 31.º — Direito ao uso da marca de responsabilidade
+Artigo 31.º
+
+Direito ao uso da marca de responsabilidade
 
 1 - O titular de uma marca de responsabilidade aprovado nos termos do artigo 28.º mantém o direito de uso durante 10 anos, findos os quais deve renovar a marca, através do Balcão do Empreendedor.
 
@@ -715,7 +768,9 @@ xii) ...
 
 3 - ...
 
-###### Artigo 32.º — Vicissitudes da marca
+Artigo 32.º
+
+Vicissitudes da marca
 
 1 - No caso de o titular da marca de responsabilidade pretender exercer outra atividade que exija também uma marca de responsabilidade nos termos do artigo 26.º, pode requerer ao chefe da Contrastaria a manutenção de uma única marca para o exercício de ambas as atividades.
 
@@ -731,7 +786,9 @@ xii) ...
 
 7 - Constitui contraordenação muito grave a violação do disposto nos n.os 1 ou 2.
 
-###### Artigo 34.º — Transferência da marca de responsabilidade
+Artigo 34.º
+
+Transferência da marca de responsabilidade
 
 1 - No prazo de 60 dias a contar da morte ou dissolução do titular da marca de responsabilidade, qualquer um dos herdeiros, devidamente habilitado e desde que com o consentimento dos demais, pode requerer à Contrastaria:
 
@@ -751,7 +808,9 @@ b) A posse a título precário da marca e a prorrogação do prazo até 150 dias
 
 7 - O disposto no presente artigo aplica-se, com as necessárias adaptações, à transferência de marcas tituladas por pessoas coletivas.
 
-###### Artigo 35.º — Cancelamento do direito de utilização da marca de responsabilidade
+Artigo 35.º
+
+Cancelamento do direito de utilização da marca de responsabilidade
 
 1 - O direito de utilização da marca de responsabilidade é cancelado pela Contrastaria nas seguintes situações:
 
@@ -769,7 +828,9 @@ c) Se o detentor não solicitar a manutenção da posse precária da marca de re
 
 5 - Constitui contraordenação grave a utilização da marca de responsabilidade cujo direito de utilização tenha sido cancelado, em violação do disposto no n.º 2.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -777,7 +838,9 @@ c) Se o detentor não solicitar a manutenção da posse precária da marca de re
 
 3 - Qualquer titular de uma marca de responsabilidade pode solicitar à INCM que execute a reforma do punção, entregando para o efeito a respetiva matriz.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - Nos artigos com metal precioso é permitida a aposição de marca comercial pertencente aos titulares ou legítimos detentores de marca de responsabilidade.
 
@@ -787,7 +850,9 @@ c) Se o detentor não solicitar a manutenção da posse precária da marca de re
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -797,7 +862,9 @@ c) Se o detentor não solicitar a manutenção da posse precária da marca de re
 
 4 - ...
 
-###### Artigo 41.º — Início e exercício da atividade
+Artigo 41.º
+
+Início e exercício da atividade
 
 1 - Apresentam ao chefe da Contrastaria a mera comunicação prévia para o início e exercício da sua atividade por cada estabelecimento, ou modalidade de venda sem estabelecimento, os seguintes operadores económicos do setor da ourivesaria:
 
@@ -863,7 +930,9 @@ b) Comprovem estar legalmente estabelecidos nesse Estado membro, sendo portadore
 
 9 - Constitui contraordenação muito grave a violação do disposto nos n.os 1, 2, 3, 5, 6, 7 ou 8.
 
-###### Artigo 42.º — Procedimento para início e exercício da atividade
+Artigo 42.º
+
+Procedimento para início e exercício da atividade
 
 1 - A mera comunicação prévia é apresentada no Balcão do Empreendedor, sendo dirigida ao chefe da Contrastaria e acompanhada dos elementos instrutórios referidos na portaria dos membros do Governo responsáveis pelas áreas das finanças, da economia e do emprego e formação profissional, quando os mesmos não tenham já sido apresentados para efeitos de aprovação da marca de responsabilidade, nos termos do artigo 28.º
 
@@ -887,7 +956,9 @@ b) Para os estabelecimentos de indústria tipo 1 e 2, uma das entidades pública
 
 9 - As taxas devidas nos casos referidos no n.os 6 a 8 são as constantes de portarias dos membros do Governo responsáveis pelas áreas das finanças e da economia.
 
-###### Artigo 43.º — Alterações e cancelamento do título
+Artigo 43.º
+
+Alterações e cancelamento do título
 
 1 - O operador económico deve comunicar à Contrastaria, através do Balcão do Empreendedor, qualquer alteração dos elementos constantes do título de exercício da atividade, no prazo máximo de 30 dias após a sua ocorrência, para efeitos de averbamento.
 
@@ -909,7 +980,9 @@ d) Verificação do incumprimento, ainda que superveniente, de qualquer um dos r
 
 6 - (Revogado.)
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -935,7 +1008,9 @@ e) ...
 
 7 - ...
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - Podem obter o título profissional para o exercício da atividade de responsável técnico de ensaiador-fundidor de artigos com metais preciosos ou de avaliador de artigos com metais preciosos e de materiais gemológicos os candidatos que cumulativamente:
 
@@ -963,7 +1038,9 @@ d) O modelo do título profissional.
 
 7 - Constitui contraordenação muito grave o exercício das atividades previstas no n.º 1 sem o respetivo título profissional.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 ...
 
@@ -977,7 +1054,9 @@ d) ...
 
 e) ...
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -1001,7 +1080,9 @@ d) ...
 
 7 - Constitui contraordenação grave a violação do disposto na alínea c) do n.º 2.
 
-###### Artigo 54.º — Seguro de responsabilidade civil
+Artigo 54.º
+
+Seguro de responsabilidade civil
 
 1 - São aprovados por portaria dos membros do Governo responsáveis pelas áreas das finanças, da economia e do emprego e formação profissional o montante mínimo e as condições do seguro de responsabilidade civil de que o responsável técnico de ensaiador-fundidor de artigos com metais preciosos e o avaliador de artigos com metais preciosos e de materiais gemológicos devem dispor.
 
@@ -1017,7 +1098,9 @@ d) ...
 
 7 - (Revogado.)
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - ...
 
@@ -1057,7 +1140,9 @@ g) ...
 
 10 - Constitui contraordenação leve a violação do disposto no n.º 2.
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - ...
 
@@ -1073,7 +1158,9 @@ b) Disponibilizar imediatamente ao consumidor, independentemente de solicitaçã
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - ...
 
@@ -1097,7 +1184,9 @@ g) Disponibilizar lista de avaliadores inscritos para consulta, gerida e organiz
 
 4 - ...
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - É permitida a venda em leilão de artigos com metal precioso usados desde que:
 
@@ -1127,7 +1216,9 @@ c) No local de venda se encontre disponível ao público a informação referida
 
 11 - Constitui contraordenação leve a violação do disposto no n.º 3.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -1149,13 +1240,17 @@ c) No local de venda se encontre disponível ao público a informação referida
 
 10 - (Revogado.)
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - Qualquer pagamento relativo a transações de compra e venda de artigos com metal precioso usados de valor igual ou superior ao fixado para os pagamentos em numerário em lei própria, deve ser efetuado através de pagamento por meio eletrónico, por transferência bancária ou por cheque, neste caso sempre com indicação do destinatário.
 
 2 - ...
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - As autoridades policiais, a ASAE e a INCM podem entrar nas instalações abertas ao público em que se proceda à compra e venda de artigos com metal precioso usados e de subprodutos novos deles resultantes, em horário de funcionamento, de modo a proceder a diligências no âmbito das suas atribuições.
 
@@ -1167,7 +1262,9 @@ b) ...
 
 c) Inspecionar e testar o equipamento de pesagem referido nos artigos 62.º e 65.º
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - O operador económico que introduza em livre prática e no consumo artigos com metal precioso deve, imediatamente após a verificação aduaneira dos mesmos, apresenta-los em volume selado acompanhado da respetiva documentação aduaneira a uma Contrastaria para exame, nos termos do artigo seguinte.
 
@@ -1179,7 +1276,9 @@ c) Inspecionar e testar o equipamento de pesagem referido nos artigos 62.º e 65
 
 5 - ...
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - Após a realização do exame aos artigos com metal precioso, a Contrastaria comunica à alfândega, por meio eletrónico, com conhecimento ao operador económico, o resultado do mesmo através da emissão do respetivo boletim de ensaio.
 
@@ -1191,7 +1290,9 @@ b) Quando os artigos com metal precioso declarados para introdução em livre pr
 
 c) ...
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - Os artigos com metal precioso introduzidos em livre prática e para consumo próprio de pessoas singulares ou coletivas são sujeitos a exame pela Contrastaria, nos termos do RJOC.
 
@@ -1199,7 +1300,9 @@ c) ...
 
 3 - Para efeitos do presente artigo, presume-se para consumo próprio a importação de até 10 artigos com metal precioso por ano, salvo motivo devidamente justificado.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - ...
 
@@ -1209,13 +1312,17 @@ c) ...
 
 4 - A certidão referida no número anterior é numerada e disponibilizada no sítio na Internet da INCM.
 
-###### Artigo 76.º — Exame de artigos para reexportação após aperfeiçoamento ativo
+Artigo 76.º
+
+Exame de artigos para reexportação após aperfeiçoamento ativo
 
 1 - Os artigos com metal precioso em fase de acabamento ou as peças de metal precioso destinadas a incorporar artigos com metal precioso, sujeitos ao regime aduaneiro especial de aperfeiçoamento ativo e destinados a serem reexportados, depois de acabados ou transformados pela indústria em território nacional, são examinados pela Contrastaria a pedido do operador económico.
 
 2 - O exame destina-se a proceder à identificação e ao registo das peças após aperfeiçoamento ativo.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - ...
 
@@ -1241,7 +1348,9 @@ f) Com a aposição de marcas de responsabilidade estrangeiras que não estejam 
 
 6 - ...
 
-###### Artigo 94.º — [...]
+Artigo 94.º
+
+[...]
 
 1 - Os artigos com metal precioso apreendidos podem ser depositados nas Contrastarias para fins exclusivamente de peritagem, sempre que as autoridades legalmente competentes o solicitem.
 
@@ -1249,7 +1358,9 @@ f) Com a aposição de marcas de responsabilidade estrangeiras que não estejam 
 
 3 - As Contrastarias podem realizar peritagens, ensaios e marcações aos artigos com metal precioso apreendidos em resultado da atividade de fiscalização ou de investigação criminal desenvolvida pelas entidades legalmente competentes, suportando as mesmas o correspondente custo.
 
-###### Artigo 95.º — Fiscalização e instrução dos processos contraordenacionais
+Artigo 95.º
+
+Fiscalização e instrução dos processos contraordenacionais
 
 1 - Sem prejuízo das competências de fiscalização atribuídas por lei a outras autoridades administrativas e policiais, a fiscalização e a instrução dos processos relativos a contraordenações previstas no RJOC, compete à INCM, à ASAE, à AT ou à Polícia Judiciária, nos termos dos números seguintes.
 
@@ -1269,7 +1380,9 @@ f) Com a aposição de marcas de responsabilidade estrangeiras que não estejam 
 
 9 - A decisão de aplicação das coimas e sanções acessórias por violação das obrigações constantes dos n.os 5 e 6 do artigo 66.º e dos n.os 1 e 2 do artigo 69.º é do diretor nacional da Polícia Judiciária.
 
-###### Artigo 96.º — [...]
+Artigo 96.º
+
+[...]
 
 1 - ...
 
@@ -1289,7 +1402,9 @@ c) De (euro) 16 200,00 a (euro) 44 800,00, nos casos de infração muito grave.
 
 3 - ...
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - ...
 
@@ -1313,7 +1428,9 @@ c) (Revogada.)
 
 8 - ...
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - ...
 
@@ -1327,7 +1444,9 @@ d) (Revogada.)
 
 2 - O produto das coimas aplicadas pelo diretor nacional da Polícia Judiciária reverte na sua totalidade para a Polícia Judiciária.
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 1 - Os artigos declarados perdidos a favor do Estado pelos tribunais ou por outras entidades oficiais e que se encontrem nas Contrastarias, na sequência de exame efetuado a pedido daquelas, são entregues por estas à Direção-Geral do Tesouro e Finanças (DGTF) após a notificação judicial ou de outra natureza.
 
@@ -1335,7 +1454,9 @@ d) (Revogada.)
 
 3 - ...
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - Os pedidos, as comunicações e os requerimentos previstos no RJOC, entre os operadores económicos e as autoridades competentes, são realizados, por meio eletrónico, através do Balcão do Empreendedor, a que se refere o artigo 6.º do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dre/detalhe/decreto-lei/92-2010-334094), de 26 de julho.
 
@@ -1345,7 +1466,9 @@ d) (Revogada.)
 
 4 - Nos casos previstos nos n.os 2 e 3, quando diferentes entidades devam conhecer as autorizações e comunicações referidas nos artigos 41.º e 65.º, a entidade às quais as mesmas forem apresentadas deve imediatamente transmiti-las às restantes.
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - ...
 
@@ -1355,7 +1478,9 @@ d) (Revogada.)
 
 4 - (Revogado.)
 
-###### Artigo 106.º — [...]
+Artigo 106.º
+
+[...]
 
 1 - A ASAE elabora anualmente, com a INCM, um relatório relativo à atividade exercida ao abrigo do RJOC, a apresentar aos membros do Governo responsáveis pelas áreas das finanças, da justiça e da economia.
 
@@ -1363,7 +1488,9 @@ d) (Revogada.)
 
 3 - As demais entidades competentes no âmbito da presente lei devem enviar à ASAE e à INCM os elementos de informação necessários à produção do relatório referido no n.º 1.
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - Sem prejuízo dos preços devidos pela prestação de outros serviços, aprovados pelo conselho de administração e publicitados no sítio na Internet da INCM nos termos do artigo 6.º, são fixadas por portaria dos membros do Governo responsáveis pela área das finanças e da economia, constituindo receita própria da INCM, as taxas devidas pela prática dos seguintes atos:
 
@@ -1403,19 +1530,25 @@ n) Exame de artigos para reexportação, após aperfeiçoamento ativo, nos termo
 
 5 - (Revogado.)
 
-###### Artigo 108.º — [...]
+Artigo 108.º
+
+[...]
 
 1 - À contagem dos prazos previstos no RJOC aplica-se o Código do Procedimento Administrativo.
 
 2 - Na falta de disposição especial, o prazo supletivo para a prática de atos previstos no presente decreto-lei é de 20 dias úteis.
 
-###### Artigo 111.º — Artefactos com marcas anteriormente vigentes
+Artigo 111.º
+
+Artefactos com marcas anteriormente vigentes
 
 1 - (Anterior corpo do artigo.)
 
 2 - Os artigos com metais preciosos que apresentem marcas extintas de contrastarias estrangeiras consideram-se, para efeitos da sua venda ao público, legalmente marcados.
 
-###### Artigo 113.º — [...]
+Artigo 113.º
+
+[...]
 
 Para efeitos do RJOC, os reconhecimentos efetuados pelo IPQ, I. P., ao abrigo do [Decreto-Lei n.º 391/79](https://diariodarepublica.pt/dre/detalhe/decreto-lei/391-1979-369812), de 20 de setembro, alterado pelos [Decretos-Leis n.os 57/98](https://diariodarepublica.pt/dre/detalhe/decreto-lei/57-1998-186542), de 16 de março, e [171/99](https://diariodarepublica.pt/dre/detalhe/decreto-lei/171-1999-323950), de 19 de maio, continuam válidos e mantêm-se em vigor até à data do respetivo termo.»
 
@@ -1439,7 +1572,9 @@ c) Relógios, óculos e lunetas em ouro - 750 (por mil);
 
 d) Toque da Platina - 500 (por mil).
 
-###### Artigo 36.º-A — Criação de marca de responsabilidade por outro método
+Artigo 36.º-A
+
+Criação de marca de responsabilidade por outro método
 
 1 - A criação da marca de responsabilidade por qualquer método, desde que permitida nos termos do RJOC, pode ser produzida pela INCM a pedido do operador económico ou de outra entidade legitimada para o efeito.
 
@@ -1449,7 +1584,9 @@ d) Toque da Platina - 500 (por mil).
 
 4 - A aposição de marca de responsabilidade em etiquetas é efetuada, em exclusivo, pelas Contrastarias.
 
-###### Artigo 114.º — Conselho Consultivo de Ourivesaria
+Artigo 114.º
+
+Conselho Consultivo de Ourivesaria
 
 1 - O Conselho Consultivo de Ourivesaria é um órgão consultivo do conselho de administração da INCM em matéria de acompanhamento do setor da ourivesaria.
 
@@ -1493,7 +1630,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 ...
 
@@ -1511,7 +1650,9 @@ f) ...
 
 g) Lista de avaliadores de artigos com metais preciosos e de materiais genealógicos, gerida e organizada pela INCM.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -1575,13 +1716,13 @@ c) O [Decreto-Lei n.º 44/2016](https://diariodarepublica.pt/dre/detalhe/decreto
 
 Visto e aprovado em Conselho de Ministros de 25 de maio de 2017. - Mário José Gomes de Freitas Centeno - Augusto Ernesto Santos Silva - João Miguel Range Prata Roque - Mário José Gomes de Freitas Centeno - Maria Isabel Solnado Porto Oneto - Francisca Eugénia da Silva Dias Van Dunem - Luís Filipe Carrilho de Castro Mendes - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 25 de julho de 2017.**
+Promulgado em 25 de julho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 31 de julho de 2017.**
+Referendado em 31 de julho de 2017.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
 
@@ -2407,7 +2548,9 @@ e) Exigir o comprovativo escrito de que o operador económico cumpriu a obrigaç
 
 7 - Constitui contraordenação grave a violação de cada um dos deveres fixados nas alíneas a), b), c) ou e) do n.º 1, bem como a violação do disposto nos n.os 3, 4, 5 ou 6.
 
-###### Artigo 45.º — Título profissional
+###### Artigo 45.º
+
+## Título profissional
 
 1 - Podem obter o título profissional para o exercício da atividade de responsável técnico de ensaiador-fundidor de artigos com metais preciosos ou de avaliador de artigos com metais preciosos e de materiais gemológicos os candidatos que cumulativamente:
 

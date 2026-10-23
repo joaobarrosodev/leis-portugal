@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/157/1997/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1997-164051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e97d26cf34c333c64689dcd58fc5bf3a6c90855b3a255e7e3b3cc062862fcc6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcdbeefb819a0765c366b9207c8d16fb7089b303e588874b7fa1a110464db8df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Falência
-- Liquidação Judicial
-- Empresa
+- Assembleia de Credores
 - Código dos Processos Especiais de Recuperação da Empresa e de Falência
 - Direito Penal Económico
+- Empresa
 - Extinção de Serviços
-- Assembleia de Credores
-- Processo Especial de Falência
+- Falência
 - Gabinete de Coordenação para a Recuperação de Empresas
+- Liquidação Judicial
 - Prazo
+- Processo Especial de Falência
 - Recuperação de Empresas
 - Viabilidade Económica
 relationships:
@@ -83,6 +83,12 @@ relationships:
   target: pt:dre:538423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:540216:por
+  label: "Alterado o art. 246º do Código dos Processos Especiais de Recuperação da Empresa e de Falência aprovado pelo Dec\
+    \ Lei 132/93 de 23-Abr, com a redacção do presente diploma, pelo DEC LEI.323/2001.2001.12.17.MJ DR.IS-A [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-2001-540216
+  date: '2001-12-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1993/04/23/p/dre
   label: null
@@ -91,16 +97,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/100/1996/07/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/100/1996/07/04/p/dre
+- type: cites
+  target: pt:dre:228619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666341:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:538423:por
+  label: "Revogado o Código dos Processos Especiais de Recuperação da Empresa e de Falência, aprovado pelo Dec Lei 132/93,\
+    \ de 23-Abr DR.IS-A [95], alterado pelo presente diploma e pelos Dec Leis 315/98, de 20-Out, 323/2001, de 17-Dez e 38/2003,\
+    \ de 08-Mar, pelo DEC LEI.53/2004.18.03.2004.MJ, DR.IS-A [66] de 18.03.2004 a partir da entrada em vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2004-538423
+  date: '2004-03-18'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:55Z'
   warnings: []
   errors: []
 ---
@@ -175,12 +200,12 @@ O despacho referido no n.º 6 do artigo 8.º do [Decreto-Lei n.º 132/93](https:
 
 Visto e aprovado em Conselho de Ministros de 23 de Abril de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Jaime Serrão Andrez - Fernando Manuel Van-Zeller Gomes da Silva - Maria João Fernandes Rodrigues - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 28 de Maio de 1997.**
+Promulgado em 28 de Maio de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Junho de 1997.**
+Referendado em 6 de Junho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15000/0000800010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/2/2020/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2020-139472787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:34:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa44f1e49b8c52fb2f8b6a0d1cc09bdea0c74f3f8e9226f7496a605caa49d95c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83750c1bec95a0920ac834a5dae93dd0dcadbbb54ea5814208c37c4601e291a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:34:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
-- PSP
-- Indústria Farmacêutica
-- Multa
-- Infarmed
+- Comércio
+- Conselho Diretivo
 - Contra-ordenação
 - Definição de Competências
 - Direção Geral de Alimentação e Veterinária
+- Droga
+- Embalagem
 - Etiquetagem
+- Exportação
 - Fabrico Industrial
 - Fiscalização
-- Conselho Diretivo
-- Importação
-- IFAP
-- Licenciamento
-- Embalagem
 - GNR
-- Droga
-- Exportação
+- IFAP
+- Importação
+- Indústria Farmacêutica
+- Infarmed
+- Licenciamento
+- Multa
+- Polícia Judiciária
 - Presidente
 - Produto Farmacêutico
-- Polícia Judiciária
+- Produto Químico
+- PSP
 - Taxa
 - TAXA de Prestação de Serviços
-- Comércio
 relationships:
 - type: cites
   target: celex:32004R0273
@@ -123,16 +123,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/61/1994/10/12/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/61/1994/10/12/p/dre
+- type: cites
+  target: pt:dre:117821810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667750:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:34:47Z'
   warnings: []
   errors: []
 ---
@@ -183,7 +207,9 @@ Os artigos 13.º, 43.º, 44.º e 67.º do [Decreto Regulamentar n.º 61/94](http
 
 6 - A autorização para o cultivo de cânhamo para fins industriais, previsto no n.º 4, deve ser requerida à Direção-Geral de Alimentação e Veterinária.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [...]
 
@@ -211,13 +237,17 @@ i) Para cultivo, referido no n.º 4 do artigo 13.º - (euro) 50,00 acrescido do 
 
 4 - [...]
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - As taxas devidas nos termos das alíneas a) a h) do n.º 1 do artigo anterior são cobradas e devidas ao INFARMED, I. P., aquando da submissão dos pedidos.
 
 2 - As taxas devidas nos termos da alínea i) do n.º 1 do artigo anterior são cobradas e devidas à Direção-Geral de Alimentação e Veterinária, sendo que os valores a pagar pelas análises laboratoriais devem ser pagas aos laboratórios.
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - A aplicação das coimas e sanções acessórias a que se refere a secção ii do presente capítulo é da competência do presidente do conselho diretivo do INFARMED, I. P., com exceção daquelas que resultem de competências atribuídas à DGAV para cuja aplicação é competente o diretor-geral de Alimentação e Veterinária.
 
@@ -229,12 +259,14 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 16 de julho de 2020. - António Luís Santos da Costa - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem - Jamila Bárbara Madeira e Madeira - Maria do Céu de Oliveira Antunes Albuquerque.
 
-**Promulgado em 23 de julho de 2020.**
+Promulgado em 23 de julho de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de julho de 2020.**
+Referendado em 27 de julho de 2020.
 
 Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
+
+113447259

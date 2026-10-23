@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 88/2003, 1º Suplemento, Série I-A de 2003-04-14
   number: '88'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2452-(8) a 2452-(56)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72-b/2003/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-b-2003-315885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:42:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9dd318d271557909f1503f561ca886db4520fece8df301963c2528179eb61fc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9733d156c1868d49b12bd52c22576338eec936c332cd4efd8af2751cac7ca9ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:42:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,53 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
+- Equipamento de Veículo
 - Especificação Técnica
 - Homologação
-- Veículo
-- Equipamento de Veículo
 - Regulamento da Homologação CE de Modelo de Automóveis e Reboques seus Sistemas Componentes e Unidades Técnicas
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:611962:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:566652:por
+  label: "Alterado o ponto 9.9 do anexo I e o ponto 9.9 do anexo III, aditados os pontos 9.23 e 9.23.1 ao anexo I e os pontos\
+    \ 9.23 e 9.23.1 à secção A do anexo III, substituídos o anexo IV, o apêndice 1 e o apêndice 2 ambos do anexo XI, todos\
+    \ do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas,\
+    \ aprovado pelo Dec Lei 72/2000, de 06-Mai, na redacção do presente diploma, e republicados os anexos I, III, IV e XI\
+    \ no seu anexo V, pelo DEC LEI.220/2004.04.11.2004.MAI, DR.IS-A [259] de 04.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/220-2004-566652
+  date: '2004-11-04'
+- type: amended_by
+  target: pt:dre:457203:por
+  label: "Alterado o anexo XI do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes\
+    \ e Unidades Técnicas aprovado pelo Dec Lei 72/2000, de 06-Mai, na redacção do presente diploma, pelo DEC LEI.3/2005.05.01.2005.MAI,\
+    \ DR.IS-A [3] de 05.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-2005-457203
+  date: '2005-01-05'
+- type: amended_by
+  target: pt:dre:589559:por
+  label: "Alterado o anexo IV do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes\
+    \ e Unidades Técnicas, aprovado pelo Dec Lei 72/2000 de 06-Mai, substituído pelo presente diploma, passando aquele a ter\
+    \ a redacção constante do anexo II do DEC LEI.178/2005.28.10.2005.MAI, DR.IS-A [208] de 28.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2005-589559
+  date: '2005-10-28'
+- type: amended_by
+  target: pt:dre:520818:por
+  label: "Alterado o art. 35º e os anexos I, III, IV, IX e XI do Regulamento da Homologação CE de Modelo de Automóveis e Reboques,\
+    \ Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Dec Lei 72/2000 de 06-Mai, na redacção do presente diploma,\
+    \ pelo DEC LEI.198/2007.16.05.2007.MAI, DR.IS [94] de 16.05.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-2007-520818
+  date: '2007-05-16'
+- type: amended_by
+  target: pt:dre:456786:por
+  label: "Alterados os anexos I e III do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas,\
+    \ Componentes e Unidades Técnicas, aprovado pelo Dec Lei 72/2000 de 06-Mai, com as alterações constantes do presente diploma,\
+    \ pelo DEC LEI.135/2008.21.07.2008.MOPTC, DR.IS [139] de 21.07.2008 \08 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-2008-456786
+  date: '2008-07-21'
 - type: cites
   target: celex:31970L0156
   label: null
@@ -127,16 +164,23 @@ relationships:
   target: eli:http://data.europa.eu/eli/di
   label: null
   source: http://data.europa.eu/eli/di
+- type: repealed_by
+  target: pt:dre:611962:por
+  label: "Revogado, a partir de 17.03.2010, o Dec Lei 72/2000 de 06-Mai, que aprovou o Regulamento da Homologação CE de Modelo\
+    \ de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, alterado pelo presente diploma, pelo DEC LEI.16/2010.12.03.2010.MOPTC,\
+    \ DR.IS [50] de 12.03.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2010-611962
+  date: '2010-03-12'
 article_structure:
-  article_count: 10
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 6
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:42:13Z'
   warnings: []
   errors: []
 ---
@@ -179,13 +223,17 @@ Casos especiais
 
 No caso da homologação de um modelo de veículo, sistema, componente ou unidade técnica, no âmbito do anexo XI, ou que incorporam tecnologias ou conceitos que não podem, devido à respectiva natureza específica, satisfazer um ou mais requisitos de uma ou mais das directivas específicas, e que incluam restrições ou derrogações de algumas disposições da directiva específica relevante, a Direcção-Geral de Viação deve incluir na ficha de homologação as restrições à validade e as derrogações concedidas.
 
-###### Artigo 28.º — Conversão da homologação
+Artigo 28.º
+
+Conversão da homologação
 
 1 - ...
 
 2 - O disposto no número anterior inclui a eliminação de qualquer referência a restrições ou isenções.
 
-###### Artigo 35.º — Definições
+Artigo 35.º
+
+Definições
 
 Na presente secção e em relação ao n.º 14 do anexo I e ao n.º 56 da parte I do anexo IV do presente Regulamento, entende-se por modelo de veículo um conjunto de veículos que não diferem entre si, pelo menos, nos seguintes aspectos essenciais:
 
@@ -197,7 +245,9 @@ c) ...
 
 d) ...
 
-###### Artigo 38.º — Pedido de homologação
+Artigo 38.º
+
+Pedido de homologação
 
 1 - ...
 
@@ -205,7 +255,9 @@ d) ...
 
 3 - Devem ser apresentadas ao serviço técnico responsável pela realização dos ensaios de homologação um ou vários veículos conformes com as características descritas na parte A do anexo XVI do presente Regulamento e representativo do modelo a homologar.
 
-###### Artigo 39.º — Concessão de homologação e matrícula
+Artigo 39.º
+
+Concessão de homologação e matrícula
 
 1 - Se os requisitos relevantes forem satisfeitos, deve ser concedida a homologação CE, cujo modelo de certificado de homologação consta da parte B do anexo XVI do presente Regulamento.
 
@@ -235,15 +287,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Fevereiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.
 
-**Promulgado em 31 de Março de 2003.**
+Promulgado em 31 de Março de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Abril de 2003.**
+Referendado em 3 de Abril de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I (ver nota a) — Lista completa de informações para efeitos da homologação CE de um modelo de veículo
 
@@ -1291,7 +1343,7 @@ Máxima: ... kPa.
 
 4.6 - Relações de transmissão:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
 4.7 - Velocidade máxima do veículo (em km/h) (ver nota w): ...
 
@@ -1543,11 +1595,11 @@ O veículo está equipado com os seguintes comandos, avisadores e indicadores de
 
 Comandos, avisadores e indicadores cuja identificação, quando instalados, é obrigatória e símbolos a utilizar para esse fim
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
 Comandos, avisadores e indicadores cuja identificação, quando instalados, é facultativa e símbolos a utilizar para sua eventual identificação
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
 9.10.3 - Bancos:
 
@@ -1753,11 +1805,11 @@ Comandos, avisadores e indicadores cuja identificação, quando instalados, é f
 
 9.12.1 - Número e localização dos cintos de segurança e dos sistemas de retenção e bancos nos quais podem ser utilizados:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
 9.12.2 - Espécies e posição de sistemas de retenção adicionais (indicar: sim/não/opcional):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
 9.12.3 - Número e posição das fixações dos cintos de segurança e prova do cumprimento da Directiva n.º [76/115/CEE](https://data.europa.eu/eli/dir/1976/115/oj?locale=pt), do Conselho (JO, n.º L 24, de 30 de Janeiro de 1976, p. 6) (isto é, número de homologação CE ou relatório do ensaio): ...
 
@@ -1771,7 +1823,7 @@ Comandos, avisadores e indicadores cuja identificação, quando instalados, é f
 
 9.13.3 - Designação dos tipos (ver nota **) de cintos de segurança autorizados para as fixações com que o veículo está equipado:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
 9.13.4 - Descrição de um tipo especial de cinto de segurança se uma fixação estiver localizada no encosto do banco ou incorporar um dispositivo de dissipação de energia: ...
 
@@ -2281,13 +2333,13 @@ Terem uma distância ao solo mínima sob o eixo da retaguarda de 250 mm.
 
 4.5.1 - «Distância ao solo entre os eixos» designa a distância mais curta entre o plano de apoio e o ponto fixo mais baixo do veículo. Os trens rolantes múltiplos são considerados como sendo um único eixo.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
 4.5.2 - «Distância ao solo sob um eixo» designa a distância determinada pelo ponto mais alto de um arco de círculo que passa pelo meio da superfície de apoio das rodas de um eixo (das rodas interiores, no caso de pneumáticos duplos) e que toca o ponto fixo mais baixo do veículo entre as rodas.
 
 Nenhuma parte rígida do veículo deve penetrar no segmento tracejado do esquema. Se for caso disso, a distância ao solo de vários eixos será indicada de acordo com a posição destes, por exemplo, 280/250/250.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
 4.6 - Designação combinada - o símbolo «G» deve ser combinado com qualquer dos símbolos «M» ou «N». Por exemplo, um veículo da categoria N(índice 1) que é adequado para a utilização fora de estrada deve ser designado como N(índice 1)G.
 
@@ -2641,7 +2693,7 @@ SG - outros veículos para fins especiais (v. ponto 5.7 da parte A do anexo II).
 
 (para notas explicativas, é favor consultar o final do anexo I)
 
-# PARTE I
+## PARTE I
 
 As informações seguintes, se aplicáveis, serão fornecidas em triplicado e incluirão um índice. Se houver desenhos, serão fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, deverão ser suficientemente pormenorizadas.
 
@@ -2849,7 +2901,7 @@ Máxima: ... K.
 
 4.6 - Relações de transmissão:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
 4.7 - Velocidade máxima do veículo (em quilómetros por hora) (ver nota w): ...
 
@@ -2937,7 +2989,7 @@ Máxima: ... K.
 
 9.12.2 - Espécie e posição de sistemas de retenção adicionais (indicar: sim/não/opcional):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
 9.17 - Chapas regulamentares (Directiva n.º [76/114/CEE](https://data.europa.eu/eli/dir/1976/114/oj?locale=pt)):
 
@@ -3135,7 +3187,7 @@ B - Para a categoria O
 
 11.5 - Número(s) de homologação CE: ...
 
-# PARTE II
+## PARTE II
 
 Tabela que indica as combinações que são admissíveis em versões de veículos dos elementos da parte I, em relação aos quais há entradas múltiplas.
 
@@ -3153,11 +3205,11 @@ Cada variante e cada versão devem ser identificadas por um código numérico ou
 
 No caso de uma variante ou variantes, nos termos do anexo XI ou do n.º 2, alínea c), do artigo 8.º, o fabricante deve atribuir um código especial.
 
-# PARTE III — Números de homologação CE decorrentes de directivas específicas
+## PARTE III — Números de homologação CE decorrentes de directivas específicas
 
 Fornecer as informações requeridas no quadro seguinte relativo aos elementos aplicáveis (ver nota ***) ao veículo, mencionados nos anexos IV ou XI. (Devem ser incluídas todas as homologações pertinentes para cada elemento.)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
 Assinatura: ...
 
@@ -3167,13 +3219,13 @@ Data: ...
 
 ## ANEXO IV — Lista de requisitos para efeitos de homologação CE de um modelo de veículo
 
-# PARTE I — Lista de directivas específicas
+## PARTE I — Lista de directivas específicas
 
 (eventualmente tendo em conta o âmbito e a última alteração de cada directiva específica enumerada a seguir)
 
 [(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
-# PARTE II
+## PARTE II
 
 Quando for feita referência a uma directiva específica, uma homologação nos termos dos regulamentos da Comissão Económica para a Europa das Nações Unidas (UNECE) seguintes [tendo em conta o seu âmbito (ver nota 1) e a alteração de cada um dos regulamentos da UNECE a seguir enumerados] será reconhecida como alternativa a uma homologação CE concedida nos termos da directiva específica indicada no quadro da parte I.
 
@@ -3181,7 +3233,7 @@ Estes regulamentos correspondem aos regulamentos a que a Comissão aderiu enquan
 
 Qualquer outra alteração dos regulamentos UNECE em seguida listados deve também ser considerada equivalente, ao abrigo da decisão da Comissão, prevista nos termos do n.º 2 do artigo 4.º da Decisão n.º [97/836/CE](https://data.europa.eu/eli/dec/1997/836/oj?locale=pt) (ver nota ++).
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
 (nota 1) Sempre que as directivas específicas contenham disposições de instalação, estas aplicam-se igualmente aos componentes e unidades técnicas homologados em conformidade com os regulamentos da Comissão Económica das Nações Unidas para a Europa.
 
@@ -3203,7 +3255,7 @@ e) Efectuar, ou mandar efectuar, as verificações necessárias em relação à 
 
 2 - O número de veículos a inspeccionar para efeitos do disposto na alínea c) do n.º 1 deve ser suficiente para permitir o controlo correcto das várias combinações a homologar de acordo com os seguintes critérios:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
 3 - No caso de não estarem disponíveis certificados de homologação para qualquer das directivas específicas aplicáveis, a entidade que concede a homologação CE tem de:
 
@@ -3355,19 +3407,19 @@ Variante(s) completa(s)/completada(s): ...
 
 Lista de requisitos aplicáveis ao modelo ou variante de veículo incompleto homologado (conforme adequado, tendo em conta o âmbito e a última alteração de cada uma das directivas específicas enumeradas a seguir):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
 (Enumerar apenas os assuntos em relação aos quais existe uma homologação CE nos termos de uma directiva específica.)
 
 No caso de veículos para fins especiais, derrogações concedidas ou disposições especiais aplicadas nos termos do anexo XI e derrogações concedidas nos termos do n.º 2, alínea c), do artigo 8.º:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
 ## ANEXO VII — Sistema de numeração dos certificados de homologação CE (ver nota 1)
 
 1 - O número de homologação CE deve consistir de quatro secções para as homologações de veículos no seu todo e cinco secções para as homologações de sistemas, componentes e unidades técnicas, conforme especificado a seguir. Em todos os casos, as secções devem ser separadas pelo carácter «*».
 
-#### Secção 1: a letra minúscula «e» seguida das letras ou números distintivos do Estado membro que emite a homologação CE:
+Secção 1: a letra minúscula «e» seguida das letras ou números distintivos do Estado membro que emite a homologação CE:
 
 1 para a Alemanha;
 
@@ -3399,9 +3451,9 @@ No caso de veículos para fins especiais, derrogações concedidas ou disposiç�
 
 24 para a Irlanda.
 
-#### Secção 2: o número da directiva de base.
+Secção 2: o número da directiva de base.
 
-#### Secção 3: o número da última directiva de alteração aplicável à homologação CE.
+Secção 3: o número da última directiva de alteração aplicável à homologação CE.
 
 No caso de homologações de modelos de veículos completos, tal significa a última directiva que altera um artigo (ou artigos) da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt).
 
@@ -3409,9 +3461,9 @@ No caso de homologações nos termos de directivas específicas, refere-se à ú
 
 No caso de uma directiva comportar datas de entrada em vigor diferentes que remetem para normas técnicas diferentes, deve acrescentar-se um carácter alfabético para especificar qual a norma nos termos da qual a homologação foi concedida.
 
-#### Secção 4: um número sequencial de quatro algarismos (eventualmente com zeros iniciais), para a homologação CE de modelos de veículos completos, ou de quatro ou cinco algarismos, para a homologação CE de modelos de veículos nos termos de uma directiva específica, a identificar o número de homologação de base. A sequência deve começar em 0001 para cada directiva de base.
+Secção 4: um número sequencial de quatro algarismos (eventualmente com zeros iniciais), para a homologação CE de modelos de veículos completos, ou de quatro ou cinco algarismos, para a homologação CE de modelos de veículos nos termos de uma directiva específica, a identificar o número de homologação de base. A sequência deve começar em 0001 para cada directiva de base.
 
-#### Secção 5: um número sequencial de dois algarismos (eventualmente com um zero inicial) a identificar a extensão. A sequência deve começar em 00 para cada número de homologação de base.
+Secção 5: um número sequencial de dois algarismos (eventualmente com um zero inicial) a identificar a extensão. A sequência deve começar em 00 para cada número de homologação de base.
 
 2 - No caso da homologação CE de um veículo no seu todo, a secção 2 deve ser omitida.
 
@@ -3613,7 +3665,7 @@ Consumo de combustível (combinado) (l/100 km)(ver nota *) ...
 
 ## ANEXO IX — Certificado CE de conformidade para veículos completos/completados (ver nota 1)
 
-# PARTE I — [formato máximo: A4 (210 mm x 297 mm), ou um dossier de formato A4]
+## PARTE I — [formato máximo: A4 (210 mm x 297 mm), ou um dossier de formato A4]
 
 Lado 1
 
@@ -3783,7 +3835,7 @@ CO: ... NO(índice x): ... NMHC: ... THC: ... CH(índice 4): ... Partículas: ..
 
 Número da directiva de base e última directiva de alteração aplicável à homologação CE: ...
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
 47 - Potência fiscal ou número(s) de código nacional(is), se aplicável:
 
@@ -4111,7 +4163,7 @@ Itália: ...; França: ...; Espanha: ...; Bélgica: ...; Alemanha: ...; Luxembur
 
 (nota 3) Repetir para a gasolina e o combustível gasoso, no caso de um veículo que utilize ambos os tipos de combustível. Os veículos que possam ser alimentados tanto a gasolina como a um combustível gasoso, mas em que o sistema de gasolina se destine unicamente a situações de emergência ou ao arranque e em que o reservatório de gasolina tenha uma capacidade máxima de 15 l, serão considerados, para efeitos de ensaio, como veículos alimentados exclusivamente a combustível gasoso.
 
-# PARTE II — Certificado CE de conformidade relativo a veículos incompletos
+## PARTE II — Certificado CE de conformidade relativo a veículos incompletos
 
 [formato máximo: A4 (210 mm x 297 mm), ou um dossier de formato A4]
 
@@ -4693,31 +4745,31 @@ As entidades responsáveis pela homologação CE dos Estados membros devem infor
 
 ## ANEXO XI — Natureza dos veículos para fins especiais e disposições aplicáveis
 
-## APÊNDICE 1
+APÊNDICE 1
 
 Autocaravanas, ambulâncias e carros funerários
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Veículos blindados
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Outros veículos para fins específicos (incluindo caravanas)
 
 A aplicação das isenções só é autorizada se o fabricante conseguir demonstrar, a contento da entidade de homologação, que o veículo não pode cumprir os requisitos devido ao fim específico a que se destina.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
-## APÊNDICE 4
+APÊNDICE 4
 
 Gruas móveis
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
 ## ANEXO XII — Limites das pequenas séries e dos fins de série
 
@@ -4727,7 +4779,7 @@ A - Limites das pequenas séries
 
 O número de unidades de uma família de modelos, conforme definida a seguir, a matricular, vender ou colocar em serviço anualmente não deve exceder o valor indicado a seguir, relativo à categoria de veículos em questão:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
 Uma «família de modelos» é constituída por veículos homologados que não diferem entre si em relação aos seguintes aspectos essenciais:
 
@@ -4889,7 +4941,7 @@ No caso de um semi-reboque ou reboque de eixo central, massa máxima admissível
 
 Excepto se acima foram previstas disposições em contrário, o prato deve cumprir os requisitos da Directiva n.º [76/114/CEE](https://data.europa.eu/eli/dir/1976/114/oj?locale=pt).
 
-## APÊNDICE
+APÊNDICE
 
 Modelo da chapa adicional do fabricante
 
@@ -4935,7 +4987,7 @@ Eu, abaixo assinado, declaro que o veículo especificado a seguir foi produzido 
 
 Além disso, o abaixo assinado declara que o veículo quando entregue estava conforme com os requisitos das seguintes directivas:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00080056.pdf)
 
 A presente declaração é emitida de acordo com as disposições do anexo XI do presente Regulamento.
 
@@ -4947,7 +4999,7 @@ A presente declaração é emitida de acordo com as disposições do anexo XI do
 
 ## ANEXO XVI — (referente ao transporte rodoviário de mercadorias perigosas)
 
-# PARTE A
+## PARTE A
 
 Ficha de informações n.º ...
 
@@ -5073,7 +5125,7 @@ No caso de os sistemas, componentes ou unidades técnicas possuírem comandos el
 
 (nota 2) Riscar o que não interessa.
 
-# PARTE B — Modelo
+## PARTE B — Modelo
 
 [formato máximo: A4 (210 mm x 297 mm)]
 

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 294/1987, 2º Suplemento, Série I de 1987-12-23
   number: '294'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4392-(17) a 4392-(21)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/29402/00170021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/64-1987-305450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 747da2bd99a7cd894031caed93400625e29666deab83f2995346056cea4b0b93
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c620e8504607cb185f01ecc1ba6d8f33da9888bd8c3cf179a04412a45d526b94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Procuradoria Geral da República
 relationships:
 - type: amended_by
   target: pt:dre:434000:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:222422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:434000:por
+  label: "Revogado pelo DEC LEI.333/99.1999.08.20.MJ DR.IS-A [194]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/333-1999-434000
+  date: '1999-08-20'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:31Z'
   warnings: []
   errors: []
 ---
@@ -398,19 +413,19 @@ b) Para categoria correspondente às funções desempenhadas, remunerada pela me
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - José Manuel Durão Barroso.
 
-**Promulgado em 13 de Dezembro de 1987.**
+Promulgado em 13 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Dezembro de 1987.**
+Referendado em 16 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Tabela a que se refere o n.º 2 do artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/29402/00170021.pdf))](https://files.diariodarepublica.pt/1s/1987/12/29402/00170021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/29402/00170021.pdf)
 
 Conteúdo funcional dos técnicos auxiliares
 
@@ -428,4 +443,4 @@ e) Tradução de manuais técnicos e tratamento de texto no âmbito da informát
 
 f) Desenvolvimento de actividades no âmbito de relações públicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/29402/00170021.pdf))](https://files.diariodarepublica.pt/1s/1987/12/29402/00170021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/29402/00170021.pdf)

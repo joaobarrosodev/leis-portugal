@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/26712675.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/136/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2007-520984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:56:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93b5ae6453b7b9560ec76b95c53ad46767513b67d7a6a8ab3bdc68033b5935ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04b98ae4890b473f6445758b2f4baff1d4389d5a071385e8f0cfc60f77cac4bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Orgânica
 - Instituto da Conservação da Natureza e da Biodiversidade
+- Orgânica
+- Pessoal Dirigente
 - Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:178537:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extinto, sendo objecto de fusão, o Instituto da Conservação da Natureza e da Biodiversidade, I.P. (criado no âmbito\
+    \ do Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional pelo Dec Lei 207/2006 de 27-Out,\
+    \ já revogado), cujas atribuições e competências constam do presente diploma, pelo DEC LEI.7/2012.17.01.2012.MAMAOT, DR.IS\
+    \ [12] de 17.01.2012, nos termos do disposto no nº 3 do seu art. 34º; sendo as suas atribuições integradas no Instituto\
+    \ da Conservação da Natureza e das Florestas, I.P, criado naquele diploma. \0. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117/
   label: null
@@ -114,16 +123,69 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:209591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:454502:por
+  label: Revogado, a partir de 29.07.2008, o Dec Lei 19/93, de 23-Jan, na redacção do presente diploma, pelo DEC LEI.142/2008.24.07.2008.MAOTDR,
+    DR.IS [142] de 24.07.2008
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2008-454502
+  date: '2008-07-24'
+- type: repealed_by
+  target: pt:dre:178537:por
+  label: "Revogado, a partir de 01.07.2012, e determinado que o Instituto da Conservação da Natureza e Florestas, I. P. suceda\
+    \ nas atribuições do Instituto da Conservação da Natureza e da Biodiversidade, I. P. , pelo DEC LEI.135/2012.29.06.2012.MAMAOT,\
+    \ DR.IS [125] de 29.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-2012-178537
+  date: '2012-06-29'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:56:29Z'
   warnings: []
   errors: []
 ---
@@ -386,12 +448,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia.
 
-**Promulgado em 14 de Abril de 2007.**
+Promulgado em 14 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 17 de Abril de 2007.**
+Referendado em 17 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

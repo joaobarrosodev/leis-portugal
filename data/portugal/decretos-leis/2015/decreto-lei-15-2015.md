@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/01/02100/0062800631.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/15/2015/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2015-66379753
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd2d01a38c714d1c15aa9b096884c1542f51edaffc8985a48a1e450116ed6f70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8ce85e17de58aa9c3ee45c59f6578d4af55e72487ae90311cd12b97e672c5d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distribuição de Energia Elétrica
-- Gás Natural
-- Energia Elétrica
+- Comércio
 - Contrato de Prestação de Serviços
+- Distribuição de Energia Elétrica
 - Distribuição de Gás
+- Energia Elétrica
+- Gás Natural
 - Informação do Consumidor
 - Preço
 - Sistema Elétrico Nacional
 - Sistema Nacional de Gás Natural
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:66868374:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66868374:por
+  label: Fixada em 31.12.2017 a data de extinção das tarifas transitórias para fornecimentos de gás prevista no n.º 1 do art.
+    4.º do Dec Lei 74/2012, de 26-mar, na redação do presente diploma pelo(a) Portaria n.º 97/2015 - Diário da República n.º
+    62/2015, Série I de 2015-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/97-2015-66868374
+  date: '2015-03-30'
 - type: cites
   target: celex:32003L0055
   label: null
@@ -123,16 +130,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/2013/01/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/2013/01/28/p/dre
+- type: cites
+  target: pt:dre:190603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670022:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:15Z'
   warnings: []
   errors: []
 ---
@@ -203,7 +246,9 @@ Os artigos 4.º e 6.º do [Decreto-Lei n.º 74/2012](https://diariodarepublica.p
 
 8 - Às tarifas aplicáveis pelos comercializadores de último recurso aos clientes finais economicamente vulneráveis não é adicionado o montante resultante da aplicação do fator de agravamento referido no n.º 2.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -241,7 +286,9 @@ Os artigos 4.º e 6.º do [Decreto-Lei n.º 75/2012](https://diariodarepublica.p
 
 8 - Às tarifas aplicáveis pelos comercializadores de último recurso aos clientes finais economicamente vulneráveis não é adicionado o montante resultante da aplicação do fator de agravamento referido no n.º 2.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -355,12 +402,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e r
 
 Visto e aprovado em Conselho de Ministros de 18 de dezembro de 2014. - Maria Luís Casanova Morgado Dias de Albuquerque - Maria Luís Casanova Morgado Dias de Albuquerque - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 22 de janeiro de 2015.**
+Promulgado em 22 de janeiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de janeiro de 2015.**
+Referendado em 26 de janeiro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

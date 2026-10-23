@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/092a00/22222228.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/76/1995/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1995-224070
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bc30d14b2b16fbc978b6e962479741be1d95e7ccb1ca5289e96c9a786fd106f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fdfeaf30620756531af25ac3af41d8f5527ddfba23fca9f80a3d75edbd8dbf2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,33 @@ reuse:
 subjects:
 - Admissão de Pessoal
 - Aposentação Bonificada
-- Eleição
+- Caixa Geral de Aposentações
 - Casa do Douro
-- Pessoal Dirigente
-- Comissão Interprofissional da Região Demarcada do Douro
-- Vinho
 - Comissão de Fiscalização
+- Comissão Interprofissional da Região Demarcada do Douro
 - Conselho Regional de Vitivinicultores
 - Controlo de Qualidade
+- Eleição
 - Estatuto
-- Caixa Geral de Aposentações
-- Reforma Antecipada
 - PESO da Régua
+- Pessoal Dirigente
+- Reforma Antecipada
 - Região Demarcada do Douro
 - Regime de Pessoal
 - Regulamento Eleitoral
 - Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:468403:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553668:por
+  label: "Mantido em vigor o art 28º pelo Dec-Lei.224-A/96. 1996.11.26.MJ - Aprova o Código das Custas Judiciais - , DR.IS-A\
+    \ [274]2ºSupl\0A [274]2ºSupl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-a-1996-553668
+  date: '1996-11-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/74/1995/04/19/p/dre
   label: null
@@ -96,16 +102,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/39/1994/12/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/39/1994/12/21/p/dre
+- type: cites
+  target: pt:dre:151875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596973:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468403:por
+  label: "Revogado pelo DEC LEI.277/2003.06.11.2003.MADRP, DR.IS-A [257] de 06.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/277-2003-468403
+  date: '2003-11-06'
 article_structure:
-  article_count: 47
+  article_count: 46
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:32Z'
   warnings: []
   errors: []
 ---
@@ -136,15 +183,15 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 1.º da [Lei n.º 39/94](https://diariodarepublica.pt/dr/detalhe/lei/39-1994-571601), de 21 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São aprovados os Estatutos e o Regulamento Eleitoral da Casa do Douro, anexos ao presente diploma e que dele fazem parte integrante.
+Artigo 1.º São aprovados os Estatutos e o Regulamento Eleitoral da Casa do Douro, anexos ao presente diploma e que dele fazem parte integrante.
 
-###### Art. 2.º Os actuais titulares dos órgãos da Casa do Douro manter-se-ão em exercício durante o período máximo de 90 dias, contados a partir da data da publicação do presente diploma, devendo nesse período realizar-se a eleição dos novos órgãos da Casa do Douro, de acordo com as regras estabelecidas nos Estatutos e no Regulamento Eleitoral agora aprovados.
+Art. 2.º Os actuais titulares dos órgãos da Casa do Douro manter-se-ão em exercício durante o período máximo de 90 dias, contados a partir da data da publicação do presente diploma, devendo nesse período realizar-se a eleição dos novos órgãos da Casa do Douro, de acordo com as regras estabelecidas nos Estatutos e no Regulamento Eleitoral agora aprovados.
 
-###### Art. 3.º - 1 - No prazo máximo de 30 dias a contar da data da eleição do conselho regional de vitivinicultores reunirá este órgão para eleger os representantes da Casa do Douro no conselho geral da Comissão Interprofissional da Região Demarcada do Douro (CIRDD), de acordo com as regras estabelecidas no Estatuto deste organismo.
+Art. 3.º - 1 - No prazo máximo de 30 dias a contar da data da eleição do conselho regional de vitivinicultores reunirá este órgão para eleger os representantes da Casa do Douro no conselho geral da Comissão Interprofissional da Região Demarcada do Douro (CIRDD), de acordo com as regras estabelecidas no Estatuto deste organismo.
 
 2 - No prazo previsto no número anterior, devem as adegas cooperativas e associações de produtores ou de produtores-engarrafadores indicar à Casa do Douro os seus representantes no conselho geral da CIRDD.
 
-###### Art. 4.º - 1 - Os funcionários do actual quadro da Casa do Douro podem, nos 60 dias a contar da data da entrada em vigor do presente diploma, ser admitidos no novo quadro de pessoal desta entidade, com sujeição ao regime do contrato individual de trabalho, de acordo com as necessidades desta e tendo em conta, nomeadamente, os conhecimentos, a capacidade, a experiência e as qualificações profissionais demonstrados no exercício das respectivas funções e considerados adequados à exigência dos postos de trabalho a preencher.
+Art. 4.º - 1 - Os funcionários do actual quadro da Casa do Douro podem, nos 60 dias a contar da data da entrada em vigor do presente diploma, ser admitidos no novo quadro de pessoal desta entidade, com sujeição ao regime do contrato individual de trabalho, de acordo com as necessidades desta e tendo em conta, nomeadamente, os conhecimentos, a capacidade, a experiência e as qualificações profissionais demonstrados no exercício das respectivas funções e considerados adequados à exigência dos postos de trabalho a preencher.
 
 2 - A admissão prevista no número anterior depende da prévia anuência dos funcionários, formalizada através de documento escrito, e deve ser precedida da cessação do vínculo à função pública.
 
@@ -156,7 +203,7 @@ No uso da autorização legislativa concedida pelo artigo 1.º da [Lei n.º 39/9
 
 6 - A Caixa Geral de Aposentações passará a suportar os encargos com as pensões que, nos termos do [Decreto-Lei n.º 141/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1979-382661), de 22 de Maio, são da responsabilidade da Casa do Douro relativamente a pessoal ao seu serviço, incluindo o aposentado nos termos do artigo 5.º
 
-###### Art. 5.º - 1 - Os funcionários da Casa do Douro podem requerer a aposentação, sem necessidade de submissão a junta médica, desde que satisfaçam uma das seguintes condições:
+Art. 5.º - 1 - Os funcionários da Casa do Douro podem requerer a aposentação, sem necessidade de submissão a junta médica, desde que satisfaçam uma das seguintes condições:
 
 a) Possuam 25 anos de serviço, independentemente da idade;
 
@@ -168,9 +215,9 @@ b) Possuam 50 ou mais anos de idade e pelo menos 10 anos de serviço;
 
 4 - A pensão de aposentação, calculada nos termos da legislação em vigor, beneficiará de uma bonificação de 20%, não podendo em caso algum ser superior à correspondente a 36 anos de serviço.
 
-###### Art. 6.º O pessoal com relação jurídica de emprego público pode ser autorizado a exercer funções na Casa do Douro em regime de requisição, nos termos da lei geral.
+Art. 6.º O pessoal com relação jurídica de emprego público pode ser autorizado a exercer funções na Casa do Douro em regime de requisição, nos termos da lei geral.
 
-###### Art. 7.º - 1 - A título transitório, e no que respeita aos vinhos com denominação de origem «Porto», continua a Casa do Douro a prosseguir as atribuições que lhe foram cometidas no artigo 3.º do Estatuto anexo ao [Decreto-Lei n.º 288/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1989-546994), de 1 de Setembro, nomeadamente as relativas à manutenção e actualização do cadastro da Casa do Douro, até ao início do mandato do conselho geral da CIRDD, criado pelo [Decreto-Lei n.º 74/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1995-224175), de 19 de Abril, o que deverá suceder no prazo máximo de 18 meses a contar da data da publicação do presente diploma, sendo durante esse período receita da Casa do Douro a quota-parte que lhe couber das taxas legalmente estabelecidas, bem como outras importâncias cobradas pelos serviços prestados.
+Art. 7.º - 1 - A título transitório, e no que respeita aos vinhos com denominação de origem «Porto», continua a Casa do Douro a prosseguir as atribuições que lhe foram cometidas no artigo 3.º do Estatuto anexo ao [Decreto-Lei n.º 288/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1989-546994), de 1 de Setembro, nomeadamente as relativas à manutenção e actualização do cadastro da Casa do Douro, até ao início do mandato do conselho geral da CIRDD, criado pelo [Decreto-Lei n.º 74/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1995-224175), de 19 de Abril, o que deverá suceder no prazo máximo de 18 meses a contar da data da publicação do presente diploma, sendo durante esse período receita da Casa do Douro a quota-parte que lhe couber das taxas legalmente estabelecidas, bem como outras importâncias cobradas pelos serviços prestados.
 
 2 - Posteriormente à eleição do conselho geral da CIRDD, e no caso de este organismo não poder desempenhar todas ou algumas das suas atribuições e competências, deverá a Casa do Douro continuar a executar os actos inerentes às mesmas, pelo prazo máximo de 18 meses, através da celebração de protocolos com a CIRDD, ainda que a competência deliberativa seja exercida pelo conselho geral da CIRDD.
 
@@ -180,15 +227,15 @@ b) Possuam 50 ou mais anos de idade e pelo menos 10 anos de serviço;
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - António Duarte Silva.
 
-**Promulgado em 14 de Março de 1995.**
+Promulgado em 14 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Março de 1995.**
+Referendado em 16 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatutos da Casa do Douro
 

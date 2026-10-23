@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/05/122a00/12701282.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/62/1996/05/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1996-445559
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 619e5bd531844940d2cc63816c5da8eb642df926cfa93671fd0f5dd60d6498c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14706ea7e31da810b483e2de79650b85d7bfbcc23c85ac099fc55a7d8cd14205
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,28 +69,36 @@ subjects:
 - Aproximação das Legislações
 - Armazenagem
 - Carne
-- Produto Cárneo
 - Certificado de Origem
-- Multa
+- Certificado de Qualidade
+- Comércio
 - Contra-ordenação
-- Direcção Regional de Agricultura
 - Controlo Sanitário
+- Direcção Regional de Agricultura
+- Embalagem
 - Etiquetagem
 - Higiene Alimentar
+- Indústria Alimentar
 - Instituto de Protecção da Produção Agro-Alimentar
-- Certificado de Qualidade
-- Embalagem
-- Transporte de Mercadorias
+- Multa
+- Produto Cárneo
 - Proteção do Consumidor
 - Regulamento
-- Indústria Alimentar
-- Comércio
+- Transporte de Mercadorias
 - Troca Intracomunitária
 relationships:
 - type: amended_by
   target: pt:dre:346359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:655687:por
+  label: "Alterados o n.º 3 do art. 1.º, a al. b), d) e g) do n.º 2 do art. 2.º, o n.º 1 do art. 2.º, a al. h) do n.º 1 do\
+    \ art. 3.º, a al. a) do n.º 1 e n.º 5 do art. 5.º, a al. c) do n.º 1 do art. 6.º, o n.º 1 do art. 7.º, os n.ºs 1, 2, 4,\
+    \ 5, 6, 11 e 14 do art. 8.º, o art. 10.º, a al. a) do n.º 3 e a al. b) do n.º 4, e revogados os arts. 3.º, 4.º, 5.º, n.º\
+    \ 3 do art. 6.º, art. 7.º, art. 8.º e art. 9.º, pelo DEC LEI.556/99.1999.12.16.MADRP DR.IS-A [291]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/556-1999-655687
+  date: '1999-12-16'
 - type: cites
   target: celex:31964L0433
   label: null
@@ -127,16 +135,22 @@ relationships:
   target: celex:31995D0001
   label: null
   source: http://data.europa.eu/eli/dec/1995/1/oj
+- type: repealed_by
+  target: pt:dre:346359:por
+  label: "Revogado o presente diploma, na redacção do Dec Lei 556/99, de 16-Dez, pelo DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A\
+    \ [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 article_structure:
   article_count: 25
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:43Z'
   warnings: []
   errors: []
 ---
@@ -237,15 +251,15 @@ São revogados o Decreto-Lei n.º 245/93, de 8 de Julho, e a Portaria n.º 1048/
 
 Visto e aprovado em Conselho de Ministros de 4 de Abril de 1996. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Promulgado em 10 de Maio de 1996.**
+Promulgado em 10 de Maio de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Maio de 1996.**
+Referendado em 13 de Maio de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO A — Regulamento da Produção de Carnes Picadas e de Preparados de Carne e da Sua Colocação no Mercado
 
@@ -613,7 +627,9 @@ c) As importações deverão efectuar-se nas condições previstas no artigo 11.
 
 2 - As importações deverão efectuar-se nos termos do disposto no n.º 2 do artigo 11.º do regulamento aprovado pela Portaria n.º 774/93.
 
-## ANEXO B — CAPÍTULO I
+## ANEXO B
+
+### CAPÍTULO I
 
 Condições especiais de aprovação dos estabelecimentos de produção de carnes picadas
 
@@ -787,11 +803,11 @@ Devem ser suficientemente sólidas para assegurar uma protecção eficaz das car
 
 I - Critérios de composição controlados com base numa média diária:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/05/122a00/12701282.pdf))](https://files.diariodarepublica.pt/1s/1996/05/122a00/12701282.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/05/122a00/12701282.pdf)
 
 II - Critérios microbiológicos. - Os estabelecimentos de fabrico ou unidades de produção autónoma devem certificar-se de que, durante os controlos referidos no n.º 3 do artigo 7.º do anexo A e segundo os métodos de avaliação a seguir enumerados, as carnes picadas correspondem aos seguintes critérios:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/05/122a00/12701282.pdf))](https://files.diariodarepublica.pt/1s/1996/05/122a00/12701282.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/05/122a00/12701282.pdf)
 
 A avaliação dos resultados das análises microbiológicas deve ser feita do seguinte modo:
 
@@ -903,7 +919,7 @@ Feito em ... (local), em ... (data).
 
 Os estabelecimentos de fabrico ou unidades de produção autónomas devem assegurar que, durante os controlos previstos no n.º 3 do artigo 7.º e segundo os métodos de avaliação especificados no anexo C, os preparados de carne satisfazem os seguintes critérios:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/05/122a00/12701282.pdf))](https://files.diariodarepublica.pt/1s/1996/05/122a00/12701282.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/05/122a00/12701282.pdf)
 
 ## ANEXO F — Certificado de salubridade para preparados de carne (ver nota 1)
 

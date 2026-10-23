@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/154-1982-394285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T07:16:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d4733e54c2cfe872d5dc6a020de4a7e93a0c9b6c6a8e823a0da1f47a98f8198
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 817a2ae6fbb5e9d10c86211c77fce36e530eecd77215c7c47fa5730bb05eaa24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:16:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Função Pública
+- Quota de Descongelamento
 relationships:
 - type: amended_by
   target: pt:dre:396342:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:392862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:397372:por
+  label: Rectificado pela DECL.DD4086.1982.08.04.PCM, DR.IS [191] de 19/Ago/1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-397372
+  date: '1982-08-04'
+- type: repealed_by
+  target: pt:dre:367855:por
+  label: "Revogado o nº 3, pelo DEC LEI.41/84.1984.02.03.PCM, DR.IS [29]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-1984-367855
+  date: '1984-02-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:16:50Z'
   warnings: []
   errors: []
 ---

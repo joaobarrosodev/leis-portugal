@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/214-1971-444742
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08466102122197602064959da521e13639e7a545b5c27d2c38224180aa0c919d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b5333f2c4e0c2eb5defadd2019a0cbf2ec562e7626903412a8c71d6625e261f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:146680:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:41Z'
   warnings: []
   errors: []
 ---
@@ -93,4 +97,4 @@ Manda o Governo da República Portuguesa, pelo Ministro do Exército, aditar o n
 
 5.º-A (transitório). Os segundos-sargentos do quadro permanente, corneteiros, clarins e músicos, aprovados em concursos terminados até 31 de Dezembro de 1969 e que não tenham ainda quatro anos de posto em 1 de Janeiro de 1970, só poderão ser promovidos a primeiro-sargento quando perfizerem os quatro anos de posto, sendo depois colocados à direita de todos os sargentos promovidos sem terem sido aprovados em concurso.
 
-**O Ministro do Exército, Horácio José de Sá Viana Rebelo.**
+O Ministro do Exército, Horácio José de Sá Viana Rebelo.

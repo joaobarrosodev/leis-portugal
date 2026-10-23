@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/160a00/31273140.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/129/2000/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2000-319933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:17:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d560d82e4f120b454f542d184bcff67da27704f9ad450fb553552cdab18fda9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6ce602656100a94d66ddc97c1d9f533aeffd8c354e381bc3f56f7412d297628
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,6 +66,7 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Auditoria Ambiental
+- Auditoria Jurídica
 - Autoridade de Segurança da Ponte 25 de Abril
 - Comissão de Planeamento das Comunicações de Emergência
 - Comissão de Planeamento do Transporte Aéreo de Emergência
@@ -76,44 +77,82 @@ subjects:
 - Comissão Permanente para o Desenvolvimento da Logística e do Transporte Combinado
 - Conselho Superior de Obras Públicas e Transportes
 - Definição de Competências
-- Instituto Nacional de Aviação Civil
 - Direcção Geral dos Edifícios e Monumentos Nacionais
 - Direcção Geral dos Transportes Terrestres
 - Escola Náutica Infante Dom Henrique
 - Extinção de Serviços
-- Secretaria Geral
 - Gabinete da Travessia do TEJO em Lisboa
 - Gabinete de Coordenação dos Investimentos
-- Ministério das Obras Públicas Transportes e Comunicações
+- Gabinete de Estudos e Planeamento
+- Gabinete de Prevenção e Investigação de Acidentes com Aeronaves
 - Gabinete para os Assuntos Europeus e Relações Externas
-- Instituto das Comunicações de Portugal
-- Instituto para a Construção Rodoviária
-- Instituto de Gestão e Alienação do Património Habitacional do Estado
-- Instituto Marítimo-portuário
-- Instituto Nacional de Habitação
-- Inspecção Geral de Obras Públicas Transportes e Comunicações
 - Imoppi
+- Inspecção Geral de Obras Públicas Transportes e Comunicações
+- Instituto das Comunicações de Portugal
+- Instituto das Estradas de Portugal
+- Instituto de Gestão e Alienação do Património Habitacional do Estado
+- Instituto de Navegabilidade do Douro
+- Instituto Marítimo-portuário
+- Instituto Nacional de Aviação Civil
+- Instituto Nacional de Habitação
 - Instituto Nacional do Transporte Ferroviário
 - Instituto para a Conservação e Exploração da REDE Rodoviária
-- Instituto Portuário do Norte
-- Instituto de Navegabilidade do Douro
+- Instituto para a Construção Rodoviária
 - Instituto Portuário do Centro
+- Instituto Portuário do Norte
 - Instituto Portuário do SUL
 - Integração de Trabalhadores
-- Instituto das Estradas de Portugal
 - Laboratório Nacional de Engenharia Civil
-- Gabinete de Estudos e Planeamento
-- Auditoria Jurídica
-- Gabinete de Prevenção e Investigação de Acidentes com Aeronaves
+- Ministério das Obras Públicas Transportes e Comunicações
 - Ministério do Equipamento Social
-- OSMOP
 - Orgânica
+- OSMOP
 - Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:589697:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:344924:por
+  label: "Aditado o art. 38.º-A pelo DEC LEI.9/2001.2001.01.23.MES DR.IS-A [19]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2001-344924
+  date: '2001-01-23'
+- type: amended_by
+  target: pt:dre:385027:por
+  label: "Alterado o art. 43º e aditado o art. 43º-A pelo DEC LEI.71/2001.2001.02.26.MES DR.IS-A [48]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-2001-385027
+  date: '2001-02-26'
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Alterada a orgânica pelo Dec Lei 120/2002 de 03-Mai, DR.IS-A [102], nos termos dos seus arts 17º e 24º, e determinada\
+    \ a transição para o Ministério da Economia dos serviços e organismos com atribuições e competências no domínio das telecomunicações\
+    \ compreendidos no agora extinto Ministério do Equipamento Social\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
+- type: amended_by
+  target: pt:dre:448754:por
+  label: "Fundido com o Gabinete de Assuntos Europeus e Relações Externas do MEPAT o Gabinete de Assuntos Europeus e Relações\
+    \ Externas do MES, criado pelo presente diploma, pelo DEC LEI.256/2002.2002.11.22.MOPTH DR.IS-A [270]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/256-2002-448754
+  date: '2002-11-22'
+- type: amended_by
+  target: pt:dre:466831:por
+  label: "Determinada a transferência para as AMT das atribuições e competências conferidas pelo presente diploma e respectiva\
+    \ legislação complementar pelo DEC LEI.268/2003.28.10.2003.MOPTH, DR.IS-A [250] de 28.10.2003, nos termos do seu art.\
+    \ 14.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-2003-466831
+  date: '2003-10-28'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Alterada a orgânica pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004, nos termos dos seus\
+    \ arts 8º, 17º e 23º, e determinada a transição para o Ministério das Obras Públicas, Transportes e Comunicações dos serviços\
+    \ e organismos compreendidos no agora extinto Ministério, cuja orgânica foi aprovada pelo presente diploma, com excepção\
+    \ dos que transitam para a Presidência do Conselho de Ministros e Ministério das Cidades, Administração Local, Habitação\
+    \ e Desenvolvimento Regional \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1996/03/20/p/dre
   label: null
@@ -134,16 +173,73 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/13/1993/05/05/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/13/1993/05/05/p/dre
+- type: cites
+  target: pt:dre:221096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692200:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:589697:por
+  label: "Revogado pelo DEC LEI.58/2005.04.03.2005.MOPTC, DR.IS-A [45] de 04.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2005-589697
+  date: '2005-03-04'
 article_structure:
   article_count: 46
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:17:04Z'
   warnings: []
   errors: []
 ---
@@ -1106,15 +1202,15 @@ As referências feitas na legislação em vigor ao Ministro do Equipamento, do P
 
 Visto e aprovado em Conselho de Ministros de 20 de Abril de 2000. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jorge Paulo Sacadura Almeida Coelho - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Fernando Manuel dos Santos Gomes - Elisa Maria da Costa Guimarães Ferreira - José Sócrates Carvalho Pinto de Sousa - Alberto de Sousa Martins.
 
-**Promulgado em 21 de Junho de 2000.**
+Promulgado em 21 de Junho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Julho de 2000.**
+Referendado em 4 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Mapa a que se refere o artigo 40.º
 

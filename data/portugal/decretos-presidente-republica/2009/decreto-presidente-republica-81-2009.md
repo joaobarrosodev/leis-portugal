@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/81/2009/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/81-2009-489225
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T05:05:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02ef9d32aad3a75b60a51b8d6823f7669bfd04416017d58a7518bdf07e66a7a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a3001097c06cf4e7ce48ca1875d8f50b4f5d09af23d0cf0296bd7ba2f351137
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:05:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embaixador
 - Abuja
+- Embaixador
 - Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:671466:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:671466:por
+  label: "Exonerado pelo DEC.66/2011.11.08.2011.PR, DR.IS [154] de 11.08.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/66-2011-671466
+  date: '2011-08-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:05:47Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +97,16 @@ validation:
 
 de 7 de Setembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o ministro plenipotenciário de 2.ª classe João Maria Rebelo de Andrade Cabral para o cargo de Embaixador de Portugal em Abuja.
 
-**Assinado em 13 de Agosto de 2009.**
+Assinado em 13 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de Setembro de 2009.**
+Referendado em 1 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado.

@@ -46,40 +46,112 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/478-1976-429809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T05:05:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ea2c03fe694fd441c42658638c27d8daad64ccfed8cc27192514b853a9841a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4670b2e949a84d0c60d1d0271257872af299a43088c813bdb33fc4f66aa51451
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:05:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:573685:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:253412:por
+  label: Derrogada, relativamente à expropriação de vários prédios rústicos, pelo(a) Portaria 352/77 - Diário da República
+    n.º 134/1977, Série I de 1977-06-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/352-1977-253412
+  date: '1977-06-11'
+- type: amended_by
+  target: pt:dre:250051:por
+  label: Alterado o n.º 24 do presente diploma, pelo(a) Portaria n.º 383/77 - Diário da República n.º 145/1977, Série I de
+    1977-06-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/383-1977-250051
+  date: '1977-06-25'
+- type: amended_by
+  target: pt:dre:279809:por
+  label: Derrogada, no referente aos prédios rústicos da Fundação da Casa de Bragança, pelo(a) Portaria n.º 741/77 - Diário
+    da República n.º 283/1977, Série I de 1977-12-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/741-1977-279809
+  date: '1977-12-09'
+- type: amended_by
+  target: pt:dre:328023:por
+  label: Derrogada, no que respeita aos prédios Fuscas, Chainça e Guedelha (parte) de Francisco Paula Cardoso Pais, pelo(a)
+    Portaria n.º 624/78 - Diário da República n.º 241/1978, Série I de 1978-10-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/624-1978-328023
+  date: '1978-10-19'
+- type: amended_by
+  target: pt:dre:461865:por
+  label: "Derrogada, na parte respeitante ao prédio rústico denominado «Herdade da Contenda» pela PORT.710/80.23.09.1980.MAP,\
+    \ DR.IS [220] de 23.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/710-1980-461865
+  date: '1980-09-23'
+- type: amended_by
+  target: pt:dre:457422:por
+  label: "Derrogada, na parte que respeita ao prédio rústico Vale de Estacas pela PORT.959/80.10.11.1980.MAP, DR.IS [260]\
+    \ de 10.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/959-1980-457422
+  date: '1980-11-10'
+- type: amended_by
+  target: pt:dre:459907:por
+  label: "Derrogada, na parte que respeita ao prédio rústico denominado \"S. Bento\", pela PORT.1071/80.16.12.1980.MAP, DR.IS\
+    \ [289] de 16.12.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1071-1980-459907
+  date: '1980-12-16'
+- type: amended_by
+  target: pt:dre:387976:por
+  label: "Derrogada, relativamente ao prédio rústico denominado \" Coutada \" pela PORT.281/81.19.03.1981.MAP, DR.IS [65]\
+    \ de 19.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/281-1981-387976
+  date: '1981-03-19'
+- type: cites
+  target: pt:dre:307375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501575:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:377924:por
+  label: Rectificada pela PORT.403/79.07.08.1979.MAP, DR.IS [181] de 07.08.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/403-1979-377924
+  date: '1979-08-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:05:29Z'
   warnings: []
   errors: []
 ---

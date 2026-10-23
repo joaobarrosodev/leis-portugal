@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/59/2004/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2004-537843
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c939d33d17e0f258bbd2835905d88a66b335934e914b353ac69da5157edfb0fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00d07d7ff0a30c8b7097bbd7690868769f9373ff15984e5b07b6805d96c05559
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ subjects:
 - Acidente de Transporte
 - Código Civil
 - Indemnização
-- Veículo
 - Seguro Automóvel
 - Seguro Obrigatório de Responsabilidade Civil
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:107061862:por
@@ -83,13 +83,13 @@ relationships:
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:48Z'
   warnings: []
   errors: []
 ---
@@ -142,12 +142,12 @@ A indemnização fundada na responsabilidade a que se refere o artigo precedente
 
 Visto e aprovado em Conselho de Ministros de 18 de Fevereiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona.
 
-**Promulgado em 9 de Março de 2004.**
+Promulgado em 9 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Março de 2004.**
+Referendado em 11 de Março de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

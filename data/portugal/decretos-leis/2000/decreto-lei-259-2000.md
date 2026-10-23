@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/259/2000/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-2000-532461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:20:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89db824d6768662d200a6b1e1479da2d7f16a969a3a11eef2705a0e18ad2f0e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fab77d1e609a3ed8190d092ca11896d0b1157a6dbd8ebc6e753ba1df267c6da6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:20:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção da Maternidade
-- Mulher
-- Educação Sexual
-- Formação de Professores
-- Ensino Oficial
-- Política de Saúde
-- Jovem
-- Grupo de Risco
 - Aborto
 - Centro de Saúde
 - Contracepção
-- Planeamento Familiar
 - Doença Infecciosa
-- Política de Educação
-- Estabelecimento de Ensino
-- Reprodução Humana
+- Educação Sexual
 - Ensino Básico
+- Ensino Oficial
+- Estabelecimento de Ensino
+- Formação de Professores
+- Grupo de Risco
+- Jovem
+- Mulher
+- Planeamento Familiar
+- Política de Educação
+- Política de Saúde
+- Protecção da Maternidade
+- Reprodução Humana
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/115-a/1998/05/04/p/dre
@@ -92,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/120/1999/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/120/1999/08/11/p/dre
+- type: cites
+  target: pt:dre:155636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661903:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:20:01Z'
   warnings: []
   errors: []
 ---
@@ -210,12 +222,12 @@ Compete às administrações regionais de saúde e às unidades coordenadoras fu
 
 Visto e aprovado em Conselho de Ministros de 10 de Agosto de 2000. - António Manuel de Oliveira Guterres - Augusto Ernesto Santos Silva - Maria Manuela de Brito Arcanjo Marques da Costa - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 28 de Setembro de 2000.**
+Promulgado em 28 de Setembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Outubro de 2000.**
+Referendado em 4 de Outubro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

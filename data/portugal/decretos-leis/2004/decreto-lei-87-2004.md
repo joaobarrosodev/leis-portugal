@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/04/091a00/23482348.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/87/2004/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2004-223590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25bed5d5e673a1c6c3a3e4c0d0708435407e7b0a7e3d90baf3416eafbff20d34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3804e45340182635bb720f06ec6302fbbdbcf84f6a73d4981ae29659c3594bf3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Contribuições da Segurança Social
-- Reforma Antecipada
-- Pré-reforma
 - Madeira.região Autónoma
+- Pré-reforma
+- Reforma Antecipada
 - Regime Jurídico
 - Segurança Social
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:158316443:por
@@ -86,16 +86,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667887:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado o presente diploma, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela Lei n.º\
+    \ 119/2009, de 30 de Dezembro), bem como revogado, a partir da mesma data, o Dec Lei 261/91, de 25-Jul, na redacção do\
+    \ presente diploma, pela LEI.110/2009.16.09.2009.AR, DR.IS [180] de 16.09.2009, sem prejuízo de, até à entrada em vigor\
+    \ da regulamentação [prevista no art. 4.º] se manter transitoriamente em vigor as disposições procedimentais dos diplomas\
+    \ revogados que não contrariem o disposto no Código aprovado pela citada Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:15Z'
   warnings: []
   errors: []
 ---
@@ -122,12 +139,12 @@ São repristinados os artigos 8.º, 9.º, 12.º e 15.º do [Decreto-Lei n.º 261
 
 Visto e aprovado em Conselho de Ministros de 11 de Março de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António José de Castro Bagão Félix.
 
-**Promulgado em 5 de Abril de 2004.**
+Promulgado em 5 de Abril de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Abril de 2004.**
+Referendado em 5 de Abril de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

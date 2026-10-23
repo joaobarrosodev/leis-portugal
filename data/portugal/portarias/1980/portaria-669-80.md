@@ -46,40 +46,167 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/669-1980-460841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:26:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d50ca2520273c06e3532f38d6f7b480dcdd5f927257774440e35092b4cf519f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c97fa84977eda5ce6616f447164cd005e5c9a4ece45fc8bd7c2604aadaafc75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:26:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital de São João
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:689022:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:601132:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.35/82.13.01.1982.MFP, DR.IS [10] de 13.01.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/35-1982-601132
+  date: '1982-01-13'
+- type: amended_by
+  target: pt:dre:454073:por
+  label: "Alterado, na parte referente ao pessoal dirigente e ao pessoal técnico superior, o quadro de pessoal aprovado pelo\
+    \ presente diploma, na redacção da Port 35/82, de 13-Jan (pessoal técnico superior), pela PORT.791/83.29.07.1983.MFP,\
+    \ DR.IS [173] de 29.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/791-1983-454073
+  date: '1983-07-29'
+- type: amended_by
+  target: pt:dre:435662:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal aprovado pelo presente diploma, pela\
+    \ PORT.807-N1/83.30.07.1983.MFP, DR.IS [174-2.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-n1-1983-435662
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA 403/84, PUBLICADA NO DR.IS, 144, DE 840623.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-06-23'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA 706/85, PUBLICADA NO DR.IS, 219, DE 850923.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-09-23'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA 209/87, PUBLICADA NO DR.IS, 68, 870323.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-03-23'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA 237/87, PUBLICADA NO DR.IS, 74, DE 870330.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-03-30'
+- type: amended_by
+  target: pt:dre:421183:por
+  label: "Alterado o quadro de pessoal, pela PORT.377/87.05.05.1987.MF, DR.IS [102] de 05.05.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/377-1987-421183
+  date: '1987-05-05'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA 150/88, PUBLICADA NO DR.IS, 58, 880310.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-03-10'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA 586/88, PUBLICADA NO DR.IS, 191, DE 880819.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-08-19'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA 644/88, PUBLICADA NO DR.IS, 219, DE 880921.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-09-21'
+- type: amended_by
+  target: pt:dre:613003:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.149/89.01.03.1989.MF, DR.IS [50] de 01.03.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/149-1989-613003
+  date: '1989-03-01'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA 755/89, PUBLICADA NO DR.IS, 201, DE 890901.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-09-01'
+- type: amended_by
+  target: pt:dre:332210:por
+  label: "Alterado o quadro de pessoal, pela PORT.316/90.27.04.1990.MF, DR.IS [97] de 27.04.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/316-1990-332210
+  date: '1990-04-27'
+- type: amended_by
+  target: pt:dre:564994:por
+  label: "Alterado o quadro de pessoal pela PORT.1174/90.03.12.1990.MF, DR.IS [278] de 03.12.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1174-1990-564994
+  date: '1990-12-03'
+- type: amended_by
+  target: pt:dre:642185:por
+  label: Substituído o quadro de pessoal médico do Hospital de São João pelo(a) Portaria n.º 413/91 - Diário da República
+    n.º 112/1991, Série I-B de 1991-05-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1991-642185
+  date: '1991-05-16'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO HOSPITAL DE SAO JOÃO, PELA PORTARIA 88/93, PUBLICADA NO DR.IS-B, 20, DE 930125, NA
+    PARTE REFERENTE AS ÁREAS FUNCIONAIS DE BIBLIOTECA, ARQUIVO E DOCUMENTAÇÃO E AS CARREIRAS DE TÉCNICO SUPERIOR DE SERVIÇO
+    SOCIAL E DE TÉCNICOS SUPERIORES DE SAÚDE.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-01-25'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO HOSPITAL DE SAO JOÃO, PELA PORTARIA 607/93, PUBLICADA NO DR.IS-B, 150, DE 930629.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-06-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO HOSPITAL DE SAO JOÃO, PELA PORT 7/95, DE 05-JAN, DR.IS-B, [4]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-01-05'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL APROVADO, PELA PORT 969/95 DE 09-AGO DR.IS-B [183] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-08-09'
+- type: amended_by
+  target: pt:dre:689022:por
+  label: "Substituído o quadro de pessoal pela PORT.1356/95.16.11.1995.MF, DR.IS-B [265] de 16.11.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1356-1995-689022
+  date: '1995-11-16'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:26:13Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +227,6 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Hospital de S. João
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/21400/27312734.pdf))](https://files.diariodarepublica.pt/1s/1980/09/21400/27312734.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21400/27312734.pdf)
 
 Nota. - Ao funcionário administrativo que desempenhar as funções de tesoureiro será atribuída a remuneração mensal de 600$00 para falhas.

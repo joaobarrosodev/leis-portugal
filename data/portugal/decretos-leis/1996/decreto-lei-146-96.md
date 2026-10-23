@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/146/1996/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1996-401913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3985c2bbaf2013c9e5bd33896bcae42efbbb6e5dd5df3ef2b4115fb09190da0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09199c194dd88b92a5bedf330f4be4a456013810895e2393c7da884bb33d06de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigador
-- Investigação Científica e Tecnológica
-- Pessoal Dirigente
+- Colégio de Especialidade
 - Conselho Superior de Ciência e Tecnologia
 - Criação de Serviços
 - Definição de Competências
-- Colégio de Especialidade
+- Investigação Científica e Tecnológica
+- Investigador
 - Orgânica
+- Pessoal Dirigente
 - Política de Investigação e Desenvolvimento
 relationships: []
 article_structure:
   article_count: 16
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:12Z'
   warnings: []
   errors: []
 ---
@@ -283,12 +283,12 @@ O apoio logístico e material ao processo de constituição e ao funcionamento d
 
 Visto e aprovado em Conselho de Ministros de 29 de Maio de 1996. - António Manuel de Oliveira Guterres - Eduardo Carrega Marçal Grilo - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 8 de Agosto de 1996.**
+Promulgado em 8 de Agosto de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Agosto de 1996.**
+Referendado em 12 de Agosto de 1996.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.

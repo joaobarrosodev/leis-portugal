@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/384-1985-182206
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T08:25:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1437c18c03b0466dc8e51e69e35b43b9283c37da559c23057960002c57d79647
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0eba540372b9f84c1f22ed40fe5b0f0586643d6af4f0d3a2efe5ba7f550ea432
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:25:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Geral do Porto de Lisboa
+- Pessoal Dirigente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:180620:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:180620:por
+  label: "Alterado o quadro de pessoal aprovado pela Port 150/82, de 02-Fev, com as alterações constantes do presente diploma,\
+    \ pela PORT.577/85.10.08.1985.PCM, DR.IS [183] de 10.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/577-1985-180620
+  date: '1985-08-10'
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601079:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:25:33Z'
   warnings: []
   errors: []
 ---
@@ -100,10 +117,10 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e do Mar.
 
-**Assinada em 5 de Junho de 1985.**
+Assinada em 5 de Junho de 1985.
 
-**O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Mar, José de Almeida Serra. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.**
+O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Mar, José de Almeida Serra. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
 
 Quadro de pessoal da Administração-Geral do Porto de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14100/16631663.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14100/16631663.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14100/16631663.pdf)

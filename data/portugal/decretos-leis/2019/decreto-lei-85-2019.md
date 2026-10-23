@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/07/12300/0320803208.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85/2019/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2019-122777643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa343b72516d818e154b40525f48139a429ca62b855ec341362e321d612a1296
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8207c27167fd575f9e3806f5c2b9fdb6d5ec9f60a2b1023e2901c5f602f56b50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
-- Função Pública
-- Criança
-- Igualdade de Tratamento
-- Código do Trabalho
+- Administração Local
 - Administração Pública
+- Administração Regional
+- Código do Trabalho
+- Criança
 - Estudante
+- Faltas
+- Função Pública
+- Funcionário Público
 - Igualdade de Oportunidades
+- Igualdade de Tratamento
 - Interesse Público
 - Lei Geral do Trabalho em Funções Públicas
-- Faltas
 - Maternidade
 - Mulher Trabalhadora
 - Paternidade
-- Administração Local
-- Funcionário Público
-- Administração Regional
-- Trabalhador
 - Programa 3 em Linha
+- Trabalhador
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
@@ -93,13 +93,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:52Z'
   warnings: []
   errors: []
 ---
@@ -150,12 +150,14 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 13 de junho de 2019. - António Luís Santos da Costa - Álvaro António da Costa Novo.
 
-**Promulgado em 19 de junho de 2019.**
+Promulgado em 19 de junho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de junho de 2019.**
+Referendado em 27 de junho de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112405347

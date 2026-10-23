@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/058a00/12751276.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/82/2001/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2001-401291
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:30:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3ba994ef4d2827595ce97d8f36c17b1f14f912ac90458a29a5e220531f42ad0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 961d7bc9aab999de4135a898d1eaedc4f6d5a35ef26e9b78b06610dd5e83fac3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:30:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência para a Qualidade e Segurança Alimentar
 - Apoio Técnico
-- Pessoal Dirigente
 - Comissão Instaladora
 - Definição de Competências
-- Secretaria Geral
-- Agência para a Qualidade e Segurança Alimentar
+- Pessoal Dirigente
 - Presidência do Conselho de Ministros
 - Remuneração
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:522977:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:405758:por
+  label: "Alterados os arts. 2º, 6º, 16º e 22º do Dec Lei 180/2000 de 10-Ago, na redação do presente diploma, pelo DEC LEI.308/2002.2002.12.16.MADRP,\
+    \ DR.IS-A [290] e republicado na integra com as alterações ora introduzidas\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/308-2002-405758
+  date: '2002-12-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/180/2000/08/10/p/dre
   label: null
@@ -90,16 +96,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/98/1997/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/98/1997/04/26/p/dre
+- type: cites
+  target: pt:dre:339837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476878:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:522977:por
+  label: "Revogado pelo DEC LEI.217-B/2004.09.10.2004.MAPF, DR.IS-A [238]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-b-2004-522977
+  date: '2004-10-09'
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:30:21Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +159,9 @@ Os artigos 2.º, 6.º e 22.º do [Decreto-Lei n.º 180/2000](https://diariodarep
 
 2 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -144,7 +169,9 @@ Os artigos 2.º, 6.º e 22.º do [Decreto-Lei n.º 180/2000](https://diariodarep
 
 3 - A comissão instaladora é apoiada por cinco adjuntos, equiparados, para efeitos remuneratórios, a director de serviços e recrutados de entre directores de serviços, chefes de divisão ou funcionários com remuneração não inferior ao índice 500 da tabela do regime geral.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -168,12 +195,12 @@ Os artigos 2.º, 6.º e 22.º do [Decreto-Lei n.º 180/2000](https://diariodarep
 
 Visto e aprovado em Conselho de Ministros de 18 de Janeiro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Mário Cristina de Sousa - Luís Manuel Capoulas Santos - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa - Alberto de Sousa Martins.
 
-**Promulgado em 23 de Fevereiro de 2001.**
+Promulgado em 23 de Fevereiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Março de 2001.**
+Referendado em 1 de Março de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 33/2017, 1º Suplemento, Série I de 2017-02-15
   number: '33'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 802-(2) a 802-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/03301/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/13-a/2017/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/13-a-2017-106463002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T05:28:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48c633385b3eb392bcddf777709ff939b07097b522f1fdaabb37c7d3545a6406
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 213b461b412c686a679114094593c6ba328dc024ad970cc086a8c7876bac071d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:28:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ARMA de Destruição Maciça
+- Associação
 - Combate ao Terrorismo
 - Convenção
 - Cooperação
-- Portugal
-- União Europeia
-- Terrorismo
 - Honduras
+- Portugal
 - Proteção do Ambiente
-- Associação
 - Tegucigalpa
+- Terrorismo
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/23-a/2017/02/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/23-a/2017/02/15/p/dre
+- type: cites
+  target: pt:dre:106463003:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:28:47Z'
   warnings: []
   errors: []
 ---
@@ -100,16 +104,16 @@ validation:
 
 de 15 de fevereiro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b) da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b) da Constituição, o seguinte:
 
 É ratificado o Acordo que cria uma Associação entre a União Europeia e os seus Estados-Membros, por um lado, e a América Central, por outro, assinado em Tegucigalpa, em 29 de junho de 2012, aprovado pela [Resolução da Assembleia da República n.º 23-A/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/23-a-2017-106463003), em 7 de outubro de 2016.
 
-**Assinado em 26 de janeiro de 2017.**
+Assinado em 26 de janeiro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de fevereiro de 2017.**
+Referendado em 8 de fevereiro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

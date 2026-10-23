@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02
   number: '193'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 8588-(12) a 8588-(108)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/19303/0001200108.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/214-g/2015/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b79d24746b06869645d0a6a2201f4328523f17279d644087e40a03f36ae3407f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad67b091d4d678733cd4d1dd708624feeacca1d00f71142d1243276a9cc3e6ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
+- Ação Administrativa
 - Acesso à Informação
 - ACTO Administrativo
 - Caderno de Encargos
 - Centro de Arbitragem
 - Código de Processo nos Tribunais Administrativos
+- Código dos Contratos Públicos
 - Comissão de Acesso aos Documentos Administrativos
 - Competência Jurisdicional
-- Urbanização
 - Concurso
 - Concurso Público
 - Conselho Superior dos Tribunais Administrativos e Fiscais
 - Contencioso Administrativo
+- Contratação Pública
 - Contrato Administrativo
 - Decisão Judicial
 - Estatuto
-- Recrutamento de Pessoal
 - Impugnação
 - Legitimidade
-- Código dos Contratos Públicos
 - Prazo Processual
 - Processo Administrativo
 - Prova
+- Recrutamento de Pessoal
+- Recurso
 - Regime Jurídico
 - Supremo Tribunal Administrativo
 - Tribunal Administrativo
@@ -98,13 +99,49 @@ subjects:
 - Tribunal Arbitral
 - Tribunal Central Administrativo
 - Tutela Administrativa
-- Ação Administrativa
-- Contratação Pública
+- Urbanização
 relationships:
 - type: amended_by
   target: pt:dre:124750731:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:108086621:por
+  label: Altera o art. 285.º do Código dos Contratos Públicos, aprovado pelo Dec Lei 18/2008 de 29-jan, na versão republicada
+    do Código pelo Dec Lei 278/2009 de 29-jan, na redação do presente diploma, pelo(a) Decreto-Lei n.º 111-B/2017 - Diário
+    da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, nos termos do disposto nos seus arts. 12.º e 13.º, que
+    procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-b-2017-108086621
+  date: '2017-08-31'
+- type: amended_by
+  target: pt:dre:117514512:por
+  label: Alterado o art. 95.º do Regime Jurídico da Urbanização e Edificação aprovado pelo Dec Lei 555/99, de 16-dez, na versão
+    revista e republicada pelo Dec Lei 136/2014, de 09-set e na redação do presente diploma pelo(a) Decreto-Lei n.º 121/2018
+    - Diário da República n.º 250/2018, Série I de 2018-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2018-117514512
+  date: '2018-12-28'
+- type: amended_by
+  target: pt:dre:124642985:por
+  label: Alterados, a partir de 11.11.2019, os arts. 1.º, 4.º, 6.º, 9.º, 9.º-A, 23.º, 26.º, 28.º, 29.º, 30.º, 36.º, 37.º,
+    39.º, 41.º, 43.º, 43.º-A, 45.º, 46.º, 49.º, 49.º-A, 52.º, 54.º, 56.º, 56.º-A, 63.º, 66.º, 67.º, 74.º, 79.º, 82.º e 86.º,
+    aditados os arts. 44.º-A e 52.º-A e revogados o n.º 2 do art. 6.º, o n.º 7 do art. 9.º, a al. c) do n.º 2 e os n.os 4
+    e 5 do art. 9.º-A, a al. h) do n.º 1 do art. 24.º, a al. g) do art. 26.º, a al. c) do art. 38.º, o n.º 2 do art. 41.º,
+    o n.º 3 do art. 46.º, o art. 48.º, os n.os 4, 5 e 6 do art. 56.º-A, a al. b) do art. 65.º, a al. b) do n.º 1 do art. 66.º
+    e a al. a) do n.º 1 do art. 67.º, na versão republicada pelo presente diploma, do Estatuto dos Tribunais Administrativos
+    e Fiscais, aprovado pela Lei 13/2002, de 19-fev, pelo(a) Lei n.º 114/2019 - Diário da República n.º 175/2019, Série I
+    de 2019-09-12, que procede à respetiva republicação em anexo
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2019-124642985
+  date: '2019-09-12'
+- type: amended_by
+  target: pt:dre:124750731:por
+  label: Alterados, a partir de 16.11.2019, os arts. 4.º, 11.º, 14.º, 24.º, 25.º, 30.º, 48.º, 55.º, 58.º, 69.º, 73.º, 78.º,
+    79.º, 80.º, 83.º, 84.º, 85.º, 87.º-B, 87.º-C, 92.º, 93.º, 94.º, 99.º, 103.º-A, 103.º-B, 109.º, 117.º, 120.º, 124.º, 128.º,
+    130.º, 143.º, 148.º, 151.º, 152.º, 154.º, 161.º, 180.º, 181.º, 185.º-A, 185.º-B, 188.º e 191.º e revogados o art. 5.º
+    e o n.º 3 do art. 69.º do Código de Processo nos Tribunais Administrativos aprovado pela Lei 15/2002 de 22-fev, na versão
+    republicada do Código pelo presente diploma, pelo(a) Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17
+    nos termos do art. 10.º e dos n.ºs 2 e 3 do art. 13.º desta, que procede à republicação do Código
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/118-2019-124750731
+  date: '2019-09-17'
 - type: cites
   target: eli:http://data.d
   label: null
@@ -149,16 +186,78 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83/1995/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83/1995/08/31/p/dre
+- type: cites
+  target: pt:dre:145578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70055491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:75177807:por
+  label: Revogada, a partir de 01.10.2016, a Lei 19/2006 de 12-jun, alterada pelo presente diploma, pelo(a) Lei n.º 26/2016
+    - Diário da República n.º 160/2016, Série I de 2016-08-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/26-2016-75177807
+  date: '2016-08-22'
 article_structure:
-  article_count: 491
-  section_count: 75
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 322
+  section_count: 80
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:36Z'
   warnings: []
   errors: []
 ---
@@ -333,7 +432,9 @@ p) A extensão dos efeitos de julgados;
 
 q) A adoção das providências cautelares adequadas para assegurar o efeito útil das decisões a proferir em processo declarativo.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -343,7 +444,9 @@ q) A adoção das providências cautelares adequadas para assegurar o efeito út
 
 4 - Os tribunais administrativos asseguram ainda a execução das suas sentenças, designadamente daquelas que proferem contra a Administração, seja através da emissão de sentença que produza os efeitos do ato administrativo devido, quando a prática e o conteúdo deste ato sejam estritamente vinculados, seja providenciando a concretização material do que foi determinado na sentença.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -355,7 +458,9 @@ q) A adoção das providências cautelares adequadas para assegurar o efeito út
 
 5 - [Revogado].
 
-###### Artigo 5.º — Cumulação de pedidos em processos urgentes
+Artigo 5.º
+
+Cumulação de pedidos em processos urgentes
 
 1 - A cumulação de pedidos é possível mesmo quando, nos termos deste Código, a algum dos pedidos cumulados corresponda uma das formas da ação administrativa urgente, que deve ser, nesse caso, observada com as adaptações que se revelem necessárias, devendo as adaptações que impliquem menor celeridade do processo cingir-se ao estritamente indispensável.
 
@@ -363,7 +468,9 @@ q) A adoção das providências cautelares adequadas para assegurar o efeito út
 
 3 - Quando algum dos pedidos cumulados não pertença ao âmbito da competência dos tribunais administrativos, há lugar à absolvição da instância relativamente a esse pedido.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -383,13 +490,17 @@ d) A revogação ou anulação do ato impugnado.
 
 5 - Todas as entidades públicas ou privadas devem fornecer os elementos e prestar a colaboração necessária ao exercício da ação pública pelo Ministério Público, podendo este, em caso de recusa, solicitar ao tribunal competente para o julgamento da ação proposta ou a propor a aplicação das sanções previstas na lei processual civil para as situações de recusa ilegítima de colaboração para a descoberta da verdade.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte e no capítulo II do título II, o autor é considerado parte legítima quando alegue ser parte na relação material controvertida.
 
 2 - Independentemente de ter interesse pessoal na demanda, qualquer pessoa, bem como as associações e fundações defensoras dos interesses em causa, as autarquias locais e o Ministério Público têm legitimidade para propor e intervir, nos termos previstos na lei, em processos principais e cautelares destinados à defesa de valores e bens constitucionalmente protegidos, como a saúde pública, o ambiente, o urbanismo, o ordenamento do território, a qualidade de vida, o património cultural e os bens do Estado, das Regiões Autónomas e das autarquias locais, assim como para promover a execução das correspondentes decisões jurisdicionais.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -411,7 +522,9 @@ d) A revogação ou anulação do ato impugnado.
 
 10 - Sem prejuízo da aplicação subsidiária, quando tal se justifique, do disposto na lei processual civil em matéria de intervenção de terceiros, quando a satisfação de uma ou mais pretensões deduzidas contra uma entidade pública exija a colaboração de outra ou outras entidades, cabe à entidade demandada promover a respetiva intervenção no processo.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Nos tribunais administrativos é obrigatória a constituição de mandatário, nos termos previstos no Código do Processo Civil, podendo as entidades públicas fazer-se patrocinar em todos os processos por advogado, solicitador ou licenciado em direito ou em solicitadoria com funções de apoio jurídico, sem prejuízo da representação do Estado pelo Ministério Público.
 
@@ -425,7 +538,9 @@ d) A revogação ou anulação do ato impugnado.
 
 6 - Os agentes de execução desempenham as suas funções nas execuções que sejam da competência dos tribunais administrativos.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -435,7 +550,9 @@ d) A revogação ou anulação do ato impugnado.
 
 4 - No caso previsto no número anterior, bem como quando haja coligação ilegal de autores, podem ser apresentadas novas petições, no prazo de 30 dias a contar do trânsito em julgado da decisão, considerando-se estas apresentadas na data de entrada da primeira, para efeitos da tempestividade da sua apresentação.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Quando a petição seja dirigida a tribunal incompetente, o processo é oficiosamente remetido, se possível por via eletrónica, ao tribunal administrativo ou tributário competente.
 
@@ -443,13 +560,17 @@ d) A revogação ou anulação do ato impugnado.
 
 3 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos artigos seguintes e das soluções que resultem da distribuição das competências em função da hierarquia, os processos são intentados no tribunal da área da residência habitual ou da sede do autor.
 
 2 - Havendo pluralidade de autores, a ação pode ser proposta no tribunal da área da residência habitual ou da sede da maioria deles, ou, no caso de não haver maioria, no tribunal da área da residência habitual ou da sede de qualquer deles.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - As pretensões relativas a contratos são deduzidas no tribunal do lugar de cumprimento do contrato.
 
@@ -457,7 +578,9 @@ d) A revogação ou anulação do ato impugnado.
 
 3 - As ações que tenham por objeto litígios emergentes de vínculos de emprego público intentadas por trabalhador contra o empregador público podem ser propostas no tribunal do lugar da prestação de trabalho ou do domicílio do autor.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Os processos respeitantes à prática ou à omissão de normas e de atos administrativos das Regiões Autónomas e das autarquias locais, assim como das entidades por elas instituídas, e das pessoas coletivas de utilidade pública são intentados no tribunal da área da sede da entidade demandada.
 
@@ -477,11 +600,15 @@ d) A revogação ou anulação do ato impugnado.
 
 9 - Para a execução jurisdicional de atos administrativos que não possam ser impostos coercivamente pela Administração, o tribunal competente é o da área da sede da residência ou sede do executado ou da localização dos bens a executar.
 
-###### Artigo 23.º — Regime aplicável
+Artigo 23.º
+
+Regime aplicável
 
 É subsidiariamente aplicável ao processo administrativo o disposto na lei processual civil em matéria de entrega ou remessa das peças processuais, dos duplicados dos articulados e das cópias dos documentos apresentados, bem como em matéria de realização das citações e notificações.
 
-###### Artigo 24.º — Realização de atos processuais
+Artigo 24.º
+
+Realização de atos processuais
 
 1 - Os atos processuais, incluindo os atos das partes que devam ser praticados por escrito, e a tramitação do processo, são efetuados, preferencialmente, por via eletrónica, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
 
@@ -499,7 +626,9 @@ b) Remessa pelo correio, sob registo, valendo como data da prática do ato a da 
 
 c) Envio através de telecópia, valendo como data da prática do ato a da expedição.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Salvo disposição em contrário, as citações editais são realizadas mediante a publicação de anúncio em página informática de acesso público, nos termos a definir em portaria do membro do Governo responsável pela área da justiça.
 
@@ -507,7 +636,9 @@ c) Envio através de telecópia, valendo como data da prática do ato a da exped
 
 3 - A notificação determinada no número anterior pode realizar-se por meios eletrónicos, nos termos de portaria do membro do Governo responsável pela área da justiça.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - O sistema informático dos tribunais administrativos e fiscais assegura a distribuição diária dos processos e demais documentos sujeitos a distribuição, que se realiza automaticamente por forma eletrónica.
 
@@ -521,13 +652,17 @@ c) [Anterior alínea c) do corpo do artigo].
 
 3 - Em tudo o que não esteja expressamente regulado neste artigo, aplica-se, com as necessárias adaptações, o disposto no Código de Processo Civil quanto à distribuição.
 
-###### Artigo 27.º — Poderes do relator nos processos em primeiro grau de jurisdição em tribunais superiores
+Artigo 27.º
+
+Poderes do relator nos processos em primeiro grau de jurisdição em tribunais superiores
 
 1 - [...].
 
 2 - Dos despachos do relator cabe reclamação para a conferência, com exceção dos de mero expediente.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...].
 
@@ -545,7 +680,9 @@ c) [Anterior alínea c) do corpo do artigo].
 
 8 - A secretaria remete, mensalmente, ao presidente do tribunal informação discriminada dos casos em que se mostrem decorridos três meses sobre o termo do prazo fixado para a prática de ato próprio do juiz, ainda que o ato tenha sido entretanto praticado, incumbindo ao presidente do tribunal, no prazo de 10 dias contado da data de receção, remeter o expediente à entidade com competência disciplinar.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - O processo administrativo é público, com as restrições previstas na lei, processando-se o acesso nos termos e condições previstos na lei processual civil.
 
@@ -563,7 +700,9 @@ c) [Anterior alínea c) do corpo do artigo].
 
 8 - [Revogado].
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...].
 
@@ -573,13 +712,17 @@ c) [Anterior alínea c) do corpo do artigo].
 
 4 - [...].
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - O processo declarativo nos Tribunais Administrativos rege-se pelo disposto nos títulos II e III e pelas disposições gerais, sendo-lhe subsidiariamente aplicável o disposto na lei processual civil.
 
 2 - [Revogado].
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...]:
 
@@ -601,7 +744,9 @@ f) [Anterior alínea e)].
 
 4 - Na falta de especificação própria quanto à respetiva tramitação, os processos urgentes previstos em lei especial seguem os termos da ação administrativa, com os prazos reduzidos a metade, regendo-se, quanto ao mais, pelo disposto nos n.os 2 e 3 do presente artigo e, em fase de recurso jurisdicional, pelo disposto no artigo 147.º
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Seguem a forma da ação administrativa, com a tramitação regulada no capítulo III do presente título, os processos que tenham por objeto litígios cuja apreciação se inscreva no âmbito da competência dos tribunais administrativos e que nem neste Código, nem em legislação avulsa sejam objeto de regulação especial, designadamente:
 
@@ -637,19 +782,25 @@ n) Relações jurídicas entre entidades administrativas.
 
 3 - [...].
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...].
 
 2 - Sem prejuízo do disposto no número anterior, não pode ser obtido por outros meios processuais o efeito que resultaria da anulação do ato inimpugnável.
 
-###### Artigo 39.º — Interesse processual
+Artigo 39.º
+
+Interesse processual
 
 1 - Os pedidos de simples apreciação podem ser deduzidos por quem invoque utilidade ou vantagem imediata, para si, na providência jurisdicional pretendida, designadamente por existir uma situação de incerteza, de ilegítima afirmação por parte da Administração da existência de determinada situação jurídica, como nos casos de inexistência de ato administrativo, ou o fundado receio de que a Administração possa vir a adotar uma conduta lesiva, fundada numa avaliação incorreta da situação jurídica existente.
 
 2 - A condenação à não emissão de atos administrativos só pode ser pedida quando seja provável a emissão de atos lesivos de direitos ou interesse legalmente protegidos e a utilização dessa via se mostre imprescindível.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - Sem prejuízo do disposto na lei substantiva e no capítulo seguinte, a ação administrativa pode ser proposta a todo o tempo.
 
@@ -657,7 +808,9 @@ n) Relações jurídicas entre entidades administrativas.
 
 3 - [Revogado].
 
-###### Artigo 45.º — Modificação do objeto do processo
+Artigo 45.º
+
+Modificação do objeto do processo
 
 1 - Quando se verifique que a pretensão do autor é fundada, mas que à satisfação dos seus interesses obsta, no todo ou em parte, a existência de uma situação de impossibilidade absoluta, ou a entidade demandada demonstre que o cumprimento dos deveres a que seria condenada originaria um excecional prejuízo para o interesse público, o tribunal profere decisão na qual:
 
@@ -677,7 +830,9 @@ d) Convida as partes a acordarem no montante da indemnização devida no prazo d
 
 5 - [Revogado].
 
-###### Artigo 48.º — Seleção de processos com andamento prioritário
+Artigo 48.º
+
+Seleção de processos com andamento prioritário
 
 1 - Quando, num mesmo tribunal, sejam intentados mais de dez processos que, embora referidos a diferentes pronúncias da mesma entidade administrativa, digam respeito à mesma relação jurídica material ou, ainda que respeitantes a diferentes relações jurídicas coexistentes em paralelo, sejam suscetíveis de ser decididos com base na aplicação das mesmas normas a situações de facto do mesmo tipo, o presidente do tribunal deve determinar, ouvidas as partes, que seja dado andamento apenas a um deles e se suspenda a tramitação dos demais.
 
@@ -701,7 +856,9 @@ d) Convida as partes a acordarem no montante da indemnização devida no prazo d
 
 11 - Quando mereça provimento, o recurso previsto no n.º 9 produz efeitos apenas na esfera jurídica do recorrente.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - A impugnação de um ato administrativo tem por objeto a anulação ou a declaração de nulidade desse ato.
 
@@ -711,7 +868,9 @@ d) Convida as partes a acordarem no montante da indemnização devida no prazo d
 
 4 - Às ações de declaração de inexistência de ato administrativo é aplicável, com as devidas adaptações, o disposto nos artigos 55.º e 57.º, em matéria de legitimidade, assim como no artigo 64.º, no caso de o autor ter interesse em deduzir, em substituição ou cumulação superveniente com o pedido inicial, a impugnação de ato administrativo praticado durante a pendência do processo.
 
-###### Artigo 51.º — Atos impugnáveis
+Artigo 51.º
+
+Atos impugnáveis
 
 1 - Ainda que não ponham termo a um procedimento, são impugnáveis todas as decisões que, no exercício de poderes jurídico-administrativos, visem produzir efeitos jurídicos externos numa situação individual e concreta, incluindo as proferidas por autoridades não integradas na Administração Pública e por entidades privadas que atuem no exercício de poderes jurídico-administrativos.
 
@@ -727,7 +886,9 @@ b) As decisões tomadas em relação a outros órgãos da mesma pessoa coletiva,
 
 5 - Na hipótese prevista no número anterior, quando haja lugar à substituição da petição, considera-se a nova petição apresentada na data do primeiro registo de entrada, sendo a entidade demandada e os contrainteressados de novo citados para contestar.
 
-###### Artigo 53.º — Impugnação de atos confirmativos e de execução
+Artigo 53.º
+
+Impugnação de atos confirmativos e de execução
 
 1 - Não são impugnáveis os atos confirmativos, entendendo-se como tal os atos que se limitem a reiterar, com os mesmos fundamentos, decisões contidas em atos administrativos anteriores.
 
@@ -737,7 +898,9 @@ b) As decisões tomadas em relação a outros órgãos da mesma pessoa coletiva,
 
 4 - Quando seja admitida a impugnação do ato confirmativo, nos termos do n.º 2, os efeitos da sentença que conheça do objeto do processo são extensivos ao ato confirmado.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - Os atos administrativos só podem ser impugnados a partir do momento em que produzam efeitos.
 
@@ -749,7 +912,9 @@ b) [Anterior alínea b) do n.º 1].
 
 3 - [Anterior n.º 2].
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - [...]:
 
@@ -769,7 +934,9 @@ f) [...].
 
 3 - [...].
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - Não pode impugnar um ato administrativo com fundamento na sua mera anulabilidade quem o tenha aceitado, expressa ou tacitamente, depois de praticado.
 
@@ -777,7 +944,9 @@ f) [...].
 
 3 - [...].
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - Salvo disposição legal em contrário, a impugnação de atos nulos não está sujeita a prazo e a de atos anuláveis tem lugar no prazo de:
 
@@ -797,7 +966,9 @@ c) Quando, não tendo ainda decorrido um ano sobre a data da prática do ato ou 
 
 4 - [Revogado].
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - Sem prejuízo da faculdade de impugnação em momento anterior, dentro dos condicionalismos do artigo 54.º, os prazos de impugnação só começam a correr na data da ocorrência dos factos previstos nos números seguintes se, nesse momento, o ato a impugnar já for eficaz, contando-se tais prazos, na hipótese contrária, desde o início da produção de efeitos do ato.
 
@@ -819,13 +990,17 @@ b) Quando os atos não tenham de ser publicados, da data da notificação, da pu
 
 8 - [...].
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - Quando sejam separadamente intentados diferentes processos impugnatórios em situações em que seja admitida a cumulação de impugnações, a apensação dos processos deve ser ordenada no que foi intentado em primeiro lugar, nos termos do artigo 28.º
 
 2 - [...].
 
-###### Artigo 63.º — Ampliação da instância
+Artigo 63.º
+
+Ampliação da instância
 
 1 - Até ao encerramento da discussão em primeira instância, o objeto do processo pode ser ampliado à impugnação de atos que venham a surgir no âmbito ou na sequência do procedimento em que o ato impugnado se insere, assim como à formulação de novas pretensões que com aquela possam ser cumuladas.
 
@@ -835,7 +1010,9 @@ b) Quando os atos não tenham de ser publicados, da data da notificação, da pu
 
 4 - A ampliação do objeto é requerida pelo autor em articulado próprio, que é notificado à entidade demandada e aos contrainteressados, para que se pronunciem no prazo de 10 dias.
 
-###### Artigo 64.º — Anulação administrativa, sanação e revogação do ato impugnado com efeitos retroativos
+Artigo 64.º
+
+Anulação administrativa, sanação e revogação do ato impugnado com efeitos retroativos
 
 1 - Quando, na pendência do processo, o ato impugnado seja objeto de anulação administrativa acompanhada ou sucedida de nova regulação, pode o autor requerer que o processo prossiga contra o novo ato com fundamento na reincidência nas mesmas ilegalidades, sendo aproveitada a prova produzida e dispondo o autor da faculdade de oferecer novos meios de prova.
 
@@ -849,7 +1026,9 @@ b) Quando os atos não tenham de ser publicados, da data da notificação, da pu
 
 6 - Quando, na pendência de processo de impugnação de ato que tenha determinado a imposição de deveres, encargos, ónus ou sujeições, a aplicação de sanções ou a restrição de direitos ou interesses legalmente protegidos, for proferido ato com o alcance de sanar os efeitos do ato impugnado, o autor pode requerer a anulação dos efeitos lesivos produzidos por aquele ato durante o período de tempo que precedeu a respetiva sanação.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - A ação administrativa pode ser utilizada para obter a condenação da entidade competente à prática, dentro de determinado prazo, de um ato administrativo ilegalmente omitido ou recusado.
 
@@ -857,7 +1036,9 @@ b) Quando os atos não tenham de ser publicados, da data da notificação, da pu
 
 3 - A possibilidade prevista no artigo seguinte da dedução de pedidos de condenação à prática de ato devido contra atos de conteúdo positivo não prejudica a faculdade do interessado de optar por proceder, em alternativa, à impugnação dos atos em causa.
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - A condenação à prática de ato administrativo pode ser pedida quando, tendo sido apresentado requerimento que constitua o órgão competente no dever de decidir:
 
@@ -877,7 +1058,9 @@ a) Não tenha sido cumprido o dever de emitir um ato administrativo que resultav
 
 b) Se pretenda obter a substituição de um ato administrativo de conteúdo positivo.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - Tem legitimidade para pedir a condenação à prática de um ato administrativo:
 
@@ -895,7 +1078,9 @@ f) [Anterior alínea d)].
 
 2 - Para além da entidade responsável pela situação de ilegalidade, são obrigatoriamente demandados os contrainteressados a quem a prática do ato pretendido possa diretamente prejudicar ou que tenham legítimo interesse em que ele não seja praticado e que possam ser identificados em função da relação material em causa ou dos documentos contidos no processo administrativo.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - [...].
 
@@ -903,7 +1088,9 @@ f) [Anterior alínea d)].
 
 3 - Quando, nos casos previstos no número anterior, esteja em causa um ato nulo, o pedido de condenação à prática do ato devido pode ser deduzido no prazo de dois anos, contado da data da notificação do ato de indeferimento, do ato de recusa de apreciação do requerimento ou do ato de conteúdo positivo que o interessado pretende ver substituído por outro, sem prejuízo, neste último caso, da possibilidade, em alternativa, da impugnação do ato de conteúdo positivo sem dependência de prazo.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - Quando a pretensão do interessado seja indeferida na pendência de processo intentado em situação de inércia ou de recusa de apreciação de requerimento, pode o autor alegar novos fundamentos e oferecer diferentes meios de prova em favor da sua pretensão.
 
@@ -913,7 +1100,9 @@ f) [Anterior alínea d)].
 
 4 - Em todas as situações previstas nos números anteriores, o autor deve apresentar articulado próprio no prazo de 30 dias, contado desde a data da notificação do ato, considerando-se como tal, quando não tenha havido notificação, a data do conhecimento do ato obtido no processo.
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - Ainda que o requerimento apresentado não tenha obtido resposta ou a sua apreciação tenha sido recusada, o tribunal não se limita a devolver a questão ao órgão administrativo competente, anulando ou declarando nulo o eventual ato de indeferimento, mas pronuncia-se sobre a pretensão material do interessado, impondo a prática do ato devido.
 
@@ -921,7 +1110,9 @@ f) [Anterior alínea d)].
 
 3 - Quando tenha sido pedida a condenação à prática de um ato com um conteúdo determinado, mas se verifique que, embora seja devida a prática de um ato administrativo, não é possível determinar o seu conteúdo, o tribunal não absolve do pedido, mas condena a entidade demandada à emissão do ato em questão, de acordo com os parâmetros estabelecidos no número anterior.
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - A declaração de ilegalidade com força obrigatória geral de norma imediatamente operativa pode ser pedida por quem seja diretamente prejudicado pela vigência da norma ou possa vir previsivelmente a sê-lo em momento próximo, independentemente da prática de ato concreto de aplicação, pelo Ministério Público e por pessoas e entidades nos termos do n.º 2 do artigo 9.º, assim como pelos presidentes de órgãos colegiais, em relação a normas emitidas pelos respetivos órgãos.
 
@@ -933,13 +1124,17 @@ f) [Anterior alínea d)].
 
 5 - Para o efeito do disposto no número anterior, a secretaria remete ao representante do Ministério Público junto do tribunal certidão das sentenças que tenham desaplicado, com fundamento em ilegalidade, quaisquer normas emitidas ao abrigo de disposições de direito administrativo ou que tenham declarado a respetiva ilegalidade com força obrigatória geral.
 
-###### Artigo 74.º — Prazos
+Artigo 74.º
+
+Prazos
 
 1 - Sem prejuízo do disposto no número seguinte, a declaração de ilegalidade de normas pode ser pedida a todo o tempo.
 
 2 - A declaração de ilegalidade com fundamento em ilegalidade formal ou procedimental da qual não resulte inconstitucionalidade só pode ser pedida no prazo de seis meses, contado da data da publicação, salvo nos casos de carência absoluta de forma legal ou de preterição de consulta pública exigida por lei.
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - A declaração com força obrigatória geral da ilegalidade de uma norma, nos termos previstos neste Código, produz efeitos desde a data da entrada em vigor da norma, salvo no caso de ilegalidade superveniente.
 
@@ -951,13 +1146,17 @@ f) [Anterior alínea d)].
 
 5 - A declaração a que se refere o presente artigo implica a repristinação das normas revogadas, salvo quando estas sejam ilegais ou tenham deixado por outro motivo de vigorar.
 
-###### Artigo 77.º — Condenação à emissão de normas
+Artigo 77.º
+
+Condenação à emissão de normas
 
 1 - O Ministério Público, as demais pessoas e entidades defensoras dos interesses referidos no n.º 2 do artigo 9.º, os presidentes de órgãos colegiais, em relação a normas omitidas pelos respetivos órgãos, e quem alegue um prejuízo diretamente resultante da situação de omissão podem pedir ao tribunal administrativo competente que aprecie e verifique a existência de situações de ilegalidade por omissão das normas cuja adoção, ao abrigo de disposições de direito administrativo, seja necessária para dar exequibilidade a atos legislativos carentes de regulamentação.
 
 2 - Quando verifique a existência de uma situação de ilegalidade por omissão, o tribunal condena a entidade competente à emissão do regulamento em falta, fixando prazo para que a omissão seja suprida.
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - A instância constitui-se com a propositura da ação e esta considera-se proposta logo que a petição inicial seja recebida na secretaria do tribunal ao qual é dirigida.
 
@@ -985,7 +1184,9 @@ h) [Anterior alínea i)].
 
 5 - [Revogado].
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - O autor deve instruir a petição inicial com o documento comprovativo do prévio pagamento da taxa de justiça devida, da concessão do benefício de apoio judiciário, ou, ocorrendo razão de urgência, do pedido de apoio judiciário requerido, mas ainda não concedido.
 
@@ -1009,7 +1210,9 @@ d) Quando a pretensão do autor dirigida à prática de um ato administrativo n�
 
 7 - Em tudo o que não esteja expressamente regulado neste artigo, aplica-se, com as necessárias adaptações, o disposto no Código de Processo Civil quanto à instrução da petição inicial.
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - [...]:
 
@@ -1029,7 +1232,9 @@ g) [...].
 
 2 - A recusa da petição pela secretaria tem os efeitos e consequências que lhe correspondem na lei processual civil, podendo ser objeto de reclamação e recurso nos termos previstos na mesma lei.
 
-###### Artigo 81.º — Citação dos demandados
+Artigo 81.º
+
+Citação dos demandados
 
 1 - Recebida a petição, incumbe à secretaria promover oficiosamente a citação dos demandados.
 
@@ -1045,7 +1250,9 @@ g) [...].
 
 7 - Na hipótese prevista no n.º 5, os contrainteressados que como tais se tenham constituído são citados para contestarem no prazo previsto no artigo seguinte.
 
-###### Artigo 82.º — Prazo da contestação e cominação
+Artigo 82.º
+
+Prazo da contestação e cominação
 
 1 - Os demandados podem contestar no prazo de 30 dias a contar da citação, começando o prazo a correr desde o termo da dilação, quando a esta houver lugar.
 
@@ -1057,7 +1264,9 @@ g) [...].
 
 5 - [Revogado].
 
-###### Artigo 83.º — Conteúdo e instrução da contestação
+Artigo 83.º
+
+Conteúdo e instrução da contestação
 
 1 - Na contestação, deduzida por forma articulada, os demandados devem:
 
@@ -1079,7 +1288,9 @@ c) Expor os factos essenciais em que se baseiam as exceções deduzidas, especif
 
 7 - Quando a contestação seja subscrita por licenciado em Direito com funções de apoio jurídico, nos termos do artigo 11.º, deve ser junta cópia do despacho que o designou.
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 1 - Com a contestação, ou dentro do respetivo prazo, a entidade demandada é obrigada a proceder, preferencialmente por via eletrónica, ao envio do processo administrativo, quando exista, assim como todos os demais documentos respeitantes à matéria do processo de que seja detentora, sendo que o sistema informático dos Tribunais Administrativos e Fiscais deve garantir a apensação dos mesmos aos autos.
 
@@ -1095,7 +1306,9 @@ c) Expor os factos essenciais em que se baseiam as exceções deduzidas, especif
 
 7 - [Anterior n.º 6].
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - No momento da citação dos demandados, é fornecida cópia da petição e dos documentos que a instruem ao Ministério Público, salvo nos processos em que este figure como autor.
 
@@ -1111,7 +1324,9 @@ a) Caso as diligências instrutórias requeridas devam ser realizadas em audiên
 
 b) Caso as diligências instrutórias requeridas não devam ser realizadas em audiência final, o Ministério Público é notificado para alegar, nos termos do artigo 91.º-A.
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1 - Os factos constitutivos, modificativos ou extintivos supervenientes podem ser deduzidos em novo articulado, pela parte a que aproveitem, até ao encerramento da discussão.
 
@@ -1125,7 +1340,9 @@ b) Caso as diligências instrutórias requeridas não devam ser realizadas em au
 
 6 - [Revogado].
 
-###### Artigo 87.º — Despacho pré-saneador
+Artigo 87.º
+
+Despacho pré-saneador
 
 1 - Findos os articulados, o processo é concluso ao juiz, que, sendo caso disso, profere despacho pré-saneador destinado a:
 
@@ -1151,7 +1368,9 @@ c) Determinar a junção de documentos com vista a permitir a apreciação de ex
 
 9 - Em tudo o que não esteja expressamente regulado neste artigo, aplica-se, com as necessárias adaptações, o disposto no Código de Processo Civil em matéria de despacho pré-saneador e de gestão inicial do processo.
 
-###### Artigo 88.º — Despacho saneador
+Artigo 88.º
+
+Despacho saneador
 
 1 - O despacho saneador destina-se a:
 
@@ -1167,7 +1386,9 @@ b) Conhecer total ou parcialmente do mérito da causa, sempre que a questão sej
 
 5 - Em tudo o que não esteja expressamente regulado neste artigo, aplica-se, com as necessárias adaptações, o disposto no Código de Processo Civil em matéria de despacho saneador e de gestão inicial do processo.
 
-###### Artigo 89.º — Exceções
+Artigo 89.º
+
+Exceções
 
 1 - As exceções são dilatórias ou perentórias.
 
@@ -1201,7 +1422,9 @@ k) Intempestividade da prática do ato processual;
 
 l) [Anterior alínea i) do n.º 1].
 
-###### Artigo 90.º — Instrução e decisão parcelar da causa
+Artigo 90.º
+
+Instrução e decisão parcelar da causa
 
 1 - A instrução tem por objeto os factos relevantes para o exame e decisão da causa que devam considerar-se controvertidos ou necessitados de prova.
 
@@ -1211,7 +1434,9 @@ l) [Anterior alínea i) do n.º 1].
 
 4 - Quando tenham sido cumulados pedidos fundados no reconhecimento, a título principal, da ilegalidade da conduta administrativa e a complexidade da apreciação desses pedidos o justifique, o tribunal pode antecipar a decisão do pedido principal em relação à instrução respeitante ao pedido ou pedidos cumulados, que apenas terá lugar se a procedência destes pedidos não ficar prejudicada pela decisão tomada quanto ao pedido principal.
 
-###### Artigo 91.º — Audiência final
+Artigo 91.º
+
+Audiência final
 
 1 - Há lugar à realização de audiência final quando haja prestação de depoimentos de parte, inquirição de testemunhas ou prestação de esclarecimentos verbais pelos peritos.
 
@@ -1235,13 +1460,17 @@ e) Alegações orais, nas quais os advogados exponham as conclusões, de facto e
 
 6 - [Revogado].
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - Nos tribunais superiores, uma vez concluso o processo ao relator, tem lugar a vista simultânea aos juízes-adjuntos, que, no caso de evidente simplicidade da causa, pode ser dispensada pelo relator.
 
 2 - [...].
 
-###### Artigo 93.º — Julgamento em formação alargada e consulta prejudicial para o Supremo Tribunal Administrativo
+Artigo 93.º
+
+Julgamento em formação alargada e consulta prejudicial para o Supremo Tribunal Administrativo
 
 1 - Quando à apreciação de um tribunal administrativo de círculo se coloque uma questão de direito nova que suscite dificuldades sérias e possa vir a ser suscitada noutros litígios, pode o respetivo presidente, por proposta do juiz da causa, adotar uma das seguintes providências:
 
@@ -1255,7 +1484,9 @@ b) Submeter a sua apreciação ao Supremo Tribunal Administrativo, para que este
 
 4 - [Revogado].
 
-###### Artigo 94.º — Conteúdo da sentença
+Artigo 94.º
+
+Conteúdo da sentença
 
 1 - Encerrada a audiência final ou apresentadas as alegações escritas ou decorrido o respetivo prazo, quando a essa apresentação haja lugar, o processo é concluso ao juiz, para ser proferida sentença no prazo de 30 dias.
 
@@ -1267,7 +1498,9 @@ b) Submeter a sua apreciação ao Supremo Tribunal Administrativo, para que este
 
 5 - [Anterior n.º 3].
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - A sentença deve decidir todas as questões que as partes tenham submetido à sua apreciação e não pode ocupar-se senão das questões suscitadas, salvo quando a lei lhe permita ou imponha o conhecimento oficioso de outras.
 
@@ -1283,11 +1516,15 @@ b) Submeter a sua apreciação ao Supremo Tribunal Administrativo, para que este
 
 7 - [Anterior n.º 6].
 
-###### Artigo 96.º — [...]
+Artigo 96.º
+
+[...]
 
 Nos tribunais superiores, quando não possa ser lavrado acórdão na sessão em que seja julgado o processo, o resultado é anotado, datado e assinado pelos juízes vencedores e vencidos e o juiz que tire o acórdão fica com o processo para lavrar a decisão respetiva que, sem embargo de o resultado ser logo publicado, será lida em conferência na sessão seguinte e aí datada e assinada pelos juízes que nela tenham intervindo, se estiverem presentes.
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - Regem-se pelo disposto no presente capítulo e, no que com ele não contenda, pelo disposto nos capítulos II e III do título II:
 
@@ -1299,7 +1536,9 @@ c) O contencioso dos atos relativos à formação dos contratos previstos na sec
 
 2 - [Revogado].
 
-###### Artigo 98.º — Contencioso eleitoral
+Artigo 98.º
+
+Contencioso eleitoral
 
 1 - Os processos do contencioso eleitoral são de plena jurisdição e podem ser intentados por quem, na eleição em causa, seja eleitor ou elegível ou, quanto à omissão nos cadernos ou listas eleitorais, também pelas pessoas cuja inscrição haja sido omitida.
 
@@ -1317,7 +1556,9 @@ c) Três dias para os restantes casos.
 
 5 - Nos processos da competência de tribunal superior, quando o processo não seja decidido pelo relator, é julgado, independentemente de vistos, na primeira sessão que tenha lugar após o despacho referido na alínea b) do número anterior.
 
-###### Artigo 99.º — Contencioso dos procedimentos de massa
+Artigo 99.º
+
+Contencioso dos procedimentos de massa
 
 1 - Para os efeitos do disposto na presente secção, e sem prejuízo de outros casos previstos em lei especial, o contencioso dos atos administrativos praticados no âmbito de procedimentos de massa compreende as ações respeitantes à prática ou omissão de atos administrativos no âmbito de procedimentos com mais de 50 participantes, nos seguintes domínios:
 
@@ -1343,7 +1584,9 @@ c) 10 dias para os restantes casos.
 
 6 - Nos processos da competência de tribunal superior, quando não seja decidido pelo relator, o processo é julgado, independentemente de vistos, na primeira sessão que tenha lugar após o despacho referido na alínea b) do número anterior.
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - Para os efeitos do disposto na presente secção, o contencioso pré-contratual compreende as ações de impugnação ou de condenação à prática de atos administrativos relativos à formação de contratos de empreitada de obras públicas, de concessão de obras públicas, de concessão de serviços públicos, de aquisição ou locação de bens móveis e de aquisição de serviços.
 
@@ -1351,11 +1594,15 @@ c) 10 dias para os restantes casos.
 
 3 - [Revogado].
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 Os processos do contencioso pré-contratual devem ser intentados no prazo de um mês, por qualquer pessoa ou entidade com legitimidade nos termos gerais, sendo aplicável à contagem do prazo o disposto no n.º 3 do artigo 58.º e nos artigos 59.º e 60.º
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 1 - Os processos do contencioso pré-contratual obedecem à tramitação estabelecida no capítulo III do título II, salvo o preceituado nos números seguintes.
 
@@ -1371,7 +1618,9 @@ Os processos do contencioso pré-contratual devem ser intentados no prazo de um 
 
 7 - O disposto no número anterior é também aplicável nas situações em que, tendo sido cumulado pedido respeitante à invalidade de contrato por violação das regras relativas ao respetivo procedimento de formação, o tribunal proceda, segundo o disposto na lei substantiva, ao afastamento dessa invalidade em resultado da ponderação dos interesses públicos e privados em presença.
 
-###### Artigo 103.º — Impugnação dos documentos conformadores do procedimento
+Artigo 103.º
+
+Impugnação dos documentos conformadores do procedimento
 
 1 - Regem-se pelo disposto no presente artigo e no artigo anterior, os processos dirigidos à declaração de ilegalidade de disposições contidas no programa do concurso, no caderno de encargos ou em qualquer outro documento conformador do procedimento de formação de contrato, designadamente com fundamento na ilegalidade das especificações técnicas, económicas ou financeiras que constem desses documentos.
 
@@ -1381,13 +1630,17 @@ Os processos do contencioso pré-contratual devem ser intentados no prazo de um 
 
 4 - O disposto no presente artigo não prejudica a possibilidade da impugnação, nos termos gerais, dos regulamentos que tenham por objeto conformar mais do que um procedimento de formação de contratos.
 
-###### Artigo 104.º — Objeto
+Artigo 104.º
+
+Objeto
 
 1 - Quando não seja dada integral satisfação a pedidos formulados no exercício do direito à informação procedimental ou do direito de acesso aos arquivos e registos administrativos, o interessado pode requerer a correspondente intimação, nos termos e com os efeitos previstos na presente secção.
 
 2 - [...].
 
-###### Artigo 105.º — Pressupostos
+Artigo 105.º
+
+Pressupostos
 
 1 - A intimação deve ser requerida contra a pessoa coletiva de direito público, o ministério ou a secretaria regional cujos órgãos sejam competentes para facultar a informação ou a consulta, ou passar a certidão.
 
@@ -1399,13 +1652,17 @@ b) [Anterior alínea b) do corpo do artigo];
 
 c) [Anterior alínea c) do corpo do artigo].
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - Deduzido o pedido de intimação, a secretaria promove oficiosamente a citação da entidade demandada e dos contrainteressados para responder no prazo de 10 dias.
 
 2 - Apresentada a resposta ou decorrido o respetivo prazo e concluídas as diligências que se mostrem necessárias, o juiz profere decisão no prazo de cinco dias.
 
-###### Artigo 110.º — Despacho liminar e tramitação subsequente
+Artigo 110.º
+
+Despacho liminar e tramitação subsequente
 
 1 - Uma vez distribuído, o processo é concluso ao juiz com a maior urgência, para despacho liminar, a proferir no prazo máximo de 48 horas, no qual, sendo a petição admitida, é ordenada a citação da outra parte para responder no prazo de sete dias.
 
@@ -1423,7 +1680,9 @@ c) Promover a realização, no prazo de 48 horas, de uma audiência oral, no ter
 
 5 - [Revogado].
 
-###### Artigo 111.º — Decisão e seus efeitos
+Artigo 111.º
+
+Decisão e seus efeitos
 
 1 - Sem prejuízo do disposto na alínea c) do n.º 3 do artigo 110.º, o juiz decide o processo no prazo necessário para assegurar o efeito útil da decisão, o qual não pode ser superior a cinco dias após a realização das diligências que se mostrem necessárias à tomada da decisão.
 
@@ -1433,7 +1692,9 @@ c) Promover a realização, no prazo de 48 horas, de uma audiência oral, no ter
 
 4 - O incumprimento da intimação sujeita o particular ou o titular do órgão responsável ao pagamento de sanção pecuniária compulsória, a fixar pelo juiz na decisão de intimação ou em despacho posterior, segundo o disposto no artigo 169.º, sem prejuízo do apuramento da responsabilidade civil, disciplinar e criminal a que haja lugar.
 
-###### Artigo 112.º — [...]
+Artigo 112.º
+
+[...]
 
 1 - [...].
 
@@ -1457,7 +1718,9 @@ h) Arrolamento;
 
 i) Intimação para adoção ou abstenção de uma conduta por parte da Administração ou de um particular por alegada violação ou fundado receio de violação do direito administrativo nacional ou do direito da União Europeia.
 
-###### Artigo 113.º — [...]
+Artigo 113.º
+
+[...]
 
 1 - [...].
 
@@ -1469,7 +1732,9 @@ i) Intimação para adoção ou abstenção de uma conduta por parte da Administ
 
 5 - Quando assuma a posição de autor num processo principal, nos termos do artigo 62.º, o Ministério Público pode requerer o seguimento de eventual processo cautelar, que, com relação a esse processo, se encontre pendente, nele assumindo também a posição de requerente.
 
-###### Artigo 114.º — Requerimento cautelar
+Artigo 114.º
+
+Requerimento cautelar
 
 1 - [...].
 
@@ -1503,7 +1768,9 @@ j) Indicar o valor da causa.
 
 6 - [Anterior n.º 5].
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 1 - [...].
 
@@ -1515,7 +1782,9 @@ j) Indicar o valor da causa.
 
 5 - O incumprimento pela entidade demandada da intimação referida no número anterior sem justificação adequada é constitutivo de responsabilidade, nos termos previstos no artigo 159.º
 
-###### Artigo 116.º — [...]
+Artigo 116.º
+
+[...]
 
 1 - Uma vez distribuído, o processo é concluso ao juiz com a maior urgência, para despacho liminar, a proferir no prazo máximo de 48 horas, no qual, sendo o requerimento admitido, é ordenada a citação da entidade requerida e dos contrainteressados.
 
@@ -1539,7 +1808,9 @@ f) A manifesta ausência dos pressupostos processuais da ação principal.
 
 5 - O juiz, oficiosamente ou a pedido deduzido no requerimento cautelar, pode, no despacho liminar, decretar provisoriamente a providência requerida ou aquela que julgue mais adequada, segundo o disposto no artigo 131.º
 
-###### Artigo 117.º — Citação
+Artigo 117.º
+
+Citação
 
 1 - [...].
 
@@ -1553,7 +1824,9 @@ f) A manifesta ausência dos pressupostos processuais da ação principal.
 
 6 - [...].
 
-###### Artigo 118.º — [...]
+Artigo 118.º
+
+[...]
 
 1 - Juntas as oposições ou decorrido o respetivo prazo, o processo é concluso ao juiz, podendo haver lugar a produção de prova, quando este a considere necessária.
 
@@ -1569,7 +1842,9 @@ f) A manifesta ausência dos pressupostos processuais da ação principal.
 
 7 - Sem prejuízo do disposto no número anterior, e estando a parte impossibilitada de apresentar certa testemunha, pode requerer ao tribunal a sua convocação.
 
-###### Artigo 119.º — [...]
+Artigo 119.º
+
+[...]
 
 1 - O juiz profere decisão no prazo de cinco dias contado da data da apresentação da última oposição ou do decurso do respetivo prazo, ou da produção de prova, quando esta tenha tido lugar.
 
@@ -1577,7 +1852,9 @@ f) A manifesta ausência dos pressupostos processuais da ação principal.
 
 3 - [Anterior n.º 2].
 
-###### Artigo 120.º — [...]
+Artigo 120.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos números seguintes, as providências cautelares são adotadas quando haja fundado receio da constituição de uma situação de facto consumado ou da produção de prejuízos de difícil reparação para os interesses que o requerente visa assegurar no processo principal e seja provável que a pretensão formulada ou a formular nesse processo venha a ser julgada procedente.
 
@@ -1591,13 +1868,17 @@ f) A manifesta ausência dos pressupostos processuais da ação principal.
 
 6 - [...].
 
-###### Artigo 121.º — [...]
+Artigo 121.º
+
+[...]
 
 1 - Quando, existindo processo principal já intentado, se verifique que foram trazidos ao processo cautelar todos os elementos necessários para o efeito e a simplicidade do caso ou a urgência na sua resolução definitiva o justifique, o tribunal pode, ouvidas as partes pelo prazo de 10 dias, antecipar o juízo sobre a causa principal, proferindo decisão que constituirá a decisão final desse processo.
 
 2 - O recurso da decisão final do processo principal, proferida nos termos do número anterior, tem efeito meramente devolutivo.
 
-###### Artigo 122.º — [...]
+Artigo 122.º
+
+[...]
 
 1 - A decisão sobre a adoção de providências cautelares determina a notificação com urgência às partes para cumprimento imediato e, quando seja caso disso, às demais pessoas e entidades que lhe devam dar cumprimento.
 
@@ -1605,7 +1886,9 @@ f) A manifesta ausência dos pressupostos processuais da ação principal.
 
 3 - [...].
 
-###### Artigo 123.º — [...]
+Artigo 123.º
+
+[...]
 
 1 - Os processos cautelares extinguem-se e, quando decretadas, as providências cautelares caducam:
 
@@ -1631,7 +1914,9 @@ g) [Revogada].
 
 5 - [...].
 
-###### Artigo 124.º — [...]
+Artigo 124.º
+
+[...]
 
 1 - A decisão de adotar ou recusar a adoção de providências cautelares, desde que transitada em julgado, pode ser revogada ou alterada, oficiosamente ou mediante requerimento, com fundamento em alteração dos pressupostos de facto e de direito inicialmente existentes.
 
@@ -1639,7 +1924,9 @@ g) [Revogada].
 
 3 - [...].
 
-###### Artigo 126.º — Utilização abusiva da providência cautelar
+Artigo 126.º
+
+Utilização abusiva da providência cautelar
 
 1 - Sem prejuízo da possibilidade de aplicação pelo juiz da taxa sancionatória excecional, prevista no artigo 531.º do Código de Processo Civil, o requerente responde pelos danos que, com dolo ou negligência grosseira, tenha causado ao requerido e aos contrainteressados.
 
@@ -1647,7 +1934,9 @@ g) [Revogada].
 
 3 - [...].
 
-###### Artigo 127.º — [...]
+Artigo 127.º
+
+[...]
 
 1 - A execução da decisão cautelar corre termos nos próprios autos do processo cautelar, sob as formas previstas neste Código para os processos executivos, ou sob as formas previstas na lei processual civil, quando se trate de uma execução contra particulares, sendo-lhe aplicável o regime dos processos urgentes.
 
@@ -1655,7 +1944,9 @@ g) [Revogada].
 
 3 - [...].
 
-###### Artigo 130.º — [...]
+Artigo 130.º
+
+[...]
 
 1 - [...].
 
@@ -1665,7 +1956,9 @@ g) [Revogada].
 
 4 - [...].
 
-###### Artigo 131.º — [...]
+Artigo 131.º
+
+[...]
 
 1 - Quando reconheça a existência de uma situação de especial urgência, passível de dar causa a uma situação de facto consumado na pendência do processo, o juiz, no despacho liminar, pode, a pedido do requerente ou a título oficioso, decretar provisoriamente a providência requerida ou aquela que julgue mais adequada, sem mais considerações, no prazo de 48 horas, seguindo o processo cautelar os subsequentes termos dos artigos 117.º e seguintes.
 
@@ -1681,7 +1974,9 @@ g) [Revogada].
 
 7 - As decisões proferidas ao abrigo do número anterior são passíveis de impugnação nos termos gerais.
 
-###### Artigo 132.º — Processos cautelares relativos a procedimentos de formação de contratos
+Artigo 132.º
+
+Processos cautelares relativos a procedimentos de formação de contratos
 
 1 - Os processos cautelares relativos a procedimentos de formação de contratos não abrangidos pelo regime dos artigos 100.º a 103.º-B, dirigidos designadamente a obter a suspensão da eficácia de atos praticados no âmbito do procedimento, a suspensão do próprio procedimento e a proibição da celebração ou da execução do contrato, regem-se pelo presente Título, com ressalva do disposto nos números seguintes.
 
@@ -1697,7 +1992,9 @@ g) [Revogada].
 
 7 - [Revogado].
 
-###### Artigo 135.º — [...]
+Artigo 135.º
+
+[...]
 
 1 - Os processos de conflito entre tribunais da jurisdição administrativa e fiscal ou entre órgãos administrativos regem-se pelos preceitos próprios da ação administrativa, com as seguintes especialidades, sendo, quanto ao mais, aplicável, com as necessárias adaptações, o disposto na lei processual civil:
 
@@ -1713,7 +2010,9 @@ e) Da sentença não cabe qualquer recurso.
 
 2 - [Revogado].
 
-###### Artigo 140.º — Espécies de recursos e regime aplicável
+Artigo 140.º
+
+Espécies de recursos e regime aplicável
 
 1 - Os recursos das decisões proferidas pelos tribunais administrativos são ordinários ou extraordinários, sendo ordinários a apelação e a revista e extraordinários o recurso para uniformização de jurisprudência e a revisão.
 
@@ -1721,7 +2020,9 @@ e) Da sentença não cabe qualquer recurso.
 
 3 - Os recursos das decisões proferidas pelos tribunais administrativos regem-se pelo disposto na lei processual civil, salvo o disposto no presente título.
 
-###### Artigo 141.º — [...]
+Artigo 141.º
+
+[...]
 
 1 - [...].
 
@@ -1731,7 +2032,9 @@ e) Da sentença não cabe qualquer recurso.
 
 4 - Pode ainda recorrer das decisões dos tribunais administrativos quem seja direta e efetivamente prejudicado por elas, ainda que não seja parte na causa ou seja apenas parte acessória.
 
-###### Artigo 142.º — [...]
+Artigo 142.º
+
+[...]
 
 1 - O recurso das decisões que, em primeiro grau de jurisdição, tenham conhecido do mérito da causa é admitido nos processos de valor superior à alçada do tribunal de que se recorre, quando a decisão impugnada seja desfavorável ao recorrente em valor superior a metade da alçada desse tribunal, atendendo-se, em caso de fundada dúvida acerca do valor da sucumbência, somente ao valor da causa.
 
@@ -1751,7 +2054,9 @@ d) [...].
 
 5 - As decisões proferidas em despacho interlocutório podem ser impugnadas no recurso que venha a ser interposto da decisão final, exceto nos casos em que é admitida apelação autónoma nos termos da lei processual civil.
 
-###### Artigo 143.º — [...]
+Artigo 143.º
+
+[...]
 
 1 - Salvo disposto em lei especial, os recursos ordinários têm efeito suspensivo da decisão recorrida.
 
@@ -1769,7 +2074,9 @@ c) Decisões proferidas por antecipação do juízo sobre a causa principal no �
 
 5 - [...].
 
-###### Artigo 144.º — [...]
+Artigo 144.º
+
+[...]
 
 1 - [...].
 
@@ -1779,7 +2086,9 @@ c) Decisões proferidas por antecipação do juízo sobre a causa principal no �
 
 4 - Se o recurso tiver por objeto a reapreciação da prova gravada, ao prazo de interposição e de resposta acrescem 10 dias.
 
-###### Artigo 145.º — Despacho sobre o requerimento
+Artigo 145.º
+
+Despacho sobre o requerimento
 
 1 - Findos os prazos concedidos às partes, o juiz ou relator aprecia os requerimentos apresentados e pronuncia-se sobre as nulidades arguidas e os pedidos de reforma, ordenando a subida do recurso se a tal nada obstar.
 
@@ -1793,7 +2102,9 @@ b) Não contenha ou junte a alegação do recorrente ou quando esta não tenha c
 
 4 - Do despacho do relator que não receba o recurso interposto de decisão da Secção de contencioso administrativo do Supremo Tribunal Administrativo para o Pleno do mesmo Tribunal, ou o retenha, cabe reclamação para a conferência e da decisão desta não há recurso.
 
-###### Artigo 149.º — [...]
+Artigo 149.º
+
+[...]
 
 1 - [...].
 
@@ -1805,7 +2116,9 @@ b) Não contenha ou junte a alegação do recorrente ou quando esta não tenha c
 
 5 - Na situação prevista no número anterior, o relator, antes de ser proferida decisão, ouve as partes pelo prazo de 10 dias.
 
-###### Artigo 150.º — [...]
+Artigo 150.º
+
+[...]
 
 1 - [...].
 
@@ -1819,7 +2132,9 @@ b) Não contenha ou junte a alegação do recorrente ou quando esta não tenha c
 
 6 - [Anterior n.º 5].
 
-###### Artigo 151.º — [...]
+Artigo 151.º
+
+[...]
 
 1 - Os recursos interpostos de decisões de mérito proferidas por tribunais administrativos de círculo são da competência do Supremo Tribunal Administrativo quando as partes, nas alegações, suscitem apenas questões de direito e o valor da causa seja superior a 500.000 (euro) ou seja indeterminada, designadamente nos processos de declaração de ilegalidade de norma ou de declaração de ilegalidade por omissão de norma.
 
@@ -1831,7 +2146,9 @@ b) Não contenha ou junte a alegação do recorrente ou quando esta não tenha c
 
 5 - [Anterior n.º 4].
 
-###### Artigo 152.º — [...]
+Artigo 152.º
+
+[...]
 
 1 - [...].
 
@@ -1847,7 +2164,9 @@ b) Não contenha ou junte a alegação do recorrente ou quando esta não tenha c
 
 7 - O recurso de uniformização de jurisprudência deve ser interposto pelo Ministério Público, mesmo quando não seja parte na causa, caso em que não tem qualquer influência na decisão desta, destinando-se, unicamente à emissão de acórdão de uniformização sobre o conflito de jurisprudência.
 
-###### Artigo 157.º — [...]
+Artigo 157.º
+
+[...]
 
 1 - [...].
 
@@ -1859,7 +2178,9 @@ b) Não contenha ou junte a alegação do recorrente ou quando esta não tenha c
 
 5 - As execuções contra particulares das sentenças proferidas pelos tribunais administrativos, assim como dos demais títulos executivos produzidos no âmbito de relações jurídico-administrativas que careçam de execução jurisdicional, correm termos nos tribunais administrativos, mas, na ausência de legislação especial, regem-se pelo disposto na lei processual civil.
 
-###### Artigo 159.º — [...]
+Artigo 159.º
+
+[...]
 
 1 - [...].
 
@@ -1869,7 +2190,9 @@ a) [...]
 
 b) [...].
 
-###### Artigo 161.º — [...]
+Artigo 161.º
+
+[...]
 
 1 - Os efeitos de uma sentença transitada em julgado que tenha anulado ou declarado nulo um ato administrativo desfavorável, ou reconhecido a titularidade de uma situação jurídica favorável a uma ou várias pessoas, podem ser estendidos a outras pessoas que, quer tenham recorrido ou não à via contenciosa, tenham sido objeto de ato administrativo com idêntico conteúdo ou se encontrem colocadas na mesma situação jurídica, desde que, quanto a estas, não exista sentença transitada em julgado.
 
@@ -1887,13 +2210,17 @@ b) Não ter sido proferido número superior de sentenças, também transitadas e
 
 6 - [...].
 
-###### Artigo 162.º — [...]
+Artigo 162.º
+
+[...]
 
 1 - Se outro prazo não for por elas próprias fixado, as sentenças dos tribunais administrativos que condenem a Administração à prestação de factos ou à entrega de coisas devem ser espontaneamente executadas pela própria Administração, no máximo, no prazo procedimental de 90 dias, salvo ocorrência de causa legítima de inexecução, segundo o disposto no artigo seguinte.
 
 2 - [...].
 
-###### Artigo 163.º — [...]
+Artigo 163.º
+
+[...]
 
 1 - Só constituem causa legítima de inexecução a impossibilidade absoluta e o excecional prejuízo para o interesse público na execução da sentença.
 
@@ -1901,7 +2228,9 @@ b) Não ter sido proferido número superior de sentenças, também transitadas e
 
 3 - [...].
 
-###### Artigo 164.º — [...]
+Artigo 164.º
+
+[...]
 
 1 - Quando a Administração não dê execução espontânea à sentença no prazo estabelecido no n.º 1 do artigo 162.º, o interessado e o Ministério Público, quando tenha sido autor no processo ou estejam em causa os valores referidos no n.º 2 do artigo 9.º, podem pedir a respetiva execução ao tribunal que tenha proferido a sentença em primeiro grau de jurisdição.
 
@@ -1915,7 +2244,9 @@ b) Não ter sido proferido número superior de sentenças, também transitadas e
 
 6 - [...].
 
-###### Artigo 169.º — [...]
+Artigo 169.º
+
+[...]
 
 1 - [...].
 
@@ -1931,7 +2262,9 @@ b) Não ter sido proferido número superior de sentenças, também transitadas e
 
 7 - As importâncias que resultem da aplicação de sanção pecuniária compulsória constituem receita consignada à dotação anual, inscrita à ordem do Conselho Superior dos Tribunais Administrativos e Fiscais, a que se refere o n.º 3 do artigo 172.º
 
-###### Artigo 170.º — [...]
+Artigo 170.º
+
+[...]
 
 1 - Se outro prazo não for por elas próprias fixado, as sentenças dos tribunais administrativos que condenem a Administração ao pagamento de quantia certa devem ser espontaneamente executadas pela própria Administração, no máximo, no prazo procedimental de 30 dias.
 
@@ -1941,7 +2274,9 @@ a) [...]
 
 b) A execução do seu crédito, nos termos dos n.os 3 e seguintes do artigo 172.º
 
-###### Artigo 171.º — [...]
+Artigo 171.º
+
+[...]
 
 1 - [...].
 
@@ -1957,7 +2292,9 @@ b) A execução do seu crédito, nos termos dos n.os 3 e seguintes do artigo 172
 
 7 - Na ausência do acordo referido no número anterior, aplica-se o disposto nos n.os 3 a 9 do artigo 172.º
 
-###### Artigo 172.º — [...]
+Artigo 172.º
+
+[...]
 
 1 - [...].
 
@@ -1987,7 +2324,9 @@ b) Tratando-se de entidade pertencente à Administração indireta do Estado, in
 
 c) Ação de regresso a intentar no tribunal competente.
 
-###### Artigo 173.º — [...]
+Artigo 173.º
+
+[...]
 
 1 - Sem prejuízo do eventual poder de praticar novo ato administrativo, no respeito pelos limites ditados pela autoridade do caso julgado, a anulação de um ato administrativo constitui a Administração no dever de reconstituir a situação que existiria se o ato anulado não tivesse sido praticado, bem como de dar cumprimento aos deveres que não tenha cumprido com fundamento naquele ato, por referência à situação jurídica e de facto existente no momento em que deveria ter atuado.
 
@@ -1997,7 +2336,9 @@ c) Ação de regresso a intentar no tribunal competente.
 
 4 - Quando à reintegração ou recolocação de um trabalhador que tenha obtido a anulação de um ato administrativo se oponha a existência de terceiros com interesse legítimo na manutenção de situações incompatíveis, constituídas em seu favor por ato administrativo praticado há mais de um ano, o trabalhador que obteve a anulação tem direito a ser provido em lugar ou posto de trabalho vago e na categoria igual ou equivalente àquele em que deveria ter sido colocado, ou, não sendo isso imediatamente possível, em lugar ou posto de trabalho a criar no quadro ou mapa de pessoal da entidade onde vier a exercer funções.
 
-###### Artigo 175.º — [...]
+Artigo 175.º
+
+[...]
 
 1 - Salvo ocorrência de causa legítima de inexecução, o dever de executar deve ser integralmente cumprido, no máximo, no prazo procedimental de 90 dias.
 
@@ -2005,7 +2346,9 @@ c) Ação de regresso a intentar no tribunal competente.
 
 3 - Sem prejuízo do disposto no artigo 177.º, quando a execução da sentença consista no pagamento de uma quantia pecuniária, não é invocável a existência de causa legítima de inexecução e o pagamento deve ser realizado, no máximo, no prazo procedimental de 30 dias.
 
-###### Artigo 176.º — [...]
+Artigo 176.º
+
+[...]
 
 1 - Quando a Administração não dê execução espontânea à sentença no prazo estabelecido no n.º 1 do artigo anterior, o interessado e o Ministério Público, quando tenha sido autor no processo ou estejam em causa os valores referidos no n.º 2 do artigo 9.º, podem exigir o cumprimento do dever de execução perante o tribunal que tenha proferido a sentença em primeiro grau de jurisdição.
 
@@ -2021,7 +2364,9 @@ c) Ação de regresso a intentar no tribunal competente.
 
 7 - [...].
 
-###### Artigo 180.º — [...]
+Artigo 180.º
+
+[...]
 
 1 - [...]:
 
@@ -2037,11 +2382,15 @@ d) Questões respeitantes a relações jurídicas de emprego público, quando n�
 
 3 - A impugnação de atos administrativos relativos à formação de contratos pode ser objeto de arbitragem, mediante previsão no programa do procedimento do modo de constituição do tribunal arbitral e do regime processual a aplicar, que, quando esteja em causa a formação de algum dos contratos previstos no artigo 100.º, deve ser estabelecido em conformidade com o regime de urgência previsto neste Código para o contencioso pré-contratual.
 
-###### Artigo 182.º — [...]
+Artigo 182.º
+
+[...]
 
 O interessado que pretenda recorrer à arbitragem no âmbito dos litígios previstos no artigo 180.º pode exigir da Administração a celebração de compromisso arbitral, nos casos e termos previstos na lei.
 
-###### Artigo 184.º — [...]
+Artigo 184.º
+
+[...]
 
 1 - A outorga de compromisso arbitral por parte do Estado é objeto de despacho do membro do Governo responsável em razão da matéria, a proferir no prazo de 30 dias, contado desde a apresentação do requerimento do interessado.
 
@@ -2049,13 +2398,17 @@ O interessado que pretenda recorrer à arbitragem no âmbito dos litígios previ
 
 3 - [...].
 
-###### Artigo 185.º — Limites da arbitragem
+Artigo 185.º
+
+Limites da arbitragem
 
 1 - Não pode ser objeto de compromisso arbitral a responsabilidade civil por prejuízos decorrentes do exercício da função política e legislativa ou da função jurisdicional.
 
 2 - Nos litígios sobre questões de legalidade, os árbitros decidem estritamente segundo o direito constituído, não podendo pronunciar-se sobre a conveniência ou oportunidade da atuação administrativa, nem julgar segundo a equidade.
 
-###### Artigo 187.º — [...]
+Artigo 187.º
+
+[...]
 
 1 - O Estado pode, nos termos da lei, autorizar a instalação de centros de arbitragem institucionalizada destinados à composição de litígios passíveis de arbitragem nos termos do artigo 180.º, designadamente no âmbito das seguintes matérias:
 
@@ -2073,7 +2426,9 @@ e) [...].
 
 3 - [...].
 
-###### Artigo 191.º — [...]
+Artigo 191.º
+
+[...]
 
 A partir da data da entrada em vigor deste Código, as remissões que, em lei especial, são feitas para o regime do recurso contencioso de anulação de atos administrativos consideram-se feitas para o regime da ação administrativa.»
 
@@ -2091,7 +2446,9 @@ Dever de gestão processual
 
 3 - Das decisões referidas no n.º 1 não é admissível recurso, salvo se contenderem com os princípios da igualdade ou do contraditório, com a aquisição processual de factos ou com a admissibilidade de meios probatórios.
 
-###### Artigo 8.º-A — Personalidade e capacidade judiciárias
+Artigo 8.º-A
+
+Personalidade e capacidade judiciárias
 
 1 - A personalidade e a capacidade judiciárias consistem, respetivamente, na suscetibilidade de ser parte e na de estar por si em juízo.
 
@@ -2103,7 +2460,9 @@ Dever de gestão processual
 
 5 - A propositura indevida de ação contra um órgão administrativo não tem consequências processuais, nos termos do n.º 4 do artigo 10.º
 
-###### Artigo 45.º-A — Extensão de regime
+Artigo 45.º-A
+
+Extensão de regime
 
 1 - O disposto no artigo anterior é aplicável quando, tendo sido deduzido pedido respeitante à invalidade de contrato por violação das regras relativas ao respetivo procedimento de formação, o tribunal:
 
@@ -2115,7 +2474,9 @@ b) Proceda, segundo o disposto na lei substantiva, ao afastamento da invalidade 
 
 3 - Para efeitos do disposto no número anterior, a alteração superveniente só impede a procedência da ação de condenação à prática de ato devido quando se verifique que, mesmo que a pretensão do autor tivesse sido satisfeita no momento próprio, a referida alteração teria o alcance de lhe retirar a titularidade da correspondente situação jurídica de vantagem, constituindo-o no direito de ser indemnizado por esse facto.
 
-###### Artigo 77.º-A — Legitimidade
+Artigo 77.º-A
+
+Legitimidade
 
 1 - Os pedidos relativos à validade, total ou parcial, de contratos podem ser deduzidos:
 
@@ -2149,7 +2510,9 @@ d) Pelas pessoas e entidades nos termos do n.º 2 do artigo 9.º;
 
 e) Por quem tenha sido preterido no procedimento que precedeu a celebração do contrato.
 
-###### Artigo 77.º-B — Prazos
+Artigo 77.º-B
+
+Prazos
 
 1 - A invalidade dos contratos com objeto passível de ato administrativo pode ser arguida dentro dos prazos previstos para o ato com o mesmo objeto e idêntica regulamentação da situação concreta.
 
@@ -2157,7 +2520,9 @@ e) Por quem tenha sido preterido no procedimento que precedeu a celebração do 
 
 3 - A anulação de quaisquer contratos por falta e vícios da vontade pode ser sempre pedida no prazo de seis meses, contado desde a data da cessação do vício.
 
-###### Artigo 78.º-A — Contrainteressados
+Artigo 78.º-A
+
+Contrainteressados
 
 1 - Quando o autor não conheça, no todo ou em parte, a identidade e residência dos contrainteressados, pode requerer à Administração, previamente à propositura da ação, a passagem de certidão da qual constem aqueles elementos de identificação.
 
@@ -2165,7 +2530,9 @@ e) Por quem tenha sido preterido no procedimento que precedeu a celebração do 
 
 3 - O incumprimento pela entidade demandada da intimação referida no número anterior sem justificação adequada determina a imposição de sanção pecuniária compulsória, segundo o disposto no artigo 169.º, sem prejuízo da constituição em responsabilidade, nos termos do artigo 159.º
 
-###### Artigo 83.º-A — Reconvenção
+Artigo 83.º-A
+
+Reconvenção
 
 1 - Quando na contestação seja deduzida reconvenção, esta deve ser expressamente identificada e deduzida em separado do restante articulado, e conter:
 
@@ -2179,7 +2546,9 @@ c) Declaração do valor da reconvenção.
 
 3 - Quando o prosseguimento da reconvenção esteja dependente de qualquer ato a praticar pelo reconvinte, o reconvindo é absolvido da instância se, no prazo fixado, tal ato não se mostrar realizado.
 
-###### Artigo 85.º-A — Réplica e tréplica
+Artigo 85.º-A
+
+Réplica e tréplica
 
 1 - É admissível réplica para o autor responder, por forma articulada, às exceções deduzidas na contestação ou às exceções perentórias invocadas pelo Ministério Público no exercício dos poderes que lhe confere o artigo anterior, assim como para deduzir toda a defesa quanto à matéria da reconvenção, não podendo a esta opor nova reconvenção.
 
@@ -2197,7 +2566,9 @@ b) Expor os factos essenciais em que se baseiam as exceções deduzidas, especif
 
 6 - Só é admissível tréplica para o demandado responder, por forma articulada, às exceções deduzidas na réplica quanto à matéria da reconvenção, no prazo de 20 dias a contar da notificação da réplica.
 
-###### Artigo 87.º-A — Audiência prévia
+Artigo 87.º-A
+
+Audiência prévia
 
 1 - Concluídas as diligências resultantes do preceituado no artigo anterior, se a elas houver lugar, e sem prejuízo do disposto no artigo seguinte, é convocada audiência prévia, a realizar num dos 30 dias subsequentes, destinada a algum ou alguns dos fins seguintes:
 
@@ -2225,7 +2596,9 @@ g) Programar, após audição dos mandatários, os atos a realizar na audiência
 
 6 - Os requerimentos probatórios podem ser alterados na audiência prévia.
 
-###### Artigo 87.º-B — Não realização da audiência prévia
+Artigo 87.º-B
+
+Não realização da audiência prévia
 
 1 - A audiência prévia não se realiza quando seja claro que o processo deve findar no despacho saneador pela procedência de exceção dilatória.
 
@@ -2233,7 +2606,9 @@ g) Programar, após audição dos mandatários, os atos a realizar na audiência
 
 3 - Notificadas as partes, se alguma delas pretender reclamar dos despachos proferidos para os fins previstos nas alíneas e), f) e g) do n.º 1 do artigo anterior, pode requerer, em 10 dias, a realização de audiência prévia, que, neste caso, deve realizar-se num dos 20 dias seguintes e destinar-se a apreciar as questões suscitadas e, acessoriamente, a fazer uso do disposto na alínea c) do n.º 1 do artigo anterior, podendo haver alteração dos requerimentos probatórios.
 
-###### Artigo 87.º-C — Tentativa de conciliação e mediação
+Artigo 87.º-C
+
+Tentativa de conciliação e mediação
 
 1 - Quando a causa couber no âmbito dos poderes de disposição das partes, pode ter lugar, em qualquer estado do processo, tentativa de conciliação ou mediação, desde que as partes conjuntamente o requeiram ou o juiz a considere oportuna, mas as partes não podem ser convocadas exclusivamente para esse fim mais do que uma vez.
 
@@ -2245,7 +2620,9 @@ g) Programar, após audição dos mandatários, os atos a realizar na audiência
 
 5 - A mediação processa-se nos termos definidos em diploma próprio.
 
-###### Artigo 89.º-A — Despacho de prova e aditamento ou alteração do rol de testemunhas
+Artigo 89.º-A
+
+Despacho de prova e aditamento ou alteração do rol de testemunhas
 
 1 - Proferido despacho saneador, quando a ação deva prosseguir, o juiz profere despacho destinado a identificar o objeto do litígio e a enunciar os temas da prova.
 
@@ -2259,11 +2636,15 @@ g) Programar, após audição dos mandatários, os atos a realizar na audiência
 
 6 - Incumbe às partes a apresentação das testemunhas indicadas em consequência do aditamento ou da alteração ao rol previsto no número anterior.
 
-###### Artigo 91.º-A — Alegações escritas
+Artigo 91.º-A
+
+Alegações escritas
 
 Quando sejam realizadas diligências de prova, sem que haja lugar à realização de audiência final, as partes, finda a instrução, são notificadas para apresentarem alegações escritas pelo prazo simultâneo de 20 dias.
 
-###### Artigo 103.º-A — Efeito suspensivo automático
+Artigo 103.º-A
+
+Efeito suspensivo automático
 
 1 - A impugnação de atos de adjudicação no âmbito do contencioso pré-contratual urgente faz suspender automaticamente os efeitos do ato impugnado ou a execução do contrato, se este já tiver sido celebrado.
 
@@ -2273,7 +2654,9 @@ Quando sejam realizadas diligências de prova, sem que haja lugar à realizaçã
 
 4 - O efeito suspensivo é levantado quando, ponderados os interesses suscetíveis de serem lesados, os danos que resultariam da manutenção do efeito suspensivo se mostrem superiores aos que podem resultar do seu levantamento.
 
-###### Artigo 103.º-B — Adoção de medidas provisórias
+Artigo 103.º-B
+
+Adoção de medidas provisórias
 
 1 - Nos processos que não tenham por objeto a impugnação de atos de adjudicação, pode ser requerida ao juiz a adoção de medidas provisórias, dirigidas a prevenir o risco de, no momento em que a sentença venha a ser produzida, se ter constituído uma situação de facto consumado ou já não ser possível retomar o procedimento pré-contratual para determinar quem nele seria escolhido como adjudicatário.
 
@@ -2281,7 +2664,9 @@ Quando sejam realizadas diligências de prova, sem que haja lugar à realizaçã
 
 3 - Nas situações previstas nos números anteriores, a medida provisória é recusada quando os danos que resultariam da sua adoção se mostrem superiores aos que podem resultar da sua não adoção, sem que tal lesão possa ser evitada ou atenuada pela adoção de outras medidas.
 
-###### Artigo 110.º-A — Substituição da petição e decretamento provisório de providência cautelar
+Artigo 110.º-A
+
+Substituição da petição e decretamento provisório de providência cautelar
 
 1 - Quando verifique que as circunstâncias do caso não são de molde a justificar o decretamento de uma intimação, por se bastarem com a adoção de uma providência cautelar, o juiz, no despacho liminar, fixa prazo para o autor substituir a petição, para o efeito de requerer a adoção de providência cautelar, seguindo-se, se a petição for substituída, os termos do processo cautelar.
 
@@ -2289,11 +2674,15 @@ Quando sejam realizadas diligências de prova, sem que haja lugar à realizaçã
 
 3 - Na hipótese prevista no número anterior, o decretamento provisório caduca se, no prazo de cinco dias, o autor não tiver requerido a adoção de providência cautelar, segundo o disposto no n.º 1.
 
-###### Artigo 185.º-A — Impugnação das decisões arbitrais
+Artigo 185.º-A
+
+Impugnação das decisões arbitrais
 
 As decisões proferidas pelo tribunal arbitral podem ser impugnadas nos termos e com os fundamentos estabelecidos na Lei de Arbitragem Voluntária.
 
-###### Artigo 185.º-B — Publicidade das decisões arbitrais
+Artigo 185.º-B
+
+Publicidade das decisões arbitrais
 
 As decisões proferidas por tribunais arbitrais transitadas em julgado são obrigatoriamente publicadas por via informática, em base de dados organizada pelo Ministério da Justiça.»
 
@@ -2309,11 +2698,15 @@ Os artigos 1.º, 2.º, 4.º, 9.º, 13.º, 14.º, 17.º, 24.º, 29.º, 40.º, 41.
 
 2 - Nos feitos submetidos a julgamento, os tribunais da jurisdição administrativa e fiscal não podem aplicar normas que infrinjam o disposto na Constituição ou os princípios nela consignados.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Os tribunais da jurisdição administrativa e fiscal são independentes e apenas estão sujeitos à lei e ao Direito.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Compete aos tribunais da jurisdição administrativa e fiscal a apreciação de litígios que tenham por objeto questões relativas a:
 
@@ -2361,7 +2754,9 @@ c) A apreciação de atos materialmente administrativos praticados pelo Conselho
 
 d) A fiscalização de atos materialmente administrativos praticados pelo Presidente do Supremo Tribunal de Justiça.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -2377,19 +2772,25 @@ d) A fiscalização de atos materialmente administrativos praticados pelo Presid
 
 7 - Mediante decreto-lei, podem ser criadas secções especializadas ou tribunais especializados.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O Supremo Tribunal Administrativo tem um presidente, que é coadjuvado por dois vice-presidentes, eleitos de modo e por períodos idênticos aos previstos para aquele.
 
 2 - Um vice-presidente é eleito de entre e pelos juízes da Secção de Contencioso Administrativo, sendo o outro vice-presidente eleito de entre e pelos juízes da Secção de Contencioso Tributário.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Cada secção do Supremo Tribunal Administrativo é composta pelo Presidente do Tribunal, pelo respetivo vice-presidente e pelos restantes juízes para ela nomeados.
 
 2 - [...].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -2403,7 +2804,9 @@ d) A fiscalização de atos materialmente administrativos praticados pelo Presid
 
 6 - Nos processos da competência do Pleno da Secção, dos despachos do relator que versem apenas sobre questões processuais e não ponham termo ao processo cabe reclamação para uma formação de cinco juízes, designados anualmente de entre os mais antigos pelo Presidente do Tribunal.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]:
 
@@ -2445,11 +2848,15 @@ i) [...].
 
 2 - [...].
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 Compete ao plenário do Supremo Tribunal Administrativo conhecer dos conflitos de competência entre tribunais administrativos de círculo e tribunais tributários ou entre as Secções de Contencioso Administrativo e de Contencioso Tributário.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - Exceto nos casos em que a lei processual administrativa preveja o julgamento em formação alargada, os tribunais administrativos de círculo funcionam apenas com juiz singular, a cada juiz competindo a decisão, de facto e de direito, dos processos que lhe sejam distribuídos.
 
@@ -2457,13 +2864,17 @@ Compete ao plenário do Supremo Tribunal Administrativo conhecer dos conflitos d
 
 3 - [Revogado].
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...].
 
 2 - O procedimento previsto no número anterior tem obrigatoriamente lugar quando esteja em causa uma situação de seleção de processos com andamento prioritário, nos termos previstos na lei de processo.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Os presidentes dos tribunais administrativos de círculo são nomeados pelo Conselho Superior dos Tribunais Administrativos e Fiscais para um mandato de três anos.
 
@@ -2497,7 +2908,9 @@ i) Qualidade, inovação e modernização.
 
 5 - O curso de formação a que se refere o número anterior é ministrado pelo Centro de Estudos Judiciários com a colaboração de outras entidades formadoras, nos termos definidos por portaria do membro do Governo responsável pela área da justiça, que aprova o respetivo regulamento.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - Compete aos tribunais administrativos de círculo conhecer, em 1.ª instância, de todos os processos do âmbito da jurisdição administrativa e fiscal que incidam sobre matéria administrativa e cuja competência, em 1.º grau de jurisdição, não esteja reservada aos tribunais superiores.
 
@@ -2505,7 +2918,9 @@ i) Qualidade, inovação e modernização.
 
 3 - Os agentes de execução desempenham as suas funções nas execuções que sejam da competência dos tribunais administrativos.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - [...].
 
@@ -2513,7 +2928,9 @@ i) Qualidade, inovação e modernização.
 
 3 - O procedimento previsto no número anterior tem obrigatoriamente lugar quando esteja em causa uma situação de processos com andamento prioritário, nos termos previstos na lei de processo.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - É aplicável, quanto à nomeação e competências dos presidentes dos tribunais tributários, o disposto no presente Estatuto para os presidentes dos tribunais administrativos de círculo.
 
@@ -2523,7 +2940,9 @@ i) Qualidade, inovação e modernização.
 
 4 - [Revogado].
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...].
 
@@ -2531,11 +2950,15 @@ i) Qualidade, inovação e modernização.
 
 3 - Os agentes de execução desempenham as suas funções nas execuções que sejam da competência dos tribunais tributários, sem prejuízo das competências próprias dos órgãos da administração tributária.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 Compete ao Ministério Público representar o Estado, defender a legalidade democrática e promover a realização do interesse público, exercendo, para o efeito, os poderes que a lei lhe confere.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - [...]:
 
@@ -2549,7 +2972,9 @@ c) Nos tribunais administrativos de círculo e nos tribunais tributários, por p
 
 3 - Na colocação e provimento dos magistrados nesta jurisdição, deve ser ponderada a formação especializada, de acordo com o disposto nos n.os 1 e 2 do artigo 136.º do Estatuto do Ministério Público.
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - [...].
 
@@ -2709,7 +3134,9 @@ Os artigos 85.º, 95.º e 112.º do [Decreto-Lei n.º 555/99](https://diariodare
 
 9 - [...].
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - [...].
 
@@ -2717,7 +3144,9 @@ Os artigos 85.º, 95.º e 112.º do [Decreto-Lei n.º 555/99](https://diariodare
 
 3 - O mandado previsto no número anterior é requerido pelo presidente da câmara municipal junto dos tribunais administrativos e segue os termos previstos no código do processo nos tribunais administrativos para os processos urgentes.
 
-###### Artigo 112.º — [...]
+Artigo 112.º
+
+[...]
 
 1 - No caso previsto na alínea a) do artigo anterior, o interessado pode deduzir junto dos tribunais administrativos um pedido de intimação dirigido à interpelação da entidade competente para o cumprimento do dever de decisão.
 
@@ -2751,7 +3180,9 @@ Os artigos 12.º, 16.º e 19.º da [Lei n.º 83/95](https://diariodarepublica.pt
 
 2 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - No âmbito de ações populares, o Ministério Público é titular da legitimidade ativa e dos poderes de representação e de intervenção processual que lhe são conferidos por lei, podendo substituir-se ao autor em caso de desistência da lide, bem como de transação ou de comportamentos lesivos dos interesses em causa.
 
@@ -2759,7 +3190,9 @@ Os artigos 12.º, 16.º e 19.º da [Lei n.º 83/95](https://diariodarepublica.pt
 
 3 - [Revogado].
 
-###### Artigo 19.º — Decisões transitadas em julgado
+Artigo 19.º
+
+Decisões transitadas em julgado
 
 1 - Salvo quando julgadas improcedentes por insuficiência de provas ou quando o julgador deva decidir por forma diversa fundado em motivações próprias do caso concreto, os efeitos das sentenças transitadas em julgado proferidas no âmbito de processo que tenham por objeto a defesa de interesses individuais homogéneos abrangem os titulares dos direitos ou interesses que não tiverem exercido o direito de se autoexcluírem da representação, nos termos do artigo 16.º
 
@@ -2815,11 +3248,15 @@ e) Expor à CADA dúvidas que tenha sobre a decisão a proferir, a fim de esta e
 
 4 - [...].
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 Quando não seja dada integral satisfação ao pedido de reutilização de acordo com o disposto na presente secção, o interessado pode apresentar queixa à CADA ou requerer ao tribunal administrativo competente a intimação da entidade requerida, nos termos previstos na presente lei e no Código de Processo nos Tribunais Administrativos.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...].
 
@@ -2931,21 +3368,23 @@ e) O n.º 3 do artigo 14.º da[Lei n.º 19/2006](https://diariodarepublica.pt/dr
 
 Visto e aprovado em Conselho de Ministros de 27 de agosto de 2015. - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Paula Maria von Hafe Teixeira da Cruz - Leonardo Bandeira de Melo Mathias - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça - Fernando Serra Leal da Costa.
 
-**Promulgado em 25 de setembro de 2015.**
+Promulgado em 25 de setembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de setembro de 2015.**
+Referendado em 28 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — Republicação do Código de Processo nos Tribunais Administrativos
 
 (a que se refere o n.º 1 do artigo 14.º)
 
-## TÍTULO I — Parte geral
+## TÍTULO I
+
+## Parte geral
 
 ### CAPÍTULO I — Disposições fundamentais
 
@@ -5863,7 +6302,9 @@ t) Exercer as demais funções que lhe sejam atribuídas por lei.
 
 2 - O Presidente pode delegar nos vice-presidentes a competência para a prática de determinados atos ou sobre certas matérias e para presidir às sessões do pleno da secção e no secretário do Tribunal a competência para a correção dos processos.
 
-#### SECÇÃO II — Secção de Contencioso Administrativo
+#### SECÇÃO II
+
+#### Secção de Contencioso Administrativo
 
 ###### Artigo 24.º — Competência da Secção de Contencioso Administrativo
 
@@ -5917,7 +6358,9 @@ b) Dos recursos para uniformização de jurisprudência.
 
 2 - Compete ainda ao pleno da Secção de Contencioso Administrativo do Supremo Tribunal Administrativo pronunciar-se, nos termos estabelecidos na lei de processo, relativamente ao sentido em que deve ser resolvida, por um tribunal administrativo de círculo, questão de direito nova que suscite dificuldades sérias e se possa vir a colocar noutros litígios.
 
-#### SECÇÃO III — Secção de Contencioso Tributário
+#### SECÇÃO III
+
+#### Secção de Contencioso Tributário
 
 ###### Artigo 26.º — Competência da Secção de Contencioso Tributário
 
@@ -6061,7 +6504,9 @@ t) Exercer as demais funções que lhe sejam atribuídas por lei.
 
 3 - O presidente pode delegar nos vice-presidentes a competência para a prática de determinados atos ou sobre certas matérias e no secretário do tribunal a competência para a correção dos processos.
 
-#### SECÇÃO II — Secção de Contencioso Administrativo
+#### SECÇÃO II
+
+#### Secção de Contencioso Administrativo
 
 ###### Artigo 37.º — Competência da Secção de Contencioso Administrativo
 
@@ -6075,7 +6520,9 @@ c) Das ações de regresso, fundadas em responsabilidade por danos resultantes d
 
 d) Dos demais processos que por lei sejam submetidos ao seu julgamento.
 
-#### SECÇÃO III — Secção de Contencioso Tributário
+#### SECÇÃO III
+
+#### Secção de Contencioso Tributário
 
 ###### Artigo 38.º — Competência da Secção de Contencioso Tributário
 

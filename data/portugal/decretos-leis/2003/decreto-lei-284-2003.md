@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/11/259a00/75157541.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/284/2003/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-2003-468987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:40:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b53c064ea0c029517853e4b2aaf2169742c6bdc936cf6f624d30e7c31c819739
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f72c9b9851a414a9cca6c62c560ee4ee5c4751faa59dd91ed8b9828b02dabc0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:40:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,10 +70,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Condições de Higiene e Segurança no Trabalho
 - Embarcação Estrangeira
 - Inspecção de Navios
 - Poluição Marinha
-- Condições de Higiene e Segurança no Trabalho
 - Regulamento de Inspecção de Navios Estrangeiros
 - Segurança Marítima
 relationships:
@@ -81,6 +81,13 @@ relationships:
   target: pt:dre:553454:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518467:por
+  label: "Alterados os arts. 14º, 19º-A e 24º e revogados os nºs. 3, 4 e 5 do art. 5º do Regulamento de Inspecção de Navios\
+    \ Estrangeiros, aprovado pelo Dec Lei 195/98 de 10-Jul, alterado e republicado pelo presente diploma, pelo DEC LEI.58/2007.13.03.2007.MOPTC,\
+    \ DR.IS [51] de 13.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2007-518467
+  date: '2007-03-13'
 - type: cites
   target: celex:31993L0075
   label: null
@@ -117,16 +124,21 @@ relationships:
   target: celex:32002L0084
   label: null
   source: http://data.europa.eu/eli/dir/2002/84/oj
+- type: repealed_by
+  target: pt:dre:553454:por
+  label: "Revogado pelo DEC LEI.61/2012.14.03.2012.MAMAOT, DR.IS [53] de 14.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2012-553454
+  date: '2012-03-14'
 article_structure:
-  article_count: 59
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 40
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:40:38Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +181,9 @@ Os artigos 2.º, 3.º, 6.º, 7.º, 9.º, 12.º, 13.º, 14.º, 15.º, 18.º, 19.�
 
 «CAPÍTULO I
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Para efeitos do presente Regulamento, entende-se por:
 
@@ -191,7 +205,9 @@ Para efeitos do presente Regulamento, entende-se por:
 
 9) ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -213,11 +229,15 @@ h) A Convenção Internacional sobre a Responsabilidade Civil por Prejuízos Dev
 
 2 - Além dos textos originais das convenções aplicáveis, são também considerados os protocolos, as alterações efectuadas e os respectivos códigos com carácter vinculativo e em vigor.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 O IPTM deve realizar, anualmente, um número total de inspecções correspondente a, pelo menos, 25% do número médio anual de navios distintos que tenham escalado os portos nacionais, calculado com base nos três últimos anos civis.
 
-### CAPÍTULO II — Artigo 7.º
+CAPÍTULO II
+
+Artigo 7.º
 
 [...]
 
@@ -243,13 +263,17 @@ d) O navio não esteja abrangido pelo n.º 1.
 
 5 - O disposto no número anterior não se aplica aos controlos operacionais previstos especificamente nas convenções.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - As administrações portuárias, ou outras entidades com competência em matéria de jurisdição portuária, devem disponibilizar ao IPTM e às capitanias dos portos a identificação dos navios estrangeiros abrangidos pelo presente Regulamento, que inclua o respectivo número OMI e que entrem em todos os portos nacionais sob a sua jurisdição, sob a forma de acesso remoto a bases de dados com o movimento dos navios.
 
 2 - As bases de dados devem ser mantidas permanentemente actualizadas.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O IPTM deve realizar obrigatoriamente uma inspecção alargada aos navios pertencentes aos tipos enumerados na parte A do anexo VII e cujo factor de selecção seja superior ou igual a 7.
 
@@ -267,13 +291,17 @@ d) O navio não esteja abrangido pelo n.º 1.
 
 8 - As inspecções alargadas devem ser efectuadas segundo o procedimento previsto na parte C do anexo VII.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - No final da inspecção, da inspecção aprofundada ou da inspecção alargada, o inspector deve entregar ao comandante do navio um documento que contenha, pelo menos, os elementos constantes do anexo VIII, no qual especificará os resultados da inspecção, os elementos relativos às decisões tomadas e as medidas de correcção a tomar pelo comandante, proprietário ou armador.
 
 2 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O IPTM deve certificar-se de que todas as anomalias confirmadas ou detectadas pelas inspecções referidas nos artigos 10.º, 11.º e 12.º já foram ou são corrigidas em conformidade com o disposto nas convenções aplicáveis referidas no artigo 3.º
 
@@ -285,7 +313,9 @@ d) O navio não esteja abrangido pelo n.º 1.
 
 5 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - A detenção ou a decisão de interrupção da operação, referidas nos artigos 14.º e 14.º-A, devem ser mantidas até que a causa do perigo tenha sido eliminada e o capitão do porto decida, sob parecer vinculativo do IPTM, que o navio pode, dentro de determinadas condições, sair para o mar ou retomar a operação sem riscos para outros navios e sem constituir ameaça desproporcionada para o meio marinho.
 
@@ -297,7 +327,9 @@ d) O navio não esteja abrangido pelo n.º 1.
 
 5 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -307,7 +339,9 @@ d) O navio não esteja abrangido pelo n.º 1.
 
 4 - A notificação à autoridade competente do Estado do porto de destino deve incluir cópia do relatório da inspecção e a data prevista de chegada do navio a esse porto, devendo ser utilizado o sistema SIRENAC para a transmissão de informações adicionais.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Aos navios, detidos ao abrigo dos artigos 14.º, 14.º-A e 15.º, que saiam para o mar sem cumprir as condições estabelecidas pelas autoridades do porto competentes em matéria de inspecção ou que recusem cumprir os requisitos aplicáveis das convenções, não comparecendo no estaleiro de reparação naval indicado ou, comparecendo, se recusem a efectuar as necessárias reparações, deve ser recusado o acesso ou a permanência em portos nacionais.
 
@@ -321,9 +355,13 @@ b) Arvorarem pavilhão de um Estado considerado de «muito alto risco» ou «alt
 
 4 - A decisão de recusa de acesso e permanência em portos nacionais é tomada pelo capitão do porto, quer por decisão própria no âmbito das suas competências, quer por indicação nesse sentido que lhe seja dada pelo IPTM.
 
-### CAPÍTULO III — Disposições finais e regime sancionatório
+CAPÍTULO III
 
-###### Artigo 24.º — [...]
+Disposições finais e regime sancionatório
+
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -337,17 +375,23 @@ b) Arvorarem pavilhão de um Estado considerado de «muito alto risco» ou «alt
 
 6 - As informações referidas no n.º 2 são as especificadas no anexo n.º 4 ao MA, constante do anexo X, e as necessárias para dar cumprimento ao disposto no artigo 17.º
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - O IPTM deve fornecer periodicamente à Comissão os elementos constantes do anexo XI.
 
 2 - As administrações portuárias ou outras entidades com competências em matéria de jurisdição portuária devem disponibilizar ao IPTM, em formato electrónico e com a antecedência conveniente, os dados necessários ao cumprimento das obrigações impostas pelo anexo XI.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 O IPTM, a DGAM - Direcção-Geral da Autoridade Marítima, as administrações portuárias e outras entidades com competência em matéria de jurisdição portuária devem celebrar os protocolos necessários ao estabelecimento de práticas e procedimentos administrativos que permitam executar com eficácia o disposto no presente Regulamento.
 
-## ANEXO I — Navios com arqueação bruta inferior a 500
+ANEXO I
+
+Navios com arqueação bruta inferior a 500
 
 (anexo n.º 1 ao MA)
 
@@ -387,7 +431,9 @@ d) Meios para a recolha, armazenagem e eliminação de lixos.
 
 No caso de as anomalias detectadas representarem um perigo manifesto para a segurança, para a saúde ou para o ambiente, o inspector deve agir em conformidade com os factores mencionados no n.º 1 e, se necessário, decidir da necessidade da detenção do navio, de modo a assegurar que a anomalia é corrigida ou o navio, no caso de ter autorização para prosseguir viagem, não apresenta perigo manifesto para a segurança, a higiene ou o meio ambiente.
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 I - [...]
 
@@ -437,7 +483,9 @@ A um factor de selecção maior corresponde uma prioridade mais elevada. O facto
 
 O factor global de selecção não terá em conta o n.º 10 para efeitos da aplicação do disposto no artigo 12.º
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 1 - O cartão de identidade dos inspectores deve conter as seguintes informações:
 
@@ -461,7 +509,9 @@ f) ...
 
 5 - ...
 
-## ANEXO IV — [...]
+ANEXO IV
+
+[...]
 
 1 - ...
 
@@ -535,7 +585,9 @@ f) ...
 
 35 - Certificado de seguro ou qualquer outra garantia financeira de responsabilidade civil para o risco de poluição pelo petróleo (Convenção Internacional sobre a Responsabilidade Civil pelos Prejuízos Devidos à Poluição por Hidrocarbonetos, 1992).
 
-## ANEXO VI — [...]
+ANEXO VI
+
+[...]
 
 1 - Navios identificados nas partes I e II, n.os 3, 4, 5, alíneas b) e c), e 8, do anexo II.
 
@@ -561,7 +613,9 @@ f) ...
 
 12 - ...
 
-## ANEXO VII — [...]
+ANEXO VII
+
+[...]
 
 A - [...]
 
@@ -699,7 +753,9 @@ Demonstração do conhecimento do plano de limitação de avarias por parte dos 
 
 Se se revelar necessário, a inspecção pode continuar enquanto o navio está em trânsito para ou do porto de um Estado membro com o consentimento do comandante ou do armador. Os inspectores não devem entravar o funcionamento do navio nem provocar situações que, na opinião do comandante, possam pôr em perigo a segurança dos passageiros, da tripulação e do navio.
 
-## ANEXO IX — [...]
+ANEXO IX
+
+[...]
 
 [...]
 
@@ -803,7 +859,9 @@ Se se revelar necessário, a inspecção pode continuar enquanto o navio está e
 
 3.10 - ...
 
-## ANEXO XII — [...]
+ANEXO XII
+
+[...]
 
 I - ...
 
@@ -889,7 +947,9 @@ Impossibilidade de inspecção
 
 3 - Em cada ano civil, as inspecções não realizadas não devem exceder 5% do número médio anual de navios elegíveis, para as inspecções a que se refere o n.º 1, que tenham feito escala nos portos nacionais, número médio esse calculado com base nos três últimos anos civis.
 
-###### Artigo 19.º-A — Revogação da decisão de recusa de acesso e de permanência
+Artigo 19.º-A
+
+Revogação da decisão de recusa de acesso e de permanência
 
 1 - O proprietário ou o operador do navio que pretenda a revogação da decisão de recusa de acesso e permanência deve apresentar um pedido formal ao IPTM, acompanhado de uma declaração da administração do Estado de bandeira comprovativa de que o navio satisfaz plenamente as disposições aplicáveis das convenções internacionais e, se necessário, de uma declaração da sociedade classificadora do navio comprovativa de que o mesmo cumpre as suas normas de classificação.
 
@@ -901,7 +961,9 @@ Impossibilidade de inspecção
 
 5 - As despesas resultantes da reinspecção são suportadas pelo proprietário ou operador do navio
 
-###### Artigo 19.º-B — Informações sobre a recusa de acesso e de permanência
+Artigo 19.º-B
+
+Informações sobre a recusa de acesso e de permanência
 
 1 - No caso de se verificarem as condições descritas nos n.os 1 e 2 do artigo 19.º, o capitão do porto deve informar, por escrito, o IPTM, o comandante, o proprietário ou o operador do navio e o cônsul do Estado de bandeira da decisão de recusa de acesso e permanência em portos nacionais.
 
@@ -915,7 +977,9 @@ Impossibilidade de inspecção
 
 6 - O IPTM deve colocar no sistema SIRENAC as informações relativas aos navios que foram objecto de decisão de recusa de acesso e permanência nos portos nacionais e assegurar a sua publicação em conformidade com o disposto no artigo 17.º e no anexo XII.
 
-###### Artigo 28.º — Contra-ordenações
+Artigo 28.º
+
+Contra-ordenações
 
 1 - Sem prejuízo de outras sanções que se mostrem aplicáveis, constituem contra-ordenação as seguintes infracções:
 
@@ -941,17 +1005,23 @@ a) As contra-ordenações previstas no n.º 1 são puníveis com coima de (euro)
 
 b) As contra-ordenações previstas no n.º 2 são puníveis com coima de (euro) 250 a (euro) 750, no caso de pessoas singulares, e de (euro) 1000 a (euro) 2000, no caso de pessoas colectivas.
 
-###### Artigo 29.º — Processamento e aplicação de coimas
+Artigo 29.º
+
+Processamento e aplicação de coimas
 
 1 - O processamento das contra-ordenações e a aplicação das respectivas coimas são da competência do capitão do porto, na sua área de jurisdição.
 
 2 - Às contra-ordenações previstas nos n.os 1 e 2 do artigo 28.º é aplicável, subsidiariamente, o regime geral das contra-ordenações previsto no Decreto-Lei n.º 433/82, de 27 de Outubro, com a redacção que lhe foi dada pelos Decretos-Leis n.os 356/89, de 17 de Outubro, e 244/95, de 14 de Setembro.
 
-###### Artigo 30.º — Medida cautelar
+Artigo 30.º
+
+Medida cautelar
 
 Quando a gravidade da infracção o justifique, o capitão do porto pode ordenar, como medida cautelar, a exigência de depósito de uma caução cujo montante corresponda ao limite máximo da coima aplicável.
 
-###### Artigo 31.º — Destino do produto das coimas
+Artigo 31.º
+
+Destino do produto das coimas
 
 O produto das coimas previstas neste diploma reverte:
 
@@ -961,7 +1031,9 @@ b) 30% para a entidade que aplicar a coima;
 
 c) 60% para o Estado.
 
-## ANEXO VIII — Relatório de inspecção
+ANEXO VIII
+
+Relatório de inspecção
 
 O relatório de inspecção deve incluir, pelo menos, os seguintes elementos:
 
@@ -1025,7 +1097,9 @@ III - Informações suplementares em caso de detenção:
 
 6) Medidas tomadas.
 
-## ANEXO X — Intercâmbio de informações
+ANEXO X
+
+Intercâmbio de informações
 
 (anexo n.º 4 ao MA)
 
@@ -1047,7 +1121,9 @@ Para tal, as autoridades competentes comprometem-se a fornecer ao Département d
 
 8 - Com o consentimento da administração em causa, o DSI enviará à OMI, em seu nome, relatórios sobre as detenções, nos termos do disposto nas Convenções SOLAS 74, MARPOL 73/78, Linhas de Carga 66, STCW 78, assim como à OIT, ao abrigo da Convenção OIT 147.
 
-## ANEXO XI — Dados a fornecer, nos termos do disposto no artigo 26.º, para controlo de aplicação
+ANEXO XI
+
+Dados a fornecer, nos termos do disposto no artigo 26.º, para controlo de aplicação
 
 1 - O IPTM deve enviar à Comissão, até 1 de Abril de cada ano, os seguintes dados relativos ao ano transacto:
 
@@ -1057,7 +1133,7 @@ b) Número total de navios distintos entrados nos respectivos portos, a nível n
 
 2 - Os dados referidos na alínea a) do número anterior devem ser transmitidos à Comissão, segundo o seguinte modelo:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/11/259a00/75157541.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/11/259a00/75157541.pdf)](https://files.diariodarepublica.pt/1s/2003/11/259a00/75157541.pdf)
 
 3 - Os referidos dados devem ser fornecidos a nível nacional e para cada um dos portos portugueses. Para efeitos do presente anexo, deve entender-se por porto um porto específico, bem como a zona geográfica coberta por um inspector ou uma equipa de inspectores, zona essa que pode incluir vários portos, se adequado. O mesmo inspector pode ser chamado a intervir em mais de um porto/zona geográfica.
 
@@ -1069,7 +1145,9 @@ b) Fornecer ao SIRENAC os números OMI de todos os navios, com excepção dos fe
 
 5 - O IPTM deve ainda enviar à Comissão uma lista dos serviços regulares de ferry-boats referidos nas alíneas a) e b) do número anterior, num prazo não superior a seis meses, a partir de 22 de Julho de 2003, e, posteriormente, sempre que se verifique uma alteração nesses serviços.
 
-## ANEXO XIII — Requisitos internacionais e comunitários relativos aos sistemas de registo dos dados de viagem
+ANEXO XIII
+
+Requisitos internacionais e comunitários relativos aos sistemas de registo dos dados de viagem
 
 1 - Os navios das categorias abaixo indicadas devem estar equipados com um sistema de registo dos dados de viagem que cumpra os padrões de exigência de desempenho consignados na Resolução A.861(20) da OMI e seja conforme às normas de ensaio estabelecidas pela norma n.º 61996 da Comissão Electrónica Internacional (CEI), sempre que escalem portos nacionais:
 
@@ -1097,15 +1175,15 @@ São revogados os anexos VIII/1, VIII/2 e VIII/3, X/1, XI/1 e XI/2 do RINE.
 
 Visto e aprovado em Conselho de Ministros de 21 de Agosto de 2003. - José Manuel Durão Barroso - Norberto Emílio Sequeira da Rosa - Paulo Sacadura Cabral Portas - António Manuel Lourenço dos Santos - José Luís Mota de Campos - António Pedro de Nobre Carmona Rodrigues.
 
-**Promulgado em 6 de Outubro de 2003.**
+Promulgado em 6 de Outubro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Outubro de 2003.**
+Referendado em 10 de Outubro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 REGULAMENTO DE INSPECÇÃO DE NAVIOS ESTRANGEIROS
 
@@ -2145,7 +2223,7 @@ No entanto, as deficiências nos domínios abrangidos pela Convenção STCW de 1
 
 3.7 - Áreas abrangidas pelo anexo II à Convenção MARPOL (remissões entre parênteses):
 
-1) Ausência do manual P&D;
+1) Ausência do manual P&D
 
 2) Carregamento não classificado em categorias [3(4)];
 
@@ -2215,7 +2293,7 @@ b) Número total de navios distintos entrados nos respectivos portos, a nível n
 
 2 - Os dados referidos na alínea a) do número anterior devem ser transmitidos à Comissão, segundo o seguinte modelo:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/11/259a00/75157541.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/11/259a00/75157541.pdf)](https://files.diariodarepublica.pt/1s/2003/11/259a00/75157541.pdf)
 
 3 - Os referidos dados devem ser fornecidos a nível nacional e para cada um dos portos portugueses. Para efeitos do presente anexo, deve entender-se por porto um porto específico, bem como a zona geográfica coberta por um inspector ou uma equipa de inspectores, zona essa que pode incluir vários portos, se adequado. O mesmo inspector pode ser chamado a intervir em mais do que um porto/zona geográfica.
 

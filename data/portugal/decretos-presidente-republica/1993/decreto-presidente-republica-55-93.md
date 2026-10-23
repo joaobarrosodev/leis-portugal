@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/55/1993/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/55-1993-682381
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T04:15:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfe360b8e34cdf7e8a0661395554d85e154330315cb7a98dd509d834199cdfe5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a524f30ea562e296556f4d500b0dfa32fe03d0ebfef5f42647b57d369ffa8ca8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:15:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,30 +69,40 @@ reuse:
 subjects:
 - Acordo de Schengen
 - Convenção
-- Portugal
 - Cooperação Policial
 - Fronteiras
 - Livre Circulação de Pessoas
+- Portugal
 - Sistema de Informação Schengen
 relationships:
 - type: amended_by
   target: pt:dre:158378:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:158378:por
+  label: "Ratificado o Tratado de Amesterdão (aprovado para ratificação pela Res 7/99 de 19-Fev) que altera o Protocolo que\
+    \ integra o Acervo de Schengen, pelo DEC.65/99.1999.02.19.PR DR.IS-A [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/65-1999-158378
+  date: '1999-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/35/1993/11/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/35/1993/11/25/p/dre
+- type: cites
+  target: pt:dre:682379:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:15:18Z'
   warnings: []
   errors: []
 ---
@@ -101,16 +111,16 @@ validation:
 
 de 25 de Novembro
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:
 
 São ratificados o Protocolo de Adesão do Governo da República Portuguesa ao Acordo entre os Governos dos Estados da União Económica Benelux, da República Federal da Alemanha e da República Francesa Relativo à Supressão Gradual dos Controlos nas Fronteiras Comuns, assinado em Schengen a 14 de Junho de 1985, tal como alterado pelo Protocolo de Adesão do Governo da República Italiana, assinado em Paris a 27 de Novembro de 1990, e o Acordo de Adesão da República Portuguesa à Convenção de Aplicação do Acordo de Schengen de 14 de Junho de 1985 entre os Governos dos Estados da União Económica Benelux, da República Federal da Alemanha e da República Francesa Relativo à Supressão Gradual dos Controlos nas Fronteiras Comuns, assinada em Schengen a 19 de Junho de 1990, à qual aderiu a República Italiana pelo Acordo assinado em Paris a 27 de Novembro de 1990, concluídos em Bona a 25 de Junho de 1991, aprovados, para adesão, pela [Resolução da Assembleia da República n.º 35/93](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/35-1993-682379), em 2 de Abril de 1992.
 
-**Assinado em 29 de Setembro de 1993.**
+Assinado em 29 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Outubro de 1993.**
+Referendado em 6 de Outubro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

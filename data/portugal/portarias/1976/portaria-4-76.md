@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/00200/00050005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/4-1976-480773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T05:03:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7507966d3a1d3733a5845ae8e1af9f25a8ea480a21c4e189395da6373c481f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b817a495be0c54cc56500ffb0a22ed67d9487b9ab613068b389a5f878315aea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:03:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Técnica
+- Curso de Formação
+- Estatuto do Oficial da Força Aérea
+- Força Aérea
+- Formação Profissional
+- Graduação Militar
+- Militar
+- Promoção Profissional
+- Reserva
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:234085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630650:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogada pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:03:42Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +121,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, o 
 
 Os artigos 16.º, 38.º, 39.º, 41.º, 42.º, 70.º, 98.º, 99.º, 100.º, 104.º, 105.º, 155.º, 156.º, 157.º, 158.º, 158.º-A, 159.º e 160.º do Estatuto do Oficial da Força Aérea passam a ter a redacção e os aditamentos seguintes:
 
-###### Art. 16.º O ingresso nos quadros de oficiais na situação de activo faz-se:
+Art. 16.º O ingresso nos quadros de oficiais na situação de activo faz-se:
 
 a) Independentemente de vacaturas:
 
@@ -112,31 +139,31 @@ b) Mediante vacatura:
 
 2) Para os restantes casos previstos neste Estatuto.
 
-###### Art. 38.º - 1. ...
+Art. 38.º - 1. ...
 
 2. ...
 
 3. A antiguidade de alferes dos oficiais a que respeitam os n.os 1 e 2 é referida à data em que concluíram com aproveitamento o curso de formação.
 
-###### Art. 39.º - 1. ...
+Art. 39.º - 1. ...
 
 2. ...
 
 3. A antiguidade de alferes dos oficiais a que respeitam os n.os 1 e 2 é referida à data em que concluíram com aproveitamento o curso de formação.
 
-###### Art. 41.º - 1. ...
+Art. 41.º - 1. ...
 
 2. ...
 
 3. A antiguidade de alferes dos oficiais a que respeitam os n.os 1 e 2 é referida à data em que concluíram com aproveitamento o curso de formação.
 
-###### Art. 42.º - 1. ...
+Art. 42.º - 1. ...
 
 2. ...
 
 3. A antiguidade de alferes dos oficiais a que respeitam os n.os 1 e 2 é referida à data em que concluíram com aproveitamento o curso de formação.
 
-###### Art. 70.º - 1. Transitam para a situação de reserva os oficiais na situação do activo que sejam abrangidos por qualquer das seguintes condições:
+Art. 70.º - 1. Transitam para a situação de reserva os oficiais na situação do activo que sejam abrangidos por qualquer das seguintes condições:
 
 a) Tendo prestado quinze ou mais anos de serviço:
 
@@ -172,7 +199,7 @@ d) Requeiram a passagem à reserva e esta lhes seja concedida depois de completa
 
 5. A data da passagem à situação de reserva é a data em que, nos termos legais, o oficial for considerado abrangido pela condição que a motivou.
 
-###### Art. 98.º - 1. Para os fins referidos no artigo anterior existem os seguintes cursos:
+Art. 98.º - 1. Para os fins referidos no artigo anterior existem os seguintes cursos:
 
 a) Curso geral de guerra aérea;
 
@@ -190,11 +217,11 @@ c) Médicos;
 
 d) Intendência e contabilidade.
 
-###### Art. 99.º - 1. A habilitação com o curso referido no n.º 2 do artigo 98.º constitui, como regra, condição para o exercício das funções inerentes à categoria de oficial superior dos respectivos quadros.
+Art. 99.º - 1. A habilitação com o curso referido no n.º 2 do artigo 98.º constitui, como regra, condição para o exercício das funções inerentes à categoria de oficial superior dos respectivos quadros.
 
 2. O mesmo curso é também frequentado pelos oficiais abrangidos pelo disposto no n.º 7 do artigo 132.º e no artigo 174.º
 
-###### Art. 100.º - 1. A nomeação para o curso geral de guerra aérea é feita por escolha da Comissão Técnica da Força Aérea entre os oficiais que tiverem apresentado declaração de que desejam frequentá-lo.
+Art. 100.º - 1. A nomeação para o curso geral de guerra aérea é feita por escolha da Comissão Técnica da Força Aérea entre os oficiais que tiverem apresentado declaração de que desejam frequentá-lo.
 
 2. Em cada ano podem apresentar a declaração referida no n.º 1 os capitães que:
 
@@ -208,17 +235,17 @@ b) Tenham idade que lhes permita concluir o curso até dois anos antes da data e
 
 5. Na designação de oficiais para a frequência dos cursos mencionados deve atender-se ao número de vagas que se prevê venham a ocorrer e à possibilidade de escolha para promoção entre número significativo de capitães.
 
-###### Art. 104.º - 1. Os oficiais podem desistir da frequência dos cursos ou provas de promoção para que hajam sido nomeados.
+Art. 104.º - 1. Os oficiais podem desistir da frequência dos cursos ou provas de promoção para que hajam sido nomeados.
 
 2. Em tempo de guerra ou quando circunstâncias anormais o imponham, a desistência está, porém, sujeita a deferimento do Chefe do Estado-Maior da Força Aérea.
 
-###### Art. 105.º - 1. O curso geral de guerra aérea poderá ser repetido por uma só vez pelos oficiais que nele não tenham obtido aproveitamento, desde que apresentem nova declaração e sejam nomeados nos termos do artigo 100.º
+Art. 105.º - 1. O curso geral de guerra aérea poderá ser repetido por uma só vez pelos oficiais que nele não tenham obtido aproveitamento, desde que apresentem nova declaração e sejam nomeados nos termos do artigo 100.º
 
 2. ...
 
 3. ...
 
-###### Art. 155.º ...
+Art. 155.º ...
 
 ...
 
@@ -226,7 +253,7 @@ b) ...
 
 4) Ter frequentado com aproveitamento o curso geral de guerra aérea.
 
-###### Art. 156.º ...
+Art. 156.º ...
 
 ...
 
@@ -234,7 +261,7 @@ b) ...
 
 4) Ter frequentado com aproveitamento o curso geral de guerra aérea.
 
-###### Art. 157.º ...
+Art. 157.º ...
 
 ...
 
@@ -242,7 +269,7 @@ c) ...
 
 4) Ter frequentado com aproveitamento o curso geral de guerra aérea.
 
-###### Art. 158.º As condições especiais de promoção no quadro de pilotos são:
+Art. 158.º As condições especiais de promoção no quadro de pilotos são:
 
 ...
 
@@ -250,7 +277,7 @@ c) ...
 
 5) Ter frequentado com aproveitamento o curso geral de guerra aérea.
 
-###### Art. 158.º-A. ...
+Art. 158.º-A. ...
 
 ...
 
@@ -258,7 +285,7 @@ c) ...
 
 5) Ter frequentado com aproveitamento o curso geral de guerra aérea.
 
-###### Art. 159.º ...
+Art. 159.º ...
 
 ...
 
@@ -266,7 +293,7 @@ c) ...
 
 4) Ter frequentado com aproveitamento o curso geral de guerra aérea.
 
-###### Art. 160.º ...
+Art. 160.º ...
 
 ...
 

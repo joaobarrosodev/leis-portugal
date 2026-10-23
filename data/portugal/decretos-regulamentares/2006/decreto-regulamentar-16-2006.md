@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/16/2006/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-2006-545818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b5e62f9892eaa4fa09f0950950f3d1f4009faa96875c127951346d07293848c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0ab785846542bf44e98f06b7d5e432f3fe754fceae02d3f47effab4cbbc58c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,9 +80,9 @@ subjects:
 - Ferreira do Zêzere
 - Golegã
 - Ordenamento Florestal
-- Política de Solos
-- Plano Regional de Ordenamento Florestal
 - Plano Regional de Ordenamento do Território
+- Plano Regional de Ordenamento Florestal
+- Política de Solos
 - Regulamento
 - Ribatejo
 - RIO Maior
@@ -97,6 +97,18 @@ relationships:
   target: pt:dre:118051704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280498:por
+  label: "Suspensa, a partir de 07.02.2011 e pelo prazo de dois anos, a aplicação dos arts. 39º e 41º a 45º do regulamento\
+    \ anexo ao presente diploma, pela PORT.62/2011.02.02.2011.MADRP, DR.IS [23] de 02.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/62-2011-280498
+  date: '2011-02-02'
+- type: amended_by
+  target: pt:dre:258539:por
+  label: "Suspensa, com produção de efeitos a 07.02.2013 e pelo prazo máximo de dois anos, a aplicação dos art.s 36º e 38º\
+    \ a 42º do regulamento, pela PORT.78/2013.19.02.2013.MAMAOT, DR.IS [35] de 19.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/78-2013-258539
+  date: '2013-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2005/08/05/p/dre
   label: null
@@ -129,16 +141,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/118/2000/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/118/2000/09/13/p/dre
+- type: cites
+  target: pt:dre:241857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572092:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:118051704:por
+  label: Revogado com a entrada em vigor das portarias previstas no n.º 1 do art. 11.º do Dec Lei 16/2009, de 14-jan pelo(a)
+    Decreto-Lei n.º 11/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2019-118051704
+  date: '2019-01-21'
 article_structure:
   article_count: 54
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:38Z'
   warnings: []
   errors: []
 ---
@@ -205,15 +255,15 @@ O PROF Ribatejo entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Agosto de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 21 de Setembro de 2006.**
+Promulgado em 21 de Setembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 25 de Setembro de 2006.**
+Referendado em 25 de Setembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO A — REGULAMENTO DO PLANO REGIONAL DE ORDENAMENTO FLORESTAL DO RIBATEJO (PROF RIBATEJO)
 
@@ -803,7 +853,7 @@ i) Normas relativas à função conservação, em particular as normas relativas
 
 2 - As espécies de árvores florestais e correspondentes modelos gerais de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: carvalho-cerquinho (Quercus faginea); acer (Acer pseudoplatanus); carvalho americano (Quercus rubra); eucaliptos madeireiros (E. obliqua; E. grandis, E saligna; E. botryoides, E. resinifera, E. robusta), gleditsia (Gleditsia triacanthos), casuarina (Casuaria equisitefolia), plátano (Platanus hispanica); medronheiro (Arbutus unedo).
 
@@ -827,7 +877,7 @@ i) Normas relativas à função de silvopastorícia e caça e pesca, nomeadament
 
 2 - As espécies de árvores florestais e correspondentes modelos gerais de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: pinheiro-manso (Pinus pinea), carvalho-cerquinho (Quercus faginea), plátano (Platanus hispanica), nogueiras (Juglans regia ou nigra).
 
@@ -853,7 +903,7 @@ ii) Normas relativas à função de conservação de habitats, espécies protegi
 
 2 - As espécies de árvores florestais e correspondentes modelos gerais de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: pinheiro-bravo (Pinus pinaster); pinheiro do Alepo (Pinus halepensis); gleditsia (Gleditsia triacanthos), casuarina (Casuaria equisitefolia), plátano (Platanus hispanica) e medronheiro (Arbutus unedo).
 
@@ -879,7 +929,7 @@ ii) As normas relativas à silvopastorícia e caça e pesca em águas interiores
 
 2 - As espécies de árvores florestais e correspondentes modelos gerais de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: casuarina (Casuaria equisitefolia), plátano (Platanus hispanica), nogueiras (Juglans regia e J. nigra), medronheiro (Arbutus unedo) e carvalho cerquinho (Quercus faginea), pinheiro-bravo (Pinus pinaster).
 
@@ -903,7 +953,7 @@ i) Normas relativas à função de conservação de habitats, espécies protegid
 
 2 - As espécies de árvores florestais e correspondentes modelos gerais de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: carvalho americano (Quercus rubra); eucaliptos madeireiros (E. obliqua; E. grandis, E.saligna; E. botryoides, E. resinifera, E. robusta), acer (Acer pseudoplatanus), gleditsia (Gleditsia triacanthos), casuarina (Casuaria equisitefolia), plátano (Platanus hispanica), medronheiro (Arbutus unedo).
 
@@ -927,7 +977,7 @@ i) Normas relativas à função de recreio, enquadramento e estética da paisage
 
 2 - As espécies de árvores florestais e correspondentes modelos gerais de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: cupressus (Cupressus, ssp.), pinheiro do Alepo (Pinus halepensis), medronheiro (Arbutus unedo), pinheiro-manso (Pinus pinea), pinheiro-bravo (Pinus pinaster).
 
@@ -951,7 +1001,7 @@ i) Normas relativas à função de conservação de habitats, espécies protegid
 
 2 - As espécies de árvores florestais e correspondentes modelos gerais de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: carvalho americano (Quercus rubra), eucaliptos madeireiros (E. obliqua; E. grandis, E.saligna; E. botryoides, E. resinifera, E. robusta), cerejeira-brava (Prunus avium); acer (Acer pseudoplatanus), gleditsia (Gleditsia triacanthos), casuarina (Casuaria equisitefolia), plátano (Platanus hispanica), castanheiro (Castanea sativa), medronheiro (Arbutus unedo).
 
@@ -975,7 +1025,7 @@ i) Normas relativas à função de recreio, enquadramento e estética da paisage
 
 2 - As espécies de árvores florestais e correspondentes modelos gerais de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: cupressos (Cupressus, ssp.), medronheiro (Arbutus unedo), pinheiro-manso (Pinus pinea), pinheiro-bravo (Pinus pinaster).
 
@@ -999,7 +1049,7 @@ i) Normas relativas à função de conservação de habitats, espécies protegid
 
 2 - As espécies de árvores florestais e correspondentes modelos gerais de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: carvalho americano (Quercus rubra), eucaliptos madeireiros (E. obliqua; E. grandis, E. saligna; E. botryoides, E. resinifera, E. robusta), cerejeira-brava (Prunus avium); acer (Acer pseudoplatanus), gleditsia (Gleditsia triacanthos), casuarina (Casuaria equisitefolia), plátano (Platanus hispanica), castanheiro (Castanea sativa), medronheiro (Arbutus unedo).
 
@@ -1019,7 +1069,7 @@ i) Normas relativas à função de conservação de habitats, espécies protegid
 
 1 - Estão sujeitas a plano de gestão florestal (PGF) as explorações florestais públicas e comunitárias, tal como definido no artigo 5.º da Lei de Bases da Política Florestal, de acordo com a hierarquia de prioridades para a sua elaboração, nomeadamente as identificadas na seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 2 - Encontram-se igualmente sujeitas à elaboração obrigatória de PGF:
 
@@ -1067,7 +1117,7 @@ c) Representatividade das áreas florestais - considerando as freguesias com mai
 
 4 - No PROF Ribatejo são propostas e identificadas como freguesias com espaços florestais prioritários para instalação de ZIF, as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 ### CAPÍTULO V — Medidas de intervenção
 
@@ -1089,61 +1139,61 @@ No relatório do PROF do Ribatejo estão consignadas medidas de intervenção co
 
 1 - O PROF do Ribatejo define como metas, para 2025 e 2045, os seguintes valores de percentagem de espaços florestais em relação à superfície total da região PROF:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 2 - O PROF Ribatejo define como metas, para 2025 e 2045, os seguintes valores de percentagem de espaços florestais arborizados em relação à superfície total da região PROF:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 3 - O PROF Ribatejo define como metas, para 2025 e 2045, os seguintes valores percentuais de composição de espaços florestais arborizados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 4 - O PROF Ribatejo define como metas, para 2025 e 2045, os seguintes valores percentuais de composição de espaços florestais arborizados, para as sub-regiões homogéneas:
 
 a) Charneca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 b) Lezíria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 c) Bairro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 d) Estuário:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 e) Floresta do Oeste:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 f) Serra de Aire:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 g) Alto Nabão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 h) Sicó-Alvaiázere Sul:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 i) Floresta dos Templários:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 5 - O PROF Ribatejo define como metas, para 2025 e 2045, as seguintes proporções, em termos percentuais, de povoamentos sujeitos a silvicultura intensiva:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 6 - O PROF Ribatejo define como metas, para 2025 e 2045, os seguintes valores de percentagem de área queimada anualmente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 ###### Artigo 40.º — Objectivos comuns à região PROF e objectivos específicos às sub-regiões homogéneas
 
@@ -1251,14 +1301,14 @@ Quando se verificarem alterações às normas legais e regulamentares citadas no
 
 ## ANEXO I — Normas genéricas de intervenção nos espaços florestais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 ## ANEXO II — Modelos de silvicultura
 
 Modelos de silvicultura para as principais espécies de árvores florestais e sistemas florestais produtivos mais relevantes para a região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
 
 ## ANEXO B — Mapa síntese do Plano Regional de Ordenamento Florestal do Ribatejo (PROF Ribatejo)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72747297.pdf)

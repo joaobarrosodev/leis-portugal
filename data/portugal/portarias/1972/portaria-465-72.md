@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/465-1972-676423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb18d6f06aa3e71db6dc4083f5e4b66494dfb2dbd7c8250dcd3687e92489de1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 629ff8cc3d33e27ac67ec5075e486a72229f3c7dff9d9bc0f0d5a7d194a27e0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680656:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:07Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +126,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1.º Reforce com as importâncias que vão indicadas as seguintes verbas da tabela de despesa extraordinária do orçamento geral para o ano económico de 1972:
 
-### Capítulo 12.º, artigo 1518.º «III Piano de Fomento - Programa de execução para 1972»:
+Capítulo 12.º, artigo 1518.º «III Piano de Fomento - Programa de execução para 1972»:
 
 5) Energia:
 
@@ -110,7 +142,7 @@ b) Investigação não ligada ao ensino ... 2760000$00
 
 2.º Utilize para contrapartida destes reforços disponibilidades das seguintes verbas da mesma tabela orçamental de despesa:
 
-### Capítulo 12.º, artigo 1518.º «III Plano de Fomento - Programa de execução para 1972»:
+Capítulo 12.º, artigo 1518.º «III Plano de Fomento - Programa de execução para 1972»:
 
 1) Agricultura, silvicultura e pecuária:
 
@@ -124,7 +156,7 @@ a) Saúde ... 1500000$00
 
 3.º Abra um crédito especial de 415820505$70 para reforço das verbas que se indicam da referida tabela orçamental de despesa:
 
-### Capítulo 12.º, artigo 1518.º «III Plano de Fomento - Programa de execução para 1972»:
+Capítulo 12.º, artigo 1518.º «III Plano de Fomento - Programa de execução para 1972»:
 
 1) Agricultura, silvicultura e pecuária:
 

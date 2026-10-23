@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/038a00/12021209.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/29/2002/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2002-284356
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9fc34189947864c97c60ebd17f1064f41f3a39583dc86ac3c8a680ae877503e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bca45812ec980a4ea3195943e795cee5f8f49f3e03c7c26906b8e8d32f3e8b75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão de Acompanhamento
-- Higiene do Trabalho
 - Contra-ordenação
-- Saúde
-- Segurança no Trabalho
+- Higiene do Trabalho
 - Programa de Adaptação dos Serviços de Segurança Higiene e Saúde no Trabalho
 - Regime Jurídico
+- Saúde
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:490009:por
@@ -103,16 +103,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/1995/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/1995/03/29/p/dre
+- type: cites
+  target: pt:dre:173689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496680:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490009:por
+  label: "Revogado, a partir de 01.10.2009 e sem prejuízo dos nºs 2 e 3 do art. 120.º, pela LEI.102/2009.10.09.2009.AR, DR.IS\
+    \ [176] de 10.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/102-2009-490009
+  date: '2009-09-10'
 article_structure:
   article_count: 40
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:51Z'
   warnings: []
   errors: []
 ---
@@ -547,12 +581,12 @@ O presente diploma entra em vigor no prazo de 15 dias a contar da respectiva pub
 
 Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Luís Garcia Braga da Cruz - António Fernando Correia de Campos - Paulo José Fernandes Pedroso.
 
-**Promulgado em 28 de Janeiro de 2002.**
+Promulgado em 28 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Janeiro de 2002.**
+Referendado em 31 de Janeiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

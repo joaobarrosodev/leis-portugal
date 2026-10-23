@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/100/2025/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2025-934278889
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a63864f812fbe6365fb56da430d5c0d5e41401a3b6fa14ee0fc6998503f35cbb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4b6dcf80632300ad955fd2e808fbbdd1cee310698a0ebb24e23408ea316de59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência para a Gestão do Sistema Educativo
+- CEJURE
 - Direção Geral do Livro dos Arquivos e das Bibliotecas
+- Direção-geral ou gabinete de estudos planeamento e avaliação
+- Entidade de Serviços Partilhados da Administração Pública
 - Estamo-participações Imobiliárias
 - Extinção de Serviços
-- Secretaria Geral
-- Ministério da Educação e Ciência
-- Integração de Trabalhadores
-- Lista Nominativa
-- Entidade de Serviços Partilhados da Administração Pública
-- Quadro de Pessoal
-- Transferência de Competências
-- Transferência de Pessoal
-- Museus e Monumentos de Portugal
-- Secretaria-Geral do Governo
-- CEJURE
-- Direção-geral ou gabinete de estudos planeamento e avaliação
-- Agência para a Gestão do Sistema Educativo
 - Instituto de Educação Qualidade e Avaliação
 - Instituto para o Ensino Superior
+- Integração de Trabalhadores
+- Lista Nominativa
+- Ministério da Educação e Ciência
+- Museus e Monumentos de Portugal
+- Quadro de Pessoal
+- Secretaria Geral
+- Secretaria-Geral do Governo
+- Transferência de Competências
+- Transferência de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
@@ -120,16 +120,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/15/2014/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/15/2014/02/24/p/dre
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:876110681:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:43-B/2024
+  label: Revoga, nos termos do faseamento operacional definido no anexo IV ao Decreto-Lei n.º 43-B/2024, de 2 de julho (1
+    de janeiro de 2026), o Decreto Regulamentar n.º 18/2012, de 31 de janeiro, Diário da República n.º 22/2012, Série I
+  source: null
+  date: '2012-01-31'
+- type: repeals
+  target: pt:numero:decreto-lei:43-B/2024
+  label: Revoga, nos termos do faseamento operacional definido no anexo IV ao Decreto-Lei n.º 43-B/2024, de 2 de julho (1
+    de janeiro de 2026), a Portaria n.º 150/2012, de 16 de maio, Diário da República n.º 95/2012, Série I
+  source: null
+  date: '2012-05-16'
 article_structure:
   article_count: 27
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:39Z'
   warnings: []
   errors: []
 ---
@@ -290,7 +342,7 @@ j) A MMP, E. P. E., em matéria de gestão e disponibilização do acervo de obj
 
 3 - Os trabalhadores são reafetos aos órgãos, serviços e organismos integradores com efeitos à data do despacho conjunto do dirigente máximo desses órgãos, serviços e organismos e dos coordenadores executivos responsáveis pelo processo de fusão da SGEC.
 
-4 - Com exceção das situações previstas nos n.<sup>os</sup>2 e 4 do artigo 15.º, o disposto no n.º 1 determina a integração dos trabalhadores em postos de trabalho não ocupados ou a prever no mapa de pessoal dos órgãos, serviços e organismos integradores.
+4 - Com exceção das situações previstas nos n.os2 e 4 do artigo 15.º, o disposto no n.º 1 determina a integração dos trabalhadores em postos de trabalho não ocupados ou a prever no mapa de pessoal dos órgãos, serviços e organismos integradores.
 
 #### SECÇÃO II — CRITÉRIOS DE SELEÇÃO DE PESSOAL
 
@@ -448,7 +500,7 @@ b) Os procedimentos respeitantes ao reconhecimento das associações de estudant
 
 8 - Os termos e condições do contrato de trabalho a celebrar são os vigentes na ESTAMO, S. A., em obediência à legislação e instrumentos de regulamentação coletiva em vigor.
 
-9 - A cessação do vínculo do contrato de trabalho em funções públicas, para os trabalhadores que optarem pela celebração de contrato de trabalho, nos termos dos n.<sup>os</sup>6, 7 e 8, torna-se efetiva com a sua publicação na 2.ª série do Diário da República.
+9 - A cessação do vínculo do contrato de trabalho em funções públicas, para os trabalhadores que optarem pela celebração de contrato de trabalho, nos termos dos n.os6, 7 e 8, torna-se efetiva com a sua publicação na 2.ª série do Diário da República.
 
 10 - Relativamente aos trabalhadores que não tenham optado pelo regime do contrato de trabalho e que mantenham o regime de proteção social convergente, a ESTAMO, S. A., assegura o pagamento das contribuições a título de entidade empregadora para a Caixa Geral de Aposentações, I. P., e para a Direção-Geral de Proteção Social aos Trabalhadores em Funções Públicas, quando aplicável.
 
@@ -576,12 +628,14 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 7 de agosto de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Fernando Alexandre.
 
-**Promulgado em 28 de agosto de 2025.**
+Promulgado em 28 de agosto de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de agosto de 2025.**
+Referendado em 29 de agosto de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119499556

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/07/13300/0000300013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/93/2019/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2019-123166491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0efd3d1f79cb80c011165f20e64a28b5fdc1b696d64197e687756a70211d95c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2cca2a8ea7d42fbf87553ada764b9486c99fa1040463a65318be446082ab377
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abastecimento
+- Abastecimento de Água
 - Albufeira.cidade
 - Alcoutim
-- Sistema Multimunicipal de Saneamento do Algarve
-- Aljezur
-- Gestão de Resíduos
-- Castro Marim
-- Saneamento Básico
-- Contrato de Concessão
-- Recursos Hídricos
-- Extinção de Empresas
 - Algarve
+- Aljezur
+- Autarquia Local
+- Castro Marim
+- Contrato de Concessão
+- Extinção de Empresas
 - Faro
+- Gestão de Resíduos
 - Gestão dos Recursos
 - Infraestrutura Municipal
+- Infraestruturas de Portugal
 - Lagoa
 - Lagos
 - Loulé
@@ -88,25 +88,41 @@ subjects:
 - Olhão
 - Poluição da água
 - Portimão
+- Recursos Hídricos
 - Recursos Naturais
+- Saneamento Básico
 - são BRAS de Alportel
 - Setor Privado
 - Setor Público
 - Silves
 - Sistema Multimunicipal de Abastecimento de ÁGUA do Algarve
-- Abastecimento de Água
+- Sistema Multimunicipal de Abastecimento de Água e de Saneamento do Algarve
+- Sistema Multimunicipal de Saneamento do Algarve
 - Tavira
 - Tratamento de ÁGUA
-- Autarquia Local
 - VILA do Bispo
 - Vila Real de Santo António
-- Infraestruturas de Portugal
-- Sistema Multimunicipal de Abastecimento de Água e de Saneamento do Algarve
 relationships:
 - type: amended_by
   target: pt:dre:892301178:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:205493468:por
+  label: Mantidos vigentes, no ano de 2023, as tarifas, os rendimentos tarifários e demais valores cobrados nos termos dos
+    contratos de concessão, aplicados em 2022, aos utilizadores municipais, utilizadores finais e clientes do sistema multimunicipal
+    de abastecimento de água e de saneamento do Algarve pelo(a) Decreto-Lei n.º 87-C/2022 - Diário da República n.º 250/2022,
+    1º Suplemento, Série I de 2022-12-29, nos termos do art. 2.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-c-2022-205493468
+  date: '2022-12-29'
+- type: amended_by
+  target: pt:dre:892301178:por
+  label: Mantidos vigentes, no ano de 2024, com efeitos a 1 de janeiro de 2024, as tarifas, os rendimentos tarifários e demais
+    valores cobrados nos termos dos contratos de concessão, aplicados em 2023, aos utilizadores municipais, utilizadores finais
+    e clientes do sistema multimunicipal de abastecimento de água e de saneamento do Algarve pelo(a) Decreto-Lei n.º 77/2024
+    - Diário da República n.º 206/2024, Série I de 2024-10-23 nos termos do artigo 2.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2024-892301178
+  date: '2024-10-23'
 - type: cites
   target: eli:http://data.dre.pt/e
   label: null
@@ -147,16 +163,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/92/2013/07/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/92/2013/07/11/p/dre
+- type: cites
+  target: pt:dre:241638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
 article_structure:
   article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:02Z'
   warnings: []
   errors: []
 ---
@@ -463,12 +531,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de julho de 2019. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - Eduardo Arménio do Nascimento Cabrita - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 10 de julho de 2019.**
+Promulgado em 10 de julho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de julho de 2019.**
+Referendado em 10 de julho de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112441416

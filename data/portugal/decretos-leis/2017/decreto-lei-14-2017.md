@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/01/01900/0050800518.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/14/2017/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d5bca1310e81d7a8f56235f8d071a34e8147f3937bc138b1887893f0499621d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 556f42f237e245e5c140b21240ace0a07f9be9df24a286329c2fd4707e7b5669
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,30 @@ reuse:
 subjects:
 - Agência Nacional para a Qualificação e o Ensino Profissional
 - Catálogo Nacional de Qualificações
-- Formação Profissional
 - Certificação Profissional
 - Definição de Competências
-- Ensino Profissional
-- Habilitações Literárias
 - Educação dos Adultos
-- Sistema Nacional de Qualificações
-- Qualificação Profissional
 - Ensino Básico
+- Ensino Profissional
+- Formação Profissional
+- Habilitações Literárias
 - Quadro Nacional de Qualificações
+- Qualificação Profissional
 - Regime Jurídico
 - Sistema Nacional de Créditos do Ensino e Formação Profissionais
+- Sistema Nacional de Qualificações
 relationships:
 - type: amended_by
   target: pt:dre:123968667:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:122747583:por
+  label: Aditado, a partir de 29.06.2019 e nos termos do art. 210.º, o art. 20.º-A e revogado o n.º 3 do art. 16.º do Dec
+    Lei 396/2007 de 31-dez, republicado pelo presente diploma, pelo(a) Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019,
+    Série I de 2019-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2019-122747583
+  date: '2019-06-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-l
   label: null
@@ -124,16 +131,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:164425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676841:por
+  label: null
+  source: null
 article_structure:
-  article_count: 49
+  article_count: 34
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:55Z'
   warnings: []
   errors: []
 ---
@@ -212,7 +263,9 @@ k) [Anterior alínea g).]
 
 6 - [...].
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]:
 
@@ -248,7 +301,9 @@ o) [...].
 
 2 - [...].
 
-###### Artigo 3.º — Definições
+Artigo 3.º
+
+Definições
 
 [...]:
 
@@ -300,7 +355,9 @@ w) 'Unidade de formação de curta duração' a unidade de aprendizagem, passív
 
 x) 'Unidade de qualificação' a unidade de formação de curta duração e a unidade de competência que integram uma qualificação.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -310,7 +367,9 @@ x) 'Unidade de qualificação' a unidade de formação de curta duração e a un
 
 4 - A estrutura referida no n.º 1 é regulada por portaria dos membros do Governo responsáveis pelas áreas do ensino superior, da educação e da formação profissional.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -334,7 +393,9 @@ x) 'Unidade de qualificação' a unidade de formação de curta duração e a un
 
 11 - O CNQ é regulado por portaria dos membros do Governo responsáveis pelas áreas do ensino superior, da educação e da formação profissional.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -352,7 +413,9 @@ x) 'Unidade de qualificação' a unidade de formação de curta duração e a un
 
 8 - A conclusão com aproveitamento de uma ação de formação contínua realizada por entidade formadora não certificada é comprovada por certificado emitido por esta, nomeadamente de acordo com o certificado previsto no n.º 6, devendo essa formação ser registada no instrumento de orientação e registo individual de qualificações e competências.
 
-###### Artigo 8.º — Instrumento de orientação e registo individual de qualificações e competências
+Artigo 8.º
+
+Instrumento de orientação e registo individual de qualificações e competências
 
 1 - O instrumento de orientação e registo individual de qualificações e competências regista todas as qualificações e competências que um indivíduo adquire ou desenvolve ao longo da vida, referidas no CNQ, bem como as restantes ações de formação concluídas, distintas das que deram origem a qualificações e competências registadas.
 
@@ -360,7 +423,9 @@ x) 'Unidade de qualificação' a unidade de formação de curta duração e a un
 
 3 - A definição da estrutura do instrumento de orientação e registo individual de qualificações e competências é regulado por portaria dos membros do Governo responsáveis pelas áreas da educação e da formação profissional.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]:
 
@@ -394,7 +459,9 @@ b) Ações de formação inicial e contínua, nomeadamente as realizadas por emp
 
 7 - [...].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -402,7 +469,9 @@ b) Ações de formação inicial e contínua, nomeadamente as realizadas por emp
 
 3 - O reconhecimento, validação e certificação de competências é regulado por portaria dos membros do Governo responsáveis pelas áreas da educação e da formação profissional.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -414,7 +483,9 @@ b) Ações de formação inicial e contínua, nomeadamente as realizadas por emp
 
 5 - A informação e orientação para a qualificação e o emprego são reguladas por portaria dos membros do Governo responsáveis pelas áreas da educação e da formação profissional.
 
-###### Artigo 15.º — Centros especializados em qualificação de adultos
+Artigo 15.º
+
+Centros especializados em qualificação de adultos
 
 1 - Os centros especializados em qualificação de adultos asseguram a informação, a orientação e o encaminhamento de candidatos para modalidades de formação, o reconhecimento e validação e certificação de competências para efeitos de posicionamento em percursos de educação e formação, bem como o reconhecimento, validação e certificação das competências adquiridas ao longo da vida.
 
@@ -424,7 +495,9 @@ b) Ações de formação inicial e contínua, nomeadamente as realizadas por emp
 
 4 - Os centros especializados em qualificação de adultos são regulados por portaria dos membros do Governo responsáveis pelas áreas da educação e da formação profissional, de acordo com o n.º 3 do artigo 12.º
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Constituem a rede de entidades formadoras do SNQ os estabelecimentos de ensino básico e secundário, os centros de formação profissional e de reabilitação profissional de gestão direta e protocolares do IEFP, I. P., no âmbito dos ministérios responsáveis pelas áreas da educação e da formação profissional, as entidades formadoras integradas noutros ministérios ou noutras pessoas coletivas de direito público, bem como os estabelecimentos de ensino particular e cooperativo, as escolas profissionais, os centros especializados em qualificação de adultos e as entidades com estruturas formativas certificadas do setor privado, sem prejuízo no disposto nos n.os 2, 3 e 4 do artigo 1.º
 
@@ -432,13 +505,17 @@ b) Ações de formação inicial e contínua, nomeadamente as realizadas por emp
 
 3 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O SNQ é coordenado pelos membros do Governo responsáveis pelas áreas da educação e da formação profissional.
 
 2 - Os parceiros sociais intervêm na coordenação do SNQ através da sua participação no conselho geral da ANQEP, I. P., no conselho de administração do IEFP, I. P., e no conselho de acompanhamento da certificação das entidades formadoras da DGERT.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -446,13 +523,17 @@ b) Ações de formação inicial e contínua, nomeadamente as realizadas por emp
 
 3 - A participação dos parceiros sociais no âmbito da avaliação do SNQ decorre da sua intervenção nos conselhos referidos no n.º 2 do artigo anterior.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - O SNQ deve promover a qualidade do ensino e formação profissionais, designadamente através do CNQ, da adoção de sistemas de garantia da qualidade alinhados com os princípios do Quadro de Referência Europeu de Garantia da Qualidade para o Ensino e a Formação Profissionais, da certificação das entidades formadoras, da qualificação dos formadores e outros técnicos de formação, bem como da avaliação periódica dos seus resultados.
 
 2 - [...].
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...].
 
@@ -508,15 +589,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de dezembro de 2016. - António Luís Santos da Costa - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva.
 
-**Promulgado em 23 de janeiro de 2017.**
+Promulgado em 23 de janeiro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 24 de janeiro de 2017.**
+Referendado em 24 de janeiro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

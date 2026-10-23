@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/08500/29462948.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/165/2007/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2007-521255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b92d0631db6dc57070f226c2c86d975a745017792e25e4a8abf0e303c90510ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: baacba86d5d4e2831f8518151d77dadb2f7c180a5bccac2dd3192c7075e34736
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Animação Sócio-cultural
-- Pessoal Dirigente
-- Instituto do Cinema e do Audiovisual
 - Comunicação Social
 - Definição de Competências
 - Diretor
-- Património Cultural
-- Secretaria Geral
-- Instituto da Comunicação Social
+- Estatuto Remuneratório
 - Gabinete para os Meios de Comunicação Social
+- Instituto da Comunicação Social
+- Instituto do Cinema e do Audiovisual
 - Orgânica
 - Palácio Foz
+- Património Cultural
+- Pessoal Dirigente
 - Presidência do Conselho de Ministros
 - Quadro de Pessoal
-- Estatuto Remuneratório
+- Secretaria Geral
 - Subdiretor
 relationships:
 - type: amended_by
   target: pt:dre:174819:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:333522:por
+  label: "Alterado o art. 2º e aditado um art. 10º-A, a partir de 09.08.2010, pelo DEC LEI.97/2010.04.08.2010.PCM, DR.IS [150]\
+    \ de 04.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2010-333522
+  date: '2010-08-04'
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinado que fique na dependência do Ministro Adjunto e dos Assuntos Parlamentares o Gabinete para os Meios de\
+    \ Comunicação Social, no âmbito da Presidência do Conselho de Ministros, cuja orgânica consta do presente diploma, pelo\
+    \ DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/147/1993/05/03/p/dre
   label: null
@@ -106,16 +119,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:300009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641999:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:174819:por
+  label: "Revogado, a partir de 01.09.2012, nos termos do disposto no art. 49º do Dec Lei 126-A/2011 de 29-dez, o presente\
+    \ diploma, alterado pelo Dec Lei 97/2010 de 04-ago, pelo DR.49/2012.31.08.2012.PCM, DR.IS [169] de 31.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/49-2012-174819
+  date: '2012-08-31'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:03Z'
   warnings: []
   errors: []
 ---
@@ -256,16 +295,16 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Augusto Ernesto Santos Silva.
 
-**Promulgado em 12 de Abril de 2007.**
+Promulgado em 12 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Abril de 2007.**
+Referendado em 16 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o artigo 8.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/08500/29462948.pdf))](https://files.diariodarepublica.pt/1s/2007/05/08500/29462948.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/08500/29462948.pdf)

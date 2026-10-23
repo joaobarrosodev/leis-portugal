@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/12/293a00/80468047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/331/1995/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1995-644173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b26e48f254185965c2ef5d698b861b60e264abfa26301fc7ed42dbc980a25ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9c2ff626506e21078e73c657d825be0774f931894f766c83fef4107ab29c146
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - Contrato de Concessão
 - Emprego
-- Requisição de Pessoal
-- Mobilidade de Pessoal
 - Funcionário Público
+- Mobilidade de Pessoal
+- Requisição de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:425486:por
@@ -79,16 +79,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/97/1993/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/97/1993/04/02/p/dre
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680645:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:435397:por
+  label: "Revogado pelo DEC LEI.74/96.1996.06.18.MADRP, DR.IS-A [139]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-1996-435397
+  date: '1996-06-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:31Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +124,7 @@ Assim:
 
 Nos termos do disposto na alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O Ministro da Agricultura pode contratar, mediante ajuste directo com a Associação Portuguesa do Cavalo Puro Sangue Lusitano, a concessão de parte do Serviço Nacional Coudélico, em concretização do disposto no artigo 63.º do [Decreto-Lei n.º 97/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1993-680645), de 2 de Abril, bem como autorizar que o pessoal com relação jurídica de emprego na Administração Pública confira a qualidade de funcionário ou agente preste serviço na concessionária sem perda de vínculo.
+Artigo 1.º - 1 - O Ministro da Agricultura pode contratar, mediante ajuste directo com a Associação Portuguesa do Cavalo Puro Sangue Lusitano, a concessão de parte do Serviço Nacional Coudélico, em concretização do disposto no artigo 63.º do [Decreto-Lei n.º 97/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1993-680645), de 2 de Abril, bem como autorizar que o pessoal com relação jurídica de emprego na Administração Pública confira a qualidade de funcionário ou agente preste serviço na concessionária sem perda de vínculo.
 
 2 - A mobilidade do pessoal a que se refere o número anterior só pode efectuar-se por requisição.
 
@@ -123,16 +136,16 @@ Nos termos do disposto na alínea a) do n.º 1 do artigo 201.º da Constituiçã
 
 6 - A cessação por iniciativa do concessionário deve constar de decisão fundamentada do concessionário.
 
-###### Art. 2.º O presente diploma produz efeitos a partir da data da outorga do contrato de concessão.
+Art. 2.º O presente diploma produz efeitos a partir da data da outorga do contrato de concessão.
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - António Duarte Silva.
 
-**Promulgado em 24 de Outubro de 1995.**
+Promulgado em 24 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Outubro de 1995.**
+Referendado em 26 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

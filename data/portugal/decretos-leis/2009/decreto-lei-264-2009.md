@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/264/2009/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6d45db623bc4d265078dd74eb1d9b3b9210f81d2f42f5b505b349bec5fd9592
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02b2f2d85536ec135515eecfd88e3e74992a4b18aa1b46d4e459704520b69782
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Nacional de Controlo de Tráfego Marítimo
-- Multa
-- Radiactividade
-- Radiocomunicações
-- SIRESP
+- Açores
+- Autoridade Nacional de Protecção Civil
+- Comunicações
 - Contra-ordenação
 - Equipamento
+- Equipamento de Transmissão
 - Instalações Radioelétricas
 - Instituto das Comunicações de Portugal
 - Licenciamento
-- Radiodifusão
 - Madeira.região Autónoma
-- Comunicações
+- Multa
+- Radiactividade
+- Radiocomunicações
+- Radiodifusão
 - Regime Jurídico
-- Autoridade Nacional de Protecção Civil
 - Serviços de Radiocomunicações
-- Açores
-- Equipamento de Transmissão
+- SIRESP
+- Sistema Nacional de Controlo de Tráfego Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:187481298:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:552023:por
+  label: "Alterado nos termos do art. 20º, o art. 19º do Dec Lei 151-A/2000, de 20 de jul, na redação e republicado pelo presente\
+    \ diploma, pela LEI.20/2012.14.05.2012.AR, DR.IS [93] de 14.05.20122\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-2012-552023
+  date: '2012-05-14'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Alterado o art 19.º do Dec Lei 151-A/2000, de 20-jul, na redação do presente diploma, pelo(a) Lei n.º 82-B/2014 -
+    Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:187481298:por
+  label: Alterado, a partir de 14.11.2022, o art. 4.º do Dec Lei 151-A/2000 de 20-jul, na versão republicada pelo presente
+    diploma, pelo(a) Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2022-187481298
+  date: '2022-08-16'
 - type: cites
   target: celex:32002L0019
   label: null
@@ -115,16 +133,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/151-a/2000/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/151-a/2000/07/20/p/dre
+- type: corrected_by
+  target: pt:dre:482589:por
+  label: "Rectificado o nº 12 do art. 19º do anexo do presente diploma, que consiste na republicação do Dec Lei 151-A/2000,\
+    \ de 20-Jul, pela DECL-RECT.90/2009.25.11.2009.PCM, DR.IS [229] de 25.11.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/90-2009-482589
+  date: '2009-11-25'
 article_structure:
-  article_count: 57
+  article_count: 37
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:25Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +199,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 6.º, 7.º, 8.º, 9.º, 10.º, 12.º, 13.º, 
 
 2 - ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -201,7 +227,9 @@ j) ...
 
 2 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -209,7 +237,9 @@ j) ...
 
 3 - ...
 
-###### Artigo 4.º — Consignação de frequências
+Artigo 4.º
+
+Consignação de frequências
 
 1 - ...
 
@@ -221,13 +251,17 @@ j) ...
 
 5 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O regime de licenciamento radioeléctrico, previsto no presente decreto-lei, não prejudica o cumprimento das disposições legais aplicáveis à oferta de redes e serviços de comunicações electrónicas acessíveis e não acessíveis ao público e aos direitos de utilização de frequências, quando aplicável.
 
 2 - (Revogado.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -245,7 +279,9 @@ e) ...
 
 f) ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -255,13 +291,17 @@ f) ...
 
 4 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
 2 - O ICP-ANACOM publicita no respectivo sítio na Internet, no âmbito do Quadro Nacional de Atribuição de Frequências (QNAF), quais as redes e estações que estão isentas de licença, nos termos do número anterior.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Constituem obrigações dos utilizadores de redes e estações de radiocomunicações, sem prejuízo de outras decorrentes do presente decreto-lei e demais legislação aplicável:
 
@@ -291,7 +331,9 @@ l) Garantir que as estações que utilizam cumprem os níveis de referência par
 
 3 - Nos casos em que a utilização de redes ou estações de radiocomunicações cause interferências prejudiciais em serviços de radiocomunicações autorizados, designadamente serviços de emergência, de radionavegação aeronáutica e móvel aeronáutico, os utilizadores ficam obrigados a suspender ou a alterar as respectivas condições de utilização, nos prazos que sejam determinados em notificação do ICP-ANACOM, mantendo as condicionantes até nova notificação.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Para efeitos de atribuição de uma licença de rede, ou de estação de radiocomunicações que integre, ou constitua, uma rede de comunicações electrónicas acessível ou não acessível ao público, os interessados devem apresentar ao ICP-ANACOM requerimento devidamente instruído de acordo com o n.º 3.
 
@@ -299,7 +341,9 @@ l) Garantir que as estações que utilizam cumprem os níveis de referência par
 
 3 - Compete ao ICP-ANACOM determinar e publicar, no seu sítio da Internet, os elementos que devem instruir os requerimentos, bem como os requisitos dos projectos técnicos, em função dos serviços em causa.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Podem ser concedidas licenças de estação ou de rede de radiocomunicações, a título temporário, por período não superior a 180 dias, as quais podem ser renovadas uma vez por período de duração igual ou inferior.
 
@@ -307,7 +351,9 @@ l) Garantir que as estações que utilizam cumprem os níveis de referência par
 
 3 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - As licenças de rede ou de estação são transmissíveis.
 
@@ -323,7 +369,9 @@ l) Garantir que as estações que utilizam cumprem os níveis de referência par
 
 7 - A transmissão de licenças de rede e de estação não suspende nem interrompe o prazo pelo qual foram atribuídas as licenças nos termos do presente decreto-lei, sem prejuízo da sua renovação nos termos do artigo 15.º
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -333,7 +381,9 @@ l) Garantir que as estações que utilizam cumprem os níveis de referência par
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -343,7 +393,9 @@ l) Garantir que as estações que utilizam cumprem os níveis de referência par
 
 4 - Nos casos referidos no presente artigo, considera-se anulada a licença anterior.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -357,7 +409,9 @@ b) ...
 
 4 - (Revogado.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -367,7 +421,9 @@ a) ...
 
 b) ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - A utilização do espectro radioeléctrico está sujeita ao pagamento de taxas.
 
@@ -421,13 +477,17 @@ a) O respectivo regulamento pode estabelecer um valor mínimo de licitação, be
 
 b) O valor da contrapartida efectivamente paga pelos interessados pela atribuição das frequências constitui receita do ICP-ANACOM, nos termos dos respectivos Estatutos.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
 2 - (Revogado.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - As entidades titulares de licença emitida nos termos do presente decreto-lei devem celebrar acordos com vista à partilha de infra-estruturas de radiocomunicações existentes ou a instalar, cuja localização possa coincidir, mantendo os requisitos de exploração específicos, podendo abranger estruturas de suporte, cabos, filtros, antenas e edifícios, com excepção dos casos em que essa partilha seja tecnicamente inviável.
 
@@ -435,7 +495,9 @@ b) O valor da contrapartida efectivamente paga pelos interessados pela atribuiç
 
 3 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -473,7 +535,9 @@ l) ...
 
 6 - ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -519,15 +583,15 @@ O artigo 2.º produz efeitos 90 dias após data da entrada em vigor do presente 
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Mário Lino Soares Correia.
 
-**Promulgado em 16 de Setembro de 2009.**
+Promulgado em 16 de Setembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Setembro de 2009.**
+Referendado em 16 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 151-A/2000, de 20 de Julho
 

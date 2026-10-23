@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/07000/0000500006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/26/2023/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2023-211573085
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76f9f65fd79c81b77a0d0583c7e2a0951c73b7aeb75e61f9dad6ff05b8bfc9f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ae96e8b3120aab206d46dc430086143fd601236a101fa28c7df4103567ccaf5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Domínio Público Marítimo
-- Domínio Público do Estado
 - Avaliação de Impacte Ambiental
+- Domínio Público do Estado
+- Domínio Público Marítimo
 - Espaço Marítimo
 - Estratégia Nacional para o MAR
-- Proteção do Ambiente
 - Gestão do Ambiente
+- Ordenamento do Território
+- Proteção do Ambiente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/139/2015/07/30/p/dre
@@ -98,16 +98,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/203-a/2019/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/203-a/2019/12/30/p/dre
+- type: cites
+  target: pt:dre:127659203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66727183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69905670:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:42Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +190,9 @@ f) [...]
 
 5 - [...]
 
-###### Artigo 23.º — Avaliação ambiental
+Artigo 23.º
+
+Avaliação ambiental
 
 1 - Os planos de afetação ficam sujeitos a avaliação ambiental, nos termos do [Decreto-Lei n.º 232/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2007-639155), de 15 de junho, na sua redação atual.
 
@@ -174,7 +200,9 @@ f) [...]
 
 3 - A avaliação dos planos de afetação deve considerar os resultados da avaliação ambiental nos termos do artigo 13.º
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
@@ -188,12 +216,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de março de 2023. - António Luís Santos da Costa - António José da Costa Silva - José Duarte Piteira Rica Silvestre Cordeiro.
 
-**Promulgado em 21 de março de 2023.**
+Promulgado em 21 de março de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de abril de 2023.**
+Referendado em 3 de abril de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+116341145

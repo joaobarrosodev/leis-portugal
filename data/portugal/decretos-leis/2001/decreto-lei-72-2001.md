@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/02/048a00/10701076.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72/2001/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2001-385028
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:30:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0162548dae5d3fe051580ce303d2474bfff7d33a859ec93ffe86dbcad4e0d987
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee0b89ce519ac73aaef32059de069dab1b85a4316860f1685f99236929c16b8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:30:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Defesa Nacional
 - Definição de Competências
 - Extinção de Serviços
+- Gestão de Recursos Humanos
 - Inspecção Geral das Forças Armadas
+- Ministério da Defesa Nacional
 - Orgânica
 - Quadro de Pessoal
-- Gestão de Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:489501:por
@@ -109,16 +109,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/6/1994/04/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/6/1994/04/07/p/dre
+- type: cites
+  target: pt:dre:253852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:489501:por
+  label: "Revogado, a partir de 01.11.2009, pelo DEC LEI.214/2009.04.09.2009.MDN, DR.IS [172] de 04.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2009-489501
+  date: '2009-09-04'
 article_structure:
   article_count: 40
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:30:06Z'
   warnings: []
   errors: []
 ---
@@ -295,7 +332,9 @@ b) O Núcleo de Informática (NI);
 
 c) A Secção de Apoio (SAp).
 
-###### Artigo 11.º — Divisão de Estudos, Planeamento e Apoio Técnico
+###### Artigo 11.º
+
+##### Divisão de Estudos, Planeamento e Apoio Técnico
 
 À DEPAT compete, designadamente:
 
@@ -339,11 +378,15 @@ e) Assegurar, em coordenação com a DEPAT, a introdução dos dados, a actualiz
 
 f) Assegurar a manutenção do arquivo informático.
 
-###### Artigo 13.º — Secção de Apoio
+###### Artigo 13.º
+
+#### Secção de Apoio
 
 À SAp compete prestar o apoio administrativo necessário ao funcionamento da DSEPAT.
 
-###### Artigo 14.º — Divisão de Apoio Geral
+###### Artigo 14.º
+
+##### Divisão de Apoio Geral
 
 1 - A DAG é o serviço que assegura o apoio técnico e a execução das actividades de carácter administrativo necessárias ao funcionamento da IGDN.
 
@@ -355,7 +398,9 @@ b) A Secção de Pessoal (SP);
 
 c) A Secção de Expediente Geral e Arquivo (SEGA).
 
-###### Artigo 15.º — Secção Administrativa
+###### Artigo 15.º
+
+#### Secção Administrativa
 
 À SA compete, designadamente:
 
@@ -369,7 +414,9 @@ d) Controlar os serviços auto da IGDN e dirigir o pessoal auxiliar e motoristas
 
 e) Constituir e manter um chaveiro geral da IGDN.
 
-###### Artigo 16.º — Secção de Pessoal
+###### Artigo 16.º
+
+#### Secção de Pessoal
 
 À SP compete, designadamente:
 
@@ -387,7 +434,9 @@ f) Assegurar os procedimentos relativos à administração do pessoal militar em
 
 g) Organizar e gerir o arquivo próprio da secção.
 
-###### Artigo 17.º — Secção de Expediente Geral e Arquivo
+###### Artigo 17.º
+
+#### Secção de Expediente Geral e Arquivo
 
 À SEGA compete, designadamente:
 
@@ -587,14 +636,14 @@ O pessoal na situação de comissão de serviço extraordinária ao abrigo do [D
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 2000. - António Manuel de Oliveira Guterres - Júlio de Lemos de Castro Caldas - Joaquim Augusto Nunes Pina Moura - Alberto de Sousa Martins.
 
-**Promulgado em 9 de Fevereiro de 2001.**
+Promulgado em 9 de Fevereiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Fevereiro de 2001.**
+Referendado em 15 de Fevereiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/048a00/10701076.pdf)

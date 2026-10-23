@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/52/1996/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-1996-457052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5af46dc6a7a3516dbad982adb73c25d72aecea320e285e225ddddd5267846842
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e72c9a7348aadb5147e5372c86f6b59973339478565b955e2721ef739e9bb1a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartografia
-- Ordenamento do Território
 - Licenciamento
+- Ordenamento do Território
 relationships:
 - type: amended_by
   target: pt:dre:124324702:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:638574:por
+  label: "Alterado o art. 8º do Dec Lei 193/95 de 28-Jul, com a redacção dada no presente diploma, pelo DEC LEI.202/2007.25.05.2007.MAOTDR,\
+    \ DR.IS [101] de 25.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2007-638574
+  date: '2007-05-25'
+- type: amended_by
+  target: pt:dre:670024:por
+  label: "Alterado o art. 8º do Dec Lei 193/95, de 28-Jul, na redacção do presente diploma, pelo DEC LEI.84/2011.20.06.2011.MAOT,\
+    \ DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2011-670024
+  date: '2011-06-20'
+- type: amended_by
+  target: pt:dre:56941586:por
+  label: Alterado, a partir de 18.11.2014, o art. 8.º do Dec Lei 193/95 de 28-jul, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 141/2014 - Diário da República n.º 181/2014, Série I de 2014-09-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-2014-56941586
+  date: '2014-09-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/193/1995/07/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/193/1995/07/28/p/dre
+- type: cites
+  target: pt:dre:484653:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:29Z'
   warnings: []
   errors: []
 ---
@@ -129,12 +151,12 @@ b) ...
 
 Visto e aprovado em Conselho de Ministros de 18 de Abril de 1996. - António Manuel de Carvalho Ferreira Vitorino - António Manuel de Carvalho Ferreira Vitorino - José Manuel da Costa Monteiro Consiglieri Pedroso - Fernando Manuel Van-Zeller Gomes da Silva - Eduardo Carrega Marçal Grilo - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 30 de Abril de 1996.**
+Promulgado em 30 de Abril de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Maio de 1996.**
+Referendado em 8 de Maio de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

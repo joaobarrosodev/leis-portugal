@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/664-1976-407126
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T05:10:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1302b430e63a7f9dfd46c59bc24628c146dfee5f3e141d86a960f85912e859c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f2b9732203ce934736cc0c29418b7b5a2b420d170ccc8374f2b9027bbe39fed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:10:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ação Social
+- Instituto de Assistência aos Doentes de Hansen
+- Pessoal Técnico
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:312779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:10:01Z'
   warnings: []
   errors: []
 ---
@@ -91,6 +111,6 @@ Nos termos do artigo 1.º, n.º 2, do [Decreto-Lei n.º 59/76](https://diariodar
 
 Manda o Governo da República Portuguesa, pelos Ministros da Administração Interna, das Finanças e dos Assuntos Sociais, que o mapa do pessoal não compreendido no quadro de direcção e chefia do Instituto de Assistência aos Doentes de Hansen, aprovado pela [Portaria n.º 17900](https://diariodarepublica.pt/dr/detalhe/portaria/17900-1960-500752), de 16 de Agosto de 1960, e alterado pela [Portaria n.º 632/75](https://diariodarepublica.pt/dr/detalhe/portaria/632-1975-312779), de 4 de Novembro, seja alterado da forma seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/11/26400/25672567.pdf))](https://files.diariodarepublica.pt/1s/1976/11/26400/25672567.pdf).
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/11/26400/25672567.pdf).
 
 Ministérios da Administração Interna, das Finanças e dos Assuntos Sociais, 3 de Agosto de 1976. - O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, Henrique Medina Carreira. - Pelo Ministro dos Assuntos Sociais Adalberto Paulo da Fonseca Mendo, Secretário de Estado da Saúde.

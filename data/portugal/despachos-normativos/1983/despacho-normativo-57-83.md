@@ -47,36 +47,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/57-1983-311427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T07:25:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98c2c375cf974d6a5ee260601605f32d9f4ee03828b745b489da9ae8d1a4a563
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3aa739caadee74fc6376b237d45344d6a84603414add0bf147894ce192feab9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:25:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Preparatório
+- Habilitações Literárias
+- Pessoal Docente
+relationships:
+- type: cites
+  target: pt:dre:157046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676613:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:401349:por
+  label: Rectificado pela DECL.DD2946.1983.02.28.PCM DR.IS [48]Supl de 28/Fev/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-401349
+  date: '1983-02-28'
 article_structure:
   article_count: 0
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:25:58Z'
   warnings: []
   errors: []
 ---
@@ -3287,7 +3355,7 @@ Cursos industriais da especialidade, regulados pelo [Decreto n.º 20420](https:/
 
 Habilitação complementar, regulada pelo [Decreto n.º 20420](https://diariodarepublica.pt/dr/detalhe/decreto/20420-1931-595296), de 20 de Outubro de 1931 (ver nota a) (ver nota c).
 
-#### Secção preparatória aos ex-institutos industriais, regulada pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948 (ver nota a) (ver nota c).
+Secção preparatória aos ex-institutos industriais, regulada pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948 (ver nota a) (ver nota c).
 
 (nota a) Desde que os respectivos titulares comprovem possuir um dos seguintes cursos:
 
@@ -3365,7 +3433,7 @@ Curso de formação de montador electricista, montador radiotécnico e electrome
 
 Habilitação complementar, regulada pelo [Decreto n.º 20420](https://diariodarepublica.pt/dr/detalhe/decreto/20420-1931-595296), de 20 de Outubro de 1931 (ver nota a) (ver nota c).
 
-#### Secção preparatória dos institutos industriais, regulada pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948 (ver nota a) (ver nota c).
+Secção preparatória dos institutos industriais, regulada pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948 (ver nota a) (ver nota c).
 
 (nota a) Desde que os respectivos titulares comprovem possuir um dos seguintes cursos:
 
@@ -3741,7 +3809,7 @@ Imagem (c).
 
 Imagem e Comunicações Áudio-Visuais (ver nota c).
 
-#### Secção preparatória aos cursos de Pintura e Escultura das escolas superiores de belas-artes (ver nota b) (ver nota c).
+Secção preparatória aos cursos de Pintura e Escultura das escolas superiores de belas-artes (ver nota b) (ver nota c).
 
 3.º escalão
 
@@ -3827,7 +3895,7 @@ Equipamento e Decoração (ver nota c).
 
 Equipamentos e Interiores (ver nota c).
 
-#### Secção preparatória aos cursos de Pintura e Escultura das escolas superiores de belas-artes (ver nota b) (ver nota c).
+Secção preparatória aos cursos de Pintura e Escultura das escolas superiores de belas-artes (ver nota b) (ver nota c).
 
 3.º escalão
 

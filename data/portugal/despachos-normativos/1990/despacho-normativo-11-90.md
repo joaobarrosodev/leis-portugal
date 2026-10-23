@@ -46,36 +46,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-1990-334606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T07:44:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8dbdaa045a62191de7f24fe45793ab7787caa40da2bd875f5053650d70ee949c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec74c5ea50679dca08223076a1cfdee62797ffc9d0b901844b97d4d784b8f91a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:44:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto
+- Iscte
+relationships:
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685448:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:528471:por
+  label: Rectificado pela DECL.DD3214.1990.06.21.PCM, DR.IS [149]Supl de 30/Jun/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-528471
+  date: '1990-06-21'
+- type: corrected_by
+  target: pt:dre:546240:por
+  label: Rectificada a Decl DD3214 de 30-jun 1990, na parte que rectifica o nº 5 do art. 36º do presente despacho normativo,
+    pela DECL.DD3219.31.08.1990.PCM, DR.IS [201-3ºSupl] de 31.08.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-546240
+  date: '1990-08-31'
 article_structure:
-  article_count: 53
+  article_count: 54
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:44:35Z'
   warnings: []
   errors: []
 ---
@@ -246,7 +303,9 @@ f) Elementos sobre a admissão, a frequência e o sucesso escolares.
 
 ### CAPÍTULO II — Dos órgãos do ISCTE
 
-#### SECÇÃO I — Artigo 16.º
+#### SECÇÃO I
+
+###### Artigo 16.º
 
 Enumeração
 
@@ -360,7 +419,7 @@ d) Deixem de pertencer à escola.
 
 ###### Artigo 22.º — Eleição
 
-**O presidente do ISCTE é eleito pela assembleia da escola na sua primeira reunião ordinária, que terá lugar oito dias após a entrada em funções, por um período de dois anos, devendo ser um professor de carreira com a categoria de associado ou catedrático.**
+O presidente do ISCTE é eleito pela assembleia da escola na sua primeira reunião ordinária, que terá lugar oito dias após a entrada em funções, por um período de dois anos, devendo ser um professor de carreira com a categoria de associado ou catedrático.
 
 ###### Artigo 23.º — Atribuições e competências
 

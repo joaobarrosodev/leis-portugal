@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/58/1995/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1995-174313
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6c7392151f95840705a8d4124d8ef56108a4999b21eb8abb8721110994b670f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0483eb15fdd22349ba7018373989a903f2daf8b46917ce5c3e257713dc4ac7d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,30 @@ reuse:
 subjects:
 - Comissão de Protecção de Menores
 - Definição de Competências
+- Direcção Geral dos Serviços Tutelares de Menores
 - Extinção de Serviços
 - Federação Nacional das Instituições de Protecção à Infância
 - Gestão do Património
 - Instituto de Reinserção Social
 - Integração de Trabalhadores
 - Orgânica
-- Direcção Geral dos Serviços Tutelares de Menores
 - Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:656109:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECL-RECT 74/95 DE 19-JUN DR.IS-A [149]SUPL DE 30/JUN/1995\0UN/1995"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-06-30'
+- type: amended_by
+  target: pt:dre:655934:por
+  label: "Alterados os arts. 2º, 3º, 5º, 6º, 8º, 12º a 14º, 16º, 26º, 31º, 32º, 38º a 47º, 49º, 71º, 72º e 116º pelo DEC LEI.552/99.1999.12.15.MJ,DR.IS-A\
+    \ [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/552-1999-655934
+  date: '1999-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/1993/01/22/p/dre
   label: null
@@ -92,16 +103,117 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/5/1991/01/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/5/1991/01/08/p/dre
+- type: cites
+  target: pt:dre:286311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693782:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:570567:por
+  label: "Revogados os títulos I e II do Dec Lei 314/78, de 27-Out DR.IS [248] na redacção do presente diploma, pela LEI.166/99.1999.09.14.AR\
+    \ DR.IS-A [215]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/166-1999-570567
+  date: '1999-09-14'
+- type: repealed_by
+  target: pt:dre:315335:por
+  label: "Revogada a subsecção III do Cap III, pelo DEC LEI.323-D/2000.2000.12.20.MJ DR.IS-A [292]3ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-d-2000-315335
+  date: '2000-12-20'
+- type: repealed_by
+  target: pt:dre:278882:por
+  label: "Revogado, excepto a al. c) do nº 1 do art. 120.º, pelo DEC LEI.204-A/2001.2001.07.26.MJ DR.IS-A [172]SUPL nos termos\
+    \ do seu art. 79.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/204-a-2001-278882
+  date: '2001-07-26'
 article_structure:
   article_count: 121
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:11Z'
   warnings: []
   errors: []
 ---
@@ -530,7 +642,7 @@ j) Exercer os demais poderes que, por lei ou por delegação, lhe sejam conferid
 
 ###### Artigo 27.º — Delegação de competência
 
-**O Ministro da Justiça pode delegar no presidente a competência para despachar assuntos no domínio das atribuições do Instituto, bem como autorizar a sua subdelegação.**
+O Ministro da Justiça pode delegar no presidente a competência para despachar assuntos no domínio das atribuições do Instituto, bem como autorizar a sua subdelegação.
 
 ###### Artigo 28.º — Composição do conselho geral
 
@@ -2130,16 +2242,16 @@ O presente diploma, com excepção do seu artigo 98.º, entra em vigor na data d
 
 Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 1995. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 9 de Março de 1995.**
+Promulgado em 9 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Março de 1995.**
+Referendado em 13 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Conteúdos funcionais das carreiras a que se referem os artigos 100.º, 101.º e 102.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/077a00/17981827.pdf))](https://files.diariodarepublica.pt/1s/1995/03/077a00/17981827.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/077a00/17981827.pdf)

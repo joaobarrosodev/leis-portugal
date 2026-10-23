@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/97/2001/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2001-345277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:30:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3eb7afe2cab6401f6910fc30e89aacb89682b71873b90601352cdecd4eed63f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d4f3193206fc7af9f6d5dbd173b2fc57f0a377c5124ce4ea082f9540fa2430d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:30:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Carreira de Informática
-- Formação Profissional
 - Administração Pública
-- Recrutamento de Pessoal
+- Carreira de Informática
+- Estágio de Formação
+- Formação Profissional
+- Horário de Trabalho
 - Integração de Trabalhadores
 - Pessoal de Informática
-- Estágio de Formação
 - Progressão na Carreira
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Reestruturação de Carreiras
-- Horário de Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:224017918:por
@@ -101,16 +101,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:222583134:por
+  label: Revogado, a partir de 01.11.2023, o presente diploma, sem prejuízo da manutenção das disposições legais referentes
+    às funções específicas mencionadas nas als. c), d) e e) do n.º 1 do seu art. 15.º e à categoria subsistente de técnico
+    de informática-adjunto prevista no seu art. 16.º, pelo(a) Decreto-Lei n.º 88/2023 - Diário da República n.º 196/2023,
+    Série I de 2023-10-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-2023-222583134
+  date: '2023-10-10'
 article_structure:
   article_count: 31
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:30:41Z'
   warnings: []
   errors: []
 ---
@@ -461,48 +501,48 @@ c) O [Decreto-Lei n.º 12/2000](https://diariodarepublica.pt/dr/detalhe/decreto-
 
 Visto e aprovado em Conselho de Ministros de 25 de Janeiro de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - José Sócrates Carvalho Pinto de Sousa - Alberto de Sousa Martins.
 
-**Promulgado em 8 de Março de 2001.**
+Promulgado em 8 de Março de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Março de 2001.**
+Referendado em 15 de Março de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA I
 
 (a que se refere o n.º 1 do artigo 8.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)
+[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)
 
 MAPA II
 
 (a que se refere o n.º 1 do artigo 9.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)
+[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)
 
 MAPA III
 
 (a que se refere o n.º 2 do artigo 18.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)
+[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)
 
 MAPA IV
 
 (a que se referem os artigos 21.º e 30.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)
+[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)
 
 MAPA V
 
 (a que se referem os artigos 21.º e 30.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)
+[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)
 
 MAPA VI
 
 (a que se referem os artigos 22.º e 30.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)
+[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)](https://files.diariodarepublica.pt/1s/2001/03/072a00/16841693.pdf)

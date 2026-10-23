@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/03/05900/06760676.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/259-1981-388386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:41:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 035af4970e2fc9066ae97bfd73c627f77ec3aa9ef52094cd669aaffa37e3a291
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f75b8adca8e115fcceabe5fa231b0fbaf5be235ed5d488fe3725fa67e954674
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:41:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cartão de Identificação
+- Oficial de Justiça
+- Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:613707:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:274223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471968:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORTARIA NUMERO 215/89, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 62, DE 15/3/89.\03/89.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:613707:por
+  label: "Revogado o presente diploma, pela PORT.215/89.15.03.1989.MJ, DR.IS [62] de 15.03.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/215-1989-613707
+  date: '1989-03-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:41:35Z'
   warnings: []
   errors: []
 ---
@@ -122,4 +150,4 @@ b) Se deslocam, fora da área da comarca, entre a sua residência e o local de t
 
 Ministério da Justiça, 24 de Fevereiro de 1981. - O Ministro da Justiça, José Manuel Meneres Sampaio Pimentel.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/03/05900/06760676.pdf))](https://files.diariodarepublica.pt/1s/1981/03/05900/06760676.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/03/05900/06760676.pdf)

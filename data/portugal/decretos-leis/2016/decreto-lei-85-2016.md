@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/24300/0477304776.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85/2016/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2016-105583346
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a95433effdfcc17d85af9f6d23ce99c36288ca9f7729e36cd9b1d872c2ec9d82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8740239ec673a526b435420928c114dfa39c487789f47fad5cc7c316b88405ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Financeira do Estado
+- Administração Pública
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autorização de Despesas
-- Gestão Financeira
+- Contabilidade Pública
 - Definição de Competências
 - Despesas Públicas
-- Administração Pública
-- Gestão do Património
-- Lei Geral do Trabalho em Funções Públicas
 - Direção Geral do Orçamento
-- Sistema de Normalização Contabilística
+- Gestão do Património
+- Gestão Financeira
+- Lei Geral do Trabalho em Funções Públicas
+- Normalização
 - Prestação de Contas
 - Reembolso
 - Reposição de Verbas
-- Contabilidade Pública
-- Normalização
+- Sistema de Normalização Contabilística
 relationships:
 - type: amended_by
   target: pt:dre:214618895:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115312061:por
+  label: Prorrogado para 01.01.2019, para as entidades da administração local, o prazo estabelecido no art. 18.º do Dec Lei
+    192/2015 de 11-set, com a redação do presente diploma, e excecionadas, sem prejuízo da realização dos desenvolvimentos
+    para a implementação do SNC-AP, durante o ano de 2018 as instituições de segurança social, a SCML e a CGA, I. P., do disposto
+    no n.º 1 do referido art. 18.º pelo(a) Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2018-115312061
+  date: '2018-05-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/113/1995/05/25/p/dre
   label: null
@@ -128,16 +136,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
+- type: cites
+  target: pt:dre:144217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70196966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262478:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:00Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +262,9 @@ Os artigos 35.º, 36.º, 38.º, 39.º e 40.º do [Decreto-Lei n.º 155/92](https
 
 7 - As restituições ou reembolsos serão processados por abate à receita, sendo os respetivos procedimentos definidos por instruções da Direção-Geral do Orçamento.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...]
 
@@ -208,7 +274,9 @@ Os artigos 35.º, 36.º, 38.º, 39.º e 40.º do [Decreto-Lei n.º 155/92](https
 
 4 - O disposto no n.º 3 do artigo 174.º da Lei Geral do Trabalho em Funções Públicas, aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro, 84/2015, de 7 de agosto, e 18/2016, de 20 de junho, é aplicável, com as necessárias adaptações, à reposição por compensação prevista no presente artigo.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...]
 
@@ -218,7 +286,9 @@ Os artigos 35.º, 36.º, 38.º, 39.º e 40.º do [Decreto-Lei n.º 155/92](https
 
 4 - [...]
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - Em casos excecionais, devidamente justificados, pode ser determinada a relevação, total ou parcial, da reposição das quantias recebidas.
 
@@ -228,7 +298,9 @@ Os artigos 35.º, 36.º, 38.º, 39.º e 40.º do [Decreto-Lei n.º 155/92](https
 
 4 - A relevação prevista nos números anteriores não pode ser determinada quando os interessados se encontrem na situação referida no n.º 3 do artigo anterior.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - [...]
 
@@ -252,7 +324,9 @@ Os artigos 8.º, 14.º e 18.º do [Decreto-Lei n.º 192/2015](https://diariodare
 
 4 - Relativamente às freguesias em que seja aplicado o regime simplificado, e sem prejuízo do recurso a soluções de serviços partilhados entre freguesias ou outras entidades da administração local, nos termos do disposto no artigo 5.º do presente decreto-lei, por ausência de recursos humanos que preencham os requisitos do n.º 2 do presente artigo, a função do contabilista público pode ser assegurada por um contabilista certificado, nos termos do artigo 9.º dos Estatutos da Ordem dos Contabilistas Certificados anexos à [Lei n.º 139/2015](https://diariodarepublica.pt/dr/detalhe/lei/139-2015-70196966), de 7 de setembro, sem prejuízo de deter a formação específica em contabilidade pública referida no n.º 2.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Durante o ano de 2017 todas as entidades públicas devem assegurar as condições e tomar as decisões necessárias para a transição para o SNC-AP.
 
@@ -264,7 +338,9 @@ Os artigos 8.º, 14.º e 18.º do [Decreto-Lei n.º 192/2015](https://diariodare
 
 5 - A prestação de contas relativa aos anos de 2016 e 2017 a realizar, respetivamente, em 2017 e 2018 é efetuada de acordo com os planos de contabilidade pública em vigor em 2016 e 2017.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, o presente decreto-lei produz efeitos no dia 1 de janeiro de 2018.
 
@@ -296,12 +372,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de novembro de 2016. - António Luís Santos da Costa - Maria Teresa Gonçalves Ribeiro - Maria Manuel de Lemos Leitão Marques - Fernando António Portela Rocha de Andrade - Marcos da Cunha e Lorena Perestrello de Vasconcellos - Maria Constança Dias Urbano de Sousa - Francisca Eugénia da Silva Dias Van Dunem - Eduardo Arménio do Nascimento Cabrita - Luís Filipe Carrilho de Castro Mendes - Maria Fernanda Fernandes Garcia Rollo - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva - Adalberto Campos Fernandes - Pedro Manuel Dias de Jesus Marques - Paulo Alexandre dos Santos Ferreira - Célia Maria Gomes de Oliveira Ramos - Luís Manuel Capoulas Santos - Ana Paula Mendes Vitorino.
 
-**Promulgado em 9 de dezembro de 2016.**
+Promulgado em 9 de dezembro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de dezembro de 2016.**
+Referendado em 15 de dezembro de 2016.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.

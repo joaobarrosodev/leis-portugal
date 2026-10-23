@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/06/13600/18601860.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/366-1984-386579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T08:02:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95a845cb97a6b9e6c27286faddccdfe6a339a3b75d8008ffbe26c08b9ec46834
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b013777a80a85cebfd4ee0d3ab36a0e0471ffa6c7546196be67d622156057194
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:02:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Médica
+- Carreira Médica Hospitalar
+- Clínica Geral
+- Ensino Médico
+- Formação Profissional
+- Internato Complementar
+- Médico
+- Regulamento
+- Saúde Pública
+relationships:
+- type: cites
+  target: pt:dre:381297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORT 695/95 DE 30-JUN DR.IS-B [149] COM AS EXCEPÇÕES PREVISTAS EM DISPOSIÇÕES TRANSITÓRIAS CONSTANTES\
+    \ DO REGULAMENTO EM ANEXO AO REFERIDO DIPLOMA\0O DIPLOMA"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-06-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:02:59Z'
   warnings: []
   errors: []
 ---
@@ -99,6 +122,6 @@ Competirá à direcção do internato de cada estabelecimento ou, no caso de int
 
 Ministério da Saúde.
 
-**Assinada em 23 de Maio de 1984.**
+Assinada em 23 de Maio de 1984.
 
-**O Ministro da Saúde, António Manuel Maldonado Gonelha.**
+O Ministro da Saúde, António Manuel Maldonado Gonelha.

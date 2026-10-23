@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 240/1974, 1º Suplemento, Série I de 1974-10-15
   number: '240'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1222-(2) a 1222-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/10/24001/00020002.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/666-1974-471535
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T04:32:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18d9a7c09f4e2c5474fef597340f53dd7bdadb93e4114007898818d377ebfad9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b3c859a844d76dff540b86fe6f0a2a811258da1ee6ef7eafd4af1a1bfcb541e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:32:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:680231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685609:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:32:52Z'
   warnings: []
   errors: []
 ---
@@ -102,6 +110,6 @@ Manda o Conselho dos Chefes dos Estados-Maiores das Forças Armadas, pelo Chefe 
 
 E) Curso no quadro dos serviços técnicos da arma de transmissões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/10/24001/00020002.pdf))](https://files.diariodarepublica.pt/1s/1974/10/24001/00020002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/10/24001/00020002.pdf)
 
 Estado-Maior do Exército, 26 de Setembro de 1974. - O Chefe do Estado-Maior do Exército, Jaime Silvério Marques, general.

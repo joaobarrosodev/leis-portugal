@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/386/1998/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1998-222178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4c12361be38600189d78a1c9f92face77eadc1646b1f5a2af871fc8485d7915
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 174891bd2f95c1d3b9b78691c8e453e362eb74d0b88fc250e7e5443754b15002
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Instituição de Crédito
+- Apoio ao Investimento
 - Contrato
 - Direcção Geral do Ambiente
+- Direcção Geral do Desenvolvimento Regional
 - Direcção Geral dos Transportes Terrestres
 - Empresa Transitária
-- Apoio ao Investimento
-- Veículo
-- Direcção Geral do Desenvolvimento Regional
-- Proteção do Ambiente
-- Transporte de Mercadorias
+- Financiamento
+- Instituição de Crédito
 - Poluição Sonora
+- Proteção do Ambiente
 - Simiat
 - Subsídio não Reembolsável
+- Transporte de Mercadorias
 - Transporte Público
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:666893:por
@@ -90,16 +90,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/181/1995/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/181/1995/07/26/p/dre
+- type: cites
+  target: pt:dre:484982:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:07Z'
   warnings: []
   errors: []
 ---
@@ -138,11 +142,15 @@ c) [Anterior alínea b).]
 
 d) [Anterior alínea c).]
 
-###### Artigo 3.º — Natureza dos incentivos
+Artigo 3.º
+
+Natureza dos incentivos
 
 Os incentivos a conceder assumem a forma de subvenção financeira a fundo perdido, a definir nos termos do artigo 5.º
 
-###### Artigo 4.º — Aplicações relevantes
+Artigo 4.º
+
+Aplicações relevantes
 
 1 - Consideram-se aplicações relevantes, para efeitos de cálculo do incentivo a conceder, as seguintes:
 
@@ -166,7 +174,9 @@ c) Investimentos em veículos anteriormente matriculados noutro país.
 
 3 - O cálculo das aplicações relevantes é feito a preços correntes.
 
-###### Artigo 5.º — Montante dos incentivos
+Artigo 5.º
+
+Montante dos incentivos
 
 1 - O valor do prémio ao abate previsto nas alíneas a) e b) do n.º 1 do artigo 4.º é calculado em função da idade e do peso bruto dos veículos cujas matrículas sejam canceladas pela empresa proprietária, por aplicação de uma fórmula a fixar em resolução do Conselho de Ministros.
 
@@ -174,13 +184,17 @@ c) Investimentos em veículos anteriormente matriculados noutro país.
 
 3 - Os incentivos a conceder pelas aplicações relevantes previstas nas alíneas d) e e) do n.º 1 do artigo 4.º são determinados pela aplicação da percentagem máxima de 50% sobre as correspondentes despesas.
 
-###### Artigo 7.º — Quadro institucional
+Artigo 7.º
+
+Quadro institucional
 
 1 - A gestão do presente Sistema de Incentivos é assegurada por uma comissão de selecção de candidaturas, constituída por dois representantes da Direcção-Geral de Transportes Terrestres (DGTT), um dos quais presidirá, e um representante da Direcção-Geral do Ambiente (DGA).
 
 2 - ...
 
-###### Artigo 10.º — Contrato de concessão de incentivos
+Artigo 10.º
+
+Contrato de concessão de incentivos
 
 1 - ...
 
@@ -188,7 +202,9 @@ c) Investimentos em veículos anteriormente matriculados noutro país.
 
 3 - O contrato referido no n.º 1 deverá ser enviado pela instituição de crédito ao promotor no prazo máximo de 30 dias contados da data da disponibilização da verba e deverá ser assinado pelo promotor no prazo máximo de 60 dias após a sua recepção, sob pena de caducidade da candidatura, salvo se o atraso não lhe for imputável.
 
-###### Artigo 13.º — Incumprimento das obrigações
+Artigo 13.º
+
+Incumprimento das obrigações
 
 1 - ...
 
@@ -196,7 +212,9 @@ c) Investimentos em veículos anteriormente matriculados noutro país.
 
 3 - O disposto no número anterior não se aplica aos transportadores públicos, salvo se adquirirem veículos de mercadorias com idade superior a seis anos.
 
-###### Artigo 15.º — Cobertura orçamental
+Artigo 15.º
+
+Cobertura orçamental
 
 1 - As verbas necessárias à atribuição dos financiamentos serão inscritas anualmente nos orçamentos da DGTT e da DGA, sob o título 'Sistema de Incentivos à Melhoria do Impacte Ambiental dos Transportes Públicos Rodoviários de Mercadorias'.
 
@@ -206,12 +224,12 @@ c) Investimentos em veículos anteriormente matriculados noutro país.
 
 Visto e aprovado em Conselho de Ministros de 22 de Outubro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 19 de Novembro de 1998.**
+Promulgado em 19 de Novembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Novembro de 1998.**
+Referendado em 24 de Novembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

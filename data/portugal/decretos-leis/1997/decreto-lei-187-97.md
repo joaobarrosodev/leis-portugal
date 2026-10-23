@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/172a00/38473855.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/187/1997/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1997-144603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34ddaf04e80376d585aaf55db9cc4c6c3c36d07567bccd9f4708189f81f59c22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 478fc12c3a33c49f3d4027ff3477093a9a5a0ef056a078cff3ff0bc4bc26768d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,46 +68,62 @@ subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
 - CE Países
-- Investigação Científica e Tecnológica
-- Pessoal Dirigente
-- Ministro da Ciência e da Tecnologia
 - Comissão Permanente da Invotan
-- Cooperação Técnica
-- Equipa de Projecto
-- Eureka
-- Ministério do Planeamento e da Administração do Território
-- Gabinete para os Assuntos Europeus e Relações Externas
-- CPLP
-- Instituto de Cooperação Científica e Tecnológica Internacional
-- Ministério da Ciência e da Tecnologia
-- Missão Diplomática
-- Orgânica
-- Tecnologia
 - Cooperação Científica
 - Cooperação Internacional
+- Cooperação Técnica
+- CPLP
+- Equipa de Projecto
+- Eureka
+- Gabinete para os Assuntos Europeus e Relações Externas
+- Instituto de Cooperação Científica e Tecnológica Internacional
+- Investigação Científica e Tecnológica
 - Jnict
+- Ministério da Ciência e da Tecnologia
+- Ministério do Planeamento e da Administração do Território
+- Ministro da Ciência e da Tecnologia
+- Missão Diplomática
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Receita Própria
 - Remuneração
+- Tecnologia
 relationships:
 - type: amended_by
   target: pt:dre:685032:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:657223:por
+  label: "Determinada a extinção nos termos da al. a) do n.º 2 do art. 2.º da Lei 16-A/2002, de 31-Mai, do Instituto de Cooperação\
+    \ Científica e Tecnológica Internacional, cuja orgânica consta do presente diploma, pelo DEC LEI.205/2002.2002.10.07.MCES\
+    \ DR.IS-A [132]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2002-657223
+  date: '2002-10-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/144/1996/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/144/1996/08/26/p/dre
+- type: cites
+  target: pt:dre:401914:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:685032:por
+  label: "Revogado pelo DEC LEI.120/2003.2003.06.18.MCES, DR.IS-A [139]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2003-685032
+  date: '2003-06-18'
 article_structure:
   article_count: 32
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 29
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:35Z'
   warnings: []
   errors: []
 ---
@@ -334,7 +350,9 @@ a) A Divisão de Cooperação Bilateral;
 
 b) A Divisão de Cooperação Multilateral.
 
-###### Artigo 14.º — Divisão de Cooperação Bilateral
+###### Artigo 14.º
+
+##### Divisão de Cooperação Bilateral
 
 Compete à Divisão de Cooperação Bilateral:
 
@@ -346,7 +364,9 @@ c) Fomentar a cooperação da comunidade científica nacional com as estrangeira
 
 d) Acompanhar os trabalhos de negociação de instrumentos internacionais de cooperação científica e tecnológica a nível bilateral.
 
-###### Artigo 15.º — Divisão de Cooperação Multilateral
+###### Artigo 15.º
+
+##### Divisão de Cooperação Multilateral
 
 1 - Compete à Divisão de Cooperação Multilateral:
 
@@ -382,7 +402,9 @@ a) A Divisão de Política Científica e Tecnológica;
 
 b) A Divisão de Apoio Operacional.
 
-###### Artigo 17.º — Divisão de Política Científica e Tecnológica
+###### Artigo 17.º
+
+##### Divisão de Política Científica e Tecnológica
 
 À Divisão de Política Científica e Tecnológica compete:
 
@@ -396,7 +418,9 @@ d) Acompanhar, em articulação com a Divisão de Apoio Jurídico, o processo de
 
 e) Propor as acções de cooperação científica e tecnológica com a União Europeia julgadas relevantes.
 
-###### Artigo 18.º — Divisão de Apoio Operacional
+###### Artigo 18.º
+
+##### Divisão de Apoio Operacional
 
 1 - À Divisão de Apoio Operacional compete:
 
@@ -436,9 +460,13 @@ d) Apoiar o desenvolvimento da cooperação empresarial com os países referidos
 
 e) Acompanhar os trabalhos de negociação de instrumentos internacionais de cooperação científica e tecnológica com os países referidos na alínea a), em estreita colaboração com o Instituto da Cooperação Portuguesa e sem prejuízo das competências deste.
 
-##### SUBSECÇÃO IV — Divisão de Gestão e Administração
+##### SUBSECÇÃO IV
 
-###### Artigo 20.º — Divisão de Gestão e Administração
+##### Divisão de Gestão e Administração
+
+###### Artigo 20.º
+
+##### Divisão de Gestão e Administração
 
 1 - À Divisão de Gestão e Administração compete promover e assegurar a gestão e administração dos recursos humanos, financeiros e patrimoniais afectos ao ICCTI.
 
@@ -476,7 +504,9 @@ e) Assegurar a execução das normas sobre condições ambientais de higiene e s
 
 f) Promover a elaboração e execução do plano de formação profissional do pessoal do ICCTI.
 
-###### Artigo 21.º — Secção de Administração Geral
+###### Artigo 21.º
+
+#### Secção de Administração Geral
 
 Junto da Divisão de Gestão e Administração funciona a Secção de Administração Geral, à qual compete:
 
@@ -502,9 +532,13 @@ j) Executar as tarefas inerentes à recepção, classificação, distribuição 
 
 l) Garantir a divulgação pelos serviços das normas internas e directivas superiores de carácter geral.
 
-##### SUBSECÇÃO V — Divisão de Apoio Jurídico
+##### SUBSECÇÃO V
 
-###### Artigo 22.º — Divisão de Apoio Jurídico
+##### Divisão de Apoio Jurídico
+
+###### Artigo 22.º
+
+##### Divisão de Apoio Jurídico
 
 Compete à Divisão de Apoio Jurídico:
 
@@ -524,9 +558,13 @@ g) Dar parecer sobre reclamações, petições, queixas ou requerimentos dirigid
 
 h) Informar e esclarecer os órgãos, serviços e pessoal do ICCTI sobre o conteúdo de actos legislativos, regulamentares e administrativos, bem como de decisões de tribunais com relevância para a actuação do ICCTI ou para a situação profissional dos seus funcionários e agentes.
 
-##### SUBSECÇÃO VI — Divisão de Apoio Informático
+##### SUBSECÇÃO VI
 
-###### Artigo 23.º — Divisão de Apoio Informático
+##### Divisão de Apoio Informático
+
+###### Artigo 23.º
+
+##### Divisão de Apoio Informático
 
 Compete à Divisão de Apoio Informático:
 
@@ -620,16 +658,16 @@ A transição de pessoal dos quadros de pessoal da Junta Nacional de Investigaç
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1997. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - José Augusto de Carvalho - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 17 de Junho de 1997.**
+Promulgado em 17 de Junho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Junho de 1997.**
+Referendado em 20 de Junho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 Mapa a que se refere o n.º 2 do artigo 29.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/172a00/38473855.pdf))](https://files.diariodarepublica.pt/1s/1997/07/172a00/38473855.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/172a00/38473855.pdf)

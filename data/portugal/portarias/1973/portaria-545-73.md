@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/545-1973-419244
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T04:09:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 884f4789cf40e431d6357eed3223e039e446f43b11abd91933e7e07dced83c4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2439764d2e3a627cec4186830f0b9f8be5c5ea628231ee06cdc2cb75cccfe5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:09:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:249521:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:09:15Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comérci
 
 1.º Os preços máximos de venda, nos distritos de Leiria, Santarém e Setúbal, do leite especial pasteurizado são os constantes da seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/08/18600/13961396.pdf))](https://files.diariodarepublica.pt/1s/1973/08/18600/13961396.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/08/18600/13961396.pdf)
 
 2.º O preço de venda do leite contido nas embalagens de 0,25 l, quando consumido no próprio estabelecimento, não poderá exceder 2$60.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/10/19700/0521405254.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/151/2014/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f12f2efa302e7cd6473ec6707539705ca1daf227a2e3e4e4d87cd0e3d461860
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e7d819db935d2d54bcb7551e7d0ea12fd8da0b93bdc552fab108a291452baf0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,27 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Caminhos de Ferro
-- Transporte Ferroviário
 - Definição de Competências
 - Infraestrutura dos Transportes
 - Instituto da Mobilidade e dos Transportes
 - Prestação de Serviços
 - Segurança Ferroviária
+- Transporte Ferroviário
 - Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:106663786:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:106663786:por
+  label: Determinada a extinção, sendo objeto de fusão, do Gabinete de Investigação de Segurança e de Acidentes Ferroviários,
+    cuja orgânica, atribuições e competências constam do Dec Lei 70/2012 de 21-mar (na redação do presente diploma) que é
+    revogado a partir de 01.04.2017, transitando as suas atribuições para o Gabinete de Prevenção e Investigação de Acidentes
+    com Aeronaves e de Acidentes Ferroviários pelo(a) Decreto-Lei n.º 36/2017 - Diário da República n.º 62/2017, Série I de
+    2017-03-28 sem prejuízo do previsto no seu art. 16.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2017-106663786
+  date: '2017-03-28'
 - type: cites
   target: celex:31969R1191
   label: null
@@ -140,6 +149,14 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir
   label: null
   source: http://data.europa.eu/eli/dir
+- type: repealed_by
+  target: pt:dre:70476205:por
+  label: Revogados(a partir de 08.10.2015) o art 2.º (na redação do presente diploma), as als. e) a i), k) a m), p) a r),
+    v), w), y) e z) do art 3.º (na redação do presente diploma), o art 22.º (na redação do presente diploma) e os arts 45.º,
+    49.º, 50.º, 63.º (na redação do presente diploma) do Dec Lei 270/2003 de 28-out, pelo(a) Decreto-Lei n.º 217/2015 - Diário
+    da República n.º 196/2015, Série I de 2015-10-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-2015-70476205
+  date: '2015-10-07'
 - type: transposes
   target: celex:31995L0018
   label: null
@@ -149,15 +166,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 163
-  section_count: 40
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 142
+  section_count: 42
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:16Z'
   warnings: []
   errors: []
 ---
@@ -214,7 +231,9 @@ d) [...].
 
 4 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]:
 
@@ -276,7 +295,9 @@ ab) [Anterior alínea ad)];
 
 ac) [Anterior alínea ae)].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
@@ -284,11 +305,15 @@ ac) [Anterior alínea ae)].
 
 3 - Em caso de incumprimento do disposto no número anterior pode a AMT impor obrigações específicas através de atos previstos no artigo 75.º
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 Em especial no que se refere à infraestrutura congestionada, o gestor da infraestrutura pode reverter a atribuição de um canal horário cuja utilização, durante um período de pelo menos um mês, tenha sido inferior ao nível estipulado no diretório da rede, exceto se essa subutilização tiver sido causada por razões não económicas fora do controlo dos operadores de transporte ferroviário.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos artigos 101.º, 102.º e 106.º do Tratado sobre o Funcionamento da União Europeia, das regras nacionais em matéria de concorrência e das competências das autoridades nacionais de defesa da concorrência, pode ser celebrado um acordo quadro entre o gestor da infraestrutura e um candidato, sujeito a aprovação prévia da AMT, ouvida a Autoridade da Concorrência.
 
@@ -314,7 +339,9 @@ Em especial no que se refere à infraestrutura congestionada, o gestor da infrae
 
 12 - [...].
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - [...].
 
@@ -324,7 +351,9 @@ Em especial no que se refere à infraestrutura congestionada, o gestor da infrae
 
 4 - [...].
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - [...]:
 
@@ -346,7 +375,9 @@ b) Os custos incorridos com a construção, o financiamento, a gestão, a manute
 
 8 - [...].
 
-###### Artigo 66.º-N — [...]
+Artigo 66.º-N
+
+[...]
 
 1 - [...].
 
@@ -354,7 +385,9 @@ b) Os custos incorridos com a construção, o financiamento, a gestão, a manute
 
 3 - As normas de segurança são notificadas aos destinatários e publicitadas no sítio na Internet da autoridade nacional de segurança ferroviária.
 
-###### Artigo 67.º — Exercício dos poderes de regulação e regulamentação
+Artigo 67.º
+
+Exercício dos poderes de regulação e regulamentação
 
 1 - Os regulamentos do IMT, I. P., e da AMT emitidos ao abrigo do presente diploma, nas áreas de competência de cada uma das entidades, tal como definidas nos Decretos-Leis n.os 77/2014 e 78/2014, de 14 de maio, respetivamente, devem observar os princípios da legalidade, da necessidade, da clareza, da participação e da publicidade.
 
@@ -374,7 +407,9 @@ b) Os custos incorridos com a construção, o financiamento, a gestão, a manute
 
 9 - Sobre esta matéria aplicam-se as disposições próprias previstas nos diplomas referidos no n.º 1.
 
-###### Artigo 68.º — Poderes de fiscalização
+Artigo 68.º
+
+Poderes de fiscalização
 
 1 - Os poderes de fiscalização do cumprimento do disposto no presente diploma competem ao IMT, I. P., e à AMT nos termos previstos nos Decretos-Leis n.os 77/2014 e 78/2014, de 14 de maio, respetivamente.
 
@@ -390,7 +425,9 @@ c) Direito de livre interpelação e audição de pessoal.
 
 4 - Pelo exercício da competência referida no n.º 1, pode o IMT, I. P., e a AMT cobrar os respetivos custos, devendo detalhar os mesmos.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - [...].
 
@@ -400,7 +437,9 @@ c) Direito de livre interpelação e audição de pessoal.
 
 4 - [...].
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - [...]:
 
@@ -456,13 +495,17 @@ z) O incumprimento, por parte de qualquer entidade ou agente, das regras naciona
 
 4 - [...].
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - A instrução dos processos por contraordenações previstas no presente diploma compete ao IMT, I. P., ou à AMT, conforme as competências próprias de cada uma das entidades atribuídas pelo presente diploma.
 
 2 - A aplicação das coimas previstas no presente diploma compete respetivamente ao conselho diretivo ou ao conselho de administração das entidades referidas no número anterior.
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 [...]:
 
@@ -486,7 +529,9 @@ Autoridade Nacional de Segurança Ferroviária
 
 2 - Cabe genericamente ao organismo responsável pela segurança ferroviária garantir a manutenção geral da segurança ferroviária e, sempre que tal seja razoavelmente possível, o seu reforço constante, tendo em conta a evolução da legislação europeia e o progresso técnico e científico e dando prioridade à prevenção de acidentes.
 
-###### Artigo 63.º-B — Competências da Autoridade Nacional de Segurança Ferroviária
+Artigo 63.º-B
+
+Competências da Autoridade Nacional de Segurança Ferroviária
 
 1 - À autoridade responsável pela segurança ferroviária compete, designadamente:
 
@@ -510,7 +555,9 @@ h) Emitir instruções vinculativas e recomendações em matéria de segurança 
 
 3 - Para efeitos do disposto na alínea h) do n.º 1, e sem prejuízo do disposto no artigo seguinte, as instruções vinculativas são notificadas aos destinatários e publicitadas no sítio na Internet da autoridade nacional de segurança ferroviária.
 
-###### Artigo 63.º-C — Princípios aplicáveis à tomada de decisão
+Artigo 63.º-C
+
+Princípios aplicáveis à tomada de decisão
 
 1 - As funções a desempenhar pela autoridade responsável pela segurança ferroviária devem respeitar os princípios gerais de direito administrativo, devendo em especial:
 
@@ -550,7 +597,9 @@ d) Os pedidos dos gestores das infraestruturas, das empresas ferroviárias, do o
 
 6 - [Anterior n.º 4].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]:
 
@@ -592,7 +641,9 @@ q) [...].
 
 4 - [Anterior n.º 3].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -608,7 +659,9 @@ q) [...].
 
 7 - O GISAF deve responder às notificações a que se referem os n.os 2 a 4, e tomar todas as medidas necessárias para iniciar o inquérito, no prazo máximo de uma semana após a receção dos elementos relativos ao acidente ou incidente em questão.
 
-###### Artigo 10.º — Estatuto do inquérito e condução da investigação
+Artigo 10.º
+
+Estatuto do inquérito e condução da investigação
 
 1 - O inquérito tem natureza de urgência sobre outras atividades, devendo ser realizado no prazo mais curto possível, o qual não deve exceder seis meses.
 
@@ -620,7 +673,9 @@ q) [...].
 
 5 - Para efeitos do dever de informação a que se refere o n.º 3, devem ser considerados como partes interessadas o gestor da infraestrutura, as empresas ferroviárias em questão, a autoridade nacional de segurança ferroviária, as vítimas e os seus familiares, os proprietários de bens danificados, os fabricantes, os serviços de urgência competentes, bem como os representantes dos trabalhadores e dos utilizadores.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...].
 
@@ -634,7 +689,9 @@ q) [...].
 
 6 - O GISAF publica, anualmente, até 30 de setembro, um relatório sobre os inquéritos efetuados no ano anterior, as recomendações formuladas em matéria de segurança e as medidas tomadas em conformidade com as recomendações formuladas anteriormente, do qual dá conhecimento à Agência Ferroviária Europeia.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - As recomendações de segurança devem ser dirigidas à autoridade nacional de segurança ferroviária, à Agência Ferroviária Europeia e, se o caráter da recomendação assim o exigir, a outros organismos ou autoridades nacionais de outros Estados membros.
 
@@ -660,7 +717,9 @@ Os artigos 5.º e 8 do Decreto-Lei n.º 70/2012, de 21 de março, passam a ter a
 
 5 - O mapa de pessoal do GISAF deve integrar em permanência, pelo menos, um investigador capaz de realizar as funções de responsável pelo inquérito a um eventual acidente ou incidente.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O GISAF pode requerer a colaboração de especialistas em áreas específicas pertencentes a outros órgãos da Administração Pública, Forças e Serviços de Segurança e Forças Armadas, empresas públicas ou privadas, para exercerem funções de investigador técnico, integrando ou assessorando a comissão de investigação nomeada, nos termos da legislação em vigor.
 
@@ -704,21 +763,21 @@ O presente diploma entra em vigor 30 dias após a data de publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de março de 2014. - Pedro Passos Coelho - Hélder Manuel Gomes dos Reis - Rui Manuel Parente Chancerelle de Machete - Miguel Bento Martins Costa Macedo e Silva - António de Magalhães Pires de Lima.
 
-**Promulgado em 19 de setembro de 2014.**
+Promulgado em 19 de setembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de setembro de 2014.**
+Referendado em 23 de setembro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se o artigo 3.º)
 
 ## ANEXO I — [a que se refere a alínea b) do n.º 1 do artigo 2.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/10/19700/0521405254.pdf))](https://files.diariodarepublica.pt/1s/2014/10/19700/0521405254.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/10/19700/0521405254.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 9.º)
 
@@ -1418,7 +1477,7 @@ o) «Repartição» a afetação da capacidade da infraestrutura ferroviária pe
 
 ##### SUBSECÇÃO II — Horários técnicos
 
-# PARTE I — Competência do gestor da infraestrutura e vigência do horário técnico
+## PARTE I — Competência do gestor da infraestrutura e vigência do horário técnico
 
 ###### Artigo 36.º — Elaboração e aprovação
 
@@ -1442,7 +1501,7 @@ c) As margens.
 
 4 - O gestor da infraestrutura e um candidato podem, nos termos do artigo 49.º, celebrar um acordo quadro para a utilização da capacidade na infraestrutura ferroviária em causa, com duração superior ao período de vigência de um horário técnico.
 
-# PARTE II — Procedimento
+## PARTE II — Procedimento
 
 ###### Artigo 38.º — Pedidos de canais horários
 
@@ -2444,7 +2503,7 @@ d) A complexidade do sistema de metropolitano ou metropolitano ligeiro de superf
 
 ## ANEXO I — [a que se refere alínea b) do n.º 1 do artigo 2.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/10/19700/0521405254.pdf))](https://files.diariodarepublica.pt/1s/2014/10/19700/0521405254.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/10/19700/0521405254.pdf)
 
 ## ANEXO II — [Revogado]
 

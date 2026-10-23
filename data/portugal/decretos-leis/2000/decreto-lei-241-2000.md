@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/223a00/51495151.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/241/2000/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-2000-560270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd5bdb9a187342b99ea2cecca0fad6243570b3de131004ceeb1308de4c646139
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9173608bb5282a5858b66a89e9510af2a1891ff0045da6eb77fa9ae66584123d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medicina Privada
-- Comissão de Verificação Técnica
-- Hemodiálise
-- Comissão Técnica Nacional
 - Administração Regional de Saúde
+- Centro de Saúde
+- Comissão de Verificação Técnica
+- Comissão Técnica Nacional
 - Equipamento Hospitalar
 - Fiscalização
-- Centro de Saúde
+- Hemodiálise
 - Licenciamento
+- Medicina Privada
 - Regime Jurídico
 - Tratamento de ÁGUA
 relationships:
@@ -82,20 +82,35 @@ relationships:
   target: pt:dre:491395:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:330853:por
+  label: "Alterados os arts. 7º, 11º e 12º do Dec Lei 505/99 de 20-Nov, na redacção do presente diploma, pelo DEC LEI.176/2001.2001.06.01.MS\
+    \ DR.IS-A [127]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-2001-330853
+  date: '2001-06-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/505/1999/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/505/1999/11/20/p/dre
+- type: cites
+  target: pt:dre:643284:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:491395:por
+  label: "Revogado, a partir de 11.10.2009, pelo DEC LEI.279/2009.06.10.2009.MS, DR.IS [193] de 06.10.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/279-2009-491395
+  date: '2009-10-06'
 article_structure:
-  article_count: 19
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:36Z'
   warnings: []
   errors: []
 ---
@@ -130,11 +145,15 @@ Os artigos 1.º, 6.º, 7.º, 8.º, 9.º, 11.º, 12.º, 13.º, 19.º, 24.º, 25.�
 
 5 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 As normas de qualidade e segurança são cumpridas em todas as situações previstas no presente diploma de acordo com as regras definidas pela Ordem dos Médicos, tendo em conta os códigos científicos e técnicos internacionalmente reconhecidos nesta área.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O manual de boas práticas deve integrar os processos de garantia de qualidade e é aprovado por despacho do Ministro da Saúde, ouvidas a Ordem dos Médicos e a Comissão Técnica Nacional (CTN).
 
@@ -162,7 +181,9 @@ h) ...
 
 5 - Até à aprovação do manual de boas práticas, as unidades de diálise devem proceder ao registo dos elementos referidos no n.º 3 anterior por forma a facultar a sua vigilância.
 
-###### Artigo 8.º — Qualidade da água
+Artigo 8.º
+
+Qualidade da água
 
 1 - As entidades gestoras de sistemas de abastecimento público de água devem informar com regularidade, pelo menos trimestralmente, as unidades de diálise que abastecem sobre a qualidade da água fornecida, de acordo com o que estiver definido no manual de boas práticas.
 
@@ -178,7 +199,9 @@ c) Mudanças introduzidas na captação ou no tratamento da água que possam pro
 
 4 - Para efeitos de aplicação do disposto nos números anteriores, as administrações regionais de saúde informarão as entidades gestoras dos sistemas de abastecimento público, as autarquias locais e os delegados regionais de saúde sobre a existência e localização das unidades de diálise em funcionamento nas respectivas áreas territoriais.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O relatório anual tem como objectivo a avaliação global dos cuidados prestados numa unidade de diálise e deverá ser enviado, anualmente, à ARS e à comissão de verificação técnica (CVT) respectivas, nele devendo constar os parâmetros definidos no n.º 3 do artigo 7.º deste diploma e outros considerados relevantes, designadamente os seguintes:
 
@@ -190,7 +213,9 @@ c) Doentes em lista de espera para transplantação renal.
 
 2 - Os elementos fornecidos pelo relatório anual são confidenciais e destinam- se exclusivamente ao objectivo enunciado, não sendo passíveis de publicação ou de divulgação pela ARS ou CVT, mesmo que com carácter científico.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -202,7 +227,9 @@ c) Doentes em lista de espera para transplantação renal.
 
 5 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -212,7 +239,9 @@ c) Doentes em lista de espera para transplantação renal.
 
 4 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -222,7 +251,9 @@ c) Doentes em lista de espera para transplantação renal.
 
 4 - Autorizado o licenciamento da unidade de diálise, deve a mesma apresentar, no prazo definido no despacho ministerial, a relação detalhada do pessoal e respectivo mapa, acompanhada de certificados de habilitações literárias e profissionais.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -236,13 +267,17 @@ c) Doentes em lista de espera para transplantação renal.
 
 6 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
 2 - As unidades periféricas possuem, no mínimo, as competências constantes das alíneas a), b) e c) do número anterior e, ainda, se forem unidades de diálise peritoneal, as das alíneas d) e e) do mesmo número.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -266,13 +301,17 @@ c) Apoio laboratorial.
 
 8 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Na hemodiálise domiciliária o tratamento é efectuado no domicílio do doente com um equipamento de utilização exclusiva, na modalidade de cuidados aligeirados.
 
 2 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -288,7 +327,9 @@ e) ...
 
 2 - ...
 
-###### Artigo 31.º — Articulação das unidades periféricas
+Artigo 31.º
+
+Articulação das unidades periféricas
 
 1 - As unidades periféricas devem articular-se com o serviço de nefrologia de um hospital público, de preferência em cuja área de influência se localizem.
 
@@ -296,7 +337,9 @@ e) ...
 
 3 - A articulação, com idênticos objectivos, com um hospital privado só poderá ser efectuada se essa unidade de saúde estiver licenciada e obedecer aos requisitos técnicos constantes do n.º 2 do artigo 25.º, mediante parecer favorável da Ordem dos Médicos, a emitir pelo colégio de nefrologia.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Sem prejuízo do estabelecido no n.º 6 do artigo 33.º, os médicos nefrologistas possuem autonomia profissional, designadamente no que se refere à assistência e ao tratamento dos doentes cujo seguimento clínico lhes esteja atribuído.
 
@@ -306,7 +349,9 @@ e) ...
 
 4 - ...
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - As unidades centrais devem dispor de cobertura permanente por médico nefrologista, em presença física ou em regime de prevenção.
 
@@ -320,7 +365,9 @@ e) ...
 
 6 - ...
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - ...
 
@@ -348,12 +395,12 @@ São revogados o artigo 26.º do [Decreto-Lei n.º 505/99](https://diariodarepub
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 2000. - Jaime José Matos da Gama - José Augusto Clemente de Carvalho - Maria Manuela de Brito Arcanjo Marques da Costa - Rui Nobre Gonçalves.
 
-**Promulgado em 6 de Setembro de 2000.**
+Promulgado em 6 de Setembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Setembro de 2000.**
+Referendado em 14 de Setembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

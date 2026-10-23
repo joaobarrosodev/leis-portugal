@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/19/2007/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2007-522623
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89afe4a66ffa89cebabe84871088523f0abcb1f42af7dbddcf9f83329ec7fc07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7042fd189e78265a488dc3b54cae0c59cfa9e8c1542510ee59621603818d226f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Auto-estrada do Grande Porto
-- SCUT
-- Financiamento
 - Contrato de Concessão
-- Rede de Estradas
 - Expropriação
+- Financiamento
 - Instituto das Estradas de Portugal
+- Rede de Estradas
+- SCUT
 relationships:
 - type: amended_by
   target: pt:dre:67522988:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:510863:por
+  label: "Dada nova redacção às bases I, II, V e XXVI das bases da concessão da concepção, projecto, construção, financiamento,\
+    \ exploração e conservação dos lanços de auto-estrada e conjuntos viários associados, designada por Grande Porto, aprovadas\
+    \ em anexo ao Dec Lei 189/2002, de 28-Ago, com a redacção conferida no presente diploma, pelo DEC LEI.44-G/2010.05.05.2010.MOPTC,\
+    \ DR.IS [87-Supl] de 05.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-g-2010-510863
+  date: '2010-05-05'
+- type: amended_by
+  target: pt:dre:67522988:por
+  label: Alteradas as bases I, II e V das bases da concessão, da conceção, projeto, construção, financiamento, exploração
+    e conservação dos lanços de autoestrada e conjuntos viários associados, designada por Grande Porto, aprovadas em anexo
+    ao Dec Lei 189/2002 de 28-ago, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei n.º 110/2015 - Diário da
+    República n.º 117/2015, Série I de 2015-06-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/110-2015-67522988
+  date: '2015-06-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/2002/08/28/p/dre
   label: null
@@ -91,16 +107,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/114/2002/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/114/2002/08/28/p/dre
+- type: cites
+  target: pt:dre:173758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661564:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:29Z'
   warnings: []
   errors: []
 ---
@@ -249,7 +277,9 @@ ccc) Primeiro aditamento - a minuta de aditamento ao contrato de concessão, apr
 
 2 - ...
 
-###### Base II — [...]
+Base II
+
+[...]
 
 1 - ...
 
@@ -287,7 +317,9 @@ d) ...
 
 8 - As obrigações da concessionária no que respeita ao lanço referido no número anterior implicam a apresentação do estudo prévio do estudo de impacte ambiental e da respectiva geometria de traçado, e consideraram-se cumpridas com a aprovação da geometria de traçado pelo concedente.
 
-###### Base V — [...]
+Base V
+
+[...]
 
 1 - ...
 
@@ -303,7 +335,9 @@ d) ...
 
 7 - (Anterior n.º 5.)
 
-###### Base XXVI — [...]
+Base XXVI
+
+[...]
 
 1 - As datas limite de entrada em serviço de cada um dos lanços referidos nos n.os 1 a 3 da base II, com o número de vias previsto em anexo ao primeiro aditamento, são as seguintes:
 
@@ -347,12 +381,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Novembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Mário Lino Soares Correia.
 
-**Promulgado em 6 de Janeiro de 2007.**
+Promulgado em 6 de Janeiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 8 de Janeiro de 2007.**
+Referendado em 8 de Janeiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

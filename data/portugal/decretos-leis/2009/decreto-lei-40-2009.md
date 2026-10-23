@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/02900/0092000922.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/40/2009/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2009-601343
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d43c8dff9dbea85de4397da2a0b04bfafc9b223085d62bc842320cef3daf27c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d93c022a6303c9dbbde2a7b903965be8bb6001edf74aa81d4be0d5d7ae51bad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,20 +71,50 @@ subjects:
 - Aproximação das Legislações
 - Biotecnologia
 - Catálogo Nacional de Variedades
+- Comércio
 - Engenharia Genética
 - Organismo Geneticamente Modificado
-- Saúde Pública
-- Proteção do Ambiente
-- Produto Hortícola
-- Recursos Genéticos
-- Semente
-- Comércio
 - Produto Agrícola
+- Produto Hortícola
+- Proteção do Ambiente
+- Recursos Genéticos
+- Saúde Pública
+- Semente
 relationships:
 - type: amended_by
   target: pt:dre:106825053:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:459936:por
+  label: "Alterado o anexo II do Dec Lei 154/2004, de 30-Jun, na redacção do presente diploma, pelo DEC LEI.4/2010.13.01.2010.MADRP,\
+    \ DR.IS [8] de 13.01.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-2010-459936
+  date: '2010-01-13'
+- type: amended_by
+  target: pt:dre:485624:por
+  label: "Alterado o anexo II do Dec Lei 154/2004, de 30-Jun, na redacção do presente diploma, pelo DEC LEI.4/2011.07.01.2011.MADRP,\
+    \ DR.IS [5] de 07.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-2011-485624
+  date: '2011-01-07'
+- type: amended_by
+  target: pt:dre:553056:por
+  label: "Alterado e republicado o anexo ii do Dec Lei 154/2004, de 30-jun, na redação do presente diploma, pelo DEC LEI.100/2012.07.05.2012.MAMAOT,\
+    \ DR.IS [88] de 07.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-2012-553056
+  date: '2012-05-07'
+- type: amended_by
+  target: pt:dre:498090:por
+  label: "Alterado o anexo II do Dec Lei 154/2004, de 30-jun, na redação do presente diploma, pelo DEC LEI.93/2013.11.07.2013.MAMAOT,\
+    \ DR.IS [132] de 11.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2013-498090
+  date: '2013-07-11'
+- type: amended_by
+  target: pt:dre:55235781:por
+  label: Alterado o anexo II ao Dec Lei 154/2004 de 30-jun, na redação do presente diploma, pelo(a) Decreto-Lei n.º 120/2014
+    - Diário da República n.º 150/2014, Série I de 2014-08-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2014-55235781
+  date: '2014-08-06'
 - type: cites
   target: celex:32002L0055
   label: null
@@ -109,16 +139,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/154/2004/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/154/2004/06/30/p/dre
+- type: repealed_by
+  target: pt:dre:106825053:por
+  label: Revogado o presente diploma, pelo(a) Decreto-Lei n.º 42/2017 - Diário da República n.º 69/2017, Série I de 2017-04-06,
+    sem prejuízo do previsto no seu art.º 59.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-2017-106825053
+  date: '2017-04-06'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:37Z'
   warnings: []
   errors: []
 ---
@@ -165,19 +201,19 @@ O anexo ii do Decreto-Lei n.º 154/2004, de 30 de Junho, alterado pelos Decretos
 
 Espécies hortícolas
 
-# Parte A
+Parte A
 
 Lista de espécies que devem obedecer aos protocolos de ensaio do ICVV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0092000922.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0092000922.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0092000922.pdf)
 
 [...]
 
-# Parte B
+Parte B
 
 Lista de espécies que devem obedecer aos princípios directores da UPOV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0092000922.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0092000922.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0092000922.pdf)
 
 [...]»
 
@@ -189,12 +225,12 @@ Lista de espécies que devem obedecer aos princípios directores da UPOV
 
 Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 2008. - Luís Filipe Marques Amado - Luís Filipe Marques Amado - Emanuel Augusto dos Santos - José Manuel Vieira Conde Rodrigues - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Ascenso Luís Seixas Simões.
 
-**Promulgado em 14 de Janeiro de 2009.**
+Promulgado em 14 de Janeiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de Janeiro de 2009.**
+Referendado em 15 de Janeiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/344/1998/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1998-223194
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:02:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a803643069ee47eab426e68f45f4aeafb626220a7c330bcd5cbae334c4d8eb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f569fa3ae4746fbafdf5edddbfa48787181c329370be6f80400612cf2e15fc4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:02:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
 - Definição de Competências
-- Diretor Geral
-- Ministério das Finanças
-- Integração de Trabalhadores
 - Direção Geral do Orçamento
+- Diretor Geral
+- Integração de Trabalhadores
+- Ministério das Finanças
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Reestruturação de Serviços
 - Subdirector Geral
 relationships:
 - type: amended_by
@@ -84,16 +84,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365889:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520433:por
+  label: "Revogado, a partir de 01.04.2007, com excepção do disposto no n.º 3 do artigo 20.º, pelo DEC LEI.80/2007.29.03.2007.MFAP,\
+    \ DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2007-520433
+  date: '2007-03-29'
 article_structure:
   article_count: 32
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:02:07Z'
   warnings: []
   errors: []
 ---
@@ -542,15 +556,15 @@ São revogados pelo presente decreto-lei os artigos 1.º a 8.º, 10.º a 12.º, 
 
 Visto e aprovado em Conselho de Ministros de 24 de Setembro de 1998. - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 26 de Outubro de 1998.**
+Promulgado em 26 de Outubro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Outubro de 1998.**
+Referendado em 28 de Outubro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA
 

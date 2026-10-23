@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/116/2002/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2002-288444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f089c853b2b8665b79f99e1dc310e30f13667aac0e787a837de6ea2ca2bd1a90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 767f76edbe91d391ae58bc3fb5071d242c286250ed4f30fe7b922d5be7ebb589
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
 - Fiscalização
 - Inspecção Geral de Obras Públicas Transportes e Comunicações
+- Multa
 - Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:589697:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:589697:por
+  label: "Atribuída nova denominação à Inspecção-Geral de Obras Públicas, Transportes e Comunicações, cuja criação e orgânica\
+    \ constam do Dec Lei 409/87, de 31-Dez, posteriormente alterado no presente diploma, passando a designar-se Inspecção-Geral\
+    \ das Obras Públicas, pelo DEC LEI.58/2005.04.03.2005.MOPTC, DR.IS-A [45] de 04.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2005-589697
+  date: '2005-03-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/1991/03/21/p/dre
   label: null
@@ -82,16 +89,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/129/2000/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/129/2000/07/13/p/dre
+- type: cites
+  target: pt:dre:319933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612422:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:06Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +149,7 @@ Os artigos 1.º, 2.º e 6.º do [Decreto-Lei n.º 409/87](https://diariodarepubl
 
 2 - A IGOPTC exerce a sua actividade inspectiva relativamente aos órgãos e serviços centrais que integram o Ministério do Equipamento Social, às comissões permanentes e organismos autónomos que funcionam no respectivo âmbito, às empresas tuteladas pelo Ministro ou relativamente às quais este exerce competências no âmbito da função accionista do Estado, às empresas titulares de contratos de concessão de que o Ministério seja parte e às que operam no âmbito da actividade de transporte rodoviário e das actividades auxiliares e complementares desta, sem prejuízo das competências legalmente atribuídas a outros serviços e organismos do Ministério ou a outras inspecções-gerais.
 
-###### Artigo 2.º
+Artigo 2.º
 
 ...
 
@@ -150,7 +173,7 @@ i) Fiscalizar, por sua iniciativa ou por determinação superior, o cumprimento 
 
 j) Proceder ao levantamento dos autos de notícia decorrentes das acções de fiscalização a que se refere a alínea anterior.
 
-###### Artigo 6.º
+Artigo 6.º
 
 ...
 
@@ -194,12 +217,12 @@ c) 20% para a IGOPTC.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Diogo Campos Barradas de Lacerda Machado - Alexandre António Cantigas Rosa.
 
-**Promulgado em 3 de Abril de 2002.**
+Promulgado em 3 de Abril de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Abril de 2002.**
+Referendado em 4 de Abril de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

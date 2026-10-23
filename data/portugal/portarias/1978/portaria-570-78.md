@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/570-1978-329465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:44:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb366d4826b8c3568d493532d564f532dbbb5d5b657da2be187a5083549ade6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc2aa47b67f151421a169bf169154e4a6ff0936466bb71ff558885e5550b6b19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:44:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital Central
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:393068:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:141668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297795:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:393068:por
+  label: "Revogado o nº 3 pela PORT.452/82.1982.04.30.MEU, DR.IS [100]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/452-1982-393068
+  date: '1982-04-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:44:23Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +112,11 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Saúde, 
 
 1.º Os artigos 2.º, n.º 2, 3.º, 4.º, 6.º, n.º 2, 8.º, n.os 8, 9, 10 e 11, e 22.º, n.os 8 e 9, do Regulamento aprovado pela [Portaria n.º 79/77](https://diariodarepublica.pt/dr/detalhe/portaria/79-1977-141668), de 17 de Fevereiro, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 2 - Os concursos para ocupação dos diferentes lugares em cada categoria dos quadros do pessoal médico permanente dos hospitais distritais serão realizados em hospitais centrais.
 
-###### Art. 3.º - 1 - Dentro do prazo de abertura dos concursos, os candidatos entregarão na secretaria do respectivo hospital central ou na comissão inter-hospitalar da área da sua residência, conforme concorram às vagas de hospitais centrais ou distritais, os seguintes documentos:
+Art. 3.º - 1 - Dentro do prazo de abertura dos concursos, os candidatos entregarão na secretaria do respectivo hospital central ou na comissão inter-hospitalar da área da sua residência, conforme concorram às vagas de hospitais centrais ou distritais, os seguintes documentos:
 
 a) Requerimento, em papel selado, dirigido à comissão instaladora do hospital central ou ao director-geral dos Hospitais, conforme as vagas a que concorram, solicitando a admissão ao concurso, e onde conste a identificação completa do candidato, sua residência e indicação da categoria e especialidade a que pretende concorrer;
 
@@ -119,7 +134,7 @@ g) Certificado do registo criminal.
 
 2 - Os documentos referidos nas alíneas d), e), f) e g) podem ser substituídos por certificados comprovativos da sua entrega, pelo candidato, no estabelecimento ou serviço a que está vinculado.
 
-###### Art. 4.º - 1 - Dez dias após o encerramento do prazo de cada concurso para os hospitais centrais será afixada, no respectivo hospital, a lista dos concorrentes, agrupados por especialidades, com indicação das faltas verificadas nos documentos apresentados.
+Art. 4.º - 1 - Dez dias após o encerramento do prazo de cada concurso para os hospitais centrais será afixada, no respectivo hospital, a lista dos concorrentes, agrupados por especialidades, com indicação das faltas verificadas nos documentos apresentados.
 
 2 - No mesmo prazo e no referente aos concursos para os hospitais distritais, será afixada nos serviços centrais da Direcção-Geral dos Hospitais e comissões inter-hospitalares a lista referida no número anterior.
 
@@ -135,11 +150,11 @@ g) Certificado do registo criminal.
 
 8 - As provas terão início, obrigatoriamente, nos vinte dias seguintes à afixação das listas definitivas, mas nunca antes de decorridos dez dias sobre esta afixação.
 
-###### Art. 6.º - 1 - ...
+Art. 6.º - 1 - ...
 
 2 - Os presidentes dos júris e dois vogais pertencerão aos quadros dos hospitais centrais, devendo os dois restantes vogais ser provenientes de hospitais distritais com carreira médica comprovada em que o acesso aos vários graus se tenha feito por exame ou concurso, excluindo assim a simples nomeação ou integração.
 
-###### Art. 8.º - 1 - ...
+Art. 8.º - 1 - ...
 
 ...
 
@@ -155,7 +170,7 @@ b) Melhor classificação na prova curricular.
 
 11 - Caso se mantenham igualdades, a ordenação será completada por votações sucessivas para cada um dos lugares em causa.
 
-###### Art. 22.º - 1 - ...
+Art. 22.º - 1 - ...
 
 ...
 

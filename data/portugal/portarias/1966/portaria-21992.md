@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21992-1966-475906
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:16:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2b87f0ebe7c35dd7d63605437b8d950c06cda18e1d2a2bac612082136cb087d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d8cb8f15361d6673ee364f73499ff87e41b21c57847daa564991e5462192c79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:187544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384401:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:16:04Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +111,7 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Comér
 
 2.º As quantidades mínimas, em quilogramas, de papéis correntes que as fábricas podem vender por cada encomenda e para entrega por uma só vez, por cada qualidade de papel, constam do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/10900/07450748.pdf))](https://files.diariodarepublica.pt/1s/1966/05/10900/07450748.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/10900/07450748.pdf)
 
 3.º As encomendas dos papéis correntes de cor podem ser preenchidas dentro dos mínimos estabelecidos no n.º 2.º com cores sortidas, de entre as que constam, para cada papel, da secção 3.3 da norma NP-268, referente a características do identificação primária dos papéis correntes.
 
@@ -109,7 +121,7 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Comér
 
 6.º As quantidades mínimas, em quilogramas, de papéis especiais que as fábricas podem vender por cada encomenda e para entrega por uma só vez, por cada qualidade de papel, constam do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/10900/07450748.pdf))](https://files.diariodarepublica.pt/1s/1966/05/10900/07450748.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/10900/07450748.pdf)
 
 7.º Os papéis especiais que difiram dos papéis correntes apenas no formato, acabamento e aspecto à transparência podem ser adquiridos nas quantidades mínimas estabelecidas no n.º 2.º
 
@@ -155,7 +167,7 @@ c) Atingirem anualmente um volume de compras de valor não inferior a 750000$00 
 
 d) Possuírem uma reserva permanente dos papéis referidos na alínea c), a qual deve ser relacionada com as aquisições feitas no ano anterior, de acordo com o seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/10900/07450748.pdf))](https://files.diariodarepublica.pt/1s/1966/05/10900/07450748.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/10900/07450748.pdf)
 
 § 1.º A reserva deve ser constituída por vários tipos de papel, em regra na percentagem dos adquiridos no ano anterior.
 

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/88/2008/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2008-448970
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6af7d0a6a8c594c2884ed829405f570c982dcb3ad36dbd89bc899a7d1a84b151
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc5d0484eb314781fe3643e353b97484828295fc6f8f4c10ba4fde8fa3d078f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Imóveis
-- Financiamento
-- Instituição de Crédito
 - Crédito à Habitação
+- Crédito Bancário
 - Depósito Bancário
 - Empréstimo
-- Crédito Bancário
+- Financiamento
 - Habitação
+- Instituição de Crédito
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/171/2007/05/08/p/dre
@@ -97,16 +97,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/24/1996/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/24/1996/07/31/p/dre
+- type: cites
+  target: pt:dre:321699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552290:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:39Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +177,9 @@ Os artigos 4.º e 7.º do [Decreto-Lei n.º 51/2007](https://diariodarepublica.p
 
 2 - O indexante subjacente à determinação da taxa de juro, em articulação com o disposto no número anterior, deve assumir também um ano de 360 dias, pelo que, sendo o indexante a EURIBOR, esta deve corresponder à sua cotação com referência a um ano de 360 dias.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 No caso de reembolso antecipado com vista à transferência do crédito, deve a instituição de crédito do mutuário facultar, no prazo de 10 dias úteis, à nova instituição de crédito mutuante todas as informações e elementos necessários à realização destas operações, designadamente o valor do capital em dívida e o período de tempo de empréstimo já decorrido.»
 
@@ -177,7 +199,9 @@ Os artigos 3.º e 4.º do [Decreto-Lei n.º 430/91](https://diariodarepublica.pt
 
 4 - Nos depósitos abrangidos pelo disposto no presente decreto-lei, o cálculo dos juros deve adoptar a convenção de mercado actual/360, correspondente ao número de dias efectivamente decorridos no período a que se refere o cálculo do juro corrido do depósito e a um ano de 360 dias.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - (Actual corpo do artigo.)
 
@@ -207,12 +231,12 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Abril de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António José de Castro Guerra.
 
-**Promulgado em 15 de Maio de 2008.**
+Promulgado em 15 de Maio de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de Maio de 2008.**
+Referendado em 19 de Maio de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

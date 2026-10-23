@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/06/12900/11761177.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22701-1967-312661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ced47e3434286d01883971c9f801b5ff3f8140cabd72dc32a346851e98b6d2af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 720a8c790f92ec8d5e1e27586729b876f5d233a1b4f3f23b39a3b15b4ad6b456
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Telescola
 relationships:
 - type: amended_by
   target: pt:dre:388388:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:199086:por
+  label: Alterada pela PORT.24208.30.07.1969.MF, DG.IS [177] de 30.07.1969
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24208-1969-199086
+  date: '1969-07-30'
+- type: cites
+  target: pt:dre:298614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554170:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:388388:por
+  label: "Revogada, na redacção da Portaria 24208, de 30 de Julho de 1969, pela PORT.262/81.12.03.1981.MFP, DR.IS [59] de\
+    \ 12.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/262-1981-388388
+  date: '1981-03-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:10Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +121,11 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Edu
 
 I) Receitas
 
-###### Artigo 1.º - 1. É fixada em 80$00 a propina a pagar por cada aluno para admissão ao exame final do curso unificado da telescola.
+Artigo 1.º - 1. É fixada em 80$00 a propina a pagar por cada aluno para admissão ao exame final do curso unificado da telescola.
 
 2. Aquela importância será entregue, em numerário, juntamente com o boletim a que se refere o artigo 5.º da [Portaria n.º 22643](https://diariodarepublica.pt/dr/detalhe/portaria/22643-1967-510038), de 21 de Abril de 1967.
 
-###### Art. 2.º Pela passagem de certidões e diplomas respeitantes ao curso unificado da telescola são devidos os seguintes selos e emolumentos, além do papel selado dos requerimentos e das certidões:
+Art. 2.º Pela passagem de certidões e diplomas respeitantes ao curso unificado da telescola são devidos os seguintes selos e emolumentos, além do papel selado dos requerimentos e das certidões:
 
 a) Selos:
 
@@ -111,11 +139,11 @@ Por cada certidão de frequência ou de exame final ... 5$00
 
 Por cada diploma de exame final ... 10$00
 
-###### Art. 3.º As propinas e emolumentos previstos nos artigos anteriores constituem receitas do Instituto de Meios Audiovisuais de Ensino, em conformidade com o disposto no artigo 17.º, alínea d), do [Decreto-Lei n.º 46135](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46135-1964-554170), de 31 de Dezembro de 1964.
+Art. 3.º As propinas e emolumentos previstos nos artigos anteriores constituem receitas do Instituto de Meios Audiovisuais de Ensino, em conformidade com o disposto no artigo 17.º, alínea d), do [Decreto-Lei n.º 46135](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46135-1964-554170), de 31 de Dezembro de 1964.
 
 II) Despesas
 
-###### Art. 4.º Pelo serviço de exames finais do curso unificado da telescola são abonadas as seguintes importâncias:
+Art. 4.º Pelo serviço de exames finais do curso unificado da telescola são abonadas as seguintes importâncias:
 
 a) 500$00 a cada um dos professores incumbidos da elaboração dos pontos de exame, pelo conjunto dos pontos que elaborar para cada disciplina;
 
@@ -129,10 +157,10 @@ e) 5$00 ao delegado do júri a que se refere o artigo 7.º da mesma portaria, po
 
 f) 3$00 a cada professor agregado ao júri, por cada prova que apreciar, salvo quanto aos professores afectos ao serviço de contrôle e verificação de provas no Instituto ou na telescola.
 
-###### Art. 5.º - 1. Os professores encarregados do serviço de exames têm direito, nos termos da lei, ao abono das despesas de transporte e das ajudas de custo, quando devam deslocar-se da sua residência oficial.
+Art. 5.º - 1. Os professores encarregados do serviço de exames têm direito, nos termos da lei, ao abono das despesas de transporte e das ajudas de custo, quando devam deslocar-se da sua residência oficial.
 
 2. O disposto no número anterior é extensivo aos monitores dos postos de recepção que também sejam designados para colaborar no serviço de exames, sendo as suas ajudas de custo as correspondentes ao grupo N a T da tabela a que se refere o artigo 11.º do [Decreto-Lei n.º 40872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40872-1956-298614), de 23 de Novembro de 1956.
 
-###### Art. 6.º As despesas resultantes da realização dos exames do curso unificado da telescola constituem encargo do Instituto de Meios Audiovisuais de Ensino.
+Art. 6.º As despesas resultantes da realização dos exames do curso unificado da telescola constituem encargo do Instituto de Meios Audiovisuais de Ensino.
 
 Ministério das Finanças e da Educação Nacional, 2 de Junho de 1967. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês. - O Ministro da Educação Nacional, Inocêncio Galvão Teles.

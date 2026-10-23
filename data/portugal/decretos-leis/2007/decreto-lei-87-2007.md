@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06300/18801882.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/87/2007/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2007-520468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c48281807c34868e72f52bfdb6aba40d58ab7af9e09da33f6b6d8a58dade75b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7aee46f4ff020730f3c079d8e9951d6ab13073446df50c298771a2a3787f2794
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
 - Definição de Competências
-- Secretaria Geral
-- Instituto Nacional de Intervenção e Garantia Agrícola
+- Gestão Financeira
+- Ifadap
 - IFAP
+- Instituto Nacional de Intervenção e Garantia Agrícola
 - Orgânica
 - Regime de Pessoal
-- Ifadap
+- Secretaria Geral
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:175334:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:341849:por
+  label: "Transferidas para a Região Autónoma dos Açores as atribuições, relativas ao sistema de informação e divulgação das\
+    \ medidas e acompanhamento do processo de recepção, análise dos pedidos de apoio e do pedido de pagamento previstos nos\
+    \ sistemas comunitários e nacionais de financiamento da agricultura aplicáveis naquela Região, detidas pelo IFAP, I.P.,\
+    \ assim como a titularidade das situações jurídicas laborais dos trabalhadores que na referida Região estavam afectos\
+    \ ao exercício daquelas atribuições, e a titularidade dos bens móveis e do imóvel do IFAP em Ponta Delgada pelo DEC LEI.100/2010.16.09.2010.MADRP,\
+    \ DR.IS [181] de 16.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-2010-341849
+  date: '2010-09-16'
 - type: cites
   target: celex:31989R4045
   label: null
@@ -95,16 +105,21 @@ relationships:
   target: celex:32006R1198
   label: null
   source: http://data.europa.eu/eli/reg/2006/1198/oj
+- type: repealed_by
+  target: pt:dre:175334:por
+  label: "Revogado, a partir de 01.09.2012, pelo DEC LEI.195/2012.23.08.2012.MAMAOT, DR.IS [163] de 23.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-2012-175334
+  date: '2012-08-23'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:34Z'
   warnings: []
   errors: []
 ---
@@ -303,12 +318,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 15 de Fevereiro de 2007.**
+Promulgado em 15 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 21 de Fevereiro de 2007.**
+Referendado em 21 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

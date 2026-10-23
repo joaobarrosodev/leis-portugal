@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/10/21000/0824508248.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/316/2009/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2009-483397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ffd17b18cd2460ca4f3b48d5fa671332c7f3c72dc030547de59854e7d43c780
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7da9f104f0bb524bbf098b457b1ab2555ef19af3bdddeb5d466c74386eb995a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- GADO
-- Gado Caprino
-- Carne
-- Circulação de GADO
-- Multa
-- Contra-ordenação
-- Direção Geral de Veterinária
-- Definição de Competências
-- Controlo Sanitário
-- Exploração Pecuária
-- Fiscalização
-- Gado Bovino
-- Gado Suíno
 - Abate de Animais
 - Base de Dados
-- Licenciamento
-- Gado Ovino
-- Registo de Animais
-- Pecuária
-- Snira
+- Carne
+- Circulação de GADO
 - Comércio
+- Contra-ordenação
+- Controlo Sanitário
+- Definição de Competências
+- Direção Geral de Veterinária
+- Exploração Pecuária
+- Fiscalização
+- GADO
+- Gado Bovino
+- Gado Caprino
+- Gado Ovino
+- Gado Suíno
+- Licenciamento
+- Multa
+- Pecuária
+- Registo de Animais
+- Snira
 - Transporte de Animais
 - Vistoria
 relationships:
@@ -95,6 +95,42 @@ relationships:
   target: pt:dre:70095700:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:334894:por
+  label: "Alterados, a partir de 30.06.2010, os artigos 66.º, 67.º e os anexos III e IV do Decreto-Lei n.º 214/2008, de 10\
+    \ de Novembro, na redacção do presente diploma, pelo DEC LEI.78/2010.25.06.2010.MADRP, DR.IS [122] de 25.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2010-334894
+  date: '2010-06-25'
+- type: amended_by
+  target: pt:dre:277655:por
+  label: "Alterados os arts. 66º e 67º do Dec Lei 214/2008, de 10-Nov, na redacção do presente diploma, pelo DEC LEI.45/2011.25.03.2011.MADRP,\
+    \ DR.IS [60] de 25.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-2011-277655
+  date: '2011-03-25'
+- type: amended_by
+  target: pt:dre:146214:por
+  label: "Alterados os art.s 66º e 67º bem como o anexo IV do Dec Lei 214/2008, de 10-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.107/2011.16.11.2011.MAMAOT, DR.IS [220] de 16.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2011-146214
+  date: '2011-11-16'
+- type: amended_by
+  target: pt:dre:190815:por
+  label: "Alterado o art. 24º do Dec Lei 142/2006, de 27-jul, na redação do presente diploma, pelo DEC LEI.260/2012.12.12.2012.MAMAOT,\
+    \ DR.IS [240] de 12.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-2012-190815
+  date: '2012-12-12'
+- type: amended_by
+  target: pt:dre:260886:por
+  label: "Alterados os arts. 66º e 67º e o anexo IV do Dec Lei 214/2008, de 10-nov, na redação do presente diploma, pelo DEC\
+    \ LEI.59/2013.08.05.2013.MAMAOT, DR.IS [88] de 08.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2013-260886
+  date: '2013-05-08'
+- type: amended_by
+  target: pt:dre:70095700:por
+  label: Altera os arts. 7.º e 24.º do Dec Lei 142/2006 de 27-jul, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-2015-70095700
+  date: '2015-08-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/142/2006/07/27/p/dre
   label: null
@@ -103,16 +139,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/214/2008/11/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/214/2008/11/10/p/dre
+- type: cites
+  target: pt:dre:439393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539227:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:496729:por
+  label: "Revogado o Dec Lei n.º 214/2008, de 10-nov, na redação do presente diploma, pelo DEC LEI.81/2013.14.06.2013.MAMAOT,\
+    \ DR.IS [113] de 14.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-2013-496729
+  date: '2013-06-14'
 article_structure:
-  article_count: 11
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:19Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +213,9 @@ Os artigos 7.º e 24.º do [Decreto-Lei n.º 142/2006](https://diariodarepublica
 
 9 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -267,7 +319,9 @@ Os artigos 2.º, 49.º, 66.º, 67.º, 69.º, 70.º e 77.º do [Decreto-Lei n.º 
 
 3 - O presente decreto-lei não é aplicável aos eventos que sejam considerados ocasionais, desenvolvidos sem recurso a instalações fixas e com duração inferior a 48 horas, devendo, nestes casos, aplicar-se apenas o [Decreto-Lei n.º 142/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2006-539227), de 27 de Julho, relativo às normas de movimentação animal, e devendo as condicionantes sanitárias previstas para cada espécie serem asseguradas mediante procedimentos a serem determinados por despacho do director-geral de Veterinária.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - ...
 
@@ -289,7 +343,9 @@ d) ...
 
 6 - Nas situações em que o produtor não coincida com o titular da licença da actividade pecuária, a responsabilidade pelo cumprimento das obrigações referidas nos números anteriores é solidária relativamente aos núcleos de produção utilizados pelo produtor.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - As actividades pecuárias já licenciadas ou autorizadas ao abrigo de legislação anterior devem promover junto da entidade coordenadora, até 31 de Março de 2010, a actualização dos registos das explorações e solicitar a reclassificação das suas actividades pecuárias, com a actualização do cadastro de acordo com as disposições do presente decreto-lei e das respectivas portarias, bem como solicitar a emissão das licenças ou títulos complementares à actividade pecuária que sejam exigidos.
 
@@ -301,7 +357,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - ...
 
@@ -311,7 +369,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - ...
 
@@ -323,7 +383,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - ...
 
@@ -335,7 +397,9 @@ d) ...
 
 5 - Se a possibilidade da respectiva permanência no local for admitida, a entidade coordenadora pode agendar uma vistoria de reexame global da actividade pecuária, sendo aplicável, com as necessárias adaptações, o disposto no artigo 45.º, sendo para esta convocados todos os elementos do grupo de trabalho.
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - Para efeitos de acompanhamento da aplicação do disposto no presente decreto-lei no que respeita ao estudo de soluções optimizadas a aplicar nos diferentes sectores de actividade abrangidos, é criada a Comissão de Acompanhamento do Licenciamento das Actividades Pecuárias (CALAP), composta por dois representantes do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, que presidem, dois representantes do Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e três representantes de entidades representativas dos produtores pecuários.
 
@@ -361,7 +425,9 @@ Os anexos iii e iv do [Decreto-Lei n.º 214/2008](https://diariodarepublica.pt/d
 
 [...]
 
-#### SECÇÃO I — Requisitos formais e elementos instrutórios do pedido de autorização aos quais se refere o n.º 2 do artigo 17.º
+SECÇÃO I
+
+Requisitos formais e elementos instrutórios do pedido de autorização aos quais se refere o n.º 2 do artigo 17.º
 
 1 - ...
 
@@ -379,7 +445,9 @@ Os anexos iii e iv do [Decreto-Lei n.º 214/2008](https://diariodarepublica.pt/d
 
 8 - ...
 
-#### SECÇÃO II — [...]
+SECÇÃO II
+
+[...]
 
 1 - ...
 
@@ -415,7 +483,9 @@ d) ...
 
 7 - ...
 
-## ANEXO IV — [...]
+ANEXO IV
+
+[...]
 
 1.º
 
@@ -461,12 +531,12 @@ Norma transitória
 
 Visto e aprovado em Conselho de Ministros de 17 de Setembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Alberto Bernardes Costa - Humberto Delgado Ubach Chaves Rosa - António José de Castro Guerra - Jaime de Jesus Lopes Silva - José António Fonseca Vieira da Silva - Ana Maria Teodoro Jorge.
 
-**Promulgado em 13 de Outubro de 2009.**
+Promulgado em 13 de Outubro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de Outubro de 2009.**
+Referendado em 15 de Outubro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

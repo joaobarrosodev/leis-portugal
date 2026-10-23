@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/177/1996/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1996-215894
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44b37967af7927c37c52ba74399d1a971284cc77af05892e1df16db972b51d5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2577e204df754d65095efb3ca8507c7b25531ebbf15b510332d1a33e6b62109d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,38 +68,55 @@ reuse:
 subjects:
 - Accionista
 - Associação Portuguesa de Editores e Livreiros
-- Sociedade Anónima
+- Benefícios Fiscais
 - Capital Social
-- Manifestação Cultural
 - Conselho de Administração
 - Conselho Fiscal
-- Portugal
 - Criação de Empresas
 - Definição de Competências
 - Estatuto
-- RFA
+- Indústria do Livro
 - Interesse Público
 - Manifestação Comercial
+- Manifestação Cultural
 - Parque EXPO 98
-- Indústria do Livro
+- Portugal
 - Portugal-frankfurt 97
 - Regime Fiscal
-- Benefícios Fiscais
+- RFA
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:150333:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:150333:por
+  label: "Dissolvida a Portugal-Frankfurt 97, criada por este diploma, pelo DEC LEI.91/99.1999.03.23.MF, DR.IS-A [69]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-1999-150333
+  date: '1999-03-23'
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:53Z'
   warnings: []
   errors: []
 ---
@@ -170,15 +187,15 @@ O representante do Estado na assembleia geral é designado por despacho conjunto
 
 Visto e aprovado em Conselho de Ministros de 14 de Agosto de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Augusto Carlos Serra Ventura Mateus - Manuel Maria Ferreira Carrilho.
 
-**Promulgado em 6 de Setembro de 1996.**
+Promulgado em 6 de Setembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Setembro de 1996.**
+Referendado em 11 de Setembro de 1996.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.
 
 ESTATUTOS DE PORTUGAL-FRANKFURT 97, S. A. - SOCIEDADE PROMOTORA DA PRESENÇA DE PORTUGAL NA FEIRA DO LIVRO DE FRANKFURT 97.
 

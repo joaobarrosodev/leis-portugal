@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/04/09400/05530553.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/207-1971-444879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d288a03cddac350f1514ade7200fedc22a2296b7b122dafee79a74f7d5ef2866
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81440066ad89032a64bc0d85ebe740f2f5cc654f4705ebbf8bff2afd39c5eaef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,25 @@ relationships:
   target: pt:dre:506034:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:445728:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:506034:por
+  label: "Revogado, a partir de 24.01.1976, pelo DEC LEI.36/76.19.01.1976.CR, DG.IS [15] de 19.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-1976-506034
+  date: '1976-01-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:31Z'
   warnings: []
   errors: []
 ---
@@ -142,4 +151,4 @@ c) Todos os dias de exposição, excepto domingos e dias feriados:
 
 3) Sócios da Liga dos Combatentes.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

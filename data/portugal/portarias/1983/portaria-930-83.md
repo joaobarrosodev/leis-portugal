@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/930-1983-441537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T07:54:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0373f8373c5b37dfc2858c327b746c6d18248a0788538d2379eb79a501a87718
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0049f98fff5867d07041fd8a93d1c204f4689594ebe72511832ba8e8fbc52fc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:54:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cooperativa de Habitação
+- Crédito à Habitação
+- Sistema Poupança-crédito
 relationships:
 - type: amended_by
   target: pt:dre:400822:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:400822:por
+  label: "Dada nova redacção ao n.º 5.º do presente diploma, pela PORT.859/84.15.11.1984.PCM, DR.IS [265] de 15.11.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/859-1984-400822
+  date: '1984-11-15'
+- type: cites
+  target: pt:dre:394514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454292:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:54:35Z'
   warnings: []
   errors: []
 ---
@@ -125,6 +145,6 @@ d) Durante o prazo do empréstimo vencer-se-ão prestações semestrais, que no 
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e do Equipamento Social.
 
-**Assinada em 7 de Outubro de 1983.**
+Assinada em 7 de Outubro de 1983.
 
 Pelo Ministro das Finanças e do Plano, António d'Almeida, Secretário de Estado do Tesouro. - O Ministro do Equipamento Social, João Rosado Correia. - O Secretário de Estado do Fomento Cooperativo, Francisco Soares Mesquita Machado.

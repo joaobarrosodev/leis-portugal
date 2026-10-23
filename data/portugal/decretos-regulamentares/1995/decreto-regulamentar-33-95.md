@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/33/1995/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-1995-632207
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:23:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce74f3d616d9796c707f4659a372e5ee5a9010ae572e19203308a4b02347aa68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f2b37e150ccd54422a9c1c15b1d4f4bde00cc7ff9c9fe0116ac2b7d40f514fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:23:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,27 @@ relationships:
   target: pt:dre:308993:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:308993:por
+  label: "Alterado o art. 2º do presente diploma, alterado o art. 3º e aditado o art. 3º-A e os anexos III e IV do Regulamento\
+    \ pelo DR.9/99.1999.06.15.MAM,DR.IS-B [137]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/9-1999-308993
+  date: '1999-06-15'
+- type: amended_by
+  target: pt:dre:248198:por
+  label: "Determinada a suspensão pelo prazo de dois anos, das áreas referidas nos nºs 1 a 5, do Plano de Ordenamento do Parque\
+    \ Natural do Sudoeste Alentejano e Costa Vicentina, aprovado pelo presente diploma, alterado pelo DR 9/99 de 15-Jun e\
+    \ cuja revisão do citado PNSACV foi determinada pela Res 173/2001 de 28-Dez, da PCM, pela RES.19/2008.04.02.2008.PCM,\
+    \ DR.IS [24] de 04.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/19-2008-248198
+  date: '2008-02-04'
+- type: amended_by
+  target: pt:dre:617077:por
+  label: "Prorrogado, por um ano, o prazo de vigência das medidas preventivas e da suspensão do Plano de Ordenamento do Parque\
+    \ Natural do Sudoeste Alentejano e Costa Vicentina, estabelecido pela Res 19/2008, de 04-Fev, da PCM, e cujo Plano de\
+    \ Ordenamento foi aprovado pelo presente diploma, pela RES.13/2010.09.02.2010.PCM, DR.IS [27] de 09.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/13-2010-617077
+  date: '2010-02-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
   label: null
@@ -81,16 +102,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
+- type: cites
+  target: pt:dre:374803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
 article_structure:
-  article_count: 29
+  article_count: 36
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:23:21Z'
   warnings: []
   errors: []
 ---
@@ -133,15 +166,15 @@ Presidência do Conselho de Ministros, 5 de Junho de 1995.
 
 Manuel Dias Loureiro - Luís Francisco Valente de Oliveira - António Duarte Silva - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia - António Baptista Duarte Silva.
 
-**Promulgado em 3 de Outubro de 1995.**
+Promulgado em 3 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Outubro de 1995.**
+Referendado em 6 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Regulamento do Plano de Ordenamento do Parque Natural do Sudoeste Alentejano e Costa Vicentina
 
@@ -249,7 +282,9 @@ t) A realização de queimadas em áreas florestais e numa faixa limite de 100 m
 
 ### CAPÍTULO II — Áreas de protecção
 
-#### SECÇÃO I — Artigo 7.º
+#### SECÇÃO I
+
+###### Artigo 7.º
 
 Áreas de protecção
 
@@ -271,7 +306,9 @@ f) Área de intervenção específica.
 
 3 - Com excepção das áreas de ocupação urbana, não é permitido, para efeitos de edificabilidade, realizar quaisquer acções que tenham por objecto ou efeito a divisão em lotes de um ou vários prédios.
 
-#### SECÇÃO II — Artigo 8.º
+#### SECÇÃO II
+
+###### Artigo 8.º
 
 Áreas prioritárias para a conservação da natureza
 
@@ -347,7 +384,9 @@ d) A instalação de apoios de praia e respectivo equipamento complementar, nome
 
 e) Efectuar quaisquer movimentos de terra, bem como corte ou destruição do revestimento vegetal natural ou alteração das camadas do solo aráveis, com excepção das acções decorrentes das normais actividades agrícolas, florestais e apícolas.
 
-#### SECÇÃO III — Artigo 12.º
+#### SECÇÃO III
+
+###### Artigo 12.º
 
 Áreas de ambiente rural
 
@@ -399,7 +438,9 @@ As áreas florestais são constituídas pelas áreas de baixa a muito baixa fert
 
 Nas áreas de ambiente rural referidas nos artigos 13.º a 17.º, para além do previsto no artigo 3.º, depende de autorização da comissão directiva do Parque Natural a realização de quaisquer acções que diminuam a sua aptidão para os respectivos usos dominantes.
 
-#### SECÇÃO IV — Artigo 19.º
+#### SECÇÃO IV
+
+###### Artigo 19.º
 
 Áreas de ambiente marítimo
 
@@ -433,7 +474,9 @@ b) A instalação de aquaculturas.
 
 As intervenções na orla costeira abrangida pelas áreas de ambiente marítimo, designadamente a classificação e regulamentação do uso balnear das praias, a localização e tipologia dos apoios de praia, e respectivos equipamento complementar, acessos e estacionamentos, a utilização do plano de água adjacente e os apoios à pesca e ao recreio náutico regem-se pelo disposto no plano de ordenamento da orla costeira aplicável.
 
-#### SECÇÃO V — Artigo 23.º
+#### SECÇÃO V
+
+###### Artigo 23.º
 
 Áreas de ocupação urbana
 
@@ -447,7 +490,9 @@ a) Os planos de urbanização;
 
 b) Os planos de pormenor.
 
-#### SECÇÃO VI — Artigo 25.º
+#### SECÇÃO VI
+
+###### Artigo 25.º
 
 Áreas de salvaguarda do património cultural
 
@@ -463,7 +508,9 @@ c) Áreas de salvaguarda do património geológico.
 
 3 - As áreas de salvaguarda do património cultural são objecto de planos de salvaguarda e valorização que definem e regulamentam zonas envolventes de protecção, além de zonas non aedificandi e zonas especiais de protecção previstas na legislação aplicável, e determinam as acções e medidas concretas a desenvolver.
 
-#### SECÇÃO VII — Artigo 26.º
+#### SECÇÃO VII
+
+###### Artigo 26.º
 
 Áreas de intervenção específica
 
@@ -509,7 +556,7 @@ Os planos regionais e municipais de ordenamento do território podem definir ár
 
 ## ANEXO I — Zonamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/12/284b00/77267733.pdf))](https://files.diariodarepublica.pt/1s/1995/12/284b00/77267733.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/284b00/77267733.pdf)
 
 ## ANEXO II — Áreas de salvaguarda do património cultural
 

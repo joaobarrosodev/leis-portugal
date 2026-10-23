@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 157/2021, 1º Suplemento, Série I de 2021-08-13
   number: '157'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 14-(2) a 14-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/15701/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/71-a/2021/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-a-2021-169529634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a73e0c93db27d93601e298d5bdfbd5f9dbcfba569d3092754fe47f6f57667f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cb345b614e5bb89cb896e6d93bf2f0ff31136b8c7fe860589e6752c52044b77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
-- Financiamento
+- Emprego
 - Empresa
 - Epidemia
-- Emprego
+- Financiamento
 - Remuneração
 - Trabalhador por Conta de Outrem
 relationships:
@@ -77,6 +77,12 @@ relationships:
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt
   label: null
@@ -117,16 +123,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
+- type: cites
+  target: pt:dre:135391594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139209038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145714398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148853501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149971740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154202310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154946852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160149401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163158834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166579339:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:24Z'
   warnings: []
   errors: []
 ---
@@ -183,7 +229,9 @@ Os artigos 4.º, 5.º, 12.º e 19.º do [Decreto-Lei n.º 46-A/2020](https://dia
 
 11 - Para efeitos do número anterior, consideram-se como principais mercados emissores de turistas os definidos, mediante despacho, pelos membros do Governo responsáveis pelas áreas da economia, das finanças e do trabalho, solidariedade e segurança social.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -213,7 +261,9 @@ iii) Até 100 % para o empregador dos setores de bares, discotecas, parques recr
 
 7 - As situações previstas na subalínea ii) da alínea d) do n.º 1, no n.º 4 e no número anterior são atestadas por declaração do empregador sob compromisso de honra no formulário mencionado no artigo 11.º
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -229,7 +279,9 @@ b) ...
 
 5 - ...
 
-###### Artigo 19.º — Entrada em vigor
+Artigo 19.º
+
+Entrada em vigor
 
 1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
@@ -251,12 +303,14 @@ b) O artigo 7.º do [Decreto-Lei n.º 23-A/2021](https://diariodarepublica.pt/dr
 
 Visto e aprovado em Conselho de Ministros de 29 de julho de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - João Rodrigo Reis Carvalho Leão - Miguel Filipe Pardal Cabrita.
 
-**Promulgado em 12 de agosto de 2021.**
+Promulgado em 12 de agosto de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de agosto de 2021.**
+Referendado em 12 de agosto de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114495172

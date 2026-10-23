@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/34/2007/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2007-518015
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c8a81392c375c972908932f983ac36ffa368559805be55eb2eb818868109438
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25e8b730ae6ee52294af20bc804f57d02920c597bc3da45343cda7e0bc023101
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Deficiente
-- Multa
-- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
 - Definição de Competências
-- Luta contra a Discriminação
-- Política de Saúde
 - Direitos Cívicos
-- Proteção ao Deficiente
-- Política Social
 - Instituto Nacional para a Reabilitação
+- Luta contra a Discriminação
+- Multa
+- Política de Saúde
+- Política Social
+- Proteção ao Deficiente
+- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/46/2006/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/46/2006/08/28/p/dre
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540797:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:33Z'
   warnings: []
   errors: []
 ---
@@ -197,12 +205,12 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima.
 
-**Promulgado em 2 de Fevereiro de 2007.**
+Promulgado em 2 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 5 de Fevereiro de 2007.**
+Referendado em 5 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

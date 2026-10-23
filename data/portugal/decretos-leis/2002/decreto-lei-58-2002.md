@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/063a00/23962397.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/58/2002/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2002-264573
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ba693068e0b17f84f8aa647b4ac8adc112eb196b2f42653eda7945dd392e5f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d8f9775f8aaad099df786f4109eb3872711d10fb2f4bf7f500e7468fb6653f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Contrato de Trabalho
 - Contrato Individual de Trabalho
+- Emprego
 - Jovem
 - Menoridade
-- Emprego
-- Contrato de Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:632906:por
@@ -88,16 +88,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/1999/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/1999/06/30/p/dre
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423061:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632906:por
+  label: "Revogada com a entrada em vigor das normas regulamentares do Código do Trabalho aprovado pela LEI.99/2003.2003.08.27.AR\
+    \ DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/99-2003-632906
+  date: '2003-08-27'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:04Z'
   warnings: []
   errors: []
 ---
@@ -168,12 +190,12 @@ A nova redacção dos n.os 4 a 8 do artigo 122.º do regime jurídico do contrat
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Júlio Domingos Pedrosa da Luz de Jesus - António Maria Bustorff Dornelas Cysneiros.
 
-**Promulgado em 1 de Março de 2002.**
+Promulgado em 1 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Março de 2002.**
+Referendado em 7 de Março de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 21/2008, 2º Suplemento, Série I de 2008-01-30
   number: '21'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 860-(6) a 860-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/01/02102/0000600006.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/15-a/2008/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/15-a-2008-158215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:00:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9d6c2f048ac5e2a679eec68ca53ce8801d5164c895309073a55913f658f7f24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6e2f90d94e32b5bc0c1e720df6327113f5e68058c9082e923debc85bfe03e10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:00:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Exoneração
-- Ministro da Saúde
-- Ministro da Cultura
 - Governo XVII
+- Ministro da Cultura
+- Ministro da Saúde
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:00:45Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +89,7 @@ validation:
 
 de 30 de Janeiro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São exonerados, a seu pedido e sob proposta do Primeiro-Ministro:
 
@@ -97,12 +97,12 @@ O Prof. Doutor António Fernando Correia de Campos do cargo de Ministro da Saúd
 
 A Prof.ª Doutora Maria Isabel da Silva Pires de Lima do cargo de Ministra da Cultura.
 
-**Assinado em 30 de Janeiro de 2008.**
+Assinado em 30 de Janeiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de Janeiro de 2008.**
+Referendado em 30 de Janeiro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

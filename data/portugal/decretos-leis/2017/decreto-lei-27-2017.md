@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/05000/0132101323.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/27/2017/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2017-106579661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 234ee38303e9260b035ebad0c96715087ccacc2fecd9f38867b8d01a06206e36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c101d7aac0a3dbc93c201a3be9c6980faf6b03887d5690ef449540750a5e631a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,32 @@ reuse:
 subjects:
 - Acesso à Informação
 - Agência para o Desenvolvimento e Coesão
-- Financiamento
+- Auxílio de Minimis
 - Comparticipação do Estado
 - Comunicação Social
 - Contra-ordenação
 - Definição de Competências
 - Edição de Publicações
-- Auxílio de Minimis
+- Financiamento
 - Gabinete de Estratégia Planeamento e Avaliação Culturais
-- Ministério da Cultura
 - Incentivos à Comunicação Social
+- Leitura Pública
+- Ministério da Cultura
 - Publicação
 - Quadro de Pessoal
-- Leitura Pública
 - Sistema de Incentivos do Estado a Comunicação Social
 relationships:
 - type: amended_by
   target: pt:dre:912444913:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:120454103:por
+  label: Determinado o exercício pelo Ministro do Planeamento da superintendência e tutela sobre a Agência para o Desenvolvimento
+    e Coesão, I.P., criada pelo Dec Lei 140/2013 de 18-out, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 31/2019 - Diário da República n.º 43/2019, Série I de 2019-03-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2019-120454103
+  date: '2019-03-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/137/2014/09/12/p/dre
   label: null
@@ -127,16 +134,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:503034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66902697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67498685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72909765:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:27Z'
   warnings: []
   errors: []
 ---
@@ -233,13 +288,17 @@ Os artigos 14.º, 15.º e 16.º do [Decreto-Lei n.º 23/2015](https://diariodare
 
 2 - As verbas destinadas à atribuição dos incentivos da competência das CCDR são suportadas pelas receitas do Gabinete de Estratégia, Planeamento e Avaliação Culturais (GEPAC).
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Cabe ao GEPAC certificar e efetuar os pagamentos e transferências aos beneficiários dos incentivos, com base em pedidos para o efeito apresentados pelas CCDR competentes.
 
 2 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -287,12 +346,12 @@ O presente decreto-lei entra em vigor no dia seguinte à sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de janeiro de 2017. - António Luís Santos da Costa - Luís Filipe Carrilho de Castro Mendes - Pedro Manuel Dias de Jesus Marques.
 
-**Promulgado em 20 de fevereiro de 2017.**
+Promulgado em 20 de fevereiro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de março de 2017.**
+Referendado em 8 de março de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

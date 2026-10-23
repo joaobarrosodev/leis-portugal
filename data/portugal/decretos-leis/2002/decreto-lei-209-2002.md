@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/10/240a00/68076810.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/209/2002/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2002-432450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:33:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d5ca723e3ac1d98d48548d15681a4be0ed38840752510c91d0d114a5b17a489
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99fc3c76886f04ad908d1171b9c8b2c573ad90b3ae5bae4ead198601233620b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:33:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Língua Portuguesa
-- Plano de Estudos
-- Diploma
-- Matemática
-- Ensino Básico
 - Avaliação de Conhecimentos
+- Diploma
+- Ensino Básico
+- Língua Portuguesa
+- Matemática
+- Plano de Estudos
 - Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:178548:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280496:por
+  label: "Alterados os anexos I, II e III do Dec Lei 6/2001, de 18-Jan, na redacção do presente diploma, pelo DEC LEI.18/2011.02.02.2011.ME,\
+    \ DR.IS [23] de 02.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2011-280496
+  date: '2011-02-02'
+- type: amended_by
+  target: pt:dre:669549:por
+  label: "Alterados o art. 13º e os anexos II e III do Dec Lei 6/2001, de 18-Jan, na redacção do presente diploma, pelo DEC\
+    \ LEI.94/2011.03.08.2011.MECI, DR.IS [148] de 03.08.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-2011-669549
+  date: '2011-08-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/6/2001/01/18/p/dre
   label: null
@@ -91,16 +103,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178548:por
+  label: "Revogado, com produção de efeitos a partir do ano letivo de 2012-2013, o Dec Lei 6/2001, de 18-jan, na redação do\
+    \ presente diploma, pelo DEC LEI.139/2012.05.07.2012.MECI, DR.IS [129] de 05.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-2012-178548
+  date: '2012-07-05'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:33:02Z'
   warnings: []
   errors: []
 ---
@@ -169,30 +203,30 @@ O presente diploma entra em vigor no dia imediatamente a seguir ao da sua public
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - José David Gomes Justino - António José de Castro Bagão Félix.
 
-**Promulgado em 25 de Setembro de 2002.**
+Promulgado em 25 de Setembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Outubro de 2002.**
+Referendado em 4 de Outubro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — 1.º ciclo
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/2002/10/240a00/68076810.pdf)
+[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/2002/10/240a00/68076810.pdf)](https://files.diariodarepublica.pt/1s/2002/10/240a00/68076810.pdf)](https://files.diariodarepublica.pt/1s/2002/10/240a00/68076810.pdf)
 
 O trabalho a desenvolver pelos alunos integrará, obrigatoriamente, actividades experimentais e actividades de pesquisa adequadas à natureza das diferentes áreas, nomeadamente no ensino das ciências.
 
 ## ANEXO II — 2.º ciclo
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/2002/10/240a00/68076810.pdf)
+[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/2002/10/240a00/68076810.pdf)](https://files.diariodarepublica.pt/1s/2002/10/240a00/68076810.pdf)](https://files.diariodarepublica.pt/1s/2002/10/240a00/68076810.pdf)
 
 O trabalho a desenvolver pelos alunos integrará, obrigatoriamente, actividades experimentais e actividades de pesquisa adequadas à natureza das diferentes áreas ou disciplinas, nomeadamente no ensino das ciências.
 
 ## ANEXO III — 3.º ciclo
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/2002/10/240a00/68076810.pdf)
+[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/2002/10/240a00/68076810.pdf)](https://files.diariodarepublica.pt/1s/2002/10/240a00/68076810.pdf)](https://files.diariodarepublica.pt/1s/2002/10/240a00/68076810.pdf)
 
 O trabalho a desenvolver pelos alunos integrará, obrigatoriamente, actividades experimentais e actividades de pesquisa adequadas à natureza das diferentes áreas ou disciplinas, nomeadamente no ensino das ciências.

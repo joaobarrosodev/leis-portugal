@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/501/1999/11/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:14:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 376fec0143fae1946b18d550d881e34284b598ebc4c91e6b586412304163b73b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50875bd3b1a37c775069df8ef966664428420010b3b453151e38c6ac4e0c21c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:14:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal de Saúde
-- Carreira Técnica Superior
-- Sistema Retributivo
 - Carreira Profissional
+- Carreira Técnica Superior
+- Pessoal de Saúde
 - Pessoal Técnico Superior
 - Reestruturação de Carreiras
 - Remuneração
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:1049508938:por
@@ -86,16 +86,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:344424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:14:03Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +144,9 @@ Ingresso
 
 2 - A avaliação curricular referida no número anterior pode ser complementada com entrevista profissional de selecção.
 
-###### Artigo 5.º — Grau de especialista
+Artigo 5.º
+
+Grau de especialista
 
 1 - ...
 
@@ -148,7 +158,9 @@ Ingresso
 
 5 - Aos indivíduos possuidores de um dos cursos a que se refere o número anterior é atribuído o grau de especialista.
 
-###### Artigo 6.º — Habilitação profissional
+Artigo 6.º
+
+Habilitação profissional
 
 1 - ...
 
@@ -172,7 +184,9 @@ Ingresso
 
 11 - ...
 
-###### Artigo 7.º — Acesso
+Artigo 7.º
+
+Acesso
 
 1 - ...
 
@@ -180,7 +194,9 @@ Ingresso
 
 3 - O acesso à categoria de assessor superior efectua-se mediante concurso de provas públicas, que consistirá na apreciação e discussão do currículo profissional do interessado, a que podem candidatar-se os assessores com, pelo menos, três anos de serviço classificados de Bom.
 
-###### Artigo 9.º — Ramos de actividade
+Artigo 9.º
+
+Ramos de actividade
 
 1 - ...
 
@@ -222,7 +238,9 @@ Licenciatura em Psicologia e em Psicologia Clínica.
 
 4 - ...
 
-###### Artigo 12.º — Perfil profissional do farmacêutico
+Artigo 12.º
+
+Perfil profissional do farmacêutico
 
 1 - ...
 
@@ -240,7 +258,9 @@ c) Radiofarmácia.
 
 5 - ...
 
-###### Artigo 13.º — Funções das categorias do ramo de farmácia
+Artigo 13.º
+
+Funções das categorias do ramo de farmácia
 
 1 - ...
 
@@ -308,7 +328,9 @@ k) A colaboração no planeamento das instalações de trabalho apresentando exi
 
 l) O estudo do equipamento necessário à sua actividade antes e durante a sua instalação.
 
-###### Artigo 15.º — Funções das categorias do ramo de física hospitalar
+Artigo 15.º
+
+Funções das categorias do ramo de física hospitalar
 
 1 - ...
 
@@ -346,7 +368,9 @@ g) O processamento dos dados obtidos nas diferentes aplicações e optimização
 
 3 - ...
 
-###### Artigo 19.º — Funções das categorias do ramo de laboratório
+Artigo 19.º
+
+Funções das categorias do ramo de laboratório
 
 1 - ...
 
@@ -382,7 +406,9 @@ d) ...
 
 e) A garantia da qualidade dos serviços.
 
-###### Artigo 29.º — Regimes e modalidades de horário de trabalho
+Artigo 29.º
+
+Regimes e modalidades de horário de trabalho
 
 1 - ...
 
@@ -454,15 +480,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, produz
 
 Visto e aprovado em Conselho de Ministros de 1 de Outubro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 29 de Outubro de 1999.**
+Promulgado em 29 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Novembro de 1999.**
+Referendado em 4 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/270a00/82298233.pdf)
 

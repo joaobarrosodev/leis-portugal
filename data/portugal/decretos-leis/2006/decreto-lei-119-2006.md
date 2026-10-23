@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/119/2006/06/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2006-370980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5b2b755b6271e8125cc2457f23361b92d595db9b7cd14ca11fea2eab1c8d52f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 574171f4b2e9fa51b87bab5db096e5368df67ae1ba5049f4ef204fd09ef3c2ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Desenvolvimento Rural
 - Comissão de Acompanhamento
-- Gestão Financeira
-- Direcção Geral do Tesouro
+- Desenvolvimento Rural
 - Direcção Geral de Desenvolvimento Rural
+- Direcção Geral do Tesouro
 - Feoga
+- Gestão Financeira
 - Instituto de Desenvolvimento Rural e Hidráulica
 - Piddac
 - Programa Leader
 - QCA III
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:244/2001
+  label: "Altera os artigos 6.º, 7.º, 9.º, 10.º, 11.º e 12.º e revoga o n.º 3 do artigo 10º do Decreto-Lei n.º 244/2001, de\
+    \ 8 de Setembro, DR.IS-A [209]\0\0"
+  source: null
+  date: '2001-09-08'
 - type: cites
   target: celex:31999R1260
   label: null
@@ -99,15 +105,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/244/2001/09/08/p/dre
 article_structure:
-  article_count: 8
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:07Z'
   warnings: []
   errors: []
 ---
@@ -158,13 +164,17 @@ c) ...
 
 d) ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A gestão técnica, administrativa e financeira incumbe a um gestor, cargo que é exercido, por inerência, pelo presidente do IDRHa, nos termos do disposto na alínea a) do n.º 3 do artigo 16.º da Lei n.º 2/2004, de 15 de Janeiro, com a redacção que lhe foi conferida pela Lei n.º 51/2005, de 30 de Agosto.
 
 2 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -200,7 +210,9 @@ l) ...
 
 5 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A nível de cada uma das Regiões Autónomas, é criada uma comissão regional de acompanhamento (CRA).
 
@@ -218,7 +230,9 @@ c) Analisar os resultados anuais e finais de execução dos GAL da sua Região;
 
 d) Dar parecer sobre assuntos de carácter regional quando solicitado pelo gestor.
 
-###### Artigo 11.º — Execução do Programa
+Artigo 11.º
+
+Execução do Programa
 
 1 - Os vectores 1 e 2 do Programa LEADER + desenvolver-se-ão no quadro da estratégia de desenvolvimento apoiada em, respectivamente, planos de desenvolvimento local (PDL) e planos de cooperação (PC) elaborados pelos GAL.
 
@@ -232,7 +246,9 @@ d) Dar parecer sobre assuntos de carácter regional quando solicitado pelo gesto
 
 6 - A atribuição de ajudas no âmbito do vector 3 são efectuadas mediante contrato a celebrar entre as entidades prestadoras de serviços e o organismo intermediário.
 
-###### Artigo 12.º — Autoridade de pagamento
+Artigo 12.º
+
+Autoridade de pagamento
 
 No âmbito de aplicação do Programa LEADER + e no que se refere aos recursos financeiros, compete ao IDRHa, enquanto autoridade de pagamento, o seguinte:
 
@@ -250,12 +266,12 @@ O presente decreto-lei entra em vigor no dia seguinte à data da sua publicaçã
 
 Visto e aprovado em Conselho de Ministros de 20 de Abril de 2006. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Pedro Manuel Dias de Jesus Marques.
 
-**Promulgado em 8 de Junho de 2006.**
+Promulgado em 8 de Junho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 12 de Junho de 2006.**
+Referendado em 12 de Junho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

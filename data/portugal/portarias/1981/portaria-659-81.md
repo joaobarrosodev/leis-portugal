@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/08/17700/19992014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/659-1981-577118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T06:51:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dca55988a562cb655f4da9d49d9fe763b52fb2c844610a606f008355d28d2787
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40a1d0d2774ef199dac59d99fa91678bbc597b9a2f74a95fe86c982e6f9f7d7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:51:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Medicamento
+- Preço
+- Regimento
+- Regimento Geral dos Preços dos Medicamentos e Manipulações
 relationships:
 - type: amended_by
   target: pt:dre:517633:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:600766:por
+  label: "Alterado pela PORT.136/82.1981.12.18.SES-MAS, DR.IS [25] DE 30/JAN/1982 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/136-1982-600766
+  date: '1981-12-18'
+- type: amended_by
+  target: pt:dre:608522:por
+  label: "Alterado o Regimento Geral pela PORT.341/82.1982.02.24.SES-MAS, DR.IS [76] de 1/Abr/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/341-1982-608522
+  date: '1982-02-24'
+- type: cites
+  target: pt:dre:210375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:567390:por
+  label: Rectificada pela Decl.DD4452.25.11.1981.PCM, DR.IS [289] de 17.12.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-567390
+  date: '1981-11-25'
+- type: repealed_by
+  target: pt:dre:517633:por
+  label: "Revogado o Regimento Geral dos Medicamentos Manipulados e Manipulações, aprovado pelo presente diploma, na redacção\
+    \ das Ports. 341/82, de 01-Abr e 136/82, de 30-Jan e da Decl DD4452, de 17-Dez, pela PORT.769/2004.01.07.2004.MECO, DR.IS-B\
+    \ [153] de 01.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/769-2004-517633
+  date: '2004-07-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:51:27Z'
   warnings: []
   errors: []
 ---
@@ -326,15 +384,15 @@ Considera-se serviço nocturno o período compreendido entre as 22 horas de um d
 
 Tabela dos preços dos medicamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17700/19992014.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17700/19992014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17700/19992014.pdf)
 
 Prontuário dos preços de alguns preparados inscritos no Formulário Galénico Nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17700/19992014.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17700/19992014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17700/19992014.pdf)
 
 Prontuário dos preços dos medicamentos e outros produtos de uso comum
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17700/19992014.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17700/19992014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17700/19992014.pdf)
 
 Lista de medicamentos de preço não fixado neste Regimento e cuja existência é obrigatória nas farmácias
 
@@ -404,4 +462,4 @@ Vacina antitetânica.
 
 Vasodilatadores.
 
-**O Secretário de Estado da Saúde, Adalberto Paulo da Fonseca Mendo.**
+O Secretário de Estado da Saúde, Adalberto Paulo da Fonseca Mendo.

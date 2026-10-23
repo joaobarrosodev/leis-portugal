@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/99/2000/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2000-292963
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:23:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad877094b17b2239fde8c38166cc229f77ff8b27663ebc046304aa930de6c54b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9aef7236ac329b3933795736c3f2aad2b48c1077e96f674c4a6676c5d0ab6285
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:23:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Infarmed
 - Especificação Técnica
 - Fiscalização
-- Laboratório
+- Infarmed
 - Instituto Português da Qualidade
+- Laboratório
 - Normas de Segurança
 - OCDE
 relationships:
@@ -91,13 +91,13 @@ relationships:
 article_structure:
   article_count: 7
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:23:38Z'
   warnings: []
   errors: []
 ---
@@ -164,15 +164,15 @@ b) O Instituto Nacional da Farmácia e do Medicamento (INFARMED), relativamente 
 
 Visto e aprovado em Conselho de Ministros de 22 de Março de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Luís Manuel Capoulas Santos - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 8 de Maio de 2000.**
+Promulgado em 8 de Maio de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Maio de 2000.**
+Referendado em 12 de Maio de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Princípios de boas práticas de laboratório (BPL) da OCDE
 

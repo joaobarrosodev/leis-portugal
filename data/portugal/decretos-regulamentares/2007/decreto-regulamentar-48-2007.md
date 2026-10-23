@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/26122614.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/48/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/48-2007-521018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T06:30:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66778302edd3b85688e6697e5f97088ec9d3e5ed906ffd057162ac428e2b8aaf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7bcdd3f3222f87479eb865913c3e0ba6980c9669b83d9b0aac1df0fc1356df3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:30:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,88 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CADC
-- Pessoal Dirigente
 - Comissão de Acompanhamento
+- Comissão Interministerial de Limites e Bacias Hidrográficas Luso-espanholas
 - Comissão Internacional de Limites entre Portugal e Espanha
 - Definição de Competências
 - Delegação
-- Comissão Interministerial de Limites e Bacias Hidrográficas Luso-espanholas
+- Ministério dos Negócios Estrangeiros
+- Pessoal Dirigente
 - Presidente
 - Quadro de Pessoal
-- Ministério dos Negócios Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:864224972:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinado que fique na dependência do Ministro de Estado e dos Negócios Estrangeiros, em articulação com a Ministra\
+    \ da Agricutura, do Mar, do Ambiente e do Ordenamento do Território, a Comissão Interministerial de Limites e Bacias Hidrográficas\
+    \ Luso-Espanholas, cuja orgânica consta do presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de\
+    \ 12.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amended_by
+  target: pt:dre:145192:por
+  label: "Reestruturada, nos termos dos arts. 24.º e 26.º, a Comissão Interministeral de Limites e Bacias Hidrográficas Luso-Espanholas,\
+    \ cuja orgânica foi aprovada pelo presente diploma, passando a funcionar junto da Direcção Geral dos Assuntos Europeus,\
+    \ pelo DEC LEI.121/2011.29.12.2011.MNE, DR.IS [249] de 29.12.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2011-145192
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:499049:por
+  label: "Determinado que a Comissão Interministerial de Limites e Bacias Hidrográficas Luso-Espanholas, fica na dependência\
+    \ do Ministro do Estado e dos Negócios Estrangeiros, em articulação com o Ministro do Ambiente, Ordenamento do Território\
+    \ e Energia, pelo DEC LEI.119/2013.21.08.2013.PCM, DR.IS [160] de 21.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2013-499049
+  date: '2013-08-21'
+- type: amended_by
+  target: pt:dre:70961383:por
+  label: Determinado que a Comissão Interministerial de Limites e Bacias Hidrográficas Luso-Espanholas com orgânica constante
+    do presente diploma fique na dependência do Ministro do Estado e dos Negócios Estrangeiros, em articulação com o Ministro
+    do Ambiente, Ordenamento do Território e Energia pelo(a) Decreto-Lei n.º 249-A/2015 - Diário da República n.º 219/2015,
+    1º Suplemento, Série I de 2015-11-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-a-2015-70961383
+  date: '2015-11-09'
+- type: amended_by
+  target: pt:dre:72909765:por
+  label: Determinado que o funcionamento da Comissão Interministerial de Limites e Bacias Hidrográficas Luso-Espanholas seja
+    assegurado pelo Ministro dos Negócios Estrangeiros em coordenação com o Ministro do Ambiente e a Ministra do Mar pelo(a)
+    Decreto-Lei n.º 251-A/2015 - Diário da República n.º 246/2015, 1º Suplemento, Série I de 2015-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-2015-72909765
+  date: '2015-12-17'
+- type: amended_by
+  target: pt:dre:116923610:por
+  label: Determinado que seja assegurado pelo Ministro dos Negócios Estangeiros, em coordenação com o Ministro do Ambiente
+    e da Transição e Energética e com a Ministra do Mar, o funcionamento da Comissão Interministerial de Limites e Bacias
+    Hidrográficas Luso-Espanholas pelo(a) Decreto-Lei n.º 90/2018 - Diário da República n.º 216/2018, Série I de 2018-11-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2018-116923610
+  date: '2018-11-09'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que seja assegurado o funcionamento da Comissão Interministerial de Limites
+    e Bacias Hidrográficas Luso-Espanholas, com orgânica aprovada pelo presente diploma, pelo Ministro dos Negócios Estrangeiros,
+    em coordenação com o Ministro do Ambiente e da Transição e Energética e com a Ministra do Mar, pelo(a) Decreto-Lei n.º
+    169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado com efeitos a 30.03.2022 que seja assegurado o funcionamento da Comissão Interministerial de Limites
+    e Bacias Hidrográficas Luso-Espanholas, com orgânica aprovada pelo presente diploma pelo Ministro dos Negócios Estrangeiros,
+    em coordenação com o Ministro da Economia e do Mar, com o Ministro do Ambiente e da Ação Climática e com a Ministra da
+    Agricultura e da Alimentação pelo(a) Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja assegurado pelo Ministro de Estado e dos Negócios Estrangeiros,
+    em coordenação com o Ministro da Economia, com a Ministra do Ambiente e Energia e com o Ministro da Agricultura e Pescas,
+    o funcionamento da Comissão Interministerial de Limites e Bacias Hidrográficas Luso-Espanholas pelo(a) Decreto-Lei n.º
+    32/2024 - Diário da República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/204/2006/10/27/p/dre
   label: null
@@ -92,16 +160,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/124/2005/08/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/124/2005/08/04/p/dre
+- type: cites
+  target: pt:dre:240610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:30:46Z'
   warnings: []
   errors: []
 ---
@@ -220,16 +300,16 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia.
 
-**Promulgado em 27 de Março de 2007.**
+Promulgado em 27 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 27 de Março de 2007.**
+Referendado em 27 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o artigo 7.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/08200/26122614.pdf))](https://files.diariodarepublica.pt/1s/2007/04/08200/26122614.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/08200/26122614.pdf)

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 22/1987, 2º Suplemento, Série I de 1987-01-27
   number: '22'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 344-(3) a 344-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/02202/00030003.pdf
 entry_into_force_dates: []
@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/7-1987-442353
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T04:02:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aced2fd7b8670f84f007916af0e7848f0ea0e3f547d208473538445df8e5a0ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27e8d9aec93e09036dbf81691730f56142e9109abc25f6059fbe8e816abff715
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:02:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exoneração
+- Governo X
+- Secretário de Estado da Segurança Social
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:02:15Z'
   warnings: []
   errors: []
 ---
@@ -84,16 +87,16 @@ validation:
 
 de 27 de Janeiro
 
-**O Presidente da República decreta, nos termos da alínea h) do artigo 136.º da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos da alínea h) do artigo 136.º da Constituição, o seguinte:
 
 É exonerado, sob proposta do Primeiro-Ministro, do cargo de Secretário de Estado da Segurança Social o Dr. José Nobre Pinto Sancho.
 
-**Assinado em 23 de Janeiro de 1987.**
+Assinado em 23 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES. - O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Presidente da República, MÁRIO SOARES. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-**Referendado em 23 de Janeiro de 1987.**
+Referendado em 23 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

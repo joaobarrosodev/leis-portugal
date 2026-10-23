@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06300/19331938.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/35/2007/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/35-2007-520449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:30:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef09c98a94aa437f2cc7ce02e0d8047bad782e9d0946919b3d62a99e31de2e07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 212714055ff1481f75f553bd3b2984716a5c91a42726f52e68be424924355903
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:30:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Conselho Nacional de Cultura
 - Definição de Competências
 - Ministério da Cultura
-- Conselho Nacional de Cultura
 - Orgânica
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:500036:por
@@ -107,16 +107,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:217936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:149602:por
+  label: "Rectificado pela DECL-RECT.47-M/2007.25.05.2007.PCM, DR.IS [102]Supl de 28.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/47-m-2007-149602
+  date: '2007-05-25'
+- type: repealed_by
+  target: pt:dre:500036:por
+  label: "Revogado pelo DEC LEI.132/2013.13.09.2013.PCM, DR.IS [177] de 13.09.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-2013-500036
+  date: '2013-09-13'
 article_structure:
   article_count: 28
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:30:29Z'
   warnings: []
   errors: []
 ---
@@ -349,7 +391,9 @@ f) Secção dos Direitos de Autor e Directos Conexos;
 
 5 - Para as reuniões das secções especializadas podem ser, por iniciativa do respectivo presidente, convidados técnicos especialistas, personalidades ou representantes de entidades cuja participação seja considerada relevante face às matérias objecto da ordem de trabalhos, no entanto sem direito a voto.
 
-###### Artigo 19.º — Secção do Livro e das Bibliotecas
+###### Artigo 19.º
+
+#### Secção do Livro e das Bibliotecas
 
 1 - A secção especializada permanente do Livro e das Bibliotecas é composta pelos seguintes elementos:
 
@@ -383,7 +427,9 @@ c) Apresentar, debater e emitir recomendações e propostas sobre os programas e
 
 d) Apresentar propostas para a reformulação do enquadramento normativo do sector do Livro e das Bibliotecas tendo em vista a sua constante adequação aos interesses e necessidades do sector.
 
-###### Artigo 20.º — Secção dos Arquivos
+###### Artigo 20.º
+
+#### Secção dos Arquivos
 
 1 - A secção especializada permanente dos Arquivos é composta pelos seguintes elementos:
 
@@ -415,7 +461,9 @@ d) Estimular a cooperação entre arquivos dos diversos organismos representados
 
 e) Promover a cooperação entre arquivos e serviços de informação multimédia com vista à cooperação internacional.
 
-###### Artigo 21.º — Secção dos Museus e da Conservação e Restauro
+###### Artigo 21.º
+
+#### Secção dos Museus e da Conservação e Restauro
 
 1 - A secção especializada permanente dos Museus e da Conservação e Restauro é composta pelos seguintes elementos:
 
@@ -459,7 +507,9 @@ d) Emitir pareceres sobre os relatórios técnicos preliminares à credenciaçã
 
 e) Propor medidas destinadas a estimular a adopção de uma ética de rigor e de boas práticas na conservação e restauro dos bens culturais móveis e integrados.
 
-###### Artigo 22.º — Secção do Património Arquitectónico e Arqueológico
+###### Artigo 22.º
+
+#### Secção do Património Arquitectónico e Arqueológico
 
 1 - A secção especializada permanente do Património Arquitectónico e Arqueológico é composta pelos seguintes elementos:
 
@@ -487,7 +537,9 @@ b) Emitir pareceres sobre as matérias da competência do IGESPAR, IP, nos termo
 
 c) Formular propostas ou sugestões sobre quaisquer questões relativas à salvaguarda e valorização do património cultural arquitectónico e arqueológico.
 
-###### Artigo 23.º — Secção do Cinema e do Audiovisual
+###### Artigo 23.º
+
+#### Secção do Cinema e do Audiovisual
 
 1 - A secção especializada permanente do Cinema e do Audiovisual é composta pelos seguintes elementos:
 
@@ -525,7 +577,9 @@ q) Duas individualidades de reconhecido mérito na área do Cinema e do Audiovis
 
 2 - Compete à secção especializada permanente do Cinema e do Audiovisual prestar apoio ao membro do Governo responsável pela área da Cultura nas questões relativas à definição e ao desenvolvimento das políticas nacionais no âmbito da política cinematográfica e do audiovisual.
 
-###### Artigo 24.º — Secção dos Direitos de Autor e Directos Conexos
+###### Artigo 24.º
+
+#### Secção dos Direitos de Autor e Directos Conexos
 
 1 - A secção especializada permanente dos Direitos de Autor e Directos Conexos é composta pelos seguintes elementos:
 
@@ -589,12 +643,12 @@ d) O [Decreto-Lei n.º 228/2005](https://diariodarepublica.pt/dr/detalhe/decreto
 
 Visto e aprovado em Conselho de Ministros de 1 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - José Manuel Vieira Conde Rodrigues - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jorge Miguel de Melo Viana Pedreira - José Mariano Rebelo Pires Gago - Mário Vieira de Carvalho - Augusto Ernesto Santos Silva.
 
-**Promulgado em 23 de Março de 2007.**
+Promulgado em 23 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 27 de Março de 2007.**
+Referendado em 27 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

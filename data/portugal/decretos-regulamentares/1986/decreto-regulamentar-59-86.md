@@ -48,36 +48,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1986-222423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 991ba3a301028922dcc158ecfb34c2f6c9c59d5e470ab37c38dbad8e9a25ff3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 574804245ca169ad4dc0ad20c0bbec06846eb3d9fc05b619a331b0eae91a0677
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código da Estrada
+relationships:
+- type: cites
+  target: pt:dre:177853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:41Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +107,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição e de acordo com o disposto no § único do artigo 1.º do [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954:
 
-###### Artigo 1.º O n.º 3 do artigo 31.º e os n.os 10, 13 e 15 do artigo 38.º, todos do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, passam a ter a seguinte redacção:
+Artigo 1.º O n.º 3 do artigo 31.º e os n.os 10, 13 e 15 do artigo 38.º, todos do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, passam a ter a seguinte redacção:
 
 ###### ARTIGO 31.º
 
@@ -150,20 +159,20 @@ A infracção ao disposto neste número será punida com a multa de 2000$00 a 10
 
 A infracção ao disposto neste número será punida com a multa de 3000$00 a 15000$00.
 
-###### Art. 2.º As especificações relativas ao material retrorreflector deverão obedecer às condições fixadas por despachos do director-geral de Viação.
+Art. 2.º As especificações relativas ao material retrorreflector deverão obedecer às condições fixadas por despachos do director-geral de Viação.
 
-###### Art. 3.º É revogado o artigo 1.º do [Decreto Regulamentar n.º 69/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/69-1985-177853), de 26 de Outubro, na parte em que se refere aos artigos 31.º e 38.º do Código da Estrada.
+Art. 3.º É revogado o artigo 1.º do [Decreto Regulamentar n.º 69/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/69-1985-177853), de 26 de Outubro, na parte em que se refere aos artigos 31.º e 38.º do Código da Estrada.
 
-###### Art. 4.º O disposto neste diploma entra em vigor seis meses após a publicação dos despachos nele previstos, repondo-se até lá em vigor os artigos 31.º e 38.º do Código da Estrada na redacção que tinham anteriormente ao decreto regulamentar agora parcialmente revogado.
+Art. 4.º O disposto neste diploma entra em vigor seis meses após a publicação dos despachos nele previstos, repondo-se até lá em vigor os artigos 31.º e 38.º do Código da Estrada na redacção que tinham anteriormente ao decreto regulamentar agora parcialmente revogado.
 
 Eurico Silva Teixeira de Melo - João Maria Leitão de Oliveira Martins - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 26 de Setembro de 1986.**
+Promulgado em 26 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Setembro de 1986.**
+Referendado em 30 de Setembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

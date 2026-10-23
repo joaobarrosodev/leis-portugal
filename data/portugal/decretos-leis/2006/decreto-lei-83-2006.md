@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/05/085a00/31843190.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/83/2006/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2006-660327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c52fa720b6ce30760ad28c44e34a2be96546aa11a5bcff6edc6e1028412152d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 880eaf13f731b0d5b10aa382f9353623e6c9ca16d46473347437b2688da4abc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Seguradora
-- Contrato de Seguro
 - Aproximação das Legislações
+- Atividade Seguradora
+- Companhia de Seguros
+- Contrato de Seguro
 - Definição de Competências
 - Indemnização
-- Veículo
 - Proteção do Consumidor
-- Companhia de Seguros
 - Seguro Automóvel
 - Seguro de Responsabilidade Civil Automóvel
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:640637:por
@@ -106,16 +106,22 @@ relationships:
   target: celex:32005L0014
   label: null
   source: http://data.europa.eu/eli/dir/2005/14/oj
+- type: repealed_by
+  target: pt:dre:640637:por
+  label: "Revogado, a partir de 20.10.2007, pelo DEC LEI.291/2007.21.08.2007.MFAP, DR.IS [160] de 21.08.2007(Ver notas)\0\
+    s)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/291-2007-640637
+  date: '2007-08-21'
 article_structure:
-  article_count: 26
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:25Z'
   warnings: []
   errors: []
 ---
@@ -170,7 +176,9 @@ Entidades fiscalizadoras
 
 Sem prejuízo do disposto no capítulo V-A, o cumprimento das obrigações estabelecidas neste decreto-lei e nas disposições regulamentares é fiscalizado pelas autoridades com poderes de fiscalização referidas no Código da Estrada e ainda pela Brigada Fiscal da Guarda Nacional Republicana e pela Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo relativamente a veículos entrados por via marítima ou aérea que não se encontrem matriculados em outros Estados membros da União Europeia ou em países terceiros cujos gabinetes nacionais de seguros, tendo aderido à Convenção Complementar entre Gabinetes Nacionais, não provenham de um Estado membro.
 
-###### Artigo 37.º — Sanções aplicáveis às seguradoras
+Artigo 37.º
+
+Sanções aplicáveis às seguradoras
 
 Sem prejuízo do disposto no capítulo V-A, o incumprimento pelas empresas de seguros das disposições legais e regulamentares sobre o seguro obrigatório de responsabilidade civil automóvel é punível nos termos do regime sancionatório relativo ao exercício da actividade seguradora.»
 
@@ -182,11 +190,15 @@ São aditados ao Decreto-Lei n.º 522/85, de 31 de Dezembro, alterado pelos Decr
 
 Da regularização dos sinistros
 
-###### Artigo 20.º-A — Objecto
+Artigo 20.º-A
+
+Objecto
 
 O presente capítulo fixa as regras e os procedimentos a observar pelas empresas de seguros com vista a garantir, de forma pronta e diligente, a assunção da sua responsabilidade e o pagamento das indemnizações devidas em caso de sinistro no âmbito do seguro de responsabilidade civil automóvel.
 
-###### Artigo 20.º-B — Âmbito
+Artigo 20.º-B
+
+Âmbito
 
 1 - O regime previsto no presente capítulo não se aplica:
 
@@ -206,7 +218,9 @@ d) A sinistros cujos danos indemnizáveis totais excedam o capital mínimo legal
 
 5 - Para a aplicação do regime previsto no presente capítulo não é necessário que os interessados tenham chegado a acordo sobre os factos ocorridos aquando do sinistro.
 
-###### Artigo 20.º-C — Princípios base da gestão de sinistros
+Artigo 20.º-C
+
+Princípios base da gestão de sinistros
 
 1 - Aquando da celebração de um contrato de seguro de responsabilidade civil automóvel, a empresa de seguros deve prestar informação relevante relativamente aos procedimentos que adopta em caso de sinistro.
 
@@ -226,7 +240,9 @@ d) A sinistros cujos danos indemnizáveis totais excedam o capital mínimo legal
 
 9 - A empresa de seguros deve disponibilizar a qualquer interessado informação relativa aos tempos médios de regularização dos sinistros.
 
-###### Artigo 20.º-D — Obrigações do tomador do seguro e do segurado em caso de sinistro
+Artigo 20.º-D
+
+Obrigações do tomador do seguro e do segurado em caso de sinistro
 
 1 - Em caso de sinistro, o tomador do seguro ou o segurado, sob pena de responder por perdas e danos, obriga-se a:
 
@@ -242,13 +258,17 @@ b) Dar ocasião, ainda que por omissão ou negligência, a sentença favorável 
 
 3 - Em caso de reclamação por terceiro lesado, se o tomador do seguro ou o segurado não efectuar a participação decorridos oito dias após ter sido notificado para o efeito pela empresa de seguros, e sem prejuízo da regularização do sinistro com base na prova apresentada pelo terceiro lesado, bem como nas averiguações e nas peritagens que se revelem necessárias, constitui-se imediatamente, salvo impossibilidade absoluta que não lhe seja imputável, na obrigação de pagar à empresa de seguros uma penalidade correspondente ao prémio comercial do seguro obrigatório da anuidade em que ocorreu o sinistro.
 
-###### Artigo 20.º-E — Forma de participação do sinistro
+Artigo 20.º-E
+
+Forma de participação do sinistro
 
 1 - A participação do sinistro deve ser feita em impresso próprio fornecido pela empresa de seguros ou disponível no seu sítio na Internet, de acordo com o modelo aprovado pelo Instituto de Seguros de Portugal, ou por qualquer outro meio de comunicação que possa ser utilizado sem a presença física e simultânea das partes, desde que dela fique registo escrito ou gravado.
 
 2 - Quando a participação do sinistro seja assinada conjuntamente por ambos os condutores envolvidos no sinistro, presume-se que o sinistro se verificou nas circunstâncias, nos moldes e com as consequências constantes da mesma, salvo prova em contrário por parte da empresa de seguros.
 
-###### Artigo 20.º-F — Diligência e prontidão da empresa de seguros
+Artigo 20.º-F
+
+Diligência e prontidão da empresa de seguros
 
 1 - Sempre que lhe seja comunicada pelo tomador do seguro, pelo segurado ou pelo terceiro lesado a ocorrência de um sinistro automóvel coberto por um contrato de seguro, a empresa de seguros deve:
 
@@ -282,7 +302,9 @@ b) Duplicam aquando da ocorrência de factores climatéricos excepcionais ou da 
 
 8 - Os prazos previstos no presente artigo suspendem-se nas situações em que a empresa de seguros se encontre a levar a cabo uma investigação por suspeita fundamentada de fraude.
 
-###### Artigo 20.º-G — Proposta razoável
+Artigo 20.º-G
+
+Proposta razoável
 
 1 - A posição prevista na alínea e) do n.º 1 ou no n.º 5 do artigo anterior consubstancia-se numa proposta razoável de indemnização, no caso de a responsabilidade não ser contestada e de o dano sofrido ser quantificável.
 
@@ -290,7 +312,9 @@ b) Duplicam aquando da ocorrência de factores climatéricos excepcionais ou da 
 
 3 - Se o montante proposto nos termos da proposta razoável for manifestamente insuficiente, são devidos juros no dobro da taxa prevista na lei aplicável ao caso, sobre a diferença entre o montante oferecido e o montante fixado ou acolhido na decisão judicial, contados a partir do dia seguinte ao final do prazo previsto na alínea e) do n.º 1 ou no n.º 5 do artigo anterior até à data da decisão judicial ou até à data estabelecida na decisão judicial.
 
-###### Artigo 20.º-H — Resposta fundamentada
+Artigo 20.º-H
+
+Resposta fundamentada
 
 1 - A comunicação da assunção da responsabilidade, nos termos previstos na alínea e) do n.º 1 do artigo 20.º-F, ou da decisão final, prevista no n.º 5 do mesmo artigo, consubstancia-se numa resposta fundamentada em todos os pontos invocados no pedido nos seguintes casos:
 
@@ -302,7 +326,9 @@ c) Os danos sofridos não sejam totalmente quantificáveis.
 
 2 - Em caso de atraso no cumprimento dos deveres fixados na alínea e) do n.º 1 ou no n.º 5 do artigo 20.º-F, quando revistam a forma constante do número anterior, para além dos juros devidos a partir do 1.º dia de atraso sobre o montante previsto no n.º 2 do artigo anterior, esta constitui-se devedora para com o lesado e para com o Instituto de Seguros de Portugal, em partes iguais, de uma quantia de (euro) 200 por cada dia de atraso.
 
-###### Artigo 20.º-I — Perda total
+Artigo 20.º-I
+
+Perda total
 
 1 - Entende-se que um veículo interveniente num acidente se considera em situação de perda total, na qual a obrigação de indemnização é cumprida em dinheiro e não através da reparação do veículo, quando se verifique uma das seguintes hipóteses:
 
@@ -328,7 +354,9 @@ c) O valor de venda com base nas tabelas de desvalorização comummente utilizad
 
 d) A estimativa do valor do respectivo salvado e a identificação de quem se compromete a adquiri-lo com base nessa avaliação.
 
-###### Artigo 20.º-J — Veículo de substituição
+Artigo 20.º-J
+
+Veículo de substituição
 
 1 - Verificando-se a imobilização do veículo sinistrado, o lesado tem direito a um veículo de substituição de características semelhantes a partir da data em que a empresa de seguros assuma a responsabilidade exclusiva pelo ressarcimento dos danos resultantes do acidente, nos termos previstos nos artigos anteriores.
 
@@ -342,7 +370,9 @@ d) A estimativa do valor do respectivo salvado e a identificação de quem se co
 
 6 - Sempre que a reparação seja efectuada em oficina indicada pelo lesado, a empresa de seguros disponibiliza o veículo de substituição pelo período estritamente necessário à reparação, tal como indicado no relatório da peritagem.
 
-###### Artigo 20.º-L — Pagamento da indemnização
+Artigo 20.º-L
+
+Pagamento da indemnização
 
 1 - A empresa de seguros responsável deve proceder ao pagamento ao lesado da indemnização decorrente do sinistro no prazo de oito dias úteis a contar a partir da data da assunção da responsabilidade, nos termos da alínea e) do n.º 1 ou do n.º 5 do artigo 20.º-F, e mediante a apresentação dos respectivos documentos comprovativos.
 
@@ -352,7 +382,9 @@ d) A estimativa do valor do respectivo salvado e a identificação de quem se co
 
 4 - Verificando-se uma situação de perda total, em que a empresa de seguros adquira o salvado, o pagamento da indemnização fica dependente da entrega àquela do documento único automóvel ou do título de registo de propriedade e do livrete do veículo.
 
-###### Artigo 20.º-M — Reclamações e arbitragem
+Artigo 20.º-M
+
+Reclamações e arbitragem
 
 1 - Sem prejuízo de outras competências fixadas na lei, compete ao Instituto de Seguros de Portugal a recepção das reclamações e a prestação de informações relativas à aplicação do disposto no presente capítulo.
 
@@ -360,7 +392,9 @@ d) A estimativa do valor do respectivo salvado e a identificação de quem se co
 
 3 - Se o tomador do seguro, o segurado ou o terceiro lesado não concordar com a decisão comunicada nos termos da alínea e) do n.º 1 ou do n.º 5 do artigo 20.º-F e não aceitar o recurso à arbitragem, a empresa de seguros fica dispensada do cumprimento dos prazos previstos no artigo 20.º-L.
 
-###### Artigo 20.º-N — Códigos de conduta, convenções ou acordos
+Artigo 20.º-N
+
+Códigos de conduta, convenções ou acordos
 
 1 - Sem prejuízo do disposto no presente capítulo, as empresas de seguros ou as suas associações podem aprovar códigos de conduta, convenções ou acordos que assegurem procedimentos mais céleres, sem diminuir a protecção dos consumidores assegurada pela lei.
 
@@ -370,13 +404,19 @@ d) A estimativa do valor do respectivo salvado e a identificação de quem se co
 
 4 - Quando, nos termos dos códigos de conduta, convenções ou acordos e com o enquadramento neles previsto, a regularização e o acompanhamento do sinistro sejam feitos por uma empresa de seguros por conta de outrem, as obrigações previstas no presente capítulo impendem sobre aquela.
 
-###### Artigo 20.º-O — Comunicações e notificações
+Artigo 20.º-O
+
+Comunicações e notificações
 
 As comunicações ou notificações previstas neste capítulo consideram-se válidas e plenamente eficazes caso sejam efectuadas por correio registado, transmissão por telecópia, correio electrónico ou por outro meio do qual fique um registo escrito ou gravado.
 
-### CAPÍTULO V-A — Da garantia do regime de regularização de sinistros
+CAPÍTULO V-A
 
-###### Artigo 35.º-A — Contra-ordenações
+Da garantia do regime de regularização de sinistros
+
+Artigo 35.º-A
+
+Contra-ordenações
 
 1 - A infracção ao disposto nos n.os 1, 5 e 6 do artigo 20.º-F, nos artigos 20.º-G e 20.º-H e nos n.os 1 e 5 do artigo 20.º-J constitui contra-ordenação punível com coima de (euro) 3000 a (euro) 44890, quando não exista sanção civil aplicável.
 
@@ -384,7 +424,9 @@ As comunicações ou notificações previstas neste capítulo consideram-se vál
 
 3 - A negligência é sempre punível.
 
-###### Artigo 35.º-B — Fiscalização e instrução
+Artigo 35.º-B
+
+Fiscalização e instrução
 
 1 - A fiscalização do cumprimento do capítulo II-A, bem como a instrução dos processos de contra-ordenação, compete ao Instituto de Seguros de Portugal.
 
@@ -394,7 +436,9 @@ As comunicações ou notificações previstas neste capítulo consideram-se vál
 
 4 - A aplicação das respectivas coimas cabe ao conselho directivo do Instituto de Seguros de Portugal.
 
-###### Artigo 35.º-C — Distribuição do produto das coimas
+Artigo 35.º-C
+
+Distribuição do produto das coimas
 
 O produto das coimas aplicadas é distribuído da seguinte forma:
 
@@ -402,7 +446,9 @@ a) 60% para o Estado;
 
 b) 40% para o Instituto de Seguros de Portugal.
 
-###### Artigo 35.º-D — Divulgação das infracções
+Artigo 35.º-D
+
+Divulgação das infracções
 
 1 - O Instituto de Seguros de Portugal disponibiliza, para consulta pública, a identificação das empresas de seguros que tenham sido objecto de aplicação de coimas no âmbito previsto no presente capítulo por decisões transitadas em julgado.
 
@@ -430,12 +476,12 @@ No final do 3.º ano a contar a partir da data da entrada em vigor do presente d
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Manuel Mendonça de Oliveira Neves - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 19 de Abril de 2006.**
+Promulgado em 19 de Abril de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 20 de Abril de 2006.**
+Referendado em 20 de Abril de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

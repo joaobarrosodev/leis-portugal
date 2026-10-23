@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/182-1971-445684
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c900d080c0c8a910b234f60082a0a41c5c60332626a8aea3bf0e2b3a5e327eb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2af09afc7e1f9f92d8b76b8595b27ce10221bb410b1b8f385b6f446c194f6129
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:50Z'
   warnings: []
   errors: []
 ---
@@ -87,6 +87,6 @@ de 7 de Abril
 
 Manda o Governo da República Portuguesa, pelo Ministro dos Negócios Estrangeiros, abonar pela verba do capítulo 5.º, artigo 33.º, n.º 2) «Material e expediente», do orçamento em vigor, a quantia de 284275$00, para ocorrer a despesas a satisfazer no País com a assinatura e respectiva expedição de jornais e aquisição de papel timbrado formato A-4 uniformizado, destinado às missões diplomáticas e postos consulares.
 
-**O Ministro dos Negócios Estrangeiros, Rui Manuel de Medeiros d'Espiney Patrício.**
+O Ministro dos Negócios Estrangeiros, Rui Manuel de Medeiros d'Espiney Patrício.
 
 (Não carece de visto ou anotação do Tribunal de Contas.)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/242/2006/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2006-552345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af16df4dba6f9ce179da22c2d14f04f9ebb5ee3984921564553fc7a6d1e25373
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73ef2b9dc7210222582c924bcc3642fc9dee32ed6bfabea0dcb7308cd9b253a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,36 +68,65 @@ reuse:
 subjects:
 - Accionista
 - Agrupamento Complementar de Empresas
-- Financiamento
-- Sociedade Comercial
-- Capital Social
+- ÁREA de Serviço
+- Auto-estrada
 - Auto-estrada da Grande Lisboa
-- Estrada
-- Contrato de Concessão
-- EP-Estradas de Portugal
+- Capital Social
+- Companhia de Seguros
 - Conservação de Estradas
+- Contrato de Concessão
+- Direitos do Utente
+- EP-Estradas de Portugal
+- Estrada
 - Expropriação
+- Financiamento
 - Fiscalização
 - Fundos Próprios
-- Auto-estrada
 - Jurisdição de Arbitragem
-- Propriedade Industrial
 - Licenciamento
-- Veículo
 - Portagem
-- ÁREA de Serviço
 - Preço
+- Propriedade Industrial
 - Propriedade Intelectual
 - Regime Fiscal
 - Responsabilidade Civil
-- Companhia de Seguros
-- Direitos do Utente
+- Sociedade Comercial
 - Tráfego Rodoviário
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:67540640:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:510862:por
+  label: "Alteradas as bases I, II, III, V, VI, VII, IX, X, XI, XII, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXIV,\
+    \ XXVI, XXVII, XXVIII, XXIX, XXXI, XXXII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX, XL, XLII, XLIII, XLIV, XLV, XLVI,\
+    \ XLVII, XLVIII, XLIX, L, LII, LIII, LIV, LVII, LVIII, LX, LXI, LXII, LXIII, LXIV, LXV, LXVI, LXVII, LXIX, LXX, LXXI,\
+    \ LXXII, LXXV, LXXVI, LXXVII, LXXVIII, LXXIX, LXXXI, LXXXIII, LXXXIV, LXXXV, LXXXVII, XCII, XCIII, XCIV e XCVIII, alteradas\
+    \ para «InIR» a epígrafe do cap. VIII, para «Autorizações, aprovações e outros actos do Concedente» a epígrafe do cap.\
+    \ XIII, para «Receitas da Concessionária» a epígrafe do cap. XV, para «Responsabilidade extracontratual perante terceiros»\
+    \ a epígrafe do cap. XIX e para «Aplicação no tempo»a epígrafe do cap. XXIV, aditadas as bases XVII-A, LXII-A, LXVI-A\
+    \ e LXVI-B, bem como aditados o cap. XV-A com a epígrafe «Portagens» e o cap. XV-B com a epígrafe «Receitas da EP», revogados\
+    \ as als. k), nn), ss) e bbbb) do n.º 1 da base I, a al. c) do n.º 1 da base L, a base LI, os n.ºs 8 e 10 da base LXIII,\
+    \ os n.ºs 2 a 10 da base LXV, a base LXVIII, a al. d) do n.º 3 da base LXIX, os n.ºs 2 a 4 da base LXXXII, a al. d) do\
+    \ n.º 1 da base LXXXIV e a base LXXXVIII e republicadas as bases da concessão aprovadas em anexo ao presente diploma,\
+    \ pelo DEC LEI.44-F/2010.05.05.2010.MOPTC, DR.IS [87-Supl] de 05.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-f-2010-510862
+  date: '2010-05-05'
+- type: amended_by
+  target: pt:dre:67540640:por
+  label: Alteradas, a partir de 20.06.2015, as bases I, II, V, a VII, IX, XI, XIV, XV, XVII-A, XVIII a XX, XXII, XXIII, XXVI,
+    XXVIII, XXIX, XXXI, XXXII, XXXVI, XXXVIII, XXXIX, XLI a L, LII a LV, LVIII, LX, LXII, LXII-A, LXIII a LXVI, LXVI-A, LXVI-B,
+    LXVII, LXIX, LXXI a LXXIII, LXXV a LXXIX, LXXXI, LXXXIII, LXXXIV, XC, XCVII e XCVIII, bem como as epígrafes dos capítulos
+    VIII e XV, aditadas as bases XXXVI-A, LIII-A, LXII-B, LXII-C, LXII-D, LXVI-C, LXXXVII-A e XCVI-A e o capítulo XXV-A (com
+    a epígrafe Comissão de Peritos, que inclui a base XCVI-A), e revogados os n.ºs 11 e 12 da base XXXVI, o n.º 12 da base
+    XLVII, a al. g) do n.º 9, a al. d) do n.º 10 e o n.º 11 da base XLIX, o n.º 2 da base L, o n.º 5 da base LIII, os n.ºs
+    16, 17 e 18 da base LXII-A e a base XCII, todos das bases da concessão designada por Grande Lisboa aprovadas em anexo
+    ao presente diploma (na versão republicada pelo Dec.de 05-mai), que são republicadas, pelo(a) Decreto-Lei n.º 112/2015
+    - Diário da República n.º 118/2015, Série I de 2015-06-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-2015-67540640
+  date: '2015-06-19'
 - type: cites
   target: celex:31993L0037
   label: null
@@ -110,16 +139,22 @@ relationships:
   target: celex:32004L0052
   label: null
   source: http://data.europa.eu/eli/dir/2004/52/oj
+- type: repealed_by
+  target: pt:dre:67085601:por
+  label: Revogado, a partir de 26.07.2015, o art. 4.º do presente diploma pelo(a) Lei n.º 34/2015 - Diário da República n.º
+    81/2015, Série I de 2015-04-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/34-2015-67085601
+  date: '2015-04-27'
 article_structure:
   article_count: 5
-  section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:24Z'
   warnings: []
   errors: []
 ---
@@ -178,21 +213,23 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Mário Lino Soares Correia.
 
-**Promulgado em 22 de Dezembro de 2006.**
+Promulgado em 22 de Dezembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 22 de Dezembro de 2006.**
+Referendado em 22 de Dezembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Bases da concessão
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Base I — Definições
+Base I
+
+Definições
 
 1 - Nestas bases, sempre que iniciados por maiúscula, e salvo se do contexto resultar claramente sentido diferente, os termos abaixo indicados terão os seguintes significados:
 
@@ -316,9 +353,13 @@ ccc) «Vocabulário de Estradas e Aeródromos» - designa a publicação, de 196
 
 2 - Os termos definidos no número anterior no singular poderão ser utilizados no plural e vice-versa, com a correspondente alteração do respectivo significado, salvo se do contexto resultar claramente o inverso.
 
-### CAPÍTULO II — Objecto e natureza da Concessão
+CAPÍTULO II
 
-###### Base II — Objecto
+Objecto e natureza da Concessão
+
+Base II
+
+Objecto
 
 1 - A Concessão tem por objecto a concepção, projecto, construção, aumento do número de vias, financiamento, conservação e exploração, com cobrança de portagem aos utentes, dos seguintes Lanços de Auto-Estrada:
 
@@ -350,17 +391,23 @@ f) IP7 - eixo rodoviário norte-sul;
 
 5 - Os Lanços referidos nos números anteriores encontram-se divididos em Sublanços, tal como definido na base VIII e em anexo ao Contrato de Concessão.
 
-###### Base III — Serviço Público
+Base III
+
+Serviço Público
 
 1 - A Concessionária deve desempenhar as actividades concessionadas de acordo com as exigências de um regular, contínuo e eficiente funcionamento do serviço público e adoptar, para o efeito, os melhores padrões de qualidade disponíveis em cada momento, tudo nos exactos termos das disposições aplicáveis das presentes bases.
 
 2 - A Concessionária não poderá recusar a utilização da Auto-Estrada a qualquer pessoa ou entidade, nem discriminar ou estabelecer diferenças de tratamento entre os utentes da mesma.
 
-###### Base IV — Natureza da Concessão
+Base IV
+
+Natureza da Concessão
 
 A Concessão é de obra pública e é estabelecida em regime de exclusivo relativamente à Auto-Estrada que integra o seu objecto.
 
-###### Base V — Estabelecimento e bens que integram a Concessão
+Base V
+
+Estabelecimento e bens que integram a Concessão
 
 1 - O estabelecimento da Concessão é composto:
 
@@ -372,7 +419,9 @@ b) Pelas Áreas de Serviço, pelas áreas de repouso, pelo centro de assistênci
 
 3 - A Concessionária elaborará, e manterá permanentemente actualizado e à disposição do Concedente, um inventário dos bens e direitos que integram a Concessão, que mencionará os ónus ou encargos que recaem sobre os bens e direitos nele listados.
 
-###### Base VI — Regime dos bens da Concessão
+Base VI
+
+Regime dos bens da Concessão
 
 1 - A Concessionária não poderá por qualquer forma celebrar contrato que tenha por efeito a promessa ou a efectiva cedência, alienação ou oneração de quaisquer dos bens que integram a Concessão, os quais não podem igualmente ser objecto de arrendamento, de promessa de arrendamento ou de qualquer outra forma que titule ou tenha em vista a ocupação dos respectivos espaços, nem de arresto, penhora ou qualquer providência cautelar, sem prejuízo do disposto em contrário nas presentes bases.
 
@@ -388,9 +437,13 @@ b) Pelas Áreas de Serviço, pelas áreas de repouso, pelo centro de assistênci
 
 7 - Revertem automaticamente para o Concedente, no Termo da Concessão, e sem qualquer indemnização, custo ou preço a suportar por este, todos os bens e direitos que integram a Concessão.
 
-### CAPÍTULO III — Delimitação física da Concessão
+CAPÍTULO III
 
-###### Base VII — Delimitação física da Concessão
+Delimitação física da Concessão
+
+Base VII
+
+Delimitação física da Concessão
 
 1 - O traçado definitivo da Auto-estrada será o que figurar nos projectos aprovados nos termos da base XXIX, os quais serão submetidos com base nos limites da Concessão tal como constantes em anexo ao Contrato de Concessão.
 
@@ -406,7 +459,9 @@ b) Pelas Áreas de Serviço, pelas áreas de repouso, pelo centro de assistênci
 
 7 - Todas as obras de arte de transposição da Auto-Estrada integram a Concessão, mesmo que não sejam construídas pela Concessionária, sendo esta exclusivamente responsável pela parte estrutural, juntas de dilatação e guarda-corpos. Relativamente às obras de arte já existentes, a Concessionária não será responsável por eventuais defeitos de projecto ou de construção, nem lhe caberá qualquer decorrente responsabilidade civil ou criminal. Os projectos de quaisquer novas obras de transposição da Auto-Estrada a executar por quaisquer terceiros deverão ser submetidos a parecer prévio da Concessionária e a aprovação da EP.
 
-###### Base VIII — Lanços e Sublanços
+Base VIII
+
+Lanços e Sublanços
 
 1 - Os Lanços estão divididos nos Sublanços indicados em anexo ao Contrato de Concessão, entendendo-se por extensão de um Lanço o somatório das extensões dos Sublanços em que se divide.
 
@@ -424,9 +479,13 @@ e) Se não estiver concluída a construção de um dos Sublanços da Auto-Estrad
 
 f) Se não estiver concluída a construção dos dois Sublanços da Auto-Estrada que lhe fiquem contíguos, a sua extensão será provisoriamente determinada pela distância que mediar entre os últimos perfis transversais de Auto-Estrada construídos e a entrar em serviço;
 
-### CAPÍTULO IV — Duração da Concessão
+CAPÍTULO IV
 
-###### Base IX — Prazos da Concessão
+Duração da Concessão
+
+Base IX
+
+Prazos da Concessão
 
 1 - No que respeita aos Lanços dos n.os 1 a 3 da base II, o prazo da Concessão é de 30 anos a contar da data de assinatura do Contrato de Concessão, expirando automaticamente às 24 (vinte e quatro) horas do dia em que ocorrer o trigésimo aniversário dessa assinatura.
 
@@ -438,13 +497,19 @@ f) Se não estiver concluída a construção dos dois Sublanços da Auto-Estrada
 
 5 - Para além dos casos em que tal matéria se encontre expressamente regulada nas presentes bases, no final do prazo de cinco anos referido no n.º 2, aplicar-se-ão, relativamente aos Lanços do n.º 4, e com as demais adaptações devidas, as regras do presente Contrato relativas ao fim do prazo da Concessão.
 
-### CAPÍTULO V — Sociedade concessionária
+CAPÍTULO V
 
-###### Base X — Objecto social, sede e forma
+Sociedade concessionária
+
+Base X
+
+Objecto social, sede e forma
 
 A Concessionária tem como objecto social exclusivo o exercício das actividades que, nos termos do Contrato de Concessão, se consideram integradas na Concessão, devendo manter, ao longo de toda a vigência da Concessão, a sua sede em Portugal e a forma de sociedade anónima, regulada pela lei portuguesa.
 
-###### Base XI — Estrutura accionista
+Base XI
+
+Estrutura accionista
 
 1 - O capital social da Concessionária encontra-se inicialmente distribuído entre os Accionistas na exacta medida consignada em anexo ao Contrato de Concessão. Qualquer alteração das posições relativas dos Accionistas no capital da Concessionária carece de autorização prévia do MEF e do MOPTC.
 
@@ -462,7 +527,9 @@ A Concessionária tem como objecto social exclusivo o exercício das actividades
 
 8 - Com excepção das transmissões previstas nos n.os 3 e 4, as autorizações do Concedente, do MEF e ou do MOPTC previstas nesta base consideram-se tacitamente concedidas se não foram recusadas, por escrito, no prazo de 60 dias a contar da data da respectiva solicitação.
 
-###### Base XII — Capital social
+Base XII
+
+Capital social
 
 1 - O capital social da Concessionária será subscrito e realizado nos termos do Acordo de Subscrição e Realização de Fundos Próprios.
 
@@ -476,7 +543,9 @@ A Concessionária tem como objecto social exclusivo o exercício das actividades
 
 6 - A Concessionária não poderá, até à conclusão da construção de toda a Auto-Estrada, deter acções próprias.
 
-###### Base XIII — Estatutos e Acordo Parassocial
+Base XIII
+
+Estatutos e Acordo Parassocial
 
 1 - Até três anos após a data de entrada em serviço do último Lanço a construir, quaisquer alterações aos Estatutos deverão ser objecto de autorização do Concedente, sob pena de nulidade.
 
@@ -492,7 +561,9 @@ c) Alteração do número dos membros dos órgãos sociais ou da mesa da Assembl
 
 4 - A Concessionária remeterá ao Concedente, no prazo de 30 dias após a respectiva outorga, cópia simples das escrituras notariais de alteração dos Estatutos que tiver realizado nos termos do número anterior.
 
-###### Base XIV — Oneração de acções
+Base XIV
+
+Oneração de acções
 
 1 - A oneração de acções representativas do capital social da Concessionária carece, sob pena de nulidade, de autorização prévia do Concedente, a qual não poderá ser infundadamente recusada e se considerará tacitamente concedida se não for recusada, por escrito, no prazo de 60 dias a contar da data da respectiva solicitação.
 
@@ -502,7 +573,9 @@ c) Alteração do número dos membros dos órgãos sociais ou da mesa da Assembl
 
 4 - As disposições da presente base manter-se-ão em vigor até 3 anos após a data de entrada em serviço do último Lanço a construir.
 
-###### Base XV — Obrigações de informação
+Base XV
+
+Obrigações de informação
 
 Ao longo de todo o período da Concessão, e sem prejuízo das demais obrigações de informação estabelecidas no Contrato de Concessão, a Concessionária compromete-se para com o Concedente a:
 
@@ -526,19 +599,27 @@ i) Remeter-lhe, no primeiro trimestre de cada ano, um relatório, respeitante ao
 
 j) Apresentar, prontamente, as informações complementares ou adicionais que lhe sejam solicitadas pelo Concedente.
 
-###### Base XVI — Obtenção de licenças
+Base XVI
+
+Obtenção de licenças
 
 1 - Compete à Concessionária requerer, custear, obter e manter em vigor todas as licenças e autorizações necessárias ao exercício das actividades integradas na Concessão, observando todos os requisitos que a tal sejam necessários.
 
 2 - A Concessionária deverá informar, de imediato, o Concedente no caso de qualquer das licenças a que se refere o número anterior lhe serem retiradas, caducarem, serem revogadas ou por qualquer motivo deixarem de operar os seus efeitos, indicando, desde logo, que medidas tomou e ou irá tomar para repor tais licenças em vigor.
 
-###### Base XVII — Regime fiscal
+Base XVII
+
+Regime fiscal
 
 A Concessionária encontra-se sujeita à legislação fiscal em vigor, em cada momento, ao longo da Concessão.
 
-### CAPÍTULO VI — Financiamento
+CAPÍTULO VI
 
-###### Base XVIII — Responsabilidade do Concedente e da Concessionária
+Financiamento
+
+Base XVIII
+
+Responsabilidade do Concedente e da Concessionária
 
 1 - A Concessionária é a única e integral responsável pelo financiamento de todas as actividades que integram o objecto da Concessão de forma a cumprir cabal e pontualmente com as obrigações assumidas no âmbito das presentes bases, e bem assim com os pagamentos a efectuar ao Concedente, especificados em anexo ao Contrato de Concessão.
 
@@ -546,7 +627,9 @@ A Concessionária encontra-se sujeita à legislação fiscal em vigor, em cada m
 
 3 - Não são oponíveis ao Concedente quaisquer excepções ou meios de defesa que resultem das relações contratuais estabelecidas pela Concessionária no âmbito dos contratos referidos no número anterior.
 
-###### Base XIX — Refinanciamento da Concessão
+Base XIX
+
+Refinanciamento da Concessão
 
 1 - A Concessionária, em articulação com o Concedente, poderá proceder ao refinanciamento da Concessão, de forma a assegurar a obtenção de níveis de eficiência mais elevados e custos adequados aos riscos envolvidos.
 
@@ -578,17 +661,25 @@ A Concessionária encontra-se sujeita à legislação fiscal em vigor, em cada m
 
 15 - Ocorrendo uma operação de refinanciamento, o Caso Base será ajustado, de forma a contemplar os efeitos decorrentes dessa operação, incluindo os efeitos dos respectivos termos e condições, mantendo-se inalterados todos os restantes pressupostos e fórmulas de cálculo.
 
-### CAPÍTULO VII — Expropriações
+CAPÍTULO VII
 
-###### Base XX — Disposições aplicáveis
+Expropriações
+
+Base XX
+
+Disposições aplicáveis
 
 Às expropriações efectuadas por causa da Concessão são aplicáveis as disposições da legislação portuguesa em vigor.
 
-###### Base XXI — Declaração de utilidade pública com carácter de urgência
+Base XXI
+
+Declaração de utilidade pública com carácter de urgência
 
 São de utilidade pública, com carácter de urgência, todas as expropriações referidas no número anterior.
 
-###### Base XXII — Condução, controlo e custos dos processos expropriativos
+Base XXII
+
+Condução, controlo e custos dos processos expropriativos
 
 1 - A condução e realização dos processos expropriativos dos bens e direitos necessários à Concessão compete à Concessionária, como entidade expropriante em nome do Concedente, à qual compete também suportar todos os custos inerentes aos referidos processos expropriativos e, bem assim, o pagamento de indemnizações ou outras compensações decorrentes das expropriações ou da imposição de servidões ou outros ónus ou encargos que delas sejam consequência.
 
@@ -614,17 +705,25 @@ b) A apresentação ao Concedente, nos prazos previstos no Programa de Trabalhos
 
 10 - A autorização para alienação das áreas sobrantes, nas condições previstas no Código das Expropriações, é da competência do MOPTC, revertendo o valor obtido com a alienação para a Fazenda Nacional.
 
-### CAPÍTULO VIII — EP
+CAPÍTULO VIII
 
-###### Base XXIII — Funções da EP
+EP
+
+Base XXIII
+
+Funções da EP
 
 1 - Sem prejuízo dos poderes cometidos a outras entidades, sempre que no Contrato de Concessão se atribuam poderes ou se preveja o exercício de faculdades pelo Concedente, tais poderes e tal exercício poderão ser executados pela EP, a qual fica autorizada para tanto por força das presentes bases, salvo quando o contrário resultar do Contrato de Concessão ou de disposição imperativa da Lei.
 
 2 - Cabe ao EP designar os mandatários do Estado nos procedimentos de arbitragem que decorram no âmbito do disposto no Capítulo XXVI.
 
-### CAPÍTULO IX — Concepção, projecto e construção da Auto-Estrada
+CAPÍTULO IX
 
-###### Base XXIV — Concepção, projecto, construção e aumento do número de vias
+Concepção, projecto e construção da Auto-Estrada
+
+Base XXIV
+
+Concepção, projecto, construção e aumento do número de vias
 
 1 - A Concessionária é responsável pela concepção, projecto, construção e aumento do número de vias dos Lanços referidos nos n.os 1 e 2 da base II, e bem assim pelo aumento do número de vias do Lanço referido no n.º 3 da base II, respeitando os estudos e projectos aprovados nos termos das bases seguintes e o disposto nas presentes bases.
 
@@ -636,11 +735,13 @@ b) A apresentação ao Concedente, nos prazos previstos no Programa de Trabalhos
 
 5 - A totalidade da rede com perfil de auto-estrada deverá obrigatoriamente entrar em serviço no prazo máximo de 5 (cinco) anos a contar da data da assinatura do Contrato de Concessão.
 
-###### Base XXV — Programa de execução da Auto-Estrada
+Base XXV
+
+Programa de execução da Auto-Estrada
 
 1 - A construção dos Lanços de Auto-estrada referidos nos n.os 1 e 2 da base II obedecerá ao Programa de Trabalhos que constitui anexo ao Contrato de Concessão, no respeito pelas seguintes datas de início da construção e de entrada em serviço:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/24800/85758610.pdf))](https://files.diariodarepublica.pt/1s/2006/12/24800/85758610.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/24800/85758610.pdf)
 
 2 - As datas de entrada em serviço e bem assim as datas de início da construção de cada um dos Lanços referidos no número anterior constam do Programa de Trabalhos anexo ao Contrato de Concessão.
 
@@ -648,7 +749,9 @@ b) A apresentação ao Concedente, nos prazos previstos no Programa de Trabalhos
 
 4 - A Concessionária não poderá ser responsabilizada por atrasos causados por modificações unilateralmente impostas pelo Concedente ao Programa de Trabalhos ou por quaisquer outros atrasos que sejam imputáveis ao Concedente.
 
-###### Base XXVI — Disposições gerais relativas a estudos e projectos
+Base XXVI
+
+Disposições gerais relativas a estudos e projectos
 
 1 - À Concessionária compete promover, por sua conta e risco, a elaboração dos estudos e projectos relativos às obras abrangidas na Concessão, de acordo com as disposições das presentes base e sob fiscalização do MOPTC, exercida através da EP.
 
@@ -688,7 +791,9 @@ b) Ser elaborados, apresentados e aprovados por forma a permitir o cumprimento, 
 
 14 - Quando solicitadas e devidamente justificadas pela Concessionária, a EP poderá autorizar alterações à Proposta que correspondam a um aperfeiçoamento da mesma, sem desvirtuamento dos seus elementos fundamentais e sem decréscimo de utilidade, duração e solidez da obra.
 
-###### Base XXVII — Apresentação dos estudos e projectos
+Base XXVII
+
+Apresentação dos estudos e projectos
 
 1 - Caso haja lugar à elaboração de novos estudos prévios, os mesmos deverão ser apresentados à EP divididos nos seguintes fascículos independentes:
 
@@ -782,7 +887,9 @@ c) Peças desenhadas - formato DXF ou DWG.
 
 8 - Caso a Concessionária entenda usar aplicações ou formatos alternativos aos indicados no número anterior, deverá explicitá-los e dotar a fiscalização dos meios físicos e software necessários para a sua utilização.
 
-###### Base XXVIII — Critérios de projecto
+Base XXVIII
+
+Critérios de projecto
 
 1 - Na elaboração dos projectos da Auto-estrada devem respeitar-se as características técnicas definidas nas normas de projecto em vigor na EP, tendo em conta a velocidade base de 120 km/h, sem prejuízo do número seguinte.
 
@@ -822,7 +929,9 @@ g) Qualidade ambiental - deverão ser adoptadas soluções construtivas e dever�
 
 7 - Ao longo e através da Auto-estrada, incluindo as suas obras de arte especiais, serão estabelecidos, onde se julgue conveniente, os dispositivos necessários para que o futuro alojamento de cabos eléctricos, telefónicos e outros possa ser efectuado sem afectar as estruturas e sem necessidade de levantar o pavimento.
 
-###### Base XXIX — Aprovação dos estudos e projectos
+Base XXIX
+
+Aprovação dos estudos e projectos
 
 1 - Os estudos e projectos apresentados pela Concessionária nos termos das cláusulas anteriores consideram-se tacitamente aprovados no prazo de 60 dias a contar da respectiva apresentação, mediante proposta da EP, salvo nos casos em que a proposta de aprovação é antecedida por decisão ou parecer do Ministério com a tutela do Ambiente.
 
@@ -842,11 +951,15 @@ ii) Estudo geológico e geotécnico; traçado geral; nós de ligação; restabel
 
 iii) Cada um dos restantes fascículos.
 
-###### Base XXX — Corredor
+Base XXX
+
+Corredor
 
 Caso o Concedente venha a exigir um traçado para os Lanços ou Sublanços que não se localize, no todo ou em parte, no Corredor considerado na Proposta, poderá haver lugar à reposição do equilíbrio financeiro da Concessão nos termos da base LXXXIV ou à atribuição de compensação ao Concedente nos termos da base LXXXV.
 
-###### Base XXXI — Execução das obras
+Base XXXI
+
+Execução das obras
 
 1 - Compete à Concessionária elaborar e submeter à aprovação da EP, que se considerará tacitamente concedida se não for recusada no prazo de 30 (trinta) dias a contar da data da sua submissão, os cadernos de encargos ou as normas de construção, não podendo as obras ser iniciadas antes de estes documentos terem sido aprovados.
 
@@ -866,7 +979,9 @@ Caso o Concedente venha a exigir um traçado para os Lanços ou Sublanços que n
 
 9 - A Concessionária deverá promover a divulgação das obras integradas na Concessão.
 
-###### Base XXXII — Alterações nos projectos e nas obras realizadas
+Base XXXII
+
+Alterações nos projectos e nas obras realizadas
 
 1 - A Concessionária poderá, mediante autorização do MOPTC, introduzir alterações nos estudos e projectos, mesmos se já aprovados, nas obras realizadas, desde que disso não resulte nenhuma modificação fundamental à Concessão.
 
@@ -886,19 +1001,25 @@ Caso o Concedente venha a exigir um traçado para os Lanços ou Sublanços que n
 
 9 - A EP, enquanto entidade fiscalizadora, poderá intervir em qualquer momento do processo evolutivo da obra, desde a fase da sua concepção e projecto até à fase de exploração e conservação, ordenando a verificação quer de anomalias de execução, quer do incumprimento do que for exigido e estiver aprovado, e determinando, consequentemente, alterações e melhorias, nos prazos e condições que considerar mais convenientes.
 
-###### Base XXXIII — Património histórico e achados arqueológicos
+Base XXXIII
+
+Património histórico e achados arqueológicos
 
 1 - Qualquer património histórico ou arqueológico que seja descoberto no decurso das obras de construção da Auto-Estrada será pertença exclusiva do Estado, devendo a Concessionária notificá-lo imediatamente da sua descoberta e não podendo efectuar quaisquer trabalhos que o possam afectar ou pôr em perigo sem obter indicações do Concedente relativamente à sua forma de preservação.
 
 2 - A verificação da situação prevista no número anterior poderá conferir à Concessionária o direito à reposição do equilíbrio financeiro da Concessão, nos termos da base LXXXIV.
 
-###### Base XXXIV — Programa de Trabalhos
+Base XXXIV
+
+Programa de Trabalhos
 
 1 - Quaisquer alterações, propostas pela Concessionária, ao Programa de Trabalhos deverão ser notificadas à EP, acompanhadas da devida justificação, não podendo, sem prejuízo do disposto no n.º 4 da base XXV, envolver adiamento da data de entrada em serviço de cada um dos Lanços.
 
 2 - Sempre que o atraso no cumprimento do Programa de Trabalhos seja imputável ao Concedente, a Concessionária terá direito à reposição do equilíbrio financeiro da Concessão, nos termos da base LXXXIV, desde que ponha em causa a data de abertura do respectivo Lanço ao tráfego.
 
-###### Base XXXV — Plano de Recuperação de Atrasos
+Base XXXV
+
+Plano de Recuperação de Atrasos
 
 1 - Ocorrendo atraso no cumprimento do Programa de Trabalhos ou sendo-lhe feitas pela Concessionária alterações que possam por em risco as datas de entrada em serviço de cada lanço, o Concedente poderá notificar a Concessionária para apresentar, no prazo que razoavelmente lhe for fixado, um Plano de Recuperação dos Atrasos, contendo a indicação do reforço de meios para o efeito necessários, cujos custos correrão por conta da Concessionária, excepto se o atraso não lhe for imputável.
 
@@ -908,7 +1029,9 @@ Caso o Concedente venha a exigir um traçado para os Lanços ou Sublanços que n
 
 4 - Até à aprovação ou imposição de um Plano de Recuperação de Atrasos, a Concessionária deverá manter a execução dos trabalhos nos termos definidos no Programa de Trabalhos, ficando obrigada, após ser notificada daquela aprovação ou imposição, a cumprir o Plano de Recuperação de Atrasos e a observar as medidas dele constantes.
 
-###### Base XXXVI — Aumento de número de vias da Auto-Estrada
+Base XXXVI
+
+Aumento de número de vias da Auto-Estrada
 
 1 - A Concessionária encontra-se obrigada a aumentar o número de vias dos Lanços referidos nos n.os 1, 2 e 3 da base II (lanços com cobrança de portagem aos utentes), em obediência às seguintes regras:
 
@@ -922,7 +1045,9 @@ b) Nos Sublanços com seis vias, terá de entrar em serviço mais uma via em cad
 
 4 - Se, por razões de ordem técnica ou económica, for desaconselhável a aplicação da alínea b) do n.º 1 ao Lanço referido na alínea a) do n.º 1 da base II, poderá o Concedente, mediante proposta da Concessionária devidamente fundamentada, autorizar, por Decreto-Lei, que em substituição das quartas vias seja construída, no âmbito desta Concessão, uma nova auto-estrada com portagem, que constitua alternativa de escoamento de tráfego para aquele Lanço.
 
-###### Base XXXVII — Vias de Comunicação e Serviços Afectados
+Base XXXVII
+
+Vias de Comunicação e Serviços Afectados
 
 1 - Competirá à Concessionária suportar os custos e encargos relativos ao restabelecimento de quaisquer vias de comunicação existentes interrompidas pela construção da Auto-Estrada, construir as vias de ligação aos nós previstas nos projectos patenteados, bem como os relativos à reparação dos estragos que, justificadamente, se verifique terem sido causados em quaisquer vias de comunicação em consequência das obras a seu cargo.
 
@@ -936,13 +1061,17 @@ b) Nos Sublanços com seis vias, terá de entrar em serviço mais uma via em cad
 
 6 - A reposição, nos termos do número anterior, de bens e serviços danificados ou afectados pela construção da Auto-Estrada, será efectuada de acordo com as imposições das entidades que neles superintenderem, não podendo, contudo, ser exigido que a mesma se faça em condições substancialmente diferentes das previamente existentes.
 
-###### Base XXXVIII — Responsabilidade da Concessionária pela Qualidade da Auto-Estrada
+Base XXXVIII
+
+Responsabilidade da Concessionária pela Qualidade da Auto-Estrada
 
 1 - A Concessionária garante ao Concedente a qualidade da concepção, do projecto e da execução das obras de construção e conservação dos Lanços, responsabilizando-se pela sua durabilidade, em permanentes e plenas condições de funcionamento e operacionalidade, ao longo de todo o período da Concessão.
 
 2 - A Concessionária responderá, perante o Concedente e perante terceiros, nos termos gerais da lei, por quaisquer danos emergentes ou lucros cessantes resultantes de deficiências ou omissões na concepção, no projecto, na execução das obras de construção e na conservação da Auto-Estrada, devendo esta responsabilidade ser coberta por seguro, nos termos da base LXX.
 
-###### Base XXXIX — Entrada em serviço da Auto-Estrada construída
+Base XXXIX
+
+Entrada em serviço da Auto-Estrada construída
 
 1 - Imediatamente após a conclusão dos trabalhos indispensáveis à entrada em serviço de cada Sublanço de Auto-Estrada, proceder-se-á, a pedido da Concessionária remetido à EP com uma antecedência mínima de 15 (quinze) dias relativamente à data pretendida para o respectivo início, à sua vistoria, a efectuar-se conjuntamente por representantes da EP e da Concessionária.
 
@@ -960,7 +1089,9 @@ b) Nos Sublanços com seis vias, terá de entrar em serviço mais uma via em cad
 
 8 - No prazo máximo de um ano a contar das vistorias referidas na presente base, a Concessionária fornecerá à EP um exemplar das peças escritas e desenhadas definitivas do projecto das obras executadas, em material reprodutível e em suporte informático.
 
-###### Base XL — Demarcação dos terrenos e respectiva planta cadastral
+Base XL
+
+Demarcação dos terrenos e respectiva planta cadastral
 
 1 - A Concessionária procederá, à sua custa, contraditoriamente com os proprietários vizinhos e em presença de um representante da EP, que levantará o respectivo auto, à demarcação dos terrenos que façam parte integrante da Concessão, procedendo em seguida ao levantamento da respectiva planta, em fundo cadastral e a escala não inferior a 1:2000, que identifique os terrenos que fazem parte integrante do domínio público e do património autónomo.
 
@@ -976,9 +1107,13 @@ b) Nos Sublanços com seis vias, terá de entrar em serviço mais uma via em cad
 
 7 - Cabe à Concessionária a preservação da integridade dos imóveis que vierem a incorporar-se no património autónomo da EP, enquanto a posse de tais imóveis não for transferida à EP, sendo que esta transmissão se operará mediante notificação pela Concessionária à EP, acompanhada da planta cadastral correspondente.
 
-### CAPÍTULO X — Áreas de Serviço
+CAPÍTULO X
 
-###### Base XLI — Requisitos
+Áreas de Serviço
+
+Base XLI
+
+Requisitos
 
 1 - As Áreas de Serviço a estabelecer pela Concessionária ao longo da Auto-Estrada deverão dar inteira satisfação aos aspectos de segurança, higiene e salubridade, bem como à sua integração cuidada na paisagem em que se situam, quer através da volumetria e partido arquitectónico das construções, quer da vegetação utilizada, devendo obedecer à condição de proporcionarem aos utentes daquelas um serviço de qualidade, cómodo, seguro, rápido e eficiente.
 
@@ -992,7 +1127,9 @@ b) Nos Sublanços com seis vias, terá de entrar em serviço mais uma via em cad
 
 6 - Nos Lanços que integram o n.º 4 da base II o Concedente reserva-se o direito de instalar novas Áreas de Serviço, as quais, a par das já existentes nesses Lanços, não farão parte da Concessão.
 
-###### Base XLII — Construção e Exploração de Áreas de Serviço
+Base XLII
+
+Construção e Exploração de Áreas de Serviço
 
 1 - Com excepção dos Lanços que integram o n.º 4 da base II, a responsabilidade pela construção e exploração das Áreas de Serviço compete exclusivamente à Concessionária.
 
@@ -1008,7 +1145,9 @@ b) Nos Sublanços com seis vias, terá de entrar em serviço mais uma via em cad
 
 7 - O que ficou estabelecido nos n.os 4 a 6 deverá constar nos contratos relativos à exploração das Áreas de Serviço, ou de parte delas.
 
-###### Base XLIII — Extinção dos contratos respeitantes a Áreas de Serviço
+Base XLIII
+
+Extinção dos contratos respeitantes a Áreas de Serviço
 
 1 - Sem prejuízo do disposto nos n.os 2 e 3, no Termo da Concessão caducarão automaticamente, e em razão daquele termo, quaisquer contratos celebrados pela Concessionária com quaisquer terceiros relativos à exploração das Áreas de Serviço, ou de parte destas, sendo a Concessionária a única responsável pelas consequências legais e contratuais dessa caducidade, sem prejuízo do disposto nos números seguintes.
 
@@ -1018,9 +1157,13 @@ b) Nos Sublanços com seis vias, terá de entrar em serviço mais uma via em cad
 
 4 - Os contratos a que se refere o n.º 1 deverão conter cláusula que contenha a expressa anuência dos terceiros em causa à cessão da posição contratual prevista no n.º 2, aos efeitos que nesses contratos terá o resgate ou a rescisão da Concessão previstos no n.º 3 e, bem assim ao previsto no n.º 9, alínea d), da base LXXVI e o reconhecimento do efeito que, nesses contratos, terá o Termo da Concessão.
 
-### CAPÍTULO XI — Conservação e exploração da Auto-Estrada
+CAPÍTULO XI
 
-###### Base XLIV — Conservação da Auto-Estrada
+Conservação e exploração da Auto-Estrada
+
+Base XLIV
+
+Conservação da Auto-Estrada
 
 1 - A Concessionária obriga-se a manter, durante a vigência do Contrato de Concessão, e a expensas suas, a Auto-Estrada e os demais bens que constituem o objecto da Concessão em bom estado de funcionamento, utilização, conservação e segurança, nos termos e condições estabelecidos nas disposições aplicáveis do presente Contrato, realizando, nas devidas oportunidades, as reparações, renovações e adaptações que, de acordo com as mesmas disposições, para o efeito se tornem necessárias e bem assim todos os trabalhos e alterações necessários para que o empreendimento concessionado satisfaça cabal e permanentemente o fim a que se destina.
 
@@ -1032,7 +1175,9 @@ b) Nos Sublanços com seis vias, terá de entrar em serviço mais uma via em cad
 
 5 - A Concessionária deverá respeitar os padrões de qualidade, designadamente para a regularidade e aderência do pavimento, conservação da sinalização e do equipamento de segurança e apoio aos utentes, fixados no Manual de Operação e Manutenção e no Plano de Controlo de Qualidade.
 
-###### Base XLV — Transferência da Conservação e Exploração dos Lanços Existentes
+Base XLV
+
+Transferência da Conservação e Exploração dos Lanços Existentes
 
 1 - Os Lanços de Auto-estrada referidos nos n.os 3 e 4 da base II, bem como os equipamentos e instalações a eles afectos, transferem-se para a Concessionária às 24 (vinte e quatro) horas da data de assinatura do Contrato de Concessão.
 
@@ -1044,7 +1189,9 @@ b) Nos Sublanços com seis vias, terá de entrar em serviço mais uma via em cad
 
 5 - A Concessionária não será responsável pela reparação de quaisquer vícios ocultos que se verifiquem nos Lanços referidos no n.º 4 da base II, e informará prontamente o Concedente logo que qualquer de tais situações sejam detectadas.
 
-###### Base XLVI — Instalações de portagem
+Base XLVI
+
+Instalações de portagem
 
 1 - As instalações de portagem deverão integrar, designadamente, serviços de cobrança, serviços administrativos e instalações sociais para o pessoal, e ser dotadas, tal como os respectivos acessos, dos meios de segurança adequados.
 
@@ -1054,7 +1201,9 @@ b) Nos Sublanços com seis vias, terá de entrar em serviço mais uma via em cad
 
 4 - Competirá à Concessionária organizar o serviço de cobrança das portagens, com o acordo prévio da EP, por forma a que o mesmo seja efectuado com a maior eficiência e segurança e com o mínimo de incomodidade e perda de tempo para os utentes da Auto-Estrada.
 
-###### Base XLVII — Sistema de controlo e gestão de tráfego e respectiva localização
+Base XLVII
+
+Sistema de controlo e gestão de tráfego e respectiva localização
 
 1 - A Concessionária instalará um sistema de controlo e gestão de tráfego, o qual integrará um conjunto de subsistemas com capacidade de processamento de informação em tempo real que permita, entre outros objectivos, monitorizar, contar e classificar o tráfego, bem como informar o utente das condições de circulação rodoviária que irá encontrar na Concessão.
 
@@ -1118,11 +1267,13 @@ e) Outros parâmetros que se considerem necessários para alcançar a classifica
 
 17 - Até 6 meses antes do termo da concessão relativa aos Lanços do n.º 4 da base II, a Concessionária dotará a EP de todos os meios necessários à operação exclusiva do comando e controlo dos equipamentos do sistema de controlo e gestão de tráfego a instalar nesses Lanços, de modo a garantir a permanente continuidade do serviço prestado aos utentes.
 
-###### Base XLVIII — Classificação de Veículos
+Base XLVIII
+
+Classificação de Veículos
 
 1 - Os equipamentos de classificação e contagem descritos na XLVII deverão classificar os veículos nas seguintes classes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/24800/85758610.pdf))](https://files.diariodarepublica.pt/1s/2006/12/24800/85758610.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/24800/85758610.pdf)
 
 2 - Os limites de erro absoluto aceitáveis para os equipamentos referidos no número anterior serão os seguintes:
 
@@ -1136,7 +1287,7 @@ c) Erro na classificação entre as classes: (igual ou menor que) 8%.
 
 As seguintes classes de veículos, por ordem crescente do respectivo valor tarifário:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/24800/85758610.pdf))](https://files.diariodarepublica.pt/1s/2006/12/24800/85758610.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/24800/85758610.pdf)
 
 A relação entre o valor das tarifas de portagem das classes 2, 3 e 4 e a tarifa da classe 1 não poderá ser superior, respectivamente, a 1,75, a 2,25 e 2,5.
 
@@ -1144,7 +1295,9 @@ A relação entre o valor das tarifas de portagem das classes 2, 3 e 4 e a tarif
 
 5 - Os utilizadores dos veículos referidos no número anterior, quando pretenderem usufruir das condições aí estabelecidas, deverão, cumulativamente: i) ser aderentes a um serviço electrónico de cobrança; ii) fazer prova, perante a entidade gestora do respectivo sistema electrónico de cobrança e mediante apresentação de documento oficial emitido por essa entidade, do preenchimento dos requisitos exigidos no número anterior.
 
-###### Base XLIX — Operação e manutenção
+Base XLIX
+
+Operação e manutenção
 
 1 - Para cumprimento das obrigações assumidas em matéria de operação e manutenção da Concessão, a Concessionária celebrou com a Operadora o Contrato de Operação e Manutenção, cuja cópia constitui anexo ao Contrato de Concessão.
 
@@ -1206,7 +1359,9 @@ j) Telecomunicações.
 
 11 - O Manual de Operação e Manutenção e o Plano de Controlo de Qualidade apenas poderão ser alterados mediante autorização do Concedente, a qual se considera tacitamente concedida se não for recusada no prazo de 30 dias após ter sido solicitada.
 
-###### Base L — Encerramento e trabalhos nas vias
+Base L
+
+Encerramento e trabalhos nas vias
 
 1 - Sem prejuízo do disposto no n.º 3, e após a abertura ao tráfego do respectivo Sublanço, apenas será permitido o encerramento de vias, sem penalidades e para efeitos devidamente justificados, até ao limite de [17500 via x quilómetro x hora] por ano, das 10 até às 17 horas, e até ao limite de [25000 via x quilómetro x hora] por ano, durante o período das 21 às 7 horas, não sendo considerado encerramento, para efeitos de aplicação das penalidades previstas no número seguinte:
 
@@ -1224,7 +1379,9 @@ d) O encerramento de vias, em qualquer dos Lanços referidos no n.º 4 da base I
 
 4 - A Concessionária tem o dever de informar os utentes e o Concedente, com a devida antecedência, sobre a realização de obras que afectem as normais condições de circulação na Auto-Estrada, designadamente as que reduzam o número de vias em serviço ou as que obriguem a desvios de faixa de rodagem. A informação a que se refere este número deve ser prestada, pelo menos, através de sinalização colocada na rede viária servida pela Auto-Estrada, e, se o volume das obras em causa e o seu impacte na circulação assim o recomendar, através de anúncio publicado num jornal de circulação nacional, com a antecedência e o destaque julgados convenientes.
 
-###### Base LI — Controlo dos níveis de sinistralidade
+Base LI
+
+Controlo dos níveis de sinistralidade
 
 1 - A Concessionária deverá manter um contínuo controlo dos níveis de sinistralidade registados na Concessão, e promover a realização de auditorias anuais aos mesmos.
 
@@ -1254,7 +1411,7 @@ L = extensão total, em quilómetros, dos lanços em serviço;
 
 TMDA(índice t) = TMDA registado na Concessão no ano t;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/24800/85758610.pdf))](https://files.diariodarepublica.pt/1s/2006/12/24800/85758610.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/24800/85758610.pdf)
 
 IS(índice t - 1) (ponderado) + 60% x IS(índice t - 1) (Conc) + 40% x IS(índice t - 1) (CONPOR)
 
@@ -1312,7 +1469,9 @@ IS(índice t) (Conc) = índice de sinistralidade da Concessão para o ano t.
 
 15 - A aplicação das multas e ou penalizações previstas na presente base não prejudica a aplicabilidade de outras sanções contratuais, ou de outras sanções previstas em lei ou regulamento, nem isenta a Concessionária da responsabilidade civil, criminal e contra-ordenacional em que possa incorrer.
 
-###### Base LII — Manutenção e disciplina do tráfego
+Base LII
+
+Manutenção e disciplina do tráfego
 
 1 - A circulação pela Auto-estrada obedecerá ao determinado no Código da Estrada e demais disposições legais ou regulamentares aplicáveis.
 
@@ -1324,7 +1483,9 @@ IS(índice t) (Conc) = índice de sinistralidade da Concessão para o ano t.
 
 5 - Os direitos e obrigações dos utilizadores e os direitos e obrigações dos proprietários confinantes com a auto-estrada, em relação ao seu policiamento, serão as que constam do Estatuto das Estradas Nacionais e de outras disposições legais ou regulamentares aplicáveis.
 
-###### Base LIII — Assistência aos utentes
+Base LIII
+
+Assistência aos utentes
 
 1 - A Concessionária está obrigada a assegurar a assistência aos utentes da Auto-Estrada, nela se incluindo a vigilância das condições de circulação, nomeadamente no que respeita à sua fiscalização e à prevenção de acidentes.
 
@@ -1338,27 +1499,37 @@ IS(índice t) (Conc) = índice de sinistralidade da Concessão para o ano t.
 
 6 - A Concessionária está obrigada a construir, equipar e pôr em funcionamento, pelo menos um centro de assistência e manutenção, logo que o primeiro Sublanço a construir entre em serviço., sem prejuízo das obrigações de assistência e manutenção quanto aos Lanços referidos no n.º 4 da base II, a partir da data da assinatura do Contrato de Concessão.
 
-###### Base LIV — Reclamações dos utentes
+Base LIV
+
+Reclamações dos utentes
 
 1 - A Concessionária obriga-se a ter à disposição dos utentes da Auto-Estrada, nas Áreas de Serviço e nas instalações de cobrança de portagem, livros destinados ao registo de reclamações, os quais deverão ser visados periodicamente pela EP.
 
 2 - A Concessionária enviará trimestralmente à EP as reclamações registadas, acompanhadas das respostas dadas aos utentes, e dos resultados das investigações e demais providências que tenham sido tomadas.
 
-###### Base LV — Estatísticas do tráfego
+Base LV
+
+Estatísticas do tráfego
 
 1 - A Concessionária deverá organizar uma rigorosa estatística diária do tráfego na Auto-Estrada, nos termos das bases XLVII e XLVIII, incluindo a contagem de tráfego para as Áreas de Serviço, e neste caso classificado em veículos ligeiros e pesados, adoptando, para o efeito, formulário a estabelecer no Manual de Operação e Manutenção.
 
 2 - Os dados obtidos serão mantidos, sem quaisquer restrições, à disposição da EP, que terá livre acesso aos locais onde estejam instalados os sistemas de controlo.
 
-###### Base LVI — Participações às autoridades públicas
+Base LVI
+
+Participações às autoridades públicas
 
 1 - Por forma a defender a zona de estrada e a sua envolvente próxima, a Concessionária obriga-se a participar às autoridades públicas competentes quaisquer actos ou factos ilegais ou ilícitos de que tenha conhecimento, no âmbito das actividades objecto da Concessão.
 
 2 - A participação referida no número anterior deve conter uma descrição tão detalhada quanto possível dos actos ou factos identificados.
 
-### CAPÍTULO XII — Outros direitos do Concedente
+CAPÍTULO XII
 
-###### Base LVII — Contratação com terceiros
+Outros direitos do Concedente
+
+Base LVII
+
+Contratação com terceiros
 
 1 - A Concessionária é a única responsável, perante o Concedente, pelo desenvolvimento de todas as actividades concessionadas e pelo pontual e cabal cumprimento das obrigações assumidas no Contrato de Concessão, independentemente da contratação dessas actividades, no todo ou em parte, com terceiros e sem prejuízo das obrigações e responsabilidades directamente assumidas perante o Concedente pelas contrapartes nesses contratos.
 
@@ -1366,7 +1537,9 @@ IS(índice t) (Conc) = índice de sinistralidade da Concessão para o ano t.
 
 3 - Não são oponíveis ao Concedente quaisquer excepções ou meios de defesa que resultem das relações contratuais estabelecidas pela Concessionária com quaisquer terceiros, incluindo com os Bancos Financiadores e com os Accionistas.
 
-###### Base LVIII — Contratos do Projecto
+Base LVIII
+
+Contratos do Projecto
 
 1 - Carecem de autorização prévia do Concedente, sob pena de nulidade, a substituição, suspensão, modificação ou rescisão pela Concessionária dos Contratos do Projecto, bem como a celebração, pela Concessionária, de qualquer negócio jurídico que tenha por objecto as matérias reguladas pelos mesmos.
 
@@ -1380,7 +1553,9 @@ IS(índice t) (Conc) = índice de sinistralidade da Concessão para o ano t.
 
 6 - A Concessionária assegurará que os contratos e documentos a que se refere o n.º 1 contêm cláusula que exprima o assentimento das respectivas contrapartes ao regime jurídico descrito nos n.os 1 e 5.
 
-###### Base LIX — Outras autorizações do Concedente
+Base LIX
+
+Outras autorizações do Concedente
 
 1 - Carecem de autorização prévia do Concedente, sob pena de nulidade, a suspensão, substituição, modificação ou cancelamento dos seguintes documentos:
 
@@ -1396,9 +1571,13 @@ d) Apólices de seguro referidas na base LXX, com excepção do respectivo cance
 
 3 - A Concessionária assegurará que os contratos e documentos a que se refere o n.º 1 contêm cláusula que exprima o assentimento das respectivas contrapartes ou emitentes ao regime jurídico descrito nos n.os 1 e 2.
 
-### CAPÍTULO XIII — Autorizações e aprovações do Concedente
+CAPÍTULO XIII
 
-###### Base LX — Autorizações e aprovações do Concedente
+Autorizações e aprovações do Concedente
+
+Base LX
+
+Autorizações e aprovações do Concedente
 
 1 - A aprovação ou, desde que devidamente fundamentada, a não aprovação dos estudos e projectos e a emissão ou recusa de emissão de autorizações ou aprovações, pelo Concedente, não acarreta qualquer responsabilidade para o Concedente nem exonera a Concessionária do cumprimento pontual das obrigações assumidas no Contrato de Concessão ou da responsabilidade que porventura lhe advenha das concepções previstas ou da execução das obras, excepto em caso de modificações unilateralmente impostas pelo Concedente, relativamente às quais a Concessionária tenha manifestado, por escrito, reservas referentes à segurança, qualidade ou durabilidade das mesmas e a responsabilidade concreta que for invocada pelo Concedente ou por terceiro lesado ou o vício de que as obras venham a padecer decorram directamente de factos incluídos em tais reservas.
 
@@ -1406,9 +1585,13 @@ d) Apólices de seguro referidas na base LXX, com excepção do respectivo cance
 
 3 - A falta de autorização ou aprovação do Concedente, quando esta for, nos termos do Contrato de Concessão, necessária, fere de nulidade os contratos e os demais actos a elas sujeitos.
 
-### CAPÍTULO XIV — Instalações de terceiros
+CAPÍTULO XIV
 
-###### Base LXI — Regime das instalações de terceiros
+Instalações de terceiros
+
+Base LXI
+
+Regime das instalações de terceiros
 
 1 - Quando, ao longo do período da Concessão, se venha a mostrar necessária a passagem pela Auto-Estrada de quaisquer instalações ou redes de serviço público não previstas anteriormente, a Concessionária terá de permitir a sua instalação e manutenção, as quais deverão, porém, ser levadas a cabo de forma a causar a menor perturbação possível à circulação da Auto-Estrada.
 
@@ -1418,13 +1601,19 @@ d) Apólices de seguro referidas na base LXX, com excepção do respectivo cance
 
 4 - A Concessionária não poderá cobrar qualquer taxa de utilização às entidades responsáveis pela gestão dos serviços instalados.
 
-### CAPÍTULO XV — Receitas da concessionária
+CAPÍTULO XV
 
-###### Base LXII — Limitação das Receitas
+Receitas da concessionária
+
+Base LXII
+
+Limitação das Receitas
 
 A Concessionária apenas tem direito de receber dos utentes da Auto-Estrada as importâncias das portagens nesta cobradas, os rendimentos da exploração das áreas de serviço e bem assim quaisquer outros rendimentos obtidos no âmbito da Concessão.
 
-###### Base LXIII — Tarifas e taxas de portagem
+Base LXIII
+
+Tarifas e taxas de portagem
 
 1 - Para efeito da aplicação das tarifas de portagem, as classes de veículos são, por ordem crescente do respectivo valor tarifário, as mencionadas no quadro do n.º 3 da base XLVIII.
 
@@ -1452,7 +1641,9 @@ c) Praça de portagem localizada no Sublanço CREL - Idanha: Soma das taxas corr
 
 10 - A Concessionária poderá designadamente, mediante prévia autorização do MOPTC, aplicar processos ou instrumentos de gestão que, respeitando os princípios e objectivos do presente contrato entenda que melhor satisfazem as necessidades de natureza administrativa ou económico-financeira dos utentes e da própria Concessionária.
 
-###### Base LXIV — Actualização das Tarifas de Portagem
+Base LXIV
+
+Actualização das Tarifas de Portagem
 
 1 - As tarifas de portagem poderão ser actualizadas anualmente, no 1.º mês de cada ano civil, tendo em atenção a evolução do IPC, de acordo com a expressão seguinte:
 
@@ -1484,7 +1675,9 @@ IPC(p - n) = valor do IPC relativo ao mês (p - n).
 
 7 - As taxas de portagem a aplicar em cada momento deverão ser devidamente publicitadas, a expensas da Concessionária.
 
-###### Base LXV — Não Pagamento das Portagens
+Base LXV
+
+Não Pagamento das Portagens
 
 1 - O não pagamento ou pagamento viciado de taxas de portagens devidas nos lanços de auto-estradas e pontes que integram a concessão constitui contra-ordenação prevista e punível nos termos da Lei n.º 25/2006, de 30 de Junho, observando-se aquele regime legal em tudo o que não estiver expressamente regulado na presente base.
 
@@ -1506,7 +1699,9 @@ IPC(p - n) = valor do IPC relativo ao mês (p - n).
 
 10 - A Concessionária deve proceder à entrega trimestral nos cofres do Tesouro dos quantitativos que, das coimas cobradas, constituem receita do Estado e à EP - Estradas de Portugal, E. P. E., mediante transferência para conta deste organismo, dos quantitativos que, das coimas cobradas, constituem sua receita.
 
-###### Base LXVI — Isenções de Portagens
+Base LXVI
+
+Isenções de Portagens
 
 1 - Estão isentos de portagem:
 
@@ -1544,9 +1739,13 @@ f) Veículos afectos à EP e à IGF no âmbito das suas funções de fiscalizaç
 
 4 - A Concessionária não poderá conceder isenções de portagem para além dos casos estabelecidos no n.º 1, a não ser por motivos inerentes ao serviço próprio da Auto-Estrada e mediante autorização prévia da EP.
 
-### CAPÍTULO XVI — Modificações subjectivas na Concessão
+CAPÍTULO XVI
 
-###### Base LXVII — Cedência, alienação e oneração
+Modificações subjectivas na Concessão
+
+Base LXVII
+
+Cedência, alienação e oneração
 
 1 - Sem prejuízo do disposto em contrário nas presentes bases, é interdito à Concessionária ceder, alienar ou por qualquer modo onerar, no todo ou em parte, a Concessão ou realizar qualquer negócio jurídico que vise atingir ou tenha por efeito, mesmo que indirecto, idênticos resultados.
 
@@ -1558,7 +1757,9 @@ f) Veículos afectos à EP e à IGF no âmbito das suas funções de fiscalizaç
 
 5 - Os actos praticados em violação do disposto nos números anteriores são nulos, sem prejuízo de outras sanções aplicáveis.
 
-###### Base LXVIII — Contrato de Subconcessão
+Base LXVIII
+
+Contrato de Subconcessão
 
 1 - A Concessionária desde já aceita e autoriza, sem quaisquer reservas, que o Concedente proceda à transformação do Contrato de Concessão num contrato de subconcessão com terceiro, sociedade cujo capital seja detido na totalidade pelo Concedente ou entidade pública empresarial, que nele ocupará a posição de concedente, transferindo para esta a totalidade dos direitos e deveres consagrados no Contrato de Concessão, sem qualquer alteração.
 
@@ -1574,9 +1775,13 @@ f) Veículos afectos à EP e à IGF no âmbito das suas funções de fiscalizaç
 
 7 - Todos os contratos celebrados pela Concessionária com quaisquer terceiros deverão conter cláusula que contenha a expressa anuência destes, sem reservas de qualquer natureza, à transformação operada nos termos do n.º 1 e à correspondente transferência dos direitos e deveres consignados no presente Contrato bem como à ausência de produção de quaisquer efeitos delas decorrentes no cumprimento pontual desses contratos e na sua manutenção em vigor, nos termos previamente acordados.
 
-### CAPÍTULO XVII — Garantias do cumprimento das obrigações da Concessionária
+CAPÍTULO XVII
 
-###### Base LXIX — Garantias a prestar
+Garantias do cumprimento das obrigações da Concessionária
+
+Base LXIX
+
+Garantias a prestar
 
 1 - O exacto e pontual cumprimento das obrigações assumidas pela Concessionária no presente Contrato de Concessão será garantido, cumulativamente, através de:
 
@@ -1620,7 +1825,9 @@ b) Garantia bancária, emitida por instituição de crédito em benefício do Co
 
 10 - A caução poderá ser levantada pela Concessionária nos termos previstos no Contrato de Concessão.
 
-###### Base LXX — Cobertura por seguros
+Base LXX
+
+Cobertura por seguros
 
 1 - A Concessionária deverá assegurar a existência, e manutenção em vigor, das apólices de seguro necessárias para garantir uma efectiva e compreensiva cobertura dos riscos inerentes ao desenvolvimento das actividades integradas na Concessão, emitidas por seguradoras aceitáveis pelo Concedente de acordo com critérios de razoabilidade.
 
@@ -1638,9 +1845,13 @@ b) Garantia bancária, emitida por instituição de crédito em benefício do Co
 
 8 - As condições constantes dos n.os 6 e 7 deverão constar das apólices emitidas nos termos desta base.
 
-### CAPÍTULO XVIII — Fiscalização do cumprimento das obrigações da Concessionária
+CAPÍTULO XVIII
 
-###### Base LXXI — Fiscalização pelo Concedente
+Fiscalização do cumprimento das obrigações da Concessionária
+
+Base LXXI
+
+Fiscalização pelo Concedente
 
 1 - Os poderes de fiscalização do cumprimento das obrigações da Concessionária, emergentes do Contrato de Concessão, serão exercidos pelo MEF para os aspectos económicos e financeiros e pelo MOPTC para os demais.
 
@@ -1660,7 +1871,9 @@ b) Garantia bancária, emitida por instituição de crédito em benefício do Co
 
 9 - O Concedente poderá recorrer à caução para pagamento dos custos incorridos em aplicação do disposto no número anterior, sem prejuízo do posterior recurso, pela Concessionária, à arbitragem.
 
-###### Base LXXII — Controlo da construção da Auto-Estrada
+Base LXXII
+
+Controlo da construção da Auto-Estrada
 
 1 - A Concessionária obriga-se a apresentar, semestralmente, à EP, um relatório geral de progresso, traçado sobre o Programa de Trabalhos.
 
@@ -1670,21 +1883,31 @@ b) Garantia bancária, emitida por instituição de crédito em benefício do Co
 
 4 - A Concessionária fica obrigada a fornecer, em complemento dos documentos referidos, todos os esclarecimentos e informações adicionais que a EP lhe solicitar.
 
-### CAPÍTULO XIX — Responsabilidade extra-contratual perante terceiros
+CAPÍTULO XIX
 
-###### Base LXXIII — Responsabilidade geral pela culpa e pelo risco
+Responsabilidade extra-contratual perante terceiros
+
+Base LXXIII
+
+Responsabilidade geral pela culpa e pelo risco
 
 A Concessionária responderá, nos termos da lei geral, por quaisquer prejuízos causados a terceiros no exercício das actividades que constituem o objecto da Concessão, pela culpa ou pelo risco, não sendo assumido pelo Concedente qualquer tipo de responsabilidade neste âmbito.
 
-###### Base LXXIV — Responsabilidade por prejuízos causados por entidades contratadas
+Base LXXIV
+
+Responsabilidade por prejuízos causados por entidades contratadas
 
 1 - A Concessionária responderá ainda, nos termos em que o comitente responde pelos actos do comissário, pelos prejuízos causados pelos terceiros por si contratados para o desenvolvimento das actividades compreendidas na Concessão.
 
 2 - Constituirá especial dever da Concessionária prover e exigir a qualquer terceiro com quem venha a contratar que promova as medidas necessárias para salvaguarda da integridade física do público e do pessoal afecto à Concessão, devendo ainda cumprir e zelar pelo cumprimento dos regulamentos de higiene e segurança em vigor a cada momento.
 
-### CAPÍTULO XX — Incumprimento, cumprimento defeituoso do contrato e força maior
+CAPÍTULO XX
 
-###### Base LXXV — Incumprimento e cumprimento defeituoso
+Incumprimento, cumprimento defeituoso do contrato e força maior
+
+Base LXXV
+
+Incumprimento e cumprimento defeituoso
 
 1 - Sem prejuízo da possibilidade de sequestro ou rescisão da Concessão, nos casos e nos termos previstos no Contrato de Concessão e na lei, o incumprimento, pela Concessionária, de quaisquer deveres ou obrigações emergentes do Contrato de Concessão, ou das determinações do Concedente emitidas no âmbito da lei ou deste contrato, poderá ser sancionada, por decisão exclusiva do Concedente, pela aplicação de multas contratuais, cujo montante variará, em função da gravidade da falta, entre (euro) 10000 e (euro) 150000 por dia.
 
@@ -1712,7 +1935,9 @@ d) Até (euro) 62500, decorridos seis meses, a partir do 61.º (sexagésimo prim
 
 9 - A aplicação das multas previstas nesta base não prejudica a aplicabilidade de outras sanções contratuais, designadamente as previstas nos n.os 4 e 5 da base LI, nem de outras sanções previstas em lei ou regulamento, nem isenta a Concessionária da responsabilidade civil, criminal e contra-ordenacional em que incorrer perante o Concedente ou terceiro.
 
-###### Base LXXVI — Força maior
+Base LXXVI
+
+Força maior
 
 1 - Consideram-se, unicamente, casos de força maior os acontecimentos, imprevisíveis e irresistíveis, cujos efeitos se produzam independentemente da vontade ou das circunstâncias pessoais da Concessionária e que comprovadamente impeçam o cumprimento das suas obrigações contratuais.
 
@@ -1756,9 +1981,13 @@ f) Ficará a Concessionária responsável pelos efeitos da cessação de quaisqu
 
 11 - Constitui estrita obrigação da Concessionária a mitigação, por qualquer meio razoável e apropriado ao seu dispor, dos efeitos da verificação de um caso de força maior.
 
-### CAPÍTULO XXI — Extinção e suspensão da Concessão
+CAPÍTULO XXI
 
-###### Base LXXVII — Resgate
+Extinção e suspensão da Concessão
+
+Base LXXVII
+
+Resgate
 
 1 - Nos últimos 5 (cinco) anos de vigência da Concessão, poderá o Concedente, sempre que o interesse público o justifique, proceder ao resgate da Concessão a todo o tempo, mas nunca antes de decorrido um ano após a notificação à Concessionária da intenção de resgate.
 
@@ -1774,7 +2003,9 @@ f) Ficará a Concessionária responsável pelos efeitos da cessação de quaisqu
 
 7 - Com o resgate, serão libertadas a caução e as demais garantias referidas na base LXIX e que ao tempo ainda estejam em vigor, respectivamente no prazo de um ano a contar da data do resgate e na data em que se operar o resgate.
 
-###### Base LXXVIII — Sequestro
+Base LXXVIII
+
+Sequestro
 
 1 - Em caso de incumprimento grave, pela Concessionária, das obrigações emergentes do Contrato de Concessão, o Concedente poderá, mediante sequestro, tomar a seu cargo a realização de obras e o desenvolvimento das actividades integradas na Concessão, ou a exploração dos serviços desta, designadamente passando a cobrar e a receber o valor das taxas de portagem.
 
@@ -1800,7 +2031,9 @@ c) Atrasos na construção da Auto-Estrada que ponham em risco o cumprimento dos
 
 9 - A Concessionária poderá optar pela rescisão da Concessão caso o sequestro se mantenha por seis meses após ter sido restabelecido o normal funcionamento da Concessão, sendo então aplicável o disposto no n.º 11 da base LXXIX.
 
-###### Base LXXIX — Rescisão
+Base LXXIX
+
+Rescisão
 
 1 - O Concedente, sob proposta do MOPTC e ouvidas a EP e a IGF, poderá por fim à Concessão através de rescisão do Contrato de Concessão, em casos de violação grave, não sanada ou não sanável, das obrigações da Concessionária decorrentes do Contrato de Concessão.
 
@@ -1844,11 +2077,15 @@ j) Qualquer actividade fraudulenta destinada a lesar o interesse público.
 
 11 - Ocorrendo rescisão do Contrato de Concessão pela Concessionária por motivo imputável ao Concedente, este deverá indemnizar a Concessionária nos termos gerais de direito e será responsável pela assunção de todas as obrigações da Concessionária emergentes dos Contratos de Financiamento, com excepção das relativas a incumprimentos verificados antes da ocorrência do motivo da rescisão.
 
-###### Base LXXX — Caducidade
+Base LXXX
+
+Caducidade
 
 O Contrato de Concessão caduca quando se verificar o fim do prazo da Concessão, extinguindo-se as relações contratuais existentes entre as Partes, sem prejuízo das disposições que, pela sua natureza ou pela sua letra, se destinem a perdurar para além daquela data.
 
-###### Base LXXXI — Regime dominial e entrada na posse do Estado da Auto-Estrada que constitui o objecto da Concessão
+Base LXXXI
+
+Regime dominial e entrada na posse do Estado da Auto-Estrada que constitui o objecto da Concessão
 
 1 - A Auto-Estrada e os conjuntos viários a ela associados que constituem o empreendimento concessionado integram o domínio público rodoviário do Concedente.
 
@@ -1858,7 +2095,7 @@ O Contrato de Concessão caduca quando se verificar o fim do prazo da Concessão
 
 4 - No termo da Concessão cessam para a Concessionária todos os direitos relativos aos Lanços identificados nas base II, sendo entregues ao Concedente todos os bens que integram os Lanços referidos nos n.os 1 a 3 da referida base em estado que satisfaça as seguintes condições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/24800/85758610.pdf))](https://files.diariodarepublica.pt/1s/2006/12/24800/85758610.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/24800/85758610.pdf)
 
 Todos os bens não contemplados no quadro anterior deverão ser entregues em estado que garanta 50% da vida útil de cada um dos seus componentes.
 
@@ -1868,9 +2105,13 @@ Todos os bens não contemplados no quadro anterior deverão ser entregues em est
 
 7 - Previamente ao Termo da Concessão, o Concedente procederá a vistorias dos bens referidos na base V, na qual participarão representantes das Partes, destinadas à verificação do estado de conservação e manutenção daqueles bens, devendo ser lavrado o respectivo auto.
 
-### CAPÍTULO XXII — Condição financeira da Concessionária
+CAPÍTULO XXII
 
-###### Base LXXXII — Assunção de riscos
+Condição financeira da Concessionária
+
+Base LXXXII
+
+Assunção de riscos
 
 1 - A Concessionária assume, expressa, integral e exclusivamente, a responsabilidade por todos os riscos inerentes à Concessão, excepto nos casos especificamente previstos no Contrato de Concessão.
 
@@ -1880,13 +2121,17 @@ Todos os bens não contemplados no quadro anterior deverão ser entregues em est
 
 4 - A entrada em serviço de Vias Rodoviárias Concorrentes poderá conferir à Concessionária o direito à reposição do equilíbrio financeiro, nos termos da base LXXXIV.
 
-###### Base LXXXIII — Caso Base
+Base LXXXIII
+
+Caso Base
 
 1 - As Partes acordam que o Caso Base representa a equação financeira com base na qual será efectuada a reposição do equilíbrio financeiro da Concessão, nos termos estabelecidos na base LXXXIV.
 
 2 - O Caso Base apenas poderá ser alterado quando haja lugar, nos termos da base LXXXIV, à reposição do equilíbrio financeiro da Concessão, e exclusivamente para reflectir a reposição efectuada, bem como os ajustamentos decorrentes de operações de refinanciamento previstas na base XIX.
 
-###### Base LXXXIV — Reposição do equilíbrio financeiro
+Base LXXXIV
+
+Reposição do equilíbrio financeiro
 
 1 - A Concessionária terá direito à reposição do equilíbrio financeiro da Concessão, nos termos do disposto nesta base, nos seguintes casos:
 
@@ -1952,7 +2197,9 @@ e) Decorridos 180 (cento e oitenta) dias sobre a solicitação de início de neg
 
 12 - Cada uma das Partes é responsável pelos custos em que incorre com o processo relativo à reposição do equilíbrio financeiro.
 
-###### Base LXXXV — Compensações ao Concedente
+Base LXXXV
+
+Compensações ao Concedente
 
 1 - Quando ocorra melhoria significativa das condições financeiras de desenvolvimento da Concessão, traduzida em diminuição substancial de custos ou em aumento substancial de receitas, exclusivamente resultante de:
 
@@ -1970,45 +2217,65 @@ Os decorrentes benefícios serão atribuídos em partes iguais ao Concedente e �
 
 4 - Cada uma das Partes é responsável pelos custos em que incorre com o processo previsto nesta base.
 
-### CAPÍTULO XXIII — Direitos de propriedade industrial e intelectual
+CAPÍTULO XXIII
 
-###### Base LXXXVI — Direitos de Propriedade Industrial e Intelectual
+Direitos de propriedade industrial e intelectual
+
+Base LXXXVI
+
+Direitos de Propriedade Industrial e Intelectual
 
 1 - A Concessionária fornecerá, gratuitamente, ao Concedente todos os projectos, planos, plantas, documentos e outros materiais, de qualquer natureza, que se revelem necessários ou úteis ao desempenho das funções que a este incumbem nos termos do Contrato de Concessão, ou ao exercício dos direitos que lhe assistem nos termos do mesmo, e que tenham sido adquiridos ou criados no desenvolvimento das actividades integradas na Concessão, seja directamente pela Concessionária, seja pelos terceiros que para o efeito subcontratar.
 
 2 - Os direitos de propriedade intelectual relativos aos estudos e projectos elaborados para os fins específicos das actividades integradas na Concessão e bem assim os projectos, planos, plantas, documentos e outros materiais referidos no número anterior, serão transmitidos gratuitamente ao Concedente, e em regime de exclusividade, no Termo da Concessão, competindo à Concessionária adoptar todas as medidas para o efeito necessárias.
 
-### CAPÍTULO XXIV — Vigência da Concessão
+CAPÍTULO XXIV
 
-###### Base LXXXVII — Entrada em vigor
+Vigência da Concessão
+
+Base LXXXVII
+
+Entrada em vigor
 
 O Contrato de Concessão entrará em vigor às 24 (vinte e quatro) horas do dia da sua assinatura, contando-se a partir dessa data o prazo de vigência da Concessão.
 
-### CAPÍTULO XXV — Disposições diversas
+CAPÍTULO XXV
 
-###### Base LXXXVIII — Taxa de Gestão do Contrato
+Disposições diversas
+
+Base LXXXVIII
+
+Taxa de Gestão do Contrato
 
 1 - A Concessionária terá de pagar anualmente à EP uma taxa de gestão do Contrato, para suporte das despesas da EP com o acompanhamento, gestão e fiscalização da Concessão, calculada de acordo com a expressão seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/24800/85758610.pdf))](https://files.diariodarepublica.pt/1s/2006/12/24800/85758610.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/24800/85758610.pdf)
 
 2 - A taxa de gestão referida no número anterior deverá ser paga pela Concessionária até ao dia 31 de Janeiro do ano seguinte a que se refere, utilizando o TMDA real verificado no ano a que se reporta.
 
-###### Base LXXXIX — Exercício de Direitos
+Base LXXXIX
+
+Exercício de Direitos
 
 Sem prejuízo do disposto no Capítulo XXVI, o não exercício ou o exercício tardio ou parcial de qualquer direito que assista a qualquer das Partes ao abrigo do Contrato de Concessão não importa a renúncia a esse direito nem impede o seu exercício posterior, nem constitui moratória ou novação da respectiva obrigação.
 
-###### Base XC — Relatório Anual
+Base XC
+
+Relatório Anual
 
 1 - A Concessionária, no primeiro trimestre de cada ano, apresentará ao MEF e ao MOPTC um relatório, respeitante ao ano anterior, no qual será prestada informação circunstanciada sobre os estudos e trabalhos de construção, conservação e exploração da Auto-Estrada, de que conste pormenorizado esclarecimento sobre a evolução das condições financeiras da Concessão, e que inclua auditoria aos níveis de sinistralidade registados na Concessão, efectuada por uma entidade idónea e independente, cobrindo aspectos como pontos de acumulação de acidentes, identificação das causas dos acidentes, comparação com as congéneres nacionais e internacionais.
 
 2 - O MEF e o MOPTC reservam-se o direito de solicitar todas as informações adicionais que julgarem necessárias para seu completo esclarecimento junto da Concessionária.
 
-###### Base XCI — Acordo Completo
+Base XCI
+
+Acordo Completo
 
 O Contrato de Concessão, incluindo os contratos e documentos que constam dos seus Anexos e respectivos apêndices, constituem a totalidade dos acordos que regulam a Concessão e a actividade da Concessionária, incluindo o seu financiamento.
 
-###### Base XCII — Comunicações, autorizações e aprovações
+Base XCII
+
+Comunicações, autorizações e aprovações
 
 1 - As comunicações, notificações, autorizações e aprovações previstas no Contrato de Concessão serão sempre efectuadas por escrito e remetidas:
 
@@ -2050,19 +2317,27 @@ a) No dia seguinte àquele em que forem transmitidas em mão ou por telefax, se 
 
 b) Três dias úteis depois de remetidas pelo correio, mas nunca antes de se verificar a assinatura do aviso de recepção.
 
-###### Base XCIII — Prazos e sua contagem
+Base XCIII
+
+Prazos e sua contagem
 
 Os prazos fixados no Contrato de Concessão contar-se-ão em dias ou meses seguidos de calendário, salvo se contiverem a indicação de dias úteis, caso em que apenas se contarão os dias em que os serviços da Administração Pública se encontrarem abertos ao público em Lisboa.
 
-###### Base XCIV — Custos e encargos da Concessionária
+Base XCIV
+
+Custos e encargos da Concessionária
 
 A Concessionária pagará à EP, na data da assinatura do Contrato de Concessão, os encargos suportados na preparação, lançamento e conclusão do concurso, que ascendem a (euro) 750000 (setecentos e cinquenta mil Euros),valor não sujeito a IVA.
 
-###### Base XCV — Invalidade parcial
+Base XCV
+
+Invalidade parcial
 
 Se alguma das disposições do Contrato de Concessão vier a ser considerada inválida ou nula, tal não afectará a validade do restante clausulado do mesmo, o qual se manterá plenamente em vigor, comprometendo-se as Partes a acordar, de boa fé, uma disposição que substitua a disposição declarada inválida ou nula e que, tanto quanto possível, produza os mesmos efeitos.
 
-###### Base XCVI — Deveres gerais das partes
+Base XCVI
+
+Deveres gerais das partes
 
 1 - As Partes comprometem-se reciprocamente a cooperar e a prestar o auxílio que razoavelmente lhes possa ser exigido com vista ao bom desenvolvimento das actividades integradas na Concessão.
 
@@ -2072,9 +2347,13 @@ Se alguma das disposições do Contrato de Concessão vier a ser considerada inv
 
 4 - Todas as decisões, autorizações, aprovações, pedidos ou demais actos do Concedente praticados ao abrigo do Contrato de Concessão deverão ser devidamente fundamentados, bem como deverão os actos de execução do Contrato de Concessão, a cargo de qualquer das Partes, assentar em critérios de razoabilidade.
 
-### CAPÍTULO XXVI — Resolução de diferendos
+CAPÍTULO XXVI
 
-###### Base XCVII — Processo de arbitragem
+Resolução de diferendos
+
+Base XCVII
+
+Processo de arbitragem
 
 1 - Os eventuais conflitos que possam surgir entre as Partes em matéria de validade, interpretação, aplicação ou integração das regras por que se rege a Concessão serão resolvidos por arbitragem.
 
@@ -2082,7 +2361,9 @@ Se alguma das disposições do Contrato de Concessão vier a ser considerada inv
 
 3 - O disposto no número anterior relativamente ao cumprimento das determinações do Concedente pela Concessionária aplicar-se-á também a determinações subsequentes sobre a mesma matéria, mesmo que emitidas após a data de submissão de uma questão a arbitragem, desde que a determinação originária tenha sido comunicada à Concessionária anteriormente àquela data.
 
-###### Base XCVIII — Tribunal Arbitral
+Base XCVIII
+
+Tribunal Arbitral
 
 1 - O Tribunal Arbitral será composto por três membros, um nomeado por cada Parte e o terceiro escolhido de comum acordo pelos árbitros que as Partes tiverem designado.
 

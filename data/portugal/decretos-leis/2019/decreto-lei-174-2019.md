@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/12/24000/0000800011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/174/2019/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2019-127176910
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e3c16e516c82c49335a60a0bd52a0cc5035f842f82390cb36ee72f534d4d84d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa0e9b0230cd42f2cc6edf6457ccbf6cb0a261b2f786010f42cc9124ec8cf196
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
 - Almada
-- Reestruturação de Serviços
-- Jurisdição
+- ÁREA de Jurisdição
 - Aveiro
 - Braga
 - Competência Jurisdicional
 - Conselho Superior dos Tribunais Administrativos e Fiscais
 - Criação de Serviços
-- Lisboa
-- ÁREA de Jurisdição
+- Jurisdição
 - Leiria
+- Lisboa
 - Magistrado Judicial
-- Penafiel
 - Organização Judiciária
+- Penafiel
+- Porto
+- Recurso
+- Reestruturação de Serviços
 - Sintra
 - Tribunal Administrativo
 - Tribunal Administrativo de Círculo
 - Tribunal Administrativo e Fiscal
 - Tribunal de Competência Especializada
 - Tribunal Judicial
-- Porto
 - Tribunal Tributário
 relationships:
 - type: cites
@@ -98,16 +98,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/2002/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/2002/02/19/p/dre
+- type: cites
+  target: pt:dre:124642985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:49Z'
   warnings: []
   errors: []
 ---
@@ -266,12 +274,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de novembro de 2019. - António Luís Santos da Costa - Anabela Damásio Caetano Pedroso.
 
-**Promulgado em 7 de dezembro de 2019.**
+Promulgado em 7 de dezembro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de dezembro de 2019.**
+Referendado em 10 de dezembro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112839995

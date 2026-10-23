@@ -46,40 +46,131 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1983-450863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 637df037fd957526563aaf2303a621f09542266a987d1f417305d80ced4d4165
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7396682e77cc8eedf9023428cd303395e8f22451542287a7353e0ca088807e96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Lisboa
+- Quadro de Pessoal
+- Santa Casa da Misericórdia
 relationships:
 - type: amended_by
   target: pt:dre:354748:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:495733:por
+  label: "Alterado o quadro de pessoal da Santa Casa da Misericórdia aprovado pelo presente diploma, pelA PORT.803/87.21.09.1987.MF,\
+    \ DR.IS [217] de 21.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/803-1987-495733
+  date: '1987-09-21'
+- type: amended_by
+  target: pt:dre:499005:por
+  label: "Alterado o quadro de pessoal não dirigente pela PORT.894/87.24.11.1987.MF, DR.IS [271] de 24.11.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/894-1987-499005
+  date: '1987-11-24'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL NAO DIRIGENTE, PELA PORTARIA 674/88, PUBLICADA NO DR.IS, 233, DE 881008, SUBSTITUIDO\
+    \ PELO QUADRO ANEXO A REFERIDA PORTARIA. \0A. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-10-08'
+- type: amended_by
+  target: pt:dre:354748:por
+  label: "Substituído o quadro de pessoal não dirigente, pela PORT.674/88.08.10.1988.MF, DR.IS [233] de 08.10.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/674-1988-354748
+  date: '1988-10-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA NUMERO 869/89, PUBLICADA NO DIARIO DA REPUBLICA, I SERIE, NUMERO 232,\
+    \ DE 9/10/89./\09./\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-10-09'
+- type: cites
+  target: pt:dre:311004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:28Z'
   warnings: []
   errors: []
 ---
@@ -312,14 +403,14 @@ h) Às costureiras habilitadas com o curso de corte que desempenhem funções em
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - Luís Eduardo da Silva Barbosa - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 24 de Abril de 1983.**
+Promulgado em 24 de Abril de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Abril de 1983.**
+Referendado em 27 de Abril de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/10500/16111620.pdf))](https://files.diariodarepublica.pt/1s/1983/05/10500/16111620.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/10500/16111620.pdf)

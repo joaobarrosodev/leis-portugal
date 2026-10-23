@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/04/097a00/17181724.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/65/2000/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2000-521601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a3c59a9bd9397b4575aea3456d286aabfe91b5a1b4f3bdeac10deb845f8c16d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ac56bab5531c3a418dec537497345f50302ddd3bcd4648a2b26d27f6af41a39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,39 +67,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo de Schengen
-- Imigração
-- Família
-- Nacionalidade
-- Residência de Estrangeiros
+- Admissão de Estrangeiros
 - Boletim de Alojamento
-- Trabalho
 - Cidadão Estrangeiro
 - Definição de Competências
-- Rectificação de TIPO de Diploma
+- Direito à Informação
+- Direito Territorial
 - Diretor
 - Documento de Viagem
 - Entrada de Estrangeiros
 - Estudante
-- Impresso
+- Família
 - Fronteiras
-- Direito à Informação
+- Imigração
+- Impresso
 - Livre Circulação de Pessoas
-- Serviço de Estrangeiros e Fronteiras
-- Prazo de Validade
-- Rectificação de Numero de Diploma
 - Ministério dos Negócios Estrangeiros
 - Ministro da Administração Interna
+- Nacionalidade
+- Passaporte
+- Prazo de Validade
+- Rectificação de Numero de Diploma
+- Rectificação de TIPO de Diploma
+- Residência de Estrangeiros
+- Serviço de Estrangeiros e Fronteiras
 - Taxa
 - Termo de Responsabilidade
-- Direito Territorial
-- Passaporte
+- Trabalho
 - Transporte de Passageiros
-- Admissão de Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:222820:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332251:por
+  label: "Alterados os arts. 12º, 14º, 19º, 21º, 27º, 2º, 29º, 31º, 32º, 35º, 37º, 38º e 39º, substituída a epígrafe do Cap.\
+    \ III, revogado o art. 4º e Republicado em Anexo, com as necessárias correcções materiais, pelo DR.9/2001.2001.05.31.MAI,\
+    \ DR.IS-B [126]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/9-2001-332251
+  date: '2001-05-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/244/1998/08/08/p/dre
   label: null
@@ -112,16 +119,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:211817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434982:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:222820:por
+  label: "Revogado, com a alteração introduzida pelo DR 9/2001 de 31-Mai, pelo DR.6/2004.26.04.2004.MAI, DR.IS-B [98] de 26.04.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-2004-222820
+  date: '2004-04-26'
 article_structure:
   article_count: 41
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:47Z'
   warnings: []
   errors: []
 ---
@@ -554,12 +579,12 @@ d) Comprovativos da excepcionalidade invocada.
 
 Visto e aprovado em Conselho de Ministros de 25 de Fevereiro de 2000. - Jaime José Matos da Gama - Jaime José Matos da Gama - Fernando Manuel dos Santos Gomes - António Luís Santos Costa - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 7 de Abril de 2000.**
+Promulgado em 7 de Abril de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Abril de 2000.**
+Referendado em 13 de Abril de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

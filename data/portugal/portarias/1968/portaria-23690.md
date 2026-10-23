@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23690-1968-263909
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7379ca9d3cfa661b1a68c1d4186bc2916deabaf0d00f8fdbf8a8a16a2bbd8dae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c22647c75475f666a17cee54afd1a6f112ff70869fc4d947b260730779b25fc7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:397104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423606:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:20Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +94,7 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º III da base LXXXIII da Lei Orgânica do Ultramar Português, que seja publicado nas províncias ultramarinas, para nelas ter execução, o artigo 1.º do [Decreto-Lei n.º 42281](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42281-1959-423606), de 25 de Maio de 1959, com as seguintes alterações:
 
-###### Artigo 1.º Os automóveis importados nos termos do [Decreto n.º 32844](https://diariodarepublica.pt/dr/detalhe/decreto/32844-1943-397104), de 12 de Junho de 1943, não devem quaisquer direitos aduaneiros passados três anos sobre a data da sua entrada no País, quando os respectivos titulares os declarem impróprios para seu uso.
+Artigo 1.º Os automóveis importados nos termos do [Decreto n.º 32844](https://diariodarepublica.pt/dr/detalhe/decreto/32844-1943-397104), de 12 de Junho de 1943, não devem quaisquer direitos aduaneiros passados três anos sobre a data da sua entrada no País, quando os respectivos titulares os declarem impróprios para seu uso.
 
 Antes daquela data também não serão devidos direitos quando os referidos automóveis passem ao serviço de outro cônsul de carreira dentro dos limites fixados na disposição legal acima referida.
 

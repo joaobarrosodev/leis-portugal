@@ -46,40 +46,312 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 202fc04b2a0a5566aaf41e282a9247f75f78e431bdf4628cddfc8f60ae493281
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1388d0d3292158aa0df80ca7ad2beb55d8316d88950b323b8bd3eb609dc173f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Indústria e Energia
+- Quadro de Pessoal
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ANEXO III PELA PORTARIA NUMERO 831/81, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 219, DE 23/9/81.\
+    \ REVOGADO O ANEXO I PELO DECRETO-LEI NUMERO 356/86, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 246, DE 24/10/86.\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:627067:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:463996:por
+  label: Alterado, no referente ao pessoal técnico superior, o quadro de pessoal constante do anexo VII do presente diploma
+    pelo(a) Portaria n.º 556/80 - Diário da República n.º 202/1980, Série I de 1980-09-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/556-1980-463996
+  date: '1980-09-02'
+- type: amended_by
+  target: pt:dre:464264:por
+  label: Alterado, no referente ao pessoal técnico superior, o quadro de pessoal constante do anexo I pelo(a) Portaria n.º
+    570/80 - Diário da República n.º 205/1980, Série I de 1980-09-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/570-1980-464264
+  date: '1980-09-05'
+- type: amended_by
+  target: pt:dre:458213:por
+  label: "Alterado o quadro anexo III pela PORT.996/80.20.11.1980.PCM, DR.IS [269] de 20.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/996-1980-458213
+  date: '1980-11-20'
+- type: amended_by
+  target: pt:dre:389866:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Secretaria-Geral aprovado pelo presente diploma, pela PORT.133/81.27.01.1981.PCM,\
+    \ DR.IS [22] de 27.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/133-1981-389866
+  date: '1981-01-27'
+- type: amended_by
+  target: pt:dre:579092:por
+  label: "Alterado o quadro de pessoal das delegações regionais pela PORT.490/81.16.06.1981.MFP, DR.IS [136] de 16.06.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/490-1981-579092
+  date: '1981-06-16'
+- type: amended_by
+  target: pt:dre:578497:por
+  label: "Criado dois lugares de assessor no quadro de pessoal da DGGM, constante do anexo VIII do presente diploma, pela\
+    \ PORT.524/81.27.06.1981.MFP, DR.IS [145] de 27.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/524-1981-578497
+  date: '1981-06-27'
+- type: amended_by
+  target: pt:dre:578519:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Secretaria-Geral, constante do anexo do presente diploma, pela\
+    \ PORT.535/81.29.06.1981.MFP, DR.IS [146] de 29.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/535-1981-578519
+  date: '1981-06-29'
+- type: amended_by
+  target: pt:dre:578695:por
+  label: "Alterado o quadro de pessoal da Secretaria-Geral do Ministério da Indústria e Energia, constante do anexo I pela\
+    \ PORT.544/81.02.07.1981.MFP, DR.IS [149] de 02.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/544-1981-578695
+  date: '1981-07-02'
+- type: amended_by
+  target: pt:dre:563195:por
+  label: "Alterado o anexo XIII pela PORT.831/81.23.09.1981.MIE, DR.IS [219] de 23.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/831-1981-563195
+  date: '1981-09-23'
+- type: amended_by
+  target: pt:dre:563806:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral das Indústrias Ligeiras, constante do anexo XI pela PORT.844/81.24.09.1981.MIE,\
+    \ DR.IS [220] de 24.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/844-1981-563806
+  date: '1981-09-24'
+- type: amended_by
+  target: pt:dre:563650:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral das Indústrias Química e Metalúrgica, constante do anexo IX pela\
+    \ PORT.862/81.26.09.1981.MFP, DR.IS [222] de 26.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/862-1981-563650
+  date: '1981-09-26'
+- type: amended_by
+  target: pt:dre:562222:por
+  label: "Alterado o quadro de pessoal constante do anexo XIV, pela PORT.925/81.21.10.1981.MFP, DR.IS [242] de 21.10.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/925-1981-562222
+  date: '1981-10-21'
+- type: amended_by
+  target: pt:dre:568368:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Direcção-Geral de Geologia e Minas, constante do anexo VIII\
+    \ do presente diploma, pela PORT.976/81.17.11.1981.MFP, DR.IS [265] de 17.11.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/976-1981-568368
+  date: '1981-11-17'
+- type: amended_by
+  target: pt:dre:601089:por
+  label: "Alterado o anexo XII pela PORT.147/82.1982.02.02.MFP, DR.IS [27] de 2/Fev/1982\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/147-1982-601089
+  date: '1981-12-30'
+- type: amended_by
+  target: pt:dre:600151:por
+  label: "Alterado o quadro de pessoal pela PORT.221/82.1982.02.19.MFP, DR.IS [42] de 19/FEV/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/221-1982-600151
+  date: '1982-02-19'
+- type: amended_by
+  target: pt:dre:608524:por
+  label: "Alterado os anexos pela PORT.343/82.1982.04.01.MIE, DR.IS [76] de 1/Abr/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/343-1982-608524
+  date: '1982-04-01'
+- type: amended_by
+  target: pt:dre:392799:por
+  label: "Alterado o anexo XII pela PORT.484/82.1982.05.08.MFP, DR.IS [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/484-1982-392799
+  date: '1982-05-08'
+- type: amended_by
+  target: pt:dre:391985:por
+  label: "Alterado o anexo I pela PORT.533/82.1982.05.29.MFP R.IS [122] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/533-1982-391985
+  date: '1982-05-29'
+- type: amended_by
+  target: pt:dre:394515:por
+  label: "Criados dois lugares na carreia técnica superior, formação/função Metrologia, constante do anexo V pelo presente\
+    \ diploma, na redacção da portaria 996/80, de 20 de Novembro, pela PORT.677/82.08.07.1982.MFP, DR.IS [155] de 08.07.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/677-1982-394515
+  date: '1982-07-08'
+- type: amended_by
+  target: pt:dre:374263:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Direcção-Geral das Indústrias Electromecânicas, aprovado pelo\
+    \ presente diploma, na redacção da Port 996/80, de 20-Nov, pela PORT.855/82.09.09.1982.MFP, DR.IS [209] de 09.09.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/855-1982-374263
+  date: '1982-09-09'
+- type: amended_by
+  target: pt:dre:375617:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral de Energia, constante do anexo VII do presente diploma, alterada\
+    \ pelas Ports 996/80 de 20-Nov e 343/82 de 01-Abr, pela PORT.860/82.10.09.1982.MFP, DR.IS [210] de 10.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/860-1982-375617
+  date: '1982-09-10'
+- type: amended_by
+  target: pt:dre:380097:por
+  label: "Criado um lugar de assessor no quadro de pessoal do Gabinete de Estudos e Planeamento, constante do anexo III do\
+    \ presente diploma, pela PORT.1104/82.24.11.1982.MFP, DR.IS [272] de 24.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1104-1982-380097
+  date: '1982-11-24'
+- type: amended_by
+  target: pt:dre:443733:por
+  label: "Criado um lugar de assessor no quadro de Pessoal de Gabinete de Estudos e Planeamento, constante do anexo III do\
+    \ presente diploma, pela PORT.974/83.18.11.1983.PCM, DR.IS [266] de 18.11.1983 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/974-1983-443733
+  date: '1983-11-18'
+- type: amended_by
+  target: pt:dre:659903:por
+  label: "Alterado o anexo XIV, pela PORT.43/84.1984.01.20.PCM, DR.IS [17]P\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/43-1984-659903
+  date: '1984-01-20'
+- type: amended_by
+  target: pt:dre:386660:por
+  label: "Criados dois lugares e extintos quatro no quadro de pessoal constante do anexo V ao presente diploma, na redacção\
+    \ da Port 996/80, de 20-Nov e da Port 388/82, de 17-Abr, pela PORT.376/84.15.06.1984.PCM, DR.IS [138] de 15.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/376-1984-386660
+  date: '1984-06-15'
+- type: amended_by
+  target: pt:dre:381724:por
+  label: "Alargado o quadro da Direcção-Geral da qualidade e do IAPMEI, aprovados pelo presente diploma, pela PORT.524/84.28.07.1984.PCM,\
+    \ DR.IS [174] de 28.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/524-1984-381724
+  date: '1984-07-28'
+- type: amended_by
+  target: pt:dre:382409:por
+  label: "Criado um lugar de assessor letra B, no quadro de pessoal do Gabinete de Estudos e Planeamento constante do anexo\
+    \ III, pela PORT.593/84.11.08.1984.PCM, DR.IS [186] de 11.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/593-1984-382409
+  date: '1984-08-11'
+- type: amended_by
+  target: pt:dre:151881:por
+  label: "Alteradas as categorias e os lugares da carreira de tesoureiro do quadro de pessoal do IAPMEI, constante do anexo\
+    \ XIV PORT.339/85.05.06.1985.PCM, DR.IS [129] de 05.06.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/339-1985-151881
+  date: '1985-06-05'
+- type: amended_by
+  target: pt:dre:177844:por
+  label: "Criado um lugar de vice-presidente no quadro de pessoal do IAPMEI, constante do anexo XIV ao presente diploma, pela\
+    \ PORT.803/85.26.10.1985.PCM, DR.IS [247] de 26.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/803-1985-177844
+  date: '1985-10-26'
+- type: cites
+  target: pt:dre:139954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677585:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:471905:por
+  label: Rectificada pela DECL.DD6961.27.06.1980.PCM, DR.IS [157] de 10.07.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-471905
+  date: '1980-06-27'
+- type: corrected_by
+  target: pt:dre:570486:por
+  label: Rectificada pela DECL.DD6183.11.12.1980.PCM, DR.IS [3] de 05.01.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-570486
+  date: '1980-12-11'
+- type: repealed_by
+  target: pt:dre:222211:por
+  label: Revogado o anexo I do presente diploma, pelo DEC LEI.356/86.24.10.1986.MIC, DR.IS [246] de 24.10.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/356-1986-222211
+  date: '1986-10-24'
+- type: repealed_by
+  target: pt:dre:627067:por
+  label: "Revogado o anexo VII, pelo DEC LEI.442/86.1986.12.31.MIC, DR.IS [300]5ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/442-1986-627067
+  date: '1986-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:29Z'
   warnings: []
   errors: []
 ---
@@ -128,4 +400,4 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Do ANEXO I ao ANEXO XIV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/12000/11401155.pdf))](https://files.diariodarepublica.pt/1s/1980/05/12000/11401155.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/12000/11401155.pdf)

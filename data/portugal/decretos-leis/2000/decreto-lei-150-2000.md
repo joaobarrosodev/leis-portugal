@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/166a00/33563358.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/150/2000/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2000-321282
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:17:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 131397d546f8725ccce71d520019f7e606bdfa75ff5211e8996dc4acf2647aba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04da4ba353612c35639e08e190595d7cb707f20dbb001e9a1d8e5572df37b613
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção à Família
+- Comissão Nacional de Família
 - Conselho Nacional da Família
-- Ministro do Trabalho e da Solidariedade
 - Criação de Serviços
 - Definição de Competências
-- Comissão Nacional de Família
+- Ministro do Trabalho e da Solidariedade
+- Protecção à Família
 - Regulamento
 relationships:
 - type: amended_by
@@ -101,16 +101,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/7/1999/02/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/7/1999/02/09/p/dre
+- type: cites
+  target: pt:dre:138786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692200:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:481345:por
+  label: "Revogado pelo DEC LEI.3/2003.2003.01.07.MSST, DR.IS-A [5]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-2003-481345
+  date: '2003-01-07'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:17:35Z'
   warnings: []
   errors: []
 ---
@@ -273,12 +302,12 @@ Durante o ano 2000, o apoio financeiro previsto no n.º 2 do artigo 11.º será 
 
 Visto e aprovado em Conselho de Ministros de 25 de Maio de 2000. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jorge Paulo Sacadura Almeida Coelho - Fernando Manuel dos Santos Gomes - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Elisa Maria da Costa Guimarães Ferreira - Luís Medeiros Vieira - Guilherme d'Oliveira Martins - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa - Manuel Maria Ferreira Carrilho - Alberto de Sousa Martins - Maria de Belém Roseira Martins Coelho Henriques de Pina - Armando António Martins Vara.
 
-**Promulgado em 11 de Julho de 2000.**
+Promulgado em 11 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Julho de 2000.**
+Referendado em 12 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

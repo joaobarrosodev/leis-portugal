@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/5/1995/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1995-141778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:23:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 654c755dcaa2d0c611880f37b22f91c11f2c08ec94a536507779f9cc88668b36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3e99dcca9a07104fcf7de2ea3bd7bf53765d8618d14913997eeb28cdd64b7bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:23:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- PSP
-- Informática
 - Base de Dados
-- Segurança da Informação
-- Direito à Informação
-- Sistema de Informação
-- Segredo Profissional
 - Dados Pessoais
+- Direito à Informação
+- Informática
+- PSP
+- Segredo Profissional
+- Segurança da Informação
+- Sistema de Informação
 - Sistema de Informações Operacionais de Polícia
 relationships:
 - type: cites
@@ -88,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/65/1993/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/65/1993/08/26/p/dre
+- type: cites
+  target: pt:dre:322095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632408:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:23:28Z'
   warnings: []
   errors: []
 ---
@@ -256,12 +268,12 @@ Presidência do Conselho de Ministros, 14 de Novembro de 1994.
 
 Aníbal António Cavaco Silva - Manuel Dias Loureiro.
 
-**Promulgado em 29 de Dezembro de 1994.**
+Promulgado em 29 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Janeiro de 1995.**
+Referendado em 2 de Janeiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

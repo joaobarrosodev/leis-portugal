@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 300/1979, 8º Suplemento, Série I de 1979-12-31
   number: '300'
   series: I
-  supplement: 8º Suplemento
+  supplement: null
   pages: 3478-(187) a 3478-(189)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30008/01870189.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/762-1979-231344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:06:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4220e10046355c499394710dba898329cc38cc7570c030e240cd62527faa3bf7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 799ff6925509fa9330f7ff166cc4302c278eba0874dac1da12dfffdf29f19c9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:06:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açúcar
+- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:391072:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:461236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:474170:por
+  label: "Revogada a parte final do artigo 15.º pela PORT.276/80.22.05.1980.MCT, DR.IS [118] de 22.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/276-1980-474170
+  date: '1980-05-22'
+- type: repealed_by
+  target: pt:dre:391072:por
+  label: "Revogada pela PORT.196/81.20.02.1981.MFP, DR.IS [43] de 20.02.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/196-1981-391072
+  date: '1981-02-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:06:53Z'
   warnings: []
   errors: []
 ---
@@ -298,6 +334,6 @@ Secretaria de Estado do Comércio Interno, 7 de Dezembro de 1979. - O Secretári
 
 Tabela de variação do preço da rama a que se refere o n.º 4 do n.º 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30008/01870189.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30008/01870189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30008/01870189.pdf)
 
-**O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.**
+O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.

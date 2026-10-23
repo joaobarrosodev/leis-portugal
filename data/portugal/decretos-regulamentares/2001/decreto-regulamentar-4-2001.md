@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/4/2001/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2001-348306
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:27:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 366ee76f525c9d41834571d63f6b73ce7cdd070612f59046e6d6e14a68fd6055
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f785d45e175c77a7fc27b0ee1e16a61cd638977d9484e776a85173183d4a36ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:27:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Direcção Geral do Turismo
 - Algarve
-- Região de Turismo
-- Inspecção Geral de Jogos
+- Direcção Geral do Turismo
+- Financiamento
 - Fundo de Turismo
+- Inspecção Geral de Jogos
 - Ministro do Comércio e Turismo
 - Prazo
 - Prorrogação de Prazo
+- Região de Turismo
 - Região de Turismo do Algarve
 - Subsídio
 relationships:
@@ -83,20 +83,30 @@ relationships:
   target: pt:dre:226231:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226231:por
+  label: "Prorrogado o prazo previsto no nº 3 do art. 6º do DR 1/95 de 19-Jan, já prorrogado pelo presente diploma, pelo DR.7/2003.2003.03.24.MECO,\
+    \ DR.IS-B [86]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/7-2003-226231
+  date: '2003-03-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/1/1995/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/1/1995/01/19/p/dre
+- type: cites
+  target: pt:dre:145228:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:27:03Z'
   warnings: []
   errors: []
 ---
@@ -129,12 +139,12 @@ O presente diploma produz efeitos a partir do dia 29 de Janeiro de 2001.
 
 Visto e aprovado em Conselho de Ministros de 25 de Janeiro de 2001. - António Manuel de Oliveira Guterres - Mário Cristina de Sousa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 5 de Março de 2001.**
+Promulgado em 5 de Março de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Março de 2001.**
+Referendado em 8 de Março de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

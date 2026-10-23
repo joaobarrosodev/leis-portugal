@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/36/2009/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2009-601475
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a62d3af52c2e36bfd6f67e8f9dac29838a6b87165c531b5b4ef53350debfad8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2873ac2b32602e6efa34e79f6fb2f98deff823d2ee0f64bd303c91d0dc83291d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alcochete
-- Património
-- Fiscal Único
-- Gestão Financeira
-- LUSOPONTE
+- Autarquia Local
+- Conselho Consultivo
 - Conselho de Administração
-- Fundação
 - Definição de Competências
 - Estatuto
-- Salinas do Samouco
-- Gestão do Património
-- Conselho Consultivo
-- Proteção do Ambiente
-- Gestão do Ambiente
-- Presidente
-- Instituto da Conservação da Natureza e da Biodiversidade
+- Fiscal Único
+- Fundação
 - Fundação para a Protecção de Gestão Ambiental das Salinas do Samouco
-- Autarquia Local
+- Gestão do Ambiente
+- Gestão do Património
+- Gestão Financeira
+- Instituto da Conservação da Natureza e da Biodiversidade
+- LUSOPONTE
+- Património
+- Presidente
+- Proteção do Ambiente
+- Salinas do Samouco
 - Utilidade Pública
 - Vogal
 relationships:
@@ -98,13 +98,13 @@ relationships:
 article_structure:
   article_count: 24
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:34Z'
   warnings: []
   errors: []
 ---
@@ -195,15 +195,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Dezembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Mário Lino Soares Correia.
 
-**Promulgado em 30 de Janeiro de 2009.**
+Promulgado em 30 de Janeiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 2 de Fevereiro de 2009.**
+Referendado em 2 de Fevereiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (referido no artigo 3.º)
 
@@ -427,10 +427,10 @@ g) Pronunciar-se sobre qualquer outro assunto, em matéria de gestão económica
 
 [referido na alínea a) do artigo 5.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02800/0088100886.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02800/0088100886.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02800/0088100886.pdf)
 
 ## ANEXO III — Mapa de dotações financeiras a efectuar pela sociedade LUSOPONTE - Concessionária para a Travessia do Tejo, S. A.
 
 [referido na alínea b) do artigo 5.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02800/0088100886.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02800/0088100886.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02800/0088100886.pdf)

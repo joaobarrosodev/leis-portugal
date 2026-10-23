@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/01/02100/01170122.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/51-1973-683268
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T04:08:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 868c64e81892446db69e659cfc93f0abfc01719f334b6f032f461d1cf1ed21ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ada82dfc05382bb0963c6a1f36a009f1f9657f2af2b877165d0bc8fed053598d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:08:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pesca
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:420193:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:370634:por
+  label: "Alterado o art. 9.º do presente diploma pela PORT.486/79.08.09.1979.MAP, DR.IS [208] de 08.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/486-1979-370634
+  date: '1979-09-08'
+- type: cites
+  target: pt:dre:142877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686585:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:420193:por
+  label: "Revogado o presente diploma, alterado pela Portaria n.º 486/79, de 8-Set pelo DEC LEI.278/87.07.07.1987.MAPA, DR.IS\
+    \ [153] de 07.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/278-1987-420193
+  date: '1987-07-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:08:26Z'
   warnings: []
   errors: []
 ---
@@ -106,31 +139,31 @@ REGULAMENTO DA PESCA INDUSTRIAL NÃO AGREMIADA
 
 Definições de pesca industrial não agremiada local e costeira
 
-###### Artigo 1.º Salvo o disposto no artigo 2.º, dá-se o nome de pesca industrial não agremiada à que é exercida por embarcações de pesca local ou costeira com comprimento de sinal superior a 14 m, não reservadas à posse exclusiva de pescadores marítimos profissionais, com o emprego de redes de emalhar, aparelhos de linhas e anzóis, covos ou quaisquer outras artes e sistema de pesca cuja existência e utilização estejam previstas no presente Regulamento.
+Artigo 1.º Salvo o disposto no artigo 2.º, dá-se o nome de pesca industrial não agremiada à que é exercida por embarcações de pesca local ou costeira com comprimento de sinal superior a 14 m, não reservadas à posse exclusiva de pescadores marítimos profissionais, com o emprego de redes de emalhar, aparelhos de linhas e anzóis, covos ou quaisquer outras artes e sistema de pesca cuja existência e utilização estejam previstas no presente Regulamento.
 
-###### Art. 2.º - 1. Transitòriamente, poderão continuar a exercer a pesca industrial não agremiada embarcações com comprimento de sinal igual ou inferior a 14 m, que já estavam registadas nessa pesca, e satisfaçam às condições do presente Regulamento.
+Art. 2.º - 1. Transitòriamente, poderão continuar a exercer a pesca industrial não agremiada embarcações com comprimento de sinal igual ou inferior a 14 m, que já estavam registadas nessa pesca, e satisfaçam às condições do presente Regulamento.
 
 2. Estas embarcações não poderão ser modificadas ou substituídas de modo a continuarem com 14 m ou menos de comprimento de sinal e deverão, impreterìvelmente até 31 de Março de 1981, ser substituídas por outras, nas condições do artigo 1.º, ou ser entregues a pescadores para registarem na pesca artesanal.
 
-###### Art. 3.º - 1. A pesca industrial não agremiada diz-se local quando é exercida por embarcações registadas na pesca local.
+Art. 3.º - 1. A pesca industrial não agremiada diz-se local quando é exercida por embarcações registadas na pesca local.
 
 2. A pesca industrial não agremiada diz-se costeira quando é exercida por embarcações registadas na pesca costeira.
 
-###### Art. 4.º As embarcações de pesca industrial não agremiada local são as que, de uma maneira geral, operam dentro da área da jurisdição da repartição marítima em que estão registadas e das áreas que lhe são adjacentes e se estendem até ao rebordo da plataforma continental; nos arquipélagos dos Açores e da Madeira estas embarcações podem também operar nas áreas de navegação costeira onde é permitido o tráfego local.
+Art. 4.º As embarcações de pesca industrial não agremiada local são as que, de uma maneira geral, operam dentro da área da jurisdição da repartição marítima em que estão registadas e das áreas que lhe são adjacentes e se estendem até ao rebordo da plataforma continental; nos arquipélagos dos Açores e da Madeira estas embarcações podem também operar nas áreas de navegação costeira onde é permitido o tráfego local.
 
-###### Art. 5.º As embarcações de pesca industrial não agremiada costeira podem operar ao longo das costas nacionais e nas áreas definidas pela [Portaria n.º 694/72](https://diariodarepublica.pt/dr/detalhe/portaria/694-1972-686585), de 28 de Novembro.
+Art. 5.º As embarcações de pesca industrial não agremiada costeira podem operar ao longo das costas nacionais e nas áreas definidas pela [Portaria n.º 694/72](https://diariodarepublica.pt/dr/detalhe/portaria/694-1972-686585), de 28 de Novembro.
 
-###### Art. 6.º O director-geral dos Serviços de Fomento Marítimo poderá, a requerimento do interessado ou a pedido da capitania do porto de registo, em processo organizado pela Direcção das Pescas e do Domínio Marítimo (D. P. D. M.), com informações favoráveis da Direcção da Marinha Mercante (D. M. M.) e da Junta Nacional de Fomento das Pescas (J. N. F. P.), fixar os limites em que podem actuar as embarcações da pesca industrial não agremiada nos termos da referida portaria.
+Art. 6.º O director-geral dos Serviços de Fomento Marítimo poderá, a requerimento do interessado ou a pedido da capitania do porto de registo, em processo organizado pela Direcção das Pescas e do Domínio Marítimo (D. P. D. M.), com informações favoráveis da Direcção da Marinha Mercante (D. M. M.) e da Junta Nacional de Fomento das Pescas (J. N. F. P.), fixar os limites em que podem actuar as embarcações da pesca industrial não agremiada nos termos da referida portaria.
 
 Requisitos técnicos a que devem satisfazer as embarcações
 
-###### Art. 7.º - 1. As embarcações devem possuir robustez, estabilidade e mais qualidades náuticas indispensáveis ao exercício da pesca em condições de segurança.
+Art. 7.º - 1. As embarcações devem possuir robustez, estabilidade e mais qualidades náuticas indispensáveis ao exercício da pesca em condições de segurança.
 
 2. Devem dispor ainda dos requisitos tecnológicos compatíveis com o seu porte, que lhes permita ter uma exploração o mais rendível possível.
 
-###### Art. 8.º As embarcações com propulsão mecânica por motor não amovível, com arqueação bruta igual ou superior a 10 t, devem ter sempre convés fechado.
+Art. 8.º As embarcações com propulsão mecânica por motor não amovível, com arqueação bruta igual ou superior a 10 t, devem ter sempre convés fechado.
 
-###### Art. 9.º Quando se trate de novas aquisições ou construções ou de aquisições ou construções de substituição ou de modificações ou de transferência de registo para esta pesca, os requisitos técnicos de segurança a que as embarcações da pesca costeira devem obedecer são os seguintes:
+Art. 9.º Quando se trate de novas aquisições ou construções ou de aquisições ou construções de substituição ou de modificações ou de transferência de registo para esta pesca, os requisitos técnicos de segurança a que as embarcações da pesca costeira devem obedecer são os seguintes:
 
 a) Arqueação bruta:
 
@@ -190,15 +223,15 @@ j) Equipamento auxiliar da navegação e pesca e de comunicações:
 
 Devem ter obrigatòriamente um odómetro e uma bitola de medição da malhagem, além do equipamento de radiocomunicações, de pesquisa de cardumes e auxiliar da navegação e pesca, aprovado pela Direcção do Serviço de Electricidade e Comunicações (D. S. E. C.), apropriado às áreas onde exerçam a pesca.
 
-###### Art. 10.º Sem prejuízo do disposto no artigo anterior, serão fixados, por despacho do Ministro da Marinha, os requisitos especiais a que devem obedecer as embarcações cuja aquisição, construção, modificação ou equipamento sejam apoiados pelo Fundo de Renovação e Apetrechamento da Indústria da Pesca (F. R. A. I. P.) ou beneficiem de subsídios do Estado.
+Art. 10.º Sem prejuízo do disposto no artigo anterior, serão fixados, por despacho do Ministro da Marinha, os requisitos especiais a que devem obedecer as embarcações cuja aquisição, construção, modificação ou equipamento sejam apoiados pelo Fundo de Renovação e Apetrechamento da Indústria da Pesca (F. R. A. I. P.) ou beneficiem de subsídios do Estado.
 
-###### Art. 11.º As embarcações de apanha submarina de plantas marinhas industrializáveis satisfarão expressamente ao disposto no capítulo V do respectivo Regulamento, aprovado pelo [Decreto n.º 48008](https://diariodarepublica.pt/dr/detalhe/decreto/48008-1967-388644), de 27 de Outubro de 1967.
+Art. 11.º As embarcações de apanha submarina de plantas marinhas industrializáveis satisfarão expressamente ao disposto no capítulo V do respectivo Regulamento, aprovado pelo [Decreto n.º 48008](https://diariodarepublica.pt/dr/detalhe/decreto/48008-1967-388644), de 27 de Outubro de 1967.
 
 Condições a que devem satisfazer as embarcações, quer quanto às características das artes de pesca, quer quanto à sua utilização.
 
 Quanto às características das artes de pesca
 
-###### Art. 12.º As embarcações podem ter a bordo e utilizar na pesca os seguintes tipos de artes e sistemas de pesca:
+Art. 12.º As embarcações podem ter a bordo e utilizar na pesca os seguintes tipos de artes e sistemas de pesca:
 
 a) Redes de emalhar de deriva (sardinheiras, robaleiras e mais redes de emalhar que pescam ao sabor da corrente);
 
@@ -212,15 +245,15 @@ e) Teias de covos;
 
 f) Aparelhagem de corte submarino de plantas marinhas industrializáveis.
 
-###### Art. 13.º - 1. Os tipos de artes de pesca que a embarcação pode utilizar são os que hajam sido autorizados.
+Art. 13.º - 1. Os tipos de artes de pesca que a embarcação pode utilizar são os que hajam sido autorizados.
 
 2. Os condicionamentos específicos de cada uma das artes dos tipos autorizados são, porém, verificados na altura da respectiva vistoria de registo ou, no caso de uma modificação, na altura da vistoria que se segue à conclusão dos trabalhos; posteriormente a estas vistorias, aquele encargo pertencerá à comissão local de vistorias, integrando para o efeito um delegado da D. P. D. M., quando necessário ou conveniente.
 
-###### Art. 14.º - 1. Ao verificar o condicionamento específico de cada uma das artes autorizadas a uma dada embarcação, as comissões referidas no artigo anterior devem ter sempre presente que a pesca tem de ser exercida com segurança para a tripulação.
+Art. 14.º - 1. Ao verificar o condicionamento específico de cada uma das artes autorizadas a uma dada embarcação, as comissões referidas no artigo anterior devem ter sempre presente que a pesca tem de ser exercida com segurança para a tripulação.
 
 2.Terão também em atenção as características e dimensões da embarcação, a capacidade do porão de pescado, a área disponível para a estiva da arte ou artes de pesca e ainda condicionamentos gerais de cada arte, referidos nos artigos 15.º, 16.º e 17.º do presente Regulamento.
 
-###### Art. 15.º As artes da pesca industrial não agremiada devem satisfazer aos seguintes requisitos gerais:
+Art. 15.º As artes da pesca industrial não agremiada devem satisfazer aos seguintes requisitos gerais:
 
 a) Redes de emalhar de deriva:
 
@@ -250,11 +283,11 @@ e) Cortadores submarinos de plantas marinhas:
 
 Tipo tesoura, de accionamento manual.
 
-###### Art. 16.º A utilização de cortadores submarinos de plantas marinhas accionadas mecânicamente requer autorização prévia do director-geral dos Serviços de Fomento Marítimo. O mesmo se aplica em referência às artes de pesca com dimensões e características diferentes das especificadas no artigo anterior.
+Art. 16.º A utilização de cortadores submarinos de plantas marinhas accionadas mecânicamente requer autorização prévia do director-geral dos Serviços de Fomento Marítimo. O mesmo se aplica em referência às artes de pesca com dimensões e características diferentes das especificadas no artigo anterior.
 
-###### Art. 17.º Os requerimentos que, com a finalidade referida no artigo anterior, sejam entregues nas repartições marítimas serão por estas informados e remetidos à D. P. D. M., que, se for necessário, ouvirá o Instituto de Biologia Marítima (I. B. M.), Instituto de Técnicas de Pesca (I. T. P.) e a J. N. F. P. e submeterá o processo a despacho do director-geral dos Serviços de Fomento Marítimo.
+Art. 17.º Os requerimentos que, com a finalidade referida no artigo anterior, sejam entregues nas repartições marítimas serão por estas informados e remetidos à D. P. D. M., que, se for necessário, ouvirá o Instituto de Biologia Marítima (I. B. M.), Instituto de Técnicas de Pesca (I. T. P.) e a J. N. F. P. e submeterá o processo a despacho do director-geral dos Serviços de Fomento Marítimo.
 
-###### Art. 18.º As licenças de pesca das embarcações da pesca industrial não agremiadas são as estabelecidas nos diplomas a seguir referidos:
+Art. 18.º As licenças de pesca das embarcações da pesca industrial não agremiadas são as estabelecidas nos diplomas a seguir referidos:
 
 a) Aparelhos móveis de emalhar: [Decreto n.º 41451](https://diariodarepublica.pt/dr/detalhe/decreto/41451-1957-250860), de 18 de Dezembro de 1957;
 
@@ -264,13 +297,13 @@ c) Aparelhos fixos de emalhar, aparelhos de anzol, covos e restantes artes: [Dec
 
 Quanto à utilização das artes de pesca
 
-###### Art. 19.º No exercício da pesca industrial não agremiada, em obediência à parte aplicável da Convenção Relativa ao Exercício da Pesca no Atlântico Norte, aprovada, para ratificação, pelo [Decreto-Lei n.º 48509](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48509-1968-560869), de 30 de Julho de 1968, as embarcações devem balizar as suas artes, como se especifica nos artigos 20.º, 21.º, 22.º e 23.º, assinalar as diferentes fases da faina de pesca, como se especifica no artigo 24.º, e exercer a sua actividade como estabelecem os artigos 25.º e 26.º
+Art. 19.º No exercício da pesca industrial não agremiada, em obediência à parte aplicável da Convenção Relativa ao Exercício da Pesca no Atlântico Norte, aprovada, para ratificação, pelo [Decreto-Lei n.º 48509](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48509-1968-560869), de 30 de Julho de 1968, as embarcações devem balizar as suas artes, como se especifica nos artigos 20.º, 21.º, 22.º e 23.º, assinalar as diferentes fases da faina de pesca, como se especifica no artigo 24.º, e exercer a sua actividade como estabelecem os artigos 25.º e 26.º
 
-###### Art. 20.º - 1. As redes e linhas de deriva são balizadas, a cada extremo e a intervalos não superiores a 2 milhas, por bóias, cada uma com um mastro de altura não inferior a 2 m, medidos acima da bóia, guarnecido, de dia, com uma bandeira ou um reflector de radar e, de noite, com um farol de luz branca, visível em todo o horizonte a uma distância não inferior a 2 milhas, em condições de boa visibilidade.
+Art. 20.º - 1. As redes e linhas de deriva são balizadas, a cada extremo e a intervalos não superiores a 2 milhas, por bóias, cada uma com um mastro de altura não inferior a 2 m, medidos acima da bóia, guarnecido, de dia, com uma bandeira ou um reflector de radar e, de noite, com um farol de luz branca, visível em todo o horizonte a uma distância não inferior a 2 milhas, em condições de boa visibilidade.
 
 2.Não é necessário balizar um extremo que esteja amarrado a uma embarcação.
 
-###### Art. 21.º - 1. As redes, linhas e outros aparelhos de pesca fundeados, que se disponham horizontalmente na água, são balizados por bóias colocadas não só nos seus extremos, mas também entre estes, por forma a não deixarem entre si intervalos superiores a 1 milha.
+Art. 21.º - 1. As redes, linhas e outros aparelhos de pesca fundeados, que se disponham horizontalmente na água, são balizados por bóias colocadas não só nos seus extremos, mas também entre estes, por forma a não deixarem entre si intervalos superiores a 1 milha.
 
 2. Cada bóia deve ter um mastro de altura não inferior a 2 m, medidos acima da bóia, no qual podem ser envergados, de dia, uma ou duas bandeiras ou reflectores de radar e, de noite, um ou dois faróis de luz branca, visíveis em todo o horizonte a uma distância não inferior a 2 milhas, em condições de boa visibilidade.
 
@@ -286,11 +319,11 @@ Quanto à utilização das artes de pesca
 
 8. Não é necessário balizar um extremo que esteja amarrado a uma embarcação.
 
-###### Art. 22.º - 1. As artes de pesca fundeadas, que não se disponham horizontalmente na água, são balizadas por uma bóia guarnecida, de dia, com uma bandeira ou reflector de radar e, de noite, com um farol.
+Art. 22.º - 1. As artes de pesca fundeadas, que não se disponham horizontalmente na água, são balizadas por uma bóia guarnecida, de dia, com uma bandeira ou reflector de radar e, de noite, com um farol.
 
 2. O mastro da bandeira e o farol têm as características especificadas no artigo anterior.
 
-###### Art. 23.º Na sinalização das artes de pesca:
+Art. 23.º Na sinalização das artes de pesca:
 
 a) Todas as bóias dos extremos, e a bóia singular referida no artigo 22.º, devem ser de cor vermelha e ter marcado o conjunto de identificação da embarcação a que pertencem;
 
@@ -308,7 +341,7 @@ c) As bandeiras são quadradas, de 50 cm de lado, sendo:
 
 d) Os reflectores de radar são de metal ou plástico metalizado, ou de outro material aprovado, e dispostos ou construídos de maneira a reflectir energia que incida de qualquer azimute, devendo, sempre que possível, ser da cor das bandeiras respectivas.
 
-###### Art. 24.º - 1. As embarcações costeiras que pesquem com redes de deriva (sardinheiras e semelhantes) devem, sem prejuízo do cumprimento do Regulamento Internacional para Evitar Abalroamentos no Mar (R I. E. A. M.), assinalar por meio de faróis, às embarcações próximas, as fases da faina de pesca estejam a executar.
+Art. 24.º - 1. As embarcações costeiras que pesquem com redes de deriva (sardinheiras e semelhantes) devem, sem prejuízo do cumprimento do Regulamento Internacional para Evitar Abalroamentos no Mar (R I. E. A. M.), assinalar por meio de faróis, às embarcações próximas, as fases da faina de pesca estejam a executar.
 
 2. Na faina de lançar ao mar a rede devem mostrar dois faróis de luz branca, na mesma linha vertical.
 
@@ -318,7 +351,7 @@ d) Os reflectores de radar são de metal ou plástico metalizado, ou de outro ma
 
 5. Os faróis indicados neste artigo devem ser colocados onde melhor possam ser vistos, a uma distância entre si não inferior a 92 cm, mas abaixo dos faróis de pesca prescritos pelo R. I. E. A. M., devendo, no entanto, ser visíveis, tanto quanto possível, em todo o horizonte, a uma distância não inferior a 1 milha e a sua visibilidade ser inferior à dos mesmos faróis.
 
-###### Art. 25.º Sem prejuízo do cumprimento do R. I. E. A M., todas as embarcações devem conduzir a faina e manobras de pesca em obediência às seguintes normas:
+Art. 25.º Sem prejuízo do cumprimento do R. I. E. A M., todas as embarcações devem conduzir a faina e manobras de pesca em obediência às seguintes normas:
 
 a) Devem manobrar de modo a não interferir com a faina da pesca de outras embarcações ou com aparelhos de pesca;
 
@@ -326,7 +359,7 @@ b) À chegada a um pesqueiro onde já estejam outras embarcações devem informa
 
 c) Quando utilizem artes de xávega ou redes de deriva, ou quaisquer artes que se desloquem na água, devem tomar todas as medidas possíveis para evitar redes, linhas e mais artes que estejam fixas.
 
-###### Art. 26.º - 1. Às embarcações é vedado:
+Art. 26.º - 1. Às embarcações é vedado:
 
 a) Fundear ou pairar nos locais onde se esteja a pescar se tal puder interferir com essa pesca, excepto:
 
@@ -358,9 +391,9 @@ Pescado cuja captura é permitida.
 
 Suas características e épocas de defeso
 
-###### Art. 27.º Não é permitido reter a bordo, descarregar ou vender pescado com comprimento inferior ao mínimo estabelecido, nem, em qualquer caso, nos respectivos períodos de defeso.
+Art. 27.º Não é permitido reter a bordo, descarregar ou vender pescado com comprimento inferior ao mínimo estabelecido, nem, em qualquer caso, nos respectivos períodos de defeso.
 
-###### Art. 28.º - 1. Os comprimentos mínimos, em centímetros, a que se refere o artigo anterior, são os seguintes:
+Art. 28.º - 1. Os comprimentos mínimos, em centímetros, a que se refere o artigo anterior, são os seguintes:
 
 Sardinha ... 11
 
@@ -380,7 +413,7 @@ Lagosta e lavagante ... 20
 
 3. O disposto no n.º 1 deste artigo pode ser modificado por despacho do Ministro da Marinha, desde que as circunstâncias o aconselhem.
 
-###### Art. 29.º - 1. Os defesos da pesca são os seguintes:
+Art. 29.º - 1. Os defesos da pesca são os seguintes:
 
 a) Pesca da lagosta e de crustáceos afins: desde 1 de Outubro a 31 de Março. A partir de 1 de Janeiro, inclusive, o defeso aplica-se apenas em relação aos indivíduos ovados;
 
@@ -390,17 +423,17 @@ b) Plantas marinhas industrializáveis: de 1 de Janeiro a 15 de Junho.
 
 Portos onde as embarcações podem descarregar e vender o produto da sua pesca
 
-###### Art. 30.º As embarcações de apanha submarina de plantas marítimas industrializáveis só podem descarregar nos portos de registo.
+Art. 30.º As embarcações de apanha submarina de plantas marítimas industrializáveis só podem descarregar nos portos de registo.
 
-###### Art. 31.º Desde que se verifique tal necessidade, por proposta da J. N. F. P. ou da D. P. D. M., o Ministro da Marinha poderá limitar, por despacho, o número máximo de embarcações que podem descarregar em determinado porto.
+Art. 31.º Desde que se verifique tal necessidade, por proposta da J. N. F. P. ou da D. P. D. M., o Ministro da Marinha poderá limitar, por despacho, o número máximo de embarcações que podem descarregar em determinado porto.
 
 Processo administrativo aplicável às aquisições, construções ou modificações das embarcações e às suas motorizações ou substituição de motores.
 
-###### Art. 32.º - 1. A autorização para novas aquisições e construções, aquisições e construções de substituição e, bem assim, modificações de embarcações, registadas ou a registar, na pesca industrial não agremiada, é requerida ao Ministro da Marinha, excepto no caso de a propulsão ser por motor amovível (fora de borda), caso em que essa autorização será requerida ao chefe da repartição marítima do registo.
+Art. 32.º - 1. A autorização para novas aquisições e construções, aquisições e construções de substituição e, bem assim, modificações de embarcações, registadas ou a registar, na pesca industrial não agremiada, é requerida ao Ministro da Marinha, excepto no caso de a propulsão ser por motor amovível (fora de borda), caso em que essa autorização será requerida ao chefe da repartição marítima do registo.
 
 2. A autorização para motorizações, ou substituições de motores de propulsão é requerida ao director-geral dos Serviços de Fomento Marítimo, excepto se nenhum dos motores em questão exceder 10 cv de potência, caso em que essa autorização será requerida ao chefe da repartição marítima do registo.
 
-###### Art. 33.º Os requerimentos ao Ministro da Marinha referidos no artigo anterior devem indicar obrigatòriamente o seguinte:
+Art. 33.º Os requerimentos ao Ministro da Marinha referidos no artigo anterior devem indicar obrigatòriamente o seguinte:
 
 a) Identificação completa do requerente ou requerentes, incluindo os seus números de sócios contribuintes ou efectivos das Casas dos Pescadores, caso estejam inscritos;
 
@@ -414,7 +447,7 @@ e) O porto de registo;
 
 f) Tratando-se de embarcação já existente, o nome, conjunto de identificação, ano da construção, dimensões de sinal e arqueação bruta.
 
-###### Art. 34.º - 1. Os requerimentos ao Ministro da Marinha referidos no artigo 32.º devem ser entregues nas repartições marítimas onde os requerentes pretendam registar as embarcações, ou onde já estejam registadas, juntamente com os seguintes documentos, todos eles acompanhados de duas cópias não seladas:
+Art. 34.º - 1. Os requerimentos ao Ministro da Marinha referidos no artigo 32.º devem ser entregues nas repartições marítimas onde os requerentes pretendam registar as embarcações, ou onde já estejam registadas, juntamente com os seguintes documentos, todos eles acompanhados de duas cópias não seladas:
 
 a) Desenhos de anteprojecto da embarcação cuja aquisição, construção ou modificação se pretenda, e respectiva memória descritiva;
 
@@ -450,38 +483,38 @@ f) Declaração do requerente ou requerentes pela qual se obrigam a cumprir e a 
 
 2. Quando se trate de embarcações de pesca local, são dispensados, na memória descritiva, os elementos referidos em 3) e 4) da alínea b) do número anterior.
 
-###### Art. 35.º Os requerimentos ao director-geral dos Serviços de Fomento Marítimo referidos no artigo 32.º devem ser acompanhados pelos planos dos fixes dos motores e das respectivas fichas técnicas e, quando haja alteração de pesos a bordo ou da sua localização, no caso de embarcação de pesca costeira, devem ser acompanhados também pelos adequados estudos de previsão de estabilidade.
+Art. 35.º Os requerimentos ao director-geral dos Serviços de Fomento Marítimo referidos no artigo 32.º devem ser acompanhados pelos planos dos fixes dos motores e das respectivas fichas técnicas e, quando haja alteração de pesos a bordo ou da sua localização, no caso de embarcação de pesca costeira, devem ser acompanhados também pelos adequados estudos de previsão de estabilidade.
 
-###### Art. 36.º As assinaturas dos requerentes devem ser sempre reconhecidas notarialmente, salvo no caso de os requerimentos serem apresentados pelos próprios e todos serem conhecidos do chefe da repartição marítima ou se identificarem por meio de bilhete de identidade ou da respectiva cédula marítima (tratando-se de pescadores), o que se certificará no acto da apresentação.
+Art. 36.º As assinaturas dos requerentes devem ser sempre reconhecidas notarialmente, salvo no caso de os requerimentos serem apresentados pelos próprios e todos serem conhecidos do chefe da repartição marítima ou se identificarem por meio de bilhete de identidade ou da respectiva cédula marítima (tratando-se de pescadores), o que se certificará no acto da apresentação.
 
-###### Art. 37.º A repartição marítima, onde seja entregue qualquer dos requerimentos previstos no artigo 32.º, verificará se o mesmo satisfaz às disposições deste Regulamento que lhe são aplicáveis e, em caso afirmativo, apor-lhe-á o respectivo carimbo e, ainda, a data e o número de registo de entrada, após o que, com a informação que tiver por apropriada, o remeterá à D. P. D. M. para posterior instrução e despacho pelo Ministro da Marinha ou pelo director-geral dos Serviços de Fomento Marítimo.
+Art. 37.º A repartição marítima, onde seja entregue qualquer dos requerimentos previstos no artigo 32.º, verificará se o mesmo satisfaz às disposições deste Regulamento que lhe são aplicáveis e, em caso afirmativo, apor-lhe-á o respectivo carimbo e, ainda, a data e o número de registo de entrada, após o que, com a informação que tiver por apropriada, o remeterá à D. P. D. M. para posterior instrução e despacho pelo Ministro da Marinha ou pelo director-geral dos Serviços de Fomento Marítimo.
 
-###### Art. 38.º - 1. Os processos remetidos à D. P. D. M. pelas repartições marítimas, em conformidade com o disposto no artigo anterior, são por aquela Direcção estudados e informados, com audiência prévia, porém, da D. M. M. e da J. N. F. P.
+Art. 38.º - 1. Os processos remetidos à D. P. D. M. pelas repartições marítimas, em conformidade com o disposto no artigo anterior, são por aquela Direcção estudados e informados, com audiência prévia, porém, da D. M. M. e da J. N. F. P.
 
 2. Salvo circunstâncias especiais, devidamente justificadas, aqueles processos devem ser levados a despacho superior nos quarenta e cinco dias subsequentes à data da entrada do requerimento na repartição marítima respectiva.
 
-###### Art. 39.º - 1. O despacho do Ministro da Marinha ou do director-geral dos Serviços de Fomento Marítimo é comunicado pela D. P. D. M. à repartição marítima onde deu entrada o requerimento para que daquele sejam notificados, por escrito, os requerentes.
+Art. 39.º - 1. O despacho do Ministro da Marinha ou do director-geral dos Serviços de Fomento Marítimo é comunicado pela D. P. D. M. à repartição marítima onde deu entrada o requerimento para que daquele sejam notificados, por escrito, os requerentes.
 
 2. Idêntica comunicação é feita, para conhecimento, à D. M. M., à J. N. F. P. e ao Gabinete de Estudos da Direcção-Geral dos Serviços de Fomento Marítimo (G. E. D. G. S. F. M.).
 
-###### Art. 40.º - 1. Excepto quando se trate de embarcação autorizada a usar equipamento de mergulho semiautónomo para apanha submarina de plantas marinhas industrializáveis, a transferência do registo de embarcações para outro porto do continente ou ilhas adjacentes depende apenas de autorização dos chefes das repartições marítimas interessadas.
+Art. 40.º - 1. Excepto quando se trate de embarcação autorizada a usar equipamento de mergulho semiautónomo para apanha submarina de plantas marinhas industrializáveis, a transferência do registo de embarcações para outro porto do continente ou ilhas adjacentes depende apenas de autorização dos chefes das repartições marítimas interessadas.
 
 2. Nos casos exceptuados, depende de autorização do director-geral dos Serviços de Fomento Marítimo, em processo organizado pela D. P. D. M., com audiência prévia da J. N. F. P.
 
-###### Art. 41.º A transferência do registo das embarcações dos portos da metrópole para portos das províncias ultramarinas, e vice-versa, depende de autorização do Ministro da Marinha, em processo para o efeito organizado na D. P. D. M., do qual se verifique que tal transferência não é inconveniente sob o ponto de vista nacional. Para o efeito serão ouvidos a J. N. F. P., no que se refere aos sectores metropolitanos interessados, e o Ministério do Ultramar, no que se refere aos sectores ultramarinos interessados.
+Art. 41.º A transferência do registo das embarcações dos portos da metrópole para portos das províncias ultramarinas, e vice-versa, depende de autorização do Ministro da Marinha, em processo para o efeito organizado na D. P. D. M., do qual se verifique que tal transferência não é inconveniente sob o ponto de vista nacional. Para o efeito serão ouvidos a J. N. F. P., no que se refere aos sectores metropolitanos interessados, e o Ministério do Ultramar, no que se refere aos sectores ultramarinos interessados.
 
-###### Art. 42.º Nenhuma embarcação de registo metropolitano pode ser registada em portos do ultramar, e vice-versa, sem que no respectivo processo esteja apensa a certidão do despacho do Ministro da Marinha autorizando a transferência de registo.
+Art. 42.º Nenhuma embarcação de registo metropolitano pode ser registada em portos do ultramar, e vice-versa, sem que no respectivo processo esteja apensa a certidão do despacho do Ministro da Marinha autorizando a transferência de registo.
 
-###### Art. 43.º - 1. As repartições marítimas enviarão à D. P. D. M. e ao G. E. D. G. S. F. M., imediatamente após o registo das embarcações, após a sua reforma ou transferência, e após um averbamento, cópias dos respectivos títulos de propriedade.
+Art. 43.º - 1. As repartições marítimas enviarão à D. P. D. M. e ao G. E. D. G. S. F. M., imediatamente após o registo das embarcações, após a sua reforma ou transferência, e após um averbamento, cópias dos respectivos títulos de propriedade.
 
 2. Igualmente remeterão à D. P. D. M. e ao G. E. D. G. S. F. M., completa e correctamente preenchidas, as respectivas fichas de registo do modelo para o efeito estabelecido.
 
-###### Art. 44.º - 1. O registo de embarcações que resulte de novas aquisições e construções ou de aquisições e construções de substituição, bem como de embarcações autorizadas a sofrer modificações depende de parecer favorável da comissão de vistoria de registo ou, no caso de modificação, da comissão que vistoria a embarcação após a conclusão dos trabalhos, da qual fará parte um delegado da D. P. D. M., excepto quando esta considere desnecessário ou a embarcação se destine a ser registada na pesca local.
+Art. 44.º - 1. O registo de embarcações que resulte de novas aquisições e construções ou de aquisições e construções de substituição, bem como de embarcações autorizadas a sofrer modificações depende de parecer favorável da comissão de vistoria de registo ou, no caso de modificação, da comissão que vistoria a embarcação após a conclusão dos trabalhos, da qual fará parte um delegado da D. P. D. M., excepto quando esta considere desnecessário ou a embarcação se destine a ser registada na pesca local.
 
 2. As embarcações modificadas que não necessitem de novo registo só poderão exercer a actividade depois de parecer favorável da comissão que vistoria a embarcação após a conclusão dos trabalhos, da qual fará parte um delegado da D. P. D. M., excepto quando esta considere desnecessário ou a embarcação esteja registada na pesca local.
 
-###### Art. 45.º - 1. O disposto no artigo 9.º não se aplica às actuais embarcações de pesca industrial não gremiada, devendo, no entanto, ser cumprido logo que essas embarcações sejam modificadas ou substituídas.
+Art. 45.º - 1. O disposto no artigo 9.º não se aplica às actuais embarcações de pesca industrial não gremiada, devendo, no entanto, ser cumprido logo que essas embarcações sejam modificadas ou substituídas.
 
 2. As embarcações referidas no número anterior, que não obedeçam ao disposto no artigo 9.º, devem ser substituídas no prazo máximo de dez anos.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

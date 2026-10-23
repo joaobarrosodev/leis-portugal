@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/01/016a00/03600361.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/19/2004/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2004-606320
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d254a39b14d14547aa9839824a7bc48c2b4e3ccd28d088b8c4452e7690ceb4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b82e819c8f3f534247fa50b31684b6467636c98a8027c04e5acd8eb56295056b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,6 +71,13 @@ relationships:
   target: pt:dre:350149:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:lei:99/2003
+  label: "Repristina os artigos 1.º, n.os 1 a 6, 2.º, 3.º, n.º 2, 4.º e 9.º do Decreto-Lei n.º 69-A/87, de 9 de Fevereiro\
+    \ DR.IS [33]2ºSupl, mantendo-o em vigor até à data de entrada em vigor da legislação especial prevista no artigo 19.º\
+    \ da Lei n.º 99/2003, de 27 de Agosto\0\0"
+  source: null
+  date: '1987-02-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/320-c/2002/12/30/p/dre
   label: null
@@ -79,16 +86,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+- type: cites
+  target: pt:dre:257422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:350149:por
+  label: "Revogado pelo DEC LEI.242/2004.31.12.2004.MAET, DR.IS-A [305] de 31.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2004-350149
+  date: '2004-12-31'
+- type: repeals
+  target: pt:numero:decreto-lei:320-C/2002
+  label: "Revoga o Decreto-Lei n.º 320-C/2002, de 30 de Dezembro DR.IS-A [301]5ºSupl\0\0"
+  source: null
+  date: '2002-12-30'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:49Z'
   warnings: []
   errors: []
 ---
@@ -135,12 +164,12 @@ O presente diploma produz efeitos desde 1 de Janeiro de 2004, com excepção do 
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Carlos Manuel Tavares da Silva - António José de Castro Bagão Félix.
 
-**Promulgado em 12 de Janeiro de 2004.**
+Promulgado em 12 de Janeiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Janeiro de 2004.**
+Referendado em 13 de Janeiro de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

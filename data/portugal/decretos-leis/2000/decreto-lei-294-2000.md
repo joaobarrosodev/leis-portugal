@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/11/266a00/65546555.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/294/2000/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2000-616185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:20:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a82e15ceb6e320cf7b2ca9c33198e09cdac1a8d61d897e42c0b254ddbeb1d041
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42023ffa13cd1b9144b5f359b06b563f6f03248c763b078e22faf7d03ca12624
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:20:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Conselho Nacional de Bombeiros
 - Definição de Competências
 - Ministro da Administração Interna
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:520461:por
@@ -83,16 +83,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/407/1993/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/407/1993/12/14/p/dre
+- type: cites
+  target: pt:dre:533272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616189:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520461:por
+  label: "Revogado pelo DEC LEI.75/2007.29.03.2007.MAI, DR.IS [63] de 29.03.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-2007-520461
+  date: '2007-03-29'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:20:52Z'
   warnings: []
   errors: []
 ---
@@ -165,12 +178,12 @@ h) Um representante das estruturas distritais da Liga de Bombeiros Portugueses, 
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Alberto de Sousa Martins.
 
-**Promulgado em 26 de Outubro de 2000.**
+Promulgado em 26 de Outubro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Novembro de 2000.**
+Referendado em 2 de Novembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

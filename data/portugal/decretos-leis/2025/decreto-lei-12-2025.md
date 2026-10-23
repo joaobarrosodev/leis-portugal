@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/03700/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/12/2025/02/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2025-908290393
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58ba9f24cb07fa8a574cf190379234464b70a2ed1676e0e382c437c04e124fe1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7cdf9f312e6dd3f4161b949550419c27cec9f3313901e8a58a4d2ab0b8b9f7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Aprendizagem
-- Plano de Estudos
-- Exame
-- Ensino Secundário
-- Currículo Nacional
-- Ensino Básico
 - Avaliação de Conhecimentos
+- Currículo Nacional
+- Ensino Artístico
+- Ensino Básico
+- Ensino Secundário
+- Exame
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:941702851:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:55/2018
+  label: Altera os artigos 4.º, 23.º, 25.º, 26.º e 30.º do Decreto-Lei n.º 55/2018, de 6 de julho, Diário da República n.º
+    129/2018, Série I
+  source: null
+  date: '2018-07-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/55/2018/07/06/p/dre
   label: null
@@ -91,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/70/2021/08/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/2021/08/03/p/dre
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168903099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216154388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:05Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +149,7 @@ No desenvolvimento do regime jurídico estabelecido pela Lei de Bases do Sistema
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho, alterado pelos Decretos-Leis n.<sup>os</sup>[70/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2021-168903099), de 3 de agosto, e [62/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2023-216154388), de 25 de julho, que estabelece o currículo dos ensinos básico e secundário e os princípios orientadores da avaliação das aprendizagens.
+O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho, alterado pelos Decretos-Leis n.os[70/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2021-168903099), de 3 de agosto, e [62/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2023-216154388), de 25 de julho, que estabelece o currículo dos ensinos básico e secundário e os princípios orientadores da avaliação das aprendizagens.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho
 
@@ -187,7 +209,9 @@ w) [...]
 
 2 - [...]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -209,7 +233,9 @@ v) [...]
 
 3 - [...]
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
@@ -229,7 +255,9 @@ c) Robustecer o diagnóstico atempado de áreas a melhorar e potenciar uma inter
 
 6 - [...]
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -239,7 +267,9 @@ c) Robustecer o diagnóstico atempado de áreas a melhorar e potenciar uma inter
 
 4 - [...]
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - A conclusão do ensino básico geral e dos cursos artísticos especializados do ensino básico está dependente da realização de provas finais do ensino básico às disciplinas sujeitas a avaliação externa.
 
@@ -247,12 +277,14 @@ c) Robustecer o diagnóstico atempado de áreas a melhorar e potenciar uma inter
 
 Visto e aprovado em Conselho de Ministros de 30 de janeiro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Fernando Alexandre.
 
-**Promulgado em 13 de fevereiro de 2025.**
+Promulgado em 13 de fevereiro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de fevereiro de 2025.**
+Referendado em 14 de fevereiro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118706751

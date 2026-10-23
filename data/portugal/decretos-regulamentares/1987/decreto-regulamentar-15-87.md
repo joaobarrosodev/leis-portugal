@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/02/03100/04810488.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1987-662894
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9047a7ae79e3708cc903530dd444dad2f3a2cf889ee7d758ea26b30d975ea775
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 317d682206eb7b8f754ab2a5f861a0ee125682a191e15780bc4c51b91af5d61c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Inspecção Geral e Auditoria de Gestão
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:640076:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:421037:por
+  label: "Criado um lugar de engenheiro assessor, a extinguir quando vagar, no quadro de pessoal constante do presente diploma,\
+    \ pela PORT.397/87.1987.05.12.MF DR.IS [108]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/397-1987-421037
+  date: '1987-05-12'
+- type: amended_by
+  target: pt:dre:612250:por
+  label: "Alterados os arts. 2º, 3º, 4º e 5º e o mapa I a que se refere o art. 8º pelo DR.6/89.1989.02.27.MAPA, DR.IS [48]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-1989-612250
+  date: '1989-02-27'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667910:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:523423:por
+  label: Rectificado pela DECL.DD2018.1987.03.26.PCM, DR.IS [75-Supl]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-523423
+  date: '1987-03-26'
+- type: repealed_by
+  target: pt:dre:417073:por
+  label: Revogado o nº5 do art. 3º pelo Dec Lei 303/87.04.08.1987.MAPA, DR.IS [177] de 04.08.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-1987-417073
+  date: '1987-08-04'
+- type: repealed_by
+  target: pt:dre:640076:por
+  label: "Revogado pelo DEC LEI.192/91.21.05.1991.MAPA, DR.IS-A [116] de 21.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-1991-640076
+  date: '1991-05-21'
 article_structure:
   article_count: 19
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:19Z'
   warnings: []
   errors: []
 ---
@@ -428,15 +486,15 @@ b) Contabilidade analítica, a fim de proceder ao apuramento dos custos de parti
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 7 de Novembro de 1986.**
+Promulgado em 7 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Novembro de 1986.**
+Referendado em 30 de Novembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
@@ -444,7 +502,7 @@ MAPA I
 
 Quadro próprio da Inspecção-Geral e Auditoria de Gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/03100/04810488.pdf))](https://files.diariodarepublica.pt/1s/1987/02/03100/04810488.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/03100/04810488.pdf)
 
 MAPA II
 
@@ -452,13 +510,13 @@ MAPA II
 
 Pessoal do contingente da ex-DGSC que transita para o quadro da Inspecção-Geral e Auditoria de Gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/03100/04810488.pdf))](https://files.diariodarepublica.pt/1s/1987/02/03100/04810488.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/03100/04810488.pdf)
 
 Inspecção-Geral e Auditoria de Gestão
 
 Lugares actualmente existentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/03100/04810488.pdf))](https://files.diariodarepublica.pt/1s/1987/02/03100/04810488.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/03100/04810488.pdf)
 
 MAPA III
 

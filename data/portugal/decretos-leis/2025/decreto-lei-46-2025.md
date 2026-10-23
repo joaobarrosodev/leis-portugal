@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/06100/0002600033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/46/2025/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2025-912653923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6264a0563675c162afad54170aba5f0a41620fd73e0b1ee56dccf0de49e4cd11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0d4bbc40c7a87a03eee5df7fc733f2d6a57461c2ef16d9ceb04ac1a3556c0d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Administração Pública
-- Serviço Nacional de Saúde
-- Horário de Trabalho
-- Remuneração
-- Estatuto Remuneratório
 - Dedicação plena
+- Estatuto Remuneratório
+- Horário de Trabalho
+- Médico
+- Remuneração
+- Serviço Nacional de Saúde
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:13/2018
+  label: Altera, a partir de 28 de março de 2025, com efeitos a 1 de janeiro de 2025, o artigo 17.º do Decreto-Lei n.º 13/2018,
+    de 26 de fevereiro, Diário da República n.º 40/2018, Série I
+  source: null
+  date: '2018-02-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/103/2023/11/07/p/dre
   label: null
@@ -106,16 +112,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
+- type: cites
+  target: pt:dre:114766032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115730616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223906279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:808125339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835864045:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:103/2023
+  label: Revoga, a partir de 28 de março de 2025, com efeitos a 1 de janeiro de 2025, o anexo iii ao Decreto-Lei n.º 103/2023,
+    de 7 de novembro, Diário da República n.º 215/2023, Série I
+  source: null
+  date: '2023-11-07'
+- type: repeals
+  target: pt:numero:decreto-lei:137/2023
+  label: Revoga, a partir de 28 de março de 2025, com efeitos a 1 de janeiro de 2025, o Decreto-Lei n.º 137/2023, de 29 de
+    dezembro, Diário da República n.º 250/2023, Série I
+  source: null
+  date: '2023-12-29'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:26Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +200,7 @@ c) À revisão da estrutura remuneratória aplicável aos trabalhadores médicos
 
 d) À alteração da estrutura remuneratória aplicável aos médicos internos.
 
-2 - O presente decreto-lei procede, ainda, à terceira alteração do [Decreto-Lei n.º 13/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2018-114766032), de 26 de fevereiro, alterado pelas Leis n.<sup>os</sup>[34/2018](https://diariodarepublica.pt/dr/detalhe/lei/34-2018-115730616), de 19 de julho, e [75-B/2020](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), de 31 de dezembro, que define o regime jurídico da formação médica pós-graduada, designada de internato médico, e estabelece os princípios gerais a que deve obedecer o respetivo processo.
+2 - O presente decreto-lei procede, ainda, à terceira alteração do [Decreto-Lei n.º 13/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2018-114766032), de 26 de fevereiro, alterado pelas Leis n.os[34/2018](https://diariodarepublica.pt/dr/detalhe/lei/34-2018-115730616), de 19 de julho, e [75-B/2020](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), de 31 de dezembro, que define o regime jurídico da formação médica pós-graduada, designada de internato médico, e estabelece os princípios gerais a que deve obedecer o respetivo processo.
 
 ###### Artigo 2.º — Tabelas remuneratórias aplicáveis aos trabalhadores médicos
 
@@ -234,15 +284,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Ana Paula Martins.
 
-**Promulgado em 19 de março de 2025.**
+Promulgado em 19 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 20 de março de 2025.**
+Referendado em 20 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
 
@@ -250,21 +300,21 @@ Regime de dedicação plena - a partir de 1 de janeiro de 2025
 
 | Assistente graduado sénior | p) | 1 | 2 | 3 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Assistente graduado sénior | n) | 76 | 86 | 96 |  |  |  |  |  |
+| n) | 76 | 86 | 96 |  |  |  |  |  |  |
 | Assistente graduado | p) | 1 | 2 | 3 | 4 | 5 | 6 |  |  |
-| Assistente graduado | n) | 60 | 62 | 64 | 66 | 68 | 70 |  |  |
+| n) | 60 | 62 | 64 | 66 | 68 | 70 |  |  |  |
 | Assistente | p) | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| Assistente | n) | 51 | 53 | 54 | 55 | 56 | 57 | 58 | 59 |
+| n) | 51 | 53 | 54 | 55 | 56 | 57 | 58 | 59 |  |
 
 Regime de 40 horas/semana - a partir de 1 de janeiro de 2025
 
 | Assistente graduado sénior | p) | 1 | 2 | 3 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Assistente graduado sénior | n) | 76 | 86 | 96 |  |  |  |  |  |
+| n) | 76 | 86 | 96 |  |  |  |  |  |  |
 | Assistente graduado | p) | 1 | 2 | 3 | 4 | 5 |  |  |  |
-| Assistente graduado | n) | 60 | 62 | 64 | 66 | 68 |  |  |  |
+| n) | 60 | 62 | 64 | 66 | 68 |  |  |  |  |
 | Assistente | p) | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| Assistente | n) | 51 | 53 | 54 | 55 | 56 | 57 | 58 | 59 |
+| n) | 51 | 53 | 54 | 55 | 56 | 57 | 58 | 59 |  |
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 2.º)
 
@@ -272,11 +322,11 @@ Dedicação exclusiva (35 horas/semana) - a partir de 1 de janeiro de 2025
 
 | Assistente graduado sénior | p) | 1 | 2 | 3 | 4 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Assistente graduado sénior | n) | 65 | 69 | 73 | 76 |  |  |
+| n) | 65 | 69 | 73 | 76 |  |  |  |
 | Assistente graduado | p) | 1 | 2 | 3 | 4 | 5 | 6 |
-| Assistente graduado | n) | 55 | 61 | 65 | 67 | 69 | 71 |
+| n) | 55 | 61 | 65 | 67 | 69 | 71 |  |
 | Assistente | p) | 1 | 2 | 3 | 4 | 5 |  |
-| Assistente | n) | 42 | 46 | 48 | 51 | 53 |  |
+| n) | 42 | 46 | 48 | 51 | 53 |  |  |
 
 ## ANEXO III — (a que se refere o n.º 2 do artigo 2.º)
 
@@ -284,11 +334,11 @@ Tempo completo (35 horas/Semana) - a partir de 1 de janeiro de 2025
 
 | Assistente graduado sénior | p) | 1 | 2 | 3 | 4 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Assistente graduado sénior | n) | 50 | 53 | 56 | 57 |  |  |
+| n) | 50 | 53 | 56 | 57 |  |  |  |
 | Assistente graduado | p) | 1 | 2 | 3 | 4 | 5 | 6 |
-| Assistente graduado | n) | 41 | 45 | 48 | 50 | 51 | 53 |
+| n) | 41 | 45 | 48 | 50 | 51 | 53 |  |
 | Assistente | p) | 1 | 2 | 3 | 4 | 5 |  |
-| Assistente | n) | 34 | 36 | 37 | 39 | 41 |  |
+| n) | 34 | 36 | 37 | 39 | 41 |  |  |
 
 ## ANEXO IV — (a que se refere o n.º 2 do artigo 2.º)
 
@@ -296,11 +346,11 @@ Dedicação exclusiva (42 horas/Semana) - a partir de 1 de janeiro de 2025
 
 | Assistente graduado sénior | p) | 1 | 2 | 3 | 4 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Assistente graduado sénior | n) | 94 | 100 | 105 | 108 |  |  |
+| n) | 94 | 100 | 105 | 108 |  |  |  |
 | Assistente graduado | p) | 1 | 2 | 3 | 4 | 5 | 6 |
-| Assistente graduado | n) | 78 | 86 | 92 | 94 | 97 | 100 |
+| n) | 78 | 86 | 92 | 94 | 97 | 100 |  |
 | Assistente | p) | 1 | 2 | 3 | 4 | 5 |  |
-| Assistente | n) | 64 | 70 | 72 | 75 | 78 |  |
+| n) | 64 | 70 | 72 | 75 | 78 |  |  |
 
 ## ANEXO V — (a que se refere o n.º 3 do artigo 2.º)
 
@@ -308,11 +358,11 @@ Clínicos gerais não habilitados com o grau de generalista, em função do regi
 
 | Dedicação exclusiva (42 horas/semana) | p) | 1 | 2 | 3 | 4 |
 | --- | --- | --- | --- | --- | --- |
-| Dedicação exclusiva (42 horas/semana) | n) | 47 | 50 | 52 | 55 |
+| n) | 47 | 50 | 52 | 55 |  |
 | Dedicação exclusiva (35 horas/semana) | p) | 1 | 2 | 3 | 4 |
-| Dedicação exclusiva (35 horas/semana) | n) | 34 | 37 | 39 | 41 |
+| n) | 34 | 37 | 39 | 41 |  |
 | Tempo completo (35 horas/semana) | p) | 1 | 2 | 3 | 4 |
-| Tempo completo (35 horas/semana) | n) | 24 | 25 | 26 | 28 |
+| n) | 24 | 25 | 26 | 28 |  |
 
 ## ANEXO VI — (a que se refere o artigo 3.º)
 
@@ -329,11 +379,11 @@ Regimes de dedicação plena e de 40 horas/semana - a partir de 1 de janeiro de 
 
 | Assistente graduado sénior | p) | 1 | 2 | 3 |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Assistente graduado sénior | n) | 76 | 86 | 96 |  |  |  |
+| n) | 76 | 86 | 96 |  |  |  |  |
 | Assistente graduado | p) | 1 | 2 | 3 | 4 | 5 | 6 |
-| Assistente graduado | n) | 61 | 63 | 65 | 67 | 69 | 71 |
+| n) | 61 | 63 | 65 | 67 | 69 | 71 |  |
 | Assistente | p) | 1 | 2 | 3 | 4 | 5 | 6 |
-| Assistente | n) | 53 | 55 | 57 | 58 | 59 | 60 |
+| n) | 53 | 55 | 57 | 58 | 59 | 60 |  |
 
 ## ANEXO VIII — [a que se refere a alínea b) do n.º 2 do artigo 5.º]
 
@@ -341,31 +391,31 @@ Dedicação exclusiva (35 horas/semana) - a partir de 1 de janeiro de 2026
 
 | Assistente graduado sénior | p) | 1 | 2 | 3 | 4 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Assistente graduado sénior | n) | 70 | 74 | 77 | 80 |  |  |
+| n) | 70 | 74 | 77 | 80 |  |  |  |
 | Assistente graduado | p) | 1 | 2 | 3 | 4 | 5 | 6 |
-| Assistente graduado | n) | 57 | 63 | 67 | 69 | 71 | 73 |
+| n) | 57 | 63 | 67 | 69 | 71 | 73 |  |
 | Assistente | p) | 1 | 2 | 3 | 4 | 5 |  |
-| Assistente | n) | 43 | 47 | 49 | 52 | 54 |  |
+| n) | 43 | 47 | 49 | 52 | 54 |  |  |
 
 Tempo completo (35 horas/semana) - a partir de 1 de janeiro de 2026
 
 | Assistente graduado sénior | p) | 1 | 2 | 3 | 4 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Assistente graduado sénior | n) | 51 | 54 | 57 | 59 |  |  |
+| n) | 51 | 54 | 57 | 59 |  |  |  |
 | Assistente graduado | p) | 1 | 2 | 3 | 4 | 5 | 6 |
-| Assistente graduado | n) | 42 | 46 | 49 | 51 | 53 | 55 |
+| n) | 42 | 46 | 49 | 51 | 53 | 55 |  |
 | Assistente | p) | 1 | 2 | 3 | 4 | 5 |  |
-| Assistente | n) | 35 | 37 | 38 | 40 | 42 |  |
+| n) | 35 | 37 | 38 | 40 | 42 |  |  |
 
 Dedicação exclusiva (42 horas/semana) - a partir de 1 de janeiro de 2026
 
 | Assistente graduado sénior | p) | 1 | 2 | 3 | 4 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Assistente graduado sénior | n) | 94 | 100 | 105 | 108 |  |  |
+| n) | 94 | 100 | 105 | 108 |  |  |  |
 | Assistente graduado | p) | 1 | 2 | 3 | 4 | 5 | 6 |
-| Assistente graduado | n) | 78 | 86 | 92 | 96 | 99 | 102 |
+| n) | 78 | 86 | 92 | 96 | 99 | 102 |  |
 | Assistente | p) | 1 | 2 | 3 | 4 | 5 |  |
-| Assistente | n) | 64 | 70 | 73 | 76 | 79 |  |
+| n) | 64 | 70 | 73 | 76 | 79 |  |  |
 
 ## ANEXO IX — [a que se refere a alínea a) do n.º 3 do artigo 5.º]
 
@@ -373,11 +423,11 @@ Dedicação exclusiva (42 horas/semana) - a partir de 1 de janeiro de 2026
 
 | Assistente graduado sénior | p) | 1 | 2 | 3 |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Assistente graduado sénior | n) | 76 | 86 | 96 |  |  |  |
+| n) | 76 | 86 | 96 |  |  |  |  |
 | Assistente graduado | p) | 1 | 2 | 3 | 4 | 5 | 6 |
-| Assistente graduado | n) | 64 | 66 | 68 | 70 | 72 | 74 |
+| n) | 64 | 66 | 68 | 70 | 72 | 74 |  |
 | Assistente | p) | 1 | 2 | 3 | 4 | 5 | 6 |
-| Assistente | n) | 55 | 56 | 57 | 58 | 59 | 60 |
+| n) | 55 | 56 | 57 | 58 | 59 | 60 |  |
 
 ## ANEXO X — [a que se refere a alínea b) do n.º 3 do artigo 5.º]
 
@@ -385,28 +435,32 @@ Dedicação exclusiva (35 horas/semana) - a partir de 1 de janeiro de 2027
 
 | Assistente graduado sénior | p) | 1 | 2 | 3 | 4 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Assistente graduado sénior | n) | 70 | 74 | 77 | 80 |  |  |
+| n) | 70 | 74 | 77 | 80 |  |  |  |
 | Assistente graduado | p) | 1 | 2 | 3 | 4 | 5 | 6 |
-| Assistente graduado | n) | 59 | 65 | 69 | 71 | 73 | 75 |
+| n) | 59 | 65 | 69 | 71 | 73 | 75 |  |
 | Assistente | p) | 1 | 2 | 3 | 4 | 5 |  |
-| Assistente | n) | 48 | 50 | 52 | 55 | 57 |  |
+| n) | 48 | 50 | 52 | 55 | 57 |  |  |
 
 Tempo completo (35 horas/semana) - a partir de 1 de janeiro de 2027
 
 | Assistente graduado sénior | p) | 1 | 2 | 3 | 4 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Assistente graduado sénior | n) | 53 | 56 | 59 | 61 |  |  |
+| n) | 53 | 56 | 59 | 61 |  |  |  |
 | Assistente graduado | p) | 1 | 2 | 3 | 4 | 5 | 6 |
-| Assistente graduado | n) | 44 | 48 | 51 | 53 | 55 | 57 |
+| n) | 44 | 48 | 51 | 53 | 55 | 57 |  |
 | Assistente | p) | 1 | 2 | 3 | 4 | 5 |  |
-| Assistente | n) | 38 | 40 | 41 | 43 | 45 |  |
+| n) | 38 | 40 | 41 | 43 | 45 |  |  |
 
 Dedicação exclusiva (42 horas/semana) - a partir de 1 de janeiro de 2027
 
 | Assistente graduado sénior | p) | 1 | 2 | 3 | 4 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Assistente graduado sénior | n) | 94 | 100 | 105 | 108 |  |  |
+| n) | 94 | 100 | 105 | 108 |  |  |  |
 | Assistente graduado | p) | 1 | 2 | 3 | 4 | 5 | 6 |
-| Assistente graduado | n) | 78 | 86 | 92 | 98 | 100 | 103 |
+| n) | 78 | 86 | 92 | 98 | 100 | 103 |  |
 | Assistente | p) | 1 | 2 | 3 | 4 | 5 |  |
-| Assistente | n) | 64 | 70 | 76 | 78 | 81 |  |
+| n) | 64 | 70 | 76 | 78 | 81 |  |  |
+
+118858879
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:18px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl6 { text-align:center; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

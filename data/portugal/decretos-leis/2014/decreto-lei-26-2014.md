@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/26/2014/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2014-572452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a195514449322800025eee5d3c94db49160701e30c5542c263f6e0f7c7111d20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25a9adfe321b6c8cee9d3c7115fffa4505cd29d692ae1b12a365bc32477a64d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência de Turismo
-- Região Autónoma
-- Turismo
+- ASAE
+- Comércio
+- Comércio Eletrónico
 - Direcção Geral do Consumidor
+- Direito de Estabelecimento
 - FGVT
 - Fundo de Garantia de Viagens e Turismo
 - Instituto da Mobilidade e dos Transportes Terrestres
 - Instituto de Turismo de Portugal
-- ASAE
-- Direito de Estabelecimento
 - Proteção do Consumidor
+- Região Autónoma
 - Registo Nacional de Agências de Viagens e Turismo
 - Registo Nacional de Turismo
 - Seguro Obrigatório de Responsabilidade Civil
-- Comércio Eletrónico
 - Taxa
-- Comércio
+- Turismo
 - Viagem de Turismo
 relationships:
 - type: amended_by
@@ -101,13 +101,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:58Z'
   warnings: []
   errors: []
 ---
@@ -152,12 +152,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de dezembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - António de Magalhães Pires de Lima.
 
-**Promulgado em 7 de fevereiro de 2014.**
+Promulgado em 7 de fevereiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 11 de fevereiro de 2014.**
+Referendado em 11 de fevereiro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

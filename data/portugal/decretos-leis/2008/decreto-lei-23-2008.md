@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/23/2008/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2008-248228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e5ab1394a7281dd96ffa7d5edd7aefc7f4da12795bf6f3b79ac8fa385ed5e0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44f0e5c1270a06a6d06d1088c542fe0291571fdde64fafe0ce15fd2fcb855ae3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,27 @@ reuse:
 subjects:
 - Capital Social
 - Centro Hospitalar
+- Centro Hospitalar Lisboa Norte
 - Empresa Pública
+- Estabelecimento Hospitalar
 - Estatuto
 - Hospital de Pulido Valente
 - Hospital de Santa Maria
-- Centro Hospitalar Lisboa Norte
-- Estabelecimento Hospitalar
 relationships:
 - type: amended_by
   target: pt:dre:223906278:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:223906278:por
+  label: Determinada, a partir de 08.11.2023, com efeitos a 01.01.2024, a reestruturação do Centro Hospitalar Universitário
+    de Lisboa Norte, E. P. E., criado como Centro Hospitalar de Lisboa Norte, E. P. E., pelo presente diploma (renomeado Centro
+    Hospitalar Universitário de Lisboa Norte, E. P. E., pelo Dec Lei 61/2018 de 03-ago), com integração do Agrupamento de
+    Centros de Saúde (ACES) Lisboa Norte e do Centro de Saúde de Mafra, atualmente integrado no ACES do Oeste Sul, passando
+    a denominar-se Unidade Local de Saúde de Santa Maria, E. P. E., pelo(a) Decreto-Lei n.º 102/2023 - Diário da República
+    n.º 215/2023, Série I de 2023-11-07 nos termos do art. 7.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2023-223906278
+  date: '2023-11-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
   label: null
@@ -102,16 +112,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:08Z'
   warnings: []
   errors: []
 ---
@@ -180,16 +214,16 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos.
 
-**Promulgado em 28 de Janeiro de 2008.**
+Promulgado em 28 de Janeiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de Janeiro de 2008.**
+Referendado em 29 de Janeiro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/02800/0094600947.pdf))](https://files.diariodarepublica.pt/1s/2008/02/02800/0094600947.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/02800/0094600947.pdf)

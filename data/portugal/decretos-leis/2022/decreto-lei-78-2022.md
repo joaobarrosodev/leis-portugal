@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/21400/0000800020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/78/2022/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2022-203083713
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5bc09bbce24b7dde8e1fad872f4d2ba99c4d678e7c8f69c6eb309cb8c4c3dc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32e76665662177ab77869a35ee91e731ad0d7afc8d07adae1fca283a6089bd20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,13 +72,13 @@ subjects:
 - Aquisição de Bens e Serviços
 - BEM Móvel
 - Caderno de Encargos
+- Código dos Contratos Públicos
+- Concurso Limitado por Prévia Qualificação
 - Concurso Público
+- Contratação Pública
 - Contrato de Concessão
 - Empreitada de Obras Públicas
-- Concurso Limitado por Prévia Qualificação
 - Obras Públicas
-- Código dos Contratos Públicos
-- Contratação Pública
 relationships:
 - type: amended_by
   target: pt:dre:898553932:por
@@ -112,16 +112,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
+- type: cites
+  target: pt:dre:115886130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135391594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163728569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
 article_structure:
-  article_count: 31
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:02Z'
   warnings: []
   errors: []
 ---
@@ -196,31 +212,43 @@ d) (Revogada.)
 
 e) Aplicar o regime especial previsto no artigo seguinte, independentemente do valor do contrato.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O disposto no artigo 2.º aplica-se também, até 31 de dezembro de 2026, à celebração de contratos que se destinem à promoção de habitação pública ou de custos controlados ou à intervenção nos imóveis cuja titularidade e gestão tenha sido transferida para os municípios, no âmbito do processo de descentralização de competências.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 O disposto no artigo 2.º aplica-se também, até 31 de dezembro de 2026, à celebração de contratos que tenham por objeto a locação ou a aquisição de equipamentos informáticos, a aquisição, renovação, prorrogação ou manutenção de licenças ou serviços de software, a aquisição de serviços de computação ou de armazenamento em cloud, assim como a aquisição de serviços de consultoria ou assessoria e a realização de obras públicas associados a processos de transformação digital.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 O disposto no artigo 2.º aplica-se também, até 31 de dezembro de 2026, à celebração de contratos que tenham por objeto a locação ou aquisição de bens móveis, a aquisição de serviços ou a realização de obras públicas e se destinem à construção, renovação ou reabilitação de imóveis no âmbito do setor da saúde, das unidades de cuidados continuados e integrados, e do apoio social no âmbito das pessoas idosas, da deficiência, da infância e da juventude.
 
-###### Artigo 6.º — Procedimentos pré-contratuais relativos à execução do Programa de Estabilização Económica e Social
+Artigo 6.º
+
+Procedimentos pré-contratuais relativos à execução do Programa de Estabilização Económica e Social
 
 1 - O disposto no artigo 2.º aplica-se também à celebração de contratos que se destinem à promoção de intervenções que, por despacho do membro do Governo responsável pelo respetivo setor de atividade, sejam consideradas integradas no âmbito do Programa de Estabilização Económica e Social, aprovado em anexo à [Resolução do Conselho de Ministros n.º 41/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-2020-135391594), de 6 de junho.
 
 2 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As entidades adjudicantes podem iniciar procedimentos de ajuste direto ou de consulta prévia, nos termos do Código dos Contratos Públicos, para a celebração de contratos que tenham por objeto a locação ou a aquisição de bens, a aquisição de serviços ou a realização de empreitadas necessárias para a gestão dos combustíveis no âmbito do SGIFR, quando o valor do contrato seja, simultaneamente, inferior aos limiares referidos nas alíneas a), b) ou c) do n.º 3 ou a) ou b) do n.º 4 do artigo 474.º do mesmo Código, consoante o caso, e inferior a (euro) 750 000.
 
 2 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -292,7 +320,9 @@ b) A decisão de escolha do ajuste direto só pode ser tomada no prazo de seis m
 
 10 - [...]
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...]
 
@@ -316,7 +346,9 @@ f) Em anterior concurso público ou concurso limitado por prévia qualificação
 
 5 - Na hipótese prevista na alínea f) do n.º 1, a entidade adjudicante pode não publicar os anúncios a que se referem os artigos 197.º e 208.º se convidar a apresentar candidaturas todos e exclusivamente os concorrentes do anterior concurso cujas propostas tenham sido excluídas apenas com fundamento na segunda parte da alínea a) ou nas alíneas b) a g) do n.º 2 do artigo 70.º
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...]
 
@@ -368,7 +400,9 @@ l) [...]
 
 13 - Os cadernos de encargos dos procedimentos de formação de contratos de concessão de obras públicas, de concessão de serviços públicos e de aquisição de serviços devem incluir uma cláusula determinando a obrigatoriedade de cumprimento do disposto no artigo 419.º-A.
 
-###### Artigo 54.º-A — [...]
+Artigo 54.º-A
+
+[...]
 
 1 - [...]
 
@@ -384,7 +418,9 @@ c) Entidades com sede e atividade efetiva no território da entidade intermunici
 
 2 - [...]
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - [...]
 
@@ -412,7 +448,9 @@ g) [...]
 
 6 - [...]
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - [...]
 
@@ -430,7 +468,9 @@ c) A falta ou insuficiência da assinatura, incluindo a assinatura eletrónica, 
 
 5 - [...]
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - [...]
 
@@ -460,7 +500,9 @@ d) Sustentabilidade ambiental ou social do modo de execução do contrato, desig
 
 10 - [...]
 
-###### Artigo 146.º — [...]
+Artigo 146.º
+
+[...]
 
 1 - [...]
 
@@ -500,7 +542,9 @@ o) [...]
 
 5 - [...]
 
-###### Artigo 295.º — [...]
+Artigo 295.º
+
+[...]
 
 1 - [...]
 
@@ -532,13 +576,17 @@ e) [...]
 
 10 - [...]
 
-###### Artigo 335.º — [...]
+Artigo 335.º
+
+[...]
 
 1 - O contraente público tem o direito de resolver o contrato com fundamento na alteração anormal e imprevisível das circunstâncias, nos termos do disposto na alínea b) do artigo 312.º
 
 2 - [...]
 
-###### Artigo 370.º — [...]
+Artigo 370.º
+
+[...]
 
 1 - São trabalhos complementares aqueles cuja espécie ou quantidade não esteja prevista no contrato e cuja realização se revele necessária para a sua execução.
 
@@ -558,7 +606,9 @@ d) [...]
 
 5 - [...]
 
-###### Artigo 397.º — [...]
+Artigo 397.º
+
+[...]
 
 1 - [...]
 
@@ -580,7 +630,9 @@ c) 3 anos, no caso de defeitos relativos a equipamentos afetos à obra, mas dela
 
 7 - [...]
 
-###### Artigo 444.º — [...]
+Artigo 444.º
+
+[...]
 
 1 - [...]
 
@@ -592,13 +644,17 @@ c) 3 anos, no caso de defeitos relativos a equipamentos afetos à obra, mas dela
 
 5 - O prazo da garantia a que se refere o número anterior não deve exceder três anos, podendo ser superior quando, tratando-se de aspeto da execução do contrato submetido à concorrência pelo caderno de encargos, o fornecedor o tenha proposto.
 
-###### Artigo 451.º — [...]
+Artigo 451.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - É ainda aplicável aos contratos de aquisição de serviços o disposto no artigo 419.º-A.
 
-###### Artigo 456.º — [...]
+Artigo 456.º
+
+[...]
 
 [...]
 
@@ -614,7 +670,9 @@ e) [...]
 
 f) A contratação de trabalhadores em violação do disposto no artigo 419.º-A.
 
-###### Artigo 457.º — [...]
+Artigo 457.º
+
+[...]
 
 [...]
 
@@ -666,7 +724,9 @@ Documento demonstrativo da estrutura de custos do trabalho
 
 5 - Os termos de elaboração do documento previsto no n.º 1 são regulamentados por portaria dos membros do Governo responsáveis pelas áreas da administração pública e do trabalho.
 
-###### Artigo 419.º-A — Trabalhadores afetos à concessão
+Artigo 419.º-A
+
+Trabalhadores afetos à concessão
 
 1 - Os trabalhadores afetos a concessões cujo prazo seja superior a um ano prestam a sua atividade em regime de contrato de trabalho sem termo.
 
@@ -694,12 +754,14 @@ O presente decreto-lei entra em vigor no primeiro dia útil do mês seguinte ao 
 
 Visto e aprovado em Conselho de Ministros de 20 de outubro de 2022. - Mariana Guimarães Vieira da Silva - Mariana Guimarães Vieira da Silva - Elvira Maria Correia Fortunato - Marina Sola Gonçalves.
 
-**Promulgado em 25 de outubro de 2022.**
+Promulgado em 25 de outubro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de outubro de 2022.**
+Referendado em 28 de outubro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115836484

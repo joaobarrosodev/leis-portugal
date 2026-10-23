@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/257-1974-411841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T04:23:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60260a995cc29b8f970fe46b20339699a22e0908a4f85a30192ecc9f276aad49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0733a4d0f26e2f6e4692079209f11f89cca287ed4f6db6a580c4204bed620bf4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:23:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:684793:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:23:07Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +94,11 @@ Sendo conveniente facultar iguais possibilidades aos professores de posto escola
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º 3 da base LXXVI da Lei Orgânica do Ultramar Português, que sejam aplicados nas províncias ultramarinas os artigos 3.º, 4.º e 5.º do [Decreto-Lei n.º 67/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1973-684793), de 26 de Fevereiro, com a seguinte redacção:
 
-###### Art. 3.º - 1. É instituído nas escolas do magistério primário um curso intensivo destinado a possibilitar o ingresso no curso do magistério primário aos professores de posto que não possuam as habilitações exigidas.
+Art. 3.º - 1. É instituído nas escolas do magistério primário um curso intensivo destinado a possibilitar o ingresso no curso do magistério primário aos professores de posto que não possuam as habilitações exigidas.
 
 2. O Ministro do Ultramar regulamentará por portaria as condições de admissão e de frequência, bem como o plano do curso referido no número anterior.
 
-###### Art. 4.º - 1. Podem ser admitidos no curso referido no artigo anterior os professores de posto contratados que tenham prestado serviço docente qualificado de Suficiente pelo menos durante três anos.
+Art. 4.º - 1. Podem ser admitidos no curso referido no artigo anterior os professores de posto contratados que tenham prestado serviço docente qualificado de Suficiente pelo menos durante três anos.
 
 2. Durante a frequência do curso mencionado no artigo anterior e durante o curso das escolas do magistério primário, os professores de posto manterão os vencimentos do seu cargo.
 
@@ -102,7 +106,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 4. O número máximo de professores de posto a admitir nos termos deste artigo e o número de vagas em cada escola serão fixados anualmente por despacho do Governador da província.
 
-###### Art. 5.º - 1. As disciplinas do curso a que se referem os artigos anteriores podem ser regidas por professores das escolas do magistério primário, dentro do seu horário obrigatório, ou, não sendo possível, em regime de horas extraordinárias.
+Art. 5.º - 1. As disciplinas do curso a que se referem os artigos anteriores podem ser regidas por professores das escolas do magistério primário, dentro do seu horário obrigatório, ou, não sendo possível, em regime de horas extraordinárias.
 
 2. No caso de as disciplinas do curso referido não poderem ser ministradas por professores das escolas do magistério, serão nomeados para assegurar a sua regência professores dos grupos correspondentes dos ensinos preparatório e secundário, em regime de horas extraordinárias.
 

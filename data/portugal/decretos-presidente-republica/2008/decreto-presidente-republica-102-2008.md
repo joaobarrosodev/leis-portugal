@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/102/2008/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/102-2008-452766
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T04:59:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d902ff0b1e911fdb7e6b4eb98e2ec2c21bc5dfedc1095c54eec8cb382dc97295
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee5b3b6e0c72726f010e440db62148989fe4e033920caf03b21891091aebc385
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:59:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exoneração
 - Embaixador
+- Exoneração
 - Praga
 - República Checa
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:59:37Z'
   warnings: []
   errors: []
 ---
@@ -88,16 +88,16 @@ validation:
 
 de 10 de Outubro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É exonerado, sob proposta do Governo, o embaixador Fernando Manuel Oliveira de Castro Brandão do cargo de Embaixador de Portugal em Praga, por passar à disponibilidade, com efeitos a partir de 7 de Novembro de 2008.
 
-**Assinado em 15 de Setembro de 2008.**
+Assinado em 15 de Setembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 2 de Outubro de 2008.**
+Referendado em 2 de Outubro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado.

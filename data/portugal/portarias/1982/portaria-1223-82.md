@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/29800/42414246.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1223-1982-380737
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T07:05:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eca9962ba3626dbdfcacd8ca6b78f951fc66dedae2b37710a0da106b8e565306
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad63ac6648fe627809af1b762c0985c12c7c16b50ac09c0293cd453f0f6f3569
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:05:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Médica
+- Carreira Médica Hospitalar
+- Clínica Geral
+- Diploma
+- Ensino Médico
+- Formação Profissional
+- Internato Geral
+- Médico
+- Regime Jurídico
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:676200:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:655962:por
+  label: "Alterado o n.º 1 do artigo 11.º, os n.ºs 1 e 2 do artigo 13.º e revogados os n.ºs 2 e 3 do artigo 3.º, pela PORT.30-A/86.22.01.1986.MS,\
+    \ DR.IS [18]Supl de 22.01.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/30-a-1986-655962
+  date: '1986-01-22'
+- type: amended_by
+  target: pt:dre:495734:por
+  label: "Substituído o modelo de diploma previsto e publicado em anexo ao artigo 14.º do Regulamento, pela PORT.804/87.21.09.1987.MS,\
+    \ DR.IS [217] de 21.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/804-1987-495734
+  date: '1987-09-21'
+- type: amended_by
+  target: pt:dre:499043:por
+  label: "Mantido em vigor o disposto no presente diploma pela PORT.902/87.26.11.1987.MS, DR.IS [273] de 26.11.1987, em tudo\
+    \ o que não fôr contrariado pela mesma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/902-1987-499043
+  date: '1987-11-26'
+- type: cites
+  target: pt:dre:201048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADOS OS NUM 1, 2, 3, 6 E 7 DO ART 2 DO REGULAMENTO E EXTINTAS A COMISSAO NACIONAL E AS COMISSOES REGIONAIS DO
+    INTERNATO GERAL (SUBSTITUIDAS RESPECTIVAMENTE PELA COMISSAO NACIONAL DOS INTERNATOS MÉDICOS E COMISSOES REGIONAIS DOS
+    INTERNATOS MEDICOS) PELA PORT 598/84 DE 11-AGO DR.IS [186]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-08-11'
+- type: repealed_by
+  target: pt:dre:674470:por
+  label: "Revogados os artigos 6.º a 8.º do Regulamento, pela PORT.1334/95.09.11.1995.MS, DR.IS-B [259] de 09.11.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1334-1995-674470
+  date: '1995-11-09'
+- type: repealed_by
+  target: pt:dre:676200:por
+  label: "Revogada pela PORT.183/2006.22.02.2006.MS, DR.IS-B [38] de 22.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/183-2006-676200
+  date: '2006-02-22'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:05:49Z'
   warnings: []
   errors: []
 ---
@@ -448,4 +501,4 @@ Ministério dos Assuntos Sociais, 3 de Dezembro de 1982. - Pelo Ministro dos Ass
 
 Modelo de diploma anexo ao artigo 14.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29800/42414246.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29800/42414246.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29800/42414246.pdf)

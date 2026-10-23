@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/129/2003/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2003-693461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50ca1602323efb3ab200201d5242fad18d5950374d1ef1bb91603e973e6c047a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37768a3b35fe2e057287a1c30936e0786aa7701343b81876009c011f62c6e2a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho de Administração
-- Fundação
 - Estatuto
+- Fundação
 - Fundação de Serralves
 - Museu
 - Porto
@@ -80,16 +80,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/256/1994/10/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/256/1994/10/22/p/dre
+- type: cites
+  target: pt:dre:175573:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626220:por
+  label: null
+  source: null
 article_structure:
-  article_count: 44
+  article_count: 39
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:27Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +140,7 @@ Os artigos 11.º, 12.º, 13.º, 14.º, 26.º e 27.º dos Estatutos da Fundação
 
 2 - Nenhum administrador poderá exercer mais de três mandatos consecutivos, salvo o disposto no n.º 3 do artigo 14.º
 
-###### Artigo 12.º
+Artigo 12.º
 
 1 - No mês de Dezembro do último ano de cada mandato, o conselho de administração deverá designar, por voto secreto e por maioria absoluta dos seus membros, dois novos administradores para substituição, a partir de 1 de Janeiro do ano seguinte, dos dois membros mais antigos, ou dos dois mais velhos, em caso de antiguidade coincidente.
 
@@ -140,7 +152,7 @@ b) Se, no mandato em curso, tiver ocorrido eleição antecipada de novos membros
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 13.º
+Artigo 13.º
 
 1 - Sem prejuízo do disposto no n.º 4 do artigo seguinte, abrindo-se vaga no conselho de administração, deverá este prover ao seu preenchimento através de deliberação tomada pela maioria absoluta dos restantes membros, expressa por voto secreto.
 
@@ -148,7 +160,7 @@ b) Se, no mandato em curso, tiver ocorrido eleição antecipada de novos membros
 
 3 - Se as vagas não preenchidas em determinado momento forem iguais ou superiores a cinco, observar-se-á para o seu preenchimento o disposto na alínea b) do n.º 1 do artigo 27.º
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - ...
 
@@ -158,13 +170,13 @@ b) Se, no mandato em curso, tiver ocorrido eleição antecipada de novos membros
 
 4 - Verificando-se a cessação antecipada de funções por parte do presidente, proceder-se-á a nova eleição nos termos dos n.os 1 e 2 do presente artigo, não contando para a antiguidade do novo presidente o mandato que se encontre em curso se deste tiverem decorrido mais de 18 meses.
 
-###### Artigo 26.º
+Artigo 26.º
 
 1 - ...
 
 2 - Constituído o novo conselho de administração, nos termos do número anterior, o respectivo mandato será de três anos civis completos, não se contando o ano da sua designação se deste tiverem decorrido mais de seis meses.
 
-###### Artigo 27.º
+Artigo 27.º
 
 1 - ...
 
@@ -176,15 +188,15 @@ b) Se, no mandato em curso, tiver ocorrido eleição antecipada de novos membros
 
 Visto e aprovado em Conselho de Ministros de 27 de Maio de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Pedro Manuel da Cruz Roseta.
 
-**Promulgado em 20 de Junho de 2003.**
+Promulgado em 20 de Junho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Junho de 2003.**
+Referendado em 23 de Junho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — ESTATUTOS DA FUNDAÇÃO DE SERRALVES
 

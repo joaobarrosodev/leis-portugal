@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/441-1980-472120
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 414801a7c8e36d8578e8a159db87061b2b6813097b1aa518b946fe6f86f3f30d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d3946ed69cec5f98add4a30b90e2c2572fa7476624fd9f95cf77f638f2b30a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ministério das Obras Públicas e Comunicações
+- OBRA Social
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644286:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:470633:por
+  label: Rectificada pela DECL.DD6937.12.08.1980.PCM, DR.IS [185] de 12.08.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-470633
+  date: '1980-08-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:41Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +107,9 @@ A evolução sofrida justifica a necessidade de revisão da sua lei orgânica, g
 
 Manda o Governo da República Portuguesa, pelos Ministros da Habitação e Obras Públicas e dos Transportes e Comunicações:
 
-###### Artigo 1.º Os artigos 5.º, 6.º, 9.º, 11.º, 15.º, 16.º e 38.º da [Portaria n.º 225/71](https://diariodarepublica.pt/dr/detalhe/portaria/225-1971-644286), de 1 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 5.º, 6.º, 9.º, 11.º, 15.º, 16.º e 38.º da [Portaria n.º 225/71](https://diariodarepublica.pt/dr/detalhe/portaria/225-1971-644286), de 1 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 5.º - 1 - A direcção da Obra Social será constituída por um presidente e três vogais.
+Art. 5.º - 1 - A direcção da Obra Social será constituída por um presidente e três vogais.
 
 2 - O presidente e um dos vogais serão nomeados, por livre escolha do Ministro da Habitação e Obras Públicas, de entre funcionários do MHOP licenciados em curso adequado e de reconhecida competência para o exercício do cargo.
 
@@ -101,7 +117,7 @@ Manda o Governo da República Portuguesa, pelos Ministros da Habitação e Obras
 
 4 - O presidente e os vogais terão o vencimento correspondente às categorias de director-geral e de chefe de divisão, respectivamente.
 
-###### Art. 6.º - 1 - A direcção terá uma sessão ordinária por semana, para apreciação dos assuntos que, pela sua complexidade, o presidente ou a maioria dos seus vogais entenda dever submeter-lhe e as extraordinárias que forem convocadas pelo presidente.
+Art. 6.º - 1 - A direcção terá uma sessão ordinária por semana, para apreciação dos assuntos que, pela sua complexidade, o presidente ou a maioria dos seus vogais entenda dever submeter-lhe e as extraordinárias que forem convocadas pelo presidente.
 
 2 - As deliberações serão tomadas por maioria de votos, tendo o presidente voto de qualidade.
 
@@ -111,11 +127,11 @@ Manda o Governo da República Portuguesa, pelos Ministros da Habitação e Obras
 
 ...
 
-###### Art. 9.º O presidente será substituído nas suas faltas e impedimentos pelo vogal que o presidente designar.
+Art. 9.º O presidente será substituído nas suas faltas e impedimentos pelo vogal que o presidente designar.
 
 ...
 
-###### Art. 11.º - 1 - O conselho consultivo integrará os organismos cujos funcionários sejam beneficiários de pleno direito da Obra Social e será constituído pelo presidente do Conselho Superior de Obras Públicas e Transportes, que presidirá, pelos secretários-gerais, directores-gerais e equiparados dos Ministérios da Habitação e Obras Públicas e dos Transportes e Comunicações, desde que não façam parte dos restantes órgãos de administração, sendo, neste caso, representados pelos seus substitutos legais, e ainda por três entidades a designar, duas pelo Ministro da Habitação e Obras Públicas e uma pelo Ministro dos Transportes e Comunicações.
+Art. 11.º - 1 - O conselho consultivo integrará os organismos cujos funcionários sejam beneficiários de pleno direito da Obra Social e será constituído pelo presidente do Conselho Superior de Obras Públicas e Transportes, que presidirá, pelos secretários-gerais, directores-gerais e equiparados dos Ministérios da Habitação e Obras Públicas e dos Transportes e Comunicações, desde que não façam parte dos restantes órgãos de administração, sendo, neste caso, representados pelos seus substitutos legais, e ainda por três entidades a designar, duas pelo Ministro da Habitação e Obras Públicas e uma pelo Ministro dos Transportes e Comunicações.
 
 2 - Os secretários-gerais, directores-gerais e equiparados referidos no número anterior poderão ser substituídos por representantes por eles designados, de categoria não inferior a chefe de divisão.
 
@@ -123,7 +139,7 @@ Manda o Governo da República Portuguesa, pelos Ministros da Habitação e Obras
 
 ...
 
-###### Art. 15.º - 1 - O presidente e os vogais que compõem a direcção desempenharão as suas funções em regime de comissão de serviço, sendo os respectivos encargos suportados pelo orçamento da Obra Social.
+Art. 15.º - 1 - O presidente e os vogais que compõem a direcção desempenharão as suas funções em regime de comissão de serviço, sendo os respectivos encargos suportados pelo orçamento da Obra Social.
 
 2 - A comissão de serviço dos vogais terá a duração de três anos, renovável, sendo o seu recrutamento efectuado pela forma prevista na alínea b) do n.º 2, n.º 3 e n.º 4 do artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
@@ -131,15 +147,15 @@ Manda o Governo da República Portuguesa, pelos Ministros da Habitação e Obras
 
 4 - Para obrigar a Obra Social são necessárias as assinaturas do presidente da direcção e de um dos vogais, podendo aquele ser substituído pelo vogal que designar.
 
-###### Art. 16.º - 1 - Compete ao chefe dos serviços administrativos dar andamento às deliberações da direcção que respeitem às atribuições dos serviços administrativos sobre que superintende.
+Art. 16.º - 1 - Compete ao chefe dos serviços administrativos dar andamento às deliberações da direcção que respeitem às atribuições dos serviços administrativos sobre que superintende.
 
 2 - O chefe dos serviços administrativos participará nas reuniões da direcção, sem, contudo, ter direito a voto.
 
 ...
 
-###### Art. 38.º As receitas e despesas serão, em regra, movimentadas por meio de cheques, assinados pelo presidente da direcção e por um dos vogais.
+Art. 38.º As receitas e despesas serão, em regra, movimentadas por meio de cheques, assinados pelo presidente da direcção e por um dos vogais.
 
-###### Art. 2.º - 1 - As deliberações da Obra Social terão a seguinte composição:
+Art. 2.º - 1 - As deliberações da Obra Social terão a seguinte composição:
 
 a) Um director, nomeado pelo Ministro da Habitação e Obras Públicas de entre funcionário do MHOP de reconhecida competência para o exercício do cargo, com vencimento correspondente à categoria de chefe de repartição;
 
@@ -151,6 +167,6 @@ b) Um vogal, nomeado pelo Ministro dos Transportes e Comunicações de entre fun
 
 4 - As receitas e despesas das delegações serão movimentadas por meio de cheques, assinados pelo director e pelo vogal. Em caso de ausência ou impedimento de um dos membros, os cheques serão também assinados pelo funcionário da delegação responsável pelos serviços administrativos.
 
-###### Art. 3.º As alterações constantes desta portaria entram em vigor no dia imediato ao da sua publicação, continuando, no entanto, as actuais comissões administrativas dos serviços centrais e das delegações no exercício de funções até à tomada de posse dos membros a que se refere a presente portaria.
+Art. 3.º As alterações constantes desta portaria entram em vigor no dia imediato ao da sua publicação, continuando, no entanto, as actuais comissões administrativas dos serviços centrais e das delegações no exercício de funções até à tomada de posse dos membros a que se refere a presente portaria.
 
 Ministérios da Habitação e Obras Públicas e dos Transportes e Comunicações, 10 de Julho de 1980. - O Ministro da Habitação e Obras Públicas, João Lopes Porto. - O Ministro dos Transportes e Comunicações, José Carlos Pinto Soromenho Viana Baptista.

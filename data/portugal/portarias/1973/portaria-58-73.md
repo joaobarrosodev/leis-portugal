@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/58-1973-683258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T04:10:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9aa82ddd8517a528e8862fdc1427cffdac5365b18c811e072284c9dd779740f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29fce43de79eaa130342aaefff87e0c802f5894e5d271d358d1481a31e7ace64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:10:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:10:08Z'
   warnings: []
   errors: []
 ---
@@ -93,6 +93,6 @@ Manda o Governo da República Portuguesa, pelo Ministro do Interior:
 
 Ministério do Interior, 17 de Dezembro de 1972. - O Ministro do Interior, António Manuel Gonçalves Rapazote.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/01/02600/01420142.pdf))](https://files.diariodarepublica.pt/1s/1973/01/02600/01420142.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/01/02600/01420142.pdf)
 
-**O Ministro do Interior, António Manuel Gonçalves Rapazote.**
+O Ministro do Interior, António Manuel Gonçalves Rapazote.

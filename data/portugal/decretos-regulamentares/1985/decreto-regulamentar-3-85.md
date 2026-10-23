@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1985-622284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T06:11:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0027692f21492f7e2fd512cdd4ca92ba498b03bf401b854c0881dffd5d0bfcd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c41adc61d6033fb0db6bd922648ab7c53a01d3d7b65c4c98b0296963a82a4af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:11:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caminhos de Ferro Portugueses
+- Guarda
+- Normas de Segurança
+- Transporte Ferroviário
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:264553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:11:14Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +114,9 @@ Tendo em consideração o disposto no n.º 4 do artigo 30.º do Regulamento de E
 
 o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Até à aprovação dos planos ou anteplanos de ampliação das infra-estruturas da estação da Guarda serão consideradas áreas non aedificandi as faixas de terreno confinantes com a linha férrea (à direita e à esquerda), conforme os limites e distâncias expressos no desenho L-009 055, anexo a este diploma, e referidos ao eixo da via actual, também descritos no quadro anexo.
+Artigo 1.º Até à aprovação dos planos ou anteplanos de ampliação das infra-estruturas da estação da Guarda serão consideradas áreas non aedificandi as faixas de terreno confinantes com a linha férrea (à direita e à esquerda), conforme os limites e distâncias expressos no desenho L-009 055, anexo a este diploma, e referidos ao eixo da via actual, também descritos no quadro anexo.
 
-###### Art. 2.º - 1 - A implantação de edifícios, arruamentos, infra-estruturas ou quaisquer tipos de ampliação, construção ou reconstrução, bem como plantações não anuais, na área referida no artigo anterior fica sujeita, caso a caso, a autorização e aprovação especial do director-geral de Transportes Terrestres, sob parecer dos Caminhos de Ferro Portugueses.
+Art. 2.º - 1 - A implantação de edifícios, arruamentos, infra-estruturas ou quaisquer tipos de ampliação, construção ou reconstrução, bem como plantações não anuais, na área referida no artigo anterior fica sujeita, caso a caso, a autorização e aprovação especial do director-geral de Transportes Terrestres, sob parecer dos Caminhos de Ferro Portugueses.
 
 2 - Quando se reconhecer que não há inconveniente para o interesse público ferroviário, poderá ser consentida vedação provisória pela linha que divide o terreno particular do chão do domínio público, sem observância das distâncias referidas no artigo 1.º e respeitando-se, tanto quanto possível, a regularidade do alinhamento.
 
@@ -119,18 +132,18 @@ c) Renunciarem os proprietários a qualquer indemnização, no caso de futura ex
 
 5 - A renúncia assumida pelos proprietários, nos termos da alínea c) do número anterior, está sujeita a registo.
 
-###### Art. 3.º Os limites e distâncias das áreas non aedificandi definidos no artigo 1.º serão revistos, decorridos 5 anos, para o que se tomará em consideração a evolução dos estudos de projectadas ampliações.
+Art. 3.º Os limites e distâncias das áreas non aedificandi definidos no artigo 1.º serão revistos, decorridos 5 anos, para o que se tomará em consideração a evolução dos estudos de projectadas ampliações.
 
 Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - João Rosado Correia.
 
-**Promulgado em 6 de Dezembro de 1984.**
+Promulgado em 6 de Dezembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Dezembro de 1984.**
+Referendado em 7 de Dezembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/00800/00570060.pdf))](https://files.diariodarepublica.pt/1s/1985/01/00800/00570060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/00800/00570060.pdf)

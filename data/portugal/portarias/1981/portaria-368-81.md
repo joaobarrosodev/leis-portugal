@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/368-1981-573348
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T06:44:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 315a8413ca9a4592622924392f5c4bd61c502c29b34fcdd70f2190c890a5d80c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88b7e88a9165c80794fe3afda512e09cd94e325d72ad479b28962c7fc64f6529
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:44:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cunhagem de Moeda
+- Imprensa Nacional-Casa da Moeda
+- Produto em Madeira
+- Região Autónoma
+relationships:
+- type: cites
+  target: pt:dre:470785:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:44:29Z'
   warnings: []
   errors: []
 ---
@@ -101,4 +109,4 @@ O verso e anverso das moedas em causa serão em tudo conformes com os desenhos q
 
 Ministério das Finanças e do Plano, 8 de Abril de 1981. - Pelo Ministro das Finanças e do Plano, António José Nunes Loureiro Borges, Secretário de Estado Adjunto do Ministro das Finanças e do Plano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10200/10481049.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10200/10481049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10200/10481049.pdf)

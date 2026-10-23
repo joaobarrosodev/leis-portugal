@@ -46,36 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/15-1988-285752
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T07:39:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b415c8d0e683650191162d2292d9b25097e32609b63621117cc1de908ea7242d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dafcfd2989255e62c0278b6c2ae78d4ce60b9637c1cf99c5b95f41facaf1fe03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:39:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ave de Capoeira
+- Contingentação
+- Importação
+- OVO
+relationships:
+- type: cites
+  target: pt:dre:214005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214552:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546420:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:39:25Z'
   warnings: []
   errors: []
 ---
@@ -86,11 +110,11 @@ No âmbito da Organização dos Mercados das Aves e dos Ovos e relativamente aos
 
 1 - Os montantes dos contingentes de importação relativos aos produtos avícolas para o período compreendido entre 1 de Janeiro e 31 de Dezembro de 1988 são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06700/12031204.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06700/12031204.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06700/12031204.pdf)
 
 2 - O montante dos contingentes para os produtos referidos no n.º 1 deste despacho para as Regiões Autónomas dos Açores e da Madeira para o período compreendido entre 1 de Janeiro e 31 de Dezembro de 1988 é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06700/12031204.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06700/12031204.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06700/12031204.pdf)
 
 3 - Os pedidos deverão ser formulados através do preenchimento de licença de importação e apresentados, no continente, na Direcção-Geral do Comércio Externo, em carta registada com aviso de recepção, ou entregues contra recibo no piso 0, Divisão de Licenciamento e Registo Prévio, Avenida da República, 79, Lisboa, e nas Regiões Autónomas, nos serviços de comércio externo respectivos, até dez dias após a publicação do presente despacho.
 

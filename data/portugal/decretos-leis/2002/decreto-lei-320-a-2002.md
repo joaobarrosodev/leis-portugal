@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 301/2002, 5º Suplemento, Série I-A de 2002-12-30
   number: '301'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 8186-(658) a 8186-(658)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/12/301a05/06580658.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/320-a/2002/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-a-2002-306915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:35:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5113e26a0bfdbbee1d0aa341edd62825b134a2e34f4e6a87c90c3f4270ea0fa3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 715bb3dcc051c38a8790529e10c40b6fe6202540c97ebf4ebb0e57979bbcad53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:35:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - Defensor do Contribuinte
 - Extinção de Serviços
-- Secretaria Geral
 - Ministério das Finanças
 - Provedoria de Justiça
+- Secretaria Geral
 - Transferência de Pessoal
 - Transferência Patrimonial
 relationships:
@@ -77,6 +77,37 @@ relationships:
   target: pt:dre:513603:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterado o art. 63.º-B da Lei Geral Tributária aprovada pelo Dec Lei 398/98, de 17-Dez, na redacção do presente\
+    \ diploma, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 63.º-B, da Lei Geral Tributária, aprovada pelo Dec Lei 398/98 de 17-Dez, na redacção do presente\
+    \ diploma, republicado pelo Dec Lei 15/2001 de 05-Jun, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:488505:por
+  label: "Alterado o art. 63º-B da Lei Geral Tributária, aprovada pelo Dec Lei 398/98 de 17-Dez, na redacção do presente diploma,\
+    \ pela LEI.94/2009.01.09.2009.AR, DR.IS [169] de 01.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/94-2009-488505
+  date: '2009-09-01'
+- type: amended_by
+  target: pt:dre:344257:por
+  label: "Alterado o art. 63º-B da Lei Geral Tributária, aprovada pelo Dec Lei 398/98 de 17-Dez, na redacção do presente diploma,\
+    \ republicada pela Lei 15/2001 de 05-Jun, pela LEI.37/2010.02.09.2010.AR, DR.IS [171] de 02.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2010-344257
+  date: '2010-09-02'
+- type: amended_by
+  target: pt:dre:513603:por
+  label: "Dada nova redação, com efeitos a 01.10.2013, ao art. 63º-B da Lei Geral Tributária, aprovada pelo Dec Lei 398/98\
+    \ de 17-dez, alterada pelo presente diploma, pelo DEC LEI.71/2013.30.05.2013.MF, DR.IS [104] de 30.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-2013-513603
+  date: '2013-05-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/158/1996/09/03/p/dre
   label: null
@@ -97,16 +128,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/30-g/2000/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30-g/2000/12/29/p/dre
+- type: cites
+  target: pt:dre:180473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241227:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:35:24Z'
   warnings: []
   errors: []
 ---
@@ -165,12 +216,12 @@ d) O n.º 9 do artigo 63.º-B da Lei Geral Tributária, aprovada pelo [Decreto-L
 
 Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 27 de Dezembro de 2002.**
+Promulgado em 27 de Dezembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Dezembro de 2002.**
+Referendado em 30 de Dezembro de 2002.
 
 Pelo Primeiro-Ministro, Maria Manuela Dias Ferreira Leite, Ministra de Estado e das Finanças.

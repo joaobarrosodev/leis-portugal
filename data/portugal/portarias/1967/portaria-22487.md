@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22487-1967-500727
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2795e551956c8f43838a8223416040465237cf86c72d6f85192c0a7bb5a1fd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d635548363a9bfa022e7569fac0cb48b8e6de5593ad617f1cdecd009c8e820d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:38Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +105,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 Despesa extraordinária:
 
-###### Artigo 2608.º, n.º 4), alínea n) «Outras despesas extraordinárias - Diversos - Segurança pública - Despesas com as companhias móveis»:
+Artigo 2608.º, n.º 4), alínea n) «Outras despesas extraordinárias - Diversos - Segurança pública - Despesas com as companhias móveis»:
 
 N.º 1) Vencimentos ... 300000$00
 
@@ -111,17 +123,17 @@ Corpo de Polícia de Segurança Pública
 
 Despesas com o pessoal:
 
-###### Artigo 604.º, n.º 3) «Remunerações certas ao pessoal em exercício - Pessoal assalariado» ... 100000$00
+Artigo 604.º, n.º 3) «Remunerações certas ao pessoal em exercício - Pessoal assalariado» ... 100000$00
 
 Serviços de economia e estatística geral
 
 Despesas com o pessoal:
 
-###### Artigo 981.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 100000$00
+Artigo 981.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 100000$00
 
 ### CAPÍTULO 12.º — Despesa extraordinária
 
-###### Artigo 2608.º, n.º 4), alínea n), n.º 3) «Outras despesas extraordinárias - Segurança pública - Despesas com as companhias móveis - Subsídio para renda de casa» ... 200000$00
+Artigo 2608.º, n.º 4), alínea n), n.º 3) «Outras despesas extraordinárias - Segurança pública - Despesas com as companhias móveis - Subsídio para renda de casa» ... 200000$00
 
 ... 400000$00
 

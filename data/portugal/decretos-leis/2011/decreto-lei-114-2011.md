@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/114/2011/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b7912856efb6cb5227d3874caba7676a9bc047dc63753601255f13ab8ba3635
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ab3c368844d667c5c6bc29949a8cd0afc59f7162d237c5eabdc437fcdccc15b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,68 +66,154 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
+- Administração Pública
 - Alvará
-- Proteção Civil
-- Incêndio
-- Património
-- Sociedade Comercial
-- Jogos de Fortuna e Azar
-- Estabelecimento de Jogos
-- Multa
+- Apostas Mútuas Desportivas
+- Autoridade Nacional de Protecção Civil
+- Autoridade Nacional de Segurança Rodoviária
+- Câmara Municipal
+- Catástrofe
 - Comando Distrital de Operações de Socorro
 - Concurso
-- Instituto da Droga e da Toxicodependência
-- Direcção Geral de Reinserção Social
 - Contra-ordenação
+- Direcção Geral de Reinserção Social
 - Direcção Geral dos Impostos
 - Dispositivo de Alarme
 - Empréstimo
-- Administração Pública
-- Lisboa
-- Catástrofe
+- Estabelecimento de Jogos
+- GNR
 - Governador Civil
-- Instituto da Mobilidade e dos Transportes Terrestres
+- Governo Civil
+- IAPMEI
+- Incêndio
 - Inspeção Geral da Administração Interna
+- Instituto da Droga e da Toxicodependência
+- Instituto da Mobilidade e dos Transportes Terrestres
 - Instituto de Gestão Financeira da Segurança Social
 - Instituto de Seguros de Portugal
+- Jogos de Fortuna e Azar
 - Licença de Utilização
-- Apostas Mútuas Desportivas
-- Santa Casa da Misericórdia
-- Autoridade Nacional de Segurança Rodoviária
-- GNR
-- Governo Civil
-- Prémio
-- Câmara Municipal
+- Lisboa
+- Multa
+- Património
 - Pequenas e Médias Empresas
+- Prémio
+- Proteção Civil
+- PSP
 - Sanção
-- Sistema de Videovigilância
-- Autoridade Nacional de Protecção Civil
-- IAPMEI
-- Sistema de Informação de Incêndios Florestais
+- Santa Casa da Misericórdia
 - Segurança Privada
+- Sistema de Informação de Incêndios Florestais
+- Sistema de Videovigilância
+- Situação de Calamidade
+- Sociedade Comercial
 - Transferência de Competências
 - Transferência Patrimonial
-- Situação de Calamidade
 relationships:
 - type: amended_by
   target: pt:dre:176075681:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:513607:por
+  label: "Alterados os arts. 4º e 11.º do Dec Lei 134/2006, de 25-jul, na redação do presente diploma, pelo DEC LEI.72/2013.31.05.2013.MAI,\
+    \ DR.IS [105] de 31.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-2013-513607
+  date: '2013-05-31'
+- type: amended_by
+  target: pt:dre:498756:por
+  label: "Alterado o art. 43.º (na redação do presente diploma) da Lei 39/2009 de 30-jul, pela LEI.52/2013.25.07.2013.AR,\
+    \ DR.IS [142] de 25.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-2013-498756
+  date: '2013-07-25'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterado o art. 5.º da Lei 28/2006, de 04-jul, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR,\
+    \ DR.IS [253-Supl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:105263933:por
+  label: Alterados, a partir de 28.12.2016, os arts. 7.º, 11.º e 12.º do Dec Lei 317/94 de 24-dez, na redação do presente
+    diploma, pelo(a) Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28, que o republica
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2016-105263933
+  date: '2016-11-28'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Alterados os arts. 85.º, 86.º e 87.º do Dec Lei 422/89, de 02-dez, na versão republicada pelo presente diploma, pelo(a)
+    Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
+  date: '2016-12-28'
+- type: amended_by
+  target: pt:dre:108010872:por
+  label: Alterados os arts. 3.º-A e 3.º-C do Dec Lei 124/2006, de 28-jun, na redação do presente diploma pelo(a) Lei n.º 76/2017
+    - Diário da República n.º 158/2017, Série I de 2017-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/76-2017-108010872
+  date: '2017-08-17'
+- type: amended_by
+  target: pt:dre:108132048:por
+  label: Alterado o art. 5.º Lei 28/2006 de 04-jul, na redação do presente diploma, pelo(a) Decreto-Lei n.º 117/2017 - Diário
+    da República n.º 176/2017, Série I de 2017-09-12 que procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2017-108132048
+  date: '2017-09-12'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Alterado o art. 84.º do Dec Lei 422/89 de 02-dez, na versão republicada no anexo II do presente diploma, pelo(a)
+    Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
+- type: amended_by
+  target: pt:dre:116043536:por
+  label: Alterado, a partir de 10.02.2019, o art. 36.º da lei do Jogo, aprovada pelo Dec Lei 422/89 de 02-dez, na versão republicada
+    em anexo III ao presente diploma, pelo(a) Lei n.º 49/2018 - Diário da República n.º 156/2018, Série I de 2018-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/49-2018-116043536
+  date: '2018-08-14'
+- type: amended_by
+  target: pt:dre:117128624:por
+  label: Alterados os arts. 150.º, 159.º, 160.º, 163.º e 164.º e adita o art. 164.º-A ao Dec Lei 422/89 de 02-dez, na versão
+    republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 98/2018 - Diário da República n.º 228/2018, Série I de 2018-11-27
+    nos termos do seu art. 9.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2018-117128624
+  date: '2018-11-27'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Alterado, a partir de 28.07.2021, o art. 163.º e revogado o n.º 2 do mesmo art. 163.º do Dec Lei 422/89 de 02-dez,
+    na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I
+    de 2021-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
 - type: cites
   target: eli:http://data.europa.eu/eli/reco/1996/280/oj
   label: null
   source: http://data.europa.eu/eli/reco/1996/280/oj
+- type: repealed_by
+  target: pt:dre:261089:por
+  label: "Revogado, a partir de 15.06.2013, o Dec Lei 35/2004 de 21-fev, alterado e republicado pelo presente diploma, pela\
+    \ LEI.34/2013.16.05.2013.AR, DR.IS [94] de 16.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/34-2013-261089
+  date: '2013-05-16'
+- type: repealed_by
+  target: pt:dre:56479736:por
+  label: Revogado, a partir de 09.09.2014, o Dec Lei 101/2008 de 16-jun, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 135/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08, sem prejuízo do disposto no art. 13.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-2014-56479736
+  date: '2014-09-08'
+- type: repealed_by
+  target: pt:dre:69982739:por
+  label: Revogado (a partir de 10.10.2015) o Dec Lei 365/99 de 17-set, DR.IS-A [218] na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-2015-69982739
+  date: '2015-08-11'
 article_structure:
-  article_count: 390
+  article_count: 358
   section_count: 39
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:36Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +278,7 @@ Os artigos 2.º e 3.º do Decreto-Lei n.º 30/88, de 3 de Fevereiro, passam a te
 
 4 - ...
 
-###### Artigo 3.º
+Artigo 3.º
 
 Para os efeitos previstos nos n.os 1 e 2 do artigo anterior, as entidades aí referidas ouvem a entidade competente, referida no artigo 1.º, que deverá pronunciar-se no prazo de 20 dias.»
 
@@ -226,7 +312,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 164.º — [...]
+Artigo 164.º
+
+[...]
 
 1 - O membro do Governo responsável pela área da administração interna pode delegar, com faculdade de subdelegação, a competência que lhe é atribuída pelos artigos 159.º a 163.º, nomeadamente a aplicação de coimas e respectivas sanções acessórias.
 
@@ -272,7 +360,9 @@ d) (Revogada.)
 
 3 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -292,7 +382,9 @@ d) (Revogada.)
 
 9 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -344,7 +436,7 @@ Os artigos 6.º, 12.º, 13.º e 14.º do Decreto-Lei n.º 297/99, de 4 de Agosto
 
 4 - ...
 
-###### Artigo 12.º
+Artigo 12.º
 
 1 - ...
 
@@ -372,7 +464,7 @@ c) ...
 
 4 - ...
 
-###### Artigo 13.º
+Artigo 13.º
 
 ...
 
@@ -382,7 +474,7 @@ b) ...
 
 c) Em 20 % para a Inspecção-Geral da Administração Interna.
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - ...
 
@@ -418,7 +510,9 @@ Os artigos 22.º e 23.º do Decreto-Lei n.º 365/99, de 17 de Setembro, passam a
 
 4 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A venda em leilão é efectuada no dia e hora e designado nos anúncios da venda, na presença de um representante do membro do Governo responsável pela área da economia.
 
@@ -466,17 +560,23 @@ Os artigos 5.º, 6.º, 9.º, 16.º e 25.º da Lei n.º 30/2000, de 29 de Novembr
 
 5 - Os encargos com os membros das comissões são suportados pelo IDT, I. P.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 O IDT, I. P., manterá um registo central dos processos de contra-ordenação previstos na presente lei, o qual será regulamentado por portaria dos membros do Governo responsáveis pela área da justiça e pela coordenação da política da droga e da toxicodependência.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
 2 - Para o cumprimento do disposto na presente lei, a comissão e as autoridades policiais recorrem, consoante os casos, aos serviços públicos de saúde, aos serviços de reinserção social e às autoridades administrativas.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -492,7 +592,9 @@ c) (Revogada.)
 
 d) (Revogada.)
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 A decisão de decretar sanções ou medidas de acompanhamento é comunicada às autoridades policiais, competindo a estas oficiar os serviços e as autoridades aos quais deva ser pedida colaboração para a execução dessas medidas.»
 
@@ -520,7 +622,9 @@ Os artigos 2.º, 4.º, 6.º, 9.º, 30.º, 36.º e 37.º do Decreto-Lei n.º 130-
 
 3 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O presidente de cada comissão é nomeado por despacho dos membros do Governo responsáveis pelas áreas da justiça, da saúde e pela coordenação da política da droga e da toxicodependência, mediante proposta deste.
 
@@ -546,7 +650,9 @@ h) ...
 
 4 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Para cada comissão é disponibilizada pelo IDT, I. P., uma equipa de apoio técnico e técnico-administrativo, cuja composição é definida por despacho do membro do Governo responsável pela coordenação da política da droga e da toxicodependência.
 
@@ -556,7 +662,9 @@ h) ...
 
 4 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -576,7 +684,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - A execução das sanções ou medidas de acompanhamento é da competência das autoridades policiais, podendo recorrer para o efeito às entidades competentes, designadamente à Direcção-Geral de Reinserção Social.
 
@@ -586,11 +696,15 @@ d) ...
 
 4 - ...
 
-###### Artigo 36.º — Apoio do IDT, I. P.
+Artigo 36.º
+
+Apoio do IDT, I. P.
 
 O IDT, I. P., assegura o apoio técnico que se revele necessário às comissões, designadamente em matérias jurídicas e processuais relacionadas com o âmbito das suas atribuições na área da toxicodependência, e qualquer outro que se revele conveniente e não esteja cometido por lei a outra entidade.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Trimestralmente cada comissão envia ao IDT, I. P., mapas com a relação das coimas aplicadas nos termos do artigo 16.º da Lei n.º 30/2000, de 29 de Novembro.
 
@@ -630,7 +744,9 @@ b) ...
 
 c) ...
 
-###### Artigo 7.º — Intervenção dos presidentes de câmaras municipais
+Artigo 7.º
+
+Intervenção dos presidentes de câmaras municipais
 
 1 - Os presidentes de câmaras municipais das áreas declaradas de calamidade pública elaboram listas das empresas afectadas nos respectivos municípios e, no prazo de 10 dias úteis a contar da data de entrada em vigor do presente diploma, procedem à sua comunicação ao IAPMEI.
 
@@ -656,7 +772,9 @@ h) ...
 
 4 - Os presidentes de câmaras municipais devem manter um recenseamento actualizado dos estabelecimentos afectados por incêndios nas áreas declaradas em situações de calamidade pública, dando conhecimento semanal ao IAPMEI de novas empresas eventualmente atingidas, juntamente com a informação referida nos n.os 2 e 3.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O IAPMEI, para efeitos de verificação das condições de elegibilidade da empresa, previstas na alínea c) do artigo 3.º, no prazo de dois dias úteis após a recepção da informação validada pelos presidentes de câmaras municipais, diligencia junto das entidades competentes a obtenção da informação pertinente.
 
@@ -666,7 +784,9 @@ h) ...
 
 4 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -720,7 +840,9 @@ Os artigos 3.º-A, 3.º-C e 9.º do Decreto-Lei n.º 124/2006, de 28 de Junho, a
 
 4 - As comissões distritais funcionam sob a coordenação do responsável regional pela área das florestas e as comissões municipais funcionam sob a coordenação do presidente da câmara municipal.
 
-###### Artigo 3.º-C — [...]
+Artigo 3.º-C
+
+[...]
 
 1 - ...
 
@@ -758,7 +880,9 @@ o) ...
 
 4 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -814,7 +938,9 @@ e) Avaliar a situação e propor ao presidente da Autoridade Nacional de Protec�
 
 7 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -868,7 +994,9 @@ e) ...
 
 2 - Sem prejuízo do disposto no Decreto-Lei n.º 35/2004, de 21 de Fevereiro, os proprietários e os administradores ou gerentes das sociedades comerciais que explorem os estabelecimentos previstos no n.º 1 do artigo 1.º são obrigados a comunicar à força de segurança territorialmente competente, no prazo de 30 dias, a obtenção de autorização de utilização do estabelecimento, o início da actividade, as características técnicas dos equipamentos electrónicos de vigilância instalados e a identificação do responsável pela gestão dos sistema de segurança.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - No caso previsto na alínea a) do n.º 1 do artigo anterior, as entidades previstas no n.º 1 do artigo seguinte determinam o encerramento provisório do estabelecimento, fixando o prazo dentro do qual devem ser adoptadas as providências adequadas à regularização da situação, com a advertência de que o incumprimento da injunção constitui fundamento da aplicabilidade da medida acessória de encerramento, nos termos do Decreto-Lei n.º 433/82, de 27 de Outubro.
 
@@ -894,7 +1022,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
@@ -914,7 +1044,9 @@ c) ...
 
 6 - ...
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -940,7 +1072,9 @@ Os artigos 9.º e 10.º do Decreto-Lei n.º 9/2009, de 9 de Janeiro, passam a te
 
 Os guardas são ajuramentados pelo presidente da AFN, ou pela entidade em quem este delegar.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -960,7 +1094,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º e 5.º do Decreto-Lei n.º 14/2009, de 14 de J
 
 O presente decreto-lei estabelece o regime e a cobrança de taxas pela prática de actos administrativos relativos a autorizações para a exploração de modalidades afins de jogos de fortuna ou azar e outras formas de jogo, ajuramentações e presença em actos da actividade de prestamista.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -978,15 +1114,21 @@ a) Despesas de deslocação, quando necessária, do funcionário ao local da dil
 
 b) ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 A entidade responsável pela cobrança pode conceder a isenção das taxas referidas no artigo anterior quando o requerente do acto for entidade sem fins lucrativos ou de utilidade pública.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Os valores das taxas previstas no artigo 2.º são fixados por portaria do membro do Governo responsável pela área em que se encontre organicamente inserida a entidade competente para o acto respectivo.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 O produto das taxas a cobrar nos termos do presente decreto-lei constitui receita da entidade competente para o acto respectivo.»
 
@@ -1154,21 +1296,21 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Bento Martins Costa Macedo e Silva - Fernando Ferreira Santo - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 21 de Novembro de 2011.**
+Promulgado em 21 de Novembro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de Novembro de 2011.**
+Referendado em 22 de Novembro de 2011.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 9.º)
 
-## Anexo ao Decreto-Lei n.º 297/99, de 4 de Agosto
+Anexo ao Decreto-Lei n.º 297/99, de 4 de Agosto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/23000/0513005186.pdf))](https://files.diariodarepublica.pt/1s/2011/11/23000/0513005186.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/23000/0513005186.pdf)
 
 ## ANEXO II — [a que se refere a alínea a) do artigo 40.º]
 
@@ -2820,7 +2962,7 @@ As instituições públicas e privadas que utilizem equipamentos de segurança c
 
 São revogados os Decretos-Leis n.os 465/85, de 5 de Novembro, e 4/87, de 5 de Janeiro, com as alterações introduzidas pelo Decreto-Lei n.º 90/93, de 24 de Março.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/23000/0513005186.pdf))](https://files.diariodarepublica.pt/1s/2011/11/23000/0513005186.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/23000/0513005186.pdf)
 
 ## ANEXO IV — [a que se refere a alínea c) do artigo 40.º]
 
@@ -3438,7 +3580,7 @@ b) A comissão deve adaptar o seu horário à exigência da celeridade na apreci
 
 ###### Artigo 34.º — Escalas de serviço
 
-**O presidente promove a existência de escalas de serviço dos membros da comissão e do pessoal de apoio administrativo e técnico.**
+O presidente promove a existência de escalas de serviço dos membros da comissão e do pessoal de apoio administrativo e técnico.
 
 ###### Artigo 35.º — Quórum
 

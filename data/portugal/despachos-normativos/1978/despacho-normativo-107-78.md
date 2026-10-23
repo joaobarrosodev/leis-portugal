@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/107-1978-295975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:41:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 261fd970266a5f45ea1d4a7f38a71c7663a960f15f1aa85440662dcfd1d90c86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e0e2b6058f06e250e30be1af375f30f727772d2994e588f9e6e7893be6adb4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:41:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa Nacional de Seguros de Doenças Profissionais
+- Contribuições da Segurança Social
+- Entidade Patronal
+- Indústria da Construção
+- Indústria Mineira
+- Indústria Transformadora
+- TAXA Contributiva
+- Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:297011:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:297011:por
+  label: Alargado o âmbito do presente diploma às restantes actividades de comércio, indústria e serviços enquadrados pelas
+    caixas de previdência e abono de família pelo(a) Despacho Normativo n.º 162/78 - Diário da República n.º 171/1978, Série
+    I de 1978-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/162-1978-297011
+  date: '1978-07-27'
+- type: cites
+  target: pt:dre:516070:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:41:33Z'
   warnings: []
   errors: []
 ---
@@ -111,6 +130,6 @@ Secretaria de Estado da Segurança Social, 22 de Março de 1978. - O Secretário
 
 TABELA ANEXA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/05/10900/08680870.pdf))](https://files.diariodarepublica.pt/1s/1978/05/10900/08680870.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/05/10900/08680870.pdf)
 
-**O Secretário de Estado da Segurança Social, Vítor Manuel Gomes Vasques.**
+O Secretário de Estado da Segurança Social, Vítor Manuel Gomes Vasques.

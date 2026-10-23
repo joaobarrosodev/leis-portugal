@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/29/2009/02/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2009-601723
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 869db53dfc6b321ae2ebf3eca23dba36dfe5a50fb21baccbb27da27126c72b69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fa19a931c395706b51268f0c911d72ddf26a214c43e119b35509092d485b353
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Aproximação das Legislações
-- Matéria Plástica
-- Controlo Sanitário
-- Saúde Pública
 - Aditivo Alimentar
 - Alimentação
+- Aproximação das Legislações
+- Controlo Sanitário
+- Matéria Plástica
+- Produto Alimentar
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:276798:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:276798:por
+  label: "Alterado o anexo I do Dec Lei 62/2008 de 31-Mar, alterado no presente diploma, pelo DEC LEI.55/2011.14.04.2011.MADRP,\
+    \ DR.IS [74] de 14.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2011-276798
+  date: '2011-04-14'
 - type: cites
   target: celex:31985L0572
   label: null
@@ -106,13 +112,13 @@ relationships:
 article_structure:
   article_count: 8
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:50Z'
   warnings: []
   errors: []
 ---
@@ -155,21 +161,29 @@ A secção A do anexo i, as secções A e B do anexo ii e o anexo v ao Decreto-L
 
 «ANEXO I
 
-#### Secção A — [...]
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf)
-
-## ANEXO II — Secção A
+Secção A
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf)
 
-#### Secção B — [...]
+ANEXO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf)
+Secção A
 
-## ANEXO V — [...]
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf)
+
+Secção B
+
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf)
+
+ANEXO V
+
+[...]
 
 (1) [...]
 
@@ -279,27 +293,31 @@ c) A Autoridade solicitar informações suplementares, durante o exame dos dados
 
 À secção A do anexo i, às secções A e B do anexo ii, à parte B do anexo iv e aos anexos v e ix do Decreto-Lei n.º 62/2008, de 31 de Março, é aditado o seguinte:
 
-## ANEXO I — Secção A
+## ANEXO I
+
+#### Secção A
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf)
 
-## ANEXO II — Secção A
+## ANEXO II
+
+#### Secção A
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf)
 
 #### Secção B — [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf)
 
 ## ANEXO IV — [...]
 
-# Parte B: [...]
+Parte B: [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf)
 
 1 - [...]
 
@@ -395,7 +413,7 @@ c) A Autoridade solicitar informações suplementares, durante o exame dos dados
 
 ## ANEXO IX — [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02200/0078600802.pdf)
 
 ###### Artigo 6.º — Norma transitória
 
@@ -417,12 +435,12 @@ O presente decreto-lei entra em vigor no dia 7 de Março de 2009.
 
 Visto e aprovado em Conselho de Ministros de 27 de Novembro de 2008. - Luís Filipe Marques Amado - Luís Filipe Marques Amado - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Ascenso Luís Seixas Simões - Ana Maria Teodoro Jorge.
 
-**Promulgado em 15 de Janeiro de 2009.**
+Promulgado em 15 de Janeiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Janeiro de 2009.**
+Referendado em 16 de Janeiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

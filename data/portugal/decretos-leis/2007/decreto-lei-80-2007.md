@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06300/18561858.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/80/2007/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90edb44f242a3c91f2656a750960f54596c19365a0553a586efed9be48cc4e99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 847f7eead9d96aa8d8b7ac9bb0cab3eb35a061525203899bdbacdf152ea3f832
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério das Finanças e da Administração Pública
-- Pessoal Dirigente
 - Definição de Competências
-- Direcção Geral de Assuntos Europeus e Relações Internacionais
 - Departamento de Prospectiva e Planeamento
 - Direção Geral do Orçamento
+- Direcção Geral de Assuntos Europeus e Relações Internacionais
+- Ministério das Finanças e da Administração Pública
 - Orgânica
+- Pessoal Dirigente
 - Piddac
 - Quadro de Pessoal
 - Transferência de Competências
@@ -80,6 +80,11 @@ relationships:
   target: pt:dre:175330:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:689576:por
+  label: "Alterado o art. 2.º pelo DEC LEI.69-A/2009.24.03.2009.MFAP, DR.IS [58-Supl] de 24.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-a-2009-689576
+  date: '2009-03-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/205/2006/10/27/p/dre
   label: null
@@ -88,16 +93,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/344/1998/11/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/344/1998/11/06/p/dre
+- type: cites
+  target: pt:dre:223194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545650:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175330:por
+  label: "Revogado, a partir de 01.09.2012, o presente diploma, na redação do Dec Lei 69-A/2009, de 24-mar, pelo DEC LEI.191/2012.23.08.2012.MF,\
+    \ DR.IS [163] de 23.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/191-2012-175330
+  date: '2012-08-23'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:25Z'
   warnings: []
   errors: []
 ---
@@ -274,16 +293,16 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 8 de Março de 2007.**
+Promulgado em 8 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 9 de Março de 2007.**
+Referendado em 9 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (mapa de cargos dirigentes a que se refere o artigo 7.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06300/18561858.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06300/18561858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06300/18561858.pdf)

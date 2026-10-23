@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/93/2014/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3b5447182f26359d139ee3ad0f6d58e148fd33ade399315980ec9047a71ec20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89786c5d08bed12cfe4d7e16d7a4612073758350411734158bf433916db356cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Eleição
 - Conselho Nacional do Desporto
 - Definição de Competências
+- Desporto
+- Eleição
 - Estatuto
 - Federação Desportiva
-- Publicitação
 - Justiça Desportiva
 - Órgãos Sociais
+- Publicitação
+- Recurso
 - Regime Jurídico
-- Desporto
 - Utilidade Pública Desportiva
 relationships:
 - type: amended_by
   target: pt:dre:1082907026:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:108063582:por
+  label: Altera os arts. 8.º, 13.º, 21.º e 45.º do Dec Lei 248-B/2008 de 31-dez, todos na redação do presente diploma, pelo(a)
+    Lei n.º 101/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/101-2017-108063582
+  date: '2017-08-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/1997/05/09/p/dre
   label: null
@@ -107,16 +113,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/595/1993/06/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/595/1993/06/19/p/dre
+- type: cites
+  target: pt:dre:243744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:269186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665346:por
+  label: null
+  source: null
 article_structure:
-  article_count: 94
+  article_count: 72
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:12Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +221,9 @@ iii) Representar a sua modalidade desportiva, ou conjunto de modalidades afins o
 
 b) [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As federações desportivas e ligas profissionais respondem civilmente perante terceiros pelas ações ou omissões dos titulares dos seus órgãos que profiram as decisões referidas no número seguinte, trabalhadores, representantes legais e auxiliares, nos termos em que os comitentes respondem pelos atos ou omissões dos seus comissários.
 
@@ -201,7 +233,9 @@ b) [...].
 
 4 - [...].
 
-###### Artigo 8.º — Publicitação da atividade
+Artigo 8.º
+
+Publicitação da atividade
 
 1 - As federações desportivas devem publicitar na respetiva página na Internet, no prazo de 15 dias, todos os dados relevantes e atualizados da sua atividade, em especial:
 
@@ -219,7 +253,9 @@ f) [...].
 
 2 - [...].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]:
 
@@ -247,7 +283,9 @@ j) [...].
 
 3 - [...].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O estatuto de utilidade pública desportiva é atribuído por um período de quatro anos, coincidente com o ciclo olímpico, a uma só pessoa coletiva, por modalidade desportiva ou conjunto de modalidades afins, que, sendo titular do estatuto de simples utilidade pública, se proponha prosseguir os objetivos previstos no artigo 2.º, demonstre que possui relevante interesse desportivo nacional e preencha os demais requisitos previstos no presente decreto-lei.
 
@@ -255,7 +293,9 @@ j) [...].
 
 3 - [Anterior n.º 2].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Sobre o requerimento referido no artigo anterior, são obrigatoriamente ouvidos o Comité Olímpico de Portugal e a Confederação do Desporto de Portugal e, no caso da federação desportiva responsável pelo desporto para pessoas com deficiência, o Comité Paralímpico de Portugal.
 
@@ -263,13 +303,17 @@ j) [...].
 
 3 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Após a emissão dos pareceres referidos no artigo anterior ou decorrido o respetivo prazo, o processo devidamente instruído é remetido para o Conselho Nacional do Desporto, por determinação do membro do Governo responsável pela área do desporto, para efeitos de emissão de parecer sobre a atribuição ou recusa do estatuto de utilidade pública desportiva.
 
 2 - [Revogado].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 Para efeitos do disposto no n.º 1 do artigo 15.º, são consideradas como tendo relevante interesse desportivo nacional as organizações que estejam enquadradas em federação internacional cuja modalidade integre o programa dos Jogos Olímpicos ou Paralímpicos e ainda as que preencham um dos seguintes requisitos:
 
@@ -277,7 +321,9 @@ a) Possuam um grau de suficiente implantação a nível nacional, demonstrando p
 
 b) Prossigam uma atividade desportiva que contribua para o desenvolvimento desportivo do País, ou de algumas das suas regiões, através da organização de provas, eventos desportivos ou manifestações desportivas suscetíveis de projetar internacionalmente a imagem de Portugal.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]:
 
@@ -313,7 +359,9 @@ g) Impossibilidade de atribuição de efeitos desportivos e regulamentares aos r
 
 5 - O despacho de renovação da suspensão do estatuto de utilidade pública desportiva pode fixar efeitos diversos dos inicialmente fixados.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...].
 
@@ -321,11 +369,15 @@ g) Impossibilidade de atribuição de efeitos desportivos e regulamentares aos r
 
 3 - [...].
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 Nos casos referidos no artigo 23.º, a decisão do membro do Governo responsável pela área do desporto é precedida da emissão de parecer pelo Conselho Nacional do Desporto.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...]:
 
@@ -345,13 +397,17 @@ d) [Anterior alínea c)].
 
 5 - [Anterior n.º 3].
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
 2 - Sem prejuízo do disposto no número anterior, as federações desportivas podem adotar outras denominações para os seus órgãos, desde que esteja acautelado o cumprimento das respetivas funções, previstas no presente decreto-lei.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...].
 
@@ -363,7 +419,9 @@ d) [Anterior alínea c)].
 
 5 - Os estatutos ou regulamentos das federações desportivas não podem exigir que as listas de candidatura para os diversos órgãos sejam subscritas por mais do que 10 % dos delegados à assembleia geral.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...].
 
@@ -373,7 +431,9 @@ d) [Anterior alínea c)].
 
 4 - A aprovação de alterações a qualquer regulamento federativo só pode produzir efeitos a partir do início da época desportiva seguinte, salvo quando decorrer de imposição legal, judicial ou administrativa.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...].
 
@@ -389,7 +449,9 @@ d) [Anterior alínea c)].
 
 7 - [Anterior n.º 6].
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - O exercício do direito de voto na assembleia geral das federações desportivas, ligas profissionais e associações de âmbito territorial é pessoal, sem possibilidade de representação, podendo ser exercido por correspondência apenas no caso de se tratar de assembleia geral eletiva.
 
@@ -399,7 +461,9 @@ d) [Anterior alínea c)].
 
 4 - [Anterior n.º 3].
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - A direção é o órgão colegial de administração da federação desportiva, sendo integrada pelo presidente e pelos membros eleitos nos termos estatutários.
 
@@ -427,7 +491,9 @@ h) [...].
 
 5 - Em caso de vacatura do cargo de um dos membros da direção e inexistindo suplentes na lista eleita, a direção deve propor à Assembleia Geral um substituto, que é por esta eleito.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Ao conselho de disciplina cabe, de acordo com a lei e com os regulamentos e sem prejuízo de outras competências atribuídas pelos estatutos e das competências da liga profissional, instaurar e arquivar procedimentos disciplinares e, colegialmente, apreciar e punir as infrações disciplinares em matéria desportiva.
 
@@ -437,7 +503,9 @@ h) [...].
 
 4 - As decisões do conselho de disciplina devem ser proferidas no prazo de 45 dias ou, em situações fundamentadas de complexidade da causa, no prazo de 75 dias, contados a partir da autuação do respetivo processo.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - Para além de outras competências que lhe sejam atribuídas pelos estatutos, cabe ao conselho de justiça conhecer dos recursos das decisões disciplinares relativas a questões emergentes da aplicação das normas técnicas e disciplinares diretamente respeitantes à prática da própria competição desportiva.
 
@@ -449,7 +517,9 @@ h) [...].
 
 5 - As decisões do conselho de justiça devem ser proferidas no prazo de 45 dias ou, em situações fundamentadas de complexidade da causa, no prazo de 75 dias, contados a partir da autuação do respetivo processo.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - [...].
 
@@ -457,7 +527,9 @@ h) [...].
 
 3 - Nas federações desportivas referidas no número anterior a função de classificação dos árbitros deve ser cometida a uma secção diversa da que procede à nomeação dos mesmos.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos números seguintes, é incompatível com a função de titular de órgão federativo:
 
@@ -471,7 +543,9 @@ c) Relativamente aos órgãos da federação ou da liga profissional, o exercíc
 
 3 - Para efeitos da alínea c) do n.º 1, não é incompatível com a função de titular de órgão federativo o exercício de funções de árbitro ou juiz em provas e competições internacionais.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 [...]:
 
@@ -507,15 +581,15 @@ São revogados o n.º 2 do artigo 18.º, o n.º 3 do artigo 21.º, o artigo 30.�
 
 Visto e aprovado em Conselho de Ministros de 24 de abril de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paula Maria von Hafe Teixeira da Cruz - Luís Maria de Barros Serra Marques Guedes - António de Magalhães Pires de Lima - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 17 de junho de 2014.**
+Promulgado em 17 de junho de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de junho de 2014.**
+Referendado em 19 de junho de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/00700/00380040.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/33-1983-540465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T07:37:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e484c365b54356d053507ac47adaab8229f040a25e6d742ccf53b711eddc2a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: faa9c8315c228597f350213dea2823ba585aa554adf6c47d0a4eae25bea452a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:37:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Faculdade de Ciências e Tecnologia
+- Mestrado
+- Mestrado em Ciências da Electrotecnia
+- Universidade de Coimbra
 relationships:
 - type: amended_by
   target: pt:dre:374207:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:139272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374207:por
+  label: "Revogada, sem prejuízo do disposto no n.º 2 do art. 12.º, pela PORT.364/88.03.06.1988.ME, DR.IS [128] de 03.06.1988\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/364-1988-374207
+  date: '1988-06-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:37:37Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +161,7 @@ A duração normal do curso é de 3 semestres lectivos.
 
 1 - As áreas científicas e as unidades de crédito necessárias à conclusão do curso em cada área de especialização distribuem-se da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/01/00700/00380040.pdf))](https://files.diariodarepublica.pt/1s/1983/01/00700/00380040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/01/00700/00380040.pdf)
 
 I - Área de especialização em Informática;
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/96/2008/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2008-449682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4ba3b77dbdbfa6619bbb3d0d43a301640fd6d8c32b606771a51e96759245642
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b3de72ed813bcdad7c51d1d8b1a112589d3385a36a6a7d15a12b6baff20f37d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
-- Multa
+- Comércio
 - Contra-ordenação
 - Estabelecimento Hoteleiro
 - Fiscalização
+- Habitação
+- Laboratório Nacional de Engenharia Civil
 - Licenciamento
 - LNEC
-- Laboratório Nacional de Engenharia Civil
-- Proteção do Ambiente
-- Regulamento
-- Habitação
-- Regulamento dos Requisitos Acusticos dos Edifícios
+- Multa
 - Poluição Sonora
+- Proteção do Ambiente
 - Recinto Cultural
-- Comércio
+- Regulamento
+- Regulamento dos Requisitos Acusticos dos Edifícios
 relationships:
 - type: amended_by
   target: pt:dre:123279819:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123279819:por
+  label: Alterado, a partir de 15.11.2019, o art 5.º do Regulamento dos Requisitos Acústicos dos Edifícios, aprovado pelo
+    Dec Lei 129/2002, de 11-mai, na versão republicada do presente Diploma, pelo(a) Decreto-Lei n.º 95/2019 - Diário da República
+    n.º 136/2019, Série I de 2019-07-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-2019-123279819
+  date: '2019-07-18'
 - type: cites
   target: celex:32002L0049
   label: null
@@ -95,15 +102,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/129/2002/05/11/p/dre
 article_structure:
-  article_count: 34
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:47Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +167,9 @@ f) ...
 
 g) Auditórios e salas.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 ...
 
@@ -190,7 +199,9 @@ L(índice Ar, nT) = L(índice A) + K - 10 Log(T/T(índice 0)) dB
 
 f) «Termo de adaptação, C ou C(índice tr)» - correcção definida na EN ISO 717-1, função das características espectrais do ruído na emissão, a anexar ao índice de isolamento sonoro a sons de condução aérea.
 
-###### Artigo 3.º — Responsabilidade
+Artigo 3.º
+
+Responsabilidade
 
 1 - Na elaboração dos projectos de condicionamento acústico dos edifícios e suas fracções, abrangidos pelo presente Regulamento, para os efeitos previstos nos n.os 3, 4, 5 e 7 do artigo 12.º do Regulamento Geral do Ruído, aprovado pelo Decreto-Lei n.º 9/2007, de 17 de Janeiro, são aplicáveis as normas sobre requisitos acústicos dos edifícios constantes dos artigos 5.º a 10.º-A do presente Regulamento.
 
@@ -206,7 +217,9 @@ f) «Termo de adaptação, C ou C(índice tr)» - correcção definida na EN ISO
 
 7 - Para efeitos do disposto no número anterior, o Laboratório Nacional de Engenharia Civil (LNEC) define, no prazo de seis meses, os respectivos critérios de amostragem, devendo os mesmos ser publicitados nos sítios na Internet do LNEC e do organismo nacional de acreditação.
 
-###### Artigo 5.º — Edifícios habitacionais e mistos, e unidades hoteleiras
+Artigo 5.º
+
+Edifícios habitacionais e mistos, e unidades hoteleiras
 
 1 - Os edifícios e as suas fracções que se destinem a usos habitacionais ou que, para além daquele uso, se destinem também a comércio, indústria, serviços ou diversão, estão sujeitos ao cumprimento dos seguintes requisitos acústicos:
 
@@ -274,7 +287,9 @@ c) O valor obtido para o nível de avaliação, L(índice Ar, nT), diminuído do
 
 8 - Aos edifícios situados em zonas históricas que sejam objecto de acções de reabilitação, mantendo uma das vocações de uso previstas no presente artigo e a mesma identidade patrimonial, podem aplicar-se os requisitos constantes das alíneas b) a g) do n.º 1, com uma tolerância de 3 dB.
 
-###### Artigo 6.º — Edifícios comerciais e de serviços, e partes similares em edifícios industriais
+Artigo 6.º
+
+Edifícios comerciais e de serviços, e partes similares em edifícios industriais
 
 1 - Os edifícios que se destinem a usos comerciais ou de prestação de serviços, ou partes análogas integradas em edifícios industriais, estão sujeitos ao cumprimento dos seguintes requisitos acústicos:
 
@@ -314,7 +329,9 @@ c) O valor obtido para o nível de avaliação, L(índice Ar, nT), diminuído do
 
 d) O valor obtido para o tempo de reverberação, T, diminuído do factor I no valor de 25 % do limite regulamentar, satisfaça o limite regulamentar.
 
-###### Artigo 7.º — Edifícios escolares e similares, e de investigação
+Artigo 7.º
+
+Edifícios escolares e similares, e de investigação
 
 1 - Os edifícios escolares e similares, de investigação e de leitura estão sujeitos aos seguintes requisitos acústicos:
 
@@ -356,7 +373,9 @@ c) O valor obtido para o nível de avaliação, L(índice Ar, nT), diminuído do
 
 d) O valor obtido para o tempo de reverberação, T, diminuído do factor I no valor de 25 % do limite regulamentar, satisfaça o limite regulamentar.
 
-###### Artigo 8.º — Edifícios hospitalares e similares
+Artigo 8.º
+
+Edifícios hospitalares e similares
 
 1 - Os edifícios que se destinem à prestação de serviços hospitalares e de cuidados análogos estão sujeitos ao cumprimento dos seguintes requisitos acústicos:
 
@@ -402,7 +421,9 @@ c) O valor obtido para o nível de avaliação, L(índice Ar, nT), diminuído do
 
 d) O valor obtido para o tempo de reverberação, T, diminuído do factor I no valor de 25 % do limite regulamentar, satisfaça o limite regulamentar.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - No interior dos recintos desportivos, considerados mobilados normalmente e sem ocupação, o tempo de reverberação, T, correspondente à média aritmética dos valores obtidos para as bandas de oitava centradas nas frequências de 500 Hz, 1000 Hz e 2000 Hz, deve satisfazer as condições seguintes, nas quais V se refere ao volume interior do recinto em causa:
 
@@ -416,7 +437,9 @@ b) T(índice 500 Hz - 2 kHz) (igual ou menor que) 0,12 V(elevado a 1/3), se os e
 
 4 - O edifício, ou qualquer das suas partes, é considerado conforme aos requisitos acústicos aplicáveis quando o valor obtido para o tempo de reverberação, T, diminuído do factor I no valor de 25 % do limite regulamentar, satisfaça o limite regulamentar.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - No interior dos átrios ou salas de embarque das estações de transporte de passageiros, de volume superior a 350 m3, considerados mobilados normalmente e sem ocupação, o tempo de reverberação, T, correspondente à média aritmética dos valores obtidos para as bandas de oitava centradas nas frequências de 500 Hz, 1000 Hz e 2000 Hz, deverá satisfazer as condições seguintes, nas quais V se refere ao volume interior do recinto em causa:
 
@@ -430,11 +453,15 @@ b) T(índice 500 Hz - 2 kHz) (igual ou menor que) 0,12 V(elevado a 1/3), se os e
 
 4 - O edifício, ou qualquer das suas partes, é considerado conforme aos requisitos acústicos aplicáveis quando o valor obtido para o tempo de reverberação, T, diminuído do factor I no valor de 25 % do limite regulamentar, satisfaça o limite regulamentar.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 A fiscalização do cumprimento do presente Regulamento rege-se pelo disposto nos artigos 93.º a 97.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, com a redacção dada pela Lei n.º 60/2007, de 4 de Setembro.
 
-###### Artigo 12.º — Classificação das contra-ordenações
+Artigo 12.º
+
+Classificação das contra-ordenações
 
 1 - Constitui contra-ordenação ambiental grave:
 
@@ -446,15 +473,21 @@ b) A execução de projectos acústicos e a construção de edifícios em viola�
 
 3 - Pode ser objecto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de Agosto, a condenação pela prática de infracções graves previstas no n.º 1, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstractamente aplicável.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 A autoridade competente pode, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos previstos na Lei n.º 50/2006, de 29 de Agosto.
 
-###### Artigo 14.º — Instrução dos processos e aplicação das coimas
+Artigo 14.º
+
+Instrução dos processos e aplicação das coimas
 
 O processamento das contra-ordenações e a aplicação das respectivas coimas regem-se pelo disposto no n.º 10 do artigo 98.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, com a redacção dada pela Lei n.º 60/2007, de 4 de Setembro.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 O produto das coimas aplicadas ao abrigo do presente diploma, independentemente da fase em que se torne definitiva ou transite em julgado a decisão condenatória, é repartido nos termos do disposto no artigo 73.º da Lei n.º 50/2006, de 29 de Agosto.»
 
@@ -464,21 +497,23 @@ O produto das coimas aplicadas ao abrigo do presente diploma, independentemente 
 
 [a que se refere o artigo 7.º, n.º 1, alíneas a), b) e c)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf))](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf)
 
 QUADRO IV
 
 [a que se refere o artigo 7.º, n.º 1, alínea f)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf))](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf)
 
 QUADRO V
 
 [a que se refere o artigo 8.º, n.º 1, alíneas a), b) e c)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf))](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf)
 
-###### Artigo 2.º — Aditamento ao Decreto-Lei n.º 129/2002, de 11 de Maio
+Artigo 2.º
+
+Aditamento ao Decreto-Lei n.º 129/2002, de 11 de Maio
 
 É aditado ao Decreto-Lei n.º 129/2002, de 11 de Maio, o artigo 10.º-A, com a seguinte redacção:
 
@@ -540,39 +575,49 @@ c) O valor obtido para o índice de isolamento sonoro a sons de condução aére
 
 d) O valor obtido para o nível do ruído particular, L(índice Aeq), diminuído do factor I no valor de 3 dB (A), satisfaça o limite regulamentar.»
 
-###### Artigo 3.º — Regime transitório
+Artigo 3.º
+
+Regime transitório
 
 1 - Os projectos de edifícios referidos no n.º 2 do artigo 1.º do Regulamento dos Requisitos Acústicos dos Edifícios, aprovado pelo Decreto-Lei n.º 129/2002, de 11 de Maio, com as alterações introduzidas pelo presente decreto-lei, submetidos a aprovação até à data da classificação das zonas sensíveis e zonas mistas, nos termos do disposto no n.º 3 do artigo 11.º do Regulamento Geral do Ruído, aprovado pelo Decreto-Lei n.º 9/2007, de 17 de Janeiro, devem ser acompanhados de um projecto acústico que observe os valores do índice de isolamento sonoro a sons de condução aérea, padronizado, D(índice 2 m, nT, w), entre o exterior dos edifícios e os compartimentos interiores, referenciados para zonas mistas.
 
 2 - Para efeitos de licenciamento de actividades comerciais, industriais e de serviços, em edifícios existentes à data de entrada em vigor do presente decreto-lei, aplicam-se os requisitos de isolamento sonoro constantes do artigo 5.º do Decreto-Lei n.º 129/2002, de 11 de Maio, com as alterações decorrentes do presente diploma.
 
-###### Artigo 4.º — Republicação
+Artigo 4.º
+
+Republicação
 
 É republicado, em anexo, que faz parte integrante do presente decreto-lei, o Regulamento dos Requisitos Acústicos dos Edifícios, aprovado pelo Decreto-Lei n.º 129/2002, de 11 de Maio, com a redacção actual.
 
-###### Artigo 5.º — Entrada em vigor
+Artigo 5.º
+
+Entrada em vigor
 
 O presente decreto-lei entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Março de 2008. - José Sócrates Carvalho Pinto de Sousa - Rui Carlos Pereira - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia.
 
-**Promulgado em 21 de Maio de 2008.**
+Promulgado em 21 de Maio de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de Maio de 2008.**
+Referendado em 23 de Maio de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 Regulamento dos Requisitos Acústicos dos Edifícios
 
 (republicação)
 
-### CAPÍTULO I — Disposições gerais
+CAPÍTULO I
 
-###### Artigo 1.º — Objecto e âmbito de aplicação
+Disposições gerais
+
+Artigo 1.º
+
+Objecto e âmbito de aplicação
 
 1 - O presente Regulamento estabelece os requisitos acústicos dos edifícios, com vista a melhorar as condições de qualidade acústica desses edifícios.
 
@@ -592,7 +637,9 @@ f) Estações de transporte de passageiros;
 
 g) Auditórios e salas.
 
-###### Artigo 2.º — Definições
+Artigo 2.º
+
+Definições
 
 Para os efeitos do disposto no presente Regulamento, entende-se por:
 
@@ -622,7 +669,9 @@ L(índice Ar, nT) = L(índice A) + K - 10 Log(T/T(índice 0)) dB
 
 f) «Termo de adaptação, C ou C(índice tr)» - correcção definida na EN ISO 717-1, função das características espectrais do ruído na emissão, a anexar ao índice de isolamento sonoro a sons de condução aérea.
 
-###### Artigo 3.º — Responsabilidade
+Artigo 3.º
+
+Responsabilidade
 
 1 - Na elaboração dos projectos de condicionamento acústico dos edifícios e suas fracções, abrangidos pelo presente Regulamento, para os efeitos previstos nos n.os 3, 4, 5 e 7 do artigo 12.º do Regulamento Geral do Ruído, aprovado pelo Decreto-Lei n.º 9/2007, de 17 de Janeiro, são aplicáveis as normas sobre requisitos acústicos dos edifícios constantes dos artigos 5.º a 10.º-A do presente Regulamento.
 
@@ -638,15 +687,21 @@ f) «Termo de adaptação, C ou C(índice tr)» - correcção definida na EN ISO
 
 7 - Para efeitos do disposto no número anterior, o Laboratório Nacional de Engenharia Civil (LNEC) define, no prazo de seis meses, os respectivos critérios de amostragem, devendo os mesmos ser publicitados nos sítios na Internet do LNEC e do organismo nacional de acreditação.
 
-###### Artigo 4.º — Acompanhamento da aplicação e apoio técnico
+Artigo 4.º
+
+Acompanhamento da aplicação e apoio técnico
 
 1 - Ao Laboratório Nacional de Engenharia Civil compete acompanhar a aplicação do presente Regulamento, bem como prestar o apoio técnico necessário à boa execução das normas previstas no mesmo.
 
 2 - A divulgação e o acesso à normalização portuguesa, europeia e internacional são assegurados pelo Instituto Português da Qualidade, I. P., nos termos da legislação aplicável.
 
-### CAPÍTULO II — Requisitos acústicos dos edifícios
+CAPÍTULO II
 
-###### Artigo 5.º — Edifícios habitacionais e mistos, e unidades hoteleiras
+Requisitos acústicos dos edifícios
+
+Artigo 5.º
+
+Edifícios habitacionais e mistos, e unidades hoteleiras
 
 1 - Os edifícios e as suas fracções que se destinem a usos habitacionais ou que, para além daquele uso, se destinem também a comércio, indústria, serviços ou diversão, estão sujeitos ao cumprimento dos seguintes requisitos acústicos:
 
@@ -714,7 +769,9 @@ c) O valor obtido para o nível de avaliação, L(índice Ar, nT), diminuído do
 
 8 - Aos edifícios situados em zonas históricas que sejam objecto de acções de reabilitação, mantendo uma das vocações de uso previstas no presente artigo e a mesma identidade patrimonial, podem aplicar-se os requisitos constantes das alíneas b) a g) do n.º 1, com uma tolerância de 3 dB.
 
-###### Artigo 6.º — Edifícios comerciais e de serviços, e partes similares em edifícios industriais
+Artigo 6.º
+
+Edifícios comerciais e de serviços, e partes similares em edifícios industriais
 
 1 - Os edifícios que se destinem a usos comerciais ou de prestação de serviços, ou partes análogas integradas em edifícios industriais, estão sujeitos ao cumprimento dos seguintes requisitos acústicos:
 
@@ -754,7 +811,9 @@ c) O valor obtido para o nível de avaliação, L(índice Ar, nT), diminuído do
 
 d) O valor obtido para o tempo de reverberação, T, diminuído do factor I no valor de 25 % do limite regulamentar, satisfaça o limite regulamentar.
 
-###### Artigo 7.º — Edifícios escolares e similares, e de investigação
+Artigo 7.º
+
+Edifícios escolares e similares, e de investigação
 
 1 - Os edifícios escolares e similares, de investigação e de leitura estão sujeitos aos seguintes requisitos acústicos:
 
@@ -796,7 +855,9 @@ c) O valor obtido para o nível de avaliação, L(índice Ar, nT), diminuído do
 
 d) O valor obtido para o tempo de reverberação, T, diminuído do factor I no valor de 25 % do limite regulamentar, satisfaça o limite regulamentar.
 
-###### Artigo 8.º — Edifícios hospitalares e similares
+Artigo 8.º
+
+Edifícios hospitalares e similares
 
 1 - Os edifícios que se destinem à prestação de serviços hospitalares e de cuidados análogos estão sujeitos ao cumprimento dos seguintes requisitos acústicos:
 
@@ -842,7 +903,9 @@ c) O valor obtido para o nível de avaliação, L(índice Ar, nT), diminuído do
 
 d) O valor obtido para o tempo de reverberação, T, diminuído do factor I no valor de 25 % do limite regulamentar, satisfaça o limite regulamentar.
 
-###### Artigo 9.º — Recintos desportivos
+Artigo 9.º
+
+Recintos desportivos
 
 1 - No interior dos recintos desportivos, considerados mobilados normalmente e sem ocupação, o tempo de reverberação, T, correspondente à média aritmética dos valores obtidos para as bandas de oitava centradas nas frequências de 500 Hz, 1000 Hz e 2000 Hz, deve satisfazer as condições seguintes, nas quais V se refere ao volume interior do recinto em causa:
 
@@ -856,7 +919,9 @@ b) T(índice 500 Hz - 2 kHz) (igual ou menor que) 0,12 V(elevado a 1/3), se os e
 
 4 - O edifício, ou qualquer das suas partes, é considerado conforme aos requisitos acústicos aplicáveis quando o valor obtido para o tempo de reverberação, T, diminuído do factor I no valor de 25 % do limite regulamentar, satisfaça o limite regulamentar.
 
-###### Artigo 10.º — Estações de transporte de passageiros
+Artigo 10.º
+
+Estações de transporte de passageiros
 
 1 - No interior dos átrios ou salas de embarque das estações de transporte de passageiros, de volume superior a 350 m3, considerados mobilados normalmente e sem ocupação, o tempo de reverberação, T, correspondente à média aritmética dos valores obtidos para as bandas de oitava centradas nas frequências de 500 Hz, 1000 Hz e 2000 Hz, deverá satisfazer as condições seguintes, nas quais V se refere ao volume interior do recinto em causa:
 
@@ -870,7 +935,9 @@ b) T(índice 500 Hz - 2 kHz) (igual ou menor que) 0,12 V(elevado a 1/3), se os e
 
 4 - O edifício, ou qualquer das suas partes, é considerado conforme aos requisitos acústicos aplicáveis quando o valor obtido para o tempo de reverberação, T, diminuído do factor I no valor de 25 % do limite regulamentar, satisfaça o limite regulamentar.
 
-###### Artigo 10.º-A — Auditórios e salas
+Artigo 10.º-A
+
+Auditórios e salas
 
 1 - Os recintos cuja principal valência corresponda a actividades assentes na oratória, nomeadamente de auditórios, salas de conferência e salas polivalentes, e nas salas de cinema, estão sujeitos aos seguintes requisitos:
 
@@ -926,13 +993,19 @@ c) O valor obtido para o índice de isolamento sonoro a sons de condução aére
 
 d) O valor obtido para o nível do ruído particular, L(índice Aeq), diminuído do factor I no valor de 3 dB (A), satisfaça o limite regulamentar.
 
-### CAPÍTULO III — Fiscalização e sanções
+CAPÍTULO III
 
-###### Artigo 11.º — Fiscalização
+Fiscalização e sanções
+
+Artigo 11.º
+
+Fiscalização
 
 A fiscalização do cumprimento do presente Regulamento rege-se pelo disposto nos artigos 93.º a 97.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, com a redacção dada pela Lei n.º 60/2007, de 4 de Setembro.
 
-###### Artigo 12.º — Classificação das contra-ordenações
+Artigo 12.º
+
+Classificação das contra-ordenações
 
 1 - Constitui contra-ordenação ambiental grave:
 
@@ -944,50 +1017,58 @@ b) A execução de projectos acústicos e a construção de edifícios em viola�
 
 3 - Pode ser objecto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de Agosto, a condenação pela prática de infracções graves previstas no n.º 1, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstractamente aplicável.
 
-###### Artigo 13.º — Sanções acessórias
+Artigo 13.º
+
+Sanções acessórias
 
 A autoridade competente pode, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos previstos na Lei n.º 50/2006, de 29 de Agosto.
 
-###### Artigo 14.º — Instrução dos processos e aplicação das coimas
+Artigo 14.º
+
+Instrução dos processos e aplicação das coimas
 
 O processamento das contra-ordenações e a aplicação das respectivas coimas regem-se pelo disposto no n.º 10 do artigo 98.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, com a redacção dada pela Lei n.º 60/2007, de 4 de Setembro.
 
-###### Artigo 15.º — Produto das coimas
+Artigo 15.º
+
+Produto das coimas
 
 O produto das coimas aplicadas ao abrigo do presente diploma, independentemente da fase em que se torne definitiva ou transite em julgado a decisão condenatória, é repartido nos termos do disposto no artigo 73.º da Lei n.º 50/2006, de 29 de Agosto.
 
-## ANEXO — QUADRO I
+ANEXO
+
+QUADRO I
 
 [a que se refere o artigo 6.º, n.º 1, alíneas a), b) e c)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf))](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf)
 
 QUADRO II
 
 [a que se refere o artigo 7.º, n.º 1, alíneas a), b) e c)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf))](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf)
 
 QUADRO III
 
 [a que se refere o artigo 7.º, n.º 1, alínea d)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf))](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf)
 
 QUADRO IV
 
 [a que se refere o artigo 7.º, n.º 1, alínea f)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf))](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf)
 
 QUADRO V
 
 [a que se refere o artigo 8.º, n.º 1, alíneas a), b) e c)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf))](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf)
 
 QUADRO VI
 
 [a que se refere o artigo 8.º, n.º 1, alíneas d) e f)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf))](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/11000/0335903372.pdf)

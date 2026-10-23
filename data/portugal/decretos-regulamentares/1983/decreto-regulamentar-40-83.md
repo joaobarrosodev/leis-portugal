@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1983-450847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f95c903ab5147c0fbabec8bb95b6a1b21de9f8e9bb1898b6b9dc72e8d78abd48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfde5d0327f6a2dc623c5c810952fcb8956a6f3106d691691906217232891480
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Definição de Competências
+- Direcção Geral do Património do Estado
+- Orgânica
+- Quadro de Pessoal
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:663154:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:401280:por
+  label: "Alargado o quadro de pessoal da Direcção-Geral do Património do Estado, aprovado pelo DR 44/80 de 30-Ago, com a\
+    \ redacção constante do presente diploma, pela PORT.869/84.23.11.1984.PCM, DR.IS [272] de 23.11.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/869-1984-401280
+  date: '1984-11-23'
+- type: amended_by
+  target: pt:dre:327784:por
+  label: "Alterado o quadro de pessoal aprovado pelo DR 44/80 de 30-Ago, com a redacção constante do presente diploma, pela\
+    \ PORT.101/85.15.02.1985.PCM, DR.IS [39] de 15.02.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-1985-327784
+  date: '1985-02-15'
+- type: amended_by
+  target: pt:dre:327133:por
+  label: "Alterado, no referente ao pessoal de informática, o quadro de pessoal da Direcção-Geral do Património do Estado,\
+    \ aprovado pelo DR 44/80 de 30-Ago, com a redacção constante do presente diploma, pela PORT.116/85.22.02.1985.PCM, DR.IS\
+    \ [44] de 22.02.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/116-1985-327133
+  date: '1985-02-22'
+- type: amended_by
+  target: pt:dre:229077:por
+  label: "Alterado o quadro do pessoal da Direcção-Geral do Património do Estado, aprovado pelo DR 44/80 de 30-Ago, com as\
+    \ alterações constantes do presente diploma, pela PORT.290/86.19.06.1986.MF, DR.IS [138] de 19.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/290-1986-229077
+  date: '1986-06-19'
+- type: amended_by
+  target: pt:dre:663154:por
+  label: "Susbtituído o quadro de pessoal da Direcção-Geral do Património do Estado, aprovado pelo DR 44/80 de 30-Ago, com\
+    \ as alterações introduzidas pelo presente diploma, pela PORT.73/87.03.02.1987.MF, DR.IS [28] de 03.02.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/73-1987-663154
+  date: '1987-02-03'
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463975:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:33Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +141,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º e 3.º do [Decreto Regulamentar n.º 44/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1980-463975), de 30 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º e 3.º do [Decreto Regulamentar n.º 44/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1980-463975), de 30 de Agosto, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — Serviços centrais operativos
 
@@ -126,13 +171,13 @@ d) ...
 
 e) Direcção de Serviços do Aprovisionamento Público:
 
-##### Divisão de Racionalização de Consumos;
+Divisão de Racionalização de Consumos;
 
-##### Divisão de Coordenação de Aquisições;
+Divisão de Coordenação de Aquisições;
 
-##### Divisão de Divulgação e Controle.
+Divisão de Divulgação e Controle.
 
-###### Art. 2.º São aditados ao artigo 5.º do [Decreto Regulamentar n.º 44/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1980-463975), de 30 de Agosto, os seguintes preceitos:
+Art. 2.º São aditados ao artigo 5.º do [Decreto Regulamentar n.º 44/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1980-463975), de 30 de Agosto, os seguintes preceitos:
 
 ###### Artigo 5.º
 
@@ -178,9 +223,9 @@ d) Proceder ao lançamento de inquéritos e ao tratamento e recolha de dados sob
 
 e) Apoiar os serviços ou comissões de aprovisionamento específico.
 
-###### Art. 3.º Ao abrigo da alínea b) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, o quadro de pessoal da Direcção-Geral do Património do Estado é aditado dos lugares que constam do mapa anexo ao presente diploma.
+Art. 3.º Ao abrigo da alínea b) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, o quadro de pessoal da Direcção-Geral do Património do Estado é aditado dos lugares que constam do mapa anexo ao presente diploma.
 
-###### Art. 4.º É aditado ao [Decreto Regulamentar n.º 44/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1980-463975), de 30 de Agosto, o seguinte preceito:
+Art. 4.º É aditado ao [Decreto Regulamentar n.º 44/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1980-463975), de 30 de Agosto, o seguinte preceito:
 
 ###### Artigo 10.º-A
 
@@ -188,22 +233,22 @@ e) Apoiar os serviços ou comissões de aprovisionamento específico.
 
 2 - Um dos lugares de subdirector-geral previstos no mapa anexo ao presente diploma será extinto quando vagar.
 
-###### Art. 5.º É revogado o n.º 3 do artigo 14.º do [Decreto Regulamentar n.º 44/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1980-463975), de 30 de Agosto.
+Art. 5.º É revogado o n.º 3 do artigo 14.º do [Decreto Regulamentar n.º 44/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1980-463975), de 30 de Agosto.
 
-###### Art. 6.º O presente diploma entra em vigor na data da sua publicação.
+Art. 6.º O presente diploma entra em vigor na data da sua publicação.
 
 Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 22 de Abril de 1983.**
+Promulgado em 22 de Abril de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Abril de 1983.**
+Referendado em 27 de Abril de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Mapa anexo a que se refere o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/10700/16411643.pdf))](https://files.diariodarepublica.pt/1s/1983/05/10700/16411643.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/10700/16411643.pdf)

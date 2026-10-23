@@ -47,36 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/445-1976-430655
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T05:04:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c17c30be73355cf278b5c5cdfe6911fb30531aaa6f07f875c62a61f9fca98b5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4edcc06fac23755d7a6d50a213f87eee85cbd0f2e5fa6e57c952823f908d6e65
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:04:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Azeite
+- Fabrico Industrial
+- Instituto do Azeite e Produtos Oleaginosos
+- Matéria-Prima
+- ÓLEO Comestivel
+- ÓLEO Vegetal
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:238645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:266127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560232:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:04:48Z'
   warnings: []
   errors: []
 ---
@@ -125,6 +148,6 @@ Ministérios da Indústria e Tecnologia e do Comércio Interno, 14 de Junho de 1
 
 ## ANEXO I — Elementos base para cálculo do esquema de custos dos óleos alimentares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/07/17100/16641665.pdf))](https://files.diariodarepublica.pt/1s/1976/07/17100/16641665.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/07/17100/16641665.pdf)
 
-**O Secretário de Estado da Indústria Ligeira, Luís Filipe Moura Vicente. - O Secretário de Estado do Comércio Alimentar, Mário Martins Baptista.**
+O Secretário de Estado da Indústria Ligeira, Luís Filipe Moura Vicente. - O Secretário de Estado do Comércio Alimentar, Mário Martins Baptista.

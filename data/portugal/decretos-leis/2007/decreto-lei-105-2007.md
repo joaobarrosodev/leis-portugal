@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/105/2007/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c6f6e78e38eecf416cc1663e000ddf10e2b9dd4699223042a40cb0f6af75e8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 233e253b5399611b231ce7c48d407bfc110aee0ad762be8ae76db471103356fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
+- Conselho Diretivo
 - Criação de Lugares
 - Criação de Serviços
 - Definição de Competências
+- Diploma Legal
 - Estatuto
-- Administração Pública
-- Conselho Diretivo
+- Gestão de Recursos Humanos
 - Instituto Público
 - Lei Quadro
 - Mandato
@@ -80,16 +82,50 @@ subjects:
 - Pessoa Colectiva de Direito Público
 - Presidente
 - Quadro de Pessoal
-- Diploma Legal
 - Regime de Pessoal
 - Regime Jurídico
 - Remuneração
-- Gestão de Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:70241301:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterados os arts 9.º e 12.º da Lei 3/2004 de 15-Jan, na redacção e republicação do presente diploma, pela LEI.64-A/2008.31.12.2008.AR,\
+    \ DR.IS [252-Supl] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:145274:por
+  label: "Alterados os arts. 21º e 22º da Lei 4/2004, de 15-Jan, na redacção do presente diploma, pelo DEC LEI.116/2011.05.12.2011.MF,\
+    \ DR.IS [232] de 05.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2011-145274
+  date: '2011-12-05'
+- type: amended_by
+  target: pt:dre:544395:por
+  label: "Alterados os arts. 9º, 12º, 17º, 18º, 20º, 25º, 30º e 48º da Lei n.º 3/2004, de 15-Jan, na redacão do presente diploma,\
+    \ peloDEC LEI.5/2012.17.01.2012.MF, DR.IS [12] de 17.01.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-2012-544395
+  date: '2012-01-17'
+- type: amended_by
+  target: pt:dre:178817:por
+  label: "Alterado o art. 48º da Lei 3/2004, de 15-jan, na redação do presente diploma, pelo DEC LEI.123/2012.20.06.2012.MF,\
+    \ DR.IS [118] de 20.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-2012-178817
+  date: '2012-06-20'
+- type: amended_by
+  target: pt:dre:498755:por
+  label: "Dada nova redação ao art. 48º da Lei 3/2004 de 15-jan, alterado pelo presente diploma, pelo DEC LEI.102/2013.25.07.2013.MECI,\
+    \ DR.IS [142] de 25.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2013-498755
+  date: '2013-07-25'
+- type: amended_by
+  target: pt:dre:67348949:por
+  label: Alterado o art. 48.º da Lei 3/2004, de 15-jan, na redação do presente diploma, pelo(a) Decreto-Lei n.º 96/2015 -
+    Diário da República n.º 104/2015, Série I de 2015-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-2015-67348949
+  date: '2015-05-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/148/2000/07/19/p/dre
   label: null
@@ -122,16 +158,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:187954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
 article_structure:
-  article_count: 112
-  section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 100
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:49Z'
   warnings: []
   errors: []
 ---
@@ -164,13 +244,17 @@ São alterados os artigos 9.º, 12.º, 17.º, 18.º, 20.º, 25.º, 30.º, 33.º 
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - As disposições relativas à organização interna dos institutos públicos constam dos seus estatutos, aprovados por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública e da tutela, e, em tudo o mais que deva ser objecto de regulamentação, de regulamentos internos, propostos pelos órgãos do instituto e aprovados por despacho normativo daqueles membros do Governo.
 
 2 - ...
 
-###### Artigo 17.º — Órgãos
+Artigo 17.º
+
+Órgãos
 
 1 - Os institutos públicos de regime comum adoptam um dos seguintes modelos de órgãos de direcção:
 
@@ -182,11 +266,15 @@ b) Presidente, coadjuvado por um ou mais vice-presidentes, cargos de direcção 
 
 3 - O diploma orgânico de cada instituto pode prever outros órgãos, nomeadamente de natureza consultiva ou de participação dos destinatários da respectiva actividade.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 O conselho directivo é o órgão colegial responsável pela definição da actuação dos institutos que optem pelo modelo previsto na alínea a) do n.º 1 do artigo anterior, bem como pela direcção dos respectivos serviços, em conformidade com a lei e com as orientações governamentais.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - O mandato dos membros do conselho directivo tem a duração de três anos, sendo renovável por iguais períodos.
 
@@ -214,7 +302,9 @@ b) A violação grave dos deveres que lhe foram cometidos como membro do conselh
 
 11 - (Anterior n.º 10.)
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Aos membros do conselho directivo é aplicável o regime definido na presente lei e, subsidiariamente, o Estatuto do Gestor Público.
 
@@ -222,7 +312,9 @@ b) A violação grave dos deveres que lhe foram cometidos como membro do conselh
 
 3 - Aos membros do conselho directivo é aplicável o disposto no [Decreto-Lei n.º 148/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2000-320937), de 19 de Julho.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - O conselho consultivo é composto, nomeadamente, por representantes das entidades ou organizações representativas dos interessados na actividade do instituto, por representantes de outros organismos públicos, bem como por técnicos e especialistas independentes, nos termos previstos no diploma que procede à criação do instituto.
 
@@ -232,7 +324,9 @@ b) A violação grave dos deveres que lhe foram cometidos como membro do conselh
 
 4 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - Os institutos públicos dispõem dos serviços indispensáveis à prossecução das suas atribuições.
 
@@ -240,7 +334,9 @@ b) A violação grave dos deveres que lhe foram cometidos como membro do conselh
 
 3 - ...
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
@@ -256,7 +352,9 @@ São aditados uma secção II-A ao capítulo I do título III, contendo o novo a
 
 Presidente
 
-###### Artigo 25.º-A — Estatuto e competências do presidente
+Artigo 25.º-A
+
+Estatuto e competências do presidente
 
 1 - Aos presidentes e vice-presidentes dos institutos públicos que optem pelo modelo de órgãos de direcção previsto na alínea b) do n.º 1 do artigo 17.º é aplicável o Estatuto do Pessoal Dirigente da Administração Pública.
 
@@ -266,7 +364,9 @@ Presidente
 
 4 - O presidente pode delegar, ou subdelegar, competências nos vice-presidentes, quando existam, sendo substituído nas suas ausências e impedimentos pelo vice-presidente que indicar.
 
-###### Artigo 34.º-A — Alteração de regimes de pessoal
+Artigo 34.º-A
+
+Alteração de regimes de pessoal
 
 1 - Quando se verifique alteração do regime de pessoal de um instituto público, o pessoal que nos termos da lei nele deva exercer funções mantém o respectivo regime de origem.
 
@@ -300,7 +400,9 @@ São alterados os artigos 21.º, 22.º e 24.º da [Lei n.º 4/2004](https://diar
 
 9 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -314,7 +416,9 @@ São alterados os artigos 21.º, 22.º e 24.º da [Lei n.º 4/2004](https://diar
 
 6 - Os titulares de cargos de direcção superior de primeiro grau podem delegar nos chefes de equipas as suas competências próprias.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -368,21 +472,21 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 21 de Março de 2007.**
+Promulgado em 21 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 23 de Março de 2007.**
+Referendado em 23 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Republicação da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro
 
 Lei quadro dos institutos públicos
 
-## TÍTULO I
+TÍTULO I
 
 Objecto e âmbito de aplicação
 
@@ -408,7 +512,7 @@ Objecto e âmbito de aplicação
 
 4 - As sociedades e as associações ou fundações criadas como pessoas colectivas de direito privado pelo Estado, Regiões Autónomas ou autarquias locais não são abrangidas por esta lei, devendo essa criação ser sempre autorizada por diploma legal.
 
-## TÍTULO II
+TÍTULO II
 
 Princípios fundamentais
 
@@ -548,7 +652,7 @@ d) Quando o Estado tiver de cumprir obrigações assumidas pelos órgãos do ins
 
 3 - (Revogado.)
 
-## TÍTULO III
+TÍTULO III
 
 Regime comum
 
@@ -998,7 +1102,7 @@ d) Os orçamentos e as contas dos últimos três anos, incluindo os respectivos 
 
 e) O mapa de pessoal.
 
-## TÍTULO IV
+TÍTULO IV
 
 Regimes especiais
 
@@ -1036,7 +1140,7 @@ f) As entidades administrativas independentes.
 
 3 - Gozam ainda de regime especial, com derrogação do regime comum na estrita medida necessária à sua especificidade, o Instituto de Gestão do Crédito Público, I. P., e o Instituto do Turismo de Portugal, I. P.
 
-## TÍTULO V
+TÍTULO V
 
 Disposições finais e transitórias
 

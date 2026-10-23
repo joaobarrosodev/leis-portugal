@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/09/18400/0000300003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/81/2023/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/81-2023-221904886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T05:49:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f185e9556947504d158b504de53944467fad443fb61a75a02db57a23f7fbd500
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13140d35af5c79094bcbd30250925062db452eaf4da3c5e325f8ee8a97e6e059
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:49:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,21 @@ relationships:
   target: pt:dre:884915682:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:884915682:por
+  label: Exonerada pelo(a) Decreto do Presidente da República n.º 73/2024 - Diário da República n.º 160/2024, Série I de 2024-08-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/73-2024-884915682
+  date: '2024-08-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:49:22Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +97,18 @@ validation:
 
 de 21 de setembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeada, sob proposta do Governo, a ministra plenipotenciária de 1.ª classe Maria Cristina Albuquerque de Vilhena Moniz Moreira para o cargo de Embaixadora de Portugal em São Tomé e Príncipe.
 
-**Assinado em 31 de agosto de 2023.**
+Assinado em 31 de agosto de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de setembro de 2023.**
+Referendado em 15 de setembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa. - O Ministro dos Negócios Estrangeiros, João Titterington Gomes Cravinho.**
+O Primeiro-Ministro, António Luís Santos da Costa. - O Ministro dos Negócios Estrangeiros, João Titterington Gomes Cravinho.
+
+116868368

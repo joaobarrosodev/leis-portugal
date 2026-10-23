@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/322/1999/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1999-423032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:10:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d396e274d9f51b75e7ba418a3bb36c6eb620142b36186586f5cadf46c99190f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c2a37019ed9ab8a524d8257a8ffb9c41e9c35c12ad7d5c7891c536249822eca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,36 +68,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Cobrança de Impostos
 - Cobrança
-- Pagamento
+- Cobrança de Impostos
+- Contribuições e Impostos
 - Imposto de Camionagem
 - Imposto de Circulação
-- Contribuições e Impostos
 - Isenção Fiscal
-- Veículo
-- Transporte de Mercadorias
+- Pagamento
 - Regulamento
 - Taxa
+- Transporte de Mercadorias
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:197511:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterado o art. 6º do Regulamento dos Impostos de Circulação e Camionagem aprovado pelo Dec Lei 116/94 de 03-Mai,\
+    \ com a redacção do presente diploma, pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 6º do Regulamento dos Impostos de Circulação e Camionagem, aprovado pelo Dec Lei 116/94 de 03-Mai,\
+    \ alterado e republicado pelo Dec Lei 89/98 de 06-Abr e com a alteração do presente diploma, pela LEI.53-A/2006.29.12.2006.AR,\
+    \ DR.IS [249-Supl] de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
 - type: cites
   target: celex:31993L0089
   label: null
   source: http://data.europa.eu/eli/dir/1993/89/oj
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:10:22Z'
   warnings: []
   errors: []
 ---
@@ -144,23 +157,23 @@ a) ...
 
 b) ...
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - As taxas anuais do ICi e do ICa são as seguintes:
 
 ICi
 
-[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1999/08/187a00/52905293.pdf)
+[[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1999/08/187a00/52905293.pdf)](https://files.diariodarepublica.pt/1s/1999/08/187a00/52905293.pdf)
 
 ICa
 
-[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1999/08/187a00/52905293.pdf)
+[[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1999/08/187a00/52905293.pdf)](https://files.diariodarepublica.pt/1s/1999/08/187a00/52905293.pdf)
 
 2 - ...
 
 3 - As taxas anuais de ICi e ICa a aplicar nas Regiões Autónomas dos Açores e da Madeira serão de 50% do valor estabelecido nos n.os 1 e 2 deste artigo, desde que efectuem transportes exclusivamente na própria área territorial.
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - O imposto, em relação a cada um dos veículos constantes da base de dados prevista no n.º 4 do artigo 11.º-A, será liquidado, em função da informação ali existente, pelos serviços centrais da Direcção-Geral dos Impostos, que enviarão aos sujeitos passivos, até ao fim do mês anterior ao do início do prazo normal de pagamento, o respectivo documento de cobrança do modelo oficial.
 
@@ -176,11 +189,11 @@ ICa
 
 7 - O acto de liquidação considera-se praticado na repartição de finanças da área do domicílio fiscal dos sujeitos passivos.
 
-###### Artigo 19.º
+Artigo 19.º
 
 Quando se verificar extravio, furto ou inutilização dos documentos previstos nos n.os 1, 2 e 5 do artigo 9.º, poderá ser requerida, à repartição de finanças da área do domicílio fiscal da entidade interessada, certidão comprovativa do pagamento ou da isenção do imposto, a qual substituirá, para todos os efeitos, o documento respectivo.
 
-###### Artigo 20.º
+Artigo 20.º
 
 1 - No caso de extravio, furto ou inutilização dos dísticos, poderá ser concedida uma 2.ª via.
 
@@ -210,12 +223,12 @@ Ao Regulamento dos Impostos de Circulação e Camionagem a que se refere o artig
 
 Visto e aprovado em Conselho de Ministros de 24 de Junho de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 26 de Julho de 1999.**
+Promulgado em 26 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Julho de 1999.**
+Referendado em 28 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

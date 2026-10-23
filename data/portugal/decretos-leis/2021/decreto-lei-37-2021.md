@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/09900/0004800051.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/37/2021/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2021-163728573
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b6ebe1e532adc3a571bafe8800481be7e4e00e6ee597534052a2921e0a21474
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c48079db612edd5cd6c611439db8a84eef4cf390c32583f926708b82de48093
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
 subjects:
 - Financiamento
 - Fiscalização
-- Remuneração Acessória
-- Pagamento
-- Instituto do Turismo de Portugal
-- Remuneração
-- Retribuição Mínima Garantida
 - IAPMEI
+- Instituto do Turismo de Portugal
+- Pagamento
+- Remuneração
+- Remuneração Acessória
+- Retribuição Mínima Garantida
 - Subsídio
 - Trabalhador por Conta de Outrem
 relationships:
@@ -92,16 +92,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:126365738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152637760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629150:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175595604:por
+  label: Revogado, com efeitos a 01.01.2022, nos termos do art. 10.º, o presente diploma, pelo(a) Decreto-Lei n.º 109-B/2021
+    - Diário da República n.º 236/2021, 1º Suplemento, Série I de 2021-12-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-b-2021-175595604
+  date: '2021-12-07'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:26Z'
   warnings: []
   errors: []
 ---
@@ -190,15 +216,15 @@ O financiamento da medida de apoio prevista no presente decreto-lei é assegurad
 
 Visto e aprovado em Conselho de Ministros de 29 de abril de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Miguel Jorge de Campos Cruz - Gabriel Gameiro Rodrigues Bastos.
 
-**Promulgado em 6 de maio de 2021.**
+Promulgado em 6 de maio de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de maio de 2021.**
+Referendado em 10 de maio de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -253,3 +279,5 @@ w) 93295 - Outras atividades de diversão itinerantes;
 x) 96040 - Atividades de bem-estar físico.
 
 2 - O IAPMEI - Agência para a Competitividade e Inovação, I. P., é a entidade responsável pelos pagamentos às entidades empregadoras cuja atividade principal corresponda a atividades económicas incluídas nos grupos/classes/subclasses da CAE - rev. 3, aprovada pelo [Decreto-Lei n.º 381/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-2007-629150), de 14 de novembro, na sua redação atual, que não se encontrem identificadas no número anterior, bem como às entidades empregadoras com registo de atividade enquadrada na tabela de atividades do artigo 151.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), de 30 de novembro, na sua redação atual.
+
+114257623

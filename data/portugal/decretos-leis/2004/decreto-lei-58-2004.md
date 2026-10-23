@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/58/2004/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2004-537842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03319f7ba84b101bb32cde6289e45b5bb8b57646f65019358bf0e201a6a7036f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e5e9ba5422fcc8e99258bf6633ba1672246b951b00ff877be0ae7e182f405ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
+- Equipamento de Veículo
 - Especificação Técnica
 - Homologação
-- Veículo
 - Proteção ao Deficiente
-- Equipamento de Veículo
 - Regulamento
 - Transporte de Passageiros
+- Veículo
 relationships:
 - type: cites
   target: celex:31970L0156
@@ -98,14 +98,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/2001/85/oj
 article_structure:
   article_count: 105
-  section_count: 37
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 38
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:46Z'
   warnings: []
   errors: []
 ---
@@ -160,15 +160,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2003. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - António Jorge de Figueiredo Lopes - Carlos Manuel Tavares da Silva.
 
-**Promulgado em 26 de Fevereiro de 2004.**
+Promulgado em 26 de Fevereiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Março de 2004.**
+Referendado em 5 de Março de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — REGULAMENTO SOBRE DISPOSIÇÕES ESPECIAIS APLICÁVEIS AOS AUTOMÓVEIS PESADOS DE PASSAGEIROS
 
@@ -1140,7 +1140,9 @@ e) Todos os locais em que existam obstáculos.
 
 3 - Devem ser tomadas as medidas necessárias para proteger o condutor dos brilhos e reflexos produzidos pela iluminação artificial do interior do veículo.
 
-###### Artigo 44.º — Secção articulada dos veículos articulados
+###### Artigo 44.º
+
+#### Secção articulada dos veículos articulados
 
 1 - A secção articulada que liga entre si as secções rígidas do veículo deve ser concebida e construída de forma a permitir, no mínimo, a rotação em torno de, pelo menos, um eixo horizontal e, pelo menos, um eixo vertical.
 
@@ -1850,33 +1852,33 @@ Homologação CE de uma unidade técnica e homologação de um veículo equipado
 
 1.1 - Número de saídas - o número mínimo de portas de serviço é o indicado no quadro que se segue:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 1.2 - O número mínimo de saídas deve ser tal que o número total de saídas de um compartimento separado seja o seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 As portinholas de salvação só podem contar como uma das saídas de emergência acima referidas.
 
 1.3 - O número mínimo de portinholas deverá ser o seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 1.4 - Os diversos tipos de saídas devem ter as seguintes dimensões mínimas:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 1.5 - A altura do painel rectangular superior para as diferentes classes e categorias de veículos encontra-se indicada no quadro abaixo:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 1.6 - As dimensões do gabarito devem ser as seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 1.7 - As alturas máxima e mínima, com o sistema de rebaixamento não activado, e a profundidade mínima dos degraus para os passageiros nas portas de serviço e de emergência e no interior do veículo devem ser as seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 Notas
 
@@ -1886,7 +1888,7 @@ Notas
 
 1.8 - A largura e a forma dos degraus deve ser tal que seja possível colocar o rectângulo previsto no quadro seguinte sobre o degrau em questão sem que deste sobressaiam mais de 5% da área do correspondente rectângulo:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 1.9 - No que respeita ao espaçamento dos bancos, no caso dos bancos orientados no mesmo sentido, a distância entre a face anterior do encosto de um banco e a face posterior do encosto do banco precedente (dimensão H), medida na horizontal a todas as alturas compreendidas entre o nível da superfície superior do assento do banco e um ponto situado 620 mm acima do piso, não deve ser inferior a:
 
@@ -1920,7 +1922,7 @@ Características do veículo, como a distância entre os eixos, a largura do pis
 
 ## ANEXO III — Documentação de homologação CE
 
-## APÊNDICE N.º 1
+APÊNDICE N.º 1
 
 Ficha de informações
 
@@ -2332,7 +2334,7 @@ No caso de os sistemas, componentes ou unidades técnicas possuírem controlos e
 
 (**) Os números dos pontos correspondem aos do anexo I(a) da Directiva n.º [92/53/CEE](https://data.europa.eu/eli/dir/1992/53/oj?locale=pt), que altera a Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt).
 
-## APÊNDICE N.º 2
+APÊNDICE N.º 2
 
 SUBAPÊNDICE N.º 1
 
@@ -2670,13 +2672,13 @@ Espaço residual
 
 1(a) Corte transversal:
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 Nota. - V. requisitos constantes do n.º 1 do artigo 58.º ao presente Regulamento.
 
 1(b) Corte longitudinal - secção A-A do veículo segundo o plano vertical que passa nos eixos médios dos bancos interiores:
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 Nota. - V. requisitos constantes do n.º 2 do artigo 58.º do presente Regulamento.
 
@@ -2726,7 +2728,7 @@ Ensaio de capotagem de um veículo completo
 
 FIGURA N.º 1
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 ## ANEXO VII — [referente à alínea b) do n.º 1 do artigo 57.º]
 
@@ -2788,7 +2790,7 @@ Ensaio com um pêndulo de uma secção de carroçaria
 
 Cálculo da energia total (E*)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 Hipóteses:
 
@@ -2804,7 +2806,7 @@ E* = 0,75M.g.h (Nm)
 
 Em alternativa, E* pode ser calculado através da seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 ## ANEXO VIII-B — [referente à alínea c) do n.º 1 do artigo 57.º]
 
@@ -2816,7 +2818,7 @@ Requisitos aplicáveis à distribuição das partes principais da superstrutura 
 
 3 - O fabricante deve indicar quais são os montantes da superstrutura que considera contribuírem para a resistência da mesma e também a quantidade de energia (E(índice i)) que está previsto que cada montante absorva. Os elementos fornecidos devem satisfazer os seguintes critérios:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf))](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 ## ANEXO IX — [referente à alínea d) do n.º 1 do artigo 57.º]
 
@@ -2850,7 +2852,7 @@ Directrizes para a medição das forças de fecho das portas de funcionamento as
 
 2.3 - A força efectiva, F(índice E), é o valor médio da força de fecho calculado para a duração do impulso:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 2.4 - A duração do impulso, T, é o intervalo de tempo compreendido entre t(índice 1) e t(índice 2):
 
@@ -2866,11 +2868,11 @@ t(índice 2) = limiar de extinção, momento a partir do qual a força de fecho 
 
 FIGURA 1
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 2.6 - A força de aperto F(índice c), é o valor da média aritmética das forças efectivas, medidas várias vezes e sucessivamente no mesmo ponto:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 3 - Medições:
 
@@ -2910,17 +2912,17 @@ Nos rebordos secundários que encostam ao batente da porta, no ponto considerado
 
 FIGURA 2
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 ## ANEXO XI — Requisitos específicos aplicáveis a veículos de lotação não superior a 22 passageiros
 
 1 - Dimensões mínimas das saídas - os diversos tipos de saídas devem ter as seguintes dimensões:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 1.1.1 - Os veículos aos quais se aplique o n.º 13 do artigo 31.º do presente Regulamento devem satisfazer os requisitos constantes do n.º 1 do artigo 22.º ou do ponto 1.1 do presente anexo referentes às janelas de emergência e às portinholas de tejadilho e, no que respeita às portas de serviço e às portas de emergência, os requisitos mínimos a seguir especificados:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 1.2 - Localização das saídas:
 
@@ -2938,30 +2940,30 @@ FIGURA 2
 
 QUADRO I
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 1.1 - O número de saídas de emergência deve ser tal que o número total de saídas seja, no mínimo, o indicado no quadro seguinte, determinando-se separadamente o número de saídas em cada andar ou compartimento separado.
 
 QUADRO II
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 1.1.1 - Os veículos da classe I também podem dispor de portinholas de salvação, sendo o número mínimo, nesse caso, o seguinte:
 
 QUADRO III
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 2 - As dimensões do gabarito referido no n.º 1 do artigo 93.º devem ser as seguintes:
 
 QUADRO IV
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
 ## ANEXO XIII — Figura n.º 1 - Corredores
 
 (v. artigo 93.º)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)](https://files.diariodarepublica.pt/1s/2004/03/067a00/14971550.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/224/2012/10/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-2012-192395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b51c0942b480300a2d357d3bdf7de77d5b05485a98eed03b981e008bb4215d86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71aad3a7a8b481bce9a465a47a4385454782b79a30f4c2db19efcc2f03d301f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contra-ordenação
-- Transporte Rodoviário
 - Combustível
+- Comércio
+- Contra-ordenação
 - Direção Geral de Energia e Geologia
 - Gasóleo
 - Gasolina
 - Importação
+- Indústria Transformadora
 - Produtor
 - Prorrogação de Prazo
-- Indústria Transformadora
-- Comércio
 - Transporte
 - Transporte Público
+- Transporte Rodoviário
 relationships:
+- type: amends
+  target: pt:numero:lei:117/2010
+  label: "Prorroga até 11.07.2014 o período de suspensão da vigência do n.º 1 do art. 15.º do Dec Lei n.º 117/2010, de 25-out,\
+    \ DR IS [207], na redação do Dec Lei 6/2012, de 17-jan\0\0"
+  source: null
+  date: '2010-10-25'
 - type: cites
   target: celex:32009L0028
   label: null
@@ -96,13 +102,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:15Z'
   warnings: []
   errors: []
 ---
@@ -137,12 +143,12 @@ O período de suspensão da vigência do n.º 1 do artigo 15.º do Decreto-Lei n
 
 Visto e aprovado em Conselho de Ministros de 13 de setembro de 2012. - Pedro Passos Coelho - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 8 de outubro de 2012.**
+Promulgado em 8 de outubro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de outubro de 2012.**
+Referendado em 10 de outubro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

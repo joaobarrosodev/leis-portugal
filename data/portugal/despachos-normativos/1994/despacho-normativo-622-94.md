@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/622/1994/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/622-1994-218698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T08:23:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3ee5592f994a56388f4c8b13a1a4434299ce19d31fd32133a33c4fc7623482e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d9676bbb22f1cc79b4d6b81a24e7919e8388e58590fdd14c9556930251018a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:23:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cooperação Interempresas
 - Administração Pública
+- Cooperação Interempresas
 - Medidas Voluntaristas
 relationships:
 - type: amended_by
   target: pt:dre:423618:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "COMETIDA A DIRECÇÃO GERAL DA INDÚSTRIA A RESPONSABILIDADE DA GESTÃO DAS MEDIDAS REFERIDAS NAS AL A) E G) DO NUM\
+    \ 1 DO ART 2 PELO DN 24-C/96 DE 26-JUN DR.IS-B [158]SUPL DE 10/JUL/1996\0/JUL/1996"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-07-10'
+- type: amended_by
+  target: pt:dre:423618:por
+  label: "Alterados os arts. 2º e 3º pelo DN.51/98.1998.06.24.MECO, DR.IS-B [161]d\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/51-1998-423618
+  date: '1998-06-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/177/1994/06/27/p/dre
   label: null
@@ -81,16 +92,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
+- type: cites
+  target: pt:dre:290635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291631:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:23:17Z'
   warnings: []
   errors: []
 ---

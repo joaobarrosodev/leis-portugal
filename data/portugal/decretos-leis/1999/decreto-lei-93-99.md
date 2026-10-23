@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/069a00/16171619.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/93/1999/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1999-150332
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:16:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1910ae55eebca135eda4468f79e1daffcfadd45eac87c2adf289f1336d30189
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c761d7dc03a151403ed0b5782d3063548734a188c2702bf69ea85f3593da308
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Promoção Turística
 - Comunidade Europeia
-- Portugal
-- Profissional de Turismo
+- Guia-intérprete
 - Informação Turística
 - Livre Prestação de Serviços
 - Nacional das Comunidades
-- Guia-intérprete
+- Portugal
+- Profissional de Turismo
+- Promoção Turística
 - Tratado CEE
+- Turismo
 - Viagem de Turismo
 relationships:
 - type: amended_by
   target: pt:dre:669541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:609870:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:692258:por
+  label: "Recticada pela DECL-RECT.10-AG/99.1999.05.31.PCM DR.IS-A [126]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-ag-1999-692258
+  date: '1999-05-31'
+- type: repealed_by
+  target: pt:dre:669541:por
+  label: "Revogado, a partir de 01.08.2011, o Dec Lei 179/89, de 27-Maio, na redacção do presente diploma, pelo DEC LEI.92/2011.27.07.2011.MTSSO,\
+    \ DR.IIS [143] de 27.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2011-669541
+  date: '2011-07-27'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:16:19Z'
   warnings: []
   errors: []
 ---
@@ -628,12 +643,12 @@ O presente diploma entra em vigor no dia imediatamente a seguir ao da sua public
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Joaquim Augusto Nunes de Pina Moura - Eduardo Carrega Marçal Grilo - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho.
 
-**Promulgado em 3 de Março de 1999.**
+Promulgado em 3 de Março de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Março de 1999.**
+Referendado em 10 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

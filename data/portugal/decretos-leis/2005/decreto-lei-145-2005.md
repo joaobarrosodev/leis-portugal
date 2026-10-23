@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/145/2005/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2005-245286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b2a261257a05ff7847324dc0a8859ee14c2a4fe937058a804d34df6249c1aa1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b59790156d61df58d1469bdafbc8c417bd35e1dc01885b1b5a05c58bf9b29fe6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
-- Energia não Poluente
 - Contrato de Concessão
 - Domínio Público Marítimo
-- Inspecção de Navios
+- Embarcação
+- Energia não Poluente
 - Estaleiros Navais de Viana do Castelo
 - Indústria da Construção Naval
+- Inspecção de Navios
 relationships:
 - type: amended_by
   target: pt:dre:498769:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:640880:por
+  label: "Alterado o art. 4º do Dec Lei 35570 de 01-Abr 1946, aditado pelo presente diploma, pelo DEC LEI.297/2007.22.08.2007.MOPTC,\
+    \ DR.IS [161] de 22.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/297-2007-640880
+  date: '2007-08-22'
+- type: amended_by
+  target: pt:dre:498769:por
+  label: "Dada nova redação aos art. 2º, 4º, 5º, 6º e 7º do Dec Lei 35570 de 01-abr 1946, com as alterações constantes do\
+    \ presente diploma, pelo DEC LEI.98/2013.24.07.2013.MDN, DR.IS [141] de 24.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2013-498769
+  date: '2013-07-24'
+- type: cites
+  target: pt:dre:234495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339624:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:24Z'
   warnings: []
   errors: []
 ---
@@ -142,38 +162,38 @@ São aditados ao [Decreto-Lei n.º 35570](https://diariodarepublica.pt/dr/detalh
 
 A concessionária pode subconcessionar o direito de uso privativo de uma área não superior a 100000 m2, conforme descrição na planta anexa, para a instalação de indústria de fabricação de componentes para aerogeradores eólicos, mediante contrato de subconcessão, cujos termos serão sujeitos à aprovação prévia do concedente.
 
-###### Artigo 5.º
+Artigo 5.º
 
 O prazo da subconcessão não poderá exceder o prazo da concessão.
 
-###### Artigo 6.º
+Artigo 6.º
 
 Os projectos referentes a obras de infra-estruturas e a equipamentos fixos e os projectos de exploração de novas actividades a efectivar dentro da área a subconcessionar deverão ser submetidos, pelo subconcessionário, à aprovação das entidades competentes para o efeito.
 
-###### Artigo 7.º
+Artigo 7.º
 
 A execução das obras e a instalação do equipamento fixo estão sujeitos à fiscalização do concedente.
 
-###### Artigo 8.º
+Artigo 8.º
 
 Terminado o prazo a que se refere o artigo 5.º reverterão gratuitamente para o Estado todas as obras e investimentos fixos integrados no estabelecimento objecto da subconcessão.
 
-###### Artigo 9.º
+Artigo 9.º
 
 Mantêm-se inalteradas as demais cláusulas do contrato de concessão celebrado entre o concedente e a concessionária.
 
-###### Artigo 10.º
+Artigo 10.º
 
 As alterações decorrentes do presente diploma constarão de aditamento ao contrato de concessão.»
 
 Visto e aprovado em Conselho de Ministros de 22 de Julho de 2005. - José Sócrates Carvalho Pinto de Sousa - Mário Lino Soares Correia.
 
-**Promulgado em 14 de Agosto de 2005.**
+Promulgado em 14 de Agosto de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Agosto de 2005.**
+Referendado em 18 de Agosto de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/183/2012/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2012-179003
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 956f6be49192aa0cf2e8beb393021f37e1ddb8fef7544ce2398522e62a2303c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de8498328a79d519ece1ca735ab2369d372683a87e9eb9cc047ad27c9d775798
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ subjects:
 - Aeronave com Motor
 - Aeroporto
 - Aproximação das Legislações
+- Aviação Civil
 - Avião
-- Transporte Aéreo
-- Instituto Nacional de Aviação Civil
 - Especificação Técnica
+- Instituto Nacional de Aviação Civil
 - Normas de Segurança
 - Países Terceiros
 - Pessoal de Inspecção
-- Aviação Civil
 - Segurança Aérea
+- Transporte Aéreo
 - Vistoria
 relationships:
 - type: cites
@@ -102,15 +102,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/40/2006/02/21/p/dre
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:34Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +161,9 @@ c) 'Inspeção de placa', a inspeção das aeronaves de países terceiros nos te
 
 d) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -187,21 +189,21 @@ d) ...
 
 Visto e aprovado em Conselho de Ministros de 14 de junho de 2012. - Pedro Passos Coelho - Álvaro Santos Pereira.
 
-**Promulgado em 25 de julho de 2012.**
+Promulgado em 25 de julho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de julho de 2012.**
+Referendado em 27 de julho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 3.º)
 
 ## ANEXO I — SAFA - Relatório tipo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15200/0414904153.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15200/0414904153.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15200/0414904153.pdf)
 
 ## ANEXO II — Manual de procedimentos CE para as inspeções de placa (SAFA) - Elementos centrais
 
@@ -341,8 +343,8 @@ d) Classe 3d - proibição imediata de operação: o Governo, através do membro
 
 ## ANEXO III — Formulário de relatório de inspeção de placa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15200/0414904153.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15200/0414904153.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15200/0414904153.pdf)
 
 ## ANEXO IV — Formulário do certificado de inspeção de placa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15200/0414904153.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15200/0414904153.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15200/0414904153.pdf)

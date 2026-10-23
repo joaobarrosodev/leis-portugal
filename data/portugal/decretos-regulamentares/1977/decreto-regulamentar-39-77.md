@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/06/13600/14301432.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1977-253384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T05:56:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f29677ce165cfc4ddf06e7b51d63b1e0aad99a060a53e92a61024406bab44d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78c10de77c11f6d429b48e5effcb3acc0e6b491be413f29990aa39acbb615275
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:56:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério dos Assuntos Sociais
+- Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:421588:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688979:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:421588:por
+  label: "Revogado pelo DEC LEI.210/87.20.05.1987.MS, DR.IS [115] de 20.05.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-1987-421588
+  date: '1987-05-20'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:56:55Z'
   warnings: []
   errors: []
 ---
@@ -140,20 +164,20 @@ A dúvidas suscitadas na interpretação deste diploma legal serão resolvidas p
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Armando Bacelar.
 
-**Promulgado em 31 de Maio de 1977.**
+Promulgado em 31 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro II (Tabela B)
 
 Secretaria-Geral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/13600/14301432.pdf))](https://files.diariodarepublica.pt/1s/1977/06/13600/14301432.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/13600/14301432.pdf)
 
 Nota
 
 Ao funcionário encarregado de secretariar o secretário-geral, designado por despacho do Ministro dos Assuntos Sociais, será abonada a gratificação mensal de 1000$00.
 
-**O Ministro dos Assuntos Sociais, Armando Bacelar.**
+O Ministro dos Assuntos Sociais, Armando Bacelar.

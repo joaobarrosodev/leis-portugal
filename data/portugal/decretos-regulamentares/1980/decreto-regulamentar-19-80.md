@@ -47,40 +47,207 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-1980-474492
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 248a722b7fd6d8161c42ae5b84e1779781d4c83431657503a8bd7f49fd475fa8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47ff536db953e5d86024f3d46a5bac8dd223ff6da148cea6668bb29876549960
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral da Acção Cultural
+- Direcção Geral dos Serviços Centrais
+- Gabinete de Organização e Pessoal
+- Gabinete de Planeamento
+- Orgânica
+- Quadro de Pessoal
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO ANEXO II PELA PORTARIA 864/80, PUBLICADA NO DR.IS, 246.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1980-10-23'
+- type: amended_by
+  target: pt:dre:574509:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral dos Serviços Centrais, aprovado pelo presente diploma, pela PORT.432/81.27.05.1981.PCM,\
+    \ DR.IS [121] de 27.05.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/432-1981-574509
+  date: '1981-05-27'
+- type: amended_by
+  target: pt:dre:395506:por
+  label: "Alterado o quadro de pessoal pela PORT.646/82.1982.06.29.MFP DR.IS [147]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/646-1982-395506
+  date: '1982-06-29'
+- type: amended_by
+  target: pt:dre:378511:por
+  label: "Aumentado o quadro de pessoal da Direcção-Geral de Acção Cultural, pela PORT.1020/82.04.11.1982.MFP, DR.IS [255]\
+    \ de 04.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1020-1982-378511
+  date: '1982-11-04'
+- type: amended_by
+  target: pt:dre:196742:por
+  label: "Alterado o quadro de pessoal pela PORT.89/86.1986.03.15.MF, DR.IS [62]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/89-1986-196742
+  date: '1986-03-15'
+- type: amended_by
+  target: pt:dre:583593:por
+  label: "Alterado o quadros de pessoal pela PORT.11/88.07.01.1988.PCM, DR.IS [5] de 07.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/11-1988-583593
+  date: '1988-01-07'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DA DIRECÇÃO GERAL DA ACÇÃO CULTURAL, PELA PORTARIA 157/88, PUBLICADA NO DR.IS, 62.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-03-15'
+- type: amended_by
+  target: pt:dre:555424:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Acção Cultural, pelo DN.121/90.15.10.1990.PCM, DR.IS [238] de\
+    \ 15.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/121-1990-555424
+  date: '1990-10-15'
+- type: amended_by
+  target: pt:dre:555388:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Acção Cultural, pelo DN.122/90.16.10.1990.PCM, DR.IS [239] de\
+    \ 16.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/122-1990-555388
+  date: '1990-10-16'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ADITADO UM LUGAR DE TÉCNICO SUPERIOR PRINCIPAL E UM LUGAR DE TÉCNICO SUPERIOR DE 1 CLASSE AO QUADRO DE PESSOAL DA
+    DIRECÇÃO GERAL DA ACÇÃO CULTURAL PELO DESPACHO NORMATIVO 28/91, PUBLICADO NO DR.IS-B, 28, NA REDACÇÃO DADA PELA PORTARIA
+    157/88, PUBLICADA NO DR.IS, 62, DE 15 DE MARCO.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-02-02'
+- type: amended_by
+  target: pt:dre:509394:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Acção Cultural, com a redacção conferida pela Port 157/88 de 15-Mar,\
+    \ pelo DN.28/91.02.02.1991.SEO-MF, DR.IS-B [28] de 02.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/28-1991-509394
+  date: '1991-02-02'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELO DESPACHO NORMATIVO 99/91 PUBLICADO NO DR.IS-B, 105.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-05-08'
+- type: amended_by
+  target: pt:dre:610759:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Acção Cultural, pelo DN.99/91.08.05.1991.PCM, DR.IS-B [105] de\
+    \ 08.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/99-1991-610759
+  date: '1991-05-08'
+- type: amended_by
+  target: pt:dre:668285:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Acção Cultural, pelo DN.133/91.04.07.1991.PCM, DR.IS-B [151] de\
+    \ 04.07.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/133-1991-668285
+  date: '1991-07-04'
+- type: amended_by
+  target: pt:dre:682236:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Acção Cultural, pelo DN.148/91.08.08.1991.PCM, DR.IS-B [181] de\
+    \ 08.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/148-1991-682236
+  date: '1991-08-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORTARIA 292/92, PUBLICADA NO DR.IS-B, 79.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-04-03'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORTARIA 415/92, PUBLICADA NO DR.IS-B, 116.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-05-20'
+- type: amended_by
+  target: pt:dre:515587:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral dos Serviços Centrais, pelo DN.77/92.28.05.1992.PCM, DR.IS-B [123]\
+    \ de 28.05.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/77-1992-515587
+  date: '1992-05-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 3/93, PUBLICADO NO DR.IS-B, 280. \00."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-01-25'
+- type: cites
+  target: pt:dre:141047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:462662:por
+  label: Rectificado pela DECL.DD6834.23.10.1980.PCM, DR.IS [246] de 23.10.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-462662
+  date: '1980-10-23'
+- type: repealed_by
+  target: pt:dre:410282:por
+  label: "Revogados os capítulos III a VI pelo DEC LEI.106-A/92.01.06.1992.PCM, DR.IS-A [126]Supl de 01.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-a-1992-410282
+  date: '1992-06-01'
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogado, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), os artigos\
+    \ 50.º a 65.º do presente diploma, pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:53Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +264,11 @@ Nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta:
 
 ### CAPÍTULO I — Âmbito de aplicação
 
-###### Artigo 1.º A organização e o funcionamento do Conselho de Directores-Gerais, da Direcção-Geral dos Serviços Centrais, do Gabinete de Planeamento, do Gabinete de Organização e Pessoal e da Direcção-Geral da Acção Cultural a que se referem as alíneas a), b), c), d) e i) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril, regem-se pelas normas contidas no presente diploma.
+Artigo 1.º A organização e o funcionamento do Conselho de Directores-Gerais, da Direcção-Geral dos Serviços Centrais, do Gabinete de Planeamento, do Gabinete de Organização e Pessoal e da Direcção-Geral da Acção Cultural a que se referem as alíneas a), b), c), d) e i) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril, regem-se pelas normas contidas no presente diploma.
 
 ### CAPÍTULO II — Conselho de Directores-Gerais
 
-###### Art. 2.º - 1 - Ao Conselho de Directores-Gerais compete recolher informação e apresentar propostas relativas a uma eficiente articulação do funcionamento e das actividades dos diversos órgãos e serviços, bem como emitir pareceres em matéria específica ou generalizada da vida cultural do País.
+Art. 2.º - 1 - Ao Conselho de Directores-Gerais compete recolher informação e apresentar propostas relativas a uma eficiente articulação do funcionamento e das actividades dos diversos órgãos e serviços, bem como emitir pareceres em matéria específica ou generalizada da vida cultural do País.
 
 2 - O Conselho de Directores-Gerais, presidido pelo Secretário de Estado da Cultura, é constituído por:
 
@@ -117,7 +284,7 @@ b) Presidente da Comissão de Classificação de Espectáculos.
 
 ### CAPÍTULO III — Direcção-Geral dos Serviços Centrais
 
-###### Art. 3.º A Direcção-Geral dos Serviços Centrais, como órgão de administração geral da Secretaria de Estado da Cultura, tem como atribuições:
+Art. 3.º A Direcção-Geral dos Serviços Centrais, como órgão de administração geral da Secretaria de Estado da Cultura, tem como atribuições:
 
 a) Administrar o pessoal e exercer a acção disciplinar, efectuando inquéritos e instruindo processos, quando superiormente determinado;
 
@@ -127,7 +294,7 @@ c) Organizar e manter o arquivo da documentação administrativa;
 
 d) Exercer a administração financeira e patrimonial da Secretaria de Estado e organizar o projecto do respectivo orçamento.
 
-###### Art. 4.º Na prossecução das atribuições que lhe são cometidas no artigo anterior, à Direcção-Geral dos Serviços Centrais competente:
+Art. 4.º Na prossecução das atribuições que lhe são cometidas no artigo anterior, à Direcção-Geral dos Serviços Centrais competente:
 
 a) Apoiar administrativamente o Gabinete do Secretário de Estado da Cultura;
 
@@ -141,7 +308,7 @@ e) Efectuar uma gestão unificada dos quadros do pessoal dos órgãos e serviço
 
 f) Desempenhar funções nos domínios das relações públicas, do tratamento e difusão de informações e documentação em matéria técnico-administrativa, de instalações e noutros de natureza comum aos diversos órgãos e serviços da Secretaria de Estado.
 
-###### Art. 5.º Para o exercício das suas atribuições e competências, a Direcção-Geral dos Serviços Centrais compreende:
+Art. 5.º Para o exercício das suas atribuições e competências, a Direcção-Geral dos Serviços Centrais compreende:
 
 a) Direcção dos Serviços Administrativos;
 
@@ -149,7 +316,7 @@ b) Divisão de Documentação;
 
 c) Divisão de Relações Públicas.
 
-###### Art. 6.º - 1 - Compete à Direcção dos Serviços Administrativos assegurar os serviços relativos ao pessoal, ao registo e encaminhamento do expediente, ao arquivo, à contabilidade e ao aprovisionamento em mobiliário e equipamento relativamente à Direcção-Geral dos Serviços Centrais e aos órgãos e serviços da Secretaria de Estado da Cultura que não disponham de meios apropriados para o efeito.
+Art. 6.º - 1 - Compete à Direcção dos Serviços Administrativos assegurar os serviços relativos ao pessoal, ao registo e encaminhamento do expediente, ao arquivo, à contabilidade e ao aprovisionamento em mobiliário e equipamento relativamente à Direcção-Geral dos Serviços Centrais e aos órgãos e serviços da Secretaria de Estado da Cultura que não disponham de meios apropriados para o efeito.
 
 2 - A Direcção dos Serviços Administrativos compreende:
 
@@ -159,7 +326,7 @@ b) Repartição de Contabilidade, Economato e Património;
 
 c) Repartição Administrativa do Fundo de Fomento Cultural.
 
-###### Art. 7.º - 1 - A Repartição Administrativa compreende:
+Art. 7.º - 1 - A Repartição Administrativa compreende:
 
 a) Secção de Pessoal;
 
@@ -187,7 +354,7 @@ d) O expediente relativo à publicação dos diplomas legais emanados da Secreta
 
 e) O arquivo estático, incluindo o respectivo serviço de microfilmagem, da Secretaria de Estado, passando certidões quando previamente autorizadas.
 
-###### Art. 8.º - 1 - A Repartição de Contabilidade, Economato e Património compreende:
+Art. 8.º - 1 - A Repartição de Contabilidade, Economato e Património compreende:
 
 a) Secção de Contabilidade;
 
@@ -221,7 +388,7 @@ c) Gerir o parque de viaturas a cargo da Direcção-Geral, zelando pela sua segu
 
 d) Orientar o serviço do pessoal operário e auxiliar.
 
-###### Art. 9.º - 1 - A Repartição Administrativa do Fundo de Fomento Cultural compreende:
+Art. 9.º - 1 - A Repartição Administrativa do Fundo de Fomento Cultural compreende:
 
 a) Secção de Expediente;
 
@@ -253,7 +420,7 @@ f) Passar certidões dos recebimentos dos subsídios autorizados;
 
 g) Preparar e elaborar o relatório e a conta anual de gerência do Fundo.
 
-###### Art. 10.º À Divisão de Documentação compete:
+Art. 10.º À Divisão de Documentação compete:
 
 a) Recolher documentação, bibliografia e outros elementos de natureza técnico-administrativa;
 
@@ -263,7 +430,7 @@ c) Apoiar, em assuntos de documentação, os órgãos e serviços da Secretaria 
 
 d) Assegurar o funcionamento da biblioteca da Secretaria de Estado da Cultura.
 
-###### Art. 11.º À Divisão de Relações Públicas compete:
+Art. 11.º À Divisão de Relações Públicas compete:
 
 a) Organizar o serviço de recepção e atendimento do público;
 
@@ -279,7 +446,7 @@ f) Recolher e difundir pelos órgãos e serviços da Secretaria de Estado as not
 
 ### CAPÍTULO IV — Gabinete de Planeamento
 
-###### Art. 12.º - 1 - O Gabinete de Planeamento, adiante designado por Gabinete, tem como atribuições apoiar o Secretário de Estado da Cultura em todas as matérias e questões relacionadas com o planeamento e com a formulação e acompanhamento da política sectorial.
+Art. 12.º - 1 - O Gabinete de Planeamento, adiante designado por Gabinete, tem como atribuições apoiar o Secretário de Estado da Cultura em todas as matérias e questões relacionadas com o planeamento e com a formulação e acompanhamento da política sectorial.
 
 2 - Na prossecução das atribuições que lhe são cometidas no número anterior, ao Gabinete compete:
 
@@ -297,7 +464,7 @@ f) Pronunciar-se sobre todos os assuntos de natureza jurídica que lhe sejam sub
 
 g) Colaborar na preparação e redacção dos projectos de diplomas quando lhe for determinado.
 
-###### Art. 13.º - 1 - O Gabinete, dirigido por um director, compreende os seguintes órgãos:
+Art. 13.º - 1 - O Gabinete, dirigido por um director, compreende os seguintes órgãos:
 
 a) Comissão de planeamento;
 
@@ -311,7 +478,7 @@ b) Serviços Jurídicos.
 
 3 - O Gabinete é apoiado pelos núcleos de planeamento existentes nas direcções-gerais ou órgãos equiparados e nos órgãos regionais da Secretaria de Estado da Cultura.
 
-###### Art. 14.º - 1 - Ao director, para além da coordenação da actividade global do Gabinete, compete:
+Art. 14.º - 1 - Ao director, para além da coordenação da actividade global do Gabinete, compete:
 
 a) Representar a Secretaria de Estado da Cultura nos órgãos centrais de planeamento ou outros em que esteja prevista essa representação;
 
@@ -321,7 +488,7 @@ c) Assegurar as relações com os demais órgãos e serviços da Secretaria de E
 
 2 - O director é substituído nas suas ausências e impedimentos pelo director de serviços.
 
-###### Art. 15.º - 1 - À comissão de planeamento compete proceder à articulação de actividades no domínio do planeamento e programação entre o Gabinete e os órgãos e serviços da Secretaria de Estado da Cultura.
+Art. 15.º - 1 - À comissão de planeamento compete proceder à articulação de actividades no domínio do planeamento e programação entre o Gabinete e os órgãos e serviços da Secretaria de Estado da Cultura.
 
 2 - A comissão é composta por:
 
@@ -335,11 +502,11 @@ d) Outras entidades, por despacho do membro do Governo que tiver a seu cargo a �
 
 3 - O funcionamento da comissão de planeamento será definido por despacho do membro do Governo que tiver a seu cargo a área da cultura.
 
-###### Art. 16.º - 1 - À comissão consultiva de estatística compete desempenhar as funções previstas nos Decretos-Leis n.os [427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802) de 25 de Agosto, e [96/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1977-141047), de 17 de Março, sobre os assuntos de natureza estatística que interessem aos diversos órgãos e serviços da Secretaria de Estado ou por ela tutelados, exercendo a sua actividade em estreita colaboração com os restantes órgãos do Sistema Estatístico Nacional.
+Art. 16.º - 1 - À comissão consultiva de estatística compete desempenhar as funções previstas nos Decretos-Leis n.os [427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802) de 25 de Agosto, e [96/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1977-141047), de 17 de Março, sobre os assuntos de natureza estatística que interessem aos diversos órgãos e serviços da Secretaria de Estado ou por ela tutelados, exercendo a sua actividade em estreita colaboração com os restantes órgãos do Sistema Estatístico Nacional.
 
 2 - A composição e as normas internas de funcionamento da comissão constarão de regulamento a aprovar por despacho do membro do Governo que tiver a seu cargo a área da cultura.
 
-###### Art. 17.º À Direcção de Serviços de Planeamento compete a concretização das atribuições do Gabinete no que respeita:
+Art. 17.º À Direcção de Serviços de Planeamento compete a concretização das atribuições do Gabinete no que respeita:
 
 a) À elaboração e acompanhamento dos planos nacionais, sectoriais e regionais de desenvolvimento e subsequentes programas de investimento;
 
@@ -349,7 +516,7 @@ c) À recolha, tratamento e análise de elementos de informação estatística r
 
 d) À gestão dos equipamentos informáticos existentes.
 
-###### Art. 18.º A Direcção de Serviços de Planeamento compreende:
+Art. 18.º A Direcção de Serviços de Planeamento compreende:
 
 a) Divisão de Estudos e Planeamento;
 
@@ -357,7 +524,7 @@ b) Divisão de Programação e Contrôle;
 
 c) Divisão de Estatística.
 
-###### Art. 19.º À Divisão de Estudos e Planeamento compete:
+Art. 19.º À Divisão de Estudos e Planeamento compete:
 
 a) Proceder ao diagnóstico da situação necessário à fundamentação dos respectivos planos e programas de desenvolvimento;
 
@@ -369,7 +536,7 @@ d) Acompanhar ou realizar pesquisas das relações entre o público e fenómeno 
 
 e) Promover a recolha e análise de elementos relativos aos resultados das acções empreendidas.
 
-###### Art. 20.º À Divisão de Programação e Contrôle compete:
+Art. 20.º À Divisão de Programação e Contrôle compete:
 
 a) Definir e propor as orientações que deverá obedecer a apresentação dos programas e projectos de investimento e os critérios para a sua avaliação;
 
@@ -377,7 +544,7 @@ b) Coordenar a preparação do plano de actividades da Secretaria de Estado numa
 
 c) Acompanhar a realização de programas, propondo as eventuais correcções e elaborando relatórios periódicos de execução.
 
-###### Art. 21.º À Divisão de Estatística compete:
+Art. 21.º À Divisão de Estatística compete:
 
 a) Estabelecer, em articulação com os restantes serviços da Secretaria de Estado, os planos de produção de indicadores estatísticos para o sector;
 
@@ -391,7 +558,7 @@ e) Divulgar as actividades desenvolvidas pela Secretaria de Estado;
 
 f) Identificar, caracterizar e incrementar as aplicações informáticas necessárias ao desenvolvimento das actividades dos diversos serviços da Secretaria de Estado.
 
-###### Art. 22.º - 1 - Aos Serviços Jurídicos compete:
+Art. 22.º - 1 - Aos Serviços Jurídicos compete:
 
 a) Elaborar pareceres e estudos jurídicos;
 
@@ -407,7 +574,7 @@ e) Manter actualizados ficheiros de legislação, jurisprudência e doutrina sob
 
 ### CAPÍTULO V — Gabinete de Organização e Pessoal
 
-###### Art. 23.º - 1 - O Gabinete de Organização e Pessoal é um serviço de apoio técnico nos domínios da organização administrativa e do pessoal, tendo em atenção a sua modernização.
+Art. 23.º - 1 - O Gabinete de Organização e Pessoal é um serviço de apoio técnico nos domínios da organização administrativa e do pessoal, tendo em atenção a sua modernização.
 
 2 - São atribuições do Gabinete, no âmbito da organização:
 
@@ -421,7 +588,7 @@ a) Promover, de acordo com os serviços, a selecção de pessoal da Secretaria d
 
 b) Apoiar as acções de formação e aperfeiçoamento do pessoal.
 
-###### Art. 24.º - 1 - Na prossecução das atribuições que lhe são cometidas no artigo anterior, compete ao Gabinete de Organização e Pessoal:
+Art. 24.º - 1 - Na prossecução das atribuições que lhe são cometidas no artigo anterior, compete ao Gabinete de Organização e Pessoal:
 
 a) Colaborar nos estudos de organização e gestão dos órgãos e serviços da Secretaria de Estado da Cultura, designadamente nos relativos à sua criação ou reestruturação;
 
@@ -439,13 +606,13 @@ g) Programar, com os órgãos e serviços, a organização e frequência de curs
 
 2 - No exercício das suas atribuições, o Gabinete deverá articular as suas actividades com os serviços competentes da Secretaria de Estado da Reforma Administrativa.
 
-###### Art. 25.º O Gabinete de Organização e Pessoal, na directa dependência do membro do Governo que tiver a seu cargo a área da cultura, é dirigido por um director, com a categoria de director de serviços, e disporá de pessoal técnico especializado para o desempenho das suas actividades, competindo à Direcção-Geral dos Serviços Centrais prestar-lhe apoio administrativo ao seu funcionamento.
+Art. 25.º O Gabinete de Organização e Pessoal, na directa dependência do membro do Governo que tiver a seu cargo a área da cultura, é dirigido por um director, com a categoria de director de serviços, e disporá de pessoal técnico especializado para o desempenho das suas actividades, competindo à Direcção-Geral dos Serviços Centrais prestar-lhe apoio administrativo ao seu funcionamento.
 
 ### CAPÍTULO VI — Direcção-Geral da Acção Cultural
 
-###### Art. 26.º A Direcção-Geral da Acção Cultural, adiante designada DGAC, tem por finalidade criar as condições necessárias ao desenvolvimento das potencialidades de expressão artística individual ou colectiva e promover o acesso da população às manifestações de carácter cultural.
+Art. 26.º A Direcção-Geral da Acção Cultural, adiante designada DGAC, tem por finalidade criar as condições necessárias ao desenvolvimento das potencialidades de expressão artística individual ou colectiva e promover o acesso da população às manifestações de carácter cultural.
 
-###### Art. 27.º - 1 - No prosseguimento das atribuições referidas no artigo anterior, compete à DGAC:
+Art. 27.º - 1 - No prosseguimento das atribuições referidas no artigo anterior, compete à DGAC:
 
 a) Promover a protecção e o apoio aos agentes culturais no domínio da criatividade e da interpretação artística;
 
@@ -465,7 +632,7 @@ g) Articular-se com as delegações regionais na prossecução de objectivos de 
 
 3 - Todas as acções desenvolvidas pela DGAC no âmbito do presente diploma envolvendo questões ou problemas de carácter regional exercer-se-ão em estrita articulação com as delegações regionais da Secretaria de Estado da Cultura.
 
-###### Art. 28.º - 1 - A DGAC compreende os seguintes serviços de apoio:
+Art. 28.º - 1 - A DGAC compreende os seguintes serviços de apoio:
 
 a) Divisão de Planeamento e Contrôle;
 
@@ -479,7 +646,7 @@ b) Direcção de Serviços de Comunicação Visual;
 
 c) Direcção de Serviços Culturais Gerais.
 
-###### Art. 29.º - 1 - À Divisão de Planeamento e Contrôle compete:
+Art. 29.º - 1 - À Divisão de Planeamento e Contrôle compete:
 
 a) Elaborar os diagnósticos do sector, na área de actuação da DGAC, que fundamentem os respectivos planos de desenvolvimento;
 
@@ -501,7 +668,7 @@ i) Proceder a tarefas de levantamento cultural.
 
 2 - A Divisão de Planeamento e Contrôle articulará o exercício das suas competências com o Gabinete de Planeamento da Secretaria de Estado da Cultura.
 
-###### Art. 30.º À Repartição Administrativa compete:
+Art. 30.º À Repartição Administrativa compete:
 
 a) Assegurar o serviço de triagem do seu expediente geral e o respectivo arquivo dinâmico;
 
@@ -509,7 +676,7 @@ b) Assegurar a gestão patrimonial e financeira no âmbito específico da actua�
 
 c) Participar na gestão do pessoal em colaboração com a Direcção-Geral dos Serviços Centrais.
 
-###### Art. 31.º A Repartição Administrativa compreende as seguintes secções:
+Art. 31.º A Repartição Administrativa compreende as seguintes secções:
 
 a) Aprovisionamento,
 
@@ -521,7 +688,7 @@ d) Contabilidade, Orçamento, Gestão e Contrôle;
 
 e) Pessoal.
 
-###### Art. 32.º - 1 - À Secção de Aprovisionamento compete assegurar a aquisição do material e equipamento necessários ao funcionamento específico da DGAC e, nomeadamente:
+Art. 32.º - 1 - À Secção de Aprovisionamento compete assegurar a aquisição do material e equipamento necessários ao funcionamento específico da DGAC e, nomeadamente:
 
 a) Elaborar os processos de concurso, limitados e públicos, e o expediente necessário com a publicidade e o aluguer de filmes, procedendo ao respectivo contrôle;
 
@@ -571,7 +738,7 @@ c) Assegurar os processos de deslocações em serviço e processar o abono das r
 
 d) Colaborar com a Direcção-Geral dos Serviços Centrais e com o Gabinete de Organização e Pessoal no planeamento de acções de formação e aperfeiçoamento técnico-profissional dos funcionários.
 
-###### Art. 33.º - 1 - À Direcção dos Serviços de Animação compete:
+Art. 33.º - 1 - À Direcção dos Serviços de Animação compete:
 
 a) Promover e apoiar acções de formação de animadores culturais;
 
@@ -587,13 +754,13 @@ f) Estudar, no âmbito de atribuições deste serviço, medidas legislativas e d
 
 2 - As acções a desenvolver no âmbito regional e local processar-se-ão em articulação com as delegações regionais.
 
-###### Art. 34.º A Direcção de Serviços de Animação compreende:
+Art. 34.º A Direcção de Serviços de Animação compreende:
 
 a) Divisão de Actividades Sócio-Culturais;
 
 b) Divisão de Formação.
 
-###### Art. 35.º À Divisão de Actividades Sócio-Culturais compete:
+Art. 35.º À Divisão de Actividades Sócio-Culturais compete:
 
 a) Apoiar técnica e metodologicamente as acções promovidas por associações e outros agentes culturais locais;
 
@@ -601,7 +768,7 @@ b) Estudar a concretização do apoio aos agentes locais de animação sócio-cu
 
 c) Assegurar a execução de um programa nacional de centros culturais.
 
-###### Art. 36.º À Divisão de Formação compete:
+Art. 36.º À Divisão de Formação compete:
 
 a) Apoiar as acções de formação desenvolvidas por associações e centros culturais;
 
@@ -609,7 +776,7 @@ b) Promover acções de formação, em colaboração com outras instituições c
 
 c) Manter o contacto e a circulação de informação com os animadores formados.
 
-###### Art. 37.º À Direcção de Serviços de Comunicação Visual compete:
+Art. 37.º À Direcção de Serviços de Comunicação Visual compete:
 
 a) Promover e apoiar o aperfeiçoamento técnico neste sector de actividade cultural, bem como promover o apoio e a protecção aos agentes culturais no domínio da criatividade e da interpretação;
 
@@ -619,7 +786,7 @@ c) Desenvolver programas nacionais de formação e difusão cultural neste secto
 
 d) Estudar, no âmbito das atribuições desta Direcção de Serviços, medidas legislativas e de protecção necessárias.
 
-###### Art. 38.º - 1 - A Direcção de Serviços de Comunicação Visual compreende:
+Art. 38.º - 1 - A Direcção de Serviços de Comunicação Visual compreende:
 
 a) Divisão de Artes Plásticas;
 
@@ -629,7 +796,7 @@ c) Divisão de Áudio-Visuais.
 
 2 - No âmbito da Direcção de Serviços de Comunicação Visual funcionará a Área Cultural de Belém, com base em regulamento a aprovar por portaria.
 
-###### Art. 39.º À Divisão de Artes Plásticas compete:
+Art. 39.º À Divisão de Artes Plásticas compete:
 
 a) Tomar providências necessárias à protecção das actividades plásticas;
 
@@ -641,13 +808,13 @@ d) Desenvolver programas nacionais de manifestações artísticas e estimular a 
 
 e) Gerir o parque de equipamento adquirido pela Direcção-Geral para apoio a este domínio artístico.
 
-###### Art. 40.º À Divisão de Actividades Criativas e de Montagens compete:
+Art. 40.º À Divisão de Actividades Criativas e de Montagens compete:
 
 a) Assegurar, no âmbito das actividades criativas, a resposta às solicitações dos diversos serviços, no que respeita a artes gráficas, fotomontagem e fotografia;
 
 b) Assegurar, no âmbito de montagens, a maquetização e a realização e outras manifestações de espaços, bem como trabalhos relativos a marcenaria, carpintaria, electricidade e pintura.
 
-###### Art. 41.º À Divisão de Áudio-Visuais compete:
+Art. 41.º À Divisão de Áudio-Visuais compete:
 
 a) Assegurar as condições de acesso e uso dos meios técnicos que, com base na relação imagem-som, veiculem a expressão ou a comunicação cultural;
 
@@ -661,7 +828,7 @@ e) Promover a organização de cursos de formação técnica para os meios áudi
 
 f) Gerir o material e os equipamentos adquiridos para apoio no domínio dos áudio-visuais.
 
-###### Art. 42.º À Direcção de Serviços Culturais Gerais compete:
+Art. 42.º À Direcção de Serviços Culturais Gerais compete:
 
 a) Promover e apoiar o aperfeiçoamento neste sector de actividade cultural, bem como promover o apoio e a protecção aos agentes culturais no domínio da criatividade e da interpretação;
 
@@ -671,7 +838,7 @@ c) Desenvolver programas nacionais de formação e difusão cultural neste secto
 
 d) Estudar, no âmbito das atribuições desta Direcção de Serviços, medidas legislativas e de protecção necessárias.
 
-###### Art. 43.º - 1 - A Direcção de Serviços Culturais Gerais compreende:
+Art. 43.º - 1 - A Direcção de Serviços Culturais Gerais compreende:
 
 a) Divisão de Teatro e Circo;
 
@@ -681,7 +848,7 @@ c) Divisão de Música.
 
 2 - No âmbito da Direcção de Serviços Culturais Gerais funciona o Fundo de Teatro.
 
-###### Art. 44.º - 1 - À Divisão de Teatro e Circo compete, no âmbito do teatro:
+Art. 44.º - 1 - À Divisão de Teatro e Circo compete, no âmbito do teatro:
 
 a) Tomar providências necessárias à protecção das actividades teatrais;
 
@@ -711,7 +878,7 @@ e) Desenvolver programas nacionais de espectáculos de circo e estimular a ediç
 
 f) Gerir o material adquirido para o apoio a este domínio artístico.
 
-###### Art. 45.º - 1 - À Divisão de Bailado, Folclore e Artesanato compete, no âmbito do bailado:
+Art. 45.º - 1 - À Divisão de Bailado, Folclore e Artesanato compete, no âmbito do bailado:
 
 a) Tomar providências necessárias à protecção das actividades do bailado;
 
@@ -759,7 +926,7 @@ f) Apoiar e estimular a formação e aperfeiçoamento cultural dos agentes da cu
 
 g) Gerir o material e instrumentos para apoio a este domínio cultural.
 
-###### Art. 46.º À Divisão de Música compete:
+Art. 46.º À Divisão de Música compete:
 
 a) Tomar providências necessárias à protecção das actividades musicais;
 
@@ -777,9 +944,9 @@ g) Gerir o material e instrumentos adquiridos para apoio a este domínio artíst
 
 ### CAPÍTULO VII — Pessoal
 
-###### Art. 47.º Os quadros de pessoal dos organismos referidos no artigo 1.º são os constantes dos anexos I, II, III e IV do presente diploma.
+Art. 47.º Os quadros de pessoal dos organismos referidos no artigo 1.º são os constantes dos anexos I, II, III e IV do presente diploma.
 
-###### Art. 48.º - 1 - O provimento do pessoal dos quadros a que se refere o artigo anterior será feito por nomeação provisória ou em comissão de serviço, pelo período de um ano.
+Art. 48.º - 1 - O provimento do pessoal dos quadros a que se refere o artigo anterior será feito por nomeação provisória ou em comissão de serviço, pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -797,11 +964,11 @@ a) No lugar de origem, quando à comissão não se seguir provimento definitivo;
 
 b) No lugar dos quadros referidos no artigo anterior em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 49.º Os funcionários dos quadros a que se refere o artigo 47.º, quando no exercício de funções em comissão de serviço, mantêm o direito dos lugares de origem, os quais poderão ser preenchidos interinamente, enquanto durar a comissão.
+Art. 49.º Os funcionários dos quadros a que se refere o artigo 47.º, quando no exercício de funções em comissão de serviço, mantêm o direito dos lugares de origem, os quais poderão ser preenchidos interinamente, enquanto durar a comissão.
 
-###### Art. 50.º O recrutamento do pessoal dirigente far-se-á nos termos da lei geral.
+Art. 50.º O recrutamento do pessoal dirigente far-se-á nos termos da lei geral.
 
-###### Art. 51.º - 1 - Os lugares de chefe de repartição serão providos de entre:
+Art. 51.º - 1 - Os lugares de chefe de repartição serão providos de entre:
 
 a) Chefes de secção com, pelo menos, três anos de efectivo e bom serviço;
 
@@ -819,94 +986,94 @@ a) Chefe de repartição - técnico administrativo de 1.ª ou 2.ª classes e ins
 
 b) Chefe de secção - adjunto técnico administrativo de 1.ª classe, técnico auxiliar de contabilidade de 1.ª classe e adjunto técnico de 1.ª classe.
 
-###### Art. 52.º A carreira do pessoal de informática é regulada nos termos da lei geral.
+Art. 52.º A carreira do pessoal de informática é regulada nos termos da lei geral.
 
-###### Art. 53.º - 1 - A carreira técnica superior é regulada nos termos da lei geral.
+Art. 53.º - 1 - A carreira técnica superior é regulada nos termos da lei geral.
 
 2 - Nos domínios das artes plásticas, áudio-visuais, música, teatro, bailado, folclore, circo, animação e artesanato da Direcção-Geral da Acção Cultural só serão admitidos indivíduos habilitados com licenciatura e com curriculum adequado à respectiva área funcional, sem prejuízo do disposto no artigo 26.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril.
 
-###### Art. 54.º Às carreiras de pessoal técnico superior e técnico auxiliar de biblioteca, arquivo e documentação aplicam-se as disposições do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
+Art. 54.º Às carreiras de pessoal técnico superior e técnico auxiliar de biblioteca, arquivo e documentação aplicam-se as disposições do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
 
-###### Art. 55.º - 1 - A carreira técnica é regulada nos termos da lei geral.
+Art. 55.º - 1 - A carreira técnica é regulada nos termos da lei geral.
 
 2 - Nos domínios das artes plásticas, áudio-visuais, música, teatro, bailado, folclore, circo, animação e artesanato da Direcção-Geral da Acção Cultural só serão admitidos indivíduos habilitados com curso superior que não confira grau de licenciatura e com curriculum adequado à respectiva área funcional, sem prejuízo do disposto no artigo 26.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril.
 
-###### Art. 56.º - 1 - A carreira de operador de áudio-visuais desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras I, K e L.
+Art. 56.º - 1 - A carreira de operador de áudio-visuais desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras I, K e L.
 
 2 - O ingresso na carreira é condicionado à habilitação do curso geral do ensino secundário ou equiparado e prática profissional adequada, devidamente comprovada, com a duração mínima de dois anos.
 
-###### Art. 57.º - 1 - A carreira de designer de artes gráficas desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras I, K e L.
+Art. 57.º - 1 - A carreira de designer de artes gráficas desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras I, K e L.
 
 2 - O ingresso na carreira é condicionado à habilitação do curso geral do ensino secundário ou equiparado e prática profissional adequada, devidamente comprovada, com a duração mínima de dois anos.
 
-###### Art. 58.º - 1 - A carreira de decorador de interiores desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras I, K e L.
+Art. 58.º - 1 - A carreira de decorador de interiores desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras I, K e L.
 
 2 - O ingresso na carreira é condicionado à habilitação do curso geral do ensino secundário ou equiparado e prática profissional adequada, devidamente comprovada, com a duração mínima de dois anos.
 
-###### Art. 59.º - 1 - A carreira de fotógrafo de arte desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras I, K e L.
+Art. 59.º - 1 - A carreira de fotógrafo de arte desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras I, K e L.
 
 2 - O ingresso na carreira é condicionado à habilitação do curso geral do ensino secundário ou equiparado e prática profissional adequada, devidamente comprovada, com a duração mínima de dois anos.
 
-###### Art. 60.º É aplicável às carreiras de operador de áudio-visuais, designer de artes gráficas, decorador de interiores e fotógrafo de arte o disposto no artigo 2.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+Art. 60.º É aplicável às carreiras de operador de áudio-visuais, designer de artes gráficas, decorador de interiores e fotógrafo de arte o disposto no artigo 2.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 61.º Os lugares de tradutor-correspondente-intérprete serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e domínio escrito e falado de, pelo menos, duas línguas estrangeiras.
+Art. 61.º Os lugares de tradutor-correspondente-intérprete serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e domínio escrito e falado de, pelo menos, duas línguas estrangeiras.
 
-###### Art. 62.º - 1 - A carreira de assistente de relações públicas desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras J, L e M.
+Art. 62.º - 1 - A carreira de assistente de relações públicas desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras J, L e M.
 
 2 - Os lugares de assistente de relações públicas principal e de 1.ª classe serão providos de entre, respectivamente, assistentes de relações públicas de 1.ª classe e de 2.ª classe com, pelo menos, três anos de serviço nas categorias.
 
 3 - O ingresso na carreira é condicionado à habilitação do curso geral do ensino secundário ou equiparado e experiência profissional com a duração mínima de um ano.
 
-###### Art. 63.º - 1 - A carreira técnica auxiliar desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras J, L e M.
+Art. 63.º - 1 - A carreira técnica auxiliar desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras J, L e M.
 
 2 - O ingresso na carreira é condicionado à habilitação do curso geral do ensino secundário ou equiparado.
 
-###### Art. 64.º - 1 - A carreira de revisor de filmes desenvolve-se pelas categorias de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras L e M.
+Art. 64.º - 1 - A carreira de revisor de filmes desenvolve-se pelas categorias de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras L e M.
 
 2 - O provimento dos lugares de revisor de filmes de 1.ª classe far-se-á de entre os revisores de filmes de 2.ª classe com, pelo menos, cinco anos de efectivo e bom serviço na categoria.
 
 3 - O ingresso na carreira é condicionado à habilitação do curso geral do ensino secundário ou equiparado e prática profissional adequada.
 
-###### Art. 65.º As carreiras do pessoal técnico-profissional, oficial administrativo, operário e auxiliar são reguladas nos termos da lei geral.
+Art. 65.º As carreiras do pessoal técnico-profissional, oficial administrativo, operário e auxiliar são reguladas nos termos da lei geral.
 
 ### CAPÍTULO VIII — Disposições gerais e transitórias
 
-###### Art. 66.º A antiguidade relativa do pessoal abrangido pelo presente diploma contar-se-á, em cada classe ou categoria, pelo somatório do tempo de serviço nelas exercido.
+Art. 66.º A antiguidade relativa do pessoal abrangido pelo presente diploma contar-se-á, em cada classe ou categoria, pelo somatório do tempo de serviço nelas exercido.
 
-###### Art. 67.º O provimento dos lugares dos quadros de pessoal a que se refere o artigo 47.º far-se-á de entre o pessoal que se encontre vinculado, a qualquer título, à Secretaria de Estado da Cultura, sem prejuízo do disposto no [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril.
+Art. 67.º O provimento dos lugares dos quadros de pessoal a que se refere o artigo 47.º far-se-á de entre o pessoal que se encontre vinculado, a qualquer título, à Secretaria de Estado da Cultura, sem prejuízo do disposto no [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril.
 
-###### Art. 68.º Para efeitos do disposto no artigo anterior, terá prioridade o pessoal afecto à Secretaria de Estado da Cultura e pertencente ao quadro aprovado pelo [Decreto-Lei n.º 409/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1975-336500), de 2 de Agosto, e pelo [Decreto n.º 89/76](https://diariodarepublica.pt/dr/detalhe/decreto/89-1976-507022), de 29 de Janeiro.
+Art. 68.º Para efeitos do disposto no artigo anterior, terá prioridade o pessoal afecto à Secretaria de Estado da Cultura e pertencente ao quadro aprovado pelo [Decreto-Lei n.º 409/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1975-336500), de 2 de Agosto, e pelo [Decreto n.º 89/76](https://diariodarepublica.pt/dr/detalhe/decreto/89-1976-507022), de 29 de Janeiro.
 
-###### Art. 69.º - 1 - Os lugares do quadro previsto no [Decreto-Lei n.º 409/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1975-336500), de 2 de Agosto, e no [Decreto n.º 89/76](https://diariodarepublica.pt/dr/detalhe/decreto/89-1976-507022), de 29 de Janeiro, serão abatidos à medida em que pelos respectivos titulares forem preenchidos os lugares dos quadros anexos ao presente diploma.
+Art. 69.º - 1 - Os lugares do quadro previsto no [Decreto-Lei n.º 409/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1975-336500), de 2 de Agosto, e no [Decreto n.º 89/76](https://diariodarepublica.pt/dr/detalhe/decreto/89-1976-507022), de 29 de Janeiro, serão abatidos à medida em que pelos respectivos titulares forem preenchidos os lugares dos quadros anexos ao presente diploma.
 
 2 - O pessoal dirigente provido ao abrigo da [Portaria n.º 548/75](https://diariodarepublica.pt/dr/detalhe/portaria/548-1975-307586), de 10 de Setembro, será integrado nos quadros de pessoal dirigente sem perda de situação, nos termos do artigo 12.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
 3 - Os lugares do pessoal previsto no número anterior serão abatidos no quadro referido na citada portaria.
 
-###### Art. 70.º A integração do pessoal a que se refere o artigo anterior far-se-á nos termos da lei geral e sem prejuízo das seguintes regras:
+Art. 70.º A integração do pessoal a que se refere o artigo anterior far-se-á nos termos da lei geral e sem prejuízo das seguintes regras:
 
 a) Para categorias idênticas da carreira para a qual se possuam as habilitações legais;
 
 b) Na mesma categoria, que se extinguirá à medida que vagar, no caso de não preencher os requisitos previstos na alínea anterior.
 
-###### Art. 71.º - 1 - A Direcção-Geral dos Serviços Centrais, o Gabinete de Planeamento e a Direcção-Geral da Acção Cultural desenvolverão as acções necessárias à formação e aperfeiçoamento profissionais adequados do seu pessoal em colaboração com o Gabinete de Organização e Pessoal da Secretaria de Estado da Cultura.
+Art. 71.º - 1 - A Direcção-Geral dos Serviços Centrais, o Gabinete de Planeamento e a Direcção-Geral da Acção Cultural desenvolverão as acções necessárias à formação e aperfeiçoamento profissionais adequados do seu pessoal em colaboração com o Gabinete de Organização e Pessoal da Secretaria de Estado da Cultura.
 
 2 - As acções de formação e aperfeiçoamento serão promovidas e regulamentadas por despacho dos membros do Governo para o efeito competentes.
 
-###### Art. 72.º A distribuição do pessoal dos serviços abrangidos pelo presente diploma será feita por despacho do respectivo dirigente.
+Art. 72.º A distribuição do pessoal dos serviços abrangidos pelo presente diploma será feita por despacho do respectivo dirigente.
 
-###### Art. 73.º A integração do pessoal nos quadros a que se refere o artigo 47.º será efectuada mediante diplomas individuais de provimento, visados ou anotados pelo Tribunal de Contas, conforme os casos, e publicados no Diário da República.
+Art. 73.º A integração do pessoal nos quadros a que se refere o artigo 47.º será efectuada mediante diplomas individuais de provimento, visados ou anotados pelo Tribunal de Contas, conforme os casos, e publicados no Diário da República.
 
-###### Art. 74.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 74.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva.
 
-**Promulgado em 12 de Maio de 1980.**
+Promulgado em 12 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Do ANEXO I ao ANEXO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/12100/11671178.pdf))](https://files.diariodarepublica.pt/1s/1980/05/12100/11671178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/12100/11671178.pdf)

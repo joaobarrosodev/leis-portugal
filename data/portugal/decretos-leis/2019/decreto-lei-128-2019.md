@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/16500/0001800030.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/128/2019/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2019-124283152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27b6c94f6e0a4c5f5835d53e78575c874e7d6abb3c846e912377cd0ebdb3adc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f7862b1737d3c0467619634c46d35e72143d53bd93784c398083cd317391518
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estabelecimento Comercial
+- ASAE
+- Comércio
 - Contra-ordenação
 - Definição de Competências
 - Direito de Concorrência
+- Estabelecimento Comercial
 - Fiscalização
-- ASAE
 - Medidas Preventivas
 - Preço
 - Prestação de Serviços
-- Comércio
 - Vendedor
 relationships:
 - type: amended_by
   target: pt:dre:170322928:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Alterados, a partir de 28.07.2021, os arts. 9.º, 10.º, 12.º e 14.º e revogadas as als. b) e c) do n.º 1 do art. 9.º
+    e o n.º 2 do art. 14.º do Dec Lei 166/2013 de 27-dez, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: amended_by
+  target: pt:dre:170322928:por
+  label: Alterados, a partir de 01.11.2021, os arts. 7.º, 9.º, 16.º e 18.º, aditados os arts. 2.º-A, 7.º-B, 7.º-C e 7.º-D
+    e revogados o n.º 6 do art. 7.º e o art. 7.º-A do Dec Lei 166/2013 de 27-dez DR.IS [251], na versão republicada pelo presente
+    diploma, pelo(a) Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27 que procede à republicação
+    do referido Dec Lei 166/2013
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2021-170322928
+  date: '2021-08-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/20
   label: null
@@ -126,15 +141,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
 article_structure:
-  article_count: 35
+  article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:04Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +190,9 @@ Os artigos 2.º, 4.º, 5.º, 7.º, 8.º, 9.º, 10.º e 18.º do [Decreto-Lei n.�
 
 2 - [...].
 
-###### Artigo 4.º — Transparência e equilíbrio nas relações comerciais
+Artigo 4.º
+
+Transparência e equilíbrio nas relações comerciais
 
 1 - Os contratos e acordos entre empresas devem basear-se na existência de contrapartidas efetivas e proporcionais aplicáveis às suas transações comerciais de fornecimento de produtos ou de prestação de serviços.
 
@@ -187,7 +204,9 @@ Os artigos 2.º, 4.º, 5.º, 7.º, 8.º, 9.º, 10.º e 18.º do [Decreto-Lei n.�
 
 5 - As tabelas de preços, condições de venda, contratos de fornecimento e quaisquer disposições reduzidas a escrito nos termos do número anterior devem ser mantidas em arquivo físico ou digital por um período de três anos e disponibilizadas à entidade fiscalizadora mediante solicitação.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -227,7 +246,9 @@ d) [Anterior alínea d) do n.º 10.]
 
 13 - Apenas são considerados para apuramento do preço de compra efetivo e do preço de venda os descontos e pagamentos constantes de documentos apresentados à autoridade fiscalizadora até ao termo do prazo para o exercício do direito de defesa no âmbito do respetivo procedimento contraordenacional.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Sem prejuízo das regras aplicáveis em matéria de cláusulas contratuais gerais, são proibidas quaisquer práticas negociais entre empresas que se traduzam:
 
@@ -279,7 +300,9 @@ b) Impor um pagamento, diretamente ou sob a forma de desconto para cobrir qualqu
 
 8 - (Anterior n.º 5.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A entidade fiscalizadora pode determinar, com caráter de urgência e sem dependência de audiência de interessados, a suspensão da execução de uma prática restritiva do comércio suscetível de afetar o normal funcionamento do mercado, sempre que constate que existem indícios fortes da sua verificação, ainda que na forma tentada.
 
@@ -291,7 +314,9 @@ b) Impor um pagamento, diretamente ou sob a forma de desconto para cobrir qualqu
 
 5 - (Revogado.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]:
 
@@ -307,7 +332,9 @@ e) A violação do disposto nos n.os 3, 4 e 5 do artigo 7.º
 
 2 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -321,7 +348,9 @@ b) Se praticadas por pessoa coletiva, coima mínima de 3,74 EUR e máxima de 44.
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O acompanhamento da aplicação do presente decreto-lei compete à DGAE, cabendo-lhe elaborar e publicar, no seu sítio na Internet, no final do segundo ano a contar da data da respetiva entrada em vigor, e posteriormente com uma periodicidade bienal, em articulação com a ASAE e Autoridade da Concorrência, um relatório sobre a execução do diploma.
 
@@ -357,15 +386,15 @@ O presente decreto-lei entra em vigor em 1 de janeiro de 2020.
 
 Visto e aprovado em Conselho de Ministros de 1 de agosto de 2019. - Augusto Ernesto Santos Silva - António Manuel Veiga dos Santos Mendonça Mendes - Anabela Damásio Caetano Pedroso - Pedro Gramaxo de Carvalho Siza Vieira - Luís Medeiros Vieira - Ana Paula Mendes Vitorino.
 
-**Promulgado em 6 de agosto de 2019.**
+Promulgado em 6 de agosto de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de agosto de 2019.**
+Referendado em 12 de agosto de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -656,3 +685,5 @@ b) A alínea b) do n.º 1 do artigo 5.º do Decreto-Lei n.º [10/2003](https://d
 1 - O presente decreto-lei entra em vigor 60 dias após a data da sua publicação.
 
 2 - Sem prejuízo do disposto no número anterior, o artigo 19.º do presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+112543169

@@ -46,40 +46,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/649-1980-460834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e35ba97d07ea9a392253bd0daa8b3c4a4fd0435a48d7a529265ea8f6a736a38c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90e9f090b918b1fac8b29e9ffe82cafe512d8a45d255e59bdc8e5281a7dd2645
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caldas da Rainha
+- Estabelecimento Hospitalar
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Dirigente
+- Pessoal Operário
+- Pessoal Técnico Profissional
+- Pessoal Técnico Superior
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:282086:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:318339:por
+  label: "Alterado, na parte referente ao pessoal técnico superior e pessoal operário e auxiliar, o quadro de pessoal aprovado\
+    \ pelo presente diploma pela PORT.1319/82.31.12.1982.MFP, DR.IS [301] de 31.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1319-1982-318339
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:309572:por
+  label: "Alterado o quadro de pessoal pela PORT.193/83.1983.03.02.MFP DR.IS [50]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/193-1983-309572
+  date: '1983-03-02'
+- type: amended_by
+  target: pt:dre:450851:por
+  label: "Alterado, na parte referente ao pessoal técnico superior e pessoal médico, o quadro de pessoal aprovado pelo presente\
+    \ diploma, pela PORT.533/83.06.05.1983.MFP, DR.IS [104] de 06.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/533-1983-450851
+  date: '1983-05-06'
+- type: amended_by
+  target: pt:dre:663502:por
+  label: "Alterado o quadro de pessoal pela PORT.35/87.1987.01.19.MF DR.IS [13]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/35-1987-663502
+  date: '1987-01-19'
+- type: amended_by
+  target: pt:dre:372425:por
+  label: "Alterado o quadro de pessoal do Centro Hospitalar das Caldas da Rainha pela PORT.461/88.1988.07.13.MF,DR.IS [160]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/461-1988-372425
+  date: '1988-07-13'
+- type: amended_by
+  target: pt:dre:334637:por
+  label: "Alterado o quadro de pessoal, pela PORT.113/90.12.02.1990.MS, DR.IS [36] de 12.02.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/113-1990-334637
+  date: '1990-02-12'
+- type: amended_by
+  target: pt:dre:609644:por
+  label: "Alterado o quadro de pessoal pelo DEC LEI.169/91.09.05.1991.MS, DR.IS-A [106] de 09.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-1991-609644
+  date: '1991-05-09'
+- type: amended_by
+  target: pt:dre:642185:por
+  label: Substituído o quadro de pessoal médico do Centro Hospitalar das Caldas da Rainha pelo(a) Portaria n.º 413/91 - Diário
+    da República n.º 112/1991, Série I-B de 1991-05-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1991-642185
+  date: '1991-05-16'
+- type: amended_by
+  target: pt:dre:282086:por
+  label: "Substituído o quadro de pessoal pela PORT.803/92.18.08.1992.MF, DR.IS-B [189] de 18.08.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/803-1992-282086
+  date: '1992-08-18'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:45Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +170,6 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Centro Hospitalar das Caldas da Rainha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/21400/26952696.pdf))](https://files.diariodarepublica.pt/1s/1980/09/21400/26952696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21400/26952696.pdf)
 
 Nota. - Ao funcionário administrativo que exercer as funções de tesoureiro será atribuída a remuneração mensal de 600$00 para falhas.

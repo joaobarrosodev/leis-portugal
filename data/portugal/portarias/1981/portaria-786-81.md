@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/786-1981-565007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:54:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88afd1198e0cff4e41fc037d9d7c2e44d1932203144d13e5e97c90c6f9c94463
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06b2d3cb21faae21d8f3a4883d431e6fb9a49ea7746233c0babecc6aeca86e67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:54:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Identificação Civil e Criminal
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:394110:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:394110:por
+  label: "Aditados lugares ao quadro de pessoal do Centro de Identificação Civil e Criminal, aprovado pelo Dec Lei 63/76,\
+    \ de 24-Jan, na redacção do presente diploma, pela PORT.715/82.22.07.1982.MFP, DR.IS [167] de 22.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/715-1982-394110
+  date: '1982-07-22'
+- type: cites
+  target: pt:dre:458407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:54:46Z'
   warnings: []
   errors: []
 ---

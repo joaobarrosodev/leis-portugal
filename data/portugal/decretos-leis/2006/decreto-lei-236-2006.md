@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/236/2006/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60516c92c0a86ce253fd4398422ace445cdf8ef4fbdc668338f1e3b643c31309
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58ab1e82345f454ab14e564308fa9c40da04c2a0be1647ad1c5affe2a447490d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,33 +68,67 @@ reuse:
 subjects:
 - Cidadão Estrangeiro
 - Cidadão Nacional
-- Terceira Idade
+- Complemento Solidário para Idosos
 - Insuficiência Económica
 - Pensão de Velhice
-- Proteção na Velhice
 - Prestações da Segurança Social
+- Proteção na Velhice
 - Proteção Social
 - Segurança Social
-- Complemento Solidário para Idosos
+- Terceira Idade
 relationships:
 - type: amended_by
   target: pt:dre:147432951:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:491929:por
+  label: "Alterados, a partir de 01.08.2009, os arts. 7.º, 11.º, 17.º e 20.º do Dec Lei 232/2005, de 29-Dez, na redacção do\
+    \ presente diploma, pelo DEC LEI.151/2009.30.06.2009.MTSSO, DR.IS [124] de 30.06.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-2009-491929
+  date: '2009-06-30'
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Alterado o art. 9.º do Dec. Lei 232/2005 de 29-dez, na redação do presente diploma, pelo(a) Lei n.º 7-A/2016 - Diário
+    da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-a-2016-73958532
+  date: '2016-03-30'
+- type: amended_by
+  target: pt:dre:108269605:por
+  label: Alterado o art. 11.º do Dec Lei 232/2005, de 29-dez, na redação do presente diploma pelo(a) Decreto-Lei n.º 126-A/2017
+    - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06, nos termos do art. 54.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-a-2017-108269605
+  date: '2017-10-06'
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Alterado o art. 7.º do Dec Lei 232/2005 de 29-dez, na redação do presente diploma, pelo(a) Lei n.º 71/2018 - Diário
+    da República n.º 251/2018, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:124500726:por
+  label: Alterado, com efeitos a 01.10.2019, o art. 12.º do Dec Lei 232/2005 de 29-dez, com a redação dada pelo presente diploma,
+    pelo(a) Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-2019-124500726
+  date: '2019-09-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/232/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/232/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:469064:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:13Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +175,9 @@ Os artigos 7.º, 9.º, 11.º, 12.º, 17.º, 20.º e 24.º do [Decreto-Lei n.º 2
 
 6 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -149,7 +185,9 @@ Os artigos 7.º, 9.º, 11.º, 12.º, 17.º, 20.º e 24.º do [Decreto-Lei n.º 2
 
 3 - Pela portaria mencionada no n.º 1 é também actualizado o montante do complemento solidário para idosos atribuído.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O direito ao complemento solidário para idosos é suspenso nas seguintes situações:
 
@@ -171,7 +209,9 @@ d) ...
 
 6 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 ...
 
@@ -183,7 +223,9 @@ c) Por desistência do titular;
 
 d) Por aplicação de sanção acessória que determine a privação do direito à prestação.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A atribuição do complemento solidário para idosos, bem como a renovação da prova de recursos, depende da apresentação de requerimento dirigido à entidade gestora.
 
@@ -193,7 +235,9 @@ d) Por aplicação de sanção acessória que determine a privação do direito 
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 20.º — Renovação da prova de recursos
+Artigo 20.º
+
+Renovação da prova de recursos
 
 1 - Os titulares do complemento solidário para idosos estão obrigados à renovação da prova de recursos de dois em dois anos, contados a partir da data do reconhecimento do direito ao complemento, sem prejuízo do disposto no número seguinte.
 
@@ -203,7 +247,9 @@ a) Sempre que seja apresentado um segundo requerimento para efeitos de atribuiç
 
 b) Sempre que exista uma alteração do agregado familiar do titular da prestação, designadamente por efeito de casamento ou de união de facto.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 A idade para o reconhecimento do direito ao complemento solidário para idosos é fixada nos termos seguintes:
 
@@ -225,12 +271,12 @@ O presente decreto-lei entra em vigor no dia 1 de Janeiro de 2007.
 
 Visto e aprovado em Conselho de Ministros de 12 de Outubro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - Pedro Manuel Dias de Jesus Marques.
 
-**Promulgado em 21 de Novembro de 2006.**
+Promulgado em 21 de Novembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 22 de Novembro de 2006.**
+Referendado em 22 de Novembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

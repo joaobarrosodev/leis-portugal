@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/134/2004/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2004-281196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfe4c8bab24b7c6cc068459a23b8214762f8c627950576a2d0f5a2c97b2b8bcb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70da5277f003a629ed3b07ed4b31f27d4764d832b6ec8a7f8c49c2bab986f156
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,6 +69,8 @@ subjects:
 - Abrantes
 - Barcelos
 - Barreiro
+- Bragança
+- Castelo Branco
 - Ensino Superior Politécnico
 - Escola Superior de Artes Aplicadas
 - Escola Superior de Estudos Industriais e de Gestão
@@ -79,13 +81,11 @@ subjects:
 - Instituto Politécnico
 - Instituto Politécnico do Cávado e do AVE
 - Lamego
-- Setúbal
-- Castelo Branco
+- Porto
 - Prorrogação de Prazo
 - Regime de Instalação
-- Bragança
+- Setúbal
 - Tomar
-- Porto
 - Viseu
 relationships:
 - type: cites
@@ -116,16 +116,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/71/1993/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/71/1993/11/26/p/dre
+- type: cites
+  target: pt:dre:197278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593710:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:37Z'
   warnings: []
   errors: []
 ---
@@ -196,12 +232,12 @@ O disposto no artigo anterior produz efeitos a partir das datas de cessação da
 
 Visto e aprovado em Conselho de Ministros de 26 de Abril de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria da Graça Martins da Silva Carvalho.
 
-**Promulgado em 24 de Maio de 2004.**
+Promulgado em 24 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Maio de 2004.**
+Referendado em 26 de Maio de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

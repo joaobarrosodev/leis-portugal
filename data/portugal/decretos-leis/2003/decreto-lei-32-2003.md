@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/32/2003/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2003-189484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21f329921c60e3affcb160b329fb4573fa0802b67e9015da7aadb12576719b2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd89e54db52be9c493774d00f90d5ff3a8552d391f473142344649ba3c3d0ce7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,44 +67,116 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Civil
 - Aproximação das Legislações
+- Cobrança de Dívidas
 - Código Civil
 - Código Comercial
 - Código do Processo Civil
-- Pagamento
+- Comércio
+- Custas Judiciais
+- Direito Comercial
+- Execução por Dívidas
 - Indemnização
 - Injunção
-- Direito Comercial
 - MORA
+- Pagamento
 - Prazo
-- Profissão Independente
-- Cobrança de Dívidas
-- Execução por Dívidas
+- Processo Civil
 - Processo de Execução
+- Profissão Independente
 - TAXA de JURO
-- Custas Judiciais
-- Comércio
 - Transacção Comercial
 relationships:
 - type: amended_by
   target: pt:dre:120944158:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:424101:por
+  label: "Alterado o art. 19.º do regime anexo ao Dec Lei 269/98, de 01-Set, na redacção do Dec Lei 323/2001, de 17-Dez e\
+    \ do presente diploma, pelo DEC LEI.324/2003.27.12.2003.MJ, DR.IS-A [298] de 27.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2003-424101
+  date: '2003-12-27'
+- type: amended_by
+  target: pt:dre:233745:por
+  label: "Alterados os arts 10º, 11º, 12º e 19º do Regime Anexo ao Dec Lei 269/98 de 01-Set, na redacção do presente diploma,\
+    \ pelo DEC LEI.107/2005.01.07.2005.MJ, DR.IS-A [125] de 01.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2005-233745
+  date: '2005-07-01'
+- type: amended_by
+  target: pt:dre:661170:por
+  label: "Alterados os arts. 10º e 11º do regime anexo ao Dec Lei 269/98 de 01-Set, na redacção do presente diploma, pela\
+    \ LEI.14/2006.26.04.2006.AR, DR.IS-A [81] de 26.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-2006-661170
+  date: '2006-04-26'
+- type: amended_by
+  target: pt:dre:640911:por
+  label: "Alterado, a partir de 01 de Janeiro de 2008, o artigo 19.º do Regime Anexo ao Decreto-Lei 269/98, de 01 de Setembro,\
+    \ na redacção do presente diploma, pelo DEC LEI.303/2007.24.08.2007.MJ, DR.IS [163] de 24.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-2007-640911
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o artigo 19.º do Regime Anexo do Decreto-Lei 269/98, de 01 de Setembro, na redacção do presente diploma,\
+    \ pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:247448:por
+  label: "Alterado, a partir de 20.04.2009, o art. 19º do anexo ao Dec Lei 269/98, de 28-Ago, na redacção do presente diploma,\
+    \ pelo DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: amended_by
+  target: pt:dre:439815:por
+  label: "Alterados, a partir de 31.03.2009, os arts. 10º e 11º do regime anexo ao Dec Lei 269/98, de 01-Set, na redacção\
+    \ do presente diploma, pelo DEC LEI.226/2008.20.11.2008.MJ, DR.IS [226] de 20.11.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-2008-439815
+  date: '2008-11-20'
+- type: amended_by
+  target: pt:dre:614148:por
+  label: "Alterado, a partir de 01.09.2010, o art. 4º do presente diploma, pela LEI.3/2010.27.04.2010.AR, DR.IS [81] de 27.04.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-2010-614148
+  date: '2010-04-27'
+- type: amended_by
+  target: pt:dre:261160:por
+  label: "Dada nova redação, a partir de 01.07.2013, ao art. 102º do Código Comercial, aprovado pela Carta de Lei de 28-jun\
+    \ 1888, com as alterações introduzidas pelo presente diploma, pelo DEC LEI.62/2013.10.05.2013.MF, DR.IS [90] de 10.05.2013\0\
+    3\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-2013-261160
+  date: '2013-05-10'
+- type: amended_by
+  target: pt:dre:120944158:por
+  label: Declarada a inconstitucionalidade, com força obrigatória geral, da norma constante dos n.ºs 3 e 5 do art. 12.º do
+    regime constante do anexo ao Dec Lei 269/98 de 01-set, na redação resultante do art. 8.º do presente diploma, pelo(a)
+    Acórdão do Tribunal Constitucional n.º 99/2019 - Diário da República n.º 52/2019, Série I de 2019-03-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/99-2019-120944158
+  date: '2019-03-14'
 - type: cites
   target: celex:32000L0035
   label: null
   source: http://data.europa.eu/eli/dir/2000/35/oj
+- type: repealed_by
+  target: pt:dre:261160:por
+  label: "Revogado, a partir de 01.07.2013, com exeção dos arts. 6º e 8º, o presente diploma, com as alterações introduzidas\
+    \ pelo Dec Lei 107/2005 de 01-jul e pela Lei 3/2007 de 27-abr, pelo DEC LEI.62/2013.10.05.2013.MF, DR.IS [90] de 10.05.2013,\
+    \ que o manteve, contudo, em vigor no que respeita aos contratos celebrados antes da entrada em vigor daquele diploma,\
+    \ que determinou fossem efetuadas para as suas correspondentes disposições as remissões legais ou contratuais feitas para\
+    \ preceitos do presente decreto-lei, relativamente aos contratos a que o mesmo é aplicável, nos termos do disposto no\
+    \ art. 14º do citado Decreto-Lei 62/2013.\03.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-2013-261160
+  date: '2013-05-10'
 article_structure:
-  article_count: 15
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:16Z'
   warnings: []
   errors: []
 ---
@@ -227,7 +299,9 @@ Os artigos 7.º, 10.º, 11.º, 12.º, 12.º-A e 19.º do anexo ao Decreto-Lei n.
 
 Considera-se injunção a providência que tem por fim conferir força executiva a requerimento destinado a exigir o cumprimento das obrigações a que se refere o artigo 1.º do diploma preambular, ou das obrigações emergentes de transacções comerciais abrangidas pelo Decreto-Lei n.º 32/2003, de 17 de Fevereiro.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -249,7 +323,9 @@ g) Indicar, quando for o caso, que se trata de transacção comercial abrangida 
 
 3 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O requerimento só pode ser recusado se:
 
@@ -269,7 +345,9 @@ g) O valor ultrapassar a alçada da 1.ª instância, sem que dele conste a indic
 
 2 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -287,7 +365,9 @@ g) O valor ultrapassar a alçada da 1.ª instância, sem que dele conste a indic
 
 8 - O disposto no presente artigo não prejudica a notificação por solicitador de execução ou mandatário judicial, nos termos previstos no Código de Processo Civil para a citação.
 
-###### Artigo 12.º-A — [...]
+Artigo 12.º-A
+
+[...]
 
 1 - Nos casos de domicílio convencionado, nos termos do n.º 1 do artigo 2.º do diploma preambular, a notificação do requerimento é efectuada mediante o envio de carta simples, dirigida ao notificando e endereçada para o domicílio ou sede convencionado.
 
@@ -297,7 +377,9 @@ g) O valor ultrapassar a alçada da 1.ª instância, sem que dele conste a indic
 
 4 - Não sendo possível o depósito da carta na caixa do correio do notificando, o distribuidor do serviço postal lavra nota do incidente, datando-a e remetendo-a de imediato à secretaria, excepto no caso de o depósito ser inviável em virtude das dimensões da carta, caso em que deixa um aviso nos termos do n.º 5 do artigo 236.º do Código de Processo Civil.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - A apresentação do requerimento de injunção pressupõe o pagamento imediato de taxa de justiça, através de estampilha apropriada, de modelo aprovado por portaria do Ministro da Justiça, no seguinte valor:
 
@@ -325,12 +407,12 @@ O presente diploma aplica-se às prestações de contratos de execução continu
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - João Luís Mota de Campos - Carlos Manuel Tavares da Silva.
 
-**Promulgado em 3 de Fevereiro de 2003.**
+Promulgado em 3 de Fevereiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Fevereiro de 2003.**
+Referendado em 7 de Fevereiro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

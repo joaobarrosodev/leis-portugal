@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/82/2007/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/82-2007-641729
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:31:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4575aff21fdb9b465342f04d71c862f7188ab88f4672bb687fccf93e4cd5e25b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a84955fb14c8bc59e99b6ec7fd673ab965bc98341a971ed2a64ace35c032684
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:31:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ subjects:
 - CABO Mondego
 - Contra-ordenação
 - Fiscalização
-- Monumento Natural
-- Protecção do Património
-- Património Natural
 - Instituto da Conservação da Natureza e da Biodiversidade
+- Monumento Natural
+- Património Natural
+- Protecção do Património
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117/2005/07/18/p/dre
@@ -106,16 +106,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/270/2001/10/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/270/2001/10/06/p/dre
+- type: cites
+  target: pt:dre:209591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621169:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:31:39Z'
   warnings: []
   errors: []
 ---
@@ -226,16 +258,16 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 6 de Junho de 2007. - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira - José Manuel Vieira Conde Rodrigues - Francisco Carlos da Graça Nunes Correia.
 
-**Promulgado em 13 de Setembro de 2007.**
+Promulgado em 13 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de Setembro de 2007.**
+Referendado em 14 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Carta do Monumento Natural Cabo Mondego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19100/0709107092.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19100/0709107092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19100/0709107092.pdf)

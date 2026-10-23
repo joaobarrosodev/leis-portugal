@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/05/11000/06690672.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/249-1971-644480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e2995bbb4cb4f345d0392466a07c1afc5419bf38e5de4d8d2e4ef9693addd9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 750292402aeb86ca10d4404a1abe3b061425bab22ed94a86a56143fd31d174ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fardamento
+- Pessoal Civil
+- Pessoal de Assistência aos Banhistas nas Praias
+- Pessoal de Vigilância
+- Regulamento
+- Vigilância nas Praias
 relationships:
 - type: amended_by
   target: pt:dre:665947:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:445729:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:665947:por
+  label: "Revogada pela PORT.336/87.1987.04.24.MDN DR.IS [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/336-1987-665947
+  date: '1987-04-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:26Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +110,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, aprovar e p�
 
 Regulamento de Uniformes para Uso do Pessoal Civil do Instituto de Socorros a Náufragos e do Pessoal de Assistência aos Banhistas nas Praias.
 
-###### Artigo 1.º - 1. Os artigos de uniforme para uso do pessoal civil do Instituto de Socorros a Náufragos (I. S. N.) e do pessoal de assistência aos banhistas nas praias compreendem:
+Artigo 1.º - 1. Os artigos de uniforme para uso do pessoal civil do Instituto de Socorros a Náufragos (I. S. N.) e do pessoal de assistência aos banhistas nas praias compreendem:
 
 a) Artigos pertencentes ao pessoal do quadro permanente dos barcos salva-vidas;
 
@@ -111,7 +126,7 @@ b) Os de uso do pessoal adventício.
 
 3. O uso de uniforme apenas é permitido em serviço.
 
-###### Art. 2.º - 1. Os artigos de uniforme referidos no artigo anterior são fornecidos:
+Art. 2.º - 1. Os artigos de uniforme referidos no artigo anterior são fornecidos:
 
 a) Gratuitamente, dentro das possibilidades do I. S. N., os da alínea a) do n.º 1;
 
@@ -121,7 +136,7 @@ c) Pelos concessionários das praias de banhos ao seu pessoal, os da alínea c) 
 
 2. Em casos devidamente justificados, o I. S. N. poderá contribuir para o fornecimento dos artigos da alínea c) do número anterior.
 
-###### Art. 3.º Os artigos da alínea a) do n.º 1 do artigo 1.º são os seguintes:
+Art. 3.º Os artigos da alínea a) do n.º 1 do artigo 1.º são os seguintes:
 
 a) Boné;
 
@@ -155,7 +170,7 @@ p) Peúgas pretas;
 
 q) Sapatos pretos.
 
-###### Art. 4.º Os artigos da alínea a) do n.º 2 do artigo 1.º são os seguintes:
+Art. 4.º Os artigos da alínea a) do n.º 2 do artigo 1.º são os seguintes:
 
 a) Botas de água;
 
@@ -169,7 +184,7 @@ e) Meias;
 
 f) Sueste.
 
-###### Art. 5.º Os artigos da alínea b) do n.º 2 do artigo 1.º são os seguintes:
+Art. 5.º Os artigos da alínea b) do n.º 2 do artigo 1.º são os seguintes:
 
 a) Calças de zuarte;
 
@@ -187,7 +202,7 @@ g) Peúgas pretas;
 
 h) Sapatos pretos.
 
-###### Art. 6.º Os artigos da alínea c) do n.º 1 do artigo 1.º são os seguintes:
+Art. 6.º Os artigos da alínea c) do n.º 1 do artigo 1.º são os seguintes:
 
 a) Calças de zuarte;
 
@@ -203,7 +218,7 @@ f) Cinto azul;
 
 g) Distintivos.
 
-###### Art. 7.º - 1. O boné é idêntico ao usado pelos sargentos da Armada, mas os botões de metal que seguram o francalete são do padrão n.º 2 referido no artigo 9.º desta portaria.
+Art. 7.º - 1. O boné é idêntico ao usado pelos sargentos da Armada, mas os botões de metal que seguram o francalete são do padrão n.º 2 referido no artigo 9.º desta portaria.
 
 2. O emblema, bordado a fio de algodão perlé, é constituído (fig. 1) por uma faixa branca oblíqua com a largura de 0,008 m, assente sobre fundo de cor vermelha, e contendo as iniciais I. S. N. a vermelho, com 0,005 m de altura, tudo dentro de uma elipse, com as dimensões de 0,035 m por 0,025 m, formada por duas serrilhas a ouro.
 
@@ -211,15 +226,15 @@ g) Distintivos.
 
 4. Todo o emblema assenta sobre pano azul-ferrete.
 
-###### Art. 8.º As botas de água são de borracha vulcanizada, pretas, com cano curto, de forma a serem fàcilmente descalçadas, forradas interiormente de malha de algodão.
+Art. 8.º As botas de água são de borracha vulcanizada, pretas, com cano curto, de forma a serem fàcilmente descalçadas, forradas interiormente de malha de algodão.
 
-###### Art. 9.º Os botões de metal são dourados, redondos, e com as armas nacionais em relevo (fig. 2), e pertencem a dois padrões:
+Art. 9.º Os botões de metal são dourados, redondos, e com as armas nacionais em relevo (fig. 2), e pertencem a dois padrões:
 
 a) N.º 1, com 0,020 m de diâmetro;
 
 b) N.º 2, com 0,010 m de diâmetro.
 
-###### Art. 10.º Os botões de massa são redondos, lisos, com quatro orifícios no centro, de cor branca ou preta, e são de três padrões:
+Art. 10.º Os botões de massa são redondos, lisos, com quatro orifícios no centro, de cor branca ou preta, e são de três padrões:
 
 a) N.º 3, com 0,020 m de diâmetro;
 
@@ -227,31 +242,31 @@ b) N.º 4, com 0,015 m de diâmetro;
 
 c) N.º 5, com 0,010 m de diâmetro.
 
-###### Art. 11.º As calças azuis são idênticas no tecido e no modelo às calças azuis (padrão n.º 1) para os sargentos da Armada.
+Art. 11.º As calças azuis são idênticas no tecido e no modelo às calças azuis (padrão n.º 1) para os sargentos da Armada.
 
-###### Art. 12.º As calças brancas são idênticas no tecido e com o mesmo talhe das calças brancas para os sargentos da Armada.
+Art. 12.º As calças brancas são idênticas no tecido e com o mesmo talhe das calças brancas para os sargentos da Armada.
 
-###### Art. 13.º As calças de zuarte são de tecido de zuarte azul-ferrete e com o mesmo talhe das calças brancas.
+Art. 13.º As calças de zuarte são de tecido de zuarte azul-ferrete e com o mesmo talhe das calças brancas.
 
-###### Art. 14.º As calças impermeáveis são do modelo em uso na Armada.
+Art. 14.º As calças impermeáveis são do modelo em uso na Armada.
 
-###### Art. 15.º Os calções de banho são de modelo idêntico ao usado pelas praças da Armada e:
+Art. 15.º Os calções de banho são de modelo idêntico ao usado pelas praças da Armada e:
 
 a) De cor vermelha, com duas listas brancas laterais com 0,050 m de largura, a toda a altura do calção, para os nadadores-salvadores;
 
 b) De cor azul-escuro, para os banheiros e ajudantes de banheiro.
 
-###### Art. 16.º A camisa branca (padrão n.º 1) é idêntica à do padrão n.º 1 em uso para os sargentos da Armada, mas os botões brancos são do padrão n.º 5.
+Art. 16.º A camisa branca (padrão n.º 1) é idêntica à do padrão n.º 1 em uso para os sargentos da Armada, mas os botões brancos são do padrão n.º 5.
 
-###### Art. 17.º A camisa branca (padrão n.º 2) é idêntica à do padrão n.º 3 em uso para os sargentos da Armada, mas os botões brancos são do padrão n.º 5.
+Art. 17.º A camisa branca (padrão n.º 2) é idêntica à do padrão n.º 3 em uso para os sargentos da Armada, mas os botões brancos são do padrão n.º 5.
 
-###### Art. 18.º - 1. A camisola de algodão é de malha de algodão branco, decotada e com manga até 0,025 m acima da curva do cotovelo.
+Art. 18.º - 1. A camisola de algodão é de malha de algodão branco, decotada e com manga até 0,025 m acima da curva do cotovelo.
 
 2. O pessoal adventício usa nesta camisola, na face anterior e na altura do peito, pregado com molas brancas, o distintivo do I. S. N.
 
 3. O pessoal nadador-salvador em serviço nas praias de banhos usa na camisola de algodão, na parte exterior da manga direita, pregado com molas brancas, o distintivo da categoria.
 
-###### Art. 19.º - 1. A camisola de lã é do tipo jersey, de malha de lã branca, com mangas até aos pulsos, e a gola, de malha canelada, é justa ao pescoço e tem 0,040 m de altura.
+Art. 19.º - 1. A camisola de lã é do tipo jersey, de malha de lã branca, com mangas até aos pulsos, e a gola, de malha canelada, é justa ao pescoço e tem 0,040 m de altura.
 
 2. As costuras de ligação, ao corpo, da gola e das mangas são arrematadas por dentro, sem lhes tirar a elasticidade e, no corpo, a bainha inferior tem 0,050 m de altura.
 
@@ -259,15 +274,15 @@ b) De cor azul-escuro, para os banheiros e ajudantes de banheiro.
 
 4. O pessoal nadador-salvador em serviço nas praias de banhos usa na camisola de algodão, na parte exterior da manga direita, pregado com molas brancas, o distintivo da categoria.
 
-###### Art. 20.º A capa branca para boné é de tecido e talhe idênticos à usada pelos sargentos da Armada.
+Art. 20.º A capa branca para boné é de tecido e talhe idênticos à usada pelos sargentos da Armada.
 
-###### Art. 21.º O casaco impermeável é do modelo em uso na Armada.
+Art. 21.º O casaco impermeável é do modelo em uso na Armada.
 
-###### Art. 22.º O chapéu é do tecido e modelo usados pelas praças da Armada.
+Art. 22.º O chapéu é do tecido e modelo usados pelas praças da Armada.
 
-###### Art. 23.º O cinto azul e o cinto branco são dos modelos usados pelas praças da Armada.
+Art. 23.º O cinto azul e o cinto branco são dos modelos usados pelas praças da Armada.
 
-###### Art. 24.º - 1. Os distintivos a usar pelo pessoal compreendem:
+Art. 24.º - 1. Os distintivos a usar pelo pessoal compreendem:
 
 a) Distintivo do I. S. N.;
 
@@ -291,31 +306,31 @@ b) Nas passadeiras, sobre fundo de pano azul-ferrete;
 
 c) Na manga das camisolas, para os nadadores-salvadores em serviço nas praias de banhos, sobre uma elipse de algodão e terylene branco, com 0,060 m de altura por 0,055 m de largura, pregada com molas brancas.
 
-###### Art. 25.º O fato de zuarte é do modelo em uso na Armada.
+Art. 25.º O fato de zuarte é do modelo em uso na Armada.
 
-###### Art. 26.º A gravata preta é de seda e idêntica à usada pelos sargentos da Armada.
+Art. 26.º A gravata preta é de seda e idêntica à usada pelos sargentos da Armada.
 
-###### Art. 27.º - 1. O jaquetão azul é do mesmo tecido e modelo usados pelos sargentos da Armada, mas os botões maiores são do padrão n.º 1 e os mais pequenos do padrão n.º 2.
+Art. 27.º - 1. O jaquetão azul é do mesmo tecido e modelo usados pelos sargentos da Armada, mas os botões maiores são do padrão n.º 1 e os mais pequenos do padrão n.º 2.
 
 2. Na manga direita, na parte exterior, leva cosido, a 0,140 m do pregado da manga, o distintivo do I. S. N. e, por baixo, a 0,016 m, o distintivo da categoria do pessoal
 
-###### Art. 28.º As meias são de lã branca, de altura até ao joelho.
+Art. 28.º As meias são de lã branca, de altura até ao joelho.
 
-###### Art. 29.º As passadeiras são de modelo idêntico ao usado pelos sargentos da Armada, próprias para serem enfiadas nas platinas fixas existentes na camisa branca (padrão n.º 2), e guarnecidas na face superior com os distintivos da categoria do pessoal e do I. S. N., separados entre si de 0,003 m, e deixando livres, nas extremidades das passadeiras viradas para a gola e para o ombro, uma margem de 0,004 m.
+Art. 29.º As passadeiras são de modelo idêntico ao usado pelos sargentos da Armada, próprias para serem enfiadas nas platinas fixas existentes na camisa branca (padrão n.º 2), e guarnecidas na face superior com os distintivos da categoria do pessoal e do I. S. N., separados entre si de 0,003 m, e deixando livres, nas extremidades das passadeiras viradas para a gola e para o ombro, uma margem de 0,004 m.
 
-###### Art. 30.º As peúgas pretas são de algodão, lisas e sem enfeites.
+Art. 30.º As peúgas pretas são de algodão, lisas e sem enfeites.
 
-###### Art. 31.º Os sapatos pretos são idênticos aos usados pelos sargentos da Armada.
+Art. 31.º Os sapatos pretos são idênticos aos usados pelos sargentos da Armada.
 
-###### Art. 32.º O sueste é do modelo em uso na Armada.
+Art. 32.º O sueste é do modelo em uso na Armada.
 
-###### Art. 33.º O pessoal do quadro permanente dos barcos salva-vidas usará os seguintes uniformes:
+Art. 33.º O pessoal do quadro permanente dos barcos salva-vidas usará os seguintes uniformes:
 
 a) No tempo frio: boné, calças azuis, camisa (padrão n.º 1), cinto azul, distintivos, gravata, jaquetão azul, peúgas pretas e sapatos pretos;
 
 b) No tempo quente: boné, calças brancas, camisa (padrão n.º 2), cinto branco, passadeiras, peúgas pretas e sapatos pretos.
 
-###### Art. 34.º O pessoal adventício usará os seguintes uniformes:
+Art. 34.º O pessoal adventício usará os seguintes uniformes:
 
 a) No tempo frio: calças de zuarte, camisola de lã, chapéu, cinto azul, distintivo, peúgas pretas e sapatos pretos;
 
@@ -329,24 +344,24 @@ Ant. 35.º - 1. O pessoal de assistência aos banhistas nas paias usará o segui
 
 4. Os nadadores-salvadores usarão o calção de banho referido na alínea a) do artigo 15.º e os banheiros e ajudantes de banheiro o da alínea b) do mesmo artigo.
 
-###### Art. 36.º Os prazos de duração dos artigos do uniforme referidos nesta portaria são fixados pelo director do I. S. N., de acordo com a qualidade dos tecidos e outros materiais e o serviço em que são usados e tendo em atenção os prazos de duração fixados para artigos semelhantes usados pelo pessoal da Armada.
+Art. 36.º Os prazos de duração dos artigos do uniforme referidos nesta portaria são fixados pelo director do I. S. N., de acordo com a qualidade dos tecidos e outros materiais e o serviço em que são usados e tendo em atenção os prazos de duração fixados para artigos semelhantes usados pelo pessoal da Armada.
 
-###### Art. 37.º - 1. Os indivíduos que apresentem artigos de uniformes, fornecidos gratuitamente pelo I. S. N. ou pertencentes às estações e postos salva-vidas, em mau estado, ou inutilizados, antes do prazo de duração indemnizarão o Instituto do valor proporcional ao tempo que ainda falte para completar esse prazo.
+Art. 37.º - 1. Os indivíduos que apresentem artigos de uniformes, fornecidos gratuitamente pelo I. S. N. ou pertencentes às estações e postos salva-vidas, em mau estado, ou inutilizados, antes do prazo de duração indemnizarão o Instituto do valor proporcional ao tempo que ainda falte para completar esse prazo.
 
 2. Os artigos em mau estado, ou inutilizados, desde que se verifique não ter havido culpabilidade do pessoal, serão substituídos por conta do Instituto.
 
-###### Art. 38.º Os indivíduos que, por qualquer motivo, deixem de prestar serviço e não entreguem os artigos que lhes foram distribuídos, ou os entreguem em mau estado, relativamente ao prazo de duração, indemnizarão o I. S. N. do valor proporcional ao tempo que ainda falte para completar os respectivos prazos de duração.
+Art. 38.º Os indivíduos que, por qualquer motivo, deixem de prestar serviço e não entreguem os artigos que lhes foram distribuídos, ou os entreguem em mau estado, relativamente ao prazo de duração, indemnizarão o I. S. N. do valor proporcional ao tempo que ainda falte para completar os respectivos prazos de duração.
 
-###### Art. 39.º Os delegados do I. S. N. são responsáveis pelo cumprimento das disposições desta portaria, na parte que lhes competir, fiscalizando a forma como o pessoal se apresenta e o estado de conservação e asseio dos artigos.
+Art. 39.º Os delegados do I. S. N. são responsáveis pelo cumprimento das disposições desta portaria, na parte que lhes competir, fiscalizando a forma como o pessoal se apresenta e o estado de conservação e asseio dos artigos.
 
-###### Art. 40.º - 1. Os patrões dos barcos salva-vidas são responsáveis pelos artigos referidos na alínea a) do n.º 2 do artigo 1.º e no artigo 4.º distribuídos ao pessoal do seu salva-vidas, que só podem ser utilizados em serviço, e indemnização o I. S. N. dos prejuízos resultantes da falta de cuidado na sua conservação.
+Art. 40.º - 1. Os patrões dos barcos salva-vidas são responsáveis pelos artigos referidos na alínea a) do n.º 2 do artigo 1.º e no artigo 4.º distribuídos ao pessoal do seu salva-vidas, que só podem ser utilizados em serviço, e indemnização o I. S. N. dos prejuízos resultantes da falta de cuidado na sua conservação.
 
 2. Quando os artigos referidos forem desviados, inutilizados ou deteriorados com culpabilidade de um ou mais tripulantes, os patrões deverão entregar ao delegado do Instituto da sua área a respectiva participação, a fim de ilibarem a sua responsabilidade.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.
 
 Da Fig. 1 à Fig. 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/05/11000/06690672.pdf))](https://files.diariodarepublica.pt/1s/1971/05/11000/06690672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/05/11000/06690672.pdf)
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

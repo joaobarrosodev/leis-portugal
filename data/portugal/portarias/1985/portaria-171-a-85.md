@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 75/1985, 2º Suplemento, Série I de 1985-03-30
   number: '75'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 868-(13) a 868-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/03/07502/00130015.pdf
 entry_into_force_dates: []
@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/171-a-1985-649304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T08:20:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2dc70dc6306747274e945f437c72059922d78a4abd18e4dd351ca284e80b10c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7780fd1f480e613fb18ca02d12aa3d9ece4541bb734fcb0c0d4f69bfd317c05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:20:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- BENS de Consumo
+- Contingentação
+- Importação
+relationships:
+- type: cites
+  target: pt:dre:201864:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:20:06Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +150,7 @@ d) Bens de equipamento produzidos por industriais nacionais, independentemente d
 
 Ministérios das Finanças e do Plano, da Agricultura, da Indústria e Energia e do Comércio e Turismo.
 
-**Assinada em 30 de Março de 1985.**
+Assinada em 30 de Março de 1985.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro da Agricultura, Carlos Alberto Antunes Filipe, Secretário de Estado do Comércio e Indústria Agrícolas. - O Ministro da Indústria e Energia, José Veiga Simão. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.
 
@@ -151,4 +158,4 @@ LISTA ANEXA
 
 Contingentes entre 1 de Abril e 31 de Dezembro de 1985
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/07502/00130015.pdf))](https://files.diariodarepublica.pt/1s/1985/03/07502/00130015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/07502/00130015.pdf)

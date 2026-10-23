@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/08/15800/0534105342.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/192/2009/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2009-493693
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8073c49368b12ef33d02d7a87a4d217de5fc9b6988abd7c0f94f8c071310ed31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f18d56190fc5191cf1ff9408a9f233b23ea97e1fe19c18b3e86eb942004074b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Imóveis
-- Instituição de Crédito
 - Construção Civil
 - Crédito à Habitação
-- Direcção Geral do Consumidor
 - Crédito Bancário
+- Direcção Geral do Consumidor
 - Informação do Consumidor
+- Instituição de Crédito
 - Proteção do Consumidor
 - TAXA de JURO
 relationships:
@@ -82,6 +82,12 @@ relationships:
   target: pt:dre:107561581:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:192421:por
+  label: "Dada nova redação ao art. 1º do Dec Lei 51/2007 de 07-mar, alterado pelo presente diploma, pelo DEC LEI.226/2012.18.10.2012.MEE,\
+    \ DR.IS [202] de 18.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-2012-192421
+  date: '2012-10-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/171/2008/08/26/p/dre
   label: null
@@ -102,16 +108,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/57/2007/04/27/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/57/2007/04/27/p/dre
+- type: cites
+  target: pt:dre:218727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520996:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:107561581:por
+  label: Revogado, a partir de 01.01.2018, o Dec Lei 192/2009, de 17-ago, pelo(a) Decreto-Lei n.º 74-A/2017 - Diário da República
+    n.º 120/2017, 1º Suplemento, Série I de 2017-06-23, e nos termos do art. 47.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-a-2017-107561581
+  date: '2017-06-23'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:18Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +186,9 @@ Os artigos 1.º e 9.º do [Decreto-Lei n.º 51/2007](https://diariodarepublica.p
 
 2 - As regras previstas neste decreto-lei aplicam-se, ainda, aos contratos de crédito cuja garantia hipotecária incida, total ou parcialmente, sobre um imóvel que simultaneamente garanta um contrato de crédito celebrado com a mesma instituição para os fins indicados no número anterior.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Às instituições de crédito está vedado fazer depender a celebração ou renegociação dos contratos referidos no artigo 1.º da aquisição de outros produtos ou serviços financeiros.
 
@@ -188,12 +222,12 @@ O presente decreto-lei entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Fernando Teixeira dos Santos.
 
-**Promulgado em 7 de Agosto de 2009.**
+Promulgado em 7 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de Agosto de 2009.**
+Referendado em 10 de Agosto de 2009.
 
 Pelo Primeiro-Ministro, Luís Filipe Marques Amado, Ministro de Estado e dos Negócios Estrangeiros.

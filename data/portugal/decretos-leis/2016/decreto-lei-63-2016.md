@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/09/17600/0315903191.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/63/2016/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c42508413e17e670887eae3e4a80a2c890e5dbd7b32fbf772f04cdac9cb019de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd56cd3a60b0884e74559121efd9d5ae2f36bdce60db39bba9d7f311d5490772
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação de Conhecimentos
+- Concurso Nacional de Acesso e Ingresso
 - Curso de Especialização Tecnológica
-- Plano de Estudos
+- Curso Técnico Superior Profissional
 - Declaração de Bolonha
 - Diploma
-- Concurso Nacional de Acesso e Ingresso
-- Prova de Ingresso
+- Educação dos Adultos
+- Ensino Superior
 - Estudante
 - Exame
 - Habilitações Literárias
-- Educação dos Adultos
 - Lei de Bases
 - Licenciatura
-- Mestrado
-- Política de Educação
-- Avaliação de Conhecimentos
-- Ensino Superior
-- Sistema Educativo
 - Matrícula
-- Curso Técnico Superior Profissional
+- Mestrado
+- Plano de Estudos
+- Política de Educação
+- Prova de Ingresso
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:840061633:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:116068879:por
+  label: Alterados, a partir de 17.08.2018 e nos termos do n.º 2 do art. 9.º do presente diploma, os arts. 1.º, 3.º, 4.º,
+    6.º, 14.º, 16.º, 18.º, 19.º, 20.º, 21.º, 22.º, 26.º, 27.º, 29.º, 30.º, 31.º, 33.º, 34.º, 38.º, 40.º-B, 40.º-E, 40.º-H,
+    40.º-I, 40.º-T, 40.º-U, 40.º-V, 41.º, 42.º, 43.º, 45.º, 45.º-A, 46.º-A, 46.º-C, 48.º, 49.º, 49.º-A, 54.º-A, 57.º, 60.º,
+    76.º-B, 76.º-C e 80.º-B, aditados os arts. 4.º-A, 38.º-A, 46.º-D, 51.º-B e 55.º-A e revogados o n.º 4 do art. 6.º, os
+    nºs. 4 e 7 do art. 16.º, o n.º 2 do art. 21.º e o n.º 4 do art. 29.º do Dec Lei 74/2006, de 24-mar, na versão revista
+    e republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16,
+    que procede á sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-2018-116068879
+  date: '2018-08-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/113/2014/07/16/p/dre
   label: null
@@ -131,16 +142,120 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/85/2009/08/27/
   label: null
   source: http://data.dre.pt/eli/lei/85/2009/08/27/
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
-  article_count: 208
-  section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 146
+  section_count: 31
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:32Z'
   warnings: []
   errors: []
 ---
@@ -217,7 +332,9 @@ Objeto das provas
 
 As provas visam avaliar a capacidade para a frequência de um curso técnico superior profissional, de um ciclo de estudos de licenciatura ou de um ciclo de estudos integrado de mestrado.
 
-###### Artigo 13.º — Creditação
+Artigo 13.º
+
+Creditação
 
 As instituições de ensino superior podem, nos termos fixados pelo [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março, alterado e republicado pelo Decreto-Lei n.º [63/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), de 13 de setembro, reconhecer, através da atribuição de créditos nos seus ciclos de estudos, a experiência profissional e a formação dos que nele sejam admitidos através das provas.»
 
@@ -231,7 +348,9 @@ Os artigos 1.º, 3.º, 4.º, 12.º, 14.º, 16.º, 22.º, 24.º, 26.º, 27.º, 30
 
 O presente decreto-lei aprova o regime jurídico dos graus e diplomas do ensino superior, em desenvolvimento do disposto nos artigos 13.º a 15.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro (Lei de Bases do Sistema Educativo), alterada pelas [Leis n.os 115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de setembro, [49/2005](https://diariodarepublica.pt/dr/detalhe/lei/49-2005-245336), de 30 de agosto, e [85/2009](https://diariodarepublica.pt/dr/detalhe/lei/85-2009-488826), de 27 de agosto, e no n.º 4 do artigo 16.º da [Lei n.º 37/2003](https://diariodarepublica.pt/dr/detalhe/lei/37-2003-656107), de 22 de agosto (estabelece as bases do financiamento do ensino superior), alterada pelas [Leis n.os 49/2005](https://diariodarepublica.pt/dr/detalhe/lei/49-2005-245336), de 30 de agosto, e [62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]:
 
@@ -271,7 +390,9 @@ n) 'Perfil profissional' a descrição do conjunto de atividades e saberes reque
 
 o) 'Referencial de competências' o conjunto de competências exigidas para a obtenção de uma qualificação.
 
-###### Artigo 4.º — Graus académicos e diplomas
+Artigo 4.º
+
+Graus académicos e diplomas
 
 1 - No ensino politécnico são conferidos os graus académicos de licenciado e de mestre e o diploma de técnico superior profissional.
 
@@ -291,7 +412,9 @@ d) Pela realização de outros cursos não conferentes de grau académico integr
 
 5 - Nos diplomas a que se refere a alínea d) do n.º 3 deve ser adotada uma denominação que não se confunda com a de graus académicos na mesma área.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Ao grau de licenciado é atribuída uma classificação final, expressa no intervalo 10-20 da escala numérica inteira de 0 a 20, bem como no seu equivalente na escala europeia de comparabilidade de classificações, nos termos fixados pelos artigos 16.º a 22.º do [Decreto-Lei n.º 42/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2005-606304), de 22 de fevereiro, alterado pelo [Decreto-Lei n.º 107/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), de 25 de junho.
 
@@ -301,7 +424,9 @@ d) Pela realização de outros cursos não conferentes de grau académico integr
 
 4 - [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 [...]:
 
@@ -327,7 +452,9 @@ j) [...]
 
 k) [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -347,7 +474,9 @@ k) [...].
 
 9 - [...].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
@@ -361,13 +490,17 @@ k) [...].
 
 6 - [...].
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Ao grau académico de mestre é atribuído uma classificação final, expressa no intervalo 10-20 da escala numérica inteira de 0 a 20, bem como no seu equivalente na escala europeia de comparabilidade de classificações, nos termos fixados pelos artigos 16.º a 22.º do [Decreto-Lei n.º 42/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2005-606304), de 22 de fevereiro, alterado pelo [Decreto-Lei n.º 107/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), de 25 de junho.
 
 2 - [...].
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 [...]:
 
@@ -403,7 +536,9 @@ o) [...]
 
 p) [...].
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - O valor das propinas devidas pela inscrição no ciclo de estudos integrado previsto no artigo 19.º é fixado nos termos previstos para o ciclo de estudos conducente ao grau de licenciado no n.º 2 do artigo 16.º da [Lei n.º 37/2003](https://diariodarepublica.pt/dr/detalhe/lei/37-2003-656107), de 22 de agosto, alterada pelas [Leis n.os 49/2005](https://diariodarepublica.pt/dr/detalhe/lei/49-2005-245336), de 30 de agosto, e [62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro.
 
@@ -411,7 +546,9 @@ p) [...].
 
 3 - O valor das propinas devidas pela inscrição no ciclo de estudos conducente ao grau de mestre no ensino público nos restantes casos é fixado nos termos estabelecidos pela [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]:
 
@@ -425,7 +562,9 @@ c) Os detentores de um currículo escolar, científico ou profissional, que seja
 
 3 - O reconhecimento a que se referem as alíneas b) e c) do n.º 1 tem como efeito apenas o acesso ao ciclo de estudos conducente ao grau de doutor e não confere ao seu titular a equivalência ao grau de licenciado ou de mestre, ou ao seu reconhecimento
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...].
 
@@ -453,13 +592,17 @@ c) [...].
 
 10 - [...].
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - Ao grau académico de doutor é atribuída uma qualificação final nos termos fixados pelas normas regulamentares aprovadas pela universidade ou instituto universitário que o atribui.
 
 2 - A qualificação é atribuída pelo júri a que se refere o artigo 34.º, consideradas as classificações obtidas nas unidades curriculares do curso de doutoramento, quando exista, e o mérito da tese ou dos trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º apreciado no ato público.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 O órgão legal e estatutariamente competente de cada universidade ou instituto universitário aprova as normas relativas às seguintes matérias:
 
@@ -489,7 +632,9 @@ m) [...]
 
 n) [...].
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...].
 
@@ -503,7 +648,9 @@ b) Ser objeto de registo pela Direção-Geral do Ensino Superior, enquanto ciclo
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - Quando todas as instituições de ensino superior associadas forem legalmente competentes para a atribuição do grau ou diploma, este pode ser atribuído:
 
@@ -515,7 +662,9 @@ c) Apenas por uma das instituições.
 
 2 - Quando alguma das instituições de ensino superior não for legalmente competente para atribuir o grau ou diploma, nomeadamente por pertencer a subsistema que não possua competência para tal, apenas a instituição ou instituições de ensino superior competentes o podem atribuir, nos termos definidos no número anterior.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [...].
 
@@ -529,7 +678,9 @@ b) O grau é titulado por diploma subscrito pelo órgão legal e estatutariament
 
 4 - A emissão do diploma é acompanhada da emissão do suplemento ao diploma nos termos do [Decreto-Lei n.º 42/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2005-606304), de 22 de fevereiro, alterado pelo [Decreto-Lei n.º 107/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), de 25 de junho.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - [...]:
 
@@ -555,7 +706,9 @@ g) Podem creditar experiência profissional devidamente comprovada, até ao limi
 
 5 - A atribuição de créditos ao abrigo da alínea g) do n.º 1 pode ser total ou parcialmente condicionada à realização de procedimentos de avaliação de conhecimentos específicos.
 
-###### Artigo 45.º-B — [...]
+Artigo 45.º-B
+
+[...]
 
 [...]:
 
@@ -563,7 +716,9 @@ a) O ensino ministrado em ciclos de estudos conferentes ou não de grau académi
 
 b) O ensino ministrado em ciclos de estudos conferentes ou não de grau académico fora da localidade e instalações a que se reporta a acreditação e ou o registo.
 
-###### Artigo 46.º-A — [...]
+Artigo 46.º-A
+
+[...]
 
 1 - As instituições de ensino superior facultam a inscrição nas unidades curriculares que ministram.
 
@@ -575,7 +730,9 @@ b) O ensino ministrado em ciclos de estudos conferentes ou não de grau académi
 
 5 - [...].
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - [...].
 
@@ -583,7 +740,9 @@ b) O ensino ministrado em ciclos de estudos conferentes ou não de grau académi
 
 3 - Nas restantes reuniões do júri e nas provas públicas, o presidente do júri pode autorizar a participação por teleconferência de um número de vogais não superior a 50 %,desde que haja condições técnicas para a sua plena participação nos trabalhos.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...].
 
@@ -599,7 +758,9 @@ b) O ensino ministrado em ciclos de estudos conferentes ou não de grau académi
 
 7 - [...].
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - As teses de doutoramento, os trabalhos previstos na alínea a) do n.º 2 do artigo 31.º, as fundamentações escritas a que se refere a alínea b) do n.º 2 do mesmo artigo, as dissertações de mestrado e os trabalhos e relatórios a que se refere a alínea b) do n.º 1 do artigo 20.º ficam sujeitas ao depósito obrigatório de uma cópia digital num repositório integrante da rede do Repositório Científico de Acesso Aberto de Portugal, operado pela Fundação para a Ciência e a Tecnologia, I. P.
 
@@ -613,7 +774,9 @@ b) O ensino ministrado em ciclos de estudos conferentes ou não de grau académi
 
 6 - [...].
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 [...]:
 
@@ -621,7 +784,9 @@ a) [...]
 
 b) Na escrita das teses de doutoramento, dos trabalhos previstos na alínea a) do n.º 2 do artigo 31.º, das fundamentações a que se refere a alínea b) do n.º 2 do mesmo artigo, das dissertações de mestrado e dos trabalhos e relatórios a que se refere a alínea b) do n.º 1 do artigo 20.º, e nos respetivos atos públicos de defesa.
 
-###### Artigo 54.º-A — [...]
+Artigo 54.º-A
+
+[...]
 
 1 - [...].
 
@@ -641,7 +806,9 @@ b) Na escrita das teses de doutoramento, dos trabalhos previstos na alínea a) d
 
 9 - [...].
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - [...].
 
@@ -653,7 +820,9 @@ b) Na escrita das teses de doutoramento, dos trabalhos previstos na alínea a) d
 
 5 - [...].
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - A acreditação é conferida pelo prazo estabelecido na decisão do processo de acreditação de um ciclo de estudos, nos termos do disposto em Regulamento aprovado pelo conselho de administração da Agência de Avaliação e Acreditação do Ensino Superior, ou pelo prazo de um ano, em caso de deferimento tácito.
 
@@ -663,7 +832,9 @@ b) Na escrita das teses de doutoramento, dos trabalhos previstos na alínea a) d
 
 4 - Os ciclos de estudos acreditados pela Agência de Avaliação e Acreditação do Ensino Superior só podem ser ministrados nos locais para onde foram acreditados e registados ou à distância, se isso constar expressamente do ato de acreditação, ou, em caso de deferimento tácito, do respetivo pedido.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - O incumprimento dos requisitos legais ou das disposições estatutárias e a não observância dos critérios científicos e pedagógicos que justificaram a acreditação determinam a sua revogação, após audiência prévia da instituição de ensino superior em causa.
 
@@ -671,7 +842,9 @@ b) Na escrita das teses de doutoramento, dos trabalhos previstos na alínea a) d
 
 3 - A partir da revogação da acreditação, não podem ser admitidos novos estudantes, embora, dentro dos prazos de cessação do funcionamento do ciclo de estudos definidos pela Agência de Avaliação e Acreditação do Ensino Superior, possam ser atribuídos os respetivos graus aos estudantes já inscritos.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 A alteração dos elementos caraterizadores de um ciclo de estudos conferente de grau, modificando ou não os seus objetivos, fica sujeita ao regime fixado pelo presente título.»
 
@@ -701,7 +874,9 @@ d) Possuir competências que lhes permitam comunicar acerca da sua compreensão 
 
 e) Possuir competências de aprendizagem que lhes permitam prosseguir estudos com alguma autonomia.
 
-###### Artigo 40.º-B — Atribuição do diploma de técnico superior profissional
+Artigo 40.º-B
+
+Atribuição do diploma de técnico superior profissional
 
 1 - As áreas de formação em que cada instituição de ensino superior confere o diploma de técnico superior profissional são definidas pelo seu órgão legal e estatutariamente competente, tendo em consideração as necessidades de formação profissional, designadamente na região em que se encontre inserida.
 
@@ -721,13 +896,17 @@ c) Dos recursos humanos e materiais indispensáveis para garantir o nível e a q
 
 3 - A verificação da satisfação dos requisitos referidos nos números anteriores é feita no âmbito do processo de registo a que se referem os artigos 40.º-S e seguintes.
 
-###### Artigo 40.º-C — Articulação com o mercado de trabalho
+Artigo 40.º-C
+
+Articulação com o mercado de trabalho
 
 1 - A criação de cursos técnicos superiores profissionais, bem como a fixação dos seus planos de estudos, é precedida, obrigatoriamente, de consulta ou recolha de informação junto das entidades empregadoras e associações empresariais e socioprofissionais da região onde se insere a instituição de ensino superior.
 
 2 - Tendo em vista a concretização da formação em contexto de trabalho e a integração no mercado de emprego, as instituições de ensino superior celebram acordos ou outras formas de parceria com empresas ou outros empregadores, associações empresariais e socioprofissionais ou outras organizações que melhor se adequem à especificidade da formação ministrada, bem como às exigências dos perfis profissionais visados.
 
-###### Artigo 40.º-D — Redes
+Artigo 40.º-D
+
+Redes
 
 No quadro da ministração dos cursos técnicos superiores profissionais, as instituições de ensino superior devem promover a sua articulação em redes regionais:
 
@@ -737,7 +916,9 @@ b) Com as escolas e outras entidades que ministrem cursos de formação profissi
 
 c) Com empresas e outros empregadores, associações empresariais e socioprofissionais ou outras organizações relacionadas com as áreas de formação asseguradas.
 
-###### Artigo 40.º-E — Acesso ao ciclo de estudos conducente ao diploma de técnico superior profissional
+Artigo 40.º-E
+
+Acesso ao ciclo de estudos conducente ao diploma de técnico superior profissional
 
 1 - Podem candidatar-se ao acesso aos cursos técnicos superiores profissionais:
 
@@ -749,7 +930,9 @@ b) Os que tenham sido aprovados nas provas especialmente adequadas, destinadas a
 
 3 - Os estudantes que concluam os cursos de formação profissional de nível secundário ou equivalente nas escolas e noutras entidades em rede com uma instituição que ministre ensino politécnico têm prioridade na ocupação de até 50 % das vagas que sejam fixadas nos cursos técnicos superiores profissionais por esta ministrados e para os quais reúnam as condições de ingresso.
 
-###### Artigo 40.º-F — Ingresso no ciclo de estudos conducente ao diploma de técnico superior profissional
+Artigo 40.º-F
+
+Ingresso no ciclo de estudos conducente ao diploma de técnico superior profissional
 
 1 - O ingresso nos cursos técnicos superiores profissionais realiza-se através de um concurso organizado pela instituição de ensino superior.
 
@@ -761,7 +944,9 @@ b) Os que tenham sido aprovados nas provas especialmente adequadas, destinadas a
 
 5 - Todos os documentos relacionados com a verificação da satisfação das condições de ingresso, incluindo eventuais provas escritas efetuadas pelo estudante, integram o seu processo individual.
 
-###### Artigo 40.º-G — Número máximo de estudantes
+Artigo 40.º-G
+
+Número máximo de estudantes
 
 1 - No âmbito do processo de registo da criação a que se referem os artigos 40.º-S e seguintes são fixados, em relação a cada par instituição/ciclo de estudos, os seguintes valores:
 
@@ -791,15 +976,21 @@ d) É comunicado à Direção-Geral do Ensino Superior, acompanhado da respetiva
 
 5 - Não é permitida a transferência dos valores fixados nos termos dos números anteriores entre cursos ou instituições de ensino superior.
 
-###### Artigo 40.º-H — Propinas do ciclo de estudos conducente ao diploma de técnico superior profissional
+Artigo 40.º-H
+
+Propinas do ciclo de estudos conducente ao diploma de técnico superior profissional
 
 Pela inscrição nos cursos técnicos superiores profissionais no ensino público é devida uma propina anual, a fixar pelo órgão legal e estatutariamente competente da instituição de ensino superior, de montante não superior ao valor máximo a que se refere o n.º 2 do artigo 16.º da [Lei n.º 37/2003](https://diariodarepublica.pt/dr/detalhe/lei/37-2003-656107), de 22 de agosto, alterada pelas [Leis n.os 49/2005](https://diariodarepublica.pt/dr/detalhe/lei/49-2005-245336), de 30 de agosto, e [62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro.
 
-###### Artigo 40.º-I — Ciclo de estudos conducente ao diploma de técnico superior profissional
+Artigo 40.º-I
+
+Ciclo de estudos conducente ao diploma de técnico superior profissional
 
 O ciclo de estudos conducente ao diploma de técnico superior profissional tem 120 créditos e uma duração normal de quatro semestres curriculares de trabalho dos estudantes.
 
-###### Artigo 40.º-J — Estrutura do ciclo de estudos conducente ao diploma de técnico superior profissional
+Artigo 40.º-J
+
+Estrutura do ciclo de estudos conducente ao diploma de técnico superior profissional
 
 O ciclo de estudos conducente ao diploma de técnico superior profissional é integrado por um conjunto de unidades curriculares, denominado curso técnico superior profissional, organizadas nas componentes de:
 
@@ -809,17 +1000,23 @@ b) Formação técnica;
 
 c) Formação em contexto de trabalho.
 
-###### Artigo 40.º-K — Componente de formação geral e científica
+Artigo 40.º-K
+
+Componente de formação geral e científica
 
 A componente de formação geral e científica visa desenvolver atitudes e comportamentos adequados a profissionais com elevado nível de qualificação profissional e adaptabilidade ao mundo do trabalho e da empresa, ampliar a formação cultural e aperfeiçoar, onde tal se revele indispensável, o conhecimento dos domínios de natureza científica que fundamentam as tecnologias próprias da respetiva área de formação.
 
-###### Artigo 40.º-L — Componente de formação técnica
+Artigo 40.º-L
+
+Componente de formação técnica
 
 1 - A componente de formação técnica integra domínios de natureza técnica orientados para a compreensão das atividades práticas e para a resolução de problemas do âmbito do exercício profissional, devendo concretizar-se, principalmente, na aplicação prática, laboratorial, oficinal e em projetos, e promover e estimular a componente de investigação baseada na prática.
 
 2 - A componente de formação técnica pode incluir módulos ministrados em ambiente de trabalho.
 
-###### Artigo 40.º-M — Componente de formação em contexto de trabalho
+Artigo 40.º-M
+
+Componente de formação em contexto de trabalho
 
 1 - A componente de formação em contexto de trabalho visa a aplicação dos conhecimentos e saberes adquiridos às atividades práticas do respetivo perfil profissional e contempla a execução de atividades sob orientação, utilizando as técnicas, os equipamentos e os materiais que se integram nos processos de produção de bens ou de prestação de serviços.
 
@@ -827,7 +1024,9 @@ A componente de formação geral e científica visa desenvolver atitudes e compo
 
 3 - A componente de formação em contexto de trabalho concretiza-se através de um estágio podendo ser repartida ao longo do curso.
 
-###### Artigo 40.º-N — Organização do currículo
+Artigo 40.º-N
+
+Organização do currículo
 
 Na organização do currículo dos cursos técnicos superiores profissionais devem ser satisfeitos os seguintes critérios:
 
@@ -835,7 +1034,9 @@ a) No conjunto dos créditos das componentes de formação geral e científica e
 
 b) Na componente de formação técnica, o conjunto das vertentes de aplicação prática, laboratorial, oficinal e de projeto deve corresponder a, pelo menos, 70 % das suas horas de contacto.
 
-###### Artigo 40.º-O — Ministração do ensino
+Artigo 40.º-O
+
+Ministração do ensino
 
 1 - As formações referidas nas alíneas a) e b) do artigo 40.º-J devem ser ministradas no ambiente pedagógico adequado aos objetivos destes cursos.
 
@@ -845,11 +1046,15 @@ b) Na componente de formação técnica, o conjunto das vertentes de aplicação
 
 4 - A apreciação das condições de ministração do ensino faz-se separadamente para cada localidade onde a instituição pretenda ministrar o ciclo de estudos.
 
-###### Artigo 40.º-P — Concessão do diploma de técnico superior profissional
+Artigo 40.º-P
+
+Concessão do diploma de técnico superior profissional
 
 O diploma de técnico superior profissional é conferido aos que, através da aprovação em todas as unidades curriculares que integram o plano de estudos do curso técnico superior profissional, tenham obtido o número de créditos fixado.
 
-###### Artigo 40.º-Q — Classificação final do diploma de técnico superior profissional
+Artigo 40.º-Q
+
+Classificação final do diploma de técnico superior profissional
 
 1 - Ao diploma de técnico superior profissional é atribuída uma classificação final, expressa no intervalo 10-20 da escala numérica inteira de 0 a 20, bem como no seu equivalente na escala europeia de comparabilidade de classificações, nos termos fixados pelos artigos 16.º a 22.º do [Decreto-Lei n.º 42/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2005-606304), de 22 de fevereiro, alterado pelo [Decreto-Lei n.º 107/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), de 25 de junho.
 
@@ -859,11 +1064,15 @@ O diploma de técnico superior profissional é conferido aos que, através da ap
 
 4 - A classificação final é atribuída pelo órgão legal e estatutariamente competente da instituição de ensino superior.
 
-###### Artigo 40.º-R — Entrada em funcionamento
+Artigo 40.º-R
+
+Entrada em funcionamento
 
 A entrada em funcionamento de um curso técnico superior profissional carece de registo prévio na Direção-Geral do Ensino Superior.
 
-###### Artigo 40.º-S — Registo
+Artigo 40.º-S
+
+Registo
 
 1 - No âmbito do registo da criação de cada curso técnico superior profissional são analisados, designadamente:
 
@@ -899,7 +1108,9 @@ b) Ouvir entidades especializadas na área.
 
 4 - No âmbito do processo de registo da criação de cursos em áreas objeto de regulação do exercício da profissão, a Direção-Geral do Ensino Superior ouve, obrigatoriamente, as entidades públicas competentes, as quais dispõem do prazo de 30 dias úteis para se pronunciarem.
 
-###### Artigo 40.º-T — Despacho de registo
+Artigo 40.º-T
+
+Despacho de registo
 
 1 - A decisão sobre o pedido de registo da criação de um curso técnico superior profissional é da competência do diretor-geral do Ensino Superior.
 
@@ -925,7 +1136,9 @@ i) As localidades e instalações em que é autorizada a ministração do curso;
 
 j) O número máximo para cada admissão de novos estudantes e o número máximo de estudantes que podem estar inscritos em simultâneo no curso em cada localidade em que esteja autorizada a sua ministração.
 
-###### Artigo 40.º-U — Alterações
+Artigo 40.º-U
+
+Alterações
 
 1 - A aprovação das alterações aos cursos técnicos superiores profissionais compete aos órgãos legal e estatutariamente competentes das instituições de ensino superior.
 
@@ -941,7 +1154,9 @@ j) O número máximo para cada admissão de novos estudantes e o número máximo
 
 7 - A publicação das alterações deve mencionar expressamente o número e a data de registo das mesmas na Direção-Geral do Ensino Superior.
 
-###### Artigo 40.º-V — Cancelamento do registo
+Artigo 40.º-V
+
+Cancelamento do registo
 
 1 - São fundamentos para o cancelamento do registo:
 
@@ -965,7 +1180,9 @@ a) Deixa de poder admitir novos estudantes;
 
 b) Cessa o seu funcionamento, sem prejuízo de o diretor-geral do Ensino Superior poder autorizar que, durante o período por ele fixado, prossiga a ministração do ensino aos estudantes nele inscritos à data de cancelamento do registo e, se for caso disso, lhes sejam atribuídos os respetivos diplomas.
 
-###### Artigo 40.º-W — Comissão de acompanhamento
+Artigo 40.º-W
+
+Comissão de acompanhamento
 
 1 - É criada uma comissão de acompanhamento dos cursos técnicos superiores profissionais.
 
@@ -1003,7 +1220,9 @@ g) A adequação da formação ministrada no âmbito dos cursos técnicos superi
 
 6 - As deliberações genéricas da comissão são publicadas na 2.ª série do Diário da República.
 
-###### Artigo 40.º-X — Avaliação da qualidade
+Artigo 40.º-X
+
+Avaliação da qualidade
 
 1 - Os cursos técnicos superiores profissionais estão sujeitos a avaliação periódica da qualidade realizada de acordo com os princípios fixados pela [Lei n.º 38/2007](https://diariodarepublica.pt/dr/detalhe/lei/38-2007-637179), de 16 de agosto.
 
@@ -1015,7 +1234,9 @@ g) A adequação da formação ministrada no âmbito dos cursos técnicos superi
 
 5 - Os resultados da avaliação são publicados, obrigatoriamente, nas páginas da Internet da instituição de ensino superior e da Direção-Geral do Ensino Superior.
 
-###### Artigo 40.º-Y — Normas regulamentares do diploma de técnico superior profissional
+Artigo 40.º-Y
+
+Normas regulamentares do diploma de técnico superior profissional
 
 O órgão legal e estatutariamente competente de cada instituição de ensino superior aprova as normas relativas às seguintes matérias:
 
@@ -1039,7 +1260,9 @@ i) Prazo de emissão do diploma e do suplemento ao diploma;
 
 j) Processo de acompanhamento pelos órgãos pedagógico e científico.
 
-###### Artigo 40.º-Z — Taxas
+Artigo 40.º-Z
+
+Taxas
 
 São devidas taxas, de montante a fixar nos termos do n.º 3 do artigo 6.º do [Decreto Regulamentar n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-2012-543699), de 7 de fevereiro, pelos seguintes atos:
 
@@ -1047,7 +1270,9 @@ a) Registo de um curso técnico superior profissional e das suas alterações;
 
 b) Avaliação externa da qualidade de um curso técnico superior profissional.
 
-###### Artigo 40.º-AA — Monitorização dos diplomados
+Artigo 40.º-AA
+
+Monitorização dos diplomados
 
 1 - As instituições de ensino superior asseguram a recolha de informação sobre o percurso profissional dos seus diplomados e a divulgação de informação de síntese sobre a mesma.
 
@@ -1055,7 +1280,9 @@ b) Avaliação externa da qualidade de um curso técnico superior profissional.
 
 3 - Esta informação deve ser considerada no âmbito do processo anual de fixação das vagas e do processo de avaliação da qualidade.
 
-###### Artigo 40.º-AB — Pessoal docente
+Artigo 40.º-AB
+
+Pessoal docente
 
 1 - A ministração do ensino dos cursos técnicos superiores profissionais é assegurada pelo pessoal docente da instituição de ensino superior.
 
@@ -1065,11 +1292,15 @@ a) À contratação de pessoal com a qualificação adequada, por períodos limi
 
 b) A docentes e formadores de outras instituições que integrem as redes previstas no artigo 40.º-D.
 
-###### Artigo 40.º-AC — Ação social
+Artigo 40.º-AC
+
+Ação social
 
 Os estudantes inscritos nos cursos técnicos superiores profissionais são abrangidos pela ação social direta e indireta, nos mesmos termos dos restantes estudantes do ensino superior.
 
-###### Artigo 40.º-AD — Financiamento das instituições de ensino superior públicas
+Artigo 40.º-AD
+
+Financiamento das instituições de ensino superior públicas
 
 1 - Os estudantes inscritos nos cursos técnicos superiores profissionais em instituições de ensino superior públicas são considerados no quadro da aplicação das regras de financiamento dessas instituições.
 
@@ -1079,7 +1310,9 @@ a) De fundos da União Europeia, nos termos dos respetivos regulamentos;
 
 b) De apoios financeiros de outras entidades.
 
-###### Artigo 49.º-A — Plataforma eletrónica de registo
+Artigo 49.º-A
+
+Plataforma eletrónica de registo
 
 1 - A atribuição de graus e de diplomas de técnico superior profissional é objeto de registo obrigatório numa plataforma eletrónica.
 
@@ -1093,7 +1326,9 @@ b) De apoios financeiros de outras entidades.
 
 6 - O início do funcionamento da plataforma eletrónica depende de aviso da Direção-Geral do Ensino Superior publicado na 2.ª série do Diário da República.
 
-###### Artigo 51.º-A — Financiamento
+Artigo 51.º-A
+
+Financiamento
 
 1 - A acreditação e ou registo de um ciclo de estudos conferente ou não de grau académico não implica necessariamente o seu financiamento público.
 
@@ -1121,7 +1356,9 @@ Condições específicas
 
 7 - Integram obrigatoriamente o processo individual do estudante todos os documentos relacionados com o ingresso.
 
-###### Artigo 11.º — Condições específicas
+Artigo 11.º
+
+Condições específicas
 
 1 - A realização da candidatura a um ciclo de estudos de licenciatura de uma instituição de ensino politécnico, incluindo de unidades orgânicas de ensino politécnico integradas em universidades, está sujeita às condições fixadas pelo órgão legal e estatutariamente competente da instituição.
 
@@ -1141,7 +1378,9 @@ Condições específicas
 
 9 - Integram obrigatoriamente o processo individual do estudante todos os documentos relacionados com o ingresso.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]:
 
@@ -1219,15 +1458,15 @@ O presente decreto-lei entra em vigor no primeiro dia útil subsequente ao da su
 
 Visto e aprovado em Conselho de Ministros de 28 de julho de 2016. - Augusto Ernesto Santos Silva - Manuel Frederico Tojal de Valsassina Heitor.
 
-**Promulgado em 31 de agosto de 2016.**
+Promulgado em 31 de agosto de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de setembro de 2016.**
+Referendado em 5 de setembro de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 9.º)
 
@@ -2729,7 +2968,9 @@ A publicação das alterações deve mencionar expressamente o número e a data 
 
 As autoridades competentes nos termos do presente diploma participam na cooperação administrativa, no âmbito dos procedimentos relativos a prestadores provenientes de outro Estado-Membro, nos termos do capítulo VI do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho, nomeadamente através do Sistema de Informação do Mercado Interno.
 
-###### Artigo 80.º-B — Título de doutor honoris causa
+###### Artigo 80.º-B
+
+## Título de doutor honoris causa
 
 1 - As universidades e os institutos universitários podem atribuir o título de doutor honoris causa.
 

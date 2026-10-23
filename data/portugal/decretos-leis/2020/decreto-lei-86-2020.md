@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/10/20000/0000200009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/86/2020/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2020-145359680
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bf753afbbc8ab90e4cff1bba7038431cfdc7702433d9582935921d15cdd5692
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf145a40c17dd3d79cef0dcfac7bb3220e6f7ef647ed77f45e3f003ce7822b6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
-- Gestão de Resíduos
 - Cádmio
+- Chumbo
+- Crómio
+- Eliminação de Resíduos
+- Equipamento de Veículo
 - Equipamento Eléctrico
 - Equipamento Eletrónico
-- Saúde Pública
 - Fabrico Industrial
-- Chumbo
-- Proteção do Ambiente
-- Tratamento de Resíduos
-- Equipamento de Veículo
-- Proteção do Consumidor
-- Poluição
+- Gestão de Resíduos
 - Material Médico-Cirúrgico
-- Eliminação de Resíduos
+- Poluição
+- Produto Químico
+- Proteção do Ambiente
+- Proteção do Consumidor
+- Saúde Pública
 - Substância Perigosa
+- Tratamento de Resíduos
 - Veículo em FIM de VIDA
-- Crómio
 relationships:
 - type: cites
   target: celex:32000L0053
@@ -162,6 +162,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/
   label: null
   source: http://data.dre.pt/eli/lei/
+- type: cites
+  target: pt:dre:107495708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114163923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114337042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115487880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117484671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122242530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122627506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136675186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55235780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74788785:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32000L0053
   label: null
@@ -173,13 +217,13 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:25Z'
   warnings: []
   errors: []
 ---
@@ -242,15 +286,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de setembro de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Maria Teresa Gonçalves Ribeiro - João Nuno Marques de Carvalho Mendes - Marta Alexandra Fartura Braga Temido de Almeida Simões - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 29 de setembro de 2020.**
+Promulgado em 29 de setembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de outubro de 2020.**
+Referendado em 6 de outubro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
@@ -258,9 +302,11 @@ Visto e aprovado em Conselho de Ministros de 24 de setembro de 2020. - António 
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/20000/0000200009.pdf))](https://files.diariodarepublica.pt/1s/2020/10/20000/0000200009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/20000/0000200009.pdf)
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 [...]
 
@@ -378,8 +424,10 @@ Caduca a 31 de março de 2027.»
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/20000/0000200009.pdf))](https://files.diariodarepublica.pt/1s/2020/10/20000/0000200009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/20000/0000200009.pdf)
 
 [...]
 
 [...]»
+
+113618558

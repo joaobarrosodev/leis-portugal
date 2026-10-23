@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05300/0002300032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/15/2025/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2025-911089430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c9aaa64bfed5ead6edeaa5f86a1c22fc312467d98ee32665d263af5f855cf2c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b61cd63ffdd0bfe266842cc95c9b237b31de5f46c8756e4ba9e89974cd35c6fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
 - Colocação de Professores
-- Recrutamento de Pessoal
+- Educação Pré-escolar
+- Ensino Básico
 - Ensino Secundário
 - Estabelecimento de Ensino
 - Pessoal Docente
-- Ensino Básico
+- Recrutamento de Pessoal
 - Regime de Apoio
-- Educação Pré-escolar
 - Subsídio de Deslocação
+- Tempo de Serviço
 - ZONA Pedagógica
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:32-A/2023
+  label: Altera, nos termos do artigo 8.º, os artigos 1.º, 9.º, 18.º, 25.º, 26.º, 28.º, 29.º, 30.º, 31.º, 38.º, 39.º, 40.º
+    e 41.º, adita os artigos 27.º-A e 40.º-A, altera sistematicamente a secção ii do capítulo iii que passa a ser composta
+    pelos artigos 26.º, 27.º e 27.º-A, e revoga a alínea b) do n.º 1 e o n.º 3 do artigo 18.º, o artigo 27.º, o n.º 8 do artigo
+    29.º e o anexo i do Decreto-Lei n.º 32-A/2023, de 8 de maio, Diário da República n.º 88/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-05-08'
+- type: amends
+  target: pt:numero:decreto-lei:48-B/2024
+  label: Altera, com efeitos a partir de 1 de setembro de 2024, o artigo 5.º do Decreto-Lei n.º 48-B/2024, de 25 de julho,
+    Diário da República n.º 143/2024, Suplemento, Série I
+  source: null
+  date: '2024-07-25'
+- type: amends
+  target: pt:numero:decreto-lei:57-A/2024
+  label: Altera o n.º 5 e revoga, com efeitos a partir de 14 de setembro de 2024, o n.º 3 do artigo 6.º do Decreto-Lei n.º
+    57-A/2024, de 13 de setembro, Diário da República n.º 178/2024, Suplemento, Série I
+  source: null
+  date: '2024-09-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/22/2014/02/11/p/dre
   label: null
@@ -113,16 +133,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:212770101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864224972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873616106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:887747449:por
+  label: null
+  source: null
 article_structure:
-  article_count: 23
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:45Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +227,9 @@ Os artigos 1.º, 9.º, 18.º, 25.º, 26.º, 28.º, 29.º, 30.º, 31.º, 38.º, 3
 
 2 - O presente decreto-lei prevê, ainda, os procedimentos necessários à operacionalização da mobilidade interna, à gestão anual dos docentes colocados nos estabelecimentos públicos de educação pré-escolar e dos ensinos básico e secundário na dependência do Ministério da Educação, Ciência e Inovação, bem como à contratação de técnicos especializados para formação e à contratação de técnicos especializados para o exercício de outras funções não docentes.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 31.º os candidatos manifestam as suas preferências, por ordem decrescente de prioridade, por códigos de AE/EnA, de QZP e de concelho.
 
@@ -203,7 +257,9 @@ c) Códigos de concelho.
 
 10 - [...]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -221,7 +277,9 @@ d) A obrigatoriedade de apresentação ao concurso de mobilidade interna na situ
 
 4 - Para o efeito do disposto na alínea d) do n.º 1, os docentes manifestam as suas preferências nos termos previstos no artigo 31.º
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
@@ -229,7 +287,9 @@ d) A obrigatoriedade de apresentação ao concurso de mobilidade interna na situ
 
 3 - Para o efeito do disposto no número anterior, os dois estabelecimentos de educação ou de ensino não podem distar, entre si, mais de 15 km, contados por estrada, considerando o percurso mais próximo a utilizar, salvo acordo expresso do docente.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -245,7 +305,9 @@ d) A obrigatoriedade de apresentação ao concurso de mobilidade interna na situ
 
 7 - Aos docentes referidos na alínea b) do n.º 1 que não se apresentem nos AE/EnA é aplicável o disposto nas alíneas a) e c) do n.º 1 e no n.º 2 do artigo 18.º
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]
 
@@ -257,7 +319,9 @@ d) A obrigatoriedade de apresentação ao concurso de mobilidade interna na situ
 
 5 - [...]
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...]
 
@@ -277,7 +341,9 @@ d) A obrigatoriedade de apresentação ao concurso de mobilidade interna na situ
 
 9 - [...]
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]
 
@@ -301,7 +367,9 @@ b) Em AE/EnA diferente daquele em que o docente se encontra provido, inserido na
 
 6 - [...]
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]
 
@@ -315,7 +383,9 @@ a) Para os AE/EnA inseridos na área geográfica do QZP em que o docente se enco
 
 b) Para os AE/EnA inseridos na área geográfica do QZP em que se encontra inserido o AE/EnA de provimento do docente e para os AE/EnA inseridos na área geográfica de, pelo menos, um QZP limítrofe.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...]
 
@@ -341,9 +411,11 @@ b) Para os AE/EnA inseridos na área geográfica do QZP em que se encontra inser
 
 12 - (Anterior n.º 11.)
 
-13 - A ausência de aceitação da colocação ou de apresentação do docente, nos prazos previstos nos n.<sup>os</sup>11 e 12, determina a aplicação do disposto nas alíneas a) e c) do n.º 1 e no n.º 2 do artigo 18.º
+13 - A ausência de aceitação da colocação ou de apresentação do docente, nos prazos previstos nos n.os11 e 12, determina a aplicação do disposto nas alíneas a) e c) do n.º 1 e no n.º 2 do artigo 18.º
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - [...]
 
@@ -357,7 +429,9 @@ b) Técnicos especializados para o exercício de funções não docentes.
 
 4 - [...]
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - [...]
 
@@ -397,7 +471,7 @@ c) [...]
 
 16 - [...]
 
-17 - A ausência de aceitação da colocação ou de apresentação do candidato, nos prazos previstos nos n.<sup>os</sup>15 e 16, determina:
+17 - A ausência de aceitação da colocação ou de apresentação do candidato, nos prazos previstos nos n.os15 e 16, determina:
 
 a) Para os técnicos especializados para formação, a aplicação do disposto nas alíneas a) e c) do n.º 1 e no n.º 2 do artigo 18.º;
 
@@ -405,7 +479,9 @@ b) Para os técnicos especializados para o exercício de funções não docentes
 
 18 - [...]
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...]
 
@@ -431,7 +507,9 @@ b) Cooperar e participar ativamente na elaboração de horários compostos por s
 
 c) Proceder à distribuição de serviço, resultante de necessidades temporárias que surjam no decurso do ano escolar, aos docentes mencionados no n.º 1 do artigo 26.º que permanecem com insuficiência de componente letiva.
 
-###### Artigo 40.º-A — Habilitação própria para a docência no procedimento de contratação de escola
+Artigo 40.º-A
+
+Habilitação própria para a docência no procedimento de contratação de escola
 
 1 - No âmbito da seleção de docentes com habilitação própria, nos termos do n.º 9 do artigo 40.º, podem ser selecionados candidatos que sejam detentores de cursos concluídos no quadro da organização de estudos anterior à aplicação do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março, não reconhecidos como de habilitação própria para a docência ao abrigo do regime atualmente em vigor.
 
@@ -501,11 +579,11 @@ O artigo 6.º do [Decreto-Lei n.º 57-A/2024](https://diariodarepublica.pt/dr/de
 
 2 - Os docentes que se encontram na situação prevista no número anterior são apenas opositores ao concurso de mobilidade interna regulado, em especial, nos artigos 30.º a 33.º do [Decreto-Lei n.º 32-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), de 8 de maio.
 
-3 - Os docentes a que se referem os números anteriores são ordenados no concurso de mobilidade interna na 3.ª prioridade, após a prioridade prevista na alínea c) do n.º 1 do artigo 30.º do [Decreto-Lei n.º 32-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), de 8 de maio, na redação introduzida pelo presente decreto-lei, e manifestam as suas preferências de acordo com o disposto no artigo 9.º do mesmo decreto-lei, sem prejuízo do disposto nos n.<sup>os</sup>4 e 5 do presente artigo.
+3 - Os docentes a que se referem os números anteriores são ordenados no concurso de mobilidade interna na 3.ª prioridade, após a prioridade prevista na alínea c) do n.º 1 do artigo 30.º do [Decreto-Lei n.º 32-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), de 8 de maio, na redação introduzida pelo presente decreto-lei, e manifestam as suas preferências de acordo com o disposto no artigo 9.º do mesmo decreto-lei, sem prejuízo do disposto nos n.os4 e 5 do presente artigo.
 
 4 - Os docentes a que se referem os números anteriores manifestam as suas preferências para os agrupamentos de escolas ou para as escolas não agrupadas (AE/EnA) da área geográfica a que se encontram vinculados e da área geográfica de, pelo menos, dois QZP limítrofes.
 
-5 - Sem prejuízo das preferências manifestadas nos termos dos n.<sup>os</sup>3 e 4, considera-se que, no caso de a candidatura não esgotar a totalidade dos AE/EnA do âmbito geográfico dos QZP a que o docente concorre, este manifesta igual preferência por todos os restantes AE/EnA desses QZP, fazendo-se a colocação por ordem crescente de AE/EnA.
+5 - Sem prejuízo das preferências manifestadas nos termos dos n.os3 e 4, considera-se que, no caso de a candidatura não esgotar a totalidade dos AE/EnA do âmbito geográfico dos QZP a que o docente concorre, este manifesta igual preferência por todos os restantes AE/EnA desses QZP, fazendo-se a colocação por ordem crescente de AE/EnA.
 
 6 - A graduação dos candidatos a que se refere o presente artigo é feita nos termos previstos no n.º 9 do artigo 40.º do [Decreto-Lei n.º 32-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), de 8 de maio.
 
@@ -529,12 +607,14 @@ b) O n.º 3 do artigo 6.º do [Decreto-Lei n.º 57-A/2024](https://diariodarepub
 
 Visto e aprovado em Conselho de Ministros de 7 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Fernando Alexandre.
 
-**Promulgado em 10 de março de 2025.**
+Promulgado em 10 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 13 de março de 2025.**
+Referendado em 13 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118813371

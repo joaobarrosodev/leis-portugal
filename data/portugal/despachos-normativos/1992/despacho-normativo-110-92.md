@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/110/1992/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/110-1992-304691
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T07:54:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a0d0317c58ef4999ef0f69748e8ab3ce5c718f5a5a767761c4d4811fc0b687d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f97f2e062c63be9a4cb1917c231e31740e30eea796ef44a47f280375c85eeec1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:54:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Regional de Agricultura
-- Instituto Nacional de Intervenção e Garantia Agrícola
 - Instituto da Vinha e do Vinho
+- Instituto Nacional de Intervenção e Garantia Agrícola
 - Orientação Agrícola
 - Prémio de Abandono Definitivo da Cultura da Vinha
 - Vinha
@@ -85,16 +85,20 @@ relationships:
   target: celex:31992R0833
   label: null
   source: http://data.europa.eu/eli/reg/1992/833/oj
+- type: corrected_by
+  target: pt:dre:275985:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 104/92, PUBLICADA NO DR.IS-B, 175, 4 SUPL, DE 920731.\0731.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/104-1992-275985
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:54:31Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/187/1998/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1998-485908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:58:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a6653944718fd608f0d2f05381f05f25bcd10c49db425467c727c14e95b4610
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ebc2fffbe476a006798ce0dd16b7c9ba3ff95d998684923a7a0051b1f1ce5fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:58:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autonomia Administrativa
+- Contabilidade Pública
 - Direcção Geral do Tesouro
 - Gestão Orçamental
 - Operações de Tesouraria
-- Contabilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:310379:por
@@ -84,16 +84,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/127-b/1997/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/127-b/1997/12/20/p/dre
+- type: cites
+  target: pt:dre:287979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659563:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:310379:por
+  label: "Revogado o Dec Lei 371/91 de 08-Out, na redacção dada pelo presente diploma pelo DEC LEI.191/99.1999.06.05.MF,DR.IS-A\
+    \ [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/191-1999-310379
+  date: '1999-06-05'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:58:18Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +138,7 @@ Os artigos 3.º e 4.º do [Decreto-Lei n.º 371/91](https://diariodarepublica.pt
 
 2 - Nos casos em que os serviços emissores considerem imprescindível o endosso do cheque, este poderá ser nominativo 'à ordem' e cruzado.
 
-###### Artigo 4.º
+Artigo 4.º
 
 A prova de efectivação dos pagamentos e o arquivo dos suportes documentais, tanto físicos como de base informática, processam-se nos termos aplicáveis aos bancos e de acordo com o regulamento do sistema de compensação interbancária em vigor.»
 
@@ -134,12 +148,12 @@ O presente decreto-lei produz efeitos a partir de 1 de Maio de 1998.
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 18 de Junho de 1998.**
+Promulgado em 18 de Junho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Junho de 1998.**
+Referendado em 24 de Junho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

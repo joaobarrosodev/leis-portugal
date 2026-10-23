@@ -47,40 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/35-1988-285336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T04:03:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea3dbb06d5ed11f7029235e999d3ef535d3be5cd8f24de0b38cffd69869638ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f33cd2e33f162e4ec86527827aad402ed403167d2bc6cb939185217b2912359
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:03:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embaixador
+- Espanha
+- Madrid
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:573947:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:573947:por
+  label: "Exonerado pelo DEC.28/90.11.07.1990.PR, DR.IS [158]SUPL de 11.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/28-1990-573947
+  date: '1990-07-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:03:05Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +98,16 @@ validation:
 
 de 23 de Abril
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o embaixador José César Paulouro das Neves para o cargo de embaixador de Portugal em Madrid.
 
-**Assinado em 24 de Março de 1988.**
+Assinado em 24 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES. - O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro dos Negócios Estrangeiros, João de Deus Rogado Salvador Pinheiro.**
+O Presidente da República, MÁRIO SOARES. - O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro dos Negócios Estrangeiros, João de Deus Rogado Salvador Pinheiro.
 
-**Referendado em 12 de Abril de 1988.**
+Referendado em 12 de Abril de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

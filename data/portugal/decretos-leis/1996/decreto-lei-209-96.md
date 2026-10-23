@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/11/265a00/41504151.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/209/1996/11/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1996-168641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:45:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99cdf21004aeb086f381a0d9f8395e19c8a8f5a910a33bab60210775c8162ce7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e7fb1c4efce9b3e6074f3fcd0bf90a30f9e656ce42ad2fe7d409569ea641d4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:45:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscalização
-- Remuneração Acessória
-- Inspecção Superior de Bombeiros
 - Bombeiro
+- Fiscalização
+- Inspecção Superior de Bombeiros
 - Orgânica
 - Pessoal de Inspecção
+- Remuneração Acessória
 - Serviço Nacional de Bombeiros
 - Serviço Regional
 relationships:
@@ -86,16 +86,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/277/1994/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/277/1994/11/03/p/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621286:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:248862:por
+  label: "Rectificado pela Decl-Rect.16-A/96.1996.11.29.PCM, DR.IS-A [278]Supl de 1996.11.30\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-a-1996-248862
+  date: '1996-11-29'
+- type: repealed_by
+  target: pt:dre:616189:por
+  label: "Revogado o Dec Lei 418/80 de 29-Set DR.IS [225], com as alterações introduzidas pelo presente diploma,pelo DEC LEI.293/2000.2000.11.17.MAI\
+    \ DR.IS-A [266]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/293-2000-616189
+  date: '2000-11-17'
 article_structure:
-  article_count: 8
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:45:37Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +161,9 @@ e) A Inspecção Regional de Bombeiros do Algarve.
 
 2 - ...
 
-###### Artigo 24.º — Inspecção Superior de Bombeiros
+Artigo 24.º
+
+Inspecção Superior de Bombeiros
 
 1 - A Inspecção Superior de Bombeiros é o serviço incumbido da prossecução das seguintes tarefas:
 
@@ -158,7 +187,9 @@ h) Difundir directivas de planeamento e de intervenção.
 
 3 - A Inspecção Superior de Bombeiros integra, sob a coordenação do inspector superior de bombeiros, um centro de coordenação operacional nacional e uma divisão de apoio técnico e de investigação de acidentes, dirigida por um chefe de divisão.
 
-###### Artigo 25.º — Competência do inspector superior de bombeiros
+Artigo 25.º
+
+Competência do inspector superior de bombeiros
 
 Ao inspector superior de bombeiros compete:
 
@@ -180,11 +211,15 @@ h) Submeter à aprovação da direcção o plano anual de fiscalização das med
 
 i) Determinar a realização de inquéritos e peritagens e a investigação das circunstâncias em que ocorreram os incidentes.
 
-###### Artigo 28.º — Inspectores regionais de bombeiros
+Artigo 28.º
+
+Inspectores regionais de bombeiros
 
 Cada inspecção regional de bombeiros é dirigida por um inspector regional de bombeiros, que depende hierarquicamente do inspector superior de bombeiros, e é coadjuvado por inspectores regionais-adjuntos, até ao máximo de seis.
 
-###### Artigo 41.º — Pessoal dirigente
+Artigo 41.º
+
+Pessoal dirigente
 
 1 - Os cargos de pessoal dirigente devem ser providos por licenciados, oficiais das Forças Armadas na situação de reserva ou individualidades de reconhecido mérito no exercício de funções de direcção ou de comando de organizações de bombeiros.
 
@@ -194,7 +229,9 @@ Cada inspecção regional de bombeiros é dirigida por um inspector regional de 
 
 4 - ...
 
-###### Artigo 42.º — Direcção
+Artigo 42.º
+
+Direcção
 
 A direcção é constituída por um presidente e dois vogais, equiparados, para todos os efeitos legais, respectivamente, a director-geral e a subdirector-geral.»
 
@@ -214,12 +251,12 @@ O disposto no artigo anterior é aplicável a partir de 1 de Janeiro de 1997.
 
 Visto e aprovado em Conselho de Ministros de 17 de Outubro de 1996. - António Manuel de Carvalho Ferreira Vitorino - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 6 de Novembro de 1996.**
+Promulgado em 6 de Novembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Novembro de 1996.**
+Referendado em 11 de Novembro de 1996.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.

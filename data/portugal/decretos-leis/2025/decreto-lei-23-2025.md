@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05500/0003900050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/23/2025/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2025-911488700
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6259b6df1c62a2ef469339c9d46d6d5d2d9c54f72d2b1f83db48287b972252aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d2f6277d1d716599a8f2a3f3ccd3e8cb88108db8c3401088caf8496af3338ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
-- Infarmed
-- Saúde Pública
-- Importação
+- Comércio
 - Embalagem
+- Importação
+- Infarmed
 - Informação do Consumidor
+- Produto Químico
 - Proteção do Consumidor
 - Regulamento CE
-- Comércio
+- Saúde Pública
 relationships:
 - type: cites
   target: celex:31976L0768
@@ -137,16 +137,69 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/51/2014/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/51/2014/08/25/p/dre
+- type: cites
+  target: pt:dre:179275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56346571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:900840738:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:189/2008
+  label: Revoga o Decreto-Lei n.º 189/2008, de 24 de setembro, Diário da República n.º 185/2008, Série I
+  source: null
+  date: '2008-09-24'
 article_structure:
   article_count: 25
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:55Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +212,7 @@ A legislação nacional relativa aos produtos cosméticos, que tem subjacente a 
 
 A harmonização com as diretivas europeias nesta matéria, designadamente com a Diretiva do Conselho, de 27 de julho de 1976, relativa à aproximação das legislações dos Estados-Membros respeitantes aos produtos cosméticos, iniciou-se com o [Decreto-Lei n.º 128/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1986-226855), de 3 de junho, revogado pelo [Decreto-Lei n.º 296/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1998-245368), de 25 de setembro.
 
-Posteriormente, com a sétima alteração substantiva da [Diretiva 76/768/CEE](https://data.europa.eu/eli/dir/1976/768/oj?locale=pt), do Conselho, de 27 de julho de 1976, levada a cabo pela [Diretiva 2003/15/CE](https://data.europa.eu/eli/dir/2003/15/oj?locale=pt), do Parlamento Europeu e do Conselho, de 27 de fevereiro de 2003, o regime aplicável aos produtos cosméticos foi consolidado no [Decreto-Lei n.º 142/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2005-246139), de 24 de agosto, diploma este que, face às subsequentes alterações da [Diretiva 76/768/CEE](https://data.europa.eu/eli/dir/1976/768/oj?locale=pt), do Conselho, de 27 de julho de 1976, e consequente adoção de diplomas avulsos, foi, por sua vez, revogado pelo [Decreto-Lei n.º 189/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-2008-452215), de 24 de setembro, alterado pelos Decretos-Leis n.<sup>os</sup>[115/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2009-608693), de 18 de maio, [113/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2010-308098), de 21 de outubro, [63/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2012-553470), de 15 de março, e [245/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2012-191992), de 9 de novembro, e pela [Lei n.º 51/2014](https://diariodarepublica.pt/dr/detalhe/lei/51-2014-56346571), de 25 de agosto, o qual, uma vez mais, consolidou num só diploma o regime aplicável aos produtos cosméticos.
+Posteriormente, com a sétima alteração substantiva da [Diretiva 76/768/CEE](https://data.europa.eu/eli/dir/1976/768/oj?locale=pt), do Conselho, de 27 de julho de 1976, levada a cabo pela [Diretiva 2003/15/CE](https://data.europa.eu/eli/dir/2003/15/oj?locale=pt), do Parlamento Europeu e do Conselho, de 27 de fevereiro de 2003, o regime aplicável aos produtos cosméticos foi consolidado no [Decreto-Lei n.º 142/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2005-246139), de 24 de agosto, diploma este que, face às subsequentes alterações da [Diretiva 76/768/CEE](https://data.europa.eu/eli/dir/1976/768/oj?locale=pt), do Conselho, de 27 de julho de 1976, e consequente adoção de diplomas avulsos, foi, por sua vez, revogado pelo [Decreto-Lei n.º 189/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-2008-452215), de 24 de setembro, alterado pelos Decretos-Leis n.os[115/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2009-608693), de 18 de maio, [113/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2010-308098), de 21 de outubro, [63/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2012-553470), de 15 de março, e [245/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2012-191992), de 9 de novembro, e pela [Lei n.º 51/2014](https://diariodarepublica.pt/dr/detalhe/lei/51-2014-56346571), de 25 de agosto, o qual, uma vez mais, consolidou num só diploma o regime aplicável aos produtos cosméticos.
 
 O [Regulamento (CE) n.º 1223/2009](https://data.europa.eu/eli/reg/2009/1223/oj?locale=pt), do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, que estabelece as normas que os produtos cosméticos disponíveis no mercado devem cumprir a fim de garantir o funcionamento do mercado interno e um elevado nível de proteção da saúde humana [[Regulamento (CE) n.º 1223/2009)](https://data.europa.eu/eli/reg/2009/1223/oj?locale=pt), revogou a [Diretiva 76/768/CEE](https://data.europa.eu/eli/dir/1976/768/oj?locale=pt), do Conselho, de 27 de julho de 1976, referente à aproximação das legislações dos Estados-Membros respeitantes aos produtos cosméticos, com efeitos a partir de 11 de julho de 2013.
 
@@ -323,9 +376,9 @@ d) Para as atividades subcontratadas, dispor de contratos escritos onde se descr
 
 ###### Artigo 10.º — Idioma das informações de rotulagem e do ficheiro de informações sobre o produto
 
-1 - As informações previstas nas alíneas b), c), d) e f) do n.º 1 e nos n.<sup>os</sup>2 e 3 do artigo 19.º do [Regulamento (CE) n.º 1223/2009](https://data.europa.eu/eli/reg/2009/1223/oj?locale=pt) devem ser redigidas em língua portuguesa, independentemente de constarem de recipiente, embalagem, folheto informativo, rótulo, cinta, dístico ou cartão incluídos ou que acompanhem o produto.
+1 - As informações previstas nas alíneas b), c), d) e f) do n.º 1 e nos n.os2 e 3 do artigo 19.º do [Regulamento (CE) n.º 1223/2009](https://data.europa.eu/eli/reg/2009/1223/oj?locale=pt) devem ser redigidas em língua portuguesa, independentemente de constarem de recipiente, embalagem, folheto informativo, rótulo, cinta, dístico ou cartão incluídos ou que acompanhem o produto.
 
-2 - Em caso de tradução da informação, a mesma deverá respeitar a rotulagem original e deve ser aposta através de etiquetas inscritas em carateres indeléveis, legíveis, facilmente visíveis que aderem ao acondicionamento dos produtos cosméticos, com exceção das situações previstas nos n.<sup>os</sup>2 e 3 do artigo 19.º do [Regulamento (CE) n.º 1223/2009](https://data.europa.eu/eli/reg/2009/1223/oj?locale=pt).
+2 - Em caso de tradução da informação, a mesma deverá respeitar a rotulagem original e deve ser aposta através de etiquetas inscritas em carateres indeléveis, legíveis, facilmente visíveis que aderem ao acondicionamento dos produtos cosméticos, com exceção das situações previstas nos n.os2 e 3 do artigo 19.º do [Regulamento (CE) n.º 1223/2009](https://data.europa.eu/eli/reg/2009/1223/oj?locale=pt).
 
 3 - As informações constantes do ficheiro de informações sobre o produto previsto no artigo 11.º do [Regulamento (CE) n.º 1223/2009](https://data.europa.eu/eli/reg/2009/1223/oj?locale=pt) devem ser redigidas em língua portuguesa, sem prejuízo do disposto no número seguinte.
 
@@ -407,7 +460,7 @@ b) A ausência do registo previsto no artigo 6.º ou o registo com informações
 
 c) A falta ou inexatidão da comunicação das atualizações previstas no n.º 3 do artigo 6.º;
 
-d) O desrespeito das obrigações e requisitos especiais previstos nos n.<sup>os</sup>1 e 3 do artigo 7.º, bem como das normas adotadas ao abrigo do n.º 2 do mesmo artigo 7.º.;
+d) O desrespeito das obrigações e requisitos especiais previstos nos n.os1 e 3 do artigo 7.º, bem como das normas adotadas ao abrigo do n.º 2 do mesmo artigo 7.º.;
 
 e) A violação do disposto no artigo 8.º;
 
@@ -421,11 +474,11 @@ i) Qualquer ato que impeça ou dificulte o exercício, pelos agentes ou funcion�
 
 j) O desrespeito pelas medidas impostas ao abrigo do n.º 2 do artigo 14.º;
 
-k) O incumprimento do disposto no artigo 3.º e nos n.<sup>os</sup>1 e 3 do artigo 16.º do [Regulamento (CE) n.º 1223/2009](https://data.europa.eu/eli/reg/2009/1223/oj?locale=pt);
+k) O incumprimento do disposto no artigo 3.º e nos n.os1 e 3 do artigo 16.º do [Regulamento (CE) n.º 1223/2009](https://data.europa.eu/eli/reg/2009/1223/oj?locale=pt);
 
 l) A colocação no mercado de produtos cosméticos para os quais não tenha sido designada ou mandatada uma pessoa singular ou coletiva como responsável, nos termos previstos no artigo 4.º do [Regulamento (CE) n.º 1223/2009](https://data.europa.eu/eli/reg/2009/1223/oj?locale=pt);
 
-m) O incumprimento das obrigações previstas nos n.<sup>os</sup>1, 2 e 3 do artigo 5.º do [Regulamento (CE) n.º 1223/2009](https://data.europa.eu/eli/reg/2009/1223/oj?locale=pt);
+m) O incumprimento das obrigações previstas nos n.os1, 2 e 3 do artigo 5.º do [Regulamento (CE) n.º 1223/2009](https://data.europa.eu/eli/reg/2009/1223/oj?locale=pt);
 
 n) A violação pelos distribuidores das obrigações previstas no artigo 6.º do [Regulamento (CE) n.º 1223/2009](https://data.europa.eu/eli/reg/2009/1223/oj?locale=pt) e das medidas determinadas pelo INFARMED, I. P., nos termos do artigo 26.º do Regulamento;
 
@@ -445,7 +498,7 @@ u) O incumprimento das disposições relativas às restrições aplicáveis a de
 
 v) O incumprimento dos requisitos relativos aos ensaios em animais a que se refere o artigo 18.º do [Regulamento (CE) n.º 1223/2009](https://data.europa.eu/eli/reg/2009/1223/oj?locale=pt);
 
-w) O incumprimento dos requisitos relativos à rotulagem a que se referem os n.<sup>os</sup>1, 2, 3 e 6 do artigo 19.º do [Regulamento (CE) n.º 1223/2009](https://data.europa.eu/eli/reg/2009/1223/oj?locale=pt);
+w) O incumprimento dos requisitos relativos à rotulagem a que se referem os n.os1, 2, 3 e 6 do artigo 19.º do [Regulamento (CE) n.º 1223/2009](https://data.europa.eu/eli/reg/2009/1223/oj?locale=pt);
 
 x) O incumprimento dos requisitos relativos às alegações sobre o produto a que se refere o artigo 20.º do [Regulamento (CE) n.º 1223/2009](https://data.europa.eu/eli/reg/2009/1223/oj?locale=pt);
 
@@ -461,7 +514,7 @@ cc) O incumprimento das medidas decretadas pelo INFARMED, I. P., nos termos dos 
 
 2 - Constituem contraordenações graves:
 
-a) O desrespeito pelas obrigações, condições e medidas aplicadas ao abrigo dos n.<sup>os</sup>2 e 3 do artigo 14.º;
+a) O desrespeito pelas obrigações, condições e medidas aplicadas ao abrigo dos n.os2 e 3 do artigo 14.º;
 
 b) A violação das regras aprovadas por regulamento do INFARMED, I. P., a que se refere o n.º 4 do artigo 11.º
 
@@ -513,22 +566,24 @@ Os atos e procedimentos necessários à execução do presente decreto-lei nas r
 
 ###### Artigo 24.º — Norma transitória
 
-1 - O registo de qualquer uma das atividades previstas no n.º 1 do artigo 6.º, exercidas à data de entrada em vigor do presente decreto-lei, bem como a implementação do disposto nos n.<sup>os</sup>2 e 5 do mencionado artigo, devem ser realizados no prazo máximo de 180 dias após a entrada em funcionamento da plataforma eletrónica a disponibilizar no sítio do INFARMED, I. P.
+1 - O registo de qualquer uma das atividades previstas no n.º 1 do artigo 6.º, exercidas à data de entrada em vigor do presente decreto-lei, bem como a implementação do disposto nos n.os2 e 5 do mencionado artigo, devem ser realizados no prazo máximo de 180 dias após a entrada em funcionamento da plataforma eletrónica a disponibilizar no sítio do INFARMED, I. P.
 
 2 - No prazo de 180 dias após a entrada em vigor do presente decreto-lei, deve ainda ser estabelecido um mecanismo de interconexão entre o INFARMED, I. P., e as autoridades aduaneiras nacionais que permita a disponibilização da declaração emitida ao abrigo da notificação prevista nos artigos 11.º a 13.º e 19.º do [Regulamento (CE) n.º 1223/2009](https://data.europa.eu/eli/reg/2009/1223/oj?locale=pt).
 
 ###### Artigo 25.º — Norma revogatória
 
-É revogado o [Decreto-Lei n.º 189/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-2008-452215), de 24 de setembro, alterado pelos Decretos-Leis n.<sup>os</sup>[115/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2009-608693), de 18 de maio, [113/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2010-308098), de 21 de outubro, e [63/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2012-553470), de 15 de março, [245/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2012-191992), de 9 de novembro, e pela [Lei n.º 51/2014](https://diariodarepublica.pt/dr/detalhe/lei/51-2014-56346571), de 25 de agosto.
+É revogado o [Decreto-Lei n.º 189/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-2008-452215), de 24 de setembro, alterado pelos Decretos-Leis n.os[115/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2009-608693), de 18 de maio, [113/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2010-308098), de 21 de outubro, e [63/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2012-553470), de 15 de março, [245/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2012-191992), de 9 de novembro, e pela [Lei n.º 51/2014](https://diariodarepublica.pt/dr/detalhe/lei/51-2014-56346571), de 25 de agosto.
 
 Visto e aprovado em Conselho de Ministros de 13 de fevereiro de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - Rita Alarcão Júdice - Ana Paula Martins - Pedro Reis.
 
-**Promulgado em 10 de março de 2025.**
+Promulgado em 10 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de março de 2025.**
+Referendado em 12 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118809784

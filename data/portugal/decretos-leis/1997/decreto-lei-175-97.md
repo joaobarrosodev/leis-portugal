@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/167a00/36663667.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/175/1997/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1997-149645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37b4849ccabb11c433da73a14bdbd62cc133a15a1d3e3c274db52c8726232613
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d3254586f64a4a3c91039421f81dfd2248dedaa6225f61951eaadc56acb98ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Casamento
 - Estatuto
 - Estatuto dos Militares das Forças Armadas
 - Férias
 - Forças Armadas
-- Regime Jurídico
 - Militar
-- Casamento
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:393000:por
@@ -85,16 +85,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/178/1995/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/178/1995/07/26/p/dre
+- type: cites
+  target: pt:dre:475476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:393000:por
+  label: "Revogado pelo DEC LEI.236/99.1999.06.25.MDN,DR.IS-A [146]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/236-1999-393000
+  date: '1999-06-25'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:19Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +174,9 @@ g) A sua concessão deve obedecer a um planeamento capaz de assegurar o regular 
 
 5 - No caso de acumulação de férias por motivo de serviço ou doença, o militar não pode ser impedido de gozar os dias de férias respeitantes ao ano anterior mais metade dos dias de férias a que tiver direito no ano a que as mesmas se reportem.
 
-###### Artigo 105.º — Licença por casamento
+Artigo 105.º
+
+Licença por casamento
 
 A licença por casamento é concedida por 11 dias úteis seguidos, tendo em atenção o seguinte:
 
@@ -167,12 +190,12 @@ O presente diploma produz efeitos a partir de 1 de Janeiro de 1997.
 
 Visto e aprovado em Conselho de Ministros de 28 de Maio de 1997. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - Maria Manuela de Brito Arcanjo Marques da Costa - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 3 de Julho de 1997.**
+Promulgado em 3 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Julho de 1997.**
+Referendado em 10 de Julho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

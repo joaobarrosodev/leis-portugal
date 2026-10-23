@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/700-1971-632184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bd8b5b5af1fca02942c5618ce3832a68343a1dd5a8e546aa18abb0aee4f2cda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3aace1d4d66038978d6ab9c8ae0f342eefe957a49581f9f93dfb6d55aab5f9e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:228057:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:13Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +90,7 @@ de 14 de Dezembro
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º 1 do artigo 24.º do [Decreto-Lei n.º 69/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1970-228057), de 27 de Fevereiro, e após a homologação referida neste preceito, publicar o 1.º orçamento suplementar de receita o despesa do Gabinete do Plano do Zambeze para o ano de 1971, que faz parte integrante desta portaria e baixa assinado pelo director-geral do referido Gabinete.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada no Boletim Oficial de Moçambique. - J. da Silva Cunha.
 
@@ -96,11 +100,11 @@ Orçamento suplementar para o ano económico de 1971
 
 ### CAPÍTULO ÚNICO
 
-###### Artigo 4.º «Reembolsos e reposições»:
+Artigo 4.º «Reembolsos e reposições»:
 
 1) Reembolsos de vencimentos ... 250000$00
 
-###### Artigo 7.º «Diferença entre a previsão e o saldo verificado na conta de gerência de 1970» ... 25070965$00
+Artigo 7.º «Diferença entre a previsão e o saldo verificado na conta de gerência de 1970» ... 25070965$00
 
 Total ... 25320965$00
 
@@ -112,17 +116,17 @@ Nota. - Diplomas que regulam ou autorizam a cobrança: artigos 280.º, 282.º e 
 
 Despesas com o pessoal:
 
-###### Artigo 1.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1.º «Remunerações certas ao pessoal em exercício»:
 
 4) Pessoal assalariado ... 900000$00
 
-###### Artigo 3.º «Remunerações acidentais»:
+Artigo 3.º «Remunerações acidentais»:
 
 1) Horas extraordinárias ... 305000$00
 
 4) Gratificações e senhas de presença - Conselhos consultivos ou deliberativos ... 35000$00
 
-###### Artigo 4.º «Outras despesas com o pessoal»:
+Artigo 4.º «Outras despesas com o pessoal»:
 
 2) Alimentação ... 220000$00
 
@@ -132,7 +136,7 @@ Despesas com o pessoal:
 
 Despesas com material:
 
-###### Artigo 5.º «Construções e obras novas»:
+Artigo 5.º «Construções e obras novas»:
 
 1) Edifícios ... 2745000$00
 
@@ -140,7 +144,7 @@ Despesas com material:
 
 4) Outras construções ou obras novas ... 5300000$00
 
-###### Artigo 6.º «Aquisições de utilização permanente»:
+Artigo 6.º «Aquisições de utilização permanente»:
 
 2) Aquisição de semoventes:
 
@@ -160,7 +164,7 @@ h) Outras não classificadas ... 1047000$00
 
 4) Aquisição de material de defesa e segurança pública ... 1500000$00
 
-###### Artigo 7.º «Despesas de conservação e aproveitamento»:
+Artigo 7.º «Despesas de conservação e aproveitamento»:
 
 2) De semoventes ... 1101000$00
 
@@ -168,7 +172,7 @@ h) Outras não classificadas ... 1047000$00
 
 4) De material de defesa e de segurança pública ... 40000$00
 
-###### Artigo 8.º «Material de consumo corrente»:
+Artigo 8.º «Material de consumo corrente»:
 
 1) Artigos de expediente, impressos e livros para escrituração ... 141000$00
 
@@ -182,19 +186,19 @@ h) Outras não classificadas ... 1047000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 9.º «Despesas de higiene, saúde e conforto»:
+Artigo 9.º «Despesas de higiene, saúde e conforto»:
 
 1) Aquisição, conserto e lavagem de roupas ... 380000$00
 
 4) Medicamentos ... 47500$00
 
-###### Artigo 10.º «Despesas de comunicações»:
+Artigo 10.º «Despesas de comunicações»:
 
 3) Despesas com telefones ... 20000$00
 
 4) Transporte de material, fretes e seguros ... 30000$00
 
-###### Artigo 14.º «Encargos administrativos»:
+Artigo 14.º «Encargos administrativos»:
 
 1) Indemnizações por prejuízos causados a terceiros ... 170000$00
 
@@ -202,7 +206,7 @@ Pagamento de serviços e diversos encargos:
 
 6) Outros encargos administrativos ... 10000$00
 
-###### Artigo 20.º «Encargos com contratos e empreitadas» ... 2500000$00
+Artigo 20.º «Encargos com contratos e empreitadas» ... 2500000$00
 
 Total da despesa ... 25108500$00
 

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 81/1996, 1º Suplemento, Série I-A de 1996-04-04
   number: '81'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 712-(5) a 712-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/04/081a01/00050015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/28-b/1996/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:46:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4930f6801ab60a6b39aa1771d61e1fb78890033b3ddd2a48554dad3433ed1dac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a23d551843a5b7068f1812c4f58c91850030dfbc64ab523ef5b0cd3a8be08ee2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:46:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,32 @@ subjects:
 - Bacharelato
 - Comissão de Avaliação e Consulta do Regime de Acesso ao Ensino Superior
 - Comissão Nacional de Acesso ao Ensino Superior
-- Ensino Superior Militar
 - Criação de Serviços
 - Definição de Competências
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
-- Licenciatura
-- Estabelecimento de Ensino
 - Ensino Superior
+- Ensino Superior Militar
+- Estabelecimento de Ensino
+- Licenciatura
 relationships:
 - type: amended_by
   target: pt:dre:199778:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:526782:por
+  label: "Alterados os artºs 4º, 12º, 27º e 28º, o nº 2 do artº 33º e a al b) do artº 47º e revogados os artºs 7º, 8º e 9º\
+    \ pelo Dec Lei.75/97.1997.04.03.ME, DR.IS-A [78]\08]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-1997-526782
+  date: '1997-04-03'
+- type: amended_by
+  target: pt:dre:173481:por
+  label: "Cessada a vigência a partir do final do processo de Acesso e Ingresso no Ensino Superior no ano lectivo de 1998-1999,\
+    \ com excepção dos arts. 52º a 59º, pelo DEC LEI.296-A/98.1998.09.25.ME, DR.IS-A [222]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-a-1998-173481
+  date: '1998-09-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/125/1995/05/31/p/dre
   label: null
@@ -106,16 +118,65 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/63/1991/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/63/1991/08/13/p/dre
+- type: cites
+  target: pt:dre:166202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676047:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632927:por
+  label: "Revogados os arts. 52º a 59º pelo DEC LEI.542/99.1999.12.13.ME,DR.IS-A [288]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/542-1999-632927
+  date: '1999-12-13'
 article_structure:
   article_count: 74
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:46:58Z'
   warnings: []
   errors: []
 ---
@@ -832,12 +893,12 @@ Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Março de 1996. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - João Cardona Gomes Cravinho - Daniel Bessa Fernandes Coelho - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Manuel Maria Ferreira Carrilho.
 
-**Promulgado em 29 de Março de 1996.**
+Promulgado em 29 de Março de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Abril de 1996.**
+Referendado em 4 de Abril de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

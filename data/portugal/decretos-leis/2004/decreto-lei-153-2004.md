@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/153/2004/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2004-517467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 868ace9fcb8031d8528be559c3ba7cc8717d74adcd5f10da9a5414562aefc84b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55d6ed7f42b1c8e5b78d0478659a787ccca1404fcc07495b7bcff7a52425c30e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Solos
-- Energia Elétrica
 - Contrato
 - Contrato de Concessão
-- EDP
-- Energia Hidroelétrica
-- Transmissão da Propriedade
 - Direcção Geral de Geologia e Energia
-- Ministério das Cidades Ordenamento do Território e Ambiente
+- Domínio Público Hídrico
+- EDP
+- Energia Elétrica
+- Energia Hidroelétrica
 - Entidade Reguladora dos Serviços Energéticos
+- Ministério das Cidades Ordenamento do Território e Ambiente
 - Preço
 - Produção de Energia Elétrica
 - Produtor
 - Rede Elétrica Nacional
-- Domínio Público Hídrico
 - Rede Nacional de Transporte de Energia Elétrica
 - Registo Predial
 - Remuneração
+- Transmissão da Propriedade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/131/1994/05/19/p/dre
@@ -118,16 +118,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/7/1991/01/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/7/1991/01/08/p/dre
+- type: cites
+  target: pt:dre:262841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693786:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:00Z'
   warnings: []
   errors: []
 ---
@@ -210,12 +246,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 15 de Junho de 2004.**
+Promulgado em 15 de Junho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Junho de 2004.**
+Referendado em 21 de Junho de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

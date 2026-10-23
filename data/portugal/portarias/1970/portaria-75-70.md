@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/75-1970-227646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a48df6e1df7042908c9ee34afb3a3569b710ce030fd884d4e6e91f6631753563
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6e6e491a439fd2b13c13da1cd1ece106444cd18d278dcda3e955d2048cb6704
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,22 @@ relationships:
   target: pt:dre:146033:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146033:por
+  label: "Alterado o art. 1.º do Regulamento do Prémio Varela Cid pela PORT.666/70.28.12.1970.MEN, DG.IS [298] de 28.12.1970\0\
+    0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/666-1970-146033
+  date: '1970-12-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:19Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +98,11 @@ Ministério da Educação Nacional, 29 de Janeiro de 1970. - Pelo Ministro da Ed
 
 Regulamento do Prémio Varela Cid
 
-###### Artigo 1.º É instituído no Conservatório Nacional o Prémio Varela Cid, constituído pelo rendimento anual da importância de 27560$00, que vai ser convertida em certificado de renda perpétua assentado ao mesmo Conservatório.
+Artigo 1.º É instituído no Conservatório Nacional o Prémio Varela Cid, constituído pelo rendimento anual da importância de 27560$00, que vai ser convertida em certificado de renda perpétua assentado ao mesmo Conservatório.
 
-###### Art. 2.º Ao Prémio podem concorrer, mediante requerimento dirigido ao director do Conservatório Nacional, todos os alunos que no ano lectivo imediatamente anterior tenham obtido a classificação mínima de 17 valores no final do curso superior de Piano ministrado naquele Conservatório ou em qualquer das escolas de música do País cujos exames tenham valor equivalente aos daquele Conservatório.
+Art. 2.º Ao Prémio podem concorrer, mediante requerimento dirigido ao director do Conservatório Nacional, todos os alunos que no ano lectivo imediatamente anterior tenham obtido a classificação mínima de 17 valores no final do curso superior de Piano ministrado naquele Conservatório ou em qualquer das escolas de música do País cujos exames tenham valor equivalente aos daquele Conservatório.
 
-###### Art. 3.º - 1. O Prémio será atribuído mediante concurso de provas que consistirão na execução pública das seguintes obras para piano:
+Art. 3.º - 1. O Prémio será atribuído mediante concurso de provas que consistirão na execução pública das seguintes obras para piano:
 
 a) Uma obra clássica escolhida pelo conselho escolar do Conservatório Nacional sobre proposta dos professores da disciplina de Piano;
 
@@ -110,12 +116,12 @@ d) Uma obra de autor português.
 
 3. A circunstância de haver apenas um concorrente não dispensa a prestação das provas.
 
-###### Art. 4.º Quando não houver candidatos ou, havendo-os, nenhum merecer o Prémio, a importância deste será adicionada à do Prémio a atribuir no ano imediato.
+Art. 4.º Quando não houver candidatos ou, havendo-os, nenhum merecer o Prémio, a importância deste será adicionada à do Prémio a atribuir no ano imediato.
 
-###### Art. 5.º A direcção do Conservatório Nacional deve fixar a data e o local das provas enunciá-los com a antecedência mínima de noventa dias, indicando a obra a que se refere a alínea a) do artigo 3.º
+Art. 5.º A direcção do Conservatório Nacional deve fixar a data e o local das provas enunciá-los com a antecedência mínima de noventa dias, indicando a obra a que se refere a alínea a) do artigo 3.º
 
-###### Art. 6.º O júri será constituído pelo director do Conservatório, que servirá de presidente, e por quatro a seis vogais escolhidos pelo Ministro da Educação Nacional de entre professores desse estabelecimento e outras pessoas de reconhecida competência.
+Art. 6.º O júri será constituído pelo director do Conservatório, que servirá de presidente, e por quatro a seis vogais escolhidos pelo Ministro da Educação Nacional de entre professores desse estabelecimento e outras pessoas de reconhecida competência.
 
-###### Art. 7.º O candidato a quem for concedido o Prémio receberá simultâneamente um diploma impresso cujo modelo será aprovado pelo director-geral do Ensino Superior e das Belas-Artes.
+Art. 7.º O candidato a quem for concedido o Prémio receberá simultâneamente um diploma impresso cujo modelo será aprovado pelo director-geral do Ensino Superior e das Belas-Artes.
 
 Direcção-Geral do Ensino Superior e das Belas-Artes, 29 de Janeiro de 1970. - O Director-Geral, João Alexandre Ferreira de Almeida.

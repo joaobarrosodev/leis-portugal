@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 64/1995, 1º Suplemento, Série I-A de 1995-03-16
   number: '64'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1458-(2) a 1458-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/03/064a01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/43-b/1995/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/43-b-1995-409162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T04:19:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a79cee73678842420c45ffffc1be8977b1ed17f80552dc9ce368981e0bb8a093
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47aad15037d4b6d9cc155a93553fc6ced21fcfe848f8d8a648c36a295f938628
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:19:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Governo XII
+- Ministro da Defesa Nacional
 - Ministro do MAR
 - Nomeação
-- Ministro da Defesa Nacional
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:19:52Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +89,16 @@ validation:
 
 de 16 de Março
 
-**O Presidente da República decreta, nos termos do artigo 136.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 136.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro, o Dr. António Jorge de Figueiredo Lopes para o cargo de Ministro da Defesa Nacional e o engenheiro António Baptista Duarte Silva para o cargo de Ministro do Mar.
 
-**Assinado em 16 de Março de 1995.**
+Assinado em 16 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Março de 1995.**
+Referendado em 16 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

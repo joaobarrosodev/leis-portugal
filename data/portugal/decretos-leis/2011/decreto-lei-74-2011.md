@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/06/11700/0330303311.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/74/2011/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2011-670020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7addbdd1954bc70dc904844e499cf1ad92362b15f554f235f6f2eb1a29dcd1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c48a1e3432dc95f051db40a14bfbe207dafb374e9721c628aa69a93079016e0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,7 +67,6 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administrador Judiciário
-- Reestruturação de Serviços
 - Braga
 - Círculo Judicial
 - Conselho Superior da Magistratura
@@ -75,32 +74,33 @@ subjects:
 - Covilhã
 - Criação de Serviços
 - Definição de Competências
+- Direcção Geral da Administração da Justiça
 - Extinção de Serviços
-- Lisboa
-- Pessoal de Justiça
 - Fundão
-- Tribunal do Trabalho
 - Integração de Trabalhadores
 - Juiz
-- Tribunal Criminal
-- Tribunal de Comarca
+- Lisboa
 - Magistrado do Ministério Público
 - Magistrado Judicial
-- Processo Judicial
-- Quadro de Pessoal
-- Direcção Geral da Administração da Justiça
 - Ministério Público
 - Mobilidade de Pessoal
-- são JOÃO da Madeira
-- Organização Judiciária
-- Secretaria Judicial
 - Oeiras
+- Organização Judiciária
+- Pessoal de Justiça
+- Porto
+- Processo Judicial
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- são JOÃO da Madeira
+- Secretaria Judicial
 - Transferência de Competências
+- Tribunal Criminal
 - Tribunal de Círculo
+- Tribunal de Comarca
 - Tribunal de Competência Especializada
 - Tribunal de Família e de Menores
+- Tribunal do Trabalho
 - Tribunal Judicial
-- Porto
 relationships:
 - type: amended_by
   target: pt:dre:167413:por
@@ -126,16 +126,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/52/2008/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/52/2008/08/28/p/dre
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692253:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:671455:por
+  label: "Rectificados o nº10 do art. 22º, o art. 23º, os nºs. 7 e 8 do art. 34º e o nº2 do art. 40º pela DECL-RECT.27/2011.19.08.2011.PCM,\
+    \ DR.IS [159] de 19.08.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/27-2011-671455
+  date: '2011-08-19'
+- type: repealed_by
+  target: pt:dre:167413:por
+  label: "Revogado pelo DEC LEI.113-A/2011.29.11.2011.MJ, DR.IS [229-Supl] de 29.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-a-2011-167413
+  date: '2011-11-29'
 article_structure:
   article_count: 41
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:48Z'
   warnings: []
   errors: []
 ---
@@ -628,15 +659,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 2011. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José Manuel Santos de Magalhães.
 
-**Promulgado em 15 de Junho de 2011.**
+Promulgado em 15 de Junho de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de Junho de 2011.**
+Referendado em 17 de Junho de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se referem os artigos 5.º, 11.º, 15.º e 19.º)
 

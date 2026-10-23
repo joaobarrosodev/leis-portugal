@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/14/1992/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/14-1992-291846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T04:12:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8835b84245770acc7e116f98b8e81dc55f49e25d3ab9ae0c4384dbe7086de625
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 706aa725b459b8d03b40fda4cbd438880dc54942858894b4725e8f88f3d86f1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:12:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - JUTA
+- Portugal
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA RECTIFICAÇÃO 5/92, PUBLICADO NO DR.IS-A, 166, DE 920721.\0721.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/21/1992/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/21/1992/07/02/p/dre
+- type: cites
+  target: pt:dre:291847:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:12:14Z'
   warnings: []
   errors: []
 ---
@@ -91,16 +99,16 @@ validation:
 
 de 2 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo Internacional de 1989 da Juta e Produtos de Juta, concluído em Genebra pela Conferência das Nações Unidas sobre a Juta e Produtos de Juta em 3 de Novembro de 1989, aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 21/92](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/21-1992-291847), de 2 de Julho.
 
-**Assinado em 10 de Junho de 1992.**
+Assinado em 10 de Junho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Junho de 1992.**
+Referendado em 11 de Junho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

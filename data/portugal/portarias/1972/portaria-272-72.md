@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/272-1972-681220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c49befe5a295f67be7bc8d5d03c8b5d95eeae9edb0626a4a2bd76177c3546687
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49cf3518208b3693cca48311dc6cac842c10d490baf4499028117d1cc8f67655
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:210375:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:31Z'
   warnings: []
   errors: []
 ---
@@ -95,6 +99,6 @@ Considerando ser necessário proceder à conveniente rectificação e actualiza�
 
 Manda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência, introduzir na tabela dos preços dos medicamentos do Regimento Geral dos Preços dos Medicamentos e Manipulações, aprovado pela [Portaria n.º 35/70](https://diariodarepublica.pt/dr/detalhe/portaria/35-1970-210375), de 14 de Janeiro, as seguintes alterações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/05/11400/06210622.pdf))](https://files.diariodarepublica.pt/1s/1972/05/11400/06210622.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/05/11400/06210622.pdf)
 
 Pelo Ministro da Saúde e Assistência, Alfredo Jorge Assis dos Santos, Secretário de Estado da Saúde e Assistência.

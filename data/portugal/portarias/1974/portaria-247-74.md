@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/247-1974-411818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T04:22:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54356e9d94bbc1e6f4350d8b126f66c6e07a44e1b72ed830207e9fed0eb0e6ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8202f62ddb63b8e43cbd8df9740d3ec20daca138e7bf1fc891949bd6abe26717
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:22:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233569:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:22:47Z'
   warnings: []
   errors: []
 ---
@@ -93,12 +97,12 @@ Ministério da Educação Nacional, 22 de Março de 1974. - Pelo Ministro da Edu
 
 Regulamento do Prémio de Pedro Álvares Cabral
 
-###### Artigo 1.º É instituído pela TAP - Transportes Aéreos Portugueses - o Prémio de Pedro Álvares Cabral, destinado a recompensar anualmente o melhor aluno das escolas primárias de Belmonte e de Santarém.
+Artigo 1.º É instituído pela TAP - Transportes Aéreos Portugueses - o Prémio de Pedro Álvares Cabral, destinado a recompensar anualmente o melhor aluno das escolas primárias de Belmonte e de Santarém.
 
-###### Art. 2.º O Prémio é constituído por uma viagem de avião ao Brasil (ida e volta), por conta daquela sociedade, de forma que aqueles alunos possam visitar Porto Seguro e outras localidades a indicar oportunamente, cimentando assim, no espírito desses jovens, a força e a realidade da amizade luso-brasileira e perpetuando a memória daquele navegador.
+Art. 2.º O Prémio é constituído por uma viagem de avião ao Brasil (ida e volta), por conta daquela sociedade, de forma que aqueles alunos possam visitar Porto Seguro e outras localidades a indicar oportunamente, cimentando assim, no espírito desses jovens, a força e a realidade da amizade luso-brasileira e perpetuando a memória daquele navegador.
 
-###### Art. 3.º As crianças premiadas serão acompanhadas por uma pessoa idónea durante a sua visita ao Brasil e a concessão do Prémio inclui as despesas de estada das crianças, bem como da pessoa que as acompanha, designada pelos Transportes Aéreos Portugueses.
+Art. 3.º As crianças premiadas serão acompanhadas por uma pessoa idónea durante a sua visita ao Brasil e a concessão do Prémio inclui as despesas de estada das crianças, bem como da pessoa que as acompanha, designada pelos Transportes Aéreos Portugueses.
 
-###### Art. 4.º As Direcções dos Distritos Escolares de Castelo Branco e de Santarém deverão indicar a esta Direcção-Geral, depois da realização dos exames da 4.ª classe da instrução primária, o nome do aluno das escolas primárias de Belmonte e de Santarém aprovado no exame da 4.ª classe que mais se distinguiu pelo seu comportamento moral, assiduidade às aulas e aproveitamento escolar, com a indicação da sua morada.
+Art. 4.º As Direcções dos Distritos Escolares de Castelo Branco e de Santarém deverão indicar a esta Direcção-Geral, depois da realização dos exames da 4.ª classe da instrução primária, o nome do aluno das escolas primárias de Belmonte e de Santarém aprovado no exame da 4.ª classe que mais se distinguiu pelo seu comportamento moral, assiduidade às aulas e aproveitamento escolar, com a indicação da sua morada.
 
 Direcção-Geral do Ensino Básico, 22 de Março de 1974. - O Director-Geral, Teixeira de Matos.

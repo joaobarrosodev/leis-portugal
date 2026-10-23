@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 166/2023, 1º Suplemento, Série I de 2023-08-28
   number: '166'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 35-(2) a 35-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/16601/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/74-a/2023/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2023-220956294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50f6e60f5563e7c96ed833897247e089f8cc366dc5b419b813d6ae91241d795b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d134de3a68dc9f419dfbb48dd67b795a291fa65726378570e829cdb00f506254
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Criança
-- Seguro
 - Licenciamento
-- Veículo
+- Seguro
 - Seguro Automóvel
 - Transporte
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:928506356:por
@@ -96,16 +96,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/2013/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/2013/01/22/p/dre
+- type: cites
+  target: pt:dre:174614572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663689:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:43Z'
   warnings: []
   errors: []
 ---
@@ -154,12 +174,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 24 de agosto de 2023. - Mariana Guimarães Vieira da Silva - José Duarte Piteira Rica Silvestre Cordeiro - João Saldanha de Azevedo Galamba.
 
-**Promulgado em 25 de agosto de 2023.**
+Promulgado em 25 de agosto de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 25 de agosto de 2023.**
+Referendado em 25 de agosto de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+116805243

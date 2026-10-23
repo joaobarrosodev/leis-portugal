@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/81-1987-496347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T07:38:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4f8465247d896dcdbf24a6922a345cc72ea270482f41546bbca7574a6af2408
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 488a2de52e199d01e26cbf68921daa9000c3a4c812b93d235ef1a20a0e239b67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:38:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alfândega
+- Reforma Aduaneira
+- Regulamento
+- Regulamento das Alfândegas
+relationships:
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506178:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:38:48Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +100,7 @@ Considerando que esses princípios deverão ser harmonizados com os princípios 
 
 Determino, ao abrigo do disposto no artigo único do [Decreto n.º 17/76](https://diariodarepublica.pt/dr/detalhe/decreto/17-1976-506178), de 14 de Janeiro, que, a título experimental, e durante um ano, sejam introduzidas as seguintes alterações no Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941:
 
-###### Art. 638.º ...
+Art. 638.º ...
 
 § 1.º ...
 
@@ -104,11 +116,11 @@ Determino, ao abrigo do disposto no artigo único do [Decreto n.º 17/76](https:
 
 ...
 
-###### Art. 653.º A verificação, que será exarada no próprio processo, far-se-á nos termos prescritos no livro III, com a adequada adaptação em ordem a permitir o apuramento dos recursos próprios comunitários, quando estes forem devidos, devendo também ser indicados a designação comercial ou mais corrente por que são conhecidas as mercadorias, as suas qualidades e quantidades, marcas, números, cores ou outros sinais que as possam diferençar de quaisquer outras, o regime especial a que porventura estejam sujeitas, se são de importação proibida e qual a natureza da proibição, se a importação depende de autorização especial, apresentação de licenças, boletins ou outros documentos e quais e se sobre elas incidem quaisquer taxas para os organismos económicos ou outros cuja cobrança pertença às Alfândegas.
+Art. 653.º A verificação, que será exarada no próprio processo, far-se-á nos termos prescritos no livro III, com a adequada adaptação em ordem a permitir o apuramento dos recursos próprios comunitários, quando estes forem devidos, devendo também ser indicados a designação comercial ou mais corrente por que são conhecidas as mercadorias, as suas qualidades e quantidades, marcas, números, cores ou outros sinais que as possam diferençar de quaisquer outras, o regime especial a que porventura estejam sujeitas, se são de importação proibida e qual a natureza da proibição, se a importação depende de autorização especial, apresentação de licenças, boletins ou outros documentos e quais e se sobre elas incidem quaisquer taxas para os organismos económicos ou outros cuja cobrança pertença às Alfândegas.
 
 ...
 
-###### Art. 659.º ...
+Art. 659.º ...
 
 § 1.º...
 
@@ -120,7 +132,7 @@ Determino, ao abrigo do disposto no artigo único do [Decreto n.º 17/76](https:
 
 ...
 
-###### Art. 661.º ...
+Art. 661.º ...
 
 § 1.º É proibida a presença no local do leilão aos indivíduos condenados por qualquer infracção fiscal aduaneira e a quaisquer outras pessoas que possam prejudicar o bom andamento das arrematações.
 
@@ -128,7 +140,7 @@ Determino, ao abrigo do disposto no artigo único do [Decreto n.º 17/76](https:
 
 ...
 
-###### Art. 664.º Quando a mercadoria tenha sido arrematada, o encarregado de armazém passará as competentes guias de pagamento, sem embargo de poder ser exigido imediatamente 20% do valor da arrematação.
+Art. 664.º Quando a mercadoria tenha sido arrematada, o encarregado de armazém passará as competentes guias de pagamento, sem embargo de poder ser exigido imediatamente 20% do valor da arrematação.
 
 § 1.º ...
 
@@ -144,7 +156,7 @@ Determino, ao abrigo do disposto no artigo único do [Decreto n.º 17/76](https:
 
 ...
 
-###### Art. 666.º ...
+Art. 666.º ...
 
 § 1.º A entrega das mercadorias arrematadas poderá, no entanto, não ter lugar, mediante a restituição do quantitativo depositado ou do total da arrematação, conforme os casos, sempre que se demonstre a existência de um conluio entre arrematantes ou de qualquer facto tendente a evitar o pagamento de um preço normal.
 
@@ -154,9 +166,9 @@ Determino, ao abrigo do disposto no artigo único do [Decreto n.º 17/76](https:
 
 ...
 
-###### Art. 671.º Cumprido o disposto nos artigos antecedentes, o processo será liquidado no prazo de 30 dias, devendo o registo de liquidação, se for caso disso, ser efectuado, o mais tardar, até ao final do 2.º dia seguinte à realização daquele acto.
+Art. 671.º Cumprido o disposto nos artigos antecedentes, o processo será liquidado no prazo de 30 dias, devendo o registo de liquidação, se for caso disso, ser efectuado, o mais tardar, até ao final do 2.º dia seguinte à realização daquele acto.
 
-###### Art. 672.º As mercadorias a que se refere o artigo 638.º, quando em 1.ª praça não obtiverem lanço que cubra o seu valor, considerando-se como tal, para este efeito, o preço do artigo determinado por critérios razoáveis, irão a 2.ª praça por metade do valor da 1.ª praça, para o que serão actualizados, em conformidade, a verificação e o apuramento dos recursos próprios comunitários.
+Art. 672.º As mercadorias a que se refere o artigo 638.º, quando em 1.ª praça não obtiverem lanço que cubra o seu valor, considerando-se como tal, para este efeito, o preço do artigo determinado por critérios razoáveis, irão a 2.ª praça por metade do valor da 1.ª praça, para o que serão actualizados, em conformidade, a verificação e o apuramento dos recursos próprios comunitários.
 
 § 1.º ...
 
@@ -174,7 +186,7 @@ c) Inutilização.
 
 § 5.º O presidente poderá ordenar a retirada do leilão de qualquer lote, sempre que essa medida se mostre necessária.
 
-###### Art. 673.º (Eliminado.)
+Art. 673.º (Eliminado.)
 
 § 1.º (Eliminado.)
 
@@ -182,7 +194,7 @@ c) Inutilização.
 
 ...
 
-###### Art. 675.º O produto líquido da arrematação será distribuído de acordo com a seguinte ordem de prioridades:
+Art. 675.º O produto líquido da arrematação será distribuído de acordo com a seguinte ordem de prioridades:
 
 a) Recursos próprios comunitários;
 
@@ -198,7 +210,7 @@ c) Outras imposições.
 
 § 4.º Entende-se por produto líquido da arrematação o produto da arrematação, após dedução dos respectivos encargos.
 
-###### Art. 676.º Do produto das mercadorias achadas no mar ou por ele arrojadas e das salvadas de naufrágio, a que se referem os n.os 3.º e 4.º do artigo 638.º, devem deduzir-se por sua ordem:
+Art. 676.º Do produto das mercadorias achadas no mar ou por ele arrojadas e das salvadas de naufrágio, a que se referem os n.os 3.º e 4.º do artigo 638.º, devem deduzir-se por sua ordem:
 
 a) As despesas de transporte, guarda e beneficiação;
 
@@ -206,7 +218,7 @@ b) A terça parte para o achador, quando se trate de mercadorias achadas ou arro
 
 § único. (Eliminado.)
 
-###### Art. 677.º Tanto nos casos em que haja de proceder-se à inutilização de mercadorias, como nos de distribuição a serviços do Estado ou a instituições de utilidade pública, deverão ser lavrados termos com as formalidades legais, devendo ainda, nos casos de distribuição, cobrar-se recibo, que será junto ao processo.
+Art. 677.º Tanto nos casos em que haja de proceder-se à inutilização de mercadorias, como nos de distribuição a serviços do Estado ou a instituições de utilidade pública, deverão ser lavrados termos com as formalidades legais, devendo ainda, nos casos de distribuição, cobrar-se recibo, que será junto ao processo.
 
 § único. As entidades a quem as mercadorias forem distribuídas suportarão o pagamento dos recursos próprios comunitários, no caso de serem devidos, e ficam sujeitas à obrigação de as destinarem única e directamente aos seus fins, podendo a Direcção-Geral das Alfândegas ordenar que se averigue do cumprimento desta obrigação.
 

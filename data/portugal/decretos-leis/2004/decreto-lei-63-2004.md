@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/069a00/16101612.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/63/2004/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2004-541375
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0b6a7393c35d06b9bbca0723883fb9dbe2a5ce15870a41daf960454bcdf6697
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2b092a8c48f909bb10bd2569746056570cb2e81d0af0a66a65b882a1c83b276
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,104 @@ reuse:
 subjects:
 - Financiamento
 - Fundo Florestal Permanente
-- Ordenamento Florestal
 - Ifadap
+- Ordenamento Florestal
 - Política Florestal
 relationships:
 - type: amended_by
   target: pt:dre:152639825:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Mantido em vigor em 2005 o adicional às taxas do imposto sobre os produtos petrolíferos energéticos, no montante\
+    \ de 0,005 Euros por litro para a gasolina e 0,0025 por litro para o gasóleo rodoviário e o gasóleo colorido e marcado,\
+    \ previsto no presente diploma, até ao limite máximo de 30 milhões de Euros Anuais, pela LEI.55-B/2004.30.12.2004.AR,\
+    \ DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Mantido em vigor em 2008 o adicional às taxas do imposto sobre os produtos petrolíferos e energéticos, no montante\
+    \ de (euro) 0,005 por litro para a gasolina e no montante de (euro) 0,0025 por litro para o gasóleo rodoviário e o gasóleo\
+    \ colorido e marcado, que constitui receita própria do fundo financeiro de carácter permanente previsto no presente diploma,\
+    \ até ao limite máximo de 30 milhões de euros anuais, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0\
+    7\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Mantido em vigor em 2009 o adicional às taxas do imposto sobre os produtos petrolíferos e energéticos, no montante\
+    \ de (euro) 0,005 por litro para a gasolina e no montante de (euro) 0,0025 por litro para o gasóleo rodoviário e o gasóleo\
+    \ colorido e marcado, que constitui receita própria do fundo financeiro de carácter permanente previsto no presente diploma,\
+    \ até ao limite máximo de 30 milhões de euros anuais, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Mantido em vigor em 2010, o adicional às taxas do imposto sobre os produtos petrolíferos e energéticos, no montante\
+    \ de (euro) 0,005 por litro para a gasolina e no montante de (euro) 0,0025 por litro para o gasóleo rodoviário e para\
+    \ o gasóleo colorido e marcado, que constitui receita própria do fundo financeiro de carácter permanente previsto no presente\
+    \ diploma, até ao limite máximo de (euro) 30 000 000 anuais, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Mantido em vigor em 2011 o adicional às taxas do imposto sobre os produtos petrolíferos e energéticos, no montante\
+    \ de (euro) 0,005 por litro para a gasolina e no montante de (euro) 0,0025 por litro para o gasóleo rodoviário e o gasóleo\
+    \ colorido e marcado, que constitui receita própria do fundo financeiro de carácter permanente previsto no presente diploma,\
+    \ pela LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010, até ao limite máximo de (euro) 30 000 000 anuais.\
+    \ \0s. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Mantido em vigor em 2012 o adicional às taxas do imposto sobre os produtos petrolíferos e energéticos que constitui\
+    \ receita própria do fundo financeiro de carácter permanente, pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011,\
+    \ nos termos do seu art. 135º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Mantido em vigor em 2013 o adicional às taxas do imposto sobre os produtos petrolíferos e energéticos, no montante\
+    \ de (euro) 0,005 por litro para a gasolina e no montante de (euro) 0,0025 por litro para o gasóleo rodoviário e o gasóleo\
+    \ colorido e marcado, que constitui receita própria do fundo financeiro de caráter permanente, até ao limite máximo de\
+    \ (euro) 30 000 000 anuais, previsto no presente diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Mantido em vigor em 2014 o adicional às taxas do imposto sobre os produtos petrolíferos e energéticos, no montante\
+    \ de (euro) 0,005 por litro para a gasolina e no montante de (euro) 0,0025 por litro para o gasóleo rodoviário e o gasóleo\
+    \ colorido e marcado, que constitui receita própria do fundo financeiro de caráter permanente, até ao limite máximo de\
+    \ (euro) 30 000 000 anuais, previsto no presente diploma, pela LEI 83-C/2013.31.12.2013.AR, DR.IS [253-Supl] de 31.12.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Mantido em vigor em 2015 o adicional às taxas do imposto sobre os produtos petrolíferos e energéticos, no montante
+    de (euro) 0,005/l para a gasolina e no montante de (euro) 0,0025/l para o gasóleo rodoviário e o gasóleo colorido e marcado,
+    que é consignado ao fundo financeiro de caráter permanente previsto no presente diploma, até ao limite máximo de (euro)
+    30 000 000 anuais, pelo(a) Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66022084:por
+  label: Aditado o art. 7.º pelo(a) Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-d-2014-66022084
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:152639825:por
+  label: Determinada a manutenção em vigor em 2021 do adicional às taxas do ISP, no montante de 0,007/l (euro) para a gasolina
+    e de 0,0035/l (euro) para o gasóleo rodoviário e para o gasóleo colorido e marcado, que é consignado ao fundo financeiro
+    de caráter permanente previsto no presente diploma pelo(a) Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento,
+    Série I de 2020-12-31, nos termos do art. 407.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-b-2020-152639825
+  date: '2020-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
   label: null
@@ -84,16 +174,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/178/2003/11/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/178/2003/11/17/p/dre
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445572:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175923959:por
+  label: Revogado, com efeitos a 01.01.2022, o presente diploma, pelo(a) Decreto-Lei n.º 114/2021 - Diário da República n.º
+    241/2021, Série I de 2021-12-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-2021-175923959
+  date: '2021-12-15'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:51Z'
   warnings: []
   errors: []
 ---
@@ -194,12 +298,12 @@ O IFADAP poderá solicitar a entidades públicas e privadas, designadamente à a
 
 Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 9 de Março de 2004.**
+Promulgado em 9 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Março de 2004.**
+Referendado em 11 de Março de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

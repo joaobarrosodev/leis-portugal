@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20000/0887108873.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/233/2015/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2015-70641447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 321b0ae0ac3edc2d1b7387526f4f1b56474782f72f84420b9a6049dfa1e76587
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f366bea0486808c103012674946c31c5ab67de66678347ca8c82b0e28ab77471
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Autoridade Nacional de Resíduos
-- Gestão de Resíduos
+- Eliminação de Resíduos
 - Financiamento
 - Fundo de Intervenção Ambiental
-- Proteção do Ambiente
+- Gestão de Resíduos
 - Gestão do Ambiente
 - Política do Ambiente
+- Proteção do Ambiente
 - Receita Fiscal
 - Receita Pública
 - Regulamento
-- Eliminação de Resíduos
 - Subsídio
 - Taxa
-- Agência Portuguesa do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:75150234:por
@@ -125,16 +125,63 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/89/2009/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/89/2009/08/31/p/dre
+- type: cites
+  target: pt:dre:144217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66022084:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:75150234:por
+  label: Revogado, a partir de 01.01.2017, o Dec. Lei 150/2008 de 30-jul, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12 nos termos do disposto no n.º 2
+    do seu art. 22.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-a-2016-75150234
+  date: '2016-08-12'
 article_structure:
-  article_count: 13
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:58Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +218,9 @@ Os artigos 3.º a 6.º e 8.º a 10.º do [Decreto-Lei n.º 150/2008](https://dia
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O FIA é dirigido pelo conselho diretivo da Agência Portuguesa do Ambiente, I. P. (APA, I. P.).
 
@@ -205,7 +254,9 @@ n) Exercer as demais competências que lhe sejam conferidas por lei.
 
 3 - [Revogado].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -225,7 +276,9 @@ e) Pronunciar -se sobre qualquer outra matéria no domínio da gestão económic
 
 4 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -233,13 +286,17 @@ e) Pronunciar -se sobre qualquer outra matéria no domínio da gestão económic
 
 3 - O regulamento de gestão do FIA estabelece as linhas de orientação para aplicação do produto da TGR afeto ao FIA.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A gestão financeira, incluindo os serviços contabilísticos, orçamentais e de secretariado, necessários ao funcionamento do FIA, são assegurados pela APA, I. P..
 
 2 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A gestão técnica do FIA é assegurada pela APA, I. P..
 
@@ -259,7 +316,9 @@ d) [...].
 
 5 - [Revogado].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -287,7 +346,9 @@ Finalidade das receitas
 
 O produto da TGR afeto ao FIA visa assegurar o financiamento de atividades dos sujeitos passivos que contribuam para o cumprimento dos objetivos nacionais em matéria de resíduos, de acordo com as prioridades definidas pela APA, I. P., enquanto Autoridade Nacional de Resíduos, e divulgadas aquando da abertura das candidaturas e ao incentivo ao esforço e desempenho dos Sistemas de Gestão de Resíduos Urbanos (SGRU) no cumprimento dos objetivos em matéria de gestão de resíduos.
 
-###### Artigo 6.º-B — Incentivo ao desempenho
+Artigo 6.º-B
+
+Incentivo ao desempenho
 
 1 - A fração das receitas do FIA correspondentes a 35 % das receitas da TGR cobrada aos SGRU, num valor máximo de 1,5 milhões de euros, reverte, anualmente, a favor destes sujeitos passivos com «bom desempenho» no que respeita ao esforço de reciclagem, por forma a incentivar o melhor desempenho dos SGRU relativamente ao cumprimento dos objetivos nacionais em matéria de resíduos urbanos.
 
@@ -315,12 +376,12 @@ O incentivo ao desempenho previsto no artigo 6.º- B do [Decreto-Lei n.º 150/20
 
 Visto e aprovado em Conselho de Ministros de 27 de agosto de 2015. - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 2 de outubro de 2015.**
+Promulgado em 2 de outubro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 8 de outubro de 2015.**
+Referendado em 8 de outubro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/28/1999/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1999-182835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49a8dbb66e004e873e62b159e24dbb8c72c5395c99fb1606966a6c819d395dea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2b9181bfbf6303075e6c953fbdc055ffda4de71150b535d285111b4e4bb0ce9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacalhau
-- Comissão Reguladora do Comércio do Bacalhau
+- Caixa Geral de Aposentações
+- Comércio
+- Comissão
 - Comissão Reguladora
+- Comissão Reguladora do Comércio do Bacalhau
 - Direcção Geral do Tesouro
 - Documentação
-- Comissão
 - Extinção de Serviços
-- Caixa Geral de Aposentações
 - Ílhavo
 - Intervenção do Estado
 - Museu
 - Museu Marítimo e Regional
-- Comércio
 - Transferência Patrimonial
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:218920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464654:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:21Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +143,7 @@ Os artigos 3.º e 5.º do [Decreto-Lei n.º 224/86](https://diariodarepublica.pt
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - ...
 
@@ -163,12 +171,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de Dezembro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Luís Manuel Capoulas Santos.
 
-**Promulgado em 18 de Janeiro de 1999.**
+Promulgado em 18 de Janeiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Janeiro de 1999.**
+Referendado em 21 de Janeiro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

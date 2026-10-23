@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/2-1981-570368
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:40:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f6adca72241334f89171b4654fb616515cddd5d1341b30400dc645c35731636
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1e30536c5df7bb2d49f521a515c5ed3a1b98f279682953998a6938232bf8f01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:40:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Madeira.região Autónoma
+- Prestação de Serviços
+- Titulo de Transporte
+- Transporte Aéreo
+- Transporte de Mercadorias
+- Transporte de Passageiros
 relationships:
 - type: amended_by
   target: pt:dre:376595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:416630:por
+  label: "Alterados o nº 1º e as condições de aplicação da tarifa para cidadãos portugueses residentes nos Açores e na Madeira\
+    \ constante do anexo I pela PORT.76-A/81.17.01.1981.MFP, DR.IS [14SUPL] de 17.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/76-a-1981-416630
+  date: '1981-01-17'
+- type: cites
+  target: pt:dre:269620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:376595:por
+  label: "Revogada no que se refere à Região Autónoma dos Açores pela PORT.954/82.09.10.1982.MFP, DR.IS [234] de 09.10.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/954-1982-376595
+  date: '1982-10-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:40:04Z'
   warnings: []
   errors: []
 ---
@@ -217,7 +252,7 @@ Documentação:
 
 Na altura da emissão e pagamento do bilhete os passageiros devem preencher e apresentar o formulário modelo n.º 2075 e apresentar o respectivo bilhete de identidade ou cédula pessoal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/00200/00050008.pdf))](https://files.diariodarepublica.pt/1s/1981/01/00200/00050008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/00200/00050008.pdf)
 
 ## ANEXO II
 

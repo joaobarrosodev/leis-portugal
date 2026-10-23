@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/21300/0000300007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/84/2024/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2024-895287957
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 615969c0677c2d4f5c6346f241a3eec3f3ce4c0952d41a6aa5f402ab1bac99c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70b6415aeea63abae9a76f39d044278f44511b3e6167757f6c1d0fd4e5854e64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
 subjects:
 - Acesso à Informação
 - Aproximação das Legislações
-- Multa
+- Base de Dados
 - Contra-ordenação
 - Definição de Competências
-- Fiscalização
 - Direção Geral de Energia e Geologia
-- Base de Dados
-- Página na Internet
 - Energia
+- Fiscalização
+- Multa
+- Página na Internet
 - Regulamento CE
 relationships:
 - type: cites
@@ -90,6 +90,10 @@ relationships:
   target: celex:32024R1364
   label: null
   source: http://data.europa.eu/eli/reg/2024/1364/oj
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32023L1791
   label: null
@@ -97,13 +101,13 @@ relationships:
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:22Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +172,7 @@ A DGEG é a autoridade nacional competente para:
 
 a) A fiscalização do cumprimento do disposto no [Regulamento (UE) 2024/1364](https://data.europa.eu/eli/reg/2024/1364/oj?locale=pt) e no presente decreto-lei, sem prejuízo das competências atribuídas por lei a outras entidades;
 
-b) A publicitação das informações e dos indicadores-chave relativos ao desempenho energético dos centros de dados abrangidos, nos termos dos n.<sup>os</sup>2 e 5 do artigo 5.º do [Regulamento (UE) 2024/1364](https://data.europa.eu/eli/reg/2024/1364/oj?locale=pt), incluindo o respetivo anexo iv, através do respetivo sítio na Internet.
+b) A publicitação das informações e dos indicadores-chave relativos ao desempenho energético dos centros de dados abrangidos, nos termos dos n.os2 e 5 do artigo 5.º do [Regulamento (UE) 2024/1364](https://data.europa.eu/eli/reg/2024/1364/oj?locale=pt), incluindo o respetivo anexo iv, através do respetivo sítio na Internet.
 
 ###### Artigo 7.º — Contraordenações
 
@@ -188,13 +192,13 @@ d) O incumprimento dos termos determinados para a prestação da informação re
 
 4 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.
 
-5 - A entidade competente para a aplicação da coima relativamente às contraordenações previstas nos n.<sup>os</sup>1 e 2 pode, ainda, aplicar as sanções acessórias que se mostrem adequadas, nos termos do disposto no artigo 21.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, na sua redação atual.
+5 - A entidade competente para a aplicação da coima relativamente às contraordenações previstas nos n.os1 e 2 pode, ainda, aplicar as sanções acessórias que se mostrem adequadas, nos termos do disposto no artigo 21.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, na sua redação atual.
 
 6 - A autoridade que tomou a decisão condenatória pode determinar a sua publicidade, a expensas do infrator.
 
 ###### Artigo 8.º — Instrução e decisão
 
-1 - Compete à DGEG proceder à instauração e instrução dos processos de contraordenação previstos nos n.<sup>os</sup>1 e 2 do artigo anterior.
+1 - Compete à DGEG proceder à instauração e instrução dos processos de contraordenação previstos nos n.os1 e 2 do artigo anterior.
 
 2 - Compete ao diretor-geral da DGEG a determinação e aplicação das coimas e das sanções acessórias, nos termos do presente decreto-lei.
 
@@ -218,15 +222,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de outubro de 2024. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - João Alexandre da Silva Lopes - Maria da Graça Carvalho.
 
-**Promulgado em 26 de outubro de 2024.**
+Promulgado em 26 de outubro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de outubro de 2024.**
+Referendado em 29 de outubro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 4.º)
 
@@ -243,3 +247,5 @@ c) A indicação da área construída, da potência instalada, do tráfego anual
 d) O desempenho do centro de dados durante o último ano civil completo de acordo com indicadores-chave de desempenho relativos, designadamente, ao consumo de energia, à utilização da energia, aos pontos de regulação da temperatura, à utilização de calor residual, ao consumo de água e à utilização de energia de origem renovável.
 
 2 - Para o cumprimento do disposto no número anterior importa proceder à aplicação conjugada do disposto nos anexos i a iii do [Regulamento Delegado (UE) 2024/1364](https://data.europa.eu/eli/reg/2024/1364/oj?locale=pt) da Comissão, de 14 de março de 2024, relativo à primeira fase do estabelecimento de um regime comum da União para classificar os centros de dados.
+
+118293554

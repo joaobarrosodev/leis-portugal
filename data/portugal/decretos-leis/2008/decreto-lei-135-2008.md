@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/135/2008/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2008-456786
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1604890cc8f44efed3e45234cd96a2042c927162dbf51e46ee0db4610e21f21e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c7eb5eeb73b61367204f75db0f21193cac823773d45b3291b28a97022c1a756
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
+- Equipamento de Veículo
 - Especificação Técnica
 - Homologação
-- Veículo
-- Equipamento de Veículo
 - Regulamento da Homologação CE de Modelo de Automóveis e Reboques seus Sistemas Componentes e Unidades Técnicas
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:611962:por
@@ -91,16 +91,23 @@ relationships:
   target: celex:32007R0760
   label: null
   source: http://data.europa.eu/eli/reg/2007/760/oj
+- type: repealed_by
+  target: pt:dre:611962:por
+  label: "Revogado, a partir de 17.03.2010, o Dec Lei 72/2000 de 06-Mai, que aprovou o Regulamento da Homologação CE de Modelo\
+    \ de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, alterado pelo presente diploma, pelo DEC LEI.16/2010.12.03.2010.MOPTC,\
+    \ DR.IS [50] de 12.03.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2010-611962
+  date: '2010-03-12'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:24Z'
   warnings: []
   errors: []
 ---
@@ -139,15 +146,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Maio de 2008. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - José Manuel Vieira Conde Rodrigues - Mário Lino Soares Correia.
 
-**Promulgado em 7 de Julho de 2008.**
+Promulgado em 7 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Julho de 2008.**
+Referendado em 9 de Julho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -209,7 +216,9 @@ Fuga total em g/ano do sistema completo:...
 
 15 - [...]
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 0 - [...]
 

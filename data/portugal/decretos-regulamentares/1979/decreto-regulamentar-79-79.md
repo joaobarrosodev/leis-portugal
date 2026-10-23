@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 300/1979, 5º Suplemento, Série I de 1979-12-31
   number: '300'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 3478-(99) a 3478-(104)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30005/00990104.pdf
 entry_into_force_dates: []
@@ -46,40 +46,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1979-231285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 760642bc291b453ca73bbde1084cca0df40cb0ef64a58c9591d79b41951ba0b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e2f627531df51a8559dcfd70303c30642671be8896a2b92e59efaa5038cf5fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Função Pública
+- Orgânica
+- Quadro de Pessoal
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:395507:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:390216:por
+  label: "Alterado o quadro de pessoal pela PORT.80/81.19.01.1981.PCM, DR.IS [15] de 19.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/80-1981-390216
+  date: '1981-01-19'
+- type: amended_by
+  target: pt:dre:388177:por
+  label: "Criado um lugar de assessor no quadro de pessoal constante do presente diploma, pela PORT.266/81.13.03.1981.MFP,\
+    \ DR.IS [60] de 13.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/266-1981-388177
+  date: '1981-03-13'
+- type: amended_by
+  target: pt:dre:573150:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Função Pública, aprovado pelo presente diploma, pela PORT.390/81.13.05.1981.MFP,\
+    \ DR.IS [109] de 13.05.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/390-1981-573150
+  date: '1981-05-13'
+- type: amended_by
+  target: pt:dre:573915:por
+  label: "Alterado o quadro aprovado pelo presente diploma, pela PORT.398/81.19.05.1981.MFP, DR.IS [114] de 19.05.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/398-1981-573915
+  date: '1981-05-19'
+- type: amended_by
+  target: pt:dre:567893:por
+  label: "Mantidas em vigor as disposições do presente diploma, até à entrada em vigor dos diplomas a que se referem os nºs\
+    \ 1 e 2 do art. 19º do Dec Lei 99/81, de 05-Mai, pelo DEC LEI.331/81.1981.12.04.MRA, DR.IS [279]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/331-1981-567893
+  date: '1981-12-04'
+- type: amended_by
+  target: pt:dre:395507:por
+  label: "Alterado o quadro de pessoal pela PORT.647/82.1982.06.29.MFP, DR.IS [147]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/647-1982-395507
+  date: '1982-06-29'
+- type: cites
+  target: pt:dre:231284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430638:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:25Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +151,9 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Direcção-Geral da Função Pública, abreviadamente designada DGFP, é o serviço central incumbido de estudar, conceber, definir e propor as medidas de política de pessoal na função pública, bem como de coordenar e acompanhar a execução da mesma política.
+Artigo 1.º A Direcção-Geral da Função Pública, abreviadamente designada DGFP, é o serviço central incumbido de estudar, conceber, definir e propor as medidas de política de pessoal na função pública, bem como de coordenar e acompanhar a execução da mesma política.
 
-###### Art. 2.º - 1 - As atribuições dia DGFP exercem-se fundamentalmente nos seguintes domínios:
+Art. 2.º - 1 - As atribuições dia DGFP exercem-se fundamentalmente nos seguintes domínios:
 
 a) Regime geral da função pública;
 
@@ -122,7 +175,7 @@ g) Acção social complementar na função pública.
 
 4 - No que respeita às autarquias locais, a colaboração a prestar pela DGFP decorrerá do que lhe for solicitado pelo Ministério de tutela ou directamente pelas autarquias ou respectivas associações, quando existam
 
-###### Art. 3.º - 1 - Como órgão de estudo e concepção, compete à DGFP estudar e propor a adopção das medidas jurídicas ou de outra natureza julgadas adequadas, fundamentalmente relacionadas com:
+Art. 3.º - 1 - Como órgão de estudo e concepção, compete à DGFP estudar e propor a adopção das medidas jurídicas ou de outra natureza julgadas adequadas, fundamentalmente relacionadas com:
 
 a) O regime geral da função pública;
 
@@ -144,7 +197,7 @@ i) A implantação de um sistema integrado de gestão do pessoal da função pú
 
 2 - Ainda na óptica da definição das linhas orientadoras da política de pessoal, compete à DGFP a emissão de parecer sobre os projectos de diplomas respeitantes a trabalho, segurança social e empresas públicas ou ainda quaisquer outros, quando e na medida em que se possam reflectir na função pública.
 
-###### Art. 4.º Como órgão de coordenação e acompanhamento de execução da política de pessoal na função pública, compete especialmente à DGFP:
+Art. 4.º Como órgão de coordenação e acompanhamento de execução da política de pessoal na função pública, compete especialmente à DGFP:
 
 a) Assegurar a coordenação dos órgãos sectoriais a que faz referência o artigo 13.º do [Decreto-Lei n.º 385/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1979-369823), de 19 de Setembro, na parte respeitante às competências genéricas da DGFP, prestando-lhes igualmente o apoio técnico e de consultoria que considerem necessário;
 
@@ -170,7 +223,7 @@ l) Apoiar a organização de programas de assistência técnica por parte de out
 
 ### CAPÍTULO II — Estrutura e competências
 
-###### Art. 5.º - 1 - Para o exercício das suas atribuições, a DGFP será organizada de acordo com a seguinte estrutura:
+Art. 5.º - 1 - Para o exercício das suas atribuições, a DGFP será organizada de acordo com a seguinte estrutura:
 
 a) Departamento de Estudos e Projectos;
 
@@ -186,7 +239,7 @@ e) Divisão de Estatística e Informação.
 
 3 - O apoio administrativo à DGFP será prestado por uma secção administrativa, que funcionará em directa ligação com o Serviço de Administração Geral da SEAP.
 
-###### Art. 6.º - 1 - Junto da DGFP funcionam:
+Art. 6.º - 1 - Junto da DGFP funcionam:
 
 a) A Comissão Interministerial de Acção Social Complementar;
 
@@ -198,7 +251,7 @@ b) A Comissão Interministerial para as Remunerações Acessórias.
 
 4 - O disposto no número anterior não prejudica o exercício das atribuições e competências da DGFP no domínio da acção social complementar.
 
-###### Art. 7.º - 1 - Compete ao Departamento de Estudos e Projectos (DEP) a elaboração dos necessários estudos nos seguintes domínios:
+Art. 7.º - 1 - Compete ao Departamento de Estudos e Projectos (DEP) a elaboração dos necessários estudos nos seguintes domínios:
 
 a) Regime geral e condições de trabalho da função pública, tendo em atenção, designadamente, as experiências estrangeiras no domínio da função pública;
 
@@ -220,7 +273,7 @@ b) A emissão de pareceres sobre matérias da sua competência ou com ela relaci
 
 3 - O DEP processará a sua actividade, em exclusivo, por projectos ou grupos de projectos.
 
-###### Art. 8.º - 1 - Compete ao Departamento de Condições de trabalho (DCT):
+Art. 8.º - 1 - Compete ao Departamento de Condições de trabalho (DCT):
 
 a) A interpretação das disposições legais relativas ao regime geral da função pública, por iniciativa própria ou a solicitação dos vários organismos e serviços de Administração, das organizações sindicais ou dos próprios interessados;
 
@@ -238,7 +291,7 @@ g) Propor a elaboração de estudos e a adopção das medidas legislativas julga
 
 2 - O DCT compreende as Divisões de Consultadoria Jurídica e a Divisão de Coordenação, cabendo-lhes, predominantemente, as primeiras as competências referidas nas alíneas a) b) e d) do número anterior e última as competências referidas nas alíneas c), e) e f) do mesmo número.
 
-###### Art. 9.º - 1 - Compete ao Departamento de Carreiras e Quadros de Pessoal (DQC):
+Art. 9.º - 1 - Compete ao Departamento de Carreiras e Quadros de Pessoal (DQC):
 
 a) Prestar o apoio que lhe for solicitado pelos diversos organismos e serviços da Administração no estudo e interpretação das normas que lhes sejam aplicáveis sobre o ordenamento das carreiras do respectivo pessoal;
 
@@ -262,7 +315,7 @@ i) Propor a elaboração de estudos e a adopção das medidas legislativas julga
 
 3 - A emissão de parecer sobre diplomas orgânicos em que se insiram disposições sobre pessoal será feita em estreita ligação com a DGOA.
 
-###### Art. 10.º - Compete ao Departamento de Assuntos Sócio-Económicos:
+Art. 10.º - Compete ao Departamento de Assuntos Sócio-Económicos:
 
 a) A propositura das medidas de política salarial da função pública e a recolha e tratamento permanente dos dados necessários à formulação e execução da mesma:
 
@@ -294,7 +347,7 @@ n) Propor a elaboração de estudos e a adopção das medidas julgadas necessár
 
 3 - O Departamento de Assuntos Sócio-Económicos compreende a Divisão de Remunerações e a Divisão de Segurança Social e Acção Social Complementar, cabendo-lhes, predominantemente, à primeira as competências referidas nas alíneas a) a e) do n.º 1 e à segunda as competências mencionadas nas alíneas f) a l).
 
-###### Art. 11.º - 1 - Compete à Divisão de Estatística e Informação (DEI):
+Art. 11.º - 1 - Compete à Divisão de Estatística e Informação (DEI):
 
 a) O registo e tratamento dos dados com interesse para a realização das atribuições da Direcção-Geral;
 
@@ -310,7 +363,7 @@ e) Assegurar colaboração permanente com o Centro de Informação e Documentaç
 
 3 - Para os efeitos do número anterior, a DEI disporá dos meios informáticos necessários ao exercício das suas competências.
 
-###### Art. 12.º - 1 - A Secção dos Sindicatos assegurará:
+Art. 12.º - 1 - A Secção dos Sindicatos assegurará:
 
 a) O arquivo dos estatutos das associações sindicais representativas dos funcionários e agentes, em articulação com o serviço competente da Direcção-Geral do Trabalho, do Ministério do Trabalho;
 
@@ -326,7 +379,7 @@ f) O registo e arquivo dos pré-avisos de greve na função pública.
 
 2 - Caberá ainda à Secção de Sindicatos e nos moldes previstos na alínea a) do número anterior o arquivo dos estatutos das comissões de trabalhadores da função pública.
 
-###### Art. 13.º - 1 - À Secção Administrativa compete:
+Art. 13.º - 1 - À Secção Administrativa compete:
 
 a) No âmbito do expediente geral, assegurar o expediente e arquivo geral, o apoio dactilográfico, a administração do pessoal e o apoio reprográfico;
 
@@ -336,7 +389,7 @@ b) No âmbito da contabilidade e do economato, preparar as propostas de orçamen
 
 ### CAPÍTULO III — Do funcionamento dos serviços
 
-###### Art. 14.º - 1 - A DGFP é gerida pelo director-geral, coadjuvado pelos subdirectores-gerais, os quais exercerão as funções e competências que lhes forem cometidas, delegadas ou subdelegadas pelo director-geral.
+Art. 14.º - 1 - A DGFP é gerida pelo director-geral, coadjuvado pelos subdirectores-gerais, os quais exercerão as funções e competências que lhes forem cometidas, delegadas ou subdelegadas pelo director-geral.
 
 2 - O director-geral será substituído, nas suas faltas e impedimentos, por um dos subdirectores - gerais, designado, nos termos da lei geral, sob proposta do director-geral.
 
@@ -346,9 +399,9 @@ b) No âmbito da contabilidade e do economato, preparar as propostas de orçamen
 
 5 - As relações com as organizações sindicais e com as entidades e organizações estrangeiras e internacionais serão orientadas directamente pelo director-geral.
 
-###### Art. 15.º A programação das actividades anuais da DGFP compete ao director-geral, em íntima colaboração com os subdirectores-gerais e todos os serviços da Direcção-Geral e de acordo com as propostas por estes apresentadas.
+Art. 15.º A programação das actividades anuais da DGFP compete ao director-geral, em íntima colaboração com os subdirectores-gerais e todos os serviços da Direcção-Geral e de acordo com as propostas por estes apresentadas.
 
-###### Art. 16.º No prosseguimento da sua acção poderá a DGFP:
+Art. 16.º No prosseguimento da sua acção poderá a DGFP:
 
 a) Solicitar aos organismos e serviços públicos os elementos necessários à prossecução dos seus objectivos;
 
@@ -364,11 +417,11 @@ f) Colaborar com a DGRF e com o INA na determinação das necessidades de forma�
 
 g) Receber e orientar estagiários de outros serviços ou de outros países, designadamente de língua portuguesa.
 
-###### Art. 17.º - 1 - A DGFP manterá permanente e estreita ligação com os demais serviços da Secretaria de Estado da Administração Pública no domínio das respectivas atribuições, prestando-lhes o necessário apoio humano e material, quando este lhe seja solicitado.
+Art. 17.º - 1 - A DGFP manterá permanente e estreita ligação com os demais serviços da Secretaria de Estado da Administração Pública no domínio das respectivas atribuições, prestando-lhes o necessário apoio humano e material, quando este lhe seja solicitado.
 
 2 - A DGFP, sempre que necessário, exercerá as suas atribuições em coordenação e ligação com os departamentos adequados da Administração, podendo ser, para o efeito, constituídos grupos de trabalho, comissões interministeriais ou outras formas de colaboração e trabalho conjunto com os mesmos departamentos.
 
-###### Art. 18.º - 1 - No âmbito das atribuições gerais da DGFP, o diretor-geral poderá cometer às diversas unidades orgânicas funções que lhe não estejam expressamente confiadas nos termos do presente diploma.
+Art. 18.º - 1 - No âmbito das atribuições gerais da DGFP, o diretor-geral poderá cometer às diversas unidades orgânicas funções que lhe não estejam expressamente confiadas nos termos do presente diploma.
 
 2 Sem prejuízo das competências específicas cometidas a cada um deles, os vários serviços da DGFP estabelecerão entre si a mais intima colaboração, em ordem a assegurar o cabal desempenho das atribuições da DGFP.
 
@@ -380,7 +433,7 @@ g) Receber e orientar estagiários de outros serviços ou de outros países, des
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 19.º - 1 - A DGFP dispõe do pessoal constante do quadro anexo ao presente diploma.
+Art. 19.º - 1 - A DGFP dispõe do pessoal constante do quadro anexo ao presente diploma.
 
 2 - O pessoal da DGFP será distribuído pelos serviços mediante despacho do director-geral.
 
@@ -388,28 +441,28 @@ g) Receber e orientar estagiários de outros serviços ou de outros países, des
 
 4 - Os contingentes de pessoal fixados no quadro anexo poderão ser alterados, quando o desenvolvimento das acções que cabem à DGFP o justificar, por portaria do Ministro das Finanças e do Secretário de Estado da Administração Pública.
 
-###### Art. 20.º O regime do pessoal e as normas de provimento dos lugares do quadro de pessoal a que se refere o artigo anterior são os constantes do [Decreto Regulamentar n.º 78/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1979-231284).
+Art. 20.º O regime do pessoal e as normas de provimento dos lugares do quadro de pessoal a que se refere o artigo anterior são os constantes do [Decreto Regulamentar n.º 78/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1979-231284).
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 21.º - 1 - Será integrado no quadro a que se refere o artigo 19.º do presente diploma todo o pessoal que, à data da entrada em vigor do presente diploma, se encontre a prestar efectivo serviço a tempo inteiro e a qualquer título à DGFP.
+Art. 21.º - 1 - Será integrado no quadro a que se refere o artigo 19.º do presente diploma todo o pessoal que, à data da entrada em vigor do presente diploma, se encontre a prestar efectivo serviço a tempo inteiro e a qualquer título à DGFP.
 
 2 - Sem prejuízo do disposto no n.º 1, aplicar-se-á ao primeiro provimento dos lugares do quadro anexo a este diploma o disposto no artigo 36.º do [Decreto Regulamentar n.º 78/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1979-231284).
 
-###### Art. 22.º Até ao final do corrente ano económico, os encargos respeitantes ao funcionamento da DGFP serão suportados por força das verbas consignadas ao Secretariado da Administração Pública.
+Art. 22.º Até ao final do corrente ano económico, os encargos respeitantes ao funcionamento da DGFP serão suportados por força das verbas consignadas ao Secretariado da Administração Pública.
 
-###### Art. 23.º As dúvidas que ocorram na aplicação do presente diploma serão resolvidas por despacho do Secretário de Estado da Administração Pública.
+Art. 23.º As dúvidas que ocorram na aplicação do presente diploma serão resolvidas por despacho do Secretário de Estado da Administração Pública.
 
-###### Art. 24.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 24.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 27 de Dezembro de 1979.**
+Promulgado em 27 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro de pessoal a que se refere o n.º 1 do artigo 19.º do Decreto Regulamentar n.º 79/79, de 31 de Dezembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30005/00990104.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30005/00990104.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30005/00990104.pdf)

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 76/1977, 2º Suplemento, Série I de 1977-03-31
   number: '76'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 662-(3) a 662-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/07602/00030006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/181-a-1977-289213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T05:16:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5f1094e5236b85727a6fe964cfbde1fb68d7edec9f4713c48428c8ce98260a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16c20afa629d20a25dd059ae4ef992c602073c0e3a1e50050afa0462608cd14a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:16:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Turismo
+- Estabelecimento Hoteleiro
+- Fixação de Preços
+- Infraestrutura Turística
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:279184:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:160735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:279184:por
+  label: Revogada, a partir de 01.11.1977, pelo(a) Portaria n.º 636/77 - Diário da República n.º 231/1977, Série I de 1977-10-06,
+    que manteve, contudo, transitoriamente em vigor, o regime de preços dela constantes para as Regiões Autónomas até que
+    cada um dos respectivos Governos disponha diversamente.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/636-1977-279184
+  date: '1977-10-06'
+- type: repealed_by
+  target: pt:dre:31007000:por
+  label: "Revogada pela PORT.37/77.29.11.1977.SRCI-RAA, JOA-IS [17] de 29.11.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/37-1977-31007000
+  date: '1977-11-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:16:08Z'
   warnings: []
   errors: []
 ---
@@ -160,14 +197,14 @@ A que se refere o n.º 2.º da Portaria n.º 181-A/77, de 31 de Março
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/07602/00030006.pdf))](https://files.diariodarepublica.pt/1s/1977/03/07602/00030006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/07602/00030006.pdf)
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/07602/00030006.pdf))](https://files.diariodarepublica.pt/1s/1977/03/07602/00030006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/07602/00030006.pdf)
 
 QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/07602/00030006.pdf))](https://files.diariodarepublica.pt/1s/1977/03/07602/00030006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/07602/00030006.pdf)
 
-**O Ministro do Comércio e Turismo, Carlos Alberto da Mota Pinto.**
+O Ministro do Comércio e Turismo, Carlos Alberto da Mota Pinto.

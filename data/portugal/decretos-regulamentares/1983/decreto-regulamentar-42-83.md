@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 116/1983, 1º Suplemento, Série I de 1983-05-20
   number: '116'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1872-(20) a 1872-(56)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/11601/00200056.pdf
 entry_into_force_dates: []
@@ -46,40 +46,150 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8abc080bc7cac669845534aef12e77f966fd4ccb8c7d080e8d1b27cb4d19bf46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 716276d2273fb8e9e41e0f5aea99326bd03865e494e0268cd1e59da185a0a883
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Contribuições e Impostos
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:124324704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:439428:por
+  label: "Aprovado os mapas de distribuição do pessoal do quadro da Direcção-Geral das Contribuições e Impostos, pela PORT.875/83.09.09.1983.MFP,\
+    \ DR.IS [208] de 09.09.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/875-1983-439428
+  date: '1983-09-09'
+- type: amended_by
+  target: pt:dre:396352:por
+  label: "Alterados os arts. 39º, 40º, 47º, 55º, 66º, 108º, 109º, 118º e o mapa I, pelo DR.89/84.1984.12.24.PCM, DR.IS [296]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/89-1984-396352
+  date: '1984-12-24'
+- type: amended_by
+  target: pt:dre:176572:por
+  label: "Aumentados lugares ao quadro de pessoal aprovado pelo presente diploma, pela PORT.755/85.04.10.1985.PCM, DR.IS [229]\
+    \ de 04.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/755-1985-176572
+  date: '1985-10-04'
+- type: amended_by
+  target: pt:dre:221310:por
+  label: "Dada nova redacção ao art. 76º, pelo DR.71/86.1986.12.13.MF, DR.IS [286]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/71-1986-221310
+  date: '1986-12-13'
+- type: amended_by
+  target: pt:dre:599484:por
+  label: "Dada nova redacção aos arts. 5º e 65º, pelo DR.4/87.1987.01.12.MF, DR.IS [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-1987-599484
+  date: '1987-01-12'
+- type: amended_by
+  target: pt:dre:498574:por
+  label: "Alterado o nº 2 do art. 83º, pelo DR.61/87.1987.11.28.MF, DR.IS [275]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/61-1987-498574
+  date: '1987-11-28'
+- type: amended_by
+  target: pt:dre:619939:por
+  label: "Alterada a redacção do art. 48º pelo DR.20/89.1989.07.25.MF, DR.IS [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/20-1989-619939
+  date: '1989-07-25'
+- type: amended_by
+  target: pt:dre:533376:por
+  label: "Alterado o artigo 52.º e revogados os artigos 1.º a 30.º, 32.º, 37.º, 38.º, 40.º, 43.º, 44.º, 46.º, 47.º, as alíneas\
+    \ a) e b) do n.º 1 do artigo 48.º, o artigo 49.º, as alíneas b) e d) do artigo 50.º e os artigos 51.º, 54.º a 66.º, 69.º,\
+    \ 70.º, 77.º a 79.º, 82.º, 89.º, 95.º, 98.º a 109.º e 111.º a 114.º, pelo DEC LEI.408/93.14.12.1993.MF, DR.IS-A [290]\
+    \ de 14.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/408-1993-533376
+  date: '1993-12-14'
+- type: amended_by
+  target: pt:dre:559038:por
+  label: "Alterado o art. 52º pelo Dec-Lei.42/97.1997.02.07.MF, DR.IS-A [32] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1997-559038
+  date: '1997-02-07'
+- type: cites
+  target: pt:dre:280241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:435813:por
+  label: Rectificado pela DECL.DD5771.30.07.1983.PCM, DR.IS [174-3.º Supl] de 30.07.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-435813
+  date: '1983-07-30'
+- type: corrected_by
+  target: pt:dre:165071:por
+  label: "Rectificada a al. b) do art. 57.º do Dec Lei 408/93 de 14-Dez, na revogação que efectuou aos arts. 98.º a 109.º\
+    \ e 111.º a 114.º do presente diploma, onde deve ler-se: \"artigos. 98.º a 104.º, 105.º, excepto o n.º 1, alínea a), 106.º\
+    \ a 109.º e 111.º a 114.º\" pela DECL-RECT.22/94.28.02.1994.PCM, DR.IS-A [49-2ºSupl] de 28.02.1994\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/22-1994-165071
+  date: '1994-02-28'
+- type: repealed_by
+  target: pt:dre:575126:por
+  label: "Revogado o art. 76º pelo DEC LEI.187/90.07.06.1990.MF, DR.IS [131] de 07.06.1990, sem prejuízo da sua aplicação\
+    \ aos casos previstos no art. 8º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/187-1990-575126
+  date: '1990-06-07'
+- type: repealed_by
+  target: pt:dre:497436:por
+  label: "Revogados os artigos 39.º, 41.º, 42.º e 128.º pelo DR.10/92.04.05.1992.MF, DR.IS-B [102] de 04.05.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/10-1992-497436
+  date: '1992-05-04'
+- type: repealed_by
+  target: pt:dre:124324704:por
+  label: Revogada, a partir de 01.01.2020, a al. a) do n.º 1 do art. 105.º do presente diploma pelo(a) Decreto-Lei n.º 132/2019
+    - Diário da República n.º 166/2019, Série I de 2019-08-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-2019-124324704
+  date: '2019-08-30'
 article_structure:
   article_count: 141
-  section_count: 62
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 45
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:34Z'
   warnings: []
   errors: []
 ---
@@ -130,53 +240,53 @@ Os serviços centrais afectos à área funcional de gestão fiscal da Direcção
 
 a) 1.ª Direcção de Serviços:
 
-##### Divisão da Contribuição Predial;
+Divisão da Contribuição Predial;
 
-##### Divisão do Imposto sobre a Indústria Agrícola e do Cadastro Geométrico.
+Divisão do Imposto sobre a Indústria Agrícola e do Cadastro Geométrico.
 
 b) 2.ª Direcção de Serviços:
 
-##### Divisão do Imposto Profissional;
+Divisão do Imposto Profissional;
 
-##### Divisão do Imposto Complementar.
+Divisão do Imposto Complementar.
 
 c) 3.ª Direcção de Serviços:
 
-##### Divisão da Contribuição Industrial e Correspondente Imposto de Mais-Valias;
+Divisão da Contribuição Industrial e Correspondente Imposto de Mais-Valias;
 
-##### Divisão do Imposto de Capitais e de Impostos não Especificados sobre o Rendimento, Multas e Outros Rendimentos Cuja Administração não Pertença a Outro Serviço.
+Divisão do Imposto de Capitais e de Impostos não Especificados sobre o Rendimento, Multas e Outros Rendimentos Cuja Administração não Pertença a Outro Serviço.
 
 d) 4.ª Direcção de Serviços:
 
-##### Divisão da Sisa e do Imposto de Mais-Valias;
+Divisão da Sisa e do Imposto de Mais-Valias;
 
-##### Divisão do Imposto sobre as Sucessões e Doações.
+Divisão do Imposto sobre as Sucessões e Doações.
 
 e) 5.ª Direcção de Serviços:
 
-##### Divisão do Imposto de Transacções sobre as Mercadorias;
+Divisão do Imposto de Transacções sobre as Mercadorias;
 
-##### Divisão do Imposto de Transacções sobre a Prestação de Serviços.
+Divisão do Imposto de Transacções sobre a Prestação de Serviços.
 
 f) 6.ª Direcção de Serviços:
 
-##### Divisão do Imposto do Selo;
+Divisão do Imposto do Selo;
 
-##### Divisão do Imposto sobre Veículos, Impostos Rodoviários e Outros Impostos Indirectos não Especificados;
+Divisão do Imposto sobre Veículos, Impostos Rodoviários e Outros Impostos Indirectos não Especificados;
 
-##### Divisão da Taxa Militar.
+Divisão da Taxa Militar.
 
 g) 7.ª Direcção de Serviços:
 
-##### Divisão de Benefícios Fiscais;
+Divisão de Benefícios Fiscais;
 
-##### Divisão das Relações Fiscais Internacionais.
+Divisão das Relações Fiscais Internacionais.
 
 h) 8.ª Direcção de Serviços:
 
-##### Divisão de Avaliações da Propriedade Rústica;
+Divisão de Avaliações da Propriedade Rústica;
 
-##### Divisão de Avaliações da Propriedade Urbana.
+Divisão de Avaliações da Propriedade Urbana.
 
 ###### Artigo 4.º — (Atribuições)
 
@@ -2040,25 +2150,25 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação, salvo 
 
 Presidência do Conselho de Ministros, Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 12 de Maio de 1983.**
+Promulgado em 12 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 13 de Maio de 1983.**
+Referendado em 13 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/11601/00200056.pdf))](https://files.diariodarepublica.pt/1s/1983/05/11601/00200056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/11601/00200056.pdf)
 
 MAPA II
 
 Cursos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/11601/00200056.pdf))](https://files.diariodarepublica.pt/1s/1983/05/11601/00200056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/11601/00200056.pdf)
 
 MAPA III
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 302/1973, 1º Suplemento, Série I de 1973-12-31
   number: '302'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2568-(40) a 2568-(41)
   pdf_url: https://files.diariodarepublica.pt/1s/1973/12/30201/00400041.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/962-1973-218132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T04:19:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1935d1c16546a9dc5f730d3cf2f417747975d3a3d608461eefb7dc7f375ec74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b49d5cf47a66adc5cc3af08e9b8ebd2f28709c3d49829f7c6d43b8b49e8b18b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:19:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:19:15Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +97,13 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Administ
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 375.º «Deslocações de pessoal»:
+Artigo 375.º «Deslocações de pessoal»:
 
 N.º 2) «Ajudas de custo e subsídios inerentes às deslocações fora da província»:
 
 Alínea a) «A pagar na metrópole» ... 300000$00
 
-###### Artigo 376.º «Diversas despesas»:
+Artigo 376.º «Diversas despesas»:
 
 N.º 25) «Tratamento de doentes pobres, incluindo transportes»:
 
@@ -113,7 +117,7 @@ Polícia de Segurança Pública
 
 Despesas com o pessoal:
 
-###### Artigo 191.º «Remunerações certas ao pessoal em exercício»:
+Artigo 191.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
@@ -125,7 +129,7 @@ Serviços de Geologia e Minas
 
 Encargos administrativos:
 
-###### Artigo 348.º «Duplicação de vencimentos» ... 300000$00
+Artigo 348.º «Duplicação de vencimentos» ... 300000$00
 
 3) Reforçar, com a importância de 2300000$00, a verba da capítulo 10.º, artigo 3000.º, n.º 38, alínea a) «Encargos gerais - Diversas despesas - Despesas com assistência clínica, tratamento e internamento de casos de tuberculose, cancro, alienação mental e lepra em hospitais, manicómios, casas de saúde e sanatórios de funcionários civis do activo, aposentados e operários do Estado e de pobres das províncias ultramarinas - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral do Estado Português de Moçambique para o ano económico de 1973, tomando como contrapartida disponibilidades do capítulo 5.º, artigo 1175.º, n.º 1, alínea a) «Serviços de Finanças - Direcção Provincial dos Serviços de Finanças - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da mesma tabela de despesa;
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/05/10900/08660868.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/269-1978-295871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T05:37:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30f4bdb0130cae8baf5e9d4afbfb5a37e3db049c0141b2395236373a3434df1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0695b3f686b76256f96ac94bd7f90e751d0521d843765741dba3a25c2733ff27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:37:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arqueologia
+- Comissão Organizadora
+- Direção Geral do Património Cultural
+- Instituto de Salvaguarda do Património Cultural e Natural
+- Investigação Científica e Tecnológica
+- Património Arqueológico
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:358173:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382008:por
+  label: Alterado o art. 12.º e o Modelo de Impresso anexo e rectificado a al. d) do art. 13.º, pela PORT.195/79.1979.04.24.PCM
+    DR.IS-A [163]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/195-1979-382008
+  date: '1979-04-24'
+- type: repealed_by
+  target: pt:dre:358173:por
+  label: "Revogada pelo DEC LEI.270/99.1999.07.15.MC DR.IS-A [163]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-1999-358173
+  date: '1999-07-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:37:05Z'
   warnings: []
   errors: []
 ---
@@ -98,31 +116,31 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura,
 
 REGULAMENTO DE TRABALHOS ARQUEOLÓGICOS
 
-###### Artigo 1.º - 1 - Os pedidos de autorização para execução de quaisquer trabalhos arqueológicos em imóveis classificados ou nas respectivas zonas de protecção, ou em imóveis não classificados mas de interesse arqueológico, e bem assim de quaisquer trabalhos que visem achados com valor arqueológico, histórico ou artístico, devem ser apresentados na Secretaria de Estado da Cultura, através da Direcção-Geral do Património Cultural, em impresso próprio, de modelo anexo ao presente Regulamento.
+Artigo 1.º - 1 - Os pedidos de autorização para execução de quaisquer trabalhos arqueológicos em imóveis classificados ou nas respectivas zonas de protecção, ou em imóveis não classificados mas de interesse arqueológico, e bem assim de quaisquer trabalhos que visem achados com valor arqueológico, histórico ou artístico, devem ser apresentados na Secretaria de Estado da Cultura, através da Direcção-Geral do Património Cultural, em impresso próprio, de modelo anexo ao presente Regulamento.
 
 2 - A apresentação dos pedidos será efectuada, pelo menos, noventa dias antes da data prevista para o início da campanha, salvo quando os trabalhos revistam carácter de justificada urgência.
 
-###### Art. 2.º Quando a propriedade do imóvel ou imóveis em que se pretende efectuar os trabalhos couber ao Estado ou a outras pessoas colectivas de direito público, competirá à Direcção-Geral do Património Cultural realizar oficiosamente as diligências tendentes à obtenção do acordo das entidades competentes.
+Art. 2.º Quando a propriedade do imóvel ou imóveis em que se pretende efectuar os trabalhos couber ao Estado ou a outras pessoas colectivas de direito público, competirá à Direcção-Geral do Património Cultural realizar oficiosamente as diligências tendentes à obtenção do acordo das entidades competentes.
 
-###### Art. 3.º - 1 - A Direcção-Geral do Património Cultural instruirá o processo com os elementos que habilitem a Comissão Organizadora do Instituto de Salvaguarda do Património Cultural e Natural a pronunciar-se sobre a idoneidade dos requerentes e promoverá que a ele sejam juntos os termos de responsabilidade havidos por necessários.
+Art. 3.º - 1 - A Direcção-Geral do Património Cultural instruirá o processo com os elementos que habilitem a Comissão Organizadora do Instituto de Salvaguarda do Património Cultural e Natural a pronunciar-se sobre a idoneidade dos requerentes e promoverá que a ele sejam juntos os termos de responsabilidade havidos por necessários.
 
 2 - Tratando-se de pedido para prosseguimento de trabalhos já anteriormente autorizados, o processo será instruído com o relatório a que se referem os artigos 12.º e 13.º do presente Regulamento.
 
-###### Art. 4.º Remetido o processo à Comissão Organizadora do Instituto de Salvaguarda do Património Cultural e Natural, este emitirá o seu parecer dentro do prazo máximo de sessenta dias.
+Art. 4.º Remetido o processo à Comissão Organizadora do Instituto de Salvaguarda do Património Cultural e Natural, este emitirá o seu parecer dentro do prazo máximo de sessenta dias.
 
-###### Art. 5.º - 1 - A Comissão Organizadora do Instituto de Salvaguarda do Património Cultural e Natural deverá apreciar o interesse e oportunidade dos trabalhos, a idoneidade dos requerentes e os meios financeiros, científicos e técnicos de que dispõem para a realização daqueles, e bem assim pronunciar-se sobre a publicação dos resultados da campanha e sobre as disposições a adoptar para conservação dos monumentos e achados.
+Art. 5.º - 1 - A Comissão Organizadora do Instituto de Salvaguarda do Património Cultural e Natural deverá apreciar o interesse e oportunidade dos trabalhos, a idoneidade dos requerentes e os meios financeiros, científicos e técnicos de que dispõem para a realização daqueles, e bem assim pronunciar-se sobre a publicação dos resultados da campanha e sobre as disposições a adoptar para conservação dos monumentos e achados.
 
 2 - A Comissão fixará ainda em cada caso os condicionalismos especiais que entender necessários para melhor execução dos trabalhos.
 
-###### Art. 6.º Salvo caso de manifesta impossibilidade, a Comissão deverá considerar os pedidos de autorização no âmbito dos planos nacionais de escavações e trabalhos arqueológicos.
+Art. 6.º Salvo caso de manifesta impossibilidade, a Comissão deverá considerar os pedidos de autorização no âmbito dos planos nacionais de escavações e trabalhos arqueológicos.
 
-###### Art. 7.º - 1 - As autorizações são válidas para o ano civil a que respeita a sua concessão.
+Art. 7.º - 1 - As autorizações são válidas para o ano civil a que respeita a sua concessão.
 
 2 - A aceitação da autorização concedida envolve a de todas as condições impostas pelo presente Regulamento e das especialmente fixadas pelo despacho que tiver recaído sobre o parecer da Comissão.
 
-###### Art. 8.º Salvo motivo que a Comissão Organizadora do Instituto de Salvaguarda do Património Cultural e Natural considere justificado, não serão concedidas ou renovadas autorizações àqueles que, em relação a trabalhos efectuados anteriormente, não hajam cumprido as condições a que se refere o n.º 2 do artigo anterior.
+Art. 8.º Salvo motivo que a Comissão Organizadora do Instituto de Salvaguarda do Património Cultural e Natural considere justificado, não serão concedidas ou renovadas autorizações àqueles que, em relação a trabalhos efectuados anteriormente, não hajam cumprido as condições a que se refere o n.º 2 do artigo anterior.
 
-###### Art. 9.º As autorizações concedidas poderão em qualquer momento ser canceladas por determinação do Secretário de Estado da Cultura, sobre proposta da Comissão Organizadora do Instituto de Salvaguarda do Património Cultural e Natural, desde que se verifique:
+Art. 9.º As autorizações concedidas poderão em qualquer momento ser canceladas por determinação do Secretário de Estado da Cultura, sobre proposta da Comissão Organizadora do Instituto de Salvaguarda do Património Cultural e Natural, desde que se verifique:
 
 a) Que os trabalhos não estão a ser executados com perfeita observância das disposições do presente Regulamento, das condições fixadas para o caso ou dos adequados preceitos técnicos;
 
@@ -134,21 +152,21 @@ d) Que, dada a importância excepcional dos resultados obtidos ou dos monumentos
 
 e) Que por qualquer outra circunstância é inconveniente a continuação dos trabalhos.
 
-###### Art. 10.º - 1 - Os trabalhos devem ser efectuados sob a imediata orientação do arqueólogo a quem tiver sido concedida a autorização ou que for designado como responsável, o qual não poderá transferir para outrem os encargos da direcção da campanha sem prévio consentimento do Secretário de Estado da Cultura, ouvida a Comissão Organizadora do Instituto de Salvaguarda do Património Cultural e Natural.
+Art. 10.º - 1 - Os trabalhos devem ser efectuados sob a imediata orientação do arqueólogo a quem tiver sido concedida a autorização ou que for designado como responsável, o qual não poderá transferir para outrem os encargos da direcção da campanha sem prévio consentimento do Secretário de Estado da Cultura, ouvida a Comissão Organizadora do Instituto de Salvaguarda do Património Cultural e Natural.
 
 2 - O arqueólogo responsável pela direcção dos trabalhos dispensará a estes assistência efectiva e continuada e será considerado, durante a realização da campanha, fiel depositário do espólio recolhido, bem como do material de trabalho ou estudo que lhe tenha sido confiado por serviços oficiais.
 
-###### Art. 11.º - 1 - A execução dos trabalhos poderá ser acompanhada por delegados da Comissão Organizadora do Instituto de Salvaguarda do Património Cultural e Natural sempre que for superiormente determinado, sem prejuízo das atribuições dos serviços de inspecção.
+Art. 11.º - 1 - A execução dos trabalhos poderá ser acompanhada por delegados da Comissão Organizadora do Instituto de Salvaguarda do Património Cultural e Natural sempre que for superiormente determinado, sem prejuízo das atribuições dos serviços de inspecção.
 
 2 - Quando a direcção dos trabalhos competir a arqueólogos estrangeiros ou houver participação predominante destes, será obrigatório o disposto na primeira parte do número anterior.
 
 3 - Em qualquer das hipóteses previstas no número antecedente o representante da Comissão servirá de elemento de ligação com as competentes autoridades portuguesas e assegurará que do espólio recolhido não sejam levadas a qualquer título, sem as indispensáveis autorizações, peças para laboratórios, institutos, museus ou colecções estrangeiras.
 
-###### Art. 12.º - 1 - O relatório dos trabalhos deve ser entregue na Direcção-Geral do Património Cultural dentro do prazo máximo de noventa dias a contar da data em que tenham terminado os trabalhos de campo, não podendo, porém, ser excedido o limite de 31 de Dezembro do ano para que for concedida autorização.
+Art. 12.º - 1 - O relatório dos trabalhos deve ser entregue na Direcção-Geral do Património Cultural dentro do prazo máximo de noventa dias a contar da data em que tenham terminado os trabalhos de campo, não podendo, porém, ser excedido o limite de 31 de Dezembro do ano para que for concedida autorização.
 
 2 - O prazo referido no número anterior poderá ser prorrogado, a título vincadamente excepcional, mediante justificação que a Comissão considere procedente.
 
-###### Art. 13.º Do relatório a apresentar constarão os seguintes elementos:
+Art. 13.º Do relatório a apresentar constarão os seguintes elementos:
 
 a) Referência a trabalhos e publicações anteriores e às condições do local antes de iniciada a campanha;
 
@@ -166,13 +184,13 @@ g) Planta com indicação dos locais onde se projecta o prosseguimento dos traba
 
 h) Indicação sobre a forma prevista de publicação dos resultados parciais ou definitivos.
 
-###### Art. 14.º - 1 - Não é permitida, antes de apreciada pela Comissão Organizadora do Instituto de Salvaguarda do Património Cultural e Natural, a publicação do relatório a que se referem os números anteriores.
+Art. 14.º - 1 - Não é permitida, antes de apreciada pela Comissão Organizadora do Instituto de Salvaguarda do Património Cultural e Natural, a publicação do relatório a que se referem os números anteriores.
 
 2 - A Comissão poderá promover a publicação dos relatórios que revestirem especial interesse, desde que os autores dêem o seu acordo.
 
-###### Art. 15.º O material recolhido será entregue, a título precário, no museu para o efeito indicado pela Comissão e dentro do prazo por esta estabelecido.
+Art. 15.º O material recolhido será entregue, a título precário, no museu para o efeito indicado pela Comissão e dentro do prazo por esta estabelecido.
 
-###### Art. 16.º - 1 - A Comissão proporá ainda qual o museu em que os achados arqueológicos deverão ser definitivamente incorporados.
+Art. 16.º - 1 - A Comissão proporá ainda qual o museu em que os achados arqueológicos deverão ser definitivamente incorporados.
 
 2 - Na indicação a que se refere o número anterior ter-se-á em vista, sem prejuízo da mais conveniente valorização dos museus nacionais, o enriquecimento dos museus da região em que se situam as estações exploradas, desde que estes ofereçam as necessárias condições.
 
@@ -332,4 +350,4 @@ Observações
 
 (nota 10) Indicação sobre a forma como se projecta a publicação dos resultados.
 
-**O Secretário de Estado da Cultura, António Fernando Marques Ribeiro Reis.**
+O Secretário de Estado da Cultura, António Fernando Marques Ribeiro Reis.

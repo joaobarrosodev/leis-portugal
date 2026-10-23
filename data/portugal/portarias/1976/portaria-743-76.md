@@ -47,40 +47,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/743-1976-407692
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T05:12:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6dc94af50cd662f430381cedb90fbe954f2f8a0ecc9dbbd5c57472f97497965d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2aea78ae2f5565f2225edf182cc2ee42354c3db54cec7b8a49bd5ba796ba9a1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:12:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Medicamento
+- Política de Preços
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:458261:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:250463:por
+  label: "Alterado o preço dos produtos constantes da tabela anexa e que fazem parte do prontuário dos preços dos medicamentos\
+    \ e outros produtos de uso comum, incluído no Regimento geral dos Preços dos medicamentos,cuja nova versão foi aprovada\
+    \ pelo presente diploma, pela PORT.405/77.07.07.1977.MAS, DR.IS [155] de 07.07.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/405-1977-250463
+  date: '1977-07-07'
+- type: amended_by
+  target: pt:dre:446162:por
+  label: Alterados os n.ºs 2.º e 3.º do Regimento Geral dos Preços dos Medicamentos e Manipulações, anexo à presente Portaria,
+    pelo(a) Portaria n.º 137/78 - Diário da República n.º 59/1978, Série I de 1978-03-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/137-1978-446162
+  date: '1978-03-11'
+- type: amended_by
+  target: pt:dre:329461:por
+  label: Aprovadas as alterações ao Regimento Geral dos Preços dos Medicamentos e Manipulações, aprovado pela presente portaria,
+    pelo(a) Portaria n.º 564/78 - Diário da República n.º 215/1978, Série I de 1978-09-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/564-1978-329461
+  date: '1978-09-18'
+- type: amended_by
+  target: pt:dre:381116:por
+  label: "Aprovadas alterações ao regimento aprovado pela Portaria 35/70, de 14 de Janeiro, na redacção do presente diploma,\
+    \ pela PORT.287/79.20.06.1979.MAS, DR.IS [140] de 20.06.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/287-1979-381116
+  date: '1979-06-20'
+- type: amended_by
+  target: pt:dre:458261:por
+  label: "Aprovadas as alterações ao Regimento Geral dos Preços de Medicamentos e Manipulações, aprovado pela Portaria n.º\
+    \ 35/70, de 14 de Janeiro, na redacção do presente diploma, pela PORT.986/80.14.11.1980.MAS, DR.IS [264] de 14.11.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/986-1980-458261
+  date: '1980-11-14'
+- type: cites
+  target: pt:dre:210375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:140338:por
+  label: Rectificada pela DECL.DD8066.04.03.1977.PCM, DR.IS [53] de 04.03.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-140338
+  date: '1977-03-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:12:01Z'
   warnings: []
   errors: []
 ---
@@ -323,7 +379,7 @@ Serviço nocturno, por cada chamada, além do custo total dos medicamentos, mais
 
 Prontuário dos preços dos medicamentos e outros produtos de uso comum
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/29200/27532756.pdf))](https://files.diariodarepublica.pt/1s/1976/12/29200/27532756.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/29200/27532756.pdf)
 
 Lista de medicamentos de preço não fixado neste Regimento e cuja existência é obrigatória nas farmácias
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/04/08800/15301532.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/27-1987-666295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f11f2bdc537b102b5deac13828a05decdb9784f1eab1954d9a37d17abc08a0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7aa8e074260a9fcfbda1108ef0ee1beea4ed740658eec85bffc5491ff36f89e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho do Ministério dos Negócios Estrangeiros
+- Ministério dos Negócios Estrangeiros
+- Regulamento do Conselho do Ministério dos Negócios Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:515471:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:436270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628060:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:515471:por
+  label: "Revogado pelo DEC LEI.48/94.1994.02.24.MNE, DR.IS-A [46]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1994-515471
+  date: '1994-02-24'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:36Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +126,13 @@ Assim:
 
 O Governo decreta, ao abrigo do n.º 1 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, e nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento do Conselho do Ministério dos Negócios Estrangeiros, que fica a fazer parte integrante deste diploma.
+Artigo 1.º É aprovado o Regulamento do Conselho do Ministério dos Negócios Estrangeiros, que fica a fazer parte integrante deste diploma.
 
-###### Art. 2.º - 1 - A primeira eleição dos vogais do conselho do Ministério após a entrada em vigor do presente diploma efectuar-se-á tão cedo quanto possível e o correspondente mandato destes vogais terminará em 31 de Dezembro de 1988.
+Art. 2.º - 1 - A primeira eleição dos vogais do conselho do Ministério após a entrada em vigor do presente diploma efectuar-se-á tão cedo quanto possível e o correspondente mandato destes vogais terminará em 31 de Dezembro de 1988.
 
 2 - Os actuais vogais eleitos permanecem em funções até à eleição dos novos vogais.
 
-###### Art. 3.º Ficam revogados os artigos 31.º, 32.º, 33.º e 34.º do Regulamento do Ministério dos Negócios Estrangeiros, aprovado pelo [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro de 1966, com a redacção dada pelo artigo único do [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), de 20 de Fevereiro, e pelo artigo 2.º do [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), de 13 de Outubro.
+Art. 3.º Ficam revogados os artigos 31.º, 32.º, 33.º e 34.º do Regulamento do Ministério dos Negócios Estrangeiros, aprovado pelo [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro de 1966, com a redacção dada pelo artigo único do [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), de 20 de Fevereiro, e pelo artigo 2.º do [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), de 13 de Outubro.
 
 Regulamento do Conselho do Ministério dos Negócios Estrangeiros
 
@@ -108,17 +140,17 @@ I
 
 Disposições comuns
 
-###### Artigo 1.º - 1 - Junto do secretário-geral funciona o conselho do Ministério, como órgão consultivo.
+Artigo 1.º - 1 - Junto do secretário-geral funciona o conselho do Ministério, como órgão consultivo.
 
 2 - O conselho do Ministério compõe-se dos sectores relativos ao pessoal do serviço diplomático, pessoal técnico superior e técnico, pessoal técnico-profissional e administrativo e pessoal operário e auxiliar.
 
 3 - Os sectores do conselho do Ministério reúnem-se separadamente.
 
-###### Art. 2.º - 1 - O conselho do Ministério é presidido pelo secretário-geral e, na sua ausência ou impedimento, pelo membro por inerência mais antigo na categoria superior.
+Art. 2.º - 1 - O conselho do Ministério é presidido pelo secretário-geral e, na sua ausência ou impedimento, pelo membro por inerência mais antigo na categoria superior.
 
 2 - Compete ao presidente estabelecer a ordem do dia, bem como convocar e dirigir as reuniões.
 
-###### Art. 3.º - 1 - Em cada sector do Conselho haverá um secretário, sem direito a voto, designado pelo secretário-geral de entre os funcionários não pertencentes ao conselho, podendo exercer as funções um funcionário diferente para cada sector.
+Art. 3.º - 1 - Em cada sector do Conselho haverá um secretário, sem direito a voto, designado pelo secretário-geral de entre os funcionários não pertencentes ao conselho, podendo exercer as funções um funcionário diferente para cada sector.
 
 2 - Compete ao secretário:
 
@@ -130,9 +162,9 @@ c) Assegurar o expediente do conselho.
 
 3 - O secretário pode ser coadjuvado por um núcleo de apoio.
 
-###### Art. 4.º Incumbe aos presentes nas reuniões guardar sigilo sobre o teor, sentido e autoria das intervenções, bem como sobre o resultado das deliberações, salvo se for decidida a sua divulgação.
+Art. 4.º Incumbe aos presentes nas reuniões guardar sigilo sobre o teor, sentido e autoria das intervenções, bem como sobre o resultado das deliberações, salvo se for decidida a sua divulgação.
 
-###### Art. 5.º - 1 - A eleição dos funcionários que fazem parte do conselho do Ministério faz-se por sufrágio secreto e universal.
+Art. 5.º - 1 - A eleição dos funcionários que fazem parte do conselho do Ministério faz-se por sufrágio secreto e universal.
 
 2 - São elegíveis apenas os funcionários que pertençam ao quadro e se encontrem colocados nos serviços internos do Ministério.
 
@@ -140,19 +172,19 @@ c) Assegurar o expediente do conselho.
 
 4 - Aos eleitores é facultado o exercício do direito de voto por correspondência.
 
-###### Art. 6.º - 1 - As eleições têm lugar dentro dos 30 dias anteriores à cessação dos cargos ou nos primeiros 60 dias posteriores à ocorrência da vacatura.
+Art. 6.º - 1 - As eleições têm lugar dentro dos 30 dias anteriores à cessação dos cargos ou nos primeiros 60 dias posteriores à ocorrência da vacatura.
 
 2 - O secretário-geral anuncia a data da eleição com a antecedência mínima de 45 dias.
 
-###### Art. 7.º - 1 - O mandato dos vogais eleitos tem a duração de dois anos.
+Art. 7.º - 1 - O mandato dos vogais eleitos tem a duração de dois anos.
 
 2 - As eleições serão organizadas por forma que o mandato se inicie no mês de Janeiro.
 
-###### Art. 8.º Sem prejuízo do disposto nos artigos anteriores, os trâmites do processo e contencioso eleitoral serão estabelecidos em regulamento aprovado por despacho ministerial e publicado no Diário da República.
+Art. 8.º Sem prejuízo do disposto nos artigos anteriores, os trâmites do processo e contencioso eleitoral serão estabelecidos em regulamento aprovado por despacho ministerial e publicado no Diário da República.
 
-###### Art. 9.º Em caso de ausência ou impedimento, os membros por inerência e os vogais eleitos do conselho do Ministério são substituídos, respectivamente, pelos substitutos legais e pelos suplentes.
+Art. 9.º Em caso de ausência ou impedimento, os membros por inerência e os vogais eleitos do conselho do Ministério são substituídos, respectivamente, pelos substitutos legais e pelos suplentes.
 
-###### Art. 10.º Os vogais eleitos perdem o mandato:
+Art. 10.º Os vogais eleitos perdem o mandato:
 
 a) Por renúncia;
 
@@ -162,13 +194,13 @@ c) Por inobservância do dever de sigilo;
 
 d) Quando forem promovidos a categoria diferente daquela ou daquelas que representam, forem transferidos para os serviços externos ou designados para o exercício de funções no estrangeiro por período superior a 90 dias ou deixarem de pertencer ao quadro.
 
-###### Art. 11.º - 1 - O conselho do Ministério reúne sempre que convocado pelo presidente.
+Art. 11.º - 1 - O conselho do Ministério reúne sempre que convocado pelo presidente.
 
 2 - Na convocação devem mencionar-se especificadamente os assuntos a tratar e juntar-se a documentação e os elementos informativos que habilitem a uma participação efectiva.
 
 3 - O Ministro é informado da ordem do dia e da data das reuniões.
 
-###### Art. 12.º - 1 - Os sectores do conselho não podem iniciar os seus trabalhos sem que esteja presente a maioria do número legal dos seus membros.
+Art. 12.º - 1 - Os sectores do conselho não podem iniciar os seus trabalhos sem que esteja presente a maioria do número legal dos seus membros.
 
 2 - As deliberações são tomadas à pluralidade de votos dos membros presentes e votantes quando não for exigido número superior.
 
@@ -178,7 +210,7 @@ d) Quando forem promovidos a categoria diferente daquela ou daquelas que represe
 
 5 - Nenhum membro pode escusar-se de votar, abstendo-se em assunto tratado em reunião a que assista, salvo estando inibido de o fazer.
 
-###### Art. 13.º - 1 - A votação é nominal, salvo deliberação em contrário tomada por maioria de dois terços dos membros presentes.
+Art. 13.º - 1 - A votação é nominal, salvo deliberação em contrário tomada por maioria de dois terços dos membros presentes.
 
 2 - Quando haja empate em votação por escrutínio secreto, proceder-se-á imediatamente a nova votação e, se o empate se mantiver, ficará o assunto adiado para a reunião seguinte; mas, se na primeira votação que nesta se realizar ainda houver empate, proceder-se-á a votação nominal.
 
@@ -186,7 +218,7 @@ d) Quando forem promovidos a categoria diferente daquela ou daquelas que represe
 
 4 - A votação por escrutínio secreto pode ser precedida de discussão; na votação nominal pode haver justificação de voto.
 
-###### Art. 14.º - 1 - A acta da reunião é redigida e subscrita pelo secretário e submetida a aprovação na reunião seguinte, salvo se for decidido que seja aprovada no final da reunião a que disser respeito.
+Art. 14.º - 1 - A acta da reunião é redigida e subscrita pelo secretário e submetida a aprovação na reunião seguinte, salvo se for decidido que seja aprovada no final da reunião a que disser respeito.
 
 2 - A acta é assinada pelo presidente após a sua aprovação.
 
@@ -196,11 +228,11 @@ II
 
 Disposições sobre o sector relativo ao pessoal do serviço diplomático
 
-###### Art. 15.º - 1 - O sector relativo ao pessoal do serviço diplomático é constituído pelo secretário-geral, secretário-geral-adjunto, directores-gerais e inspector diplomático e consular, bem como por oito representantes do pessoal do serviço diplomático.
+Art. 15.º - 1 - O sector relativo ao pessoal do serviço diplomático é constituído pelo secretário-geral, secretário-geral-adjunto, directores-gerais e inspector diplomático e consular, bem como por oito representantes do pessoal do serviço diplomático.
 
 2 - Os representantes do pessoal do serviço diplomático são três funcionários com categoria de embaixador ou de ministro plenipotenciário, dois conselheiros de embaixada e três secretários de embaixada, um dos quais, pelo menos, será primeiro-secretário, eleito, respectivamente, pelos funcionários das correspondentes categorias que se encontrem ao serviço.
 
-###### Art. 16.º Compete ao sector relativo ao pessoal do serviço diplomático:
+Art. 16.º Compete ao sector relativo ao pessoal do serviço diplomático:
 
 a) Pronunciar-se sobre a aptidão dos adidos de embaixada para efeito de ingresso definitivo no serviço diplomático;
 
@@ -220,20 +252,20 @@ III
 
 Disposições sobre os sectores relativos ao pessoal técnico superior e técnico, pessoal técnico-profissional e administrativo e pessoal operário e auxiliar.
 
-###### Art. 17.º - 1 - Os sectores relativos ao pessoal técnico superior e técnico, pessoal técnico-profissional e administrativo e pessoal operário e auxiliar são constituídos pelo secretário-geral, secretário-geral-adjunto, director-geral do Pessoal e, respectivamente, dois, três e dois representantes eleitos pelos funcionários de cada sector.
+Art. 17.º - 1 - Os sectores relativos ao pessoal técnico superior e técnico, pessoal técnico-profissional e administrativo e pessoal operário e auxiliar são constituídos pelo secretário-geral, secretário-geral-adjunto, director-geral do Pessoal e, respectivamente, dois, três e dois representantes eleitos pelos funcionários de cada sector.
 
 2 - Consoante a natureza dos assuntos a tratar, o presidente pode convocar outros dirigentes, que participarão nas reuniões com direito de voto.
 
-###### Art. 18.º Compete aos sectores mencionados no artigo anterior pronunciarem-se sobre as questões que lhes sejam submetidas por intermédio do presidente, designadamente sobre os critérios de planeamento da colocação do respectivo pessoal no estrangeiro.
+Art. 18.º Compete aos sectores mencionados no artigo anterior pronunciarem-se sobre as questões que lhes sejam submetidas por intermédio do presidente, designadamente sobre os critérios de planeamento da colocação do respectivo pessoal no estrangeiro.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Pedro José Rodrigues Pires de Miranda.
 
-**Promulgado em 7 de Abril de 1987.**
+Promulgado em 7 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Abril de 1987.**
+Referendado em 8 de Abril de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

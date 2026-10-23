@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/12/297a00/72247237.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/239/2004/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2004-219564
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f42effe9b24e96e645833a2d93a9ba009634eabe46ce21976824fa2c65474c01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77be70d6d84e616279df371d1c17cad86363b8d264c9c1c97cd8c145faf41fb4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,48 @@ reuse:
 subjects:
 - Autoridade Nacional
 - Capital Social
-- Gestão Financeira
 - Criação de Empresas
 - Definição de Competências
 - Empresa Pública
 - EP-Estradas de Portugal
 - Estatuto
-- Setor Empresarial do Estado
+- Gestão de Recursos Humanos
 - Gestão do Património
-- Integração de Trabalhadores
+- Gestão Financeira
 - Instituto das Estradas de Portugal
-- Orgânica
+- Integração de Trabalhadores
 - Ministro das Finanças e da Administração Pública
 - Ministro das Obras Públicas Transportes e Comunicações
-- Gestão de Recursos Humanos
+- Orgânica
+- Setor Empresarial do Estado
 relationships:
 - type: amended_by
   target: pt:dre:629168:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Determinado que, sem prejuízo do disposto na Base XI, nomeadamente nos seus n.ºs 14 e 16 das bases de concessão\
+    \ anexas ao Dec Lei 294/97, de 24-Out que revê o contrato de concessão da Brisa, os encargos com as comparticipações financeiras\
+    \ devidas a essas empresa ao abrigo daquele contrato de concessão passem a ser a partir de 2005 da responsabilidade do\
+    \ Instituto das Estradas de Portugal, denominado E.P.–Estradas de Portugal, E.P.E. cujos Estatutos foram aprovados pelo\
+    \ presente diploma, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:521020:por
+  label: "Determinada a sucessão do Instituto de Infra-Estruturas Rodoviárias, I.P., (INTR, I.P.) nas atribuições da EP -\
+    \ Estradas de Portugal, em matéria de supervisão das infra-estruturas rodoviárias, constantes do presente diploma, pelo\
+    \ DEC LEI.148/2007.27.04.2007.MOPTC, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2007-521020
+  date: '2007-04-27'
+- type: amended_by
+  target: pt:dre:629168:por
+  label: "Transformada a E.P. - Estradas de Portugal, EPE em sociedade anónima de capitais exclusivamente públicos, primeiramente\
+    \ Junta Autónoma das Estradas, criada pelo Dec 13969 de 20-Jul 1927, transformada em EPE pelo presente diploma, revogado\
+    \ a partir de 12.11.2007 pelo DEC LEI.374/2007.07.11.2007.MOPTC, DR.IS [214] de 07.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-2007-629168
+  date: '2007-11-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/199/2004/08/18/p/dre
   label: null
@@ -107,16 +130,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
+- type: cites
+  target: pt:dre:393003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
 article_structure:
   article_count: 48
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:58Z'
   warnings: []
   errors: []
 ---
@@ -519,15 +562,15 @@ O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 7 de Outubro de 2004. - Álvaro Roque de Pinho Bissaya Barreto - Paulo Sacadura Cabral Portas - António José de Castro Bagão Félix - Daniel Viegas Sanches - José Pedro Aguiar Branco - José Luís Fazenda Arnaut Duarte - António Luís Guerra Nunes Mexia - Luís José de Mello e Castro Guedes.
 
-**Promulgado em 30 de Novembro de 2004.**
+Promulgado em 30 de Novembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Dezembro de 2004.**
+Referendado em 10 de Dezembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO — ESTATUTOS DA EP - ESTRADAS DE PORTUGAL, E. P. E.
 

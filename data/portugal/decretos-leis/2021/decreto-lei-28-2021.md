@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/04/07600/0000800013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/28/2021/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d472046d8e7b648737a2a826d93818d0ec730f42653ba8a391bb786328a9327b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ada3301e7fa1284e60117262c22d037da4467c9f9be17e09545f57901e980ba5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Açores
 - Aproximação das Legislações
-- Região Autónoma
-- Empresa
-- Publicidade
-- Energia Elétrica
-- Multa
-- Fundação
+- ASAE
+- Autarquia Local
+- Comissão CE
 - Consumo de Energia
 - Contra-ordenação
 - Definição de Competências
+- Direção Geral de Energia e Geologia
+- Empresa
+- Energia Elétrica
 - Equipamento Eléctrico
 - Equipamento Eletrónico
-- União Europeia
 - Especificação Técnica
 - Etiquetagem
 - Fabrico Industrial
-- Direção Geral de Energia e Geologia
-- Comissão CE
-- ASAE
-- Livre Circulação de Mercadorias
+- Fundação
 - Informação do Consumidor
+- Livre Circulação de Mercadorias
 - Madeira.região Autónoma
+- Multa
+- Publicidade
 - Receita Própria
+- Região Autónoma
 - Regime do Registo Nacional de Pessoas Colectivas
 - Regulamento CE
 - Sanção
-- Açores
-- Autarquia Local
+- União Europeia
 relationships:
 - type: cites
   target: celex:32008R0765
@@ -119,16 +119,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:15Z'
   warnings: []
   errors: []
 ---
@@ -355,12 +371,14 @@ b) Às pequenas empresas, os municípios e as restantes pessoas coletivas de dir
 
 Visto e aprovado em Conselho de Ministros de 18 de março de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Augusto Ernesto Santos Silva - João Rodrigo Reis Carvalho Leão - Alexandra Ludomila Ribeiro Fernandes Leitão - João Saldanha de Azevedo Galamba.
 
-**Promulgado em 13 de abril de 2021.**
+Promulgado em 13 de abril de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de abril de 2021.**
+Referendado em 14 de abril de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114151001

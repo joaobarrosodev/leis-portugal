@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/10900/0001700028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/45/2021/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2021-164712112
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3fa325231d7e2fda4ff0250384cd48863066ed64b7f1163c2e159c1b70ec31e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 531305c8628cf5d72754e4b1c58cd642e945cf4021d298d49aa45ddd652e0f05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
+- Apoio ao Investimento
 - Autoridade Tributária e Aduaneira
-- Financiamento
 - Cartão de Cidadão
 - Certificação Electrónica
-- Instituto do Cinema e do Audiovisual
+- Chave Móvel Digital
+- Cinema
 - Concurso
 - Definição de Funções
-- Administração Pública
-- Fiscalização
-- Apoio ao Investimento
-- Ministério da Cultura
 - Direcção Geral das Artes
+- Financiamento
+- Fiscalização
+- Instituto do Cinema e do Audiovisual
 - Internet
-- Sistema de Informação
-- Cinema
-- Segurança Social
-- Teatro
-- Chave Móvel Digital
+- Ministério da Cultura
 - Plataforma Eletrónica
+- Portal de Dados Abertos da Administração Pública
 - Portal ePortugal
 - Rede de Teatros e Cineteatros Portugueses
-- Portal de Dados Abertos da Administração Pública
+- Segurança Social
+- Sistema de Informação
+- Teatro
 relationships:
 - type: amended_by
   target: pt:dre:1159105698:por
@@ -124,16 +124,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/81/2019/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/81/2019/09/02/p/dre
+- type: cites
+  target: pt:dre:108051992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124346832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 34
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:40Z'
   warnings: []
   errors: []
 ---
@@ -576,12 +608,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de abril de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Graça Maria da Fonseca Caetano Gonçalves.
 
-**Promulgado em 27 de maio de 2021.**
+Promulgado em 27 de maio de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de maio de 2021.**
+Referendado em 28 de maio de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114283284

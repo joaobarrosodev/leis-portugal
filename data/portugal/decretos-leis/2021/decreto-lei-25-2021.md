@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/06100/0000800015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/25/2021/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2021-160422285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0523d15bb753f54dd2b0cf5465ace32fc40d15b13e097bd92682a888091b35a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2550b42912ccba98daac6dcd02a949a0eba7b1063c6762bc14668dfbd87b0ff2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Organização Territorial
-- Ordenamento do Território
-- Plano Director Municipal
-- Planeamento Urbano
+- Autarquia Local
 - Comissão de Coordenação e Desenvolvimento Regional
-- Publicitação
 - Medidas Preventivas
-- Política de Solos
+- Ordenamento do Território
+- Organização Territorial
+- Planeamento Urbano
 - Plano de Pormenor
 - Plano de Urbanização
+- Plano Director Municipal
 - Plano Regional de Ordenamento do Território
+- Política de Solos
+- Publicitação
 - Regime Jurídico
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:837135336:por
@@ -115,16 +115,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/277/2015/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/277/2015/09/10/p/dre
+- type: cites
+  target: pt:dre:124457181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144454578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153138207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70055492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70241308:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:06Z'
   warnings: []
   errors: []
 ---
@@ -185,7 +217,9 @@ Os artigos 29.º, 51.º, 72.º, 91.º, 121.º, 122.º, 134.º, 185.º, 191.º, 1
 
 6 - [...]
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - [...]
 
@@ -197,7 +231,9 @@ b) [...]
 
 3 - Na área abrangida pelas normas do plano territorial atualizado destinadas a salvaguardar situações de risco ou de especial fragilidade ambiental identificadas nos termos da alínea a) do número anterior, não se aplica o disposto no n.º 6 do artigo 48.º do Regime Jurídico da Urbanização e da Edificação, aprovado pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual, havendo nesse caso lugar à aplicação, com as devidas adaptações, dos n.os 4 e 5 do mesmo artigo, caso a incompatibilidade não resulte de instrumento de gestão territorial anterior, tendo presentes as limitações de aproveitamento decorrentes das características dos prédios em causa.
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - [...]
 
@@ -221,7 +257,9 @@ b) [...]
 
 11 - (Anterior n.º 9.)
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - A ratificação de disposições de plano diretor municipal implica a revogação ou a alteração das disposições constantes do programa setorial, especial ou regional em causa e dos respetivos elementos documentais, de modo a que traduzam a atualização da disciplina vigente.
 
@@ -235,7 +273,9 @@ b) [...]
 
 6 - Havendo ratificação total ou ocorrendo a nova aprovação a que se refere o número anterior, a câmara municipal procede à publicação do plano no Diário da República bem como ao seu depósito junto da Direção-Geral do Território, nos termos do disposto no n.º 8 do artigo 191.º e do n.º 1 do artigo 193.º
 
-###### Artigo 121.º — [...]
+Artigo 121.º
+
+[...]
 
 1 - [...]
 
@@ -251,7 +291,9 @@ c) Do disposto no n.º 9 do artigo 72.º
 
 4 - [...]
 
-###### Artigo 122.º — [...]
+Artigo 122.º
+
+[...]
 
 1 - [...]
 
@@ -269,7 +311,9 @@ e) Correção de erros materiais provenientes de divergências entre o ato origi
 
 3 - [...]
 
-###### Artigo 134.º — [...]
+Artigo 134.º
+
+[...]
 
 1 - [...]
 
@@ -289,7 +333,9 @@ e) Correção de erros materiais provenientes de divergências entre o ato origi
 
 9 - As medidas preventivas estabelecidas para garantir a elaboração, alteração ou revisão de programas especiais, caducam com a entrada em vigor da atualização dos planos de âmbito intermunicipal ou municipal preexistentes, nas áreas respetivamente abrangidas, não se aplicando o disposto na alínea c) do n.º 3 do artigo 141.º e suspendendo-se o respetivo prazo de vigência durante o prazo estabelecido para atualização do plano.
 
-###### Artigo 185.º — [...]
+Artigo 185.º
+
+[...]
 
 1 - [...]
 
@@ -333,7 +379,9 @@ n) [Anterior alínea l).]
 
 7 - [...]
 
-###### Artigo 191.º — [...]
+Artigo 191.º
+
+[...]
 
 1 - [...]
 
@@ -397,7 +445,9 @@ k) [...]
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 194.º — [...]
+Artigo 194.º
+
+[...]
 
 1 - Para efeitos do depósito de planos intermunicipais e municipais, assim como das respetivas alterações e revisões, e ainda de medidas preventivas, a assembleia intermunicipal ou a câmara municipal, conforme a natureza do plano aprovado, remete à Direção-Geral do Território uma coleção completa das peças escritas e gráficas que, nos termos do presente decreto-lei, constituem o conteúdo documental do instrumento de planeamento territorial, bem como cópia autenticada da deliberação da assembleia municipal que aprova o plano, o respetivo relatório ambiental, os pareceres emitidos nos termos do presente decreto-lei ou a ata da conferência procedimental, quando a eles houver lugar, e o relatório de ponderação dos resultados da discussão pública.
 
@@ -405,7 +455,9 @@ k) [...]
 
 3 - [...]
 
-###### Artigo 198.º — [...]
+Artigo 198.º
+
+[...]
 
 1 - O conteúdo dos planos especiais em vigor deve ser integrado no prazo e nas condições estabelecidas pelo artigo 78.º da lei de bases gerais da política pública de solos, do ordenamento do território e urbanismo, tendo por objeto as normas identificadas nos termos do n.º 2 do mesmo artigo, mediante revisão, alteração das disposições do plano territorial incompatíveis ou alteração por adaptação nos termos do n.º 2 do artigo 121.º
 
@@ -421,7 +473,9 @@ k) [...]
 
 7 - Sem prejuízo do disposto no número anterior, no prazo de um ano a partir do final do prazo estabelecido no n.º 1 do artigo 78.º da lei de bases gerais da política pública de solos, do ordenamento do território e urbanismo, devem ser aprovados programas especiais que revoguem os planos especiais ainda vigentes.
 
-###### Artigo 199.º — [...]
+Artigo 199.º
+
+[...]
 
 1 - [...]
 
@@ -435,7 +489,9 @@ k) [...]
 
 6 - Para os efeitos previstos no número anterior, a comissão de coordenação e desenvolvimento regional competente identifica as disposições objeto de suspensão, ouvido o município, podendo este, no prazo de 30 dias, indicar as áreas que já tenham sido objeto de classificação do solo e as que se encontrem abrangidas pela exceção prevista no n.º 3 do artigo 82.º da [Lei n.º 31/2014](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), de 30 de maio, na sua redação atual, ou demonstrar que o incumprimento decorreu de motivo que não lhe é imputável.
 
-###### Artigo 200.º — [...]
+Artigo 200.º
+
+[...]
 
 1 - Os planos setoriais expressamente previstos por lei e os planos regionais de ordenamento do território em vigor são equiparados, para todos os efeitos, aos programas setoriais e aos programas regionais, respetivamente.
 
@@ -453,12 +509,14 @@ k) [...]
 
 Visto e aprovado em Conselho de Ministros de 4 de março de 2021. - António Luís Santos da Costa - Alexandra Ludomila Ribeiro Fernandes Leitão - João Pedro Soeiro de Matos Fernandes - Ana Maria Pereira Abrunhosa.
 
-**Promulgado em 23 de março de 2021.**
+Promulgado em 23 de março de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de março de 2021.**
+Referendado em 23 de março de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114097916

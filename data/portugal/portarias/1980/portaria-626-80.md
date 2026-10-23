@@ -46,40 +46,121 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/626-1980-460861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa28c6dcf643d055feadd3943dc701e0c8e33812f8b353a1cffe01c8bd95defa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be0617a9c22a5debf82932f462dfeaf40e466d8257c7ea63216e59b79d4d37b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital de Joaquim Urbano
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:655701:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:546587:por
+  label: "Alterado o quadro de pessoal, na parte referente ao pessoal de enfermagem, pessoal operário e auxiliar pela PORT.1118/81.1981.12.31.MFP,DR.IS\
+    \ [300]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1118-1981-546587
+  date: '1981-12-31'
+- type: amended_by
+  target: pt:dre:318340:por
+  label: "Alterado o quadro de pessoal, na parte referente ao pessoal técnico superior, pessoal operário e auxiliar pela PORT.1320/82.1982.12.31.MFP,DR.IS\
+    \ [301]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1320-1982-318340
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:312628:por
+  label: "Alterado o quadro de pessoal, na parte referente ao pessoal de enfermagem pela PORT.344/83.1983.03.29.MFP,DR.IS\
+    \ [73]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/344-1983-312628
+  date: '1983-03-29'
+- type: amended_by
+  target: pt:dre:384226:por
+  label: "Alterado o quadro de pessoal, na parte referente ao pessoal dirigente e pessoal técnico superior pela PORT.330/84.1984.06.02.MFP,DR.IS\
+    \ [128]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/330-1984-384226
+  date: '1984-06-02'
+- type: amended_by
+  target: pt:dre:662320:por
+  label: "Alterado o quadro de pessoal, na parte referente ao pessoal técnico de diagnóstico e terapêutica pela PORT.210/87.1987.03.23.MF,DR.IS\
+    \ [68]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/210-1987-662320
+  date: '1987-03-23'
+- type: amended_by
+  target: pt:dre:287166:por
+  label: "Reestruturadas as carreiras referentes ao pessoal administrativo e pessoal operário pela PORT.150/88.1988.03.10.MF,DR.IS\
+    \ [58]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/150-1988-287166
+  date: '1988-03-10'
+- type: amended_by
+  target: pt:dre:642185:por
+  label: Substituído o quadro de pessoal médico do Hospital de Joaquim Urbano, pela PORT.413/91.1991.03.22.MF,DR.IS [112]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1991-642185
+  date: '1991-03-22'
+- type: amended_by
+  target: pt:dre:523639:por
+  label: "Alterado o quadro de pessoal pela PORT.422/92.1992.05.22.MF,DR.IS [118]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/422-1992-523639
+  date: '1992-05-22'
+- type: amended_by
+  target: pt:dre:260139:por
+  label: "Alterado o quadro de pessoal, na parte referente ao pessoal médico pela PORT.838/92.1992.08.28.MF,DR.IS [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/838-1992-260139
+  date: '1992-08-28'
+- type: amended_by
+  target: pt:dre:231139:por
+  label: "Alterado o quadro de pessoal, relativamente à carreira dos técnicos superiores de saúde, pela PORT.915/92.22.09.1992.MF,\
+    \ DR.IS-B [219] de 22.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/915-1992-231139
+  date: '1992-09-22'
+- type: amended_by
+  target: pt:dre:517874:por
+  label: "Alterado o quadro de pessoal pela PORT.193/97.1997.03.21.PCM,DR.IS-B [68]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/193-1997-517874
+  date: '1997-03-21'
+- type: amended_by
+  target: pt:dre:655701:por
+  label: "Alterado o quadro de pessoal pela PORT.1357/2002.2002.10.16.MF,DR.IS-B [239]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1357-2002-655701
+  date: '2002-10-16'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:13Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +181,6 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Hospital de Joaquim Urbano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/21400/26742675.pdf))](https://files.diariodarepublica.pt/1s/1980/09/21400/26742675.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21400/26742675.pdf)
 
 Nota. - Ao funcionário administrativo que exercer as funções de tesoureiro será atribuída a remuneração mensal de 600$00 para falhas.

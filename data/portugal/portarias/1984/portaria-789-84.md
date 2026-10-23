@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/10/23400/30993100.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/789-1984-400034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T08:13:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bb11030b4401dd3f656a47d7b2e6058315a914e581d2c06265c1c621a715124
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2c289444b9d3c472ee94f5f6b987b829772a01884e72b45dc40b6b11f8dba71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:13:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Biologia
+- Curso de Bioquímica
+- Curso de Física
+- Curso de Geologia
+- Curso de Matemática
+- Curso de Química
+- Curso de Química Industrial
+- Ensino Superior
+- Faculdade de Ciências e Tecnologia
+- Licenciatura
+- Universidade de Coimbra
 relationships:
 - type: amended_by
   target: pt:dre:177050:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:312615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660173:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:177050:por
+  label: "Revogada pela PORT.746/85.1985.10.01.ME, DR.IS [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/746-1985-177050
+  date: '1985-10-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:13:12Z'
   warnings: []
   errors: []
 ---
@@ -145,6 +209,6 @@ ministrados pela Faculdade de Ciências e Tecnologia da Universidade de Coimbra,
 
 Ministério da Educação.
 
-**Assinada em 22 de Agosto de 1984.**
+Assinada em 22 de Agosto de 1984.
 
 Pelo Ministro da Educação, Joaquim Germano Pinto Machado Correia da Silva, Secretário de Estado do Ensino Superior.

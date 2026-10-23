@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/79-1972-398108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:57:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ced17e542ef9387ad92271a22ab14247e2c94284fd0668b7bddce8aa6d58b0b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f516bffe87019f008edec65a661af9eb80204ac109ed542515f0e329d7a86fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:57:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:57:50Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +94,19 @@ Francisco da Maia Romão Machado Júnior, médico, Carlos Pinho das Neves Alelui
 
 Condições expressas no seguinte Regulamento:
 
-###### Artigo 1.º O Prémio 1.º Ano de 1914 é um galardão anual destinado ao aluno ou aluna que, com bom aproveitamento, haja frequentado, no Liceu de Aveiro, todas as disciplinas do 1.º ano do curso liceal cuja estrutura menos se afasta da do que vigorava em 1914.
+Artigo 1.º O Prémio 1.º Ano de 1914 é um galardão anual destinado ao aluno ou aluna que, com bom aproveitamento, haja frequentado, no Liceu de Aveiro, todas as disciplinas do 1.º ano do curso liceal cuja estrutura menos se afasta da do que vigorava em 1914.
 
-###### Art. 2.º O beneficiário será designado pelo reitor, colhidas as necessárias informações escolares.
+Art. 2.º O beneficiário será designado pelo reitor, colhidas as necessárias informações escolares.
 
-###### Art. 3.º O beneficiário nunca poderá ter sido repetente no respectivo ano.
+Art. 3.º O beneficiário nunca poderá ter sido repetente no respectivo ano.
 
-###### Art. 4.º - 1. Da entre todos os alunos ou alunas seleccionados nas condições dos artigos anteriores será escolhido o de mais elevada média das classificações.
+Art. 4.º - 1. Da entre todos os alunos ou alunas seleccionados nas condições dos artigos anteriores será escolhido o de mais elevada média das classificações.
 
 2. Surgindo mais do que um com igual direito, será escolhido o mais novo.
 
 3. Apresentando-se mais do que um nas mesmas condições, por todos eles será o Prémio distribuído em partes iguais.
 
-###### Art. 5.º - 1. O Prémio, em dinheiro, será constituído pelo rendimento do capital de 32000$00 entregue pelos instituidores, representados, para o efeito, pelo comissário Francisco da Maia Romão Machado Júnior, e convertido em título de renda perpétua assentado em nome do Liceu Nacional da Aveiro.
+Art. 5.º - 1. O Prémio, em dinheiro, será constituído pelo rendimento do capital de 32000$00 entregue pelos instituidores, representados, para o efeito, pelo comissário Francisco da Maia Romão Machado Júnior, e convertido em título de renda perpétua assentado em nome do Liceu Nacional da Aveiro.
 
 2. Possíveis futuras generosidades levam a prever aumentos de capital.
 
@@ -118,8 +118,8 @@ Condições expressas no seguinte Regulamento:
 
 6. No caso de pluralidade de candidatos nas mesmas condições e ao mesmo nível de mérito, funcionarão as regras previstas sob os n.os 2 e 3 do mesmo artigo.
 
-###### Art. 6.º Salvo melhor indicação, o Prémio será entregue na sessão de abertura das aulas do ano imediato.
+Art. 6.º Salvo melhor indicação, o Prémio será entregue na sessão de abertura das aulas do ano imediato.
 
-###### Art. 7.º No caso de vir a existir em Aveiro mais do que um liceu, o Prémio será atribuído pelo liceu que seja o sucessor natural do antigo Liceu de José Estêvão, frequentado pelos instituidores.
+Art. 7.º No caso de vir a existir em Aveiro mais do que um liceu, o Prémio será atribuído pelo liceu que seja o sucessor natural do antigo Liceu de José Estêvão, frequentado pelos instituidores.
 
 Pelo Director-Geral do Ensino Secundário, João Rodrigo Narciso Furtado.

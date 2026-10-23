@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/233/1997/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1997-641131
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:51:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3d0564d43a13efa68c08c5afd053ffa6924a0649b2e2cdf78c77914c3074064
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 727d532b55e56bcd271d7ca89b9f1f407da021f27ba3821cb4421fd363b85b2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:51:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Educação
 - Carreira Profissional
 - Inspecção Geral de Educação
+- Ministério da Educação
 - Orgânica
 - Pessoal de Inspecção
 relationships:
@@ -76,6 +76,13 @@ relationships:
   target: pt:dre:667551:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667551:por
+  label: "Extinto o nucleo de Inspe&#231;&#227;o no Ensino Superior e revogadas todas as disposi&#231;&#245;es relativas a\
+    \ compet&#234;ncias em mat&#233;ria de ensino superior constantes da Lei Organica da IGE aprovada pelo Dec Lei 271/95\
+    \ de 23-Out, alterada pelo presente diploma, pelo DEC LEI.149/2003.2003.07.11.MCES, DR.IS-A [158]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-2003-667551
+  date: '2003-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/271/1995/10/23/p/dre
   label: null
@@ -84,16 +91,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/18/1996/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/18/1996/06/20/p/dre
+- type: cites
+  target: pt:dre:431038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668484:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:232763:por
+  label: "Rectificado pela Decl-Rect 15-B/97.1997.09.17.PCM, DR.IS-A [226]2ºSupl de 30/Set/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/15-b-1997-232763
+  date: '1997-09-17'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:51:41Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +140,9 @@ Os artigos 32.º e 33.º do [Decreto-Lei n.º 271/95](https://diariodarepublica.
 
 2 - A transição a que se refere o número anterior produz efeitos a partir da data da entrada em vigor do presente diploma, com excepção dos remuneratórios, os quais produzem efeitos a partir de 1 de Janeiro de 1997.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - O pessoal provido na carreira de inspecção transita para a carreira de inspecção superior, com aplicação do disposto no artigo 26.º quanto ao requisito da contagem do tempo de serviço, de acordo com as seguintes regras:
 
@@ -154,12 +176,12 @@ O presente diploma produz efeitos à data da entrada em vigor da [Lei n.º 18/96
 
 Visto e aprovado em Conselho de Ministros de 10 de Julho de 1997. - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - Eduardo Carrega Marçal Grilo - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 16 de Agosto de 1997.**
+Promulgado em 16 de Agosto de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Agosto de 1997.**
+Referendado em 21 de Agosto de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

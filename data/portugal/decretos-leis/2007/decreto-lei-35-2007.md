@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/02/03300/11771182.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35/2007/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2007-518017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea40e495f76fae4a49ee3118c677ba999ab89fcc3d2facc9dba0df3a4668b62a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f7c365d34b81a5f54554628fe9bed9b84c8726c3dccb2e35a00094970693a2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Educação Especial
-- Contrato Administrativo
-- Direcção Geral dos Recursos Humanos da Educação
-- Ensino Oficial
-- Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário
-- Recrutamento de Pessoal
 - Contratação de Pessoal
-- Estabelecimento de Ensino
-- Pessoal Docente
-- Ensino Básico
-- Contrato de Trabalho
-- Regime Jurídico
-- Horário de Trabalho
-- Remuneração
-- Educação Pré-escolar
 - Contratação Pública
+- Contrato Administrativo
+- Contrato de Trabalho
+- Direcção Geral dos Recursos Humanos da Educação
+- Educação Especial
+- Educação Pré-escolar
+- Ensino Básico
+- Ensino Oficial
+- Estabelecimento de Ensino
+- Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário
+- Horário de Trabalho
+- Pessoal Docente
+- Recrutamento de Pessoal
+- Regime Jurídico
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:106607298:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:604625:por
+  label: "Alterados os arts. 1º, 38º e 57º, e revogados o nº 3 do art. 1º, os nºs 2 a 8 do art. 38º, e o nº 4 do art. 57º\
+    \ do Dec Lei 20/2006 de 31-Jan, com a redacção conferida no presente diploma, pelo DEC LEI.51/2009.27.02.2009.ME, DR.IS\
+    \ [41] de 27.02.2009 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-2009-604625
+  date: '2009-02-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/1997/04/29/p/d
   label: null
@@ -128,16 +135,94 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/367/1998/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/367/1998/06/29/p/dre
+- type: cites
+  target: pt:dre:186123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178492:por
+  label: "Revogado o Dec Lei 20/2006, de 31-jan, na redação do presente diploma e dos Dec Lei 51/2009, de 27-fev e 270/2009,\
+    \ de 30-set, pelo DEC LEI.132/2012.27.06.2012.MECI, DR.IS [123] de 27.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-2012-178492
+  date: '2012-06-27'
 article_structure:
-  article_count: 20
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:41Z'
   warnings: []
   errors: []
 ---
@@ -324,7 +409,9 @@ Os artigos 29.º e 33.º do Estatuto da Carreira dos Educadores de Infância e d
 
 4 - A contratação de pessoal docente pode ainda revestir a modalidade de contrato de trabalho a termo resolutivo para o exercício temporário de funções docentes ou de formação em áreas técnicas específicas, nos termos e condições previstos em legislação própria.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - O exercício transitório de funções docentes pode ser assegurado por indivíduos que preencham os requisitos de admissão a concurso, em regime de contrato administrativo, tendo em vista a satisfação de necessidades residuais do sistema educativo não colmatadas por pessoal docente dos quadros que sobrevenham até ao final do primeiro período lectivo, sem prejuízo das disposições especiais constantes da legislação própria a que se refere o n.º 4 do artigo 29.º
 
@@ -344,7 +431,9 @@ Os artigos 1.º, 38.º e 57.º do [Decreto-Lei n.º 20/2006](https://diariodarep
 
 3 - O presente decreto-lei regula ainda o processo de recrutamento para o exercício transitório de funções docentes, através de contrato administrativo, nos termos do artigo 33.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -360,7 +449,9 @@ Os artigos 1.º, 38.º e 57.º do [Decreto-Lei n.º 20/2006](https://diariodarep
 
 7 - ...
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - ...
 
@@ -392,12 +483,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 6 de Fevereiro de 2007.**
+Promulgado em 6 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 9 de Fevereiro de 2007.**
+Referendado em 9 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

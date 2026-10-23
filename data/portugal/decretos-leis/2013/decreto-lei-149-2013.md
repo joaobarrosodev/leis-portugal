@@ -53,18 +53,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/149/2013/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2013-502984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74e2f4c455b357e9b178859e198b943356cdd094505a5d2ca37d4ec06cb2bd57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa5d78bc97c3882c3d7c999121882355f4128d163342efa35dad78dc5a611576
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- ASAE
 - Atribuição de Verba
 - CE Países
 - Direção Geral das Atividades Económicas
-- União Europeia
 - Indústria do Calçado
-- ASAE
 - Livre Circulação de Mercadorias
-- Transporte de Mercadorias
 - Proteção do Consumidor
+- Transporte de Mercadorias
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:155732595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Alterado, a partir de 28.07.2021, o art. 7.º e revogado o n.º 4 do art. 7.º do Dec Lei 26/96 de 23-mar, na versão
+    republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
 - type: cites
   target: celex:31994L0011
   label: null
@@ -108,15 +114,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/26/1996/03/23/p/dre
 article_structure:
-  article_count: 19
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:10Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +169,9 @@ c) Calçado abrangido pelo Regulamento (CE) n.º [1907/2006](https://data.europa
 
 d) [...].
 
-###### Artigo 6.º — Competência sancionatória
+Artigo 6.º
+
+Competência sancionatória
 
 1 - A fiscalização do cumprimento do disposto no presente diploma compete à Autoridade de Segurança Alimentar e Económica (ASAE), sem prejuízo das competências atribuídas por lei a outras entidades.
 
@@ -171,7 +179,9 @@ d) [...].
 
 3 - Compete ao Inspetor-Geral da ASAE aplicar as coimas previstas no presente diploma.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O incumprimento do disposto no artigo 3.º constitui contraordenação punível com coima de 125,00 EUR a 2 500,00 EUR, no caso de pessoas singulares, e de 250,00 EUR a 10 000,00 EUR, no caso de pessoas coletivas.
 
@@ -191,7 +201,9 @@ c) 10 % para a Direção-Geral das Atividades Económicas;
 
 d) 10 % para a entidade que levanta o auto.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Compete à Direção-Geral das Atividades Económicas o acompanhamento da aplicação global do presente diploma, propondo as medidas necessárias à prossecução dos seus objetivos e as que se destinem a assegurar a ligação com a Comissão Europeia e os outros Estados membros da União Europeia.»
 
@@ -213,19 +225,19 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de outubro de 2013. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima.
 
-**Promulgado em 21 de outubro de 2013.**
+Promulgado em 21 de outubro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de outubro de 2013.**
+Referendado em 22 de outubro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20600/0623406240.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20600/0623406240.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20600/0623406240.pdf)
 
 ## ANEXO II — (a que se refere o artigo 5.º)
 
@@ -327,7 +339,7 @@ O presente diploma não se aplica, até 23 de setembro de 1997, às mercadorias 
 
 O presente diploma entra em vigor em 23 de março de 1996.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20600/0623406240.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20600/0623406240.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20600/0623406240.pdf)
 
 ## ANEXO II — Exemplos de calçado abrangido pelo decreto-lei
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/17800/0000200008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/60/2022/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2022-201054617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d86cffcacd61756406addaad43b0d2b8f6c8774c01120aa2ac5fb5dead0fb8a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c81c5ab8f3a1a78504d09c088d41970d9e5d638cea6f4a69f4c34fc737f5924
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Gestão de Resíduos
 - Comissão Europeia dos Direitos do Homem
+- Eliminação de Resíduos
 - Equipamento Eléctrico
 - Equipamento Eletrónico
-- União Europeia
 - Fiscalização
-- Proteção do Ambiente
+- Gestão de Resíduos
 - Política do Ambiente
+- Proteção do Ambiente
 - Resíduo Industrial
-- Eliminação de Resíduos
 - Substância Perigosa
+- União Europeia
 relationships:
 - type: cites
   target: celex:32011L0065
@@ -135,6 +135,10 @@ relationships:
   target: eli:http://data.europa.eu/eli
   label: null
   source: http://data.europa.eu/eli
+- type: cites
+  target: pt:dre:496704:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32011L0065
   label: null
@@ -142,13 +146,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:42Z'
   warnings: []
   errors: []
 ---
@@ -221,15 +225,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de agosto de 2022. - Mariana Guimarães Vieira da Silva - António Manuel Veiga dos Santos Mendonça Mendes - António José da Costa Silva - Marta Alexandra Fartura Braga Temido de Almeida Simões - João Saldanha de Azevedo Galamba.
 
-**Promulgado em 1 de setembro de 2022.**
+Promulgado em 1 de setembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de setembro de 2022.**
+Referendado em 6 de setembro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -237,9 +241,11 @@ Visto e aprovado em Conselho de Ministros de 25 de agosto de 2022. - Mariana Gui
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/09/17800/0000200008.pdf))](https://files.diariodarepublica.pt/1s/2022/09/17800/0000200008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/09/17800/0000200008.pdf)
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 1 - [...].
 
@@ -340,3 +346,5 @@ Caduca em 1 de janeiro de 2024.
 47 - Ftalato de bis(2-etil-hexilo) (DEHP), ftalato de benzilo e butilo (BBP), ftalato de dibutilo (DBP) e ftalato de di-isobutilo (DIBP) em peças sobresselentes recuperadas de dispositivos médicos, incluindo dispositivos médicos de diagnóstico in vitro, e de acessórios destes, e utilizadas para a reparação ou renovação desses equipamentos, desde que a reutilização ocorra em sistemas fechados de retorno interempresas, passíveis de controlo, e que o cliente seja informado de cada reutilização de peças.
 
 Caduca em 21 de julho de 2028.»
+
+115669081

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24700/0006200067.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/123/2023/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2023-835674288
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcca5867daa7b930d04158948db874b5862ed61940007b5b742aba3c7fdd19b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03212139aeefdd3a6c6c5dc5022597758714f11268143bf7691528b8a5d63722
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cláusulas Contratuais Gerais
+- Comissão
 - Comissão Consultiva
 - Definição de Competências
 - Direcção Geral do Consumidor
-- Comissão
 - Tribunal
 relationships:
 - type: cites
@@ -80,16 +80,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/32/2021/05/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/32/2021/05/27/p/dre
+- type: cites
+  target: pt:dre:164144641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:00Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +154,9 @@ Os artigos 32.º e 34.º do [Decreto-Lei n.º 446/85](https://diariodarepublica.
 
 3 - [...]
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 No prazo de 30 dias após o trânsito em julgado, os tribunais remetem à Comissão das Cláusulas Contratuais Gerais (Comissão) as decisões que, por aplicação dos princípios e das normas constantes do presente diploma, proíbam o uso ou a recomendação de cláusulas contratuais gerais ou declarem a nulidade de cláusulas inseridas em contratos singulares.»
 
@@ -156,11 +170,15 @@ Sistema administrativo de controlo e prevenção de cláusulas abusivas
 
 O sistema administrativo de controlo e prevenção de cláusulas abusivas visa prevenir a utilização de cláusulas contratuais gerais proibidas, nos termos do presente diploma.
 
-###### Artigo 34.º-E — Comissão das Cláusulas Contratuais Gerais
+Artigo 34.º-E
+
+Comissão das Cláusulas Contratuais Gerais
 
 A Comissão, entidade administrativa independente, de natureza consultiva, que funciona junto dos membros do Governo responsáveis pelas áreas da justiça e da defesa do consumidor, é responsável pela operacionalização do sistema administrativo de controlo e prevenção das cláusulas abusivas.
 
-###### Artigo 34.º-F — Atribuições da Comissão das Cláusulas Contratuais Gerais
+Artigo 34.º-F
+
+Atribuições da Comissão das Cláusulas Contratuais Gerais
 
 1 - A Comissão prossegue as atribuições enunciadas no presente artigo relativamente a contratos que integrem já cláusulas contratuais gerais ou cláusulas contratuais gerais elaboradas para utilização futura, desde que não versem sobre setores sujeitos à função reguladora e fiscalizadora das entidades reguladoras ou de controlo de mercado competentes, nos termos da legislação sectorialmente aplicável.
 
@@ -184,7 +202,9 @@ f) Gerir, organizar, atualizar de forma periódica e proceder à manutenção do
 
 5 - Para efeitos do disposto nas alíneas d) e e) do n.º 2, a Comissão emite parecer no prazo de 30 dias úteis a contar da receção do pedido.
 
-###### Artigo 34.º-G — Composição e funcionamento da Comissão das Cláusulas Contratuais Gerais
+Artigo 34.º-G
+
+Composição e funcionamento da Comissão das Cláusulas Contratuais Gerais
 
 1 - A Comissão é composta pelos seguintes membros efetivos:
 
@@ -204,17 +224,23 @@ f) Duas personalidades de reconhecido mérito oriundos de instituições de ensi
 
 3 - Por cada um dos membros efetivos designados é indicado um membro suplente, designado nos mesmos termos, com vista a assegurar a sua substituição, nos casos de falta ou ausência do membro efetivo respetivo.
 
-###### Artigo 34.º-H — Funcionamento da Comissão das Cláusulas Contratuais Gerais
+Artigo 34.º-H
+
+Funcionamento da Comissão das Cláusulas Contratuais Gerais
 
 1 - A DGC assegura o secretariado da Comissão, prestando, designadamente, apoio técnico e administrativo.
 
 2 - Os membros da Comissão não têm direito a qualquer remuneração pelo desempenho das suas funções.
 
-###### Artigo 34.º-I — Cooperação entre a Comissão das Cláusulas Contratuais Gerais e as entidades reguladoras ou de controlo do mercado
+Artigo 34.º-I
+
+Cooperação entre a Comissão das Cláusulas Contratuais Gerais e as entidades reguladoras ou de controlo do mercado
 
 Sem prejuízo do disposto no n.º 1 do artigo 34.º-F, a Comissão e as entidades reguladoras ou de controlo de mercado competentes podem em conjunto promover a elaboração de contratos-tipo, de adoção voluntária, podendo promover a audição de associações de consumidores e associações empresariais dos setores de atividade económica em causa.
 
-###### Artigo 34.º-J — Portal das Cláusulas Contratuais Gerais
+Artigo 34.º-J
+
+Portal das Cláusulas Contratuais Gerais
 
 1 - São divulgados no Portal, designadamente, os seguintes documentos:
 
@@ -230,15 +256,21 @@ c) As decisões anonimizadas transitadas em julgado que proíbam o uso ou a reco
 
 4 - Sem prejuízo do disposto na alínea c) do n.º 1, compete igualmente ao Ministério da Justiça organizar e manter atualizada a base de dados de jurisprudência.
 
-###### Artigo 34.º-L — Depósito de modelos de cláusulas contratuais gerais
+Artigo 34.º-L
+
+Depósito de modelos de cláusulas contratuais gerais
 
 Mediante portaria a emitir pelo membro do Governo responsável pela área de defesa do consumidor, são identificadas áreas de atividade económica e tipos de empresas sujeitas ao dever de depósito dos seus modelos de cláusulas contratuais gerais junto da Comissão.
 
-###### Artigo 34.º-M — Registo
+Artigo 34.º-M
+
+Registo
 
 Incumbe à Comissão organizar e manter atualizado, no Portal, o registo das cláusulas contratuais abusivas que lhe sejam comunicadas nos termos da alínea c) do n.º 1 do artigo 34.º-J.
 
-###### Artigo 34.º-N — Organização e funcionamento da Comissão
+Artigo 34.º-N
+
+Organização e funcionamento da Comissão
 
 A organização e funcionamento da Comissão é definida nos termos do regulamento interno, a aprovar por maioria dos seus membros, no prazo de 90 dias após a sua constituição.»
 
@@ -276,12 +308,14 @@ O presente decreto-lei entra em vigor no dia seguinte à sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de novembro de 2023. - António Luís Santos da Costa - Catarina Teresa Rola Sarmento e Castro - António José da Costa Silva.
 
-**Promulgado em 18 de dezembro de 2023.**
+Promulgado em 18 de dezembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de dezembro de 2023.**
+Referendado em 19 de dezembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+117186454

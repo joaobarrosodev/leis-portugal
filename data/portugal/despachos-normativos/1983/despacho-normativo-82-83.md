@@ -48,36 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/82-1983-313040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T07:26:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72618d3fe0ab76701f3a3e0fa20edb68a8f67d518a095b522849c897f0f500aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c14632a0537fe6daec2ab9b119228fe6db759b4718daef8782ba2b96cdb245eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:26:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Emolumento
+- Guarda Fiscal
+relationships:
+- type: cites
+  target: pt:dre:375616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422440:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:423422:por
+  label: Rectificado pela DECL.DD5954.05.05.1983.PCM, DR.IS [125-Supl] de 31.05.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-423422
+  date: '1983-05-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:26:42Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +125,7 @@ TABELA II
 
 Para os serviços remunerados e executados pelo pessoal da Guarda Fiscal, a pedido dos interessados, não incluídos na tabela I, para vigilância de mercadorias ou de artigos livres da acção aduaneira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/08200/12341235.pdf))](https://files.diariodarepublica.pt/1s/1983/04/08200/12341235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/08200/12341235.pdf)
 
 3 - Observar-se-á o seguinte:
 

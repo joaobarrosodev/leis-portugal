@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/709-1971-632222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a492df81f6eb6de05347186643faa9da7c2e669966631d6918a58202824c4907
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 595d55d06a17c26ad437ae5fa13b6c76531f105e8f4f0b2ab8e2cc7f1dec48de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:419843:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:27Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +107,7 @@ Prazos de estacionamento gratuito
 
 (Horas úteis)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29700/19831985.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29700/19831985.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29700/19831985.pdf)
 
 3. Os prazos estabelecidos no número anterior são interrompidos durante o período em que as estações estão encerradas para o serviço de mercadorias e durante o tempo que decorre desde a apresentação do pedido de repesagem até que termine essa operação, salvo se for devida taxa de repesagem, de harmonia com o disposto nos n.os 3 e 5 do artigo 15.º
 
@@ -135,7 +139,7 @@ c) A partir das 14 horas do primeiro dia útil seguinte ao da emissão do aviso 
 
 1. Pelo estacionamento de vagões e de outro material de caminho de ferro que exceder, nas estações de procedência ou de destino, os prazos de estacionamento gratuito, são devidas as taxas constantes do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29700/19831985.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29700/19831985.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29700/19831985.pdf)
 
 2. São igualmente devidas as taxas estabelecidas no número anterior:
 
@@ -159,4 +163,4 @@ A desistência considera-se tácita quando decorridas vinte e quatro horas conse
 
 Nesta data é eliminado o artigo 20.º da tarifa de vagões particulares, ficando as suas disposições incluídas na tarifa de operações acessórias.
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

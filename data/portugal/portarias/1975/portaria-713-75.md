@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/27800/19371937.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/713-1975-309515
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:53:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9046916d00d5956c1327d7511626c058ea74b7d6c7f70c5d7c71df3e530ba76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36c9158b82f104ffc0e6a9fdf34c3d6e6004b5ffb8ea5d0eee844e50c0a8b2a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:53:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto do Oficial da Armada
+- Forças Armadas
+- Marinha
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:376612:por
+  label: "Alterado o n.º 12 da al. a) do art. 78.º do Estatuto, aprovado pelo Dec 46960, de 14-Abr 1966, na redacção do presente\
+    \ diploma, pela PORT.970/82.15.10.1982.CR, DR.IS [239] de 15.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/970-1982-376612
+  date: '1982-10-15'
+- type: cites
+  target: pt:dre:487748:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:250989:por
+  label: Revogado o n.º 1 do presente diploma, pelo(a) Portaria n.º 448/77 - Diário da República n.º 167/1977, Série I de
+    1977-07-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/448-1977-250989
+  date: '1977-07-21'
+- type: repealed_by
+  target: pt:dre:229088:por
+  label: "Revogado o nº 2º deste diploma pela PORT.284/86.17.06.1986.MDN, DR.IS [136] de 17.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/284-1986-229088
+  date: '1986-06-17'
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogada pelo DEC LEI.34-A/90.1990.01.24.MDN, DR.IS [20]Supl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:53:34Z'
   warnings: []
   errors: []
 ---

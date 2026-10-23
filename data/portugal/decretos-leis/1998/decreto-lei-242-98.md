@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/181a00/38173819.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/242/1998/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1998-435241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be3f16aee5c3e3a30ec91c0c64e6276358c209fd4dc0ef7c62f1bc9db35166f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4052509eb4167ab663bed7d825c75279821fc24635b9a003b8ad8ceab229a37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Asilo Político
-- Residência de Estrangeiros
-- Ministério da Administração Interna
-- Comissário Nacional Adjunto
 - Comissariado Nacional para os Refugiados
+- Comissário Nacional Adjunto
 - Comissário Nacional para os Refugiados
 - Definição de Competências
 - Equiparação de Cargos
 - Estatuto
-- Secretaria Geral
+- Ministério da Administração Interna
 - Refugiado
-- Serviço de Estrangeiros e Fronteiras
 - Requisição de Pessoal
+- Residência de Estrangeiros
+- Secretaria Geral
+- Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: amended_by
   target: pt:dre:359359:por
@@ -87,16 +87,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/15/1998/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/15/1998/03/26/p/dre
+- type: cites
+  target: pt:dre:197754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:359359:por
+  label: "Revogado pela LEI.20/2006.23.06.2006.AR, DR.IS-A [120] de 23.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-2006-359359
+  date: '2006-06-23'
 article_structure:
-  article_count: 15
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:24Z'
   warnings: []
   errors: []
 ---
@@ -113,17 +126,17 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 15/98](https://diariodarepublica.pt/dr/detalhe/lei/15-1998-197754), de 26 de Março, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Estatuto do Comissariado Nacional para os Refugiados, que faz parte integrante do presente diploma, o qual entra em vigor no dia imediatamente a seguir à sua publicação.
+Artigo único. É aprovado o Estatuto do Comissariado Nacional para os Refugiados, que faz parte integrante do presente diploma, o qual entra em vigor no dia imediatamente a seguir à sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 21 de Junho de 1998.**
+Promulgado em 21 de Junho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Julho de 1998.**
+Referendado em 27 de Julho de 1998.
 
 Pelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional.
 

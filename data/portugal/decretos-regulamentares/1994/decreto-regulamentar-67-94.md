@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/271b00/69506952.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/67/1994/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1994-546598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b3c4d595920308030a85e3fe7883311240deec40df527b8362ea447985cd859
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fcefb8d20e4adf7e140ed31c49e0058b62d4bfe06c7ecce713a05be7d4e72585
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Academia de Marinha
-- Marinha
 - Estatuto
+- Marinha
 relationships:
 - type: amended_by
   target: pt:dre:69920322:por
@@ -77,16 +77,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/49/1993/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/49/1993/02/26/p/dre
+- type: cites
+  target: pt:dre:443687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657439:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69920322:por
+  label: Revogado (a partir de 01.08.2015) pelo(a) Decreto Regulamentar n.º 10/2015 - Diário da República n.º 148/2015, Série
+    I de 2015-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/10-2015-69920322
+  date: '2015-07-31'
 article_structure:
-  article_count: 28
+  article_count: 27
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:40Z'
   warnings: []
   errors: []
 ---
@@ -103,25 +117,25 @@ Assim:
 
 Ao abrigo do disposto no n.º 1 do artigo 36.º do [Decreto-Lei n.º 49/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1993-657439), de 26 de Fevereiro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto da Academia de Marinha, publicado em anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É aprovado o Estatuto da Academia de Marinha, publicado em anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º Os actuais titulares dos cargos de direcção e administração da Academia mantêm-se em exercício de funções, com as competências previstas no presente diploma, até 1 de Janeiro de 1995.
+Art. 2.º Os actuais titulares dos cargos de direcção e administração da Academia mantêm-se em exercício de funções, com as competências previstas no presente diploma, até 1 de Janeiro de 1995.
 
-###### Art. 3.º É revogada a [Portaria n.º 954/83](https://diariodarepublica.pt/dr/detalhe/portaria/954-1983-443687), de 31 de Outubro.
+Art. 3.º É revogada a [Portaria n.º 954/83](https://diariodarepublica.pt/dr/detalhe/portaria/954-1983-443687), de 31 de Outubro.
 
 Presidência do Conselho de Ministros, 19 de Setembro de 1994.
 
 Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
 
-**Promulgado em 2 de Novembro de 1994.**
+Promulgado em 2 de Novembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Novembro de 1994.**
+Referendado em 5 de Novembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Estatuto da Academia de Marinha
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/07/16900/10561058.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21431-1965-292104
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d12338f1cbbf7e2c7d10d57f75a78317d98600ffbd66fc7e5bd5cb9deecf356a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5768393a9335b001971a53ef156efd47994d81b04b46cf12e2ac0d80c822f01d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arroz
+- Classificação de Arroz
+- Controlo de Qualidade
+- Normalização
 relationships:
 - type: amended_by
   target: pt:dre:228257:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609133:por
+  label: "Acrescentado um nº 29 ao ponto II pela PORT.311/82.1982.03.22.MACP DR.IS [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/311-1982-609133
+  date: '1982-03-22'
+- type: amended_by
+  target: pt:dre:661113:por
+  label: "Alterado o nº 29 do ponto II pela PORT.138/84.1984.03.05.MAFA DR.IS [55]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/138-1984-661113
+  date: '1984-03-05'
+- type: cites
+  target: pt:dre:163452:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:607153:por
+  label: "Revogadas as als 10), 11), 16), 18), 20) e 21) pela PORT.362/82.1982.04.10.MACP DR.IS [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/362-1982-607153
+  date: '1982-04-10'
+- type: repealed_by
+  target: pt:dre:312979:por
+  label: "Revogadas as alíneas 5), 12), 13), 14) e 15) do anexo ao presente diploma, pelo DN.85/83.11.04.1983.MACP, DR.IS\
+    \ [83] de 11.04.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/85-1983-312979
+  date: '1983-04-11'
+- type: repealed_by
+  target: pt:dre:228257:por
+  label: "Revogada pelo DEC LEI.179/86.1986.07.04.MAPA DR.IS [151]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-1986-228257
+  date: '1986-07-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:53Z'
   warnings: []
   errors: []
 ---

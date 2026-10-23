@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/207/2012/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2012-174827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc99b9c194de790891f6e218d2a05424ec5e2afab7ee2efa1efd72922c2fc4c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a24208d0096511c13aff8bc98ad879989119d963f834f2dd308fc8b7ff290c52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Embarcação
 - Certificado de Conformidade
+- Comércio
+- Embarcação
 - Equipamento Marítimo
-- Instalações Radioelétricas
 - Fabrico Industrial
+- Instalações Radioelétricas
 - Normas de Segurança
 - Poluição Marinha
 - Segurança Marítima
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:107495710:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498723:por
+  label: "Dada nova redação ao anexo do Dec Lei 24/2004 de 23-jan, alterado pelo presente diploma, pelo DEC LEI.104/2013.29.07.2013.MAMAOT,\
+    \ DR.IS [144] de 29.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-2013-498723
+  date: '2013-07-29'
+- type: amended_by
+  target: pt:dre:58815312:por
+  label: Dada nova redação ao anexo do Dec Lei 24/2004 de 23-jan, alterado pelo presente diploma, pelo(a) Decreto-Lei n.º
+    170-C/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-c-2014-58815312
+  date: '2014-11-07'
 - type: cites
   target: celex:31996L0098
   label: null
@@ -114,16 +126,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/24/2004/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/24/2004/01/23/p/dre
+- type: repealed_by
+  target: pt:dre:107495710:por
+  label: Revogado o Dec Lei 24/2004, de 23-jan, na redação do presente diploma pelo(a) Decreto-Lei n.º 63/2017 - Diário da
+    República n.º 112/2017, Série I de 2017-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-2017-107495710
+  date: '2017-06-09'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:59Z'
   warnings: []
   errors: []
 ---
@@ -162,15 +180,15 @@ Os equipamentos transferidos do anexo A.2 do anexo ao presente decreto-lei para 
 
 Visto e aprovado em Conselho de Ministros de 18 de julho de 2012. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento - Paulo Sacadura Cabral Portas - José Pedro Correia de Aguiar-Branco - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 25 de agosto de 2012.**
+Promulgado em 25 de agosto de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de agosto de 2012.**
+Referendado em 28 de agosto de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -260,15 +278,15 @@ h) As prescrições do presente anexo não prejudicam as prescrições das conve
 
 Coluna 4: Aplica-se a circular IMO MSC/Circular 980, exceto quando substituída pelos instrumentos específicos indicados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
 
 2 - Prevenção da poluição marinha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
 
 3 - Equipamento de proteção contra incêndios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
 
 4 - Equipamento de navegação
 
@@ -276,7 +294,7 @@ Notas aplicáveis à secção 4: Equipamento de navegação
 
 Coluna 5: Quando é feita referência à série EN 61162 ou IEC 61162, devem ter-se em conta as características do item em questão para determinar que norma da série referida é aplicável.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
 
 5 - Equipamento de radiocomunicações
 
@@ -286,11 +304,11 @@ Coluna 5: Em caso de incompatibilidade entre as prescrições da circular da IMO
 
 Quando é feita referência à série EN 61162 ou IEC 61162, devem ter-se em conta as características do item em questão para determinar que norma da série referida é aplicável.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
 
 6. Equipamento prescrito pela COLREG 72
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
 
 7 - Equipamento de segurança para graneleiros
 
@@ -298,7 +316,7 @@ Nenhum item.
 
 8 - Equipamento prescrito no capítulo II-1 da SOLAS, Construção - estrutura, subdivisão e estabilidade, máquinas e instalações elétricas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
 
 ## ANEXO A.2 — Equipamentos para os quais não existem ainda normas de ensaio pormenorizadas em instrumentos internacionais
 
@@ -306,15 +324,15 @@ Nenhum item.
 
 Coluna 4: É aplicável a circular IMO MSC/Circ. 980, exceto quando substituída pelos instrumentos específicos indicados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
 
 2 - Prevenção da poluição marinha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
 
 3 - Equipamento de proteção contra incêndios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
 
 4 - Equipamento de navegação
 
@@ -322,20 +340,20 @@ Notas aplicáveis à secção 4: Equipamento de navegação
 
 Colunas 3 e 4: As referências ao capítulo V da SOLAS devem entender-se como referências ao capítulo V da SOLAS 74 conforme alterado pela 73.ª sessão do MSC e que entrou em vigor em 1 de Julho de 2002.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
 
 5 - Equipamento de radiocomunicações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
 
 6 - Equipamento prescrito pela COLREG 72
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
 
 7 - Equipamento de segurança para graneleiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
 
 8 - Equipamento prescrito no capítulo II-1 da SOLAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17000/0501005047.pdf)

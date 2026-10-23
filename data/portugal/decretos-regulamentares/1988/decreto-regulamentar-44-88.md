@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/28700/49154916.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1988-356699
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e260acad3ad062bb4c85efd59d26fe7938230abd9586abc4e32a90cb0afac7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0762c9a19f43f2ec995ad8fc8cc99e7c1b4f501d31291ef6dadbe24fc9188c3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direito de Reserva
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:693443:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:278704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355489:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:693443:por
+  label: "Revogado pelo DEC LEI.12/91.09.01.1991.MAPA, DR.IS-A [7] de 09.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-1991-693443
+  date: '1991-01-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:30Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +112,11 @@ Ao abrigo do disposto no n.º 2 do artigo 47.º da [Lei n.º 109/88](https://dia
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º O processo de exercício do direito de reserva previsto no capítulo II da [Lei n.º 109/88](https://diariodarepublica.pt/dr/detalhe/lei/109-1988-355489), de 26 de Setembro, rege-se pelo disposto naquela lei e no presente diploma.
+Artigo 1.º O processo de exercício do direito de reserva previsto no capítulo II da [Lei n.º 109/88](https://diariodarepublica.pt/dr/detalhe/lei/109-1988-355489), de 26 de Setembro, rege-se pelo disposto naquela lei e no presente diploma.
 
-###### Art. 2.º O processo regulado por este diploma pode ser desencadeado oficiosamente ou a requerimento do reservatário ou de qualquer pessoa jurídica com interesse relevante sobre o prédio rústico a que a reserva se refere.
+Art. 2.º O processo regulado por este diploma pode ser desencadeado oficiosamente ou a requerimento do reservatário ou de qualquer pessoa jurídica com interesse relevante sobre o prédio rústico a que a reserva se refere.
 
-###### Art. 3.º - 1 - Os requerimentos são acompanhados dos documentos necessários à instrução dos processos.
+Art. 3.º - 1 - Os requerimentos são acompanhados dos documentos necessários à instrução dos processos.
 
 2 - Deverão ser juntos ao processo todos os requerimentos ou exposições que digam respeito à mesma reserva.
 
@@ -109,7 +124,7 @@ Ao abrigo do disposto no n.º 2 do artigo 47.º da [Lei n.º 109/88](https://dia
 
 4 - O Ministro da Agricultura, Pescas e Alimentação, ou a entidade em quem delegar, poderá determinar, quando haja conveniência em que sejam despachados simultaneamente, a apensação de diversos processos, indicando qual deles é o principal a que os outros devem ser apensados.
 
-###### Art. 4.º - 1 - O processo de exercício do direito de reserva é de interesse público e particular conjuntamente e a execução da decisão final é considerada nos termos da lei prioritária e de grave urgência para a realização do interesse público.
+Art. 4.º - 1 - O processo de exercício do direito de reserva é de interesse público e particular conjuntamente e a execução da decisão final é considerada nos termos da lei prioritária e de grave urgência para a realização do interesse público.
 
 2 - A informação final conducente à atribuição do direito de reserva deverá conter os fundamentos de facto e de direito justificativos da decisão, bem como a descrição do prédio ou prédios, sua localização e pontuação.
 
@@ -117,13 +132,13 @@ Ao abrigo do disposto no n.º 2 do artigo 47.º da [Lei n.º 109/88](https://dia
 
 4 - Os processos de reserva deverão conter um questionário sobre a situação da entidade ocupante e a indicação do título a que explora o prédio, bem como da pontuação que detém em seu poder.
 
-###### Art. 5.º - 1 - Os requerimentos de reserva são instruídos pela direcção regional em cuja área se encontra o prédio.
+Art. 5.º - 1 - Os requerimentos de reserva são instruídos pela direcção regional em cuja área se encontra o prédio.
 
 2 - Quando o processo de reserva respeitar a prédios sitos no âmbito de várias direcções regionais, será competente a direcção regional em cuja área se situe o mais pontuado daqueles prédios, sem prejuízo de, por acordo entre direcções regionais, o processo poder ser transferido.
 
 3 - Sem prejuízo do n.º 1, o requerimento poderá ser entregue em qualquer serviço do Ministério da Agricultura, Pescas e Alimentação, o qual, nesse caso, o remeterá à direcção regional competente para a instrução, e do facto dará conhecimento ao Gabinete do Ministro da Agricultura, Pescas e Alimentação, no prazo máximo de oito dias contados a partir da data da sua apresentação pelo requerente.
 
-###### Art. 6.º - 1 - Os factos invocados por qualquer interessado deverão ser provados, nos termos do direito civil, com as especialidades dos números seguintes.
+Art. 6.º - 1 - Os factos invocados por qualquer interessado deverão ser provados, nos termos do direito civil, com as especialidades dos números seguintes.
 
 2 - A prova testemunhal ou por declarações só será válida quando reduzida a auto assinado pelo funcionário da direcção regional competente encarregado da inquirição e pela testemunha ou declarante ou, quando este não souber assinar, autenticado pela aposição de impressão digital.
 
@@ -131,13 +146,13 @@ Ao abrigo do disposto no n.º 2 do artigo 47.º da [Lei n.º 109/88](https://dia
 
 ### CAPÍTULO II — Prazo de exercício do direito de reserva e instrução do processo gracioso
 
-###### Art. 7.º - 1 - Nos casos em que as reservas já hajam sido demarcadas no âmbito da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, não tenham sido requeridas ou cujo requerimento haja sido extemporâneo, o requerimento de exercício de direito de reserva deverá ser apresentado pelo interessado até 29 de Dezembro de 1988, sob pena de caducidade de exercício do respectivo direito.
+Art. 7.º - 1 - Nos casos em que as reservas já hajam sido demarcadas no âmbito da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, não tenham sido requeridas ou cujo requerimento haja sido extemporâneo, o requerimento de exercício de direito de reserva deverá ser apresentado pelo interessado até 29 de Dezembro de 1988, sob pena de caducidade de exercício do respectivo direito.
 
 2 - O preceituado no número anterior não se aplica à reversão dos prédios rústicos, prevista no artigo 30.º da Lei de Bases da Reforma Agrária, que poderá ser requerida a todo o tempo ou desencadeada oficiosamente pela Administração.
 
 3 - Para os efeitos do n.º 1, o pedido de um dos contitulares aproveita aos restantes no que ao exercício do direito de reserva diz respeito.
 
-###### Art. 8.º - 1 - Após a instrução do pedido, a direcção regional elaborará informação técnico-jurídica final, sendo aquela proposta de decisão final comunicada obrigatoriamente aos titulares de outros direitos sobre os prédios, referidos no n.º 1 do artigo 20.º da Lei de Bases da Reforma Agrária, aos beneficiários de entrega em exploração, referidos no n.º 1 do artigo 29.º daquela lei, e ainda aos trabalhadores permanentes efectivos ao serviço dos prédios expropriados.
+Art. 8.º - 1 - Após a instrução do pedido, a direcção regional elaborará informação técnico-jurídica final, sendo aquela proposta de decisão final comunicada obrigatoriamente aos titulares de outros direitos sobre os prédios, referidos no n.º 1 do artigo 20.º da Lei de Bases da Reforma Agrária, aos beneficiários de entrega em exploração, referidos no n.º 1 do artigo 29.º daquela lei, e ainda aos trabalhadores permanentes efectivos ao serviço dos prédios expropriados.
 
 2 - A notificação prevista no número anterior poderá ser feita por edital publicado, ainda que sem identificação pessoal dos interessados, em pelo menos dois números de um jornal diário de grande tiragem nacional e afixado na sede da junta de freguesia de localização do respectivo prédio.
 
@@ -145,15 +160,15 @@ Ao abrigo do disposto no n.º 2 do artigo 47.º da [Lei n.º 109/88](https://dia
 
 4 - Concluídas as diligências previstas nos números anteriores e depois da apreciação de reclamação o processo será despachado pelo director regional e remetido para despacho superior do Ministro da Agricultura, Pescas e Alimentação, ou de quem este delegar.
 
-###### Art. 9.º Devolvido o processo com o despacho ministerial, a direcção regional notificará as partes do teor do despacho, a fim de se proceder à demarcação da reserva.
+Art. 9.º Devolvido o processo com o despacho ministerial, a direcção regional notificará as partes do teor do despacho, a fim de se proceder à demarcação da reserva.
 
-###### Art. 10.º - 1 - No acto da entrega da reserva deverão, salvo acordo em contrário, ser também entregues ao reservatário o equipamento e gado que eram directamente utilizados na respectiva exploração à data da ocupação e que sejam julgados tecnicamente adequados com base nas proporções relativas entre as área total e de reserva, aferidas pelas respectivas características e potencialidades produtivas.
+Art. 10.º - 1 - No acto da entrega da reserva deverão, salvo acordo em contrário, ser também entregues ao reservatário o equipamento e gado que eram directamente utilizados na respectiva exploração à data da ocupação e que sejam julgados tecnicamente adequados com base nas proporções relativas entre as área total e de reserva, aferidas pelas respectivas características e potencialidades produtivas.
 
 2 - Em caso de justificada impossibilidade de efectivação total ou parcial da entrega prevista no número anterior, será a parte não entregue objecto de indemnização definitiva nos termos legalmente definidos.
 
 3 - Da demarcação da reserva será elaborada acta, assinada pelos presentes ou, no caso da recusa destes ou da ausência dos interessados, pelos serviços competentes e duas testemunhas.
 
-###### Art. 11.º - 1 - A concessão do direito de reserva determina o restabelecimento do respectivo direito de propriedade, tal como existia à data da expropriação ou da ocupação, quando esta tenha ocorrido em primeiro lugar.
+Art. 11.º - 1 - A concessão do direito de reserva determina o restabelecimento do respectivo direito de propriedade, tal como existia à data da expropriação ou da ocupação, quando esta tenha ocorrido em primeiro lugar.
 
 2 - Nos termos e para os efeitos do número anterior, sempre que no acto da entrega de reserva se verifique que existem frutos pendentes, fica o respectivo proprietário obrigado a indemnizar o anterior possuidor das despesas de estrutura de custo já absorvido (pesticidas, fertilizantes, correctivos de solos, sementes e propágulos), até ao valor dos frutos que vierem a ser colhidos.
 
@@ -163,34 +178,34 @@ Ao abrigo do disposto no n.º 2 do artigo 47.º da [Lei n.º 109/88](https://dia
 
 ### CAPÍTULO III — Pequenos e médios agricultores e reservas de titulares de outros direitos
 
-###### Art. 12.º Sempre que dos processos organizados nos termos dos capítulos anteriores resultar serem abrangidas pelas reservas áreas entregues em exploração, nos termos e para os efeitos do artigo 29.º, n.º 2, alínea b), da Lei de Bases da Reforma Agrária, deverão os requerentes juntar ao processo os contratos previstos naquele artigo.
+Art. 12.º Sempre que dos processos organizados nos termos dos capítulos anteriores resultar serem abrangidas pelas reservas áreas entregues em exploração, nos termos e para os efeitos do artigo 29.º, n.º 2, alínea b), da Lei de Bases da Reforma Agrária, deverão os requerentes juntar ao processo os contratos previstos naquele artigo.
 
-###### Art. 13.º Aos direitos dos usufrutuários, proprietários, usuários ou rendeiros aplica-se o disposto nos capítulos anteriores, com as devidas adaptações.
+Art. 13.º Aos direitos dos usufrutuários, proprietários, usuários ou rendeiros aplica-se o disposto nos capítulos anteriores, com as devidas adaptações.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 14.º Os processos relativos a titulares que não hajam tido nunca a sua reserva demarcada têm prioridade sobre todos os outros.
+Art. 14.º Os processos relativos a titulares que não hajam tido nunca a sua reserva demarcada têm prioridade sobre todos os outros.
 
-###### Art. 15.º - 1 - São devidos taxas e emolumentos pelos serviços prestados pelo Ministério da Agricultura, Pescas e Alimentação referentes à instrução dos requerimentos previstos no presente diploma.
+Art. 15.º - 1 - São devidos taxas e emolumentos pelos serviços prestados pelo Ministério da Agricultura, Pescas e Alimentação referentes à instrução dos requerimentos previstos no presente diploma.
 
 2 - O montante das taxas e emolumentos a que se refere o número anterior é fixado por despacho do Ministro da Agricultura, Pescas e Alimentação.
 
 3 - As receitas provenientes das taxas e emolumentos reverterão a favor dos serviços regionais respectivos.
 
-###### Art. 16.º Da decisão final proferida nos processos regulados no presente decreto regulamentar cabe recurso contencioso, nos termos gerais de direito administrativo.
+Art. 16.º Da decisão final proferida nos processos regulados no presente decreto regulamentar cabe recurso contencioso, nos termos gerais de direito administrativo.
 
-###### Art. 17.º O presente decreto regulamentar entra em vigor no dia imediato ao da sua publicação.
+Art. 17.º O presente decreto regulamentar entra em vigor no dia imediato ao da sua publicação.
 
 Presidência do Conselho de Ministros, 31 de Outubro de 1988.
 
 Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 28 de Novembro de 1988.**
+Promulgado em 28 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Novembro de 1988.**
+Referendado em 30 de Novembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

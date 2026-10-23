@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 301/1970, 1º Suplemento, Série I de 1970-12-31
   number: '301'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2024-(2) a 2024-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1970/12/30101/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/692-1970-414418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa46640df1cb32bae81bcc4b5c920f4dbd4848bb723c63c8f5579a258957d041
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52ee8967a4c7201c79b86943bbda2b2cffa320abc171d8a725e121893acc41e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:05Z'
   warnings: []
   errors: []
 ---
@@ -89,14 +93,14 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, nos 
 
 Despesas com o pessoal:
 
-###### Artigo 1.º n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... +28000$00
+Artigo 1.º n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... +28000$00
 
 tomando como contrapartida a seguinte disponibilidade existente na mesma tabela de despesa:
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 7.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... -28000$00
+Artigo 7.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... -28000$00
 
-**O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.**
+O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.
 
 Para ser publicada no Boletim Oficial de Timor. - J. da Silva Cunha.

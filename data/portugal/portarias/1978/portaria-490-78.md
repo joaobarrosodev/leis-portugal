@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/08/19600/17221722.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/490-1978-299377
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T05:42:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbd9fa9039bd92c4390195563e7c9ff6da2fd8f7166907868ae95eff4805948a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 939eb42b105039821530475763c266cd949fb3db52e55764fbb0b411a8684aa0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:42:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cálculo de Pensões
+- Pensões
+- Segurança Social
+- Subsídio por Morte
 relationships:
 - type: amended_by
   target: pt:dre:222440:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORTARIA NUMERO 599/86, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 226, DE 13/10/86.\010/86.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:222440:por
+  label: "Revogada pela PORT.599/86.13.10.1986.MTSS, DR.IS [236] de 13.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/599-1986-222440
+  date: '1986-10-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:42:27Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +126,11 @@ I - Para efeito de cálculo de pensão ou de subsídio por morte aos beneficiár
 
 1 - a) Quando ao beneficiário corresponderem contribuições relativas a, pelo menos, seis anos civis anteriores a 1971, com ou sem salários posteriores a 31 de Dezembro de 1970, considera-se como total de salários dos cinco anos civis anteriores a 1971 a que correspondem melhores remunerações o produto do total de salários registados até àquela data pelo factor C, cujos valores são dados pela seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19600/17221722.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19600/17221722.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19600/17221722.pdf)
 
 b) O salário a atribuir a cada um dos cinco últimos anos civis com contribuições anteriores a 1971 obter-se-á multiplicando o total de salários determinado, nos termos do número anterior, pelo factor S correspondente da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19600/17221722.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19600/17221722.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19600/17221722.pdf)
 
 2 - Quando ao beneficiário corresponderem menos de seis anos civis com entrada de contribuições anteriores a 1971, atribuir-se-á a cada um desses anos o salário obtido dividindo o total de salários anteriores a 1971 pelo respectivo número de anos com entrada de contribuições.
 

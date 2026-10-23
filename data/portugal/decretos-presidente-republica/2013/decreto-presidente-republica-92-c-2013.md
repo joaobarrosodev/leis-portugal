@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 143/2013, 1º Suplemento, Série I de 2013-07-26
   number: '143'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4430-(2) a 4430-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/07/14301/0000200002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/92-c/2013/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/92-c-2013-292678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T05:18:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbb6ef17590239f7bcdff7fdf82f419d68b0a1bd06b92005a0b94172131677ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f29e3f79f4ca0e67ce2692690129be8351b6d19ca229a9935c12233dfb7819c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:18:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Exoneração
-- Secretário de Estado do Ensino Superior
-- Membros do Governo
 - Governo XIX
+- Membros do Governo
+- Secretário de Estado do Ensino Superior
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:18:46Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +89,16 @@ validation:
 
 de 26 de julho
 
-**O Presidente da República decreta, nos termos do artigo 133º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133º, alínea h), da Constituição, o seguinte:
 
 É exonerado, a seu pedido e sob proposta do Primeiro-Ministro, o Prof. Doutor João Filipe Cortez Rodrigues Queiró do cargo de Secretário de Estado do Ensino Superior.
 
-**Assinado em 26 de julho de 2013.**
+Assinado em 26 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de julho de 2013.**
+Referendado em 26 de julho de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

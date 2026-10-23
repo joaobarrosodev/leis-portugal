@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/600-1974-473884
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T04:31:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c3410f5e1966419bf885f213d761172a233b776dd8cff391c94048a4e315ac8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: faec49005ce94e3812e5571fba35ddc9992419966b38524a1a860ce442ba5cd2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:31:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:397704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623386:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:31:16Z'
   warnings: []
   errors: []
 ---
@@ -89,8 +97,8 @@ Considerando a necessidade de instituir verdadeiros processos democráticos no f
 
 Manda o Governo Provisório da República Portuguesa, pelo Ministro do Trabalho, ao abrigo do [Decreto-Lei n.º 203/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1974-623386), de 15 de Maio, e do [Decreto-Lei n.º 32820](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32820-1943-397704), de 2 de Junho de 1943:
 
-###### Artigo 1.º O delegado do INTP do distrito de Beja promoverá as diligências necessárias para a realização de eleições entre os associados do Grémio da Lavoura de Serpa, com vista à constituição da respectiva direcção.
+Artigo 1.º O delegado do INTP do distrito de Beja promoverá as diligências necessárias para a realização de eleições entre os associados do Grémio da Lavoura de Serpa, com vista à constituição da respectiva direcção.
 
-###### Art. 2.º A posse da direcção eleita faz cessar a actividade da comissão administrativa nomeada por portaria de 24 de Março de 1972 e publicada no Diário do Governo, 2.ª série, em 30 do mesmo mês.
+Art. 2.º A posse da direcção eleita faz cessar a actividade da comissão administrativa nomeada por portaria de 24 de Março de 1972 e publicada no Diário do Governo, 2.ª série, em 30 do mesmo mês.
 
 Ministério do Trabalho, 16 de Agosto de 1974. - O Ministro do Trabalho, José Inácio da Costa Martins.

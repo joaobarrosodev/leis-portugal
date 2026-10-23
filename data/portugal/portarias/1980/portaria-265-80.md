@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/11500/10411042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o número do diploma que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -48,40 +48,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/265-1980-473969
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2439f1564f53e1e808c94fce210b26ee2c8eca5e150cdc59294271adcd4c5bd1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 085abf553881e0c988aef13cc8113c3cf621ab75c7ae0f8e08191419b7829ba2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alvará
+- Construção Civil
+- Empreiteiro de Obras Públicas
+- Obras Públicas
 relationships:
 - type: amended_by
   target: pt:dre:285742:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:217374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473970:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:474680:por
+  label: Rectificada a numeração constante (264/80) da epígrafe do texto do presente diploma, que passa a ser correspondente
+    à do sumário, pela DECL.DD6994.19.05.1980.PCM, DR.IS [124] de 29.05.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-474680
+  date: '1980-05-19'
+- type: repealed_by
+  target: pt:dre:285742:por
+  label: "Revogada a partir de 01.08.1988 pelo DEC LEI.100/88.23.03.1988.MOPTC, DR.IS [69] de 23.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-1988-285742
+  date: '1988-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:01Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +133,7 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelo Ministro da Habitação e Obras Públicas, o seguinte:
 
-###### Artigo único. As notas (8) e (9) ao mapa IV anexo à [Portaria n.º 351/71](https://diariodarepublica.pt/dr/detalhe/portaria/351-1971-217374), de 30 de Junho, passam a ter a seguinte redacção:
+Artigo único. As notas (8) e (9) ao mapa IV anexo à [Portaria n.º 351/71](https://diariodarepublica.pt/dr/detalhe/portaria/351-1971-217374), de 30 de Junho, passam a ter a seguinte redacção:
 
 (8) A direcção técnica deverá ser exercida por diplomado com especialidade adequada ao âmbito do alvará, entendendo-se que na categoria de construção civil poderá, indiferentemente, ser exercida por engenheiros ou arquitectos.
 

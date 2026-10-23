@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/83/1995/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/83-1995-642917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T08:29:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4ab823eef98038b4932d2ee459f5eafd288bc8cd062dacff611ae68fd343d93
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9610d6e53569ede9f266b3443f50d2644ce4f48df08c010b6d6cba875f81d3b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:29:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,73 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autonomia Universitária
+- Ensino Superior
 - Estatuto
 - Quadro de Pessoal
-- Ensino Superior
 - Universidade do Minho
 relationships:
 - type: amended_by
   target: pt:dre:73115727:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:73115727:por
+  label: Transformada em fundação pública a Universidade do Minho criada pelo Dec Lei 402/73 de 11-ago, com Estatutos homologados
+    pelo presente Despacho, e determinado que a mesma fundação sucede em todos os direitos e obrigações na titularidade da
+    Universidade do Minho à data da transformação, pelo(a) Decreto-Lei n.º 4/2016 - Diário da República n.º 8/2016, Série
+    I de 2016-01-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-2016-73115727
+  date: '2016-01-13'
+- type: cites
+  target: pt:dre:197080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3352088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601116:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:29:38Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +173,7 @@ Os órgãos de gestão das unidades orgânicas foram, consequentemente, adaptado
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1 - A Universidade do Minho, adiante designada abreviadamente por Universidade, é um centro de criação, transmissão e difusão da cultura, da ciência e da tecnologia, que tem por fins fundamentais:
+Artigo 1.º - 1 - A Universidade do Minho, adiante designada abreviadamente por Universidade, é um centro de criação, transmissão e difusão da cultura, da ciência e da tecnologia, que tem por fins fundamentais:
 
 a) A formação humana, ao mais alto nível, nos seus aspectos cultural, científico, artístico, técnico e profissional;
 
@@ -141,23 +189,23 @@ e) A contribuição, no seu âmbito de actividade, para a cooperação internaci
 
 3 - Para a prossecução dos seus fins, a Universidade pode celebrar convénios, protocolos, contratos e outros acordos com instituições públicas ou privadas, nacionais ou estrangeiras.
 
-###### Art. 2.º A Universidade do Minho é uma pessoa colectiva de direito público, dotada de autonomia estatutária, científica, pedagógica, administrativa, financeira e disciplinar.
+Art. 2.º A Universidade do Minho é uma pessoa colectiva de direito público, dotada de autonomia estatutária, científica, pedagógica, administrativa, financeira e disciplinar.
 
-###### Art. 3.º - 1 - A Universidade confere os graus de licenciado, de mestre e de doutor, o título de professor agregado e outros certificados e diplomas, bem como a equivalência e o reconhecimento de graus de habilitações académicas.
+Art. 3.º - 1 - A Universidade confere os graus de licenciado, de mestre e de doutor, o título de professor agregado e outros certificados e diplomas, bem como a equivalência e o reconhecimento de graus de habilitações académicas.
 
 2 - A Universidade pode conferir ainda o grau de bacharel e o diploma de estudos especializados sempre que ministre cursos de duração e conteúdo correspondentes a esses níveis, nos termos da lei.
 
 3 - A Universidade confere ainda graus e títulos honoríficos, designadamente o grau de doutor honoris causa.
 
-###### Art. 4.º A Universidade garante e promove a liberdade de criação científica, cultural e tecnológica, a pluralidade e livre expressão de orientações e opiniões e a participação de todos os corpos universitários na vida académica comum e assegura métodos de gestão democrática.
+Art. 4.º A Universidade garante e promove a liberdade de criação científica, cultural e tecnológica, a pluralidade e livre expressão de orientações e opiniões e a participação de todos os corpos universitários na vida académica comum e assegura métodos de gestão democrática.
 
 ### CAPÍTULO II — Sede, símbolos e Dia da Universidade
 
-###### Art. 5.º - 1 - A Universidade tem sede na cidade de Braga, dispõe de pólos nas cidades de Braga e Guimarães e poderá criar pólos em outras localidades do Minho, se necessário, para a realização dos seus fins.
+Art. 5.º - 1 - A Universidade tem sede na cidade de Braga, dispõe de pólos nas cidades de Braga e Guimarães e poderá criar pólos em outras localidades do Minho, se necessário, para a realização dos seus fins.
 
 2 - Os pólos têm carácter universitário, integrando várias escolas ou secções de escola.
 
-###### Art. 6.º - 1 - A Universidade adopta as cores branca e vermelha.
+Art. 6.º - 1 - A Universidade adopta as cores branca e vermelha.
 
 2 - A Universidade adopta emblemática e traje professoral próprios.
 
@@ -165,13 +213,13 @@ e) A contribuição, no seu âmbito de actividade, para a cooperação internaci
 
 ### CAPÍTULO III — Estrutura e modelo de gestão
 
-###### Art. 7.º A Universidade adopta um modelo de gestão matricial, que se manifesta na interacção entre projectos e unidades orgânicas.
+Art. 7.º A Universidade adopta um modelo de gestão matricial, que se manifesta na interacção entre projectos e unidades orgânicas.
 
-###### Art. 8.º - 1 - Projectos são actividades de ensino, investigação e serviços especializados que visam a realização dos fins próprios da Universidade.
+Art. 8.º - 1 - Projectos são actividades de ensino, investigação e serviços especializados que visam a realização dos fins próprios da Universidade.
 
 2 - Unidades orgânicas são núcleos de recursos humanos e materiais propiciadores do desenvolvimento dos projectos e do funcionamento da instituição.
 
-###### Art. 9.º Os projectos, consoante o seu objectivo dominante, consideram-se:
+Art. 9.º Os projectos, consoante o seu objectivo dominante, consideram-se:
 
 a) Projectos de investigação;
 
@@ -179,7 +227,7 @@ b) Projectos de ensino (ou cursos);
 
 c) Projectos de serviços especializados.
 
-###### Art. 10.º - 1 - As unidades orgânicas compreendem três tipos distintos, com objectivos diferenciados:
+Art. 10.º - 1 - As unidades orgânicas compreendem três tipos distintos, com objectivos diferenciados:
 
 a) Escolas;
 
@@ -189,7 +237,7 @@ c) Serviços.
 
 2 - A Universidade pode criar, por si só ou conjuntamente com entidades do exterior, outras unidades com objectivos diferenciados e não integráveis nas anteriores.
 
-###### Art. 11.º - 1 - Os projectos e unidades orgânicas são objecto de gestão diferenciada.
+Art. 11.º - 1 - Os projectos e unidades orgânicas são objecto de gestão diferenciada.
 
 2 - A gestão dos projectos exerce-se, consoante os casos, ao nível do departamento, da unidade orgânica ou da Universidade.
 
@@ -197,15 +245,15 @@ c) Serviços.
 
 #### SECÇÃO I — Generalidades
 
-###### Art. 12.º A prossecução dos fins da Universidade é assegurada por órgãos de governo e por um órgão consultivo, que é o conselho cultural.
+Art. 12.º A prossecução dos fins da Universidade é assegurada por órgãos de governo e por um órgão consultivo, que é o conselho cultural.
 
-###### Art. 13.º - 1 - Os órgãos de governo têm por missão a direcção global da Universidade nos aspectos estatutários, científicos, pedagógicos, culturais, administrativos, financeiros, de planeamento e de extensão universitária.
+Art. 13.º - 1 - Os órgãos de governo têm por missão a direcção global da Universidade nos aspectos estatutários, científicos, pedagógicos, culturais, administrativos, financeiros, de planeamento e de extensão universitária.
 
 2 - O conselho cultural assegura uma permanente ligação com a comunidade, no âmbito das actividades culturais da Universidade.
 
 #### SECÇÃO II — Órgãos de governo
 
-###### Art. 14.º São órgãos de governo da Universidade:
+Art. 14.º São órgãos de governo da Universidade:
 
 a) A assembleia da Universidade;
 
@@ -219,7 +267,7 @@ e) O conselho administrativo.
 
 ##### SUBSECÇÃO I — Assembleia da Universidade
 
-###### Art. 15.º - 1 - A assembleia da Universidade é o órgão colegial máximo representativo da comunidade universitária.
+Art. 15.º - 1 - A assembleia da Universidade é o órgão colegial máximo representativo da comunidade universitária.
 
 2 - Compete à assembleia da Universidade:
 
@@ -229,7 +277,7 @@ b) Eleger o reitor, dar-lhe posse e decidir sobre a sua destituição;
 
 c) Apreciar e deliberar sobre todos os assuntos de importância fundamental para a Universidade que lhe sejam submetidos pelo reitor.
 
-###### Art. 16.º - 1 - São membros da assembleia da Universidade, por inerência:
+Art. 16.º - 1 - São membros da assembleia da Universidade, por inerência:
 
 a) O reitor, os vice-reitores e os pró-reitores;
 
@@ -269,7 +317,7 @@ b) Um ano para os representantes dos discentes.
 
 ##### SUBSECÇÃO II — Reitor
 
-###### Art. 17.º - 1 - O reitor é o órgão que superiormente representa e dirige a Universidade.
+Art. 17.º - 1 - O reitor é o órgão que superiormente representa e dirige a Universidade.
 
 2 - Compete, nomeadamente, ao reitor:
 
@@ -295,11 +343,11 @@ i) Reconhecer, em todas as circunstâncias previstas na lei, a urgente conveniê
 
 4 - Ouvido o senado universitário, o reitor pode delegar nos órgãos de gestão das unidades orgânicas as competências que se tornem necessárias a uma gestão mais eficiente.
 
-###### Art. 18.º - 1 - O reitor é eleito, em escrutínio secreto, de entre os professores catedráticos de nomeação definitiva, em conformidade com a regulamentação da assembleia da Universidade.
+Art. 18.º - 1 - O reitor é eleito, em escrutínio secreto, de entre os professores catedráticos de nomeação definitiva, em conformidade com a regulamentação da assembleia da Universidade.
 
 2 - O mandato do reitor tem a duração de quatro anos e e renovável por uma só vez.
 
-###### Art. 19.º - 1 - O reitor é coadjuvado por três vice-reitores, nos quais pode delegar ou subdelegar parte das suas competências.
+Art. 19.º - 1 - O reitor é coadjuvado por três vice-reitores, nos quais pode delegar ou subdelegar parte das suas competências.
 
 2 - Os vice-reitores são nomeados pelo reitor, de entre os professores catedráticos.
 
@@ -307,13 +355,13 @@ i) Reconhecer, em todas as circunstâncias previstas na lei, a urgente conveniê
 
 4 - Por despacho do reitor, será designado o vice-reitor que o deverá substituir nas suas ausências e impedimentos.
 
-###### Art. 20.º - 1 - O reitor pode ainda ser coadjuvado por pró-reitores, no máximo de cinco, por ele escolhidos e nomeados de entre os professores da Universidade.
+Art. 20.º - 1 - O reitor pode ainda ser coadjuvado por pró-reitores, no máximo de cinco, por ele escolhidos e nomeados de entre os professores da Universidade.
 
 2 - Os pró-reitores desenvolverão as suas actividades, por delegação do reitor, em tarefas específicas.
 
 ##### SUBSECÇÃO III — Senado universitário
 
-###### Art. 21.º - 1 - O senado universitário é o órgão colegial com participação de elementos da comunidade envolvente, que tem como missão fundamental definir as linhas gerais de orientação da Universidade.
+Art. 21.º - 1 - O senado universitário é o órgão colegial com participação de elementos da comunidade envolvente, que tem como missão fundamental definir as linhas gerais de orientação da Universidade.
 
 2 - Compete ao senado universitário:
 
@@ -335,7 +383,7 @@ h) Exercer o poder disciplinar, nos termos da lei;
 
 i) Ocupar-se dos restantes assuntos que lhe forem cometidos por lei ou apresentados pelo reitor.
 
-###### Art. 22.º - 1 - São membros do senado universitário, por inerência:
+Art. 22.º - 1 - São membros do senado universitário, por inerência:
 
 a) O reitor e os vice-reitores;
 
@@ -381,11 +429,11 @@ c) Dois anos, para as individualidades escolhidas pelo reitor.
 
 6 - Independentemente do número anterior, com o termo do mandato do reitor cessa o mandato dos membros do senado universitário escolhidos pelo reitor.
 
-###### Art. 23.º - 1 - O senado universitário pode funcionar em plenário ou por comissões, permanentes ou temporárias, nos termos do respectivo regulamento interno.
+Art. 23.º - 1 - O senado universitário pode funcionar em plenário ou por comissões, permanentes ou temporárias, nos termos do respectivo regulamento interno.
 
 2 - Sempre que necessário, o senado universitário criará comissões ad hoc, as quais poderão integrar elementos exteriores ao senado universitário, nos termos do respectivo regulamento interno.
 
-###### Art. 24.º - 1 - Para efeitos do exercício do poder disciplinar é criado o conselho disciplinar, como comissão permanente do senado universitário.
+Art. 24.º - 1 - Para efeitos do exercício do poder disciplinar é criado o conselho disciplinar, como comissão permanente do senado universitário.
 
 2 - Constituem o conselho disciplinar:
 
@@ -403,7 +451,7 @@ e) Dois funcionários.
 
 ##### SUBSECÇÃO IV — Conselho académico
 
-###### Art. 25.º - 1 - O conselho académico é o órgão que define as políticas científica e pedagógica da Universidade.
+Art. 25.º - 1 - O conselho académico é o órgão que define as políticas científica e pedagógica da Universidade.
 
 2 - Compete ao conselho académico:
 
@@ -437,7 +485,7 @@ o) Deliberar, no âmbito das suas competências, sobre outros assuntos de carác
 
 p) Emitir parecer sobre todos os assuntos que lhe sejam apresentados pelo reitor e pelo senado universitário.
 
-###### Art. 26.º - 1 - Constituem o plenário do conselho académico:
+Art. 26.º - 1 - Constituem o plenário do conselho académico:
 
 a) O reitor ou um seu delegado;
 
@@ -471,17 +519,17 @@ a) Dois anos, para os representantes dos docentes e investigadores;
 
 b) Um ano, para os representantes dos estudantes.
 
-###### Art. 27.º - 1 - O conselho académico elegerá um vice-presidente de entre os professores catedráticos.
+Art. 27.º - 1 - O conselho académico elegerá um vice-presidente de entre os professores catedráticos.
 
 2 - O mandato do vice-presidente tem a duração de dois anos.
 
 3 - O presidente pode delegar parte das suas competências no vice-presidente.
 
-###### Art. 28.º O conselho académico funciona em plenário e em comissões especializadas, com carácter permanente ou temporário.
+Art. 28.º O conselho académico funciona em plenário e em comissões especializadas, com carácter permanente ou temporário.
 
 ##### SUBSECÇÃO V — Conselho administrativo
 
-###### Art. 29.º - 1 - O conselho administrativo é o órgão de gestão administrativa, financeira e patrimonial da Universidade, nos termos da legislação aplicável aos organismos públicos com autonomia administrativa e financeira.
+Art. 29.º - 1 - O conselho administrativo é o órgão de gestão administrativa, financeira e patrimonial da Universidade, nos termos da legislação aplicável aos organismos públicos com autonomia administrativa e financeira.
 
 2 - Compete, designadamente, ao conselho administrativo:
 
@@ -525,7 +573,7 @@ t) Exercer as demais competências que lhe sejam atribuídas por lei ou delegada
 
 3 - O conselho administrativo, ouvido o senado universitário, poderá delegar parte das suas competências nos órgãos de gestão das unidades orgânicas.
 
-###### Art. 30.º Constituem o conselho administrativo;
+Art. 30.º Constituem o conselho administrativo;
 
 a) O reitor;
 
@@ -537,7 +585,7 @@ d) Um representante dos estudantes, indicado pela Associação Académica da Uni
 
 e) O responsável pelos Serviços Administrativos.
 
-###### Art. 31.º - 1 - As deliberações do conselho administrativo são tomadas por maioria simples, sendo os seus membros solidariamente responsáveis por essas deliberações, salvo se não tiverem estado presentes ou se houverem feito exarar em acta a sua discordância.
+Art. 31.º - 1 - As deliberações do conselho administrativo são tomadas por maioria simples, sendo os seus membros solidariamente responsáveis por essas deliberações, salvo se não tiverem estado presentes ou se houverem feito exarar em acta a sua discordância.
 
 2 - As actas do conselho administrativo farão menção expressa dos levantamentos de fundos, das despesas e dos pagamentos autorizados.
 
@@ -545,7 +593,7 @@ e) O responsável pelos Serviços Administrativos.
 
 #### SECÇÃO III — Conselho cultural
 
-###### Art. 32.º - 1 - O conselho cultural é um órgão de consulta do reitor e do senado universitário, no quadro da acção cultural da Universidade, e de coordenação das actividades das unidades culturais.
+Art. 32.º - 1 - O conselho cultural é um órgão de consulta do reitor e do senado universitário, no quadro da acção cultural da Universidade, e de coordenação das actividades das unidades culturais.
 
 2 - Como órgão de consulta, compete ao conselho cultural dar parecer sobre:
 
@@ -571,7 +619,7 @@ e) Elaborar os regulamentos do conselho e submetê-los a aprovação superior;
 
 f) Decidir sobre os demais assuntos que lhe forem cometidos pelo reitor.
 
-###### Art. 33.º - O conselho cultural é constituído pelos seguintes membros:
+Art. 33.º - O conselho cultural é constituído pelos seguintes membros:
 
 a) 1 presidente, em representação do reitor;
 
@@ -587,9 +635,9 @@ f) Até 3 personalidades de reconhecido mérito no domínio da cultura, resident
 
 g) Até 10 elementos em representação de instituições ou associações relevantes no âmbito das actividades culturais da região, escolhidas nos termos definidos no regulamento do conselho.
 
-###### Art. 34.º O regime de funcionamento e a duração do mandato dos membros do conselho cultural serão definidos em regulamento elaborado pelo conselho cultural e aprovado pelo reitor.
+Art. 34.º O regime de funcionamento e a duração do mandato dos membros do conselho cultural serão definidos em regulamento elaborado pelo conselho cultural e aprovado pelo reitor.
 
-###### Art. 35.º - 1 - O conselho cultural integra uma comissão permanente, constituída pelo presidente e pelos responsáveis das unidades culturais da Universidade.
+Art. 35.º - 1 - O conselho cultural integra uma comissão permanente, constituída pelo presidente e pelos responsáveis das unidades culturais da Universidade.
 
 2 - A comissão permanente ocupar-se-á de todos os assuntos que interessem ao conselho cultural, submetendo à apreciação do plenário aqueles que não caibam na competência que nela tenha sido delegada.
 
@@ -597,9 +645,9 @@ g) Até 10 elementos em representação de instituições ou associações relev
 
 #### SECÇÃO I — Projectos de investigação e centros
 
-###### Art. 36.º Consideram-se projectos de investigação as actividades de investigação científica ou tecnológica que visem objectivos bem definidos, de duração limitada e de execução programada no tempo.
+Art. 36.º Consideram-se projectos de investigação as actividades de investigação científica ou tecnológica que visem objectivos bem definidos, de duração limitada e de execução programada no tempo.
 
-###### Art. 37.º - 1 - Tendo em vista a promoção da investigação e uma melhor interacção de recursos, os projectos de investigação organizar-se-ão no âmbito de centros de investigação ou de núcleos de investigação.
+Art. 37.º - 1 - Tendo em vista a promoção da investigação e uma melhor interacção de recursos, os projectos de investigação organizar-se-ão no âmbito de centros de investigação ou de núcleos de investigação.
 
 2 - A criação de centros de investigação pressupõe um número mínimo de docentes ou investigadores doutorados e de projectos de investigação.
 
@@ -609,11 +657,11 @@ g) Até 10 elementos em representação de instituições ou associações relev
 
 5 - Poderão ainda ser constituídos institutos de investigação, por associação de centros e ou núcleos de investigação, tendo em vista potenciar uma melhor intervenção da Universidade em programas interdisciplinares de investigação.
 
-###### Art. 38.º Os modelos e órgãos de gestão dos núcleos, centros ou institutos de investigação serão fixados em regulamento próprio, a ser aprovado pelo conselho académico.
+Art. 38.º Os modelos e órgãos de gestão dos núcleos, centros ou institutos de investigação serão fixados em regulamento próprio, a ser aprovado pelo conselho académico.
 
 #### SECÇÃO II — Projectos de ensino
 
-###### Art. 39.º - 1 - Os cursos de graduação são actividades formais de ensino curricular conducentes à obtenção do 1.º grau académico.
+Art. 39.º - 1 - Os cursos de graduação são actividades formais de ensino curricular conducentes à obtenção do 1.º grau académico.
 
 2 - Os cursos de pós-graduação são actividades formais de ensino curricular conducentes à obtenção de um diploma de pós-graduação ou dos graus de mestre ou de doutor.
 
@@ -621,7 +669,7 @@ g) Até 10 elementos em representação de instituições ou associações relev
 
 ##### SUBSECÇÃO I — Cursos de graduação
 
-###### Art. 40.º - 1 - Os cursos de graduação são objecto de uma direcção e gestão próprias, através dos seguintes órgãos:
+Art. 40.º - 1 - Os cursos de graduação são objecto de uma direcção e gestão próprias, através dos seguintes órgãos:
 
 a) Os conselhos de cursos;
 
@@ -633,11 +681,11 @@ c) Os directores de curso.
 
 3 - Compete ao conselho académico aprovar a criação ou reformulação de conselhos de cursos.
 
-###### Art. 41.º - 1 - O presidente do conselho de cursos é eleito pelos membros do respectivo conselho de entre os directores de curso.
+Art. 41.º - 1 - O presidente do conselho de cursos é eleito pelos membros do respectivo conselho de entre os directores de curso.
 
 2 - O director de curso é o responsável de um dos departamentos que compreendem as áreas científicas específicas do curso ou um professor, por si designado, do curso.
 
-###### Art. 42.º - 1 - Compete ao conselho de cursos:
+Art. 42.º - 1 - Compete ao conselho de cursos:
 
 a) Promover a coordenação interdisciplinar da docência;
 
@@ -677,7 +725,7 @@ c) Elaborar anualmente um relatório sobre o funcionamento do curso, ao qual ser
 
 d) Pronunciar-se sobre as alterações curriculares a introduzir nos respectivos cursos.
 
-###### Art. 43.º - 1 - Integram obrigatoriamente o conselho de cursos:
+Art. 43.º - 1 - Integram obrigatoriamente o conselho de cursos:
 
 a) O presidente do conselho de cursos;
 
@@ -689,11 +737,11 @@ d) Representantes dos estudantes, em paridade com o número de representantes do
 
 2 - O regulamento do conselho de cursos definirá a constituição exacta do conselho, bem como a forma de representação dos estudantes por cursos e por anos ou grupos de anos.
 
-###### Art. 44.º - 1 - Os conselhos de cursos poderão funcionar em plenário ou por comissões especializadas, nos termos definidos nos respectivos regulamentos.
+Art. 44.º - 1 - Os conselhos de cursos poderão funcionar em plenário ou por comissões especializadas, nos termos definidos nos respectivos regulamentos.
 
 2 - Os regulamentos definirão ainda, para cada curso integrado, qual o departamento ou departamentos específicos do curso, para efeitos de designação do director de curso.
 
-###### Art. 45.º Para efeitos de avaliação do funcionamento dos cursos, tendo em vista potenciar uma permanente actualização dos conteúdos e dos métodos e perspectivar as necessárias reestruturações dos planos de estudos, bem como a elaboração de propostas de alterações curriculares e de medidas que visem a melhoria da qualidade do ensino, o regulamento do conselho de cursos definirá o modo de constituição e funcionamento de comissões ad hoc de avaliação, salvaguardados os seguintes princípios:
+Art. 45.º Para efeitos de avaliação do funcionamento dos cursos, tendo em vista potenciar uma permanente actualização dos conteúdos e dos métodos e perspectivar as necessárias reestruturações dos planos de estudos, bem como a elaboração de propostas de alterações curriculares e de medidas que visem a melhoria da qualidade do ensino, o regulamento do conselho de cursos definirá o modo de constituição e funcionamento de comissões ad hoc de avaliação, salvaguardados os seguintes princípios:
 
 a) Representatividade dos departamentos envolvidos no curso;
 
@@ -701,17 +749,17 @@ b) Articulação com o conselho de escola das escolas envolvidas.
 
 ##### SUBSECÇÃO II — Cursos de pós-graduação
 
-###### Art. 46.º Os cursos de pós-graduação são objecto de regulamentação e gestão próprias, a definir pelo conselho académico.
+Art. 46.º Os cursos de pós-graduação são objecto de regulamentação e gestão próprias, a definir pelo conselho académico.
 
 ##### SUBSECÇÃO III — Cursos de extensão
 
-###### Art. 47.º Os cursos de extensão são objecto de gestão própria, a definir pela unidade ou unidades orgânicas envolvidas, nos termos dos respectivos regulamentos.
+Art. 47.º Os cursos de extensão são objecto de gestão própria, a definir pela unidade ou unidades orgânicas envolvidas, nos termos dos respectivos regulamentos.
 
 #### SECÇÃO III — Projectos de serviços especializados
 
-###### Art. 48.º Os projectos de serviços constituem acções desenvolvidas pela Universidade visando a satisfação de interesses ou necessidades da comunidade, mas não inseríveis directamente no âmbito do ensino ou investigação formais.
+Art. 48.º Os projectos de serviços constituem acções desenvolvidas pela Universidade visando a satisfação de interesses ou necessidades da comunidade, mas não inseríveis directamente no âmbito do ensino ou investigação formais.
 
-###### Art. 49.º - 1 - As responsabilidades dos projectos de serviços e os mecanismos para a sua aprovação serão definidos pelos regulamentos das unidades orgânicas ou centros promotores.
+Art. 49.º - 1 - As responsabilidades dos projectos de serviços e os mecanismos para a sua aprovação serão definidos pelos regulamentos das unidades orgânicas ou centros promotores.
 
 2 - A realização dos projectos de serviços terá em conta o regulamento de prestação de serviços especializados ao exterior, a aprovar por despacho do reitor, ouvido o conselho académico.
 
@@ -719,7 +767,7 @@ b) Articulação com o conselho de escola das escolas envolvidas.
 
 #### SECÇÃO I — Generalidades
 
-###### Art. 50.º - 1 - As escolas são unidades orgânicas permanentes que asseguram o ensino, a investigação e outros serviços especializados no respectivo âmbito científico e agrupam departamentos com interesses científico-pedagógicos afins.
+Art. 50.º - 1 - As escolas são unidades orgânicas permanentes que asseguram o ensino, a investigação e outros serviços especializados no respectivo âmbito científico e agrupam departamentos com interesses científico-pedagógicos afins.
 
 2 - As escolas correspondem a áreas do saber tradicionalmente agrupadas em faculdades, mas, não incluindo em si a gestão dos projectos de ensino, não lhes são formalmente equivalentes.
 
@@ -729,9 +777,9 @@ b) Articulação com o conselho de escola das escolas envolvidas.
 
 #### SECÇÃO II — Escolas
 
-###### Art. 51.º As escolas, no âmbito das respectivas competências, gozam de autonomia pedagógica, científica e administrativa, designadamente o direito de gerirem livremente, nos termos da lei, as verbas postas à sua disposição.
+Art. 51.º As escolas, no âmbito das respectivas competências, gozam de autonomia pedagógica, científica e administrativa, designadamente o direito de gerirem livremente, nos termos da lei, as verbas postas à sua disposição.
 
-###### Art. 52.º - 1 - A direcção das escolas cabe aos seguintes órgãos:
+Art. 52.º - 1 - A direcção das escolas cabe aos seguintes órgãos:
 
 a) O conselho de escola;
 
@@ -741,7 +789,7 @@ c) O conselho científico.
 
 2 - O regulamento da escola poderá prever a constituição de órgãos de natureza diferente, que repartam as funções dos órgãos definidos no número anterior.
 
-###### Art. 53.º - 1 - O conselho de escola é o órgão de definição da política da escola.
+Art. 53.º - 1 - O conselho de escola é o órgão de definição da política da escola.
 
 2 - Compete, designadamente, ao conselho de escola:
 
@@ -759,7 +807,7 @@ f) Pronunciar-se sobre as propostas de criação e modificação de cursos que e
 
 g) Elaborar o regulamento da escola.
 
-###### Art. 54.º - 1 - Constituem o plenário do conselho de escola:
+Art. 54.º - 1 - Constituem o plenário do conselho de escola:
 
 a) O presidente e os vice-presidentes;
 
@@ -775,11 +823,11 @@ f) Um representante dos funcionários não docentes.
 
 2 - A comissão coordenadora é constituída pelos membros referidos nas alíneas a), b), d) e f) do número anterior.
 
-###### Art. 55.º - 1 - O conselho de escola funciona em plenário e em comissão coordenadora.
+Art. 55.º - 1 - O conselho de escola funciona em plenário e em comissão coordenadora.
 
 2 - Poderão ainda ser criadas outras comissões, permanentes ou temporárias.
 
-###### Art. 56.º - 1 - A comissão coordenadora é o órgão de gestão corrente da escola.
+Art. 56.º - 1 - A comissão coordenadora é o órgão de gestão corrente da escola.
 
 2 - Compete, nomeadamente, à comissão coordenadora:
 
@@ -803,13 +851,13 @@ b) Promover, até 1 de Dezembro de cada ano, o levantamento das candidaturas a e
 
 c) Manter um registo curricular actualizado de cada um dos docentes e investigadores da escola.
 
-###### Art. 57.º - 1 - O presidente da escola será um professor catedrático ou associado eleito directamente por todos os elementos da escola, sendo a votação dos vários corpos afectada por coeficientes de ponderação a definir no regulamento de cada escola.
+Art. 57.º - 1 - O presidente da escola será um professor catedrático ou associado eleito directamente por todos os elementos da escola, sendo a votação dos vários corpos afectada por coeficientes de ponderação a definir no regulamento de cada escola.
 
 2 - O peso atribuído ao corpo dos doutorados e ao dos docentes e investigadores não doutorados nunca poderá ser inferior a 50% e a 30%, respectivamente.
 
 3 - O mandato do presidente é de dois anos e é renovável.
 
-###### Art. 58.º - 1 - Compete ao presidente:
+Art. 58.º - 1 - Compete ao presidente:
 
 a) Representar a escola e presidir aos respectivos órgãos colegiais e suas comissões e convocar as reuniões;
 
@@ -821,7 +869,7 @@ c) Zelar pelo cumprimento das leis, dos regulamentos e das instruções emanadas
 
 3 - O presidente poderá delegar parte das suas competências no ou nos vice-presidentes.
 
-###### Art. 59.º - 1 - Ao conselho científico incumbem as questões relativas a concursos de admissão ou promoção do pessoal docente e as provas conducentes a graus e títulos académicos.
+Art. 59.º - 1 - Ao conselho científico incumbem as questões relativas a concursos de admissão ou promoção do pessoal docente e as provas conducentes a graus e títulos académicos.
 
 2 - Compete, designadamente, ao conselho científico:
 
@@ -845,11 +893,11 @@ i) Pronunciar-se sobre os processos de aceitação ou rejeição liminar dos ped
 
 j) Propor a composição dos júris de agregação.
 
-###### Art. 60.º - 1 - O conselho científico é constituído por todos os doutores da escola.
+Art. 60.º - 1 - O conselho científico é constituído por todos os doutores da escola.
 
 2 - Se a dimensão da escola o justificar, o respectivo regulamento poderá prever o funcionamento de uma comissão coordenadora do conselho científico, a qual deverá ter um mínimo de 12 membros.
 
-###### Art. 61.º - 1 - Existem na Universidade as Escolas de:
+Art. 61.º - 1 - Existem na Universidade as Escolas de:
 
 a) Ciências Exactas e da Natureza;
 
@@ -867,17 +915,17 @@ f) Letras e Artes.
 
 3 - A criação de novas escolas, designadamente por reestruturação, pressuporá, como dimensão mínima, a existência de 12 docentes com o grau de doutor, para um corpo docente não inferior a 36 elementos a tempo inteiro.
 
-###### Art. 62.º As escolas referidas no n.º 1 do artigo anterior que ainda, e enquanto, não cumpram as condições de dimensão mínima definidas no n.º 3 do mesmo artigo reger-se-ão por regulamento especial, a ser definido pelo senado universitário mediante proposta do reitor.
+Art. 62.º As escolas referidas no n.º 1 do artigo anterior que ainda, e enquanto, não cumpram as condições de dimensão mínima definidas no n.º 3 do mesmo artigo reger-se-ão por regulamento especial, a ser definido pelo senado universitário mediante proposta do reitor.
 
 ##### SUBSECÇÃO I — Departamentos
 
-###### Art. 63.º - 1 - Os departamentos são organizações permanentes de criação e transmissão do conhecimento no domínio de uma disciplina ou grupo de disciplinas, constituindo, como tal, a célula base de organização científico-pedagógica e de gestão de recursos humanos e materiais num domínio consolidado do saber.
+Art. 63.º - 1 - Os departamentos são organizações permanentes de criação e transmissão do conhecimento no domínio de uma disciplina ou grupo de disciplinas, constituindo, como tal, a célula base de organização científico-pedagógica e de gestão de recursos humanos e materiais num domínio consolidado do saber.
 
 2 - Os departamentos são constituídos por docentes e investigadores ligados à disciplina ou grupo de disciplinas definidoras do departamento, detendo também indispensáveis recursos materiais.
 
 3 - Os departamentos gozam de autonomia científica, pedagógica e administrativa, nos termos a estabelecer no regulamento da escola.
 
-###### Art. 64.º - 1 - A direcção dos departamentos será exercida pelos órgãos a definir no regulamento da escola, sem prejuízo de cada departamento estabelecer o seu próprio regulamento dentro dos limites das suas competências.
+Art. 64.º - 1 - A direcção dos departamentos será exercida pelos órgãos a definir no regulamento da escola, sem prejuízo de cada departamento estabelecer o seu próprio regulamento dentro dos limites das suas competências.
 
 2 - Compete, necessariamente, aos órgãos de gestão do departamento:
 
@@ -909,7 +957,7 @@ n) Exercer as demais competências que lhe sejam atribuídas pelo regulamento in
 
 o) Elaborar o regulamento do departamento.
 
-###### Art. 65.º - 1 - A criação de departamentos pressupõe, como dimensão mínima, a existência de três docentes com o grau de doutor e um total de nove docentes a tempo inteiro.
+Art. 65.º - 1 - A criação de departamentos pressupõe, como dimensão mínima, a existência de três docentes com o grau de doutor e um total de nove docentes a tempo inteiro.
 
 2 - Poderão ser criadas secções que não satisfaçam as condições do número anterior, as quais, para efeitos de gestão, serão agregadas a departamentos afins.
 
@@ -917,7 +965,7 @@ o) Elaborar o regulamento do departamento.
 
 #### SECÇÃO III — Unidades culturais
 
-###### Art. 66.º - 1 - São unidades culturais da Universidade:
+Art. 66.º - 1 - São unidades culturais da Universidade:
 
 a) O Arquivo Distrital de Braga;
 
@@ -933,13 +981,13 @@ f) A Unidade de Educação de Adultos.
 
 2 - A criação, fusão, subdivisão e extinção de unidades culturais será decidida pelo senado uiversitário, por proposta do reitor.
 
-###### Art. 67.º - 1 - A direcção de cada uma das unidades referidas no artigo anterior será assegurada por um director de serviços ou por um docente ou técnico superior nomeado pelo reitor, ouvido o conselho cultural.
+Art. 67.º - 1 - A direcção de cada uma das unidades referidas no artigo anterior será assegurada por um director de serviços ou por um docente ou técnico superior nomeado pelo reitor, ouvido o conselho cultural.
 
 2 - Os modelos de gestão das unidades culturais serão fixados em regulamento próprio, a ser elaborado pelo conselho cultural e aprovado pelo reitor.
 
 #### SECÇÃO IV — Serviços
 
-###### Art. 68.º - 1 - São serviços da Universidade:
+Art. 68.º - 1 - São serviços da Universidade:
 
 a) A Assessoria Jurídica;
 
@@ -969,15 +1017,15 @@ m) Os Serviços Técnicos.
 
 3 - Quando a natureza das tarefas o justificar, poderão ser criados serviços independentes em cada um dos pólos da Universidade.
 
-###### Art. 69.º - 1 - A direcção dos serviços será assegurada por directores de serviços ou por responsáveis directamente dependentes do reitor.
+Art. 69.º - 1 - A direcção dos serviços será assegurada por directores de serviços ou por responsáveis directamente dependentes do reitor.
 
 2 - Os Serviços Administrativos são coordenados pelo administrador.
 
-###### Art. 70.º A assistência à comunidade universitária é assegurada pelos Serviços Sociais, que se regem por legislação própria.
+Art. 70.º A assistência à comunidade universitária é assegurada pelos Serviços Sociais, que se regem por legislação própria.
 
 ### CAPÍTULO VII — Gestão administrativa, financeira e patrimonial
 
-###### Art. 71.º - 1 - Constitui património da Universidade o conjunto de bens e direitos próprios e os que, pelo Estado ou outras entidades, públicas ou privadas, sejam afectados à realização dos seus fins.
+Art. 71.º - 1 - Constitui património da Universidade o conjunto de bens e direitos próprios e os que, pelo Estado ou outras entidades, públicas ou privadas, sejam afectados à realização dos seus fins.
 
 2 - São receitas da Universidade:
 
@@ -1005,7 +1053,7 @@ l) Quaisquer outras receitas que legalmente lhe advenham.
 
 3 - As receitas próprias da Universidade serão afectadas a Universidade e às suas unidades orgânicas de acordo com regulamento próprio, aprovado pelo senado universitário, mediante proposta do reitor.
 
-###### Art. 72.º - 1 - A gestão da Universidade nos planos administrativo e financeiro será conduzida segundo os princípios de gestão por objectivos, adoptando o modelo de organização contabilística mais adequado a uma racional e eficaz aplicação dos recursos financeiros postos à sua disposição.
+Art. 72.º - 1 - A gestão da Universidade nos planos administrativo e financeiro será conduzida segundo os princípios de gestão por objectivos, adoptando o modelo de organização contabilística mais adequado a uma racional e eficaz aplicação dos recursos financeiros postos à sua disposição.
 
 2 - A gestão económica e financeira da Universidade orientar-se-á pelos seguintes instrumentos de previsão:
 
@@ -1017,15 +1065,15 @@ c) Orçamentos privativos.
 
 3 - Os planos plurianuais serão actualizados em cada ano e deverão traduzir a estratégia a seguir a médio prazo, tendo em consideração o planeamento geral do ensino superior, da investigação científica e das actividades de extensão universitária.
 
-###### Art. 73.º - 1 - A Universidade tem a capacidade de transferir livremente verbas entre as diferentes rubricas e capítulos orçamentais.
+Art. 73.º - 1 - A Universidade tem a capacidade de transferir livremente verbas entre as diferentes rubricas e capítulos orçamentais.
 
 2 - No decurso de cada ano económico, a Universidade poderá ainda submeter a homologação superior orçamentos suplementares destinados quer a reforçar verbas inscritas no orçamento privativo, quer a inscrever dotações para despesas não previstas.
 
 3 - Os orçamentos privativos da Universidade são aprovados pelo conselho administrativo.
 
-###### Art. 74.º A Universidade e as suas unidades orgânicas estão isentas de impostos, taxas, custas, emolumentos e selos, nos termos da lei.
+Art. 74.º A Universidade e as suas unidades orgânicas estão isentas de impostos, taxas, custas, emolumentos e selos, nos termos da lei.
 
-###### Art. 75.º - 1 - Cabe à Universidade o recrutamento e promoção dos seus docentes e investigadores, bem como do restante pessoal, nos termos da lei.
+Art. 75.º - 1 - Cabe à Universidade o recrutamento e promoção dos seus docentes e investigadores, bem como do restante pessoal, nos termos da lei.
 
 2 - Para além do pessoal referido no estatuto das carreiras docente universitária e de investigação e nos quadros de pessoal, a Universidade pode contratar, nos termos definidos por lei, individualidades nacionais e estrangeiras para o exercício de funções docentes ou de investigação, bem como outro pessoal para o desempenho de actividades necessárias ao seu funcionamento.
 
@@ -1035,7 +1083,7 @@ c) Orçamentos privativos.
 
 ### CAPÍTULO VIII — Avaliação na Universidade
 
-###### Art. 76.º - 1 - A Universidade criará mecanismos de avaliação permanente das suas actividades.
+Art. 76.º - 1 - A Universidade criará mecanismos de avaliação permanente das suas actividades.
 
 2 - Uma das formas de avaliação consistirá na elaboração de relatórios anuais por parte dos responsáveis pela gestão de todos os órgãos e serviços da Universidade.
 
@@ -1043,22 +1091,22 @@ c) Orçamentos privativos.
 
 ### CAPÍTULO IX — Disposições finais e transitórias
 
-###### Art. 77.º - 1 - Os órgãos colegiais da Universidade reunirão ordinariamente com a regularidade fixada nos respectivos regulamentos e, extraordinariamente, sempre que convocados pelo presidente, por sua iniciativa, ou a requerimento de, pelo menos, um terço dos membros do respectivo órgão.
+Art. 77.º - 1 - Os órgãos colegiais da Universidade reunirão ordinariamente com a regularidade fixada nos respectivos regulamentos e, extraordinariamente, sempre que convocados pelo presidente, por sua iniciativa, ou a requerimento de, pelo menos, um terço dos membros do respectivo órgão.
 
 2 - Nas reuniões que se realizem para tratar assuntos relativos à situação do pessoal docente, só participarão os membros docentes desses órgãos de categoria igual ou superior à da categoria em causa.
 
 3 - Serão lavradas actas de todas as reuniões dos órgãos colegiais e das suas comissões.
 
-###### Art. 78.º - 1 - Após a publicação dos presentes Estatutos, o reitor promoverá, de imediato, a constituição dos novos órgãos neles previstos.
+Art. 78.º - 1 - Após a publicação dos presentes Estatutos, o reitor promoverá, de imediato, a constituição dos novos órgãos neles previstos.
 
 2 - Cada um dos órgãos colegiais referidos no número anterior elaborará o respectivo regulamento interno, nos 90 dias posteriores à sua constituição.
 
-###### Art. 79.º Enquanto não forem instituídos os conselhos de cursos previstos nestes Estatutos, a representação que lhes cabe no conselho académico será assegurada pelos presidentes dos conselhos pedagógicos de cursos e pelos representantes dos estudantes nos mesmos.
+Art. 79.º Enquanto não forem instituídos os conselhos de cursos previstos nestes Estatutos, a representação que lhes cabe no conselho académico será assegurada pelos presidentes dos conselhos pedagógicos de cursos e pelos representantes dos estudantes nos mesmos.
 
-###### Art. 80.º - 1 - Findo o período de instalação do Centro Integrado de Formação de Professores, a forma de integração orgânica dos respectivos departamentos e projectos será decidida pelo senado universitário, mediante proposta do reitor, ouvidos os órgãos de gestão do Centro e o conselho académico.
+Art. 80.º - 1 - Findo o período de instalação do Centro Integrado de Formação de Professores, a forma de integração orgânica dos respectivos departamentos e projectos será decidida pelo senado universitário, mediante proposta do reitor, ouvidos os órgãos de gestão do Centro e o conselho académico.
 
 2 - As Escolas abrangidas pelo artigo 62.º que não atinjam, no prazo de quatro anos, a dimensão mínima prevista no n.º 3 do artigo 61.º serão objecto de um esquema reorganizativo, dentro de um plano escalonado de integração com as restantes escolas, que o conselho académico proporá ao senado universitário.
 
 ## ANEXO I — Lugares da carreira dirigente e de chefia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/12/296b00/81258133.pdf))](https://files.diariodarepublica.pt/1s/1995/12/296b00/81258133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/296b00/81258133.pdf)

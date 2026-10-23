@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/299/2009/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2009-491437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0694071fc158e14cedfcdc5f9955d1dd29e654fa12c16dbacc5d821ae79174f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e16f62075cb2ba8c2b7cf4ad3048343991e9ae8d3e70b5d3784141bfd94627ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,64 +65,77 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Subsídio de Alimentação
-- PSP
 - Ajuda Judicial
 - Ajudas de Custo
-- Tempo de Serviço
 - Aposentação
-- Direito de Acesso
-- Formação Profissional
+- Avaliação do Pessoal
+- Carreira Profissional
 - Certificação Profissional
-- Pessoal Dirigente
+- Código Deontológico do Serviço Policial
 - Comissão Liquidatária
 - Comparticipação do Estado
 - Concurso
+- Condições de Higiene e Segurança no Trabalho
 - Criação de Serviços
 - Definição de Competências
+- Descrição de Funções
 - Despesas de Representação
+- Direito de Acesso
 - Diretor Nacional
 - Estatuto
-- Sistema Retributivo
-- Carreira Profissional
 - Extinção de Serviços
+- Faltas
+- Fardamento
 - Férias
+- Formação Profissional
 - Formas de Provimento
 - Fundo de Fardamento
-- Recrutamento de Pessoal
-- Código Deontológico do Serviço Policial
-- Remuneração Acessória
 - Habitação por Conta do Estado
+- Horário de Trabalho
+- Identificação Civil
+- Incapacidade Física
 - Incompatibilidades
 - Junta Médica
-- Faltas
 - Licença sem Vencimento
 - Livre Trânsito
-- Descrição de Funções
+- Pessoal Dirigente
 - Pré-aposentação
 - Prémio de Desempenho
 - Prestação de Serviços
-- Incapacidade Física
 - Progressão na Carreira
-- Quadro de Pessoal
 - Proteção Social
+- PSP
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 - Regime de Pessoal
-- Condições de Higiene e Segurança no Trabalho
-- Horário de Trabalho
 - Remuneração
+- Remuneração Acessória
 - Segredo de Justiça
 - Segredo Profissional
-- Avaliação do Pessoal
-- Identificação Civil
+- Sistema Retributivo
+- Subsídio de Alimentação
 - Subsídio de Deslocação
+- Tempo de Serviço
 - Transporte
-- Fardamento
 - Uso e porte de arma
 relationships:
 - type: amended_by
   target: pt:dre:1031110272:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:572122:por
+  label: "Alterado o art. 120º, pelo DEC LEI.46/2014.24.03.2014.MAI, DR.IS [58] de 24.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-2014-572122
+  date: '2014-03-24'
+- type: amended_by
+  target: pt:dre:1031110272:por
+  label: Atualizado, a partir de 31 de janeiro de 2026, com efeitos a 1 de janeiro de 2026, em 2,15 % o suplemento especial
+    de serviço, o suplemento de turno e o suplemento de comando, aplicáveis ao pessoal com funções policiais da Polícia de
+    Segurança Pública, previstos no presente diploma, pelo(a) Decreto-Lei n.º 29-A/2026 - Diário da República n.º 21/2026,
+    Suplemento, Série I de 2026-01-30, nos termos da sua alínea c) do seu artigo 6.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-a-2026-1031110272
+  date: '2026-01-30'
 - type: cites
   target: eli:htt
   label: null
@@ -167,16 +180,141 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/691-a/2004/06/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/691-a/2004/06/23/p/dre
+- type: cites
+  target: pt:dre:145976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643086:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:482609:por
+  label: "Rectificados o art. 27.º, o nº 6 do art. 33.º, o nº 6 do art. 116.º e o anexo I (a que se refere o art. 41.º), todos\
+    \ do presente diploma, pela DECL-RECT.91/2009.27.11.2009.PCM, DR.IS [231] de 27.11.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/91-2009-482609
+  date: '2009-11-27'
+- type: repealed_by
+  target: pt:dre:70737912:por
+  label: Revogado o presente diploma a partir de 01.12.2015, na redação do Dec Lei 46/2014, de 24-mar pelo(a) Decreto-Lei
+    n.º 243/2015 - Diário da República n.º 204/2015, Série I de 2015-10-19, sem prejuízo do disposto no n.º 5 do art. 148.º,
+    nos n.os 3 e 4 do art. 153.º e nos arts. 154.º, 158.º e 159.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/243-2015-70737912
+  date: '2015-10-19'
 article_structure:
   article_count: 125
   section_count: 34
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:57Z'
   warnings: []
   errors: []
 ---
@@ -1567,21 +1705,21 @@ O presente decreto-lei entra em vigor a 1 de Janeiro de 2010.
 
 Visto e aprovado em Conselho de Ministros de 5 de Agosto de 2009. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Baptista Lobo - Rui Carlos Pereira - Alberto Bernardes Costa - Mário Lino Soares Correia - Manuel Francisco Pizarro de Sampaio e Castro.
 
-**Promulgado em 2 de Outubro de 2009.**
+Promulgado em 2 de Outubro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Outubro de 2009.**
+Referendado em 6 de Outubro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 41.º)
 
 Carreiras, categorias, conteúdos funcionais, graus e posições remuneratórias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 94.º)
 
@@ -1589,37 +1727,37 @@ Posições e níveis remuneratórios do pessoal policial
 
 Oficiais de polícia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf)
 
 Chefes de polícia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf)
 
 Agentes de polícia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf)
 
 ## ANEXO III — (a que se refere o n.º 5 do artigo 94.º)
 
 Curso de Formação de Oficiais de Polícia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf)
 
 Curso de Formação de Agentes de Polícia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 1 do artigo 97.º)
 
 Despesas de representação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf)
 
 ## ANEXO V — (a que se refere o n.º 2 do artigo 106.º)
 
 Suplemento de comando
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf)
 
 ## ANEXO VI — (a que se refere o artigo 118.º)
 
@@ -1627,10 +1765,10 @@ QUADRO ANEXO A
 
 Escalões de competência disciplinar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf)
 
 QUADRO ANEXO B
 
 Escalões de competência disciplinar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19900/0770807731.pdf)

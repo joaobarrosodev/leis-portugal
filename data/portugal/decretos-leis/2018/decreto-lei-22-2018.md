@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/04/07000/0156101564.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/22/2018/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2018-115017486
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3bce2a2469a876f7ef51755329425907c3d7457a20cffb5a1741da32a95e632
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e286258d255ebb42d8fa13c92628eecd9e13b9b46fe175cbe07f614133849e81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Agência de Gestão da Tesouraria e da Dívida Pública
+- Autarquia Local
+- Combustível
 - Definição de Competências
-- Regulamentação de Atos Legislativos
 - Direção Geral das Autarquias Locais
 - Direção Geral do Tesouro e Finanças
-- Combustível
-- Subvenção Pública
+- Financiamento
 - Linha de Crédito
-- Agência de Gestão da Tesouraria e da Dívida Pública
 - Reembolso
-- Autarquia Local
+- Regulamentação de Atos Legislativos
 - Sistema de Defesa da Floresta contra Incêndios
+- Subvenção Pública
 relationships:
 - type: amended_by
   target: pt:dre:152639825:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Prorrogada, para 2019, com as necessárias adaptações, a vigência do presente diploma, pelo(a) Lei n.º 71/2018 - Diário
+    da República n.º 251/2018, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:130893436:por
+  label: Prorrogado para 2020, nos termos do n.º 14 do art. 203.º do presente diploma, a vigência do presente diploma, pelo(a)
+    Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2020-130893436
+  date: '2020-03-31'
+- type: amended_by
+  target: pt:dre:152639825:por
+  label: Prorrogada para 2021, com as necessárias adaptações, a vigência do presente diploma, pelo(a) Lei n.º 75-B/2020 -
+    Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-b-2020-152639825
+  date: '2020-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/2006/06/28/p/dre
   label: null
@@ -98,16 +116,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/73/2013/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/73/2013/09/03/p/dre
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:18Z'
   warnings: []
   errors: []
 ---
@@ -210,7 +244,9 @@ b) Os montantes das receitas cobradas e previstas cobrar pelos meios enunciados 
 
 c) A área intervencionada por freguesia nos termos do n.º 3 do artigo 153.º da [Lei n.º 114/2017](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), de 29 de dezembro, cujos proprietários não tenham sido identificados.
 
-###### Artigo 8.º — Título executivo
+###### Artigo 8.º
+
+## Título executivo
 
 Na falta de pagamento pelos responsáveis da despesa realizada pelos municípios nos termos do artigo 4.º, é emitida certidão de dívida que constitui título executivo para os efeitos do Código de Procedimento e de Processo Tributário, podendo a cobrança coerciva ser protocolada com a Autoridade Tributária e Aduaneira de acordo com o disposto no n.º 4 do artigo 7.º do [Decreto-Lei n.º 433/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1999-692261), de 26 de outubro, na sua redação atual.
 
@@ -230,12 +266,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de março de 2018. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - Eduardo Arménio do Nascimento Cabrita - Luís Manuel Capoulas Santos.
 
-**Promulgado em 29 de março de 2018.**
+Promulgado em 29 de março de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de abril de 2018.**
+Referendado em 6 de abril de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111260193

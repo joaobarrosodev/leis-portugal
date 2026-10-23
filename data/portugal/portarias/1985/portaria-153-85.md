@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/153-1985-326943
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T08:19:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ed866849375aeb11ac86fff1bab36205357ed1c32ca1ad468528f5e228009c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15315a5b439128dd05ef03303316f71502412fa36573e6555cea69ecf8a56f52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:19:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Consulado
+- Embaixada
+- Pessoal Assalariado
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:183590:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:324337:por
+  label: "Alterado o mapa de pessoal assalariado da embaixada de Portugal em Pequim pela PORT.237/85.26.04.1985.MNE, DR.IS\
+    \ [96] de 26.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/237-1985-324337
+  date: '1985-04-26'
+- type: amended_by
+  target: pt:dre:182665:por
+  label: "Alterado o mapa de pessoal assalariado do Consulado de Portugal em Vigor, aprovado pelo presente diploma , pela\
+    \ PORT.444/85.09.07.1985.PCM, DR.IS [155] de 09.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/444-1985-182665
+  date: '1985-07-09'
+- type: amended_by
+  target: pt:dre:182822:por
+  label: "Alterado o mapa do pessoal assalariado do consulado de Portugal em Curitiba, aprovado pelo presente diploma, pela\
+    \ PORT.456/85.13.07.1985.MNE, DR.IS [159] de 13.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/456-1985-182822
+  date: '1985-07-13'
+- type: amended_by
+  target: pt:dre:183464:por
+  label: "Alterado o mapa do pessoal assalariado do Consulado de Portugal em Porto Alegre, pela PORT.474/85.17.07.1985.MNE,\
+    \ DR.IS [162] de 17.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/474-1985-183464
+  date: '1985-07-17'
+- type: amended_by
+  target: pt:dre:183590:por
+  label: "Alterado o mapa de pessoal assalariado da embaixada de Portugal em Luanda, pela PORT.482/85.18.07.1985.MNE, DR.IS\
+    \ [163] de 18.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/482-1985-183590
+  date: '1985-07-18'
+- type: cites
+  target: pt:dre:690465:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:19:35Z'
   warnings: []
   errors: []
 ---
@@ -1964,6 +2002,6 @@ Consulado em Windhuk:
 
 Ministério dos Negócios Estrangeiros.
 
-**Assinada em 30 de Janeiro de 1985.**
+Assinada em 30 de Janeiro de 1985.
 
-**O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.**
+O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.

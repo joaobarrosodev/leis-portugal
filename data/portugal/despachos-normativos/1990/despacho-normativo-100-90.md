@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/20700/36373642.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/100-1990-556656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T07:44:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba5746f0800eefebd86a9cc0717c98edd38d73cf19c7bbc466822061c2413f64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 470748defe22380fcf0272ddf209ec19f37ed58c312b7d56a7a71517c0d4d1a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:44:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Financiamento
+- Secretário de Estado da Cultura
+- Teatro
 relationships:
 - type: amended_by
   target: pt:dre:226813:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:220739:por
+  label: "Alterados os arts. 6º, 10º, 12º, 14º, 19º, 20º, 21º, 32º e 34º das normas de apoio à actividade teatral, anexas\
+    \ ao presente diploma, pelo DN.198/92.20.10.1992.PCM, DR.IS-B [242] de 20.10.1992\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/198-1992-220739
+  date: '1992-10-20'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ADITADO O ART 10-A AS NORMAS DE APOIO A ACTIVIDADE TEATRAL E REVOGADO O ART 19 DAS MESMAS NORMAS (NA REDACCAO CONFERIDA
+    PELO DN 198/92, DE 20-OUT) PELO DN 705/94 DE 14-SET DR.IS-B [231] DE 06/OUT/1994.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-06'
+- type: amended_by
+  target: pt:dre:620280:por
+  label: "Aditado o art. 10º-A e revogado o art. 19º (na redacção do DN 198/92, de 20-Out) das normas de apoio à actividade\
+    \ teatral, aprovadas em anexo ao presente diploma, pelo DN.705/94.06.10.1994.PCM, DR.IS-B [231] de 06.10.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/705-1994-620280
+  date: '1994-10-06'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ART 55 PELO DN 22/95 DE 07-FEV DR.IS-B [104] DE 05/MAI/1995E
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-05-05'
+- type: cites
+  target: pt:dre:607154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:199392:por
+  label: Rectificado pela DECL.DD3153.1990.09.20.PCM DR.IS [226] DE29/SET/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-199392
+  date: '1990-09-20'
+- type: corrected_by
+  target: pt:dre:624204:por
+  label: Rectificado o art. 25º pela DECL.DD3133.1990.10.15.PCM, DR.IS [252]2ºSupl de 31.10.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-624204
+  date: '1990-10-15'
+- type: repealed_by
+  target: pt:dre:226813:por
+  label: "Revogado pelo DN.43/96.23.10.1996.MC, DR.IS-B [246] de 23.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/43-1996-226813
+  date: '1996-10-23'
 article_structure:
   article_count: 63
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:44:20Z'
   warnings: []
   errors: []
 ---

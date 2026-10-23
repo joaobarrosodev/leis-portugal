@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/10/19700/0737507379.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/341/2007/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-2007-641418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e54280227b071717908cf507da9ea1cabd07b5be9786066a2e2c337b9466cc11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7bde5badce71f0700b2d6eb3bf89c0fcc29ab3d57cde38748b2ed76fcf96363
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
 - Comissão de Reconhecimento de Graus Estrangeiros
 - Criação de Serviços
 - Definição de Competências
+- Direção Geral do Ensino Superior
 - Doutoramento
 - Emolumento
+- Ensino Superior
+- Equivalência de Diplomas
 - Equivalência de Habilitações Literárias
 - Habilitações Literárias
-- Publicitação
 - Licenciatura
 - Mestrado
-- Direção Geral do Ensino Superior
+- Modernização Administrativa
+- Publicitação
 - Regime Jurídico
-- Equivalência de Diplomas
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:116068880:por
@@ -117,16 +117,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/25/2000/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/25/2000/03/30/p/dre
+- type: cites
+  target: pt:dre:143886700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:116068880:por
+  label: Revogado, a partir de 01.01.2019, o Dec Lei 283/83 de 21-jun, alterado pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16, que determinou a remissão para o reconhecimento
+    específico previsto naquele diploma, nos termos do disposto no respetivo art. 27.º, das referências feitas na legislação
+    em vigor à equivalência de graus académicos, previstos no diploma ora revogado.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-2018-116068880
+  date: '2018-08-16'
 article_structure:
   article_count: 24
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:35Z'
   warnings: []
   errors: []
 ---
@@ -397,12 +453,12 @@ Aos titulares de equivalência ou reconhecimento obtido ao abrigo do [Decreto-Le
 
 Visto e aprovado em Conselho de Ministros de 9 de Agosto de 2007. - José Sócrates Carvalho Pinto de Sousa - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 27 de Setembro de 2007.**
+Promulgado em 27 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em de 1 de Outubro de 2007.**
+Referendado em de 1 de Outubro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

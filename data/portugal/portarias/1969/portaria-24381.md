@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24381-1969-216124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a6993b8e6eb621137eca3afaa37bb6a443b3648dac618bb905d5efb4db61d1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1451670f822d6c1bd10c12f270d2841ee5edb3443f26d50a8663af640615eaf3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:12Z'
   warnings: []
   errors: []
 ---
@@ -88,24 +88,24 @@ Ministério da Educação Nacional, 21 de Outubro de 1969. - Pelo Ministro da Ed
 
 Regulamento do Prémio Escolar Dr.ª Francisca das Dores Silva Valadares
 
-###### Artigo 1.º É criado, por iniciativa do Dr. Filipe de Sá Valadares, em homenagem à memória de sua esposa, o Prémio Escolar Dr.ª Francisca das Dores Silva Valadares, como estímulo aos alunos da escola primária oficial do núcleo de S. Sebastião dos Carros, concelho de Mértola, terra da sua naturalidade.
+Artigo 1.º É criado, por iniciativa do Dr. Filipe de Sá Valadares, em homenagem à memória de sua esposa, o Prémio Escolar Dr.ª Francisca das Dores Silva Valadares, como estímulo aos alunos da escola primária oficial do núcleo de S. Sebastião dos Carros, concelho de Mértola, terra da sua naturalidade.
 
-###### Art. 2.º O fundo de manutenção do referido Prémio é constituído pela importância de 15000$00, oferecida para esse fim, convertida em certificado de renda perpétua da Junta do Crédito Público, assentado à Direcção do Distrito Escolar de Beja.
+Art. 2.º O fundo de manutenção do referido Prémio é constituído pela importância de 15000$00, oferecida para esse fim, convertida em certificado de renda perpétua da Junta do Crédito Público, assentado à Direcção do Distrito Escolar de Beja.
 
-###### Art. 3.º - 1. O rendimento do referido fundo será anualmente distribuído em partes iguais por dois alunos (300$00 a cada um) da escola referida no artigo 1.º que tenham concluído com aprovação o exame do ciclo elementar (4.ª classe) do ensino primário e mais se tenham distinguido na prestação das provas desse exame.
+Art. 3.º - 1. O rendimento do referido fundo será anualmente distribuído em partes iguais por dois alunos (300$00 a cada um) da escola referida no artigo 1.º que tenham concluído com aprovação o exame do ciclo elementar (4.ª classe) do ensino primário e mais se tenham distinguido na prestação das provas desse exame.
 
 2. Para a atribuição do Prémio será escolhido um aluno de cada sexo.
 
 3. Se se verificar igualdade de mérito entre vários alunos na prestação das provas, far-se-á escolha em atenção ao currículo escolar anterior. Em igualdade de circunstâncias será dada preferência aos alunos naturais da freguesia de S. Sebastião dos Carros.
 
-###### Art. 4.º - 1. Os nomes dos alunos a premiar serão comunicados pelos respectivos professores, após a realização dos exames da 4.ª classe, ao delegado escolar, que, por sua vez, os transmitirá à Direcção do Distrito Escolar.
+Art. 4.º - 1. Os nomes dos alunos a premiar serão comunicados pelos respectivos professores, após a realização dos exames da 4.ª classe, ao delegado escolar, que, por sua vez, os transmitirá à Direcção do Distrito Escolar.
 
 2. No caso de surgirem dificuldades na escolha dos candidatos, será o assunto resolvido pelo director escolar.
 
-###### Art. 5.º A distribuição dos prémios far-se-á anualmente no mês de Outubro, logo após o início do ano lectivo, e de preferência num domingo, em sessão solene a realizar num dos edifícios escolares da localidade, presidida pelo director do Distrito Escolar de Beja ou por um seu representante. Devem estar presentes os professores e alunos e pôr-se-á em relevo o significado do Prémio.
+Art. 5.º A distribuição dos prémios far-se-á anualmente no mês de Outubro, logo após o início do ano lectivo, e de preferência num domingo, em sessão solene a realizar num dos edifícios escolares da localidade, presidida pelo director do Distrito Escolar de Beja ou por um seu representante. Devem estar presentes os professores e alunos e pôr-se-á em relevo o significado do Prémio.
 
-###### Art. 6.º Os alunos que não comparecerem no dia designado para a distribuição dos prémios, nem os reclamarem no decorrer desse ano escolar, perderão o direito aos mesmos em benefício da caixa escolar.
+Art. 6.º Os alunos que não comparecerem no dia designado para a distribuição dos prémios, nem os reclamarem no decorrer desse ano escolar, perderão o direito aos mesmos em benefício da caixa escolar.
 
-###### Art. 7.º Deverá ficar arquivado, pelo período de cinco anos, na Direcção Escolar, em relação à atribuição dos prémios de cada ano, um breve relatório das circunstâncias de que a mesma se tiver revestido.
+Art. 7.º Deverá ficar arquivado, pelo período de cinco anos, na Direcção Escolar, em relação à atribuição dos prémios de cada ano, um breve relatório das circunstâncias de que a mesma se tiver revestido.
 
 Direcção-Geral do Ensino Primário, 21 de Outubro de 1969. - Pelo Director-Geral, o Inspector Superior, Joaquim José Gomes Belo.

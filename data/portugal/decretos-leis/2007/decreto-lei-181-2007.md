@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/08900/30363037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/181/2007/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2007-520848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0529ee1fc987219bd02963cc67baf681074e020f23ca573124167d98f1994d1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 545e1f479d84e68749db45d7160bc830b263ea1ffabe876554c9f2eb04ed9f5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
+- Administração Pública
 - ADSE
 - Atestado Médico
-- Internamento Hospitalar
-- Administração Pública
-- Serviço Nacional de Saúde
-- Fiscalização
 - Centro de Saúde
-- Faltas
 - Documento Eletrónico
+- Doença
+- Estabelecimento Hospitalar
+- Faltas
+- Fiscalização
+- Função Pública
+- Incapacidade Temporária
+- Internamento Hospitalar
 - Prova
 - Regime Convencionado
-- Estabelecimento Hospitalar
-- Doença
-- Incapacidade Temporária
 - Serviço de Prevenção e Tratamento da Toxicodependência
+- Serviço Nacional de Saúde
 - Serviços de Urgência
 - Subsistemas de Saúde
 relationships:
@@ -97,16 +97,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:25676932:por
+  label: Revogado a partir de 01.08.2014 o Dec Lei 100/99, de 31-mar, na redação do presente diploma, pela LEI.35/2014.20.06.2014.AR,
+    DR.IS [117] de 20.06.2014��
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2014-25676932
+  date: '2014-06-20'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:16Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +169,9 @@ Justificação da doença
 
 7 - O documento comprovativo da doença pode ainda ser remetido por via electrónica pelas entidades referidas nos n.os 2, 3 e 4, no momento da certificação da situação de doença, ao serviço em que o funcionário ou agente exerce funções ou a organismo ao qual seja cometida a competência de recolha centralizada de tais documentos, sendo de imediato facultado ao funcionário ou agente cópia do referido documento ou documento comprovativo desse envio.
 
-###### Artigo 31.º — Meios de prova
+Artigo 31.º
+
+Meios de prova
 
 1 - A declaração de doença deve ser devidamente assinada pelo médico, autenticada pelas entidades com competência para a sua emissão nos casos previstos no n.º 2 do artigo anterior e conter:
 
@@ -207,12 +223,12 @@ O presente decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua public
 
 Visto e aprovado em Conselho de Ministros de 18 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos.
 
-**Promulgado em 27 de Abril de 2007.**
+Promulgado em 27 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 30 de Abril de 2007.**
+Referendado em 30 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

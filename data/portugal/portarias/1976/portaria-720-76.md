@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/720-1976-406771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T05:11:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2bd4c5d5eaf2ca76936b5e574f87fe321c13e703cb348019bb5054609239173c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 533d3996c666755e202ff68faa139fac47a70e1eabb0ac83c920b13174414d7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:11:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Preço
+- Transporte de Passageiros
+- Transporte Fluvial
+- Transporte Público
+- Transporte Urbano
+relationships:
+- type: cites
+  target: pt:dre:482618:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:11:27Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +151,7 @@ Em nenhum caso os novos valores poderão ultrapassar o limite máximo da ordem d
 
 5.1 - Tarifas de transportes de passageiros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/11/27800/26512652.pdf))](https://files.diariodarepublica.pt/1s/1976/11/27800/26512652.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/11/27800/26512652.pdf)
 
 6.2 - Sociedade Estoril:
 
@@ -150,7 +159,7 @@ Passageiros:
 
 Tabela de preços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/11/27800/26512652.pdf))](https://files.diariodarepublica.pt/1s/1976/11/27800/26512652.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/11/27800/26512652.pdf)
 
 Mercadorias:
 
@@ -158,4 +167,4 @@ São aplicáveis à Sociedade Estoril as disposições constantes do número ant
 
 Ministérios do Comércio e Turismo e dos Transportes e Comunicações, 15 de Novembro de 1976.
 
-**O Ministro do Comércio e Turismo, António Miguel Morais Barreto. - O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.**
+O Ministro do Comércio e Turismo, António Miguel Morais Barreto. - O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/70/2012/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/70-2012-553899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T05:15:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d37596a462a7d161f0f265a88b501dfea20d646230bfd347ba7d2d8cc8ca1f1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4847c4a3ac5ec2337861533896f6891742480079c37b7311dc1dab3ae14eb547
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:15:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,28 @@ reuse:
 subjects:
 - Belgrado
 - Embaixador
-- Sérvia
 - Nomeação
+- Sérvia
 relationships:
 - type: amended_by
   target: pt:dre:257200:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:257200:por
+  label: "Exonerada pelo DEC.23/2013.23.01.2013.PR, DR.IS [16] de 23.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/23-2013-257200
+  date: '2013-01-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:15:00Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +98,16 @@ validation:
 
 de 28 de março
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeada, sob proposta do Governo, a ministra plenipotenciária de 1.ª classe Maria do Carmo de Sousa Pinto Allegro de Magalhães para o cargo de Embaixadora de Portugal em Belgrado.
 
-**Assinado em 14 de março de 2012.**
+Assinado em 14 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de março de 2012.**
+Referendado em 23 de março de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo de Sacadura Cabral Portas.**
+O Primeiro-Ministro, Pedro Passos Coelho. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo de Sacadura Cabral Portas.

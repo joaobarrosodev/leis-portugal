@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/12200/11751176.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/318-1976-426960
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T05:01:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01a4a62be3ccf346819272cbdb3ed3dac985f2b7d8e9f29a910a77de7ce65780
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c7dbf51d6296b50cbdcc475098e02905e37345a7f7ecdd60ffeadde9f396a46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:01:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Planta Marinha
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:430259:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:310579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469867:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:430259:por
+  label: Revogada, pelo(a) Portaria n.º 525/76 - Diário da República n.º 194/1976, Série I de 1976-08-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/525-1976-430259
+  date: '1976-08-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:01:41Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +118,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Comércio Interno, ao
 
 1.º Os preços das algas agarófitas (ver nota a), no continente e no arquipélago dos Açores, serão, durante a safra de 1975, os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/05/12200/11751176.pdf))](https://files.diariodarepublica.pt/1s/1976/05/12200/11751176.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/05/12200/11751176.pdf)
 
 (nota a) Algas habitualmente utilizadas pela indústria nacional de ágar-ágar, incluindo a francelha-mansa e o cabelão dos Açores.
 

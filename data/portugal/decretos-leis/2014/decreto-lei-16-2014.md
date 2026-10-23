@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/16/2014/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2014-570690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77c86acbcfdc449916528f4bd2717a1c93f7d701d7de16d47e61c1b47cd14a6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7529b80e1cb92bd5a9c5e9155cdbe8431b23ec41860493ab2db8f06ee2f694ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jurisdição
-- Instituto Portuário e dos Transportes Marítimos
+- Administração de Portos
+- ÁREA de Jurisdição
+- Autoridade Portuária
 - Definição de Competências
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
 - Docapesca-sociedade Concessionária da DOCA de Pesca
 - Domínio Público Marítimo
-- Administração de Portos
-- Pesca
-- Autoridade Portuária
+- Instituto Portuário e dos Transportes Marítimos
 - Integração de Serviços
-- ÁREA de Jurisdição
+- Jurisdição
 - Licenciamento
 - Marina
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Pesca
 - Porto de Pesca
-- Regime de Pessoal
 - Portos
+- Regime de Pessoal
 - Segurança Social
 - Transferência de Competências
 - Transferência Patrimonial
@@ -131,16 +131,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/80/2013/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/80/2013/11/28/p/dre
+- type: cites
+  target: pt:dre:178512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621964:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:22Z'
   warnings: []
   errors: []
 ---
@@ -395,16 +447,16 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de dezembro de 2013. - Paulo Sacadura Cabral Portas - Hélder Manuel Gomes dos Reis - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Pedro Pereira Gonçalves - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 27 de janeiro de 2014.**
+Promulgado em 27 de janeiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de janeiro de 2014.**
+Referendado em 30 de janeiro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 6.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/02300/0091000918.pdf))](https://files.diariodarepublica.pt/1s/2014/02/02300/0091000918.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/02300/0091000918.pdf)

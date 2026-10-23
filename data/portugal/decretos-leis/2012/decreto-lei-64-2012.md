@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/64/2012/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2012-553468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6ee1bc6f97c9ea46865dfe7029f3e05f0461ab65914bc7d3b4c2b210dcfe07e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a832485d361f675d33a07890c62e1996c6ef976e5820df749a8e8f8f6ca3b4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Centro de Emprego
 - Desempregado
-- Prestações de Desemprego
 - Desemprego
+- Prestações de Desemprego
 - Proteção no Desemprego
 - Proteção Social
 - Segurança Social
@@ -82,6 +82,44 @@ relationships:
   target: pt:dre:125417313:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:256986:por
+  label: "Alterados a partir de 01.02.2013 os arts. 12º, 45º, 70º, 72º e 76º do Dec Lei 220/2006, de 03-nov, na redação do\
+    \ presente diploma, pelo DEC LEI.13/2013.25.01.2013.MSSSOC, DR.IS [18] de 25.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2013-256986
+  date: '2013-01-25'
+- type: amended_by
+  target: pt:dre:75194223:por
+  label: Alterados a partir de 01.10.2016 os arts. 17.º, 49.º, 70.º e 82.º do Dec Lei 220/2006,de 03-nov, na redação do presente
+    diploma pelo(a) Lei n.º 34/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/34-2016-75194223
+  date: '2016-08-24'
+- type: amended_by
+  target: pt:dre:107114288:por
+  label: Alterado o art. 28.º do Dec Lei 220/2006 de 03-nov, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 53-A/2017 - Diário da República n.º 105/2017, 1º Suplemento, Série I de 2017-05-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-a-2017-107114288
+  date: '2017-05-31'
+- type: amended_by
+  target: pt:dre:115620691:por
+  label: Alterados, a partir de 01.07.2018, os arts. 22.º e 80.º, ambos na redação do presente diploma, do Dec Lei 220/2006
+    de 03-nov, na versão republicada pelo Dec Lei 72/2010 de 18-jun, pelo(a) Decreto-Lei n.º 53/2018 - Diário da República
+    n.º 125/2018, Série I de 2018-07-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2018-115620691
+  date: '2018-07-02'
+- type: amended_by
+  target: pt:dre:122747583:por
+  label: Alterado, a partir de 29.06.2019 e nos termos do art. 210.º, o art. 24.º do Dec Lei 220/2006 de 03-nov, na redação
+    do presente diploma, pelo(a) Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2019-122747583
+  date: '2019-06-28'
+- type: amended_by
+  target: pt:dre:125417313:por
+  label: Alterados, a partir de 01.11.2019, os arts. 22.º e 24.º do Dec Lei 220/2006 de 03-nov, na versão republicada pelo
+    Dec Lei 72/2010 de 18-jun e na redação do presente diploma, pelo(a) Decreto-Lei n.º 153/2019 - Diário da República n.º
+    200/2019, Série I de 2019-10-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/153-2019-125417313
+  date: '2019-10-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/176/2003/08/02/p/dre
   label: null
@@ -110,16 +148,63 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/2010/05/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/2010/05/05/p/dre
+- type: cites
+  target: pt:dre:335467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652702:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:552031:por
+  label: "Retificado o art. 3º [na parte que altera o nº 3 do art. 12º do Dec Lei 220/2006, de 03-nov, na redacção da Lei\
+    \ 5/2010, de 03.nov], pela DECL-RECT.23/2012.11.05.2012.PCM, DR.IS [92] de 11.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/23-2012-552031
+  date: '2012-05-11'
+- type: corrected_by
+  target: pt:dre:75491407:por
+  label: Retificada a Lei 34/2016 de 24-ago, na parte em que altera o n.º 4 do art. 82.º do Dec. Lei 220/2006 de 03-nov, na
+    versão republicada pelo Dec. Lei 72/2010 de 18-jun e na redação do presente diploma, pelo(a) Declaração de Retificação
+    n.º 19/2016 - Diário da República n.º 194/2016, Série I de 2016-10-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/19-2016-75491407
+  date: '2016-10-10'
+- type: repealed_by
+  target: pt:dre:114425586:por
+  label: Revogados os n.ºs 2 e 3 do art. 28.º do Dec Lei 220/2006 de 03-nov, com a redação dada pelo presente diploma, pelo(a)
+    Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
 article_structure:
-  article_count: 28
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:47Z'
   warnings: []
   errors: []
 ---
@@ -216,7 +301,9 @@ b) O empregador efetue despedimento sem cumprimento das formalidades previstas n
 
 6 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -242,7 +329,9 @@ b)...
 
 6 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -270,7 +359,9 @@ f)...
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -282,17 +373,23 @@ f)...
 
 5 - O cumprimento da obrigação prevista neste artigo inicia-se a partir da data de apresentação do requerimento de concessão das prestações de desemprego.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 Os beneficiários devem encontrar-se em situação de desemprego involuntário e inscritos para emprego no centro de emprego da área de residência, sem prejuízo do disposto no n.º 4 do artigo 72.º
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - O prazo de garantia para atribuição do subsídio de desemprego é de 360 dias de trabalho por conta de outrem, com o correspondente registo de remunerações, num período de 24 meses imediatamente anterior à data do desemprego.
 
 2 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - O reconhecimento do direito ao subsídio social de desemprego depende ainda do preenchimento da condição de recursos à data do desemprego ou à data da cessação da atribuição do subsídio de desemprego, conforme se trate, respetivamente, de subsídio inicial ou subsequente.
 
@@ -302,7 +399,9 @@ Os beneficiários devem encontrar-se em situação de desemprego involuntário e
 
 4 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - O montante diário do subsídio de desemprego é igual a 65 % da remuneração de referência e calculado na base de 30 dias por mês, sem prejuízo do disposto no número seguinte.
 
@@ -312,7 +411,9 @@ Os beneficiários devem encontrar-se em situação de desemprego involuntário e
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - O montante mensal do subsídio de desemprego não pode ser superior a duas vezes e meia o valor do indexante dos apoios sociais (IAS) nem inferior ao valor desse indexante, sem prejuízo do disposto nos números seguintes.
 
@@ -322,7 +423,9 @@ Os beneficiários devem encontrar-se em situação de desemprego involuntário e
 
 4 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -336,7 +439,9 @@ Os beneficiários devem encontrar-se em situação de desemprego involuntário e
 
 6 - (Anterior n.º 3.)
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - O período de concessão do subsídio de desemprego e do subsídio social de desemprego inicial é estabelecido em função da idade do beneficiário e do número de meses com registo de remunerações no período imediatamente anterior à data do desemprego, nos seguintes termos:
 
@@ -386,13 +491,17 @@ c) Para os beneficiários com idade igual ou superior a 50 anos, um acréscimo d
 
 5 - Nas situações em que o trabalhador não tenha beneficiado dos acréscimos, previstos no n.º 2, por ter retomado o trabalho antes de ter esgotado o período máximo de concessão da prestação inicial de desemprego, os períodos de registo de remunerações que não tenham sido considerados relevam, para efeitos de acréscimo do período de concessão de prestações, em posterior situação de desemprego.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - O período de concessão do subsídio social de desemprego, quando atribuído subsequentemente ao subsídio de desemprego a beneficiários com idade inferior a 40 anos, tem uma duração correspondente a metade dos períodos fixados no n.º 1 do artigo anterior, tendo em conta a idade do beneficiário à data em que cessou a concessão do subsídio de desemprego.
 
 2 - O período de concessão do subsídio social de desemprego, quando atribuído subsequentemente ao subsídio de desemprego a beneficiários com idade igual ou superior a 40 anos, tem a mesma duração do subsídio de desemprego atribuído inicialmente.
 
-###### Artigo 45.º — Situação de incapacidade temporária por doença
+Artigo 45.º
+
+Situação de incapacidade temporária por doença
 
 1 - ...
 
@@ -404,7 +513,9 @@ c) Para os beneficiários com idade igual ou superior a 50 anos, um acréscimo d
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - ...
 
@@ -438,7 +549,9 @@ j)...
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - ...
 
@@ -454,11 +567,15 @@ c)...
 
 4 - ...
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 Nas situações em que a cessação do contrato de trabalho por acordo teve subjacente a convicção do trabalhador, criada pelo empregador, de que a empresa se encontra numa das situações previstas no n.º 2 do artigo 10.º ou de que se encontram preenchidas as condições previstas no n.º 4 do mesmo artigo e tal não se venha a verificar, o trabalhador mantém o direito às prestações de desemprego, ficando o empregador obrigado perante a segurança social ao pagamento do montante correspondente à totalidade do período de concessão da prestação inicial de desemprego.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - ...
 
@@ -498,7 +615,9 @@ j)...
 
 9 - (Anterior n.º 3.)
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - ...
 
@@ -516,7 +635,9 @@ j)...
 
 8 - Ao incumprimento dos prazos referidos nos n.os 6 e 7 aplica-se o disposto no n.º 2, com as necessárias adaptações.
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - ...
 
@@ -542,7 +663,9 @@ b)...
 
 8 - (Anterior n.º 5.)
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - Os períodos de pagamento de subsídio de desemprego e de subsídio social de desemprego inicial dão lugar ao registo de remunerações por equivalência à entrada de contribuições pelo valor da remuneração de referência que serviu de base ao cálculo da prestação, que não pode em qualquer caso ser superior a oito vezes o valor do IAS.
 
@@ -554,7 +677,9 @@ b)...
 
 5 - ...
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - ...
 
@@ -604,12 +729,12 @@ Na primeira situação de desemprego subsidiado, ocorrida após a data da entrad
 
 Visto e aprovado em Conselho de Ministros de 19 de janeiro de 2012. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento - Álvaro Santos Pereira - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 8 de março de 2012.**
+Promulgado em 8 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de março de 2012.**
+Referendado em 12 de março de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

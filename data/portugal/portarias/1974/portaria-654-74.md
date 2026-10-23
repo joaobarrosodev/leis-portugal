@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/10/23700/12071209.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/654-1974-472724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T04:32:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 753dfd0bb38fb4941b002b8892da674a58dc4cd6a29d1d06cdf512d5b79fc3de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c67f5030b456f5449c7f57f8eccfa9fdd640db3afa9361fc25adf113865f578
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:32:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,56 @@ relationships:
   target: pt:dre:312473:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:251990:por
+  label: Alterado, a partir do dia 16 de dezembro de 1974, os n.ºs 2 e 3 do n.º 1.º e 1 e 2 do n.º 4.º da presente portaria,
+    pelo(a) Portaria n.º 830-C/74 - Diário do Governo n.º 297/1974, 1º Suplemento, Série I de 1974-12-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/830-c-1974-251990
+  date: '1974-12-20'
+- type: cites
+  target: pt:dre:220942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688470:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:312473:por
+  label: Revogada, nos termos do art. 11.º da Port 651/75 de 17-nov, a presente portaria, pelo(a) Portaria n.º 651/75 - Diário
+    do Governo n.º 258/1975, Série I de 1975-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/651-1975-312473
+  date: '1975-11-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:32:36Z'
   warnings: []
   errors: []
 ---

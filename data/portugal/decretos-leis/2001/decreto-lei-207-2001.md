@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/07/173a00/45774578.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/207/2001/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2001-372854
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc1ae598246c07a8dbd8412e0eecc8931e15ce6dc46447ebf368edea6956751e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db8320dd31223688481715ec4dce1140fa5c7b4c93fd837762cd124fc8f4738a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ subjects:
 - Aproximação das Legislações
 - Cereal
 - Certiveg
+- Comércio
 - Produção Vegetal
 - Regulamento Técnico da Produção de Sementes de Espécies de Cereais
 - Semente
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:245284:por
@@ -86,16 +86,21 @@ relationships:
   target: celex:31999L0054
   label: null
   source: http://data.europa.eu/eli/dir/1999/54/oj
+- type: repealed_by
+  target: pt:dre:245284:por
+  label: "Revogado pelo DEC LEI.144/2005.26.08.2005.MADRP, DR.IS-A [164] de 26.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-2005-245284
+  date: '2005-08-26'
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:09Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +157,7 @@ iii) ...
 
 h) ...
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - A cultura deve ter identidade e pureza varietais suficientes ou, no caso da linha pura, identidade e pureza suficientes no que diz respeito às suas características. Para a produção de sementes de variedades híbridas, as disposições atrás mencionadas são também aplicáveis às características dos progenitores, incluindo a androesterilidade ou a restauração da fertilidade.
 
@@ -170,11 +175,11 @@ i) A pureza varietal de cada componente deve ser no mínimo de 99,7%, no caso de
 
 ii) A hibridação deve ser no mínimo de 95%, devendo a percentagem de hibridação ser avaliada em conformidade com métodos internacionais em vigor, caso estes existam, e sempre que a percentagem de hibridação for determinada através do ensaio das sementes, com vista à sua posterior certificação, não é necessário efectuar a respectiva determinação durante a inspecção de campo.
 
-###### Artigo 20.º
+Artigo 20.º
 
 As sementes devem ter identidade e pureza varietais suficientes ou no caso de sementes de uma linha pura identidade e pureza suficientes, no que diz respeito às suas características, aplicando-se igualmente as disposições antes mencionadas às características dos componentes em relação às sementes de variedades híbridas.
 
-###### Artigo 22.º
+Artigo 22.º
 
 A pureza varietal das variedades autogâmicas de X Triticosecale, com a excepção dos híbridos, deve ser no mínimo:
 
@@ -194,12 +199,12 @@ Nos híbridos de aveia, cevada, arroz, trigo-mole, trigo-duro, trigo espelta e t
 
 Visto e aprovado em Conselho de Ministros de 21 de Junho de 2001. - António Manuel de Oliveira Guterres - Mário Cristina de Sousa - Luís Manuel Capoulas Santos.
 
-**Promulgado em 17 de Julho de 2001.**
+Promulgado em 17 de Julho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Julho de 2001.**
+Referendado em 19 de Julho de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

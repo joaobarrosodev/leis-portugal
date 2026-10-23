@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/13600/0000300009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/36/2020/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 751c4084514dbb2c32704bb7bc35a895e9be8bd695978a6862a6eb4721239116
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38b9fefed4d19e994e3c29640eb6e279841f78a2b1663bb322c09795942ca842
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central de Saúde
-- Autoridade Tributária e Aduaneira
-- Indústria Farmacêutica
-- Cadastro Industrial
-- Infarmed
-- Equipamento Hospitalar
-- Importação
 - ASAE
+- Autoridade Tributária e Aduaneira
+- Cadastro Industrial
+- Dispositivo de Protecção
 - Doença Infecciosa
 - Epidemia
+- Equipamento Hospitalar
+- Importação
+- Indústria Farmacêutica
+- Infarmed
 - Recomendação CE
-- Dispositivo de Protecção
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/14-e/2020/04/13/p/dre
   label: null
@@ -107,16 +113,36 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2020/403/oj
   label: null
   source: http://data.europa.eu/eli/reco/2020/403/oj
+- type: cites
+  target: pt:dre:131393156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132883344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133914977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70280718:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:25Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +187,9 @@ Os artigos 1.º, 2.º e 5.º do [Decreto-Lei n.º 14-E/2020](https://diariodarep
 
 2 - O presente decreto-lei estabelece ainda o regime relativo ao fabrico, importação e comercialização de máscaras de uso social.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -169,7 +197,9 @@ Os artigos 1.º, 2.º e 5.º do [Decreto-Lei n.º 14-E/2020](https://diariodarep
 
 3 - O fabrico e a importação de máscaras de uso social identificadas no anexo ao presente decreto-lei obedecem às especificações técnicas publicitadas para o efeito.
 
-###### Artigo 5.º — Colocação e disponibilização no mercado
+Artigo 5.º
+
+Colocação e disponibilização no mercado
 
 1 - Os DM e EPI importados ou fabricados nos termos do disposto nos artigos anteriores, desde que cumpridos os demais requisitos de colocação de produtos no mercado, bem como as máscaras para uso social, podem ser disponibilizados no mercado nacional, desde que seja garantida a manutenção das suas características de saúde, segurança e desempenho.
 
@@ -225,15 +255,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de maio de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Mário José Gomes de Freitas Centeno - Marta Alexandra Fartura Braga Temido de Almeida Simões - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 7 de julho de 2020.**
+Promulgado em 7 de julho de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de julho de 2020.**
+Referendado em 10 de julho de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -380,3 +410,5 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 14 - Viseiras.
 
 15 - Zaragatoas.
+
+113394666

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/03900/05110514.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1984-660344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:10:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9597f129059f5641f20a834ff0863e9f775985e15d198a26a32c8d116941d31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 934d4426be8633b672a5aba3f5ea969506cbe555f11b8f2ea117d6700d262321
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:10:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Circulação de GADO
+- GADO
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:557468:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:660345:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:557468:por
+  label: "Revogado pelo DEC LEI.290/90.1990.09.20.MJ DR.IS [218]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-1990-557468
+  date: '1990-09-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:10:19Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +110,7 @@ REGULAMENTO DA CIRCULAÇÃO DE GADO NO CONTINENTE
 
 ### CAPÍTULO I — Glossário
 
-###### Artigo 1.º Para efeitos do disposto no presente Regulamento entende-se por:
+Artigo 1.º Para efeitos do disposto no presente Regulamento entende-se por:
 
 a) Guia de trânsito - documento de natureza administrativa, cuja emissão não obriga ao exame prévio do gado por médico veterinário;
 
@@ -120,7 +132,7 @@ h) Autoridade sanitária veterinária - médico veterinário dos serviços de sa
 
 #### SECÇÃO I — Modelos
 
-###### Art. 2.º As guias serão dos seguintes modelos, de acordo com o fim a que os animais se destinam:
+Art. 2.º As guias serão dos seguintes modelos, de acordo com o fim a que os animais se destinam:
 
 a) Para abate imediato: guia de trânsito modelo n.º 212-DSSA, para a deslocação do gado directamente até ao matadouro;
 
@@ -134,7 +146,7 @@ c) Para o gado importado ou proveniente dos Açores: guia sanitária de trânsit
 
 #### SECÇÃO II — Preenchimento
 
-###### Art. 3.º - 1 - As guias serão passadas sem emendas, por espécie e por exploração, em nome do proprietário dos animais.
+Art. 3.º - 1 - As guias serão passadas sem emendas, por espécie e por exploração, em nome do proprietário dos animais.
 
 2 - Ao serem detectadas anomalias no original das guias, deverá este ser enviado à Direcção-Geral da Pecuária para procedimento em conformidade.
 
@@ -148,17 +160,17 @@ c) Para o gado importado ou proveniente dos Açores: guia sanitária de trânsit
 
 7 - A validade da guia será a estritamente necessária para se efectuar o trânsito, não podendo, em qualquer caso, exceder 96 horas.
 
-###### Art. 4.º - 1 - No acto da emissão das guias será apresentada documentação comprovativa de os animais terem sido sujeitos às provas sanitárias e profilácticas oficialmente exigidas ou boletim sanitário, incluindo o respectivo cartão de identificação animal, sempre que exista, os quais serão anexados ao original das guias.
+Art. 4.º - 1 - No acto da emissão das guias será apresentada documentação comprovativa de os animais terem sido sujeitos às provas sanitárias e profilácticas oficialmente exigidas ou boletim sanitário, incluindo o respectivo cartão de identificação animal, sempre que exista, os quais serão anexados ao original das guias.
 
 2 - Sem prejuízo do disposto no número anterior, a passagem de guias para suínos com mais de 2 meses, quando explorados em regime extensivo, pastoreio, e para bovinos com mais de 3 meses está dependente de os mesmos se encontrarem vacinados há mais de 15 dias e menos de 1 ano contra a febre aftosa, vacinação que será comprovada pelo interessado no acto de emissão da guia, mediante apresentação do respectivo boletim de vacinação, o qual se anexará ao original da guia.
 
-###### Art. 5.º - 1 - A emissão das guias de trânsito poderá ser delegada pelas direcções regionais de agricultura em entidades de reconhecida idoneidade, delegação que se fará através de protocolo escrito, a enviar por fotocópia no prazo de 15 dias à Direcção-Geral da Pecuária e à Comissão Coordenadora das Acções de Combate ao Contrabando de Gado/Carne.
+Art. 5.º - 1 - A emissão das guias de trânsito poderá ser delegada pelas direcções regionais de agricultura em entidades de reconhecida idoneidade, delegação que se fará através de protocolo escrito, a enviar por fotocópia no prazo de 15 dias à Direcção-Geral da Pecuária e à Comissão Coordenadora das Acções de Combate ao Contrabando de Gado/Carne.
 
 2 - Nos casos de delegação previstos no número anterior, os responsáveis pela emissão das guias serão ajuramentados perante as respectivas direcções regionais de agricultura.
 
 #### SECÇÃO III — Circuito
 
-###### Art. 6.º A guia de trânsito para abate imediato (modelo n.º 212-DSSA) é emitida em quadruplicado, com os seguintes destinos:
+Art. 6.º A guia de trânsito para abate imediato (modelo n.º 212-DSSA) é emitida em quadruplicado, com os seguintes destinos:
 
 a) O original acompanhará os animais, sendo entregue no matadouro de destino e posteriormente remetido à sede da direcção regional de agricultura que o emitiu, na sequência do preenchimento do «controle sanitário» que consta do verso;
 
@@ -168,7 +180,7 @@ c) O triplicado será remetido à sede da direcção regional de agricultura da 
 
 d) O quadruplicado fica em arquivo da entidade emissora.
 
-###### Art. 7.º A guia de trânsito modelo n.º 213-DSSA será preenchida pela entidade emissora, em triplicado, com os destinos abaixo indicados, sendo o original acompanhado dos respectivos anexos, em número igual ao dos animais a que respeita, com o objectivo de facultar a sua deslocação para o local de destino, que poderá ser outra exploração ou matadouro:
+Art. 7.º A guia de trânsito modelo n.º 213-DSSA será preenchida pela entidade emissora, em triplicado, com os destinos abaixo indicados, sendo o original acompanhado dos respectivos anexos, em número igual ao dos animais a que respeita, com o objectivo de facultar a sua deslocação para o local de destino, que poderá ser outra exploração ou matadouro:
 
 a) O original manter-se-á na posse do acompanhante dos animais, que no regresso o entregará nos serviços regionais de agricultura com jurisdição na área de emissão, acompanhado dos anexos referentes aos animais não transaccionados, sendo posteriormente remetido para a sede da direcção regional correspondente; quanto aos animais transaccionados, deslocar-se-ão sempre a coberto dos respectivos anexos e documentos a que se refere o artigo 4.º, sendo depois entregues no matadouro ou nos serviços regionais de agricultura da área de destino e posteriormente enviados à sede da direcção regional de agricultura da área de emissão;
 
@@ -176,7 +188,7 @@ b) O duplicado será enviado de imediato à sede da mesma direcção regional de
 
 c) O triplicado fica em arquivo da entidade emissora.
 
-###### Art. 8.º A credencial modelo n.º 214-DSSA, numerada, é preenchida em triplicado, tendo os exemplares o seguinte destino:
+Art. 8.º A credencial modelo n.º 214-DSSA, numerada, é preenchida em triplicado, tendo os exemplares o seguinte destino:
 
 a) O original é entregue ao interessado, que o apresentará nos serviços regionais de agricultura com jurisdição na área onde se encontram os animais a deslocar;
 
@@ -184,7 +196,7 @@ b) O duplicado será remetido pela entidade emissora aos mesmos serviços region
 
 c) O triplicado fica em arquivo da entidade emissora.
 
-###### Art. 9.º Quanto à guia sanitária de trânsito modelo n.º 215-DSSA:
+Art. 9.º Quanto à guia sanitária de trânsito modelo n.º 215-DSSA:
 
 1) Esta guia só será passada por médico veterinário dos serviços regionais de agricultura da área de proveniência dos animais, por médico veterinário municipal ou médico veterinário em regime exclusivo de actividade liberal, mediante delegação concedida através de protocolo firmado pela direcção regional de agricultura;
 
@@ -200,7 +212,7 @@ c) O triplicado será remetido, de seguida, à autoridade sanitária veterinári
 
 d) O quadruplicado fica em arquivo da entidade emissora.
 
-###### Art. 10.º A guia sanitária de trânsito modelo n.º 4/DVF é emitida em triplicado, com os seguintes destinos:
+Art. 10.º A guia sanitária de trânsito modelo n.º 4/DVF é emitida em triplicado, com os seguintes destinos:
 
 a) O original acompanhará os animais desde o local de desembaraço aduaneiro ou desembarque até ao de destino que nela se encontre indicado; após a chegada, será entregue à autoridade sanitária veterinária da respectiva área ou no matadouro e remetido de seguida à sede da direcção regional de agricultura;
 
@@ -208,19 +220,19 @@ b) O duplicado será enviado pela entidade emissora à sede da Direcção-Geral 
 
 c) O triplicado fica em arquivo da entidade emissora.
 
-###### Art. 11.º Nos casos em que ocorra reprovação na inspecção post mortem e haja lugar a indemnizações a liquidar a título de seguro de reses, os originais da guia de trânsito para abate imediato (modelo n.º 212-DSSA) ou da guia sanitária de trânsito (modelo n.º 4/DVF) ou ainda o anexo à guia de trânsito (modelo n.º 213-DSSA) ficarão na posse da Junta Nacional dos Produtos Pecuários, que comunicará de imediato à direcção regional emissora a razão da retenção do documento.
+Art. 11.º Nos casos em que ocorra reprovação na inspecção post mortem e haja lugar a indemnizações a liquidar a título de seguro de reses, os originais da guia de trânsito para abate imediato (modelo n.º 212-DSSA) ou da guia sanitária de trânsito (modelo n.º 4/DVF) ou ainda o anexo à guia de trânsito (modelo n.º 213-DSSA) ficarão na posse da Junta Nacional dos Produtos Pecuários, que comunicará de imediato à direcção regional emissora a razão da retenção do documento.
 
-###### Art. 12.º Os originais preenchidos que não sejam utilizados por motivo justificado deverão ser entregues de imediato aos serviços regionais de agricultura ou a outra entidade que os tenha emitido.
+Art. 12.º Os originais preenchidos que não sejam utilizados por motivo justificado deverão ser entregues de imediato aos serviços regionais de agricultura ou a outra entidade que os tenha emitido.
 
 ### CAPÍTULO III — Identificação
 
-###### Art. 13.º Todos os animais a deslocar têm de estar convenientemente identificados pela aposição de marcas oficiais exclusivas, em conformidade com o disposto no artigo seguinte.
+Art. 13.º Todos os animais a deslocar têm de estar convenientemente identificados pela aposição de marcas oficiais exclusivas, em conformidade com o disposto no artigo seguinte.
 
-###### Art. 14.º - 1 - Poderão utilizar-se marcas auriculares (brincos), tatuagem, fogo, tinta ou outros meios de marcação, sem prejuízo do possível recurso ao resenho, de acordo com o que, para o efeito, for determinado pelos serviços de identificação animal da Direcção-Geral da Pecuária, sendo a orelha esquerda expressamente reservada para a marcação oficial.
+Art. 14.º - 1 - Poderão utilizar-se marcas auriculares (brincos), tatuagem, fogo, tinta ou outros meios de marcação, sem prejuízo do possível recurso ao resenho, de acordo com o que, para o efeito, for determinado pelos serviços de identificação animal da Direcção-Geral da Pecuária, sendo a orelha esquerda expressamente reservada para a marcação oficial.
 
 2 - A definição das características e inscrições das marcas, bem como a aquisição e distribuição de brincos e restantes meios de identificação a utilizar, são da competência exclusiva da Direcção-Geral da Pecuária, onde ficarão registados os elementos nelas inscritos.
 
-###### Art. 15.º - 1 - Nos dias de abate, os brincos serão conferidos e guardados em embalagem selada sob orientação e responsabilidade da entidade oficial que superintenda no matadouro (director da comissão de gestão ou director técnico-administrativo ou médico veterinário inspector), que os remeterá quinzenalmente à sede da respectiva direcção regional de agricultura com relação anexa, da qual constem os números e letras respeitantes ao conteúdo de cada embalagem.
+Art. 15.º - 1 - Nos dias de abate, os brincos serão conferidos e guardados em embalagem selada sob orientação e responsabilidade da entidade oficial que superintenda no matadouro (director da comissão de gestão ou director técnico-administrativo ou médico veterinário inspector), que os remeterá quinzenalmente à sede da respectiva direcção regional de agricultura com relação anexa, da qual constem os números e letras respeitantes ao conteúdo de cada embalagem.
 
 2 - Os brincos retirados de animais abatidos por virtude de apreensão ou que possam ser considerados suspeitos e ainda aqueles que a Comissão Coordenadora das Acções de Combate ao Contrabando de Grado/Carne venha a solicitar serão embalados separadamente, ficando à ordem desta, que determinará o destino a dar-lhes.
 
@@ -228,16 +240,16 @@ c) O triplicado fica em arquivo da entidade emissora.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 16.º Sempre que os serviços regionais de agricultura não tenham dado cumprimento às exigências constantes das alíneas b) e c) do artigo 1.º do decreto-lei ora regulamentado, deverão elaborar declaração justificativa do facto, que será anexada à respectiva guia.
+Art. 16.º Sempre que os serviços regionais de agricultura não tenham dado cumprimento às exigências constantes das alíneas b) e c) do artigo 1.º do decreto-lei ora regulamentado, deverão elaborar declaração justificativa do facto, que será anexada à respectiva guia.
 
 Mário Soares - Carlos Alberto da Mota Pinto - Manuel José Dias Soares Costa.
 
-**Promulgado em 1 de Fevereiro de 1984.**
+Promulgado em 1 de Fevereiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 2 de Fevereiro de 1984.**
+Referendado em 2 de Fevereiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

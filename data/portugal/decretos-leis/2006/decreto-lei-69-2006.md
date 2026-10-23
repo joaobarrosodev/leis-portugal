@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/69/2006/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2006-667526
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e455dc0d334645e97bd48860c761b5884ccec54fedb82b1f9b1e3ae3c1bd141
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f17de87218b91c80cd4b4a2c2aa69160ab653e070359b397ef0998f04a574fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência para a Prevenção dos Fogos Florestais
-- Prevenção de Incêndios
-- Pessoal Dirigente
 - Direcção Geral dos Recursos Florestais
-- Proteção da Floresta
 - Integração de Serviços
 - Integração de Trabalhadores
+- Pessoal Dirigente
+- Prevenção de Incêndios
+- Proteção da Floresta
 - Quadro de Pessoal
 - Transferência de Competências
 - Transferência Patrimonial
@@ -90,16 +90,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+- type: cites
+  target: pt:dre:218544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:13Z'
   warnings: []
   errors: []
 ---
@@ -146,13 +158,17 @@ O presente decreto-lei integra na DGRF a missão e atribuições da Agência par
 
 3 - A DGRF tem ainda por missão assegurar, articulando com as demais entidades, a prevenção estrutural, actuando de forma concertada no planeamento e na procura de estratégias conjuntas no domínio da defesa da floresta contra incêndios.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
 2 - A DGRF, enquanto autoridade florestal nacional, é coadjuvada pelo Conselho da Autoridade Florestal, sendo este regulamentado por diploma próprio.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -210,7 +226,9 @@ ab) Manter e gerir, à escala nacional, um banco de dados relativo a incêndios 
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -226,7 +244,9 @@ e) Conselho de representantes de defesa da floresta contra incêndios.
 
 2 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A DGRF é dirigida por um director-geral, coadjuvado por cinco subdirectores-gerais.
 
@@ -252,7 +272,9 @@ h) Assegurar a adopção de medidas e instrumentos necessários à concretizaç�
 
 4 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -260,7 +282,9 @@ h) Assegurar a adopção de medidas e instrumentos necessários à concretizaç�
 
 3 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -336,15 +360,15 @@ As referências legais à Agência para a Prevenção de Incêndios Florestais c
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 5 de Março de 2006.**
+Promulgado em 5 de Março de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Março de 2006.**
+Referendado em 6 de Março de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o n.º 2 do artigo 2.º)
 

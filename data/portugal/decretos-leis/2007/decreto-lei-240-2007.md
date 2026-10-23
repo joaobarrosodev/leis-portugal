@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/240/2007/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2007-639315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4aa14ff238167c82e50af523f133955f4963d93941ff3021dded0a3fcc7315f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a998fb06b900599b3aad5e2ec70a150e3b75db0a3f677488e3d1e6fcc09cdea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,23 @@ reuse:
 subjects:
 - Definição de Competências
 - Gestão Orçamental
+- Governo XVII
+- Ministro da Administração Interna
+- Ministro da Presidência
+- Ministro de Estado e das Finanças
 - Ministro de Estado e dos Negócios Estrangeiros
-- Subsecretário de Estado da Administração Interna
+- Orgânica
+- Presidência do Conselho de Ministros
 - Primeiro-ministro
+- Programa Operacional da Administração Pública
+- Secretário de Estado Adjunto do Primeiro-ministro
+- Secretário de Estado Adjunto e da Administração Interna
+- Secretário de Estado Adjunto e da Administração Local
 - Secretário de Estado da Juventude e do Desporto
 - Secretário de Estado da Modernização Administrativa
-- Secretário de Estado da Proteção Civil
-- Secretário de Estado Adjunto e da Administração Interna
-- Governo XVII
-- Programa Operacional da Administração Pública
-- Orgânica
-- Secretário de Estado Adjunto do Primeiro-ministro
 - Secretário de Estado da Presidência do Conselho de Ministros
-- Ministro de Estado e das Finanças
-- Presidência do Conselho de Ministros
-- Ministro da Presidência
-- Secretário de Estado Adjunto e da Administração Local
-- Ministro da Administração Interna
+- Secretário de Estado da Proteção Civil
+- Subsecretário de Estado da Administração Interna
 - Substituição de Funções
 - Tutela
 relationships:
@@ -93,6 +93,19 @@ relationships:
   target: pt:dre:603879:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:247024:por
+  label: "Alterado o art. 3º da Orgânica do XVII Governo Constitucional, aprovada pelo Dec Lei 79/2005, de 15-Abr, na redacção\
+    \ do presente diploma, pelo DEC LEI.44/2008.11.03.2008.PCM, DR.IS [50] de 11.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2008-247024
+  date: '2008-03-11'
+- type: amended_by
+  target: pt:dre:603879:por
+  label: "Alterado o art 3º da Orgânica do XVII Governo Constitucional, aprovada pelo Dec Lei 79/2005, de 15-Abr, na redacção\
+    \ do presente diploma, e republicado com a redacção actual, pelo DEC LEI.92/2009.16.04.2009.PCM, DR.IS [74] de 16.04.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2009-603879
+  date: '2009-04-16'
 - type: cites
   target: eli:http://data.dre.pt/eli
   label: null
@@ -133,16 +146,100 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/90/2005/05/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/90/2005/05/13/p/dre
+- type: cites
+  target: pt:dre:539233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693658:por
+  label: null
+  source: null
 article_structure:
-  article_count: 42
+  article_count: 35
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:30Z'
   warnings: []
   errors: []
 ---
@@ -199,7 +296,9 @@ p) ...
 
 q) ...
 
-###### Artigo 3.º — Secretários de Estado e subsecretário de Estado
+Artigo 3.º
+
+Secretários de Estado e subsecretário de Estado
 
 1 - O Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado da Presidência do Conselho de Ministros, pelo Secretário de Estado Adjunto do Primeiro-Ministro e pelo Secretário de Estado Adjunto e da Administração Local.
 
@@ -239,11 +338,15 @@ c) Pelo Secretário de Estado da Modernização Administrativa.
 
 16 - ...
 
-###### Artigo 6.º — Substituição do Primeiro-Ministro
+Artigo 6.º
 
-**O Primeiro-Ministro, salvo sua indicação em contrário, é substituído na sua ausência ou impedimento pelo Ministro de Estado e dos Negócios Estrangeiros ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.**
+Substituição do Primeiro-Ministro
 
-###### Artigo 10.º — Presidência do Conselho de Ministros
+O Primeiro-Ministro, salvo sua indicação em contrário, é substituído na sua ausência ou impedimento pelo Ministro de Estado e dos Negócios Estrangeiros ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.
+
+Artigo 10.º
+
+Presidência do Conselho de Ministros
 
 1 - ...
 
@@ -285,11 +388,15 @@ e) Secretário de Estado da Modernização Administrativa.
 
 15 - ...
 
-###### Artigo 11.º — Negócios Estrangeiros
+Artigo 11.º
+
+Negócios Estrangeiros
 
 (Anterior artigo 12.º)
 
-###### Artigo 12.º — Finanças e Administração Pública
+Artigo 12.º
+
+Finanças e Administração Pública
 
 1 - (Anterior n.º 1 do artigo 13.º)
 
@@ -303,17 +410,21 @@ e) Secretário de Estado da Modernização Administrativa.
 
 6 - (Anterior n.º 6 do artigo 13.º)
 
-###### Artigo 13.º — Defesa Nacional
+Artigo 13.º
+
+Defesa Nacional
 
 (Anterior artigo 14.º)
 
-###### Artigo 14.º — Administração Interna
+Artigo 14.º
+
+Administração Interna
 
 (Anterior artigo 11.º)»
 
 ###### Artigo 2.º — Disposição orçamental
 
-**O Ministro de Estado e das Finanças providencia a efectiva transferência das verbas necessárias ao funcionamento dos novos gabinetes dos membros do Governo, criados ou reestruturados nos termos do presente decreto-lei.**
+O Ministro de Estado e das Finanças providencia a efectiva transferência das verbas necessárias ao funcionamento dos novos gabinetes dos membros do Governo, criados ou reestruturados nos termos do presente decreto-lei.
 
 ###### Artigo 3.º — Norma revogatória
 
@@ -333,15 +444,15 @@ O presente decreto-lei produz efeitos a partir de 17 de Maio de 2007, consideran
 
 Visto e aprovado em Conselho de Ministros de 17 de Maio de 2007. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Emanuel Augusto dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Rui Carlos Pereira - Alberto Bernardes Costa - Humberto Delgado Ubach Chaves Rosa - Bernardo Luís Amador Trindade - Luís Medeiros Vieira - Mário Lino Soares Correia - Fernando Medina Maciel Almeida Correia - António Fernando Correia de Campos Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.
 
-**Promulgado em 7 de Junho de 2007.**
+Promulgado em 7 de Junho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 8 de Junho de 2007.**
+Referendado em 8 de Junho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 79/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2005-547070), de 15 de Abril
 
@@ -451,7 +562,7 @@ c) Pelo Secretário de Estado da Modernização Administrativa.
 
 ###### Artigo 6.º — Substituição do Primeiro-Ministro
 
-**O Primeiro-Ministro, salvo sua indicação em contrário, é substituído na sua ausência ou impedimento pelo Ministro de Estado e dos Negócios Estrangeiros ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.**
+O Primeiro-Ministro, salvo sua indicação em contrário, é substituído na sua ausência ou impedimento pelo Ministro de Estado e dos Negócios Estrangeiros ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.
 
 ###### Artigo 7.º — Competência dos ministros
 

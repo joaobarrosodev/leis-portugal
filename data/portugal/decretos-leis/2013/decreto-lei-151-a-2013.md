@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 211/2013, 1º Suplemento, Série I de 2013-10-31
   number: '211'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6328-(2) a 6328-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/10/21101/0000200003.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/151-a/2013/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-a-2013-513860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9793e79d67a6b6425f0e5331977deb1c0fb546d04360aa68fca0a501558021df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f79f8fb4dcc9a8f7fab574e23ff876baf9fad5f6fff939d3ce685a36e115c3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Fiscal
-- Multa
+- Cobrança de Dívidas
 - Contra-ordenação
+- Contribuições e Impostos
 - Contribuinte
+- Custas Judiciais
 - Dação em Cumprimento
 - Dívida
 - Dívidas à Segurança Social
 - Dívidas ao Estado
+- Evasão Fiscal
 - Execução Fiscal
-- Pagamento
-- Contribuições e Impostos
+- Execução por Dívidas
 - Infracção Fiscal
 - JURO de MORA
 - JURO Legal
+- Multa
+- Pagamento
 - Pagamento a Prestações
-- Evasão Fiscal
-- Cobrança de Dívidas
-- Regime Geral das Infracções Tributárias
-- Execução por Dívidas
 - Processo de Execução
+- Regime Geral das Infracções Tributárias
 - Segurança Social
-- Custas Judiciais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
@@ -96,16 +96,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/15/2001/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/15/2001/06/05/p/dre
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:15Z'
   warnings: []
   errors: []
 ---
@@ -210,12 +218,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de outubro de 2013. - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 30 de outubro de 2013.**
+Promulgado em 30 de outubro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de outubro de 2013.**
+Referendado em 31 de outubro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

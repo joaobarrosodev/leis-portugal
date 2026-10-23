@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/517-1970-147456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e6adf0f09b910c45cfac688305bf454d453c579f52d3792afaf6169b1af06e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9710e19a62e11371ad56199553d85d8a1b3ed0fe48ea7a0fac093753a80fcc9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:57Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +96,15 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar:
 
 1.º São tornados extensivos ao ultramar os artigos 1.º, 2.º, 43.º, 44.º e 56.º a 61.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, com a redacção seguinte:
 
-###### Artigo 1.º Denominam-se de fortuna ou azar os jogos cujos resultados são contingentes, por dependerem exclusivamente da sorte.
+Artigo 1.º Denominam-se de fortuna ou azar os jogos cujos resultados são contingentes, por dependerem exclusivamente da sorte.
 
-###### Art. 2.º A prática de jogos de fortuna ou azar é sempre proibida, excepto em locais e épocas concreta e legalmente autorizados.
+Art. 2.º A prática de jogos de fortuna ou azar é sempre proibida, excepto em locais e épocas concreta e legalmente autorizados.
 
 § único. Sempre que qualquer forma de jogo em que, além da sorte, intervenha o cálculo ou perícia do jogador atinja tal incremento público que ponha em perigo os bons costumes, o governador da província poderá tomar as medidas convenientes para reprimir ou restringir a sua prática.
 
 ...
 
-###### Art. 43.º As operações oferecidas ao público em que a esperança de ganho reside essencialmente na sorte ficam dependentes de autorização do governador da província, que fixará, para cada caso, as condições que tiver por convenientes e determinará o respectivo regime de fiscalização.
+Art. 43.º As operações oferecidas ao público em que a esperança de ganho reside essencialmente na sorte ficam dependentes de autorização do governador da província, que fixará, para cada caso, as condições que tiver por convenientes e determinará o respectivo regime de fiscalização.
 
 § 1.º São especialmente abrangidos por este artigo as rifas, tômbolas, sorteios, assim como quaisquer máquinas automáticas cujo funcionamento não dependa da utilização, nem origine a atribuição de fichas e para cujos resultados não influa a perícia, e, ainda, os concursos de publicidade, ou outros, em que se verifique a atribuição de prémios.
 
@@ -110,11 +114,11 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar:
 
 § 4.º O governador da província resolverá por despacho, ouvidos os serviços provinciais respectivos, as dúvidas que se suscitarem sobre a natureza das actividades abrangidas por este artigo.
 
-###### Art. 44.º Não se consideram abrangidas no antigo anterior a instalação e exploração de aparelhos automáticos ou quaisquer dispositivos destinados ùnicamente à venda de artigos ou produtos, quando a importância despendida não exceder o valor comercial dos mesmos.
+Art. 44.º Não se consideram abrangidas no antigo anterior a instalação e exploração de aparelhos automáticos ou quaisquer dispositivos destinados ùnicamente à venda de artigos ou produtos, quando a importância despendida não exceder o valor comercial dos mesmos.
 
 ...
 
-###### Art. 56.º Aqueles que infringirem o disposto no artigo 2.º, quer explorando jogos de fortuna ou azar, incluindo máquinas automáticas de fichas ou moedas, quer exercendo a sua actividade na respectiva exploração, bem como os que fabricarem, importarem, transportarem, expuserem e venderem materiais e utensílios exclusivamente destinados a jogos de fortuna ou azar não concreta e legalmente autorizados, serão punidos com prisão de seis meses a dois anos e demissão dos seus cargos se forem funcionários do Estado ou dos corpos administrativos.
+Art. 56.º Aqueles que infringirem o disposto no artigo 2.º, quer explorando jogos de fortuna ou azar, incluindo máquinas automáticas de fichas ou moedas, quer exercendo a sua actividade na respectiva exploração, bem como os que fabricarem, importarem, transportarem, expuserem e venderem materiais e utensílios exclusivamente destinados a jogos de fortuna ou azar não concreta e legalmente autorizados, serão punidos com prisão de seis meses a dois anos e demissão dos seus cargos se forem funcionários do Estado ou dos corpos administrativos.
 
 § 1.º O dinheiro destinado ao jogo ou obtido através da sua exploração será apreendido, revertendo para a instituição de assistência pública designada por despacho genérico do governador da província.
 
@@ -122,22 +126,22 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar:
 
 § 3.º O disposto nos parágrafos anteriores é aplicável nos casos em que o governador da província tenha usado da faculdade prevista no § único do artigo 2.º deste diploma.
 
-###### Art. 57.º O senhorio ou arrendatário do prédio onde, sem o seu consentimento, se praticar reiterada ou habitualmente o jogo de fortuna ou azar contra o disposto neste diploma tem o direito de resolver o contrato sem que o locatário ou sublocatário possa exigir qualquer indemnização por benfeitorias existentes ou por outro título, ainda que haja sido estipulada no contrato.
+Art. 57.º O senhorio ou arrendatário do prédio onde, sem o seu consentimento, se praticar reiterada ou habitualmente o jogo de fortuna ou azar contra o disposto neste diploma tem o direito de resolver o contrato sem que o locatário ou sublocatário possa exigir qualquer indemnização por benfeitorias existentes ou por outro título, ainda que haja sido estipulada no contrato.
 
-###### Art. 58.º Aqueles que forem encontrados praticando clandestinamente jogos de fortuna ou azar e não estejam abrangidos pelo artigo 56.º e os que estiverem presentes na sala ou compartimento da casa onde se jogue ou onde sejam apreendidos quaisquer utensílios, especialmente destinados à prática dos mesmos jogos, serão punidos com multa de 1000$00 a 5000$00 e, em caso de reincidência, com prisão de três meses a um ano.
+Art. 58.º Aqueles que forem encontrados praticando clandestinamente jogos de fortuna ou azar e não estejam abrangidos pelo artigo 56.º e os que estiverem presentes na sala ou compartimento da casa onde se jogue ou onde sejam apreendidos quaisquer utensílios, especialmente destinados à prática dos mesmos jogos, serão punidos com multa de 1000$00 a 5000$00 e, em caso de reincidência, com prisão de três meses a um ano.
 
-###### Art. 59.º Os que, sem a necessária autorização ou sem observância do condicionamento estabelecido, promoverem qualquer das modalidades a que se refere o artigo 43.º, bem como os que as facilitarem ou nelas cooperarem, serão punidos com multa de 1000$00 a 50000$00 elevada ao dobro em caso de reincidência.
+Art. 59.º Os que, sem a necessária autorização ou sem observância do condicionamento estabelecido, promoverem qualquer das modalidades a que se refere o artigo 43.º, bem como os que as facilitarem ou nelas cooperarem, serão punidos com multa de 1000$00 a 50000$00 elevada ao dobro em caso de reincidência.
 
 § 1.º As importâncias angariadas através das operações a que alude este artigo serão apreendidas e perdidas a favor da entidade designada na forma do § 1.º do artigo 56.º
 
 § 2.º As autoridades administrativas poderão ordenar o encerramento até três meses dos estabelecimentos em que se promovam ou realizem as referidas operações.
 
-###### Art. 60.º A organização de qualquer modalidade de aposta mútua que não esteja devidamente autorizada é punível com multa de 1000$00 a 25000$00, elevada ao dobro no caso de reincidência, e perda do dinheiro angariado, nos termos do § 1.º do artigo 56.º
+Art. 60.º A organização de qualquer modalidade de aposta mútua que não esteja devidamente autorizada é punível com multa de 1000$00 a 25000$00, elevada ao dobro no caso de reincidência, e perda do dinheiro angariado, nos termos do § 1.º do artigo 56.º
 
-###### Art. 61.º Sobre as multas preceituadas neste diploma não incidem quaisquer adicionais, e o respectivo produto reverterá para a instituição designada na forma do § 1.º do artigo 56.º
+Art. 61.º Sobre as multas preceituadas neste diploma não incidem quaisquer adicionais, e o respectivo produto reverterá para a instituição designada na forma do § 1.º do artigo 56.º
 
 2.º Ficam revogados, nas províncias onde o [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, passa a vigorar, os artigos 264.º a 269.º do Código Penal.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas, excepto Macau. - J. da Silva Cunha.

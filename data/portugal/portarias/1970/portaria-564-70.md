@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/564-1970-147831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94c2cfbfa897c5eb721fa664664fdbdefdde2c2187f00e5a24e7ea8960830661
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d489a06478046425cc3af177c563b66b773b99b3c88643dc2ec8f2163371acd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ação Social
+- Aquisição de Imóveis
+- Contrato de Compra e Venda
+- Funcionário Público
+- Habitação Social
+- Juros
+- Ministério do Ultramar
+relationships:
+- type: cites
+  target: pt:dre:262296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527453:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:03Z'
   warnings: []
   errors: []
 ---
@@ -91,12 +106,12 @@ Tendo em conta que só por meio de tal actualização é possível assegurar o h
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º V da base X da Lei Orgânica do Ultramar Português, o seguinte:
 
-###### Artigo 1.º O n.º 1 do artigo 11.º do Regulamento de Casas Económicas da Obra Social do Ministério do Ultramar, em Regime de Propriedade Resolúvel, aprovado pela [Portaria n.º 23785](https://diariodarepublica.pt/dr/detalhe/portaria/23785-1968-262296), de 18 de Dezembro de 1968, passa a ter a seguinte redacção:
+Artigo 1.º O n.º 1 do artigo 11.º do Regulamento de Casas Económicas da Obra Social do Ministério do Ultramar, em Regime de Propriedade Resolúvel, aprovado pela [Portaria n.º 23785](https://diariodarepublica.pt/dr/detalhe/portaria/23785-1968-262296), de 18 de Dezembro de 1968, passa a ter a seguinte redacção:
 
-###### Art. 11.º - 1. Os beneficiários a quem hajam sido atribuídas casas económicas adquirem a sua posse e propriedade resolúvel mediante a celebração do respectivo contrato de compra e venda, do qual deverá constar o preço, que corresponderá ao capital investido e em dívida, acrescido do juro de 4 por cento ao ano, as entregas iniciais para amortização, a identificação completa do prédio, o montante de cada mensalidade, o prazo de amortização expresso em meses e, bem assim, quaisquer outras condições que forem reputadas necessárias.
+Art. 11.º - 1. Os beneficiários a quem hajam sido atribuídas casas económicas adquirem a sua posse e propriedade resolúvel mediante a celebração do respectivo contrato de compra e venda, do qual deverá constar o preço, que corresponderá ao capital investido e em dívida, acrescido do juro de 4 por cento ao ano, as entregas iniciais para amortização, a identificação completa do prédio, o montante de cada mensalidade, o prazo de amortização expresso em meses e, bem assim, quaisquer outras condições que forem reputadas necessárias.
 
-###### Art. 2.º O aumento de encargos resultante da elevação da taxa de juro consequente da presente portaria não será levado em conta para efeito do cômputo do terço do rendimento do agregado familiar a que alude o n.º 1 do artigo 5.º do regulamento aprovado pela [Portaria n.º 23785](https://diariodarepublica.pt/dr/detalhe/portaria/23785-1968-262296), de 18 de Dezembro de 1968.
+Art. 2.º O aumento de encargos resultante da elevação da taxa de juro consequente da presente portaria não será levado em conta para efeito do cômputo do terço do rendimento do agregado familiar a que alude o n.º 1 do artigo 5.º do regulamento aprovado pela [Portaria n.º 23785](https://diariodarepublica.pt/dr/detalhe/portaria/23785-1968-262296), de 18 de Dezembro de 1968.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

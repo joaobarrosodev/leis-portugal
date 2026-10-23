@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/240/1996/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1996-189476
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:46:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7582adaeb99267c0c110729d5f44dea4893b78c9b11f2864f40f88a082c04722
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a865aa4b24979f3da3b63ccd84e7390cc93a2b7f49860f83eca2d055312f32c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:46:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contribuições da Segurança Social
-- Trabalhador Rural
 - Regime Geral da Segurança Social
 - Segurança Social
 - Subsídio de Doença
 - Trabalhador Independente
 - Trabalhador Intelectual
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:490249:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662123:por
+  label: "Alterados os arts. 35.º, 39.º, 43.º, 44.º, 49.º, 53.º-B, 54.º e 55.º do Dec Lei 328/93, de 25-Set (na redacção dada\
+    \ pelo presente diploma) pelo DEC LEI.397/99.1999.10.13.MTS DR.IS-A [239]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/397-1999-662123
+  date: '1999-10-13'
+- type: amended_by
+  target: pt:dre:343434:por
+  label: "Aditados os arts. 37º-A e 37º-B ao Dec Lei 328/93 de 25-Set , com a redacção do presente diploma, pelo DEC LEI.159/2001.2001.05.18.MTS\
+    \ DR.IS-A [115]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2001-343434
+  date: '2001-05-18'
+- type: amended_by
+  target: pt:dre:240006:por
+  label: "Alterado o nº 2 do art. 33º e o nº 4 do art. 35º do Dec Lei 328/93 de 25-Set, com a redacção conferida pelo presente\
+    \ diploma, pelo DEC LEI.119/2005.22.07.2005.MTSSO, DR.IS-A [140] de 22.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2005-240006
+  date: '2005-07-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/190/1992/09/03/p/dre
   label: null
@@ -102,16 +120,122 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/52/1993/04/08/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/52/1993/04/08/p/dre
+- type: cites
+  target: pt:dre:220561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688409:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:261288:por
+  label: "Rectificado pela DECL-RECT.4-F/97.1997.01.31.PCM, DR.IS-A [26]2ºsupl de 1997.01.31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-f-1997-261288
+  date: '1997-01-31'
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado o Dec Lei 328/93, de 25-Set, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela\
+    \ Lei n.º 119/2009, de 30 de Dezembro), na redacção do presente diploma, pela LEI.110/2009.16.09.2009.AR, DR.IS [180]\
+    \ de 16.09.2009, sem prejuízo de, até à entrada em vigor da regulamentação [prevista no art. 4.º] se manter transitoriamente\
+    \ em vigor as disposições procedimentais do diploma revogado que não contrariem o disposto no Código aprovado pela citada\
+    \ Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
 article_structure:
-  article_count: 113
+  article_count: 87
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:46:28Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +286,9 @@ c) Os cônjuges dos trabalhadores referidos na alínea a) que com eles trabalhem
 
 4 - As pessoas que exerçam actividade profissional por conta própria geradora de rendimentos a que se reportam os artigos 3.º, 4.º e 5.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, cujos rendimentos anuais ilíquidos sejam iguais ou inferiores a seis vezes a remuneração mínima mensal mais elevada garantida à generalidade dos trabalhadores, podem, mediante requerimento, integrar-se no âmbito pessoal do presente regime.
 
-###### Artigo 12.º — Exercício de actividade no estrangeiro
+Artigo 12.º
+
+Exercício de actividade no estrangeiro
 
 1 - Os trabalhadores independentes abrangidos pelo regime previsto no presente diploma que vão exercer a respectiva actividade em país estrangeiro por período determinado podem manter o seu enquadramento neste regime.
 
@@ -170,7 +296,9 @@ c) Os cônjuges dos trabalhadores referidos na alínea a) que com eles trabalhem
 
 3 - Quando se trate de trabalhador independente cujos conhecimentos técnicos ou aptidões especiais o justifiquem, a autorização pode ser dada por período superior ao previsto no número anterior.
 
-###### Artigo 16.º — Trabalhadores independentes com actividade temporária em Portugal
+Artigo 16.º
+
+Trabalhadores independentes com actividade temporária em Portugal
 
 1 - Os trabalhadores que exerçam em Portugal, com carácter temporário, actividade por conta própria e que provem o seu enquadramento em regime de protecção social obrigatório de outro país são excluídos do âmbito do regime regulado neste diploma.
 
@@ -178,7 +306,9 @@ c) Os cônjuges dos trabalhadores referidos na alínea a) que com eles trabalhem
 
 3 - Nas situações previstas neste artigo é aplicável, com as devidas adequações, o disposto nos n.os 2 e 3 do artigo 12.º
 
-###### Artigo 17.º — Participação do exercício de actividade
+Artigo 17.º
+
+Participação do exercício de actividade
 
 1 - Para efeitos do enquadramento no regime regulado no presente diploma e, se for caso disso, da vinculação ao sistema de segurança social, os trabalhadores independentes são obrigados a proceder junto das instituições de segurança social que os abranjam, ou das repartições de finanças no acto de declaração de início de actividade, à participação do exercício da actividade determinante daqueles efeitos.
 
@@ -186,37 +316,51 @@ c) Os cônjuges dos trabalhadores referidos na alínea a) que com eles trabalhem
 
 3 - Os procedimentos a adoptar, quando a participação da actividade para efeitos de segurança social tiver lugar nas repartições de finanças, são aprovados por despacho conjunto dos ministros da tutela.
 
-###### Artigo 18.º — Prazo para a participação
+Artigo 18.º
+
+Prazo para a participação
 
 A participação do exercício da actividade deve ter lugar até final do prazo legal para pagamento da primeira contribuição referente ao beneficiário, mesmo nos casos em que haja lugar à isenção da obrigação de contribuir.
 
-###### Artigo 19.º — Prova do exercício da actividade
+Artigo 19.º
+
+Prova do exercício da actividade
 
 1 - A prova do exercício efectivo de actividade por conta própria e dos rendimentos dela auferidos deve ser feita mediante documentos, incluindo os de natureza fiscal.
 
 2 - A participação do início da actividade para efeitos de segurança social efectuada nas repartições de finanças consubstancia autorização para comunicação pelas repartições de finanças às instituições de segurança social de toda a informação e documentos de natureza fiscal relevantes para o efeito e dispensa o interessado de fazer a prova referida no número anterior junto da instituição de segurança social que o abranja.
 
-###### Artigo 21.º — Cessação da actividade
+Artigo 21.º
+
+Cessação da actividade
 
 1 - A cessação do exercício da actividade por conta própria determina a cessação do enquadramento neste regime.
 
 2 - Os beneficiários devem comunicar à instituição de segurança social que os abrange a cessação da actividade por conta própria.
 
-###### Artigo 23.º — Promoção da inscrição pelos interessados
+Artigo 23.º
+
+Promoção da inscrição pelos interessados
 
 1 - Os trabalhadores independentes que, à data do enquadramento no regime previsto no presente diploma, se não encontrem vinculados ao sistema de segurança social devem promover a sua inscrição, através da entrega do boletim de identificação de modelo próprio, no prazo previsto para o pagamento da primeira contribuição.
 
 2 - Sempre que o trabalhador já se encontre vinculado ao sistema de segurança social não há lugar à entrega do boletim de identificação, mas, neste caso, deve o beneficiário indicar, na participação a que se refere o artigo 17.º, o seu número de inscrição como beneficiário.
 
-###### Artigo 24.º — Inscrição oficiosa
+Artigo 24.º
+
+Inscrição oficiosa
 
 Quando o trabalhador independente não promova a sua inscrição, pode esta ser efectuada pela instituição competente, por sua iniciativa ou a solicitação de qualquer familiar interessado.
 
-###### Artigo 25.º — Impossibilidade de inscrição
+Artigo 25.º
+
+Impossibilidade de inscrição
 
 Não há lugar à inscrição, quer oficiosa, quer resultante de requerimento de familiares, nas condições do artigo 24.º, nos casos em que a obrigação contributiva do trabalhador se encontre extinta por prescrição ou se o mesmo tiver falecido.
 
-###### Artigo 28.º — Produção de efeitos
+Artigo 28.º
+
+Produção de efeitos
 
 1 - O enquadramento no regime dos trabalhadores independentes reporta-se, na falta de disposição especial, ao dia 1 do mês seguinte àquele em que tiver início o exercício de actividade por conta própria.
 
@@ -226,11 +370,15 @@ Não há lugar à inscrição, quer oficiosa, quer resultante de requerimento de
 
 4 - No caso de o requerimento ser apresentado por cônjuge abrangido pela alínea c) do n.º 1 do artigo 6.º, o deferimento do mesmo depende de prévio enquadramento do trabalhador independente.
 
-###### Artigo 30.º — Isenção da obrigação de contribuir
+Artigo 30.º
+
+Isenção da obrigação de contribuir
 
 Em caso de acumulação do exercício de actividade por conta de outrem, abrangida por regime obrigatório de protecção social, com o exercício de actividade por conta própria determinante do enquadramento no respectivo regime, é reconhecido aos trabalhadores o direito à isenção da obrigação de contribuir em função desta actividade, nos termos e nas condições previstos no presente diploma.
 
-###### Artigo 33.º — Base de incidência
+Artigo 33.º
+
+Base de incidência
 
 1 - Independentemente da pluralidade de actividades por conta própria eventualmente exercidas, em acumulação, pelo mesmo trabalhador, o cálculo do montante das contribuições dos trabalhadores independentes tem por base uma remuneração convencional escolhida pelo interessado de entre os escalões indexados à remuneração mínima mensal mais elevada garantida por lei, constantes do anexo n.º 1.
 
@@ -244,7 +392,9 @@ b) Tratando-se de situação de enquadramento, o requerimento, ainda que não po
 
 4 - O requerimento para fixação da base de incidência a que se refere o n.º 2 consubstancia autorização do interessado aos serviços regionais competentes para procederem, oficiosamente, à confirmação dos rendimentos junto dos serviços da administração fiscal.
 
-###### Artigo 35.º — Escolha da remuneração convencional em situações especiais
+Artigo 35.º
+
+Escolha da remuneração convencional em situações especiais
 
 1 - Para os beneficiários que, em função do exercício de actividade por conta própria, sejam enquadrados no regime previsto no presente diploma ou cessem a situação de isenção contributiva com idade igual ou superior a 55 anos, o limite máximo da base de incidência é o valor correspondente ao 8.º escalão a que se reporta o artigo 33.º
 
@@ -254,7 +404,9 @@ b) Tratando-se de situação de enquadramento, o requerimento, ainda que não po
 
 4 - A base de incidência fixada de acordo com o disposto no n.º 2 é actualizada nos mesmos termos em que o for a remuneração mínima mensal mais elevada garantida por lei.
 
-###### Artigo 39.º — Isenção no caso de acumulação de actividade independente com actividade por conta de outrem
+Artigo 39.º
+
+Isenção no caso de acumulação de actividade independente com actividade por conta de outrem
 
 O direito à isenção da obrigação de contribuir, prevista no artigo 30.º, depende da verificação das seguintes condições:
 
@@ -262,15 +414,21 @@ a) Exercício de actividade por conta própria em acumulação com actividade po
 
 b) O valor médio das remunerações consideradas nos últimos seis meses para o outro regime ser igual ou superior ao valor da remuneração mínima mensal mais elevada garantida por lei.
 
-###### Artigo 41.º — Isenção da obrigação de contribuir dos cônjuges
+Artigo 41.º
+
+Isenção da obrigação de contribuir dos cônjuges
 
 Os cônjuges dos trabalhadores independentes, a que se refere o artigo 6.º, n.º 1, alínea c), podem beneficiar da isenção da obrigação de contribuir, verificadas as condições estabelecidas nos artigos anteriores.
 
-###### Artigo 43.º — Requerimento da isenção
+Artigo 43.º
+
+Requerimento da isenção
 
 O reconhecimento do direito à isenção de contribuir depende de requerimento do interessado, a entregar na instituição de segurança social que abrange o beneficiário, acompanhado das provas das condições legalmente exigidas para a isenção.
 
-###### Artigo 44.º — Produção de efeitos do requerimento de isenção
+Artigo 44.º
+
+Produção de efeitos do requerimento de isenção
 
 1 - O requerimento a que se refere o artigo anterior produz efeitos nos termos seguintes:
 
@@ -282,7 +440,9 @@ b) A partir da data do início do mês seguinte àquele em que o requerimento te
 
 3 - Nas situações referidas na alínea b) do n.º 1, são devidas as contribuições referentes ao período que medeia entre a data da verificação das condições para a isenção e aquela a que se reportem os efeitos do requerimento.
 
-###### Artigo 47.º — Início e cessação da obrigação de contribuir
+Artigo 47.º
+
+Início e cessação da obrigação de contribuir
 
 1 - As contribuições dos beneficiários deste regime são devidas a partir do 1.º dia:
 
@@ -294,7 +454,9 @@ c) Do mês seguinte ao do início efectivo da actividade por conta própria, nos
 
 2 - A obrigação de contribuir deixa de verificar-se a partir do 1.º dia do mês seguinte àquele em que a actividade cesse.
 
-###### Artigo 48.º — Inexistência da obrigação de contribuir
+Artigo 48.º
+
+Inexistência da obrigação de contribuir
 
 1 - Não existe obrigação contributiva sempre que:
 
@@ -310,13 +472,17 @@ d) O beneficiário, abrangido pelo esquema alargado, seja considerado em situaç
 
 3 - Os trabalhadores intelectuais abrangidos pelo presente regime que provem não ter auferido qualquer rendimento da sua actividade, no ano civil anterior àquele a que se reporta a obrigação contributiva, podem requerer às instituições que os abrangem o não cumprimento da obrigação de contribuir.
 
-###### Artigo 51.º — Periodicidade e modo de pagamento
+Artigo 51.º
+
+Periodicidade e modo de pagamento
 
 1 - As contribuições dos beneficiários deste regime reportam-se a meses civis e o prazo para o seu pagamento é fixado em despacho do ministro da tutela.
 
 2 - O pagamento das contribuições dos trabalhadores independentes é feito através de folhas-guia de modelo aprovado por despacho do ministro da tutela.
 
-###### Artigo 52.º — Equivalência à entrada de contribuições
+Artigo 52.º
+
+Equivalência à entrada de contribuições
 
 1 - Os trabalhadores independentes têm direito ao registo de remunerações por equivalência durante os períodos e nos termos em que o mesmo direito é reconhecido aos trabalhadores por conta de outrem, salvo o disposto no número seguinte.
 
@@ -324,7 +490,9 @@ d) O beneficiário, abrangido pelo esquema alargado, seja considerado em situaç
 
 3 - O registo por equivalência é sempre feito com base na remuneração considerada como base de incidência, reportada a 30 dias em cada mês.
 
-###### Artigo 53.º — Esquemas de prestações
+Artigo 53.º
+
+Esquemas de prestações
 
 1 - Integra obrigatoriamente o âmbito material do regime dos trabalhadores independentes o esquema de prestações atribuído no âmbito do regime geral dos trabalhadores por conta de outrem nas eventualidades de maternidade, paternidade e adopção, invalidez, velhice e morte.
 
@@ -332,19 +500,25 @@ d) O beneficiário, abrangido pelo esquema alargado, seja considerado em situaç
 
 3 - A protecção na doença é concedida com observância do disposto nos artigos seguintes.
 
-###### Artigo 54.º — Prazo para a opção
+Artigo 54.º
+
+Prazo para a opção
 
 1 - A opção pelo esquema de prestações alargado, a que se refere o n.º 2 do artigo 53.º, deve ser efectuada no prazo referido no artigo 18.º, nos casos em que a mesma se processe na sequência do início da actividade independente.
 
 2 - Os beneficiários abrangidos pelo esquema obrigatório de prestações podem optar pela aplicação do esquema alargado, nas condições e com os efeitos estabelecidos neste diploma.
 
-###### Artigo 55.º — Revogabilidade da opção
+Artigo 55.º
+
+Revogabilidade da opção
 
 1 - A opção pelo esquema de prestações alargado é revogável mediante declaração do beneficiário, a apresentar nos meses de Setembro e Outubro, produzindo, a mesma, efeitos a partir de 1 de Janeiro do ano seguinte.
 
 2 - O disposto no número anterior não prejudica o direito às prestações de doença e encargos familiares em curso, nos termos da legislação ao abrigo da qual o mesmo foi reconhecido.
 
-###### Artigo 77.º — Regulamentação
+Artigo 77.º
+
+Regulamentação
 
 1 - A regulamentação das normas constantes do presente diploma é feita por decreto regulamentar.
 
@@ -364,7 +538,9 @@ Início do subsídio de doença
 
 3 - Quando a incapacidade temporária ocorra durante o período de concessão do subsídio por maternidade, o período de espera conta-se a partir do momento da verificação da incapacidade.
 
-###### Artigo 53.º-B — Duração do subsídio de doença
+Artigo 53.º-B
+
+Duração do subsídio de doença
 
 1 - O subsídio de doença é concedido pelo período máximo de 365 dias.
 
@@ -402,17 +578,17 @@ b) As disposições relativas à incapacidade temporária não são aplicáveis 
 
 Visto e aprovado em Conselho de Ministros de 12 de Setembro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 15 de Novembro de 1996.**
+Promulgado em 15 de Novembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Novembro de 1996.**
+Referendado em 25 de Novembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO N.º 1 — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/289a00/44574473.pdf))](https://files.diariodarepublica.pt/1s/1996/12/289a00/44574473.pdf)
+## ANEXO N.º 1 — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/289a00/44574473.pdf)
 
 [Decreto-Lei n.º 328/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1993-653124)
 
@@ -674,7 +850,7 @@ b) Tratando-se de situação de enquadramento, o requerimento, ainda que não po
 
 2 - Nos casos em que o beneficiário não indique o escalão da remuneração convencional escolhido como base de incidência deve a instituição de segurança social competente fixar oficiosamente, para aquele efeito, o 1.º escalão.
 
-## ANEXO N.º 1 — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/289a00/44574473.pdf))](https://files.diariodarepublica.pt/1s/1996/12/289a00/44574473.pdf)
+## ANEXO N.º 1 — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/289a00/44574473.pdf)
 
 ###### Artigo 35.º — Escolha da remuneração convencional em situações especiais
 

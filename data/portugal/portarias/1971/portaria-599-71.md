@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/599-1971-633773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebc745906cc65b0ec28c46a0235398546d97c2ee1cb48cc93eefed44e05f63f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85eacec27a7bfdee2296ed909bc496f3625cead50da28f9958522169240591a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:51Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +94,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO 10.º — Encargos Gerais
 
-###### Artigo 362.º, n.º 5), alínea a) «Deslocações de pessoal - Subsídios de viagem e de demora em portos de escala, inerentes às deslocações fora da província - A pagar na metrópole» ... 47000$00
+Artigo 362.º, n.º 5), alínea a) «Deslocações de pessoal - Subsídios de viagem e de demora em portos de escala, inerentes às deslocações fora da província - A pagar na metrópole» ... 47000$00
 
-###### Artigo 363.º, n.º 3), alínea b), 1.ª «Diversas despesas - Despesas eventuais (artigo 1.º e § 2.º do artigo 6.º do Decreto n.º 22545, de 18 de Maio de 1933) - Não especificadas - A pagar na metrópole» ... 100000$00
+Artigo 363.º, n.º 3), alínea b), 1.ª «Diversas despesas - Despesas eventuais (artigo 1.º e § 2.º do artigo 6.º do Decreto n.º 22545, de 18 de Maio de 1933) - Não especificadas - A pagar na metrópole» ... 100000$00
 
 N.º 18), alínea a) «Despesas com funerais de funcionários civis do activo e aposentados - A pagar na metrópole» ... 10000$00
 

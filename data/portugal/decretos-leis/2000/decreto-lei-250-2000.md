@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/250/2000/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2000-540866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fa4465af1a7fa362211c605d6e8279385260add088b757b1018639958ee06b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b86ba840debf48911c774cf4d344ca316d4af3d6d52011265afa58b663512e18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,21 +71,50 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Instituição de Crédito
+- Atividade Bancária
+- Banco de Portugal
 - Definição de Competências
 - Fundo de Investimento
-- Banco de Portugal
 - Fundo Europeu de Investimento
-- Atividade Bancária
+- Instituição de Crédito
+- Instituição Financeira
 - Mercado de Capitais
 - Ratio de Solvabilidade
 - Regime Jurídico
-- Instituição Financeira
 relationships:
 - type: amended_by
   target: pt:dre:58585556:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241222:por
+  label: "Alterados os arts. 81º e 82º e revogada a al.e) do nº 1 do art. 81º do Regime Jurídico das Instituições de Crédito\
+    \ e Sociedades Financeiras, aprovado pelo Dec Lei 298/92 de 31-Dez, com a redacção do presente diploma, pelo DEC LEI.357-A/2007.31.10.2007.MFAP,\
+    \ DR.IS [210-2ºSupl] de 31.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/357-a-2007-241222
+  date: '2007-10-31'
+- type: amended_by
+  target: pt:dre:617129:por
+  label: "Alterado o art. 81º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec -Lei\
+    \ n.º 298/92, de 13-Dez, na redacção do presente diploma, pelo DEC LEI.140-A/2010.30.12.2010.MFAP, DR.IS [252-2ºSupl]\
+    \ de 30.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-a-2010-617129
+  date: '2010-12-30'
+- type: amended_by
+  target: pt:dre:258114:por
+  label: "Alterado o art. 81º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei\
+    \ n.º 298/92, de 31-dez, na redação do presente diploma, pelo DEC LEI.18/2013.06.02.2013.MF, DR.IS [26] de 06.02.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2013-258114
+  date: '2013-02-06'
+- type: amended_by
+  target: pt:dre:58585556:por
+  label: Alterados, a partir de 23.11.2014, sem prejuízo do disposto nos n.ºs 2 a 7 do art. 26.º, os arts 81.º e 82.º, do
+    Regime Geral das Instituições de Crédito e Sociedades Financeiras aprovado pelo Dec Lei 298/92 de 31-dez, e republicado
+    em anexo, na redação do presente diploma, pelo(a) Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I
+    de 2014-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2014-58585556
+  date: '2014-10-24'
 - type: cites
   target: celex:31977L0780
   label: null
@@ -102,16 +131,23 @@ relationships:
   target: celex:31998L0033
   label: null
   source: http://data.europa.eu/eli/dir/1998/33/oj
+- type: corrected_by
+  target: pt:dre:227273:por
+  label: "Rectificado o Decreto-Lei n.º 357-A/2007, de 31 de Outubro, que alterou o Regime Geral das Instituições de Crédito\
+    \ e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, na redacção do presente diploma,\
+    \ pela DECL-RECT.117-A/2007.28.12.2007.PCM, DR.IS [250]3ºSupl de 28.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/117-a-2007-227273
+  date: '2007-12-28'
 article_structure:
-  article_count: 12
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:51Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +204,9 @@ e) Para efeitos da política monetária e do funcionamento ou supervisão dos si
 
 5 - O Banco de Portugal só poderá comunicar informações que tenha recebido de entidades de outro Estado membro da Comunidade Europeia com o consentimento expresso dessas entidades.
 
-###### Artigo 82.º — Cooperação com países terceiros
+Artigo 82.º
+
+Cooperação com países terceiros
 
 Os acordos de cooperação referidos na alínea e) do n.º 1 e no n.º 2 do artigo anterior só podem ser celebrados quando as informações a prestar beneficiem de garantias de segredo pelo menos equivalentes às estabelecidas no presente diploma e tenham por objectivo o desempenho de funções de supervisão que estejam cometidas às entidades em causa.»
 
@@ -272,15 +310,15 @@ O Banco de Portugal fica autorizado a modificar a regulamentação do rácio de 
 
 Visto e aprovado em Conselho de Ministros de 31 de Agosto de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura.
 
-**Promulgado em 28 de Setembro de 2000.**
+Promulgado em 28 de Setembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Outubro de 2000.**
+Referendado em 4 de Outubro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Regime dos elementos extrapatrimoniais a que se refere o artigo 9.º
 
@@ -300,7 +338,7 @@ QUADRO N.º 1
 
 (ver nota a) (ver nota b)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/10/237a00/56915695.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/10/237a00/56915695.pdf)](https://files.diariodarepublica.pt/1s/2000/10/237a00/56915695.pdf)
 
 (nota a) Os contratos não abrangidos por uma das cinco categorias referidas neste quadro devem ser tratados como contratos sobre mercadorias que não sejam metais preciosos.
 
@@ -312,7 +350,7 @@ Etapa c): a soma do custo de substituição, calculado na etapa a), com o produt
 
 QUADRO N.º 1-A
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/10/237a00/56915695.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/10/237a00/56915695.pdf)](https://files.diariodarepublica.pt/1s/2000/10/237a00/56915695.pdf)
 
 3 - Para efeitos de avaliação dos riscos de crédito associados aos contratos enumerados no n.º 2 do artigo 9.º do presente diploma segundo o método do risco inicial, os contratos sobre ouro devem ser tratados da forma prevista no referido aviso n.º 1/93 para os contratos relativos a taxas de câmbio.
 

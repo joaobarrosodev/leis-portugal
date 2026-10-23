@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/286/1999/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1999-352956
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48f56482c6dbbef54a56ad29bf3162896c7e1909874fedd20bf5d124e46bf8b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c79f744efaf36d57df47fd3bc56f35065e759263b5ccfc9e48ec9d186299e0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects:
 - Autoridade Sanitária
 - Centro Regional de Saúde Pública
+- Conselho Consultivo
 - Conselho Técnico
 - Coordenador
 - Definição de Competências
-- Saúde Pública
-- Política de Saúde
-- Serviço Nacional de Saúde
-- Conselho Consultivo
 - Integração de Trabalhadores
+- Política de Saúde
 - Remuneração
+- Saúde Pública
+- Serviço Nacional de Saúde
 - Transferência Patrimonial
 - Unidade de Saúde Pública
 relationships:
@@ -83,6 +83,13 @@ relationships:
   target: pt:dre:603228:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545638:por
+  label: "Extintos, sendo objecto de fusão, os Centros Regionais de saúde Pública, cuja organização foi estabelecida pelo\
+    \ presente diploma, sendo as respectivas atribuições integradas nas Administrações Regionais de Saúde, I.P., pelo DEC\
+    \ LEI.212/2006.27.10.2006.MS, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2006-545638
+  date: '2006-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/335/1993/09/29/p/dre
   label: null
@@ -95,16 +102,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651705:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:638525:por
+  label: "Revogados os nºs 2, 3 e 4 do art. 3º, o nº 1 do art. 6º e os arts. 7º a 12º e determinado que as ARS, IP, sucedam\
+    \ nas atribuições dos Centros Regionais de saúde Pública, previstos no presente diploma, pelo DEC LEI.222/2007.29.05.2007.MS,\
+    \ DR.IS [103] de 29.05.2007, a partir de 01.06.2007\0007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-2007-638525
+  date: '2007-05-29'
+- type: repealed_by
+  target: pt:dre:603228:por
+  label: "Revogado o presente diploma, a partir de 01.07.2009, à excepção do seu art. 24.º, pelo DEC LEI.81/2009.02.04.2009.MS,\
+    \ DR.IS [65] de 02.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-2009-603228
+  date: '2009-04-02'
 article_structure:
   article_count: 30
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:26Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +211,9 @@ As competências das autoridades de saúde previstas no [Decreto-Lei n.º 336/93
 
 2 - As instituições públicas e privadas devem fornecer aos serviços de saúde pública os elementos por estes considerados indispensáveis à monitorização do nível de saúde das populações da área geográfica por eles abrangida.
 
-### CAPÍTULO II — SECÇÃO I
+### CAPÍTULO II
+
+#### SECÇÃO I
 
 Serviços de âmbito regional
 
@@ -409,12 +447,12 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Maio de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 8 de Julho de 1999.**
+Promulgado em 8 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Julho de 1999.**
+Referendado em 14 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

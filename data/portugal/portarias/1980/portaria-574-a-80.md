@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 205/1980, 1º Suplemento, Série I de 1980-09-05
   number: '205'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2552-(1) a 2552-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/20501/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/574-a-1980-443700
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T06:24:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3e21458e3edc9a4feefd278e962573973557deb427637aa2997bd2d0f324a29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cdfa27eb8a75ef3dc93cb916b510d3f3a1f31627264ccd0edce10492ed79320
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:24:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bolsa de Valores
+- Mercado de Títulos
+- Porto
 relationships:
 - type: amended_by
   target: pt:dre:322323:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:311240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348289:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELO DECRETO-LEI NUMERO 142-A/91, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SERIE-A, NUMERO 83, SUPLEMENTO, DE\
+    \ 10/4/91.\0/4/91.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:625666:por
+  label: "Revogado o n.º 4 do presente diploma, pela PORT.312/89.27.04.1989.MF, DR.IS [97] de 27.04.1989\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/312-1989-625666
+  date: '1989-04-27'
+- type: repealed_by
+  target: pt:dre:322323:por
+  label: "Revogada pelo DEC LEI.142-A/91.10.04.1991.MF, DR.IS-A [83-Supl] de 10.04.1991, a partir da data de sua entrada em\
+    \ vigor, e sem prejuízo dos regimes transitórios nele previstos.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-a-1991-322323
+  date: '1991-04-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:24:00Z'
   warnings: []
   errors: []
 ---

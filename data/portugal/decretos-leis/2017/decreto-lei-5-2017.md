@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/01/00500/0031500318.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/5/2017/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2017-105711790
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbc61dbeea55c4a637f7bdda501f3837c7988ebf21c796099321d714c3339c11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 569419123faffcd841fc098beaf67052a48b064182f9380392cb33ef3e91b75a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Pessoal de Saúde
-- Indústria Farmacêutica
-- Publicidade
-- Investigação Científica e Tecnológica
-- Infarmed
 - Congresso
-- Saúde Pública
-- Política de Saúde
-- Serviço Nacional de Saúde
+- Estabelecimento Hospitalar
+- Indústria Farmacêutica
+- Infarmed
+- Investigação Científica e Tecnológica
+- Material Médico-Cirúrgico
 - Medicamento
-- TIC
 - Meios Complementares de Diagnóstico
 - Página na Internet
+- Pessoal de Saúde
+- Política de Saúde
 - Produto Farmacêutico
 - Promoção de Produtos
+- Publicidade
 - Regime Jurídico
-- Estabelecimento Hospitalar
-- Material Médico-Cirúrgico
+- Saúde Pública
+- Serviço Nacional de Saúde
+- TIC
 - Unidade de Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:123962150:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:107584427:por
+  label: Clarificado o âmbito de aplicação e estabelecido um procedimento célere e transparente relativo aos pedidos de autorização
+    subjacentes ao disposto no art. 9.º do presente diploma, pelo(a) Despacho n.º 5657/2017 - Diário da República n.º 123/2017,
+    Série II de 2017-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/5657-2017-107584427
+  date: '2017-06-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/2013/09/05/p/dre
   label: null
@@ -118,16 +125,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/157/2009/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/157/2009/02/10/p/dre
+- type: cites
+  target: pt:dre:25344024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56346571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601364:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:47Z'
   warnings: []
   errors: []
 ---
@@ -242,7 +277,9 @@ Os artigos 159.º e 162.º do [Decreto-Lei n.º 176/2006](https://diariodarepubl
 
 13 - Não se consideram abrangidos pelo dever de comunicação previsto no presente artigo a retribuição e outras prestações regulares e periódicas, em dinheiro ou em espécie, a que o sujeito tenha direito como contrapartida da prestação de trabalho de natureza subordinada, nem as remunerações devidas pela prestação de trabalho sem subordinação, quando o prestador dependa economicamente do beneficiário da atividade.
 
-###### Artigo 162.º — [...]
+Artigo 162.º
+
+[...]
 
 1 - [...]
 
@@ -286,7 +323,9 @@ Os artigos 52.º e 56.º do [Decreto-Lei n.º 145/2009](https://diariodarepublic
 
 12 - Não se consideram abrangidos pelo dever de comunicação previsto no presente artigo a retribuição e outras prestações regulares e periódicas, em dinheiro ou em espécie, a que o sujeito tenha direito como contrapartida da prestação de trabalho de natureza subordinada, nem as remunerações devidas pela prestação de trabalho sem subordinação, quando o prestador dependa economicamente do beneficiário da atividade.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - [...]
 
@@ -312,12 +351,12 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de setembro de 2016. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Adalberto Campos Fernandes - Manuel de Herédia Caldeira Cabral.
 
-**Promulgado em 30 de novembro de 2016.**
+Promulgado em 30 de novembro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de dezembro de 2016.**
+Referendado em 6 de dezembro de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

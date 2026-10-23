@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/16600/0000300003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/33/2020/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/33-2020-141084373
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T05:40:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc454f5609a382f5de5cedafd858c41d0b687b7b52054d3594e76bcc995092cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 341094077d5e60d75ffe137a9f5ae6dedc70dd81b4059816f2e3d39b15e3d12d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:40:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bissau
-- Portugal
 - Embaixador
 - Nomeação
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:261867078:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:261867078:por
+  label: Exonerado pelo(a) Decreto do Presidente da República n.º 119/2023 - Diário da República n.º 241/2023, Série I de
+    2023-12-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/119-2023-261867078
+  date: '2023-12-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:40:04Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +99,18 @@ validation:
 
 de 26 de agosto
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o ministro plenipotenciário de 1.ª classe José Rui Baptista Borges Velez Caroço para o cargo de Embaixador de Portugal em Bissau.
 
-**Assinado em 11 de agosto de 2020.**
+Assinado em 11 de agosto de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 24 de agosto de 2020.**
+Referendado em 24 de agosto de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa. - Pelo Ministro de Estado e dos Negócios Estrangeiros, Ana Paula Baptista Grade Zacarias, Secretária de Estado dos Assuntos Europeus.**
+O Primeiro-Ministro, António Luís Santos da Costa. - Pelo Ministro de Estado e dos Negócios Estrangeiros, Ana Paula Baptista Grade Zacarias, Secretária de Estado dos Assuntos Europeus.
+
+113517291

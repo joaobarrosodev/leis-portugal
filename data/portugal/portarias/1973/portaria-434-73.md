@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/434-1973-420995
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T04:06:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5937858342a4fc695532d1edf3368d648e7b00555f88c7a1141b6abeaf5f47c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3426c0c079689cd0adeaabbbe4e6e122cff1272579eb474d450716abb140668f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:06:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato
+- Direito de Superficie
+- Domínio Privado do Estado
+- Gabinete da Área de Sines
+- Prédio Rústico
+- Prédio Urbano
+- Zona Industrial
 relationships:
 - type: amended_by
   target: pt:dre:220878:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:309922:por
+  label: Alteradas as disposições da presente portaria, pelo(a) Portaria n.º 692/75 - Diário do Governo n.º 271/1975, Série
+    I de 1975-11-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/692-1975-309922
+  date: '1975-11-22'
+- type: amended_by
+  target: pt:dre:256070:por
+  label: Alterados os arts. 4.º e 6.º pelo(a) Portaria n.º 535/77 - Diário da República n.º 195/1977, Série I de 1977-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/535-1977-256070
+  date: '1977-08-24'
+- type: amended_by
+  target: pt:dre:678212:por
+  label: Alterado o art. 6.º pelo(a) Portaria n.º 103/80 - Diário da República n.º 61/1980, Série I de 1980-03-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/103-1980-678212
+  date: '1980-03-13'
+- type: amended_by
+  target: pt:dre:311600:por
+  label: Alterados o nº 4 do art. 3.º e o nº 5 do art. 8.º e suprimido o nº 4-A do art. 3.º da minuta anexa ao presente diploma
+    pela PORT.489/83.28.04.1983.MFP, DR.IS [97] de 28.04.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/489-1983-311600
+  date: '1983-04-28'
+- type: cites
+  target: pt:dre:146730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675003:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:06:40Z'
   warnings: []
   errors: []
 ---
@@ -465,4 +510,4 @@ O presente contrato rege-se pela lei portuguesa, sendo aplicáveis, nos casos om
 
 Todos os litígios emergentes deste contrato serão da competência do tribunal da comarca da sede do G. A. S.
 
-**O Ministro de Estado, João Mota Pereira de Campos.**
+O Ministro de Estado, João Mota Pereira de Campos.

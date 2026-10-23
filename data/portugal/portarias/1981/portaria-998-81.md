@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/11/26800/30803081.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/998-1981-568512
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:59:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c27c0b72a86b91b45ca295047741d45413bb634e754df93fbccafa744092e01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 376da594c2b91f1598e7aebb477f9779f7f9b954d28f4a57218c8d0eac825dd1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:59:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pesca
+- Proteção do Ambiente
+- Recursos Naturais
 relationships:
 - type: amended_by
   target: pt:dre:420193:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:226393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389407:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:420193:por
+  label: "Revogada pelo DEC LEI.278/87.07.07.1987.MAPA, DR.IS [153] de 07.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/278-1987-420193
+  date: '1987-07-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:59:44Z'
   warnings: []
   errors: []
 ---
@@ -111,4 +131,4 @@ Secretaria de Estado das Pescas, 5 de Novembro de 1981. - O Secretário de Estad
 
 Quadro anexo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/26800/30803081.pdf))](https://files.diariodarepublica.pt/1s/1981/11/26800/30803081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/26800/30803081.pdf)

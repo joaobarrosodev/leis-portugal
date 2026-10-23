@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23128-1968-241181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:40:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 680d74e92702162a19ab5d572c02ebc735e404c4775ea4ab7122632d024cb90c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35b545eee39d9807f459a20c5877fe47e78f4874a3a31489ea154458c86e6e84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:40:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:295662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462604:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:40:25Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +102,9 @@ REGULAMENTO DO CENTRO DE INSTRUÇÃO DE COMANDOS (C. I. C.)
 
 ### CAPÍTULO I — Finalidade e organização geral
 
-###### Artigo 1.º O Centro de Instrução de Comandos tem as atribuições que lhe são conferidas pelo artigo 2.º do [Decreto-Lei n.º 46410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46410-1965-295662), de 29 de Junho de 1965.
+Artigo 1.º O Centro de Instrução de Comandos tem as atribuições que lhe são conferidas pelo artigo 2.º do [Decreto-Lei n.º 46410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46410-1965-295662), de 29 de Junho de 1965.
 
-###### Art. 2.º Para desempenhar o fim a que é destinado, o Centro de Instrução de Comandos compreende:
+Art. 2.º Para desempenhar o fim a que é destinado, o Centro de Instrução de Comandos compreende:
 
 a) Comando;
 
@@ -110,7 +118,7 @@ d) Companhia de comandos.
 
 ### CAPÍTULO II — Comando
 
-###### Art. 3.º Ao comando, que compreende:
+Art. 3.º Ao comando, que compreende:
 
 O comandante;
 
@@ -156,7 +164,7 @@ Analisar os métodos de ensino e decidir quais os mais aconselháveis;
 
 Tomar resoluções sobre o aproveitamento dos instruendos, decidindo em face dos elementos fornecidos pela secção de instrução, operações e informações e pelos oficiais instrutores.
 
-###### Art. 4.º À secretaria compete:
+Art. 4.º À secretaria compete:
 
 a) Receber, registar, distribuir e expedir toda a correspondência do C. I. C.;
 
@@ -164,7 +172,7 @@ b) Tratar de todos os assuntos relativos à administração do pessoal;
 
 c) Elaborar e publicar a Ordem de Serviço do C. I. C.
 
-###### Art. 5.º À secção de instrução, operações e informações compete:
+Art. 5.º À secção de instrução, operações e informações compete:
 
 a) Executar o planeamento de toda a actividade de instrução, bem assim como o seu contrôle;
 
@@ -180,7 +188,7 @@ f) Estudar e orientar a experimentação de materiais e equipamentos que possam 
 
 g) Manter actualizados os elementos de informação das operações em curso e das realizadas pelas unidades de comandos, especialmente quanto ao seu modo de actuação.
 
-###### Art. 6.º À secção de acção psicológica, em conformidade com as directivas recebidas do Quartel-General da Região Militar de Angola e com a doutrina difundida pelo Estado-Maior do Exército, compete:
+Art. 6.º À secção de acção psicológica, em conformidade com as directivas recebidas do Quartel-General da Região Militar de Angola e com a doutrina difundida pelo Estado-Maior do Exército, compete:
 
 a) Auxiliar o comando em todos os assuntos relativos à acção psicológica;
 
@@ -190,7 +198,7 @@ c) Fiscalizar essa acção;
 
 d) Elaborar planos e relatórios de acção psicológica.
 
-###### Art. 7.º À secção de justiça compete:
+Art. 7.º À secção de justiça compete:
 
 a) Instrução de quaisquer processos por ordem ou delegação do comandante, excluindo a elaboração de processos administrativos que não tenham afinidades com o serviço de justiça;
 
@@ -202,23 +210,23 @@ d) Inspeccionar por ordem do respectivo comandante as prisões do Centro e as de
 
 e) Propor ao comandante todas as medidas julgadas convenientes para melhorar a administração da justiça na unidade.
 
-###### Art. 8.º A secção de mobilização tem a seu cargo a mobilização das unidades operacionais de comandos destinados a todas as parcelas do território nacional.
+Art. 8.º A secção de mobilização tem a seu cargo a mobilização das unidades operacionais de comandos destinados a todas as parcelas do território nacional.
 
-###### Art. 9.º A secção de assistência religiosa tem a seu cargo a assistência moral e religiosa de todo o pessoal do C. I. C.
+Art. 9.º A secção de assistência religiosa tem a seu cargo a assistência moral e religiosa de todo o pessoal do C. I. C.
 
-###### Art. 10.º A secção de actividades culturais e recreativas destina-se a impulsionar a prática de actividades de natureza cultural e recreativa, criando e seleccionando os meios necessários à prática de jogos e desportos, grupos corais e musicais e outras manifestações que sirvam para elevar o nível cultural e físico do pessoal do C. I. C. e contribuam para o fortalecimento do moral.
+Art. 10.º A secção de actividades culturais e recreativas destina-se a impulsionar a prática de actividades de natureza cultural e recreativa, criando e seleccionando os meios necessários à prática de jogos e desportos, grupos corais e musicais e outras manifestações que sirvam para elevar o nível cultural e físico do pessoal do C. I. C. e contribuam para o fortalecimento do moral.
 
-###### Art. 11.º O conselho administrativo tem as atribuições que na generalidade são inerentes aos conselhos administrativos das unidades e estabelecimentos militares e funcionará em conformidade com a legislação vigente.
+Art. 11.º O conselho administrativo tem as atribuições que na generalidade são inerentes aos conselhos administrativos das unidades e estabelecimentos militares e funcionará em conformidade com a legislação vigente.
 
 ### CAPÍTULO III — Companhia de comando e serviços
 
-###### Art. 12.º À companhia de comando e serviços, que compreende:
+Art. 12.º À companhia de comando e serviços, que compreende:
 
 O comando, com:
 
-#### Secção de comando da companhia;
+Secção de comando da companhia;
 
-#### Secção de comando do C. I. C.;
+Secção de comando do C. I. C.;
 
 O pelotão de transmissões;
 
@@ -236,13 +244,13 @@ O pelotão de serviços gerais;
 
 compete accionar os órgãos que assegurem e facilitem o exercício do comando e, bem assim, o funcionamento dos serviços necessários à vida do C. I. C.
 
-###### Art. 13.º A secção de comando da companhia destina-se a facilitar o exercício do comando ao comandante da companhia.
+Art. 13.º A secção de comando da companhia destina-se a facilitar o exercício do comando ao comandante da companhia.
 
-###### Art. 14.º A secção de comando do C. I. C. engloba o número de sargentos e praças a distribuir pelos diversos órgãos de comando e companhia de comando e serviços conforme as necessidades do serviço.
+Art. 14.º A secção de comando do C. I. C. engloba o número de sargentos e praças a distribuir pelos diversos órgãos de comando e companhia de comando e serviços conforme as necessidades do serviço.
 
-###### Art. 15.º O pelotão de transmissões tem a seu cargo a instalação, funcionamento e manutenção das transmissões do C. I. C., bem como o apoio às companhias de instrução e de comandos em pessoal e material e o fornecimento dos elementos necessários ao bom rendimento da instrução e operacional. Experimenta e estuda os novos tipos de material que possam interessar à melhoria do rendimento operacional ou que lhe seja superiormente determinado. Para o cumprimento das suas missões, dispõe de um centro cripto, um centro de mensagens e uma secção de transmissões. Compete-lhe ainda a guarda e conservação do material de transmissões em carga ao C. I. C.
+Art. 15.º O pelotão de transmissões tem a seu cargo a instalação, funcionamento e manutenção das transmissões do C. I. C., bem como o apoio às companhias de instrução e de comandos em pessoal e material e o fornecimento dos elementos necessários ao bom rendimento da instrução e operacional. Experimenta e estuda os novos tipos de material que possam interessar à melhoria do rendimento operacional ou que lhe seja superiormente determinado. Para o cumprimento das suas missões, dispõe de um centro cripto, um centro de mensagens e uma secção de transmissões. Compete-lhe ainda a guarda e conservação do material de transmissões em carga ao C. I. C.
 
-###### Art. 16.º Ao pelotão sanitário compete:
+Art. 16.º Ao pelotão sanitário compete:
 
 a) A assistência clínica a todo o pessoal do C. I. C.;
 
@@ -256,27 +264,27 @@ e) A guarda e conservação de todo o material sanitário em carga ao C. I. C.;
 
 f) A experimentação e o estudo dos materiais sanitários que venham a interessar ao C. I. C., com vista à melhoria do rendimento operacional ou que lhe seja superiormente determinado.
 
-###### Art. 17.º Ao pelotão de manutenção, que dispõe de uma secção de manutenção e de uma secção de apoio geral, compete-lhe:
+Art. 17.º Ao pelotão de manutenção, que dispõe de uma secção de manutenção e de uma secção de apoio geral, compete-lhe:
 
 a) Efectuar as operações de manutenção de 2.º escalão de todo o material auto, de transmissões e armamento do C. I. C.;
 
 b) Montar e accionar as oficinas de carpinteiro, serralheiro e de correeiro-estofador.
 
-###### Art. 18.º À secção de transportes compete assegurar os transportes necessários ao comando, à companhia de comando e serviços e à instrução.
+Art. 18.º À secção de transportes compete assegurar os transportes necessários ao comando, à companhia de comando e serviços e à instrução.
 
-###### Art. 19.º A secção de alimentação tem a seu cargo a confecção de alimentos para todo o pessoal do C. I. C.
+Art. 19.º A secção de alimentação tem a seu cargo a confecção de alimentos para todo o pessoal do C. I. C.
 
-###### Art. 20.º A secção de reabastecimento de material tem a seu cargo as operações de reabastecimento de material e munições necessários à instrução e à actividade operacional.
+Art. 20.º A secção de reabastecimento de material tem a seu cargo as operações de reabastecimento de material e munições necessários à instrução e à actividade operacional.
 
-###### Art. 21.º Ao pelotão de serviços gerais compete a conservação, manutenção e limpeza do aquartelamento, assim como o accionamento das oficinas gerais.
+Art. 21.º Ao pelotão de serviços gerais compete a conservação, manutenção e limpeza do aquartelamento, assim como o accionamento das oficinas gerais.
 
 ### CAPÍTULO IV — Companhia de instrução
 
-###### Art. 22.º A companhia de instrução, que inclui o comandante, adjunto, secção administrativa e escolas de instrução, tem a seu cargo a execução das instruções que competem ao C. I. C. e ainda a administração do pessoal instruendo durante a frequência dos cursos. Depende técnicamente da secção de instrução, operações e informações, através da qual recebe as normas e directivas para a condução da instrução e com ela colabora no contrôle, fornecendo-lhes os dados respectivos. Procede às experiências operacionais que o C. I. C. julgue necessário ou que lhe sejam superiormente determinadas.
+Art. 22.º A companhia de instrução, que inclui o comandante, adjunto, secção administrativa e escolas de instrução, tem a seu cargo a execução das instruções que competem ao C. I. C. e ainda a administração do pessoal instruendo durante a frequência dos cursos. Depende técnicamente da secção de instrução, operações e informações, através da qual recebe as normas e directivas para a condução da instrução e com ela colabora no contrôle, fornecendo-lhes os dados respectivos. Procede às experiências operacionais que o C. I. C. julgue necessário ou que lhe sejam superiormente determinadas.
 
 ### CAPÍTULO V — Pessoal e suas atribuições
 
-###### Art. 23.º Ao comandante do Centro, além das atribuições e deveres gerais dos comandantes de unidades, na parte aplicável compete:
+Art. 23.º Ao comandante do Centro, além das atribuições e deveres gerais dos comandantes de unidades, na parte aplicável compete:
 
 a) Tomar a seu cargo a condução da actividade operacional que for superiormente determinada ao C. I. C., bem como a que as exigências experimentais e de instrução determinarem;
 
@@ -288,7 +296,7 @@ d) Convocar e presidir ao conselho de instrução e nomear os oficiais que devem
 
 e) Promover à rotação do pessoal pelas subunidades operacionais e de instrução com vista a uma constante melhoria do nível da experiência dos seus quadros.
 
-###### Art. 24.º Ao 2.º comandante, além dos deveres e atribuições gerais aplicáveis, compete:
+Art. 24.º Ao 2.º comandante, além dos deveres e atribuições gerais aplicáveis, compete:
 
 a) Presidir ao conselho administrativo do C. I. C. e assumir a chefia dos seus serviços administrativos;
 
@@ -300,11 +308,11 @@ d) Propor as medidas necessárias à melhoria de funcionamento dos serviços da 
 
 e) Exercer as funções docentes que lhe forem confiadas.
 
-###### Art. 25.º O director da instrução tem a seu cargo todos os assuntos de instrução do C. I. C., pelos quais é responsável, e, na parte que lhe diz respeito, acciona os inerentes à instrução da secção de instrução, operações e informações. É elemento permanente do conselho de instrução.
+Art. 25.º O director da instrução tem a seu cargo todos os assuntos de instrução do C. I. C., pelos quais é responsável, e, na parte que lhe diz respeito, acciona os inerentes à instrução da secção de instrução, operações e informações. É elemento permanente do conselho de instrução.
 
-###### Art. 26.º O oficial de acção psicológica tem a seu cargo a orientação de toda a acção psicológica a desenvolver no C. I. C., de acordo com as directivas do Quartel-General da Região Militar de Angola e com a doutrina difundida pelo, Estado-Maior do Exército.
+Art. 26.º O oficial de acção psicológica tem a seu cargo a orientação de toda a acção psicológica a desenvolver no C. I. C., de acordo com as directivas do Quartel-General da Região Militar de Angola e com a doutrina difundida pelo, Estado-Maior do Exército.
 
-###### Art. 27.º Ao oficial de operações compete:
+Art. 27.º Ao oficial de operações compete:
 
 a) Dirigir a secção de instrução, operações e informações e manter em dia os registos respectivos, recolhendo os elementos indispensáveis à instrução;
 
@@ -318,9 +326,9 @@ e) Manter o comando informado sobre o desenvolvimento da actividade de instruç�
 
 f) Organizar e esquematizar a recolha de todos os elementos experimentais colhidos, bem como dos estudos que lhe forem cometidos.
 
-###### Art. 28.º O oficial de informações que desempenha as funções de adjunto da secção de instrução, operações e informações auxilia o chefe da secção em todos os assuntos que se relacionem com a sua actividade, tomando especialmente a seu cargo o funcionamento da sala de operações e em particular no que respeita ao registo e arquivo dos elementos de informação.
+Art. 28.º O oficial de informações que desempenha as funções de adjunto da secção de instrução, operações e informações auxilia o chefe da secção em todos os assuntos que se relacionem com a sua actividade, tomando especialmente a seu cargo o funcionamento da sala de operações e em particular no que respeita ao registo e arquivo dos elementos de informação.
 
-###### Art. 29.º O oficial de transmissões tem a seu cargo:
+Art. 29.º O oficial de transmissões tem a seu cargo:
 
 a) A responsabilidade de montagem e exploração das redes de rádio e telefónicas do C. I. C., quer em operações, quer em instrução;
 
@@ -330,7 +338,7 @@ c) A experimentação e estudo dos materiais de transmissões e forma do seu emp
 
 d) Exercer as funções de oficial chefe do centro cripto e oficial custódio da unidade.
 
-###### Art. 30.º Ao oficial de justiça compete:
+Art. 30.º Ao oficial de justiça compete:
 
 a) A instrução de quaisquer processos por ordem ou delegação do comandante, excluindo a elaboração de processos administrativos que não tenham afinidades com o serviço de justiça;
 
@@ -340,7 +348,7 @@ c) Inspeccionar por ordem do respectivo comandante as prisões da unidade e as d
 
 d) Propor ao comandante todas as medidas julgadas convenientes para a melhor administração da justiça na unidade.
 
-###### Art. 31.º Ao oficial médico compete:
+Art. 31.º Ao oficial médico compete:
 
 a) Desempenhar o serviço das suas especialidades segundo a legislação vigente;
 
@@ -348,27 +356,27 @@ b) Proceder no começo e final das instruções aos exames médicos e mensuraç�
 
 c) Ministrar a instrução de higiene e técnica de primeiros socorros ao pessoal instruendo.
 
-###### Art. 32.º Ao oficial capelão compete:
+Art. 32.º Ao oficial capelão compete:
 
 a) Colaborar na formação moral do pessoal do C. I. C.;
 
 b) Prestar assistência religiosa a todo o pessoal da unidade.
 
-###### Art. 33.º Ao oficial mecânico compete:
+Art. 33.º Ao oficial mecânico compete:
 
 a) Orientar e fiscalizar os serviços de manutenção a seu cargo;
 
 b) Orientar e fiscalizar as oficinas de carpinteiro, serralheiro e de seleiro-correeiro.
 
-###### Art. 34.º O chefe da secretaria tem as atribuições expressas na legislação vigente.
+Art. 34.º O chefe da secretaria tem as atribuições expressas na legislação vigente.
 
-###### Art. 35.º O chefe da secção de mobilização tem a seu cargo a coordenação de todos os assuntos de recrutamento e mobilização da respectiva secção. Dirige a escrituração dos registos de matrícula e de alterações de todo o pessoal do Centro.
+Art. 35.º O chefe da secção de mobilização tem a seu cargo a coordenação de todos os assuntos de recrutamento e mobilização da respectiva secção. Dirige a escrituração dos registos de matrícula e de alterações de todo o pessoal do Centro.
 
-###### Art. 36.º O presidente do conselho administrativo, o chefe da contabilidade e o tesoureiro têm as atribuições expressas no [Decreto n.º 35413](https://diariodarepublica.pt/dr/detalhe/decreto/35413-1945-462604), de 29 de Dezembro de 1945.
+Art. 36.º O presidente do conselho administrativo, o chefe da contabilidade e o tesoureiro têm as atribuições expressas no [Decreto n.º 35413](https://diariodarepublica.pt/dr/detalhe/decreto/35413-1945-462604), de 29 de Dezembro de 1945.
 
 § único. O oficial encarregado do material de guerra tem a seu cargo, por delegação do chefe da contabilidade, a escrituração, movimento e conservação de todos os materiais em carga à unidade, com excepção dos que especìficamente já estão atribuídos ao tesoureiro.
 
-###### Art. 37.º O comandante da companhia de comando e serviços tem, na parte aplicável, os deveres e atribuições dos comandantes de companhia, competindo-lhe:
+Art. 37.º O comandante da companhia de comando e serviços tem, na parte aplicável, os deveres e atribuições dos comandantes de companhia, competindo-lhe:
 
 a) Tomar a seu cargo a direcção e coordenação de todos os serviços referentes a material, transportes, alimentação e limpeza do aquartelamento;
 

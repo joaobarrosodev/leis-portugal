@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/12/2012/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2012-544382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c490435716bcb2dc855b76b1d2b29b1f2f0eecb94e049a72ff2ad6cd2aa12014
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5fbed14ba800c96bd52851be1874ae4d341ccdacb98fb8fcc17b48504da5bdec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Gabinete Governamental
-- Primeiro-ministro
 - Orgânica
 - Pessoal de Gabinete
+- Primeiro-ministro
 - Regime Jurídico
 - Remuneração
 relationships:
@@ -76,20 +76,54 @@ relationships:
   target: pt:dre:106549661:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74126124:por
+  label: Determinada a prorrogação, durante o ano de 2016, como medida excecional de estabilidade orçamental e para cumprimento
+    das obrigações internacionais e europeias, dos efeitos temporários das normas e medidas, cuja vigência esteja condicionada
+    à manutenção do procedimento por défice excessivo ou do Programa de Assistência Económica e Financeira (PAEF), presentes
+    nos arts. 10.º 11.º do presente diploma, pelo(a) Decreto-Lei n.º 18/2016 - Diário da República n.º 72/2016, Série I de
+    2016-04-13, nos termos do disposto no seu art. 101.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2016-74126124
+  date: '2016-04-13'
+- type: amended_by
+  target: pt:dre:106549661:por
+  label: Determinada a prorrogação, durante o ano de 2017, como medida excecional de estabilidade orçamental e para cumprimento
+    das obrigações internacionais e europeias, dos efeitos temporários das normas e medidas, cuja vigência esteja condicionada
+    à manutenção do procedimento por défice excessivo ou do Programa de Assistência Económica e Financeira (PAEF), presentes
+    nos arts. 10.º e 11.º deste diploma pelo(a) Decreto-Lei n.º 25/2017 - Diário da República n.º 45/2017, Série I de 2017-03-03,
+    nos termos do disposto no seu art. 134.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2017-106549661
+  date: '2017-03-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/2012/01/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/11/2012/01/20/p/dre
+- type: cites
+  target: pt:dre:282875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600525:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:38Z'
   warnings: []
   errors: []
 ---
@@ -234,16 +268,16 @@ O presente decreto-lei entra em vigor na data de entrada em vigor do [Decreto-Le
 
 Visto e aprovado em Conselho de Ministros de 9 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.
 
-**Promulgado em 3 de Janeiro de 2012.**
+Promulgado em 3 de Janeiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de Janeiro de 2012.**
+Referendado em 5 de Janeiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — Quadro a que se refere o n.º 4 do artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/01/01500/0034100343.pdf))](https://files.diariodarepublica.pt/1s/2012/01/01500/0034100343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/01/01500/0034100343.pdf)

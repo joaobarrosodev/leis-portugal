@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1989-619526
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61311acbcfb59d5dc206195348ad76a6ac184a0b3f69fbb4f7eb796c00d17f54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f23dc8df74775bdc8c012456889617940d6ab3eb644e42ff37dffdb95e183e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Segurança no Trabalho
+- Trabalho Nocturno
+- Veículo de Aluguer
+relationships:
+- type: cites
+  target: pt:dre:378351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468608:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:50Z'
   warnings: []
   errors: []
 ---
@@ -97,17 +108,17 @@ Assim:
 
 Ao abrigo do disposto na base XI da [Lei n.º 2008](https://diariodarepublica.pt/dr/detalhe/lei/2008-1945-468608), de 7 de Setembro de 1945, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Nos automóveis ligeiros de passageiros de aluguer, explorados nas áreas de Lisboa e Porto, é obrigatória a instalação de um aparelho rádio, ligado a uma estação de rádio fixa, a qual tem acesso às forças da segurança pública.
+Artigo 1.º Nos automóveis ligeiros de passageiros de aluguer, explorados nas áreas de Lisboa e Porto, é obrigatória a instalação de um aparelho rádio, ligado a uma estação de rádio fixa, a qual tem acesso às forças da segurança pública.
 
-###### Art. 2.º Entre as 22 horas de um dia e as 6 horas do dia seguinte, os condutores dos veículos referidos no artigo anterior podem, antes de iniciar um serviço, solicitar a identificação do utente, mediante a apresentação do respectivo bilhete de identidade, passaporte ou outro documento de identificação considerado idóneo, bem como o local de destino, a fim de o comunicar à respectiva estação fixa.
+Art. 2.º Entre as 22 horas de um dia e as 6 horas do dia seguinte, os condutores dos veículos referidos no artigo anterior podem, antes de iniciar um serviço, solicitar a identificação do utente, mediante a apresentação do respectivo bilhete de identidade, passaporte ou outro documento de identificação considerado idóneo, bem como o local de destino, a fim de o comunicar à respectiva estação fixa.
 
-###### Art. 3.º A recusa ou impossibilidade, por parte do utente, de fornecer os elementos essenciais à identificação referida no artigo anterior é motivo para o condutor recusar a realização do serviço solicitado.
+Art. 3.º A recusa ou impossibilidade, por parte do utente, de fornecer os elementos essenciais à identificação referida no artigo anterior é motivo para o condutor recusar a realização do serviço solicitado.
 
-###### Art. 4.º A estação deve possuir um registo permanente onde sejam anotados todos os elementos respeitantes às comunicações efectuadas, com a menção das horas e dos veículos emissores.
+Art. 4.º A estação deve possuir um registo permanente onde sejam anotados todos os elementos respeitantes às comunicações efectuadas, com a menção das horas e dos veículos emissores.
 
-###### Art. 5.º É revogado o [Decreto n.º 124/82](https://diariodarepublica.pt/dr/detalhe/decreto/124-1982-378351), de 2 de Novembro.
+Art. 5.º É revogado o [Decreto n.º 124/82](https://diariodarepublica.pt/dr/detalhe/decreto/124-1982-378351), de 2 de Novembro.
 
-###### Art. 6.º - 1 - O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 6.º - 1 - O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 2 - Até 31 de Dezembro de 1989, os veículos já licenciados devem estar equipados com o dispositivo referido no artigo 1.º
 
@@ -115,12 +126,12 @@ Presidência do Conselho de Ministros, 2 de Maio de 1989.
 
 Aníbal António Cavaco Silva - José António da Silveira Godinho - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 16 de Junho de 1989.**
+Promulgado em 16 de Junho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Junho de 1989.**
+Referendado em 20 de Junho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

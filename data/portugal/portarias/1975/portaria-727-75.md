@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/727-1975-311407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:53:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ec57bbda393c8e8074c9ff7f9012c7b27eacc1c48cbb0f98042145b818dca91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1248bf91817c2f5f20e48755041b6b481c92f7683b4175394b6e1a77aecef14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:53:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ajuda à Modernização
+- Ensino Oficial
+- Ensino Particular
+- Ensino Superior
+- Imprensa Nacional-Casa da Moeda
+- Impresso
+- Matrícula
+relationships:
+- type: cites
+  target: pt:dre:337003:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:53:53Z'
   warnings: []
   errors: []
 ---
@@ -102,6 +113,6 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação e Investig
 
 Ministério da Educação e Investigação Científica, 15 de Novembro de 1975. - O Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/28200/19671972.pdf))](https://files.diariodarepublica.pt/1s/1975/12/28200/19671972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/28200/19671972.pdf)
 
-**O Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves.**
+O Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves.

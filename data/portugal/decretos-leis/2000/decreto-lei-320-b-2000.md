@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 288/2000, 2º Suplemento, Série I-A de 2000-12-15
   number: '288'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7342-(14) a 7342-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/288a02/00140017.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/320-b/2000/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-b-2000-393230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2ce13a5502979b8f13e2e160e79190119791184ceb813a868c5b7270c5b8338
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7de8a518314666e55d3374bab43cecd48e83db1c0addaddeac4f9a931361f875
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código das Custas Judiciais
-- Multa
-- Imposto de Justiça
-- Tesouraria
-- Taxa
 - Custas Judiciais
+- Imposto de Justiça
+- Multa
+- Taxa
+- Tesouraria
 - Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:247448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:540216:por
+  label: "Alteradas as tabelas a que se referem os arts. 13º, 23º, 25º e 27º do Código das Custas Judiciais, aprovado pelo\
+    \ Dec Lei 224-A/96 de 26-Nov, com a redacção do presente diploma, pelo DEC LEI.323/2001.2001.12.17.MJ DR.IS-A [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-2001-540216
+  date: '2001-12-17'
+- type: amended_by
+  target: pt:dre:220944:por
+  label: "Alterados, a partir de 15 de Setembro de 2003, os arts. 32.º e 33.º do Código das Custas Judiciais, aprovado pelo\
+    \ Dec Lei 224-A/96, de 26-Nov ambos na redacção do presente diploma, pelo DEC LEI.38/2003.2003.03.08.MJ DR.IS-A [57]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2003-220944
+  date: '2003-03-08'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterados os arts. 124º e 142º do Código das Custas Judiciais, aprovado pelo Dec Lei 224-A/96 de 26-Nov, republicado\
+    \ pelo Dec Lei 324/2003 de 27-Dez, e na redacção do presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl]\
+    \ de 29.12.2006\0006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/146/2000/07/18/p/dre
   label: null
@@ -86,16 +106,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/183/2000/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/183/2000/08/10/p/dre
+- type: cites
+  target: pt:dre:320560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339847:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:480519:por
+  label: "Revogado o nº 2 do art. 91º do Código das Custas Judiciais, aprovado pelo Dec Lei 224-A/96 de 26-Nov, na redacção\
+    \ do presente diploma e mantida esta disposição transitoriamente em vigor até à publicação da legislação prevista no art\
+    \ 8º da LEI.45/2004.19.08.2004.AR, DR.IS-A [195] de 19.08.2004, pelo mesmo diploma legal\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/45-2004-480519
+  date: '2004-08-19'
+- type: repealed_by
+  target: pt:dre:247448:por
+  label: "Revogado, a partir de 20.04.2009, o Código das Custas Judiciais, aprovado pelo Dec Lei 224-A/96, de 26-Nov, alterado\
+    \ pelo presente diploma, pelo DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
 article_structure:
-  article_count: 25
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:33Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +183,9 @@ Os artigos 23.º, 24.º, 25.º, 26.º, 27.º, 28.º, 32.º, 33.º, 34.º, 42.º,
 
 Para promoção de acções, incidentes e recursos é devido o pagamento da taxa de justiça inicial autoliquidada nos termos da tabela em anexo.
 
-###### Artigo 24.º — Pagamento prévio da taxa de justiça inicial
+Artigo 24.º
+
+Pagamento prévio da taxa de justiça inicial
 
 1 - O documento comprovativo do pagamento da taxa de justiça referida no artigo anterior é entregue ou remetido ao tribunal com a apresentação:
 
@@ -160,11 +203,15 @@ d) Da reclamação do despacho de não admissão ou retenção do recurso.
 
 4 - Se o interessado não tiver utilizado o documento referido no número anterior, deve requerer ao Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça o reembolso da quantia despendida, dentro do prazo de seis meses a contar da data da respectiva emissão, sob pena de esse montante reverter para o Cofre Geral dos Tribunais.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 O montante da taxa de justiça subsequente é igual ao da taxa de justiça inicial, sendo autoliquidada nos termos da tabela em anexo.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - O documento comprovativo do pagamento da taxa de justiça subsequente referida no artigo anterior é entregue ou remetido ao tribunal no prazo de 10 dias a contar:
 
@@ -174,15 +221,21 @@ b) Nos recursos, da notificação do despacho que mande inscrever o processo em 
 
 2 - É aplicável à taxa de justiça subsequente o disposto nos n.os 3 e 4 do artigo 24.º
 
-###### Artigo 27.º — Limite da taxa de justiça inicial e subsequente
+Artigo 27.º
+
+Limite da taxa de justiça inicial e subsequente
 
 Nas causas de valor superior a 40 milhões de escudos não é considerado o excesso para efeito do cálculo da taxa de justiça inicial e subsequente.
 
-###### Artigo 28.º — Omissão do pagamento das taxas de justiça inicial e subsequente
+Artigo 28.º
+
+Omissão do pagamento das taxas de justiça inicial e subsequente
 
 Sem prejuízo do disposto na lei de processo relativamente à petição inicial, na falta de junção do documento comprovativo do pagamento das taxas de justiça inicial e subsequente no prazo de 10 dias a contar da prática dos actos processuais previstos no artigo 24.º, dos incidentes ou das notificações referidas no artigo 26.º, a secretaria notificará o interessado para, em 5 dias, efectuar o pagamento omitido, com acréscimo de taxa de justiça de igual montante, mas não inferior a 1 UC nem superior a 5 UC.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -204,7 +257,9 @@ h) O reembolso ao Estado do dispêndio com o apoio judiciário.
 
 2 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
@@ -214,7 +269,9 @@ h) O reembolso ao Estado do dispêndio com o apoio judiciário.
 
 4 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -232,7 +289,9 @@ e) ...
 
 3 - Os montantes estabelecidos nas alíneas a) e b) do n.º 1 podem ser actualizados por tabela a aprovar por portaria do Ministro da Justiça.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -248,7 +307,9 @@ d) 3% para os Serviços Sociais do Ministério da Justiça.
 
 3 - ...
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -256,7 +317,9 @@ d) 3% para os Serviços Sociais do Ministério da Justiça.
 
 3 - ...
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - ...
 
@@ -266,7 +329,9 @@ d) 3% para os Serviços Sociais do Ministério da Justiça.
 
 4 - (Anterior n.º 5.)
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - A conta deve conter os elementos indispensáveis à realização dos pagamentos, os quais ficam documentados no processo.
 
@@ -286,13 +351,17 @@ e) ...
 
 4 - A restituição prevista no n.º 1 do artigo 31.º fica documentada no processo.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - Não se considera a importância de custas em dívida inferior a metade de 1 UC, procedendo-se a rateio, se necessário.
 
 2 - Reverte para o Cofre Geral dos Tribunais o excesso apurado, resultante de depósito na conta do Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça, se for inferior a metade de 1 UC.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - ...
 
@@ -304,7 +373,9 @@ e) ...
 
 5 - (Anterior n.º 6.)
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - ...
 
@@ -320,7 +391,9 @@ c) 30 dias se residir no estrangeiro.
 
 4 - ...
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 Os pagamentos são realizados pela seguinte ordem de preferência:
 
@@ -328,7 +401,9 @@ a) [Anterior alínea b).]
 
 b) [Anterior alínea c).]
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - ...
 
@@ -360,11 +435,15 @@ b) ...
 
 8 - A remuneração dos peritos estabelecida nos números anteriores pode ser actualizada por portaria do Ministro da Justiça.
 
-###### Artigo 121.º — [...]
+Artigo 121.º
+
+[...]
 
 Sem prejuízo de registo contabilístico autónomo, as custas prováveis são objecto de depósito na conta única do Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça, podendo sê-lo juntamente com a quantia exequenda.
 
-###### Artigo 124.º — [...]
+Artigo 124.º
+
+[...]
 
 1 - O prévio pagamento da taxa de justiça inicial e o pagamento da taxa de justiça subsequente são efectuados directamente na Caixa Geral de Depósitos ou através de sistema electrónico, a favor do Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça.
 
@@ -374,13 +453,17 @@ Sem prejuízo de registo contabilístico autónomo, as custas prováveis são ob
 
 4 - O produto de execuções, as rendas, as cauções e outras quantias estranhas aos encargos judiciais são objecto de depósito autónomo na Caixa Geral de Depósitos à ordem do juiz do processo.
 
-###### Artigo 142.º — [...]
+Artigo 142.º
+
+[...]
 
 1 - ...
 
 2 - Decorrido o prazo de validade dos cheques sem que tenham sido apresentados a pagamento, a Caixa Geral de Depósitos informará o Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça no prazo de 10 dias.
 
-###### Artigo 144.º — [...]
+Artigo 144.º
+
+[...]
 
 1 - O secretário deve elaborar mensalmente balanço destinado a apurar se a soma do saldo da conta corrente com as dotações orçamentais, com o valor dos cheques emitidos e ainda não pagos, corresponde à soma do valor do depósito na conta com a Caixa Geral de Depósitos com a importância em numerário do fundo permanente.
 
@@ -408,13 +491,13 @@ Sem prejuízo de registo contabilístico autónomo, as custas prováveis são ob
 
 Visto e aprovado em Conselho de Ministros de 23 de Novembro de 2000. - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Alberto de Sousa Martins.
 
-**Promulgado em 5 de Dezembro de 2000.**
+Promulgado em 5 de Dezembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.Referendado em 14 de Dezembro de 2000.**
+O Presidente da República, JORGE SAMPAIO.Referendado em 14 de Dezembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Tabela a que se referem os artigos 23.º e 25.º do Código das Custas Judiciais
 

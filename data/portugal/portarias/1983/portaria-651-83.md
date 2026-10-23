@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/651-1983-451978
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T07:45:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4df7454d850c3ce389519a11d9f71a73b41ffb496e0b2ceb2495c88ced948d34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 958a39a6a4d264917cf2be3d261711b8feb64fce26e1b2dc1a71fdc5eb924038
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:45:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Controlo de Qualidade
+- Norma Portuguesa
+- Normalização
 relationships:
 - type: amended_by
   target: pt:dre:455909:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:455909:por
+  label: "Anulada pela PORT.858/83.26.08.1983.MIE, DR.IS [196] de 26.08.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/858-1983-455909
+  date: '1983-08-26'
+- type: cites
+  target: pt:dre:272027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564839:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:45:31Z'
   warnings: []
   errors: []
 ---
@@ -94,6 +110,6 @@ NP-2151 (1983) - Ovinos e caprinos abatidos para consumo directo. Corte da carca
 
 Secretaria de Estado da Energia.
 
-**Assinada em 20 de Maio de 1983.**
+Assinada em 20 de Maio de 1983.
 
-**O Secretário de Estado da Energia, João Nuno Boulain de Carvalho Carreira.**
+O Secretário de Estado da Energia, João Nuno Boulain de Carvalho Carreira.

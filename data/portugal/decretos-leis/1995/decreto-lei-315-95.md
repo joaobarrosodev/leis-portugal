@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/275a00/73667375.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/315/1995/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1995-626594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2edce39b75b957148c97fc0331912243a0450403f2dee412150baf05cd8743f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0998b49ddb4f161009fc0ad5bbab789c2e936e520745014f4fefefcd357dbbd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Actividade Artística
 - Alvará
+- Autarquia Local
 - Bailado
-- Espetáculos e Divertimentos Públicos
-- Multa
+- Bombeiro
+- Câmara Municipal
+- Cinema
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral de Espectáculos
-- Local de Divertimento
 - Equipamento
-- Segurança Pública
-- Produção Cinematográfica
+- Espetáculos e Divertimentos Públicos
 - Fiscalização
+- Fonograma
+- Indústria Cinematográfica
+- Licença Municipal
 - Licenciamento
 - Licenciamento de Obras
-- Licença Municipal
-- Bombeiro
 - Literatura
+- Local de Divertimento
+- Multa
 - Música
 - Orgânica
-- Tauromaquia
-- Câmara Municipal
+- Produção Cinematográfica
 - Regime Jurídico
-- Cinema
-- Indústria Cinematográfica
-- Actividade Artística
 - Segurança dos Edifícios
+- Segurança Pública
+- Tauromaquia
 - Teatro
 - Transferência de Competências
-- Fonograma
-- Autarquia Local
 - Videograma
 - Vistoria
 relationships:
@@ -123,16 +123,108 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
+- type: cites
+  target: pt:dre:177825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673990:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:423047:por
+  label: "Rectificado pela DECL-RECT.1-B/96.31.01.1996.PCM, DR.IS-A [26]Supl de 31.01.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/1-b-1996-423047
+  date: '1996-01-31'
+- type: repealed_by
+  target: pt:dre:405759:por
+  label: "Revogados os arts. 20.º a 23.º bem como, a parte relativa aos recintos de espectáculos e de divertimentos públicos\
+    \ previstos no Dec Lei 309/2002, de 16-Dez, os arts. 1.º, 2.º, 3.º, 35.º, 37.º e 43.º a 46.º, todos do citado diploma,\
+    \ pelo DEC LEI.309/2002.2002.12.16.MCOTA DR.IS-A [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/309-2002-405759
+  date: '2002-12-16'
+- type: repealed_by
+  target: pt:dre:572446:por
+  label: "Revogado o presente diploma a partir de 15.04.2014, retificado pela Decl Rect 1-B/96, de 31-jan, na redação do Dec\
+    \ Lei 309/2002, de 16-dez, pelo DEC LEI.23/2014.14.02.2014.PCM, DR.IS [32] de 14.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2014-572446
+  date: '2014-02-14'
+- type: repealed_by
+  target: pt:dre:122960393:por
+  label: Revogado, a partir de 10.07.2019, o Dec Lei 39/88 de 06-fev, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2019-122960393
+  date: '2019-07-05'
 article_structure:
-  article_count: 54
+  article_count: 53
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:10Z'
   warnings: []
   errors: []
 ---
@@ -651,11 +743,11 @@ Para efeitos do presente diploma, não são considerados espectáculos e diverti
 
 ...
 
-###### Art. 3.º A faculdade a que se refere o presente diploma depende de licença concedida pelo governador civil, que previamente apreciará a conveniência ou inconveniência da localização proposta e as condições de funcionamento do próprio estabelecimento e fixará a regulamentação comum que se torne necessária para defesa dos interesses do público.
+Art. 3.º A faculdade a que se refere o presente diploma depende de licença concedida pelo governador civil, que previamente apreciará a conveniência ou inconveniência da localização proposta e as condições de funcionamento do próprio estabelecimento e fixará a regulamentação comum que se torne necessária para defesa dos interesses do público.
 
 2 - O artigo 7.º do [Decreto-Lei n.º 517/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/517-1980-457674), de 31 de Outubro, passa a ter a seguinte redacção:
 
-###### Art. 7.º - 1 - ...
+Art. 7.º - 1 - ...
 
 2 - ...
 
@@ -679,17 +771,17 @@ Para efeitos do presente diploma, não são considerados espectáculos e diverti
 
 3 - O artigo 2.º do [Decreto-Lei n.º 39/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1988-283086), de 6 de Fevereiro, passa a ter a seguinte redacção:
 
-###### Art. 2.º O exercício da actividade das empresas importadoras e distribuidoras de filmes e videogramas e, bem assim, da edição, reprodução, distribuição, venda, aluguer ou troca de videogramas fica sujeito à superintendência da Direcção-Geral dos Espectáculos (DGESP), aplicando-se o disposto no n.º 1 do artigo 21.º do Decreto-Lei n.º 315/95.
+Art. 2.º O exercício da actividade das empresas importadoras e distribuidoras de filmes e videogramas e, bem assim, da edição, reprodução, distribuição, venda, aluguer ou troca de videogramas fica sujeito à superintendência da Direcção-Geral dos Espectáculos (DGESP), aplicando-se o disposto no n.º 1 do artigo 21.º do Decreto-Lei n.º 315/95.
 
 4 - O artigo 1.º do [Decreto-Lei n.º 227/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1989-619682), de 8 de Julho, passa a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - O exercício das actividades de importação, fabrico, produção, edição, distribuição e exportação de fonogramas, bem como da impressão das respectivas capas, fica sujeito à fiscalização da Direcção-Geral dos Espectáculos (DGESP), aplicando-se-lhe o disposto no n.º 1 do artigo 21.º do Decreto-Lei n.º 315/95.
+Artigo 1.º - 1 - O exercício das actividades de importação, fabrico, produção, edição, distribuição e exportação de fonogramas, bem como da impressão das respectivas capas, fica sujeito à fiscalização da Direcção-Geral dos Espectáculos (DGESP), aplicando-se-lhe o disposto no n.º 1 do artigo 21.º do Decreto-Lei n.º 315/95.
 
 2 - ...
 
 5 - Os artigos 2.º e 16.º do [Decreto-Lei n.º 106-B/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-b-1992-410283), de 1 de Junho, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 6/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1994-531396), de 12 de Janeiro, passam a ter a seguinte redacção:
 
-###### Art. 2.º São atribuições da DGESP:
+Art. 2.º São atribuições da DGESP:
 
 a) ...
 
@@ -713,7 +805,7 @@ j) Estudar e propor medidas necessárias à actualização do ordenamento juríd
 
 l) Assegurar o intercâmbio de informações, no domínio da sua competência, com instituições internacionais e com o Gabinete de Relações Culturais Internacionais.
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 À Divisão de Recintos e Espectáculos (DRE) compete, em especial:
 
@@ -779,12 +871,12 @@ O presente diploma, com excepção do disposto nos seus artigos 2.º e 50.º, en
 
 Visto e aprovado em Conselho de Ministros de 23 de Junho de 1995. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Luís Francisco Valente de Oliveira - José Manuel Cardoso Borges Soeiro - Luís Filipe Conceição Pereira - Maria Manuela Dias Ferreira Leite - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira - Joaquim Manuel Veloso Poças Martins.
 
-**Promulgado em 13 de Outubro de 1995.**
+Promulgado em 13 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Outubro de 1995.**
+Referendado em 16 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

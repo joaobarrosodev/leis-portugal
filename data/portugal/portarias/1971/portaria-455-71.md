@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/455-1971-629992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67eb63ee94d04a8b1e8cf2199dc66c385c95596b609410c57ebac53dedc66685
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b08a7ad41023fa7561283302c31143e398eae6bff6905a6b3369d12f48669491
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:693236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693241:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:25Z'
   warnings: []
   errors: []
 ---
@@ -101,4 +109,4 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Orçamen
 
 Em virtude do aumento do quadro resultante desta portaria, considera-se reduzido o quadro da 1.ª Repartição da referida Direcção-Geral de um auxiliar de desenho e um escriturário-dactilógrafo de 2.ª classe.
 
-**O Secretário de Estado do Orçamento, Augusto Victor Coelho.**
+O Secretário de Estado do Orçamento, Augusto Victor Coelho.

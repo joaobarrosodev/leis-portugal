@@ -48,40 +48,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/969-1980-458390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37a49ad2faf95ffde65cf759c908b6beead952baa98aeaeeedcc09e9dcb22221
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a752766adbc62f51d2f1ac59dc535bbe1656947711f64340899246dafe063ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Crédito à Habitação
+- Habitação
 relationships:
 - type: amended_by
   target: pt:dre:391259:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:391193:por
+  label: "Alterados os valores fixados no quadro I pela PORT.198/81.21.02.1981.MFP, DR.IS [44] de 21.02.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/198-1981-391193
+  date: '1981-02-21'
+- type: amended_by
+  target: pt:dre:391259:por
+  label: "Alterados os valores fixados no quadro I (classe de fogos) pela PORT.208/81.24.02.1981.MFP, DR.IS [46] de 24.02.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/208-1981-391259
+  date: '1981-02-24'
+- type: cites
+  target: pt:dre:461593:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:26Z'
   warnings: []
   errors: []
 ---
@@ -134,16 +152,16 @@ QUADRO I
 
 Classes de fogos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/26200/38433844.pdf))](https://files.diariodarepublica.pt/1s/1980/11/26200/38433844.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26200/38433844.pdf)
 
 QUADRO II
 
 Incentivos financeiros à habitação própria permanente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/26200/38433844.pdf))](https://files.diariodarepublica.pt/1s/1980/11/26200/38433844.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26200/38433844.pdf)
 
 QUADRO III
 
 Subsídio familiar para acesso à habitação própria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/26200/38433844.pdf))](https://files.diariodarepublica.pt/1s/1980/11/26200/38433844.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26200/38433844.pdf)

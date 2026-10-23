@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/318/2007/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d305cc515e912ce48db5524368fe466a58fc577043dc72f981e479c1cebe265a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 815111858b534f3027542bed1862b71ce7aab69f4f815cbb6ffb15da75841e4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,18 +71,55 @@ subjects:
 - Código da Propriedade Industrial
 - Código das Sociedades Comerciais
 - Código do Registo Comercial
-- Serviços de Registo e Notariado
 - Constituição de Sociedade
 - Criação de Empresas
 - Empresa na HORA
+- Internet
 - Marca Registada
 - Página na Internet
-- Internet
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:118950630:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:454571:por
+  label: "Alterados os art.s 10º e 237º do Código da Propriedade Industrial, aprovado pelo Dec Lei 36/2003, de 05-Mar, na\
+    \ redacção do presente diploma, pelo DEC LEI.143/2008.25.07.2008.MJ, DR.IS [143] de 25.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-2008-454571
+  date: '2008-07-25'
+- type: amended_by
+  target: pt:dre:487360:por
+  label: "Alterados os art.s 12º, 13º e 14º do Dec Lei 111/2005, de 08-Jul, na redacção do presente diploma, pelo DEC LEI.247-B/2008.30.12.2008.MJ,\
+    \ DR.IS [251-Supl] de 30.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-b-2008-487360
+  date: '2008-12-30'
+- type: amended_by
+  target: pt:dre:279421:por
+  label: "Alterado, a partir de 06.04.2011, o art. 6º do Dec Lei 125/2006, de 29-Jun, na redacção do presente diploma, pelo\
+    \ DEC LEI.33/2011.07.03.2011.PCM, DR.IS [46] de 07.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2011-279421
+  date: '2011-03-07'
+- type: amended_by
+  target: pt:dre:176071:por
+  label: "Alterado o art. 12º do Dec Lei 125/2006, de 29-jun, na redação do presente diploma, pelo DEC LEI.209/2012.19.09.2012.MJ,\
+    \ DR.IS [182] de 19.09.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2012-176071
+  date: '2012-09-19'
+- type: amended_by
+  target: pt:dre:191168:por
+  label: "Alterados a partir de 03.12.2012 os arts. 5.º e 15.º do regime jurídico dos procedimentos administrativos de dissolução\
+    \ e de liquidação de entidades comerciais, aprovado em anexo ao Dec Lei 76-A/2006, de 29-mar, na redação do presente diploma,\
+    \ pelo DEC LEI.250/2012.23.11.2012.MJ, DR.IS [227] de 23.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-2012-191168
+  date: '2012-11-23'
+- type: amended_by
+  target: pt:dre:118950630:por
+  label: Alterado, a partir de 01.07.2019, o art. 42.º do Código do Registo Comercial aprovado pelo Dec Lei 403/86, de 03-dez,
+    na redação do presente diploma, pelo(a) Decreto-Lei n.º 24/2019 - Diário da República n.º 23/2019, Série I de 2019-02-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2019-118950630
+  date: '2019-02-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/d
   label: null
@@ -123,16 +160,144 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/76-a/2006/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/76-a/2006/03/29/p/dre
+- type: cites
+  target: pt:dre:152365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667337:por
+  label: null
+  source: null
 article_structure:
-  article_count: 40
+  article_count: 21
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:01Z'
   warnings: []
   errors: []
 ---
@@ -285,25 +450,35 @@ c) Por advogado ou solicitador constituído.
 
 5 - ...
 
-###### Artigo 23.º — Modificação da decisão
+Artigo 23.º
+
+Modificação da decisão
 
 1 - Se no prazo de dois meses após a publicação de um despacho se reconhecer que este deve ser modificado, o processo é submetido a despacho superior, com informação dos factos de que tenha havido conhecimento e que aconselhem a revogação da decisão proferida.
 
 2 - ...
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 O recurso deve ser interposto no prazo de dois meses a contar da publicação no Boletim da Propriedade Industrial das decisões previstas no artigo 39.º ou da decisão final proferida ao abrigo do artigo 23.º, ou da data das respectivas certidões, pedidas pelo recorrente, quando forem anteriores.
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 Do despacho definitivo é imediatamente efectuada notificação, nos termos do n.º 1 do artigo 16.º, com indicação do Boletim da Propriedade Industrial em que o respectivo aviso foi publicado.
 
-###### Artigo 198.º — [...]
+Artigo 198.º
+
+[...]
 
 Do despacho definitivo é imediatamente efectuada notificação, nos termos do n.º 1 do artigo 16.º, com indicação do Boletim da Propriedade Industrial em que o respectivo aviso foi publicado.
 
-###### Artigo 237.º — [...]
+Artigo 237.º
+
+[...]
 
 1 - ...
 
@@ -327,7 +502,9 @@ Do despacho definitivo é imediatamente efectuada notificação, nos termos do n
 
 11 - Do despacho definitivo é imediatamente efectuada notificação, nos termos do n.º 1 do artigo 16.º, com indicação do Boletim da Propriedade Industrial em que o respectivo aviso foi publicado.
 
-###### Artigo 355.º — [...]
+Artigo 355.º
+
+[...]
 
 O Boletim da Propriedade Industrial é publicado pelo Instituto Nacional da Propriedade Industrial.»
 
@@ -349,7 +526,9 @@ c) Caso tenha havido aquisição de marca registada, documento comprovativo dess
 
 2 - Nos casos previstos na alínea c) do número anterior, é dispensado o documento escrito e assinado pelas partes, previsto no n.º 6 do artigo 31.º do Código da Propriedade Industrial, e não há lugar à emissão do título de concessão previsto no artigo 27.º do mesmo diploma.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Após a conclusão do procedimento de constituição da sociedade, o serviço competente, no prazo de vinte e quatro horas:
 
@@ -367,7 +546,9 @@ e) [Anterior alínea d).]
 
 3 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Pelo procedimento de constituição de sociedade regulado no presente diploma são devidos encargos relativos:
 
@@ -405,7 +586,9 @@ Os artigos 1.º, 6.º, 12.º, 13.º e 14.º do [Decreto-Lei n.º 125/2006](https
 
 É criado um regime especial de constituição online de sociedades comerciais e civis sob forma comercial do tipo por quotas e anónima, com ou sem a simultânea aquisição, pelas sociedades, de marca registada, através de sítio na Internet, regulado por portaria do membro do Governo responsável pela área da justiça.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os interessados na constituição da sociedade formulam o seu pedido online, praticando, entre outros que se mostrem necessários, os seguintes actos:
 
@@ -431,7 +614,9 @@ f) ...
 
 6 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -463,7 +648,9 @@ h) [Anterior alínea f).]
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Pelo procedimento de constituição de sociedade regulado no presente decreto-lei são devidos encargos relativos:
 
@@ -475,7 +662,9 @@ c) Às taxas previstas em portaria do membro do Governo responsável pela área 
 
 2 - ...
 
-###### Artigo 14.º — Bolsas de firmas e de marcas
+Artigo 14.º
+
+Bolsas de firmas e de marcas
 
 1 - No procedimento de constituição de sociedades previsto no presente decreto-lei são utilizadas a bolsa de firmas ou a bolsa de firmas e de marcas associadas previstas no artigo 15.º do [Decreto-Lei n.º 111/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2005-235906), de 8 de Julho.
 
@@ -521,7 +710,9 @@ h) [Anterior alínea g).]
 
 i) [Anterior alínea h).]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -541,7 +732,9 @@ i) [Anterior alínea h).]
 
 9 - Não são devidas quaisquer taxas pelas publicações referidas nos n.os 4 e 8.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Quando o procedimento seja instaurado oficiosamente a notificação deve conter os elementos referidos no n.º 2 do artigo 8.º, excepto o que consta da alínea c), e ainda os seguintes:
 
@@ -567,7 +760,9 @@ d) ...
 
 8 - Nos casos referidos no número anterior, se a situação da sociedade perante a administração tributária estiver regularizada, o prazo previsto na alínea b) do n.º 1 pode ser prorrogado até 90 dias.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -579,7 +774,9 @@ d) ...
 
 5 - Os interessados são imediatamente notificados da decisão pela forma prevista nos n.os 4, 5 e 7 do artigo 8.º
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -615,7 +812,9 @@ i) [Anterior alínea g).]
 
 8 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -629,7 +828,9 @@ i) [Anterior alínea g).]
 
 6 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Aos casos de liquidação oficiosa promovidos nos termos das alíneas b) a i) do n.º 5 do artigo 15.º, é aplicável o regime previsto neste artigo.
 
@@ -647,7 +848,9 @@ b) Se após a notificação a que se referem os n.os 2 e 3 do artigo 17.º não 
 
 6 - No caso da alínea i) do n.º 5 do artigo 15.º o conservador deve declarar imediatamente o encerramento da liquidação da entidade comercial, salvo se do processo de insolvência resultar a existência de activos que permitam suportar os encargos com o procedimento administrativo de liquidação.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - A decisão que declare encerrada a liquidação é proferida no prazo de cinco dias após a conclusão dos actos de liquidação e partilha do património da entidade e dela são imediatamente notificados os interessados, sendo aplicáveis, consoante os casos, os n.os 4, 5 e 7 do artigo 8.º ou o n.º 5 do artigo 11.º
 
@@ -693,12 +896,12 @@ d) O n.º 2 do artigo 14.º do [Decreto-Lei n.º 125/2006](https://diariodarepub
 
 Visto e aprovado em Conselho de Ministros de 19 de Julho de 2007. - Fernando Teixeira dos Santos - João José Amaral Tomaz - Manuel Pedro Cunha da Silva Pereira - José Manuel Vieira Conde Rodrigues - Bernardo Luís Amador Trindade.
 
-**Promulgado em 13 de Setembro de 2007.**
+Promulgado em 13 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de Setembro de 2007.**
+Referendado em 14 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 85/2023, 1º Suplemento, Série I de 2023-05-03
   number: '85'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 25-(2) a 25-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/08501/0000200006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/28-a/2023/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-2023-212551431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d75b96cab4be4b2874e86d04d007a110414d5ae603de903b6697e798bc76e141
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e08e3d5f45d384fd3c28864cf863c8c4de7a4f15fb4b3e87a5bc57a0abfe742c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência para o Desenvolvimento e Coesão
+- Aquicultura
 - Atividade Agrícola
 - Atividade Transitária
-- Agência para o Desenvolvimento e Coesão
-- Região Autónoma
-- Financiamento
+- Auxílio de Minimis
 - Cobrança de Impostos
 - Código dos Impostos Especiais de Consumo
-- Imposto sobre Produtos Petrolíferos
-- Transporte Rodoviário
-- Produto Petrolífero
 - Combustível
-- Auxílio de Minimis
-- Fiscalização
-- Pesca
 - Comissão CE
+- Financiamento
+- Fiscalização
 - Gasóleo
-- Pagamento
 - IFAP
-- Aquicultura
+- Imposto sobre Produtos Petrolíferos
+- Pagamento
 - Página na Internet
+- Pecuária
+- Pesca
 - Prazo
+- Produto Petrolífero
 - Prorrogação de Prazo
 - Reembolso
+- Região Autónoma
 - Regulamento CE
-- Pecuária
+- Transporte Rodoviário
 relationships:
 - type: amended_by
   target: pt:dre:221278508:por
@@ -120,16 +120,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/73/2010/06/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/73/2010/06/21/p/dre
+- type: cites
+  target: pt:dre:185780383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201838710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:47Z'
   warnings: []
   errors: []
 ---
@@ -186,15 +198,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de abril de 2023. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - Maria do Céu de Oliveira Antunes.
 
-**Promulgado em 25 de abril de 2023.**
+Promulgado em 25 de abril de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de maio de 2023.**
+Referendado em 3 de maio de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -275,3 +287,5 @@ Os apoios que forem concedidos no âmbito do regime geral ou de regimes extraord
 1 - Em caso de pagamento indevido ou de utilização indevida dos apoios previstos no presente regime, o IFAP, I. P., promove a respetiva recuperação, mediante notificação ao devedor para proceder ao reembolso voluntário, ou coercivamente, mediante execução fiscal, caso não sejam devolvidas as ajudas indevidamente recebidas no prazo exigido.
 
 2 - Sobre os valores a reembolsar, nos termos do número anterior, incidem juros legais, calculados à taxa de juro legal, desde o termo do prazo fixado na notificação para o reembolso voluntário das ajudas indevidamente recebidas ou utilizadas até ao efetivo e integral reembolso das mesmas.
+
+116428042

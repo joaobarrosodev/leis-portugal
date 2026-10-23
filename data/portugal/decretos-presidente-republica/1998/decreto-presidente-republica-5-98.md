@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/5/1998/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/5-1998-229757
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T04:28:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 589c7c3100810df0c9829681a74a46392e0d3aea0449c8e61764a6dde6a15279
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c2d39df407db4ce5a94e0d3dd2929e4b4d89058bf5000bc668225ea7bd9254f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:28:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,32 @@ reuse:
 subjects:
 - Chefe do Estado Maior da Força Aérea
 - Força Aérea
-- Nomeação
 - Forças Armadas
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:211812:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:211812:por
+  label: "Rectificado, pela DECL-RECT.6/98.1998.02.13.PR DR.IS-A [49] de 27/Fev/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/6-1998-211812
+  date: '1998-02-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:28:22Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +102,16 @@ validation:
 
 de 7 de Fevereiro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição e ao abrigo do disposto nos artigos 38.º, n.º 4, alínea e), e 59.º, n.º 1, da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição e ao abrigo do disposto nos artigos 38.º, n.º 4, alínea e), e 59.º, n.º 1, da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, o seguinte:
 
 Sob proposta do Governo, é prorrogado por dois anos, com efeitos a partir de 24 de Janeiro de 1998, o período de exercício do cargo de Chefe do Estado-Maior da Força Aérea pelo general Aurélio Benedito Aleixo Corbal.
 
-**Assinado em 26 de Janeiro de 1998.**
+Assinado em 26 de Janeiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Janeiro de 1998.**
+Referendado em 27 de Janeiro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

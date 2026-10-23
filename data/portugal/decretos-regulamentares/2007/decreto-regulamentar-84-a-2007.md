@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 237/2007, 1º Suplemento, Série I de 2007-12-10
   number: '237'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8846-(2) a 8846-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/12/23701/0000200016.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/84-a/2007/12/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-a-2007-426483
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:31:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 568131f1c6d8481d757d2b5bf7411f5527e6560e69d8f6a6d3b924672bdc25e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 486ae568e4541dc622ca4cd27ea179d06a963dfcfca65c057ba5d687977c9788
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:31:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- QREN
+- Açores
 - Ajuda Comunitária
-- Financiamento
-- Gestão Financeira
 - Definição de Competências
 - Feader
-- Gestão Administrativa
 - FEDER
-- Instituto de Gestão do Fundo Social Europeu
-- Publicitação
+- Financiamento
 - FSE
-- Programa Operacional Potencial Humano
-- Sistema de Informação
-- Programa Operacional
-- QCA III
+- Gestão Administrativa
+- Gestão Financeira
+- Instituto de Gestão do Fundo Social Europeu
 - Madeira.região Autónoma
+- Programa Operacional
+- Programa Operacional Potencial Humano
+- Publicitação
+- QCA III
+- QREN
 - Regime Jurídico
 - Regulamento CE
-- Açores
+- Sistema de Informação
 - Unidade de Gestão
 relationships:
 - type: amended_by
   target: pt:dre:1173337:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:449458:por
+  label: "Alterado o art. 52º do presente diploma, pelo DR.13/2008.18.06.2008.MTSSO, DR.IS [116] de 18.06.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/13-2008-449458
+  date: '2008-06-18'
+- type: amended_by
+  target: pt:dre:307840:por
+  label: "Dada nova redacção aos arts. 17º, 35º, 36º, 44º e 45º, e revogado o nº 7 do art. 36º pelo DR.4/2010.15.10.2010.MTSSO,\
+    \ DR.IS [201] de 15.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-2010-307840
+  date: '2010-10-15'
 - type: cites
   target: celex:32006R1080
   label: null
@@ -112,16 +123,26 @@ relationships:
   target: eli:/application/external/tratado
   label: null
   source: /application/external/tratado
+- type: corrected_by
+  target: pt:dre:248183:por
+  label: "Rectificado pela DECL-RECT.3/2008.30.01.2008.PCM, DR.IS [21] de 30.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/3-2008-248183
+  date: '2008-01-30'
+- type: corrected_by
+  target: pt:dre:315566:por
+  label: "Rectificado pela DECL-RECT.5-A/2008.08.02.2008.PCM, DR.IS [28]2ºSupl de 08.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/5-a-2008-315566
+  date: '2008-02-08'
 article_structure:
   article_count: 57
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:31:43Z'
   warnings: []
   errors: []
 ---
@@ -944,12 +965,12 @@ O presente decreto regulamentar revoga o Decreto Regulamentar n.º 12-A/2000, de
 
 Visto e aprovado em Conselho de Ministros de 27 de Agosto de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Rui Carlos Pereira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - José António Fonseca Vieira da Silva - Francisco Ventura Ramos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Mário Vieira de Carvalho.
 
-**Promulgado em 5 de Dezembro de 2007.**
+Promulgado em 5 de Dezembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 7 de Dezembro de 2007.**
+Referendado em 7 de Dezembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 156/1999, 2º Suplemento, Série I-A de 1999-07-07
   number: '156'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4234-(4) a 4234-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/156a02/00040006.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/261-a/1999/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-a-1999-435052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31c05be996ae7af25712ed533612c2e4509b438e6bcbaf20122b29a006ce955a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6eaaaad717f04e7a1e5f16e3b85ae6344897cde174813e0ba5145c1b72e2f05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,18 @@ reuse:
 subjects:
 - Acção Financeira
 - Alienação de Acções
-- Sociedade Anónima
 - Bolsa de Valores
 - Caderno de Encargos
 - Capital Social
-- Ministro da Economia
 - Conselho de Administração
 - Conservatória do Registo Comercial
 - Definição de Competências
 - Emigrante
 - Emolumento
-- Lisboa
-- Ministro das Finanças
 - Isenção de Taxas e Emolumentos
+- Lisboa
+- Ministro da Economia
+- Ministro das Finanças
 - Notário
 - Notificação
 - Obrigações
@@ -89,9 +88,10 @@ subjects:
 - Prazo
 - Privatização
 - Prova
+- Registo Comercial
 - Registo Nacional de Pessoas Coletivas
 - Setor Público
-- Registo Comercial
+- Sociedade Anónima
 - Taxa
 - Trabalhador
 relationships:
@@ -123,16 +123,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/19/1992/06/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/19/1992/06/19/p/dre
+- type: cites
+  target: pt:dre:265085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521237:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669513:por
+  label: "Revogado o art. 4º pelo DEC LEI.90/2011.25.07.2011.MF, DR.IS [141] de 25.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2011-669513
+  date: '2011-07-25'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:01Z'
   warnings: []
   errors: []
 ---
@@ -227,12 +264,12 @@ O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Maio de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Vítor Manuel Sampaio Caetano Ramalho.
 
-**Promulgado em 29 de Junho de 1999.**
+Promulgado em 29 de Junho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Julho de 1999.**
+Referendado em 6 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

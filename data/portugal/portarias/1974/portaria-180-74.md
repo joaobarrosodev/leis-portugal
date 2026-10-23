@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/03/05300/03100311.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/180-1974-412785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:21:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 637ccadfd79307c879aef2e2dbbb3d3118c8d1101c0e5327056f6005bbe3f19d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f75aaffaa5fee1516a97ae8b8764b673d89c31bc6db658581f154bf74384cdc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:21:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,21 @@ relationships:
   target: pt:dre:500911:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:500911:por
+  label: Anulada pelo(a) Portaria n.º 165/76 - Diário do Governo n.º 71/1976, Série I de 1976-03-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/165-1976-500911
+  date: '1976-03-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:21:16Z'
   warnings: []
   errors: []
 ---
@@ -105,6 +110,6 @@ Ministério das Comunicações, 15 de Fevereiro de 1974. - Pelo Ministro das Com
 
 Modelo do cartão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/03/05300/03100311.pdf))](https://files.diariodarepublica.pt/1s/1974/03/05300/03100311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/03/05300/03100311.pdf)
 
 Pelo Ministro das Comunicações, Miguel José de Almeida Pupo Correia, Subsecretário de Estado das Comunicações e Transportes.

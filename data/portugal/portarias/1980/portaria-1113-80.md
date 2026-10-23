@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 301/1980, 7º Suplemento, Série I de 1980-12-31
   number: '301'
   series: I
-  supplement: 7º Suplemento
+  supplement: null
   pages: 4244-(114) a 4244-(115)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/30107/01140115.pdf
 entry_into_force_dates: []
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1113-1980-226636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:10:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c8d92ed666511a7df9163d687ba89c05f381ff2b390d34df2b0a9ac5d395e15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2409dc00214b52b9733cd8fe4aaf43f03c43b7f8a88776e911e443dcd87d3e38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:10:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acção Financeira
+- Sociedade Anónima
+- Sociedade em Comandita
+- Sociedade por Quotas
 relationships:
 - type: amended_by
   target: pt:dre:609137:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609137:por
+  label: "Substituído o presente diploma, pela PORT.307/82.1982.03.22.MFP DR.IS [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/307-1982-609137
+  date: '1982-03-22'
+- type: cites
+  target: pt:dre:461815:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:10:35Z'
   warnings: []
   errors: []
 ---
@@ -99,12 +112,12 @@ Ministério das Finanças e do Plano, 23 de Dezembro de 1980. - O Ministro das F
 
 Grandes grupos, sua correspondência com a classificação pautal de mercadorias e valores do valor acrescentado nacional «VAN».
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30107/01140115.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30107/01140115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30107/01140115.pdf)
 
 Classificação pautal de mercadorias, por capítulos e valores correspondentes de «VAN»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30107/01140115.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30107/01140115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30107/01140115.pdf)
 
 ## ANEXO III — Coeficientes do valor acrescentado nacional de serviços inseríveis na mecânica do [Decreto-Lei n.º 408/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1980-461815)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30107/01140115.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30107/01140115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30107/01140115.pdf)

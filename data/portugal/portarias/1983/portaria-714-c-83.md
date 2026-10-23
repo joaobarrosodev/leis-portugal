@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 142/1983, 1º Suplemento, Série I de 1983-06-23
   number: '142'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2264-(4) a 2264-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14201/00040006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/714-c-1983-627020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T07:47:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74993417eafd1a139e66bb95a9fbcf128421c7ed57f1b8fa22ea8c0291afe0d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bb65a5318c39752eb5a75ee92571102e76dba2421bc0fbef850bd1f4e5b1346
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:47:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Leite
+- Margens de Comercialização
+- Preço
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:442315:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:453832:por
+  label: "Alterado o n.º 1 do n.º 8.º pela PORT.776/83.23.07.1983.MFP, DR.IS [168] de 23.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/776-1983-453832
+  date: '1983-07-23'
+- type: cites
+  target: pt:dre:310403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:442315:por
+  label: "Revogada pela PORT.884/83.21.09.1983.MFP, DR.IS [218] de 21.09.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/884-1983-442315
+  date: '1983-09-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:47:06Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +130,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 2.º - 1 - Os preços máximos do leite pasteurizado para utilizar fora do local de aquisição são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/14201/00040006.pdf))](https://files.diariodarepublica.pt/1s/1983/06/14201/00040006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14201/00040006.pdf)
 
 2 - Aos preços máximos de venda ao público fixados no n.º 1 poderá acrescer a importância de $50 por embalagem vendida para consumo fora da localidade onde se situam as instalações de tratamento, revertível para o centro de tratamento, se efectuar a distribuição até ao retalho, ou para o retalhista, se se abastecer no centro de tratamento.
 
@@ -112,7 +146,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 4.º - 1 - Os preços máximos do leite ultrapasteurizado de fabrico continental para utilizar fora do local de aquisição são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/14201/00040006.pdf))](https://files.diariodarepublica.pt/1s/1983/06/14201/00040006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14201/00040006.pdf)
 
 2 - É permitida a absorção da margem máxima de distribuição pelo centro de tratamento sempre que este efectue tal operação.
 
@@ -120,7 +154,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 5.º - 1 - Os preços máximos de leite esterilizado de fabrico continental para utilizar fora do local de aquisição são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/14201/00040006.pdf))](https://files.diariodarepublica.pt/1s/1983/06/14201/00040006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14201/00040006.pdf)
 
 2 - É permitida a absorção da margem máxima de distribuição pelo centro de tratamento sempre que este efectue tal operação.
 
@@ -128,7 +162,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 6.º - 1 - Os preços máximos de leite especial pasteurizado para utilizar fora do local de aquisição são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/14201/00040006.pdf))](https://files.diariodarepublica.pt/1s/1983/06/14201/00040006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14201/00040006.pdf)
 
 2 - Aos preços máximos de venda ao público fixados no n.º 1 poderá acrescer a importância de $50 por embalagem vendida para consumo fora da localidade onde se situam as instalações de tratamento, revertível para o centro de tratamento, quando este efectuar a distribuição até ao retalho, ou para o retalhista, se se abastecer no centro de tratamento.
 
@@ -140,7 +174,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 8.º - 1 - Os subsídios a atribuir, por litro, aos vários tipos de leite para consumo em natureza serão suportados pelo Fundo de Abastecimento e constam do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/14201/00040006.pdf))](https://files.diariodarepublica.pt/1s/1983/06/14201/00040006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14201/00040006.pdf)
 
 2 - Os subsídios referidos no n.º 1 serão liquidados directamente pela Junta Nacional dos Produtos Pecuários às entidades que procedam ao tratamento daqueles tipos de leite para consumo em natureza.
 
@@ -178,6 +212,6 @@ De Oliveira de Azeméis - 1$503.
 
 Ministérios das Finanças e do Plano, da Agricultura, Florestas e Alimentação e do Comércio e Turismo.
 
-**Assinada em 23 de Junho de 1983.**
+Assinada em 23 de Junho de 1983.
 
-**O Ministro das Finanças e do Plano, Hernâni Rodrigues Lopes. - O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa. - O Ministro do Comércio e Turismo, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro das Finanças e do Plano, Hernâni Rodrigues Lopes. - O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa. - O Ministro do Comércio e Turismo, Álvaro Roque de Pinho Bissaia Barreto.

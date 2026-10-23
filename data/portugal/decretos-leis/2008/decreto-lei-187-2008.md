@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/187/2008/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2008-452184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03a8566ec453f73e48172952ae3600bc2eddc132e137a71ed66bdcd3969992b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e00b5ad56950baa7fdb3d00ec535dbe2f6c0a429c3b33f537eccad40a6137d0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
 subjects:
 - Código do Processo Civil
 - Competência Jurisdicional
-- Sistema Judicial
-- Litigância de Massa
 - Gestão Processual
+- Litigância de Massa
 - Ministério da Justiça
+- Sistema Judicial
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/108/2006/06/08/p/dre
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/955/2006/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/955/2006/09/13/p/dre
+- type: cites
+  target: pt:dre:346122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540028:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:21Z'
   warnings: []
   errors: []
 ---
@@ -137,12 +145,12 @@ O presente decreto-lei entra em vigor no dia 16 de Outubro de 2008.
 
 Visto e aprovado em Conselho de Ministros de 4 de Setembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Alberto Bernardes Costa.
 
-**Promulgado em 12 de Setembro de 2008.**
+Promulgado em 12 de Setembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Setembro de 2008.**
+Referendado em 16 de Setembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

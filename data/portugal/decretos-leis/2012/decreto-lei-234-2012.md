@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/234/2012/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2012-191541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: edcb225c593ea3de672b3871dcf4af264561840753f910a49b80946119c4720e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6439c8fd3ca413f58ca79396a1cd3da640fbc910e0f7f4912a310889e9757735
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Embaixada
-- Formação Profissional
+- Avaliação do Pessoal
+- Camões - Instituto da Cooperação e da Língua
 - Comissão de Serviço
 - Concurso Público
 - Consulado
 - Contratação de Docentes
 - Coordenador
 - Definição de Competências
+- Embaixada
 - Ensino Português no Estrangeiro
-- Recrutamento de Pessoal
-- Camões - Instituto da Cooperação e da Língua
+- Formação Profissional
 - Pessoal Docente
-- Avaliação do Pessoal
+- Recrutamento de Pessoal
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:75603289:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:75603289:por
+  label: Alterados os arts. 5.º, 9.º, 15.º, 19.º-D, 20.º, 27.º, 28.º, 29.º, 31.º, 32.º e 42.º, aditado o art. 36.º-B, revogados
+    o n.º 2 do art. 15.º, o n.º 1 do art. 19.º-D, os n.ºs 3 e 5 do art. 20.º e a al. a) do n.º 1 do art. 30.º, e republicado
+    o Dec. Lei 165/2006 de 11-ago, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 65-A/2016 - Diário
+    da República n.º 205/2016, 1º Suplemento, Série I de 2016-10-25 nos termos do seu art. 5.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-a-2016-75603289
+  date: '2016-10-25'
+- type: amends
+  target: pt:numero:lei:165/2006
+  label: "Altera, na redação do Dec Lei 165-C/2009, de 28-jul, os arts. 5.º, 7.º, 8.º, 10.º, 16.º, 18.-Aº, 19.º-D, 19.º-E,\
+    \ 20.º, 23.º, 25.º, 28.º, 30.º, 31.º, 32.º e 35.º e revoga o n.º 2 do art. 5.º, o n.º 3 do art. 10.º e o n.º 8 do art.\
+    \ 31.º do Dec Lei n.º 165/2006, de 11-ago, DR IS [155], republicando-o\0\0"
+  source: null
+  date: '2006-08-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/2011/12/29/p/dre
   label: null
@@ -126,16 +141,112 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/83-a/2009/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/83-a/2009/01/22/p/dre
+- type: cites
+  target: pt:dre:145192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
-  article_count: 80
+  article_count: 65
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:24Z'
   warnings: []
   errors: []
 ---
@@ -214,11 +325,13 @@ i) [Anterior alínea h)].
 
 8 - (Anterior n.º 5.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 A rede de cursos do ensino português no estrangeiro referidos no n.º 1 do artigo 5.º é aprovada por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da educação, publicado no Diário da República, mediante proposta do Camões, I. P., ouvidas as estruturas de coordenação referidas no capítulo ii.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - ...
 
@@ -226,7 +339,9 @@ A rede de cursos do ensino português no estrangeiro referidos no n.º 1 do arti
 
 3 - Os coordenadores atuam no desenvolvimento da atividade pedagógica sob a direção do presidente do Camões, I. P., de acordo com as orientações emanadas do Ministério da Educação e da Ciência, sem prejuízo do estabelecido no n.º 2 do artigo 13.º da Lei Orgânica do Ministério dos Negócios Estrangeiros, aprovada pelo [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), de 29 de dezembro.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -234,7 +349,9 @@ A rede de cursos do ensino português no estrangeiro referidos no n.º 1 do arti
 
 3 - (Revogado.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Os coordenadores são designados por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da educação.
 
@@ -246,7 +363,9 @@ A rede de cursos do ensino português no estrangeiro referidos no n.º 1 do arti
 
 5 - ...
 
-###### Artigo 18.º-A — [...]
+Artigo 18.º-A
+
+[...]
 
 1 - ...
 
@@ -254,7 +373,9 @@ A rede de cursos do ensino português no estrangeiro referidos no n.º 1 do arti
 
 3 - A ausência do adjunto de coordenação da área consular onde exerce funções por período superior a três dias é sujeita a autorização do coordenador da respetiva área ou do presidente do Camões, I. P.
 
-###### Artigo 19.º-D — [...]
+Artigo 19.º-D
+
+[...]
 
 1 - O pessoal docente deve efetuar a sua apresentação na instituição de destino no prazo de três dias a contar da data de entrada no país e até oito dias antes do início do funcionamento dos cursos e contactar, de imediato, o respetivo diretor ou professor responsável pelo departamento ou grupo de disciplinas em que vai integrar-se.
 
@@ -262,7 +383,9 @@ A rede de cursos do ensino português no estrangeiro referidos no n.º 1 do arti
 
 3 - ...
 
-###### Artigo 19.º-E — [...]
+Artigo 19.º-E
+
+[...]
 
 1 - ...
 
@@ -272,7 +395,9 @@ A rede de cursos do ensino português no estrangeiro referidos no n.º 1 do arti
 
 4 - Os elementos a que se refere a alínea b) do número anterior, bem como o plano de trabalho escolar referido na alínea c) do número anterior, devem ser facultados aos pais e encarregados de educação dos alunos do ensino não superior.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -288,7 +413,9 @@ A rede de cursos do ensino português no estrangeiro referidos no n.º 1 do arti
 
 7 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -320,7 +447,9 @@ A rede de cursos do ensino português no estrangeiro referidos no n.º 1 do arti
 
 15 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - A componente letiva do pessoal docente é a seguinte:
 
@@ -352,13 +481,17 @@ b) ...
 
 7 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
 2 - Ao leitor e professor da rede do ensino português no estrangeiro pode ser cometida, pelo presidente do Camões, I. P., a gestão de um centro de língua e a inerente responsabilidade pela elaboração e execução do correspondente plano anual de atividades.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -380,7 +513,9 @@ g) Por extinção do posto de trabalho.
 
 3 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -414,7 +549,9 @@ c) Grau de doutor ou estudos pós-graduados especialmente qualificados no domín
 
 13 - A limitação referida no número anterior tem a duração de dois anos.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -424,7 +561,9 @@ c) Grau de doutor ou estudos pós-graduados especialmente qualificados no domín
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -452,15 +591,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de setembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Sacadura Cabral Portas - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 23 de outubro de 2012.**
+Promulgado em 23 de outubro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de outubro de 2012.**
+Referendado em 25 de outubro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -630,7 +769,7 @@ As estruturas de coordenação do ensino português no estrangeiro são constitu
 
 ###### Artigo 13.º — Apoio logístico e administrativo
 
-**O chefe da missão diplomática ou posto consular disponibiliza apoio logístico e administrativo para o desempenho das funções dos responsáveis pela coordenação do ensino português no estrangeiro.**
+O chefe da missão diplomática ou posto consular disponibiliza apoio logístico e administrativo para o desempenho das funções dos responsáveis pela coordenação do ensino português no estrangeiro.
 
 #### SECÇÃO II — Funcionamento
 

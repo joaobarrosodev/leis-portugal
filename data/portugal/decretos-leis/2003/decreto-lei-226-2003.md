@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/226/2003/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2003-491932
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af96ff37a5866627fec7e5a1cc65d6a802b708ce696c5ef99d7991ea104c95be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6df9ad1790b5a492e8a4d2860a0c27ddccc362dcd6e064a2236cacc3dc78289e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exército
 - Conselho de Armas e Serviços do Exército
 - Definição de Competências
 - Estatuto dos Militares das Forças Armadas
+- Exército
 - Forças Armadas
 relationships:
 - type: cites
@@ -88,16 +88,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/3/2001/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/3/2001/08/29/p/dre
+- type: cites
+  target: pt:dre:257600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631605:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:23Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +158,7 @@ c) Elaborar as listas de promoção, de acordo com as modalidades de promoção 
 
 d) ...
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - ...
 
@@ -142,11 +166,11 @@ d) ...
 
 3 - Quando o número de militares existentes num quadro especial em extinção progressiva for igual ou inferior ao número de membros previsto para a composição do respectivo conselho, será este composto por todos os militares desse quadro, sem necessidade de designação ou eleição.
 
-###### Artigo 4.º
+Artigo 4.º
 
 O mandato dos membros eleitos tem a duração de dois anos, com início em 1 de Abril.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - Os CASE são presididos por um oficial general ou um oficial superior, se possível da respectiva arma ou serviço, a designar, em acumulação de funções, pelo Chefe do Estado-Maior do Exército (CEME).
 
@@ -154,7 +178,9 @@ O mandato dos membros eleitos tem a duração de dois anos, com início em 1 de 
 
 3 - Os CASE funcionam por comissões, correspondentes às categorias neles representadas.
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 1 - Os CASE têm a seguinte composição:
 
@@ -346,7 +372,9 @@ Membros designados: conforme o disposto no n.º 1.1.
 
 2.10.3 - (Anterior n.º 3.9.3.)
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 1 - (Anterior n.º 2.)
 
@@ -390,15 +418,15 @@ O [Decreto-Lei n.º 200/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 Visto e aprovado em Conselho de Ministros de 24 de Julho de 2003. - José Manuel Durão Barroso - Paulo Sacadura Cabral Portas.
 
-**Promulgado em 11 de Setembro de 2003.**
+Promulgado em 11 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Setembro de 2003.**
+Referendado em 15 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 Republicação do [Decreto-Lei n.º 200/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1993-257600), de 3 de Junho
 

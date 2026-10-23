@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/180/2003/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2003-659920
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86f03c2071c98acaa8432f2db0755dc8632431fbabee1daeedb8c5ebd7e257f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cd79fb59e631de605236a8df29c6ace1524ef5618960ef37204384cc54f4a6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,40 @@ reuse:
 subjects:
 - Acidente de Navegação Marítima
 - Aproximação das Legislações
-- Prevenção de Incêndios
-- Transporte Marítimo
-- Instituto Portuário e dos Transportes Marítimos
 - Construção Naval
-- Segurança das Embarcações
-- Instalações Radioelétricas
 - Fiscalização
+- Instalações Radioelétricas
+- Instituto Portuário e dos Transportes Marítimos
 - Normas de Construção
 - Normas de Segurança
+- Prevenção de Incêndios
+- Segurança das Embarcações
 - Segurança Marítima
 - Transporte de Passageiros
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:108323926:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302524:por
+  label: "Substituído o texto da secção 5.1. do capítulo III do anexo I, do presente diploma, pelo anexo ao DEC LEI.107/2004.08.05.2004.MOPTH,\
+    \ DR.IS-A [108] de 08.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2004-302524
+  date: '2004-05-08'
+- type: amended_by
+  target: pt:dre:489558:por
+  label: "Aditadas as secções 8.A e 8.B ao cap. II-1 do anexo do presente diploma, que passa a designar-se anexo I e aditado\
+    \ um anexo II, pelo DEC LEI.210/2005.06.12.2005.MOPTC, DR.IS-A [233] de 06.12.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-2005-489558
+  date: '2005-12-06'
+- type: amended_by
+  target: pt:dre:552809:por
+  label: "Alterado, a partir de 24.04.2012, o anexo I do Dec Lei 293/2001, de 20-nov, na redação do presente diploma, pelo\
+    \ DEC LEI.93/2012.19.04.2012.MAMAOT, DR.IS [78] de 19.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2012-552809
+  date: '2012-04-19'
 - type: cites
   target: celex:31998L0018
   label: null
@@ -94,15 +112,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2002/25/oj
 article_structure:
-  article_count: 3
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 2
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:26Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +169,9 @@ c) ...
 
 d) ...
 
-###### Artigo 7.º — Requisitos de segurança para navios existentes
+Artigo 7.º
+
+Requisitos de segurança para navios existentes
 
 1 - ...
 
@@ -185,15 +205,15 @@ c) (Revogado.)
 
 Visto e aprovado em Conselho de Ministros de 13 de Junho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - António Pedro de Nobre Carmona Rodrigues.
 
-**Promulgado em 16 de Julho de 2003.**
+Promulgado em 16 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Julho de 2003.**
+Referendado em 22 de Julho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Prescrições de segurança para navios de passageiros novos e existentes que efectuem viagens domésticas
 
@@ -221,7 +241,7 @@ A menção «(R ...)» incluída em vários títulos de regras do presente anexo
 
 ### CAPÍTULO II-1 — Construção - Subdivisão e estabilidade, máquinas e instalações eléctricas
 
-# PARTE A — Generalidades
+## PARTE A — Generalidades
 
 1 - Definições relativas à parte B (R 2)
 
@@ -309,7 +329,7 @@ Navios novos das classes B, C e D e navios existentes da classe B:
 
 2.16 - «Postos de segurança» são os espaços onde estão instalados os aparelhos de radiocomunicações, ou os aparelhos principais de navegação do navio, ou a fonte de energia de emergência, ou em que está centralizado o equipamento de detecção e extinção de incêndios.
 
-# PARTE B — Estabilidade intacta, compartimentação e estabilidade em avaria
+## PARTE B — Estabilidade intacta, compartimentação e estabilidade em avaria
 
 1 - Estabilidade intacta [Resolução A.749 (18)]
 
@@ -503,7 +523,7 @@ Navios novos das classes B, C e D e navios existentes da classe B:
 
 8.3 - Para efeitos do cálculo da estabilidade em avaria, devem ser adoptadas as seguintes permeabilidades de volume e de superfície:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
 
 Podem ser adoptadas permeabilidades de superfície mais elevadas para os espaços que, na proximidade da linha de flutuação em avaria, não estejam ocupados em proporção considerável por alojamentos ou maquinaria e para os espaços que não estejam geralmente ocupados por quantidades apreciáveis de carga ou provisões.
 
@@ -549,7 +569,7 @@ Navios ro-ro de passageiros existentes da classe B:
 
 8.1.1 - Os navios ro-ro de passageiros existentes da classe B devem satisfazer as prescrições da regra 8 o mais tardar à data da primeira vistoria periódica posterior à data de aplicação indicada a seguir, de acordo com o valor de A/A(índice máx.) definido no anexo ao Procedimento de Cálculo para Avaliar as Características para Resistir ao Naufrágio dos Navios de Passageiros Ro-Ro Existentes, Resolução A.265 (VIII), elaborado pelo Comité de Segurança Marítima, 59.ª sessão, em Junho de 1991 (MSC/Circ. 574):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
 
 8.2 - Prescrições especiais para os navios ro-ro de passageiros que transportem 400 ou mais pessoas (R 8-2)
 
@@ -563,11 +583,11 @@ Não obstante o prescrito nas regras II-1/B/8 e II-1/B/8-1:
 
 8.2.2.1:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
 
 8.2.2.2:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
 
 8.2.2.3 - Idade do navio igual ou superior a 20 anos, em que por idade do navio se entende o número de anos contados a partir da data em que foi assente a quilha ou em que o navio se encontrava numa fase de construção equivalente ou a partir da data em que o navio foi transformado em navio ro-ro de passageiros.
 
@@ -989,7 +1009,7 @@ Navios novos das classes A, B, C e D construídos em ou após 1 de Janeiro de 20
 
 24.2 - As escadas e patamares existentes em pavimentos exteriores devem estar munidos de balaustradas de construção equivalente.
 
-# PARTE C — Máquinas
+## PARTE C — Máquinas
 
 1 - Generalidades (R 26)
 
@@ -1075,11 +1095,11 @@ Navios novos das classes B, C e D e navios existentes da classe B:
 
 Encanamento de esgoto principal:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
+[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
 
 Encanamentos de esgoto secundários entre as caixas de esgoto e as aspirações:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
+[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
 
 3.2.9 - Devem ser tomadas medidas que impeçam que um compartimento servido por um encanamento de esgoto seja alagado em caso de rotura ou outra avaria nesse encanamento, originada por abalroamento ou encalhe noutro compartimento. Para este efeito, quando um encanamento estiver, em qualquer ponto, a uma distância do costado inferior a um quinto da boca do navio (medida perpendicularmente ao plano de simetria do navio ao nível da linha de carga máxima de compartimentação), ou quando estiver instalado numa quilha em caixão, esse encanamento deve ser provido de uma válvula de retenção no compartimento em que está a aspiração.
 
@@ -1339,7 +1359,7 @@ Navios novos das classes A, B, C e D:
 
 16.4 - O IPTM poderá permitir que as inspecções periódicas sejam efectuadas por um perito credenciado ou por uma organização reconhecida, nos termos da legislação aplicável.
 
-# PARTE D — Instalações eléctricas
+## PARTE D — Instalações eléctricas
 
 1 - Generalidades (R 40)
 
@@ -1487,7 +1507,7 @@ Navios novos das classes B, C e D:
 
 5.9 - Os sistemas de distribuição devem estar instalados de modo que um incêndio que se declare numa zona vertical principal, tal como definida na regra II-2/A/2.9, não interfira com serviços essenciais para a segurança em qualquer outra dessas zonas. Considera-se satisfeita esta prescrição se os cabos de alimentação principais e de emergência que passem por qualquer dessas zonas estiverem tão afastados um do outro, vertical e horizontalmente, quanto seja possível.
 
-# PARTE E — Prescrições suplementares para espaços de máquinas sem assistência permanente
+## PARTE E — Prescrições suplementares para espaços de máquinas sem assistência permanente
 
 Exame especial (R 54)
 
@@ -1613,7 +1633,7 @@ Navios novos das classes B, C e D e navios existentes da classe B:
 
 ### CAPÍTULO II-2 — Prevenção, detecção e extinção de incêndios
 
-# PARTE A — Generalidades
+## PARTE A — Generalidades
 
 1 - Princípios fundamentais (R 2)
 
@@ -1885,7 +1905,7 @@ No que se refere aos navios construídos em ou após 1 de Janeiro de 2003, esta 
 
 3.4.2 - Com duas bombas a descarregarem simultaneamente pelas agulhetas especificadas no ponto 3.8 através de um número de bocas de incêndio suficiente para fornecer a quantidade de água especificada no ponto 3.4.1, devem ser mantidas em todas as bocas de incêndio as seguintes pressões mínimas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
 
 3.4.3 - A pressão máxima em qualquer boca de incêndio não deve exceder a pressão a que se demonstre ser possível o controlo eficaz de uma mangueira de incêndio.
 
@@ -2317,7 +2337,7 @@ O primeiro alarme de incêndio activado não impeça que outro detector active o
 
 9.2.5 - O espaçamento máximo dos detectores deve obedecer à seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
 
 O IPTM pode determinar ou autorizar outros espaçamentos, em função de resultados de ensaios que demonstrem as características dos detectores.
 
@@ -2703,7 +2723,7 @@ Navios novos das classes B, C e D e navios existentes da classe B:
 
 16.4 - A brochura de segurança contra incêndios pode ser combinada com os manuais de formação prescritos na regra II-2/A/15.3.
 
-# PARTE B — Medidas de segurança contra incêndios
+## PARTE B — Medidas de segurança contra incêndios
 
 1 - Estrutura (R 23)
 
@@ -2963,13 +2983,13 @@ TABELA N.º 4.1
 
 Anteparas que não delimitam zonas verticais principais nem zonas horizontais
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
 
 TABELA N.º 4.2
 
 Pavimentos que não formam saltos em zonas verticais principais nem delimitam zonas horizontais
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
 
 Notas aplicáveis às tabelas n.os 4.1 e 4.2
 
@@ -3043,13 +3063,13 @@ TABELA N.º 5.1
 
 Resistência ao fogo das anteparas que separam espaços adjacentes
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
 
 TABELA N.º 5.2
 
 Resistência ao fogo dos pavimentos que separam espaços adjacentes
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
 
 Notas aplicáveis às tabelas n.os 5.1 e 5.2, consoante for adequado
 
@@ -3833,7 +3853,7 @@ Todos os navios devem ainda dispor de imersão e meios de protecção térmica, 
 
 Os navios que não disponham de embarcações salva-vidas devem estar equipados, para efeitos de salvamento, com pelo menos um fato de imersão. Um navio que opere unicamente em zonas de clima quente, em que o IPTM considere a protecção térmica desnecessária, pode ser dispensado desta obrigação.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)](https://files.diariodarepublica.pt/1s/2003/08/187a00/50105084.pdf)
 
 3 - Alarme de emergência, instruções de operacionalidade, manual de formação, rol de chamada e instruções para situações de emergência (R 6 + 8 + 9 + 19 + 20).
 

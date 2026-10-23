@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/10400/0328203300.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/93/2015/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2015-67348946
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d80bf74500c6c6e1effb902145bc547af216dc5804a78a03fa90382ecac9484
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 984cd5b603632423bafc42cf1053d88ce826d65c031cfe4de6114a9a9e476b2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,37 +65,77 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Água
 - Águas de Portugal
+- Águas do Noroeste
+- Águas do Norte
 - Alienação de Participação Social
-- Gestão de Resíduos
-- Sociedade Anónima
+- Autarquia Local
 - Capital Social
-- Saneamento Básico
+- Conselho Consultivo
 - Contrato de Concessão
 - Criação de Empresas
 - Criação de Serviços
-- Recursos Hídricos
-- Extinção de Empresas
 - Estatuto
+- Extinção de Empresas
 - Extinção de Serviços
-- Setor Empresarial do Estado
+- Gestão de Resíduos
 - Gestão dos Recursos
-- Conselho Consultivo
-- Serviço Público
+- Recursos Hídricos
 - Regime Jurídico
 - Responsabilidade Civil
 - Responsabilidade Extracontratual
-- Abastecimento de Água
-- Autarquia Local
+- Saneamento Básico
+- Serviço Público
+- Setor Empresarial do Estado
 - SISTEMA MULTIMUNICIPAL DE ABASTECIMENTO DE ÁGUA E DE SANEAMENTO DO NORTE DE PORTUGAL
-- Águas do Norte
-- Águas do Noroeste
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:892301178:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:106380302:por
+  label: Alterados os arts. 2.º, 12.º e 32.º e determinada a cisão do sistema multimunicipal de abastecimento de água e de
+    saneamento do Norte de Portugal e da sociedade Águas do Norte, S. A., respetivamente criado e constituída pelo presente
+    diploma, pelo(a) Decreto-Lei n.º 16/2017 - Diário da República n.º 23/2017, Série I de 2017-02-01 nos termos dos seus
+    arts. 61.º e 62.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2017-106380302
+  date: '2017-02-01'
+- type: amended_by
+  target: pt:dre:158238385:por
+  label: Mantidas vigentes, no ano de 2021, as tarifas, os rendimentos tarifários e demais valores cobrados nos termos dos
+    contratos de concessão, aplicados no último ano do período de convergência tarifária, aos utilizadores municipais, utilizadores
+    finais e clientes do sistema multimunicipal de abastecimento de água e de saneamento do Norte de Portugal criado pelo
+    presente diploma pelo(a) Decreto-Lei n.º 16/2021 - Diário da República n.º 38/2021, Série I de 2021-02-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2021-158238385
+  date: '2021-02-24'
+- type: amended_by
+  target: pt:dre:176800373:por
+  label: Determinada a manutenção da vigência, no ano de 2022, das tarifas, dos rendimentos tarifários e demais valores cobrados
+    nos termos dos contratos de concessão, aplicados em 2021, aos utilizadores municipais, utilizadores finais e clientes
+    do sistema multimunicipal de abastecimento de água e de saneamento do Norte de Portugal criado pelo presente diploma pelo(a)
+    Decreto-Lei n.º 124/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30, nos termos do n.º 3 do art. 2.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2021-176800373
+  date: '2021-12-30'
+- type: amended_by
+  target: pt:dre:205493468:por
+  label: Mantidos vigentes, no ano de 2023, as tarifas, os rendimentos tarifários e demais valores cobrados nos termos dos
+    contratos de concessão, aplicados em 2022, aos utilizadores municipais, utilizadores finais e clientes do sistema multimunicipal
+    de abastecimento de água e de saneamento do Norte de Portugal pelo(a) Decreto-Lei n.º 87-C/2022 - Diário da República
+    n.º 250/2022, 1º Suplemento, Série I de 2022-12-29, nos termos do art. 2.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-c-2022-205493468
+  date: '2022-12-29'
+- type: amended_by
+  target: pt:dre:892301178:por
+  label: Mantidos vigentes, no ano de 2024, com efeitos a 1 de janeiro de 2024, as tarifas, os rendimentos tarifários e demais
+    valores cobrados nos termos dos contratos de concessão, aplicados em 2023, aos utilizadores municipais, utilizadores finais
+    e clientes do sistema multimunicipal de abastecimento de água e de saneamento do Norte de Portugal pelo(a) Decreto-Lei
+    n.º 77/2024 - Diário da República n.º 206/2024, Série I de 2024-10-23 nos termos do artigo 2.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2024-892301178
+  date: '2024-10-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/
   label: null
@@ -136,16 +176,107 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
+- type: cites
+  target: pt:dre:241638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:69879388:por
+  label: Retificado o n.º 1 do art 7.º, o n.º 2 do artigo 6.º do «ANEXO (a que se refere o art 8.º)», o «ANEXO (a que se refere
+    os arts 5.º e 6.º dos estatutos)», todos do presente diploma, pelo(a) Declaração de Retificação n.º 35/2015 - Diário da
+    República n.º 144/2015, Série I de 2015-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/35-2015-69879388
+  date: '2015-07-27'
 article_structure:
   article_count: 66
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:29Z'
   warnings: []
   errors: []
 ---
@@ -634,15 +765,15 @@ O presente decreto-lei entra em vigor no dia 30 de junho de 2015.
 
 Visto e aprovado em Conselho de Ministros de 9 de abril de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paula Maria von Hafe Teixeira da Cruz - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 26 de maio de 2015.**
+Promulgado em 26 de maio de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de maio de 2015.**
+Referendado em 28 de maio de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 8.º)
 
@@ -1030,4 +1161,4 @@ Acionistas, capital subscrito e realizado e categorias de ações
 
 Águas do Norte, S. A.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/10400/0328203300.pdf))](https://files.diariodarepublica.pt/1s/2015/05/10400/0328203300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0328203300.pdf)

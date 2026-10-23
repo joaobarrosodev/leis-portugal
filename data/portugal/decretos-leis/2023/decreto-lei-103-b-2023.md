@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 217/2023, 1º Suplemento, Série I de 2023-11-09
   number: '217'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 20-(8) a 20-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/21701/0000800014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/103-b/2023/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-b-2023-224081985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70d73dca2b40a848d7a709430ac0c4d61ebb0b2aa43512c78b03f0ed454e392f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5862b800de99e0937c09995a2b827c053db661ec68a9079dcba6885e385c823
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Arrendamento Urbano para Habitação
 - Autoridade Tributária e Aduaneira
 - Beneficiário
 - Instituto da Habitação e da Reabilitação Urbana
 - Renda Apoiada
-- Arrendamento Urbano para Habitação
 relationships:
 - type: amended_by
   target: pt:dre:870515825:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:839477381:por
+  label: Prorrogados, a partir de 30 de janeiro de 2024, e com efeitos a 01 de janeiro de 2024, os prazos previstos nos n.ºs
+    2 a 4 do artigo 6.º pelo(a) Decreto-Lei n.º 17/2024 - Diário da República n.º 20/2024, Série I de 2024-01-29, nos termos
+    do seu artigo 158.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-2024-839477381
+  date: '2024-01-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/20-b/2023/03/22/p/dre
   label: null
@@ -95,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/56/2023/10/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/56/2023/10/06/p/dre
+- type: cites
+  target: pt:dre:210543863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222477692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222645051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:32Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +184,9 @@ Os artigos 4.º, 5.º, 6.º, 8.º, 9.º e 10.º do [Decreto-Lei n.º 20-B/2023](
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -179,7 +208,9 @@ d) Os montantes de prestações sociais reportadas na declaração modelo 43.
 
 6 - Nos casos previstos no n.º 3 do artigo anterior, é considerado o total de rendimentos apurados pela Caixa Geral de Aposentações ou pela Fundação para a Ciência e a Tecnologia, I. P., conforme aplicável, para o agregado familiar titular do contrato, com base nos três meses precedentes.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -193,7 +224,9 @@ d) Os montantes de prestações sociais reportadas na declaração modelo 43.
 
 6 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -235,7 +268,9 @@ c) Faturas emitidas pelo senhorio ao inquilino.
 
 15 - Nos casos em que a informação prestada seja validada, nos termos previstos nos n.os 11 a 14, o IHRU, I. P., procede ao recálculo do valor do apoio e comunica-o à segurança social, até ao dia 5 de cada mês, para posterior processamento dos pagamentos com efeitos retroativos a janeiro do ano civil a que respeita a validação.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -255,7 +290,9 @@ c) O número de identificação fiscal dos locatários sujeitos a validação pr
 
 6 - A segurança social transmite ao IHRU, I. P., mensalmente, informação relativa ao processamento dos pagamentos, bem como a identificação dos beneficiários a quem não foi possível efetuar o pagamento por falta de informação relativa ao IBAN.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Depois de aferidos a elegibilidade e o valor do apoio, nos termos dos artigos 8.º e 9.º, a AT informa os beneficiários dos dados considerados para o apuramento do apoio, o respetivo montante e duração, bem como, nos casos previstos no n.º 6 do artigo 8.º, da necessidade de validação prévia no portal da habitação.
 
@@ -277,7 +314,9 @@ Rendimentos abrangidos
 
 2 - O disposto no número anterior tem caráter interpretativo, ficando salvaguardados todos os efeitos já produzidos decorrentes da execução do presente decreto-lei, nos termos do n.º 1 do artigo 13.º do Código Civil.
 
-###### Artigo 10.º-A — Reclamações e pedidos de esclarecimento
+Artigo 10.º-A
+
+Reclamações e pedidos de esclarecimento
 
 1 - Sem prejuízo do disposto no n.º 6 e seguintes do artigo 8.º, os beneficiários do apoio podem apresentar reclamações e pedidos de esclarecimento junto do IHRU, I. P., no portal da habitação, no prazo de 60 dias contados da comunicação prevista no n.º 1 do artigo anterior.
 
@@ -287,11 +326,15 @@ Rendimentos abrangidos
 
 4 - Sempre que da informação prestada resultem alterações decorrentes do valor do apoio ou da respetiva elegibilidade, o IHRU, I. P., procede ao cálculo ou recálculo do apoio, conforme aplicável, e comunica-o à segurança social até ao dia 5 de cada mês, para posterior processamento dos pagamentos com efeitos retroativos ao momento a partir do qual se verificam tais alterações, com a correspondente compensação em prestações futuras do apoio, quando aplicável.
 
-###### Artigo 24.º-A — Exceção à aplicação da condição de recursos
+Artigo 24.º-A
+
+Exceção à aplicação da condição de recursos
 
 Ao apoio extraordinário à renda previsto no presente decreto-lei não é aplicável a condição de recursos prevista no [Decreto-Lei n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2010-335683), de 16 de junho, na sua redação atual.
 
-###### Artigo 24.º-B — Exceção ao conceito de rendimento disponível no âmbito do Código da Insolvência e Recuperação de Empresas
+Artigo 24.º-B
+
+Exceção ao conceito de rendimento disponível no âmbito do Código da Insolvência e Recuperação de Empresas
 
 O apoio extraordinário à renda previsto no presente decreto-lei não constitui rendimento disponível para efeitos do regime de cessão de rendimento disponível, previsto no artigo 239.º do Código da Insolvência e Recuperação de Empresas, aprovado em anexo ao [Decreto-Lei n.º 53/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2004-538423), de 18 de março, na sua redação atual.»
 
@@ -347,12 +390,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de outubro de 2023. - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - Gabriel Gameiro Rodrigues Bastos - Marina Sola Gonçalves.
 
-**Promulgado em 7 de novembro de 2023.**
+Promulgado em 7 de novembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de novembro de 2023.**
+Referendado em 9 de novembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+117046875

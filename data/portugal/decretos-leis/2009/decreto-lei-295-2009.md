@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/295/2009/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-2009-491731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8a5db835cbbdc3b739857e148c5b2dad83a68f8d6133e4f32677bda2d8279b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6a92d5fb76c00a902588f56990ee5bafc15364e8acdc65669fbd3f0a6ed676d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,46 +66,100 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
 - Acidente de Trabalho
 - Ajuda Judicial
-- Eleição
-- Código de Processo do Trabalho
-- Competência Jurisdicional
-- Definição de Competências
-- Despedimento
 - Associação Patronal
 - Associação Sindical
+- Código de Processo do Trabalho
 - Comissão de Trabalhadores
-- Direito do Trabalho
+- Competência Jurisdicional
+- Condições de Higiene e Segurança no Trabalho
+- Contrato de Trabalho
 - Convenção Coletiva de Trabalho
-- Processo Laboral
-- Tribunal do Trabalho
-- Pagamento
+- Definição de Competências
+- Despedimento
+- Direito do Trabalho
+- Direitos do Indivíduo
+- Eleição
+- Exame Médico
 - Impugnação
+- Incapacidade Permanente
 - Instituições de Previdência Social
-- Transmissão da Propriedade
 - Julgamento
 - Junta Médica
 - Legalidade
-- Direitos do Indivíduo
 - Liquidação de Sociedades
-- Exame Médico
-- Notificação
-- Reclamação
-- Contrato de Trabalho
-- Condições de Higiene e Segurança no Trabalho
 - Ministério Público
+- Notificação
+- Pagamento
+- Processo Laboral
+- Reclamação
+- Recurso
 - Reintegração de Pessoal
 - Remuneração
 - Representação dos Trabalhadores
 - Segurança Social
-- Incapacidade Permanente
+- Transmissão da Propriedade
+- Tribunal do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:124539902:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:499519:por
+  label: "Alterado o art. 26º do Código de Processo do Trabalho, aprovado pelo Dec Lei 480/99, de 09-nov, na redação do presente\
+    \ diploma, pela LEI.63/2013.27.08.2013.AR, DR.IS [164] de 27.08.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/63-2013-499519
+  date: '2013-08-27'
+- type: amended_by
+  target: pt:dre:107693725:por
+  label: Alterados, a partir de 01.08.2017, os arts. 5.º-A e 186.º-O (o último na redação da Lei 63/2013 de 27-ago) e aditado
+    o art. 186.º-S ao cap. VIII do tít. VI do livro I do Código de Processo do Trabalho, aprovado pelo Dec Lei 480/99 de 09-nov,
+    na versão republicada pelo presente diploma, pelo(a) Lei n.º 55/2017 - Diário da República n.º 136/2017, Série I de 2017-07-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-2017-107693725
+  date: '2017-07-17'
+- type: amended_by
+  target: pt:dre:108001409:por
+  label: Alterado, a partir de 01.10.2017, o art. 66.º do Código de Processo do Trabalho aprovado pelo Dec Lei 480/99 de 09-nov,
+    na versão republicada do Código pelo presente diploma, pelo(a) Lei n.º 73/2017 - Diário da República n.º 157/2017, Série
+    I de 2017-08-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/73-2017-108001409
+  date: '2017-08-16'
+- type: amended_by
+  target: pt:dre:124539902:por
+  label: 'Alterados, a partir de 09.10.2019, os arts. 5.º-A (com a redação dada pela Lei 55/2017 de 17-jul), 7.º, 10.º, 12.º
+    a 22.º, 25.º a 27.º (o art. 26.º com a redação dada pela Lei 63/2013 de 27-ago), 28.º, 30.º a 34.º, 36.º, 38.º a 40.º-A,
+    44.º, 49.º a 51.º, 54.º, 56.º, 58.º, 60.º, 61.º, 62.º, 64.º, 66.º (este com a redação dada pela Lei 73/2017 de 16-ago)
+    a 68.º, 70.º, 72.º a 74.º, 77.º, 79.º a 83.º-A, 88.º, 90.º, 98.º-C, 98.º-D, 98.º-F, 98.º-G, 98.º-H, 98.º-J, 98.º-L, 98.º-O,
+    100.º, 104.º, 105.º, 107.º, 121.º, 122.º, 127.º, 131.º, 134.º, 137.º, 139.º, 148.º, 150.º, 155.º, 156.º, 160.º a 162.º,
+    170.º, 172.º, 185.º, 186.º-E, 186.º-F, 186.º-H, 186.º-K, 186.º-L, 186.º-N (os últimos três com a redação dada pela Lei
+    63/2013 de 27-ago), 186.º-O (com a redação dada pela Lei 63/2013 de 27-ago e pela Lei 55/2017 de 17-jul), 186.º-Q (com
+    a redação dada pela Lei 63/2013 de 27-ago) e 186.º-S (aditado pela Lei 55/2017 de 17-jul); aditados, a partir daquela
+    data, os arts. 19.º-A, 33.º-A, 36.º-A, 78.º-A e 201.º; introduzidas, também a partir da mesma data, as seguintes alterações
+    sistemáticas: a secção II do cap. II do tít. II do livro I passa a ser composta pelos arts. 13.º a 19.º-A; a subsecção
+    I da secção II do cap. IV do tít. III do livro I passa a ser composta pelos arts. 33.º-A a 40.º-A; a subsecção III da
+    secção II do cap. IV do tít. III do livro I passa a denominar-se «Proteção da segurança e saúde no trabalho»; o tít. IV
+    do livro I passa a denominar-se «Processo comum de declaração» e a ser composto por sete capítulos, não divididos em secções,
+    nos seguintes termos: o cap. I com a epígrafe «Tentativa de conciliação» e composto pelos artigos 51.º a 53.º; o cap.
+    II com a epígrafe «Articulados» e composto pelos arts. 54.º a 60.º-A; o cap. III com a epígrafe «Gestão inicial do processo
+    e audiência prévia» e composto pelos artigos 61.º e 62.º; o cap. IV com a epígrafe «Instrução» e composto pelos artigos
+    63.º a 67.º; o cap. V com a epígrafe «Audiência final» e composto pelos artigos 68.º a 72.º; o capítulo VI com a epígrafe
+    «Sentença» e composto pelos artigos 73.º a 78.º-A; o cap. VII com a epígrafe «Recursos» e composto pelos artigos 79.º
+    a 87.º; o tít. V do livro I passa a estar dividido em quatro capítulos, nos seguintes termos: o capít. I com a epígrafe
+    «Título executivo» e composto pelo artigo 88.º; o cap. II com a epígrafe «Execução baseada em sentença de condenação em
+    quantia certa» e composto pelos artigos 89.º a 96.º; o cap. III com a epígrafe «Execução baseada em outros títulos» e
+    composto pelo artigo 97.º, o qual se encontra revogado; o cap. IV com a epígrafe «Disposições finais» e composto pelos
+    artigos 98.º e 98.º-A; o livro II (revogado anteriormente pelo presente diploma) é reintroduzido com a epígrafe «Do processo
+    de contraordenação», não tendo divisão interna e sendo composto pelo art. 201.º; e revogados, ainda a partir de 09.10.2019,
+    o n.º 3 do art. 24.º, o art. 65.º, os n.ºs 3 a 5 do art. 68.º, o art. 69.º, o n.º 4 do art. 70.º, os n.ºs 4 e 5 do art.
+    72.º, os n.ºs 3 a 5 do art. 82.º, a al. d) do n.º 1 do art. 131.º, o art. 143.º, o n.º 4 do art. 146.º, o n.º 2 do art.
+    151.º, os arts. 173.º a 182.º (que se aplica apenas às ações instauradas após 09.10.2019) e o art. 186.º-J, bem como o
+    título VII do livro I, todos do Código de Processo do Trabalho, aprovado pelo Dec Lei 480/ 99 de 09-nov, na versão republicada
+    pelo presente diploma, pelo(a) Lei n.º 107/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09, que republicou
+    aquele Código na redação atual.'
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/107-2019-124539902
+  date: '2019-09-09'
 - type: cites
   target: eli:htt
   label: null
@@ -150,16 +204,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683065:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:482598:por
+  label: "Rectificados o nº 2 do art. 3º, que introduziu alterações à organização sistemática do Código de Processo de Trabalho,\
+    \ aprovado pelo Dec Lei 480/99 de 09-Nov (aditando uma al. f) que procede à supressão do cap. ii do tít. v: 'Execução\
+    \ baseada em outros títulos'); o art. 4º, que alterou o art. 85º da Lei 3/99 de 13-Jan; ao art. 5º (alterou o art. 118º\
+    \ da Lei 52/2008 de 28-Ago); o nº 2 do art. 7 º (revogou o livro II do referido Código - esta revogação passa a efectuar-se\
+    \ a partir de 01.01.2010); e o anexo (republicou o Código de Processo de Trabalho) pela DECL-RECT.86/2009.23.11.2009.PCM,\
+    \ DR.IS [227] de 23.11.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/86-2009-482598
+  date: '2009-11-23'
 article_structure:
-  article_count: 342
-  section_count: 73
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 244
+  section_count: 56
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:56Z'
   warnings: []
   errors: []
 ---
@@ -234,7 +342,9 @@ Os artigos 4.º, 5.º, 10.º, 13.º, 15.º, 18.º, 21.º, 24.º, 26.º, 30.º, 3
 
 As associações sindicais e as associações de empregadores outorgantes de convenções colectivas de trabalho, bem como os trabalhadores e os empregadores directamente interessados, são partes legítimas nas acções respeitantes à anulação e interpretação de cláusulas daquelas convenções.
 
-###### Artigo 5.º — Legitimidade de estruturas de representação colectiva dos trabalhadores e de associações de empregadores
+Artigo 5.º
+
+Legitimidade de estruturas de representação colectiva dos trabalhadores e de associações de empregadores
 
 1 - As associações sindicais e de empregadores são partes legítimas como autoras nas acções relativas a direitos respeitantes aos interesses colectivos que representam.
 
@@ -254,7 +364,9 @@ c) ...
 
 6 - As estruturas de representação colectiva dos trabalhadores são parte legítima como autor nas acções em que estejam em causa a qualificação de informações como confidenciais ou a recusa de prestação de informação ou de realização de consultas por parte do empregador.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Na competência internacional dos tribunais do trabalho estão incluídos os casos em que a acção pode ser proposta em Portugal, segundo as regras de competência territorial estabelecidas neste Código, ou de terem sido praticados em território português, no todo ou em parte, os factos que integram a causa de pedir na acção.
 
@@ -264,13 +376,17 @@ a) Os casos de destacamento para outros Estados de trabalhadores contratados por
 
 b) As questões relativas a conselhos de empresas europeus e procedimentos de informação e consulta em que a administração do grupo esteja sediada em Portugal ou que respeita a empresa do grupo sediada em Portugal.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
 2 - As entidades empregadoras ou seguradoras, bem como as instituições de previdência, consideram-se também domiciliadas no lugar onde tenham sucursal, agência, filial, delegação ou representação.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -284,7 +400,7 @@ b) As questões relativas a conselhos de empresas europeus e procedimentos de in
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 18.º
+Artigo 18.º
 
 Acções de liquidação e partilha de bens de instituições de previdência, de associações sindicais, de associações de empregadores ou de comissões de trabalhadores e outras em que sejam requeridas essas instituições, associações ou comissões.
 
@@ -292,7 +408,9 @@ Acções de liquidação e partilha de bens de instituições de previdência, d
 
 2 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 ...
 
@@ -322,7 +440,9 @@ Acções de liquidação e partilha de bens de instituições de previdência, d
 
 13.ª (Anterior 12.ª)
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -332,7 +452,9 @@ Acções de liquidação e partilha de bens de instituições de previdência, d
 
 4 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Têm natureza urgente:
 
@@ -360,13 +482,17 @@ h) As acções relativas à igualdade e não discriminação em função do sexo
 
 5 - Na acção de impugnação da regularidade e licitude do despedimento, a instância inicia-se com o recebimento do requerimento a que se refere o n.º 2 do artigo 387.º do Código do Trabalho.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 3 do artigo 98.º-L, a reconvenção é admissível quando o pedido do réu emerge do facto jurídico que serve de fundamento à acção e nos casos referidos na alínea p) do artigo 85.º da [Lei n.º 3/99](https://diariodarepublica.pt/dr/detalhe/lei/3-1999-196220), de 13 de Janeiro, ou na alínea p) do artigo 118.º da [Lei n.º 52/2008](https://diariodarepublica.pt/dr/detalhe/lei/52-2008-453251), de 28 de Agosto, desde que, em qualquer dos casos, o valor da causa exceda a alçada do tribunal.
 
 2 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -376,7 +502,9 @@ h) As acções relativas à igualdade e não discriminação em função do sexo
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - Apresentado o requerimento inicial no prazo previsto no artigo 386.º do Código do Trabalho, o juiz ordena a citação do requerido para se opor, querendo, e designa no mesmo acto data para a audiência final, que deve realizar-se no prazo de 15 dias.
 
@@ -386,13 +514,17 @@ h) As acções relativas à igualdade e não discriminação em função do sexo
 
 4 - A impugnação judicial da regularidade e licitude do despedimento deve ser requerida no requerimento inicial, caso não tenha ainda sido apresentado o formulário referido no artigo 98.º-C, sob pena de extinção do procedimento cautelar.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - As partes podem apresentar qualquer meio de prova, sendo limitado a três o número de testemunhas por parte.
 
 2 - O tribunal pode, oficiosamente ou a requerimento fundamentado das partes, determinar a produção de quaisquer provas que considere indispensáveis à decisão.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - As partes devem comparecer pessoalmente na audiência final ou, em caso de justificada impossibilidade de comparência, fazer-se representar por mandatário com poderes especiais para confessar, desistir ou transigir.
 
@@ -402,7 +534,9 @@ h) As acções relativas à igualdade e não discriminação em função do sexo
 
 4 - Requerida a impugnação judicial da regularidade e licitude do despedimento, aplica-se o disposto no n.º 4 do artigo 98.º-F, sendo dispensada a tentativa de conciliação referida no n.º 2.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Na falta de comparência injustificada do requerente, ou de ambas as partes, sem que se tenham feito representar por mandatário com poderes especiais, a providência é logo indeferida.
 
@@ -410,13 +544,17 @@ h) As acções relativas à igualdade e não discriminação em função do sexo
 
 3 - Se alguma ou ambas as partes faltarem justificadamente e não se fizerem representar por mandatário com poderes especiais, o juiz decide nos termos da segunda parte do número anterior.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - Se o requerido não cumprir injustificadamente o disposto nos n.os 2 e 3 do artigo 34.º, a providência é decretada.
 
 2 - Se o não cumprimento for justificado até ao termo do prazo da oposição, o juiz decide com base nos elementos constantes dos autos e na prova que oficiosamente determinar.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - A suspensão é decretada se o tribunal, ponderadas todas as circunstâncias relevantes, concluir pela probabilidade séria de ilicitude do despedimento, designadamente quando o juiz conclua:
 
@@ -430,7 +568,9 @@ c) Nos casos de despedimento colectivo, pela provável inobservância das formal
 
 3 - A execução, com trato sucessivo, segue os termos do artigo 90.º, com as necessárias adaptações.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - Da decisão final cabe sempre recurso de apelação para a Relação.
 
@@ -438,19 +578,25 @@ c) Nos casos de despedimento colectivo, pela provável inobservância das formal
 
 3 - ...
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - Apresentado o requerimento, o juiz pode determinar a realização, pela entidade com competência inspectiva em matéria laboral, de exame sumário às instalações, locais e processos de trabalho, com vista à detecção dos perigos alegados pelo requerente.
 
 2 - ...
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - ...
 
 2 - O decretamento das providências não prejudica a responsabilidade civil, criminal ou contra-ordenacional que ao caso couber, nos termos da lei.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - ...
 
@@ -460,11 +606,15 @@ c) Nos casos de despedimento colectivo, pela provável inobservância das formal
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 67.º — Inquirição de testemunhas
+Artigo 67.º
+
+Inquirição de testemunhas
 
 As testemunhas depõem na audiência final, presencialmente ou através de teleconferência, nos termos do Código de Processo Civil, sem prejuízo de o juiz poder ordenar, oficiosamente ou a requerimento das partes, que sejam ouvidas presencialmente as testemunhas que residam na área de competência territorial do tribunal.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - ...
 
@@ -476,7 +626,9 @@ As testemunhas depõem na audiência final, presencialmente ou através de telec
 
 5 - ...
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - Feita a chamada das pessoas que tenham sido convocadas, o juiz procura conciliar as partes.
 
@@ -486,13 +638,17 @@ As testemunhas depõem na audiência final, presencialmente ou através de telec
 
 4 - (Anterior n.º 2.)
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - Sempre que a acção tenha por objecto o cumprimento de obrigação pecuniária, o juiz deve orientá-la por forma que a sentença, quando for condenatória, possa fixar em quantia certa a importância devida.
 
 2 - No caso em que tenha sido deduzido o montante do subsídio de desemprego nos termos da alínea c) do n.º 2 do artigo 390.º do Código do Trabalho, o tribunal deve comunicar a decisão ao serviço competente do ministério responsável pela área da segurança social.
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - ...
 
@@ -500,11 +656,15 @@ As testemunhas depõem na audiência final, presencialmente ou através de telec
 
 3 - ...
 
-###### Artigo 79.º — Decisões que admitem sempre recurso
+Artigo 79.º
+
+Decisões que admitem sempre recurso
 
 ...
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - O prazo de interposição do recurso de apelação ou de revista é de 20 dias.
 
@@ -512,7 +672,9 @@ As testemunhas depõem na audiência final, presencialmente ou através de telec
 
 3 - Se o recurso tiver por objecto a reapreciação da prova gravada, aos prazos referidos na parte final dos números anteriores acrescem 10 dias.
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - ...
 
@@ -524,7 +686,9 @@ As testemunhas depõem na audiência final, presencialmente ou através de telec
 
 5 - À interposição do recurso de revista aplica-se o regime estabelecido no Código de Processo Civil.
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - ...
 
@@ -536,7 +700,9 @@ As testemunhas depõem na audiência final, presencialmente ou através de telec
 
 5 - Decidida a admissibilidade ou tempestividade do recurso, este seguirá os seus termos normais.
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1 - A apelação tem efeito meramente devolutivo, sem necessidade de declaração.
 
@@ -548,7 +714,9 @@ As testemunhas depõem na audiência final, presencialmente ou através de telec
 
 5 - O incidente de prestação de caução referido no n.º 1 é processado nos próprios autos.
 
-###### Artigo 87.º — [...]
+Artigo 87.º
+
+[...]
 
 1 - O regime do julgamento dos recursos é o que resulta, com as necessárias adaptações, das disposições do Código de Processo Civil que regulamentam o julgamento do recurso de apelação e de revista.
 
@@ -556,7 +724,9 @@ As testemunhas depõem na audiência final, presencialmente ou através de telec
 
 3 - ...
 
-###### Artigo 90.º — Execução de direitos irrenunciáveis
+Artigo 90.º
+
+Execução de direitos irrenunciáveis
 
 1 - Tratando-se de direitos irrenunciáveis, o autor tem o prazo de 30 dias após o trânsito em julgado da sentença de condenação em quantia certa, prorrogável pelo juiz, para iniciar a execução do título executivo.
 
@@ -570,13 +740,17 @@ As testemunhas depõem na audiência final, presencialmente ou através de telec
 
 6 - (Revogado.)
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - ...
 
 2 - Quando a participação seja feita por uma entidade seguradora, deve ser acompanhada de toda a documentação clínica e nosológica disponível, de cópia da apólice e seus adicionais em vigor, bem como da declaração de remunerações do mês anterior ao do acidente, de nota discriminativa das incapacidades e internamentos e de cópia dos documentos comprovativos das indemnizações pagas desde o acidente.
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - Recebida a participação, se for caso de morte, o Ministério Público, conforme as circunstâncias, determina a realização da autópsia ou a junção aos autos do respectivo relatório e ordena as diligências indispensáveis à determinação dos beneficiários legais dos sinistrados e à obtenção das provas de parentesco.
 
@@ -590,19 +764,25 @@ As testemunhas depõem na audiência final, presencialmente ou através de telec
 
 6 - ...
 
-###### Artigo 101.º — Processamento nos restantes casos de incapacidade permanente
+Artigo 101.º
+
+Processamento nos restantes casos de incapacidade permanente
 
 1 - No caso de ter resultado do acidente incapacidade permanente, o Ministério Público solicita aos serviços médico-legais a realização de perícia médica, seguida de tentativa de conciliação.
 
 2 - Se com a participação for junto acordo ou se este for apresentado até à data designada, o Ministério Público dispensa a tentativa de conciliação; se, porém, a perícia médica, as declarações do sinistrado, que nessa ocasião deve tomar, e as diligências a que proceder não confirmarem as bases em que o mesmo acordo tenha sido elaborado, designa data para a tentativa de conciliação.
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 1 - Se o sinistrado ainda não estiver curado quando for recebida a participação e estiver sem tratamento adequado ou sem receber a indemnização devida por incapacidade temporária, o Ministério Público solicita perícia médica, seguida de tentativa de conciliação, nos termos do artigo 108.º; o mesmo se observa no caso de o sinistrado se não conformar com a alta, a natureza da incapacidade ou o grau de desvalorização por incapacidade temporária que lhe tenha sido atribuído, ou ainda se esta se prolongar por mais de 12 meses.
 
 2 - Se o sinistrado, quando vier a juízo, se declarar curado sem desvalorização e apenas reclamar a indemnização devida por incapacidade temporária, ou qualquer outra quantia a que acessoriamente tiver direito, pode ser dispensada a perícia médica.
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 1 - ...
 
@@ -620,7 +800,9 @@ d) ...
 
 4 - Sempre que, em resultado de um acidente, não seja de excluir a existência de responsabilidade criminal, o Ministério Público deve dar conhecimento do facto ao foro criminal competente, remetendo, nomeadamente, o inquérito elaborado pela entidade com competência inspectiva em matéria laboral.
 
-###### Artigo 105.º — Perícia médica
+Artigo 105.º
+
+Perícia médica
 
 1 - O local e a competência para a realização da perícia médica são definidos nos termos da lei que estabelece o regime jurídico da realização das perícias médico-legais e forenses.
 
@@ -630,7 +812,9 @@ d) ...
 
 4 - A perícia é secreta, podendo o Ministério Público, em qualquer caso, propor questões sempre que o seu resultado lhe ofereça dúvidas; o resultado da perícia é notificado, sem necessidade de despacho, ao sinistrado e às pessoas convocadas para a tentativa de conciliação.
 
-###### Artigo 106.º — [...]
+Artigo 106.º
+
+[...]
 
 1 - No relatório pericial, o perito médico deve indicar o resultado da sua observação clínica, incluindo o relato do evento fornecido pelo sinistrado e a apreciação circunstanciada dos elementos constantes do processo, a natureza das lesões sofridas, a data de cura ou consolidação, as sequelas e as incapacidades correspondentes, ainda que sob reserva de confirmação ou alteração do seu parecer após obtenção de outros elementos clínicos ou auxiliares de diagnóstico.
 
@@ -638,11 +822,15 @@ d) ...
 
 3 - Se a perícia não for imediatamente seguida de tentativa de conciliação, o Ministério Público, finda aquela, toma declarações ao sinistrado sobre as circunstâncias em que o acidente ocorreu e mais elementos necessários à realização daquela tentativa ou à confirmação do acordo extrajudicial que tenha sido apresentado.
 
-###### Artigo 107.º — Perícia aos beneficiários legais
+Artigo 107.º
+
+Perícia aos beneficiários legais
 
 ...
 
-###### Artigo 108.º — [...]
+Artigo 108.º
+
+[...]
 
 1 - À tentativa de conciliação são chamadas, além do sinistrado ou dos seus beneficiários legais, as entidades empregadoras ou seguradoras, conforme os elementos constantes da participação.
 
@@ -656,17 +844,23 @@ d) ...
 
 6 - Nos tribunais sediados nas áreas metropolitanas de Lisboa e do Porto não há lugar à deprecada para exame médico e tentativa de conciliação.
 
-###### Artigo 109.º — [...]
+Artigo 109.º
+
+[...]
 
 Na tentativa de conciliação, o Ministério Público promove o acordo de harmonia com os direitos consignados na lei, tomando por base os elementos fornecidos pelo processo, designadamente o resultado da perícia médica e as circunstâncias que possam influir na capacidade geral de ganho do sinistrado.
 
-###### Artigo 110.º — [...]
+Artigo 110.º
+
+[...]
 
 1 - Quando o grau de incapacidade fixado tiver carácter provisório ou temporário, o acordo tem também, na parte que se lhe refere, validade provisória ou temporária e o Ministério Público rectifica as pensões ou indemnizações segundo o resultado das perícias ulteriores, notificando dessas rectificações as entidades responsáveis; as rectificações consideram-se como fazendo parte do acordo.
 
 2 - Se na última perícia médica vier a ser atribuída à incapacidade natureza permanente e fixado um grau de desvalorização não provisório ou se o sinistrado for dado como curado sem desvalorização, realiza-se nova tentativa de conciliação e seguem-se os demais termos do processo.
 
-###### Artigo 114.º — [...]
+Artigo 114.º
+
+[...]
 
 1 - ...
 
@@ -674,7 +868,9 @@ Na tentativa de conciliação, o Ministério Público promove o acordo de harmon
 
 3 - ...
 
-###### Artigo 117.º — [...]
+Artigo 117.º
+
+[...]
 
 1 - A fase contenciosa tem por base:
 
@@ -686,7 +882,9 @@ b) Requerimento, a que se refere o n.º 2 do artigo 138.º, do interessado que s
 
 3 - ...
 
-###### Artigo 120.º — [...]
+Artigo 120.º
+
+[...]
 
 1 - Nos processos de acidentes de trabalho, tratando-se de pensões, o valor da causa é igual ao do resultado da multiplicação de cada pensão pela respectiva taxa constante das tabelas práticas aplicáveis ao cálculo do capital da remição, acrescido das demais prestações.
 
@@ -694,23 +892,31 @@ b) Requerimento, a que se refere o n.º 2 do artigo 138.º, do interessado que s
 
 3 - ...
 
-###### Artigo 125.º — [...]
+Artigo 125.º
+
+[...]
 
 1 - O juiz pode determinar, em qualquer altura do processo, que a entidade que anteriormente tiver custeado o tratamento do sinistrado continue a suportar esse encargo, quando este o pedir em requerimento fundamentado e for de entender que o pedido é fundado à face dos exames, perícias e outros elementos constantes do processo e diligências que repute necessárias, sem prejuízo do disposto no n.º 5 do artigo 121.º
 
 2 - ...
 
-###### Artigo 134.º — [...]
+Artigo 134.º
+
+[...]
 
 Os peritos médicos comparecem na audiência de discussão e julgamento quando o juiz o determinar, sempre que a sua audição não possa ou não deva ter lugar através dos meios técnicos processualmente previstos.
 
-###### Artigo 138.º — [...]
+Artigo 138.º
+
+[...]
 
 1 - Quando não se conformar com o resultado da perícia realizada na fase conciliatória do processo, a parte requer, na petição inicial ou na contestação, perícia por junta médica.
 
 2 - Se na tentativa de conciliação apenas tiver havido discordância quanto à questão da incapacidade, o pedido de junta médica é deduzido em requerimento a apresentar no prazo a que se refere o n.º 1 do artigo 119.º; se não for apresentado, o juiz profere decisão sobre o mérito, fixando a natureza e grau de incapacidade e o valor da causa, observando-se o disposto no n.º 3 do artigo 73.º
 
-###### Artigo 139.º — Perícias
+Artigo 139.º
+
+Perícias
 
 1 - A perícia por junta médica, constituída por três peritos, tem carácter urgente, é secreta e presidida pelo juiz.
 
@@ -728,7 +934,9 @@ Os peritos médicos comparecem na audiência de discussão e julgamento quando o
 
 8 - É aplicável, com as necessárias adaptações, o disposto no n.º 1 do artigo 105.º
 
-###### Artigo 140.º — [...]
+Artigo 140.º
+
+[...]
 
 1 - Se a fixação da incapacidade tiver lugar no processo principal, o juiz profere decisão sobre o mérito, realizadas as perícias referidas no artigo anterior, fixando a natureza e grau de incapacidade e o valor da causa, observando-se o disposto no n.º 3 do artigo 73.º
 
@@ -736,7 +944,9 @@ Os peritos médicos comparecem na audiência de discussão e julgamento quando o
 
 3 - ...
 
-###### Artigo 145.º — [...]
+Artigo 145.º
+
+[...]
 
 1 - Quando for requerida a revisão da incapacidade, o juiz manda submeter o sinistrado a perícia médica.
 
@@ -754,7 +964,9 @@ Os peritos médicos comparecem na audiência de discussão e julgamento quando o
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 146.º — [...]
+Artigo 146.º
+
+[...]
 
 1 - Se a entidade responsável pretender discutir a responsabilidade total ou parcial do agravamento e a questão só puder ser decidida com a produção de outros meios de prova, assim o declarará no prazo fixado para requerer perícia por junta médica e apresentará dentro de 10 dias a sua alegação e meios de prova; se for requerida perícia, o prazo conta-se a partir da realização deste.
 
@@ -764,7 +976,9 @@ Os peritos médicos comparecem na audiência de discussão e julgamento quando o
 
 4 - ...
 
-###### Artigo 148.º — [...]
+Artigo 148.º
+
+[...]
 
 1 - ...
 
@@ -776,7 +990,9 @@ Os peritos médicos comparecem na audiência de discussão e julgamento quando o
 
 5 - Nos tribunais sediados nas áreas metropolitanas de Lisboa e do Porto não há lugar à deprecada para a entrega do capital da remição.
 
-###### Artigo 152.º — [...]
+Artigo 152.º
+
+[...]
 
 1 - ...
 
@@ -784,13 +1000,17 @@ Os peritos médicos comparecem na audiência de discussão e julgamento quando o
 
 3 - ...
 
-###### Artigo 162.º — [...]
+Artigo 162.º
+
+[...]
 
 1 - Os processos do contencioso de instituições de previdência, abono de família, associações sindicais, associações de empregadores ou comissões de trabalhadores seguem os termos do processo comum previsto neste Código, salvo o disposto nos artigos seguintes.
 
 2 - ...
 
-###### Artigo 164.º — [...]
+Artigo 164.º
+
+[...]
 
 1 - As deliberações e outros actos de órgãos de instituições de previdência, associações sindicais, associações de empregadores ou comissões de trabalhadores viciados por violação da lei, quer de fundo quer de forma, ou violação dos estatutos podem ser declarados inválidos em acção intentada por quem tenha interesse legítimo, salvo se dos mesmos couber recurso.
 
@@ -798,23 +1018,31 @@ Os peritos médicos comparecem na audiência de discussão e julgamento quando o
 
 3 - ...
 
-###### Artigo 165.º — [...]
+Artigo 165.º
+
+[...]
 
 1 - O juiz manda citar o réu e ordena que este apresente os documentos relativos à situação objecto de impugnação que ainda não tenham sido juntos aos autos.
 
 2 - ...
 
-###### Artigo 168.º — Suspensão de eficácia
+Artigo 168.º
+
+Suspensão de eficácia
 
 Se na petição inicial o autor requerer a suspensão de eficácia dos actos ou disposições impugnados, demonstrando que da sua execução pode resultar dano apreciável, o juiz pode decretar a suspensão nesse momento ou após a contestação.
 
-###### Artigo 173.º — [...]
+Artigo 173.º
+
+[...]
 
 1 - A liquidação e a partilha de bens de instituições de previdência, de associações sindicais, de associações de empregadores ou de comissões de trabalhadores efectuam-se como estiver determinado na lei e nos estatutos.
 
 2 - ...
 
-###### Artigo 174.º — [...]
+Artigo 174.º
+
+[...]
 
 1 - A entrada em liquidação de instituições de previdência, de associações sindicais, de associações de empregadores ou de comissões de trabalhadores é participada ao tribunal pela última direcção, ou pelo presidente da mesa da assembleia geral, no prazo de 30 dias a contar do acto que tenha determinado a dissolução.
 
@@ -822,19 +1050,25 @@ Se na petição inicial o autor requerer a suspensão de eficácia dos actos ou 
 
 3 - Quando a lei ou os estatutos determinem a transferência global do património para outra instituição, associação ou comissão, compete à última direcção, havendo-a, efectuar essa transferência.
 
-###### Artigo 180.º — [...]
+Artigo 180.º
+
+[...]
 
 1 - O juiz pode determinar que todos ou alguns dos liquidatários se mantenham em funções por um prazo não superior a três anos, contados desde a aprovação das contas da partilha, apenas para efeitos de representarem a instituição, associação ou comissão em juízo ou fora dele ou ainda para efectivarem direitos ou satisfazerem obrigações de que só haja conhecimento depois de efectuada a partilha ou cuja subsistência o juiz tenha entendido não dever impedir a partilha.
 
 2 - Se durante o período referido no número anterior não findar algum processo em que a instituição, associação ou comissão sejam partes, o liquidatário mantém-se em funções até ao termo do processo.
 
-###### Artigo 181.º — [...]
+Artigo 181.º
+
+[...]
 
 1 - Se não for possível apurar quais sejam as pessoas que, segundo os estatutos, têm direito à partilha do saldo, feita a nomeação de liquidatários, seguem-se os termos aplicáveis do processo especial de liquidação no caso de herança vaga em benefício do Estado, previsto no Código de Processo Civil.
 
 2 - ...
 
-###### Artigo 185.º — [...]
+Artigo 185.º
+
+[...]
 
 1 - ...
 
@@ -852,7 +1086,9 @@ Capacidade judiciária das estruturas de representação colectiva dos trabalhad
 
 As estruturas de representação colectiva dos trabalhadores, ainda que destituídas de personalidade jurídica, gozam de capacidade judiciária activa e passiva.
 
-###### Artigo 5.º-A — Legitimidade do Ministério Público
+Artigo 5.º-A
+
+Legitimidade do Ministério Público
 
 O Ministério Público tem legitimidade activa nas seguintes acções:
 
@@ -860,11 +1096,15 @@ a) Acções relativas ao controlo da legalidade da constituição e dos estatuto
 
 b) Acções de anulação e interpretação de cláusulas de convenções colectivas de trabalho nos termos do artigo 479.º do Código do Trabalho.
 
-###### Artigo 27.º-A — Mediação
+Artigo 27.º-A
+
+Mediação
 
 Ao processo de trabalho aplicam-se, com as necessárias adaptações, os artigos relativos à mediação previstos no Código de Processo Civil.
 
-###### Artigo 40.º-A — Caducidade da providência
+Artigo 40.º-A
+
+Caducidade da providência
 
 O procedimento cautelar extingue-se e, quando decretada, a providência caduca:
 
@@ -872,19 +1112,25 @@ a) Se o trabalhador não propuser a acção de impugnação de despedimento cole
 
 b) Nos demais casos previstos no Código de Processo Civil que não sejam incompatíveis com a natureza do processo do trabalho.
 
-###### Artigo 60.º-A — Oposição à reintegração do trabalhador
+Artigo 60.º-A
+
+Oposição à reintegração do trabalhador
 
 1 - A oposição à reintegração do trabalhador deve ser deduzida na contestação, salvo se o trabalhador tiver optado pela indemnização na petição inicial.
 
 2 - Tendo havido oposição à reintegração, o autor pode sempre responder à contestação no prazo de 10 dias.
 
-###### Artigo 74.º-A — Condenação na reintegração do trabalhador
+Artigo 74.º-A
+
+Condenação na reintegração do trabalhador
 
 1 - A reintegração deve ser comprovada no processo mediante a junção aos autos do documento que demonstre o reinício do pagamento da retribuição.
 
 2 - Transitada em julgado a sentença, sem que se mostre efectuada a reintegração, pode o trabalhador requerer também a aplicação de sanção pecuniária compulsória ao empregador, nos termos previstos no Código de Processo Civil para a execução de prestação de facto.
 
-###### Artigo 79.º-A — Recurso de apelação
+Artigo 79.º-A
+
+Recurso de apelação
 
 1 - Da decisão do tribunal de 1.ª instância que ponha termo ao processo cabe recurso de apelação.
 
@@ -914,33 +1160,45 @@ i) Nos casos previstos nas alíneas c), d), e), h), i), j) e l) do n.º 2 do art
 
 5 - Se não houver recurso da decisão final, as decisões interlocutórias que tenham interesse para o apelante independentemente daquela decisão podem ser impugnadas num recurso único, a interpor após o trânsito da referida decisão.
 
-###### Artigo 83.º-A — Subida dos recursos
+Artigo 83.º-A
+
+Subida dos recursos
 
 1 - Sobem nos próprios autos as apelações das decisões previstas no n.º 1 do artigo 691.º-A do Código de Processo Civil.
 
 2 - Sobem em separado as apelações não compreendidas no número anterior.
 
-###### Artigo 98.º-A — Remissão
+Artigo 98.º-A
+
+Remissão
 
 Em tudo o que não se encontre especialmente regulado no presente título aplicam-se as regras do Código de Processo Civil relativas ao processo de execução.
 
-###### Artigo 98.º-B — Constituição obrigatória de advogado
+Artigo 98.º-B
+
+Constituição obrigatória de advogado
 
 Só é obrigatória a constituição de advogado após a audiência de partes, com a apresentação dos articulados.
 
-###### Artigo 98.º-C — Início do processo
+Artigo 98.º-C
+
+Início do processo
 
 1 - Nos termos do artigo 387.º do Código do Trabalho, no caso em que seja comunicada por escrito ao trabalhador a decisão de despedimento individual, seja por facto imputável ao trabalhador, seja por extinção do posto de trabalho, seja por inadaptação, a acção de impugnação judicial da regularidade e licitude do despedimento inicia-se com a entrega, pelo trabalhador, junto do tribunal competente, de requerimento em formulário electrónico ou em suporte de papel, do qual consta declaração do trabalhador de oposição ao despedimento, sem prejuízo do disposto no número seguinte.
 
 2 - Caso tenha sido apresentada providência cautelar de suspensão preventiva do despedimento, nos termos previstos nos artigos 34.º e seguintes, o requerimento inicial do procedimento cautelar do qual conste que o trabalhador requer a impugnação judicial da regularidade e licitude do despedimento dispensa a apresentação do formulário referido no número anterior.
 
-###### Artigo 98.º-D — Formulário
+Artigo 98.º-D
+
+Formulário
 
 1 - A entrega em suporte de papel do formulário referido no artigo anterior é feita, num único exemplar, na secretaria judicial.
 
 2 - O modelo do formulário é aprovado por portaria conjunta dos membros do Governo responsáveis pelas áreas da justiça e do trabalho.
 
-###### Artigo 98.º-E — Recusa do formulário pela secretaria
+Artigo 98.º-E
+
+Recusa do formulário pela secretaria
 
 A secretaria recusa o recebimento do formulário indicando por escrito o fundamento da rejeição quando:
 
@@ -952,7 +1210,9 @@ c) Não tenha sido junta a decisão de despedimento;
 
 d) Não esteja assinado.
 
-###### Artigo 98.º-F — Notificação para audiência de partes
+Artigo 98.º-F
+
+Notificação para audiência de partes
 
 1 - Recebido o requerimento, o juiz designa data para a audiência de partes, a realizar no prazo de 15 dias.
 
@@ -960,7 +1220,9 @@ d) Não esteja assinado.
 
 3 - Tendo sido requerida a suspensão de despedimento, a audiência de partes referida no n.º 1 antecede a audiência final do procedimento cautelar.
 
-###### Artigo 98.º-G — Efeitos da não comparência do empregador
+Artigo 98.º-G
+
+Efeitos da não comparência do empregador
 
 1 - Se o empregador não comparecer na audiência de partes, nem se fizer representar nos termos do n.º 2 do artigo anterior, tendo sido ou devendo considerar-se regularmente citado, o juiz:
 
@@ -970,7 +1232,9 @@ b) Fixa a data da audiência final.
 
 2 - Se a falta à audiência de partes for julgada injustificada, o empregador fica sujeito às sanções previstas no Código de Processo Civil para a litigância de má fé.
 
-###### Artigo 98.º-H — Efeitos da não comparência do trabalhador ou de ambas as partes
+Artigo 98.º-H
+
+Efeitos da não comparência do trabalhador ou de ambas as partes
 
 1 - Se o trabalhador não comparecer na audiência de partes, nem se fizer representar nos termos do n.º 2 do artigo 98.º-F, nem justificar a sua falta nos 10 dias subsequentes, tendo sido ou devendo considerar-se regularmente notificado, o juiz determina a absolvição do pedido.
 
@@ -984,7 +1248,9 @@ b) O juiz determina a absolvição do pedido, caso a falta seja considerada inju
 
 4 - O disposto no n.º 2 e na alínea b) do número anterior é aplicável, com as necessárias adaptações, no caso de ambas as partes faltarem à audiência de partes.
 
-###### Artigo 98.º-I — Audiência de partes
+Artigo 98.º-I
+
+Audiência de partes
 
 1 - Declarada aberta a audiência pelo juiz, o empregador expõe sucintamente os fundamentos de facto que motivam o despedimento.
 
@@ -998,7 +1264,9 @@ a) Procede à notificação imediata do empregador para, no prazo de 15 dias, ap
 
 b) Fixa a data da audiência final.
 
-###### Artigo 98.º-J — Articulado do empregador
+Artigo 98.º-J
+
+Articulado do empregador
 
 1 - O empregador apenas pode invocar factos e fundamentos constantes da decisão de despedimento comunicada ao trabalhador.
 
@@ -1014,7 +1282,9 @@ c) Ordena a notificação do trabalhador para, querendo, no prazo de 15 dias, ap
 
 4 - Na mesma data, o empregador é notificado da sentença quanto ao referido nas alíneas a) e b) do número anterior.
 
-###### Artigo 98.º-L — Contestação
+Artigo 98.º-L
+
+Contestação
 
 1 - Apresentado o articulado referido no artigo anterior, o trabalhador é notificado para, no prazo de 15 dias, contestar, querendo.
 
@@ -1028,13 +1298,17 @@ c) Ordena a notificação do trabalhador para, querendo, no prazo de 15 dias, ap
 
 6 - As partes devem apresentar ou requerer a produção de prova nos respectivos articulados ou no prazo destes.
 
-###### Artigo 98.º-M — Termos posteriores aos articulados
+Artigo 98.º-M
+
+Termos posteriores aos articulados
 
 1 - Terminada a fase dos articulados, o processo segue os termos previstos nos artigos 61.º e seguintes, devendo a prova a produzir em audiência de julgamento iniciar-se com a oferecida pelo empregador.
 
 2 - Se for invocado despedimento precedido de procedimento disciplinar, é ainda aplicável o disposto no n.º 4 do artigo 387.º do Código do Trabalho.
 
-###### Artigo 98.º-N — Pagamento de retribuições intercalares pelo Estado
+Artigo 98.º-N
+
+Pagamento de retribuições intercalares pelo Estado
 
 1 - Sem prejuízo do disposto no n.º 2 do artigo 390.º do Código do Trabalho, o tribunal determina, na decisão em 1.ª instância que declare a ilicitude do despedimento, que o pagamento das retribuições devidas ao trabalhador após o decurso de 12 meses desde a apresentação do formulário referido no artigo 98.º-C até à notificação da decisão de 1.ª instância seja efectuado pela entidade competente da área da segurança social.
 
@@ -1044,7 +1318,9 @@ c) Ordena a notificação do trabalhador para, querendo, no prazo de 15 dias, ap
 
 4 - A dotação orçamental para suportar os encargos financeiros da entidade competente da área da segurança social decorrentes do n.º 1 é inscrita anualmente no Orçamento do Estado, em rubrica própria.
 
-###### Artigo 98.º-O — Deduções
+Artigo 98.º-O
+
+Deduções
 
 1 - No período de 12 meses referido no artigo anterior não se incluem:
 
@@ -1056,7 +1332,9 @@ c) Os períodos de férias judiciais.
 
 2 - Às retribuições referidas no artigo anterior deduzem-se as importâncias referidas no n.º 2 do artigo 390.º do Código do Trabalho.
 
-###### Artigo 98.º-P — Valor da causa
+Artigo 98.º-P
+
+Valor da causa
 
 1 - Para efeitos de pagamento de custas, aplica-se à acção de impugnação judicial de regularidade e licitude do despedimento o disposto na alínea e) do n.º 1 do artigo 12.º do Regulamento das Custas Processuais.
 
@@ -1064,29 +1342,39 @@ c) Os períodos de férias judiciais.
 
 3 - Se for interposto recurso antes da fixação do valor da causa pelo juiz, deve este fixá-lo no despacho que admite o recurso.
 
-###### Artigo 164.º-A — Impugnação de estatutos
+Artigo 164.º-A
+
+Impugnação de estatutos
 
 1 - Os estatutos das entidades referidas no artigo anterior podem ser impugnados pelo Ministério Público, por iniciativa própria ou a requerimento de qualquer interessado.
 
 2 - A petição inicial deve ser acompanhada de cópia dos referidos estatutos.
 
-###### Artigo 164.º-B — Impugnação de actos eleitorais
+Artigo 164.º-B
+
+Impugnação de actos eleitorais
 
 Os actos eleitorais para os órgãos das entidades referidas nesta secção podem ser impugnados com fundamento na sua ilegalidade por quem tenha ficado vencido na respectiva eleição, no prazo de 10 dias a contar dessa eleição ou do conhecimento da irregularidade, se posterior.
 
-###### Artigo 186.º-A — Requerimento
+Artigo 186.º-A
+
+Requerimento
 
 1 - No caso de se pretender a impugnação da confidencialidade de informações ou da recusa da sua prestação ou da realização de consultas, o autor alega os fundamentos do pedido, indica os pontos de facto que interessa averiguar e requer as providências que repute convenientes.
 
 2 - O réu é citado para contestar no prazo de 15 dias.
 
-###### Artigo 186.º-B — Termos posteriores
+Artigo 186.º-B
+
+Termos posteriores
 
 1 - Findos os articulados, o juiz conhece imediatamente do pedido, salvo se entender que se justifica proceder a diligências complementares de prova, caso em que ordena aquelas que repute convenientes.
 
 2 - O processo tem natureza urgente.
 
-###### Artigo 186.º-C — Decisão
+Artigo 186.º-C
+
+Decisão
 
 1 - A decisão de condenação determina as informações que devem ser prestadas e o prazo para a sua prestação.
 
@@ -1094,35 +1382,49 @@ Os actos eleitorais para os órgãos das entidades referidas nesta secção pode
 
 3 - A decisão é apenas susceptível de recurso para o Tribunal da Relação, com efeito suspensivo.
 
-###### Artigo 186.º-D — Requerimento
+Artigo 186.º-D
+
+Requerimento
 
 O pedido de providências destinadas a evitar a consumação de qualquer violação dos direitos de personalidade do trabalhador ou atenuar os efeitos da ofensa já praticada é formulado contra o autor da ameaça ou ofensa e, igualmente, contra o empregador.
 
-###### Artigo 186.º-E — Termos posteriores
+Artigo 186.º-E
+
+Termos posteriores
 
 1 - Os requeridos são citados para contestar no prazo de 10 dias.
 
 2 - Independentemente de haver ou não contestação, o tribunal decide após a apreciação das provas produzidas.
 
-###### Artigo 186.º-F — Natureza urgente
+Artigo 186.º-F
+
+Natureza urgente
 
 O processo tem natureza urgente.
 
-###### Artigo 186.º-G — Remissão
+Artigo 186.º-G
+
+Remissão
 
 1 - Nas acções relativas à igualdade e não discriminação em função do sexo aplicam-se as disposições correspondentes do processo comum, com as especificações dos artigos seguintes, sem prejuízo do disposto no n.º 2.
 
 2 - A declaração judicial de nulidade de disposição de convenção colectiva em matéria de igualdade e não discriminação nos termos do artigo 479.º do Código do Trabalho segue os trâmites da acção prevista nos artigos 183.º e seguintes.
 
-###### Artigo 186.º-H — Informação sobre decisões judiciais registadas
+Artigo 186.º-H
+
+Informação sobre decisões judiciais registadas
 
 Até à audiência de discussão e julgamento, o juiz solicita oficiosamente à entidade que tenha competência na área da igualdade e não discriminação entre homens e mulheres no trabalho, no emprego e na formação profissional informação sobre o registo de qualquer decisão judicial relevante para a causa.
 
-###### Artigo 186.º-I — Comunicação da decisão
+Artigo 186.º-I
+
+Comunicação da decisão
 
 O juiz deve comunicar a decisão à entidade competente na área da igualdade e não discriminação entre homens e mulheres no trabalho, no emprego e na formação profissional, para efeitos de registo.
 
-###### Artigo 186.º-J — Remissão
+Artigo 186.º-J
+
+Remissão
 
 A impugnação de decisões de autoridades administrativas que apliquem coimas em processo laboral segue os termos do regime processual das contra-ordenações laborais, que consta de lei específica.»
 
@@ -1272,15 +1574,15 @@ As normas do Código de Processo do Trabalho com a redacção dada pelo presente
 
 Visto e aprovado em Conselho de Ministros de 20 de Agosto de 2009. - José Sócrates Carvalho Pinto de Sousa - Alberto Bernardes Costa - Idália Maria Marques Salvador Serrão de Menezes Moniz.
 
-**Promulgado em 3 de Outubro de 2009.**
+Promulgado em 3 de Outubro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Outubro de 2009.**
+Referendado em 6 de Outubro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Código de Processo do Trabalho
 
@@ -1306,11 +1608,11 @@ e) Aos princípios gerais do direito processual comum.
 
 3 - As normas subsidiárias não se aplicam quando forem incompatíveis com a índole do processo regulado neste Código.
 
-# LIVRO I
+LIVRO I
 
 Do processo civil
 
-## TÍTULO I
+TÍTULO I
 
 Da acção
 
@@ -1398,7 +1700,7 @@ c) Das pessoas que, por determinação do tribunal, houverem prestado os serviç
 
 Constituído mandatário judicial, cessa a representação ou o patrocínio oficioso que estiver a ser exercido, sem prejuízo da intervenção acessória do Ministério Público.
 
-## TÍTULO II
+TÍTULO II
 
 Competência
 
@@ -1484,7 +1786,7 @@ São nulos os pactos ou cláusulas pelos quais se pretenda excluir a competênci
 
 O disposto no artigo 97.º do Código de Processo Civil é aplicável às questões de natureza civil, comercial, criminal ou administrativa, exceptuadas as questões sobre o estado das pessoas em que a sentença a proferir seja constitutiva.
 
-## TÍTULO III
+TÍTULO III
 
 Processo
 
@@ -1788,7 +2090,7 @@ Os procedimentos cautelares especificados regulados no Código de Processo Civil
 
 O processo executivo tem formas diferentes, conforme se baseie em decisão judicial de condenação em quantia certa ou noutro título.
 
-## TÍTULO IV
+TÍTULO IV
 
 Processo de declaração
 
@@ -2130,11 +2432,13 @@ i) Nos casos previstos nas alíneas c), d), e), h), i), j) e l) do n.º 2 do art
 
 3 - Antes do julgamento dos recursos, o Ministério Público, não sendo patrono ou representante de qualquer das partes, tem vista no processo para, em 10 dias, emitir parecer sobre a decisão final a proferir, devendo observar-se, em igual prazo, o contraditório.
 
-## TÍTULO V
+TÍTULO V
 
 Processo de execução
 
-### CAPÍTULO I — Título executivo
+### CAPÍTULO I
+
+## Título executivo
 
 ###### Artigo 88.º — Espécies de títulos executivos
 
@@ -2214,7 +2518,7 @@ b) Os créditos que sobre os mesmos bens gozem de garantia real, com registo ant
 
 Em tudo o que não se encontre especialmente regulado no presente título aplicam-se as regras do Código de Processo Civil relativas ao processo de execução.
 
-## TÍTULO VI
+TÍTULO VI
 
 Processos especiais
 
@@ -2366,7 +2670,7 @@ c) Os períodos de férias judiciais.
 
 ##### SUBSECÇÃO I — Fase conciliatória
 
-##### DIVISÃO I
+DIVISÃO I
 
 Disposições preliminares
 
@@ -2424,7 +2728,7 @@ d) Houver motivos para presumir que o acidente foi dolosamente ocasionado.
 
 4 - Sempre que, em resultado de um acidente, não seja de excluir a existência de responsabilidade criminal, o Ministério Público deve dar conhecimento do facto ao foro criminal competente, remetendo, nomeadamente, o inquérito elaborado pela entidade com competência inspectiva em matéria laboral.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Exame médico
 
@@ -2450,7 +2754,7 @@ Exame médico
 
 O disposto nos artigos anteriores é aplicável, com as necessárias adaptações, à apreciação da existência de doença física ou mental dos beneficiários legais susceptível de afectar sensivelmente a sua capacidade de trabalho, nos termos e para os efeitos do estabelecido no artigo 20.º da [Lei n.º 100/97](https://diariodarepublica.pt/dr/detalhe/lei/100-1997-648882), de 13 de Setembro, e do respectivo diploma regulamentar.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Tentativa de conciliação
 
@@ -2492,7 +2796,7 @@ Dos autos de acordo constam, além da identificação completa dos interveniente
 
 Não se realizando acordo, o Ministério Público recolhe logo os elementos necessários à elaboração e apresentação da petição inicial.
 
-##### DIVISÃO IV
+DIVISÃO IV
 
 Acordo acerca das prestações
 
@@ -2518,7 +2822,7 @@ Se as entidades responsáveis reconhecerem as obrigações legais correspondente
 
 ##### SUBSECÇÃO II — Fase contenciosa
 
-##### DIVISÃO I
+DIVISÃO I
 
 Disposições gerais
 
@@ -2560,7 +2864,7 @@ b) Apenso para fixação da incapacidade para o trabalho.
 
 3 - Em qualquer altura o juiz pode alterar o valor fixado em conformidade com os elementos que o processo fornecer.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Fixação de pensão ou de indemnização provisória
 
@@ -2606,7 +2910,7 @@ Fixação de pensão ou de indemnização provisória
 
 2 - A decisão não prejudica as questões por decidir.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Processo principal
 
@@ -2692,7 +2996,7 @@ A não comparência de qualquer pessoa a diligências para que tenha sido convoc
 
 2 - Se a obrigação de pagamento de pensão vier a cessar ou for modificada, envia-se à entidade referida no número anterior certidão da decisão que declarar prescrito ou extinto o direito à pensão ou que conceder a sua revisão, ou certidão do termo de pagamento do capital, ou um exemplar do acordo extrajudicial de remição, com nota de ter sido homologado.
 
-##### DIVISÃO IV
+DIVISÃO IV
 
 Fixação de incapacidade para o trabalho
 
@@ -2728,7 +3032,7 @@ Fixação de incapacidade para o trabalho
 
 3 - A fixação da incapacidade não obsta à sua modificação nos termos do que se dispõe para o incidente de revisão.
 
-##### DIVISÃO V
+DIVISÃO V
 
 Reforma do pedido em caso de falecimento do autor
 
@@ -3146,7 +3450,7 @@ Até à audiência de discussão e julgamento, o juiz solicita oficiosamente à 
 
 O juiz deve comunicar a decisão à entidade competente na área da igualdade e não discriminação entre homens e mulheres no trabalho, no emprego e na formação profissional, para efeitos de registo.
 
-## TÍTULO VII
+TÍTULO VII
 
 Processo de contra-ordenação
 
@@ -3154,11 +3458,11 @@ Processo de contra-ordenação
 
 A impugnação de decisões de autoridades administrativas que apliquem coimas em processo laboral segue os termos do regime processual das contra-ordenações laborais, que consta de lei específica.
 
-# LIVRO II
+LIVRO II
 
 Do processo penal
 
-## TÍTULO I
+TÍTULO I
 
 Da acção
 
@@ -3216,7 +3520,7 @@ O levantamento do auto de notícia interrompe a prescrição das obrigações pe
 
 2 - O montante das importâncias em dívida é incluído na conta.
 
-## TÍTULO II
+TÍTULO II
 
 Do processo
 

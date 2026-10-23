@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/03/05100/07740777.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/237-1983-309561
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T07:35:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff7c177d747d39c5396e136c6117e3665b649a6a6687835b640954bc6f4a6f6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fdab2e3a009d126b49408747fe6f5fb98d32c960d9f4f8b948500d535d66e3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:35:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Região de Turismo
+- Região de Turismo do Nordeste Transmontano
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:361287:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:361287:por
+  label: "Integrado o Município de Moncorvo na Região de Turismo cujos estatutos constam do presente diploma, pela PORT.824/88.27.12.1988.MCT,\
+    \ DR.IS [298] de 27.12.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/824-1988-361287
+  date: '1988-12-27'
+- type: cites
+  target: pt:dre:397771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445505:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:274406:por
+  label: "REVOGADA PELO DECRETO LEI 151/93, PUBLICADO NO DR.IS-A, 105, DE 930506.\0506.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-1993-274406
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:35:13Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +122,7 @@ Manda o Governo da República Portuguesa, pelo Primeiro-Ministro, o seguinte:
 
 Presidência do Conselho de Ministros, 8 de Fevereiro de 1983. - Pelo Primeiro-Ministro, Luís Fernando Cardoso Nandim de Carvalho, Secretário de Estado do Turismo.
 
-## Anexo a que se refere a Portaria n.º 237/83
+Anexo a que se refere a Portaria n.º 237/83
 
 ###### ARTIGO 1.º — (Área da Região de Turismo)
 

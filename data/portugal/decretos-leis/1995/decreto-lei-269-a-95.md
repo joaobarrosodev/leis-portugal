@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 242/1995, 1º Suplemento, Série I-A de 1995-10-19
   number: '242'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6488-(2) a 6488-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/242a01/00020012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/269-a/1995/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-a-1995-473971
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84d1a283df1189eb8b74c170a84cb80a2a2c6b315531ac7bec5552e3a286c4b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ecf1545c0897bb5b130f99f331f75f8b22d0095d735e425bf7754279f0a8eace
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,51 +65,90 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
 - Aposentação
-- Formação Profissional
 - Comissão de Serviço
 - Concurso
 - Definição de Competências
-- Sistema Retributivo
-- Formas de Provimento
-- Recrutamento de Pessoal
-- Inspecção Geral das Actividades Económicas
-- Remuneração Acessória
-- Subsídio de Risco
-- Incompatibilidades
-- Livre Trânsito
-- Orgânica
 - Descrição de Funções
-- Pessoal de Inspecção
-- Estágio de Formação
-- Quadro de Pessoal
 - Duração do Trabalho
-- Remuneração
+- Estágio de Formação
+- Formação Profissional
+- Formas de Provimento
+- Incompatibilidades
+- Inspecção Geral das Actividades Económicas
+- Livre Trânsito
 - Mobilidade de Pessoal
+- Orgânica
+- Pessoal de Inspecção
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Remuneração
+- Remuneração Acessória
 - Segredo Profissional
 - Serviço Regional
+- Sistema Retributivo
 - Subsídio de Deslocação
 - Subsídio de Residência
+- Subsídio de Risco
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:551644:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "TRANSITOU PARA A TUTELA DO MINISTÉRIO DA ECONOMIA PELO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\066]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/14/1993/01/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/14/1993/01/18/p/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:551644:por
+  label: "Revogado o presente diploma e extintas as delegações distritais nele previstas pelo DEC LEI.46/2004.03.03.2004.MECO,\
+    \ DR.IS-A [53] de 03.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-2004-551644
+  date: '2004-03-03'
 article_structure:
   article_count: 45
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:05Z'
   warnings: []
   errors: []
 ---
@@ -392,7 +431,9 @@ a) A Secção de Pessoal, com as competências referidas nas alíneas a) a g) do
 
 b) A Secção de Expediente Geral, com as competências referidas nas alíneas h) a o) do número anterior.
 
-###### Artigo 14.º — Divisão de Organização e Informática
+###### Artigo 14.º
+
+##### Divisão de Organização e Informática
 
 À DORIN compete:
 
@@ -808,20 +849,20 @@ Mantêm-se, até ao seu termo, as comissões de serviço do actual pessoal dirig
 
 Visto e aprovado em Conselho de Ministros de 31 de Agosto de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel Cardoso Borges Soeiro - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 5 de Outubro de 1995.**
+Promulgado em 5 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1995.**
+Referendado em 10 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/242a01/00020012.pdf))](https://files.diariodarepublica.pt/1s/1995/10/242a01/00020012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/242a01/00020012.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/242a01/00020012.pdf))](https://files.diariodarepublica.pt/1s/1995/10/242a01/00020012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/242a01/00020012.pdf)

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/18900/0699106991.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/266/2009/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-2009-490706
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a98deb601052c4f4d1829929c9d887d1aa2027fb7a3dde5e623e8baa980c3b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30ff553d62c139cb4f0a8a37b2c7121e7e3d4d6a0b7b1b6f190570235483633d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,35 +68,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
-- Região Autónoma
-- Gestão de Resíduos
-- Financiamento
-- Multa
+- ASAE
+- Comércio
 - Contra-ordenação
 - Definição de Competências
+- Eliminação de Resíduos
+- Embalagem
 - Equipamento Eléctrico
 - Etiquetagem
 - Fabrico Industrial
+- Financiamento
 - Fiscalização
+- Gestão de Resíduos
 - Gestor
-- ASAE
-- Licenciamento
-- Embalagem
 - Inspecção Geral do Ambiente e do Ordenamento do Território
+- Licenciamento
+- Multa
 - Proteção do Ambiente
-- Tratamento de Resíduos
 - Receita Própria
-- Sanção
-- Eliminação de Resíduos
+- Região Autónoma
 - Registo Comercial
-- Comércio
-- Agência Portuguesa do Ambiente
+- Sanção
+- Tratamento de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:114337042:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70095699:por
+  label: Alterado, a partir de 30.08.2015, o art 28.º do Dec Lei 6/2009 de 06-jan, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-2015-70095699
+  date: '2015-08-25'
 - type: cites
   target: celex:32006L0066
   label: null
@@ -109,16 +115,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/6/2009/01/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/6/2009/01/06/p/dre
+- type: repealed_by
+  target: pt:dre:114337042:por
+  label: Revogado, a partir de 01.01.2018, o Dec Lei 6/2009 de 06-jan, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-d-2017-114337042
+  date: '2017-12-11'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:27Z'
   warnings: []
   errors: []
 ---
@@ -189,12 +201,12 @@ Os produtores devem assegurar que as pilhas e acumuladores colocados no mercado 
 
 Visto e aprovado em Conselho de Ministros de 5 de Agosto de 2009. - Fernando Teixeira dos Santos - Luís Filipe Marques Amado - Rui Carlos Pereira - Rui Nuno Garcia de Pina Neves Baleiras - Fernando Teixeira dos Santos.
 
-**Promulgado em 8 de Setembro de 2009.**
+Promulgado em 8 de Setembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Setembro de 2009.**
+Referendado em 9 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

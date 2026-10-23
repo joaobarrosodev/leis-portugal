@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/107/2006/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2006-346123
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8822e8d540814b7367d6bd2302ad7e70d90afc0d8530d79294a4a27d52b84eee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 768138fa59e04e5fbb91c1b7fa85d791a5f5585fef1512af4b7cd7dabdf45b1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
 subjects:
 - Código da Estrada
 - Contra-ordenação
-- Regulamento de Atribuição de Matrícula a Máquinas Industriais
+- Equipamento Industrial
 - Fiscalização
 - Homologação
-- Veículo
 - Regulamento
-- Equipamento Industrial
+- Regulamento de Atribuição de Matrícula a Máquinas Industriais
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/369/1999/09/18/p/dre
@@ -82,16 +82,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/44/2005/02/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/44/2005/02/23/p/dre
+- type: cites
+  target: pt:dre:569892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
 article_structure:
   article_count: 46
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:54Z'
   warnings: []
   errors: []
 ---
@@ -630,22 +638,22 @@ O presente decreto-lei entra em vigor 90 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Março de 2006. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Humberto Delgado Ubach Chaves Rosa - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia - António Fernando Correia de Campos.
 
-**Promulgado em 19 de Maio de 2006.**
+Promulgado em 19 de Maio de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 22 de Maio de 2006.**
+Referendado em 22 de Maio de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/111a00/40604069.pdf))](https://files.diariodarepublica.pt/1s/2006/06/111a00/40604069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/111a00/40604069.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 4.º)
 
 Classes de circulação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/111a00/40604069.pdf))](https://files.diariodarepublica.pt/1s/2006/06/111a00/40604069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/111a00/40604069.pdf)

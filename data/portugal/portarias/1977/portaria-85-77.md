@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/85-1977-141818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T05:31:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb8cf0f667a136d0a4f9927b7e7293c8e0122b4770d67c30866941107989aab2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3417151967e93171f7dae5e9f72be22de62a06b65d61597fc36eb98c289a915
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:31:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Inscrição Marítima
+- Pesca
+- Pessoal do MAR
+- Regulamento
+- Regulamento da Inscrição Marítima Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca
+- Tráfego Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:140337:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:335771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684472:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:31:55Z'
   warnings: []
   errors: []
 ---
@@ -103,6 +121,6 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado das Pesca
 
 O corpo do artigo 14.º do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, passa a ter a seguinte redacção:
 
-###### Art. 14.º A inscrição marítima só será permitida na medida em que as necessidades de pessoal a aconselhem e justifiquem, de acordo com normas a fixar e que incluirão audição prévia dos sindicatos e das associações de armadores interessados.
+Art. 14.º A inscrição marítima só será permitida na medida em que as necessidades de pessoal a aconselhem e justifiquem, de acordo com normas a fixar e que incluirão audição prévia dos sindicatos e das associações de armadores interessados.
 
 Ministérios da Agricultura e Pescas e dos Transportes e Comunicações, 10 de Fevereiro de 1977. - O Secretário de Estado das Pescas, Pedro Amadeu de Albuquerque Santos Coelho. - O Secretário de Estado da Marinha Mercante, António José Borrani Crisóstomo Teixeira.

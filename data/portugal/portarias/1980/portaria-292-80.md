@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/292-1980-474483
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec00edea1d17bd4d9e792679cae64fa2505140adacb9d2d5476c1860408be790
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f596d1ec679609bd81e71ef6bda0283b98b9d1182f57e38b6a84db7c231daa08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Pessoal Civil
 relationships:
 - type: amended_by
   target: pt:dre:576557:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:147778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583588:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:39Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +121,7 @@ Mandam o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, e
 
 1.º As designações do pessoal civil das Oficinas Gerais de Material Aeronáutico referidas no quadro de pessoal permanente constante do mapa anexo à [Portaria n.º 22041](https://diariodarepublica.pt/dr/detalhe/portaria/22041-1966-471705), de 8 de Junho de 1966, alterado pela [Portaria n.º 806/72](https://diariodarepublica.pt/dr/detalhe/portaria/806-1972-163801), de 30 de Dezembro, e as do pessoal contratado ao abrigo dos §§ 1.º e 2.º do artigo 13.º do [Decreto-Lei n.º 40391](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40391-1955-247386), de 22 de Novembro de 1955, com a redacção dada pelo artigo único do [Decreto-Lei n.º 550-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-c-1976-181628), de 12 de Julho, são substituídas de acordo com o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/12200/11821183.pdf))](https://files.diariodarepublica.pt/1s/1980/05/12200/11821183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/12200/11821183.pdf)
 
 2.º Ao pessoal pertencente a categorias e classes a que pela presente equivalência corresponde mais de uma categoria ou escalão serão atribuídos pelo director das Oficinas Gerais de Material Aeronáutico a categoria e escalão julgados convenientes, mas de modo que o seu vencimento ou salário seja igual ou superior ao actual.
 

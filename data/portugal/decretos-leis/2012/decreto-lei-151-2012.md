@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/07/13400/0364703649.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/151/2012/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2012-179574
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6827f5e924f1e60a8748c19ea25ee6a607bf42b0d649566c36eb6934f5a998f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05cebb5a9c3e61153337fb606d33bdf712551370cc885770f7db6796f7d8c070
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Definição de Competências
-- Diretor Geral
-- Direção Geral de Energia e Geologia
 - Comissão de Planeamento Energético de Emergência
+- Definição de Competências
+- Direção Geral de Energia e Geologia
+- Diretor Geral
 - Orgânica
+- Pessoal Dirigente
 - Subdirector Geral
 relationships:
 - type: amended_by
   target: pt:dre:56384882:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:499049:por
+  label: "Determinada a transição para o Ministério do Ambiente, Ordenamento do Território e Energia pelo DEC LEI.119/2013.21.08.2013.PCM,\
+    \ DR.IS [160] de 21.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2013-499049
+  date: '2013-08-21'
+- type: amended_by
+  target: pt:dre:570702:por
+  label: "Reestruturada a Direção-Geral de Energia e Geologia com orgânica constante do presente diploma, sendo as suas atribuições\
+    \ nos domínios de prospeção, pesquisa, desenvolvimento e exploração de recursos petrolíferos, bem como no domínio dos\
+    \ biocombustíveis e do Sector Petrolífero Nacional integradas na Entidade Nacional para o Mercado de Combustíveis, E.P.E.,\
+    \ pelo DEC LEI.17/2014.04.02.2014.MAOTE, DR.IS [24] de 04.02.2014, nos termos dos arts. 25º e 26º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-2014-570702
+  date: '2014-02-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126-c/2011/12/29/p/dre
   label: null
@@ -85,16 +99,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/139/2007/04/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/139/2007/04/27/p/dre
+- type: cites
+  target: pt:dre:521030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642012:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:56384882:por
+  label: Revogado pelo(a) Decreto-Lei n.º 130/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-2014-56384882
+  date: '2014-08-29'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:07Z'
   warnings: []
   errors: []
 ---
@@ -239,18 +266,18 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 17 de maio de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira.
 
-**Promulgado em 2 de julho de 2012.**
+Promulgado em 2 de julho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de julho de 2012.**
+Referendado em 5 de julho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 8.º)
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13400/0364703649.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13400/0364703649.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13400/0364703649.pdf)

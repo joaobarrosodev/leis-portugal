@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/16600/0519405199.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/105/2017/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2017-108068704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 809200073921dcc56a399b266066a52a296ae1c6524fd7334c277cd246707733
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a479ff71c2a7eb897748ae06ad54379af87e3b830193f86e65870284af59e27a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,29 +69,37 @@ subjects:
 - Acesso à Informação
 - Acordo
 - Acreditação
-- Modernização Administrativa
-- Criação de Serviços
-- Definição de Competências
 - Administração Pública
-- TIC
-- Organismo do Estado
-- Parceria Público-Privada
-- Sistema de Informação
-- Serviço Público
-- Prestação de Serviços
 - Agência para a Modernização Administrativa
-- Câmara Municipal
-- RIMA
-- Serviço de Atendimento ao Cidadão
-- Loja do Cidadão
 - Atendimento Público
 - Autarquia Local
+- Câmara Municipal
+- Criação de Serviços
+- Definição de Competências
 - Espaço do Cidadão
+- Loja do Cidadão
+- Modernização Administrativa
+- Organismo do Estado
+- Parceria Público-Privada
+- Prestação de Serviços
+- RIMA
+- Serviço de Atendimento ao Cidadão
+- Serviço Público
+- Sistema de Informação
+- TIC
 relationships:
 - type: amended_by
   target: pt:dre:117142870:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117142870:por
+  label: Alterado o art. 9.º do Dec Lei 74/2014 de 13-mai, na versão alterada e republicada pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 104/2018 - Diário da República n.º 230/2018, Série I de 2018-11-29, com efeitos a 01.01.2019 nos termos
+    do disposto nos n.ºs 1 e 2 do seu art. 21.º, e mantidos transitoriamente em vigor os protocolos referidos no n.º 7 daquele
+    art. 9.º, nos termos do disposto no n.º 1 do art. 20.º do Dec Lei 104/2018.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-2018-117142870
+  date: '2018-11-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/135/1999/04/22/p/dre
   label: null
@@ -125,15 +133,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/resolconsmin/1/2017/01/02/p/dre
 article_structure:
-  article_count: 20
+  article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:12Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +200,9 @@ Espaços Cidadão
 
 11 - Podem ainda ser instalados locais de prestação de atendimento digital assistido no âmbito da rede consular da República Portuguesa, sujeitos ao disposto na Convenção de Viena sobre Relações Consulares.
 
-###### Artigo 8.º — Rede de Espaços Cidadão
+Artigo 8.º
+
+Rede de Espaços Cidadão
 
 1 - ...
 
@@ -206,7 +216,9 @@ Espaços Cidadão
 
 6 - A instalação e gestão dos Espaços Cidadão pode ser feita pelas freguesias, em articulação com a Rede de Lojas de Cidadão, através dos instrumentos previstos nos artigos 124.º e seguintes da [Lei n.º 75/2013](https://diariodarepublica.pt/dre/detalhe/lei/75-2013-500023), de 12 de setembro, que aprovou o regime jurídico das autarquias locais.
 
-###### Artigo 9.º — Rede de Lojas de Cidadão
+Artigo 9.º
+
+Rede de Lojas de Cidadão
 
 1 - ...
 
@@ -292,15 +304,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de maio de 2017. - António Luís Santos da Costa - Maria Teresa Gonçalves Ribeiro - Maria Manuel de Lemos Leitão Marques - Mário José Gomes de Freitas Centeno - José Alberto de Azeredo Ferreira Lopes - Maria Constança Dias Urbano de Sousa - Francisca Eugénia da Silva Dias Van Dunem - Eduardo Arménio do Nascimento Cabrita - Luís Filipe Carrilho de Castro Mendes - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva - Fernando Manuel Ferreira Araújo - Pedro Manuel Dias de Jesus Marques - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos - Ana Paula Mendes Vitorino.
 
-**Promulgado em 29 de junho de 2017.**
+Promulgado em 29 de junho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de junho de 2017.**
+Referendado em 30 de junho de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

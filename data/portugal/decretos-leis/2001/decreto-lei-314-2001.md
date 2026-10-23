@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/314/2001/12/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-2001-576275
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:28:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30da076f3512bbc9481ad938ead6a22a49c7227c7bfc0a90f45118f6a5768adb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be2be351a96d6159c03a13a7ab27ece3efeb7a62d5871fa8a84aaa15085e09ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,61 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência para a Energia
+- Conselho Consultivo
 - Definição de Competências
 - Política Energética
-- Conselho Consultivo
 relationships:
 - type: amended_by
   target: pt:dre:1055043916:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:628856:por
+  label: "Transitadas para o Laboratório Nacional de Energia e Geologia, I.P.,cuja orgânica foi aprovada pelo Dec Lei 354/2007\
+    \ de 29-Out, as participações sociais da Agência para a Energia, criada pelo Dec Lei 223/2000 de 09-Set, republicado pelo\
+    \ presente diploma, pelo DEC LEI.355/2007.29.10.2007.MEI, DR.IS [208] de 29.10.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/355-2007-628856
+  date: '2007-10-29'
+- type: amended_by
+  target: pt:dre:66953291:por
+  label: Dada nova redação aos arts. 3.º 9.º, 10.º, 11.º e 23.º do Dec Lei 223/2000 de 10-dez , alterados pelo presente diploma,
+    pelo(a) Decreto-Lei n.º 47/2015 - Diário da República n.º 69/2015, Série I de 2015-04-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-2015-66953291
+  date: '2015-04-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/223/2000/09/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/223/2000/09/09/p/dre
+- type: cites
+  target: pt:dre:385050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577714:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1055043916:por
+  label: Revogado, a partir de 25 de fevereiro de 2025, o presente diploma, sendo as atribuições da Agência para a Energia
+    (ADENE), integradas na Agência de Geologia e Energia, I. P., pelo(a) Decreto-Lei n.º 58/2026 - Diário da República n.º
+    36/2026, Série I de 2026-02-20, sem prejuízo do seu n.º 2 do artigo 17.º e nos termos da sua alínea b) do n.º 1 do artigo
+    17.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2026-1055043916
+  date: '2026-02-20'
 article_structure:
-  article_count: 40
+  article_count: 34
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:28:30Z'
   warnings: []
   errors: []
 ---
@@ -126,9 +159,13 @@ Missão
 
 A ADENE tem por finalidade promover e realizar actividades de interesse público na área da energia e das respectivas interfaces com as demais políticas sectoriais.
 
-### CAPÍTULO II — Âmbito, objectivos e actividades
+CAPÍTULO II
 
-###### Artigo 9.º — Âmbito
+Âmbito, objectivos e actividades
+
+Artigo 9.º
+
+Âmbito
 
 1 - A ADENE realiza, prioritariamente, actividades de interesse público no domínio da política energética e dos serviços públicos concessionados ou licenciados no sector da energia.
 
@@ -136,7 +173,9 @@ A ADENE tem por finalidade promover e realizar actividades de interesse público
 
 3 - A ADENE desenvolve a sua actividade junto dos diferentes sectores económicos e dos consumidores, recorrendo, para o efeito, ao apoio de entidades públicas ou privadas e agentes de mercado especializados.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 A ADENE tem, designadamente, as seguintes atribuições:
 
@@ -158,25 +197,33 @@ h) Promover acções de formação especializada na aplicação de instrumentos 
 
 i) Participar em redes ou associações nacionais e internacionais de entidades com vocação similar.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A ADENE, no desenvolvimento de actividades de serviço público, é financiada, nomeadamente, através de contratos-programa celebrados com organismos do Ministério da Economia e outras entidades concessionárias de serviços públicos.
 
 2 - Podem também ser celebrados contratos-programa específicos entre a ADENE e organismos públicos de outros ministérios com vista à prossecução de actividades de interesse público.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A qualidade de associado é intransmissível e não pode ser objecto de negócio jurídico.
 
 2 - Exceptuam-se ao disposto no número anterior as situações de actuação conjunta de associados, ainda que salvaguardando a personalidade jurídica autónoma, designadamente nas situações de acordo complementar, de coligação ou participação maioritária, existente entre tais pessoas colectivas.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
 2 - As entidades públicas referidas no n.º 1 do artigo 12.º detêm a maior contribuição para o património social.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -208,17 +255,19 @@ O [Decreto-Lei n.º 223/2000](https://diariodarepublica.pt/dr/detalhe/decreto-le
 
 Visto e aprovado em Conselho de Ministros de 27 de Setembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Luís Garcia Braga da Cruz - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos - Júlio Domingos Pedrosa da Luz de Jesus - José Sócrates Carvalho Pinto de Sousa - José Mariano Rebelo Pires Gago - Alberto de Sousa Martins.
 
-**Promulgado em 27 de Novembro de 2001.**
+Promulgado em 27 de Novembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Novembro de 2001.**
+Referendado em 29 de Novembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Disposições gerais
 

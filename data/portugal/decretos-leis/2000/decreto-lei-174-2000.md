@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/174/2000/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2000-339393
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:18:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc5b9125e629faec49acec1865427ae73ef5763fb64dcbc9cb386646c0a2d7ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7e30976cf25e0e7ae4767cedd027283372c90aa5da211fb9075e2c36b356675
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:18:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Retributivo
 - Carreira Profissional
-- GNR
 - Forças Armadas
+- GNR
 - Política Salarial
 - Promoção Profissional
 - Remuneração
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:584865:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:276036:por
+  label: "Alterado o nº 1 do art. 12º do Dec Lei 504/99 de 20-Nov, com a redacção introduzida pelo presente diploma,pelo DEC\
+    \ LEI.15/2002.2002.01.29.MAI DR.IS-A [24]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2002-276036
+  date: '2002-01-29'
+- type: amended_by
+  target: pt:dre:584865:por
+  label: "Alterado o art. 12º do Dec Lei 504/99 de 20-Nov, na redacção do presente diploma, pelo DEC LEI.181/2005.03.11.2005.MAI,\
+    \ DR.IS-A [211] de 03.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-2005-584865
+  date: '2005-11-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/504/1999/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/504/1999/11/20/p/dre
+- type: cites
+  target: pt:dre:643283:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:18:05Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +172,9 @@ c) O diferencial previsto na alínea anterior manter-se-á nas progressões ou p
 
 d) A remuneração atribuída nos termos das alíneas anteriores não é considerada para efeitos do n.º 6 do presente artigo.
 
-###### Artigo 13.º — Progressão
+Artigo 13.º
+
+Progressão
 
 1 - ...
 
@@ -174,7 +192,9 @@ b) ...
 
 6 - ...
 
-###### Artigo 18.º — Regime de transição
+Artigo 18.º
+
+Regime de transição
 
 1 - A transição dos militares para a nova estrutura indiciária faz-se para o mesmo posto e para o mesmo escalão anteriormente detidos.
 
@@ -194,12 +214,12 @@ b) ...
 
 Visto e aprovado em Conselho de Ministros de 7 de Julho de 2000. - António Manuel de Oliveira Guterres - Júlio de Lemos de Castro Caldas - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Alberto de Sousa Martins.
 
-**Promulgado em 27 de Julho de 2000.**
+Promulgado em 27 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Julho de 2000.**
+Referendado em 29 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

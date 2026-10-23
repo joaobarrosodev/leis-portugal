@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/199-1982-375621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T07:17:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ac1c66243d485359f73718f0fe4d3b99993ed1ebd123e886aab1563ad82eada
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb57ad85c60bd5b47f497fa9054ca61cbbf42b324deea3958738b319f0ddfa95
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:17:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAICA-Complexo Agro-Industrial do Cachão
+- Investimento Público
+- Pisee
+- Projeto de Investimento
+- Setor Empresarial do Estado
+- Subsídio não Reembolsável
 relationships:
 - type: amended_by
   target: pt:dre:379477:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:379477:por
+  label: Alterado o n.º 2 pelo(a) Despacho Normativo n.º 272/82 - Diário da República n.º 282/1982, Série I de 1982-12-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/272-1982-379477
+  date: '1982-12-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:17:53Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +102,7 @@ Dando cumprimento ao disposto na Resolução do Conselho de Ministros n.º 61-A/
 
 1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1982 os projectos do CAICA - Complexo Agro-Industrial do Cachão, S. A. R. L., a seguir discriminados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/21000/27212721.pdf))](https://files.diariodarepublica.pt/1s/1982/09/21000/27212721.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/21000/27212721.pdf)
 
 2 - A despesa de investimento referida no n.º 1 será financiada por uma verba no montante de 49,25 milhões de escudos. Esta e eventualmente outra dotação adicional poderão assumir a forma de empréstimo subordinado ou de quase capital, nos termos que venham a ser definidos.
 

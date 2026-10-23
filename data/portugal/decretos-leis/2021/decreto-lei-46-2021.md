@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11200/0000600032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/46/2021/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2021-164955304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5623f1443af871b0d95f3eed1ddff1e8f78314f773f4cedf414af4463b8c7677
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2d24cd612c210ab6d975ddb02283991591aec92c092e7cde8a202ee35d580d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,40 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Agência para a Gestão Integrada de Fogos Rurais
 - Ajuda Judicial
-- Contrato de Seguro
-- Reestruturação de Serviços
-- Região Autónoma
 - Atribuição de Verba
-- Pessoal Dirigente
-- Proteção dos Animais
+- Autoridade Nacional de Emergência e Proteção Civil
+- Companhia de Seguros
 - Concurso
+- Conselho Diretivo
+- Contrato de Seguro
 - Coordenador
 - Definição de Competências
 - Direção Geral de Alimentação e Veterinária
 - Equiparação de Cargos
-- Recrutamento de Pessoal
-- Seguro
-- Conselho Diretivo
+- Força de Sapadores Bombeiros Florestais
+- Instituto da Conservação da Natureza e das Florestas
 - Integração de Trabalhadores
 - Isenção de Portagem
-- Publicitação
-- Instituto da Conservação da Natureza e das Florestas
+- Madeira.região Autónoma
 - Orgânica
 - Perito Nacional
-- Madeira.região Autónoma
-- Companhia de Seguros
+- Pessoal Dirigente
+- Proteção dos Animais
+- Publicitação
+- Recrutamento de Pessoal
+- Reestruturação de Serviços
+- Região Autónoma
+- Seguro
+- SERVIÇO REGIONAL DE PROTEÇÃO CIVIL E BOMBEIROS DOS AÇORES
 - Serviço Regional de Protecção Civil da Madeira
-- Açores
+- Sistema de Gestão Integrada de Fogos Rurais
+- Sistema de Informação de Animais de Companhia
 - TAXA de Prestação de Serviços
 - Transferência de Competências
 - Transferência de Pessoal
-- Agência para a Gestão Integrada de Fogos Rurais
-- Sistema de Gestão Integrada de Fogos Rurais
-- SERVIÇO REGIONAL DE PROTEÇÃO CIVIL E BOMBEIROS DOS AÇORES
-- Autoridade Nacional de Emergência e Proteção Civil
-- Sistema de Informação de Animais de Companhia
-- Força de Sapadores Bombeiros Florestais
 relationships:
 - type: amended_by
   target: pt:dre:913947257:por
@@ -149,16 +149,116 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
+- type: cites
+  target: pt:dre:105727475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108107541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114706489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:121712773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:121748967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122728684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138461839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158545433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159432383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58752835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626241:por
+  label: null
+  source: null
 article_structure:
-  article_count: 49
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:41Z'
   warnings: []
   errors: []
 ---
@@ -243,11 +343,15 @@ Os artigos 1.º, 3.º, 4.º, 6.º, 8.º, 10.º, 11.º e 15.º do [Decreto-Lei n.
 
 3 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O ICNF, I. P., tem por missão propor e executar políticas integradas de ordenamento e gestão do território, em articulação com entes públicos e privados, nos domínios da conservação da natureza, da biodiversidade, das florestas e competitividade das fileiras florestais, e assegurar a gestão dos fogos rurais, bem como definir, executar e avaliar políticas de bem-estar, detenção, criação, comércio e controlo de animais de companhia, ouvida a autoridade sanitária veterinária nacional no âmbito das suas competências e salvaguardadas as orientações desta autoridade em matéria de saúde animal.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -333,7 +437,9 @@ nn) Garantir o cumprimento da [Diretiva n.º 1999/22/CE](http://data.europa.eu/e
 
 2 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -457,7 +563,9 @@ jj) Cobrar as taxas relativas aos atos e serviços prestados ao abrigo do [Decre
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -513,13 +621,17 @@ s) [Anterior alínea r).]
 
 8 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - Por despacho do conselho diretivo podem ser criadas equipas de projeto temporárias dedicadas à recuperação de áreas ardidas ou implementação de áreas integradas de gestão da paisagem.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -531,7 +643,9 @@ s) [Anterior alínea r).]
 
 5 - As receitas das taxas referidas na alínea jj) do n.º 7 do artigo 6.º são consignadas ao Fundo Ambiental.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -555,7 +669,9 @@ Bem-estar animal
 
 Para efeitos do presente decreto-lei, entende-se por «bem-estar animal» o estado de equilíbrio físico e mental de um animal em relação às condições em que vive e morre, incluindo a ausência de fome, sede e má nutrição, de desconforto físico e térmico, de dor, lesão e doença, de medo e stresse, bem como a oportunidade de expressar o seu comportamento natural.
 
-###### Artigo 15.º-A — Área de gestão de fogos rurais
+Artigo 15.º-A
+
+Área de gestão de fogos rurais
 
 1 - O ICNF, I. P., integra uma estrutura funcional dedicada à área da gestão de fogos rurais.
 
@@ -593,7 +709,9 @@ c) Peritos-juniores: nível 28.
 
 13 - Aos peritos-coordenadores, peritos e peritos-juniores é aplicável a Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual.
 
-###### Artigo 15.º-B — Isenção de portagens
+Artigo 15.º-B
+
+Isenção de portagens
 
 As viaturas do ICNF, I. P., devidamente identificadas, desde que afetas à Força Especial de Sapadores Bombeiros Florestais, estão isentas do pagamento de qualquer taxa de portagem em pontes e autoestradas, exclusivamente quando se encontrem em apoio direto ao combate a incêndios rurais no âmbito do Sistema de Gestão Integrada de Fogos Rurais.»
 
@@ -621,7 +739,9 @@ Os artigos 21.º, 22.º, 25.º, 27.º e 35.º do [Decreto-Lei n.º 45/2019](http
 
 8 - Os adjuntos de operações e os chefes de célula são recrutados, por procedimento concursal, de entre licenciados, vinculados ou não à Administração Pública, dotados de competência técnica, aptidão e formação adequadas para o exercício de funções de coordenação e controlo, e que reúnam seis e quatro anos de experiência profissional relevante para o cargo, respetivamente.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -647,7 +767,9 @@ Os artigos 21.º, 22.º, 25.º, 27.º e 35.º do [Decreto-Lei n.º 45/2019](http
 
 12 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -663,7 +785,9 @@ Os artigos 21.º, 22.º, 25.º, 27.º e 35.º do [Decreto-Lei n.º 45/2019](http
 
 7 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -717,9 +841,11 @@ b) Os riscos inseridos nos designados seguros multirriscos, devendo as percentag
 
 11 - A ANEPC publicita, no seu sítio na Internet, os dados das contas bancárias referidos no n.º 8, assim como os termos do envio da informação a que se refere o número anterior.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
 
-**O presidente, os titulares de cargos dirigentes da ANEPC, o comandante nacional de emergência e proteção civil, o 2.º comandante nacional de emergência e proteção civil e o comandante da força especial de proteção civil têm direito a patrocínio judiciário, nos termos previstos para os titulares de cargos de direção, no estatuto do pessoal dirigente.»**
+[...]
+
+O presidente, os titulares de cargos dirigentes da ANEPC, o comandante nacional de emergência e proteção civil, o 2.º comandante nacional de emergência e proteção civil e o comandante da força especial de proteção civil têm direito a patrocínio judiciário, nos termos previstos para os titulares de cargos de direção, no estatuto do pessoal dirigente.»
 
 ###### Artigo 6.º — Alteração do anexo ao [Decreto-Lei n.º 45/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), de 1 de abril
 
@@ -779,15 +905,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de março de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - João Rodrigo Reis Carvalho Leão - Eduardo Arménio do Nascimento Cabrita - Alexandra Ludomila Ribeiro Fernandes Leitão - João Pedro Soeiro de Matos Fernandes - Rui Manuel Costa Martinho - Ricardo da Piedade Abreu Serrão Santos.
 
-**Promulgado em 28 de maio de 2021.**
+Promulgado em 28 de maio de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de maio de 2021.**
+Referendado em 28 de maio de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 6.º)
 
@@ -797,13 +923,17 @@ Visto e aprovado em Conselho de Ministros de 25 de março de 2021. - António Lu
 
 Mapa de cargos de direção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11200/0000600032.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11200/0000600032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11200/0000600032.pdf)
 
-## ANEXO II — (a que se refere o artigo 14.º)
+ANEXO II
+
+(a que se refere o artigo 14.º)
 
 Republicação do [Decreto-Lei n.º 43/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2019-121712773), de 29 de março
 
-###### Artigo 1.º — Natureza
+Artigo 1.º
+
+Natureza
 
 1 - O Instituto da Conservação da Natureza e das Florestas, I. P., abreviadamente designado por ICNF, I. P., é um instituto público de regime especial, integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.
 
@@ -811,7 +941,9 @@ Republicação do [Decreto-Lei n.º 43/2019](https://diariodarepublica.pt/dr/det
 
 3 - O ICNF, I. P., é a autoridade nacional para a conservação da natureza e biodiversidade e a autoridade florestal nacional.
 
-###### Artigo 2.º — Jurisdição territorial
+Artigo 2.º
+
+Jurisdição territorial
 
 1 - O ICNF, I. P., é um organismo central com jurisdição sobre todo o território nacional, sem prejuízo das competências próprias das Regiões Autónomas dos Açores e da Madeira.
 
@@ -831,15 +963,21 @@ e) Direção Regional da Conservação da Natureza e Florestas do Algarve.
 
 4 - No caso da gestão das áreas classificadas e das áreas protegidas que se estendam por mais de uma unidade territorial, a competência recai sobre a direção regional a determinar por deliberação do conselho diretivo.
 
-###### Artigo 2.º-A — Bem-estar animal
+Artigo 2.º-A
+
+Bem-estar animal
 
 Para efeitos do presente decreto-lei, entende-se por «bem-estar animal» o estado de equilíbrio físico e mental de um animal em relação às condições em que vive e morre, incluindo a ausência de fome, sede e má nutrição, de desconforto físico e térmico, de dor, lesão e doença, de medo e stresse, bem como a oportunidade de expressar o seu comportamento natural.
 
-###### Artigo 3.º — Missão
+Artigo 3.º
+
+Missão
 
 O ICNF, I. P., tem por missão propor e executar políticas integradas de ordenamento e gestão do território, em articulação com entes públicos e privados, nos domínios da conservação da natureza, da biodiversidade, das florestas e competitividade das fileiras florestais, e assegurar a gestão dos fogos rurais, bem como definir, executar e avaliar políticas de bem-estar, detenção, criação, comércio e controlo de animais de companhia, ouvida a autoridade sanitária veterinária nacional no âmbito das suas competências e salvaguardadas as orientações desta autoridade em matéria de saúde animal.
 
-###### Artigo 4.º — Atribuições
+Artigo 4.º
+
+Atribuições
 
 1 - O ICNF, I. P., prossegue as seguintes atribuições:
 
@@ -925,7 +1063,9 @@ nn) Garantir o cumprimento da [Diretiva n.º 1999/22/CE](http://data.europa.eu/e
 
 2 - O Fundo Florestal Permanente e o Conselho Florestal Nacional funcionam junto do ICNF, I. P., regendo-se por legislação própria.
 
-###### Artigo 5.º — Órgãos
+Artigo 5.º
+
+Órgãos
 
 São órgãos do ICNF, I. P.:
 
@@ -937,7 +1077,9 @@ c) O conselho consultivo;
 
 d) Os conselhos estratégicos das áreas protegidas de interesse nacional.
 
-###### Artigo 6.º — Conselho diretivo
+Artigo 6.º
+
+Conselho diretivo
 
 1 - O conselho diretivo é composto por um presidente, um vice-presidente e seis vogais, recrutados por concurso, nos termos da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, na sua redação atual, sendo cinco dos vogais simultaneamente responsáveis por cada uma das cinco direções regionais e um vogal responsável pelas atribuições na área da gestão dos fogos rurais.
 
@@ -1061,11 +1203,15 @@ jj) Cobrar as taxas relativas aos atos e serviços prestados ao abrigo do [Decre
 
 8 - Os diretores regionais podem delegar poderes, com a faculdade de subdelegação.
 
-###### Artigo 7.º — Fiscal único
+Artigo 7.º
+
+Fiscal único
 
 O fiscal único é designado nos termos da lei-quadro dos institutos públicos e tem as competências aí previstas.
 
-###### Artigo 8.º — Conselho consultivo
+Artigo 8.º
+
+Conselho consultivo
 
 1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação do ICNF, I. P., e nas tomadas de decisão do conselho diretivo.
 
@@ -1129,7 +1275,9 @@ d) Apreciar os relatórios e pareceres científicos e culturais em matérias da 
 
 8 - Os membros do conselho consultivo não têm, pelo exercício destas funções, direito a receber qualquer remuneração ou abono.
 
-###### Artigo 9.º — Conselhos estratégicos das áreas protegidas
+Artigo 9.º
+
+Conselhos estratégicos das áreas protegidas
 
 1 - Os conselhos estratégicos das áreas protegidas são órgãos de natureza consultiva, de apoio ao planeamento e gestão, que funcionam junto das áreas protegidas de interesse nacional e integram:
 
@@ -1163,13 +1311,17 @@ f) Apreciar e dar parecer sobre qualquer assunto com interesse para a área prot
 
 6 - Os membros dos conselhos estratégicos não têm, pelo exercício destas funções, direito a receber qualquer remuneração ou abono.
 
-###### Artigo 10.º — Organização interna
+Artigo 10.º
+
+Organização interna
 
 1 - A organização interna do ICNF, I. P., é a prevista nos respetivos Estatutos.
 
 2 - Por despacho do conselho diretivo podem ser criadas equipas de projeto temporárias dedicadas à recuperação de áreas ardidas ou implementação de áreas integradas de gestão da paisagem.
 
-###### Artigo 11.º — Receitas
+Artigo 11.º
+
+Receitas
 
 1 - O ICNF, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
 
@@ -1199,19 +1351,27 @@ i) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam at
 
 5 - As receitas das taxas referidas na alínea jj) do n.º 7 do artigo 6.º são consignadas ao Fundo Ambiental.
 
-###### Artigo 12.º — Despesas
+Artigo 12.º
+
+Despesas
 
 Constituem despesas do ICNF, I. P., as que resultem de encargos decorrentes da prossecução das respetivas atribuições.
 
-###### Artigo 13.º — Património
+Artigo 13.º
+
+Património
 
 O património do ICNF, I. P., é constituído pela universalidade de bens, direitos e obrigações de que seja titular.
 
-###### Artigo 14.º — Criação ou participação em entidades de direito privado
+Artigo 14.º
+
+Criação ou participação em entidades de direito privado
 
 A criação, participação na criação, aquisição ou aumento de participação em entes de direito privado por parte do ICNF, I. P., apenas pode verificar-se em situações excecionais quando, cumulativamente, seja fundamentada e demonstrada a imprescindibilidade para a prossecução das suas atribuições e seja obtida autorização prévia dos membros do Governo responsáveis pelas áreas das finanças, das florestas e da conservação da natureza, nos termos do artigo 13.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, na sua redação atual.
 
-###### Artigo 15.º — Força de Sapadores Bombeiros Florestais
+Artigo 15.º
+
+Força de Sapadores Bombeiros Florestais
 
 1 - O ICNF, I. P., integra uma Força de Sapadores Bombeiros Florestais, adiante designada por FSBF, que atua sob orientação do dirigente responsável pela área da gestão dos fogos rurais no âmbito dos incêndios rurais.
 
@@ -1225,7 +1385,9 @@ A criação, participação na criação, aquisição ou aumento de participaç�
 
 6 - A FSBF pode estabelecer protocolos de cooperação técnica e territorial com outras forças especializadas na proteção das florestas e conservação da natureza.
 
-###### Artigo 15.º-A — Área de gestão de fogos rurais
+Artigo 15.º-A
+
+Área de gestão de fogos rurais
 
 1 - O ICNF, I. P., integra uma estrutura funcional dedicada à área da gestão de fogos rurais.
 
@@ -1263,20 +1425,30 @@ c) Peritos-juniores: nível 28.
 
 13 - Aos peritos-coordenadores, peritos e peritos-juniores é aplicável a Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual.
 
-###### Artigo 15.º-B — Isenção de portagens
+Artigo 15.º-B
+
+Isenção de portagens
 
 As viaturas do ICNF, I. P., devidamente identificadas, desde que afetas à Força Especial de Sapadores Bombeiros Florestais, estão isentas do pagamento de qualquer taxa de portagem em pontes e autoestradas, exclusivamente quando se encontrem em apoio direto ao combate a incêndios rurais no âmbito do Sistema de Gestão Integrada de Fogos Rurais.
 
-###### Artigo 16.º — Norma transitória
+Artigo 16.º
+
+Norma transitória
 
 1 - O pessoal dirigente em exercício de funções à data da entrada em vigor do presente decreto-lei mantém-se até à designação de novos titulares.
 
 2 - Os núcleos de coordenação sub-regional da AGIF, I. P., transitam para o ICNF, I. P., até 2021, nos termos do artigo 19.º do [Decreto-Lei n.º 12/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2018-114706489), de 16 de fevereiro.
 
-###### Artigo 17.º — Norma revogatória
+Artigo 17.º
+
+Norma revogatória
 
 É revogado o [Decreto-Lei n.º 135/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2012-178537), de 29 de junho, na sua redação atual.
 
-###### Artigo 18.º — Entrada em vigor
+Artigo 18.º
+
+Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+114305761

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/19200/0000300004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/67/2022/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2022-201838710
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50633e7bb7b20b7602789e96ca90c59b2fe32a709349c6eff2c932c1d75bf19a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 204c81b790cc16e16331ae91a1064fdf08548b103e66083cb958f568b2a04345
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Transitária
-- Gás Natural
-- Financiamento
-- Empresa
 - CE Países
 - Cobrança de Impostos
 - Código dos Impostos Especiais de Consumo
-- Imposto sobre Produtos Petrolíferos
-- Contrato Administrativo
-- Transporte Rodoviário
-- Regulamentação de Atos Legislativos
-- Empreitada de Obras Públicas
-- Empresa Transitária
-- Política Energética
-- Produto Petrolífero
-- Combustível
-- Gasóleo
 - Co-geração
-- Obras Públicas
-- Transporte de Mercadorias
-- Política de Preços
-- Produção de Energia Elétrica
-- Prorrogação de Prazo
-- Trabalhador por Conta de Outrem
-- Tributação
+- Combustível
 - Contratação Pública
+- Contrato Administrativo
+- Empreitada de Obras Públicas
+- Empresa
+- Empresa Transitária
+- Financiamento
+- Gás Natural
+- Gasóleo
+- Imposto sobre Produtos Petrolíferos
+- Obras Públicas
+- Política de Preços
+- Política Energética
+- Produção de Energia Elétrica
+- Produto Petrolífero
+- Prorrogação de Prazo
+- Regulamentação de Atos Legislativos
+- Trabalhador por Conta de Outrem
+- Transporte de Mercadorias
+- Transporte Rodoviário
+- Tributação
 relationships:
 - type: amended_by
   target: pt:dre:221278508:por
@@ -108,16 +108,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/12/2022/06/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/12/2022/06/27/p/dre
+- type: cites
+  target: pt:dre:183691731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185780383:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:49Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +178,9 @@ Os artigos 6.º e 8.º do [Decreto-Lei n.º 36/2022](https://diariodarepublica.p
 
 A revisão de preços nas entidades da administração central realizada ao abrigo do presente decreto-lei é suportada por verbas inscritas no programa orçamental da respetiva área setorial, dentro da dotação inicial aprovada pelo Orçamento do Estado de 2022 e a aprovar no Orçamento do Estado de 2023, sem prejuízo de eventuais reforços a realizar nos termos gerais aplicáveis.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora até 30 de junho de 2023.
 
@@ -178,12 +192,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de setembro de 2022. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Pedro Nuno de Oliveira Santos.
 
-**Promulgado em 29 de setembro de 2022.**
+Promulgado em 29 de setembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de setembro de 2022.**
+Referendado em 29 de setembro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115743933

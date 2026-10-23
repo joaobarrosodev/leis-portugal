@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00400/0006300065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/5/2024/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2024-836117867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1559278ad4b2d3cfdee04715e6b2300f17ccad8a7f88942c93c44a20096de6ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6db4ae477ecb6e67bf3035a82e35eb542e715b38db5dff380dc372436193f62b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordem dos Biólogos
-- Ordem dos Nutricionistas
+- Associação Profissional
 - Biólogo
 - Carreira de Técnico Superior de Saúde
-- Serviço Nacional de Saúde
 - Carreira Profissional
 - Farmacêutico
 - Nutricionista
+- Ordem dos Biólogos
 - Ordem dos Farmacêuticos
-- Associação Profissional
+- Ordem dos Nutricionistas
 - Ordem dos Psicólogos Portugueses
 - Psicólogo
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:912653922:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:108/2017
+  label: Altera, a partir de 6 de janeiro de 2024, o artigo 3.º e revoga o n.º 3 do artigo 18.º do Decreto-Lei n.º 108/2017,
+    de 30 de agosto, Diário da República n.º 167/2017, Série I
+  source: null
+  date: '2017-08-30'
+- type: amends
+  target: pt:numero:decreto-lei:109/2017
+  label: Altera, a partir de 6 de janeiro de 2024, o artigo 3.º e revoga o n.º 2 do artigo 23.º do Decreto-Lei n.º 109/2017,
+    de 30 de agosto, Diário da República n.º 167/2017, Série I
+  source: null
+  date: '2017-08-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/108/2017/08/30/p/dre
   label: null
@@ -110,16 +122,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:108074437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108074438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:129529697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176412619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588802:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:38Z'
   warnings: []
   errors: []
 ---
@@ -204,24 +244,26 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de novembro de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - Manuel Francisco Pizarro de Sampaio e Castro.
 
-**Promulgado em 22 de dezembro de 2023.**
+Promulgado em 22 de dezembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de dezembro de 2023.**
+Referendado em 28 de dezembro de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
-|  |  |  |
-| --- | --- | --- |
 | Título de especialista | Ordem profissional | Ramo de atividade |
+| --- | --- | --- |
+|  |  |  |
 | Genética humana... | Ordem dos Biólogos... | Genética. |
-| Análises clínicas... | Ordem dos Biólogos... | Laboratório. |
-| Embriologia/reprodução humana... | Ordem dos Biólogos... | Laboratório. |
+| Análises clínicas... | Laboratório. |  |
+| Embriologia/reprodução humana... |  |  |
 | Nutrição clínica... | Ordem dos Nutricionistas... | Nutrição. |
-| Nutrição comunitária e saúde pública... | Ordem dos Nutricionistas... | Nutrição. |
+| Nutrição comunitária e saúde pública... |  |  |
 | Psicologia clínica e da saúde... | Ordem dos Psicólogos Portugueses ... | Psicologia clínica. |
+
+117208226

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/04/085a00/22142219.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/80/2004/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2004-218544
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd38af8410bde1b37222031ddba6bfeb356aceb176b7d0445c4835659685d054
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22da69d4d555a03e606af1bf2233640b6cefc4a7f8a14866788f456c5f19ea03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência para a Prevenção dos Fogos Florestais
-- Pessoal Dirigente
+- Autoridade Florestal Nacional
 - Conselho Administrativo
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Conselho Técnico Regional
 - Corpo Nacional da Guarda Florestal
 - Criação de Serviços
 - Definição de Competências
@@ -77,9 +77,9 @@ subjects:
 - Direcção Geral dos Recursos Florestais
 - Direcção Regional de Agricultura
 - Extinção de Serviços
-- Conselho Técnico Regional
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orgânica
-- Autoridade Florestal Nacional
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Receita Própria
 - Transferência de Competências
@@ -90,6 +90,26 @@ relationships:
   target: pt:dre:518859:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:552524:por
+  label: "Extinto o Corpo Nacional da Guarda Florestal a que se refere o art. 3º deste diploma, sem prejuízo da manutenção\
+    \ das competências de autoridade florestal na Direcção-Geral dos Recursos Florestais, pelo DEC LEI.22/2006.02.02.2006.MAI,\
+    \ DR.IS-A [24] de 02.02.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2006-552524
+  date: '2006-02-02'
+- type: amended_by
+  target: pt:dre:667526:por
+  label: "Alterados os arts. 2º, 3º, 4º, 5º, 6º, 9º e 12º e aditado o art. 8º-A ao presente diploma, pelo DEC LEI.69/2006.23.03.2006.MADRP,\
+    \ DR.IS-A [59] de 23.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2006-667526
+  date: '2006-03-23'
+- type: amended_by
+  target: pt:dre:667535:por
+  label: "Alterados a al. c) do art. 8º e o quadro de pessoal e, revogadas a al. l) do nº 2 do art. 4º e a al. m) do art.\
+    \ 8º, todos do Dec Lei 74/96 de 18-Jun, com as alterações constantes do presente diploma, pelo DEC LEI.68/2006.23.03.2006.MADRP,\
+    \ DR.IS-A [59] de 23.03.2006 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-2006-667535
+  date: '2006-03-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/d
   label: null
@@ -130,16 +150,99 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/178/2003/11/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/178/2003/11/17/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658771:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:268656:por
+  label: "Rectificado pela DECL-RECT.38/2004.29.04.2004.PCM, DR.IS-A [112] de 13.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/38-2004-268656
+  date: '2004-04-29'
+- type: repealed_by
+  target: pt:dre:518859:por
+  label: "Revogado, nos termos do art. 5º do Dec Lei 201/2006 de 27-Out, a partir de 01.03.2007, pelo DR.10/2007.27.02.2007.MADRP,\
+    \ DR.IS [41] de 27.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/10-2007-518859
+  date: '2007-02-27'
 article_structure:
-  article_count: 23
+  article_count: 22
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:06Z'
   warnings: []
   errors: []
 ---
@@ -504,7 +607,9 @@ f) ...
 
 g) ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 ...
 
@@ -558,15 +663,15 @@ i) Os artigos 27.º, 28.º, 29.º, 30.º e 34.º do [Decreto Regulamentar n.º 1
 
 Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - António José de Castro Bagão Félix - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 25 de Março de 2004.**
+Promulgado em 25 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Março de 2004.**
+Referendado em 31 de Março de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — (quadro a que se refere o artigo 15.º)
 

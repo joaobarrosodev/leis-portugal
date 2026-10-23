@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 101/1993, 1º Suplemento, Série I-B de 1993-04-30
   number: '101'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2218-(2) a 2218-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/101b01/00020002.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/64-a/1993/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/64-a-1993-425687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T08:09:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66cf92d152834af59599482986fc6e998f3c7f50a2f747a25b0a8c90260c84c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8b6d1e7b01c92064b28305bc35bf767f9837bf8a6c2ae5e7b791df374976261
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:09:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,30 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - CEE
-- Leite
 - Instituto Nacional de Garantia Agrícola
+- Leite
 - Política Agrícola Comum
 - Produção Leiteira
 - Regulamento CE
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: PROLONGADO O PERIODO PARA O PAGAMENTO DA AJUDA ESTABELECIDA NOS NUMEROS 2 E 3 DO PRESENTE DIPLOMA, PELO DESPACHO
+    NORMATIVO 180/93, DE 31 DE JULHO, PUBLICADO NO DR.IS-B, 178.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-07-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: PROLONGADO O PERIODO PARA O PAGAMENTO DA AJUDA ESTABELECIDA NOS NUMEROS 2 E 3 DO PRESENTE DIPLOMA, PELO DESPACHO
+    NORMATIVO 268-A/93, PUBLICADO NO DR.IS-B, 217 SUPL.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-09-15'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: PROLONGADO O PERIODO PARA O PAGAMENTO DA AJUDA ESTABELECIDA NO PRESENTE DIPLOMA, PELO DESPACHO NORMATIVO 13/94, DE
+    31 DE DEZEMBRO DE 1993, PUBLICADO NO DR.IS-B, 13, DE 940117.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-01-17'
 - type: cites
   target: celex:31968R0804
   label: null
@@ -84,13 +102,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:09:53Z'
   warnings: []
   errors: []
 ---

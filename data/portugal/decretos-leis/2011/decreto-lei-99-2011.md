@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/99/2011/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2011-671204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e7b754a24d402944edddb22c91a8787f4402c386b2c41a67c139784653e5dd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce3199411acebd4ae6779c08398fb12eb3662f1402e68c54cf1150bc3f9baf00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,37 +68,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
-- Modernização Administrativa
-- Lares
+- Açores
+- Autoridade Nacional de Protecção Civil
+- Centro de Acolhimento
 - Centro de Actividades de Tempos Livres
+- Centro de Actividades Ocupacionais
+- Centro de Apoio Social
 - Centro de DIA
 - Centro Social
-- Obras Particulares
 - Definição de Competências
 - Equipamento Social
 - Fiscalização
 - Inspecção Geral
+- Instituto da Segurança Social
 - Jardim de Infância
-- Centro de Acolhimento
+- Lares
 - Licenciamento
-- Centro de Actividades Ocupacionais
+- Madeira.região Autónoma
 - Ministério da Solidariedade e da Segurança Social
+- Modernização Administrativa
 - Normas de Segurança
+- Obras Particulares
 - Parecer
 - Prestação de Serviços
-- Madeira.região Autónoma
 - Segurança Social
-- Autoridade Nacional de Protecção Civil
-- Açores
 - Taxa
 - Vistoria
-- Centro de Apoio Social
 relationships:
 - type: amended_by
   target: pt:dre:572157:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:572157:por
+  label: "Alterados a partir de 03.05.2014, os arts. 5.º, 7.º, 8.º, 12º, 16º, 17º, 18º, 33º e 41º do Dec Lei 64/2007, de 14-mar,\
+    \ na redação do presente diploma, pelo DEC LEI.33/2014.04.03.2014.MSESS, DR.IS [44] de 04.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2014-572157
+  date: '2014-03-04'
+- type: amends
+  target: pt:numero:lei:64/2007
+  label: "Altera os arts. 5.º, 7.º, 8.º, 9.º, 10.º ( renumerado ), 12.º, 16.º, 17.º ( renumerado ), 18.º, 29.º, 33.º, 41.º,\
+    \ 44.º e 46.º e revoga o nº 2 do art. 44º do Dec Lei n.º 64/2007, de 14-Mar, DR IS [52], procedendo à respectiva republicação\0\
+    ão\0"
+  source: null
+  date: '2007-03-14'
 - type: cites
   target: celex:32006L0123
   label: null
@@ -112,15 +125,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/92/2010/07/26/p/dre
 article_structure:
-  article_count: 64
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 51
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:15Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +176,9 @@ Os artigos 5.º, 7.º, 8.º, 9.º, 10.º, 12.º, 16.º, 17.º, 18.º, 29.º, 33.
 
 As condições técnicas de instalação e funcionamento dos estabelecimentos são as regulamentadas em diplomas específicos e em instrumentos regulamentares aprovados pelo membro do Governo responsável pela área da solidariedade social.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O licenciamento de construção é requerido à câmara municipal e está sujeito, com as especificidades previstas no presente decreto-lei e nos instrumentos regulamentares respeitantes às condições de instalação dos estabelecimentos, ao regime jurídico da urbanização e edificação (RJUE), estabelecido pelo Decreto-Lei n.º 555/99, de 16 de Dezembro, na redacção actual.
 
@@ -173,7 +188,9 @@ As condições técnicas de instalação e funcionamento dos estabelecimentos s�
 
 4 - O interessado pode solicitar previamente os pareceres das entidades competentes ao abrigo do artigo 13.º-B do RJUE.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -197,7 +214,9 @@ d) ...
 
 7 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Concluídas as obras e equipado o estabelecimento em condições de iniciar o seu funcionamento, pode a câmara municipal, nos termos do disposto nos artigos 64.º e seguintes do RJUE, promover a realização de uma vistoria conjunta às instalações, no prazo de 30 dias após a comunicação da conclusão da obra pelos interessados e, sempre que possível, em data a acordar entre as partes.
 
@@ -221,13 +240,17 @@ d) Um representante da Autoridade Nacional de Protecção Civil.
 
 7 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - (Actual corpo do artigo.)
 
 2 - Quando não tenha havido lugar à vistoria, por facto não imputável ao requerente, aplica-se o disposto no n.º 6 do artigo 65.º do RJUE.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 ...
 
@@ -241,7 +264,9 @@ d) ...
 
 e) ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -271,7 +296,9 @@ j) ...
 
 4 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -279,7 +306,9 @@ j) ...
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Concluído o processo e verificando-se que o estabelecimento reúne todos os requisitos legalmente exigidos, é emitida a licença, em impresso de modelo próprio a aprovar por portaria do membro do Governo responsável pela área da solidariedade social.
 
@@ -297,15 +326,21 @@ e) ...
 
 f) ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 São devidas taxas, a fixar por portaria do membro do Governo responsável pela área da solidariedade social, pela emissão e substituição de licenças e autorizações provisórias de funcionamento.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 Para efeitos das acções de avaliação e fiscalização previstas nos artigos anteriores, o Instituto da Segurança Social, I. P., pode solicitar a colaboração de peritos e entidades especializadas, da Inspecção-Geral do Ministério da Solidariedade e Segurança Social, da autoridade de saúde e de outros serviços competentes, tendo designadamente em consideração as condições de salubridade e segurança, acondicionamento dos géneros alimentícios e condições hígio-sanitárias.
 
-###### Artigo 41.º — Tramitação desmaterializada
+Artigo 41.º
+
+Tramitação desmaterializada
 
 1 - Por portaria do membro do Governo responsável pela área da solidariedade social são definidos os documentos que obedecem a formulários aprovados pelo mesmo diploma, tendo em vista a uniformização e simplificação de procedimentos.
 
@@ -315,13 +350,17 @@ Para efeitos das acções de avaliação e fiscalização previstas nos artigos 
 
 4 - Exceptua-se do disposto no número anterior a tramitação dos procedimentos regidos pelo RJUE, que fazem uso do sistema informático previsto no artigo 8.º-A do mesmo regime.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - É aplicável às condições de segurança referidas no presente decreto-lei, com as necessárias adaptações, o disposto no Decreto-Lei n.º 220/2008, de 12 de Novembro, e demais legislação em vigor na matéria.
 
 2 - (Revogado.)
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 O presente decreto-lei é aplicável às Regiões Autónomas dos Açores e da Madeira, nos termos do disposto no artigo 108.º da Lei n.º 4/2007, de 16 de Janeiro, com as necessárias adaptações, decorrentes nomeadamente da especificidade dos serviços competentes nesta matéria.»
 
@@ -335,15 +374,15 @@ O presente decreto-lei é aplicável às Regiões Autónomas dos Açores e da Ma
 
 Visto e aprovado em Conselho de Ministros de 11 de Agosto de 2011. - Pedro Passos Coelho - Miguel Bento Martins Costa Macedo e Silva - Paulo José de Ribeiro Moita de Macedo - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 8 de Setembro de 2011.**
+Promulgado em 8 de Setembro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Setembro de 2011.**
+Referendado em 12 de Setembro de 2011.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 64/2007, de 14 de Março
 
@@ -657,7 +696,9 @@ h) O preçário, com a indicação dos valores mínimos e máximos;
 
 i) O valor da comparticipação financeira do Estado nas despesas de funcionamento dos estabelecimentos, quando aplicável.
 
-###### Artigo 28.º — Livro de reclamações
+###### Artigo 28.º
+
+## Livro de reclamações
 
 1 - Nos estabelecimentos deve existir um livro de reclamações destinado aos utentes, familiares ou visitantes, de harmonia com o disposto na legislação em vigor.
 

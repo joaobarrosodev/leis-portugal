@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/426-1970-138852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ca91cb70ec416429baedf6bdc7179cd2d0c694b1af91a1b743238e9b0c9f567
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca0c4ddd33bb19ef19a7d51cb0a350ba879243c9e58e938604ba10dd45bc0afe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:42Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +98,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Saúde e
 
 O artigo 58.º do Regulamento do Internato Médico, aprovado pela [Portaria n.º 240/70](https://diariodarepublica.pt/dr/detalhe/portaria/240-1970-142285), de 14 de Maio de 1970, passa a ter a seguinte redacção:
 
-###### Art. 58.º - 1. Aos médicos que nesta data estiverem habilitados com o internato complementar é permitido, no ano de 1970, submeterem-se a provas de admissão à graduação na respectiva especialidade e nos hospitais onde fizeram o referido internato, nos termos previstos neste artigo.
+Art. 58.º - 1. Aos médicos que nesta data estiverem habilitados com o internato complementar é permitido, no ano de 1970, submeterem-se a provas de admissão à graduação na respectiva especialidade e nos hospitais onde fizeram o referido internato, nos termos previstos neste artigo.
 
 2. As provas a que se refere o número anterior serão constituídas pela apreciação e discussão pública do curriculum vitae apresentado pelo candidato.
 

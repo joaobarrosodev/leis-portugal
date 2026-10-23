@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/19600/0001700021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/69/2024/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2024-890389079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85cf7730c6470482bd46be61ffcd08b5c972b369c6e78c3f51a7358df54d3753
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a5d2847dd88681ceb46597d1dab599fcb380b1550c89df12760f2685331aa9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,18 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Cádmio
-- Equipamento Eléctrico
 - Chumbo
+- Equipamento Eléctrico
 - Proteção do Ambiente
 - Substância Perigosa
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:79/2013
+  label: Altera, a partir de 14 de outubro de 2024, com efeitos a 1 de agosto de 2024 (com exceção do disposto nas entradas
+    39 a) e 39 b) do anexo i que produzem efeitos a 1 de janeiro de 2025) o anexo i do Decreto-Lei n.º 79/2013, de 11 de junho,
+    Diário da República n.º 111/2013, Série I
+  source: null
+  date: '2013-06-11'
 - type: cites
   target: celex:32006R1907
   label: null
@@ -89,6 +96,10 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/2013/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/2013/06/11/p/dre
+- type: cites
+  target: pt:dre:496704:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32011L0065
   label: null
@@ -96,13 +107,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:04Z'
   warnings: []
   errors: []
 ---
@@ -139,21 +150,21 @@ O presente decreto-lei produz efeitos a 1 de agosto de 2024, com exceção do di
 
 Visto e aprovado em Conselho de Ministros de 11 de setembro de 2024. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Maria da Graça Carvalho.
 
-**Promulgado em 26 de setembro de 2024.**
+Promulgado em 26 de setembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 2 de outubro de 2024.**
+Referendado em 2 de outubro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
 ## ANEXO I — [...]
 
-| [...] | [...] | [...] |
+| [...] | [...] |  |
 | --- | --- | --- |
 | 1 | [...] | [...] |
 | 1(a) | [...] | [...] |
@@ -261,8 +272,8 @@ Visto e aprovado em Conselho de Ministros de 11 de setembro de 2024. - Luís Mon
 | 37 | [...] | [...] |
 | 38 | [...] |  |
 | 39 | [...] | [...] |
-| 39 a) | Seleneto de cádmio nos pontos quânticos de nanocristais semicondutores contendo cádmio para conversão descendente para utilização na retroiluminação de ecrãs (< 0,2 μg de Cd por mm<sup>2</sup> de área do ecrã) | Caduca, para todas as categorias, a 21 de novembro de 2025 |
-| 39 b) | Cádmio nos pontos quânticos de nanocristais semicondutores para conversão descendente depositados diretamente sobre os dispositivos semicondutores LED para utilização em aplicações de visualização e projeção (< 5 μg de Cd por mm<sup>2</sup> de superfície do circuito integrado LED), com uma quantidade máxima por dispositivo de 1 mg | Caduca, para todas as categorias, a 31 de dezembro de 2027 |
+| 39 a) | Seleneto de cádmio nos pontos quânticos de nanocristais semicondutores contendo cádmio para conversão descendente para utilização na retroiluminação de ecrãs (< 0,2 μg de Cd por mm2 de área do ecrã) | Caduca, para todas as categorias, a 21 de novembro de 2025 |
+| 39 b) | Cádmio nos pontos quânticos de nanocristais semicondutores para conversão descendente depositados diretamente sobre os dispositivos semicondutores LED para utilização em aplicações de visualização e projeção (< 5 μg de Cd por mm2 de superfície do circuito integrado LED), com uma quantidade máxima por dispositivo de 1 mg | Caduca, para todas as categorias, a 31 de dezembro de 2027 |
 | 40 | [...] | [...] |
 | 41 | [...] | [...] |
 | 42 | [...] | [...] |
@@ -270,4 +281,6 @@ Visto e aprovado em Conselho de Ministros de 11 de setembro de 2024. - Luís Mon
 | 44 | [...] | [...] |
 | 45 | [...] | [...] |
 | 46 | Cádmio e chumbo em perfis de plástico que contenham misturas produzidas a partir de resíduos de policloreto de vinilo (a seguir designadas por "PVC rígido recuperado"), utilizados em janelas e portas elétricas e eletrónicas, desde que a concentração ponderal no material de PVC rígido recuperado não exceda 0,1 % de cádmio nem 1,5 % de chumboA partir de 28 de maio de 2026, o PVC rígido recuperado proveniente de janelas e portas elétricas e eletrónicas só pode ser utilizado na produção de novos artigos das categorias especificadas na entrada 63, ponto 18, alíneas a) a d), do anexo xvii do Regulamento (CE) n.º 1907/2006Os fornecedores de artigos de PVC que contenham PVC rígido recuperado com uma concentração ponderal de chumbo igual ou superior a 0,1 % do material de PVC devem assegurar, antes da colocação desses artigos no mercado, que os mesmos ostentam, de forma visível, legível e indelével, a frase: "Contém ≥ 0,1 % de chumbo." Se não puder ser aposta no artigo devido à natureza deste, a marcação deve ser aposta na embalagem do artigoOs fornecedores de artigos de PVC que contenham PVC rígido recuperado devem apresentar às autoridades nacionais responsáveis pela aplicação da legislação que lho solicitem provas documentais que fundamentem as suas alegações sobre a origem de recuperação do PVC utilizado nesses artigos. Podem ser utilizados para fundamentar essas alegações relativamente a artigos de PVC produzidos na União certificados emitidos por regimes que visem fornecer prova de rastreabilidade e de teor reciclado, tais como os elaborados em conformidade com a norma EN 15343:2007 ou com normas reconhecidas equivalentes. As alegações relativas à origem de recuperação do PVC de artigos importados devem ser acompanhadas de um certificado que forneça prova equivalente de rastreabilidade e de teor reciclado, emitido por entidade terceira independente | Aplica-se à categoria 11 e caduca a 28 de maio de 2028 |
-| [...] | [...] | [...] |
+| [...] |  |  |
+
+118198874

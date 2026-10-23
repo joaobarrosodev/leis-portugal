@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/10/208a00/62316237.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/178/2005/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2005-589559
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9369de9e5ce13fec1b6f3ef3b769894fe4619c4ec9cd17b313d1ca5eb7252c23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5377f22ee75f8328a866191981667367ee801c274a0ea7ae08749b981942b73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Poluição Atmosférica
 - Homologação
-- Veículo
-- Proteção do Ambiente
-- Produtor
 - Poluição
+- Poluição Atmosférica
+- Produtor
+- Proteção do Ambiente
 - Regulamento
 - Regulamento da Homologação CE de Modelo de Automóveis e Reboques seus Sistemas Componentes e Unidades Técnicas
 - Regulamento das Emissões de Dioxido de Carbono e Consumo de Combustível dos Automóveis
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:122349220:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:520818:por
+  label: "Alterados os anexos IV e IX do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas,\
+    \ Componentes e Unidades Técnicas, aprovado pelo Dec Lei 72/2000 de 06-Mai, na redacção do presente diploma, pelo DEC\
+    \ LEI.198/2007.16.05.2007.MAI, DR.IS [94] de 16.05.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-2007-520818
+  date: '2007-05-16'
 - type: cites
   target: celex:31970L0156
   label: null
@@ -99,16 +106,30 @@ relationships:
   target: celex:32004L0003
   label: null
   source: http://data.europa.eu/eli/dir/2004/3/oj
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "Revogado, a partir de 17.03.2010, o Dec Lei 72/2000 de 06-Mai, que aprovou o Regulamento da Homologação CE de Modelo\
+    \ de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, alterado pelo presente diploma, pelo DEC LEI.16/2010.12.03.2010.MOPTC,\
+    \ DR.IS [50] de 12.03.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2010-03-12'
+- type: repealed_by
+  target: pt:dre:611962:por
+  label: "Revogado, a partir de 17.03.2010, o Dec Lei 72/2000 de 06-Mai, que aprovou o Regulamento da Homologação CE de Modelo\
+    \ de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, alterado pelo presente diploma, pelo DEC LEI.16/2010.12.03.2010.MOPTC,\
+    \ DR.IS [50] de 12.03.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2010-611962
+  date: '2010-03-12'
 article_structure:
-  article_count: 11
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:04Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +194,9 @@ a) O tipo de motor montado nesse modelo de veículo tiver sido homologado nos te
 
 b) A produção anual total de veículos da categoria N(índice 1) do fabricante a nível mundial for inferior a 2000 unidades.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -187,7 +210,9 @@ b) A produção anual total de veículos da categoria N(índice 1) do fabricante
 
 6 - O serviço técnico deve verificar durante o ensaio se os veículos da categoria M(índice 1) e N(índice 1), homologados em relação às suas emissões de acordo com o Regulamento das Homologações CE de Veículos, Sistemas e Unidades Técnicas Relativo às Emissões Poluentes, aprovado pelo Decreto-Lei n.º 202/2000, de 1 de Setembro, com a última redacção que lhe foi conferida pelo Decreto-Lei n.º 132/2004, de 3 de Junho, satisfazem os valores limite aplicáveis a esse modelo, conforme descrito no referido Regulamento.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 A homologação pode ser objecto de extensão a veículos do mesmo modelo ou de modelo diferente que divirjam no que diz respeito às características referidas no anexo IV a seguir indicadas, se as emissões de CO(índice 2) medidas pelo serviço técnico não excederem em mais de 4%, para os veículos da categoria M(índice 1), e em mais de 6%, para os veículos da categoria N(índice 1), o valor de homologação:
 
@@ -205,7 +230,9 @@ d) Relações de transmissão finais;
 
 e) Equipamentos e acessórios do motor.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O ciclo de ensaios está descrito no anexo VI do Regulamento das Homologações CE de Veículos, Sistemas e Unidades Técnicas Relativo às Emissões Poluentes, e inclui tanto na parte 1 (condições urbanas) como na parte 2 (condições extra-urbanas), sendo todas as prescrições de condução contidas nesse apêndice aplicadas à medição de CO(índice 2).
 
@@ -255,7 +282,9 @@ iv) Potência do motor (não mais de 10% inferior à do valor mais elevado).
 
 7 - Se os dados do fabricante não estiverem dentro do intervalo de tolerância, os resultados obtidos de acordo com o método descrito nos artigos 21.º e 22.º devem ser utilizados como valores de homologação e o serviço técnico deve seleccionar para ensaios adicionais um número adequado de veículos da mesma família.
 
-###### Artigo 5.º-A — Extensão da homologação de veículos da categoria N(índice 1) na mesma família
+Artigo 5.º-A
+
+Extensão da homologação de veículos da categoria N(índice 1) na mesma família
 
 1 - Para os veículos da categoria N(índice 1) aprovados como membros de uma família de veículos pelo procedimento constante dos n.os 3 e 4 do artigo 3.º-A, a homologação só pode ser objecto de extensão a veículos da mesma família se o serviço técnico considerar que o consumo de combustível do novo veículo não excede o consumo de combustível do veículo em que se baseia o consumo de combustível atribuído à família.
 
@@ -303,15 +332,15 @@ b) Recusar a matrícula, a venda ou a entrada em circulação de veículos novos
 
 Visto e aprovado em Conselho de Ministros de 1 de Setembro de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Diogo Pinto de Freitas do Amaral - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 10 de Outubro de 2005.**
+Promulgado em 10 de Outubro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Outubro de 2005.**
+Referendado em 13 de Outubro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 5.º)
 
@@ -401,7 +430,9 @@ Adenda ao certificado de homologação CE n.º ..., relativo à homologação de
 
 Lista de requisitos de homologação CE de um modelo de veículo
 
-# PARTE I — Lista de directivas específicas (eventualmente tendo em conta o âmbito e a última alteração de cada directiva específica enumerada a seguir)
+PARTE I
+
+Lista de directivas específicas (eventualmente tendo em conta o âmbito e a última alteração de cada directiva específica enumerada a seguir)
 
 [(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/10/208a00/62316237.pdf)
 

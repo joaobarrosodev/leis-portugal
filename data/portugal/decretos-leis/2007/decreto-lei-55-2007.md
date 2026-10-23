@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/55/2007/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2007-518444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75231ffff884f18a78bed8f0e0da35c5157d4ca9ce458ecc37b4b27451a79d6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a63dd34ea7b739b3ca9509c3b49552b119a863b7bdda246fdbd177ec3d359804
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Ordenamento do Território
-- Proteção da Floresta
-- Indústria da Construção
-- Proteção do Ambiente
-- Política de Solos
 - ÁREA NON Aedificandi
+- Incêndio
+- Indústria da Construção
+- Ordenamento do Território
+- Política de Solos
+- Proteção da Floresta
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:108010872:por
@@ -91,16 +91,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/54/1991/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/54/1991/08/08/p/dre
+- type: cites
+  target: pt:dre:169003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682209:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:520847:por
+  label: "Rectificado o n.º 2 do artigo 2.º da republicação do Decreto-Lei n.º 327/90, de 22 de Outubro, pela DECL-RECT.37/2007.03.05.2007.PCM,\
+    \ DR.IS [89] de 09.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/37-2007-520847
+  date: '2007-05-03'
+- type: repealed_by
+  target: pt:dre:490450:por
+  label: "Revogado, a partir de 16.12.2011, sem prejuízo do disposto no n.º 1 do art. 2.º, o Dec Lei 327/90, de 22-Out, na\
+    \ redacção do presente diploma, pelo DEC LEI.254/2009.24.09.2009.MADRP, DR.IS [186] de 24.09.2009 (Ver Notas)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2009-490450
+  date: '2009-09-24'
 article_structure:
-  article_count: 9
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:00Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +199,7 @@ c) A realização de obras de reconstrução ou de ampliação das edificações
 
 8 - A infracção ao disposto nos n.os 1 e 2 constitui contra-ordenação punível nos termos do regime jurídico da urbanização e da edificação, sem prejuízo das medidas de embargo e demolição previstas na lei.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - Os planos municipais de ordenamento do território devem obrigatoriamente identificar as áreas de povoamentos florestais, classificando as respectivas manchas de acordo com os critérios previstos nos artigos 5.º, 7.º e seguintes do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de Junho, e no respectivo plano regional de ordenamento florestal.
 
@@ -179,15 +215,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Novembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 22 de Fevereiro de 2007.**
+Promulgado em 22 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 23 de Fevereiro de 2007.**
+Referendado em 23 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 

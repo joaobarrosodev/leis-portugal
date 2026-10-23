@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/218-1978-425153
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T05:35:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7b4ce97c3375c32a989511f82c2c3df354d79109dfff55e4194c7116555f508
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15cb55f6184c9f0f3b59d774155f68c8c8b443649445ee7704375eec679f0050
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:35:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Lisboa
+- Pessoal Técnico
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+- Santa Casa da Misericórdia
 relationships:
 - type: amended_by
   target: pt:dre:579298:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:298228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472275:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:35:44Z'
   warnings: []
   errors: []
 ---
@@ -96,6 +126,6 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Seguran�
 
 Ao quadro do pessoal não dirigente da Santa Casa da Misericórdia de Lisboa, aprovado pela [Portaria n.º 690/74](https://diariodarepublica.pt/dr/detalhe/portaria/690-1974-472275), de 24 de Outubro, com as alterações introduzidas pelas Portarias n.os [819/74](https://diariodarepublica.pt/dr/detalhe/portaria/819-1974-298228), de 17 de Dezembro, [333/75](https://diariodarepublica.pt/dr/detalhe/portaria/333-1975-335943), de 30 de Maio, [780/76](https://diariodarepublica.pt/dr/detalhe/portaria/780-1976-416448), de 31 de Dezembro, e [47/78](https://diariodarepublica.pt/dr/detalhe/portaria/47-1978-447925), de 23 de Janeiro, são acrescentadas as unidades constantes do seguinte mapa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09200/07520752.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09200/07520752.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09200/07520752.pdf)
 
 Secretaria de Estado da Segurança Social, 20 de Março de 1978. - O Secretário de Estado da Segurança Social, Vítor Manuel Gomes Vasques.

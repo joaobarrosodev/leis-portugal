@@ -48,36 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/423-1977-250630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T05:22:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50b9d1f75fdcd1a1bd1df7dad0d564d6734068ea7958142c5f6746543f415c1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf5f49004909ab292a730c61ab200521427c154c9d24809cda9ba6e261f03885
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:22:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Funcionário Público
+- Instituto Português de Oncologia de Francisco Gentil
+- Pessoal de Enfermagem
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:138077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473758:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:22:02Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +116,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Edu
 
 1.º São introduzidas no quadro do Instituto Português de Oncologia de Francisco Gentil, anexo ao [Decreto-Lei n.º 99/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1972-396301), de 25 de Março, com efeitos a partir de 1 de Janeiro de 1976, as seguintes alterações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16000/17351735.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16000/17351735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16000/17351735.pdf)
 
 2.º Nos termos do artigo 6.º do Decreto-Lei n.º 534/76, de 8 de Julho, os enfermeiros de 3.ª classe que hajam concluído o curso de promoção referido no n.º 1 do artigo 4.º do [Decreto-Lei n.º 440/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1974-473758), de 11 de Setembro, serão providos na categoria de enfermeiro de 2.ª classe, mediante lista nominativa, aprovada pelo Secretário de Estado do Ensino Superior e publicada no Diário da República, com dispensa de quaisquer formalidades, excepto o visto do Tribunal de Contas, considerando-se simultaneamente extinto o correspondente número de lugares de enfermeiro de 3.ª classe e criado igual número de lugares de enfermeiro de 2.ª classe.
 

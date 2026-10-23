@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/153/2012/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2012-179519
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ff70da2330cf992870f04470e59edbef3706dd8bce626f34b07f4417d058ad4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6ccae092e8d88734b6406258d45f60d9032013ab447f22a063a2797883dfa3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,34 +68,76 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Crime
 - Autoridade Nacional
-- Proteção Civil
-- Empresa
 - Certificado de Circulação de Mercadorias
-- Multa
+- Circulação de Mercadorias
 - Comércio Internacional
 - Criação de Serviços
+- Crime
 - Definição de Competências
 - Documento Aduaneiro
+- Empresa
 - Equipamento Militar
-- Segurança Pública
-- Fiscalização
-- Política de Defesa
-- Importação
-- Transmissão da Propriedade
-- Licenciamento
-- Circulação de Mercadorias
-- Sanção Penal
 - Exportação
-- Ministro da Defesa Nacional
+- Fiscalização
+- Importação
+- Licenciamento
 - Ministério dos Negócios Estrangeiros
+- Ministro da Defesa Nacional
+- Multa
+- Política de Defesa
+- Proteção Civil
+- Sanção Penal
+- Segurança Pública
 - Transacção Intracomunitária
+- Transmissão da Propriedade
 relationships:
 - type: amended_by
   target: pt:dre:215647906:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260393:por
+  label: "Dada nova redação ao anexo I da Lei 37/2011 de 22-jun, alterado pelo presente diploma, pelo DEC LEI.56/2013.19.04.2013.MDN,\
+    \ DR.IS [77] de 19.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-2013-260393
+  date: '2013-04-19'
+- type: amended_by
+  target: pt:dre:25343684:por
+  label: "Alterado o anexo I à Lei 37/2011, de 22-jun, na redação do presente diploma, pelo DEC LEI.71/2014.12.05.2014.MDN,\
+    \ DR.IS [90] de 12.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-2014-25343684
+  date: '2014-05-12'
+- type: amended_by
+  target: pt:dre:66990216:por
+  label: Alterado o anexo i à Lei 37/2011, de 22-jun, na redação do presente diploma pelo(a) Decreto-Lei n.º 52/2015 - Diário
+    da República n.º 73/2015, Série I de 2015-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2015-66990216
+  date: '2015-04-15'
+- type: amended_by
+  target: pt:dre:75784267:por
+  label: Alterado o anexo I à Lei 37/2011 de 22-jun, na redação do presente diploma, pelo(a) Decreto-Lei n.º 78/2016 - Diário
+    da República n.º 225/2016, Série I de 2016-11-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2016-75784267
+  date: '2016-11-23'
+- type: amended_by
+  target: pt:dre:107495703:por
+  label: Alterado o anexo i à Lei 37/2011 de 22-jun, na redação do presente diploma, pelo(a) Decreto-Lei n.º 56/2017 - Diário
+    da República n.º 112/2017, Série I de 2017-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-2017-107495703
+  date: '2017-06-09'
+- type: amended_by
+  target: pt:dre:114682826:por
+  label: Alterado o anexo I à Lei 37/2011 de 22-jun, na redação do presente diploma, pelo(a) Decreto-Lei n.º 9/2018 - Diário
+    da República n.º 30/2018, Série I de 2018-02-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2018-114682826
+  date: '2018-02-12'
+- type: amended_by
+  target: pt:dre:123578707:por
+  label: Alterado o anexo I à Lei 37/2011 de 22-jun, na redação do presente diploma, pelo(a) Decreto-Lei n.º 98/2019 - Diário
+    da República n.º 144/2019, Série I de 2019-07-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2019-123578707
+  date: '2019-07-30'
 - type: cites
   target: celex:32009L0043
   label: null
@@ -115,13 +157,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:09Z'
   warnings: []
   errors: []
 ---
@@ -156,13 +198,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de maio de 2012. - Pedro Passos Coelho - Luís Miguel Gubert Morais Leitão - José Pedro Correia de Aguiar-Branco.
 
-**Promulgado em 26 de junho de 2012.**
+Promulgado em 26 de junho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de junho de 2012.**
+Referendado em 28 de junho de 2012.
 
 Pelo Primeiro-Ministro, Vítor Louçã Rabaça Gaspar, Ministro de Estado e das Finanças.
 

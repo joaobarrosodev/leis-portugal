@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/529-1974-475741
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T04:29:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8054cb098db01b213ffde9a11ba8a722e619ff02437145ca79afa8e606c8c4e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9b087ddec6e3ebbe1389a2adacbbf673e13f7b381e125e1a6fcf52cc41df572
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:29:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:167201:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:29:35Z'
   warnings: []
   errors: []
 ---
@@ -86,6 +90,6 @@ de 27 de Agosto
 
 Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado do Orçamento, nos termos do disposto no § único do artigo 59.º da [Lei n.º 1368](https://diariodarepublica.pt/dr/detalhe/lei/1368-1922-167201), de 21 de Setembro de 1922, que na liquidação de contribuições, impostos e taxas a efectuar posteriormente à publicação da presente portaria e que tenha por base o ouro ou moeda estrangeira sejam adoptados o ágio e o câmbio médio seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/08/19900/09440944.pdf))](https://files.diariodarepublica.pt/1s/1974/08/19900/09440944.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/08/19900/09440944.pdf)
 
 Secretaria de Estado do Orçamento, 9 de Agosto de 1974. - O Secretário de Estado do Orçamento, António de Seixas da Costa Leal.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 62/1994, 1º Suplemento, Série I-A de 1994-03-15
   number: '62'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1300-(2) a 1300-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/062a01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/14/1994/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/14-1994-276777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T04:16:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b2b0994ab963bbb46e1f3d8654320301269501aa27df94bc2a5c7fb44b7f98d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fc3dbd7d96a3a93dbd336267dd5e31eddf2cc5a34168661231721f3732cf45d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:16:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bogotá
-- Exoneração
 - Colômbia
 - Embaixador
+- Exoneração
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:16:16Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +89,16 @@ validation:
 
 de 15 de Março
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea a), da Constituição, o seguinte:
 
 É exonerado, sob proposta do Governo, o ministro plenipotenciário António Abel Martins Pereira de Meneses Pinto Machado do cargo de embaixador de Portugal em Bogotá.
 
-**Assinado em 17 de Fevereiro de 1994.**
+Assinado em 17 de Fevereiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Fevereiro de 1994.**
+Referendado em 21 de Fevereiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro dos Negócios Estrangeiros, José Manuel Durão Barroso.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro dos Negócios Estrangeiros, José Manuel Durão Barroso.

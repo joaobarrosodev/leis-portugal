@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/50/2020/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2020-139804818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51a93ca1d580213a40c380eb50c86dfab1703692d73c8560f407303cc1b7a1dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2abd3e3fad0cfd2bd364c254354ccfeffd14eb705174b69328d25a3bd1f0bdad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regime do Contrato de Trabalho em Funções Públicas
 - Aposentação
 - Aposentado
-- Médico
-- Serviço Nacional de Saúde
-- Cuidados Médicos
-- Prorrogação de Prazo
 - Contrato de Trabalho
+- Cuidados Médicos
+- Médico
+- Prorrogação de Prazo
+- Regime do Contrato de Trabalho em Funções Públicas
 - Remuneração
+- Serviço Nacional de Saúde
 - Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
 - type: cites
@@ -100,13 +100,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:47Z'
   warnings: []
   errors: []
 ---
@@ -141,12 +141,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 30 de julho de 2020. - Pedro Gramaxo de Carvalho Siza Vieira - João Rodrigo Reis Carvalho Leão - Alexandra Ludomila Ribeiro Fernandes Leitão - Marta Alexandra Fartura Braga Temido de Almeida Simões.
 
-**Promulgado em 3 de agosto de 2020.**
+Promulgado em 3 de agosto de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de agosto de 2020.**
+Referendado em 4 de agosto de 2020.
 
 Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
+
+113472522

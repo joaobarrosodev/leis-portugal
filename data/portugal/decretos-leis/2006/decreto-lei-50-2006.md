@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/50/2006/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2006-693256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f136d0febdd119e79171f8e1d727f0071640843b895019a41bf8fdca76dbd58c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7f0270f78070d620239f3d73b56508bc6c6348cafca31276221447d8bbbe3e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Aditivo Alimentar
+- Alimentação
 - Aproximação das Legislações
 - Controlo de Qualidade
 - Fiscalização
 - Higiene Alimentar
 - Normas de Segurança
-- Aditivo Alimentar
-- Alimentação
+- Produto Alimentar
 - Sondagem
 relationships:
 - type: cites
@@ -107,13 +107,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:52Z'
   warnings: []
   errors: []
 ---
@@ -154,15 +154,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 15 de Fevereiro de 2006.**
+Promulgado em 15 de Fevereiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Fevereiro de 2006.**
+Referendado em 15 de Fevereiro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Métodos de amostragem para controlo oficial dos teores de toxinas Fusarium em determinados géneros alimentícios
 
@@ -220,9 +220,9 @@ Frequência de amostragem (SF): número de sacas ou sacos dos quais deve ser col
 
 QUADRO N.º 1
 
-##### Subdivisão dos lotes em sublotes em função do produto e da massa do lote
+Subdivisão dos lotes em sublotes em função do produto e da massa do lote
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)
 
 4.4 - Método de amostragem para cereais e produtos derivados de cereais para lotes (igual ou maior que) 50 t:
 
@@ -244,7 +244,7 @@ QUADRO N.º 2
 
 Número de amostras elementares a colher em função da massa do lote de cereais e produtos derivados de cereais
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)
 
 4.6 - Método de amostragem para géneros alimentícios destinados a lactentes e crianças jovens:
 
@@ -284,13 +284,13 @@ r - repetibilidade, valor abaixo do qual se pode esperar que a diferença absolu
 
 s(índice r) - desvio padrão, calculado a partir dos resultados obtidos em condições de repetibilidade;
 
-RSD(índice r) - desvio padrão relativo, calculado a partir dos resultados obtidos em condições de repetibilidade [[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)];
+RSD(índice r) - desvio padrão relativo, calculado a partir dos resultados obtidos em condições de repetibilidade [[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)];
 
 R - reprodutibilidade, valor abaixo do qual se pode esperar que a diferença absoluta entre os resultados de testes individuais, obtidos em condições de reprodutibilidade, nomeadamente com um material idêntico obtido pelos operadores de vários laboratórios que utilizem o método de ensaio normalizado, se situe dentro de um certo limite de probabilidade (em princípio 95%); R = 2,8 x S(índice R);
 
 S(índice R) - desvio-padrão, calculado a partir dos resultados obtidos em condições de reprodutibilidade;
 
-RSD(índice R) - desvio-padrão relativo, calculado a partir dos resultados obtidos em condições de reprodutibilidade [[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)].
+RSD(índice R) - desvio-padrão relativo, calculado a partir dos resultados obtidos em condições de reprodutibilidade [[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)].
 
 4.2 - Requisitos gerais - os métodos de análise utilizados para o controlo dos géneros alimentícios devem cumprir o disposto no artigo 18.º do Decreto-Lei n.º 132/2000, de 13 de Julho, que transpôs para o ordenamento jurídico as Directivas do Conselho n.os [89/397/CEE](https://data.europa.eu/eli/dir/1989/397/oj?locale=pt), de 14 de Junho, relativa ao controlo oficial dos géneros alimentícios, e [93/99/CEE](https://data.europa.eu/eli/dir/1993/99/oj?locale=pt), de 29 de Outubro, relativa a medidas adicionais respeitantes ao controlo oficial dos géneros alimentícios.
 
@@ -300,15 +300,15 @@ RSD(índice R) - desvio-padrão relativo, calculado a partir dos resultados obti
 
 a) Características de desempenho relativas ao desoxinivalenol:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)
 
 b) Características de desempenho relativas à zearalenona:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)
 
 c) Características de desempenho relativas às fumonisinas B(índice 1) e B(índice 2):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)
 
 d) Características de desempenho relativas às toxinas T-2 e HT-2:
 
@@ -322,7 +322,7 @@ RSD(índice R) = 2(elevado a (1 - 0,5logC))
 
 em que:
 
-RSD(índice R) é o desvio-padrão relativo, calculado a partir dos resultados obtidos em condições de reprodutibilidade [[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)];
+RSD(índice R) é o desvio-padrão relativo, calculado a partir dos resultados obtidos em condições de reprodutibilidade [[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)];
 
 C é a taxa de concentração (ou seja, 1 = 100 g/100 g, 0,001 = 1000 mg/kg).
 
@@ -332,7 +332,7 @@ Trata-se de uma equação geral relativa à precisão, que se considerou ser ind
 
 Dado o número limitado de métodos de análise devidamente validados por um ensaio colectivo, especialmente para a determinação das toxinas T-2 e HT-2, é também possível recorrer à abordagem da função da incerteza, especificando a incerteza máxima aceitável, para avaliar a aptidão (adequação à finalidade) do método de análise a utilizar pelo laboratório. O laboratório pode utilizar um método que produza resultados até uma incerteza padrão máxima. A incerteza padrão máxima pode ser calculada por meio da fórmula seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)
+[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)
 
 Se um método analítico produzir resultados cuja incerteza de medição seja inferior à incerteza padrão máxima, esse método será considerado tão adequado quanto um método que respeite as características de desempenho indicadas no n.º 4.3.1.
 
@@ -340,7 +340,7 @@ QUADRO N.º 3
 
 Valores numéricos a utilizar para a como constantes, na fórmula indicada neste ponto, dependendo da concentração em causa
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)](https://files.diariodarepublica.pt/1s/2006/03/044a00/16541658.pdf)
 
 4.4 - Cálculo da taxa de recuperação e registo dos resultados - o resultado analítico deve ser registado, corrigido ou não, em função da recuperação. O modo de registo e a taxa de recuperação devem ser indicados. O resultado analítico corrigido em função da recuperação será utilizado para verificar a conformidade (v. o n.º 5 do anexo I). O resultado analítico tem de ser registado como x +/- U, sendo x o resultado analítico e U a incerteza de medição expandida.
 

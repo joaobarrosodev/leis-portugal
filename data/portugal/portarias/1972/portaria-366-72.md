@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/366-1972-674458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1e3a71dcd899c3543a60f3ca17145ce23295e30247f9e75a5be0d169c987630
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0696dfd27514f7fbca4124b307604f9b99ef52b0fc731168d1c2a4ecca700dd6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:42Z'
   warnings: []
   errors: []
 ---
@@ -86,6 +90,6 @@ de 1 de Julho
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do [Decreto-Lei n.º 23367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23367-1933-326747), de 18 de Dezembro de 1933, reforçar com a importância de 100000$00 a verba do capítulo 10.º, artigo 315.º, n.º 1, alínea a) «Encargos gerais - Diversas despesas - Passagens e auxílios a necessitados - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral em vigor da província de Cabo Verde, tomando como contrapartida igual importância a sair das disponibilidades da verba do capítulo 4.º, artigo 71.º, n.º 1, alínea a) «Administração-Geral e Fiscalização - Serviços de Educação - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da mesma tabela de despesa.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.

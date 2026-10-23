@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/119a00/22762284.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/93/2000/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2000-300034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:23:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b2feb346cfb525047ba8d71556cdeee562da27412e9779e768e563acb200f97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ccf8201dd62b05265918cccfa8bf0ddd2ae1c831d667f4463a63aefb49bab945
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:23:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,42 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
-- Multa
 - Contra-ordenação
-- Transporte Ferroviário
+- Direito Territorial
 - Especificação Técnica
 - ETI
 - Fiscalização
 - Infraestrutura dos Transportes
 - Instituto Nacional do Transporte Ferroviário
 - Instituto Português da Qualidade
+- Multa
 - Normas de Segurança
 - Sistema Ferroviário Transeuropeu de Alta Velocidade
-- Direito Territorial
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:279843:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667552:por
+  label: "Alterado o nº 3 do anexo II, o nº 2.4.1 do anexo III e revogado o nº 4 do art. 15º pelo DEC LEI.152/2003.2003.07.11.MOPTH,\
+    \ DR.IS-A [158]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-2003-667552
+  date: '2003-07-11'
+- type: amended_by
+  target: pt:dre:520837:por
+  label: "Alterados os arts. 1º, 2º, 5º, 6º, 8º, 11º, 13º, 17º e 21º, assim como os anexos I, II, III e VII do presente diploma,\
+    \ com a redacção conferida no Dec Lei 152/2003 de 11-Jul, e aditado o art. 11º-A a este mesmo diploma pelo DEC LEI.178/2007.08.05.2007.MOPTC,\
+    \ DR.IS [88] de 08.05.2007, que remeteu para o Instituto da Mobilidade e dos Transportes Terrestres todas as referências\
+    \ efectuadas ao Instituto Nacional do Transporte Ferroviário, e procedeu à sua republicação na redacção actual \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2007-520837
+  date: '2007-05-08'
+- type: amended_by
+  target: pt:dre:452206:por
+  label: "Alterado o anexo VI pelo DEC LEI.191/2008.25.09.2008.MOPTC, DR.IS [186] de 25.09.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/191-2008-452206
+  date: '2008-09-25'
 - type: cites
   target: celex:31983L0109
   label: null
@@ -97,16 +116,22 @@ relationships:
   target: celex:31996L0048
   label: null
   source: http://data.europa.eu/eli/dir/1996/48/oj
+- type: repealed_by
+  target: pt:dre:279843:por
+  label: "Revogado, a partir de 22.02.2011, o presente diploma, na redacção do Dec Lei 152/2003, de 11-Jul, do Dec Lei 178/2007,\
+    \ de 08-Maio, e do Dec Lei 191/2008, de 25-Set, pelo DEC LEI.27/2011.17.02.2011.MOPTC, DR.IS [34] de 17.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2011-279843
+  date: '2011-02-17'
 article_structure:
   article_count: 21
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:23:29Z'
   warnings: []
   errors: []
 ---
@@ -355,15 +380,15 @@ b) Publicar a lista das normas harmonizadas adoptadas no âmbito do presente dip
 
 Visto e aprovado em Conselho de Ministros de 16 de Março de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - José Sócrates Carvalho Pinto de Sousa - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 19 de Abril de 2000.**
+Promulgado em 19 de Abril de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Maio de 2000.**
+Referendado em 12 de Maio de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Sistema ferroviário transeuropeu de alta velocidade
 

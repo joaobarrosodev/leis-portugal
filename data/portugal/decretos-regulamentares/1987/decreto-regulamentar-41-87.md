@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/14900/25452545.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1987-419594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6f4000387b71ed95dadd6cca08facfc2a0ef4645cb4c791880a38dbf5ae231f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e972cd329eddc08e21fdc161d5d5a757119614d9495a0c206f0738cf68f8246
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Distrital de Finanças
+- Lisboa
+- Reestruturação de Serviços
+- Repartição de Finanças
 relationships:
 - type: amended_by
   target: pt:dre:533376:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:326736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461617:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:533376:por
+  label: "Revogado pelo DEC LEI.408/93.14.12.1993.MF, DR.IS-A [290] de 14.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/408-1993-533376
+  date: '1993-12-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:01Z'
   warnings: []
   errors: []
 ---
@@ -98,17 +116,17 @@ Assim:
 
 O Governo decreta, nos termos do artigo 14.º do [Decreto-Lei n.º 363/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1978-326736), de 28 de Novembro, e da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - No distrito de Lisboa existirão duas direcções de finanças, cujas áreas fiscais serão definidas por despacho do Ministro das Finanças.
+Artigo 1.º - 1 - No distrito de Lisboa existirão duas direcções de finanças, cujas áreas fiscais serão definidas por despacho do Ministro das Finanças.
 
 2 - Os serviços mencionados no número anterior serão designados por Direcção de Finanças de Lisboa, figurando entre parêntesis a respectiva área geográfica.
 
-###### Art. 2.º A natureza e atribuições das direcções de finanças mencionadas no artigo anterior são as fixadas para os serviços distritais da Direcção-Geral das Contribuições e Impostos (DGCI) previstos nos artigos 6.º e 7.º do [Decreto-Lei n.º 363/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1978-326736), de 28 de Novembro.
+Art. 2.º A natureza e atribuições das direcções de finanças mencionadas no artigo anterior são as fixadas para os serviços distritais da Direcção-Geral das Contribuições e Impostos (DGCI) previstos nos artigos 6.º e 7.º do [Decreto-Lei n.º 363/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1978-326736), de 28 de Novembro.
 
-###### Art. 3.º Os serviços referidos no artigo 1.º do presente decreto são dirigidos por directores distritais de finanças.
+Art. 3.º Os serviços referidos no artigo 1.º do presente decreto são dirigidos por directores distritais de finanças.
 
-###### Art. 4.º Cada uma das direcções de finanças de Lisboa terá a estrutura prevista para a Direcção Distrital de Finanças do Porto (DDFP) no [Decreto Regulamentar n.º 54/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/54-1980-461617), de 30 de Setembro, na parte não disciplinada neste diploma.
+Art. 4.º Cada uma das direcções de finanças de Lisboa terá a estrutura prevista para a Direcção Distrital de Finanças do Porto (DDFP) no [Decreto Regulamentar n.º 54/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/54-1980-461617), de 30 de Setembro, na parte não disciplinada neste diploma.
 
-###### Art. 5.º - 1 - Em cada uma das direcções de finanças de Lisboa e na DDFP existirão, integrados nos departamentos dos serviços distritais de fiscalização tributária, para além do Serviço de Fiscalização Geral e do Serviço de Expediente, dois serviços de fiscalização de empresas e dois serviços de administração do imposto sobre o valor acrescentado, equiparados a divisão.
+Art. 5.º - 1 - Em cada uma das direcções de finanças de Lisboa e na DDFP existirão, integrados nos departamentos dos serviços distritais de fiscalização tributária, para além do Serviço de Fiscalização Geral e do Serviço de Expediente, dois serviços de fiscalização de empresas e dois serviços de administração do imposto sobre o valor acrescentado, equiparados a divisão.
 
 2 - Incumbe especialmente aos serviços de fiscalização de empresas:
 
@@ -132,16 +150,16 @@ d) Assegurar, relativamente aos impostos referidos na alínea a), as actividades
 
 4 - Os chefes dos serviços de fiscalização de empresas e de administração do imposto sobre o valor acrescentado são equiparados, para todos os efeitos, a chefe de divisão, sendo nomeados por despacho do Ministro das Finanças, mediante proposta do director-geral, de entre técnicos economistas, com categoria igual ou superior a principal, e supervisores tributários, pertencentes aos quadros de pessoal da DGCI.
 
-###### Art. 6.º O Ministro das Finanças providenciará no sentido de o desdobramento da actual Direcção Distrital de Finanças de Lisboa se efectivar sem quebra da actividade dos serviços de administração fiscal, dotando, para o efeito, as novas direcções de finanças com os meios humanos e materiais necessários ao seu funcionamento normal.
+Art. 6.º O Ministro das Finanças providenciará no sentido de o desdobramento da actual Direcção Distrital de Finanças de Lisboa se efectivar sem quebra da actividade dos serviços de administração fiscal, dotando, para o efeito, as novas direcções de finanças com os meios humanos e materiais necessários ao seu funcionamento normal.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 9 de Junho de 1987.**
+Promulgado em 9 de Junho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Junho de 1987.**
+Referendado em 11 de Junho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

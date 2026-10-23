@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 55/1995, 1º Suplemento, Série I-B de 1995-03-06
   number: '55'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1228-(23) a 1228-(26)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/03/055b01/00230026.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/11-f/1995/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-f-1995-263700
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T08:27:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 878a3fa171f602f602de84bdb5e44ad73206ecb2a5e41b206f38413beb065ab0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd8ea1c76cb42dbe1e2b22d8e4ddc3ade045bcc3e6911dd7f46df468612d8f7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:27:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Empresa
+- Apoio ao Investimento
 - Definição de Competências
 - Desenvolvimento Industrial
-- Política Industrial
-- Apoio ao Investimento
-- Projeto de Investimento
-- Indústria
-- QCA
+- Empresa
+- Financiamento
 - Gabinete de Estudos e Planeamento
+- Indústria
 - Ministério da Indústria e Energia
 - Modernização Industrial
-- Regime de Apoio
+- Pedip II
 - Pequenas e Médias Empresas
+- Política Industrial
+- Projeto de Investimento
+- QCA
+- Regime de Apoio
 - Regulamento
 - Regulamento dos Projectos Industrialmente Orientados
-- Pedip II
 - Sistema de Incentivos Pedip
 relationships:
 - type: amended_by
   target: pt:dre:472717:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:472717:por
+  label: "Alterados os arts. 2º, 3º, 4º e 6º a 10º do Regulamento, pelo DN.39/98.1998.05.12.MECO DR.IS-B [132] DE 08/JUN/1998\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/39-1998-472717
+  date: '1998-05-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/177/1994/06/27/p/dre
   label: null
@@ -97,16 +103,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/622/1994/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/622/1994/08/23/p/dre
+- type: cites
+  target: pt:dre:218698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290635:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:27:49Z'
   warnings: []
   errors: []
 ---

@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/38/2011/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2011-278182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de4f5d706d480698f173bd9a7eaa81272a48680adf130b6e33e50130ca95069d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6eca32ba0380a75e84baa3d4f1f40ce33cb480b9b5b992356b48cf778b31811
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,8 +75,8 @@ subjects:
 - Etiquetagem
 - Fiscalização
 - Informação do Consumidor
-- Produto Têxtil
 - Normalização
+- Produto Têxtil
 relationships:
 - type: amended_by
   target: pt:dre:190604:por
@@ -110,16 +110,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/163/2004/07/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/163/2004/07/03/p/dre
+- type: repealed_by
+  target: pt:dre:190604:por
+  label: "Revogado o Dec Lei 163/2004, de 03-jul, na redação do presente diploma, pelo DEC LEI.257/2012.29.11.2012.MEE, DR.IS\
+    \ [231] de 29.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-2012-190604
+  date: '2012-11-29'
 article_structure:
-  article_count: 7
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:13Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +166,9 @@ a) ...
 
 b) As fitas flexíveis ou os tubos com uma largura aparente não superior a 5 mm, incluindo as fitas cortadas de fitas mais largas ou de folhas fabricadas a partir das substâncias utilizadas na fabricação das fibras referidas no anexo i sob os n.os 19 a 48 e aptas para aplicações têxteis, sendo que se considera largura aparente a largura média da fita ou do tubo na forma dobrada, achatada, comprimida ou torcida ou, nos casos de largura não uniforme, a largura média.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - As verificações da conformidade dos produtos têxteis, com as indicações de composição previstas no presente decreto-lei, são efectuadas de acordo com os métodos de análise estabelecidos no anexo ii do Decreto-Lei n.º 38/2011, de 11 de Março.
 
@@ -192,15 +200,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Janeiro de 2011. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - José Manuel Santos de Magalhães - José António Fonseca Vieira da Silva.
 
-**Promulgado em 16 de Fevereiro de 2011.**
+Promulgado em 16 de Fevereiro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de Fevereiro de 2011.**
+Referendado em 17 de Fevereiro de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -208,15 +216,21 @@ Visto e aprovado em Conselho de Ministros de 27 de Janeiro de 2011. - José Sóc
 
 Quadro das fibras têxteis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf))](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf)
 
-## ANEXO II — Taxas convencionais a utilizar para o cálculo da massa das fibras contidas num produto têxtil
+ANEXO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf))](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf)
+Taxas convencionais a utilizar para o cálculo da massa das fibras contidas num produto têxtil
 
-## ANEXO II — (a que se refere o artigo 4.º)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf)
 
-### CAPÍTULO I — Preparação das amostras reduzidas e dos provetes para determinar a composição em fibras dos produtos têxteis
+ANEXO II
+
+(a que se refere o artigo 4.º)
+
+CAPÍTULO I
+
+Preparação das amostras reduzidas e dos provetes para determinar a composição em fibras dos produtos têxteis
 
 1 - Âmbito de aplicação:
 
@@ -308,7 +322,9 @@ Colher em seguida provetes representativos das amostras reduzidas pré-tratadas.
 
 (5) Se as bobinas puderem ser colocadas sobre um dispositivo conveniente, é possível desenrolar simultaneamente um certo número.
 
-### CAPÍTULO II — Métodos de análise quantitativa de determinadas misturas binárias de fibras têxteis
+CAPÍTULO II
+
+Métodos de análise quantitativa de determinadas misturas binárias de fibras têxteis
 
 Introdução
 
@@ -438,7 +454,7 @@ Exprimir a massa do componente insolúvel sob a forma de percentagem da massa to
 
 1.8.1 - Cálculo da percentagem em massa do componente insolúvel seco e puro, não tendo em conta a perda de massa das fibras devida ao pré-tratamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf))](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf)
 
 Os valores adequados de d são dados nas secções relevantes de cada método.
 
@@ -446,11 +462,11 @@ Os valores de d são os valores normais aplicáveis às fibras não degradadas q
 
 1.8.2 - Cálculo da percentagem em massa do componente insolúvel após aplicação das taxas de recuperação convencionais e dos eventuais factores de correcção que têm em conta a perda de massa ocasionada pelo pré-tratamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf))](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf)
 
 A percentagem do segundo componente equaciona-se da seguinte maneira:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf))](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf)
 
 Quando se utilizar um pré-tratamento especial, os valores de b(índice 1) e b(índice 2) devem ser determinados, se possível, submetendo cada uma das fibras componentes puras ao pré-tratamento aplicado na análise. Por fibras puras deve entender-se as fibras isentas de todas as matérias não-fibrosas, com excepção das que contêm normalmente (pela sua natureza ou devido ao processo de fabrico), no estado (cru, branqueado) em que se encontram no artigo a submeter a análise.
 
@@ -532,7 +548,7 @@ Exprimir a massa de cada um dos componentes em percentagem da massa total das fi
 
 2.9.1 - Cálculo das percentagens das massas das fibras puras e secas, não tendo em conta a perda de massa da fibra devida ao pré-tratamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf))](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf)
 
 2.9.2 - Cálculo das percentagens de cada um dos componentes após ter aplicado as taxas convencionais e os eventuais factores de correcção que têm em conta perdas de massa devidas ao pré-tratamento (v. n.º 1.8.2).
 
@@ -560,7 +576,7 @@ Por conseguinte, o desvio entre dois resultados num conjunto de análises efectu
 
 Quadro resumo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf))](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf)
 
 (6) O método n.º 12 constitui uma excepção. Baseia-se na determinação de um elemento constitutivo de um dos dois componentes.
 
@@ -1252,11 +1268,11 @@ Efectuar um ensaio em branco, submetendo a digestão e destilação apenas os re
 
 6.1 - Calcular como segue a percentagem de azoto na amostra seca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf))](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf)
 
 6.2 - Utilizando os valores de 0,22 % para o teor de azoto da juta e de 16,2 % para o das fibras de origem animal, sendo estas duas percentagens expressas na base da massa das fibras secas, calcula-se a composição da mistura pela seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf))](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf)
 
 7 - Precisão:
 
@@ -1458,7 +1474,7 @@ Para uma mistura homogénea de matérias têxteis, os limites de confiança dos 
 
 Esquema referido no n.º 3.1, alínea i), do método n.º 15
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf))](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/05000/0138201400.pdf)
 
 Método n.º 16
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/21100/37423751.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-1988-356081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2dbbbf4dd81ca27723641ec505a29f5932cad7525127a421fe4498d3494bfca0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b082b4200bdf61d5cc1f4636819bb424e806cb119efedc52f44390668f42c0f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Estrada
+- Segurança Rodoviária
+- Sinalização
 relationships:
 - type: amended_by
   target: pt:dre:302974:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "CONVERTIDAS EM CONTRA-ORDENACOES AS INFRACÇÕES QUALIFICADAS COMO CONTRAVENCOES NO PRESENTE DIPLOMA, PELO DEC LEI\
+    \ 199/95 DE 31-JUL DR.IS-A [175]\0.IS-A [175]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-07-31'
+- type: cites
+  target: pt:dre:446087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687267:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:302974:por
+  label: "Revogado pelo DR.22-A/98.1998.10.01.MAI DR.IS-B [227]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/22-a-1998-302974
+  date: '1998-10-01'
 article_structure:
   article_count: 23
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:13Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +118,9 @@ Assim:
 
 Ao abrigo do disposto no n.º 1 do artigo 2.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 39762, de 20 de Maio de 1954, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º As obras e obstáculos ocasionais na via pública devem ser delimitados por sinalização temporária, tendo em vista prevenir os utentes do perigo que representam, nos termos definidos no Regulamento de Sinalização Temporária de Obras e Obstáculos na Via Pública, anexo ao presente diploma e que dele faz parte integrante.
+Artigo 1.º As obras e obstáculos ocasionais na via pública devem ser delimitados por sinalização temporária, tendo em vista prevenir os utentes do perigo que representam, nos termos definidos no Regulamento de Sinalização Temporária de Obras e Obstáculos na Via Pública, anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º - 1 - A sinalização de carácter temporária compete à Junta Autónoma de Estradas e às câmaras municipais, conforme os casos, nos termos definidos para a sinalização de carácter permanente.
+Art. 2.º - 1 - A sinalização de carácter temporária compete à Junta Autónoma de Estradas e às câmaras municipais, conforme os casos, nos termos definidos para a sinalização de carácter permanente.
 
 2 - Sempre que a duração das obras seja superior a 30 dias ou, independentemente da duração, a respectiva natureza e extensão o justifiquem, tem de ser elaborado um projecto de sinalização de carácter temporário, a implementar na via.
 
@@ -108,35 +130,37 @@ Ao abrigo do disposto no n.º 1 do artigo 2.º do Código da Estrada, aprovado p
 
 5 - A sinalização de carácter temporário deve ser retirada após a conclusão das obras ou a remoção do obstáculo ocasional, restituindo-se à via as condições normais de circulação.
 
-###### Art. 3.º - 1 - Os contratos de adjudicação de obras na via pública que envolvam a necessidade de colocação de sinalização temporária devem conter, sempre que a implementação da sinalização fique a cargo do adjudicatário, cláusula prevendo penalidades aplicáveis a este no caso de incumprimento do disposto no Regulamento anexo ou no n.º 5 do artigo anterior.
+Art. 3.º - 1 - Os contratos de adjudicação de obras na via pública que envolvam a necessidade de colocação de sinalização temporária devem conter, sempre que a implementação da sinalização fique a cargo do adjudicatário, cláusula prevendo penalidades aplicáveis a este no caso de incumprimento do disposto no Regulamento anexo ou no n.º 5 do artigo anterior.
 
 2 - As penalidades a que se refere o número anterior não podem ser inferiores a 50000$00, acrescidos de 10000$00 por cada dia em que se mantiver a irregularidade, e são devidas pelo desrespeito de cada uma das obrigações impostas.
 
-###### Art. 4.º - 1 - Aqueles que, por acção ou omissão, derem causa a qualquer obstáculo localizado na via pública têm de o sinalizar por forma bem visível e a uma distância que permita evitar qualquer acidente, sem prejuízo da colocação do sinal de pré-sinalização de perigo sempre que o uso do mesmo seja obrigatório, nos termos do disposto no [Decreto-Lei n.º 45299](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45299-1963-687267), de 9 de Outubro de 1963.
+Art. 4.º - 1 - Aqueles que, por acção ou omissão, derem causa a qualquer obstáculo localizado na via pública têm de o sinalizar por forma bem visível e a uma distância que permita evitar qualquer acidente, sem prejuízo da colocação do sinal de pré-sinalização de perigo sempre que o uso do mesmo seja obrigatório, nos termos do disposto no [Decreto-Lei n.º 45299](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45299-1963-687267), de 9 de Outubro de 1963.
 
 2 - À obrigação de sinalização referida no número anterior acresce a de comunicar a ocorrência às entidades fiscalizadoras ou gestoras da via sempre que a natureza do obstáculo o justifique.
 
 3 - A contravenção do disposto nos números anteriores será punida com multa de 2500$00 a 12500$00.
 
-###### Art. 5.º O presente diploma entra em vigor 180 dias após a sua publicação.
+Art. 5.º O presente diploma entra em vigor 180 dias após a sua publicação.
 
 Presidência do Conselho de Ministros, 25 de Julho de 1988.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 19 de Agosto de 1988.**
+Promulgado em 19 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Agosto de 1988.**
+Referendado em 29 de Agosto de 1988.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Vice-Primeiro-Ministro.
 
 Regulamento de sinalização de carácter temporário de obras e obstáculos na via pública
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Princípios gerais
 
@@ -510,4 +534,4 @@ São da responsabilidade do proprietário do veículo todas as despesas com vist
 
 Se a localização das paragens de transportes colectivos se revelar especialmente perigosa para os outros utentes da via, em função das características das obras e obstáculos ocasionais, devem aquelas ser alteradas de forma a garantirem as condições de segurança adequadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/21100/37423751.pdf))](https://files.diariodarepublica.pt/1s/1988/09/21100/37423751.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/21100/37423751.pdf)

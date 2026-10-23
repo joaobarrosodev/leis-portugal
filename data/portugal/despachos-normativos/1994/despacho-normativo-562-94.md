@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/562/1994/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/562-1994-231883
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T08:21:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3937bb0a28db7cd747ab9501565f597f4092db48f94270e23c20c1ac6e279441
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10be61fe54864b74a39b965743fcac92e3a5e5c752983528382acab0624dc353
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:21:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Instituição de Crédito
 - Desenvolvimento Industrial
-- Política Industrial
+- Financiamento
 - Fundo de Capital de Risco
-- Indústria
-- Modernização Industrial
-- Regime de Apoio
-- Pedip II
-- Sinfepedip
 - IAPMEI
+- Indústria
+- Instituição de Crédito
+- Modernização Industrial
+- Pedip II
+- Política Industrial
+- Regime de Apoio
+- Sinfepedip
 - Sistema de Incentivos Pedip
 - Sociedade de Capital de Risco
 - Subsídio
@@ -84,6 +84,12 @@ relationships:
   target: pt:dre:475098:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 151/94, DE 16 DE SETEMBRO, PUBLICADA NO DR.IS-B, 227, 3 SUPL, DE 940930.\0\
+    \ 940930."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-09-30'
 - type: cites
   target: celex:31994D0170
   label: null
@@ -91,13 +97,13 @@ relationships:
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:21:49Z'
   warnings: []
   errors: []
 ---

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/261a00/78197831.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/475/1999/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1999-683064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:13:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28479375659b614c1f8e02e436a657c479dc53758da58a2e2cdf7d6ccd9e1ab4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2095f95cde1a75600c00ed161e7bc25a46ad3db7d391e8165e886834947f0cba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:13:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Garantia
-- Gestão Financeira
-- Definição de Competências
+- Companhia de Seguros
 - Contrato de Adesão
+- Definição de Competências
 - Financiamento da Segurança Social
 - Fiscalização
 - Fundo de Pensões
 - Fundo de Pensões para as Comunidades Portuguesas
+- Garantia
+- Gestão Financeira
 - Instituto de Seguros de Portugal
 - Pensão de Reforma
-- Sociedade Gestora de Fundos de Pensões
+- Pensões
 - Plano Poupança em Acções
 - Plano Poupança-reforma
-- Pensões
 - Proteção Social
 - Regime Jurídico
-- Companhia de Seguros
 - Segurança Social
+- Sociedade Gestora de Fundos de Pensões
 relationships:
 - type: amended_by
   target: pt:dre:538999:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:477290:por
+  label: "Alterados os arts. 46.º e 47.º, pelo DEC LEI.251/2003.14.10.2003.MF, DR.IS-A [238] de 14.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-2003-477290
+  date: '1999-11-09'
+- type: amended_by
+  target: pt:dre:564273:por
+  label: "Alterados os arts. 31º, 32º, 35º, 36º, 39º, 41º, 44º, 57º e 59º, pelo DEC LEI.292/2001.2001.11.20.MF, DR.IS-A [269]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-2001-564273
+  date: '2001-11-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/176/1995/07/26/p/dre
   label: null
@@ -104,16 +115,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/94-b/1998/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94-b/1998/04/17/p/dre
+- type: cites
+  target: pt:dre:341582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620759:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:538999:por
+  label: "Revogado, com as alterações constantes dos Dec Lei 292/91 de 20-Nov e 251/2003 de 14-Out, pelo DEC LEI.12/2006.20.01.2006.MFAP,\
+    \ DR.IS-A [15] de 20.01.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-2006-538999
+  date: '2006-01-20'
 article_structure:
   article_count: 59
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:13:33Z'
   warnings: []
   errors: []
 ---
@@ -942,12 +991,12 @@ O presente diploma aplica-se aos fundos de pensões que venham a constituir-se a
 
 Visto e aprovado em Conselho de Ministros de 26 de Agosto de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 15 de Outubro de 1999.**
+Promulgado em 15 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Outubro de 1999.**
+Referendado em 21 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

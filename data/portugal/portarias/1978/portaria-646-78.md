@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/10/24900/22842285.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/646-1978-327811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T05:46:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 879d1540681c6d48c3e69f3df5d3e5d837ad06f4773c716e18b9c0ac2b6a8696
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62bf5e8770e9f0e7ea54faec9232f90f3f6a799c63c3af125158f756a93a3c7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:46:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alimento para Crianças
+- Comércio
+- Fixação de Preços
+- Leite
+- Preço Máximo
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:515836:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:515836:por
+  label: "Revogada pela PORT.173/79.11.04.1979.MCT, DR.IS [85-SUPL] de 11.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/173-1979-515836
+  date: '1979-04-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:46:24Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +128,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comérci
 
 2.º - 1 - Os preços máximos de venda no armazém do fabricante ou do consignatário e de venda ao público são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/10/24900/22842285.pdf))](https://files.diariodarepublica.pt/1s/1978/10/24900/22842285.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/10/24900/22842285.pdf)
 
 2 - A margem máxima do armazenista é de 10% sobre o preço de aquisição.
 

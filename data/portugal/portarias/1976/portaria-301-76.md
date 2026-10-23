@@ -46,40 +46,113 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/301-1976-428015
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T05:01:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f58bd9ef64a6039c7f0627cfd0992573962dbdd662dc33f5c08402a6f0bd4821
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c865b55b33c8e1200991b61f2889a417862661ee6561d871158d5ee37e17a009
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:01:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:1891596:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3470976:por
+  label: "Derrogado parte do presente diploma pela PORT.1358/2003(2ªSérie).14.10.2003.PCM, dr.iis [250] de 28.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1358-2003-3470976
+  date: '1976-05-15'
+- type: amended_by
+  target: pt:dre:251658:por
+  label: Derrogada, relativamente à expropriação do prédio rústico denominado «Álamo», a presente portaria, pelo(a) Portaria
+    n.º 232/77 - Diário da República n.º 102/1977, Série I de 1977-05-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/232-1977-251658
+  date: '1977-05-03'
+- type: amended_by
+  target: pt:dre:251804:por
+  label: Derrogada, relativamente à expropriação dos seguintes prédios rústicos Rio Cego, Barreiros, Cerca da Revasca, Olival
+    Fundo, Monte da Volta, Cerca do Curral do Concelho, Cerca da Ladeira, Moreta, Courela da Achada, Misericórdia e Herdade
+    da Chaminé, a presente portaria, pelo(a) Portaria n.º 236/77 - Diário da República n.º 104/1977, Série I de 1977-05-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/236-1977-251804
+  date: '1977-05-05'
+- type: amended_by
+  target: pt:dre:446512:por
+  label: Alterada, no que respeita ao nome nela indicado como sendo o proprietário dos prédios Herdade do Airoso e Courela
+    do Airoso, pelo(a) Portaria n.º 94/78 - Diário da República n.º 40/1978, Série I de 1978-02-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/94-1978-446512
+  date: '1978-02-17'
+- type: amended_by
+  target: pt:dre:476545:por
+  label: "Derrogada, na parte referente ao prédio rústico \"Trancão\", pela PORT.5/79.04.01.1979.MAP, DR.IS [3] de 04.01.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/5-1979-476545
+  date: '1979-01-04'
+- type: amended_by
+  target: pt:dre:679426:por
+  label: "Derrogada em parte, pela PORT.50/80.21.02.1980.MAP, DR.IS [50] de 21.02.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/50-1980-679426
+  date: '1980-02-21'
+- type: amended_by
+  target: pt:dre:476164:por
+  label: DERROGADA EM PARTE PELA PORT 222/91IIS DR.IIS [167] DE 23/JUL/1991
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/222-1991-476164
+  date: '1991-07-23'
+- type: amended_by
+  target: pt:dre:968633:por
+  label: DERROGADA EM PARTE PELA PORT 377/92IIS DR.IIS [290] DE 17/DEZ/1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/377-1992-968633
+  date: '1992-12-17'
+- type: amended_by
+  target: pt:dre:2783376:por
+  label: DERROGADA EM PARTE PELA PORT 47/93IIS DR.IIS [33] DE 09/FEV/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/47-1993-2783376
+  date: '1993-02-09'
+- type: amended_by
+  target: pt:dre:1296601:por
+  label: DERROGADA EM PARTE PELA PORT 196/93IIS DE 07-AGO DR.IIS [218] DE 16/SET/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/196-1993-1296601
+  date: '1993-09-16'
+- type: amended_by
+  target: pt:dre:1165985:por
+  label: "Derrogado parte do presente diploma, pela PORT.221/99(2ªSÉRIE).1999.03.05.PCMDR.IIS [64] DE 17/MAR/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/221-1999-1165985
+  date: '1999-03-05'
+- type: amended_by
+  target: pt:dre:1891596:por
+  label: "Derrogada na parte relativa ao prédio rústico \"Vale Formoso\" pela PORT.391/99(2ªSÉRIE).1999.03.26.PCM DR.IIS [88]\
+    \ de 15/Abr/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/391-1999-1891596
+  date: '1999-03-26'
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:01:12Z'
   warnings: []
   errors: []
 ---

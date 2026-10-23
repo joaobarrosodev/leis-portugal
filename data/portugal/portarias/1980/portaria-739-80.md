@@ -46,40 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/739-1980-461649
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:27:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1effe0b6a49fc58b13145b54f8a082b7ff1c9f1439658451318d3312d01f3a71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6aaf7274ae0cdafffdb3d431c47f78d5194416691ecce1906dd127a5be765f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:27:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Almada
+- Hospital Distrital
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:609661:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:601155:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.36/82.13.01.1982.MFP, DR.IS [10] de 13.01.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/36-1982-601155
+  date: '1982-01-13'
+- type: amended_by
+  target: pt:dre:318277:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal aprovado pelo presente diploma pela PORT.1244/82.31.12.1982.MFP,\
+    \ DR.IS [301] de 31.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1244-1982-318277
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:308286:por
+  label: "Alterado o quadro de pessoal pela PORT.126/83.1983.02.03.MFP DR.IS [28]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/126-1983-308286
+  date: '1983-02-03'
+- type: amended_by
+  target: pt:dre:435464:por
+  label: "Alterado, na parte referente ao pessoal técnico superior e pessoal médico, o quadro de pessoal aprovado pelo presente\
+    \ diploma,, na redacção da Portaria 36/82, de 13 de Janeiro, e da Portaria 126/83, de 03 de Fevereiro, pela PORT.807-M2/83.30.07.1983.MFP,\
+    \ DR.IS [174-6.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-m2-1983-435464
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:334637:por
+  label: "Alterado o quadro de pessoal, pela PORT.113/90.12.02.1990.MS, DR.IS [36] de 12.02.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/113-1990-334637
+  date: '1990-02-12'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:27:58Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +144,6 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Hospital Distrital de Almada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/22400/29822983.pdf))](https://files.diariodarepublica.pt/1s/1980/09/22400/29822983.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/22400/29822983.pdf)
 
 Nota: - Ao funcionário administrativo que exercer as funções de tesoureiro será atribuída a remuneração mensal de 600$00 para falhas.

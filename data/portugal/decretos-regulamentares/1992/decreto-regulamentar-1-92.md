@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/1/1992/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1992-158575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87173318877ad3aea0d2b116470f8a981108b61b06aa559c5fc9964ba378c4d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91c687e9441362c2eb0a898a54cc4cccc61f62690fc96e3c3b8ff707d294822d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/180/1991/05/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/180/1991/05/14/p/dre
+- type: cites
+  target: pt:dre:141784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640954:por
+  label: null
+  source: null
 article_structure:
-  article_count: 169
+  article_count: 168
   section_count: 57
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:41Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +119,13 @@ Assim:
 
 Ao abrigo do disposto no artigo 2.º do [Decreto-Lei n.º 180/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1991-640954), de 14 de Maio, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É aprovado o Regulamento de Segurança de Linhas Eléctricas de Alta Tensão, anexo ao presente decreto regulamentar e dele fazendo parte integrante.
+Artigo 1.º - 1 - É aprovado o Regulamento de Segurança de Linhas Eléctricas de Alta Tensão, anexo ao presente decreto regulamentar e dele fazendo parte integrante.
 
 2 - Nas linhas eléctricas de alta tensão que, na data da entrada em vigor deste decreto regulamentar, já possuam licença de estabelecimento ou para as quais já tenha sido requerida vistoria, se não carecerem de licenciamento prévio, o cumprimento das disposições inovadoras deste Regulamento só será obrigatório relativamente às obras de ampliação, modificação ou renovação.
 
 3 - Os serviços oficiais competentes poderão impor, de acordo com os preceitos deste Regulamento, a execução das modificações ou adaptações que se tornarem necessárias para a segurança das pessoas ou da exploração.
 
-###### Art. 2.º As despesas que derivarem das modificações a efectuar nos atravessamentos de vias férreas, aéreos ou subterrâneos, por linhas eléctricas de alta tensão existentes a data do início dos trabalhos de electrificação de caminhos de ferro serão suportadas pelas entidades exploradoras das linhas de alta tensão.
+Art. 2.º As despesas que derivarem das modificações a efectuar nos atravessamentos de vias férreas, aéreos ou subterrâneos, por linhas eléctricas de alta tensão existentes a data do início dos trabalhos de electrificação de caminhos de ferro serão suportadas pelas entidades exploradoras das linhas de alta tensão.
 
 Art.º 3.º O presente decreto regulamentar entra em vigor decorridos 180 dias após a data da sua publicação.
 
@@ -117,15 +133,15 @@ Presidência do Conselho de Ministros, 9 de Dezembro de 1991.
 
 Aníbal António Cavaco Silva - Luís Filipe da Conceição Pereira - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 21 de Janeiro de 1992.**
+Promulgado em 21 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Janeiro de 1992.**
+Referendado em 24 de Janeiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento de Segurança de Linhas Eléctricas de Alta Tensão
 
@@ -245,7 +261,7 @@ em que p é o parâmetro da curva (v. definição n.º 62).
 
 35 - Desnível - Distância que separa os dois planos horizontais passando pelos pontos de fixação do condutor num vão desnivelado (v. fig. 1).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf))](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf)
 
 36 - Eléctrodo de terra - conjunto de materiais condutores enterrados, destinados a assegurar boa ligação eléctrica com a terra, e ligado, num único ponto (ligador de eléctrodo), ao condutor de terra.
 
@@ -451,7 +467,7 @@ c) No cálculo da distância entre os condutores, nas vizinhanças de linhas aé
 
 1 - Os valores da pressão dinâmica do vento, em função da altura acima do solo a que se encontra o elemento da linha sobre o qual se pretende calcular a acção do vento, serão, para os escalões de altura que se consideram, os indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf))](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf)
 
 2 - Quando os elementos da linha estiverem a uma altura acima do solo superior a 100 m, deve fazer-se um estudo especial para o cálculo da acção do vento.
 
@@ -471,11 +487,11 @@ Os valores do coeficiente de forma serão:
 
 a) Para os condutores, os cabos de guarda e os isoladores, os do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf))](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf)
 
 b) Para apoios e travessas, os do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf))](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf)
 
 ###### Artigo 16.º — Acção do gelo
 
@@ -619,7 +635,7 @@ b) Os troços de condutores nus que se situem ao lado dos edifícios a um nível
 
 3 - No caso de cabos isolados, o valor de D referido no n.º 1 não deverá ser inferior a 3 m.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf))](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf)
 
 ###### Artigo 30.º — Distância dos condutores a obstáculos diversos
 
@@ -637,7 +653,7 @@ O valor de D não deverá ser inferior a 3 m.
 
 1 - Os condutores nus serão estabelecidos por forma a não poderem aproximar-se perigosamente, atendendo às oscilações provocadas pelo vento, não devendo entre eles observar-se uma distância D, em metros, arredondada ao decímetro, inferior à dada pelas expressões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf))](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf)
 
 2 - Fora de zonas de gelo, a distância entre condutores nus poderá ser inferior ao valor obtido pelas expressões indicadas no número anterior, desde que a distância entre os planos horizontais passando pelos respectivos pontos de fixação não seja menor que dois terços daquele valor.
 
@@ -1801,7 +1817,7 @@ O estabelecimento de linhas aéreas na proximidade de aeródromos e de instalaç
 
 Junto a instalações destinadas ao armazenamento e manipulação de produtos explosivos não será permitido o estabelecimento de linhas aéreas a distâncias, em projecção horizontal, inferiores aos valores indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf))](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf)
 
 ###### Artigo 142.º — Linhas aéreas na proximidade de locais destinados ao armazenamento, ao transporte e ao tratamento de combustíveis líquidos ou gasosos
 
@@ -2065,7 +2081,7 @@ Características de terreno para afeitos de cálculo de fundações
 
 (artigo 74.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf))](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf)
 
 QUADRO N.º 15.1
 
@@ -2073,8 +2089,8 @@ Características dos eléctrodos de terra
 
 (n.º 2 do artigo 156.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf))](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf)
 
 ## ANEXO N.º 1 — Relatório de inspecção de linhas aéreas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf))](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/041b00/09600984.pdf)

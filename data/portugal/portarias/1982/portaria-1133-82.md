@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/28100/40364038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1133-1982-380310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T07:03:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fda8f423987d30f9b971ab5553587ca3c5d8421cebb300b15bd774eadf335df4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f41e3b15efae841bc2135aeaadb39b5a72be58d7a91f9b10ab705a34b984531
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:03:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ave de Capoeira
+- Carne
+- Carne de AVES de Capoeira
+- Comércio
+- Embalagem
+- Produto Animal
 relationships:
 - type: amended_by
   target: pt:dre:575571:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:378973:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457594:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:575571:por
+  label: "Revogada pelo DEC LEI.222/90.07.07.1990.MAPA, DR.IS [155] de 07.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-1990-575571
+  date: '1990-07-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:03:41Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +116,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, Comérci
 
 1.º Os artigos 2.º, 8.º, 13.º, 15.º, 16.º, 19.º, 21.º, 22.º, 23.º, 24.º, 25.º, 26.º, 30.º, 32.º, 35.º e 40.º do Regulamento aprovado pelo [Decreto-Lei n.º 302/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1979-378973), de 18 de Agosto, passam a ter as seguintes redacções:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 a) ...
 
@@ -109,9 +128,9 @@ d) ...
 
 e) As aves das espécies cinegéticas criadas em cativeiro, exceptuando as codornizes, podem ser apresentadas apenas sangradas.
 
-###### Art. 8.º A montagem e o funcionamento das instalações para o corte e desossagem, assim como para o tratamento de produtos e subprodutos, carece de autorização prévia da Direcção-Geral da Pecuária.
+Art. 8.º A montagem e o funcionamento das instalações para o corte e desossagem, assim como para o tratamento de produtos e subprodutos, carece de autorização prévia da Direcção-Geral da Pecuária.
 
-###### Art. 13.º - 1 - A comercialização das carcaças obedecerá aos seguintes requisitos:
+Art. 13.º - 1 - A comercialização das carcaças obedecerá aos seguintes requisitos:
 
 a) Boa colocação dos membros inferiores, de modo que se mantenham contraídos junto do peito;
 
@@ -131,39 +150,39 @@ b) O corte nos membros inferiores deverá ser efectuado exactamente pela articul
 
 8 - As partes ou porções resultantes do corte referido no número anterior poderão ser vendidas sem a marca da aprovação sanitária, ficando no entanto o responsável por essa operação obrigado a fazer prova da origem das carcaças, sempre que lhe for exigido pela fiscalização.
 
-###### Art. 15.º - 1 - A calibragem só se aplica às carcaças de frango congeladas.
+Art. 15.º - 1 - A calibragem só se aplica às carcaças de frango congeladas.
 
 2 - ...
 
 3 - É proibida a venda de carcaças de frango com peso unitário inferior a 650 g.
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 a) Embalagem individual a que contém apenas uma carcaça, porções ou miudezas comestíveis de uma ave;
 
 b) Embalagem colectiva a que contém duas ou mais carcaças, porções ou miudezas comestíveis de mais de uma ave.
 
-###### Art. 19.º As carcaças contidas nas embalagens colectivas de congelados terão de ser da mesma classe e tipo.
+Art. 19.º As carcaças contidas nas embalagens colectivas de congelados terão de ser da mesma classe e tipo.
 
-###### Art. 21.º ...
+Art. 21.º ...
 
 a) A espécie avícola;
 
 b) O respectivo peso líquido.
 
-###### Art. 22.º ...
+Art. 22.º ...
 
 a) ...
 
 b) Não conter quantidade de água superior a 6% do seu peso.
 
-###### Art. 23.º - 1 - Na embalagem individual das carcaças congeladas tem de ser utilizada uma película impermeável à água e ao vapor de água.
+Art. 23.º - 1 - Na embalagem individual das carcaças congeladas tem de ser utilizada uma película impermeável à água e ao vapor de água.
 
 2 - ...
 
-###### Art. 24.º As embalagens colectivas contendo embalagens individuais de congelados serão devidamente cintadas.
+Art. 24.º As embalagens colectivas contendo embalagens individuais de congelados serão devidamente cintadas.
 
-###### Art. 25.º - 1 - As embalagens colectivas de carcaças congeladas devem exibir, além do mencionado no artigo 20.º, o seguinte:
+Art. 25.º - 1 - As embalagens colectivas de carcaças congeladas devem exibir, além do mencionado no artigo 20.º, o seguinte:
 
 a) Data da congelação;
 
@@ -175,21 +194,21 @@ a) Cuidados a ter com a conservação;
 
 b) Instruções relativas à descongelação.
 
-###### Art. 26.º Só podem ser congeladas as carcaças da classe A com as características referidas no anexo II.
+Art. 26.º Só podem ser congeladas as carcaças da classe A com as características referidas no anexo II.
 
-###### Art. 30.º É proibida a armazenagem frigorífica em caixas de madeira, cestas de vime e sacos de juta.
+Art. 30.º É proibida a armazenagem frigorífica em caixas de madeira, cestas de vime e sacos de juta.
 
-###### Art. 32.º - 1 - Só é permitida a exportação de carcaças congeladas da classe A, acompanhadas ou não das miudezas comestíveis, que obedeçam em tudo ao preceituado no presente diploma, a não ser que o exportador faça prova de que o país interessado permite preparação, classificação ou apresentação diferentes.
+Art. 32.º - 1 - Só é permitida a exportação de carcaças congeladas da classe A, acompanhadas ou não das miudezas comestíveis, que obedeçam em tudo ao preceituado no presente diploma, a não ser que o exportador faça prova de que o país interessado permite preparação, classificação ou apresentação diferentes.
 
 2 - ...
 
-###### Art. 35.º ...
+Art. 35.º ...
 
 1) Do produtor ao centro de abate, em viatura de caixa aberta, acondicionadas em grades de materiais facilmente laváveis e desinfectáveis, comportando cada uma unicamente animais da mesma espécie, acondicionados de modo a evitar que a sua integridade possa ser afectada;
 
 2) Do estabelecimento de abate ao comércio ou aos consumidores colectivos, em viaturas isotérmicas ou refrigeradas, se se tratar de carnes e miudezas frescas ou refrigeradas, e em viaturas frigoríficas, se se tratar de carnes congeladas.
 
-###### Art. 40.º Os estabelecimentos de abate remeterão mensalmente à Junta Nacional dos Produtos Pecuários um mapa devidamente preenchido, que lhes será fornecido por esta entidade, no qual conste o movimento do abate.
+Art. 40.º Os estabelecimentos de abate remeterão mensalmente à Junta Nacional dos Produtos Pecuários um mapa devidamente preenchido, que lhes será fornecido por esta entidade, no qual conste o movimento do abate.
 
 2.º O artigo 44.º é eliminado, passando os artigos 45.º, 46.º, 47.º e 48.º para 44.º, 45.º, 46.º e 47.º, respectivamente.
 
@@ -207,8 +226,8 @@ Ministério da Agricultura, Comércio e Pescas, 17 de Novembro de 1982. - Pelo M
 
 ## ANEXO I — Apresentação das carnes frescas ou refrigeradas e congeladas das aves domésticas e codornizes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/28100/40364038.pdf))](https://files.diariodarepublica.pt/1s/1982/12/28100/40364038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/28100/40364038.pdf)
 
 ## ANEXO II — Classificação das carcaças
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/28100/40364038.pdf))](https://files.diariodarepublica.pt/1s/1982/12/28100/40364038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/28100/40364038.pdf)

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 106/1985, 1º Suplemento, Série I de 1985-05-09
   number: '106'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1276-(4) a 1276-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/10601/00040007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/27-1985-546816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T06:11:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ddcbe14ed2011dba4e717b63abf4e861a5fc74dd63bffd53f237a27b3a8d552
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 910e54e93c86ef5d8158bc993dc885c8bc67bb4d279a3fc2a5aab5af5e7aa0fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:11:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Transporte de Mercadorias
 relationships:
 - type: amended_by
   target: pt:dre:656159:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:308524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625412:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:457066:por
+  label: "Revogado, pelo DEC LEI.77/97.1997.04.05.MEPAT, DR.IS-A [80], na data da entrada em vigor da Port prevista no num\
+    \ 2 do art 3º desse diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1997-457066
+  date: '1997-04-05'
+- type: repealed_by
+  target: pt:dre:656159:por
+  label: "Revogado pelo DEC LEI.322/2000.2000.12.19.MES,DR.IS-A [291]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/322-2000-656159
+  date: '2000-12-19'
 article_structure:
-  article_count: 22
+  article_count: 21
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:11:09Z'
   warnings: []
   errors: []
 ---
@@ -102,19 +126,19 @@ Tendo presente o disposto no n.º 3 do artigo 3.º do [Decreto-Lei n.º 210-C/84
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Estatuto do Técnico Responsável pela Segurança dos Transportes de Mercadorias Perigosas, publicado em anexo ao presente diploma.
+Artigo único. É aprovado o Estatuto do Técnico Responsável pela Segurança dos Transportes de Mercadorias Perigosas, publicado em anexo ao presente diploma.
 
 Mário Soares - Rui Manuel Parente Chancerelle de Machete - Amândio Anes de Azevedo - José Veiga Simão - Carlos Montez Melancia.
 
-**Promulgado em 8 de Abril de 1985.**
+Promulgado em 8 de Abril de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Abril de 1985.**
+Referendado em 8 de Abril de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Estatuto do Técnico Responsável pela Segurança dos Transportes de Mercadorias Perigosas
 
@@ -286,4 +310,4 @@ A solicitação da empresa proprietária, ou por sua iniciativa, o técnico resp
 
 À medida que forem cumpridas as formalidades previstas no artigo 20.º e no máximo de 6 meses depois da data da publicação do presente Estatuto, perdem a sua validade os termos de responsabilidade subscritos em conformidade com o despacho do director-geral de Transportes Terrestres publicado no Diário da República, 3.ª série, n.º 298, de 27 de Dezembro de 1980.
 
-**O Ministro do Equipamento Social, Carlos Montez Melancia.**
+O Ministro do Equipamento Social, Carlos Montez Melancia.

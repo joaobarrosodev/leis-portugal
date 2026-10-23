@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/130/2001/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2001-163640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:24:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5160c6a321f587677e48b308bffbafdfa24dc2b3b86430438fb7db327df38e1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 862ba315f2bc3412e7d56fcf9b6808401e8509c7e2ccba432465b3131bd2fd99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:24:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Pública
-- Prorrogação de Prazo
 - Contrato de Trabalho
-- Serviço de Prevenção e Tratamento da Toxicodependência
 - Gestão de Recursos Humanos
+- Prorrogação de Prazo
+- Serviço de Prevenção e Tratamento da Toxicodependência
 relationships:
 - type: amended_by
   target: pt:dre:215081:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:215081:por
+  label: "Mantidos em vigor, até à conclusão dos respectivos concursos externos, os contratos de trabalho a termo prorrogados\
+    \ no presente diploma, pelo DEC LEI.45/2003.13.03.2003.MS, DR.IS-A [61] de 13.03.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-2003-215081
+  date: '2003-03-13'
+- type: amends
+  target: pt:numero:decreto-lei:118/2000
+  label: "Mantém em vigor, até à conclusão dos concursos externos abertos pelo Serviço de Prevenção e Tratamento da Toxicodependência,\
+    \ os contratos de trabalho a termo certo que foram prorrogados até 28 de Fevereiro de 2001, ao abrigo do artigo 1.º do\
+    \ Decreto-Lei n.º 118/2000, de 4 de Julho, DR.IS-A [152]\0\0"
+  source: null
+  date: '2000-07-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
   label: null
@@ -97,16 +110,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:218954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:24:19Z'
   warnings: []
   errors: []
 ---
@@ -145,12 +178,12 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Maria Manuela de Brito Arcanjo Marques da Costa - Alberto de Sousa Martins.
 
-**Promulgado em 30 de Março de 2001.**
+Promulgado em 30 de Março de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Abril de 2001.**
+Referendado em 5 de Abril de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

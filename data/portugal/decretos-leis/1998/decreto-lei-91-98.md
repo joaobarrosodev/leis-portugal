@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/087a00/15911598.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/91/1998/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1998-167178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:05:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82f4a4d8ebf9896bc1410ad20e7bab0e46ad8fb9520d1c9fd8ebe3e737c0ebfe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9322ba3ca88899af2dd69f406110f7e18b77879be7b10a57850c792144dc4f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:05:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,17 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Armazenagem
-- Doença Vegetal
+- Controlo Sanitário
 - Definição de Competências
 - Direcção Geral de Protecção das Culturas
-- Controlo Sanitário
+- Doença Vegetal
+- Exportação
 - Importação
 - Investigação Agronómica
 - Licenciamento
 - Política Agrícola Comum
-- Exportação
-- Proteção Fitossanitária
 - Produção Vegetal
+- Proteção Fitossanitária
 - Troca Intracomunitária
 - Vegetais
 relationships:
@@ -88,6 +88,11 @@ relationships:
   target: pt:dre:396961:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:141854:por
+  label: "Mantido em vigor pelo DEC LEI.154/2005.06.09.2005.MADRP, DR.IS-A [171] de 06.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2005-141854
+  date: '2005-09-06'
 - type: cites
   target: celex:31977L0093
   label: null
@@ -100,16 +105,21 @@ relationships:
   target: celex:31997L0046
   label: null
   source: http://data.europa.eu/eli/dir/1997/46/oj
+- type: repealed_by
+  target: pt:dre:396961:por
+  label: "Revogado, a partir de 10.01.2009, pelo DEC LEI.3/2009.05.01.2009.MADRP, DR.IS [2] de 05.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-2009-396961
+  date: '2009-01-05'
 article_structure:
   article_count: 4
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:05:04Z'
   warnings: []
   errors: []
 ---
@@ -208,15 +218,15 @@ Antes de 1 de Setembro de cada ano, a Direcção-Geral de Protecção das Cultur
 
 Visto e aprovado em Conselho de Ministros de 5 de Março de 1998. - António Manuel de Oliveira Guterres - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Promulgado em 30 de Março de 1998.**
+Promulgado em 30 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Abril de 1998.**
+Referendado em 2 de Abril de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I
 
@@ -298,9 +308,9 @@ Modelo de documento de autorização para a introdução e ou a circulação de 
 
 Medidas de quarentena, incluindo testes, de vegetais, produtos vegetais e outros materiais destinados a disseminação após quarentena.
 
-# PARTE A — Para determinados vegetais, produtos vegetais e outros materiais constantes do anexo III da Portaria n.º 344/94
+## PARTE A — Para determinados vegetais, produtos vegetais e outros materiais constantes do anexo III da Portaria n.º 344/94
 
-#### Secção I - Vegetais de Citrus L., Fortunella Swingle e Poncirus Raf. e seus híbridos, com excepção dos frutos e sementes
+Secção I - Vegetais de Citrus L., Fortunella Swingle e Poncirus Raf. e seus híbridos, com excepção dos frutos e sementes
 
 1 - Caso adequado, o material vegetal deve ser submetido a procedimentos terapêuticos adequados, como estabelecido nas Technical Guidelines da FAO/IBQGR.
 
@@ -340,7 +350,7 @@ m) Xanthomonas campestris (todas as estirpes patogénicas para citrus);
 
 4 - O material vegetal submetido às inspecções visuais referidas no n.º 2 e no qual tenham sido observados sinais e sintomas de organismos prejudiciais deve ser submetido a uma pesquisa, incluindo testes, para determinar, na medida do possível e quando necessário, a identidade dos organismos prejudiciais que provocam os referidos sinais e sintomas.
 
-#### Secção II - Vegetais de Cydonia Mill., Malus Mill., Prunus L. e Pyrus L. e seus híbridos e Fragaria L. destinados à plantação com excepção das sementes.
+Secção II - Vegetais de Cydonia Mill., Malus Mill., Prunus L. e Pyrus L. e seus híbridos e Fragaria L. destinados à plantação com excepção das sementes.
 
 1 - O material vegetal, quando adequado, deve ser submetido a procedimentos terapêuticos adequados, como estabelecido nas Technical Guidelines da FAO/IBQGR.
 
@@ -436,7 +446,7 @@ b) Pear decline mycoplasm.
 
 4 - O material vegetal submetido às inspecções visuais referidas no n.º 2 e no qual tenham sido observados sinais e sintomas de organismos prejudiciais deve ser submetido a uma pesquisa, incluindo testes, para determinar, na medida do possível e quando necessário, a identidade dos organismos prejudiciais que provocam os referidos sinais e sintomas.
 
-#### Secção III - Vegetais de Vitis L., excluindo os frutos
+Secção III - Vegetais de Vitis L., excluindo os frutos
 
 1 - O material vegetal, quando adequado, deve ser submetido a procedimentos terapêuticos adequados, como estabelecido nas Technical Guidelines da FAO/IBQGR.
 
@@ -470,7 +480,7 @@ g) Xylophilus ampelinus (Panagopoulos) Willems et al.
 
 4 - O material vegetal submetido às inspecções visuais referidas no n.º 2 e no qual tenham sido observados sinais e sintomas de organismos prejudiciais deve ser submetido a uma pesquisa, incluindo testes, para determinar, na medida do possível e quando necessário, a identidade dos organismos prejudiciais que provocam os referidos sinais e sintomas.
 
-#### Secção IV - Vegetais de espécies de Solanum L., que formam estolhos ou tubérculos, ou os seus híbridos, destinados à plantação.
+Secção IV - Vegetais de espécies de Solanum L., que formam estolhos ou tubérculos, ou os seus híbridos, destinados à plantação.
 
 1 - O material vegetal deve, quando adequado, ser submetido aos procedimentos terapêuticos conforme estabelecido nas Technical Guidelines da FAO/IBQGR.
 
@@ -542,7 +552,7 @@ No entanto, no caso da semente botânica de batata, os procedimentos de indexage
 
 5) A taxa de agrupamento sugerida para as sondas e o método r-PAGE é de 5. A utilização desta taxa ou de taxas superiores deve ser validada.
 
-# PARTE B — Para determinados vegetais, produtos vegetais e outros materiais constantes dos anexos II e IV da Portaria n.º 344/94
+## PARTE B — Para determinados vegetais, produtos vegetais e outros materiais constantes dos anexos II e IV da Portaria n.º 344/94
 
 1 - As medidas de quarentena oficiais devem incluir a inspecção adequada ou o teste dos organismos prejudiciais relevantes enumerados nos anexos I e II da Portaria n.º 344/94, devendo ser aplicadas em conformidade com as exigências especiais estabelecidas no anexo IV da Portaria n.º 344/94 para organismos prejudiciais específicos, conforme adequado. Relativamente a essas exigências especiais, os métodos utilizados para a quarentena devem ser os estabelecidos no anexo IV da Portaria n.º 344/94 ou outras medidas equivalentes oficialmente aprovadas.
 

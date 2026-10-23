@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/15/2007/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-2007-520253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:30:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8442a20e3d7575a0679a7f39b78383360185363bfc8cacd461799223bd738a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90359e9d0dfdebc543e7596b4216e6f4ae753bafa6f68f8eba56b0fa55de35ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:30:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Embarcação de Pesca
+- Licença de Pesca
+- Licenciamento
 - Modernização Administrativa
 - Pesca
-- Licenciamento
-- Licença de Pesca
-- Embarcação de Pesca
 relationships:
 - type: amended_by
   target: pt:dre:70309904:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70309904:por
+  label: Alterado o art. 75.º do DR 43/87 de 17-jul, com a redação do presente diploma, pelo(a) Decreto Regulamentar n.º 16/2015
+    - Diário da República n.º 181/2015, Série I de 2015-09-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/16-2015-70309904
+  date: '2015-09-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/383/1998/11/27/p/dre
   label: null
@@ -88,16 +94,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/7/2000/05/30/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/7/2000/05/30/p/dre
+- type: cites
+  target: pt:dre:217326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629462:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:30:01Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +182,9 @@ Os artigos 75.º e 77.º do [Decreto Regulamentar n.º 43/87](https://diariodare
 
 8 - ...
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - As licenças de pesca são tituladas por documento a emitir pela DGPA, cuja informação mínima é aprovada por portaria do membro do Governo responsável pelo sector das pescas.
 
@@ -164,12 +208,12 @@ O presente decreto regulamentar produz efeitos desde o dia 1 de Janeiro de 2007.
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 2006 - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Carlos Manuel Costa Pina - João António da Costa Mira Gomes - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Rui Nobre Gonçalves.
 
-**Promulgado em 28 de Fevereiro de 2007.**
+Promulgado em 28 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 2 de Março de 2007.**
+Referendado em 2 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

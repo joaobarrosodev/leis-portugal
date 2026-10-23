@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/23200/0549005490.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/85/2018/12/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/85-2018-117202782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T05:34:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55eb1508abf4bdf01df90508db06d69906764c24edbc18a88d56830f218faf61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aebdbc893862ff4eed015f5b598f267f2b03583b654714fb57f40b712366c500
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:34:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Embaixador
-- Ruanda
 - Nomeação
+- Ruanda
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:34:27Z'
   warnings: []
   errors: []
 ---
@@ -88,16 +88,18 @@ validation:
 
 de 3 de dezembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeada, sob proposta do Governo, a ministra plenipotenciária de 1.ª classe Helena Maria Rodrigues Fernandes Malcata como Embaixadora de Portugal não residente no Ruanda.
 
-**Assinado em 9 de novembro de 2018.**
+Assinado em 9 de novembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de novembro de 2018.**
+Referendado em 29 de novembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa. - O Ministro dos Negócios Estrangeiros, Augusto Ernesto Santos Silva.**
+O Primeiro-Ministro, António Luís Santos da Costa. - O Ministro dos Negócios Estrangeiros, Augusto Ernesto Santos Silva.
+
+111869006

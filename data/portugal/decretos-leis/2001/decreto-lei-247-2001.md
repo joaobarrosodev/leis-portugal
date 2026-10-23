@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/247/2001/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2001-642555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:27:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3aa78aa7eadb8fccf56afbccffb2f9d0efaf0c7148d42aeb679f533644196e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d630df6ba19c7040129f07d17a54cf292c4b758f808618295f8ccbd5a12e3d91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:27:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,58 +65,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministro do Ambiente e do Ordenamento do Território
-- Ministro da Ciência e da Tecnologia
-- Ministro da Saúde
 - Comissão para a Igualdade no Trabalho e no Emprego
-- Ministro da Economia
 - Competência Própria
 - Conselho de Ministros
-- Ministro do Trabalho e da Solidariedade
 - Definição de Competências
 - Delegação de Competências
-- Instituto da Comunicação Social
 - Gestão Orçamental
+- Governo
 - Governo XIV
-- Ministro da Justiça
-- Secretário de Estado Adjunto do Ministro da Saúde
-- Secretário de Estado do Ensino Superior
-- Secretário de Estado do Turismo
+- Instituto da Comunicação Social
 - Ministro Adjunto do Primeiro-ministro
-- Ministro dos Negócios Estrangeiros
-- Secretário de Estado da Indústria Comércio e Serviços
-- Secretário de Estado da Cultura
-- Secretário de Estado da Educação
-- Secretário de Estado do Tesouro e das Finanças
-- Secretário de Estado dos Assuntos Fiscais
+- Ministro da Administração Interna
+- Ministro da Agricultura do Desenvolvimento Rural e das Pescas
+- Ministro da Ciência e da Tecnologia
 - Ministro da Cultura
+- Ministro da Defesa Nacional
+- Ministro da Economia
+- Ministro da Educação
+- Ministro da Justiça
+- Ministro da Juventude e do Desporto
+- Ministro da Presidência
+- Ministro da Reforma do Estado e da Administração Pública
+- Ministro da Saúde
 - Ministro das Finanças
 - Ministro de Estado
-- Primeiro-ministro
-- Secretário de Estado da Saúde
-- Secretário de Estado para a Igualdade
-- Ministro da Agricultura do Desenvolvimento Rural e das Pescas
-- Ministro da Juventude e do Desporto
-- Ministro da Reforma do Estado e da Administração Pública
+- Ministro do Ambiente e do Ordenamento do Território
 - Ministro do Equipamento Social
 - Ministro do Planeamento
+- Ministro do Trabalho e da Solidariedade
+- Ministro dos Negócios Estrangeiros
 - Orçamento Geral do Estado
 - Orgânica
 - Portugal Global
-- Secretário de Estado Adjunto do Primeiro-ministro
-- Secretário de Estado da Presidência do Conselho de Ministros
 - Presidência do Conselho de Ministros
-- Ministro da Defesa Nacional
-- Ministro da Educação
-- Ministro da Presidência
+- Primeiro-ministro
 - Secretário de Estado Adjunto do Ministro da Economia
+- Secretário de Estado Adjunto do Ministro da Saúde
+- Secretário de Estado Adjunto do Primeiro-ministro
 - Secretário de Estado da Administração Educativa
 - Secretário de Estado da Comunicação Social
+- Secretário de Estado da Cultura
+- Secretário de Estado da Educação
+- Secretário de Estado da Indústria Comércio e Serviços
+- Secretário de Estado da Presidência do Conselho de Ministros
+- Secretário de Estado da Saúde
+- Secretário de Estado do Ensino Superior
 - Secretário de Estado do Orçamento
+- Secretário de Estado do Tesouro e das Finanças
+- Secretário de Estado do Turismo
+- Secretário de Estado dos Assuntos Fiscais
 - Secretário de Estado dos Assuntos Parlamentares
 - Secretário de Estado para a Defesa do Consumidor
-- Ministro da Administração Interna
-- Governo
+- Secretário de Estado para a Igualdade
 - Transferência de Competências
 - Transferência de Serviços
 - Tutela
@@ -125,6 +125,12 @@ relationships:
   target: pt:dre:273419:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:273419:por
+  label: "Aditado o art. 37º ao Dec Lei 474-A/99, de 08-Nov, alterado pelo Dec Lei 267-A/2000, de 20-Out, pelo Dec Lei 116/2001,\
+    \ de 17-Abr e pelo presente diploma, pelo DEC LEI.24/2002.2002.02.11.PCM, DR.IS-A [35] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2002-273419
+  date: '2002-02-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/116/2001/04/17/p/dre
   label: null
@@ -137,16 +143,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/474-a/1999/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/474-a/1999/11/08/p/dre
+- type: cites
+  target: pt:dre:164210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692200:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:615831:por
+  label: "Rectificado pela DECL-RECT.18/2001.2001.09.20.PCM, DR.IS-A [224] de 26/Set/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/18-2001-615831
+  date: '2001-09-20'
 article_structure:
-  article_count: 13
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:27:04Z'
   warnings: []
   errors: []
 ---
@@ -209,7 +232,7 @@ s) Ministro da Juventude e do Desporto;
 
 t) Ministro Adjunto do Primeiro-Ministro.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - A Presidência do Conselho de Ministros compreende os seguintes Ministros:
 
@@ -235,7 +258,7 @@ e) Secretário de Estado para a Igualdade.
 
 4 - ...
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - ...
 
@@ -243,25 +266,25 @@ e) Secretário de Estado para a Igualdade.
 
 3 - ...
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - (Revogado.)
 
 2 - ...
 
-###### Artigo 17.º
+Artigo 17.º
 
 1 - O Ministro das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado do Tesouro e Finanças, pelo Secretário de Estado do Orçamento e pelo Secretário de Estado dos Assuntos Fiscais.
 
 2 - ...
 
-###### Artigo 18.º
+Artigo 18.º
 
 1 - O Ministro da Economia é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Economia, pelo Secretário de Estado da Indústria, Comércio e Serviços e pelo Secretário de Estado do Turismo.
 
 2 - ...
 
-###### Artigo 19.º
+Artigo 19.º
 
 1 - ...
 
@@ -273,19 +296,19 @@ e) Secretário de Estado para a Igualdade.
 
 5 - A Comissão para a Igualdade no Trabalho e no Emprego fica na dependência conjunta do Ministro do Trabalho e da Solidariedade e do Ministro Adjunto do Primeiro-Ministro.
 
-###### Artigo 23.º
+Artigo 23.º
 
 1 - O Ministro da Educação é coadjuvado no exercício das suas funções pelo Secretário de Estado do Ensino Superior, pelo Secretário de Estado da Administração Educativa e pelo Secretário de Estado da Educação.
 
 2 - ...
 
-###### Artigo 24.º
+Artigo 24.º
 
 1 - O Ministro da Saúde é coadjuvado no exercício das suas funções pelo Secretário de Estado da Saúde e pelo Secretário de Estado Adjunto do Ministro da Saúde.
 
 2 - ...
 
-###### Artigo 26.º
+Artigo 26.º
 
 1 - O Ministro da Cultura é coadjuvado no exercício das suas funções pelo Secretário de Estado da Cultura e pelo Secretário de Estado da Comunicação Social.
 
@@ -315,12 +338,12 @@ O presente diploma produz efeitos a partir do dia 3 de Julho de 2001.
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Rodolfo Vasco Castro Gomes Mascarenhas Lavrador - Rui Eduardo Ferreira Rodrigues Pena - Henrique Nuno Pires Severiano Teixeira - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Luís Garcia Braga da Cruz - António Ricardo Rocha de Magalhães - Luís Manuel Capoulas Santos - Júlio Domingos Pedrosa da Luz de Jesus - António Fernando Correia de Campos - António Maria Bustorff Dornelas Cysneiros - José Sócrates Carvalho Pinto de Sousa - Augusto Ernesto Santos Silva - José Mariano Rebelo Pires Gago - Alberto de Sousa Martins - José Manuel Lello Ribeiro de Almeida - António José Martins Seguro.
 
-**Promulgado em 6 de Setembro de 2001.**
+Promulgado em 6 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Setembro de 2001.**
+Referendado em 13 de Setembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

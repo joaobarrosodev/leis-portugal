@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/57/1991/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-1991-288647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52d15af37a70a0997303aab76a2cb86d01f0bc3c9074586240092d1260a67983
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d43d027ead56b0e069555a551c0d01bdac5ec3fa2202069c21f3e70db7a47610
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,25 @@ subjects:
 - Centro Psiquiátrico de Recuperação de Montachique
 - Comissão Instaladora
 - Remuneração
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:28Z'
   warnings: []
   errors: []
 ---
@@ -97,18 +105,18 @@ Assim:
 
 Ao abrigo do artigo 27.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. As remunerações do presidente e dos vogais da comissão instaladora do Centro Psiquiátrico de Recuperação de Montachique nomeados posteriormente a 1 de Agosto de 1991 são fixadas, respectivamente, nos índices 720 e 700 da escala salarial do regime geral.
+Artigo único. As remunerações do presidente e dos vogais da comissão instaladora do Centro Psiquiátrico de Recuperação de Montachique nomeados posteriormente a 1 de Agosto de 1991 são fixadas, respectivamente, nos índices 720 e 700 da escala salarial do regime geral.
 
 Presidência do Conselho de Ministros, 26 de Agosto de 1991.
 
 Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Arlindo Gomes de Carvalho.
 
-**Promulgado em 3 de Outubro de 1991.**
+Promulgado em 3 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Outubro de 1991.**
+Referendado em 7 de Outubro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

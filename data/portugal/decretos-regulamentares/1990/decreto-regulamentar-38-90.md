@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/11/27400/48664869.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1990-564803
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:18:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fde93581abf6c22678515c9ffb99fc54b955186fb42d5e6cbd562d7456c37cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c40c8edba57a2cb4e40d2062e03b970838f28865ff7400feb077e786050077df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:18:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Impacte Ambiental
+- Fiscalização
+- Indemnização
+- Política do Ambiente
+- Poluição
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:281589:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667311:por
+  label: "Alterados os arts. 1º e 4º e revogado o art. 2º pelo DR 42/97.1997.10.10.MAM, DR.IS-B [235] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/42-1997-667311
+  date: '1997-10-10'
+- type: repealed_by
+  target: pt:dre:281589:por
+  label: "Revogado pelo DEC LEI.69/2000.2000.05.03.MAOT,DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2000-281589
+  date: '2000-05-03'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:18:02Z'
   warnings: []
   errors: []
 ---
@@ -214,15 +230,15 @@ Presidência do Conselho de Ministros, 25 de Junho de 1990.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Arlindo Marques de Carvalho - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Fernando Nunes Ferreira Real.
 
-**Promulgado em 8 de Novembro de 1990.**
+Promulgado em 8 de Novembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Novembro de 1990.**
+Referendado em 14 de Novembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Actividades do anexo III, considerando o disposto no n.º 1 do artigo 7.º do Decreto-Lei n.º 186/90, de 6 de Junho
 

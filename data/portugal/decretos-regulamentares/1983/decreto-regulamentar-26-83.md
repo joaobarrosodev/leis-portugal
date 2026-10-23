@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/03/06600/10031004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/26-1983-310425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8af59caee0a2e19de0618abfffd9119e216c49801150e25e29b0b6c074ef587b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bae8b82fcc26fbc363e4505d1e558a6e5e768d438ada539dc7c96161a5e87a42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Regional de Segurança Social
+- Orgânica
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:346485:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:452516:por
+  label: "Alterado o nº 2 do art. 2º, pelo DR.52/83.1983.06.22.MAS, DR.IS [141]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/52-1983-452516
+  date: '1983-06-22'
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310428:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DEC LEI 260/93 DE 23-JUL DR.IS-A [171\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-07-23'
+- type: repealed_by
+  target: pt:dre:346485:por
+  label: Revogado pelo(a) Decreto-Lei n.º 260/93 - Diário da República n.º 171/1993, Série I-A de 1993-07-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-1993-346485
+  date: '1993-07-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:12Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +138,9 @@ Assim, ao abrigo do disposto nos artigos 30.º e 40.º do [Decreto-Lei n.º 549/
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O presente decreto visa regulamentar a estrutura de participação, a nível regional, prevista no [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, e no [Decreto-Lei n.º 134/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1983-310428), de 19 de Março.
+Artigo 1.º O presente decreto visa regulamentar a estrutura de participação, a nível regional, prevista no [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, e no [Decreto-Lei n.º 134/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1983-310428), de 19 de Março.
 
-###### Art. 2.º - 1 - O Conselho Regional de Segurança Social, adiante designado por Conselho Regional, é composto pelos seguintes elementos, nomeados por despacho do Ministro dos Assuntos Sociais:
+Art. 2.º - 1 - O Conselho Regional de Segurança Social, adiante designado por Conselho Regional, é composto pelos seguintes elementos, nomeados por despacho do Ministro dos Assuntos Sociais:
 
 a) Presidente do conselho directivo do centro regional de segurança social, que presidirá;
 
@@ -134,7 +160,7 @@ h) 1 elemento a designar pelas associações de reformados.
 
 2 - O presidente será substituído nas suas faltas e impedimentos pelo vice-presidente do centro regional, caso exista, ou pelo vogal do conselho directivo que designar.
 
-###### Art. 3.º Compete ao Conselho Regional:
+Art. 3.º Compete ao Conselho Regional:
 
 a) Dar parecer sobre os planos anuais e plurianuais da acção do centro regional e suas alterações;
 
@@ -152,32 +178,32 @@ g) Dirigir ao conselho directivo as recomendações consideradas necessárias pa
 
 h) Propor medidas destinadas a uma melhoria do sistema de segurança social.
 
-###### Art. 4.º O mandato dos elementos designados é de 3 anos, podendo haver 2 substituições dentro do período de cada mandato.
+Art. 4.º O mandato dos elementos designados é de 3 anos, podendo haver 2 substituições dentro do período de cada mandato.
 
-###### Art. 5.º - 1 - O Conselho Regional reunirá ordisempre que convocado pelo presidente, por sua inicianariamente uma vez por mês e extraordinariamente tiva ou a requerimento de um número de membros não inferior a metade.
+Art. 5.º - 1 - O Conselho Regional reunirá ordisempre que convocado pelo presidente, por sua inicianariamente uma vez por mês e extraordinariamente tiva ou a requerimento de um número de membros não inferior a metade.
 
 2 - O Conselho Regional só pode deliberar com a presença da maioria dos seus membros.
 
 3 - As deliberações do Conselho Regional são tomadas por maioria simples dos votos dos membros presentes.
 
-###### Art. 6.º - 1 - Compete ao presidente convocar as reuniões e dirigir os respectivos trabalhos.
+Art. 6.º - 1 - Compete ao presidente convocar as reuniões e dirigir os respectivos trabalhos.
 
 2 - Em caso de empate na votação, o presidente dispõe de voto de qualidade.
 
-###### Art. 7.º Poderão participar nas reuniões, sem direito a voto, os vogais do conselho directivo do centro regional.
+Art. 7.º Poderão participar nas reuniões, sem direito a voto, os vogais do conselho directivo do centro regional.
 
-###### Art. 8.º Nos casos previstos nas alíneas a), b) c) e f) do artigo 3.º, o Conselho Regional deverá pronunciar-se no prazo que for estabelecido, pelo que a falta de parecer dentro desse prazo equivale à emissão de parecer de concordância.
+Art. 8.º Nos casos previstos nas alíneas a), b) c) e f) do artigo 3.º, o Conselho Regional deverá pronunciar-se no prazo que for estabelecido, pelo que a falta de parecer dentro desse prazo equivale à emissão de parecer de concordância.
 
-###### Art. 9.º As reuniões terão lugar em instalações fornecidas pelo centro regional, que igualmente assegurará ao Conselho Regional os meios materiais e apoio técnico-administrativo necessários ao seu normal funcionamento.
+Art. 9.º As reuniões terão lugar em instalações fornecidas pelo centro regional, que igualmente assegurará ao Conselho Regional os meios materiais e apoio técnico-administrativo necessários ao seu normal funcionamento.
 
 Francisco José Pereira Pinto Balsemão - Luís Eduardo Silva Barbosa.
 
-**Promulgado em 9 de Março de 1983.**
+Promulgado em 9 de Março de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Março de 1983.**
+Referendado em 10 de Março de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

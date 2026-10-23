@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/193/1997/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1997-144845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4cf81acc14385a2b97cbec058ec6d6d15b848202234f8c0b8a347af208ae910
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69aea7ca308a572009e30386c939f94e193d6d731c28d6a2b24978964c39f55e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Educação
-- Estatuto
 - Ação Social
 - Caixa de Previdência
+- Estatuto
+- Funcionário Público
+- Ministério da Educação
 - Pessoal Docente
 - Proteção Social
 - Renda Vitalícia
 - Seguro de VIDA
-- Funcionário Público
 - Subsídio por Morte
 relationships:
 - type: amended_by
   target: pt:dre:247448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:247448:por
+  label: "Alterado, a partir de 20.04.2009, o art. 1º do Dec Lei 35781, de 05-Ago de 1946, na redacção do presente diploma,\
+    \ pelo DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/1993/04/26/p/dre
   label: null
@@ -90,16 +96,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/82/1991/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/82/1991/02/19/p/dre
+- type: cites
+  target: pt:dre:156421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665342:por
+  label: null
+  source: null
 article_structure:
-  article_count: 81
+  article_count: 46
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:45Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +166,7 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 
 
 Denominação, sede, âmbito e fins
 
-###### Artigo 1.º
+Artigo 1.º
 
 A Caixa de Previdência do Ministério da Educação, cuja criação foi aprovada pelo [Decreto n.º 12695](https://diariodarepublica.pt/dr/detalhe/decreto/12695-1926-160883), de 19 de Novembro de 1926, funciona junto deste Ministério e destina-se a assegurar, no caso de morte de qualquer dos seus associados, um subsídio, com carácter de seguro de vida, aos seus herdeiros ou à pessoa ou pessoas para esse efeito designadas pelo sócio nos termos destes Estatutos e seus regulamentos, bem como outras modalidades de previdência ou ainda acções de solidariedade social.
 
@@ -140,13 +178,15 @@ A Caixa de Previdência do Ministério da Educação, cuja criação foi aprovad
 
 Dos sócios
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - Podem inscrever-se como sócios todo o pessoal docente e não docente do Ministério da Educação e dos serviços por ele tutelados que se encontre no exercício de funções e, bem assim, os docentes e não docentes do ensino particular e cooperativo, desde que não tenham completado 61 anos de idade.
 
 2 - A inscrição é ainda extensiva aos profissionais que, não se encontrando já ao serviço de departamentos ou instituições dependentes do Ministério da Educação, neles tenham exercido funções como trabalhadores do quadro ou contratados.
 
-###### Artigo 3.º — A inscrição dos sócios poderá ou não ser precedida de exame médico, nos termos do artigo 10.º
+Artigo 3.º
+
+A inscrição dos sócios poderá ou não ser precedida de exame médico, nos termos do artigo 10.º
 
 § 1.º O exame médico será pago pelo candidato a sócio e confirmado por facultativo escolhido pelo conselho de administração.
 
@@ -156,13 +196,13 @@ Dos sócios
 
 Contribuições
 
-###### Artigo 4.º
+Artigo 4.º
 
 ...
 
 § único. Mantêm-se em vigor as tabelas fixadas em regulamento e destinadas ao cálculo das jóias e quotas dos sócios, nos termos do [Decreto-Lei n.º 35781](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35781-1946-156421), de 5 de Agosto de 1946, que só poderão ser alteradas conforme o disposto no artigo 35.º, continuando os sócios inscritos até à data da publicação dos Decretos-Leis n.os 33724, de 20 de Junho de 1944, e n.º 35781, de 5 de Agosto de 1946, sujeitos ao pagamento pelas tabelas nessas datas vigentes.
 
-###### Artigo 5.º
+Artigo 5.º
 
 As quotas supõem-se vencidas no dia 1 de cada mês e serão satisfeitas por meio de desconto nas folhas de vencimento, bem como a jóia ou as respectivas prestações mensais. Quando se trate de professores do ensino particular ou equiparado, o pagamento será feito directamente à Caixa.
 
@@ -170,13 +210,13 @@ As quotas supõem-se vencidas no dia 1 de cada mês e serão satisfeitas por mei
 
 Benefícios dos sócios
 
-###### Artigo 7.º
+Artigo 7.º
 
 Cada sócio terá direito a constituir um subsídio múltiplo de 50000$00, não inferior a 100000$00, pagável, por morte, à pessoa ou pessoas pelo sócio indicadas em declaração feita pelo próprio ou aos herdeiros do mesmo sócio, nos termos estatutários e regulamentares.
 
 § único. O subsídio máximo a que se refere o corpo deste artigo é de 1000000$00, podendo ser alterado progressivamente, com base em estudo actuarial e mediante proposta do conselho de administração, a aprovar em assembleia geral.
 
-###### Artigo 8.º
+Artigo 8.º
 
 ...
 
@@ -184,7 +224,7 @@ Cada sócio terá direito a constituir um subsídio múltiplo de 50000$00, não 
 
 § 2.º ...
 
-###### Artigo 9.º
+Artigo 9.º
 
 Quando algum sócio nas condições do § único do artigo 5.º deixar de pagar as prestações da jóia e as quotas e o número destas ou daquelas em dívida for igual ou superior a três e inferior a seis, serão as mesmas acrescidas do juro de mora à taxa correspondente às respectivas tabelas actuariais; quando o seu número atingir seis, será o subsídio reduzido, de modo a corresponder à reserva matemática na data em que cessou o pagamento e entregue na ocasião do falecimento do sócio.
 
@@ -194,7 +234,7 @@ Quando algum sócio nas condições do § único do artigo 5.º deixar de pagar 
 
 § 3.º Os sócios são considerados suspensos de todos os seus direitos quando o número de quotas em dívida for igual ou superior a seis.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - O direito aos subsídios, para os sócios que, nos termos do artigo 3.º, tiverem optado pelo exame médico, adquire-se decorridos os prazos adiante fixados, contados a partir da data da inscrição, de acordo com a idade do sócio nessa data:
 
@@ -218,13 +258,13 @@ Acima de 51 anos - 10 anos.
 
 3 - Se os sócios falecerem antes de decorridos os prazos indicados nos n.os 1 e 2, os beneficiários apenas terão direito à restituição das quotas pagas.
 
-###### Artigo 11.º
+Artigo 11.º
 
 ...
 
 § único. Quando se trate de sócios professores do ensino particular ou que não tenham direito a vencimentos nem a pensão de aposentação ou de reforma, os direitos consignados neste artigo consideram-se de conceder a partir da data em que perfaçam 70 anos de idade.
 
-###### Artigo 12.º
+Artigo 12.º
 
 ...
 
@@ -232,7 +272,7 @@ Acima de 51 anos - 10 anos.
 
 § 2.º ...
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - Constituem direitos dos sócios:
 
@@ -254,11 +294,11 @@ d) Observarem as disposições estatutárias e regulamentares.
 
 Assembleia geral
 
-###### Artigo 15.º
+Artigo 15.º
 
 A assembleia geral é formada pelos sócios em pleno gozo dos seus direitos.
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - As reuniões da assembleia geral funcionam com o número de membros presentes.
 
@@ -272,7 +312,7 @@ A assembleia geral é formada pelos sócios em pleno gozo dos seus direitos.
 
 Órgãos sociais
 
-###### Artigo 17.º
+Artigo 17.º
 
 1 - Os órgãos sociais da Caixa são constituídos pela assembleia geral, conselho de administração e conselho fiscal.
 
@@ -296,7 +336,7 @@ b) Finda a eleição, o delegado elaborará a acta respectiva, que será assinad
 
 c) Os resultados das assembleias regionais só serão divulgados após a realização da assembleia geral em Lisboa.
 
-###### Artigo 18.º
+Artigo 18.º
 
 1 - A assembleia geral reunirá ordinariamente:
 
@@ -354,7 +394,7 @@ c) Dar posse aos titulares dos órgãos sociais.
 
 Conselho de administração
 
-###### Artigo 19.º
+Artigo 19.º
 
 1 - O conselho de administração é composto por cinco membros efectivos e dois suplentes.
 
@@ -370,7 +410,7 @@ Conselho de administração
 
 7 - O conselho de administração só pode deliberar achando-se presente a maioria dos seus membros efectivos, um dos quais deverá ser o presidente ou o vice-presidente.
 
-###### Artigo 20.º
+Artigo 20.º
 
 1 - Compete ao conselho de administração, em conformidade com os presentes Estatutos e regulamentos:
 
@@ -408,7 +448,7 @@ n) Dar cumprimento às deliberações da assembleia geral.
 
 Conselho fiscal
 
-###### Artigo 21.º
+Artigo 21.º
 
 1 - O conselho fiscal é constituído por três membros efectivos e dois suplentes, eleitos de entre os sócios, em assembleia geral.
 
@@ -428,7 +468,7 @@ c) Emitir pareceres sobre quaisquer outros assuntos para que seja solicitado pel
 
 6 - De cada reunião será elaborada uma acta, cuja responsabilidade será de um dos membros do conselho fiscal.
 
-###### Artigo 22.º
+Artigo 22.º
 
 ...
 
@@ -440,7 +480,7 @@ c) Primeiras hipotecas sobre prédios urbanos ou rústicos;
 
 d) Outras modalidades, a estabelecer pelo conselho de administração.
 
-###### Artigo 23.º
+Artigo 23.º
 
 ...
 
@@ -454,13 +494,13 @@ A utilização da reserva legal da Caixa depende de autorização da assembleia 
 
 Pessoal
 
-###### Artigo 26.º
+Artigo 26.º
 
 1 - O pessoal actualmente ao serviço da Caixa mantém todos os direitos adquiridos sem prejuízo do disposto nos artigos seguintes.
 
 2 - O pessoal da Caixa de Previdência do Ministério da Educação rege-se pelas normas aplicáveis ao contrato individual de trabalho, em termos a definir por regulamento interno da Caixa, sem prejuízo do disposto nos artigos 27.º, 28.º e 29.º
 
-###### Artigo 27.º
+Artigo 27.º
 
 1 - É criado, no âmbito do Ministério da Educação, um quadro supranumerário ao quadro único dos órgãos e serviços centrais, regionais e tutelados, no qual se integram os lugares constantes do mapa anexo ao presente diploma.
 
@@ -480,13 +520,13 @@ b) Publicação da integração no Diário da República.
 
 7 - A gestão do quadro supranumerário é da competência da Secretaria-Geral do Ministério da Educação.
 
-###### Artigo 28.º
+Artigo 28.º
 
 1 - O pessoal integrado no quadro supranumerário previsto no artigo anterior passará, obrigatoriamente, a exercer as suas funções em regime de requisição na Caixa, nos termos previstos no n.º 5 do artigo 27.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro.
 
 2 - A Caixa suporta todos os encargos com o pessoal previsto no número anterior, designadamente em matéria de vencimentos e demais abonos complementares.
 
-###### Artigo 29.º
+Artigo 29.º
 
 1 - A Caixa possui um quadro privativo de pessoal definido pelo conselho de administração, de acordo com as normas aplicáveis ao contrato individual de trabalho, em termos a definir em regulamento da Caixa.
 
@@ -500,7 +540,7 @@ b) Publicação da integração no Diário da República.
 
 6 - O tesoureiro prestará a caução que lhe for fixada pelo conselho de administração e ser-lhe-á atribuído o abono para falhas determinado por lei. A caução será feita através de seguro ou qualquer outra forma legalmente estabelecida.
 
-###### Artigo 31.º
+Artigo 31.º
 
 1 - O conselho de administração exerce o poder disciplinar relativamente ao pessoal integrado no quadro privativo.
 
@@ -508,7 +548,7 @@ b) Publicação da integração no Diário da República.
 
 Regime financeiro
 
-###### Artigo 32.º
+Artigo 32.º
 
 Constituem receitas da Caixa:
 
@@ -554,7 +594,7 @@ i) Celebrar protocolos com outras entidades ou instituições.
 
 3 - No âmbito das suas atribuições, a Caixa pode articular, para prossecução dos seus objectivos, com os Serviços Sociais do Ministério da Educação, celebrando para o efeito acordos ou protocolos.
 
-###### Artigo 2.º-A
+Artigo 2.º-A
 
 1 - As regras especiais relativas à admissão, suspensão e exclusão dos sócios, ao funcionamento dos corpos sociais e respectivo processo de eleição constam de regulamento interno elaborado pelo conselho de administração e aprovado nos termos previstos no presente diploma.
 
@@ -562,19 +602,19 @@ i) Celebrar protocolos com outras entidades ou instituições.
 
 Contribuições
 
-###### Artigo 4.º-A
+Artigo 4.º-A
 
 Os sócios contribuem para a Caixa com uma quota ou quotas calculadas conforme tabelas constantes de regulamentos, que atenderão à data da sua inscrição na Caixa, à idade e às modalidades e valor dos benefícios constituídos ou que pretendem constituir.
 
 Benefícios dos sócios
 
-###### Artigo 7.º-A
+Artigo 7.º-A
 
 1 - A concessão dos benefícios é definida nos respectivos regulamentos internos, de acordo com os presentes Estatutos.
 
 2 - Os benefícios devidos aos sócios, à pessoa ou pessoas por eles designadas ou ainda aos seus herdeiros não podem ser cedidos a terceiros ou penhorados, excepto quando a Caixa não tiver sido reembolsada das dívidas contraídas perante ela pelos mesmos sócios.
 
-###### Artigo 11.º-A
+Artigo 11.º-A
 
 1 - O direito aos benefícios que devam ser concedidos pela Caixa prescreve, a favor desta, decorridos cinco anos a partir da data do falecimento do sócio e desde que os interessados não se tenham habilitado.
 
@@ -582,7 +622,7 @@ Benefícios dos sócios
 
 3 - Não havendo beneficiários declarados, o prazo conta-se igualmente a partir da data em que, nas condições do número anterior, forem publicados éditos, mas neste caso citando as pessoas que se julguem com direito aos benefícios.
 
-###### Artigo 14.º-A
+Artigo 14.º-A
 
 1 - Os sócios poderão, em qualquer altura, requerer a sua demissão, perdendo todos os seus direitos, incluindo o valor das quotas pagas, que reverterá a favor da Caixa.
 
@@ -596,17 +636,17 @@ São aditados os artigos 33.º, 34.º, 35.º e 36.º, com a seguinte redacção:
 
 Os valores em dinheiro são depositados à ordem da Caixa e só podem ser movimentados por dois membros do conselho de administração, sendo um deles o presidente, vice-presidente ou administrador-delegado, e pelo tesoureiro da Caixa ou respectivos substitutos em exercício.
 
-###### Artigo 34.º
+Artigo 34.º
 
 Os actuais sócios da Caixa mantêm, no plano dos benefícios sociais, todos os direitos em relação aos quais, nos termos da lei e dos regulamentos aplicáveis, eram titulares durante o período anterior à entrada em vigor do presente diploma.
 
-###### Artigo 35.º
+Artigo 35.º
 
 Mantêm-se em vigor as normas sobre valores e cálculos de subsídios e rendas vitalícias, os quais só poderão ser alterados mediante regulamento a aprovar em assembleia geral.
 
 Disposições finais e transitórias
 
-###### Artigo 36.º
+Artigo 36.º
 
 1 - A liquidação e dissolução da Caixa deliberadas pela assembleia geral devem ser propostas ao Governo e aprovadas por decreto-lei.
 
@@ -618,19 +658,19 @@ Disposições finais e transitórias
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Eduardo Carrega Marçal Grilo - Eduardo Luís Barreto Ferro Rodrigues - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 3 de Julho de 1997.**
+Promulgado em 3 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Julho de 1997.**
+Referendado em 10 de Julho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 Quadro de pessoal a que se refere o artigo 27.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173a00/38733885.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173a00/38733885.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173a00/38733885.pdf)
 
 REPUBLICAÇÃO DO TEXTO INTEGRAL DOS ESTATUTOS
 
@@ -1128,4 +1168,4 @@ Disposições finais e transitórias
 
 Quadro de pessoal a que se refere o artigo 27.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173a00/38733885.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173a00/38733885.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173a00/38733885.pdf)

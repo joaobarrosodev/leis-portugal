@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/60-1979-364933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8b13d99a2aa0dac56a19f286e619df5e8977334bc54c54a9ee7922fa3ee8a23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70fe89f95c73a1e8dd82504e032b2496ac2f46d3ff33b79fc0fb0d62ebd7f1fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Ministério da Agricultura e Pescas
+- Orgânica
+- Quadro de Pessoal
+- Região Demarcada do Douro
+- Vinha
+relationships:
+- type: cites
+  target: pt:dre:241043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:42Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +105,13 @@ Tendo em vista o disposto no n.º 2 do artigo 11.º do [Decreto-Lei n.º 221/77]
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição o seguinte:
 
-###### Artigo 1.º - 1 - É criado o Centro de Estudos Vitivinícolas do Douro, com sede na zona agrária da Régua, abreviadamente designado por CEVD.
+Artigo 1.º - 1 - É criado o Centro de Estudos Vitivinícolas do Douro, com sede na zona agrária da Régua, abreviadamente designado por CEVD.
 
 2 - O Centro fica na dependência directa do director dos Serviços Regionais de Agricultura de Trás-os-Montes.
 
-###### Art. 2.º O Centro exercerá a sua actividade no âmbito da vitivinicultura da Região Demarcada do Douro, podendo, em caso de reconhecido interesse, estender a sua acção à vitivinicultura de outras áreas dos Serviços Regionais de Agricultura de Trás-os-Montes.
+Art. 2.º O Centro exercerá a sua actividade no âmbito da vitivinicultura da Região Demarcada do Douro, podendo, em caso de reconhecido interesse, estender a sua acção à vitivinicultura de outras áreas dos Serviços Regionais de Agricultura de Trás-os-Montes.
 
-###### Art. 3.º Compete especialmente ao Centro:
+Art. 3.º Compete especialmente ao Centro:
 
 a) A cooperação com o INIA e outros organismos que exerçam actividades de I-D no âmbito da investigação científica da vitivinícultura regional;
 
@@ -110,9 +125,9 @@ e) A gestão de unidades experimentais de investigação, de demonstração ou d
 
 f) O apoio técnico aos sectores inerentes à vitivinicultura, em cooperação e coordenação com as sub-regiões e zonas agrárias.
 
-###### Art. 4.º O Centro é dirigido por um director de serviços.
+Art. 4.º O Centro é dirigido por um director de serviços.
 
-###### Art. 5.º O Centro dispõe dos seguintes serviços:
+Art. 5.º O Centro dispõe dos seguintes serviços:
 
 A) Serviços de apoio:
 
@@ -130,7 +145,7 @@ c) Divisão de Enologia;
 
 d) Núcleo de Condicionamento do Plantio da Vinha.
 
-###### Art. 6.º Ao Núcleo de Estudos Económicos, orientado por um técnico superior, compete:
+Art. 6.º Ao Núcleo de Estudos Económicos, orientado por um técnico superior, compete:
 
 a) Caracterizar os modelos de exploração vitícola para as diversas zonas homogéneas da Região;
 
@@ -138,11 +153,11 @@ b) Efectuar estudos sobre custos de factores de produção e de produtos e a ren
 
 c) Colaborar na gestão das explorações experimentais a cargo do Centro.
 
-###### Art. 7.º - 1 - Ao Núcleo Administrativo, orientado por um primeiro-oficial, compete o apoio administrativo e instrumental às acções desenvolvidas pelo Centro.
+Art. 7.º - 1 - Ao Núcleo Administrativo, orientado por um primeiro-oficial, compete o apoio administrativo e instrumental às acções desenvolvidas pelo Centro.
 
 2 - O Núcleo Administrativo depende funcionalmente da Direcção de Serviços de Administração da Região.
 
-###### Art. 8.º Compete à Divisão de Ampelologia:
+Art. 8.º Compete à Divisão de Ampelologia:
 
 a) Proceder, na Região, à investigação e experimentação no âmbito da viticultura, ampelografia, sanidade e melhoramento vitícola e fertilidade, nomeadamente no que respeita à análise e diagnóstico foliar;
 
@@ -156,7 +171,7 @@ e) Fornecer a viticultores e viveiristas, em colaboração com a DGPPA, material
 
 f) Colaborar na gestão das explorações experimentais a cargo do Centro.
 
-###### Art. 9.º Compete à Divisão de Mecanização e Reconversão da Vinha:
+Art. 9.º Compete à Divisão de Mecanização e Reconversão da Vinha:
 
 a) Estudar e propor medidas que facilitem e incentivem a conversão da vinha na Região;
 
@@ -166,7 +181,7 @@ c) Estudar e propor as técnicas de instalação, condução e manutenção de v
 
 d) Colaborar com a Direcção-Geral de Hidráulica e Engenharia Agrícola em estudos sobre maquinaria de interesse vitícola, nomeadamente no que se refere à sua adaptação regional.
 
-###### Art. 10.º Compete à Divisão de Enologia:
+Art. 10.º Compete à Divisão de Enologia:
 
 a) Estudar processos de fabrico dos vinhos do Porto e de mesa, sua conservação e envelhecimento;
 
@@ -178,7 +193,7 @@ d) Estudar o aproveitamento dos subprodutos da vinificação;
 
 e) Gerir as adegas das explorações experimentais a cargo do Centro.
 
-###### Art. 11.º Ao Núcleo de Condicionamento e Cadastro Vitícola, orientado por um técnico superior, compete:
+Art. 11.º Ao Núcleo de Condicionamento e Cadastro Vitícola, orientado por um técnico superior, compete:
 
 a) Colaborar com o Instituto de Gestão e Estruturação Fundiária no estudo das medidas e dos meios tendentes ao fomento do plantio da vinha na Região e fiscalização dos encepamentos;
 
@@ -190,32 +205,32 @@ d) Proceder ao registo de videiras na Região e transmitir ao IGEF as irregulari
 
 e) Colaborar, a nível regional, na execução do cadastro vitícola e sua actualização.
 
-###### Art. 12.º Aos serviços do Centro, para além das suas funções específicas, compete ainda apoiar os diferentes serviços dos serviços regionais de agricultura, sempre que a eles recorram, mantendo a devida coordenação com as sub-regiões e zonas agrárias.
+Art. 12.º Aos serviços do Centro, para além das suas funções específicas, compete ainda apoiar os diferentes serviços dos serviços regionais de agricultura, sempre que a eles recorram, mantendo a devida coordenação com as sub-regiões e zonas agrárias.
 
-###### Art. 13.º A gestão técnica, administrativa e financeira das explorações experimentais a cargo do Centro compete ao seu director.
+Art. 13.º A gestão técnica, administrativa e financeira das explorações experimentais a cargo do Centro compete ao seu director.
 
-###### Art. 14.º - 1 - O Centro dispõe de contingente de pessoal dirigente e dos quadros únicos do MAP constante do mapa anexo ao presente diploma.
+Art. 14.º - 1 - O Centro dispõe de contingente de pessoal dirigente e dos quadros únicos do MAP constante do mapa anexo ao presente diploma.
 
 2 - O contingente de pessoal referido no número anterior, com excepção do pessoal dirigente, faz parte integrante do contingente já fixado pelo mapa II anexo ao [Decreto Regulamentar n.º 6-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-a-1979-241043), de 24 de Março, para os Serviços Regionais de Agricultura de Trás-os-Montes.
 
-###### Art. 15.º - 1 - O Conselho Administrativo dos Serviços Regionais de Agricultura de Trás-os-Montes poderá delegar no director do Centro parte da sua competência para autorizar a realização de despesas nos termos legais.
+Art. 15.º - 1 - O Conselho Administrativo dos Serviços Regionais de Agricultura de Trás-os-Montes poderá delegar no director do Centro parte da sua competência para autorizar a realização de despesas nos termos legais.
 
 2 - O director do Centro prestará mensalmente contas das despesas efectuadas, podendo ser constituído, sob a sua responsabilidade, um fundo de maneio para ocorrer ao pagamento dessas despesas.
 
-###### Art. 16.º Transitam para os Serviços Regionais de Agricultura de Trás-os-Montes as instalações, equipamento e pessoal da Estação Vitivinícola do Douro.
+Art. 16.º Transitam para os Serviços Regionais de Agricultura de Trás-os-Montes as instalações, equipamento e pessoal da Estação Vitivinícola do Douro.
 
-###### Art. 17.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 17.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Apolinário José Barbosa da Cruz Vaz Portugal - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 30 de Julho de 1979.**
+Promulgado em 30 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 14.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/23900/26532655.pdf))](https://files.diariodarepublica.pt/1s/1979/10/23900/26532655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/23900/26532655.pdf)
 
-**O Primeiro-Ministro, Carlos Alberto da Mota Pinto. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.**
+O Primeiro-Ministro, Carlos Alberto da Mota Pinto. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.

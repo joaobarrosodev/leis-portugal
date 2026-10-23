@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/55/2010/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2010-332462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c6879bb3e28b34158d95896004cbe97eae8e8fc57103c56d36123005994a37b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebfdb09899c970bdfd04c0de6b15cfc4ba46f511a88fb4e3cd91ce89bef0071e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
+- Administração de Aeroportos
 - Aeroporto
-- Prevenção de Incêndios
+- Aviação Civil
 - Classificação de Aeroportos
 - Contra-ordenação
 - Definição de Competências
 - Instituto Nacional de Aviação Civil
-- Zona de Proteção
-- Administração de Aeroportos
-- Aviação Civil
+- Prevenção de Incêndios
 - Segurança Aérea
 - Sinalização
 - Tráfego Aéreo
 - Transporte de Passageiros
+- Zona de Proteção
 relationships:
 - type: cites
   target: celex:31992R1823
@@ -100,15 +100,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/186/2007/05/10/p/dre
 article_structure:
-  article_count: 70
+  article_count: 49
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:29Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +163,9 @@ e) As pistas e heliportos utilizados por meios aéreos de combate a incêndios o
 
 4 - A certificação das infra-estruturas previstas nas alíneas b) a e) do número anterior é objecto de legislação ou regulamentação específica, dadas as particularidades das actividades a que se destinam.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -213,7 +215,9 @@ x) ...
 
 z) ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 ...
 
@@ -229,7 +233,9 @@ e) ...
 
 f) Os projectos não podem contrariar a demais legislação ou regulamentação complementar, bem como o disposto nas normas constantes dos anexos 3 e 14 à Convenção de Chicago.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -247,7 +253,9 @@ f) Os projectos não podem contrariar a demais legislação ou regulamentação 
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 6.º — Projecto
+Artigo 6.º
+
+Projecto
 
 1 - Cada uma das fases do projecto referidas no artigo anterior carece de aprovação do INAC.
 
@@ -255,7 +263,9 @@ f) Os projectos não podem contrariar a demais legislação ou regulamentação 
 
 3 - Os prazos de aprovação de cada uma das fases referidas no presente artigo são definidos em regulamentação complementar, tendo em conta a complexidade de cada fase, não podendo nenhum dos prazos exceder 90 dias seguidos, contados a partir da data da entrega de todos os elementos que integram essa fase.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -315,7 +325,9 @@ xx) Acordos ou protocolos com outras entidades no âmbito dos procedimentos e me
 
 3 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -337,7 +349,9 @@ g) ...
 
 3 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -353,7 +367,9 @@ c) Apresentação de um novo manual de aeródromo conforme o disposto no n.º 1 
 
 4 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -377,7 +393,9 @@ d) (Revogada.)
 
 4 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -409,7 +427,9 @@ g) ...
 
 8 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -447,7 +467,9 @@ n) ...
 
 5 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -493,7 +515,9 @@ c) ...
 
 d) Existência de zonas específicas destinadas ao embarque, desembarque, transferência ou trânsito de passageiros e sua bagagem de mão, nos termos do Regulamento (CEE) n.º [1823/92](http://data.europa.eu/eli/reg/1992/1823/oj?locale=pt), da Comissão, de 3 de Julho, relativo à supressão dos controlos e formalidades aplicáveis às bagagens de mão e às bagagens de porão das pessoas que efectuam um voo intracomunitário.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -519,7 +543,9 @@ j) ...
 
 l) ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -553,7 +579,9 @@ j) Proposta de NOTAM a emitir, ou identificação da necessidade de emissão de 
 
 l) ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -575,7 +603,9 @@ l) ...
 
 10 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -775,13 +805,17 @@ oo) ...
 
 3 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - Compete ao INAC, nos termos do Decreto-Lei n.º 145/2007, de 27 de Abril, instaurar e instruir os processos de contra-ordenação, bem como proceder à aplicação das coimas.
 
 2 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - Nos termos previstos na secção ii do capítulo ii do Decreto-Lei n.º 10/2004, de 9 de Janeiro, e no artigo 21.º do regime geral do ilícito de mera ordenação social, aprovado pelo Decreto-Lei n.º 433/82, de 27 de Outubro, com a última redacção dada pela Lei n.º 109/2001, de 24 de Dezembro, o INAC pode determinar a aplicação das seguintes sanções acessórias:
 
@@ -791,7 +825,9 @@ b) Em caso de reincidência, em simultâneo com a aplicação da coima correspon
 
 2 - ...
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - O disposto no presente decreto-lei não se aplica aos aeródromos e heliportos abertos ao tráfego à data da sua entrada em vigor e constantes do AIP e do MPC, salvo no que diz respeito aos respectivos projectos de ampliação ou modificação posteriores.
 
@@ -803,7 +839,9 @@ b) Em caso de reincidência, em simultâneo com a aplicação da coima correspon
 
 5 - A autorização referida no número anterior tem carácter excepcional e temporário, devendo conter obrigatoriamente prazo de validade, a fixar em função da complexidade da correcção das não conformidades apontadas pelo INAC para não concluir o processo de certificação e ainda eventuais limitações, restrições e todas as condições de operação, de modo a que nunca a segurança seja posta em causa.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Os processos de certificação pendentes à data da entrada em vigor do Decreto-Lei n.º 186/2007, de 10 de Maio, e respeitantes a aeródromos ou heliportos ainda não abertos ao tráfego na data de entrada em vigor do presente decreto-lei são apreciados e decididos segundo os procedimentos de certificação instituídos pelo INAC antes da data da entrada em vigor daquele decreto-lei.
 
@@ -813,7 +851,9 @@ b) Em caso de reincidência, em simultâneo com a aplicação da coima correspon
 
 4 - São aplicáveis ao processo de certificação previsto no presente artigo, os n.os 3, 4 e 5 do artigo anterior.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 A regulamentação complementar a que se refere o presente decreto-lei é emitida pelo INAC.»
 
@@ -835,7 +875,9 @@ c) A autorização deve conter todas as limitações, restrições e condições
 
 d) A infra-estrutura autorizada deve ser objecto de inspecções periódicas a realizar pelo INAC.
 
-###### Artigo 38.º-A — Contratos de concessão
+Artigo 38.º-A
+
+Contratos de concessão
 
 Nas situações em que a exploração ou gestão dos aeródromos e aeroportos públicos seja objecto de concessão outorgada pelo Governo ou pelos Governos Regionais, a aplicação do presente decreto-lei deve ter em conta as condições da concessão, para o que deve o mesmo ser interpretado em conformidade com os termos daquela e aplicado com as necessárias adaptações.»
 
@@ -853,15 +895,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Fevereiro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Augusto Ernesto Santos Silva - Alberto de Sousa Martins - António Augusto da Ascenção Mendonça - Fernanda Maria Rosa do Carmo Julião - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 25 de Maio de 2010.**
+Promulgado em 25 de Maio de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de Maio de 2010.**
+Referendado em 30 de Maio de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 186/2007, de 10 de Maio
 

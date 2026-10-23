@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/332-1978-324760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:47:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e4f6d96b300a082bc38c13235c3ad21e71f5105ecf5c7433b0a67ebdf550c00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c59a23a3eca64986e623059090d30a245db5b8bb378c644b220c2e9b5a420977
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:47:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Adubos de Portugal
+- Direcção Geral de Coordenação Comercial
+- Fertilizante
+- Fundo de Abastecimento
+- Preço Máximo
+- Subsídio
+relationships:
+- type: cites
+  target: pt:dre:329810:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:47:34Z'
   warnings: []
   errors: []
 ---
@@ -101,12 +111,12 @@ QUADRO I
 
 Preços aprovados aos fabricantes dos adubos submetidos ao regime de preços máximos e aos importadores de cloreto de potássio a 60%.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/28800/26582660.pdf))](https://files.diariodarepublica.pt/1s/1978/12/28800/26582660.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/28800/26582660.pdf)
 
 QUADRO II
 
 Subsídios a pagar aos fabricantes de adubos submetidos ao regime de preços máximos e aos importadores de cloreto de potássio a 60%, por tonelada de adubo vendida desde 1 de Junho de 1977 até 30 de Junho de 1979 para o continente e ilhas adjacentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/28800/26582660.pdf))](https://files.diariodarepublica.pt/1s/1978/12/28800/26582660.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/28800/26582660.pdf)
 
-**O Ministro das Finanças e do Plano, José da Silva Lopes. - O Ministro da Indústria e Tecnologia, Fernando Augusto dos Santos Martins. - O Ministro do Comércio e Turismo, Pedro José Rodrigues Pires de Miranda.**
+O Ministro das Finanças e do Plano, José da Silva Lopes. - O Ministro da Indústria e Tecnologia, Fernando Augusto dos Santos Martins. - O Ministro do Comércio e Turismo, Pedro José Rodrigues Pires de Miranda.

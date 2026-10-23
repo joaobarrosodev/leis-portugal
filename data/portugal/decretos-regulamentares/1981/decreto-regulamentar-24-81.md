@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1981-574294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T06:03:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 143f9e2808583815d7cb207d30db721e90ca6f7bee1045d1dfcfe9aabc994857
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a59f051565b5b298192dc9eadf0e5bb19a539a2a872e8226384c85f470e863fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:03:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cooperação Internacional
+- Gabinete de Informação e Cooperação Internacional
+- Ministério da Agricultura e Pescas
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:03:47Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +103,13 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º O Gabinete de Informação e Cooperação Internacional, abreviadamente designado por GICI, criado na dependência directa do Ministro da Agricultura e Pescas, nos termos do artigo 5.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), é um serviço de apoio instrumental.
+Artigo 1.º O Gabinete de Informação e Cooperação Internacional, abreviadamente designado por GICI, criado na dependência directa do Ministro da Agricultura e Pescas, nos termos do artigo 5.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), é um serviço de apoio instrumental.
 
-###### Art. 2.º As atribuições do Gabinete de Informação e Cooperação Internacional são as constantes do artigo 22.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
+Art. 2.º As atribuições do Gabinete de Informação e Cooperação Internacional são as constantes do artigo 22.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
 
 ### CAPÍTULO II — Dos serviços
 
-###### Art. 3.º O Gabinete de Informação e Cooperação Internacional dispõe, para o desempenho das suas atribuições, dos seguintes serviços:
+Art. 3.º O Gabinete de Informação e Cooperação Internacional dispõe, para o desempenho das suas atribuições, dos seguintes serviços:
 
 a) Direcção de Serviços de Informação e Relações Públicas;
 
@@ -105,15 +117,15 @@ b) Direcção de Serviços e Cooperação Internacional;
 
 c) Secção Administrativa.
 
-###### Art. 4.º A Direcção de Serviços de Informação e Relações Públicas tem como atribuições a coordenação da actividade editorial do Ministério, o tratamento e a difusão do material noticioso, as relações com os órgãos de comunicação social e o apoio às acções no âmbito de relações públicas nacionais, bem como a sua coordenação.
+Art. 4.º A Direcção de Serviços de Informação e Relações Públicas tem como atribuições a coordenação da actividade editorial do Ministério, o tratamento e a difusão do material noticioso, as relações com os órgãos de comunicação social e o apoio às acções no âmbito de relações públicas nacionais, bem como a sua coordenação.
 
-###### Art. 5.º A Direcção de Serviços de Informação e Relações Públicas é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 5.º A Direcção de Serviços de Informação e Relações Públicas é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) De Informação;
 
 b) De Relações Públicas.
 
-###### Art. 6.º À Divisão de Informação compete:
+Art. 6.º À Divisão de Informação compete:
 
 a) Estimular as relações entre o Ministério e os órgãos de comunicação social no sentido de lhes ser fornecida informação correcta, rectificar ou esclarecer, quando necessário, informações por eles veiculadas e sensibilizar o público para certas decisões adoptadas ou a adoptar;
 
@@ -131,7 +143,7 @@ g) Divulgar, no seio do Ministério, extractos do Diário da Assembleia da Repú
 
 h) Editar, quando necessário e desde que não seja atribuição específica de outra entidade, o material destinado a ser difundido pelo Ministério.
 
-###### Art. 7.º À Divisão de Relações Públicas compete:
+Art. 7.º À Divisão de Relações Públicas compete:
 
 a) Apoiar os Gabinetes do Ministro e Secretários de Estado no âmbito das acções que ao conceito das relações públicas estão inerentes;
 
@@ -147,17 +159,17 @@ f) Estabelecer contacto com o público e entidades interessadas com vista ao esc
 
 g) Esclarecer os funcionários sobre o funcionamento do Ministério.
 
-###### Art. 8.º - 1 - A Direcção de Serviços de Cooperação Internacional tem como atribuições a participação na elaboração, coordenação e controle das actividades do Ministério, em matéria de convenções, tratados e acordos celebrados com outros países, organizações internacionais e instituições estrangeiras, e o apoio e divulgação de estágios, cursos, conferências e outras realizações decorrentes de tal participação, quando relacionadas com a agricultura e pescas.
+Art. 8.º - 1 - A Direcção de Serviços de Cooperação Internacional tem como atribuições a participação na elaboração, coordenação e controle das actividades do Ministério, em matéria de convenções, tratados e acordos celebrados com outros países, organizações internacionais e instituições estrangeiras, e o apoio e divulgação de estágios, cursos, conferências e outras realizações decorrentes de tal participação, quando relacionadas com a agricultura e pescas.
 
 2 - A Direcção de Serviços de Cooperação Internacional assegura, em colaboração com os competentes serviços dos Ministérios dos Negócios Estrangeiros, das Finanças e do Plano e de outros directamente interessados, a ligação entre Portugal e outros países, organizações internacionais e instituições estrangeiras.
 
-###### Art. 9.º A Direcção de Serviços de Cooperação Internacional é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 9.º A Direcção de Serviços de Cooperação Internacional é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) De Cooperação Internacional Bilateral;
 
 b) De Cooperação Internacional Multilateral.
 
-###### Art. 10.º À Divisão de Cooperação Internacional Bilateral compete:
+Art. 10.º À Divisão de Cooperação Internacional Bilateral compete:
 
 a) Assegurar e fomentar, através do Ministério dos Negócios Estrangeiros, o intercâmbio cultural e técnico com outros países;
 
@@ -185,7 +197,7 @@ m) Promover a vinda de especialistas para a realização de conferências, curso
 
 n) Manter ligação com as missões diplomáticas acreditadas em Portugal, com o objectivo de promover o intercâmbio em todas as matérias que interessam às actividades do Ministério, conservando os elos referidos na alínea a).
 
-###### Art. 11.º À Divisão de Cooperação Internacional Multilateral compete:
+Art. 11.º À Divisão de Cooperação Internacional Multilateral compete:
 
 a) Coordenar e impulsionar as acções que visem a mais conveniente utilização da assistência proporcionada por organizações internacionais e instituições estrangeiras;
 
@@ -205,7 +217,7 @@ h) Promover a vinda de especialistas das organizações ou instituições referi
 
 i) Manter relações estreitas com os serviços ou entidades que no País assegurem a ligação entre os departamentos oficiais e as organizações internacionais e instituições estrangeiras.
 
-###### Art. 12.º - 1 - À Secção Administrativa, dependente funcionalmente da Secretaria-Geral, compete o apoio instrumental e logístico às actividades do Gabinete de Informação e Cooperação Internacional.
+Art. 12.º - 1 - À Secção Administrativa, dependente funcionalmente da Secretaria-Geral, compete o apoio instrumental e logístico às actividades do Gabinete de Informação e Cooperação Internacional.
 
 2 - Compete nomeadamente à Secção Administrativa:
 
@@ -225,26 +237,26 @@ g) Organizar os processos relativos às despesas do Gabinete.
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 13.º O Gabinete de Informação e Cooperação Internacional é dirigido por um director, equiparado, para todos os efeitos legais, a subdirector-geral, e dispõe do contingente de pessoal dirigente e dos quadros únicos do MAP, constante do mapa anexo a este diploma e que dele faz parte integrante.
+Art. 13.º O Gabinete de Informação e Cooperação Internacional é dirigido por um director, equiparado, para todos os efeitos legais, a subdirector-geral, e dispõe do contingente de pessoal dirigente e dos quadros únicos do MAP, constante do mapa anexo a este diploma e que dele faz parte integrante.
 
-###### Art. 14.º O provimento dos lugares de pessoal dirigente do Gabinete de Informação e Cooperação Internacional, bem como o respectivo recrutamento, será efectuado nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+Art. 14.º O provimento dos lugares de pessoal dirigente do Gabinete de Informação e Cooperação Internacional, bem como o respectivo recrutamento, será efectuado nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### Art. 15.º As dúvidas suscitadas na execução deste diploma serão resolvidas por despacho dos Ministros da Agricultura e Pescas, das Finanças e do Plano e da Reforma Administrativa, quando estiverem em causa matérias das suas competências.
+Art. 15.º As dúvidas suscitadas na execução deste diploma serão resolvidas por despacho dos Ministros da Agricultura e Pescas, das Finanças e do Plano e da Reforma Administrativa, quando estiverem em causa matérias das suas competências.
 
-###### Art. 16.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 16.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Francisco José Pereira Pinto Balsemão - João António de Morais Leitão - António José Baptista Cardoso e Cunha - Eusébio Marques de Carvalho.
 
-**Promulgado em 25 de Maio de 1981.**
+Promulgado em 25 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Pessoal a que se refere o artigo 13.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/06/12900/12901293.pdf))](https://files.diariodarepublica.pt/1s/1981/06/12900/12901293.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/06/12900/12901293.pdf)
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha. - O Ministro da Reforma Administrativa, Eusébio Marques de Carvalho.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha. - O Ministro da Reforma Administrativa, Eusébio Marques de Carvalho.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/219/2000/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2000-577709
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f590a1d23144be06380b40b0aafd42b5318da5eb92636eecdf6adbfd966abee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28a48522753282460845c2203911cdc61d29901f99de3dd8d3f91c20053dc099
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
 - Portugal Telecom
 - Reestruturação de Empresas
 - SGPS
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:617130:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:617130:por
+  label: "Cessada, com efeitos desde 01.12.2010, a obrigação da PT Comunicações, S. A. (PTC) de manutenção do Fundo de Pensões\
+    \ PT/CGA prevista no art. 3º do presente diploma, pelo DEC LEI.140-B/2010.30.12.2010.MFAP, DR.IS [252-2ºSupl] de 30.12.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-b-2010-617130
+  date: '2010-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/122/1994/05/14/p/dre
   label: null
@@ -86,16 +93,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/91/1997/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/91/1997/08/01/p/dre
+- type: cites
+  target: pt:dre:141831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636690:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:10Z'
   warnings: []
   errors: []
 ---
@@ -182,12 +205,12 @@ c) Ser objecto de aprovação, por despacho conjunto do Ministro do Equipamento 
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 2000. - Jaime José Matos da Gama - Luís Manuel Ferreira Parreirão Gonçalves - Manuel Pedro da Cruz Baganha - Diogo Campos Barradas de Lacerda Machado.
 
-**Promulgado em 23 de Agosto de 2000.**
+Promulgado em 23 de Agosto de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Setembro de 2000.**
+Referendado em 1 de Setembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

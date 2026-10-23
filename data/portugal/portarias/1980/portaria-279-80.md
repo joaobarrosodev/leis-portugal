@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/279-1980-474147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a898b49a5ecbb8f2095baeea8c914bc2fe0228bf1265d283e6d31344ba89eb58
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22003f34963cdacb4c331843d8d70f3858f5b9c7dd9bb796e0cec2a4f8daeaae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral das Contribuições e Impostos
+- Pessoal Técnico Superior
+- Promoção Profissional
+- Recrutamento de Pessoal
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:326736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382439:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:21Z'
   warnings: []
   errors: []
 ---
@@ -152,4 +165,4 @@ Do júri
 
 21 - De todas as reuniões do júri serão lavradas actas.
 
-**O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.**
+O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.

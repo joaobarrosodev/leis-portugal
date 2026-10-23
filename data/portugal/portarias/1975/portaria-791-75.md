@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 300/1975, 4º Suplemento, Série I de 1975-12-31
   number: '300'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 2160-(55) a 2160-(56)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30004/00550056.pdf
 entry_into_force_dates: []
@@ -46,36 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/791-1975-355315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T04:55:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f92583a3921fce551222ac75d2cab8928661a0a9b2e179c5455b1f059f34a78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc65c3656bb8672d992950a687f18f9acc2bed782819bdac12fc5acd3cd57c9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:55:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ciclo Preparatório
+- Ensino Oficial
+- Ensino Preparatório
+- Estabelecimento de Ensino
+- Pessoal Docente
+- Pessoal não Docente
+- Quadro de Pessoal
+- Sistema de Ensino
+relationships:
+- type: cites
+  target: pt:dre:239452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508641:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:408544:por
+  label: Rectificada pela DECL.DD8203.16.09.1976.PCM, DR.IS [218] de 16.09.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-408544
+  date: '1976-09-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:55:28Z'
   warnings: []
   errors: []
 ---
@@ -104,10 +129,10 @@ Ministérios das Finanças e da Educação e Investigação Científica, 30 de D
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30004/00550056.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30004/00550056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30004/00550056.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30004/00550056.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30004/00550056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30004/00550056.pdf)
 
-**O Ministro das Finanças, Francisco Salgado Zenha. - O Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves.**
+O Ministro das Finanças, Francisco Salgado Zenha. - O Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves.

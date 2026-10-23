@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/61/2009/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/61-2009-493245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T05:05:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8315d78a69d8d5068d5327b971809c5028ae53a6e6fcbd76eb6eae0cb263b70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 503beafca57b62a64f3bdcd3570cb003cdcabfcfcca3467e4c32308c4749a432
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:05:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:05:21Z'
   warnings: []
   errors: []
 ---
@@ -86,12 +86,12 @@ validation:
 
 de 22 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea n), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea n), da Constituição, o seguinte:
 
 É designado membro do Conselho de Estado o Dr. Vítor Augusto Brinquete Bento.
 
-**Assinado em 21 de Julho de 2009.**
+Assinado em 21 de Julho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.

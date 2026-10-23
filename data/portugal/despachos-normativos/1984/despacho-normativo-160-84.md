@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/160-1984-400229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T07:28:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc9730ba52570fa00e84ce1ce0e444fabb12480ddde8657159e2c34fac6de155
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc75b8ce901e8019ed028fe1a5e077463495b532334817c1d5b087cd9d235e74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:28:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Azeite
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:291610:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:28:39Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +101,7 @@ Ao abrigo do disposto na alínea l) do n.º 1 do artigo 3.º do [Decreto-Lei n.�
 
 1.º O Instituto do Azeite e Produtos Oleaginosos adquirirá o azeite virgem da campanha de 1984-1985, com acidez não superior a 6º e com o máximo de 8º por partida, que os produtores lhe proponham para venda até 31 de Julho de 1985, aos preços seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/24600/32763277.pdf))](https://files.diariodarepublica.pt/1s/1984/10/24600/32763277.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/24600/32763277.pdf)
 
 a) Estes preços sofrerão um acréscimo de 3$00, por quilograma e por mês, durante o período de Fevereiro a Julho de 1985 e referem-se a azeites que obedeçam à norma portuguesa, possuam aroma e sabor normais em relação à respectiva acidez e apresentem um máximo de 0,5% de humidade e impurezas conjuntas;
 

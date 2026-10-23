@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/339-1981-388994
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:43:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4a530b9640765ca2ce3ab7bc737ab0187bba14fe9ca629ddc698c24912daa8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fff4da330e28bfe60d71765d45942c184da1991f34b43a95056722b2afce25d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:43:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Leite
+- Margens de Comercialização
+- Mercado Interno
+- Política de Preços
+- Política Económica
+- Preço Contratado
+- Preço Declarado
+- Preço Livre
+- Preço Máximo
+- Preço Vigiado
+- Produção Leiteira
 relationships:
 - type: amended_by
   target: pt:dre:144403:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:382612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:144403:por
+  label: "Revogada pela PORT.1135/81.31.12.1981.MFP, DR.IS [300]4ºSupl de 31.12.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1135-1981-144403
+  date: '1981-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:43:46Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +164,7 @@ Classe C - leite sem qualidade para consumo em natureza e que apenas poderá ser
 
 2.º - 1 - No continente, nas zonas de recolha organizada, os preços a pagar à produção, por litro de leite, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf))](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
 
 2 - No continente, nas zonas de recolha não organizadas mas onde se proceda à classificação oficial do leite, os preços a pagar à produção, por litro de leite, são os referidos no n.º 1.
 
@@ -195,7 +228,7 @@ Leite esterilizado magro ... 0,5
 
 12.º - 1 - Os preços máximos de leite pasteurizado para utilizar fora do local de aquisição, no continente, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf))](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
 
 2 - Aos preços fixados no número anterior para a venda ao público poderá acrescer a importância de $30 por embalagem vendida para consumo fora da localidade onde se situam as instalações de tratamento, revertível para o centro de tratamento se efectuar a distribuição até ao retalho ou para o retalhista se se abastecer no centro de tratamento.
 
@@ -207,7 +240,7 @@ Leite esterilizado magro ... 0,5
 
 6 - O leite pasteurizado acondicionado em bilhas seladas destinado à indústria fica sujeito ao regime de preços máximos, que serão os seguintes, por litro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf))](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
 
 13.º O preço de venda ao público do leite comum (leite da classe B) tratado, nos postos de abastecimento no continente, é de 14$00 por litro, em garrafa ou em embalagem perdida.
 
@@ -215,11 +248,11 @@ Leite esterilizado magro ... 0,5
 
 2 - O leite não tratado da classe A nas condições previstas no número anterior será vendido ao público aos preços máximos por litro de:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf))](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
 
 15.º - 1 - Os preços máximos, no continente, do leite ultrapasteurizado de fabrico continental, para utilizar fora do local de aquisição, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf))](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
 
 2 - É permitida a absorção da margem de distribuição pelo centro de tratamento sempre que este efectue tal operação.
 
@@ -227,7 +260,7 @@ Leite esterilizado magro ... 0,5
 
 16.º - 1 - Os preços máximos, no continente, do leite ultrapasteurizado de fabrico açoriano para utilizar fora do local de aquisição são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf))](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
 
 2 - É permitida a absorção da margem de distribuição pelo consignatário sempre que este efectue tal operação.
 
@@ -235,7 +268,7 @@ Leite esterilizado magro ... 0,5
 
 17.º - 1 - Os preços máximos de leite esterilizado de fabrico nacional para utilizar fora do local da aquisição, no continente, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf))](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
 
 2 - É permitida a absorção da margem de distribuição pelo centro de tratamento sempre que este efectue tal operação.
 
@@ -243,7 +276,7 @@ Leite esterilizado magro ... 0,5
 
 18.º - 1 - Os preços máximos de leite especial pasteurizado para utilizar fora do local de aquisição, no continente, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf))](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
 
 2 - Aos preços fixados no número anterior para venda ao público poderá acrescer a importância de $30 por embalagem vendida para consumo fora da localidade onde se situam as instalações de tratamento, revertível para o centro de tratamento, quando este efectuar a distribuição até ao retalho ou para o retalhista se se abastecer no centro de tratamento.
 
@@ -253,7 +286,7 @@ Leite esterilizado magro ... 0,5
 
 20.º - 1 - Os subsídios a atribuir, por litro, aos vários tipos de leite para consumo em natureza serão suportados pelo Fundo de Abastecimento e constam do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf))](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
 
 2 - Os subsídios referidos no número anterior serão liquidados directamente pela Junta Nacional dos Produtos Pecuários às entidades que procedam ao tratamento daqueles tipos de leite para consumo em natureza.
 
@@ -261,17 +294,17 @@ Leite esterilizado magro ... 0,5
 
 21.º Os preços máximos de queijo tipo flamengo com 40% ou mais de gordura, de fabrico continental, para venda ao público no continente, são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf))](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
 
 2 - Os preços máximos do queijo tipo flamengo com 40% ou mais de gordura, de fabrico açoriano, para venda ao público continental, são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf))](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
 
 3 - Quando o fabricante ou o consignatário colocar o produto no armazém do distribuidor poderá deduzir da margem máxima fixada a este agente económico a importância de 3$00 por quilograma.
 
 22.º - 1 - Ao leite da classe A, eventualmente incorporado no fabrico de queijo tipo flamengo no continente, serão concedidos os seguintes subsídios:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf))](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
 
 2 - A liquidação dos subsídios referidos no número anterior será feita directamente pela Junta Nacional dos Produtos Pecuários aos fabricantes, mediante mapas comprovativos da aquisição do leite e da sua aplicação no fabrico de queijo flamengo.
 
@@ -279,25 +312,25 @@ Leite esterilizado magro ... 0,5
 
 23.º - 1 - Os preços máximos do leite em pó a granel de fabrico açoriano, com destino à indústria utilizadora continental, são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf))](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
 
 2 - O leite em pó a granel de fabrico açoriano e continental, embalado pela indústria continental, para venda ao público no continente como leite em pó não instantâneo beneficiará do subsídio seguinte, a suportar pelo Fundo de Abastecimento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf))](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
 
 3 - O leite em pó a granel de fabrico açoriano, embalado pela indústria açoriana, para venda ao público no continente como leite em pó não instantâneo beneficiará do seguinte subsídio, a suportar pelo Fundo de Abastecimento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf))](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
 
 4 - Os subsídios referidos nos n.os 2 e 3 anteriores serão liquidados directamente pela Junta Nacional dos Produtos Pecuários às entidades embaladoras.
 
 24.º - 1 - Os preços máximos de leite em pó não instantâneo, embalado no continente, para venda ao público no continente, são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf))](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
 
 2 - Os preços máximos de leite em pó não instantâneo, embalado nos Açores, para venda ao público no continente, são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf))](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/08700/09380943.pdf)
 
 3 - Os preços máximos de venda ao público de outras fracções serão os correspondentes aos fixados por quilograma.
 
@@ -365,4 +398,4 @@ Lista anexa a que se refere o n.º 5.º da Portaria n.º 339/81
 
 7) Vasos colectores e medidores.
 
-**O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha. - O Ministro do Comércio e Turismo, Alexandre de Azeredo Vaz Pinto.**
+O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha. - O Ministro do Comércio e Turismo, Alexandre de Azeredo Vaz Pinto.

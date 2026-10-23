@@ -47,40 +47,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/528-1985-179853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T08:29:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb1e6d50de1cb9109e3fd09f8de6cab01d55d77c049ce4a9fb135c09cae7cc64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6da3b5c6df3ed806bb9ecd7248a0dc1967fc02507418ca08f77ebad3069c8de2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:29:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Beja
+- Centro Regional de Segurança Social
+- Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "INTEGRADAS AS ACÇÕES E OS CONTRIBUINTES BENEFICIÁRIOS DA CAIXA SINDICAL DE PREVIDÊNCIA DOS PROFISSIONAIS DE SEGUROS\
+    \ , PELA PORTARIA 935/92, PUBLICADO NO DR.IS-B, 222, DE 920925. INTEGRADA A CAIXA DE PREVIDÊNCIA DOS PROFISSIONAIS DE\
+    \ ESPECTÁCULOS, PELA PORTARIA 58/93, PUBLICADA NO DR.IS-B, 10, DE 930113. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:602509:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:232160:por
+  label: Integrados os contribuintes beneficiários e acções da Caixa Sindical de Previdência dos Profissionais de Seguros
+    cujo regulamento foi aprovado por Alvará de 27-jul de 1956, nos Centros Regionais de Segurança Social de Aveiro, aprovado
+    pela Port 511/85, de 27-jul, de Beja, aprovado pela presente, de Braga, aprovado pela Port 536/85, de 03-ago, de Bragança,
+    aprovado pela Port 486/85, de 19-jul, de Castelo Branco, aprovado pela Port 525/86, de 16-set, de Coimbra, aprovado pela
+    Port 498/85, de 23-jul, de Évora, aprovado pela Port 532/85, de 01-ago, da Guarda, aprovado pela Port 556/85, de 09-ago,
+    de Leiria, aprovado pela Port 382/85, de Portalegre, aprovado pela Port 501/85, de 24-jul, do Porto, aprovado pela Port
+    64/87, de 29-jan, de Santarém, aprovado pela Port 389/85, de 26-jun, de Setúbal, aprovado pela Port 487/85, de 19-jul,
+    de Viana do Castelo, aprovado pela Port 548/85, de 07-ago, de Vila Real, aprovado pela Port 509/85, de 26-jul, e de Viseu,
+    aprovado pela Port 555/85, de 09-ago, bem como no Centro Regional de Segurança Social de Lisboa, criado pelo DR 3/81,
+    de 15-jan, e integrada a orgânica e funcionalmente a Caixa Sindical de Previdência dos Profissional de Seguros e o respectivo
+    pessoal, bem como a titularidade do património neste último Centro Regional de Segurança Social, pelo(a) Portaria n.º
+    935/92 - Diário da República n.º 222/1992, Série I-B de 1992-09-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/935-1992-232160
+  date: '1992-09-25'
+- type: amended_by
+  target: pt:dre:588262:por
+  label: Integra os contribuintes beneficiários e acções da Caixa de Previdência dos Profissionais de Espectáculos, criada
+    pelo Dec Lei 32748, de 15-abr de 1943, nos Centros Regionais de Segurança Social de Aveiro, aprovado pela Port 511/85,
+    de 27-jul, de Beja, aprovado pela presente, de Braga, aprovado pela Port 536/85, de 03-ago, de Bragança, aprovado pela
+    Port 486/85, de 19-jul, de Castelo Branco, aprovado pela Port 525/86, de 16-set, de Coimbra, aprovado pela Port 498/85,
+    de 23-jul, de Évora, aprovado pela Port 532/85, de 01-ago, de Faro, aprovado pela Port 383/85, de 22-jun, da Guarda, aprovado
+    pela Port 556/85, de 09-ago, de Leiria, aprovado pela Port 382/85, de 21-jun, de Portalegre, aprovado pela Port 501/85,
+    de 24-jul, do Porto, aprovado pela Port 64/87, de 29-jan, de Santarém, aprovado pela Port 389/85, de 26-jun, de Setúbal,
+    aprovado pela Port 487/85, de 19-jul, de Viana do Castelo, aprovado pela Port 548/85, de 07-ago, de Vila Real, aprovado
+    pela Port 509/85, de 26-jul, e de Viseu, aprovado pela Port 555/85, de 09-ago, bem como no Centro Regional de Segurança
+    Social de Lisboa, criado pelo DR 3/81, de 15-jan, e integra orgânica e funcionalmente a Caixa de Previdência dos Profissionais
+    de Espectáculos, o respectivo pessoal, bem como a titularidade do património imobiliário e equipamentos da referida Caixa,
+    neste último Centro Regional da Segurança Social pelo(a) Portaria n.º 58/93 - Diário da República n.º 10/1993, Série I-B
+    de 1993-01-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/58-1993-588262
+  date: '1993-01-13'
+- type: amended_by
+  target: pt:dre:602509:por
+  label: "Alterados os artigos 5.º, 12.º e aditado o artigo 12.º-A ao Regulamento, pela PORT.92/93.25.01.1993.MF, DR.IS-B\
+    \ [20] de 25.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/92-1993-602509
+  date: '1993-01-25'
+- type: cites
+  target: pt:dre:310423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310425:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:29:01Z'
   warnings: []
   errors: []
 ---
@@ -103,21 +159,21 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado da Admini
 
 Secretarias de Estado da Administração Pública, do Orçamento e da Segurança Social.
 
-**Assinada em 27 de Junho de 1985.**
+Assinada em 27 de Junho de 1985.
 
-**O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - A Secretária de Estado da Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.**
+O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - A Secretária de Estado da Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 Regulamento do Centro Regional de Segurança Social de Beja
 
 ### CAPÍTULO I — Disposições gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Objectivo)
 
 O Regulamento tem por fim adaptar ao Centro Regional de Segurança Social de Beja, adiante designado por Centro, o disposto no [Decreto-Lei n.º 136/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1983-310423), de 21 de Março, definindo a sua estrutura orgânica, serviços e competências e o quadro de pessoal.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Âmbito geográfico)
 
@@ -125,7 +181,7 @@ O Centro tem o âmbito geográfico correspondente à área do distrito de Beja.
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Órgãos)
 
@@ -135,13 +191,13 @@ a) O conselho directivo;
 
 b) O conselho regional de segurança social, cuja composição, competência e modo de funcionamento foram fixados pelo [Decreto Regulamentar n.º 26/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/26-1983-310425), de 21 de Março.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Composição do conselho directivo)
 
 O conselho directivo é composto por 1 presidente e 2 vogais.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Enunciação dos serviços)
 
@@ -163,7 +219,7 @@ g) Os serviços locais.
 
 ### CAPÍTULO III — Departamentalização e competência dos serviços
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Direcção de Serviços de Segurança Social)
 
@@ -181,7 +237,7 @@ d) Contribuir para a integração familiar e comunitária de pessoas em situaç�
 
 e) Tutelar as instituições particulares de solidariedade social e as instituições com fins lucrativos que actuam no domínio da Segurança Social.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Repartição de Regimes de Segurança Social)
 
@@ -225,7 +281,7 @@ r) Verificar e controlar a exactidão das informações recebidas dos serviços 
 
 s) Colaborar com os serviços de emprego e formação profissional na organização dos processos e no controle de atribuição de prestações no desemprego.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Divisão de Acção Social)
 
@@ -259,7 +315,7 @@ n) Fiscalizar o funcionamento das instituições particulares de solidariedade s
 
 o) Coordenar a actividade dos estabelecimentos integrados no Centro.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Divisão de Gestão Financeira)
 
@@ -293,7 +349,7 @@ m) Desenvolver acções tendentes a prevenir e contrariar as situações contrib
 
 n) Assegurar todas as operações relativas à contabilidade e à tesouraria.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Repartição de Contabilidade)
 
@@ -339,7 +395,7 @@ s) Acompanhar os pagamentos das contribuições normais e obrigações decorrent
 
 t) Prestar informação estatística das posições contributivas devedoras e colaborar na elaboração de relatórios de cobrança de contribuições.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Tesouraria)
 
@@ -355,7 +411,7 @@ d) Elaborar a folha diária de caixa;
 
 e) Assegurar as ligações com as instituições bancárias.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Divisão de Apoio Técnico)
 
@@ -375,7 +431,7 @@ f) Proceder a estudos com vista à melhoria do funcionamento dos serviços e aco
 
 g) Desenvolver, coordenar e controlar o planeamento da actividade de processamento de dados e estudar e executar as acções necessárias ao tratamento computorizado da informação.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Repartição Administrativa)
 
@@ -429,7 +485,7 @@ x) Providenciar pela aquisição de serviços de transportes, sempre que se torn
 
 z) Executar todas as tarefas de desenho, reprodução, duplicação, corte, alceamento e encadernação de documentos e de impressos.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Centro de Relações Públicas e Documentação)
 
@@ -457,7 +513,7 @@ b) Prestar informações orais e escritas a beneficiários, utentes, contribuint
 
 c) Colher elementos indicadores do funcionamento dos serviços, quer pelas reclamações apresentadas, quer pelo tipo de informação prestada.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Serviço de Fiscalização)
 
@@ -473,7 +529,7 @@ d) Fazer o levantamento e proceder à identificação dos bens penhoráveis e hi
 
 2 - No exercício das acções de fiscalização os funcionários terão os poderes previstos na lei.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Serviços locais)
 
@@ -487,13 +543,13 @@ d) Fazer o levantamento e proceder à identificação dos bens penhoráveis e hi
 
 ### CAPÍTULO IV — Funcionamento
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Acordos com casas do povo)
 
 Tendo um vista assegurar a desconcentração do atendimento público, o Centro poderá celebrar acordos de prestação de serviços com as casas do povo.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Articulação com os serviços centrais e instituições de segurança social)
 
@@ -501,13 +557,13 @@ Tendo um vista assegurar a desconcentração do atendimento público, o Centro p
 
 2 - O Centro articular-se-á com as restantes instituições do segurança social de acordo com as respectivas competências e tendo em vista a prossecução dos objectivos do sistema de segurança social.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Articulação com outros sectores da Administração)
 
 O Centro articular-se-á no seu âmbito de actuação com os serviços dos outros sectores da Administração Pública, designadamente os de trabalho, emprego, saúde, educação, justiça e finanças.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Coordenação de serviços)
 
@@ -515,13 +571,13 @@ Os serviços constantes deste Regulamento a que não correspondam cargos de dire
 
 ### CAPÍTULO V — Disposições finais
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Quadro de pessoal)
 
 O quadro de pessoal do Centro é o constante do anexo a este Regulamento.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Ajustamento de distribuição de competências)
 
@@ -531,4 +587,4 @@ O quadro de pessoal do Centro é o constante do anexo a este Regulamento.
 
 Quadro de pessoal do Centro Regional de Segurança Social de Beja
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/17400/22822287.pdf))](https://files.diariodarepublica.pt/1s/1985/07/17400/22822287.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/17400/22822287.pdf)

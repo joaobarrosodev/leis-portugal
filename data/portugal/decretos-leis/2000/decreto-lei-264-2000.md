@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/10/241a00/58205826.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/264/2000/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2000-532862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:20:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffaf97705cc880e9bde02d435ec4e46d82633ef6b6d0f7d6fb6ac32b8f90e370
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e8018c2aecd3bb327d850a223655b640585d96874f62d4bec0a123cdadf4c70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:20:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,61 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ICEP
 - Autonomia Administrativa
 - Autonomia Financeira
-- Ministro da Economia
 - Estatuto
+- ICEP
+- Ministro da Economia
 - Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:635871:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:425883:por
+  label: "Transferidas para a API as atribuições conferidas por Lei, em matéria de grandes projectos de investimento definidos\
+    \ no nº 2 do art. 5º dos Estatutos anexos, ao ICEP pelo DEC LEI.225/2002.2002.10.30.MECO, DR.IS-A [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/225-2002-425883
+  date: '2002-10-30'
+- type: amended_by
+  target: pt:dre:361880:por
+  label: "Alterados os arts. 4º, 5º e 9º, aditado um art. 32º e revogados os arts. 11º, e o nº 2 do art. 14º, todos dos Estatutos\
+    \ do ICEP, aprovados pelo presente diploma, pelo DEC LEI.35-A/2003.2003.02.27.MECO DR.IS-A [49]Supl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-a-2003-361880
+  date: '2003-02-27'
+- type: amended_by
+  target: pt:dre:217518:por
+  label: "Alterados os arts. 1º, 4º, 5º, 6º, 7º, 8º, 9º e 29º dos Estatutos, com a redacção conferida pelo Dec Lei 35-A/2003\
+    \ de 27-Fev, e transferidos para a titularidade do Instituto de Turismo de Portugal (ITP) todos os direitos e obrigações\
+    \ correspondentes às atribuições e competências em matéria de turismo pelo DEC LEI.77/2004.31.03.2004.MECO, DR.IS-A [77]\
+    \ de 31.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2004-217518
+  date: '2004-03-31'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Sujeitado a superintendência conjunta cabendo a tutela funcional e patrimonial ao Ministro de Estado e das Actividades\
+    \ Económicas e do Trabalho e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida\
+    \ em articulação com o Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas e com o Ministro do Turismo, pelo\
+    \ DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinado que a competência relativa à definição das orientações estratégicas do ICEP, cujos estatutos foram aprovados\
+    \ no presente diploma, bem como o acompanhamento da sua execução, seja exercida pelo Ministro da Economia e da Inovação\
+    \ em articulação com o Ministro de Estado e dos Negócios Estrangeiros, pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A [74]\
+    \ de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:545649:por
+  label: "Extinto, sendo objecto de fusão, o ICEP-Portugal, cujos estatutos são aprovados pelo presente diploma, sendo as\
+    \ suas atribuições integradas na Agência Portuguesa para o Investimento, E.P.E., que passa a denominar-se Agência para\
+    \ o Investimento e Comércio Externo de Portugal, E.P.E., pelo DEC LEI.208/2006.27.10.2006.MEI, DR.IS [208] de 27.10.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2006-545649
+  date: '2006-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/180/1992/08/17/p/dre
   label: null
@@ -92,16 +136,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684395:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:635871:por
+  label: "Revogado, a partir de 01.07.2007, e extinto o ICEP Portugal, I.P., cujos estatutos foram aprovados pelo presente\
+    \ diploma, sendo a totalidade das suas atribuições, titularidade dos direitos patrimoniais e não patrimoniais, obrigações\
+    \ e outros, transferidos para a Agência para o Investimento e Comércio Externo de Portugal, E.P.E. (AICEP, E.P.E.), pelo\
+    \ DEC LEI.244/2007.25.06.2007.MEI, DR.IS [120] de 25.06.2007, nos termos dos seus arts. 1º, 2º, 4º e 5º \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/244-2007-635871
+  date: '2007-06-25'
 article_structure:
   article_count: 33
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:20:07Z'
   warnings: []
   errors: []
 ---
@@ -158,15 +230,15 @@ Nos ternos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 2000. - Jaime José Matos da Gama - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - Alberto de Sousa Martins.
 
-**Promulgado em 29 de Setembro de 2000.**
+Promulgado em 29 de Setembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
 Referendo em 4 de Outubro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ESTATUTOS DO ICEP PORTUGAL - INVESTIMENTO, COMÉRCIO E TURISMO
 

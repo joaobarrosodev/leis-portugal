@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/10/248a00/71067113.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/266/2003/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-2003-476960
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:40:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbb11ae69f5d9e229af56d615d1ac4c6bb65f220a2c6b407e588dd1f214f4093
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1cbb00927ffb154b5651625034d8240b06b3086d04fb7128483f922fcedc9d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:40:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Certificado de Qualidade
+- Comércio
 - Controlo de Qualidade
 - Direcção Geral de Protecção das Culturas
-- Certificado de Qualidade
 - Materiais de Viveiro
 - Produção Vegetal
 - Regulamento
 - Regulamento da Produção Certificação e Comercialização de Materiais de Viveiro Viticolas
-- Comércio
 - Vinha
 relationships:
 - type: amended_by
@@ -97,16 +97,21 @@ relationships:
   target: celex:32002L0011
   label: null
   source: http://data.europa.eu/eli/dir/2002/11/oj
+- type: repealed_by
+  target: pt:dre:541592:por
+  label: "Revogado pelo DEC LEI.194/2006.27.09.2006.MADRP, DR.IS [187] de 27.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-2006-541592
+  date: '2006-09-27'
 article_structure:
-  article_count: 24
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:40:12Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +172,9 @@ c) Medidas que visem a conservação da diversidade genética.
 
 7 - Os requisitos mais rigorosos, previstos no presente diploma, para os materiais de viveiro vitícolas produzidos no território nacional não se aplicam, no caso da enxertia, aos materiais de propagação produzidos noutro Estado membro ou num país terceiro reconhecido como equivalente em conformidade com o n.º 1 do artigo 27.º
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Para os efeitos do presente Regulamento, entende-se por:
 
@@ -289,7 +296,9 @@ a) Fornecimento de materiais de viveiro vitícolas a organismos de investigaçã
 
 b) Fornecimento de materiais de viveiro vitícolas a prestadores de serviços com vista à sua transformação ou acondicionamento, desde que o prestador não adquira um título sobre o material de viveiro fornecido.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - São admitidas à certificação no território nacional as variedades que, sendo distintas, estáveis e suficientemente homogéneas:
 
@@ -335,7 +344,9 @@ d) Material standard.
 
 8 - (Suprimido.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -353,7 +364,9 @@ b) Deve ser sempre controlável com base nos registos efectuados pelo responsáv
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -371,7 +384,9 @@ d) ...
 
 4 - A anulação da admissão de um clone à certificação obriga à proibição imediata da produção de material inicial e material base desse clone e consequente destruição dos respectivos pés-mãe, autorizando-se a multiplicação e comercialização dos restantes materiais já instalados, excepto se a anulação tiver sido efectuada nos termos das alíneas a) e d) do n.º 1.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -385,7 +400,9 @@ b) As variedades geneticamente modificadas admitidas são devidamente identifica
 
 4 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Apenas podem ser produzidos materiais de viveiro vitícolas de variedades de videira e, se for caso disso, de clones:
 
@@ -431,7 +448,9 @@ c) Designações aplicáveis a esses materiais;
 
 d) Condições em matéria de garantia de verificação prévia da pureza varietal.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -461,7 +480,9 @@ c) Devem ser mantidas isentas de plantas que não correspondam ao respectivo clo
 
 4 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Sem prejuízo do cumprimento dos requisitos gerais de produção e dos referentes às culturas dos materiais de viveiro vitícolas, em geral, as culturas destinadas à produção de material base devem satisfazer as seguintes exigências específicas:
 
@@ -489,7 +510,9 @@ g) Nos viveiros, culturas em contentores, hidropónicas e ou para propagação e
 
 4 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Nas vinhas-mãe e em viveiros, na cultura de materiais em contentores (vasos, cartonagens ou outros) e durante a propagação em verde ou por qualquer outra técnica, os respectivos materiais de viveiro vitícolas devem ser cultivados separadamente de acordo com a variedade e, tratando-se de materiais de categoria inicial, base ou certificado, com o clone, sendo que os materiais de viveiro devem estar convenientemente identificados.
 
@@ -503,13 +526,17 @@ b) ...
 
 4 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Em todos os estádios que decorrem entre a colheita e o acondicionamento final com vista à comercialização, os materiais de viveiro vitícolas devem ser mantidos em lotes separados de acordo com o tipo de material e a variedade e, tratando-se de materiais de categoria inicial, base ou certificado, segundo o clone e cada lote permanentemente etiquetado para identificação.
 
 2 - Os materiais de categoria inicial de base, certificado e standard devem ser colhidos, transportados, trabalhados, acondicionados, armazenados e confeccionados separadamente.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Os produtores que possuam ou explorem vinhas-mãe devem declarar, anualmente, se nelas ocorreram, ou não, alterações e, em particular, se se verificou qualquer arranque, parcial ou total, das mesmas ou a cessação definitiva da exploração de vinhas-mãe com vista à produção de materiais de viveiro.
 
@@ -525,7 +552,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -541,7 +570,9 @@ c) ...
 
 7 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Apenas poderão ser importados materiais de viveiro vitícolas de países terceiros aos quais tenha sido reconhecida equivalência aos respectivos sistemas de certificação, nos termos a fixar pelo Conselho das Comunidades Europeias, no que diz respeito às condições de admissão, às disposições tomadas para assegurar a sua produção, aos tipos de materiais e às categorias de materiais de viveiro vitícola em que podem ser admitidos à comercialização no território da Comunidade.
 
@@ -553,7 +584,9 @@ b) Esses materiais importados devem, em especial, ser acompanhados de um documen
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Sem prejuízo da livre circulação de materiais de viveiro vitícolas, a importação de materiais de países terceiros é permitida com a condição de ser fornecido à DGPC um documento de acompanhamento emitido pelo serviço de controlo do país exportador em que figurem as seguintes indicações:
 
@@ -575,7 +608,9 @@ h) Quantidade de materiais.
 
 2 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - Apenas podem ser conservados ou transportados para venda, expostos para venda e vendidos, no território nacional, os materiais de viveiro vitícolas:
 
@@ -607,7 +642,9 @@ b) De variedades geneticamente modificadas, se tiverem sido tomadas todas as med
 
 4 - Os materiais não incluídos no n.º 1 e não abrangidos por cláusulas de excepção apenas podem ser comercializados com destino à exportação.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
@@ -627,7 +664,9 @@ e) Castanha para os materiais que não satisfazem os requisitos impostos pelo pr
 
 4 - Os materiais de viveiro vitícolas devem, em todos os estádios da sua comercialização até à venda ao utilizador, ser acompanhados por um boletim (guia) de transporte ou documento de acompanhamento, em que devem figurar as seguintes indicações: a natureza da mercadoria, a variedade e, eventualmente, o clone, a categoria, a quantidade, o expedidor e o destinatário.
 
-###### Artigo 39.º — Taxas
+Artigo 39.º
+
+Taxas
 
 1 - Pela atribuição de títulos de produtor e licenças de produção e, ainda, pelo licenciamento de fornecedores, renovação de licença e pelo controlo e certificação dos materiais de viveiro vitícolas são devidas taxas, de montante a fixar por portaria do Ministro da Agricultura, Desenvolvimento Rural e Pescas.
 
@@ -659,13 +698,17 @@ d) Nos viveiros, culturas em contentores, hidropónicas e ou para propagação e
 
 3 - O arranque ou destruição dos pés-mãe destinados à produção de material inicial necessita de autorização prévia da DGPC.
 
-###### Artigo 31.º-A — Exigências reduzidas
+Artigo 31.º-A
+
+Exigências reduzidas
 
 1 - A fim de eliminar dificuldades passageiras de abastecimento de materiais de viveiro, que não possam ser resolvidas na Comunidade, a DGPC pode autorizar, com base em decisão emitida pela Comissão Europeia, a comercialização no território nacional de materiais de viveiro de uma categoria sujeita a exigências reduzidas.
 
 2 - As condições a satisfazer, as quantidades necessárias para ultrapassar essas dificuldades e o período em que vigoram estas excepções são definidas por despacho do director-geral de Protecção das Culturas.
 
-###### Artigo 38.º-A — Experiências temporárias
+Artigo 38.º-A
+
+Experiências temporárias
 
 Com o objectivo de encontrar melhores soluções para certos requisitos fixados no presente Regulamento e demais legislação complementar, com base em decisões da Comissão Europeia e em condições a definir pela DGPC, pode o País promover e participar em experiências temporárias a realizar a nível comunitário.»
 
@@ -679,12 +722,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 13 de Outubro de 2003.**
+Promulgado em 13 de Outubro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Outubro de 2003.**
+Referendado em 15 de Outubro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

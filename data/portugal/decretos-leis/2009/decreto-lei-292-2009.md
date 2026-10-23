@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/292/2009/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-2009-491734
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95b7e2c871a5ab683f59679b8e9edbb9a2542a2065de8b560d2bbf8feea9a35d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66382d3ad37b34706be2d86ba2aab54aaca6ce4b6b7cfade00fe26e07ca27d9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,134 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto Nacional de Estatística
+- Banco de Portugal
 - Código do IRC
 - Código do IRS
 - Código do Registo Comercial
-- Instituto dos Registos e do Notariado
 - Direcção Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros
 - Direcção Geral dos Impostos
 - Estatuto dos Benefícios Fiscais
-- Banco de Portugal
-- Instituto das Tecnologias de Informação na Justiça
-- Normas Internacionais de Contabilidade
 - IES
+- Instituto das Tecnologias de Informação na Justiça
+- Instituto dos Registos e do Notariado
+- Instituto Nacional de Estatística
+- Normas Internacionais de Contabilidade
 relationships:
 - type: amended_by
   target: pt:dre:125815920:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterado o art. 86.º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:306581:por
+  label: "Alterado, a partir de 01.01.2011, o arts. 29º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção\
+    \ do presente diploma, pelo DEC LEI.134/2010.27.12.2010.MFAP, DR.IS [249] de 27.12.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-2010-306581
+  date: '2010-12-27'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterados os arts. 12º e 87º ( Renumerado ) do Código do Imposto sobre o Rendimentos das Pessoas Singulares, aprovado\
+    \ pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul,\
+    \ pela LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterados os art.s 5º, 27º, 87º e 127º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção\
+    \ do presente diploma, pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:552023:por
+  label: "Alterado o art. 117º e revogado o nº7 do art. 117º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-nov,\
+    \ na redação do presente diploma, pela LEI.20/2012.14.05.2012.AR, DR.IS [93] de 14.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-2012-552023
+  date: '2012-05-14'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação ao art. 107º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-nov, alterado pelo presente\
+    \ diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:498764:por
+  label: "Alterado o art. 29.º, na redação do presente diploma, do Código do IVA, aprovado pelo Dec lei 394-B/84 de 26-dez,\
+    \ renumerado e republicado pelo Dec Lei 102/2008 de 20-jun, pela LEI.51/2013.24.07.2013.AR, DR.IS [141] de 24.07.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/51-2013-498764
+  date: '2013-07-24'
+- type: amended_by
+  target: pt:dre:498733:por
+  label: "Dada nova redação ao art. 12º do Código sobre o Rendimento das Pessoas Singulares, aprovado pelo Dec Lei 442-A/88\
+    \ de 30-nov, alterado pelo presente diploma, pela LEI.53/2013.26.07.2013.AR, DR.IS [143] de 26.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-2013-498733
+  date: '2013-07-26'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterado o art. 5º do Código do Imposto sobre o Rendimento das Pessoas Singulares (Código do IRS), aprovado pelo\
+    \ Dec Lei 442-A/88, de 30-nov, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl] de 31.12.2013\0\
+    3\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:571007:por
+  label: Dada nova redação aos arts. 69.º, 104.º e 120.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-nov, alterado
+    pelo presente diploma, pela LEI.2/2014.16.01.2014.AR, DR.IS [11] de 16.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Alterado o art 29.º(anterior art. 28.º), do Código do Imposto sobre o Valor Acrescentado (Código do IVA), aprovado
+    pelo Dec Lei 394-B/84 de 26-dez, na redação do presente diploma, pelo(a) Lei n.º 82-B/2014 - Diário da República n.º 252/2014,
+    1º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66022083:por
+  label: Alterados, a partir de 05.01.2015, os arts. 69.º (anterior art. 63.º, renumerado pelo Dec Lei 159/2009 de 13-jul)
+    e 117.º (anterior art. 109.º, renumerado pelo Dec Lei 159/2009 de 13-jul), ambos do Código do Imposto sobre o Rendimento
+    das Pessoas Coletivas (CIRC) aprovado pelo Dec. Lei 442-B/88 de 30-nov, na redação do presente diploma, pelo(a) Lei n.º
+    82-C/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-c-2014-66022083
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66022085:por
+  label: Alterados os arts. 5.º, 12.º e 127.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-nov, na redação do presente
+    diploma, pelo(a) Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-e-2014-66022085
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66229856:por
+  label: Alterado o art. 9.º-A do Dec Lei 8/2007 de 17-jan, aditado pelo presente diploma, pelo(a) Decreto-Lei n.º 10/2015
+    - Diário da República n.º 11/2015, Série I de 2015-01-16 nos termos do n.º 5 do art. 15.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2015-66229856
+  date: '2015-01-16'
+- type: amended_by
+  target: pt:dre:116826872:por
+  label: Alterados os arts. 3.º e 5.º do Dec Lei 8/2007, de 17-jan, na redação do presente diploma pelo(a) Decreto-Lei n.º
+    87/2018 - Diário da República n.º 210/2018, Série I de 2018-10-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-2018-116826872
+  date: '2018-10-31'
+- type: amended_by
+  target: pt:dre:119622094:por
+  label: Alterado, a partir de 16.02.2019, e nos termos do disposto no art. 45.º, o art. 29.º do Código do IVA, aprovado pelo
+    Dec Lei 394-B/84 de 26-dez, na redação do presente diploma, pelo(a) Decreto-Lei n.º 28/2019 - Diário da República n.º
+    33/2019, Série I de 2019-02-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2019-119622094
+  date: '2019-02-15'
+- type: amended_by
+  target: pt:dre:125815920:por
+  label: Alterado, a partir de 01.01.2020, o art. 29.º, na redação do presente diploma, do Código do IVA, aprovado pelo Dec
+    Lei 394-B/84 de 26-dez, renumerado e na versão republicada do Código pelo Dec Lei 102/2008 de 20-jun, retificado pela
+    Decl-Ret 44-A/2008 de 13-ago, pelo(a) Decreto-Lei n.º 165/2019 - Diário da República n.º 209/2019, Série I de 2019-10-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/165-2019-125815920
+  date: '2019-10-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/8/2007/01/17/p/dre
   label: null
@@ -105,16 +216,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:212015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626237:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:52Z'
   warnings: []
   errors: []
 ---
@@ -231,7 +386,9 @@ b) ...
 
 10 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -255,7 +412,9 @@ e) Pelas associações mutualistas.
 
 6 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -265,7 +424,9 @@ e) Pelas associações mutualistas.
 
 4 - O disposto no n.º 1 aplica-se, com as devidas adaptações, às contribuições pagas a associações mutualistas.
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1 - ...
 
@@ -283,7 +444,9 @@ c) ...
 
 5 - No caso de pagamento, pelas empresas de seguros ou associações mutualistas, de quaisquer importâncias fora das condições previstas no n.º 1, o resultado da soma dos montantes anuais deduzidos, agravados de uma importância correspondente à aplicação, a cada um deles, do produto de 10 % pelo número de anos decorridos desde aquele em que foi exercido o direito à dedução, é acrescido ao rendimento ou à colecta, conforme a dedução tenha sido efectuada ao rendimento ou à colecta, do ano em que ocorrer o pagamento, para o que as empresas de seguros ou associações mutualistas ficam obrigadas a comunicar à administração fiscal a ocorrência de tais factos.
 
-###### Artigo 87.º — [...]
+Artigo 87.º
+
+[...]
 
 1 - ...
 
@@ -299,13 +462,17 @@ c) ...
 
 7 - ...
 
-###### Artigo 113.º — [...]
+Artigo 113.º
+
+[...]
 
 1 - ...
 
 2 - A declaração referida no número anterior deve ser enviada, por transmissão electrónica de dados, até 15 de Julho, independentemente de esse dia ser útil ou não.
 
-###### Artigo 127.º — [...]
+Artigo 127.º
+
+[...]
 
 1 - As instituições de crédito, as cooperativas de habitação, as empresas de seguros e as empresas gestoras dos fundos e de outros regimes complementares referidos nos artigos 16.º, 17.º e 21.º do Estatuto dos Benefícios Fiscais, incluindo as associações mutualistas, comunicam à Direcção-Geral dos Impostos, até ao final do mês de Fevereiro de cada ano, em declaração de modelo oficial, relativamente ao ano anterior e a cada sujeito passivo:
 
@@ -361,7 +528,9 @@ d) ...
 
 10 - ...
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 1 - ...
 
@@ -383,7 +552,9 @@ c) Até ao dia do envio da declaração de substituição a que se refere o arti
 
 7 - ...
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - ...
 
@@ -391,13 +562,17 @@ c) Até ao dia do envio da declaração de substituição a que se refere o arti
 
 3 - ...
 
-###### Artigo 108.º — [...]
+Artigo 108.º
+
+[...]
 
 1 - O imposto devido pelas entidades não referidas no n.º 1 do artigo 104.º e que sejam obrigadas a enviar a declaração periódica de rendimentos é pago até ao último dia do prazo estabelecido para o envio daquela ou, em caso de declaração de substituição, até ao dia do seu envio.
 
 2 - ...
 
-###### Artigo 117.º — [...]
+Artigo 117.º
+
+[...]
 
 1 - ...
 
@@ -419,7 +594,9 @@ c) Até ao dia do envio da declaração de substituição a que se refere o arti
 
 10 - (Anterior n.º 9.)
 
-###### Artigo 120.º — [...]
+Artigo 120.º
+
+[...]
 
 1 - A declaração periódica de rendimentos a que se refere a alínea b) do n.º 1 do artigo 117.º deve ser enviada, anualmente, por transmissão electrónica de dados, até ao último dia do mês de Maio, independentemente de esse dia ser útil ou não útil.
 
@@ -451,7 +628,9 @@ b) Cada uma das sociedades do grupo, incluindo a sociedade dominante, deve envia
 
 10 - ...
 
-###### Artigo 121.º — [...]
+Artigo 121.º
+
+[...]
 
 1 - A declaração anual de informação contabilística e fiscal a que se refere a alínea c) do n.º 1 do artigo 117.º deve ser enviada nos termos e com os anexos que para o efeito sejam mencionados no respectivo modelo.
 
@@ -463,7 +642,9 @@ b) Cada uma das sociedades do grupo, incluindo a sociedade dominante, deve envia
 
 5 - ...
 
-###### Artigo 141.º — Envio de documentos
+Artigo 141.º
+
+Envio de documentos
 
 1 - As declarações e outros documentos que, nos termos deste Código, devam ser apresentados em qualquer serviço da administração fiscal, podem ser remetidos pelo correio, sob registo postal, ou por telefax, desde que, sendo necessário, possa confirmar-se o conteúdo da mensagem e o momento em que foi enviada.
 
@@ -531,7 +712,9 @@ Os artigos 3.º e 5.º do [Decreto-Lei n.º 8/2007](https://diariodarepublica.pt
 
 2 - A obrigação a que se refere o número anterior é também aplicável às entidades abrangidas pela aplicação das normas internacionais de contabilidade.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A IES é apresentada anualmente, até ao 15.º dia do 7.º mês posterior à data do termo do exercício económico, independentemente de esse dia ser útil ou não útil.
 
@@ -557,12 +740,12 @@ Com vista à articulação entre as entidades perante as quais deve ser legalmen
 
 Visto e aprovado em Conselho de Ministros de 20 de Agosto de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Alberto Bernardes Costa.
 
-**Promulgado em 30 de Setembro de 2009.**
+Promulgado em 30 de Setembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de Outubro de 2009.**
+Referendado em 1 de Outubro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

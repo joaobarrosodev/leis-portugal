@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1984-400041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:10:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 243645140e396ac7d7566b7707ee62db088e4f4814b1f343b689c996fff6b3c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c082d972d1be60e0db4f8b54645f240e5bc8cf089b7357f516bb4f34384d5163
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:10:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exploração Mineira
+- Higiene do Trabalho
+- Indústria Mineira
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:618149:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:185310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443159:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:618149:por
+  label: "Revogado pelo DR.34/92.1992.12.04.MARN, DR.IS-B [280] de 04.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/34-1992-618149
+  date: '1992-12-04'
 article_structure:
   article_count: 82
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:10:18Z'
   warnings: []
   errors: []
 ---
@@ -217,9 +234,9 @@ Quando a concentração é dada em termos de nível operacional (working level, 
 
 27 - População no seu conjunto - população, incluindo os trabalhadores expostos.
 
-28 - Produtos de filiação do radão - [([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf))](https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf).
+28 - Produtos de filiação do radão - [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf).
 
-29 - Produtos de filiação do torão - [([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf))](https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf).
+29 - Produtos de filiação do torão - [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf).
 
 30 - Radioactividade - a radioactividade (A) de uma quantidade de um radionuclido é o quociente de dN por dt, onde dN é o número de transformações espontâneas (desintegrações) produzidas no intervalo de tempo dt naquela quantidade de radionuclido:
 
@@ -329,7 +346,7 @@ Este LIA corresponde a uma concentração no ar derivada (CAD) de 8,3 x 10(eleva
 
 1 - Nos locais de trabalho, o LIA por inalação de poeiras radioactivas do minério de urânio em equilíbrio secular com os seus descendentes é de 1,7 kBq em termos de actividade alfa de longa vida total, sendo de 0,73 Bq.m(elevado a -3) o correspondente CAD e 1,5 kBq.h.m(elevado a -3) o correspondente LEA.
 
-Quando o minério de urânio se apresentar num estado de franco desequilíbrio de [([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf))](https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf) com os seus produtos de filiação, o LIA deve ser calculado em função das radiações efectivas dos radionuclidos presentes.
+Quando o minério de urânio se apresentar num estado de franco desequilíbrio de [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf) com os seus produtos de filiação, o LIA deve ser calculado em função das radiações efectivas dos radionuclidos presentes.
 
 2 - Nos locais de trabalho com poeiras de concentrados de urânio, o LIA destas poeiras radioactivas é de: 1,5 kBq com correspondente CAD de 0,61 Bq.m(elevado a -3), para o material da classe Y; 28 kBq para o material da classe W.
 
@@ -743,7 +760,7 @@ Devem ser tomadas providências tendentes a que o ar de retorno da mina não pos
 
 ###### Artigo 60.º — Avaliação das disfunções ambientais
 
-1 - A fim de se avaliarem as disfunções ambientais derivadas do funcionamento de um anexo de tratamento de minério e recuperamento de urânio, devem ser feitas medições pré-operacionais para a determinação dos níveis de base de radionuclidos e do fundo radioactivo natural, de acordo com as indicações do estudo de impacte radiológico ambiental, nomeadamente no que se refere a [([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf))](https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf) no ar e [([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf))](https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf) nas águas superficiais e sedimentos na área.
+1 - A fim de se avaliarem as disfunções ambientais derivadas do funcionamento de um anexo de tratamento de minério e recuperamento de urânio, devem ser feitas medições pré-operacionais para a determinação dos níveis de base de radionuclidos e do fundo radioactivo natural, de acordo com as indicações do estudo de impacte radiológico ambiental, nomeadamente no que se refere a [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf) no ar e [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf) nas águas superficiais e sedimentos na área.
 
 2 - No que se refere a poluentes não radioactivos, decorrentes da laboração das instalações de tratamento de minério e de recuperação de urânio, deve ser adoptado procedimento idêntico ao que foi indicado no número anterior.
 
@@ -763,7 +780,7 @@ A zona onde se encontra a unidade de concentração, bem como o local de deposi�
 
 ###### Artigo 63.º — Efluentes
 
-1 - Antes de descarregados no meio ambiente, os efluentes líquidos provenientes das instalações de concentração ou da zona de armazenamento de resíduos devem sofrer um tratamento de modo que o pH seja ajustado até cerca da neutralidade e a concentração de [([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf))](https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf) solúvel e de outros poluentes dissolvidos ou em suspensão seja reduzido a níveis compatíveis com os regulamentos e normas em vigor.
+1 - Antes de descarregados no meio ambiente, os efluentes líquidos provenientes das instalações de concentração ou da zona de armazenamento de resíduos devem sofrer um tratamento de modo que o pH seja ajustado até cerca da neutralidade e a concentração de [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf) solúvel e de outros poluentes dissolvidos ou em suspensão seja reduzido a níveis compatíveis com os regulamentos e normas em vigor.
 
 2 - Deve ser assegurado um controle adequado, permanente ou periódico, dos poluentes contidos nos efluentes das instalações de tratamento de minérios, não só na área das instalações mas também na sua vizinhança, que deve ser mantido enquanto for necessário, mesmo após o desmantelamento e abandono das instalações.
 
@@ -913,15 +930,15 @@ Para as actividades abrangidas pelo artigo 3.º que se encontrem já em curso à
 
 Mário Soares - Carlos Alberto da Mota Pinto - Amândio Anes de Azevedo - António Manuel Maldonado Gonelha - José Veiga Simão - António d'Orey Capucho.
 
-**Promulgado em 5 de Setembro de 1984.**
+Promulgado em 5 de Setembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Setembro de 1984.**
+Referendado em 10 de Setembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ## ANEXO I — Limites de dose equivalente
 
@@ -939,7 +956,7 @@ Mário Soares - Carlos Alberto da Mota Pinto - Amândio Anes de Azevedo - Antón
 
 1.2.2 - Irradiação não uniforme do corpo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf))](https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/23400/31003114.pdf)
 
 sendo:
 

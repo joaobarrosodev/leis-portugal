@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/07/17000/13831388.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22790-1967-313386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:33:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffd639b28dcd9f8de795ea9199d1bdd94898cb4569c48eff3623b386c51d4385
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e1404b245e581a1c51fe9d04ca1896bbf8dc419733930192222e05adc8941ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:33:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,41 @@ relationships:
   target: pt:dre:579689:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:238662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693027:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:579689:por
+  label: "Revogada pela PORT.642/81.24.07.1981.MAP, DR.IS [168] de 24.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/642-1981-579689
+  date: '1981-07-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:33:06Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +175,7 @@ Fonte: Comissão Reguladora do Comércio de Bacalhau.
 
 Unidades: Toneladas e 1000$00
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/07/17000/13831388.pdf))](https://files.diariodarepublica.pt/1s/1967/07/17000/13831388.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/07/17000/13831388.pdf)
 
 Bacalhau importado
 
@@ -158,7 +183,7 @@ Fonte: Comissão Reguladora do Comércio de Bacalhau.
 
 Unidades: Toneladas e 1000$00.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/07/17000/13831388.pdf))](https://files.diariodarepublica.pt/1s/1967/07/17000/13831388.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/07/17000/13831388.pdf)
 
 Quantidade de bacalhau salgado seco entregue ao consumo
 
@@ -166,7 +191,7 @@ Fonte: Comissão Reguladora do Comércio de Bacalhau.
 
 Unidade: Toneladas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/07/17000/13831388.pdf))](https://files.diariodarepublica.pt/1s/1967/07/17000/13831388.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/07/17000/13831388.pdf)
 
 A diminuição de rendimento da pesca nacional resulta sobretudo, da concorrência de outras frotas, cada vez mais numerosas e que, pelo emprego de novos métodos de pesca, esgotam ràpidamente o peixe disponível e, consequentemente, impossibilitam à frota nacional o pleno aproveitamento da sua capacidade.
 

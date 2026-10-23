@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/313/1999/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1999-423060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:10:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44ef43bc54f1dcee10aae6917fbd964de3f6d9341a1a4d73bc9cf3a87892e4b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af21ea3d826a2f57c18fda852f1506c0c823f58635700b02fa2b29c04efe4574
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,33 @@ reuse:
 subjects:
 - Descobrimentos Portugueses
 - Moeda Comemorativa
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:221497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565864:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:10:07Z'
   warnings: []
   errors: []
 ---
@@ -159,12 +175,12 @@ As moedas cunhadas ao abrigo deste diploma têm curso legal, mas ninguém poder�
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 26 de Julho de 1999.**
+Promulgado em 26 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Julho de 1999.**
+Referendado em 28 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

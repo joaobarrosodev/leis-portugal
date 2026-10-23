@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24290-1969-214021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e950acb1ec7c72f7ee78e55bb9e9ff18d7b9fece586a3f17a91cc85ef1120dcf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9f2a9ab724e233e9adf056f0718d179807d2a29fba7921630e10aed0ca4a406
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429587:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:11Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +105,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, aprovar e pu
 
 1. O artigo 6.º passa a ter a seguinte redacção:
 
-###### Art. 6.º A blusa azul para praças (figs. 1 e 2) é de flanela de lã sarjada azul-ferrete, sem forro, talhada em quimono de duas peças, formando uma a parte anterior e a outra a posterior. Do lado esquerdo do peito tem uma algibeira interior em zuarte azul-ferrete, de 9,120 m de largura, 0,170 m de altura máxima e de 0,130 m de abertura, sendo esta inclinada 30º para facilitar a sua utilização.
+Art. 6.º A blusa azul para praças (figs. 1 e 2) é de flanela de lã sarjada azul-ferrete, sem forro, talhada em quimono de duas peças, formando uma a parte anterior e a outra a posterior. Do lado esquerdo do peito tem uma algibeira interior em zuarte azul-ferrete, de 9,120 m de largura, 0,170 m de altura máxima e de 0,130 m de abertura, sendo esta inclinada 30º para facilitar a sua utilização.
 
 A manga é de uma só costura, com canhão sobreposto, do próprio tecido, de 0,050 m de altura, pregado com quatro pespontos paralelos, formando dois bicos, nos quais o canhão atinge a altura máxima de 0,080 m.
 
@@ -113,7 +125,7 @@ Para as praças das restantes especializações a elipse do distintivo de classe
 
 2. O artigo 7.º passa a ter a seguinte redacção:
 
-###### Art. 7.º A blusa branca para praças é de cotim de algodão branco liso, com o talhe de azul. A parte inferior dos canhões das mangas e do corpo da blusa tem um debrum de zuarte azul de 0,015 m de largura, levando a parte superior dos canhões um pesponto branco.
+Art. 7.º A blusa branca para praças é de cotim de algodão branco liso, com o talhe de azul. A parte inferior dos canhões das mangas e do corpo da blusa tem um debrum de zuarte azul de 0,015 m de largura, levando a parte superior dos canhões um pesponto branco.
 
 A fita de seda para prender a manta é branca, sendo igualmente brancos os ilhós onde ela enfia e os botões de massa dos canhões.
 
@@ -127,7 +139,7 @@ Na blusa branca apenas se usam os distintivos de especialização em submersíve
 
 3. O artigo 8.º passa a ter a seguinte redacção:
 
-###### Art. 8.º A blusa de trabalho para praças (fig. 3) é de cotim de algodão azulado, talhada em quimono de duas peças, formando uma a parte anterior e outra a posterior.
+Art. 8.º A blusa de trabalho para praças (fig. 3) é de cotim de algodão azulado, talhada em quimono de duas peças, formando uma a parte anterior e outra a posterior.
 
 A manga é de uma só costura, sem canhão, e com uma abertura no punho, que fecha por meio de dois botões pretos do padrão n.º 7.
 
@@ -143,11 +155,11 @@ Nesta blusa não se usam distintivos de especialização.
 
 4. O artigo 12.º passa a ter a seguinte redacção:
 
-###### Art. 12.º O boné para praças da música é igual ao anterior, mas os botões são do padrão n.º 4 e o emblema é todo bordado a prata.
+Art. 12.º O boné para praças da música é igual ao anterior, mas os botões são do padrão n.º 4 e o emblema é todo bordado a prata.
 
 5. O artigo 13.º passa a ter a seguinte redacção:
 
-###### Art. 13.º O boné para praças (figs. 7, 8 e 9) é de plástico branco. Tem cinta cilíndrica, de 0,040 m de altura, sendo a parte superior (0,025 m) de plástico e a parte inferior (0,015 m) de pano de lã azul-ferrete com vivo deste mesmo pano a 0,015 m da aresta inferior.
+Art. 13.º O boné para praças (figs. 7, 8 e 9) é de plástico branco. Tem cinta cilíndrica, de 0,040 m de altura, sendo a parte superior (0,025 m) de plástico e a parte inferior (0,015 m) de pano de lã azul-ferrete com vivo deste mesmo pano a 0,015 m da aresta inferior.
 
 Os quartos, com 0,045 m de altura, são cosidos superiormente à copa e inferiormente à cinta. A copa é de um só pano e tem de raio mais de 0,030 m do que o correspondente à periferia da cinta. A copa é convenientemente esticada por meio de uma caixa rígida que dá forma ao boné.
 
@@ -159,11 +171,11 @@ Interiormente é todo forrado de linol creme-claro, tendo uma tira de carneira c
 
 6. O artigo 15.º passa a ter a seguinte redacção:
 
-###### Art. 15.º O boné de bivaque para primeiros e segundos-sargentos e praças da música é igual ao anterior, mas a âncora é bordada a algodão perlé vermelho-cochonilha.
+Art. 15.º O boné de bivaque para primeiros e segundos-sargentos e praças da música é igual ao anterior, mas a âncora é bordada a algodão perlé vermelho-cochonilha.
 
 7. O artigo 19.º passa a ter a seguinte redacção:
 
-###### Art. 19.º Os botões de metal para praças da música e para cabos e marinheiros da subclasse dos despenseiros são de latão, redondos, lisos e com uma âncora gravada.
+Art. 19.º Os botões de metal para praças da música e para cabos e marinheiros da subclasse dos despenseiros são de latão, redondos, lisos e com uma âncora gravada.
 
 São de dois padrões:
 
@@ -173,7 +185,7 @@ N.º 4 com 0,015 m de diâmetro (fig. 18).
 
 8. O artigo 22.º passa a ter a seguinte redacção:
 
-###### Art. 22.º As calças azuis para praças (figs. 23 e 24) são de flanela de lã sarjada azul-ferrete sem listas nem pestanas, tendo alçapão, que é abotoado à frente. com quatro botões do padrão n.º 7, colocados transversalmente. No interior, o alçapão possui duas abas, abotoadas a meio por três botões do mesmo padrão, levando a aba do lado direito uma algibeira de 0,015 m de largura e 0,019 m de comprimennto.
+Art. 22.º As calças azuis para praças (figs. 23 e 24) são de flanela de lã sarjada azul-ferrete sem listas nem pestanas, tendo alçapão, que é abotoado à frente. com quatro botões do padrão n.º 7, colocados transversalmente. No interior, o alçapão possui duas abas, abotoadas a meio por três botões do mesmo padrão, levando a aba do lado direito uma algibeira de 0,015 m de largura e 0,019 m de comprimennto.
 
 O cós da calça tem 0,060 m de altura, leva sete passadeiras e o forro do cós é do mesmo tecido.
 
@@ -181,21 +193,21 @@ As calças em baixo são cortadas em feitio de boca de sino, com largura inferio
 
 9. O artigo 24.º passa a ter a seguinte redacção:
 
-###### Art. 24.º As calças brancas para sargentos e praças da música são de cotim de algodão branco liso e com o talhe indicado no artigo 21.º
+Art. 24.º As calças brancas para sargentos e praças da música são de cotim de algodão branco liso e com o talhe indicado no artigo 21.º
 
 10. O artigo 25.º passa a ter a seguinte redacção:
 
-###### Art. 25.º As calças brancas para praças são de cotim de algodão branco liso, com o talhe indicado no artigo 22.º, tendo as algibeiras interiores e o forro do cós em pano cru e os botões brancos.
+Art. 25.º As calças brancas para praças são de cotim de algodão branco liso, com o talhe indicado no artigo 22.º, tendo as algibeiras interiores e o forro do cós em pano cru e os botões brancos.
 
 11. O artigo 31.º passa a ter a seguinte redacção:
 
-###### Art. 31.º A camisa branca para sargentos e praças da música é de tecido liso de algodão branco, com cós para prender o colarinho (qualquer dos três padrões indicados no artigo 38.º), de manga comprida com punho simples, mole, de 0,060 m de altura, abotoado por um botão branco do padrão n.º 8.
+Art. 31.º A camisa branca para sargentos e praças da música é de tecido liso de algodão branco, com cós para prender o colarinho (qualquer dos três padrões indicados no artigo 38.º), de manga comprida com punho simples, mole, de 0,060 m de altura, abotoado por um botão branco do padrão n.º 8.
 
 A camisa é toda aberta à frente como a azul e abotoa com seis botões iguais aos dos punhos.
 
 12. O artigo 32.º passa a ter a seguinte redacção:
 
-###### Art. 32.º A camisa tropical para sargentos e praças da música (fig. 28) é de tecido sarjado de algodão branco, com colarinho pegado para usar aberto a formar bandas (com o primeiro botão desabotoado) e sem gravata, com manga até 0,025 m acima da curva do cotovelo, tendo nos ombros platinas fixas do mesmo tecido, de 0,040 m de largura, abotoadas debaixo do colarinho com um botão branco do padrão n.º 8, que servem para enfiar as passadeiras.
+Art. 32.º A camisa tropical para sargentos e praças da música (fig. 28) é de tecido sarjado de algodão branco, com colarinho pegado para usar aberto a formar bandas (com o primeiro botão desabotoado) e sem gravata, com manga até 0,025 m acima da curva do cotovelo, tendo nos ombros platinas fixas do mesmo tecido, de 0,040 m de largura, abotoadas debaixo do colarinho com um botão branco do padrão n.º 8, que servem para enfiar as passadeiras.
 
 A camisa é toda aberta à frente como a azul e abotoa com seis botões brancos iguais aos das platinas.
 
@@ -205,11 +217,11 @@ Na camisa tropical não se usam distintivos de especialização.
 
 13. O artigo 34.º passa a ter a seguinte redacção:
 
-###### Art. 34.º A capa branca para boné de sargentos e praças da música é de cotim de algodão branco liso, com talhe igual à usada pelos oficiais subalternos.
+Art. 34.º A capa branca para boné de sargentos e praças da música é de cotim de algodão branco liso, com talhe igual à usada pelos oficiais subalternos.
 
 14. O artigo 35.º passa a ter a seguinte redacção:
 
-###### Art. 35.º O casacão para praças (fig. 30) é de pano de lã azul-ferrete, forrado de flanela mista preta, de talhe amplo, com gola voltada, com 0,070 m de altura atrás e 0,100 m de altura nos bicos, talhada de forma a unir à frente.
+Art. 35.º O casacão para praças (fig. 30) é de pano de lã azul-ferrete, forrado de flanela mista preta, de talhe amplo, com gola voltada, com 0,070 m de altura atrás e 0,100 m de altura nos bicos, talhada de forma a unir à frente.
 
 Tem à frente duas ordens paralelas de quatro botões pretos do padrão n.º 5 abotoando na do lado direito. No prolongamento da ordem de botões do lado direito e de baixo da gola há um botão igual que serve para abotoar numa casa existente no prolongamento das outras; este botão pode usar-se desabotoado.
 
@@ -225,17 +237,17 @@ No casacão não se usam distintivos de especialização.
 
 15. O artigo 36.º passa a ter a seguinte redacção:
 
-###### Art. 36.º O chapéu para praças (figs. 31 e 32) é de cotim de algodão branco, com copa formada por seis gomos. As abas, de 0,070 m de altura, são voltadas para cima, com o perímetro superior excedendo 0,040 m o inferior, sendo, a partir de 0,010 m do extremo superior, cheias de pespontos horizontais (intervalados de 0,002 m) para lhes aumentar a consistência. Interiormente é forrado com uma tira do mesmo cotim com 0,025 m de largura, que fica em contacto com a cabeça.
+Art. 36.º O chapéu para praças (figs. 31 e 32) é de cotim de algodão branco, com copa formada por seis gomos. As abas, de 0,070 m de altura, são voltadas para cima, com o perímetro superior excedendo 0,040 m o inferior, sendo, a partir de 0,010 m do extremo superior, cheias de pespontos horizontais (intervalados de 0,002 m) para lhes aumentar a consistência. Interiormente é forrado com uma tira do mesmo cotim com 0,025 m de largura, que fica em contacto com a cabeça.
 
 16. O artigo 40.º passa a ter a seguinte redacção:
 
-###### Art. 40.º O colarinho de alcaxa para praças (fig. 38) é constituído por um cabeção de zuarte azul-ferrete, de 0,360 m de largura por 0,230 m de altura, cosido a duas bandas do mesmo tecido com 0,450 m de comprimento, formando um decote em V que termina a 0,100 m do extremo das bandas, tudo forrado com zuarte igual ao da face exterior.
+Art. 40.º O colarinho de alcaxa para praças (fig. 38) é constituído por um cabeção de zuarte azul-ferrete, de 0,360 m de largura por 0,230 m de altura, cosido a duas bandas do mesmo tecido com 0,450 m de comprimento, formando um decote em V que termina a 0,100 m do extremo das bandas, tudo forrado com zuarte igual ao da face exterior.
 
 Tanto o cabeção como as bandas são guarnecidos com três fitas de algodão branco, de 0,005 m de largura, intervaladas umas das outras de 0,003 m, ficando a fita exterior a 0,015 m das orlas. Da origem do cabeção, ao centro, nasce uma tira de cotim branco, com 0,140 m de largura e 0,450 m de comprimento, que desce pelas costas e de cuja extremidade inferior sai, para um e outro lado, uma fita do mesmo cotim, com 0,030 m de largura e 0,450 m de comprimento, que vai abotoar num botão branco do padrão n.º 7 existente na parte inferior da banda desse lado; por cada botão haverá mais uma casa sobresselente para facilitar o ajustamento individual. Usa-se sobre o cabeção das blusas.
 
 17. O artigo 42.º passa a ter a seguinte redacção:
 
-###### Art. 42.º O corpete para praças (fig. 39) é de tecido sarjado de algodão branco, tendo decote rectangular com um debrum de zuarte azul-ferrete, de 0,013 m de largura. Manga até 0,025 m acima da curva do cotovelo para, quando o corpete se usar exteriormente, se lhe colocarem as divisas e os distintivos como na blusa branca.
+Art. 42.º O corpete para praças (fig. 39) é de tecido sarjado de algodão branco, tendo decote rectangular com um debrum de zuarte azul-ferrete, de 0,013 m de largura. Manga até 0,025 m acima da curva do cotovelo para, quando o corpete se usar exteriormente, se lhe colocarem as divisas e os distintivos como na blusa branca.
 
 Tem duas algibeiras exteriores iguais às da blusa de trabalho.
 
@@ -273,7 +285,7 @@ XVIII) Dos condutores mecânicos de automóveis (fig. 74). - Um volante de três
 
 23. O artigo 56.º passa a ter a seguinte redacção:
 
-###### Art. 56.º O dólman branco para primeiros-sargentos, segundos-sargentos e praças da música (figs. 97 e 98) é de cotim de algodão branco, liso, ligeiramente cintado, fechado, com gola direita entretelada, de cantos rectangulares, com altura entre 0,030 m e 0,050 m, unida por dois colchetes, tendo pestana interior.
+Art. 56.º O dólman branco para primeiros-sargentos, segundos-sargentos e praças da música (figs. 97 e 98) é de cotim de algodão branco, liso, ligeiramente cintado, fechado, com gola direita entretelada, de cantos rectangulares, com altura entre 0,030 m e 0,050 m, unida por dois colchetes, tendo pestana interior.
 
 Abotoa à frente com uma ordem de seis botões do padrão n.º 1 para os primeiros-sargentos e segundos-sargentos e do padrão n.º 3 para as praças da música; o botão superior fica distanciado 0,030 m da gola.
 
@@ -287,7 +299,7 @@ Nos ombros têm platinas fixas do mesmo cotim, com 0,040 m de largura, que aboto
 
 24. O artigo 58.º passa a ter a seguinte redacção:
 
-###### Art. 58.º A fita para boné das praças (figs. 7 e 8) é de seda preta, com 0,028 m de largura e 0,850 m de comprimento; as letras da legenda são em tipo de imprensa, maiúsculo, tecidas com fio de seda natural de cor amarela e têm 0,013 m de altura.
+Art. 58.º A fita para boné das praças (figs. 7 e 8) é de seda preta, com 0,028 m de largura e 0,850 m de comprimento; as letras da legenda são em tipo de imprensa, maiúsculo, tecidas com fio de seda natural de cor amarela e têm 0,013 m de altura.
 
 A fita é colocada com a legenda para a frente, dando uma laçada do lado esquerdo da cabeça na fivela especial descrita no artigo seguinte, sem que as pontas fiquem caídas.
 
@@ -297,11 +309,11 @@ As fitas pertencentes a este grupo têm a legenda «Armada» e são usadas pelas
 
 25. O artigo 59.º passa a ter a seguinte redacção:
 
-###### Art. 59.º A fivela para boné das praças (fig. 10) é de alumínio pintado de preto, com 0,020 m de altura por 0,025 m de largura, tendo cinco ranhuras verticais, de 0,015 m de altura por 0,0015 m de largura, onde passa a fita, que dá uma laçada, como se vê na fig. 8.
+Art. 59.º A fivela para boné das praças (fig. 10) é de alumínio pintado de preto, com 0,020 m de altura por 0,025 m de largura, tendo cinco ranhuras verticais, de 0,015 m de altura por 0,0015 m de largura, onde passa a fita, que dá uma laçada, como se vê na fig. 8.
 
 26. O artigo 61.º passa a ter a seguinte redacção:
 
-###### Art. 61.º A jaqueta branca para sargentos da classe da taifa (figs. 101 e 102) é de cotim de algodão branco, liso, cintada, fechada com gola direita entretelada, de cantos rectangulares, com altura entre 0,030 m e 0,050 m, unida por dois colchetes, tendo pestana inferior.
+Art. 61.º A jaqueta branca para sargentos da classe da taifa (figs. 101 e 102) é de cotim de algodão branco, liso, cintada, fechada com gola direita entretelada, de cantos rectangulares, com altura entre 0,030 m e 0,050 m, unida por dois colchetes, tendo pestana inferior.
 
 Abotoa à frente com uma ordem de oito botões do padrão n.º 2; o botão superior fica distanciado 0,050 m da gola.
 
@@ -313,11 +325,11 @@ No peito, do lado esquerdo, é colocada uma âncora bordada a fio de ouro do mes
 
 27. O artigo 62.º passa a ter a seguinte redacção:
 
-###### Art. 62.º A jaqueta branca para cabos e marinheiros da subclasse dos despenseiros é como a anterior sendo os botões do padrão n.º 4, e não tem âncora no peito.
+Art. 62.º A jaqueta branca para cabos e marinheiros da subclasse dos despenseiros é como a anterior sendo os botões do padrão n.º 4, e não tem âncora no peito.
 
 28. O artigo 63.º passa a ter a seguinte redacção:
 
-###### Art. 63.º O jaquetão azul para sargentos-ajudantes (figs. 103 e 104) é de pano de lã azul-ferrete, ligeiramente cintado e forrado de cetim preto. Gola voltada, com bandas de largura entre 0,100 m e 0,120 m. É assertoado com duas ordens de quatro botões grandes de metal iguais aos dos oficiais, ligeiramente divergentes, dos quais os três inferiores são para usar abotoados. Quando abotoados, os botões inferiores das duas ordens ficam distanciados de 0,120 m a 0,140 m; em cada uma das ordens os botões ficam espaçados de 0,075 m a 0,095 m, segundo a altura do militar.
+Art. 63.º O jaquetão azul para sargentos-ajudantes (figs. 103 e 104) é de pano de lã azul-ferrete, ligeiramente cintado e forrado de cetim preto. Gola voltada, com bandas de largura entre 0,100 m e 0,120 m. É assertoado com duas ordens de quatro botões grandes de metal iguais aos dos oficiais, ligeiramente divergentes, dos quais os três inferiores são para usar abotoados. Quando abotoados, os botões inferiores das duas ordens ficam distanciados de 0,120 m a 0,140 m; em cada uma das ordens os botões ficam espaçados de 0,075 m a 0,095 m, segundo a altura do militar.
 
 Mangas fechadas sem canhões, mas com dois botões pequenos de metal iguais aos dos oficiais, junto à costura.
 
@@ -333,23 +345,23 @@ Para os restantes sargentos-ajudantes especializados a elipse do distintivo de c
 
 29. O artigo 66.º passa a ter a seguinte redacção:
 
-###### Art. 66.º A «jersey» para praças (fig. 107) é de malha de lã azul-escura e com mangas até aos pulsos. A gola de malha canelada, é justa ao pescoço e tem 0,040 m de altura. O canhão das mangas, também de malha canelada, tem 0,100 m de altura. As costuras de ligação ao corpo, da gola e das mangas, são arrematadas por dentro sem lhes tirar a elasticidade. No corpo, bainha inferior de 0,050 m de altura.
+Art. 66.º A «jersey» para praças (fig. 107) é de malha de lã azul-escura e com mangas até aos pulsos. A gola de malha canelada, é justa ao pescoço e tem 0,040 m de altura. O canhão das mangas, também de malha canelada, tem 0,100 m de altura. As costuras de ligação ao corpo, da gola e das mangas, são arrematadas por dentro sem lhes tirar a elasticidade. No corpo, bainha inferior de 0,050 m de altura.
 
 30. O artigo 68.º passa a ter a seguinte redacção:
 
-###### Art. 68.º As luvas brancas para sargentos, praças das classes da música e de mestres clarins, da subclasse dos despenseiros e especializadas em clarins (fig. 108) são de algodão, lisas, sem enfeites, abotoando com um botão branco.
+Art. 68.º As luvas brancas para sargentos, praças das classes da música e de mestres clarins, da subclasse dos despenseiros e especializadas em clarins (fig. 108) são de algodão, lisas, sem enfeites, abotoando com um botão branco.
 
 31. O artigo 71.º passa a ter a seguinte redacção:
 
-###### Art. 71.º A manta de seda para praças é de seda preta lisa, com 1,300 m de comprimento por 0,250 m de largura, unida nos extremos por uma costura, usando-se por debaixo do cabeção das blusas.
+Art. 71.º A manta de seda para praças é de seda preta lisa, com 1,300 m de comprimento por 0,250 m de largura, unida nos extremos por uma costura, usando-se por debaixo do cabeção das blusas.
 
 32. O artigo 90.º passa a ter a seguinte redacção:
 
-###### Art. 90.º O sobretudo para segundos-sargentos e praças da música é igual ao anterior, mas sem a abertura para a espada.
+Art. 90.º O sobretudo para segundos-sargentos e praças da música é igual ao anterior, mas sem a abertura para a espada.
 
 33. O artigo 116.º passa a ter a seguinte redacção:
 
-###### Art. 116.º As calças impermeáveis para condutores mecânicos de automóveis e praças especializadas em condutores de automóveis (fig. 143) são de lona impermeabilizada, pretas.
+Art. 116.º As calças impermeáveis para condutores mecânicos de automóveis e praças especializadas em condutores de automóveis (fig. 143) são de lona impermeabilizada, pretas.
 
 Têm do lado externo da perna e partindo da parte inferior até à altura da barriga da perna um fole do mesmo tecido, apertado em cima por dois colchetes e em baixo por uma fivela.
 
@@ -361,7 +373,7 @@ Terminam em forma de polaina, com uma presilha que passa por baixo do sapato ou 
 
 34. O artigo 123.º passa a ter a seguinte redacção:
 
-###### Art. 123.º O casaco impermeável para condutores mecânicos de automóveis e praças especializadas em condutores de automóveis (fig. 142) é de lona impermeabilizada, preto, de talhe amplo, com gola voltada, com 0,100 m de altura atrás, talhada de forma a poder unir à frente.
+Art. 123.º O casaco impermeável para condutores mecânicos de automóveis e praças especializadas em condutores de automóveis (fig. 142) é de lona impermeabilizada, preto, de talhe amplo, com gola voltada, com 0,100 m de altura atrás, talhada de forma a poder unir à frente.
 
 Tem à frente duas ordens paralelas de três botões do padrão n.º 5, abotoando na do lado direito. No prolongamento da ordem de botões do lado direito e debaixo da gola há um botão idêntico que serve para a fechar.
 
@@ -377,7 +389,7 @@ Tem um cinto do mesmo tecido, enfiado em duas passadeiras laterais.
 
 35. O artigo 134.º passa a ter a seguinte redacção:
 
-###### Art. 134.º As fitas para boné de praças pertencentes a este grupo são idênticas às descritas no artigo 58.º, mas têm a legenda privativa «N. R. P.», seguidas estas iniciais do nome do respectivo navio (por extenso ou abreviado, se o nome for muito longo) para as praças nele embarcadas.
+Art. 134.º As fitas para boné de praças pertencentes a este grupo são idênticas às descritas no artigo 58.º, mas têm a legenda privativa «N. R. P.», seguidas estas iniciais do nome do respectivo navio (por extenso ou abreviado, se o nome for muito longo) para as praças nele embarcadas.
 
 § único. Estas fitas são distribuídas às praças que prestam serviço na respectiva unidade e apenas enquanto nelas estiverem embarcadas; ao destacarem para outras situações devem tirar essas fitas dos seus bonés e substituí-las por outras de 1.º grupo com a legenda «Armada», fazendo entrega das fitas de legenda privativa antes de destacarem.
 
@@ -399,7 +411,7 @@ Fig. 102, jaqueta branca para sargentos da classe da taifa (vista de costas).
 
 40. São eliminados os seguintes artigos do Regulamento:
 
-###### Artigo 23.º, § único do artigo 29.º, artigo 39.º, artigo 45.º, artigo 48.º, artigo 54.º, artigo 57.º, artigo 80.º, artigo 81.º e n.º 8 do artigo 91.º
+Artigo 23.º, § único do artigo 29.º, artigo 39.º, artigo 45.º, artigo 48.º, artigo 54.º, artigo 57.º, artigo 80.º, artigo 81.º e n.º 8 do artigo 91.º
 
 41. São eliminadas as seguintes figuras do Regulamento:
 
@@ -415,13 +427,13 @@ TABELA I
 
 Artigos do 1.º grupo (de fardamento e de uso individual) que cada sargento ou praça deve possuir
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/09/21700/12541263.pdf))](https://files.diariodarepublica.pt/1s/1969/09/21700/12541263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/09/21700/12541263.pdf)
 
 TABELA III
 
 Uniformes dos sargentos e praças da Armada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/09/21700/12541263.pdf))](https://files.diariodarepublica.pt/1s/1969/09/21700/12541263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/09/21700/12541263.pdf)
 
 Notas à tabela III
 
@@ -441,6 +453,6 @@ VII) A calça e o casaco de zuarte e o fato de zuarte só são usados em serviç
 
 Ministério da Marinha, 16 de Setembro de 1969. - O Ministro da Marinha, Manuel Pereira Crespo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/09/21700/12541263.pdf))](https://files.diariodarepublica.pt/1s/1969/09/21700/12541263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/09/21700/12541263.pdf)
 
 Ministério da Marinha, 16 de Setembro de 1969. - O Ministro da Marinha, Manuel Pereira Crespo.

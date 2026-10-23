@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/856-1984-400800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T08:14:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5edbc57602147857eee7e63228367dadab71478ef30d4cdf7bfb0682afd9ace2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 286f39b549ef1dcee8164dc5ef04357b7afc3fedc329aba7ac108bff75e82939
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:14:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Construção Civil
+- Lisboa
+- Santa Casa da Misericórdia
 relationships:
 - type: amended_by
   target: pt:dre:420606:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:420606:por
+  label: "Extinta a comissão criada pela Port 18209, de 16-Jan 1961, na redacção dada pela presente portaria, pela PORT.640/87.22.07.1987.MAI,\
+    \ DR.IS [166] de 22.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/640-1987-420606
+  date: '1987-07-22'
+- type: cites
+  target: pt:dre:328670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557851:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:14:51Z'
   warnings: []
   errors: []
 ---
@@ -107,6 +129,6 @@ Manda o Governo da República Portuguesa, pelos Ministros da Administração Int
 
 Ministérios da Administração Interna, do Trabalho e Segurança Social e do Equipamento Social.
 
-**Assinada em 10 de Outubro de 1984.**
+Assinada em 10 de Outubro de 1984.
 
-**O Ministro da Administração Interna, Eduardo Ribeiro Pereira. - Pelo Ministro do Trabalho e Segurança Social, Maria Leonor Cocheiro Pizarro Beleza de Mendonça Tavares, Secretária de Estado da Segurança Social. - O Ministro do Equipamento Social, João Rosado Correia.**
+O Ministro da Administração Interna, Eduardo Ribeiro Pereira. - Pelo Ministro do Trabalho e Segurança Social, Maria Leonor Cocheiro Pizarro Beleza de Mendonça Tavares, Secretária de Estado da Segurança Social. - O Ministro do Equipamento Social, João Rosado Correia.

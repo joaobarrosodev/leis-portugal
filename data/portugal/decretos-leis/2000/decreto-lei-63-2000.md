@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/04/093a00/16921693.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/63/2000/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2000-522802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67080fed00c6d68ec179163e95b9ff4c2c38ecdfe5b58708ef05b17999056236
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 064be9d090454dfc9d07b054aa3eed523692334657b470fa188d764fd37fec28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,21 +69,60 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CE Países
-- Certificado Fitossanitário
-- Doença Vegetal
-- Controlo Sanitário
 - Certificado de Qualidade
-- Proteção do Ambiente
-- Zona de Proteção
-- Proteção Fitossanitária
+- Certificado Fitossanitário
+- Controlo Sanitário
+- Doença Vegetal
 - Produção Vegetal
 - Produto Agrícola
+- Proteção do Ambiente
+- Proteção Fitossanitária
 - Vegetais
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:141854:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621168:por
+  label: "Alterados os anexos I, II, III e IV do Dec Lei 14/99 de 12-Jan,alterado pelo presente diploma, pelo DEC LEI.269/2001.2001.10.06.MADRP,\
+    \ DR.IS-A [232]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/269-2001-621168
+  date: '2001-10-08'
+- type: amended_by
+  target: pt:dre:197359:por
+  label: "Alterados os anexos I, II, III, IV e VI do Dec Lei 14/99, de 12 Jan, republicado pelo Dec Lei 517/99, de 04-Dez,\
+    \ na redacção dada pelo presente diploma, pelo DEC LEI.172/2002.2002.07.25.MADRP, DR IS-A [170]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-2002-197359
+  date: '2002-07-25'
+- type: amended_by
+  target: pt:dre:667118:por
+  label: "Alterados os anexos I, II, III, IV, V e VI do Dec Lei 14/99, de 12-Jan, na redacção dos Dec Lei 517/99, de 04-Dez,\
+    \ do presente diploma e do Dec Lei 160/2000 de 27-Jul, 269/2001 de 06-Out e 172/2002 de 25-Jul, pelo DEC LEI.142/2003.2003.07.02.MADRP,\
+    \ DR.IS-A [150] \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2003-667118
+  date: '2003-07-02'
+- type: amended_by
+  target: pt:dre:493696:por
+  label: "Alterados os anexos IV e V do Dec Lei 14/99 de 12-Jan, alterado pelo presente, pelo DEC LEI.231/2003.2003.09.27.MADRP\
+    \ DR.IS-A [224]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-2003-493696
+  date: '2003-09-27'
+- type: amended_by
+  target: pt:dre:220749:por
+  label: "Alterados os anexos II, III, IV e V do Dec Lei 14/99, de 12-Jan DR.IS-A [9], republicado pelo Dec Lei 517/99, de\
+    \ 04-Dez, na redacção que lhe foi dada pelo presente diploma e pelos Dec Leis 160/2000, de 27-Jul, 269/2001, de 06-Out,\
+    \ 172/2002, de 25-Jul, 142/2003, de 02-Jul e 231/2003, 27-Set, pelo DEC LEI.83/2004.14.04.2004.MADRP, DR.IS-A [88] de\
+    \ 14.04.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-2004-220749
+  date: '2004-04-14'
+- type: amended_by
+  target: pt:dre:502395:por
+  label: "Alterados os anexos II, IV e VI do Dec Lei 14/99, de 12-Jan, na redacção do presente diploma, pelo DEC LEI.183/2004.29.07.2004.MADRP,\
+    \ DR.IS-A [177] de 29.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2004-502395
+  date: '2004-07-29'
 - type: cites
   target: celex:31992L0076
   label: null
@@ -96,16 +135,21 @@ relationships:
   target: celex:31999L0084
   label: null
   source: http://data.europa.eu/eli/dir/1999/84/oj
+- type: repealed_by
+  target: pt:dre:141854:por
+  label: "Revogado pelo DEC LEI.154/2005.06.09.2005.MADRP, DR.IS-A [171] de 06.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2005-141854
+  date: '2005-09-06'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:44Z'
   warnings: []
   errors: []
 ---
@@ -136,15 +180,15 @@ Os anexos II, IV e VI do Decreto-Lei n.º 14/99, de 12 de Janeiro, na redacção
 
 Visto e aprovado em Conselho de Ministros de 24 de Fevereiro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Luís Manuel Capoulas Santos.
 
-**Promulgado em 28 de Março de 2000.**
+Promulgado em 28 de Março de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Abril de 2000.**
+Referendado em 6 de Abril de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 

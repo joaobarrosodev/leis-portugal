@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/445-1973-421061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T04:06:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a2560575357e4227917d023b46d3a6229a65dc7df0b988932d78064cd024173
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cf377328116b2ee9a6ffbb2f2a423fa10077cb190838928a52abf371edec655
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:06:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:676610:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:06:55Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +102,11 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar:
 
 3.º O n.º 1 do artigo 7.º passará a ter a seguinte redacção:
 
-###### Art. 7.º - 1. Admitido pelas partes ou por decisão judicial o pagamento da indemnização em prestações e ainda o modo como estas deverão ser satisfeitas, será notificado o expropriante, quando for o Estado, para, no prazo de sessenta dias, por termo nos autos, entregar aos interessados os respectivos certificados de dívida pública amortizável ou de outras formas de pagamento que tenham sido convencionadas, salvo se já estiver feita a prova, por documento, da entrega extrajudicial.
+Art. 7.º - 1. Admitido pelas partes ou por decisão judicial o pagamento da indemnização em prestações e ainda o modo como estas deverão ser satisfeitas, será notificado o expropriante, quando for o Estado, para, no prazo de sessenta dias, por termo nos autos, entregar aos interessados os respectivos certificados de dívida pública amortizável ou de outras formas de pagamento que tenham sido convencionadas, salvo se já estiver feita a prova, por documento, da entrega extrajudicial.
 
 4.º A redacção do n.º 1 do artigo 9.º passará a ser:
 
-###### Art. 9.º - 1. No caso de o pagamento da indemnização dever ser feito em prestações, e se a expropriação não for urgentíssima, o expropriante só será investido na posse e propriedade dos bens expropriados depois da entrega dos certificados da dívida pública ou de se mostrar garantido o pagamento das prestações, nos termos dos artigos 7.º e 8.º
+Art. 9.º - 1. No caso de o pagamento da indemnização dever ser feito em prestações, e se a expropriação não for urgentíssima, o expropriante só será investido na posse e propriedade dos bens expropriados depois da entrega dos certificados da dívida pública ou de se mostrar garantido o pagamento das prestações, nos termos dos artigos 7.º e 8.º
 
 5.º A entrada em vigor, no todo ou em parte, da presente portaria na província de Macau fica sujeita ao critério e decisão do respectivo Governador, através de decreto provincial.
 

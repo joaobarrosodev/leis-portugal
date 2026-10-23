@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/05/12100/08740875.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/360-1973-422463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T04:04:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0da91a1db401518738ab021f68ca022c33ab6960210730826270e1ba2614b45d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3bc6494616132226fface90962dd17ba1bb33a36b6830be56ffca0ab994d287a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:04:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituição de Crédito
+- Instituições Parabancárias
+- Moeda Eletrónica
 relationships:
 - type: amended_by
   target: pt:dre:460639:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:567396:por
+  label: "Reduzido o prazo previsto no n.º 2 pela PORT.1042/81.10.12.1981.MFP, DR.IS [283] de 10.12.1981\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1042-1981-567396
+  date: '1981-12-10'
+- type: cites
+  target: pt:dre:146684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526201:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:460639:por
+  label: "Revogada pelo DEC LEI.166/95.1995.07.15.MF DR.IS-A [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-1995-460639
+  date: '1995-07-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:04:53Z'
   warnings: []
   errors: []
 ---

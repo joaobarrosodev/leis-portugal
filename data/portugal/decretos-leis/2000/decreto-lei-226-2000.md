@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/209a00/47934798.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/226/2000/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2000-577707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92a9708615e1f67b51910bc77e0199007fe57b89b345b0352cd04bbb484dfd71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c22828ef19a570ae847125ec0e89798984db3af2f9963f1297bf6ce77482102d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
-- Sociedade Anónima
 - Boticas
 - Chaves
-- Saneamento Básico
 - Definição de Competências
 - Estatuto
+- Gestão de Resíduos
 - Montalegre
 - Proteção do Ambiente
 - Resat
-- Sistema Multimunicipal de Triagem Recolha Selectiva Valorização e Tratamento de Resíduos Sólidos Urbanos do ALTO Tâmega
 - Ribeira de PENA
+- Saneamento Básico
+- Sistema Multimunicipal de Triagem Recolha Selectiva Valorização e Tratamento de Resíduos Sólidos Urbanos do ALTO Tâmega
+- Sociedade Anónima
 - Valpaços
 - VILA Pouca de Aguiar
 relationships:
@@ -102,16 +102,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:489708:por
+  label: Revogado, a partir de 20.09.2009, sem prejuízo do disposto o art. 13.º, pelo DEC LEI.235/2009.15.09.2009.MAOTDR,
+    DR.IS [179] de 15.09.2009, , bem como determinada a substituição, pelo sistema criado pelo citado diploma, do sistema
+    multimunicipal criado pelo presente diploma, e determinada a constituição da sociedade RESINORTE, S. A., por fusão da
+    sociedade RESAT, S.A, constituída pelo presente diploma (Ver Notas)
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-2009-489708
+  date: '2009-09-15'
 article_structure:
-  article_count: 38
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:15Z'
   warnings: []
   errors: []
 ---
@@ -208,75 +240,83 @@ h) Empresa Geral do Fomento, 765000 acções da classe A.
 
 5 - A concessão a que o presente diploma se refere rege-se por este, pela [Lei n.º 88-A/97](https://diariodarepublica.pt/dr/detalhe/lei/88-a-1997-243731), de 25 de Julho, pelas disposições aplicáveis dos Decretos-Leis n.os [379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro, e [294/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1994-534587), de 16 de Novembro, pelo respectivo contrato e, de um modo geral, pelas disposições legais e regulamentares respeitantes às actividades compreendidas no seu objecto.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - No contrato de concessão outorga, em representação do Estado, o Ministro do Ambiente e do Ordenamento do Território.
 
 2 - À data da celebração do contrato de concessão deve encontrar-se constituída a caução para garantia do cumprimento dos deveres contratuais emergentes da concessão, no valor de 50000000$00.
 
-###### Artigo 9.º
+Artigo 9.º
 
 As entradas iniciais de capital dos accionistas devem ser realizadas no prazo de cinco dias a contar da data de entrada em vigor do presente diploma.
 
-###### Artigo 10.º
+Artigo 10.º
 
 A realização das entradas iniciais de capital e a realização da assembleia geral da sociedade, prevista no artigo 12.º, são condições da outorga do contrato de concessão e dos contratos referidos no artigo seguinte.
 
-###### Artigo 11.º
+Artigo 11.º
 
 A articulação entre o Sistema explorado e gerido pela concessionária e o correspondente sistema de cada um dos municípios utilizadores é assegurada através de contratos de entrega e recepção ou de recolha indiferenciada e de promoção da recolha selectiva e do seu adequado processamento a celebrar entre a concessionária e cada um dos municípios
 
-###### Artigo 12.º
+Artigo 12.º
 
 Considera-se convocada a primeira assembleia geral da sociedade, sem necessidade do cumprimento dos requisitos mencionados no artigo 17.º dos estatutos anexos, para o 5.º dia posterior à publicação do presente diploma, ou para o 1.º dia útil subsequente, pelas 15 horas, com o objectivo de eleger os órgãos sociais e aprovar o respectivo estatuto remuneratório.
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 2000. - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura - Manuel Pedro Cunha da Silva Pereira.
 
-**Promulgado em 28 de Agosto de 2000.**
+Promulgado em 28 de Agosto de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Setembro de 2000.**
+Referendado em 1 de Setembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — ESTATUTOS DE RESAT - VALORIZAÇÃO E TRATAMENTO DE RESÍDUOS SÓLIDOS, S. A.
+ANEXO
 
-### CAPÍTULO I — Denominação, duração e sede
+ESTATUTOS DE RESAT - VALORIZAÇÃO E TRATAMENTO DE RESÍDUOS SÓLIDOS, S. A.
 
-###### Artigo 1.º
+CAPÍTULO I
+
+Denominação, duração e sede
+
+Artigo 1.º
 
 A sociedade adopta a designação de RESAT - Valorização e Tratamento de Resíduos Sólidos, S. A., e durará por tempo indeterminado.
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - A sede social é na freguesia de Boticas, concelho de Boticas.
 
 2 - Por deliberação do conselho de administração, a sociedade pode criar, deslocar ou encerrar sucursais, agências, delegações ou outras formas locais de representação, bem como pode mudar a sede social para outro local sito no mesmo município ou em município limítrofe.
 
-### CAPÍTULO II — Objecto
+CAPÍTULO II
 
-###### Artigo 3.º
+Objecto
+
+Artigo 3.º
 
 1 - A sociedade tem por objecto social exclusivo a exploração e gestão do sistema multimunicipal do Alto Tâmega para triagem, recolha selectiva, valorização e tratamento de resíduos sólidos urbanos dos municípios de Boticas, Chaves, Montalegre, Ribeira de Pena, Valpaços e Vila Pouca de Aguiar.
 
 2 - A sociedade poderá, desde que para o efeito esteja habilitada, exercer outras actividades para além daquelas que constituem o objecto da concessão, desde que consideradas acessórias ou complementares e devidamente autorizadas pelo concedente, nomeadamente a actividade de promoção da recolha indiferenciada dos resíduos sólidos urbanos produzidos na área dos municípios utilizadores.
 
-###### Artigo 4.º
+Artigo 4.º
 
 A sociedade pode participar em quaisquer outras sociedades ou entidades legais com objecto similar ou complementar do seu, desde que previamente autorizada pelo concedente.
 
-### CAPÍTULO III — Capital social, acções e obrigações
+CAPÍTULO III
 
-###### Artigo 5.º
+Capital social, acções e obrigações
+
+Artigo 5.º
 
 1 - O capital social é de 1500000 de euros, encontrando-se realizado 450000 euros, devendo o remanescente, na importância de 1050000 euros, ser realizado em dinheiro, por uma ou mais vezes, ate três anos contados da data da entrada em vigor do decreto-lei que constitui a sociedade, de acordo com as chamadas do conselho de administração, feitas por escrito, mediante carta registada com aviso de recepção, com a antecedência mínima de 60 dias relativamente ao momento de realização das entradas.
 
 2 - O capital social é representado por 1500000 acções da classe A, com o valor nominal de 1 euro cada uma.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - O conselho de administração poderá, por uma ou mais vezes, deliberar o aumento de capital até ao montante global de 3500000 euros.
 
@@ -292,13 +332,13 @@ A sociedade pode participar em quaisquer outras sociedades ou entidades legais c
 
 7 - Desde que não seja ultrapassado o limite fixado no n.º 2, as acções da classe A poderão ser convertidas em acções da classe B, a pedido do seu titular e mediante prévia deliberação favorável da assembleia geral.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - Poderão ser emitidas acções preferenciais sem voto, ate ao montante máximo de 50% do capital social, nos termos e condições definidos na deliberação dos accionistas.
 
 2 - Por deliberação dos accionistas, as acções preferenciais poderão ser sujeitas a remição, devendo ser feita pelo valor nominal das acções, eventualmente acrescido de um prémio determinado pela mesma deliberação.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - As acções da classe A serão sempre nominativas, as acções da classe B serão nominativas, podendo, no entanto, ser convertidas ao portador, a pedido dos accionistas e mediante deliberação da assembleia geral.
 
@@ -310,7 +350,7 @@ A sociedade pode participar em quaisquer outras sociedades ou entidades legais c
 
 5 - Mediante prévia deliberação dos accionistas é autorizada a emissão de acções escriturais ou a conversão de acções tituladas em escriturais, nos termos da legislação aplicável.
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - As acções da classe A apenas poderão ser transmitidas a favor dos demais accionistas da mesma classe de acções, a favor das entidades referidas no n.º 5 do artigo 6.º e, sempre sem prejuízo do aí disposto, no caso de cisão ou fusão de uma sociedade detentora desta classe de acções, para as sociedades que resultem dessa fusão ou cisão.
 
@@ -324,7 +364,7 @@ A sociedade pode participar em quaisquer outras sociedades ou entidades legais c
 
 6 - A sociedade primeiro e depois todos os accionistas, seja qual for a classe de acções de que sejam titulares, têm direito de preferência na alienação de acções nominativas da classe B, estando o respectivo exercício sujeito, com as devidas adaptações, às condições estabelecidas nos números anteriores.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - Mediante deliberação dos sócios, a sociedade poderá amortizar as acções detidas com infracção do disposto no n.º 5 do artigo 6.º, ou quaisquer acções da classe A que forem penhoradas, arrestadas, arroladas, incluídas na massa falida ou, em geral, forem apreendidas no âmbito de qualquer acção judicial ou estiverem em condições de ser transmitidas judicialmente.
 
@@ -332,7 +372,7 @@ A sociedade pode participar em quaisquer outras sociedades ou entidades legais c
 
 3 - A assembleia geral que deliberar a amortização nos termos dos números anteriores deliberará também o aumento do capital social por emissão de acções da classe A, de modo a restabelecer a percentagem para esta classe de acções prevista no n.º 2 do artigo 6.º
 
-###### Artigo 11.º
+Artigo 11.º
 
 1 - Poderão ser emitidas obrigações em qualquer das modalidades admitidas por lei, mediante deliberação dos accionistas ou deliberação do conselho de administração.
 
@@ -340,29 +380,35 @@ A sociedade pode participar em quaisquer outras sociedades ou entidades legais c
 
 3 - O empréstimo obrigacionista deverá estar integralmente reembolsado até ao termo do contrato de concessão.
 
-### CAPÍTULO IV — Órgãos sociais
+CAPÍTULO IV
 
-#### SECÇÃO I — Disposições gerais
+Órgãos sociais
 
-###### Artigo 12.º
+SECÇÃO I
+
+Disposições gerais
+
+Artigo 12.º
 
 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o revisor oficial de contas, ou a sociedade de revisores de contas, designada pela assembleia geral.
 
 2 - Os membros da mesa da assembleia geral e os demais órgãos sociais são eleitos em assembleia geral por períodos de três anos, podendo ser reconduzidos uma ou mais vezes, contando-se como completo o ano civil em que foram eleitos.
 
-###### Artigo 13.º
+Artigo 13.º
 
 Uma minoria de accionistas que tenha votado contra a proposta que fez vencimento na eleição dos administradores tem direito a designar um administrador, contanto que essa minoria represente, pelo menos, 10% do capital social.
 
-#### SECÇÃO II — Assembleia geral
+SECÇÃO II
 
-###### Artigo 14.º
+Assembleia geral
+
+Artigo 14.º
 
 1 - Os accionistas com direito a voto poderão participar nas assembleias gerais, desde que as suas acções estejam registadas ou, no caso de acções ao portador não registadas, depositadas numa instituição de crédito ou na sociedade até 10 dias antes daquele em que a assembleia geral deva reunir em 1.ª convocatória.
 
 2 - A representação de accionistas em assembleia geral poderá fazer-se em qualquer pessoa, sendo instrumento suficiente de representação uma carta dirigida ao presidente da mesa da assembleia geral.
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - A mesa da assembleia é constituída por um presidente, um vice-presidente e um secretário.
 
@@ -370,13 +416,13 @@ Uma minoria de accionistas que tenha votado contra a proposta que fez vencimento
 
 3 - O presidente é substituído, nas suas faltas e impedimentos, pelo vice-presidente.
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - A assembleia geral reunirá no 1.º trimestre subsequente ao encerramento do exercício anterior.
 
 2 - A assembleia geral reunirá ainda sempre que o queiram o conselho de administração, o revisor oficial de contas ou os accionistas que representem, pelo menos, 5% do capital social.
 
-###### Artigo 17.º
+Artigo 17.º
 
 1 - As reuniões da assembleia geral serão convocadas com a antecedência e nos termos previstos na lei, podendo a convocação ser efectuada por carta registada em substituição da publicação da convocatória enquanto forem nominativas todas as acções da sociedade.
 
@@ -384,7 +430,7 @@ Uma minoria de accionistas que tenha votado contra a proposta que fez vencimento
 
 3 - No aviso convocatório poderá logo fixar-se uma data alternativa para a reunião da assembleia geral, para o caso de a mesma não poder reunir na data inicialmente marcada por falta de quórum constitutivo, devendo entre as duas datas indicadas mediar mais de 15 dias.
 
-###### Artigo 18.º
+Artigo 18.º
 
 1 - Os accionistas podem deliberar sobre todos os assuntos que não sejam da competência exclusiva de outros órgãos sociais.
 
@@ -408,9 +454,11 @@ h) Fixar as remunerações dos membros do conselho de administração, podendo e
 
 3 - Salvo quando a lei ou os presentes estatutos exijam maioria qualificada superior, as deliberações da assembleia geral são tomadas com os votos correspondentes a acções que representem mais de 50% do capital social.
 
-#### SECÇÃO III — Administração da sociedade
+SECÇÃO III
 
-###### Artigo 19.º
+Administração da sociedade
+
+Artigo 19.º
 
 1 - A administração da sociedade será exercida por um conselho de administração, composto por três membros.
 
@@ -418,15 +466,15 @@ h) Fixar as remunerações dos membros do conselho de administração, podendo e
 
 3 - A responsabilidade dos administradores poderá ser dispensada de caução por deliberação da assembleia geral.
 
-###### Artigo 20.º
+Artigo 20.º
 
 O conselho de administração terá os poderes de gestão e representação da sociedade que lhe forem cometidos por lei, pelos presentes estatutos e pelas deliberações dos accionistas.
 
-###### Artigo 21.º
+Artigo 21.º
 
 O conselho de administração poderá delegar num administrador executivo a gestão corrente da sociedade, devendo a deliberação de delegação fixar os limites da mesma.
 
-###### Artigo 22.º
+Artigo 22.º
 
 1 - A sociedade obriga-se perante terceiros:
 
@@ -438,7 +486,7 @@ c) Pela assinatura de procuradores quanto aos actos ou categorias de actos defin
 
 2 - Nos documentos de mero expediente e quando se trate de endosso de letras, recibos, cheques ou quaisquer outros documentos cujo produto de desconto se destine a ser creditado em conta da sociedade aberta em qualquer instituição financeira, basta a assinatura de um administrador ou de quem para tanto for mandatado.
 
-###### Artigo 23.º
+Artigo 23.º
 
 1 - O conselho de administração reúne sempre que for convocado pelo presidente ou por dois administradores.
 
@@ -446,7 +494,7 @@ c) Pela assinatura de procuradores quanto aos actos ou categorias de actos defin
 
 3 - Os membros do conselho de administração serão convocados por escrito com a antecedência mínima de cinco dias, salvo se a totalidade dos administradores estiver presente ou representada, ou se tratar de reuniões com periodicidade fixa estabelecida em acta anterior e devidamente aprovada, casos em que é dispensada a convocatória.
 
-###### Artigo 24.º
+Artigo 24.º
 
 1 - O conselho de administração não poderá deliberar sem que esteja presente ou representada a maioria dos seus membros.
 
@@ -456,15 +504,19 @@ c) Pela assinatura de procuradores quanto aos actos ou categorias de actos defin
 
 4 - Qualquer administrador poderá votar por correspondência, podendo a respectiva carta ser enviada por telecópia.
 
-#### SECÇÃO IV — Fiscalização da sociedade
+SECÇÃO IV
 
-###### Artigo 25.º
+Fiscalização da sociedade
+
+Artigo 25.º
 
 A fiscalização da sociedade compete a um revisor oficial de contas ou à sociedade de revisores oficiais de contas.
 
-### CAPÍTULO IV — Disposições finais
+CAPÍTULO IV
 
-###### Artigo 26.º
+Disposições finais
+
+Artigo 26.º
 
 1 - O ano social coincide com o ano civil.
 

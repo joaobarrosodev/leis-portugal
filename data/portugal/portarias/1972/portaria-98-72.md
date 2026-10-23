@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/98-1972-399071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:58:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1ae4734fd9075eae5dd5d44f3f7510c8f3fc28d4dde3d8785650115cb2c9c73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55334f12c35fc0fba1739f597dd7d4141ce3420a2922717b174561d48813063c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:58:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:675860:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:644570:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:58:40Z'
   warnings: []
   errors: []
 ---
@@ -111,4 +115,4 @@ b) Com as dimensões de 34,5 mm x 25,6 mm e denteado de 13,5:
 
 O prazo para troca dos selos sobrantes no 3.º Depósito Central dos CTT termina, conforme estabelecido no n.º 4 da [Portaria n.º 266/71](https://diariodarepublica.pt/dr/detalhe/portaria/266-1971-644570), em 31 de Março de 1973.
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

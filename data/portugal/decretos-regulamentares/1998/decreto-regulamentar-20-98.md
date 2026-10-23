@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/20/1998/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1998-567700
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e6afa019425a1ab6f46409d8945888eb6392838967ecf31e2c58163fddaf79d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 248bbfd7dcadd34ec1c2e4c26ce09bf863aef6f9fd5083621399a87f7e1471bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação do Pessoal
+- Dados Pessoais
 - Polícia Marítima
 - Regulamento
 - Regulamento de Avaliação Individual do Desempenho do Pessoal da Polícia Marítima
-- Avaliação do Pessoal
-- Dados Pessoais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/248/1995/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/248/1995/09/21/p/dre
+- type: cites
+  target: pt:dre:566656:por
+  label: null
+  source: null
 article_structure:
   article_count: 25
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:19Z'
   warnings: []
   errors: []
 ---
@@ -113,13 +117,13 @@ Presidência do Conselho de Ministros, 9 de Julho de 1998.
 
 António Manuel de Oliveira Guterres - José Veiga Simão.
 
-**Promulgado em 18 de Agosto de 1998.**
+Promulgado em 18 de Agosto de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Agosto de 1998.**
+Referendado em 20 de Agosto de 1998.
 
 Pelo Primeiro-Ministro, Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros.
 

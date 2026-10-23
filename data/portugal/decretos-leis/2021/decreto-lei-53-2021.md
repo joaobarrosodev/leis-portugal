@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11500/0000600026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/53/2021/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9444a198189a0c495b9be258da1fecfd54e0696a5f26881e89655f87cd377523
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9571d058da4d4e23ec499b7b2512772d12ed9c014533c5ab5eab19e55357f4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Médico
 - Carreira Médica de Medicina Legal
-- Instituto Nacional de Medicina Legal
+- Catástrofe
+- Contratação de Pessoal
 - Contrato de Prestação de Serviços
-- Informação Médica
+- Dados Pessoais
 - Definição de Competências
 - Despesas de Deslocação
+- Exame Médico
 - Exame Médico-forense
-- Catástrofe
 - Gabinete Médico-legal
-- Pagamento
+- Gestão de Recursos Humanos
 - Horário de Funcionamento
+- Informação de Saúde
+- Informação Médica
 - Instituto de Gestão Financeira e Equipamentos da Justiça
+- Instituto Nacional de Medicina Legal
 - Instituto Nacional de Medicina Legal e Ciências Forenses
 - Medicina Legal
-- Contratação de Pessoal
-- Exame Médico
+- Médico
+- Óbito
+- Pagamento
 - Preço
 - Regime Jurídico
-- Informação de Saúde
 - Regulamento CE
 - Relatório Pericial
 - Serviço Urgente
 - Serviços Médico-legais
-- Gestão de Recursos Humanos
-- Dados Pessoais
-- Óbito
 relationships:
 - type: cites
   target: celex:32016R0679
@@ -139,15 +139,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/685/2005/08/18/p/dre
 article_structure:
-  article_count: 61
+  article_count: 42
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:51Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +192,9 @@ Os artigos 1.º a 3.º, 5.º, 7.º a 11.º, 13.º, 15.º, 16.º, 18.º, 19.º, 2
 
 A presente lei estabelece o regime jurídico da realização das perícias médico-legais e forenses, doravante designadas por perícias.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - As perícias são realizadas, obrigatoriamente, nas delegações e nos gabinetes médico-legais e forenses do Instituto Nacional de Medicina Legal e Ciências Forenses, I. P. (INMLCF, I. P.), nos termos dos respetivos estatutos.
 
@@ -208,13 +210,17 @@ A presente lei estabelece o regime jurídico da realização das perícias médi
 
 7 - Às perícias e exames previstos no número anterior deve ser atribuída natureza urgente.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - As perícias solicitadas por autoridade judiciária ou judicial são ordenadas por despacho da mesma, nos termos da lei de processo, não sendo, todavia, aplicáveis às efetuadas nas delegações do INMLCF, I. P., ou nos gabinetes médico-legais e forenses as disposições contidas nos artigos 154.º e 155.º do Código de Processo Penal, aprovado pelo [Decreto-Lei n.º 78/87](https://diariodarepublica.pt/web/guest/pesquisa/-/search/662562/details/normal?l=1), de 17 de fevereiro, na sua redação atual, podendo contudo o examinado fazer-se acompanhar por uma pessoa da sua confiança para a realização do exame pericial, exceto em situações em que tal comprometa o objeto da perícia.
 
 2 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -228,7 +234,9 @@ A presente lei estabelece o regime jurídico da realização das perícias médi
 
 6 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -236,7 +244,9 @@ A presente lei estabelece o regime jurídico da realização das perícias médi
 
 3 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Pela realização dos exames e perícias requisitados aos serviços do INMLCF, I. P., ou por este deferidas às entidades indicadas nos n.os 2 e 5 do artigo 2.º são pagas ao INMLCF, I. P., as quantias previstas na [Portaria n.º 175/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/287153/details/normal?l=1), de 28 de abril.
 
@@ -252,11 +262,15 @@ A presente lei estabelece o regime jurídico da realização das perícias médi
 
 7 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 O INMLCF, I. P., pode celebrar protocolos com instituições públicas ou privadas ou celebrar contratos com médicos ou outros técnicos, nos termos do disposto nos artigos 28.º e 29.º, com vista à realização de exames periciais complementares e de exames complementares de diagnóstico requeridos pelas perícias efetuadas nos seus serviços.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -266,13 +280,17 @@ O INMLCF, I. P., pode celebrar protocolos com instituições públicas ou privad
 
 4 - O acesso previsto nos números anteriores é feito no estrito cumprimento do sigilo médico, do segredo profissional, do segredo de justiça e do regime de proteção de dados pessoais, previsto no [Regulamento (UE) 2016/679](https://diariodarepublica.pt/application/external/eurolex?16R0679) do Parlamento e do Conselho, de 27 de abril de 2016, e na [Lei n.º 58/2019](https://diariodarepublica.pt/web/guest/pesquisa/-/search/123815982/details/normal?l=1), de 8 de agosto.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Os médicos e outros técnicos envolvidos em investigação pericial de mortes que tenham resultado ou se suspeite terem resultado de crime doloso, quando devidamente identificados e em missão de serviço, têm direito de acesso às instalações públicas ou privadas onde decorra a investigação.
 
 2 - (Revogado.)
 
-###### Artigo 13.º — Realização de perícias urgentes e autópsias em dias não úteis
+Artigo 13.º
+
+Realização de perícias urgentes e autópsias em dias não úteis
 
 1 - [...].
 
@@ -288,7 +306,9 @@ O INMLCF, I. P., pode celebrar protocolos com instituições públicas ou privad
 
 7 - Ao INMLCF, I. P., ou aos médicos referidos no número anterior são devidas, por cada perícia médico-legal urgente efetuada, as remunerações previstas, respetivamente, na [Portaria n.º 175/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/287153/details/normal?l=1), de 28 de abril, ou na [Portaria n.º 685/2005](https://diariodarepublica.pt/web/guest/pesquisa/-/search/243277/details/normal?l=1), de 18 de agosto, que são consideradas custas do processo.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Nas situações de morte violenta ou de suspeita de morte violenta, bem como nas situações de morte cuja causa é ignorada, e quando o óbito for verificado em serviços e entidades públicas integrados no Serviço Nacional de Saúde ou em hospitais e serviços clínicos privados, deve o seu diretor ou diretor clínico:
 
@@ -300,7 +320,9 @@ b) [...].
 
 3 - Nos casos em que seja ordenada a realização de autópsia médico-legal, a autoridade judiciária envia ao serviço médico-legal, ou ao médico contratado nos termos do disposto nos artigos 28.º e 29.º que a vai realizar, juntamente com o despacho que a ordena, o número do boletim de informação clínica disponibilizado no Sistema de Informação dos Certificados de Óbito.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -328,7 +350,9 @@ b) [...].
 
 13 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -344,7 +368,9 @@ b) [...].
 
 7 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - As autópsias médico-legais são realizadas por um médico perito coadjuvado por um auxiliar de perícias tanatológicas e, se necessário, com a colaboração de um médico dentista perito para a realização de perícias de medicina dentária forense.
 
@@ -352,7 +378,9 @@ b) [...].
 
 3 - [...].
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...].
 
@@ -362,13 +390,17 @@ b) [...].
 
 4 - [...].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Os exames e perícias singulares de clínica médico-legal e forense solicitados pelas autoridades judiciárias de comarca compreendida na área de atuação de delegação do INMLCF, I. P., ou de gabinete médico-legal e forense em funcionamento são obrigatoriamente realizados por estes serviços médico-legais, nas suas instalações, exceto se o presidente do conselho diretivo do INMLCF, I. P., o diretor da delegação ou o coordenador do gabinete médico-legal e forense decidir a sua execução em local diferente.
 
 2 - [...].
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...].
 
@@ -378,13 +410,17 @@ b) [...].
 
 4 - Em tudo o que não estiver especialmente previsto no presente artigo aplica-se o disposto no artigo 159.º do Código de Processo Penal.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - A realização de perícias compete aos médicos integrados no mapa de pessoal do INMLCF, I. P., ou contratados nos termos definidos na presente lei, com a colaboração, se necessário, de médicos dentistas peritos para a realização de perícias de medicina dentária forense.
 
 2 - Podem, ainda, exercer funções periciais docentes ou investigadores, no âmbito de protocolos celebrados pelo INMLCF, I. P., com instituições de ensino superior públicas ou privadas.
 
-###### Artigo 28.º — Médicos a contratar para o exercício de funções periciais
+Artigo 28.º
+
+Médicos a contratar para o exercício de funções periciais
 
 1 - Os médicos não pertencentes ao mapa de pessoal do INMLCF, I. P., podem exercer, na sequência de procedimento trienal, funções periciais em regime de contrato de prestação de serviços.
 
@@ -400,7 +436,9 @@ b) [...].
 
 7 - O recurso a prestadores externos apenas pode ocorrer na impossibilidade da satisfação das necessidades periciais através do regime de produção adicional previsto no artigo seguinte.
 
-###### Artigo 29.º — Regime do exercício de funções periciais
+Artigo 29.º
+
+Regime do exercício de funções periciais
 
 1 - (Revogado.)
 
@@ -458,15 +496,15 @@ O disposto nos artigos 28.º e 29.º da [Lei n.º 45/2004](https://diariodarepub
 
 Visto e aprovado em Conselho de Ministros de 20 de maio de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Mário Belo Morgado - Alexandra Ludomila Ribeiro Fernandes Leitão.
 
-**Promulgado em 5 de junho de 2021.**
+Promulgado em 5 de junho de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de junho de 2021.**
+Referendado em 8 de junho de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -829,3 +867,5 @@ e) A [Portaria n.º 608/99](https://diariodarepublica.pt/web/guest/pesquisa/-/se
 1 - A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 2 - A disposição legal referida na alínea c) do artigo 33.º mantém-se transitoriamente em vigor até à publicação das portarias referidas no artigo 8.º
+
+114306417

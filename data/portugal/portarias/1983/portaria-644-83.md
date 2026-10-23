@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/12700/20412043.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/644-1983-451637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T07:45:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59d447ada429c4cfea0de7c0e140dfab06b05351501bbd64e090bfe63c146ce6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fc60c75f940c1d3670512fad0dc04c0112360601927c4144fb98017acfda2f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:45:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação do Pessoal
+- Força Aérea
+- Forças Armadas
+- Impresso
+- Militar
+- Sargento
+relationships:
+- type: cites
+  target: pt:dre:250053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388847:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:45:21Z'
   warnings: []
   errors: []
 ---
@@ -159,8 +177,8 @@ c) Se tiver apresentado exposição/reclamação:
 
 Ministério da Defesa Nacional.
 
-**Assinada em 10 de Maio de 1983.**
+Assinada em 10 de Maio de 1983.
 
-**O Ministro da Defesa Nacional, Ricardo Manuel Simões Bayão Horta.**
+O Ministro da Defesa Nacional, Ricardo Manuel Simões Bayão Horta.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/12700/20412043.pdf))](https://files.diariodarepublica.pt/1s/1983/06/12700/20412043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/12700/20412043.pdf)

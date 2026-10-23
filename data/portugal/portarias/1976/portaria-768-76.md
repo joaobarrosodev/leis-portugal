@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/768-1976-407566
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T05:12:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: affa44ba7d5615a6302451925ffb8c0f6185231a1a1dea0d158de197d792c908
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e79fe5c8ff9ea0e3f1dbbaa5eee62d4d598810f595ddea900788fc4b6926315d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:12:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Armazenagem
+- Embarcação
+- Junta Autónoma dos Portos do Distrito de Ponta Delgada
+- Preço
+- Prestação de Serviços
+- Regulamento
+- Taxa
+- Transporte de Carga
+relationships:
+- type: cites
+  target: pt:dre:235511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:12:37Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +110,9 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha 
 
 ...
 
-###### Art. 6.º Para efeitos de aplicação de taxas a comissão administrativa fixará as horas normais de serviço e as horas extraordinárias, consoante a lei e as necessidades de cada serviço.
+Art. 6.º Para efeitos de aplicação de taxas a comissão administrativa fixará as horas normais de serviço e as horas extraordinárias, consoante a lei e as necessidades de cada serviço.
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 ...
 
@@ -102,7 +122,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha 
 
 ...
 
-###### Art. 16.º As mercadorias cujo prazo de armazenagem exceda os limites máximos referidos no § 3.º do artigo 46.º consideram-se em condições de serem vendidas em leilão, observando-se os preceitos da legislação aduaneira em vigor.
+Art. 16.º As mercadorias cujo prazo de armazenagem exceda os limites máximos referidos no § 3.º do artigo 46.º consideram-se em condições de serem vendidas em leilão, observando-se os preceitos da legislação aduaneira em vigor.
 
 § 1.º ...
 
@@ -110,7 +130,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha 
 
 ...
 
-###### Art. 19.º A realização de quaisquer operações sem autorização prévia da Junta ou a desobediência ao que estiver determinado ficam sujeitas, nos casos não especificados neste regulamento, ao pagamento de multa, a fixar pela comissão administrativa, cujo montante variará entre 1000$00 e 50000$00, conforme a gravidade da falta ou desobediência.
+Art. 19.º A realização de quaisquer operações sem autorização prévia da Junta ou a desobediência ao que estiver determinado ficam sujeitas, nos casos não especificados neste regulamento, ao pagamento de multa, a fixar pela comissão administrativa, cujo montante variará entre 1000$00 e 50000$00, conforme a gravidade da falta ou desobediência.
 
 ...
 
@@ -122,7 +142,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha 
 
 ...
 
-###### Art. 25.º São isentos do pagamento da taxa de entrada e estacionamento no porto, desde que não afectem qualquer operação comercial:
+Art. 25.º São isentos do pagamento da taxa de entrada e estacionamento no porto, desde que não afectem qualquer operação comercial:
 
 ...
 
@@ -134,7 +154,7 @@ m) As embarcações que hajam sido concluídas no porto de Ponta Delgada, quando
 
 ...
 
-###### Art. 25.º-A. As embarcações referidas nas alíneas j) e l) do artigo anterior, quando acostadas, apenas são isentas de taxa de entrada e estacionamento durante o primeiro período de dez dias, pagando taxa normal durante os dois períodos seguintes e tripla daí em diante.
+Art. 25.º-A. As embarcações referidas nas alíneas j) e l) do artigo anterior, quando acostadas, apenas são isentas de taxa de entrada e estacionamento durante o primeiro período de dez dias, pagando taxa normal durante os dois períodos seguintes e tripla daí em diante.
 
 ...
 
@@ -142,7 +162,7 @@ m) As embarcações que hajam sido concluídas no porto de Ponta Delgada, quando
 
 ...
 
-###### Art. 27.º ...
+Art. 27.º ...
 
 § 1.º Nenhuma embarcação poderá acostar às obras marítimas da área de jurisdição da Junta Autónoma dos Portos do Distrito de Ponta Delgada ou mudar de local de acostagem sem prévia autorização do director dos Portos ou seus delegados.
 
@@ -154,7 +174,7 @@ m) As embarcações que hajam sido concluídas no porto de Ponta Delgada, quando
 
 ...
 
-###### Art. 29.º A taxa de acostagem, por cada período de vinte e quatro horas e por tonelada de arqueação bruta, é de $25.
+Art. 29.º A taxa de acostagem, por cada período de vinte e quatro horas e por tonelada de arqueação bruta, é de $25.
 
 § único. Gozam de uma redução de 50%:
 
@@ -166,7 +186,7 @@ c) As embarcações que acostarem para carregar ou descarregar menos de 5% do se
 
 d) As embarcações que acostem exclusivamente para meter água ou combustíveis para uso próprio, durante o período de tempo considerado necessário para a operação.
 
-###### Art. 30.º ...
+Art. 30.º ...
 
 a) Até 100 t a. b., por cada tonelada, 20$00;
 
@@ -174,7 +194,7 @@ b) Por cada tonelada acima das 100 t, 10$00.
 
 ...
 
-###### Art. 34.º São isentas da taxa de acostagem:
+Art. 34.º São isentas da taxa de acostagem:
 
 a) As embarcações de guerra nacionais;
 
@@ -198,7 +218,7 @@ g) As embarcações que acostem exclusivamente para desembarcar náufragos, trip
 
 ...
 
-###### Art. 36.º ...
+Art. 36.º ...
 
 § único. As mercadorias permanecem nos terraplenos e armazéns da Junta sob a responsabilidade dos seus proprietários ou seus representantes desde que ali sejam depositadas até ao seu levantamento. A Junta não é responsável pelos prejuízos causados às mercadorias durante as operações referidas no artigo 55.º, salvo nos casos de culpa ou negligência dos seus agentes.
 
@@ -206,11 +226,11 @@ g) As embarcações que acostem exclusivamente para desembarcar náufragos, trip
 
 ...
 
-###### Art. 38.º A taxa de utilização do porto aplicável à mercadoria classificada como carga geral, carregada, descarregada ou transbordada, é de 12$00 por tonelada ou metro cúbico.
+Art. 38.º A taxa de utilização do porto aplicável à mercadoria classificada como carga geral, carregada, descarregada ou transbordada, é de 12$00 por tonelada ou metro cúbico.
 
 ...
 
-###### Art. 40.º A taxa de utilização do porto estabelecida para a carga geral tem redução de:
+Art. 40.º A taxa de utilização do porto estabelecida para a carga geral tem redução de:
 
 a) 50% para as seguintes mercadorias:
 
@@ -250,11 +270,11 @@ Mercadorias de produção local exportadas.
 
 ...
 
-###### Art. 50.º Pela ocupação temporária dos terrenos litorais livres com mercadorias classificadas como carga geral, cobra-se:
+Art. 50.º Pela ocupação temporária dos terrenos litorais livres com mercadorias classificadas como carga geral, cobra-se:
 
 Por período de oito dias e metro quadrado, $20.
 
-###### Art. 51.º Pela ocupação temporária, a descoberto, dos cais e terraplenos da Junta com mercadorias classificadas como carga geral, cobra-se:
+Art. 51.º Pela ocupação temporária, a descoberto, dos cais e terraplenos da Junta com mercadorias classificadas como carga geral, cobra-se:
 
 a) Pelas primeiras vinte e quatro horas após a descarga (conforme artigo 41.º), grátis;
 
@@ -264,7 +284,7 @@ c) Por cada dia a mais, seguinte, até dez dias, por metro quadrado e dia, 2$00;
 
 d) Por cada dia a mais, além do período indicado na alínea c), por metro quadrado e dia, 3$00.
 
-###### Art. 52.º Pela ocupação temporária dos armazéns da Junta com mercadorias classificadas como carga geral, cobra-se:
+Art. 52.º Pela ocupação temporária dos armazéns da Junta com mercadorias classificadas como carga geral, cobra-se:
 
 a) Pelas primeiras vinte e quatro horas após a descarga, por tonelada ou metro cúbico, 2$00;
 
@@ -274,11 +294,11 @@ c) Por cada dia a mais, seguinte, até dez dias, por tonelada ou metro cúbico, 
 
 d) Por cada dia a mais, além do período da alínea c), por tonelada ou metro cúbico, 7$00.
 
-###### Art. 53.º Pela ocupação temporária dos cais e terraplenos ou dos armazéns da Junta com tambores metálicos, cascos ou pipas contendo mercadorias classificadas como carga geral, aplicam-se as taxas dos artigos 51.º e 52.º
+Art. 53.º Pela ocupação temporária dos cais e terraplenos ou dos armazéns da Junta com tambores metálicos, cascos ou pipas contendo mercadorias classificadas como carga geral, aplicam-se as taxas dos artigos 51.º e 52.º
 
-###### Art. 54.º Os locais de depósito nos terraplenos e nos armazéns são indicados pelos agentes da Junta.
+Art. 54.º Os locais de depósito nos terraplenos e nos armazéns são indicados pelos agentes da Junta.
 
-###### Art. 55.º Para a obtenção de áreas de segurança necessárias à realização de determinadas operações portuárias ou quando o período de armazenagem exceder o prazo máximo fixado no § 3.º do artigo 46.º poderá o director do porto determinar a remoção de lotes de mercadorias nos terraplenos ou armazéns para outros locais dos terraplenos ou armazéns. Quando a empresa que realiza as operações de tráfego e arrumação de mercadorias nos terraplenos ou armazéns ou o carregador/recebedor, notificados para executar essa remoção, a não realizem, a Junta poderá executá-la ou mandar executar, sendo da conta da empresa ou do carregador/recebedor o pagamento de todas as despesas correspondentes a essa remoção.
+Art. 55.º Para a obtenção de áreas de segurança necessárias à realização de determinadas operações portuárias ou quando o período de armazenagem exceder o prazo máximo fixado no § 3.º do artigo 46.º poderá o director do porto determinar a remoção de lotes de mercadorias nos terraplenos ou armazéns para outros locais dos terraplenos ou armazéns. Quando a empresa que realiza as operações de tráfego e arrumação de mercadorias nos terraplenos ou armazéns ou o carregador/recebedor, notificados para executar essa remoção, a não realizem, a Junta poderá executá-la ou mandar executar, sendo da conta da empresa ou do carregador/recebedor o pagamento de todas as despesas correspondentes a essa remoção.
 
 ## TÍTULO IV — Ocupação de terraplenos, terrenos litorais ou marginais e de outros terrenos
 
@@ -288,31 +308,31 @@ d) Por cada dia a mais, além do período da alínea c), por tonelada ou metro c
 
 ...
 
-###### Art. 57.º Pela ocupação de terraplenos do porto com armazéns, edifícios e instalações comerciais ou industriais cobra-se a seguinte taxa:
+Art. 57.º Pela ocupação de terraplenos do porto com armazéns, edifícios e instalações comerciais ou industriais cobra-se a seguinte taxa:
 
 Por metro quadrado e ano, 12$00.
 
-###### Art. 58.º Pela ocupação dos terraplenos do porto com depósitos ou vedações para minérios, carvão, madeira, cortiça ou para quaisquer outros materiais ou matérias-primas cobra-se:
+Art. 58.º Pela ocupação dos terraplenos do porto com depósitos ou vedações para minérios, carvão, madeira, cortiça ou para quaisquer outros materiais ou matérias-primas cobra-se:
 
 Por metro quadrado e ano, 12$00.
 
-###### Art. 58.º-A. Pela ocupação de terraplenos do porto com transportadores terrestres de qualquer tipo cobrar-se-á, por metro quadrado e por mês, a taxa de 4$00.
+Art. 58.º-A. Pela ocupação de terraplenos do porto com transportadores terrestres de qualquer tipo cobrar-se-á, por metro quadrado e por mês, a taxa de 4$00.
 
 § único. ...
 
-###### Art. 59.º Pela ocupação de terrenos nas rampas de construção naval cobra-se:
+Art. 59.º Pela ocupação de terrenos nas rampas de construção naval cobra-se:
 
 Por metro quadrado e ano, 6$00.
 
 ### CAPÍTULO III — Ocupação de terrenos litorais ou marginais
 
-###### Art. 60.º Pela ocupação de terrenos litorais ou marginais com edifícios, vedações ou depósitos de qualquer natureza e ainda com cais, pontes-cais, estacadas, duques-de-alba, rampas, empedrados ou quaisquer outras obras construídas para uso das entidades particulares, e enquanto estas usufruírem tal regalia, cobra-se:
+Art. 60.º Pela ocupação de terrenos litorais ou marginais com edifícios, vedações ou depósitos de qualquer natureza e ainda com cais, pontes-cais, estacadas, duques-de-alba, rampas, empedrados ou quaisquer outras obras construídas para uso das entidades particulares, e enquanto estas usufruírem tal regalia, cobra-se:
 
 Por metro quadrado e ano, 4$00.
 
 ### CAPÍTULO IV — Ocupação de outros terrenos
 
-###### Art. 61.º Pela ocupação de outros terrenos sob a jurisdição da Junta com edificações, vedações ou depósitos de qualquer natureza cobra-se:
+Art. 61.º Pela ocupação de outros terrenos sob a jurisdição da Junta com edificações, vedações ou depósitos de qualquer natureza cobra-se:
 
 Por metro quadrado e ano, 2$00.
 
@@ -322,7 +342,7 @@ Por metro quadrado e ano, 2$00.
 
 ...
 
-###### Art. 63.º Pela utilização de guindastes, transportadores e outros aparelhos de carga e descarga da Junta são cobradas as seguintes taxas, por hora ou fracção, dentro da área do porto:
+Art. 63.º Pela utilização de guindastes, transportadores e outros aparelhos de carga e descarga da Junta são cobradas as seguintes taxas, por hora ou fracção, dentro da área do porto:
 
 a) Guindastes:
 
@@ -382,7 +402,7 @@ Bombas eléctricas de mais de duas polegadas de diâmetro ... 180$00
 
 ### CAPÍTULO III — Utilização de rebocadores
 
-###### Art. 70.º Pela utilização de rebocadores ou lanchas eventualmente efectuando serviço de reboque em operações de atracação, de desatracação, de amarração e de desamarração de navios a quaisquer instalações fixas ou flutuantes, é cobrada, por cada unidade empregada, a taxa, dada em escudos, pelas seguintes expressões:
+Art. 70.º Pela utilização de rebocadores ou lanchas eventualmente efectuando serviço de reboque em operações de atracação, de desatracação, de amarração e de desamarração de navios a quaisquer instalações fixas ou flutuantes, é cobrada, por cada unidade empregada, a taxa, dada em escudos, pelas seguintes expressões:
 
 Navios até 500 T - 750.
 
@@ -434,7 +454,7 @@ Esta taxa não é aplicável dentro das horas normais de serviço, em dias útei
 
 § 11.º Quando se trate de serviços especiais, tais como salvamentos, assistência a navios em perigo, incêndio a bordo, água aberta, a todos aqueles que não sejam especificadamente de reboque a navios para as manobras de atracação e desatracação, dentro do porto de Ponta Delgada, será acordada uma tarifa especial entre a comissão administrativa da Junta e o requisitante.
 
-###### Art. 70.º Pela utilização das lanchas a motor serão cobradas, por hora de serviço, as seguintes taxas:
+Art. 70.º Pela utilização das lanchas a motor serão cobradas, por hora de serviço, as seguintes taxas:
 
 Lanchas até 50 H. P. ... 300$00
 
@@ -450,7 +470,7 @@ Lanchas acima de 100 H. P. ... 650$00
 
 ### CAPÍTULO V — Básculas e balanças
 
-###### Art. 76.º Pela utilização das básculas do porto serão cobradas as seguintes taxas:
+Art. 76.º Pela utilização das básculas do porto serão cobradas as seguintes taxas:
 
 a) Por cada pesagem de automóvel, camioneta ou camião, tractor ou outros volumes ... 10$00
 
@@ -462,7 +482,7 @@ c) Por cada tonelada ou fracção de carga registada ... 2$00
 
 ### CAPÍTULO IX — Entrada nos recintos reservados e nos terraplenos
 
-###### Art. 86.º A entrada nos recintos reservados do porto ou nos terraplenos fica sujeita ao pagamento das seguintes taxas:
+Art. 86.º A entrada nos recintos reservados do porto ou nos terraplenos fica sujeita ao pagamento das seguintes taxas:
 
 Por cada veículo de carga até 1500 kg ... 5$00
 
@@ -490,7 +510,7 @@ A Junta poderá conceder, em casos especiais, autorizações para entrada gratui
 
 ### CAPÍTULO XII — Defensas
 
-###### Art. 89.º Pela utilização de defensas será cobrada a seguinte taxa por cada período de vinte e quatro horas ou fracção:
+Art. 89.º Pela utilização de defensas será cobrada a seguinte taxa por cada período de vinte e quatro horas ou fracção:
 
 Por cada unidade ... 120$00
 
@@ -498,7 +518,7 @@ Por cada unidade ... 120$00
 
 ### CAPÍTULO XIII — Arganéus e postes de amarração
 
-###### Art. 90.º As embarcações que para a sua amarração tiverem que se servir dos arganéus e cabeços fixados nos muros-cais pagarão, por cada arganéu ou cabeço utilizado, por tonelada de arqueação bruta e período de vinte e quatro horas:
+Art. 90.º As embarcações que para a sua amarração tiverem que se servir dos arganéus e cabeços fixados nos muros-cais pagarão, por cada arganéu ou cabeço utilizado, por tonelada de arqueação bruta e período de vinte e quatro horas:
 
 Embarcações até 2000 tAB, $02 por tAB.
 
@@ -506,7 +526,7 @@ Embarcações de mais de 2000 tAB, 40$00 mais $01 por tAB que exceda as 2000 tAB
 
 ### CAPÍTULO XIV — Pranchas
 
-###### Art. 91.º Pela utilização de pranchas serão cobradas as seguintes taxas, por período de vinte e quatro horas ou fracção:
+Art. 91.º Pela utilização de pranchas serão cobradas as seguintes taxas, por período de vinte e quatro horas ou fracção:
 
 Pranchas com cavalete ... 150$00
 
@@ -518,7 +538,7 @@ Pranchas sem cavalete ... 100$00
 
 ### CAPÍTULO XVIII — Serviço de amarrar e desamarrar espias
 
-###### Art. 95.º Pelo serviço de amarrar e desamarrar espias em circunstâncias normais de tempo serão cobradas as seguintes taxas, por cada espia:
+Art. 95.º Pelo serviço de amarrar e desamarrar espias em circunstâncias normais de tempo serão cobradas as seguintes taxas, por cada espia:
 
 Espias até 5 polegadas de perímetro ... 40$00
 
@@ -536,13 +556,13 @@ Espias de perímetro superior a 9 polegadas ... 60$00
 
 ### CAPÍTULO I — Fornecimento de energia eléctrica
 
-###### Art. 107.º Pelo fornecimento de energia eléctrica nos terraplenos do porto ou a bordo das embarcações será cobrada uma taxa designada por «taxa de fornecimento de energia», ao preço de 4$00 por kilowatt-hora.
+Art. 107.º Pelo fornecimento de energia eléctrica nos terraplenos do porto ou a bordo das embarcações será cobrada uma taxa designada por «taxa de fornecimento de energia», ao preço de 4$00 por kilowatt-hora.
 
 ...
 
 ### CAPÍTULO IV — Comunicações
 
-###### Art. 113.º Pela instalação de telefone a bordo das embarcações será cobrada, por cada ligação, a taxa de 100$00.
+Art. 113.º Pela instalação de telefone a bordo das embarcações será cobrada, por cada ligação, a taxa de 100$00.
 
 § 1.º São da conta do requisitante todas as chamadas, tanto automáticas como interurbanas, para liquidação das quais a Junta apresentará a correspondente factura elaborada com base em elementos fornecidos pelos contadores de chamadas instalados no PBX da Junta para as chamadas automáticas e por elementos fornecidos pela estação dos CTT para as interurbanas.
 
@@ -552,7 +572,7 @@ Espias de perímetro superior a 9 polegadas ... 60$00
 
 ### CAPÍTULO V — Fornecimento de água
 
-###### Art. 115.º-D. Fora das horas normais de serviço ou aos sábados, domingos, feriados e equiparados. o fornecimento de água às embarcações só será efectuado mediante prévio aviso dos interessados.
+Art. 115.º-D. Fora das horas normais de serviço ou aos sábados, domingos, feriados e equiparados. o fornecimento de água às embarcações só será efectuado mediante prévio aviso dos interessados.
 
 § único. Estes fornecimentos serão efectuados de acordo com as taxas fixadas no artigo 115.º-A, acrescidos das taxas de fornecimento do pessoal que intervier no fornecimento, calculadas nos termos do artigo 112.º
 
@@ -562,7 +582,7 @@ Espias de perímetro superior a 9 polegadas ... 60$00
 
 ...
 
-###### Art. 137.º Compete à Junta, nos termos legais, licenciar os actos a praticar na área da sua jurisdição, referidos nos n.os 1, 2, 5, 7, 8, 11, 12, 17, 19, 20 e 24 da alínea ss) do n.º 1 do artigo 10.º do Regulamento Geral das Capitanias, aprovado pelo [Decreto-Lei n.º 265/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1972-408513), de 31 de Julho.
+Art. 137.º Compete à Junta, nos termos legais, licenciar os actos a praticar na área da sua jurisdição, referidos nos n.os 1, 2, 5, 7, 8, 11, 12, 17, 19, 20 e 24 da alínea ss) do n.º 1 do artigo 10.º do Regulamento Geral das Capitanias, aprovado pelo [Decreto-Lei n.º 265/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1972-408513), de 31 de Julho.
 
 § 1.º Até à revisão do Regulamento Geral das Capitanias, as actividades indicadas sob o n.º 20 da alínea ss), referidas neste artigo, quando requeridas para praias de banhos, serão licenciadas pelas autoridades marítimas, sob parecer das autoridades portuárias.
 
@@ -572,7 +592,7 @@ Espias de perímetro superior a 9 polegadas ... 60$00
 
 ...
 
-###### Art. 143.º Impressos:
+Art. 143.º Impressos:
 
 Por cada meia folha de formato A4 ou fracção ... 3$00
 

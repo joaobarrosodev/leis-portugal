@@ -47,36 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/806-1974-467202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T04:36:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62c7c485f2c923c09c893e69663543c955ba32f3d52d42418841428060c8d9b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05e01397f341861b26436d5adf0de7bca26f069b1dd9a407b218d67974460777
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:36:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Academia Militar
+- Ensino Superior
+- Estabelecimento de Ensino
+- Forças Armadas
+- Ministro do Exército
+- Regulamentação de Atos Legislativos
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:147838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665150:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:36:20Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +124,7 @@ Manda o Conselho dos Chefes dos Estados-Maiores das Forças Armadas, pelo Chefe 
 
 1.º Os artigos 53.º, 55.º, 56.º, 57.º e 59.º do [Decreto-Lei n.º 42151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42151-1959-590727), de 12 de Fevereiro de 1959, alterados pelo [Decreto-Lei n.º 516/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1970-147838), de 3 de Novembro, passam a ter a seguinte redacção:
 
-###### Art. 53.º ...
+Art. 53.º ...
 
 § 1.º Os exames finais das cadeiras semestrais de cunho essencialmente prático podem ser substituídos por trabalhos a efectuar sobre assuntos dos respectivos programas e o aproveitamento ser avaliado unicamente pela respectiva classificação de frequência, conforme se fixar nos planos de curso.
 
@@ -115,7 +138,7 @@ Manda o Conselho dos Chefes dos Estados-Maiores das Forças Armadas, pelo Chefe 
 
 ...
 
-###### Art. 55.º Perdem o ano:
+Art. 55.º Perdem o ano:
 
 a) Os alunos frequentando a Academia Militar em regime de internato obrigatório que tenham obtido:
 
@@ -163,7 +186,7 @@ Estas classificações, quando melhoradas, passam a ser as consideradas nos grup
 
 § 4.º É condição de aprovação no exame final de qualquer cadeira sujeita a este exame a obtenção da classificação mínima de 10 valores na respectiva prova oral, sempre que a houver.
 
-###### Art. 56.º Os alunos frequentando as aulas da Academia Militar que em cada época normal de exames tenham ficado reprovados no exame final de uma ou duas cadeiras e uma língua estrangeira repetem os exames finais respectivos nas épocas de recurso.
+Art. 56.º Os alunos frequentando as aulas da Academia Militar que em cada época normal de exames tenham ficado reprovados no exame final de uma ou duas cadeiras e uma língua estrangeira repetem os exames finais respectivos nas épocas de recurso.
 
 § 1.º São épocas de recurso: para as cadeiras semestrais do 1.º semestre (1.º período da 1.ª parte), a época de exames do 2.º semestre desse ano; para as cadeiras anuais, para as semestrais do 2.º semestre (2.º período da 1.ª parte) e para as línguas estrangeiras, a última quinzena de Setembro.
 
@@ -173,7 +196,7 @@ Estas classificações, quando melhoradas, passam a ser as consideradas nos grup
 
 § 4.º Os alunos do curso de Aeronáutica que na época normal não obtenham informação favorável na instrução de pilotagem e que não tenham perdido o ano naquela época recebem esta instrução durante as férias grandes, se esta lhes puder ser ministrada, conforme o disposto no § 3.º do artigo 23.º Se ainda não obtiverem informação favorável, perdem o ano.
 
-###### Art. 57.º Relativamente aos cursos frequentados na Academia Militar, além das dispensas de exames a que se refere o artigo 53.º são também concedidas dispensas de exames finais nos seguintes casos:
+Art. 57.º Relativamente aos cursos frequentados na Academia Militar, além das dispensas de exames a que se refere o artigo 53.º são também concedidas dispensas de exames finais nos seguintes casos:
 
 a) Os alunos que se encontrem em condições de serem admitidos a exame final das diferentes cadeiras são dispensados de exame daquelas em que tenham obtido média de frequência igual ou superior a 12 valores.
 
@@ -187,7 +210,7 @@ c) ...
 
 ...
 
-###### Art. 59.º A classificação na parte escolar do curso da Academia Militar é a média aritmética, arredondada até às centésimas, das classificações de cada ano do curso, tendo em atenção as disposições contidas na alínea h) do § 1.º do artigo 52.º
+Art. 59.º A classificação na parte escolar do curso da Academia Militar é a média aritmética, arredondada até às centésimas, das classificações de cada ano do curso, tendo em atenção as disposições contidas na alínea h) do § 1.º do artigo 52.º
 
 A classificação e a ordenação dos alunos em cada ano serão consideradas em regulamento.
 

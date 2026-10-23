@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 224/1999, 1º Suplemento, Série I-A de 1999-09-24
   number: '224'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6652-(2) a 6652-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/09/224a01/00020008.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/384-a/1999/09/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-a-1999-662081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:11:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eadf653dc7054872158bdfdc6eac9ed5a62ad7849c2a38b249aa7c019b63a79c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd540bb3421bf60ff22d17b5763a2c88c98e7dda8da7f236940a6f451e481ecb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:11:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ subjects:
 - Administração do Porto de Sines
 - Contentor
 - Contrato
-- Serviço Público
 - Portos
+- Serviço Público
 - Sines
 - Terminal de Carga
 relationships:
@@ -78,20 +78,31 @@ relationships:
   target: pt:dre:123891091:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123891091:por
+  label: Alterado o art. 2.º, as bases I, III, XI, XII, XIII, XVII, XIX e XXVIII, bem como os anexos I e II às bases de concessão
+    aprovadas em anexo e revogada a base XV e o n.º 2 da base XIX, aprovadas em anexo ao presente Diploma, pelo(a) Decreto-Lei
+    n.º 107/2019 - Diário da República n.º 153/2019, Série I de 2019-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2019-123891091
+  date: '2019-08-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/82/1998/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/1998/07/10/p/dre
+- type: cites
+  target: pt:dre:485030:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:11:37Z'
   warnings: []
   errors: []
 ---
@@ -140,21 +151,23 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Setembro de 1999. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho.
 
-**Promulgado em 17 de Setembro de 1999.**
+Promulgado em 17 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Setembro de 1999.**
+Referendado em 20 de Setembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 Bases da concessão
 
 ### CAPÍTULO I — Objecto e tipo da concessão
 
-###### Base I — Definições
+Base I
+
+Definições
 
 Nas presentes bases entende-se por:
 
@@ -174,7 +187,9 @@ g) 1.ª fase: conjunto de investimentos em equipamento e infra-estruturas do ter
 
 h) 2.ª fase: conjunto de investimentos que a concessionária pode ser obrigada a realizar após o fim da 1.ª fase, nos termos descritos na base XI.
 
-###### Base II — Objecto
+Base II
+
+Objecto
 
 1 - A concessão tem por objecto a exploração, em regime de serviço público, de um terminal específico para a movimentação de contentores no porto de Sines, implicando a construção pela concessionária das respectivas infra-estruturas portuárias e terrestres, instalações e equipamentos, conforme o disposto nas presentes bases de concessão.
 
@@ -184,17 +199,23 @@ h) 2.ª fase: conjunto de investimentos que a concessionária pode ser obrigada 
 
 4 - A exploração do serviço concedido exclui as actividades respeitantes à movimentação e segurança dos navios, designadamente o estacionamento, a atracação e a desatracação, as quais são da responsabilidade da Administração do Porto de Sines, que, pelos serviços prestados, cobrará as taxas constantes do seu regulamento de tarifas.
 
-###### Base III — Exclusivo
+Base III
+
+Exclusivo
 
 1 - A concessão é estabelecida em regime de exclusivo no que respeita à exploração de um terminal específico para a movimentação de contentores na área sob jurisdição da Administração do Porto de Sines.
 
 2 - Será permitida a movimentação de contentores nos restantes cais do porto de Sines, nos termos das concessões existentes, bem como a carga e descarga em sistema de roll on/roll off, a qual não poderá, no entanto, afectar a actividade normal do terminal.
 
-###### Base IV — Área afecta à concessão
+Base IV
+
+Área afecta à concessão
 
 A área afecta à concessão está definida e identificada na planta constante do anexo I, designada como «área afecta à concessão», incluindo os respectivos terraplenos.
 
-###### Base V — Bens que integram a concessão
+Base V
+
+Bens que integram a concessão
 
 Os bens que integram a concessão são os seguintes:
 
@@ -202,7 +223,9 @@ a) O estabelecimento físico da concessão, definido na base VI; e
 
 b) Todas as máquinas, gruas, pórticos, equipamentos, aparelhagens, acessórios e, em geral, quaisquer outros bens directamente afectos à exploração do terminal.
 
-###### Base VI — Estabelecimento físico da concessão
+Base VI
+
+Estabelecimento físico da concessão
 
 O estabelecimento físico da concessão é constituído pelas infra-estruturas portuárias seguintes:
 
@@ -210,7 +233,9 @@ a) Infra-estruturas terrestres: áreas de terraplenos de jurisdição da APS int
 
 b) Infra-estruturas marítimas: cais acostável a construir pela concessionária nos termos da base X, bem como as obras que aí venham a ser realizadas pela concessionária de acordo com o plano da concessão.
 
-###### Base VII — Regime dos bens que compõem o estabelecimento físico da concessão
+Base VII
+
+Regime dos bens que compõem o estabelecimento físico da concessão
 
 1 - As infra-estruturas terrestres que integram o estabelecimento físico da concessão pertencem ao domínio público da concedente.
 
@@ -224,13 +249,17 @@ b) Infra-estruturas marítimas: cais acostável a construir pela concessionária
 
 ### CAPÍTULO II — Projecto e construção do terminal
 
-###### Base VIII — Quebra-mar
+Base VIII
+
+Quebra-mar
 
 1 - A construção do quebra-mar de protecção, representado no anexo I, será encargo da concedente, devendo a concessionária suportar uma parte dos respectivos custos, nos termos a fixar no contrato de concessão.
 
 2 - A construção do quebra-mar será feita de acordo com o faseamento previsto na base IX.
 
-###### Base IX — Fases da construção do quebra-mar
+Base IX
+
+Fases da construção do quebra-mar
 
 A construção do quebra-mar será feita em duas fases, de acordo com o modelo que constará do contrato de concessão:
 
@@ -238,7 +267,9 @@ a) A 1.ª fase, numa extensão de 550 m, deverá estar concluída no momento do 
 
 b) A 2.ª fase, numa extensão de 300 m, deverá estar concluída no momento do início da exploração da 2.ª fase do terminal.
 
-###### Base X — Construção do terminal
+Base X
+
+Construção do terminal
 
 1 - A concepção e construção do terminal, incluindo o cais acostável, preparação dos terraplenos e a implantação de todas as obras e equipamentos fixos e móveis necessários à execução do serviço público concessionado, será da exclusiva responsabilidade da concessionária.
 
@@ -246,7 +277,9 @@ b) A 2.ª fase, numa extensão de 300 m, deverá estar concluída no momento do 
 
 3 - A concessionária assumirá inteira responsabilidade por todas as obras de reparação e conservação dos bens que integram o estabelecimento da concessão.
 
-###### Base XI — Fases da construção do terminal
+Base XI
+
+Fases da construção do terminal
 
 A construção do terminal será feita de modo faseado, nos termos seguintes:
 
@@ -258,7 +291,9 @@ c) Nos termos das condições a fixar no contrato de concessão, a concessionár
 
 d) Nos termos das condições a fixar no contrato de concessão, após a conclusão do troço do cais referido na alínea anterior, a concessionária construirá o troço indicado no anexo I como «fase 2B», com a extensão de 100 m, instalará o equipamento referido na base XIII e preparará os terraplenos contíguos a esse troço de cais indicados no mesmo anexo.
 
-###### Base XII — Calendário e condições
+Base XII
+
+Calendário e condições
 
 1 - A fase 1A, descrita na base XI, estará concluída até ao final do mês de Março de 2003.
 
@@ -266,31 +301,43 @@ d) Nos termos das condições a fixar no contrato de concessão, após a conclus
 
 3 - O contrato de concessão fixará as consequências do incumprimento das condições nas quais a fase 1B e a 2.ª fase da concessão serão construídas, as quais incluirão a aplicação de multas, a perda do exclusivo e a redução da área da concessão.
 
-###### Base XIII — Equipamento
+Base XIII
+
+Equipamento
 
 A concessionária instalará, nos termos definidos no contrato de concessão, todo o equipamento necessário à prestação do serviço público concessionado, o qual incluirá necessariamente um mínimo de duas gruas de cais por cada uma das subfases.
 
-###### Base XIV — Área de concessão
+Base XIV
+
+Área de concessão
 
 1 - A área da concessão é aquela representada a cheio no anexo I e limitada de acordo com as coordenadas constantes do anexo II.
 
 2 - O contrato de concessão poderá fixar as condições em que essa área será reduzida.
 
-###### Base XV — Direito de preferência
+Base XV
+
+Direito de preferência
 
 Se, após a conclusão de ambas as fases do projecto, de acordo com o previsto na base XIII, a concedente decidir proceder à instalação de qualquer outro terminal específico de contentores, a concessionária terá, segundo os termos e condições a ser fixados no contrato de concessão, direito de preferência na concessão do novo terminal.
 
-###### Base XVI — Pagamentos a efectuar pela concessionária
+Base XVI
+
+Pagamentos a efectuar pela concessionária
 
 O contrato de concessão fixará o montante a pagar pela concessionária, que será calculado por unidade equivalente a 20 pés (TEU).
 
-###### Base XVII — Prazo e renovação
+Base XVII
+
+Prazo e renovação
 
 O contrato de concessão será outorgado pelo prazo de 30 anos a contar da data da sua celebração. O contrato poderá ser renovado por igual período em condições a acordar entre concedente e concessionária.
 
 ### CAPÍTULO III — Da concessionária
 
-###### Base XVIII — Da concessionária
+Base XVIII
+
+Da concessionária
 
 1 - A sociedade concessionária será constituída antes da celebração do contrato de concessão, assumindo a forma de sociedade anónima.
 
@@ -300,23 +347,31 @@ O contrato de concessão será outorgado pelo prazo de 30 anos a contar da data 
 
 4 - O contrato de concessão fixará a garantia a prestar pela concessionária.
 
-###### Base XIX — Estrutura accionista
+Base XIX
+
+Estrutura accionista
 
 1 - A maioria do capital social da sociedade concessionária será, durante a totalidade do período da concessão, detida pela PSA Corporation Limited ou por entidades em que a maioria do capital seja detido pela PSA Corporation Limited nos termos constantes do contrato de concessão.
 
 2 - Será nula e de nenhum efeito qualquer alienação a terceiros por parte do ou dos accionistas de referência das acções necessárias para assegurar a maioria do capital da sociedade concessionária.
 
-###### Base XX — Capital
+Base XX
+
+Capital
 
 1 - A sociedade concessionária terá um capital social de 570000000$00, cuja subscrição estará integralmente efectuada, ou garantida, no momento da assinatura do contrato de concessão.
 
 2 - A sociedade concessionária não poderá proceder à redução do seu capital social durante todo o período de duração da concessão.
 
-###### Base XXI — Oneração de acções da concessionária
+Base XXI
+
+Oneração de acções da concessionária
 
 A oneração de acções representativas do capital social da sociedade concessionária detidas pelos accionistas de referência carecerá, sob pena de nulidade, de autorização prévia da concedente.
 
-###### Base XXII — Responsabilidade da concessionária
+Base XXII
+
+Responsabilidade da concessionária
 
 1 - A concessionária responde perante a concedente pelos actos e omissões dos seus administradores e agentes, bem como pelos actos e omissões daqueles que, nos termos de contrato outorgado por ela, construírem obras ou fornecerem e montarem materiais e equipamentos que integrem o estabelecimento da concessão.
 
@@ -324,7 +379,9 @@ A oneração de acções representativas do capital social da sociedade concessi
 
 3 - A concessionária responderá perante a concedente e perante terceiros por quaisquer danos emergentes e lucros cessantes resultantes de deficiências e omissões na concepção, no projecto ou na execução das obras de construção e manutenção do terminal, devendo esta responsabilidade ser coberta por seguro.
 
-###### Base XXIII — Cobertura por seguro
+Base XXIII
+
+Cobertura por seguro
 
 Para cumprimento do disposto na base anterior a concessionária assegurará a existência e manutenção em vigor, com seguradora de reconhecida idoneidade, das apólices de seguro seguintes, as quais deverão ser aprovadas pela concedente:
 
@@ -334,11 +391,15 @@ b) Todos os seguros relativos aos trabalhos de construção do terminal.
 
 ### CAPÍTULO IV — Da exploração do serviço
 
-###### Base XXIV — Regime e características
+Base XXIV
+
+Regime e características
 
 A exploração do terminal será feita em regime de serviço público, que será prestado de forma regular e continuada em conformidade com o regulamento de exploração.
 
-###### Base XXV — Regulamento de exploração
+Base XXV
+
+Regulamento de exploração
 
 1 - O regulamento de funcionamento do terminal constará de anexo ao contrato de concessão. Do regulamento constarão as tarifas de base de utilização do terminal e todos os requisitos operacionais da respectiva exploração.
 
@@ -346,7 +407,9 @@ A exploração do terminal será feita em regime de serviço público, que será
 
 ### CAPÍTULO V — Incumprimento e cumprimento defeituoso do contrato
 
-###### Base XXVI — Incumprimento
+Base XXVI
+
+Incumprimento
 
 1 - Sem prejuízo das situações de incumprimento que poderão dar origem a sequestro ou rescisão da concessão nos termos referidos nas bases XXIX e XXX, o incumprimento imputável à concessionária dos deveres e obrigações emergentes do contrato de concessão, ou das determinações da concedente emitidas no âmbito da lei ou do referido contrato, originará a aplicação de multas contratuais pela concedente, cujo montante será definido no contrato de concessão.
 
@@ -354,7 +417,9 @@ A exploração do terminal será feita em regime de serviço público, que será
 
 3 - Em caso de não pagamento de quaisquer multas pela concessionária, poderá a concedente recorrer à caução de exploração prestada pela concessionária.
 
-###### Base XXVII — Força maior
+Base XXVII
+
+Força maior
 
 1 - Consideram-se unicamente casos de força maior, com as consequências fixadas nos números seguintes, e sem prejuízo do disposto no n.º 3, os acontecimentos imprevisíveis e irresistíveis, exteriores às partes, cujos efeitos se produzam independentemente da vontade ou das circunstâncias pessoais das mesmas e tenham um impacte directo negativo sobre a concessão.
 
@@ -376,7 +441,9 @@ e) Qualquer alteração legislativa introduzida em Portugal que impeça o cumpri
 
 ### CAPÍTULO VI — Extinção e suspensão da concessão
 
-###### Base XXVIII — Resgate
+Base XXVIII
+
+Resgate
 
 1 - Nos últimos seis anos de duração da concessão, poderá a concedente, sempre que o interesse público o justifique, proceder ao respectivo resgate a todo o tempo, mas nunca antes de decorrido um ano a contar da notificação à concessionária da intenção de resgate.
 
@@ -386,7 +453,9 @@ e) Qualquer alteração legislativa introduzida em Portugal que impeça o cumpri
 
 4 - Em caso de resgate, a concessionária terá direito à prestação pela concedente, a título de indemnização, de uma quantia calculada nos termos do contrato de concessão.
 
-###### Base XXIX — Sequestro
+Base XXIX
+
+Sequestro
 
 1 - Em caso de incumprimento grave, pela concessionária, das obrigações emergentes do contrato de concessão que afecte a prestação dos serviços essenciais no terminal, e sem prejuízo do disposto na base XII, a concedente poderá, mediante sequestro, tomar a seu cargo a realização de obras e o desenvolvimento das actividades integradas na concessão, ou a exploração dos serviços da concessão.
 
@@ -400,7 +469,9 @@ e) Qualquer alteração legislativa introduzida em Portugal que impeça o cumpri
 
 6 - Logo que restabelecido o normal funcionamento das actividades compreendidas na concessão, a concessionária será notificada para retomar a concessão, no prazo que razoavelmente lhe for fixado pela concedente.
 
-###### Base XXX — Rescisão imputável à concessionária
+Base XXX
+
+Rescisão imputável à concessionária
 
 1 - A concedente, sob proposta do ministro da tutela, poderá pôr fim à concessão através de rescisão do contrato de concessão, em casos de violação grave, não sanada ou não sanável, das obrigações da concessionária, designadamente nas seguintes situações:
 
@@ -424,17 +495,23 @@ g) Oneração, sem prévia autorização da concedente, das acções representat
 
 4 - A comunicação da decisão de rescisão referida no número anterior produz efeitos imediatos, independentemente de qualquer outra formalidade.
 
-###### Base XXXI — Rescisão imputável à concedente
+Base XXXI
+
+Rescisão imputável à concedente
 
 Ocorrendo rescisão do contrato de concessão por motivo imputável à concedente, esta deverá indemnizar a concessionária nos termos gerais de direito e será responsável pela assunção de todas as obrigações da concessionária emergentes dos contratos de financiamento, com excepção das relativas a incumprimentos verificados antes da ocorrência do motivo de rescisão.
 
-###### Base XXXII — Caducidade
+Base XXXII
+
+Caducidade
 
 1 - O contrato de concessão caduca quando se verificar o termo do prazo de duração da concessão nos termos da base XVII, extinguindo-se as relações contratuais existentes entre as partes, sem prejuízo das disposições do contrato de concessão que perdurem para além do termo da concessão.
 
 2 - Verificando-se a caducidade do contrato de concessão nos termos do número anterior, a concessionária será inteiramente responsável pela cessação dos efeitos de quaisquer contratos (incluindo os contratos do projecto) de que seja parte, não assumindo a concedente qualquer responsabilidade nessa matéria.
 
-###### Base XXXIII — Reversão de bens
+Base XXXIII
+
+Reversão de bens
 
 1 - No termo da concessão reverterão para a concedente, nos termos a definir no contrato de concessão, todos os bens que integram a concessão nos termos da base V, obrigando-se a concessionária a entregá-los em bom estado de conservação, operacionalidade e utilização, sem prejuízo do seu normal desgaste, e livres de quaisquer ónus ou encargos.
 
@@ -446,11 +523,15 @@ Ocorrendo rescisão do contrato de concessão por motivo imputável à concedent
 
 ### CAPÍTULO VII — Disposições finais
 
-###### Base XXXIV — Caução
+Base XXXIV
+
+Caução
 
 Como garantia das obrigações assumidas nos termos das presentes bases e do contrato, a concessionária prestará caução no valor a estabelecer no contrato de concessão.
 
-###### Base XXXV — Arbitragem
+Base XXXV
+
+Arbitragem
 
 O contencioso do contrato será submetido a tribunal arbitral, constituído nos termos a definir no contrato de concessão, o qual aplicará a lei portuguesa.
 

@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/407-1980-471346
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcf5def98c0b1c8ba09309cf81e966d5a6e6a298e78db93df80bbb63cc8e4867
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4f562b6ec30c0187cc7849efea6e76470b0bbaf85526375f25b7a8d8fd87d3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Leite
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:390386:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:390386:por
+  label: "Interpretada pela PORT.44/81.15.01.1981.MFP, DR.IS [12] de 15.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/44-1981-390386
+  date: '1981-01-15'
+- type: cites
+  target: pt:dre:250817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656379:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:461058:por
+  label: Rectificada pela DECL.DD6864.21.08.1980.PCM, DR.IS [210] de 11.09.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-461058
+  date: '1980-08-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:45Z'
   warnings: []
   errors: []
 ---
@@ -107,11 +140,11 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Orçam
 
 No período de 1 de Junho de 1978 a 15 de Abril de 1979:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/16100/16731674.pdf))](https://files.diariodarepublica.pt/1s/1980/07/16100/16731674.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/16100/16731674.pdf)
 
 No período de 16 de Abril de 1979 e até ao dia anterior à data de entrada em vigor da nova portaria que regulamentará os preços do leite e lacticínios no continente para vigorarem no corrente ano:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/16100/16731674.pdf))](https://files.diariodarepublica.pt/1s/1980/07/16100/16731674.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/16100/16731674.pdf)
 
 2.º Os encargos decorrentes da execução desta portaria constituem encargo do Fundo de Abastecimento.
 

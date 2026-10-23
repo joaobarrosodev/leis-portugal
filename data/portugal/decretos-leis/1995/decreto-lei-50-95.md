@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/50/1995/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-1995-185918
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8030a057a3045a25ad22a68ff278f41d1bb2a1fb82f7b9c8ca0dfe9406c8d40c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02fdfa4540787c6d9c96bdc603000f59dc530560bfc5e5bf5346880f055569f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviços de Registo e Notariado
 - Definição de Competências
-- Registos e Notariado
 - Formas de Provimento
 - Gabinete de Gestão Financeira
-- Ministério da Justiça
-- Zona Tributária Privilegiada
 - Madeira.região Autónoma
+- Ministério da Justiça
 - Quadro de Pessoal
+- Registos e Notariado
 - Regulamento dos Serviços dos Registos e Notariado
 - Remuneração
+- Serviços de Registo e Notariado
+- Zona Tributária Privilegiada
 relationships:
 - type: amended_by
   target: pt:dre:176071:por
@@ -86,16 +86,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/40/1994/02/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/40/1994/02/11/p/dre
+- type: cites
+  target: pt:dre:151914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524225:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:01Z'
   warnings: []
   errors: []
 ---
@@ -116,30 +136,30 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 5.º do [Decreto-Lei n.º 234/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1988-373414), de 5 de Julho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 5.º do [Decreto-Lei n.º 234/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1988-373414), de 5 de Julho, passa a ter a seguinte redacção:
 
-###### Art. 5.º - 1 - O cartório notarial e a conservatória do registo comercial privativos da zona franca da Madeira funcionam sob a chefia, respectivamente, de um notário e de um conservador.
+Art. 5.º - 1 - O cartório notarial e a conservatória do registo comercial privativos da zona franca da Madeira funcionam sob a chefia, respectivamente, de um notário e de um conservador.
 
 2 - À alteração dos quadros do pessoal do cartório e da conservatória privativos, bem como ao provimento dos lugares de notário, de conservador e dos oficiais, é aplicável o regime previsto, respectivamente, para a alteração dos quadros e para o provimento, dos lugares dos serviços externos dos registos e do notariado.
 
-###### Art. 2.º O quadro de pessoal dos serviços externos dos registos e do notariado é objecto de portaria do Ministro da Justiça.
+Art. 2.º O quadro de pessoal dos serviços externos dos registos e do notariado é objecto de portaria do Ministro da Justiça.
 
-###### Art. 3.º - 1 - O processamento dos abonos devidos aos conservadores e notários, oficiais e pessoal auxiliar dos serviços externos dos registos e do notariado é efectuado pelo Gabinete de Gestão Financeira do Ministério da Justiça.
+Art. 3.º - 1 - O processamento dos abonos devidos aos conservadores e notários, oficiais e pessoal auxiliar dos serviços externos dos registos e do notariado é efectuado pelo Gabinete de Gestão Financeira do Ministério da Justiça.
 
 2 - A aplicação do disposto no número anterior tem lugar progressivamente, segundo plano aprovado por despacho conjunto dos directores-gerais dos Registos e do Notariado e do Gabinete de Gestão Financeira do Ministério da Justiça.
 
 3 - A dedução dos abonos prevista no artigo 65.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, e no artigo 134.º do regulamento aprovado pelo [Decreto Regulamentar n.º 55/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1980-462214), de 8 de Outubro, deixa de ser efectuada pelos serviços externos correspondentes à medida que o processamento dos abonos passar a ser efectuado pelo Gabinete de Gestão Financeira do Ministério da Justiça.
 
-###### Art. 4.º É revogado o n.º 2 do artigo 88.º do regulamento aprovado pelo [Decreto Regulamentar n.º 55/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1980-462214), de 8 de Outubro.
+Art. 4.º É revogado o n.º 2 do artigo 88.º do regulamento aprovado pelo [Decreto Regulamentar n.º 55/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1980-462214), de 8 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 8 de Fevereiro de 1995.**
+Promulgado em 8 de Fevereiro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Fevereiro de 1995.**
+Referendado em 14 de Fevereiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

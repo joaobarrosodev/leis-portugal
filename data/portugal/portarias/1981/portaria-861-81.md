@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/861-1981-563649
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:56:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87ff1beb3e0b8549020d56fc6eae27685d54af49f1a0a6f459a3cb3e3101a535
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43743fc0c2096b19b984d0f75fbf4352017df5f5239b701447dbf4e0cc74b1fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:56:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁGIO
+- Contribuições e Impostos
+- Divisa
+- TAXA de Câmbio
+relationships:
+- type: cites
+  target: pt:dre:167201:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:56:27Z'
   warnings: []
   errors: []
 ---
@@ -87,6 +95,6 @@ de 26 de Setembro
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado do Orçamento, nos termos do disposto no § único da [Lei n.º 1368](https://diariodarepublica.pt/dr/detalhe/lei/1368-1922-167201), de 21 de Setembro de 1922, que na liquidação de contribuições, impostos e taxas a efectuar posteriormente à publicação da presente portaria e que tenha por base o ouro ou moeda estrangeira sejam adoptados o ágio e o câmbio médio seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/22200/25832583.pdf))](https://files.diariodarepublica.pt/1s/1981/09/22200/25832583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22200/25832583.pdf)
 
 Secretaria de Estado do Orçamento, 18 de Agosto de 1981. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias.

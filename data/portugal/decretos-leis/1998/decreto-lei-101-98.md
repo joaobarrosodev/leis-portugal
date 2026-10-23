@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/093a00/17341736.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/101/1998/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1998-175785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21e92c3e3dfbcd1cc2163f0f5d96f92bb50702ff9d2045bd1639d84f1055ee07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d023c516b0b03cd885f1eb6c39bcd86e14ba2b8b8c85b74ef33a8f4e2f83065e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
+- Câmara Municipal
 - Comércio por Grosso
 - Contra-ordenação
 - Feira
 - Feirante
 - Licenciamento
-- Câmara Municipal
+- Multa
 - Regime Jurídico
 relationships:
 - type: amended_by
@@ -91,16 +91,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/259/1995/09/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/259/1995/09/30/p/dre
+- type: cites
+  target: pt:dre:302276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611519:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:179063:por
+  label: "Revogado, a partir de 01.09.2012, o Dec Lei 259/95 de 30-set, alterado pelo presente diploma, pelo DEC LEI.173/2012.02.08.2012.MEE,\
+    \ DR.IS [149] de 02.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-2012-179063
+  date: '2012-08-02'
 article_structure:
-  article_count: 10
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:27Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +165,9 @@ b) Em armazéns ou instalações cobertas, licenciadas para o exercício de com�
 
 c) Em locais não afectos permanentemente ao exercício do comércio, nomeadamente em salões e feiras de exposição, nos termos do artigo 9.º
 
-###### Artigo 2.º — Feiras e mercados grossistas
+Artigo 2.º
+
+Feiras e mercados grossistas
 
 1 - Compete às câmaras municipais autorizar a instalação e funcionamento de feiras e mercados grossistas, quando os interesses económicos locais o aconselhem e tendo em conta os equipamentos comerciais existentes, depois de recolhidos os pareceres dos sindicatos e das associações representativas dos comerciantes.
 
@@ -151,13 +175,17 @@ c) Em locais não afectos permanentemente ao exercício do comércio, nomeadamen
 
 3 - Só podem ter acesso às feiras e mercados grossistas os comerciantes que sejam titulares de cartão de identificação de empresário individual ou do cartão de identidade de pessoa colectiva, emitido pelo Registo Nacional de Pessoas Colectivas.
 
-###### Artigo 3.º — Documentação
+Artigo 3.º
+
+Documentação
 
 1 - Os vendedores devem ser portadores, para apresentação imediata às autoridades competentes para a fiscalização, do documento emitido pela câmara municipal que comprove a autorização para exercer o comércio grossista na feira em causa.
 
 2 - Os comerciantes devem ainda fazer-se acompanhar dos documentos de transporte ou factura de aquisição dos bens, nos termos do [Decreto-Lei n.º 45/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1989-611519), de 11 de Fevereiro, com as alterações introduzidas pelos Decretos-Leis n.os [166/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), de 9 de Junho, e [25/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1997-581224), de 23 de Janeiro.
 
-###### Artigo 5.º — Proibições
+Artigo 5.º
+
+Proibições
 
 1 - Nas feiras e mercados grossistas só podem realizar-se operações comerciais por grosso, devendo as câmaras municipais definir um controlo rigoroso de entradas, que impeça o acesso do público em geral.
 
@@ -165,7 +193,9 @@ c) Em locais não afectos permanentemente ao exercício do comércio, nomeadamen
 
 3 - Quando se realizem mercados grossistas nas instalações de mercados municipais, devem as câmaras municipais tomar as medidas necessárias para controlar as entradas e impedir o acesso dos consumidores.
 
-###### Artigo 6.º — Condições das feiras
+Artigo 6.º
+
+Condições das feiras
 
 Os locais em que se realizam as feiras e mercados grossistas devem:
 
@@ -179,13 +209,17 @@ d) [Anterior alínea e).]
 
 e) [Anterior alínea f).]
 
-###### Artigo 8.º — Venda em armazéns ou instalações cobertas
+Artigo 8.º
+
+Venda em armazéns ou instalações cobertas
 
 1 - A actividade de comércio por grosso, de forma não sedentária, pode ainda ser exercida em armazéns ou outras instalações cobertas que tenham sido devidamente licenciados pelas câmaras municipais para essa finalidade.
 
 2 - (Anterior n.º 3.)
 
-###### Artigo 11.º — Sanções
+Artigo 11.º
+
+Sanções
 
 1 - Constituem contra-ordenações puníveis com coima:
 
@@ -231,12 +265,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Março de 1998. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura.
 
-**Promulgado em 6 de Abril de 1998.**
+Promulgado em 6 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Abril de 1998.**
+Referendado em 7 de Abril de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/17200/0694706982.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/186/2015/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2015-70179162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82ca41bdff6774462e937ba8ea33a32b8ca8f97d20e4c1a0dd7cd2758b5014b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31f942390fee5467889dced33f45e170da17a46ba85f04464aa1ecb3eda9a930
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Actividade Marítimo-Turística
 - Animação Ambiental
-- Empresa
-- Turismo
+- Animação turística
 - Classificação dos Empreendimentos Turísticos
 - Definição de Competências
-- Turismo de Natureza
+- Empresa
 - Enatur
+- Infraestrutura Turística
 - Instituto da Conservação da Natureza e das Florestas
 - Instituto do Turismo de Portugal
-- Actividade Marítimo-Turística
-- Sistema Nacional de Áreas Classificadas
 - Registo Nacional de Agentes de Animação Turística
 - Registo Nacional de Empreendimentos Turísticos
-- Infraestrutura Turística
-- Animação turística
+- Sistema Nacional de Áreas Classificadas
+- Turismo
+- Turismo de Natureza
 relationships:
 - type: amended_by
   target: pt:dre:155732595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:107596685:por
+  label: Alterados os arts. 4.º,5.º,9.º, 11.º, 18.º, 19.º, 21.º, 23.º, 25.º, 26.º,30.º, 32.º, 35.º e 67.º e a epígrafe do
+    art. 29.º, aditados os arts. 23.º-A, 25.º-A, 25.º-B, 25.º-C, 29.º-A, 31.º-A e 42.º-A, repristinado o art. 24.º (na redação
+    do Dec Lei 228/2009 de 14-set e revogado pelo Dec Lei 15/2014 de 23-jan) e revogados os n.ºs 2,3,4 e 5 do art. 5.º, os
+    n.ºs 2, 5 e 6 do art. 20.º, o art. 20.º-A, o n.º 1 do art. 21.º, a al. a) do n.º 1 do art. 26.º, o n.º 6 do art. 30.º,
+    os n.ºs 7 e 8 do art. 39.º, o art. 50.º e as als. c) e v) do n.º 1 do art. 67.º do Dec Lei 39/2008 de 07-mar DR.IS [48],
+    na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série
+    I de 2017-06-30, nos termos do seu art. 6.º, e que procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2017-107596685
+  date: '2017-06-30'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Alterados, a partir de 28.07.2021, os arts. 31.º, 33.º e 35.º e revogadas as als. h) e n) do n.º 1 e o n.º 5 do art.
+    31.º e o n.º 2 do art. 35.º do Dec Lei 108/2009 de 15-mai, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
 - type: cites
   target: celex:32009R1073
   label: null
@@ -131,16 +149,332 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/112/1998/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/112/1998/08/25/p/dre
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672657:por
+  label: null
+  source: null
 article_structure:
-  article_count: 168
-  section_count: 36
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 140
+  section_count: 40
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:56Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +531,9 @@ Os artigos 4.º, 11.º, 20.º, 26.º, 30.º, 34.º, 36.º, 38.º, 39.º, 40.º, 
 
 3 - As tipologias de empreendimentos turísticos identificados no n.º 1 podem ser reconhecidas como turismo de natureza ou associadas a uma marca nacional de áreas integradas no sistema nacional de áreas classificadas (SNAC), nos termos previstos, respetivamente, nos artigos 20.º e 20.º-A.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...].
 
@@ -209,7 +545,9 @@ b) [...];
 
 c) Pousadas, quando explorados diretamente pela ENATUR - Empresa Nacional de Turismo, S. A., ou por terceiros mediante celebração de contratos de franquia ou de cessão de exploração, e instalados em imóveis classificados como de interesse nacional, de interesse público ou de interesse municipal ou em edifícios que, pela sua antiguidade, valor arquitetónico e histórico, sejam representativos de uma determinada época.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...].
 
@@ -225,7 +563,9 @@ c) Pousadas, quando explorados diretamente pela ENATUR - Empresa Nacional de Tur
 
 7 - O reconhecimento de empreendimentos turísticos como turismo de natureza está isento de qualquer taxa.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...].
 
@@ -237,7 +577,9 @@ c) Pousadas, quando explorados diretamente pela ENATUR - Empresa Nacional de Tur
 
 5 - No âmbito de pedidos de licenciamento ou de comunicações prévias para a realização de obras de edificação e juntamente com o parecer, são fixadas, em fase de projeto, a capacidade máxima do empreendimento e a respetiva classificação de acordo com o projeto apresentado, a confirmar nos termos previstos no artigo 36.º
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...].
 
@@ -261,11 +603,15 @@ c) Pousadas, quando explorados diretamente pela ENATUR - Empresa Nacional de Tur
 
 11 - Aos procedimentos previstos no presente artigo é aplicável o disposto no artigo 28.º-A do [Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de abril, alterado pelos [Decretos-Leis n.os 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de março, [72-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2010-569757), de 18 de junho, e [73/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2014-25343691), de 13 de maio.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 A classificação destina-se a atribuir, confirmar ou alterar a tipologia e, quando aplicável, o grupo e a categoria dos empreendimentos turísticos e tem natureza obrigatória.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...].
 
@@ -283,7 +629,9 @@ A classificação destina-se a atribuir, confirmar ou alterar a tipologia e, qua
 
 8 - [...].
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...].
 
@@ -303,7 +651,9 @@ A classificação destina-se a atribuir, confirmar ou alterar a tipologia e, qua
 
 9 - [...].
 
-###### Artigo 39.º — Dispensas
+Artigo 39.º
+
+Dispensas
 
 1 - A dispensa de requisitos exigidos para a fixação da classificação pode ser concedida, nos termos previstos nos n.os 2 a 6:
 
@@ -339,7 +689,9 @@ c) [Anterior alínea b).]
 
 8 - O cumprimento dos requisitos referidos no número anterior é verificado em sede de auditoria de classificação.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - [...].
 
@@ -351,7 +703,9 @@ c) [Anterior alínea b).]
 
 5 - O RNET deve ser indexado no sistema de pesquisa online de informação pública previsto no artigo 49.º do [Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de abril, alterado pelos [Decretos-Leis n.os 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de março, [72-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2010-569757), de 18 de junho, e [73/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2014-25343691), de 13 de maio.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - [...].
 
@@ -369,13 +723,17 @@ c) [Anterior alínea b).]
 
 8 - [...].
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - [...]
 
 2 - A aplicação das coimas e das sanções acessórias previstas no presente decreto-lei relativamente aos empreendimentos reconhecidos como turismo de natureza ou associados a uma marca nacional de áreas integradas no SNAC compete, respetivamente, à ASAE, se estes empreendimentos adotarem qualquer das tipologias previstas nas alíneas a) a f) do n.º 1 do artigo 4.º, e às câmaras municipais, se os referidos empreendimentos adotarem a tipologia prevista na alínea g) do n.º 1 do artigo 4.º
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - A tramitação dos procedimentos previstos no presente decreto-lei é realizada informaticamente com recurso ao balcão do empreendedor previsto nos [Decretos-Leis n.os 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho, e [48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril, acessível através do Portal do Cidadão, ou ao sítio na Internet do Turismo de Portugal, I. P., e das câmaras municipais, articulado com o sistema informático previsto no artigo 8.º-A do regime jurídico da urbanização e da edificação, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa, da administração local, do ordenamento do território e do turismo.
 
@@ -401,7 +759,9 @@ b) Nas demais áreas do território nacional, não depende do seu reconhecimento
 
 3 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos n.os 1 a 4 do artigo 29.º, apenas as empresas que tenham realizado a mera comunicação prévia ou a comunicação prévia com prazo através do Registo Nacional de Agentes de Animação Turística (RNAAT), acessível ao público através do balcão do empreendedor previsto nos [Decretos-Leis n.os 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho, e [48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril, disponível através do Portal do Cidadão, e do sítio na Internet do Turismo de Portugal, I. P., nos termos previstos nos artigos 11.º e 13.º, podem exercer e comercializar, em território nacional, as atividades de animação turística definidas no artigo 3.º e nos n.os 1 e 2 do artigo anterior.
 
@@ -419,13 +779,17 @@ b) Nas demais áreas do território nacional, não depende do seu reconhecimento
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
 2 - As atividades de animação turística devem, nomeadamente, obedecer às normas a que as empresas se encontrem vinculadas ao abrigo do disposto nos regimes jurídicos da conservação da natureza e da biodiversidade e dos instrumentos de gestão territorial.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -437,7 +801,9 @@ b) Nas demais áreas do território nacional, não depende do seu reconhecimento
 
 5 - [Revogado].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O Turismo de Portugal, I. P., organiza e mantém atualizado o RNAAT, que integra o registo das empresas de animação turística e dos operadores marítimo-turísticos que tenham realizado mera comunicação prévia e comunicação prévia com prazo, quando aplicável, nos termos do presente decreto-lei, acessível ao público através do balcão do empreendedor previsto nos [Decretos-Leis n.os 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho, e [48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril, disponível através do Portal do Cidadão, e do sítio na Internet do Turismo de Portugal, I. P..
 
@@ -463,7 +829,9 @@ i) [...].
 
 3 - O RNAAT deve ser indexado no sistema de pesquisa online de informação pública previsto no artigo 49.º do [Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de abril, alterado pelos [Decretos-Leis n.os 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de março, [72-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2010-569757), de 18 de junho, e [73/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2014-25343691), de 13 de maio.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...].
 
@@ -507,7 +875,9 @@ h) [...].
 
 7 - [...].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -517,7 +887,9 @@ h) [...].
 
 4 - No prazo previsto no número anterior, o Turismo de Portugal, I. P., comunica ainda ao ICNF, I. P., o registo de empresas de animação turística que tenham obtido reconhecimento como turismo de natureza nos termos previstos nos n.os 1 e 6 do artigo 20.º
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O exercício de atividades de animação turística fica sujeito a comunicação prévia com prazo, tal como definida na alínea a) do n.º 2 do artigo 8.º do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho, quando o requerente pretenda obter o reconhecimento das suas atividades como turismo de natureza nos casos previstos no n.º 2 do artigo 20.º
 
@@ -531,7 +903,9 @@ h) [...].
 
 6 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 3, pela inscrição no RNAAT de empresas de animação turística estabelecidas em território nacional é devida uma taxa de 135,00 EUR ou, no caso de empresas cuja atividade seja exclusivamente o desenvolvimento, em ambiente urbano, de percursos pedestres e visitas a museus, palácios e monumentos e, simultaneamente, se encontrem isentas da obrigação de contratação dos seguros previstos no artigo 27.º, nos termos da alínea b) do n.º 1 do artigo 28.º, de 90,00 EUR.
 
@@ -559,7 +933,9 @@ d) [...].
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 16.º-A — [...]
+Artigo 16.º-A
+
+[...]
 
 1 - [...]:
 
@@ -571,7 +947,9 @@ c) [...].
 
 2 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - A tramitação dos procedimentos previstos no presente decreto-lei é realizada de forma desmaterializada, através do RNAAT, acessível ao público através do balcão do empreendedor previsto nos [Decretos-Leis n.os 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho, e [48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril, disponível através do Portal do Cidadão, e do sítio na Internet do Turismo de Portugal, I. P., os quais, entre outras funcionalidades, permitem:
 
@@ -595,7 +973,9 @@ f) [...].
 
 5 - [...].
 
-###### Artigo 20.º — Turismo de natureza
+Artigo 20.º
+
+Turismo de natureza
 
 1 - O reconhecimento de atividades de animação turística como turismo de natureza nos casos de micro, pequenas ou médias empresas, sem prejuízo do disposto no n.º 6, e de prestadores não estabelecidos em território nacional, a operar nos termos previstos no artigo 29.º, depende de mera comunicação prévia, nos termos previstos no artigo 11.º, instruída com a declaração de adesão formal ao código de conduta das empresas que exercem atividades de animação turística reconhecidas como turismo de natureza.
 
@@ -613,7 +993,9 @@ b) Projeto de conservação da natureza.
 
 6 - As empresas proprietárias ou exploradoras de empreendimentos turísticos reconhecidos como turismo de natureza que exerçam atividades próprias de animação turística, nos termos previstos no n.º 3 do artigo 5.º, usufruem do reconhecimento destas atividades como turismo de natureza por mera comunicação prévia da qual conste a sua identificação como proprietária ou exploradora de empreendimento de turismo de natureza devidamente reconhecido.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...].
 
@@ -633,7 +1015,9 @@ b) Projeto de conservação da natureza.
 
 9 - Os capitais mínimos a cobrir pelos seguros referidos no n.º 1, a fixar pela portaria mencionada no n.º 2, e no anexo III do RAMT, a que alude o n.º 3, são atualizados anualmente, em função do índice de inflação publicado pelo INE, I. P., no ano imediatamente anterior, sendo os montantes decorrentes da atualização divulgados no portal do Turismo de Portugal, I. P., e no balcão do empreendedor previsto nos [Decretos-Leis n.os 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho, e [48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril, disponível através do Portal do Cidadão.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...].
 
@@ -647,7 +1031,9 @@ b) Projeto de conservação da natureza.
 
 6 - As empresas que, nos termos do n.º 3, tenham optado por não constar do RNAAT, não gozam do direito de entrada livre referido no n.º 7 do artigo 5.º
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]:
 
@@ -689,7 +1075,9 @@ n) [...].
 
 7 - [...].
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - [...].
 
@@ -765,13 +1153,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de maio de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Anabela Maria Pinto de Miranda Rodrigues - Paula Maria von Hafe Teixeira da Cruz - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 18 de agosto de 2015.**
+Promulgado em 18 de agosto de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de agosto de 2015.**
+Referendado em 20 de agosto de 2015.
 
 Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.
 
@@ -1165,7 +1553,9 @@ b) Sejam suscetíveis de prejudicar os requisitos mínimos exigidos para a class
 
 [Revogado].
 
-###### Artigo 32.º — Título de abertura
+###### Artigo 32.º
+
+## Título de abertura
 
 Constitui título válido de abertura do empreendimento qualquer dos seguintes documentos:
 
@@ -1407,7 +1797,9 @@ b) A reserva temporária de parte ou da totalidade do empreendimento turístico.
 
 Nas informações de caráter geral relativas aos empreendimentos turísticos e aos serviços que neles são oferecidos devem ser usados os sinais normalizados constantes de tabela a aprovar por portaria do membro do Governo responsável pela área do turismo.
 
-###### Artigo 51.º — Livro de reclamações
+###### Artigo 51.º
+
+## Livro de reclamações
 
 1 - Os empreendimentos turísticos devem dispor de livro de reclamações, nos termos e condições estabelecidos na legislação aplicável.
 
@@ -1427,7 +1819,9 @@ Nas informações de caráter geral relativas aos empreendimentos turísticos e 
 
 Às relações entre os proprietários dos empreendimentos turísticos em propriedade plural é aplicável o disposto no presente decreto-lei e, subsidiariamente, o regime da propriedade horizontal.
 
-###### Artigo 54.º — Título constitutivo
+###### Artigo 54.º
+
+## Título constitutivo
 
 1 - Os empreendimentos turísticos em propriedade plural regem-se por um título constitutivo elaborado e aprovado nos termos do presente decreto-lei.
 
@@ -2407,7 +2801,9 @@ d) Em caso de violação reiterada das normas estabelecidas no presente decreto-
 
 ### CAPÍTULO X — Disposições finais e transitórias
 
-###### Artigo 37.º — Livro de reclamações
+###### Artigo 37.º
+
+## Livro de reclamações
 
 1 - As empresas de animação turística e os operadores marítimo-turísticos devem dispor de livro de reclamações nos termos e condições estabelecidas no [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320), de 15 de setembro, alterado pelos [Decretos-Leis n.os 371/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-2007-629445), de 6 de novembro, [118/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2009-608884), de 19 de maio, e [317/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), de 30 de outubro.
 
@@ -2425,7 +2821,9 @@ Os artigos 1.º e 2.º do Regulamento da Atividade Marítimo-Turística, aprovad
 
 O Regulamento da Atividade Marítimo-Turística, abreviadamente designado por RAMT, define as regras aplicáveis às embarcações utilizadas por agentes autorizados a exercer a atividade marítimo-turística.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 O RAMT é aplicável às embarcações utilizadas pelos operadores marítimo-turísticos e empresas de animação turística que exerçam a atividade marítimo-turística, em todo o território nacional.»
 

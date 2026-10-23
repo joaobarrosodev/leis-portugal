@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/267a00/70937094.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/302/1995/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1995-691777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14c1ea0cf51b40079049663e79e5a720338fa4c70523c77f34b53a0b9b772608
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b30a97108294b7f03d7ca53acb391e455e303a78c60e2ebe364c8dcec5b1fc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abastecimento
-- Combustível
 - ÁREA de Serviço
-- Regulamento de Construção e Exploração de Postos de Abastecimento de Combustíveis
+- Combustível
+- Posto de Abastecimento de Combustíveis
 - Prorrogação de Prazo
 - Regulamento
-- Posto de Abastecimento de Combustíveis
+- Regulamento de Construção e Exploração de Postos de Abastecimento de Combustíveis
 relationships:
 - type: amended_by
   target: pt:dre:566837:por
@@ -82,16 +82,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/246/1992/10/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/246/1992/10/30/p/dre
+- type: cites
+  target: pt:dre:217683:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:566837:por
+  label: Revogado o presente diploma, com a entrada em vigor da portaria prevista no n.º 2 do art. 1.º do Dec Lei 302/2001
+    de 23-nov, pelo(a) Decreto-Lei n.º 302/2001 - Diário da República n.º 272/2001, Série I-A de 2001-11-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/302-2001-566837
+  date: '2001-11-23'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:51Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +118,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 4.º do [Decreto-Lei n.º 246/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1992-217683), de 30 de Outubro, passa a ter a seguinte redacção:
+Artigo único. O artigo 4.º do [Decreto-Lei n.º 246/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1992-217683), de 30 de Outubro, passa a ter a seguinte redacção:
 
 ###### Artigo 4.º — [...]
 
@@ -138,12 +148,12 @@ c) A violação do disposto nas alíneas c), d) e e) é punida com a coima previ
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 1995. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 5 de Outubro de 1995.**
+Promulgado em 5 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1995.**
+Referendado em 10 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

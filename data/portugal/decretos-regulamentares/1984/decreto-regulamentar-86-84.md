@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/86-1984-401281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:10:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d55b6c76360c97fb599729cf81c28aa90011c84fdd036296cd3b3eb5e2fbefe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 046960f1331e2543d2811bf59daa48d0047e9fbe0cd44fa63d7533b2dff5d883
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:10:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Profissional
+- Direcção Geral de Portos
+- Junta Autónoma dos Portos
+- Portos
+- Promoção Profissional
+relationships:
+- type: cites
+  target: pt:dre:372975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:10:30Z'
   warnings: []
   errors: []
 ---
@@ -97,22 +114,22 @@ Nestes termos, ao abrigo do artigo 1.º do [Decreto-Lei n.º 59/76](https://diar
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º A carreira de auxiliar de serviços gerais, criada nos organismos portuários pela [Portaria n.º 302/80](https://diariodarepublica.pt/dr/detalhe/portaria/302-1980-474565), de 29 de Maio, que se desenvolve pelas categorias de 1.ª, 2.ª e 3.ª classes, a que correspondem, respectivamente, as letras N, Q e S, é considerada carreira horizontal.
+Artigo 1.º A carreira de auxiliar de serviços gerais, criada nos organismos portuários pela [Portaria n.º 302/80](https://diariodarepublica.pt/dr/detalhe/portaria/302-1980-474565), de 29 de Maio, que se desenvolve pelas categorias de 1.ª, 2.ª e 3.ª classes, a que correspondem, respectivamente, as letras N, Q e S, é considerada carreira horizontal.
 
-###### Art. 2.º Os actuais efectivos, que nos respectivos quadros se encontram distribuídos pelas diversas classes da carreira referida no artigo anterior, são convertidos em dotação global.
+Art. 2.º Os actuais efectivos, que nos respectivos quadros se encontram distribuídos pelas diversas classes da carreira referida no artigo anterior, são convertidos em dotação global.
 
-###### Art. 3.º A mudança de categoria fica condicionada à permanência de 5 anos na categoria imediatamente anterior e à classificação de serviços não inferior a Bom.
+Art. 3.º A mudança de categoria fica condicionada à permanência de 5 anos na categoria imediatamente anterior e à classificação de serviços não inferior a Bom.
 
-###### Art. 4.º Os lugares da carreira de auxiliar de serviços gerais serão extintos à medida que forem vagando, da base para o topo.
+Art. 4.º Os lugares da carreira de auxiliar de serviços gerais serão extintos à medida que forem vagando, da base para o topo.
 
 Mário Soares - Carlos Alberto da Mota Pinto - Carlos Montez Melancia - José Manuel San-Bento de Menezes - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 13 de Novembro de 1984.**
+Promulgado em 13 de Novembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Novembro de 1984.**
+Referendado em 14 de Novembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

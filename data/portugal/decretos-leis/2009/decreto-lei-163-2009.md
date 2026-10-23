@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/14000/0468504692.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/163/2009/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2009-493240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acecb42080cda220472de020a85d5d758aaa5a2fde2845c602a03e1626236557
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c68210eff9ff0a0d9c978f5b5c9e671d45dbc79e5ca3a318996119fd1043afa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato de Seguro
-- Livro de Reclamações
+- ASAE
 - Campo de Férias
-- Formação Profissional
-- Multa
 - Contra-ordenação
+- Contrato de Seguro
 - Controlo Sanitário
 - Férias
 - Fiscalização
+- Formação Profissional
 - Instituto Português da Juventude
 - Jovem
-- ASAE
 - Licenciamento
+- Livro de Reclamações
 - Monitor
+- Multa
 - Pessoal Técnico
 - Plano de Actividades
-- Regime Jurídico
 - Política de Juventude
+- Regime Jurídico
 - Registo Obrigatório
 - Regulamento Interno
 - Segurança das Instalações
@@ -116,16 +116,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/586/2004/06/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/586/2004/06/02/p/dre
+- type: cites
+  target: pt:dre:235909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636410:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:279423:por
+  label: "Revogado, a partir de 12.03.2011, o Dec Lei 304/2003 de 09-Dez, alterado pelo presente diploma, pelo DEC LEI.32/2011.07.03.2011.PCM,\
+    \ DR.IS [46] de 07.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2011-279423
+  date: '2011-03-07'
 article_structure:
-  article_count: 46
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 37
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:46Z'
   warnings: []
   errors: []
 ---
@@ -170,13 +208,17 @@ d) ...
 
 2 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
 2 - As licenças concedidas nos termos do número anterior são válidas por três anos, podendo ser renovadas por igual período.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -202,7 +244,9 @@ e) [Anterior alínea d).]
 
 4 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -212,7 +256,9 @@ a) ...
 
 b) Um projecto pedagógico e de animação, no qual se expressam os princípios, valores, objectivos e estratégias educativas e pedagógicas, devendo, ainda, indicar quer as acções preconizadas, e a preconizar, em relação à selecção, recrutamento e formação complementar do pessoal técnico, quer os documentos comprovativos das respectivas qualificações.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - As entidades organizadoras devem notificar o IPJ, I. P., e a Autoridade de Segurança Alimentar e Económica (ASAE) da realização de cada campo de férias, com a antecedência mínima de 20 dias úteis relativamente ao início das respectivas actividades, devendo constar da notificação os seguintes elementos:
 
@@ -246,7 +292,9 @@ g) ...
 
 h) ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -254,7 +302,9 @@ h) ...
 
 3 - As habilitações previstas no número anterior incluem, obrigatoriamente, formação em primeiros socorros.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -272,7 +322,9 @@ e) Manter permanentemente disponível e garantir o acesso da ASAE e do IPJ, I. P
 
 f) ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Sem prejuízo das competências especialmente atribuídas a outras entidades, compete à ASAE a fiscalização e a instrução dos processos por infracção ao disposto no presente decreto-lei, bem como a aplicação das medidas preventivas previstas no regime geral das contra-ordenações, aprovado pelo [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
 
@@ -280,7 +332,9 @@ f) ...
 
 3 - Sempre que, no exercício das funções fiscalizadoras referidas na presente norma, sejam identificadas situações susceptíveis de comprometer a saúde ou a segurança dos participantes, deve a ASAE, de imediato, informar o IPJ, I. P., e as demais entidades competentes, sem prejuízo da instrução dos processos referidos nos números anteriores.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Constituem contra-ordenação, punível com coima:
 
@@ -332,11 +386,15 @@ b) 30 % para a ASAE;
 
 c) 10 % para o IPJ, I. P.
 
-###### Artigo 26.º — Suspensão das actividades
+Artigo 26.º
+
+Suspensão das actividades
 
 Sem prejuízo da aplicação das sanções previstas no artigo anterior, a realização de campos de férias em violação do disposto nos artigos 6.º, 7.º, 10.º, 12.º, 14.º e 21.º do presente decreto-lei, ou em condições que possam colocar em risco a saúde ou a segurança dos participantes, implica a suspensão imediata do seu funcionamento pelas respectivas autoridades competentes.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -376,15 +434,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de Maio de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira. - Rui Carlos Pereira - José Manuel Vieira Conde Rodrigues - Fernando Pereira Serrasqueiro - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 10 de Julho de 2009.**
+Promulgado em 10 de Julho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de Julho de 2009.**
+Referendado em 13 de Julho de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 304/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-2003-429175), de 9 de Dezembro
 
@@ -532,7 +590,9 @@ Os participantes nos campos de férias devem ser permanentemente acompanhados pe
 
 ### CAPÍTULO IV — Exercício da actividade
 
-#### SECÇÃO I — Artigo 14.º
+#### SECÇÃO I
+
+###### Artigo 14.º
 
 Instalações
 
@@ -590,7 +650,9 @@ h) Ficha sanitária individual, contendo a informação referida no n.º 1 do ar
 
 As entidades organizadoras devem celebrar um contrato de seguro que cubra acidentes pessoais dos participantes, com valor mínimo e âmbito de cobertura fixados por portaria conjunta a emitir pelos membros do Governo responsáveis pelas áreas das finanças e da juventude.
 
-###### Artigo 18.º — Livro de reclamações
+###### Artigo 18.º
+
+## Livro de reclamações
 
 1 - As entidades organizadoras de campos de férias devem possuir um livro destinado à formulação de observações e reclamações sobre a qualidade dos serviços e o modo como foram prestados, bem como, quando for o caso, sobre o estado e a apresentação das instalações e dos equipamentos.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/97/2006/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2006-353966
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6035dd5713687e027183f945981c35aa27e3b6bcd2bd2e4baa0dd2d66e896453
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26404862675f5f93f650c7b2648c97dc23fe98401d19d652fdf6791aa63c5fc9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ministério dos Negócios Estrangeiros
 - Orgânica
 - Quadro de Pessoal
 - Representação Permanente de Portugal Junto das Comunidades Europeias
-- Ministério dos Negócios Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:223765534:por
@@ -95,16 +95,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/48/1994/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/48/1994/02/24/p/dre
+- type: cites
+  target: pt:dre:171362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:42Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +177,7 @@ Os artigos 3.º, 4.º e 6.º do [Decreto-Lei n.º 459/85](https://diariodarepubl
 
 4 - Compete ao representante permanente-adjunto e ao representante permanente no Comité Político e de Segurança, para além das competências delegadas pelo representante permanente, substituí-lo nas suas faltas e impedimentos.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - A Representação Permanente integra o pessoal constante do mapa aprovado e alterado por portaria conjunta do Ministros dos Negócios Estrangeiros e das Finanças.
 
@@ -149,7 +185,7 @@ Os artigos 3.º, 4.º e 6.º do [Decreto-Lei n.º 459/85](https://diariodarepubl
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - Os funcionários dos diferentes ministérios e os trabalhadores das empresas públicas ou nacionalizadas que venham a integrar a Representação Permanente são propostos pelos membros do Governo interessados e requisitados aos respectivos serviços por despacho do Ministro dos Negócios Estrangeiros.
 
@@ -181,15 +217,15 @@ b) O [Decreto-Lei n.º 234-B/98](https://diariodarepublica.pt/dr/detalhe/decreto
 
 Visto e aprovado em Conselho de Ministros de 23 de Março de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Manuel Mendonça de Oliveira Neves - Fernando Teixeira dos Santos - Jorge Lacão Costa.
 
-**Promulgado em 22 de Maio de 2006.**
+Promulgado em 22 de Maio de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 25 de Maio de 2006.**
+Referendado em 25 de Maio de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 

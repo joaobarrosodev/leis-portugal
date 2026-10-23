@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/172a00/46714678.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/279/1999/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1999-353343
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3cdfc1fff823954b29d91f40c46c6b6406e223c1ec1828cb84854df9d09278e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55d7aaabf6937365668e408b55019daff55ce8f6a84e30d3b9e0c4eb4471e6da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ADSE
-- Pessoal Dirigente
-- Definição de Competências
 - Conselho Consultivo
+- Definição de Competências
 - Integração de Trabalhadores
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
@@ -97,16 +97,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:158179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628294:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520463:por
+  label: "Revogado, a partir de 01.04.2007, nos termos do art. 5º do Dec Lei 201/2006 de 27-Out, pelo DR.23/2007.29.03.2007.MFAP,\
+    \ DR.IS [63] de 29.03.2007 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/23-2007-520463
+  date: '2007-03-29'
 article_structure:
   article_count: 29
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:21Z'
   warnings: []
   errors: []
 ---
@@ -641,7 +687,9 @@ l) Acompanhar a evolução das políticas de acção social desenvolvidas pelos 
 
 2 - O Gabinete de Documentação, Estudos e Prospectiva é dirigido por um director de serviços.
 
-###### Artigo 18.º — Divisão de Informação e Relações Públicas
+###### Artigo 18.º
+
+##### Divisão de Informação e Relações Públicas
 
 1 - À Divisão de Informação e Relações Públicas incumbe:
 
@@ -771,15 +819,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Março de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 8 de Julho de 1999.**
+Promulgado em 8 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Julho de 1999.**
+Referendado em 15 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA
 

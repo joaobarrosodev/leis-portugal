@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/179/2005/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2005-585009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa7f59834818d8f70ef9b0f6f9a5a5d39dc5b729474711c61ea8650733780d70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e905cb31cabf98c5fd596dc74cde30df25b98f8ee6a068da6cc8c1261c0402a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Pensões e Remunerações
-- Função Pública
 - Aposentado
 - Estatuto da Aposentação
+- Função Pública
 - Incompatibilidades
 - Pensões
 - Remuneração
@@ -78,20 +78,46 @@ relationships:
   target: pt:dre:123930786:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:306615:por
+  label: "Alterados os arts. 78º e 79º do Estatuto da Aposentação, aprovado pelo Dec Lei 498/72, de 09-Dez , na redacção do\
+    \ presente diploma, pelo DEC LEI.137/2010.28.12.2010.MFAP, DR.IS [250] de 28.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-2010-306615
+  date: '2010-12-28'
+- type: amended_by
+  target: pt:dre:572144:por
+  label: "Alterados os arts. 78.º e 79.º do Estatuto da Aposentação aprovado pelo Dec Lei 498/72 de 09-dez, ambos na redação\
+    \ do presente diploma, pela LEI.11/2014.06.03.2014.AR, DR.IS [46] de 06.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/11-2014-572144
+  date: '2014-03-06'
+- type: amended_by
+  target: pt:dre:117754017:por
+  label: Alterado a partir de 01.02.2019 o art. 79.º do Estatuto da Aposentação aprovado pelo Dec Lei 498/72, de 09-dez, na
+    redação do presente diploma pelo(a) Decreto-Lei n.º 6/2019 - Diário da República n.º 9/2019, Série I de 2019-01-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-2019-117754017
+  date: '2019-01-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:05Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +164,9 @@ b) Quando, por razões de interesse público excepcional, o Primeiro-Ministro ex
 
 6 - O disposto no presente artigo é aplicável às situações de reserva ou equiparadas fora da efectividade de serviço.
 
-###### Artigo 79.º — Cumulação de remunerações
+Artigo 79.º
+
+Cumulação de remunerações
 
 1 - Quando aos aposentados e reservistas, ou equiparados, seja permitido, nos termos do artigo anterior, exercer funções públicas ou prestar trabalho remunerado, é-lhes mantida a respectiva pensão ou remuneração na reserva, sendo-lhes, nesse caso, abonada uma terça parte da remuneração base que competir àquelas funções ou trabalho, ou, quando lhes seja mais favorável, mantida esta remuneração, acrescida de uma terça parte da pensão ou remuneração na reserva que lhes seja devida.
 
@@ -154,12 +182,12 @@ b) Quando, por razões de interesse público excepcional, o Primeiro-Ministro ex
 
 Visto e aprovado em Conselho de Ministros de 25 de Agosto de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 10 de Outubro de 2005.**
+Promulgado em 10 de Outubro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Outubro de 2005.**
+Referendado em 13 de Outubro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

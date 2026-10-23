@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/259-1983-309892
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T07:35:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57f2faf54495d4866ba89dd176ec1305b352ee4565429792b9c28548ebd30bd3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a546b69330a4dc538b59a06de57b09509f7a43057f59e2793b28d913fd4cec4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:35:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Engenharia Cerâmica e do Vidro
+- Curso de Engenharia do Ambiente
+- Curso de Engenharia Electrónica e de Telecomunicações
+- Curso de Ensino de Biologia e Geologia
+- Curso de Ensino de Física e Química
+- Curso de Ensino de Matemática e Desenho
+- Ensino Superior
+- Licenciatura
+- Universidade de Aveiro
 relationships:
 - type: amended_by
   target: pt:dre:548823:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:222210:por
+  label: "Dada nova redacção ao anexo III do presente diploma, pela PORT.621/86.24.10.1986.MEC, DR.IS [246] de 24.10.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/621-1986-222210
+  date: '1986-10-24'
+- type: amended_by
+  target: pt:dre:498546:por
+  label: "Alterados os anexos IV e V pela PORT.906/87.1987.11.27.ME DR.IS [274]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/906-1987-498546
+  date: '1987-11-27'
+- type: amended_by
+  target: pt:dre:374188:por
+  label: "Alterado o anexo I pela PORT.351/88.1988.06.01.ME DR.IS [127]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/351-1988-374188
+  date: '1988-06-01'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ANEXO II, PELA PORT 880/89 DE 11-OUT DR.IS [234]\034]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-10-11'
+- type: cites
+  target: pt:dre:327977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:35:48Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/7/1999/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1999-323707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:26:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 789da03a95b764f1910a0cfd28ff9abf4a5e586d0d310f5b3a59665c370ee22a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25f4e3b1f8c44b35e11c933dae18d430c002d9161cc98c3b9fd6f4cfbabafb7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:26:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
 - Aposentação
-- Clandestinidade
-- Preso Político
 - Caixa Geral de Aposentações
+- Clandestinidade
 - Pensão de Invalidez
 - Pensão de Velhice
+- Preso Político
 - Segurança Social
+- Tempo de Serviço
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/3/1998/02/23/p/dre
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/20/1997/06/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/20/1997/06/19/p/dre
+- type: cites
+  target: pt:dre:210577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624997:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:26:18Z'
   warnings: []
   errors: []
 ---
@@ -147,12 +159,12 @@ Os aposentados, reformados e pensionistas de sobrevivência abrangidos por este 
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 29 de Abril de 1999.**
+Promulgado em 29 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Maio de 1999.**
+Referendado em 4 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

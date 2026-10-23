@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/72-1972-398081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:56:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d509fbd951cea173a0aeabf62c2b58bf69a4313d33365e0d3a49b0b41068429f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0462ce3a07b507f00708e2cfdbc5e4d8fa610cc0f266e360628a36016e66e374
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:56:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:400643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:56:09Z'
   warnings: []
   errors: []
 ---
@@ -87,4 +95,4 @@ de 7 de Fevereiro
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do [Decreto-Lei n.º 28326](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28326-1937-443530), de 27 de Dezembro de 1937, abrir um crédito especial de 3000$00, destinado a reforçar a verba do capítulo único, artigo 2.º, n.º 1, alínea d) «Despesas com o pessoal - Remunerações acidentais - Gratificações nos termos do artigo 18.º da [Portaria n.º 23060](https://diariodarepublica.pt/dr/detalhe/portaria/23060-1967-400643), de 14 de Dezembro de 1967 - Ao tesoureiro», do orçamento da despesa do Centro de Documentação Técnico-Económica para o corrente ano económico, tomando como contrapartida o saldo do ano económico findo.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

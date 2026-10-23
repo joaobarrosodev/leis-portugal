@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/6/2003/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/6-2003-188560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T04:45:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17670c5e25f151028c54b1102a6cb910fe9f49071ea072aca82bae6996a2f5ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2198cb3362017b9a9b38ee9694b32a28bf0e8c449f6c68a9d7a09b8347649d5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:45:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,29 @@ reuse:
 subjects:
 - Adopção
 - Convenção
-- Portugal
+- Cooperação Internacional
 - Direitos da Criança
 - HAIA
-- Cooperação Internacional
+- Portugal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/8/2003/02/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/8/2003/02/25/p/dre
+- type: cites
+  target: pt:dre:188564:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:45:11Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +99,7 @@ validation:
 
 de 25 de Fevereiro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 ###### Artigo 1.º
 
@@ -105,12 +109,12 @@ de 25 de Fevereiro
 
 A República Portuguesa declara que, nos termos do n.º 4 do artigo 22.º da Convenção, as adopções de crianças cuja residência habitual se situe no território português só podem ocorrer se as funções confiadas às autoridades centrais forem exercidas nos termos do n.º 1 do mesmo artigo.
 
-**Assinado em 10 de Fevereiro de 2003.**
+Assinado em 10 de Fevereiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Fevereiro de 2003.**
+Referendado em 11 de Fevereiro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/16200/0493604971.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/100/2017/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2017-108041479
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc24eed6ff6f93d8179382fd60f15633a3b7de9683cada065eeb59db1ed64d00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 459edbf5cdd20fabf4a56a138f79fff238bc3dcd1938cb768b8592181000f310
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,39 +68,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Actividade Artística
 - Aproximação das Legislações
+- Associação
 - CE Países
 - Código do Direito de Autor e dos Direitos Conexos
-- Inspecção Geral das Actividades Culturais
 - Contra-ordenação
+- Dados Pessoais
 - Definição de Competências
 - Direito de Autor
+- Direito de Estabelecimento
 - EEE
-- União Europeia
 - Fiscalização
 - Gestão
-- Pagamento
-- Direito de Estabelecimento
-- Livre Prestação de Serviços
+- Inspecção Geral das Actividades Culturais
+- Internet
 - Licenciamento
+- Livre Prestação de Serviços
 - Música
 - Órgãos Sociais
+- Pagamento
+- Plataforma Eletrónica
 - Portal do Cidadão
-- Internet
 - Preço
 - Propriedade Intelectual
 - Protecção à Actividade Artística
-- Actividade Artística
-- Associação
 - Relatório
 - Reprodução de Documentos
-- Dados Pessoais
-- Plataforma Eletrónica
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:122920907:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:122920907:por
+  label: Alterados os arts 29.º, 44.º, ambos na redacção republicada do presente diploma, art. 60.º e revogado o n.º 3 do
+    art. 44.º da Lei 26/2015, de 14-abr, pelo(a) Decreto-Lei n.º 89/2019 - Diário da República n.º 126/2019, Série I de 2019-07-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-2019-122920907
+  date: '2019-07-04'
 - type: cites
   target: celex:32014L0026
   label: null
@@ -149,20 +155,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82/2013/12/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82/2013/12/06/p/dre
+- type: cites
+  target: pt:dre:107458719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66970759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67072250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67409481:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32014L0026
   label: null
   source: null
 article_structure:
-  article_count: 136
+  article_count: 87
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:07Z'
   warnings: []
   errors: []
 ---
@@ -213,7 +303,9 @@ Objeto e âmbito de aplicação
 
 3 - As alíneas a), b), e) a h) e n) do n.º 2, os n.os 4, 5 e 7 do artigo 28.º, o n.º 1 do artigo 36.º e o artigo 49.º da presente lei, bem como a legislação sobre proteção de dados pessoais, aplicam-se a todas as entidades de gestão independente estabelecidas em território nacional.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 [...]
 
@@ -247,7 +339,9 @@ n) 'Titular de direitos', qualquer pessoa, ou entidade que não uma entidade de 
 
 o) [Anterior alínea i).]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -257,11 +351,15 @@ b) As atividades de natureza social e cultural que beneficiem coletivamente os t
 
 2 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 As entidades de gestão coletiva exercem os direitos confiados à sua gestão e podem exigir o seu cumprimento por terceiros, inclusive perante a administração e em juízo, tendo ainda legitimidade para se constituírem como partes civis e assistentes e intervir em procedimentos administrativos e judiciais, civis e criminais em que estejam em causa violações do direito de autor e direitos conexos da categoria de titulares de direitos por si representados, desde que os estatutos assim o prevejam e o respetivo titular não se oponha.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -277,7 +375,9 @@ As entidades de gestão coletiva exercem os direitos confiados à sua gestão e 
 
 7 - Os procedimentos administrativos relativos à apreciação dos pedidos de registo estão sujeitos ao pagamento de taxas, através da Plataforma de Pagamento da Administração Pública.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - As entidades de gestão coletiva legalmente constituídas e registadas podem associar-se entre si, constituindo ou não uma nova pessoa coletiva, sob qualquer forma prevista na lei, incluindo sob a forma de agrupamento complementar de empresas ou consórcio, para prosseguirem em conjunto alguns dos seus fins, representando conjuntamente os respetivos titulares de direitos.
 
@@ -291,7 +391,9 @@ As entidades de gestão coletiva exercem os direitos confiados à sua gestão e 
 
 6 - [...]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - São órgãos das entidades de gestão coletiva:
 
@@ -307,7 +409,9 @@ c) Um conselho fiscal.
 
 4 - (Revogado.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Os membros dos órgãos sociais são necessariamente membros da entidade de gestão coletiva, com exceção do revisor oficial de contas e dos membros do órgão executivo referido do n.º 2 do artigo anterior.
 
@@ -315,7 +419,9 @@ c) Um conselho fiscal.
 
 3 - Quando existam diferentes categorias de membros da entidade de gestão coletiva, a composição dos órgãos sociais deve refletir a pluralidade de categorias e titulares representados de forma justa, equilibrada e, se necessário, alternada.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -331,7 +437,9 @@ c) [...]
 
 4 - [...]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A assembleia geral integra todos os membros da entidade de gestão coletiva, e deve ser convocada pelo menos uma vez em cada ano civil.
 
@@ -365,7 +473,9 @@ k) Política de gestão dos riscos.
 
 5 - Cada procuração é válida para uma única assembleia geral, e o procurador goza, na assembleia geral, dos mesmos direitos que o membro, devendo votar de acordo com as respetivas instruções.
 
-###### Artigo 22.º — Obrigações dos membros dos órgãos sociais
+Artigo 22.º
+
+Obrigações dos membros dos órgãos sociais
 
 1 - Os membros dos órgãos de administração, direção e fiscalização das entidades de gestão coletiva vinculam-se a gerir os destinos da entidade de forma diligente, idónea e prudente, devendo assegurar a existência de procedimentos administrativos e contabilísticos corretos e de mecanismos de controlo interno adequados.
 
@@ -383,7 +493,9 @@ d) [...]
 
 4 - O disposto no presente artigo aplica-se a todas as pessoas que, em virtude de contrato de trabalho, de mandato, de representação ou de prestação de serviços, exerçam gestão de negócios e tomem decisões em nome da entidade de gestão coletiva, com ou sem poderes de representação.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - Salvo disposição legal ou estatutária em contrário, as deliberações dos órgãos das entidades de gestão coletiva são tomadas por maioria de votos expressos dos titulares presentes, tendo o respetivo presidente voto de qualidade.
 
@@ -391,7 +503,9 @@ d) [...]
 
 3 - [...]
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...]
 
@@ -423,7 +537,9 @@ h) [Anterior alínea g).]
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - As entidades de gestão coletiva devem informar os terceiros interessados sobre as condições e preços de utilização de qualquer obra, prestação ou produto dos seus representados.
 
@@ -487,7 +603,9 @@ a) As obras ou outras prestações que representam, os direitos que gerem, diret
 
 b) Os tipos de obras ou outras prestações que gerem, os direitos que representam e os territórios abrangidos, nos casos em que não se possam determinar essas obras ou outras prestações devido ao âmbito de atividades da entidade de gestão coletiva.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - As entidades de gestão coletiva constituídas em Portugal devem afetar uma percentagem não inferior a 5 % do conjunto das receitas de direitos cobradas, a:
 
@@ -517,7 +635,9 @@ g) Internacionalização do mercado de obras e prestações de origem nacional e
 
 7 - Os termos e condições de utilização das verbas afetas à função social e cultural prevista no presente artigo são aprovados por portaria do membro do Governo responsável pela área da cultura.
 
-###### Artigo 30.º — Comissão de gestão e outras deduções
+Artigo 30.º
+
+Comissão de gestão e outras deduções
 
 1 - As entidades de gestão coletiva devem informar os titulares de direitos sobre as comissões de gestão e outras deduções que incidam nas receitas de direitos e em quaisquer rendimentos resultantes do investimento de receitas de direitos, antes de obterem o consentimento do titular de direitos para gerir os respetivos direitos.
 
@@ -531,7 +651,9 @@ g) Internacionalização do mercado de obras e prestações de origem nacional e
 
 6 - O conselho de administração ou direção pode, excecionalmente, fazer uma proposta de investimento que implique a fixação de uma comissão de gestão superior à referida no número anterior, desde que devidamente fundamentada, sujeita a parecer vinculativo do conselho fiscal e aprovada, em sede de orçamento, por dois terços dos votos expressos em assembleia geral.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]
 
@@ -555,7 +677,9 @@ c) [...]
 
 8 - As regras previstas na alínea f) do n.º 1 do artigo 27.º, no n.º 7 do artigo 28.º, no artigo 37.º-A e no n.º 3 do artigo 48.º-F aplicam-se igualmente aos titulares de direitos que não sejam membros da entidade de gestão coletiva, mas que por lei, transmissão, licença ou qualquer outra disposição contratual, têm com ela uma relação jurídica direta.
 
-###### Artigo 33.º — Distribuição dos montantes
+Artigo 33.º
+
+Distribuição dos montantes
 
 1 - [...]
 
@@ -567,7 +691,9 @@ c) [...]
 
 5 - Caso os montantes devidos aos titulares de direitos não possam ser distribuídos dentro do prazo fixado no número anterior porque os titulares de direitos não podem ser identificados ou localizados e a derrogação do prazo não seja aplicável, estes montantes são lançados e identificados separadamente nas contas da entidade de gestão coletiva.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...]
 
@@ -581,7 +707,9 @@ c) [...]
 
 6 - Operada a prescrição, os valores revertem para a função social e cultural prevista no artigo 29.º
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...]
 
@@ -607,7 +735,9 @@ e) As resoluções adotadas pela assembleia geral, na medida em que sejam releva
 
 7 - A entidade de gestão coletiva que receba os montantes referidos no número anterior, ou os respetivos membros, enquanto entidades que representam titulares de direitos, devem distribuir e pagar os montantes devidos no prazo máximo de seis meses a contar do seu recebimento, salvo se se verificarem razões objetivas que impeçam as entidades de gestão coletiva ou os seus membros de cumprirem o referido prazo, relacionadas nomeadamente com a comunicação de informações pelos utilizadores, a identificação de direitos, de titulares de direitos ou o cruzamento de informações entre as obras e outras prestações com os titulares de direitos.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...]
 
@@ -627,7 +757,9 @@ e) As resoluções adotadas pela assembleia geral, na medida em que sejam releva
 
 9 - O incumprimento das obrigações de informação, concessão de acesso e instalação de mecanismos de monitorização e deteção previstas nos n.os 5 a 8 confere à respetiva entidade de gestão coletiva o direito de revogar unilateralmente a autorização concedida, sem prejuízo da possibilidade de aplicação de outras sanções contratuais ou constantes das respetivas condições gerais de licenciamento.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...]
 
@@ -641,7 +773,9 @@ e) As resoluções adotadas pela assembleia geral, na medida em que sejam releva
 
 6 - [...]
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...]
 
@@ -653,7 +787,9 @@ e) As resoluções adotadas pela assembleia geral, na medida em que sejam releva
 
 5 - As entidades de gestão coletiva devem ainda estabelecer tarifas e tarifários especiais com montantes especialmente reduzidos, aplicáveis a pessoas coletivas que prossigam fins não lucrativos e não comerciais, quando as respetivas atividades ou eventos se realizem em local de acesso livre e gratuito.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - [...]
 
@@ -677,7 +813,9 @@ c) [...]
 
 8 - [...]
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - O acordo de fixação de tarifários gerais celebrado nos termos do artigo anterior deve ser depositado por qualquer das partes junto da IGAC, que o publica no seu sítio na Internet, aplicando-se o n.º 2 do artigo 38.º
 
@@ -697,7 +835,9 @@ c) [...]
 
 9 - [...]
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -709,7 +849,9 @@ a) Caso a entidade representativa de utilizadores recuse a negociação, nos ter
 
 b) Caso as partes envolvidas na negociação não recorram à comissão de peritos nos termos do número anterior, passados 30 dias da falta de acordo na negociação.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...]
 
@@ -735,7 +877,9 @@ b) Caso as partes envolvidas na negociação não recorram à comissão de perit
 
 12 - Os conflitos a que se refere o n.º 1 podem ser também submetidos a centros de arbitragem voluntária tecnicamente competentes em direito da propriedade intelectual.
 
-###### Artigo 45.º — Procedimento coletivo de fixação de um tarifário geral
+Artigo 45.º
+
+Procedimento coletivo de fixação de um tarifário geral
 
 1 - As entidades de gestão coletiva e as entidades representativas de utilizadores podem recorrer ao procedimento coletivo para a fixação de um tarifário previsto na alínea a) do n.º 5 do artigo anterior, desde que comprovem a sua efetiva representatividade.
 
@@ -749,7 +893,9 @@ b) Caso as partes envolvidas na negociação não recorram à comissão de perit
 
 6 - (Revogado.)
 
-###### Artigo 46.º — Procedimento individual de fixação de um tarifário
+Artigo 46.º
+
+Procedimento individual de fixação de um tarifário
 
 1 - As entidades de gestão coletiva e os utilizadores podem recorrer ao procedimento individual para a fixação de um tarifário previsto na alínea b) do n.º 5 do artigo 44.º quando, cumulativamente:
 
@@ -763,7 +909,9 @@ d) (Revogada.)
 
 2 - O caráter individual do procedimento não obsta ao litisconsórcio ou à coligação de partes, nos termos gerais.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - Na pendência dos procedimentos coletivos ou individuais referidos nos números anteriores mantêm-se provisoriamente em vigor:
 
@@ -785,7 +933,9 @@ d) Os tarifários determinados na sequência de decisões anteriormente proferid
 
 6 - [...]
 
-###### Artigo 49.º — Âmbito da fiscalização
+Artigo 49.º
+
+Âmbito da fiscalização
 
 1 - A fiscalização do disposto na presente lei compete à IGAC.
 
@@ -795,7 +945,9 @@ d) Os tarifários determinados na sequência de decisões anteriormente proferid
 
 4 - A IGAC é a entidade competente para rececionar e avaliar as questões submetidas pelos membros, titulares de direitos, utilizadores, entidades de gestão coletiva e outras partes interessadas, sempre que considerem existir quaisquer atividades ou circunstâncias que violem alguma das disposições da presente lei.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - Constitui contraordenação punível com coima entre (euro) 250 e (euro) 2 500, no caso das pessoas singulares, e de (euro) 500 a (euro) 15 000, no caso das pessoas coletivas, a violação do disposto nos n.os 2 e 3 do artigo 19.º, nos n.os 1, 3 e 4 do artigo 20.º, nos n.os 1 a 7 do artigo 28.º, no n.º 5 do artigo 29.º, no n.º 2 do artigo 32.º, no n.º 1 do artigo 35.º, nos n.os 1, 2, 4 e 5 do artigo 36.º, no n.º 1 do artigo 37.º, nos n.os 1 e 2 do 37.º-A, no n.º 1 do artigo 38.º, no n.º 3 do artigo 47.º, nos n.os 1 e 2 do artigo 48.º-A, nos n.os 1 e 2 do artigo 48.º-B, no n.º 1 do artigo 48.º-C, nos n.os 2, 5 e 6 do artigo 48.º-D e nos n.os 3 e 4 do artigo 48.º-F.
 
@@ -809,7 +961,9 @@ d) Os tarifários determinados na sequência de decisões anteriormente proferid
 
 6 - (Revogado.)
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - Em função da gravidade da infração e da culpa do agente, podem ser aplicadas às entidades de gestão coletiva, simultaneamente com a coima e nos termos previstos no regime geral das contraordenações, as seguintes sanções acessórias:
 
@@ -823,7 +977,9 @@ d) Encerramento de estabelecimento.
 
 2 - As sanções acessórias referidas nas alíneas b) a d) do número anterior têm a duração máxima de dois anos, contados a partir da decisão condenatória definitiva.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - Todos os pedidos, comunicações e notificações, ou, em geral, quaisquer declarações entre os interessados e as autoridades competentes nos procedimentos previstos na presente lei devem ser efetuados por meios eletrónicos através do balcão único eletrónico dos serviços a que se refere o artigo 6.º do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho, acessível através do Portal do Cidadão.
 
@@ -839,7 +995,9 @@ d) Encerramento de estabelecimento.
 
 7 - [...]
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 As autoridades competentes, nos termos da presente lei, prestam e solicitam às autoridades competentes dos outros Estados-Membros informações, nomeadamente através do IMI e com base em pedidos devidamente fundamentados, sobre questões relevantes associadas à atividade de gestão coletiva desenvolvida por entidades estabelecidas ou para tal habilitadas nos termos da presente lei, nos termos do capítulo VI do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho.»
 
@@ -865,7 +1023,9 @@ d) Elaborar um parecer sobre os documentos referidos no n.º 1 do artigo 26.º, 
 
 e) Apresentar à assembleia geral um relatório sobre o exercício das suas competências, pelo menos uma vez por ano.
 
-###### Artigo 26.º-A — Relatório anual sobre a transparência
+Artigo 26.º-A
+
+Relatório anual sobre a transparência
 
 1 - Sem prejuízo das obrigações legais relativas à prestação de contas que forem aplicáveis de acordo com o tipo de entidade em questão, o relatório anual sobre a transparência a que se refere o n.º 1 do artigo anterior deve conter as informações constantes do anexo I à presente lei, da qual faz parte integrante.
 
@@ -873,7 +1033,9 @@ e) Apresentar à assembleia geral um relatório sobre o exercício das suas comp
 
 3 - Nos termos da alínea d) do n.º 2 do artigo 21.º-A, o revisor oficial de contas deve pronunciar-se sobre o relatório anual sobre a transparência aquando da certificação legal de contas, devendo o respetivo relatório de auditoria ser publicado integralmente com o relatório anual sobre a transparência.
 
-###### Artigo 32.º-A — Utilização de receitas
+Artigo 32.º-A
+
+Utilização de receitas
 
 1 - As entidades de gestão coletiva devem manter separadamente nas suas contas:
 
@@ -897,13 +1059,17 @@ b) Os ativos devem ser investidos de modo que garanta a segurança, a qualidade,
 
 c) Os ativos devem ser suficientemente diversificados para evitar a dependência excessiva de qualquer ativo e a acumulação de riscos importantes na carteira no seu conjunto.
 
-###### Artigo 37.º-A — Procedimentos de reclamação
+Artigo 37.º-A
+
+Procedimentos de reclamação
 
 1 - As entidades de gestão coletiva devem disponibilizar aos seus membros e às entidades de gestão coletiva em nome das quais gerem direitos ao abrigo de um acordo de representação procedimentos eficazes e oportunos para reclamações, particularmente no que se refere à autorização para a gestão de direitos, revogação ou retirada de direitos, condições de filiação, cobrança de montantes devidos aos titulares, deduções e distribuições.
 
 2 - As entidades de gestão coletiva devem responder por escrito às reclamações dos membros ou das entidades de gestão coletiva em nome das quais gerem direitos ao abrigo de acordos de representação, devendo indicar por escrito os motivos, caso recusem alguma reclamação.
 
-###### Artigo 48.º-A — Tratamento de licenças multiterritoriais
+Artigo 48.º-A
+
+Tratamento de licenças multiterritoriais
 
 1 - As entidades de gestão coletiva que concedem licenças multiterritoriais de direitos em linha sobre obras musicais devem ter capacidade suficiente para tratar eletronicamente, de modo eficiente e transparente, os dados necessários para a administração dessas licenças, incluindo para efeitos de identificação dos repertórios e de acompanhamento da sua utilização, da faturação aos utilizadores, da cobrança das receitas de direitos e da distribuição dos montantes devidos aos titulares de direitos.
 
@@ -917,7 +1083,9 @@ c) Utilizar identificadores únicos a fim de identificar os titulares de direito
 
 d) Utilizar meios adequados a fim de identificar e resolver em devido tempo e de forma eficaz as incoerências nos dados detidos por outras entidades de gestão coletiva que concedem licenças multiterritoriais de direitos em linha sobre obras musicais.
 
-###### Artigo 48.º-B — Transparência das informações constantes de repertórios multiterritoriais
+Artigo 48.º-B
+
+Transparência das informações constantes de repertórios multiterritoriais
 
 1 - As entidades de gestão coletiva que concedem licenças multiterritoriais de direitos em linha sobre obras musicais devem comunicar aos prestadores de serviços em linha, aos titulares cujos direitos representam e às outras entidades de gestão coletiva, através de meios eletrónicos e em resposta a um pedido devidamente justificado, informações atualizadas que permitam a identificação do repertório de música em linha que representam.
 
@@ -931,7 +1099,9 @@ c) Os territórios abrangidos.
 
 3 - As entidades de gestão coletiva podem tomar medidas razoáveis para proteger a exatidão e a integridade dos dados, controlar a sua reutilização e proteger informações comercialmente sensíveis.
 
-###### Artigo 48.º-C — Rigor das informações constantes de repertórios multiterritoriais
+Artigo 48.º-C
+
+Rigor das informações constantes de repertórios multiterritoriais
 
 1 - As entidades de gestão coletiva que concedem licenças multiterritoriais de direitos em linha sobre obras musicais devem dispor de procedimentos que permitam aos titulares de direitos, às outras entidades de gestão coletiva e aos prestadores de serviços em linha solicitar uma correção dos dados referidos na lista de condições, nos termos do n.º 2 do artigo 48.º-A ou das informações comunicadas nos termos do artigo 48.º-B, sempre que esses titulares, entidades de gestão coletiva e prestadores de serviços em linha, com base em provas razoáveis, considerem que os dados ou as informações são inexatos no que se refere aos seus direitos em linha sobre obras musicais.
 
@@ -943,7 +1113,9 @@ c) Os territórios abrangidos.
 
 5 - Caso uma entidade de gestão coletiva mandate, nos termos dos artigos 48.º-F e 48.º-G, outra entidade de gestão coletiva para conceder licenças multiterritoriais dos direitos em linha sobre obras musicais, a entidade de gestão coletiva mandatária deve também aplicar o disposto no n.os 3 e 4 em relação aos titulares de direitos cujas obras musicais fazem parte do repertório da entidade de gestão coletiva mandante, salvo decisão em contrário das entidades de gestão coletiva.
 
-###### Artigo 48.º-D — Informação e faturação
+Artigo 48.º-D
+
+Informação e faturação
 
 1 - As entidades de gestão coletiva devem acompanhar a utilização dos direitos em linha sobre as obras musicais que representam, no todo ou em parte, pelos prestadores de serviços em linha a quem tenham concedido licenças multiterritoriais relativas a esses direitos.
 
@@ -963,7 +1135,9 @@ c) Os territórios abrangidos.
 
 9 - As entidades de gestão coletiva devem dispor de procedimentos adequados que permitam aos prestadores de serviços em linha contestar o rigor da fatura, nomeadamente se os prestadores de serviços em linha receberem faturas de uma ou mais entidades de gestão coletiva para os mesmos direitos em linha sobre a mesma obra musical.
 
-###### Artigo 48.º-E — Pagamento rigoroso e tempestivo aos titulares de direitos
+Artigo 48.º-E
+
+Pagamento rigoroso e tempestivo aos titulares de direitos
 
 1 - Sem prejuízo do disposto do disposto nos n.os 3 e 4, as entidades de gestão coletiva que concedem licenças multiterritoriais de direitos em linha sobre obras musicais devem distribuir os montantes devidos aos titulares de direitos resultantes dessas licenças, com rigor e no mais curto espaço de tempo possível, após a informação da utilização efetiva das obras, exceto se a distribuição não for possível por motivos imputáveis aos prestadores de serviços em linha.
 
@@ -979,7 +1153,9 @@ c) Montantes cobrados em nome dos titulares de direitos, deduções efetuadas e 
 
 4 - A entidade de gestão coletiva mandante é responsável pela distribuição subsequente desses montantes e a prestação dessas informações aos titulares dos direitos, salvo acordo em contrário das entidades de gestão coletiva.
 
-###### Artigo 48.º-F — Acordos entre entidades de gestão coletiva sobre concessões de licenças multiterritoriais
+Artigo 48.º-F
+
+Acordos entre entidades de gestão coletiva sobre concessões de licenças multiterritoriais
 
 1 - Qualquer acordo de representação entre entidades de gestão coletiva pelo qual uma entidade de gestão coletiva mandata outra entidade de gestão coletiva para conceder licenças multiterritoriais de direitos em linha sobre obras musicais do seu próprio repertório de música tem natureza não exclusiva.
 
@@ -989,7 +1165,9 @@ c) Montantes cobrados em nome dos titulares de direitos, deduções efetuadas e 
 
 4 - A entidade de gestão coletiva mandatária deve informar a entidade de gestão coletiva mandante dos principais termos em que os direitos em linha desta última devem ser licenciados, incluindo a natureza da exploração, todas as disposições respeitantes ou que afetem a tarifa da licença, o período de validade da licença, os períodos contabilísticos e os territórios abrangidos.
 
-###### Artigo 48.º-G — Obrigação de representar outra entidade de gestão coletiva quanto a licenças multiterritoriais
+Artigo 48.º-G
+
+Obrigação de representar outra entidade de gestão coletiva quanto a licenças multiterritoriais
 
 1 - Sempre que uma entidade de gestão coletiva que não conceda nem se proponha a conceder licenças multiterritoriais de direitos em linha sobre obras musicais do seu próprio repertório solicite a outra entidade de gestão coletiva que celebre um acordo de representação relativamente a esses direitos, a entidade de gestão coletiva requerida deve aceitar esse pedido, caso já conceda ou se proponha a conceder licenças multiterritoriais para a mesma categoria de direitos em linha sobre obras musicais do repertório de outra ou outras entidades de gestão coletiva.
 
@@ -1005,11 +1183,15 @@ c) Montantes cobrados em nome dos titulares de direitos, deduções efetuadas e 
 
 7 - Caso as informações sejam insuficientes ou prestadas de forma que não permita que a entidade de gestão coletiva requerida satisfaça os requisitos do presente capítulo, tem esta o direito de cobrar os custos em que tenha razoavelmente incorrido para satisfazer esses requisitos ou excluir as obras relativamente às quais a informação seja insuficiente ou não possa ser utilizada.
 
-###### Artigo 48.º-H — Derrogação relativa aos direitos de música em linha necessários para utilização em programas de rádio e de televisão
+Artigo 48.º-H
+
+Derrogação relativa aos direitos de música em linha necessários para utilização em programas de rádio e de televisão
 
 Os requisitos do presente capítulo não são aplicáveis às entidades de gestão coletiva que concedam, em conformidade com as normas europeias da concorrência, uma licença geral multiterritorial de direitos em linha sobre obras musicais, que seja acessória à licença para a emissão inicial do programa de rádio ou de televisão, para transmitir ou disponibilizar ao público programas de rádio ou de televisão do mesmo operador, em simultâneo com ou após a primeira difusão, assim como qualquer material em linha, nomeadamente antevisões, produzido por ou para organismos de radiodifusão.
 
-###### Artigo 53.º-A — Da sanção aplicável
+Artigo 53.º-A
+
+Da sanção aplicável
 
 1 - A determinação da medida da coima faz-se em função da gravidade da contraordenação, da culpa do agente, da sua situação económica e dos benefícios obtidos com a prática do facto.
 
@@ -1059,11 +1241,15 @@ e) A comunicação ao público, de fonogramas e videogramas, incluindo a difusã
 
 4 - [...]
 
-###### Artigo 204.º — [...]
+Artigo 204.º
+
+[...]
 
 Às contraordenações previstas no presente Código é subsidiariamente aplicável, em tudo quanto não se encontre especialmente regulado, o disposto no regime geral das contraordenações.
 
-###### Artigo 208.º — [...]
+Artigo 208.º
+
+[...]
 
 O produto das coimas reverte:
 
@@ -1073,7 +1259,9 @@ b) Em 30 % para a IGAC;
 
 c) Em 10 % para a entidade que levanta o auto de notícia.
 
-###### Artigo 210.º-I — Perda de instrumentos e bens
+Artigo 210.º-I
+
+Perda de instrumentos e bens
 
 1 - [...]
 
@@ -1121,13 +1309,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de maio de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Luís Filipe Carrilho de Castro Mendes.
 
-**Promulgado em 28 de julho de 2017.**
+Promulgado em 28 de julho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 31 de julho de 2017.**
+Referendado em 31 de julho de 2017.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
 

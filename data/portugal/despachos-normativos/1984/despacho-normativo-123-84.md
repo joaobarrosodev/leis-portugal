@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/123-1984-387164
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T07:27:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96b47d8bb914e0816c6aad94a359d9c970b64b6d6e4a900b5aaca4e79209d615
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96affb365fd96edc67f807c261c9139fe7389e9797ad0705950461f6f97dfb54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:27:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições da Segurança Social
+- Segurança Social
+- Trabalhador Independente
+- Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:508818:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:654925:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:508818:por
+  label: "Revogada a norma VIII pelo DN.19/2000.2000.02.10.MTS DR.IS-B [73] de 27/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/19-2000-508818
+  date: '2000-02-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:27:45Z'
   warnings: []
   errors: []
 ---
@@ -153,4 +166,4 @@ VIII
 
 Secretaria de Estado da Segurança Social, 17 de Maio de 1984. - A Secretária de Estado da Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/14300/19091914.pdf))](https://files.diariodarepublica.pt/1s/1984/06/14300/19091914.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14300/19091914.pdf)

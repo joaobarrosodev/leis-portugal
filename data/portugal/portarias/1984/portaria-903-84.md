@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/903-1984-401362
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T08:16:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb994556211f3e5779d4531d28bb8141446c638b37be9507cd6c794ae077a539
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00645f10320ea595656bb4d715df9ccdd89d8ed8ae867d45e265c41d120dd3e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:16:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Faculdade de Ciências e Tecnologia
+- Licenciatura
+- Plano de Estudos
+- Universidade NOVA de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:379724:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621743:por
+  label: "Extintos os ramos de Engenharia Mecânica e Engenharia Química do curso de licenciatura em Engenharia de Produção\
+    \ Industrial e revoga as als. b) e c) do nº 2º, pela PORT.317-A/86.24.06.1986.MEC, DR.IS [142-Supl] de 24.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/317-a-1986-621743
+  date: '1986-06-24'
+- type: amended_by
+  target: pt:dre:379724:por
+  label: "Alterado o anexo I pela PORT.586/88.25.08.1988.ME, DR.IS [196] de 25.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/586-1988-379724
+  date: '1988-08-25'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512431:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:16:01Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +200,7 @@ A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 19 de Novembro de 1984.**
+Assinada em 19 de Novembro de 1984.
 
 Pelo Ministro da Educação, Joaquim Germano Pinto Machado Correia da Silva, Secretário de Estado do Ensino Superior.
 

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 36/2021, 1º Suplemento, Série I de 2021-02-22
   number: '36'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 20-(4) a 20-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/03601/0000400007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/1-a/2021/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-a-2021-158054820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:34:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f5efb05345b2bdd82a61dc8cbde243a70e766736ed09e926f158fa9d3d06c46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea8df7685b3527b7a11e35ac8d4d7e9b252cf193dba3b5aa48c6926bca10524c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:34:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ subjects:
 - Actualização de Pensões
 - Acumulação de Pensões
 - Acumulação de Prestações Sociais
-- Instituto da Segurança Social
-- Financiamento
+- Caixa Geral de Aposentações
 - Cálculo de Pensões
 - Complemento Extraordinario de Solidariedade
-- Regulamentação de Atos Legislativos
-- Caixa Geral de Aposentações
+- Financiamento
+- Instituto da Segurança Social
 - Pensão de Aposentação
 - Pensão de Invalidez
+- Pensão de Reforma
 - Pensão de Sobrevivência
 - Pensão de Velhice
-- Pensão de Reforma
 - Pensionista
 - Pensões
 - Prestações da Segurança Social
 - Proteção Social
 - Regime Contributivo da Segurança Social
+- Regulamentação de Atos Legislativos
 - Segurança Social
 relationships:
 - type: cites
@@ -130,16 +130,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107787667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115578262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117503937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128726980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678456:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:34:51Z'
   warnings: []
   errors: []
 ---
@@ -254,12 +306,14 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 18 de fevereiro de 2021. - António Luís Santos da Costa - António Mendonça Mendes - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 19 de fevereiro de 2021.**
+Promulgado em 19 de fevereiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de fevereiro de 2021.**
+Referendado em 19 de fevereiro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114000155

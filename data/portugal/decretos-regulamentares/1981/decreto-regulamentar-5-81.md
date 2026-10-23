@@ -47,40 +47,103 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1981-390181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:04:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4afdd319db14b45a192ef52c50263793e7ec089bbed14d303406b634baf0679
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f37f88929b8dd02ff9f54597a0a8e5df6a92475387e467a0c5af8d8097b4fc2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:04:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ÁREA de Serviço
+- Auto-estrada
+- Auto-estrada da Costa do Estoril
+- Auto-estrada do Norte
+- Auto-estrada do SUL
+- Auto-estrada Porto-braga-guimarães
+- Brisa
+- Contrato de Concessão
+- Expropriação
+- Financiamento
+- Garantia
+- Isenção de Portagem
+- Junta Autónoma das Estradas
+- Portagem
+- Receita Pública
+- Rescisão de Contrato
+- Sociedade Anónima
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:535656:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:600344:por
+  label: "Alterado o nº 4 da Base V, pelo DR.5/82.1982.02.11.MFP, DR.IS [35]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/5-1982-600344
+  date: '1982-02-11'
+- type: amended_by
+  target: pt:dre:535656:por
+  label: "Substituídas as bases anexas ao Dec 467/72, de 22-Nov, na redacção que lhes foi dada pelo presente diploma, pelo\
+    \ DEC LEI.458/85.1985.10.30.MES, DR.IS [250]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/458-1985-535656
+  date: '1985-10-30'
+- type: cites
+  target: pt:dre:215542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686606:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:573680:por
+  label: Rectificado o nº 6 da base V, os nºs. 7 e 11º da base IX, e a base XXIV, substituído o mapa I anexo e aditado o desenho
+    referido na al. b) do nº 7 da base V, pela DECL.DD817.1981.05.06.PCMDR.IS [116] de 21/Mai/1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-573680
+  date: '1981-05-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:04:22Z'
   warnings: []
   errors: []
 ---
@@ -99,17 +162,17 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São alteradas as bases constantes do [Decreto n.º 467/72](https://diariodarepublica.pt/dr/detalhe/decreto/467-1972-686606), de 22 de Novembro, que terão a redacção constante do anexo a este diploma.
+Artigo 1.º São alteradas as bases constantes do [Decreto n.º 467/72](https://diariodarepublica.pt/dr/detalhe/decreto/467-1972-686606), de 22 de Novembro, que terão a redacção constante do anexo a este diploma.
 
-###### Art. 2.º O critério estabelecido no presente diploma, relativo ao cálculo das receitas garantidas, é aplicável a partir de 1 de Janeiro de 1979.
+Art. 2.º O critério estabelecido no presente diploma, relativo ao cálculo das receitas garantidas, é aplicável a partir de 1 de Janeiro de 1979.
 
 Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva - João Lopes Porto.
 
-**Promulgado em 8 de Janeiro de 1981.**
+Promulgado em 8 de Janeiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 BASE I
 
@@ -127,7 +190,7 @@ d) Auto-Estrada Porto-Braga-Guimarães, entre o Porto (estrada nacional n.º 12)
 
 2 - As auto-estradas relacionadas no número anterior consideram-se divididas nos seguintes lanços e sublanços:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/01900/01730187.pdf))](https://files.diariodarepublica.pt/1s/1981/01/01900/01730187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/01900/01730187.pdf)
 
 3 - Os traçados e extensões definitivos de cada um dos lanços ou sublanços serão os que figurarem nos projectos aprovados.
 
@@ -161,7 +224,7 @@ BASE II
 
 1 - Os lanços e sublanços referidos no n.º 2 da base anterior entrarão em serviço, o mais tardar, nos semestres seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/01900/01730187.pdf))](https://files.diariodarepublica.pt/1s/1981/01/01900/01730187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/01900/01730187.pdf)
 
 2 - A pedido da concessionária, devidamente fundamentado, e mediante informação favorável da Junta Autónoma de Estradas, poderão ser alteradas a divisão em lanços e sublanços ou as datas de entrada em serviço que constam do n.º 1 desta base.
 
@@ -389,7 +452,7 @@ S(índice t), Av(índice t), Ac(índice t), B(índice t), C(índice t), Cb(índi
 
 O valor relativo de (alfa)(índice o) correspondente ao lanço ou sublanço será dado pela expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/01900/01730187.pdf))](https://files.diariodarepublica.pt/1s/1981/01/01900/01730187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/01900/01730187.pdf)
 
 10 - Para determinar o valor de (alfa)(índice f) proceder-se-á do seguinte modo:
 
@@ -913,7 +976,7 @@ Receitas a garantir à concessionária
 
 (Em contos, por ano e por cada lanço e sublanço)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/01900/01730187.pdf))](https://files.diariodarepublica.pt/1s/1981/01/01900/01730187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/01900/01730187.pdf)
 
 No presente mapa prevê-se que a entrada em serviço dos sublanços coincida com o fim dos semestres a que se refere a base II, pelo que, caso se verifique antecipação nas respectivas entradas em serviço, os valores base desse ano serão acrescidos na proporção dos meses de antecipação. Caso a entrada em serviço se verifique após o fim do semestre, o valor base a considerar para esse sublanço nesse ano será diminuído proporcionalmente aos meses do atraso.
 
@@ -923,4 +986,4 @@ Custos por lanços e sublanços - Preços de 1972
 
 (Em milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/01900/01730187.pdf))](https://files.diariodarepublica.pt/1s/1981/01/01900/01730187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/01900/01730187.pdf)

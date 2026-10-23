@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/111-1980-682218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T06:58:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43bda77336bd1e33b2cbd22862c6cd33f5b144de078d87be8ac9f927be1c2fa6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3ffa1748bd52cabc1dc3c60ea3d05612e8b88ea2d69926d838d917a7451a36a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:58:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Forças Armadas
+- Subsídio de Embarque
+relationships:
+- type: cites
+  target: pt:dre:297423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692386:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:58:57Z'
   warnings: []
   errors: []
 ---
@@ -89,6 +107,6 @@ Ao abrigo do disposto no artigo 4.º do citado [Decreto-Lei n.º 283/76](https:/
 
 O Conselho da Revolução, pelo Chefe do Estado-Maior-General das Forças Armadas e pelo Chefe do Estado-Maior da Armada, e os Ministros da Defesa Nacional e das Finanças e do Plano estabelecem os quantitativos seguintes destinados a substituir, a partir de 1 de Janeiro de 1980, os dos subsídios de embarque constantes das colunas I e II da tabela I a que se refere o [Decreto n.º 41045](https://diariodarepublica.pt/dr/detalhe/decreto/41045-1957-653716), de 29 de Março de 1957:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/04/08000/06480648.pdf))](https://files.diariodarepublica.pt/1s/1980/04/08000/06480648.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/04/08000/06480648.pdf)
 
 Conselho da Revolução e Ministérios da Defesa Nacional e das Finanças e do Plano, 18 de Março de 1980. - O Chefe do Estado-Maior-General das Forças Armadas, António Ramalho Eanes. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, vice-almirante. - O Ministro da Defesa Nacional, Adelino Manuel Lopes Amaro da Costa. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/84/1998/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1998-209015
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2913af48d9429e89a05c5f7ce827e10053fa8ea59a7271dd292176a2ef9320f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e171a2e16a8077284199990f2e937d7b663981c12d228fbc451e8f24d3d89d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/62/1997/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/62/1997/03/26/p/dre
+- type: cites
+  target: pt:dre:525618:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:276575:por
+  label: "Rectificado pela DECL-RECT.9-A/98.1998.03.31.PCM DR.IS-A [100]Supl de 30/Abr/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/9-a-1998-276575
+  date: '1998-03-31'
+- type: repealed_by
+  target: pt:dre:580670:por
+  label: "Revogados os arts. 2º, 11º e 16º pelo DEC LEI.96/2003.2003.05.07.PCM, DR.IS-A [105],a partir da sua entrada em vigor.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-2003-580670
+  date: '2003-05-07'
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:44Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +161,9 @@ l) [Anterior alínea j).]
 
 5 - O exercício da competência prevista na alínea j) do n.º 2 carece de autorização do Ministro das Finanças e do membro do Governo responsável pela área do desporto.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -158,7 +175,9 @@ l) [Anterior alínea j).]
 
 5 - O apoio técnico e científico necessário ao funcionamento do Laboratório de Análises da Dopagem e Bioquímica é assegurado nos termos de protocolo a estabelecer com o Comité Olímpico de Portugal e com instituições científicas, públicas ou privadas, de reconhecido prestígio, nos termos a aprovar por despacho do membro do Governo que tutela a área do desporto.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -170,12 +189,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 20 de Março de 1998.**
+Promulgado em 20 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Março de 1998.**
+Referendado em 26 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

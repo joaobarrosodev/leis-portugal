@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/29300/30143015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/770-1977-280231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:30:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9b7be08b0ebf90ddf4d7b44af8c82420a88c668db28a6cbe50d071018bc6591
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6d53cdff83b6deec4dd96a19cf70563e6734ee68d367c86b984c46a764c4b5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:30:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cártamo
+- Girassol
+- Indústria Alimentar
+- Instituto do Azeite e Produtos Oleaginosos
+- Oleaginosas
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:381516:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:139961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:381516:por
+  label: "Revogada pela PORT.379/79.30.07.1979.MFP, DR.IS [174] de 30.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/379-1979-381516
+  date: '1979-07-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:30:41Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +154,7 @@ Os preços fixados entendem-se para grão limpo, seco, são e sem cheiros estran
 
 2 - Características base:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/29300/30143015.pdf))](https://files.diariodarepublica.pt/1s/1977/12/29300/30143015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/29300/30143015.pdf)
 
 3 - Bonificações e penalizações:
 
@@ -145,4 +168,4 @@ c) As variações na percentagem de impurezas abaixo de 1% e acima de 2% serão,
 
 Estes preços entendem-se para sementes entregues pelos produtores em local a designar pelo comprador; quando este local se situar fora do distrito em que as sementes hajam sido produzidas, o produtor terá direito a uma compensação, a pagar pelo comprador, correspondente ao acréscimo no custo do frete.
 
-**O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Carlos Alberto Antunes Filipe. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.**
+O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Carlos Alberto Antunes Filipe. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.

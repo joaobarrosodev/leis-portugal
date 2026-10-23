@@ -46,36 +46,106 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/642-1983-451634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T07:45:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ea1ba3b5afef5bf0aaa45f3886148dbc0cff27dc8583b54d7bd22a9323da889
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b977feb60c82a229a3e98aa713208aad2b1827a7145840b767a063d4aa90b8c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:45:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acidente de Trabalho
+- Conselho Geral
+- Gestão Financeira
+- Incapacidade Física
+- Pensão Unificada
+- Pensões
+- Pessoal Dirigente
+- Prestações Pecuniárias
+- Regulamento
+- Segurança Social
+- Seguro
+- Trabalhador por Conta de Outrem
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "19951117 - PASSOU PARA A DEPENDENCIA DO MINISTRO DA SOLIDARIEDADE E SEGURANÇA SOCIAL, ATRAVES DO DEC LEI 296-A/95\
+    \ DE 17-NOV DR.IS-A [266]SUPL\0 [266]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:316350:por
+  label: Rectificada pela DECL.DD5806.17.06.1983.PCM, DR.IS [148-2.º Supl] de 30.06.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-316350
+  date: '1983-06-17'
 article_structure:
   article_count: 92
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:45:12Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +178,9 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Seguran�
 
 Secretaria de Estado da Segurança Social.
 
-**Assinada em 19 de Abril de 1983.**
+Assinada em 19 de Abril de 1983.
 
-**O Secretário de Estado da Segurança Social, António José de Castro Bagão Félix.**
+O Secretário de Estado da Segurança Social, António José de Castro Bagão Félix.
 
 REGULAMENTO DA CAIXA NACIONAL DE SEGUROS DE DOENÇAS PROFISSIONAIS
 
@@ -920,4 +990,4 @@ As contas de gerência do Fundo de Garantia serão publicadas conjuntamente com 
 
 ## ANEXO — Cartão de pensionista da Caixa Nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/12600/20272039.pdf))](https://files.diariodarepublica.pt/1s/1983/06/12600/20272039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/12600/20272039.pdf)

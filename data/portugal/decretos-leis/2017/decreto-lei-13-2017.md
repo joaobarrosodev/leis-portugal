@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/01/01900/0050500508.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13/2017/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2017-105808926
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63b1ced66e0bf0fe6be06a91b2b8c5cdc5fffb41e33838e91ed83a689b950100
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2d10b23a3dc0c4e24e3ada563ba3dba874c28b258f59f4f8b743b482e86072c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Carreira de Polícia Municipal
 - Definição de Competências
+- Gratificação
 - Lisboa
-- Recrutamento de Pessoal
-- Veículo
 - Polícia Municipal
+- Porto
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Regime Jurídico
 - Regulamento
-- Gratificação
-- Autarquia Local
-- Porto
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/243/2015/10/19/p/dre
@@ -90,13 +90,13 @@ relationships:
 article_structure:
   article_count: 21
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:40Z'
   warnings: []
   errors: []
 ---
@@ -283,15 +283,15 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 22 de setembro de 2016. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Maria Constança Dias Urbano de Sousa - Eduardo Arménio do Nascimento Cabrita - José António Fonseca Vieira da Silva - Adalberto Campos Fernandes.
 
-**Promulgado em 17 de janeiro de 2017.**
+Promulgado em 17 de janeiro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de janeiro de 2017.**
+Referendado em 18 de janeiro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 15.º)
 
@@ -299,8 +299,8 @@ Mapa dos cargos de direção
 
 A - Polícia Municipal de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/01/01900/0050500508.pdf))](https://files.diariodarepublica.pt/1s/2017/01/01900/0050500508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/01/01900/0050500508.pdf)
 
 B - Polícia Municipal do Porto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/01/01900/0050500508.pdf))](https://files.diariodarepublica.pt/1s/2017/01/01900/0050500508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/01/01900/0050500508.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/155/2002/06/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2002-146019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b5fd4841754e384fd3cadb50b8afa43ecbe087cf68176f74eaf2c45b186cde6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad180b8d6c899389631088b1996305dcd0ba4a3bc9017579511a05ae1f1cedfc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,30 @@ reuse:
 subjects:
 - Comissão Interministerial para o Apoio à Transição em Timor Leste
 - Comissário para o Apoio à Transição em Timor Leste
-- Timor Leste
 - Extinção de Serviços
-- Ministro dos Negócios Estrangeiros
 - Instituto da Cooperação Portuguesa
+- Ministro dos Negócios Estrangeiros
+- Timor Leste
 - Transferência Patrimonial
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189-a/1999/06/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/189-a/1999/06/04/p/dre
+- type: cites
+  target: pt:dre:303228:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:52Z'
   warnings: []
   errors: []
 ---
@@ -134,12 +138,12 @@ Fica revogado o [Decreto-Lei n.º 189-A/99](https://diariodarepublica.pt/dr/deta
 
 Visto e aprovado em Conselho de Ministros de 16 de Maio de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Armando José Cordeiro Sevinate Pinto - José David Gomes Justino - Luís Filipe Pereira - António José de Castro Bagão Félix.
 
-**Promulgado em 3 de Junho de 2002.**
+Promulgado em 3 de Junho de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Junho de 2002.**
+Referendado em 6 de Junho de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

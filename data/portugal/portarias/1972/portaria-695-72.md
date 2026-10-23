@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/695-1972-686586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:55:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93b3aa033bc7eb510a07f69d19111486f6579fe93261a1e25f2c400f6a5a7cea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1dc62b7151d597726f347212513123c2a8b633a20a192ecff62ec20fa0c5e39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:55:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673844:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:55:34Z'
   warnings: []
   errors: []
 ---
@@ -141,6 +161,6 @@ Para ser publicada no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.
 
 Quadro a que se refere o n.º 5.º da Portaria n.º 695/72
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/11/27700/17821783.pdf))](https://files.diariodarepublica.pt/1s/1972/11/27700/17821783.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/11/27700/17821783.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

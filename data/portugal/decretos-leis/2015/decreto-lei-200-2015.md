@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/18100/0814008145.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/200/2015/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2015-70309903
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4b8554c57e2b4d43a9fdec4c2ac7ff03d6b8ffd86b116b4d1003a107a4c0279
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dabb1b8a9210e23df27dbc92a0188d95146530fb71e2f03fcaa828f0da4b8662
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Agência para o Desenvolvimento e Coesão
-- Mar
-- Definição de Competências
-- Mar Territorial
-- Comissão Interministerial para os Assuntos do MAR
-- Estratégia Nacional para o MAR
-- Direção Geral de Política do Mar
-- Desenvolvimento Económico
-- Programa Operacional
-- Madeira.região Autónoma
 - Açores
-- Unidade de Gestão
-- PORTUGAL 2020
-- ITI MAR
+- Agência para o Desenvolvimento e Coesão
 - CIC Portugal 2020
+- Comissão Interministerial para os Assuntos do MAR
+- Definição de Competências
+- Desenvolvimento Económico
+- Direção Geral de Política do Mar
+- Estratégia Nacional para o MAR
+- ITI MAR
+- Madeira.região Autónoma
+- Mar
+- Mar Territorial
+- PORTUGAL 2020
+- Programa Operacional
+- Unidade de Gestão
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/137/2014/09/12/p/dre
@@ -89,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/12/2014/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/12/2014/02/12/p/dre
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572585:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:13Z'
   warnings: []
   errors: []
 ---
@@ -363,12 +371,12 @@ O ITI Mar vigora até ao encerramento do último programa operacional que haja f
 
 Visto e aprovado em Conselho de Ministros de 30 de julho de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Miguel Poiares Pessoa Maduro - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 4 de setembro de 2015.**
+Promulgado em 4 de setembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de setembro de 2015.**
+Referendado em 10 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

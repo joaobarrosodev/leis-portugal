@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/025a00/04740478.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/20/2001/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2001-315153
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3b869852ad7fe57fe9c47faa6846d08b6b5b3519be288e07220e55ba3d1057e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc47625d4ae5a65f42674018d564f5cf18569c740531cb30ee8262c3354d6eb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Região Autónoma
-- Multa
-- Contra-ordenação
-- Direção Geral de Veterinária
-- Controlo Sanitário
-- Saúde Pública
-- Fiscalização
 - Ave de Capoeira
+- Contra-ordenação
+- Controlo Sanitário
+- Direção Geral de Veterinária
+- Fiscalização
 - Importação
+- Multa
 - OVO
 - Proteção do Consumidor
+- Região Autónoma
+- Saúde Pública
 - Troca Intracomunitária
 relationships:
 - type: amended_by
@@ -93,16 +93,21 @@ relationships:
   target: celex:31999L0089
   label: null
   source: http://data.europa.eu/eli/dir/1999/89/oj
+- type: repealed_by
+  target: pt:dre:346359:por
+  label: "Revogado pelo DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 article_structure:
   article_count: 16
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:59Z'
   warnings: []
   errors: []
 ---
@@ -347,12 +352,12 @@ Nas Regiões Autónomas dos Açores e da Madeira a execução do presente diplom
 
 Visto e aprovado em Conselho de Ministros de 2 de Novembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Mário Cristina de Sousa - Luís Manuel Capoulas Santos.
 
-**Promulgado em 15 de Janeiro de 2001.**
+Promulgado em 15 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Janeiro de 2001.**
+Referendado em 18 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

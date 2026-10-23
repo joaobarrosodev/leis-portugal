@@ -47,40 +47,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/617-1983-451807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T07:44:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c1bcc536e3a83af7752a2100a3e2b3808d63f8ab200dddb11ac81c0bbcbfd24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e9f4c4f76bd0fdff7540cff6e69ac5095505c56dc16da90d295cb8917e0743b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:44:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Engenharia do Ambiente
+- Curso de Engenharia Física e dos Materiais
+- Curso de Engenharia Informática
+- Curso de Química Aplicada
+- Ensino Superior
+- Faculdade de Ciências e Tecnologia
+- Licenciatura
+- Plano de Estudos
+- Universidade NOVA de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:550462:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621743:por
+  label: "Alterados os anexos I, II, III e IV pela PORT.317-A/86.24.06.1986.MEC, DR.IS [142-Supl] de 24.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/317-a-1986-621743
+  date: '1986-06-24'
+- type: amended_by
+  target: pt:dre:419452:por
+  label: "Alterados os anexos VII e VIII e os nºs 2 e 3 do nº. 7, derrogados os nº 4 do nº 2 e os anexos IX, X e XI e aditado\
+    \ um anexo IX pela PORT.537/87.1987.06.30.MEC, DR.IS [147]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/537-1987-419452
+  date: '1987-06-30'
+- type: amended_by
+  target: pt:dre:379724:por
+  label: "Extinto o ramo de Ordenamento do Território do curso de licenciatura em Engenharia do Ambiente, alterados o nº 6º,\
+    \ os anexos I e III - com a redacção da Port 317-A/86 de 24-Jun - e VI pela PORT.586/88.25.08.1988.ME, DR.IS [196] de\
+    \ 25.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/586-1988-379724
+  date: '1988-08-25'
+- type: amended_by
+  target: pt:dre:550462:por
+  label: "Alterados os anexos VII e VIII pela PORT.1074/89.1989.12.13.ME,DR.IS [285]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1074-1989-550462
+  date: '1989-12-13'
+- type: cites
+  target: pt:dre:311414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562226:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:44:37Z'
   warnings: []
   errors: []
 ---
@@ -209,7 +257,7 @@ Os alunos dos anteriores planos de estudo que por força de reingresso devam ins
 
 Ministério da Educação.
 
-**Assinada em 11 de Maio de 1983.**
+Assinada em 11 de Maio de 1983.
 
 Pelo Ministro da Educação, Alberto Romão Dias, Secretário de Estado do Ensino Superior.
 

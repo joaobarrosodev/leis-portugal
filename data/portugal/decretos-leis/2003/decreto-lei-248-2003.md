@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/248/2003/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2003-482575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb4b9ef79bed4f836de958e6773542f9d3ba7817ac731e35d6b85fd4ab01de49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e043e7a2fe9904a25bce84cce2890f227687bf52410b5cb18347f4441af4689c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arquivo Distrital
+- Biblioteca Pública
 - Instituto dos Arquivos Nacionais-torre do Tombo
 - Preço
 - Prestação de Serviços
-- Biblioteca Pública
 - Regime Jurídico
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:312272:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:50Z'
   warnings: []
   errors: []
 ---
@@ -113,12 +117,12 @@ O preço dos bens e serviços prestados pelos arquivos distritais serão remuner
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2003. - José Manuel Durão Barroso - Norberto Emílio Sequeira da Rosa - Pedro Manuel da Cruz Roseta.
 
-**Promulgado em 24 de Setembro de 2003.**
+Promulgado em 24 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Setembro de 2003.**
+Referendado em 25 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

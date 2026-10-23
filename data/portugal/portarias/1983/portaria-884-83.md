@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/09/21800/33453348.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/884-1983-442315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T07:53:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67ada1a61ceedf351106016dd986af4b53650be12efebc3fae28933ccc09e5df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25fedcca90fd71d98e5e1b5c6cc8518a8297747cf3e432a25948afeb19eddd19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:53:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Leite
+- Preço
+- Preço de Venda
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:660542:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661129:por
+  label: "Alterados os nºs 15º e 17º pela PORT.134/84.1984.03.03.MFP, DR.IS [54]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/134-1984-661129
+  date: '1984-03-03'
+- type: cites
+  target: pt:dre:310403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627020:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:660542:por
+  label: "Revogada pela PORT.302-A/84.1984.05.19.MFP, DR.IS [116]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/302-a-1984-660542
+  date: '1984-05-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:53:26Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +234,7 @@ Leite esterilizado magro ... 0,5
 
 13.º - 1 - Os preços máximos do leite pasteurizado para utilizar fora do local de aquisição são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/09/21800/33453348.pdf))](https://files.diariodarepublica.pt/1s/1983/09/21800/33453348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/09/21800/33453348.pdf)
 
 2 - Aos preços máximos de venda ao público fixados no n.º 1 poderá acrescer a importância de $50 por embalagem vendida para consumo fora da localidade onde se situam as instalações de tratamento, revertível para o centro de tratamento, se efectuar a distribuição até ao retalho, ou para o retalhista, se se abastecer no centro de tratamento.
 
@@ -206,7 +248,7 @@ Leite esterilizado magro ... 0,5
 
 15.º - 1 - Os preços máximos do leite ultrapasteurizado de fabrico continental para utilizar fora do local de aquisição são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/09/21800/33453348.pdf))](https://files.diariodarepublica.pt/1s/1983/09/21800/33453348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/09/21800/33453348.pdf)
 
 2 - É permitida a absorção da margem máxima de distribuição pelo centro de tratamento, sempre que este efectue tal operação.
 
@@ -214,7 +256,7 @@ Leite esterilizado magro ... 0,5
 
 16.º - 1 - Os preços máximos de leite esterilizado de fabrico continental para utilizar fora do local de aquisição são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/09/21800/33453348.pdf))](https://files.diariodarepublica.pt/1s/1983/09/21800/33453348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/09/21800/33453348.pdf)
 
 2 - É permitida a absorção da margem máxima de distribuição pelo centro de tratamento, sempre que este efectue tal operação.
 
@@ -222,7 +264,7 @@ Leite esterilizado magro ... 0,5
 
 17.º - 1 - Os preços máximos de leite especial pasteurizado para utilizar fora do local de aquisição são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/09/21800/33453348.pdf))](https://files.diariodarepublica.pt/1s/1983/09/21800/33453348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/09/21800/33453348.pdf)
 
 2 - Aos preços máximos de venda ao público fixados no n.º 1 poderá acrescer a importância de $50 por embalagem vendida para consumo fora da localidade onde se situam as instalações de tratamento, revertível para o centro de tratamento, quando este efectuar a distribuição até ao retalho, ou para o retalhista, se se abastecer no centro de tratamento.
 
@@ -234,7 +276,7 @@ Leite esterilizado magro ... 0,5
 
 19.º - 1 - Os subsídios a atribuir aos vários tipos de leite para consumo em natureza serão suportados pelo Fundo de Abastecimento e constam do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/09/21800/33453348.pdf))](https://files.diariodarepublica.pt/1s/1983/09/21800/33453348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/09/21800/33453348.pdf)
 
 2 - Os subsídios referidos no n.º 1 serão liquidados directamente pela Junta Nacional dos Produtos Pecuários às entidades que procedam ao tratamento daqueles tipos de leite para consumo em natureza.
 
@@ -274,9 +316,9 @@ De Oliveira de Azeméis - 1$503.
 
 Secretarias de Estado do Orçamento, da Agricultura, da Alimentação e do Comércio Interno.
 
-**Assinada em 14 de Setembro de 1983.**
+Assinada em 14 de Setembro de 1983.
 
-**O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado da Agricultura, José Herculano Brito de Carvalho. - O Secretário de Estado da Alimentação, Jacinto José Montalvão de Santos e Silva Marques. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.**
+O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado da Agricultura, José Herculano Brito de Carvalho. - O Secretário de Estado da Alimentação, Jacinto José Montalvão de Santos e Silva Marques. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.
 
 Lista anexa a que se refere o n.º 5 da Portaria n.º
 
@@ -298,4 +340,4 @@ Lista anexa a que se refere o n.º 5 da Portaria n.º
 
 9) Equipamento de recuperação de calor do sistema de refrigeração.
 
-**O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado da Agricultura, José Herculano Brito de Carvalho. - O Secretário de Estado da Alimentação, Jacinto José Montalvão de Santos e Silva Marques. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.**
+O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado da Agricultura, José Herculano Brito de Carvalho. - O Secretário de Estado da Alimentação, Jacinto José Montalvão de Santos e Silva Marques. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/100/2008/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2008-449418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c237ee200c0e72c164a6056a45fb8728a2ce00627b09a76e217f365cb64026e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4cf88b11d7d41913d327bb660097e552a120d2832f0a608069a68c29877b759e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração de Portos
 - Água
 - Águas Públicas
 - BENS Imóveis
+- BENS Imóveis do Estado
 - Cadastro e Inventário dos BENS do Estado
 - Contrato de Concessão
-- Recursos Hídricos
-- Domínio Público Marítimo
-- Propriedade do Estado
 - Domínio Público do Estado
-- Administração de Portos
+- Domínio Público Hídrico
+- Domínio Público Marítimo
 - Fiscalização
-- BENS Imóveis do Estado
 - Interesse Público
 - Licenciamento
-- Proteção do Ambiente
-- Domínio Público Hídrico
-- Regime Jurídico
 - Portos
+- Propriedade do Estado
+- Proteção do Ambiente
+- Recursos Hídricos
+- Regime Jurídico
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/280/2007/08/07/p/dre
@@ -98,16 +98,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:306646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:51Z'
   warnings: []
   errors: []
 ---
@@ -214,12 +234,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Maio de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - Mário Lino Soares Correia.
 
-**Promulgado em 30 de Maio de 2008.**
+Promulgado em 30 de Maio de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 2 de Junho de 2008.**
+Referendado em 2 de Junho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

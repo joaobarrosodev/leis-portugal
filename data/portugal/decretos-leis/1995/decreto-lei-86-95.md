@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/099a00/23982399.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/86/1995/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1995-223184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81dd3a1b94808af96cf0ac37c195f283f784c5cb47fbc9325883f3d582d82165
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 766a136e0f1cb01b93782c630be8722af8e353ac4d8bf38d49a624c2a8e2f5be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comércio
 - Estabelecimento Comercial
 - Horário de Funcionamento
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:469018:por
@@ -82,16 +82,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/83/1995/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/83/1995/04/26/p/dre
+- type: cites
+  target: pt:dre:223400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584256:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:469018:por
+  label: "Revogado o Dec Lei 417/83 de 25-Nov DR.IS [272] pelo DEC LEI.48/96.1996.05.15.MECO DR.IS-A [113], com as alterações\
+    \ introduzidas pelo presente diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1996-469018
+  date: '1996-05-15'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:46Z'
   warnings: []
   errors: []
 ---
@@ -120,9 +138,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º e 4.º do [Decreto-Lei n.º 417/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/417-1983-442957), de 25 de Novembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º e 4.º do [Decreto-Lei n.º 417/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/417-1983-442957), de 25 de Novembro, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - Sem prejuízo do regime especial em vigor para actividades não especificadas no presente diploma, os estabelecimentos de venda ao público e de prestação de serviços, incluindo os localizados em centros comerciais, cafés, cervejarias, casas de chá, restaurantes, snack-bars e self-services, devem estar encerrados entre as 2 e as 6 horas de todos os dias da semana.
+Artigo 1.º - 1 - Sem prejuízo do regime especial em vigor para actividades não especificadas no presente diploma, os estabelecimentos de venda ao público e de prestação de serviços, incluindo os localizados em centros comerciais, cafés, cervejarias, casas de chá, restaurantes, snack-bars e self-services, devem estar encerrados entre as 2 e as 6 horas de todos os dias da semana.
 
 2 - (Anterior n.º 3.)
 
@@ -134,22 +152,22 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 6 - No caso de estabelecimentos localizados em centros comerciais, o disposto no n.º 4 apenas é aplicável àqueles que atinjam as áreas de venda referidas no [Decreto-Lei n.º 258/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1992-584256), de 20 de Novembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 83/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1995-223400).
 
-###### Art. 4.º - 1 - Nos casos em que não existam regulamentos municipais sobre horários de funcionamento dos estabelecimentos comerciais, ou em que, existindo, contrariem o estabelecido no artigo 1.º, dispõem os órgãos municipais do prazo máximo de 120 dias, após a data da entrada em vigor do presente diploma, para procederem à sua elaboração ou revisão.
+Art. 4.º - 1 - Nos casos em que não existam regulamentos municipais sobre horários de funcionamento dos estabelecimentos comerciais, ou em que, existindo, contrariem o estabelecido no artigo 1.º, dispõem os órgãos municipais do prazo máximo de 120 dias, após a data da entrada em vigor do presente diploma, para procederem à sua elaboração ou revisão.
 
 2 - Findo o prazo indicado sem que se tenha verificado o disposto no número anterior, podem os titulares dos estabelecimentos adaptar os respectivos períodos de abertura aos previstos no artigo 1.º
 
 3 - O disposto no número anterior não prejudica a competência dos órgãos autárquicos municipais para, nos termos do artigo 3.º, fixarem posteriormente os períodos de abertura dos estabelecimentos comerciais.
 
-###### Art. 2.º O disposto nos n.os 4 e 5 do artigo 1.º do [Decreto-Lei n.º 417/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/417-1983-442957), de 25 de Novembro, com a redacção que lhe foi dada pelo artigo anterior, vigora até 31 de Dezembro de 1998, data a partir da qual se aplica o regime previsto no n.º 1 do mesmo artigo.
+Art. 2.º O disposto nos n.os 4 e 5 do artigo 1.º do [Decreto-Lei n.º 417/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/417-1983-442957), de 25 de Novembro, com a redacção que lhe foi dada pelo artigo anterior, vigora até 31 de Dezembro de 1998, data a partir da qual se aplica o regime previsto no n.º 1 do mesmo artigo.
 
 Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 1995. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - José Bernardo Veloso Falcão e Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 17 de Março de 1995.**
+Promulgado em 17 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Março de 1995.**
+Referendado em 20 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

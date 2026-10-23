@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/286a00/87088708.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/524/1999/12/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1999-632396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:14:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d87b867b4569c41d0a0eaa24f73823bf0c9cd6037ee66af58be5712a5f8ecbf7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c8697fe1359feb3037e68fc14e963d954613a3e72a7b2e9e48ef5faf38fed2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:14:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Arrendamento Rural
-- Pagamento
-- Jovem Agricultor
-- Exploração Agrícola
-- Prazo
 - Agricultor
+- Arrendamento Rural
+- Exploração Agrícola
+- Jovem Agricultor
+- Pagamento
 - Política Agrícola
+- Prazo
 relationships:
 - type: amended_by
   target: pt:dre:491733:por
@@ -81,16 +81,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/111/1999/08/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/111/1999/08/03/p/dre
+- type: cites
+  target: pt:dre:345125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354121:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:491733:por
+  label: "Revogado, a partir de 11.01.2010, e sem prejuízo do disposto no art. 41.º, o Dec Lei 385/88, de 25-Out, alterado\
+    \ pelo presente diploma, pelo DEC LEI.294/2009.13.10.2009.MADRP, DR.IS [198] de 13.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/294-2009-491733
+  date: '2009-10-13'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:14:36Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +147,7 @@ Os artigos 5.º e 7.º do [Decreto-Lei n.º 385/88](https://diariodarepublica.pt
 
 3 - Findos os prazos estabelecidos nos números anteriores, ou convencionado, se for superior, entende-se renovado o contrato por períodos sucessivos de cinco anos, enquanto o mesmo não for denunciado nos termos do presente diploma.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - ...
 
@@ -157,12 +171,12 @@ A antecipação do pagamento de rendas prevista no n.º 4 do artigo 7.º do [Dec
 
 Visto e aprovado em Conselho de Ministros de 1 de Outubro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos.
 
-**Promulgado em 19 de Novembro de 1999.**
+Promulgado em 19 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Novembro de 1999.**
+Referendado em 25 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

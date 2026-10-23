@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1984-381086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:10:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cecc7e2296ecc800c95f07fdf2b6edb3e747288a182a798786ba4df60bdcfd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 946b8de2dee3a05d07c8dc5ce0d272e430c0d598a48a07230908059010705db2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:10:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regulamento
+- Regulamento de Transportes em Automóveis
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:421027:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693029:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:10:00Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +116,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º A alínea e) do § 1.º do artigo 1.º e o artigo 219.º do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, com as redacções dadas, respectivamente, pelo artigo 1.º do [Decreto n.º 45060](https://diariodarepublica.pt/dr/detalhe/decreto/45060-1963-627595), de 4 de Junho de 1963, e pelo artigo 2.º do [Decreto n.º 59/71](https://diariodarepublica.pt/dr/detalhe/decreto/59-1971-445560), de 2 de Março, passam a ter a seguinte redacção:
+Artigo 1.º A alínea e) do § 1.º do artigo 1.º e o artigo 219.º do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, com as redacções dadas, respectivamente, pelo artigo 1.º do [Decreto n.º 45060](https://diariodarepublica.pt/dr/detalhe/decreto/45060-1963-627595), de 4 de Junho de 1963, e pelo artigo 2.º do [Decreto n.º 59/71](https://diariodarepublica.pt/dr/detalhe/decreto/59-1971-445560), de 2 de Março, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º ...
 
@@ -113,22 +132,22 @@ d) ...
 
 e) De doentes e suas bagagens em ambulâncias.
 
-###### Art. 219.º ...
+Art. 219.º ...
 
 § único. Por excepção ao disposto no corpo deste artigo, não será determinada a apreensão de ambulâncias ou veículos de pronto-socorro.
 
-###### Art. 2.º O n.º 6.º da [Portaria n.º 19937](https://diariodarepublica.pt/dr/detalhe/portaria/19937-1963-693029), de 9 de Julho de 1963, passa a ter a seguinte redacção:
+Art. 2.º O n.º 6.º da [Portaria n.º 19937](https://diariodarepublica.pt/dr/detalhe/portaria/19937-1963-693029), de 9 de Julho de 1963, passa a ter a seguinte redacção:
 
 6.º O transporte em ambulâncias destina-se aos doentes e suas bagagens e só quando a sua utilização, dadas as condições especiais de transporte que oferecem, seja indispensável ou recomendável. Este transporte não carece de licença e pode ser remunerado.
 
 Carlos Alberto da Mota Pinto - João Rosado Correia.
 
-**Promulgado em 8 de Agosto de 1984.**
+Promulgado em 8 de Agosto de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Agosto de 1984.**
+Referendado em 10 de Agosto de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

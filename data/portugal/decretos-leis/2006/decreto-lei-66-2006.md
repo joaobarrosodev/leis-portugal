@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/66/2006/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2006-667699
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02d28a788860e5b3e0d4eee22208d33b3403df8d3049642558e88294cea19cf8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f66b7a46f16237085fd7209beac0ebca0fa1ad37a6bc6fcf0864b54e1317a5c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Energia não Poluente
 - Código dos Impostos Especiais de Consumo
-- Imposto sobre Produtos Petrolíferos
 - Combustível
+- Energia não Poluente
+- Imposto sobre Produtos Petrolíferos
 - Isenção Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:335474:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterados os arts. 71º-A, e 78º-A, do Código dos Impostos Especiais de Consumo, aprovado pelo Dec Lei 566/99, de\
+    \ 22-Dez, na redacção do presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o art. 71º-A do Código dos Impostos Especiais de Consumo, aprovado pelo Dec Lei 566/99, de 22-Dez, aditado\
+    \ pelo presente diploma, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
 - type: cites
   target: celex:32003L0030
   label: null
@@ -89,16 +101,23 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/566/1999/12/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/566/1999/12/22/p/dre
+- type: repealed_by
+  target: pt:dre:335474:por
+  label: "Revogado, a partir de 21.07.2010, e com excepção dos arts 32.º a 36.º do Código dos Impostos Especiais de Consumo,\
+    \ os quais se mantêm em vigor até 31.12.2010, o Dec Lei 566/99, de 22-Dez, na redacção do presente diploma, pelo DEC LEI.73/2010.21.06.2010.MFAP,\
+    \ DR.IS [118] de 21.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2010-335474
+  date: '2010-06-21'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:09Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +182,9 @@ c) Entre 2008 e 2010, 5,75%, em média anual.
 
 10 - As portarias a que se refere o presente artigo são da competência conjunta dos membros do Governo responsáveis pelas áreas das finanças, do ambiente, da economia, da agricultura e dos transportes.
 
-###### Artigo 78.º-A — Controlo fiscal de biocombustíveis
+Artigo 78.º-A
+
+Controlo fiscal de biocombustíveis
 
 1 - Os locais de produção dos biocombustíveis referidos no n.º 1 do artigo 71.º-A são considerados entrepostos fiscais de transformação.
 
@@ -177,12 +198,12 @@ Com a entrada em vigor do regime previsto no n.º 5 do artigo 71.º-A, aditado p
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia.
 
-**Promulgado em 5 de Março de 2006.**
+Promulgado em 5 de Março de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Março de 2006.**
+Referendado em 6 de Março de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

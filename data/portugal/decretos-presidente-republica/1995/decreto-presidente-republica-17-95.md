@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/17/1995/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/17-1995-198731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T04:19:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6979eadd175df6c002371922da5e4f08d6e16e8dd1e3caab4fc3b42a6e9e0af7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e29b94fe180de9b2e1a493b42d5aea79b65c7e37c6e094c25a2d91edb8e0626
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:19:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
 - Comunicação por Satélite
+- Convenção
 - Intelsat
+- Portugal
 - Privilegios e Imunidades
 - Washington
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:19:12Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +91,7 @@ validation:
 
 de 9 de Fevereiro
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Protocolo Relativo aos Privilégios, Isenções e Imunidades da Organização Internacional de Telecomunicações por Satélites (INTELSAT), aprovado em Washington, a 19 de Maio de 1978, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 8195, em 3 de Novembro de 1994.
 
@@ -101,12 +101,12 @@ a) A isenção constante do n.º 1 do artigo 4.º aplica-se à INTELSAT, no quad
 
 b) O disposto no artigo 13.º não é aplicável aos litígios que caibam na competência dos tribunais portugueses em matéria tributária.
 
-**Assinado em 29 de Dezembro de 1994.**
+Assinado em 29 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Janeiro de 1995.**
+Referendado em 4 de Janeiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

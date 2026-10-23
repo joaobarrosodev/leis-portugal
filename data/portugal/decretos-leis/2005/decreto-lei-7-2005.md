@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/004a00/00870094.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/7/2005/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2005-457011
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc802c6941f70ed08c52fce6791a832b5da0e332871cfe885f4fc5aaed51273f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b2dba100c3f3aba94bffa3b407b0c4097fabb807e4cfb2d5d135e185ba1f278
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,37 +65,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Formação Profissional
 - Comissão de Acompanhamento
 - Comunicação Social
 - Contra-ordenação
 - Edição de Publicações
-- Instituto da Comunicação Social
+- Financiamento
+- Formação Profissional
 - Incentivos à Comunicação Social
+- Instituto da Comunicação Social
 - Modernização Tecnológica
-- Regulamento CE
 - Prime
+- Regulamento CE
 - Sistema de Incentivos do Estado a Comunicação Social
 relationships:
 - type: amended_by
   target: pt:dre:66443111:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:601503:por
+  label: "Alterados os art.s 12.º, 13.º, 20.º, 24.º, 26.º, 27.º e 31.º e revogados os nºs 3 e 4 do art. 20.º e n.º 3 do art.\
+    \ 24.º, pelo DEC LEI.35/2009.09.02.2009.PCM, DR.IS [27] de 09.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2009-601503
+  date: '2009-02-09'
 - type: cites
   target: celex:32001R0069
   label: null
   source: http://data.europa.eu/eli/reg/2001/69/oj
+- type: repealed_by
+  target: pt:dre:66443111:por
+  label: Revogado, a partir de 01.03.2015, o presente diploma, na redação do Dec. Lei 35/2009 de 09-fev, pelo(a) Decreto-Lei
+    n.º 23/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2015-66443111
+  date: '2015-02-06'
 article_structure:
   article_count: 33
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:10Z'
   warnings: []
   errors: []
 ---
@@ -560,12 +572,12 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 2005.
 
 Visto e aprovado em Conselho de Ministros de 7 de Outubro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - Nuno Albuquerque Morais Sarmento - António José de Castro Bagão Félix - António Victor Martins Monteiro - José Pedro Aguiar Branco - José Luís Fazenda Arnaut Duarte - Maria do Carmo Félix da Costa Seabra - Maria da Graça Martins da Silva Carvalho - Fernando Mimoso Negrão - António Luís Guerra Nunes Mexia - Maria João Espírito Santo Bustorff Silva.
 
-**Promulgado em 20 de Dezembro de 2004.**
+Promulgado em 20 de Dezembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Dezembro de 2004.**
+Referendado em 22 de Dezembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

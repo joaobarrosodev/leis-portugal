@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/08/15100/56315633.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/155/2006/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2006-538645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4ad64f1c3ad23b9df3af35e651d648ba2cb231febccba46b3f42188c25ae4b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b16135e2ad92214e561841eb8764935c28fcf15b15fccf00cbb0872905290a6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Criação de Serviços
-- Definição de Competências
 - Comissão para a Promoção de Políticas de Família
 - Conselho Consultivo das Famílias
+- Criação de Serviços
+- Definição de Competências
 relationships:
 - type: amended_by
   target: pt:dre:107047290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinado que funcionam em articulação conjunta do Ministro da Solidariedade e da Segurança Social e do membro\
+    \ do Governo responsável pela área da igualdade de género o Conselho Consultivo das Famílias e a Comissão para a Promoção\
+    \ de Políticas de Família, anteriormente na dependência conjunta do ex- Ministro do Trabalho e da Segurança Social e do\
+    \ ex-membro do Governo responsável pela área da igualdade de género, criados pelo presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM,\
+    \ DR.IS [132-Supl] de 12.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amended_by
+  target: pt:dre:145193:por
+  label: "Extintos, sendo objecto de fusão, a Comissão para a Promoção de Políticas de Família e o Conselho Consultivo das\
+    \ Famílias, pelo DEC LEI.126/2011.29.12.2011.MSSSOC, DR.IS [249] de 29.12.2011, nos termos do disposto nos seus arts.\
+    \ 25º, 26º e 28º; sendo as respectivas missões prosseguidas pelo Conselho Nacional para as Políticas de Solidariedade,\
+    \ Voluntariado, Família, Reabilitação e Segurança Social.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-2011-145193
+  date: '2011-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/3/2003/01/07/p/dre
   label: null
@@ -82,16 +99,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/5/2005/01/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/5/2005/01/05/p/dre
+- type: cites
+  target: pt:dre:457199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481345:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:107047290:por
+  label: Revogado pelo(a) Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-2017-107047290
+  date: '2017-05-22'
 article_structure:
-  article_count: 8
+  article_count: 10
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:43Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +154,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Objecto
 
@@ -202,7 +234,9 @@ l) Ministro da Cultura.
 
 4 - Tendo em conta as competências da Comissão, podem participar nas suas reuniões, a pedido do seu presidente, representantes e técnicos de departamentos governamentais ou outras entidades públicas ou privadas, bem como cidadãos cuja audição ou contributo sejam relevantes para a actividade da Comissão.
 
-### CAPÍTULO II — Artigo 7.º
+### CAPÍTULO II
+
+###### Artigo 7.º
 
 Conselho Consultivo das Famílias
 
@@ -264,12 +298,12 @@ São revogados a alínea b) do artigo 7.º e os artigos 8.º, 25.º e 27.º do [
 
 Visto e aprovado em Conselho de Ministros de 29 de Junho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Mário Lino Soares Correia - Pedro Manuel Dias de Jesus Marques - António Fernando Correia de Campos - Jorge Miguel de Melo Viana Pedreira - Mário Vieira de Carvalho - Augusto Ernesto Santos Silva.
 
-**Promulgado em 19 de Julho de 2006.**
+Promulgado em 19 de Julho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 24 de Julho de 2006.**
+Referendado em 24 de Julho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

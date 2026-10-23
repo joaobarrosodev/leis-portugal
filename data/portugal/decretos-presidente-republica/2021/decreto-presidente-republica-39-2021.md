@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/04/06900/0000300003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/39/2021/04/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/39-2021-161161485
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T05:42:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32800d1ac13fb79b9faa6665629ef70431a7ba92be49f6c3ffffc4187e637c4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53e3c5c0ce2a684aa568dece0deddb9b2f01a514eb6d63cb168125fbf3790f0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:42:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Marinha
 - Graduação Militar
+- Marinha
+- Militar
 - Nomeação
 - Progressão na Carreira
 - Promoção Profissional
-- Militar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/1-a/2009/07/07/p/dre
@@ -84,13 +84,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:42:56Z'
   warnings: []
   errors: []
 ---
@@ -99,12 +99,14 @@ validation:
 
 de 9 de abril
 
-**O Presidente da República decreta, nos termos do n.º 2 do artigo 25.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/345291/details/normal?l=1), de 7 de julho, alterada e republicada pela [Lei Orgânica n.º 6/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56384929/details/normal?l=1), de 1 de setembro, o seguinte:**
+O Presidente da República decreta, nos termos do n.º 2 do artigo 25.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/345291/details/normal?l=1), de 7 de julho, alterada e republicada pela [Lei Orgânica n.º 6/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56384929/details/normal?l=1), de 1 de setembro, o seguinte:
 
 É confirmada a promoção ao posto de Vice-Almirante do Contra-Almirante da Classe de Marinha António Manuel Henriques Gomes, efetuada por deliberação de 9 de março de 2021 do Conselho de Chefes de Estado-Maior e aprovada por despacho do Ministro da Defesa Nacional de 30 de março de 2021.
 
-**Assinado em 7 de abril de 2021.**
+Assinado em 7 de abril de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+114132501

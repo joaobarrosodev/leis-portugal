@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/09/21100/12331236.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24282-1969-214217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2dc7a4f1807633c8c0b56b8059613605fc43e8942cc552d7d44dbec3f2c9b4d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd7c97549fea18f4e665ae92841cce03c09ff75c937e1093719c37bc3ca23519
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Saúde e Assistência
+- Orgânica
+- Regulamento
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:178087:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527269:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178087:por
+  label: Revogada pelo(a) Decreto-Lei n.º 439/85 - Diário da República n.º 245/1985, Série I de 1985-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/439-1985-178087
+  date: '1985-10-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:01Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +115,11 @@ REGULAMENTO DOS SERVIÇOS SOCIAIS DO MINISTÉRIO DA SAÚDE E ASSISTÊNCIA
 
 ### CAPÍTULO I — Denominação e fins
 
-###### Artigo 1.º Os Serviços Sociais do Ministério da Saúde e Assistência, criados pelo [Decreto-Lei n.º 48875](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48875-1969-527269), de 20 de Fevereiro de 1969, que no presente diploma se designam simplesmente por Serviços Sociais, constituem uma pessoa colectiva de direito público, dotada de personalidade jurídica e de autonomia administrativa e financeira, dependente do Ministério da Saúde e Assistência.
+Artigo 1.º Os Serviços Sociais do Ministério da Saúde e Assistência, criados pelo [Decreto-Lei n.º 48875](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48875-1969-527269), de 20 de Fevereiro de 1969, que no presente diploma se designam simplesmente por Serviços Sociais, constituem uma pessoa colectiva de direito público, dotada de personalidade jurídica e de autonomia administrativa e financeira, dependente do Ministério da Saúde e Assistência.
 
-###### Art. 2.º Os Serviços Sociais têm por objectivo desenvolver os laços de solidariedade entre os servidores do Ministério da Saúde e Assistência, auxiliando a satisfação das suas necessidades de ordem económica, social e cultural.
+Art. 2.º Os Serviços Sociais têm por objectivo desenvolver os laços de solidariedade entre os servidores do Ministério da Saúde e Assistência, auxiliando a satisfação das suas necessidades de ordem económica, social e cultural.
 
-###### Art. 3.º - 1. Na acção a desenvolver, os Serviços Sociais prosseguirão, fundamentalmente, as seguintes modalidades:
+Art. 3.º - 1. Na acção a desenvolver, os Serviços Sociais prosseguirão, fundamentalmente, as seguintes modalidades:
 
 a) Assistência materno-infantil, pré-escolar e escolar;
 
@@ -120,15 +141,15 @@ h) Concessão de subsídios por nascimento, casamento e morte.
 
 3. Além das modalidades indicadas, os Serviços Sociais poderão prosseguir noutras actividades que se enquadrem no objectivo estabelecido no artigo 2.º e sejam aprovadas por despacho do Ministro da Saúde e Assistência.
 
-###### Art. 4.º As modalidades de assistência materno-infantil, médico-cirúrgica, medicamentosa e de enfermagem serão exercidas, sempre que possível, através dos estabelecimentos oficiais e em coordenação com as actividades da Assistência na Doença aos Servidores Civis do Estado e Caixa de Previdência dos Empregados da Assistência.
+Art. 4.º As modalidades de assistência materno-infantil, médico-cirúrgica, medicamentosa e de enfermagem serão exercidas, sempre que possível, através dos estabelecimentos oficiais e em coordenação com as actividades da Assistência na Doença aos Servidores Civis do Estado e Caixa de Previdência dos Empregados da Assistência.
 
-###### Art. 5.º Para a realização dos seus fins, os Serviços Sociais poderão colaborar com outras instituições similares, nos termos do artigo 8.º do [Decreto-Lei n.º 48875](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48875-1969-527269), ou fazer acordos ou contratos com cooperativas, estabelecimentos comerciais ou industriais.
+Art. 5.º Para a realização dos seus fins, os Serviços Sociais poderão colaborar com outras instituições similares, nos termos do artigo 8.º do [Decreto-Lei n.º 48875](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48875-1969-527269), ou fazer acordos ou contratos com cooperativas, estabelecimentos comerciais ou industriais.
 
-###### Art. 6.º Para cada uma das modalidades de benefícios a prosseguir será elaborado um regulamento próprio, onde se indicarão as condições pertinentes à concessão dos benefícios.
+Art. 6.º Para cada uma das modalidades de benefícios a prosseguir será elaborado um regulamento próprio, onde se indicarão as condições pertinentes à concessão dos benefícios.
 
 ### CAPÍTULO II — Dos beneficiários
 
-###### Art. 7.º - 1. Podem ser beneficiários dos Serviços Sociais, nos termos do artigo 1.º do [Decreto-Lei n.º 48875](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48875-1969-527269):
+Art. 7.º - 1. Podem ser beneficiários dos Serviços Sociais, nos termos do artigo 1.º do [Decreto-Lei n.º 48875](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48875-1969-527269):
 
 a) O pessoal de todos os serviços oficiais do Ministério que se encontre sujeito ao regime geral do funcionalismo;
 
@@ -138,25 +159,25 @@ c) O pessoal pertencente aos quadros dos serviços de utilização comum dos hos
 
 2. O pessoal pertencente a outros Ministérios, designadamente do Ministério das Finanças, que presta serviço junto do Ministério da Saúde e Assistência, poderá também ser abrangido pelos benefícios dos Serviços Sociais desde que não usufrua de quaisquer regalias do mesmo género nos serviços de que depende.
 
-###### Art. 8.º - 1. Os beneficiários que passem à situação de aposentados ou reformados, salvo o disposto na alínea c) do artigo 15.º, mantêm os seus direitos de inscritos.
+Art. 8.º - 1. Os beneficiários que passem à situação de aposentados ou reformados, salvo o disposto na alínea c) do artigo 15.º, mantêm os seus direitos de inscritos.
 
 2. Os funcionários actualmente aposentados ou reformados dos serviços centrais, dos serviços e estabelecimentos oficiais dependentes do Ministério da Saúde e Assistência podem ser abrangidos pelos Serviços Sociais desde que satisfaçam as quotizações estabelecidas para os funcionários em exercício efectivo, excepto se a sua situação resultar de procedimento disciplinar.
 
 3. Na suspensão dos benefícios aos aposentados por motivos disciplinares, a direcção terá em conta a situação do agregado familiar, cabendo ao Ministro a decisão final.
 
-###### Art. 9.º - 1. A inscrição dos beneficiários far-se-á mediante o preenchimento de uma proposta, da qual constem os elementos de identificação, situação do funcionário e composição do agregado familiar.
+Art. 9.º - 1. A inscrição dos beneficiários far-se-á mediante o preenchimento de uma proposta, da qual constem os elementos de identificação, situação do funcionário e composição do agregado familiar.
 
 2. As propostas serão autenticadas pelo chefe do serviço respectivo e acompanhadas dos elementos de comprovação que se tornem necessários.
 
-###### Art. 10.º A qualidade de beneficiário prova-se por cartão de identidade de modelo a aprovar por portaria do Ministro da Saúde e Assistência e só emitido depois de liquidada a primeira quota.
+Art. 10.º A qualidade de beneficiário prova-se por cartão de identidade de modelo a aprovar por portaria do Ministro da Saúde e Assistência e só emitido depois de liquidada a primeira quota.
 
-###### Art. 11.º São direitos dos beneficiários:
+Art. 11.º São direitos dos beneficiários:
 
 a) Usufruir as regalias que lhes sejam concedidas pelos Serviços Sociais, nos termos do presente Regulamento e dos regulamentos de cada uma das modalidades;
 
 b) Formular, por escrito, à direcção as sugestões ou reparos que julgarem convenientes no sentido de se atingir o melhor funcionamento dos serviços.
 
-###### Art. 12.º São deveres dos beneficiários:
+Art. 12.º São deveres dos beneficiários:
 
 a) Pagar pontualmente as quotizações que forem fixadas;
 
@@ -166,13 +187,13 @@ c) Comportar-se com a devida correcção e compostura nos seus contactos com os 
 
 d) Responder com exactidão aos questionários que lhes sejam dirigidos pelos Serviços Sociais sobre a sua situação e a dos seus familiares.
 
-###### Art. 13.º - 1. Os beneficiários contribuirão para os encargos dos Serviços Sociais com quotizações mensais, de harmonia com os grupos de vencimentos a que se refere o artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, que, sob proposta da direcção, forem fixadas por despacho do Ministro da Saúde e Assistência.
+Art. 13.º - 1. Os beneficiários contribuirão para os encargos dos Serviços Sociais com quotizações mensais, de harmonia com os grupos de vencimentos a que se refere o artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, que, sob proposta da direcção, forem fixadas por despacho do Ministro da Saúde e Assistência.
 
 2. Os assalariados contribuirão com a quota correspondente ao escalão de remuneração mensal que lhes competir, a qual será calculada multiplicando o salário base diário por 30.
 
 3. Os beneficiários aposentados ou reformados pagarão as quotizações de acordo com a sua pensão de base, dentro dos escalões que forem estabelecidos.
 
-###### Art. 14.º - 1. Serão suspensos dos benefícios dos Serviços Sociais:
+Art. 14.º - 1. Serão suspensos dos benefícios dos Serviços Sociais:
 
 a) Os funcionários que entrem na situação de licença ilimitada;
 
@@ -186,7 +207,7 @@ e) Os beneficiários que cedam a favor de terceiros quaisquer vantagens ou auxí
 
 2. As penas aplicadas em consequência das infracções referidas nas alíneas d) e e) vão de um mês a um ano, conforme a gravidade da infracção.
 
-###### Art. 15.º - 1. Será cancelada a inscrição nos Serviços Sociais:
+Art. 15.º - 1. Será cancelada a inscrição nos Serviços Sociais:
 
 a) Aos beneficiários que se encontrem em atraso de pagamento de quotas pelo período de seis meses;
 
@@ -200,13 +221,13 @@ d) Aos beneficiários que pratiquem infracções consideradas graves pela direc�
 
 3. Da penalidade aplicada pela direcção, nos termos da alínea d) do n.º 1 do artigo 14.º, cabe recurso para o Ministro da Saúde e Assistência.
 
-###### Art. 16.º Exceptuam-se do disposto na alínea a) do artigo 14.º e na alínea b) do artigo 15.º os funcionários em licença ilimitada ou desligados do serviço por motivo de doença, nos termos dos §§ 1.º e 2.º do artigo 13.º do Decreto com força de lei n.º 19478, de 18 de Março de 1931, cujas situações serão superiormente reguladas mediante proposta da direcção, consoante as circunstâncias de cada caso.
+Art. 16.º Exceptuam-se do disposto na alínea a) do artigo 14.º e na alínea b) do artigo 15.º os funcionários em licença ilimitada ou desligados do serviço por motivo de doença, nos termos dos §§ 1.º e 2.º do artigo 13.º do Decreto com força de lei n.º 19478, de 18 de Março de 1931, cujas situações serão superiormente reguladas mediante proposta da direcção, consoante as circunstâncias de cada caso.
 
-###### Art. 17.º Na concessão de regalias pelos Serviços Sociais deverá ter-se em consideração a circunstância de os interessados ou seus familiares estarem abrangidos por outros sistemas de benefícios.
+Art. 17.º Na concessão de regalias pelos Serviços Sociais deverá ter-se em consideração a circunstância de os interessados ou seus familiares estarem abrangidos por outros sistemas de benefícios.
 
 ### CAPÍTULO III — Dos órgãos dos Serviços Sociais
 
-###### Art. 18.º Os órgãos dos Serviços Sociais são:
+Art. 18.º Os órgãos dos Serviços Sociais são:
 
 a) A direcção;
 
@@ -214,21 +235,21 @@ b) O conselho consultivo;
 
 c) A comissão verificadora de contas.
 
-###### Art. 19.º Os funcionários designados para os órgãos dos Serviços Sociais terão direito a senhas de presença às sessões, de quantitativo a fixar pelo Ministro da Saúde e Assistência.
+Art. 19.º Os funcionários designados para os órgãos dos Serviços Sociais terão direito a senhas de presença às sessões, de quantitativo a fixar pelo Ministro da Saúde e Assistência.
 
 #### SECÇÃO I — Da direcção
 
-###### Art. 20.º - 1. Os Serviços Sociais são superiormente orientados por uma direcção, imediatamente subordinada ao Ministro da Saúde e Assistência.
+Art. 20.º - 1. Os Serviços Sociais são superiormente orientados por uma direcção, imediatamente subordinada ao Ministro da Saúde e Assistência.
 
 2. A direcção é constituída por um director e três vogais nomeados pelo Ministro da Saúde e Assistência.
 
-###### Art. 21.º - 1. O cargo de director dos Serviços Sociais poderá ser desempenhado por funcionário em regime de comissão de serviço por tempo indeterminado, nos termos do n.º 2 do artigo 4.º do [Decreto-Lei n.º 48875](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48875-1969-527269).
+Art. 21.º - 1. O cargo de director dos Serviços Sociais poderá ser desempenhado por funcionário em regime de comissão de serviço por tempo indeterminado, nos termos do n.º 2 do artigo 4.º do [Decreto-Lei n.º 48875](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48875-1969-527269).
 
 2. A nomeação dos vogais será feita sob proposta do conselho consultivo, tendo em atenção o disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 48875](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48875-1969-527269), de 20 de Fevereiro de 1969, podendo aplicar-se-lhe também o disposto no n.º 2 do artigo 4.º
 
-###### Art. 22.º A direcção designará entre si o vogal que substituirá o director nas suas faltas ou impedimentos.
+Art. 22.º A direcção designará entre si o vogal que substituirá o director nas suas faltas ou impedimentos.
 
-###### Art. 23.º - 1. Compete à direcção:
+Art. 23.º - 1. Compete à direcção:
 
 a) Representar os Serviços Sociais em todos os actos em que estes tenham de intervir;
 
@@ -250,19 +271,19 @@ i) Praticar os demais actos necessários ao bom funcionamento dos Serviços Soci
 
 2. A execução das atribuições definidas nas alíneas do número anterior poderá ser confiada ao director após deliberação expressa da direcção.
 
-###### Art. 24.º - 1. A direcção terá uma sessão ordinária por mês e as extraordinárias que forem convocadas pelo director, sendo as deliberações tomadas por maioria de votos.
+Art. 24.º - 1. A direcção terá uma sessão ordinária por mês e as extraordinárias que forem convocadas pelo director, sendo as deliberações tomadas por maioria de votos.
 
 2. No caso de empate, o director terá voto de qualidade.
 
 #### SECÇÃO II — Do conselho consultivo
 
-###### Art. 25.º - 1. O conselho consultivo será constituído por onze membros nomeados pelo Ministro da Saúde e Assistência, dele fazendo obrigatòriamente parte os directores-gerais do Ministério, dois funcionários superiores de cada uma das direcções-gerais, institutos ou estabelecimentos delas dependentes e dois representantes das organizações de pessoal que funcionem junto de serviços ou estabelecimentos dependentes do Ministério da Saúde e Assistência.
+Art. 25.º - 1. O conselho consultivo será constituído por onze membros nomeados pelo Ministro da Saúde e Assistência, dele fazendo obrigatòriamente parte os directores-gerais do Ministério, dois funcionários superiores de cada uma das direcções-gerais, institutos ou estabelecimentos delas dependentes e dois representantes das organizações de pessoal que funcionem junto de serviços ou estabelecimentos dependentes do Ministério da Saúde e Assistência.
 
 2. Os representantes das organizações de pessoal a que alude o número anterior serão propostos pelas diferentes organizações existentes.
 
 3. O conselho consultivo será presidido pelo secretário-geral do Ministério.
 
-###### Art. 26.º Compete ao conselho consultivo:
+Art. 26.º Compete ao conselho consultivo:
 
 a) Dar parecer sobre os planos de acção a executar pelos Serviços Sociais e avaliar os resultados obtidos;
 
@@ -272,17 +293,17 @@ c) Emitir parecer sobre os esquemas de benefícios a conceder;
 
 d) Fixar as orientações tendentes a fomentar ou aperfeiçoar as actividades dos Serviços Sociais.
 
-###### Art. 27.º - 1. O conselho consultivo reunirá ordinàriamente uma vez por semestre e extraordinàriamente quando for julgado conveniente pelo seu presidente ou por solicitação do director.
+Art. 27.º - 1. O conselho consultivo reunirá ordinàriamente uma vez por semestre e extraordinàriamente quando for julgado conveniente pelo seu presidente ou por solicitação do director.
 
 2. Às reuniões do conselho consultivo deverão assistir o director e os vogais da direcção cuja presença se torne aconselhável.
 
 #### SECÇÃO III — Da comissão verificadora de contas
 
-###### Art. 28.º - 1. A comissão verificadora de contas é composta por três membros, que representarão cada uma das direcções-gerais, institutos ou estabelecimentos dependentes, nomeados pelo Ministro da Saúde e Assistência, mediante proposta dos respectivos directores-gerais.
+Art. 28.º - 1. A comissão verificadora de contas é composta por três membros, que representarão cada uma das direcções-gerais, institutos ou estabelecimentos dependentes, nomeados pelo Ministro da Saúde e Assistência, mediante proposta dos respectivos directores-gerais.
 
 2. O Ministro designará o presidente de entre os representantes nomeados.
 
-###### Art. 29.º À comissão verificadora de contas, que reunirá obrigatòriamente uma- vez por ano, incumbe:
+Art. 29.º À comissão verificadora de contas, que reunirá obrigatòriamente uma- vez por ano, incumbe:
 
 a) Elaborar o parecer que acompanhará o relatório e contas de gerência anuais a apresentar pela direcção à aprovação do Ministro da Saúde e Assistência;
 
@@ -292,17 +313,17 @@ c) Pronunciar-se sobre os assuntos da sua competência que lhe sejam postos pela
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 30.º - 1. Os quadros do pessoal dos Serviços Sociais, com as respectivas categorias e vencimentos, serão fixados em despacho ministerial.
+Art. 30.º - 1. Os quadros do pessoal dos Serviços Sociais, com as respectivas categorias e vencimentos, serão fixados em despacho ministerial.
 
 2. Os lugares dos quadros dos Serviços Sociais poderão ser desempenhados por quaisquer funcionários do Estado em regime de comissão de serviço por tempo indeterminado, sem perda dos direitos dos cargos de origem quanto a antiguidade, promoção ou aposentação.
 
-###### Art. 31.º Enquanto os quadros do pessoal dos Serviços Sociais não estiverem organizados poderão estes ser assegurados quer por funcionários destacados dos serviços do Ministério, sendo os respectivos vencimentos pagos pelos orçamentos dos quadros a que pertençam, nos termos do n.º 3 do artigo 4.º do [Decreto-Lei n.º 48875](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48875-1969-527269), quer por pessoal admitido em regime de prestação de serviços.
+Art. 31.º Enquanto os quadros do pessoal dos Serviços Sociais não estiverem organizados poderão estes ser assegurados quer por funcionários destacados dos serviços do Ministério, sendo os respectivos vencimentos pagos pelos orçamentos dos quadros a que pertençam, nos termos do n.º 3 do artigo 4.º do [Decreto-Lei n.º 48875](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48875-1969-527269), quer por pessoal admitido em regime de prestação de serviços.
 
-###### Art. 32.º Ao Ministro da Saúde e Assistência compete fixar as condições de trabalho e remuneração do pessoal dos Serviços Sociais, consoante a sua categoria profissional e o trabalho prestado, tendo em atenção a importância e a natureza dos serviços.
+Art. 32.º Ao Ministro da Saúde e Assistência compete fixar as condições de trabalho e remuneração do pessoal dos Serviços Sociais, consoante a sua categoria profissional e o trabalho prestado, tendo em atenção a importância e a natureza dos serviços.
 
 ### CAPÍTULO V — Das receitas e despesas
 
-###### Art. 33.º - 1. Constituem receitas dos Serviços Sociais:
+Art. 33.º - 1. Constituem receitas dos Serviços Sociais:
 
 a) As quotizações a que se refere o artigo 13.º do presente Regulamento;
 
@@ -318,9 +339,9 @@ e) Quaisquer receitas que lhes sejam atribuídas.
 
 2. As receitas serão depositadas à ordem da direcção e movimentadas por meio de cheques assinados pelo director e por um dos vogais da direcção.
 
-###### Art. 34.º As despesas dos Serviços Sociais serão as que resultem da execução das suas finalidades, em conformidade com os orçamentos superiormente aprovados.
+Art. 34.º As despesas dos Serviços Sociais serão as que resultem da execução das suas finalidades, em conformidade com os orçamentos superiormente aprovados.
 
-###### Art. 35.º Dependem de despacho do Ministro da Saúde e Assistência:
+Art. 35.º Dependem de despacho do Ministro da Saúde e Assistência:
 
 a) A aquisição, construção ou remodelação de imóveis;
 
@@ -332,7 +353,7 @@ d) Os acordos com instituições similares, cooperativas ou estabelecimentos com
 
 e) Os contratos de arrendamento para instalação dos serviços.
 
-###### Art. 36.º - 1. As contas anuais serão submetidas à aprovação do Ministro da Saúde e Assistência até 30 de Abril do ano seguinte a que respeitam, acompanhadas do parecer da comissão verificadora de contas.
+Art. 36.º - 1. As contas anuais serão submetidas à aprovação do Ministro da Saúde e Assistência até 30 de Abril do ano seguinte a que respeitam, acompanhadas do parecer da comissão verificadora de contas.
 
 2. A aprovação a que se refere o número anterior corresponde, para efeitos de prestação e julgamento de contas, a quitação dos directores, sem prejuízo de revisão, a determinar pelo Ministro, nos casos admitidos no artigo 6.º do [Decreto-Lei n.º 29174](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29174-1938-348761), de 24 de Novembro de 1938.
 
@@ -340,18 +361,18 @@ e) Os contratos de arrendamento para instalação dos serviços.
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### Art. 37.º Os Serviços Sociais, para execução dos seus objectivos, poderão constituir núcleos ou secções de actividades junto dos estabelecimentos ou serviços que os justifiquem, nas condições a estabelecer por despacho ministerial.
+Art. 37.º Os Serviços Sociais, para execução dos seus objectivos, poderão constituir núcleos ou secções de actividades junto dos estabelecimentos ou serviços que os justifiquem, nas condições a estabelecer por despacho ministerial.
 
-###### Art. 38.º - 1. As actividades das organizações de pessoal existentes nos serviços ou estabelecimentos dependentes do Ministério serão coordenadas pelos Serviços Sociais de forma a evitarem-se duplicações de benefícios.
+Art. 38.º - 1. As actividades das organizações de pessoal existentes nos serviços ou estabelecimentos dependentes do Ministério serão coordenadas pelos Serviços Sociais de forma a evitarem-se duplicações de benefícios.
 
 2. De futuro não poderão ser criadas junto dos serviços do Ministério novas organizações do pessoal de fins análogos aos dos Serviços Sociais.
 
 3. As organizações referidas no n.º 1 deverão fornecer os elementos que a direcção dos Serviços Sociais solicitar.
 
-###### Art. 39.º - 1. A direcção dos Serviços Sociais submeterá à consideração superior, ouvido o conselho consultivo, as alterações ao presente Regulamento que a experiência torne aconselháveis.
+Art. 39.º - 1. A direcção dos Serviços Sociais submeterá à consideração superior, ouvido o conselho consultivo, as alterações ao presente Regulamento que a experiência torne aconselháveis.
 
 2. As dúvidas suscitadas na execução deste Regulamento e os casos omissos serão resolvidos por despacho do Ministro da Saúde e Assistência, sob proposta da direcção.
 
-###### Art. 40.º Este Regulamento entra imediatamente em vigor.
+Art. 40.º Este Regulamento entra imediatamente em vigor.
 
 Ministério da Saúde e Assistência, 9 de Setembro de 1969. - O Ministro da Saúde e Assistência, Lopo de Carvalho Cancella de Abreu.

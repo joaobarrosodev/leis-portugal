@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/73-1980-458220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:03:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e960bed73e68f261df3e18f49e268690a5a5a89d20734e789c89e10e0aa2c824
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7782b46bc181bc1ba8091aa16273f81910259ae219ee560757b27620a2a2541e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:03:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral de Hidráulica e Engenharia Agrícola
+- Ministério da Agricultura e Pescas
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402718:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:03:11Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +114,9 @@ Nestes termos:
 
 O Governo decreta, ao abrigo da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 12.º, 16.º, 17.º, 18.º, 19.º, 20.º, 36.º, 40.º, 41.º, 43.º e 50.º do [Decreto Regulamentar n.º 39-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-c-1979-402718), de 31 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 12.º, 16.º, 17.º, 18.º, 19.º, 20.º, 36.º, 40.º, 41.º, 43.º e 50.º do [Decreto Regulamentar n.º 39-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-c-1979-402718), de 31 de Julho, passam a ter a seguinte redacção:
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 ...
 
@@ -109,7 +124,7 @@ c) Apoiar e coordenar as equipas responsáveis pelos projectos hidroagrícolas q
 
 ...
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 ...
 
@@ -117,7 +132,7 @@ f) Projectar redes de enxugo e de drenagem, com fins agrícolas, e apoiar a exec
 
 ...
 
-###### Art. 17.º ...
+Art. 17.º ...
 
 ...
 
@@ -133,7 +148,7 @@ i) Apoiar, em ligação com os serviços regionais de agricultura, a instalaçã
 
 ...
 
-###### Art. 18.º ...
+Art. 18.º ...
 
 a) Promover, com os restantes organismos do Ministério da Agricultura e Pescas, a montagem e revisão da respectiva rede de observações hidrometeorológicas e agroclimatológicas, assegurando a respectiva coordenação;
 
@@ -153,7 +168,7 @@ j) Colaborar com a DGRAH nos estudos de transporte sólido em pequenas bacias de
 
 ...
 
-###### Art. 19.º ...
+Art. 19.º ...
 
 a) Realizar estudos geotécnicos necessários à implantação e construção de estruturas e obras hidráulicas da competência da DGHEA;
 
@@ -171,7 +186,7 @@ h) Apoiar os serviços regionais de agricultura no domínio da prospecção, cap
 
 ...
 
-###### Art. 20.º ...
+Art. 20.º ...
 
 ...
 
@@ -181,7 +196,7 @@ c) Realizar projectos de obras de defesa e correcção torrencial da competênci
 
 ...
 
-###### Art. 36.º ...
+Art. 36.º ...
 
 ...
 
@@ -189,7 +204,7 @@ l) Cooperar nos projectos e garantir, em colaboração com a DGRAH e com a DGE, 
 
 ...
 
-###### Art. 40.º ...
+Art. 40.º ...
 
 ...
 
@@ -207,13 +222,13 @@ l) Colaborar com os organismos competentes, nomeadamente com a DGRAH, no que res
 
 ...
 
-###### Art. 41.º ...
+Art. 41.º ...
 
 a) Realizar estudos de viabilidade e correspondentes trabalhos de base relativos às fases de estudo prévio, anteprojecto e projecto de aproveitamentos hidroagrícolas, em colaboração com a DGRAH e outros organismos, quando tais aproveitamentos sejam de fins múltiplos;
 
 ...
 
-###### Art. 43.º ...
+Art. 43.º ...
 
 ...
 
@@ -221,7 +236,7 @@ e) Assegurar as ligações com a Direcção-Geral dos Recursos e Aproveitamentos
 
 ...
 
-###### Art. 50.º ...
+Art. 50.º ...
 
 ...
 
@@ -229,12 +244,12 @@ d) Promover ou realizar a fotografia terrestre que permita efectuar os levantame
 
 ...
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva - António José Baptista Cardoso e Cunha.
 
-**Promulgado em 11 de Novembro de 1980.**
+Promulgado em 11 de Novembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

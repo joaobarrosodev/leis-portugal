@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/34/1999/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1999-169003
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:10:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eddc0aee8cdc29060318106b2aeb01f30dfdbab81fc20cfeba6e966d85f29212
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52aca2f21fd74b738bf03ad97e4f20e74378b1a4f8afe3d959268a0b044af187
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Ordenamento do Território
+- Câmara Municipal
 - Construção Civil
-- Plano Director Municipal
-- Urbanização
 - Contra-ordenação
 - Direcção Geral das Florestas
 - Embargo
+- Exploração Florestal
+- Incêndio
 - Loteamento Urbano
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
 - Ministro do Ambiente
 - Ministro do Equipamento do Planeamento e da Administração do Território
-- Proteção do Ambiente
+- Ordenamento do Território
+- Plano Director Municipal
 - Política de Solos
-- Exploração Florestal
-- Câmara Municipal
+- Proteção do Ambiente
+- Urbanização
 relationships:
 - type: amended_by
   target: pt:dre:108010872:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518444:por
+  label: "Alterado o art. 1º do Dec Lei 327/90 de 22-Out, com a redacção conferida no presente diploma, pelo DEC LEI.55/2007.12.03.2007.MAOTDR,\
+    \ DR.IS [50] de 12.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2007-518444
+  date: '2007-03-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
   label: null
@@ -99,16 +105,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/54/1991/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/54/1991/08/08/p/dre
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682209:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490450:por
+  label: "Revogado, a partir de 16.12.2011, sem prejuízo do disposto no n.º 1 do art. 2.º, o Dec Lei 327/90, de 22-Out, na\
+    \ redacção do presente diploma, pelo DEC LEI.254/2009.24.09.2009.MADRP, DR.IS [186] de 24.09.2009 (Ver Notas)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2009-490450
+  date: '2009-09-24'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:10:42Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +207,7 @@ e) [Anterior alínea e) do n.º 1.]
 
 8 - A infracção ao disposto nos n.os 1 e 2 constitui contra-ordenação punível nos termos da legislação aplicável ao licenciamento das operações e actividades em causa, designadamente no [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, e no [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro, sem prejuízo da aplicação das medidas de embargo e demolição previstas na lei.
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - A Direcção-Geral das Florestas elabora o levantamento cartográfico das áreas percorridas por incêndios florestais com a colaboração das câmaras municipais.
 
@@ -191,12 +219,12 @@ e) [Anterior alínea e) do n.º 1.]
 
 Visto e aprovado em Conselho de Ministros de 3 de Dezembro de 1998. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - Luís Manuel Capoulas Santos - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 22 de Janeiro de 1999.**
+Promulgado em 22 de Janeiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Janeiro de 1999.**
+Referendado em 28 de Janeiro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

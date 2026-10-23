@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 119/2004, 2º Suplemento, Série I-A de 2004-05-21
   number: '119'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3254-(74) a 3254-(74)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/05/119a02/00740074.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/26-b/2004/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/26-b-2004-476762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T04:47:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 124fb7941bf7e96f54cf19fb66b977dcb4e819bb509ef1f91b1e39a0f5d3c577
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad2e5426924def008a49cb888efe341d9ca43b05dae0d56a3f840dd90693abea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:47:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Exoneração
-- Ministro das Cidades Ordenamento do Território e Ambiente
 - Governo XV
+- Ministro das Cidades Ordenamento do Território e Ambiente
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:47:22Z'
   warnings: []
   errors: []
 ---
@@ -88,16 +88,16 @@ validation:
 
 de 21 de Maio
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 É exonerado, sob proposta do Primeiro-Ministro, o Dr. Amílcar Augusto Contel Martins Theias do cargo de Ministro das Cidades, Ordenamento do Território e Ambiente.
 
-**Assinado em 21 de Maio de 2004.**
+Assinado em 21 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Maio de 2004.**
+Referendado em 21 de Maio de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

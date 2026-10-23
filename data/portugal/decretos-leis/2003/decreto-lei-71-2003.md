@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/71/2003/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2003-226805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:42:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ce39004d9c3e11b311cd63173516417cb834a5c4e6be8ca150284788c4417e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6210c7ac1c9f61dc4dc66be45fbe2403e52cfea9102b194bdeb7e361e515cbf8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:42:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Equivalência de Diplomas
 - Formação Profissional
-- União Europeia
 - Formação Regulamentada
 - Profissão Regulamentada
-- Equivalência de Diplomas
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:604779:por
@@ -126,16 +126,21 @@ relationships:
   target: eli:http://data.europa.eu/eli/di
   label: null
   source: http://data.europa.eu/eli/di
+- type: repealed_by
+  target: pt:dre:604779:por
+  label: "Revogado, nos termos do nº 2 do art. 55.º, pela LEI.9/2009.04.03.2009.AR, DR.IS [44] de 04.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2009-604779
+  date: '2009-03-04'
 article_structure:
-  article_count: 29
+  article_count: 22
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:42:11Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +173,9 @@ Profissão regulamentada
 
 2 - As profissões regulamentadas a que se aplica o presente decreto-lei constam de lista aprovada por portaria conjunta dos Ministros da Ciência e do Ensino Superior e da Segurança Social e do Trabalho.
 
-###### Artigo 3.º — Diploma
+Artigo 3.º
+
+Diploma
 
 1 - ...
 
@@ -184,7 +191,9 @@ a) ...
 
 b) ...
 
-###### Artigo 4.º — Requerentes
+Artigo 4.º
+
+Requerentes
 
 1 - ...
 
@@ -196,7 +205,9 @@ b) ...
 
 3 - Considera-se equiparado ao título de formação referido na alínea b) do n.º 1 qualquer outro, ou conjunto de outros, emitido por uma entidade competente de um Estado membro, desde que sancione uma formação adquirida na Comunidade e seja reconhecido por esse Estado membro como sendo de nível equivalente, na condição de que os restantes Estados membros e a Comissão hajam sido notificados desse reconhecimento.
 
-###### Artigo 9.º — Estágio de adaptação e prova de aptidão
+Artigo 9.º
+
+Estágio de adaptação e prova de aptidão
 
 1 - ...
 
@@ -212,11 +223,15 @@ c) ...
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 15.º — Coordenação da informação
+Artigo 15.º
+
+Coordenação da informação
 
 Sem prejuízo do disposto na alínea f) do n.º 2 do artigo anterior, compete à Direcção-Geral do Ensino Superior, do Ministério da Ciência e do Ensino Superior, a prestação de esclarecimentos de natureza geral acerca da matéria contemplada no presente decreto-lei.
 
-###### Artigo 16.º — Regulamentação
+Artigo 16.º
+
+Regulamentação
 
 1 - ...
 
@@ -238,11 +253,15 @@ b) Compreenda um ciclo de estudos pós-secundários com uma duração mínima de
 
 2 - A estrutura e o nível da formação profissional, do estágio profissional ou da prática profissional devem ser determinados pelas disposições legislativas, regulamentares ou administrativas do Estado membro interessado ou objecto de aprovação pela autoridade competente para esse efeito.
 
-###### Artigo 6.º-A — Capacidade financeira
+Artigo 6.º-A
+
+Capacidade financeira
 
 Sempre que, para efeitos do acesso a uma profissão regulamentada ou ao seu exercício, seja exigida prova de capacidade financeira, os certificados emitidos pelos bancos do Estado membro de origem ou de proveniência serão considerados equivalentes aos emitidos no território nacional.
 
-###### Artigo 6.º-B — Responsabilidade profissional
+Artigo 6.º-B
+
+Responsabilidade profissional
 
 1 - Sempre que, para efeitos de acesso a uma profissão regulamentada ou ao seu exercício, seja exigida prova de que os interessados se encontram cobertos por um seguro contra os riscos pecuniários decorrentes da sua responsabilidade profissional, os certificados emitidos por seguradoras de outros Estados membros são considerados equivalentes aos emitidos em território nacional.
 
@@ -256,15 +275,15 @@ Em anexo ao presente diploma procede-se à republicação do Decreto-Lei n.º 28
 
 Visto e aprovado em Conselho de Ministros de 13 de Fevereiro de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Pedro Lynce de Faria - António José de Castro Bagão Félix.
 
-**Promulgado em 28 de Março de 2003.**
+Promulgado em 28 de Março de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Abril de 2003.**
+Referendado em 1 de Abril de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Segunda alteração ao Decreto-Lei n.º 289/91, de 10 de Agosto, alterado pelo Decreto-Lei n.º 396/99, de 13 de Outubro
 

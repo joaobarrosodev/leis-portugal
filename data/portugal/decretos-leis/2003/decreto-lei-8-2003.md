@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/8/2003/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2003-176338
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:42:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c93141a293922a7811d653fe973157e3affa2fe4fc487872b2edd8855f74ca2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f3c634b5a0f006042c04b28c8ad45050f61cfa46b18b95f750394fb77ea7e40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:42:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Correio Electrónico
-- Estatuto da Aposentação
 - Administração Pública
 - Caixa Geral de Aposentações
-- Pagamento
-- Documento Eletrónico
+- Correio Electrónico
 - Direção Geral do Orçamento
+- Documento Eletrónico
+- Estatuto da Aposentação
+- Pagamento
 - Prova
 - Quotização
 - Remuneração
@@ -81,6 +81,19 @@ relationships:
   target: pt:dre:123930786:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:640297:por
+  label: "Alterados os arts. 16º a 18º e revogados os nºs 3 e 4 do art. 18º do Estatuto das Pensões de Sobrevivência aprovado\
+    \ pelo Dec Lei 142/73 de 31-Mar, com a redacção conferida no presente diploma, pelo DEC LEI.309/2007.07.09.2007.MFAP,\
+    \ DR.IS [173] de 07.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/309-2007-640297
+  date: '2007-09-07'
+- type: amended_by
+  target: pt:dre:543049:por
+  label: "Dada nova redação aos arts. 7º e 8º do Estatuto da Aposentação aprovado pelo Dec Lei 498/72 de 09-dez, alterado\
+    \ pelo presente diploma, pelo DEC LEI.32/2012.13.02.2012.MF, DR.IS [31] de 13.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2012-543049
+  date: '2012-02-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/2001/04/06/p/dre
   label: null
@@ -89,16 +102,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/290-d/1999/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/290-d/1999/08/02/p/dre
+- type: cites
+  target: pt:dre:236477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:42:29Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +164,9 @@ Desconto da quota
 
 3 - A Direcção-Geral do Tesouro promoverá a entrega à CGA da importância total dos descontos referidos nos números anteriores, até ao dia 15 do mês seguinte àquele a que digam respeito.
 
-###### Artigo 8.º — Entrega directa do desconto
+Artigo 8.º
+
+Entrega directa do desconto
 
 1 - Os serviços e entidades não sujeitos ao procedimento descrito no n.º 2 do artigo anterior entregarão directamente à Caixa Geral de Aposentações, por meio de guia ou de transferência bancária, até ao dia 15 do mês seguinte àquele a que digam respeito, a importância dos descontos arrecadados.
 
@@ -145,7 +176,9 @@ Desconto da quota
 
 4 - Os serviços e entidades cujo número de subscritores seja inferior a 10 podem preencher e enviar à CGA as relações de descontos em suporte de papel.
 
-###### Artigo 9.º — Relação de descontos
+Artigo 9.º
+
+Relação de descontos
 
 1 - O modelo da relação de descontos é aprovado pelo conselho de administração da CGA.
 
@@ -169,7 +202,9 @@ Desconto da quota
 
 3 - A Direcção-Geral do Tesouro promoverá a entrega à CGA da importância total dos descontos referidos nos números anteriores, até ao dia 15 do mês seguinte àquele a que digam respeito.
 
-###### Artigo 17.º — Entrega directa do desconto
+Artigo 17.º
+
+Entrega directa do desconto
 
 1 - Os serviços e entidades não sujeitos ao procedimento descrito no n.º 2 do artigo anterior entregarão directamente à CGA, por meio de guia ou de transferência bancária, até ao dia 15 do mês seguinte àquele a que digam respeito, a importância dos descontos arrecadados.
 
@@ -179,7 +214,9 @@ Desconto da quota
 
 4 - Os serviços e entidades cujo número de contribuintes seja inferior a 10 podem preencher e enviar à CGA as relações de descontos em suporte de papel.
 
-###### Artigo 18.º — Relação de descontos
+Artigo 18.º
+
+Relação de descontos
 
 1 - O modelo da relação de descontos é aprovado pelo conselho de administração da CGA.
 
@@ -195,12 +232,12 @@ O disposto no presente diploma aplica-se aos descontos de quotas efectuados a pa
 
 Visto e aprovado em Conselho de Ministros de 4 de Dezembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 8 de Janeiro de 2003.**
+Promulgado em 8 de Janeiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Janeiro de 2003.**
+Referendado em 9 de Janeiro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

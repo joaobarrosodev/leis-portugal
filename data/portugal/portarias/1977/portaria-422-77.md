@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/422-1977-250619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T05:22:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8cdc8743384706d70283e80e4c285d2319914244a129ce4c0c01894689b9559e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac892d4422fec2658a0b8c4bc281d787f8f2116a53f4ff6f8585af52a9b0ef66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:22:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão de Direito Marítimo Internacional
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:200262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474102:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:22:01Z'
   warnings: []
   errors: []
 ---
@@ -94,21 +104,21 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, aprovar e
 
 Regulamento Interno da Comissão de Direito Marítimo Internacional
 
-###### Artigo 1.º A Comissão de Direito Marítimo Internacional (CDMI) é um organismo consultivo do Chefe do Estado-Maior da Armada (CEMA) que se destina a estudar e dar parecer sobre questões de direito marítimo internacional e cuja constituição é estabelecida por lei.
+Artigo 1.º A Comissão de Direito Marítimo Internacional (CDMI) é um organismo consultivo do Chefe do Estado-Maior da Armada (CEMA) que se destina a estudar e dar parecer sobre questões de direito marítimo internacional e cuja constituição é estabelecida por lei.
 
-###### Art. 2.º A nomeação e a exoneração do presidente, do vice-presidente e dos vogais são publicadas na Ordem da Armada.
+Art. 2.º A nomeação e a exoneração do presidente, do vice-presidente e dos vogais são publicadas na Ordem da Armada.
 
-###### Art. 3.º A Comissão reúne ordinariamente nas segundas segundas-feiras de cada mês, salvo durante os períodos correspondentes às férias judiciais, e extraordinariamente quando o presidente o entenda necessário ou para tal receba indicação do CEMA.
+Art. 3.º A Comissão reúne ordinariamente nas segundas segundas-feiras de cada mês, salvo durante os períodos correspondentes às férias judiciais, e extraordinariamente quando o presidente o entenda necessário ou para tal receba indicação do CEMA.
 
-###### Art. 4.º Os avisos convocatórios devem mencionar especificadamente o dia e a hora da reunião e os assuntos a tratar e devem ser enviados a todos os vogais com antecedência não inferior a cinco dias úteis.
+Art. 4.º Os avisos convocatórios devem mencionar especificadamente o dia e a hora da reunião e os assuntos a tratar e devem ser enviados a todos os vogais com antecedência não inferior a cinco dias úteis.
 
-###### Art. 5.º - 1. Na falta ou impedimento do presidente, exerce as suas funções o vice-presidente.
+Art. 5.º - 1. Na falta ou impedimento do presidente, exerce as suas funções o vice-presidente.
 
 2. Se o secretário estiver impedido de comparecer a qualquer reunião, as suas funções são exercidas por funcionário em serviço na secretaria da CDMI, designado pelo presidente.
 
 3. Na falta ou impedimento de vogais que exerçam o cargo por inerência, as suas funções na Comissão podem ser desempenhadas por quem os substitua nos cargos respectivos.
 
-###### Art. 6.º - 1. Para a Comissão poder deliberar é necessária a presença da maioria dos seus membros.
+Art. 6.º - 1. Para a Comissão poder deliberar é necessária a presença da maioria dos seus membros.
 
 2. As deliberações da Comissão são tomadas por maioria dos votos expressos dos seus membros presentes com direito a voto.
 
@@ -116,9 +126,9 @@ Regulamento Interno da Comissão de Direito Marítimo Internacional
 
 4. Os membros da Comissão que não concordem com as deliberações tomadas ou com qualquer dos respectivos fundamentos podem justificar o seu voto em declaração ditada para a acta ou em documento separado a apresentar no prazo de quinze dias.
 
-###### Art. 7.º Quando qualquer dos membros da Comissão não possa comparecer à reunião, deverá comunicar e justificar a falta com a possível brevidade.
+Art. 7.º Quando qualquer dos membros da Comissão não possa comparecer à reunião, deverá comunicar e justificar a falta com a possível brevidade.
 
-###### Art. 8.º - 1. Nas reuniões da Comissão, depois de o presidente declarar aberta a sessão, o secretário procede à leitura da acta da reunião anterior, para discussão e aprovação.
+Art. 8.º - 1. Nas reuniões da Comissão, depois de o presidente declarar aberta a sessão, o secretário procede à leitura da acta da reunião anterior, para discussão e aprovação.
 
 2. Antes da ordem do dia, o secretário dá conhecimento da correspondência recebida e expedida que se relacione com as atribuições da Comissão, após o que podem ser tratados assuntos relativos ao seu funcionamento.
 
@@ -126,21 +136,21 @@ Regulamento Interno da Comissão de Direito Marítimo Internacional
 
 4. Esgotada a ordem do dia, pode a Comissão ocupar-se ainda de outros assuntos da sua competência, por decisão do presidente.
 
-###### Art. 9.º Os documentos a submeter à apreciação da Comissão devem, salvo no caso de manifesta impossibilidade, ser circulados por cópia a todos os membros da CDMI, juntamente com o aviso convocatório da reunião em que serão apreciados.
+Art. 9.º Os documentos a submeter à apreciação da Comissão devem, salvo no caso de manifesta impossibilidade, ser circulados por cópia a todos os membros da CDMI, juntamente com o aviso convocatório da reunião em que serão apreciados.
 
-###### Art. 10.º O presidente, por sua iniciativa ou por proposta da Comissão, pode convidar qualquer entidade interessada ou particularmente qualificada na matéria em estudo para tomar parte, sem voto, nas reuniões.
+Art. 10.º O presidente, por sua iniciativa ou por proposta da Comissão, pode convidar qualquer entidade interessada ou particularmente qualificada na matéria em estudo para tomar parte, sem voto, nas reuniões.
 
-###### Art. 11.º - 1. As actas das reuniões são redigidas pelo secretário ou por quem o substitua nas suas faltas e impedimentos e devem indicar: a data e hora da reunião; quem a ela presidiu; os membros presentes e a justificação dos que faltaram; a correspondência e as propostas apresentadas; um resumo dos assuntos tratados e da discussão havida; o resultado das votações e as deliberações tomadas; os votos discordantes e as declarações de voto.
+Art. 11.º - 1. As actas das reuniões são redigidas pelo secretário ou por quem o substitua nas suas faltas e impedimentos e devem indicar: a data e hora da reunião; quem a ela presidiu; os membros presentes e a justificação dos que faltaram; a correspondência e as propostas apresentadas; um resumo dos assuntos tratados e da discussão havida; o resultado das votações e as deliberações tomadas; os votos discordantes e as declarações de voto.
 
 2. As actas das reuniões são assinadas pelo presidente e pelo secretário.
 
-###### Art. 12.º Os pareceres da Comissão são assinados pelo presidente e devem consignar os votos discordantes e as declarações de voto.
+Art. 12.º Os pareceres da Comissão são assinados pelo presidente e devem consignar os votos discordantes e as declarações de voto.
 
-###### Art. 13.º - 1. Os pareceres e outros trabalhos elaborados pela Comissão, bem como os documentos submetidos ao seu estudo e consulta, não podem ser comunicados ou facultados a qualquer pessoa ou organismo sem autorização do CEMA.
+Art. 13.º - 1. Os pareceres e outros trabalhos elaborados pela Comissão, bem como os documentos submetidos ao seu estudo e consulta, não podem ser comunicados ou facultados a qualquer pessoa ou organismo sem autorização do CEMA.
 
 2. Periodicamente, a CDMI promoverá a edição de um volume com os seus pareceres cuja divulgação tenha sido proposta pelo presidente e/ou autorizada pelo CEMA, e outros trabalhos relativos a direito marítimo internacional cuja divulgação ofereça interesse.
 
-###### Art. 14.º Compete ao presidente da Comissão:
+Art. 14.º Compete ao presidente da Comissão:
 
 1.º Convocá-la e dirigir os respectivos trabalhos;
 
@@ -150,7 +160,7 @@ Regulamento Interno da Comissão de Direito Marítimo Internacional
 
 4.º Corresponder-se com qualquer pessoa, serviço ou organismo, quando entender conveniente, para esclarecimento daqueles assuntos.
 
-###### Art. 15.º Compete aos vogais:
+Art. 15.º Compete aos vogais:
 
 1.º Assistir às sessões, salvo impedimento justificado nos termos do artigo 7.º;
 
@@ -162,7 +172,7 @@ Regulamento Interno da Comissão de Direito Marítimo Internacional
 
 5.º Submeter, por iniciativa própria, à apreciação da Comissão quaisquer trabalhos relativos a assuntos da competência da mesma.
 
-###### Art. 16.º Compete ao secretário:
+Art. 16.º Compete ao secretário:
 
 1.º Orientar, segundo as instruções do presidente, os trabalhos da secretaria da Comissão;
 
@@ -176,8 +186,8 @@ Regulamento Interno da Comissão de Direito Marítimo Internacional
 
 6.º Enviar às entidades competentes as notas para processamento de ajudas de custo, encargos com transportes ou sua requisição e quaisquer outros subsídios a que os membros da Comissão tenham direito.
 
-###### Art. 17.º A Comissão será apoiada administrativamente pelo conselho administrativo da Administração Central da Marinha.
+Art. 17.º A Comissão será apoiada administrativamente pelo conselho administrativo da Administração Central da Marinha.
 
-###### Art. 18.º Durante o ano corrente a Comissão será apoiada administrativamente pelo conselho administrativo da Direcção-Geral dos Serviços de Fomento Marítimo.
+Art. 18.º Durante o ano corrente a Comissão será apoiada administrativamente pelo conselho administrativo da Direcção-Geral dos Serviços de Fomento Marítimo.
 
 Estado-Maior da Armada, 21 de Junho de 1977. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, almirante.

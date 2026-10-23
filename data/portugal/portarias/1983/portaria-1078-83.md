@@ -22,12 +22,12 @@ publication:
   reference: Diário da República n.º 301/1983, 1º Suplemento, Série I de 1983-12-31
   number: '301'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4172-(1) a 4172-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/12/30101/00010007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1078-1983-630604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T07:32:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e42357bf290c31660983f67e1175db287b2bb32cd2803ca47e1c87be39ef492
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d77ffce3a3a206dad37a2b24386b306f3b990a54aed761b7c53bf0f1731214e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:32:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Central
+- Concurso Público
+- Refeitório
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:666911:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:425936:por
+  label: "Aditados os nºs 21 e 22 ao programa tipo anexo à presente portaria pela PORT.145-A/84.1984.03.12.PCM DR.IS [60]Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/145-a-1984-425936
+  date: '1984-03-12'
+- type: amended_by
+  target: pt:dre:658885:por
+  label: "Alterados os nºs 4º e 5º e aditado um nº 4º-A e aditados os nºs 23, 24 e 25 ao programa tipo anexo à presente portaria\
+    \ pela PORT.845-A/84.1984.11.02.PCM DR.IS [254]Supl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/845-a-1984-658885
+  date: '1984-11-02'
+- type: amended_by
+  target: pt:dre:475561:por
+  label: "Consideradas revogadas pelo disposto no nº 25 do programa do concurso tipo aditado pela Port 845-A/84, de 02-Nov,\
+    \ as cláusulas jurídicas e técnicas gerais 2.2.2 e 2.2.3 do caderno de encargos tipo anexo à presente portaria pela PORT.896-A/84.1984.12.06.PCM\
+    \ DR.IS [282]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/896-a-1984-475561
+  date: '1984-12-06'
+- type: amended_by
+  target: pt:dre:194798:por
+  label: "Alterados os nºs 24 e 25 e aditados os nºs 24-A, 25-A e 26 pela PORT.32/86.1986.01.24.MF DR.IS [20]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/32-1986-194798
+  date: '1986-01-24'
+- type: cites
+  target: pt:dre:245086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441966:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:666911:por
+  label: "Revogada pela PORT.742-A/86.1986.12.11.MF DR.IS [284]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/742-a-1986-666911
+  date: '1986-12-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:32:06Z'
   warnings: []
   errors: []
 ---
@@ -117,9 +170,9 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado da Admini
 
 Secretarias de Estado da Administração Pública e do Orçamento.
 
-**Assinada em 19 de Dezembro de 1983.**
+Assinada em 19 de Dezembro de 1983.
 
-**O Secretário de Estado da Administração Pública, José San-Bento de Menezes. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias.**
+O Secretário de Estado da Administração Pública, José San-Bento de Menezes. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias.
 
 Modelo de anúncio para concurso público
 
@@ -851,13 +904,13 @@ Aos ... dias do mês de ... de 19... nesta cidade de Lisboa, na sede dos Serviç
 
 O presente contrato compreende as condições seguintes:
 
-###### Artigo 1.º Na execução dos trabalhos que constituem o objecto deste contrato e em todos os actos que lhe digam respeito o adjudicatário obriga-se a cumprir o disposto no respectivo caderno de encargos, que fica fazendo parte integrante deste contrato.
+Artigo 1.º Na execução dos trabalhos que constituem o objecto deste contrato e em todos os actos que lhe digam respeito o adjudicatário obriga-se a cumprir o disposto no respectivo caderno de encargos, que fica fazendo parte integrante deste contrato.
 
-###### Art. 2.º O presente contrato produzirá efeitos a partir do visto do Tribunal de Contas e será válido até 31 de Dezembro.
+Art. 2.º O presente contrato produzirá efeitos a partir do visto do Tribunal de Contas e será válido até 31 de Dezembro.
 
-###### Art. 3.º O preço global da refeição é de ...
+Art. 3.º O preço global da refeição é de ...
 
-###### Art. 4.º Os encargos resultantes deste contrato no valor máximo de ... e na previsão de um fornecimento aproximado de ... almoços em ... (localidade), e de ... em ... (localidade), foram autorizados por despacho de S. Ex.ª ... de ... de ... de 19... e têm cabimento nas disponibilidades do cap. ..., div. ... e classe económica 31.00 «Aquisição de serviços - Não especificados» do orçamento para o ano de 19...
+Art. 4.º Os encargos resultantes deste contrato no valor máximo de ... e na previsão de um fornecimento aproximado de ... almoços em ... (localidade), e de ... em ... (localidade), foram autorizados por despacho de S. Ex.ª ... de ... de ... de 19... e têm cabimento nas disponibilidades do cap. ..., div. ... e classe económica 31.00 «Aquisição de serviços - Não especificados» do orçamento para o ano de 19...
 
 Pelo adjudicatário foi declarado que aceita o presente contrato com todas as suas condições de que tem inteiro e perfeito conhecimento e a cujo cumprimento se obriga por sua pessoa e bens presentes e futuros perante o Supremo Tribunal Administrativo, com renúncia de quaisquer direitos em contrário.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/316/1997/11/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1997-694244
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:53:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0357010cf543585ca9b7a198d5e69d582236493bb4c3128d1a67da512bdf7850
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 250323a2746d741fc244fd52389ce43cde7653c8f11bfe13f73cc4af3efc175c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:53:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
-- Processo Penal
-- Instituição de Crédito
-- Cheque
-- Multa
-- Contra-ordenação
+- Banca
 - Banco de Portugal
-- Pagamento
+- Cheque
+- Contra-ordenação
+- Crime
+- Direito Penal
 - Ilícito de MERA Ordenação Social
 - Indemnização
-- Banca
+- Instituição de Crédito
 - JURO de MORA
 - Lei Uniforme Relativa a Cheques
-- Títulos de Crédito
-- Sanção Penal
-- Direito Penal
+- Multa
+- Pagamento
+- Processo Penal
 - Responsabilidade Civil
 - Responsabilidade Criminal
+- Sanção Penal
 - TAXA de JURO
+- Títulos de Crédito
 relationships:
 - type: amended_by
   target: pt:dre:69727377:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:540216:por
+  label: "Alterados os art.s 2º, 8º, 11º e 14º do Dec Lei 454/91, de 28-Dez, na redacção do presente diploma, pelo DEC LEI.323/2001.2001.12.17.MJ\
+    \ DR.IS-A [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-2001-540216
+  date: '2001-12-17'
+- type: amended_by
+  target: pt:dre:240666:por
+  label: "Alterado a art. 3.º do Dec Lei 454/91, de 28-Dez, na redacção do presente diploma, pelo DEC LEI.83/2003.2003.04.24.MF\
+    \ DR.IS-A [96]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-2003-240666
+  date: '2003-04-24'
+- type: amended_by
+  target: pt:dre:245299:por
+  label: "Alterados os arts. 2º, 8º, 11º e 11º-A do Dec Lei 454/91 de 28-Dez, que aprovou o regime jurídico do cheque sem\
+    \ provisão, na redacção do presente diploma, pela LEI.48/2005.29.08.2005.AR, DR.IS-A [165] de 29.08.2005\005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/48-2005-245299
+  date: '2005-08-29'
+- type: amended_by
+  target: pt:dre:69727377:por
+  label: Alterado a partir de 04.10.2015 o art. 1.º-A do Dec Lei 454/91, de 28-dez, aditado pelo presente diploma, pelo(a)
+    Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-2015-69727377
+  date: '2015-07-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/454/1991/12/28/p/dre
   label: null
@@ -97,16 +121,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/114/1997/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/114/1997/09/16/p/dre
+- type: cites
+  target: pt:dre:252410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649164:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:540377:por
+  label: "Rectificado pela DECL-RECT.1-C/98.1998.01.30.PCM DR.IS-A [26]Supl de 31/Jan/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/1-c-1998-540377
+  date: '1998-01-30'
 article_structure:
-  article_count: 37
+  article_count: 23
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:53:36Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +224,9 @@ Rescisão da convenção de cheque
 
 7 - O Banco de Portugal pode autorizar a celebração de uma nova convenção de cheque antes de decorrido o prazo estabelecido no número anterior, quando circunstâncias especialmente ponderosas o justifiquem e mediante prova da regularização das situações que determinaram a rescisão da convenção.
 
-###### Artigo 2.º — Comunicações
+Artigo 2.º
+
+Comunicações
 
 As instituições de crédito são obrigadas a comunicar ao Banco de Portugal, no prazo e pela forma que este lhes determinar, todos os casos de:
 
@@ -181,7 +240,9 @@ d) Não pagamento de cheque de valor não superior a 12500$00, emitido através 
 
 e) Recusa de pagamento de cheques com inobservância do disposto no artigo 9.º, n.º 1.
 
-###### Artigo 3.º — Listagem
+Artigo 3.º
+
+Listagem
 
 1 - As entidades que tenham sido objecto de rescisão de convenção de cheque ou que hajam violado o disposto no artigo 1.º, n.º 4, são incluídas numa listagem de utilizadores de cheque que oferecem risco, a comunicar pelo Banco de Portugal a todas as instituições de crédito.
 
@@ -189,23 +250,31 @@ e) Recusa de pagamento de cheques com inobservância do disposto no artigo 9.º,
 
 3 - É correspondentemente aplicável o disposto no artigo 1.º, n.º 6.
 
-###### Artigo 5.º — Notificações
+Artigo 5.º
+
+Notificações
 
 1 - As notificações a que se referem os artigos 1.º, 1.º-A e 2.º efectuam-se por meio de carta registada expedida para o último domicílio declarado às instituições de crédito sacadas e presumem-se feitas, salvo prova em contrário, no terceiro dia posterior ao do registo ou no primeiro dia útil seguinte, se aquele o não for.
 
 2 - (Actual n.º 2.)
 
-###### Artigo 6.º — Movimentação de contas de depósito
+Artigo 6.º
+
+Movimentação de contas de depósito
 
 1 - A rescisão da convenção de cheque não impede a movimentação de contas de depósito através de cheques avulsos, visados ou não, consoante se destinem a pagamentos ou a simples levantamentos, ainda que o sacador figure na listagem distribuída pelo Banco de Portugal, devendo ser facultados os impressos necessários para o efeito.
 
 2 - (Actual n.º 2.)
 
-###### Artigo 7.º — Competência do Banco de Portugal
+Artigo 7.º
+
+Competência do Banco de Portugal
 
 Compete ao Banco de Portugal fixar os requisitos a observar pelas instituições de crédito na abertura de contas de depósito e no fornecimento de módulos de cheques, designadamente quanto à identificação dos respectivos titulares e representantes e, ainda, transmitir às instituições de crédito instruções tendentes à aplicação uniforme do disposto neste diploma.
 
-###### Artigo 8.º — Obrigatoriedade de pagamento pelo sacado
+Artigo 8.º
+
+Obrigatoriedade de pagamento pelo sacado
 
 1 - A instituição de crédito sacada é obrigada a pagar, não obstante a falta ou insuficiência de provisão, qualquer cheque emitido através de módulo por ela fornecido, de montante não superior a 12500$00.
 
@@ -213,7 +282,9 @@ Compete ao Banco de Portugal fixar os requisitos a observar pelas instituições
 
 3 - Para efeitos do previsto no número anterior, constitui, nomeadamente, justificação de recusa de pagamento a existência de sérios indícios de falsificação, furto, abuso de confiança ou apropriação ilegítima do cheque.
 
-###### Artigo 9.º — Outros casos de obrigatoriedade de pagamento pelo sacado
+Artigo 9.º
+
+Outros casos de obrigatoriedade de pagamento pelo sacado
 
 1 - Sem prejuízo do disposto no artigo 8.º, as instituições de crédito são ainda obrigadas a pagar qualquer cheque emitido através de módulo por elas fornecido:
 
@@ -227,11 +298,15 @@ d) Em violação do disposto no artigo 12.º, n.º 5.
 
 2 - Em caso de recusa de pagamento, a instituição sacada deve provar que observou as normas relativas ao fornecimento de módulos de cheque e à obrigação de rescisão da convenção de cheque.
 
-###### Artigo 10.º — Sub-rogação
+Artigo 10.º
+
+Sub-rogação
 
 A instituição de crédito sacada que pagar um cheque em observância do disposto neste capítulo fica sub-rogada nos direitos do portador até ao limite da quantia paga.
 
-###### Artigo 11.º — Crime de emissão de cheque sem provisão
+Artigo 11.º
+
+Crime de emissão de cheque sem provisão
 
 1 - Quem, causando prejuízo patrimonial ao tomador do cheque ou a terceiro:
 
@@ -253,7 +328,9 @@ se o cheque for apresentado a pagamento nos termos e prazos estabelecidos pela L
 
 6 - Se o montante do cheque for pago, com reparação do dano causado, já depois de decorrido o prazo referido no n.º 5, mas até ao início da audiência de julgamento em 1.ª instância, a pena pode ser especialmente atenuada.
 
-###### Artigo 12.º — Sanções acessórias
+Artigo 12.º
+
+Sanções acessórias
 
 1 - O tribunal pode aplicar, isolada ou cumulativamente, conforme os casos, as seguintes sanções acessórias a quem for condenado por crime de emissão de cheque sem provisão, previsto no artigo 11.º:
 
@@ -277,11 +354,15 @@ b) Publicidade da decisão condenatória.
 
 9 - (Actual n.10.)
 
-###### Artigo 13.º — Tribunal competente
+Artigo 13.º
+
+Tribunal competente
 
 É competente para conhecer do crime previsto neste diploma o tribunal da comarca onde se situa o estabelecimento da instituição de crédito em que o cheque for inicialmente entregue para pagamento.
 
-###### Artigo 14.º — Contra-ordenações
+Artigo 14.º
+
+Contra-ordenações
 
 1 - Constitui contra-ordenação punível com coima de 150000$00 a 2500000$00:
 
@@ -329,7 +410,9 @@ b) A advertência de que a falta de regularização da situação implica a resc
 
 3 - A regularização prevista no n.º 1 faz-se mediante consignação em depósito ou pagamento directamente ao portador do cheque, comprovado perante a instituição de crédito sacada, do valor do cheque e dos juros moratórios calculados à taxa legal, fixada nos termos do Código Civil, acrescida de 10 pontos percentuais.
 
-###### Artigo 11.º-A — Queixa
+Artigo 11.º-A
+
+Queixa
 
 1 - O procedimento criminal pelo crime previsto no artigo anterior depende de queixa.
 
@@ -339,7 +422,9 @@ b) A advertência de que a falta de regularização da situação implica a resc
 
 4 - Compete ao Procurador-Geral da República, ouvido o departamento respectivo, autorizar a desistência da queixa nos casos em que o Estado seja ofendido.
 
-###### Artigo 13.º-A — Dever de colaboração na investigação
+Artigo 13.º-A
+
+Dever de colaboração na investigação
 
 1 - As instituições de crédito devem fornecer às autoridades judiciárias competentes todos os elementos necessários para a prova do motivo do não pagamento de cheque que lhes for apresentado para pagamento nos termos e prazos da Lei Uniforme Relativa ao Cheque, através da emissão de declaração de insuficiência de saldo com indicação do valor deste, da indicação dos elementos de identificação do sacador e do envio de cópia da respectiva ficha bancária de assinaturas.
 
@@ -365,15 +450,15 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 1998.
 
 Visto e aprovado em Conselho de Ministros de 9 de Outubro de 1997. - António Manuel de Carvalho Ferreira Vitorino - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 5 de Novembro de 1997.**
+Promulgado em 5 de Novembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Novembro de 1997.**
+Referendado em 10 de Novembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — REGIME JURÍDICO DO CHEQUE SEM PROVISÃO
 

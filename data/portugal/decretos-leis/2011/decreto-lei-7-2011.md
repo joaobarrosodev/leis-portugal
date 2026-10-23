@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/7/2011/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fc78490b051041cf8f0bf09c82e4eeadf6aab66b347351751a97001b4a93bb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d9d061d11365305e5b2a39f1a1c16f5ebb3636c2571d62b6f4b4b7b7e4a4387
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Farmácia
-- Infarmed
-- Definição de Competências
 - Administração Regional de Saúde
+- Definição de Competências
+- Farmácia
 - Farmácia de Oficina
 - Horário de Funcionamento
+- Infarmed
 - Trabalho por Turnos
 relationships:
 - type: amended_by
   target: pt:dre:989282074:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:179071:por
+  label: "Dada nova redação aos arts. 6º e 11º do Dec Lei 53/2007 de 08-mar, alterado pelo presente diploma, pelo DEC LEI.172/2012.01.08.2012.MS,\
+    \ DR.IS [148] de 01.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-2012-179071
+  date: '2012-08-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/53/2007/03/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/53/2007/03/08/p/dre
+- type: cites
+  target: pt:dre:519221:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:45Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +142,9 @@ Período de Funcionamento
 
 2 - As farmácias de oficina podem fixar um período de funcionamento diário que lhes permita estar abertas vinte e quatro horas por dia, todos os dias de semana.
 
-###### Artigo 6.º — Comunicação dos períodos de funcionamento
+Artigo 6.º
+
+Comunicação dos períodos de funcionamento
 
 1 - O proprietário da farmácia comunica os períodos de funcionamento, diário e semanal, da farmácia, fixados nos termos dos artigos 4.º e 5.º, ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED), nos seguintes termos:
 
@@ -150,7 +162,9 @@ b) Até ao dia 30 de Setembro de cada ano, para o 1.º semestre do ano civil.
 
 6 - Sempre que se justifique, as comunicações dos períodos de funcionamento diário e semanal da farmácia devem prever as variações impostas por motivos de sazonalidade.
 
-###### Artigo 11.º — Funcionamento das farmácias de turno
+Artigo 11.º
+
+Funcionamento das farmácias de turno
 
 1 - A existência de farmácias de turno de serviço permanente e de turnos de regime de disponibilidade deve respeitar os seguintes critérios:
 
@@ -182,7 +196,9 @@ h) Nos municípios onde esteja em funcionamento farmácia de oficina com horári
 
 7 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -192,7 +208,9 @@ h) Nos municípios onde esteja em funcionamento farmácia de oficina com horári
 
 4 - O funcionamento das farmácias nos termos previstos no n.º 2 do artigo 4.º não origina qualquer acréscimo de pagamento na dispensa dos medicamentos.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -210,7 +228,9 @@ e) A violação do n.º 2, ou do n.º 4, do artigo 12.º
 
 3 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 As escalas de turnos são aprovadas pelas ARS territorialmente competentes, sob proposta das associações representativas das farmácias, desde que observem o disposto no presente decreto-lei.»
 
@@ -232,12 +252,12 @@ As comunicações e a fixação dos períodos de funcionamento diário e semanal
 
 Visto e aprovado em Conselho de Ministros de 28 de Outubro de 2010. - José Sócrates Carvalho Pinto de Sousa - Ana Maria Teodoro Jorge.
 
-**Promulgado em 14 de Dezembro de 2010.**
+Promulgado em 14 de Dezembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Dezembro de 2010.**
+Referendado em 16 de Dezembro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

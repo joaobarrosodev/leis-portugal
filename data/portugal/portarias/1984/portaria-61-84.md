@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/61-1984-660891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T08:08:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fb94ffc06915c3c463353a831a37e5fe3df016c382b161100d2b57d7e733fee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41aef8c72d6982e903a9ff43cb190a87159e06a4ac272ef638a9ae38f2075437
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:08:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Regulamento
+- Regulamento de Tarifas das Juntas Autónomas dos Portos
+- Tarifa Portuária
 relationships:
 - type: amended_by
   target: pt:dre:204812:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:514033:por
+  label: "Altera o art. 57.º do Regulamento de Tarifas das Juntas Autónomas dos Portos, aprovado pelo Dec Lei 291/79, de 16-Ago,\
+    \ alterado pela presente portaria, pela PORT.925-F/87.04.12.1987.MOPTC, DR.IS [279]2ºSupl de 04.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/925-f-1987-514033
+  date: '1987-12-04'
+- type: amended_by
+  target: pt:dre:204812:por
+  label: "Alterados o art. 57.º do Regulamento de Tarifas das Juntas Autónomas dos Portos, aprovado pelo Dec Lei 291/79, de\
+    \ 16-Ago, na redacção do presente diploma, pela PORT.805-I/88 de 15-Dez, DR.IS [288]1ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/805-i-1988-204812
+  date: '1988-12-15'
+- type: cites
+  target: pt:dre:377542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397529:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:08:55Z'
   warnings: []
   errors: []
 ---
@@ -123,6 +147,6 @@ Embarcações de bandeira estrangeira - 1$00;
 
 Ministérios do Comércio e Turismo e do Mar.
 
-**Assinada em 16 de Janeiro de 1984.**
+Assinada em 16 de Janeiro de 1984.
 
-**O Ministro do Comércio e Turismo, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Mar, Carlos Montez Melancia.**
+O Ministro do Comércio e Turismo, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Mar, Carlos Montez Melancia.

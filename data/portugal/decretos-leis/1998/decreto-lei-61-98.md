@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/61/1998/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1998-197521
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 316089ad6e22634139558bd667a52ed2254deb491bb987c4437a52fd4f25e573
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02372af006985bc5fac848115cb5cf5e118c3fd59664c55eeed2be9e589a6f73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Aquisição de Bens e Serviços
-- Publicidade
-- Ministro da Economia
+- Comissão Coordenadora das Acções de Promoção e Divulgação do EURO
 - Concurso
 - Concurso Público
 - Contrato
-- EURO
 - Despesas Públicas
 - Empreitada de Obras Públicas
-- Administração Pública
-- Plano de Divulgação do EURO em Portugal
+- EURO
 - Euro-uma Moeda para a Europa
-- Comissão Coordenadora das Acções de Promoção e Divulgação do EURO
-- Secretaria Geral
 - Gabinete Governamental
 - Ministério das Finanças
+- Ministro da Economia
 - Obras Públicas
-- Orçamento Geral do Estado
 - Orçamento
+- Orçamento Geral do Estado
+- Plano de Divulgação do EURO em Portugal
 - Prestação de Serviços
+- Publicidade
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/55/1995/03/29/p/dre
@@ -95,16 +95,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/80/1996/06/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/80/1996/06/21/p/dre
+- type: cites
+  target: pt:dre:173688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430803:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:18Z'
   warnings: []
   errors: []
 ---
@@ -139,12 +147,12 @@ Com excepção do disposto nos artigos anteriores, é aplicável à realização
 
 Visto e aprovado em Conselho de Ministros de 5 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 4 de Março de 1998.**
+Promulgado em 4 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Março de 1998.**
+Referendado em 5 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

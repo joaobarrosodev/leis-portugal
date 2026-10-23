@@ -48,36 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/606-1984-382212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T08:08:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fadd42adf681e82b9fe1cde2eadd83e955979766162f065464397899a914565
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 789401bdd2c9a6aca5fe1c114a13aa3a5ef23c06beed11fecc0219c038f47c28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:08:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Chefe de Divisão
+- Figueira da Foz
+- Junta Autónoma do Porto da Figueira da Foz
+- Pessoal de Chefia
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:381287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667955:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:08:50Z'
   warnings: []
   errors: []
 ---
@@ -104,6 +121,6 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Administ
 
 Presidência do Conselho de Ministros e Ministério do Mar.
 
-**Assinada em 30 de Julho de 1984.**
+Assinada em 30 de Julho de 1984.
 
-**O Ministro do Mar, Carlos Montez Melancia. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.**
+O Ministro do Mar, Carlos Montez Melancia. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.

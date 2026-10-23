@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/88/2010/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2010-334276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d736b56aefc4b974d90a3aeb20c5cf828a3ac4823ced180b6282a986bc0165ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 815e6d60043f72bad111e2a4cdfcee74acd3eeedb1c63e80a0a3c7b07f6f9f1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,35 +69,52 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
+- Agricultor
 - Análise Laboratorial
 - Aproximação das Legislações
+- ASAE
 - Catálogo Nacional de Variedades
 - Cereal
-- Oleaginosas
-- Direção Geral da Agricultura e Desenvolvimento Rural
+- Comércio
 - Contra-ordenação
 - Controlo de Qualidade
 - Curso de Formação
+- Direção Geral da Agricultura e Desenvolvimento Rural
 - Direcção Regional de Agricultura e Pescas
 - Etiquetagem
 - Fiscalização
-- ASAE
 - Licenciamento
-- Produto Hortícola
-- Produtor
-- Agricultor
+- Oleaginosas
 - Produção Agrícola
 - Produção Vegetal
+- Produto Agrícola
+- Produto Hortícola
+- Produtor
 - Regulamento
 - Semente
 - Taxa
-- Comércio
-- Produto Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:106825053:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:178827:por
+  label: "Alterado o anexo i pelo DEC LEI.122/2012.19.06.2012.MAMAOT, DR.IS [117] de 19.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2012-178827
+  date: '2012-06-19'
+- type: amended_by
+  target: pt:dre:475886:por
+  label: "Alterados os anexos I (na redação do Dec Lei 122/2012, de 19-jun) e II, pelo DEC LEI.63-B/2013.10.05.2013.MAMAOT,\
+    \ DR.IS [90-2ºSupl] de 10.05.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-b-2013-475886
+  date: '2013-05-10'
+- type: amended_by
+  target: pt:dre:572154:por
+  label: "Dada nova redação aos anexos II (alterado pelo Dec Lei 63-B/2013 de 10-mai) e IV pelo DEC LEI.34/2014.05.03.2014.MAGM,\
+    \ DR.IS [45] de 05.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2014-572154
+  date: '2014-03-05'
 - type: cites
   target: celex:31966L0401
   label: null
@@ -162,16 +179,22 @@ relationships:
   target: eli:http://data.europa.eu/eli/dec/
   label: null
   source: http://data.europa.eu/eli/dec/
+- type: repealed_by
+  target: pt:dre:106825053:por
+  label: Revogado o presente diploma, pelo(a) Decreto-Lei n.º 42/2017 - Diário da República n.º 69/2017, Série I de 2017-04-06,
+    sem prejuízo do previsto no seu art.º 59.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-2017-106825053
+  date: '2017-04-06'
 article_structure:
   article_count: 47
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 35
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:03Z'
   warnings: []
   errors: []
 ---
@@ -1044,23 +1067,23 @@ O artigo 45.º do presente decreto-lei entra em vigor em 1 de Abril de 2011.
 
 Visto e aprovado em Conselho de Ministros de 29 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - Pedro Manuel Carqueijeiro Lourtie - Fernando Teixeira dos Santos - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - António Manuel Soares Serrano - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Ana Maria Teodoro Jorge.
 
-**Promulgado em 29 de Junho de 2010.**
+Promulgado em 29 de Junho de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de Junho de 2010.**
+Referendado em 29 de Junho de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Regulamento técnico da produção e certificação de sementes de cereais
 
-# PARTE A — Espécies abrangidas e categorias de semente
+## PARTE A — Espécies abrangidas e categorias de semente
 
 1 - O presente RT aplica-se à produção e certificação de sementes de cereais, a admitir à comercialização, das variedades pertencentes aos géneros e espécies seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 2 - Salvo disposição em contrário, às sementes dos híbridos das espécies referidas no n.º 1 são aplicadas as mesmas normas ou outras condições a que estão sujeitas as sementes de cada uma das espécies de que derivam.
 
@@ -1084,7 +1107,7 @@ Semente base;
 
 Semente certificada.
 
-# PARTE B — Condições a satisfazer pelas culturas
+## PARTE B — Condições a satisfazer pelas culturas
 
 1 - Origem da semente - o agricultor multiplicador deve fazer prova junto do inspector de campo da origem da semente usada na sementeira dos campos de multiplicação, devendo para o efeito conservar as etiquetas oficiais de certificação que constavam nas embalagens das sementes usadas.
 
@@ -1102,7 +1125,7 @@ QUADRO I
 
 Distâncias de isolamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 3.2 - Nas culturas destinadas à produção de sementes certificadas de híbridos de Avena nuda, A. sativa, A. strigosa, Hordeum vulgare, Oryza sativa, Triticum aestivum, T. durum, T. spelta e xTriticosecale autogâmico, o componente feminino deve estar a uma distância mínima de 25 m de qualquer outra variedade da mesma espécie, excepto de uma cultura do progenitor masculino.
 
@@ -1250,7 +1273,7 @@ Produção de semente pré-base e base - 0;
 
 Produção de semente certificada - 1 por 50 m2.
 
-# PARTE C — Controlo dos lotes de semente produzida
+## PARTE C — Controlo dos lotes de semente produzida
 
 1 - As sementes devem ter identidade e pureza varietais suficientes ou, no caso de sementes de uma linha pura, identidade e pureza suficientes no que diz respeito às suas características. Em relação às sementes de variedades híbridas, as disposições acima mencionadas aplicam-se igualmente às características dos componentes.
 
@@ -1260,7 +1283,7 @@ QUADRO I
 
 Pureza varietal mínima para Avena nuda, A. sativa, A. strigosa, Hordeum vulgare, Oryza sativa, Triticum aestivum, Triticum durum, Triticum spelta, variedades autogâmicas de xTriticosecale com excepção dos híbridos em todos os casos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 Nota. - A pureza varietal mínima é examinada principalmente nas inspecções de campo.
 
@@ -1280,7 +1303,7 @@ QUADRO II
 
 Normas para a presença de Claviceps purpúrea
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 3 - Normas e tolerâncias - a semente a certificar deve estar de acordo com os limites ou outras condições no que se refere à faculdade germinativa, semente pura e teor máximo em número de sementes de outras espécies de plantas, incluindo grãos vermelhos de arroz, de acordo com o disposto no quadro seguinte:
 
@@ -1288,7 +1311,7 @@ QUADRO III
 
 Normas e tolerâncias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 5 - O peso dos lotes e das amostras para as determinações laboratoriais deve obedecer ao disposto no quadro seguinte:
 
@@ -1296,7 +1319,7 @@ QUADRO IV
 
 Peso máximo dos lotes e peso mínimo das amostras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 Nota. - O peso máximo do lote apenas pode ser excedido em 5 %.
 
@@ -1308,17 +1331,17 @@ Se quando sujeita a um exame oficial, uma amostra de pelo menos 3 kg retirada do
 
 ## ANEXO II — Regulamento técnico da produção e certificação de sementes de espécies forrageiras
 
-# PARTE A — Espécies abrangidas e categorias de semente
+## PARTE A — Espécies abrangidas e categorias de semente
 
 1 - O presente RT aplica-se à produção e certificação de sementes de espécies forrageiras a admitir à comercialização, das variedades e ecótipos pertencentes aos géneros, espécies e subespécies seguintes:
 
 1.1 - Espécies UE:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 1.2 - Outras espécies:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 2 - São admitidas à produção as seguintes categorias de semente:
 
@@ -1334,7 +1357,7 @@ Semente comercial, sendo que a esta categoria não são admitidos lotes de semen
 
 3 - Para as espécies Trifolium subterrraneum, Medicago littoralis, M. polymorpha, M. rugosa, M. scutellata, M. tornata e M. truncatula, em virtude da sua capacidade de auto-sementeira, cujas sementes possuem períodos de dormência variáveis, e tendo em conta que pode ser difícil identificar a geração da semente produzida, pelo que nestas situações a semente obtida resulta de mistura de gerações, os lotes assim resultantes devem ser identificados por etiqueta de cor vermelha, na qual é impresso em vez da categoria a menção «Mistura de gerações», devendo a semente obedecer aos requisitos estabelecidos para a categoria certificada.
 
-# PARTE B — Condições a satisfazer pelas culturas
+## PARTE B — Condições a satisfazer pelas culturas
 
 1 - Origem da semente - o agricultor multiplicador deve fazer prova junto do inspector de campo da origem da semente usada na sementeira dos campos de multiplicação, devendo para o efeito conservar as etiquetas oficiais de certificação que constavam nas embalagens das sementes usadas.
 
@@ -1356,7 +1379,7 @@ QUADRO I
 
 Espécies antecedentes interditas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 5 - Isolamento:
 
@@ -1366,7 +1389,7 @@ QUADRO II
 
 Distâncias de isolamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 6.2 - Para o Cicer arietinum as distâncias de isolamento são as seguintes:
 
@@ -1404,7 +1427,7 @@ QUADRO III
 
 Limites máximos de presença de outras variedades da mesma espécie ou fora do tipo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 10.2 - No caso de variedades de Pisum sativum e Vicia faba, os limites máximos de plantas de outras variedades ou fora do tipo, admitidas nos campos de multiplicação, são os seguintes:
 
@@ -1444,7 +1467,7 @@ Produção de semente pré-base e base - 1 por 50 m2;
 
 Produção de semente certificada - 1 por 10 m2.
 
-# PARTE C — Controlo dos lotes de semente produzida
+## PARTE C — Controlo dos lotes de semente produzida
 
 1 - As sementes devem possuir suficiente identidade e pureza varietal, as quais devem ser prioritariamente avaliadas durante as inspecções de campo, em particular, a percentagem máxima de outras variedades da mesma espécie, ou de plantas fora do tipo, e devem ser as seguintes:
 
@@ -1470,7 +1493,7 @@ QUADRO I
 
 Normas e tolerâncias para as categorias de semente certificada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 QUADRO II
 
@@ -1478,7 +1501,7 @@ Normas e tolerâncias para as sementes Pré-base e Base
 
 (Sem prejuízo das normas e tolerâncias indicadas no presente quadro, aplicam-se as normas e tolerâncias do quadro i)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 4 - Semente comercial:
 
@@ -1516,11 +1539,11 @@ QUADRO III
 
 Peso dos lotes e das amostras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 Nota. - O peso máximo do lote apenas pode ser excedido em 5 %.
 
-# PARTE D — Certificação de misturas de sementes
+## PARTE D — Certificação de misturas de sementes
 
 1 - São admitidas a certificação e comercialização sementes sob a forma de misturas de géneros, espécies ou variedades para uso forrageiro ou não forrageiro.
 
@@ -1544,7 +1567,7 @@ c) Com etiquetas nacionais: se as misturas se destinarem a uso forrageiro e a se
 
 6 - As embalagens, à excepção das misturas mencionadas no n.º 3, devem ser portadoras de etiquetas oficiais de cor verde, cumprindo o disposto no anexo vi.
 
-# PARTE E — Acondicionamento em pequenas embalagens
+## PARTE E — Acondicionamento em pequenas embalagens
 
 1 - É autorizado o acondicionamento de semente em pequenas embalagens CE, de acordo com os seguintes requisitos:
 
@@ -1556,7 +1579,7 @@ Em «pequena embalagem CE B», ou seja quando a embalagem contém sementes de es
 
 ## ANEXO III — Regulamento técnico da produção e certificação de sementes de beterrabas
 
-# PARTE A — Espécies abrangidas e categorias de semente
+## PARTE A — Espécies abrangidas e categorias de semente
 
 1 - O presente RT aplica-se à produção e certificação de sementes de beterrabas açucareiras e forrageiras da espécie Beta vulgaris L. a admitir à comercialização.
 
@@ -1574,7 +1597,7 @@ Semente monogérmica: as sementes geneticamente monogérmicas;
 
 Sementes de precisão: as sementes destinadas aos semeadores mecânicos de precisão e que originam uma única plântula.
 
-# PARTE B — Condições a satisfazer pelas culturas
+## PARTE B — Condições a satisfazer pelas culturas
 
 1 - Origem da semente:
 
@@ -1596,7 +1619,7 @@ QUADRO I
 
 Distâncias de isolamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 4 - Inspecção de campo:
 
@@ -1608,7 +1631,7 @@ Os campos de produção de sementes são inspeccionados ao longo do ciclo cultur
 
 Na determinação da pureza varietal o limite máximo de plantas fora de tipo é de 2 %, sendo consideradas como plantas fora de tipo, as plantas pertencentes a uma outra espécie ou subespécie, os híbridos naturais com uma outra subespécie e as plantas manifestamente diferentes da variedade.
 
-# PARTE C — Controlo dos lotes de semente produzida
+## PARTE C — Controlo dos lotes de semente produzida
 
 1 - O peso máximo do lote a certificar é de 20 t, podendo este peso ser excedido em 5 %, ou ser composto pelo máximo de 10 000 unidades.
 
@@ -1620,13 +1643,13 @@ QUADRO I
 
 Normas e tolerâncias admitidas para todas as categorias de semente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 4 - As sementes de beterraba não podem ser introduzidas em zonas reconhecidas como «indémicas de rizomania», a menos que a percentagem em peso da matéria inerte não ultrapasse 0,5 %.
 
 5 - A presença de organismos nocivos que reduzam o valor de utilização das sementes é tolerada no limite mais baixo possível.
 
-# PARTE D — Acondicionamento em pequenas embalagens
+## PARTE D — Acondicionamento em pequenas embalagens
 
 1 - É autorizado o acondicionamento de semente em pequenas embalagens CE, de acordo com os seguintes requisitos:
 
@@ -1638,17 +1661,17 @@ Pequenas embalagens CE de sementes que não sejam monogérmicas ou de precisão,
 
 ## ANEXO IV — Regulamento técnico da produção e certificação de sementes de espécies hortícolas
 
-# PARTE A — Espécies abrangidas e categorias de semente
+## PARTE A — Espécies abrangidas e categorias de semente
 
 1 - O presente RT aplica-se à produção e certificação de sementes de espécies hortícolas a admitir à comercialização, das variedades pertencentes aos géneros e espécies seguintes:
 
 1.1 - Lista de espécies UE:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 1.2 - Outras espécies:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 2 - São admitidas à produção as seguintes categorias de sementes:
 
@@ -1660,7 +1683,7 @@ Semente certificada,
 
 Semente standard: a esta categoria não são admitidos lotes de sementes de chicória industrial.
 
-# PARTE B — Controlo dos campos de multiplicação
+## PARTE B — Controlo dos campos de multiplicação
 
 1 - Antecedente cultural:
 
@@ -1680,7 +1703,7 @@ QUADRO I
 
 Distâncias de isolamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 5 - Os grupos de variedades de Beta referidos no quadro i são os seguintes:
 
@@ -1692,13 +1715,13 @@ b) Beta vulgaris L. var vulgaris- acelga:
 
 Sem prejuízo da alínea a), as variedades são classificadas em cinco grupos, com base nos caracteres seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 c) Beta vulgaris L. var. conditiva Alef. - beterraba:
 
 Sem prejuízo da alínea a), as variedades são classificadas em seis grupos, com base nos caracteres seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 6 - Inspecção de campo:
 
@@ -1724,7 +1747,7 @@ Categoria de semente certificada e standard: 3 %;
 
 7.2 - No caso de espécies alogâmicas, as culturas devem possuir suficiente identidade e pureza varietal.
 
-# PARTE C — Controlo dos lotes de sementes produzidas
+## PARTE C — Controlo dos lotes de sementes produzidas
 
 1 - As sementes devem possuir suficiente identidade e pureza varietais.
 
@@ -1750,7 +1773,7 @@ QUADRO I
 
 Normas e tolerâncias para todas as categorias de semente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 7 - Os pesos mínimos das amostras para as determinações da semente pura, teor máximo de sementes de outras espécies e germinação mínima são os constantes do quadro seguinte.
 
@@ -1758,11 +1781,11 @@ QUADRO II
 
 Peso mínimo das amostas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 7.1 - Para as variedades híbridas das espécies acima citadas, o peso mínimo da amostra pode ser reduzido até um quarto do peso fixo, contudo, a amostra deve ter, pelo menos, 5 g de peso e conter, no mínimo, 400 sementes.
 
-# PARTE D — Acondicionamento das sementes em pequenas embalagens e embalagens de semente standard
+## PARTE D — Acondicionamento das sementes em pequenas embalagens e embalagens de semente standard
 
 1 - É autorizado o acondicionamento de semente em pequenas embalagens CE, desde que as embalagens contenham um peso máximo de:
 
@@ -1776,11 +1799,11 @@ Peso mínimo das amostas
 
 ## ANEXO V — Regulamento Técnico da Produção e Certificação de Sementes de Espécies Oleaginosas e Fibrosas
 
-# PARTE A — Espécies abrangidas e categorias de semente
+## PARTE A — Espécies abrangidas e categorias de semente
 
 1 - O presente RT aplica-se à produção e certificação de sementes de variedades de espécies oleaginosas e fibrosas a admitir à comercialização, pertencentes aos géneros e espécies seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 2 - São admitidas a certificação as seguintes categorias:
 
@@ -1802,7 +1825,7 @@ Certificada de 2.ª geração, para lotes de semente de Cannabis sativa monóico
 
 Semente comercial: a esta categoria não são admitidos lotes de sementes das espécies identificadas com (x) no número anterior.
 
-# PARTE B — Condições a satisfazer pelas culturas
+## PARTE B — Condições a satisfazer pelas culturas
 
 1 - Origem da semente:
 
@@ -1832,7 +1855,7 @@ QUADRO I
 
 Distâncias mínimas de isolamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 5 - Pureza varietal: A cultura deve ter identidade e pureza varietais suficientes ou, no caso de uma cultura de uma linha pura, identidade e pureza suficientes no que diz respeito às suas características.
 
@@ -1920,7 +1943,7 @@ b) Nas culturas para produção de sementes certificadas de variedades híbridas
 
 8 - O tamanho, o número e a distribuição das parcelas de terreno a inspeccionar para verificar o respeito das condições do presente anexo são determinados de acordo com as regras da OCDE.
 
-# PARTE C — Controlo dos lotes de semente produzida
+## PARTE C — Controlo dos lotes de semente produzida
 
 1 - Para que as sementes produzidas nos campos de multiplicação aprovados nas inspecções de campo possam ser certificadas como semente da categoria pré-base, base e certificada, é indispensável que satisfaçam todas as prescrições do presente RT e cumpram o disposto no quadro seguinte:
 
@@ -1928,7 +1951,7 @@ QUADRO I
 
 Normas e tolerâncias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 2 - As sementes possuem identidade e pureza varietais suficientes. As sementes das espécies a seguir mencionadas correspondem, nomeadamente, às seguintes outras normas ou condições mencionadas no quadro ii.
 
@@ -1936,7 +1959,7 @@ QUADRO II
 
 Pureza varietal mínima
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 Nota. - A pureza varietal mínima é controlada principalmente aquando de inspecções de campo efectuadas de acordo com as condições referidas na parte B.
 
@@ -1966,7 +1989,7 @@ QUADRO III
 
 Organismos nocivos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 6 - Normas especiais ou outras condições aplicáveis à Glycine max:
 
@@ -1984,13 +2007,13 @@ QUADRO IV
 
 Peso dos lotes e das amostras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13900/0270602747.pdf)
 
 Nota. - O peso máximo de um lote não pode ser exedido em mais de 5 %.
 
 ## ANEXO VI — Regulamento técnico das etiquetas de certificação de lotes de sementes
 
-# PARTE A — Disposições gerais
+## PARTE A — Disposições gerais
 
 As etiquetas oficiais de certificação de lotes de sementes, quanto à sua utilização, às dimensões, características, cor e inscrições, devem cumprir o que seguidamente se define:
 
@@ -2010,7 +2033,7 @@ As etiquetas oficiais de certificação de lotes de sementes, quanto à sua util
 
 8 - As embalagens de sementes das diferentes categorias podem ostentar uma etiqueta do produtor de semente, que deve ser distinta da etiqueta oficial ou ser impressa na própria embalagem, contendo sempre informação do produtor de sementes.
 
-# PARTE B — Etiquetas CE e nacionais
+## PARTE B — Etiquetas CE e nacionais
 
 1 - Características:
 
@@ -2252,7 +2275,7 @@ Se for caso disso, os resultados de análises preliminares das sementes.
 
 9 - As etiquetas de certificação nacionais devem possuir as características e conter todas as informações referidas nos números anteriores, à excepção da menção «Regras e normas CE», e devem conter a menção «Comercialização autorizada exclusivamente em Portugal».
 
-# PARTE C — Etiquetas OCDE
+## PARTE C — Etiquetas OCDE
 
 1 - Características:
 
@@ -2300,13 +2323,13 @@ Declaração de reacondionamento, se for o caso.
 
 ## ANEXO VII — Regulamento Técnico da Comercialização de Sementes Pertencentes a Variedades em Fase de Inscrição Num Catálogo de Um Estado Membro
 
-# PARTE A — Variedades abrangidas
+## PARTE A — Variedades abrangidas
 
 1 - O presente RT estabelece as normas para a comercialização de semente de espécies agrícolas e hortícolas para as quais foi apresentado um pedido de inscrição num catálogo nacional de um Estado membro e para as quais foi cumprido o procedimento de autorização previsto na Decisão n.º [2004/842/CE](https://data.europa.eu/eli/dec/2004/842/oj?locale=pt), Comissão, de 1 de Dezembro.
 
 2 - O presente RT aplica-se às variedades pertencentes às espécies UE listadas nos anexos i a v.
 
-# PARTE B — Espécies agrícolas
+## PARTE B — Espécies agrícolas
 
 1 - As sementes devem respeitar as condições estabelecidas nas partes B e C dos anexos i, ii, iii e v, no que respeita:
 
@@ -2342,7 +2365,7 @@ No caso de indicação do peso e da utilização de produtos fitofarmacêuticos 
 
 5 - Qualquer tratamento químico deve ser mencionado na etiqueta oficial, numa etiqueta do produtor ou sobre a embalagem ou dentro dela, ou ainda no contentor.
 
-# PARTE C — Espécies hortícolas
+## PARTE C — Espécies hortícolas
 
 1 - As sementes devem respeitar as condições estabelecidas na parte C do anexo iv.
 

@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/52/2006/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7a78b7ec92ce67359eadaffe361c065205c67c4e86f1d8a9b0d179632803708
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d7869065ed7f06aa325de47157137d690f708c6089d9e74709577214af86273
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,27 +71,127 @@ reuse:
 subjects:
 - Acesso à Informação
 - Aproximação das Legislações
-- Valores Mobiliários
-- Sociedade Comercial
+- CMVM
 - Código das Sociedades Comerciais
 - Código do Registo Comercial
 - Código dos Valores Mobiliários
-- Titularização de Créditos
-- Publicitação
+- Informação do Consumidor
 - Mercado de Capitais
 - Mercado de Valores
 - Mercado Financeiro
 - Obrigações de Caixa
 - OPV
-- Informação do Consumidor
-- CMVM
+- Publicitação
+- Sociedade Comercial
 - Sociedade de Capital de Risco
 - Sociedade Gestora de Mercados Regulamentados
+- Titularização de Créditos
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:1125313601:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:620286:por
+  label: "Alterados os arts. 3º e 69º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86 de 03-Dez, na redacção\
+    \ do presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl] de 29.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:546195:por
+  label: "Alterados o arts. 108º, 111º, 180º e 393º do Código dos Valores Mobiliários aprovado pelo Dec Lei 486/99 de 13-Nov,\
+    \ com a redacção constante do presente diploma, pelo DEC LEI.219/2006.02.11.2006.MFAP, DR.IS [211] de 02.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-2006-546195
+  date: '2006-11-02'
+- type: amended_by
+  target: pt:dre:522813:por
+  label: "Alterado o art. 3º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.8/2007.17.01.2007.MJ, DR.IS [12] de 17.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2007-522813
+  date: '2007-01-17'
+- type: amended_by
+  target: pt:dre:241222:por
+  label: "Alterados os arts. 8º, 30º, 31º, 32º, 33º, 35º, 111.º, 112.º, 199.º, 200º, 203º, 206º, 208º, 212º, 214º a 223º,\
+    \ 225º, 227º, 229º, 231º, 233º, 234º, 236º, 244º, 245º, 246º, 247º, 249º, 250º, 252º, 255º, 256º, 265º, 273º, 278º, 281º,\
+    \ 287º, 304º, 311º, 317º, 319º, 321º, 322º, 359º, 360º, 361º, 364º, 366º, 369º, 376º, 377º, 388º, 389º, 394º e 397º, e\
+    \ revogados os nºs 3 a 7 do art. 203º, os nºs 3 e 4 do art. 214º, os nºs 2, 3 e 4 do art. 219º, os nºs 6, 7 e 8 do art.\
+    \ 229º, o nº 3 do art. 250º, o nº 4 do art. 265º, o nº 2 do art. 278º, o nº 3 do art. 317º e os nºs 3 e 4 do art. 397º\
+    \ todos do Código dos Valores Mobiliários aprovado pelo Dec Lei 486/99 de 13-Nov, na redacção do presente diploma, republicado\
+    \ pelo DEC LEI.357-A/2007.31.10.2007.MFAP, DR.IS [210-2ºSupl] de 31.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/357-a-2007-241222
+  date: '2007-10-31'
+- type: amended_by
+  target: pt:dre:608246:por
+  label: "Alterado o art. 3º do Código de Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pela LEI.19/2009.12.05.2009.AR, DR.IS [91] de 12.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/19-2009-608246
+  date: '2009-05-12'
+- type: amended_by
+  target: pt:dre:494791:por
+  label: "Alterados os arts. 378.º, 379.º, 388.º, 389.º, 408.º e 422.º do Código dos Valores Mobiliários, aprovado pelo Dec\
+    \ Lei 486/99, de 13-Nov, na redacção do presente diploma, pela LEI.28/2009.19.06.2009.AR, DR.IS [117] de 19.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2009-494791
+  date: '2009-06-19'
+- type: amended_by
+  target: pt:dre:614975:por
+  label: "Alterado o art. 249º do Código dos Valores Mobiliários, aprovado pelo Dec Lei 486/99, de 13-Nov, na redacção do\
+    \ presente diploma, pelo DEC LEI.49/2010.19.05.2010.MFAP, DR.IS [97] de 19.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2010-614975
+  date: '2010-05-19'
+- type: amended_by
+  target: pt:dre:258114:por
+  label: "Alterados os arts. 30.º, 33.º, 109.º, 111.º, 118.º, 129.º, 134.º, 135.º-A, 135.º-C, 137.º, 140.º, 142.º, 143.º,\
+    \ 145.º, 146.º, 149.º, 155.º, 159.º, 214.º, 217.º, 236.º, 237.º-A, 238.º, 359.º, 376.º, 377.º, 377º-A e 400.º do Código\
+    \ dos Valores Mobiliários aprovado pelo Dec Lei 486/99, de 13-nov, na redação do presente diploma, pelo DEC LEI.18/2013.06.02.2013.MF,\
+    \ DR.IS [26] de 06.02.2013\013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2013-258114
+  date: '2013-02-06'
+- type: amended_by
+  target: pt:dre:572638:por
+  label: "Alterados os arts. 12º e 21º do Dec Lei 69/2004, de 25-mar, na redação do presente diploma, pelo DEC LEI.29/2014.25.02.2014.MF,\
+    \ DR.IS [39] de 25.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-2014-572638
+  date: '2014-02-25'
+- type: amended_by
+  target: pt:dre:571934:por
+  label: "Alterados, a partir de 17.04.2014, os arts 35.º, 258.º, 259.º, 260.º, 265.º, 281.º, 359.º, 361.º, 372.º, 388.º,\
+    \ 389.º e 400.º do Código dos Valores Mobiliários, aprovado pelo Dec. Lei 486/99, de 13-nov, na redação do presente diploma,\
+    \ pelo DEC LEI.40/2014.18.03.2014.MF, DR.IS [54] de 18.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2014-571934
+  date: '2014-03-18'
+- type: amended_by
+  target: pt:dre:66443115:por
+  label: Alterados a partir de 2015-03-02 os arts. 348.º e 349.º do Código das Sociedades Comerciais aprovado pelo Dec Lei
+    262/86, de 02-set, na redação do presente diploma pelo(a) Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série
+    I de 2015-02-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-2015-66443115
+  date: '2015-02-06'
+- type: amended_by
+  target: pt:dre:66581992:por
+  label: Alterado o art. 359.º do Código dos Valores Mobiliários aprovado pelo Dec. Lei 486/99 de 13-nov, na redação do presente
+    diploma, pelo(a) Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2015-66581992
+  date: '2015-02-24'
+- type: amended_by
+  target: pt:dre:66868336:por
+  label: Alterado o art. 214.º do Código dos Valores Mobiliários aprovado pelo Dec. Lei 486/99 de 13-nov, na redação do presente
+    diploma, pelo(a) Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-a-2015-66868336
+  date: '2015-03-26'
+- type: amended_by
+  target: pt:dre:69736205:por
+  label: Alterado, com entrada em vigor a 01.01.2016 (n.º 2 do art 5.º do Dec Lei 124/2015 de 07-jul), o art 135.º-C (aditado
+    pelo presente diploma e na redação do Dec Lei 18/2013 de 06-fev), do Código dos Valores Mobiliários, aprovado pelo Dec
+    Lei 486/99 de 13-nov DR.IS-A [265] pelo(a) Decreto-Lei n.º 124/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2015-69736205
+  date: '2015-07-07'
+- type: amended_by
+  target: pt:dre:124256706:por
+  label: Alterados os arts. 27.º e 37.º do Dec Lei 453/99, de 05-nov, na redação do presente diploma pelo(a) Lei n.º 69/2019
+    - Diário da República n.º 164/2019, Série I de 2019-08-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/69-2019-124256706
+  date: '2019-08-28'
 - type: cites
   target: celex:31989L0298
   label: null
@@ -140,16 +240,46 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/19
   label: null
   source: http://data.europa.eu/eli/dir/19
+- type: corrected_by
+  target: pt:dre:672141:por
+  label: "Rectificado pela DECL-RECT.21/2006.24.03.2006.PCM, DR.IS-A [64] de 30.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/21-2006-672141
+  date: '2006-03-24'
+- type: corrected_by
+  target: pt:dre:227273:por
+  label: "Rectificado o Decreto-Lei n.º 357-A/2007, de 31 de Outubro, que alterou o Código dos Valores Mobiliários, aprovado\
+    \ pelo Decreto-Lei n.º 486/99, de 13 de Novembro, na redacção do presente diploma, e respectiva republicação, (acrescentando\
+    \ o artigo 179.º aos artigos alterados), pela DECL-RECT.117-A/2007.28.12.2007.PCM, DR.IS [250]3ºSupl de 28.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/117-a-2007-227273
+  date: '2007-12-28'
+- type: repealed_by
+  target: pt:dre:667889:por
+  label: "Revogado o Dec Lei 125/90 de 16-Abr, com as alterações constantes do presente diploma, pelo DEC LEI.59/2006.20.03.2006.MFAP,\
+    \ DR.IS-A [56] de 20.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2006-667889
+  date: '2006-03-20'
+- type: repealed_by
+  target: pt:dre:629172:por
+  label: "Revogado o Decreto-Lei n.º 319/2002, de 28 de Dezembro, alterado pelo presente diploma pelo DEC LEI.375/2007.08.11.2007.MFAP,\
+    \ DR.IS [215] de 08.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-2007-629172
+  date: '2007-11-08'
+- type: repealed_by
+  target: pt:dre:475919:por
+  label: "Revogado a partir de 07.09.2013 o Dec Lei 252/2003, de 17-out, na redação do presente diploma, pelo DEC LEI.63-A/2013.10.05.2013.MF,\
+    \ DR.IS [90-Supl] de 10.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-a-2013-475919
+  date: '2013-05-10'
 article_structure:
-  article_count: 161
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 13
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:55Z'
   warnings: []
   errors: []
 ---
@@ -242,7 +372,9 @@ c) ...
 
 3 - No caso de as informações financeiras trimestrais ou semestrais terem sido sujeitas a auditoria ou a revisão limitada, deve ser incluído o relatório de auditoria ou de revisão, caso não o tenham sido, deve ser declarado tal facto.
 
-###### Artigo 30.º — Investidores qualificados
+Artigo 30.º
+
+Investidores qualificados
 
 1 - Sem prejuízo do disposto nos números subsequentes, consideram-se investidores qualificados as seguintes entidades:
 
@@ -278,7 +410,9 @@ iii) Volume de negócios líquido superior a 50 milhões de euros.
 
 3 - A CMVM pode, por regulamento, qualificar como investidores qualificados outras entidades dotadas de uma especial competência e experiência relativas a valores mobiliários, nomeadamente emitentes, definindo os indicadores económico-financeiros que permitem essa qualificação.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - Gozam do direito de acção popular para a protecção de interesses individuais homogéneos ou colectivos dos investidores não qualificados em valores mobiliários:
 
@@ -292,7 +426,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 ...
 
@@ -302,13 +438,17 @@ b) Contem entre os seus associados pelo menos 100 pessoas singulares que não se
 
 c) ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - A CMVM organiza um serviço destinado à mediação voluntária de conflitos entre investidores não qualificados, por uma parte, e intermediários financeiros, consultores autónomos, entidades gestoras de mercados de valores mobiliários ou emitentes, por outra.
 
 2 - ...
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -318,7 +458,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - ...
 
@@ -326,13 +468,17 @@ c) ...
 
 3 - Se os valores mobiliários tiverem sido emitidos por entidade que tenha como lei pessoal uma lei estrangeira, o registo é efectuado, no que respeita às menções equivalentes às referidas nas alíneas a) e b) do n.º 1 do artigo 44.º, com base em declaração do requerente, acompanhada do parecer jurídico previsto no n.º 1 do artigo 231.º, quando exigido nos termos deste artigo.
 
-###### Artigo 108.º — [...]
+Artigo 108.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos n.os 2 e 3 do artigo 145.º, as disposições deste título e os regulamentos que as complementam aplicam-se às ofertas públicas dirigidas especificamente a pessoas com residência ou estabelecimento em Portugal, seja qual for a lei pessoal do oferente ou do emitente e o direito aplicável aos valores mobiliários que são objecto da oferta.
 
 2 - ...
 
-###### Artigo 109.º — [...]
+Artigo 109.º
+
+[...]
 
 1 - ...
 
@@ -346,7 +492,9 @@ b) ...
 
 c) A oferta dirigida a, pelo menos, 100 pessoas que sejam investidores não qualificados com residência ou estabelecimento em Portugal.
 
-###### Artigo 110.º — [...]
+Artigo 110.º
+
+[...]
 
 1 - ...
 
@@ -356,7 +504,9 @@ b) ...
 
 2 - ...
 
-###### Artigo 111.º — [...]
+Artigo 111.º
+
+[...]
 
 1 - [Anterior proémio do artigo.]
 
@@ -400,7 +550,9 @@ l) As ofertas públicas de subscrição de acções emitidas em substituição d
 
 4 - As ofertas referidas nas alíneas e), i) e l) do n.º 1 ficam sujeitas a comunicação subsequente à CMVM para efeitos estatísticos.
 
-###### Artigo 112.º — [...]
+Artigo 112.º
+
+[...]
 
 1 - ...
 
@@ -410,7 +562,9 @@ l) As ofertas públicas de subscrição de acções emitidas em substituição d
 
 4 - Quando deva ser publicado um prospecto, as informações a que se refere o número anterior devem ser incluídas nesse prospecto ou numa adenda ao prospecto.
 
-###### Artigo 113.º — Intermediação obrigatória
+Artigo 113.º
+
+Intermediação obrigatória
 
 1 - As ofertas públicas relativas a valores mobiliários em que seja exigível prospecto devem ser realizadas com intervenção de intermediário financeiro, que presta pelo menos os seguintes serviços:
 
@@ -420,15 +574,21 @@ b) ...
 
 2 - ...
 
-#### SECÇÃO II — Aprovação de prospecto, registo e publicidade
+SECÇÃO II
 
-###### Artigo 114.º — Aprovação de prospecto e registo prévio
+Aprovação de prospecto, registo e publicidade
+
+Artigo 114.º
+
+Aprovação de prospecto e registo prévio
 
 1 - Os prospectos de oferta pública de distribuição estão sujeitos a aprovação pela CMVM.
 
 2 - [Anterior corpo do artigo.]
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 1 - O pedido de registo ou de aprovação de prospecto é instruído com os seguintes documentos:
 
@@ -466,11 +626,15 @@ p) Relatórios periciais, quando exigíveis.
 
 3 - A CMVM pode solicitar ao oferente, ao emitente ou a qualquer pessoa que com estes se encontre em alguma das situações previstas no n.º 1 do artigo 20.º as informações complementares que sejam necessárias para a apreciação da oferta.
 
-###### Artigo 117.º — Legalidade da oferta
+Artigo 117.º
+
+Legalidade da oferta
 
 O oferente assegura que a oferta cumpre as normas legais e regulamentares aplicáveis, nomeadamente as relativas à licitude do seu objecto, à transmissibilidade dos valores mobiliários e, quando for o caso, à sua emissão.
 
-###### Artigo 118.º — [...]
+Artigo 118.º
+
+[...]
 
 1 - A aprovação do prospecto, o registo ou a sua recusa devem ser comunicados ao oferente:
 
@@ -492,7 +656,9 @@ b) No prazo de 10 dias úteis, em ofertas públicas de distribuição, salvo se 
 
 8 - As decisões da CMVM de aprovação de prospecto e de concessão de registo de oferta pública de aquisição são divulgadas através do seu sistema de difusão de informação.
 
-###### Artigo 119.º — Recusa de aprovação de prospecto e de registo
+Artigo 119.º
+
+Recusa de aprovação de prospecto e de registo
 
 1 - ...
 
@@ -500,7 +666,9 @@ b) No prazo de 10 dias úteis, em ofertas públicas de distribuição, salvo se 
 
 3 - [Anterior n.º 2.]
 
-###### Artigo 121.º — [...]
+Artigo 121.º
+
+[...]
 
 1 - ...
 
@@ -514,15 +682,21 @@ c) ...
 
 3 - ...
 
-###### Artigo 122.º — [...]
+Artigo 122.º
+
+[...]
 
 Quando a CMVM, após exame preliminar do pedido, considere que a aprovação do prospecto ou o registo da oferta é viável, pode autorizar publicidade anterior à aprovação do prospecto ou à concessão do registo, desde que daí não resulte perturbação para os destinatários ou para o mercado.
 
-###### Artigo 125.º — [...]
+Artigo 125.º
+
+[...]
 
 O prazo de vigência da oferta deve ser fixado em conformidade com as suas características, com a defesa dos interesses dos destinatários e do emitente e com as exigências de funcionamento do mercado.
 
-###### Artigo 127.º — [...]
+Artigo 127.º
+
+[...]
 
 1 - ...
 
@@ -532,7 +706,9 @@ b) Em sessão especial de mercado regulamentado.
 
 2 - Em caso de oferta pública de distribuição, paralelamente à divulgação do resultado, o intermediário financeiro ou a entidade gestora do mercado regulamentado devem informar se foi requerida a admissão à negociação dos valores mobiliários que dela são objecto.
 
-###### Artigo 129.º — [...]
+Artigo 129.º
+
+[...]
 
 1 - ...
 
@@ -540,19 +716,25 @@ b) Em sessão especial de mercado regulamentado.
 
 3 - A modificação deve ser divulgada imediatamente, através de meios iguais aos utilizados para a divulgação do prospecto ou, no caso de este não ser exigível, de meio de divulgação fixado pela CMVM, através de regulamento.
 
-###### Artigo 130.º — [...]
+Artigo 130.º
+
+[...]
 
 1 - ...
 
 2 - A revogação deve ser divulgada imediatamente, através de meios iguais aos utilizados para a divulgação do prospecto ou, no caso de este não ser exigível, de meio de divulgação fixado pela CMVM, através de regulamento.
 
-###### Artigo 131.º — Retirada e proibição da oferta
+Artigo 131.º
+
+Retirada e proibição da oferta
 
 1 - A CMVM deve, consoante o caso, ordenar a retirada da oferta ou proibir o seu lançamento, se verificar que esta enferma de alguma ilegalidade ou violação de regulamento insanáveis.
 
 2 - As decisões de retirada e de proibição são publicadas, a expensas do oferente, através de meios iguais aos utilizados para a divulgação do prospecto ou, no caso de este não ser exigível, de meio de divulgação fixado pela CMVM, através de regulamento.
 
-###### Artigo 133.º — [...]
+Artigo 133.º
+
+[...]
 
 1 - ...
 
@@ -564,11 +746,17 @@ b) Em sessão especial de mercado regulamentado.
 
 5 - ...
 
-#### SECÇÃO V — [...]
+SECÇÃO V
 
-##### SUBSECÇÃO I — Exigibilidade, formato e conteúdo
+[...]
 
-###### Artigo 134.º — [...]
+SUBSECÇÃO I
+
+Exigibilidade, formato e conteúdo
+
+Artigo 134.º
+
+[...]
 
 1 - ...
 
@@ -592,7 +780,9 @@ g) [Revogada.]
 
 4 - Salvo o disposto no número anterior, em ofertas públicas em que o prospecto não seja exigível, a informação referida no n.º 2 deve ser enviada à CMVM antes do respectivo lançamento ou da ocorrência dos factos nele previstos.
 
-###### Artigo 135.º — [...]
+Artigo 135.º
+
+[...]
 
 1 - O prospecto deve conter informação completa, verdadeira, actual, clara, objectiva e lícita, que permita aos destinatários formar juízos fundados sobre a oferta, os valores mobiliários que dela são objecto e os direitos que lhe são inerentes, sobre as características específicas, a situação patrimonial, económica e financeira e as previsões relativas à evolução da actividade e dos resultados do emitente e de um eventual garante.
 
@@ -604,7 +794,9 @@ b) Obedecer ao disposto no Regulamento (CE) n.º [809/2004](https://data.europa.
 
 c) [Revogada.]
 
-###### Artigo 136.º — Conteúdo comum do prospecto
+Artigo 136.º
+
+Conteúdo comum do prospecto
 
 O prospecto deve, nomeadamente, incluir informações sobre:
 
@@ -622,7 +814,9 @@ f) ...
 
 g) ...
 
-###### Artigo 137.º — [...]
+Artigo 137.º
+
+[...]
 
 1 - O conteúdo do prospecto de oferta pública de distribuição obedece ao disposto no Regulamento (CE) n.º [809/2004](https://data.europa.eu/eli/reg/2004/809/oj?locale=pt), da Comissão, de 29 de Abril.
 
@@ -632,11 +826,15 @@ g) ...
 
 4 - [Revogado.]
 
-###### Artigo 139.º — [...]
+Artigo 139.º
+
+[...]
 
 Sem prejuízo da informação adequada dos investidores, quando, excepcionalmente, determinadas informações exigidas, nomeadamente pelo Regulamento (CE) n.º [809/2004](https://data.europa.eu/eli/reg/2004/809/oj?locale=pt), da Comissão, de 29 de Abril, para serem incluídas no prospecto forem inadequadas à esfera de actividade ou à forma jurídica do emitente ou ainda aos valores mobiliários a que se refere o prospecto, o prospecto deve conter, quando possível, informações equivalentes à informação exigida.
 
-###### Artigo 140.º — [...]
+Artigo 140.º
+
+[...]
 
 1 - O prospecto só pode ser divulgado após aprovação pela CMVM, devendo o respectivo texto e formato a divulgar ser idênticos à versão original aprovada.
 
@@ -672,7 +870,9 @@ e) Sob forma electrónica no sítio da Internet da CMVM.
 
 10 - A divulgação do prospecto obedece ao disposto no Regulamento (CE) n.º [809/2004](https://data.europa.eu/eli/reg/2004/809/oj?locale=pt), da Comissão, de 29 de Abril.
 
-###### Artigo 141.º — [...]
+Artigo 141.º
+
+[...]
 
 A requerimento do emitente ou do oferente, a CMVM pode dispensar a inclusão de informações no prospecto se:
 
@@ -682,7 +882,9 @@ b) A divulgação de tais informações for muito prejudicial para o emitente, d
 
 c) Essas informações forem de importância menor para a oferta e não forem susceptíveis de influenciar a apreciação da posição financeira e das perspectivas do emitente, oferente ou eventual garante.
 
-###### Artigo 142.º — [...]
+Artigo 142.º
+
+[...]
 
 1 - ...
 
@@ -692,7 +894,9 @@ c) Essas informações forem de importância menor para a oferta e não forem su
 
 4 - Os investidores que já tenham transmitido ordens de aceitação da oferta antes de ser publicada a adenda ou a rectificação têm o direito de revogar a sua aceitação durante um prazo não inferior a dois dias úteis após a colocação à disposição do público da adenda ou da rectificação.
 
-###### Artigo 143.º — Validade do prospecto
+Artigo 143.º
+
+Validade do prospecto
 
 1 - O prospecto de oferta pública de distribuição e o prospecto base são válidos por um prazo de 12 meses a contar da data da sua colocação à disposição do público, devendo ser completados por eventuais adendas exigidas nos termos do artigo 142.º
 
@@ -700,7 +904,9 @@ c) Essas informações forem de importância menor para a oferta e não forem su
 
 3 - O documento de registo é válido por um prazo de 12 meses a contar da data de aprovação das contas anuais em que o mesmo se baseie.
 
-###### Artigo 145.º — [...]
+Artigo 145.º
+
+[...]
 
 1 - A CMVM é competente para a aprovação de prospectos de ofertas públicas de distribuição, cujos emitentes tenham sede estatutária em Portugal, relativamente a emissões de acções, de valores mobiliários que dêem direito à sua aquisição, desde que o emitente dos valores mobiliários seja o emitente dos valores mobiliários subjacentes ou uma entidade pertencente ao grupo deste último emitente, e de outros valores mobiliários com valor nominal inferior a (euro) 1000.
 
@@ -716,7 +922,9 @@ b) De valores mobiliários não representativos de capital social que dêem dire
 
 5 - A delegação de competência prevista no número anterior deve ser notificada ao emitente ou ao oferente no prazo de três dias úteis a contar da data da decisão pela CMVM.
 
-###### Artigo 146.º — Âmbito comunitário do prospecto
+Artigo 146.º
+
+Âmbito comunitário do prospecto
 
 1 - O prospecto aprovado por autoridade competente de Estado membro da União Europeia relativo a uma oferta pública de distribuição a realizar em Portugal e noutro Estado membro é eficaz em Portugal, desde que a CMVM receba da autoridade competente:
 
@@ -732,7 +940,9 @@ b) Uma cópia do referido prospecto e, quando aplicável, uma tradução do resp
 
 5 - O disposto nos números anteriores aplica-se igualmente às adendas e às rectificações ao prospecto.
 
-###### Artigo 147.º — Emitentes não comunitários
+Artigo 147.º
+
+Emitentes não comunitários
 
 1 - A CMVM pode aprovar um prospecto relativo a oferta pública de distribuição de valores mobiliários de emitente que tenha sede estatutária num Estado não membro da União Europeia elaborado em conformidade com a legislação de um Estado não membro da União Europeia desde que:
 
@@ -742,11 +952,15 @@ b) O prospecto contenha informação, nomeadamente de natureza financeira, equiv
 
 2 - Aos prospectos a que se refere o presente artigo aplica-se também o artigo 146.º
 
-###### Artigo 148.º — [...]
+Artigo 148.º
+
+[...]
 
 A CMVM deve estabelecer formas de cooperação com as autoridades competentes estrangeiras quanto à troca de informações necessárias à supervisão de ofertas realizadas em Portugal e no estrangeiro, em especial, quando um emitente com sede noutro Estado membro tiver mais de uma autoridade competente de origem devido às suas diversas categorias de valores mobiliários, ou quando a aprovação do prospecto tiver sido delegada na autoridade competente de outro Estado membro.
 
-###### Artigo 149.º — [...]
+Artigo 149.º
+
+[...]
 
 1 - ...
 
@@ -756,7 +970,9 @@ A CMVM deve estabelecer formas de cooperação com as autoridades competentes es
 
 4 - A responsabilidade é ainda excluída se os danos previstos no n.º 1 resultarem apenas do sumário de prospecto, ou de qualquer das suas traduções, salvo se o mesmo contiver menções enganosas, inexactas ou incoerentes quando lido em conjunto com os outros documentos que compõem o prospecto.
 
-###### Artigo 155.º — [...]
+Artigo 155.º
+
+[...]
 
 ...
 
@@ -782,7 +998,9 @@ j) [Anterior alínea l).]
 
 l) Conteúdo e modo de divulgação da informação referida no n.º 2 do artigo 134.º
 
-###### Artigo 159.º — Omissão de informação
+Artigo 159.º
+
+Omissão de informação
 
 1 - Sempre que o preço definitivo da oferta e o número de valores mobiliários que são oferecidos ao público não possam ser incluídos, o prospecto pode omitir essa informação se:
 
@@ -792,7 +1010,9 @@ b) A aceitação da aquisição ou subscrição de valores mobiliários possa se
 
 2 - Logo que sejam apurados, o preço definitivo da oferta e o número dos valores mobiliários devem ser comunicados à CMVM e divulgados nos termos do artigo 140.º
 
-###### Artigo 162.º — [...]
+Artigo 162.º
+
+[...]
 
 1 - ...
 
@@ -804,13 +1024,17 @@ b) Assegurar que a informação prestada é coerente com a contida no prospecto;
 
 c) [Anterior alínea b).]
 
-###### Artigo 163.º-A — [...]
+Artigo 163.º-A
+
+[...]
 
 1 - ...
 
 2 - Nos casos previstos nas alíneas b) e c) do número anterior, a CMVM pode exigir que o sumário seja divulgado também em português.
 
-###### Artigo 165.º — Prospecto preliminar
+Artigo 165.º
+
+Prospecto preliminar
 
 1 - O prospecto preliminar de recolha de intenções de investimento deve ser aprovado pela CMVM.
 
@@ -818,7 +1042,9 @@ c) [Anterior alínea b).]
 
 3 - O prospecto preliminar obedece ao Regulamento (CE) n.º [809/2004](https://data.europa.eu/eli/reg/2004/809/oj?locale=pt), da Comissão, de 29 de Abril, com as necessárias adaptações.
 
-###### Artigo 168.º — [...]
+Artigo 168.º
+
+[...]
 
 Além dos documentos exigidos nas alíneas j) a n) do n.º 1 do artigo 115.º, o pedido de aprovação de prospecto de oferta pública de subscrição para constituição de sociedade deve ser instruído com os seguintes elementos:
 
@@ -830,11 +1056,15 @@ c) ...
 
 d) ...
 
-###### Artigo 170.º — [...]
+Artigo 170.º
+
+[...]
 
 O pedido de aprovação de prospecto de oferta pública de venda é instruído com certificado comprovativo do bloqueio dos valores mobiliários oferecidos.
 
-###### Artigo 180.º — [...]
+Artigo 180.º
+
+[...]
 
 1 - ...
 
@@ -846,7 +1076,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 199.º — [...]
+Artigo 199.º
+
+[...]
 
 1 - ...
 
@@ -856,7 +1088,9 @@ b) Mercados organizados de acordo com regras livremente estabelecidas pela respe
 
 2 - ...
 
-###### Artigo 200.º — [...]
+Artigo 200.º
+
+[...]
 
 1 - ...
 
@@ -868,7 +1102,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 203.º — [...]
+Artigo 203.º
+
+[...]
 
 1 - ...
 
@@ -888,7 +1124,9 @@ b) ...
 
 7 - ...
 
-###### Artigo 206.º — [...]
+Artigo 206.º
+
+[...]
 
 1 - [Anterior proémio do artigo.]
 
@@ -900,13 +1138,17 @@ c) Quando a situação do emitente implique que a negociação seja prejudicial 
 
 2 - Cada período de suspensão de valores mobiliários da negociação não pode ser superior a 10 dias úteis.
 
-###### Artigo 208.º — [...]
+Artigo 208.º
+
+[...]
 
 1 - [Anterior corpo do artigo.]
 
 2 - Nos casos de suspensão ou exclusão dos valores mobiliários ordenada simultaneamente em Portugal e noutros Estados membros, a CMVM coopera estreitamente com as autoridades competentes desses Estados membros, a fim de assegurar uma igualdade de condições entre os diferentes locais de negociação e a protecção dos investidores.
 
-###### Artigo 212.º — [...]
+Artigo 212.º
+
+[...]
 
 1 - ...
 
@@ -924,11 +1166,17 @@ e) Publicações obrigatórias no boletim do mercado regulamentado.
 
 3 - ...
 
-### CAPÍTULO II — Mercados regulamentados
+CAPÍTULO II
 
-#### SECÇÃO I — Mercados regulamentados em geral
+Mercados regulamentados
 
-###### Artigo 214.º — Estrutura
+SECÇÃO I
+
+Mercados regulamentados em geral
+
+Artigo 214.º
+
+Estrutura
 
 1 - Em cada mercado regulamentado podem ser criados os segmentos que se revelem necessários, tendo em conta nomeadamente as características das operações, dos valores mobiliários negociados, das entidades que os emitem, do sistema de negociação, e as quantidades a transaccionar.
 
@@ -950,7 +1198,9 @@ b) [Anterior n.º 5, alínea b).]
 
 c) Valores mobiliários destinados apenas a investidores qualificados.
 
-###### Artigo 215.º — Acordos entre entidades gestoras de mercados regulamentados
+Artigo 215.º
+
+Acordos entre entidades gestoras de mercados regulamentados
 
 1 - As entidades gestoras de mercados regulamentados situados ou a funcionar em Portugal devem acordar, entre si, sistemas de conexão informativa ou operativa exigidos pelo bom funcionamento dos mercados por elas geridos e pelos interesses dos investidores.
 
@@ -962,7 +1212,9 @@ b) Que os membros de cada um dos mercados regulamentados possam intervir no outr
 
 3 - Os acordos a que se referem os números anteriores são registados na CMVM, devendo o registo ser recusado, no caso do n.º 2, se o mercado regulamentado situado ou a funcionar em Estado estrangeiro não impuser níveis de exigência similares aos do mercado regulamentado situado ou a funcionar em Portugal quanto à admissão dos valores mobiliários à negociação, à informação a prestar ao público e a outros requisitos de protecção dos investidores.
 
-###### Artigo 216.º — Admissão dos membros de mercado regulamentado
+Artigo 216.º
+
+Admissão dos membros de mercado regulamentado
 
 1 - A admissão como membro dos mercados regulamentados e a manutenção dessa qualidade dependem, além dos requisitos definidos no artigo 203.º, da observância das condições fixadas pela entidade gestora do mercado regulamentado, quanto à sua organização, aos meios materiais exigíveis e à idoneidade e aptidão profissional das pessoas que actuem em seu nome.
 
@@ -972,13 +1224,17 @@ b) Que os membros de cada um dos mercados regulamentados possam intervir no outr
 
 4 - Os membros de um mercado regulamentado de outro Estado membro da Comunidade Europeia podem tornar-se membros dos mercados regulamentados situados ou a funcionar em Portugal ou a eles ter acesso, directa ou indirectamente, bem como ter acesso aos sistemas de liquidação acessíveis aos seus membros.
 
-###### Artigo 217.º — Funções dos membros do mercado regulamentado
+Artigo 217.º
+
+Funções dos membros do mercado regulamentado
 
 1 - Os membros dos mercados regulamentados que apenas exerçam funções de negociação só podem ser admitidos após terem celebrado contrato com um ou mais membros que assegurem a liquidação das operações por eles negociadas.
 
 2 - Só podem ser membros liquidadores os participantes em sistema de liquidação utilizado pelo mercado regulamentado que estejam autorizados a realizar operações por conta própria.
 
-###### Artigo 218.º — Deveres dos membros do mercado regulamentado
+Artigo 218.º
+
+Deveres dos membros do mercado regulamentado
 
 1 - Além da observância dos deveres próprios da actividade de intermediação que exercem, os membros dos mercados regulamentados devem:
 
@@ -988,7 +1244,9 @@ b) Prestar à entidade gestora do mercado regulamentado as informações necess�
 
 2 - Cada um dos membros do mercado regulamentado designa um titular do seu órgão de administração, ou um representante com poderes bastantes, como interlocutor directo perante a entidade gestora do mercado regulamentado e a CMVM.
 
-###### Artigo 219.º — Sessões de mercado regulamentado
+Artigo 219.º
+
+Sessões de mercado regulamentado
 
 1 - Os mercados regulamentados funcionam em sessões públicas, que podem ser normais ou especiais.
 
@@ -998,9 +1256,13 @@ b) Prestar à entidade gestora do mercado regulamentado as informações necess�
 
 4 - As sessões especiais decorrem de acordo com as regras fixadas pela entidade gestora do mercado regulamentado, podendo as operações ter por objecto valores mobiliários admitidos ou não à negociação em sessões normais.
 
-#### SECÇÃO II — Operações de mercado regulamentado
+SECÇÃO II
 
-###### Artigo 220.º — [...]
+Operações de mercado regulamentado
+
+Artigo 220.º
+
+[...]
 
 1 - As operações de mercado regulamentado realizam-se através de sistemas de negociação geridos pela entidade gestora do mercado regulamentado.
 
@@ -1008,13 +1270,17 @@ b) Prestar à entidade gestora do mercado regulamentado as informações necess�
 
 3 - Os negócios sobre valores mobiliários admitidos à negociação celebrados directamente entre os interessados que sejam registados no mercado regulamentado através de um dos seus membros podem ser equiparados a operações de mercado regulamentado, nos termos das regras aprovadas pela entidade gestora do mercado regulamentado.
 
-###### Artigo 221.º — [...]
+Artigo 221.º
+
+[...]
 
 1 - Para boa execução das ordens de mercado regulamentado por eles aceites, os membros do mercado regulamentado introduzem ofertas no sistema de negociação, segundo a modalidade mais adequada e no tempo mais oportuno.
 
 2 - ...
 
-###### Artigo 222.º — [...]
+Artigo 222.º
+
+[...]
 
 1 - A entidade gestora do mercado regulamentado deve colocar à disposição do público as seguintes informações relativas às operações efectuadas em cada sessão:
 
@@ -1030,7 +1296,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 223.º — Publicações da entidade gestora do mercado regulamentado
+Artigo 223.º
+
+Publicações da entidade gestora do mercado regulamentado
 
 A entidade gestora do mercado regulamentado publica:
 
@@ -1040,17 +1308,25 @@ b) ...
 
 c) O texto anualmente actualizado das regras por que se regem a entidade gestora do mercado regulamentado, os mercados por si geridos e as operações nestes realizadas.
 
-###### Artigo 225.º — [...]
+Artigo 225.º
+
+[...]
 
 1 - Sempre que na lei ou em contrato se refira a cotação numa certa data, considera-se como tal o preço de referência do mercado regulamentado a contado.
 
 2 - Se os valores mobiliários estiverem admitidos à negociação em mais de um mercado regulamentado, é tido em conta, para os efeitos do número anterior, o preço efectuado no mercado regulamentado situado ou a funcionar em Portugal que em regulamento da CMVM seja considerado mais representativo.
 
-#### SECÇÃO IV — Admissão à negociação em mercado regulamentado a contado
+SECÇÃO IV
 
-##### SUBSECÇÃO I — [...]
+Admissão à negociação em mercado regulamentado a contado
 
-###### Artigo 227.º — [...]
+SUBSECÇÃO I
+
+[...]
+
+Artigo 227.º
+
+[...]
 
 1 - ...
 
@@ -1064,7 +1340,9 @@ c) O texto anualmente actualizado das regras por que se regem a entidade gestora
 
 6 - [Revogado.]
 
-###### Artigo 229.º — [...]
+Artigo 229.º
+
+[...]
 
 1 - ...
 
@@ -1078,7 +1356,9 @@ c) O texto anualmente actualizado das regras por que se regem a entidade gestora
 
 6 - ...
 
-###### Artigo 231.º — [...]
+Artigo 231.º
+
+[...]
 
 1 - Salvo nos casos em que os valores mobiliários estejam admitidos à negociação em mercado regulamentado situado ou a funcionar em Estado membro da União Europeia, a CMVM pode exigir ao emitente a apresentação de parecer jurídico que ateste os requisitos do n.º 1 e da alínea a) do n.º 2 do artigo 227.º
 
@@ -1086,7 +1366,9 @@ c) O texto anualmente actualizado das regras por que se regem a entidade gestora
 
 3 - Quando o direito do Estado a que estão sujeitos os valores mobiliários a admitir não permita a sua admissão directa em mercado situado ou a funcionar fora desse Estado, ou a admissão desses valores mobiliários se mostre de difícil execução operacional, podem ser admitidos à negociação em mercado regulamentado situado ou a funcionar em Portugal certificados representativos de registo ou de depósito desses valores mobiliários.
 
-###### Artigo 233.º — [...]
+Artigo 233.º
+
+[...]
 
 1 - O pedido de admissão à negociação, instruído com os elementos necessários para a prova dos requisitos exigidos, é apresentado à entidade gestora do mercado regulamentado em cujo mercado os valores mobiliários serão negociados:
 
@@ -1100,7 +1382,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 234.º — [...]
+Artigo 234.º
+
+[...]
 
 1 - ...
 
@@ -1108,7 +1392,9 @@ c) ...
 
 3 - A entidade gestora do mercado regulamentado divulga a sua decisão de admissão e comunica-a à CMVM, identificando os valores mobiliários admitidos, descrevendo as suas características e o modo de acesso ao prospecto.
 
-###### Artigo 236.º — [...]
+Artigo 236.º
+
+[...]
 
 1 - Previamente à admissão de valores mobiliários à negociação, o requerente deve divulgar, nos termos do artigo 140.º, um prospecto aprovado:
 
@@ -1146,7 +1432,9 @@ vii) O conteúdo do sumário cumpra o disposto no artigo 135.º-A e que, bem ass
 
 3 - Nos casos das alíneas a), b), i) e j) do artigo 111.º, o requerente de pedido de admissão tem o direito de elaborar um prospecto, ficando este sujeito às regras do presente Código e dos diplomas que o complementem.
 
-###### Artigo 237.º-A — Idioma
+Artigo 237.º-A
+
+Idioma
 
 1 - ...
 
@@ -1162,13 +1450,17 @@ d) Se se destinar a mercado ou segmento de mercado que, pelas suas característi
 
 3 - ...
 
-###### Artigo 238.º — Regime do prospecto de admissão
+Artigo 238.º
+
+Regime do prospecto de admissão
 
 1 - Ao prospecto de admissão de valores mobiliários em mercado regulamentado são aplicáveis, com as necessárias adaptações, o artigo 110.º-A, os n.os 1 a 4 do artigo 118.º, o n.º 3 do artigo 134.º, os artigos 135.º, 135.º-A, 135.º-B, 135.º-C, as alíneas a), c), e), f) e g) do artigo 136.º e os artigos 136.º-A, 137.º, 139.º, 140.º, 141.º, 142.º, 145.º, 146.º e 147.º
 
 2 - Em prospecto de admissão à negociação em mercado regulamentado de valores mobiliários não representativos de capital social com um valor nominal de, pelo menos, (euro) 50000 não é obrigatório apresentar um sumário.
 
-###### Artigo 244.º — [...]
+Artigo 244.º
+
+[...]
 
 1 - Os emitentes de valores mobiliários admitidos à negociação em mercado regulamentado enviam à CMVM e à entidade gestora de mercado regulamentado os documentos e as informações a que se referem os artigos seguintes, até ao momento da sua publicação, se outro prazo não estiver especialmente previsto.
 
@@ -1182,7 +1474,9 @@ d) Se se destinar a mercado ou segmento de mercado que, pelas suas característi
 
 6 - A informação referida no número anterior deve ser autonomamente acessível em relação a informação não obrigatória, designadamente de natureza publicitária.
 
-###### Artigo 245.º — [...]
+Artigo 245.º
+
+[...]
 
 1 - Os emitentes de valores mobiliários admitidos à negociação em mercado regulamentado publicam, logo que possível, e o mais tardar até 30 dias após a sua aprovação:
 
@@ -1198,7 +1492,9 @@ b) ...
 
 5 - Os documentos que integram o relatório e as contas anuais são enviados à CMVM e à entidade gestora de mercado regulamentado logo que sejam colocados à disposição dos accionistas.
 
-###### Artigo 246.º — [...]
+Artigo 246.º
+
+[...]
 
 1 - ...
 
@@ -1212,7 +1508,9 @@ c) [Revogada.]
 
 3 - ...
 
-###### Artigo 247.º — [...]
+Artigo 247.º
+
+[...]
 
 ...
 
@@ -1234,7 +1532,9 @@ h) Os termos e condições em que é comunicada e tornada acessível a informaç
 
 i) A informação que deve ser tornada acessível através do sítio do emitente na Internet, previsto nos n.os 5 e 6 do artigo 244.º
 
-###### Artigo 248.º — Informação privilegiada relativa a emitentes
+Artigo 248.º
+
+Informação privilegiada relativa a emitentes
 
 1 - Os emitentes que tenham valores mobiliários admitidos à negociação em mercado regulamentado ou requerido a respectiva admissão a um mercado dessa natureza divulgam imediatamente:
 
@@ -1254,7 +1554,9 @@ b) Qualquer alteração à informação tornada pública nos termos da alínea a
 
 7 - A lista prevista no número anterior contém a identidade das pessoas, os motivos pelos quais constam da lista, a data da mesma e qualquer actualização relevante, sendo conservada em arquivo pelos emitentes pelo prazo de cinco anos desde a última actualização e imediatamente remetida à CMVM, sempre que esta o solicitar.
 
-###### Artigo 249.º — [...]
+Artigo 249.º
+
+[...]
 
 1 - Os emitentes de valores mobiliários admitidos à negociação enviam à CMVM e à entidade gestora do mercado regulamentado:
 
@@ -1266,7 +1568,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 250.º — Dispensa de divulgação da informação
+Artigo 250.º
+
+Dispensa de divulgação da informação
 
 1 - A divulgação da informação exigida nos artigos anteriores pode ser dispensada pela CMVM quando seja contrária ao interesse público e possa causar prejuízo grave para o emitente, desde que a ausência de publicação não induza o público em erro sobre factos e circunstâncias essenciais para a avaliação dos valores mobiliários.
 
@@ -1274,11 +1578,15 @@ b) ...
 
 3 - ...
 
-###### Artigo 252.º — [...]
+Artigo 252.º
+
+[...]
 
 Além de outras que sejam previstas em regulamento da CMVM, é permitida a realização em mercado regulamentado das seguintes operações a prazo: futuros, opções, reportes e empréstimos.
 
-###### Artigo 255.º — [...]
+Artigo 255.º
+
+[...]
 
 Nos reportes realizados em mercado regulamentado é permitido:
 
@@ -1288,7 +1596,9 @@ b) ...
 
 c) ...
 
-###### Artigo 256.º — [...]
+Artigo 256.º
+
+[...]
 
 Podem ser realizados em mercado regulamentado empréstimos de valores mobiliários, desde que:
 
@@ -1298,7 +1608,9 @@ b) ...
 
 c) A devolução ao mutuante dos valores mobiliários emprestados seja efectuada através do mercado regulamentado.
 
-###### Artigo 265.º — Gestão de operações fora de mercado regulamentado
+Artigo 265.º
+
+Gestão de operações fora de mercado regulamentado
 
 1 - A entidade gestora de mercado regulamentado pode prestar serviços de gestão e de liquidação de operações a prazo, padronizadas ou não, que se realizem fora de mercado regulamentado.
 
@@ -1308,7 +1620,9 @@ c) A devolução ao mutuante dos valores mobiliários emprestados seja efectuada
 
 4 - ...
 
-###### Artigo 273.º — [...]
+Artigo 273.º
+
+[...]
 
 1 - ...
 
@@ -1324,17 +1638,25 @@ d) ...
 
 3 - ...
 
-### CAPÍTULO II — [...]
+CAPÍTULO II
 
-#### SECÇÃO II — Liquidação de operações de mercado regulamentado
+[...]
 
-###### Artigo 278.º — [...]
+SECÇÃO II
+
+Liquidação de operações de mercado regulamentado
+
+Artigo 278.º
+
+[...]
 
 1 - A liquidação das operações de mercado regulamentado deve ser organizada de acordo com princípios de eficiência, de redução do risco sistémico e de simultaneidade dos créditos em valores mobiliários e em dinheiro.
 
 2 - As operações de mercado regulamentado a contado são liquidadas diariamente, no mais curto prazo possível após a sua realização.
 
-###### Artigo 281.º — [...]
+Artigo 281.º
+
+[...]
 
 1 - Os sistemas utilizados na liquidação de operações de mercado regulamentado devem estabelecer as ligações necessárias à boa liquidação das operações, constituindo uma rede de conexões, nomeadamente com:
 
@@ -1348,13 +1670,17 @@ d) ...
 
 2 - ...
 
-###### Artigo 287.º — [...]
+Artigo 287.º
+
+[...]
 
 1 - Os sistemas utilizados na liquidação de operações de mercado regulamentado só podem ser geridos por sociedade que preencha os requisitos fixados em lei especial.
 
 2 - ...
 
-###### Artigo 304.º — [...]
+Artigo 304.º
+
+[...]
 
 1 - ...
 
@@ -1366,7 +1692,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 311.º — [...]
+Artigo 311.º
+
+[...]
 
 1 - ...
 
@@ -1394,7 +1722,9 @@ e) A execução de ordens ou a realização de transacções antecedidas ou segu
 
 f) A execução de ordens ou a realização de transacções antecedidas ou seguidas da elaboração ou divulgação de estudos ou recomendações de investimento contendo informação falsa, incompleta, exagerada, tendenciosa, enganosa ou manifestamente influenciada por um interesse significativo, quando os comitentes, os beneficiários económicos das transacções ou pessoas com eles relacionadas tenham participado na elaboração ou divulgação de tais estudos ou recomendações.
 
-###### Artigo 317.º — [...]
+Artigo 317.º
+
+[...]
 
 1 - ...
 
@@ -1402,7 +1732,9 @@ f) A execução de ordens ou a realização de transacções antecedidas ou segu
 
 3 - Se os factos referidos no n.º 1 constituírem informação privilegiada nos termos do artigo 248.º, a CMVM e o Banco de Portugal coordenam as respectivas acções, tendo em vista uma adequada conjugação dos objectivos de supervisão prosseguidos por cada uma dessas autoridades.
 
-###### Artigo 319.º — [...]
+Artigo 319.º
+
+[...]
 
 ...
 
@@ -1418,7 +1750,9 @@ e) Informações a prestar sobre os serviços que envolvam riscos não aparentes
 
 f) ...
 
-###### Artigo 321.º — Contratos com investidores não qualificados
+Artigo 321.º
+
+Contratos com investidores não qualificados
 
 1 - Nos contratos sujeitos a forma escrita que sejam celebrados com investidores não qualificados, só estes podem invocar a nulidade resultante da inobservância de forma.
 
@@ -1426,7 +1760,9 @@ f) ...
 
 3 - Nos contratos de intermediação celebrados com investidores não qualificados residentes em Portugal, para a execução de operações em Portugal, a aplicação do direito competente não pode ter como consequência privar o investidor da protecção assegurada pelas disposições do presente capítulo e da secção III do capítulo I sobre informação, conflito de interesses e segregação patrimonial.
 
-###### Artigo 322.º — [...]
+Artigo 322.º
+
+[...]
 
 1 - As ordens para execução de operações e os contratos de gestão de carteira cuja emissão ou conclusão por um investidor não qualificado tenha tido lugar fora do estabelecimento do intermediário financeiro, sem anterior relação de clientela e sem solicitação do investidor, só produzem efeito três dias úteis após a declaração negocial do investidor.
 
@@ -1438,23 +1774,29 @@ f) ...
 
 5 - O consultor autónomo não pode efectuar quaisquer contactos com investidores não qualificados que por estes não tenham sido solicitados.
 
-###### Artigo 346.º — [...]
+Artigo 346.º
+
+[...]
 
 1 - ...
 
 2 - A autorização ou a confirmação referida no número anterior não é exigida quando a outra parte seja um investidor qualificado ou as operações devam ser executadas em mercado regulamentado, através de sistemas centralizados de negociação.
 
-###### Artigo 349.º — [...]
+Artigo 349.º
+
+[...]
 
 As operações susceptíveis de provocar efeitos estabilizadores nos preços de uma determinada categoria de valores mobiliários apenas são permitidas quando realizadas nas condições estabelecidas no Regulamento (CE) n.º [2273/2003](https://data.europa.eu/eli/reg/2003/2273/oj?locale=pt), da Comissão, de 22 de Dezembro.
 
-###### Artigo 350.º — [...]
+Artigo 350.º
+
+[...]
 
 1 - ...
 
 2 - O empréstimo de valores mobiliários para liquidação de operações de mercado regulamentado não se considera como actividade de intermediação financeira quando efectuado pela entidade gestora de mercado ou de sistema de liquidação ou pela contraparte central por esta acolhida.
 
-###### Artigo 359.º
+Artigo 359.º
 
 1 - ...
 
@@ -1476,7 +1818,9 @@ g) ...
 
 3 - ...
 
-###### Artigo 360.º — [...]
+Artigo 360.º
+
+[...]
 
 1 - ...
 
@@ -1502,7 +1846,9 @@ i) Avaliar e divulgar regularmente, após consulta aos interessados, as prática
 
 3 - Para efeito do disposto na alínea i) do n.º 1, a CMVM deve ter em conta, nomeadamente, os princípios constantes do artigo 358.º, os possíveis efeitos das práticas em causa sobre a liquidez e eficiência do mercado, a sua transparência e adequação à natureza dos mercados e aos processos de negociação adoptados, a interacção entre diferentes mercados, a nível nacional e internacional, e os diversos riscos que podem estar associados às mesmas.
 
-###### Artigo 361.º — [...]
+Artigo 361.º
+
+[...]
 
 1 - ...
 
@@ -1526,7 +1872,9 @@ g) Divulgar publicamente o facto de um emitente não estar a observar os seus de
 
 4 - ...
 
-###### Artigo 364.º — [...]
+Artigo 364.º
+
+[...]
 
 1 - ...
 
@@ -1538,7 +1886,9 @@ c) Executa as diligências necessárias ao cumprimento dos princípios referidos
 
 2 - ...
 
-###### Artigo 366.º — [...]
+Artigo 366.º
+
+[...]
 
 1 - ...
 
@@ -1548,13 +1898,17 @@ c) Executa as diligências necessárias ao cumprimento dos princípios referidos
 
 4 - Verificado o incumprimento da ordem a que se refere a alínea c) do n.º 2, pode a CMVM, sem prejuízo das sanções aplicáveis, substituir-se ao infractor na prática do acto.
 
-###### Artigo 367.º — [...]
+Artigo 367.º
+
+[...]
 
 1 - A CMVM organiza um sistema informático de difusão de informação acessível ao público que pode integrar, entre outros aspectos, elementos constantes dos seus registos, decisões com interesse público e outra informação que lhe seja comunicada ou por si aprovada, designadamente informação privilegiada nos termos do artigo 248.º, participações qualificadas, documentos de prestação de contas e prospectos.
 
 2 - Os prospectos referidos no número anterior devem ser mantidos acessíveis, pelo menos, durante um ano.
 
-###### Artigo 369.º — [...]
+Artigo 369.º
+
+[...]
 
 1 - A CMVM elabora regulamentos sobre as matérias integradas nas suas atribuições e competências.
 
@@ -1566,7 +1920,9 @@ c) Executa as diligências necessárias ao cumprimento dos princípios referidos
 
 5 - [Anterior n.º 4.]
 
-###### Artigo 376.º — [...]
+Artigo 376.º
+
+[...]
 
 1 - ...
 
@@ -1578,7 +1934,9 @@ c) Executa as diligências necessárias ao cumprimento dos princípios referidos
 
 5 - O disposto no presente artigo é aplicável, com as necessárias adaptações, às relações decorrentes da participação da CMVM em organizações internacionais.
 
-###### Artigo 377.º — Cooperação e assistência no quadro da União Europeia
+Artigo 377.º
+
+Cooperação e assistência no quadro da União Europeia
 
 1 - Sem prejuízo da aplicação do disposto no artigo anterior, a CMVM coopera ainda com as instituições congéneres dos Estados membros da União Europeia no quadro das actividades de investigação do abuso de informação, da manipulação de mercado e da violação do dever de defesa do mercado.
 
@@ -1600,7 +1958,9 @@ c) Executa as diligências necessárias ao cumprimento dos princípios referidos
 
 10 - A CMVM estabelece com as entidades congéneres os mecanismos de consulta e de articulação necessários ao cumprimento do disposto na alínea i) do n.º 1 e no n.º 3 do artigo 360.º
 
-###### Artigo 378.º — [...]
+Artigo 378.º
+
+[...]
 
 1 - Quem disponha de informação privilegiada:
 
@@ -1626,7 +1986,9 @@ a transmita a alguém fora do âmbito normal das suas funções ou, com base nes
 
 7 - Se as transacções referidas nos n.os 1 e 2 envolverem a carteira de uma terceira pessoa, singular ou colectiva, que não seja constituída arguida, esta pode ser demandada no processo crime como parte civil, nos termos previstos no Código de Processo Penal, para efeito da apreensão das vantagens do crime ou da reparação de danos.
 
-###### Artigo 379.º — [...]
+Artigo 379.º
+
+[...]
 
 1 - ...
 
@@ -1640,7 +2002,9 @@ a transmita a alguém fora do âmbito normal das suas funções ou, com base nes
 
 6 - O disposto neste artigo não se aplica às operações efectuadas pelo Banco Central Europeu, por um Estado, pelo seu banco central ou por qualquer outro organismo designado pelo Estado, por razões de política monetária, cambial ou de gestão de dívida pública, nem às operações de estabilização de preços, quando sejam efectuadas nas condições legalmente permitidas.
 
-###### Artigo 382.º — [...]
+Artigo 382.º
+
+[...]
 
 1 - ...
 
@@ -1654,7 +2018,9 @@ a transmita a alguém fora do âmbito normal das suas funções ou, com base nes
 
 6 - Não pode ser revelada a identidade de quem subscreve a denúncia ou fornece as informações previstas neste artigo, nem a identificação da entidade para quem essa pessoa trabalha, excepto se a quebra desse regime de segredo for determinada por juiz, nos termos previstos no Código de Processo Penal.
 
-###### Artigo 385.º — [...]
+Artigo 385.º
+
+[...]
 
 1 - Para efeito do disposto nos artigos anteriores, a CMVM pode:
 
@@ -1680,7 +2046,9 @@ d) Solicitar a entidades prestadoras de serviços de telecomunicações, de rede
 
 8 - Nos casos referidos na alínea c) do n.º 1 em que seja invocável um regime de protecção de segredo profissional, deve a autorização prévia ser directamente promovida pelo competente magistrado do Ministério Público junto do juiz de instrução, a qual é ponderada com dispensa de quaisquer outras formalidades, considerando-se concedida se não for proferido despacho de recusa no prazo de quarenta e oito horas.
 
-###### Artigo 388.º — [...]
+Artigo 388.º
+
+[...]
 
 1 - ...
 
@@ -1696,7 +2064,9 @@ b) ...
 
 5 - Sempre que uma lei ou um regulamento da CMVM alterar as condições ou termos de cumprimento de um dever constante de lei ou regulamento anterior, aplica-se a lei antiga aos factos ocorridos no âmbito da sua vigência e a lei nova aos factos posteriores, salvo se perante a identidade do facto houver lugar à aplicação do regime concretamente mais favorável.
 
-###### Artigo 389.º — [...]
+Artigo 389.º
+
+[...]
 
 1 - Constitui contra-ordenação muito grave a comunicação ou divulgação, por qualquer pessoa ou entidade e através de qualquer meio, de informação que não seja completa, verdadeira, actual, clara, objectiva e lícita.
 
@@ -1718,7 +2088,9 @@ e) A violação dos regimes da informação que contenha recomendações de inve
 
 5 - ...
 
-###### Artigo 393.º — [...]
+Artigo 393.º
+
+[...]
 
 1 - ...
 
@@ -1778,7 +2150,9 @@ g) A violação do dever de envio à CMVM do documento de consolidação da info
 
 5 - ...
 
-###### Artigo 394.º — [...]
+Artigo 394.º
+
+[...]
 
 1 - ...
 
@@ -1822,7 +2196,9 @@ a) ...
 
 b) De interlocutor perante a entidade gestora desse mercado e a CMVM, por membro do mercado regulamentado.
 
-###### Artigo 397.º — [...]
+Artigo 397.º
+
+[...]
 
 1 - ...
 
@@ -1842,7 +2218,9 @@ d) De recusar ordens;
 
 e) ...
 
-###### Artigo 400.º — [...]
+Artigo 400.º
+
+[...]
 
 ...
 
@@ -1852,13 +2230,17 @@ b) ...
 
 c) Contra-ordenação muito grave, quando se trate de violação do dever de segredo sobre a actividade de supervisão da CMVM.
 
-###### Artigo 408.º — [...]
+Artigo 408.º
+
+[...]
 
 1 - ...
 
 2 - A CMVM pode solicitar a entrega ou proceder à apreensão, congelamento ou inspecção de quaisquer documentos, valores ou objectos relacionados com a prática de factos ilícitos, independentemente da natureza do seu suporte, proceder à selagem de objectos não apreendidos nas instalações das pessoas ou entidades sujeitas à sua supervisão na medida em que os mesmos se revelem necessários às averiguações ou à instrução de processos da sua competência.
 
-###### Artigo 412.º — [...]
+Artigo 412.º
+
+[...]
 
 1 - ...
 
@@ -1878,7 +2260,9 @@ b) Até ao início do cumprimento de sanção acessória de efeito equivalente �
 
 4 - ...
 
-###### Artigo 416.º — [...]
+Artigo 416.º
+
+[...]
 
 1 - ...
 
@@ -1896,7 +2280,9 @@ b) Até ao início do cumprimento de sanção acessória de efeito equivalente �
 
 8 - Não é aplicável aos processos de contra-ordenação instaurados e decididos nos termos deste Código a proibição de reformatio in pejus, devendo essa informação constar de todas as decisões finais que admitam impugnação ou recurso.
 
-###### Artigo 420.º — [...]
+Artigo 420.º
+
+[...]
 
 1 - Se o mesmo facto constituir simultaneamente crime e contra-ordenação, o arguido é responsabilizado por ambas as infracções, instaurando-se processos distintos a decidir pelas autoridades competentes, sem prejuízo do disposto no número seguinte.
 
@@ -1914,7 +2300,9 @@ Recomendações de investimento
 
 2 - Relativamente a outras pessoas singulares ou colectivas constitui recomendação de investimento qualquer informação por elas elaborada, no exercício da sua profissão ou no quadro da sua actividade, na qual seja directamente recomendada uma decisão de investimento ou desinvestimento específica num valor mobiliário ou em outro instrumento financeiro e que se destine a canais de distribuição ou ao público.
 
-###### Artigo 12.º-B — Conteúdo das recomendações de investimento
+Artigo 12.º-B
+
+Conteúdo das recomendações de investimento
 
 1 - Nas recomendações de investimento, as pessoas referidas no artigo anterior:
 
@@ -1944,7 +2332,9 @@ f) A data em que a recomendação foi divulgada pela primeira vez, bem como a da
 
 g) As divergências da recomendação relativamente a uma recomendação sobre o mesmo emitente ou instrumento financeiro, emitida nos 12 meses anteriores, bem como a data em que aquela foi divulgada, em termos claros e destacados.
 
-###### Artigo 12.º-C — Recomendações de investimento e divulgação de conflito de interesses
+Artigo 12.º-C
+
+Recomendações de investimento e divulgação de conflito de interesses
 
 1 - Em conjunto com a recomendação, as pessoas previstas no artigo 12.º-A divulgam todas as relações e circunstâncias susceptíveis de prejudicar a objectividade da recomendação, em especial nos casos em que tenham um interesse no instrumento financeiro, directo ou indirecto, ou estejam numa situação de conflito de interesses relativamente ao emitente dos valores mobiliários a que respeita a recomendação.
 
@@ -1978,7 +2368,9 @@ a) A percentagem das recomendações de «comprar», «manter», ou «vender», 
 
 b) A percentagem de recomendações relativas a emitentes aos quais aquelas entidades prestaram serviços bancários de investimento significativos nos 12 meses anteriores à elaboração da recomendação.
 
-###### Artigo 12.º-D — Divulgação de recomendações de investimento elaboradas por terceiros
+Artigo 12.º-D
+
+Divulgação de recomendações de investimento elaboradas por terceiros
 
 1 - A divulgação de recomendações de investimento elaboradas por terceiros é acompanhada de forma clara e destacada da identificação da pessoa ou da entidade responsável pela divulgação.
 
@@ -1992,13 +2384,17 @@ b) A percentagem de recomendações relativas a emitentes aos quais aquelas enti
 
 6 - O disposto no presente artigo não se aplica à reprodução por jornalistas, em meios de comunicação social, de opiniões orais de terceiros sobre valores mobiliários, outros instrumentos financeiros ou entidades emitentes.
 
-###### Artigo 12.º-E — Divulgação através de remissão
+Artigo 12.º-E
+
+Divulgação através de remissão
 
 1 - O cumprimento do estabelecido nas alíneas a), b) e c) do n.º 2 do artigo 12.º-B e no artigo 12.º-C pode ser substituído por uma referência clara ao local onde a informação requerida pode ser directa e facilmente consultada pelo público, quando se trate de recomendação não escrita ou quando a inclusão de tal informação numa recomendação escrita se mostre notoriamente desproporcionada em relação à sua extensão.
 
 2 - No caso de recomendações não escritas, o disposto no número anterior aplica-se também ao cumprimento do estabelecido nas alíneas e), f) e g) do n.º 2 do artigo 12.º-B.
 
-###### Artigo 110.º-A — Qualificação facultativa
+Artigo 110.º-A
+
+Qualificação facultativa
 
 1 - Para efeitos do disposto na alínea c) do n.º 3 do artigo 109.º, no n.º 3 do artigo 112.º e no n.º 2 do artigo 134.º, as seguintes entidades são consideradas investidores qualificados se, para o efeito, se inscreverem em registo junto da CMVM:
 
@@ -2018,7 +2414,9 @@ iii) Prestem ou tenham prestado funções, pelo menos durante um ano, no sector 
 
 4 - A CMVM define, através de regulamento, o modo de organização e funcionamento do registo, designadamente quanto aos elementos exigíveis para a concretização e a prova dos requisitos mencionados no n.º 1, bem como aos procedimentos a observar aquando da inscrição, rectificação e cancelamento do mesmo.
 
-###### Artigo 135.º-A — Sumário do prospecto de oferta pública de distribuição
+Artigo 135.º-A
+
+Sumário do prospecto de oferta pública de distribuição
 
 1 - Independentemente do formato em que o mesmo seja elaborado, o prospecto de oferta pública de distribuição deve incluir um sumário que apresente, de forma concisa e numa linguagem não técnica, as características essenciais e os riscos associados ao emitente, ao eventual garante e aos valores mobiliários objecto da oferta.
 
@@ -2028,7 +2426,9 @@ a) Constitui uma introdução ao prospecto;
 
 b) Qualquer decisão de investimento nos valores mobiliários deve basear-se na informação do prospecto no seu conjunto.
 
-###### Artigo 135.º-B — Formato do prospecto de oferta pública de distribuição
+Artigo 135.º-B
+
+Formato do prospecto de oferta pública de distribuição
 
 1 - O prospecto de oferta pública de distribuição pode ser elaborado sob a forma de um documento único ou de documentos separados.
 
@@ -2046,7 +2446,9 @@ b) Qualquer decisão de investimento nos valores mobiliários deve basear-se na 
 
 8 - Se o documento de registo tiver apenas sido previamente comunicado à CMVM sem aprovação, os três documentos estão sujeitos a aprovação no âmbito do processo de aprovação do prospecto.
 
-###### Artigo 135.º-C — Prospecto de base
+Artigo 135.º-C
+
+Prospecto de base
 
 1 - Pode ser utilizado um prospecto de base, contendo informação sobre o emitente e os valores mobiliários, em ofertas públicas de distribuição de:
 
@@ -2066,7 +2468,9 @@ ii) Em caso de falência da respectiva instituição de crédito, os referidos m
 
 5 - O conteúdo do prospecto de base e das respectivas condições finais e a divulgação destas obedecem ao disposto no Regulamento (CE) n.º [809/2004](https://data.europa.eu/eli/reg/2004/809/oj?locale=pt), da Comissão, de 29 de Abril.
 
-###### Artigo 136.º-A — Inserção por remissão
+Artigo 136.º-A
+
+Inserção por remissão
 
 1 - É permitida a inserção de informações no prospecto por remissão para documentos publicados prévia ou simultaneamente e que pela CMVM tenham sido aprovados ou a ela tenham sido comunicados no âmbito dos deveres de informação de emitentes e de titulares de participações qualificadas em sociedades abertas.
 
@@ -2076,13 +2480,17 @@ ii) Em caso de falência da respectiva instituição de crédito, os referidos m
 
 4 - A inserção por remissão obedece ao disposto no Regulamento (CE) n.º [809/2004](https://data.europa.eu/eli/reg/2004/809/oj?locale=pt), da Comissão, de 29 de Abril.
 
-###### Artigo 140.º-A — Aviso sobre disponibilidade do prospecto
+Artigo 140.º-A
+
+Aviso sobre disponibilidade do prospecto
 
 1 - Em ofertas públicas cujo prospecto seja divulgado apenas sob forma electrónica, nos termos das alíneas c), d) e e) do n.º 5 do artigo anterior, deve ser divulgado um aviso sobre a disponibilidade do prospecto.
 
 2 - O conteúdo e a divulgação do aviso sobre a disponibilidade do prospecto obedecem ao disposto no Regulamento (CE) n.º [809/2004](https://data.europa.eu/eli/reg/2004/809/oj?locale=pt), da Comissão, de 29 de Abril.
 
-###### Artigo 183.º-A — Anúncio de lançamento
+Artigo 183.º-A
+
+Anúncio de lançamento
 
 1 - Em ofertas públicas de aquisição deve ser divulgado um anúncio de lançamento que descreva os elementos essenciais para a formação dos contratos a que se refere, incluindo designadamente os seguintes:
 
@@ -2110,7 +2518,9 @@ l) Entidade responsável pelo apuramento e pela divulgação do resultado da ofe
 
 2 - O anúncio de lançamento deve ser publicado, em simultâneo com a divulgação do prospecto, em meio de comunicação com grande difusão no País e em meio de divulgação de informação indicado pela entidade gestora do mercado regulamentado em que os valores mobiliários estejam admitidos à negociação.
 
-###### Artigo 248.º-A — Diferimento da divulgação de informação
+Artigo 248.º-A
+
+Diferimento da divulgação de informação
 
 1 - Os emitentes referidos no n.º 1 do artigo anterior podem decidir diferir a divulgação pública da informação aí referida, desde que, cumulativamente:
 
@@ -2138,7 +2548,9 @@ c) Adopta os mecanismos necessários à divulgação pública imediata da inform
 
 5 - Se um emitente ou uma pessoa que actue em seu nome ou por sua conta comunicarem, no âmbito do exercício normal da sua actividade, da sua profissão ou das suas funções, informação privilegiada a um terceiro que não esteja sujeito a dever de segredo, tal informação é tornada pública simultaneamente, se a comunicação for intencional, ou imediatamente, se a comunicação for não intencional.
 
-###### Artigo 248.º-B.º — Comunicação de transacções
+Artigo 248.º-B.º
+
+Comunicação de transacções
 
 1 - Os dirigentes de um emitente de valores mobiliários admitidos à negociação em mercado regulamentado ou de sociedade que o domine, bem como as pessoas com aqueles estreitamente relacionadas, informam a CMVM, no prazo de cinco dias úteis, sobre todas as transacções efectuadas por conta própria, de terceiros ou por estes por conta daqueles, relativas às acções daquele emitente ou aos instrumentos financeiros com estas relacionados.
 
@@ -2172,7 +2584,9 @@ b) Qualquer entidade que seja directa ou indirectamente dominada pelo dirigente,
 
 5 - As normas previstas nos números anteriores aplicam-se aos dirigentes de emitentes que tenham sede em Portugal ou que, não tendo sede num Estado membro da União Europeia, estejam obrigados a prestar à CMVM a informação relativa às contas anuais.
 
-###### Artigo 248.º-C — Documento de consolidação da informação anual
+Artigo 248.º-C
+
+Documento de consolidação da informação anual
 
 1 - Os emitentes de valores mobiliários admitidos à negociação em mercado regulamentado divulgam pelo menos uma vez por ano um documento que contenha ou faça referência à informação publicada ou disponibilizada ao público pelo emitente, no período de 12 meses antecedente, na sua situação de emitente de valores mobiliários admitidos à negociação.
 
@@ -2188,7 +2602,9 @@ c) Decorrentes do Regulamento n.º 1606/2002, do Parlamento Europeu e do Conselh
 
 4 - O presente artigo não se aplica aos emitentes de valores mobiliários não representativos de capital social cujo valor nominal unitário ascenda a pelo menos (euro) 50000.
 
-###### Artigo 377.º-A — Medidas cautelares na cooperação internacional
+Artigo 377.º-A
+
+Medidas cautelares na cooperação internacional
 
 1 - Quando a CMVM verificar que, no âmbito de ofertas públicas ou admissões internacionais no espaço da União Europeia, as disposições legais ou regulamentares relativas a ofertas públicas e à admissão de valores mobiliários à negociação em mercado regulamentado foram infringidas pelo emitente ou pelo intermediário financeiro responsável, deve dar conhecimento dos referidos factos à autoridade do Estado que, nos termos do artigo 145.º, for competente e solicitar-lhe-á que, com a maior brevidade possível, tome as providências adequadas.
 
@@ -2196,7 +2612,9 @@ c) Decorrentes do Regulamento n.º 1606/2002, do Parlamento Europeu e do Conselh
 
 3 - As providências tomadas pela CMVM ao abrigo do número anterior são comunicadas à Comissão Europeia com a brevidade possível.
 
-###### Artigo 380.º-A — Apreensão e perda das vantagens do crime
+Artigo 380.º-A
+
+Apreensão e perda das vantagens do crime
 
 1 - Sempre que o facto ilícito gerar para o arguido ou para terceiro por conta de quem o arguido negoceie vantagens patrimoniais, transitórias ou permanentes, incluindo juros, lucros ou outros benefícios de natureza patrimonial, esses valores são apreendidos durante o processo ou, pelo menos, declarados perdidos na sentença condenatória, nos termos previstos nos números seguintes.
 
@@ -2206,7 +2624,9 @@ c) Decorrentes do Regulamento n.º 1606/2002, do Parlamento Europeu e do Conselh
 
 4 - Nos processos por crimes de abuso de informação e manipulação de mercado são aplicáveis as medidas de garantia patrimonial previstas no Código de Processo Penal, sem prejuízo do recurso às medidas de combate à criminalidade organizada e económico-financeira previstas em legislação avulsa.
 
-###### Artigo 422.º — Divulgação de decisões
+Artigo 422.º
+
+Divulgação de decisões
 
 1 - Decorrido o prazo de impugnação judicial, a decisão da CMVM que condene o agente pela prática de uma ou mais contra-ordenações muito graves é divulgada através do sistema de difusão de informação referido no artigo 367.º, por extracto elaborado pela CMVM ou na íntegra, mesmo que tenha sido requerida a sua impugnação judicial, sendo, neste caso, feita expressa menção desse facto.
 
@@ -2238,7 +2658,9 @@ c) As obrigações forem objecto de garantia prestada por instituição de créd
 
 4 - ...
 
-###### Artigo 349.º — [...]
+Artigo 349.º
+
+[...]
 
 1 - As sociedades anónimas não podem emitir obrigações em montante que exceda o dobro dos seus capitais próprios, considerando a soma do preço de subscrição de todas as obrigações emitidas e não amortizadas.
 
@@ -2258,7 +2680,9 @@ c) Às emissões cujo reembolso seja assegurado por garantias especiais constitu
 
 6 - ...
 
-###### Artigo 351.º — [...]
+Artigo 351.º
+
+[...]
 
 1 - Estão sujeitas a registo comercial a emissão de obrigações e a emissão de cada uma das suas séries, quando realizadas através de oferta particular, excepto se tiver ocorrido dentro do prazo para requerer o registo a admissão das mesmas à negociação em mercado regulamentado de valores mobiliários.
 
@@ -2324,7 +2748,9 @@ z) A emissão de warrants sobre valores mobiliários próprios, quando realizada
 
 3 - [Revogado.]
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - ...
 
@@ -2394,7 +2820,9 @@ Os artigos 4.º e 7.º do Decreto-Lei n.º 125/90, de 16 de Abril, alterado pelo
 
 2 - O prospecto deve ser enviado ao Banco de Portugal antes do início das ofertas.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 ...
 
@@ -2416,7 +2844,9 @@ Os artigos 3.º e 5.º do Decreto-Lei n.º 408/91, de 17 de Outubro, alterado pe
 
 A realização de ofertas públicas de distribuição de obrigações de caixa rege-se pelo Regulamento (CE) n.º [809/2004](https://data.europa.eu/eli/reg/2004/809/oj?locale=pt), da Comissão, de 29 de Abril, e pelo Código dos Valores Mobiliários e respectivos diplomas complementares.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - As instituições referidas no artigo 2.º, antes da realização das operações referidas no artigo 4.º, devem publicar um prospecto de acordo com o Código dos Valores Mobiliários e com o Regulamento (CE) n.º [809/2004](https://data.europa.eu/eli/reg/2004/809/oj?locale=pt), da Comissão, de 29 de Abril.
 
@@ -2440,7 +2870,9 @@ Os artigos 25.º e 64.º do Regime Jurídico dos Organismos de Investimento Cole
 
 4 - ...
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 O prospecto completo de OIC integra, pelo menos, o regulamento de gestão e, quando não seja aplicável o disposto no n.º 1 do artigo 25.º, os elementos constantes do anexo II ao presente decreto-lei, que dele fazem parte integrante, sendo disponibilizado aos investidores que o solicitem, sem qualquer encargo.»
 
@@ -2470,7 +2902,9 @@ Os artigos 27.º, 34.º, 37.º e 60.º do Decreto-Lei n.º 453/99, de 5 de Novem
 
 9 - Quando a sociedade gestora requeira que a emissão das unidades de titularização se realize através de oferta pública, a concessão de autorização implica a aprovação do respectivo prospecto.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -2486,7 +2920,9 @@ c) ...
 
 d) ...
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -2500,7 +2936,9 @@ c) ...
 
 d) ...
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - ...
 
@@ -2522,7 +2960,9 @@ Os artigos 42.º e 46.º do Decreto-Lei n.º 319/2002, de 28 de Dezembro, com as
 
 2 - A subscrição pública das unidades de participação está sujeita ao disposto no título III do Código dos Valores Mobiliários e legislação complementar, com as especialidades dos artigos seguintes e com as necessárias adaptações.
 
-###### Artigo 46.º — Aprovação oficiosa do prospecto
+Artigo 46.º
+
+Aprovação oficiosa do prospecto
 
 O prospecto da emissão de unidades de participação em FCP é oficiosamente aprovado pela CMVM em simultâneo com a concessão da autorização para constituição do FCP.»
 
@@ -2544,11 +2984,15 @@ Modalidades e aprovação de nota informativa
 
 5 - ...
 
-###### Artigo 13.º — Instrução do pedido
+Artigo 13.º
+
+Instrução do pedido
 
 O pedido de aprovação é instruído com cópia da nota informativa a elaborar nos termos do artigo 17.º
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 ...
 
@@ -2584,12 +3028,12 @@ b) O artigo 4.º do Decreto-Lei n.º 408/91, de 17 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 2005. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos.
 
-**Promulgado em 5 de Março de 2006.**
+Promulgado em 5 de Março de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Março de 2006.**
+Referendado em 6 de Março de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

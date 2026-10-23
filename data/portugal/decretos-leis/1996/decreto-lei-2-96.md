@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/2/1996/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1996-621550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:45:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7039eba349484b1071e408547895a4695d7c549cc3a02edcef57a50b44787a0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b639d0a474cd69f5372a7f5461a837c31686f66d8429a5ab6dcbe185f96e38df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:45:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -85,16 +85,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/572/1993/06/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/572/1993/06/02/p/dre
+- type: cites
+  target: pt:dre:230890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668484:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:45:23Z'
   warnings: []
   errors: []
 ---
@@ -129,12 +145,12 @@ Visto e aprovado em Conselho de Ministros de 30 de Novembro de 1995. - António 
 
 Guterres - António Luciano Pacheco de Sousa Franco - Eduardo Carrega Marçal Grilo.
 
-**Promulgado em 6 de Dezembro de 1995.**
+Promulgado em 6 de Dezembro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Dezembro de 1995.**
+Referendado em 7 de Dezembro de 1995.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

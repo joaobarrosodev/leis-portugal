@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/53-1974-407094
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:29:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0220088e96de61818be6ee4685e5f6bea0a94cbae949724a02a63879e16bb67d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9657b39f94136d032f6d767c12834e8b1d429ea8017b5caae37f406b84209c2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:29:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,29 @@ relationships:
   target: pt:dre:144454620:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:414216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487714:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70025054:por
+  label: Revogada pelo(a) Decreto-Lei n.º 163/2015 - Diário da República n.º 159/2015, Série I de 2015-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-2015-70025054
+  date: '2015-08-17'
 article_structure:
   article_count: 0
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:29:35Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +119,7 @@ REGULAMENTO SOBRE REGRAS DO AR
 
 (Anexo 2 à Convenção sobre a Aviação Civil Internacional)
 
-### Capítulo 1 - Definições
+Capítulo 1 - Definições
 
 Nota. - Neste Regulamento, o termo «serviço» corresponde à noção de funções ou de serviço prestado; o termo «órgão» designa uma entidade administrativa encarregada de prestar um serviço.
 
@@ -268,7 +281,7 @@ Rota com serviço consultivo. - Rota no interior de uma região de informação 
 
 Rumo. - Direcção e sentido em que está apontado o eixo longitudinal de uma aeronave, geralmente expresso em graus a contar do norte (geográfico, magnético, de bússola ou de quadrícula).
 
-#### Secção de «contrôle» de aproximação. - Órgão que presta o serviço de contrôle do tráfego aéreo aos voos controlados a chegar a um ou vários aeródromos, ou a partir desses aeródromos.
+Secção de «contrôle» de aproximação. - Órgão que presta o serviço de contrôle do tráfego aéreo aos voos controlados a chegar a um ou vários aeródromos, ou a partir desses aeródromos.
 
 Serviço consultivo do tráfego aéreo. - Serviço prestado com a finalidade de assegurar, na medida do possível, a separação entre as aeronaves com plano de voo IFR em espaço aéreo com serviço consultivo.
 
@@ -336,7 +349,7 @@ Zona proibida. - Espaço aéreo de dimensões definidas, sobre o território ou 
 
 Zona restrita. - Espaço aéreo de dimensões definidas, sobre o território ou as águas territoriais de um Estado, onde o voo das aeronaves está subordinado a condições especificadas.
 
-### Capítulo 2 - Domínio de aplicação das regras do ar
+Capítulo 2 - Domínio de aplicação das regras do ar
 
 2.1 - Aplicação territorial das regras do ar.
 
@@ -378,7 +391,7 @@ O piloto-comandante de uma aeronave tem autoridade suprema para decidir da utili
 
 Ninguém deve pilotar uma aeronave ou exercer funções de membro da tripulação de condução sob a influência de bebidas alcoólicas ou de quaisquer narcóticos ou drogas susceptíveis de comprometer o seguro desempenho das suas funções.
 
-### Capítulo 3 - Regras gerais
+Capítulo 3 - Regras gerais
 
 3.1 - Protecção de pessoas e bens.
 
@@ -742,7 +755,7 @@ Nota 2. - Se a autorização relativa aos níveis abrange apenas parte da rota, 
 
 Nota 3. - O serviço de contrôle do tráfego aéreo a prestar a outras aeronaves no espaço aéreo em questão basear-se-á na premissa de que uma aeronave, em caso de falha de comunicação rádio, cumprirá o prescrito no § 3.5.5.2.2.
 
-### Capítulo 4 - Regras de voo visual
+Capítulo 4 - Regras de voo visual
 
 4.1 - Salvo autorização em contrário do órgão de contrôle do tráfego aéreo apropriado, no que respeita aos voos VFR nas zonas de contrôle, os voos VFR devem ser conduzidos em condições de visibilidade e de distância às nuvens pelo menos iguais às especificadas na tabela abaixo.
 
@@ -786,9 +799,9 @@ b) Se a isso for obrigado pelo § 3.3.1.1.2, apresentar um plano de voo ao órg�
 
 Tabela (ver 4.1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
-### Capítulo 5 - Regras de voo por instrumentos
+Capítulo 5 - Regras de voo por instrumentos
 
 5.1 - Regras aplicáveis a todos os voos IFR.
 
@@ -854,7 +867,7 @@ devem relatar a sua posição conforme prescrito para os voos controlados no § 
 
 Nota. - Às aeronaves que, ao voarem num dado espaço aéreo com serviço consultivo, decidam utilizar o respectivo serviço consultivo do tráfego aéreo aplicam-se as disposições do § 3.5, com as seguintes excepções: o plano de voo e suas alterações não estão sujeitos a autorização e as comunicações bilaterais devem ser mantidas com o órgão que presta o serviço consultivo do tráfego aéreo.
 
-## Apêndice A - Sinais
+Apêndice A - Sinais
 
 Nota. - Ver capítulo 3, § 3.4, do Anexo.
 
@@ -912,7 +925,7 @@ Nota. - Estes sinais podem ser emitidos de terra ou de outra aeronave.
 
 3.1.1 - Instruções.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 3.1.2 - Sinais de entendido a usar pelas aeronaves:
 
@@ -946,29 +959,29 @@ Nota. - Para pormenores sobre os sinais visuais no solo, ver Anexo 14 à Conven�
 
 Um quadrado horizontal vermelho com diagonais amarelas (fig. 2) exposto numa área de sinais indica que estão proibidas as aterragens e que essa proibição é susceptível de se prolongar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 3.2.2 - Necessidade de precauções especiais na aproximação ou aterragem.
 
 Um quadrado horizontal vermelho com uma diagonal amarela (fig. 3) exposto numa área de sinais indica que, devido ao mau estado da área de manobra ou por qualquer outra razão, devem tomar-se precauções especiais na aproximação ou na aterragem.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 3.2.3 - Utilização das pistas e caminhos de circulação.
 
 3.2.3.1 - Um painel horizontal branco em forma de haltere (fig. 4) exposto numa área de sinais indica que as aeronaves devem aterrar, descolar e rolar exclusivamente nas pistas e caminhos de circulação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 3.2.3.2 - Um painel horizontal branco em forma de haltere,, idêntico ao indicado no § 3.2.3.1, mas com uma faixa negra perpendicular à barra transversal em cada uma das extremidades circulares do haltere (fig. 5), exposto numa área de sinais indica que as aeronaves devem aterrar e descolar exclusivamente nas pistas, mas que se podem efectuar outras manobras fora das pistas e caminhos de circulação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 3.2.4 - Pistas e caminhos de circulação fora de serviço.
 
 Cruzes, de uma só cor bem visível, branco ou amarelo (fig. 6), expostas horizontalmente nas pistas e nos caminhos de circulação indicam as zonas impróprias para as manobras das aeronaves.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 3.2.5 - Direcção de aterragem e descolagem.
 
@@ -978,35 +991,35 @@ Cruzes, de uma só cor bem visível, branco ou amarelo (fig. 6), expostas horizo
 
 Nota. - Quando utilizado de noite, o T de aterragem será iluminado ou delimitado por luzes brancas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 2) Um tetraedro (fig. 8) indica aterragem e descolagem na direcção e sentido para onde aponta o vértice mais agudo. Quando olhado nesse sentido, terá a face do lado esquerdo cor de laranja ou negro e a face do lado direito cor de alumínio ou branca.
 
 Nota. - Quando utilizado de noite, o tetraedo será iluminado de forma a ser visto, por quem o observe da base para o vértice, da seguinte forma: a aresta superior, a aresta direita e a aresta direita da base serão indicadas por luzes verdes; a aresta esquerda e a aresta esquerda da base serão indicadas por luzes vermelhas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 3.2.5.2 - Um grupo de dois algarismos (fig. 9), colocado verticalmente na torre de contrôle de aeródromo ou perto dela, indica às aeronaves na área de manobra a direcção e sentido de descolagem, expressos em dezenas de graus magnéticos, arredondados para a dezena mais próxima.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 3.2.6 - Circulação pela direita.
 
 Uma seta de cor bem visível, dobrada em ângulo recto para a direita (fig. 10), exposta numa área de sinais, ou exposta horizontalmente no fim da pista ou da faixa em serviço, indica que as voltas antes da aterragem e após a descolagem devem ser feitas para a direita.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 3.2.7 - Posto dos serviços de tráfego aéreo.
 
 A letra C, negra sobre fundo amarelo, colocada verticalmente (fig. 11), indica a localização do posto dos serviços de tráfego aéreo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 3.2.8 - Actividade de planadores.
 
 Uma cruz dupla, branca (fig. 12), exposta horizontalmente num área de sinais indica que o aeródromo está nesse momento a ser utilizado por planadores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 4 - Sinais de estacionamento.
 
@@ -1028,135 +1041,135 @@ Nota 4. - Os sinais marcados com asterisco são destinados a helicópteros em vo
 
 Um sinaleiro dirige o piloto quando as condições de tráfego no aeródromo assim o exigem.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 2 - Posição de estacionamento.
 
 Braços em elevação vertical, palmas das mãos voltadas uma para a outra.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 3 - Prossiga para o sinaleiro seguinte.
 
 Braço direito ou esquerdo pendente, o outro braço oscila em frente do corpo para apontar a direcção em que se encontra o sinaleiro seguinte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 4 - Avance.
 
 Braços ligeiramente afastados, palmas das mãos voltadas para trás; movimentos repetidos para cima e para trás, a partir da altura dos ombros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 5 - Volte:
 
 a) Volte para a esquerda: braço direito aponta para baixo; braço esquerdo faz movimentos repetidos para cima e para trás. A rapidez do movimento indica a razão de viragem.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 b) Volte para a direita: braço esquerdo aponta para baixo; braço direito faz movimentos repetidos para cima e para trás. A rapidez do movimento indica a razão de viragem.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 6 - Pare.
 
 Os braços cruzam-se repetidamente sobre a cabeça. A rapidez do movimento dos braços indica a urgência da paragem: movimento mais veloz, paragem mais rápida.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 7 - Travões:
 
 a) Trave: elevar o antebraço em frente do corpo, até à horizontal, dedos estendidos; depois, fechar o punho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 b) Destrave: elevar o antebraço em frente do corpo, até à horizontal, punho fechado; depois, estender os dedos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 8 - Calços:
 
 a) Calços colocados: braços pendentes, palmas das mãos voltadas para trás; executar movimento de aproximação das mãos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 b) Calços tirados: braços pendentes, palmas das mãos voltadas para a frente; executar movimento de afastamento das mãos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 9 - Ponha os motores em marcha.
 
 Mão esquerda ao alto, número de dedos estendidos indicando número do motor; mão direita executa movimento circular à altura da cabeça.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 10 - Pare os motores.
 
 Um dos braços e a mão à altura dos ombros, mão em frente do pescoço, palma voltada para baixo; executar movimento horizontal com a mão, mantendo o braço dobrado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 11 - Mais devagar.
 
 Braços estendidos para baixo, palmas das mãos voltadas para o solo; executar movimentos repetidos de elevação e abaixamento dos braços.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 12 - Reduza o(s) motor(es) do lado indicado.
 
 Braços estendidos para baixo, palmas das mãos voltadas para o solo; baixar e elevar a mão direita ou a mão esquerda, a fim de indicar redução do(s) motor(es) esquerdo(s) ou direito(s), respectivamente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 13 - Recue.
 
 Braços pendentes, palmas das mãos voltadas para a frente; executar movimentos repetidos para cima e para a frente, até à altura dos ombros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 14 - Volte, recuando:
 
 a) Voltar a cauda para estibordo: braço esquerdo aponta para baixo; braço direito executa movimentos repetidos da posição vertical acima da cabeça até à posição horizontal em frente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 b) Voltar a cauda para bombordo; braço direito aponta para baixo; braço esquerdo executa movimentos repetidos da posição vertical acima da cabeça até à posição horizontal em frente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 15 - Saída desimpedida.
 
 Antebraço direito levantado, flectindo pelo cotovelo, polegar estendido para cima.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 * 16 - Permaneça em voo estacionário. Braços em elevação lateral.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 * 17 - Suba.
 
 Braços em elevação lateral, palmas das mãos voltadas para cima; executar movimentos de elevação dos braços até à posição vertical. A rapidez do movimento indica a razão de subida.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 * 18 - Desça.
 
 Braços em elevação lateral, palmas das mãos voltadas para baixo; executar movimentos de abaixamento dos braços. A rapidez do movimento indica a razão de descida.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 * 19 - Desloque-se horizontalmente.
 
 Braço apropriado em elevação lateral, indicando a direcção de deslocamento; executar movimentos repetidos de oscilação anterior com o outro braço.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 * 20 - Aterre.
 
 Braços estendidos, cruzados em frente do corpo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 4.2 - Do piloto de uma aeronave para um sinaleiro.
 
@@ -1182,7 +1195,7 @@ b) Tirem os calços: mãos cruzadas em frente da face, palmas das mãos voltadas
 
 Levantar o número apropriado de dedos de uma das mãos, para indicar o número do motor que vai ser posto em marcha.
 
-## Apêndice B - Luzes regulamentares nas aeronaves
+Apêndice B - Luzes regulamentares nas aeronaves
 
 1 - Luzes regulamentares nos aviões.
 
@@ -1204,7 +1217,7 @@ c) Os planos verticais são planos perpendiculares ao plano horizontal definido 
 
 1.1.1. - As luzes de posição a utilizar, de acordo com o capítulo 3, § 3.2.3, do Anexo, são as seguintes (fig. 1):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 a) Uma luz vermelha, iluminando sem obstrução, para cima e para baixo do plano horizontal, um sector de 110º, medido para a esquerda (bombordo) a partir da frente;
 
@@ -1266,7 +1279,7 @@ c) Quando o avião não estiver comandado, deverão ser colocadas duas luzes ver
 
 Nota. - As luzes prescritas em c) devem ser interpretadas, pelas outras aeronaves, como sinal de que o avião não está comandado, e não pode, portanto, dar passagem; não como sinais de perigo ou pedido de auxílio.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 2.2 - Aviões fundeados:
 
@@ -1276,18 +1289,18 @@ b) Se o avião tiver 50 m (150 pés), ou mais, de comprimento: uma luz branca co
 
 c) Se a envergadura do avião for igual ou superior a 50 m (150 pés): uma luz branca contínua de cada lado (figs. 8 e 9), de forma a mostrar a envergadura total, e, tanto quanto possível, visíveis de todas as direcções até uma distância de, pelo menos, 1 milha marítima.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 2.3 - Aviões encalhados.
 
 As luzes prescritas em 2.2 e também duas luzes vermelhas contínuas, numa mesma vertical, espaçadas pelo menos 1 m (3 pés) e visíveis de todas as direcções.
 
-## Apêndice C - Tabela de níveis de cruzeiro
+Apêndice C - Tabela de níveis de cruzeiro
 
 Os níveis de cruzeiro a utilizar, conforme requerido pelo Anexo, são os seguintes: (ver nota *)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02500/00990120.pdf)
 
 (nota *) Salvo quando, por força dos acordos regionais de navegação aérea, for prescrita uma tabela de níveis de cruzeiro modificada, baseada numa separação vertical mínima nominal de menos de 600 m (2000 pés), mas não inferior a 300 m (1000 pés), para ser utilizada, em condições especificadas, por aeronaves operando acima do FL 290, em determinadas porções do espaço aéreo.
 
-**O Secretário de Estado da Administração Ultramarina, Leão Maria Tavares Rosado do Sacramento Monteiro. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado da Administração Ultramarina, Leão Maria Tavares Rosado do Sacramento Monteiro. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

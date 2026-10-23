@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/15800/0000400008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/68/2023/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2023-219991575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49b028043d6022d8b5bd4e158de48b8822bda1643f8abfa71b619fa68696631b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6d74d8af62736af98a77d7facfd2e0180bce31b18a4472f858c2e66703572f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
 subjects:
 - Acesso à Informação
 - Autoridade da Concorrência
-- Ficheiro Informático
-- Multa
-- Telecomunicações Espaciais
-- Contra-ordenação
-- Fiscalização
-- Base de Dados
-- Prestação de Serviços
-- Comunicações
-- Regulamento CE
 - Autoridade Nacional de Comunicações
+- Base de Dados
+- Comunicações
+- Contra-ordenação
+- Ficheiro Informático
+- Fiscalização
+- Multa
+- Prestação de Serviços
+- Regulamento CE
+- Telecomunicações Espaciais
 relationships:
 - type: cites
   target: celex:32019R1150
@@ -99,16 +99,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2009/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2009/09/04/p/dre
+- type: cites
+  target: pt:dre:489497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761449:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:37Z'
   warnings: []
   errors: []
 ---
@@ -281,12 +297,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de junho de 2023. - António Luís Santos da Costa - Sofia Alves de Aguiar Batalha - António José da Costa Silva - João Saldanha de Azevedo Galamba.
 
-**Promulgado em 6 de agosto de 2023.**
+Promulgado em 6 de agosto de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de agosto de 2023.**
+Referendado em 10 de agosto de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+116769531

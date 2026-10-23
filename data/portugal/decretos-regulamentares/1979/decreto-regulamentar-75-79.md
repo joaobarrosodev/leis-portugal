@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/75-1979-353720
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ffd072d35f69ce85d3fff68647dc2c8c974d7a29dce76fa18c78933be7059db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3764f9de9cddad1f5f513fd96807f4edeb370411403cac3b7312b4ecb8634a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior
+- Instituto Universitário de Évora
+- Licenciatura
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:233695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327872:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:20Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +102,7 @@ Em cumprimento do disposto no artigo 16.º do [Decreto-Lei n.º 769-B/76](https:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São criados, no Instituto Universitário de Évora, os seguintes cursos de licenciatura:
+Artigo 1.º São criados, no Instituto Universitário de Évora, os seguintes cursos de licenciatura:
 
 a) Sociologia;
 
@@ -98,22 +110,22 @@ b) Economia;
 
 c) Gestão de Empresas.
 
-###### Art. 2.º - 1 - O curso de licenciatura em Ciências Sociais, criado pelo artigo 1.º do [Decreto Regulamentar n.º 38/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1978-327872), de 25 de Outubro, é extinto.
+Art. 2.º - 1 - O curso de licenciatura em Ciências Sociais, criado pelo artigo 1.º do [Decreto Regulamentar n.º 38/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1978-327872), de 25 de Outubro, é extinto.
 
 2 - Os alunos inscritos em 1978-1979 no referido curso transitarão em 1979-1980 para uma das licenciaturas a que se refere o artigo 1.º
 
 3 - O Instituto Universitário de Évora fixará os planos de estudo de transição adequados de modo que a formação dos alunos a que se refere o n.º 2 seja globalmente equivalente à dos alunos inscritos nas novas licenciaturas.
 
-###### Art. 3.º Os planos de estudo e as normas de funcionamento dos cursos criados pelo artigo 1.º do presente diploma, bem como o regime de transição resultante da extinção do curso referido no artigo 2.º, serão definidos por portaria do Ministro da Educação.
+Art. 3.º Os planos de estudo e as normas de funcionamento dos cursos criados pelo artigo 1.º do presente diploma, bem como o regime de transição resultante da extinção do curso referido no artigo 2.º, serão definidos por portaria do Ministro da Educação.
 
-###### Art. 4.º As dúvidas suscitadas na interpretação e aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação.
+Art. 4.º As dúvidas suscitadas na interpretação e aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação.
 
-###### Art. 5.º Este diploma entra em vigor no dia imediato à data da sua publicação.
+Art. 5.º Este diploma entra em vigor no dia imediato à data da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Luís Eugénio Caldas Veiga da Cunha.
 
-**Promulgado em 13 de Dezembro de 1979.**
+Promulgado em 13 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

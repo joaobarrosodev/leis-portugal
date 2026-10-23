@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/19700/0000300006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/68/2022/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2022-202127497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9ba9da7818948ccddf055de00d2149091516a8be12ea20cf819f764fd7e639f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7e93ad8ba59529e7dcac2fdea352a6f910836d885cafe45d0f118abc1868251
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ reuse:
 subjects:
 - Acreditação
 - Aproximação das Legislações
+- Autoridade Nacional de Segurança Rodoviária
 - CE Países
 - Código da Estrada
 - Contra-ordenação
 - Definição de Competências
+- Documentos do Veículo
+- Equipamento de Veículo
 - Fiscalização
 - Inspecção de Veículos
 - Instituto da Mobilidade e dos Transportes
-- Veículo
-- Documentos do Veículo
-- Autoridade Nacional de Segurança Rodoviária
-- Segurança Rodoviária
-- Equipamento de Veículo
+- Matrícula
 - Regime Jurídico
 - Sanção
-- Matrícula
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: cites
   target: celex:32014L0047
@@ -100,20 +100,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27/2010/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/2010/08/30/p/dre
+- type: cites
+  target: pt:dre:114276584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343916:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32014L0047
   label: null
   source: null
 article_structure:
-  article_count: 13
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:51Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +166,9 @@ d) Tratores de rodas das categorias T1b, T2b, T3b, T4.1b, T4.2b e T4.3b cuja uti
 
 3 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Para a atribuição de um perfil de risco a uma empresa são utilizados os critérios enumerados no anexo i à portaria do membro do Governo responsável pela área dos transportes, devendo essas informações ser utilizadas para controlar com maior rigor e maior frequência as empresas com uma classificação de risco elevado, bem como o sistema de classificação por níveis de risco criado nos termos da [Lei n.º 27/2010](https://diariodarepublica.pt/dr/detalhe/lei/27-2010-343916), de 30 de agosto, administrado pelo IMT, I. P.
 
@@ -166,7 +176,9 @@ d) Tratores de rodas das categorias T1b, T2b, T3b, T4.1b, T4.2b e T4.3b cuja uti
 
 3 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -180,7 +192,9 @@ d) Tratores de rodas das categorias T1b, T2b, T3b, T4.1b, T4.2b e T4.3b cuja uti
 
 6 - No caso de o certificado de inspeção técnica ou o relatório de inspeção na estrada indicar que um dos itens enumerados no anexo ii à portaria a que se refere o n.º 1 do artigo 5.º foi inspecionado nos três últimos meses, o inspetor abstém -se de o inspecionar, exceto se uma deficiência óbvia o justificar.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Os itens a inspecionar, bem como a lista de deficiências possíveis e o seu nível de gravidade, constam do anexo ii à portaria a que se refere o n.º 1 do artigo 5.º
 
@@ -190,7 +204,9 @@ d) Tratores de rodas das categorias T1b, T2b, T3b, T4.1b, T4.2b e T4.3b cuja uti
 
 4 - Um veículo que apresente várias deficiências nos pontos inspecionados, definidos no âmbito da inspeção a que se refere o anexo ii à portaria a que se refere o n.º 1 do artigo 5.º, pode ser classificado no grupo de deficiências imediatamente superior, caso se considere que o efeito combinado dessas deficiências representa um risco acrescido para a segurança rodoviária.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Durante uma inspeção na estrada, o veículo pode ser submetido a uma inspeção da imobilização da sua carga, conforme previsto no anexo iii à portaria a que se refere o n.º 1 do artigo 5.º, a fim de garantir que a carga esteja imobilizada, de modo a não interferir com a condução em condições de segurança ou pôr em perigo a vida, a saúde, bens ou o ambiente.
 
@@ -200,7 +216,9 @@ d) Tratores de rodas das categorias T1b, T2b, T3b, T4.1b, T4.2b e T4.3b cuja uti
 
 4 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -208,7 +226,9 @@ d) Tratores de rodas das categorias T1b, T2b, T3b, T4.1b, T4.2b e T4.3b cuja uti
 
 3 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -216,7 +236,9 @@ d) Tratores de rodas das categorias T1b, T2b, T3b, T4.1b, T4.2b e T4.3b cuja uti
 
 3 - [...]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O IMT, I. P., deve, até 31 de março de 2021 e, daí em diante, de dois em dois anos, comunicar à Comissão Europeia, por meios eletrónicos, os dados recolhidos no biénio anterior relativos aos veículos inspecionados em Portugal de acordo com o modelo de relatório previsto no anexo v à portaria a que se refere o n.º 1 do artigo 5.º
 
@@ -250,12 +272,14 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de setembro de 2022. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - Pedro Nuno de Oliveira Santos.
 
-**Promulgado em 29 de setembro de 2022.**
+Promulgado em 29 de setembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de setembro de 2022.**
+Referendado em 29 de setembro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115746306

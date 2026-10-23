@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 23/1991, 1º Suplemento, Série I-A de 1991-01-28
   number: '23'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 464-(2) a 464-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/023a01/00020002.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/7/1991/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/7-1991-306180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T04:11:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 126b7e3cb8be65d3596c83be48cde333e67f5fde106eb0239296976af7a7890e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45e5213d65d81f66f822cdc57a2c8bde37848c437eb485aac68da89c1d893869
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:11:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,28 +73,43 @@ relationships:
   target: pt:dre:692221:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692221:por
+  label: "Reconduzido pelo DEC.4/93.1993.01.28.PR DR.IS-A [23]Supl.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/4-1993-692221
+  date: '1993-01-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "EXONERADO O ALMIRANTE JOSÉ MIGUEL GOMES DE SOUSA CEREJEIRO, DO CARGO DE PRESIDENTE DO SUPREMO TRIBUNAL MILITAR,\
+    \ PELO DECRETO 21-A/94, DE 4 DE MAIO, DO PR, PUBLICADO NO DR.IS-A, 103, SUPL.\0-A, 103, SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-04'
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:11:26Z'
   warnings: []
   errors: []
 ---
 
 # Decreto do Presidente da República n.º 7/91
 
-**O Presidente da República decreta, nos termos do artigo 29.º, n.º 2, alínea a), da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 29.º, n.º 2, alínea a), da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, o seguinte:
 
 Sob proposta aprovada pelo Conselho Superior de Defesa Nacional, por iniciativa do Chefe do Estado-Maior-General das Forças Armadas, nomeio o vice-almirante José Miguel Gomes de Sousa Ceregeiro para o cargo de presidente do Supremo Tribunal Militar, preenchendo a vaga deixada pelo general da Força Aérea António da Silva Cardoso.
 
-**Assinado em 25 de Janeiro de 1991.**
+Assinado em 25 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.

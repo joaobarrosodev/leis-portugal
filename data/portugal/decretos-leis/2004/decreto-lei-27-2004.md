@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/029a00/05870596.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/27/2004/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2004-592338
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4946623c4b12825cd3df7530b506fc299e2959dacff1e4b19c393b6953292f09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f96007fe5cef14e9a4a3e344d18d17d0d435b37743a6da160cabc7c89b7f2ef6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sanção Disciplinar
 - Bastonário
-- Publicidade
-- Eleição
 - Cartório Notarial
 - Conselho de Fiscalização
 - Conselho Disciplinar
 - Definição de Competências
 - Delegação Regional
+- Eleição
 - Estatuto
 - Fiscalização
 - Fundo de Compensação
 - Incompatibilidades
 - Notário
 - Ordem dos Notários
+- Publicidade
 - Responsabilidade Civil
 - Responsabilidade Criminal
+- Sanção Disciplinar
 - Segredo Profissional
 relationships:
 - type: amended_by
   target: pt:dre:70297420:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280947:por
+  label: "Alterados os art.s 3º, 13º, 15º, 22º, 39º, 57º, 58º, 59º, 61º, 62º e 63º e determinado que devem entender-se como\
+    \ sendo feitas também aos nacionais, notários e profissionais de Estados não membros da União Europeia que sejam signatários\
+    \ do Acordo sobre o Espaço Económico Europeu as referências a nacionais, notários e profissionais de Estados membros da\
+    \ União Europeia constantes no Estatuto, pelo DEC LEI.15/2011.25.01.2011.MJ, DR.IS [17] de 25.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2011-280947
+  date: '2011-01-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
@@ -97,16 +105,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/2003/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/2003/08/22/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656094:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70297420:por
+  label: Revogado, a partir de 15.10.2015, o presente diploma, na redação do Dec Lei 15/2011 de 25-jan, pelo(a) Lei n.º 155/2015
+    - Diário da República n.º 180/2015, Série I de 2015-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/155-2015-70297420
+  date: '2015-09-15'
 article_structure:
   article_count: 68
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:13Z'
   warnings: []
   errors: []
 ---
@@ -159,15 +181,15 @@ c) Aceitar as inscrições na Ordem.
 
 Visto e aprovado em Conselho de Ministros de 17 de Dezembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona.
 
-**Promulgado em 23 de Janeiro de 2004.**
+Promulgado em 23 de Janeiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Janeiro de 2004.**
+Referendado em 27 de Janeiro de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — ESTATUTO DA ORDEM DOS NOTÁRIOS
 
@@ -817,7 +839,7 @@ Sempre que um cartório notarial sofra prejuízo grave causado por catástrofe n
 
 ###### Artigo 65.º — Acompanhamento de gestão
 
-**O Ministro da Justiça pode, sempre que entender, solicitar ao conselho de fiscalização, disciplinar e deontológico informações sobre a gestão do Fundo de Compensação.**
+O Ministro da Justiça pode, sempre que entender, solicitar ao conselho de fiscalização, disciplinar e deontológico informações sobre a gestão do Fundo de Compensação.
 
 ### CAPÍTULO IX — Disposições finais e transitórias
 

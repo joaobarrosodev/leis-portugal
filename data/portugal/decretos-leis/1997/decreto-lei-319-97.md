@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/273a00/63656365.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/319/1997/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1997-406563
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:53:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 624154b996534c8757bb9f4e4a3412f51dca5feb0daa5b8c56df8f62904ebfde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e59e566106b0c0c9ba2930023f788900806f81ba604072d7ab11cf6b91a92eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:53:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituição de Crédito
-- Caixa Económica
 - Atividade Bancária
+- Caixa Económica
+- Instituição de Crédito
 - Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:70241306:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:382614:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70241306:por
+  label: Revogado, a partir de 10.10.2015, o Dec Lei 136/79 de 18-mai, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/190-2015-70241306
+  date: '2015-09-10'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:53:37Z'
   warnings: []
   errors: []
 ---
@@ -116,12 +126,12 @@ Outras operações
 
 Visto e aprovado em Conselho de Ministros de 9 de Outubro de 1997. - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 5 de Novembro de 1997.**
+Promulgado em 5 de Novembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Novembro de 1997.**
+Referendado em 13 de Novembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

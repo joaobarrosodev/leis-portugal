@@ -48,36 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/678-1976-407281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T05:10:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 037668154a7f2aadec16accaf5b4dc744ac93fb97adac2bd0848c22a87d1dce4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0575db466277e1d11687bc5ef67984ddcd1d79a23034faf51f540d59f7efcf75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:10:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Administração de Portos
+- Embarcação
+- Ilhas Adjacentes
+- Madeira.ilha Adjacente
+- Navegação Marítima
+- Pilotagem
+- Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e das Ilhas Adjacentes
+- Segurança da Navegação
+- Serviço de Pilotagem dos Portos e Barras
+relationships:
+- type: cites
+  target: pt:dre:312232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353078:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:10:26Z'
   warnings: []
   errors: []
 ---
@@ -100,20 +118,20 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha 
 
 Sines
 
-###### Art. 163.º-A. Há uma secção local de pilotos, constituída pelo seguinte pessoal:
+Art. 163.º-A. Há uma secção local de pilotos, constituída pelo seguinte pessoal:
 
 Dois pilotos.
 
 § único. O processo de recrutamento dos candidatos para o preenchimento das duas primeiras vagas será feito por concurso documental, cujas normas serão definidas por despacho do Secretário de Estado da Marinha Mercante.
 
-###### Art. 163.º-B. As instalações e o material a utilizar pelo pessoal são fornecidos pelo Gabinete da Área de Sines, de acordo com as suas disponibilidades, e deverão no futuro passar a constituir património de qualquer secção de pilotos, nas condições que oportunamente vierem a ser fixadas.
+Art. 163.º-B. As instalações e o material a utilizar pelo pessoal são fornecidos pelo Gabinete da Área de Sines, de acordo com as suas disponibilidades, e deverão no futuro passar a constituir património de qualquer secção de pilotos, nas condições que oportunamente vierem a ser fixadas.
 
-###### Art. 163.º-C. A pilotagem do porto compreende o percurso entre uma distância não superior a três milhas da entrada e o interior do porto ou docas.
+Art. 163.º-C. A pilotagem do porto compreende o percurso entre uma distância não superior a três milhas da entrada e o interior do porto ou docas.
 
-###### Art. 163.º-D. Os navios que fundearem no exterior do porto e numa área até três milhas da entrada terão de o fazer obrigatoriamente sob as indicações da pilotagem.
+Art. 163.º-D. Os navios que fundearem no exterior do porto e numa área até três milhas da entrada terão de o fazer obrigatoriamente sob as indicações da pilotagem.
 
-###### Art. 163.º-E. Os pilotos darão inteiro cumprimento às disposições regulamentares e especiais da Capitania do Porto de Sines, tendo em vista a segurança do porto.
+Art. 163.º-E. Os pilotos darão inteiro cumprimento às disposições regulamentares e especiais da Capitania do Porto de Sines, tendo em vista a segurança do porto.
 
-###### Art. 163.º-F. As taxas a cobrar e o respectivo regime serão os que resultarem da aplicação dos artigos 103.º a 116.º do presente Regulamento.
+Art. 163.º-F. As taxas a cobrar e o respectivo regime serão os que resultarem da aplicação dos artigos 103.º a 116.º do presente Regulamento.
 
 Secretaria de Estado da Marinha Mercante, 27 de Outubro de 1976. - O Secretário de Estado da Marinha Mercante, António José Borrani Crisóstomo Teixeira.

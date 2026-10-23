@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 301/1980, 4º Suplemento, Série I de 1980-12-31
   number: '301'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 4244-(75) a 4244-(79)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/30104/00750079.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/388-1980-226778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T07:05:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84cae5a7e9b914b73ced1cfcb0071fad44be9bf9e5b5b4cfb7b74bd6f0e4110b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dad5e2077ea5d11c02b71f9d91a405510bf728dabb16f1648b466d523934bf44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:05:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acordo
+- IPSS
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:285935:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:580589:por
+  label: "Aditada a norma VII-A, pelo DN.174/81.12.06.1981.MAS, DR.IS [159] de 14.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/174-1981-580589
+  date: '1981-06-12'
+- type: amended_by
+  target: pt:dre:453813:por
+  label: "Alterada a norma I e revogadas as normas XIX, XX, XXI e o n.º 1 da norma XXIV, pelo DN.161/83.26.05.1983.MAS, DR.IS\
+    \ [167] de 22.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/161-1983-453813
+  date: '1983-05-26'
+- type: amended_by
+  target: pt:dre:178346:por
+  label: "Alteradas as normas VI e VII, e aditadas as normas III-A e VI-A, pelo DN.97/85.23.08.1985.MTSS, DR.IS [233] de 10.10.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/97-1985-178346
+  date: '1985-08-23'
+- type: repealed_by
+  target: pt:dre:285935:por
+  label: "Revogado pelo DN.12/88.22.02.1988.MESS, DR.IS [60] de 12.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-1988-285935
+  date: '1988-02-22'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:05:35Z'
   warnings: []
   errors: []
 ---
@@ -347,4 +372,4 @@ XXIV
 
 2 - À celebração de acordos entre a Santa Casa da Misericórdia de Lisboa e instituições privadas de solidariedade social por ela auxiliadas serão aplicáveis as presentes normas, com as adaptações decorrentes da indentidade própria daquela Santa Casa e da natureza específica da sua actuação.
 
-**O Ministro dos Assuntos Sociais, João António Morais Leitão.**
+O Ministro dos Assuntos Sociais, João António Morais Leitão.

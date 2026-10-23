@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/08/186b00/39413945.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/18/1992/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1992-283495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e5858b88fb75d81762a99958fe27a33161d457973ce5c6eec23ddbbb8295618
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e15d5e947c681a7bda1a2bd32889308f50ffd5d5d648e8c7c53c915b84d9c50e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água Mineral
-- Etiquetagem
-- Embalagem
-- Regulamento
 - Comércio
+- Embalagem
+- Etiquetagem
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:473321:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469606:por
+  label: Alterado o artº 9º e rectificados o preâmbulo e o nº 1 do artº 1º pelo DR.8/97.1997.04.18.MADRP, DR.IS-B[91]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/8-1997-469606
+  date: '1997-04-18'
 - type: cites
   target: celex:31980L0777
   label: null
   source: http://data.europa.eu/eli/dir/1980/777/oj
+- type: repealed_by
+  target: pt:dre:473321:por
+  label: "Revogado pelo DEC LEI.156/98.1998.06.06.MADRP, DR.IS-A [131]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-1998-473321
+  date: '1998-06-06'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:53Z'
   warnings: []
   errors: []
 ---
@@ -243,15 +253,15 @@ Presidência do Conselho de Ministros, 18 de Maio de 1992.
 
 Aníbal António Cavaco Silva - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Arlindo Gomes de Carvalho - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 16 de Julho de 1992.**
+Promulgado em 16 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Julho de 1992.**
+Referendado em 21 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — I - Características
 
@@ -359,4 +369,4 @@ c) As condições de exploração e em especial as instalações de lavagem e de
 
 ## ANEXO III — Menções e critérios previstos no artigo 12.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/186b00/39413945.pdf))](https://files.diariodarepublica.pt/1s/1992/08/186b00/39413945.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/186b00/39413945.pdf)

@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/778-1976-416441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T05:12:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53c4afcf1ddae30fb716049f751f4e41e81182e9953ca020fab57ed43e2cc9dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d90dfa62d20f22d0bdbe000a61a227ea0e196e9340b869b69c1f86e3fdb4e7bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:12:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Polícia Judiciária Militar
+- Quadro de Pessoal
+- Serviço de Polícia Judiciária Militar
 relationships:
 - type: amended_by
   target: pt:dre:376213:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:383606:por
+  label: "Extintas as gratificações previstas no nº 3 pelo DEC LEI.253-A/79.27.07.1979.CR, DR.IS [172-Supl] de 27.07.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/253-a-1979-383606
+  date: '1979-07-27'
+- type: cites
+  target: pt:dre:312069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502221:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:141655:por
+  label: Rectificada pela DECL.DD7983.25.02.1977.CR, DR.IS [47] de 25.02.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-141655
+  date: '1977-02-25'
+- type: repealed_by
+  target: pt:dre:255630:por
+  label: "Revogado o que sobre juízes de direito está contemplado no mapa II a que se refere o presente diploma, pela PORT.829-A/82.31.08.1982.CR,\
+    \ DR.IS [201-Supl] de 31.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/829-a-1982-255630
+  date: '1982-08-31'
+- type: repealed_by
+  target: pt:dre:375623:por
+  label: "Revogado o mapa I anexo ao presente dilpoma pela PORT.858/82.1982.09.10.CR DR.IS [210]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/858-1982-375623
+  date: '1982-09-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:12:52Z'
   warnings: []
   errors: []
 ---
@@ -122,12 +156,12 @@ Mapa I a que se refere a Portaria n.º 778/76
 
 Pessoal militar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30300/28932895.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30300/28932895.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30300/28932895.pdf)
 
 Mapa II a que se refere a Portaria n.º 778/76
 
 Pessoal civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30300/28932895.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30300/28932895.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30300/28932895.pdf)
 
-**O Presidente do Conselho da Revolução, António Ramalho Eanes.**
+O Presidente do Conselho da Revolução, António Ramalho Eanes.

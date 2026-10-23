@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/11/255a00/70867091.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/242/2002/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2002-424726
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:33:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 155a153dcd4341d03b1254411528a8ce128ee55801359be52fa39726d364feb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eae5af5c0c32449322c4d410fa8250fa67dae1174ec73d3adee7310790a018cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:33:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,11 +70,11 @@ reuse:
 subjects:
 - Agência Europeia de Avaliação de Medicamentos
 - Aproximação das Legislações
+- Comércio
 - Indústria Farmacêutica
 - Infarmed
 - Regulamento
 - Sistema Nacional de Farmacovigilância
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:540387:por
@@ -92,16 +92,21 @@ relationships:
   target: celex:32001L0083
   label: null
   source: http://data.europa.eu/eli/dir/2001/83/oj
+- type: repealed_by
+  target: pt:dre:540387:por
+  label: "Revogado pelo Dec Lei.176/2006.30.08.2006.MS, DR.IS [167] de 30.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-2006-540387
+  date: '2006-08-30'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:33:48Z'
   warnings: []
   errors: []
 ---
@@ -188,15 +193,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - Luís Filipe Pereira.
 
-**Promulgado em 15 de Outubro de 2002.**
+Promulgado em 15 de Outubro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Outubro de 2002.**
+Referendado em 22 de Outubro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — REGULAMENTO DO SISTEMA NACIONAL DE FARMACOVIGILÂNCIA DE MEDICAMENTOS DE USO HUMANO
 

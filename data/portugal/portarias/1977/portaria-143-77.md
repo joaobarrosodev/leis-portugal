@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/06600/05640565.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/143-1977-141039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T05:15:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76e5caafcc0e83f3f6dc0fbf019bf89dd2b432451fa01622b1a3dd1f8591687a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13752ae6f38c0d153bbfb90d7095f2aecd100c1161b6a90eff3fe521dbb1ea9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:15:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Preço de Venda
+- Preço Máximo
+- Produto Alimentar
+- Produto Dietetico
 relationships:
 - type: amended_by
   target: pt:dre:630669:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280701:por
+  label: Alterado o n.º 1 do n.º 2.º do presente diploma, pelo(a) Portaria n.º 688/77 - Diário da República n.º 262/1977,
+    Série I de 1977-11-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/688-1977-280701
+  date: '1977-11-12'
+- type: cites
+  target: pt:dre:461402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676446:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:139709:por
+  label: Retificado o n.º 2.º pelo(a) Declaração - Diário da República n.º 75/1977, Série I de 1977-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-139709
+  date: '1977-03-30'
+- type: repealed_by
+  target: pt:dre:630669:por
+  label: Revogada, a partir de 22.05.1979, pelo(a) Portaria n.º 279/78 - Diário da República n.º 115/1978, 1º Suplemento,
+    Série I de 1978-05-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/279-1978-630669
+  date: '1978-05-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:15:13Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +141,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comérci
 
 2.º - 1. Os preços máximos no armazém do fabricante e na venda ao público são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/06600/05640565.pdf))](https://files.diariodarepublica.pt/1s/1977/03/06600/05640565.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/06600/05640565.pdf)
 
 2. A margem mínima do retalhista é de 15$00 por quilograma.
 

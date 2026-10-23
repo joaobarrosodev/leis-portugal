@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/22400/29622981.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,134 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1980-461663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d45f319e95981701d9685799274ba65cd8b58760bdbf2de8dfb2bfa1f8e387fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f44dc445807f8aedfb0fd38e1cbf22586dbe759153267e1cadee9c135dad23a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Contabilidade Pública
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:662573:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457460:por
+  label: "Dada nova redacção ao art. 45º, nº 4 pelo DR.70/80.1980.11.05.MFP, DR.IS [256]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/70-1980-457460
+  date: '1980-11-05'
+- type: amended_by
+  target: pt:dre:390034:por
+  label: "Aumentado lugares ao quadro de pessoal a que se refere o artigo 21.º do presente diploma, pela PORT.106/81.24.01.1981.PCM,\
+    \ DR.IS [20] de 24.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/106-1981-390034
+  date: '1981-01-24'
+- type: amended_by
+  target: pt:dre:392786:por
+  label: "Alterado o art. 21º, pela PORT.486/82.1982.05.08.MFP, DR.IS [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/486-1982-392786
+  date: '1982-05-08'
+- type: amended_by
+  target: pt:dre:453201:por
+  label: "Alterado pelo DR.64/83.1983.07.08.MFP, Dr.IS [155]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/64-1983-453201
+  date: '1983-07-08'
+- type: amended_by
+  target: pt:dre:400049:por
+  label: "Alterado o quadro de pessoal da Direcção Geral da Contabilidade Pública aprovado e publicado em anexo ao presente\
+    \ diploma, com a redacção dada pela Port 31/83, de 10-Jan, pela PORT.785/84.08.10.1984.PCM, DR.IS [233] de 08.10.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/785-1984-400049
+  date: '1984-10-08'
+- type: amended_by
+  target: pt:dre:229078:por
+  label: "Alterado o quadro de pessoal da Direcção Geral da Contabilidade Pública pela PORT.291/86.19.06.1986.MF, DR.IS [138]\
+    \ de 19.06.1986\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/291-1986-229078
+  date: '1986-06-19'
+- type: amended_by
+  target: pt:dre:222251:por
+  label: "Criado um lugar de assessor no quadro de pessoal a que se refere o presente diploma, pela PORT.612/86.21.10.1986.MF,\
+    \ DR.IS [243] de 21.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/612-1986-222251
+  date: '1986-10-21'
+- type: amended_by
+  target: pt:dre:220905:por
+  label: "Alargado o quadro de pessoal pela PORT.691/86.19.11.1986.MF, DR.IS [267] de 19.11.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/691-1986-220905
+  date: '1986-11-19'
+- type: amended_by
+  target: pt:dre:599760:por
+  label: "Alterado o quadro de pessoal, pela PORT.7/87.1987.01.05.MF DR.IS [3]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/7-1987-599760
+  date: '1987-01-05'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:459070:por
+  label: Rectificado pela DECL.DD7652.03.12.1980.PCM, DR.IS [279] de 03.12.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-459070
+  date: '1980-12-03'
+- type: repealed_by
+  target: pt:dre:662573:por
+  label: "Revogado pelo DR.17/87.18.02.1987.MF, DR.IS [41] de 18.02.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/17-1987-662573
+  date: '1987-02-18'
 article_structure:
   article_count: 65
-  section_count: 29
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:45Z'
   warnings: []
   errors: []
 ---
@@ -162,25 +256,25 @@ A DGCP é constituída por serviços centrais operativos e de apoio e por servi�
 
 a) Direcção dos Serviços Gerais do Orçamento:
 
-##### Divisão do Orçamento Geral do Estado;
+Divisão do Orçamento Geral do Estado;
 
-##### Divisão dos Orçamentos Privativos;
+Divisão dos Orçamentos Privativos;
 
 b) Direcção dos Serviços Gerais da Conta:
 
 ##### Divisão das Receitas;
 
-##### Divisão das Despesas e Operações de Tesouraria.
+Divisão das Despesas e Operações de Tesouraria.
 
 2 - Os serviços centrais de apoio técnico e instrumental compreendem os seguintes órgãos e respectivas divisões ou repartições e secções:
 
 a) Direcção dos Serviços Gerais de Contabilidade:
 
-##### Divisão de Análises de Processos e Diplomas;
+Divisão de Análises de Processos e Diplomas;
 
-##### Divisão dos Serviços de Auditoria;
+Divisão dos Serviços de Auditoria;
 
-##### Divisão de sistemas de Contabilidade;
+Divisão de sistemas de Contabilidade;
 
 b) Direcção dos Serviços de Gestão de Recursos Humanos e de Organização;
 
@@ -188,13 +282,13 @@ c) Direcção dos Serviços Administrativos:
 
 Repartição de Administração Geral:
 
-#### Secção de Administração Financeira;
+Secção de Administração Financeira;
 
-#### Secção de Material, Arquivos e Reprografia;
+Secção de Material, Arquivos e Reprografia;
 
 Repartição de Administração do Pessoal:
 
-#### Secção de Movimentos do Pessoal;
+Secção de Movimentos do Pessoal;
 
 #### Secção de Registos;
 
@@ -1216,20 +1310,20 @@ De conformidade com o artigo 27.º do [Decreto-Lei n.º 499/79](https://diarioda
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva.
 
-**Promulgado em 19 de Setembro de 1980.**
+Promulgado em 19 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 QUADRO DO PESSOAL
 
 Mapa I a que se refere o artigo 21.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/22400/29622981.pdf))](https://files.diariodarepublica.pt/1s/1980/09/22400/29622981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/22400/29622981.pdf)
 
 CURSOS OBRIGATÓRIOS
 
 Mapa II a que se refere o n.º 1 do artigo 28.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/22400/29622981.pdf))](https://files.diariodarepublica.pt/1s/1980/09/22400/29622981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/22400/29622981.pdf)

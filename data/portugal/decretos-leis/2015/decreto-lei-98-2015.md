@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/10600/0347003493.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/98/2015/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4afb3bb9bde76bd7f79078725045ae441216d37a47d349c8b8e2c1b5705d57c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ef72bfdb0f1afb633d70b3ba975587bfbad38d1c586181523881c3061a62e7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,43 +66,55 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
+- Administração Pública
 - Agrupamento Complementar de Empresas
 - Agrupamento Europeu de Interesse Económico
 - Aproximação das Legislações
-- Empresa
-- Sociedade Comercial
+- Atividade Industrial
+- Autoridade de Supervisão de Seguros e Fundos de Pensões
+- Banco de Portugal
+- CMVM
 - Código das Sociedades Comerciais
-- Contabilidade
 - Comissão de Normalização Contabilística
-- Gestão Financeira
+- Contabilidade
+- Cooperativa
 - Definição de Competências
 - Directriz Contabilística
+- Empresa
 - Empresa Pública
-- Administração Pública
-- Cooperativa
-- Banco de Portugal
-- Pagamento
-- Liquidação de Pagamentos
-- Sistema de Normalização Contabilística
-- Normas Internacionais de Contabilidade
-- Plano Oficial de Contabilidade
-- Prestação de Contas
 - Exploração Florestal
-- Reembolso de Contribuições
+- Gestão Financeira
+- Liquidação de Pagamentos
 - Microempresa
+- Normalização
+- Normas Internacionais de Contabilidade
+- Pagamento
 - Pequenas e Médias Empresas
+- Plano Oficial de Contabilidade
 - PME
+- Prestação de Contas
+- Reembolso de Contribuições
 - Relatório
 - Relatório e Contas
-- CMVM
-- Normalização
-- Autoridade de Supervisão de Seguros e Fundos de Pensões
+- Sistema de Normalização Contabilística
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:176907512:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70262478:por
+  label: Alterado o art 3.º, com efeitos a 01.01.2017, do Dec Lei 158/2009, de 13-jul, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 192/2015 - Diário da República n.º 178/2015, Série I de 2015-09-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-2015-70262478
+  date: '2015-09-11'
+- type: amended_by
+  target: pt:dre:107773645:por
+  label: Alterado, o art. 451.º do Código das Sociedades Comerciais, na redação do presente diploma, pelo(a) Decreto-Lei n.º
+    89/2017 - Diário da República n.º 145/2017, Série I de 2017-07-28, nos termos do seu art. 5.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-2017-107773645
+  date: '2017-07-28'
 - type: cites
   target: celex:31978L0660
   label: null
@@ -171,6 +183,106 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:269402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649958:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32006L0043
   label: null
@@ -180,15 +292,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 54
+  article_count: 36
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:32Z'
   warnings: []
   errors: []
 ---
@@ -271,7 +383,9 @@ i) 'Volume de negócios líquido', o montante que resulta da venda dos produtos 
 
 2 - Para efeitos do disposto no presente decreto-lei, tratando-se de entidade para a qual o volume de negócios líquido, tal como definido na alínea i) do número anterior, não seja por si só significativo da atividade desenvolvida, o que se presume quando o volume de negócios líquido for inferior a 75 % do total dos rendimentos da entidade, devem-lhe ser adicionados ainda os rendimentos da entidade provenientes de outras fontes, desde que os mesmos resultem de transações realizadas com terceiros no âmbito da atividade operacional da entidade.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos artigos 4.º e 5.º, o SNC é obrigatoriamente aplicável às seguintes entidades:
 
@@ -293,7 +407,9 @@ g) Entidades do setor não lucrativo (ESNL), entendendo-se como tal as entidades
 
 3 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - As entidades, de entre as referidas no artigo anterior, cujos valores mobiliários estejam admitidos à negociação num mercado regulamentado devem, nos termos do artigo 4.º do [Regulamento (CE) n.º 1606/2002](https://data.europa.eu/eli/reg/2002/1606/oj?locale=pt), do Parlamento Europeu e do Conselho, de 19 de julho de 2002, elaborar as suas demonstrações financeiras consolidadas em conformidade com as normas internacionais de contabilidade adotadas nos termos do artigo 3.º do [Regulamento (CE) n.º 1606/2002](https://data.europa.eu/eli/reg/2002/1606/oj?locale=pt), do Parlamento Europeu e do Conselho, de 19 de julho de 2002.
 
@@ -311,7 +427,9 @@ g) Entidades do setor não lucrativo (ESNL), entendendo-se como tal as entidades
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -325,7 +443,9 @@ a) As normas contabilísticas aplicáveis às demonstrações financeiras indivi
 
 b) ...
 
-###### Artigo 6.º — Obrigatoriedade de elaborar demonstrações financeiras consolidadas
+Artigo 6.º
+
+Obrigatoriedade de elaborar demonstrações financeiras consolidadas
 
 1 - Qualquer empresa-mãe sujeita ao direito nacional é obrigada a elaborar demonstrações financeiras consolidadas do grupo constituído por ela própria e por todas as subsidiárias, independentemente do local onde esteja situada a sede estatutária destas, sobre as quais:
 
@@ -345,7 +465,9 @@ b) ...
 
 7 - Para efeitos do disposto no número anterior, a existência de controlo entre entidades deve ser analisada casuisticamente, em função das circunstâncias concretas, tomando por referência a condição de poder e a condição de resultado.
 
-###### Artigo 7.º — Dispensa da elaboração de demonstrações financeiras consolidadas
+Artigo 7.º
+
+Dispensa da elaboração de demonstrações financeiras consolidadas
 
 1 - Uma empresa-mãe de um pequeno grupo, tal como definido no artigo 9.º-B, fica dispensada de elaborar as demonstrações financeiras consolidadas.
 
@@ -377,7 +499,9 @@ b) A empresa-mãe, incluindo uma entidade de interesse público, em que todas as
 
 8 - À dispensa de elaboração de demonstrações financeiras consolidadas pelas entidades do setor não lucrativo aplica-se ainda o disposto nos n.os 2 a 6, com as necessárias adaptações.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -397,7 +521,9 @@ c) Se trate de um caso em que as informações necessárias para elaborar as dem
 
 6 - Nos casos previstos na alínea c) do n.º 3, a entidade excluída da consolidação deve estar em condições de comprovar os factos aí previstos, bem como a realização de diligências para a obtenção das informações aí referidas.
 
-###### Artigo 9.º — Categorias de entidades
+Artigo 9.º
+
+Categorias de entidades
 
 1 - Consideram-se microentidades aquelas que, de entre as referidas no artigo 3.º, à data do balanço, não ultrapassem dois dos três limites seguintes:
 
@@ -427,7 +553,9 @@ c) Número médio de empregados durante o período: 250.
 
 5 - Para efeitos do presente decreto-lei, as entidades de interesse público são consideradas grandes entidades, independentemente do respetivo volume de negócios líquido, do total do balanço ou do número médio de empregados do período.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Ficam dispensadas do disposto no artigo 3.º as pessoas singulares que, exercendo a título individual qualquer atividade comercial, industrial ou agrícola, não realizem na média dos últimos três anos um volume de negócios líquido superior a (euro) 200 000.
 
@@ -439,7 +567,9 @@ c) Número médio de empregados durante o período: 250.
 
 5 - Cessa a dispensa a que se referem os n.os 1 e 2 quando forem ultrapassados os limites neles referidos, ficando a entidade obrigada a partir do período seguinte, inclusive, a aplicar o SNC.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -477,7 +607,9 @@ c) Direitos e compromissos futuros.
 
 7 - As entidades públicas financiadoras podem exigir às entidades do setor não lucrativo outras informações, designadamente para efeitos de controlo orçamental, devendo o conteúdo e a extensão da informação exigida restringir-se ao estritamente necessário para os efeitos pretendidos com a sua obtenção.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -497,7 +629,9 @@ b) ...
 
 7 - Não obstante o disposto no número anterior, podem voltar a beneficiar das dispensas previstas na alínea d) do n.º 4 e no n.º 5 as atividades e as entidades neles referidas em relação às quais deixem de se verificar, durante dois períodos consecutivos, os requisitos estabelecidos para a concessão da dispensa, produzindo efeitos a partir do período seguinte ao termo daquele período.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A entidade sujeita ao SNC que não aplique qualquer das disposições constantes nas normas contabilísticas e ou de relato financeiro cuja aplicação lhe seja exigível e que distorça com tal prática as demonstrações financeiras individuais ou consolidadas que seja, por lei, obrigada a apresentar, é punida com coima de (euro) 1500 a (euro) 30 000.
 
@@ -529,7 +663,9 @@ a) Sempre que em dois períodos consecutivos imediatamente anteriores sejam ultr
 
 b) As entidades podem novamente ser consideradas nessa categoria, para efeitos do presente decreto-lei, caso deixem de ultrapassar dois dos três limites enunciados para a respetiva categoria nos dois períodos consecutivos imediatamente anteriores.
 
-###### Artigo 9.º-B — Pequenos grupos
+Artigo 9.º-B
+
+Pequenos grupos
 
 1 - Pequenos grupos são grupos constituídos pela empresa-mãe e pelas empresas subsidiárias a incluir na consolidação e que, em base consolidada e à data do balanço da empresa-mãe, não ultrapassem dois dos três limites seguintes:
 
@@ -547,17 +683,23 @@ b) Se não forem eliminados das demonstrações financeiras consolidadas as dív
 
 3 - Os limites previstos no presente artigo operam nos termos previstos no artigo anterior, com as devidas adaptações.
 
-###### Artigo 9.º-C — Pequenas entidades
+Artigo 9.º-C
+
+Pequenas entidades
 
 A 'norma contabilística e de relato financeiro para pequenas entidades' (NCRF-PE), compreendida no SNC, apenas pode ser adotada, em alternativa ao restante normativo, pelas entidades a que se refere o n.º 2 do artigo 9.º
 
-###### Artigo 9.º-D — Microentidades
+Artigo 9.º-D
+
+Microentidades
 
 1 - As entidades a que se refere o n.º 1 do artigo 9.º devem aplicar a 'norma Contabilística para Microentidades' (NC-ME), compreendida no SNC.
 
 2 - Sem prejuízo do disposto no número anterior, as entidades aí referidas podem optar pela aplicação das 'normas Contabilísticas e de Relato Financeiro' (NCRF) ou da NCRF-PE, devendo tal opção ser identificada na declaração a que se refere a alínea b) do n.º 1 do artigo 117.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas.
 
-###### Artigo 9.º-E — Entidades do setor não lucrativo
+Artigo 9.º-E
+
+Entidades do setor não lucrativo
 
 Às entidades do setor não lucrativo aplica-se a Norma contabilística e de relato financeiro para entidades do setor não lucrativo (NCRF-ESNL), podendo estas entidades optar pela aplicação do conjunto das normas contabilísticas e de relato financeiro compreendidas no SNC, com as necessárias adaptações, ou pela aplicação das normas internacionais de contabilidade adotadas nos termos do artigo 3.º do [Regulamento (CE) n.º 1606/2002](https://data.europa.eu/eli/reg/2002/1606/oj?locale=pt), do Parlamento Europeu e do Conselho, de 19 de julho de 2002, desde que observado o disposto no artigo 4.º.»
 
@@ -579,7 +721,9 @@ Os artigos 32.º, 66.º, 295.º e 451.º do Código das Sociedades Comerciais, a
 
 3 - Os rendimentos e outras variações patrimoniais positivas reconhecidos em consequência da utilização do método da equivalência patrimonial, nos termos das normas contabilísticas e de relato financeiro, apenas relevam para poderem ser distribuídos aos sócios, nos termos a que se refere o n.º 1, quando sejam realizados.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - ...
 
@@ -609,7 +753,9 @@ h) ...
 
 6 - Ficam dispensadas da obrigação de elaborar o relatório de gestão as microentidades, tal como definidas no n.º 1 do artigo 9.º do [Decreto-Lei n.º 158/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2009-492428), de 13 de julho, alterado pela [Lei n.º 20/2010](https://diariodarepublica.pt/dr/detalhe/lei/20-2010-343473), de 23 de agosto, pelo [Decreto-Lei n.º 36-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-a-2011-647296), de 9 de março, e pelas Leis n.os [66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), de 31 de dezembro, e [83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro, desde que procedam à divulgação, quando aplicável, no final do balanço, das informações mencionadas na alínea d) do n.º 5 do presente artigo.
 
-###### Artigo 295.º — [...]
+Artigo 295.º
+
+[...]
 
 1 - ...
 
@@ -627,7 +773,9 @@ d) Diferença entre o resultado atribuível às participações financeiras reco
 
 4 - ...
 
-###### Artigo 451.º — [...]
+Artigo 451.º
+
+[...]
 
 1 - ...
 
@@ -779,15 +927,15 @@ O disposto no presente decreto-lei é aplicável aos períodos que se iniciem em
 
 Visto e aprovado em Conselho de Ministros de 26 de março de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Paula Maria von Hafe Teixeira da Cruz.
 
-**Promulgado em 25 de maio de 2015.**
+Promulgado em 25 de maio de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de maio de 2015.**
+Referendado em 26 de maio de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 

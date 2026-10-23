@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/273/2001/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2001-621554
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:27:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b8b21737b58982b3dd6f9176ed79120d8bd2af9a1bc78e81f8b459d9c4dabaf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f1de52f882ffe1de3d6bf3ebc2945658e2c763eb5ecc152ec5467863d42bee5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:27:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,6 +78,77 @@ relationships:
   target: pt:dre:107061862:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:538423:por
+  label: Alterado o art 69.º do Código do Registo Civil, aprovado pelo Dec Lei 131/95, de 06-Jun, na redacção do presente
+    diploma, pelo DEC LEI.53/2004.18.03.2004.MJ, DR.IS-A [66] de 18.03.2004 a partir da entrada em vigor prevista no seu art.
+    13.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2004-538423
+  date: '2004-03-18'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: "Alterados os arts. 88º, 92º e 93º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86 de 03-Dez, na redacção\
+    \ do presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl] de 29.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:522813:por
+  label: "Alterado o art. 81º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.8/2007.17.01.2007.MJ, DR.IS [12] de 17.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2007-522813
+  date: '2007-01-17'
+- type: amended_by
+  target: pt:dre:642527:por
+  label: "Alterados, sem prejuízo do disposto nos arts. 24º e 25º, os artigos 47.º, 53º, 91.º, 92.º, 93.º, 224.º, 233.º, 241.º,\
+    \ 286.º e 292.º do Código do Registo Civil, aprovado pelo Dec Lei 131/95 de 06-Jun, na redacção do presente diploma, republicado\
+    \ em anexo com a redacção actual, pelo DEC LEI.324/2007.28.09.2007.MJ, DR.IS [188] de 28.09.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2007-642527
+  date: '2007-09-28'
+- type: amended_by
+  target: pt:dre:247448:por
+  label: "Alterado, a partir de 20.04.2009, o art. 93º-C, aditado pelo presente diploma ao Código do Registo Comercial, aprovado\
+    \ pelo Dec Lei 403/86, de 03-Dez, pelo DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterados os art.s 117º-B, 117º-C, 117º-D, 117º-E, 117º-F, 117º-G, 117º-H, 117º-I e 132º-C e revogados o nº 3 do\
+    \ art. 117º-D e os nºs 1, 4 e 5 do art. 117º-G do Código do Registo Predial aprovado pelo Dec Lei 224/84, de 06-Jul, na\
+    \ redacção do presente diploma, pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:487360:por
+  label: "Alterado o art. 69º do Código do Registo Civil, aprovado pelo Dec Lei 131/95, de 06-Jun, na redacção do presente\
+    \ diploma, pelo DEC LEI.247-B/2008.30.12.2008.MJ, DR.IS [251-Supl] de 30.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-b-2008-487360
+  date: '2008-12-30'
+- type: amended_by
+  target: pt:dre:489737:por
+  label: "Alterado, a partir do dia seguinte ao da publicação do diploma regulamentador da habilitação dos padrinhos, prevista\
+    \ no artigo 12.º, o art. 69º do Código do Registo Civil, aprovado pelo Dec Lei 131/95, de 06-Jun, na redacção do presente\
+    \ diploma, pela LEI.103/2009.11.09.2009.AR, DR.IS [177] de 11.09.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/103-2009-489737
+  date: '2009-09-11'
+- type: amended_by
+  target: pt:dre:278187:por
+  label: "Alterado o art. 69º do Código do Registo Civil, aprovado pelo Dec Lei 131/95, de 06-Jun, na redacção do presente\
+    \ diploma, pela LEI.7/2011.15.03.2011.AR, DR.IS [52] de 15.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-2011-278187
+  date: '2011-03-15'
+- type: amended_by
+  target: pt:dre:499550:por
+  label: "Alterados os arts. 117º-D, 117º-L, 123º, 126º, 131º, 132º e 132º-A do Código do Registo Predial aprovado pelo Dec\
+    \ Lei 224/84, de 06-jul, na redação do presente diploma, pelo DEC LEI.125/2013.30.08.2013.MJ, DR.IS [167] de 30.08.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2013-499550
+  date: '2013-08-30'
+- type: amended_by
+  target: pt:dre:70215247:por
+  label: Alterado (a partir de 07.12.2015) o art 69.º do Código do Registo Civil aprovado pelo Dec Lei 131/95 de 06-jun, na
+    redação do presente diploma, pelo(a) Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/143-2015-70215247
+  date: '2015-09-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/
   label: null
@@ -118,16 +189,302 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/84/1995/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/84/1995/08/31/p/dre
+- type: cites
+  target: pt:dre:145862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:203233:por
+  label: "Rectificado o art. 1.º [na parte em que confere nova redacção ao n.º 1 do art. 1653.º do Código Civil, aprovado\
+    \ pelo Dec Lei 47344, de 25-Nov 1966], o art. 2.º [na parte que confere nova redacção ao art. 69.º, ao art. 86.º, ao n.º\
+    \ 4 do art. 98.º e ao art. 116.º do Código do Registo Civil, aprovado pelo Dec Lei 131/95, de 06-Jun], o art. 4.º [na\
+    \ parte em que adita o n.º 6 do art. 117.º-F e o n.º 2 do art. 117.º-G ao Código do Registo Predial, aprovado pelo Dec\
+    \ Lei 224/84, de 06-Jul], o proémio do art. 5.º, bem como o mesmo art. 5.º [na parte em que confere nova redacção ao n.º\
+    \ 2 do art. 82.º, ao n.º 4 aditado ao art. 90.º e ao n.º 2 do art. 93.º do Código do Registo Comercial, aprovado pelo\
+    \ Dec Lei 403/86, de 03-Dez] e o art. 7.º do Dec Lei 273/2001 de 13-Out, DR.IS-A [238]pela DECL-RECT.20-AS/2001.2001.11.30.PCM,\
+    \ DR.IS-A [278]-3ºSupl. de 30/Nov/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/20-as-2001-203233
+  date: '2001-11-30'
+- type: repealed_by
+  target: pt:dre:247448:por
+  label: "Revogado, a partir de 20.04.2009, o art. 79º do Código do Notariado, aprovado pelo Dec Lei 207/95, de 14-Ago, alterado\
+    \ pelo presente diploma, pelo DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
 article_structure:
-  article_count: 99
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:27:41Z'
   warnings: []
   errors: []
 ---
@@ -174,13 +531,17 @@ Os artigos 1295.º, 1653.º, 1659.º e 1832.º do Código Civil, aprovado pelo [
 
 2 - A mera posse só é registada em vista de decisão final proferida em processo de justificação, nos termos da lei registral, na qual se reconheça que o possuidor tem possuído pacífica e publicamente por tempo não inferior a cinco anos.
 
-###### Artigo 1653.º — [...]
+Artigo 1653.º
+
+[...]
 
 1 - No processo destinado a suprir a omissão ou perda de registo de casamento presume-se a existência deste sempre que as pessoas vivam ou tenham vivido na posse do estado de casado.
 
 2 - ...
 
-###### Artigo 1659.º — [...]
+Artigo 1659.º
+
+[...]
 
 1 - ...
 
@@ -188,7 +549,9 @@ Os artigos 1295.º, 1653.º, 1659.º e 1832.º do Código Civil, aprovado pelo [
 
 3 - A falta do assento paroquial é suprível mediante processo a instaurar nos termos da lei registral civil.
 
-###### Artigo 1832.º — [...]
+Artigo 1832.º
+
+[...]
 
 1 - ...
 
@@ -216,7 +579,9 @@ Os artigos 47.º, 53.º, 69.º, 83.º, 84.º, 86.º, 89.º a 94.º, 98.º, 116.�
 
 3 - Ao conservador que exerça a advocacia é vedado aceitar mandato nos processos previstos nos artigos 253.º, 255.º, 261.º, 266.º e 271.º
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - ...
 
@@ -224,7 +589,9 @@ Os artigos 47.º, 53.º, 69.º, 83.º, 84.º, 86.º, 89.º a 94.º, 98.º, 116.�
 
 3 - ...
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - ...
 
@@ -254,7 +621,9 @@ m) ...
 
 n) ...
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1 - ...
 
@@ -268,15 +637,21 @@ d) ...
 
 2 - ...
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 A decisão que determine a realização do registo omitido fixa concreta e expressamente todos os elementos a levar ao registo, consoante os requisitos legais de cada espécie.
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 A inexistência do registo pode ser invocada a todo o tempo por quem nela tiver interesse, devendo o conservador promover, logo que dela tenha conhecimento, o competente processo ou o suprimento da assinatura em falta nas situações previstas no artigo 91.º, n.º 6.
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 A falsidade do título transcrito só pode consistir em:
 
@@ -286,11 +661,15 @@ b) ...
 
 c) Respeitar a facto que nunca existiu ou decisão que nunca foi proferida.
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 A nulidade do registo só pode ser invocada depois de declarada por decisão do conservador.
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - ...
 
@@ -318,7 +697,9 @@ f) ...
 
 7 - ...
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - O registo juridicamente inexistente, nulo ou irregular deve ser cancelado ou rectificado mediante processo de justificação ou por simples despacho do conservador.
 
@@ -328,7 +709,9 @@ f) ...
 
 4 - ...
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - A rectificação administrativa de um registo irregular é feita mediante simples despacho do conservador nos casos seguintes:
 
@@ -348,11 +731,15 @@ b) A rectificação do erro de que o registo enferma não corresponda a nenhuma 
 
 3 - Sempre que se mostre conveniente, devem ser ouvidos em auto os interessados.
 
-###### Artigo 94.º — [...]
+Artigo 94.º
+
+[...]
 
 O registo é rectificado mediante decisão proferida em processo de justificação judicial quando se suscitem dúvidas acerca da identidade das pessoas a quem o registo respeita.
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - ...
 
@@ -364,11 +751,15 @@ O registo é rectificado mediante decisão proferida em processo de justificaç�
 
 5 - ...
 
-###### Artigo 116.º — [...]
+Artigo 116.º
+
+[...]
 
 A remessa ao tribunal da certidão prevista no n.º 1 do artigo anterior tem igualmente lugar, se a maternidade não for mencionada no registo e sempre que dele seja eliminada.
 
-###### Artigo 119.º — [...]
+Artigo 119.º
+
+[...]
 
 1 - Se a mulher casada fizer a declaração do nascimento com a indicação de que o filho não é do marido, não é efectuada a menção da paternidade presumida, podendo, desde logo, ser aceite o reconhecimento voluntário da paternidade.
 
@@ -380,7 +771,9 @@ A remessa ao tribunal da certidão prevista no n.º 1 do artigo anterior tem igu
 
 5 - No auto mencionado no n.º 2 é lançada cota de referência da notificação.
 
-###### Artigo 121.º — [...]
+Artigo 121.º
+
+[...]
 
 1 - ...
 
@@ -388,17 +781,23 @@ A remessa ao tribunal da certidão prevista no n.º 1 do artigo anterior tem igu
 
 3 - ...
 
-###### Artigo 197.º — [...]
+Artigo 197.º
+
+[...]
 
 1 - Havendo indícios de morte violenta, suspeitas de crime, declarando o médico ignorar a causa da morte ou tendo o óbito ocorrido há mais de um ano, o funcionário do registo civil a quem o óbito seja declarado abstém-se de lavrar o assento ou o auto de declarações e comunica imediatamente o facto às autoridades judiciais ou policiais, a fim de estas promoverem a autópsia do cadáver e as demais diligências necessárias à averiguação da causa da morte e das circunstâncias em que esta tenha ocorrido.
 
 2 - ...
 
-###### Artigo 199.º — [...]
+Artigo 199.º
+
+[...]
 
 Só pode ser lavrado registo de óbito não comprovado por certificado médico ou por auto de verificação, independentemente da data e do lugar em que tenha ocorrido, mediante decisão resultante de processo de justificação administrativa.
 
-###### Artigo 224.º — [...]
+Artigo 224.º
+
+[...]
 
 1 - ...
 
@@ -412,7 +811,9 @@ Só pode ser lavrado registo de óbito não comprovado por certificado médico o
 
 6 - Para a instrução dos processos, o conservador pode recorrer à prova pericial, em termos análogos aos previstos no artigo 568.º do Código de Processo Civil, se o considerar necessário ou se tal lhe for requerido pelas partes.
 
-###### Artigo 225.º — [...]
+Artigo 225.º
+
+[...]
 
 1 - A citação e a notificação são efectuadas nos termos da lei processual civil.
 
@@ -422,7 +823,9 @@ Só pode ser lavrado registo de óbito não comprovado por certificado médico o
 
 4 - ...
 
-###### Artigo 233.º — [...]
+Artigo 233.º
+
+[...]
 
 1 - O processo de justificação judicial é aplicável à rectificação de registo irregular nos termos do artigo 94.º e às situações de óbito ocorrido nos termos dos n.os 2 e 3 do artigo 204.º e dos artigos 207.º e 208.º
 
@@ -430,7 +833,9 @@ Só pode ser lavrado registo de óbito não comprovado por certificado médico o
 
 3 - (Anterior n.º 4.)
 
-###### Artigo 235.º — [...]
+Artigo 235.º
+
+[...]
 
 1 - ...
 
@@ -438,7 +843,9 @@ Só pode ser lavrado registo de óbito não comprovado por certificado médico o
 
 3 - Sempre que haja lugar à citação edital, incumbe aos requerentes providenciar pela publicação dos anúncios, salvo se estes forem considerados dispensáveis.
 
-###### Artigo 239.º — [...]
+Artigo 239.º
+
+[...]
 
 1 - O juiz pode ordenar que o processo baixe à conservatória, a fim de se completar a instrução mediante as diligências que repute necessárias.
 
@@ -446,7 +853,9 @@ Só pode ser lavrado registo de óbito não comprovado por certificado médico o
 
 3 - ...
 
-###### Artigo 241.º — [...]
+Artigo 241.º
+
+[...]
 
 1 - Ao suprimento da omissão de registo, bem como à declaração da sua inexistência jurídica ou da sua nulidade, é aplicável o processo de justificação administrativa.
 
@@ -454,7 +863,9 @@ Só pode ser lavrado registo de óbito não comprovado por certificado médico o
 
 3 - O processo é instaurado com base em auto de notícia lavrado pelo conservador ou em requerimento do interessado.
 
-###### Artigo 242.º — [...]
+Artigo 242.º
+
+[...]
 
 1 - Em processo organizado com base em auto de notícia, o conservador expõe a natureza e a causa do vício ou da irregularidade do registo a sanar e procede à instrução dos autos por forma a esclarecer a sua existência, com recurso aos meios legais de prova que entenda necessários.
 
@@ -466,11 +877,15 @@ Só pode ser lavrado registo de óbito não comprovado por certificado médico o
 
 5 - Nos processos para suprimento da omissão de registo procede-se à afixação de editais, nos termos do artigo 235.º
 
-###### Artigo 243.º — [...]
+Artigo 243.º
+
+[...]
 
 Completada a instrução, o conservador profere despacho fundamentado quanto à matéria de facto e de direito, concluindo por ordenar ou recusar a realização do acto ou ainda por declarar a inexistência jurídica ou a nulidade do registo, consoante os casos.
 
-###### Artigo 274.º — [...]
+Artigo 274.º
+
+[...]
 
 1 - ...
 
@@ -480,7 +895,9 @@ Completada a instrução, o conservador profere despacho fundamentado quanto à 
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 286.º — [...]
+Artigo 286.º
+
+[...]
 
 1 - ...
 
@@ -494,7 +911,9 @@ Completada a instrução, o conservador profere despacho fundamentado quanto à 
 
 6 - ...
 
-###### Artigo 292.º — [...]
+Artigo 292.º
+
+[...]
 
 1 - Dos despachos proferidos pelo conservador nos termos dos artigos 144.º e 159.º, que sejam contrários à realização ou homologação do casamento, cabe recurso nos termos dos artigos anteriores.
 
@@ -514,7 +933,9 @@ Justificação relativa ao trato sucessivo
 
 3 - ...
 
-###### Artigo 118.º — Outros casos de justificação
+Artigo 118.º
+
+Outros casos de justificação
 
 1 - As disposições relativas à justificação para primeira inscrição são aplicáveis, com as devidas adaptações, ao cancelamento pedido pelo titular inscrito do registo de quaisquer ónus ou encargos, quando não seja possível obter documento comprovativo da respectiva extinção.
 
@@ -522,11 +943,15 @@ Justificação relativa ao trato sucessivo
 
 3 - São regulados pela legislação respectiva o processo de justificação para inscrição de direitos sobre os prédios abrangidos por emparcelamento e o processo de justificação administrativa para inscrição de direitos sobre imóveis a favor do Estado.
 
-###### Artigo 120.º — Processo de rectificação
+Artigo 120.º
+
+Processo de rectificação
 
 O processo previsto neste capítulo visa a rectificação dos registos e é regulado pelos artigos seguintes e, subsidiariamente e com as necessárias adaptações, pelo Código de Processo Civil.
 
-###### Artigo 121.º — Iniciativa
+Artigo 121.º
+
+Iniciativa
 
 1 - Os registos inexactos e os registos indevidamente lavrados devem ser rectificados por iniciativa do conservador logo que tome conhecimento da irregularidade, ou a pedido de qualquer interessado, ainda que não inscrito.
 
@@ -538,21 +963,29 @@ O processo previsto neste capítulo visa a rectificação dos registos e é regu
 
 5 - Os registos lançados em ficha distinta daquela em que deviam ter sido lavrados são oficiosamente transcritos na ficha que lhes corresponda, anotando-se ao registo errado a sua inutilização e a indicação da ficha em que foi transcrito.
 
-###### Artigo 122.º — Efeitos da rectificação
+Artigo 122.º
+
+Efeitos da rectificação
 
 A rectificação do registo não prejudica os direitos adquiridos a título oneroso por terceiros de boa-fé, se o registo dos factos correspondentes for anterior ao registo da rectificação ou da pendência do respectivo processo.
 
-###### Artigo 123.º — Requerimento inicial
+Artigo 123.º
+
+Requerimento inicial
 
 1 - O requerimento inicial é apresentado pelos interessados, não tem de ser articulado, é dirigido ao conservador e especifica a causa de pedir e a identidade das pessoas nele interessadas.
 
 2 - O requerimento é acompanhado da junção da prova documental e da indicação dos restantes meios de prova.
 
-###### Artigo 124.º — Consentimento dos interessados
+Artigo 124.º
+
+Consentimento dos interessados
 
 Se a rectificação tiver sido requerida por todos os interessados, o conservador rectifica o registo, sem necessidade de outra qualquer formalidade, quando considere, mediante despacho, em face dos documentos apresentados, verificados os pressupostos da rectificação pedida.
 
-###### Artigo 125.º — Casos de dispensa de consentimento dos interessados
+Artigo 125.º
+
+Casos de dispensa de consentimento dos interessados
 
 1 - A rectificação que não seja susceptível de prejudicar direitos dos titulares inscritos é efectuada, mesmo sem necessidade do seu consentimento, nos casos seguintes:
 
@@ -564,7 +997,9 @@ b) Sempre que, provindo a inexactidão de deficiência dos títulos, a rectifica
 
 3 - Presume-se que da rectificação não resulta prejuízo para a herança, se tal for declarado pelo respectivo cabeça-de-casal.
 
-###### Artigo 126.º — Averbamento de pendência da rectificação
+Artigo 126.º
+
+Averbamento de pendência da rectificação
 
 1 - Quando a rectificação não seja de efectuar nos termos dos artigos 124.º ou 125.º, é averbada ao respectivo registo a pendência da rectificação, com referência à anotação no Diário do requerimento inicial ou à data em que tiver sido levantado o auto de verificação da inexactidão, consoante os casos.
 
@@ -574,7 +1009,9 @@ b) Sempre que, provindo a inexactidão de deficiência dos títulos, a rectifica
 
 4 - O averbamento da pendência é oficiosamente cancelado mediante decisão definitiva que indefira a rectificação ou declare findo o processo.
 
-###### Artigo 127.º — Indeferimento liminar
+Artigo 127.º
+
+Indeferimento liminar
 
 1 - Sempre que o pedido se prefigure como manifestamente improcedente, o conservador indefere liminarmente o requerido, por despacho fundamentado de que notifica o requerente.
 
@@ -584,7 +1021,9 @@ b) Sempre que, provindo a inexactidão de deficiência dos títulos, a rectifica
 
 4 - Não sendo a decisão reparada, o processo é remetido ao tribunal depois de citados para os termos do recurso os interessados a que se refere o artigo 129.º, correndo então o prazo de 10 dias para impugnação dos fundamentos do recurso.
 
-###### Artigo 128.º — Emolumentos
+Artigo 128.º
+
+Emolumentos
 
 1 - Quando não haja motivo para indeferimento liminar, são os requerentes notificados para efectuarem o pagamento dos emolumentos que sejam devidos pela instrução e decisão do processo.
 
@@ -592,7 +1031,9 @@ b) Sempre que, provindo a inexactidão de deficiência dos títulos, a rectifica
 
 3 - Findo este último prazo sem que o pagamento se mostre efectuado, o conservador declara o processo findo e do respectivo despacho notifica os requerentes.
 
-###### Artigo 129.º — Citação
+Artigo 129.º
+
+Citação
 
 1 - No caso de haver interessados não requerentes, o conservador ordena a sua citação para, no prazo de 10 dias, deduzirem oposição à rectificação pretendida e efectuarem o oferecimento de prova.
 
@@ -604,7 +1045,9 @@ b) Sempre que, provindo a inexactidão de deficiência dos títulos, a rectifica
 
 5 - Se a citação pessoal não for possível em virtude de notória anomalia psíquica ou de outra incapacidade de facto do interessado, é o Ministério Público citado de imediato, aplicando-se o disposto no número anterior com as necessárias adaptações.
 
-###### Artigo 130.º — Instrução e decisão
+Artigo 130.º
+
+Instrução e decisão
 
 1 - Tendo sido requerida a produção de prova, o conservador ordena, no prazo de cinco dias, as diligências necessárias para a sua realização.
 
@@ -618,7 +1061,9 @@ b) Sempre que, provindo a inexactidão de deficiência dos títulos, a rectifica
 
 6 - A decisão sobre o pedido de rectificação é proferida pelo conservador no prazo de 10 dias.
 
-###### Artigo 131.º — Recurso para o tribunal de 1.ª instância
+Artigo 131.º
+
+Recurso para o tribunal de 1.ª instância
 
 1 - Qualquer interessado e o Ministério Público podem recorrer da decisão do conservador para o tribunal de 1.ª instância competente na área da circunscrição a que pertence a conservatória em que pende o processo.
 
@@ -628,7 +1073,9 @@ b) Sempre que, provindo a inexactidão de deficiência dos títulos, a rectifica
 
 4 - A interposição do recurso considera-se feita com a apresentação do mesmo na conservatória em que o processo foi objecto da decisão de que se recorre, sendo aquela anotada no Diário.
 
-###### Artigo 132.º — Decisão do recurso
+Artigo 132.º
+
+Decisão do recurso
 
 1 - Recebido o processo, o juiz ordena a notificação dos interessados para, no prazo de 10 dias, impugnarem os fundamentos do recurso.
 
@@ -646,7 +1093,9 @@ Restrições à admissibilidade da justificação
 
 2 - Além do pretenso titular do direito, tem legitimidade para pedir a justificação quem demonstre ter legítimo interesse no registo do respectivo facto aquisitivo, incluindo, designadamente, os credores do titular do direito justificando.
 
-###### Artigo 117.º-B — Requerimento inicial
+Artigo 117.º-B
+
+Requerimento inicial
 
 1 - O processo inicia-se com a apresentação de requerimento dirigido ao conservador competente, em razão do território, para efectuar o registo ou registos em causa.
 
@@ -662,7 +1111,9 @@ c) As circunstâncias em que baseia a aquisição originária, bem como as trans
 
 4 - O prédio objecto do direito justificando deve ser identificado no requerimento nos termos exigidos na alínea b) do n.º 1 do artigo 44.º
 
-###### Artigo 117.º-C — Meios de prova
+Artigo 117.º-C
+
+Meios de prova
 
 Com o requerimento são oferecidas as testemunhas até ao máximo de cinco e apresentados, para além de outros que eventualmente se mostrem necessários para a verificação dos pressupostos da procedência do pedido, os seguintes documentos:
 
@@ -672,7 +1123,9 @@ b) Documentos comprovativos das transmissões anteriores e subsequentes ao facto
 
 c) Certidão comprovativa do facto de estarem pagos ou assegurados os impostos da sisa ou sobre as sucessões e doações referentes às transmissões que não constem da matriz, sem prejuízo do disposto no artigo 117.º
 
-###### Artigo 117.º-D — Apresentação
+Artigo 117.º-D
+
+Apresentação
 
 1 - O processo de justificação considera-se instaurado no momento da apresentação do requerimento inicial e dos documentos na conservatória competente, a qual é anotada no Diário.
 
@@ -680,7 +1133,9 @@ c) Certidão comprovativa do facto de estarem pagos ou assegurados os impostos d
 
 3 - O despacho é susceptível de recurso pelos interessados nos termos previstos no artigo 117.º-I, com as necessárias adaptações.
 
-###### Artigo 117.º-E — Averbamento de pendência da justificação
+Artigo 117.º-E
+
+Averbamento de pendência da justificação
 
 1 - Efectuada a apresentação, o conservador lavra oficiosamente averbamento da pendência da justificação, reportando-se a este momento os efeitos dos registos que venham a ser lavrados na sequência da justificação.
 
@@ -692,7 +1147,9 @@ c) Certidão comprovativa do facto de estarem pagos ou assegurados os impostos d
 
 5 - O averbamento de pendência é oficiosamente cancelado mediante a decisão que indefira o pedido de justificação ou declare findo o processo, logo que tal decisão se torne definitiva.
 
-###### Artigo 117.º-F — Indeferimento liminar
+Artigo 117.º-F
+
+Indeferimento liminar
 
 1 - Sempre que o pedido se prefigure como manifestamente improcedente, o conservador indefere liminarmente o requerido, por despacho fundamentado de que notifica o requerente.
 
@@ -706,7 +1163,9 @@ c) Certidão comprovativa do facto de estarem pagos ou assegurados os impostos d
 
 6 - Sendo apresentada oposição ao pedido de justificação, o processo é declarado findo nos termos do n.º 1 do artigo 117.º-H; não sendo deduzida oposição, o processo é remetido ao tribunal para decisão do recurso.
 
-###### Artigo 117.º-G — Citação
+Artigo 117.º-G
+
+Citação
 
 1 - Para os termos do processo são citados o Ministério Público, na pessoa do seu agente junto do tribunal de 1.ª instância competente na área da circunscrição a que pertence a conservatória, e os interessados incertos.
 
@@ -718,7 +1177,9 @@ c) Certidão comprovativa do facto de estarem pagos ou assegurados os impostos d
 
 5 - Se a citação pessoal não for possível em virtude de notória anomalia psíquica ou de outra incapacidade de facto do interessado, é o Ministério Público citado de imediato, aplicando-se o disposto no número anterior com as necessárias adaptações.
 
-###### Artigo 117.º-H — Instrução e decisão
+Artigo 117.º-H
+
+Instrução e decisão
 
 1 - O Ministério Público e os interessados podem deduzir oposição nos 10 dias subsequentes ao termo do prazo dos editais, oferecendo as testemunhas e apresentando os restantes meios de prova.
 
@@ -732,7 +1193,9 @@ c) Certidão comprovativa do facto de estarem pagos ou assegurados os impostos d
 
 6 - Tornando-se a decisão definitiva, o conservador lavra oficiosamente os consequentes registos.
 
-###### Artigo 117.º-I — Recurso para o tribunal de 1.ª instância
+Artigo 117.º-I
+
+Recurso para o tribunal de 1.ª instância
 
 1 - O Ministério Público e qualquer interessado podem recorrer da decisão do conservador para o tribunal de 1.ª instância competente na área da circunscrição a que pertence a conservatória onde pende o processo.
 
@@ -742,13 +1205,17 @@ c) Certidão comprovativa do facto de estarem pagos ou assegurados os impostos d
 
 4 - A interposição do recurso considera-se feita com a apresentação do mesmo na conservatória em que o processo se encontra pendente, a qual é anotada no Diário, sendo de seguida o processo remetido ao tribunal competente.
 
-###### Artigo 117.º-J — Decisão do recurso
+Artigo 117.º-J
+
+Decisão do recurso
 
 1 - Recebido o processo, são notificados os interessados para, no prazo de 10 dias, impugnarem os fundamentos do recurso.
 
 2 - Não havendo lugar a qualquer notificação ou findo o prazo a que se refere o número anterior, vai o processo com vista ao Ministério Público.
 
-###### Artigo 117.º-L — Recurso para o tribunal da Relação
+Artigo 117.º-L
+
+Recurso para o tribunal da Relação
 
 1 - Da sentença proferida no tribunal de 1.ª instância podem interpor recurso para o tribunal da Relação os interessados e o Ministério Público.
 
@@ -756,23 +1223,33 @@ c) Certidão comprovativa do facto de estarem pagos ou assegurados os impostos d
 
 3 - Do acórdão do tribunal da Relação não cabe recurso para o Supremo Tribunal de Justiça, sem prejuízo dos casos em que o recurso é sempre admissível.
 
-###### Artigo 117.º-M — Devolução do processo
+Artigo 117.º-M
+
+Devolução do processo
 
 Após o trânsito em julgado da sentença ou do acórdão proferidos, o tribunal devolve à conservatória o processo de justificação.
 
-###### Artigo 117.º-N — Nova justificação
+Artigo 117.º-N
+
+Nova justificação
 
 Não procedendo a justificação por falta de provas, pode o justificante deduzir nova justificação.
 
-###### Artigo 117.º-O — Incompatibilidades
+Artigo 117.º-O
+
+Incompatibilidades
 
 Ao conservador que exerça advocacia é vedada a aceitação do patrocínio nos processos previstos no presente capítulo.
 
-###### Artigo 117.º-P — Direito subsidiário
+Artigo 117.º-P
+
+Direito subsidiário
 
 O Código de Processo Civil é aplicável, subsidiariamente e com as necessárias adaptações, ao processo de justificação previsto neste capítulo.
 
-###### Artigo 132.º-A — Recurso para o tribunal da Relação
+Artigo 132.º-A
+
+Recurso para o tribunal da Relação
 
 1 - Da sentença proferida pelo tribunal de 1.ª instância podem interpor recurso para o tribunal da Relação os interessados, o conservador e o Ministério Público.
 
@@ -780,17 +1257,23 @@ O Código de Processo Civil é aplicável, subsidiariamente e com as necessária
 
 3 - Do acórdão do tribunal da Relação não cabe recurso para o Supremo Tribunal de Justiça, sem prejuízo dos casos em que o recurso é sempre admissível.
 
-###### Artigo 132.º-B — Devolução do processo
+Artigo 132.º-B
+
+Devolução do processo
 
 Após o trânsito em julgado da sentença ou do acórdão proferidos, o tribunal devolve à conservatória o processo de rectificação.
 
-###### Artigo 132.º-C — Gratuitidade do registo e custas
+Artigo 132.º-C
+
+Gratuitidade do registo e custas
 
 1 - O registo da rectificação é gratuito, salvo se se tratar de inexactidão proveniente de deficiência dos títulos.
 
 2 - O conservador está isento de custas, salvo se tiver agido com dolo.
 
-###### Artigo 132.º-D — Incompatibilidades
+Artigo 132.º-D
+
+Incompatibilidades
 
 Ao conservador que exerça advocacia é vedada a aceitação do patrocínio nos processos previstos no presente capítulo.»
 
@@ -808,11 +1291,15 @@ Os artigos 79.º e 81.º a 93.º do Código do Registo Comercial, aprovado pelo 
 
 3 - ...
 
-###### Artigo 81.º — Processo especial de rectificação
+Artigo 81.º
+
+Processo especial de rectificação
 
 O processo previsto neste capítulo visa a rectificação dos registos e é regulado pelos artigos seguintes e, subsidiariamente e com as necessárias adaptações, pelo Código de Processo Civil.
 
-###### Artigo 82.º — Iniciativa
+Artigo 82.º
+
+Iniciativa
 
 1 - Os registos inexactos e os registos indevidamente lavrados devem ser rectificados por iniciativa do conservador, logo que tome conhecimento da irregularidade, ou a pedido de qualquer interessado, ainda que não inscrito.
 
@@ -824,21 +1311,29 @@ O processo previsto neste capítulo visa a rectificação dos registos e é regu
 
 5 - Os registos lançados em ficha distinta daquela em que deviam ter sido lavrados são oficiosamente transcritos na ficha que lhes corresponda, anotando-se ao registo errado a sua inutilização e a indicação da ficha em que foi transcrito.
 
-###### Artigo 83.º — Efeitos da rectificação
+Artigo 83.º
+
+Efeitos da rectificação
 
 A rectificação do registo não prejudica os direitos adquiridos a título oneroso por terceiros de boa-fé, se o registo dos factos correspondentes for anterior ao registo da rectificação ou da pendência do respectivo processo.
 
-###### Artigo 84.º — Requerimento inicial
+Artigo 84.º
+
+Requerimento inicial
 
 1 - O requerimento inicial é apresentado pelos interessados, não tem de ser articulado, é dirigido ao conservador e especifica a causa de pedir e a identidade das pessoas nele interessadas.
 
 2 - O requerimento é acompanhado da junção da prova documental e da indicação dos restantes meios de prova.
 
-###### Artigo 85.º — Consentimento dos interessados
+Artigo 85.º
+
+Consentimento dos interessados
 
 Se a rectificação tiver sido requerida por todos os interessados, o conservador rectifica o registo, sem necessidade de outra qualquer formalidade, quando considere, mediante despacho, em face dos documentos apresentados, verificados os pressupostos da rectificação pedida.
 
-###### Artigo 86.º — Casos de dispensa de consentimento dos interessados
+Artigo 86.º
+
+Casos de dispensa de consentimento dos interessados
 
 1 - A rectificação que não seja susceptível de prejudicar direitos dos titulares inscritos é efectuada, mesmo sem necessidade do seu consentimento, nos casos seguintes:
 
@@ -850,7 +1345,9 @@ b) Sempre que, provindo a inexactidão de deficiência dos títulos, a rectifica
 
 3 - Presume-se que da rectificação não resulta prejuízo para a herança se tal for declarado pelo respectivo cabeça-de-casal.
 
-###### Artigo 87.º — Averbamento de pendência da rectificação
+Artigo 87.º
+
+Averbamento de pendência da rectificação
 
 1 - Quando a rectificação não seja de efectuar nos termos dos artigos 85.º ou 86.º, é averbada ao respectivo registo a pendência da rectificação, com referência à anotação no Diário do requerimento inicial ou à data em que tiver sido levantado o auto de verificação da inexactidão, consoante os casos.
 
@@ -860,7 +1357,9 @@ b) Sempre que, provindo a inexactidão de deficiência dos títulos, a rectifica
 
 4 - O averbamento da pendência é oficiosamente cancelado mediante decisão definitiva que indefira a rectificação ou declare findo o processo.
 
-###### Artigo 88.º — Indeferimento liminar
+Artigo 88.º
+
+Indeferimento liminar
 
 1 - Sempre que o pedido se prefigure como manifestamente improcedente, o conservador indefere liminarmente o requerido, por despacho fundamentado de que notifica o requerente.
 
@@ -870,7 +1369,9 @@ b) Sempre que, provindo a inexactidão de deficiência dos títulos, a rectifica
 
 4 - Não sendo a decisão reparada, o processo é remetido ao tribunal depois de citados para os termos do recurso os interessados a que se refere o artigo 90.º, correndo então o prazo de 10 dias para impugnação dos fundamentos do recurso.
 
-###### Artigo 89.º — Emolumentos
+Artigo 89.º
+
+Emolumentos
 
 1 - Quando não haja motivo para indeferimento liminar, são os requerentes notificados para efectuarem o pagamento dos emolumentos que sejam devidos pela instrução e decisão do processo.
 
@@ -878,7 +1379,9 @@ b) Sempre que, provindo a inexactidão de deficiência dos títulos, a rectifica
 
 3 - Findo este último prazo sem que o pagamento se mostre efectuado, o conservador declara o processo findo e do respectivo despacho notifica os requerentes.
 
-###### Artigo 90.º — Citação
+Artigo 90.º
+
+Citação
 
 1 - No caso de haver interessados não requerentes, o conservador ordena a sua citação para, no prazo de 10 dias, deduzirem oposição à rectificação pretendida e efectuarem o oferecimento de prova.
 
@@ -890,7 +1393,9 @@ b) Sempre que, provindo a inexactidão de deficiência dos títulos, a rectifica
 
 5 - Se a citação pessoal não for possível em virtude de notória anomalia psíquica ou de outra incapacidade de facto do interessado, é o Ministério Público citado de imediato, aplicando-se o disposto no número anterior com as necessárias adaptações.
 
-###### Artigo 91.º — Instrução e decisão
+Artigo 91.º
+
+Instrução e decisão
 
 1 - Tendo sido requerida a produção de prova, o conservador ordena, no prazo de cinco dias, as diligências necessárias para a sua realização.
 
@@ -904,7 +1409,9 @@ b) Sempre que, provindo a inexactidão de deficiência dos títulos, a rectifica
 
 6 - A decisão sobre o pedido de rectificação é proferida pelo conservador no prazo de 10 dias.
 
-###### Artigo 92.º — Recurso para o tribunal de 1.ª instância
+Artigo 92.º
+
+Recurso para o tribunal de 1.ª instância
 
 1 - Qualquer interessado e o Ministério Público podem recorrer da decisão do conservador para o tribunal de 1.ª instância competente na área da circunscrição a que pertence a conservatória onde pende o processo.
 
@@ -914,7 +1421,9 @@ b) Sempre que, provindo a inexactidão de deficiência dos títulos, a rectifica
 
 4 - A interposição do recurso considera-se feita com a apresentação do mesmo na conservatória em que o processo foi objecto da decisão de que se recorre, sendo aquela anotada no Diário.
 
-###### Artigo 93.º — Decisão do recurso
+Artigo 93.º
+
+Decisão do recurso
 
 1 - Recebido o processo, o juiz ordena a notificação dos interessados para, no prazo de 10 dias, impugnarem os fundamentos do recurso.
 
@@ -934,17 +1443,23 @@ Recurso para o tribunal da Relação
 
 3 - Do acórdão do tribunal da Relação não cabe recurso para o Supremo Tribunal de Justiça, sem prejuízo dos casos em que o recurso é sempre admissível.
 
-###### Artigo 93.º-B — Devolução do processo
+Artigo 93.º-B
+
+Devolução do processo
 
 Após o trânsito em julgado da sentença ou do acórdão proferidos, o tribunal devolve à conservatória o processo de rectificação.
 
-###### Artigo 93.º-C — Gratuitidade do registo e custas
+Artigo 93.º-C
+
+Gratuitidade do registo e custas
 
 1 - O registo da rectificação é gratuito, salvo se se tratar de inexactidão proveniente de deficiência dos títulos.
 
 2 - O conservador está isento de custas, salvo se tiver agido com dolo.
 
-###### Artigo 93.º-D — Incompatibilidades
+Artigo 93.º-D
+
+Incompatibilidades
 
 Ao conservador que exerça advocacia é vedada a aceitação do patrocínio nos processos de rectificação previstos no presente capítulo.»
 
@@ -970,7 +1485,9 @@ d) ...
 
 e) Se o notário cuja assinatura está em falta declarar expressamente, através de documento autêntico, que esteve presente no acto e que, na sua realização, foram cumpridas todas as formalidades legais.
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - ...
 
@@ -984,7 +1501,9 @@ b) ...
 
 c) ...
 
-###### Artigo 73.º — Casos de revalidação notarial
+Artigo 73.º
+
+Casos de revalidação notarial
 
 O acto nulo, por violação das regras de competência territorial ou por falta de qualquer dos requisitos previstos nas alíneas b) a f) do n.º 1 do artigo 70.º, que não seja susceptível de sanação nos termos dos artigos precedentes, pode ser revalidado a pedido dos interessados, por decisão do notário que exerça funções no cartório notarial em que o acto foi lavrado, quando:
 
@@ -1000,17 +1519,23 @@ e) ...
 
 f) ...
 
-###### Artigo 74.º — Formulação do pedido
+Artigo 74.º
+
+Formulação do pedido
 
 O pedido de revalidação pode ser apresentado por qualquer interessado e é dirigido ao notário competente para o efeito.
 
-###### Artigo 75.º — Conteúdo do pedido
+Artigo 75.º
+
+Conteúdo do pedido
 
 1 - O pedido especifica o acto a sanar, o objecto da sanação, as circunstâncias subjacentes em que a mesma se fundamenta e a identidade das pessoas nele interessadas.
 
 2 - O pedido é acompanhado da junção da prova documental e da indicação dos restantes meios de prova.
 
-###### Artigo 76.º — Notificação e audição dos interessados
+Artigo 76.º
+
+Notificação e audição dos interessados
 
 1 - O notário ordena a notificação dos interessados para, no prazo de 10 dias, deduzirem oposição e oferecerem os meios de prova.
 
@@ -1018,13 +1543,17 @@ O pedido de revalidação pode ser apresentado por qualquer interessado e é dir
 
 3 - Se considerar que a prova apresentada não é suficiente e for indicada prova testemunhal, o notário procede à inquirição das testemunhas, cujo depoimento é reduzido a escrito, após a qual decide.
 
-###### Artigo 77.º — Execução e averbamento da decisão
+Artigo 77.º
+
+Execução e averbamento da decisão
 
 1 - Depois de proferida a decisão e após a notificação desta aos interessados, a respectiva execução é sustada pelo prazo de 10 dias, durante o qual qualquer das partes pode interpor recurso.
 
 2 - Não sendo interposto recurso durante o prazo referido no número anterior, o notário procede à execução da decisão e averba-a ao acto revalidado.
 
-###### Artigo 78.º — Recurso
+Artigo 78.º
+
+Recurso
 
 1 - Qualquer interessado pode recorrer da decisão do notário para o tribunal de 1.ª instância competente na área da circunscrição a que pertence o cartório em que o processo se encontra pendente.
 
@@ -1032,17 +1561,23 @@ O pedido de revalidação pode ser apresentado por qualquer interessado e é dir
 
 3 - Caso a decisão do juiz não coincida com a decisão recorrida, o notário, qualquer interessado e o Ministério Público podem recorrer da sentença proferida para o tribunal da Relação.
 
-###### Artigo 79.º — Isenções
+Artigo 79.º
+
+Isenções
 
 Os recursos interpostos estão isentos de custas, quando os recorrentes sejam o próprio notário ou o Ministério Público.
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - A justificação de direitos que, nos termos da lei fiscal, devam constar da matriz, só é admissível em relação aos direitos nela inscritos.
 
 2 - Além do pretenso titular do direito, tem legitimidade para outorgar como justificante quem demonstre ter legítimo interesse no registo do respectivo facto aquisitivo, incluindo, designadamente, os credores do titular do direito justificando.
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - No caso de reatamento do trato sucessivo ou de estabelecimento de novo trato, quando se verificar a falta de título em que tenha intervindo o titular inscrito, a escritura não pode ser lavrada sem a sua prévia notificação, efectuada pelo notário, a requerimento, escrito ou verbal, do interessado na escritura.
 
@@ -1064,7 +1599,9 @@ Os recursos interpostos estão isentos de custas, quando os recorrentes sejam o 
 
 10 - Da escritura deve constar a menção de que a notificação foi efectuada.
 
-###### Artigo 131.º — Factos a averbar
+Artigo 131.º
+
+Factos a averbar
 
 1 - São averbados aos instrumentos a que respeitam:
 
@@ -1102,12 +1639,12 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 2002, não se aplicando
 
 Visto e aprovado em Conselho de Ministros de 30 de Agosto de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Eduardo Arménio do Nascimento Cabrita.
 
-**Promulgado em 27 de Setembro de 2001.**
+Promulgado em 27 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Outubro de 2001.**
+Referendado em 4 de Outubro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

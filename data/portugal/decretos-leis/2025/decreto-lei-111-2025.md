@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/10/19500/0000300005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/111/2025/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2025-938923390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af6626559c44a768b15e6c869f419af50f65569021ec39e7c8606eafa56f7cd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a1e789bf799ec2de1485612bbd0a37414a65c5e1a1380665580e0abe333e4d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ensino Básico
 - Ensino Secundário
 - Manual Escolar
-- Ensino Básico
 relationships:
+- type: amends
+  target: pt:numero:lei:47/2006
+  label: Altera, a partir de 10 de outubro de 2025, com efeitos desde o início do ano letivo de 2025-2026, o artigo 5.º da
+    Lei n.º 47/2006, de 28 de agosto, Diário da República n.º 165/2006, Série I
+  source: null
+  date: '2006-08-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13-a/2025/03/10/p/dre
   label: null
@@ -90,16 +96,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/96/2019/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/96/2019/09/04/p/dre
+- type: cites
+  target: pt:dre:108001408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124417109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:910323298:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:52Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +136,7 @@ de 9 de outubro
 
 A gratuitidade dos manuais escolares representa uma das medidas estruturantes de apoio à escolaridade obrigatória e uma expressão concreta do compromisso do XXV Governo Constitucional com a igualdade de oportunidades no acesso à educação, em consonância com o disposto no n.º 1 do artigo 74.º da Constituição.
 
-A [Lei n.º 47/2006](https://diariodarepublica.pt/dr/detalhe/lei/47-2006-540784), de 28 de agosto, alterada pelas Leis n.<sup>os</sup>[72/2017](https://diariodarepublica.pt/dr/detalhe/lei/72-2017-108001408), de 16 de agosto, e [96/2019](https://diariodarepublica.pt/dr/detalhe/lei/96-2019-124417109), de 4 de setembro, e pelo [Decreto-Lei n.º 9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), de 29 de janeiro, define o regime de avaliação, certificação e adoção dos manuais escolares do ensino básico e do ensino secundário, bem como os princípios e objetivos a que deve obedecer o apoio socioeducativo relativamente à aquisição e ao empréstimo de manuais escolares, fixando, no n.º 4 do seu artigo 5.º, as regras essenciais respeitantes à devolução dos manuais escolares por parte dos alunos do 1.º, do 2.º e do 3.º ciclos do ensino básico, do ensino secundário e do ensino profissional.
+A [Lei n.º 47/2006](https://diariodarepublica.pt/dr/detalhe/lei/47-2006-540784), de 28 de agosto, alterada pelas Leis n.os[72/2017](https://diariodarepublica.pt/dr/detalhe/lei/72-2017-108001408), de 16 de agosto, e [96/2019](https://diariodarepublica.pt/dr/detalhe/lei/96-2019-124417109), de 4 de setembro, e pelo [Decreto-Lei n.º 9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), de 29 de janeiro, define o regime de avaliação, certificação e adoção dos manuais escolares do ensino básico e do ensino secundário, bem como os princípios e objetivos a que deve obedecer o apoio socioeducativo relativamente à aquisição e ao empréstimo de manuais escolares, fixando, no n.º 4 do seu artigo 5.º, as regras essenciais respeitantes à devolução dos manuais escolares por parte dos alunos do 1.º, do 2.º e do 3.º ciclos do ensino básico, do ensino secundário e do ensino profissional.
 
 O artigo 75.º do [Decreto-Lei n.º 13-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), de 10 de março, que estabelece as normas de execução do Orçamento do Estado para 2025, prevê que, no início do ano letivo, é garantido a todos os alunos que frequentam a escolaridade obrigatória na rede pública do Ministério da Educação, Ciência e Inovação o acesso gratuito a manuais escolares em suporte digital ou em suporte físico, neste último caso complementados por licenças digitais, sendo a disponibilização aos alunos dos manuais escolares em suporte físico condicionada ao cumprimento dos deveres de devolução e de reutilização, quando estas devam ter lugar.
 
@@ -130,7 +156,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à quarta alteração à [Lei n.º 47/2006](https://diariodarepublica.pt/dr/detalhe/lei/47-2006-540784), de 28 de agosto, alterada pelas Leis n.<sup>os</sup>[72/2017](https://diariodarepublica.pt/dr/detalhe/lei/72-2017-108001408), de 16 de agosto, e [96/2019](https://diariodarepublica.pt/dr/detalhe/lei/96-2019-124417109), de 4 de setembro, e pelo [Decreto-Lei n.º 9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), de 29 de janeiro, que define o regime de avaliação, certificação e adoção dos manuais escolares do ensino básico e do ensino secundário, bem como os princípios e objetivos a que deve obedecer o apoio socioeducativo relativamente à aquisição e ao empréstimo de manuais escolares, isentando os alunos do 1.º ciclo do ensino básico da obrigação de devolução ao Estado dos manuais escolares em suporte físico fornecidos gratuitamente.
+O presente decreto-lei procede à quarta alteração à [Lei n.º 47/2006](https://diariodarepublica.pt/dr/detalhe/lei/47-2006-540784), de 28 de agosto, alterada pelas Leis n.os[72/2017](https://diariodarepublica.pt/dr/detalhe/lei/72-2017-108001408), de 16 de agosto, e [96/2019](https://diariodarepublica.pt/dr/detalhe/lei/96-2019-124417109), de 4 de setembro, e pelo [Decreto-Lei n.º 9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), de 29 de janeiro, que define o regime de avaliação, certificação e adoção dos manuais escolares do ensino básico e do ensino secundário, bem como os princípios e objetivos a que deve obedecer o apoio socioeducativo relativamente à aquisição e ao empréstimo de manuais escolares, isentando os alunos do 1.º ciclo do ensino básico da obrigação de devolução ao Estado dos manuais escolares em suporte físico fornecidos gratuitamente.
 
 ###### Artigo 2.º — Alteração à [Lei n.º 47/2006](https://diariodarepublica.pt/dr/detalhe/lei/47-2006-540784), de 28 de agosto
 
@@ -172,12 +198,14 @@ e) Os alunos do ensino profissional devolvem os manuais escolares em suporte fí
 
 Visto e aprovado em Conselho de Ministros de 25 de setembro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Fernando Alexandre.
 
-**Promulgado em 3 de outubro de 2025.**
+Promulgado em 3 de outubro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de outubro de 2025.**
+Referendado em 6 de outubro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119626806

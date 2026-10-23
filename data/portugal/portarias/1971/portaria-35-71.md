@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/35-1971-446727
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c01a7ac9f3c09959186ee318dc4704be631bb9d3d68bc0f26f74a717afde2285
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abebbb167ce8ee8c518e8db515dcd8db4de697d0246eace097d9c536df9bf53a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:185743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653087:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:48Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +96,9 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado das Comunic
 
 Regulamento de Fardamentos do Pessoal do Aeroporto de Lisboa
 
-###### Artigo 1.º O pessoal do Aeroporto de Lisboa, especificadamente mencionado neste Regulamento, usará fardamento dos modelos a seguir descritos, quando em serviço.
+Artigo 1.º O pessoal do Aeroporto de Lisboa, especificadamente mencionado neste Regulamento, usará fardamento dos modelos a seguir descritos, quando em serviço.
 
-###### Art. 2.º Os artigos que constituem os fardamentos são os seguintes:
+Art. 2.º Os artigos que constituem os fardamentos são os seguintes:
 
 1) Farda A (fig. 1), destinada a:
 
@@ -278,26 +286,26 @@ Oficiais de tráfego e movimento de 3.ª classe - um galão.
 
 Nas restantes especialidades a distinção de classes é indicada no distintivo (fig. 9).
 
-###### Art. 3.º Aos funcionários do Aeroporto de Lisboa, a quem tenham sido distribuídos fardamentos, é proibido o seu uso fora de serviço.
+Art. 3.º Aos funcionários do Aeroporto de Lisboa, a quem tenham sido distribuídos fardamentos, é proibido o seu uso fora de serviço.
 
-###### Art. 4.º O encargo da distribuição de fardamento ao pessoal pertence ao Aeroporto de Lisboa.
+Art. 4.º O encargo da distribuição de fardamento ao pessoal pertence ao Aeroporto de Lisboa.
 
-###### Art. 5.º Aos fardamentos a que se refere este Regulamento é atribuída a duração conforme a tabela anexa, ficando os funcionários responsáveis pela sua inutilização, quando se verifique antes daquele prazo.
+Art. 5.º Aos fardamentos a que se refere este Regulamento é atribuída a duração conforme a tabela anexa, ficando os funcionários responsáveis pela sua inutilização, quando se verifique antes daquele prazo.
 
-###### Art. 6.º O tipo de fardamento a usar de Verão ou de Inverno será determinado pela direcção do Aeroporto, conforme as condições climáticas das quadras do ano e as conveniências impostas pelo serviço.
+Art. 6.º O tipo de fardamento a usar de Verão ou de Inverno será determinado pela direcção do Aeroporto, conforme as condições climáticas das quadras do ano e as conveniências impostas pelo serviço.
 
-###### Art. 7.º Os artigos de resguardos descritos neste Regulamento só serão atribuídos quando as circunstâncias de função o justificam.
+Art. 7.º Os artigos de resguardos descritos neste Regulamento só serão atribuídos quando as circunstâncias de função o justificam.
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.
 
 Tabela de duração dos artigos de fardamentos e resguardos, a que se refere o artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/01/01800/00580064.pdf))](https://files.diariodarepublica.pt/1s/1971/01/01800/00580064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/01/01800/00580064.pdf)
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.
 
 Da FIG. 1 à FIG. 16
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/01/01800/00580064.pdf))](https://files.diariodarepublica.pt/1s/1971/01/01800/00580064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/01/01800/00580064.pdf)
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

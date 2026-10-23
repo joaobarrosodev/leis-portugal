@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/31/2001/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2001-319904
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:28:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52c481020128f5dd816ed5333c88eee8a2568ae7e8021864b6ec4633231a2710
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b17e1fa73f9b75be7ee59aa9af51f9f1fc5a2543a414503bcba05e3011011eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ reuse:
 subjects:
 - Alienação de Imóveis
 - Contribuições e Impostos
-- IVA
 - Isenção Fiscal
+- IVA
 - Locação Financeira
 - Troca Intracomunitária
 relationships:
@@ -79,6 +79,121 @@ relationships:
   target: pt:dre:75774119:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:175985:por
+  label: "Alterada a redacção dada ao art. 70.º do Código do IVA constante do Dec Lei 394-B/84, de 26-Dez, pelo DEC LEI.179/2002.2002.08.03.MF\
+    \ DR.IS-A [178]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-2002-175985
+  date: '2002-08-03'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Alterado o n.º 4 do art. 22.º do Regime do IVA nas transações Intra-Comunitárias, aprovado pelo Dec Lei 290/92,\
+    \ de 28-Dez DR.IS-A [298], na redacção do Dec Lei 82/94, de 14-Mar do Dec Lei 204/97, de 09-Ago e do presente diploma,\
+    \ pela LEI.32-B/2002.2002.12.30.AR DR.IS-A [301]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterados os arts. 19.º e 83.º-B do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Dec Lei 394-B/84,\
+    \ de 26-Dez, na redacção do presente diploma, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:490257:por
+  label: "Alterado o art. 22º do Regime do IVA nas Transacções Intracomunitárias (RITI), aprovado pelo Dec Lei 290/92 de 28-Dez,\
+    \ com a redacção do presente diploma pelo DEC LEI.211/2005.07.12.2005.MFAP, DR.IS-A [234] de 07.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2005-490257
+  date: '2005-12-07'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterado o art. 19º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção conferida no presente\
+    \ diploma, pela LEI.33/2006.28.07.2006.AR, DR.IS [145] de 28.07.2006 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2006-07-28'
+- type: amended_by
+  target: pt:dre:552372:por
+  label: "Alterado o art. 22º [a nova redacção tem natureza interpretativa] do RITI aprovado pelo Dec Lei 290/92 de 28-Dez,\
+    \ com a redacção conferida no presente diploma, pelo DEC LEI.238/2006.20.12.2006.MFAP, DR.IS [243] de 20.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-2006-552372
+  date: '2006-12-20'
+- type: amended_by
+  target: pt:dre:518046:por
+  label: "Alterados os arts. 19º, 24º, 24º-A e 25º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção\
+    \ conferida no presente diploma, pelo DEC LEI.21/2007.29.01.2007.MFAP, DR.IS [20] de 29.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2007-518046
+  date: '2007-01-29'
+- type: amended_by
+  target: pt:dre:226204:por
+  label: "Alterado o art. 15º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com as alterações constantes do presente\
+    \ diploma, pela LEI.22-A/2007.29.06.2007.AR, DR.IS [124-Supl] de 29.06.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/22-a-2007-226204
+  date: '2007-06-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterados os artigos 19.º e 24.º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na redacção do presente\
+    \ diploma, republicado pelos Dec Leis 195/89 de 12-Jun e 166/94 de 09-Jun, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl]\
+    \ de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:449902:por
+  label: "Alterados os art.s 15º, 19º, 20º 24º, 24º-A, 25º, 67º e 70º do Dec Lei 394-B/94, de 26-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.102/2008.20.06.2008.MFAP, DR.IS [118] de 20.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2008-449902
+  date: '2008-06-20'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 15.º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na redacção do presente diploma,\
+    \ revisto e republicado pelos Dec Lei 195/89 de 12-Jun e 166/94 de 09-Jun, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl]\
+    \ de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:493507:por
+  label: "Alterado a partir de 01.01.2010, o artigo 19.º do Código do IVA, aprovado pelo Decreto-Lei 394-B/84, de 26 de Dezembro,\
+    \ na redacção do presente diploma, pelo DEC LEI.186/2009.12.08.2009.MFAP, DR.IS [155] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-2009-493507
+  date: '2009-08-12'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterado o art. 19.º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ renumerado e republicado pelo Dec Lei 102/2008 de 20-Jun, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\
+    10\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:343581:por
+  label: "Alterado o art. 15º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ renumerado e republicado pelo Dec Lei 102/2008, de 20-Jun, pela LEI.22/2010.23.08.2010.AR, DR.IS [163] de 23.08.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/22-2010-343581
+  date: '2010-08-23'
+- type: amended_by
+  target: pt:dre:306581:por
+  label: "Alterado, a partir de 01.01.2011, o arts. 19º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção\
+    \ do presente diploma, pelo DEC LEI.134/2010.27.12.2010.MFAP, DR.IS [249] de 27.12.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-2010-306581
+  date: '2010-12-27'
+- type: amended_by
+  target: pt:dre:174548:por
+  label: "Alterado, a partir de 01.01.2013, o art 19.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Dec\
+    \ Lei 394-B/84, de 26-dez, na redação do presente diploma, pelo DEC LEI.197/2012.24.08.2012.MF, DR.IS [164] de 24.08.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-2012-174548
+  date: '2012-08-24'
+- type: amended_by
+  target: pt:dre:513603:por
+  label: "Dada nova redação, com efeitos a 01.10.2013, ao art. 19º do Código do IVA , aprovado pelo Dec Lei 394-B/84 de 26-dez\
+    \ , alterado pelo presente diploma, pelo DEC LEI.71/2013.30.05.2013.MF, DR.IS [104] de 30.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-2013-513603
+  date: '2013-05-30'
+- type: amended_by
+  target: pt:dre:75774119:por
+  label: Alterado, a partir de 01.01.2017, o art. 15º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-dez, na redação
+    do presente diploma, alterado, renumerado e republicado pelo Dec Lei 102/2008 de 20-jun pelo(a) Lei n.º 36/2016 - Diário
+    da República n.º 223/2016, Série I de 2016-11-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2016-75774119
+  date: '2016-11-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/290/1992/12/28/p/dre
   label: null
@@ -91,16 +206,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3-b/2000/04/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3-b/2000/04/04/p/dre
+- type: cites
+  target: pt:dre:219079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679669:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:28:25Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +290,7 @@ Os artigos 15.º, 19.º, 20.º, 24.º, 24.º-A, 25.º, 33.º, 67.º, 70.º e 83.
 
 10 - Estão isentas do imposto as transmissões, a título gratuito, de bens alimentares, para posterior distribuição a pessoas carenciadas, efectuadas a instituições particulares de solidariedade social e a organizações não governamentais sem fins lucrativos.
 
-###### Artigo 19.º
+Artigo 19.º
 
 1 - ...
 
@@ -165,7 +300,7 @@ Os artigos 15.º, 19.º, 20.º, 24.º, 24.º-A, 25.º, 33.º, 67.º, 70.º e 83.
 
 4 - Não poderá igualmente deduzir-se o imposto que resulte de operações em que, com conhecimento do sujeito passivo, o transmitente dos bens ou prestador dos serviços, com a intenção de não entregar nos cofres do Estado o imposto liquidado, tenha declarado o exercício de uma actividade e não disponha de adequada estrutura empresarial susceptível de a exercer.
 
-###### Artigo 20.º
+Artigo 20.º
 
 1 - ...
 
@@ -187,7 +322,7 @@ VI) ...
 
 2 - ...
 
-###### Artigo 24.º
+Artigo 24.º
 
 1 - ...
 
@@ -207,7 +342,7 @@ c) A diferença positiva ou negativa dividir-se-á por 5 ou por 20, conforme o c
 
 6 - ...
 
-###### Artigo 24.º-A
+Artigo 24.º-A
 
 1 - ...
 
@@ -223,19 +358,19 @@ c) ...
 
 4 - ...
 
-###### Artigo 25.º
+Artigo 25.º
 
 1 - A não utilização em fins da empresa de bens imóveis relativamente aos quais houve dedução do imposto durante 1 ou mais anos civis completos após o início do período de 19 anos referido no n.º 2 do artigo 24.º dará lugar à regularização anual de 1/20 da dedução efectuada, que deverá constar da declaração do último período do ano a que respeita.
 
 2 - ...
 
-###### Artigo 33.º
+Artigo 33.º
 
 1 - ...
 
 2 - Independentemente dos factos previstos no número anterior, pode ainda a administração fiscal declarar oficiosamente a cessação de actividade quando for manifesto que esta não está a ser exercida nem há a intenção de a continuar a exercer, ou sempre que o sujeito passivo tenha declarado o exercício de uma actividade sem que possua uma adequada estrutura empresarial susceptível de a exercer.
 
-###### Artigo 67.º
+Artigo 67.º
 
 1 - ...
 
@@ -251,7 +386,7 @@ c) ...
 
 7 - No caso de passagem do regime especial de tributação prevista no artigo 60.º para o regime normal, a declaração a que se refere a alínea c) do n.º 1 deve ser apresentada no prazo previsto na alínea b) do mesmo número e reportar-se à parte do período anual em que o sujeito passivo esteve enquadrado no regime especial dos pequenos retalhistas.
 
-###### Artigo 70.º
+Artigo 70.º
 
 1 - Para efeitos do cumprimento das obrigações do presente diploma, considera-se serviço de finanças ou tesouraria de finanças competente a da área fiscal onde o contribuinte tiver a sua sede, estabelecimento principal ou, na falta deste, o domicílio.
 
@@ -263,7 +398,7 @@ c) ...
 
 5 - Não obstante o disposto nos números anteriores, para efeitos de cumprimento das obrigações previstas nos artigos 30.º, 31.º e 32.º, a entrega das declarações aí previstas, quer através dos respectivos impressos oficiais, quer quando substituídos pela declaração verbal, nos termos do artigo 34.º-A, poderá ser efectuada em qualquer serviço de finanças que disponha dos meios informáticos adequados ao cadastro único.
 
-###### Artigo 83.º-B
+Artigo 83.º-B
 
 1 - Sempre que o sujeito passivo seja devedor de IVA, os serviços competentes da Direcção-Geral dos Impostos levarão em conta, por dedução, as diferenças de imposto apuradas ou confirmadas pelos serviços e respectivos acréscimos legais até à concorrência do montante do reembolso pedido, sem prejuízo do disposto no n.º 7 do artigo 22.º
 
@@ -323,12 +458,12 @@ Por cada imóvel ou parte autónoma relativamente aos quais foi exercida a renú
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 2000. - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura.
 
-**Promulgado em 18 de Janeiro de 2001.**
+Promulgado em 18 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Janeiro de 2001.**
+Referendado em 25 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

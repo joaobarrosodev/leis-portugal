@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/09/18100/0001500040.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/4/2019/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T06:34:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df431237baa82b18202da899686e88387a46b6eb94940c3349cee8743739f7a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 808e7f379e408921a278f63bc97bf8c32bd934e8c67bb25175eca411ac54b337
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:34:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,35 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direção Geral de Agricultura e Desenvolvimento Rural
+- Autarquia Local
 - Autoridade Tributária e Aduaneira
-- Interconexão de Dados
-- Ordenamento do Território
-- Informação Cadastral e Geográfica
-- Instituto dos Registos e do Notariado
-- Definição de Competências
-- Comissão de Coordenação e Desenvolvimento Regional
-- Informação Geográfica
+- Balcão Único do Prédio
 - Base de Dados
-- Matriz Cadastral
+- Comissão de Coordenação e Desenvolvimento Regional
+- Dados Pessoais
+- Definição de Competências
+- Direção Geral de Agricultura e Desenvolvimento Rural
 - Direção Geral do Território
+- Informação Cadastral e Geográfica
+- Informação Geográfica
 - Instituto da Conservação da Natureza e das Florestas
-- Sistema Nacional de Informação Geográfica
-- Sistema de Informação
+- Instituto dos Registos e do Notariado
+- Interconexão de Dados
+- Matriz Cadastral
+- Ordenamento do Território
+- Plataforma de Interoperabilidade da Administração Pública
+- Plataforma Eletrónica
 - Prédio Devoluto
 - Prédio Rústico
-- Projeto
-- Propriedade Privada
-- Propriedade de BENS
-- Registo Predial
-- Dados Pessoais
 - Prédio Urbano
+- Projeto
+- Propriedade de BENS
+- Propriedade Privada
+- Registo Predial
+- Sistema de Informação
 - Sistema Nacional de Exploração e Gestão de Informação Cadastral
+- Sistema Nacional de Informação Geográfica
 - Sistema Simplificado de Informação Cadastral da Propriedade Rustica
-- Autarquia Local
-- Plataforma Eletrónica
-- Plataforma de Interoperabilidade da Administração Pública
-- Balcão Único do Prédio
 relationships:
 - type: amended_by
   target: pt:dre:222645050:por
@@ -115,16 +115,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/78/2017/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/78/2017/08/17/p/dre
+- type: cites
+  target: pt:dre:108010874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114152782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118051708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124171091:por
+  label: null
+  source: null
 article_structure:
-  article_count: 73
+  article_count: 48
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:34:43Z'
   warnings: []
   errors: []
 ---
@@ -183,7 +199,9 @@ i) [Anterior alínea h).]
 
 j) [Anterior alínea i).]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]
 
@@ -197,7 +215,9 @@ c) [...]
 
 3 - No âmbito do sistema de informação cadastral simplificada, criado pela [Lei n.º 78/2017](https://diariodarepublica.pt/dr/detalhe/lei/78-2017-108010874), de 17 de agosto, a realização do procedimento de RGG é condição prévia aos procedimentos especiais de registo e de justificação de prédio rústico e misto omisso, nos municípios que não dispõem de cadastro geométrico da propriedade rústica ou cadastro predial em vigor.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -205,7 +225,9 @@ c) [...]
 
 3 - Sem prejuízo do disposto no n.º 1, o esboço do prédio pode ser efetuado utilizando dispositivo ou aplicação móvel, em termos e condições a aprovar por portaria do membro do Governo responsável pela área da justiça, caso em que é igualmente aplicável o disposto no número anterior.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A estrutura de atributos da RGG é constituída pela seguinte informação alfanumérica:
 
@@ -231,7 +253,9 @@ g) [...]
 
 5 - A RGG deve ser acompanhada de metadados de natureza técnica de acordo com as especificações técnicas disponibilizadas através do BUPi.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -249,7 +273,9 @@ g) [...]
 
 8 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -259,7 +285,9 @@ g) [...]
 
 4 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -289,7 +317,9 @@ i) (Revogada.)
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - No âmbito da georreferenciação de prédios, compete ao Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), utilizar a informação disponível e partilhada, nos termos do protocolo celebrado ao abrigo do n.º 2 do artigo 27.º da citada [Lei n.º 78/2017](https://diariodarepublica.pt/dr/detalhe/lei/78-2017-108010874), de 17 de agosto, ou outros a celebrar.
 
@@ -297,7 +327,9 @@ i) (Revogada.)
 
 3 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -333,7 +365,9 @@ b) Cumpra o procedimento de elaboração de RGG definido no artigo 9.º, com as 
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Integram a comissão administrativa de composição de interesses um representante da AT, do IRN, I. P., da DGT, quando justificável em razão da matéria, do IFAP, I. P., do ICNF, I. P., e de cada um dos municípios em cuja circunscrição territorial se situa o prédio, sendo o representante do IRN, I. P., um conservador designado por deliberação do respetivo conselho diretivo, exercendo a função de presidente.
 
@@ -341,7 +375,9 @@ b) Cumpra o procedimento de elaboração de RGG definido no artigo 9.º, com as 
 
 3 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Quando se verifique a sobreposição de polígonos entre prédios confinantes, qualquer interessado tem o direito de solicitar a constituição de uma comissão administrativa de composição de interesses, que decide sobre a sobreposição de polígonos e respetiva RGG.
 
@@ -357,7 +393,9 @@ b) Cumpra o procedimento de elaboração de RGG definido no artigo 9.º, com as 
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 17.º — Iniciativa oficiosa
+Artigo 17.º
+
+Iniciativa oficiosa
 
 1 - Sempre que os prédios não estiverem descritos, ou, estando, não tiverem registo de aquisição, de reconhecimento de direito de propriedade ou de mera posse em vigor, os titulares da inscrição matricial são notificados pelo Centro de Coordenação Técnica no seu domicílio fiscal para, no prazo de 90 dias:
 
@@ -369,7 +407,9 @@ b) [...]
 
 3 - [...]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Se o notificado ou, tendo este falecido, qualquer seu herdeiro habilitado, ou qualquer interessado nos termos previstos no artigo anterior, apresentar os documentos com os quais pretenda comprovar o seu direito, o serviço de registo inicia o procedimento especial de registo desde que, quando se trate de prédio rústico inscrito na matriz não cadastral, verifique por consulta ao BUPi que a RGG está validada ou validada com reserva.
 
@@ -385,7 +425,9 @@ b) [...]
 
 7 - A alteração dos pressupostos a que se refere o n.º 1 do artigo 8.º da [Lei n.º 65/2019](https://diariodarepublica.pt/dr/detalhe/lei/65-2019-124171091), de 23 de agosto, na pendência do procedimento determina a sua extinção automática, com comunicação ao interessado.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -429,7 +471,9 @@ d) Outra informação considerada relevante.
 
 5 - Todos os dados e metadados são guardados em repositórios de informação acessíveis às várias entidades envolvidas, em respeito pelo regime legal de proteção e tratamento de dados pessoais, em termos a definir por protocolo a celebrar entre aquelas entidades e o Centro de Coordenação Técnica.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -441,7 +485,9 @@ d) Outra informação considerada relevante.
 
 5 - [...]
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 O regime do presente decreto regulamentar é aplicável a todo o território nacional.»
 
@@ -461,13 +507,17 @@ Atualização e retificação
 
 2 - A atualização ou retificação é executada por um técnico habilitado, de acordo com as especificações técnicas e o procedimento previsto para a elaboração da RGG, com as necessárias adaptações.
 
-###### Artigo 13.º-B — Certidões e fotocópias não certificadas
+Artigo 13.º-B
+
+Certidões e fotocópias não certificadas
 
 1 - Qualquer pessoa pode pedir certidões ou fotocópias não certificadas das RGG efetuadas junto de um serviço de registo com competência para a prática de atos de registo predial.
 
 2 - As certidões ou fotocópias não certificadas referidas no número anterior são gratuitas, quando requeridas pelo promotor da RGG.
 
-###### Artigo 17.º-A — Promoção pelos interessados
+Artigo 17.º-A
+
+Promoção pelos interessados
 
 1 - Sem prejuízo do disposto no artigo anterior, o procedimento especial de registo de prédio rústico e misto omisso é promovido pelos interessados que disponham de documento comprovativo do seu direito:
 
@@ -479,7 +529,9 @@ c) Por via eletrónica, através do BUPi.
 
 2 - Quando se trate de prédio inscrito na matriz não cadastral, o procedimento especial de registo referido no número anterior só pode ser promovido após a obtenção de RGG validada ou validada com reserva.
 
-###### Artigo 19.º-A — Pressupostos
+Artigo 19.º-A
+
+Pressupostos
 
 1 - O procedimento especial de justificação de prédio rústico e misto omisso é desencadeado pelo interessado que não disponha de documento para prova do seu direito, sendo o procedimento e os atos praticados no âmbito do mesmo gratuitos, nos termos da alínea e) do n.º 1 do artigo 24.º da [Lei n.º 78/2017](https://diariodarepublica.pt/dr/detalhe/lei/78-2017-108010874), de 17 de agosto, e do artigo 14.º da [Lei n.º 65/2019](https://diariodarepublica.pt/dr/detalhe/lei/65-2019-124171091), de 23 de agosto.
 
@@ -487,7 +539,9 @@ c) Por via eletrónica, através do BUPi.
 
 3 - O interessado que se arrogue, com exclusão de outrem, titular do direito de propriedade, e não disponha de documento comprovativo do seu direito, pode obter a primeira inscrição por via do procedimento especial de justificação, sem prejuízo do cumprimento de disposições legais e regulamentares aplicáveis e em vigor.
 
-###### Artigo 19.º-B — Pedido
+Artigo 19.º-B
+
+Pedido
 
 1 - No pedido de instauração do procedimento, que é da competência exclusiva do conservador, o interessado deve, para o efeito, apresentar o respetivo formulário, devidamente preenchido, aprovado por deliberação do conselho diretivo do IRN, I. P.
 
@@ -509,7 +563,9 @@ b) Outros documentos que se considerem necessários para a verificação dos pre
 
 5 - A justificação pode ser pedida por mandatário com procuração que lhe confira poderes especiais para o ato.
 
-###### Artigo 19.º-C — Apresentação
+Artigo 19.º-C
+
+Apresentação
 
 1 - O procedimento de justificação considera-se instaurado no momento da apresentação do pedido acompanhado da respetiva RGG e restantes documentos comprovativos, o qual é anotado no diário.
 
@@ -517,11 +573,15 @@ b) Outros documentos que se considerem necessários para a verificação dos pre
 
 3 - A verificação da causa de rejeição a que se refere o número anterior após a apresentação do pedido no diário dá lugar à recusa de apreciação do pedido, aplicando-se, com as devidas adaptações, o disposto no Código do Registo Predial.
 
-###### Artigo 19.º-D — Averbamento de pendência da justificação
+Artigo 19.º-D
+
+Averbamento de pendência da justificação
 
 Efetuada a apresentação, é oficiosamente aberta a descrição do prédio ainda não descrito e averbada a pendência de justificação, nos termos e com os efeitos previstos no Código do Registo Predial.
 
-###### Artigo 19.º-E — Indeferimento liminar e aperfeiçoamento do pedido
+Artigo 19.º-E
+
+Indeferimento liminar e aperfeiçoamento do pedido
 
 1 - Sempre que o pedido seja manifestamente improcedente, pode ser liminarmente indeferido, por despacho fundamentado, sendo notificado o interessado.
 
@@ -539,7 +599,9 @@ b) Se do pedido e dos documentos juntos não constarem os elementos de identific
 
 6 - Não sendo reparada a decisão, o processo é remetido ao tribunal para que seja decidida a impugnação.
 
-###### Artigo 19.º-F — Decisão e publicação
+Artigo 19.º-F
+
+Decisão e publicação
 
 1 - A decisão do procedimento de justificação é proferida no prazo de 10 dias.
 
@@ -549,7 +611,9 @@ b) Se do pedido e dos documentos juntos não constarem os elementos de identific
 
 4 - Tornando-se a decisão definitiva, são efetuados oficiosamente os consequentes registos.
 
-###### Artigo 19.º-G — Impugnação judicial
+Artigo 19.º-G
+
+Impugnação judicial
 
 1 - Da decisão do conservador pode ser interposto recurso para o tribunal de 1.ª instância competente na área da circunscrição a que pertence o serviço de registo, no prazo de 30 dias a contar da notificação.
 
@@ -557,7 +621,9 @@ b) Se do pedido e dos documentos juntos não constarem os elementos de identific
 
 3 - A impugnação judicial considera-se feita com a apresentação da mesma no serviço de registo em que o procedimento se encontra pendente, sendo o processo remetido à entidade competente no mesmo dia em que for recebido.
 
-###### Artigo 19.º-H — Recurso para o Tribunal da Relação
+Artigo 19.º-H
+
+Recurso para o Tribunal da Relação
 
 Da sentença proferida no tribunal de 1.ª instância podem interpor recurso para o Tribunal da Relação o interessado e o Ministério Público, no prazo e nos termos regulados no Código do Registo Predial para o processo de justificação.»
 
@@ -587,15 +653,15 @@ Nos termos do artigo 16.º da [Lei n.º 65/2019](https://diariodarepublica.pt/dr
 
 Visto e aprovado em Conselho de Ministros de 5 de setembro de 2019. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - António Manuel Veiga dos Santos Mendonça Mendes - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem - Pedro Gramaxo de Carvalho Siza Vieira - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
 
-**Promulgado em 11 de setembro de 2019.**
+Promulgado em 11 de setembro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de setembro de 2019.**
+Referendado em 12 de setembro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -1144,3 +1210,5 @@ Modelo declaração dos confinantes
 ..., na qualidade de proprietário do prédio confinante a... (norte/sul/nascente/poente) com o prédio inscrito na matriz sob o n.º ... e descrito na conservatória do registo predial sob n.º ..., declara, para os efeitos previstos no n.º 3 do artigo 5.º da [Lei n.º 78/2017](https://diariodarepublica.pt/dr/detalhe/lei/78-2017-108010874), de 17 de agosto, aceitar/validar a informação resultante da representação gráfica georreferenciada do indicado prédio.
 
 Assinatura do Proprietário...
+
+112592417

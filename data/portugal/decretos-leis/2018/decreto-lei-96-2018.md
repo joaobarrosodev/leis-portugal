@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/22600/0536905388.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/96/2018/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2018-117093980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65a4702d55292e65e51d629640f636b7e7fedea0f7b5e7388855b81fdd070f46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40bfcbc859c728696ad58f554393ff71cbae8f2f39ce68ec7f0bb5f11f96631c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ANA
 - Comité Nacional de Coordenação
-- Transporte Aéreo
 - Contra-ordenação
 - Coordenador Nacional
 - Definição de Competências
-- Instituto Nacional de Aviação Civil
 - Estatuto
 - Faro
 - Fiscalização
+- Instituto Nacional de Aviação Civil
 - Ponta Delgada
-- ANA
 - Taxa
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:129793718:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:129793718:por
+  label: Alterados os arts.1.º, 4.º, 8.º e 9.º, na redacção do presente diploma, do Dec Lei 109/2008, de 26-jun, pelo(a) Decreto-Lei
+    n.º 7/2020 - Diário da República n.º 44/2020, Série I de 2020-03-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2020-129793718
+  date: '2020-03-03'
 - type: cites
   target: celex:31993R0095
   label: null
@@ -111,16 +117,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/52/2003/03/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/52/2003/03/25/p/dre
+- type: cites
+  target: pt:dre:190615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480517:por
+  label: null
+  source: null
 article_structure:
-  article_count: 98
+  article_count: 69
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:33Z'
   warnings: []
   errors: []
 ---
@@ -181,7 +207,9 @@ Os artigos 1.º, 2.º, 4.º, 5.º, 6.º, 8.º, 9.º, 10.º e 11.º do [Decreto-L
 
 3 - [...].
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Sem prejuízo das definições constantes do [Regulamento (CEE) n.º 95/93](https://data.europa.eu/eli/reg/1993/95/oj?locale=pt), do Conselho, de 18 de janeiro de 1993, na sua redação atual, entende-se, ainda, para efeitos do disposto no presente decreto-lei, por:
 
@@ -197,7 +225,9 @@ e) [Anterior alínea b).]
 
 f) [Anterior alínea c)].
 
-###### Artigo 4.º — Designação
+Artigo 4.º
+
+Designação
 
 1 - A entidade coordenadora, para efeitos de aplicação do disposto no [Regulamento (CEE) n.º 95/93](https://data.europa.eu/eli/reg/1993/95/oj?locale=pt), do Conselho, de 18 de janeiro de 1993, na sua redação atual, e do presente decreto-lei, é designada por despacho do membro do Governo responsável pela área da aviação civil.
 
@@ -205,7 +235,9 @@ f) [Anterior alínea c)].
 
 3 - Após a designação, a entidade coordenadora exerce as respetivas funções ao abrigo do disposto no [Regulamento (CEE) n.º 95/93](https://data.europa.eu/eli/reg/1993/95/oj?locale=pt), do Conselho, de 18 de janeiro de 1993, na sua redação atual, no presente decreto-lei e em instrumento contratual a celebrar com o Estado, cujos termos são aprovados por Resolução do Conselho de Ministros, e está sujeita aos poderes de regulação e supervisão da ANAC.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A entidade coordenadora deve atuar de forma independente, imparcial e não discriminatória no exercício das competências que lhe estão cometidas por lei, não podendo solicitar nem receber instruções do Governo ou de quaisquer entidades públicas ou privadas, sem prejuízo das competências da ANAC enquanto entidade reguladora do setor.
 
@@ -223,7 +255,9 @@ b) A independência do gestor responsável no exercício das suas funções;
 
 c) O direito de entrada na associação das entidades gestoras aeroportuárias dos aeroportos nacionais coordenados indicados no artigo 3.º e dos operadores aéreos que tenham, comprovadamente, um volume mínimo de 60 % do total de operações nesses aeroportos, de acordo com as estatísticas da ANAC referentes ao ano anterior ao do pedido de entrada.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O acesso a um aeroporto coordenado só é possível mediante a atribuição de uma faixa horária ao operador aéreo, nos termos do [Regulamento (CEE) n.º 95/93](https://data.europa.eu/eli/reg/1993/95/oj?locale=pt), do Conselho, de 18 de janeiro de 1993, na sua redação atual, sem prejuízo das exceções previstas no mesmo.
 
@@ -243,7 +277,9 @@ c) O direito de entrada na associação das entidades gestoras aeroportuárias d
 
 9 - Da decisão da entidade coordenadora prevista no n.º 6 cabe recurso para a ANAC, devendo o mesmo ser interposto e decidido em prazo que não prejudique a execução da decisão final, sem prejuízo da aplicação dos prazos máximos gerais de recurso previstos no Código do Procedimento Administrativo.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Compete à ANAC a supervisão e a fiscalização do processo de atribuição de faixas horárias e de horários facilitados, assim como a fiscalização da sua utilização por parte dos operadores aéreos.
 
@@ -259,7 +295,9 @@ c) O direito de entrada na associação das entidades gestoras aeroportuárias d
 
 7 - A entidade coordenadora, o gestor responsável e as entidades gestoras aeroportuárias devem comunicar à ANAC quaisquer factos de que tenham conhecimento que possam comportar violação dos artigos 5.º, 5.º-A e 6.º-B ou constituir contraordenação, nos termos do artigo 9.º
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]:
 
@@ -327,7 +365,9 @@ d) [...].
 
 9 - A entidade coordenadora e as entidades gestoras são competentes para fiscalizar e denunciar à ANAC os comportamentos previstos nos n.os 1 e 2, de que tenham conhecimento.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -337,7 +377,9 @@ d) [...].
 
 4 - [...].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Pela prestação do serviço de atribuição de faixas horárias é devida uma taxa de atribuição de faixas horárias à entidade coordenadora, a pagar pelos operadores aéreos que utilizem aeroportos coordenados e pelas entidades gestoras aeroportuárias destes aeroportos.
 
@@ -371,7 +413,9 @@ c) Uma entidade pública com experiência comprovada no setor.
 
 6 - A proposta da ANAC é remetida ao Governo no prazo máximo de 60 dias após início do procedimento, ouvidas as entidades gestoras aeroportuárias e os operadores aéreos dos aeroportos coordenados e facilitados indicados no artigo 3.º
 
-###### Artigo 5.º-A — Gestor responsável
+Artigo 5.º-A
+
+Gestor responsável
 
 1 - A entidade coordenadora designa um gestor responsável, após parecer prévio, obrigatório e vinculativo da ANAC, que é quem assegura o exercício das competências da entidade coordenadora previstas no artigo 6.º-A.
 
@@ -385,7 +429,9 @@ c) Uma entidade pública com experiência comprovada no setor.
 
 6 - A entidade coordenadora deve assegurar a disponibilidade de meios financeiros e técnicos que permitam ao gestor responsável desempenhar as suas funções nos termos do presente decreto-lei.
 
-###### Artigo 5.º-B — Processo especial
+Artigo 5.º-B
+
+Processo especial
 
 1 - Sempre que a ANAC tome conhecimento, por qualquer meio, da violação dos deveres do gestor responsável previstos no artigo anterior, deve instaurar e instruir um processo especial de inquérito, com vista ao apuramento dos factos.
 
@@ -405,7 +451,9 @@ c) Uma entidade pública com experiência comprovada no setor.
 
 9 - As decisões proferidas nos termos dos números anteriores são obrigatoriamente comunicadas pela ANAC à entidade coordenadora.
 
-###### Artigo 6.º-A — Competências
+Artigo 6.º-A
+
+Competências
 
 1 - Sem prejuízo das competências conferidas pelo [Regulamento (CEE) n.º 95/93](https://data.europa.eu/eli/reg/1993/95/oj?locale=pt) do Conselho, de 18 de janeiro de 1993, na sua redação atual, e das conferidas por lei ou delegadas, compete à entidade coordenadora:
 
@@ -433,7 +481,9 @@ k) Elaborar e apresentar anualmente um relatório de atividades, com enfoque na 
 
 2 - As competências previstas nas alíneas a) a g) e k) do número anterior constituem deveres do gestor responsável, cujo incumprimento importa a responsabilidade solidária da entidade coordenadora.
 
-###### Artigo 6.º-B — Receitas e despesas
+Artigo 6.º-B
+
+Receitas e despesas
 
 1 - As receitas da entidade coordenadora devem garantir a sua independência e assegurar a continuidade da prestação dos serviços de coordenação e de facilitação de horários.
 
@@ -455,13 +505,17 @@ e) Outras receitas que lhe sejam atribuídas por lei, por contrato ou por outro 
 
 5 - No exercício das suas funções, a entidade coordenadora deve conservar as provas de que os gastos suportados estão diretamente relacionados com a referida atividade de facilitador e coordenador.
 
-###### Artigo 6.º-C — Acesso aos sistemas de informação e a ferramentas informáticas
+Artigo 6.º-C
+
+Acesso aos sistemas de informação e a ferramentas informáticas
 
 1 - A entidade coordenadora deve chegar a acordo com a entidade gestora dos aeroportos mencionados no artigo 3.º e com o prestador de serviços de navegação aérea para o acesso, em tempo e de forma adequada, aos sistemas informáticos e operativos e às ferramentas informáticas por estes utilizados, com o objetivo de obter toda a informação dos aeroportos e dos operadores aéreos relativa ao planeamento, à execução e à análise dos movimentos das aeronaves necessária para o exercício de tais competências.
 
 2 - A entidade coordenadora deve garantir que o acesso à informação a que se refere o número anterior é limitado ao gestor responsável e ao respetivo pessoal técnico.
 
-###### Artigo 11.º-A — Procedimento de fixação dos montantes da taxa
+Artigo 11.º-A
+
+Procedimento de fixação dos montantes da taxa
 
 1 - A taxa de atribuição de faixas horárias é devida por cada faixa horária utilizada e é cobrada mensalmente aos operadores aéreos e às entidades gestoras aeroportuárias.
 
@@ -483,7 +537,9 @@ b) Fhn é o número previsto de faixas horárias taxáveis para os dois período
 
 c) 50 % do valor da taxa é pago pelos operadores aeroportuários em função do total das faixas horárias efetivamente utilizadas e 50 % é pago pelos operadores aéreos, tendo por base o número de faixas horárias utilizadas, respetivamente, por cada um, em cada estação IATA.
 
-###### Artigo 11.º-B — Procedimentos
+Artigo 11.º-B
+
+Procedimentos
 
 1 - O montante da taxa determinada nos termos do artigo anterior é fixado por decisão da ANAC, sob proposta da entidade coordenadora, devidamente instruída com o resultado da consulta efetuada aos operadores aéreos e às entidades gestoras aeroportuárias e com o parecer obrigatório do Comité Nacional de Coordenação.
 
@@ -497,7 +553,9 @@ c) 50 % do valor da taxa é pago pelos operadores aeroportuários em função do
 
 6 - Caso se verifique terem sido cobrados montantes que excedem o valor efetivo dos custos elegíveis para a fixação da taxa, num determinado ano, esse excesso deve ser tido em conta nos ajustamentos tarifários que venham a ocorrer posteriormente, nos termos referidos no n.º 2 do artigo anterior.
 
-###### Artigo 11.º-C — Liquidação e cobrança da taxa
+Artigo 11.º-C
+
+Liquidação e cobrança da taxa
 
 1 - A taxa de atribuição de faixas horárias é liquidada e cobrada pela entidade coordenadora com base na informação constante dos formulários de tráfego relativos a cada movimento de aterragem e de descolagem e constitui receita própria dessa entidade.
 
@@ -511,7 +569,9 @@ c) 50 % do valor da taxa é pago pelos operadores aeroportuários em função do
 
 6 - A cobrança coerciva dos créditos prevista no n.º 4 é promovida pela Autoridade Tributária e Aduaneira.
 
-###### Artigo 11.º-D — Isenções
+Artigo 11.º-D
+
+Isenções
 
 Estão isentos do pagamento da taxa de atribuição de faixas horárias:
 
@@ -523,7 +583,9 @@ c) As operações de busca e salvamento, de resgate, de emergência médica, de 
 
 d) As aeronaves que efetuem aterragens por motivos de retorno forçado justificado por deficiências técnicas das mesmas, por razões meteorológicas ou por outras razões de força maior, devidamente comprovadas, quando não tenham utilizado outro aeroporto ou aeródromo.
 
-###### Artigo 11.º-E — Contagem de prazos
+Artigo 11.º-E
+
+Contagem de prazos
 
 Os prazos constantes do presente decreto-lei são contínuos, não se suspendendo aos sábados, domingos e feriados.»
 
@@ -569,15 +631,15 @@ O presente decreto-lei entra em vigor no dia seguinte à sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de novembro de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Pedro Manuel Dias de Jesus Marques.
 
-**Promulgado em 19 de novembro de 2018.**
+Promulgado em 19 de novembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de novembro de 2018.**
+Referendado em 21 de novembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -587,19 +649,25 @@ Visto e aprovado em Conselho de Ministros de 8 de novembro de 2018. - António L
 
 ESTATUTOS DO COMITÉ NACIONAL DE COORDENAÇÃO
 
-###### Artigo 1.º — [...]
+Artigo 1.º
+
+[...]
 
 1 - [...].
 
 2 - O CNC rege-se pelos presentes estatutos, pelo [Regulamento (CEE) n.º 95/93](https://data.europa.eu/eli/reg/1993/95/oj?locale=pt), do Conselho, de 18 de janeiro de 1993, na sua redação atual, e pelas demais disposições legais e regulamentares aplicáveis.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O CNC desempenha funções consultivas e de mediação no que respeita à atribuição de faixas horárias nos aeroportos coordenados e presta assessoria à entidade coordenadora.
 
 2 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 [...]:
 
@@ -621,7 +689,9 @@ h) [...];
 
 i) [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Compete ao CNC apresentar propostas e dar parecer junto da entidade coordenadora, relativamente a:
 
@@ -645,7 +715,9 @@ i) [Anterior alínea h)].
 
 2 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]:
 
@@ -671,7 +743,9 @@ j) [...].
 
 2 - Para efeitos do disposto na alínea h) do número anterior, são apenas considerados operadores aéreos que utilizem com regularidade os aeroportos coordenados os que tenham obtido, a 31 de janeiro do ano em curso, pelo menos uma série de faixas horárias, conforme definição constante da alínea k) do artigo 2.º do [Regulamento (CEE) n.º 95/93](https://data.europa.eu/eli/reg/1993/95/oj?locale=pt), do Conselho, de 18 de janeiro de 1993, na sua redação atual, para o período IATA de inverno em curso ou para o período IATA de verão seguinte.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os operadores aéreos que utilizem com regularidade os aeroportos coordenados, mas que não se incluam na alínea h) do n.º 1 do artigo anterior, podem também ser membros do CNC.
 
@@ -681,13 +755,17 @@ j) [...].
 
 4 - [...].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - São membros não permanentes do CNC a ANAC e a entidade coordenadora.
 
 2 - [...].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -703,7 +781,9 @@ j) [...].
 
 7 - Têm assento na assembleia geral um representante da entidade coordenadora, um representante da ANAC e um representante do Turismo de Portugal, I. P., na qualidade de observadores, sem direito a voto.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]:
 
@@ -725,7 +805,9 @@ f) [Revogada];
 
 4 - [...].
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 [...]:
 
@@ -739,7 +821,9 @@ d) Os três operadores aéreos detentores de um maior número de faixas horária
 
 e) [...].
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 [...]:
 
@@ -1485,7 +1569,7 @@ O comité executivo cessará as suas funções antes do prazo previsto no artigo
 
 ###### Artigo 29.º — Presidente do comité executivo
 
-**O presidente do comité executivo é responsável pela atividade do CNC e do comité executivo.**
+O presidente do comité executivo é responsável pela atividade do CNC e do comité executivo.
 
 ###### Artigo 30.º — Competências
 
@@ -1540,3 +1624,5 @@ Os comités locais de performance são extintos quando a sua atividade for consi
 3 - Qualquer proposta de alteração estatutária deve ser aprovada em assembleia geral por maioria de dois terços dos seus membros.
 
 4 - As propostas de alteração estatutária aprovadas nos termos do número anterior devem ser submetidas à ANAC, que por sua vez as remete ao membro do Governo responsável pelo setor da aviação civil.
+
+111841911

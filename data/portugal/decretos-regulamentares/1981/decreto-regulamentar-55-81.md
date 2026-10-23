@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/29000/32993307.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o número do diploma que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:04:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61461f34594cfdf443e8fd1c251c9fffb6b401754bde5fa18c18d5836f4cfabc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd722c78766f27b94db182ad424742f922748ee140c8ec48c7b8fb72f2c30b9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:04:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exploração Florestal
+- Proteção da Floresta
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:517473:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:644699:por
+  label: "Alterado o nº do art. 3º, pelo DR.36/88.1988.10.17.MAI, DR.IS [240]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/36-1988-644699
+  date: '1988-10-17'
+- type: cites
+  target: pt:dre:407956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580313:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:228024:por
+  label: "Revogado o artigo 25.º, pelo LEI.19/86.19.07.1986.AR, DR.IS [164] de 19.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/19-1986-228024
+  date: '1986-07-19'
+- type: repealed_by
+  target: pt:dre:517473:por
+  label: "Revogado pelo DEC LEI.156/2004.30.06.2004.MADRP, DR.IS-A [152] de 30.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-2004-517473
+  date: '2004-06-30'
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:04:31Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +139,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Disposições gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito de aplicação do regulamento)
 
@@ -117,7 +151,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 4 - As entidades responsáveis pelos departamentos referidos no n.º 3 são obrigadas a adoptar medidas especiais de defesa contra incêndios dos povoamentos que administram.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Zonagem do continente segundo o grau de risco de incêndio)
 
@@ -151,7 +185,7 @@ g) índice demográfico de utilização.
 
 4 - Quando as condições o justificarem, pode a classificação agora estabelecida ser alterada por despacho do Ministro da Agricultura, Comércio e Pescas, sob proposta da Direcção-Geral de Ordenamento e Gestão Florestal (DGOGF), ouvida a comissão prevista no artigo 4.º
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Épocas de fogos)
 
@@ -169,7 +203,7 @@ g) índice demográfico de utilização.
 
 ### CAPÍTULO II — Dos órgãos
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Órgão central)
 
@@ -185,7 +219,7 @@ Representante do Serviço Nacional de Protecção Civil;
 
 Representante da Secretaria de Estado da Administração Interna.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Órgãos locais)
 
@@ -223,7 +257,7 @@ Representante da produção florestal.
 
 6 - As comissões especializadas de fogos florestais a nível de distrito funcionarão junto e com o apoio logístico dos governos civis, e as de nível municipal, junto e com o apoio logístico dos respectivos municípios.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Competência do órgão central)
 
@@ -237,7 +271,7 @@ c) Propor as medidas que se mostrarem convenientes para a articulação das acç
 
 d) Emitir parecer sobre as propostas de alteração da classificação das áreas florestais estabelecida no artigo 2.º do presente diploma.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Competência das CEFF)
 
@@ -259,7 +293,7 @@ b) Apoiar a acção das CEFF municipais do distrito tendo em vista a utilizaçã
 
 2 - A competência genérica prevista no artigo 4.º do [Decreto-Lei n.º 327/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1980-469788) será exercida pela CEFF municipal quando se trate de acções e medidas a desenvolver exclusivamente na sua área de actuação, e pela CEFF distrital quando se trate de acções e medidas que se destinem a ser implementadas em áreas de maior amplitude e que não excedam os limites do respectivo distrito.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Funcionamento dos órgãos)
 
@@ -287,7 +321,7 @@ d) O apoio técnico dos mesmos órgãos será prestado especialmente pelos repre
 
 ### CAPÍTULO III — Da prevenção
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Medidas preventivas gerais de carácter policial)
 
@@ -327,7 +361,7 @@ e) Executar os trabalhos preventivos que, no uso dos poderes conferidos pelo art
 
 7 - Quando seja declarada a situação muito crítica a que alude o n.º 3 do artigo 3.º, pode ser condicionado ou proibido o acesso de pessoas e ou viaturas a locais determinados e expressamente sinalizados que se situem dentro dos limites da região abrangida por tal declaração.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Medidas de prevenção e controle dos povoamentos)
 
@@ -341,7 +375,7 @@ c) Deverão ser preservados todos os núcleos de vegetação natural existentes 
 
 d) A técnica dos fogos controlados só pode ser utilizada sob orientação e responsabilidade de pessoal técnico especializado da DGOGF ou por ela credenciado e com aviso prévio ao corpo de bombeiros local.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Medidas de sensibilização do público)
 
@@ -353,7 +387,7 @@ d) A técnica dos fogos controlados só pode ser utilizada sob orientação e re
 
 4 - As despesas resultantes das acções referidas nos números anteriores ficarão a cargo das entidades que as promoverem.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Núcleos e zonas críticas)
 
@@ -567,7 +601,7 @@ Oeste - estrema do concelho de Lagos.
 
 ### CAPÍTULO IV — Da detecção
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Meios de detecção)
 
@@ -591,13 +625,13 @@ b) Brigadas móveis de vigilância.
 
 6 - A participação dos meios aéreos nas acções de detecção rege-se pelas normas que forem estabelecidas em contrato ou protocolo celebrado com as entidades civis ou militares detentoras dos aludidos meios.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Detecção acidental)
 
 A detecção acidental efectuada por entidades ou pessoas não ligadas ao sistema instituído pelo presente diploma implica a observância das normas de conduta constantes do artigo 6.º do [Decreto-Lei n.º 327/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1980-469788).
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Alarme)
 
@@ -609,7 +643,7 @@ A detecção acidental efectuada por entidades ou pessoas não ligadas ao sistem
 
 ### CAPÍTULO V — Do combate
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Responsabilidade do combate)
 
@@ -619,7 +653,7 @@ A detecção acidental efectuada por entidades ou pessoas não ligadas ao sistem
 
 3 - A transferência prevista no número anterior pode operar-se total ou parcialmente, sem prejuízo do funcionamento do sistema, enquanto não se encontrar concluída tal transferência.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Coordenação e desenvolvimento das operações de combate)
 
@@ -643,7 +677,7 @@ A detecção acidental efectuada por entidades ou pessoas não ligadas ao sistem
 
 10 - Na constituição de comandos operacionais para o combate a fogos florestais, quando envolvidos em operações cuja natureza ou dimensão exija a colaboração de entidades não inseridas no sector dos bombeiros, devem participar representantes destas, com autonomia de decisão, para, sob coordenação do comandante operacional, permitir a articulação das acções a desenvolver por tais entidades, designadamente serviços florestais, forças do Exército, GNR e outras.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Acções de reforço)
 
@@ -653,7 +687,7 @@ A detecção acidental efectuada por entidades ou pessoas não ligadas ao sistem
 
 3 - Para efeitos do disposto no número anterior, considera-se que o quartel fica desguarnecido quando nele não permaneça elemento do corpo activo com poder de decisão para a resolução imediata de situações de emergência e com o equipamento mínimo para o efeito.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Papel do inspector regional de bombeiros)
 
@@ -661,7 +695,7 @@ A detecção acidental efectuada por entidades ou pessoas não ligadas ao sistem
 
 2 - Durante as operações de combate a incêndios será obrigatoriamente dado conhecimento da ocorrência ao inspector regional de bombeiros competente, logo que o sinistro assuma proporções que o justifiquem, de acordo com critérios a definir pelo aludido inspector, sem prejuízo das diligências necessárias à formação do comando operacional alargado previsto no n.º 3 do artigo 17.º
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Rescaldo)
 
@@ -669,7 +703,7 @@ A detecção acidental efectuada por entidades ou pessoas não ligadas ao sistem
 
 2 - Para efeitos da vigilância prevista no número anterior e sem prejuízo da responsabilidade que lhe é cometida, poderá o corpo de bombeiros local incluir no respectivo piquete pessoal auxiliar recrutado ad hoc, a título de colaboração gratuita ou mediante remuneração ajustada em função de eventuais perdas de salários.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Participação de meios aéreos no combate)
 
@@ -679,7 +713,7 @@ A detecção acidental efectuada por entidades ou pessoas não ligadas ao sistem
 
 3 - São criados desde já os centros de coordenação de combate aéreo nos aeródromos da Lousã e de Viseu, a cargo de um comando constituído por elementos dos serviços florestais e dos bombeiros, a designar pela estrutura hierárquica responsável da DGOGF e do Serviço Nacional de Bombeiros, respectivamente.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Acções posteriores ao combate)
 
@@ -689,7 +723,7 @@ A detecção acidental efectuada por entidades ou pessoas não ligadas ao sistem
 
 3 - A comunicação prevista no número anterior não prejudica a obrigatoriedade de elaboração de relatório complementar circunstanciado, a enviar ao mesmo inspector, no prazo máximo de 10 dias.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Encargos)
 
@@ -699,13 +733,13 @@ A detecção acidental efectuada por entidades ou pessoas não ligadas ao sistem
 
 ### CAPÍTULO VI — Das penalidades
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Crimes)
 
 As infracções às regras sobre utilização de fogo que revistam a natureza de crime serão punidas nos termos do Código Penal.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Contravenções)
 
@@ -729,7 +763,7 @@ c) O acesso, proibido nos termos do n.º 7 do artigo 9.º, com multa de 500$00 p
 
 ### CAPÍTULO VII — Da fiscalização
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Competência para fiscalização)
 
@@ -737,7 +771,7 @@ A fiscalização do estabelecido no [Decreto-Lei n.º 327/80](https://diariodare
 
 ### CAPÍTULO VIII — Disposições finais
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Dúvidas e casos omissos)
 
@@ -745,7 +779,7 @@ A fiscalização do estabelecido no [Decreto-Lei n.º 327/80](https://diariodare
 
 2 - No caso de se tratar de dúvidas ou casos omissos ligados a aspectos de interesse comum aos vários departamentos inseridos no sistema de prevenção, detecção e combate a fogos florestais, serão os mesmos esclarecidos por despacho conjunto dos Ministros detentores da tutela dos departamentos em causa.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Entrada em vigor)
 
@@ -753,10 +787,10 @@ O presente diploma regulamentar entra em vigor na data da sua publicação.
 
 Francisco José Pereira Pinto Balsemão - Diogo Pinto de Freitas do Amaral - José Ângelo Ferreira Correia - Basílio Adolfo Mendonça Horta da Franca.
 
-**Promulgado em 28 de Outubro de 1981.**
+Promulgado em 28 de Outubro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/29000/32993307.pdf))](https://files.diariodarepublica.pt/1s/1981/12/29000/32993307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/29000/32993307.pdf)

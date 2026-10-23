@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/02/02900/0000300004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/3/2020/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2020-129113818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77699c81a1620f12d76d028160f072143d0be7abfc00616d13993eb64eb30535
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5f1f7202fed22e1eda969fc35bf6867b8331136b0681d4b7eda79573e09e727
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Arroz
 - Classificação de Arroz
+- Comércio
 - Consumidor
 - Controlo de Qualidade
 - Especificação Técnica
-- Arroz
 - Etiquetagem
-- Comércio
 - Normalização
+- Produto Alimentar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/157/2017/12/28/p/dre
@@ -82,13 +82,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:20Z'
   warnings: []
   errors: []
 ---
@@ -145,15 +145,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de janeiro de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Mário José Gomes de Freitas Centeno - Maria do Céu de Oliveira Antunes Albuquerque.
 
-**Promulgado em 5 de fevereiro de 2020.**
+Promulgado em 5 de fevereiro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de fevereiro de 2020.**
+Referendado em 7 de fevereiro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -163,6 +163,8 @@ Visto e aprovado em Conselho de Ministros de 30 de janeiro de 2020. - António L
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/02/02900/0000300004.pdf))](https://files.diariodarepublica.pt/1s/2020/02/02900/0000300004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/02/02900/0000300004.pdf)
 
 Nota. - Devem ser consideradas para efeitos de tolerância de resultados analíticos do teor de amilose, pico de viscosidade e retrogradação os valores de incerteza associados aos métodos laboratoriais utilizados.»
+
+112997775

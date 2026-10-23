@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21031-1965-226616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:54:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8670858cb13b905578acd0e5d8b9753b19a606b49ebadefeb75cc3067f1a98d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7becca6e01d29aca44318dca467f769296e8cdb89413dec6a7c22b5f570a618c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:54:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:656829:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:54:41Z'
   warnings: []
   errors: []
 ---
@@ -88,20 +92,20 @@ Sendo conveniente que nos concursos para os postos de furriel e de primeiro-sarg
 
 Manda o Governo da República Portuguesa, pelo Ministro do Exército, que o § 1.º dos artigos 85.º e 86.º e os artigos 218.º e 219.º do mesmo regulamento passem a ter a seguinte redacção:
 
-###### Art. 85.º ...
+Art. 85.º ...
 
 § 1.º O ponto é rubricado na ocasião do sorteio por todos os membros do júri e pelo candidato ou, na falta deste, por quem o substituiu quando se trate de qualquer dos concursos para os candidatos abrangidos pela alínea a) do artigo 82.º deste regulamento, mas de modo a evitar que alguém, além do júri, dele tome conhecimento. O secretário do júri de cada uma das armas tira tantas cópias (impressos, dactilografados, chapilografados, ciclostilados, etc.) do ponto quantos forem os candidatos, cópias estas que serão remetidas às comissões nomeadas para assistir à execução da prova escrita, em número igual ao dos candidatos que a elas deverão ser presentes, juntando-lhes os impressos necessários para a execução do mesmo ponto, e, depois de rubricados por todos os membros do júri essas cópias e pelo presidente os impressos, fecha-as com os impressos em envelopes e lacra estes. De igual forma procede com o ponto original, ao qual serão juntas cópias em número igual ao dos candidatos, que serão presentes ao júri da arma, o qual ficará em poder do júri, para ser aberto no acto da realização da prova. Cada um daqueles envelopes é endereçado ao presidente de cada uma das comissões e remetido noutro envelope ao comandante militar da localidade onde funciona essa comissão, para o caso da alínea c) do artigo 82.º deste regulamento, ou ao comandante da unidade, escola prática ou fracção de unidade, para os casos da alínea e) do mesmo artigo, acompanhado de uma nota de remessa, da qual devem constar o dia e a hora em que deve ter lugar a prova, o local para onde deve ser dirigida a correspondência destinada ao júri e o pedido para ser acusada a recepção.
 
-###### Art. 86.º ...
+Art. 86.º ...
 
 § 1.º No dia 1 de Outubro ou, se este dia for domingo ou feriado nacional, no primeiro dia útil que se lhe seguir, à hora fixada pelo júri e no local designado para esse fim, perante os candidatos que devem prestar a prova escrita nesse local, o presidente do júri ou da comissão abre o envelope que contém as cópias do ponto sorteado e entrega-as ao secretário, que as distribui individualmente por cada candidato, devendo os respectivos júris usar de todas as cautelas para evitar a quebra do sigilo.
 
 ...
 
-###### Art. 218.º O ponto é rubricado na ocasião do sorteio por todos os membros do júri e pelo candidato ou, na falta deste, por quem o substituiu, quando se trate de qualquer dos concursos para os candidatos abrangidos pela alínea a) do artigo 213.º deste regulamento, mas de modo a evitar que alguém, além do júri, dele tome conhecimento. O secretário do júri de cada uma das armas tira tantas cópias (impressos, dactilografados, chapilografados, ciclostilados, etc.) do ponto quantos forem os candidatos, cópias estas que serão remetidas às comissões nomeadas para assistir à execução da prova escrita, em número igual ao dos candidatos que a elas deverão ser presentes, juntando-lhes os impressos necessários para a execução do mesmo ponto e, depois de rubricados por todos os membros do júri essas cópias e pelo presidente os impressos, fecha-as com os impressos em envelopes e lacra estes. De igual forma procede com o ponto original, ao qual serão juntas cópias em número igual ao dos candidatos, que serão presentes ao júri da arma, o qual ficará em poder do júri, para ser aberto no acto da realização da prova escrita. Cada um daqueles envelopes é endereçado ao presidente de cada uma das comissões e remetido noutro envelope ao comandante militar da localidade onde funciona essa comissão, para o caso da alínea b) do citado artigo 213.º, ou ao comandante da unidade, da escola prática ou da fracção de unidade, para o caso da alínea c) do mesmo artigo, acompanhado de uma nota de remessa, da qual devem constar o dia e a hora em que deve ter lugar a prova, o local para onde deve ser dirigida a correspondência destinada ao júri e o pedido para ser acusada a sua recepção.
+Art. 218.º O ponto é rubricado na ocasião do sorteio por todos os membros do júri e pelo candidato ou, na falta deste, por quem o substituiu, quando se trate de qualquer dos concursos para os candidatos abrangidos pela alínea a) do artigo 213.º deste regulamento, mas de modo a evitar que alguém, além do júri, dele tome conhecimento. O secretário do júri de cada uma das armas tira tantas cópias (impressos, dactilografados, chapilografados, ciclostilados, etc.) do ponto quantos forem os candidatos, cópias estas que serão remetidas às comissões nomeadas para assistir à execução da prova escrita, em número igual ao dos candidatos que a elas deverão ser presentes, juntando-lhes os impressos necessários para a execução do mesmo ponto e, depois de rubricados por todos os membros do júri essas cópias e pelo presidente os impressos, fecha-as com os impressos em envelopes e lacra estes. De igual forma procede com o ponto original, ao qual serão juntas cópias em número igual ao dos candidatos, que serão presentes ao júri da arma, o qual ficará em poder do júri, para ser aberto no acto da realização da prova escrita. Cada um daqueles envelopes é endereçado ao presidente de cada uma das comissões e remetido noutro envelope ao comandante militar da localidade onde funciona essa comissão, para o caso da alínea b) do citado artigo 213.º, ou ao comandante da unidade, da escola prática ou da fracção de unidade, para o caso da alínea c) do mesmo artigo, acompanhado de uma nota de remessa, da qual devem constar o dia e a hora em que deve ter lugar a prova, o local para onde deve ser dirigida a correspondência destinada ao júri e o pedido para ser acusada a sua recepção.
 
 ...
 
-###### Art. 221.º No dia 20 de Novembro ou, se este dia for domingo ou feriado nacional, no primeiro dia útil que se lhe seguir, à hora fixada pelo júri e no local designado para esse fim, perante os candidatos que devem prestar a prova escrita em cada local, o presidente do júri ou da comissão abre o envelope que contém as cópias do ponto sorteado e entrega-as ao secretário, que as distribui individualmente por cada candidato, devendo os respectivos júris usar de todas as cautelas para evitar a quebra do sigilo.
+Art. 221.º No dia 20 de Novembro ou, se este dia for domingo ou feriado nacional, no primeiro dia útil que se lhe seguir, à hora fixada pelo júri e no local designado para esse fim, perante os candidatos que devem prestar a prova escrita em cada local, o presidente do júri ou da comissão abre o envelope que contém as cópias do ponto sorteado e entrega-as ao secretário, que as distribui individualmente por cada candidato, devendo os respectivos júris usar de todas as cautelas para evitar a quebra do sigilo.
 
 Ministério do Exército, 5 de Janeiro de 1965. - O Ministro do Exército, Joaquim da Luz Cunha.

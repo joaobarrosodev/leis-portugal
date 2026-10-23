@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/06800/0000300019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/23/2023/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2023-211443515
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36a046323813eb5b4b61f453f56ceb7fff18deaaa3a7e29dd51aec0aaa3195b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 762412510ffe82b90323b9e276c51f9f3ea2756243f9cc14c9879ff27ee32a44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
-- Gestão de Resíduos
 - Central Hidroeléctrica
-- Energia Elétrica
-- Transporte Aéreo
+- Combustível
 - Consumidor
 - Consumo
 - Consumo de Energia
-- Transporte Rodoviário
-- Transporte Ferroviário
+- Controlo de Avaliação
+- Controlo Metrológico
+- Direção Geral de Energia e Geologia
+- Eliminação de Resíduos
+- Energia
+- Energia Elétrica
 - Energia Hidroelétrica
 - Energia Renovável
+- Entidade Nacional para o Setor Energético
 - Equipamento Eléctrico
 - Equipamento Eletrónico
-- Combustível
-- Direção Geral de Energia e Geologia
 - Gás
-- Transporte de Resíduos
-- Proteção do Ambiente
-- Tratamento de Resíduos
-- Regulamento Geral sobre o Ruido
-- Energia
-- Produção de Energia Elétrica
-- Controlo Metrológico
+- Gestão de Resíduos
+- Hidrogénio
 - Poluição Sonora
-- Controlo de Avaliação
-- Eliminação de Resíduos
+- Produção de Energia Elétrica
+- Proteção do Ambiente
+- Regulamento Geral sobre o Ruido
 - Substância Perigosa
 - Transporte
-- Entidade Nacional para o Setor Energético
-- Agência Portuguesa do Ambiente
-- Hidrogénio
+- Transporte Aéreo
+- Transporte de Resíduos
+- Transporte Ferroviário
+- Transporte Rodoviário
+- Tratamento de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:221278508:por
@@ -179,6 +179,102 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/53/2020/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53/2020/07/10/p/dre
+- type: cites
+  target: pt:dre:107495708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114163923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115487880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122242530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124532100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136675186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137618093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145359680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154483167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174480991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183432853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201054617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204502328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204552601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204552604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55235780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74788785:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32002L0049
   label: null
@@ -192,15 +288,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 34
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:38Z'
   warnings: []
   errors: []
 ---
@@ -263,13 +359,17 @@ Os artigos 5.º, 6.º, 9.º, 15.º e 15.º-B do [Decreto-Lei n.º 146/2006](http
 
 2 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os valores dos indicadores de ruído L(índice den) e L(índice n) são determinados pelos métodos de avaliação definidos na portaria a que se refere o n.º 1 do artigo anterior.
 
 2 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -293,7 +393,9 @@ Os artigos 5.º, 6.º, 9.º, 15.º e 15.º-B do [Decreto-Lei n.º 146/2006](http
 
 11 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -319,7 +421,9 @@ f) [...]
 
 6 - [...]
 
-###### Artigo 15.º-B — [...]
+Artigo 15.º-B
+
+[...]
 
 1 - [...]
 
@@ -397,7 +501,9 @@ w) [...]
 
 2 - Para efeitos do disposto no presente decreto-lei, são, ainda, aplicáveis as definições constantes das alíneas 1), 2), 3), 5), 6), 7), 8), 9), 13), 19), 20), 25), 26), 27), 30), 31), 32), 33), 36), 39), 40), 41), 42), 43), 44), 46) e 47) do artigo 2.º e das alíneas a) e b) do n.º 4 do artigo 29.º da [Diretiva (UE) 2018/2001](https://data.europa.eu/eli/dir/2018/2001/oj?locale=pt).
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -425,7 +531,9 @@ b) [...]
 
 11 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -467,7 +575,9 @@ a) No setor dos transportes marítimos, por portaria dos membros do Governo resp
 
 b) No setor dos transportes aéreos, por portaria dos membros do Governo responsáveis pelas áreas da energia e dos transportes.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -505,7 +615,9 @@ b) A quota de biocombustíveis e biogás produzidos a partir das matérias-prima
 
 c) Aplica-se o multiplicador referido na alínea f) do n.º 3 do artigo 6.º aos TdB relativos aos combustíveis de baixo carbono destinados aos transportes marítimos e aéreos.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 Para efeitos de monitorização do cumprimento das obrigações previstas no artigo anterior, os operadores económicos devem prestar informação à ENSE, E. P. E., numa base mensal e até ao dia 25 do mês seguinte, de acordo com o seguinte:
 
@@ -515,7 +627,9 @@ b) [...]
 
 c) [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -529,7 +643,9 @@ b) [...]
 
 4 - [...]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Para efeitos das metas previstas no presente decreto-lei, considera-se que os biocombustíveis, os biolíquidos e os combustíveis biomássicos não cumprem os critérios de sustentabilidade quando produzidos a partir de biomassa agrícola proveniente de terrenos com elevado teor de carbono.
 
@@ -541,7 +657,9 @@ a) A biocombustíveis, biolíquidos e combustíveis biomássicos produzidos a pa
 
 b) [...]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -577,7 +695,9 @@ m) [...]
 
 4 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -593,7 +713,9 @@ m) [...]
 
 7 - [...]
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...]
 
@@ -615,7 +737,9 @@ m) [...]
 
 10 - (Anterior n.º 9.)
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...]
 
@@ -627,7 +751,9 @@ b) [...]
 
 3 - [...]
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Pelo menos 5 % das transações de TdB bonificados identificados no artigo anterior devem ser efetuadas numa plataforma eletrónica, a criar no âmbito do Balcão Único da Energia, no formato de bolsa de títulos, baseada em licitações de procura e oferta ajustáveis.
 
@@ -635,7 +761,9 @@ b) [...]
 
 3 - [...]
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...]
 
@@ -657,7 +785,9 @@ d) Cumpra os critérios de sustentabilidade e de redução de emissões de GEE p
 
 6 - O reconhecimento como PPD é objeto de despacho conjunto do diretor-geral da AT e do diretor-geral da DGEG.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - DGEG coloca a leilão os TdB correspondentes aos biocombustíveis introduzidos no consumo pelos PPD e identificados no n.º 5 do artigo anterior.
 
@@ -671,7 +801,9 @@ d) Cumpra os critérios de sustentabilidade e de redução de emissões de GEE p
 
 6 - Os avisos de cada leilão são elaborados com o apoio e após consulta da ENSE, E. P. E., e da ECS.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - [...]
 
@@ -697,7 +829,9 @@ h) O incumprimento da obrigação de facultar à DGEG as informações previstas
 
 4 - [...]
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - Compete à ENSE, E. P. E., proceder à instauração, instrução e decisão dos processos de contraordenação nos termos previstos nos artigos 48.º a 50.º
 
@@ -707,7 +841,9 @@ h) O incumprimento da obrigação de facultar à DGEG as informações previstas
 
 4 - [...]
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - [...]
 
@@ -727,7 +863,9 @@ h) O incumprimento da obrigação de facultar à DGEG as informações previstas
 
 9 - [...]
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - A portaria a que se refere a alínea a) do n.º 3 do artigo 4.º é aprovada no prazo de 120 dias a partir da data de entrada em vigor do presente decreto-lei.
 
@@ -741,7 +879,9 @@ h) O incumprimento da obrigação de facultar à DGEG as informações previstas
 
 6 - (Revogado.)
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - [...]
 
@@ -767,7 +907,9 @@ Os artigos 5.º e 7.º do [Decreto-Lei n.º 84-A/2022](https://diariodarepublica
 
 Os mapas estratégicos de ruído, relativos ao ano civil de 2021, para todas as aglomerações, bem como para todas as grandes infraestruturas de transporte aéreo, rodoviário e ferroviário, são, conforme os casos, elaborados, aprovados e enviados à Agência Portuguesa do Ambiente, I. P., até ao dia 15 de dezembro de 2022, juntamente com a informação referida na portaria referida no n.º 1 do artigo 5.º do [Decreto-Lei n.º 146/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2006-539393), de 31 de julho, com redação introduzida pelo presente decreto-lei, em formato compatível com o repositório de dados estabelecido na Decisão de Execução (UE) [2021/1967](https://data.europa.eu/eli/dec/2021/1967/oj?locale=pt) da Comissão, de 11 de novembro de 2021.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -793,7 +935,9 @@ b) Ao consumo de gás natural das instalações de cogeração que, durante o pe
 
 c) [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Os pagamentos dos montantes correspondentes aos consumos de gás natural faturados em 2023, e os seus eventuais acertos, são iniciados em fevereiro do mesmo ano e podem ser liquidados até 30 de junho de 2024.»
 
@@ -815,21 +959,21 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de março de 2023. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - António José da Costa Silva - Manuel Francisco Pizarro de Sampaio e Castro - José Duarte Piteira Rica Silvestre Cordeiro.
 
-**Promulgado em 29 de março de 2023.**
+Promulgado em 29 de março de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de março de 2023.**
+Referendado em 30 de março de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
 ## ANEXO I — [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/04/06800/0000300019.pdf))](https://files.diariodarepublica.pt/1s/2023/04/06800/0000300019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/04/06800/0000300019.pdf)
 
 ## ANEXO II — [...]
 
@@ -962,3 +1106,5 @@ Caduca em 30 de junho de 2027.
 2 - (Revogado.)
 
 3 - [...]
+
+116341023

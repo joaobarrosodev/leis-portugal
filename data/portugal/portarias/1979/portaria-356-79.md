@@ -46,40 +46,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/356-1979-382046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T05:56:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53cb2bb446f6c5608665273084437c894c164f9054d8a7c867b14fac786aa5c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c74db19cd8a39ae10e9da52d8efc5d8a2c88d9d501254dce6eff762c42bddd5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:56:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CP
+- Preço
+- Tarifa Geral de Transportes
+- Transporte de Mercadorias
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:662928:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:403331:por
+  label: "Alterado o anexo IV da Tarifa Geral de Transportes - Parte II «Mercadorias» da C. P., aprovada pela Port 636/75,\
+    \ de 05-Nov, na redacção do presente diploma, pelaPORT.527/79.29.09.1979.MF, DR.IS [226-Supl] de 29.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/527-1979-403331
+  date: '1979-09-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ART 137, 141, 142, 145, 156, 157, 158 A 161 (RESERVADOS), 164, 165, 182, 184, 231, 235, 236 A 245 (RESERVADOS)\
+    \ 295, 300, ALTERADO O ANEXO IV E V, ALTERADA A TARIFA ESPECIAL DE DETALHE NOS ART 2, 6, 8, 9, ALTERADA A TARIFA ESPECIAL\
+    \ DE GRANDES CONTENTORES NO ART 5 DA PORT 636/75 DE 05-NOV, SUCESSIVAMENTE ALTERADO PELO PRESENTE DIPLOMA E PELAS PORT\
+    \ 257/78 DE 05-MAI E 527/79 DE 29-SET, PELA PORT 1117/80 DE 31-DEZ DR.IS [301]9SUPL\0 DE 31-DEZ DR.IS [301]9SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1980-12-31'
+- type: amended_by
+  target: pt:dre:226654:por
+  label: "Alterados os art.s 137º, 156º, 165º, 182º e 231º bem como os anexos IV e V da Tarifa Geral de Transportes - Parte\
+    \ II «Mercadorias» da CP , aprovada pelo pela Port 636/75, de 05-Nov, na redacção do presente diploma, pela PORT.1117/80.31.12.1980.MFP,\
+    \ DR.IS [301-9ºSupl] de 31.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1117-1980-226654
+  date: '1980-12-31'
+- type: amended_by
+  target: pt:dre:331024:por
+  label: "Alterado o art. 231º bem como os anexos IV e V da Tarifa Geral de Transportes - Parte II «Mercadorias» da CP, aprovada\
+    \ pelo pela Port 636/75, de 05-Nov, na redacção do presente diploma, pela PORT.736-C/81.28.08.1981.MFP, DR.IS [197-Supl]\
+    \ de 28.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/736-c-1981-331024
+  date: '1981-08-28'
+- type: amended_by
+  target: pt:dre:242539:por
+  label: "Alterados os anexos IV e V da Tarifa Geral de Transportes - Parte II «Mercadorias» da CP, aprovada pelo pela Port\
+    \ 636/75, de 05-Nov, na redacção do presente diploma, pela PORT.1112-A/81.30.12.1981.MFP, DR.IS [299-2ºSupl] de 30.12.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1112-a-1981-242539
+  date: '1981-12-30'
+- type: amended_by
+  target: pt:dre:381726:por
+  label: "Alterados os art.s 133º, 144º, 176º, 180º, 182º e 231º da Tarifa Geral de Transportes dos Caminhos de Ferro Portugueses,\
+    \ E. P., aprovada pela Port 636/75, de 05-Nov, na redacção do presente diploma, pela PORT.526/84.28.07.1984.MES, DR.IS\
+    \ [174] de 28.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/526-1984-381726
+  date: '1984-07-28'
+- type: amended_by
+  target: pt:dre:662928:por
+  label: "Alterado o art. 165º da Tarifa Geral de Transportes, parte II «Mercadorias», aprovada pela Port 636/75, de 05-Nov\
+    \ DG.IS [256], com as alterações constantes do presente diploma, pela PORT.98/87.11.02.1987.MOPTC, DR.IS [35] de 11.02.1987\0\
+    7\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/98-1987-662928
+  date: '1987-02-11'
+- type: cites
+  target: pt:dre:295800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312793:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:56:34Z'
   warnings: []
   errors: []
 ---
@@ -356,7 +418,7 @@ Requeijão.
 
 ## ANEXO IV — Taxas de operações acessórias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/16600/15811584.pdf))](https://files.diariodarepublica.pt/1s/1979/07/16600/15811584.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/16600/15811584.pdf)
 
 4.º O anexo V, volume I, é alterado, suprimindo-se a tabela de preços n.º 200 e aumentando-se a tabela n.º 100 em 15%.
 

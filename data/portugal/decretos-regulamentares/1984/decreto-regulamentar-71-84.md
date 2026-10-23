@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/09/20800/27762787.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1984-373436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:10:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a51389d09ff387048c6d3d1025c1a0b191b571db590738956405cff1ef67e5d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5cee188da82ed891b96adc14ae904a5fa20614f8394f1828968a804bf91f492b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:10:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Consumo
+- Contra-ordenação
+- Crime
+- Definição de Competências
+- Direcção Geral de Assuntos Farmacêuticos
+- Droga
+- Embalagem
+- Exportação
+- Gabinete de Planeamento e de Coordenação do Combate à Droga
+- Importação
+- Indústria Farmacêutica
+- Medicamento
+- Multa
+- Produto Farmacêutico
+- Publicidade
+- Responsabilidade Criminal
+- Saúde Pública
+- Taxa
+- Toxicodependente
 relationships:
 - type: amended_by
   target: pt:dre:619306:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:333105:por
+  label: "Alterado o art. 28º pelo DR.7/90.1990.03.24.MS, DR.IS [70]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/7-1990-333105
+  date: '1990-03-24'
+- type: cites
+  target: pt:dre:162653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443290:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:619306:por
+  label: "Revogado pelo DR.61/94.1994.10.12.MJ, DR.IS-B [236]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/61-1994-619306
+  date: '1994-10-12'
 article_structure:
   article_count: 64
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:10:07Z'
   warnings: []
   errors: []
 ---
@@ -732,12 +774,12 @@ A publicidade respeitante a substâncias e preparados compreendidos nas tabelas 
 
 Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - António Manuel Maldonado Gonelha.
 
-**Promulgado em 27 de Junho de 1984.**
+Promulgado em 27 de Junho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Julho de 1984.**
+Referendado em 27 de Julho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

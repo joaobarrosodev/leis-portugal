@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/24/1997/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1997-581227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:51:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed6126d603295c6cb04eae7fb90eb0e3ce4aee26841d6b555abf4af3e1fc081b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0eeb30fed3a39740ae53f6fde38ad76dcb4f6cb7da79cdacaaeec69bc96676cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:51:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Benefícios Fiscais
 - Código do IRC
 - Código do IRS
 - Estatuto dos Benefícios Fiscais
 - Fundo de Investimento
+- IRC
 - IRS
 - Isenção Fiscal
-- IRC
 - Regime Fiscal
-- Benefícios Fiscais
 relationships:
 - type: amended_by
   target: pt:dre:689420:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:419394:por
+  label: "Alterada a al. a) do nº 1 do art. 19º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul,\
+    \ na redacção do presente diploma, pelo DEC LEI.367/97.23.12.1997.MF, DR.IS-A [295] de 23.12.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/367-1997-419394
+  date: '1997-12-23'
+- type: amended_by
+  target: pt:dre:570520:por
+  label: "Alterado o art. 19º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pela LEI.87-B/98.31.12.1998.AR, DR.IS-A [301-5ºSupl] de 31.12.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-b-1998-570520
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:679669:por
+  label: "Alterado o art. 19º do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do presente\
+    \ diploma, pela LEI.3-B/2000.04.04.2000.AR, DR.IS-A [80-2ºSupl] de 04.04.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: "Alterado o art. 19º do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89, de 01-Jun, na redacção do presente\
+    \ diploma, pela LEI.30-G/2000.29.12.2000.AR, DR.IS-A [299-3ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Alterado o art. 19º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pela LEI.32-B/2002.30.12.2002.AR, DR.IS-A [301-2ºSupl] de 30.12.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterado o art. 19º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, revisto pelo Dec Lei 198/2001, de 03-Jul, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de\
+    \ 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/276/1994/11/02/p/dre
   label: null
@@ -87,16 +124,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621311:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:574705:por
+  label: "Rectificado o art. 1º, pela DECL-RECT.5-E/97.1997.02.25.PCM DR.IS-A [50]2ºSupl de 28/FEV/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/5-e-1997-574705
+  date: '1997-02-25'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:51:50Z'
   warnings: []
   errors: []
 ---
@@ -163,12 +217,12 @@ O presente diploma entra em vigor no dia imediato ao da respectiva publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 31 de Dezembro de 1996.**
+Promulgado em 31 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Dezembro de 1996.**
+Referendado em 31 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/04/08100/13781387.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,113 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1988-286536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 275ba778e26f03574e3d043a30d95a23894f540a5ca67fa6652324506f9b7bc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f19e15abb05b448626a5fb58e09c78584f468412fd704f6de4722faf4b707683
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Pescas
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:655518:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:615213:por
+  label: "Alterado o quadro de pessoal, aprovado pelo presaente diploma, pela PORT.276/89.15.04.1989.MF, DR.IS [88] de 15.04.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/276-1989-615213
+  date: '1989-04-15'
+- type: amended_by
+  target: pt:dre:565422:por
+  label: "Alterado o quadro de pessoal, criado no presente diploma, pela PORT.1069/90.24.10.1990.MF, DR.IS [246] de 24.10.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1069-1990-565422
+  date: '1990-10-24'
+- type: amended_by
+  target: pt:dre:145196:por
+  label: Alterado o quadro de pessoal da Direcção-Geral das Pescas, pelo(a) Despacho Normativo n.º 12/92 - Diário da República
+    n.º 22/1992, Série I-B de 1992-01-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-1992-145196
+  date: '1992-01-27'
+- type: amended_by
+  target: pt:dre:497439:por
+  label: Alterado o quadro de pessoal da Direcção-Geral das Pescas, pelo(a) Despacho Normativo n.º 59/92 - Diário da República
+    n.º 102/1992, Série I-B de 1992-05-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/59-1992-497439
+  date: '1992-05-04'
+- type: amended_by
+  target: pt:dre:300650:por
+  label: Alterado o quadro de pessoal da Direcção-Geral das Pescas, pelo(a) Despacho Normativo n.º 83/92 - Diário da República
+    n.º 130/1992, Série I-B de 1992-06-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/83-1992-300650
+  date: '1992-06-05'
+- type: amended_by
+  target: pt:dre:584800:por
+  label: Alterado o quadro de pessoal da Direcção-Geral das Pescas, aprovado pelo presente diploma, e alterado pelas Ports
+    276/89, de 15-abr, e 1069/90, de 24-out, no que se refere às carreiras de Pessoal de BAD, pelo(a) Portaria n.º 1062/92
+    - Diário da República n.º 265/1992, Série I-B de 1992-11-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1062-1992-584800
+  date: '1992-11-16'
+- type: cites
+  target: pt:dre:169972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667910:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:655518:por
+  label: "Revogado pelo DEC LEI.320/93.21.09.1993.MM, DR.IS-A [222] de 21.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-1993-655518
+  date: '1993-09-21'
 article_structure:
   article_count: 42
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:51Z'
   warnings: []
   errors: []
 ---
@@ -390,7 +463,9 @@ a) Secção de Património, Instalações e Parque Automóvel, à qual cabe exec
 
 b) Secção de Aprovisionamento, à qual cabe executar as acções e tarefas no domínio do aprovisionamento e serviços gerais, de acordo com as orientações e regulamentos superiormente aprovados.
 
-###### Artigo 19.º — Divisão de Gestão de Pessoal
+###### Artigo 19.º
+
+##### Divisão de Gestão de Pessoal
 
 À Divisão de Gestão de Pessoal compete colaborar na gestão do pessoal da Direcção-Geral, designadamente na selecção, recrutamento e formação desse pessoal e coordenar e assegurar o funcionamento de um centro de formação.
 
@@ -478,7 +553,7 @@ O pessoal que em 1 de Junho de 1984 se encontrasse a prestar serviço fora dos q
 
 ###### Artigo 33.º — Apoio às associações
 
-**O Ministro da Agricultura, Pescas e Alimentação pode autorizar que o pessoal técnico da Direcção-Geral preste apoio às associações ligadas aos sectores de actividade do Ministério, com o objectivo de elaborar programas de actuação que visem o seu desenvolvimento e assistir tecnicamente à respectiva execução.**
+O Ministro da Agricultura, Pescas e Alimentação pode autorizar que o pessoal técnico da Direcção-Geral preste apoio às associações ligadas aos sectores de actividade do Ministério, com o objectivo de elaborar programas de actuação que visem o seu desenvolvimento e assistir tecnicamente à respectiva execução.
 
 ###### Artigo 34.º — Gestão
 
@@ -554,27 +629,27 @@ As competências ministeriais previstas no presente diploma são delegáveis nos
 
 Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 14 de Março de 1988.**
+Promulgado em 14 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Março de 1988.**
+Referendado em 16 de Março de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Direcção-Geral das Pescas
 
 Mapa I a que se refere o artigo 24.º do Decreto Regulamentar n.º 17/88
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/04/08100/13781387.pdf))](https://files.diariodarepublica.pt/1s/1988/04/08100/13781387.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/04/08100/13781387.pdf)
 
 Mapa II a que se refere o artigo 24.º do Decreto Regulamentar n.º 17/88
 
 (Categorias a extinguir nos termos do n.º 2 do artigo 2.º do [Decreto Regulamentar n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1984-384385), de 28 de Maio)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/04/08100/13781387.pdf))](https://files.diariodarepublica.pt/1s/1988/04/08100/13781387.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/04/08100/13781387.pdf)
 
 Mapa III - Técnicos auxiliares
 

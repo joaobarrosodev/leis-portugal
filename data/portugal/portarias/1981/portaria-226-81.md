@@ -46,40 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/226-1981-388612
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:40:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1dad22150929f13245aaed1cc3dae697f746e4c497e7cf45e44b28b7f5417878
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc1bf804dcaa1f635a6fa72d04c7ff3b3e5f3076c6120148f40942e8fa054b9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:40:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Superior Técnico
+- Mestrado
+- Plano de Estudos
+- Universidade Técnica de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:370577:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:386596:por
+  label: "Alterado o anexo I pela PORT.371/84.14.06.1984.ME, DR.IS [137] de 14.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/371-1984-386596
+  date: '1984-06-14'
+- type: amended_by
+  target: pt:dre:171484:por
+  label: "Dada nova redacção ao anexo VI pelo presente diploma, pela PORT.826/85.31.10.1985.ME, DR.IS [251] de 31.10.1985\0\
+    5\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/826-1985-171484
+  date: '1985-10-31'
+- type: amended_by
+  target: pt:dre:218685:por
+  label: "Alterado o anexo I, com a redacção conferida pela Port 371/84 de 14-Jun, pela PORT.420/86.01.08.1986.MEC, DR.IS\
+    \ [175] de 01.08.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/420-1986-218685
+  date: '1986-08-01'
+- type: amended_by
+  target: pt:dre:499017:por
+  label: "Derrogado o presente diploma, no que diz respeito ao curso conducente ao mestrado em transferência e conversão de\
+    \ Energia, pela PORT.898/87.25.11.1987.ME, DR.IS [272] de 25.11.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/898-1987-499017
+  date: '1987-11-25'
+- type: amended_by
+  target: pt:dre:370577:por
+  label: "Alterado o anexo I, com a redacção dada pelas Port 371/84 de 14-Jun e 420/86 de 01-Ago, pela PORT.602/88.31.08.1988.ME,\
+    \ DR.IS [201] de 31.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/602-1988-370577
+  date: '1988-08-31'
+- type: cites
+  target: pt:dre:139272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470446:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:394491:por
+  label: Rectificada pela DECL.DD6492.08.04.1981.PCM, DR.IS [90] de 18.04.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-394491
+  date: '1981-04-08'
+- type: repealed_by
+  target: pt:dre:616619:por
+  label: "Revogada, na parte respeitante ao Mestrado em Engenharia de Projecto Mecânico, pela PORT.14/86.1986.01.11.MEC, DR.IS\
+    \ [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/14-1986-616619
+  date: '1986-01-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:40:47Z'
   warnings: []
   errors: []
 ---
@@ -206,7 +262,7 @@ Um ano lectivo.
 
 3 - Áreas obrigatórias e unidades de crédito necessárias à obtenção do curso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/05000/05660568.pdf))](https://files.diariodarepublica.pt/1s/1981/02/05000/05660568.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/05000/05660568.pdf)
 
 4 - Licenciaturas a que se refere o ponto 1 do n.º 5.º:
 
@@ -232,7 +288,7 @@ Um ano lectivo. O conselho científico poderá autorizar a duração normal de d
 
 3 - Áreas obrigatórias e unidades de crédito necessárias à obtenção do curso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/05000/05660568.pdf))](https://files.diariodarepublica.pt/1s/1981/02/05000/05660568.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/05000/05660568.pdf)
 
 4 - Licenciatura a que se refere o ponto 1 do n.º 5.º:
 
@@ -256,7 +312,7 @@ Um ano lectivo.
 
 3 - Áreas obrigatórias e unidades de crédito necessárias à obtenção do curso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/05000/05660568.pdf))](https://files.diariodarepublica.pt/1s/1981/02/05000/05660568.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/05000/05660568.pdf)
 
 4 - Licenciaturas a que se refere o ponto 1 do n.º 5.º:
 
@@ -284,7 +340,7 @@ Um ano lectivo.
 
 3 - Áreas obrigatórias e unidades de crédito necessárias à obtenção do curso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/05000/05660568.pdf))](https://files.diariodarepublica.pt/1s/1981/02/05000/05660568.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/05000/05660568.pdf)
 
 I - Área de especialização em Mineralurgia.
 
@@ -316,7 +372,7 @@ Um ano lectivo.
 
 3 - Áreas obrigatórias e unidades de crédito necessárias à obtenção do curso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/05000/05660568.pdf))](https://files.diariodarepublica.pt/1s/1981/02/05000/05660568.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/05000/05660568.pdf)
 
 4 - Licenciaturas a que se refere o ponto 1 do n.º 5.º:
 
@@ -344,7 +400,7 @@ Um ano lectivo.
 
 3 - Áreas obrigatórias e unidades de crédito necessárias à obtenção do curso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/05000/05660568.pdf))](https://files.diariodarepublica.pt/1s/1981/02/05000/05660568.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/05000/05660568.pdf)
 
 4 - Licenciaturas a que se refere o ponto 1 do n.º 5.º:
 

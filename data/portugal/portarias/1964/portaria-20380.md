@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20380-1964-469821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f237f34d80291585f237c85bcbfbc862a9f66e864dc9c7daa8b8fa454e6e4c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82c21abca261c6d5d26a7e533b2940bb8869d39ea0693a4ab30ed1855b698540
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:501234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504301:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:45Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +99,13 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1.º O artigo 1.º passa a ter a seguinte redacção:
 
-###### Artigo 1.º O ensino primário é constituído por quatro classes, precedidas de uma classe preparatória e formando um só ciclo, terminando com a aprovação no exame da 4.ª classe.
+Artigo 1.º O ensino primário é constituído por quatro classes, precedidas de uma classe preparatória e formando um só ciclo, terminando com a aprovação no exame da 4.ª classe.
 
 § único. A classe preparatória visa a prática do uso oral corrente da língua nacional e actividades preparatórias da receptividade para o ensino escolarizado.
 
 2.º O artigo 2.º passa a ter a seguinte redacção:
 
-###### Art. 2.º A frequência do ensino primário é obrigatória, até aprovação no exame final, para os menores de ambos os sexos que tenham idade compreendida entre os 6 e os 12 anos, com referência a 31 de Dezembro do ano em que a matrícula respeita.
+Art. 2.º A frequência do ensino primário é obrigatória, até aprovação no exame final, para os menores de ambos os sexos que tenham idade compreendida entre os 6 e os 12 anos, com referência a 31 de Dezembro do ano em que a matrícula respeita.
 
 § 1.º As crianças com 7 anos feitos, ou a fazer até 31 de Dezembro do ano da primeira matrícula, podem ser dispensadas da frequência da classe preparatória, a solicitação expressa dos pais, encarregados de educação ou responsáveis por elas, se tiverem o português como língua de uso corrente e possuírem a maturidade bastante para receberem o ensino da 1.ª classe, verificados nos termos a fixar no regulamento do ensino primário, sob parecer da inspecção provincial.
 
@@ -105,7 +113,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 3.º O artigo 3.º passa a ter a seguinte redacção:
 
-###### Art. 3.º O aproveitamento escolar, na classe preparatória e nas três primeiras classes, é verificado, no fim de cada ano lectivo, por meio de provas de passagem de classe orientadas segundo normas a estabelecer pelos serviços de inspecção e sobre pontos por estes elaborados.
+Art. 3.º O aproveitamento escolar, na classe preparatória e nas três primeiras classes, é verificado, no fim de cada ano lectivo, por meio de provas de passagem de classe orientadas segundo normas a estabelecer pelos serviços de inspecção e sobre pontos por estes elaborados.
 
 4.º O § único do artigo 3.º passa a § 1.º, com a seguinte redacção:
 
@@ -119,11 +127,11 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 6.º O artigo 4.º passa a ter a seguinte redacção:
 
-###### Art. 4.º Serão sujeitos à prestação de provas de exame de 3.ª classe, a regulamentar pelo Ministro da Educação Nacional, com base em parecer da Junta Nacional da Educação, os alunos que sigam estudos em classe de regime pedagógico especial para recuperação de nível mental.
+Art. 4.º Serão sujeitos à prestação de provas de exame de 3.ª classe, a regulamentar pelo Ministro da Educação Nacional, com base em parecer da Junta Nacional da Educação, os alunos que sigam estudos em classe de regime pedagógico especial para recuperação de nível mental.
 
 7.º O artigo 5.º e seu § único passam a ter a seguinte redacção:
 
-###### Art. 5.º A partir do ano lectivo próximo adoptar-se-ão os programas adaptados ao condicionalismo ultramarino, que vão dados em anexo à presente portaria.
+Art. 5.º A partir do ano lectivo próximo adoptar-se-ão os programas adaptados ao condicionalismo ultramarino, que vão dados em anexo à presente portaria.
 
 § único. No ensino do Português, da Aritmética, da Geometria e Ciências Geográfico-Naturais a terminologia específica a empregar deve ser apenas a dos programas. Os livros e os cadernos necessários ao ensino serão os que forem aprovados por despacho ministerial.
 
@@ -319,7 +327,7 @@ A Terra. - Sua forma; o equador e os pólos. Continentes e oceanos. As ilhas. Le
 
 Portugal. - Territórios e populações de que se compõe. Comparação das grandezas desses territórios; comunicação entre eles por terra, mar e ar.
 
-##### Divisão dos territórios continental, insular e ultramarino em distritos e províncias; suas capitais. Razões especiais da importância de algumas cidades (função administrativa; actividade cultural ou económica; carácter turístico). Nomes e localização dos principais rios portugueses (Minho, Douro, Mondego, Tejo, Guadiana; Cacheu, Geba; Zaire, Cuanza, Cunene; Rovuma, Zambeze, Save, Limpopo, Incomati; Mandovi); sua importância na delimitação de fronteiras e na vida económica nacional (agricultura, pesca, indústrias baseadas na força motriz da água; centrais hidroeléctricas; comunicações).
+Divisão dos territórios continental, insular e ultramarino em distritos e províncias; suas capitais. Razões especiais da importância de algumas cidades (função administrativa; actividade cultural ou económica; carácter turístico). Nomes e localização dos principais rios portugueses (Minho, Douro, Mondego, Tejo, Guadiana; Cacheu, Geba; Zaire, Cuanza, Cunene; Rovuma, Zambeze, Save, Limpopo, Incomati; Mandovi); sua importância na delimitação de fronteiras e na vida económica nacional (agricultura, pesca, indústrias baseadas na força motriz da água; centrais hidroeléctricas; comunicações).
 
 Os acidentes orográficos mais importantes e sua localização (serras do Gerês, Barroso, Marão, Montemuro, Caramulo, Estrela; Pico; Pico do Fogo; Pico de S. Tomé, Canganza, Tala-Mugongo e Chela; Namuli, Gorongosa; Gates; Ramelau; planície alentejana; planaltos de Malanje, Lunda, Benguela, Bié e Huíla; planalto de Manica). Ideia sumária da relação entre a orografia e a riqueza agro-pecuária e florestal.
 
@@ -485,7 +493,7 @@ Desenvolvimento do vocabulário pelo uso de sinónimos e antónimos de vocábulo
 
 Determinação de famílias de palavras. Exercícios frequentes de exposição oral.
 
-##### Divisão dos períodos em proposições. Ideia de oração principal. Análise da proposição: o sujeito, o predicado, o nome predicativo do sujeito e o complemento directo. Distinção prática dos tempos dos verbos.
+Divisão dos períodos em proposições. Ideia de oração principal. Análise da proposição: o sujeito, o predicado, o nome predicativo do sujeito e o complemento directo. Distinção prática dos tempos dos verbos.
 
 Noções elementares de morfologia: substantivo, adjectivo, artigo, pronome, numeral, verbo, advérbio, substantivo próprio, comum e colectivo. Verificação prática dos graus dos adjectivos. O singular e o plural, o masculino e o feminino dos substantivos e dos adjectivos. Numerais: cardinais e ordinais.
 
@@ -817,7 +825,7 @@ Círculo e circunferência. O raio.
 
 Ângulos formados por dois raios.
 
-##### Divisão do círculo e da circunferência em graus. Medição de ângulos com o transferidor.
+Divisão do círculo e da circunferência em graus. Medição de ângulos com o transferidor.
 
 Noções de horizontal e vertical. Uso do nível e do fio de prumo.
 
@@ -911,7 +919,7 @@ Desenhar-se-á uma, de perfil, em ponto grande, para colocar na parede fronteira
 
 Dá-se o exemplo do desenho de um lanço da escada:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/02/04200/02880314.pdf))](https://files.diariodarepublica.pt/1s/1964/02/04200/02880314.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/02/04200/02880314.pdf)
 
 Em actividades de subir e descer a escada, descansando nos patamares, o professor mostra como se forma cada número, unidade por unidade, até 50. Promoverá exercícios de composição e decomposição dos números novos que vai formando e fará com que os alunos resolvam uma infinidade de problemas orais, simples, observando a escadaria e dela se servindo. Convém que haja um ponteiro de que os alunos se servirão para a percorrer.
 

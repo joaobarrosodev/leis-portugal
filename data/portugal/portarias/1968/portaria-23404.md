@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23404-1968-271224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55daddbc632c2de0840cc2640f63c305643fb415459cb27757bec518670c26de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b43b09fb8e5df8bb6b506c35c264ec64c3fbd74f04fb244c12ff7f9878ead91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659487:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:17Z'
   warnings: []
   errors: []
 ---
@@ -119,17 +131,17 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 4.º O artigo 46.º passará a ter a seguinte redacção:
 
-###### Art. 46.º No caso de expropriação parcial ou de desistência do pedido por parte do expropriante e sempre que o valor real do prédio, fixado no processo, seja, em 80 por cento, superior ou inferior ao valor matricial, o agente do Ministério Público enviará ao chefe de repartição de Fazenda competente certidão para efeitos de actualização do valor, nos termos das leis fiscais da província.
+Art. 46.º No caso de expropriação parcial ou de desistência do pedido por parte do expropriante e sempre que o valor real do prédio, fixado no processo, seja, em 80 por cento, superior ou inferior ao valor matricial, o agente do Ministério Público enviará ao chefe de repartição de Fazenda competente certidão para efeitos de actualização do valor, nos termos das leis fiscais da província.
 
 5.º O n.º 2.º do artigo 62.º passará a ter a seguinte redacção:
 
-###### Art. 62.º - 1. ...
+Art. 62.º - 1. ...
 
 2. Logo que do processo constem os elementos necessários, será proferida decisão dentro do prazo de 30 dias, dela havendo recurso para o Conselho Ultramarino nos termos das suas normas gerais.
 
 6.º O artigo 79.º passará a ter a seguinte redacção:
 
-###### Art. 79.º Os processos relativos aos planos de urbanização, com a delimitação da área valorizada, serão submetidos ao governador para efeitos de homologação.
+Art. 79.º Os processos relativos aos planos de urbanização, com a delimitação da área valorizada, serão submetidos ao governador para efeitos de homologação.
 
 Ministério do Ultramar, 28 de Maio de 1968. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 

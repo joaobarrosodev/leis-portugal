@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/237/2004/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d17124ea6e626af301b3c1d6e6ba565dda950b4eaa910dd5931dcd406095f928
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 293c85fb560ee86b6bbfd1be82ce6fd03de89ba5a901a01596629610038a2e00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,26 @@ reuse:
 subjects:
 - Definição de Competências
 - Direcção Geral dos Impostos
-- Recrutamento de Pessoal
-- Remuneração Acessória
 - Inspecção Tributária
 - Integração de Serviços
 - Pessoal de Inspecção
-- Tesoureiro
+- Recrutamento de Pessoal
 - Remuneração
+- Remuneração Acessória
 - Serviço de Finanças
 - Tesouraria de Finanças
+- Tesoureiro
 relationships:
 - type: amended_by
   target: pt:dre:946246034:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145591:por
+  label: "Mantido em vigor o disposto nos nºs 1 e 2 do art. 23º do Dec Lei 366/99, de 18-Set, na redacção do presente diploma,\
+    \ pelo DEC LEI.118/2011.15.12.2011.MF, DR.IS [239] de 15.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-2011-145591
+  date: '2011-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/158/1996/09/03/p/dre
   label: null
@@ -118,16 +124,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:157034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655311:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:124324704:por
+  label: Revogado, a partir de 01.01.2020, o art. 2.º do presente diploma pelo(a) Decreto-Lei n.º 132/2019 - Diário da República
+    n.º 166/2019, Série I de 2019-08-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-2019-124324704
+  date: '2019-08-30'
 article_structure:
-  article_count: 12
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:56Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +248,9 @@ j) Contribuir para a investigação científica no domínio da fiscalidade e par
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -228,7 +286,9 @@ l) [Anterior alínea j).]
 
 6 - ...
 
-###### Artigo 16.º — Natureza e âmbito de actuação
+Artigo 16.º
+
+Natureza e âmbito de actuação
 
 1 - ...
 
@@ -238,7 +298,9 @@ l) [Anterior alínea j).]
 
 4 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -248,11 +310,15 @@ l) [Anterior alínea j).]
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 Os serviços de finanças são chefiados por chefes de finanças, directamente dependentes dos directores de finanças, e as respectivas secções por chefes de finanças-adjuntos.
 
-###### Artigo 23.º — Coordenação e equipas de trabalho
+Artigo 23.º
+
+Coordenação e equipas de trabalho
 
 1 - Para o desempenho de acções específicas no âmbito da inspecção, da justiça tributária ou para a realização de trabalhos ou projectos excepcionais de natureza temporária, poderão ser constituídas equipas de trabalho, por despacho do director-geral, que fixa os objectivos, composição e duração.
 
@@ -342,12 +408,12 @@ São revogados o [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministros de 7 de Outubro de 2004. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix.
 
-**Promulgado em 3 de Dezembro de 2004.**
+Promulgado em 3 de Dezembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Dezembro de 2004.**
+Referendado em 7 de Dezembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

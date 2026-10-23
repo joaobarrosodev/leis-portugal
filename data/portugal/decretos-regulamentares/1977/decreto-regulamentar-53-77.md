@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 195/1977, 1º Suplemento, Série I de 1977-08-24
   number: '195'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2040-(13) a 2040-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/19501/00130014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1977-659715
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94436d5c4fde9d5b63c26aa858575a1de94d00982fba0cd21d000ed2bc1d88c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7744646f915f140fb42443c9c841abf0715ea2e99a35129556d95d9ca68156d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Investimento
+- Instituto de Investimento Estrangeiro
+- Investimento Estrangeiro
+- Transferência de Tecnologia
 relationships:
 - type: amended_by
   target: pt:dre:661164:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:659717:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:661164:por
+  label: "Revogado pelo DEC LEI.197-D/86.18.07.1986.MF, DR.IS [163-Supl] de 18.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-d-1986-661164
+  date: '1986-07-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:15Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +106,13 @@ Tendo em consideração o disposto, sobre contratos de transferência de tecnolo
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º A celebração de contratos de transferência de tecnologia entre residentes e não residentes em Portugal, bem como a sua alteração ou renovação, dependerá, em todos os casos, de autorização especial e prévia do Instituto do Investimento Estrangeiro, adiante designado abreviadamente por Instituto.
+Artigo 1.º A celebração de contratos de transferência de tecnologia entre residentes e não residentes em Portugal, bem como a sua alteração ou renovação, dependerá, em todos os casos, de autorização especial e prévia do Instituto do Investimento Estrangeiro, adiante designado abreviadamente por Instituto.
 
-###### Art. 2.º - 1. O disposto neste diploma aplica-se a todos os contratos de transferência de tecnologia, envolvendo ou não direitos de propriedade industrial, quer nos respectivos contratos intervenham entidades privadas ou públicas ou instituições internacionais, quer sejam efectuados isoladamente ou associados a investimentos directos estrangeiros.
+Art. 2.º - 1. O disposto neste diploma aplica-se a todos os contratos de transferência de tecnologia, envolvendo ou não direitos de propriedade industrial, quer nos respectivos contratos intervenham entidades privadas ou públicas ou instituições internacionais, quer sejam efectuados isoladamente ou associados a investimentos directos estrangeiros.
 
 2. Ficarão abrangidas pelas disposições deste diploma as transferências de tecnologia em que intervenham, como receptoras, filiais, sucursais ou qualquer outra forma de representação de empresas estrangeiras.
 
-###### Art. 3.º Sob a designação de contratos de transferência de tecnologia consideram-se abrangidos todos os actos ou transacções que respeitem a:
+Art. 3.º Sob a designação de contratos de transferência de tecnologia consideram-se abrangidos todos os actos ou transacções que respeitem a:
 
 a) Contratos que tenham por objecto a cessão ou a licença de uso de patentes, marcas, modelos, desenhos ou inventos, bem como a transferência de outros conhecimentos não patenteados;
 
@@ -109,17 +122,17 @@ c) Contratos com empresas especializadas para a construção e manutenção, nom
 
 d) Quaisquer outros tipos de assistência técnica.
 
-###### Art. 4.º - 1. Os contratos de transferência de tecnologia, bem como as suas alterações, só terão eficácia legal, nomeadamente para efeitos de pagamentos, depois de avaliados, autorizados e registados pelo Instituto.
+Art. 4.º - 1. Os contratos de transferência de tecnologia, bem como as suas alterações, só terão eficácia legal, nomeadamente para efeitos de pagamentos, depois de avaliados, autorizados e registados pelo Instituto.
 
 2. O texto completo dos projectos de contratos de transferência de tecnologia deverá ser enviado em triplicado ao Instituto, o qual poderá pedir os esclarecimentos necessários à sua avaliação e se pronunciará no prazo de noventa dias, prorrogável uma só vez, e por igual período por despacho do Ministro do Plano e Coordenação Económica.
 
-###### Art. 5.º - 1. Na avaliação das transferências de tecnologia deverão ter-se em conta, primordialmente, quer os seus possíveis efeitos sobre a economia nacional, quer a capacidade científica e tecnológica disponível no País, nomeadamente as disponibilidades internas de gabinetes, centros, institutos ou empresas, públicas ou privadas, de estudo, consultadoria e engenharia.
+Art. 5.º - 1. Na avaliação das transferências de tecnologia deverão ter-se em conta, primordialmente, quer os seus possíveis efeitos sobre a economia nacional, quer a capacidade científica e tecnológica disponível no País, nomeadamente as disponibilidades internas de gabinetes, centros, institutos ou empresas, públicas ou privadas, de estudo, consultadoria e engenharia.
 
 2. Por despacho conjunto dos Ministros do Plano e Coordenação Económica e da tutela poderão ser fixados para um sector, ramo de actividade ou produto determinado orientações ou critérios específicos de avaliação e autorização, que deverão ser tidos em consideração pelo Instituto.
 
 3. A Junta Nacional de Investigação Científica e Tecnológica dará conhecimento ao Instituto, regularmente, dos gabinetes, centros, institutos ou empresas existentes no País e cuja actividade tenha por objecto a investigação e aplicação de tecnologias.
 
-###### Art. 6.º - 1. Os contratos de transferência de tecnologia deverão conter, obrigatoriamente:
+Art. 6.º - 1. Os contratos de transferência de tecnologia deverão conter, obrigatoriamente:
 
 a) Descrição pormenorizada do conteúdo da transferência e da forma concreta de que se revestirá, bem como dos tipos, formas e montantes dos pagamentos devidos;
 
@@ -139,7 +152,7 @@ b) A indicação do prazo de utilização dos direitos concedidos pelos títulos
 
 3. Os contratos de transferência de tecnologia deverão incluir, sempre que possível, adequados programas de formação de pessoal.
 
-###### Art. 7.º - 1. Nos contratos de transferência de tecnologia, nomeadamente nos que regulam as relações entre empresas estrangeiras e as respectivas sucursais no País, não serão permitidas as seguintes cláusulas:
+Art. 7.º - 1. Nos contratos de transferência de tecnologia, nomeadamente nos que regulam as relações entre empresas estrangeiras e as respectivas sucursais no País, não serão permitidas as seguintes cláusulas:
 
 a) As que façam depender a aplicação de tecnologia da obrigatoriedade de adquirir, de uma parte determinada, bens de capital, produtos intermédios e outras tecnologias;
 
@@ -157,26 +170,26 @@ g) As que imponham a predominância das versões em língua estrangeira dos refe
 
 2. Quando as transferências de tecnologia assumirem especial interesse para a economia nacional, poderão ser autorizados contratos que incluam alguma ou algumas das cláusulas enunciadas no n.º 1 do presente artigo.
 
-###### Art. 8.º Sempre que, antes de findo o prazo de vigência de um contrato de transferência de tecnologia, uma das partes contratantes o denuncie, a parte contratante residente em Portugal deverá comunicar imediatamente esse facto ao Instituto, referindo os motivos que fundamentaram a decisão tomada por ela ou pela outra parte contratante.
+Art. 8.º Sempre que, antes de findo o prazo de vigência de um contrato de transferência de tecnologia, uma das partes contratantes o denuncie, a parte contratante residente em Portugal deverá comunicar imediatamente esse facto ao Instituto, referindo os motivos que fundamentaram a decisão tomada por ela ou pela outra parte contratante.
 
-###### Art. 19.º - 1. Os pedidos de transferências relativos a pagamentos resultantes da execução de contratos de transferência de tecnologia, devidamente autorizados e registados pelo Instituto, deverão ser dirigidos ao Banco de Portugal, a quem compete conceder as respectivas autorizações.
+Art. 19.º - 1. Os pedidos de transferências relativos a pagamentos resultantes da execução de contratos de transferência de tecnologia, devidamente autorizados e registados pelo Instituto, deverão ser dirigidos ao Banco de Portugal, a quem compete conceder as respectivas autorizações.
 
 2. O Instituto prestará ao Banco de Portugal todos os elementos informativos sobre os contratos de transferência de tecnologia, suas alterações, renovações ou denúncias, que se relacionem com os pagamentos devidos.
 
 3. O Banco de Portugal, por sua vez, transmitirá mensalmente ao Instituto, de acordo com as indicações deste recebidas, os dados estatísticos e outros elementos informativos sobre os pagamento que forem sendo efectuados ao abrigo das autorizações concedidas nos termos do n.º 1 do presente artigo.
 
-###### Art. 10.º - 1. O Banco de Portugal, ao abrigo da competência que lhe está atribuída pela sua lei orgânica, transmitirá às outras instituições de crédito autorizadas a exercer o comércio de câmbios as instruções técnicas que julgue indispensáveis para a realização e contrôle das operações cambiais relativas aos pagamentos decorrentes da execução de contratos de transferência de tecnologia.
+Art. 10.º - 1. O Banco de Portugal, ao abrigo da competência que lhe está atribuída pela sua lei orgânica, transmitirá às outras instituições de crédito autorizadas a exercer o comércio de câmbios as instruções técnicas que julgue indispensáveis para a realização e contrôle das operações cambiais relativas aos pagamentos decorrentes da execução de contratos de transferência de tecnologia.
 
 2. As instituições de crédito autorizadas a exercer o comércio de câmbios não poderão efectuar quaisquer das referidas operações cambiais antes de obtida a correspondente autorização, nos termos do n.º 1 do artigo 9.º
 
-###### Art. 11.º As importâncias das operações cambiais a que alude o artigo anterior deverão corresponder aos pagamentos decorrentes da execução dos sobreditos contratos, mas líquidos dos impostos que sejam devidos em Portugal pelas partes contratantes não residentes.
+Art. 11.º As importâncias das operações cambiais a que alude o artigo anterior deverão corresponder aos pagamentos decorrentes da execução dos sobreditos contratos, mas líquidos dos impostos que sejam devidos em Portugal pelas partes contratantes não residentes.
 
-###### Art. 12.º O disposto no presente decreto entra em vigor no dia imediato ao da sua publicação.
+Art. 12.º O disposto no presente decreto entra em vigor no dia imediato ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.
 
-**Promulgado em 9 de Agosto de 1977.**
+Promulgado em 9 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

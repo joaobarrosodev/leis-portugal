@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/493/1999/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/493-1999-684843
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:13:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5712c57642ecdc5dd4e53567830a5256b9ac6ce1c08f82ba3fff4d397f0f1a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6659fd2501a46ad45cd932c5cc60438404dee3860f46e53eca5f6a7385000d4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:13:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Função Pública
-- Aposentação
 - Administração Pública
-- Macau
+- Aposentação
+- Direcção Geral da Administração Pública
+- Função Pública
+- Funcionário Público
 - Indemnização
 - Integração de Trabalhadores
 - Licença sem Vencimento
-- Direcção Geral da Administração Pública
+- Macau
+- Mobilidade de Pessoal
 - Pré-aposentação
 - Quadro de Efectivos Interdepartamentais
 - Quadro de Pessoal
 - Quadro Geral de Adidos
-- Reconversão Profissional
 - Reclassificação de Pessoal
-- Mobilidade de Pessoal
-- Funcionário Público
+- Reconversão Profissional
+- Recurso
 relationships:
 - type: amended_by
   target: pt:dre:545575:por
@@ -117,16 +117,74 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668323:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:545575:por
+  label: "Revogado , no que se refere ao quadro de afectação e ao regime aplicável ao respectivo pessoal, pela LEI.53/2006.07.12.2006.AR,\
+    \ DR.IS [235] de 07.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-2006-545575
+  date: '2006-12-07'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:13:53Z'
   warnings: []
   errors: []
 ---
@@ -333,12 +391,12 @@ Os despachos proferidos pelo director-geral da Administração Pública, no âmb
 
 Visto e aprovado em Conselho de Ministros de 2 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 29 de Outubro de 1999.**
+Promulgado em 29 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Novembro de 1999.**
+Referendado em 4 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

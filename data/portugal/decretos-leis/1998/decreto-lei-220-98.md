@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/163a00/34383440.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/220/1998/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1998-424688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:58:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18ea2dfcb58d1cda8b62d110ca5d2b531d3c70eef3299f303c8f226587b85f05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5f4bd3c52effb2f242437ca79d7927802ea58a40d99d6946e97a7de59f95813
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:58:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,42 +68,65 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
+- Administração Local
+- Administração Pública
 - Autonomia Administrativa
-- Modernização Administrativa
-- Pessoal Dirigente
 - Comissão de Serviço
 - Comissão Instaladora
+- Contratação Pública
 - Contrato Administrativo
 - Criação de Serviços
 - Definição de Competências
-- Administração Pública
-- Recrutamento de Pessoal
+- Gestão de Recursos Humanos
 - Inspecção Geral da Administração Pública
+- Modernização Administrativa
 - Orçamento
 - Orgânica
+- Pessoal Dirigente
 - Presidente
 - Quadro de Pessoal
 - Racionalização de Efectivos
+- Recrutamento de Pessoal
 - Recursos Humanos
-- Administração Local
 - Regime de Instalação
-- Gestão de Recursos Humanos
-- Contratação Pública
 relationships:
 - type: amended_by
   target: pt:dre:545650:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "ALCANCE DETERMINADO POR L.DEC LEI.474-A/99.1999.11.08.PCM\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:1799923:por
+  label: "PRORROGADO O PRAZO DO PERÍODO DE INSTALAÇÃO POR DC.159/2001.2001.01.30.MF e MREAP, DR.IIS [40] de 16/Fev/2001. \0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/159-2001-1799923
+  date: '2001-02-16'
+- type: amended_by
+  target: pt:dre:545650:por
+  label: "Extinta a Inspecção-Geral da Administração Públicas criada pelo presente diploma, determinada a sua fusão e integradas\
+    \ as respectivas atribuições na Inspecção-Geral de Finanças, pelo DEC LEI.205/2006.27.10.2006.MFAP, DR.IS [208] de 27.10.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2006-545650
+  date: '2006-10-27'
+- type: repealed_by
+  target: pt:dre:316082:por
+  label: "Revogado pelo DEC LEI.154/2001.2001.05.07.MREAP,DR.IS-A [105]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2001-316082
+  date: '2001-05-07'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:58:56Z'
   warnings: []
   errors: []
 ---
@@ -246,12 +269,12 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 26 de Maio de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 2 de Julho de 1998.**
+Promulgado em 2 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Julho de 1998.**
+Referendado em 9 de Julho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

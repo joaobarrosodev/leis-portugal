@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/180/1996/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1996-214238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9dd6c83e260174adcaddeab8d8cbf064011897daa89759c5791ecb72bbb49150
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f8767893c34d3a4a3b4a0fbf264cc90fa26232cf936a2adc9b5f89ccc1eb32e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,141 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Declarativo
-- Processo Civil
 - Código do Processo Civil
 - Dados Pessoais
+- Processo Civil
+- Processo Declarativo
 relationships:
 - type: amended_by
   target: pt:dre:191994:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:196220:por
+  label: "Alterados os arts. 462.º, 791.º e 792º do Código do Processo Civil aprovado pelo Dec lei 44129, de 28-Dez 1961,\
+    \ na redacção do presente diploma, pela LEI.3/99.13.01.1999.AR, DR.IS-A [10] de 13.01.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-1999-196220
+  date: '1999-01-13'
+- type: amended_by
+  target: pt:dre:508858:por
+  label: "Alterados os arts. 462.º, 508.º-A, 512.º, 646.º, 712.º, 754.º, 787.º, 795.º e 861.º-A, todos do Código do Processo\
+    \ Civil aprovado pelo Dec Lei 44129, de 28-Dez 1961, na redacção do presente diploma, pelo DEC LEI.375-A/99.1999.09.20.MJ\
+    \ DR.IS-A [220]SUPL\0L\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-a-1999-508858
+  date: '1999-09-20'
+- type: amended_by
+  target: pt:dre:339847:por
+  label: "Alterados os arts. 141.º, 143.º, 150.º, 152.º, 181.º, 233.º, 236.º, 237.º, 238.º, 239.º, 240.º, 244.º, 245.º, 252.º-A,\
+    \ 257.º, 467.º, 474.º, 476.º, 522.º-B, 522.º-C, 556.º, 557.º, 568.º, 580.º, 588.º, 621.º, 623.º, 629.º, 630.º, 639.º-A,\
+    \ 646.º, 651.º, 690.º-A e 796.º, aditados os arts. 229.º-A, 236.º-A, 238.º-A, 260.º-A e 638.ºA, integrada a subdivisão\
+    \ I que abrange os arts. 253.º a 260.º e a subdivisão II que compreende o art. 260.º-A no Livro II, Título I, capítulo\
+    \ I, divisão III, do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez de 1961, na redacção do presente\
+    \ diploma, pelo LEI.183/2000.2000.08.10.MJ DR.IS-A [184]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2000-339847
+  date: '2000-08-10'
+- type: amended_by
+  target: pt:dre:315337:por
+  label: "Alterados os arts. 150.º, 252.º-A, 474.º, 623.º e 629.º do Código do Processo Civil, aprovado pelo Dec Lei 44129,\
+    \ de 28-Dez 1961, na redacção do presente diploma, revisto e republicado pelo Dec Lei 329-A/95 de 12-Dez, pela LEI.30-D/2000.20.12.2000.AR,\
+    \ DR.IS-A [292-3.ºSupl] de 20.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-d-2000-315337
+  date: '2000-12-20'
+- type: amended_by
+  target: pt:dre:220944:por
+  label: "Alterados os arts. 53.º, 58.º, 234.º, 239.º, 240.º, 244.º, 252.º-A, 301.º, 385.º, 463.º, 465.º, 508.º-B (aditado\
+    \ pelo presente diploma), 512.º, 550.º, 623.º, 629.º, 651.º, 678.º, 803.º, 813.º, 818.º, 821.º, 824.º, 828.º, 832.º, 833.º,\
+    \ 835,º, 838.º, 840.º, 845.º, 868.º, 885.º, 886.º-A, 888.º e 904.º, todos do Código de Processo Civil, aprovado pelo Dec\
+    \ Lei 44129 de 28-Dez 1961, na redacção do presente diploma, pelo DEC LEI.38/2003.08.03.2003.MJ, DR.IS-A [57] de 08.03.2003\0\
+    2003\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2003-220944
+  date: '2003-03-08'
+- type: amended_by
+  target: pt:dre:511825:por
+  label: "Alterados os arts. 138.º (na redacção dos Decs Leis 242/85, de 09-Jul, 329-A/95, de 12-Dez e do presente diploma),\
+    \ 252.º-A (aditado pelo Dec Lei 329-A/95, de 12-Dez, na redacção do presente diploma, do Dec Lei 183/2000, de 10-Ago,\
+    \ da Lei 30-D/2000, de 20-Dez e do Dec Lei 38/2003, de 08-Mar), 388.º e 389.º (ambos na redacção do Dec Lei 329-A/95,\
+    \ de 12-Dez e do presente diploma todos do Código do Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez 1961, pelo\
+    \ DEC LEI.199/2003.2003.09.10.MJ DR.IS-A [209]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/199-2003-511825
+  date: '2003-09-10'
+- type: amended_by
+  target: pt:dre:424101:por
+  label: "Alterados os artigos 145.º, 150.º e 152.º do Código de Processo Civil, aprovado pelo Decreto-Lei 44129, de 28 de\
+    \ Dezembro de 1961, na redacção do presente diploma, pelo DEC LEI.324/2003.27.12.2003.MJ, DR.IS-A [298] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2003-424101
+  date: '2003-12-27'
+- type: amended_by
+  target: pt:dre:538423:por
+  label: "Alterado, a partir da entrada em vigor, o art. 222.º do Código do Processo Civil aprovado pelo Dec Lei 44129, de\
+    \ 28-Dez 1961, na redacção do presente diploma, pelo DEC LEI.53/2004.18.03.2004.MJ, DR.IS-A [66] de 18.03.2004\04"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2004-538423
+  date: '2004-03-18'
+- type: amended_by
+  target: pt:dre:693853:por
+  label: "Alterado o art. 678º do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961, com a redacção do\
+    \ presente diploma, pela LEI.6/2006.27.02.2006.AR, DR.IS-A [41] de 27.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/6-2006-693853
+  date: '2006-02-27'
+- type: amended_by
+  target: pt:dre:640911:por
+  label: "Alterados, a partir de 01 de Janeiro de 2008, sem prejuízo do disposto nos artigos 11.º e 12.º, os artigos 150.º,\
+    \ 152.º, 154.º, 167.º, 209.º-A, 474.º, 475.º, 657.º, 669.º, 670.º, 678.º, 685.º, 688.º, 691.º, 700.º, 712.º, 725.º, 732.º-B,\
+    \ do Código de Processo Civil, aprovado pelo Decreto-Lei 44129, de 28 de Dezembro de 1961, na redacção do presente diploma,\
+    \ pelo DEC LEI.303/2007.24.08.2007.MJ, DR.IS [163] de 24.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-2007-640911
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:247448:por
+  label: "Alterados, a partir de 20.04.2009, os arts. 145º, 152º, 447º e 474º do Código de Processo Civil, aprovado pelo Dec\
+    \ Lei 44129, de 28-Dez de 1961, na redacção do presente diploma, pelo DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\
+    8\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterados os art.s 50.º, 838.º e 886º do Dec Lei 44129, de 28-Dez de 1961, na redacção do presente diploma, pelo\
+    \ DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:453251:por
+  label: "Alterados, a partir de 02.01.2009, os artigos 122.º, 239.º, 248.º, 251.º, 474º, 509.º, 556.º e 623.º do Código de\
+    \ Processo Civil, aprovado pelo Decreto-Lei n.º 44129, de 28 de Dezembro de 1961, na redacção do presente diploma, pela\
+    \ LEI.52/2008.28.08.2008.AR, DR.IS [166] de 28.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-2008-453251
+  date: '2008-08-28'
+- type: amended_by
+  target: pt:dre:439815:por
+  label: "Alterados, a partir de 31.03.2009, os arts. 234º, 239º, 240º, 252º-A, 280º, 801º, 803º, 838º, 845º, 848º, 861º-A,\
+    \ 886º-A e 904º do Código do Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez, 1961, na redacção do presente diploma,\
+    \ pelo DEC LEI.226/2008.20.11.2008.MJ, DR.IS [226] de 20.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-2008-439815
+  date: '2008-11-20'
+- type: amended_by
+  target: pt:dre:491936:por
+  label: "Alterado, a partir de 18.07.2010 (alteração da data da entrada em vigor efectuada pela Lei n.º 1/2010, de 15 de\
+    \ Janeiro), o art. 248º do Código de Processo Civil aprovado pelo Dec Lei 44129 de 28-Dez de 1961, com a redacção constante\
+    \ do presente diploma, pela LEI.29/2009.29.06.2009.AR, DR.IS [123] de 29.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/29-2009-491936
+  date: '2009-06-29'
+- type: amended_by
+  target: pt:dre:145578:por
+  label: "Alterado, a partir de 15.03.2012, o art. 1527º do Código de Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez-1961,\
+    \ na redacção do presente diploma, pela LEI.63/2011.14.12.2011.AR, DR.IS [238] de 14.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/63-2011-145578
+  date: '2011-12-14'
+- type: amended_by
+  target: pt:dre:175305:por
+  label: "Alterado, a partir de 12.11.2012, o art.. 222º do Código de Processo Civil, na redação do presente diploma, pela\
+    \ LEI.31/2012.14.08.2012.AR, DR.IS [157] de 14.08.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-2012-175305
+  date: '2012-08-14'
+- type: amended_by
+  target: pt:dre:191994:por
+  label: "Dada nova redação ao art. 886-Aº do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-dez 1961, alterado\
+    \ pelo presente diploma, pela LEI.60/2012.09.11.2012.AR, DR.IS [217] de 09.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-2012-191994
+  date: '2012-11-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/329-a/1995/12/12/p/dre
   label: null
@@ -94,16 +220,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/6/1996/02/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/6/1996/02/29/p/dre
+- type: cites
+  target: pt:dre:202420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621342:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:448110:por
+  label: "Revogado o n.º 3 do art. 6.º do Dec Lei 329-A/95, de 12-Dez, DR.IS-A [285]Supl, na redacção dada pelo presente diploma,\
+    \ pela LEI.59/98.1998.08.25.AR DR.IS-A [195]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/59-1998-448110
+  date: '1998-08-25'
 article_structure:
-  article_count: 214
+  article_count: 7
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:58Z'
   warnings: []
   errors: []
 ---
@@ -260,11 +412,15 @@ Os artigos 3.º, 3.º-A, 6.º, 7.º, 8.º, 11.º, 23.º, 26.º, 26.º-A, 28.º-A
 
 4 - Às excepções deduzidas no último articulado admissível pode a parte contrária responder na audiência preliminar ou, não havendo lugar a ela, no início da audiência final.
 
-###### Artigo 3.º-A — [...]
+Artigo 3.º-A
+
+[...]
 
 O tribunal deve assegurar, ao longo de todo o processo, um estatuto de igualdade substancial das partes, designadamente no exercício de faculdades, no uso de meios de defesa e na aplicação de cominações ou de sanções processuais.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Tem ainda personalidade judiciária:
 
@@ -280,17 +436,23 @@ e) ...
 
 f) Os navios, nos casos previstos em legislação especial.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As sucursais, agências, filiais, delegações ou representações podem demandar ou ser demandadas quando a acção proceda de facto por elas praticado.
 
 2 - Se a administração principal tiver a sede ou o domicílio em país estrangeiro, as sucursais, agências, filiais, delegações ou representações estabelecidas em Portugal podem demandar e ser demandadas, ainda que a acção derive de facto praticado por aquela, quando a obrigação tenha sido contraída com um português ou com um estrangeiro domiciliado em Portugal.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 A falta de personalidade judiciária das sucursais, agências, filiais, delegações ou representações pode ser sanada mediante a intervenção da administração principal e a ratificação ou repetição do processado.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Se o incapaz não tiver representante geral, deve requerer-se a nomeação dele ao tribunal competente, sem prejuízo da imediata designação de um curador provisório pelo juiz da causa, em caso de urgência.
 
@@ -302,7 +464,9 @@ A falta de personalidade judiciária das sucursais, agências, filiais, delegaç
 
 5 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -312,7 +476,9 @@ A falta de personalidade judiciária das sucursais, agências, filiais, delegaç
 
 4 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -320,11 +486,15 @@ A falta de personalidade judiciária das sucursais, agências, filiais, delegaç
 
 3 - Na falta de indicação da lei em contrário, são considerados titulares do interesse relevante para o efeito da legitimidade os sujeitos da relação controvertida, tal como é configurada pelo autor.
 
-###### Artigo 26.º-A — [...]
+Artigo 26.º-A
+
+[...]
 
 Têm legitimidade para propor e intervir nas acções e procedimentos cautelares destinados, designadamente, à defesa da saúde publica, do ambiente, da qualidade de vida, do património cultural e do domínio público, bem como à protecção do consumo de bens e serviços, qualquer cidadão no gozo dos seus direitos civis e políticos, as associações e fundações defensoras dos interesses em causa, as autarquias locais e o Ministério Público, nos termos previstos na lei.
 
-###### Artigo 28.º-A — Acções que têm de ser propostas por ambos ou contra ambos os cônjuges
+Artigo 28.º-A
+
+Acções que têm de ser propostas por ambos ou contra ambos os cônjuges
 
 1 - Devem ser propostas por marido e mulher, ou por um deles com consentimento do outro, as acções de que possa resultar a perda ou a oneração de bens que só por ambos possam ser alienados ou a perda de direitos que só por ambos possam ser exercidos, incluindo as acções que tenham por objecto, directa ou indirectamente, a casa de morada de família.
 
@@ -332,7 +502,9 @@ Têm legitimidade para propor e intervir nas acções e procedimentos cautelares
 
 3 - Devem ser propostas contra o marido e a mulher as acções emergentes de facto praticado por ambos os cônjuges, as acções emergentes de facto praticado por um deles, mas em que pretenda obter-se decisão susceptível de ser executada sobre bens próprios do outro, e ainda as acções compreendidas no n.º 1.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -344,11 +516,15 @@ Têm legitimidade para propor e intervir nas acções e procedimentos cautelares
 
 5 - No caso previsto no número anterior, se as novas acções forem propostas dentro de 30 dias, a contar do trânsito em julgado do despacho que ordenou a separação, os efeitos civis da propositura da acção e da citação do réu retrotraem-se à data em que estes factos se produziram no primeiro processo.
 
-###### Artigo 31.º-B — Pluralidade subjectiva subsidiária
+Artigo 31.º-B
+
+Pluralidade subjectiva subsidiária
 
 É admitida a dedução subsidiária do mesmo pedido, ou a dedução de pedido subsidiário, por autor ou contra réu diverso do que demanda ou é demandado a título principal, no caso de dúvida fundamentada sobre o sujeito da relação controvertida.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 O mandato judicial pode ser conferido:
 
@@ -356,7 +532,9 @@ a) Por instrumento público ou por documento particular, nos termos do Código d
 
 b) ...
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - O mandato atribui poderes ao mandatário para representar a parte em todos os actos e termos do processo principal e respectivos incidentes, mesmo perante os tribunais superiores, sem prejuízo das disposições que exijam a outorga de poderes especiais por parte do mandante.
 
@@ -366,7 +544,9 @@ b) ...
 
 4 - A eficácia do mandato depende de aceitação, que pode ser manifestada no próprio instrumento público ou em documento particular, ou resultar de comportamento concludente do mandatário.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - A revogação e a renúncia do mandato devem ter lugar no próprio processo e são notificadas, tanto ao mandatário ou ao mandante, como à parte contrária.
 
@@ -380,11 +560,15 @@ b) ...
 
 6 - ...
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 Os documentos exarados ou autenticados por notário em que se convencionem prestações futuras ou se preveja a constituição de obrigações futuras podem servir de base à execução, desde que se prove, por documento passado em conformidade com as cláusulas deles constantes ou, sendo aqueles omissos, revestido de força executiva própria, que alguma prestação foi realizada para conclusão do negócio ou que alguma obrigação foi constituída na sequência da previsão das partes.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - É permitido ao credor, ou a vários credores litisconsortes, cumular execuções, ainda que fundadas em títulos diferentes, contra o mesmo devedor ou contra vários devedores litisconsortes, salvo quando:
 
@@ -400,7 +584,9 @@ c) A alguma das execuções corresponder processo especial diferente do processo
 
 4 - Se as execuções se basearem todas em títulos extrajudiciais, é aplicável à determinação da competência territorial o disposto nos n.os 2 e 3 do artigo 87.º
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - ...
 
@@ -410,7 +596,9 @@ c) A alguma das execuções corresponder processo especial diferente do processo
 
 4 - Pertencendo os bens onerados ao devedor, mas estando eles na posse de terceiro, poderá este ser desde logo demandado juntamente com o devedor.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - Quando não se verifiquem as circunstâncias impeditivas previstas no n.º 1 do artigo 53.º, é permitido:
 
@@ -422,19 +610,25 @@ b) A um ou vários credores litisconsortes, ou a vários credores coligados, dem
 
 3 - É aplicável à coligação o disposto nos n.os 2, 3 e 4 do artigo 53.º para a cumulação de execuções.
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - ...
 
 2 - O tribunal da circunscrição onde se situar qualquer sucursal, agência, filial, delegação ou representação constituída em Portugal de sociedade ou empresa estrangeira tem competência para os processos a que se refere o número anterior, que derivem de obrigações contraídas em Portugal ou que aqui devessem ser cumpridas, sendo, porém, a liquidação restrita aos bens existentes em território português.
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1 - ...
 
 2 - Se o réu for outra pessoa colectiva ou uma sociedade, será demandado no tribunal da sede da administração principal ou no da sede da sucursal, agência, filial, delegação ou representação, conforme a acção seja dirigida contra aquela ou contra estas; mas a acção contra pessoas colectivas ou sociedades estrangeiras que tenham sucursal, agência, filial, delegação ou representação em Portugal pode ser proposta no tribunal da sede destas, ainda que seja pedida a citação da administração principal.
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - As partes podem convencionar qual a jurisdição competente para dirimir um litígio determinado, ou os litígios eventualmente decorrentes de certa relação jurídica, contanto que a relação controvertida tenha conexão com mais de uma ordem jurídica.
 
@@ -444,7 +638,9 @@ b) A um ou vários credores litisconsortes, ou a vários credores coligados, dem
 
 4 - ...
 
-###### Artigo 122.º — [...]
+Artigo 122.º
+
+[...]
 
 1 - ...
 
@@ -470,7 +666,9 @@ i) Quando esteja em situação prevista nas alíneas anteriores pessoa que com o
 
 3 - Nas comarcas em que haja mais de um juiz ou perante os tribunais superiores não pode ser admitido como mandatário judicial o cônjuge, parente ou afim em linha recta ou no segundo grau da linha colateral do juiz, bem como a pessoa que com ele viva em economia comum, que, por virtude da distribuição, haja de intervir no julgamento da causa; mas, se essa pessoa já tiver requerido ou alegado no processo na altura da distribuição, é o juiz que fica impedido.
 
-###### Artigo 138.º — [...]
+Artigo 138.º
+
+[...]
 
 1 - ...
 
@@ -482,7 +680,9 @@ i) Quando esteja em situação prevista nas alíneas anteriores pessoa que com o
 
 5 - É permitido o uso de meios informáticos no tratamento e execução de quaisquer actos ou peças processuais, desde que se mostrem respeitadas as regras referentes à protecção de dados pessoais e se faça menção desse uso.
 
-###### Artigo 145.º — [...]
+Artigo 145.º
+
+[...]
 
 1 - ...
 
@@ -498,13 +698,17 @@ i) Quando esteja em situação prevista nas alíneas anteriores pessoa que com o
 
 7 - O juiz pode determinar a redução ou dispensa da multa nos casos de manifesta carência económica ou quando o respectivo montante se revele manifestamente desproporcionado.
 
-###### Artigo 147.º — Prorrogabilidade dos prazos
+Artigo 147.º
+
+Prorrogabilidade dos prazos
 
 1 - O prazo processual marcado pela lei é prorrogável nos casos nela previstos.
 
 2 - ...
 
-###### Artigo 150.º — [...]
+Artigo 150.º
+
+[...]
 
 1 - ...
 
@@ -514,7 +718,9 @@ i) Quando esteja em situação prevista nas alíneas anteriores pessoa que com o
 
 4 - ...
 
-###### Artigo 152.º — [...]
+Artigo 152.º
+
+[...]
 
 1 - ...
 
@@ -526,7 +732,9 @@ i) Quando esteja em situação prevista nas alíneas anteriores pessoa que com o
 
 5 - ...
 
-###### Artigo 154.º — Manutenção da ordem nos actos processuais
+Artigo 154.º
+
+Manutenção da ordem nos actos processuais
 
 1 - ...
 
@@ -542,7 +750,9 @@ i) Quando esteja em situação prevista nas alíneas anteriores pessoa que com o
 
 7 - ...
 
-###### Artigo 155.º — [...]
+Artigo 155.º
+
+[...]
 
 1 - ...
 
@@ -554,7 +764,9 @@ i) Quando esteja em situação prevista nas alíneas anteriores pessoa que com o
 
 5 - ...
 
-###### Artigo 167.º — [...]
+Artigo 167.º
+
+[...]
 
 1 - ...
 
@@ -564,7 +776,9 @@ i) Quando esteja em situação prevista nas alíneas anteriores pessoa que com o
 
 4 - Os mandatários judiciais poderão ainda obter informação sobre o estado dos processos em que intervenham através de acesso aos ficheiros informáticos existentes nas secretarias, nos termos previstos no respectivo diploma regulamentar.
 
-###### Artigo 176.º — [...]
+Artigo 176.º
+
+[...]
 
 1 - ...
 
@@ -578,7 +792,9 @@ i) Quando esteja em situação prevista nas alíneas anteriores pessoa que com o
 
 6 - ...
 
-###### Artigo 198.º — [...]
+Artigo 198.º
+
+[...]
 
 1 - ...
 
@@ -588,11 +804,15 @@ i) Quando esteja em situação prevista nas alíneas anteriores pessoa que com o
 
 4 - A arguição só é atendida se a falta cometida puder prejudicar a defesa do citado.
 
-###### Artigo 202.º — [...]
+Artigo 202.º
+
+[...]
 
 Das nulidades mencionadas nos artigos 193.º e 194.º, na segunda parte do n.º 2 do artigo 198.º e nos artigos 199.º e 200.º pode o tribunal conhecer oficiosamente, a não ser que devam considerar-se sanadas. Das restantes só pode conhecer sobre reclamação dos interessados, salvos os casos especiais em que a lei permite o conhecimento oficioso.
 
-###### Artigo 206.º — [...]
+Artigo 206.º
+
+[...]
 
 1 - O juiz conhece das nulidades previstas no artigo 194.º, na segunda parte do n.º 2 do artigo 198.º e no artigo 200.º logo que delas se aperceba, podendo suscitá-las em qualquer estado do processo, enquanto não devam considerar-se sanadas.
 
@@ -600,11 +820,15 @@ Das nulidades mencionadas nos artigos 193.º e 194.º, na segunda parte do n.º 
 
 3 - ...
 
-###### Artigo 207.º — [...]
+Artigo 207.º
+
+[...]
 
 A arguição de qualquer nulidade pode ser indeferida, mas não pode ser deferida sem prévia audiência da parte contrária, salvo caso de manifesta desnecessidade.
 
-###### Artigo 216.º — [...]
+Artigo 216.º
+
+[...]
 
 1 - Classificados e numerados os papéis, procede-se a sorteio mediante a extracção de uma esfera de uma urna em que tenham entrado esferas com os números correspondentes aos papéis da espécie.
 
@@ -612,7 +836,9 @@ A arguição de qualquer nulidade pode ser indeferida, mas não pode ser deferid
 
 3 - ...
 
-###### Artigo 234.º — [...]
+Artigo 234.º
+
+[...]
 
 1 - Incumbe à secretaria promover oficiosamente, sem necessidade de despacho prévio, as diligências que se mostrem adequadas à efectivação da regular citação pessoal do réu e à rápida remoção das dificuldades que obstem à realização do acto, sem prejuízo do disposto no n.º 4.
 
@@ -636,7 +862,9 @@ f) Quando se trate de citação urgente, que deva preceder a distribuição.
 
 5 - Não cabe recurso do despacho que mande citar os réus ou requeridos, não se considerando precludidas as questões que podiam ter sido motivo de indeferimento liminar.
 
-###### Artigo 239.º — [...]
+Artigo 239.º
+
+[...]
 
 1 - Se se frustrar a via postal, será a citação efectuada mediante contacto pessoal do funcionário de justiça com o citando, entregando-se-lhe os elementos e nota de que constem as indicações a que alude o artigo 235.º e lavrando-se certidão assinada pelo citado.
 
@@ -646,7 +874,9 @@ f) Quando se trate de citação urgente, que deva preceder a distribuição.
 
 4 - ...
 
-###### Artigo 240.º — [...]
+Artigo 240.º
+
+[...]
 
 1 - Se o funcionário apurar que o citando reside ou trabalha efectivamente no local indicado, não podendo, todavia, proceder à citação por o não encontrar, deixará nota com indicação de hora certa para a diligência na pessoa encontrada que estiver em melhores condições de a transmitir ao citando, ou, quando tal for impossível, afixará o respectivo aviso no local mais indicado.
 
@@ -658,7 +888,9 @@ f) Quando se trate de citação urgente, que deva preceder a distribuição.
 
 5 - Considera-se pessoal a citação efectuada nos termos dos n.os 2 ou 3 deste artigo.
 
-###### Artigo 244.º — [...]
+Artigo 244.º
+
+[...]
 
 1 - Quando for impossível a realização da citação, por o citando estar ausente em parte incerta, a secretaria diligenciará obter informação sobre o último paradeiro ou residência conhecida junto de quaisquer entidades ou serviços, podendo o juiz, quando o considere absolutamente indispensável para decidir da realização da citação edital, solicitar informação às autoridades policiais.
 
@@ -666,7 +898,9 @@ f) Quando se trate de citação urgente, que deva preceder a distribuição.
 
 3 - ...
 
-###### Artigo 245.º — [...]
+Artigo 245.º
+
+[...]
 
 1 - A citação efectuada nos termos do n.º 3 do artigo 233.º segue o regime do artigo 239.º, com as necessárias adaptações.
 
@@ -674,7 +908,9 @@ f) Quando se trate de citação urgente, que deva preceder a distribuição.
 
 3 - ...
 
-###### Artigo 246.º — [...]
+Artigo 246.º
+
+[...]
 
 1 - ...
 
@@ -682,7 +918,9 @@ f) Quando se trate de citação urgente, que deva preceder a distribuição.
 
 3 - ...
 
-###### Artigo 248.º — [...]
+Artigo 248.º
+
+[...]
 
 1 - ...
 
@@ -694,13 +932,17 @@ f) Quando se trate de citação urgente, que deva preceder a distribuição.
 
 5 - ...
 
-###### Artigo 251.º — [...]
+Artigo 251.º
+
+[...]
 
 1.ª ...
 
 2.ª Os anúncios são publicados num dos jornais, de âmbito regional ou nacional, mais lidos na sede da comarca.
 
-###### Artigo 252.º-A — Dilação
+Artigo 252.º-A
+
+Dilação
 
 1 - Ao prazo de defesa do citando acresce uma dilação de cinco dias quando:
 
@@ -714,7 +956,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 264.º — [...]
+Artigo 264.º
+
+[...]
 
 1 - Às partes cabe alegar os factos que integram a causa de pedir e aqueles em que se baseiam as excepções.
 
@@ -722,7 +966,9 @@ b) ...
 
 3 - Serão ainda considerados na decisão os factos essenciais à procedência das pretensões formuladas ou das excepções deduzidas que sejam complemento ou concretização de outros que as partes hajam oportunamente alegado e resultem da instrução e discussão da causa, desde que a parte interessada manifeste vontade de deles se aproveitar e à parte contrária tenha sido facultado o exercício do contraditório.
 
-###### Artigo 265.º — [...]
+Artigo 265.º
+
+[...]
 
 1 - ...
 
@@ -730,11 +976,15 @@ b) ...
 
 3 - Incumbe ao juiz realizar ou ordenar, mesmo oficiosamente, todas as diligências necessárias ao apuramento da verdade e à justa composição do litígio, quanto aos factos de que lhe é lícito conhecer.
 
-###### Artigo 265.º-A — [...]
+Artigo 265.º-A
+
+[...]
 
 Quando a tramitação processual prevista na lei não se adequar às especificidades da causa, deve o juiz oficiosamente, ouvidas as partes, determinar a prática dos actos que melhor se ajustem ao fim do processo, bem como as necessárias adaptações.
 
-###### Artigo 266.º — [...]
+Artigo 266.º
+
+[...]
 
 1 - ...
 
@@ -744,7 +994,9 @@ Quando a tramitação processual prevista na lei não se adequar às especificid
 
 4 - Sempre que alguma das partes alegue justificadamente dificuldade séria em obter documento ou informação que condicione o eficaz exercício de faculdade ou o cumprimento de ónus ou dever processual, deve o juiz, sempre que possível, providenciar pela remoção do obstáculo.
 
-###### Artigo 266.º-B — [...]
+Artigo 266.º-B
+
+[...]
 
 1 - ...
 
@@ -754,13 +1006,17 @@ Quando a tramitação processual prevista na lei não se adequar às especificid
 
 4 - ...
 
-###### Artigo 269.º — [...]
+Artigo 269.º
+
+[...]
 
 1 - Até ao trânsito em julgado da decisão que julgue ilegítima alguma das partes por não estar em juízo determinada pessoa, pode o autor ou reconvinte chamar essa pessoa a intervir, nos termos dos artigos 325.º e seguintes.
 
 2 - Quando a decisão prevista no número anterior tiver posto termo ao processo, o chamamento pode ter lugar nos 30 dias subsequentes ao trânsito em julgado; admitido o chamamento, a instância extinta considera-se renovada, recaindo sobre o autor ou reconvinte o encargo do pagamento das custas em que tiver sido condenado.
 
-###### Artigo 273.º — [...]
+Artigo 273.º
+
+[...]
 
 1 - ...
 
@@ -774,7 +1030,9 @@ Quando a tramitação processual prevista na lei não se adequar às especificid
 
 6 - ...
 
-###### Artigo 274.º — [...]
+Artigo 274.º
+
+[...]
 
 1 - ...
 
@@ -788,7 +1046,9 @@ Quando a tramitação processual prevista na lei não se adequar às especificid
 
 6 - A improcedência da acção e a absolvição do réu da instância não obstam à apreciação do pedido reconvencional regularmente deduzido, salvo quando este seja dependente do formulado pelo autor.
 
-###### Artigo 280.º — [...]
+Artigo 280.º
+
+[...]
 
 1 - ...
 
@@ -796,7 +1056,9 @@ Quando a tramitação processual prevista na lei não se adequar às especificid
 
 3 - Quando se trate de acções fundadas em actos provenientes do exercício de actividades sujeitas a tributação e o interessado não haja demonstrado o cumprimento de qualquer dever fiscal que lhe incumba, a secretaria deve comunicar a pendência da causa e o seu objecto à administração fiscal, sem que o andamento regular do processo seja suspenso.
 
-###### Artigo 288.º — [...]
+Artigo 288.º
+
+[...]
 
 1 - ...
 
@@ -804,13 +1066,17 @@ Quando a tramitação processual prevista na lei não se adequar às especificid
 
 3 - As excepções dilatórias só subsistem enquanto a respectiva falta ou irregularidade não for sanada, nos termos do n.º 2 do artigo 265.º; ainda que subsistam, não terá lugar a absolvição da instância quando, destinando-se a tutelar o interesse de uma das partes, nenhum outro motivo obste, no momento da apreciação da excepção, a que se conheça do mérito da causa e a decisão deva ser integralmente favorável a essa parte.
 
-###### Artigo 292.º — Renovação da instância
+Artigo 292.º
+
+Renovação da instância
 
 1 - Quando haja lugar a cessação ou alteração da obrigação alimentar judicialmente fixada, é o respectivo pedido deduzido como dependência da causa principal, seguindo-se, com as adaptações necessárias, os termos desta, e considerando-se renovada a instância.
 
 2 - ...
 
-###### Artigo 301.º — [...]
+Artigo 301.º
+
+[...]
 
 1 - ...
 
@@ -818,7 +1084,9 @@ Quando a tramitação processual prevista na lei não se adequar às especificid
 
 3 - Quando a nulidade provenha unicamente da falta de poderes do mandatário judicial ou da irregularidade do mandato, a sentença homologatória é notificada pessoalmente ao mandante, com a cominação de, nada dizendo, o acto ser havido por ratificado e a nulidade suprida; se declarar que não ratifica o acto do mandatário, este não produzirá quanto a si qualquer efeito.
 
-###### Artigo 303.º — [...]
+Artigo 303.º
+
+[...]
 
 1 - No requerimento em que se suscite o incidente e na oposição que lhe for deduzida, devem as partes oferecer o rol de testemunhas e requerer os outros meios de prova.
 
@@ -826,7 +1094,9 @@ Quando a tramitação processual prevista na lei não se adequar às especificid
 
 3 - ...
 
-###### Artigo 304.º — [...]
+Artigo 304.º
+
+[...]
 
 1 - ...
 
@@ -838,7 +1108,9 @@ Quando a tramitação processual prevista na lei não se adequar às especificid
 
 5 - Finda a produção da prova, o juiz declara quais os factos que julga provados e não provados, observando, com as devidas adaptações, o disposto no n.º 2 do artigo 653.º
 
-###### Artigo 324.º — [...]
+Artigo 324.º
+
+[...]
 
 1 - ...
 
@@ -848,7 +1120,9 @@ Quando a tramitação processual prevista na lei não se adequar às especificid
 
 4 - ...
 
-###### Artigo 325.º — [...]
+Artigo 325.º
+
+[...]
 
 1 - ...
 
@@ -856,13 +1130,17 @@ Quando a tramitação processual prevista na lei não se adequar às especificid
 
 3 - ...
 
-###### Artigo 326.º — [...]
+Artigo 326.º
+
+[...]
 
 1 - O chamamento para intervenção só pode ser requerido, em articulado da causa ou em requerimento autónomo, até ao momento em que podia deduzir-se a intervenção espontânea em articulado próprio, sem prejuízo do disposto no artigo 269.º, no n.º 1 do artigo 329.º e no n.º 2 do artigo 869.º
 
 2 - ...
 
-###### Artigo 328.º — [...]
+Artigo 328.º
+
+[...]
 
 1 - ...
 
@@ -872,7 +1150,9 @@ a) Nos casos da alínea a) do artigo 320.º, salvo tratando-se de chamamento dir
 
 b) Nos casos do n.º 2 do artigo 325.º
 
-###### Artigo 329.º — [...]
+Artigo 329.º
+
+[...]
 
 1 - O chamamento de condevedores ou do principal devedor, suscitado pelo réu que nisso mostre interesse atendível, é deduzido obrigatoriamente na contestação ou, não pretendendo o réu contestar, no prazo em que esta deveria ser apresentada.
 
@@ -880,7 +1160,9 @@ b) Nos casos do n.º 2 do artigo 325.º
 
 3 - ...
 
-###### Artigo 332.º — [...]
+Artigo 332.º
+
+[...]
 
 1 - ...
 
@@ -890,7 +1172,9 @@ b) Nos casos do n.º 2 do artigo 325.º
 
 4 - A sentença proferida constitui caso julgado quanto ao chamado, nos termos previstos no artigo 341.º, relativamente às questões de que dependa o direito de regresso do autor do chamamento, por este invocável em ulterior acção de indemnização.
 
-###### Artigo 334.º — [...]
+Artigo 334.º
+
+[...]
 
 1 - ...
 
@@ -900,19 +1184,25 @@ b) Nos casos do n.º 2 do artigo 325.º
 
 4 - ...
 
-###### Artigo 357.º — [...]
+Artigo 357.º
+
+[...]
 
 1 - Recebidos os embargos, são notificadas para contestar as partes primitivas, seguindo-se os termos do processo ordinário ou sumário de declaração, conforme o valor.
 
 2 - ...
 
-###### Artigo 376.º — [...]
+Artigo 376.º
+
+[...]
 
 1 - ...
 
 2 - A habilitação pode ser promovida pelo transmitente ou cedente, pelo adquirente ou cessionário, ou pela parte contrária; neste caso, aplica-se o disposto no n.º 1, com as adaptações necessárias.
 
-###### Artigo 377.º — [...]
+Artigo 377.º
+
+[...]
 
 1 - O disposto nesta secção é aplicável à habilitação deduzida perante os tribunais superiores, incumbindo o julgamento do incidente ao relator.
 
@@ -924,7 +1214,9 @@ Se falecer ou se extinguir alguma das partes enquanto a habilitação estiver pe
 
 4 - ...
 
-###### Artigo 381.º — Âmbito das providências cautelares não especificadas
+Artigo 381.º
+
+Âmbito das providências cautelares não especificadas
 
 1 - Sempre que alguém mostre fundado receio de que outrem cause lesão grave e dificilmente reparável ao seu direito, pode requerer a providência conservatória ou antecipatória concretamente adequada a assegurar a efectividade do direito ameaçado.
 
@@ -934,7 +1226,9 @@ Se falecer ou se extinguir alguma das partes enquanto a habilitação estiver pe
 
 4 - Não é admissível, na dependência da mesma causa, a repetição de providência que haja sido julgada injustificada ou tenha caducado.
 
-###### Artigo 383.º — [...]
+Artigo 383.º
+
+[...]
 
 1 - O procedimento cautelar é sempre dependência da causa que tenha por fundamento o direito acautelado e pode ser instaurado como preliminar ou como incidente de acção declarativa ou executiva.
 
@@ -946,7 +1240,9 @@ Se falecer ou se extinguir alguma das partes enquanto a habilitação estiver pe
 
 5 - Nos casos em que, nos termos de convenções internacionais em que seja parte o Estado Português, o procedimento cautelar seja dependência de uma causa que já foi ou haja de ser intentada em tribunal estrangeiro, o requerente deverá fazer prova nos autos do procedimento cautelar da pendência da causa principal, através de certidão passada pelo respectivo tribunal.
 
-###### Artigo 385.º — [...]
+Artigo 385.º
+
+[...]
 
 1 - O tribunal ouvirá o requerido, excepto quando a audiência puser em risco sério o fim ou a eficácia da providência.
 
@@ -960,7 +1256,9 @@ Se falecer ou se extinguir alguma das partes enquanto a habilitação estiver pe
 
 6 - ...
 
-###### Artigo 387.º — [...]
+Artigo 387.º
+
+[...]
 
 1 - ...
 
@@ -970,7 +1268,9 @@ Se falecer ou se extinguir alguma das partes enquanto a habilitação estiver pe
 
 4 - ...
 
-###### Artigo 388.º — [...]
+Artigo 388.º
+
+[...]
 
 1 - Quando o requerido não tiver sido ouvido antes do decretamento da providência, é-lhe lícito, em alternativa, na sequência da notificação prevista no n.º 5 do artigo 385.º:
 
@@ -980,7 +1280,9 @@ b) Deduzir oposição, quando pretenda alegar factos ou produzir meios de prova 
 
 2 - No caso a que se refere a alínea b) do número anterior, o juiz decidirá da manutenção, redução ou revogação da providência anteriormente decretada, cabendo recurso desta decisão, que constitui complemento e parte integrante da inicialmente proferida.
 
-###### Artigo 389.º — [...]
+Artigo 389.º
+
+[...]
 
 1 - O procedimento cautelar extingue-se e, quando decretada, a providência caduca:
 
@@ -1000,13 +1302,17 @@ e) ...
 
 4 - A extinção do procedimento e o levantamento da providência são determinados pelo juiz, com prévia audiência do requerente, logo que se mostre demonstrada nos autos a ocorrência do facto extintivo.
 
-###### Artigo 390.º — [...]
+Artigo 390.º
+
+[...]
 
 1 - Se a providência for considerada injustificada ou vier a caducar por facto imputável ao requerente, responde este pelos danos culposamente causados ao requerido, quando não tenha agido com a prudência normal.
 
 2 - ...
 
-###### Artigo 392.º — [...]
+Artigo 392.º
+
+[...]
 
 1 - Com excepção do preceituado no n.º 2 do artigo 387.º, as disposições constantes desta secção são aplicáveis aos procedimentos cautelares regulados na secção subsequente, em tudo quanto nela se não encontre especialmente prevenido.
 
@@ -1014,7 +1320,9 @@ e) ...
 
 3 - O tribunal não está adstrito à providência concretamente requerida, sendo aplicável à cumulação de providências cautelares a que caibam formas de procedimento diversas o preceituado nos n.os 2 e 3 do artigo 31.º
 
-###### Artigo 400.º — [...]
+Artigo 400.º
+
+[...]
 
 1 - ...
 
@@ -1022,7 +1330,9 @@ e) ...
 
 3 - Na falta de alguma das partes ou se a tentativa de conciliação se frustrar, o juiz ordena a produção da prova e, de seguida, decide, por sentença oral, sucintamente fundamentada.
 
-###### Artigo 403.º — [...]
+Artigo 403.º
+
+[...]
 
 1 - ...
 
@@ -1032,27 +1342,37 @@ e) ...
 
 4 - ...
 
-###### Artigo 406.º — [...]
+Artigo 406.º
+
+[...]
 
 1 - O credor que tenha justificado receio de perder a garantia patrimonial do seu crédito pode requerer o arresto de bens do devedor.
 
 2 - ...
 
-###### Artigo 407.º — [...]
+Artigo 407.º
+
+[...]
 
 1 - ...
 
 2 - Sendo o arresto requerido contra o adquirente de bens do devedor, o requerente, se não mostrar ter sido judicialmente impugnada a aquisição, deduzirá ainda os factos que tornem provável a procedência da impugnação.
 
-###### Artigo 419.º — [...]
+Artigo 419.º
+
+[...]
 
 Embargada a obra, pode ser autorizada a sua continuação, a requerimento do embargado, quando se reconheça que a demolição restituirá o embargante ao estado anterior à continuação ou quando se apure que o prejuízo resultante da paralisação da obra é consideravelmente superior ao que pode advir da sua continuação e em ambos os casos mediante caução prévia às despesas de demolição total.
 
-###### Artigo 447.º — Impossibilidade ou inutilidade da lide
+Artigo 447.º
+
+Impossibilidade ou inutilidade da lide
 
 Quando a instância se extinguir por impossibilidade ou inutilidade da lide, as custas ficam a cargo do autor, salvo se a impossibilidade ou inutilidade resultar de facto imputável ao réu, que neste caso as pagará.
 
-###### Artigo 456.º — [...]
+Artigo 456.º
+
+[...]
 
 1 - ...
 
@@ -1060,13 +1380,17 @@ Quando a instância se extinguir por impossibilidade ou inutilidade da lide, as 
 
 3 - Independentemente do valor da causa e da sucumbência, é sempre admitido recurso, em um grau, da decisão que condene por litigância de má fé.
 
-###### Artigo 462.º — [...]
+Artigo 462.º
+
+[...]
 
 1 - ...
 
 2 - As acções destinadas a exigir a responsabilidade civil, emergentes de acidentes de viação, quando não devam ser exercidas em processo penal, nem lhes corresponda processo sumaríssimo, seguirão os termos do processo sumário.
 
-###### Artigo 463.º — [...]
+Artigo 463.º
+
+[...]
 
 1 - ...
 
@@ -1078,7 +1402,9 @@ Quando haja lugar a venda de bens, será esta feita pelas formas estabelecidas p
 
 4 - ...
 
-###### Artigo 465.º — [...]
+Artigo 465.º
+
+[...]
 
 1 - Estão sujeitas à forma ordinária as execuções que, independentemente do valor do pedido, se fundem:
 
@@ -1088,13 +1414,17 @@ b) Em decisão judicial que condene no cumprimento de obrigação que careça de
 
 2 - Seguem a forma sumária as execuções baseadas em decisão judicial, qualquer que seja o processo em que haja sido proferida, sem prejuízo do disposto na alínea b) do número anterior.
 
-###### Artigo 470.º — [...]
+Artigo 470.º
+
+[...]
 
 1 - Pode o autor deduzir cumulativamente contra o mesmo réu, num só processo, vários pedidos que sejam compatíveis, se não se verificarem as circunstâncias que impedem a coligação.
 
 2 - Nos processos de divórcio ou separação litigiosos é admissível a dedução de pedido tendente à fixação do direito a alimentos.
 
-###### Artigo 474.º — Recusa da petição pela secretaria
+Artigo 474.º
+
+Recusa da petição pela secretaria
 
 A secretaria recusa o recebimento da petição inicial indicando por escrito o fundamento da rejeição, quando ocorrer algum dos seguintes casos:
 
@@ -1112,13 +1442,17 @@ f) ...
 
 g) ...
 
-###### Artigo 475.º — [...]
+Artigo 475.º
+
+[...]
 
 1 - ...
 
 2 - Do despacho que confirme o não recebimento cabe agravo, até à Relação, ainda que o valor da causa não ultrapasse a alçada dos tribunais de 1.ª instância, aplicando-se, com as adaptações necessárias, o disposto no artigo 234.º-A.
 
-###### Artigo 486.º — [...]
+Artigo 486.º
+
+[...]
 
 1 - ...
 
@@ -1132,11 +1466,15 @@ g) ...
 
 6 - A apresentação do requerimento de prorrogação não suspende o prazo em curso; o juiz decidirá, sem possibilidade de recurso, no prazo de vinte e quatro horas e a secretaria notificará imediatamente ao requerente o despacho proferido, nos termos dos n.os 5, segunda parte, e 6 do artigo 176.º
 
-###### Artigo 488.º — Elementos da contestação
+Artigo 488.º
+
+Elementos da contestação
 
 Na contestação deve o réu individualizar a acção e expor as razões de facto e de direito por que se opõe à pretensão do autor, especificando separadamente as excepções que deduza.
 
-###### Artigo 494.º — [...]
+Artigo 494.º
+
+[...]
 
 São dilatórias, entre outras, as excepções seguintes:
 
@@ -1160,15 +1498,21 @@ i) A litispendência ou o caso julgado;
 
 j) A preterição do tribunal arbitral necessário ou a violação de convenção de arbitragem.
 
-###### Artigo 496.º — [...]
+Artigo 496.º
+
+[...]
 
 O tribunal conhece oficiosamente das excepções peremptórias cuja invocação a lei não torne dependente da vontade do interessado.
 
-###### Artigo 504.º — [...]
+Artigo 504.º
+
+[...]
 
 É aplicável a todos os articulados subsequentes à contestação a possibilidade de prorrogação prevista nos n.os 4, 5 e 6 do artigo 486.º, não podendo a prorrogação ir além do prazo previsto para a apresentação do respectivo articulado.
 
-###### Artigo 508.º — [...]
+Artigo 508.º
+
+[...]
 
 1 - Findos os articulados, o juiz profere, sendo caso disso, despacho destinado a:
 
@@ -1186,7 +1530,9 @@ b) Convidar as partes ao aperfeiçoamento dos articulados, nos termos dos númer
 
 6 - ...
 
-###### Artigo 508.º-A — [...]
+Artigo 508.º-A
+
+[...]
 
 1 - Concluídas as diligências resultantes do preceituado no n.º 1 do artigo anterior, se a elas houver lugar, é convocada audiência preliminar, a realizar num dos 30 dias subsequentes, destinada a algum ou alguns dos fins seguintes:
 
@@ -1212,7 +1558,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 509.º — [...]
+Artigo 509.º
+
+[...]
 
 1 - ...
 
@@ -1222,7 +1570,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 510.º — [...]
+Artigo 510.º
+
+[...]
 
 1 - Findos os articulados, se não houver que proceder à convocação da audiência preliminar, o juiz profere, no prazo de 20 dias, despacho saneador destinado a:
 
@@ -1238,7 +1588,9 @@ b) Conhecer imediatamente do mérito da causa, sempre que o estado do processo p
 
 5 - ...
 
-###### Artigo 511.º — Selecção da matéria de facto
+Artigo 511.º
+
+Selecção da matéria de facto
 
 1 - O juiz, ao fixar a base instrutória, selecciona a matéria de facto relevante para a decisão da causa, segundo as várias soluções plausíveis da questão de direito, que deva considerar-se controvertida.
 
@@ -1246,17 +1598,23 @@ b) Conhecer imediatamente do mérito da causa, sempre que o estado do processo p
 
 3 - ...
 
-###### Artigo 512.º — [...]
+Artigo 512.º
+
+[...]
 
 1 - Quando o processo houver de prosseguir e se não tenha realizado a audiência preliminar, a secretaria notifica as partes do despacho saneador para, em 15 dias, apresentarem o rol de testemunhas, requererem outras provas, ou alterarem os requerimentos probatórios que hajam feito nos articulados, e requererem a gravação da audiência final.
 
 2 - Findo o prazo a que alude o número anterior, o juiz designa logo dia para a audiência final, ponderada a duração provável das diligências de instrução a realizar antes dela.
 
-###### Artigo 513.º — [...]
+Artigo 513.º
+
+[...]
 
 A instrução tem por objecto os factos relevantes para o exame e decisão da causa que devam considerar-se controvertidos ou necessitados de prova.
 
-###### Artigo 542.º — Junção e restituição de documentos e pareceres
+Artigo 542.º
+
+Junção e restituição de documentos e pareceres
 
 1 - Independentemente de despacho, a secretaria juntará ao processo todos os documentos e pareceres apresentados para esse efeito, a não ser que eles sejam manifestamente extemporâneos; neste caso, a secretaria fará os autos conclusos, com a sua informação, e o juiz decidirá sobre a junção.
 
@@ -1266,7 +1624,9 @@ A instrução tem por objecto os factos relevantes para o exame e decisão da ca
 
 4 - Transitada a decisão, os documentos pertencentes aos organismos oficiais ou a terceiros serão entregues imediatamente, enquanto os pertencentes às partes só serão restituídos mediante requerimento, deixando-se no processo fotocópia do documento entregue.
 
-###### Artigo 544.º — Impugnação da genuinidade de documento
+Artigo 544.º
+
+Impugnação da genuinidade de documento
 
 1 - A impugnação da letra ou assinatura do documento particular ou da exactidão da reprodução mecânica, a negação das instruções a que se refere o n.º 1 do artigo 381.º do Código Civil e a declaração de que não se sabe se a letra ou a assinatura do documento particular é verdadeira devem ser feitas no prazo de 10 dias, contados da apresentação do documento, se a parte a ela estiver presente, ou da notificação da junção, no caso contrário.
 
@@ -1274,7 +1634,9 @@ A instrução tem por objecto os factos relevantes para o exame e decisão da ca
 
 3 - No mesmo prazo deverá ser feito o pedido de confronto da certidão ou da cópia com o original ou com a certidão de que foi extraída.
 
-###### Artigo 545.º — Prova
+Artigo 545.º
+
+Prova
 
 1 - Com a prática de qualquer dos actos referidos no n.º 1 do artigo anterior, o impugnante pode requerer a produção de prova.
 
@@ -1282,7 +1644,9 @@ A instrução tem por objecto os factos relevantes para o exame e decisão da ca
 
 3 - A produção de prova oferecida depois de designado dia para a audiência de discussão e julgamento não suspende as diligências para ela nem determina o seu adiamento. Se não houver tempo para notificar as testemunhas oferecidas, ficam as partes obrigadas a apresentá-las.
 
-###### Artigo 546.º — Ilisão da autenticidade ou da força probatória de documento
+Artigo 546.º
+
+Ilisão da autenticidade ou da força probatória de documento
 
 1 - No prazo estabelecido no artigo 544.º, devem também ser arguidas a falta de autenticidade de documento presumido por lei como autêntico, a falsidade do documento, a subscrição de documento particular por pessoa que não sabia ou não podia ler sem a intervenção notarial a que se refere o artigo 373.º do Código Civil, a subtracção de documento particular assinado em branco e a inserção nele de declarações divergentes do ajustado com o signatário.
 
@@ -1290,13 +1654,17 @@ A instrução tem por objecto os factos relevantes para o exame e decisão da ca
 
 3 - A parte que haja reconhecido o documento como isento de vícios só pode arguir vícios supervenientes, nos termos do número anterior, sem prejuízo do conhecimento oficioso nos termos da lei civil.
 
-###### Artigo 547.º — Arguição pelo apresentante
+Artigo 547.º
+
+Arguição pelo apresentante
 
 1 - A arguição da falsidade parcial de documento, bem como da inserção, em documento particular assinado em branco, de declarações só parcialmente divergentes do ajustado com o signatário, podem ser feitas pelo próprio apresentante que se queira valer da parte não viciada do documento.
 
 2 - O apresentante do documento pode também arguir a falsidade superveniente deste, nos termos e no prazo do n.º 2 do artigo anterior.
 
-###### Artigo 548.º — Resposta
+Artigo 548.º
+
+Resposta
 
 1 - A parte contrária é notificada para responder, salvo se a arguição houver sido feita em articulado que não seja o último; neste caso, poderá responder no articulado seguinte.
 
@@ -1304,7 +1672,9 @@ A instrução tem por objecto os factos relevantes para o exame e decisão da ca
 
 3 - Apresentada a resposta, será negado seguimento à arguição se esta for manifestamente improcedente ou meramente dilatória, ou se o documento não puder ter influência na decisão da causa.
 
-###### Artigo 550.º — Processamento como incidente
+Artigo 550.º
+
+Processamento como incidente
 
 1 - Se a arguição tiver lugar em acção executiva, em processo especial cuja tramitação inviabilize o julgamento conjunto ou em processo pendente de recurso, a instrução e o julgamento far-se-ão nos termos gerais estabelecidos para os incidentes da instância.
 
@@ -1314,17 +1684,23 @@ A instrução tem por objecto os factos relevantes para o exame e decisão da ca
 
 4 - O incidente será declarado sem efeito se o respectivo processo estiver parado durante mais de 30 dias, por negligência do arguente em promover os seus termos.
 
-###### Artigo 552.º — [...]
+Artigo 552.º
+
+[...]
 
 1 - O juiz pode, em qualquer estado do processo, determinar a comparência pessoal das partes para a prestação de depoimento sobre factos que interessem à decisão da causa.
 
 2 - Quando o depoimento seja requerido por alguma das partes, devem indicar-se logo, de forma discriminada, os factos sobre que há-de recair.
 
-###### Artigo 555.º — [...]
+Artigo 555.º
+
+[...]
 
 O depoimento do interveniente acessório é apreciado livremente pelo tribunal, que considerará as circunstâncias e a posição na causa de quem o presta e de quem o requereu.
 
-###### Artigo 556.º — Momento e lugar do depoimento
+Artigo 556.º
+
+Momento e lugar do depoimento
 
 1 - O depoimento deve, em regra, ser prestado na audiência de discussão e julgamento, salvo se for urgente, o depoente residir noutro círculo judicial, sem prejuízo do disposto no n.º 4 do artigo 623.º, ou noutra ilha, no caso das Regiões Autónomas, ou estiver impossibilitado de comparecer no tribunal.
 
@@ -1332,13 +1708,17 @@ O depoimento do interveniente acessório é apreciado livremente pelo tribunal, 
 
 3 - Pode ainda o depoimento ser prestado na audiência preliminar, aplicando-se, com as adaptações necessárias, o disposto no número anterior.
 
-###### Artigo 562.º — [...]
+Artigo 562.º
+
+[...]
 
 1 - Os advogados das partes podem pedir esclarecimentos ao depoente.
 
 2 - Se algum dos advogados entender que a pergunta é inadmissível, pela forma ou pela substância, pode deduzir a sua oposição, que será logo julgada definitivamente.
 
-###### Artigo 569.º — [...]
+Artigo 569.º
+
+[...]
 
 1 - ...
 
@@ -1352,17 +1732,23 @@ b) ...
 
 4 - Se houver mais de um autor ou mais de um réu e ocorrer divergência entre eles na escolha do respectivo perito, prevalece a designação da maioria; não chegando a formar-se maioria, a nomeação devolve-se ao juiz.
 
-###### Artigo 577.º — [...]
+Artigo 577.º
+
+[...]
 
 1 - Ao requerer a perícia, a parte indicará logo, sob pena de rejeição, o respectivo objecto, enunciando as questões de facto que pretende ver esclarecidas através da diligência.
 
 2 - ...
 
-###### Artigo 588.º — [...]
+Artigo 588.º
+
+[...]
 
 Quando alguma das partes o requeira ou o juiz o ordene, os peritos comparecerão na audiência final, a fim de prestarem, sob juramento, os esclarecimentos que lhes sejam pedidos.
 
-###### Artigo 618.º — [...]
+Artigo 618.º
+
+[...]
 
 1 - ...
 
@@ -1370,7 +1756,9 @@ Quando alguma das partes o requeira ou o juiz o ordene, os peritos comparecerão
 
 3 - Devem escusar-se a depor os que estejam adstritos ao segredo profissional, ao segredo de funcionários públicos e ao segredo de Estado, relativamente aos factos abrangidos pelo sigilo, aplicando-se neste caso o disposto no n.º 4 do artigo 519.º
 
-###### Artigo 623.º — [...]
+Artigo 623.º
+
+[...]
 
 1 - Quando as testemunhas residam fora da área do círculo judicial, ou da respectiva ilha, no caso das Regiões Autónomas, a parte pode requerer no rol a expedição de carta para a sua inquirição, indicando logo os factos sobre que há-de recair o depoimento, ou, em alternativa, que o juiz determine a respectiva comparência na audiência de julgamento, quando entenda que se verificam as circunstâncias previstas no n.º 3; neste caso, é lícito à parte requerer subsidiariamente a inquirição por carta.
 
@@ -1380,7 +1768,9 @@ Quando alguma das partes o requeira ou o juiz o ordene, os peritos comparecerão
 
 4 - Nas causas pendentes em tribunais sediados nas áreas metropolitanas de Lisboa e do Porto não se expedirá carta precatória quando a testemunha a inquirir resida na respectiva circunscrição.
 
-###### Artigo 629.º — [...]
+Artigo 629.º
+
+[...]
 
 1 - Findo o prazo a que alude o n.º 1 do artigo 512.º-A, assiste ainda à parte a faculdade de substituir testemunhas nos casos previstos no número seguinte; a substituição deve ser requerida logo que a parte tenha conhecimento do facto que a determina.
 
@@ -1390,13 +1780,17 @@ Quando alguma das partes o requeira ou o juiz o ordene, os peritos comparecerão
 
 4 - ...
 
-###### Artigo 639.º — [...]
+Artigo 639.º
+
+[...]
 
 1 - Quando se verificar impossibilidade ou grave dificuldade de comparência no tribunal, pode o juiz autorizar, havendo acordo das partes, que o depoimento da testemunha seja prestado através de documento escrito, datado e assinado pelo seu autor, do qual conste relação discriminada dos factos a que assistiu ou que verificou pessoalmente e das razões de ciência invocadas.
 
 2 - ...
 
-###### Artigo 639.º-B — [...]
+Artigo 639.º-B
+
+[...]
 
 1 - Quando ocorra impossibilidade ou grave dificuldade de atempada comparência de quem deva depor na audiência, pode o juiz determinar, com o acordo das partes, que sejam prestados, através da utilização de telefone ou outro meio de comunicação directa do tribunal com o depoente, quaisquer esclarecimentos indispensáveis à boa decisão da causa, desde que a natureza dos factos a averiguar ou esclarecer se mostre compatível com a diligência.
 
@@ -1404,7 +1798,9 @@ Quando alguma das partes o requeira ou o juiz o ordene, os peritos comparecerão
 
 3 - É aplicável ao caso previsto neste artigo o disposto no artigo 635.º e na primeira parte do n.º 4 do artigo anterior.
 
-###### Artigo 643.º — [...]
+Artigo 643.º
+
+[...]
 
 1 - ...
 
@@ -1412,7 +1808,9 @@ Quando alguma das partes o requeira ou o juiz o ordene, os peritos comparecerão
 
 3 - ...
 
-###### Artigo 646.º — [...]
+Artigo 646.º
+
+[...]
 
 1 - ...
 
@@ -1430,7 +1828,9 @@ c) ...
 
 5 - Nas hipóteses previstas no n.º 2, o julgamento da matéria de facto e a prolação da sentença final incumbem ao juiz que deveria presidir ao tribunal colectivo, se a sua intervenção tivesse tido lugar.
 
-###### Artigo 651.º — [...]
+Artigo 651.º
+
+[...]
 
 1 - ...
 
@@ -1448,17 +1848,23 @@ c) Se faltar algum dos advogados, o que será comunicado ao mandante; neste caso
 
 5 - A falta de alguma ou de ambas as partes que tenham sido convocadas para a tentativa de conciliação não é motivo de adiamento, mesmo que não se tenham feito representar por advogado com poderes especiais para transigir.
 
-###### Artigo 657.º — [...]
+Artigo 657.º
+
+[...]
 
 Se as partes não prescindirem da discussão por escrito do aspecto jurídico da causa, a secretaria, uma vez concluído o julgamento da matéria de facto, facultará o processo para exame ao advogado do autor e depois ao do réu, pelo prazo de 10 dias a cada um deles, a fim de alegarem, interpretando e aplicando a lei aos factos que tiverem ficado assentes.
 
-###### Artigo 660.º — [...]
+Artigo 660.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 3 do artigo 288.º, a sentença conhece, em primeiro lugar, das questões processuais que possam determinar a absolvição da instância, segundo a ordem imposta pela sua precedência lógica.
 
 2 - ...
 
-###### Artigo 666.º — [...]
+Artigo 666.º
+
+[...]
 
 1 - ...
 
@@ -1466,7 +1872,9 @@ Se as partes não prescindirem da discussão por escrito do aspecto jurídico da
 
 3 - ...
 
-###### Artigo 669.º — [...]
+Artigo 669.º
+
+[...]
 
 1 - ...
 
@@ -1478,7 +1886,9 @@ b) Constem do processo documentos ou quaisquer elementos que, só por si, impliq
 
 3 - Cabendo recurso da decisão, o requerimento previsto no número anterior é feito na própria alegação, aplicando-se, com as adaptações necessárias, o disposto no n.º 4 do artigo 668.º
 
-###### Artigo 670.º — [...]
+Artigo 670.º
+
+[...]
 
 1 - Arguida alguma das nulidades previstas nas alíneas b) a e) do n.º 1 do artigo 668.º ou pedida a aclaração da sentença ou a sua reforma, nos termos do artigo anterior, a secretaria, independentemente de despacho, notificará a parte contrária para responder e depois se decidirá.
 
@@ -1488,11 +1898,15 @@ b) Constem do processo documentos ou quaisquer elementos que, só por si, impliq
 
 4 - No caso a que se refere o n.º 2 do artigo anterior, a parte prejudicada com a alteração da decisão pode recorrer, mesmo que a causa esteja compreendida na alçada do tribunal; neste caso, o recurso não suspende a exequibilidade da sentença.
 
-###### Artigo 674.º-A — [...]
+Artigo 674.º-A
+
+[...]
 
 A condenação definitiva proferida no processo penal constitui, em relação a terceiros, presunção ilidível no que se refere à existência dos factos que integram os pressupostos da punição e os elementos do tipo legal, bem como dos que respeitam às formas do crime, em quaisquer acções civis em que se discutam relações jurídicas dependentes da prática da infracção.
 
-###### Artigo 678.º — [...]
+Artigo 678.º
+
+[...]
 
 1 - ...
 
@@ -1506,7 +1920,9 @@ A condenação definitiva proferida no processo penal constitui, em relação a 
 
 6 - É sempre admissível recurso das decisões proferidas contra jurisprudência uniformizada pelo Supremo Tribunal de Justiça.
 
-###### Artigo 684.º-A — Ampliação do âmbito do recurso a requerimento do recorrido
+Artigo 684.º-A
+
+Ampliação do âmbito do recurso a requerimento do recorrido
 
 1 - ...
 
@@ -1514,7 +1930,9 @@ A condenação definitiva proferida no processo penal constitui, em relação a 
 
 3 - ...
 
-###### Artigo 685.º — [...]
+Artigo 685.º
+
+[...]
 
 1 - O prazo para a interposição dos recursos é de 10 dias, contados da notificação da decisão; se a parte for revel e não dever ser notificada nos termos do artigo 255.º, o prazo corre desde a publicação da decisão.
 
@@ -1524,13 +1942,17 @@ A condenação definitiva proferida no processo penal constitui, em relação a 
 
 4 - ...
 
-###### Artigo 686.º — [...]
+Artigo 686.º
+
+[...]
 
 1 - Se alguma das partes requerer a rectificação, aclaração ou reforma da sentença, nos termos do artigo 667.º e do n.º 1 do artigo 669.º, o prazo para o recurso só começa a correr depois de notificada a decisão proferida sobre o requerimento.
 
 2 - ...
 
-###### Artigo 687.º — [...]
+Artigo 687.º
+
+[...]
 
 1 - Os recursos interpõem-se por meio de requerimento, dirigido ao tribunal que proferiu a decisão recorrida e no qual se indique a espécie de recurso interposto e, nos casos previstos nos n.os 2, 4 e 6 do artigo 678.º e na parte final do n.º 2 do artigo 754.º, o respectivo fundamento.
 
@@ -1542,7 +1964,9 @@ A condenação definitiva proferida no processo penal constitui, em relação a 
 
 5 - No caso previsto no n.º 1 do artigo 725.º, a decisão que deferir o requerido altera o despacho previsto no número anterior.
 
-###### Artigo 688.º — [...]
+Artigo 688.º
+
+[...]
 
 1 - ...
 
@@ -1554,13 +1978,17 @@ A condenação definitiva proferida no processo penal constitui, em relação a 
 
 5 - ...
 
-###### Artigo 691.º — [...]
+Artigo 691.º
+
+[...]
 
 1 - ...
 
 2 - A sentença e o despacho saneador que julguem da procedência ou improcedência de alguma excepção peremptória decidem do mérito da causa.
 
-###### Artigo 698.º — [...]
+Artigo 698.º
+
+[...]
 
 1 - ...
 
@@ -1574,11 +2002,15 @@ A condenação definitiva proferida no processo penal constitui, em relação a 
 
 6 - ...
 
-###### Artigo 699.º — [...]
+Artigo 699.º
+
+[...]
 
 Findo o prazo para apresentação das alegações, o recurso que não deva considerar-se deserto é expedido para o tribunal superior, com cópia dactilografada da decisão impugnada, sem prejuízo do disposto no n.º 4 do artigo 668.º e no n.º 3 do artigo 669.º
 
-###### Artigo 700.º — [...]
+Artigo 700.º
+
+[...]
 
 1 - ...
 
@@ -1590,13 +2022,17 @@ Findo o prazo para apresentação das alegações, o recurso que não deva consi
 
 5 - Do acórdão da conferência pode recorrer, nos termos gerais, a parte que se considere prejudicada, mas, se o recurso houver de prosseguir, o agravo só subirá a final.
 
-###### Artigo 701.º — [...]
+Artigo 701.º
+
+[...]
 
 1 - ...
 
 2 - Pode ainda o relator julgar sumariamente o objecto do recurso, nos termos previstos no artigo 705.º
 
-###### Artigo 712.º — [...]
+Artigo 712.º
+
+[...]
 
 1 - ...
 
@@ -1614,7 +2050,9 @@ c) ...
 
 5 - Se a decisão proferida sobre algum facto essencial para o julgamento da causa não estiver devidamente fundamentada, pode a Relação, a requerimento da parte, determinar que o tribunal de 1.ª instância a fundamente, tendo em conta os depoimentos gravados ou registados ou repetindo a produção da prova, quando necessário; sendo impossível obter a fundamentação com os mesmos juízes ou repetir a produção da prova, o juiz da causa limitar-se-á a justificar a razão da impossibilidade.
 
-###### Artigo 725.º — [...]
+Artigo 725.º
+
+[...]
 
 1 - Quando o valor da causa ou da sucumbência, nos termos do n.º 1 do artigo 678.º, for superior à alçada dos tribunais judiciais de 2.ª instância e as partes, nas suas alegações, suscitarem apenas questões de direito, nos termos dos n.os 2 e 3 do artigo 721.º e dos n.os 1 e 2 do artigo 722.º, pode qualquer delas, não havendo agravos retidos que devam subir nos termos do n.º 1 do artigo 735.º, requerer nas conclusões que o recurso interposto de decisão de mérito proferida em 1.ª instância suba directamente ao Supremo Tribunal de Justiça.
 
@@ -1628,11 +2066,15 @@ c) ...
 
 6 - ...
 
-###### Artigo 726.º — [...]
+Artigo 726.º
+
+[...]
 
 São aplicáveis ao recurso de revista as disposições relativas ao julgamento da apelação interposta para a Relação, com excepção do que se estabelece no artigo 712.º e no n.º 1 do artigo 715.º e salvo ainda o que vai prescrito nos artigos seguintes.
 
-###### Artigo 732.º-B — [...]
+Artigo 732.º-B
+
+[...]
 
 1 - ...
 
@@ -1642,13 +2084,17 @@ São aplicáveis ao recurso de revista as disposições relativas ao julgamento 
 
 4 - O acórdão proferido pelas secções reunidas sobre o objecto da revista é publicado na 1.ª série-A do jornal oficial.
 
-###### Artigo 748.º — [...]
+Artigo 748.º
+
+[...]
 
 1 - Ao apresentar as alegações no recurso que motiva a subida dos agravos retidos, o agravante especificará obrigatoriamente, nas conclusões, quais os que mantêm interesse.
 
 2 - Se omitir a especificação a que alude o número anterior, o relator convidará a parte a apresentá-la, no prazo de cinco dias, sob cominação de, não o fazendo, se entender que desiste dos agravos retidos.
 
-###### Artigo 754.º — [...]
+Artigo 754.º
+
+[...]
 
 1 - ...
 
@@ -1656,23 +2102,31 @@ São aplicáveis ao recurso de revista as disposições relativas ao julgamento 
 
 3 - O disposto na primeira parte do número anterior não é aplicável aos agravos referidos nos n.os 2 e 3 do artigo 678.º e na alínea a) do n.º 1 do artigo 734.º
 
-###### Artigo 761.º — [...]
+Artigo 761.º
+
+[...]
 
 l - Se o agravo não subir imediatamente, os termos do recurso posteriores à apresentação das alegações ficam suspensos, aplicando-se o disposto nos n.os 2 e 3 do artigo 747.º e no artigo 748.º
 
 2 - ...
 
-###### Artigo 787.º — [...]
+Artigo 787.º
+
+[...]
 
 Findos os articulados, observar-se-á o disposto nos artigos 508.º a 512.º-A, mas a audiência preliminar só se realiza quando a complexidade da causa ou a necessidade de actuar o princípio do contraditório o determinem.
 
-###### Artigo 790.º — [...]
+Artigo 790.º
+
+[...]
 
 l - A discussão do aspecto jurídico da causa é oral e em cada um dos debates os advogados só podem usar uma vez da palavra e por tempo não excedente a uma hora.
 
 2 - ...
 
-###### Artigo 791.º — [...]
+Artigo 791.º
+
+[...]
 
 1 - A audiência de discussão e julgamento é marcada para dentro de 30 dias, incumbindo a instrução, discussão e julgamento da causa ao juiz singular, salvo no caso previsto no n.º 4.
 
@@ -1682,21 +2136,29 @@ l - A discussão do aspecto jurídico da causa é oral e em cada um dos debates 
 
 4 - ...
 
-###### Artigo 792.º — [...]
+Artigo 792.º
+
+[...]
 
 A apelação tem efeito meramente devolutivo, salvo no caso previsto no n.º 5 do artigo 678.º, quando seja decretada a restituição do prédio; ao seu julgamento é também aplicável o disposto no artigo 712.º, mesmo que a decisão da matéria de facto tenha sido proferida pelo juiz singular.
 
-###### Artigo 795.º — [...]
+Artigo 795.º
+
+[...]
 
 1 - Findos os articulados, pode o juiz, sem prejuízo do disposto nos n.os 3 e 4 do artigo 3.º, julgar logo procedente alguma excepção dilatória ou nulidade que lhe cumpra conhecer, ou decidir do mérito da causa.
 
 2 - Se a acção tiver de prosseguir, é logo marcado dia para a audiência final, que deve efectuar-se dentro de 30 dias.
 
-###### Artigo 801.º — [...]
+Artigo 801.º
+
+[...]
 
 As disposições subsequentes aplicam-se, na falta de disposição especial em contrário e em tudo o que se mostre compatível, a todas as espécies e formas de processo executivo.
 
-###### Artigo 803.º — [...]
+Artigo 803.º
+
+[...]
 
 1 - ...
 
@@ -1704,13 +2166,17 @@ As disposições subsequentes aplicam-se, na falta de disposição especial em c
 
 3 - Cabendo a escolha a terceiro, será este notificado para a efectuar; na falta de escolha pelo terceiro, bem como no caso de haver vários devedores e não ser possível formar maioria quanto à escolha, será esta efectuada pelo tribunal, a requerimento do exequente, aplicando-se, com as necessárias adaptações, o disposto no artigo 1429.º
 
-###### Artigo 811.º-B — [...]
+Artigo 811.º-B
+
+[...]
 
 1 - Fora dos casos previstos no artigo anterior, o juiz antes de ordenar a citação do executado convidará o exequente a suprir as irregularidades do requerimento executivo, aplicando-se, com as necessárias adaptações, o disposto no n.º 2 do artigo 265.º
 
 2 - ...
 
-###### Artigo 813.º — [...]
+Artigo 813.º
+
+[...]
 
 Fundando-se a execução em sentença, a oposição só pode ter algum dos fundamentos seguintes:
 
@@ -1728,7 +2194,9 @@ f) ...
 
 g) ...
 
-###### Artigo 818.º — [...]
+Artigo 818.º
+
+[...]
 
 1 - O recebimento dos embargos não suspende a execução, salvo se o embargante requerer a suspensão e prestar caução.
 
@@ -1740,13 +2208,17 @@ g) ...
 
 5 - A execução prosseguirá se, depois de prestada a caução, o processo de embargos estiver parado durante mais de 30 dias, por negligência do embargante em promover os seus termos.
 
-###### Artigo 821.º — [...]
+Artigo 821.º
+
+[...]
 
 1 - Estão sujeitos à execução todos os bens do devedor susceptíveis de penhora que, nos termos da lei substantiva, respondem pela dívida exequenda.
 
 2 - ...
 
-###### Artigo 822.º — [...]
+Artigo 822.º
+
+[...]
 
 São absolutamente impenhoráveis, além dos bens isentos de penhora por disposição especial:
 
@@ -1764,7 +2236,9 @@ f) Os bens imprescindíveis a qualquer economia doméstica que se encontrem na r
 
 g) Os instrumentos indispensáveis aos deficientes e os objectos destinados ao tratamento de doentes.
 
-###### Artigo 824.º — [...]
+Artigo 824.º
+
+[...]
 
 1 - ...
 
@@ -1776,7 +2250,9 @@ b) ...
 
 3 - Pode o juiz excepcionalmente isentar de penhora os rendimentos a que alude o n.º 1, tendo em conta a natureza da dívida exequenda e as necessidades do executado e seu agregado familiar.
 
-###### Artigo 828.º — [...]
+Artigo 828.º
+
+[...]
 
 l - Na execução movida contra devedor subsidiário, não podem penhorar-se os bens deste, enquanto não estiverem excutidos todos os bens do devedor principal, desde que o devedor subsidiário fundadamente invoque o benefício da excussão, no prazo a que se refere o n.º 1 do artigo 816.º
 
@@ -1788,23 +2264,31 @@ l - Na execução movida contra devedor subsidiário, não podem penhorar-se os 
 
 5 - ...
 
-###### Artigo 832.º — [...]
+Artigo 832.º
+
+[...]
 
 1 - ...
 
 2 - Em caso de dúvida, o funcionário efectuará a penhora, cabendo ao tribunal resolver se deve ser mantida, ouvidos o exequente e o executado e obtidas as informações necessárias.
 
-###### Artigo 833.º — [...]
+Artigo 833.º
+
+[...]
 
 1 - O executado tem a faculdade de indicar os bens sobre os quais a penhora há-de recair, os quais devem ser penhoráveis e suficientes para pagamento do crédito do exequente e das custas.
 
 2 - ...
 
-###### Artigo 835.º — [...]
+Artigo 835.º
+
+[...]
 
 Tratando-se de dívida com garantia real que onere bens pertencentes ao devedor, a penhora começa, independentemente de nomeação, pelos bens sobre que incida a garantia e só pode recair noutros quando se reconheça a insuficiência deles para conseguir o fim da execução.
 
-###### Artigo 838.º — [...]
+Artigo 838.º
+
+[...]
 
 1 - ...
 
@@ -1818,7 +2302,9 @@ Tratando-se de dívida com garantia real que onere bens pertencentes ao devedor,
 
 6 - O registo meramente provisório da penhora não obsta a que o juiz, ponderados os motivos da provisoriedade, possa determinar o prosseguimento da execução, não se fazendo, porém, a adjudicação dos bens penhorados, a consignação judicial dos seus rendimentos ou a respectiva venda, sem que o registo se haja entretanto convertido em definitivo.
 
-###### Artigo 840.º — [...]
+Artigo 840.º
+
+[...]
 
 1 - ...
 
@@ -1828,7 +2314,9 @@ Tratando-se de dívida com garantia real que onere bens pertencentes ao devedor,
 
 4 - Quando o imóvel penhorado for a casa de habitação onde resida habitualmente o executado, é aplicável o previsto no artigo 930.º-A para a entrega de coisa certa, podendo ainda o juiz, ponderadas as circunstâncias, sustar a desocupação até à venda.
 
-###### Artigo 845.º — [...]
+Artigo 845.º
+
+[...]
 
 1 - ...
 
@@ -1836,7 +2324,9 @@ Tratando-se de dívida com garantia real que onere bens pertencentes ao devedor,
 
 3 - O depositário pode pedir escusa do cargo, ocorrendo motivo atendível.
 
-###### Artigo 848.º — [...]
+Artigo 848.º
+
+[...]
 
 1 - ...
 
@@ -1848,7 +2338,9 @@ Tratando-se de dívida com garantia real que onere bens pertencentes ao devedor,
 
 5 - ...
 
-###### Artigo 861.º-A — [...]
+Artigo 861.º-A
+
+[...]
 
 1 - ...
 
@@ -1860,7 +2352,9 @@ Tratando-se de dívida com garantia real que onere bens pertencentes ao devedor,
 
 5 - Sendo vários os titulares do depósito, a penhora incide sobre a quota-parte do executado na conta comum, presumindo-se que as quotas são iguais.
 
-###### Artigo 868.º — [...]
+Artigo 868.º
+
+[...]
 
 1 - Se a verificação de algum dos créditos impugnados estiver dependente de produção de prova, seguir-se-ão os termos do processo sumário de declaração, posteriores aos articulados; o despacho saneador declarará, porém, reconhecidos os créditos que o puderem ser, embora a graduação de todos fique para a sentença final.
 
@@ -1872,7 +2366,9 @@ Tratando-se de dívida com garantia real que onere bens pertencentes ao devedor,
 
 5 - ...
 
-###### Artigo 885.º — [...]
+Artigo 885.º
+
+[...]
 
 1 - Fica sem efeito a sustação da execução se algum credor, cujo crédito esteja vencido e cuja reclamação haja sido admitida, requerer o prosseguimento da execução para satisfação do seu crédito ou se, no caso previsto no artigo 871.º, for apresentada reclamação nos 15 dias posteriores à notificação do despacho de sustação.
 
@@ -1882,7 +2378,9 @@ Tratando-se de dívida com garantia real que onere bens pertencentes ao devedor,
 
 4 - ...
 
-###### Artigo 886.º-A — [...]
+Artigo 886.º-A
+
+[...]
 
 1 - ...
 
@@ -1894,11 +2392,15 @@ Tratando-se de dívida com garantia real que onere bens pertencentes ao devedor,
 
 5 - Não cabe recurso das decisões a que aludem os n.os 2 e 3.
 
-###### Artigo 888.º — [...]
+Artigo 888.º
+
+[...]
 
 Após o pagamento do preço e do imposto devido pela transmissão, são oficiosamente mandados cancelar os registos dos direitos reais que caducam, nos termos do n.º 2 do artigo 824.º do Código Civil, entregando-se ao adquirente certidão do respectivo despacho.
 
-###### Artigo 894.º — [...]
+Artigo 894.º
+
+[...]
 
 1 - ...
 
@@ -1906,11 +2408,15 @@ Após o pagamento do preço e do imposto devido pela transmissão, são oficiosa
 
 3 - ...
 
-###### Artigo 901.º — [...]
+Artigo 901.º
+
+[...]
 
 O adquirente pode, com base no despacho a que se refere o artigo anterior, requerer o prosseguimento da execução contra o detentor dos bens, nos termos prescritos para a execução para entrega de coisa certa.
 
-###### Artigo 904.º — [...]
+Artigo 904.º
+
+[...]
 
 A venda é feita por negociação particular:
 
@@ -1920,7 +2426,9 @@ b) ...
 
 c) Quando, nos termos do n.º 2 do artigo 895.º, se haja frustrado a venda judicial dos bens e o juiz não determine a venda em estabelecimento de leilão.
 
-###### Artigo 922.º — [...]
+Artigo 922.º
+
+[...]
 
 1 - Cabe recurso de apelação, nos termos do n.º 1 do artigo 678.º, da sentença que conhecer do objecto da liquidação ou dos embargos de executado e da que verificar e graduar os créditos reclamados.
 
@@ -1928,7 +2436,9 @@ c) Quando, nos termos do n.º 2 do artigo 895.º, se haja frustrado a venda judi
 
 3 - ...
 
-###### Artigo 926.º — [...]
+Artigo 926.º
+
+[...]
 
 1 - ...
 
@@ -1940,7 +2450,9 @@ c) Quando, nos termos do n.º 2 do artigo 895.º, se haja frustrado a venda judi
 
 5 - À falta ou nulidade da notificação prevista nos números anteriores é aplicável, com as necessárias adaptações, o disposto no artigo 921.º
 
-###### Artigo 1015.º — [...]
+Artigo 1015.º
+
+[...]
 
 1 - ...
 
@@ -1950,7 +2462,9 @@ c) Quando, nos termos do n.º 2 do artigo 895.º, se haja frustrado a venda judi
 
 4 - ...
 
-###### Artigo 1479.º — [...]
+Artigo 1479.º
+
+[...]
 
 1 - ...
 
@@ -1958,11 +2472,15 @@ c) Quando, nos termos do n.º 2 do artigo 895.º, se haja frustrado a venda judi
 
 3 - Quando o inquérito tiver como fundamento a não apresentação pontual do relatório de gestão, contas do exercício e demais documentos de prestação de contas, seguir-se-ão os termos previstos no artigo 67.º do Código das Sociedades Comerciais.
 
-###### Artigo 1499.º — Aplicação aos demais casos de avaliação
+Artigo 1499.º
+
+Aplicação aos demais casos de avaliação
 
 O disposto no artigo anterior é aplicável, com as necessárias adaptações, aos demais casos em que, mediante avaliação, haja lugar à fixação judicial do valor de participações sociais.
 
-###### Artigo 1510.º — [...]
+Artigo 1510.º
+
+[...]
 
 1 - ...
 
@@ -1972,19 +2490,25 @@ O disposto no artigo anterior é aplicável, com as necessárias adaptações, a
 
 4 - Têm natureza urgente o processo e os recursos previstos nesta secção.
 
-###### Artigo 1526.º — [...]
+Artigo 1526.º
+
+[...]
 
 l - Pode qualquer das partes requerer a notificação da outra para a nomeação de árbitros, aplicando-se, com as necessárias adaptações, o estabelecido na lei da arbitragem voluntária.
 
 2 - ...
 
-###### Artigo 1527.º — [...]
+Artigo 1527.º
+
+[...]
 
 1 - Se em relação a algum dos árbitros se verificar qualquer das circunstâncias previstas no artigo 13.º da lei da arbitragem voluntária, procede-se à nomeação de outro, nos termos do artigo anterior, cabendo a nomeação a quem tiver nomeado o árbitro anterior, quando possível.
 
 2 - ...
 
-###### Artigo 1528.º — [...]
+Artigo 1528.º
+
+[...]
 
 Em tudo o que não vai especialmente regulado observar-se-á, na parte aplicável, o disposto na lei da arbitragem voluntária.»
 
@@ -2002,7 +2526,9 @@ Utilização da informática
 
 3 - Os mandatários judiciais poderão obter informação acerca do resultado da distribuição dos processos referentes às partes que patrocinam através de acesso aos ficheiros informáticos existentes nas secretarias, nos termos previstos no respectivo diploma regulamentar.
 
-###### Artigo 234.º-A — Casos em que é admissível indeferimento liminar
+Artigo 234.º-A
+
+Casos em que é admissível indeferimento liminar
 
 1 - Nos casos referidos nas alíneas a) a e) do n.º 4 do artigo anterior, pode o juiz, em vez de ordenar a citação, indeferir liminarmente a petição, quando o pedido seja manifestamente improcedente ou ocorram, de forma evidente, excepções dilatórias insupríveis e de que o juiz deva conhecer oficiosamente, aplicando-se o disposto no artigo 476.º
 
@@ -2012,7 +2538,9 @@ Utilização da informática
 
 4 - O prazo para a contestação ou oposição inicia-se com a notificação em 1.ª instância de que foi revogado o despacho de indeferimento previsto nos números anteriores.
 
-###### Artigo 508.º-B — Dispensa da audiência preliminar
+Artigo 508.º-B
+
+Dispensa da audiência preliminar
 
 1 - O juiz pode dispensar a audiência preliminar, quando:
 
@@ -2022,13 +2550,17 @@ b) A sua realização tivesse como fim facultar a discussão de excepções dila
 
 2 - Não havendo lugar à realização de audiência preliminar, se a acção tiver sido contestada e houver de prosseguir, o juiz, no despacho saneador, seleccionará a matéria de facto, mesmo por remissão para os articulados, podendo as partes apresentar as respectivas reclamações no início da audiência final.
 
-###### Artigo 512.º-A — Alteração do rol de testemunhas
+Artigo 512.º-A
+
+Alteração do rol de testemunhas
 
 1 - O rol de testemunhas pode ser alterado ou aditado até 20 dias antes da data em que se realize a audiência de julgamento, sendo a parte contrária notificada para usar, querendo, de igual faculdade, no prazo de 5 dias.
 
 2 - Incumbe às partes a apresentação das testemunhas indicadas em consequência do adicionamento ou alteração do rol previsto no número anterior.
 
-###### Artigo 549.º — Instrução e julgamento
+Artigo 549.º
+
+Instrução e julgamento
 
 1 - Com a arguição e com a resposta, podem as partes requerer a produção de prova.
 
@@ -2038,11 +2570,15 @@ b) A sua realização tivesse como fim facultar a discussão de excepções dila
 
 4 - A decisão proferida sobre a arguição será notificada ao Ministério Público.
 
-###### Artigo 551.º — Exame na Torre do Tombo
+Artigo 551.º
+
+Exame na Torre do Tombo
 
 O exame destinado a estabelecer a autenticidade de documentos anteriores ao século XVIII será ordenado pelo director do arquivo da Torre do Tombo, sobre prévia requisição do tribunal.
 
-###### Artigo 551.º-A — Falsidade de acto judicial
+Artigo 551.º-A
+
+Falsidade de acto judicial
 
 1 - A falsidade da citação deve ser arguida dentro de 10 dias, a contar da intervenção do réu no processo.
 
@@ -2052,7 +2588,9 @@ O exame destinado a estabelecer a autenticidade de documentos anteriores ao séc
 
 4 - Quando a falsidade respeitar ao acto de citação e puder prejudicar a defesa do citando, a causa suspende-se logo que seja admitida a arguição, até decisão definitiva desta, observando-se o disposto no n.º 1 do artigo 550.º; mas o incidente não terá seguimento se o autor, notificado da arguição, requerer a repetição do acto da citação.
 
-###### Artigo 824.º-A — Impenhorabilidade de quantias pecuniárias ou depósitos bancários
+Artigo 824.º-A
+
+Impenhorabilidade de quantias pecuniárias ou depósitos bancários
 
 São impenhoráveis a quantia em dinheiro ou o depósito bancário resultantes da satisfação de crédito impenhorável, nos mesmos termos em que o era o crédito originariamente existente.»
 
@@ -2086,11 +2624,11 @@ f) Passam a ser de 40 dias os prazos cuja duração seja igual ou superior a 25 
 
 3 - Mantém-se em vigor, para o efeito da remissão operada pelo n.º 1 do artigo 104.º do Código de Processo Penal, o disposto no n.º 3 do artigo 144.º do Código de Processo Civil, na redacção anterior à do [Decreto-Lei n.º 329-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1995-226051).
 
-###### Artigo 10.º
+Artigo 10.º
 
 No âmbito dos processos da competência dos tribunais judiciais, consideram-se feitas para a venda mediante propostas em carta fechada as remissões feitas noutros diplomas legais para a arrematação em hasta pública.
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - Consideram-se revogadas as disposições relativas a custas que estabeleçam cominações ou preclusões de natureza processual como consequência do não pagamento nos termos do Código das Custas Judiciais de quaisquer preparos ou custas, com ressalva dos efeitos da não efectivação do preparo para despesas e do disposto no n.º 3.
 
@@ -2098,7 +2636,7 @@ No âmbito dos processos da competência dos tribunais judiciais, consideram-se 
 
 3 - No caso de falta de pagamento de preparo inicial pelo autor, requerente de procedimento cautelar ou exequente, o processo não terá andamento enquanto não forem pagos o preparo em falta e a multa a que se refere o número anterior, podendo ainda ser requerido o cancelamento do registo da acção que entretanto tenha sido efectuado.
 
-###### Artigo 16.º
+Artigo 16.º
 
 Sem prejuízo do disposto no artigo 17.º, o [Decreto-Lei n.º 329-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1995-226051), de 12 de Dezembro, com as modificações decorrentes do presente diploma, entra em vigor em 1 de Janeiro de 1997 e só se aplica aos processos iniciados após esta data, salvo o estipulado no artigo 13.º e nos artigos seguintes.»
 
@@ -2124,7 +2662,9 @@ Prazos processuais
 
 5 - É lícito às partes, nos processos pendentes, exercerem as faculdades a que aludem o n.º 2 do artigo 147.º e o n.º 4 do artigo 279.º do Código de Processo Civil, na redacção introduzida por este diploma.
 
-###### Artigo 19.º — Citações e notificações
+Artigo 19.º
+
+Citações e notificações
 
 l - Nos processos pendentes em que ainda não haja sido ordenada a citação, aplica-se o regime do acto de citação estabelecido na lei nova.
 
@@ -2132,37 +2672,51 @@ l - Nos processos pendentes em que ainda não haja sido ordenada a citação, ap
 
 3 - É aplicável às notificações em processos pendentes, cujo expediente seja remetido após a entrada em vigor do presente diploma, o disposto nos artigos 253.º a 260.º do Código de Processo Civil, na redacção por aquele introduzida.
 
-###### Artigo 20.º — Marcação de diligências e adiamentos
+Artigo 20.º
+
+Marcação de diligências e adiamentos
 
 1 - À marcação de diligências que se realize após a entrada em vigor do presente diploma é aplicável o disposto no artigo 155.º do Código de Processo Civil, na redacção por aquele introduzida.
 
 2 - É aplicável aos adiamentos em actos ou audiências que hajam sido marcados em conformidade com o preceituado no número anterior o disposto na alínea c) do n.º 1 do artigo 651.º do Código de Processo Civil, na redacção introduzida pelo presente diploma.
 
-###### Artigo 21.º — Obstáculos ao exercício do direito de acção
+Artigo 21.º
+
+Obstáculos ao exercício do direito de acção
 
 É imediatamente aplicável nas causas pendentes o disposto no artigo 280.º do Código de Processo Civil, na redacção introduzida por este diploma, bem como a revogação dos artigos 281.º, 282.º e 551.º, este na redacção anterior ao [Decreto-Lei n.º 329-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1995-226051), incumbindo à parte interessada requerer o prosseguimento da instância suspensa ou a consideração da prova documental afectada pelo incumprimento das leis fiscais.
 
-###### Artigo 22.º — Procedimentos cautelares
+Artigo 22.º
+
+Procedimentos cautelares
 
 Aos procedimentos cautelares requeridos na pendência da lei nova, ainda que como incidente de acções pendentes à data da sua entrada em vigor, é aplicável o nela estabelecido.
 
-###### Artigo 23.º — Instrução
+Artigo 23.º
+
+Instrução
 
 1 - Às provas propostas em prazo iniciado após a entrada em vigor do presente diploma, bem como a quaisquer diligências instrutórias oficiosamente ordenadas após aquela data, é aplicável o regime de direito probatório emergente da lei nova, incluindo o disposto no artigo 512.º-A, bem como o preceituado no n.º 4 do artigo 181.º e no artigo 647.º do Código de Processo Civil, na redação introduzida por este diploma.
 
 2 - O disposto no número anterior é também aplicável à prova documental apresentada em juízo após a data da entrada em vigor do presente diploma.
 
-###### Artigo 24.º — Registo das audiências
+Artigo 24.º
+
+Registo das audiências
 
 É imediatamente aplicável aos processos de natureza civil, pendentes em quaisquer tribunais na data da entrada em vigor do presente diploma, o disposto no [Decreto-Lei n.º 39/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1995-202420), de 15 de Fevereiro, no que respeita ao registo das audiências.
 
-###### Artigo 25.º — Impugnação e efeitos da sentença
+Artigo 25.º
+
+Impugnação e efeitos da sentença
 
 1 - É aplicável aos recursos interpostos de decisões proferidas nos processos pendentes após a entrada em vigor do presente diploma o regime estabelecido pelo Código de Processo Civil, na redacção dele emergente, com excepção do preceituado no artigo 725.º e no n.º 2 do artigo 754.º, bem como o disposto nos n.os 2 e 3 do artigo 669.º e no artigo 670.º
 
 2 - Às decisões proferidas após a entrada em vigor do presente diploma é ainda aplicável o disposto nos artigos 674.º-A e 674.º-B.
 
-###### Artigo 26.º — Acção executiva
+Artigo 26.º
+
+Acção executiva
 
 1 - Aos procedimentos de natureza declaratória enxertados em execuções pendentes e que devam ser deduzidos na sequência de prazos iniciados após a vigência do presente diploma são inteiramente aplicáveis as disposições da lei nova, incluindo as referentes ao respectivo processamento, segundo as disposições que regem o processo declarativo, ordinário ou sumário.
 
@@ -2170,11 +2724,15 @@ Aos procedimentos cautelares requeridos na pendência da lei nova, ainda que com
 
 3 - Nas execuções que, à data da entrada em vigor do presente diploma, se encontrem pendentes, sem que se hajam ordenado ou iniciado as diligências necessárias para a realização do pagamento, são aplicáveis as disposições da lei nova, incumbindo, porém, ao juiz optar entre a venda judicial mediante propostas em carta fechada ou a arrematação em hasta pública; neste caso, são aplicáveis as disposições, ora revogadas, sobre tal modalidade de venda.
 
-###### Artigo 27.º — Moratória forçada
+Artigo 27.º
+
+Moratória forçada
 
 É aplicável nas causas pendentes à data da entrada em vigor deste diploma a nova redacção introduzida no artigo 1696.º do Código Civil.
 
-###### Artigo 28.º — Adequação do processado, por acordo das partes
+Artigo 28.º
+
+Adequação do processado, por acordo das partes
 
 1 - Nos processos de declaração que sigam a forma ordinária ou sumária e que, à data da entrada em vigor do presente diploma, não estejam ainda conclusos para elaboração de despacho saneador, é lícito às partes, de comum acordo, requerer que, findos os articulados, se realize uma audiência preliminar, seguindo-se os ulteriores termos dos artigos 508.º e seguintes e 787.º do Código de Processo Civil, na redacção introduzida por este diploma.
 
@@ -2184,7 +2742,9 @@ Aos procedimentos cautelares requeridos na pendência da lei nova, ainda que com
 
 4 - Cumpre ao juiz, na hipótese prevista nos números anteriores, adequar o processado nos termos estabelecidos no artigo 265.º-A do Código de Processo Civil, de modo a obstar a que a imediata aplicação da lei nova possa implicar quebra da harmonia ou unidade dos vários actos ou fases do processo.
 
-###### Artigo 29.º — Renovação da instância
+Artigo 29.º
+
+Renovação da instância
 
 Nos processos a que se aplique o disposto no artigo anterior, pode a parte interessada, no prazo de 30 dias a contar do trânsito em julgado da decisão final, requerer a renovação da instância, desde que seja suprível a falta de qualquer pressuposto processual que, nos termos da lei nova, pudesse ser suprida.»
 
@@ -2496,12 +3056,12 @@ No n.º l do artigo 1493.º, onde se lê «ao portador ou vice-versa» deve ler-
 
 Visto e aprovado em Conselho de Ministros de 14 de Agosto de 1996. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 6 de Setembro de 1996.**
+Promulgado em 6 de Setembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Setembro de 1996.**
+Referendado em 11 de Setembro de 1996.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.

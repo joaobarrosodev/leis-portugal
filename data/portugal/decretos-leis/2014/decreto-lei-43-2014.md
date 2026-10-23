@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/03/05400/0207402081.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/43/2014/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2014-571937
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ea0321163d75aca941d4fd520243435169b1a49b11e22ac33d8529f881f1139
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab0eb5b6901f5985b49ac9a4dadab822b28900bffc01b37b45d8f8f60690bfd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ subjects:
 - Acesso à Educação
 - Acreditação
 - Agência Nacional para a Qualificação e o Ensino Profissional
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
+- Avaliação de Conhecimentos
 - Comissão de Acompanhamento
-- Curso de Especialização Tecnológica
 - Controlo de Qualidade
-- Plano de Estudos
+- Curso de Especialização Tecnológica
+- Curso Técnico Superior Profissional
 - Definição de Competências
 - Diploma
-- Ensino Superior Politécnico
 - Direção Geral do Ensino Superior
+- Ensino Superior Politécnico
 - Estabelecimento de Ensino
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
+- Plano de Estudos
 - Qualificação Profissional
-- Avaliação de Conhecimentos
 - Regime Jurídico
-- Curso Técnico Superior Profissional
 relationships:
 - type: amended_by
   target: pt:dre:75319452:por
@@ -128,16 +128,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/135-a/2013/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/135-a/2013/03/28/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667773:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:75319452:por
+  label: Revogado, a partir de 14.09.2016, pelo(a) Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de
+    2016-09-13 nos termos do seu art. 7.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-2016-75319452
+  date: '2016-09-13'
 article_structure:
   article_count: 44
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:18Z'
   warnings: []
   errors: []
 ---
@@ -684,12 +738,12 @@ O presente decreto-lei entra em vigor no primeiro dia útil subsequente à sua p
 
 Visto e aprovado em Conselho de Ministros de 6 de fevereiro de 2014. - Pedro Passos Coelho - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 11 de março de 2014.**
+Promulgado em 11 de março de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de março de 2014.**
+Referendado em 13 de março de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

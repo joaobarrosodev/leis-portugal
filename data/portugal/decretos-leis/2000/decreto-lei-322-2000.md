@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/291a00/73687374.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/322/2000/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-2000-656159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ef34897c62d22c2b4cc64c3f1daa0ab02f82de31e2666234d28e71d575e6d31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8ed2fc77888ab3bccb1df4db1245393bde70207655763c4387b56c03033b3c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Transporte Marítimo
-- Multa
 - Conselheiro de Segurança
 - Contra-ordenação
-- Transporte Ferroviário
-- Segurança Pública
 - Fiscalização
+- Multa
 - Regime Jurídico
+- Segurança Pública
 - Transporte de Mercadorias Perigosas
+- Transporte Ferroviário
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:300828:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:541785:por
+  label: "Alterados os arts.2º, 3º, 4º, 5º, 6º, 11º, 12º, 13º e 15º, bem como os anexos II, III, V e VI e revogado o nº 4\
+    \ do anexo III, todos do presente diploma que é republicado em anexo pelo DEC LEI.189/2006.22.09.2006.MOPTC, DR.IS [184]\
+    \ de 22.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-2006-541785
+  date: '2006-09-22'
 - type: cites
   target: celex:31994L0055
   label: null
@@ -113,16 +120,22 @@ relationships:
   target: celex:32000L0018
   label: null
   source: http://data.europa.eu/eli/dir/2000/18/oj
+- type: repealed_by
+  target: pt:dre:300828:por
+  label: "Revogado o presente diploma, a partir de 04.05.2010, alterado e republicado pelo Dec Lei 189/2006, de 22-Set, pelo\
+    \ DEC LEI.41-A/2010.29.04.2010.MOPTC, DR.IS [83-Supl] de 29.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-a-2010-300828
+  date: '2010-04-29'
 article_structure:
   article_count: 18
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:38Z'
   warnings: []
   errors: []
 ---
@@ -323,15 +336,15 @@ c) Portaria n.º 504/85, de 24 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 9 de Novembro de 2000. - Jorge Paulo Sacadura Almeida Coelho. - Jorge Paulo Sacadura Almeida Coelho - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura.
 
-**Promulgado em 27 de Novembro de 2000.**
+Promulgado em 27 de Novembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Dezembro de 2000.**
+Referendado em 6 de Dezembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Lista das matérias a que se referem os n.os 2 e 5 do artigo 5.º
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/196/2002/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2002-647503
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90ed1de85877b573189a5bd1a16a9899f4d3bb19946e553d2783c9d9dbef171e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 019bb3fbc3732070e0d7b8e160192e998f04ec85c7323f2e4275e6ad7d6efe91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Reforma do Estado e da Administração Pública
-- Extinção de Serviços
-- Secretaria Geral
-- Integração de Trabalhadores
 - Auditoria Jurídica
+- Extinção de Serviços
+- Integração de Trabalhadores
+- Ministério da Reforma do Estado e da Administração Pública
 - Ministério do Planeamento
 - Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/2002/05/03/p/dre
@@ -98,16 +98,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
+- type: cites
+  target: pt:dre:321283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681593:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:43Z'
   warnings: []
   errors: []
 ---
@@ -174,12 +198,12 @@ c) O [Decreto-Lei n.º 274/2001](https://diariodarepublica.pt/dr/detalhe/decreto
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 5 de Setembro de 2002.**
+Promulgado em 5 de Setembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Setembro de 2002.**
+Referendado em 13 de Setembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/504/1999/11/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-1999-643283
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:14:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b13ed35935215a37aed8504fae1d70458a269b2d4763ea90262018619df2814
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eaf3306250b50fee41fab8dd42f6129de47e19e1b98b8253c439769caad6edb9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:14:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,63 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Subsídio de Alimentação
 - Ajudas de Custo
-- Sistema Retributivo
 - Carreira Profissional
-- Remuneração Acessória
-- GNR
+- Fardamento
 - Forças Armadas
+- GNR
 - Política Salarial
 - Prestações Familiares
 - Promoção Profissional
 - Reforma
 - Remuneração
+- Remuneração Acessória
 - Reserva
-- Fardamento
+- Sistema Retributivo
+- Subsídio de Alimentação
 relationships:
 - type: amended_by
   target: pt:dre:491436:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:339393:por
+  label: "Alterados os arts. 12º, 13º e 18º pelo DEC LEI.174/2000.2000.08.09.MAI, DR.IS-A [183]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-2000-339393
+  date: '2000-08-09'
+- type: amended_by
+  target: pt:dre:276036:por
+  label: "Alterado o nº 1 do art. 12º, com a redacção introduzida pelo Dec Lei 174/2000 de 09-Ago, pelo DEC LEI.15/2002.2002.01.29.MAI\
+    \ DR.IS-A [24]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2002-276036
+  date: '2002-01-29'
+- type: amended_by
+  target: pt:dre:532273:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma constante da al. c) n.º 1 do art. 266.º\
+    \ do Estatuto dos Militares da Guarda Nacional Republicana aprovado pelo Dec Lei 265/93, de 31-Jul DR.IS-A [178], alterado\
+    \ pelo presente diploma, conjugada com a norma constante da al. c) do n.º 1 do art. 4.º da Lei 145/99, de 01-Set, pelo\
+    \ AC.562/2003.18.11.2003.TCS, DR.IS-A [62] de 13.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/562-2003-532273
+  date: '2003-11-18'
+- type: amended_by
+  target: pt:dre:270807:por
+  label: "Alterado o art. 10.º do Dec Lei 265/93 de 31-Jul, na redacção do presente diploma, pelo Dec Lei 119/2004 de 21-Mai,DR.IS-A\
+    \ [119] de 21.05.2004 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2004-270807
+  date: '2004-05-21'
+- type: amended_by
+  target: pt:dre:245295:por
+  label: "Determinada a não contagem do tempo de serviço para efeitos de progressão nas carreiras e o congelamento do montante\
+    \ de todos os suplementos remuneratórios de todos os funcionários, agentes e demais servidores do Estado até 31 de Dezembro\
+    \ de 2006, pela LEI.43/2005.29.08.2005.AR, DR.IS-A [165] de 29.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/43-2005-245295
+  date: '2005-08-29'
+- type: amended_by
+  target: pt:dre:584865:por
+  label: "Alterado o art. 12º do presente diploma, na redacção dos Dec Lei 174/2000 de 09-Ago e 15/2002 de 29-Jan, pelo DEC\
+    \ LEI.181/2005.03.11.2005.MAI, DR.IS-A [211] de 03.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-2005-584865
+  date: '2005-11-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/261/1992/11/24/p/dre
   label: null
@@ -100,16 +138,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/85/1991/02/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/85/1991/02/23/p/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674064:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:150713:por
+  label: "Revogada, a partir de 01.01.2006, a al. d) do nº 2 do art. 15º pelo DEC LEI.159/2005.20.09.2005.MAI, DR.IS-A [181]\
+    \ de 20.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2005-150713
+  date: '2005-09-20'
+- type: repealed_by
+  target: pt:dre:491436:por
+  label: "Revogado, com excepção do disposto nos arts. 12º, 13º e 14º, com efeitos a 01.01.2010, pelo DEC LEI.298/2009.14.10.2009.MAI,\
+    \ DR.IS [199] de 14.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-2009-491436
+  date: '2009-10-14'
+- type: repealed_by
+  target: pt:dre:491440:por
+  label: "Revogado parcialmente, a partir de 01.10.2010, o Dec Lei 265/93 de 31-Jul, com as alterações constantes do presente\
+    \ diploma, pelo DEC LEI.297/2009.14.10.2009.MAI, DR.IS [199] de 14.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/297-2009-491440
+  date: '2009-10-14'
 article_structure:
   article_count: 25
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:14:08Z'
   warnings: []
   errors: []
 ---
@@ -400,48 +484,48 @@ São revogados o [Decreto-Lei n.º 59/90](https://diariodarepublica.pt/dr/detalh
 
 Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 8 de Novembro de 1999.**
+Promulgado em 8 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Novembro de 1999.**
+Referendado em 11 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — MAPA A
 
 Mapa a que se refere o n.º 1 do artigo 11.º
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)
+[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)
 
 MAPA B
 
 Mapa a que se refere o n.º 1 do artigo 11.º
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)
+[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)
 
 MAPA C
 
 Mapa a que se refere o n.º 1 do artigo 11.º
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)
+[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)
 
 ## ANEXO II — MAPA A
 
 Mapa a que se refere o n.º 4 do artigo 11.º
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)
+[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)
 
 MAPA B
 
 Mapa a que se refere o n.º 4 do artigo 11.º
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)
+[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)
 
 MAPA C
 
 Mapa a que se refere o n.º 4 do artigo 11.º
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)
+[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)

@@ -47,36 +47,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/849-1982-374239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T07:26:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a708a558cc80b8f3a719729b5caabbeba3f5ace59362e53f8fd973fa15aa40e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f88cce4992303cf505811edf1401199533217abad3d0472eb860949aac120647
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:26:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Interministerial do Café
+- Direcção Geral de Economia
+- Gabinete de Planeamento e Integração Económica
+- Gabinete do Plano e Desenvolvimento da Região do Zambeze
+- Inspecção Geral de Minas
+- Ministério dos Negócios Estrangeiros
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:142329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691262:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:26:29Z'
   warnings: []
   errors: []
 ---
@@ -111,4 +166,4 @@ Ministérios das Finanças e do Plano, dos Negócios Estrangeiros e da Reforma A
 
 Do QUADRO I ao QUADRO V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/20700/26532654.pdf))](https://files.diariodarepublica.pt/1s/1982/09/20700/26532654.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/20700/26532654.pdf)

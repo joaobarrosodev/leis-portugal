@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/08/18900/16711672.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/187-1978-299796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:43:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b87994624c63f7df67d307c104a87f7dd9af315bc30221a808e92506cb425614
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2637394d6f2cff0baa98bef5c75c676c813f4fdcc942a2a88b9c88d569e68c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:43:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa Geral de Aposentações
+- Caixa Geral de Depósitos
+- Cálculo de Pensões
+- Funcionário Público
+- GNR
+- Guarda Fiscal
+- Pensão de Aposentação
+- Pensão de Reforma
+- Prazo
+- PSP
 relationships:
 - type: amended_by
   target: pt:dre:682067:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692609:por
+  label: Alterado o n.º 1 pelo(a) Despacho Normativo n.º 27/80 - Diário da República n.º 27/1980, Série I de 1980-02-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/27-1980-692609
+  date: '1980-02-01'
+- type: cites
+  target: pt:dre:407080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:682067:por
+  label: Revogado pelo(a) Decreto-Lei n.º 62/80 - Diário da República n.º 81/1980, Série I de 1980-04-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-1980-682067
+  date: '1980-04-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:43:30Z'
   warnings: []
   errors: []
 ---

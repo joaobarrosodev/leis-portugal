@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/01/00500/0023700242.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/6/2015/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2015-66108237
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd4f94a988238f8f48097d82b96a22a029b81e692d33ea1806d680d4fa9f6493
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa671c45b2057f53ca7d4e61deb5222319f35b58282578da778fd5a207d86803
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,48 +66,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Programa de Desenvolvimento Rural
-- Empreendedorismo
+- Apoio ao Investimento
 - Aquisição de Bens e Serviços
-- Financiamento
-- Interconexão de Dados
-- Recolha de Dados
-- Empresa
-- Formação Profissional
-- Desenvolvimento Rural
-- Gestão Financeira
+- Auxílio de Minimis
+- Base de Dados
+- CIC Portugal 2020
+- Comércio
 - Comissão Interministerial
 - Comissão Técnica
-- Criação de Serviços
-- Desenvolvimento
-- Direção Geral das Atividades Económicas
 - Competitividade Empresarial
+- Criação de Emprego
+- Criação de Serviços
+- Cultura
+- Desenvolvimento
+- Desenvolvimento Rural
+- Direção Geral das Atividades Económicas
+- Empreendedorismo
+- Empresa
+- Energia
 - Feader
-- União Europeia
 - FEDER
-- Auxílio de Minimis
+- Financiamento
+- Formação Profissional
+- FSE
 - Fundo de Coesão
-- Apoio ao Investimento
-- Projeto de Investimento
 - Fundos CE
+- Gestão Financeira
 - Incentivos ao Desenvolvimento
-- Base de Dados
+- Interconexão de Dados
 - Investigação
 - Investimento
-- FSE
 - Material Audiovisual
-- Criação de Emprego
-- Sistema de Informação
-- Energia
-- Produção
-- Cultura
-- Programa Operacional
-- Protecção do Património
-- Reembolso
 - Pequenas e Médias Empresas
-- Comércio
 - PORTUGAL 2020
-- CIC Portugal 2020
+- Produção
+- Programa de Desenvolvimento Rural
+- Programa Operacional
+- Projeto de Investimento
+- Protecção do Património
+- Recolha de Dados
+- Reembolso
+- Sistema de Informação
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:229915933:por
@@ -181,16 +181,60 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:164421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58228088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66012653:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:57Z'
   warnings: []
   errors: []
 ---
@@ -513,12 +557,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de novembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Berta Maria Correia de Almeida de Melo Cabral - Paula Maria von Hafe Teixeira da Cruz - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Agostinho Correia Branquinho.
 
-**Promulgado em 5 de janeiro de 2015.**
+Promulgado em 5 de janeiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de janeiro de 2015.**
+Referendado em 6 de janeiro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

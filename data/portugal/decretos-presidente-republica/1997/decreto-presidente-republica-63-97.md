@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/214a00/49584958.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/63/1997/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/63-1997-649168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T04:25:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ecc4ea03a06718caa6980fc5ef47ef1c673e260ec2933be406e15942e9f4092
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 080bb4f42970ddee8022e8e5c67b489fd8b84067241abadbc5c17bdf4e94a80d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:25:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Brasil
 - Brasília
 - Embaixador
 - Nomeação
-- Brasil
 relationships:
 - type: amended_by
   target: pt:dre:187967:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:187967:por
+  label: "Exonerado pelo DEC.34-C/2001.2001.07.03.PR DR.IS-A [152]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/34-c-2001-187967
+  date: '2001-07-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:25:00Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +97,16 @@ validation:
 
 de 16 de Setembro
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o embaixador Francisco José Laço Treichler Knopfli para o cargo de embaixador de Portugal em Brasília.
 
-**Assinado em 1 de Agosto de 1997.**
+Assinado em 1 de Agosto de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Setembro de 1997.**
+Referendado em 4 de Setembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.

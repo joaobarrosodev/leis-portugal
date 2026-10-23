@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/06600/0001100019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/28/2024/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c8f01e3212438bb791292112811044f33c6b44901e3ff1116243ef77c7fec18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 962e23f7c2e7079933953cbf00880206417b15293fef1fa3c2ed9a14321dcb57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,50 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Advogado
-- Sociedade Comercial
+- Assinatura Digital
 - Certificação Electrónica
 - Código do Registo Comercial
 - Comunicações Eletrónicas
-- Instituto dos Registos e do Notariado
 - Criação de Empresas
-- Emolumento
-- Marca Registada
 - Documento Eletrónico
+- Emolumento
+- Instituto dos Registos e do Notariado
+- Marca Registada
 - Notificação
 - Página na Internet
 - Prazo
-- Assinatura Digital
-- Regulamento Emolumentar dos Registos e Notariado
-- Solicitador
 - Registo Comercial
+- Regulamento Emolumentar dos Registos e Notariado
+- Sociedade Comercial
+- Solicitador
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:322-A/2001
+  label: Altera, a partir de 4 de abril de 2024, com efeitos a 31 de março de 2024, o artigo 27.º do Regulamento Emolumentar
+    dos Registos e Notariado, aprovado em anexo ao Decreto-Lei n.º 322-A/2001, de 14 de dezembro, Diário da República n.º
+    288/2001, 1º Suplemento, Série I-A
+  source: null
+  date: '2001-12-14'
+- type: amends
+  target: pt:numero:decreto-lei:125/2006
+  label: Altera, a partir de 4 de abril de 2024, com efeitos a 31 de março de 2024, os artigos 5.º, 7.º, 11.º, 12.º e 17.º
+    e revoga o n.º 4 do artigo 5.º, os artigos 6.º, 8.º e 10.º, os n.ºs 1 e 6 do artigo 11.º e os n.ºs 1, 2 e 3 do artigo
+    12.º do Decreto-Lei n.º 125/2006, de 29 de junho, Diário da República n.º 124/2006, Série I-A
+  source: null
+  date: '2006-06-29'
+- type: amends
+  target: pt:numero:decreto-lei:24/2019
+  label: Altera, a partir de 4 de abril de 2024, com efeitos a 31 de março de 2024, o artigo 6.º do Decreto-Lei n.º 24/2019,
+    de 1 de fevereiro, Diário da República n.º 23/2019, Série I
+  source: null
+  date: '2019-02-01'
+- type: amends
+  target: pt:numero:decreto-lei:109-D/2021
+  label: Altera, a partir de 4 de abril de 2024, com efeitos a 31 de março de 2024, os artigos 2.º, 3.º, 5.º e 7.º e revoga
+    os n.ºs 2, 3 e 4 do artigo 3.º, o artigo 4.º e os n.ºs 3 e 4 do artigo 5.º do Decreto-Lei n.º 109-D/2021, de 9 de dezembro,
+    Diário da República n.º 237/2021, 1º Suplemento, Série I
+  source: null
+  date: '2021-12-09'
 - type: cites
   target: celex:32012L0017
   label: null
@@ -131,6 +158,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/42/2015/06/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/42/2015/06/19/p/dre
+- type: cites
+  target: pt:dre:118950630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175659839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225283592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225283593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67540636:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32012L0017
   label: null
@@ -146,13 +209,13 @@ relationships:
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:04Z'
   warnings: []
   errors: []
 ---
@@ -199,7 +262,7 @@ b) À alteração ao Regulamento Emolumentar dos Registos e Notariado, aprovado 
 
 c) À alteração ao [Decreto-Lei n.º 125/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), de 29 de junho, na sua redação atual, que cria a "Empresa Online";
 
-d) À quarta alteração ao [Decreto-Lei n.º 24/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2019-118950630), de 1 de fevereiro, alterado pelos Decretos-Leis n.<sup>os</sup>[109-D/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), de 9 de dezembro, [114-C/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-c-2023-225283592), de 5 de dezembro, e [114-D/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-d-2023-225283593), de 5 de dezembro, que estabelece as regras aplicáveis à comunicação eletrónica entre o registo comercial nacional e os registos de outros Estados-Membros da União Europeia, transpondo a [Diretiva 2012/17/UE](https://data.europa.eu/eli/dir/2012/17/oj?locale=pt);
+d) À quarta alteração ao [Decreto-Lei n.º 24/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2019-118950630), de 1 de fevereiro, alterado pelos Decretos-Leis n.os[109-D/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), de 9 de dezembro, [114-C/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-c-2023-225283592), de 5 de dezembro, e [114-D/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-d-2023-225283593), de 5 de dezembro, que estabelece as regras aplicáveis à comunicação eletrónica entre o registo comercial nacional e os registos de outros Estados-Membros da União Europeia, transpondo a [Diretiva 2012/17/UE](https://data.europa.eu/eli/dir/2012/17/oj?locale=pt);
 
 e) À primeira alteração ao [Decreto-Lei n.º 109-D/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), de 9 de dezembro, que cria um registo online de representações permanentes de sociedades com sede no estrangeiro.
 
@@ -267,7 +330,7 @@ O artigo 27.º do Regulamento Emolumentar dos Registos e do Notariado, aprovado 
 
 3.7 - [...]
 
-3.8 - Os emolumentos previstos nos n.<sup>os</sup>3.6 e 3.7 têm um valor único e incluem o custo da aprovação eletrónica e automática da firma, nos termos do artigo 50.º-A do [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), de 13 de maio, bem como a publicação obrigatória do registo.
+3.8 - Os emolumentos previstos nos n.os3.6 e 3.7 têm um valor único e incluem o custo da aprovação eletrónica e automática da firma, nos termos do artigo 50.º-A do [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), de 13 de maio, bem como a publicação obrigatória do registo.
 
 4 - [...]
 
@@ -323,7 +386,7 @@ c) A utilização de meios de identificação eletrónica emitidos noutros Estad
 
 ###### Artigo 7.º — [...]
 
-1 - Sem prejuízo do disposto nos n.<sup>os</sup>5 e 6, os advogados, os solicitadores e os notários que se autentiquem através de meios de autenticação eletrónica segura, previstos na alínea b) do n.º 9 do artigo 5.º, podem:
+1 - Sem prejuízo do disposto nos n.os5 e 6, os advogados, os solicitadores e os notários que se autentiquem através de meios de autenticação eletrónica segura, previstos na alínea b) do n.º 9 do artigo 5.º, podem:
 
 a) Desencadear as notificações eletrónicas a que se refere o n.º 3 do artigo 5.º para os efeitos aí previstos; ou
 
@@ -463,9 +526,9 @@ d) Estado civil.
 
 São revogados:
 
-a) O n.º 4 do artigo 5.º, os artigos 6.º, 8.º e 10.º, os n.<sup>os</sup>1 e 6 do artigo 11.º e os n.<sup>os</sup>1, 2 e 3 do artigo 12.º do [Decreto-Lei n.º 125/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), de 29 de junho, na sua redação atual;
+a) O n.º 4 do artigo 5.º, os artigos 6.º, 8.º e 10.º, os n.os1 e 6 do artigo 11.º e os n.os1, 2 e 3 do artigo 12.º do [Decreto-Lei n.º 125/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), de 29 de junho, na sua redação atual;
 
-b) Os n.<sup>os</sup>2 a 4 do artigo 3.º, o artigo 4.º e os n.<sup>os</sup>3 e 4 do artigo 5.º do [Decreto-Lei n.º 109-D/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), de 9 de dezembro.
+b) Os n.os2 a 4 do artigo 3.º, o artigo 4.º e os n.os3 e 4 do artigo 5.º do [Decreto-Lei n.º 109-D/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), de 9 de dezembro.
 
 ###### Artigo 10.º — Entrada em vigor e produção de efeitos
 
@@ -473,12 +536,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 21 de março de 2024. - Mariana Guimarães Vieira da Silva - Catarina Teresa Rola Sarmento e Castro.
 
-**Promulgado em 25 de março de 2024.**
+Promulgado em 25 de março de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de março de 2024.**
+Referendado em 27 de março de 2024.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+117542813

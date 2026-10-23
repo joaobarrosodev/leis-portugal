@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/12/286a00/70007005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/228/2004/12/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2004-213810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd6d6d47272a6b8aab691449d15fbc4274d0c4f5c385295a46be54f3a98c8df1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7686be14a1b184bf51f40c8b64e2dcdc6e325c9305aa1b79d62621c9e459b404
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,41 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ICEP
-- Instituto de Formação Turística
-- Pessoal Dirigente
+- Comissão Nacional de Gastronomia
+- Conselho para a Dinamização do Turismo
 - Definição de Competências
 - Direcção Geral do Turismo
 - Enatur
-- Região de Turismo
-- Secretaria Geral
-- Comissão Nacional de Gastronomia
 - Gestão Orçamental
-- Ministro do Turismo
+- ICEP
 - Inspecção Geral de Jogos
+- Instituto de Formação Turística
 - Instituto de Turismo de Portugal
-- Conselho para a Dinamização do Turismo
-- Orgânica
-- Quadro de Pessoal
 - Ministério do Turismo
+- Ministro do Turismo
+- Orgânica
+- Pessoal Dirigente
+- Prime
+- Quadro de Pessoal
+- Região de Turismo
+- Região de Turismo da ROTA da LUZ
+- Região de Turismo da Serra da Estrela
 - Região de Turismo da Serra do Marão
 - Região de Turismo de Dão-lafões
 - Região de Turismo de Évora
+- Região de Turismo de Leiria-rota do SOL
+- Região de Turismo de são Mamede
 - Região de Turismo de Setúbal
+- Região de Turismo do Algarve
 - Região de Turismo do ALTO Minho
+- Região de Turismo do ALTO Tâmega
 - Região de Turismo do Centro
 - Região de Turismo do Douro SUL
 - Região de Turismo do Nordeste Transmontano
 - Região de Turismo do Oeste
-- Região de Turismo do Verde Minho
-- Região de Turismo da ROTA da LUZ
-- Região de Turismo da Serra da Estrela
-- Região de Turismo de Leiria-rota do SOL
-- Região de Turismo de são Mamede
-- Região de Turismo do Algarve
-- Região de Turismo do ALTO Tâmega
 - Região de Turismo do Ribatejo
-- Prime
+- Região de Turismo do Verde Minho
+- Secretaria Geral
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
@@ -107,6 +107,22 @@ relationships:
   target: pt:dre:545649:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:588833:por
+  label: "Determinada a transição para a SG do Ministério do Turismo dos bens, direitos e obrigações, incluindo as posições\
+    \ contratuais inerentes às aquisições de bens e serviços e aos fornecimentos de serviços externos inerentes à transferência\
+    \ de atribuições da SG do extinto Ministério da Economia (estabelecida no n.º 1 do art. 19.º do presente diploma), cuja\
+    \ orgânica foi aprovada pelo Dec Lei 187/2003, de 20-Ago, pelo DR.1/2005.08.03.2005.MTUR, DR.IS-B [47] de 08.03.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/1-2005-588833
+  date: '2005-03-08'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinado que os serviços, organismos e entidades compreendidos, no agora extinto Ministério, cuja orgânica foi\
+    \ aprovada no presente diploma, transitem para o Ministério da Economia e da Inovação, pelo DEC LEI.79/2005.15.04.2005.PCM,\
+    \ DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/100/1999/03/31/p/dre
   label: null
@@ -131,16 +147,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/169/2001/12/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/169/2001/12/19/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654681:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:545649:por
+  label: "Revogado o presente diploma e determinada: - a extinção, sem qualquer transferência de atribuições, do Conselho\
+    \ Geral para a Dinamização Empresarial e do Conselho para a Dinamização do Turismo (nos termos das als. a) e b) do n.º\
+    \ 2 do art. 27.º) e da Comissão Nacional de Gastronomia (nos termos da al. c) do n.º 2 do art. 27.º); - a extinção, sendo\
+    \ objecto de fusão, da Secretaria-Geral do Ministério do Turismo, sendo nas suas atribuições integradas nos termos da\
+    \ al. a) do n.º 3 do art. 27.º, do Instituto de Formação Turística, sendo as suas atribuições integradas nos termos da\
+    \ al. c) do n.º 3 do art. 27.º, da Direcção-Geral do Turismo, sendo as suas atribuições integradas nos termos da al. d)\
+    \ do n.º 3 do art. 27.º, e da Inspecção-Geral dos (de) Jogos, sendo as suas atribuições integradas nos termos da al. e)\
+    \ do n.º 3 do art. 27.º; - a saída da administração central do Estado (externalização) das Regiões de Turismo, deixando\
+    \ de integrar o MEI, nos termos da al. b) do art. 29.º, pelo DEC LEI.208/2006.27.10.2006.MEI, DR.IS [208] de 27.10.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2006-545649
+  date: '2006-10-27'
 article_structure:
   article_count: 28
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:43Z'
   warnings: []
   errors: []
 ---
@@ -259,7 +313,7 @@ c) Regiões de turismo.
 
 ###### Artigo 6.º — Superintendência conjunta
 
-**O Ministro do Turismo participa na definição das linhas de orientação e dos domínios prioritários da actuação do ICEP - Portugal, em articulação com os Ministros de Estado, das Actividades Económicas e do Trabalho e dos Negócios Estrangeiros e das Comunidades Portuguesas.**
+O Ministro do Turismo participa na definição das linhas de orientação e dos domínios prioritários da actuação do ICEP - Portugal, em articulação com os Ministros de Estado, das Actividades Económicas e do Trabalho e dos Negócios Estrangeiros e das Comunidades Portuguesas.
 
 ###### Artigo 7.º — Órgão consultivo
 
@@ -407,15 +461,15 @@ O MT integra no seu âmbito a Comissão Nacional de Gastronomia, criada pela [Re
 
 Visto e aprovado em Conselho de Ministros de 7 de Outubro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - António José de Castro Bagão Félix - António Victor Martins Monteiro - Telmo Augusto Gomes de Noronha Correia.
 
-**Promulgado em 22 de Novembro de 2004.**
+Promulgado em 22 de Novembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Novembro de 2004.**
+Referendado em 25 de Novembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO — (mapa a que se refere o artigo 20.º)
 

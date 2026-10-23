@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/304/2002/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-2002-406551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:35:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 006887aa6b88dee77ac3ac9bf494eb6502d747cd12fcc7c699c793860652488b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 231ad6391173bb2e5f7017a9b6dcb8271cb704a9f66bd8bd631c57b7dd20019d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:35:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,21 @@ reuse:
 subjects:
 - Definição de Competências
 - Diretor Nacional
+- Investigação Criminal
 - Orgânica
 - Polícia Judiciária
-- Investigação Criminal
 - Prevenção Criminal
 relationships:
 - type: amended_by
   target: pt:dre:455412:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:215078:por
+  label: "Altera o art. 38º do Dec Lei 275-A/2000 de 09-Nov, com a redacção deste diploma, pelo DEC LEI.43/2003.2003.03.13.MJ\
+    \ DR.IS-A [61]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-2003-215078
+  date: '2003-03-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/275-a/2000/11/09/p/dre
   label: null
@@ -104,16 +110,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/15/2001/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/15/2001/06/05/p/dre
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659959:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:455412:por
+  label: "Revogados, a partir de 05.09.2008, os art.s 4º, 5º, 25º, 28º, 33º-A e 37º-A do Dec Lei 275-A/2000, de 09-Nov, na\
+    \ redacção do presente diploma, pela LEI.37/2008.06.08.2008.AR, DR.IS [151] de 06.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2008-455412
+  date: '2008-08-06'
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:35:08Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +214,9 @@ Competência em matéria de prevenção criminal
 
 9 - ...
 
-###### Artigo 5.º — Competência em matéria de investigação criminal
+Artigo 5.º
+
+Competência em matéria de investigação criminal
 
 1 - ...
 
@@ -256,7 +298,9 @@ c) Falsidade de testemunho, perícia, interpretação ou tradução, conexos com
 
 5 - Na investigação dos crimes a que se refere a alínea ee) do n.º 2, a Polícia Judiciária será assistida por um funcionário designado pela administração tributária, em função do tipo de crime em causa, nomeadamente para efeito do cumprimento do disposto no n.º 4 do artigo 42.º da [Lei n.º 15/2001](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), de 5 de Junho.
 
-###### Artigo 25.º — Composição
+Artigo 25.º
+
+Composição
 
 1 - ...
 
@@ -304,7 +348,9 @@ a) O Conselho Superior de Polícia Judiciária;
 
 b) O Conselho de Coordenação Operacional.
 
-###### Artigo 38.º — Direcção e composição
+Artigo 38.º
+
+Direcção e composição
 
 1 - ...
 
@@ -326,7 +372,9 @@ Unidade de Informação Financeira
 
 3 - Podem integrar a Unidade de Informação Financeira, em regime a definir pelos Ministros das Finanças, da Economia e da Justiça, funcionários das autoridades de supervisão ou de outros serviços e estruturas governamentais sob sua tutela.
 
-###### Artigo 37.º-A — Departamento Central de Prevenção e Apoio Tecnológico
+Artigo 37.º-A
+
+Departamento Central de Prevenção e Apoio Tecnológico
 
 1 - Ao Departamento Central de Prevenção e Apoio Tecnológico compete:
 
@@ -344,12 +392,12 @@ Ao quadro único de pessoal da Polícia judiciária, a que se refere o n.º 1 do
 
 Visto e aprovado em Conselho de Ministros de 19 de Setembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - António José de Castro Bagão Félix.
 
-**Promulgado em 22 de Novembro de 2002.**
+Promulgado em 22 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Dezembro de 2002.**
+Referendado em 2 de Dezembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

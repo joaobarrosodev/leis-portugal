@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/70/1999/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1999-145239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:15:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23e7808983f4fec98552ab83eb3fdbc5a29ab031e54387de2a76fce58aec0015
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4f2949e23f3df3c708ec97062ead69624c7f71ac4107dd9e3c8705b15a9bf03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:15:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
-- Ministério da Educação
+- Carreira Profissional
+- Conselho de Inspecção
 - Definição de Competências
 - Ensino no Estrangeiro
-- Carreira Profissional
 - Formas de Provimento
 - Gestão Escolar
-- Recrutamento de Pessoal
 - Inspecção Geral de Educação
-- Conselho de Inspecção
 - Inspetor Geral
+- Ministério da Educação
 - Orgânica
 - Pessoal de Inspecção
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
+- Reestruturação de Serviços
 - Subinspector Geral
 relationships:
 - type: amended_by
   target: pt:dre:667551:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667551:por
+  label: "Extinto o nucleo de Inspeção no Ensino Superior e revogadas todas as disposições relativas a competências em matéria\
+    \ de ensino superior constantes da Lei Organica da IGE aprovada pelo Dec Lei 271/95 de 23-Out, alterada pelo presente\
+    \ diploma, pelo DEC LEI.149/2003.2003.07.11.MCES, DR.IS-A [158]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-2003-667551
+  date: '2003-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/233/1997/09/03/p/dre
   label: null
@@ -107,16 +114,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/18/1996/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/18/1996/06/20/p/dre
+- type: cites
+  target: pt:dre:400400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668484:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:15:54Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +186,9 @@ c) ...
 
 d) Representar o Ministério nas estruturas de gestão e inspecção das escolas europeias e das escolas portuguesas no estrangeiro.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -167,7 +196,9 @@ d) Representar o Ministério nas estruturas de gestão e inspecção das escolas
 
 3 - Por decisão do inspector-geral, podem tomar parte nas reuniões do CI outros funcionários ou especialistas cuja actividade se relacione com as matérias a tratar.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -191,7 +222,9 @@ i) ...
 
 2 - Os núcleos referidos no número anterior são dirigidos por coordenadores, equiparados, para todos os efeitos legais, a director de serviços.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -213,7 +246,9 @@ h) ...
 
 2 - Os núcleos referidos no número anterior são dirigidos por coordenadores, equiparados, para todos os efeitos legais, a director de serviços.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -235,7 +270,9 @@ h) ...
 
 2 - O Gabinete de Apoio Jurídico é dirigido por um chefe de divisão.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -243,7 +280,9 @@ h) ...
 
 3 - O Gabinete de Apoio Geral é dirigido por um chefe de divisão.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -259,7 +298,9 @@ e) ...
 
 2 - O Gabinete de Planeamento, Documentação e Formação é dirigido por um chefe de divisão.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -271,7 +312,9 @@ b) ...
 
 3 - As divisões referidas na alínea a) do n.º 1 são dirigidas por chefes de divisão.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -287,12 +330,12 @@ b) ...
 
 Visto e aprovado em Conselho de Ministros de 8 de Janeiro de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jorge Paulo Sacadura Almeida Coelho - Eduardo Carrega Marçal Grilo.
 
-**Promulgado em 18 de Fevereiro de 1999.**
+Promulgado em 18 de Fevereiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Março de 1999.**
+Referendado em 4 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

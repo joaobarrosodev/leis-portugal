@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 11/1970, 1º Suplemento, Série I de 1970-01-14
   number: '11'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 53-(58) a 53-(64)
   pdf_url: https://files.diariodarepublica.pt/1s/1970/01/01101/00580064.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/34-1970-210055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15c26e0d90c821c781ec21513a500ac3148d3fb1e88e927d814dd5e9fe77e43e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a1df692b52d40fc5b900f3bd8d2b7046e6e0348a3ed73c9ca4b966248094f78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola de Enfermagem
+- Escola de Enfermagem de Artur Ravara
+- Hospital de Santa Maria
+- Hospital de São João
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:479387:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:407108:por
+  label: "Mantida em vigor pela PORT.674/76.13.11.1976.MAS, DR.IS [266] de 13.11.1976, excepto na matéria que contraria as\
+    \ normas do Regulamento aprovado no referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/674-1976-407108
+  date: '1976-11-13'
+- type: cites
+  target: pt:dre:291954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668920:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479387:por
+  label: "Revogada com efeitos a partir da nomeação do director da escola a que se refere o DEC LEI.205/95.1995.08.08.MS,\
+    \ DR.IS-A [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-1995-479387
+  date: '1995-08-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:45Z'
   warnings: []
   errors: []
 ---
@@ -154,13 +191,13 @@ REGULAMENTO GERAL DAS ESCOLAS DE ENFERMAGEM
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1. As escolas de enfermagem a que se aplica este Regulamento dependem do Ministério da Saúde e Assistência, através da Direcção-Geral dos Hospitais.
+Artigo 1.º - 1. As escolas de enfermagem a que se aplica este Regulamento dependem do Ministério da Saúde e Assistência, através da Direcção-Geral dos Hospitais.
 
 2. As escolas regem-se pelo que estiver disposto na legislação sobre escolas de enfermagem e no presente Regulamento.
 
 3. A Direcção-Geral dos Hospitais emitirá as instruções complementares necessárias ao funcionamento das escolas dentro da competência própria e da que lhe for delegada.
 
-###### Art. 2.º - 1. As escolas de enfermagem têm como objectivos:
+Art. 2.º - 1. As escolas de enfermagem têm como objectivos:
 
 1.º O ensino de enfermagem, nos seus diversos ramos, com vista a formar profissionais competentes e responsáveis;
 
@@ -170,13 +207,13 @@ REGULAMENTO GERAL DAS ESCOLAS DE ENFERMAGEM
 
 2. As escolas estão ao serviço de todo o País, no campo da saúde e assistência, e, mediante autorização superior, podem colaborar com as suas congéneres nacionais e estrangeiras, nos termos que forem estabelecidos.
 
-###### Art. 3.º - 1. As escolas podem utilizar para o ensino todos os serviços dependentes do Ministério da Saúde e Assistência e podem utilizar serviços de outros Ministérios, mediante autorização prévia.
+Art. 3.º - 1. As escolas podem utilizar para o ensino todos os serviços dependentes do Ministério da Saúde e Assistência e podem utilizar serviços de outros Ministérios, mediante autorização prévia.
 
 2. As relações entre as escolas e os hospitais, e bem assim com os demais serviços do Ministério da Saúde e Assistência, constam de acordos de cooperação, nos quais se estabeleçam as obrigações recíprocas; estes acordos serão homologados pelo Ministro da Saúde e Assistência.
 
 3. Por despacho do Ministro da Saúde e Assistência, pode ser designado o hospital a que caiba especialmente facultar o campo de ensino a cada escola, fixando-se no mesmo as obrigações que, nessa qualidade, lhe competem.
 
-###### Art. 4.º - 1. As escolas oficiais têm autonomia técnica e administrativa, nos termos do artigo 3.º do [Decreto-Lei n.º 38884](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38884-1952-668919), de 28 de Agosto de 1952, e nos deste Regulamento.
+Art. 4.º - 1. As escolas oficiais têm autonomia técnica e administrativa, nos termos do artigo 3.º do [Decreto-Lei n.º 38884](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38884-1952-668919), de 28 de Agosto de 1952, e nos deste Regulamento.
 
 2. A autonomia referida neste artigo entende-se sem prejuízo da função orientadora e inspectiva da Direcção-Geral dos Hospitais.
 
@@ -194,7 +231,7 @@ e) Verificar a idoneidade dos serviços propostos para estágio dos alunos;
 
 f) Aprovar os planos anuais de cursos a professar nas escolas.
 
-###### Art. 5.º - 1. São receitas das escolas:
+Art. 5.º - 1. São receitas das escolas:
 
 a) As comparticipações do Ministério da Saúde Assistência;
 
@@ -208,7 +245,7 @@ e) As compensações atribuídas pelos hospitais e outros serviços nos termos d
 
 2. São despesas das escolas todas as necessárias ao seu funcionamento e à realização dos seus objectivos.
 
-###### Art. 6.º - 1. Os dinheiros e valores das escolas serão movimentados com a assinatura do director e de outro membro do conselho de gerência.
+Art. 6.º - 1. Os dinheiros e valores das escolas serão movimentados com a assinatura do director e de outro membro do conselho de gerência.
 
 2. O conselho de gerência verificará, pelo menos mensalmente, os dinheiros e valores existentes na tesouraria.
 
@@ -218,7 +255,7 @@ e) As compensações atribuídas pelos hospitais e outros serviços nos termos d
 
 ### CAPÍTULO II — Dos órgãos de administração e de direcção
 
-###### Art. 7.º - 1. São órgãos de administração das escolas:
+Art. 7.º - 1. São órgãos de administração das escolas:
 
 a) O conselho orientador;
 
@@ -240,7 +277,7 @@ b) Comissão de integração escolar.
 
 5. As comissões permanentes são constituídas por determinação ou com concordância superior; as eventuais são criadas por qualquer dos órgãos de administração ou de direcção das escolas.
 
-###### Art. 8.º - 1. O conselho orientador é presidido pelo provedor ou administrador-geral do hospital a que se refere o artigo 3.º, n.º 3.
+Art. 8.º - 1. O conselho orientador é presidido pelo provedor ou administrador-geral do hospital a que se refere o artigo 3.º, n.º 3.
 
 2. São vogais do conselho:
 
@@ -282,7 +319,7 @@ d) Um enfermeiro de saúde pública.
 
 6. Pode o conselho constituir grupos eventuais de trabalho, entre os seus membros, para preparar as deliberações a tomar dentro da esfera da sua competência.
 
-###### Art. 9.º - 1. O conselho orientador assume a função definidora das linhas gerais da administração da escola e da sua integração no conjunto de necessidades da comunidade e em especial dos serviços de saúde e assistência.
+Art. 9.º - 1. O conselho orientador assume a função definidora das linhas gerais da administração da escola e da sua integração no conjunto de necessidades da comunidade e em especial dos serviços de saúde e assistência.
 
 2. Em especial, compete ao conselho orientador:
 
@@ -296,7 +333,7 @@ d) Um enfermeiro de saúde pública.
 
 5.º Emitir directrizes sobre todas as questões que lhe sejam postas por qualquer dos órgãos de administração ou direcção, que não excedam a competência própria da escola.
 
-###### Art. 10.º - 1. O conselho de gerência é presidido pelo director da escola, que será substituído pelo subdirector nas suas faltas e impedimentos.
+Art. 10.º - 1. O conselho de gerência é presidido pelo director da escola, que será substituído pelo subdirector nas suas faltas e impedimentos.
 
 2. O conselho tem como vogais:
 
@@ -308,7 +345,7 @@ c) O chefe de secretaria, que elaborará as actas respectivas.
 
 3. Podem ser convocados para assistir às reuniões do conselho quaisquer funcionários da escola cujo parecer se mostre conveniente em razão da matéria a apreciar.
 
-###### Art. 11.º - 1. O conselho de gerência é responsável pela correcta e legal utilização dos meios postos ao dispor da escola.
+Art. 11.º - 1. O conselho de gerência é responsável pela correcta e legal utilização dos meios postos ao dispor da escola.
 
 2. Compete, em especial, ao conselho de gerência:
 
@@ -322,7 +359,7 @@ c) O chefe de secretaria, que elaborará as actas respectivas.
 
 3. O director, ou o subdirector nas suas faltas e impedimentos, pode autorizar despesas até 20000$00; as de montante superior são autorizadas pelo conselho de gerência.
 
-###### Art. 12.º - 1. A direcção da escola é constituída pelo director, que preside, pelo subdirector, por um professor médico designado pelo conselho escolar e pelo presidente e pela comissão de alunos.
+Art. 12.º - 1. A direcção da escola é constituída pelo director, que preside, pelo subdirector, por um professor médico designado pelo conselho escolar e pelo presidente e pela comissão de alunos.
 
 2. O subdirector substituirá o director nas suas faltas e impedimentos.
 
@@ -330,7 +367,7 @@ c) O chefe de secretaria, que elaborará as actas respectivas.
 
 4. Qualquer funcionário da escola pode ser convocado para emitir parecer nas reuniões de direcção, em razão da matéria a apreciar.
 
-###### Art. 13.º - 1. A direcção assume a responsabilidade pela organização dos serviços de ensino e pelo seu funcionamento.
+Art. 13.º - 1. A direcção assume a responsabilidade pela organização dos serviços de ensino e pelo seu funcionamento.
 
 2. Compete, em especial, à direcção:
 
@@ -346,7 +383,7 @@ c) O chefe de secretaria, que elaborará as actas respectivas.
 
 3. O director representa a escola e os seus órgãos, orienta e coordena o ensino, imprimindo unidade à acção educativa da escola, exerce na escola toda a autoridade sobre pessoal e alunos e pode tomar, em caso de urgência, medidas que sejam da competência própria de algum dos órgãos de administração ou direcção, submetendo-as depois a ratificação.
 
-###### Art. 14.º - 1. O conselho escolar é constituído por todos os professores e monitores e pelos membros da comissão de alunos.
+Art. 14.º - 1. O conselho escolar é constituído por todos os professores e monitores e pelos membros da comissão de alunos.
 
 2. Com voto consultivo, assistirão às reuniões o médico e o enfermeiro de saúde escolar e o psicopedagogo em serviço na escola.
 
@@ -356,7 +393,7 @@ c) O chefe de secretaria, que elaborará as actas respectivas.
 
 5. Os membros da comissão de alunos não assistirão às reuniões na parte em que haja avaliação individual de aproveitamento escolar.
 
-###### Art. 15.º - 1. O conselho escolar é o órgão responsável pela orientação pedagógica da escola e pela avaliação dos alunos, devendo ouvir, quando entender, a comissão de integração escolar.
+Art. 15.º - 1. O conselho escolar é o órgão responsável pela orientação pedagógica da escola e pela avaliação dos alunos, devendo ouvir, quando entender, a comissão de integração escolar.
 
 2. Em especial, compete ao conselho escolar, funcionando em plenário:
 
@@ -374,21 +411,21 @@ c) O chefe de secretaria, que elaborará as actas respectivas.
 
 3.º Classificar o aproveitamento dos alunos.
 
-###### Art. 16.º - 1. A comissão de alunos é constituída por delegados dos alunos por eles eleitos, na proporção de um delegado por cada ano em cada curso.
+Art. 16.º - 1. A comissão de alunos é constituída por delegados dos alunos por eles eleitos, na proporção de um delegado por cada ano em cada curso.
 
 2. O presidente é um dos delegados, escolhido por eles.
 
 3. Haverá sempre membros suplentes que substituirão automàticamente os titulares nas suas faltas ou impedimentos, fazendo-se, para o efeito, as eleições suplementares que forem necessárias.
 
-###### Art. 17.º - 1. A comissão de alunos coopera na administração e na direcção da escola e na sua acção formativa.
+Art. 17.º - 1. A comissão de alunos coopera na administração e na direcção da escola e na sua acção formativa.
 
 2. Cada delegado deverá transmitir aos órgãos de que faz parte os interesses legítimos do respectivo ano e curso e aos respectivos alunos a fundamentação das deliberações tomadas; os delegados deverão pôr sempre o interesse geral acima dos individuais ou do curso e constituirão elementos actuantes de disciplina e de cooperação.
 
-###### Art. 18.º - 1. A comissão de integração escolar é presidida pelo director e dela fazem parte um professor e um monitor designados pelo conselho escolar, o médico escolar, o enfermeiro do serviço de saúde escolar, onde o houver, o psicopedagogo em serviço na escola, o presidente da comissão de alunos e um representante da associação dos antigos alunos, quando estiver constituída.
+Art. 18.º - 1. A comissão de integração escolar é presidida pelo director e dela fazem parte um professor e um monitor designados pelo conselho escolar, o médico escolar, o enfermeiro do serviço de saúde escolar, onde o houver, o psicopedagogo em serviço na escola, o presidente da comissão de alunos e um representante da associação dos antigos alunos, quando estiver constituída.
 
 2. A comissão pode pedir a colaboração de quaisquer funcionários da escola, assim como de técnicos de serviços estranhos, desde que sejam de idoneidade reconhecida.
 
-###### Art. 19.º - 1. A comissão de integração escolar tem por objectivo seleccionar os candidatos à profissão e promover a adaptação dos alunos à vida escolar, prevenindo ou remediando os desajustamentos sócio-pedagógicos.
+Art. 19.º - 1. A comissão de integração escolar tem por objectivo seleccionar os candidatos à profissão e promover a adaptação dos alunos à vida escolar, prevenindo ou remediando os desajustamentos sócio-pedagógicos.
 
 2. Em especial, compete-lhe:
 
@@ -404,17 +441,17 @@ c) O chefe de secretaria, que elaborará as actas respectivas.
 
 6.º Promover as experiências pedagógicas e a investigação individual ou em equipa, depois de ter recebido para isso a necessária autorização do conselho orientador.
 
-###### Art. 20.º O mandato dos membros eleitos ou designados para qualquer dos órgãos de administração e direcção é de dois anos, podendo haver uma recondução.
+Art. 20.º O mandato dos membros eleitos ou designados para qualquer dos órgãos de administração e direcção é de dois anos, podendo haver uma recondução.
 
 ### CAPÍTULO III — Dos serviços de apoio e administrativos
 
-###### Art. 21.º - 1. Em cada escola, ou junto dela, funcionarão, como serviços de apoio, o lar de alunas e o serviço de saúde escolar; como serviço administrativo, a secretaria.
+Art. 21.º - 1. Em cada escola, ou junto dela, funcionarão, como serviços de apoio, o lar de alunas e o serviço de saúde escolar; como serviço administrativo, a secretaria.
 
 2. Estes serviços funcionarão coordenadamente com os de natureza escolar, de modo a conseguir-se a maior eficiência do conjunto.
 
 3. Os serviços de apoio e administrativos dependem directamente da direcção da escola.
 
-###### Art. 22.º - 1. Os lares têm por objectivo facultar às alunas habitação em termos tanto quanto possível familiares, de modo a completar ou aperfeiçoar a sua formação social e moral.
+Art. 22.º - 1. Os lares têm por objectivo facultar às alunas habitação em termos tanto quanto possível familiares, de modo a completar ou aperfeiçoar a sua formação social e moral.
 
 2. Os lares podem ser instalados como dependências das escolas e por estas administrados ou em instituições particulares que, por meio de acordos com as escolas, a homologar pela Direcção-Geral dos Hospitais, se obriguem a facultar residência às alunas.
 
@@ -422,7 +459,7 @@ c) O chefe de secretaria, que elaborará as actas respectivas.
 
 4. Compete à Direcção-Geral dos Hospitais estabelecer e verificar as condições de instalação e funcionamento dos lares.
 
-###### Art. 23.º - 1. As escolas asseguram aos alunos serviços de saúde escolar e assistência médica curativa e de recuperação.
+Art. 23.º - 1. As escolas asseguram aos alunos serviços de saúde escolar e assistência médica curativa e de recuperação.
 
 2. Para o efeito, em cada escola haverá um serviço de saúde, que terá por objectivo vigiar a saúde física e mental dos alunos, promovendo o necessário para a sua defesa, em relação com o esforço da aprendizagem, e ao qual compete, em especial:
 
@@ -440,7 +477,7 @@ c) O chefe de secretaria, que elaborará as actas respectivas.
 
 5. Esta assistência pode ser extensiva ao pessoal das escolas e lares, na medida em que não tiverem cobertura própria.
 
-###### Art. 24.º - 1. A secretaria assegura o movimento burocrático de todos os serviços da escola e compete-lhe especialmente:
+Art. 24.º - 1. A secretaria assegura o movimento burocrático de todos os serviços da escola e compete-lhe especialmente:
 
 1.º O expediente, a contabilidade, a tesouraria e o economato da escola;
 
@@ -454,7 +491,7 @@ c) O chefe de secretaria, que elaborará as actas respectivas.
 
 ### CAPÍTULO IV — Do funcionamento das escolas
 
-###### Art. 25.º - 1. Podem ser professados nas escolas os cursos de enfermagem para os quais haja condições bastantes e que correspondam a necessidades verificadas no campo da saúde e assistência.
+Art. 25.º - 1. Podem ser professados nas escolas os cursos de enfermagem para os quais haja condições bastantes e que correspondam a necessidades verificadas no campo da saúde e assistência.
 
 2. Anualmente, as escolas epresentarão os planos dos cursos que pretendem ministrar, acompanhados dos seguintes elementos:
 
@@ -468,13 +505,13 @@ d) Matéria que a escola deseja acrescentar aos planos oficiais de cada curso.
 
 3. Poderá o Ministério da Saúde e Assistência determinar a realização de cursos não previstos no plano anual desde que correspondam a necessidades dos serviços de saúde e às possibilidades das escolas.
 
-###### Art. 26.º - 1. A admissão dos alunos é pedida pelos candidatos ao director, em requerimento acompanhado do bilhete de identidade e dos demais documentos especialmente exigidos pela natureza do curso que o candidato se proponha frequentar.
+Art. 26.º - 1. A admissão dos alunos é pedida pelos candidatos ao director, em requerimento acompanhado do bilhete de identidade e dos demais documentos especialmente exigidos pela natureza do curso que o candidato se proponha frequentar.
 
 2. Mediante o pagamento do emolumento legal, podem os candidatos apresentar os requerimentos até às 17 horas da antevéspera do início da selecção; mas se faltar algum dos documentos exigidos, poderá a direcção marcar prazo nunca superior a trinta dias para completar o processo, considerando-se que a inscrição é provisória, que caducará se os documentos em falta não forem entregues no prazo marcado.
 
 3. As datas das matrículas são fixadas anualmente pela Direcção-Geral dos Hospitais.
 
-###### Art. 27.º - 1. A selecção dos alunos a admitir é feita, provisòriamente, pela comissão de integração escolar.
+Art. 27.º - 1. A selecção dos alunos a admitir é feita, provisòriamente, pela comissão de integração escolar.
 
 2. A selecção terá como objectivo a orientação dos candidatos, tomando em atenção as condições e qualidades exigidas pela profissão de enfermagem, nas suas várias carreiras, e as aptidões e interesses revelados pelos candidatos.
 
@@ -486,11 +523,11 @@ d) Matéria que a escola deseja acrescentar aos planos oficiais de cada curso.
 
 6. As decisões sobre admissão e confirmação de matrículas pertencem à direcção da escola e delas cabe recurso para o director-geral dos Hospitais.
 
-###### Art. 28.º - 1. São autorizadas as transferências dos alunos entre as escolas dependentes do Ministério da Saúde e Assistência, tanto oficiais como particulares, desde que haja acordo entre elas.
+Art. 28.º - 1. São autorizadas as transferências dos alunos entre as escolas dependentes do Ministério da Saúde e Assistência, tanto oficiais como particulares, desde que haja acordo entre elas.
 
 2. Em normas complementares, serão regulados os ternos em que se farão as transferências.
 
-###### Art. 29.º - 1. O ensino é feito em sessões lectivas, cuja duração varia de acordo com a sua natureza, mas as sessões teóricas não serão inferiores a cinquenta minutos.
+Art. 29.º - 1. O ensino é feito em sessões lectivas, cuja duração varia de acordo com a sua natureza, mas as sessões teóricas não serão inferiores a cinquenta minutos.
 
 2. A presença dos alunos é obrigatória e a justificação das faltas tem de ser feita no prazo máximo de dois dias após a sua comparência.
 
@@ -498,7 +535,7 @@ d) Matéria que a escola deseja acrescentar aos planos oficiais de cada curso.
 
 4. Os professores são obrigados a cumprir os preceitos regulamentares da escola, na parte que lhes respeita, e igualmente a cooperar na realização daqueles objectivos.
 
-###### Art. 30.º - 1. As medidas a tomar para prevenir deficuldades de integração ou de corrigir os seus efeitos podem ser:
+Art. 30.º - 1. As medidas a tomar para prevenir deficuldades de integração ou de corrigir os seus efeitos podem ser:
 
 1.º Elaboração de processos com o perfil psicopedagógico dos alunos para uso de todo o corpo docente;
 
@@ -510,19 +547,19 @@ d) Matéria que a escola deseja acrescentar aos planos oficiais de cada curso.
 
 3. A classificação Sem adaptação importa a impossibilidade de o aluno permanecer na escola.
 
-###### Art. 31.º - 1. A organização dos exames de passagem e finais e as regras de avaliação do aproveitamento escolar constam dos planos e instruções de cada curso.
+Art. 31.º - 1. A organização dos exames de passagem e finais e as regras de avaliação do aproveitamento escolar constam dos planos e instruções de cada curso.
 
 2. Os alunos aprovados no exame final têm direito ao diploma correspondente; os aprovados em exames de passagem podem requerer certificado comprovativo.
 
-###### Art. 32.º As actividades circum-escolares, estabelecidas de acordo com as directrizes do respectivo curso, constarão de plano anual elaborado pela direcção e pela comissão de alunos, com o parecer do conselho escolar.
+Art. 32.º As actividades circum-escolares, estabelecidas de acordo com as directrizes do respectivo curso, constarão de plano anual elaborado pela direcção e pela comissão de alunos, com o parecer do conselho escolar.
 
-###### Art. 33.º - 1. Todas as escolas podem conceder prémios, subsídios e bolsas de estudo, no País e no estrangeiro, contribuir para actividades circum-escolares, e todas as que se proponham o aperfeiçoamento técnico, moral, social e físico dos alunos.
+Art. 33.º - 1. Todas as escolas podem conceder prémios, subsídios e bolsas de estudo, no País e no estrangeiro, contribuir para actividades circum-escolares, e todas as que se proponham o aperfeiçoamento técnico, moral, social e físico dos alunos.
 
 2. A concessão destes benefícios e subsídios depende de normas regulamentares ou despacho do Ministério da Saúde e Assistência.
 
 3. Podem ser criadas obrigações aos beneficiários, ficando estabelecido que não poderão receber o diploma ou documento equivalente enquanto não cumprirem as referidas obrigações.
 
-###### Art. 34.º - 1. No intuito de promover a formação permanente dos seus diplomados, deve a escola manter contacto com os seus antigos alunos, dando-lhes apoio técnico e profissional.
+Art. 34.º - 1. No intuito de promover a formação permanente dos seus diplomados, deve a escola manter contacto com os seus antigos alunos, dando-lhes apoio técnico e profissional.
 
 2. Para o efeito, deverá organizar o respectivo ficheiro e mantê-lo actualizado.
 
@@ -530,11 +567,11 @@ d) Matéria que a escola deseja acrescentar aos planos oficiais de cada curso.
 
 ### CAPÍTULO V — Do pessoal
 
-###### Art. 35.º - 1. O pessoal, qualquer que seja a sua função e categoria, colabora efectivamente nos objectivos da escola onde trabalha, aos quais subordinará sempre a sua acção.
+Art. 35.º - 1. O pessoal, qualquer que seja a sua função e categoria, colabora efectivamente nos objectivos da escola onde trabalha, aos quais subordinará sempre a sua acção.
 
 2. O estatuto do pessoal das escolas, na parte que não constar de legislação própria, é o que vigorar para o pessoal do Ministério da Saúde e Assistência.
 
-###### Art. 36.º - 1. O pessoal permanente das escolas é distribuído pelas categorias seguintes:
+Art. 36.º - 1. O pessoal permanente das escolas é distribuído pelas categorias seguintes:
 
 a) Dirigente;
 
@@ -552,7 +589,7 @@ a) Pessoal eventual;
 
 b) Prelectores.
 
-###### Art. 37.º - 1. Haverá nas escolas as seguintes funções retribuídas:
+Art. 37.º - 1. Haverá nas escolas as seguintes funções retribuídas:
 
 a) Presidente do conselho orientador;
 
@@ -562,11 +599,11 @@ c) Subdirector.
 
 2. Estas funções são retribuídas por gratificação a fixar em nota aos quadros de pessoal.
 
-###### Art. 38.º - 1. Os enfermeiros professorres, monitores e auxiliares de monitor do quadro são obrigados a seis horas diárias de trabalho lectivo, ou trinta e seis semanais.
+Art. 38.º - 1. Os enfermeiros professorres, monitores e auxiliares de monitor do quadro são obrigados a seis horas diárias de trabalho lectivo, ou trinta e seis semanais.
 
 2. Poderão aqueles encarregar-se de disciplinas ou matérias que excedam aquele limite, sendo remunerados pelo trabalho lectivo extraordinário nos termos estabelecidos ao abrigo do artigo 14.º, alínea c), do [Decreto-Lei n.º 48166](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48166-1967-401512), de 27 de Dezembro de 1967.
 
-###### Art. 39.º - 1. O pessoal eventual destina-se a serviços e tarefas que excedam as possibilidades do pessoal do quadro.
+Art. 39.º - 1. O pessoal eventual destina-se a serviços e tarefas que excedam as possibilidades do pessoal do quadro.
 
 2. Os prelectores são chamados a proferir uma ou várias lições sobre assuntos especificados.
 
@@ -574,11 +611,11 @@ c) Subdirector.
 
 4. Os professores eventuais são admitidos por cada ano escolar, mediante simples concurso documental, e a sua remuneração tem por base o número de horas ou sessões lectivas efectivamente prestadas, de acordo com tabela a aprovar pelos Ministros das Finanças e da Saúde e Assistência.
 
-###### Art. 40.º - 1. As funções de presidente do conselho orientador e do vogal do conselho de gerência previsto na alínea a) do n.º 2 do artigo 10.º são inerentes, respectivamente, aos lugares de provedor ou administrador-geral do hospital referido no n.º 3 do artigo 3.º e administrador-geral ou administrador do mesmo hospital.
+Art. 40.º - 1. As funções de presidente do conselho orientador e do vogal do conselho de gerência previsto na alínea a) do n.º 2 do artigo 10.º são inerentes, respectivamente, aos lugares de provedor ou administrador-geral do hospital referido no n.º 3 do artigo 3.º e administrador-geral ou administrador do mesmo hospital.
 
 2. A função de subdirector é desempenhada por um enfermeiro professor, proposto anualmente pelo director.
 
-###### Art. 41.º - 1. Para classificar anualmente o serviço dos professores e monitores, constituir-se-á uma comissão, presidida por um delegado da Direcção-Geral dos Hospitais e constituída pelo director e subdirector da respectiva escola e por dois representantes do conselho escolar por ele eleitos.
+Art. 41.º - 1. Para classificar anualmente o serviço dos professores e monitores, constituir-se-á uma comissão, presidida por um delegado da Direcção-Geral dos Hospitais e constituída pelo director e subdirector da respectiva escola e por dois representantes do conselho escolar por ele eleitos.
 
 2. Os dois representantes do conselho escolar serão substituídos anualmente e o seu serviço docente, quando fizerem parte da comissão, será igual ao do ano anterior.
 
@@ -586,15 +623,15 @@ c) Subdirector.
 
 ### CAPÍTULO VI — Disposições especiais e transitórias
 
-###### Art. 42.º - 1. De todos os regulamentos, ordens de serviço ou outras providências que tenham carácter genérico serão enviadas cópias à Direcção-Geral dos Hospitais.
+Art. 42.º - 1. De todos os regulamentos, ordens de serviço ou outras providências que tenham carácter genérico serão enviadas cópias à Direcção-Geral dos Hospitais.
 
 2. As escolas poderão, quando entenderem, submeter as providências referidas no número anterior a visto prévio da mesma Direcção-Geral.
 
-###### Art. 43.º - 1. Os recursos admitidos neste Regulamento são interpostos no prazo de cinco dias, após a notificação da decisão recorrida.
+Art. 43.º - 1. Os recursos admitidos neste Regulamento são interpostos no prazo de cinco dias, após a notificação da decisão recorrida.
 
 2. Os recursos têm efeito suspensivo.
 
-###### Art. 44.º - 1. Os actuais professores dos quadros que não sejam enfermeiros conservam o estatuto legal que nesta data lhes pertence.
+Art. 44.º - 1. Os actuais professores dos quadros que não sejam enfermeiros conservam o estatuto legal que nesta data lhes pertence.
 
 2. Os seus lugares caducarão à medida que forem vagando.
 

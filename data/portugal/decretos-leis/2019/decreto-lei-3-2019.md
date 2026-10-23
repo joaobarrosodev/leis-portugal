@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/01/00800/0010800108.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/3/2019/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2019-117726477
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20d87c207330c6b27f9d4b18743c56cc8a795913ce88f1f61e537c2a7e68431b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06109ee8044db3355b876f9ae805cf7490a5055b5ef91e3bd36c05e46b50ffc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
+- Câmara Municipal
 - Definição de Competências
+- Federação Portuguesa do Táxi
 - Instituto da Mobilidade e dos Transportes
-- Veículo
 - Licença de Transporte
 - Preço
-- Câmara Municipal
 - Regulamentação dos Transportes
 - Regulamento de Transportes em Automóveis
 - Transporte
 - Transporte de Passageiros
-- Autarquia Local
+- Veículo
 - Veículo de Aluguer
-- Federação Portuguesa do Táxi
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1998/08/11/p/dre
@@ -113,15 +113,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/5/2013/01/22/p/dre
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:01Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +162,9 @@ Os artigos 11.º e 18.º do [Decreto-Lei n.º 251/98](https://diariodarepublica.
 
 2 - Os taxímetros devem ser colocados na metade superior do tablier ou em cima deste, ou no espelho retrovisor, em local bem visível pelos passageiros, não podendo ser sujeitos a controlo metrológico legal os que não respeitem esta condição.
 
-###### Artigo 18.º — Suspensão e abandono do exercício da atividade
+Artigo 18.º
+
+Suspensão e abandono do exercício da atividade
 
 1 - O exercício da atividade de transportes em táxi pode ser suspenso mediante mera comunicação prévia aos municípios emissores da licença, por um período de até 365 dias consecutivos.
 
@@ -182,12 +184,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de dezembro de 2018. - Augusto Ernesto Santos Silva - Ricardo Emanuel Martins Mourinho Félix - Eduardo Arménio do Nascimento Cabrita - José Fernando Gomes Mendes.
 
-**Promulgado em 18 de dezembro de 2018.**
+Promulgado em 18 de dezembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de janeiro de 2019.**
+Referendado em 7 de janeiro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111963696

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,135 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/962-1981-568699
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:58:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3c67b2355efe0e732288a6b731dd565c3aa282c1d3a82a268b45b52a648c5e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ca1b7519483685e581b84579599499ff7c29c4e218420d44d487030d765fcee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:58:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Forças Armadas
+- Pessoal Civil
+- Remuneração
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO PELA PORTARIA NUMERO 108/83, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 26, DE 830201. RECTIFICAÇÃO\
+    \ PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 5, DE 820107. RECTIFICAÇÃO PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE,\
+    \ NUMERO 31, DE 820206. RECTIFICAÇÃO PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 202, DE 820901. REVOGADO PELO DECRETO-LEI\
+    \ NUMERO 278/89, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 193, DE 890823.\0, NUMERO 193, DE 890823.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:618504:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:394508:por
+  label: "Aumentado lugares ao quadro de pessoal dos Serviços Sociais das Forças Armadas, aprovado pelo presente diploma,\
+    \ pela PORT.675/82.08.07.1982.MDN, DR.IS [155] de 08.07.1982\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/675-1982-394508
+  date: '1982-07-08'
+- type: amended_by
+  target: pt:dre:243520:por
+  label: "Alterado relativamente ao pessoal técnico o quadro de pessoal anexo ao presente diploma pela PORT.1012-X/82.29.10.1982.CR,\
+    \ DR.IS [251-5.º Supl] de 29.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1012-x-1982-243520
+  date: '1982-10-29'
+- type: amended_by
+  target: pt:dre:400200:por
+  label: "Integrados, a partir de 26.10.1984, a carreira de meios audiovisuais no presente diploma, inserindo-se no grupo\
+    \ técnico-profissional e ou administrativo, pelo DEC LEI.342/84.26.10.1984.PCM, DR.IS [249] de 26.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/342-1984-400200
+  date: '1984-10-26'
+- type: amended_by
+  target: pt:dre:417224:por
+  label: "Alterado o quadro de pessoal anexo pelo DR.49/87.31.07.1987.MDN, DR.IS [174] de 31.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/49-1987-417224
+  date: '1987-07-31'
+- type: cites
+  target: pt:dre:140533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563653:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:552874:por
+  label: Rectificada pela DECL.DD2217.1981.12.22.CR DR.IS [5] DE 07/JAN/1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-552874
+  date: '1981-12-22'
+- type: corrected_by
+  target: pt:dre:600519:por
+  label: Rectificada pela DECL.DD2375.1982.01.26.CR, DR.IS [31] de 06/Fev/1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-600519
+  date: '1982-01-26'
+- type: corrected_by
+  target: pt:dre:374459:por
+  label: Rectificada pela DECL.DD6016.09.08.1982.CR, DR.IS [202] de 01.09.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-374459
+  date: '1982-08-09'
+- type: repealed_by
+  target: pt:dre:618504:por
+  label: "Revogado o nº 29 e o mapa constante do anexo, indiciado com o n.º 4.21 -Auxiliar (segurança) do presente diploma,\
+    \ pelo DEC LEI.278/89.23.08.1989.MDN, DR.IS [193] de 23.08.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/278-1989-618504
+  date: '1989-08-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:58:56Z'
   warnings: []
   errors: []
 ---
@@ -378,15 +473,15 @@ Carreiras e categorias a extinguir à medida que vagarem
 
 ## Anexo I - EMGFA.
 
-## Anexo II - Estado-Maior da Armada.
+Anexo II - Estado-Maior da Armada.
 
-## Anexo III - Estado-Maior do Exército.
+Anexo III - Estado-Maior do Exército.
 
-## Anexo IV - Estado-Maior da Força Aérea.
+Anexo IV - Estado-Maior da Força Aérea.
 
 Pessoal técnico superior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Nota. - O pessoal técnico superior pode ser dividido em subgrupos, consoante a sua licenciatura.
 
@@ -394,7 +489,7 @@ Pessoal técnico
 
 Diverso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Nota. - O pessoal técnico pode ser dividido em subgrupos, consoante o seu curso superior.
 
@@ -402,189 +497,189 @@ Pessoal técnico-profissional e ou administrativo
 
 Cartógrafo (desenho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Cartógrafo (fotogrametria)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Topógrafo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Serviço social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Tradutor-correspondente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Conferencista-demonstrador
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Regente de internato
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Fotógrafo (fotografia aérea)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Armarias e restauro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Hidrógrafo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Oceonógrafo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Oficial administrativo
 
 Forças armadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Oficial administrativo
 
 Serviço de fomento marítimo, investigação do mar e organismo de natureza cultural da marinha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Codificação de vencimentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Oficial de contabilidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Meios áudio-visuais (fotografia)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Meios áudio-visuais (cinema)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Meios áudio-visuais (locução)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Meios áudio-visuais (sonoplastia)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Desenho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Microfilmagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Armas e equipamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Salvamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Depósitos (identificação de material)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Agente técnico agrícola
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Fotomecânica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Culinária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Processos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Instrutor desportivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Biblioteca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Informações militares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Despacho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Redes telefónicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Artes gráficas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Construção civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Electrotecnia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Pilotagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Preparador de laboratório
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Aquariologia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Monitor de internato
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Laboratório de solos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Fotógrafo lofoscopista
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Fotografia cartográfica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Escriturário-dactilógrafo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Pessoal operário e ou auxiliar
 
 Pessoal operário qualificado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Notas
 
@@ -676,7 +771,7 @@ Torneiro.
 
 Pessoal operário semiqualificado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Notas
 
@@ -718,7 +813,7 @@ Vulcanizador.
 
 Pessoal operário não qualificado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Notas
 
@@ -730,219 +825,219 @@ c) Os actuais aprendizes, aprendizes de 1.ª classe e aprendizes de 2.ª classe 
 
 Embarcações salva-vidas (pessoal de convés)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Motoristas de embarcações salva-vidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Horticultura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Pecuária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Barbearia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Alimentação (cozinha)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Alimentação (despensa)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Alimentação (mesa)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Alimentação (copa)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Alimentação (talho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Operador de máquinas copiadoras e calculadoras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Encarregado de serviços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Operador de máquinas ligeiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Auxiliar de serviços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Auxiliar técnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Fiel de depósito e armazém (conservação e guarda)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Vigilante
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Auxiliar (segurança)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Serviços prisionais (guarda)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Casa mortuária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Fiscal de obras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Motorista de ligeiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Motorista de pesados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Operador de lavandaria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Operador de máquinas pesadas e ou de terraplenagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Telefonista
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Ferramenteiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Outro pessoal auxiliar (contínuos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Outro pessoal auxiliar (guardas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Outro pessoal auxiliar (porteiros)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Pessoal com regime especial
 
 Direcção de estabelecimentos de ensino
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Nota. - Este quadro não constitui carreira.
 
 Pessoal docente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Médico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Nota. - Obedece ao disposto no [Decreto-Lei n.º 373/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1979-370639), de 8 de Setembro (Estatuto do Médico), conjugado com o [Decreto-Lei n.º 524-C/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-c-1977-331851), de 28 de Dezembro.
 
 Informática (análise)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Nota. - O regime do pessoal de informática (análise) é definido pelo [Decreto-Lei n.º 875/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/875-1976-416411), de 29 de Dezembro.
 
 Pessoal de informática (programação)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Nota. - O regime de pessoal de informática (programação) é definido pelo [Decreto-Lei n.º 875/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/875-1976-416411), de 29 de Dezembro.
 
 Pessoal de informática (operação)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Nota. - O regime do pessoal de informática (operação) é definido pelo [Decreto-Lei n.º 875/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/875-1976-416411), de 29 de Dezembro.
 
 Pessoal de informática (preparador)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Nota. - O regime do pessoal de informática (preparador) é definido pelo [Decreto-Lei n.º 875/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/875-1976-416411) de Dezembro.
 
 Pessoal de informática (regime de dados)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Nota. - O regime de pessoal de informática (registo de dados) é definido pelo [Decreto-Lei n.º 875/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/875-1976-416411), de 29 de Dezembro.
 
 Pessoal de enfermagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Nota. - O regime de pessoal de enfermagem está definido pelos Decretos-Leis n.os 534/76, de 8 de Julho, e [107/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1977-140533), de 16 de Agosto.
 
 Técnico auxiliar dos seviços complementares de diagnóstico e terapêuta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Nota. - O regime de técnicos auxiliares dos serviços complementares de diagnóstico e terapêutica é o definido pelo [Decreto-Lei n.º 254/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1979-381511), de 28 de Julho.
 
 Pessoal de educação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Pessoal de gabinete
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 ## ANEXO I — Categorias a extinguir à medida que vagarem (EMGFA)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 ## ANEXO II — Carreira a extinguir (Marinha) (ver nota a)
 
 Pessoal do Aquário Vasco da Gama (grupo XV do QPCM)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 (nota a) Carreira a extinguir à medida que forem vagando os lugares da base para o topo.
 
 Categorias a extinguir à medida que vagarem (Marinha)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 ## ANEXO III — Carreiras a extinguir (Exército)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Identificação e classificação de material
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Categorias a extinguir à medida que vagarem (Exército) (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 (nota a) A extinguir, nos termos da [Portaria n.º 12/78](https://diariodarepublica.pt/dr/detalhe/portaria/12-1978-468858), de 10 de Janeiro.
 
@@ -950,11 +1045,11 @@ Categorias a extinguir à medida que vagarem (Exército) (ver nota a)
 
 Apoio técnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 Classificação de material (ver nota b)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25900/29512978.pdf)
 
 (nota a) Carreiras a extinguir à medida que forem vagando os lugares de base para o topo.
 

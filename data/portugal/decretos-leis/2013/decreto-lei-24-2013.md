@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/02/03500/0103101037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/24/2013/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2013-258538
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3cb7c4172a0b4f5222669ee82ff6dbd3207646227856946e5e65d02e937a5c4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5aeb4a375f38efa6014edb71d2910166799525e84866f0c0ba8e71bfd620d777
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência de Câmbio
-- Fundo de Resolução
+- Atividade Bancária
+- Banca
+- Banco de Portugal
 - Caixa Central de Crédito Àgrícola Mútuo
 - Contribuição Especial
 - Definição de Competências
 - Fundo de Garantia do Crédito Agrícola Mútuo
-- Banco de Portugal
+- Fundo de Resolução
 - Pagamento
-- Banca
-- Atividade Bancária
 - Pagamento de Contribuições
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
 - Regime Jurídico
@@ -110,16 +110,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2011/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2011/11/28/p/dre
+- type: cites
+  target: pt:dre:146188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2628631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670530:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66868336:por
+  label: Revogado, a partir de 31.03.2015, pelo(a) Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série
+    I de 2015-03-26 sem prejuízo do disposto no n.º 5 do artigo 14.º desta lei
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-a-2015-66868336
+  date: '2015-03-26'
 article_structure:
   article_count: 22
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:48Z'
   warnings: []
   errors: []
 ---
@@ -408,12 +442,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de dezembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.
 
-**Promulgado em 12 de fevereiro de 2013.**
+Promulgado em 12 de fevereiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de fevereiro de 2013.**
+Referendado em 14 de fevereiro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

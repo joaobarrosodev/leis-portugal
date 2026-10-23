@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/64/2011/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2011-286753
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 510a917800a60bca66752ba4e8f63a8803d2f3a8f8356f8b00665b41b138e84d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06012c8d4f325d2db48396a1dc27ed9c981aec9bbd0561a364952339d67f705f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Aditivo Alimentar
+- Alimentação Humana
 - Aproximação das Legislações
-- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
-- Multa
 - Contra-ordenação
 - Definição de Competências
-- Alimentação Humana
-- Aditivo Alimentar
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
+- Multa
+- Produto Alimentar
 - Sanção
 relationships:
 - type: cites
@@ -108,13 +108,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:38Z'
   warnings: []
   errors: []
 ---
@@ -159,29 +159,29 @@ O presente decreto-lei produz efeitos a partir de 31 de Março de 2011.
 
 Visto e aprovado em Conselho de Ministros de 20 de Janeiro de 2011. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Pereira Serrasqueiro - Luís Medeiros Vieira - Ana Maria Teodoro Jorge.
 
-**Promulgado em 3 de Março de 2011.**
+Promulgado em 3 de Março de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de Março de 2011.**
+Referendado em 4 de Março de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
 ## ANEXO II — [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
 
 ## ANEXO III — [...]
 
-# Parte A
+Parte A
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
 
 [...]
 
@@ -191,65 +191,65 @@ Visto e aprovado em Conselho de Ministros de 20 de Janeiro de 2011. - José Sóc
 
 3 - [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
 
-# Parte B
+Parte B
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
 
 1 - [...]
 
 2 - [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
 
-# Parte C
-
-[...]
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
-
-# Parte D
+Parte C
 
 [...]
 
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+
+Parte D
+
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
 
 ## ANEXO IV — [...]
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
 
 ## ANEXO V — [...]
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
 
 ## ANEXO VI — [...]
 
 [...]
 
-# Parte 1
+Parte 1
 
 [...]
 
-# Parte 2
+Parte 2
 
 [...]
 
-# Parte 3
+Parte 3
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
 
-# Parte 4
+Parte 4
 
 [...]»
 
@@ -447,7 +447,7 @@ E 285 - Tetraborato de sódio (bórax)
 
 E 290 - Dióxido de carbono
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
 
 E 296 - Ácido málico
 
@@ -687,29 +687,29 @@ E 385 - Etilenodiaminotetracetato de sódio e cálcio
 
 E 392 - Extractos de rosmaninho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
 
 1 - Extractos de rosmaninho produzidos a partir de folhas de rosmaninho secas por extracção com acetona.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
 
 2 - Extractos de rosmaninho produzidos a partir de folhas de rosmaninho secas por extracção supercrítica com dióxido de carbono:
 
 Extractos de rosmaninho produzidos a partir de folhas de rosmaninho secas por extracção supercrítica com dióxido de carbono com uma pequena quantidade de etanol como arrastador.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
 
 3 - Extractos de rosmaninho produzidos a partir de um extracto etanólico de rosmaninho desodorizado:
 
 Extractos de rosmaninho produzidos a partir de um extracto etanólico de rosmaninho desodorizado. Os extractos podem ser mais purificados, nomeadamente por tratamento com carvão activado e ou por destilação molecular. Os extractos podem ser suspensos em agentes de transporte adequados e aprovados ou ser secos por atomização.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
 
 4 - Extractos de rosmaninho descorados e desodorizados obtidos por uma extracção em duas etapas utilizando hexano e etanol:
 
 Extractos de rosmaninho produzidos a partir de um extracto de rosmaninho etanólico desodorizado, extraído com hexano. O extracto pode ser mais purificado, nomeadamente por tratamento com carvão activado e ou por destilação molecular. Podem ser suspensos em transportadores adequados e aprovados ou ser secos por atomização.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
 
 E 452 (iii) - Polifosfato de sódio e de cálcio
 
@@ -1041,9 +1041,11 @@ E 1520 - 1,2-propanodiol
 
 E 1521 - Polietilenoglicóis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 [...]
 
@@ -1231,7 +1233,7 @@ E 462 - Etilcelulose
 
 E 463 - Hidroxipropilcelulose
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
 
 E 464 - Hidroxipropilmetilcelulose
 
@@ -1367,7 +1369,7 @@ E 944 - Propano
 
 E 949 - Hidrogénio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
 
 E 1201 - Polivinilpirrolidona
 
@@ -1379,9 +1381,11 @@ E 1202 - Polivinilpolipirrolidona
 
 E 1203 - Poli(álcool vinílico)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
 
-## ANEXO IV — [...]
+ANEXO IV
+
+[...]
 
 E 170 (i) - Carbonato de cálcio
 
@@ -1425,11 +1429,11 @@ E 425 (iii) - Glucomanano de konjac
 
 E 426 - Hemicelulose de soja
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
 
 E 427 - Goma de cássia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08900/0263102671.pdf)
 
 E 504 (ii) - Hidroxicarbonato de magnésio
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/01/019a00/04090409.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/29/1997/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1997-581221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:53:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 207a7aa9de67792e32f38e40bd066509778eb676f09c46b6ef14d212c84bd30d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 497de6dca36b7edb89c4811d60c7dff4ecbcd639d7867149fbf2bef2f3f483c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:53:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assistência Medicamentosa
+- Comércio
+- Estabelecimento Hospitalar
 - Farmácia
 - Indústria Farmacêutica
-- Serviço de Saúde
+- Medicamento
+- Política de Saúde
 - Saúde
 - Saúde Pública
-- Política de Saúde
-- Medicamento
+- Serviço de Saúde
 - Serviço Público
-- Estabelecimento Hospitalar
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:580873:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:336155:por
+  label: "Alterado o art. 1º pela LEI.14/2000.2000.08.08.AR DR.IS-A [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-2000-336155
+  date: '2000-08-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/272/1995/10/23/p/dre
   label: null
@@ -93,16 +98,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/72/1991/02/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/72/1991/02/08/p/dre
+- type: cites
+  target: pt:dre:173688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668482:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:580873:por
+  label: "Revogado pelo DEC LEI.206/2000.2000.09.01.MS, DR.IS-A [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-2000-580873
+  date: '2000-09-01'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:53:01Z'
   warnings: []
   errors: []
 ---
@@ -137,12 +171,12 @@ O presente diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Dezembro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Augusto Carlos Serra Ventura Mateus - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 31 de Dezembro de 1996.**
+Promulgado em 31 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Dezembro de 1996.**
+Referendado em 31 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

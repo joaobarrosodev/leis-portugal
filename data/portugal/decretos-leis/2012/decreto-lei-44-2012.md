@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/44/2012/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2012-542866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: feab5aa254fa40f87e44a7f82ffe4c4c98323f26aa82f16592fc5bc3d0027d93
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1622adb242282b4d0ee324cb31aa7bf5f8a95b1aa2d93b1fa638cff269bdfd3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Capital Social
 - Centro Hospitalar de Lisboa Central
+- Estabelecimento Hospitalar
 - Extinção de Serviços
 - Hospital de Curry Cabral
-- Maternidade Alfredo da Costa
 - Integração de Serviços
 - Integração de Trabalhadores
-- Estabelecimento Hospitalar
+- Maternidade Alfredo da Costa
+- Reestruturação de Serviços
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:50-A/2007
+  label: "Extingue e integra por fusão no Centro Hospitalar de Lisboa Central, E. P. E., criado pelo Decreto-Lei n.º 50-A/2007,\
+    \ de 28 de fevereiro, a Maternidade Dr. Alfredo da Costa, criada pelo Dec 20395, de 17-Out-1931, DG IS [240]\0\0"
+  source: null
+  date: '1931-10-17'
+- type: amends
+  target: pt:numero:decreto-lei:50-A/2007
+  label: "Extingue e integra por fusão no Centro Hospitalar de Lisboa Central, E. P. E., criado pelo Decreto-Lei n.º 50-A/2007,\
+    \ de 28 de fevereiro, o Hospital de Curry Cabral, E. P. E., criado pelo Dec Lei n.º 21/2010, de 24-mar, DR IS [58]\0\0"
+  source: null
+  date: '2010-03-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
   label: null
@@ -102,16 +114,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:25Z'
   warnings: []
   errors: []
 ---
@@ -184,16 +224,16 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 12 de janeiro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 16 de fevereiro de 2012.**
+Promulgado em 16 de fevereiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de fevereiro de 2012.**
+Referendado em 17 de fevereiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03900/0087700878.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03900/0087700878.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03900/0087700878.pdf)

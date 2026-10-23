@@ -46,36 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/5-1983-540427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T07:41:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72ddbb3c34338f797edf2aa94a53c03a208e8e23a8cdfc83ad86d3b8315f38d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6a55ba1a695664183ff6880606ce0e095bb14bc89062cbabc5182c89e221f79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:41:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto da Família e Acção Social
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:156832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601489:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:41:45Z'
   warnings: []
   errors: []
 ---
@@ -88,6 +119,6 @@ A fim de dar execução ao despacho de 12 de Março de 1982 do Ministro dos Assu
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado da Segurança Social, que seja alterado, nos termos seguintes, o quadro de pessoal do Instituto da Família e Acção Social, aprovado pela [Portaria n.º 529/80](https://diariodarepublica.pt/dr/detalhe/portaria/529-1980-471118), de 19 de Agosto, com as alterações que lhe foram introduzidas pelas Portarias n.os [45/81](https://diariodarepublica.pt/dr/detalhe/portaria/45-1981-390379), de 11 de Janeiro, [744/81](https://diariodarepublica.pt/dr/detalhe/portaria/744-1981-577909), de 29 de Agosto, [57/82](https://diariodarepublica.pt/dr/detalhe/portaria/57-1982-601149), de 13 de Janeiro, e [88/82](https://diariodarepublica.pt/dr/detalhe/portaria/88-1982-601489), de 20 de Janeiro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/01/00100/00030003.pdf))](https://files.diariodarepublica.pt/1s/1983/01/00100/00030003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/01/00100/00030003.pdf)
 
 Secretaria de Estado da Segurança Social, 7 de Dezembro de 1982. - O Secretário de Estado da Segurança Social, António José de Castro Bagão Félix.

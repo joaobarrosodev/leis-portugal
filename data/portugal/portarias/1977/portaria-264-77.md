@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/11100/10421042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/264-1977-252251
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T05:18:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 383ab4e51dfd256f92ad4fbac966debd29ff768b37de5fe61133088c27833965
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 816504a6c6624e03b177208247ff2bb581a1e23e635855d53a1d783b37b8a86e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:18:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Serviços Prisionais
+- Estabelecimento Prisional
+- Ministério da Justiça
+- Pessoal de Vigilância
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:563002:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:325762:por
+  label: "Alterada a carreira de pessoal de vigilância constante do mapa anexo ao Dec Lei 324/74 de 10-Jul, com as alterações\
+    \ constantes do presente diploma, pelo DEC LEI.347/78.17.11.1978.MJ, DR.IS [265] de 17.11.1978 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/347-1978-325762
+  date: '1978-11-17'
+- type: amended_by
+  target: pt:dre:576553:por
+  label: "Substituído o mapa V anexo ao Decreto-Lei 523/72, de 19 de Dezembro, na redacção do presente diploma, pela PORT.678/81.07.08.1981.MJ,\
+    \ DR.IS [180] de 07.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/678-1981-576553
+  date: '1981-08-07'
+- type: cites
+  target: pt:dre:476478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685588:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:563002:por
+  label: "Revogada pelo DEC LEI.268/81.1981.09.16.MJ, DR.IS [213]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-1981-563002
+  date: '1981-09-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:18:10Z'
   warnings: []
   errors: []
 ---

@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1977-286329
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 475a2ffe23a8110aaf59a5fcd7aa0c519b3168632d1276db47de88a88b37836a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5410587434853b88e302056318b4812161c9b354d04cbc45f7a47e27286b6f92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Administração dos Portos do Douro e Leixões
+- Porto de Leixões
+- Porto do Douro
+- Portos
+- Regulamento
+- Tarifa Portuária
 relationships:
 - type: amended_by
   target: pt:dre:379560:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:379560:por
+  label: "dada nova redacção aos artigos 77.º, 83.º, 126.º, 177.º, 179.º e 190.º e revogados os artigos 105.º, 115.º, 157.º\
+    \ e 163.º do Regulamento de Tarifas da Administração dos Portos do Douro e Leixões, aprovado pelo Decreto Regulamentar\
+    \ 28/77, de 17 de Maio, na redacção do presente diploma, pelo DR.97/82.17.12.1982.MHOPT, DR.IS [290] de 17.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/97-1982-379560
+  date: '1982-12-17'
+- type: cites
+  target: pt:dre:252058:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:28Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +109,7 @@ de 8 de Setembro
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 5.º, 14.º, 33.º, 57.º, 63.º, 77.º, 80.º, 83.º, 93.º, 94.º, 97.º, 98.º, 105.º, 106.º, 114.º, 115.º, 120.º, 122.º, 126.º, 157.º, 163.º, 177.º, 179.º, 190.º e 203.º do Regulamento de Tarifas, aprovado pelo [Decreto Regulamentar n.º 28/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1977-252058), de 17 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 5.º, 14.º, 33.º, 57.º, 63.º, 77.º, 80.º, 83.º, 93.º, 94.º, 97.º, 98.º, 105.º, 106.º, 114.º, 115.º, 120.º, 122.º, 126.º, 157.º, 163.º, 177.º, 179.º, 190.º e 203.º do Regulamento de Tarifas, aprovado pelo [Decreto Regulamentar n.º 28/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1977-252058), de 17 de Maio, passam a ter a seguinte redacção:
 
 ###### ARTIGO 5.º — Embarcação
 
@@ -375,17 +393,17 @@ Jogos de pinos para contentores ... 60$00/dia
 
 2 - O tempo de aluguer das ferramentas e utensílios é contado à hora, desde a sua saída do respectivo depósito até ao seu regresso ao mesmo, quer o material tenha sido ou não utilizado, não se admitindo fracções das unidades indicadas.
 
-###### Art. 2.º O presente diploma produz efeitos a partir de 22 de Maio de 1977.
+Art. 2.º O presente diploma produz efeitos a partir de 22 de Maio de 1977.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Carlos Alberto da Mota Pinto - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 12 de Agosto de 1977.**
+Promulgado em 12 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-## Anexo a que se refere o artigo 14.º do Regulamento de Tarifas da APDL, aprovado pelo [Decreto Regulamentar n.º 28/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1977-252058), de 17 de Maio.
+Anexo a que se refere o artigo 14.º do Regulamento de Tarifas da APDL, aprovado pelo [Decreto Regulamentar n.º 28/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1977-252058), de 17 de Maio.
 
 Tabela das mercadorias que obrigam a precauções especiais
 
@@ -929,4 +947,4 @@ Trotil = Trinitrolueno.
 
 Vigorite = Amonite.
 
-**O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.**
+O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.

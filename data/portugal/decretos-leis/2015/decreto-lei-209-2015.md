@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/18800/0848108485.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/209/2015/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2015-70386136
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f9cc8511357e571265fa493a686ecb0c631824f57f189cac2d57ada0ec9acf2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91eaa5d8ae873c77e50e817f5f5f7decdd340d90a891d36e04231b1d5cd1d5f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- somos Compras
 - Agrupamento Complementar de Empresas
 - Centro Hospitalar de Lisboa Central
 - Centro Hospitalar de Lisboa Ocidental
-- Estatuto
-- Serviço Nacional de Saúde
 - Centro Hospitalar Lisboa Norte
+- Estatuto
 - Integração de Serviços
-- Serviços Partilhados do Ministério da Saúde
 - Serviço de Utilização Comum dos Hospitais
+- Serviço Nacional de Saúde
+- Serviços Partilhados do Ministério da Saúde
+- somos Compras
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
@@ -84,6 +84,40 @@ relationships:
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74811909:por
+  label: Alterado o art. 11.º-A do Dec Lei 19/2010 de 22-mar, aditado pelo presente diploma, pelo(a) Decreto-Lei n.º 32/2016
+    - Diário da República n.º 122/2016, Série I de 2016-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2016-74811909
+  date: '2016-06-28'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a Tutela sobre o Serviço de Utilização Comum dos Hospitais, com orgânica
+    aprovada pelo presente diploma, seja exercida pelo Ministro de Estado e das Finanças, conjuntamente com a Ministra da
+    Saúde, pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a 30.03.2022, o exercício da tutela pela Ministra da Saúde, conjuntamente com o Ministro
+    das Finanças, nas matérias da sua competência, sobre o Serviço de Utilização Comum dos Hospitais (SUCH) pelo(a) Decreto-Lei
+    n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pelo Ministro de Estado e das Finanças, conjuntamente
+    com a Ministra da Saúde, nas matérias da sua competência, a tutela sobre o Serviço de Utilização Comum dos Hospitais pelo(a)
+    Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja exercida pela Ministra da Saúde a tutela sobre o Serviço
+    de Utilização Comum dos Hospitais pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República n.º 142/2025, Suplemento, Série
+    I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/108/2011/11/17/p/dre
   label: null
@@ -96,16 +130,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/54/2008/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/54/2008/09/04/p/dre
+- type: cites
+  target: pt:dre:146212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611341:por
+  label: null
+  source: null
 article_structure:
   article_count: 26
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:23Z'
   warnings: []
   errors: []
 ---
@@ -174,15 +220,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de agosto de 2015. - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Fernando Serra Leal da Costa.
 
-**Promulgado em 17 de setembro de 2015.**
+Promulgado em 17 de setembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de setembro de 2015.**
+Referendado em 20 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 

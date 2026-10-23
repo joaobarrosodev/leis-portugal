@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/01/01600/02190222.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1736434448490d86c34f668e901451031646eeed532b6c2be412ebe083532845
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f76ca1b8b68a44548beb99a1038e442ba36e94d0ac7ced12605f00fbfc3318d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Águas Públicas
+- Albufeiras
+- Domínio Público Hídrico
+- Ordenamento do Território
+- Serviço Público
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:1070022782:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662300:por
+  label: "Alterados os artigos 2.º, 3.º, 4.º, 9.º, aditados os artigos 10.º, 11.º e revogado o n.º 3 do artigo 2.º, pelo DR.37/91.23.07.1991.MARN,\
+    \ DR.IS-B [167] de 23.07.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/37-1991-662300
+  date: '1991-07-23'
+- type: amended_by
+  target: pt:dre:597158:por
+  label: "Alterado o artigo 11.º, na redacção dada no Decreto Regulamentar, 37/91, de 23 de Jullo, pelo DR.33/92.02.12.1992.MARN,\
+    \ DR.IS-B [278] de 02.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/33-1992-597158
+  date: '1992-12-02'
+- type: amended_by
+  target: pt:dre:265556:por
+  label: "Transferidas para as Comissões de Coordenação Regional as competências dos serviços de planeamento exercidas pela\
+    \ Direcção Geral do Ordenamento do Território, pelo DEC LEI.108/94.1994.04.23.MPLAT, DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-1994-265556
+  date: '1994-04-23'
+- type: cites
+  target: pt:dre:377482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631657:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:186876:por
+  label: Rectificado pela DECL.DD2072.1988.01.28.PCM,DR.IS [25]Supl de 30/Jan/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-186876
+  date: '1988-01-28'
+- type: repealed_by
+  target: pt:dre:475371:por
+  label: "Revogados os n.ºs 7, 8, 9 e 10 do artigo 9.º, na redacção do Decreto Regulamentar n.º 37/91, de 23 de Julho, pelo\
+    \ DEC LEI.151/95.24.06.1995.MPLAT, DR.IS-A [144] de 24.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-1995-475371
+  date: '1995-06-24'
+- type: repealed_by
+  target: pt:dre:608704:por
+  label: "Revogado, a partir de 30.05.2009, o presente diploma, na redacção do DR 37/91, de 23-Jul, DR 33/92, de 02-Dez, e\
+    \ Dec Lei 151/95, de 24-Jun, pelo DEC LEI.107/2009.15.05.2009.MAOTDR, DR.IS [94] de 15.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2009-608704
+  date: '2009-05-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:54Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +154,7 @@ Assim, ao abrigo do artigo 8.º do [Decreto-Lei n.º 502/71](https://diariodarep
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As albufeiras de águas públicas de serviço público classificam-se, para efeitos da aplicação do [Decreto-Lei n.º 502/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1971-631657), de 18 de Novembro, em albufeiras protegidas, condicionadas, de utilização limitada e de utilização livre.
+Artigo 1.º - 1 - As albufeiras de águas públicas de serviço público classificam-se, para efeitos da aplicação do [Decreto-Lei n.º 502/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1971-631657), de 18 de Novembro, em albufeiras protegidas, condicionadas, de utilização limitada e de utilização livre.
 
 2 - Consideram-se como albufeiras protegidas aquelas cuja água é ou se prevê que venha a ser utilizada para abastecimento de populações e aquelas cuja protecção é ditada por razões de defesa ecológica.
 
@@ -111,7 +164,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 5 - Consideram-se como albufeiras de utilização livre aquelas que dispõem de condições que permitem, sem prejuízo dos fins principais, a coexistência das diversas modalidades recreativas.
 
-###### Art. 2.º - 1 - Para os efeitos referidos no [Decreto-Lei n.º 502/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1971-631657), de 18 de Novembro, são considerados os seguintes grupos de actividades secundárias nas albufeiras de águas públicas e serviço público:
+Art. 2.º - 1 - Para os efeitos referidos no [Decreto-Lei n.º 502/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1971-631657), de 18 de Novembro, são considerados os seguintes grupos de actividades secundárias nas albufeiras de águas públicas e serviço público:
 
 a) Pesca;
 
@@ -127,7 +180,7 @@ e) Competições desportivas.
 
 3 - No que respeita à navegação a motor, em caso algum será admitida a utilização de motores com potência superior a 110 kW (149,7 cv).
 
-###### Art. 3.º - 1 - Em cada albufeira de águas públicas classificada, e em relação a cada um dos grupos de actividades secundárias, referidos no n.º 1 do artigo anterior, é atribuído um índice de utilização com o seguinte significado:
+Art. 3.º - 1 - Em cada albufeira de águas públicas classificada, e em relação a cada um dos grupos de actividades secundárias, referidos no n.º 1 do artigo anterior, é atribuído um índice de utilização com o seguinte significado:
 
 0 - Actividades não permitidas;
 
@@ -147,11 +200,11 @@ d) Relativamente às competições desportivas, que estas só serão permitidas 
 
 3 - O índice duplo 0-1, relativamente às competições desportivas, significa que serão interditas as competições desportivas com barcos a motor e que as restantes poderão ser autorizadas com as restrições cuja imposição venha a ser considerada conveniente.
 
-###### Art. 4.º - 1 - A classificação de todas as albufeiras de águas públicas de serviço público, que ficam desde já abrangidas pelo regime previsto no presente diploma, com indicação da respectiva classe e dos índices de utilização para cada actividade secundária, consta do mapa anexo, que faz parte integrante do presente decreto regulamentar.
+Art. 4.º - 1 - A classificação de todas as albufeiras de águas públicas de serviço público, que ficam desde já abrangidas pelo regime previsto no presente diploma, com indicação da respectiva classe e dos índices de utilização para cada actividade secundária, consta do mapa anexo, que faz parte integrante do presente decreto regulamentar.
 
 2 - O regime consagrado no presente diploma poderá vir a ser tornado extensivo a outras albufeiras por portaria do Ministro do Planeamento e da Administração do Território ou por portaria conjunta deste e dos ministros competentes em razão da matéria.
 
-###### Art. 5.º Independentemente dos condicionalismos estabelecidos pelo presente diploma, as actividades secundárias nas albufeiras de águas públicas continuam sujeitas:
+Art. 5.º Independentemente dos condicionalismos estabelecidos pelo presente diploma, as actividades secundárias nas albufeiras de águas públicas continuam sujeitas:
 
 a) Às autorizações e licenças impostas para o seu exercício pelas leis e regulamentos vigentes ou que venham a ser promulgados;
 
@@ -159,9 +212,9 @@ b) À interdição da pesca, mesmo da realizada a partir das margens, nas zonas 
 
 c) A quaisquer restrições que, por razão de exploração das albufeiras ou por quaisquer outras causas acidentais, sejam determinadas pelos serviços com jurisdição na utilização das albufeiras, nomeadamente a Direcção-Geral dos Recursos Naturais.
 
-###### Art. 6.º Não fica abrangida pelos efeitos decorrentes da classificação da albufeira a navegação de serviço, ou seja, a que haja de ser feita pelas entidades fiscalizadoras, exploradoras ou concessionárias das albufeiras, sob sua responsabilidade, para efeitos do serviço de exploração ou da conservação dos órgãos dessas albufeiras.
+Art. 6.º Não fica abrangida pelos efeitos decorrentes da classificação da albufeira a navegação de serviço, ou seja, a que haja de ser feita pelas entidades fiscalizadoras, exploradoras ou concessionárias das albufeiras, sob sua responsabilidade, para efeitos do serviço de exploração ou da conservação dos órgãos dessas albufeiras.
 
-###### Art. 7.º - 1 - As zonas de protecção das albufeiras de águas públicas classificadas como protegidas, de utilização limitada e de utilização livre terão a largura de 500 m, contada a partir da linha do nível de pleno armazenamento (NPA) e medida na horizontal.
+Art. 7.º - 1 - As zonas de protecção das albufeiras de águas públicas classificadas como protegidas, de utilização limitada e de utilização livre terão a largura de 500 m, contada a partir da linha do nível de pleno armazenamento (NPA) e medida na horizontal.
 
 2 - As zonas de protecção das albufeiras de águas públicas classificadas como condicionadas terão uma largura de 200 m, a contar da linha do NPA.
 
@@ -171,7 +224,7 @@ c) A quaisquer restrições que, por razão de exploração das albufeiras ou po
 
 5 - As zonas de respeito das barragens e dos órgãos de segurança e utilização das albufeiras de águas públicas serão estabelecidas por despacho ministerial e farão parte integrante das zonas de protecção das albufeiras classificadas, ficando submetidas aos condicionalismos destas, sem prejuízo dos que possam vir a ser fixados especificamente para essas zonas de respeito.
 
-###### Art. 8.º Nas zonas de protecção das albufeiras de águas públicas classificadas ficam proibidos:
+Art. 8.º Nas zonas de protecção das albufeiras de águas públicas classificadas ficam proibidos:
 
 a) O estabelecimento de indústrias que produzam ou usem produtos químicos tóxicos ou com elevados teores de fósforo ou de azoto;
 
@@ -187,22 +240,22 @@ f) O lançamento de excedentes de pesticidas ou de caldas pesticidas e de águas
 
 g) A descarga, ou infiltração no terreno, de esgotos de qualquer natureza, não devidamente tratados e, mesmo tratados, quando seja viável o seu lançamento a jusante da albufeira ou quando excedam determinados valores, a fixar pelos serviços competentes, além de outros parâmetros, dos teores de fósforo, azoto, carbono, mercúrio e outros metais pesados (como o chumbo e o cádmio) e pesticidas.
 
-###### Art. 9.º - 1 - Cada albufeira classificada será objecto de um ordenamento territorial da respectiva zona de protecção, no qual serão especificados os locais de proibição ou de condicionamento da construção habitacional, industrial ou recreativa.
+Art. 9.º - 1 - Cada albufeira classificada será objecto de um ordenamento territorial da respectiva zona de protecção, no qual serão especificados os locais de proibição ou de condicionamento da construção habitacional, industrial ou recreativa.
 
 2 - As edificações a implantar na zona de protecção concentrar-se-ão fora da zona reservada e dependerão de licença a conceder pela Direcção-Geral dos Recursos Naturais mediante parecer da Direcção-Geral do Ordenamento e da Direcção-Geral do Planeamento e da Agricultura, conforme o disposto no [Decreto-Lei n.º 321/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1983-452965), de 5 de Julho, e no [Decreto-Lei n.º 451/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1982-377482), de 16 de Novembro, respectivamente.
 
-###### Art. 10.º O presente diploma entra em vigor 90 dias após a sua publicação.
+Art. 10.º O presente diploma entra em vigor 90 dias após a sua publicação.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 31 de Dezembro de 1987.**
+Promulgado em 31 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Dezembro de 1987.**
+Referendado em 31 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/01/01600/02190222.pdf))](https://files.diariodarepublica.pt/1s/1988/01/01600/02190222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/01/01600/02190222.pdf)

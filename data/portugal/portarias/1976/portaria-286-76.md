@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/286-1976-427800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T05:00:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58d99b54d0c4e5d2470ef285b1bfa1a8c0db531dda8b01f57c407c00ce38e0b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9aeb5d69fc46bbd9022b8738cd9e325ebfba35a7c104b65ca44822269ee5b9cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:00:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ilhas Adjacentes
+- Pessoal do MAR
+- Pilotagem
+- Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e das Ilhas Adjacentes
+- Taxa
+relationships:
+- type: cites
+  target: pt:dre:312232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353078:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:00:50Z'
   warnings: []
   errors: []
 ---
@@ -97,6 +110,6 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha 
 
 O corpo do artigo 108.º do Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e das Ilhas Adjacentes, aprovado pelo [Decreto n.º 41668](https://diariodarepublica.pt/dr/detalhe/decreto/41668-1958-353078), de 7 de Junho de 1958, passa a ter a seguinte redacção:
 
-###### Art. 108.º Para a cobrança das diversas taxas estabelecidas por este Regulamento usar-se-ão recibos assinados pela comissão administrativa da corporação ou pelo chefe da secção local, podendo a entidade responsável pelo pagamento recorrer do cálculo da quantia a cobrar para o director-geral do Pessoal do Mar, que decidirá depois de ouvido parecer, nomeadamente, da Comissão Central da Corporação Geral dos Pilotos.
+Art. 108.º Para a cobrança das diversas taxas estabelecidas por este Regulamento usar-se-ão recibos assinados pela comissão administrativa da corporação ou pelo chefe da secção local, podendo a entidade responsável pelo pagamento recorrer do cálculo da quantia a cobrar para o director-geral do Pessoal do Mar, que decidirá depois de ouvido parecer, nomeadamente, da Comissão Central da Corporação Geral dos Pilotos.
 
 Ministério dos Transportes e Comunicações, 19 de Abril de 1976. - O Secretário de Estado da Marinha Mercante, Fernando Grilo de Lima Pinheiro.

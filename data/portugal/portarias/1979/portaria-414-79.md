@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/414-1979-377700
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T05:58:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f5d9818d4bc42fc279deb3aaa34085afe047e6362511d62dcf817054f7c18db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22bb3af5b82ff46f2646b46621df433d18ad21d8142b3732b4778c31ff5d8e8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ANO Propedêutico
+- Apoio Pedagógico
+- Monitor
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:58:10Z'
   warnings: []
   errors: []
 ---
@@ -136,11 +139,11 @@ b) Para as vagas não preenchidas entre 15 e 22 de Setembro estará aberto concu
 
 Ministério da Educação e Investigação Científica, 19 de Julho de 1979. - O Ministro da Educação e Investigação Científica, Luís Francisco Valente de Oliveira.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/18400/18751878.pdf))](https://files.diariodarepublica.pt/1s/1979/08/18400/18751878.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/18400/18751878.pdf)
 
 ## ANEXO II — Número máximo de monitores por escola (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/18400/18751878.pdf))](https://files.diariodarepublica.pt/1s/1979/08/18400/18751878.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/18400/18751878.pdf)
 
 (nota a) De acordo com critério a definir pela Comissão Pedagógico-Científica do Ano Propedêutico.
 
@@ -154,4 +157,4 @@ O recrutamento de monitores, no ano lectivo de 1979-1980, deverá ter em conside
 
 3 - A prática na docência dos cursos complementares do ensino secundário.
 
-**O Ministro da Educação e Investigação Científica, Luís Francisco Valente de Oliveira.**
+O Ministro da Educação e Investigação Científica, Luís Francisco Valente de Oliveira.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/055a00/09981005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/54/1997/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1997-515444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e92507e154003202833db9d0c9fe12e013381ed5a111cc24b4e27c62023e7879
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09975d4d7083e4865d1de9134eb2e8a788e5a2bc41d84306cfbbbc24bd138aef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assistência Religiosa
 - Forças Armadas
 - Orgânica
 - Quadro de Pessoal
-- Assistência Religiosa
 - Serviço de Assistência Religiosa das Forças Armadas
 relationships:
 - type: amended_by
@@ -99,16 +99,81 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/22/1991/06/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/22/1991/06/19/p/dre
+- type: cites
+  target: pt:dre:275443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659544:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490421:por
+  label: "Revogado, a partir de 28.09.2009, pelo DEC LEI.251/2009.23.09.2009.MDN, DR.IS [185] de 23.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-2009-490421
+  date: '2009-09-23'
 article_structure:
-  article_count: 42
+  article_count: 29
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:27Z'
   warnings: []
   errors: []
 ---
@@ -161,11 +226,15 @@ e) Pelos diáconos permanentes.
 
 7 - Excepcionalmente, poderão ser designados diáconos permanentes, ordenados ou a ordenar, de entre os quadros do diaconado permanente das dioceses portuguesas, ouvidos o bispo da diocese de origem e o respectivo ordinário castrense.
 
-###### Artigo 4.º — Dependência
+Artigo 4.º
+
+Dependência
 
 A chefia do Serviço de Assistência Religiosa das Forças Armadas (SARFA) funciona junto da Direcção-Geral de Pessoal do Ministério da Defesa Nacional para efeitos logísticos e, no aspecto canónico, depende do ordinário castrense, do qual constitui a respectiva cúria.
 
-###### Artigo 5.º — Constituição da chefia do Serviço de Assistência Religiosa das Forças Armadas
+Artigo 5.º
+
+Constituição da chefia do Serviço de Assistência Religiosa das Forças Armadas
 
 1 - ...
 
@@ -177,7 +246,9 @@ A chefia do Serviço de Assistência Religiosa das Forças Armadas (SARFA) funci
 
 5 - O capelão-adjunto e o secretário da chefia do SARFA são nomeados pelo Ministro da Defesa Nacional, sob proposta do ordinário castrense, ouvido o chefe do estado-maior (CEM) do ramo respectivo.
 
-###### Artigo 6.º — Competência
+Artigo 6.º
+
+Competência
 
 1 - A chefia do SARFA superintende em todos os assuntos relativos à assistência religiosa nas Forças Armadas, competindo-lhe, nomeadamente:
 
@@ -211,7 +282,9 @@ n) Assegurar os procedimentos administrativos relativos às deslocações com o 
 
 2 - Nos aspectos não estritamente eclesiásticos, as relações da chefia do SARFA com as chefias dos serviços processam-se pelas vias normais das relações entre a Direcção-Geral de Pessoal do Ministério da Defesa Nacional e os três ramos.
 
-###### Artigo 7.º — Conselho do Serviço de Assistência Religiosa
+Artigo 7.º
+
+Conselho do Serviço de Assistência Religiosa
 
 1 - A chefia do SARFA é assistida por um Conselho do Serviço de Assistência Religiosa, do qual fazem parte, além do capelão-mor das Forças Armadas, o capelão-adjunto, os capelães-chefes dos três ramos das Forças Armadas e quatro representantes dos capelães militares titulares, eleitos por estes trienalmente, cabendo dois representantes ao Exército, um à Armada e um à Força Aérea.
 
@@ -229,13 +302,17 @@ d) Passagem à reserva de disponibilidade e licenciamento dos capelães militare
 
 e) Transferências dos capelães militares de um ramo para o outro.
 
-###### Artigo 9.º — Competência do Serviço de Assistência Religiosa dos ramos
+Artigo 9.º
+
+Competência do Serviço de Assistência Religiosa dos ramos
 
 1 - ...
 
 2 - As competências dos órgãos regionais de assistência religiosa, onde os houver, serão atribuídas por despacho do Ministro da Defesa Nacional, ouvido o CCEM, segundo proposta da chefia do SARFA.
 
-###### Artigo 10.º — Capelães militares eventuais
+Artigo 10.º
+
+Capelães militares eventuais
 
 1 - Os sacerdotes abrangidos pelas disposições da Lei do Serviço Militar e do seu Regulamento que optaram pelo Serviço de Assistência Religiosa (SAR) são considerados capelães militares eventuais e oficiais graduados, nos termos deste diploma.
 
@@ -249,13 +326,17 @@ b) Não havendo apresentados em número suficiente, por escolha do ordinário ca
 
 4 - Os capelães militares eventuais podem, quando necessário, ser autorizados a manter-se na efectividade de serviço após o curso de formação de capelães, desde que tenham avaliações militares e eclesiásticas favoráveis, sendo o serviço nestas condições prestado nos regimes de voluntariado (RV) e de contrato (RC).
 
-###### Artigo 11.º — Deveres e direitos
+Artigo 11.º
+
+Deveres e direitos
 
 1 - Sem prejuízo dos deveres e direitos a que estão sujeitos sob o ponto de vista canónico, o capelão-mor e os capelães militares titulares detêm, genericamente, os deveres e direitos dos militares dos quadros permanentes das Forças Armadas e os capelães militares eventuais os deveres e direitos dos militares em RV ou em RC, conforme a forma de prestação de serviço em que se encontram.
 
 2 - O capelão-mor e os capelães militares titulares, quando reformados, mantêm, no âmbito militar, os deveres e direitos próprios dos oficiais dos quadros permanentes em idêntica situação.
 
-###### Artigo 15.º — Graduações
+Artigo 15.º
+
+Graduações
 
 1 - Os capelães militares eventuais, ao ingressarem no RV, mantêm as graduações previstas no n.º 2 do artigo 13.º
 
@@ -277,7 +358,9 @@ d) Capitão-de-fragata ou tenente-coronel, ao perfazerem 20 anos de serviço efe
 
 6 - Além das condições de tempo referidas no n.º 1, a graduação dos capelães depende de avaliações favoráveis, militares e eclesiásticas, e de vacatura no quadro.
 
-###### Artigo 16.º — Tempo de serviço
+Artigo 16.º
+
+Tempo de serviço
 
 1 - ...
 
@@ -285,7 +368,9 @@ d) Capitão-de-fragata ou tenente-coronel, ao perfazerem 20 anos de serviço efe
 
 3 - O chefe do SARFA, quando nomeado para o efeito, é graduado em contra-almirante ou brigadeiro e poderá permanecer ao serviço até atingir 64 anos de idade.
 
-###### Artigo 21.º — Remuneração
+Artigo 21.º
+
+Remuneração
 
 1 - Ao capelão-mor e aos capelães militares titulares é aplicável o regime remuneratório dos oficiais dos quadros permanentes, percebendo remunerações inerentes ao posto e respectiva progressão.
 
@@ -301,13 +386,17 @@ d) Capitão-de-fragata ou tenente-coronel, ao perfazerem 20 anos de serviço efe
 
 7 - Quando a graduação em contra-almirante ou brigadeiro recair num sacerdote que não tenha sido capelão titular, a contagem de tempo para o efeito de reforma inicia-se à data do despacho da nomeação, data a partir do qual começa a descontar para a Caixa Geral de Aposentações.
 
-###### Artigo 22.º — Capelães civis contratados
+Artigo 22.º
+
+Capelães civis contratados
 
 1 - Os CEM dos ramos podem contratar sacerdotes como capelães civis, de acordo com o referido no n.º 5 do artigo 2.º
 
 2 - ...
 
-###### Artigo 23.º — Dependência disciplinar
+Artigo 23.º
+
+Dependência disciplinar
 
 1 - ...
 
@@ -315,7 +404,9 @@ d) Capitão-de-fragata ou tenente-coronel, ao perfazerem 20 anos de serviço efe
 
 3 - Os capelães militares, quando forem atingidos por qualquer acto atentatório da ética ou disciplina militar, informarão o comando, direcção ou chefia de quem directamente dependem, que tomarão as providências que as circunstâncias exigirem.
 
-###### Artigo 24.º — Quadro de pessoal
+Artigo 24.º
+
+Quadro de pessoal
 
 O quadro de pessoal capelão do SARFA, incluindo o capelão-mor, chefia do SARFA e dos três ramos das Forças Armadas, é aprovado por portaria conjunta dos Ministros da Defesa Nacional, das Finanças e Adjunto.»
 
@@ -329,15 +420,15 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 1996. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 14 de Fevereiro de 1997.**
+Promulgado em 14 de Fevereiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Fevereiro de 1997.**
+Referendado em 18 de Fevereiro de 1997.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.
 
 ## ANEXO — [Decreto-Lei n.º 93/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1991-484415), de 26 de Fevereiro
 

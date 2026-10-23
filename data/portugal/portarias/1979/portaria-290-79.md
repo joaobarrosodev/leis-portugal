@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/06/14200/13611362.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/290-1979-381107
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T05:55:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32933add2e865da7d568f7faee848c4431f70f958990bd4a0db28563d942fb41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b05aa6d7a7896221771923e47265b8364bb51b572de26ca0aeacaf10f2ad42a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:55:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Delegação Permanente de Portugal Junto da OCDE
+- Paris
 relationships:
 - type: amended_by
   target: pt:dre:443757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:367226:por
+  label: "Alterado o n.º 1 do presente diploma, pela PORT.633/79.30.11.1979.PCM, DR.IS [277] de 30.11.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/633-1979-367226
+  date: '1979-11-30'
+- type: amended_by
+  target: pt:dre:461640:por
+  label: "Alterado o nº 1, na redacção da Port 633/79, de 30-Nov, pela PORT.748/80.29.09.1980.PCM, DR.IS [225] de 29.09.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/748-1980-461640
+  date: '1980-09-29'
+- type: repealed_by
+  target: pt:dre:443757:por
+  label: "Revogada pela PORT.972/83.12.11.1983.PCM, DR.IS [261] de 12.11.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/972-1983-443757
+  date: '1983-11-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:55:03Z'
   warnings: []
   errors: []
 ---

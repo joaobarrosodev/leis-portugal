@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/223a00/51525153.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/242/2000/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2000-560266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2050b0976543a6191efc4fcb84927cdfcc2ffb5ebf7572cc1fdcb5b39bfd21ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33ec008f291567e23d2be4e32f4aa37af8382c156559e51325a1eab3f1d1bc9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Indústria Farmacêutica
+- Comércio
 - Comparticipação do Estado
+- Indústria Farmacêutica
 - Medicamento
 - Preço
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:540387:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:223427:por
+  label: "Alterado o art. 2º do Dec Lei 72/91 de 08-Fev, com a redacção conferida pelo presente diploma, pelo DEC LEI.90/2004.20.04.2004.MS,\
+    \ DR.IS-A [93] de 20.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2004-223427
+  date: '2004-04-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/100/1994/04/19/p/dre
   label: null
@@ -112,16 +118,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/623/1992/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/623/1992/07/01/p/dre
+- type: cites
+  target: pt:dre:223070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668482:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:223251:por
+  label: "Revogadas as als. c) e d) do art. 2.º do Dec Lei 72/91, de 08-Fev, alterado no presente diploma e pelos Dec Lei\
+    \ 291/98, de 17-Set, Dec Lei 90/2004, de 20-Abr e Dec Lei 249/93, de 09-Set, pelo DEC LEI.95/2004.22.04.2004.MS, DR.IS-A\
+    \ [95] de 22.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-2004-223251
+  date: '2004-04-22'
+- type: repealed_by
+  target: pt:dre:540387:por
+  label: "Revogado pelo Dec Lei.176/2006.30.08.2006.MS, DR.IS [167] de 30.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-2006-540387
+  date: '2006-08-30'
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:37Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +242,9 @@ l) Denominação comum internacional (DCI): designação adoptada ou proposta pe
 
 m) Nome genérico: designação pela qual a substância activa de um medicamento é conhecida, que não corresponde a uma DCI aprovada ou recomendada e não é objecto de registo de marca ou de nome.
 
-###### Artigo 19.º — Definição
+Artigo 19.º
+
+Definição
 
 1 - São considerados medicamentos genéricos aqueles que reúnam cumulativamente as seguintes condições:
 
@@ -192,7 +256,9 @@ c) Não se invocarem a seu favor indicações terapêuticas diferentes relativam
 
 2 - A exigência de demonstração da bioequivalência, para a concessão da autorização de introdução no mercado de medicamentos genéricos, segue estritamente o disposto nas normas comunitárias sobre a matéria.
 
-###### Artigo 20.º — Autorização
+Artigo 20.º
+
+Autorização
 
 1 - A autorização de introdução no mercado de medicamentos genéricos está sujeita ao disposto na secção I deste capítulo, com as alterações decorrentes do estabelecido no artigo anterior.
 
@@ -200,7 +266,9 @@ c) Não se invocarem a seu favor indicações terapêuticas diferentes relativam
 
 3 - Os medicamentos genéricos são comparticipáveis de acordo com o disposto na legislação em vigor sobre comparticipação.
 
-###### Artigo 21.º — Identificação, prescrição e dispensa dos medicamentos genéricos
+Artigo 21.º
+
+Identificação, prescrição e dispensa dos medicamentos genéricos
 
 1 - Os medicamentos genéricos são identificados pela denominação comum internacional das substâncias activas, seguida do nome do titular da autorização de introdução no mercado, da dosagem e da forma farmacêutica e da sigla «MG», inserida na embalagem exterior do medicamento.
 
@@ -210,7 +278,9 @@ c) Não se invocarem a seu favor indicações terapêuticas diferentes relativam
 
 4 - No acto de dispensa do medicamento, quando este apenas é indicado pela denominação comum internacional da substância activa ou pelo nome genérico, o farmacêutico deverá fornecer o medicamento genérico de menor preço.
 
-###### Artigo 23.º — Regime de preços
+Artigo 23.º
+
+Regime de preços
 
 1 - O regime de preços dos medicamentos genéricos é aprovado por portaria conjunta dos Ministros da Economia e da Saúde.
 
@@ -222,12 +292,12 @@ c) Não se invocarem a seu favor indicações terapêuticas diferentes relativam
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 2000. - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura - Maria Manuela de Brito Arcanjo Marques da Costa.
 
-**Promulgado em 11 de Setembro de 2000.**
+Promulgado em 11 de Setembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Setembro de 2000.**
+Referendado em 14 de Setembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

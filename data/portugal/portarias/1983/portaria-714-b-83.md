@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 142/1983, 1º Suplemento, Série I de 1983-06-23
   number: '142'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2264-(3) a 2264-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14201/00030004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/714-b-1983-627019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T07:47:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b20984b800b2ea9a41c363de0bacd4932802c0498445e04f97bac4598290d7c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ba5d2c1336c766bf3414d444a3c22d29d0df3df62283a42aae5546aacf10913
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:47:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto do Azeite e Produtos Oleaginosos
+- Margarina
+- Oleaginosas
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:660544:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:144404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:660544:por
+  label: "Revogada pela PORT.302-C/84.19.05.1984.MFP, DR.IS [116]Supl de 19.05.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/302-c-1984-660544
+  date: '1984-05-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:47:03Z'
   warnings: []
   errors: []
 ---
@@ -143,10 +176,10 @@ De palmiste ... 21$70
 
 Ministérios das Finanças e do Plano, da Agricultura, Florestas e Alimentação e do Comércio e Turismo.
 
-**Assinada em 23 de Junho de 1983.**
+Assinada em 23 de Junho de 1983.
 
-**O Ministro das Finanças e do Plano, Hernâni Rodrigues Lopes. - O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa. - O Ministro do Comércio e Turismo, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro das Finanças e do Plano, Hernâni Rodrigues Lopes. - O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa. - O Ministro do Comércio e Turismo, Álvaro Roque de Pinho Bissaia Barreto.
 
 ## ANEXO — Características das sementes de oleaginosas a que se refere o n.º 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/14201/00030004.pdf))](https://files.diariodarepublica.pt/1s/1983/06/14201/00030004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14201/00030004.pdf)

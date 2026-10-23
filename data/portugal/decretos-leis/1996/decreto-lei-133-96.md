@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/133/1996/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1996-405374
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:43:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8017944490f890c90b16ef8e41c224d28533cec4a07d6e15b54f072b868a8c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b361a7dcde9f087cdd1adbc5e9687a1e639e6930a3e02db49177d083cafc72a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:43:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,9 +70,9 @@ subjects:
 - Advogado
 - Ajuda Judicial
 - Cofre Geral dos Tribunais
+- Custas Judiciais
 - Prestação de Serviços
 - Solicitador
-- Custas Judiciais
 - TAXA de Prestação de Serviços
 - Tribunal
 relationships:
@@ -80,16 +80,30 @@ relationships:
   target: pt:dre:390246:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:390246:por
+  label: "Alterados os arts. 11º e 17º do Dec Lei 391/88 de 26-Out, na redação do presente diploma, pelo DEC LEI.231/99.24.06.1999.MJ,\
+    \ DR.IS-A [145] de 24.06.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-1999-390246
+  date: '1999-06-24'
+- type: cites
+  target: pt:dre:354485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670072:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:43:57Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +132,7 @@ Os artigos 11.º e 17.º do [Decreto-Lei n.º 391/88](https://diariodarepublica.
 
 Os honorários atribuídos aos advogados, advogados estagiários e solicitadores pelos serviços que prestem no âmbito do apoio judiciário, bem como as despesas que se revelem justificadas por eles realizadas, devidamente discriminadas e comprovadas, são pagos, independentemente de cobrança de custas, pelo Cofre Geral dos Tribunais, através das suas delegações junto dos tribunais em que os serviços hajam sido prestados.
 
-###### Artigo 17.º
+Artigo 17.º
 
 1 - Para pagamento das quantias fixadas ao advogado, advogado estagiário ou solicitador, o juízo ou secção do processo deverá elaborar, independentemente de recurso, uma nota, em duplicado, onde mencione a natureza e número do processo, juízo ou secção, nome das partes e do patrono nomeado e o montante que lhe foi atribuído, sendo o original entregue na secção central e o duplicado junto ao respectivo processo.
 
@@ -134,12 +148,12 @@ O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros, 27 de Junho de 1996. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 25 de Julho de 1996.**
+Promulgado em 25 de Julho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Julho de 1996.**
+Referendado em 27 de Julho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

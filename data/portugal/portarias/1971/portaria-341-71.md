@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/341-1971-643140
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d354f9aefa0f18fc3464fb00e5cc87b77b81d8e33a3e13c5c6e2c68ff28599d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c238e0c0ad6d8b9e69c79c6c8ae338bd73027afe867a76804fd581e5127682bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:148460:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:37Z'
   warnings: []
   errors: []
 ---
@@ -96,4 +100,4 @@ Os segundos-sargentos do Exército que devam ser promovidos nos termos do artigo
 
 3.º Classificação obtida nos cursos, para os segundos-sargentos do serviço de material do Exército, bem como as segundos-sargentos do ramo manutenção das transmissões, oriundos do serviço de material, aprovados em cursos terminados até 31 de Dezembro de 1969.
 
-**O Ministro do Exército, Horácio José de Sá Viana Rebelo.**
+O Ministro do Exército, Horácio José de Sá Viana Rebelo.

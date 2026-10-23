@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/62/1991/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/62-1991-308334
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68cc9040cd0e7fa70dda68681b0ef864a8e7636c76f0e41d68b945799e494c6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91eed6bde0b7676f28cda5788a1c17fc01d74d1ca9bb5fef5864fdce3e824585
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Espetáculos e Divertimentos Públicos
-- Tauromaquia
 - Regulamento
+- Tauromaquia
 relationships:
 - type: amended_by
   target: pt:dre:67059137:por
@@ -77,16 +77,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/306/1991/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/306/1991/08/17/p/dre
+- type: cites
+  target: pt:dre:439639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674436:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:25676884:por
+  label: "Revogado, a partir de 10.08.2014, com exceção dos arts 48.º, 49.º e 54.º a 62.º do Regulamento do Espetáculo Tauromáquico\
+    \ anexo ao presente diploma, pelo DEC LEI.89/2014.11.06.2014.PCM, DR.IS [111] de 11.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-2014-25676884
+  date: '2014-06-11'
+- type: repealed_by
+  target: pt:dre:67059137:por
+  label: Revogados os arts. 48.º, 49.º e 54.º a 62.º do Regulamento do Espetáculo Tauromáquico pelo(a) Lei n.º 31/2015 - Diário
+    da República n.º 79/2015, Série I de 2015-04-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-2015-67059137
+  date: '2015-04-23'
 article_structure:
-  article_count: 103
+  article_count: 102
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:34Z'
   warnings: []
   errors: []
 ---
@@ -107,21 +127,21 @@ Assim:
 
 Ao abrigo do disposto no artigo 6.º do [Decreto-Lei n.º 306/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1991-674436), de 17 de Agosto, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Regulamento do Espectáculo Tauromáquico, anexo ao presente diploma e que dele faz parte integrante.
+Artigo único. É aprovado o Regulamento do Espectáculo Tauromáquico, anexo ao presente diploma e que dele faz parte integrante.
 
 Presidência do Conselho de Ministros, 20 de Junho de 1991.
 
 Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira - Álvaro José Brilhante Laborinho Lúcio - Arlindo Marques da Cunha - Arlindo Gomes de Carvalho - José Albino da Silva Peneda.
 
-**Promulgado em 8 de Novembro de 1991.**
+Promulgado em 8 de Novembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Novembro de 1991.**
+Referendado em 18 de Novembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Regulamento do Espectáculo Tauromáquico
 

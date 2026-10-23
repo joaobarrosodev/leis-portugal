@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/239-1975-161915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T04:41:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc0cc4570481b4c5c6ee502ed852086295d703d6d807ef66e60223daeb0bb4a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 920ee32bf56a4e1c113259a4e49046632b0cbc0187e74fb4963670ba03dcefc0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:41:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,29 @@ relationships:
   target: pt:dre:427161:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:336491:por
+  label: "Determinada a transferência para o conselho administrativo da Comissão criada no presente diploma das responsabilidades\
+    \ do conselho administrativo do ex-Comando Naval de Cabo Verde pelo DEC LEI.401/75.25.07.1975.CR, DG.IS [170] de 25.07.1975\0\
+    5\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/401-1975-336491
+  date: '1975-07-25'
+- type: amended_by
+  target: pt:dre:427161:por
+  label: Extinta a partir de 01.05.1976 a Comissão Coordenadora de Reintegração (Cabo Verde) e respectivo conselho administrativo
+    pelo(a) Portaria n.º 335/76 - Diário da República n.º 132/1976, Série I de 1976-06-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/335-1976-427161
+  date: '1976-06-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:41:47Z'
   warnings: []
   errors: []
 ---

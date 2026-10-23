@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/23000/0000300004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/168/2019/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2019-126731018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a43b42b7089421220db94062d1434a98e0119dfc94606a9b88a294e4b8fc732
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed2d90331a585b6a5126a449a9702c9e9035d0d4c641e68f927814be6f92aa1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Ajuste Direto
 - Aquisição de Bens e Serviços
-- Proteção Civil
-- Ministério da Administração Interna
-- Empreitada de Obras Públicas
 - Catástrofe
+- Empreitada de Obras Públicas
+- Ministério da Administração Interna
 - Ministério das Finanças
-- Publicitação
 - Portal dos Contratos Públicos
-- Açores
-- Temporal
+- Proteção Civil
+- Publicitação
 - Situação de Calamidade
+- Temporal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
@@ -99,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/180/2019/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/180/2019/11/08/p/dre
+- type: cites
+  target: pt:dre:125902657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69927759:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:39Z'
   warnings: []
   errors: []
 ---
@@ -169,12 +189,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e v
 
 Visto e aprovado em Conselho de Ministros de 21 de novembro de 2019. - António Luís Santos da Costa - Álvaro António da Costa Novo - Eduardo Arménio do Nascimento Cabrita.
 
-**Promulgado em 26 de novembro de 2019.**
+Promulgado em 26 de novembro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de novembro de 2019.**
+Referendado em 27 de novembro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112802539

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/12/25000/0876508766.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/324/2009/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2009-482153
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea4ab15bc62d5a7f720a8de0e4fd9b4c44116fb13ca4c6e9334720ba5b9fd7a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff3b7d05167e8aa2d8d165944505a80eeed06eaef4908bab44eb7fc8029eb96d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Desempregado
+- Desemprego
 - Prazo de Garantia
 - Prestações da Segurança Social
 - Prestações de Desemprego
-- Desemprego
 - Proteção Social
 - Segurança Social
 - Subsídio de Desemprego
@@ -86,16 +86,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:611166:por
+  label: "Rectificado o art. 3º [ na parte que se refere ao Decreto-Lei n.º 220/2006, de 3 de Novembro ], pela DECL-RECT.9/2010.26.02.2010.PCM,\
+    \ DR.IS [40] de 26.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/9-2010-611166
+  date: '2010-02-26'
+- type: repealed_by
+  target: pt:dre:335209:por
+  label: "Revogado o presente diploma, rectificado pela Decl-Rect 9/2010, de 26-Fev, pelo DEC LEI.77/2010.24.06.2010.MTSSO,\
+    \ DR.IS [121] de 24.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2010-335209
+  date: '2010-06-24'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:30Z'
   warnings: []
   errors: []
 ---
@@ -146,12 +166,12 @@ O presente decreto-lei vigora de 1 de Janeiro de 2010 a 31 de Dezembro de 2010.
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria Helena dos Santos André.
 
-**Promulgado em 21 de Dezembro de 2009.**
+Promulgado em 21 de Dezembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de Dezembro de 2009.**
+Referendado em 23 de Dezembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

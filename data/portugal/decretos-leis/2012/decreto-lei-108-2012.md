@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/108/2012/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2012-551980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03edd36a35772b9b4519346715244155939e9b87102e5ef769a51767b940e162
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88dbddbfdc504780258c6700596951b448468e205fa126ce10b1e8dad7e09e37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
 - Apoio Administrativo
 - Apoio Técnico
 - Conselho Económico e Social
 - Pessoal de Gabinete
 - Presidente
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:122289406:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:122289406:por
+  label: Alterado, com efeitos a 01.06.2019, o art. 14.º e revogados os n.ºs 3,4,5,7,8 e 9 do art. 14.º, bem como o quadro
+    anexo do Dec Lei 90/92, de 21-mai, na redacção do presente diploma, pelo(a) Decreto-Lei n.º 61/2019 - Diário da República
+    n.º 92/2019, Série I de 2019-05-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2019-122289406
+  date: '2019-05-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/1995/05/20/p/dre
   label: null
@@ -93,16 +100,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:503655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674430:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:27Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +160,9 @@ Serviços de apoio técnico e administrativo
 
 O CES dispõe de serviços de apoio técnico e administrativo, regendo-se o respetivo pessoal pelo Regime do Contrato de Trabalho em Funções Públicas.
 
-###### Artigo 14.º — Gabinete do presidente
+Artigo 14.º
+
+Gabinete do presidente
 
 1 - ...
 
@@ -163,12 +192,12 @@ O disposto no presente diploma é aplicável ao pessoal do gabinete do president
 
 Visto e aprovado em Conselho de Ministros de 19 de abril de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira.
 
-**Promulgado em 14 de maio de 2012.**
+Promulgado em 14 de maio de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de maio de 2012.**
+Referendado em 15 de maio de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/115/2009/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/115-2009-482649
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T05:03:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90e3d99f1c445df3555cc739877d564d790f0f20626530a20ff5a9eb11bd314f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea79e4a766a5185d597788099cc9615486a014f6269123396fd315c3488cb1cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:03:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exoneração
 - Comemorações do Centenário da República
 - Comissão
+- Exoneração
 - Vogal
 relationships:
 - type: cites
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/43/2009/02/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/43/2009/02/13/p/dre
+- type: cites
+  target: pt:dre:248176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602069:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:03:41Z'
   warnings: []
   errors: []
 ---
@@ -99,8 +107,8 @@ de 9 de Dezembro
 
 Nos termos dos n.os 2 e 8 do artigo 8.º do [Decreto-Lei n.º 17/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2008-248176), de 29 de Janeiro, na redacção dada pelo [Decreto-Lei n.º 43/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2009-602069), de 13 de Fevereiro, exonero, a pedido do próprio e sob proposta do Governo, o Vogal da Comissão Nacional para as Comemorações do Centenário da República João José de Sousa Bonifácio Serra.
 
-**Assinado em 30 de Novembro de 2009.**
+Assinado em 30 de Novembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.

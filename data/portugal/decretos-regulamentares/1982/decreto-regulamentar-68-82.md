@@ -47,40 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1982-376794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:06:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9ad603e4e862b9620b0d0f1490fbdebe594ed684733dc2e4f22e88e5a25f30c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53ac17c071ee762ba8551e13662aad02ef4fec604977eab6cd4653d058e92276
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:06:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Subsídio de Doença
 relationships:
 - type: amended_by
   target: pt:dre:377332:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:421459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:06:02Z'
   warnings: []
   errors: []
 ---
@@ -97,16 +106,16 @@ Tais situações, que têm aumentado de frequência, com as consequentes injusti
 
 Assim, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aditado ao [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, um artigo 48.º-A, com a seguinte redacção:
+Artigo 1.º É aditado ao [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, um artigo 48.º-A, com a seguinte redacção:
 
-###### Art. 48.º-A O Ministro dos Assuntos Sociais poderá estabelecer por despacho regras específicas de cálculo do subsídio pecuniário, diferentes das definidas no artigo 48.º, tratando-se de actividades que pelas características do seu exercício impliquem irregularidades ou oscilação acentuada dos valores que integram a retribuição do trabalho ou dêem origem a situações análogas.
+Art. 48.º-A O Ministro dos Assuntos Sociais poderá estabelecer por despacho regras específicas de cálculo do subsídio pecuniário, diferentes das definidas no artigo 48.º, tratando-se de actividades que pelas características do seu exercício impliquem irregularidades ou oscilação acentuada dos valores que integram a retribuição do trabalho ou dêem origem a situações análogas.
 
-###### Art. 2.º Este diploma entra imediatamente em vigor.
+Art. 2.º Este diploma entra imediatamente em vigor.
 
 Francisco José Pereira Pinto Balsemão - Luís Eduardo da Silva Barbosa.
 
-**Promulgado em 24 de Setembro de 1982.**
+Promulgado em 24 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/24-1987-417203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T04:00:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad2d346ad0b9c7c20fe1971488aa4cdf42b5220d7c351c9bc376a22ffb93215c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32f5807221a516e54f3a2ace0c89bc753016ca695437014a519f4a24c3009569
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:00:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comandante
+- Comando Chefe das Forças Armadas da Madeira
+- Nomeação
+relationships:
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:00:56Z'
   warnings: []
   errors: []
 ---
@@ -85,12 +92,12 @@ validation:
 
 de 30 de Julho
 
-**O Presidente da República decreta, nos termos do n.º 2 do artigo 29.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, ouvido o Governo Regional da Região Autónoma da Madeira, o seguinte:**
+O Presidente da República decreta, nos termos do n.º 2 do artigo 29.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, ouvido o Governo Regional da Região Autónoma da Madeira, o seguinte:
 
 É nomeado, por iniciativa do Chefe do Estado-Maior-General das Forças Armadas e sob proposta aprovada pelo Conselho Superior de Defesa Nacional, para o cargo de comandante-chefe das Forças Armadas na Madeira o brigadeiro Octávio Gabriel Calderon de Cerqueira Rocha, em substituição do general José Alberto Loureiro dos Santos, que, pelo presente diploma, é exonerado por, nesta data, cessar a respectiva comissão de serviço.
 
-**Assinado em 30 de Julho de 1987.**
+Assinado em 30 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.

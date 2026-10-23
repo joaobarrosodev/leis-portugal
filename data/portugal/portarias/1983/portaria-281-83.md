@@ -47,40 +47,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/281-1983-310461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T07:36:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 485c62fe55089bb0ac61cb890fb23ebcb6bf72edd76f5eb01b193a7ddb9a6d3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6abfe5441e37f0064d85d5b4b7adf1ff1f43ef3a0ddfc7b38951a86f7326a897
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:36:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Carreira Profissional
+- Equiparação de Cargos
+- Função Pública
 relationships:
 - type: amended_by
   target: pt:dre:654758:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:658239:por
+  label: "Alterados os n.ºs 3 e 4 do preâmbulo e o n.º 1.º pela PORT.514/91.07.06.1991.MF, DR.IS-B [130] de 07.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/514-1991-658239
+  date: '1991-06-07'
+- type: cites
+  target: pt:dre:375813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575937:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:442898:por
+  label: Rectificado o mapa anexo ao presente diploma pela PORT.901/83.29.09.1983.PCM, DR.IS [225] de 29.09.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/901-1983-442898
+  date: '1983-09-29'
+- type: corrected_by
+  target: pt:dre:384060:por
+  label: Rectificadas as categorias constantes do mapa anexo ao presente diploma, pela PORT.293/84.16.05.1984.PCM, DR.IS [113]
+    de 16.05.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/293-1984-384060
+  date: '1984-05-16'
+- type: corrected_by
+  target: pt:dre:401371:por
+  label: Rectificadas as categorias constantes do mapa anexo ao presente diploma, pela PORT.907/84.13.12.1984.PCM, DR.IS [287]
+    de 13.12.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/907-1984-401371
+  date: '1984-12-13'
+- type: corrected_by
+  target: pt:dre:550065:por
+  label: Rectificada a tabela de equivalências contida no mapa anexo ao presente diploma, pela PORT.959/89.30.10.1989.MF,
+    DR.IS [250] de 30.10.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/959-1989-550065
+  date: '1989-10-30'
+- type: corrected_by
+  target: pt:dre:575762:por
+  label: Rectificada a tabela de equivalências contida no mapa anexo ao presente diploma, pela PORT.553/90.17.07.1990.MF,
+    DR.IS [163] de 17.07.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/553-1990-575762
+  date: '1990-07-17'
+- type: corrected_by
+  target: pt:dre:654758:por
+  label: Rectificada a equiparação da categoria de operário de 1.ª classe do Instituto do Café, pela PORT.895/93.18.09.1993.MF,
+    DR.IS-B [220] de 18.09.1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/895-1993-654758
+  date: '1993-09-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:36:27Z'
   warnings: []
   errors: []
 ---
@@ -119,4 +183,4 @@ Mapa anexo à Portaria n.º 281/83
 
 Categorias da antiga Administração Ultramarina
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/06300/09270945.pdf))](https://files.diariodarepublica.pt/1s/1983/03/06300/09270945.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/06300/09270945.pdf)

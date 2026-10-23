@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/292/1997/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1997-672448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:53:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a3308779f1b66d07864929a6bac4fd2ccb1e48d8e3068930fe841a9231d9d86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6e77862edb02ecadf315d5c51455535f2ddcd19ba8856f95d37add74dde1675
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:53:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Benefícios Fiscais
+- Contribuições e Impostos
 - Empresa
 - Investigação Científica e Tecnológica
-- Contribuições e Impostos
 - Investimento
 - Política de Investigação e Desenvolvimento
-- Benefícios Fiscais
 relationships:
 - type: amended_by
   target: pt:dre:350103:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:659563:por
+  label: "Prorrogado o regime estabelecido no presente diploma, relativamente a despesas efectuadas nos exercícios de 1998\
+    \ a 2000, pelo art. 45º da LEI.127-B/97.1997.12.20.AR DR.IS-A [293]2ºSupl (OE 1998)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/127-b-1997-659563
+  date: '1997-12-20'
+- type: amended_by
+  target: pt:dre:679669:por
+  label: "Prorrogado o regime estabelecido no presente diploma, relativamente aos exercícios fiscais de 2001, 2002 e 2003,\
+    \ pelo art. 60º da LEI.3-B/2000.2000.04.04.AR, DR.IS-A [80]2ºSupl (OE 2000)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:350103:por
+  label: "Alterados os arts. 1º, 2º, 3º e 4º, pelo DEC.LEI.197/2001.2001.06.29.MCTE\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-2001-350103
+  date: '2001-06-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/52-c/1996/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/52-c/1996/12/27/p/dre
+- type: cites
+  target: pt:dre:583042:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:53:06Z'
   warnings: []
   errors: []
 ---
@@ -137,21 +158,21 @@ b) Despesas de desenvolvimento, as realizadas pelo sujeito passivo de IRC atrav�
 
 2 - Consideram-se dedutíveis, designadamente, as seguintes categorias de despesas, desde que se refiram a actividades de investigação e desenvolvimento realizadas no território português:
 
-a) Aquisições de imobilizado, à excepção de edifícios, desde que criados ou adquiridos em estado novo e directamente afectos à realização de actividades de I&D;
+a) Aquisições de imobilizado, à excepção de edifícios, desde que criados ou adquiridos em estado novo e directamente afectos à realização de actividades de I&D
 
-b) Despesas com pessoal directamente envolvido em tarefas de I&D;
+b) Despesas com pessoal directamente envolvido em tarefas de I&D
 
-c) Despesas com a participação de dirigentes e quadros na gestão de instituições de I&D;
+c) Despesas com a participação de dirigentes e quadros na gestão de instituições de I&D
 
 d) Despesas de funcionamento, até ao máximo de 55% das despesas com o pessoal directamente envolvido em tarefas de I&D escrituradas a título de remunerações, ordenados ou salários, respeitantes ao exercício;
 
 e) Despesas relativas à contratação de actividades de I&D junto de entidades públicas ou beneficiárias do estatuto de utilidade pública ou de entidades cuja idoneidade em matéria de investigação e desenvolvimento seja reconhecida por despacho conjunto dos Ministros da Economia e da Ciência e da Tecnologia;
 
-f) Participação no capital de instituições de I&D e contributos para fundos destinados a financiar a I&D;
+f) Participação no capital de instituições de I&D e contributos para fundos destinados a financiar a I&D
 
 g) Custos com registo e manutenção de patentes;
 
-h) Despesas com a aquisição de patentes que sejam predominantemente destinadas à realização de actividades de I&D;
+h) Despesas com a aquisição de patentes que sejam predominantemente destinadas à realização de actividades de I&D
 
 i) Despesas com auditorias à I&D.
 
@@ -185,12 +206,12 @@ A dedução a que se refere o artigo 1.º o não é acumulável, relativamente a
 
 Visto e aprovado em Conselho de Ministros de 4 de Setembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Augusto Carlos Serra Ventura Mateus - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 6 de Outubro de 1997.**
+Promulgado em 6 de Outubro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Outubro de 1997.**
+Referendado em 9 de Outubro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

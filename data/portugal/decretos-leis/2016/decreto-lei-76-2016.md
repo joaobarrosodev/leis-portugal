@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/76/2016/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2016-75701996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f727dca855dc27b7ab5a0ca887566b5901278773a240ea123573f736d8034779
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 674d8e069637378be401796b4c380bed4d16fb3ec6e2fc3334703e61a547035b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Água
 - Aproximação das Legislações
-- Financiamento
-- Criação de Serviços
-- Recursos Hídricos
-- Definição de Competências
-- Gestão dos Recursos
-- Entidade Reguladora dos Serviços das Águas e dos Resíduos
-- Proteção do Ambiente
-- Plano de Bacia Hidrográfica
 - Bacia Hidrográfica
-- Zona de Proteção
+- Comissão Interministerial de Coordenação da Água
+- Criação de Serviços
+- Definição de Competências
+- Entidade Reguladora dos Serviços das Águas e dos Resíduos
+- Financiamento
+- Gestão dos Recursos
+- Plano de Bacia Hidrográfica
+- Plano de Gestão de Região Hidrográfica
 - Plano Nacional da ÁGUA
 - Política do Ambiente
 - Poluição da água
-- Comissão Interministerial de Coordenação da Água
-- Plano de Gestão de Região Hidrográfica
-- Agência Portuguesa do Ambiente
+- Proteção do Ambiente
+- Recursos Hídricos
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:932559322:por
@@ -181,6 +181,302 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/20
   label: null
   source: http://data.europa.eu/eli/dir/20
+- type: cites
+  target: pt:dre:157639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56941586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58752835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66022084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66689605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66727183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67120682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67250270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69905665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69920327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69951097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70476206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75150234:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32012L0018
   label: null
@@ -188,13 +484,13 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:53Z'
   warnings: []
   errors: []
 ---
@@ -273,15 +569,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de junho de 2016. - António Luís Santos da Costa - Carolina Maria Gomes Ferra - José Alberto de Azeredo Ferreira Lopes - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos - Ana Paula Mendes Vitorino.
 
-**Promulgado em 17 de setembro de 2016.**
+Promulgado em 17 de setembro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de outubro de 2016.**
+Referendado em 6 de outubro de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -481,7 +777,7 @@ QUADRO 1
 
 Escoamento Anual Médio em Condições Naturais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 Estes números devem ser lidos com cuidado, pois não só aquelas condições naturais já não se observam, como também em alguns casos não refletem a complexidade dos fenómenos hidrológicos, por desconsiderarem o escoamento/armazenamento de água nos aquíferos. Esta influência é particularmente significativa nas designadas Ribeiras do Algarve, pois uma parte não negligenciável do escoamento ocorre através de aquíferos não confinados com descargas diretas no Oceano ou com descargas em locais conhecidos junto aos estuários dos rios onde se dá a mistura com águas salobras (águas de transição).
 
@@ -685,7 +981,7 @@ QUADRO 2
 
 Objetivos estratégicos e programa de medidas, por setores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 (Fonte: ENAAC)
 
@@ -723,7 +1019,7 @@ Cenários Internacionais para o PIB
 
 (taxas médias de variação anual em volume)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 Fonte: DSPP
 
@@ -763,7 +1059,7 @@ Cenários Macroeconómicos para Portugal
 
 (taxas médias de variação anual em volume)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 Fonte: DSPP
 
@@ -785,7 +1081,7 @@ QUADRO 5
 
 Cenários Macroeconómicos para Portugal (taxas médias de variação anual em volume) desenvolvidos no âmbito dos trabalhos da Comissão para a Reforma da Fiscalidade Verde
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 Fonte: Marvão Pereira, Ana Dias, Manuela Dias, Júlia Seixas, Patrícia Fortes, Margarita Robaina-Alves, «Sobre os Efeitos Ambientais e Económicos de uma Nova Tributação do Carbono em Portugal», Relatório Técnico de Avaliação a submeter à Comissão de Reforma Fiscal Ambiental, 25 junho 2014.
 
@@ -903,7 +1199,7 @@ QUADRO 6
 
 Grau de execução das medidas base, por RH
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 O balanço parcial efetuado, comunicado oportunamente à CE e que pode ver-se nos relatórios das QSiGA, evidencia que alguns PM tiveram uma implementação insuficiente e que uma parte significativa dos resultados visados não será alcançada (Quadro 6, que não inclui ainda a RH10, Região Autónoma da Madeira, por não se encontrar ainda disponível a informação a seu respeito). No que respeita às medidas de base evidencia-se que as intervenções estruturais tiveram um grau de execução muito significativo, que se pode admitir que no final do 1.º ciclo de planeamento (2015) se aproximará dos 70 % a 90 %, dependendo da região. Trata-se em muitos casos de investimentos efetuados em sistemas de tratamento de águas residuais urbanas e estes números refletem o esforço que tem vindo a ser feito pelas entidades gestoras. Este resultado traduz-se na redução das cargas poluentes descarregadas nas MA provenientes do setor urbano e melhoria do seu estado. Mas no que respeita às medidas relativas à aplicação da lei (classificadas como tal nos PGRH do 1.º ciclo) os níveis de execução são bem menos positivos, não ultrapassando na generalidade das RH os 50 %, o que justifica uma reflexão. Quanto às medidas de monitorização, também aqui o grau de execução é insuficiente, não atingindo na maioria das RH os 50 %.
 
@@ -913,7 +1209,7 @@ QUADRO 7
 
 Grau de execução das medidas suplementares, por RH
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 No que respeita às medidas adicionais e complementares, pode ver-se naqueles relatórios que apenas um número muito limitado de medidas teve alguma implementação, sendo o grau de execução nulo na generalidade das RH e medidas.
 
@@ -931,7 +1227,7 @@ QUADRO 8
 
 Lista de potenciais QSiGA a atender nos PGRH 2016-2021
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 Para cada QSiGA selecionada e para cada RH é elaborada uma ficha de QSiGA na qual se procede à sua descrição, definição dos impactes sobre as massas de água, identificação das massas de água afetadas na RH, setores utilizadores responsáveis, evolução histórica, objetivos a alcançar, entidades competentes, relação com o anterior ciclo de planeamento e grau de execução alcançado, quais as alternativas de atuação e os resultados que podem ser esperados com cada uma, quais as orientações para o ciclo de planeamento e QSiGA relacionadas.
 
@@ -1015,7 +1311,7 @@ QUADRO 9
 
 Volumes de água utilizados por setor (hm3/ano)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 Uma parte muito importante da carga de fontes pontuais é rejeitada nas águas costeiras e de transição ou nas MA rios imediatamente a montante, o que se deve à concentração das populações e das atividades económicas na orla costeira e mais precisamente nas áreas metropolitanas de Lisboa, Porto e Aveiro e no Algarve;
 
@@ -1039,13 +1335,13 @@ QUADRO 10
 
 Emissões de substâncias prioritárias mais importantes para as massas de água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 QUADRO 11
 
 Emissões de poluentes específicos mais importantes para as massas de água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 2.7 - Estado das massas de água
 
@@ -1061,31 +1357,31 @@ QUADRO 12
 
 Estado químico das massas de água superficiais naturais (em percentagem) - rios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 QUADRO 13
 
 Estado químico das massas de água fortemente modificadas e artificiais (em percentagem) - rios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 QUADRO 14
 
 Estado químico das massas de água fortemente modificadas e artificiais (em percentagem) - albufeiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 QUADRO 15
 
 Estado químico das massas de água naturais (em percentagem) - águas de transição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 QUADRO 16
 
 Estado químico das massas de água superficiais naturais (em percentagem) - águas costeiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 Em algumas importantes RH essa evolução negativa é particularmente expressiva e preocupante, por várias ordens de razões: (i) por evidenciar uma quebra no número de massas de água em bom estado, (ii) por isso se verificar em importantes bacias hidrográficas (Douro e Tejo, sobretudo) e (iii) por se verificar um recuo no estado de qualidade química das massas de água fortemente modificadas e artificiais - rios e albufeiras (que são importantes massas de água no curso principal destes rios e dos seus mais importantes afluentes). Esta degradação é particularmente expressiva nas massas de água albufeiras, o que deve dar lugar à reavaliação das zonas sensíveis em termos de nutrientes e realização da análises custo-eficácia para uma adequada programação de medidas visando a melhoria do seu estado já no próximo período de planeamento.
 
@@ -1095,13 +1391,13 @@ QUADRO 17
 
 Estado ecológico das massas de água superficiais naturais (em percentagem) - rios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 QUADRO 18
 
 Estado ecológico das massas de água superficiais naturais (em percentagem) - lagos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 Este «decréscimo» esteve associado essencialmente a ajustes na metodologia da classificação do estado, que levou a que algumas lagoas melhorassem, mas outras piorassem, mas tudo sempre muito próximo dos limites de fronteiras de estado.
 
@@ -1109,25 +1405,25 @@ QUADRO 19
 
 Potencial ecológico das massas de água fortemente modificadas e artificiais (em percentagem) - rios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 QUADRO 20
 
 Potencial ecológico das massas de água fortemente modificadas e artificiais (em percentagem) - albufeiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 QUADRO 21
 
 Estado ecológico das massas de água naturais (em percentagem) - águas de transição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 QUADRO 22
 
 Estado ecológico das massas de água superficiais naturais (em percentagem) - águas costeiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 O balanço que pode ser feito da evolução do estado e do potencial ecológico das massas de água de superfície é francamente mais positivo do que aquele que é feito sobre o seu estado químico. Observam-se progressos na generalidade das RH e tipos de massas de água de superfície, com a passagem a bom estado ou superior de muitas massas de água e um menor número de massas de água cujo estado se desconhece.
 
@@ -1139,13 +1435,13 @@ QUADRO 23
 
 Estado quantitativo das massas de água subterrâneas (em percentagem)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 QUADRO 24
 
 Estado químico das massas de água subterrâneas (em percentagem)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 O estado químico das massas de água subterrâneas é bom de um modo geral, tendo-se registado progressos no período de programação dos PGRH do 1.º ciclo, e o mesmo acontece com o seu estado quantitativo.
 
@@ -1155,7 +1451,7 @@ QUADRO 25
 
 Estado global das massas de água de superfície (em percentagem)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 Quanto ao estado global das massas de água subterrâneas, é geralmente bom, apenas se evidenciando pela negativa as RH2 e 7 (qualidade química).
 
@@ -1183,7 +1479,7 @@ QUADRO 26
 
 Zonas protegidas (Continente)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 2.9 - Planos de gestão de risco de inundação
 
@@ -1237,7 +1533,7 @@ QUADRO 27
 
 Índice de escassez WEI+ (Water Exploitation Index)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 O que se pode concluir desta análise é que, de um modo geral, esse balanço não evidencia situações de stress hídrico dignas de nota, embora evidencie também algumas situações preocupantes (uma análise mais fina exige a realização de balanços hídricos por sub-bacia que, neste momento, ainda não se encontram disponíveis mas para cuja determinação no quadro dos PGRH aponta a [Lei n.º 82-D/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), de 31 de dezembro, que aprovou a reforma da fiscalidade verde). Esta análise deve levar em linha de conta as projeções de evolução dos usos, particularmente dos usos consumptivos, e os cenários das alterações climáticas para os horizontes de planeamento da DQA.
 
@@ -1253,7 +1549,7 @@ QUADRO 28
 
 Capacidade útil das albufeiras (Continente)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 De todo o modo, também relativamente às pressões quantitativas é necessário que a APA, I. P., possa dispor de dados obtidos através do processo de autocontrolo, em alternativa às estimativas por métodos indiretos. Para isso é necessário que sejam implementados os atos autorizativos para todas as captações de água previstos no [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de maio, alterado pelos [Decretos-Leis n.os 391-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-a-2007-243771), de 21 de dezembro, [93/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2008-449398), de 4 de junho, [107/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2009-608704), de 15 de maio, [245/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2009-490409), de 22 de setembro, e [82/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2010-335184), de 2 de julho, e pela [Lei n.º 44/2012](https://diariodarepublica.pt/dr/detalhe/lei/44-2012-174798), de 29 de agosto, incluindo as autorizações de captação de águas subterrâneas que são particularmente relevantes para permitir a avaliação do estado quantitativo destas massas de água.
 
@@ -1379,7 +1675,7 @@ Os PGRH devem visar a superação destas limitações que condicionaram o sucess
 
 A LA estabelece que o PNA deve contemplar a definição de objetivos que visem formas de convergência entre os objetivos da política de gestão das águas nacionais e os objetivos globais e setoriais de ordem económica, social e ambiental. A referida Lei estabelece ainda, no seu artigo 1.º, um conjunto de objetivos enquadradores da gestão da água (ver caixa), que devem ser considerados na formulação do objetivos do PNA 2015.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 Os objetivos do PNA foram identificados considerando estes objetivos enquadradores da LA, os objetivos propostos no PNA 2010, que foram analisados no Relatório n.º 1, bem como as orientações mais recentes da política comunitária na área do ambiente. Estes objetivos, de caráter genérico, deverão depois ser considerados e ajustados face às especificidades de cada bacia hidrográfica na definição dos objetivos estratégicos de cada PGRH.
 
@@ -1433,13 +1729,13 @@ QUADRO 29
 
 Número de massas de água de superfície que foram propostas, no primeiro ciclo de planeamento, para atingirem o bom estado no final de cada um dos ciclos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 QUADRO 30
 
 Número de massas de água subterrâneas que foram propostas, no primeiro ciclo de planeamento, para atingirem o bom estado no final de cada um dos ciclos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 Os objetivos considerados nos PGRH dos 2.º e 3.º ciclos podem ver-se nos documentos que lhes dizem respeito e se encontram disponíveis ao público.
 
@@ -1701,7 +1997,7 @@ QUADRO 31
 
 Síntese das Medidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21500/0395104007.pdf)
 
 4.2 - Planos específicos
 

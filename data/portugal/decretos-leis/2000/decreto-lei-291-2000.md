@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/291/2000/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-2000-615043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:20:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5186ff3b1104d96094fd9a05290beda82e74e0824663e622f00fb185d717663
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ca73b76c58edc554be9be6de7735aeab57386949c25fba07722f503592b5105
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:20:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,65 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Código da Estrada
+- Equipamento Agrícola
 - Equipamento Eléctrico
 - Equipamento Eletrónico
 - Especificação Técnica
 - Instalações Radioelétricas
-- Segurança no Trabalho
-- Veículo
-- Segurança Rodoviária
 - Normas de Segurança
 - Regulamento
-- Equipamento Agrícola
 - Regulamento da Homologação dos Tractores Agrícolas e Florestais de Rodas
+- Segurança no Trabalho
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:502980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:567184:por
+  label: "Aditado um cap.XI e seus anexos ao presente diploma, pelo DEC LEI.305/2001.2001.12.03.MAI, DR.IS-A [279]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/305-2001-567184
+  date: '2001-12-03'
+- type: amended_by
+  target: pt:dre:288447:por
+  label: "Aditado o nº 2.8.2 ao anexo II do Regulamento da Homologação dos Tractores Agrícolas e Florestais de Rodas, pelo\
+    \ DEC LEI.114/2002.2002.04.20.MAI DR.IS-A [93]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-2002-288447
+  date: '2002-04-20'
+- type: amended_by
+  target: pt:dre:368663:por
+  label: "Substituída a expressão \"Antiparasitagem\" por \"Compatibilidade electromagnética\" no nº 3.17 do Anexo I e no\
+    \ nº 2.4 do Anexo II do Regulamento, pelo DEC LEI.124/2002.2002.05.10.MAI, DR.IS-A [108]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2002-368663
+  date: '2002-05-10'
+- type: amended_by
+  target: pt:dre:214715:por
+  label: "Alterados os arts. 2º, 3º e 4º e os anexos I, II e III do Regulamento da Homologação dos Tractores Agrícolas e Florestias\
+    \ de Rodas, pelo DEC LEI.42/2003.2003.03.12.MAI DR.IS-A [60]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-2003-214715
+  date: '2003-03-12'
+- type: amended_by
+  target: pt:dre:641415:por
+  label: "Alterados os arts. 50º, 74º, 158º e 159º, os anexos V, XIV e LXXI e aditado o art. 66º-A ao Regulamento da Homologação\
+    \ dos Tractores Agrícolas e Florestais de Rodas aprovado pelo presente diploma, pelo DEC LEI.339/2007.12.10.2007.MAI,\
+    \ DR.IS [197] de 12.10.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/339-2007-641415
+  date: '2007-10-12'
+- type: amended_by
+  target: pt:dre:260417:por
+  label: "Dada nova redação ao art. 30º do Regulamento da Homologação de Tratores Agrícolas e Florestais de Rodas, aprovado\
+    \ pelo presente diploma, e substituída por «Instituto da Mobilidade e dos Transportes, I.P.» a referência feita a «Direcção-Geral\
+    \ de Viação» pelo DEC LEI.53/2013.17.04.2013.MEE, DR.IS [75] de 17.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2013-260417
+  date: '2013-04-17'
+- type: amended_by
+  target: pt:dre:502980:por
+  label: "Dada nova redação ao anexo VIII do Regulamento da Homologação dos Tratores Agrícolas e Florestais de Rodas pelo\
+    \ DEC LEI.148/2013.24.10.2013.MECO, DR.IS [206] de 24.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2013-502980
+  date: '2013-10-24'
 - type: cites
   target: celex:31974L0150
   label: null
@@ -132,16 +175,24 @@ relationships:
   target: celex:31999L0058
   label: null
   source: http://data.europa.eu/eli/dir/1999/58/oj
+- type: repealed_by
+  target: pt:dre:580330:por
+  label: "Revogado o cap.I, bem como os anexos I e III (estes últimos na redacção do Dec Lei 42/2003 de 12-Mar), anexo II\
+    \ (na redacção dos Dec Leis 114/2002 de 20-Abr, 124/2002 de 10-Mai e 42/2003 de 12-Mar), todos do Regulamento da Homologação\
+    \ dos Tractores Agrícolas e Florestais de Rodas, aprovado pelo presente diploma, pelo DEC LEI.74/2005.24.03.2005.MAI,\
+    \ DR.IS-A [59] de 24.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2005-580330
+  date: '2005-03-24'
 article_structure:
-  article_count: 49
+  article_count: 50
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:20:46Z'
   warnings: []
   errors: []
 ---
@@ -208,15 +259,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa.
 
-**Promulgado em 4 de Outubro de 2000.**
+Promulgado em 4 de Outubro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Outubro de 2000.**
+Referendado em 12 de Outubro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 REGULAMENTO DA HOMOLOGAÇÃO DOS TRACTORES AGRÍCOLAS E FLORESTAIS DE RODAS
 
@@ -366,7 +417,9 @@ l) Luzes de estacionamento, se ostentarem a marca de homologação CE prevista n
 
 2 - As marcas de homologação dos dispositivos de iluminação e sinalização luminosas constam do anexo IV.
 
-#### SECÇÃO II — Artigo 14.º
+#### SECÇÃO II
+
+###### Artigo 14.º
 
 Instalação dos dispositivos de iluminação e de sinalização luminosa
 
@@ -774,7 +827,7 @@ Modelo de ficha de informações (ver nota a)
 
 4.5 - Desmultiplicação da transmissão, com e sem caixa de transferência:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
 4.6 - Velocidade máxima do tractor na combinação de caixa mais elevada calculada em quilómetro/hora (fornecer os elementos do cálculo) (ver nota n);
 
@@ -1272,7 +1325,7 @@ c) Na ficha de homologação, a rubrica 1 intitular-se-á «Farol para tractores
 
 Instalação dos dispositivos de iluminação e de sinalização luminosa
 
-# Parte I
+Parte I
 
 1 - Definições:
 
@@ -1384,7 +1437,7 @@ As outras chapas e sinais retrorreflectores a utilizar em conformidade com as es
 
 1.17 - Avisador de accionamento. - Por «avisador de accionamento» entende-se um avisador que indica que um dispositivo foi posto em acção, sem indicar se funciona correctamente ou não.
 
-# Parte II
+Parte II
 
 2 - Pedido de homologação CE:
 
@@ -1404,7 +1457,7 @@ As outras chapas e sinais retrorreflectores a utilizar em conformidade com as es
 
 2.4 - A comunicação prevista no anexo V deste Regulamento será anexada à ficha de homologação.
 
-# Parte III
+Parte III
 
 3 - Especificações gerais:
 
@@ -1512,7 +1565,7 @@ Reflector à retaguarda, não triangular: vermelha;
 
 3.16.1.2 - Essas luzes puderem ser bloqueadas na posição requerida pela circulação rodoviária. O bloqueamento deve ser automático.
 
-# Parte IV
+Parte IV
 
 4 - Especificações especiais:
 
@@ -2126,23 +2179,23 @@ Proibida em qualquer outro tractor;
 
 4.15.11 - Avisador - facultativo.
 
-# Parte V
+Parte V
 
 5 - Conformidade da produção:
 
 5.1 - Qualquer tractor da série deve estar em conformidade com o modelo de tractor homologado no que diz respeito à instalação dos dispositivos de iluminação e de sinalização luminosa e suas características referidas no presente Regulamento.
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
 ## ANEXO VI — (n.º 5 do artigo 14.º)
 
 Modelo
 
-## Anexo da ficha de homologação CE de modelo de tractor no que diz respeito à instalação dos dispositivos de iluminação e de sinalização luminosa.
+Anexo da ficha de homologação CE de modelo de tractor no que diz respeito à instalação dos dispositivos de iluminação e de sinalização luminosa.
 
 (N.º 2 do artigo 4.º e artigo 10.º da Directiva n.º [74/150/CEE](https://data.europa.eu/eli/dir/1974/150/oj?locale=pt), do Conselho, de 4 de Março, relativa à aproximação das legislações dos Estados membros respeitantes à homologação dos tractores agrícolas ou florestais de rodas.)
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
 ## ANEXO VII — (artigo 16.º)
 
@@ -2236,7 +2289,7 @@ Prescrições relativas à construção e aos ensaios
 
 Condições de homologação CE e marcação
 
-# Parte I
+Parte I
 
 1 - Prescrições gerais:
 
@@ -2288,7 +2341,7 @@ Para a medição da pressão dos pneumáticos: (mais ou menos) 0,1 bar.
 
 1.12 - Os bancos ensaiados para os tractores da classe I só servem para os tractores dessa classe, enquanto os bancos ensaiados para os tractores da classe II servem para os tractores das classes I e II e os bancos para tractores da classe III servem para os tractores da classes II e III.
 
-# Parte II
+Parte II
 
 2 - Prescrições especiais:
 
@@ -2324,7 +2377,7 @@ Para a medição da pressão dos pneumáticos: (mais ou menos) 0,1 bar.
 
 30 mm para tractores cuja via mínima das rodas da retaguarda não exceda 1150 mm.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
 2.5 - Ensaios do banco:
 
@@ -2478,7 +2531,7 @@ deve ser determinada no intervalo de frequência de 0,5 HZ a 2 Hz a intervalos d
 
 2.5.7.5 - A relação medida deve ser indicada no relatório de ensaio com dois algarismos a seguir à vírgula.
 
-# Parte III
+Parte III
 
 3 - Condições de homologação CE e marcação:
 
@@ -2574,7 +2627,7 @@ Se não figurar nenhuma indicação acima do rectângulo, isso significa que se 
 
 3.5.5 - As dimensões dos diferentes elementos desta marca não devem ser inferiores às dimensões mínimas prescritas para a marcação e indicadas no apêndice 8 deste anexo.
 
-## APÊNDICE 1
+APÊNDICE 1
 
 Método de determinação do ponto de referência do banco (S)
 
@@ -2590,73 +2643,73 @@ a) No caso de não haver possibilidade de definir a tangente à superfície mais
 
 b) No caso de não haver possibilidade de definir a tangente à superfície mais alta possível, a articulação (B) deve ser fixada a uma altura de 230 mm acima do ponto de referência do banco (S) se a parte mais baixa da prancha do encosto estiver vertical. Em seguida, os dois elementos da prancha do encosto em posição vertical devem ser ligeiramente pressionados tangencialmente contra o encosto almofadado.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
 Figura 1
 
 Dispositivo para determinar o ponto de referência do assento (S)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
 Figura 2
 
 Dispositivo em posição
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Ensaio para a determinação das curvas características do sistema de suspensão e da gama de regulação (n.º 2.5.1)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Ensaio em pista normalizada
 
 Tabela das ordenadas de elevação em relação a um nível de base que definem o perfil de cada faixa da pista (n.º 2.5.3.2.1):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
-## APÊNDICE 4
+APÊNDICE 4
 
 Sinais de valores de referência para o ensaio em banco de bancos do condutor de tractores da categoria A de classe I (n.º 2.5.3.1.1)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
-## APÊNDICE 5a
+APÊNDICE 5a
 
 Sinais de valores de referência para o ensaio em banco de bancos do condutor de tractores da categoria A de classe II (n.º 2.5.3.1.1)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
-## APÊNDICE 5b
+APÊNDICE 5b
 
 Sinais de valores de referência para o ensaio em banco de bancos do condutor de tractores da categoria A de classe III (n.º 2.5.3.1.1)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
-## APÊNDICE 6
+APÊNDICE 6
 
 Banco de ensaio (n.º 2.5.3.1): exemplo de realização
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
-## APÊNDICE 7
+APÊNDICE 7
 
 Características do filtro do aparelho de medição das vibrações (n.º 2.5.3.3.5)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
-## APÊNDICE 8
+APÊNDICE 8
 
 Exemplo de marca de homologação CE (v. n.º 3.5)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
 ## ANEXO IX — (n.º 4 do artigo 19.º)
 
 Modelo de ficha de homologação CE
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
 ## ANEXO X — (artigo 18.º)
 
@@ -2698,11 +2751,11 @@ Esta disposição só é aplicável se os valores prescritos para a profundidade
 
 ## ANEXO XI — (artigo 19.º, n.º 1)
 
-## Anexo à ficha de homologação CE de um modelo de tractor no que se refere ao banco do condutor
+Anexo à ficha de homologação CE de um modelo de tractor no que se refere ao banco do condutor
 
 N.º 2 do artigo 4.º e artigo 10.º da Directiva do Conselho n.º [74/150/CEE](https://data.europa.eu/eli/dir/1974/150/oj?locale=pt), de 4 de Março, relativa à aproximação das legislações dos Estados membros respeitantes à homologação dos tractores agrícolas ou florestais de rodas.
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
 ## ANEXO XII — (artigo 24.º)
 
@@ -2922,7 +2975,7 @@ Traçam-se duas linhas AA' e BB' na pista de ensaio, paralelas à linha PPM e si
 
 Posições para o ensaio de tractores em movimento:
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
 1.4.2 - Medição do ruído dos tractores parados, não para a homologação mas para efeitos de registo:
 
@@ -2944,7 +2997,7 @@ O valor mais elevado registado será considerado como o resultado da medição.
 
 Posições para o ensaio dos tractores parados:
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
 II - Dispositivo de escape (silencioso)
 
@@ -3190,7 +3243,7 @@ Condições de ensaio da resistência dos dispositivos de protecção em caso de
 
 3.1.5 - Pressões dos pneumáticos e deformações - os pneumáticos não devem conter lastros sob a forma de água. As pressões e deformações dos pneumáticos, uma vez bloqueados para os diversos ensaios, devem corresponder à seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
 4 - Interpretação dos resultados:
 
@@ -3482,7 +3535,7 @@ Modelo
 
 Relatório relativo aos ensaios de homologação CE de um dispositivo de protecção em caso de capotagem (cabina ou quadro de segurança) no que respeita à sua resistência e à resistência da sua fixação ao tractor.
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
 ## ANEXO XXVIII — (artigo 35.º, n.º 1)
 
@@ -3524,13 +3577,13 @@ e de um número de homologação CE, correspondente ao número da ficha de homol
 
 Exemplo de marca de homologação CE
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
 ## ANEXO XXIX — (artigo 34.º)
 
 Modelo de ficha de homologação CE
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
 ## ANEXO XXX — (artigo 34.º)
 
@@ -3952,7 +4005,7 @@ O aparelho será posicionado no banco. Será em seguida carregado com uma força
 
 ## ANEXO XXXV — (artigos 39.º e 44.º)
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
 ## ANEXO XXXVI — (artigo 39.º, n.º 2)
 
@@ -3960,9 +4013,9 @@ Modelo
 
 Relatório relativo aos ensaios de homologação CE de uma estrutura de protecção (cabina ou quadro de segurança) no que respeita à sua resistência e à resistência da sua fixação ao tractor.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
 ## ANEXO XXXVII — Marcação
 
@@ -4000,7 +4053,7 @@ A marca de homologação CE é composta por um rectângulo no interior do qual �
 
 e de um número de homologação CE correspondente ao número da ficha de homologação CE estabelecida para o tipo de estrutura de protecção no que respeita à sua resistência e à resistência da sua fixação ao tractor, colocado em qualquer posição na proximidade do rectângulo.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
 ## ANEXO XXXVIII — (artigo 39.º, n.º 4)
 
@@ -4008,7 +4061,7 @@ Modelo de ficha de homologação CE
 
 Comunicação relativa a homologação CE, à recusa, à revogação da homologação CE ou à extensão de homologação CE de um tipo de estrutura de protecção (cabina ou quadro de segurança) no que respeita à sua resistência e à resistência da sua fixação ao tractor (ensaios estáticos).
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
 
 ## ANEXO XXXIX — (artigo 43.º)
 
@@ -4038,10 +4091,10 @@ Condições de homologação CE
 
 Modelo
 
-## Anexo à ficha de homologação CE de um modelo de tractor no que respeita à resistência das estruturas de protecção (cabina ou quadro de segurança) e da sua fixação ao tractor.
+Anexo à ficha de homologação CE de um modelo de tractor no que respeita à resistência das estruturas de protecção (cabina ou quadro de segurança) e da sua fixação ao tractor.
 
 Ensaios estáticos
 
 N.º 2 do artigo 4.º e artigo 10.º da Directiva n.º [74/150/CEE](https://data.europa.eu/eli/dir/1974/150/oj?locale=pt), do Conselho, de 4 de Março, relativa à aproximação das legislações dos Estados membros respeitantes à homologação CE dos tractores agrícolas ou florestais de rodas.
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)

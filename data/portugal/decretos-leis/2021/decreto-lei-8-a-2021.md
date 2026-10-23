@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 15/2021, 1º Suplemento, Série I de 2021-01-22
   number: '15'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 29-(2) a 29-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/01501/0000200010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/8-a/2021/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2021-154946851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60856d73804ba588188e5095eaa7ed4d7d76fead19578d27b570708397b93046
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49ab9d8321f72d2d9d8d532c41cc49b6bfafc7eef232b70d279f28ec0869b7e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,55 +66,69 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Análises Clínicas
+- ASAE
 - Atribuição de Verba
-- Proteção Civil
-- Espetáculos e Divertimentos Públicos
-- Publicidade
+- Autoridade Nacional de Emergência e Proteção Civil
 - Circulação de Pessoas
-- Multa
-- Estabelecimento Comercial
+- Comércio
 - Comércio a Retalho
-- Manifestação Cultural
-- Ministério da Administração Interna
-- Transporte Aéreo
 - Contra-ordenação
-- Definição de Competências
 - Controlo Sanitário
-- Saúde Pública
+- Definição de Competências
+- Desporto
+- Doença Infecciosa
+- Epidemia
+- Equipamento de Proteção
+- Espetáculos e Divertimentos Públicos
+- Estabelecimento Comercial
 - Estabelecimento de Bebidas
 - Estabelecimento de Restauração
 - Estabelecimento Industrial
 - Estado de Emergência
 - Fiscalização
-- Secretaria Geral
-- Pagamento
-- Isolamento Profiláctico
-- ASAE
-- Veículo
 - GNR
-- Serviço de Estrangeiros e Fronteiras
-- Doença Infecciosa
-- Epidemia
+- Isolamento Profiláctico
+- Manifestação Cultural
+- Ministério da Administração Interna
+- Multa
+- Pagamento
 - Polícia Marítima
 - Polícia Municipal
 - Prestação de Serviços
+- Proteção Civil
+- PSP
+- Publicidade
 - Receita Pública
 - Regime Jurídico
-- Comércio
-- Transporte de Passageiros
-- Desporto
-- Autoridade Nacional de Emergência e Proteção Civil
-- Equipamento de Proteção
-- Situação de Contingência
+- Saúde Pública
+- Secretaria Geral
+- Serviço de Estrangeiros e Fronteiras
 - Situação de Alerta
 - Situação de Calamidade
+- Situação de Contingência
+- Transporte Aéreo
+- Transporte de Passageiros
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:175043500:por
+  label: Alterados, com efeitos a 01.12.2021, os arts. 2.º, 3.º, 4.º, 5.º, 7.º e 8.º e aditados, com efeitos à mesma data,
+    os art. 6.º-A e 6.º-B ao Dec Lei 28-B/2020 de 26-jun, na versão republicada pelo presente diploma e posteriormente alterado,
+    pelo(a) Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27, que o republicou em anexo,
+    com a redação ora introduzida.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-2021-175043500
+  date: '2021-11-27'
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
   label: null
@@ -155,16 +169,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62-a/2
   label: null
   source: http://data.dre.pt/eli/lei/62-a/2
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130473088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136788887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138054866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145589087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146435561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149220108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153959842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153959843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154483156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 21
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:37Z'
   warnings: []
   errors: []
 ---
@@ -265,7 +331,9 @@ v) [Anterior alínea h).]
 
 w) [Anterior alínea j)].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O incumprimento dos deveres estabelecidos nas alíneas a) a p) e r) a w) do artigo anterior constitui contraordenação, sancionada com coima de (euro) 100 a (euro) 500, no caso de pessoas singulares, e de (euro) 1000 a (euro) 10 000, no caso de pessoas coletivas.
 
@@ -285,7 +353,9 @@ b) [...].
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 4.º — Tramitação do processo contraordenacional
+Artigo 4.º
+
+Tramitação do processo contraordenacional
 
 1 - Aos processos de contraordenação previstos no presente decreto-lei é aplicável o disposto nos n.os 1, 3 e 4 do artigo 172.º, nos n.os 1 a 3 e 7 do artigo 173.º, nas alíneas a) a f) do n.º 1 e nos n.os 2 a 4 do artigo 175.º, nos n.os 1 a 9 e no n.º 11 do artigo 176.º, e nos artigos 177.º a 179.º e 181.º a 189.º do Código da Estrada, com as devidas adaptações.
 
@@ -303,7 +373,9 @@ a) O pagamento das custas que sejam devidas;
 
 b) A majoração da culpa do agente na determinação do valor económico que este retirou da prática da contraordenação.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A fiscalização do cumprimento dos deveres previstos nas alíneas a) a p) e r) a w) do artigo 2.º compete à Guarda Nacional Republicana, à Polícia de Segurança Pública, à Polícia Marítima, à Autoridade de Segurança Alimentar e Económica e às Polícias Municipais.
 
@@ -313,7 +385,9 @@ a) Ao Serviço de Estrangeiros e Fronteiras (SEF), quando se trate da obrigaçã
 
 b) [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Compete à Secretaria-Geral do Ministério da Administração Interna (SGMAI) o processamento das contraordenações relativas ao incumprimento dos deveres previstos nas alíneas a) a p) e r) a w) do artigo 2.º
 
@@ -323,7 +397,9 @@ b) [...].
 
 4 - Compete à ANAC o processamento das contraordenações relativas ao incumprimento dos deveres previstos na alínea q) do artigo 2.º, independentemente da matéria.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O produto das coimas aplicadas no âmbito das contraordenações relativas ao incumprimento dos deveres previstos nas alíneas a) a p) e r) a w) do artigo 2.º reverte em:
 
@@ -351,15 +427,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de janeiro de 2021. - António Luís Santos da Costa - Eduardo Arménio do Nascimento Cabrita.
 
-**Promulgado em 21 de janeiro de 2021.**
+Promulgado em 21 de janeiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de janeiro de 2021.**
+Referendado em 21 de janeiro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -532,3 +608,5 @@ Em tudo o que se não se encontre previsto no presente decreto-lei aplica-se sub
 ###### Artigo 11.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+113910554

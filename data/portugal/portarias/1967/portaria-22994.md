@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22994-1967-388832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f8be2d7028d02fb11ae182b5ed504ed42f316b346234bd7d7b786982e9220ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50f1bb585120ce4845d80ee29da2b105441087fd5725a1ff3f55984df7591d28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:28Z'
   warnings: []
   errors: []
 ---
@@ -91,33 +95,33 @@ Reforçar:
 
 Despesas com o pessoal:
 
-###### Artigo 2.º, n.º 3) «Remunerações acidentais - Gratificação de isolamento» ... 550000$00
+Artigo 2.º, n.º 3) «Remunerações acidentais - Gratificação de isolamento» ... 550000$00
 
-###### Artigo 2.º, n.º 4 «Remunerações acidentais - Complemento de vencimentos» ... 450000$00
+Artigo 2.º, n.º 4 «Remunerações acidentais - Complemento de vencimentos» ... 450000$00
 
-###### Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Ajudas de custo» ... 750000$00
+Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Ajudas de custo» ... 750000$00
 
-###### Artigo 3.º, n.º 4) «Outras despesas com o pessoal - Subsídios de renda de casa» ... 800000$00
+Artigo 3.º, n.º 4) «Outras despesas com o pessoal - Subsídios de renda de casa» ... 800000$00
 
-###### Artigo 3.º, n.º 5) «Outras despesas com o pessoal - Abono de família» ... 1500000$00
+Artigo 3.º, n.º 5) «Outras despesas com o pessoal - Abono de família» ... 1500000$00
 
 Despesas com o material:
 
-###### Artigo 6.º, n.º 3) «Despesas de conservação e aproveitamento de material - Móveis» ... 500000$00
+Artigo 6.º, n.º 3) «Despesas de conservação e aproveitamento de material - Móveis» ... 500000$00
 
-###### Artigo 7.º, n.º 4) «Material de consumo corrente - Artigos de expediente e diverso material não especificado e embalagens» ... 1000000$00
+Artigo 7.º, n.º 4) «Material de consumo corrente - Artigos de expediente e diverso material não especificado e embalagens» ... 1000000$00
 
 Pagamento de serviço e diversos encargos:
 
-###### Artigo 8.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 300000$00
+Artigo 8.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 300000$00
 
-###### Artigo 9.º, n.º 1) «Despesas de comunicações - Correios e telégrafos» ... 300000$00
+Artigo 9.º, n.º 1) «Despesas de comunicações - Correios e telégrafos» ... 300000$00
 
-###### Artigo 11.º, n.º 1, alínea d) «Encargos administrativos - Preparação militar do pessoal a incorporar na província - Despesas gerais de recrutamento» ... 300000$00
+Artigo 11.º, n.º 1, alínea d) «Encargos administrativos - Preparação militar do pessoal a incorporar na província - Despesas gerais de recrutamento» ... 300000$00
 
-###### Artigo 11.º, n.º 4) «Encargos administrativos - Subsídios para funerais» ... 20000$00
+Artigo 11.º, n.º 4) «Encargos administrativos - Subsídios para funerais» ... 20000$00
 
-###### Artigo 11.º, n.º 5) «Encargos administrativos - Pagamentos de serviços e encargos não especificados» ... 380000$00
+Artigo 11.º, n.º 5) «Encargos administrativos - Pagamentos de serviços e encargos não especificados» ... 380000$00
 
 ... 6850000$00
 
@@ -125,7 +129,7 @@ Inscrever:
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 7) «Outras despesas com o pessoal - Subsídio eventual de custo de vida» ... 350000$00
+Artigo 3.º, n.º 7) «Outras despesas com o pessoal - Subsídio eventual de custo de vida» ... 350000$00
 
 ... 7200000$00
 
@@ -133,11 +137,11 @@ tomando como contrapartida disponibilidades apuradas nas seguintes rubricas da m
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Vencimentos do pessoal dos quadros» ... 1700000$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Vencimentos do pessoal dos quadros» ... 1700000$00
 
-###### Artigo 2.º, n.º 1) «Remunerações acidentais - Gratificações» ... 2500000$00
+Artigo 2.º, n.º 1) «Remunerações acidentais - Gratificações» ... 2500000$00
 
-###### Artigo 2.º, n.º 2) «Remunerações acidentais - Subvenção de campanha» ... 3000000$00
+Artigo 2.º, n.º 2) «Remunerações acidentais - Subvenção de campanha» ... 3000000$00
 
 ... 7200000$00
 

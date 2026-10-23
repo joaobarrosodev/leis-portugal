@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/46-1976-507009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T05:05:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dce0ed12671d733e9fcc84b2d951887aef3f62dd94941bf8728515b087b98786
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6a2412e247c9aa4bc8a43c87c6a9e83c808ce9324d24cf5adec98ece5a47e8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:05:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Expropriação
+- Prédio Rústico
 relationships:
 - type: amended_by
   target: pt:dre:375176:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:500921:por
+  label: Tornado público ter sido declarado nulo e de nenhum efeito o acto de expropriação do prédio rústico inscrito na matriz
+    rústica da freguesia e concelho de Coruche, sob o artigo 1.º da secção ZZ-1, pertencente a António Queirós Roquete, herdeiros,
+    contido no n.º 33 do presente diploma pelo(a) Portaria n.º 158/76 - Diário do Governo n.º 70/1976, Série I de 1976-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/158-1976-500921
+  date: '1976-03-23'
+- type: amended_by
+  target: pt:dre:253210:por
+  label: Derrogada, relativamente à expropriação do prédio rústico denominado «Monte dos Condes», situado na freguesia de
+    Santo Estêvão, concelho de Benavente, a presente portaria, pelo(a) Portaria n.º 344/77 - Diário da República n.º 132/1977,
+    Série I de 1977-06-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/344-1977-253210
+  date: '1977-06-07'
+- type: amended_by
+  target: pt:dre:324716:por
+  label: Derrogado, relativamente ao prédio rústico denominado «Casal do Telhado», a presente portaria, pelo(a) Portaria n.º
+    743/78 - Diário da República n.º 286/1978, Série I de 1978-12-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/743-1978-324716
+  date: '1978-12-14'
+- type: amended_by
+  target: pt:dre:375176:por
+  label: "Desanexado e transmite o seu domínio a favor da Direcção-Geral do Património do Estado, parte do prédio rústico\
+    \ denominado Valeira, o qual foi mandado expropriar pelo presente diploma, pela PORT.899/82.24.09.1982.MFP, DR.IS [222]\
+    \ de 24.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/899-1982-375176
+  date: '1982-09-24'
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:05:03Z'
   warnings: []
   errors: []
 ---

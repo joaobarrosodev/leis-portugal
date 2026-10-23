@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/12/23700/0665206654.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/163/2013/12/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2013-484123
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc9a0af30cfef836192ad525ca701a74f65d262c4a0f420a5226d2e0294cab4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b701de281ac1aad4510b2de4b65e12586f1ff8f1b9eda5c48007893d7c940677
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,20 +71,20 @@ subjects:
 - Alienação de Imóveis
 - Amortização
 - Aquisição de Imóveis
-- Financiamento
 - BEI
 - Casa Degradada
 - Comparticipação
-- Obras de Conservação e Restauro
 - Contrato de Mútuo
 - Crédito à Habitação
+- Financiamento
+- Habitação
 - Habitação Social
-- Linha de Crédito
 - Instituto da Habitação e da Reabilitação Urbana
+- Linha de Crédito
+- Obras de Conservação e Restauro
 - Prohabita
 - Regime Jurídico
 - Registo Predial
-- Habitação
 - Renda Apoiada
 relationships:
 - type: amended_by
@@ -107,16 +107,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/91/2001/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/91/2001/08/20/p/dre
+- type: cites
+  target: pt:dre:281201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518445:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:115440317:por
+  label: Revogado, o presente diploma, pelo(a) Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04,
+    nos termos do n.º 2 do seu art. 85.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-2018-115440317
+  date: '2018-06-04'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:31Z'
   warnings: []
   errors: []
 ---
@@ -215,12 +237,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de outubro de 2013. - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 2 de dezembro de 2013.**
+Promulgado em 2 de dezembro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de dezembro de 2013.**
+Referendado em 3 de dezembro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22874-1967-390443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8dc45070f5c0d8569e347b2dd9812c4b2ef191ccba6ade4cd35403fedf8e2ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1bb2d700cb0df38133e1092a64546d5c478a34d05669fe38d1cdd526e7bf96c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Escola de Enfermagem
+- Lisboa
+- Saúde Pública
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "INTEGRADA NA ESCOLA DE ENFERMAGEM POS-BASICA DE LISBOA, A ESCOLA CRIADA PELO PRESENTE DIPLOMA, PELO DEC LEI 265/83\
+    \ DE 16-JUN DR.IS [136]\0S [136]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-06-16'
+- type: cites
+  target: pt:dre:168247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668919:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:52Z'
   warnings: []
   errors: []
 ---

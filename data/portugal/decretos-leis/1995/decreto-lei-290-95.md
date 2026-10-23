@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/290/1995/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1995-683056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 671ff23e6a9c7c13efb227ba601384a107ebef412693b4a9ec4d11f52b41191a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cea98bdb9a6dbf4732e46dc3e2fefd5c07c4da60f125d5d1888a86af0e7fb0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Domínio Público Hídrico
 - Ordenamento do Território
 - Orla Costeira
-- Protecção do Litoral
-- Proteção do Ambiente
 - Plano de Ordenamento da Orla Costeira
 - Política de Solos
-- Domínio Público Hídrico
+- Proteção do Ambiente
+- Protecção do Litoral
 - ZONA Balnear
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/309/1993/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/309/1993/09/02/p/dre
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:35Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +114,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. - 1 - Até à aprovação dos planos de ordenamento da orla costeira, a que se refere o n.º 2 do artigo 5.º do [Decreto-Lei n.º 309/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1993-633152), os editais de praia carecem de parecer favorável dos directores regionais do ambiente e recursos naturais nas áreas da sua jurisdição, após o que entram imediatamente em vigor.
+Artigo único. - 1 - Até à aprovação dos planos de ordenamento da orla costeira, a que se refere o n.º 2 do artigo 5.º do [Decreto-Lei n.º 309/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1993-633152), os editais de praia carecem de parecer favorável dos directores regionais do ambiente e recursos naturais nas áreas da sua jurisdição, após o que entram imediatamente em vigor.
 
 2 - No interior das áreas protegidas a competência atribuída no número anterior é exercida pelo órgão directivo da respectiva área.
 
@@ -118,12 +122,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 1995. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Jorge de Figueiredo Lopes - Manuel Dias Loureiro - Luís Francisco Valente de Oliveira - Maria Teresa Pinto Basto Gouveia - José Monteiro de Morais.
 
-**Promulgado em 5 de Outubro de 1995.**
+Promulgado em 5 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1995.**
+Referendado em 10 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

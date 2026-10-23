@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/323/2009/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2009-481915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 994acc1324b397bfed0775810b2f362c67fb55e6144455c0449abf39832f37ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7823c35a165c9e151bd22ec2e098dceaaae70991652ab8e1833a932034a7d405
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ subjects:
 - Actualização de Pensões
 - Cálculo de Pensões
 - Complemento Extraordinario de Solidariedade
-- Pensão por Incapacidade Permanente para o Trabalho
+- Doença Profissional
 - IAS
 - Pensão de Invalidez
 - Pensão de Velhice
-- Doença Profissional
+- Pensão por Incapacidade Permanente para o Trabalho
 - Pensão por Morte
 - Prestações da Segurança Social
 - Proteção Social
@@ -83,6 +83,46 @@ relationships:
   target: pt:dre:73958532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Suspenso, durante o ano de 2011, o regime de actualização anual do indexante dos apoios sociais (IAS) e mantido\
+    \ em vigor o valor de (euro) 419,22 estabelecido no art. 3.º pela LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010\0\
+    0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Determinada a suspensão, durante o ano de 2012, do regime de actualização anual do indexante dos apoios sociais\
+    \ (IAS), mantendo-se em vigor o valor de (euro) 419,22 estabelecido no art. 3º, pela LEI.64-B/2011.30.12.2011.AR, DR.IS\
+    \ [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Suspenso, durante o ano de 2013, o regime de atualização anual do IAS, e mantido em vigor o valor de (euro) 419,22\
+    \ estabelecido no art. 3º pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Suspenso, durante o ano de 2014, o regime de atualização anual do IAS, e mantido em vigor o valor de (euro) 419,22\
+    \ estabelecido no art. 3º, pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Suspenso, durante o ano de 2015, o regime de atualização anual do IAS, e mantido em vigor o valor de (euro) 419,22
+    estabelecido no art. 3º do presente diploma, pelo(a) Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento,
+    Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Suspenso, durante o ano de 2016, o regime de atualização anual do Indexante dos Apoios Sociais (IAS) e mantido em
+    vigor o valor de (euro) 419,22 estabelecido no art. 3.º do presente diploma, sendo atualizado nos termos legais em 2017,
+    pelo(a) Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-a-2016-73958532
+  date: '2016-03-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/187/2007/05/10/p/dre
   label: null
@@ -111,16 +151,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/45/2009/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/45/2009/07/01/p/dre
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641154:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:29Z'
   warnings: []
   errors: []
 ---
@@ -207,12 +275,12 @@ O presente decreto-lei vigora de 1 de Janeiro de 2010 a 31 de Dezembro de 2010.
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria Helena dos Santos André.
 
-**Promulgado em 17 de Dezembro de 2009.**
+Promulgado em 17 de Dezembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de Dezembro de 2009.**
+Referendado em 21 de Dezembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

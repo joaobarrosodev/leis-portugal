@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/11/269a00/73087310.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/250/2002/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2002-450618
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e25256c74fbeb8689fd9bd19db6d0a1a95038842feeb8b44bdd9e82afdc9f23e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98062d0e89df342f10708f4d5cf6122cd4e1262debe74b2ebf1ae3c466d8125a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ subjects:
 - Conselho de Administração
 - Criação de Serviços
 - Definição de Competências
+- Ifadap
 - Instituto Nacional de Intervenção e Garantia Agrícola
 - Regime de Pessoal
-- Ifadap
 relationships:
 - type: amended_by
   target: pt:dre:520468:por
@@ -113,16 +113,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64/1993/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64/1993/08/26/p/dre
+- type: cites
+  target: pt:dre:165048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632407:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520468:por
+  label: "Revogado a partir de 01.04.2007 pelo DEC LEI.87/2007.29.03.2007.MADRP, DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-2007-520468
+  date: '2007-03-29'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:03Z'
   warnings: []
   errors: []
 ---
@@ -231,12 +272,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Setembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 6 de Novembro de 2002.**
+Promulgado em 6 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Novembro de 2002.**
+Referendado em 13 de Novembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

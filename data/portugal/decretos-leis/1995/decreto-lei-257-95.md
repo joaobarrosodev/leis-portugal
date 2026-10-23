@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/257/1995/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1995-575727
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:39:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4285f084df99c546ab291cd7c08a50d3c05015dddfebbe5ac45074ea164209f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 026db8f2facfd98022ff9cc92aeb1563fe2b161eacbf13b62d25f03a6382f364
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Obras de Conservação e Restauro
 - Arrendamento Urbano não Habitacional
-- Indústria
-- Prazo
-- Profissão Independente
-- Regime Jurídico
-- Prédio Urbano
 - Arrendamento Urbano para Habitação
 - Comércio
+- Indústria
+- Obras de Conservação e Restauro
+- Prazo
+- Prédio Urbano
+- Profissão Independente
+- Regime Jurídico
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/278/1993/08/10/p/dre
@@ -84,16 +84,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/21/1995/07/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/21/1995/07/18/p/dre
+- type: cites
+  target: pt:dre:177451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:39:45Z'
   warnings: []
   errors: []
 ---
@@ -114,13 +134,13 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 2.º da [Lei n.º 21/95](https://diariodarepublica.pt/dr/detalhe/lei/21-1995-462036), de 18 de Julho, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 12.º do Regime do Arrendamento Urbano, aprovado pelo [Decreto-Lei n.º 321-B/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-b-1990-667147), de 15 de Outubro, doravante designado por RAU, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 12.º do Regime do Arrendamento Urbano, aprovado pelo [Decreto-Lei n.º 321-B/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-b-1990-667147), de 15 de Outubro, doravante designado por RAU, passa a ter a seguinte redacção:
 
 ###### Artigo 12.º — [...]
 
 As obras de conservação ordinária estão a cargo do senhorio, sem prejuízo do disposto no artigo 1043.º do Código Civil e nos artigos 4.º e 120.º do presente diploma.
 
-###### Art. 2.º São inseridos no capítulo III do RAU os artigos 117.º a 120.º, com a redacção seguinte:
+Art. 2.º São inseridos no capítulo III do RAU os artigos 117.º a 120.º, com a redacção seguinte:
 
 ###### Artigo 117.º — Estipulação de prazo de duração efectiva
 
@@ -146,15 +166,15 @@ Nos contratos de arrendamento para o exercício de comércio ou indústria em qu
 
 3 - Salvo cláusula em contrário, quando o arrendatário suporte o custo das obras, deve o senhorio indemnizá-lo, no termo do contrato, de acordo com as regras do enriquecimento sem causa.
 
-###### Art. 3.º Os artigos 117.º e 118.º do RAU passam a ser os artigos 121.º e 122.º, respectivamente.
+Art. 3.º Os artigos 117.º e 118.º do RAU passam a ser os artigos 121.º e 122.º, respectivamente.
 
-###### Art. 4.º O artigo 121.º do RAU passa a ter a seguinte redacção:
+Art. 4.º O artigo 121.º do RAU passa a ter a seguinte redacção:
 
 ###### Artigo 121.º — Remissão
 
 É aplicável aos arrendamentos para o exercício de profissões liberais o disposto nos artigos 110.º a 120.º do presente diploma.
 
-###### Art. 5.º É aditado ao RAU um capítulo V, do qual faz parte um artigo 123.º, com a seguinte redacção:
+Art. 5.º É aditado ao RAU um capítulo V, do qual faz parte um artigo 123.º, com a seguinte redacção:
 
 ### CAPÍTULO V — Do arrendamento para outros fins não habitacionais
 
@@ -164,16 +184,16 @@ Nos contratos de arrendamento para o exercício de comércio ou indústria em qu
 
 2 - Se o contrato de arrendamento se destinar ao exercício de uma actividade não lucrativa, podem as partes, em alternativa e de forma expressa, convencionar a respectiva sujeição ao regime dos artigos 98.º a 101.º do presente diploma.
 
-###### Art. 6.º O presente diploma não é aplicável aos contratos celebrados antes da sua entrada em vigor.
+Art. 6.º O presente diploma não é aplicável aos contratos celebrados antes da sua entrada em vigor.
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 1995. - Manuel Dias Loureiro - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio - Luís Filipe Alves Monteiro - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 15 de Setembro de 1995.**
+Promulgado em 15 de Setembro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Setembro de 1995.**
+Referendado em 19 de Setembro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

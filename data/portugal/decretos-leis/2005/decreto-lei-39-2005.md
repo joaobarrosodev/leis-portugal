@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/39/2005/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2005-605324
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 816f5cb7a79e59d9820a3b260312cc06ce03985d2f159405ab8ff57ccee3a0c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a14b128534abeba26414a278abc74293ee422506e22be11b91726a71f55a09f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,20 +70,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aenor-auto-estradas do Norte
+- Auto-estrada
 - Auto-estradas do Atlântico
 - Brisa
 - Brisal
-- LUSOPONTE
 - Contrato de Concessão
-- Auto-estrada
-- Veículo
+- LUSOPONTE
 - Portagem
 - Preço
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:510861:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:510861:por
+  label: "Alterada a base XLVIII das bases da concessão aprovadas em anexo ao Dec Lei 248 -A/99, de 06-Jul, na redacção do\
+    \ presente diploma, pelo DEC LEI.44-E/2010.05.05.2010.MOPTC, DR.IS [87-Supl] de 05.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-e-2010-510861
+  date: '2010-05-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/119-b/1999/04/14/p/dre
   label: null
@@ -108,16 +114,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/393-a/1998/12/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/393-a/1998/12/04/p/dre
+- type: cites
+  target: pt:dre:153371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671934:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:32Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +182,7 @@ A base XIV do anexo do [Decreto-Lei n.º 294/97](https://diariodarepublica.pt/dr
 
 1 - Sem prejuízo do disposto no número seguinte, as classes de veículos para efeitos da aplicação das tarifas de portagem por quilómetro de auto-estrada são, por ordem crescente do respectivo valor tarifário, as seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)
 
 2 - Os veículos ligeiros de passageiros e mistos, tal como definidos no Código da Estrada, com dois eixos, peso bruto superior a 2300 kg e inferior ou igual a 3500 kg, com lotação igual ou superior a cinco lugares e uma altura, medida à vertical do primeiro eixo do veículo, igual ou superior a 1,1 m e inferior a 1,3 m, desde que não apresentem tracção às quatro rodas permanente ou inserível, pagam a tarifa de portagem relativa à classe 1 quando utilizem o sistema de pagamento automático.
 
@@ -174,7 +204,7 @@ A base LII do anexo do [Decreto-Lei n.º 168/94](https://diariodarepublica.pt/dr
 
 3 - Sem prejuízo do disposto no número seguinte, as classes de veículos para efeitos da aplicação das taxas de portagem são, por ordem crescente do respectivo valor tarifário, as seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)
 
 4 - Os veículos ligeiros de passageiros e mistos, tal como definidos no Código da Estrada, com dois eixos, peso bruto superior a 2300 kg e inferior ou igual a 3500 kg, com lotação igual ou superior a cinco lugares e uma altura, medida à vertical do primeiro eixo do veículo, igual ou superior a 1,10 m e inferior a 1,3 m, desde que não apresentem tracção às quatro rodas permanente ou inserível, pagam a tarifa de portagem relativa à classe 1 quando utilizem o sistema de pagamento automático.
 
@@ -198,7 +228,7 @@ A base XLVII do anexo do [Decreto-Lei n.º 393-A/98](https://diariodarepublica.p
 
 1 - Sem prejuízo do disposto no número seguinte, as classes de veículos para efeitos da aplicação das tarifas de portagem são, por ordem crescente do respectivo valor tarifário, as seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)
 
 2 - Os veículos ligeiros de passageiros e mistos, tal como definidos no Código da Estrada, com dois eixos, peso bruto superior a 2300 kg e inferior ou igual a 3500 kg, com lotação igual ou superior a cinco lugares e uma altura, medida à vertical do primeiro eixo do veículo, igual ou superior a 1,1 m e inferior a 1,3 m, desde que não apresentem tracção às quatro rodas permanente ou inserível, pagam a tarifa de portagem relativa à classe 1 quando utilizem o sistema de pagamento automático.
 
@@ -216,7 +246,7 @@ A base XLVIII do anexo do [Decreto-Lei n.º 248-A/99](https://diariodarepublica.
 
 1 - Sem prejuízo do disposto no número seguinte, as classes de veículos para efeitos da aplicação das tarifas de portagem são, por ordem crescente do respectivo valor tarifário, as seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)
 
 2 - Os veículos ligeiros de passageiros e mistos, tal como definidos no Código da Estrada, com dois eixos, peso bruto superior a 2300 kg e inferior ou igual a 3500 kg, com lotação igual ou superior a cinco lugares e uma altura, medida à vertical do primeiro eixo do veículo, igual ou superior a 1,1 m e inferior a 1,3 m, desde que não apresentem tracção às quatro rodas permanente ou inserível, pagam a tarifa de portagem relativa à classe 1 quando utilizem o sistema de pagamento automático.
 
@@ -236,7 +266,7 @@ A base LXII do anexo do [Decreto-Lei n.º 215-B/2004](https://diariodarepublica.
 
 1 - Sem prejuízo do disposto no número seguinte, as classes de veículos para efeitos da aplicação das tarifas de portagem são, por ordem crescente do respectivo valor tarifário, as seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034a00/12151218.pdf)
 
 2 - Os veículos ligeiros de passageiros e mistos, tal como definidos no Código da Estrada, com dois eixos, peso bruto superior a 2300 kg e inferior ou igual a 3500 kg, com lotação igual ou superior a cinco lugares e uma altura, medida à vertical do primeiro eixo do veículo, igual ou superior a 1,1 m e inferior a 1,3 m, desde que não apresentem tracção às quatro rodas permanente ou inserível, pagam a tarifa de portagem relativa à classe 1 quando utilizem o sistema de pagamento automático.
 
@@ -272,12 +302,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - Manuel Correa de Barros de Lancastre - António José de Castro Bagão Félix - Jorge Manuel Martins Borrego.
 
-**Promulgado em 28 de Janeiro de 2005.**
+Promulgado em 28 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Fevereiro de 2005.**
+Referendado em 4 de Fevereiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

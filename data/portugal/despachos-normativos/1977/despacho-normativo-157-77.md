@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 162/1977, 1º Suplemento, Série I de 1977-07-15
   number: '162'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1770-(1) a 1770-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf
 entry_into_force_dates: []
@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/157-1977-165189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:36:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abbc05be1b86d673341e11d79ecc551284dd2624e4dace34b5861f0353117d43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4607392c6265a480d749af403a2004daa4255d1f7154fa745cfa77823445779f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:36:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Empresa Pública
+- Indústria Metalúrgica
+- Preço
+- Siderurgia Nacional
+relationships:
+- type: cites
+  target: pt:dre:407726:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:256203:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 190/1977, Série I de 1977-08-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-256203
+  date: '1977-08-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:36:52Z'
   warnings: []
   errors: []
 ---
@@ -196,7 +209,7 @@ Paridade fábrica da Maia ... 9500$00
 
 Extras de secção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 Extras de comprimento:
 
@@ -288,7 +301,7 @@ Paridade fábrica da Maia ... 10000$00
 
 Extras de secção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 Extras de qualidade:
 
@@ -398,7 +411,7 @@ Paridade fábrica da Maia ... 10000$00
 
 Extras de secção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 Extras para dimensões de fabrico não corrente:
 
@@ -612,11 +625,11 @@ Extras de secção:
 
 Perfis UPN:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 Perfis IPN:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 Extras de comprimento:
 
@@ -774,13 +787,13 @@ Extras de espessura e largura:
 
 Os extras seguintes aplicam-se quer às chapas cortadas em formatos, quer às chapas em rolos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 Extras de comprimento:
 
 Estes extras aplicam-se só às chapas cortadas em formatos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 Extras de tolerâncias:
 
@@ -836,7 +849,7 @@ Na rectidão dos bordos ... 400$00
 
 Extras de rugosidade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 Extras de acondicionamento:
 
@@ -874,7 +887,7 @@ Chapas cortadas em formatos:
 
 As chapas cortadas são normalmente fornecidas em balotes com o peso entre 2 t a 2,5 t:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 Chapas em rolos:
 
@@ -884,7 +897,7 @@ Além disso, 20% do peso total da encomenda poderá ser fornecido em rolos de me
 
 Se na encomenda se indicar um peso máximo e mínimo para o rolo, a média será tomada como peso nominal especificado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 O peso mínimo a encomendar para os rolos é de 2 t.
 
@@ -998,7 +1011,7 @@ Os extras de recepção, uma vez esta acordada, serão facturados mesmo que ela 
 
 Extras de quantidade por posição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 Estes extras são aplicáveis a lotes constituídos por chapas cujas dimensões, qualidade e demais características são idênticas, encomendadas de uma só vez, com a faculdade para a Siderurgia Nacional de os expedir, de uma única vez, para o mesmo destino.
 
@@ -1030,7 +1043,7 @@ A carga de zinco nominal normal é de 350 g/m2 a 400 g/m2, dupla face (AFNOR A 3
 
 Revestimento 450 g/m2 a 475 g/m2:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 Outros revestimentos ... A acordar
 
@@ -1048,7 +1061,7 @@ Extras de espessura e largura:
 
 Os extras seguintes aplicam-se quer às chapas cortadas em formatos, quer às chapas em rolos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 Nas chapas galvanizadas onduladas ou nervuradas a largura a considerar é a desenvolvida, que é de 1000 mm.
 
@@ -1058,11 +1071,11 @@ Estes extras aplicam-se só às chapas cortadas em formatos, planas ou perfilada
 
 Chapas planas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 Chapas perfiladas (onduladas ou nervuradas):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 Extras de tolerâncias dimensionais:
 
@@ -1084,7 +1097,7 @@ Normais ... Base
 
 Reduzidas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 Na planidade:
 
@@ -1092,7 +1105,7 @@ Normais ... Base
 
 Reduzidas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 Extras de acondicionamento:
 
@@ -1130,7 +1143,7 @@ Balote de menos de 1 t ... Não se aceita
 
 Chapas em rolos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 Não é possível fornecer rolos com um peso exacto. O peso dos rolos fornecido será considerado normal desde que esteja compreendido entre 75% e 100% do peso nominal especificado. Além disso, 20% da tonelagem da posição poderá ser fornecida em rolos com peso compreendido entre 25% e 75% do peso nominal especificado.
 
@@ -1190,13 +1203,13 @@ Todavia, o quantitativo por comprimento não poderá ser inferior a 2 t.
 
 Chapas planas, onduladas e nervuradas terão de ser consideradas separadamente para efeito de determinação da «posição».
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 A encomenda considerar-se-á satisfeita, por posição, com uma tolerância em relação à quantidade aceite de (mais ou menos)10%.
 
 De encomenda global:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 ## ANEXO II — Folha-de-flandres
 
@@ -1210,29 +1223,29 @@ Chapa preparada black plate - chapa fina de aço, laminada a frio, de espessura 
 
 Preço base:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 Extras de revestimento de estanho:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 Outros revestimentos ... A acordar
 
 Extras de espessura:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 (salvo imposição em contrário, a maior dimensão de folha)
 
 Extras de largura de laminagem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 (salvo imposição em contrário, a menor dimensão da folha)
 
 Extras de comprimento de corte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 Extras de acondicionamento:
 
@@ -1310,10 +1323,10 @@ As chapas que servirem a ensaios de recepção serão introduzidas nos balotes, 
 
 Extras de quantidade por posição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16201/00010013.pdf)
 
 Estes extras aplicam-se a lotes de folha-de-flandres cujas dimensões, qualidade, revestimento e demais características são idênticos, encomendados de uma só vez, com a faculdade para a Siderurgia Nacional de os expedir, de uma única vez, para o mesmo destino.
 
 A encomenda considerar-se-á satisfeita, por posição, com uma tolerância em relação à quantidade aceite de (mais ou menos) 10%.
 
-**O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa. - O Ministro do Comércio e Turismo, Carlos Alberto da Mota Pinto.**
+O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa. - O Ministro do Comércio e Turismo, Carlos Alberto da Mota Pinto.

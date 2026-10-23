@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/237/2003/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2003-484396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81c36b52acf370a28709989ddf42391483bfd884d11c69d1432fac96e11aa703
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7a69b62ab1dd586a0d50c24420c0a65f6e6661e06c30cd9a91467ce859de4fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Indústria Automóvel
+- Equipamento de Veículo
 - Equipamento Eléctrico
 - Homologação
-- Veículo
-- Segurança Rodoviária
-- Equipamento de Veículo
-- Regulamento
-- Motor
+- Indústria Automóvel
 - Mecânica Geral
+- Motor
+- Regulamento
+- Segurança Rodoviária
 - Sinalização
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:458194:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457048:por
+  label: "Alterados os arts. 157.º e 158.º e os anexos 36 e 37-A, do Regulamento dos Elementos e Características dos Veículos\
+    \ a Motor de Duas e Três Rodas, aprovado pelo Dec Lei 267-B/2000, de 20-Out, todos na redacção do presente diploma, pelo\
+    \ DEC LEI.14/2005.10.01.2005.MAI, DR.IS-A [6] de 10.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-2005-457048
+  date: '2005-01-10'
+- type: amended_by
+  target: pt:dre:641686:por
+  label: "Alterado o art. 154º do Regulamento da Homologação de Veículos a Motor de Duas e Três Rodas, aprovado pelo Dec Lei\
+    \ 267-B/2000 de 20-Out, na redacção do presente diploma, pelo DEC LEI.335/2007.11.10.2007.MAI, DR.IS [196] de 11.10.2007\0\
+    07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/335-2007-641686
+  date: '2007-10-11'
+- type: amended_by
+  target: pt:dre:456485:por
+  label: "Alterado o art. 157.º e o anexo 37-A, do Regulamento dos Elementos e Características dos Veículos a Motor de Duas\
+    \ e Três Rodas, aprovado pelo Dec Lei 267-B/2000, de 20-Out, na redacção do presente diploma, pelo DEC LEI.115/2008.03.07.2008.MOPTC,\
+    \ DR.IS [127] de 03.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-2008-456485
+  date: '2008-07-03'
 - type: cites
   target: celex:31997L0024
   label: null
@@ -91,16 +112,22 @@ relationships:
   target: celex:32002L0051
   label: null
   source: http://data.europa.eu/eli/dir/2002/51/oj
+- type: repealed_by
+  target: pt:dre:458194:por
+  label: "Revogado o Dec Lei 267-B/2000, de 20-Out, a partir de 20.07.2010, na redacção do presente diploma, pelo DEC LEI.86-A/2010.15.07.2010.MOPTC,\
+    \ DR.IS [136-Supl] de 15.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2010-458194
+  date: '2010-07-15'
 article_structure:
-  article_count: 10
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:35Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +206,9 @@ b) Distância mínima ao solo: 310 mm;
 
 c) Relação da caixa de velocidades global mínima na relação de transmissão mais elevada (relação primária x relação da caixa de velocidades x relação de transmissão final) de 6,0.
 
-###### Artigo 157.º — Ensaio do tipo I
+Artigo 157.º
+
+Ensaio do tipo I
 
 1 - O ensaio do tipo I para controlo da quantidade média das emissões de escape numa zona urbana congestionada consta dos números seguintes.
 
@@ -207,7 +236,9 @@ a) É necessário apenas um ensaio no caso de o resultado obtido para cada polue
 
 b) No caso de o requisito constante da alínea anterior não ser satisfeito, devem ser efectuados apenas dois ensaios se se satisfizerem as presentes condições para cada um dos poluentes, sendo V(índice 1) (igual ou menor que) 0,85 L; V(índice 1) + V(índice 2) (igual ou menor que) 1,70 L e V(índice 2) (igual ou menor que) L.
 
-###### Artigo 158.º — Ensaio do tipo II
+Artigo 158.º
+
+Ensaio do tipo II
 
 1 - O ensaio do tipo II para controlo das emissões de monóxido de carbono com o motor à velocidade de marcha lenta sem carga e os dados sobre as emissões exigidos para o controlo técnico constam dos números seguintes.
 
@@ -229,7 +260,9 @@ b) Regista-se a velocidade do motor durante o ensaio, incluindo as eventuais tol
 
 6 - Os dados registados devem ser inscritos nas secções pertinentes do documento, referidas no anexo VII do Decreto-Lei n.º 30/2002, de 16 de Dezembro.
 
-###### Artigo 159.º — Conformidade da produção
+Artigo 159.º
+
+Conformidade da produção
 
 1 - ...
 
@@ -325,15 +358,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de Julho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - João Luís Mota de Campos - Carlos Manuel Tavares da Silva - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 1 de Setembro de 2003.**
+Promulgado em 1 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Setembro de 2003.**
+Referendado em 4 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -345,7 +378,7 @@ Categorias de lâmpadas
 
 (referente ao artigo 95.º da secção IV do capítulo III)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf))](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)
 
 2 - O Anexo 36 do «Regulamento dos Elementos e Características dos Veículos a Motor de Duas e Três Rodas», passa a ter a seguinte redacção:
 
@@ -499,7 +532,7 @@ Controlo da emissão média de poluentes numa zona urbana congestionada
 
 5.2 - ...
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)
 
 5.3 - ...
 
@@ -717,27 +750,27 @@ iii) Distância em relação à extremidade anterior do motociclo ou triciclo a 
 
 8.4.1 - ...»
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)
 
 Figura 1
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)
+[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)
 
 Figura 2
 
 Exemplo n.º 1 de sistema de recolha dos gases de escape
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)
+[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)
 
 Figura 3
 
 Exemplo n.º 2 de sistema de recolha dos gases de escape
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)
+[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)
 
 Figura 4
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)
+[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)
 
 3 - O Anexo 37 do «Regulamento dos Elementos e Características dos Veículos a Motor de Duas e Três Rodas», passa a ter a seguinte redacção:
 
@@ -781,7 +814,7 @@ Quadro e conformidade de produção
 
 (referente aos artigos 158.º e 159.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf))](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)
 
 5 - O anexo 44 do «Regulamento dos Elementos e Características dos Veículos a Motor de Duas e Três Rodas», passa a ter a seguinte redacção:
 
@@ -797,4 +830,4 @@ Ficha de informações e certificado de homologação e características do comb
 
 3 - As especificações do combustível de referência (gasolina) referido no artigo 170.º do presente Regulamento constam dos quadros seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf))](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/229a00/64866526.pdf)

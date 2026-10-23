@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/216/2009/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2009-489496
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 857cbd58a5e55af608be70ddeee4b7c2f95ad6a42a2cedef1ce4d2a72c73b6c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9622777c115cbf863859353d0fbec00a1058af86bd957140075725fa62b5da08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aeroporto
+- ANA
 - Assistência em Escala
-- Transporte Aéreo
 - Domínio Público do Estado
 - Licenciamento
-- ANA
 - Taxa Aeroportuária
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:190615:por
@@ -104,16 +104,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/280/1999/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/280/1999/07/26/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636707:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:190615:por
+  label: "Revogado o Dec Lei 102/90, de 21-mar, na redação do presente diploma e dos Dec Lei 280/99, de 26-jul e 268/2007,\
+    \ de 26-jul, pelo DEC LEI.254/2012.28.11.2012.MEE, DR.IS [230] de 28.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2012-190615
+  date: '2012-11-28'
 article_structure:
-  article_count: 48
+  article_count: 41
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:40Z'
   warnings: []
   errors: []
 ---
@@ -166,17 +208,17 @@ Os artigos 2.º, 16.º, 17.º, 21.º, 26.º, 30.º e 32.º do [Decreto-Lei n.º 
 
 6 - Os procedimentos de selecção referidos no presente artigo regem-se, com as devidas adaptações, pelo disposto no Código dos Contratos Públicos, aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro, em tudo o que não esteja especialmente regulado no presente decreto-lei.
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - ...
 
 2 - No conjunto dos aeroportos que constitui a rede aeroportuária nos termos do n.º 2 do artigo 6.º do [Decreto-Lei n.º 217/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2009-489508), de 4 de Setembro, não são exigíveis quaisquer taxas às Forças Armadas e forças e serviços de segurança, bem como à Autoridade Nacional de Protecção Civil, corpos de bombeiros em missões de segurança interna e protecção civil, quando no exercício de competências ou funções legais e em relação às áreas mínimas e meios de transporte oficiais ou de serviço necessários para o exercício das suas atribuições públicas, nem à Empresa de Meios Aéreos, S. A., aquando da disponibilização dos meios aéreos necessários à prossecução das missões públicas daquelas entidades.
 
-###### Artigo 17.º
+Artigo 17.º
 
 Atendendo à natureza dos serviços e actividades desenvolvidos, as taxas a cobrar nos termos do artigo anterior agrupam-se em taxas de tráfego, de controlo terminal, de assistência em escala, de ocupação e outras taxas de natureza comercial.
 
-###### Artigo 21.º
+Artigo 21.º
 
 1 - As taxas devidas pela ocupação de terrenos e instalações na área dos aeroportos e aeródromos públicos vencem-se no dia 1 do mês anterior àquele a que respeitam e são pagas até ao dia 8 desse mês.
 
@@ -184,17 +226,17 @@ Atendendo à natureza dos serviços e actividades desenvolvidos, as taxas a cobr
 
 3 - ...
 
-###### Artigo 26.º
+Artigo 26.º
 
 1 - ...
 
 2 - No caso de bens perecíveis ou que representem comprovadamente risco para a saúde ou para a integridade física, as entidades licenciadoras podem promover a respectiva destruição ou abate ou então, se possível, a sua alienação, deduzindo, neste último caso, o valor obtido ao montante da dívida existente.
 
-###### Artigo 30.º
+Artigo 30.º
 
 O presente decreto-lei é desenvolvido por decreto regulamentar, nomeadamente no que respeita aos quadros das ocupações e actividades autorizadas na área dos aeroportos e aeródromos públicos, através da especificação e classificação das taxas correspondentes e, bem assim, das respectivas isenções e reduções, tendo em conta o disposto no artigo 16.º
 
-###### Artigo 32.º
+Artigo 32.º
 
 1 - O presente decreto-lei revoga o [Decreto-Lei n.º 211/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1976-501379), de 22 de Março, e o [Decreto n.º 235/76](https://diariodarepublica.pt/dr/detalhe/decreto/235-1976-500433), de 3 de Abril.
 
@@ -230,7 +272,7 @@ São aditados ao [Decreto-Lei n.º 102/90](https://diariodarepublica.pt/dr/detal
 
 3 - As empresas que explorem domínio público aeroportuário são sempre ouvidas no que respeita ao estabelecimento de isenções e reduções de taxas que não resultem de acordos internacionais.
 
-###### Artigo 31.º-A
+Artigo 31.º-A
 
 Até à publicação de legislação específica, a determinação e fixação das taxas de terminal, devidas pelos serviços prestados pela Navegação Aérea de Portugal - NAV Portugal, E. P. E., são fixadas por portaria do membro do Governo responsável pelo sector dos transportes, após prévio parecer do Instituto Nacional de Aviação Civil, I. P.»
 
@@ -248,15 +290,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - João António da Costa Mira Gomes - Francisco Carlos da Graça Nunes Correia - Fernando Teixeira dos Santos - Mário Lino Soares Correia.
 
-**Promulgado em 22 de Agosto de 2009.**
+Promulgado em 22 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de Agosto de 2009.**
+Referendado em 25 de Agosto de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 102/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1990-333343), de 21 de Março
 

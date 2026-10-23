@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/01/00900/0012100124.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/6/2019/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2019-117754017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf2bfdc535c8684bad6ba8f4b801a3d39a651cd483fe818f42c3f717a21cf314
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e132a847a161c16cb295d21334bec55041f7527eb2a06cb98de90276e4c8dac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Pensões e Remunerações
+- Administração Pública
+- Aposentação
+- Aposentado
+- Caixa Geral de Aposentações
+- Estatuto da Aposentação
 - Estatuto Disciplinar dos Trabalhadores que Exercem Funções Públicas
 - Função Pública
-- Aposentação
-- Sanção Disciplinar
-- Aposentado
-- Estatuto da Aposentação
-- Administração Pública
-- Processo Disciplinar
-- Caixa Geral de Aposentações
+- Funcionário Público
 - Idade de Reforma
 - Invalidez
 - Lei Geral do Trabalho em Funções Públicas
 - Pensão de Aposentação
 - Pensão de Invalidez
-- Pensão de Velhice
 - Pensão de Reforma
+- Pensão de Velhice
+- Processo Disciplinar
 - Reembolso
 - Reforma
 - Remuneração
 - Responsabilidade Solidária
-- Setor Público
+- Sanção Disciplinar
 - Sector Público Administrativo
-- Funcionário Público
+- Setor Público
 - Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
@@ -120,16 +120,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/217/2016/11/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/217/2016/11/10/p/dre
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75708270:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:29Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +204,9 @@ Os artigos 76.º, 176.º, 291.º e 292.º da LTFP passam a ter a seguinte redaç
 
 Sem prejuízo do disposto no artigo 176.º, o empregador público tem poder disciplinar sobre o trabalhador ao seu serviço, enquanto vigorar o vínculo de emprego público.
 
-###### Artigo 176.º — [...]
+Artigo 176.º
+
+[...]
 
 1 - [...].
 
@@ -188,7 +218,9 @@ Sem prejuízo do disposto no artigo 176.º, o empregador público tem poder disc
 
 5 - Em caso de cessação do vínculo de emprego público, o procedimento disciplinar ou a execução de qualquer das sanções previstas nas alíneas b) a d) do n.º 1 do artigo 180.º suspende-se por um período máximo de 18 meses, podendo prosseguir caso o trabalhador constitua novo vínculo de emprego público para as mesmas funções a que o procedimento disciplinar diz respeito e desde que do seu início, ressalvado o tempo de suspensão, não decorram mais de 18 meses até à notificação ao trabalhador da decisão final.
 
-###### Artigo 291.º — [...]
+Artigo 291.º
+
+[...]
 
 [...]:
 
@@ -198,7 +230,9 @@ b) [...];
 
 c) Com a reforma ou aposentação do trabalhador, por velhice ou invalidez, ou quando o trabalhador completar 70 anos de idade, sem prejuízo do disposto no artigo 294.º-A.
 
-###### Artigo 292.º — [...]
+Artigo 292.º
+
+[...]
 
 1 - O vínculo de emprego público caduca pela reforma ou aposentação do trabalhador, por velhice ou invalidez, ou quando o trabalhador complete 70 anos de idade, sem prejuízo do disposto no artigo 294.º-A.
 
@@ -298,12 +332,14 @@ O artigo 5.º da [Lei n.º 11/2014](https://diariodarepublica.pt/dr/detalhe/lei/
 
 Visto e aprovado em Conselho de Ministros de 20 de dezembro de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - José António Fonseca Vieira da Silva.
 
-**Promulgado em 4 de janeiro de 2019.**
+Promulgado em 4 de janeiro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de janeiro de 2019.**
+Referendado em 9 de janeiro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111970191

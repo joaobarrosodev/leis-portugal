@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/199/2003/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-2003-511825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af922a2e26c78c992ed8abf25624904ba9f5be76a31b696f4b6da46f0fb2f1ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa55a54cdf8089b0156d22de1347585e6bc282465adcab66bc52e8751f3ed105
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Processo Declarativo
-- Liquidação Judicial
-- Processo Civil
-- Publicidade
+- Agente de Execução
+- Cobrança de Dívidas
 - Código Civil
 - Código do Processo Civil
 - Cônjuge
-- Dívida
 - Crédito
+- Direito Civil
+- Dívida
 - Execução de Sentença
+- Execução por Dívidas
+- Liquidação Judicial
 - Notificação
 - Prazo
-- Cobrança de Dívidas
-- Execução por Dívidas
+- Processo Civil
 - Processo de Execução
-- Direito Civil
-- Agente de Execução
+- Processo Declarativo
+- Publicidade
+- Recurso
 - Testemunha
 - Venda
 relationships:
@@ -91,6 +91,39 @@ relationships:
   target: pt:dre:107061862:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:538423:por
+  label: "Alterados, a partir da entrada em vigor, os arts. 222.º e 806.º do Código do Processo Civil aprovado pelo Dec Lei\
+    \ 44129, de 28-Dez 1961, na redacção do presente diploma, pelo DEC LEI.53/2004.18.03.2004.MJ, DR.IS-A [66] de 18.03.2004\0\
+    4"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2004-538423
+  date: '2004-03-18'
+- type: amended_by
+  target: pt:dre:693853:por
+  label: "Alterado o art. 930º do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961, com a redacção do\
+    \ presente diploma, pela LEI.6/2006.27.02.2006.AR, DR.IS-A [41] de 27.02.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/6-2006-693853
+  date: '2006-02-27'
+- type: amended_by
+  target: pt:dre:640911:por
+  label: "Alterados, a partir de 01 de Janeiro de 2008, sem prejuízo do disposto nos artigos 11.º e 12.º, os artigos 693.º,\
+    \ 724.º e 776.º do Código de Processo Civil, aprovado pelo Decreto-Lei 44129, de 28 de Dezembro de 1961, na redacção do\
+    \ presente diploma, pelo DEC LEI.303/2007.24.08.2007.MJ, DR.IS [163] de 24.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-2007-640911
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterados, a partir de 31.03.2009, os art. 252º-A, 806º, 860º, 864º-A, 878º e 890º do Código de Processo Civil,\
+    \ aprovado pelo Dec Lei 44129 de 28-Dez 1961, na redacção do presente diploma, pelo DEC LEI.226/2008.20.11.2008.MJ, DR.IS\
+    \ [226] de 20.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2008-11-20'
+- type: amended_by
+  target: pt:dre:175305:por
+  label: "Alterado, a partir de 12.11.2012, o art.. 222º do Código de Processo Civil, na redação do presente diploma, pela\
+    \ LEI.31/2012.14.08.2012.AR, DR.IS [157] de 14.08.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-2012-175305
+  date: '2012-08-14'
 - type: cites
   target: eli:http://data.dre.pt/el
   label: null
@@ -131,16 +164,279 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/39/1995/02/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/39/1995/02/15/p/dre
+- type: cites
+  target: pt:dre:147384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667744:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:152939:por
+  label: "Rectificado o art. 1.º, na parte que altera os arts. 389.º e 864.º-A, do Código de Processo Civil, aprovado pelo\
+    \ Dec Lei 44129 de 28-Dez 1961, bem como o nº 3 do art. 4.º na parte que altera o mesmo código, ambos do presente diploma,\
+    \ pela DECL-RECT.16-B/2003.31.10.2003.PCM, DR.IS-A [253-Supl] de 31.10.2003\0003\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-b-2003-152939
+  date: '2003-09-10'
 article_structure:
-  article_count: 21
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:50Z'
   warnings: []
   errors: []
 ---
@@ -199,7 +495,9 @@ Os artigos 138.º, 222.º, 252.º-A, 388.º, 389.º, 694.º, 696.º, 724.º, 776
 
 5 - ...
 
-###### Artigo 222.º — [...]
+Artigo 222.º
+
+[...]
 
 Na distribuição há as seguintes espécies:
 
@@ -223,7 +521,9 @@ Na distribuição há as seguintes espécies:
 
 10.ª ...
 
-###### Artigo 252.º-A — [...]
+Artigo 252.º-A
+
+[...]
 
 1 - ...
 
@@ -233,7 +533,9 @@ Na distribuição há as seguintes espécies:
 
 4 - A dilação resultante do disposto na alínea a) do n.º 1 acresce à que eventualmente resulte do estabelecido na alínea b) e nos n.os 2 e 3.
 
-###### Artigo 388.º — [...]
+Artigo 388.º
+
+[...]
 
 1 - Quando o requerido não tiver sido ouvido antes do decretamento da providência, é-lhe lícito, em alternativa, na sequência da notificação prevista no n.º 6 do artigo 385.º:
 
@@ -243,13 +545,17 @@ b) ...
 
 2 - ...
 
-###### Artigo 389.º — [...]
+Artigo 389.º
+
+[...]
 
 1 - ...
 
 2 - Se o requerido não tiver sido ouvido antes do decretamento da providência, o prazo para a propositura da acção de que aquela depende é de 10 dias, contados da notificação ao requerente de que foi efectuada ao requerido a notificação prevista no n.º 6 do artigo 385.º
 
-###### Artigo 694.º — Termos a seguir na declaração do efeito suspensivo
+Artigo 694.º
+
+Termos a seguir na declaração do efeito suspensivo
 
 1 - Requerida a declaração do efeito suspensivo, é ouvido o apelado.
 
@@ -257,17 +563,23 @@ b) ...
 
 3 - (Revogado.)
 
-###### Artigo 696.º — [...]
+Artigo 696.º
+
+[...]
 
 Se houver dificuldades na fixação da caução a que se referem o n.º 3 do artigo 692.º e o n.º 2 do artigo 693.º, calcula-se o seu valor mediante avaliação feita por um único perito nomeado pelo juiz.
 
-###### Artigo 724.º — [...]
+Artigo 724.º
+
+[...]
 
 1 - ...
 
 2 - Se o recurso for admitido no efeito suspensivo, pode o recorrido exigir a prestação de caução, sendo neste caso aplicável o disposto no n.º 2 do artigo 693.º; se o efeito for meramente devolutivo, pode o recorrido requerer que se extraia traslado, o qual compreende unicamente o acórdão, salvo se o recorrido fizer, à sua custa, inserir outras peças.
 
-###### Artigo 776.º — [...]
+Artigo 776.º
+
+[...]
 
 Se o fundamento da revisão for julgado procedente, é revogada a decisão, observando-se o seguinte:
 
@@ -277,7 +589,9 @@ b) Nos casos das alíneas a) e c) do artigo 771.º, profere-se nova decisão, pr
 
 c) Nos casos das alíneas b) e d) do artigo 771.º, ordena-se que sigam os termos necessários para a causa ser novamente instruída e julgada, aproveitando-se a parte do processo que o fundamento da revisão não tenha prejudicado.
 
-###### Artigo 806.º — [...]
+Artigo 806.º
+
+[...]
 
 1 - ...
 
@@ -295,7 +609,9 @@ c) A suspensão da instância por não se terem encontrado bens penhoráveis, no
 
 5 - ...
 
-###### Artigo 812.º — [...]
+Artigo 812.º
+
+[...]
 
 1 - ...
 
@@ -311,7 +627,9 @@ c) A suspensão da instância por não se terem encontrado bens penhoráveis, no
 
 7 - ...
 
-###### Artigo 860.º — [...]
+Artigo 860.º
+
+[...]
 
 1 - ...
 
@@ -323,15 +641,21 @@ c) A suspensão da instância por não se terem encontrado bens penhoráveis, no
 
 5 - É aplicável o disposto no n.º 3 do artigo 861.º
 
-###### Artigo 864.º-A — [...]
+Artigo 864.º-A
+
+[...]
 
 O cônjuge do executado, citado nos termos da alínea a) do n.º 3 do artigo anterior, é admitido a deduzir, no prazo de 10 dias, ou até ao termo do prazo concedido ao executado, se terminar depois daquele, oposição à execução ou à penhora e a exercer, na fase do pagamento, todos os direitos que a lei processual confere ao executado, sem prejuízo de poder também requerer a separação dos bens do casal, nos termos do n.º 5 do artigo 825.º, quando a penhora recaia sobre bens comuns.
 
-###### Artigo 878.º — [...]
+Artigo 878.º
+
+[...]
 
 É aplicável à adjudicação de bens, com as necessárias adaptações, o disposto nos artigos 887.º e 888.º, no n.º 2 do artigo 897.º, nos n.os 1 a 3 do artigo 898.º e nos artigos 900.º, 901.º e 908.º a 911.º
 
-###### Artigo 890.º — [...]
+Artigo 890.º
+
+[...]
 
 1 - ...
 
@@ -343,11 +667,15 @@ O cônjuge do executado, citado nos termos da alínea a) do n.º 3 do artigo ant
 
 5 - ...
 
-###### Artigo 928.º — [...]
+Artigo 928.º
+
+[...]
 
 Na execução para entrega de coisa certa, o executado é citado para, no prazo de 20 dias, fazer a entrega ou opor-se à execução.
 
-###### Artigo 929.º — [...]
+Artigo 929.º
+
+[...]
 
 1 - ...
 
@@ -355,7 +683,9 @@ Na execução para entrega de coisa certa, o executado é citado para, no prazo 
 
 3 - A oposição com fundamento em benfeitorias não é admitida quando, baseando-se a execução em sentença condenatória, o executado não haja oportunamente feito valer o seu direito a elas.
 
-###### Artigo 930.º — [...]
+Artigo 930.º
+
+[...]
 
 1 - ...
 
@@ -405,12 +735,12 @@ O artigo 21.º do [Decreto-Lei n.º 38/2003](https://diariodarepublica.pt/dr/det
 
 Visto e aprovado em Conselho de Ministros de 31 de Julho de 2003. - José Manuel Durão Barroso - João Luís Mota de Campos.
 
-**Promulgado em 2 de Setembro de 2003.**
+Promulgado em 2 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Setembro de 2003.**
+Referendado em 3 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

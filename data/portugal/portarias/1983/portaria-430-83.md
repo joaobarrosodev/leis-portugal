@@ -46,40 +46,105 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/430-1983-312865
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T07:40:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ddc350d3e4ab2517b238db0055198668ae1daba9ed37768cfdb8cdb3f4904c7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d73812ea4e45aa072e052f5226ccdfd8e30f967594be3d9c317a8c0c9acb648
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:40:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Actualização de Pensões
+- Administração Local
+- Administração Ultramarina
+- Cálculo de Pensões
+- Ensino Superior
+- Equivalência de Categorias
+- Magistrado Judicial
+- Notário
+- Pensão de Aposentação
+- Pensão de Preço de Sangue
+- Pensão de Reforma
+- Pensões
+- Pessoal Docente
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:143292:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:283151:por
+  label: "Alterado o n.º 1.º e aditado o n.º 3 ao preâmbulo, pela PORT.545/93.26.05.1993.MF, DR.IS-B [122] de 26.05.1993\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/545-1993-283151
+  date: '1993-05-26'
+- type: amended_by
+  target: pt:dre:143292:por
+  label: "Suprimida a categoria de adjunto de divisão de 1.ª classe com licenciatura, da tabela de equivalências relativa\
+    \ a categorias específicas da antiga administração ultramarina, constante do mapa IV anexo ao presente diploma, e alterada\
+    \ a designação de «adjunto de divisão de 1.ª classe sem licenciatura» para «adjunto de divisão de 1.ª classe», pela PORT.123/95.04.02.1995.MF,\
+    \ DR.IS-B [30] de 04.02.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/123-1995-143292
+  date: '1995-02-04'
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575937:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:384060:por
+  label: Rectificadas as categorias constantes do mapa IV anexo ao presente diploma, pela PORT.293/84.16.05.1984.PCM, DR.IS
+    [113] de 16.05.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/293-1984-384060
+  date: '1984-05-16'
+- type: corrected_by
+  target: pt:dre:401371:por
+  label: Rectificadas as categorias constantes do mapa anexo ao presente diploma, pela PORT.907/84.13.12.1984.PCM, DR.IS [287]
+    de 13.12.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/907-1984-401371
+  date: '1984-12-13'
+- type: corrected_by
+  target: pt:dre:354959:por
+  label: Alterado o mapa IV anexo pela PORT.693/88.15.10.1988.MF, DR.IS [239] de 15.10.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/693-1988-354959
+  date: '1988-10-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:40:04Z'
   warnings: []
   errors: []
 ---
@@ -120,15 +185,15 @@ Conservadores, notários e oficiais dos registos e do notariado
 
 Conservadores dos registos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/08600/12781293.pdf))](https://files.diariodarepublica.pt/1s/1983/04/08600/12781293.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/08600/12781293.pdf)
 
 Notários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/08600/12781293.pdf))](https://files.diariodarepublica.pt/1s/1983/04/08600/12781293.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/08600/12781293.pdf)
 
 Oficiais dos registos e do notariado (ver nota 4)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/08600/12781293.pdf))](https://files.diariodarepublica.pt/1s/1983/04/08600/12781293.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/08600/12781293.pdf)
 
 (nota 4) Designados por pessoal auxiliar antes da publicação do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro.
 
@@ -136,20 +201,20 @@ Mapa II a que se refere o n.º 1.º da Portaria n.º 430/83
 
 Professores do ensino superior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/08600/12781293.pdf))](https://files.diariodarepublica.pt/1s/1983/04/08600/12781293.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/08600/12781293.pdf)
 
 Mapa III a que se refere o n.º 1.º da Portaria n.º 430/83
 
 Categorias específicas da administração local
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/08600/12781293.pdf))](https://files.diariodarepublica.pt/1s/1983/04/08600/12781293.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/08600/12781293.pdf)
 
 Pensões pagas pela Câmara Municipal de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/08600/12781293.pdf))](https://files.diariodarepublica.pt/1s/1983/04/08600/12781293.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/08600/12781293.pdf)
 
 Mapa IV a que se refere o n.º 1.º da Portaria n.º 430/83
 
 Categorias específicas da antiga administração ultramarina
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/08600/12781293.pdf))](https://files.diariodarepublica.pt/1s/1983/04/08600/12781293.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/08600/12781293.pdf)

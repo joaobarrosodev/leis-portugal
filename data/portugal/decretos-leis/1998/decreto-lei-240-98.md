@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/240/1998/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1998-435238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cdc3905fdd9b8cf5fb463cf26b735fe030314ef49b8425d28c3028d448a433d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1754e4d5bb16497444fb8ea736267f60a65dcbd03d8a59f54a5a0b4f97256066
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Pensões
-- Função Pública
 - Aposentação
+- Caixa Geral de Aposentações
 - Cálculo de Pensões
 - Deficiente das Forças Armadas
-- Caixa Geral de Aposentações
-- Serviço Militar
+- Forças Armadas
+- Função Pública
 - Inserção Profissional
+- Inserção Social
 - Instituto Público
 - Invalidez
 - Junta Médica
-- Forças Armadas
+- Militar
 - Pensão de Aposentação
 - Pensão de Invalidez
 - Pensionista
 - Pessoal Contratado
-- Inserção Social
-- Militar
+- Serviço Militar
 - Subsídio de Férias
 - Subsídio de Natal
 - Trabalho Remunerado
 - VIDA Activa
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:236477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:21Z'
   warnings: []
   errors: []
 ---
@@ -176,12 +184,12 @@ b) Um vez por ano, nos oito anos imediatamente seguintes.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1998. - António Manuel de Oliveira Guterres - José Rodrigues Pereira Penedos - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 21 de Julho de 1998.**
+Promulgado em 21 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Julho de 1998.**
+Referendado em 27 de Julho de 1998.
 
 Pelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional.

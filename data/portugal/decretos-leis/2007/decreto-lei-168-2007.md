@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/08500/29542957.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/168/2007/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2007-521250
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 679aff008a0dbb6e21ca2ea2e65f33697f601807b76bbe7caeb8934f96f6f37b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acfc24b6ecaf71c6c83ab4aee1ef38c440f639de0f14f1f7f6bbdb45ba05d224
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
 - Comissão Nacional de Objecção de Consciência
 - Conselho Consultivo da Juventude
 - Definição de Competências
-- Instituto Português da Juventude
 - Gabinete do Serviço Cívico dos Objectores de Consciência
+- Gestão Financeira
+- Instituto Português da Juventude
 - Orgânica
 - Regime de Pessoal
 - Transferência de Competências
@@ -119,16 +119,67 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/120/20
   label: null
   source: http://data.dre.pt/eli/resolconsmin/120/20
+- type: cites
+  target: pt:dre:234917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654949:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:671032:por
+  label: "Revogado a 01.10.2011, pelo DEC LEI.98/2011.21.09.2011.PCM, DR.IS [182] de 21.09.2011 e extinto, na mesma data,\
+    \ o Instituto Português da Juventude ao qual sucede, na totalidade das atribuições e competências e nos direitos e obrigações,\
+    \ o IPDJ, I. P.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2011-671032
+  date: '2011-09-21'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:05Z'
   warnings: []
   errors: []
 ---
@@ -357,12 +408,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - João António da Costa Mira Gomes - Francisco Carlos da Graça Nunes Correia - José António Fonseca Vieira da Silva - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 12 de Abril de 2007.**
+Promulgado em 12 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Abril de 2007.**
+Referendado em 16 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

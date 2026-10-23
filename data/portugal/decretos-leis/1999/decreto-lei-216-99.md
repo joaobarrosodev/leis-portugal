@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/137a00/33933409.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/216/1999/06/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1999-309008
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:08:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f2ceb3107fd0a2edbdbe3a8573d209c7def94be5ae34e905d31ddf9210ad448
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 990d8fbaba94795f4facc314112f300e19c9c3cc328a6da42c5fb440535f0751
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:08:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
+- Aditivo Alimentar
+- Alimento para Animais
 - Aproximação das Legislações
-- Multa
+- Atividade Industrial
+- Comércio
 - Contra-ordenação
-- Direção Geral de Veterinária
 - Definição de Competências
-- Saúde Pública
+- Direção Geral de Veterinária
 - Especificação Técnica
 - Estabelecimento Industrial
 - Fabrico Industrial
 - Fiscalização
 - Licenciamento
+- Multa
 - Proteção do Ambiente
-- Aditivo Alimentar
-- Alimento para Animais
+- Saúde Pública
 - Taxa
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:491908:por
@@ -93,16 +93,21 @@ relationships:
   target: celex:31995L0069
   label: null
   source: http://data.europa.eu/eli/dir/1995/69/oj
+- type: repealed_by
+  target: pt:dre:491908:por
+  label: "Revogado pelo DEC LEI.152/2009.02.07.2009.MADRP, DR.IS [126] de 02.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-2009-491908
+  date: '2009-07-02'
 article_structure:
   article_count: 31
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:08:00Z'
   warnings: []
   errors: []
 ---
@@ -469,17 +474,19 @@ São revogadas as Portarias n.os 833/84 e 834/84, de 27 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 29 de Abril de 1999. - António Manuel de Oliveira Guterres - António Carlos dos Santos - Joaquim Augusto Nunes de Pina Moura - Luís Medeiros Vieira.
 
-**Promulgado em 27 de Maio de 1999.**
+Promulgado em 27 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Junho de 1999.**
+Referendado em 1 de Junho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO A — CAPÍTULO I
+## ANEXO A
+
+### CAPÍTULO I
 
 Condições mínimas a preencher pelos estabelecimentos e intermediários sujeitos a aprovação e referidos nas alíneas a) e b) do n.º 1 do artigo 4.º e na alínea a) do n.º 1 do artigo 7.º do presente diploma.
 
@@ -735,7 +742,9 @@ O fabricante deve instituir um sistema de registo e de análise das reclamaçõe
 
 Além disso, deve poder aplicar, caso seja necessário, um sistema para retirar rapidamente da circulação os produtos já colocados na rede de distribuição. O fabricante deve definir, mediante protocolo escrito, o destino dos produtos retirados; antes de uma eventual reintrodução na circulação, esses produtos devem voltar a ser analisados pelo controlo de qualidade.
 
-## ANEXO B — CAPÍTULO I
+## ANEXO B
+
+### CAPÍTULO I
 
 Condições mínimas a preencher pelos estabelecimentos e intermediários de aditivos, pré-misturas e estabelecimentos de alimentos compostos sujeitos a registo e referidos nas alíneas a), b), c) e d) do artigo 13.º e nas alíneas a) e b) do artigo 16.º do presente diploma.
 
@@ -781,9 +790,9 @@ c) No que se refere aos alimentos compostos que contenham pré-misturas ou aditi
 
 Sempre que o fabricante fornecer aditivos a uma pessoa que não seja um fabricante nem um criador ou pré-misturas a uma pessoa que não seja um fabricante, tanto essa pessoa como qualquer intermediário seguinte que acondicione, embale, armazene ou coloque em circulação estarão vinculados, segundo os casos, às obrigações estabelecidas nos n.os 4, 5 e 6.2 e, em caso de acondicionamento, às estabelecidas no n.º 3.
 
-## ANEXO C — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/06/137a00/33933409.pdf)
+## ANEXO C — [[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/06/137a00/33933409.pdf)](https://files.diariodarepublica.pt/1s/1999/06/137a00/33933409.pdf)](https://files.diariodarepublica.pt/1s/1999/06/137a00/33933409.pdf)](https://files.diariodarepublica.pt/1s/1999/06/137a00/33933409.pdf)
 
-## ANEXO D — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/06/137a00/33933409.pdf)
+## ANEXO D — [[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/06/137a00/33933409.pdf)](https://files.diariodarepublica.pt/1s/1999/06/137a00/33933409.pdf)](https://files.diariodarepublica.pt/1s/1999/06/137a00/33933409.pdf)](https://files.diariodarepublica.pt/1s/1999/06/137a00/33933409.pdf)
 
 ## ANEXO E-1 — Declaração de responsabilidde
 
@@ -809,6 +818,6 @@ Sempre que o fabricante fornecer aditivos a uma pessoa que não seja um fabrican
 
 (nota 2) Indicar a situação aplicável conforme estipulam as alíneas a) e b) do n.º 1 do artigo 7.º do Decreto-Lei n.º 216/99, de 15 de Junho.
 
-## ANEXO F — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/06/137a00/33933409.pdf)
+## ANEXO F — [[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/06/137a00/33933409.pdf)](https://files.diariodarepublica.pt/1s/1999/06/137a00/33933409.pdf)](https://files.diariodarepublica.pt/1s/1999/06/137a00/33933409.pdf)](https://files.diariodarepublica.pt/1s/1999/06/137a00/33933409.pdf)
 
-## ANEXO G — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/06/137a00/33933409.pdf)
+## ANEXO G — [[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/06/137a00/33933409.pdf)](https://files.diariodarepublica.pt/1s/1999/06/137a00/33933409.pdf)](https://files.diariodarepublica.pt/1s/1999/06/137a00/33933409.pdf)](https://files.diariodarepublica.pt/1s/1999/06/137a00/33933409.pdf)

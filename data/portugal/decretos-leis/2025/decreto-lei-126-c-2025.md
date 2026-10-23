@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/126-c/2025/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9abc86bbda1acb58cd69df9bfd70f4ec26595aa2db2a66ec7c2032ded57e6b58
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e823fdf8dbc61b9788f06372db94b067f31217e6f76d81958d8070bef3e8788
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código dos Impostos Especiais de Consumo
+- Imposto Especial sobre o Consumo
+- Imposto Especial sobre o Consumo de Bebidas Alcoólicas
 - Imposto Especial sobre o Consumo de Tabaco
 - Imposto Especial sobre Veículos
 - Imposto sobre Produtos Petrolíferos
-- Imposto Especial sobre o Consumo
-- Imposto Especial sobre o Consumo de Bebidas Alcoólicas
 - Isenção Fiscal
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:73/2010
+  label: Altera, a partir de 1 de janeiro de 2026, os artigos 5.º, 6.º, 7.º, 35.º, 39.º, 41.º, 43.º, 44.º, 45.º, 49.º, 60.º,
+    60.º-A, 62.º, 65.º, 66.º, 67.º, 82.º, 85.º, 85.º-A e 90.º do Código dos Impostos Especiais de Consumo, aprovado em anexo
+    ao Decreto-Lei n.º 73/2010, de 21 de junho, Diário da República n.º 118/2010, Série I
+  source: null
+  date: '2010-06-21'
 - type: cites
   target: celex:31992L0083
   label: null
@@ -114,6 +121,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2025/10/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2025/10/13/p/dre
+- type: cites
+  target: pt:dre:204502328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:939474949:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31992L0083
   label: null
@@ -127,15 +154,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 22
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:19Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +201,9 @@ Os artigos 5.º, 6.º, 7.º, 35.º, 39.º, 41.º, 43.º, 44.º, 45.º, 49.º, 60
 
 3 - No caso dos produtos definidos no artigo 66.º, é ainda aplicável, para efeitos de determinação da incidência objetiva, o [Regulamento de Execução (UE) n.º 2018/1602](https://data.europa.eu/eli/reg/2018/1602/oj?locale=pt), da Comissão, de 11 de outubro, e respetivas atualizações.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -226,7 +255,9 @@ d) Que os produtos fornecidos se limitem às quantidades fixadas no número segu
 
 10 - (Anterior n.º 9.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -238,7 +269,9 @@ d) Que os produtos fornecidos se limitem às quantidades fixadas no número segu
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...]
 
@@ -246,15 +279,17 @@ d) Que os produtos fornecidos se limitem às quantidades fixadas no número segu
 
 3 - [...]
 
-4 - Em derrogação dos n.<sup>os</sup>1 e 2, os produtos sujeitos a impostos especiais de consumo podem circular em regime de suspensão do imposto para um local de entrega direta, situado em território nacional, designado pelo depositário autorizado ou pelo destinatário registado, salvo se este último estiver limitado a um único local de receção ou se se tratar de um destinatário registado temporário, nos termos previstos no artigo 30.º
+4 - Em derrogação dos n.os1 e 2, os produtos sujeitos a impostos especiais de consumo podem circular em regime de suspensão do imposto para um local de entrega direta, situado em território nacional, designado pelo depositário autorizado ou pelo destinatário registado, salvo se este último estiver limitado a um único local de receção ou se se tratar de um destinatário registado temporário, nos termos previstos no artigo 30.º
 
 5 - [...]
 
 6 - [...]
 
-###### Artigo 39.º — [...]
+Artigo 39.º
 
-1 - No decurso da circulação em regime de suspensão do imposto, o expedidor pode alterar o destino ou o destinatário, indicando um novo destino ou destinatário, em conformidade com os n.<sup>os</sup>1 e 4 do artigo 35.º, salvo nos casos previstos na alínea c) do n.º 1 e no n.º 2 do mesmo artigo.
+[...]
+
+1 - No decurso da circulação em regime de suspensão do imposto, o expedidor pode alterar o destino ou o destinatário, indicando um novo destino ou destinatário, em conformidade com os n.os1 e 4 do artigo 35.º, salvo nos casos previstos na alínea c) do n.º 1 e no n.º 2 do mesmo artigo.
 
 2 - [...]
 
@@ -264,7 +299,9 @@ d) Que os produtos fornecidos se limitem às quantidades fixadas no número segu
 
 5 - A alteração de destino processada por um expedidor certificado deve limitar-se a um novo local de receção, autorizado ao mesmo destinatário certificado e situado no mesmo Estado-Membro de destino, ou ao local de expedição dos produtos.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...]
 
@@ -278,7 +315,9 @@ d) Que os produtos fornecidos se limitem às quantidades fixadas no número segu
 
 6 - O documento referido na alínea a) do n.º 1 deve ser disponibilizado ao transportador e, no caso de uma exportação, ao declarante.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - No momento da receção dos produtos ou, o mais tardar, no prazo de cinco dias úteis a contar da mesma, o destinatário deve enviar, por transmissão eletrónica de dados, o respetivo relatório de receção, salvo em caso de atraso, devidamente justificado e aceite pela estância aduaneira competente.
 
@@ -288,7 +327,9 @@ d) Que os produtos fornecidos se limitem às quantidades fixadas no número segu
 
 4 - [...]
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...]
 
@@ -298,7 +339,9 @@ d) Que os produtos fornecidos se limitem às quantidades fixadas no número segu
 
 4 - [...]
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - Na ausência do relatório de receção, no caso de uma expedição, ou do relatório de exportação ou da certificação de saída, no caso de uma exportação, bem como do documento previsto no n.º 1 do artigo anterior, e não tendo ocorrido nenhuma das situações previstas no referido artigo, podem ser admitidas, em casos devidamente fundamentados, para efeitos do apuramento da operação de circulação, as seguintes provas:
 
@@ -308,7 +351,9 @@ b) [...]
 
 2 - [...]
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...]
 
@@ -316,7 +361,9 @@ b) [...]
 
 3 - As franquias previstas nos números anteriores não são aplicáveis, quando haja indícios da prática de irregularidades.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - [...]
 
@@ -336,7 +383,9 @@ b) [...]
 
 9 - [...]
 
-###### Artigo 60.º-A — [...]
+Artigo 60.º-A
+
+[...]
 
 1 - [...]
 
@@ -366,7 +415,9 @@ c) [...]
 
 11 - [...]
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - Estão sujeitos a imposto os produtos introduzidos no consumo noutro Estado-Membro, quando adquiridos por pessoas residentes em território nacional, que não detenham qualquer estatuto previsto no Código, nem exerçam qualquer atividade económica independente, e sejam expedidos ou transportados, direta ou indiretamente, para o território nacional, pelo vendedor ou por sua conta, no âmbito de uma atividade económica independente.
 
@@ -380,7 +431,9 @@ c) [...]
 
 6 - [...]
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - [...]
 
@@ -398,7 +451,9 @@ b) À liberação da garantia constituída nos termos da alínea a) do n.º 3 do
 
 6 - Considera-se irregularidade a falta de registo ou certificação de uma ou todas as pessoas envolvidas na circulação de produtos já introduzidos no consumo, em violação do disposto no n.º 2 do artigo 60.º, no n.º 1 e na alínea a) do n.º 3 do artigo 60.º-A e no n.º 1 do artigo 60.º-B.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - [...]
 
@@ -434,7 +489,9 @@ m) [...]
 
 5 - [...]
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - [...]
 
@@ -476,7 +533,9 @@ g) [...]
 
 5 - [...]
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - [...]
 
@@ -488,9 +547,11 @@ g) [...]
 
 5 - [...]
 
-6 - Os particulares que beneficiem da isenção prevista nos n.<sup>os</sup>4 e 5 do artigo 67.º devem, antes de iniciar a produção, informar a estância aduaneira competente, procedendo ainda ao registo das matérias-primas utilizadas e da quantidade de produtos obtidos.
+6 - Os particulares que beneficiem da isenção prevista nos n.os4 e 5 do artigo 67.º devem, antes de iniciar a produção, informar a estância aduaneira competente, procedendo ainda ao registo das matérias-primas utilizadas e da quantidade de produtos obtidos.
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - [...]
 
@@ -500,7 +561,9 @@ a) No caso de álcool totalmente desnaturado, ao documento previsto no n.º 2 do
 
 b) No caso de álcool puro ou parcialmente desnaturado, ao documento previsto no n.º 1 do artigo 36.º e respetivo regime de circulação.
 
-###### Artigo 85.º-A — [...]
+Artigo 85.º-A
+
+[...]
 
 1 - Os pequenos produtores independentes de bebidas alcoólicas, previstos nos artigos 79.º, 80.º, 80.º-A e 81.º, devem comprovar o seu estatuto através de um certificado anual, emitido pela autoridade aduaneira, que confirme a respetiva produção total anual e ateste a conformidade do produtor com os critérios previstos na lei.
 
@@ -508,7 +571,9 @@ b) No caso de álcool puro ou parcialmente desnaturado, ao documento previsto no
 
 3 - As receções em território nacional de produtos provenientes de pequenos produtores independentes, situados noutros Estados-Membros, podem igualmente beneficiar do estatuto de pequeno produtor, desde que o comprovem através de um certificado anual, emitido pelas autoridades desse Estado-Membro, que preencha os requisitos previstos no n.º 1.
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 1 - [...]
 
@@ -540,12 +605,14 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 4 de dezembro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - João Rui da Silva Gomes Ferreira.
 
-**Promulgado em 4 de dezembro de 2025.**
+Promulgado em 4 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de dezembro de 2025.**
+Referendado em 4 de dezembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119853388

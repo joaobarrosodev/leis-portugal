@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/10/24700/15511552.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/533-1970-147444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e227eaf47636183f591ca528aa50e0c5b372e663d64d85b6751e0fda8b1ff5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d701cb2e606ccfe8541d397ddedca6eebf9762ce4e9d4ce942985016759f50f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto do Oficial da Armada
+- Forças Armadas
+- Marinha
 relationships:
 - type: amended_by
   target: pt:dre:691388:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:487748:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:691388:por
+  label: "Revogada pela PORT.546/72.21.09.1972.MM, DG.IS [221] de 21.09.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/546-1972-691388
+  date: '1972-09-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:18Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +106,7 @@ Usando da faculdade conferida pelo artigo 247.º do Estatuto do Oficial da Armad
 
 Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que os artigos 33.º e 50.º do Estatuto do Oficial da Armada passem a ter a seguinte redacção:
 
-###### Art. 33.º Ao concurso documental a que se refere o artigo anterior apenas podem ser admitidos primeiros-tenentes e segundos-tenentes das classes de marinha e dos engenheiros maquinistas navais, do quadro de oficiais do activo, com idade não superior a 27 anos, contados por anos completos, feitos no ano civil do concurso.
+Art. 33.º Ao concurso documental a que se refere o artigo anterior apenas podem ser admitidos primeiros-tenentes e segundos-tenentes das classes de marinha e dos engenheiros maquinistas navais, do quadro de oficiais do activo, com idade não superior a 27 anos, contados por anos completos, feitos no ano civil do concurso.
 
 § 1.º O concurso a que se refere o corpo deste artigo é aberto e organizado na Direcção do Serviço do Pessoal.
 
@@ -102,7 +114,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que os artig
 
 ...
 
-###### Art. 50.º Aos concursos para a frequência dos cursos de engenheiro de material naval apenas podem ser admitidos primeiros-tenentes e segundos-tenentes do quadro de oficiais do activo, com idade não superior a 27 anos, contados por anos completos, feitos no ano civil do concurso, satisfazendo às condições seguintes:
+Art. 50.º Aos concursos para a frequência dos cursos de engenheiro de material naval apenas podem ser admitidos primeiros-tenentes e segundos-tenentes do quadro de oficiais do activo, com idade não superior a 27 anos, contados por anos completos, feitos no ano civil do concurso, satisfazendo às condições seguintes:
 
 a) Pertencerem às classes de marinha ou dos engenheiros maquinistas navais, para o curso de engenheiro electrotécnico naval;
 
@@ -114,4 +126,4 @@ c) Pertencerem à classe de marinha e serem especializados em artilharia ou em a
 
 2.º Cada concurso respeita exclusivamente a um dos três cursos referidos no corpo deste artigo.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

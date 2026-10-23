@@ -47,40 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/85-1984-400467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:10:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e5b3514d365f949a0312024f6029557ce5fb0b6d4c8da9831f6673a6cdf2c40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a177bb649c41e0e740b726c838626595562e8f260c4de0e15397344b2280a66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:10:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Energia Elétrica
+- Regulamento de Segurança de Linhas Eléctricas de ALTA Tensão
 relationships:
 - type: amended_by
   target: pt:dre:640954:por
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:10:29Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +101,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 91.º, 127.º, 128.º, 129.º, 130.º, 199.º e 200.º do Regulamento de Segurança de Linhas Eléctricas de Alta Tensão, aprovado pelo Decreto n.º 46847, de 27 de Janeiro de 1966, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 91.º, 127.º, 128.º, 129.º, 130.º, 199.º e 200.º do Regulamento de Segurança de Linhas Eléctricas de Alta Tensão, aprovado pelo Decreto n.º 46847, de 27 de Janeiro de 1966, passam a ter a seguinte redacção:
 
-###### Art. 91.º - Junções. - As junções dos condutores deverão ser evitadas na medida do possível, não sendo permitidas mais de 2 junções num mesmo vão da linha e para um mesmo condutor ou cabo de guarda.
+Art. 91.º - Junções. - As junções dos condutores deverão ser evitadas na medida do possível, não sendo permitidas mais de 2 junções num mesmo vão da linha e para um mesmo condutor ou cabo de guarda.
 
 § 1.º Não serão permitidas junções por torçada ou soldadura, exceptuando-se a soldadura alumino-térmica para os condutores ou cabos de guarda de alumínio ou suas ligas.
 
@@ -121,7 +123,7 @@ Comentários. - 1. A permissão de 2 junções num mesmo vão prevista no corpo 
 
 3. Recomenda-se empregar a zincagem a quente das uniões e dos ligadores de ferro ou de aço não inoxidável.
 
-###### Art. 127.º Disposições gerais sobre travessias e cruzamentos. - As travessias e cruzamentos a considerar para efeito de aplicação das disposições deste capítulo do Regulamento serão as seguintes:
+Art. 127.º Disposições gerais sobre travessias e cruzamentos. - As travessias e cruzamentos a considerar para efeito de aplicação das disposições deste capítulo do Regulamento serão as seguintes:
 
 a) Travessias de auto-estradas, estradas nacionais ou municipais;
 
@@ -159,11 +161,11 @@ Comentários. - 1. O risco de danificação de um isolador ou de um condutor, ju
 
 3. O disposto no § 5.º do artigo deverá ser satisfeito, sem prejuízo do indicado nos artigos 132.º, 142.º, 146.º, 149.º, 153.º e 167.º do presente Regulamento.
 
-###### Art. 128.º Junções. - Nas travessias e cruzamentos não serão permitidas em pleno vão junções de condutores ou cabos de guarda nas linhas situadas superiormente, salvo nas de 3.ª classe e naquelas que utilizem condutores que possuam força de rotura superior a 35000 N.
+Art. 128.º Junções. - Nas travessias e cruzamentos não serão permitidas em pleno vão junções de condutores ou cabos de guarda nas linhas situadas superiormente, salvo nas de 3.ª classe e naquelas que utilizem condutores que possuam força de rotura superior a 35000 N.
 
 Comentário. - O artigo 91.º fixa as condições a que devem obedecer as junções.
 
-###### Art. 129.º Condições especiais de fixação dos condutores a isoladores rígidos. - Nas travessias e cruzamentos, os condutores das linhas situadas superiormente, quando os respectivos apoios de travessia e cruzamento forem dotados de isoladores rígidos, deverão ser fixados, em cada apoio, utilizando uma das soluções seguintes:
+Art. 129.º Condições especiais de fixação dos condutores a isoladores rígidos. - Nas travessias e cruzamentos, os condutores das linhas situadas superiormente, quando os respectivos apoios de travessia e cruzamento forem dotados de isoladores rígidos, deverão ser fixados, em cada apoio, utilizando uma das soluções seguintes:
 
 a) Isoladores com tensões suportáveis ao choque e de curta duração à frequência industrial sob chuva, superiores, pelo menos, em 20% às dos isoladores que equipam os apoios dos vãos comuns;
 
@@ -205,7 +207,7 @@ b) Em apoios de alinhamento, se utilize uma disposição assimétrica de modo qu
 
 7. Para efeitos do disposto no § 4.º do artigo, são considerados condutores os apoios de betão e de ferro e não condutores os de madeira.
 
-###### Art. 130.º Condições especiais de fixação de condutores a isoladores de cadeia em linhas de 2.ª classe. - Nas travessias e cruzamentos, os condutores de linhas situadas superiormente, quando os respectivos apoios de travessia e cruzamento forem dotados de isoladores de cadeia, deverão ser fixados em cada apoio utilizando uma das soluções seguintes:
+Art. 130.º Condições especiais de fixação de condutores a isoladores de cadeia em linhas de 2.ª classe. - Nas travessias e cruzamentos, os condutores de linhas situadas superiormente, quando os respectivos apoios de travessia e cruzamento forem dotados de isoladores de cadeia, deverão ser fixados em cada apoio utilizando uma das soluções seguintes:
 
 a) Cadeias de isoladores que possuam tensões suportáveis ao choque e de curta duração à frequência industrial sob chuva superiores, pelo menos, em 20% às dos isoladores que equipam os apoios dos vãos comuns;
 
@@ -223,7 +225,7 @@ Comentários. - 1. São aqui igualmente válidas as considerações indicadas no
 
 3. Em zonas que possam classificar-se de poluídas ou onde seja previsível a aplicação das técnicas dos trabalhos em tensão, recomenda-se a adopção da solução preconizada na alínea a) do corpo do artigo.
 
-###### Art. 199.º Trabalhos em linhas estabelecidas. - Nos trabalhos em linhas estabelecidas, tanto aéreas como subterrâneas, quando realizados sem tensão, devem seccionar-se de todos os lados as linhas ou troços de linhas.
+Art. 199.º Trabalhos em linhas estabelecidas. - Nos trabalhos em linhas estabelecidas, tanto aéreas como subterrâneas, quando realizados sem tensão, devem seccionar-se de todos os lados as linhas ou troços de linhas.
 
 § 1.º Quando os seccionadores ou interruptores por meio dos quais se eliminou a tensão estiverem instalados em recintos vedados, afixar-se-ão, junto dos respectivos comandos, placas ou letreiros de aviso, que se manterão até ao fim dos trabalhos.
 
@@ -253,7 +255,7 @@ Comentários. - 1. Com o disposto no corpo do artigo pretende-se dizer que o loc
 
 A falta de tensão poderá resultar de um acidente imprevisto e, portanto, não deve, só por si, servir de indicação para iniciar os trabalhos.
 
-###### Art. 200.º Trabalhos em tensão. - Serão admitidos trabalhos em tensão nas linhas, desde que se cumpram as regras e condições de segurança que a técnica impuser para evitar que corram perigo as pessoas encarregadas de os executar.
+Art. 200.º Trabalhos em tensão. - Serão admitidos trabalhos em tensão nas linhas, desde que se cumpram as regras e condições de segurança que a técnica impuser para evitar que corram perigo as pessoas encarregadas de os executar.
 
 § 1.º Os trabalhos em tensão só poderão ser efectuados por pessoas especialmente deles encarregadas e conhecedoras do perigo possível e na presença de uma pessoa expressamente incumbida de os fiscalizar.
 
@@ -267,9 +269,9 @@ Para linhas de 3.ª classe, 3 m.
 
 Comentário. - Recomenda-se que o pessoal afecto às linhas tenha perfeito conhecimento das instruções aprovadas oficialmente para os primeiros socorros a prestar em acidentes pessoais produzidos por correntes eléctricas e pratique com regularidade os exercícios de respiração artificial nelas indicados.
 
-###### Art. 2.º É aditado ao Regulamento referido no artigo anterior o artigo 130.º-A com a seguinte redacção:
+Art. 2.º É aditado ao Regulamento referido no artigo anterior o artigo 130.º-A com a seguinte redacção:
 
-###### Art. 130.º-A Condições especiais de fixação dos condutores a isoladores de cadeias em linhas de 3.ª classe. - Nas travessias e cruzamentos de linhas de 3.ª classe dotadas de isoladores de cadeia não será necessário adoptar medidas especiais além das adoptadas nos vãos comuns, desde que sejam observadas, simultaneamente, as condições seguintes:
+Art. 130.º-A Condições especiais de fixação dos condutores a isoladores de cadeias em linhas de 3.ª classe. - Nas travessias e cruzamentos de linhas de 3.ª classe dotadas de isoladores de cadeia não será necessário adoptar medidas especiais além das adoptadas nos vãos comuns, desde que sejam observadas, simultaneamente, as condições seguintes:
 
 a) Os condutores tenham secções nominais iguais ou superiores a:
 
@@ -285,18 +287,18 @@ c) As cadeias de isoladores disponham de hastes de descarga ou anéis de guarda,
 
 § único. Se a secção dos condutores for inferior às indicadas na alínea a) do corpo do artigo, serão ainda dispensadas medidas especiais, desde que se reforcem os condutores com fios ou fitas metálicas suplementares, torcidos sobre os condutores e em bom contacto eléctrico com estes, numa extensão de, pelo menos, 0,50 m para cada lado do ponto de fixação, ou ainda desde que sejam montados fiadores do mesmo material e secção dos condutores, de forma que o arco de contornamento não atinja simultaneamente o condutor e o fiador.
 
-###### Art. 3.º O presente decreto regulamentar entra em vigor 30 dias após a data da sua publicação.
+Art. 3.º O presente decreto regulamentar entra em vigor 30 dias após a data da sua publicação.
 
-###### Art. 4.º O presente diploma poderá aplicar-se às regiões autónomas mediante decreto regulamentar regional.
+Art. 4.º O presente diploma poderá aplicar-se às regiões autónomas mediante decreto regulamentar regional.
 
 Mário Soares - Carlos Alberto da Mota Pinto - José Veiga Simão.
 
-**Promulgado em 16 de Outubro de 1984.**
+Promulgado em 16 de Outubro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 17 de Outubro de 1984.**
+Referendado em 17 de Outubro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

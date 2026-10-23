@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1978-446535
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T05:59:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc1f64e01766b2e343a660155e337590c3ea0aa12ffb456529d3144a7fb2410f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ffe5cf4c4d9b19c9b0065c6a077622812fcec32b88382ad68fe7e82a3ad6b77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:59:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Delegado de Saúde
+- Formas de Provimento
+- Pessoal de Saúde
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:492685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:59:24Z'
   warnings: []
   errors: []
 ---
@@ -95,42 +117,42 @@ Ao abrigo do artigo 1.º, n.º 1, do [Decreto-Lei n.º 59/76](https://diariodare
 
 O Governo decreta, nos termos do artigo 202.º, alínea c), da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro X anexo ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, com as alterações que lhe foram introduzidas pela [Portaria n.º 3/77](https://diariodarepublica.pt/dr/detalhe/portaria/3-1977-492685), de 5 de Janeiro, e o mapa I anexo ao [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, são alterados de acordo com o quadro e o mapa anexos ao presente diploma e do mesmo fazendo parte integrante.
+Artigo 1.º O quadro X anexo ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, com as alterações que lhe foram introduzidas pela [Portaria n.º 3/77](https://diariodarepublica.pt/dr/detalhe/portaria/3-1977-492685), de 5 de Janeiro, e o mapa I anexo ao [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, são alterados de acordo com o quadro e o mapa anexos ao presente diploma e do mesmo fazendo parte integrante.
 
-###### Art. 2.º O artigo 59.º, n.º 3, do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, passa a ter a seguinte redacção:
+Art. 2.º O artigo 59.º, n.º 3, do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 59.º ...
+Art. 59.º ...
 
 3 - Em Lisboa e Porto haverá dois directores de saúde, designando o Secretário de Estado da Saúde aquele a quem, coadjuvado pelo outro e por demais pessoal técnico indispensável, compete dirigir os serviços.
 
-###### Art. 3.º Os artigos 7.º e 8.º, n.º 2, do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, passam a ter a redacção seguinte:
+Art. 3.º Os artigos 7.º e 8.º, n.º 2, do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, passam a ter a redacção seguinte:
 
-###### Art. 7.º O provimento do lugar de delegado de saúde de 1.ª classe é feito por concurso documental de entre os delegados de saúde de 2.ª classe e técnicos de 1.ª classe que sejam médicos, preferindo os primeiros aos segundos, e, na falta de uns e outros, de entre os médicos referidos no n.º 7 do artigo anterior e pela ordem de preferência ali estabelecida.
+Art. 7.º O provimento do lugar de delegado de saúde de 1.ª classe é feito por concurso documental de entre os delegados de saúde de 2.ª classe e técnicos de 1.ª classe que sejam médicos, preferindo os primeiros aos segundos, e, na falta de uns e outros, de entre os médicos referidos no n.º 7 do artigo anterior e pela ordem de preferência ali estabelecida.
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 2 - Ao concurso de habilitação, com prestação de provas e válido por três anos, poderão concorrer os delegados de saúde e os médicos dos serviços centrais do grau 6.
 
-###### Art. 4.º Os encargos resultantes da execução do presente diploma serão satisfeitos, no ano corrente, pelas disponibilidades das dotações respectivas de «Pessoal dos quadros aprovados por lei».
+Art. 4.º Os encargos resultantes da execução do presente diploma serão satisfeitos, no ano corrente, pelas disponibilidades das dotações respectivas de «Pessoal dos quadros aprovados por lei».
 
-###### Art. 5.º Este decreto entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 5.º Este decreto entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Armando Bacelar.
 
-**Promulgado em 5 de Fevereiro de 1978.**
+Promulgado em 5 de Fevereiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 QUADRO X
 
 Serviços locais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/02/04200/03830384.pdf))](https://files.diariodarepublica.pt/1s/1978/02/04200/03830384.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/02/04200/03830384.pdf)
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/02/04200/03830384.pdf))](https://files.diariodarepublica.pt/1s/1978/02/04200/03830384.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/02/04200/03830384.pdf)
 
-**O Ministro das Finanças, Henrique Medina Carreira. - O Ministro dos Assuntos Sociais, Armando Bacelar. - O Secretário de Estado da Administração Pública, José Dias dos Santos Pais.**
+O Ministro das Finanças, Henrique Medina Carreira. - O Ministro dos Assuntos Sociais, Armando Bacelar. - O Secretário de Estado da Administração Pública, José Dias dos Santos Pais.

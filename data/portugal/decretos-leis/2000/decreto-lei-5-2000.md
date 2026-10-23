@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/5/2000/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d03b8c1f61db26920660c0de6b1e586e076703b36a782c1cba08d833c2d7ad80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe025691d2d8ebaf422e00a109778c90e477122896357b72b86b292e162ca354
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,8 +71,8 @@ subjects:
 - Cremação de Cadáver
 - Exumação de Cadáver
 - Inumação de Cadáver
-- Remoção de Cadáver
 - Óbito
+- Remoção de Cadáver
 - Transporte de Cadáver
 - Trasladação de Cadáver
 relationships:
@@ -80,20 +80,42 @@ relationships:
   target: pt:dre:307671:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:319932:por
+  label: "Alterados os nºs 1 e 5 do art. 8º do Dec Lei 411/98 de 30-Dez, na redacção dada pelo presente diploma, pelo DEC\
+    \ LEI.138/2000.2000.07.13.MS,DR.IS-A [160]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-2000-319932
+  date: '2000-07-13'
+- type: amended_by
+  target: pt:dre:537249:por
+  label: "Dada nova redacção ao artigo 25.º do Decreto-Lei 411/98, de 30 de Dezembro, na redacção do presente diploma, pela\
+    \ LEI.30/2006.11.07.2006.AR, DR.IS [132] de 11.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2006-537249
+  date: '2006-07-11'
+- type: amended_by
+  target: pt:dre:307671:por
+  label: "Alterados, a partir de 13.12.2010, os art.s 2º, 4º, 9º e 25º do Dec Lei 411/98, de 30-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.109/2010.14.10.2010.MEID, DR.IS [200] de 14.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-2010-307671
+  date: '2010-10-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/411/1998/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/411/1998/12/30/p/dre
+- type: cites
+  target: pt:dre:286106:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:23Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +172,9 @@ l) ...
 
 m) ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A inumação e a cremação devem ser requeridas à entidade responsável pela administração do cemitério onde as mesmas tiverem lugar, em modelo do anexo I, que constitui parte integrante do presente diploma.
 
@@ -160,7 +184,9 @@ m) ...
 
 4 - Compete à câmara municipal do local onde se encontre o cadáver promover a sua inumação no caso previsto no n.º 4 do artigo 8.º, bem como a inumação ou a cremação de fetos mortos abandonados.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -178,7 +204,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -198,7 +226,9 @@ b) ...
 
 9 - Compete à Guarda Nacional Republicana e à Polícia de Segurança Pública a passagem dos livres-trânsitos, previstos nos acordos referidos no n.º 2 do artigo 1.º, necessários ao transporte para países estrangeiros de cadáveres, cujo óbito tenha sido verificado em Portugal.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Nenhum cadáver pode ser inumado, cremado ou encerrado antes de decorridas vinte e quatro horas sobre o óbito.
 
@@ -212,7 +242,9 @@ b) ...
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -230,7 +262,9 @@ b) ...
 
 8 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -274,12 +308,12 @@ q) ...
 
 Visto e aprovado em Conselho de Ministros de 18 de Novembro de 1999. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Elisa Maria da Costa Guimarães Ferreira - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 19 de Janeiro de 2000.**
+Promulgado em 19 de Janeiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Janeiro de 2000.**
+Referendado em 21 de Janeiro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

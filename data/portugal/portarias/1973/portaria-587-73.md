@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/587-1973-413840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:10:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3618e77d1c029cc27fec1d344aa005003175b3133eb5792a916e15c7507b398
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e50302f7e33505dadd7e4fef5a17c2da2fb9fdc908e6bd0355298538c97a62d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:10:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,43 @@ relationships:
   target: pt:dre:336695:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:336695:por
+  label: "Transferida para Junta Central das Casas do Povo a competência do ex-Instituto Nacional do Trabalho e Previdência\
+    \ contida no presente diploma pelo DEC LEI.391/75.22.07.1975.MAS, DG.IS [167] de 22.07.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/391-1975-336695
+  date: '1975-07-22'
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666342:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:486301:por
+  label: "Revogado o anexo V do presente diploma, pelo DEC LEI.702/74.07.12.1974.MAS, DG.IS [285-Supl] de 07.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/702-1974-486301
+  date: '1974-12-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:10:20Z'
   warnings: []
   errors: []
 ---
@@ -756,7 +783,7 @@ Os empregados ao serviço dos organismos em 1 de Agosto de 1973, que possuam ou 
 
 A) Escriturários:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/08/20100/15261538.pdf))](https://files.diariodarepublica.pt/1s/1973/08/20100/15261538.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/08/20100/15261538.pdf)
 
 1. Havendo quatro ou mais escriturários, o quadro será organizado de acordo com as seguintes densidades:
 
@@ -770,11 +797,11 @@ c) 40% de terceiros-oficiais
 
 B) Cobradores e contínuos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/08/20100/15261538.pdf))](https://files.diariodarepublica.pt/1s/1973/08/20100/15261538.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/08/20100/15261538.pdf)
 
 ## ANEXO II — Tabela de remunerações mínimas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/08/20100/15261538.pdf))](https://files.diariodarepublica.pt/1s/1973/08/20100/15261538.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/08/20100/15261538.pdf)
 
 ## ANEXO III — Valor mínimo dos subsídios de chefia e para falhas
 
@@ -800,7 +827,7 @@ I
 
 1. Os empregados, quando ausentes, por motivo de serviço, dos locais onde exerçam normalmente a sua actividade têm direito ao abono diário de ajudas de custo, de harmonia com a tabela seguinte, em função das suas categorias e das localidades para onde se desloquem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/08/20100/15261538.pdf))](https://files.diariodarepublica.pt/1s/1973/08/20100/15261538.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/08/20100/15261538.pdf)
 
 2. Só são devidas ajudas de custo pelas deslocações além de cinco quilómetros da periferia das localidades onde os empregados exerçam normalmente a sua actividade.
 
@@ -810,7 +837,7 @@ II
 
 2. Pelas deslocações em que a saída da residência de serviço e a entrada se observam dentro de um período de vinte e quatro horas abonar-se-ão as percentagens seguintes de ajudas de custo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/08/20100/15261538.pdf))](https://files.diariodarepublica.pt/1s/1973/08/20100/15261538.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/08/20100/15261538.pdf)
 
 3. Nas deslocações por dias sucessivos aplicam-se as percentagens referidas no número anterior nos dias da partida e do regresso, com as particularidades seguintes:
 
@@ -1002,4 +1029,4 @@ XVI
 
 3. As sanções disciplinares começam a produzir os seus efeitos no momento em que são notificadas ao arguido.
 
-**O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.**
+O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.

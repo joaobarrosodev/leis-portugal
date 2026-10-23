@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/796-1973-411578
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T04:15:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83408657754b134629862b5e00a5b67702223ec6cc289779459d41045fba25b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c814ee64e0a17f98df2fb575c5bb20871ddf6609c2dde5e6628262704ad85e2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:15:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:686047:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:15:14Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +90,7 @@ de 15 de Novembro
 
 Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, nos termos do artigo 7.º do [Decreto-Lei n.º 448/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1972-686047), de 13 de Novembro, promover as seguintes alterações na tabela de despesa do orçamento privativo das forças terrestres ultramarinas de Cabo Verde:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/26700/22002200.pdf))](https://files.diariodarepublica.pt/1s/1973/11/26700/22002200.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/26700/22002200.pdf)
 
 Presidência do Conselho, 5 de Novembro de 1973. - O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.
 

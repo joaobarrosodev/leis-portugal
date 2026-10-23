@@ -46,40 +46,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/84-1975-159772
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T04:55:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d58e5298b77df29666b9388ed53cde20811952180c732b164b1e9cc6aa26498
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 073c7fbede7d3a50fd69a291f670e34b487adbf5ccb1ad9edea946b892e0de76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:55:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Animais
+- Junta Nacional dos Produtos Pecuários
+- Matadouro
+- Prestação de Serviços
+- Produto Cárneo
+- Regulamento
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:453780:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:161492:por
+  label: "Alterada a taxa referida no nº 1 da secção I da tabela anexa ao presente diploma, pela PORT.217/75.1975.03.31.MECO\
+    \ DG.IS [75]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/217-1975-161492
+  date: '1975-03-31'
+- type: amended_by
+  target: pt:dre:398835:por
+  label: "Alterada a taxa de serviço referida no nº 1 da secção I \"Serviços comuns a todos os matadouros\", da tabela anexa\
+    \ ao presente diploma, pela PORT.110-B/77.1977.03.04.MAP DR.IS [53]SuplS\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/110-b-1977-398835
+  date: '1977-03-04'
+- type: amended_by
+  target: pt:dre:30993960:por
+  label: "O regulamento anexo à presente Port deixou de ter aplicação na RAA, pela PORT.9/80.01.04.1980.SRAGP-RAA, JOA-IS\
+    \ [10] de 01.04.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/9-1980-30993960
+  date: '1980-04-01'
+- type: cites
+  target: pt:dre:466175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654081:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO O ARTIGO 15 PELA PORTARIA NUMERO 764/83, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 101, DE 15/7/83.\0\
+    /7/83.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:391261:por
+  label: "Revogada a tabela anexa ao presente diploma, pela PORT.209/81.1981.02.24.MAP DR.IS [46]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/209-1981-391261
+  date: '1981-02-24'
+- type: repealed_by
+  target: pt:dre:453780:por
+  label: Revogado o art. 15.º do Regulamento pelo(a) Portaria n.º 764/83 - Diário da República n.º 161/1983, Série I de 1983-07-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/764-1983-453780
+  date: '1983-07-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:55:54Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +150,9 @@ REGULAMENTO
 
 ### CAPÍTULO I — Objectivos
 
-###### Artigo 1.º O presente Regulamento tem em vista verificar o regime a que há-de subordinar-se o funcionamento dos matadouros e casas de matança, incorporados no património da Junta Nacional dos Produtos Pecuários (JNPP), por força do disposto no [Decreto-Lei n.º 661/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/661-1974-466175), de 26 de Novembro.
+Artigo 1.º O presente Regulamento tem em vista verificar o regime a que há-de subordinar-se o funcionamento dos matadouros e casas de matança, incorporados no património da Junta Nacional dos Produtos Pecuários (JNPP), por força do disposto no [Decreto-Lei n.º 661/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/661-1974-466175), de 26 de Novembro.
 
-###### Art. 2.º Constituem objectivos a atingir por este Regulamento:
+Art. 2.º Constituem objectivos a atingir por este Regulamento:
 
 a) Promoção do eficiente abastecimento público em carnes e subprodutos, nos aspectos quantitativo, qualitativo e hígio-sanitário;
 
@@ -112,7 +160,7 @@ b) Obtenção de maior rentabilidade do sector, através da modernização e act
 
 ### CAPÍTULO II — Administração e pessoal
 
-###### Art. 3.º - 1. Os matadouros industriais são administrados por uma comissão de gestão, composta por três elementos nomeados pela presidência da JNPP, sendo:
+Art. 3.º - 1. Os matadouros industriais são administrados por uma comissão de gestão, composta por três elementos nomeados pela presidência da JNPP, sendo:
 
 a) Um, com habilitações técnico-profissionais para o desempenho das funções de director;
 
@@ -122,9 +170,9 @@ c) O terceiro, com formação técnico-económica para o desempenho das de subdi
 
 2. O mandato da Comissão de Gestão terá a duração de três anos, podendo ser renovado por deliberação da presidência da JNPP.
 
-###### Art. 4.º Nos matadouros de âmbito concelhio ou regional, o inspector sanitário poderá desempenhar as funções de director técnico-administrativo, percebendo, para esse efeito, uma gratificação mensal a estabelecer.
+Art. 4.º Nos matadouros de âmbito concelhio ou regional, o inspector sanitário poderá desempenhar as funções de director técnico-administrativo, percebendo, para esse efeito, uma gratificação mensal a estabelecer.
 
-###### Art. 5.º Compete à Comissão de Gestão e aos directores técnico-administrativos dos matadouros:
+Art. 5.º Compete à Comissão de Gestão e aos directores técnico-administrativos dos matadouros:
 
 a) Propor à presidência da JNPP a constituição dos quadros de pessoal das diferentes secções do matadouro e distribuir as tarefas de harmonia com as necessidades do serviço e aptidão dos trabalhadores;
 
@@ -142,55 +190,55 @@ g) Salvaguardar o interesse do público, no respeitante ao abastecimento e distr
 
 h) Zelar pelas condições de higiene dos trabalhadores, fardamentos, utensílios, instalações, transportes e anexos do matadouro.
 
-###### Art. 6.º Cada matadouro elegerá, proporcionalmente ao número de trabalhadores, os seus representantes no conselho de trabalhadores da JNPP, cujas funções virão a ser definidas por legislação a aprovar.
+Art. 6.º Cada matadouro elegerá, proporcionalmente ao número de trabalhadores, os seus representantes no conselho de trabalhadores da JNPP, cujas funções virão a ser definidas por legislação a aprovar.
 
 ### CAPÍTULO III — Disposições gerais
 
-###### Art. 7.º No sentido de promover a industrialização de carnes, subprodutos e despojos, bem como realizar a venda de carnes desossadas e embaladas a entidades abastecedoras, ou a consumidores colectivos, a JNPP promoverá a instalação, nos matadouros que para isso possuam condições, de oficinas tecnológicas e de salas de corte e embalagem.
+Art. 7.º No sentido de promover a industrialização de carnes, subprodutos e despojos, bem como realizar a venda de carnes desossadas e embaladas a entidades abastecedoras, ou a consumidores colectivos, a JNPP promoverá a instalação, nos matadouros que para isso possuam condições, de oficinas tecnológicas e de salas de corte e embalagem.
 
-###### Art. 8.º Tendo em vista a economicidade do processamento do abate, da preparação e da distribuição de carnes, a JNPP indicará, oportunamente, quais os matadouros e casas de matança a encerrar.
+Art. 8.º Tendo em vista a economicidade do processamento do abate, da preparação e da distribuição de carnes, a JNPP indicará, oportunamente, quais os matadouros e casas de matança a encerrar.
 
-###### Art. 9.º Sempre que o volume do abastecimento público de carne o justifique, e as condições dos edifícios o permitam, os matadouros e as casas de matança que hajam de ser excluídos do circuito de abate poderão vir a ser transformados em centros de recepção e distribuição ou em entrepostos frigoríficos.
+Art. 9.º Sempre que o volume do abastecimento público de carne o justifique, e as condições dos edifícios o permitam, os matadouros e as casas de matança que hajam de ser excluídos do circuito de abate poderão vir a ser transformados em centros de recepção e distribuição ou em entrepostos frigoríficos.
 
-###### Art. 10.º O quadro do pessoal a estabelecer para cada matadouro será proporcional à capacidade de abate disponível e ao tipo de processamento tecnológico seguido.
+Art. 10.º O quadro do pessoal a estabelecer para cada matadouro será proporcional à capacidade de abate disponível e ao tipo de processamento tecnológico seguido.
 
-###### Art. 11.º A inspecção sanitária dos animais de talho e das respectivas carnes, subprodutos e despojos será realizada pelos inspectores sanitários, nos termos do regulamento aprovado pela [Portaria n.º 14551](https://diariodarepublica.pt/dr/detalhe/portaria/14551-1953-654081), de 24 de Setembro de 1953.
+Art. 11.º A inspecção sanitária dos animais de talho e das respectivas carnes, subprodutos e despojos será realizada pelos inspectores sanitários, nos termos do regulamento aprovado pela [Portaria n.º 14551](https://diariodarepublica.pt/dr/detalhe/portaria/14551-1953-654081), de 24 de Setembro de 1953.
 
 ### CAPÍTULO IV — Normas técnicas de funcionamento
 
-###### Art. 12.º Dada a diversidade do volume de matanças e do tipo das instalações dos diversos matadouros, o presidente da JNPP aprovará o regulamento de funcionamento interno de cada um deles, a propor pela respectiva Comissão de Gestão ou pelo director técnico-administrativo.
+Art. 12.º Dada a diversidade do volume de matanças e do tipo das instalações dos diversos matadouros, o presidente da JNPP aprovará o regulamento de funcionamento interno de cada um deles, a propor pela respectiva Comissão de Gestão ou pelo director técnico-administrativo.
 
-###### Art. 13.º Dentro do recinto ocupado pelo matadouro e seus anexos só é permitida a presença dos animais destinados ao abate.
+Art. 13.º Dentro do recinto ocupado pelo matadouro e seus anexos só é permitida a presença dos animais destinados ao abate.
 
-###### Art. 14.º - 1. Nas naves de matança e nas câmaras frigoríficas é proibida a presença de pessoas estranhas ao serviço do matadouro, com excepção dos apresentantes do gado, os quais poderão ter acesso ao local onde se encontram as carcaças rejeitadas pela inspecção sanitária, a fim de fundamentarem as reclamações que porventura entendam apresentar.
+Art. 14.º - 1. Nas naves de matança e nas câmaras frigoríficas é proibida a presença de pessoas estranhas ao serviço do matadouro, com excepção dos apresentantes do gado, os quais poderão ter acesso ao local onde se encontram as carcaças rejeitadas pela inspecção sanitária, a fim de fundamentarem as reclamações que porventura entendam apresentar.
 
 2. Para o efeito, far-se-á afixar, em local apropriado e logo após a inspecção sanitária, nota das rejeições totais e suas causas.
 
-###### Art. 15.º A reinspecção dos animais rejeitados em vida ou a das carcaças reprovadas poderá ser requerida ao director do matadouro pelos apresentantes, nas duas horas seguintes à afixação do resultado, devendo, para o efeito, ser depositada antecipadamente, na secretaria do matadouro, a importância devida pelos serviços a prestar.
+Art. 15.º A reinspecção dos animais rejeitados em vida ou a das carcaças reprovadas poderá ser requerida ao director do matadouro pelos apresentantes, nas duas horas seguintes à afixação do resultado, devendo, para o efeito, ser depositada antecipadamente, na secretaria do matadouro, a importância devida pelos serviços a prestar.
 
-###### Art. 16.º O mais perfeito estado de limpeza é exigido ao fardamento de todo o pessoal, aos locais de trabalho e ao material e utensílios em uso, devendo o matadouro dispor, para o efeito, do número suficiente de mudas de vestuário para os seus trabalhadores, bem como de dispositivos devidamente localizados, por forma a permitir não só lavar e desinfectar as mãos e os braços, sempre que necessário, mas também seguir igual procedimento quanto aos utensílios de uso corrente.
+Art. 16.º O mais perfeito estado de limpeza é exigido ao fardamento de todo o pessoal, aos locais de trabalho e ao material e utensílios em uso, devendo o matadouro dispor, para o efeito, do número suficiente de mudas de vestuário para os seus trabalhadores, bem como de dispositivos devidamente localizados, por forma a permitir não só lavar e desinfectar as mãos e os braços, sempre que necessário, mas também seguir igual procedimento quanto aos utensílios de uso corrente.
 
-###### Art. 17.º É proibido fumar e conspurcar os locais de trabalho e os de armazenamento de carnes frescas.
+Art. 17.º É proibido fumar e conspurcar os locais de trabalho e os de armazenamento de carnes frescas.
 
-###### Art. 18.º As ferramentas serão de material resistente à corrosão, que não altere as características organolépticas das carnes; as que servem a um determinado sector da preparação de carcaças, de miudezas ou de despojos não poderão ser utilizadas indiscriminadamente noutros, devendo ser lavadas e desinfectadas, sempre que necessário, no decorrer do período de trabalho e obrigatoriamente no fim das operações de cada dia.
+Art. 18.º As ferramentas serão de material resistente à corrosão, que não altere as características organolépticas das carnes; as que servem a um determinado sector da preparação de carcaças, de miudezas ou de despojos não poderão ser utilizadas indiscriminadamente noutros, devendo ser lavadas e desinfectadas, sempre que necessário, no decorrer do período de trabalho e obrigatoriamente no fim das operações de cada dia.
 
-###### Art. 19.º Para efeitos de limpeza e lavagem dentro do matadouro só é permitido utilizar água potável.
+Art. 19.º Para efeitos de limpeza e lavagem dentro do matadouro só é permitido utilizar água potável.
 
-###### Art. 20.º É proibido espalhar serradura ou material análogo nos pavimentos dos locais de trabalho e nos de armazenamento de carnes frescas.
+Art. 20.º É proibido espalhar serradura ou material análogo nos pavimentos dos locais de trabalho e nos de armazenamento de carnes frescas.
 
-###### Art. 21.º - 1. A recepção de animais para abate terá lugar nos pavilhões ou nos currais para tal fim destinados, das 8 às 12 horas, de domingo a quinta-feira, salvo determinação em contrário. Todos os animais devem ser apresentados desferrados, identificados e acompanhados de documentação sanitária, quando for exigível.
+Art. 21.º - 1. A recepção de animais para abate terá lugar nos pavilhões ou nos currais para tal fim destinados, das 8 às 12 horas, de domingo a quinta-feira, salvo determinação em contrário. Todos os animais devem ser apresentados desferrados, identificados e acompanhados de documentação sanitária, quando for exigível.
 
 2. Por razões justificadas, a recepção de animais para abate poderá também ser feita das 13 às 16 horas, nos dias já indicados, desde que os seus apresentantes satisfaçam o pagamento da prestação do serviço correspondente.
 
-###### Art. 22.º Os animais aprovados em vida para abate terão, nos pavilhões ou currais, um período de descanso, conforme o determinado no Regulamento de Inspecção Sanitária dos Animais de Talho e das Respectivas Carnes, Subprodutos e Despojos.
+Art. 22.º Os animais aprovados em vida para abate terão, nos pavilhões ou currais, um período de descanso, conforme o determinado no Regulamento de Inspecção Sanitária dos Animais de Talho e das Respectivas Carnes, Subprodutos e Despojos.
 
-###### Art. 23.º Uma vez introduzidas nos locais de matança, as reses devem ser imediatamente abatidas, pelos métodos tidos por mais eficientes.
+Art. 23.º Uma vez introduzidas nos locais de matança, as reses devem ser imediatamente abatidas, pelos métodos tidos por mais eficientes.
 
-###### Art. 24.º Salvo para os porcos, a esfola completa deve ser imediata à sangria. Os porcos devem ser desembaraçados das cerdas, raspados e lavados.
+Art. 24.º Salvo para os porcos, a esfola completa deve ser imediata à sangria. Os porcos devem ser desembaraçados das cerdas, raspados e lavados.
 
-###### Art. 25.º A sangria deve ser completa e imediata à insensibilização e o sangue destinado ao consumo humano deve ser recolhido em recipientes próprios.
+Art. 25.º A sangria deve ser completa e imediata à insensibilização e o sangue destinado ao consumo humano deve ser recolhido em recipientes próprios.
 
-###### Art. 26.º Para uma eficiente preparação das carcaças, a evisceração deve ser efectuada na meia hora que se segue à sangria. O pulmão, o coração, o fígado, o baço e o diafragma podem ser destacados ou deixados aderentes à carcaça com as suas ligações naturais.
+Art. 26.º Para uma eficiente preparação das carcaças, a evisceração deve ser efectuada na meia hora que se segue à sangria. O pulmão, o coração, o fígado, o baço e o diafragma podem ser destacados ou deixados aderentes à carcaça com as suas ligações naturais.
 
 Se forem destacados, devem ser imediatamente identificados, por forma a permitir o reconhecimento da carcaça a que pertencem, norma esta igualmente aplicável à língua, à cabeça, ao trato digestivo e a toda a parte do animal necessária à inspecção sanitária.
 
@@ -198,19 +246,19 @@ Neste caso, todos os referidos órgãos devem ficar na proximidade da carcaça a
 
 Em todas as espécies, os rins devem ficar aderentes à carcaça, pelas suas ligações naturais.
 
-###### Art. 27.º É proibido fazer a limpeza de sangue e de corpos estranhos aderentes às carcaças, utilizando ar sob pressão ou panos.
+Art. 27.º É proibido fazer a limpeza de sangue e de corpos estranhos aderentes às carcaças, utilizando ar sob pressão ou panos.
 
-###### Art. 28.º A carcaça de cada espécie, sua preparação e esquartejamento estão definidos, devendo estas operações ser realizadas conforme preceituam as Normas Portuguesas n.os 776, 777, 778, 779 e 780, de 1970, e 833, de 1971.
+Art. 28.º A carcaça de cada espécie, sua preparação e esquartejamento estão definidos, devendo estas operações ser realizadas conforme preceituam as Normas Portuguesas n.os 776, 777, 778, 779 e 780, de 1970, e 833, de 1971.
 
-###### Art. 29.º A pesagem da carcaça será efectuada imediatamente após a sua preparação.
+Art. 29.º A pesagem da carcaça será efectuada imediatamente após a sua preparação.
 
-###### Art. 30.º Para enxugo, deduzir-se-ão ao peso registado 2% para bovinos adultos, equídeos e suínos, 2,5% para bovinos adolescentes e 3% para ovinos e caprinos.
+Art. 30.º Para enxugo, deduzir-se-ão ao peso registado 2% para bovinos adultos, equídeos e suínos, 2,5% para bovinos adolescentes e 3% para ovinos e caprinos.
 
-###### Art. 31.º Sempre que o matadouro disponha de instalações de refrigeração, as carcaças permanecerão nas respectivas câmaras durante vinte e quatro horas ou o tempo considerado necessário para que as massas musculares atinjam, na sua espessura, a temperatura de +7ºC.
+Art. 31.º Sempre que o matadouro disponha de instalações de refrigeração, as carcaças permanecerão nas respectivas câmaras durante vinte e quatro horas ou o tempo considerado necessário para que as massas musculares atinjam, na sua espessura, a temperatura de +7ºC.
 
 As dobradas e miudezas devem ser conservadas de 0ºC a +3ºC.
 
-**O Secretário de Estado do Abastecimento e Preços, Nelson Sérgio Melo da Rocha Trigo.**
+O Secretário de Estado do Abastecimento e Preços, Nelson Sérgio Melo da Rocha Trigo.
 
 Tabela dos custos dos serviços a prestar nos matadouros
 
@@ -730,4 +778,4 @@ Facturadas segundo o seu custo.
 
 Grades para transporte e acondicionamento de produtos no frigorífico, por três meses ou fracção e por cada uma ... 20$00
 
-**O Secretário de Estado do Abastecimento e Preços, Nelson Sérgio Melo da Rocha Trigo.**
+O Secretário de Estado do Abastecimento e Preços, Nelson Sérgio Melo da Rocha Trigo.

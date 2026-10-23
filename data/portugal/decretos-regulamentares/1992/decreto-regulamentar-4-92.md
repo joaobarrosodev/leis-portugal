@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/4/1992/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1992-189361
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a91693cf78c3611dc07464b90a2347f3c3befe79f54979993ff5cc7daef7e716
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 107b6341596440aaa6838c96af9aa538d08920fa8d9bd62853fae854ba81a74a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Retributivo
 - Carreira Profissional
 - Direcção Geral dos Desportos
-- Pessoal não Docente
 - Ensino Superior
+- Pessoal não Docente
 - Remuneração
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para as categorias de assistente técnico, e assistente operacional, nos termos dos arts.\
+    \ 4º e 7º, dos trabalhadores integrados nas carreiras ou titulares das categorias previstas no presente diploma, extintas\
+    \ a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), e revogado, a partir da\
+    \ mesma data, com excepção das disposições relativas às categorias subsistentes, pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:234513:por
+  label: "Revogado na parte relativa ao pessoal não docente dos estabelecimentos do ensino superior, pelo DR.2/2002.2002.01.15.ME\
+    \ DR.IS-B [12]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/2-2002-234513
+  date: '2002-01-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:21Z'
   warnings: []
   errors: []
 ---
@@ -107,13 +138,13 @@ Assim:
 
 Ao abrigo do disposto no artigo 27.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O presente diploma estabelece a estrutura das remunerações base das carreiras e categorias existentes na Direcção-Geral dos Desportos, no Estádio Nacional e nos estabelecimentos de ensino superior, não previstas no [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, ou em legislação complementar.
+Artigo 1.º - 1 - O presente diploma estabelece a estrutura das remunerações base das carreiras e categorias existentes na Direcção-Geral dos Desportos, no Estádio Nacional e nos estabelecimentos de ensino superior, não previstas no [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, ou em legislação complementar.
 
 2 - A estrutura das remunerações base das carreiras e categorias referidas no número anterior consta do mapa anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º A progressão nas carreiras e categorias previstas no mapa anexo obedece aos módulos de tempo nele estabelecidos.
+Art. 2.º A progressão nas carreiras e categorias previstas no mapa anexo obedece aos módulos de tempo nele estabelecidos.
 
-###### Art. 3.º - 1 - Na integração na nova estrutura salarial, por força da aplicação deste diploma, devem ser consideradas as agregações de categorias e as alterações de designações nos termos previstos no mapa anexo.
+Art. 3.º - 1 - Na integração na nova estrutura salarial, por força da aplicação deste diploma, devem ser consideradas as agregações de categorias e as alterações de designações nos termos previstos no mapa anexo.
 
 2 - Os contínuos, porteiros e guardas de serviços ou estabelecimentos abrangidos pelo presente diploma, aos quais não tenha sido aplicado o [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, transitam para a carreira de auxiliar administrativo.
 
@@ -121,7 +152,7 @@ Ao abrigo do disposto no artigo 27.º do [Decreto-Lei n.º 353-A/89](https://dia
 
 4 - Para aplicação do disposto nos números anteriores, os respectivos lugares são automaticamente reconvertidos nas categorias para os quais os funcionários transitam.
 
-###### Art. 4.º - 1 - A área de recrutamento para encarregado de armazém passa a reportar-se aos fiéis de armazém posicionados no escalão 3 ou superior.
+Art. 4.º - 1 - A área de recrutamento para encarregado de armazém passa a reportar-se aos fiéis de armazém posicionados no escalão 3 ou superior.
 
 2 - A área de recrutamento para encarregado de bar/snack passa a reportar-se aos empregados de bar/snack posicionados no escalão 3 ou superior.
 
@@ -135,28 +166,28 @@ Ao abrigo do disposto no artigo 27.º do [Decreto-Lei n.º 353-A/89](https://dia
 
 7 - A área de recrutamento para operador de microfilmagem principal passa a reportar-se a operadores de microfilmagem posicionados no escalão 3 ou superior.
 
-###### Art. 5.º - 1 - Os funcionários que tenham mudado de categoria desde 1 de Outubro de 1989 transitam para a nova estrutura salarial de acordo com a categoria de que são titulares à data da entrada em vigor do presente diploma.
+Art. 5.º - 1 - Os funcionários que tenham mudado de categoria desde 1 de Outubro de 1989 transitam para a nova estrutura salarial de acordo com a categoria de que são titulares à data da entrada em vigor do presente diploma.
 
 2 - Nos casos previstos no número anterior, para efeitos de cálculo das remunerações no período compreendido entre 1 de Outubro de 1989 e a data da entrada em vigor do presente diploma, atender-se-á ao índice atribuído à situação que o funcionário detinha até à data em que se verificou a mudança de categoria.
 
-###### Art. 6.º Em tudo o que não estiver especialmente regulado no presente diploma aplicam-se as disposições do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
+Art. 6.º Em tudo o que não estiver especialmente regulado no presente diploma aplicam-se as disposições do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
 
-###### Art. 7.º O presente diploma produz efeitos desde 1 de Outubro de 1989.
+Art. 7.º O presente diploma produz efeitos desde 1 de Outubro de 1989.
 
 Presidência do Conselho de Ministros, 20 de Janeiro de 1992.
 
 Aníbal António Cavaco Silva - Jorge Braga de Macedo - Diamantino Freitas Gomes Durão.
 
-**Promulgado em 13 de Março de 1992.**
+Promulgado em 13 de Março de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Março de 1992.**
+Referendado em 17 de Março de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/078b00/15941597.pdf))](https://files.diariodarepublica.pt/1s/1992/04/078b00/15941597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/078b00/15941597.pdf)

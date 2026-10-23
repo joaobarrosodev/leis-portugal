@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23211-1968-233707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:42:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b737f179cd07e5d1b2ae83b5ec8622778d0ddecca523327db8adcb1a811618c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0088916f7076db53408350c09fa437da716b97af5203a0bb1f86c52c3b73b31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:42:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368381:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:42:10Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +109,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 285.º, n.º 2), alínea a) «Deslocações de pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole» ... 100000$00
+Artigo 285.º, n.º 2), alínea a) «Deslocações de pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole» ... 100000$00
 
-###### Artigo 286.º, n.º 16), alínea a) «Diversas despesas - Despesas com assistência médica, tratamento e internamento de casos de tuberculose, câncer, alienação mental, lepra, em hospitais, manicómios, casas de saúde, sanatórios, de funcionários civis do activo, aposentados e operários do Estado e de colonos pobres das províncias ultramarinas: (Artigo 34.º, [Decreto n.º 37141](https://diariodarepublica.pt/dr/detalhe/decreto/37141-1948-368381), de 8 de Novembro de 1958, e artigo 1.º [Decreto n.º 42010](https://diariodarepublica.pt/dr/detalhe/decreto/42010-1958-337413), de 6 de Dezembro de 1958) - Na metrópole» ... 50000$00
+Artigo 286.º, n.º 16), alínea a) «Diversas despesas - Despesas com assistência médica, tratamento e internamento de casos de tuberculose, câncer, alienação mental, lepra, em hospitais, manicómios, casas de saúde, sanatórios, de funcionários civis do activo, aposentados e operários do Estado e de colonos pobres das províncias ultramarinas: (Artigo 34.º, [Decreto n.º 37141](https://diariodarepublica.pt/dr/detalhe/decreto/37141-1948-368381), de 8 de Novembro de 1958, e artigo 1.º [Decreto n.º 42010](https://diariodarepublica.pt/dr/detalhe/decreto/42010-1958-337413), de 6 de Dezembro de 1958) - Na metrópole» ... 50000$00
 
 ... 150000$00
 
@@ -101,13 +121,13 @@ tomando como contrapartida o excesso de cobrança sobre a previsão da receita d
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 2579.º «Deslocações de pessoal»:
+Artigo 2579.º «Deslocações de pessoal»:
 
 N.º 2), alínea a) «Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole» ... 500000$00
 
 N.º 4), alínea b), 1) «Passagens de ou para o exterior - Por quaisquer outros motivos - A pagar na metrópole» ... 6000000$00
 
-###### Artigo 2580.º, n.º 3), alínea a) «Diversas despesas - Despesas com valores selados - A pagar na metrópole» ... 250000$00
+Artigo 2580.º, n.º 3), alínea a) «Diversas despesas - Despesas com valores selados - A pagar na metrópole» ... 250000$00
 
 ... 6750000$00
 

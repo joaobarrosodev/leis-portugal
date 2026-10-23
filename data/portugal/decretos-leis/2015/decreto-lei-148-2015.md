@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15000/0534705361.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/148/2015/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2015-69935161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f936f147f26444b248d910d0b4e6e54d6581a0b83b7c720835b4ebdced235be0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e73a5eb2f857962f8529aa39c03a6984d04efeca40caa81994bbcb1a641151c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,42 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aproximação das Legislações
-- Região Autónoma
+- Arquipélago da Madeira
 - Arquivo
+- Autarquia Local
 - BEM Móvel
 - BENS Classificados
 - BENS Corpóreos
+- Biblioteca Nacional de Portugal
+- Câmara Municipal
+- Cinemateca Portuguesa-Museu do Cinema
 - Cinemateca Portuguesa-Museu do Cinema IP
-- Imóvel Classificado
 - Código do Procedimento Administrativo
-- Multa
 - Contra-ordenação
 - Direção Geral do Livro dos Arquivos e das Bibliotecas
 - Direção Geral do Património Cultural
-- Inventário Permanente
-- União Europeia
-- Património Cultural
-- Cinemateca Portuguesa-Museu do Cinema
-- Importação
-- Património Bibliográfico
-- Interesse Público
-- Transmissão da Propriedade
-- Inventário do Património Cultural
-- Publicitação
-- Arquipélago da Madeira
-- Biblioteca Nacional de Portugal
-- Página na Internet
-- Património Fotográfico
-- Internet
 - Exportação
-- Madeira.região Autónoma
-- Protecção do Património
-- Câmara Municipal
-- Regime Jurídico
+- Imóvel Classificado
+- Importação
+- Interesse Público
+- Internet
 - Inventário
-- Açores
-- Autarquia Local
+- Inventário do Património Cultural
+- Inventário Permanente
+- Madeira.região Autónoma
+- Multa
+- Página na Internet
+- Património Bibliográfico
+- Património Cultural
+- Património Fotográfico
+- Protecção do Património
+- Publicitação
+- Região Autónoma
+- Regime Jurídico
+- Transmissão da Propriedade
+- União Europeia
 relationships:
 - type: cites
   target: celex:32009R0116
@@ -151,16 +151,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/47/2004/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/47/2004/08/19/p/dre
+- type: cites
+  target: pt:dre:145271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670285:por
+  label: null
+  source: null
 article_structure:
   article_count: 73
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:09Z'
   warnings: []
   errors: []
 ---
@@ -1117,12 +1165,12 @@ O presente decreto-lei entra em vigor no primeiro dia útil do mês seguinte ao 
 
 Visto e aprovado em Conselho de Ministros de 14 de maio de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque.
 
-**Promulgado em 23 de julho de 2015.**
+Promulgado em 23 de julho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de julho de 2015.**
+Referendado em 23 de julho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

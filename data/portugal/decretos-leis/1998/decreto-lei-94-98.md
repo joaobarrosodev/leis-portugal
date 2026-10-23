@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/94/1998/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1998-173369
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:05:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 466efe558d5ef9bc6a9c4fa0fc025775957be1d533b5d7d349a8ed713f99d561
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1cfb7e328ea3fbb801ecfdfe8593af45931127e92de71259802e3568c5f09fa6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:05:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,240 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
+- Comércio
 - Comissão Consultiva de Pesticidas
-- Organismo Geneticamente Modificado
 - Controlo Sanitário
-- Saúde Pública
+- Embalagem
 - Etiquetagem
 - Fiscalização
 - Licenciamento
-- Embalagem
-- Proteção do Ambiente
-- Proteção do Consumidor
+- Limite Máximo de Resíduos
+- Organismo Geneticamente Modificado
 - Pesticida
 - Produto Fitofarmacêutico
-- Limite Máximo de Resíduos
-- Comércio
-- Troca Intracomunitária
+- Produto Químico
+- Proteção do Ambiente
+- Proteção do Consumidor
 - Saúde Animal
+- Saúde Pública
+- Troca Intracomunitária
 relationships:
 - type: amended_by
   target: pt:dre:69920329:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:222984:por
+  label: "Aditado o anexo IV pelo DEC LEI.341/98.1998.11.04.MADRP, DR.IS-A [255]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/341-1998-222984
+  date: '1998-11-04'
+- type: amended_by
+  target: pt:dre:558210:por
+  label: "Incluídas várias substâncias activas no Anexo I ao presente dipoma, pelo DEC LEI.377/99.1999.09.21.MADRP, DR.IS-A\
+    \ [221]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/377-1999-558210
+  date: '1999-09-21'
+- type: amended_by
+  target: pt:dre:275868:por
+  label: "Determinada a inclusão de substâncias activas no anexo I do presente diploma, pelo DEC LEI.78/2000.09.05.2000.MADRP,\
+    \ DR.IS-A [107] de 09.05.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2000-275868
+  date: '2000-05-09'
+- type: amended_by
+  target: pt:dre:315155:por
+  label: "Aditadas as als t) e u) ao nº 2 do art. 2º, o cap. XVIII e os arts. 43º e 44º, passando o anterior cap. XVIII a\
+    \ cap. XIX e os arts. 24º, 25º, 26º, 27º e 28º a arts. 39º, 40º, 41º, 42º e 45º pelo DEC LEI.22/2001.2001.01.30.MADRP,DR.IS-A\
+    \ [25]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2001-315155
+  date: '2001-01-30'
+- type: amended_by
+  target: pt:dre:631840:por
+  label: "Substituído o anexo I (n.ºs 1 a 13), pelo DEC LEI.238/2001.2001.08.30.MADRP, DR.IS-A [201] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-2001-631840
+  date: '2001-08-30'
+- type: amended_by
+  target: pt:dre:284357:por
+  label: "Aditados os nºs. 18 e 19 ao anexo I do presente diploma, pelo DEC LEI.28/2002.2002.02.14.MADRP, DR.IS-A [38], nos\
+    \ termos do seu anexo.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2002-284357
+  date: '2002-02-14'
+- type: amended_by
+  target: pt:dre:303199:por
+  label: "Aditados os nºs 14, 15, 16, 17, 20, 21, 22, 23 e 24 ao Anexo I, na redacção dada pelos Dec Lei 238/2001 de 30-Ago\
+    \ e 28/2002 de 14-Fev, pelo DEC LEI.101/2002.2002.04.12.MADRP, DR.IS-A [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-2002-303199
+  date: '2002-04-12'
+- type: amended_by
+  target: pt:dre:199133:por
+  label: "Alterados os anexos II e III, pelo DEC LEI.160/2002.2002.07.09.MADRP, DR.IS-A [156] de 09/Jul/2002, nos termos dos\
+    \ seus anexos I e II.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-2002-199133
+  date: '2002-07-09'
+- type: amended_by
+  target: pt:dre:647504:por
+  label: "Aditados os nºs. 25 e 26 ao quadro do anexo I do presente diploma pelo DEC LEI.198/2002.2002.09.25.MADRP,DR.IS-A\
+    \ [222]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-2002-647504
+  date: '2002-09-25'
+- type: amended_by
+  target: pt:dre:315879:por
+  label: "Aditados os nºs 27 a 39 ao anexo I, com a última redacção dada pelo Dec Lei 198/2002 de 25-Set, pelo DEC LEI.72-H/2003.2003.04.14.MADRP\
+    \ DR.IS-A [88]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-h-2003-315879
+  date: '2003-04-14'
+- type: amended_by
+  target: pt:dre:497376:por
+  label: "Aditados os nºs 41 a 46 ao anexo I, pelo DEC LEI.215/2003.2003.09.18.MADRP, DR.IS-A [216] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2003-497376
+  date: '2003-09-18'
+- type: amended_by
+  target: pt:dre:608183:por
+  label: "Aditados os anexos V e VI ao presente diploma, pelo DEC LEI.22/2004.22.01.2004.MADRP, DR.IS-A [18] de 22.01.2004\
+    \ na redacção que lhes é dada pelo mesmo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2004-608183
+  date: '2004-01-22'
+- type: amended_by
+  target: pt:dre:568317:por
+  label: "Aditados os nºs 40, 47 a 53 e 59 a 71 (novas substâncias activas) ao anexo I deste diploma, com a última redacção\
+    \ dada pelo Dec Lei 215/2003 de 18-Set, pelo DEC LEI.39/2004.27.02.2004.MADRP, DR.IS-A [49] de 27.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2004-568317
+  date: '2004-02-27'
+- type: amended_by
+  target: pt:dre:624467:por
+  label: "Aditados os n.ºs 54 a 58, 72 a 78, 80 a 83, 90 e 91 ao anexo I, pelo DEC LEI.22/2005.26.01.2005.MAPF, DR.IS-A [18]\
+    \ de 26.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2005-624467
+  date: '2005-01-26'
+- type: amended_by
+  target: pt:dre:242034:por
+  label: "Aditados os n.ºs 79, 84 a 89 e 92 a 99 ao anexo I, pelo DEC LEI.128/2005.09.08.2005.MADRP, DR.IS-A [152] de 09.08.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-2005-242034
+  date: '2005-08-09'
+- type: amended_by
+  target: pt:dre:544668:por
+  label: "Aditados os nºs 100 e 101 ao anexo I e alterado o anexo IV deste diploma, com a redacção que lhe foi introduzida\
+    \ pelo Dec Lei 341/98 de 14-Nov, pelo DEC LEI.19/2006.31.01.2006.MADRP, DR.IS-A [22] de 31.01.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-2006-544668
+  date: '2006-01-31'
+- type: amended_by
+  target: pt:dre:633288:por
+  label: "Aditados os nºs 102 a 111 ao anexo I deste diploma pelo DEC LEI.87/2006.23.05.2006.MADRP, DR.IS-A [99] de 23.05.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-2006-633288
+  date: '2006-05-23'
+- type: amended_by
+  target: pt:dre:545384:por
+  label: "Alterados os n.ºs 77 e 102 e aditados os n.ºs 108, 109 e 112 a 120 ao anexo I do presente diploma, na redacção dos\
+    \ Dec Lei 22/2005 de 26-Jan e 87/2006 de 23-Mai, pelo DEC LEI.234/2006.29.11.2006.MADRP, DR.IS [230] de 29.11.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-2006-545384
+  date: '2006-11-29'
+- type: amended_by
+  target: pt:dre:519616:por
+  label: "Alterados os arts. 32º e 35º do presente diploma, na redacção do Dec Lei 22/2001 de 30-Jan, pelo DEC LEI.111/2007.16.04.2007.MADRP,\
+    \ DR.IS [74] de 16.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2007-519616
+  date: '2007-04-16'
+- type: amended_by
+  target: pt:dre:638512:por
+  label: "Aditados os nºs 121 a 124 e 129 ao anexo I pelo DEC LEI.206/2007.28.05.2007.MADRP, DR.IS [102] de 28.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-2007-638512
+  date: '2007-05-28'
+- type: amended_by
+  target: pt:dre:641462:por
+  label: "Alterado o Anexo I (na redacção dos Dec Lei 238/2001 de 30-Ago, 28/2002 de 14-Fev, 101/2002 de 12-Abr, 198/2002\
+    \ de 25-Set, 72-H/2003 de 14-Abr, 215/2003 de 18-Set, 39/2004 de 27-Fev, 22/2005 de 26-Jan, 128/2005, de 09-Ago, 19/2006,\
+    \ de 31-Jan, 87/2006 de 23-Maio, 234/2006, de 29-Nov e 206/2007, de 28-Maio) do presente diploma, pelo DEC LEI.334/2007.10.10.2007.MADRP,\
+    \ DR.IS [195] de 10.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/334-2007-641462
+  date: '2007-10-10'
+- type: amended_by
+  target: pt:dre:246540:por
+  label: "Alterado o anexo I do presente diploma, na redacção dos Dec Lei 377/99 de 21-Set (revogado), 78/2000, de 09-Maio\
+    \ (revogado), 238/2001 de 30-Ago, 28/2002 de 14-Fev, 101/2002 de 12-Abr, 198/2002 de 25-Set, 72-H/2003 de 14-Abr, 215/2003\
+    \ de 18-Set, 39/2004 de 27-Fev, 22/2005 de 26-Jan, 128/2005 de 09-Ago, 19/2006 de 31-Jan, 87/2006 de 23-Maio, 234/2006\
+    \ de 29-Nov, 206/2007 de 28-Maio e 334/2007 de 10-Out, pelo DEC LEI.61/2008.28.03.2008.MADRP, DR.IS [62] de 28.03.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2008-246540
+  date: '2008-03-28'
+- type: amended_by
+  target: pt:dre:443899:por
+  label: "Alterado o art. 19.º e revogados os nºs 6, 7, 8 e 9 do mesmo artigo do presente diploma, alterado ainda o nº 136º\
+    \ do anexo I e aditados os nºs 169 a 174 ao mesmo anexo do presente diploma, pelo DEC LEI.244/2008.18.12.2008.MADRP, DR.IS\
+    \ [244] de 18.12.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/244-2008-443899
+  date: '2008-12-18'
+- type: amended_by
+  target: pt:dre:603261:por
+  label: "Alterado o nº 151 e aditados os nºs. 166 a 168, 175 a 192 e 198, ao anexo I do presente diploma, pelo DEC LEI.87/2009.03.04.2009.MADRP,\
+    \ DR.IS [66] de 03.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-2009-603261
+  date: '2009-04-03'
+- type: amended_by
+  target: pt:dre:490243:por
+  label: "Alterado o anexo I e aditados os nºs 193 a 197 e 199 a 220 no anexo I do presente diploma, na redacção dos Dec Lei\
+    \ 377/99 de 21-Set (revogado), 78/2000 de 09-Maio (revogado), 238/2001 de 30-Ago, 28/2002 de 14-Fev, 101/2002 de 12-Abr,\
+    \ 198/2002 de 25-Set, 72-H/2003 de 14-Abr, 215/2003 de 18-Set, 39/2004 de 27-Fev, 22/2005 de 26-Jan, 128/2005 de 09-Ago,\
+    \ 19/2006 de 31-Jan, 87/2006 de 23-Maio, 234/2006 de 29-Nov, 206/2007 de 28-Maio, 334/2007 de 10-Out, 61/2008, de 28-Mar,\
+    \ 244/2008, de 18-Dez, e 87/2009, de 03-Abr, pelo DEC LEI.240/2009.16.09.2009.MADRP, DR.IS [180] de 16.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-2009-490243
+  date: '2009-09-16'
+- type: amended_by
+  target: pt:dre:614299:por
+  label: "Alterado e publicado em anexo, o anexo i do presente diploma, (na redacção do Dec Lei 377/99, de 21-Set, do Dec\
+    \ Lei 78/2000, 09-Maio, do Dec Lei 238/2001, de 30-Ago, do Dec Lei 28/2002, 14-Fev, do Dec Lei 101/2002, de 12-Abr, do\
+    \ Dec Lei 198/2002, de 25-Set, do Dec Lei 72-H/2003, de 14-Abr, do Dec Lei 215/2003, de 18-Set, do Dec Lei 39/2004, de\
+    \ 27-Fev, do Dec Lei 22/2005, de 26-Jan, do Dec Lei 128/2005, de 09-Ago, do Dec Lei 19/2006, de 31-Jan, do Dec Lei 87/2006,\
+    \ de 23-Maio, do Dec Lei 234/2006, de 29-Nov, do Dec Lei 206/2007, de 28-Maio, do Dec Lei 334/2007, de 10-Out, do Dec\
+    \ Lei 61/2008, de 28-Mar, do Dec Lei 244/2008, de 18-Dez, do Dec Lei 87/2009, 03-Abr e do Dec Lei 240/2009, de 16-Set),\
+    \ pelo DEC LEI.44/2010.03.05.2010.MADRP, DR.IS [85] de 03.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2010-614299
+  date: '2010-05-03'
+- type: amended_by
+  target: pt:dre:342790:por
+  label: "Alterado o anexo I do presente diploma, na redacção do Dec Lei 377/99, de 21-Set, do Dec Lei 78/2000, 09-Maio, do\
+    \ Dec Lei 238/2001, de 30-Ago, do Dec Lei 28/2002, 14-Fev, do Dec Lei 101/2002, de 12-Abr, do Dec Lei 198/2002, de 25-Set,\
+    \ do Dec Lei 72-H/2003, de 14-Abr, do Dec Lei 215/2003, de 18-Set, do Dec Lei 39/2004, de 27-Fev, do Dec Lei 22/2005,\
+    \ de 26-Jan, do Dec Lei 128/2005, de 09-Ago, do Dec Lei 19/2006, de 31-Jan, do Dec Lei 87/2006, de 23-Maio, do Dec Lei\
+    \ 234/2006, de 29-Nov, do Dec Lei 206/2007, de 28-Maio, do Dec Lei 334/2007, de 10-Out, do Dec Lei 61/2008, de 28-Mar,\
+    \ do Dec Lei 244/2008, de 18-Dez, do Dec Lei 87/2009, 03-Abr, do Dec Lei 240/2009, de 16-Set e do Dec Lei 44/2010, de\
+    \ 03-Mai pelo DEC LEI.106/2010.01.10.2010.MADRP, DR.IS [192] de 01.10.2010, de acordo com o respectivo anexo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-2010-342790
+  date: '2010-10-01'
+- type: amended_by
+  target: pt:dre:279674:por
+  label: "Alterado o anexo I do presente diploma, na redacção dos Dec Lei 377/99, de 21-Set (revogado), 78/2000, de 09-Maio\
+    \ (revogado), 238/2001, de 30-Ago, 28/2002, de 14-Fev, 101/2002, de 12-Abr, 198/2002, de 25-Set, 72-H/2003, de 14-Abr,\
+    \ 215/2003, de 18-Set, 39/2004, de 27-Fev, 22/2005, de 26-Jan, 128/2005, de 09-Ago, 19/2006, de 31-Jan, 87/2006, de 23-Maio,\
+    \ 234/2006, de 29-Nov, 206/2007, de 28-Maio, 334/2007, de 10-Out, 61/2008, de 28-Mar, 244/2008, de 18-Dez, 87/2009, de\
+    \ 03-Abr, 240/2009, de 16-Set, 44/2010, de 03-Maio e 106/2010, de 01-Out, pelo DEC LEI.24/2011.11.02.2011.MADRP, DR.IS\
+    \ [30] de 11.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2011-279674
+  date: '2011-02-11'
+- type: amended_by
+  target: pt:dre:670023:por
+  label: "Alterado o anexo I do presente diploma, na redacção do Dec Lei 238/2001, de 30-Ago, do Dec Lei 28/2002, 14-Fev,\
+    \ do Dec Lei 101/2002, de 12-Abr, do Dec Lei 198/2002, de 25-Set, do Dec Lei 72-H/2003, de 14-Abr, do Dec Lei 215/2003,\
+    \ de 18-Set, do Dec Lei 39/2004, de 27-Fev, do Dec Lei 22/2005, de 26-Jan, do Dec Lei 128/2005, de 09-Ago, do Dec Lei\
+    \ 19/2006, de 31-Jan, do Dec Lei 87/2006, de 23-Maio, do Dec Lei 234/2006, de 29-Nov, do Dec Lei 206/2007, de 28-Maio,\
+    \ do Dec Lei 334/2007, de 10-Out, do Dec Lei 61/2008, de 28-Mar, do Dec Lei 244/2008, de 18-Dez, do Dec Lei 87/2009, 03-Abr,\
+    \ do Dec Lei 240/2009, de 16-Set, do Dec Lei 44/2010, de 03-Mai, do Dec Lei 106/2010, de 01-Out e do Dec Lei 24/2011,\
+    \ de 11-Fev, pelo DEC LEI.80/2011.20.06.2011.MADRP, DR.IS [117] de 20.06.2011, de acordo com o respectivo anexo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2011-670023
+  date: '2011-06-20'
+- type: amended_by
+  target: pt:dre:543004:por
+  label: "Alterado o anexo I do presente diploma, na redacção do Dec Lei 238/2001, de 30-ago, do Dec Lei 28/2002, 14-fev,\
+    \ do Dec Lei 101/2002, de 12-abr, do Dec Lei 198/2002, de 25-set, do Dec Lei 72-H/2003, de 14-abr, do Dec Lei 215/2003,\
+    \ de 18-set, do Dec Lei 39/2004, de 27-fev, do Dec Lei 22/2005, de 26-jan, do Dec Lei 128/2005, de 09-ago, do Dec Lei\
+    \ 19/2006, de 31-jan, do Dec Lei 87/2006, de 23-maio, do Dec Lei 234/2006, de 29-nov, do Dec Lei 206/2007, de 28-maio,\
+    \ do Dec Lei 334/2007, de 10-out, do Dec Lei 61/2008, de 28-mar, do Dec Lei 244/2008, de 18-dez, do Dec Lei 87/2009, 03-abr,\
+    \ do Dec Lei 240/2009, de 16-set, do Dec Lei 44/2010, de 03-maio, do Dec Lei 106/2010, de 01-out, do Dec Lei 24/2011,\
+    \ de 11-fev, e do Dec Lei 80/2011, de 20-jun, pelo DEC LEI.37/2012.16.02.2012.MAMAOT, DR.IS [34] de 16.02.2012, de acordo\
+    \ com orespectivo anexo,\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-2012-543004
+  date: '2012-02-16'
 - type: cites
   target: celex:31986L0362
   label: null
@@ -136,16 +347,33 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/1986/
   label: null
   source: http://data.europa.eu/eli/dir/1986/
+- type: corrected_by
+  target: pt:dre:449184:por
+  label: "Rectificado o Decreto-Lei n.º 61/2008, de 28 de Março, que alterou o presente diploma, pela DECL-RECT.31/2008.27.05.2008.PCM,\
+    \ DR.IS [101] de 27.05.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/31-2008-449184
+  date: '2008-05-27'
+- type: repealed_by
+  target: pt:dre:594308:por
+  label: "Revogados os nºs 4 e 5 do art. 19º pelo DEC LEI.173/2005.21.10.2005.MADRP, DR.IS-A [203] de 21.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-2005-594308
+  date: '2005-10-21'
+- type: repealed_by
+  target: pt:dre:69920329:por
+  label: Revogado, sem prejuízo do disposto no n.º 1 do art 23.º do Dec Lei 145/2015 de 31-jul, pelo(a) Decreto-Lei n.º 145/2015
+    - Diário da República n.º 148/2015, Série I de 2015-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-2015-69920329
+  date: '2015-07-31'
 article_structure:
   article_count: 28
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 22
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:05:09Z'
   warnings: []
   errors: []
 ---
@@ -830,15 +1058,15 @@ As entidades responsáveis pela colocação no mercado nacional de produtos fito
 
 Visto e aprovado em Conselho de Ministros de 12 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 18 de Março de 1998.**
+Promulgado em 18 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Março de 1998.**
+Referendado em 26 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I
 
@@ -878,7 +1106,7 @@ A presente derrogação é aplicável aos ensaios supervisados de resíduos efec
 
 3 - Consoante se trate de substâncias químicas ou de microrganismos e vírus, os estudos deverão ser apresentados de acordo com o descrito, respectivamente, na parte A e na parte B a seguir referidas:
 
-# PARTE A
+## PARTE A
 
 Das substâncias químicas [substância na acepção da definição constante do n.º 2, alínea c), do artigo 2.º do corpo deste decreto-lei].
 
@@ -1400,7 +1628,7 @@ Deve ser realizado um estudo toxicocinético de administração única em ratos 
 
 Método de ensaio:
 
-# Parte B, toxicocinética, Directiva n.º [88/302/CEE](http://data.europa.eu/eli/dir/1988/302/oj?locale=pt), da Comissão, de 30 de Maio.
+Parte B, toxicocinética, Directiva n.º [88/302/CEE](http://data.europa.eu/eli/dir/1988/302/oj?locale=pt), da Comissão, de 30 de Maio.
 
 5.2 - Toxicidade aguda:
 
@@ -1542,7 +1770,7 @@ A toxicidade a curto prazo (90 dias) da substância activa por via oral, quer no
 
 Método de ensaio:
 
-# Parte B da Directiva n.º [88/302/CEE](http://data.europa.eu/eli/dir/1988/302/oj?locale=pt), da Comissão, de 30 de Maio (teste de toxicidade oral subcrónica).
+Parte B da Directiva n.º [88/302/CEE](http://data.europa.eu/eli/dir/1988/302/oj?locale=pt), da Comissão, de 30 de Maio (teste de toxicidade oral subcrónica).
 
 5.3.3 - Outras vias:
 
@@ -2922,7 +3150,7 @@ Frases relativas aos conselhos de prudência.
 
 11 - Um processo como o referido no anexo III, para um produto fitofarmacêutico representativo.
 
-# PARTE B — Microrganismos e vírus
+## PARTE B — Microrganismos e vírus
 
 [O disposto nesta parte B não se aplica aos organismos geneticamente modificados (designados a partir daqui como OGM) nas partes abrangidas pelo Decreto-Lei n.º 126/93, de 20 de Abril.]
 
@@ -3182,7 +3410,7 @@ Antes de exigir essa informação e da realização de outros eventuais estudos,
 
 5 - Consoante se trate de preparações químicas ou de microrganismos e vírus, os estudos deverão ser apresentados de acordo com o descrito, respectivamente, na parte A e na parte B a seguir referidas:
 
-# PARTE A — Preparações químicas
+## PARTE A — Preparações químicas
 
 1 - Identidade do produto fitofarmacêutico:
 
@@ -4846,7 +5074,7 @@ Frases relativas aos conselhos de prudência.
 
 12.5 - Exemplares das embalagens propostas.
 
-# PARTE B — Microrganismos e vírus
+## PARTE B — Microrganismos e vírus
 
 (Esta parte não se aplica aos OGM nas partes abrangidas pelo Decreto-Lei n.º 126/93, de 20 de Abril)
 

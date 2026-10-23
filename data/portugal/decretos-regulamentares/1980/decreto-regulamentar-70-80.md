@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/11/25600/37503750.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/70-1980-457460
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:03:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0686595df1a60aec88b559d1d5f0c8263c3c4081f58f1fd68f2af784e86f1901
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86eabb0c2409090d41d67b245d81440953285d66a59a4d55518b4bd887f68d38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:03:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Contabilidade Pública
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:662573:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:365889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461663:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:662573:por
+  label: "Revogado pelo DR.17/87.18.02.1987.MF, DR.IS [41] de 18.02.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/17-1987-662573
+  date: '1987-02-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:03:06Z'
   warnings: []
   errors: []
 ---
@@ -97,16 +112,16 @@ Convindo uniformizar a regulamentação das remunerações acessórias recebidas
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 45.º, n.º 4, do [Decreto Regulamentar n.º 53/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1980-461663), de 27 de Setembro, passa a ter a seguinte redacção:
+Artigo único. O artigo 45.º, n.º 4, do [Decreto Regulamentar n.º 53/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1980-461663), de 27 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 45.º ...
+Art. 45.º ...
 
 4 - O prémio de liquidação e responsabilidade financeira será distribuído pelos funcionários não excluídos nos termos do n.º 2 do presente artigo, na proporção dos respectivos vencimentos, com o limite máximo anual de 30% dos referidos vencimentos, acrescido de 8,5% para aqueles que desempenharem as funções de adjunto de director de contabilidade.
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva.
 
-**Promulgado em 25 de Outubro de 1980.**
+Promulgado em 25 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

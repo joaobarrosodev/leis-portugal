@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/76/2002/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2002-300606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 297e9b0780449c3821b9b2543df47e1776d8b37253e76107be4c4a7f5bbf0e5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9ab8fdc2b7157d5e1ff8254855a73a8c686198e84e151128d145a9b454a8a22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ subjects:
 - Aproximação das Legislações
 - Controlo de Qualidade
 - Máquina-Ferramenta
-- Proteção do Ambiente
 - Poluição Sonora
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:204552601:por
@@ -125,16 +125,21 @@ relationships:
   target: eli:http://data.europa.eu/eli/di
   label: null
   source: http://data.europa.eu/eli/di
+- type: repealed_by
+  target: pt:dre:546036:por
+  label: "Revogado pelo DEC LEI.221/2006.08.11.2006.MEI, DR.IS [215] de 08.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/221-2006-546036
+  date: '2006-11-08'
 article_structure:
   article_count: 23
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:20Z'
   warnings: []
   errors: []
 ---
@@ -189,15 +194,15 @@ c) A Portaria n.º 77/96, de 9 de Março.
 
 Visto e aprovado em Conselho de Ministros de 13 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Henrique Nuno Pires Severiano Teixeira - Rui António Ferreira Cunha - António Luís Santos Costa - Luís Garcia Braga da Cruz - Paulo José Fernandes Pedroso - Rui Nobre Gonçalves.
 
-**Promulgado em 21 de Janeiro de 2002.**
+Promulgado em 21 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Fevereiro de 2002.**
+Referendado em 7 de Fevereiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — REGULAMENTO DAS EMISSÕES SONORAS DE EQUIPAMENTO PARA UTILIZAÇÃO NO EXTERIOR
 
@@ -825,7 +830,7 @@ Outras informações.
 
 Aquando do ensaio de tipos específicos de equipamento, o fabricante ou o seu mandatário na União Europeia podem, em geral, escolher uma das normas básicas de ruído enunciadas na parte A e aplicar as condições de funcionamento enunciadas na parte B, para o tipo específico de equipamento em causa. Todavia, na eventualidade de litígio, a norma básica de ruído recomendada, que a parte B enuncia, tem de ser utilizada em conjunto com as condições de funcionamento, nela igualmente enunciadas.
 
-# Parte A - Normas básicas de ruído
+Parte A - Normas básicas de ruído
 
 Para determinar o nível de potência sonora do equipamento para utilização no exterior, definido no n.º 1 do artigo 2.º, podem, em geral, ser utilizadas as normas básicas de ruído:
 
@@ -849,7 +854,7 @@ Ou à velocidade máxima da ventoinha; ou
 
 Num primeiro ensaio, a velocidade nula e, num segundo ensaio, à velocidade máxima. O nível de pressão sonora L(índice pA) será então calculado combinando os resultados dos dois testes, segundo a equação:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
+[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
 
 c) Mecanismo da ventoinha com velocidade variável contínua - se a ventoinha puder trabalhar a velocidade variável contínua, o ensaio será realizado ou nos termos do n.º 2.1, alínea b), ou com a ventoinha à velocidade fixada pelo fabricante a pelo menos 70% da velocidade máxima.
 
@@ -891,15 +896,15 @@ QUADRO
 
 Coordenadas das 12 posições de microfone
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
 
 6 - Factor de correcção ambiental K(índice 2A) - o material é medido sobre uma superfície reflectora de betão ou asfalto não poroso, sendo o factor de correcção ambiental K(índice 2A) levado seguidamente a K(índice 2A) = 0. Se no código de ensaio acústico do presente diploma estiverem previstas outras especificações para um material específico, deverão utilizar-se essas especificações.
 
 Figura - Posições suplementares do conjunto de microfones no hemisfério (12 posições de microfone)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
 
-# Parte B - Normas de ensaio acústico para equipamentos específicos
+Parte B - Normas de ensaio acústico para equipamentos específicos
 
 0 - Equipamento ensaiado em vazio
 
@@ -989,7 +994,7 @@ Período(s) de observação/determinação do nível de emissão sonora resultan
 
 O nível de emissão sonora L(índice WA) resultante é calculado pela fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
+[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
 
 7 - Veículos combinados para sucção e lavagem a alta pressão
 
@@ -1087,15 +1092,15 @@ Período de observação - o período mínimo de observação será de 15 s.
 
 Figura n.º 10.1 - Diagrama esquemático da peça intermédia
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
 
 Figura n.º 10.2 - Bloco de ensaio
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
 
 Figura n.º 10.3 - Dispositivo de ensaio
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
 
 O valor de A deve ser tal que a laje de cobertura apoiada na junta elástica J fique nivelada com o solo.
 
@@ -1391,11 +1396,11 @@ As medições serão repetidas três vezes, ou mais, se necessário. Para obter 
 
 Figura n.º 28.1
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
 
 Figura n.º 28.2
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
 
 Se se utilizar a forma quadrangular da estrutura do bloco de ensaio, a máxima dimensão linear será igual a 0,89 x o diâmetro correspondente.
 
@@ -1531,7 +1536,7 @@ Para o modo motor: o período que principia no momento em que o centro do veícu
 
 Porém, o nível de potência sonora resultante para todos os tipos de empilhadores calcula-se da seguinte forma:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
+[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
 
 37 - Carregadoras
 
@@ -1657,19 +1662,19 @@ O nível de potência sonora L(índice WAdeslocação) é igual à média de 6 v
 
 O nível de potência sonora resultante é calculado da seguinte forma:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
+[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
 
 Figura n.º 39.1 - Esquema de pista de deslocação
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
 
 Figura n.º 39.2 - Esquema de construção e de montagem da pista de deslocação
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
 
 Figura n.º 39.3 - Distância de mediação
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
 
 40 - Motoenxadas
 
@@ -1789,7 +1794,7 @@ Período(s) de observação/determinação do nível de emissão sonora resultan
 
 O nível de potência sonora resultante é calculado da seguinte forma:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
+[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
 
 Nota. - No caso de um veículo de recolha de lixo com alimentação exclusivamente eléctrica, considera-se nulo o coeficiente associado a L(índice WA1).
 
@@ -1933,11 +1938,11 @@ Se for utilizado um integrador, o período de integração será igual a (t(índ
 
 O valor quadrático médio numa posição i de microfone é dado por:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
+[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
 
 Figura n.º 53.1 - Disposição dos microfones quando o mecanismo de elevação está situado na contralança
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
 
 54 - Escavadoras de valas
 
@@ -1993,7 +1998,7 @@ Período de observação - o período mínimo de observação será de 15 s.
 
 A marca CE de conformidade consistirá nas iniciais «CE», com a seguinte forma:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
 
 Caso a marcação CE seja reduzida ou aumentada, em função da dimensão do equipamento, devem respeitar-se as proporções apresentadas no desenho acima. As várias componentes devem ter substancialmente a mesma dimensão vertical, que não pode ser inferior a 5 mm.
 
@@ -2005,7 +2010,7 @@ Caso a marcação CE seja reduzida ou ampliada, em função da dimensão do equi
 
 O nível sonoro garantido do equipamento referido no artigo 12.º do Regulamento não pode exceder o nível admissível de potência sonora constante do seguinte quadro de valores limite:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
 
 ## ANEXO VI — Controlo interno de fabrico
 
@@ -2261,4 +2266,4 @@ d) Competência para elaborar os certificados, registos e relatórios necessári
 
 Modelo de certificado de conformidade
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)](https://files.diariodarepublica.pt/1s/2002/03/072a00/28792910.pdf)

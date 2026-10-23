@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/142/2003/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2003-667118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98fe932dd1b8487b9150768641f231189392e58a063bf680a39df6ffc6cfd7cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c68159a53dfdc523c42b2e945f45a6f57d625de095315382b1a1eb6993d63b68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,19 +72,33 @@ subjects:
 - Aproximação das Legislações
 - CE Países
 - Certificado Fitossanitário
-- Doença Vegetal
 - Controlo Sanitário
+- Doença Vegetal
 - Floricultura
-- Proteção do Ambiente
-- Proteção Fitossanitária
 - Produção Vegetal
 - Produto Agrícola
+- Proteção do Ambiente
+- Proteção Fitossanitária
 - Vegetais
 relationships:
 - type: amended_by
   target: pt:dre:141854:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:220749:por
+  label: "Alterados os anexos II, III, IV e V do Dec Lei 14/99, de 12-Jan DR.IS-A [9], republicado pelo Dec Lei 517/99, de\
+    \ 04-Dez, na redacção que lhe foi dada pelo presente diploma e pelos Dec Leis 63/2000, de 19-Abr, 160/2000, de 27-Jul,\
+    \ 269/2001, de 06-Out, 172/2002, de 25-Jul e 231/2003, 27-Set, pelo DEC LEI.83/2004.14.04.2004.MADRP, DR.IS-A [88] de\
+    \ 14.04.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-2004-220749
+  date: '2004-04-14'
+- type: amended_by
+  target: pt:dre:502395:por
+  label: "Alterados os anexos I, II, III, IV, V e VI do Dec Lei 14/99, de 12-Jan, na redacção do presente diploma, pelo DEC\
+    \ LEI.183/2004.29.07.2004.MADRP, DR.IS-A [177] de 29.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2004-502395
+  date: '2004-07-29'
 - type: cites
   target: celex:32000L0029
   label: null
@@ -105,16 +119,21 @@ relationships:
   target: celex:32003L0022
   label: null
   source: http://data.europa.eu/eli/dir/2003/22/oj
+- type: repealed_by
+  target: pt:dre:141854:por
+  label: "Revogado pelo DEC LEI.154/2005.06.09.2005.MADRP, DR.IS-A [171] de 06.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2005-141854
+  date: '2005-09-06'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:40Z'
   warnings: []
   errors: []
 ---
@@ -153,15 +172,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Maio de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 13 de Junho de 2003, na ilha das Flores, Açores.**
+Promulgado em 13 de Junho de 2003, na ilha das Flores, Açores.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Junho de 2003.**
+Referendado em 18 de Junho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -175,7 +194,7 @@ Visto e aprovado em Conselho de Ministros de 9 de Maio de 2003. - José Manuel D
 
 3 - Ao anexo I, parte B, alínea a), é aditado o n.º 3, com a seguinte redacção:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
 
 4 - No anexo I, parte B, alínea b), n.º 1, e no anexo IV, parte B, n.os 20.1, 23, 27.1 e 27.2, as respectivas colunas da direita passam a ter, respectivamente, a seguinte redacção:
 
@@ -183,11 +202,11 @@ Visto e aprovado em Conselho de Ministros de 9 de Maio de 2003. - José Manuel D
 
 5 - No anexo II, parte A, secção I, alínea c), é aditado o n.º 1.1, com a seguinte redacção:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
 
 6 - Ao anexo II, parte A, secção II, alínea a), são aditados os n.os 8 e 9, respectivamente, com a seguinte redacção:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
 
 7 - No anexo II, parte B, alínea a), n.º 5, e no anexo IV, parte B, n.º 19, as respectivas colunas da direita passam a ter, respectivamente, a seguinte redacção:
 
@@ -199,37 +218,37 @@ Visto e aprovado em Conselho de Ministros de 9 de Maio de 2003. - José Manuel D
 
 9 - Ao anexo IV, parte A, secção I, é aditado o n.º 11.3, com a seguinte redacção:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
 
 10 - No anexo IV, parte A, secção I, os n.os 32.1, 32.2, 32.3, 34, 36.1, 36.2, 40, 46, 53 e 54 passam a ter, respectivamente, a seguinte redacção:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
 
 11 - No anexo IV, parte A, secção I, o n.º 45.1 é substituído pelo n.º 45.3 mantendo a mesma redacção.
 
 12 - No anexo IV, parte A, secção I, o n.º 45 é substituído pelos n.os 45.1 e 45.2, passando a ter, respectivamente, a seguinte redacção:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
 
 13 - No anexo IV, parte A, secção II, o n.º 24 passa a ter a seguinte redacção:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
 
 14 - No anexo IV, parte B, os n.os 20.2 e 22 passam a ter, respectivamente, a seguinte redacção:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
 
 15 - No anexo IV, parte B, o n.º 24 é substituído pelos n.os 24.1, 24.2 e 24.3, que passam a ter, respectivamente, a seguinte redacção:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
 
 16 - No anexo IV, parte B, é suprimido o n.º 25.1 e o n.º 25.2 é substituído pelo n.º 25, com a seguinte redacção:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
 
 17 - No anexo IV, parte B, os n.os 26 e 30 passam a ter, respectivamente, a seguinte redacção:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
 
 18 - No anexo V, parte A, secção I, o n.º 2.1 passa a ter a seguinte redacção:
 
@@ -289,19 +308,19 @@ Países não europeus, excepto Argélia, Egipto, Israel, Líbia, Marrocos, Tuní
 
 23 - No anexo VI, alínea a), o n.º 7 passa a ter seguinte redacção:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
 
 24 - No anexo VI, alínea a), é aditado o n.º 14, com a seguinte redacção:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
 
 25 - No anexo VI, alínea b), o n.º 2 passa a ter seguinte redacção:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
 
 26 - No anexo VI, alínea d), o n.º 1 passa a ter seguinte redacção:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
 
 27 - No anexo VI, a nota de rodapé passa a ter a seguinte redacção:
 

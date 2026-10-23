@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/109/2000/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2000-302964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:16:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4e89400362215e218149bea515dfa2b852e77dc0bb352fd6b019687d3eb3832
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f0be313027b1c913cc7639de3cff87940577932c3c1111f4dd2f259ffe4d06a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Direção Geral da Saúde
-- Higiene do Trabalho
-- Contra-ordenação
-- Fiscalização
-- Medicina do Trabalho
-- Inspecção Geral do Trabalho
 - Condições de Higiene e Segurança no Trabalho
+- Contra-ordenação
+- Direção Geral da Saúde
+- Fiscalização
+- Higiene do Trabalho
+- Inspecção Geral do Trabalho
+- Medicina do Trabalho
+- Multa
 - TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
@@ -96,16 +96,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/1995/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/1995/03/29/p/dre
+- type: cites
+  target: pt:dre:173689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500698:por
+  label: null
+  source: null
 article_structure:
-  article_count: 56
+  article_count: 40
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:16:39Z'
   warnings: []
   errors: []
 ---
@@ -170,7 +194,9 @@ Modalidades de serviços
 
 7 - Para efeitos do disposto no número anterior é considerada adequada a formação que atribua as competências definidas no n.º 2 do artigo 5.º-A.
 
-###### Artigo 5.º — Serviços internos
+Artigo 5.º
+
+Serviços internos
 
 1 - ...
 
@@ -206,7 +232,9 @@ m) Trabalhos que envolvam risco de silicose.
 
 5 - As empresas com, pelo menos, 400 trabalhadores no mesmo estabelecimento ou no conjunto dos estabelecimentos situados num raio de 50 km a partir do de maior dimensão devem organizar serviços internos, qualquer que seja a actividade desenvolvida.
 
-###### Artigo 8.º — Contrato para serviços externos
+Artigo 8.º
+
+Contrato para serviços externos
 
 1 - ...
 
@@ -230,7 +258,9 @@ h) ...
 
 3 - ...
 
-###### Artigo 9.º — Serviço Nacional de Saúde
+Artigo 9.º
+
+Serviço Nacional de Saúde
 
 1 - ...
 
@@ -240,7 +270,9 @@ i) Trabalhadores de estabelecimentos referidos no n.º 1 do artigo 5.º-A.
 
 2 - As entidades patronais e, nos casos das alíneas a), b), g) e h) e dos artesãos, os próprios profissionais devem fazer prova da situação prevista no número anterior que confira direito à assistência através de instituições e serviços integrados no Serviço Nacional de Saúde, bem como pagar os respectivos encargos.
 
-###### Artigo 10.º — Autorização de serviços externos
+Artigo 10.º
+
+Autorização de serviços externos
 
 1 - Os serviços externos, com excepção dos serviços convencionados prestados por instituição integrada na rede do Serviço Nacional de Saúde, carecem de autorização para o exercício da actividade de segurança, higiene e saúde no trabalho.
 
@@ -266,11 +298,15 @@ c) ...
 
 9 - O procedimento relativo aos actos referidos no número anterior é regulado pelo Código do Procedimento Administrativo, presumindo-se o indeferimento tácito do requerimento se este não tiver decisão final no prazo de 90 dias.
 
-###### Artigo 11.º — Qualificação dos restantes serviços
+Artigo 11.º
+
+Qualificação dos restantes serviços
 
 A organização e funcionamento dos serviços previstos nos artigos 5.º e 6.º deve atender aos requisitos definidos no n.º 3 do artigo anterior, aferidos em relação ao tipo de riscos e ao número de trabalhadores potencialmente abrangidos pelos serviços.
 
-###### Artigo 14.º — Garantia mínima de funcionamento
+Artigo 14.º
+
+Garantia mínima de funcionamento
 
 1 - O médico do trabalho deverá assegurar o número de horas necessário à realização dos actos médicos, de rotina ou de emergência, ou outros trabalhos que deva coordenar.
 
@@ -286,7 +322,9 @@ b) Em estabelecimento comercial e outros locais de trabalho, pelo menos uma hora
 
 5 - O Instituto de Desenvolvimento e Inspecção das Condições de Trabalho, mediante parecer das demais autoridades com competência fiscalizadora, pode determinar uma duração maior da actividade dos serviços de segurança, higiene e saúde a empresas em que, independentemente do número de trabalhadores, a natureza ou a gravidade dos riscos profissionais, assim como os indicadores de sinistralidade, justifiquem uma acção mais eficaz.
 
-###### Artigo 16.º — Exames de saúde
+Artigo 16.º
+
+Exames de saúde
 
 1 - ...
 
@@ -306,7 +344,9 @@ c) ...
 
 6 - Nas empresas cujo número de trabalhadores seja superior a 250, no mesmo estabelecimento, ou estabelecimentos situados na mesma localidade ou localidades próximas, o médico do trabalho, na realização dos exames de saúde, deve ser coadjuvado por um profissional de enfermagem com experiência adequada.
 
-###### Artigo 17.º — Fichas clínicas
+Artigo 17.º
+
+Fichas clínicas
 
 1 - ...
 
@@ -314,7 +354,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 18.º — Ficha de aptidão
+Artigo 18.º
+
+Ficha de aptidão
 
 1 - ...
 
@@ -324,7 +366,9 @@ c) ...
 
 4 - O modelo da ficha de aptidão referida nos números anteriores será aprovado por portaria do Ministro da Saúde.
 
-###### Artigo 22.º — Actividades técnicas
+Artigo 22.º
+
+Actividades técnicas
 
 1 - As actividades técnicas de segurança e higiene no trabalho devem ser exercidas por:
 
@@ -336,7 +380,9 @@ b) Técnicos com, no mínimo, uma qualificação técnico-profissional de nível
 
 3 - Os profissionais referidos nos números anteriores exercem as respectivas actividades com autonomia técnica.
 
-###### Artigo 23.º — Médico do trabalho
+Artigo 23.º
+
+Médico do trabalho
 
 1 - ...
 
@@ -348,11 +394,15 @@ b) Técnicos com, no mínimo, uma qualificação técnico-profissional de nível
 
 5 - O médico do trabalho exerce as suas funções com independência técnica e em estrita obediência aos princípios da deontologia profissional.
 
-###### Artigo 26.º — Fiscalização
+Artigo 26.º
+
+Fiscalização
 
 A fiscalização do cumprimento do disposto no presente diploma compete à Inspecção-Geral do Trabalho e à Direcção-Geral da Saúde, no âmbito das respectivas atribuições.
 
-###### Artigo 28.º — Contra-ordenações
+Artigo 28.º
+
+Contra-ordenações
 
 1 - Constitui contra-ordenação muito grave, por parte de serviços externos, o exercício de actividades de segurança, higiene e ou saúde no trabalho sem a necessária autorização, ou alem das áreas de actividade e dos sectores de actividade económica para que estejam autorizados, em violação do disposto no artigo 10.º
 
@@ -378,7 +428,9 @@ Actividades exercidas pelo empregador ou por trabalhador designado
 
 4 - A autorização referida no número anterior será revogada se o estabelecimento ou o conjunto dos estabelecimentos apresentar índices de incidência e de gravidade de acidentes de trabalho superiores à média do respectivo sector, em dois anos consecutivos.
 
-###### Artigo 5.º-B — Dispensa de serviços internos
+Artigo 5.º-B
+
+Dispensa de serviços internos
 
 1 - A empresa ou estabelecimento referido no n.º 5 do artigo 5.º que não exerça actividades de risco elevado pode utilizar serviços externos ou interempresas, mediante autorização do Instituto de Desenvolvimento e Inspecção das Condições de Trabalho, desde que:
 
@@ -396,7 +448,9 @@ c) Se verifique, através de vistoria, que respeita os valores limite de exposi�
 
 5 - Se a autorização referida no n.º 1 for revogada, a empresa ou estabelecimento deve organizar serviços internos no prazo de seis meses.
 
-###### Artigo 10.º-A — Acompanhamento e avaliação da capacidade dos serviços externos
+Artigo 10.º-A
+
+Acompanhamento e avaliação da capacidade dos serviços externos
 
 1 - Os serviços externos, com excepção dos serviços convencionados, devem comunicar ao Instituto de Desenvolvimento e Inspecção das Condições de Trabalho, no prazo de 30 dias após a ocorrência, a interrupção ou cessação do seu funcionamento, bem como quaisquer alterações que afectem os requisitos referidos no n.º 3 do artigo 10.º, designadamente as que se reportem a:
 
@@ -424,7 +478,9 @@ c) O Instituto de Desenvolvimento e Inspecção das Condições de Trabalho, em 
 
 5 - Tendo em consideração as alterações comunicadas nos termos do n.º 1 ou verificadas através de auditoria, ou a falta de requisitos essenciais ao seu funcionamento, o Instituto de Desenvolvimento e Inspecção das Condições de Trabalho promoverá a revogação da autorização ou a sua redução no que respeita a áreas de actividade e a sectores de actividade económica
 
-###### Artigo 25.º-A — Taxas
+Artigo 25.º-A
+
+Taxas
 
 1 - São devidas taxas pelos seguintes actos relativos à autorização ou à avaliação da capacidade de serviços externos:
 
@@ -456,15 +512,15 @@ O [Decreto-Lei n.º 26/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Maria Manuela de Brito Arcanjo Marques da Costa.
 
-**Promulgado em 19 de Junho de 2000.**
+Promulgado em 19 de Junho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Junho de 2000.**
+Referendado em 21 de Junho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Regime de organização e funcionamento das actividades de segurança, higiene e saúde no trabalho
 

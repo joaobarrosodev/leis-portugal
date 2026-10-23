@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/3/2013/05/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2013-260891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d980d60f4d5c0ee64e5eb0e276c9fb79e829fbbbda584be50ae9e2218629003f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43b5d114e32466f920b0d1eed8a12947bb68d41fb6636c84229b18be5b950a7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abono para Falhas
-- Regime do Contrato de Trabalho em Funções Públicas
-- Sistema Retributivo
 - Carreira Profissional
-- Pessoal Consular
+- Contrato de Trabalho
+- Ministério dos Negócios Estrangeiros
 - País Estrangeiro
+- Pessoal Consular
 - Pessoal de Chefia
 - Pessoal Diplomático
 - Progressão na Carreira
 - Reestruturação de Carreiras
-- Contrato de Trabalho
+- Regime do Contrato de Trabalho em Funções Públicas
 - Remuneração
 - Residência Oficial
-- Ministério dos Negócios Estrangeiros
 - Serviços Periféricos
+- Sistema Retributivo
 - Subsídio de Refeição
 - Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
@@ -88,20 +88,61 @@ relationships:
   target: pt:dre:224081984:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:106522766:por
+  label: Aditados aos anexos II, III, IV, V, VI, VII e VIII do presente diploma, respetivamente, os elementos constantes dos
+    anexos I a VII do Decreto Regulamentar n.º 1/2017 - Diário da República n.º 41/2017, Série I de 2017-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/1-2017-106522766
+  date: '2017-02-27'
+- type: amended_by
+  target: pt:dre:114133925:por
+  label: Alterado o anexo VII pelo(a) Decreto Regulamentar n.º 9/2017 - Diário da República n.º 211/2017, Série I de 2017-11-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/9-2017-114133925
+  date: '2017-11-02'
+- type: amended_by
+  target: pt:dre:134210075:por
+  label: Atualizadas, com efeitos a partir de 01.01.2020, em 0,3% as remunerações base mensais aprovadas pelas tabelas remuneratórias
+    em anexo pelo(a) Portaria n.º 119/2020 - Diário da República n.º 99/2020, Série I de 2020-05-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/119-2020-134210075
+  date: '2020-05-21'
+- type: amended_by
+  target: pt:dre:178660785:por
+  label: Atualizadas, a partir de 05.02.2022, com efeitos a partir de 01.01.2022, as remunerações base mensais aprovadas pelas
+    tabelas remuneratórias anexas ao presente diploma, pelo(a) Portaria n.º 84/2022 - Diário da República n.º 25/2022, Série
+    I de 2022-02-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/84-2022-178660785
+  date: '2022-02-04'
+- type: amended_by
+  target: pt:dre:204502335:por
+  label: Atualizados, a partir de 08.12.2022, com efeitos a partir de 01.01.2022, os valores correspondentes aos níveis remuneratórios
+    das tabelas II e III anexas ao presente diploma, pelo(a) Portaria n.º 291-A/2022 - Diário da República n.º 235/2022, 1º
+    Suplemento, Série I de 2022-12-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/291-a-2022-204502335
+  date: '2022-12-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/47/2013/04/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/47/2013/04/05/p/dre
+- type: cites
+  target: pt:dre:259966:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:224081984:por
+  label: Revogado, a partir de 10.11.2023, com efeitos a 01.01.2023, pelo(a) Decreto-Lei n.º 103-A/2023 - Diário da República
+    n.º 217/2023, 1º Suplemento, Série I de 2023-11-09 nos termos dos arts. 8.º e 9.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-a-2023-224081984
+  date: '2023-11-09'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:30Z'
   warnings: []
   errors: []
 ---
@@ -176,15 +217,15 @@ O presente decreto regulamentar reporta os seus efeitos à data de entrada em vi
 
 Visto e aprovado em Conselho de Ministros de 4 de abril de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Sacadura Cabral Portas.
 
-**Promulgado em 24 de abril de 2013.**
+Promulgado em 24 de abril de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de abril de 2013.**
+Referendado em 30 de abril de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (n.º 1 do artigo 2.º)
 
@@ -192,68 +233,68 @@ TABELAS REMUNERATÓRIAS DOS TRABALHADORES RECRUTADOS PARA EXERCER FUNÇÕES NOS 
 
 Carreira e categoria de Técnico Superior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf))](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
 
 Carreira de Assistente Técnico
 
 Categoria de Coordenador Técnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf))](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
 
 Categoria de Assistente Técnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf))](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
 
 Carreira de Assistente Operacional
 
 Categoria de Assistente Operacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf))](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
 
 Carreira de Assistente de Residência
 
 Categoria de Assistente de Residência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf))](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
 
 ## ANEXO II — (n.º 2 do artigo 2.º)
 
 TABELAS REMUNERATÓRIAS DOS SERVIÇOS PERIFÉRICOS EXTERNOS DO MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf))](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
 
 ## ANEXO III — (n.º 1 do artigo 2.º,)
 
 TABELAS REMUNERATÓRIAS DOS TRABALHADORES DAS RESIDÊNCIAS OFICIAIS DO ESTADO NOS SERVIÇOS PERIFÉRICOS EXTERNOS DO MNE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf))](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
 
 ## ANEXO IV — (n.º 1 do artigo 3.º)
 
 Remuneração base mensal dos titulares dos cargos de chefia de chancelaria e de contabilidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf))](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
 
 ## ANEXO V — (n.º 2 do artigo 3.º)
 
 Limite de reembolso de despesas com habitação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf))](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
 
 ## ANEXO VI — (artigo 4.º)
 
 Abono para falhas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf))](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
 
 ## ANEXO VII — (Artigo 5.º)
 
 Subsídio de refeição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf))](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
 
 ## ANEXO VIII — (Artigo 6.º)
 
 Primeiro acréscimo remuneratório
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf))](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/08800/0273602748.pdf)

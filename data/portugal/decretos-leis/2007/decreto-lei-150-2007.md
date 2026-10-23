@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/27402742.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/150/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2007-520989
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:56:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32de82a8f69954533b446f03015d177f96d5de093de068e476e424fc5d7283ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f052ec29859b5d6cfe870ac618b020c53e4783bfad7d20ca6ed04dcaa4aaeaad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Secretaria Geral
-- Gabinete de Gestão Financeira da Ciência e do Ensino Superior
-- Orgânica
-- Pessoal Docente
 - Ensino Superior
-- Requisição de Pessoal
+- Gabinete de Gestão Financeira da Ciência e do Ensino Superior
 - Ministério da Ciência Tecnologia e Ensino Superior
+- Orgânica
+- Pessoal Dirigente
+- Pessoal Docente
+- Requisição de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:543909:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145195:por
+  label: "Extinta, sendo objecto de fusão, a Secretaria-Geral do Ministério da Ciência, Tecnologia e Ensino Superior e integradas\
+    \ as suas atribuições na Secretaria-Geral, pelo DEC LEI.125/2011.29.12.2011.MECI, DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2011-145195
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:543909:por
+  label: "Determinada a sucessão pela Secretaria-Geral do Ministério da Educação e Ciência das atribuições, no domínio das\
+    \ relações internacionais, da ex-Secretaria-Geral do Ministério da Ciência, Tecnologia e Ensino Superior, constantes do\
+    \ presente diploma, que é revogado, a partir de 01.02.2012, pelo DR.18/2012.31.01.2012.MECI, DR.IS [22] de 31.01.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/18-2012-543909
+  date: '2012-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2003/06/04/p/dre
   label: null
@@ -90,16 +104,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:545643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:56:49Z'
   warnings: []
   errors: []
 ---
@@ -236,16 +262,16 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 13 de Abril de 2007.**
+Promulgado em 13 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Abril de 2007.**
+Referendado em 16 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o artigo 9.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/08200/27402742.pdf))](https://files.diariodarepublica.pt/1s/2007/04/08200/27402742.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/08200/27402742.pdf)

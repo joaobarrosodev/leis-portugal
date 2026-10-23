@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106/2006/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ef908849676204fa30a4d0889bbbe9c1ae21ffb43977ffa879b2f70d41564e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90e58bc0b4d2c952cef791ff1caf323454b1e86daae4d26cd0720a7f01e4fafd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ASAE
 - Código da Estrada
 - Contra-ordenação
 - Fiscalização
-- ASAE
-- Veículo
 - Regulamento
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:128071719:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:608684:por
+  label: "Alterados os arts. 1.º (designação do Regulamento), 2.º e 4.º, todos do corpo do do Dec Lei 54/2005 de 03-Mar, bem\
+    \ como os arts 1.º, 3.º e 5.º e republicado o Regulamento de Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores,\
+    \ Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis, aprovado pelo citado diploma, na redacção\
+    \ do presente diploma, pelo DEC LEI.112/2009.18.05.2009.MOPTC, DR.IS [95] de 18.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-2009-608684
+  date: '2009-05-18'
+- type: amended_by
+  target: pt:dre:344242:por
+  label: "Alterado o art. 3.º do Regulamento de Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos,\
+    \ Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis, aprovado pelo Dec Lei 54/2005, de 03-Mar, na redacção\
+    \ do presente diploma, pela LEI.46/2010.07.09.2010.AR, DR.IS [174] de 07.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/46-2010-344242
+  date: '2010-09-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/54/2005/03/03/p/dre
   label: null
@@ -85,16 +100,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/13/1998/06/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/13/1998/06/15/p/dre
+- type: cites
+  target: pt:dre:290839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589934:por
+  label: null
+  source: null
 article_structure:
-  article_count: 31
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:52Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +152,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 2 - Os anexos do Regulamento fazem dele parte integrante.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - As infracções ao Regulamento constituem contra-ordenações rodoviárias, com excepção das previstas nas alíneas c) e d) do número seguinte.
 
@@ -141,11 +170,15 @@ d) A comercialização de chapas de matrícula de modelo não homologado.
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 É cometida à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento do Regulamento no que se refere à comercialização de chapas de matrícula, sem prejuízo da competência das entidades a quem cabe a fiscalização do trânsito.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 O processamento das contra-ordenações previstas no n.º 2 do artigo 2.º e a aplicação das respectivas sanções cabem à Autoridade de Segurança Alimentar e Económica (ASAE).»
 
@@ -157,7 +190,9 @@ O processamento das contra-ordenações previstas no n.º 2 do artigo 2.º e a a
 
 O presente Regulamento aplica-se ao número e à chapa de matrícula dos automóveis e seus reboques, motociclos, ciclomotores, triciclos, quadriciclos, máquinas industriais e máquinas industriais rebocáveis.
 
-###### Artigo 3.º — Número de matrícula
+Artigo 3.º
+
+Número de matrícula
 
 1 - O número de matrícula dos automóveis, motociclos, ciclomotores, triciclos e quadriciclos, atribuído pela Direcção-Geral de Viação, é constituído por dois grupos de dois algarismos e um grupo de duas letras, sendo os grupos separados entre si por traços.
 
@@ -167,7 +202,9 @@ O presente Regulamento aplica-se ao número e à chapa de matrícula dos automó
 
 4 - Quando se esgotarem os números de matrícula correspondentes à alínea c) do n.º 2, o número de matrícula referido no n.º 1 passa a ser constituído por dois grupos de duas letras e um grupo central de dois algarismos, sendo os grupos separados entre si por traços.
 
-###### Artigo 5.º — Modelo de chapa de matrícula
+Artigo 5.º
+
+Modelo de chapa de matrícula
 
 1 - As chapas de matrícula dos automóveis, seus reboques, motociclos com cilindrada superior a 50 cm3 e triciclos devem obedecer aos modelos constantes dos anexos seguintes do presente Regulamento, para matrículas atribuídas:
 
@@ -197,7 +234,9 @@ c) ...
 
 11 - As chapas de matrícula das máquinas industriais e das máquinas industriais rebocáveis devem obedecer aos modelos VIII e IX do anexo IV do presente Regulamento, apresentando fundo a vermelho e letras, algarismos, traços e rebordo periférico a preto.
 
-###### Artigo 7.º — Instalação de chapa de matrícula
+Artigo 7.º
+
+Instalação de chapa de matrícula
 
 1 - Os automóveis e as máquinas industriais devem possuir duas chapas de matrícula, uma à frente e outra à retaguarda.
 
@@ -213,7 +252,9 @@ c) ...
 
 7 - Nas máquinas industriais e máquinas industriais rebocáveis em que, por razões construtivas ou funcionais, não seja possível colocar as chapas de matrícula conforme estabelecido nos números anteriores, pode ser colocada uma só chapa de matrícula lateralmente, do lado direito da máquina e ser autorizada a utilização de chapas amovíveis.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - As chapas de matrícula dos modelos constantes dos anexos III e IV do presente Regulamento devem corresponder a um modelo homologado pela Direcção-Geral de Viação.
 
@@ -247,15 +288,15 @@ e) As chapas de matrícula devem ser revestidas de material retrorreflector, cuj
 
 Visto e aprovado em Conselho de Ministros de 23 de Março de 2006. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 19 de Maio de 2006.**
+Promulgado em 19 de Maio de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 22 de Maio de 2006.**
+Referendado em 22 de Maio de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o n.º 3 do artigo 1.º)
 
@@ -307,25 +348,37 @@ Ponta Delgada - A.
 
 Funchal - M.
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/111a00/40524060.pdf))](https://files.diariodarepublica.pt/1s/2006/06/111a00/40524060.pdf)
+ANEXO III
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/111a00/40524060.pdf))](https://files.diariodarepublica.pt/1s/2006/06/111a00/40524060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/111a00/40524060.pdf)
 
-## ANEXO II — [a que se refere a alínea a) do n.º 1 do artigo 2.º]
+ANEXO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/111a00/40524060.pdf))](https://files.diariodarepublica.pt/1s/2006/06/111a00/40524060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/111a00/40524060.pdf)
 
-## ANEXO III — (a que se refere o artigo 3.º)
+ANEXO II
+
+[a que se refere a alínea a) do n.º 1 do artigo 2.º]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/111a00/40524060.pdf)
+
+ANEXO III
+
+(a que se refere o artigo 3.º)
 
 [Decreto-Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2005-589934), de 3 de Março - Republicação
 
-###### Artigo 1.º — Objecto
+Artigo 1.º
+
+Objecto
 
 1 - É aprovado o Regulamento do Número e Chapa de Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis, adiante designado «Regulamento», cujo texto se publica em anexo ao presente diploma e dele faz parte integrante.
 
 2 - Os anexos do Regulamento fazem dele parte integrante.
 
-###### Artigo 2.º — Regime sancionatório
+Artigo 2.º
+
+Regime sancionatório
 
 1 - As infracções previstas no Regulamento constituem contra-ordenações rodoviárias, com excepção das previstas no número seguinte.
 
@@ -341,31 +394,43 @@ d) A comercialização de chapas de matrícula de modelo não homologado.
 
 3 - Em caso de reincidência no incumprimento por parte de uma entidade detentora da autorização a que se refere o artigo 13.º de qualquer das disposições constantes no capítulo II do Regulamento ora aprovado, ou sempre que se verifique incumprimento das instruções da Direcção-Geral de Viação relativas à comercialização de chapas de matrícula, pode o director-geral de Viação cancelar a referida autorização.
 
-###### Artigo 3.º — Fiscalização
+Artigo 3.º
+
+Fiscalização
 
 É cometida à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento do Regulamento no que se refere à comercialização de chapas de matrícula, sem prejuízo da competência das entidades a quem cabe a fiscalização do trânsito.
 
-###### Artigo 4.º — Processamento das contra-ordenações
+Artigo 4.º
+
+Processamento das contra-ordenações
 
 O processamento das contra-ordenações previstas no n.º 2 do artigo 2.º e a aplicação das respectivas sanções cabem à Autoridade de Segurança Alimentar e Económica (ASAE).
 
-###### Artigo 5.º — Revogação
+Artigo 5.º
+
+Revogação
 
 São revogados os artigos 1.º, 2.º e 3.º do [Decreto Regulamentar n.º 13/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-1998-475096), de 15 de Junho, bem como os artigos 35.º e 37.º do Regulamento do Código da Estrada, aprovado pelo [Decreto n.º 39987](https://diariodarepublica.pt/dr/detalhe/decreto/39987-1954-290839), de 22 de Dezembro de 1954.
 
-###### Artigo 6.º — Produção de efeitos
+Artigo 6.º
+
+Produção de efeitos
 
 Os artigos 11.º, 15.º e 16.º do Regulamento em anexo entram em vigor em 1 de Janeiro de 2006.
 
 REGULAMENTO DO NÚMERO E CHAPA DE MATRÍCULA DOS AUTOMÓVEIS, SEUS REBOQUES, MOTOCICLOS, CICLOMOTORES, TRICICLOS, QUADRICICLOS, MÁQUINAS INDUSTRIAIS E MÁQUINAS INDUSTRIAIS REBOCÁVEIS.
 
-### CAPÍTULO I — Artigo 1.º
+CAPÍTULO I
+
+Artigo 1.º
 
 Âmbito de aplicação
 
 O presente Regulamento aplica-se ao número e à chapa de matrícula dos automóveis e seus reboques, motociclos, ciclomotores, triciclos, quadriciclos, máquinas industriais e máquinas industriais rebocáveis.
 
-###### Artigo 2.º — Definições
+Artigo 2.º
+
+Definições
 
 Para efeitos do disposto no presente Regulamento e legislação complementar os seguintes termos têm o significado que aqui lhes é atribuído:
 
@@ -379,7 +444,9 @@ d) «Manipulador» a pessoa ou entidade responsável pela inscrição do número
 
 e) «Ponto de venda autorizado» o estabelecimento onde são vendidas ao público as chapas de matrícula, devidamente autorizado nos termos do presente Regulamento.
 
-###### Artigo 3.º — Número de matrícula
+Artigo 3.º
+
+Número de matrícula
 
 1 - O número de matrícula dos automóveis, motociclos, ciclomotores, triciclos e quadriciclos, atribuído pela Direcção-Geral de Viação, é constituído por dois grupos de dois algarismos e um grupo de duas letras, sendo os grupos separados entre si por traços.
 
@@ -395,7 +462,9 @@ c) Matrículas atribuídas a partir do fim da utilização do modelo referido na
 
 4 - Quando se esgotarem os números de matrícula correspondentes à alínea c) do n.º 2, o número de matrícula referido no n.º 1 passa a ser constituído por dois grupos de duas letras e um grupo central de dois algarismos, sendo os grupos separados entre si por traços.
 
-###### Artigo 4.º — Número de matrícula dos reboques e dos veículos para exportação
+Artigo 4.º
+
+Número de matrícula dos reboques e dos veículos para exportação
 
 1 - O número de matrícula dos reboques é constituído por uma ou duas letras identificadoras do serviço regional que procedeu à matrícula, seguidas de um número de ordem.
 
@@ -403,7 +472,9 @@ c) Matrículas atribuídas a partir do fim da utilização do modelo referido na
 
 3 - O número de matrícula dos veículos destinados à exportação é constituído por um número de ordem, seguido da letra inicial de Lisboa, Porto, Açores ou Madeira, consoante o serviço alfandegário que a processe.
 
-###### Artigo 5.º — Modelo de chapa de matrícula
+Artigo 5.º
+
+Modelo de chapa de matrícula
 
 1 - As chapas de matrícula dos automóveis, seus reboques, motociclos com cilindrada superior a 50 cm3 e triciclos devem obedecer aos modelos constantes dos anexos seguintes do presente Regulamento, para matrículas atribuídas:
 
@@ -433,13 +504,17 @@ c) Após 1 de Janeiro de 1998 - anexo IV.
 
 11 - As chapas de matrícula das máquinas industriais e máquinas industriais rebocáveis devem obedecer aos modelos VIII e IX do anexo IV do presente Regulamento, apresentando fundo vermelho e letras, algarismos, traços e rebordo periférico a preto.
 
-###### Artigo 6.º — Casos particulares
+Artigo 6.º
+
+Casos particulares
 
 1 - Nos veículos destinados à exportação, a chapa de matrícula é de um dos modelos constantes do anexo V, tendo cor amarela e letras, algarismos, traços e rebordo periférico a preto.
 
 2 - Nas chapas de matrícula dos automóveis, reboques e motociclos com cilindrada superior a 50 cm3, pertencentes aos membros do corpo diplomático e cônsules de carreira acreditados junto do Governo Português, aos membros do pessoal administrativo e técnico de missões estrangeiras que não sejam portugueses nem tenham residência permanente em território nacional, e às entidades abrangidas pelo Protocolo sobre Privilégios e Imunidades das Comunidades Europeias, os caracteres, traços e rebordo periférico das chapas de matrícula são de cor vermelha.
 
-###### Artigo 7.º — Instalação das chapas de matrícula
+Artigo 7.º
+
+Instalação das chapas de matrícula
 
 1 - Os automóveis e as máquinas industriais devem possuir duas chapas de matrícula, uma à frente e outra à retaguarda.
 
@@ -455,7 +530,9 @@ c) Após 1 de Janeiro de 1998 - anexo IV.
 
 7 - Nas máquinas industriais e máquinas industriais rebocáveis em que, por razões construtivas ou funcionais, não seja possível colocar as chapas de matrícula conforme estabelecido nos números anteriores pode ser colocada uma só chapa de matrícula lateralmente, do lado direito da máquina, e ser autorizada a utilização de chapas amovíveis.
 
-###### Artigo 8.º — Número de matrícula
+Artigo 8.º
+
+Número de matrícula
 
 1 - A cada veículo em condições de circular só pode ser atribuído um número de matrícula.
 
@@ -465,7 +542,9 @@ c) Após 1 de Janeiro de 1998 - anexo IV.
 
 4 - Por razões de segurança e a pedido das entidades referidas no n.º 2, pode ser atribuída uma matrícula suplementar a veículos matriculados noutro país.
 
-###### Artigo 9.º — Chapas de matrícula
+Artigo 9.º
+
+Chapas de matrícula
 
 1 - As chapas de matrícula dos modelos constantes dos anexos III e IV do presente Regulamento devem corresponder a um modelo homologado pela Direcção-Geral de Viação.
 
@@ -475,9 +554,13 @@ c) Após 1 de Janeiro de 1998 - anexo IV.
 
 4 - As características de homologação das chapas de matrícula não podem ser alteradas, não podendo ser efectuadas quaisquer dobragens, nem sobre elas ser colocados emblemas, insígnias ou qualquer outro elemento ou material que impeça ou dificulte a leitura completa do número de matrícula, directamente ou através de equipamentos de controlo rodoviário.
 
-### CAPÍTULO II — Emissão de chapas de matrícula dos modelos constantes dos anexos III e IV
+CAPÍTULO II
 
-###### Artigo 10.º — Manipuladores
+Emissão de chapas de matrícula dos modelos constantes dos anexos III e IV
+
+Artigo 10.º
+
+Manipuladores
 
 1 - A inscrição de números de matrícula em chapas de matrícula dos modelos constante dos anexos III e IV só pode ser efectuada por manipuladores que possuam uma autorização para o efeito, concedida pelo fabricante das chapas de matrícula, titular da respectiva homologação.
 
@@ -489,27 +572,39 @@ c) Após 1 de Janeiro de 1998 - anexo IV.
 
 5 - Os fabricantes de chapas de matrícula homologadas devem retirar a autorização concedida a um manipulador nos termos do n.º 1, sempre que verifiquem que o mesmo não respeita as suas instruções relativas ao processo de fabrico, devendo do facto dar conhecimento à Direcção-Geral de Viação.
 
-###### Artigo 11.º — Venda de chapas de matrícula
+Artigo 11.º
+
+Venda de chapas de matrícula
 
 A venda ao público de chapas de matrícula nos termos do presente Regulamento é feita exclusivamente por entidades autorizadas para o efeito, que podem ser simultaneamente fabricantes ou manipuladores de chapas de matrícula.
 
-###### Artigo 12.º — Candidatos à autorização
+Artigo 12.º
+
+Candidatos à autorização
 
 A autorização referida no artigo anterior só pode ser concedida a pessoas singulares ou colectivas, nacionais ou estrangeiras, que se encontrem regularmente estabelecidas em território nacional.
 
-###### Artigo 13.º — Autorização para a emissão de chapas de matrícula
+Artigo 13.º
+
+Autorização para a emissão de chapas de matrícula
 
 A autorização para o exercício da actividade de venda de chapas de matrícula é concedida por despacho do director-geral de Viação, que fixará os elementos necessários para a instrução dos pedidos.
 
-###### Artigo 14.º — Idoneidade
+Artigo 14.º
+
+Idoneidade
 
 Consideram-se idóneas para os efeitos previstos no artigo anterior as entidades cujos sócios, gerentes ou administradores não estejam judicialmente interditos do exercício de actividade relacionada com a emissão de chapas de matrícula, na sequência de condenação com trânsito em julgado, por infracção cometida no exercício da mesma actividade.
 
-###### Artigo 15.º — Identificação
+Artigo 15.º
+
+Identificação
 
 Os pontos de venda autorizados de chapas de matrícula devem apresentar, de forma claramente visível para o público, símbolo identificativo da Direcção-Geral de Viação, a estabelecer através de despacho do respectivo director-geral.
 
-###### Artigo 16.º — Condições de venda de chapas de matrícula
+Artigo 16.º
+
+Condições de venda de chapas de matrícula
 
 1 - A venda de chapas de matrícula ao público só é efectuada mediante a apresentação do livrete do veículo ou documento emitido pela Direcção-Geral de Viação que o substitua, e ainda de documento de identificação do requerente da chapa.
 
@@ -517,7 +612,9 @@ Os pontos de venda autorizados de chapas de matrícula devem apresentar, de form
 
 3 - Os pontos de venda autorizados devem manter os registos referidos no número anterior por um período mínimo de cinco anos.
 
-## ANEXO I — Tabela de dígitos identificadores dos serviços emissores de matrículas de reboques
+ANEXO I
+
+Tabela de dígitos identificadores dos serviços emissores de matrículas de reboques
 
 Aveiro - AV.
 
@@ -565,4 +662,4 @@ Funchal - M.
 
 Do ANEXO II ao ANEXO V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/111a00/40524060.pdf))](https://files.diariodarepublica.pt/1s/2006/06/111a00/40524060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/111a00/40524060.pdf)

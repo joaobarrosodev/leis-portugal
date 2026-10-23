@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/04/07000/0215602159.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/66/2008/04/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2008-249844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 981c8485980856a5351160fb6f42a5b6742ab787053540ad20e9bb7e5f593a76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3289a8e078c6d28bfa09f1ff6cfcb9d5471d8c86eb12789b9b536d76afe31cec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Beneficiário
-- Titulo de Transporte
-- Transporte Aéreo
 - Estudante
 - Madeira.região Autónoma
 - Subsídio de Apoio Social
 - Tarifa Aérea
+- Titulo de Transporte
+- Transporte Aéreo
 - Transporte de Passageiros
 relationships:
 - type: amended_by
   target: pt:dre:69866635:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:453259:por
+  label: "Alterado o art. 1º do presente diploma, pela LEI.50/2008.27.08.2008.AR, DR.IS [165] de 27.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/50-2008-453259
+  date: '2008-08-27'
+- type: amended_by
+  target: pt:dre:287777:por
+  label: "Alterados os arts. 1º (na redacção da Lei 50/2008, de 27-Ago), 2º, 4º, 11º e 12º do presente diploma, pela LEI.21/2011.20.05.2011.AR,\
+    \ DR.IS [98] de 20.05.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/21-2011-287777
+  date: '2011-05-20'
 - type: cites
   target: celex:31992R2408
   label: null
@@ -87,16 +98,23 @@ relationships:
   target: celex:32004L0038
   label: null
   source: http://data.europa.eu/eli/dir/2004/38/oj
+- type: repealed_by
+  target: pt:dre:69866635:por
+  label: Revogado o presente diploma, na redação das Leis 50/2008 de 27-ago, e 21/2011 de 20-mai, pelo(a) Decreto-Lei n.º
+    134/2015 - Diário da República n.º 143/2015, Série I de 2015-07-24 nos termos do art. 18.º e sem prejuízo do disposto
+    no art. 16.º deste último
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-2015-69866635
+  date: '2015-07-24'
 article_structure:
   article_count: 15
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:19Z'
   warnings: []
   errors: []
 ---
@@ -255,12 +273,12 @@ O presente decreto-lei entra em vigor no 15.º dia seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Mário Lino Soares Correia.
 
-**Promulgado em 3 de Abril de 2008.**
+Promulgado em 3 de Abril de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de Abril de 2008.**
+Referendado em 4 de Abril de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

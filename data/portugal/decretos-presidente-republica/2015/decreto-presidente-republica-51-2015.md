@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13100/0468904689.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/51/2015/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/51-2015-69736254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T05:23:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed5c4d4d482993d0eee071ca41d17d0d68b89a9fa937ce83f57fbd05ea6c5829
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9aade1823c3674aa2ed56f22a34d85bc8e3b3d81a83409d2e36d1bf19d05f686
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:23:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Política de Cooperação
-- Portugal
-- Política de Defesa
 - Cooperação Militar
+- Política de Cooperação
+- Política de Defesa
+- Portugal
 - Tunes
 - Tunísia
 relationships:
@@ -78,16 +78,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/78/2015/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/78/2015/07/08/p/dre
+- type: cites
+  target: pt:dre:69736259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:23:39Z'
   warnings: []
   errors: []
 ---
@@ -96,16 +100,16 @@ validation:
 
 de 8 de julho
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificada a Convenção entre a República Portuguesa e a República da Tunísia de Cooperação no Domínio da Defesa, assinada a 18 de janeiro de 2013, em Tunes, aprovada pela [Resolução da Assembleia da República n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/78-2015-69736259), em 6 de fevereiro de 2015.
 
-**Assinado em 30 de junho de 2015.**
+Assinado em 30 de junho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de junho de 2015.**
+Referendado em 30 de junho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

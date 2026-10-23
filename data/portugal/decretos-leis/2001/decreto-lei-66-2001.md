@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/66/2001/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2001-386786
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:29:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 822dad670a087fb7ed178de9eab88f1eb8de82db96f455606527dcd61d7d4b72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5511e9fa7319d85dbbac99dbcbc230076907608e982848da17fae82e98c1aa52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:29:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -85,16 +85,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/25/2000/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/25/2000/08/23/p/dre
+- type: cites
+  target: pt:dre:240467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609999:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:29:57Z'
   warnings: []
   errors: []
 ---
@@ -123,12 +139,12 @@ O presente diploma produz efeitos desde 1 de Janeiro de 2001.
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2000. - Jaime José Matos da Gama - Júlio de Lemos de Castro Caldas - Joaquim Augusto Nunes Pina Moura.
 
-**Promulgado em 8 de Fevereiro de 2001.**
+Promulgado em 8 de Fevereiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Fevereiro de 2001.**
+Referendado em 15 de Fevereiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

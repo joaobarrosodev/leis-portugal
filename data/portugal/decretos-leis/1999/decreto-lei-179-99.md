@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/118a00/27382741.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/179/1999/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1999-321574
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:07:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8db1e726593664acf3f2016ef9adbd931b1247447d8e70a507e1847dcd76d1c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d29bd7343c4304e8e7ee2af904d05d1e89181233e3a92fb79626686372e9142
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:07:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,54 +68,82 @@ reuse:
 subjects:
 - Acordo
 - Auditoria
-- Incêndio
-- Prevenção de Incêndios
-- Financiamento
+- Autarquia Local
 - Comissão Nacional Especializada de Fogos Florestais
-- Serviço Nacional de Protecção Civil
 - Contrato Programa
 - Criação de Serviços
+- Curso Profissional
 - Definição de Competências
 - Direcção Geral das Florestas
 - Direcção Regional de Agricultura
-- Curso Profissional
 - Equipamento
-- Proteção da Floresta
+- Exploração Florestal
 - Extinção de Serviços
-- Ministro das Finanças
+- Financiamento
 - FSE
+- Incêndio
+- Ministro da Administração Interna
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
+- Ministro das Finanças
 - Ministro do Equipamento do Planeamento e da Administração do Território
 - Parecer
-- Prazo
-- Exploração Florestal
-- Rede Nacional de Áreas Protegidas
 - Política Florestal
+- Prazo
+- Prevenção de Incêndios
+- Proteção da Floresta
+- Rede Nacional de Áreas Protegidas
+- Rede Natura 2000
 - Relatório de Actividade
 - Sapador Florestal
-- Ministro da Administração Interna
+- Serviço Nacional de Protecção Civil
 - Subsídio não Reembolsável
-- Autarquia Local
-- Rede Natura 2000
 relationships:
 - type: amended_by
   target: pt:dre:138571583:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:223254:por
+  label: "Alterados os arts. 3.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º e 16.º e aditados os arts. 1.º-A,\
+    \ 3.º-A, 5.º-A, 5.º-B, 13.º-A, e 14.º-A, pelo DEC LEI.94/2004.22.04.2004.MADRP, DR.IS-A [95] de 22.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-2004-223254
+  date: '2004-04-22'
+- type: amended_by
+  target: pt:dre:676840:por
+  label: "Alterados os arts. 1º-A, 2º, 3º, 3º-A, 4º, 5º, 5º-A, 5º-B, 7º, 8º, 10º, 11º, 12º, 13º, 13º-A, 14º, 14º-A e 15º e\
+    \ revogado o art. 16º do presente diploma, com a redacção dada pelo Dec Lei 94/2004 de 22-Abr, pelo DEC LEI.38/2006.20.02.2006.MADRP,\
+    \ DR.IS-A [36] de 20.02.2006, que o republica com todas as alterações\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2006-676840
+  date: '2006-02-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567043:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:608708:por
+  label: "Revogado o presente diploma, na redacção do Dec Lei 94/2004, de 22-Abr e do Dec Lei 38/2006, de 20-Fev que o republica,\
+    \ pelo DEC LEI.109/2009.15.05.2009.MADRP, DR.IS [94] de 15.05.2009, sem prejuízo de, no ano de 2009, os procedimentos\
+    \ relativos à candidatura se regerem pelo presente diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-2009-608708
+  date: '2009-05-15'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:07:10Z'
   warnings: []
   errors: []
 ---
@@ -284,12 +312,12 @@ b) Elaborar um relatório anual sobre o funcionamento e actividade das equipas d
 
 Visto e aprovado em Conselho de Ministros de 15 de Abril de 1999. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Luís Manuel Capoulas Santos - António Ricardo Rocha de Magalhães.
 
-**Promulgado em 4 de Maio de 1999.**
+Promulgado em 4 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Maio de 1999.**
+Referendado em 12 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

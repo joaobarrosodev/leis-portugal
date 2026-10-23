@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/8/2012/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b9229de00df878fa7f25f0142fc45bee1234f0940282c818d29588702d4432a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c31e798d3d797a58a1ec25790038be9a3f80f08f84ac9e0d7498f8953557d3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Funções
+- Avaliação do Pessoal
 - Comissão de Recrutamento e Selecção para a Administração Pública
 - Definição de Competências
 - Empresa Pública
 - Estatuto
-- Setor Empresarial do Estado
 - Gestão de Empresas
 - Gestor Público
 - Incompatibilidades
@@ -81,12 +81,36 @@ subjects:
 - Prémio de Produtividade
 - Regime Geral da Segurança Social
 - Remuneração
-- Avaliação do Pessoal
+- Setor Empresarial do Estado
 relationships:
 - type: amended_by
   target: pt:dre:159869157:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74126124:por
+  label: Determinada a prorrogação, durante o ano de 2016, como medida excecional de estabilidade orçamental e para cumprimento
+    das obrigações internacionais e europeias, dos efeitos temporários das normas e medidas, cuja vigência esteja condicionada
+    à manutenção do procedimento por défice excessivo ou do Programa de Assistência Económica e Financeira (PAEF), presentes
+    no art. 4.º do presente diploma, pelo(a) Decreto-Lei n.º 18/2016 - Diário da República n.º 72/2016, Série I de 2016-04-13,
+    nos termos do disposto no seu art. 101.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2016-74126124
+  date: '2016-04-13'
+- type: amended_by
+  target: pt:dre:75049338:por
+  label: Alterado o art. 1.º do Dec Lei 71/2007, de 27-mar, republicado pelo presente diploma pelo(a) Decreto-Lei n.º 39/2016
+    - Diário da República n.º 144/2016, Série I de 2016-07-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2016-75049338
+  date: '2016-07-28'
+- type: amended_by
+  target: pt:dre:106549661:por
+  label: Determinada a prorrogação, durante o ano de 2017, como medida excecional de estabilidade orçamental e para cumprimento
+    das obrigações internacionais e europeias, dos efeitos temporários das normas e medidas, cuja vigência esteja condicionada
+    à manutenção do procedimento por défice excessivo ou do Programa de Assistência Económica e Financeira (PAEF), presentes
+    no art. 4.º do presente diploma, pelo(a) Decreto-Lei n.º 25/2017 - Diário da República n.º 45/2017, Série I de 2017-03-03,
+    nos termos do disposto no seu art. 134.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2017-106549661
+  date: '2017-03-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/300/2007/08/23/p/dre
   label: null
@@ -115,16 +139,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64/1993/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64/1993/08/26/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:544418:por
+  label: "Rectificado o art. 1º [na parte em que altera o art. 28º do Dec Lei 71/2007, de 27-mar], pela DECL-RECT.2/2012.25.01.2012.PCM,\
+    \ DR.IS [18] de 25.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/2-2012-544418
+  date: '2012-01-25'
 article_structure:
-  article_count: 68
+  article_count: 51
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:57Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +229,9 @@ Os artigos 2.º, 6.º, 12.º, 13.º, 18.º, 20.º, 22.º, 25.º, 26.º, 28.º, 2
 
 3 - O presente decreto-lei é ainda aplicável, com as devidas adaptações, aos membros de órgãos directivos de institutos públicos de regime especial, bem como às autoridades reguladoras independentes, nos casos expressamente determinados pelos respectivos diplomas orgânicos, em tudo o que não seja prejudicado pela legislação aplicável a estas entidades.
 
-###### Artigo 6.º — Avaliação do desempenho
+Artigo 6.º
+
+Avaliação do desempenho
 
 1 - ...
 
@@ -175,7 +239,9 @@ Os artigos 2.º, 6.º, 12.º, 13.º, 18.º, 20.º, 22.º, 25.º, 26.º, 28.º, 2
 
 3 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Os gestores públicos são escolhidos de entre pessoas com comprovadas idoneidade, mérito profissional, competências e experiência de gestão, bem como sentido de interesse público e habilitadas, no mínimo, com o grau académico de licenciatura.
 
@@ -183,7 +249,9 @@ Os artigos 2.º, 6.º, 12.º, 13.º, 18.º, 20.º, 22.º, 25.º, 26.º, 28.º, 2
 
 3 - É competência da Comissão de Recrutamento e Selecção para a Administração Pública, a definição, por regulamento, dos critérios aplicáveis na avaliação de candidatos a cargos de gestor público, designadamente, as competências de liderança, colaboração, motivação, orientação estratégica, orientação para resultados, orientação para o cidadão e serviço de interesse público, gestão da mudança e inovação, sensibilidade social, experiência profissional, formação académica e formação profissional.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -197,7 +265,9 @@ Os artigos 2.º, 6.º, 12.º, 13.º, 18.º, 20.º, 22.º, 25.º, 26.º, 28.º, 2
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Nas empresas públicas é obrigatória a celebração de um contrato de gestão, em que se definem:
 
@@ -217,7 +287,9 @@ d) ...
 
 5 - O contrato de gestão deve prever expressamente a demissão quando a avaliação de desempenho seja negativa, designadamente, por incumprimento devido a motivos individualmente imputáveis dos objectivos referidos nas orientações fixadas nos termos do artigo 11.º do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro, ou no contrato de gestão.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -239,7 +311,9 @@ f) (Revogada.)
 
 4 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -259,7 +333,9 @@ f) (Revogada.)
 
 9 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -275,7 +351,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -285,7 +363,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 28.º — Remuneração
+Artigo 28.º
+
+Remuneração
 
 1 - A remuneração dos gestores públicos integra um vencimento mensal que não pode ultrapassar o vencimento mensal do Primeiro-Ministro.
 
@@ -305,7 +385,9 @@ d) ...
 
 9 - Nos casos em que seja exercido o direito de opção referido no número anterior, os gestores não auferem o abono mensal para despesas de representação a que se refere o n.º 2 nas situações em que o respectivo vencimento mensal ultrapasse o limite fixado pelo n.º 1.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Os administradores não executivos têm direito a uma remuneração fixa, correspondente à actividade normal que desempenhem, até ao limite de um quarto da remuneração de igual natureza estabelecida para os administradores executivos.
 
@@ -313,7 +395,9 @@ d) ...
 
 3 - A remuneração dos administradores não executivos não integra qualquer abono mensal para despesas de representação.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -329,11 +413,15 @@ c) Outras regalias ou benefícios aplicáveis aos demais colaboradores da empres
 
 4 - Nos casos em que se estipularem objectivos de gestão de exigência acrescida, o contrato de gestão pode ainda, excepcionalmente, mediante despacho, fundamentado e publicado no Diário da República, do membro do Governo responsável pela área das finanças, estabelecer um regime específico de prémios de gestão a atribuir quando se verifique o cumprimento total dos objectivos estipulados, o qual não pode exceder metade do total da remuneração anual auferida.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 As acumulações de funções previstas nas alíneas a) e b) do n.º 3, no n.º 4 do artigo 20.º e no n.º 4 do artigo 22.º não conferem direito a qualquer remuneração adicional, incluindo os referidos no n.º 2 do artigo 28.º, nas alíneas a), b) e c) do artigo 30.º, no n.º 3 do artigo 32.º, nos n.os 1 e 3 do artigo 33.º, no artigo 34.º e quaisquer outros benefícios e regalias aplicáveis nessas empresas.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Não é permitida a utilização de cartões de crédito e outros instrumentos de pagamento por gestores públicos tendo por objecto a realização despesas ao serviço da empresa.
 
@@ -343,7 +431,9 @@ As acumulações de funções previstas nas alíneas a) e b) do n.º 3, no n.º 
 
 4 - O valor previsto no número anterior é fixado à luz das orientações que venham a ser estabelecidas para o efeito pelos accionistas ou por despacho, publicado no Diário da República, do membro do Governo responsável pela área das finanças, tendo sempre como limite a soma do valor fixado para a utilização de telefone domiciliário e telefone móvel para cargos de direcção superior de 1.º grau da Administração Pública.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - O valor máximo das viaturas de serviço afectas aos gestores públicos é fixado por deliberação em assembleia geral, no caso das sociedades anónimas, ou por despacho, publicado no Diário da República, do membro do Governo responsável pela área das finanças, no caso das entidades públicas empresariais.
 
@@ -355,15 +445,21 @@ As acumulações de funções previstas nas alíneas a) e b) do n.º 3, no n.º 
 
 5 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 Os gestores públicos gozam dos benefícios sociais conferidos aos trabalhadores da empresa em que exerçam funções, nos termos que venham a ser concretizados pelas respectivas comissões de fixação de remunerações, pela assembleia geral ou pelos membros do Governo responsáveis pela área das finanças e pelo respectivo sector de actividade, consoante o caso, com excepção dos respeitantes a planos complementares de reforma, aposentação, sobrevivência ou invalidez.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 Os gestores públicos beneficiam do regime geral de segurança social, se não optarem por outro que os abranja.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 Quem, tendo exercido funções de gestor público auferindo, por causa desse exercício, benefícios complementares de reforma, desempenhe funções em empresas ou outras entidades públicas tem o direito de optar entre a remuneração nesta empresa ou entidade e aqueles benefícios.»
 
@@ -395,15 +491,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.
 
-**Promulgado em 7 de Janeiro de 2012.**
+Promulgado em 7 de Janeiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Janeiro de 2012.**
+Referendado em 9 de Janeiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

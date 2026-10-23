@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/04/07200/0180501807.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/39/2012/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-2012-552542
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b892cebf6ca97439940ba90c87bd50282b13a972b2362743ffea9c9f42629707
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d1cb2a6372b56c262017b0c33aca4c7f7d2f0cdc3fff83f50861ebacde742e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
+- Direção Regional de Agricultura e Pescas do Alentejo
 - Direcção Regional de Agricultura e Pescas
-- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
 - Direcção Regional de Agricultura e Pescas de Lisboa e VALE do TEJO
+- Direcção Regional de Agricultura e Pescas do Algarve
 - Direcção Regional de Agricultura e Pescas do Centro
 - Direcção Regional de Agricultura e Pescas do Norte
-- Direção Regional de Agricultura e Pescas do Alentejo
-- Direcção Regional de Agricultura e Pescas do Algarve
-- Diretor Regional
 - Director Regional Adjunto
-- Orgânica
-- Quadro de Pessoal
+- Diretor Regional
 - Entidade Regional da Reserva Agrícola Nacional
+- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:213558633:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:72909765:por
+  label: Determinado que a direção das direções regionais de agricultura e pescas seja exercida pelo Ministro da Agricultura,
+    Florestas e Desenvolvimento Rural, conjuntamente com a Ministra do Mar no que diz respeito às matérias da sua competência
+    pelo(a) Decreto-Lei n.º 251-A/2015 - Diário da República n.º 246/2015, 1º Suplemento, Série I de 2015-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-2015-72909765
+  date: '2015-12-17'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a direção sobre as direções regionais de agricultura e pescas, com orgânica
+    aprovada pelo presente diploma, seja exercida pela Ministra da Agricultura, conjuntamente com o Ministro do Mar, nas matérias
+    da sua competência, pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a 30.03.2022, o exercício da direção pela Ministra a Agricultura e da Alimentação sobre
+    as Direções Regionais de Agricultura e Pescas (DRAP) pelo(a) Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022,
+    Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/209/2006/10/27/p/dre
   label: null
@@ -105,16 +126,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:247711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:213558633:por
+  label: Revogado, a partir de 01.06.2023, pelo(a) Decreto-Lei n.º 36/2023 - Diário da República n.º 102/2023, Série I de
+    2023-05-26 nos termos do art. 12.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2023-213558633
+  date: '2023-05-26'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:06Z'
   warnings: []
   errors: []
 ---
@@ -241,18 +288,18 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 1 de março de 2012. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 28 de março de 2012.**
+Promulgado em 28 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de abril de 2012.**
+Referendado em 4 de abril de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (mapa a que se refere o artigo 8.º)
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/07200/0180501807.pdf))](https://files.diariodarepublica.pt/1s/2012/04/07200/0180501807.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/07200/0180501807.pdf)

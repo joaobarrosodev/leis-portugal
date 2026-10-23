@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/181/2008/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2008-453247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ba0f623b37da2893b2dbd16cc8caabd7ae192b43e6a841b6e695d0fbb04eb62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 106e64219d64562004fc202c99a738291afd67d03e21d4ea532aa11cfad9e273
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,6 +78,24 @@ relationships:
   target: pt:dre:499545:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterados os arts. 26.º (entrada em vigor) e 27.º do Decreto-Lei n.º 34/2008, de 26-Fev, na redacção do presente\
+    \ diploma, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:543045:por
+  label: "Dada nova redação aos arts. 22, 23º, 26º e 27º do Regulamento das Custas Processuais, aprovado pelo Dec Lei 34/2008\
+    \ de 26-fev, alterado pelo presente diploma, pela LEI.7/2012.13.02.2012.AR, DR.IS [31] de 13.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-2012-543045
+  date: '2012-02-13'
+- type: amended_by
+  target: pt:dre:499545:por
+  label: "Dada nova redação ao art. 26º do Regulamento das Custas Processuais, aprovado pelo Dec Lei 34/2008 de 26-fev, alterado\
+    \ pelo presente diploma, pelo DEC LEI.126/2013.30.08.2013.MJ, DR.IS [167] de 30.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-2013-499545
+  date: '2013-08-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/108/2006/06/08/p/dre
   label: null
@@ -118,16 +136,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/60-a/2005/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/60-a/2005/12/30/p/dre
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553668:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:14Z'
   warnings: []
   errors: []
 ---
@@ -164,21 +226,29 @@ Os artigos 19.º, 22.º, 23.º, 26.º e 27.º do [Decreto-Lei n.º 34/2008](http
 
 2 - O benefício concedido no número anterior abrange os acordos e as desistências ocorridas entre a publicação do presente decreto-lei e a respectiva entrada em vigor.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 Na data de entrada em vigor do presente decreto-lei, a unidade de conta é fixada em um quarto do valor do indexante dos apoios sociais (IAS) vigente em Dezembro do ano anterior, arredondada à unidade Euro, sendo actualizada anualmente com base na taxa de actualização do IAS, devendo a primeira actualização ocorrer apenas em Janeiro de 2010, nos termos dos n.os 2 e 3 do artigo 5.º do Regulamento das Custas Processuais.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 As contas dos processos pendentes à data de entrada em vigor do presente decreto-lei são elaboradas pela secretaria central do tribunal de 1.ª instância onde decorreu o respectivo processo.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - O presente decreto-lei entra em vigor no dia 5 de Janeiro de 2009, sem prejuízo do disposto no número seguinte.
 
 2 - O disposto no n.º 3 do artigo 6.º e no n.º 5 do artigo 22.º do Regulamento das Custas Processuais, aprovado pelo presente decreto-lei, entra em vigor a 1 de Setembro de 2008.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - As alterações às leis de processo e o novo Regulamento das Custas Processuais aplicam-se apenas aos processos iniciados a partir da entrada em vigor do presente decreto-lei, salvo o disposto nos números seguintes.
 
@@ -200,12 +270,12 @@ O presente decreto-lei produz efeitos a 31 de Agosto de 2008.
 
 Visto e aprovado em Conselho de Ministros de 31 de Julho de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa.
 
-**Promulgado em 13 de Agosto de 2008.**
+Promulgado em 13 de Agosto de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de Agosto de 2008.**
+Referendado em 14 de Agosto de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/120a00/25722573.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/127/1997/05/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1997-347307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aec42747d7d7425a961fe7c155b832092362493beb2421f3eb45becf60fbf5db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c69f07817ffdf2c6a70821f97be58c162ebc75125d0f437fbcb1e7ee4fa7f22b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão Interministerial para a Cooperação
-- Política de Cooperação
-- Orgânica
 - Ministério dos Negócios Estrangeiros
+- Orgânica
+- Política de Cooperação
 relationships:
 - type: amended_by
   target: pt:dre:520976:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:235930:por
+  label: "Alterado o art. 3º e aditado o art. 6º-A pelo DEC LEI.301/98.1998.10.07.MNE, DR.IS-A [231] \0] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/301-1998-235930
+  date: '1998-10-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/58/1994/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/58/1994/02/24/p/dre
+- type: cites
+  target: pt:dre:515575:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520976:por
+  label: "Revogado pelo DEC LEI.120/2007.27.04.2007.MNE, DR.IS [82] de 27.04.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2007-520976
+  date: '2007-04-27'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:14Z'
   warnings: []
   errors: []
 ---
@@ -244,12 +258,12 @@ A CIC, reunida em plenário, aprova o seu regulamento de funcionamento, o qual �
 
 Visto e aprovado em Conselho de Ministros de 3 de Abril de 1997. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - António Manuel de Carvalho Ferreira Vitorino - José Manuel Lello Ribeiro de Almeida - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Maria João Fernandes Rodrigues - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 9 de Maio de 1997.**
+Promulgado em 9 de Maio de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Maio de 1997.**
+Referendado em 13 de Maio de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

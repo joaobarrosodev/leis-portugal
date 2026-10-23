@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/180/1999/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1999-321690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:07:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41ed2336f7adaf82230c701f9408bee635031dca06c7c396de7cc8903ac7967f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f55c37e89ef38cfa653540346649c6a46c076291ad5d73333f9824c4705d552f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:07:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,43 +68,78 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aldeamento Turístico
 - Apartamento Turístico
 - Aproximação das Legislações
-- Publicidade
-- Turismo
-- Multa
+- Comércio
 - Contra-ordenação
 - Contrato
 - Definição de Competências
 - Direcção Geral do Turismo
 - Documento Autentico
 - Estabelecimento Hoteleiro
-- Transmissão da Propriedade
-- Aldeamento Turístico
+- Habitação
+- Multa
 - Proteção do Consumidor
+- Publicidade
 - Regime Jurídico
 - Registo Predial
-- Habitação
-- Comércio
+- Transmissão da Propriedade
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:70748598:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:276449:por
+  label: "Altera os arts. 4º, 11º, 15º, 16º, 17º, 46º, 48º, 54º e 60º do Dec Lei 275/93 de 05-Ago, com a redacção conferida\
+    \ pelo presente diploma, pelo DEC LEI.22/2002.2002.01.31.MECO DR.IS-A [26]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2002-276449
+  date: '2002-01-31'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: "Alterado o art. 48º do Dec Lei 275/93 de 05-Ago, na redacção do presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP,\
+    \ DR.IS-A [63-Supl] de 29.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterados os art.s 3.º, 5.º, 6.º, 7.º, 11.º e 19.º do Dec Lei 275/93, de 05-Ago, na redacção (com republicação)\
+    \ do presente diploma, pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:279446:por
+  label: "Dada nova redacção, a partir de 09.04.2011, aos arts. 3º, 5º, 9º, 10º, 11º, 13º, 14º, 16º, 17º, 18º, 23º, 31º, 34º,\
+    \ 43º, 45º, 46º, 47º, 48º, 49º, 50º, 51º, 53º, 54º, 58º, 59º e 60º; e actualizadas, a partir da mesma data, as referências\
+    \ feitas à Direcção-Geral do Turismo e ao director-geral do turismo, para, respectivamente, Turismo de Portugal. I.P.\
+    \ e presidente do conselho directivo do Turismo de Portugal, I.P., e as feitas ao imposto da sisa, para imposto municipal\
+    \ sobre as transmissões onerosas de imóveis (IMT) do Dec Lei 275/93 de 05-Ago, alterado e republicado pelo presente diploma,\
+    \ pelo DEC LEI.37/2011.10.03.2011.MEID, DR.IS [49] de 10.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-2011-279446
+  date: '2011-03-10'
+- type: amended_by
+  target: pt:dre:70748598:por
+  label: Alterados, a partir de 21.10.2015, os arts 16.º, 54.º, 58.º e 59.º, na redação do presente diploma, aditado o art
+    53.º-B e revogada a al c) do art 59.º do Dec Lei n.º 275/93, de 05-ago, pelo(a) Decreto-Lei n.º 245/2015 - Diário da República
+    n.º 205/2015, Série I de 2015-10-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-2015-70748598
+  date: '2015-10-20'
 - type: cites
   target: celex:31994L0047
   label: null
   source: http://data.europa.eu/eli/dir/1994/47/oj
 article_structure:
-  article_count: 104
+  article_count: 66
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:07:15Z'
   warnings: []
   errors: []
 ---
@@ -137,13 +172,17 @@ Direito real de habitação periódica
 
 Sobre as unidades de alojamento integradas em hotéis-apartamentos, aldeamentos turísticos e apartamentos turísticos podem constituir-se direitos reais de habitação periódica limitados a um período certo de tempo de cada ano.
 
-###### Artigo 2.º — Outros direitos reais
+Artigo 2.º
+
+Outros direitos reais
 
 1 - O proprietário das unidades de alojamento sujeitas ao regime de direitos reais de habitação periódica não pode constituir outros direitos reais sobre as mesmas.
 
 2 - O disposto no número anterior não impede que, quando necessário, a constituição do direito real de habitação periódica seja precedida da sujeição do edifício, grupo de edifícios ou conjunto imobiliário ao regime da propriedade horizontal.
 
-###### Artigo 3.º — Duração
+Artigo 3.º
+
+Duração
 
 1 - O direito real de habitação periódica é, na falta de indicação em contrário, perpétuo, mas pode ser-lhe fixado um limite de duração, não inferior a 15 anos, a contar da celebração da escritura pública prevista no artigo 6.º, excepto quando o empreendimento estiver ainda em construção, em que o prazo começa a contar a partir da data de abertura ao público do empreendimento turístico.
 
@@ -155,7 +194,9 @@ Sobre as unidades de alojamento integradas em hotéis-apartamentos, aldeamentos 
 
 5 - O proprietário das unidades de alojamento previstas no artigo 1.º deve reservar, para reparações, conservação, limpeza e outros fins comuns ao empreendimento, um período de tempo de sete dias seguidos por ano para cada unidade de alojamento.
 
-###### Artigo 4.º — Condições de exploração do empreendimento no regime de direito real de habitação periódica
+Artigo 4.º
+
+Condições de exploração do empreendimento no regime de direito real de habitação periódica
 
 1 - A exploração de um empreendimento sujeito ao regime do direito real de habitação periódica requer que:
 
@@ -179,7 +220,9 @@ g) Quando exista cessão de exploração do empreendimento turístico, haja um �
 
 4 - As unidades de alojamento dos empreendimentos turísticos previstos no artigo 1.º não se consideram retiradas da exploração de serviços de alojamento turístico pelo facto de se encontrarem sujeitas ao regime do direito real de habitação periódica.
 
-###### Artigo 5.º — Autorização pela Direcção-Geral do Turismo
+Artigo 5.º
+
+Autorização pela Direcção-Geral do Turismo
 
 1 - Compete à Direcção-Geral do Turismo autorizar a exploração do empreendimento no regime do direito real de habitação periódica.
 
@@ -225,13 +268,17 @@ t) A capacidade máxima de cada uma das unidades de alojamento.
 
 3 - Autorizado o projecto de constituição, a Direcção-Geral do Turismo emite uma certidão da qual devem constar os elementos indicados no número anterior.
 
-###### Artigo 6.º — Constituição do direito real de habitação periódica
+Artigo 6.º
+
+Constituição do direito real de habitação periódica
 
 1 - O direito real de habitação periódica é constituído por escritura pública.
 
 2 - A escritura pública é instruída com cópia da certidão referida no n.º 3 do artigo anterior, devendo o notário mencionar que o conteúdo daquela certidão faz parte integrante da escritura.
 
-###### Artigo 7.º — Modificação do título de constituição do direito real de habitação periódica
+Artigo 7.º
+
+Modificação do título de constituição do direito real de habitação periódica
 
 1 - O título de constituição do direito real de habitação periódica pode ser modificado por escritura pública, havendo acordo dos titulares de direitos reais de habitação periódica cuja posição seja afectada.
 
@@ -239,7 +286,9 @@ t) A capacidade máxima de cada uma das unidades de alojamento.
 
 3 - À modificação do título de constituição do direito real de habitação periódica é aplicável, com as necessárias adaptações, o disposto nos artigos anteriores.
 
-###### Artigo 8.º — Registo
+Artigo 8.º
+
+Registo
 
 1 - O título de constituição do direito real de habitação periódica está sujeito a inscrição no registo predial.
 
@@ -247,7 +296,9 @@ t) A capacidade máxima de cada uma das unidades de alojamento.
 
 3 - Se a execução do empreendimento turístico tiver sido prevista por fases, o registo de constituição dos direitos reais de habitação periódica respeitantes a cada fase será feito por averbamento à respectiva descrição.
 
-###### Artigo 9.º — Documento informativo
+Artigo 9.º
+
+Documento informativo
 
 1 - O proprietário ou o vendedor de direitos reais de habitação periódica devem entregar gratuitamente a qualquer pessoa que o solicite um documento informativo que, de uma forma clara e precisa, descreva o empreendimento turístico.
 
@@ -293,7 +344,9 @@ n) Se o empreendimento turístico já estiver em funcionamento, o proprietário 
 
 4 - As alterações previstas no número anterior apenas podem resultar de circunstâncias alheias à vontade do vendedor, salvo acordo expresso das partes.
 
-###### Artigo 10.º — Certificado predial
+Artigo 10.º
+
+Certificado predial
 
 1 - Relativamente a cada direito real de habitação periódica é emitido pela conservatória do registo predial competente um certificado predial que titule o direito e legitime a transmissão ou oneração deste.
 
@@ -303,7 +356,9 @@ n) Se o empreendimento turístico já estiver em funcionamento, o proprietário 
 
 4 - A emissão da 2.ª via do certificado predial só pode ter lugar depois de decorridos 30 dias sobre a data do respectivo pedido e é sempre anotada à descrição.
 
-###### Artigo 11.º — Requisitos
+Artigo 11.º
+
+Requisitos
 
 1 - Do certificado predial devem constar:
 
@@ -357,7 +412,9 @@ m) A indicação das garantias prestadas para cumprir o disposto nos artigos 15.
 
 7 - O modelo do certificado predial é aprovado por despacho conjunto dos Ministros da Economia e da Justiça.
 
-###### Artigo 12.º — Oneração e transmissão de direitos reais de habitação periódica
+Artigo 12.º
+
+Oneração e transmissão de direitos reais de habitação periódica
 
 1 - A oneração ou a transmissão por acto entre vivos de direitos reais de habitação periódica faz-se mediante declaração das partes no certificado predial, com reconhecimento presencial das assinaturas do constituinte do ónus ou do alienante, respectivamente, e está sujeita a registo nos termos gerais.
 
@@ -367,17 +424,23 @@ m) A indicação das garantias prestadas para cumprir o disposto nos artigos 15.
 
 4 - A transmissão de direitos reais de habitação periódica implica a cessão dos direitos e obrigações do respectivo titular em face do proprietário do empreendimento ou do cessionário da exploração, sem necessidade de concordância deste, considerando-se não escritas quaisquer cláusulas em contrário.
 
-###### Artigo 13.º — Documento complementar
+Artigo 13.º
+
+Documento complementar
 
 1 - Nas transmissões de direitos reais de habitação periódica o vendedor deve entregar ao adquirente o documento complementar previsto no n.º 2 do artigo 11.º
 
 2 - Sem prejuízo do disposto no n.º 3 do artigo 9.º, sempre que haja alguma alteração ao conteúdo do documento complementar ou se verifique a perda ou extravio dele, pode o titular do direito real de habitação periódica exigir do proprietário das unidades de alojamento objecto desse direito um novo documento.
 
-###### Artigo 14.º — Sinal ou antecipação do pagamento
+Artigo 14.º
+
+Sinal ou antecipação do pagamento
 
 Antes do termo do prazo para o exercício do direito de resolução previsto no n.º 1 do artigo 16.º é proibido efectuar pagamentos ou receber qualquer quantia, como forma de pagamento, ou com qualquer outro objectivo directa ou indirectamente relacionado com o negócio jurídico a celebrar.
 
-###### Artigo 15.º — Caução
+Artigo 15.º
+
+Caução
 
 1 - O proprietário das unidades de alojamento sujeitas ao regime de direitos reais de habitação periódica ou o cessionário da exploração devem prestar caução que garanta:
 
@@ -393,7 +456,9 @@ d) A devolução da totalidade das quantias entregues pelo adquirente até ao te
 
 3 - Nas transmissões subsequentes de direitos reais de habitação periódica, transfere-se para o adquirente a caução que garante o cumprimento das obrigações previstas nas alíneas a) e b) do n.º 1 e ainda, no caso da alínea c) do n.º 1, se o empreendimento turístico ainda não estiver aberto ao público.
 
-###### Artigo 16.º — Direito de resolução
+Artigo 16.º
+
+Direito de resolução
 
 1 - O adquirente do direito real de habitação periódica pode resolver o respectivo contrato de aquisição sem indicar o motivo e sem quaisquer encargos, no prazo de 10 dias úteis a contar da data da sua celebração.
 
@@ -409,7 +474,9 @@ d) A devolução da totalidade das quantias entregues pelo adquirente até ao te
 
 7 - Resolvido o contrato nos termos previstos nos n.os 3 a 5, o vendedor deve restituir ao adquirente todas as quantias recebidas até à data da resolução do mesmo.
 
-###### Artigo 17.º — Contratos-promessa de transmissão de direitos reais de habitação periódica
+Artigo 17.º
+
+Contratos-promessa de transmissão de direitos reais de habitação periódica
 
 1 - Os contratos-promessa de transmissão de direitos reais de habitação periódica vinculam ambas as partes e devem ser reduzidos a escrito.
 
@@ -417,7 +484,9 @@ d) A devolução da totalidade das quantias entregues pelo adquirente até ao te
 
 3 - É nula a convenção que faça depender a celebração do contrato prometido da alienação de direitos reais de habitação periódica sobre as restantes unidades de alojamento.
 
-###### Artigo 18.º — Requisitos
+Artigo 18.º
+
+Requisitos
 
 1 - Os contratos-promessa de alienação de direitos reais de habitação periódica em que o promitente-vendedor intervenha no exercício do comércio devem conter os seguintes elementos:
 
@@ -433,7 +502,9 @@ e) Indicação expressa, aposta imediatamente antes da assinatura das partes, de
 
 2 - É obrigatória a entrega ao promitente-adquirente do documento complementar previsto no n.º 2 do artigo 11.º e no artigo 13.º, observando-se, com as devidas adaptações, o disposto nos n.os 3 a 5 do artigo 11.º e nos n.os 2 e 3 do artigo 12.º
 
-###### Artigo 19.º — Direito de resolução e caução
+Artigo 19.º
+
+Direito de resolução e caução
 
 1 - Nos contratos-promessa o promitente-adquirente goza do direito de resolução após a sua assinatura, nos termos do disposto no artigo 16.º, contando-se o respectivo prazo da data de assinatura do contrato-promessa.
 
@@ -451,13 +522,17 @@ d) A devolução da totalidade das quantias entregues pelo adquirente até ao te
 
 4 - É aplicável à caução a que se refere o número anterior o disposto no n.º 2 do artigo 15.º, observando-se ainda, com as necessárias adaptações, o disposto no n.º 3 do mesmo preceito.
 
-###### Artigo 20.º — Irrenunciabilidade e nulidade
+Artigo 20.º
+
+Irrenunciabilidade e nulidade
 
 1 - Os direitos conferidos nesta secção ao adquirente e ao promitente-adquirente do direito real de habitação periódica são irrenunciáveis, sendo nula toda a convenção que, de alguma forma, os exclua ou limite.
 
 2 - É igualmente nula a convenção que, de alguma forma, exclua ou limite as responsabilidades conferidas nesta secção ao vendedor.
 
-#### SECÇÃO V — Artigo 21.º
+SECÇÃO V
+
+Artigo 21.º
 
 Conteúdo e exercício do direito real de habitação periódica
 
@@ -475,7 +550,9 @@ d) Ceder o exercício das faculdades referidas nas alíneas anteriores.
 
 3 - A cedência a que se refere a alínea d) do n.º 1 deve ser comunicada por escrito à entidade responsável pela gestão do empreendimento até ao início do período de exercício do direito, sob pena de opor a tal cedência.
 
-###### Artigo 22.º — Prestação periódica
+Artigo 22.º
+
+Prestação periódica
 
 1 - O titular do direito real de habitação periódica é obrigado a pagar anualmente ao proprietário das unidades de alojamento sujeitas ao regime dos direitos reais de habitação periódica a prestação pecuniária indicada no título de constituição.
 
@@ -485,7 +562,9 @@ d) Ceder o exercício das faculdades referidas nas alíneas anteriores.
 
 4 - A percentagem da prestação periódica destinada a remunerar a gestão não pode ultrapassar 20% do valor total.
 
-###### Artigo 23.º — Falta de pagamento da prestação periódica ou de indemnização
+Artigo 23.º
+
+Falta de pagamento da prestação periódica ou de indemnização
 
 1 - O crédito por prestações ou indemnizações devidas pelo titular do direito real de habitação periódica e respectivos juros moratórios goza do privilégio creditório imobiliário sobre este direito, graduável após os mencionados nos artigos 746.º e 748.º do Código Civil e os previstos em legislação especial em vigor nesta data.
 
@@ -495,17 +574,23 @@ d) Ceder o exercício das faculdades referidas nas alíneas anteriores.
 
 4 - No caso previsto no número anterior, o proprietário pode afectar a unidade de alojamento à exploração turística durante o período correspondente a esse direito, caso em que se considera integralmente liquidada a prestação periódica devida nos termos do n.º 1 do artigo anterior.
 
-###### Artigo 24.º — Alteração da prestação periódica
+Artigo 24.º
+
+Alteração da prestação periódica
 
 1 - Independentemente do critério de fixação da prestação periódica estabelecido no título de constituição, aquela pode ser alterada, por proposta da entidade encarregada da auditoria das contas do empreendimento inserida no respectivo parecer, sempre que se revele excessiva ou insuficiente relativamente às despesas e à retribuição a que se destina e desde que a alteração seja aprovada por maioria dos votos dos titulares presentes em assembleia convocada para o efeito.
 
 2 - À alteração da prestação periódica aplica-se o disposto no n.º 2 do artigo 7.º
 
-###### Artigo 28.º — Inovações
+Artigo 28.º
+
+Inovações
 
 O proprietário das unidades de alojamento sujeitas ao regime de direitos reais de habitação periódica só pode realizar obras que constituam inovações nas unidades de alojamento, ainda que por sua conta, com o consentimento dos titulares, a prestar em assembleia geral.
 
-###### Artigo 30.º — Fundo de reserva
+Artigo 30.º
+
+Fundo de reserva
 
 1 - Uma percentagem não inferior a 4% do valor da prestação periódica paga pelos titulares dos direitos reais de habitação periódica deve ser afectada à constituição de um fundo de reserva destinado exclusivamente à realização de obras de reparação e conservação das instalações e equipamentos de uso comum e das respectivas unidades de alojamento, seu mobiliário e equipamento.
 
@@ -515,7 +600,9 @@ O proprietário das unidades de alojamento sujeitas ao regime de direitos reais 
 
 4 - A entidade proprietária ou exploradora do empreendimento deve apresentar à Direcção-Geral do Turismo documento comprovativo de que o fundo de reserva se encontra constituído.
 
-###### Artigo 31.º — Caução de boa administração
+Artigo 31.º
+
+Caução de boa administração
 
 1 - O proprietário das unidades de alojamento sujeitas ao regime dos direitos reais de habitação periódica ou, tendo havido cessão da exploração, o cessionário devem prestar caução de boa administração e conservação do empreendimento a favor dos titulares de direitos reais de habitação periódica.
 
@@ -527,7 +614,9 @@ O proprietário das unidades de alojamento sujeitas ao regime de direitos reais 
 
 5 - A garantia deve ser actualizada sempre que o seja a prestação periódica.
 
-###### Artigo 43.º — Publicidade e comercialização
+Artigo 43.º
+
+Publicidade e comercialização
 
 1 - Toda a publicidade ou promoção respeitante à venda ou comercialização de direitos reais de habitação periódica deve conter, pelo menos, os elementos referidos nas alíneas a), b), d) e h) do n.º 2 do artigo 5.º e não pode apresentar a aquisição desses direitos como forma de investimento financeiro.
 
@@ -539,13 +628,17 @@ O proprietário das unidades de alojamento sujeitas ao regime de direitos reais 
 
 5 - Em virtude do disposto no n.º 5 do artigo 7.º da Lei n.º 24/96, de 31 de Julho, as informações concretas ou objectivas contidas nas mensagens publicitárias consideram-se integradas no conteúdo dos contratos que se venham a celebrar após a sua emissão, tendo-se por não escritas as cláusulas contratuais em contrário.
 
-###### Artigo 45.º — Regime dos direitos de habitação turística
+Artigo 45.º
+
+Regime dos direitos de habitação turística
 
 1 - Os direitos de habitação em empreendimentos turísticos e casas e empreendimentos de turismo no espaço rural por períodos de tempo limitados em cada ano e que não constituam direitos reais de habitação periódica, bem como os contratos pelos quais, directa ou indirectamente, mediante um pagamento antecipado completado ou não por prestações periódicas, se transmite ou prometa transmitir direitos de habitação turística, ficam imperativamente sujeitos às disposições deste capítulo.
 
 2 - Os direitos de habitação turística a que se refere o número anterior incluem, nomeadamente, os direitos obrigacionais constituídos no âmbito de contratos referentes a cartões e clubes de férias, cartões turísticos ou outros de natureza semelhante.
 
-###### Artigo 46.º — Requisitos
+Artigo 46.º
+
+Requisitos
 
 1 - Sem prejuízo do disposto no número seguinte, os direitos de habitação turística só podem constituir-se desde que os empreendimentos se encontrem em funcionamento e se verifiquem, com as necessárias adaptações, as condições previstas no artigo 4.º, estando a exploração nesse regime sujeita a autorização da Direcção-Geral do Turismo.
 
@@ -561,13 +654,17 @@ c) Se o requerente não for o proprietário da casa ou empreendimento, previstos
 
 4 - As unidades de alojamento das casas e empreendimentos previstos no n.º 1 do artigo anterior não se consideram retiradas da exploração de serviços de alojamento turístico pelo facto de se encontrarem sujeitas ao regime do direito de habitação turística.
 
-###### Artigo 47.º — Duração
+Artigo 47.º
+
+Duração
 
 1 - Sem prejuízo do disposto no número seguinte, o direito de habitação turística constituído pelo proprietário é, na falta de indicação em contrário, perpétuo, mas pode ser-lhe fixado um limite de duração não inferior a três anos a contar da data da sua constituição.
 
 2 - O direito de habitação turística não constituído pelo proprietário tem a duração mínima de 3 anos e a duração máxima de 30 anos, contados a partir da data da sua constituição.
 
-###### Artigo 48.º — Contrato de transmissão de direitos de habitação turística
+Artigo 48.º
+
+Contrato de transmissão de direitos de habitação turística
 
 1 - Os contratos de transmissão de direitos de habitação turística são celebrados por escrito.
 
@@ -617,13 +714,17 @@ d) Certidão que ateste que o estabelecimento individual de responsabilidade lim
 
 e) Cópia dos contratos celebrados entre o vendedor e o ou os proprietários das unidades de alojamento sujeitas ao regime dos direitos de habitação turística, que garantam o gozo pleno dos direitos objecto do contrato ou contrato-promessa de transmissão desses direitos, pelo período de duração neles previstos.
 
-###### Artigo 49.º — Direito de resolução
+Artigo 49.º
+
+Direito de resolução
 
 1 - Nos contratos de aquisição de direitos de habitação turística ou nos respectivos contratos-promessa, o adquirente ou o promitente-adquirente têm a faculdade de resolver o contrato, sem indicar o motivo e sem quaisquer encargos, no prazo de 10 dias úteis a contar da data de assinatura deste, por meio de carta registada, com aviso de recepção, enviada até ao termo daquele prazo.
 
 2 - É aplicável ao direito de resolução dos contratos de aquisição de direitos de habitação turística ou dos respectivos contratos-promessa, com as necessárias adaptações, o disposto nos n.os 3 a 7 do artigo 16.º
 
-###### Artigo 52.º — Cauções
+Artigo 52.º
+
+Cauções
 
 1 - O proprietário das unidades de alojamento sujeitas ao regime de direitos de habitação turística, ou o vendedor, nos casos previstos na alínea f) do n.º 3 do artigo 48.º, deve prestar a favor do adquirente ou do promitente-adquirente de direitos de habitação turística caução pelo montante das quantias recebidas por este a qualquer título, para os efeitos e nos termos do artigo 15.º
 
@@ -633,11 +734,15 @@ e) Cópia dos contratos celebrados entre o vendedor e o ou os proprietários das
 
 4 - A caução prevista nos números anteriores só pode ser accionada por deliberação da maioria dos titulares dos direitos de habitação turística constituídos.
 
-###### Artigo 53.º — Remissão
+Artigo 53.º
+
+Remissão
 
 Aos direitos de habitação turística aplica-se, com as necessárias adaptações, o disposto nos artigos 9.º, 14.º, 20.º, 43.º e 44.º do presente diploma.
 
-###### Artigo 54.º — Contra-ordenações
+Artigo 54.º
+
+Contra-ordenações
 
 1 - Constituem contra-ordenações puníveis com coima de 2000000$00 a 20000000$00:
 
@@ -693,7 +798,9 @@ l) O incumprimento do disposto no n.º 4 do artigo 60.º
 
 3 - A negligência e a tentativa são puníveis.
 
-###### Artigo 55.º — Sanções acessórias
+Artigo 55.º
+
+Sanções acessórias
 
 1 - Conjuntamente com as coimas previstas, podem ser aplicadas, de acordo com a natureza, a gravidade ou a frequência das contra-ordenações, as seguintes sanções acessórias, nos termos da lei geral:
 
@@ -707,15 +814,21 @@ a) A afixação de cópia da decisão, pelo período de 30 dias, no próprio emp
 
 b) A sua publicação em jornal de difusão nacional, regional ou local, de acordo com o lugar, a importância e os efeitos da infracção.
 
-###### Artigo 56.º — Concurso de contra-ordenações
+Artigo 56.º
+
+Concurso de contra-ordenações
 
 Se um facto violar simultaneamente o disposto no Código da Publicidade, aprovado pelo Decreto-Lei n.º 330/90, de 23 de Outubro, e alterado pelo Decreto-Lei n.º 74/93, de 10 de Março, e pelo Decreto-Lei n.º 275/98, de 9 de Setembro, e artigos 43.º e 44.º do presente diploma, deve ser punido pela violação destes.
 
-###### Artigo 57.º — Responsabilidade
+Artigo 57.º
+
+Responsabilidade
 
 Os titulares, gerentes e administradores ou directores do estabelecimento individual de responsabilidade limitada, da cooperativa ou da sociedade comercial, proprietárias ou cessionárias, são subsidiariamente responsáveis pelo pagamento das coimas aplicadas àquelas.
 
-###### Artigo 60.º — Aplicação no tempo e no espaço
+Artigo 60.º
+
+Aplicação no tempo e no espaço
 
 1 - O presente diploma aplica-se aos direitos reais de habitação periódica constituídos, ficando ressalvados os efeitos já produzidos pelos factos que este se destina a regular.
 
@@ -753,17 +866,19 @@ O presente diploma entra em vigor no dia imediatamente a seguir ao da sua public
 
 Visto e aprovado em Conselho de Ministros de 15 de Abril de 1999. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 10 de Maio de 1999.**
+Promulgado em 10 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Maio de 1999.**
+Referendado em 12 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Do direito real de habitação periódica
 

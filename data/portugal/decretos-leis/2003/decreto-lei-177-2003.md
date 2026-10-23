@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/179a00/46164625.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/177/2003/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2003-653500
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a32ee4b55bf5a3725c15804904f995f64d8f4228ae18dc42f5572746da45154e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73fed6088b503a2dd65fe806366b3fe4c204281c53f53e1704deb4b759968802
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Médico
 - Diploma
 - Equivalência de Habilitações Literárias
+- Médico
 - Trabalhador Comunitário
 relationships:
 - type: amended_by
@@ -124,16 +124,21 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/199
   label: null
   source: http://data.europa.eu/eli/dir/199
+- type: repealed_by
+  target: pt:dre:604779:por
+  label: "Revogado, nos termos do nº 2 do art. 55.º, pela LEI.9/2009.04.03.2009.AR, DR.IS [44] de 04.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2009-604779
+  date: '2009-03-04'
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:21Z'
   warnings: []
   errors: []
 ---
@@ -202,7 +207,9 @@ Diplomas de médico
 
 3 - À situação prevista no número anterior é aplicável o prazo previsto no artigo 11.º
 
-###### Artigo 5.º — Direitos adquiridos como médico especialista
+Artigo 5.º
+
+Direitos adquiridos como médico especialista
 
 1 - ...
 
@@ -214,7 +221,9 @@ Diplomas de médico
 
 5 - São reconhecidos em Portugal os títulos de médico especialista atribuídos em Espanha aos médicos que tenham concluído uma formação especializada antes de 1 de Janeiro de 1995, que não responda aos requisitos mínimos de formação previstos nos artigos 24.º a 27.º da Directiva n.º [93/16/CEE](https://data.europa.eu/eli/dir/1993/16/oj?locale=pt), desde que esses títulos sejam acompanhados de um certificado emitido pelas autoridades competentes espanholas que comprove que o interessado foi aprovado no exame de competência profissional específica, organizado no âmbito das medidas excepcionais de regularização constantes do Decreto Real n.º 1497/99, destinado a comprovar que o interessado possui um nível de conhecimentos e competências comparável ao dos médicos que possuem os títulos de médico especialista que constam, em relação à Espanha, do n.º 3 do artigo 5.º e do n.º 2 do artigo 7.º da mesma Directiva n.º [93/16/CEE](https://data.europa.eu/eli/dir/1993/16/oj?locale=pt).
 
-###### Artigo 11.º — Prazos
+Artigo 11.º
+
+Prazos
 
 1 - ...
 
@@ -224,7 +233,9 @@ Diplomas de médico
 
 4 - Aos requerentes é assegurado o direito de impugnação perante os tribunais, nos termos da legislação reguladora do contencioso administrativo, sendo igualmente passível de recurso a falta de decisão no prazo previsto no n.º 1.
 
-###### Artigo 14.º — Alterações às denominações e dúvidas sobre diplomas e condições de formação
+Artigo 14.º
+
+Alterações às denominações e dúvidas sobre diplomas e condições de formação
 
 1 - As autoridades nacionais competentes devem notificar a Comissão das disposições legislativas, regulamentares e administrativas que adoptarem em matéria de concessão de diplomas, certificados e outros títulos, no âmbito do presente diploma.
 
@@ -242,26 +253,26 @@ Diplomas de médico
 
 Visto e aprovado em Conselho de Ministros de 13 de Junho de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Luís Filipe Pereira.
 
-**Promulgado em 17 de Julho de 2003.**
+Promulgado em 17 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Julho de 2003.**
+Referendado em 21 de Julho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — (Decreto-Lei n.º 326/87, de 1 de Setembro)
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46164625.pdf)
+[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46164625.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46164625.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46164625.pdf)
 
 ## ANEXO II — (Decreto-Lei n.º 326/87, de 1 de Setembro)
 
 1 - Lista das denominações dos diplomas, certificados e outros títulos de médico especialista
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46164625.pdf)
+[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46164625.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46164625.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46164625.pdf)
 
 2 - Lista das denominações das formações médicas especializadas
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46164625.pdf)
+[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46164625.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46164625.pdf)](https://files.diariodarepublica.pt/1s/2003/08/179a00/46164625.pdf)

@@ -46,40 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1182-1982-380878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T07:04:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81e1d8a780101946a07d59fb1e32f1e5376c63065cc4801b406066c35bf80bbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa955218dc7f410319ca38b0057b87c24802ff9943ff48bfb5d3484ef2b7e175
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:04:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- INEM
+- Pessoal de Enfermagem
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:383022:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:435628:por
+  label: "Alterada a nota (a) do quadro de pessoal anexo ao presente diploma pela Port 807-X1/83.1983.07.30.MFP, DR.IS [174]5ºSupl\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-x1-1983-435628
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:287382:por
+  label: Alterado o quadro de pessoal do Instituto Nacional de Emergência Médica, aprovado pelo Dec Lei 231/81, de 03-ago,
+    e alterado pela presente e pelas Ports 738/83, de 29-jun, 807-X1/83, de 30-jul, e 408/86, de 28-jul, pelo(a) Portaria
+    n.º 147/88 - Diário da República n.º 57/1988, Série I de 1988-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/147-1988-287382
+  date: '1988-03-09'
+- type: amended_by
+  target: pt:dre:609801:por
+  label: Alterado o quadro de pessoal aprovado pelo Dec Lei 234/81, de 03-ago, alterado pela presente e pelas Ports 738/83,
+    de 29-jun, 807-X1/83, de 30-jul, 408/86, de 28-jul, e 147/88, de 09-mar, pelo(a) Portaria n.º 387/89 - Diário da República
+    n.º 126/1989, Série I de 1989-06-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/387-1989-609801
+  date: '1989-06-02'
+- type: amended_by
+  target: pt:dre:599122:por
+  label: Alterado o Quadro de Pessoal do Instituto Nacional de Emergência Médica, na parte relativa às áreas funcionais de
+    biblioteca e documentação e de arquivo, aprovado pelo Dec Lei 234/81, de 03-ago, alterado pela presente e pelas Ports
+    n.ºs 738/83, de 19-jun, 807-X1/83, de 30-jul, 408/86, de 28-jul, 147/88, de 09-mar, e 387/89, de 02-jun, pelo(a) Portaria
+    n.º 1088/92 - Diário da República n.º 274/1992, Série I-B de 1992-11-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1088-1992-599122
+  date: '1992-11-26'
+- type: amended_by
+  target: pt:dre:375976:por
+  label: Alterado o Quadro de Pessoal do Instituto Nacional de Emergência Médica, aprovada pelo Dec Lei 234/81, de 03-ago,
+    alterado pela presente e pelas Ports n.ºs1182/82, de 23-dez, 738/83, de 29-jun, 807-X1/83, de 30-jul, 408/86, de 28-jul,
+    147/88, de 09-mar, 387/89, de 02-jun, e 1088/92, de 26-nov, pelo(a) Portaria n.º 649/93 - Diário da República n.º 157/1993,
+    Série I-B de 1993-07-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/649-1993-375976
+  date: '1993-07-07'
+- type: amended_by
+  target: pt:dre:383022:por
+  label: "Substituido o quadro de pessoal pela Port 295/97.1997.05.05.PCM, DR.IS-B [103]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/295-1997-383022
+  date: '1997-05-05'
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576950:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:04:53Z'
   warnings: []
   errors: []
 ---
@@ -96,4 +152,4 @@ Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Adminis
 
 Quadro de pessoal do Instituto Nacional de Emergência Médica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29500/42034203.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29500/42034203.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29500/42034203.pdf)

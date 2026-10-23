@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/42/2003/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2003-214715
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50fa0dea5dce21041b605e2e826d3312d819863640caac15d80c8814078188ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a308ca7e5bead94f1fa2829d670160be4e30ecade9b327da76b8d7b1b46dd73e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Equipamento de Veículo
 - Equipamento Eléctrico
 - Equipamento Eletrónico
 - Especificação Técnica
-- Instalações Radioelétricas
-- Segurança no Trabalho
 - Homologação
-- Veículo
-- Segurança Rodoviária
-- Equipamento de Veículo
+- Instalações Radioelétricas
 - Regulamento da Homologação dos Tractores Agrícolas e Florestais de Rodas
+- Segurança no Trabalho
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:580330:por
@@ -120,16 +120,23 @@ relationships:
   target: celex:32001L0003
   label: null
   source: http://data.europa.eu/eli/dir/2001/3/oj
+- type: repealed_by
+  target: pt:dre:580330:por
+  label: "Revogado os anexos I, II e III do Regulamento da Homologação dos Tractores Agrícolas e Florestais de Rodas, aprovado\
+    \ pelo Dec Lei 291/2000 de 14-Nov, na redacção do presente diploma, pelo DEC LEI.74/2005.24.03.2005.MAI, DR.IS-A [59]\
+    \ de 24.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2005-580330
+  date: '2005-03-24'
 article_structure:
-  article_count: 7
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 5
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:36Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +181,9 @@ Para efeitos do presente Regulamento, entende-se por:
 
 5) ...
 
-###### Artigo 3.º — Pedido de homologação
+Artigo 3.º
+
+Pedido de homologação
 
 1 - ...
 
@@ -182,7 +191,9 @@ Para efeitos do presente Regulamento, entende-se por:
 
 3 - ...
 
-###### Artigo 4.º — Homologação
+Artigo 4.º
+
+Homologação
 
 1 - Devem ser homologados os modelos de tractor definidos no anexo II, bem como a categoria a que pertencem, que:
 
@@ -210,15 +221,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Janeiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Isaltino Afonso de Morais.
 
-**Promulgado em 17 de Fevereiro de 2003.**
+Promulgado em 17 de Fevereiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Fevereiro de 2003.**
+Referendado em 21 de Fevereiro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I
 
@@ -304,7 +315,7 @@ Mínima: ...
 
 2.2.3.1 - Massa(s) e pneumático(s):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
 
 2.2.4 - Carga útil (ver nota 15): ...
 
@@ -578,7 +589,7 @@ Indicar o método utilizado: no motor/no banco de ensaio das bombas (ver nota 1)
 
 3.3.1.2 - Especificações dos tipos de motores no interior da família:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
 
 3.4 - Parte 4 - Tipo de motor no interior da família - características essenciais do tipo de motor representativo da família (ver nota 20):
 
@@ -756,7 +767,7 @@ Máxima: ... K;
 
 3.6.1 - Potência na tomada de força (TF) (de acordo com o código 1 ou 2 da OCDE ou a norma ISO 789-10), caso exista, à(s) velocidade(s) normalizada(s):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
 
 3.7 - Binário máximo: ... N.m a ... min(elevado a -1) (de acordo com a Directiva n.º [97/68/CE](https://data.europa.eu/eli/dir/1997/68/oj?locale=pt));
 
@@ -808,7 +819,7 @@ Máxima: ... K;
 
 4.6 - Desmultiplicação da transmissão, com e sem caixa de transferência, se aplicável (ver nota 16):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
 
 4.6.1 - Dimensões máximas dos pneumáticos dos eixos motores: ...
 
@@ -1218,7 +1229,7 @@ MODELO B
 
 Ficha de informações parciais para efeitos da homologação CE de um modelo de tractor
 
-# Parte I
+Parte I
 
 O modelo B deve ser preenchido quando estiverem disponíveis um ou mais certificados de homologação concedidos de acordo com directivas específicas. Os números dos certificados de homologação correspondentes devem ser mencionados no quadro da parte III.
 
@@ -1274,7 +1285,7 @@ Além disso, se não existirem certificados de homologação emitidos de acordo 
 
 (nota 1) Classificação de acordo com as definições do anexo II.
 
-# Parte II
+Parte II
 
 Quadro que indica as combinações que são admissíveis nas diferentes versões dos elementos da parte I, em relação aos quais há entradas múltiplas. No que diz respeito a esses elementos, cada uma das entradas múltiplas deve ser assinalada com uma letra, que será utilizada no quadro para indicar que a ou as entradas de um dado elemento são aplicáveis a uma versão específica.
 
@@ -1282,13 +1293,13 @@ Deve ser preenchido um quadro separado para cada variante dentro do modelo.
 
 As entradas múltiplas em relação às quais não há restrições quanto à respectiva combinação dentro de uma variante devem ser enumeradas na coluna encimada por «Todas as versões».
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
 
 Estes dados podem ser apresentados sob outra forma desde que se respeite o objectivo inicial.
 
 Cada variante e cada versão devem ser identificadas por um código numérico ou alfanumérico, que deve ser indicado igualmente no certificado de conformidade (anexo III) do tractor em causa.
 
-# Parte III
+Parte III
 
 Números de homologação decorrentes de directivas específicas
 
@@ -1296,7 +1307,7 @@ Fornecer as informações requeridas no quadro a seguir sobre os elementos (ver 
 
 Para efeitos da homologação CE, todos os certificados de homologação pertinentes (com os respectivos anexos) devem ser incluídos e apresentados às autoridades de homologação:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
 
 Assinatura: ...
 
@@ -1306,7 +1317,9 @@ Data: ...
 
 (nota 1) O fornecimento destes dados é facultativo se figurarem no certificado de homologação da instalação que lhes diz respeito.
 
-## ANEXO II — Capítulo A
+## ANEXO II
+
+### Capítulo A
 
 Definição das categorias e dos modelos de tractores
 
@@ -1366,23 +1379,23 @@ Eixos travados (número).
 
 ### Capítulo B — Lista dos requisitos a satisfazer para efeitos da homologação CE de um modelo de tractor
 
-# Parte I
+Parte I
 
 Lista das directivas específicas
 
 Tendo em conta, eventualmente, a parte e as últimas alterações de cada uma das directivas específicas indicadas a seguir:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
 
-# Parte II
+Parte II
 
 No quadro a seguir, os requisitos técnicos das directivas específicas sobre veículos a motor (na sua última versão em vigor) são aplicáveis em alternativa aos das directivas sobre tractores agrícolas correspondentes
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
 
-## Apêndice n.º 1
+Apêndice n.º 1
 
-# Parte I
+Parte I
 
 Definições dos tractores T4 e condições de aplicação
 
@@ -1394,13 +1407,13 @@ Definições dos tractores T4 e condições de aplicação
 
 (nota 1) De acordo com a norma ISO 789, parte 6.
 
-# Parte II
+Parte II
 
 Aplicabilidade das directivas específicas aos tractores T4
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
 
-## Apêndice n.º 2
+Apêndice n.º 2
 
 Procedimentos a aplicar durante o processo de homologação CE de um modelo de tractor
 
@@ -1438,7 +1451,7 @@ c) Efectuar, ou mandar efectuar, as verificações de instalação pertinentes e
 
 ### Capítulo C — Certificado de homologação CE de um modelo de tractor
 
-# Parte I
+Parte I
 
 Modelo [formato máximo: A4 (210 mm x 297 mm)]
 
@@ -1502,7 +1515,7 @@ Nome(s) e assinatura(s) da(s) pessoa(s) autorizada(s) a assinar certificados de 
 
 (nota 1) Riscar o que não interessa.
 
-# Parte II
+Parte II
 
 Resultados dos ensaios
 
@@ -1552,19 +1565,19 @@ Variante/versão ... ...dB(A) ...dB(A) ...dB(A)
 
 (nota 1) Se aplicável.
 
-## Apêndice n.º 1
+Apêndice n.º 1
 
 Sistema de numeração dos certificados de homologação CE
 
 1 - O número de homologação deve consistir em quatro secções para as homologações de tractores completos e cinco secções para as homologações de sistemas, componentes e unidades técnicas, conforme especificado a seguir. Os componentes e as unidades técnicas são marcados de acordo com as disposições da directiva específica correspondente. Em todos os casos, as secções devem ser separadas por um asterisco.
 
-#### Secção 1 - a letra minúscula «e» seguida do número distintivo do Estado membro que emite a homologação:
+Secção 1 - a letra minúscula «e» seguida do número distintivo do Estado membro que emite a homologação:
 
 1 para a Alemanha; 2 para a França; 3 para a Itália; 4 para os Países Baixos; 5 para a Suécia; 6 para a Bélgica; 9 para a Espanha; 11 para o Reino Unido; 12 para a Áustria; 13 para o Luxemburgo; 17 para a Finlândia; 18 para a Dinamarca; 21 para Portugal; 23 para a Grécia; 24 para a Irlanda.
 
-#### Secção 2 - o número da directiva de base.
+Secção 2 - o número da directiva de base.
 
-#### Secção 3 - o número da última directiva de alteração aplicável à homologação.
+Secção 3 - o número da última directiva de alteração aplicável à homologação.
 
 No caso de homologações de tractores, tal significa a última directiva que altera um artigo (ou artigos) da Directiva n.º [74/150/CEE](https://data.europa.eu/eli/dir/1974/150/oj?locale=pt).
 
@@ -1572,9 +1585,9 @@ No caso de homologações nos termos de directivas específicas, tal significa a
 
 No caso de uma directiva comportar datas de entrada em vigor diferentes que remetem para normas técnicas diferentes, deve-se acrescentar um carácter alfabético para especificar qual o requisito técnico específico nos termos do qual a homologação foi concedida.
 
-#### Secção 4 - um número sequencial de quatro algarismos (eventualmente com zeros iniciais) a identificar o número de homologação de base. A sequência deve começar em 0001 para cada directiva de base.
+Secção 4 - um número sequencial de quatro algarismos (eventualmente com zeros iniciais) a identificar o número de homologação de base. A sequência deve começar em 0001 para cada directiva de base.
 
-#### Secção 5 - um número sequencial de dois algarismos (eventualmente com um zero inicial) a identificar a extensão. A sequência deve começar em 00 para cada número de homologação de base.
+Secção 5 - um número sequencial de dois algarismos (eventualmente com um zero inicial) a identificar a extensão. A sequência deve começar em 00 para cada número de homologação de base.
 
 2 - No caso da homologação de um tractor, a secção 2 deve ser omitida.
 
@@ -1600,7 +1613,7 @@ e 11 * 97/54 * 0004.
 
 ## ANEXO III — Certificado de conformidade CE
 
-# Parte I
+Parte I
 
 Modelo [formato máximo: A4 (210 mm x 297 mm)]
 
@@ -1674,7 +1687,7 @@ Mínima: ...
 
 2.2.3.1 - Massa(s) e pneu(s): ...
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
 
 2.3 - Massas de lastragem (massa total, matéria, número de componentes): ...
 
@@ -1768,7 +1781,7 @@ Para a retaguarda: ...
 
 10.1 - Quadro/cabina (ver nota 1):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf))](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
 
 10.1.3 - Arco:
 
@@ -1776,7 +1789,7 @@ Para a retaguarda: ...
 
 Rebatível/não rebatível (ver nota 1);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf))](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
 
 10.3.2 - Banco(s) para passageiro:
 
@@ -1796,7 +1809,7 @@ Número: ...
 
 12.2 - Ligação mecânica entre o tractor e o reboque:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf))](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/03/060a00/17401756.pdf)
 
 12.3 - Sistema de levantamento hidráulico: engate de três pontos: sim/não (ver nota 1).
 

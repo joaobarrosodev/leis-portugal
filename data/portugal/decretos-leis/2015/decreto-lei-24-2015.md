@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/02600/0071800721.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/24/2015/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2015-66443112
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fc54151c24de431439755157edfbf7c05cd4e83548a964ccc6d163a1ddd9972
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d648b8d18a0594d6265804ff0d4d9eee93908ecfdc5014e4d2c999cec3f0415a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência para o Desenvolvimento e Coesão
-- Reestruturação de Serviços
-- Pessoal Dirigente
+- Comissão de Coordenação e Desenvolvimento Regional
 - Definição de Competências
 - Extinção de Serviços
-- Secretaria Geral
-- Comissão de Coordenação e Desenvolvimento Regional
-- Gestão do Património
 - Gabinete para os Meios de Comunicação Social
+- Gestão de Recursos Humanos
+- Gestão do Património
 - Integração de Serviços
 - Palácio Foz
+- Pessoal Dirigente
 - Presidência do Conselho de Ministros
 - Quadro de Pessoal
-- Gestão de Recursos Humanos
+- Reestruturação de Serviços
+- Secretaria Geral
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
@@ -88,6 +88,28 @@ relationships:
   target: pt:dre:222421857:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114311302:por
+  label: Integrado, a partir de 02.01.2018, no Centro de Competências Especializadas do Estado (JurisAPP) o DIGESTO - Sistema
+    Integrado de Tratamento da Informação Jurídica e da PCMLEX, no âmbito da Secretaria-Geral da Presidência do Conselho de
+    Ministros; e revogadas, também a partir de 02.01.2018, a al. p) do n.º 3 do art. 2.º e, na parte respeitante à gestão
+    do DIGESTO e da PCMLEX, a al. b) do art. 5.º, ambos do Dec Lei 4/2012 de 16-jan, com a redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 149/2017 - Diário da República n.º 234/2017, Série I de 2017-12-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-2017-114311302
+  date: '2017-12-06'
+- type: amended_by
+  target: pt:dre:114706489:por
+  label: Alterado, a partir de 17.02.2018, o art. 5.º do Dec Lei 4/2012, de 16-jan, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 12/2018 - Diário da República n.º 34/2018, Série I de 2018-02-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-2018-114706489
+  date: '2018-02-16'
+- type: amended_by
+  target: pt:dre:120454103:por
+  label: Determinado o exercício pelo Ministro do Planeamento da superintendência e tutela sobre a Agência para o Desenvolvimento
+    e Coesão, I.P., criada pelo Dec Lei 140/2013 de 18-out, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 31/2019 - Diário da República n.º 43/2019, Série I de 2019-03-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2019-120454103
+  date: '2019-03-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/d
   label: null
@@ -128,16 +150,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/49/2012/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/49/2012/08/31/p/dre
+- type: cites
+  target: pt:dre:164417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694049:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:04Z'
   warnings: []
   errors: []
 ---
@@ -256,7 +338,9 @@ t) Proceder à recolha de informação relevante com vista à definição e ou a
 
 u) Assegurar a administração global das instalações do Palácio Foz.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 [...]:
 
@@ -380,15 +464,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de dezembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Anabela Maria Pinto de Miranda Rodrigues - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 2 de fevereiro de 2015.**
+Promulgado em 2 de fevereiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de fevereiro de 2015.**
+Referendado em 3 de fevereiro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -398,4 +482,4 @@ Visto e aprovado em Conselho de Ministros de 4 de dezembro de 2014. - Pedro Pass
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02600/0071800721.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02600/0071800721.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02600/0071800721.pdf)

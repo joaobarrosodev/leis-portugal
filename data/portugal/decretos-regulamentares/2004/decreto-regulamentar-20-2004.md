@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/20/2004/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-2004-270413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:28:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ba972763b89fc6358168fbbf3f99505963e3f1ea0c974b418b14091ac80f378
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c366f0d5f438b72da6948c6c1cde4791e875369028ff61a6f34c3a33ebde57c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:28:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão Directiva
+- Conselho Consultivo
 - Contra-ordenação
 - Definição de Competências
 - Fiscalização
 - Instituto da Conservação da Natureza
-- Conselho Consultivo
 - Orgânica
 - Parque Natural da Serra de São Mamede
 - Zona de Proteção
@@ -119,16 +119,78 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/83
   label: null
   source: http://data.dre.pt/eli/port/83
+- type: cites
+  target: pt:dre:209591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626997:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67198365:por
+  label: Revogados a al. b) do art. 5.º e os arts. 8.º e 9.º pelo(a) Decreto-Lei n.º 78/2015 - Diário da República n.º 92/2015,
+    Série I de 2015-05-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2015-67198365
+  date: '2015-05-13'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:28:54Z'
   warnings: []
   errors: []
 ---
@@ -343,15 +405,15 @@ Nos termos e para os efeitos do n.º 1 do artigo 32.º do [Decreto-Lei n.º 19/9
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Pedro Manuel da Cruz Roseta - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 26 de Abril de 2004.**
+Promulgado em 26 de Abril de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Abril de 2004.**
+Referendado em 27 de Abril de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — (limites do Parque Natural)
 

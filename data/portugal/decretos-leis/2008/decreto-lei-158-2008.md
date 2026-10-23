@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/158/2008/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2008-455123
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f710ee2148eb0f2807bf4db6889d9cb79c36ad3005c07ca641efc1c5e5ca50ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98003d0853f62ea702baf170a00b9f33043454beecbfa454ddccb31401368f2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,28 +69,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Marítimo
-- Proteção dos Animais
-- Madeira.região Autónoma
-- Regulamento CE
 - Açores
+- Madeira.região Autónoma
+- Proteção dos Animais
+- Regulamento CE
 - Taxa
 - Transporte de Animais
+- Transporte Marítimo
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:265/2007
+  label: "Altera os artigos 6.º, 8.º, 14.º e 20.º e o anexo II do Decreto-Lei n.º 265/2007, de 24 de Julho, DR.IS [141]\0\0"
+  source: null
+  date: '2007-07-24'
 - type: cites
   target: celex:32005R0001
   label: null
   source: http://data.europa.eu/eli/reg/2005/1/oj
 article_structure:
-  article_count: 5
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:51Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +126,9 @@ Os artigos 6.º, 8.º, 14.º e 20.º e o anexo ii do Decreto-Lei n.º 265/2007, 
 
 As autorizações referidas nos artigos 3.º, 4.º e 5.º são válidas por um período de cinco anos a contar da data de emissão das mesmas, devendo ser solicitada, 60 dias antes do termo de validade, nova autorização.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -133,7 +140,9 @@ As autorizações referidas nos artigos 3.º, 4.º e 5.º são válidas por um p
 
 5 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -175,7 +184,9 @@ s) O impedimento ou criação de obstáculos aos controlos oficiais efectuados n
 
 2 - ...
 
-###### Artigo 20.º — Taxas
+Artigo 20.º
+
+Taxas
 
 ...
 
@@ -185,7 +196,9 @@ b) Pedido de autorização de transportador marítimo, previsto no capítulo ii,
 
 c) Pedido de certificado de aprovação dos meios de transporte rodoviário para viagens de longo curso, previsto no capítulo iv do anexo iii do regulamento - (euro) 100.
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 ...
 
@@ -193,7 +206,7 @@ Data e hora do carregamento dos animais na exploração de origem: ...
 
 ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15300/0535405355.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15300/0535405355.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15300/0535405355.pdf)
 
 ...»
 
@@ -203,12 +216,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Maio de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Luís Medeiros Vieira - Mário Lino Soares Correia.
 
-**Promulgado em 24 de Julho de 2008.**
+Promulgado em 24 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de Julho de 2008.**
+Referendado em 28 de Julho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/380/1998/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1998-217323
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:02:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 109391c79b79f308ff22eb555eac0e04b5224639508b8b9999cbc5100d877fd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 225b0551dd66351f93fb23011e4ede7dc0d3489bdd5290876d27ca69da50b80f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:02:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,35 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
+- Banca
 - Bilhete de Identidade
-- Modernização Administrativa
 - Carta de Condução
 - Cartório Privativo do Protesto de Letras
 - Certidão
 - Código do Notariado
-- Serviços de Registo e Notariado
 - Conservatória dos Registos Centrais
 - Contrato de Mútuo
 - Definição de Competências
 - Documento Autentico
-- Registos e Notariado
-- Pessoal de Justiça
-- Banca
-- Títulos de Crédito
-- Prazo
 - Estatística
-- Reconhecimento Notarial
 - Inventário
+- Modernização Administrativa
+- Passaporte
+- Pessoal de Justiça
+- Prazo
+- Reconhecimento Notarial
+- Recurso
+- Registos e Notariado
 - Renda Vitalícia
 - SELO Branco
+- Serviços de Registo e Notariado
 - Testamento
-- Passaporte
+- Títulos de Crédito
 relationships:
 - type: amended_by
   target: pt:dre:499550:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:488855:por
+  label: "Alterado o art. 4º do Dec Lei 232/82 de 17-Jun, com a redacção do presente diploma, pelo DEC LEI.5/99.1999.01.07.MJ\
+    \ DR.IS-A [5]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-1999-488855
+  date: '1999-01-07'
+- type: amended_by
+  target: pt:dre:621554:por
+  label: "Alterados os arts. 70º, 71º, 73º a 79º, 92º, 99º e 131º do Código do Notariado aprovado pelo Dec Lei 207/95 de 14-Ago,\
+    \ alterado pelo presente diploma, pelo DEC LEI.273/2001.2001.10.13.MJ, DR.IS-A [238]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2001-621554
+  date: '2001-10-13'
+- type: amended_by
+  target: pt:dre:499550:por
+  label: "Alterado o art. 85º do Código do Notariado, aprovado pelo Dec Lei 207/95, de 14-ago, na redação do presente diploma,\
+    \ pelo DEC LEI.125/2013.30.08.2013.MJ, DR.IS [167] de 30.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2013-499550
+  date: '2013-08-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/207/1995/08/14/p/dre
   label: null
@@ -114,16 +132,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/40/1996/05/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/40/1996/05/07/p/dre
+- type: cites
+  target: pt:dre:145862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621541:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:02:58Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +226,9 @@ Os artigos 21.º, 85.º, 127.º, 155.º, 194.º e 196.º do Código do Notariado
 
 6 - ...
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - ...
 
@@ -196,7 +240,9 @@ c) ...
 
 2 - Quando a lei reguladora da sucessão não for a portuguesa e o notário a não conhecer, a escritura deve ser instruída com documento idóneo comprovativo da referida lei.
 
-###### Artigo 127.º — [...]
+Artigo 127.º
+
+[...]
 
 1 - ...
 
@@ -218,7 +264,9 @@ f) ...
 
 4 - O instrumento de protesto deve ser expedido mediante o preenchimento de impresso de modelo aprovado por despacho do director-geral dos Registos e do Notariado, podendo ser submetido a tratamento informático, mediante despacho da mesma entidade.
 
-###### Artigo 155.º — [...]
+Artigo 155.º
+
+[...]
 
 1 - ...
 
@@ -232,7 +280,9 @@ f) ...
 
 6 - Os abonadores que intervierem em reconhecimentos presenciais devem assiná-los antes do notário.
 
-###### Artigo 194.º — [...]
+Artigo 194.º
+
+[...]
 
 1 - ...
 
@@ -242,7 +292,9 @@ f) ...
 
 4 - (Anterior n.º 5.)
 
-###### Artigo 196.º — [...]
+Artigo 196.º
+
+[...]
 
 1 - ...
 
@@ -268,7 +320,9 @@ Estabelecimento bancário
 
 4 - O duplicado da relação é devolvido ao apresentante, após nele ter sido aposta nota do recebimento do original, e substitui o recibo referido no n.º 1 do artigo 129.º
 
-###### Artigo 129.º-B — Notificações a efectuar pelos estabelecimentos bancários
+Artigo 129.º-B
+
+Notificações a efectuar pelos estabelecimentos bancários
 
 1 - Incumbe ao estabelecimento bancário promover a notificação de quem deva aceitar ou pagar a letra, incluindo todos os responsáveis perante o portador, no dia em que a letra foi apresentada ou no 1.º dia útil imediato.
 
@@ -278,7 +332,9 @@ Estabelecimento bancário
 
 4 - Sempre que tal se justifique, pode ser efectuado registo colectivo das cartas-aviso referidas no n.º 2.
 
-###### Artigo 129.º-C — Urgência
+Artigo 129.º-C
+
+Urgência
 
 Em caso de urgência fundamentada, o instrumento de protesto pode ser lavrado sem subordinação à ordem referida no n.º 1 do artigo 126.º»
 
@@ -298,18 +354,18 @@ Os artigos 4.º e 5.º do [Decreto-Lei n.º 232/82](https://diariodarepublica.pt
 
 5 - A realização de actos nas condições referidas nos n.os 1 e 3 só pode ter lugar após a apreciação dos instrumentos pelo notário ou pelo respectivo substituto, e desde que deles conste o seu visto.
 
-###### Artigo 5.º
+Artigo 5.º
 
 Com excepção de testamentos públicos, escrituras de revogação de testamentos, instrumentos de aprovação, de depósito e de abertura de testamentos cerrados e de testamentos internacionais e dos actos referidos no n.º 1 do artigo 4.º, só podem ser realizados fora do cartório, em cada mês, 5% do total dos actos realizados no mês anterior.»
 
 Visto e aprovado em Conselho de Ministros de 28 de Outubro de 1998. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 16 Novembro de 1998.**
+Promulgado em 16 Novembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Novembro de 1998.**
+Referendado em 19 de Novembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

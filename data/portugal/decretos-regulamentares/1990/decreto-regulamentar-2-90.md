@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/01000/01440159.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,131 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1990-333532
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:17:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f2e27e50c8f2a77b673c5c9e190f0afd3819ec99f1a266bb0b389ec49a52041
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f89469295c57341283995c8403a26e9a8eb74e1dc84fc0f6fd06630e4a6f9877
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:17:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Activo Imobilizado
+- Amortização
+- Código do IRC
+- IRC
 relationships:
 - type: amended_by
   target: pt:dre:489774:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226199:por
+  label: "Alterados os arts. 12º e 14º, pelo DR.24/92.1992.10.09.MF, DR.IS-B [233]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/24-1992-226199
+  date: '1992-10-09'
+- type: amended_by
+  target: pt:dre:294702:por
+  label: "Alterados os arts. 1º, 10º, 12º, 14º, 22º, as tabelas anexas, e aditado o art. 21º-A pelo DR.16/94.1994.07.12.MF,\
+    \ DR.IS-B [159]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/16-1994-294702
+  date: '1994-07-12'
+- type: amended_by
+  target: pt:dre:583042:por
+  label: "Alterada a redacção do art 4º, pela LEI.52-C/96.1996.12.27.AR DR.IS-A [299]3Supl (OE 1997 - Art 30º)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-c-1996-583042
+  date: '1996-12-27'
+- type: amended_by
+  target: pt:dre:216966:por
+  label: "Alterado o art. 12º pelo DR.28/98.1998.11.26.MF, DR.IS-B [274]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/28-1998-216966
+  date: '1998-11-26'
+- type: amended_by
+  target: pt:dre:672378:por
+  label: "Alterado o código 2250 do grupo 3 da divisão I da tabela II anexa, pelo DR.22/99.1999.10.06.MF, DR.IS-B [233]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/22-1999-672378
+  date: '1999-10-06'
+- type: amended_by
+  target: pt:dre:521272:por
+  label: "Alterado o art. 7.º, pelo DEC LEI.221/2001.2001.08.07.MF DR.IS-A [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/221-2001-521272
+  date: '2001-08-07'
+- type: amended_by
+  target: pt:dre:490257:por
+  label: "Alterado o art. 10º, com a redacção que foi conferida pelo DR 16/94 de 12-Jul, pelo DEC LEI.211/2005.07.12.2005.MFAP,\
+    \ DR.IS-A [234] de 07.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2005-490257
+  date: '2005-12-07'
+- type: cites
+  target: pt:dre:139722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680463:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:150284:por
+  label: Rectificada alínea f) do artigo 23.º pela DECL.DD3302.31.01.1990.PCM, DR.IS [26]2ºSupl de 31.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-150284
+  date: '1990-01-30'
+- type: corrected_by
+  target: pt:dre:182463:por
+  label: Rectificado pela DECL.DD3362.1990.04.24.PCM DR.IS [99]2ºSUPL DE 30/ABR/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-182463
+  date: '1990-04-24'
+- type: repealed_by
+  target: pt:dre:489774:por
+  label: "Revogado o presente diploma, a partir de 01.01.2010, rectificado pela Decl DD3302, de 31-Jan 1990 e pela Decl DD3362,\
+    \ de 30-Abr 1990, na redacção do DR 24/92, de 09-Out, do DR 16/94, de 12-Jul, da Lei 52-C/96, de 27-Dez, do DR 28/98,\
+    \ de 26-Nov, do DR 22/99, de 06-Out, do Dec Lei 221/2001, de 07-Ago e do Dec Lei 211/2005, de 07-Dez, pelo DR.25/2009.14.09.2009.MFAP,\
+    \ DR.IS [178] de 14.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/25-2009-489774
+  date: '2009-09-14'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:17:37Z'
   warnings: []
   errors: []
 ---
@@ -436,24 +527,24 @@ Presidência do Conselho de Ministros, 27 de Novembro de 1989.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira.
 
-**Promulgado em 22 de Dezembro de 1989.**
+Promulgado em 22 de Dezembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Dezembro de 1989.**
+Referendado em 29 de Dezembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 TABELA I
 
 Taxas específicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/01000/01440159.pdf))](https://files.diariodarepublica.pt/1s/1990/01/01000/01440159.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/01000/01440159.pdf)
 
 TABELA II
 
 Taxas genéricas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/01000/01440159.pdf))](https://files.diariodarepublica.pt/1s/1990/01/01000/01440159.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/01000/01440159.pdf)

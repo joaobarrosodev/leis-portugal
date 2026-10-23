@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/9/2006/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/9-2006-684267
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T04:56:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88fa332634fb890810fb740dc1ccbc7e992be390d99cb574e2bde50929a24ce3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32b9119386f182fec90fc975813e11ed98a3ecb0d9513c2f07312b6cb94a3beb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:56:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embaixador
 - Áustria
+- Embaixador
 - Nomeação
 - Viena
 relationships:
@@ -74,16 +74,21 @@ relationships:
   target: pt:dre:545015:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545015:por
+  label: "Exonerado pelo DEC.114/2006.23.11.2006.PR, DR.IS [226] de 23.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/114-2006-545015
+  date: '2006-11-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:56:22Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +97,16 @@ validation:
 
 de 13 de Fevereiro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o embaixador Vasco Luís Pereira Bramão Ramos para o cargo de Embaixador de Portugal em Viena.
 
-**Assinado em 27 de Janeiro de 2006.**
+Assinado em 27 de Janeiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Fevereiro de 2006.**
+Referendado em 3 de Fevereiro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa. - O Ministro de Estado e dos Negócios Estrangeiros, Diogo Pinto de Freitas do Amaral.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa. - O Ministro de Estado e dos Negócios Estrangeiros, Diogo Pinto de Freitas do Amaral.

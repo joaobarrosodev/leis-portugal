@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 301/1980, 9º Suplemento, Série I de 1980-12-31
   number: '301'
   series: I
-  supplement: 9º Suplemento
+  supplement: null
   pages: 4244-(159) a 4244-(176)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/30109/01590176.pdf
 entry_into_force_dates: []
@@ -47,40 +47,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1117-1980-226654
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T06:10:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cdb3119dba3f0344b9c54ee91cacb52b09c8788e1b0ea05f757da4e6512494d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebe0969887b349f8c19c077c3f7b6ba7e225eb2e52bac83b8e9a50e57face59b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:10:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CP
+- Preço
+- Tarifa Geral de Transportes
+- Transporte de Mercadorias
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:662928:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:331024:por
+  label: "Alterado o art. 231º bem como os anexos IV e V da Tarifa Geral de Transportes - Parte II «Mercadorias» da CP , alteradas\
+    \ a Tarifa Especial de Detalhe - volumes de urgência, o art. 9º da Tarifa Especial de Detalhe - Volumes de peso até 50\
+    \ kg e o art. 5º da Tarifa Especial de Grandes Contentores, aprovadas pelo pela Port 636/75, de 05-Nov, na redacção do\
+    \ presente diploma, pela PORT.736-C/81.28.08.1981.MFP, DR.IS [197-Supl] de 28.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/736-c-1981-331024
+  date: '1981-08-28'
+- type: amended_by
+  target: pt:dre:242539:por
+  label: "Alterados os anexos IV e V da Tarifa Geral de Transportes - Parte II «Mercadorias» da CP, bem como a Tarifa Especial\
+    \ de Detalhe - volumes de urgência, o art. 9º da Tarifa Especial de Detalhe - Volumes de peso até 50 kg e o art. 5º da\
+    \ Tarifa Especial de Grandes Contentores, aprovadas pelo pela Port 636/75, de 05-Nov, na redacção do presente diploma,\
+    \ pela PORT.1112-A/81.30.12.1981.MFP, DR.IS [299-2ºSupl] de 30.12.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1112-a-1981-242539
+  date: '1981-12-30'
+- type: amended_by
+  target: pt:dre:381726:por
+  label: "Alterados os art.s 145º, 164º, 165º, 182º, 231º e 295º da Tarifa Geral de Transportes dos Caminhos de Ferro Portugueses,\
+    \ E. P., aprovada pela Port 636/75, de 05-Nov, na redacção do presente diploma, pelaPORT.526/84.28.07.1984.MES, DR.IS\
+    \ [174] de 28.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/526-1984-381726
+  date: '1984-07-28'
+- type: amended_by
+  target: pt:dre:662928:por
+  label: "Alterados os arts. 164º e 165º da Tarifa Geral de Transportes, parte II «Mercadorias», aprovada pela Port 636/75,\
+    \ de 05-Nov DG.IS [256], com as alterações constantes do presente diploma, pela PORT.98/87.11.02.1987.MOPTC, DR.IS [35]\
+    \ de 11.02.1987\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/98-1987-662928
+  date: '1987-02-11'
+- type: cites
+  target: pt:dre:295800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403331:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:10:40Z'
   warnings: []
   errors: []
 ---
@@ -353,7 +404,7 @@ De mais de 40 kg até 50 kg ... 105$00
 
 1 - Os preços de transporte por contentor-quilómetro, qualquer que seja a mercadoria legalmente considerada, são os a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30109/01590176.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30109/01590176.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30109/01590176.pdf)
 
 2 - Os mínimos de cobrança por contentor são os seguintes:
 
@@ -365,4 +416,4 @@ Contentores vazios ... 500$00
 
 Ministérios das Finanças e do Plano, do Comércio e Turismo e dos Transportes e Comunicações, 22 de Dezembro de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro do Comércio e Turismo, Basílio Adolfo Mendonça Horta da Franca. - O Ministro dos Transportes e Comunicações, José Carlos Pinto Soromenho Viana Baptista.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30109/01590176.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30109/01590176.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30109/01590176.pdf)

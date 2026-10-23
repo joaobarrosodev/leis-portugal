@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1987-662291
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T07:37:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e521a22f28567abdd5793d08b03c6f957a0be57e3ac336659e6c095408f76552
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c5c62b71ae359ce4796d895510f42db0204538693af119cf7719ef2de0ddb76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:37:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contingentação
+- Importação
+- Milho
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:37:23Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +96,7 @@ Usando da faculdade conferida pelo n.º 2 do referido artigo 269.º do Acto de A
 
 1 - O montante, em toneladas, do contingente anual fixado pelo Regulamento (CEE) n.º [163/87](http://data.europa.eu/eli/reg/1987/163/oj?locale=pt), de 19 de Janeiro de 1987, é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/03/06200/10391039.pdf))](https://files.diariodarepublica.pt/1s/1987/03/06200/10391039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/03/06200/10391039.pdf)
 
 2 - O contingente referido no n.º 1 será repartido em duas parcelas, sendo uma correspondente a 90% do seu montante, destinada a ser distribuída pelos habituais importadores, e outra de 10% desse mesmo contingente, a ser distribuída pelos novos importadores.
 

@@ -46,36 +46,113 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/435-1980-472130
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 388f3c1ca637107a681282e08c4b909e0845250348818d69325551957d3fb1a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93ffca3044c96abe1a10adc8988d2b0d9b4c7476f7d173fe031365326cadfc05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral do Património
+- Integração de Trabalhadores
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+relationships:
+- type: cites
+  target: pt:dre:138836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684670:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:471088:por
+  label: Rectificada pela DECL.DD6948.11.08.1980.PCM, DR.IS [195] de 25.08.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-471088
+  date: '1980-08-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:33Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +167,7 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano
 
 1 - Os quadros da Direcção-Geral do Património do Estado, a que se reportam os Decretos-Leis n.os 563/76, de 17 de Julho, 22728, de 24 de Junho de 1933, 28107, de 23 de Outubro de 1937, 28187, de 17 de Novembro de 1937, 36698, de 29 de Dezembro de 1947, e 37249, de 28 de Dezembro de 1948, passam, até à entrada em vigor do diploma regulamentar da nova Lei Orgânica, a ser os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/17000/18571859.pdf))](https://files.diariodarepublica.pt/1s/1980/07/17000/18571859.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/17000/18571859.pdf)
 
 2 - A transição dos funcionários pertencentes aos quadros dos serviços a que se refere o número antecedente é feita mediante lista ou listas nominativas aprovadas por despacho do Ministro das Finanças e do Plano, visadas ou anotadas pelo Tribunal de Contas, nos termos da lei aplicável, e publicadas no Diário da República.
 
@@ -122,7 +199,7 @@ As restantes categorias serão consideradas no decreto regulamentar nova Lei Org
 
 Mapa elaborado de harmonia com a alínea a) do n.º 21 do [Despacho Normativo n.º 1/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-1980-581856), de 4 de Janeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/17000/18571859.pdf))](https://files.diariodarepublica.pt/1s/1980/07/17000/18571859.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/17000/18571859.pdf)
 
 Indicação dos requisitos de provimento das categorias e carreiras alteradas - alínea b) do n.º 21 do [Despacho Normativo n.º 1/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-1980-581856), de 4 de Janeiro.
 

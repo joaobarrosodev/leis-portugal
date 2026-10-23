@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/11300/0297902990.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/67/2017/06/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70331ad921d55ea8377c73e39b19fa0ea5077963420ef48df2cffb474e3757f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a5277375c2d9c82eb45e3af578dc2218b0625f74fb244be487490e77ae2db93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Circunscrição Florestal
-- Desenvolvimento Rural
-- Ordenamento do Território
-- Plano Director Municipal
 - Definição de Competências
+- Desenvolvimento Rural
+- Exploração Florestal
 - Fiscalização
+- Gestão do Ambiente
 - Instituto da Conservação da Natureza e das Florestas
+- Madeira.região Autónoma
+- Ordenamento do Território
 - Ordenamento Florestal
 - Plano de Gestão Florestal
-- Proteção do Ambiente
-- Gestão do Ambiente
+- Plano Director Municipal
 - Plano Director Regional
-- Prédio Rústico
 - Plano Nacional de Defesa da Floresta contra Incêndios
-- Exploração Florestal
+- Prédio Rústico
 - Produtor
-- Madeira.região Autónoma
+- Proteção do Ambiente
 - Regime Jurídico
 - Sector Florestal
-- Açores
 - ZONA de Intervenção Florestal
 relationships:
 - type: cites
@@ -119,16 +119,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/27/2014/02/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/27/2014/02/18/p/dre
+- type: cites
+  target: pt:dre:146221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572470:por
+  label: null
+  source: null
 article_structure:
-  article_count: 62
+  article_count: 46
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:07Z'
   warnings: []
   errors: []
 ---
@@ -203,7 +235,9 @@ p) [...];
 
 q) 'Zona de intervenção florestal' ou 'ZIF' a área territorial contínua e delimitada, constituída maioritariamente por espaços florestais, submetida a um plano de gestão florestal, e que cumpre o estabelecido nos Planos Municipais de Defesa da Floresta Contra Incêndios, e administrada por uma única entidade.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 [...]:
 
@@ -219,7 +253,9 @@ e) Concretizar territorialmente as orientações constantes na Estratégia Nacio
 
 f) Integrar as diferentes vertentes da política para os espaços florestais, designadamente a certificação da gestão sustentável, conservação da natureza e da biodiversidade, conservação e proteção do solo e dos recursos hídricos, desenvolvimento rural, proteção civil, fiscalidade, especialmente em regiões afetadas por agentes bióticos e abióticos e que necessitem de um processo rápido de recuperação.
 
-###### Artigo 4.º-A — [...]
+Artigo 4.º-A
+
+[...]
 
 [...]:
 
@@ -233,7 +269,9 @@ d) O princípio da gestão dos recursos consiste em elaborar e implementar em ca
 
 e) [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -265,7 +303,9 @@ f) [...].
 
 9 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -273,7 +313,9 @@ f) [...].
 
 3 - O município ou municípios abrangidos pela área territorial da ZIF presta apoio técnico, preferencialmente pelos Gabinetes Técnicos Florestais, se para tal for solicitado.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -293,7 +335,9 @@ f) [...].
 
 9 - [...].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -313,7 +357,9 @@ a) Incumprimento grave e reiterado das normas do PGF, que inviabilize a manuten�
 
 b) [Anterior alínea b) do n.º 5.]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]:
 
@@ -353,13 +399,17 @@ o) [...].
 
 5 - Os documentos previstos no n.º 2 devem ser remetidos ao ICNF, I. P., até ao fim do 1.º semestre do ano seguinte a que se reportam, com exceção do plano anual de atividades que deve ser remetido até 31 de dezembro do ano anterior àquele a que se reporta.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - As entidades gestoras das ZIF devem constituir, no prazo máximo de um ano após a criação da ZIF, um fundo comum destinado a financiar ações geradoras de benefícios comuns e de apoio aos proprietários e outros produtores florestais aderentes.
 
 2 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -371,7 +421,9 @@ o) [...].
 
 5 - [...].
 
-###### Artigo 22.º — Força vinculativa do plano
+Artigo 22.º
+
+Força vinculativa do plano
 
 1 - O PGF é de cumprimento obrigatório, em todo o território da ZIF, devendo ser disponibilizado pela entidade gestora da ZIF, no seu sítio da internet, caso o possua, no sítio da internet dos municípios cuja área territorial seja abrangida pela ZIF e no sítio do ICNF, I. P.
 
@@ -379,7 +431,9 @@ o) [...].
 
 3 - [Revogado].
 
-###### Artigo 23.º — Aprovação do plano
+Artigo 23.º
+
+Aprovação do plano
 
 1 - A aprovação do PGF da ZIF obedece às regras previstas no regime jurídico dos planos de ordenamento, de gestão e de intervenção de âmbito florestal, com as alterações constantes no presente decreto-lei no que respeita aos prazos.
 
@@ -399,7 +453,9 @@ o) [...].
 
 9 - [Revogado].
 
-###### Artigo 24.º — Responsabilidade na execução do plano
+Artigo 24.º
+
+Responsabilidade na execução do plano
 
 1 - A execução do PGF, nomeadamente a operacionalização das ações dele constante, cabe aos proprietários e produtores florestais.
 
@@ -415,19 +471,25 @@ b) [...].
 
 5 - Nas situações em que ocorra intervenção em propriedades de que se desconheça o proprietário ou outro produtor florestal, ou o seu paradeiro, no âmbito da execução do PGF, a entidade gestora da ZIF deve efetuar a recolha e o registo das intervenções silvícolas e dos dados biométricos e manter em separado o respetivo arquivo histórico, obrigando-se à prestação de informação sempre que solicitada pelo ICNF, I. P., e pelos respetivos proprietários ou produtores florestais.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - O financiamento das ações previstas no PGF é assegurado pelos proprietários e produtores florestais aderentes à ZIF, pelo fundo comum e pelos instrumentos públicos de apoio à floresta, de âmbito nacional e comunitário, sem prejuízo de outras fontes financeiras obtidas para o efeito pela entidade gestora da ZIF.
 
 2 - [...].
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - A fiscalização do cumprimento das disposições previstas no presente decreto-lei é da competência do ICNF, I. P., sem prejuízo das restantes entidades com competências inspetivas.
 
 2 - [...].
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...].
 
@@ -447,7 +509,9 @@ f) [...].
 
 3 - [...].
 
-###### Artigo 34.º-A — [...]
+Artigo 34.º-A
+
+[...]
 
 1 - O ICNF, I. P., elabora um manual de procedimentos de apoio à constituição de ZIF, que contém, entre outros elementos, modelos de regulamento interno, de plano de gestão florestal e de normas para a elaboração de peças gráficas.
 
@@ -475,15 +539,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de março de 2017. - António Luís Santos da Costa - Fernando António Portela Rocha de Andrade - José Alberto de Azeredo Ferreira Lopes - Eduardo Arménio do Nascimento Cabrita - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
 
-**Promulgado em 5 de maio de 2017.**
+Promulgado em 5 de maio de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 24 de maio de 2017.**
+Referendado em 24 de maio de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 

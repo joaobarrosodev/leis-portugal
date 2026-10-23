@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/684-1972-686629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:55:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f8d915d4078a2c8c508fa461f44185e7662b5a41ec38802128eb60c96e8fe9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3adf353528fc815c25ee3024323eeb65bf0932f6e198533e1d2e607f2941e075
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:55:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:55:19Z'
   warnings: []
   errors: []
 ---
@@ -86,6 +86,6 @@ de 20 de Novembro
 
 Manda o Governo da República Portuguesa, pelo Ministro das Finanças, com fundamento no n.º 1 e suas alíneas b), c) e d) do artigo 3.º do Decreto-Lei 54/72, de 15 de Fevereiro, efectuar as seguintes transferências de verbas nos Ministérios abaixo designados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/11/27000/16921693.pdf))](https://files.diariodarepublica.pt/1s/1972/11/27000/16921693.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/11/27000/16921693.pdf)
 
 Ministério das Finanças, 13 de Novembro de 1972. - Pelo Ministro das Finanças, Augusto Victor Coelho, Secretário de Estado do Orçamento.

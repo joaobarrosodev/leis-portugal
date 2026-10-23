@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/148/2013/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e4b9e2abfa8bcfb0211fe6f75dc874ff90dd16f3084acca630e6a75857ba1f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90f2f2f8572140913128f19e3f247e9494b002d4f9a3346faf3868cd086fcdb5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,41 +68,54 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CE Países
-- Material Electromagnético
-- Indústria Automóvel
 - Certificado de Conformidade
-- Regulamento de Homologação dos Cintos de Segurança e dos Sistemas de Retenção dos Automóveis
+- Certificado de Qualidade
 - Controlo de Qualidade
+- Equipamento de Veículo
+- Especificação Técnica
+- Indústria Automóvel
+- Livre Circulação de Mercadorias
+- Material Electromagnético
+- Normas de Segurança
+- Poluição
+- Proteção do Ambiente
+- Regulamento da Homologação CE de Modelo de Automóveis e Reboques seus Sistemas Componentes e Unidades Técnicas
 - Regulamento da Homologação de Tractores Agrícolas ou Florestais seus Reboques e Máquinas Intermutaveis Rebocadas e dos Sistemas
   Componentes e Unidades Técnicas
+- Regulamento da Homologação de Veículos a Motor de DUAS e TRES Rodas e Respectivo Indicador de Velocidade
+- Regulamento da Homologação dos Dispositivos de Iluminação e de Sinalização Luminosa dos Automóveis e seus Reboques
+- Regulamento da Homologação dos Tractores Agrícolas e Florestais de Rodas
+- Regulamento de Homologação dos Cintos de Segurança e dos Sistemas de Retenção dos Automóveis
+- Regulamento Referente aos Bancos a sua Fixação e aos Apoios de Cabeça dos Automóveis
 - Regulamento Relativo a Homologação de Dispositivos para Visão Indirecta e de Veículos Equipados com estes Dispositivos
+- Regulamento Relativo a Protecção a Frente contra o Encaixe dos Automóveis
 - Regulamento Relativo aos Reservatorios de Combustível Liquido e a Protecção a Rectaguarda contra o Encaixe dos Automóveis
   e seus Reboques
+- Regulamento Relativo aos Sistemas de Aquecimento dos Automóveis e seus Reboques
 - Regulamento Relativo as Saliencias Exteriores dos Automóveis
-- União Europeia
-- Especificação Técnica
-- Veículo
-- Livre Circulação de Mercadorias
-- Certificado de Qualidade
-- Normas de Segurança
-- Proteção do Ambiente
-- Transporte de Mercadorias
-- Equipamento de Veículo
 - Regulamento Respeitante as Medidas a Tomar contra as Emissões de Gases Poluentes e de Particulas Poluentes Provenientes
   dos Motores Destinados a Propulsão dos Tractores Agrícolas ou Florestais
-- Poluição
-- Regulamento da Homologação CE de Modelo de Automóveis e Reboques seus Sistemas Componentes e Unidades Técnicas
-- Regulamento da Homologação dos Dispositivos de Iluminação e de Sinalização Luminosa dos Automóveis e seus Reboques
-- Regulamento Relativo a Protecção a Frente contra o Encaixe dos Automóveis
-- Regulamento Relativo aos Sistemas de Aquecimento dos Automóveis e seus Reboques
-- Regulamento da Homologação dos Tractores Agrícolas e Florestais de Rodas
-- Regulamento da Homologação de Veículos a Motor de DUAS e TRES Rodas e Respectivo Indicador de Velocidade
-- Regulamento Referente aos Bancos a sua Fixação e aos Apoios de Cabeça dos Automóveis
+- Transporte de Mercadorias
+- União Europeia
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:56819090:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25345582:por
+  label: "Alterados os anexos II e III do Regulamento da Homologação de Tratores Agrícolas ou Florestais, Seus Reboques e\
+    \ Máquinas Intermutáveis Rebocadas, e dos Sistemas Componentes e Unidades Técnicas, aprovado pelo Dec Lei 74/2005, de\
+    \ 24-mar, na redação do presente diploma, pelo DEC LEI.97/2014.26.06.2014.MECO, DR.IS [121] de 26.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2014-25345582
+  date: '2014-06-26'
+- type: amended_by
+  target: pt:dre:56819090:por
+  label: Alterado de acordo com a redação constante do anexo III do presente diploma, os anexos IV do presente diploma, pelo(a)
+    Decreto-Lei n.º 139/2014 - Diário da República n.º 177/2014, Série I de 2014-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-2014-56819090
+  date: '2014-09-15'
 - type: cites
   target: celex:31970L0157
   label: null
@@ -153,14 +166,14 @@ relationships:
   source: http://data.europa.eu/eli/dir
 article_structure:
   article_count: 19
-  section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:09Z'
   warnings: []
   errors: []
 ---
@@ -413,15 +426,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de setembro de 2013. - Pedro Passos Coelho - Luís Álvaro Barbosa de Campos Ferreira - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - Leonardo Bandeira de Melo Mathias.
 
-**Promulgado em 21 de outubro de 2013.**
+Promulgado em 21 de outubro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de outubro de 2013.**
+Referendado em 22 de outubro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -711,7 +724,9 @@ MT para Malta;
 
 [...].
 
-## ANEXO VIII — [...]
+ANEXO VIII
+
+[...]
 
 [...]
 
@@ -875,7 +890,7 @@ A) [...]
 
 47 - Potência fiscal ou número(s) de código nacional(is), se aplicável:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20600/0622306234.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20600/0622306234.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20600/0622306234.pdf)
 
 50 - [...].
 
@@ -885,7 +900,9 @@ A) [...]
 
 B) [...].
 
-## ANEXO V — [...]
+ANEXO V
+
+[...]
 
 [...]
 
@@ -893,7 +910,7 @@ A) [...]
 
 1 - [...].
 
-#### Secção 1 - [...]
+Secção 1 - [...]
 
 1 para a Alemanha;
 
@@ -951,13 +968,13 @@ A) [...]
 
 50 para Malta.
 
-#### Secção 2 - [...].
+Secção 2 - [...].
 
-#### Secção 3 - [...].
+Secção 3 - [...].
 
-#### Secção 4 - [...].
+Secção 4 - [...].
 
-#### Secção 5 - [...].
+Secção 5 - [...].
 
 2 - [...].
 
@@ -1117,7 +1134,7 @@ MT para Malta.
 
 1 - [...].
 
-#### Secção 1 - [...]:
+Secção 1 - [...]:
 
 1 para a Alemanha;
 
@@ -1175,13 +1192,13 @@ CY para Chipre;
 
 MT para Malta.
 
-#### Secção 2 - [...].
+Secção 2 - [...].
 
-#### Secção 3 - [...].
+Secção 3 - [...].
 
-#### Secção 4 - [...].
+Secção 4 - [...].
 
-#### Secção 5 - [...].
+Secção 5 - [...].
 
 2 - [...].
 
@@ -1411,13 +1428,19 @@ MT para Malta.
 
 [...]
 
-### Capítulo I — [...]
+Capítulo I
 
-### Capítulo II — [...]
+[...]
 
-### Capítulo III — [...]
+Capítulo II
 
-# Parte I
+[...]
+
+Capítulo III
+
+[...]
+
+Parte I
 
 [...]
 
@@ -1431,7 +1454,7 @@ MT para Malta.
 
 4 - [...]
 
-# Parte II
+Parte II
 
 [...]
 
@@ -1443,13 +1466,13 @@ MT para Malta.
 
 3 - [...]
 
-## APÊNDICE N.º 1
+APÊNDICE N.º 1
 
 [...]
 
 1 - [...].
 
-#### Secção 1 - [...]:
+Secção 1 - [...]:
 
 1 para a Alemanha;
 
@@ -1507,13 +1530,13 @@ CY para Chipre;
 
 MT para Malta.
 
-#### Secção 2 - [...].
+Secção 2 - [...].
 
-#### Secção 3 - [...].
+Secção 3 - [...].
 
-#### Secção 4 - [...].
+Secção 4 - [...].
 
-#### Secção 5 - [...].
+Secção 5 - [...].
 
 2 - [...].
 
@@ -1525,11 +1548,13 @@ MT para Malta.
 
 6 - [...].
 
-## ANEXO III — [...]
+ANEXO III
 
 [...]
 
-# Parte I
+[...]
+
+Parte I
 
 0 - [...].
 
@@ -1561,7 +1586,7 @@ A - [...]
 
 16 - Potência(s) [ou classe(s) fiscal(is)] (quando aplicável)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20600/0622306234.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20600/0622306234.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20600/0622306234.pdf)
 
 17 - [...].
 
@@ -1579,7 +1604,7 @@ B - [...]
 
 16 - Potência(s) [ou classe(s) fiscal(is)] (quando aplicável)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20600/0622306234.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20600/0622306234.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20600/0622306234.pdf)
 
 17 - [...].
 
@@ -1599,11 +1624,11 @@ C - [...]
 
 16 - Potência(s) [ou classe(s) fiscal(is)] (quando aplicável)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20600/0622306234.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20600/0622306234.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20600/0622306234.pdf)
 
 17 - [...].
 
-# Parte II
+Parte II
 
 0 - [...].
 
@@ -1621,7 +1646,7 @@ A - [...]
 
 16 - Potência(s) [ou classe(s) fiscal(is)] (quando aplicável)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20600/0622306234.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20600/0622306234.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20600/0622306234.pdf)
 
 17 - [...].
 
@@ -1639,7 +1664,7 @@ B - [...]
 
 16 - Potência(s) [ou classe(s) fiscal(is)] (quando aplicável)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20600/0622306234.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20600/0622306234.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20600/0622306234.pdf)
 
 17 - [...]»
 
@@ -1947,7 +1972,7 @@ MT = Malta;
 
 1 - [...]:
 
-#### Secção 1 - [...]:
+Secção 1 - [...]:
 
 1 para a Alemanha;
 
@@ -2005,13 +2030,13 @@ MT = Malta;
 
 50 para Malta.
 
-#### Secção 2 - [...].
+Secção 2 - [...].
 
-#### Secção 3 - [...].
+Secção 3 - [...].
 
-#### Secção 4 - [...].
+Secção 4 - [...].
 
-#### Secção 5 - [...].
+Secção 5 - [...].
 
 2 - [...].
 
@@ -2031,7 +2056,9 @@ MT = Malta;
 
 [...]
 
-## ANEXO VII-A — [...]
+ANEXO VII-A
+
+[...]
 
 [...]
 

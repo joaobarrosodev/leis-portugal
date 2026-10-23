@@ -4,7 +4,7 @@ id: pt:dre:553447:por
 title: Decreto-Lei n.º 60/2012
 short_title: null
 summary: Transpõe a Diretiva n.º 2009/31/CE, do Parlamento Europeu e do Conselho, de 23 de abril, e estabelece o regime jurídico
-  da atividade de armazenamento geológico de dióxido de carbono (CO<sub>2</sub>)
+  da atividade de armazenamento geológico de dióxido de carbono (CO2)
 jurisdiction: portugal
 territory: null
 document_type: decreto-lei
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/60/2012/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2012-553447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fb1f08760ee36a1884be5747a31f9adff8b011ead99dfedc000bbf442db715b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f44c4ccb188b862a30a34e074293628148d647c4238bead8a13664b4b0c8043d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
+- Açores
 - Aproximação das Legislações
-- Qualidade do AR
 - Contra-ordenação
-- Recursos Hídricos
 - Definição de Competências
-- Poluição Atmosférica
-- Saúde Pública
-- Fiscalização
 - Direção Geral de Energia e Geologia
+- Fiscalização
 - Gestão de Empresas
-- Licenciamento
-- Proteção do Ambiente
 - Gestão do Ambiente
+- Licenciamento
+- Madeira.região Autónoma
+- Poluição
+- Poluição Atmosférica
 - Poluição da água
 - Poluição das Costas
 - Poluição Industrial
 - Poluição Marinha
-- Madeira.região Autónoma
-- Poluição
-- Açores
-- Abastecimento de Água
+- Proteção do Ambiente
+- Qualidade do AR
+- Recursos Hídricos
+- Saúde Pública
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:75069303:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25343987:por
+  label: Derrogadas as normas da Lei 58/2005 de 29-dez (com as alterações constantes do presente diploma), com a entrada em
+    vigor da legislação complementar prevista no art. 30.º da LEI.17/2014.10.04.2014.AR, DR.IS [71] de 10.04.2014, no que
+    sejam contrárias ao que está disposto naquele diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/17-2014-25343987
+  date: '2014-04-10'
 - type: cites
   target: celex:31986L0278
   label: null
@@ -141,16 +148,22 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/2006/
   label: null
   source: http://data.europa.eu/eli/dir/2006/
+- type: repealed_by
+  target: pt:dre:499546:por
+  label: "Revogado o Dec Lei 178/2003 de 05-ago, na redação do presente diploma, pelo DEC LEI.127/2013.30.08.2013.MAMAOT,\
+    \ DR.IS [167] de 30.08.2013, nos termos do art. 116º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-2013-499546
+  date: '2013-08-30'
 article_structure:
   article_count: 55
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:44Z'
   warnings: []
   errors: []
 ---
@@ -1185,15 +1198,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de janeiro de 2012. - Pedro Passos Coelho - Paulo de Sacadura Cabral Portas - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 29 de fevereiro de 2012.**
+Promulgado em 29 de fevereiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de março de 2012.**
+Referendado em 5 de março de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 9.º)
 
@@ -1455,11 +1468,11 @@ Para o transporte de fluxos de dióxido de carbono (CO(índice 2)) para efeitos 
 
 2 - O ponto 10 do anexo ii ao Decreto-Lei n.º 69/2000, de 3 de maio, alterado pelo Decreto-Lei n.º 74/2001, de 26 de fevereiro, pelo Decreto-Lei n.º 69/2003, de 10 de abril, pela Lei n.º 12/2004, de 30 de março e pelo Decreto-Lei n.º 197/2005, de 8 de novembro, passa a ter a seguinte redação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/05300/0115301172.pdf))](https://files.diariodarepublica.pt/1s/2012/03/05300/0115301172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/05300/0115301172.pdf)
 
 3 - É aditada uma alínea j) ao ponto 3 do anexo ii ao Decreto-Lei n.º 69/2000, de 3 de maio, alterado pelo Decreto-Lei n.º 69/2003, de 10 de abril, pela Lei n.º 12/2004, de 30 de março, e pelo Decreto-Lei n.º 197/2005, de 8 de novembro, com a seguinte redação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/05300/0115301172.pdf))](https://files.diariodarepublica.pt/1s/2012/03/05300/0115301172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/05300/0115301172.pdf)
 
 ## ANEXO IV — (a que se refere o artigo 49.º)
 

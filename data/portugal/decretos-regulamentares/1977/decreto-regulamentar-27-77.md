@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/11100/10481048.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/27-1977-252267
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T05:56:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8939bf97b682c80077f0d01a8543dfb072be20b8d0444076fc2f6ba985d722e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5037355063c83fd6384e8a5cf87444946c4046933202b98371d2e36fb5907b74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:56:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Denominação de Instituição
+- Escola Preparatória
+- Estabelecimento de Ensino
 relationships:
 - type: amended_by
   target: pt:dre:382059:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:382059:por
+  label: "Revogado pelo DEC LEI.219/79.1979.07.17.MEIC DR.IS [163]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-1979-382059
+  date: '1979-07-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:56:40Z'
   warnings: []
   errors: []
 ---
@@ -92,18 +100,18 @@ Considerando a vantagem de adoptar critério uniforme na designação das escola
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Nos concelhos em que houver uma única escola preparatória, será esta designada pelo nome do concelho.
+Artigo 1.º - 1. Nos concelhos em que houver uma única escola preparatória, será esta designada pelo nome do concelho.
 
 2. Nos concelhos em que houver duas ou mais escolas preparatórias, serão estas designadas pelo nome da freguesia seguido do do concelho.
 
 3. Nas freguesias em que houver duas ou mais escolas preparatórias, serão estas designadas pelo nome da localidade ou zona seguido dos da freguesia e concelho.
 
-###### Art. 2.º A lista nominativa das actuais escolas preparatórias será estabelecida por portaria do Ministro da Educação e Investigação Científica.
+Art. 2.º A lista nominativa das actuais escolas preparatórias será estabelecida por portaria do Ministro da Educação e Investigação Científica.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 3 de Maio de 1977.**
+Promulgado em 3 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/118a00/29792985.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/162/2001/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2001-342616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f9c634806dfa0bad4ff91b778705abc6ac3651d6dfc80ffb17ebd2aa966b7b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b510ab9afbd90e138f0e45eada2377698e02f6391e9e4d843d2efb20b0fff9a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,57 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alcoolismo
-- Crime
 - Código da Estrada
 - Contra-ordenação
-- Fiscalização Rodoviária
-- Segurança Rodoviária
+- Crime
 - Droga
-- Notificação
 - Estacionamento
+- Fiscalização Rodoviária
+- Notificação
 - Responsabilidade Civil
+- Segurança Rodoviária
 - Taxa de Alcoolemia
 relationships:
 - type: amended_by
   target: pt:dre:150757538:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:379879:por
+  label: "Alterado o art. 3º pelo DEC LEI.178-A/2001.2001.06.12 MAI,DR.IS-A[136]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-a-2001-379879
+  date: '2001-06-12'
+- type: amended_by
+  target: pt:dre:456273:por
+  label: "Alterado o art. 169º do Dec Lei 114/94, de 03-Maio, na redacção do presente diploma, pelo DEC LEI.113/2008.01.07.2008.MAI,\
+    \ DR.IS [125] de 01.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-2008-456273
+  date: '2008-07-01'
+- type: amended_by
+  target: pt:dre:608696:por
+  label: "Alterados os artigos 117º, 118º e 162º do Código da Estrada, aprovado pelo Dec Lei 114/94, de 03-Mai, alterado pelo\
+    \ presente diploma, pelo DEC LEI.113/2009.18.05.2009.MOPTC, DR.IS [95] de 18.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-2009-608696
+  date: '2009-05-18'
+- type: amended_by
+  target: pt:dre:344242:por
+  label: "Alterados os arts. 117.º, 118.º, 161.º e 162.º do Código da Estrada, aprovado pelo Dec Lei 114/94, de 03-Maio, na\
+    \ redacção do presente diploma, pela LEI.46/2010.07.09.2010.AR, DR.IS [174] de 07.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/46-2010-344242
+  date: '2010-09-07'
+- type: amended_by
+  target: pt:dre:178550:por
+  label: "Alterado, a partir de 02.11.2012, o art. 130º do Código da Estrada, aprovado pelo Dec Lei 114/94, de 03-maio, na\
+    \ redação do presente diploma, pelo DEC LEI.138/2012.05.07.2012.MEE, DR.IS [129] de 05.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-2012-178550
+  date: '2012-07-05'
+- type: amended_by
+  target: pt:dre:499526:por
+  label: "Dada nova redação aos arts. 1.º, 27.º, 81.º, 84.º, 85.º, 104.º, 146.º, 153.º, 156.º, 164,º 169.º, 170.º e 172.º\
+    \ do Código da Estrada, aprovado pelo Dec Lei 114/94 de 03-mai, alterado pelo presente diploma, pela LEI.72/2013.03.09.2013.AR,\
+    \ DR.IS [169] de 03.09.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/72-2013-499526
+  date: '2013-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
   label: null
@@ -89,16 +125,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/2/1998/01/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/2/1998/01/03/p/dre
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:507028:por
+  label: "Rectificado pela DECL-RECT.13-A/2001.2001.05.24.PCM DR.IS-A [120]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-a-2001-507028
+  date: '2001-05-24'
+- type: repealed_by
+  target: pt:dre:245683:por
+  label: "Revogado pelo DEC LEI.265-A/2001.2001.09.28.MAI,DR.IS-A [226]Supl.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-a-2001-245683
+  date: '2001-09-28'
 article_structure:
-  article_count: 30
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:05Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +233,9 @@ u) ...
 
 v) Zona de estacionamento: local da via pública especialmente destinado, por construção ou sinalização, ao estacionamento.
 
-###### Artigo 27.º — Limites gerais de velocidade instantânea
+Artigo 27.º
+
+Limites gerais de velocidade instantânea
 
 1 - ...
 
@@ -193,7 +249,9 @@ v) Zona de estacionamento: local da via pública especialmente destinado, por co
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 81.º — Condução sob influência de álcool, estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo
+Artigo 81.º
+
+Condução sob influência de álcool, estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo
 
 1 - É proibido conduzir sob influência de álcool, estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo.
 
@@ -215,7 +273,9 @@ c) 60000$00 a 300000$00, se a taxa de álcool for igual ou superior a 1,2 g/l.
 
 5 - Quem recusar submeter-se aos exames estabelecidos no n.º 2 do presente artigo é sancionado com coima de 300000$00, se ao facto não couber sanção mais grave.
 
-###### Artigo 84.º — Proibição de utilização de certos aparelhos
+Artigo 84.º
+
+Proibição de utilização de certos aparelhos
 
 1 - É proibido utilizar, durante a marcha do veículo, qualquer tipo de auscultadores sonoros e de aparelhos radiotelefónicos auriculares, sempre que o uso dos mesmo implique a utilização das mãos.
 
@@ -227,7 +287,9 @@ c) 60000$00 a 300000$00, se a taxa de álcool for igual ou superior a 1,2 g/l.
 
 5 - Quem infringir o disposto no n.º 3 é sancionado com coima de 20000$00 a 100000$00 e com perda de objectos, devendo o agente de fiscalização proceder à sua imediata remoção e apreensão ou, não sendo ela possível, apreender o certificado de matrícula do veículo até à efectiva remoção e apreensão, sendo, neste caso, aplicável o disposto no n.º 4 do artigo 169.º
 
-###### Artigo 85.º — Documentos de que o condutor deve ser portador
+Artigo 85.º
+
+Documentos de que o condutor deve ser portador
 
 1 - ...
 
@@ -245,7 +307,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 104.º — Equiparação
+Artigo 104.º
+
+Equiparação
 
 É equiparado ao trânsito de peões:
 
@@ -253,7 +317,9 @@ a) A condução à mão de velocípedes de duas rodas sem carro atrelado e de ca
 
 b) O trânsito de pessoas utilizando patins, trotinetas ou dispositivos análogos.
 
-###### Artigo 116.º — Inspecções
+Artigo 116.º
+
+Inspecções
 
 1 - ...
 
@@ -261,7 +327,9 @@ b) O trânsito de pessoas utilizando patins, trotinetas ou dispositivos análogo
 
 3 - A realização das inspecções depende do prévio cumprimento das sanções aplicadas ao proprietário ou possuidor efectivo do veículo que se tenha constituído infractor.
 
-###### Artigo 117.º — Obrigatoriedade de matrícula
+Artigo 117.º
+
+Obrigatoriedade de matrícula
 
 1 - ...
 
@@ -275,7 +343,9 @@ b) O trânsito de pessoas utilizando patins, trotinetas ou dispositivos análogo
 
 6 - Quem puser em circulação veículo não matriculado nos termos dos números anteriores é sancionado com coima de 100000$00 a 500000$00, salvo quando se tratar de ciclomotor, tractocarro, tractor ou reboque agrícola ou florestal, em que a coima é de 50000$00 a 250000$00.
 
-###### Artigo 118.º — Certificado de matrícula e chapas de matrícula
+Artigo 118.º
+
+Certificado de matrícula e chapas de matrícula
 
 1 - Por cada veículo matriculado deve ser emitido um certificado de matrícula pela autoridade competente.
 
@@ -297,7 +367,9 @@ b) O trânsito de pessoas utilizando patins, trotinetas ou dispositivos análogo
 
 10 - Quem infringir o disposto no n.º 6 é sancionado com coima de 5000$00 a 25000$00.
 
-###### Artigo 130.º — Caducidade do título
+Artigo 130.º
+
+Caducidade do título
 
 1 - ...
 
@@ -309,11 +381,15 @@ b) O trânsito de pessoas utilizando patins, trotinetas ou dispositivos análogo
 
 5 - ...
 
-###### Artigo 140.º — Determinação da medida da sanção
+Artigo 140.º
+
+Determinação da medida da sanção
 
 A medida da sanção determina-se em função da gravidade da contra-ordenação, da culpa, dos especiais deveres de cuidado que recaem sobre o condutor, designadamente quando este conduza veículos de socorro e emergência, de transporte escolar, ligeiros de transporte público de aluguer, pesados de passageiros ou de mercadorias, ou de transporte de mercadorias perigosas, e da situação económica do infractor, tendo ainda em conta os seus antecedentes relativamente ao cumprimento das leis e regulamentos sobre o trânsito.
 
-###### Artigo 142.º — Suspensão da execução da sanção, caução de boa conduta e deveres
+Artigo 142.º
+
+Suspensão da execução da sanção, caução de boa conduta e deveres
 
 1 - ...
 
@@ -327,7 +403,9 @@ b) Executar tarefas de apoio às autoridades com competência para regular e fis
 
 4 - ...
 
-###### Artigo 146.º — Contra-ordenações graves
+Artigo 146.º
+
+Contra-ordenações graves
 
 ...
 
@@ -357,7 +435,9 @@ m) A condução sob influência do álcool, quando a taxa de álcool no sangue f
 
 n) ...
 
-###### Artigo 151.º — Auto de notícia e de denúncia
+Artigo 151.º
+
+Auto de notícia e de denúncia
 
 1 - Qualquer autoridade ou agente de autoridade que, no exercício das suas funções de fiscalização, presenciar contra-ordenação levanta ou manda levantar auto de notícia que deve mencionar os factos que constituem a infracção, o dia, a hora, o local e as circunstâncias em que foi cometida, o nome e a qualidade da autoridade que a presenciou e tudo o que puder averiguar acerca da identificação dos agentes da infracção e, quando possível, de, pelo menos, uma testemunha que possa depor sobre os factos.
 
@@ -369,7 +449,9 @@ n) ...
 
 5 - ...
 
-###### Artigo 152.º — Responsabilidade do proprietário ou possuidor do veículo
+Artigo 152.º
+
+Responsabilidade do proprietário ou possuidor do veículo
 
 1 - Pelas contra-ordenações praticadas no exercício da condução responde o proprietário, o adquirente com reserva de propriedade, o usufrutuário ou o locatário em regime de locação financeira, de acordo com a situação que conferir a posse efectiva do veículo.
 
@@ -381,7 +463,9 @@ n) ...
 
 5 - O disposto nos n.os 3 e 4 não se aplica quando haja utilização abusiva do veículo.
 
-###### Artigo 153.º — Cumprimento voluntário
+Artigo 153.º
+
+Cumprimento voluntário
 
 1 - É admitido o pagamento voluntário da coima, pelo montante mínimo, nos termos e com os efeitos estabelecidos nos números seguintes.
 
@@ -393,7 +477,9 @@ n) ...
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 155.º — Comunicação da infracção
+Artigo 155.º
+
+Comunicação da infracção
 
 1 - Após o levantamento do auto de notícia, quem, nos termos do disposto nos n.os 1 e 2 do artigo 152.º, for considerado infractor deve ser notificado:
 
@@ -413,7 +499,9 @@ f) Dos termos em que pode ilidir a presunção, no caso de ser autor presumido, 
 
 3 - O infractor que proceda ao pagamento voluntário da coima não fica impedido de apresentar a sua defesa, restrita à gravidade da infracção e à sanção de inibição de conduzir aplicável.
 
-###### Artigo 156.º — Notificações
+Artigo 156.º
+
+Notificações
 
 1 - Constitui formalidade essencial da notificação a entrega ou envio pelo correio ao infractor de um duplicado do auto de notícia que contenha os elementos indicados no n.º 1 do artigo anterior.
 
@@ -433,9 +521,13 @@ b) O que consta do registo a que se refere o n.º 8 do artigo 122.º, no caso pr
 
 7 - Nos casos do n.º 4, a notificação considera-se feita no 3.º dia posterior ao do envio da carta, ou no 1.º dia útil seguinte a esse, quando o não seja.
 
-#### SECÇÃO II — Procedimento para a fiscalização da condução sob influência de álcool, substâncias estupefacientes ou psicotrópicas
+SECÇÃO II
 
-###### Artigo 158.º — Princípios gerais
+Procedimento para a fiscalização da condução sob influência de álcool, substâncias estupefacientes ou psicotrópicas
+
+Artigo 158.º
+
+Princípios gerais
 
 1 - Devem submeter-se aos exames previstos no presente Código e em legislação complementar para detecção de álcool, estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo no sangue:
 
@@ -447,7 +539,9 @@ b) Os peões, sempre que sejam intervenientes em acidentes de trânsito.
 
 3 - ...
 
-###### Artigo 159.º — Fiscalização da condução sob influência de álcool
+Artigo 159.º
+
+Fiscalização da condução sob influência de álcool
 
 1 - ...
 
@@ -465,7 +559,9 @@ b) ...
 
 6 - ...
 
-###### Artigo 160.º — Impedimento de conduzir
+Artigo 160.º
+
+Impedimento de conduzir
 
 1 - ...
 
@@ -473,7 +569,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 161.º — Imobilização de veículo
+Artigo 161.º
+
+Imobilização de veículo
 
 1 - Para garantir o cumprimento do disposto nos n.os 1 e 2 do artigo anterior e no artigo 164.º deve o veículo ser imobilizado ou removido para parque ou local apropriado, providenciando-se, sempre que tal se mostre indispensável, o encaminhamento dos ocupantes do veículo.
 
@@ -481,7 +579,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 162.º — Exames em caso de acidente
+Artigo 162.º
+
+Exames em caso de acidente
 
 1 - Os condutores e peões que intervenham em acidente de trânsito devem, sempre que o seu estado de saúde o permitir, ser submetidos a exame de pesquisa de álcool no ar expirado nos termos do artigo 159.º
 
@@ -491,7 +591,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 164.º — Fiscalização da condução sob influência de estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo
+Artigo 164.º
+
+Fiscalização da condução sob influência de estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo
 
 1 - Aos condutores que devam ser submetidos aos exames de detecção de estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo, nos termos da alínea a) do n.º 1 do artigo 158.º, é correspondentemente aplicável, com as necessárias adaptações, o disposto nos artigos 160.º e 161.º
 
@@ -501,7 +603,9 @@ b) ...
 
 4 - Para os efeitos previstos nos n.os 2 e 3 aplicam-se, com as necessárias adaptações, os artigos 162.º, n.os 3 e 4, e 163.º
 
-###### Artigo 168.º — Apreensão do certificado de matrícula
+Artigo 168.º
+
+Apreensão do certificado de matrícula
 
 1 - O certificado de matrícula deve ser apreendido pelas autoridades de investigação criminal ou de fiscalização de trânsito ou seus agentes quando:
 
@@ -517,7 +621,9 @@ b) ...
 
 6 - Sem prejuízo do disposto nos n.os 3 a 5, quem conduzir veículo cujo certificado de matrícula tenha sido apreendido é sancionado com coima de 50000$00 a 250000$00, quando se trate de automóvel, motociclo ou reboque, e de 30000$00 a 150000$00, quando se trate de outro veículo a motor.
 
-###### Artigo 169.º — Apreensão de veículos
+Artigo 169.º
+
+Apreensão de veículos
 
 1 - O veículo deve ser apreendido pelas autoridades de investigação criminal ou de fiscalização de trânsito ou seus agentes quando:
 
@@ -545,9 +651,13 @@ f) ...
 
 7 - ...
 
-#### SECÇÃO V — Abandono, remoção e bloqueamento de veículos
+SECÇÃO V
 
-###### Artigo 170.º — Estacionamento abusivo
+Abandono, remoção e bloqueamento de veículos
+
+Artigo 170.º
+
+Estacionamento abusivo
 
 Considera-se estacionamento abusivo:
 
@@ -563,7 +673,9 @@ e) O de veículos agrícolas, máquinas industriais, reboques e semi-reboques n�
 
 f) [Anterior alínea e).]
 
-###### Artigo 172.º — Remoção e bloqueamento
+Artigo 172.º
+
+Remoção e bloqueamento
 
 1 - Podem ser removidos os veículos que se encontrem:
 
@@ -623,12 +735,12 @@ O presente diploma entra em vigor 30 dias após a sua publicação no Diário da
 
 Visto e aprovado em Conselho de Ministros de 12 de Abril de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Rui Carlos Pereira - Eduardo Arménio do Nascimento Cabrita.
 
-**Promulgado em 3 de Maio de 2001.**
+Promulgado em 3 de Maio de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Maio de 2001.**
+Referendado em 10 de Maio de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

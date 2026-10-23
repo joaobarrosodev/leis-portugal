@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/232/2006/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2006-545388
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2bd7d23add913a02f914d623e8dc6ecf9c85e5d7262f25be59e9a4b4adddf54e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a983f764839c42ab403d28605f0430ac6a3e4ffaa6a47e83bedbe9df7062fecd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Programa Polis
-- Ordenamento do Território
-- Renovação Urbana
 - Expropriação
 - Fiscalização
 - Medidas Preventivas
-- Proteção do Ambiente
+- Ordenamento do Território
 - Política de Solos
+- Programa Polis
+- Proteção do Ambiente
+- Renovação Urbana
 - Urbanismo
 - Viseu
 relationships:
@@ -81,6 +81,13 @@ relationships:
   target: pt:dre:602008:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:602008:por
+  label: "Prorrogada pelo prazo de um ano, a vigência das medidas preventivas aplicáveis à área abrangida pela planta relativa\
+    \ à zona de intervenção de Viseu, previstas no Dec Lei 119/2000, de 04-Jul, na redacção do presente diploma, pela RES.21/2009.24.02.2009.PCM,\
+    \ DR.IS [38] de 24.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/21-2009-602008
+  date: '2009-02-24'
 - type: cites
   target: eli:http://data.dre.p
   label: null
@@ -121,16 +128,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/26/2000/05/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/26/2000/05/15/p/dre
+- type: cites
+  target: pt:dre:245331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611561:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:08Z'
   warnings: []
   errors: []
 ---
@@ -157,14 +212,14 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 21 de Setembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - João Manuel Machado Ferrão.
 
-**Promulgado em 25 de Outubro de 2006.**
+Promulgado em 25 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 27 de Outubro de 2006.**
+Referendado em 27 de Outubro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/23000/81288129.pdf))](https://files.diariodarepublica.pt/1s/2006/11/23000/81288129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/23000/81288129.pdf)

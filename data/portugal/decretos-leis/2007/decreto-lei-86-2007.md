@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06300/18781879.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/86/2007/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2007-520442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ed868713d99c7be3dd866f81786b8bbbaedc53a709717323a59038ed98a8f97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 744bfb950ef2085f5e3ba1e9024193ad28943311c697f205d3953989c2fedab6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
 subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
-- Gestão Financeira
 - Definição de Competências
-- Instituto de Gestão do Crédito Público
 - Dívida Pública
 - Estatuto
 - Gestão
 - Gestão do Património
+- Gestão Financeira
+- Instituto de Gestão do Crédito Público
 - Ministro das Finanças
 - Tutela
 relationships:
@@ -82,6 +82,18 @@ relationships:
   target: pt:dre:174556:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:636406:por
+  label: "Alterados os artigos 4.º, 5.º e 6.º do Decreto-Lei n.º 160/96, de 4 de Setembro, na redacção do presente diploma,\
+    \ pelo DEC LEI.273/2007.30.07.2007.MFAP, DR.IS [145] de 30.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2007-636406
+  date: '2007-07-30'
+- type: amended_by
+  target: pt:dre:689576:por
+  label: "Alterado o art. 6.º dos Estatutos do Instituto de Gestão do Crédito Público, I. P., aprovados pelo Dec Lei 160/96,\
+    \ de 04-Set, na redacção do presente diploma, pelo DEC LEI.69-A/2009.24.03.2009.MFAP, DR.IS [58-Supl] de 24.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-a-2009-689576
+  date: '2009-03-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/160/1996/09/04/p/dre
   label: null
@@ -102,16 +114,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/455/1999/11/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/455/1999/11/05/p/dre
+- type: cites
+  target: pt:dre:229486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693818:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:638568:por
+  label: "Rectificado pela DECL-RECT.46/2007.23.05.2007.PCM, DR.IS [101] de 25.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/46-2007-638568
+  date: '2007-05-23'
+- type: repealed_by
+  target: pt:dre:174556:por
+  label: "Revogado, a partir de 01.09.2012, o Dec Lei 160/96, de 04-set, na redação do presente diploma, do Dec Lei 28/98,\
+    \ de 11-fev, da Lei 87-B/98, de 31-dez, dos Dec Lei 2/99, de 04-jan, 455/99, de 05-nov, 273/2007, de 30-jul e 69-A/2009,\
+    \ de 24-mar e transformado o Instituto de Gestão da Tesouraria e do Crédito Público, I. P., na Agência de Gestão da Tesouraria\
+    \ e da Dívida Pública - IGCP, E. P. E., e aprovados os respetivos estatutos, pelo DEC LEI.200/2012.27.08.2012.MF, DR.IS\
+    \ [165] de 27.08.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-2012-174556
+  date: '2012-08-27'
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:32Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +192,9 @@ Missão
 
 2 - O IGCP, I. P., pode ainda desenvolver, a título acessório do seu objecto principal, actividades com este conexas, nomeadamente nos domínios da consultadoria e da assistência técnicas, da gestão de dívidas de entidades do sector público administrativo e da gestão de activos destas entidades constituídos por títulos de dívida pública.
 
-###### Artigo 5.º — Atribuições principais
+Artigo 5.º
+
+Atribuições principais
 
 1 - São atribuições do IGCP, I. P:
 
@@ -170,7 +218,9 @@ g) [Anterior alínea f).]
 
 4 - Na gestão das disponibilidades da Tesouraria do Estado, o IGCP, I. P., tem como objectivo primordial a minimização do volume da dívida pública directa do Estado e dos respectivos encargos, garantindo, subsidiariamente, a eficiente remuneração dos excedentes.
 
-###### Artigo 6.º — Outras atribuições
+Artigo 6.º
+
+Outras atribuições
 
 1 - São ainda atribuições do IGCP, I. P.:
 
@@ -220,12 +270,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 8 de Março de 2007.**
+Promulgado em 8 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 9 de Março de 2007.**
+Referendado em 9 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

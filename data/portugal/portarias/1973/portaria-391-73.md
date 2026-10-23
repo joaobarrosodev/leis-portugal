@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/391-1973-422834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T04:05:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c146bf38561c8e8a281ddebea6dab6a79d5d0b6e41403140de8c8b178e1a7dc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ed5ba39cd99db9e54f31038938f8bab98a7d68da93fefe7840ce00a1383ed63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:05:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,36 @@ relationships:
   target: pt:dre:363143:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:252002:por
+  label: Determinado , no sentido clarificar, que os arts. 1.º, 39.º, 40.º, 41.º, 52.º, 80.º, 129.º, 130.º, 132.º e 136.º,
+    § 3.º do art. 187.º, § único do art. 192.º e § 2.º do art. 246.º do Regulamento da Inscrição Marítima, Matrícula e Lotações
+    dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo Dec Lei 45969, de 15-out 1964, na redação do presente diploma,
+    pelo(a) Portaria n.º 283/77 - Diário da República n.º 118/1977, Série I de 1977-05-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/283-1977-252002
+  date: '1977-05-21'
+- type: cites
+  target: pt:dre:147454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635264:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:05:34Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +123,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 1. Os artigos 1.º, 2.º, 3.º, 34.º, 35.º, 36.º, 37.º, 38.º, 39.º, 40.º, 41.º, 52.º, 74.º, 76.º, 77.º, 78.º, 80.º, 129.º, 130.º, 132.º, 136.º, o § 3.º do artigo 187.º, o § único do artigo 192.º e o § 2.º do artigo 246.º do Regulamento de Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca, aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, são substituídos pelos seguintes:
 
-###### Artigo 1.º Tomam a designação genérica de marítimos os indivíduos de ambos os sexos que exerçam qualquer das profissões sujeitas à jurisdição das autoridades marítimas e para os quais, nos termos deste diploma, é exigida a inscrição marítima.
+Artigo 1.º Tomam a designação genérica de marítimos os indivíduos de ambos os sexos que exerçam qualquer das profissões sujeitas à jurisdição das autoridades marítimas e para os quais, nos termos deste diploma, é exigida a inscrição marítima.
 
-###### Art. 2.º Os marítimos dividem-se em dois grupos:
+Art. 2.º Os marítimos dividem-se em dois grupos:
 
 a) Tripulação;
 
@@ -115,7 +135,7 @@ b) Auxiliar.
 
 § 2.º O grupo auxiliar é constituído pelos indivíduos que se empreguem em actividades ligadas à vida do mar, mas não se destinam a tripulantes de quaisquer embarcações.
 
-###### Art. 3.º O grupo tripulação divide-se nas seguintes classes:
+Art. 3.º O grupo tripulação divide-se nas seguintes classes:
 
 a) Oficiais;
 
@@ -267,7 +287,7 @@ c) Marinhagem.
 
 ...
 
-###### Art. 34.º Ao capitão da marinha mercante compete o comando de embarcações da marinha mercante de qualquer tonelagem.
+Art. 34.º Ao capitão da marinha mercante compete o comando de embarcações da marinha mercante de qualquer tonelagem.
 
 § 1.º A categoria de capitão da marinha mercante será atribuída ao piloto de 1.ª classe que prove ter:
 
@@ -277,7 +297,7 @@ b) 3600 horas de navegação como primeiro-piloto, das quais, pelo menos, 1200 c
 
 § 2.º Os oficiais de pilotagem que em 1 de Julho de 1972 possuíam a categoria de piloto de 1.ª classe não terão acesso à categoria de capitão da marinha mercante enquanto não provarem ter o curso complementar de pilotagem da Escola Náutica.
 
-###### Art. 35.º Ao capitão pescador compete o comando de embarcações de pesca de qualquer tonelagem.
+Art. 35.º Ao capitão pescador compete o comando de embarcações de pesca de qualquer tonelagem.
 
 § 1.º A categoria de capitão pescador poderá ser atribuída a pilotos que possuam carta há mais de oito anos e provem que fizeram, com boas informações, em embarcações de pesca, depois da obtenção da primeira carta:
 
@@ -287,7 +307,7 @@ b) Quatro anos de embarque e 5400 horas de navegação.
 
 § 2.º As carta de capitão pescador obtidas ao abrigo de lei anterior deixam de estar restringidas ao tipo de pesca nelas averbado.
 
-###### Art. 36.º Ao piloto de 1.ª classe compete exercer as funções de:
+Art. 36.º Ao piloto de 1.ª classe compete exercer as funções de:
 
 a) Imediato ou primeiro-piloto em embarcações de qualquer tonelagem;
 
@@ -301,7 +321,7 @@ b) Dois anos de embarque com a categoria de piloto de 2.ª classe; e
 
 c) 2700 horas de navegação como segundo-piloto.
 
-###### Art. 37.º Ao piloto de 2.ª classe compete exercer as funções de:
+Art. 37.º Ao piloto de 2.ª classe compete exercer as funções de:
 
 a) Segundo-piloto em embarcações de qualquer tonelagem;
 
@@ -313,7 +333,7 @@ d) Comandante de embarcações com arqueação bruta inferior a 600 t, desde que
 
 § único. A categoria de piloto de 2.ª classe será atribuída ao piloto de 3.ª classe que prove ter dois anos de embarque e 2700 horas de navegação com a categoria de piloto de 3.ª classe.
 
-###### Art. 38.º Ao piloto de 3.ª classe compete exercer as funções de:
+Art. 38.º Ao piloto de 3.ª classe compete exercer as funções de:
 
 a) Terceiro-piloto em embarcações de qualquer tonelagem;
 
@@ -329,25 +349,25 @@ a) Um ano de embarque e 5500 horas de navegação;
 
 b) Aptidão, capacidade e interesse profissional comprovados por documento passado pelo comandante.
 
-###### Art. 39.º Os praticantes de piloto embarcam extralotação para preenchimento das condições de acesso à categoria superior e desempenham a bordo os serviços compatíveis com a sua categoria que lhes forem ordenados pelo comandante.
+Art. 39.º Os praticantes de piloto embarcam extralotação para preenchimento das condições de acesso à categoria superior e desempenham a bordo os serviços compatíveis com a sua categoria que lhes forem ordenados pelo comandante.
 
 § único. A categoria de praticante de piloto será atribuída ao indivíduo que prove estar habilitado com o curso geral de pilotagem da Escola Náutica.
 
-###### Art. 40.º O oficial de pilotagem investido em funções de comando terá a designação genérica de comandante e é o responsável pelo governo e expedição da embarcação e, nesta qualidade e na de mandatário do armador, é a principal autoridade a bordo.
+Art. 40.º O oficial de pilotagem investido em funções de comando terá a designação genérica de comandante e é o responsável pelo governo e expedição da embarcação e, nesta qualidade e na de mandatário do armador, é a principal autoridade a bordo.
 
 § único. Só oficiais com mais de 4200 horas de navegação em embarcações à vela, ou à vela com motor auxiliar, poderão exercer o comando dessas embarcações.
 
-###### Art. 41.º O oficial de pilotagem investido em funções de imediato terá a designação genérica de imediato.
+Art. 41.º O oficial de pilotagem investido em funções de imediato terá a designação genérica de imediato.
 
 § único. Os oficiais com mais de 4200 horas de navegação em embarcações à vela, ou à vela com motor auxiliar, terão preferência na matrícula como imediatos ou pilotos nas mesmas embarcações.
 
 ...
 
-###### Art. 52.º A categoria de escriturário conferente da marinha mercante poderá ser atribuída ao indivíduo que não tenha mais de 40 anos de idade e seja requisitado pelo armador que o deseje investir nessas funções.
+Art. 52.º A categoria de escriturário conferente da marinha mercante poderá ser atribuída ao indivíduo que não tenha mais de 40 anos de idade e seja requisitado pelo armador que o deseje investir nessas funções.
 
 ...
 
-###### Art. 74.º Ao maquinista-chefe compete a chefia das instalações de máquinas de embarcações da marinha mercante de qualquer potência.
+Art. 74.º Ao maquinista-chefe compete a chefia das instalações de máquinas de embarcações da marinha mercante de qualquer potência.
 
 § 1.º A categoria de maquinista-chefe será atribuída ao maquinista de 1.ª classe que prove ter:
 
@@ -367,7 +387,7 @@ b) 1000 horas de navegação.
 
 ...
 
-###### Art. 76.º Ao maquinista de 1.ª classe compete:
+Art. 76.º Ao maquinista de 1.ª classe compete:
 
 a) Exercer as funções de primeiro-maquinista em embarcações com máquinas propulsoras de qualquer potência;
 
@@ -391,7 +411,7 @@ a) Um ano de embarque;
 
 b) 1000 horas de navegação.
 
-###### Art. 77.º Ao maquinista de 2.ª classe compete:
+Art. 77.º Ao maquinista de 2.ª classe compete:
 
 a) Exercer as funções de segundo-maquinista em embarcações com máquinas propulsoras de qualquer potência;
 
@@ -405,7 +425,7 @@ a) Dois anos de embarque com a categoria de maquinista de 3.ª classe;
 
 b) 2700 horas de navegação como terceiro-maquinista.
 
-###### Art. 78.º Ao maquinista de 3.ª classe compete exercer as funções de terceiro-maquinista em embarcações com máquinas propulsoras de qualquer potência.
+Art. 78.º Ao maquinista de 3.ª classe compete exercer as funções de terceiro-maquinista em embarcações com máquinas propulsoras de qualquer potência.
 
 § único. A categoria de maquinista de 3.ª classe será atribuída ao praticante de máquinas que prove ter:
 
@@ -415,13 +435,13 @@ b) Aptidão, capacidade e interesse profissional comprovados por documento passa
 
 ...
 
-###### Art. 80.º Os praticantes de máquinas embarcam extralotação para preenchimento das condições de acesso à categoria superior e desempenham a bordo os serviços compatíveis com a sua categoria que lhes forem ordenados pelo chefe de máquinas.
+Art. 80.º Os praticantes de máquinas embarcam extralotação para preenchimento das condições de acesso à categoria superior e desempenham a bordo os serviços compatíveis com a sua categoria que lhes forem ordenados pelo chefe de máquinas.
 
 § único. A categoria de praticante de máquinas será atribuída ao indivíduo que prove estar habilitado com o curso geral de máquinas marítimas da Escola Náutica.
 
 ...
 
-###### Art. 129.º Para a contagem dos anos de embarque e das horas de navegação exigidos na obtenção da carta em cada categoria, os tirocínios do oficial serão registados num mapa individual de tirocínios, de modelo anexo a este diploma, que será preenchido pelo respectivo chefe de serviço, confirmado pelo comandante e visado pela capitania ou autoridade consular a que for presente o diário náutico ou da máquina da embarcação, e enviado pelos armadores, em 1 de Janeiro, 1 de Abril, 1 de Julho, 1 de Outubro, ou sempre que o interessado o solicite, à Direcção da Marinha Mercante para registo e passagem da competente carta.
+Art. 129.º Para a contagem dos anos de embarque e das horas de navegação exigidos na obtenção da carta em cada categoria, os tirocínios do oficial serão registados num mapa individual de tirocínios, de modelo anexo a este diploma, que será preenchido pelo respectivo chefe de serviço, confirmado pelo comandante e visado pela capitania ou autoridade consular a que for presente o diário náutico ou da máquina da embarcação, e enviado pelos armadores, em 1 de Janeiro, 1 de Abril, 1 de Julho, 1 de Outubro, ou sempre que o interessado o solicite, à Direcção da Marinha Mercante para registo e passagem da competente carta.
 
 § 1.º Como tempo de navegação apenas é contado o que for realizado no mar e aquele que, efectuado dentro de barras, rios ou portos fechados, corresponda a navegação prelimiar ou complementar da navegação no mar.
 
@@ -431,11 +451,11 @@ b) Aptidão, capacidade e interesse profissional comprovados por documento passa
 
 § 4.º Os tirocínios poderão ser feitos no desempenho de funções de categoria superior.
 
-###### Art. 130.º Será concedida a categoria imediatamente superior aos oficiais que a requererem e comprovarem que, durante a vigência de lei anterior, satisfizeram às condições nela estabelecidas para acesso a essa categoria.
+Art. 130.º Será concedida a categoria imediatamente superior aos oficiais que a requererem e comprovarem que, durante a vigência de lei anterior, satisfizeram às condições nela estabelecidas para acesso a essa categoria.
 
 ...
 
-###### Art. 132.º Como tempo de embarque deve considerar-se todo o tempo decorrido desde a data da inclusão do tripulante no rol de tripulação ou de matrícula, de uma embarcação, até à data do respectivo bilhete de desembarque.
+Art. 132.º Como tempo de embarque deve considerar-se todo o tempo decorrido desde a data da inclusão do tripulante no rol de tripulação ou de matrícula, de uma embarcação, até à data do respectivo bilhete de desembarque.
 
 § 1.º Quando o marítimo embarque para o exercício de funções de categoria inferior à que possui, não contará tirocínio para efeito de acesso.
 
@@ -443,11 +463,11 @@ b) Aptidão, capacidade e interesse profissional comprovados por documento passa
 
 ...
 
-###### Art. 136.º A categoria de auxiliar de artes de pesca fixas e móveis será atribuída a todo o indivíduo que se julgue necessário agregar à matrícula de qualquer arte de pesca e que, pelas suas funções, não deva ser incluído em qualquer das categorias do grupo «tripulação».
+Art. 136.º A categoria de auxiliar de artes de pesca fixas e móveis será atribuída a todo o indivíduo que se julgue necessário agregar à matrícula de qualquer arte de pesca e que, pelas suas funções, não deva ser incluído em qualquer das categorias do grupo «tripulação».
 
 ...
 
-###### Art. 187.º...
+Art. 187.º...
 
 ...
 
@@ -455,13 +475,13 @@ b) Aptidão, capacidade e interesse profissional comprovados por documento passa
 
 ...
 
-###### Art. 192.º ...
+Art. 192.º ...
 
 § único. A inclusão do comandante no rol de tripulação tem por fim individualizar, por um lado, a qualidade de comando e, por outro, a qualidade de representante legal do armador.
 
 ...
 
-###### Art. 246.º ...
+Art. 246.º ...
 
 ...
 
@@ -469,11 +489,11 @@ b) Aptidão, capacidade e interesse profissional comprovados por documento passa
 
 2. O título IV, o capítulo I e a secção I do mesmo capítulo do referido Regulamento terão as seguintes designações:
 
-## Título IV «Das categorias do pessoal».
+Título IV «Das categorias do pessoal».
 
-### Capítulo I «Do pessoal do convés».
+Capítulo I «Do pessoal do convés».
 
-#### Secção I «Dos oficiais de pilotagem».
+Secção I «Dos oficiais de pilotagem».
 
 3. São suprimidos ao mesmo Regulamento de Inscrição Marítima os artigos 34.º, 73.º, 75.º e 79.º
 
@@ -487,4 +507,4 @@ b) Aptidão, capacidade e interesse profissional comprovados por documento passa
 
 Ministério da Marinha, 11 de Maio de 1973. - O Ministro da Marinha, Manuel Pereira Crespo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/13100/09430947.pdf))](https://files.diariodarepublica.pt/1s/1973/06/13100/09430947.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/13100/09430947.pdf)

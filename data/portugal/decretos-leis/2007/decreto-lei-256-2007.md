@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/256/2007/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2007-636071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5470a34ea5c72fad58225f8126745421fe0268d2d191915842bf32ec0931069b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39a86cecfe5704165710f8c5c4d203a42e77bc5015ec1d4e602cb1d9bfdbe95b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da ÁGUA
-- Definição de Competências
-- Autoridade Marítima Nacional
-- Pessoal de Assistência aos Banhistas nas Praias
-- Madeira.região Autónoma
-- Regime Jurídico
-- Pessoal de Vigilância
 - Açores
+- Autoridade Marítima Nacional
+- Definição de Competências
 - Direcção Geral da Autoridade Marítima
+- Instituto da ÁGUA
+- Madeira.região Autónoma
+- Pessoal de Assistência aos Banhistas nas Praias
+- Pessoal de Vigilância
+- Regime Jurídico
 - Vigilância nas Praias
 - ZONA Balnear
 relationships:
@@ -89,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/2004/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/2004/08/19/p/dre
+- type: cites
+  target: pt:dre:226186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537262:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:47Z'
   warnings: []
   errors: []
 ---
@@ -133,12 +145,12 @@ O presente decreto-lei produz efeitos a 1 de Junho de 2007.
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 2007. - José Sócrates Carvalho Pinto de Sousa - João António da Costa Mira Gomes - Rui Carlos Pereira - Francisco Carlos da Graça Nunes Correia.
 
-**Promulgado em 29 de Junho de 2007.**
+Promulgado em 29 de Junho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 3 de Julho de 2007.**
+Referendado em 3 de Julho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

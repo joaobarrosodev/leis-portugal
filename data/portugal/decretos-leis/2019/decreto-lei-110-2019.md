@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/15500/0001300029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/110/2019/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2019-123968667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be7cab0ee24fe273f3bd2c219c58e3ea9d21119e784cea8f3f0fdac819ba61bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a876a5c3c1087fb93a23b8d3efe1a340f495522431cace9e24e0c3d1286db851
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ subjects:
 - Acreditação
 - Autonomia Administrativa
 - Autonomia Pedagógica
-- Formação Profissional
-- Gestão Financeira
-- Curso de Especialização Tecnológica
 - Conselho Pedagógico
 - Coordenador
+- Curso de Especialização Tecnológica
 - Definição de Competências
 - Diretor
-- Gestão Administrativa
 - Estabelecimento de Restauração
+- Formação Profissional
+- Gestão Administrativa
+- Gestão Financeira
 - Hotel de Aplicação
 - Instituto Público
 - Qualificação Profissional
@@ -112,16 +112,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/134/2017/09/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/134/2017/09/27/p/dre
+- type: cites
+  target: pt:dre:105808927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108219721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633289:por
+  label: null
+  source: null
 article_structure:
-  article_count: 43
+  article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:49Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +194,9 @@ Os artigos 1.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 11.º, 12.º, 13.º e
 
 2 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - As escolas são criadas e encerradas por despacho do membro do Governo responsável pela área do turismo, publicado na 2.ª série do Diário da República, sob proposta do conselho diretivo do Turismo de Portugal, I. P., após parecer obrigatório e vinculativo da Agência Nacional para a Qualificação e o Ensino Profissional, I. P.
 
@@ -176,7 +206,9 @@ Os artigos 1.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 11.º, 12.º, 13.º e
 
 4 - [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]:
 
@@ -190,7 +222,9 @@ b) Escolas do tipo II são estruturas com capacidade formativa e técnica e rele
 
 4 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -210,13 +244,17 @@ c) Outras modalidades de educação e formação que venham a ser consideradas r
 
 6 - As escolas que reúnam os requisitos para o efeito podem ser também entidades promotoras de centros especializados em qualificação de adultos, com vista ao reconhecimento, validação e certificação de competências adquiridas ao longo da vida, nos termos do previsto no [Decreto-Lei n.º 396/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-2007-628017), de 31 de dezembro, alterado pelo [Decreto-Lei n.º 14/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), de 26 de janeiro.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Na prossecução das suas funções, as escolas podem estabelecer parcerias com o setor privado com vista à aproximação da escola às instituições económicas, profissionais, associativas, sociais e culturais, do respetivo tecido económico e social das regiões em que se encontram inseridas, para desenvolvimento de projetos de formação em contexto real de trabalho e de projetos de inovação empresarial e social, promovendo a sua aproximação ao mercado de trabalho e a adequação dos currículos às necessidades reais da oferta turística e hoteleira.
 
 2 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - São cargos diretivos das escolas dos tipos I ou II o cargo de diretor de escola, com as funções e responsabilidades constantes do artigo seguinte.
 
@@ -224,7 +262,9 @@ c) Outras modalidades de educação e formação que venham a ser consideradas r
 
 3 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As escolas são dirigidas por um diretor, que desempenha funções com responsabilidade pelo planeamento, coordenação e gestão geral, desenvolvimento e controlo, bem como funções operacionais de gestão, de programação, de coordenação e acompanhamento da escola.
 
@@ -234,7 +274,9 @@ c) Outras modalidades de educação e formação que venham a ser consideradas r
 
 4 - (Revogado.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Ao diretor de escola tipo I e ao diretor de escola tipo II compete:
 
@@ -276,7 +318,9 @@ r) [Anterior alínea q).]
 
 3 - (Revogado.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]:
 
@@ -302,7 +346,9 @@ h) Um representante dos pais ou encarregados de educação.
 
 4 - (Revogado.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - As escolas adotam na sua estruturação interna um modelo funcional flexível de estrutura matricial, ajustado aos objetivos do projeto técnico-pedagógico previsto no artigo 2.º, organizado de acordo com as seguintes áreas de atuação:
 
@@ -320,7 +366,9 @@ d) A área de inovação, que compreende as atividades de apoio à capacitação
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 13.º — Hotéis, restaurantes e outras unidades de aplicação
+Artigo 13.º
+
+Hotéis, restaurantes e outras unidades de aplicação
 
 1 - [...].
 
@@ -330,7 +378,9 @@ d) A área de inovação, que compreende as atividades de apoio à capacitação
 
 4 - A gestão das unidades de aplicação previstas no presente artigo pode ser concessionada a entidades privadas do setor, no âmbito da legislação aplicável, por decisão e nos termos a definir pelo conselho diretivo do Turismo de Portugal, I. P., desde que a concessão garanta aos alunos das escolas a frequência da formação prática profissional, sob orientação pedagógica exclusiva do Turismo de Portugal, I. P.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Aos trabalhadores das escolas é aplicável o regime jurídico dos trabalhadores que exercem funções públicas.
 
@@ -372,7 +422,9 @@ h) Promover formas de valorizar e incentivar o consumo de produtos locais na red
 
 i) Contribuir para a missão da escola, apresentando sugestões, propostas e projetos que promovam a qualidade e a excelência da formação ministrada.
 
-###### Artigo 11.º-B — Comissão Nacional
+Artigo 11.º-B
+
+Comissão Nacional
 
 1 - A Comissão Nacional tem a missão de contribuir para a definição de estratégias de formação para o setor do turismo, através da criação de um espaço de cooperação, articulação e colaboração com o meio empresarial, académico e científico, com a Administração central, regional e local, com os sindicatos e associações do setor e com as instituições de formação que atuam no setor do turismo.
 
@@ -400,7 +452,9 @@ j) Reforçar a capacidade de intervenção dos atores de formação em turismo;
 
 k) Contribuir para a afirmação da importância da transversalização da educação para o turismo.
 
-###### Artigo 11.º-C — Composição das comissões
+Artigo 11.º-C
+
+Composição das comissões
 
 1 - A Comissão Nacional tem a seguinte composição:
 
@@ -458,7 +512,9 @@ k) Um representante da associação de alunos ou, na sua falta, um representante
 
 3 - Sempre que se entenda necessário, em função das matérias em apreciação, podem ser convidados a participar na Comissão outros representantes ou indivíduos que venham a ser identificados como relevantes para a respetiva missão.
 
-###### Artigo 11.º-D — Reuniões das comissões
+Artigo 11.º-D
+
+Reuniões das comissões
 
 1 - As reuniões da Comissão Nacional são presididas pelo representante do Turismo de Portugal, I. P.
 
@@ -466,7 +522,9 @@ k) Um representante da associação de alunos ou, na sua falta, um representante
 
 3 - As Comissões reúnem ordinariamente uma vez por semestre e, extraordinariamente, sempre que convocadas pelo presidente, por sua iniciativa ou por solicitação de, pelo menos, dois terços dos seus membros.
 
-###### Artigo 13.º-A — Laboratórios Abertos de Experimentação
+Artigo 13.º-A
+
+Laboratórios Abertos de Experimentação
 
 1 - Nas escolas existem Laboratórios Abertos de Experimentação, ao serviço da inovação e do empreendedorismo empresarial e social, através dos quais podem ser disponibilizados, a pessoas individuais ou coletivas, infraestruturas, equipamentos e conhecimento para experimentação e desenvolvimento de novos produtos.
 
@@ -486,13 +544,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de agosto de 2019. - Augusto Ernesto Santos Silva - António Manuel Veiga dos Santos Mendonça Mendes - Pedro Gramaxo de Carvalho Siza Vieira - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva - Luís Medeiros Vieira.
 
-**Promulgado em 2 de agosto de 2019.**
+Promulgado em 2 de agosto de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de agosto de 2019.**
+Referendado em 5 de agosto de 2019.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
 
@@ -855,3 +913,5 @@ d) A área de inovação, que compreende as atividades de apoio à capacitação
 ###### Artigo 17.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+112516747

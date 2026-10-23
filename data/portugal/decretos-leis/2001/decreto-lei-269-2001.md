@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/10/232a00/63456347.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/269/2001/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-2001-621168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:27:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09446cd8c658f193c809b07c18cf67f4a5d4eeb672ec1adf41aa2942bd1e254a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20cd4a5d6e672f265f02eccbc2d7bb7ec3baee36bfc38626a6222731f57be7f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:27:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,19 +70,52 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CE Países
-- Certificado Fitossanitário
-- Doença Vegetal
-- Controlo Sanitário
 - Certificado de Qualidade
-- Proteção do Ambiente
-- Zona de Proteção
+- Certificado Fitossanitário
+- Controlo Sanitário
+- Doença Vegetal
 - Produção Vegetal
+- Proteção do Ambiente
 - Vegetais
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:141854:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197359:por
+  label: "Alterados os anexos I, II, III, IV e VI do Dec Lei 14/99, de 12-Jan, republicado pelo Dec Lei 517/99, de 04-Dez,\
+    \ na redacção dada pelo presente diploma, pelo DEC LEI.172/2002.2002.07.25.MADRP, DR IS-A [170]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-2002-197359
+  date: '2002-07-25'
+- type: amended_by
+  target: pt:dre:667118:por
+  label: "Alterados os anexos I, II, III, IV, V e VI do Dec Lei 14/99, de 12-Jan, na redacção dos Dec Lei 517/99, de 04-Dez,\
+    \ 63/2000 de 19-Abr, 160/2000 de 27-Jul, do presente e do 172/2002 de 25-Jul, pelo DEC LEI.142/2003.2003.07.02.MADRP,\
+    \ DR.IS-A [150]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2003-667118
+  date: '2003-07-02'
+- type: amended_by
+  target: pt:dre:493696:por
+  label: "Alterados os anexos IV e V do Dec Lei 14/99 de 12-Jan, alterado pelo presente, pelo DEC LEI.231/2003.2003.09.27.MADRP\
+    \ DR.IS-A [224]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-2003-493696
+  date: '2003-09-27'
+- type: amended_by
+  target: pt:dre:220749:por
+  label: "Alterados os anexos II, III, IV e V do Dec Lei 14/99, de 12-Jan DR.IS-A [9], republicado pelo Dec Lei 517/99, de\
+    \ 04-Dez, na redacção que lhe foi dada pelo presente diploma e pelos Dec Leis 63/2000, de 19-Abr, 160/2000, de 27-Jul,\
+    \ 172/2002, de 25-Jul, 142/2003, de 02-Jul e 231/2003, 27-Set, pelo DEC LEI.83/2004.14.04.2004.MADRP, DR.IS-A [88] de\
+    \ 14.04.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-2004-220749
+  date: '2004-04-14'
+- type: amended_by
+  target: pt:dre:502395:por
+  label: "Alterados os anexos I, II, III e IV do Dec Lei 14/99, de 12-Jan, na redacção do presente diploma, pelo DEC LEI.183/2004.29.07.2004.MADRP,\
+    \ DR.IS-A [177] de 29.07.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2004-502395
+  date: '2004-07-29'
 - type: cites
   target: celex:31992L0076
   label: null
@@ -103,16 +136,21 @@ relationships:
   target: celex:32001L0033
   label: null
   source: http://data.europa.eu/eli/dir/2001/33/oj
+- type: repealed_by
+  target: pt:dre:141854:por
+  label: "Revogado pelo DEC LEI.154/2005.06.09.2005.MADRP, DR.IS-A [171] de 06.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2005-141854
+  date: '2005-09-06'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:27:40Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +187,7 @@ a) Nos anexos I, parte B, alínea a), n.º 1, e IV, parte B, n.º 24, as respect
 
 b) No anexo I, parte B, alínea a), n.º 2, a coluna da direita passa a ter a seguinte redacção:
 
-«E (Ibiza e Minorca), FI (distritos de [([ver documento original](https://files.diariodarepublica.pt/1s/2001/10/232a00/63456347.pdf))](https://files.diariodarepublica.pt/1s/2001/10/232a00/63456347.pdf), Häme, Kymi, Pirkanmaa, Satakunta, Turku, Uusimaa), IRL, P (Açores e Madeira), S (departamentos de Blekinge, Gotlands, Halland, Kalmar e [([ver documento original](https://files.diariodarepublica.pt/1s/2001/10/232a00/63456347.pdf))](https://files.diariodarepublica.pt/1s/2001/10/232a00/63456347.pdf)), UK.»
+«E (Ibiza e Minorca), FI (distritos de [(ver documento original)](https://files.diariodarepublica.pt/1s/2001/10/232a00/63456347.pdf), Häme, Kymi, Pirkanmaa, Satakunta, Turku, Uusimaa), IRL, P (Açores e Madeira), S (departamentos de Blekinge, Gotlands, Halland, Kalmar e [(ver documento original)](https://files.diariodarepublica.pt/1s/2001/10/232a00/63456347.pdf)), UK.»
 
 c) No anexo I, parte B, alínea d), n.º 2, a coluna da direita passa a ter a seguinte redacção:
 
@@ -185,18 +223,20 @@ Zonas da Comunidade reconhecidas como 'zonas protegidas', em relação ao ou aos
 
 [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/232a00/63456347.pdf)
 
-###### Artigo 3.º — Produção de efeitos
+Artigo 3.º
+
+Produção de efeitos
 
 As alterações previstas no artigo anterior produzem efeitos desde 22 de Maio de 2001.
 
 Visto e aprovado em Conselho de Ministros de 9 de Agosto de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Guilherme d'Oliveira Martins - Luís Manuel Capoulas Santos - António Fernando Correia de Campos - Rui Nobre Gonçalves.
 
-**Promulgado em 25 de Setembro de 2001.**
+Promulgado em 25 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Setembro de 2001.**
+Referendado em 27 de Setembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

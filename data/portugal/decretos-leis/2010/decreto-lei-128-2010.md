@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/128/2010/12/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2010-306637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e39cde62adc4e345f69ed3e2c5d8a1bce88163ce20a47af5314b5f908886b9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c32c911707bb5deb1bde61fdd01b0772ddc49f42c0343d5eff43a438aea5e2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aparelho de Medição
 - Aproximação das Legislações
+- ASAE
 - Atribuição de Verba
-- Multa
-- Metrologia
 - Comissão de Aplicação de Coimas em Matéria Económica e Publicidade
 - Contra-ordenação
 - Definição de Competências
-- Aparelho de Medição
-- ASAE
 - Instituto Português da Qualidade
-- Sistema Internacional de Medidas
+- Metrologia
+- Multa
 - Receita Própria
+- Sistema Internacional de Medidas
 relationships:
 - type: amended_by
   target: pt:dre:143741481:por
@@ -112,16 +112,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/18/2010/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/18/2010/08/16/p/dre
+- type: repealed_by
+  target: pt:dre:143741481:por
+  label: Revogado, a partir de 26.09.2020, pelo(a) Decreto-Lei n.º 76/2020 - Diário da República n.º 188/2020, Série I de
+    2020-09-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2020-143741481
+  date: '2020-09-25'
 article_structure:
-  article_count: 21
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:08Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +180,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º e 7.º do Decreto-Lei n.º 238/94,
 
 2 - Os nomes, símbolos e definições das unidades, os prefixos e símbolos dos múltiplos e submúltiplos das mesmas unidades e as recomendações para a escrita e para a utilização dos símbolos, aprovados pela CGPM, constam do anexo ao presente decreto-lei, do qual faz parte integrante.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - É permitida a utilização de indicações suplementares.
 
@@ -182,7 +190,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º e 7.º do Decreto-Lei n.º 238/94,
 
 3 - A indicação expressa numa unidade de medida constante do anexo ao presente decreto-lei prevalece sobre as indicações suplementares.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A utilização de unidades de medida consideradas não legais é autorizada:
 
@@ -192,17 +202,23 @@ b) Para as peças e partes de produtos e equipamentos que completem ou substitua
 
 2 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O disposto nos artigos anteriores abrange os instrumentos de medição, as medições efectuadas e as unidades de grandeza expressas em unidades de medida, no circuito comercial, nos domínios da saúde, da segurança pública, do ensino e nas operações de natureza administrativa e fiscal.
 
 2 - O presente decreto-lei não afecta a utilização, no domínio da navegação aérea e marítima e do tráfego por via férrea, de unidades de medida diversas das unidades de medida legais, previstas por convenções ou acordos internacionais que vinculam a União Europeia ou Portugal.
 
-###### Artigo 5.º — Padrões das unidades de medida legais
+Artigo 5.º
+
+Padrões das unidades de medida legais
 
 Compete ao Instituto Português da Qualidade, I. P. (IPQ, I. P.), aprovar, de acordo com o estabelecido no presente decreto-lei, os padrões que realizam as unidades de medida legais.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE) fiscalizar o cumprimento do presente decreto-lei, sem prejuízo das competências atribuídas por lei a outras entidades.
 
@@ -210,7 +226,9 @@ Compete ao Instituto Português da Qualidade, I. P. (IPQ, I. P.), aprovar, de ac
 
 3 - A instrução dos processos de contra-ordenação compete à ASAE, a quem devem ser enviados os autos relativos a infracções verificadas por outras entidades.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A utilização de unidades de medida não autorizadas, nos termos do artigo 3.º, constitui contra-ordenação punível com coima de (euro) 25 a (euro) 2500 se o infractor for uma pessoa singular e até (euro) 30 000 se for uma pessoa colectiva.
 
@@ -250,15 +268,15 @@ São revogados os n.os 2 a 4 do anexo ao Decreto-Lei n.º 238/94, de 19 de Setem
 
 Visto e aprovado em Conselho de Ministros de 9 de Setembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto de Sousa Martins - José António Fonseca Vieira da Silva.
 
-**Promulgado em 5 de Novembro de 2010.**
+Promulgado em 5 de Novembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 8 de Novembro de 2010.**
+Referendado em 8 de Novembro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -322,17 +340,17 @@ As unidades derivadas coerentes das unidades SI de base são dadas por expressõ
 
 1.2.1 - Unidades expressas a partir das unidades de base:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf))](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
 
 1.2.2 - Unidades com nomes e símbolos especiais:
 
 Os nomes especiais e os símbolos particulares atribuídos a determinadas unidades derivadas permitem exprimir numa forma condensada unidades frequentemente utilizadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf))](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
 
 1.2.3 - Exemplos de unidades derivadas do SI cujo nome e símbolo contêm unidades derivadas do SI com nomes e símbolos especiais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf))](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
 
 1.2.4 - Unidades das grandezas sem dimensão ou de grandezas de dimensão unitária:
 
@@ -340,7 +358,7 @@ Determinadas grandezas são definidas pela razão de duas grandezas da mesma nat
 
 1.3 - Prefixos e símbolos de prefixos para formar os nomes e símbolos dos múltiplos e submúltiplos decimais das unidades SI:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf))](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
 
 1.3.1 - Regra de escrita:
 
@@ -354,19 +372,19 @@ Entre as unidades de base do SI, a unidade de massa é a única cujo nome, por r
 
 1.4.1 - Nomes e símbolos especiais autorizados de múltiplos e submúltiplos decimais das unidades SI:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf))](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
 
 1.4.2 - Nomes e símbolos especiais autorizados de múltiplos e submúltiplos não decimais das unidades SI:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf))](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
 
 1.4.3 - Unidades autorizadas cujo valor em unidades SI foi obtido experimentalmente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf))](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
 
 1.4.4 - Outras unidades autorizadas para uso em domínios especializados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf))](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
 
 1.5 - Regras para a escrita dos nomes e símbolos das unidades SI:
 
@@ -496,7 +514,7 @@ São revogados os Decretos-Leis n.os 427/83, de 7 de Dezembro, 320/84, de 1 de O
 
 1.1 - Unidades de base do SI:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf))](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
 
 Definições das unidades de base do SI:
 
@@ -548,7 +566,7 @@ A candela é a intensidade luminosa, numa dada direcção, de uma fonte que emit
 
 1.1.1 - Nome e símbolo especiais da unidade SI de temperatura no caso da temperatura Celsius:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf))](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
 
 A temperatura Celsius, de símbolo t, é definida pela diferença t = T- T(índice 0) entre duas temperaturas termodinâmicas T e T(índice 0) com T(índice 0) = 273,15 K, ponto de congelação da água. Um intervalo ou uma diferença de temperatura podem ser expressos quer em kelvin quer em grau Celsius. A unidade grau Celsius é igual à unidade kelvin.
 
@@ -558,17 +576,17 @@ As unidades derivadas coerentes das unidades SI de base são dadas por expressõ
 
 1.2.1 - Unidades expressas a partir das unidades de base:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf))](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
 
 1.2.2 - Unidades com nomes e símbolos especiais:
 
 Os nomes especiais e os símbolos particulares atribuídos a determinadas unidades derivadas permitem exprimir numa forma condensada unidades frequentemente utilizadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf))](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
 
 1.2.3 - Exemplos de unidades derivadas do SI cujo nome e símbolo contêm unidades derivadas do SI com nomes e símbolos especiais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf))](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
 
 1.2.4 - Unidades das grandezas sem dimensão ou de grandezas de dimensão unitária:
 
@@ -576,7 +594,7 @@ Determinadas grandezas são definidas pela razão de duas grandezas da mesma nat
 
 1.3 - Prefixos e símbolos de prefixos para formar os nomes e símbolos dos múltiplos e submúltiplos decimais das unidades SI:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf))](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
 
 1.3.1 - Regra de escrita:
 
@@ -590,19 +608,19 @@ Entre as unidades de base do SI, a unidade de massa é a única cujo nome, por r
 
 1.4.1 - Nomes e símbolos especiais autorizados de múltiplos e submúltiplos decimais das unidades SI:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf))](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
 
 1.4.2 - Nomes e símbolos especiais autorizados de múltiplos e submúltiplos não decimais das unidades SI:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf))](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
 
 1.4.3 - Unidades autorizadas cujo valor em unidades SI foi obtido experimentalmente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf))](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
 
 1.4.4 - Outras unidades autorizadas para uso em domínios especializados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf))](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/23400/0544405454.pdf)
 
 1.5 - Regras para a escrita dos nomes e símbolos das unidades SI:
 

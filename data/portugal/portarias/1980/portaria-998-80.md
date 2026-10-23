@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/998-1980-458187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T06:34:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f3e7c2a70f8b1a77f7dd3632a881aea87521647420f931032df06772bf8b362
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdbc3900c64781090cb636f90e6b53b9c7d205721ea47861535c3d6b13bdb4ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:34:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Informática
+- Instituto de Informática
+- Ministério das Finanças
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:400435:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:400435:por
+  label: "Alterado o quadro de pessoal das carreiras de pessoal técnico de outras especialidades e do pessoal técnico superior\
+    \ de outras especialidades, do Instituto de Infomática do mapa I anexo ao DR 71-G/79, de 29-Dez, na redacção do presente\
+    \ diploma, pela PORT.847/84.05.11.1984.PCM, DR.IS [256] de 05.11.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/847-1984-400435
+  date: '1984-11-05'
+- type: cites
+  target: pt:dre:156799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:34:07Z'
   warnings: []
   errors: []
 ---
@@ -102,6 +121,6 @@ Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 10
 
 Quadro a que se refere a Portaria n.º 998/80
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/27000/39433943.pdf))](https://files.diariodarepublica.pt/1s/1980/11/27000/39433943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/27000/39433943.pdf)
 
 Pelo Ministro das Finanças e do Plano, José António da Silveira Godinho, Secretário de Estado Adjunto do Ministro das Finanças e do Plano. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.

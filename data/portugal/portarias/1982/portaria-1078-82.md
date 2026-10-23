@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1078-1982-377327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T07:02:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52baf8f8878c44544bf66711a3ac98c5a0ae47b1ababacd8c19d39cbb5e443b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a903bec8225e8d737d471e5db63d7eae231a6b3fdc9bd47e2e9c01fceee858b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:02:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Albergaria-a-velha
+- Braga
+- Cascais
+- Covilhã
+- Évora
+- Marinha Grande
+- Oliveira de Azeméis
+- Póvoa de Varzim
+- Quadro de Pessoal
+- Secretaria Judicial
+- Tribunal
+- Tribunal do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:379335:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:379165:por
+  label: "Alterado o quadro de pessoal da secretaria do Tribunal Judicial da Covilhã constante do Dec Lei 385/82, de 16-Set\
+    \ e alterado pelo presente diploma, pela PORT.1149/82.20.11.1982.MJ, DR.IS [287] de 14.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1149-1982-379165
+  date: '1982-11-20'
+- type: amended_by
+  target: pt:dre:379335:por
+  label: "Alterada a composição da secretaria judicial do Tribunal do Trabalho de Braga constante do Mapa IV anexo ao Dec\
+    \ Lei 385/82, de 16-Set, alterado no presente diploma, pela PORT.1140/82.11.12.1982.MJ, DR.IS [285] de 11.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1140-1982-379335
+  date: '1982-12-11'
+- type: cites
+  target: pt:dre:375642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375815:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:02:25Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +128,7 @@ Tribunal de Albergaria-a-Velha
 
 Secretaria judicial:
 
-#### Secção central e 3 secções de processos:
+Secção central e 3 secções de processos:
 
 Pessoal:
 
@@ -126,7 +158,7 @@ Tribunal do Trabalho de Braga
 
 Secretaria judicial:
 
-#### Secção central e 4 secções de processos:
+Secção central e 4 secções de processos:
 
 Pessoal:
 
@@ -154,7 +186,7 @@ Tribunal de Cascais
 
 Secretaria judicial:
 
-#### Secção central e 8 secções de processos:
+Secção central e 8 secções de processos:
 
 Pessoal:
 
@@ -188,7 +220,7 @@ Tribunal da Covilhã
 
 Secretaria judicial:
 
-#### Secção central e 4 secções de processos:
+Secção central e 4 secções de processos:
 
 Pessoal:
 
@@ -218,7 +250,7 @@ Tribunal de Évora
 
 Secretaria judicial:
 
-#### Secção central e 4 secções de processos:
+Secção central e 4 secções de processos:
 
 Pessoal (ver nota a):
 
@@ -254,7 +286,7 @@ Tribunal da Marinha Grande
 
 Secretaria judicial:
 
-#### Secção central e 3 secções de processos:
+Secção central e 3 secções de processos:
 
 Pessoal:
 
@@ -282,7 +314,7 @@ Tribunal de Oliveira de Azeméis
 
 Secretaria judicial:
 
-#### Secção central e 4 secções de processos:
+Secção central e 4 secções de processos:
 
 Pessoal:
 
@@ -316,7 +348,7 @@ Tribunal da Póvoa de Varzim
 
 Secretaria judicial:
 
-#### Secção central e 4 secções de processos:
+Secção central e 4 secções de processos:
 
 Pessoal:
 

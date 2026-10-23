@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24097-1969-201192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da3b052ba37931c68227f65888ce867071245469bc6bb4277f4eb4852f3c0982
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e8403de878b5da6cfd75dc204c6563421d5c82162bdb8d0d386838b5accd94c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:193229:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:04Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +90,7 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, nos termos do artigo 27.º do [Decreto-Lei n.º 44864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44864-1963-193229), de 28 de Janeiro de 1963, aprovar e pôr em vigor, a partir da publicação desta portaria nos Boletins Oficiais das províncias ultramarinas, os quantitativos diários para os diferentes ranchos das forças terrestres e aéreas nas províncias ultramarinas, que constam da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/05/12800/05990599.pdf))](https://files.diariodarepublica.pt/1s/1969/05/12800/05990599.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/05/12800/05990599.pdf)
 
 Esta portaria anula as Portarias n.os 23189, de 30 de Janeiro de 1968, e 23706, de 12 de Novembro de 1968.
 

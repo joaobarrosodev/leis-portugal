@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/821-1982-374629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T07:25:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78d0284b6a8437ac36a1008f7f69994f5837bd1f744dedc7e30880ae1dc5e713
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2d8d06f02ea20ae75f03e050e658b416c055c6c470d5728548831ca7218f2b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:25:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cartão de Identificação
+- Serviço Nacional de Protecção Civil
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS NUMEROS 1 E 2 PELA PORTARIA NUMERO 1113/89, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 299,\
+    \ DE 30/12/89.\012/89.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:25:49Z'
   warnings: []
   errors: []
 ---
@@ -112,4 +119,4 @@ O cartão deve ter igualmente impresso, no canto superior direito, um espaço, c
 
 Secretaria de Estado da Defesa Nacional, 29 de Julho de 1982. - O Secretário de Estado da Defesa Nacional, Carlos José Sanches Vaz Pardal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/08/20000/25442545.pdf))](https://files.diariodarepublica.pt/1s/1982/08/20000/25442545.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/20000/25442545.pdf)

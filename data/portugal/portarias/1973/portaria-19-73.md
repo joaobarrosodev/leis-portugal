@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19-1973-683662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T04:00:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2663fee1a885e02a9e85edcb0d386226507a82dd43e1677eb055e4995c368549
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ab724986a2e747fa9f98a04357f66124ca030fa167f74215b34000537434a5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:00:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:292082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:00:47Z'
   warnings: []
   errors: []
 ---
@@ -88,11 +96,11 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, nos 
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 1, alínea a) «Aquisições de utilização permanente - Semoventes - Veículos com motor» ... 67000$00
+Artigo 4.º, n.º 1, alínea a) «Aquisições de utilização permanente - Semoventes - Veículos com motor» ... 67000$00
 
-###### Artigo 4.º, n.º 2 «Aquisições de utilização permanente - Móveis» ... 200000$00
+Artigo 4.º, n.º 2 «Aquisições de utilização permanente - Móveis» ... 200000$00
 
-###### Artigo 6.º, 11.º 3 «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados» ... 773000$00
+Artigo 6.º, 11.º 3 «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados» ... 773000$00
 
 ... 1040000$00
 
@@ -100,15 +108,15 @@ tomando como contrapartida as disponibilidades apuradas nas seguintes verbas da 
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1 «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 600000$00
+Artigo 1.º, n.º 1 «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 600000$00
 
-###### Artigo 3.º, n.º 4 «Outras despesas com o pessoal - Abonos do [Decreto-Lei n.º 46451](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46451-1965-292082)» ... 400000$00
+Artigo 3.º, n.º 4 «Outras despesas com o pessoal - Abonos do [Decreto-Lei n.º 46451](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46451-1965-292082)» ... 400000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 10.º, n.º 3 «Encargos administrativos - Pagamento de serviços e encargos não especificados» ... 10000$00
+Artigo 10.º, n.º 3 «Encargos administrativos - Pagamento de serviços e encargos não especificados» ... 10000$00
 
-###### Artigo 11.º, n.º 1 «Outros encargos - Prémios e condecorações» ... 30000$00
+Artigo 11.º, n.º 1 «Outros encargos - Prémios e condecorações» ... 30000$00
 
 ... 1040000$00
 

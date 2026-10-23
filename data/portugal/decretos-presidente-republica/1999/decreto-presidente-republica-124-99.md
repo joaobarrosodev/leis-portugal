@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/124/1999/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/124-1999-138365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:29:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12b217afe09f1e17edba09f3362db02841eb7a6ba8df4eb9f3b6431bf5472531
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 796338341f6ff0d30bb07be33911b8b13bc9bf617de10e7d34fe9df3ffba9baf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:29:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,23 @@ reuse:
 subjects:
 - Assistência Mútua
 - CE Países
+- Circulação de Mercadorias
+- Comércio
 - Comunidade Europeia
 - Convenção
-- Cooperação Financeira
-- Cooperação Legislativa
-- Cooperação Transfronteira
-- Portugal
-- Investimento
-- Circulação de Mercadorias
-- Política Aduaneira
 - Cooperação Científica
 - Cooperação Cultural
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Internacional
+- Cooperação Legislativa
 - Cooperação Política
-- Prestação de Serviços
-- Comércio
+- Cooperação Transfronteira
+- Investimento
 - Luxemburgo
+- Política Aduaneira
+- Portugal
+- Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:67283028:por
@@ -95,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/24/1999/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/24/1999/03/26/p/dre
+- type: cites
+  target: pt:dre:138367:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67283028:por
+  label: Revogado e substituído o Acordo de Parceria e Cooperação entre as Comunidades Europeias e os seus Estados-Membros,
+    por um lado, e a Geórgia, por outro, aprovado pela Res. 24/99 de 26-mar, ratificado pelo presente Decreto, pelo(a) Resolução
+    da Assembleia da República n.º 54/2015 - Diário da República n.º 99/2015, Série I de 2015-05-22 nos termos dos arts. 423.º
+    e 431.º do Acordo
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/54-2015-67283028
+  date: '2015-05-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:29:32Z'
   warnings: []
   errors: []
 ---
@@ -113,16 +125,16 @@ validation:
 
 de 26 de Março
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo de Parceria e Cooperação entre as Comunidades Europeias e os Seus Estados Membros, por um lado, e a Geórgia, por outro, incluindo os anexos I, II, III, IV e V e o Protocolo sobre Assistência Mútua entre Autoridades Administrativas em Matéria Aduaneira, bem como a Acta Final, com as declarações, assinado no Luxemburgo em 22 de Abril de 1996, aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 24/99](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/24-1999-138367), em 29 de Janeiro de 1999.
 
-**Assinado em 15 de Março de 1999.**
+Assinado em 15 de Março de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Março de 1999.**
+Referendado em 17 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

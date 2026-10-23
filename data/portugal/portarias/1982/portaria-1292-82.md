@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1292-1982-318314
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T07:07:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e3bf353996b23e2e326af2cec0dd1b383d606bdc7afa3ac80b6972ac04e3296
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b6a2ea8a45299f1daedb657e61b12708832b430d39d92f580f689f5f4510151
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:07:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avis
+- Hospital Concelhio
+- Pessoal de Enfermagem
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573676:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:07:35Z'
   warnings: []
   errors: []
 ---
@@ -92,4 +108,4 @@ Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Adminis
 
 Quadro de pessoal do Hospital Concelhio de Avis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30100/43034303.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30100/43034303.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30100/43034303.pdf)

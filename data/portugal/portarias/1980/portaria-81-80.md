@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/03/05100/02780279.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/81-1980-678868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef0724a615e8d1ab55404e634ffa65c7c1c2cfa202a4de5fecffab20ca99eea7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c1155d4c45c4f447ff85ecfb406431dfd81be187d00edba4bd1f32f2f32a044
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola Náutica Infante Dom Henrique
+- Marinha Mercante
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:322509:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:252023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:322509:por
+  label: "Revogada pelo DEC LEI.458-A/85.31.10.1985.MM, DR.IS [251]Supl de 31.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/458-a-1985-322509
+  date: '1985-10-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:39Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +116,11 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha 
 
 1.º O artigo 77.º do Regulamento da Escola Náutica Infante D. Henrique, aprovado pelo [Decreto n.º 348/72](https://diariodarepublica.pt/dr/detalhe/decreto/348-1972-688606), de 5 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 77.º Os alunos dispõem de uma 2.ª época de exames, a realizar nos períodos previstos no calendário escolar.
+Art. 77.º Os alunos dispõem de uma 2.ª época de exames, a realizar nos períodos previstos no calendário escolar.
 
 2.º São aditados ao artigo 80.º do Regulamento os n.os 3, 4 e 5, com a seguinte redacção:
 
-###### Art. 80.º - 1 - ...
+Art. 80.º - 1 - ...
 
 2 - ...
 
@@ -200,14 +224,14 @@ Tabela de precedências
 
 a) Curso geral de pilotagem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/05100/02780279.pdf))](https://files.diariodarepublica.pt/1s/1980/03/05100/02780279.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/05100/02780279.pdf)
 
 b) Curso geral de máquinas marítimas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/05100/02780279.pdf))](https://files.diariodarepublica.pt/1s/1980/03/05100/02780279.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/05100/02780279.pdf)
 
 c) Curso geral de radiotecnia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/05100/02780279.pdf))](https://files.diariodarepublica.pt/1s/1980/03/05100/02780279.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/05100/02780279.pdf)
 
-**O Secretário de Estado da Marinha Mercante, José da Silva Domingos.**
+O Secretário de Estado da Marinha Mercante, José da Silva Domingos.

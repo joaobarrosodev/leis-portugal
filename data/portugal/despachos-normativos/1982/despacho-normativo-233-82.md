@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/10/25000/35783580.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/233-1982-378109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T07:18:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97352d4e156301133ad6e506b54ac3b4d7369eeeffe9e247b16549c3867518a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e47bda25435c85002946db432d36dd0aa6a9574d290ac23a0d7036d70f2a4ce3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:18:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Embalagem
+- Medicamento
 relationships:
 - type: amended_by
   target: pt:dre:609663:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:311050:por
+  label: "Alterada a alínea d) do n.º 3, os pontos I, A, 2, alínea b), I, B, 1.2, e III, 2 do anexo A , e aditados os n.ºs\
+    \ 6 e 7 do ponto II e um ponto IV ao citado anexo, pelo DN.53/83.17.02.1983.MAS, DR.IS [39] de 17.02.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/53-1983-311050
+  date: '1983-02-17'
+- type: amended_by
+  target: pt:dre:660905:por
+  label: "Alterada a alínea d) do n.º 3 , os pontos pontos I, B, 1, II e III do anexo A, e aditada a alínea e) ao n.º 3 e\
+    \ a letra C do ponto I e o ponto IV ao anexo A, pelo DN.26/84.30.01.1984.MS, DR.IS [25] de 30.01.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/26-1984-660905
+  date: '1984-01-30'
+- type: repealed_by
+  target: pt:dre:609663:por
+  label: "Revogado pelo DN.101/91.09.05.1991.MS, DR.IS-B [106] de 09.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/101-1991-609663
+  date: '1991-05-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:18:41Z'
   warnings: []
   errors: []
 ---

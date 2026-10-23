@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/5/2012/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2012-544395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c39c97b0ca7b1cef685dc77f64e49ec35666d9b75d46c41121dd197270d4fa75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cdd5037ce2461b03574dcd2baff9cc124e1f99027ee18ab2622002b65be175a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto Nacional de Estatística
-- Pessoal Dirigente
-- Infarmed
-- Gestão Financeira
-- Instituto Nacional de Medicina Legal
-- Direcção Geral da Administração e do Emprego Público
-- Instituto Nacional de Aviação Civil
-- Recrutamento de Pessoal
-- Gestão do Património
+- Açores
+- Administração Central do Sistema de Saúde
 - Conselho Diretivo
+- Direcção Geral da Administração e do Emprego Público
+- Documento Eletrónico
+- Gestão do Património
+- Gestão Financeira
+- Infarmed
 - Instituto de Gestão da Tesouraria e do Crédito Público
 - Instituto Financeiro para o Desenvolvimento Regional
+- Instituto Nacional de Aviação Civil
+- Instituto Nacional de Estatística
+- Instituto Nacional de Medicina Legal
 - Instituto Público
 - Lei Quadro
-- Documento Eletrónico
-- Administração Central do Sistema de Saúde
-- Presidente
 - Madeira.região Autónoma
+- Pessoal Dirigente
+- Presidente
+- Recrutamento de Pessoal
 - Remuneração
-- Açores
 - Sistema de Informação da Organização do Estado
 - Vogal
 relationships:
@@ -94,6 +94,48 @@ relationships:
   target: pt:dre:70241301:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:178817:por
+  label: "Alterados os art.s 27º e 48º da Lei 3/2004, de 15-jan, na redação do presente diploma, pelo DEC LEI.123/2012.20.06.2012.MF,\
+    \ DR.IS [118] de 20.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-2012-178817
+  date: '2012-06-20'
+- type: amended_by
+  target: pt:dre:179571:por
+  label: "Alterado o art. 3º da Lei 3/2004, de 15-jan, na redação do presente diploma, pela LEI.24/2012.09.07.2012.AR, DR.IS\
+    \ [131] de 09.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/24-2012-179571
+  date: '2012-07-09'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação ao art. 36º da Lei 3/2004 de 15-jan, alterada e republicada pelo presente diploma, pela LEI.66-B/2012.31.12.2012.AR,\
+    \ DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:498755:por
+  label: "Dada nova redação ao art. 48º da Lei 3/2004 de 15-jan, alterado pelo presente diploma, pelo DEC LEI.102/2013.25.07.2013.MECI,\
+    \ DR.IS [142] de 25.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2013-498755
+  date: '2013-07-25'
+- type: amended_by
+  target: pt:dre:67348949:por
+  label: Alterado o art. 48.º da Lei 3/2004, de 15-jan, na redação do presente diploma, pelo(a) Decreto-Lei n.º 96/2015 -
+    Diário da República n.º 104/2015, Série I de 2015-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-2015-67348949
+  date: '2015-05-29'
+- type: amends
+  target: pt:numero:lei:3/2004
+  label: "Altera os arts. 3.º (na redação do Dec Lei 105/2007, de 03-Abr) , 9.º (na redação da Lei 64-A/2008, de 31-Dez),\
+    \ 12.º (na redação do Dec Lei 105/2007, de 03-Abr e da Lei 64-A/2008, de 31-Dez), 13.º, 17.º e 18º ( ambos na redação\
+    \ do Dec Lei 105/2007, de 03-Abr), 19.º, 20.º (na redação do Dec Lei 105/2007, de 03-Abr), 25.º(na redação do Dec Lei\
+    \ 105/2007, de 03-Abr), 27.º, 28.º, 30.º (na redação do Dec Lei 105/2007, de 03-Abr), 36.º, 37.º, 38.º (revogado pelo\
+    \ Dec Lei 40/2011, de 22-Mar e repristinado pela Res. 86/2011, de 28-Nov), 41.º, 42.º, 43.º, 44.º, 48.º (na redação da\
+    \ Lei 51/2005, de 30-Ago e do Dec Lei 105/2007, de 03-Abr), 49.º, 52.º, 53.º e 54.º, bem como a epígrafe do Capítulo II\
+    \ e revoga os n.os 2, 7 e 8 do art. 20.º, o art. 25.º-A, as als. d) e e) do n.º 1 do art. 48.º, o art. 50.º e o art. 55.º\
+    \ da Lei n.º 3/2004, de 15-Jan, DR IS-A [12], republicando-a em anexo\0\0"
+  source: null
+  date: '2004-01-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/2007/04/03/p/dre
   label: null
@@ -134,16 +176,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/86/2011/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/86/2011/04/11/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
 article_structure:
-  article_count: 86
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 63
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:30Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +276,9 @@ São alterados os artigos 3.º, 9.º, 12.º, 13.º,17.º, 18.º, 19.º, 20.º, 2
 
 4 - As sociedades e as associações ou fundações criadas como pessoas colectivas de direito privado pelo Estado, Regiões Autónomas ou autarquias locais não são abrangidas pela presente lei, devendo essa criação ser sempre autorizada por diploma legal.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -200,7 +288,9 @@ São alterados os artigos 3.º, 9.º, 12.º, 13.º,17.º, 18.º, 19.º, 20.º, 2
 
 4 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - As disposições relativas à organização interna dos institutos públicos constam dos seus estatutos, aprovados por portaria dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da tutela, e, em tudo o mais que, face ao disposto na lei, possa assim ser regulado, de regulamentos internos, aprovados pelos órgãos do instituto.
 
@@ -212,13 +302,17 @@ a) ...
 
 b) ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os institutos públicos não podem criar entes de direito privado ou participar na sua criação nem adquirir participações em tais entidades, excepto quando esteja previsto na lei ou nos estatutos e se mostrar imprescindível para a prossecução das respectivas atribuições, casos em que é necessária a autorização prévia dos membros do Governo responsáveis pelas áreas das finanças e da tutela, anualmente renovada.
 
 2 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Os institutos públicos de regime comum adoptam para órgão de direcção o modelo de conselho directivo.
 
@@ -226,11 +320,15 @@ b) ...
 
 3 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 O conselho directivo é o órgão responsável pela definição da actuação dos institutos, bem como pela direcção dos respectivos serviços, em conformidade com a lei e com as orientações governamentais.
 
-###### Artigo 19.º — Composição e designação
+Artigo 19.º
+
+Composição e designação
 
 1 - O conselho directivo é um órgão composto por um presidente e até dois vogais, podendo ter ainda um vice-presidente.
 
@@ -242,7 +340,9 @@ O conselho directivo é o órgão responsável pela definição da actuação do
 
 5 - O despacho de designação, devidamente fundamentado, é publicado no Diário da República, juntamente com uma nota relativa ao currículo académico e profissional do designado.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - O mandato dos membros do conselho directivo tem a duração de cinco anos, sendo renovável uma vez por igual período.
 
@@ -296,7 +396,9 @@ g) Necessidade de imprimir nova orientação à gestão.
 
 12 - O exercício de funções ou cargos previstos no n.º 5, no período a que se reporta a indemnização, determina a obrigatoriedade da reposição da importância correspondente à diferença entre o número de meses a que respeite a indemnização percebida e o número de meses que mediar até à nova designação.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Aos membros do conselho directivo é aplicável o regime definido na presente lei e, subsidiariamente, o Estatuto do Pessoal Dirigente da Administração Pública.
 
@@ -306,7 +408,9 @@ g) Necessidade de imprimir nova orientação à gestão.
 
 4 - Aos membros do conselho directivo é aplicável o disposto nos Decretos-Leis n.os [148/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2000-320937), de 19 de Julho, e [34/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), de 26 de Fevereiro.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - O fiscal único é designado por despacho dos membros do Governo responsáveis pelas áreas das finanças e da tutela obrigatoriamente de entre os auditores registados na Comissão de Mercado de Valores Mobiliários ou, quando tal não se mostrar adequado, de entre os revisores oficiais de contas ou sociedades de revisores oficiais de contas inscritos na respectiva lista da Ordem dos Revisores Oficiais de Contas.
 
@@ -316,7 +420,9 @@ g) Necessidade de imprimir nova orientação à gestão.
 
 4 - O fiscal único é remunerado em 25 % dos montantes fixados para o cargo de direcção superior de 1.º grau da Administração Pública.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -352,7 +458,9 @@ c) ...
 
 4 - O fiscal único não pode ter exercido actividades remuneradas no instituto ou nas entidades a que se refere o artigo 13.º nos últimos cinco anos antes do início das suas funções e não pode exercer actividades remuneradas no instituto público fiscalizado ou nas entidades a que se refere o artigo 13.º durante os cinco anos que se seguirem ao termo das suas funções.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -362,7 +470,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - O património próprio dos institutos públicos que disponham de autonomia patrimonial é constituído pelos bens, direitos e obrigações de conteúdo económico, submetidos ao comércio jurídico privado, transferidos pelo Estado para o instituto quando da sua criação, ou que mais tarde sejam adquiridos pelos seus órgãos, e ainda pelo direito ao uso e fruição dos bens do património do Estado que lhes sejam afectos.
 
@@ -378,7 +488,9 @@ c) ...
 
 7 - ...
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -386,7 +498,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -394,7 +508,9 @@ c) ...
 
 3 - Considera-se delegada nos conselhos directivos dos institutos públicos dotados de autonomia financeira a competência para autorização de despesas que, nos termos da lei, só possam ser autorizadas pelo membro do Governo da tutela, sem prejuízo de este poder, a qualquer momento, revogar ou limitar tal delegação de poderes.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -440,7 +556,9 @@ b) ...
 
 9 - O membro do Governo da tutela goza de tutela substitutiva na prática de actos legalmente devidos, em caso de inércia grave do órgão responsável.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - O membro do Governo da tutela pode dirigir orientações, emitir directivas ou solicitar informações aos órgãos dirigentes dos institutos públicos sobre os objectivos a atingir na gestão do instituto e sobre as prioridades a adoptar na respectiva prossecução.
 
@@ -448,13 +566,17 @@ b) ...
 
 3 - ...
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Os titulares dos órgãos dos institutos públicos e os seus trabalhadores respondem civil, criminal, disciplinar e financeiramente pelos actos e omissões que pratiquem no exercício das suas funções, nos termos da Constituição e demais legislação aplicável.
 
 2 - ...
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 Os institutos públicos devem disponibilizar uma página electrónica, com todos os dados relevantes, nomeadamente:
 
@@ -468,7 +590,9 @@ d) ...
 
 e) ...
 
-###### Artigo 48.º — Normas especiais
+Artigo 48.º
+
+Normas especiais
 
 1 - ...
 
@@ -492,13 +616,17 @@ f) ...
 
 5 - Excepcionam-se do disposto no n.º 1 do artigo 19.º o Estádio Universitário de Lisboa, I. P., e o Centro Científico e Cultural de Macau, I. P., cujo órgão de direcção é um presidente, cargo de direcção superior de 1.º grau.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - Os institutos públicos encontram-se obrigados ao cumprimento dos deveres legais decorrentes do diploma que institui e regula o funcionamento do Sistema de Informação da Organização do Estado, devendo a informação reportada naquele sistema incluir, entre outros elementos, a designação, o diploma ou diplomas reguladores, a data de criação e de eventual reestruturação e a composição dos corpos gerentes.
 
 2 - O Sistema de Informação da Organização do Estado referido no número anterior é disponibilizado em linha na página electrónica da Direcção-Geral da Administração e do Emprego Público, incluindo conexões para a página electrónica de cada instituto referida no artigo 44.º
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - ...
 
@@ -508,7 +636,9 @@ f) ...
 
 4 - ...
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - Os órgãos de direcção do instituto podem, mediante prévia autorização do membro do Governo da tutela, conceder a entidades privadas, por prazo determinado e mediante uma contrapartida ou uma renda periódica, a prossecução por conta e risco próprio de algumas das suas atribuições, e nelas delegar os poderes necessários para o efeito.
 
@@ -516,7 +646,9 @@ f) ...
 
 3 - ...
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - Os órgãos de direcção do instituto podem, mediante prévia autorização do membro do Governo da tutela, delegar em entidades privadas, por prazo determinado, e com ou sem remuneração, a prossecução de algumas das suas atribuições e os poderes necessários para o efeito, assumindo o delegado a obrigação de prosseguir essas atribuições ou colaborar na sua prossecução sob orientação do instituto.
 
@@ -550,21 +682,21 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.
 
-**Promulgado em 11 de Janeiro de 2012.**
+Promulgado em 11 de Janeiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de Janeiro de 2012.**
+Referendado em 13 de Janeiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
 Republicação da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro
 
-## TÍTULO I
+TÍTULO I
 
 Objecto e âmbito de aplicação
 
@@ -590,7 +722,7 @@ Objecto e âmbito de aplicação
 
 4 - As sociedades e as associações ou fundações criadas como pessoas colectivas de direito privado pelo Estado, Regiões Autónomas ou autarquias locais não são abrangidas pela presente lei, devendo essa criação ser sempre autorizada por diploma legal.
 
-## TÍTULO II
+TÍTULO II
 
 Princípios fundamentais
 
@@ -736,7 +868,7 @@ d) Quando o Estado tiver de cumprir obrigações assumidas pelos órgãos do ins
 
 3 - (Revogado.)
 
-## TÍTULO III
+TÍTULO III
 
 Regime comum
 
@@ -1164,7 +1296,7 @@ d) Os orçamentos e as contas dos últimos três anos, incluindo os respectivos 
 
 e) O mapa de pessoal.
 
-## TÍTULO IV
+TÍTULO IV
 
 Regimes especiais
 
@@ -1204,7 +1336,7 @@ f) As entidades administrativas independentes.
 
 5 - Excepcionam-se do disposto no n.º 1 do artigo 19.º o Estádio Universitário de Lisboa, I. P., e o Centro Científico e Cultural de Macau, I. P., cujo órgão de direcção é um presidente, cargo de direcção superior de 1.º grau.
 
-## TÍTULO V
+TÍTULO V
 
 Disposições finais e transitórias
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/8/2021/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 051c4eec813121d7e3706d680573b350a5332c442953f3c6cd35a71cc1c1fbba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 878630ccade8bc851778767096035dc8cf436168ed01d327df33658d44d5fc12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Energia não Poluente
-- Combustível de Substituição
-- Contra-ordenação
-- Transporte Rodoviário
-- Energia Renovável
-- Petróleo
-- Produto Petrolífero
-- União Europeia
-- Especificação Técnica
+- Certificação Ambiental
 - Combustível
-- Fiscalização
-- Direção Geral de Energia e Geologia
+- Combustível de Substituição
+- Comércio
 - Comissão CE
+- Contra-ordenação
+- Direção Geral de Energia e Geologia
+- Energia
+- Energia não Poluente
+- Energia Renovável
+- Entidade Nacional para o Setor Energético
+- Entidade Reguladora dos Serviços Energéticos
+- Especificação Técnica
+- Fiscalização
 - Gasóleo
 - Gasolina
 - Importação
-- Laboratório Nacional de Energia e Geologia
-- Proteção do Ambiente
-- Entidade Reguladora dos Serviços Energéticos
-- Energia
-- Produtor
 - Indústria Transformadora
+- Laboratório Nacional de Energia e Geologia
+- Petróleo
+- Produto Petrolífero
+- Produtor
+- Proteção do Ambiente
 - Sistema Petrolífero Nacional
-- Comércio
 - Transporte
 - Transporte Público
-- Certificação Ambiental
-- Entidade Nacional para o Setor Energético
+- Transporte Rodoviário
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:204502328:por
@@ -175,6 +175,86 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/163/2017/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/163/2017/10/31/p/dre
+- type: cites
+  target: pt:dre:114133883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114337041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75644170:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:159869075:por
+  label: Retificados o art. 2.º (na parte em que altera os n.ºs 5, 6 e 7 do art. 11.º e o n.º 2 do art. 14.º, e respetiva
+    republicação, do Dec Lei 117/2010 de 25-out), o anexo i (na parte em que altera as als. p) e q) da parte A do anexo iv,
+    e respetiva republicação, do referido Dec Lei 117/2010), e o anexo ii (na parte em que republica o anexo ii do referido
+    Dec Lei 117/2010) pelo(a) Declaração de Retificação n.º 9-A/2021 - Diário da República n.º 55/2021, 1º Suplemento, Série
+    I de 2021-03-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/9-a-2021-159869075
+  date: '2021-03-19'
+- type: repealed_by
+  target: pt:dre:204502328:por
+  label: Revogado, a partir de 10.12.2022, o Dec Lei 117/2010 de 25-out, na versão republicada pelo presente diploma pelo(a)
+    Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09 nos termos do art. 57.º e dos nºs. 2
+    e 3 do art. 58.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2022-204502328
+  date: '2022-12-09'
 - type: transposes
   target: celex:31998L0070
   label: null
@@ -192,15 +272,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 60
+  article_count: 42
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:36Z'
   warnings: []
   errors: []
 ---
@@ -251,7 +331,9 @@ f) Estabelece metas de incorporação obrigatória de biocombustíveis e limita 
 
 2 - ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -327,7 +409,9 @@ ii) [Anterior alínea w).]
 
 2 - (Revogado.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 As matérias-primas agrícolas cultivadas em território dos Estados-Membros e utilizadas para a produção de biocombustíveis e biolíquidos têm de cumprir com os critérios fixados nos artigos seguintes, assim como com os requisitos e normas previstos:
 
@@ -335,7 +419,9 @@ a) Na rubrica 'Ambiente, alterações climáticas e boas condições agrícolas 
 
 b) No artigo 94.º do [Regulamento (UE) n.º 1306/2013](http://data.europa.eu/eli/reg/2013/1306/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os produtores, incluindo os PPD, e os importadores de biocombustíveis ou biolíquidos devem fazer prova do cumprimento dos critérios de sustentabilidade definidos nos artigos 4.º, 6.º, 7.º e 8.º, recorrendo a um método de balanço de massa que:
 
@@ -355,7 +441,9 @@ c) ...
 
 6 - Nos casos previstos do número anterior, os operadores económicos previstos no n.º 1 podem optar pela apresentação de certificação emitida ao abrigo de um regime voluntário reconhecido pela Comissão Europeia, nos termos do disposto na [Diretiva 2009/28/CE](http://data.europa.eu/eli/dir/2009/28/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de abril de 2009.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -365,7 +453,9 @@ c) ...
 
 4 - Para efeitos do n.º 2, devem os produtores notificar a ENSE, E. P. E., dos contratos celebrados com empresas que possuam frotas de transporte, com exceção dos PPD, que os reportam à DGEG.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Os incorporadores estão obrigados a contribuir para o cumprimento das metas de incorporação nas seguintes percentagens de biocombustíveis, em teor energético, relativamente às quantidades de combustíveis rodoviários por si introduzidos no consumo, com exceção do gás de petróleo liquefeito e do gás natural:
 
@@ -405,7 +495,9 @@ b) [Anterior alínea b) do n.º 5.]
 
 11 - (Anterior n.º 9.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -425,7 +517,9 @@ d) 'TdB-A', correspondente a um TdB para um biocombustível avançado.
 
 5 - Os TdB são numerados aquando da sua emissão, cabendo à ENSE, E. P. E., definir, em regulamento próprio, os termos da respetiva numeração.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A entidade emissora dos TdB é a ENSE, E. P. E.
 
@@ -441,7 +535,9 @@ d) 'TdB-A', correspondente a um TdB para um biocombustível avançado.
 
 7 - Para efeitos do disposto no n.º 3, as referidas matérias-primas são acompanhadas de documentação que comprove a sua natureza e origem, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas da energia, do ambiente e da agricultura.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - A emissão de TdB referida no artigo anterior depende da prévia verificação do cumprimento dos critérios de sustentabilidade fixados nos artigos 4.º, 6.º, 7.º e 8.º, a ser efetuada pela ECS.
 
@@ -449,7 +545,9 @@ d) 'TdB-A', correspondente a um TdB para um biocombustível avançado.
 
 3 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Os incorporadores devem fornecer a seguinte informação à ECS, com vista à emissão dos TdB:
 
@@ -465,7 +563,9 @@ a) Da qualidade dos ésteres metílicos de ácidos gordos (FAME) e etanol, a inc
 
 b) No caso do biocombustível já incorporado nos combustíveis fósseis, documento, emitido pela entidade competente do Estado-Membro ou do país de origem onde é efetuada essa incorporação, atestando a quantidade de biocombustível incorporado.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Os TdB podem ser transacionados, sendo que a transação de TdB não acompanhado do correspondente volume de biocombustível está sujeita à celebração de contrato escrito.
 
@@ -481,7 +581,9 @@ b) No caso do biocombustível já incorporado nos combustíveis fósseis, docume
 
 7 - A publicação, divulgação e disponibilização, para consulta ou outro fim, de informações, documentos e outros conteúdos que, pela sua natureza e nos termos do presente decreto-lei, possam ou devam ser disponibilizados ao público, sem prejuízo do uso simultâneo de outros meios, deve estar disponível em formatos abertos, que permitam a leitura por máquina, para ser colocada no Portal de Dados Abertos da Administração Pública, em www.dados.gov.pt.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -519,7 +621,9 @@ d) Cumpra os critérios de sustentabilidade previstos nos artigos 4.º, 6.º, 7.
 
 10 - ...
 
-###### Artigo 19.º-A — [...]
+Artigo 19.º-A
+
+[...]
 
 1 - A DGEG pode colocar a leilão os TdB que lhe são devidos, correspondentes aos TdB identificados no n.º 8 do artigo anterior e no n.º 6 do artigo 24.º
 
@@ -543,7 +647,9 @@ b) Em 40 % para DGEG.
 
 9 - Os relatórios referidos no número anterior devem ser enviados ao membro do Governo responsável pela área da energia no prazo máximo de 30 dias úteis e publicados no sítio na Internet da ERSE, em conformidade com o disposto no n.º 7 do artigo 17.º
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - As funções de ECS são desempenhadas pelo LNEG, competindo-lhe, designadamente:
 
@@ -565,7 +671,9 @@ h) Comunicar à ENSE, E. P. E., até ao dia 20 de cada mês, o número de TdB a 
 
 2 - (Revogado.)
 
-###### Artigo 22.º — Supervisão e fiscalização
+Artigo 22.º
+
+Supervisão e fiscalização
 
 1 - Compete à ERSE a supervisão do setor dos biocombustíveis, ao abrigo dos seus Estatutos, nos termos da qual elabora um relatório anual que envia ao membro do Governo responsável pela área da energia, que inclui, nomeadamente:
 
@@ -581,7 +689,9 @@ d) A apreciação do nível de cumprimento das metas de incorporação de biocom
 
 3 - Compete à ENSE, E. P. E., a fiscalização do cumprimento das disposições constantes no presente decreto-lei, sem prejuízo das competências próprias que a lei atribua a outras entidades.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -593,7 +703,9 @@ d) A apreciação do nível de cumprimento das metas de incorporação de biocom
 
 5 - Para cumprimento do disposto nos números anteriores, o LNEG, I. P., e a ENSE, E. P. E., disponibilizam à DGEG, até dia 10 de setembro de cada ano civil, as informações relevantes para a comunicação prevista no n.º 1.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - O incumprimento das obrigações de apresentação dos TdB como comprovativo da incorporação de biocombustíveis nos termos do n.º 2 do artigo 11.º e do artigo 13.º determina o pagamento de compensações, por cada TdB em falta, no montante correspondente a duas vezes o valor mais elevado do TdB licitado, no conjunto dos três últimos leilões realizados pela DGEG.
 
@@ -609,7 +721,9 @@ d) A apreciação do nível de cumprimento das metas de incorporação de biocom
 
 7 - (Revogado.)
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -631,7 +745,9 @@ c) (Revogada.)
 
 7 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -667,21 +783,21 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de dezembro de 2020. - Pedro Gramaxo de Carvalho Siza Vieira - Augusto Ernesto Santos Silva - João Rodrigo Reis Carvalho Leão - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem - João Pedro Soeiro de Matos Fernandes - Maria do Céu de Oliveira Antunes Albuquerque.
 
-**Promulgado em 7 de janeiro de 2021.**
+Promulgado em 7 de janeiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de janeiro de 2021.**
+Referendado em 12 de janeiro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
 «ANEXO IV
 
-# Parte A. Matérias-primas e combustíveis elegíveis à emissão de 2 TdB por tep de biocombustível sustentável
+Parte A. Matérias-primas e combustíveis elegíveis à emissão de 2 TdB por tep de biocombustível sustentável
 
 a) Algas, se cultivadas em terra, em lagos naturais ou fotobiorreatores;
 
@@ -723,7 +839,7 @@ s) ...
 
 t) ...
 
-# Parte B. Matérias-primas e combustíveis elegíveis à emissão de 2 TdB por tep de biocombustível sustentável
+Parte B. Matérias-primas e combustíveis elegíveis à emissão de 2 TdB por tep de biocombustível sustentável
 
 a) ...
 
@@ -1319,11 +1435,11 @@ O presente decreto-lei entra em vigor a 1 de janeiro de 2011, sem prejuízo do n
 
 A - Valores típicos e valores por defeito para os biocombustíveis produzidos sem emissões líquidas de carbono devidas a alterações da afetação dos solos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf))](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
 
 B - Valores típicos e valores por defeito estimados para os futuros biocombustíveis que, em janeiro de 2008, não existiam no mercado ou nele estavam presentes em quantidades pouco significativas, produzidos sem emissões líquidas de carbono devidas a alterações da afetação dos solos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf))](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
 
 C - Metodologia
 
@@ -1455,51 +1571,51 @@ D - Valores por defeito discriminados para os biocombustíveis e biolíquidos
 
 Valores por defeito discriminados para o cultivo: «eec», definido na parte C do presente anexo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf))](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
 
 Valores por defeito discriminados para o processamento (incluindo eletricidade excedentária): «ep - eee», definido na parte C do presente anexo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf))](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
 
 Valores por defeito discriminados para o transporte e distribuição: «etd», definido na parte C do presente anexo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf))](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
 
 E - Estimativa dos valores por defeito discriminados para os futuros biocombustíveis e biolíquidos que, em janeiro de 2008, não estavam no mercado ou nele estavam presentes em quantidades pouco significativas
 
 Valores por defeito discriminados para o cultivo: «eec», definido na parte C do presente anexo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf))](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
 
 Valores por defeito discriminados para o processamento (incluindo eletricidade excedentária): «ep - eee», definido na parte C do presente anexo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf))](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
 
 Valores por defeito discriminados para o transporte e distribuição: «etd», definido na parte C do presente anexo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf))](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
 
 Total para o cultivo, processamento, transporte e distribuição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf))](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
 
 ## ANEXO II — Teor energético dos combustíveis para transportes
 
 (lista não exaustiva)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf))](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
 
 ## ANEXO III
 
-# Parte A. Estimativas provisórias de emissões de matérias-primas para biocombustíveis e biolíquidos decorrentes da alteração indireta do uso do solo (gCO(índice 2eq)/MJ)
+Parte A. Estimativas provisórias de emissões de matérias-primas para biocombustíveis e biolíquidos decorrentes da alteração indireta do uso do solo (gCO(índice 2eq)/MJ)
 
 A tabela seguinte apresenta estimativas de valores médios de emissões associadas à alteração indireta do uso do solo para grupos de matérias-primas agrícolas utilizadas na produção de biocombustíveis e biolíquidos. Estes valores médios representam uma média ponderada dos valores das matérias-primas modelados individualmente. A magnitude dos valores no presente anexo é sensível ao conjunto de pressupostos (como o tratamento de coprodutos, evolução dos rendimentos, teor de carbono e deslocação de outras produções) que são utilizados nos modelos económicos elaborados para a sua estimação. Por conseguinte, embora não seja possível caracterizar por completo a variância de incerteza associada a tais estimativas, foi realizada uma análise de sensibilidade dos resultados com base na variação aleatória de parâmetros chave, a chamada análise de Monte Carlo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf))](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/01300/0000300040.pdf)
 
 A variância acima incluída reflete 90 % dos resultados utilizando os percentis 5 e 95 resultantes da análise. O percentil 5 sugere um valor abaixo do qual foram feitas 5 % das observações (ou seja, 5 % do total dos dados utilizados deram resultados inferiores a 8, 4 e 33 gCO(índice 2eq)/MJ). O percentil 95 sugere um valor abaixo do qual foram feitas 95 % das observações (ou seja, 5 % do total dos dados utilizados deram resultados superiores a 16, 17 e 66 gCO(índice 2eq)/MJ).
 
-# Parte B. Biocombustíveis e biolíquidos cujas emissões estimadas decorrentes da alteração indireta do uso do solo são consideradas nulas
+Parte B. Biocombustíveis e biolíquidos cujas emissões estimadas decorrentes da alteração indireta do uso do solo são consideradas nulas
 
 Os biocombustíveis e os biolíquidos produzidos a partir das categorias de matérias-primas a seguir indicadas são considerados como tendo emissões estimadas decorrentes da alteração indireta do uso do solo nulas:
 
@@ -1549,7 +1665,7 @@ s) Captura e utilização de carbono para fins de transporte, se a fonte de ener
 
 t) Bactérias, se a fonte de energia for renovável nos termos do artigo 2.º, segundo parágrafo, alínea a), da [Diretiva 2009/28/CE](http://data.europa.eu/eli/dir/2009/28/oj?locale=pt);
 
-# Parte B. Matérias-primas e combustíveis elegíveis à emissão de 2 TdB por tep de biocombustível sustentável:
+Parte B. Matérias-primas e combustíveis elegíveis à emissão de 2 TdB por tep de biocombustível sustentável:
 
 a) Óleos alimentares usados, mediante a apresentação de documento(s) que:
 
@@ -1558,3 +1674,5 @@ i) Comprove a autorização sanitária da importação daquela remessa de OAU, n
 ii) Ateste a rastreabilidade dos OAU, desde a origem até ao seu destino final;
 
 b) Gorduras animais classificadas como de categorias 1 e 2 em conformidade com o [Regulamento (CE) n.º 1069/2009](http://data.europa.eu/eli/reg/2009/1069/oj?locale=pt) do Parlamento Europeu e do Conselho, que define regras sanitárias relativas a subprodutos animais e produtos derivados não destinados ao consumo humano e que revoga o [Regulamento (CE) n.º 1774/2002](http://data.europa.eu/eli/reg/2002/1774/oj?locale=pt) (Regulamento relativo aos subprodutos animais).
+
+113885518

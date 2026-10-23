@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/148/2001/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2001-316076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:24:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b469724c88aabd6824b10ff6456fdae10152efc38d703dd344c6887361854386
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 614969eb67a8c0c5dbb4908a899a53d1a20c2685843db6392441a60b0cb88172
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:24:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,39 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Telefone
-- Publicidade
-- Multa
 - Contra-ordenação
 - Fiscalização
 - Horário de Exibição
 - Imprensa
 - Instituto do Consumidor
+- Multa
 - Pornografia
 - Proteção do Consumidor
-- Suporte Publicitário
+- Publicidade
 - Serviços de Audiotexto
 - Serviços de Valor Acrescentado
+- Suporte Publicitário
+- Telefone
 - Televisão
 relationships:
 - type: amended_by
   target: pt:dre:604820:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:604820:por
+  label: "Alterados os arts. 2º e 2º-A do Dec Lei 175/99, de 21-Maio, na redacção do presente diploma, pelo DEC LEI.63/2009.10.03.2009.MEI,\
+    \ DR.IS [48] de 10.03.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-2009-604820
+  date: '2009-03-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/175/1999/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/175/1999/05/21/p/dre
+- type: cites
+  target: pt:dre:321678:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:24:44Z'
   warnings: []
   errors: []
 ---
@@ -177,12 +187,12 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Março de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Mário Cristina de Sousa - José Estêvão Cangarato Sasportes - José Manuel Lello Ribeiro de Almeida.
 
-**Promulgado em 18 de Abril de 2001.**
+Promulgado em 18 de Abril de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Abril de 2001.**
+Referendado em 26 de Abril de 2001.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.

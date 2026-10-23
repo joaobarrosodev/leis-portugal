@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/10/24000/21972198.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/285-1978-328178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:45:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad78acbb5ed7459f5d430619c7fd3d1f6a3672d90139fb49a7d36886aa2faff9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5400335dd471c7a84eaa136ae58cf91b35d9ab2851e316f8ddd0f2d738d7fd9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:45:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cereal
+- EPAC
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:682014:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688206:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:682014:por
+  label: "Revogado pelo DN.124/80.12.04.1980.MFP, DR.IS [86] de 12.04.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/124-1980-682014
+  date: '1980-04-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:45:55Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +144,7 @@ Preço único do trigo
 
 1.º A tabela de preços de aquisição à produção do trigo produzido no continente e regiões autónomas é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/10/24000/21972198.pdf))](https://files.diariodarepublica.pt/1s/1978/10/24000/21972198.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/10/24000/21972198.pdf)
 
 2.º O preço da tonelada de trigo de peso específico inferior a 73 kg por hectolitro é reduzido de 31$60 por cada quilograma a menos.
 
@@ -136,7 +168,7 @@ Centeio
 
 8.º A tabela dos preços de intervenção para o centeio de grão seco e são, com um máximo de 3% de impurezas e 14% de humidade, entregue pela produção à EPAC é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/10/24000/21972198.pdf))](https://files.diariodarepublica.pt/1s/1978/10/24000/21972198.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/10/24000/21972198.pdf)
 
 9.º O preço da tonelada de centeio de peso específico inferior a 70 kg por hectolitro é reduzido de 30$00 por cada quilograma a menos.
 

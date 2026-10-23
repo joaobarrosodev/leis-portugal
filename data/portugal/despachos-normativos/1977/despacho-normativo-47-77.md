@@ -46,36 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/47-1977-141651
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:39:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c654337a54b90455da5f2d89e4f9fdff285cd219fb0c2cc7d24242faa083f119
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1eb691ddca249bbff405d518b073c6d9270d9fb71737e974ea110efce662737b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:39:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Previdência Social
+- Regime Geral de Previdência
+relationships:
+- type: cites
+  target: pt:dre:138282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:39:47Z'
   warnings: []
   errors: []
 ---
@@ -142,4 +164,4 @@ A presente certidão é válida pelo prazo de noventa dias, e não pode ser util
 
 (nota 2) Indicar por extenso o número ou números correspondentes à situação do contribuinte.
 
-**O Ministro dos Assuntos Sociais, Armando Bacelar.**
+O Ministro dos Assuntos Sociais, Armando Bacelar.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23566-1968-265128
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d397ef478f03c5f2efbcf59c416ed2b4f4c45af4eebde41debcc771e6f9c96e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5140080fda207f97135a132ef3d208839b568a9a5683a2c69d2cc004f16bff7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:419843:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:44Z'
   warnings: []
   errors: []
 ---
@@ -90,6 +94,6 @@ Considerando o que lhe foi proposto pela Companhia dos Caminhos de Ferro Portugu
 
 Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, nos termos do artigo 2.º do [Decreto-Lei n.º 27665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27665-1937-419843), de 24 de Abril de 1937, que as alíneas B) dos n.os 3.º e 4.º do quadro «Taxas de armazenagem», previsto no artigo 10.º da tarifa de operações acessórias, sejam alteradas como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/08/20300/12521252.pdf))](https://files.diariodarepublica.pt/1s/1968/08/20300/12521252.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/08/20300/12521252.pdf)
 
 Ministério das Comunicações, 28 de Agosto de 1968. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

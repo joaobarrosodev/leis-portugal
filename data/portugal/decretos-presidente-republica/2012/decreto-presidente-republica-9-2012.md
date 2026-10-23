@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/9/2012/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/9-2012-477085
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T05:15:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f10ee082fc8043d20b1275c7e60ecbc695c75dcca262187d7a707d82abcfe72d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07caf9566fb4872083945fd3cc27ffa54d9f30a12b76793502d5160f12a5cf12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:15:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exoneração
 - Embaixador
+- Exoneração
 - Liubliana
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:1410978:por
+  label: "Prorrogado até 30.04.2012 o prazo de transferência para os Serviços Internos da nomeada pelo Dec 29/2005, de 28-abr,\
+    \ exonerada pelo presente diploma, pelo DESP-EXT.4973/2012.11.04.2012.SG-MNE, DR.IIS [72] de 11.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-extrato/4973-2012-1410978
+  date: '2012-04-11'
+- type: corrected_by
+  target: pt:dre:3550242:por
+  label: "Retificado o Desp-ext. 4973/2012, de 11-abr, que prorroga o prazo da transferência, para os serviços internos, da\
+    \ exonerada pelo presente decreto, pela DECL-RECT.565/2012.02.05.2012.SG-MNE, DR.IIS [85] de 02.05.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/565-2012-3550242
+  date: '2012-05-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:15:27Z'
   warnings: []
   errors: []
 ---
@@ -88,16 +100,16 @@ validation:
 
 de 4 de janeiro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É exonerada, sob proposta do Governo, a ministra plenipotenciária de 1.ª classe Maria do Carmo de Sousa Pinto Allegro de Magalhães do cargo de Embaixadora de Portugal em Liubliana.
 
-**Assinado em 14 de Dezembro de 2011.**
+Assinado em 14 de Dezembro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de Dezembro de 2011.**
+Referendado em 29 de Dezembro de 2011.
 
-**O Primeiro-Ministro, Pedro Passos Coelho. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo de Sacadura Cabral Portas.**
+O Primeiro-Ministro, Pedro Passos Coelho. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo de Sacadura Cabral Portas.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23700/33543355.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/814-1980-462056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8222cc8a31b0bbf2638ec2214864bbcb4d809132468e44f51376c68876200ac6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51cc9254684f9159b8eb0fc9361cb0b487974774dcaa7bdb7f9708d3f5a2d5f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Administração Interna
+- Quadro de Pessoal
+- Serviço de Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:627065:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:326560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476517:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:627065:por
+  label: "Revogada pela DEC LEI.440/86.31.12.1986.MAI, DR.IS [300]5ºSupl de 31.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/440-1986-627065
+  date: '1986-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:45Z'
   warnings: []
   errors: []
 ---
@@ -96,6 +116,6 @@ Manda o Governo da República Portuguesa, pelos Ministros da Administração Int
 
 Presidência do Conselho de Ministros e Ministérios da Administração Interna e das Finanças e do Plano, 30 de Setembro de 1980. - O Ministro da Administração Interna, Eurico de Melo. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo
 
-## Anexo a que se refere a Portaria n.º 814/80
+Anexo a que se refere a Portaria n.º 814/80
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23700/33543355.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23700/33543355.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/23700/33543355.pdf)

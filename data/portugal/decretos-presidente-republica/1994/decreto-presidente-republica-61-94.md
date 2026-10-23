@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/61/1994/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/61-1994-232076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T04:17:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d81b50d0a86299ee7265cd99d2d785ebfc8cc5fbb30b37c3066d67d7ca861f66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1ec8d812436c610c2e3fd7d27f03a295fe415041fb688bb2d325d5bae366b2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:17:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/46/1994/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/46/1994/08/02/p/dre
+- type: cites
+  target: pt:dre:232080:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:17:24Z'
   warnings: []
   errors: []
 ---
@@ -91,16 +95,16 @@ validation:
 
 de 2 de Agosto
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:
 
 São ratificadas a Convenção Constitutiva do Fundo Multilateral de Investimentos e a Convenção de Administração do Fundo Multilateral de Investimentos, complementar da Convenção acima mencionada, aprovadas, para adesão, pela [Resolução da Assembleia da República n.º 46/94](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/46-1994-232080), em 17 de Março de 1994.
 
-**Assinado em 8 de Junho de 1994.**
+Assinado em 8 de Junho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Junho de 1994.**
+Referendado em 21 de Junho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

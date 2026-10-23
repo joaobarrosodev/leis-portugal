@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/104/2012/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2012-552047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76fd9b6e234730b42966cb6192df183c78d16b75161a1d2337a2267cb62aaecf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef7595fc861ee4fedb5e0d62880a7cbcfc07677a49f8424524dcff77e4b95cce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Vida Selvagem
-- Proteção dos Animais
+- Comércio
+- Comissão de Coordenação e Desenvolvimento Regional
 - Contra-ordenação
 - Direção Geral de Alimentação e Veterinária
 - Fiscalização
-- Comissão de Coordenação e Desenvolvimento Regional
 - GNR
 - Instituto da Conservação da Natureza e das Florestas
 - Parque Zoológico
 - Polícia Municipal
-- Comércio
+- Proteção dos Animais
+- PSP
 - Saúde Animal
+- Vida Selvagem
 relationships:
 - type: cites
   target: celex:31999L0022
@@ -97,15 +97,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/59/2003/04/01/p/dre
 article_structure:
-  article_count: 89
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 67
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:23Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +158,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -194,7 +196,9 @@ p) ...
 
 q) Autoridade competente a Direção-Geral de Alimentação e Veterinária (DGAV), enquanto autoridade veterinária nacional e regional, o Instituto da Conservação da Natureza e das Florestas, I. P.(ICNF, I. P.), enquanto autoridade CITES (Convenção sobre o Comércio Internacional das Espécies da Fauna e da Flora Ameaçada de Extinção) responsável pela conservação da fauna selvagem autóctone e autoridade de gestão dos recursos cinegéticos, as comissões de coordenação e desenvolvimento regional (CCDR), enquanto autoridades fiscalizadoras do ambiente, os médicos veterinários municipais, enquanto autoridades veterinárias concelhias, a Guarda Nacional Republicana (GNR), a Polícia de Segurança Pública (PSP) e a Polícia Municipal (PM), enquanto autoridades policiais.
 
-###### Artigo 5.º — Permissão administrativa de funcionamento
+Artigo 5.º
+
+Permissão administrativa de funcionamento
 
 1 - O exercício de atividade dos parques zoológicos depende de autorização, ficando sujeito ao procedimento de permissão administrativa.
 
@@ -248,7 +252,9 @@ i) Declaração de aceitação do médico veterinário responsável.
 
 9 - (Revogado.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A DGAV procede ao registo dos parques zoológicos da seguinte forma:
 
@@ -280,7 +286,9 @@ acrescendo a matrícula do parque zoológico formada por três algarismos seguid
 
 2 - A DGAV mantém a nível nacional um registo dos parques zoológicos, o qual deve ser comunicado ao ICNF, I. P.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Os requerentes que apresentem o pedido de permissão administrativa de funcionamento previsto no artigo 5.º devem ter ao seu serviço um responsável técnico licenciado em biologia ou engenharia zootécnica que esteja inscrito na respetiva associação pública profissional.
 
@@ -292,7 +300,9 @@ acrescendo a matrícula do parque zoológico formada por três algarismos seguid
 
 5 - As qualificações dos médicos veterinários, dos biólogos e dos engenheiros zootécnicos cidadãos de Estados-membros da União Europeia ou do Espaço Económico Europeu, obtidas fora de Portugal, são reconhecidas pelas respetivas associações públicas profissionais portuguesas nos termos do capítulo iii da Lei n.º 9/2009, de 4 de março.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 A DGAV só concede a permissão administrativa de funcionamento referida no artigo 5.º se o diretor do parque zoológico requerente preencher os seguintes requisitos:
 
@@ -302,7 +312,9 @@ b) ...
 
 c) ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -340,17 +352,23 @@ l) ...
 
 7 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
 2 - O diretor do parque zoológico, para a execução das medidas previstas neste artigo, pode solicitar colaboração a todas as autoridades ou entidades, em especial das câmaras municipais, DGAV, ICNF, I. P., GNR, PSP, PM e corporações de bombeiros.
 
-###### Artigo 15.º — Competências da DGAV
+Artigo 15.º
+
+Competências da DGAV
 
 Compete à DGAV o controlo e a aplicação da disciplina instituída pelo presente diploma e das suas disposições regulamentares.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -360,11 +378,15 @@ Compete à DGAV o controlo e a aplicação da disciplina instituída pelo presen
 
 4 - O pedido de autorização referido nos n.os 2 e 3 é decidido no prazo de 10 dias, após o que, na falta de decisão, não há lugar a deferimento tácito, podendo o interessado obter a tutela adequada junto dos tribunais administrativos.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 Quando circunstâncias imprevisíveis impeçam a aplicação do disposto no presente diploma, a DGAV ou o ICNF, I. P., consoante os casos, diligenciarão no sentido de que sejam tomadas todas as medidas necessárias para evitar ou reduzir ao mínimo o sofrimento dos animais, estando os parques zoológicos obrigados a tomar todas as medidas especiais necessárias para aplicar as determinações dimanadas daquelas entidades, devendo as autoridades administrativas, policiais ou outras prestar a colaboração que lhes for solicitada por aquelas.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Sem prejuízo das competências atribuídas por lei a outras entidades, compete à DGAV, ao ICNF, I. P., às CCDR, aos médicos veterinários municipais, à GNR, à PSP e à PM assegurar a fiscalização do cumprimento das normas constantes do presente diploma.
 
@@ -372,7 +394,9 @@ Quando circunstâncias imprevisíveis impeçam a aplicação do disposto no pres
 
 3 - Caso o proprietário se recuse a facultar o acesso ao parque zoológico, pode ser solicitado mandado judicial para permitir às autoridades competentes o acesso aos locais onde os animais se encontrem, nomeadamente, casas de habitação e terrenos privados.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Constituem contraordenações, punidas com coima de (euro) 100 a (euro) 3740, no caso de pessoa singular, e de (euro) 500 a (euro) 44 800, no caso de pessoa coletiva:
 
@@ -402,7 +426,9 @@ d) [Anterior alínea c).]
 
 7 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A competência para a elaboração de autos de contraordenação cabe às autoridades referidas no n.º 1 do artigo 19.º
 
@@ -410,11 +436,15 @@ d) [Anterior alínea c).]
 
 3 - A aplicação das coimas e sanções acessórias compete ao diretor-geral de Alimentação e Veterinária.
 
-###### Artigo 25.º — Cooperação administrativa
+Artigo 25.º
+
+Cooperação administrativa
 
 As autoridades competentes nos termos do presente diploma participam na cooperação administrativa no âmbito dos procedimentos relativos a prestadores provenientes de outro Estado membro, nos termos do capítulo vi do Decreto-Lei n.º 92/2010, de 26 de julho, e do n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, nomeadamente através do Sistema de Informação do Mercado Interno.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Pelos custos inerentes à emissão da permissão administrativa de funcionamento é devida uma taxa a pagar pelos requerentes.
 
@@ -440,7 +470,9 @@ Instrução do processo de permissão administrativa
 
 5 - A direção de serviços veterinários da região conclui a instrução, elabora um relatório final com proposta de decisão no prazo de 15 dias a contar da data da visita de controlo e remete o processo, com os elementos dele constantes, ao diretor-geral de Alimentação e Veterinária, para decisão.
 
-###### Artigo 5.º-B — Decisão
+Artigo 5.º-B
+
+Decisão
 
 1 - O diretor-geral de Alimentação e Veterinária profere decisão no prazo de 15 dias da remessa do processo a que se refere o n.º 5 do artigo anterior.
 
@@ -448,11 +480,15 @@ Instrução do processo de permissão administrativa
 
 3 - Em caso de deferimento tácito, o documento comprovativo de receção do pedido de permissão de funcionamento, acompanhado do comprovativo de pagamento das taxas devidas, vale como comprovativo da permissão de funcionamento, para todos os efeitos legais.
 
-###### Artigo 5.º-C — Divulgação dos alojamentos
+Artigo 5.º-C
+
+Divulgação dos alojamentos
 
 A DGAV publicita a lista dos parques zoológicos com permissão administrativa de funcionamento no balcão único eletrónico dos serviços a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.
 
-###### Artigo 5.º-D — Alteração de funcionamento dos parques zoológicos
+Artigo 5.º-D
+
+Alteração de funcionamento dos parques zoológicos
 
 1 - A alteração de funcionamento dos parques zoológicos, designadamente a modificação estrutural dos alojamentos, a transferência de titularidade, a cessão de exploração, a cessação da atividade e a alteração de direção técnica, deve ser comunicada à DGAV preferencialmente por via eletrónica, através do balcão único eletrónico dos serviços a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, no prazo de 15 dias contados da respetiva ocorrência.
 
@@ -460,7 +496,9 @@ A DGAV publicita a lista dos parques zoológicos com permissão administrativa d
 
 3 - Compete à DGAV atualizar as informações obtidas através das comunicações referidas nos números anteriores.
 
-###### Artigo 5.º-E — Suspensão de atividade e encerramento dos parques zoológicos
+Artigo 5.º-E
+
+Suspensão de atividade e encerramento dos parques zoológicos
 
 1 - O diretor-geral de Alimentação e Veterinária pode, mediante despacho, determinar a suspensão da atividade ou o encerramento do parque zoológico, designadamente quando se verifique uma das seguintes situações:
 
@@ -484,7 +522,9 @@ d) Falta de condições de segurança e de tranquilidade para as pessoas ou anim
 
 7 - A transferência e a eutanásia de animais, na sequência do encerramento, total ou parcial, de um parque zoológico, são da competência do ICNF, I. P., da DGAV e das autoridades policiais no âmbito das suas competências.
 
-###### Artigo 5.º-F — Permissão de reabertura após suspensão da atividade
+Artigo 5.º-F
+
+Permissão de reabertura após suspensão da atividade
 
 1 - Após o decurso do prazo fixado nos termos do n.º 4 do artigo anterior, a direção de serviços veterinários da área de localização do parque zoológico realiza visita de controlo no prazo de 20 dias, a fim de verificar se se encontram reunidas condições para o levantamento da suspensão, mediante decisão de permissão de reabertura a proferir pelo diretor-geral de Alimentação e Veterinária.
 
@@ -492,11 +532,15 @@ d) Falta de condições de segurança e de tranquilidade para as pessoas ou anim
 
 3 - A permissão de reabertura é publicitada pelos mesmos meios utilizados para a divulgação da suspensão da permissão.
 
-###### Artigo 5.º-G — Divulgação de alteração ou de revogação da permissão de funcionamento
+Artigo 5.º-G
+
+Divulgação de alteração ou de revogação da permissão de funcionamento
 
 As medidas de alteração ou de revogação da permissão de funcionamento previstas nos artigos anteriores são publicitadas através do balcão único eletrónico dos serviços a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.
 
-###### Artigo 5.º-H — Reconhecimento mútuo
+Artigo 5.º-H
+
+Reconhecimento mútuo
 
 1 - Não pode haver duplicação entre as condições exigíveis para o cumprimento dos procedimentos previstos no presente diploma e os requisitos e os controlos equivalentes ou comparáveis, quanto à finalidade, a que o requerente já tenha sido submetido noutro Estado membro da União Europeia ou do Espaço Económico Europeu.
 
@@ -528,15 +572,15 @@ São revogados a alínea b) do n.º 2 do artigo 2.º, a alínea j) do artigo 3.�
 
 Visto e aprovado em Conselho de Ministros de 5 de abril de 2012. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento - José de Almeida Cesário - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 7 de maio de 2012.**
+Promulgado em 7 de maio de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de maio de 2012.**
+Referendado em 10 de maio de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 59/2003, de 1 de abril
 
@@ -1060,7 +1104,9 @@ As autoridades competentes nos termos do presente diploma participam na coopera�
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Cuidados com os animais
 
@@ -1312,8 +1358,8 @@ d) Identificar e desenvolver estratégias orientadas para a resolução de probl
 
 ### CAPÍTULO V — Registo anual de animais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/09500/0255502571.pdf))](https://files.diariodarepublica.pt/1s/2012/05/09500/0255502571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/09500/0255502571.pdf)
 
 Exemplo do preenchimento do quadro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/09500/0255502571.pdf))](https://files.diariodarepublica.pt/1s/2012/05/09500/0255502571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/09500/0255502571.pdf)

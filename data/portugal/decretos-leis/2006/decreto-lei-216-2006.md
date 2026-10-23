@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/216/2006/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2006-545633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9ff30b6de38259c855f69fcabc44cf64402ddc735189d0dd4dbbb36d77e01d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f231015d8489f61a3ce0891e31ac169bcd8cff29585a123048be4abf176c3744
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,16 +111,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/504/1999/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/504/1999/11/20/p/dre
+- type: cites
+  target: pt:dre:150713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:270807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643283:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:491440:por
+  label: "Revogado parcialmente, a partir de 01.10.2010, o Dec Lei 265/93 de 31-Jul, com as alterações constantes do presente\
+    \ diploma, pelo DEC LEI.297/2009.14.10.2009.MAI, DR.IS [199] de 14.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/297-2009-491440
+  date: '2009-10-14'
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:53Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +207,9 @@ g) ...
 
 3 - Os destacamentos a que corresponde o comando de major são definidos por despacho do comandante-geral.
 
-###### Artigo 272.º — [...]
+Artigo 272.º
+
+[...]
 
 ...
 
@@ -193,7 +233,9 @@ i) No caso de se encontrarem a prestar ou terem prestado serviço militar efecti
 
 j) Sendo militares em regime de contrato, sejam autorizados a concorrer e a ser admitidos na Guarda pelo respectivo chefe do Estado-Maior.
 
-###### Artigo 275.º — [...]
+Artigo 275.º
+
+[...]
 
 1 - A verificação das condições de admissão é feita através de:
 
@@ -209,7 +251,9 @@ e) ...
 
 2 - As condições referidas nas alíneas i) e j) do artigo 272.º e no n.º 2 do artigo 276.º são atestadas por informação prestada pelo ramo das Forças Armadas em que o candidato presta ou prestou serviço.
 
-###### Artigo 276.º — Admissão ao curso de formação de praças
+Artigo 276.º
+
+Admissão ao curso de formação de praças
 
 1 - São admitidos provisoriamente na Guarda, para a frequência do curso de formação de praças, os candidatos que, satisfazendo as condições gerais e especiais de admissão e obtendo aproveitamento nas provas de admissão previstas no artigo anterior, fiquem dentro das vagas anualmente fixadas.
 
@@ -229,12 +273,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Agosto de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira.
 
-**Promulgado em 16 de Outubro de 2006.**
+Promulgado em 16 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 18 de Outubro de 2006.**
+Referendado em 18 de Outubro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

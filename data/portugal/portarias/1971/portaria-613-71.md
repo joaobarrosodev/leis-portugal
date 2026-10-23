@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/613-1971-631440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a06138b3fa8c75a99ec6a35b759b4bd6b7b61711917ae47073a36b291f30f42e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e268bd8eba1e3fc10c565a7c19b30619ebc842f5f9eb4e52b71cba4fe92a51f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:212851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:11Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +96,7 @@ Considerando a conveniência de introduzir nos quadros I e IV da [Portaria n.º 
 
 Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que os quadros I e IV anexos à [Portaria n.º 24482](https://diariodarepublica.pt/dr/detalhe/portaria/24482-1969-212851), de 26 de Dezembro de 1969, sejam substituídos pelos quadros anexos a esta portaria.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.
 
 QUADRO I
 
@@ -96,7 +104,7 @@ QUADRO I
 
 Disciplinas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/11/26400/17361738.pdf))](https://files.diariodarepublica.pt/1s/1971/11/26400/17361738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/11/26400/17361738.pdf)
 
 QUADRO IV
 
@@ -104,18 +112,18 @@ QUADRO IV
 
 I) Pilotagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/11/26400/17361738.pdf))](https://files.diariodarepublica.pt/1s/1971/11/26400/17361738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/11/26400/17361738.pdf)
 
 II) Máquinas marítimas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/11/26400/17361738.pdf))](https://files.diariodarepublica.pt/1s/1971/11/26400/17361738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/11/26400/17361738.pdf)
 
 III) Radiotelegrafia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/11/26400/17361738.pdf))](https://files.diariodarepublica.pt/1s/1971/11/26400/17361738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/11/26400/17361738.pdf)
 
 IV) Comissariado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/11/26400/17361738.pdf))](https://files.diariodarepublica.pt/1s/1971/11/26400/17361738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/11/26400/17361738.pdf)
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

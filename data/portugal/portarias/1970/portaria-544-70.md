@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/544-1970-147819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a81de010fdce0015f88c601544a40c85b4258f04978e96358c1fabd82f81b85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2af244f9c1f9f1124bef248abd36a3205f5ae84f61ee5e6ff32cf91bf63a85a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:162381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:33Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +103,7 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Receita ordinária
 
-###### Artigo 3.º, n.º 1) «Outras receitas - Do Fundo de Defesa Militar do Ultramar» ... 200000$00
+Artigo 3.º, n.º 1) «Outras receitas - Do Fundo de Defesa Militar do Ultramar» ... 200000$00
 
 Esta importância reforça a verba que a seguir se indica da tabela de despesa do mesmo orçamento:
 
@@ -99,33 +111,33 @@ Despesa ordinária
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 200000$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 200000$00
 
 Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42559-1959-429862), de 3 de Outubro de 1959, reforçar com as quantias que se indicam as seguintes verbas inscritas na tabela de despesa do orçamento privativo das forças navais ultramarinas em vigor na província de S. Tomé e Príncipe para 1970:
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 140000$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 140000$00
 
 Despesas com o material:
 
-###### Artigo 6.º, n.º 1) «Material de consumo corrente - Impressos» ... 6000$00
+Artigo 6.º, n.º 1) «Material de consumo corrente - Impressos» ... 6000$00
 
-###### Artigo 6.º, n.º 5) «Material de consumo corrente - Combustíveis e lubrificantes» ... 15000$00
+Artigo 6.º, n.º 5) «Material de consumo corrente - Combustíveis e lubrificantes» ... 15000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 7.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... 8000$00
+Artigo 7.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... 8000$00
 
-###### Artigo 8.º, n.º 1) «Despesas de comunicações - Correios e telégrafos» ... 1000$00
+Artigo 8.º, n.º 1) «Despesas de comunicações - Correios e telégrafos» ... 1000$00
 
-###### Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal» ... 30000$00
+Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal» ... 30000$00
 
-###### Artigo 10.º, n.º 2) «Encargos administrativos - Pagamento de serviços e encargos não especificados» ... 6500$00
+Artigo 10.º, n.º 2) «Encargos administrativos - Pagamento de serviços e encargos não especificados» ... 6500$00
 
-###### Artigo 11.º, n.º 1) «Outros encargos - Força motriz» ... 20000$00
+Artigo 11.º, n.º 1) «Outros encargos - Força motriz» ... 20000$00
 
-###### Artigo 12.º «Abono de família» ... 7000$00
+Artigo 12.º «Abono de família» ... 7000$00
 
 ... 233500$00
 
@@ -133,28 +145,28 @@ tomando como contrapartida as seguintes disponibilidades apuradas na mesma tabel
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 2), alínea a) «Outras despesas com pessoal - Fardamento, resguardos e calçado às praças - Das tabelas gerais» ... 20000$00
+Artigo 3.º, n.º 2), alínea a) «Outras despesas com pessoal - Fardamento, resguardos e calçado às praças - Das tabelas gerais» ... 20000$00
 
-###### Artigo 3.º, n.º 4) «Outras despesas com o pessoal - Abonos do [Decreto-Lei n.º 46451](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46451-1965-292082)» ... 10000$00
+Artigo 3.º, n.º 4) «Outras despesas com o pessoal - Abonos do [Decreto-Lei n.º 46451](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46451-1965-292082)» ... 10000$00
 
-###### Artigo 3.º, n.º 5) «Outras despesas com o pessoal - Subsídio eventual de custo de vida» ... 140000$00
+Artigo 3.º, n.º 5) «Outras despesas com o pessoal - Subsídio eventual de custo de vida» ... 140000$00
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 1) «Aquisições de utilização permanente - Móveis» ... 20000$00
+Artigo 4.º, n.º 1) «Aquisições de utilização permanente - Móveis» ... 20000$00
 
-###### Artigo 4.º, n.º 2) «Aquisições de utilização permanente - Material de despesa e segurança pública - Armamento, equipamento e outro material de guerra» ... 2000$00
+Artigo 4.º, n.º 2) «Aquisições de utilização permanente - Material de despesa e segurança pública - Armamento, equipamento e outro material de guerra» ... 2000$00
 
-###### Artigo 6.º, n.º 3) «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados» ... 5000$00
+Artigo 6.º, n.º 3) «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados» ... 5000$00
 
-###### Artigo 6.º, n.º 4) «Material de consumo corrente - Munições» ... 15000$00
+Artigo 6.º, n.º 4) «Material de consumo corrente - Munições» ... 15000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 9.º, n.º 1) «Encargos das instalações - Rendas de prédios rústicos e urbanos» ... 21500$00
+Artigo 9.º, n.º 1) «Encargos das instalações - Rendas de prédios rústicos e urbanos» ... 21500$00
 
 ... 233500$00
 
-**O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.**
+O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.
 
 Para ser publicada no Boletim Oficial de S. Tomé e Príncipe. - J. da Silva Cunha.

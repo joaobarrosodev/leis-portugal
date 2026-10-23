@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/08/157a00/47774780.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/139/2005/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2005-243499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a710976c302a0aabb88d3add7e6d74379ad2bbc8f27162cdc816055a1fd1722
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 007bae8c245a0a775d7fae5b91ac5c26f6a89f5ca79a49fa707fa2d9a0d6d8c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fundação para a Ciência e a Tecnologia
-- Radiactividade
-- Radioprotecção
-- Segurança Nuclear
-- Sistema de Monitorização Ambiental
-- Comissão para a Protecção Radiológica e Segurança Nuclear
-- Saúde Pública
 - Comissão Independente para a Protecção Radiológica e Segurança Nuclear
+- Comissão para a Protecção Radiológica e Segurança Nuclear
+- Fundação para a Ciência e a Tecnologia
 - Licenciamento
 - Materia Radiactiva
 - Proteção do Ambiente
+- Radiactividade
+- Radioprotecção
+- Saúde Pública
+- Segurança Nuclear
+- Sistema de Monitorização Ambiental
 relationships:
 - type: amended_by
   target: pt:dre:504774:por
@@ -90,16 +90,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/311/1998/10/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/311/1998/10/14/p/dre
+- type: repealed_by
+  target: pt:dre:504774:por
+  label: "Revogado, a partir de 05.12.2013, o Dec Lei 311/98 de 14-out, alterado e republicado pelo presente diploma, pelo\
+    \ DEC LEI.156/2013.05.11.2013.MECI, DR.IS [214] de 05.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-2013-504774
+  date: '2013-11-05'
 article_structure:
-  article_count: 12
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:15Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +164,7 @@ e) Condenação por qualquer crime que ponha em causa a idoneidade para o exerc�
 
 10 - O exercício de funções na Comissão por funcionários públicos ou agentes administrativos é considerado, para todos os efeitos, como prestação de serviço efectivo.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - ...
 
@@ -194,13 +200,13 @@ De entre os membros iniciais da Comissão, dois são nomeados por um período de
 
 Visto e aprovado em Conselho de Ministros de 14 de Julho de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Manuel Mendonça de Oliveira Neves - Francisco Carlos da Graça Nunes Correia - Francisco Ventura Ramos - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 2 de Agosto de 2005.**
+Promulgado em 2 de Agosto de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Agosto de 2005.**
+Referendado em 4 de Agosto de 2005.
 
 Pelo Primeiro-Ministro, António Luís Santos Costa, Ministro de Estado e da Administração Interna.
 

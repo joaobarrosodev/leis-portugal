@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/40/2005/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2005-605322
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 088ff9b17d1cb655c4114058cc5f969cd140433a3f2ed1553f251fdcc33abdcc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b56feca164dc7869e7742fd3fd8937d445510a47008053f4dea7d098dff9522
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jogos de Fortuna e Azar
 - Cartão de Identificação
 - Estabelecimento de Jogos
-- Multa
 - Fiscalização
 - Inspecção Geral de Jogos
+- Jogos de Fortuna e Azar
+- Multa
 - ZONA de JOGO
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/1995/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/10/1995/01/19/p/dre
+- type: cites
+  target: pt:dre:145222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:35Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +143,9 @@ Os artigos 27.º, 29.º, 32.º, 35.º, 37.º, 39.º, 40.º, 41.º, 58.º, 126.º
 
 7 - É vedada a utilização da palavra «casino», só ou em associação com outros vocábulos, na denominação de quaisquer pessoas colectivas ou como nome de quaisquer outros estabelecimentos ou edifícios que não sejam os referidos neste artigo, com excepção das associações empresariais e profissionais específicas do sector.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -153,7 +163,9 @@ Os artigos 27.º, 29.º, 32.º, 35.º, 37.º, 39.º, 40.º, 41.º, 58.º, 126.º
 
 8 - Independentemente de reclamação do interessado, a decisão da concessionária carece de confirmação da Inspecção-Geral de Jogos, que para o efeito desenvolverá as averiguações consideradas convenientes.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Os jogos de fortuna ou azar são explorados em salas especialmente concebidas para a respectiva prática e actividades inerentes.
 
@@ -167,7 +179,9 @@ Os artigos 27.º, 29.º, 32.º, 35.º, 37.º, 39.º, 40.º, 41.º, 58.º, 126.º
 
 6 - ...
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - O acesso às salas de jogos tradicionais é sujeito à obtenção de cartão ou documento equivalente, podendo a concessionária cobrar um preço pela emissão daquele cartão, cujo valor, único para cada tipo de cartão, deve ser comunicado à Inspecção-Geral de Jogos com oito dias de antecedência.
 
@@ -181,7 +195,9 @@ Os artigos 27.º, 29.º, 32.º, 35.º, 37.º, 39.º, 40.º, 41.º, 58.º, 126.º
 
 6 - ...
 
-###### Artigo 37.º — Expulsão e restrição de acesso às salas de jogos
+Artigo 37.º
+
+Expulsão e restrição de acesso às salas de jogos
 
 1 - ...
 
@@ -191,7 +207,9 @@ Os artigos 27.º, 29.º, 32.º, 35.º, 37.º, 39.º, 40.º, 41.º, 58.º, 126.º
 
 4 - É aplicável à expulsão e à restrição de acesso às salas de jogos, previstas neste artigo, o disposto nos n.os 5 a 8 do artigo 29.º
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 A prova dos elementos de identificação necessários à emissão de cartões de acesso às salas de jogos tradicionais poderá ser feita por qualquer dos documentos seguintes:
 
@@ -199,7 +217,9 @@ a) ...
 
 b) ...
 
-###### Artigo 40.º — Cartões de acesso às salas de jogos tradicionais
+Artigo 40.º
+
+Cartões de acesso às salas de jogos tradicionais
 
 1 - ...
 
@@ -217,7 +237,9 @@ b) ...
 
 8 - ...
 
-###### Artigo 41.º — Controlo de acesso às salas de jogos
+Artigo 41.º
+
+Controlo de acesso às salas de jogos
 
 1 - As concessionárias manterão, durante todo o tempo em que estiverem abertas as salas de jogos tradicionais, um serviço, devidamente apetrechado e dotado de pessoal competente, destinado à identificação dos indivíduos que as pretendam frequentar e à fiscalização das respectivas entradas.
 
@@ -227,7 +249,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - ...
 
@@ -241,11 +265,15 @@ b) ...
 
 6 - ...
 
-###### Artigo 126.º — Emissão irregular de cartões de acesso às salas de jogos tradicionais
+Artigo 126.º
+
+Emissão irregular de cartões de acesso às salas de jogos tradicionais
 
 A emissão de cartões de acesso às salas de jogos tradicionais a favor de quem não satisfaça os requisitos legais, faz incorrer a concessionária em multa até (euro) 1500, por cada cartão.
 
-###### Artigo 146.º — [...]
+Artigo 146.º
+
+[...]
 
 1 - Quem entrar nas salas de jogos tradicionais sem cartão, com cartão que lhe não pertença ou cuja validade haja terminado ou depois de determinada a proibição da sua entrada nas mesmas salas e ainda quem, dentro daquelas salas, não o exibir, quando instado por inspector da Inspecção-Geral de Jogos, será punido com coima mínima de (euro) 300 e máxima de (euro) 1300 e proibição de entrada nas salas de jogos até dois anos.
 
@@ -253,7 +281,9 @@ A emissão de cartões de acesso às salas de jogos tradicionais a favor de quem
 
 3 - Quem entrar nas salas mistas, de máquinas ou do jogo do bingo sem estar munido de um dos documentos de identificação previstos no artigo 39.º será punido com coima mínima de (euro) 150 e máxima de (euro) 650 e proibição de entrada nas salas de jogos até um ano.
 
-###### Artigo 166.º — [...]
+Artigo 166.º
+
+[...]
 
 O disposto neste diploma aplica-se nas Regiões Autónomas, sem prejuízo das competências transferidas em matéria de jogo para os respectivos órgãos de governo próprio e da legislação que venha a ser criada em cada uma das Regiões Autónomas.»
 
@@ -267,12 +297,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix - José Pedro Aguiar Branco - Fernando Mimoso Negrão - Telmo Augusto Gomes de Noronha Correia.
 
-**Promulgado em 28 de Janeiro de 2005.**
+Promulgado em 28 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Fevereiro de 2005.**
+Referendado em 2 de Fevereiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

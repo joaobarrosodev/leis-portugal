@@ -47,40 +47,127 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/86-1984-660530
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T08:14:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b6277d14a6020e84e61c887d7e0a25eb0d58d40c1f9b7a5d529e353c51e4d39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 198726d3cf76dfc9aab0329036698dace802eb2debb4b01ee688fc3b59695a8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:14:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Executiva do Polígono de Acústica Submarina dos Açores
+- Instituto de Socorros a Náufragos
+- Instituto Hidrográfico
+- Marinha
+- Pessoal Civil
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:533787:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:328249:por
+  label: "Alterado o quadro de pessoal civil pela PORT.63/85.1985.02.01.PCM, DR.IS [27]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/63-1985-328249
+  date: '1985-02-01'
+- type: amended_by
+  target: pt:dre:324933:por
+  label: "Alterados os mapas I, II e IV anexos ao presente diploma, pela PORT.171/85.30.03.1985.MDN, DR.IS [75] de 30.03.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/171-1985-324933
+  date: '1985-03-30'
+- type: amended_by
+  target: pt:dre:177072:por
+  label: "Alterados os quadros do pessoal civil da Marinha e do Instituto Hidrográfico aprovado pelo presente diploma, pela\
+    \ PORT.703/85.21.09.1985.MDN, DR.IS [218] de 21.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/703-1985-177072
+  date: '1985-09-21'
+- type: amended_by
+  target: pt:dre:221545:por
+  label: "Substituido o mapa III, relativo ao quadro de pessoal civil do Instituto de Socorros a Náufrafos, pela PORT.572/86.1986.10.04.MDN\
+    \ DR.IS [229]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/572-1986-221545
+  date: '1986-10-04'
+- type: amended_by
+  target: pt:dre:495708:por
+  label: "Alterado o quadro de pessoal civil da Marinha aprovado pelo presente diploma, na redacção que lhe foi conferida\
+    \ pela Port 63/85 de 01-Fev, pela PORT.785/87.12.09.1987.MDN, DR.IS [210] de 12.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/785-1987-495708
+  date: '1987-09-12'
+- type: amended_by
+  target: pt:dre:498552:por
+  label: "Alterado o quadro de pessoal civil da Marinha aprovado pelo presente diploma, com as alterações introduzidas pelas\
+    \ Ports 171/85, de 30-Mar, 703/85, de 21-Set e 785/87, de 12-Set, pela PORT.904/87.27.11.1987.MDN, DR.IS [274] de 27.11.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/904-1987-498552
+  date: '1987-11-27'
+- type: amended_by
+  target: pt:dre:613002:por
+  label: "Alterado o quadro de pessoal da Marinha constante do mapa I pela PORT.147/89.1989.03.01.MDN DR,IS [50]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/147-1989-613002
+  date: '1989-03-01'
+- type: amended_by
+  target: pt:dre:619954:por
+  label: "Alterado o quadro de pessoal civil da Marinha constante do mapa I pela PORT.554/89.1989.07.18.MDN DR.IS [163]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/554-1989-619954
+  date: '1989-07-18'
+- type: amended_by
+  target: pt:dre:662301:por
+  label: "Alterada e revogada, na parte respeitante ao pessoal civil da Marinha pela PORT.717/91.1991.07.23.SEA-MDN DR.IS\
+    \ [167]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/717-1991-662301
+  date: '1991-07-23'
+- type: amended_by
+  target: pt:dre:533787:por
+  label: "Alterado o quadro de pessoal civil da Marinha pela PORT.747/99.1999.08.27.PCM,DR.IS-B [200]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/747-1999-533787
+  date: '1999-08-27'
+- type: cites
+  target: pt:dre:375800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568699:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:673068:por
+  label: "Revogada, na parte respeitante ao Instituto de Socorros a Náufragos pela PORT.625/91.1991.07.12.SEA-MDN DR.IS [158]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/625-1991-673068
+  date: '1991-07-12'
+- type: repealed_by
+  target: pt:dre:321482:por
+  label: "Revogada na parte respeitante ao Instituto Hidrográfico e à Comissão Executiva do Polígono de Acústica Submarina\
+    \ dos Açores, pela PORT.1174/91.1991.11.20.SEA-MDN DR.IS [267]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1174-1991-321482
+  date: '1991-11-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:14:56Z'
   warnings: []
   errors: []
 ---
@@ -147,10 +234,10 @@ Contínuo ... 29
 
 Ministérios da Defesa Nacional e das Finanças e do Plano.
 
-**Assinada em 13 de Janeiro de 1984.**
+Assinada em 13 de Janeiro de 1984.
 
-**O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento.**
+O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento.
 
 Do MAPA I ao MAPA V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/02/03200/03920398.pdf))](https://files.diariodarepublica.pt/1s/1984/02/03200/03920398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/02/03200/03920398.pdf)

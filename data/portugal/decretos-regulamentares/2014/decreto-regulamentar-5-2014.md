@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/10/21000/0558605589.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/5/2014/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2014-58661942
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5302c32c174f03c5d96d1b841e45d5a55f74e6a1a04c3e8d6ba40a47c4a5ac5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2465e4e533c403febcf8e5f7aae6f43680863e5d712e995b9fcb318c026ab414
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Direcção Geral da Segurança Social
+- Autoridade para as Condições do Trabalho
 - Definição de Competências
-- Secretaria Geral
+- Direcção Geral da Segurança Social
+- Direcção Geral do Emprego e das Relações de Trabalho
 - Gabinete de Estratégia e Planeamento
 - Inspecção Geral
-- Ministério da Solidariedade Emprego e Segurança Social
-- Direcção Geral do Emprego e das Relações de Trabalho
-- Orgânica
-- Quadro de Pessoal
 - Instituto Nacional para a Reabilitação
-- Autoridade para as Condições do Trabalho
+- Ministério da Solidariedade Emprego e Segurança Social
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:183159328:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a 30.03.2022, o exercício da direção pela Ministra do Trabalho, Solidariedade e Segurança
+    Social sobre a Secretaria-Geral do Ministério do Trabalho, Solidariedade e Segurança Social, cuja orgânica foi aprovada
+    pelo DR 21/2012 de 08-fev, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 32/2022 - Diário da República
+    n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/119/2013/08/21/p/dre
   label: null
@@ -108,16 +116,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:164425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638524:por
+  label: null
+  source: null
 article_structure:
-  article_count: 21
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:40Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +184,9 @@ Os artigos 1.º, 2.º, 3.º e 4.º do [Decreto Regulamentar n.º 21/2012](https:
 
 A Secretaria-Geral do Ministério da Solidariedade, Emprego e Segurança Social (MSESS), abreviadamente designada por SG, é um serviço central da administração direta do Estado dotado de autonomia administrativa.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - A SG tem por missão assegurar o apoio técnico e administrativo aos gabinetes dos membros do Governo integrados no MSESS e aos demais órgãos e serviços nele integrados, nos domínios da gestão dos recursos internos, do apoio técnico-jurídico e contencioso, da documentação e informação, da inovação e qualidade e da comunicação e relações públicas, bem como a prestação de serviços partilhados nos domínios dos recursos humanos, da formação profissional nas matérias transversais, da negociação e aquisição de bens e serviços, financeiro e patrimonial.
 
@@ -184,11 +218,15 @@ m) [Revogada];
 
 n) [Revogada].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 A SG é dirigida por um secretário-geral, coadjuvado por um secretário-geral-adjunto, cargos de direção superior de 1.º e 2.º graus, respetivamente.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]:
 
@@ -248,15 +286,15 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 11 de setembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 21 de outubro de 2014.**
+Promulgado em 21 de outubro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 24 de outubro de 2014.**
+Referendado em 24 de outubro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -266,17 +304,23 @@ Visto e aprovado em Conselho de Ministros de 11 de setembro de 2014. - Pedro Pas
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/10/21000/0558605589.pdf))](https://files.diariodarepublica.pt/1s/2014/10/21000/0558605589.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/10/21000/0558605589.pdf)
 
-## ANEXO II — (a que se refere o artigo 7.º)
+ANEXO II
+
+(a que se refere o artigo 7.º)
 
 Republicação do [Decreto Regulamentar n.º 21/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2012-543723), de 8 de fevereiro
 
-###### Artigo 1.º — Natureza
+Artigo 1.º
+
+Natureza
 
 A Secretaria-Geral do Ministério da Solidariedade, Emprego e Segurança Social (MSESS), abreviadamente designada por SG, é um serviço central da administração direta do Estado dotado de autonomia administrativa.
 
-###### Artigo 2.º — Missão e atribuições
+Artigo 2.º
+
+Missão e atribuições
 
 1 - A SG tem por missão assegurar o apoio técnico e administrativo aos gabinetes dos membros do Governo integrados no MSESS e aos demais órgãos e serviços nele integrados, nos domínios da gestão dos recursos internos, do apoio técnico-jurídico e contencioso, da documentação e informação, da inovação e qualidade e da comunicação e relações públicas, bem como a prestação de serviços partilhados nos domínios dos recursos humanos, da formação profissional nas matérias transversais, da negociação e aquisição de bens e serviços, financeiro e patrimonial.
 
@@ -308,11 +352,15 @@ m) [Revogada];
 
 n) [Revogada].
 
-###### Artigo 3.º — Órgãos
+Artigo 3.º
+
+Órgãos
 
 A SG é dirigida por um secretário-geral, coadjuvado por um secretário-geral-adjunto, cargos de direção superior de 1.º e 2.º graus, respetivamente.
 
-###### Artigo 4.º — Secretário-geral
+Artigo 4.º
+
+Secretário-geral
 
 1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao secretário-geral:
 
@@ -322,11 +370,15 @@ b) Exercer as funções de oficial público nos atos e contratos em que particip
 
 2 - O secretário-geral-adjunto exerce as competências que lhe sejam delegadas ou subdelegadas pelo secretário-geral, competindo-lhe substituí-lo nas suas faltas e impedimentos.
 
-###### Artigo 5.º — Tipo de organização interna
+Artigo 5.º
+
+Tipo de organização interna
 
 A organização interna da SG obedece ao modelo de estrutura hierarquizada.
 
-###### Artigo 6.º — Receitas
+Artigo 6.º
+
+Receitas
 
 1 - A SG dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
 
@@ -342,24 +394,34 @@ d) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam at
 
 3 - As quantias cobradas pela SG são fixadas e periodicamente atualizadas por despacho dos membros do Governo responsáveis pelas áreas da segurança social e das finanças, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indiretos de funcionamento.
 
-###### Artigo 7.º — Despesas
+Artigo 7.º
+
+Despesas
 
 Constituem despesas da SG as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
 
-###### Artigo 8.º — Mapa de cargos de direção
+Artigo 8.º
+
+Mapa de cargos de direção
 
 Os lugares de direção superior de 1.º e 2.º graus e de direção intermédia de 1.º grau constam do mapa anexo ao presente decreto regulamentar, do qual faz parte integrante.
 
-###### Artigo 9.º — Norma revogatória
+Artigo 9.º
+
+Norma revogatória
 
 É revogado o [Decreto Regulamentar n.º 63/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-2007-638524), de 29 de maio.
 
-###### Artigo 10.º — Entrada em vigor
+Artigo 10.º
+
+Entrada em vigor
 
 O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
-## ANEXO — (a que se refere o artigo 8.º)
+ANEXO
+
+(a que se refere o artigo 8.º)
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/10/21000/0558605589.pdf))](https://files.diariodarepublica.pt/1s/2014/10/21000/0558605589.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/10/21000/0558605589.pdf)

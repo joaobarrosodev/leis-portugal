@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/229/1996/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1996-201224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:46:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d276fbc60df764e90a9b2ac84513166416113ad174f123f9897bdd3cee4dc33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d3049cc20cbb5914712f4ca9ac3816c633d5ca14b02ddea784f35a5893028e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:46:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Formação Profissional
-- Gestão Financeira
+- Autarquia Local
+- Câmara Municipal
 - Contencioso Administrativo
 - Criação de Serviços
+- Custas Judiciais
 - Definição de Competências
 - Direito Administrativo
 - Direito Fiscal
-- Gestão Administrativa
 - Estatuto
 - Fazenda Pública
+- Formação Profissional
 - Gestão
-- Recrutamento de Pessoal
+- Gestão Administrativa
+- Gestão de Recursos Humanos
 - Gestão do Património
+- Gestão Financeira
 - Instalação de Serviços
 - Magistrado do Ministério Público
 - Magistrado Judicial
 - Nomeação
 - Presidente
 - Processo Administrativo
-- Câmara Municipal
-- Gestão de Recursos Humanos
+- Recrutamento de Pessoal
+- Recurso
 - Supremo Tribunal Administrativo
-- Custas Judiciais
 - Transferência de Competências
 - Tribunal Administrativo
 - Tribunal Administrativo e Fiscal
@@ -97,7 +98,6 @@ subjects:
 - Tribunal de Círculo
 - Tribunal Fiscal
 - Tribunal Fiscal Aduaneiro
-- Autarquia Local
 - Tribunal Tributário
 - Vice-presidente
 relationships:
@@ -105,20 +105,49 @@ relationships:
   target: pt:dre:424313:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:313837:por
+  label: "Declarada a inconstitucionalidade com força obrigatória geral do art. 15º do Dec Lei 267/85 de 16-Jul, com a redacção\
+    \ dada pelo presente diploma, pelo AC.157/2001.2001.04.04.TCS DR.IS-A [108] de 10/Mai/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/157-2001-313837
+  date: '2001-04-04'
+- type: amended_by
+  target: pt:dre:424313:por
+  label: "Determinado o desdobramento do Tribunal Central Administrativo criado pelo presente diploma, em Tribunal Central\
+    \ Administrativo Norte e Tribunal Central Administrativo Sul, pelo DEC LEI.325/2003.29.12.2003.MJ, DR.IS-A [299] de 29.12.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/325-2003-424313
+  date: '2003-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/49/1996/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1996/09/04/p/dre
+- type: cites
+  target: pt:dre:183443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655081:por
+  label: null
+  source: null
 article_structure:
-  article_count: 55
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:46:08Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +190,9 @@ c) ...
 
 3 - Os tribunais previstos na alínea a) do n.º 1 podem, nos termos de diploma complementar, ser agregados, quando o seu diminuto serviço o justifique, para funcionarem com um só juiz.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -171,7 +202,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 ...
 
@@ -185,7 +218,9 @@ b) Do seguimento dos recursos referidos nas alíneas anteriores, sem prejuízo d
 
 c) ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -197,7 +232,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 ...
 
@@ -211,7 +248,9 @@ c) Do seguimento dos recursos referidos nas alíneas b) e b'), sem prejuízo dos
 
 d) Dos conflitos de competência entre as Secções de Contencioso Administrativo do Tribunal Central Administrativo e do Supremo Tribunal Administrativo.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -221,7 +260,9 @@ d) Dos conflitos de competência entre as Secções de Contencioso Administrativ
 
 4 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -247,7 +288,9 @@ j) Das matérias que lhe forem confiadas por lei.
 
 2 - ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 ...
 
@@ -263,7 +306,9 @@ d) Dos conflitos de competência entre tribunais de jurisdição tributária ger
 
 e) Dos conflitos de competência entre as Secções de Contencioso Tributário do Tribunal Central Administrativo e do Supremo Tribunal Administrativo.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -273,7 +318,9 @@ e) Dos conflitos de competência entre as Secções de Contencioso Tributário d
 
 4 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -295,7 +342,9 @@ h) Das demais matérias que lhe forem confiadas por lei.
 
 2 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
@@ -317,7 +366,9 @@ h) Dos demais recursos e pedidos confiados por lei ao seu julgamento.
 
 2 - ...
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - O Tribunal Central Administrativo tem sede em Lisboa e jurisdição em todo o território nacional.
 
@@ -329,21 +380,29 @@ h) Dos demais recursos e pedidos confiados por lei ao seu julgamento.
 
 5 - A Secção de Contencioso Tributário funciona por duas subsecções, uma de contencioso tributário geral e outra de contencioso aduaneiro, mas a entrada destas em funcionamento fica dependente de portaria do Ministro da Justiça, sob proposta do Conselho Superior dos Tribunais Administrativos e Fiscais.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - O Tribunal Central Administrativo tem um presidente, coadjuvado por dois vice-presidentes.
 
 2 - Cada vice-presidente é eleito de entre e pelos juízes de cada uma das Secções do Tribunal.
 
-###### Artigo 38.º — Remissão
+Artigo 38.º
+
+Remissão
 
 É aplicável ao Tribunal Central Administrativo, com as devidas adaptações, o disposto nos artigos 15.º, 16.º, 17.º, 18.º, n.º 3 a 6, e 19.º
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 O Tribunal Central Administrativo conhece de matéria de facto e de direito.
 
-###### Artigo 40.º — Competência em contencioso administrativo
+Artigo 40.º
+
+Competência em contencioso administrativo
 
 Compete à Secção de Contencioso Administrativo conhecer:
 
@@ -365,7 +424,9 @@ h) Dos pedidos de produção antecipada de prova formulados em processo nela pen
 
 i) Das matérias que lhe forem confiadas por lei.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - Compete à Secção de Contencioso Tributário conhecer:
 
@@ -387,7 +448,9 @@ f) ...
 
 2 - A competência a que se refere o número anterior é exercida pela Subsecção de Contencioso Tributário Geral, quando esta entrar em funcionamento, e não abrange as matérias respeitantes ao contencioso aduaneiro.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - Compete à Secção de Contencioso Tributário conhecer:
 
@@ -407,15 +470,21 @@ g) ...
 
 2 - A competência a que se refere o número anterior é exercida pela Subsecção de Contencioso Aduaneiro, quando esta entrar em funcionamento.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 É aplicável a cada Secção, com as devidas adaptações, o disposto no artigo 34.º
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 É aplicável às sessões, com as devidas adaptações, o disposto no artigo 35.º
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -423,7 +492,9 @@ g) ...
 
 3 - O tribunal colectivo é constituído pelo juiz do processo, que preside, e pelos dois juízes do mesmo tribunal que se lhe sigam em ordem de antiguidade ou, na sua ausência, falta ou impedimento, pelos respectivos substitutos.
 
-###### Artigo 50.º — Competência administrativa dos juízes
+Artigo 50.º
+
+Competência administrativa dos juízes
 
 Compete, em matéria administrativa, ao juiz com maior antiguidade nos tribunais administrativos de círculo:
 
@@ -437,7 +508,9 @@ d) ...
 
 e) ...
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - ...
 
@@ -485,7 +558,9 @@ q) ...
 
 3 - ...
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - Os recursos previstos nas alíneas a''), c) e e) do n.º 1 do artigo 51.º são interpostos no tribunal da área da sede da autoridade recorrida.
 
@@ -495,7 +570,9 @@ q) ...
 
 4 - ...
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - ...
 
@@ -537,7 +614,9 @@ r) Das demais matérias que lhes forem confiadas por lei.
 
 3 - ...
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - Os recursos a que se referem as alíneas a) a h) e o conhecimento das questões e incidentes a que se refere a alínea i), todas do n.º 1 do artigo anterior, são da competência do tribunal da área da sede da autoridade que praticou o acto nos termos da lei de processo tributário ou que instaurou o processo de execução fiscal.
 
@@ -547,7 +626,9 @@ r) Das demais matérias que lhes forem confiadas por lei.
 
 4 - A competência para conhecer dos pedidos previstos na última parte da alínea p) do n.º 1 do artigo anterior é determinada de acordo com o disposto neste artigo e, subsidiariamente, com os critérios definidos para os tribunais administrativos de círculo.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - ...
 
@@ -579,7 +660,9 @@ m) Das demais matérias que lhes forem confiadas por lei.
 
 3 - A competência territorial dos tribunais fiscais aduaneiros é determinada nos termos dos n.os 1 e 4 do artigo 63.º
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - ...
 
@@ -597,7 +680,9 @@ d) Nos tribunais tributários de 1.ª instância e nos tribunais fiscais aduanei
 
 4 - ...
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - Representam a Fazenda Pública:
 
@@ -613,47 +698,65 @@ e) ...
 
 2 - Nas questões em que se encontrem em causa receitas tributárias lançadas e liquidadas pelas autarquias, pendentes em tribunais tributários diferentes dos previstos na alínea d) do número anterior, a Fazenda Pública é representada por licenciado em Direito nomeado pela câmara municipal interessada.
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - Os funcionários das secretarias do Supremo Tribunal Administrativo, do Tribunal Central Administrativo e dos tribunais administrativos de círculo pertencem ao grupo de pessoal funcionário de justiça e encontram-se sujeitos ao respectivo estatuto.
 
 2 - Os funcionários das secretarias dos tribunais tributários de 1.ª instância e dos tribunais fiscais aduaneiros pertencem aos quadros do Ministério das Finanças e encontram-se sujeitos ao respectivo estatuto.
 
-###### Artigo 104.º — Actos e matéria relativos ao funcionalismo público
+Artigo 104.º
+
+Actos e matéria relativos ao funcionalismo público
 
 Para efeitos do presente diploma, consideram-se actos e matéria relativos ao funcionalismo público os que tenham por objecto a definição de uma situação decorrente de uma relação jurídica de emprego público.
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 A competência administrativa do Governo relativa aos tribunais é exercida pelo Ministro da Justiça, quanto ao Supremo Tribunal Administrativo, ao Tribunal Central Administrativo e aos tribunais administrativos de círculo, e pelo Ministro das Finanças, quanto aos restantes.
 
-###### Artigo 109.º — Extinção e correspondência de tribunais
+Artigo 109.º
+
+Extinção e correspondência de tribunais
 
 1 - É extinto o Tribunal Tributário de 2.ª Instância.
 
 2 - Sem prejuízo da competência que por este diploma é atribuída a outros tribunais, devem entender-se como dirigidas à Secção de Contencioso Tributário do Tribunal Central Administrativo quaisquer referências ao Tribunal a que alude o n.º 1.
 
-###### Artigo 110.º — Extensão da jurisdição do Supremo Tribunal Administrativo
+Artigo 110.º
+
+Extensão da jurisdição do Supremo Tribunal Administrativo
 
 O Supremo Tribunal Administrativo tem jurisdição sobre o território de Macau nos termos dos respectivos Estatuto Orgânico e leis de organização judiciária.
 
-###### Artigo 114.º — Instalação do Tribunal Central Administrativo
+Artigo 114.º
+
+Instalação do Tribunal Central Administrativo
 
 O Tribunal Central Administrativo inicia o funcionamento na data em que seja declarado instalado por portaria do Ministro da Justiça.
 
-###### Artigo 116.º — Eleição do presidente e dos vice-presidentes do Tribunal Central Administrativo
+Artigo 116.º
+
+Eleição do presidente e dos vice-presidentes do Tribunal Central Administrativo
 
 1 - A eleição do presidente e dos vice-presidentes do Tribunal Central Administrativo tem lugar dentro dos 120 dias subsequentes à data do início de funcionamento do Tribunal.
 
 2 - Enquanto não haja presidente eleito, o cargo é exercido pelo juiz que desempenhava idêntica função no Tribunal Tributário de 2.ª Instância à data da sua extinção.
 
-###### Artigo 117.º — Instalação de tribunais administrativos de círculo, tributários de 1.ª instância e fiscais aduaneiros
+Artigo 117.º
+
+Instalação de tribunais administrativos de círculo, tributários de 1.ª instância e fiscais aduaneiros
 
 1 - Os tribunais administrativos de círculo, tributários de 1.ª instância e fiscais aduaneiros que não se encontrem em funcionamento são declarados instalados por portarias dos Ministros da Justiça e das Finanças, respectivamente.
 
 2 - Até à data do início de funcionamento dos tribunais previstos no número anterior são competentes na respectiva área de jurisdição os tribunais que vêm detendo tal competência.
 
-###### Artigo 119.º — Destino dos processos
+Artigo 119.º
+
+Destino dos processos
 
 1 - Os processos pendentes no Tribunal Tributário de 2.ª Instância à data da sua extinção transitam para a Secção de Contencioso Tributário do Tribunal Central Administrativo, mantendo-se, quando possível, os relatores e juízes-adjuntos já fixados.
 
@@ -663,7 +766,9 @@ O Tribunal Central Administrativo inicia o funcionamento na data em que seja dec
 
 4 - Os demais processos pendentes nos tribunais administrativos e fiscais mantêm-se até decisão final nos respectivos tribunais.
 
-###### Artigo 120.º — Graus de jurisdição no contencioso tributário
+Artigo 120.º
+
+Graus de jurisdição no contencioso tributário
 
 A extinção do anterior 3.º grau de jurisdição no contencioso tributário operada pelo presente diploma apenas produz efeitos relativamente aos processos instaurados após a sua entrada em vigor.»
 
@@ -709,13 +814,17 @@ l) ...
 
 2 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Nos processos da competência do Supremo Tribunal Administrativo e do Tribunal Central Administrativo e naqueles a que se refere a alínea b) do artigo 24.º só é admissível prova documental, salvo nos casos especialmente previstos e naqueles em que o tribunal considere necessária a prova pericial.
 
 2 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - No Supremo Tribunal Administrativo e no Tribunal Central Administrativo, em processos com intervenção de três juízes, são adjuntos do relator os juízes em exercício que, na escala da distribuição, começando pelo relator, ocupem a ordem seguinte na respectiva formação:
 
@@ -739,11 +848,15 @@ h) ...
 
 3 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 No Supremo Tribunal Administrativo e no Tribunal Central Administrativo o representante do Ministério Público a quem, no processo, esteja confiada a defesa da legalidade assiste às sessões de julgamento e é ouvido na discussão.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 ...
 
@@ -787,7 +900,9 @@ d) ...
 
 e) ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - No Supremo Tribunal Administrativo e no Tribunal Central Administrativo funcionam, durante as férias, turnos de juízes, constituídos por três efectivos e um suplente em cada período, aos quais compete conhecer dos processos que devam correr em férias.
 
@@ -797,7 +912,9 @@ e) ...
 
 4 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Os recursos contenciosos de actos anuláveis são interpostos nos seguintes prazos:
 
@@ -811,7 +928,9 @@ d) Um ano, se respeitarem a indeferimento tácito.
 
 2 - ...
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -829,7 +948,9 @@ b) ...
 
 6 - ...
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - Salvo por oposição de julgados, não é admissível recurso dos acórdãos do Supremo Tribunal Administrativo e do Tribunal Central Administrativo que decidam:
 
@@ -839,7 +960,9 @@ b) Sobre conflitos de jurisdição ou de competência.
 
 2 - Salvo por oposição de julgados, não é também admissível recurso dos acórdãos do Supremo Tribunal Administrativo que decidam sobre a suspensão de eficácia de actos contenciosamente impugnados.
 
-###### Artigo 110.º — Âmbito do recurso para os tribunais superiores
+Artigo 110.º
+
+Âmbito do recurso para os tribunais superiores
 
 Nos recursos de decisões dos tribunais administrativos de círculo que conheçam do objecto de recurso contencioso, podem o Supremo Tribunal Administrativo e o Tribunal Central Administrativo, conforme os casos:
 
@@ -849,7 +972,9 @@ b) ...
 
 c) ...
 
-###### Artigo 130.º — [...]
+Artigo 130.º
+
+[...]
 
 1 - ...
 
@@ -903,7 +1028,9 @@ II) Em contencioso aduaneiro:
 
 1.ª a 5.ª As correspondentes às previstas em I).
 
-###### Artigo 119.º-A — Regime de custas no Tribunal Central Administrativo
+Artigo 119.º-A
+
+Regime de custas no Tribunal Central Administrativo
 
 O regime de custas e preparos na Secção de Contencioso Administrativo do Tribunal Central Administrativo é idêntico ao previsto para a 1.ª Secção do Supremo Tribunal Administrativo.»
 
@@ -925,12 +1052,12 @@ c) O § único do artigo 15.º, o artigo 18.º, com excepção do seu § único,
 
 Visto e aprovado em Conselho de Ministros de 17 de Outubro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 15 de Novembro de 1996.**
+Promulgado em 15 de Novembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Novembro de 1996.**
+Referendado em 20 de Novembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

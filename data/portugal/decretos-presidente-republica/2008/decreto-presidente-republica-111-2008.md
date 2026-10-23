@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/111/2008/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/111-2008-452725
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T04:59:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b470222984ccde3e4dca9a8eb95868001ff59a095a05c3187efdf5a7358b4c8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcb90a12419f6f621dd91be13e67fe5be9cc0a5b108dcea1a749b13097dc7501
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:59:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,21 @@ relationships:
   target: pt:dre:306595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:306595:por
+  label: "Exonerado o nomeado, pelo DEC.142/2010.29.12.2010.PR, DR.IS [251] de 29.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/142-2010-306595
+  date: '2010-12-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:59:48Z'
   warnings: []
   errors: []
 ---
@@ -91,16 +96,16 @@ validation:
 
 de 13 de Outubro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o embaixador Paulo Couto Barbosa para o cargo de Embaixador de Portugal em Helsínquia.
 
-**Assinado em 15 de Setembro de 2008.**
+Assinado em 15 de Setembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 2 de Outubro de 2008.**
+Referendado em 2 de Outubro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado.

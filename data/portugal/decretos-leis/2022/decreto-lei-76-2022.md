@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/21000/0001100012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/76/2022/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2022-202849026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b8383e401f03156bb0e6660c12beb423935742ccbb84125ca198123947cef9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb85af91d577cfdd1d4bb6a5e26ef3c0b1defb4c1ae6fd5d8ccaeb953452e761
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Local
+- Administração Pública
+- Câmara Municipal
 - Código da Estrada
 - Comunidade Intermunicipal
-- Instituto dos Registos e do Notariado
 - Contra-ordenação
 - Definição de Competências
-- Administração Pública
-- Fiscalização Rodoviária
-- Veículo
 - Estacionamento
+- Fiscalização Rodoviária
+- Instituto dos Registos e do Notariado
 - Polícia Municipal
-- Administração Local
-- Câmara Municipal
 - Trânsito
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/107/2018/11/29/p/dre
@@ -92,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117142873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174825:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:59Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +156,7 @@ Os artigos 3.º e 7.º do [Decreto-Lei n.º 107/2018](https://diariodarepublica.
 
 2 - A competência para determinar a instrução do processo contraordenacional, incluindo a designação do instrutor, e para aplicar coimas e custas é do presidente da câmara municipal, com faculdade de delegação nos outros membros da câmara municipal, ou do presidente do órgão de gestão ou administração de empresa local, do primeiro-secretário da entidade intermunicipal ou do presidente do conselho diretivo da associação de municípios, da respetiva circunscrição territorial, todos com faculdade de subdelegação caso as competências tenham sido delegadas, respetivamente, na empresa local, na entidade intermunicipal ou na associação de fins específicos, nos termos do número anterior.
 
-###### Artigo 7.º
+Artigo 7.º
 
 Protocolo com o Instituto dos Registos e do Notariado, I. P.
 
@@ -162,12 +174,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de outubro de 2022. - António Luís Santos da Costa - Jorge Albino Alves Costa - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
 
-**Promulgado em 24 de outubro de 2022.**
+Promulgado em 24 de outubro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 25 de outubro de 2022.**
+Referendado em 25 de outubro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115817879

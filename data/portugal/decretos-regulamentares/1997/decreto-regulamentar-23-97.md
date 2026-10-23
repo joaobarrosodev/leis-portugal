@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/123b00/25982606.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/23/1997/05/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1997-351363
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:24:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a44a124ab700d23bad37b086897986819c02ce3cd61d34090c1c4bbbdd77df77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8cb8a3e9e8f0e680316cd551568aa90c4f13f63af6281bb57f2e691a4cae654
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:24:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Laboratório Nacional de Investigação Veterinária
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:628851:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:425486:por
+  label: "Determinado que fique sujeito a superintendência conjunta dos Ministros da Agricultura, Desenvolvimento Rural e\
+    \ Pescas e da Ciência e do Ensino Superior, cabendo ao primeiro a tutela funcional e patrimonial, pelo DEC LEI.246/2002.08.11.2002.MADRP,\
+    \ DR.IS-A [258] de 08.11.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-2002-425486
+  date: '2002-11-08'
+- type: amended_by
+  target: pt:dre:684205:por
+  label: "Sugeitado a superintendência conjunta do Ministro da Agricultura, Desenvolvimento Rural e Pescas e do Ministro da\
+    \ Ciência e do Ensino Superior, pelo DEC LEI.119/2003.2003.06.17.PCM DR.IS-A [138]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2003-684205
+  date: '2003-06-17'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Sujeitado a superintendência conjunta cabendo a tutela funcional e patrimonial ao Ministro da Agricultura, Pescas\
+    \ e Florestas e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação\
+    \ com o Ministro da Ciência, Inovação e Ensino Superior, pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de\
+    \ 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinado que a competência relativa à definição das orientações estratégicas do Laboratório, cuja orgânica foi\
+    \ aprovada no presente diploma, bem como o acompanhamento da sua execução, seja exercida pelo Ministro da Agricultura,\
+    \ do Desenvolvimento Rural e das Pescas em articulação com o Ministro da Ciência, Tecnologia e Ensino Superior, pelo DEC\
+    \ LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/1997/05/24/p/dre
   label: null
@@ -87,16 +116,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/74/1996/06/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/74/1996/06/18/p/dre
+- type: cites
+  target: pt:dre:226629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:628851:por
+  label: "Revogado, a partir de 01.11.2007, e determinado que o Instituto Nacional de Recursos Biológicos, I. P. suceda nas\
+    \ atribuições do Laboratório Nacional de Investigação Veterinária,pelo DEC LEI.356/2007.29.10.2007.MADRP, DR.IS [208]\
+    \ de 29.10.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/356-2007-628851
+  date: '2007-10-29'
 article_structure:
   article_count: 40
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:24:11Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +173,7 @@ O Laboratório Nacional de Investigação Veterinária (LNIV) é um serviço cen
 
 a) Assegurar o apoio científico e técnico ao MADRP em tudo o que se relacione com as suas atribuições;
 
-b) Participar em programas integrados de I&D;
+b) Participar em programas integrados de I&D
 
 c) Manter intercâmbio científico e estabelecer convénios com universidades ou outros organismos congéneres, nacionais ou estrangeiros, em especial no âmbito comunitário, e com os países de língua oficial portuguesa (PALOP);
 
@@ -753,16 +801,16 @@ Presidência do Conselho de Ministros, 10 de Abril de 1997.
 
 António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Fernando Manuel Van-Zeller Gomes da Silva - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 8 de Maio de 1997.**
+Promulgado em 8 de Maio de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Maio de 1997.**
+Referendado em 13 de Maio de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 Quadro de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/123b00/25982606.pdf))](https://files.diariodarepublica.pt/1s/1997/05/123b00/25982606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/123b00/25982606.pdf)

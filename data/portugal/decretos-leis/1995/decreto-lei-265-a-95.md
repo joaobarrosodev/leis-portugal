@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 240/1995, 1º Suplemento, Série I-A de 1995-10-17
   number: '240'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6452-(2) a 6452-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/240a01/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/265-a/1995/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-a-1995-164229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 504d2b216981512bfd30694e320b8df505af731d97d95f141028f29bb2e5fbf7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edbca107de21b52f7a7cbc54bcf5da3b64f73a34a583e50fe28a903291e6fe8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Caixa de Previdência
 - Capital Social
+- Comunicações
 - Contrato de Concessão
-- Portugal Telecom
 - Integração de Serviços
 - Integração de Trabalhadores
-- Caixa de Previdência
-- Serviço Público
-- Comunicações
+- Portugal Telecom
 - Regime Geral da Segurança Social
 - Segurança Social
+- Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:302168:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302168:por
+  label: "Alterados os art. 3º e 4º pelo Dec Lei.2/97.1997.01.07. MEPAT, DR.IS-A [5] de 07/Jan/1997\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-1997-302168
+  date: '1997-01-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/122/1994/05/14/p/dre
   label: null
@@ -101,16 +106,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/88/1992/05/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/1992/05/14/p/dre
+- type: cites
+  target: pt:dre:188691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532052:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:00Z'
   warnings: []
   errors: []
 ---
@@ -139,11 +164,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O Ministro das Obras Públicas, Transportes e Comunicações fica autorizado a aceitar, em nome do Governo, a cessação do actual contrato de concessão da Companhia Portuguesa Rádio Marconi, S. A. (CPRM).
+Artigo 1.º - 1 - O Ministro das Obras Públicas, Transportes e Comunicações fica autorizado a aceitar, em nome do Governo, a cessação do actual contrato de concessão da Companhia Portuguesa Rádio Marconi, S. A. (CPRM).
 
 2 - Sem prejuízo do disposto no artigo seguinte, a cessação do contrato de concessão da CPRM produz todos os seus efeitos no momento da aludida aceitação.
 
-###### Art. 2.º - 1 - Para a execução do disposto no artigo 18.º do contrato de concessão da CPRM, esta sociedade e o Instituto das Comunicações de Portugal (ICP) estabelecerão, no prazo de 30 dias a contar da publicação do presente diploma, o inventário dos bens, bem como o elenco das posições jurídicas que se transmitem com o estabelecimento, incluindo as de natureza laboral, afectos à exploração da concessão.
+Art. 2.º - 1 - Para a execução do disposto no artigo 18.º do contrato de concessão da CPRM, esta sociedade e o Instituto das Comunicações de Portugal (ICP) estabelecerão, no prazo de 30 dias a contar da publicação do presente diploma, o inventário dos bens, bem como o elenco das posições jurídicas que se transmitem com o estabelecimento, incluindo as de natureza laboral, afectos à exploração da concessão.
 
 2 - Os efeitos do disposto no artigo 18.º do contrato de concessão da CPRM produzem-se com a homologação, pelo Ministro das Obras Públicas, Transportes e Comunicações, do inventário e do elenco referidos no número anterior.
 
@@ -151,24 +176,24 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - São isentos de quaisquer taxas, emolumentos e outros encargos legais os actos necessários à regularização da transmissão referida no número anterior, bem como os decorrentes da aplicação da cláusula 27.ª do mencionado contrato de concessão.
 
-###### Art. 3.º - 1 - Os trabalhadores da CPRM que vierem a ser integrados na Portugal Telecom, S. A. (PT), por efeito do disposto no artigo anterior e do contrato de concessão desta última, mantêm perante a Caixa de Previdência do Pessoal da CPRM os direitos inerentes à sua qualidade de beneficiários, assumindo a PT, perante aquela Caixa, todas as obrigações do âmbito do regime geral da segurança social que cabiam à mesma Caixa relativamente aos trabalhadores referidos, até à definição que vier a ser tomada aquando da integração da Caixa de Previdência do Pessoal da CPRM no sistema da segurança social.
+Art. 3.º - 1 - Os trabalhadores da CPRM que vierem a ser integrados na Portugal Telecom, S. A. (PT), por efeito do disposto no artigo anterior e do contrato de concessão desta última, mantêm perante a Caixa de Previdência do Pessoal da CPRM os direitos inerentes à sua qualidade de beneficiários, assumindo a PT, perante aquela Caixa, todas as obrigações do âmbito do regime geral da segurança social que cabiam à mesma Caixa relativamente aos trabalhadores referidos, até à definição que vier a ser tomada aquando da integração da Caixa de Previdência do Pessoal da CPRM no sistema da segurança social.
 
 2 - A PT é garante, nos termos do Código das Sociedades Comerciais, das obrigações actualmente assumidas pela CPRM no âmbito do regime geral da segurança social, relativamente aos trabalhadores não abrangidos pelo disposto no número anterior.
 
 3 - As contribuições para o Fundo de Pensões da Marconi, que garante o pagamento de complementos de pensões de reforma, relativas aos trabalhadores que, por efeito do disposto no artigo anterior e no contrato de concessão da PT, sejam integrados nesta última, passam, enquanto for o caso nos termos legal e contratualmente aplicáveis, a ser asseguradas por esta empresa.
 
-###### Art. 4.º A associação sem fins lucrativos equiparada a instituição particular de solidariedade social nos termos do n.º 1 do artigo 10.º do [Decreto-Lei n.º 122/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1994-264277), de 14 de Maio, que a PT, em execução do mesmo preceito, venha a constituir com os CTT - Correios de Portugal, S. A., ou com outras entidades, poderá alargar o respectivo âmbito de actuação a trabalhadores da CPRM.
+Art. 4.º A associação sem fins lucrativos equiparada a instituição particular de solidariedade social nos termos do n.º 1 do artigo 10.º do [Decreto-Lei n.º 122/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1994-264277), de 14 de Maio, que a PT, em execução do mesmo preceito, venha a constituir com os CTT - Correios de Portugal, S. A., ou com outras entidades, poderá alargar o respectivo âmbito de actuação a trabalhadores da CPRM.
 
-###### Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 1995. - Aníbal António Cavaco Silva - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 13 de Outubro de 1995.**
+Promulgado em 13 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Outubro de 1995.**
+Referendado em 16 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

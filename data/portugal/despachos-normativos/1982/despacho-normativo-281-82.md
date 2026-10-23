@@ -48,40 +48,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/281-1982-379132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T07:19:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6520222dc734c34efd25e5fd254fc601de5acbda841eb86c8e527483069a2a30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48f6195bcde9f9aad5e3382a923512e76563b2ae305f879ee00cece6784cdf4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:19:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Função Pública
+- Ministério da Cultura e Coordenação Científica
+- Museu
 relationships:
 - type: amended_by
   target: pt:dre:381327:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:381327:por
+  label: "Prorrogado o prazo estabelecido no presente diploma, pelo DN.290-A/82.27.12.1982.PCM, DR.IS [298-2.º Supl] de 28.12.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/290-a-1982-381327
+  date: '1982-12-27'
+- type: cites
+  target: pt:dre:392862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568893:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:19:54Z'
   warnings: []
   errors: []
 ---
@@ -104,4 +122,4 @@ Considera-se concedida a autorização para a abertura dos concursos para o pree
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano, da Cultura e Coordenação Científica e da Reforma Administrativa, 29 de Novembro de 1982. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro da Cultura e Coordenação Científica, António José Tomás Gomes de Pinho, Secretário de Estado da Cultura. - O Ministro da Reforma Administrativa, José Manuel Meneres Sampaio Pimentel.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/28800/41124114.pdf))](https://files.diariodarepublica.pt/1s/1982/12/28800/41124114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/28800/41124114.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/09/18800/0000200011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/75/2020/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea28e5b005004ccbbbcc5b5c7692bf2ec3c150b79fd6929ef89f73f71b89c53d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f343cd6c5e6203cd1ed73a5b88c773e6d29ea3554d1c0659e8cce4726b631c22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,37 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Aicep
-- Valores Mobiliários
-- Navegação Aérea
-- Inspeção Geral de Finanças
-- Pessoal Dirigente
-- Gestão Financeira
 - Conselho de Administração
 - Conselho Fiscal
+- Contabilidade Pública
 - Controlo Financeiro
 - Definição de Competências
 - Despesas Públicas
-- Regulamentação de Atos Legislativos
 - Empresa Participada
 - Empresa Pública
-- Administração Pública
 - Fiscalização
-- Setor Empresarial do Estado
 - Gestão de Empresas
+- Gestão Financeira
 - Gestão Orçamental
+- Inspeção Geral de Finanças
+- Ministério da Saúde
 - Ministério das Finanças
-- Serviços Partilhados do Ministério da Saúde
 - NAV Portugal
-- Sistema de Normalização Contabilística
+- Navegação Aérea
 - Orçamento
 - Parque Escolar
+- Pessoal Dirigente
 - Plano de Actividades
 - Presidente
-- Ministério da Saúde
+- Regulamentação de Atos Legislativos
 - Revisor Oficial de Contas
+- Serviços Partilhados do Ministério da Saúde
 - Setor Empresarial
-- Contabilidade Pública
+- Setor Empresarial do Estado
+- Sistema de Normalização Contabilística
+- Valores Mobiliários
 - Vogal
 relationships:
 - type: amended_by
@@ -142,16 +142,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/1999/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/1999/05/26/p/dre
+- type: cites
+  target: pt:dre:107522251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115487877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70237676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70386136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70485719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74811909:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:15Z'
   warnings: []
   errors: []
 ---
@@ -210,7 +278,9 @@ b) [...];
 
 c) O revisor oficial de contas ou sociedade de revisores oficiais de contas.
 
-###### Artigo 11.º — Conselho fiscal e revisor oficial de contas
+Artigo 11.º
+
+Conselho fiscal e revisor oficial de contas
 
 1 - A fiscalização e o controlo da legalidade da gestão financeira e patrimonial da NAV Portugal, E. P. E., competem a um conselho fiscal e a um revisor oficial de contas ou uma sociedade de revisores oficiais de contas que não seja membro daquele órgão, a designar obrigatoriamente de entre os auditores registados na Comissão do Mercado de Valores Mobiliários.
 
@@ -222,7 +292,9 @@ c) O revisor oficial de contas ou sociedade de revisores oficiais de contas.
 
 5 - Cessando o mandato do conselho fiscal e do revisor oficial de contas, mantêm-se os titulares em exercício de funções até à designação dos respetivos substitutos.
 
-###### Artigo 12.º — Competências do órgão de fiscalização
+Artigo 12.º
+
+Competências do órgão de fiscalização
 
 1 - [...]:
 
@@ -270,7 +342,9 @@ b) O conselho fiscal;
 
 c) O revisor oficial de contas ou sociedade de revisores oficiais de contas.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O conselho de administração reúne, pelo menos, mensalmente e, ainda, sempre que convocado pelo presidente ou por solicitação dos dois vogais ou do conselho fiscal, sem prejuízo de fixação, pelo próprio conselho, de calendário de reuniões com maior frequência.
 
@@ -282,7 +356,9 @@ c) O revisor oficial de contas ou sociedade de revisores oficiais de contas.
 
 5 - [...].
 
-###### Artigo 15.º — Conselho fiscal e revisor oficial de contas
+Artigo 15.º
+
+Conselho fiscal e revisor oficial de contas
 
 1 - A fiscalização e o controlo da legalidade da gestão financeira e patrimonial da Parque Escolar, E. P. E., compete a um conselho fiscal e a um revisor oficial de contas ou uma sociedade de revisores oficiais de contas que não seja membro daquele órgão, a designar obrigatoriamente de entre os auditores registados na Comissão do Mercado de Valores Mobiliários.
 
@@ -294,7 +370,9 @@ c) O revisor oficial de contas ou sociedade de revisores oficiais de contas.
 
 5 - Cessando o mandato do conselho fiscal e do revisor oficial de contas, mantêm-se os titulares em exercício de funções até à designação dos respetivos substitutos.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O conselho fiscal tem as competências, os poderes e os deveres estabelecidos na lei e nos presentes estatutos.
 
@@ -338,13 +416,17 @@ e) Elaborar, a pedido do conselho fiscal, revisão limitada das demonstrações 
 
 5 - Com base na proposta de plano de atividades e orçamento apresentada pelo conselho de administração, o conselho fiscal deve emitir um relatório e parecer ao mesmo, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças e da educação.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
 2 - Na organização da sua contabilidade, a Parque Escolar, E. P. E., fica sujeita às normas do Sistema de Normalização Contabilística para Administrações Públicas.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 [...]:
 
@@ -380,7 +462,9 @@ b) O conselho fiscal;
 
 c) O revisor oficial de contas ou sociedade de revisores oficiais de contas.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O conselho de administração reúne, pelo menos, mensalmente e, ainda, sempre que convocado pelo presidente ou por solicitação dos dois vogais ou do órgão de fiscalização, sem prejuízo de fixação, pelo próprio conselho, de calendário de reuniões com maior frequência.
 
@@ -394,7 +478,9 @@ c) O revisor oficial de contas ou sociedade de revisores oficiais de contas.
 
 6 - [...].
 
-###### Artigo 14.º — Conselho fiscal e revisor oficial de contas
+Artigo 14.º
+
+Conselho fiscal e revisor oficial de contas
 
 1 - A fiscalização e o controlo da legalidade da gestão financeira e patrimonial da SPMS, E. P. E., competem a um conselho fiscal e a um revisor oficial de contas ou uma sociedade de revisores oficiais de contas que não seja membro daquele órgão, a designar obrigatoriamente de entre os auditores registados na Comissão do Mercado de Valores Mobiliários.
 
@@ -406,7 +492,9 @@ c) O revisor oficial de contas ou sociedade de revisores oficiais de contas.
 
 5 - Cessando o mandato do conselho fiscal e do revisor oficial de contas, mantêm-se os titulares em exercício de funções até à designação dos respetivos substitutos.
 
-###### Artigo 15.º — Competências do órgão de fiscalização
+Artigo 15.º
+
+Competências do órgão de fiscalização
 
 1 - O conselho fiscal tem as competências, os poderes e os deveres estabelecidos na lei e nos presentes Estatutos.
 
@@ -448,7 +536,9 @@ e) Elaborar, a pedido do conselho fiscal, revisão limitada das demonstrações 
 
 5 - Com base na proposta de plano de atividades e orçamento apresentada pelo conselho de administração, o conselho fiscal deve emitir um relatório e parecer ao mesmo, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças e da saúde.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 [...]:
 
@@ -486,7 +576,9 @@ c) O revisor oficial de contas ou sociedade de revisores oficiais de contas.
 
 2 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -498,7 +590,9 @@ c) O revisor oficial de contas ou sociedade de revisores oficiais de contas.
 
 5 - [...].
 
-###### Artigo 19.º — Conselho fiscal e revisor oficial de contas
+Artigo 19.º
+
+Conselho fiscal e revisor oficial de contas
 
 1 - A fiscalização da atividade social compete a um conselho fiscal, composto por um presidente, dois vogais efetivos e um suplente, e a um revisor oficial de contas ou uma sociedade de revisores oficiais de contas que não seja membro daquele órgão, a designar obrigatoriamente de entre os auditores registados na Comissão do Mercado de Valores Mobiliários.
 
@@ -508,7 +602,9 @@ c) O revisor oficial de contas ou sociedade de revisores oficiais de contas.
 
 4 - Cessando o mandato do conselho fiscal e do revisor oficial de contas, mantêm-se os titulares em exercício de funções até à designação dos respetivos substitutos.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - O conselho fiscal tem as competências, os poderes e os deveres estabelecidos na lei e nos presentes Estatutos.
 
@@ -564,12 +660,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de setembro de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Augusto Ernesto Santos Silva - João Rodrigo Reis Carvalho Leão - Tiago Brandão Rodrigues - Marta Alexandra Fartura Braga Temido de Almeida Simões - Pedro Nuno de Oliveira Santos.
 
-**Promulgado em 17 de setembro de 2020.**
+Promulgado em 17 de setembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de setembro de 2020.**
+Referendado em 21 de setembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113581751

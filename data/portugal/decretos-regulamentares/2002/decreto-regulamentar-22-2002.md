@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/22/2002/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-2002-301002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:27:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c8bc72ed8d3016eb1dcdd097deef49a17db703ab9e735b09fd3946548ef2a55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d995c9ed2681941d84876736c17850667b70c585cce56e90b59ca9f1e0f8846
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:27:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Multa
+- Aldeamento Turístico
+- Conjunto Turístico
 - Direcção Geral do Turismo
 - Estabelecimento de Restauração
 - Estabelecimento Hoteleiro
+- Infraestrutura Turística
 - Licenciamento
-- Aldeamento Turístico
+- Multa
 - Orçamento
 - Regime Jurídico
-- Conjunto Turístico
-- Infraestrutura Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:247248:por
@@ -97,16 +97,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/22/1998/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/22/1998/09/21/p/dre
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571392:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247248:por
+  label: "Revogado o DR 20/99 de 13-Set, com as alterações introduzidas pelo presente diploma (revogado nos mesmos termos),\
+    \ pelo DEC LEI.39/2008.07.03.2008.MEI, DR.IS [48] de 07.03.2008, com a entrada em vigor das portarias nele previstas \0\
+    s \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2008-247248
+  date: '2008-03-07'
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:27:27Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +162,9 @@ Noção
 
 São conjuntos turísticos os núcleos de instalações funcionalmente interdependentes, localizados numa área demarcada e submetidos a uma mesma administração, que integrem exclusivamente um ou vários estabelecimentos hoteleiros ou meios complementares de alojamento, estabelecimentos de restauração ou de bebidas e pelo menos um estabelecimento, iniciativa, projecto ou actividade declarados de interesse para o turismo.
 
-###### Artigo 2.º — Atribuição
+Artigo 2.º
+
+Atribuição
 
 1 - A qualificação como conjunto turístico é atribuída pela Direcção-Geral do Turismo, mediante requerimento subscrito pelo proprietário ou por todos os proprietários dos empreendimentos turísticos, dos estabelecimentos de restauração ou de bebidas e dos estabelecimentos, iniciativas, projectos ou actividades declarados de interesse para o turismo que, na data da sua apresentação, integrem o conjunto turístico ou, em alternativa, pela entidade administradora do mesmo.
 
@@ -151,7 +176,9 @@ b) Em qualquer fase da sua instalação;
 
 c) Encontrando-se já em funcionamento.
 
-###### Artigo 3.º — Requerimento
+Artigo 3.º
+
+Requerimento
 
 1 - No caso previsto na alínea a) do n.º 2 do artigo anterior, o requerimento deve ser instruído com os seguintes elementos:
 
@@ -193,7 +220,9 @@ b) Alvarás de licença ou de autorização de utilização turística de cada e
 
 c) Fotografias das fachadas dos edifícios existentes.
 
-###### Artigo 18.º — Regime especial
+Artigo 18.º
+
+Regime especial
 
 1 - A Direcção-Geral do Turismo, nos conjuntos turísticos cuja composição e características obedeçam ao estabelecido no número seguinte, pode autorizar as respectivas entidades proprietárias ou exploradoras que o requeiram a desafectar unidades de alojamento da exploração turística nos aldeamentos turísticos neles integrados, até ao limite máximo de 65% das unidades de alojamento desses aldeamentos turísticos.
 
@@ -231,7 +260,9 @@ b) Da sujeição do conjunto turístico ao regime da propriedade horizontal.
 
 9 - Aos requerimentos previstos nos n.os 1 e 4 do presente artigo aplica-se, com as necessárias adaptações, o disposto no artigo 4.º
 
-###### Artigo 29.º — Desqualificação
+Artigo 29.º
+
+Desqualificação
 
 1 - A qualificação de conjunto turístico pode ser retirada pela Direcção-Geral do Turismo, oficiosamente, a requerimento dos interessados ou a solicitação dos órgãos regionais ou locais de turismo, ou da câmara municipal competente, quando deixarem de se verificar os pressupostos que determinaram a sua atribuição.
 
@@ -243,12 +274,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Janeiro de 2002. - António Manuel de Oliveira Guterres - Luís Garcia Braga da Cruz - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 7 de Março de 2002.**
+Promulgado em 7 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Março de 2002.**
+Referendado em 14 de Março de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

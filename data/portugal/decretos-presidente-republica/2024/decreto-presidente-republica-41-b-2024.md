@@ -50,7 +50,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/06801/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -72,18 +72,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/41-b/2024/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/41-b-2024-859675441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T05:51:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe7c7cdc51231bfcd53328e17c88ed863f5b9497bf1a116380fdc5a0ccbf1dd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93d8c6ced965402e5fe002038490aae8cf35acfaf5c2c779c14eedad5d2b18a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:51:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -91,65 +91,79 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Governo XXIV
+- Membros do Governo
+- Nomeação
+- Secretário de Estado Adjunto da Presidência
 - Secretário de Estado Adjunto e da Defesa Nacional
-- Secretário de Estado da Administração Interna
-- Secretário de Estado da Agricultura
-- Secretário de Estado da Energia
-- Secretário de Estado do Mar
-- Secretário de Estado do Turismo
-- Secretário de Estado das Florestas
 - Secretário de Estado Adjunto e da Educação
-- Secretário de Estado da Cultura
-- Secretário de Estado do Tesouro e das Finanças
-- Secretário de Estado dos Assuntos Fiscais
-- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
+- Secretário de Estado Adjunto e da Igualdade
+- Secretário de Estado Adjunto e da Justiça
 - Secretário de Estado Adjunto e do Orçamento
+- Secretário de Estado Adjunto e dos Assuntos Parlamentares
+- Secretário de Estado da Ação Social e da Inclusão
+- Secretário de Estado da Administração e Inovação Educativa
+- Secretário de Estado da Administração Interna
+- Secretário de Estado da Administração Local e Ordenamento do Território
+- Secretário de Estado da Administração Pública
+- Secretário de Estado da Agricultura
+- Secretário de Estado da Ciência
+- Secretário de Estado da Cultura
+- Secretário de Estado da Defesa Nacional
+- Secretário de Estado da Economia
+- Secretário de Estado da Energia
+- Secretário de Estado da Gestão da Saúde
+- Secretário de Estado da Habitação
+- Secretário de Estado da Justiça
+- Secretário de Estado da Mobilidade
+- Secretário de Estado da Modernização e da Digitalização
+- Secretário de Estado da Presidência do Conselho de Ministros
 - Secretário de Estado da Proteção Civil
 - Secretário de Estado da Saúde
-- Membros do Governo
-- Secretário de Estado da Justiça
-- Secretário de Estado do Ambiente
-- Secretário de Estado das Comunidades Portuguesas
-- Secretário de Estado do Desporto
-- Nomeação
-- Secretário de Estado da Administração Local e Ordenamento do Território
-- Secretário de Estado da Presidência do Conselho de Ministros
-- Secretário de Estado Adjunto e da Justiça
-- Secretário de Estado Adjunto e dos Assuntos Parlamentares
-- Secretário de Estado da Administração Pública
-- Secretário de Estado da Ciência
-- Secretário de Estado da Defesa Nacional
-- Secretário de Estado da Habitação
 - Secretário de Estado da Segurança Social
-- Secretário de Estado das Pescas
-- Secretário de Estado do Planeamento e Desenvolvimento Regional
-- Secretário de Estado do Trabalho
-- Secretário de Estado dos Assuntos Europeus
-- Secretário de Estado da Economia
+- Secretário de Estado das Comunidades Portuguesas
+- Secretário de Estado das Florestas
 - Secretário de Estado das Infraestruturas
-- Secretário de Estado da Mobilidade
-- Governo XXIV
-- Secretário de Estado Adjunto da Presidência
-- Secretário de Estado da Administração e Inovação Educativa
-- Secretário de Estado da Gestão da Saúde
-- Secretário de Estado da Ação Social e da Inclusão
-- Secretário de Estado Adjunto e da Igualdade
-- Secretário de Estado da Modernização e da Digitalização
+- Secretário de Estado das Pescas
+- Secretário de Estado do Ambiente
+- Secretário de Estado do Desporto
+- Secretário de Estado do Mar
+- Secretário de Estado do Planeamento e Desenvolvimento Regional
+- Secretário de Estado do Tesouro e das Finanças
+- Secretário de Estado do Trabalho
+- Secretário de Estado do Turismo
+- Secretário de Estado dos Assuntos Europeus
+- Secretário de Estado dos Assuntos Fiscais
+- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
 relationships:
 - type: amended_by
   target: pt:dre:907468767:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:905460335:por
+  label: Exonerado, com efeitos a 29 de janeiro de 2025, Hernâni Dinis Venâncio Dias do cargo de Secretário de Estado da Administração
+    Local e Ordenamento do Território pelo(a) Decreto do Presidente da República n.º 18-B/2025 - Diário da República n.º 20/2025,
+    Suplemento, Série I de 2025-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/18-b-2025-905460335
+  date: '2025-01-29'
+- type: amended_by
+  target: pt:dre:907468767:por
+  label: Exonerados, a seu pedido, Pedro Tiago Dantas Machado da Cunha, Jorge Manuel de Almeida Campino, Maria João ­Correia
+    Colunas Pereira, Carla da Cruz Mouro e Maria de Lurdes dos Anjos Craveiro pelo(a) Decreto do Presidente da República n.º
+    25-A/2025 - Diário da República n.º 31/2025, Suplemento, Série I de 2025-02-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/25-a-2025-907468767
+  date: '2025-02-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:51:48Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +172,7 @@ validation:
 
 de 5 de abril
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -244,12 +258,14 @@ Rui Miguel Ladeira Pereira, Secretário de Estado das Florestas;
 
 Maria de Lurdes dos Anjos Craveiro, Secretária de Estado da Cultura.
 
-**Assinado em 5 de abril de 2024.**
+Assinado em 5 de abril de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de abril de 2024.**
+Referendado em 5 de abril de 2024.
 
-**O Primeiro-Ministro, Luís Filipe Montenegro Cardoso de Morais Esteves.**
+O Primeiro-Ministro, Luís Filipe Montenegro Cardoso de Morais Esteves.
+
+117574411

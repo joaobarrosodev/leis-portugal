@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/67/2012/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2012-553633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbf4cc579a56cc3877e4c2b68bf55b2676092ae3adb96694b4263b25eaa322c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b547403590dce097577f1fef88bfd37c08489922348e532e10d270835f04eda8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Competência Jurisdicional
-- Sistema Judicial
 - Criação de Serviços
 - Magistrado do Ministério Público
 - Magistrado Judicial
+- Organização Judiciária
 - Procurador da República
 - Quadro de Pessoal
-- Organização Judiciária
+- Sistema Judicial
+- Tribunal
 - Tribunal da Concorrência Regulação e Supervisão
 - Tribunal da Propriedade Intelectual
 - Tribunal de Comércio
 - Tribunal de Competência Especializada
 - Tribunal de Primeira Instancia
 - Tribunal Marítimo
-- Tribunal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/d
@@ -123,16 +123,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/46/2011/06/24/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/46/2011/06/24/p/dre
+- type: cites
+  target: pt:dre:157599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692253:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:50Z'
   warnings: []
   errors: []
 ---
@@ -221,15 +281,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de março de 2012. - Pedro Passos Coelho - Paula Maria von Hafe Teixeira da Cruz.
 
-**Promulgado em 13 de março de 2012.**
+Promulgado em 13 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de março de 2012.**
+Referendado em 15 de março de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 

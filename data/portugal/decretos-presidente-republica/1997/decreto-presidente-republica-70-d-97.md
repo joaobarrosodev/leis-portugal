@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 275/1997, 1º Suplemento, Série I-A de 1997-11-27
   number: '275'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6400-(2) a 6400-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/275a01/00020002.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/70-d/1997/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/70-d-1997-158001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T04:25:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8064b53c820c96171d29152744b03518176155ce473c0c6966e5e6a5adfc4254
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b28b0516e02282fc27bbbd25906c588d497f96a89fb23211323d36b85370b38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:25:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,22 +70,27 @@ reuse:
 subjects:
 - Exoneração
 - Governo XIII
-- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
-- Secretário de Estado da Saúde
 - Secretário de Estado
+- Secretário de Estado da Saúde
 - Secretário de Estado do Desenvolvimento Regional
+- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
 - Secretário de Estado dos Recursos Naturais
-relationships: []
+relationships:
+- type: corrected_by
+  target: pt:dre:305444:por
+  label: "Rectificado pela DECL-RECT.21-A/97.1997.11.27.PR, DR.IS-A [277]2ºSupl de 29/Nov/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/21-a-1997-305444
+  date: '1997-11-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:25:25Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +99,7 @@ validation:
 
 de 27 de Novembro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São exonerados, sob proposta do Primeiro-Ministro:
 
@@ -106,12 +111,12 @@ O Dr. José Eduardo Arcos Gomes dos Reis do cargo de Secretário de Estado da Sa
 
 O engenheiro António Ricardo Rocha de Magalhães do cargo de Secretário de Estado dos Recursos Naturais.
 
-**Assinado em 26 de Novembro de 1997.**
+Assinado em 26 de Novembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Novembro de 1997.**
+Referendado em 26 de Novembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

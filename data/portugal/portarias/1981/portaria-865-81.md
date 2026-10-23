@@ -46,40 +46,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/865-1981-563634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:56:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0a7a1c05df91e267eb792b12643959ce533f9f72e8883d6addafdbcd6db1dde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de1a33138613a0dca5a384eac53a4613f23e3bf148115d823fb671ec09aab88a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:56:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Saúde Mental
+- Quadro de Pessoal
+- Viana do Castelo
 relationships:
 - type: amended_by
   target: pt:dre:356751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:380766:por
+  label: "Alterado o quadro de pessoal, na parte referente ao pessoal de enfermagem, pela PORT.1192/82.23.12.1982.MFP, DR.IS\
+    \ [295] de 23.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1192-1982-380766
+  date: '1982-12-23'
+- type: amended_by
+  target: pt:dre:381551:por
+  label: "Alterado o quadro de pessoal pela PORT.550/84.02.08.1984.PCM, DR.IS [178] de 02.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/550-1984-381551
+  date: '1984-08-02'
+- type: amended_by
+  target: pt:dre:151894:por
+  label: "Alterado o quadro de pessoal pela PORT.325/85.30.05.1985.PCM, DR.IS [124] de 30.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/325-1985-151894
+  date: '1985-05-30'
+- type: amended_by
+  target: pt:dre:180202:por
+  label: "Alterado o quadro de pessoal pela PORT.537/85.03.08.1985.PCM, DR.IS [177] de 03.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/537-1985-180202
+  date: '1985-08-03'
+- type: amended_by
+  target: pt:dre:285877:por
+  label: "Alterado o quadro de pessoal pela PORT.162/88.16.03.1988.MF, DR.IS [63] de 16.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/162-1988-285877
+  date: '1988-03-16'
+- type: amended_by
+  target: pt:dre:356751:por
+  label: "Alterado o quadro de pessoal, aprovado pelo presente diploma, na redacção das Port 1192/82, de 23-Dez, 550/84, de\
+    \ 02-Ago, 325/85, de 30-Mai, 537/85, de 03-Ago, 678/85, de 12-Set e 162/88, de 16-Mar, pela Port 768/88, de 09-Dez, DR.\
+    \ IS [283]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/786-1988-356751
+  date: '1988-12-09'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:56:32Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +148,6 @@ Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Adminis
 
 Quadro de pessoal do Centro de Saúde Mental da Viana do Castelo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/22300/25932594.pdf))](https://files.diariodarepublica.pt/1s/1981/09/22300/25932594.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22300/25932594.pdf)
 
 Nota. - O funcionário administrativo que exercer as funções de tesoureiro manterá a actual remuneração de 600$00 para falhas, sem prejuízo da revisão deste quantitativo nos termos da lei geral aplicável.

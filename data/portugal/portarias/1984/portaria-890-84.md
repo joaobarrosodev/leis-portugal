@@ -48,40 +48,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/890-1984-401493
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T08:15:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 668db37efabf8f798a40ffecacbe4500e668fa3cdab9295d1da10c8f0642ff05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 951ef6a22600b8f26e15a8ae674f260ec3f7770d533d003676ee1b5f62015a85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:15:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Faculdade de Medicina
+- Licenciatura
+- Plano de Estudos
+- Universidade do Porto
 relationships:
 - type: amended_by
   target: pt:dre:417613:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:195197:por
+  label: "Alterados os quadros I a VI do nº 1 do anexo III da Port 1036/81 de 05-Dez, com a redacção dada pelo presente diploma,\
+    \ pela PORT.169/86.28.04.1986.MEC, DR.IS [97] de 28.04.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/169-1986-195197
+  date: '1986-04-28'
+- type: amended_by
+  target: pt:dre:417613:por
+  label: "Alterado o quadro VI do nº 1 do anexo III da Port 1036/81 de 05-Dez, com a redacção do presente diploma, pela PORT.697/87.14.08.1987.MEC,\
+    \ DR.IS [186] de 14.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/697-1987-417613
+  date: '1987-08-14'
+- type: cites
+  target: pt:dre:373424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:15:44Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +155,7 @@ A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 14 de Novembro de 1984.**
+Assinada em 14 de Novembro de 1984.
 
 Pelo Ministro da Educação, Joaquim Germano Pinto Machado Correia da Silva, Secretário de Estado do Ensino Superior.
 
@@ -138,8 +171,8 @@ Grau: licenciatura
 
 3.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28100/37193720.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28100/37193720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28100/37193720.pdf)
 
 4.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28100/37193720.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28100/37193720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28100/37193720.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/387/1998/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1998-222073
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55155851b8840f7974d696e247976a5419f83a0fd26e981068d887738363b00b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed7d361b9d11e5e53a533508d0288e3f5da03fd516375f93767acdcd62882917
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
-- Medicina
-- Doença Animal
+- Alimentação Humana
+- Alimento para Animais
+- BSE
 - Carne de Caprino
+- Carne de Ovino
 - Carne de Vaca
-- Multa
-- Direção Geral da Saúde
+- Comércio
 - Contra-ordenação
-- Direção Geral de Veterinária
+- Controlo Sanitário
 - Decisão CE
 - Definição de Competências
-- Controlo Sanitário
-- BSE
-- Saúde Pública
+- Direção Geral da Saúde
+- Direção Geral de Veterinária
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
+- Doença Animal
 - Fabrico Industrial
 - Fiscalização
 - Medicamento
-- Carne de Ovino
+- Medicina
 - Medicina Veterinária
-- Alimentação Humana
+- Multa
 - Produto Farmacêutico
 - Proteção do Consumidor
-- Alimento para Animais
-- Comércio
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:106647823:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:345534:por
+  label: "Alterado o art. 6º pelo DEC LEI.288/99.1999.07.28.MADRP, DR.IS-A [174]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/288-1999-345534
+  date: '1999-07-28'
+- type: amended_by
+  target: pt:dre:684611:por
+  label: "Alterados os arts. 1º, 2º, 3º, 4º, 5º, 6º (este último na redacção do Dec Lei 288/99 de 28-Jul), 8º e 10º, os anexos\
+    \ II, III e IV, revogado o nº 3 do art. 1º, os nºs. 3 a 6 do art. 2º, o anexo I e os nºs 6.1, 6.2 e 8 do anexo II todos\
+    \ do presente diploma, pelo DEC LEI.26/2006.10.02.2006.MADRP, DR.IS-A [30] de 10.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-2006-684611
+  date: '2006-02-10'
 - type: cites
   target: celex:31996D0239
   label: null
@@ -111,16 +123,22 @@ relationships:
   target: celex:31997D0534
   label: null
   source: http://data.europa.eu/eli/dec/1997/534/oj
+- type: repealed_by
+  target: pt:dre:106647823:por
+  label: Revogado, a partir de 28.03.2017, o presente diploma, alterado pelos Dec Lei 288/99 de 28-jul e 26/2006 de 10-fev,
+    pelo(a) Decreto-Lei n.º 33/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2017-106647823
+  date: '2017-03-23'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:07Z'
   warnings: []
   errors: []
 ---
@@ -275,19 +293,19 @@ São revogadas as disposições do Decreto-Lei n.º 32-A/97, de 28 de Janeiro, q
 
 Visto e aprovado em Conselho de Ministros de 14 de Outubro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 23 de Novembro de 1998.**
+Promulgado em 23 de Novembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Novembro de 1998.**
+Referendado em 25 de Novembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 4.º)
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf)
+[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 5.º)
 
@@ -371,8 +389,8 @@ A citada declaração deverá ser renovada semestralmente.
 
 ## ANEXO III — (a que se refere o n.º 2 do artigo 5.º)
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf)
+[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 2 do artigo 5.º)
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf)
+[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf)

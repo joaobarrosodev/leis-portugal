@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/115a00/26152619.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/167/1999/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1999-323077
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:07:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ede56fe02db54bff811189a2d1cf6aa0155c0ccb71f538b6aa4cd11179cdcd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 041f53778c9181044214f24a920e943d8266304328a34c9c02234037f3749797
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:07:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Embarcação
 - Certificado de Conformidade
+- Comércio
 - Definição de Competências
+- Embarcação
 - Equipamento Marítimo
-- Instalações Radioelétricas
 - Fiscalização
 - Inspecção Geral das Actividades Económicas
+- Instalações Radioelétricas
 - Normas de Segurança
 - Poluição Marinha
 - Segurança Marítima
-- Comércio
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:107495710:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:608907:por
+  label: "Alterado o art. 2º e revogado o nº 3 do art. 1º pelo DEC LEI.24/2004.23.01.2004.MOPTH, DR.IS-A [19] de 23.01.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2004-608907
+  date: '2004-01-23'
+- type: amended_by
+  target: pt:dre:75222134:por
+  label: Alterados, a partir de 31.08.2016, os arts. 5.º e 6.º do presente diploma, pelo(a) Decreto-Lei n.º 59/2016 - Diário
+    da República n.º 166/2016, Série I de 2016-08-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2016-75222134
+  date: '2016-08-30'
 - type: cites
   target: celex:31994L0057
   label: null
@@ -93,16 +105,26 @@ relationships:
   target: celex:31998L0085
   label: null
   source: http://data.europa.eu/eli/dir/1998/85/oj
+- type: corrected_by
+  target: pt:dre:406328:por
+  label: "Rectificado pela DECL-RECT.10-AO/99.1999.06.23.PCM, DR.IS-A [150]2ºSUPL de 30/Jun/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-ao-1999-406328
+  date: '1999-06-23'
+- type: repealed_by
+  target: pt:dre:107495710:por
+  label: Revogado pelo(a) Decreto-Lei n.º 63/2017 - Diário da República n.º 112/2017, Série I de 2017-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-2017-107495710
+  date: '2017-06-09'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:07:00Z'
   warnings: []
   errors: []
 ---
@@ -347,12 +369,12 @@ Os equipamentos marítimos fabricados em data anterior à da entrada em vigor do
 
 Visto e aprovado em Conselho de Ministros de 25 de Março de 1999. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura.
 
-**Promulgado em 28 de Abril de 1999.**
+Promulgado em 28 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Maio de 1999.**
+Referendado em 4 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

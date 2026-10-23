@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/24/1997/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/24-1997-384182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T04:24:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37aa40249cbbb6be045dcaf3bf5ae1efbf2a16cfdd253475a2f65cc2660aafba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5306ac1c50ee48ff6e65dca19ef36149c83027f7fe0509064ff0ddbb158d2560
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:24:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,32 +69,36 @@ subjects:
 - Acordo CE
 - ACP Países
 - Ajuda Comunitária
-- Financiamento
 - BEI
+- Bruxelas
 - CE Países
 - Comunidade Europeia
 - Convenção
 - Cooperação Financeira
-- Portugal
-- FED
 - Desenvolvimento Económico
+- FED
+- Financiamento
 - Países e Territórios Ultramarinos
-- Bruxelas
+- Portugal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/27/1997/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/27/1997/05/10/p/dre
+- type: cites
+  target: pt:dre:384187:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:24:04Z'
   warnings: []
   errors: []
 ---
@@ -103,16 +107,16 @@ validation:
 
 de 10 de Maio
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo Interno Relativo ao Financiamento e à Gestão das Ajudas da Comunidade no âmbito do Segundo Protocolo Financeiro à Quarta Convenção ACP-CE de Lomé, assinado em Bruxelas, em 20 de Dezembro de 1995, aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 27/97](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/27-1997-384187), em 31 de Janeiro de 1997.
 
-**Assinado em 14 de Abril de 1997.**
+Assinado em 14 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Abril de 1997.**
+Referendado em 23 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/76/2006/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2006-671050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c146f2e6a441cfa06c7e424571bb098f7f50710db81d2ad51692ed4ee5dc21a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85eddca8ea58e9f2f71e2149474485893bc4a5fe3c0d39cb528bc9e0d5008ab4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,25 +69,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Infarmed
+- Certificado de Qualidade
+- Comércio
 - Contra-ordenação
 - Controlo de Qualidade
 - Definição de Competências
 - Fabrico Industrial
 - Gestão Orçamental
-- Certificado de Qualidade
-- Orgânica
+- Infarmed
 - Instituto Nacional de Saúde Dr Ricardo Jorge
+- Multa
+- Orgânica
 - Regime Jurídico
 - TAXA de Prestação de Serviços
-- Comércio
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:494558:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517866:por
+  label: "Alterado o art. 8º-C do Dec Lei 273/95 de 23 de Out, com a redacção conferida no presente diploma, pelo DEC LEI.36/2007.16.02.2007.MS,\
+    \ DR.IS [34] de 16.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2007-517866
+  date: '2007-02-16'
 - type: cites
   target: celex:31975L0318
   label: null
@@ -136,16 +142,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/78/1997/04/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/78/1997/04/07/p/dre
+- type: repealed_by
+  target: pt:dre:517866:por
+  label: "Revogados os nºs 3 e 4 do art. 2º do Dec Lei 264/2003 de 24-Out, com a redacção conferida no presente diploma, pelo\
+    \ DEC LEI.36/2007.16.02.2007.MS, DR.IS [34] de 16.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2007-517866
+  date: '2007-02-16'
+- type: repealed_by
+  target: pt:dre:494558:por
+  label: "Revogado, a partir de 21.03.2010, o Dec Lei 78/97 de 07-Abr DR.IS-A [81], com as alterações constantes do presente\
+    \ diploma, pelo DEC LEI.145/2009.17.06.2009.MS, DR.IS [115] de 17.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-2009-494558
+  date: '2009-06-17'
 article_structure:
-  article_count: 64
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 53
+  section_count: 32
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:17Z'
   warnings: []
   errors: []
 ---
@@ -220,7 +238,9 @@ Os artigos 6.º, 7.º, 8.º-C, 11.º e 12.º do Decreto-Lei n.º 273/95, de 23 d
 
 3 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -242,7 +262,9 @@ Os artigos 6.º, 7.º, 8.º-C, 11.º e 12.º do Decreto-Lei n.º 273/95, de 23 d
 
 10 - ...
 
-###### Artigo 8.º-C — Distribuição e colocação no mercado
+Artigo 8.º-C
+
+Distribuição e colocação no mercado
 
 1 - ...
 
@@ -276,7 +298,9 @@ b) O nome ou firma e endereço ou sede do fabricante ou do mandatário, caso o f
 
 c) [Anterior alínea b).]
 
-###### Artigo 11.º — Procedimento de contra-ordenação e aplicação de coimas
+Artigo 11.º
+
+Procedimento de contra-ordenação e aplicação de coimas
 
 1 - A instrução dos procedimentos de contra-ordenação cabe ao INFARMED, sem prejuízo da intervenção, no domínio das respectivas atribuições, de outras entidades públicas.
 
@@ -290,7 +314,9 @@ b) Em 30% para o INFARMED;
 
 c) Em 60% para o Estado.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Sem prejuízo das competências atribuídas por lei a outras entidades e, em particular, à Autoridade de Segurança Alimentar e Económica (ASAE), o INFARMED, através dos seus trabalhadores, funcionários ou agentes, procede à fiscalização do cumprimento do disposto no presente diploma e na respectiva regulamentação, podendo, para efeitos de apreciação clínica ou laboratorial, recorrer a serviços de terceiros.
 
@@ -316,7 +342,9 @@ Publicidade
 
 5 - É subsidiariamente aplicável, com as necessárias adaptações, a legislação dos medicamentos de uso humano relativa ao patrocínio de acções científicas ou de promoção, à oferta de amostras gratuitas e de prémios, ofertas e outros benefícios, bem como relativas à transparência e publicidade dos patrocínios.
 
-###### Artigo 14.º-C — Custo dos actos
+Artigo 14.º-C
+
+Custo dos actos
 
 1 - O custo dos actos e serviços que devam ser prestados pelo INFARMED relativamente a dispositivos médicos constitui um encargo dos requerentes, sendo a sua tabela fixada por portaria do Ministro da Saúde, ouvido o INFARMED.
 
@@ -344,7 +372,9 @@ Os artigos 5.º, 7.º a 10.º, 12.º e 13.º do Decreto-Lei n.º 78/97, de 7 de 
 
 7 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Sempre que se verifique que os dispositivos médicos implantáveis activos referidos nas alíneas c) a e) do artigo 3.º, ainda que correctamente colocados no mercado e utilizados de acordo com o fim a que se destinam, possam comprometer a saúde e a segurança do doente ou de terceiros, o Instituto Nacional da Farmácia e do Medicamento (INFARMED) toma as providências necessárias para os retirar do mercado e de serviço, informando imediatamente a Comissão Europeia, bem como dando conhecimento da decisão ao fabricante.
 
@@ -352,17 +382,23 @@ Os artigos 5.º, 7.º a 10.º, 12.º e 13.º do Decreto-Lei n.º 78/97, de 7 de 
 
 3 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
 2 - As listas das normas nacionais que adoptam normas harmonizadas cujas referências tenham sido publicadas no Jornal Oficial da União Europeia são estabelecidas por despacho conjunto dos ministros responsáveis pelas áreas da economia e da saúde.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 Sem prejuízo das atribuições e competências legalmente atribuídas a outras entidades, a fiscalização da observância do disposto no presente diploma e na respectiva regulamentação incumbe à Autoridade de Segurança Alimentar e Económica (ASAE) e ao INFARMED, que, para efeitos de apreciação clínica ou laboratorial, pode recorrer aos serviços de terceiros.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Os fabricantes, os responsáveis pela colocação no mercado e pela entrada em serviço dos dispositivos abrangidos pelo presente diploma e os médicos e outros técnicos devem comunicar ao INFARMED todas as informações relativas a incidentes ocorridos após a respectiva colocação no mercado, nomeadamente:
 
@@ -370,7 +406,9 @@ a) ...
 
 b) ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Constituem contra-ordenações:
 
@@ -388,7 +426,9 @@ e) A ausência de instruções de utilização redigidas em português, quando f
 
 3 - A negligência é punível.
 
-###### Artigo 13.º — Procedimento de contra-ordenação e aplicação de coimas
+Artigo 13.º
+
+Procedimento de contra-ordenação e aplicação de coimas
 
 1 - A instrução dos procedimentos de contra-ordenação cabe ao INFARMED, sem prejuízo da intervenção, no domínio das respectivas atribuições, da ASAE e de outras entidades públicas.
 
@@ -492,15 +532,15 @@ c) Em 60% para o Estado.»
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - António Fernando Correia de Campos.
 
-**Promulgado em 5 de Março de 2006.**
+Promulgado em 5 de Março de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Março de 2006.**
+Referendado em 6 de Março de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 13.º )
 
@@ -944,7 +984,7 @@ Grupo II
 
 Requisitos relativos à concepção e ao fabrico
 
-# Parte I — Propriedades químicas, físicas e biológicas
+## Parte I — Propriedades químicas, físicas e biológicas
 
 7 - No que respeita às propriedades químicas, físicas e biológicas, a concepção e o fabrico devem observar os requisitos a seguir mencionados:
 
@@ -970,7 +1010,7 @@ Requisitos relativos à concepção e ao fabrico
 
 7.7 - Os dispositivos devem ser concebidos e fabricados por forma a reduzir ao mínimo os riscos derivados da introdução não intencional de substâncias no dispositivo, tendo em conta o próprio dispositivo e a natureza do meio em que se destina a ser utilizado.
 
-# Parte II — Infecção e contaminação microbiana
+## Parte II — Infecção e contaminação microbiana
 
 8 - No que respeita à infecção e contaminação microbiana, a concepção e o fabrico devem observar os seguintes requisitos:
 
@@ -990,7 +1030,7 @@ Requisitos relativos à concepção e ao fabrico
 
 8.7 - A embalagem e rotulagem do dispositivo deve permitir distinguir produtos idênticos e análogos vendidos sob a forma esterilizada e não esterilizada.
 
-# Parte III — Propriedades relativas ao fabrico e condições ambientais
+## Parte III — Propriedades relativas ao fabrico e condições ambientais
 
 9 - As propriedades relativas ao fabrico e condições ambientais devem respeitar as seguintes exigências:
 
@@ -1008,7 +1048,7 @@ Requisitos relativos à concepção e ao fabrico
 
 9.3 - Os dispositivos devem ser concebidos e fabricados por forma a minimizar os riscos de incêndio ou explosão em condições normais de utilização ou em situação de primeira avaria, devendo prestar-se especial atenção aos dispositivos cuja utilização implique a exposição a substâncias inflamáveis ou a substâncias susceptíveis de favorecer a combustão.
 
-# Parte IV — Dispositivos com funções de medição
+## Parte IV — Dispositivos com funções de medição
 
 10 - A concepção e o fabrico dos dispositivos com funções de medição devem respeitar os seguintes requisitos:
 
@@ -1018,7 +1058,7 @@ Requisitos relativos à concepção e ao fabrico
 
 10.3 - As medições feitas por dispositivos com funções de medição devem ser expressas em unidades legais, em conformidade com o disposto na legislação aplicável.
 
-# Parte V — Protecção contra radiações
+## Parte V — Protecção contra radiações
 
 11 - No que diz respeito à protecção contra radiações, deve observar-se o seguinte:
 
@@ -1038,7 +1078,7 @@ Requisitos relativos à concepção e ao fabrico
 
 11.6.2 - Os dispositivos que emitem radiações ionizantes destinados à radioterapia devem ser concebidos e fabricados por forma a permitir a supervisão e um controlo fiáveis da dose administrada, do tipo e energia do feixe e, se for caso disso, da qualidade da radiação.
 
-# Parte VI — Dispositivos médicos ligados a uma fonte de energia ou que dela disponham como equipamento
+## Parte VI — Dispositivos médicos ligados a uma fonte de energia ou que dela disponham como equipamento
 
 12 - Os requisitos relativos aos dispositivos médicos ligados a uma fonte de energia ou que dela disponham como equipamento são os seguintes:
 
@@ -1080,7 +1120,7 @@ C - Protecção contra os riscos inerentes ao fornecimento de energia ou adminis
 
 12.8.3 - A função dos comandos e indicadores deve encontrar-se claramente indicada nos dispositivos e, sempre que um dispositivo contenha instruções de funcionamento ou indique parâmetros de funcionamento ou de regulação através de um sistema visual, essas informações devem ser claras para o utilizador e, se for caso disso, para o doente.
 
-# Parte VII — Informações fornecidas pelo fabricante
+## Parte VII — Informações fornecidas pelo fabricante
 
 13 - No que respeita às informações fornecidas pelo fabricante, deve observar-se o seguinte:
 
@@ -1184,7 +1224,7 @@ Sistema completo de garantia da qualidade
 
 3 - O fabricante deve apor a marcação CE nos termos do artigo 7.º e elaborar uma declaração de conformidade, a qual abrangerá um número determinado de produtos fabricados e será conservada pelo fabricante.
 
-# Parte I — Sistema da qualidade
+## Parte I — Sistema da qualidade
 
 A - Pedido de avaliação
 
@@ -1258,7 +1298,7 @@ C - Organismo notificado
 
 4.14 - O fabricante deve informar o organismo notificado que tiver aprovado o sistema da qualidade de qualquer projecto de alterações significativas do mesmo ou da gama de produtos abrangidos, devendo o organismo notificado avaliar as alterações propostas e verificar se o sistema da qualidade assim alterado satisfaz, ainda, os requisitos referidos nos n.os 4.8 a 4.10, comunicando a sua decisão ao fabricante, a qual deve conter as conclusões da inspecção e uma avaliação fundamentada.
 
-# Parte II — Exame da concepção do produto
+## Parte II — Exame da concepção do produto
 
 5 - Para além das obrigações que lhe incumbem por força do n.º 4, o fabricante deve apresentar ao organismo notificado um pedido de exame do dossier de concepção relativo a qualquer produto a fabricar, nos termos do n.º 4.
 
@@ -1284,7 +1324,7 @@ C - Organismo notificado
 
 5.10 - A aprovação complementar deve ser dada sob a forma de um aditamento ao certificado de exame CE de concepção.
 
-# Parte III — Fiscalização
+## Parte III — Fiscalização
 
 6 - O objectivo da fiscalização consiste em assegurar que o fabricante cumpre correctamente as obrigações decorrentes do sistema da qualidade aprovado.
 
@@ -1300,7 +1340,7 @@ C - Organismo notificado
 
 6.3 - O organismo notificado pode efectuar visitas inesperadas ao fabricante, durante as quais, se necessário, pode efectuar, ou mandar efectuar, ensaios de verificação do bom funcionamento do sistema da qualidade, devendo entregar ao fabricante um relatório da inspecção e um relatório dos ensaios efectuados.
 
-# Parte IV — Disposições administrativas
+## Parte IV — Disposições administrativas
 
 7 - O fabricante deve manter à disposição das entidades com competência de fiscalização durante, pelo menos, cinco anos a contar da última data de fabrico do produto os seguintes elementos:
 
@@ -1316,11 +1356,11 @@ C - Organismo notificado
 
 7.6 - No que se refere aos dispositivos sujeitos ao procedimento referido no n.º 5, sempre que o fabricante ou o seu mandatário não se encontre estabelecido num Estado membro da Comunidade, a obrigação de manter disponível a documentação técnica caberá ao responsável pela colocação no mercado comunitário do dispositivo ou ao importador a que se refere o n.º 13.5.1 do anexo I.
 
-# Parte V — Aplicação aos dispositivos das classes II-a e II-b
+## Parte V — Aplicação aos dispositivos das classes II-a e II-b
 
 8 - O presente anexo aplica-se aos produtos das classes II-a e II-b, nos termos do disposto nas alíneas b) e c) do n.º 1 do artigo 8.º do presente decreto-lei, não lhes sendo aplicável a parte II supra.
 
-# Parte VI — Aplicação aos dispositivos que incorporem uma substância derivada do sangue humano na acepção do artigo 2.º, n.º 2
+## Parte VI — Aplicação aos dispositivos que incorporem uma substância derivada do sangue humano na acepção do artigo 2.º, n.º 2
 
 9 - Concluído o fabrico de cada lote do dispositivo referido na alínea b) do n.º 2 do artigo 2.º, o fabricante informa o organismo notificado da validação desse lote, transmitindo-lhe o certificado oficial de validação do lote da substância derivada do sangue humano utilizada nesse dispositivo, redigido nos termos do n.º 7.5 pelo laboratório referido no n.º 7.5.1, ambos do anexo I.
 
@@ -1330,7 +1370,7 @@ Exame CE de tipo
 
 1 - O exame CE de tipo é o procedimento através do qual o organismo notificado verifica e certifica que um exemplar representativo da produção prevista satisfaz as disposições do presente decreto-lei que lhe são aplicáveis.
 
-# Parte I — A - Pedido de exame
+## Parte I — A - Pedido de exame
 
 2 - O pedido de exame CE de tipo deve incluir:
 
@@ -1416,13 +1456,13 @@ Verificação CE
 
 4 - O organismo notificado efectuará os exames adequados à comprovação da conformidade do produto com as exigências do presente diploma através quer do controlo e ensaio de cada produto, como especificado no n.º 5, quer do controlo e ensaio dos produtos numa base estatística, como especificado no n.º 6, à escolha do fabricante, não se aplicando estas verificações aos aspectos do fabrico relacionados com a esterilização.
 
-# Parte I — Verificação por controlo e ensaio de todos os produtos
+## Parte I — Verificação por controlo e ensaio de todos os produtos
 
 5 - Todos os produtos serão examinados individualmente e efectuar-se-ão os ensaios adequados definidos na norma ou normas aplicáveis previstas no artigo 6.º, ou ensaios equivalentes, para a verificação, se aplicável, da respectiva conformidade com o tipo descrito no certificado de exame CE de tipo e com as demais exigências do presente decreto-lei que lhes são aplicáveis.
 
 5.1 - O organismo notificado aporá, ou mandará apor, o seu número de identificação em cada produto aprovado e elaborará um certificado de conformidade escrito relativamente aos ensaios efectuados.
 
-# Parte II — Verificação estatística
+## Parte II — Verificação estatística
 
 6 - O fabricante deverá apresentar os produtos fabricados sob a forma de lotes homogéneos.
 
@@ -1464,7 +1504,7 @@ Garantia da qualidade da produção
 
 2.1 - O fabricante deve apor a marcação CE nos termos do artigo 7.º e elaborar uma declaração de conformidade, a qual abrangerá um dado número de produtos fabricados e será conservada pelo fabricante.
 
-# Parte I — Sistema de qualidade
+## Parte I — Sistema de qualidade
 
 A - Pedido de avaliação
 
@@ -1522,7 +1562,7 @@ C - Organismo notificado
 
 3.5 - O fabricante deve informar o organismo notificado que tiver aprovado o sistema da qualidade de qualquer projecto de alterações significativas do mesmo ou da gama de produtos abrangidos, devendo o organismo notificado avaliar as alterações propostas e verificar se o sistema da qualidade assim alterado satisfaz, ainda, as exigências referidas nos n.os 3.2 e 3.3, comunicando a sua decisão ao fabricante, a qual deve conter as conclusões da inspecção e uma avaliação fundamentada.
 
-# Parte II — Fiscalização
+## Parte II — Fiscalização
 
 4 - O objectivo da fiscalização consiste em assegurar que o fabricante cumpre correctamente as obrigações decorrentes do sistema da qualidade aprovado.
 
@@ -1536,7 +1576,7 @@ C - Organismo notificado
 
 4.3 - Além disso, o organismo notificado pode efectuar visitas inesperadas ao fabricante, durante as quais, se necessário, pode efectuar, ou mandar efectuar, ensaios de verificação do bom funcionamento do sistema da qualidade, devendo entregar ao fabricante um relatório da inspecção e um relatório dos ensaios efectuados.
 
-# Parte III — Disposições administrativas
+## Parte III — Disposições administrativas
 
 5 - O fabricante deve manter à disposição das entidades com competência de fiscalização, durante, pelo menos, cinco anos a contar da última data do fabrico do produto:
 
@@ -1554,13 +1594,13 @@ C - Organismo notificado
 
 6 - O organismo notificado deve colocar à disposição dos outros organismos notificados, bem como das entidades com competência de fiscalização, quando solicitado, todas as informações pertinentes relativas às aprovações emitidas, recusadas ou retiradas referentes aos sistemas da qualidade.
 
-# Parte IV — Aplicação aos dispositivos da classe II-a
+## Parte IV — Aplicação aos dispositivos da classe II-a
 
 7 - O presente anexo aplica-se aos produtos da classe II-a, nos termos da alínea c) do n.º 1 do artigo 8.º do presente decreto-lei, com a seguinte derrogação:
 
 7.1 - Em derrogação dos n.os 2, 3.1, 3.2 e 3.3, o fabricante deve garantir e declarar, através da declaração de conformidade, que os produtos da classe II-a são fabricados em conformidade com a documentação técnica referida no n.º 3 do anexo VII e satisfazem as disposições do presente decreto-lei que lhes são aplicáveis.
 
-# Parte V — Aplicação aos dispositivos que incorporem uma substância derivada do sangue humano na acepção do artigo 2.º, n.º 2
+## Parte V — Aplicação aos dispositivos que incorporem uma substância derivada do sangue humano na acepção do artigo 2.º, n.º 2
 
 8 - Uma vez concluído o fabrico de cada lote do dispositivo do tipo referido na alínea b) do n.º 2 do artigo 2.º do presente decreto-lei, o fabricante informará o organismo notificado da validação desse lote, transmitindo-lhe certificado oficial de validação do lote da substância derivada do sangue humano utilizada nesse dispositivo, elaborado e redigido pelo laboratório designado, nos termos do disposto no n.º 7.5.1 do anexo I.
 
@@ -1576,7 +1616,7 @@ Garantia da qualidade dos produtos
 
 2.1 - O fabricante deve apor a marcação CE nos termos do artigo 7.º e elaborar uma declaração de conformidade, a qual abrangerá um dado número de produtos fabricados e será conservada pelo fabricante, devendo a marcação CE ser acompanhada do número de identificação do organismo notificado que desempenha as funções referidas no presente anexo.
 
-# Parte I — Sistema de qualidade
+## Parte I — Sistema de qualidade
 
 A - Pedido de avaliação
 
@@ -1632,7 +1672,7 @@ C - Organismo notificado
 
 3.9 - O fabricante deve informar o organismo notificado que tiver aprovado o sistema da qualidade de qualquer projecto de alterações significativas do mesmo ou da gama de produtos abrangidos, devendo o organismo notificado avaliar as alterações propostas e verificar se o sistema da qualidade assim alterado satisfaz, ainda, as exigências referidas nos n.os 3.2 e 3.3, comunicando a sua decisão ao fabricante, a qual deve conter as conclusões da inspecção e uma avaliação fundamentada.
 
-# Parte II — Fiscalização
+## Parte II — Fiscalização
 
 4 - O objectivo da fiscalização consiste em assegurar que o fabricante cumpre correctamente as obrigações decorrentes do sistema da qualidade aprovado.
 
@@ -1650,7 +1690,7 @@ C - Organismo notificado
 
 4.4 - O organismo notificado deve entregar ao fabricante um relatório da visita e, se aplicável, um relatório de ensaio.
 
-# Parte III — Disposições administrativas
+## Parte III — Disposições administrativas
 
 5 - O fabricante deve manter à disposição das entidades com competência de fiscalização durante, pelo menos, cinco anos a contar da última data do fabrico do produto os seguintes elementos:
 
@@ -1666,7 +1706,7 @@ C - Organismo notificado
 
 6 - O organismo notificado deve colocar à disposição dos outros organismos notificados e das entidades com competência de fiscalização, quando solicitado, todas as informações pertinentes relativas às aprovações emitidas, recusadas ou retiradas referentes aos sistemas da qualidade.
 
-# Parte IV — Aplicação aos dispositivos da classe II-a
+## Parte IV — Aplicação aos dispositivos da classe II-a
 
 7 - O presente anexo aplica-se aos produtos da classe II-a nos termos da alínea c) do n.º 1 do artigo 8.º do presente decreto-lei.
 
@@ -1780,7 +1820,7 @@ Grupo I
 
 Definições
 
-# Parte I — Regras de classificação
+## Parte I — Regras de classificação
 
 1 - Definições relativas às regras de classificação:
 
@@ -1836,7 +1876,7 @@ Grupo III
 
 Classificação
 
-# Parte I — Dispositivos não invasivos
+## Parte I — Dispositivos não invasivos
 
 1 - São as seguintes as regras de classificação dos dispositivos não invasivos:
 
@@ -1868,7 +1908,7 @@ Regra n.º 4
 
 1.4.3 - Pertencem à classe II-a em todos os outros casos, incluindo os dispositivos que se destinem essencialmente a controlar o microambiente de uma ferida.
 
-# Parte II — Dispositivos invasivos
+## Parte II — Dispositivos invasivos
 
 2 - São as seguintes as regras de classificação dos dispositivos invasivos:
 
@@ -1924,7 +1964,7 @@ Regra n.º 8
 
 2.4.4 - A sofrer uma transformação química do corpo, excepto se se destinarem a ser colocados nos dentes ou administrar medicamentos, casos em que pertencem à classe III.
 
-# Parte III — Regras complementares aplicáveis aos dispositivos activos
+## Parte III — Regras complementares aplicáveis aos dispositivos activos
 
 3 - São as seguintes as regras complementares aplicadas aos dispositivos activos:
 
@@ -1956,7 +1996,7 @@ Regra n.º 12
 
 3.4 - Todos os restantes dispositivos activos pertencem à classe I.
 
-# Parte IV — Regras especiais
+## Parte IV — Regras especiais
 
 4 - As regras especiais são as que constam dos números seguintes:
 
@@ -1988,7 +2028,7 @@ Regra n.º 18
 
 Avaliação clínica
 
-# Parte I — Disposições gerais
+## Parte I — Disposições gerais
 
 1 - A comprovação da conformidade dos requisitos relativos às características e ao nível de funcionamento referidos nos n.os 1 e 3 do anexo I nas condições normais de utilização do dispositivo bem como a avaliação dos efeitos secundários indesejáveis devem, regra geral, basear-se em dados clínicos, no que respeita aos dispositivos implantáveis e aos da classe III, bem como, sempre que tal se justifique, aos restantes dispositivos, devendo a adequação dos dados clínicos, em especial no que se refere aos dispositivos implantáveis e aos dispositivos pertencentes à classe III, basear-se:
 
@@ -1998,7 +2038,7 @@ Avaliação clínica
 
 1.3 - Todos os dados devem permanecer confidenciais, nos termos do artigo 15.º
 
-# Parte II — Investigação clínica
+## Parte II — Investigação clínica
 
 2 - Os objectivos das investigações clínicas são:
 

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23811-1968-256606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b72928f53a78e77b47c1f4b5b828862c296a4279d692731a586297d9ec084435
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb510a85925e2c8033360113ec2eda7045bf7b986247eb7c83375fe7c0e164c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:256604:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:01Z'
   warnings: []
   errors: []
 ---
@@ -84,15 +88,15 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro das Finanças, aprovar, nos termos dos artigos 3.º e 14.º, n.º 1, do [Decreto-Lei n.º 48802](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48802-1968-256604), de 27 de Dezembro de 1968, o seguinte regulamento:
 
-###### Artigo 1.º - 1. A acção dos Serviços Sociais da Guarda Fiscal (S. S. G. F.) exercer-se-á nos domínios da previdência, da assistência, da habitação, dos abastecimentos, do alojamento temporário e convívio social, do repouso e recreação, da educação e cultura e de outras actividades afins, nos termos constantes dos artigos seguintes.
+Artigo 1.º - 1. A acção dos Serviços Sociais da Guarda Fiscal (S. S. G. F.) exercer-se-á nos domínios da previdência, da assistência, da habitação, dos abastecimentos, do alojamento temporário e convívio social, do repouso e recreação, da educação e cultura e de outras actividades afins, nos termos constantes dos artigos seguintes.
 
 2. O Cofre de Previdência dos Oficiais e Praças da Guarda Fiscal deve cooperar na construção de casas e nas demais actividades de interesse social a cargo dos S. S. G. F.
 
-###### Art. 2.º A previdência continuará a ser exercida pelo Cofre de Previdência dos Oficiais e Praças da Guarda Fiscal e tem por objecto fundamental garantir, por falecimentos dos subscritores, um subsídio às pessoas consideradas hábeis para o efeito.
+Art. 2.º A previdência continuará a ser exercida pelo Cofre de Previdência dos Oficiais e Praças da Guarda Fiscal e tem por objecto fundamental garantir, por falecimentos dos subscritores, um subsídio às pessoas consideradas hábeis para o efeito.
 
-###### Art. 3.º A assistência será prestada em todos os domínios onde se reconheça a sua necessidade, devendo abranger designadamente as modalidades de assistência médica e cirúrgica, materno-infantil, de enfermagem e medicamentosa, escolar, na velhice, na invalidez e religiosa.
+Art. 3.º A assistência será prestada em todos os domínios onde se reconheça a sua necessidade, devendo abranger designadamente as modalidades de assistência médica e cirúrgica, materno-infantil, de enfermagem e medicamentosa, escolar, na velhice, na invalidez e religiosa.
 
-###### Art. 4.º A assistência médica e cirúrgica terá em princípio a amplitude seguinte:
+Art. 4.º A assistência médica e cirúrgica terá em princípio a amplitude seguinte:
 
 a) Consultas e visitas domiciliárias, de clínica geral e especialidades;
 
@@ -104,29 +108,29 @@ d) Internamentos;
 
 e) Intervenções cirúrgicas.
 
-###### Art. 5.º A assistência médica e cirúrgica, de enfermagem e medicamentosa pode ser prestada gratuitamente, em melhores condições de preço e pagamento ou pela comparticipação nas despesas.
+Art. 5.º A assistência médica e cirúrgica, de enfermagem e medicamentosa pode ser prestada gratuitamente, em melhores condições de preço e pagamento ou pela comparticipação nas despesas.
 
-###### Art. 6.º A assistência materno-infantil pode assumir a forma de auxílio material ou de prestação de serviços no domicílio ou através de maternidades, asilos-creches, lactários, dispensários, parques, jardins-infantis e outros estabelecimentos apropriados.
+Art. 6.º A assistência materno-infantil pode assumir a forma de auxílio material ou de prestação de serviços no domicílio ou através de maternidades, asilos-creches, lactários, dispensários, parques, jardins-infantis e outros estabelecimentos apropriados.
 
-###### Art. 7.º A assistência escolar será realizada nomeadamente pela comparticipação, total ou parcial, nos custos de internamento em estabelecimento de ensino, na aquisição de livros, material escolar e enxovais, pelo pagamento de propinas e pela concessão de bolsas de estudo.
+Art. 7.º A assistência escolar será realizada nomeadamente pela comparticipação, total ou parcial, nos custos de internamento em estabelecimento de ensino, na aquisição de livros, material escolar e enxovais, pelo pagamento de propinas e pela concessão de bolsas de estudo.
 
-###### Art. 8.º - 1. A assistência na invalidez, no desamparo e na velhice pode assumir a forma do internamento em recolhimentos, orfanatos, casas de repouso e outros estabelecimentos análogos, a atribuição de subsídios ou qualquer outra modalidade de auxílio.
+Art. 8.º - 1. A assistência na invalidez, no desamparo e na velhice pode assumir a forma do internamento em recolhimentos, orfanatos, casas de repouso e outros estabelecimentos análogos, a atribuição de subsídios ou qualquer outra modalidade de auxílio.
 
 2. Esta modalidade de assistência pode ser prestada às viúvas e filhas solteiras orfãs de sargentos e praças da Guarda Fiscal.
 
-###### Art. 9.º - 1. A assistência pode assumir, em geral, as modalidades da concessão de subsídios para enxoval às filhas nubentes, para funerais de pessoa de família, para rendas de casa e para ocorrer aos prejuízos que os subscritores venham a sofrer em virtude de calamidades e outras causas que justifiquem esta modalidade de auxílio.
+Art. 9.º - 1. A assistência pode assumir, em geral, as modalidades da concessão de subsídios para enxoval às filhas nubentes, para funerais de pessoa de família, para rendas de casa e para ocorrer aos prejuízos que os subscritores venham a sofrer em virtude de calamidades e outras causas que justifiquem esta modalidade de auxílio.
 
 2. Os S. S. G. F. podem igualmente fazer adiantamentos de vencimentos aos seus beneficiários, em casos de reconhecida urgência e necessidade.
 
-###### Art. 10.º No domínio da habitação, os S. S. G. F. promoverão a construção ou aquisição de casas económicas destinadas a arrendamento ou a aquisição a prazo mediante amortizações suaves.
+Art. 10.º No domínio da habitação, os S. S. G. F. promoverão a construção ou aquisição de casas económicas destinadas a arrendamento ou a aquisição a prazo mediante amortizações suaves.
 
-###### Art. 11.º No sector do abastecimento, os Serviços Sociais deverão proporcionar a aquisição de artigos de fardamento e vestuário, de consumo e de uso corrente nas melhores condições de preço e pagamento.
+Art. 11.º No sector do abastecimento, os Serviços Sociais deverão proporcionar a aquisição de artigos de fardamento e vestuário, de consumo e de uso corrente nas melhores condições de preço e pagamento.
 
-###### Art. 12.º O alojamento temporário, o convívio social, o repouso e a recreação serão facilitados pela utilização de messes, cantinas, refeitórios, salas de recreio, colónias de férias e casas de repouso.
+Art. 12.º O alojamento temporário, o convívio social, o repouso e a recreação serão facilitados pela utilização de messes, cantinas, refeitórios, salas de recreio, colónias de férias e casas de repouso.
 
-###### Art. 13.º A acção de educação e de cultura será exercida por meio de conferências, espectáculos teatrais e cinematográficos, pela rádio e televisão, por meio de bibliotecas, de visitas de estudo e por outros meios apropriados.
+Art. 13.º A acção de educação e de cultura será exercida por meio de conferências, espectáculos teatrais e cinematográficos, pela rádio e televisão, por meio de bibliotecas, de visitas de estudo e por outros meios apropriados.
 
-###### Art. 14.º Compete designadamente ao comandante-geral da Guarda Fiscal, na qualidade de director dos S. S. G. F.:
+Art. 14.º Compete designadamente ao comandante-geral da Guarda Fiscal, na qualidade de director dos S. S. G. F.:
 
 a) Estudar e pôr em execução todas as medidas que possam contribuir para a realização dos objectivos dos S. S. G. F., propondo superiormente a adopção das que excederem a sua competência;
 
@@ -142,13 +146,13 @@ f) Inspeccionar ou fazer inspeccionar os órgãos e actividades dos Serviços So
 
 g) Delegar no secretário-geral as atribuições que julgar convenientes.
 
-###### Art. 15.º Ao secretário-geral compete superintender no funcionamento da secretaria e do conselho administrativo e, especialmente:
+Art. 15.º Ao secretário-geral compete superintender no funcionamento da secretaria e do conselho administrativo e, especialmente:
 
 a) Reunir, preparar e coordenar os elementos indispensáveis à direcção dos S. S. G. F.;
 
 b) Transmitir as directivas, ordens e instruções do director e velar pela sua execução.
 
-###### Art. 16.º - 1. Compete especialmente à inspecção:
+Art. 16.º - 1. Compete especialmente à inspecção:
 
 a) Inspeccionar, por determinação do director, os órgãos e actividades a que se refere a alínea f) do artigo 14.º, velando pela ordem e eficiência dos serviços, pela conveniente administração dos fundos e outros bens e pelo escrupuloso cumprimento dos regulamentos, ordens e instruções;
 
@@ -158,9 +162,9 @@ b) Colaborar nos inquéritos e estudos que visem a melhoria, desenvolvimento e a
 
 3. Para os serviços de inspecção pode ser pedida a qualquer organismo público a colaboração que se torne necessária e nos termos que, para o efeito, vierem a ser estabelecidos.
 
-###### Art. 17.º As disponibilidades em dinheiro podem ser aplicadas na aquisição de títulos de crédito ou depositadas em estabelecimentos bancários, mediante autorização do Ministro das Finanças.
+Art. 17.º As disponibilidades em dinheiro podem ser aplicadas na aquisição de títulos de crédito ou depositadas em estabelecimentos bancários, mediante autorização do Ministro das Finanças.
 
-###### Art. 18.º - 1. As despesas com obras ou com aquisições de material podem ser autorizadas:
+Art. 18.º - 1. As despesas com obras ou com aquisições de material podem ser autorizadas:
 
 a) Até 5000$00, pelo conselho administrativo;
 
@@ -170,6 +174,6 @@ c) Até 800000$00, pelo director.
 
 2. O director é competente para autorizar despesas com dispensa de realização de concurso, público ou limitado, e da celebração de contrato escrito até à importância de 400000$00.
 
-###### Art. 19.º O conselho administrativo rege-se pelas normas que regulam os conselhos administrativos das unidades da Guarda Fiscal, competindo-lhe a elaboração dos orçamentos e das contas de gerência a apresentar directamente ao Tribunal de Contas, e, bem assim, a colaboração necessária ao planeamento e aos estudos administrativos dos S. S. G. F.
+Art. 19.º O conselho administrativo rege-se pelas normas que regulam os conselhos administrativos das unidades da Guarda Fiscal, competindo-lhe a elaboração dos orçamentos e das contas de gerência a apresentar directamente ao Tribunal de Contas, e, bem assim, a colaboração necessária ao planeamento e aos estudos administrativos dos S. S. G. F.
 
 Ministério das Finanças, 27 de Dezembro de 1968. - O Ministro das Finanças, João Augusto Dias Rosas.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 146/2007, 3º Suplemento, Série I de 2007-07-31
   number: '146'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4902-(16) a 4902-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/14603/0001600020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/276-c/2007/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-c-2007-569550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 681a1835589e47fad58a17d5c4506b14e5452ba7b8ee8e37eb4135e3c7061bac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8f229ffe4163c6c6e31cdc8ad49e99bed4d2fecc7d5a59832c5f925bfe11ec3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Nacional para a Qualificação
 - Autonomia Administrativa
 - Autonomia Financeira
-- Fiscal Único
-- Ministério da Educação
 - Conselho de Gestão
 - Conselho Geral
 - Definição de Competências
 - Direcção Geral de Formação Vocacional
-- Ministério do Trabalho e da Solidariedade Social
-- Agência Nacional para a Qualificação
-- Instituto para a Qualidade na Formação
-- Instituto Público
-- Orgânica
+- Fiscal Único
 - Funcionário Público
 - Gestão de Recursos Humanos
+- Instituto para a Qualidade na Formação
+- Instituto Público
+- Ministério da Educação
+- Ministério do Trabalho e da Solidariedade Social
+- Orgânica
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:543022:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinado que fique sob a superintendência e tutela conjuntas dos Ministros da Economia e do Emprego e da Educação\
+    \ e Ciência, em articulação com o Ministro da Solidariedade e da Segurança Social, a Agência Nacional para a Qualificação,\
+    \ anteriormente sob a superintendência e tutela conjuntas dos ex- Ministros da Educação e do Trabalho e da Solidariedade\
+    \ Social, cuja orgânica foi aprovada pelo presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de\
+    \ 12.07.2011\011\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amended_by
+  target: pt:dre:145195:por
+  label: "Extinta, sendo objecto de fusão, a Agência Nacional para a Qualificação, I. P., e determinado que passe a designar-se\
+    \ Agência Nacional para a Qualificação e o Ensino Profissional, I. P, pelo DEC LEI.125/2011.29.12.2011.MECI, DR.IS [249]\
+    \ de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2011-145195
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:543022:por
+  label: "Determinada a sucessão pela Agência Nacional para a Qualificação e o Ensino Profissional das atribuições da ex-Agência\
+    \ Nacional para a Qualificação, I.P. pelo DEC LEI.36/2012.15.02.2012.MECI, DR.IS [33] de 15.02.2012, que revogou, a partir\
+    \ de 01.03.2012, o presente diploma.\0a.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2012-543022
+  date: '2012-02-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
@@ -106,16 +129,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/1998/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/1998/02/03/p/dre
+- type: cites
+  target: pt:dre:223628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:lei:34/2006
+  label: "Revoga, a partir de 01.09.2007, o Decreto Lei n.º 34/2006, de 17 de Fevereiro, DR.IS-A [35], que prorrogou o regime\
+    \ de instalação da Direcção-Geral de Formação Vocacional, criada pelo Decreto-Lei n.º 208/2002, de 17 de Outubro \0\0"
+  source: null
+  date: '2006-02-17'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:14Z'
   warnings: []
   errors: []
 ---
@@ -392,12 +441,12 @@ O presente decreto lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 29 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Pedro Manuel Dias de Jesus Marques - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 29 de Maio de 2007.**
+Promulgado em 29 de Maio de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 31 de Maio de 2007.**
+Referendado em 31 de Maio de 2007.
 
 O Primeiro Ministro, José Sócrates Carvalho Pinto de Sousa

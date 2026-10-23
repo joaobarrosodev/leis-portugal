@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/588-1975-311617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T04:50:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6544501831d23f378207ded81bf22fdba8fa3f585b5750bba2472ab6c26f1141
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1857b9462c62a23c52ecd7a189b81e69d1c093ea1ef8f2ade153afedf8e5cf17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:50:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estabelecimentos Fabris da Armada
+- Fábrica Nacional de Cordoaria
+- Ministério do Exército
+- Quadro de Pessoal
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:159562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336538:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:50:26Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +122,7 @@ Conselho da Revolução e Ministérios das Finanças e do Trabalho, 24 de Julho 
 
 ## ANEXO — Tabela de equiparações de categorias de pessoal civil da Fábrica Nacional de Cordoaria com a dos estabelecimentos fabris do Exército para o efeito de remunerações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/10/23000/15441547.pdf))](https://files.diariodarepublica.pt/1s/1975/10/23000/15441547.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/10/23000/15441547.pdf)
 
 OBSERVAÇÃO
 
@@ -113,4 +130,4 @@ As equiparações que se estabelecem nesta tabela têm por fim manter, na coloca
 
 Para futuros provimentos e com base no disposto no n.º 4 do artigo 4.º do [Decreto-Lei n.º 462/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/462-1975-314875), de 26 de Agosto, as classes das equiparações serão revistas e actualizadas.
 
-**O Chefe do Estado-Maior-General das Forças Armadas, Francisco da Costa Gomes. - O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo. - O Ministro das Finanças, José Joaquim Fragoso. - O Ministro do Trabalho, José Inácio da Costa Martins.**
+O Chefe do Estado-Maior-General das Forças Armadas, Francisco da Costa Gomes. - O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo. - O Ministro das Finanças, José Joaquim Fragoso. - O Ministro do Trabalho, José Inácio da Costa Martins.

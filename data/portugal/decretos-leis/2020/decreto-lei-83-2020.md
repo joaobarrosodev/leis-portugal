@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/10/19400/0022500300.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/83/2020/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2020-144454620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3080da10171e4afde1ccdd17cc04385d96cca131932a463ef51ce3110effa41a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7877e635f321fa8d41f37fa8f583895b9302bfdb675b960220cbdb8bd10b875
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Navegação Aérea
-- Certificado de Aptidão Profissional
+- Autoridade Nacional da Aviação Civil
+- Aviação Civil
+- Aviação Civil Internacional
 - Avião
 - CE Países
 - Certificação Profissional
-- Multa
-- Transporte Aéreo
+- Certificado de Aptidão Profissional
 - Contra-ordenação
 - Controlador de Tráfego Aéreo
 - Definição de Competências
 - Espaço de Aviação Comum Europeu
-- Aviação Civil Internacional
 - Fiscalização
 - Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica
 - Licenciamento
+- Multa
+- Navegação Aérea
 - Navegação Aérea Internacional
 - Pessoal Aeronáutico
 - Pessoal Navegante
 - Qualificação Profissional
-- Aviação Civil
 - Regime Jurídico
 - Regulamento CE
 - Sanção
@@ -93,7 +93,7 @@ subjects:
 - Segurança da Navegação
 - Taxa de rota
 - Tráfego Aéreo
-- Autoridade Nacional da Aviação Civil
+- Transporte Aéreo
 relationships:
 - type: cites
   target: celex:32004R0549
@@ -247,16 +247,44 @@ relationships:
   target: eli:http://data.europa.eu/eli
   label: null
   source: http://data.europa.eu/eli
+- type: cites
+  target: pt:dre:190615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70025054:por
+  label: null
+  source: null
 article_structure:
-  article_count: 63
+  article_count: 50
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:23Z'
   warnings: []
   errors: []
 ---
@@ -303,13 +331,17 @@ Os artigos 1.º a 3.º, 14.º a 16.º, 18.º, 20.º, 22.º, 25.º a 27.º, 34.º
 
 3 - [...]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - Compete ao Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica (GAMA) supervisionar e fiscalizar o cumprimento do regime jurídico relativo ao céu único europeu na parte relativa à meteorologia aeronáutica civil.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -323,7 +355,9 @@ c) [...]
 
 3 - [...]
 
-###### Artigo 14.º — Contraordenações no âmbito do [Regulamento de Execução (UE) 2019/123](https://data.europa.eu/eli/reg/2019/123/oj?locale=pt), da Comissão, de 24 de janeiro de 2019
+Artigo 14.º
+
+Contraordenações no âmbito do [Regulamento de Execução (UE) 2019/123](https://data.europa.eu/eli/reg/2019/123/oj?locale=pt), da Comissão, de 24 de janeiro de 2019
 
 1 - Para efeitos da aplicação do regime das contraordenações aeronáuticas civis, aprovado pelo [Decreto-Lei n.º 10/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2004-241189), de 9 de janeiro, constituem contraordenações aeronáuticas civis muito graves:
 
@@ -371,13 +405,15 @@ a) A atribuição de frequências, por parte do gestor nacional de frequências,
 
 b) O incumprimento, pelo gestor nacional de frequências, do dever de garantir que qualquer mudança, modificação ou rescisão necessárias de frequências se efetua dentro do prazo acordado e que o registo central é atualizado em conformidade, em violação do disposto no n.º 14 da parte B do anexo iii do [Regulamento de Execução (UE) 2019/123](https://data.europa.eu/eli/reg/2019/123/oj?locale=pt), da Comissão, de 24 de janeiro de 2019.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - A ANAC é a autoridade competente para efeitos do disposto no [Regulamento (UE) 2015/340](https://data.europa.eu/eli/reg/2015/340/oj?locale=pt), da Comissão, de 20 de fevereiro de 2015.
 
 2 - Para efeitos do disposto na alínea a) da norma ATCO.B.030 do anexo i do [Regulamento (UE) 2015/340](https://data.europa.eu/eli/reg/2015/340/oj?locale=pt), da Comissão, de 20 de fevereiro de 2015, compete à ANAC decidir sobre a imposição de requisitos de proficiência na língua portuguesa, por razões de segurança do órgão de controlo de tráfego aéreo.
 
-###### Artigo 16.º
+Artigo 16.º
 
 Contraordenações no âmbito do [Regulamento (UE) 2015/340](https://data.europa.eu/eli/reg/2015/340/oj?locale=pt), da Comissão, de 20 de fevereiro de 2015, e da secção vi do [Regulamento (UE) 2018/1139](https://data.europa.eu/eli/reg/2018/1139/oj?locale=pt), do Parlamento Europeu e do Conselho, de 4 de julho de 2018
 
@@ -541,7 +577,9 @@ f) O incumprimento do dever, ao realizarem exames e avaliações médicas aeron�
 
 g) O incumprimento, por parte dos AeMC e dos AME, do dever de notificarem a ANAC se o requerente retirar o pedido de certificado médico em qualquer etapa do processo, em violação do disposto no n.º 4) da alínea a) da norma ATCO.MED.A.025 da secção 1 da subparte A da parte ATCO.MED do anexo iv do [Regulamento (UE) 2015/340](https://data.europa.eu/eli/reg/2015/340/oj?locale=pt), da Comissão, de 20 de fevereiro de 2015.
 
-###### Artigo 18.º — Contraordenações no âmbito do [Regulamento de Execução (UE) 2017/373](https://data.europa.eu/eli/reg/2017/373/oj?locale=pt), da Comissão, de 1 de março de 2017
+Artigo 18.º
+
+Contraordenações no âmbito do [Regulamento de Execução (UE) 2017/373](https://data.europa.eu/eli/reg/2017/373/oj?locale=pt), da Comissão, de 1 de março de 2017
 
 1 - Para efeitos da aplicação do regime das contraordenações aeronáuticas civis, aprovado pelo [Decreto-Lei n.º 10/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2004-241189), de 9 de janeiro, constituem contraordenações aeronáuticas civis muito graves:
 
@@ -591,7 +629,9 @@ d) O incumprimento, pelo prestador de serviços de controlo de tráfego aéreo, 
 
 e) O incumprimento, pelo prestador de serviços que emprega pessoal ATSEP, do dever de manter registos de toda a formação concluída por esse pessoal, bem como da sua avaliação de competências, e do dever de os disponibilizar, a pedido, ao pessoal ATSEP em causa e ao eventual novo empregador do mesmo, em violação do disposto na norma ATSEP.OR.110 do anexo xiii do [Regulamento de Execução (UE) 2017/373](https://data.europa.eu/eli/reg/2017/373/oj?locale=pt), da Comissão, de 1 de março de 2017.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -665,7 +705,9 @@ c) [...]
 
 d) O incumprimento, pelos operadores de aeronaves não equipadas em conformidade com o n.º 5 do artigo 5.º do [Regulamento de Execução (UE) n.º 1207/2011](https://data.europa.eu/eli/reg/2011/1207/oj?locale=pt) da Comissão, de 22 de novembro de 2011, alterado pelos Regulamentos de Execução (UE) n.os [1028/2014](https://data.europa.eu/eli/reg/2014/1028/oj?locale=pt), da Comissão, de 26 de setembro de 2014, [2017/386](https://data.europa.eu/eli/reg/2017/386/oj?locale=pt), da Comissão, de 6 de março de 2017, e [2020/587](https://data.europa.eu/eli/reg/2020/587/oj?locale=pt), da Comissão, de 29 de abril de 2020, do dever de incluírem os indicadores SUR/EUADSBX, SUR/EUEHSX ou SUR/EUELSX, ou uma combinação dos mesmos, no ponto 18 do plano de voo, em violação do disposto na segunda parte do artigo 14.º-A do mesmo Regulamento.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -907,7 +949,7 @@ pp) O incumprimento, pelo controlador que presta o serviço consultivo de tráfe
 
 qq) O incumprimento, pelos intervenientes nas comunicações, dos procedimentos aplicáveis à indicação da categoria de turbulência de rasto forte, constantes da alínea c) da norma SERA.14090 do anexo do [Regulamento de Execução (UE) n.º 923/2012](https://data.europa.eu/eli/reg/2012/923/oj?locale=pt), da Comissão, de 26 de setembro de 2012, alterado pelo [Regulamento de Execução (UE) 2016/1185](https://data.europa.eu/eli/reg/2016/1185/oj?locale=pt), da Comissão, de 20 de julho de 2016.
 
-###### Artigo 25.º
+Artigo 25.º
 
 Contraordenações no âmbito do [Regulamento de Execução (UE) 2019/317](https://data.europa.eu/eli/reg/2019/317/oj?locale=pt), da Comissão, de 11 de fevereiro de 2019, que estabelece um sistema de desempenho e um regime de tarifação no âmbito do céu único europeu e que revoga os Regulamentos de Execução (UE) n.os [390/2013](https://data.europa.eu/eli/reg/2013/390/oj?locale=pt) e [391/2013](https://data.europa.eu/eli/reg/2013/391/oj?locale=pt)
 
@@ -925,13 +967,17 @@ b) O incumprimento, pelos prestadores de serviços de navegação aérea, do dev
 
 3 - (Revogado.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
 2 - O regime estabelecido no presente capítulo dá cumprimento ao disposto no n.º 4 do artigo 33.º do [Regulamento de Execução (UE) 2019/317](https://data.europa.eu/eli/reg/2019/317/oj?locale=pt), da Comissão, de 11 de fevereiro de 2019, que estabelece um sistema de desempenho e um regime de tarifação no âmbito do céu único europeu e que revoga os Regulamentos de Execução (UE) n.os [390/2013](https://data.europa.eu/eli/reg/2013/390/oj?locale=pt) e [391/2013](https://data.europa.eu/eli/reg/2013/391/oj?locale=pt).
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 [...]
 
@@ -947,13 +993,17 @@ e) 'Zonas de tarifação de rota', as zonas de espaço aéreo definidas de acord
 
 f) 'Zona de tarifação de terminal', a zona definida de acordo com o disposto no n.º 21 do artigo 2.º do [Regulamento de Execução (UE) 2019/317](https://data.europa.eu/eli/reg/2019/317/oj?locale=pt), da Comissão, de 11 de fevereiro de 2019.
 
-###### Artigo 34.º — Sanções acessórias e medidas cautelares
+Artigo 34.º
+
+Sanções acessórias e medidas cautelares
 
 1 - A ANAC e o GAMA podem, de acordo com o disposto na secção ii do capítulo ii do regime das contraordenações aeronáuticas civis, aprovado pelo [Decreto-Lei n.º 10/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2004-241189), de 9 de janeiro, e no artigo 21.º do regime geral do ilícito de mera ordenação social, aprovado pelo [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, na sua redação atual, determinar a aplicação da sanção acessória de suspensão da licença, qualificação, averbamento ou certificado de organização de formação, pelo período máximo de dois anos, em simultâneo com a aplicação da coima correspondente às contraordenações previstas no n.º 1 do artigo 16.º
 
 2 - [...]
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Compete à ANAC instaurar e instruir os processos de contraordenação relativos às infrações previstas no presente decreto-lei, bem como proceder à aplicação das respetivas coimas e sanções acessórias a que haja lugar, sem prejuízo do disposto no número seguinte.
 
@@ -1017,15 +1067,15 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de agosto de 2020. - António Luís Santos da Costa - Ana Paula Baptista Grade Zacarias - João Rodrigo Reis Carvalho Leão - Eduardo Arménio do Nascimento Cabrita - Alberto Afonso Souto de Miranda - José Apolinário Nunes Portada.
 
-**Promulgado em 27 de setembro de 2020.**
+Promulgado em 27 de setembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de setembro de 2020.**
+Referendado em 28 de setembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 10.º)
 
@@ -2234,3 +2284,5 @@ O presente decreto-lei aplica-se mesmo nos casos em que as dívidas por taxas de
 ###### Artigo 38.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, com exceção do capítulo viii, que entra em vigor no dia 5 de fevereiro de 2018.
+
+113596948

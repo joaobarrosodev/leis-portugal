@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 122/2001, 1º Suplemento, Série I-A de 2001-05-26
   number: '122'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3114-(2) a 3114-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/122a01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/172-b/2001/05/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-b-2001-573127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67adadcf7c53528efa77bd5a2f1b3f5aca0df985cf5f11bea045d26188918515
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b44b74d29e4094b8f4bd2783af9188cf99009cb1b67145a6937f621c432a83a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Saneamento Básico
 - Sistema Multimunicipal de Saneamento do Algarve
 - Sociedade Anónima
-- Saneamento Básico
 - Tratamento de ÁGUA
 relationships:
 - type: amended_by
@@ -95,16 +95,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre
+- type: cites
+  target: pt:dre:241638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:123166491:por
+  label: Revogada, a partir de 16.07.2019, e determinada a extinção do sistema multimunicipal de saneamento do Algarve, para
+    recolha, tratamento e rejeição de efluentes dos municipios de Albufeira, Alcoutim, Aljezur, Castro Marim, Faro, Lagoa,
+    Lagos, Loulé, Monchique, Olhão, Portimão, São Brás de Alportel, Silves, Tavira, Vila do Bispo e Vila Real de Santo António,
+    do Dec Lei 167/2000, de 05-ago, na redacção do presente diploma, pelo(a) Decreto-Lei n.º 93/2019 - Diário da República
+    n.º 133/2019, Série I de 2019-07-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2019-123166491
+  date: '2019-07-15'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:19Z'
   warnings: []
   errors: []
 ---
@@ -161,12 +190,12 @@ O artigo 2.º do [Decreto-Lei n.º 168/2000](https://diariodarepublica.pt/dr/det
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 23 de Maio de 2001.**
+Promulgado em 23 de Maio de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Maio de 2001.**
+Referendado em 25 de Maio de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

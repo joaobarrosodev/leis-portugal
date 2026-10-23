@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/355-1974-622823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T04:25:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a4f9d27f30b1de61adc90db793d116188460bef5e510de5ee71819e2f1c7519
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36d8dcc1df4fbf08d2dc94e60b391d907c2a60d30ebe6b92f8e4591eb18cfc39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:25:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:623395:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:25:23Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +97,11 @@ Manda o Governo Provisório da República Portuguesa, pelo Ministro da Coordena�
 
 1.º É tornado extensivo às restantes províncias ultramarinas o Diploma Legislativo Ministerial n.º 2/74, de 24 de Maio, publicado no Boletim Oficial de Angola, n.º 121, da mesma data, com a seguinte redacção:
 
-###### Artigo 1.º Os sindicatos e os grémios devem proceder à eleição dos respectivos corpos gerentes até ao dia 30 do mês de Junho corrente, nas províncias de Cabo Verde, Guiné e S. Tomé e Príncipe, e até ao próximo dia 15 de Julho, nas províncias de Moçambique, Macau e Timor.
+Artigo 1.º Os sindicatos e os grémios devem proceder à eleição dos respectivos corpos gerentes até ao dia 30 do mês de Junho corrente, nas províncias de Cabo Verde, Guiné e S. Tomé e Príncipe, e até ao próximo dia 15 de Julho, nas províncias de Moçambique, Macau e Timor.
 
-###### Art. 2.º Os actuais membros das mesas das assembleias gerais, dos conselhos gerais e das direcções, ou que como tais funcionem, actualmente em efectivo exercício, manter-se-ão e responderão pela gestão dos organismos até à data em que forem empossados nos respectivos cargos os dirigentes eleitos nos termos do artigo anterior.
+Art. 2.º Os actuais membros das mesas das assembleias gerais, dos conselhos gerais e das direcções, ou que como tais funcionem, actualmente em efectivo exercício, manter-se-ão e responderão pela gestão dos organismos até à data em que forem empossados nos respectivos cargos os dirigentes eleitos nos termos do artigo anterior.
 
-###### Art. 3.º Ficam revogadas as disposições legais que preceituam sancionamento, homologação ou nomeação pelo Governo de corpos gerentes sindicais ou gremiais.
+Art. 3.º Ficam revogadas as disposições legais que preceituam sancionamento, homologação ou nomeação pelo Governo de corpos gerentes sindicais ou gremiais.
 
 2.º Esta portaria entra imediatamente em vigor.
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 302/1973, 1º Suplemento, Série I de 1973-12-31
   number: '302'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2568-(41) a 2568-(41)
   pdf_url: https://files.diariodarepublica.pt/1s/1973/12/30201/00410041.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/963-1973-218133
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T04:19:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c83a3c1ee76af39116855edfb825086d64f932ad055bb572d0d1bd6686c7c393
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c492f71a923b0817c0d3992167ca757a45782d9e0968a37a693c75466fc502d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:19:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:413614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689838:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:19:15Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +105,19 @@ Manda o Governo da República. Portuguesa, pelo Secretário de Estado da Adminis
 
 Despesas com o pessoal:
 
-###### Artigo 3.º «Outras despesas com o pessoal»:
+Artigo 3.º «Outras despesas com o pessoal»:
 
 N.º 1) «Alimentação» ... 50000$00
 
 Despesas com o material:
 
-###### Artigo 6.º «Despesas de conservação e aproveitamento do material»:
+Artigo 6.º «Despesas de conservação e aproveitamento do material»:
 
 N.º 3) «De móveis»:
 
 Alínea a) «Conserto de máquinas, móveis, aparelhos, instrumentos e outros» ... 80000$00
 
-###### Artigo 7.º «Material de consumo corrente»:
+Artigo 7.º «Material de consumo corrente»:
 
 N.º 1) «Artigos de expediente, impressos, livros para escrituração, etc.» ... 80000$00
 
@@ -115,11 +127,11 @@ N.º 6) «Diversos não especificados, incluindo desenho, fotografia e filmagens
 
 Pagamento de serviços:
 
-###### Artigo 8.º «Despesas de higiene, saúde e conforto»:
+Artigo 8.º «Despesas de higiene, saúde e conforto»:
 
 N.º 6) «Despesas resultantes de assistência nos casos de cancro, lepra, doença do sono e doenças mentais dos funcionários do Ministério do Ultramar e seus organismos consultivos e dependentes, nos termos do artigo 1.º do [Decreto-Lei n.º 402/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1972-689838), de 24 de Outubro» ... 400000$00
 
-###### Artigo 11.º «Abono de família» ... 10000$00
+Artigo 11.º «Abono de família» ... 10000$00
 
 ... 685000$00
 
@@ -131,13 +143,13 @@ tomando como contrapartida igual importância a sair do capítulo único, artigo
 
 Pagamento de serviços:
 
-###### Artigo 9.º «Diversos serviços»:
+Artigo 9.º «Diversos serviços»:
 
 Alínea a) «Publicação do Boletim Geral do Ultramar» ... 200000$00
 
 Diversos encargos:
 
-###### Artigo 10.º «Encargo das instalações»:
+Artigo 10.º «Encargo das instalações»:
 
 N.º 1) «Renda de casa» ... 82000$00
 

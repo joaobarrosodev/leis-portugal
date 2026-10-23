@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/065a00/12421244.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/57/1997/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1997-517585
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4edfdcfe785b9fa2e5b0b1467ae858d004067b24be6d5c16c23e9c96407f0a99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1d2e28bf369b7878acc93d40050c8f6bfc32d5040ced550d8b0c2ad1c752c7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ subjects:
 - Conselho Nacional do Direito de Autor
 - Criação de Serviços
 - Direito de Autor
-- Ministro da Cultura
 - Gabinete do Direito de Autor
+- Ministro da Cultura
 - Orgânica
 - Propriedade Intelectual
 relationships:
@@ -77,20 +77,36 @@ relationships:
   target: pt:dre:520448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:391583:por
+  label: "Alterado o art. 5º pelo DEC LEI.229/99.1999.06.22.MC,DR.IS-A [143]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-1999-391583
+  date: '1999-06-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-b/1992/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/106-b/1992/06/01/p/dre
+- type: cites
+  target: pt:dre:410283:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520448:por
+  label: "Revogado, a partir de 01.04.2007, e nos termos do art. 5º do Dec Lei 201/2006 de 27-Out, e determinado ainda, que\
+    \ o Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais suceda nas atribuições do Gabinete do Direito\
+    \ de Autor, ora extinto, criado pelo presente diploma, pelo DR.33/2007.29.03.2007.MC, DR.IS [63] de 29.03.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/33-2007-520448
+  date: '2007-03-29'
 article_structure:
   article_count: 11
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:32Z'
   warnings: []
   errors: []
 ---
@@ -221,12 +237,12 @@ O presente diploma entra em vigor no dia imediato ao da respectiva publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1996. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Fernando Teixeira dos Santos - José Eduardo Vera Cruz Jardim - Augusto Carlos Serra Ventura Mateus - Manuel Maria Ferreira Carrilho - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 14 de Fevereiro de 1997.**
+Promulgado em 14 de Fevereiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Fevereiro de 1997.**
+Referendado em 18 de Fevereiro de 1997.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/53/1995/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1995-166202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1742bb48cc5bed0c59ee4d9db9de80754900dbf77b02ce9f01b4d69b2d000087
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d55b1502323e7ec8d727a6968792642675e15898474869299508af8cb31d416
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ subjects:
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
+- Ensino Superior
 - Ensino Superior Politécnico
 - Prova de Aferição
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:314396:por
@@ -84,16 +84,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
+- type: cites
+  target: pt:dre:240823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:314396:por
+  label: "Revogado, com excepção do disposto no nº 2 do art. 34.º, o Dec Lei 189/92 de 03-Set DR.IS-A [203], na redacção dada\
+    \ pelo presente diploma e pelo Dec Lei 318/95 de 28-Nov, pelo DEC LEI.28-B/96.1996.04.04.ME DR.IS-A [81[SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-b-1996-314396
+  date: '1996-04-04'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:01Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +138,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 6.º, 32.º e 39.º do [Decreto-Lei n.º 189/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1992-240823), de 3 de Setembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 6.º, 32.º e 39.º do [Decreto-Lei n.º 189/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1992-240823), de 3 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 6.º — Comunicação das vagas
 
@@ -136,12 +162,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 1995. - Aníbal António Cavaco Silva - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 8 de Fevereiro de 1995.**
+Promulgado em 8 de Fevereiro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Fevereiro de 1995.**
+Referendado em 11 de Fevereiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/223a00/53185321.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/252/1997/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1997-659503
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8923555bd5d3361128cc4a1d64c91a31fb220ac35c44e6a078bcbcbadefcac76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3bf5c021e04aa6a9b5e8d024ba6282626cd05a7e15bc4f494198743cb0b9d70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,12 +72,12 @@ subjects:
 - Contrato de Trabalho a Prazo
 - Dotação Orçamental
 - Ensino Oficial
-- Estatuto das Universidades
-- Gestão Escolar
-- Gestão do Património
-- Universidade
 - Ensino Superior
+- Estatuto das Universidades
 - Gestão de Recursos Humanos
+- Gestão do Património
+- Gestão Escolar
+- Universidade
 relationships:
 - type: amended_by
   target: pt:dre:1149265695:por
@@ -91,16 +91,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/66/1997/04/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/66/1997/04/01/p/dre
+- type: cites
+  target: pt:dre:182227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693838:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:640339:por
+  label: "Revogado a partir de 10.10.2007, sem prejuízo da aplicação do disposto nos nºs 2 e 3 do art. 3º deste diploma, quando\
+    \ ainda não tenha ocorrido, pela LEI.62/2007.10.09.2007.AR, DR.IS [174] de 10.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/62-2007-640339
+  date: '2007-09-10'
 article_structure:
   article_count: 20
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:06Z'
   warnings: []
   errors: []
 ---
@@ -283,12 +309,12 @@ A aplicação dos artigos 13.º a 17.º do presente diploma nas Regiões Autóno
 
 Visto e aprovado em Conselho de Ministros de 24 de Julho de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - Alfredo Jorge Silva - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 4 de Setembro de 1997.**
+Promulgado em 4 de Setembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Setembro de 1997.**
+Referendado em 10 de Setembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

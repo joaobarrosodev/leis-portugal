@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/09/18500/0000300013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/82/2023/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2023-221937427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9e426d54c6d7601aad2de5570dea31efd29121882845013159dba1745eb6a6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 138fdc0f39a0ca63160ddf055ebb6a3f64dcf8f8c4a865ceac315a332b5abd34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ASAE
+- Contraordenação Económica
 - Definição de Competências
 - Direção Geral de Alimentação e Veterinária
-- ASAE
-- Embalagem
-- Proteção do Ambiente
-- Proteção à Infância
-- Política do Ambiente
-- Regulamento CE
-- Produto Fitofarmacêutico
 - Eliminação de Resíduos
+- Embalagem
+- Política do Ambiente
+- Produto Fitofarmacêutico
+- Proteção à Infância
+- Proteção do Ambiente
 - Regime Jurídico das Contraordenações Económicas
-- Contraordenação Económica
+- Regulamento CE
 relationships:
 - type: cites
   target: celex:31979L0117
@@ -154,16 +154,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
+- type: cites
+  target: pt:dre:114337042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69920329:por
+  label: null
+  source: null
 article_structure:
-  article_count: 32
+  article_count: 22
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:58Z'
   warnings: []
   errors: []
 ---
@@ -218,7 +246,9 @@ g) [...]
 
 h) 'Equipamento de proteção individual (EPI)', o equipamento de proteção, definido como tal no n.º 1 do artigo 3.º do [Regulamento (UE) n.º 2016/425](http://data.europa.eu/eli/reg/2016/425/oj?locale=pt), do Parlamento Europeu e do Conselho, de 9 de março de 2016, relativo aos equipamentos de proteção individual e que revoga a [Diretiva 89/686/CEE](http://data.europa.eu/eli/dir/1989/686/oj?locale=pt) do Conselho.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Só é permitida a venda de produtos fitofarmacêuticos destinados a uso não profissional titulados com autorização de venda concedida pela Direção-Geral de Alimentação e Veterinária (DGAV) nos termos do artigo 3.º do [Decreto-Lei n.º 145/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2015-69920329), de 31 de julho, na sua redação atual.
 
@@ -226,7 +256,9 @@ h) 'Equipamento de proteção individual (EPI)', o equipamento de proteção, de
 
 3 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Para uso não profissional em plantas de interior só são autorizados produtos fitofarmacêuticos isentos de classificação toxicológica e que não possuam na sua composição substâncias ativas classificadas como desreguladores endócrinos para a saúde humana nos termos definidos no ponto 3.1.1. da parte 3 do anexo i do [Regulamento (CE) n.º 1272/2008](http://data.europa.eu/eli/reg/2008/1272/oj?locale=pt), ou candidatas a substituição e como tal listadas no anexo do Regulamento de Execução (UE) n.º [2015/408](http://data.europa.eu/eli/reg/2015/408/oj?locale=pt), da Comissão de 11 de março de 2015, que dá execução ao n.º 7 do artigo 80.º do [Regulamento (CE) n.º 1107/2009](http://data.europa.eu/eli/reg/2009/1107/oj?locale=pt) relativo à colocação dos produtos fitofarmacêuticos no mercado [Regulamento de Execução (UE) n.º [2015/408](http://data.europa.eu/eli/reg/2015/408/oj?locale=pt)], e que cumulativamente possuam as seguintes características:
 
@@ -236,7 +268,9 @@ b) [...]
 
 c) [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -260,7 +294,9 @@ c) [...]
 
 d) [...]
 
-###### Artigo 6.º — Venda e registos
+Artigo 6.º
+
+Venda e registos
 
 1 - [...]
 
@@ -278,7 +314,9 @@ c) Disponibilizar às autoridades de controlo e fiscalização os registos de ve
 
 5 - As regras relativas aos registos e sua conservação e aos controlos oficiais, previstos, respetivamente, nos n.os 1 a 3 do artigo 5.º e no artigo 7.º do [Decreto-Lei n.º 145/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2015-69920329), de 31 de julho, na sua redação atual, são aplicáveis à venda de produtos fitofarmacêuticos autorizados para uso não profissional.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 Sem prejuízo do disposto no [Regulamento (CE) n.º 1272/2008](http://data.europa.eu/eli/reg/2008/1272/oj?locale=pt), e no [Decreto-Lei n.º 220/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2012-175776), de 10 de outubro, na sua redação atual, as embalagens de produtos fitofarmacêuticos autorizados para uso não profissional colocadas no mercado devem cumprir com os requisitos de rotulagem estabelecidos no Regulamento de Execução (UE) n.º [547/2011](http://data.europa.eu/eli/reg/2011/547/oj?locale=pt), da Comissão, de 8 de junho de 2011, com os requisitos de embalagem e rotulagem previstos nos artigos 4.º e 5.º, e devem ainda conter:
 
@@ -290,7 +328,9 @@ c) [...]
 
 d) Um número de telefone nacional indicado pela empresa titular da autorização de venda ou do distribuidor do produto fitofarmacêutico, para efeitos de prestação de informações e esclarecimentos sobre o produto em causa.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -300,13 +340,17 @@ d) Um número de telefone nacional indicado pela empresa titular da autorizaçã
 
 4 - Em jardins ou hortas familiares é permitida a aplicação de produtos fitofarmacêuticos autorizados para uso por agricultores e outros aplicadores profissionais, desde que efetuada por aplicadores habilitados nos termos do artigo 18.º da [Lei n.º 26/2013](https://diariodarepublica.pt/dr/detalhe/lei/26-2013-260454), de 11 de abril, na sua redação atual.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os resíduos de embalagens abrangidos pelo presente decreto-lei devem ser geridos através de um sistema individual e integrado, conforme previsto no [Decreto-Lei n.º 152-D/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), de 11 de dezembro, na sua redação atual.
 
 2 - (Revogado.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
 
@@ -332,7 +376,9 @@ c) O não registo, ou a sua não atualização, pelos estabelecimentos de venda 
 
 5 - Às contraordenações económicas previstas no presente capítulo é subsidiariamente aplicável o RJCE.
 
-###### Artigo 12.º — Fiscalização e instrução e decisão dos processos de contraordenação
+Artigo 12.º
+
+Fiscalização e instrução e decisão dos processos de contraordenação
 
 1 - A fiscalização do cumprimento do disposto no presente decreto-lei e a instrução dos processos de contraordenação competem à Autoridade de Segurança Alimentar e Económica (ASAE).
 
@@ -342,7 +388,9 @@ c) O não registo, ou a sua não atualização, pelos estabelecimentos de venda 
 
 4 - O produto das coimas aplicadas nas Regiões Autónomas constitui receita própria destas.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Nas Regiões Autónomas dos Açores e da Madeira, a execução administrativa, incluindo a fiscalização e inspeção do cumprimento do disposto no presente decreto-lei, cabe aos serviços competentes das respetivas administrações regionais, sem prejuízo das competências atribuídas à DGAV, enquanto autoridade nacional responsável pela homologação, concessão, revisão e retirada das autorizações de colocação dos produtos fitofarmacêuticos no mercado.»
 
@@ -370,15 +418,15 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de agosto de 2023. - Mariana Guimarães Vieira da Silva - António José da Costa Silva - Maria do Céu de Oliveira Antunes.
 
-**Promulgado em 7 de setembro de 2023.**
+Promulgado em 7 de setembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de setembro de 2023.**
+Referendado em 18 de setembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -567,3 +615,5 @@ Nas Regiões Autónomas dos Açores e da Madeira, a execução administrativa, i
 ###### Artigo 15.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor 90 dias após a data da sua publicação.
+
+116871389

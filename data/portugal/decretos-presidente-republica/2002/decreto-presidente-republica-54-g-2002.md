@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 296/2002, 1º Suplemento, Série I-A de 2002-12-23
   number: '296'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8042-(4) a 8042-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/12/296a01/00040004.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/54-g/2002/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/54-g-2002-668365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T04:43:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73df3e01af980ab381854e9e81a3e744771ff1b16c044f6b7f44d13692bce82f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 044a18de6ad601a9de40572ea13b748818fa510c0237c4aab83819005cbf9207
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:43:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:43:02Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +85,7 @@ validation:
 
 de 23 de Dezembro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:
 
 A pena acessória de expulsão do País aplicada a Natália de Jesus Borges Varela, de 31 anos de idade, no processo n.º 549/97.0TAPTM do 1.º Juízo Criminal do Tribunal de Família e Menores e de Comarca de Portimão é revogada, por indulto.
 
@@ -95,12 +95,12 @@ a) Não se ter a indultada constituído em ausência ilegítima do estabelecimen
 
 b) Não se constituir a indultada em ausência ilegítima do estabelecimento prisional relativamente a medida de flexibilização da pena que esteja a gozar à data da publicação do indulto.
 
-**Assinado em 20 de Dezembro de 2002.**
+Assinado em 20 de Dezembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Dezembro de 2002.**
+Referendado em 23 de Dezembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

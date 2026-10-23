@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/232/1996/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1996-186546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:46:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79542c51ca8b2cf6074928aa3de2ee41570b28a93a9be6d5a90a5529fbb34fa4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef78fc8602782c8aa9203ffd9049dd9a73abd899a0de30a4fa5ba8716b5554cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:46:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,38 +71,36 @@ reuse:
 subjects:
 - Agência de Câmbio
 - Aproximação das Legislações
-- Valores Mobiliários
-- Instituição de Crédito
-- Empresa
+- Atividade Bancária
+- Banca
+- Banco de Portugal
 - Bolsa de Valores
 - Caixa de Crédito Agrícola
 - Caixa Económica
 - Caixa Geral de Depósitos Crédito e Previdência
 - CE Países
 - CEE
+- CMVM
 - Código do Mercado de Valores Mobiliários
-- Portugal
 - Definição de Competências
+- Direito de Estabelecimento
+- Empresa
 - Empresa Europeia
 - Finangeste
-- União Europeia
 - Fundo de Garantia de Depósitos
-- Banco de Portugal
 - Ilícito de MERA Ordenação Social
-- Banca
-- Atividade Bancária
+- Instituição de Crédito
 - Investimento
-- Direito de Estabelecimento
 - Livre Prestação de Serviços
 - Mercado de Valores
 - Mercado Financeiro
 - Mercado Interno CE
 - Montepio Geral
-- Sanção Penal
 - Política Financeira
+- Portugal
 - Regime Jurídico
 - Revisor Oficial de Contas
-- CMVM
+- Sanção Penal
 - Sociedade Administradora de Compras em Grupo
 - Sociedade Corretora
 - Sociedade de Capital de Risco
@@ -116,11 +114,128 @@ subjects:
 - Sociedade Gestora de Fundos de Investimento
 - Sociedade Gestora de Patrimónios
 - Sociedade Mediadora
+- União Europeia
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:66581992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:646111:por
+  label: "Alterados os arts. 4.º (na redacção do Dec Lei 285/2001, de 03-Nov), 13.º, 20.º, 29.º-A, 69.º, 103.º, 105.º, 120.º,\
+    \ 196.º, 199.º-C, 199.º-F, 199.º-G do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo\
+    \ Dec Lei 298/92, de 31-Dez, na redacção do presente diploma, pelo DEC LEI.201/2002.2002.09.26.MF DR.IS-A [232]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-2002-646111
+  date: '2002-09-26'
+- type: amended_by
+  target: pt:dre:539387:por
+  label: "Alterado 103º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei 298/92\
+    \ de 31-Dez, com as alterações constantes do presente diploma, pelo DEC LEI.145/2006.31.07.2006.MFAP, DR.IS [146] de 31.07.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-2006-539387
+  date: '2006-07-31'
+- type: amended_by
+  target: pt:dre:520193:por
+  label: "Alterados os arts. 13º e 14º do Regime Geral das Instituições de Crédito e Sociedades Financeiras aprovado pelo\
+    \ Dec Lei 298/92 de 31-Dez, com a redacção conferida no presente diploma, pelo DEC LEI.104/2007.03.04.2007.MFAP, DR.IS\
+    \ [66] de 03.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-2007-520193
+  date: '2007-04-03'
+- type: amended_by
+  target: pt:dre:241222:por
+  label: "Alterados: os arts. 4º, 14º, 29º-A, 69º, 81º, 103º, 105º, 120º, 121º, 199º-A, 199º-B, 199º-C, 199º-D, 199º-E, 199º-F,\
+    \ 199º-G e 199º-H, bem como a epígrafe do tit. X-A, que passa a ser a seguinte: “Serviços e Actividades de Investimento,\
+    \ Empresas de Investimento e Sociedades Gestoras de Investimento Mobiliário”, e a epígrafe do cap. V do tit. X-A, que\
+    \ passa a ser a seguinte: “Cooperação com outras entidades”, abrangendo os arts. 199º-G a 199º-H; e revogados a al.e)\
+    \ do nº 1 do art. 81º, as als. e), f) e g) do nº 1 do art. 199º-E, todos do Regime Jurídico das Instituições de Crédito\
+    \ e Sociedades Financeiras, aprovado pelo Dec Lei 298/92 de 31-Dez, com a redacção constante do presente diploma, pelo\
+    \ DEC LEI.357-A/2007.31.10.2007.MFAP, DR.IS [210-2ºSupl] de 31.10.2007\0007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/357-a-2007-241222
+  date: '2007-10-31'
+- type: amended_by
+  target: pt:dre:386799:por
+  label: "Alterado o art. 120º do Regime Geral das Instituições de Crédito e Sociedades Financeiras aprovado pelo Dec Lei\
+    \ 298/92, de 31-Dez, na redacção do presente diploma, pelo DEC LEI.1/2008.03.01.2008.MFAP, DR.IS [2] de 03.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-2008-386799
+  date: '2008-01-03'
+- type: amended_by
+  target: pt:dre:456783:por
+  label: "Alterado o art. 69º do Dec Lei 126/2008, de 21-Jul, na redacção do presente diploma, pelo DEC LEI.126/2008.21.07.2008.MFAP,\
+    \ DR.IS [139] de 21.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-2008-456783
+  date: '2008-07-21'
+- type: amended_by
+  target: pt:dre:626446:por
+  label: "Alterado o art. 120.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei\
+    \ 298/92, de 31-Dez, na redacção do presente diploma, pelo DEC LEI.211-A/2008.03.11.2008.MFAP, DR.IS [213-Supl] de 03.11.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-a-2008-626446
+  date: '2008-11-03'
+- type: amended_by
+  target: pt:dre:483411:por
+  label: "Alterado, a partir de 01.11.2009, o art. 4.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras,\
+    \ aprovado pelo Dec Lei 298/92, de 31-Dez, na redacção do presente diploma, pelo DEC LEI.317/2009.30.10.2009.MFAP, DR.IS\
+    \ [211] de 30.10.2009\0009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/317-2009-483411
+  date: '2009-10-30'
+- type: amended_by
+  target: pt:dre:332702:por
+  label: "Alterados os arts. 13.º, 20.º, 103.º, 105.º e 196.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras,\
+    \ aprovado pelo Dec Lei 298/92, de 31-Dez, na redacção do presente diploma, pelo DEC LEI.52/2010.26.05.2010.MFAP, DR.IS\
+    \ [102] de 26.05.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2010-332702
+  date: '2010-05-26'
+- type: amended_by
+  target: pt:dre:617129:por
+  label: "Alterados os arts. 13º, 81º, 199º-D e 199º-E do Regime Geral das Instituições de Crédito e Sociedades Financeiras,\
+    \ aprovado pelo Dec -Lei n.º 298/92, de 13-Dez, na redacção do presente diploma, pelo DEC LEI.140-A/2010.30.12.2010.MFAP,\
+    \ DR.IS [252-2ºSupl] de 30.12.2010\0010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-a-2010-617129
+  date: '2010-12-30'
+- type: amended_by
+  target: pt:dre:669328:por
+  label: "Dada nova redacção, a partir de 01.01.2011, ao art. 14º do Regime Geral das Instituições de Crédito e Sociedades\
+    \ Financeiras, aprovado pelo Dec Lei 298/92 de 31-Dez, alterado pelo presente diploma, pelo DEC LEI.88/2011.20.07.2011.MFAP,\
+    \ DR.IS [138] de 20.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-2011-669328
+  date: '2011-07-20'
+- type: amended_by
+  target: pt:dre:191534:por
+  label: "Alterados os art.s 4º e 13º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo\
+    \ Dec Lei 298/92, de 31-dez, na redação do presente diploma, pelo DEC LEI.242/2012.07.11.2012.MF, DR.IS [215] de 07.11.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2012-191534
+  date: '2012-11-07'
+- type: amended_by
+  target: pt:dre:258114:por
+  label: "Alterados os arts. 81º, 199º-D e 199º-Fdo Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado\
+    \ pelo Dec Lei n.º 298/92, de 31-dez, na redação do presente diploma, pelo DEC LEI.18/2013.06.02.2013.MF, DR.IS [26] de\
+    \ 06.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2013-258114
+  date: '2013-02-06'
+- type: amended_by
+  target: pt:dre:475919:por
+  label: "Alterados a partir de 07.09.2013 os arts. 199º-A e 199º-B do Regime Geral das Instituições de Crédito e Sociedades\
+    \ Financeiras (RGICSF) aprovado pelo Dec Lei 298/92, de 31-dez, aditados pelo presente diploma, pelo DEC LEI.63-A/2013.10.05.2013.MF,\
+    \ DR.IS [90-Supl] de 10.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-a-2013-475919
+  date: '2013-05-10'
+- type: amended_by
+  target: pt:dre:58585556:por
+  label: Alterados, a partir de 23.11.2014, sem prejuízo do disposto nos n.ºs 2 a 7 do art. 26.º, os arts 14.º, 20.º, 39.º,43.º,
+    52.º, 60.º, 69.º, 81.º,103.º, 120.º, 121.º, 130.º, 132.º196.º, 199.º-D,199.º-E, do Regime Geral das Instituições de Crédito
+    e Sociedades Financeiras aprovado pelo Dec Lei 298/92 de 31-dez, e republicado em anexo, na redação do presente diploma,
+    pelo(a) Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2014-58585556
+  date: '2014-10-24'
+- type: amended_by
+  target: pt:dre:66581992:por
+  label: Alterados os arts. 20.º e 199.º-L do Regime Geral das Instituições de Crédito e Sociedades Financeiras aprovado pelo
+    Dec. Lei 298/92 de 31-dez, na redação do presente diploma, pelo(a) Lei n.º 16/2015 - Diário da República n.º 38/2015,
+    Série I de 2015-02-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2015-66581992
+  date: '2015-02-24'
 - type: cites
   target: celex:31977L0780
   label: null
@@ -145,16 +260,35 @@ relationships:
   target: celex:31996L0013
   label: null
   source: http://data.europa.eu/eli/dir/1996/13/oj
+- type: corrected_by
+  target: pt:dre:261287:por
+  label: "Rectificado pela DECL-RECT.4-E/97.1997.01.31.PCM, DR.IS-A [26]2ºsupl de 1997.01.31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-e-1997-261287
+  date: '1997-01-31'
+- type: corrected_by
+  target: pt:dre:227273:por
+  label: "Rectificado o Decreto-Lei n.º 357-A/2007, de 31 de Outubro, que alterou o Regime Geral das Instituições de Crédito\
+    \ e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, na redacção do presente diploma,\
+    \ pela DECL-RECT.117-A/2007.28.12.2007.PCM, DR.IS [250]3ºSupl de 28.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/117-a-2007-227273
+  date: '2007-12-28'
+- type: repealed_by
+  target: pt:dre:682983:por
+  label: "Revogado, com a entrada em vigor do Código aprovado pelo presente diploma e com excepção da redacção conferida aos\
+    \ arts. 208.º e 233.º do Código aprovado pelo Dec Lei 142-A/91, de 10-Abr, pelo DEC LEI.486/99.1999.11.13.MF DR.IS-A [265],\
+    \ na parte em que altera o Código do Mercado de Valores Mobiliários\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/486-1999-682983
+  date: '1999-11-13'
 article_structure:
-  article_count: 64
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 12
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:46:13Z'
   warnings: []
   errors: []
 ---
@@ -209,7 +343,9 @@ Os artigos 4.º, 13.º, 14.º, 20.º, 41.º, 69.º, 81.º, 103.º, 105.º, 120.�
 
 3 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 ...
 
@@ -247,7 +383,9 @@ ou
 
 b) Ligadas a uma terceira pessoa através de uma relação de domínio.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -263,7 +401,9 @@ e) Ter a sede principal e efectiva da administração situada em Portugal.
 
 2 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A autorização será recusada sempre que:
 
@@ -283,11 +423,15 @@ g) A adequada supervisão da instituição a constituir seja inviabilizada pelas
 
 2 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 O disposto nos artigos 36.º a 40.º não é aplicável às caixas de crédito agrícola mútuo nem às caixas económicas que não revistam a forma de sociedade anónima, com excepção da Caixa Económica Montepio Geral.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - ...
 
@@ -307,7 +451,9 @@ O disposto nos artigos 36.º a 40.º não é aplicável às caixas de crédito a
 
 9 - Sempre que o objecto da instituição de crédito compreender alguma actividade de intermediação em valores mobiliários, o Banco de Portugal, antes de decidir, solicitará informações à Comissão do Mercado de Valores Mobiliários, devendo a Comissão, se for caso disso, prestar as referidas informações no prazo de 15 dias.
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - ...
 
@@ -347,7 +493,9 @@ e) Para efeitos da política monetária e do funcionamento ou supervisão dos si
 
 5 - No caso previsto na alínea i) do n.º 1, o Banco de Portugal só poderá comunicar informações que tenha recebido das entidades referidas na alínea g) do mesmo número com o consentimento expresso dessas entidades.
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - ...
 
@@ -377,7 +525,9 @@ g) ...
 
 7 - Sempre que o objecto da instituição de crédito compreender alguma actividade de intermediação de valores mobiliários, o Banco de Portugal, antes de se pronunciar nos termos do n.º 1, solicitará informações à Comissão do Mercado de Valores Mobiliários sobre a idoneidade dos detentores de participações qualificadas, devendo a Comissão, se for caso disso, prestar as referidas informações no prazo de um mês.
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - ...
 
@@ -393,7 +543,9 @@ g) ...
 
 7 - ...
 
-###### Artigo 120.º — [...]
+Artigo 120.º
+
+[...]
 
 1 - As instituições de crédito são obrigadas a apresentar ao Banco de Portugal as informações que este considere necessárias à verificação:
 
@@ -419,7 +571,9 @@ g) Do cumprimento permanente das condições previstas nos artigos 14.º, 15.º 
 
 5 - Durante o prazo de cinco anos, as instituições de crédito devem manter à disposição do Banco de Portugal os dados pertinentes sobre as transacções relativas a serviços de investimento prestados em outros Estados membros da Comunidade Europeia sobre instrumentos negociados em mercado regulamentado, ainda que tais transacções não tenham sido realizadas em mercado regulamentado.
 
-###### Artigo 121.º — [...]
+Artigo 121.º
+
+[...]
 
 1 - Os revisores oficiais de contas ao serviço de uma instituição de crédito e os auditores externos que, por exigência legal, prestem a uma instituição de crédito serviços de auditoria são obrigados a comunicar ao Banco de Portugal, com a maior brevidade, os factos respeitantes a essa instituição de que tenham tido conhecimento no exercício das suas funções, quando tais factos sejam susceptíveis de:
 
@@ -433,11 +587,15 @@ c) Determinar a recusa da certificação das contas ou a emissão de reservas.
 
 3 - O dever de informação imposto pelo presente artigo prevalece sobre quaisquer restrições à divulgação de informações legal ou contratualmente previstas, não envolvendo nenhuma responsabilidade para os respectivos sujeitos o seu cumprimento.
 
-###### Artigo 181.º — Sociedades gestoras de fundos de investimento
+Artigo 181.º
+
+Sociedades gestoras de fundos de investimento
 
 Às sociedades gestoras de fundos de investimento aplica-se o disposto no artigo 29.º-A.
 
-###### Artigo 196.º — [...]
+Artigo 196.º
+
+[...]
 
 Salvo o disposto em lei especial, é aplicável às sociedades financeiras o disposto nos artigos 94.º a 97.º, 99.º e 102.º, nos n.os 1, 2, 4, 6 e 7 do artigo 103.º e nos artigos 104.º a 111.º e 115.º»
 
@@ -455,11 +613,17 @@ Intervenção da Comissão do Mercado de Valores Mobiliários
 
 3 - A revogação da autorização de instituição de crédito referida no n.º 1 deverá ser imediatamente comunicada à Comissão.
 
-## TÍTULO X-A — Serviços de investimento e empresas de investimento
+TÍTULO X-A
 
-### CAPÍTULO I — Disposição geral
+Serviços de investimento e empresas de investimento
 
-###### Artigo 199.º-A — Definições
+CAPÍTULO I
+
+Disposição geral
+
+Artigo 199.º-A
+
+Definições
 
 Para efeitos deste título, entende-se por:
 
@@ -479,15 +643,21 @@ e) Colocação, com ou sem tomada firme, de qualquer dos instrumentos financeiro
 
 3.º Empresas de investimento: empresas em cuja actividade habitual se inclua a prestação de serviços de investimento a terceiros e que estejam sujeitas aos requisitos de fundos próprios previstos na Directiva n.º [93/6/CEE](https://data.europa.eu/eli/dir/1993/6/oj?locale=pt), do Conselho, de 15 de Março de 1993, com excepção das instituições de crédito e das entidades abrangidas no âmbito de previsão do n.º 2 do artigo 2.º da Directiva n.º [93/22/CEE](https://data.europa.eu/eli/dir/1993/22/oj?locale=pt), do Conselho, de 10 de Maio de 1993.
 
-###### Artigo 199.º-B — Regime jurídico
+Artigo 199.º-B
+
+Regime jurídico
 
 1 - As empresas de investimento estão sujeitas a todas as normas do presente diploma aplicáveis às sociedades financeiras e, em especial, às disposições do presente título.
 
 2 - O disposto nas alíneas e) e f) do artigo 199.º-E é também aplicável às instituições de crédito, no âmbito da prestação de serviços de investimento.
 
-### CAPÍTULO II — Autorização de empresas de investimento com sede em Portugal
+CAPÍTULO II
 
-###### Artigo 199.º-C — Autorização de empresas de investimento com sede em Portugal
+Autorização de empresas de investimento com sede em Portugal
+
+Artigo 199.º-C
+
+Autorização de empresas de investimento com sede em Portugal
 
 O título II é aplicável, com as necessárias adaptações, às empresas de investimento com sede em Portugal, com as seguintes modificações:
 
@@ -505,9 +675,13 @@ f) No n.º 4 do artigo 27.º, a referência feita à Directiva n.º [89/646/CEE]
 
 g) O artigo 33.º aplica-se sem prejuízo do disposto em lei especial.
 
-### CAPÍTULO III — Actividade, na Comunidade Europeia, de empresas de investimento com sede em Portugal
+CAPÍTULO III
 
-###### Artigo 199.º-D — Actividade, na Comunidade Europeia, de empresas de investimento com sede em Portugal
+Actividade, na Comunidade Europeia, de empresas de investimento com sede em Portugal
+
+Artigo 199.º-D
+
+Actividade, na Comunidade Europeia, de empresas de investimento com sede em Portugal
 
 1 - O estabelecimento de sucursais e a prestação de serviços em outros Estados membros da Comunidade Europeia por empresas de investimento com sede em Portugal rege-se, com as necessárias adaptações, pelo disposto nos artigos 36.º, 37.º, n.º 1, 38.º a 40.º e 43.º, com as modificações seguintes:
 
@@ -525,9 +699,13 @@ g) Em caso de modificação do plano de actividades a que se refere o n.º 1 do 
 
 2 - As competências a que se referem as alíneas b), c) e e) do número anterior serão exercidas pelo Banco de Portugal em relação aos Estados membros de acolhimento nos quais a autoridade destinatária tenha competência para a supervisão das instituições de crédito e pela Comissão do Mercado de Valores Mobiliários nos demais casos.
 
-### CAPÍTULO IV — Actividade, em Portugal, de empresas de investimento com sede em outros Estados membros da Comunidade Europeia
+CAPÍTULO IV
 
-###### Artigo 199.º-E — Actividade, em Portugal, de empresas de investimento com sede em outros Estados membros da Comunidade Europeia
+Actividade, em Portugal, de empresas de investimento com sede em outros Estados membros da Comunidade Europeia
+
+Artigo 199.º-E
+
+Actividade, em Portugal, de empresas de investimento com sede em outros Estados membros da Comunidade Europeia
 
 O estabelecimento de sucursais e a prestação de serviços, em Portugal, por empresas de investimento com sede em outros Estados membros da Comunidade Europeia rege-se, com as necessárias adaptações, pelo disposto nos artigos 44.º, 46.º a 56.º, 60.º e 61.º, com as seguintes modificações:
 
@@ -545,19 +723,25 @@ f) Na medida em que tal se mostre necessário para o exercício das competência
 
 g) Em caso de modificação do plano de actividades a que se refere o n.º 1 do artigo 61.º, a empresa de investimento comunicá-lo-á previamente à Comissão do Mercado de Valores Mobiliários, podendo esta, sendo caso disso, indicar à empresa qualquer alteração ou complemento em relação às informações que tiverem sido comunicadas nos termos do n.º 1 do artigo 50.º
 
-### CAPÍTULO V — Outras disposições
+CAPÍTULO V
 
-###### Artigo 199.º-F — Registo
+Outras disposições
+
+Artigo 199.º-F
+
+Registo
 
 O registo referido nos artigos 67.º e 68.º é da competência da Comissão do Mercado de Valores Mobiliários.
 
-###### Artigo 199.º-G — Detentores de participações qualificadas
+Artigo 199.º-G
+
+Detentores de participações qualificadas
 
 1 - O disposto no n.º 3 do artigo 103.º é também aplicável quando o interessado for uma empresa de investimento autorizada em outro Estado membro da Comunidade Europeia ou empresa-mãe de empresa de investimento nestas condições, ou pessoa singular ou colectiva que domine empresa de investimento autorizada em outro Estado membro.
 
 2 - O n.º 5 do artigo 103.º é também aplicável à tomada de participações em empresas de investimento.
 
-###### Artigo 199.º-H
+Artigo 199.º-H
 
 1 - O disposto nos artigos 122.º a 124.º é aplicável a todas as empresas de investimento autorizadas em outros Estados membros da Comunidade Europeia, sendo outorgada à Comissão do Mercado de Valores Mobiliários a competência neles conferida ao Banco de Portugal, e entendido o âmbito de competências definido pelo n.º 2 do artigo 122.º como relativo às matérias constantes da alínea f) do artigo 199.º-E.
 
@@ -573,7 +757,9 @@ Os artigos 11.º, 13.º, 16.º, 18.º, 23.º, 39.º, 40.º, 41.º, 45.º, 67.º,
 
 A CMVM rege-se pelo presente diploma e pelo seu regulamento interno, bem como, no que por aquele ou por este não for especialmente regulado, exclusivamente pelo ordenamento jurídico e financeiro aplicável às entidades que revistam natureza, forma e designação de empresa pública de regime de direito privado, não estando sujeita às normas aplicáveis aos fundos e serviços autónomos.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -583,7 +769,9 @@ A CMVM rege-se pelo presente diploma e pelo seu regulamento interno, bem como, n
 
 4 - O disposto na primeira parte do n.º 2 deste artigo não prejudica a prática de actos ou a realização de diligências destinados à recolha, em território nacional, de informações ou de outros meios de prova de quaisquer pessoas ou entidades, no âmbito da cooperação internacional entre a CMVM e outras autoridades correspondentes da União Europeia ou de outros países, estabelecida nos termos deste Código, desde que aquelas pessoas ou entidades se encontrem de algum modo sujeitas à jurisdição da autoridade que solicitou a prática do acto ou a realização da diligência e que tal acto ou diligência se enquadre no tipo de actos ou diligências para os quais a CMVM tenha competência.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -603,7 +791,9 @@ e) Participar, sem prejuízo das regras de segredo profissional a que se encontr
 
 4 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -617,7 +807,9 @@ e) Participar, sem prejuízo das regras de segredo profissional a que se encontr
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 ...
 
@@ -649,7 +841,9 @@ n) Elaborar e apresentar ao Ministro das Finanças, até 31 de Março de cada an
 
 o) ...
 
-###### Artigo 39.º — Regime financeiro, patrimonial, contabilístico e de tesouraria
+Artigo 39.º
+
+Regime financeiro, patrimonial, contabilístico e de tesouraria
 
 1 - Com excepção do disposto no número seguinte, a actividade financeira da CMVM rege-se exclusivamente pelo regime jurídico aplicável às entidades que revistam natureza, forma e designação de empresa pública, em tudo o que não for especialmente regulado pelo presente diploma e no regulamento interno da CMVM.
 
@@ -663,7 +857,9 @@ o) ...
 
 6 - A contabilidade da CMVM é elaborada de acordo com o Plano Oficial de Contabilidade, não sendo aplicável o regime da contabilidade pública.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...:
 
@@ -699,11 +895,15 @@ m) ...
 
 5 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 Salvo no que de outro modo expressamente se estabeleça no presente diploma ou no regulamento interno da CMVM, o estatuto laboral do pessoal da Comissão é o que resulta da legislação relativa ao contrato individual de trabalho, sendo as suas remunerações e regalias fixadas pelo conselho directivo.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - ...
 
@@ -745,7 +945,9 @@ d) No âmbito de recursos interpostos de decisões do Ministro das Finanças, da
 
 8 - (Actual n.º 4.)
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - Sem prejuízo do disposto na alínea a) do n.º 1 do artigo 425.º e do n.º 3 do artigo 502.º:
 
@@ -755,7 +957,9 @@ b) ...
 
 ...
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 425.º e no n.º 3 do artigo 502.º, a compra e venda em bolsa ou em mercado de balcão de valores mobiliários integrados no sistema de depósito e controlo de valores titulados serão obrigatoriamente efectuadas através de intermediários financeiros que satisfaçam as condições estabelecidas no n.º 1 do artigo 87.º
 
@@ -763,7 +967,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 180.º — Comunicação das transacções
+Artigo 180.º
+
+Comunicação das transacções
 
 1 - A transmissão de valores mobiliários admitidos à negociação em bolsa ou em qualquer dos mercados especiais previstos na alínea c) do n.º 1 do artigo 174.º só poderá realizar-se nesses mercados ou, sem prejuízo do disposto no artigo 180.º-A, no mercado de balcão, sendo nulas as transacções que se efectuem por outra forma.
 
@@ -775,7 +981,9 @@ b) ...
 
 5 - ...
 
-###### Artigo 208.º — [...]
+Artigo 208.º
+
+[...]
 
 1 - Os estatutos das associações de bolsa devem fixar um número mínimo de membros da bolsa e, quando for caso disso, de cada centro de transacção de valores que dela dependa.
 
@@ -789,13 +997,17 @@ b) ...
 
 6 - (Anterior n.º 7.)
 
-###### Artigo 233.º — [...]
+Artigo 233.º
+
+[...]
 
 1 - Os membros dos conselhos de administração e fiscal das associações de bolsa, o pessoal das mesmas e as pessoas ou entidades, públicas ou privadas, que lhes prestem, a título permanente ou acidental, quaisquer serviços ficam sujeitos a segredo profissional em termos idênticos aos estabelecidos nos n.os 1 a 3 do artigo 45.º
 
 2 - O disposto no número anterior não obsta a que as associações de bolsa troquem informações entre si e com as entidades referidas nas alíneas c) e d) do n.º 4 do artigo 45.º e não prejudica o dever de prestação de informações pelas mesmas associações à CMVM, nos termos das disposições legais e regulamentares aplicáveis.
 
-###### Artigo 408.º — [...]
+Artigo 408.º
+
+[...]
 
 1 - ...
 
@@ -807,7 +1019,9 @@ b) ...
 
 5 - As taxas previstas no presente artigo não se aplicam às operações efectuadas em mercados especiais nos termos da alínea c) do n.º 1 e do n.º 2 do artigo 174.º nem às operações a prazo registadas nos termos do n.º 8 do artigo 411.º, aplicando-se em ambos os casos o que se determinar em portaria do Ministro das Finanças.
 
-###### Artigo 411.º — [...]
+Artigo 411.º
+
+[...]
 
 1 - ...
 
@@ -825,17 +1039,23 @@ b) ...
 
 8 - O Ministro das Finanças pode, com audiência prévia da CMVM e do Banco de Portugal, autorizar, mediante portaria, a entidade gestora do mercado onde se realizem operações a prazo a prestar, dentro dos limites e com observância das regras que para o efeito definirá, serviços integrados de registo, compensação e liquidação de operações a prazo não negociadas nesse mercado, com ou sem a assunção pela referida entidade gestora, consoante na mesma portaria se estabeleça, da posição de contraparte, aplicando-se neste último caso, com as devidas adaptações, o disposto nos n.os 4 a 7 do artigo 412.º
 
-###### Artigo 499.º — [...]
+Artigo 499.º
+
+[...]
 
 1 - Integram o mercado de balcão todas as operações que tenham por objecto valores mobiliários realizadas fora de bolsa ou de mercado secundário especial, de conta própria ou alheia, por quaisquer intermediários financeiros autorizados a realizar essa espécie de transacções.
 
 2 - A CMVM poderá estabelecer, em desenvolvimento do disposto no presente diploma, as regras das operações realizadas em mercado de balcão.
 
-###### Artigo 500.º — [...]
+Artigo 500.º
+
+[...]
 
 Salvo disposição em contrário, são negociáveis em mercado de balcão todos os valores mobiliários, quer sejam ou não negociáveis em bolsa ou em mercado secundário especial.
 
-###### Artigo 502.º — [...]
+Artigo 502.º
+
+[...]
 
 1 - As ordens de compra e de venda de valores mobiliários transmitidas a qualquer dos intermediários financeiros referidos no artigo 499.º e respeitantes a valores admitidos à negociação em bolsa ou em mercado secundário especial só podem ser realizadas no mercado de balcão quando o ordenador o determine ou autorize expressamente, facto que o intermediário deve registar, procedendo ao arquivo desse registo.
 
@@ -847,19 +1067,25 @@ Salvo disposição em contrário, são negociáveis em mercado de balcão todos 
 
 5 - ...
 
-###### Artigo 505.º — [...]
+Artigo 505.º
+
+[...]
 
 1 - ...
 
 2 - Para os efeitos do número anterior, as referências à alínea a) do n.º 3 e ao n.º 4 do artigo 401.º que constam do artigo 463.º consideram-se como feitas, respectivamente, ao n.º 3 e ao n.º 4 do artigo 502.º
 
-###### Artigo 613.º — [...]
+Artigo 613.º
+
+[...]
 
 1 - ...
 
 2 - Cada categoria de intermediário financeiro só pode exercer, de entre as previstas no artigo 608.º, as actividades de intermediação em valores mobiliários que lhe forem consentidas pela legislação especial que lhe respeite e que estejam inscritas no respectivo registo na CMVM.
 
-###### Artigo 629.º — [...]
+Artigo 629.º
+
+[...]
 
 1 - Sem prejuízo do disposto na legislação geral ou especial que lhes respeite, os intermediários financeiros só podem iniciar o exercício de qualquer das actividades a que se refere o artigo 608.º depois de se encontrarem registados na CMVM.
 
@@ -903,7 +1129,9 @@ g) Identificação dos gerentes das sucursais e dos escritórios de representaç
 
 5 - A CMVM, precedendo parecer do Banco de Portugal, determinará por regulamento as categorias de intermediários financeiros e as actividades de intermediação em valores mobiliários em cujos registos deverão constar os elementos referidos na alínea h) do n.º 2 deste artigo, bem como as eventuais especialidades aplicáveis a cada uma daquelas categorias e actividades.
 
-###### Artigo 630.º — [...]
+Artigo 630.º
+
+[...]
 
 1 - O registo pode ser requerido pelos intermediários financeiros à CMVM em qualquer momento posterior ao registo efectuado no Banco de Portugal ou, se for o caso, no Instituto de Seguros de Portugal, devendo o requerimento mencionar especificadamente as actividades de intermediação em valores mobiliários que aqueles pretendam exercer.
 
@@ -913,7 +1141,9 @@ g) Identificação dos gerentes das sucursais e dos escritórios de representaç
 
 4 - O registo considera-se efectuado se a CMVM nada objectar no prazo de 90 dias a contar da data em que receber o pedido devidamente instruído ou, se for o caso, da recepção de informações complementares que hajam sido solicitadas.
 
-###### Artigo 631.º — [...]
+Artigo 631.º
+
+[...]
 
 1 - O registo inicial será recusado se o requerente não estiver legalmente autorizado para o exercício das actividades de intermediação em valores mobiliários que pretende exercer ou não demonstrar possuir todos os meios e capacidades indispensáveis para garantir a sua prestação em condições adequadas de eficiência e segurança, de acordo, designadamente, com as condições de exercício da actividade e com as normas de conduta aplicáveis, nos termos dos capítulos III e IV do título V deste Código.
 
@@ -923,7 +1153,9 @@ g) Identificação dos gerentes das sucursais e dos escritórios de representaç
 
 4 - A CMVM poderá recusar o registo de apenas uma ou algumas das actividades objecto do pedido.
 
-###### Artigo 632.º — Suspensão e cancelamento do registo
+Artigo 632.º
+
+Suspensão e cancelamento do registo
 
 1 - O registo será cancelado pela CMVM sempre que se verifique:
 
@@ -937,7 +1169,9 @@ b) Violação das normas que regem a actividade do intermediário financeiro ou 
 
 4 - A CMVM pode suspender cautelarmente, por um prazo máximo de 60 dias, o registo para o exercício de qualquer das actividades previstas no artigo 608.º pelo intermediário financeiro ou o exercício de funções pelas pessoas que ocupem lugares de direcção, chefia ou fiscalização junto daquele quando ocorram circunstâncias comprovadamente susceptíveis de perturbar o regular funcionamento do mercado ou de pôr em risco os legítimos interesses dos investidores.
 
-###### Artigo 635.º — Dever de comunicação
+Artigo 635.º
+
+Dever de comunicação
 
 1 - Os revisores oficiais de contas ao serviço de um intermediário financeiro e os auditores externos que, por exigência legal, prestem a um intermediário financeiro serviços de auditoria são obrigados a comunicar à CMVM, com a maior brevidade, os factos respeitantes a esse intermediário de que tenham tido conhecimento no exercício das suas funções, quando tais factos sejam susceptíveis de:
 
@@ -953,13 +1187,17 @@ c) Determinar a recusa da certificação das contas ou a emissão de reservas.
 
 4 - No caso de os factos referidos no n.º 1 serem relevantes nos termos dos n.os 1 e 2 do artigo 344.º deste Código, a CMVM e o Banco de Portugal devem coordenar as respectivas acções tendo em vista uma adequada conjugação dos objectivos de supervisão prosseguidos por cada uma destas autoridades.
 
-###### Artigo 642.º — Conservação de documentos
+Artigo 642.º
+
+Conservação de documentos
 
 1 - Os intermediários financeiros conservarão em arquivo, pelo prazo mínimo de cinco anos, todos os documentos e registos relativos a operações sobre valores mobiliários, quer efectuadas nos mercados nacionais quer em outros mercados, ainda que não regulamentados, designadamente as ordens de bolsa, os documentos comprovativos das operações em que tenham intervindo em bolsa ou fora dela e os exemplares que lhes são destinados das notas e avisos a que se referem os artigos 449.º, 456.º e 457.º
 
 2 - ...
 
-###### Artigo 648.º — [...]
+Artigo 648.º
+
+[...]
 
 1 - A pessoa singular ou colectiva que, directa ou indirectamente, for detentora de acções ou quotas representativas de, pelo menos, um décimo, um quinto, um terço, metade ou dois terços do capital social ou dos direitos de voto de um intermediário financeiro deve comunicar à CMVM a percentagem da respectiva participação e dos direitos de voto correspondentes.
 
@@ -1005,7 +1243,9 @@ j) Os inerentes a acções depositadas ou registadas junto do interessado e que 
 
 10 - A CMVM dará conhecimento das inibições referidas no n.º 7, bem como das respectivas cessações, ao órgão de administração do intermediário financeiro e ao Banco de Portugal.
 
-###### Artigo 649.º — [...]
+Artigo 649.º
+
+[...]
 
 1 - Os intermediários financeiros devem colocar à disposição da CMVM, em termos a definir em regulamento, informações relativas a todas as operações por si intermediadas e que tenham por objecto:
 
@@ -1019,7 +1259,9 @@ d) Opções normalizadas relativas a acções.
 
 2 - Os intermediários financeiros são obrigados a enviar à CMVM os elementos e informações de natureza estatística que lhes forem solicitados por aquela entidade no âmbito das respectivas competências.
 
-###### Artigo 658.º — [...]
+Artigo 658.º
+
+[...]
 
 1 - ...
 
@@ -1027,7 +1269,9 @@ d) Opções normalizadas relativas a acções.
 
 3 - A CMVM, através de regulamento, poderá estabelecer a obrigatoriedade de credenciação das pessoas que exerçam determinadas funções, podendo atribuir as tarefas de credenciação a outras entidades.
 
-###### Artigo 662.º — [...]
+Artigo 662.º
+
+[...]
 
 1 - ...
 
@@ -1047,7 +1291,9 @@ f) Sejam criados e assegurados mecanismos de controlo e segurança no domínio i
 
 3 - As providências a que se refere o número anterior devem constar de regulamentos internos, a comunicar à CMVM nos seis meses posteriores ao registo das actividades de intermediação a desenvolver, podendo esta determinar que neles se introduzam as alterações ou aditamentos que tiver por necessários.
 
-###### Artigo 663.º — [...]
+Artigo 663.º
+
+[...]
 
 1 - ...
 
@@ -1065,7 +1311,9 @@ e) Informar claramente os seus clientes, antes da execução das operações ou 
 
 3 - O critério da condição profissional do cliente, para efeitos de aplicação do número anterior, será apreciado em relação ao investidor que está na origem da ordem, quer este tenha actuado directamente quer através de outro intermediário financeiro.
 
-###### Artigo 683.º — [...]
+Artigo 683.º
+
+[...]
 
 1 - ...
 
@@ -1089,7 +1337,7 @@ b) O intermediário financeiro realize a transacção quer através de estabelec
 
 ###### Artigo 5.º
 
-**O Ministro das Finanças aprovará, por portaria, a lista dos mercados regulamentados de que Portugal é Estado membro de origem, para os efeitos do disposto na Directiva n.º [93/22/CEE](https://data.europa.eu/eli/dir/1993/22/oj?locale=pt), do Conselho, competindo à CMVM a comunicação da mesma lista aos outros Estados membros e à Comissão da União Europeia, nos termos previstos na referida directiva.**
+O Ministro das Finanças aprovará, por portaria, a lista dos mercados regulamentados de que Portugal é Estado membro de origem, para os efeitos do disposto na Directiva n.º [93/22/CEE](https://data.europa.eu/eli/dir/1993/22/oj?locale=pt), do Conselho, competindo à CMVM a comunicação da mesma lista aos outros Estados membros e à Comissão da União Europeia, nos termos previstos na referida directiva.
 
 ###### Artigo 6.º
 
@@ -1121,12 +1369,12 @@ O presente diploma entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Setembro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 15 de Novembro de 1996.**
+Promulgado em 15 de Novembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Novembro de 1996.**
+Referendado em 20 de Novembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

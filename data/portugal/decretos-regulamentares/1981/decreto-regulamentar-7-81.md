@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/01/02600/03150331.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1981-389652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T06:04:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbd486693a840192bc7e2cd7e7ef2ee6d91d11fd37bf32aff5f94975fda28a0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85ba29934855a1f4cbe96e049b0911ea670e2f21bc132beceb03f0d846c5bc89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:04:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Leite
 relationships:
 - type: amended_by
   target: pt:dre:439393:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:627066:por
+  label: "Mantido em vigor pelo DEC LEI.441/86.31.12.1986.MAPA, DR.IS [300]5ºSupl de 31.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/441-1986-627066
+  date: '1986-12-31'
+- type: amended_by
+  target: pt:dre:220945:por
+  label: "Mantidos em vigor, até à publicação de nova regulamentação,os regulamentos aprovados pelo presente diploma,com excepção\
+    \ do Regulamento das Condições Higiotécnicas da Venda e Distribuiçãio de Leite, pelo DEC LEI.39/2003.2003.03.08.MADRP,\
+    \ DR.IS-A [57] de 08.03.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2003-220945
+  date: '2003-03-08'
+- type: amended_by
+  target: pt:dre:537249:por
+  label: "Dada nova redacção ao artigo 24.º, alterada a epígrafe do capítulo III e revogado o artigo 25.º do Regulamento das\
+    \ Condições Higiotécnicas da Recolha e Transporte de Leite, dada nova redacção aos artigos 21.º e 22.º e alterada a epígrafe\
+    \ do capítulo VI do Regulamento dos centros de Concentração de leite, dada nova redacção aos artigos 21.º e 22.º e alterada\
+    \ a epígrafe do capítulo VI do Regulamento dos Centros de Tratamento de Leite, aprovados pelo presente diploma, pela LEI.30/2006.11.07.2006.AR,\
+    \ DR.IS [132] de 11.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2006-537249
+  date: '2006-07-11'
+- type: cites
+  target: pt:dre:296649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604245:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:573152:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 109/1981, Série I de 1981-05-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-573152
+  date: '1981-05-13'
+- type: repealed_by
+  target: pt:dre:421452:por
+  label: "Revogado o Regulamento das Condições Higiotécnicas da Venda e Distribuição do Leite à data da entrada em vigor das\
+    \ Ports. mencionadas no art. 1º, pelo DEC LEI.205/87.1987.05.16.MAPA, DR.IS [205]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-1987-421452
+  date: '1987-05-16'
+- type: repealed_by
+  target: pt:dre:439393:por
+  label: "Revogado, a partir de 08.02.2009, pelo DEC LEI.214/2008.10.11.2008.MADRP, DR.IS [218] de 10.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2008-439393
+  date: '2008-11-10'
 article_structure:
-  article_count: 6
+  article_count: 0
   section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:04:37Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +145,7 @@ de 31 de Janeiro
 
 Prevendo o [Decreto-Lei n.º 138/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1979-382612), de 18 de Maio, vária regulamentação sobre o sector da produção, recolha e comércio de leite, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São aprovados os seguintes Regulamentos em anexo:
+Artigo 1.º São aprovados os seguintes Regulamentos em anexo:
 
 Regulamento das Salas Colectivas de Ordenha Mecânica;
 
@@ -102,71 +157,71 @@ Regulamento dos Centros de Tratamento de Leite;
 
 Regulamento das Condições Higiotécnicas da Venda e Distribuição de Leite.
 
-###### Art. 2.º O presente diploma revoga os artigos 30.º a 42.º, inclusive, do [Decreto n.º 36974](https://diariodarepublica.pt/dr/detalhe/decreto/36974-1948-385421), de 17 de Julho de 1948, e a [Portaria n.º 15981](https://diariodarepublica.pt/dr/detalhe/portaria/15981-1956-296649), de 4 de Outubro de 1956.
+Art. 2.º O presente diploma revoga os artigos 30.º a 42.º, inclusive, do [Decreto n.º 36974](https://diariodarepublica.pt/dr/detalhe/decreto/36974-1948-385421), de 17 de Julho de 1948, e a [Portaria n.º 15981](https://diariodarepublica.pt/dr/detalhe/portaria/15981-1956-296649), de 4 de Outubro de 1956.
 
-###### Art. 3.º Os Regulamentos agora aprovados não são aplicáveis às regiões autónomas.
+Art. 3.º Os Regulamentos agora aprovados não são aplicáveis às regiões autónomas.
 
-###### Art. 4.º As dúvidas emergentes da aplicação dos Regulamentos em anexo serão resolvidas por despacho do Ministro da Agricultura e Pescas.
+Art. 4.º As dúvidas emergentes da aplicação dos Regulamentos em anexo serão resolvidas por despacho do Ministro da Agricultura e Pescas.
 
-###### Art. 5.º O presente diploma entra em vigor quinze dias após a sua publicação.
+Art. 5.º O presente diploma entra em vigor quinze dias após a sua publicação.
 
 Diogo Pinto de Freitas do Amaral - António José Baptista Cardoso e Cunha.
 
-**Promulgado em 15 de Janeiro de 1981.**
+Promulgado em 15 de Janeiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Regulamento das Salas Colectivas de Ordenha Mecânica
 
 ### CAPÍTULO I — Da instalação e exploração
 
-###### Artigo 1.º A instalação e a exploração das salas colectivas de ordenha mecânica, adiante designadas por SCOM, referidas nos n.os 1 e 2 do artigo 2.º do Regulamento das Condições Higiotécnicas da Recolha e Transporte de Leite, dependem de autorização dos serviços regionais de agricultura, como previsto no n.º 1 do artigo 3.º do mesmo Regulamento.
+Artigo 1.º A instalação e a exploração das salas colectivas de ordenha mecânica, adiante designadas por SCOM, referidas nos n.os 1 e 2 do artigo 2.º do Regulamento das Condições Higiotécnicas da Recolha e Transporte de Leite, dependem de autorização dos serviços regionais de agricultura, como previsto no n.º 1 do artigo 3.º do mesmo Regulamento.
 
-###### Art. 2.º Para efeitos da autorização referida, será observado o que se determina no citado Regulamento no referente a normas de processo de licenciamento e a requisitos de localização e funcionamento.
+Art. 2.º Para efeitos da autorização referida, será observado o que se determina no citado Regulamento no referente a normas de processo de licenciamento e a requisitos de localização e funcionamento.
 
 #### SECÇÃO I — Requisitos de localização
 
-###### Art. 3.º A localização deve permitir uma fácil inclusão no circuito de recolha de leite, independentemente de se tratar ou não de rede de recolha organizada.
+Art. 3.º A localização deve permitir uma fácil inclusão no circuito de recolha de leite, independentemente de se tratar ou não de rede de recolha organizada.
 
-###### Art. 4.º A localização de uma SCOM deve contemplar, tanto quanto possível, a menor deslocação dos animais na sua globalidade.
+Art. 4.º A localização de uma SCOM deve contemplar, tanto quanto possível, a menor deslocação dos animais na sua globalidade.
 
-###### Art. 5.º - 1 - O número de vacas a utilizarem a SCOM não deve ser inferior a vinte nem superior a sessenta.
+Art. 5.º - 1 - O número de vacas a utilizarem a SCOM não deve ser inferior a vinte nem superior a sessenta.
 
 2 - O número de vacas poderá ser inferior a vinte, numa fase transitória de arranque, desde que haja condições que levem a supor que esse número pode ser facilmente ultrapassado a curto prazo e que tal situação de excepção tenha a aprovação do respectivo serviço regional de agricultura.
 
-###### Art. 6.º A localização de uma SCOM deve atender às condições de vizinhança, de modo a ficar afastada de locais insalubres e livre de contiguidades perigosas e prevenir que a sua actividade futura não venha a prejudicar vizinhos e utentes da via pública.
+Art. 6.º A localização de uma SCOM deve atender às condições de vizinhança, de modo a ficar afastada de locais insalubres e livre de contiguidades perigosas e prevenir que a sua actividade futura não venha a prejudicar vizinhos e utentes da via pública.
 
-###### Art. 7.º Deve ser dada especial atenção às características do local e natureza do solo, de modo a assegurar-se a boa drenagem das águas de lavagem e das defecações.
+Art. 7.º Deve ser dada especial atenção às características do local e natureza do solo, de modo a assegurar-se a boa drenagem das águas de lavagem e das defecações.
 
-###### Art. 8.º Deve dispor-se de electricidade, água e acessos.
+Art. 8.º Deve dispor-se de electricidade, água e acessos.
 
-###### Art. 9.º A energia eléctrica localmente disponível terá o potencial e demais características adequadas ao correcto funcionamento da SCOM, nomeadamente no que respeita à ordenha mecânica, refrigeração, iluminação e eventuais aquecimento e ou bombagem de água.
+Art. 9.º A energia eléctrica localmente disponível terá o potencial e demais características adequadas ao correcto funcionamento da SCOM, nomeadamente no que respeita à ordenha mecânica, refrigeração, iluminação e eventuais aquecimento e ou bombagem de água.
 
-###### Art. 10.º Deve haver água limpa em quantidade e pressão suficientes para as lavagens da sala, do seu equipamento e do parque de espera.
+Art. 10.º Deve haver água limpa em quantidade e pressão suficientes para as lavagens da sala, do seu equipamento e do parque de espera.
 
-###### Art. 11.º Os acessos devem permitir o trânsito dos animais e dos carros-cisternas, bem como as suas manobras, sem prejuízo dos demais utentes.
+Art. 11.º Os acessos devem permitir o trânsito dos animais e dos carros-cisternas, bem como as suas manobras, sem prejuízo dos demais utentes.
 
 #### SECÇÃO II — Da instalação
 
-###### Art. 12.º Dando cumprimento ao determinado no n.º 2 do artigo 9.º do Regulamento das Condições Higiotécnicas da Recolha e Transporte de Leite, poderá ser considerada a separação das águas de lavagem de material, quando se pretendam utilizar os dejectos dos animais na agricultura.
+Art. 12.º Dando cumprimento ao determinado no n.º 2 do artigo 9.º do Regulamento das Condições Higiotécnicas da Recolha e Transporte de Leite, poderá ser considerada a separação das águas de lavagem de material, quando se pretendam utilizar os dejectos dos animais na agricultura.
 
-###### Art. 13.º - 1 - Em princípio só se admite a instalação de SCOM, como entendido no n.º 2 do artigo 2.º do Regulamento referido no artigo anterior, desde que apetrechada com dispositivo adequado de refrigeração de leite.
+Art. 13.º - 1 - Em princípio só se admite a instalação de SCOM, como entendido no n.º 2 do artigo 2.º do Regulamento referido no artigo anterior, desde que apetrechada com dispositivo adequado de refrigeração de leite.
 
 2 - Para a generalidade dos casos, atendendo ao número anterior, toda a presente regulamentação se baseia no pressuposto de SCOM com refrigeração anexa ao local de ordenha.
 
 3 - Em nenhum caso deve admitir-se a inclusão de SCOM desprovida de refrigeração num circuito de recolha de leite refrigerado.
 
-###### Art. 14.º - 1 - Quando esteja prevista a curto prazo a existência de energia eléctrica, a instalação das SCOM deve ser de molde a facilitar a sua conversão ao tipo convencional de SCOM com refrigeração.
+Art. 14.º - 1 - Quando esteja prevista a curto prazo a existência de energia eléctrica, a instalação das SCOM deve ser de molde a facilitar a sua conversão ao tipo convencional de SCOM com refrigeração.
 
 2 - Entretanto será incluída em circuito de leite não refrigerado, a título excepcional, e em regime de licenciamento condicionado a instalação de equipamento de refrigeração logo que se disponha de acesso à energia da rede de abastecimento.
 
-###### Art. 15.º - 1 - As SCOM devem dispor obrigatoriamente de parque de espera, local de ordenha, sala do leite, casa de máquinas e casa de arrecadação, podendo estas duas últimas ocupar a mesma dependência, desde que a última função se encontre devidamente protegida.
+Art. 15.º - 1 - As SCOM devem dispor obrigatoriamente de parque de espera, local de ordenha, sala do leite, casa de máquinas e casa de arrecadação, podendo estas duas últimas ocupar a mesma dependência, desde que a última função se encontre devidamente protegida.
 
 2 - Consideram-se dependências facultativas, embora sujeitas a vistoria e autorização, nomeadamente as retretes, balneários, escritórios e armazéns de rações.
 
-###### Art. 16.º O parque de espera deve ter a superfície mínima de 1 m2/vaca para o número máximo de vacas previsto e com os seguintes requisitos:
+Art. 16.º O parque de espera deve ter a superfície mínima de 1 m2/vaca para o número máximo de vacas previsto e com os seguintes requisitos:
 
 a) Dispor de pavimento antiderrapante e de modo a evitar a formação de lama e não ser traumatizante para as unhas dos animais;
 
@@ -174,43 +229,43 @@ b) Apresentar descaimento de 2%-3% no sentido do esgoto ou fossa, de modo a faci
 
 c) Possuir cobertura com a altura mínima de 2 m até à aba descaída, quando se tratar de cobertura inclinada, onde a altura no ponto mais elevado não será inferior a 3 m, e nos casos de cobertura direita com altura mínima de 2,5 m. Em qualquer dos casos a sua extensão deve proporcionar o desejável abrigo da chuva e do sol.
 
-###### Art. 17.º Todo o animal terá acesso ao local de ordenha a partir do parque de espera.
+Art. 17.º Todo o animal terá acesso ao local de ordenha a partir do parque de espera.
 
-###### Art. 18.º Atendendo à gravidade das afecções podais, é aconselhável a existência de pedilúvios, com fins profilácticos, à saída da sala.
+Art. 18.º Atendendo à gravidade das afecções podais, é aconselhável a existência de pedilúvios, com fins profilácticos, à saída da sala.
 
-###### Art. 19.º A SCOM não deve compreender mais de quatro nem menos de dois pontos de ordenha.
+Art. 19.º A SCOM não deve compreender mais de quatro nem menos de dois pontos de ordenha.
 
-###### Art. 20.º Havendo potencialidade pecuária para o aumento de efectivos, pode admitir-se a construção de uma sala para o número máximo de quatro pontos de ordenha e equipamento de refrigeração para capacidade correspondente, embora funcionando inicialmente com número inferior de pontos de ordenha.
+Art. 20.º Havendo potencialidade pecuária para o aumento de efectivos, pode admitir-se a construção de uma sala para o número máximo de quatro pontos de ordenha e equipamento de refrigeração para capacidade correspondente, embora funcionando inicialmente com número inferior de pontos de ordenha.
 
-###### Art. 21.º - 1 - O número de animais a utilizar uma SCOM deverá atender aos seguintes escalões:
+Art. 21.º - 1 - O número de animais a utilizar uma SCOM deverá atender aos seguintes escalões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/02600/03150331.pdf))](https://files.diariodarepublica.pt/1s/1981/01/02600/03150331.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/02600/03150331.pdf)
 
 2 - A situação transitória prevista no quadro do número anterior fica condicionada a licenciamento, a título precário, durante o tempo máximo de um ano.
 
-###### Art. 22.º Os acessos à ordenha desde a via pública deverão ser devidamente compactados e ensaibrados e a sua inclinação e sistema de drenagem deverão ser tais que não permitam às escorrências espraiarem-se para a via pública ou terrenos vizinhos.
+Art. 22.º Os acessos à ordenha desde a via pública deverão ser devidamente compactados e ensaibrados e a sua inclinação e sistema de drenagem deverão ser tais que não permitam às escorrências espraiarem-se para a via pública ou terrenos vizinhos.
 
-###### Art. 23.º As únicas dependências que podem manter comunicação entre si são o local de ordenha e a sala do leite, tendo, no entanto, de ser separadas, pelo menos, por uma meia parede com a altura mínima de 2 m e segundo as especificações que o serviço regional de agricultura determinar quando da apreciação do respectivo projecto.
+Art. 23.º As únicas dependências que podem manter comunicação entre si são o local de ordenha e a sala do leite, tendo, no entanto, de ser separadas, pelo menos, por uma meia parede com a altura mínima de 2 m e segundo as especificações que o serviço regional de agricultura determinar quando da apreciação do respectivo projecto.
 
-###### Art. 24.º - 1 - Toda a área circundante deve dispor de solo alisado, de modo a não permitir a formação de empoçamentos, charcos, etc.
+Art. 24.º - 1 - Toda a área circundante deve dispor de solo alisado, de modo a não permitir a formação de empoçamentos, charcos, etc.
 
 2 - A drenagem para as fossas deverá ser feita a céu coberto, com as caixas de inspecção ou de visita consideradas necessárias.
 
-###### Art. 25.º - 1 - A iluminação artificial deve ser adequada às diversas manobras que um correcto funcionamento impõe.
+Art. 25.º - 1 - A iluminação artificial deve ser adequada às diversas manobras que um correcto funcionamento impõe.
 
 2 - No caso de ausência de energia eléctrica, aquela iluminação será fornecida por sistema eficiente que não liberte cheiros nem fumos.
 
-###### Art. 26.º - 1 - A instalação de motores, grupos electrogéneos, dispositivos de aquecimento de água e outros equipamentos que produzam cheiros, fumos ou gases de escape situar-se-á fora do local de ordenha e da sala do leite, sem qualquer comunicação com estes.
+Art. 26.º - 1 - A instalação de motores, grupos electrogéneos, dispositivos de aquecimento de água e outros equipamentos que produzam cheiros, fumos ou gases de escape situar-se-á fora do local de ordenha e da sala do leite, sem qualquer comunicação com estes.
 
 2 - Pode ser instalado na sala do leite esquentador a gás, desde que devidamente provido de chaminé para canalização dos gases para o exterior.
 
-###### Art. 27.º As salas do leite e os locais de ordenha não podem estabelecer comunicação directa com habitações, armazéns, garagens, instalações para animais ou quaisquer outras que possam originar inconvenientes para os animais ou para o leite.
+Art. 27.º As salas do leite e os locais de ordenha não podem estabelecer comunicação directa com habitações, armazéns, garagens, instalações para animais ou quaisquer outras que possam originar inconvenientes para os animais ou para o leite.
 
-###### Art. 28.º No local de ordenha deve existir o desnível aproximado de 0,70 m entre o piso do pesebre e o do vaqueiro-ordenhador.
+Art. 28.º No local de ordenha deve existir o desnível aproximado de 0,70 m entre o piso do pesebre e o do vaqueiro-ordenhador.
 
-###### Art. 29.º O rebordo do piso do pesebre, na ligação com a parede da fossa de trabalho, deve dispor de um resguardo de 0,15 m de altura.
+Art. 29.º O rebordo do piso do pesebre, na ligação com a parede da fossa de trabalho, deve dispor de um resguardo de 0,15 m de altura.
 
-###### Art. 30.º - 1 - Os pesebres são dispostos em sistema de tandem e devem dispor de uma grelha, cujas dimensões são 0,50 m de largura e 1 m de comprimento, que garanta a captação directa das defecações.
+Art. 30.º - 1 - Os pesebres são dispostos em sistema de tandem e devem dispor de uma grelha, cujas dimensões são 0,50 m de largura e 1 m de comprimento, que garanta a captação directa das defecações.
 
 2 - Os pesebres terão o cumprimento de 2,40 m-2,45 m e a largura de 0,90 m-0,60 m, esta última correspondendo aos extremos do pesebre.
 
@@ -218,23 +273,23 @@ c) Possuir cobertura com a altura mínima de 2 m até à aba descaída, quando s
 
 4 - O corredor de serviço aos pesebres terá a largura de 0,90 m.
 
-###### Art. 31.º - 1 - O revestimento do chão, tanto no local de ordenha como na sala do leite, terá de ser impermeável e apresentar descaimento para os sistemas de escoamento, caleiras, ralos, grelhas e sifões conforme exigido pelo serviço regional de agricultura, quando da apreciação do projecto.
+Art. 31.º - 1 - O revestimento do chão, tanto no local de ordenha como na sala do leite, terá de ser impermeável e apresentar descaimento para os sistemas de escoamento, caleiras, ralos, grelhas e sifões conforme exigido pelo serviço regional de agricultura, quando da apreciação do projecto.
 
 2 - O pavimento poderá ser em cimento, mosaico cerâmico esquartelado ou material equivalente.
 
 3 - Na zona dos pesebres e corredores de passagem o pavimento não deve ser inclinado nem escorregadio e pode ser revestido com cimento rugoso, flintkote ou equivalente.
 
-###### Art. 32.º Os cantos e arestas formados pelas paredes, pelo menos no local de ordenha e na sala do leite, serão substituídos por superfícies arredondadas de ligação.
+Art. 32.º Os cantos e arestas formados pelas paredes, pelo menos no local de ordenha e na sala do leite, serão substituídos por superfícies arredondadas de ligação.
 
-###### Art. 33.º As paredes internas da sala do leite devem apresentar um revestimento de material resistente, nas condições exigidas na alínea c) do n.º 1 do artigo 9.º do Regulamento das Condições Higiotécnicas da Recolha e Transporte de Leite.
+Art. 33.º As paredes internas da sala do leite devem apresentar um revestimento de material resistente, nas condições exigidas na alínea c) do n.º 1 do artigo 9.º do Regulamento das Condições Higiotécnicas da Recolha e Transporte de Leite.
 
-###### Art. 34.º No local de ordenha, principalmente na zona de passagem dos animais, as paredes devem apresentar um revestimento de material resistente e liso, suficientemente adequado às lavagens, e não proporcionar quaisquer danos aos animais, quando da sua passagem.
+Art. 34.º No local de ordenha, principalmente na zona de passagem dos animais, as paredes devem apresentar um revestimento de material resistente e liso, suficientemente adequado às lavagens, e não proporcionar quaisquer danos aos animais, quando da sua passagem.
 
-###### Art. 35.º O pé-direito da sala do leite e do local de ordenha, neste último a contar do piso dos pesebres, terá a altura mínima de 3 m.
+Art. 35.º O pé-direito da sala do leite e do local de ordenha, neste último a contar do piso dos pesebres, terá a altura mínima de 3 m.
 
-###### Art. 36.º A cobertura da instalação deverá garantir a não entrada de chuva no interior das instalações, nem de poeiras e insectos, e permitir, se possível, a saída de ar na sua parte mais elevada, quando as condições climáticas locais assim o aconselharem.
+Art. 36.º A cobertura da instalação deverá garantir a não entrada de chuva no interior das instalações, nem de poeiras e insectos, e permitir, se possível, a saída de ar na sua parte mais elevada, quando as condições climáticas locais assim o aconselharem.
 
-###### Art. 37.º As janelas devem obedecer aos seguintes requisitos:
+Art. 37.º As janelas devem obedecer aos seguintes requisitos:
 
 a) Permitir uma superfície iluminante equivalente a 5% como mínimo, da área coberta correspondente;
 
@@ -242,7 +297,7 @@ b) Situarem-se à altura de 1,60 m do piso interior ao peitoril, o qual deve ser
 
 c) Serem do tipo basculante, com abertura dirigida para cima e para dentro.
 
-###### Art. 38.º As portas devem obedecer aos seguintes requisitos:
+Art. 38.º As portas devem obedecer aos seguintes requisitos:
 
 a) A entrada e a saída dos animais devem praticar-se por portas separadas, colocadas de modo a dificultar as correntes de ar entre si e sobre os animais, principalmente durante a ordenha;
 
@@ -252,19 +307,19 @@ c) Quando abertas, devem proporcionar uma passagem sem arestas nem qualquer sali
 
 d) Quando abertas, não devem interpor-se à passagem dos animais.
 
-###### Art. 39.º A sala do leite deve ser contígua ao local de ordenha e possuir a área suficiente para a fácil manobra das lavagens, recolha do leite e trabalhos de manutenção e reparação do equipamento de refrigeração.
+Art. 39.º A sala do leite deve ser contígua ao local de ordenha e possuir a área suficiente para a fácil manobra das lavagens, recolha do leite e trabalhos de manutenção e reparação do equipamento de refrigeração.
 
-###### Art. 40.º O vestuário, calçado, material de limpeza, ferramentas, acessórios, peças de reserva, etc., devem ser arrecadados em armários próprios na sala do leite ou, de preferência, numa arrecadação anexa.
+Art. 40.º O vestuário, calçado, material de limpeza, ferramentas, acessórios, peças de reserva, etc., devem ser arrecadados em armários próprios na sala do leite ou, de preferência, numa arrecadação anexa.
 
 #### SECÇÃO III — Do equipamento
 
-###### Art. 41.º Nas condições actuais da tecnologia da refrigeração do leite junto à ordenha, só é considerado no presente Regulamento o sistema dos tanques de refrigeração tipo «duas ordenhas», em banco de gelo ou expansão directa.
+Art. 41.º Nas condições actuais da tecnologia da refrigeração do leite junto à ordenha, só é considerado no presente Regulamento o sistema dos tanques de refrigeração tipo «duas ordenhas», em banco de gelo ou expansão directa.
 
-###### Art. 42.º Nas zonas onde sejam frequentes as quebras de tensão eléctrica ou interrupções de corrente, deve ser dada preferência ao sistema de refrigeração com banco de gelo.
+Art. 42.º Nas zonas onde sejam frequentes as quebras de tensão eléctrica ou interrupções de corrente, deve ser dada preferência ao sistema de refrigeração com banco de gelo.
 
-###### Art. 43.º Os tanques de refrigeração disporão de sistema de agitação termorregulada, termómetro acopulado e marcado em graus centígrados e tampão de resguardo da torneira de esvaziamento, e enquanto não existirem normas portuguesas devem ser cumpridas as publicadas pela FIL - Federação Internacional de Leitaria quanto a características de construção e funcionamento.
+Art. 43.º Os tanques de refrigeração disporão de sistema de agitação termorregulada, termómetro acopulado e marcado em graus centígrados e tampão de resguardo da torneira de esvaziamento, e enquanto não existirem normas portuguesas devem ser cumpridas as publicadas pela FIL - Federação Internacional de Leitaria quanto a características de construção e funcionamento.
 
-###### Art. 44.º - 1 - O local de ordenha deve estar equipado com:
+Art. 44.º - 1 - O local de ordenha deve estar equipado com:
 
 a) Dispositivo de lavagem de úberes, por sistema de chuveiro, a servir cada pesebre;
 
@@ -278,81 +333,81 @@ e) Uma medidora para medição do leite, quando exigido o recurso extremo à ord
 
 2 - Para assegurar a ordenha mecânica, em caso de falta de energia eléctrica, deve dispor-se de motor de explosão.
 
-###### Art. 45.º Na sala do leite, ou em local apropriado, devem existir recipientes de lavagem de peças e prateleiras ou armários que assegurem o conveniente resguardo do material de ordenha.
+Art. 45.º Na sala do leite, ou em local apropriado, devem existir recipientes de lavagem de peças e prateleiras ou armários que assegurem o conveniente resguardo do material de ordenha.
 
-###### Art. 46.º - 1 - Deve estar assegurada a produção suficiente de água quente, no âmbito das instalações, para a execução das necessárias lavagens do equipamento e demais material utilizado com o leite.
+Art. 46.º - 1 - Deve estar assegurada a produção suficiente de água quente, no âmbito das instalações, para a execução das necessárias lavagens do equipamento e demais material utilizado com o leite.
 
 2 - O sistema de produção de água quente deve garantir que esta atinja no mínimo os 50ºC.
 
-###### Art. 47.º O grupo de vácuo do equipamento de ordenha mecânica deverá estar colocado de maneira a permitir a aplicação dos sistemas de verificação da frequência de rotações, capacidade de reserva da bomba e de outras operações.
+Art. 47.º O grupo de vácuo do equipamento de ordenha mecânica deverá estar colocado de maneira a permitir a aplicação dos sistemas de verificação da frequência de rotações, capacidade de reserva da bomba e de outras operações.
 
 #### SECÇÃO IV — Do funcionamento
 
-###### Art. 48.º - 1 - Os animais que não tenham sido inscritos e sujeitos às provas de despiste da tuberculose ou outras oficialmente obrigatórias não podem ser admitidos às SCOM.
+Art. 48.º - 1 - Os animais que não tenham sido inscritos e sujeitos às provas de despiste da tuberculose ou outras oficialmente obrigatórias não podem ser admitidos às SCOM.
 
 2 - As entidades exploradoras das SCOM devem vigiar pelo cumprimento do número anterior.
 
-###### Art. 49.º - 1 - Não é permitido receber leite de animais que tenham sido ordenhados fora da SCOM.
+Art. 49.º - 1 - Não é permitido receber leite de animais que tenham sido ordenhados fora da SCOM.
 
 2 - A título excepcional, por impossibilidade justificada de deslocação do animal, o leite deste pode ser entregue na SCOM em vasilhame identificado, desde que de acordo com a entidade responsável pela recolha.
 
 3 - A apreciação do leite referido no número anterior será praticada ao nível das instalações da concentração e sujeito à classificação conforme as normas oficiais estabelecidas e segundo o que vier a ser regulamentado pela entidade responsável pela concentração.
 
-###### Art. 50.º - 1 - Quando o número de vacas ultrapassar setenta durante o ano, será exigido o descongestionamento pela utilização de outra SCOM, não sendo permitida a ampliação da anterior.
+Art. 50.º - 1 - Quando o número de vacas ultrapassar setenta durante o ano, será exigido o descongestionamento pela utilização de outra SCOM, não sendo permitida a ampliação da anterior.
 
 2 - Compete aos serviços regionais de agricultura a vigilância pelo cumprimento do determinado neste artigo.
 
-###### Art. 51.º As instalações devem estar defendidas da presença de insectos, o que se alcança com boas condições higiénicas, nomeadamente pela ausência de matéria fecal, urina, resíduos de leite, empoçamentos, detritos, etc., nas instalações e circunvizinhança.
+Art. 51.º As instalações devem estar defendidas da presença de insectos, o que se alcança com boas condições higiénicas, nomeadamente pela ausência de matéria fecal, urina, resíduos de leite, empoçamentos, detritos, etc., nas instalações e circunvizinhança.
 
 Ari. 52.º As SCOM são obrigadas a um horário de funcionamento, de modo a garantir que a ordenha se efectue sem interrupções, tendo em consideração um tempo máximo de dez minutos pela ocupação de cada vaca no pesebre, do que resulta o tempo máximo para cada sessão de 2 horas e 30 minutos, para o número máximo de quinze vacas a utilizar cada ponto de ordenha.
 
-###### Art. 53.º O intervalo entre as ordenhas da manhã e as da tarde deve procurar ser de doze horas, nunca podendo ultrapassar as dezasseis horas.
+Art. 53.º O intervalo entre as ordenhas da manhã e as da tarde deve procurar ser de doze horas, nunca podendo ultrapassar as dezasseis horas.
 
-###### Art. 54.º As vacas devem ser apresentadas à SCOM em condições razoáveis de limpeza geral.
+Art. 54.º As vacas devem ser apresentadas à SCOM em condições razoáveis de limpeza geral.
 
-###### Art. 55.º Os acompanhantes das vacas devem fazer entrar os animais no local de ordenha por ordem de chegada ao parque de espera.
+Art. 55.º Os acompanhantes das vacas devem fazer entrar os animais no local de ordenha por ordem de chegada ao parque de espera.
 
-###### Art. 56.º O vaqueiro-ordenhador pode impedir a entrada de animais por motivo justificável, comunicando de imediato o facto à entidade de que depende, competindo a esta o sancionamento da posição tomada.
+Art. 56.º O vaqueiro-ordenhador pode impedir a entrada de animais por motivo justificável, comunicando de imediato o facto à entidade de que depende, competindo a esta o sancionamento da posição tomada.
 
-###### Art. 57.º Os vaqueiros-ordenhadores serão os únicos executantes da ordenha dos animais, inclusive da retirada dos primeiros jactos e do esgotamento final com as tetinas.
+Art. 57.º Os vaqueiros-ordenhadores serão os únicos executantes da ordenha dos animais, inclusive da retirada dos primeiros jactos e do esgotamento final com as tetinas.
 
-###### Art. 58.º - 1 - É proibida a entrada de pessoas estranhas na fossa de trabalho do local de ordenha durante o período de funcionamento, com excepção dos acompanhantes ou proprietários dos animais acabados de mungir, para efeitos de verificação do volume de leite nos vasos medidores.
+Art. 58.º - 1 - É proibida a entrada de pessoas estranhas na fossa de trabalho do local de ordenha durante o período de funcionamento, com excepção dos acompanhantes ou proprietários dos animais acabados de mungir, para efeitos de verificação do volume de leite nos vasos medidores.
 
 2 - A pedido do vaqueiro-ordenhador, pode o acompanhante ter de levar a respectiva vaca ao pesebre e vir buscá-la depois de mungida.
 
-###### Art. 59.º O acompanhante ou proprietário da vaca pode levar parte do respectivo leite em quantidade razoável para consumo do agregado familiar, depois de praticada uma eventual amostragem ou registo para efeito de contraste leiteiro.
+Art. 59.º O acompanhante ou proprietário da vaca pode levar parte do respectivo leite em quantidade razoável para consumo do agregado familiar, depois de praticada uma eventual amostragem ou registo para efeito de contraste leiteiro.
 
-###### Art. 60.º Durante o período colostral as vacas podem ser ordenhadas na SCOM, mas em último lugar, sendo o leite recolhido para balde do proprietário do animal e nunca misturado com o restante leite da SCOM, nem por esta contabilizado, e destinado exclusivamente à alimentação do vitelo.
+Art. 60.º Durante o período colostral as vacas podem ser ordenhadas na SCOM, mas em último lugar, sendo o leite recolhido para balde do proprietário do animal e nunca misturado com o restante leite da SCOM, nem por esta contabilizado, e destinado exclusivamente à alimentação do vitelo.
 
-###### Art. 61.º Não é permitido o armazenamento de produtos no sector da ordenha, da refrigeração e acondicionamento do leite que possam transmitir-lhe cheiros ou sabores estranhos.
+Art. 61.º Não é permitido o armazenamento de produtos no sector da ordenha, da refrigeração e acondicionamento do leite que possam transmitir-lhe cheiros ou sabores estranhos.
 
-###### Art. 62.º Em cada tanque de refrigeração não é permitida a mistura de leite proveniente de mais de quatro ordenhas sucessivas ou uma armazenagem por um período superior a quarenta e oito horas.
+Art. 62.º Em cada tanque de refrigeração não é permitida a mistura de leite proveniente de mais de quatro ordenhas sucessivas ou uma armazenagem por um período superior a quarenta e oito horas.
 
-###### Art. 63.º Terminada a ordenha, o leite deve atingir a temperatura de 4ºC no tanque de refrigeração no prazo máximo de três horas e não apresentar temperatura superior até ao momento da sua recolha
+Art. 63.º Terminada a ordenha, o leite deve atingir a temperatura de 4ºC no tanque de refrigeração no prazo máximo de três horas e não apresentar temperatura superior até ao momento da sua recolha
 
-###### Art. 64.º A lavagem dos tanques de refrigeração pode ser feita manual ou mecanicamente por sistema próprio e normalizado.
+Art. 64.º A lavagem dos tanques de refrigeração pode ser feita manual ou mecanicamente por sistema próprio e normalizado.
 
-###### Art. 65.º - 1 - Os produtos esterilizantes usados não devem deixar resíduos, devem ser próprios para material utilizado no leite e usados nas proporções preconizadas.
+Art. 65.º - 1 - Os produtos esterilizantes usados não devem deixar resíduos, devem ser próprios para material utilizado no leite e usados nas proporções preconizadas.
 
 2 - São excluídos os quaternários de amónio em fórmula exclusiva na esterilização dos tanques de recepção.
 
 3 - Não devem ser utilizados produtos esterilizantes que exijam arraste final por água.
 
-###### Art. 66.º O esvaziamento das fossas é da responsabilidade da entidade que explorar as SCOM, para o desempenho do qual são utilizados meios próprios ou estranhos, desde que tal seja efectuado sem dano para a vizinhança e utentes das vias de trânsito próximas.
+Art. 66.º O esvaziamento das fossas é da responsabilidade da entidade que explorar as SCOM, para o desempenho do qual são utilizados meios próprios ou estranhos, desde que tal seja efectuado sem dano para a vizinhança e utentes das vias de trânsito próximas.
 
 ### CAPÍTULO II — Do vaqueiro-ordenhador
 
-###### Art. 67.º O vaqueiro-ordenhador terá de ter a preparação necessária para a execução das suas tarefas, reconhecida pelos serviços regionais de agricultura, segundo normas e orientação das Direcções-Gerais dos Serviços Veterinários e de Extensão Rural.
+Art. 67.º O vaqueiro-ordenhador terá de ter a preparação necessária para a execução das suas tarefas, reconhecida pelos serviços regionais de agricultura, segundo normas e orientação das Direcções-Gerais dos Serviços Veterinários e de Extensão Rural.
 
-###### Art. 68.º É obrigatória a frequência pelos vaqueiros-ordenhadores de cursos de preparação e de reciclagem que sejam realizados pelos serviços oficiais competentes e nas respectivas zonas.
+Art. 68.º É obrigatória a frequência pelos vaqueiros-ordenhadores de cursos de preparação e de reciclagem que sejam realizados pelos serviços oficiais competentes e nas respectivas zonas.
 
-###### Art. 69.º Os serviços oficiais a que se refere o artigo anterior diligenciarão no sentido de ser promovida a realização de cursos de preparação de vaqueiros-ordenhadores e de monitores e de cursos de reciclagem para os mesmos.
+Art. 69.º Os serviços oficiais a que se refere o artigo anterior diligenciarão no sentido de ser promovida a realização de cursos de preparação de vaqueiros-ordenhadores e de monitores e de cursos de reciclagem para os mesmos.
 
-###### Art. 70.º O vaqueiro-ordenhador deve cumprir as normas oficiais da Direcção-Geral dos Serviços Veterinários respeitantes ao maneio do equipamento da ordenha mecânica com vista à profilaxia das mamites.
+Art. 70.º O vaqueiro-ordenhador deve cumprir as normas oficiais da Direcção-Geral dos Serviços Veterinários respeitantes ao maneio do equipamento da ordenha mecânica com vista à profilaxia das mamites.
 
-###### Art. 71.º O vaqueiro-ordenhador pode proceder ao contraste leiteiro, desde que obedeça aos requisitos previstos nas normas da Direcção-Geral dos Serviços Veterinários.
+Art. 71.º O vaqueiro-ordenhador pode proceder ao contraste leiteiro, desde que obedeça aos requisitos previstos nas normas da Direcção-Geral dos Serviços Veterinários.
 
-###### Art. 72.º Os vaqueiros-ordenhadores devem ter em atenção os seguintes cuidados em cada sessão de ordenha:
+Art. 72.º Os vaqueiros-ordenhadores devem ter em atenção os seguintes cuidados em cada sessão de ordenha:
 
 a) Antes de iniciar a ordenha deve assegurar-se de que o tanque de refrigeração apresenta o leite à temperatura máxima de 4ºC, registar essa temperatura e ligar o agitador manual; no caso de o tanque ainda estar vazio, certificar-se do seu estado de correcta limpeza e escorrimento, com a válvula de descarga em posição de fechada e devidamente bem coberto;
 
@@ -378,27 +433,27 @@ l) Está interdita a ordenha manual, inclusive para o esgotamento, a não ser po
 
 m) Proceder, imediatamente após a ordenha, ao arraste, lavagem e esterilização de todo o equipamento, segundo as instruções afixadas em quadro sobre as regras fundamentais de funcionamento e manutenção do equipamento, a serem fornecidas pela Direcção-Geral dos Serviços Veterinários.
 
-###### Art. 73.º O vaqueiro-ordenhador deve vigiar o estado de conservação das borrachas, em especial as tetinas e os tubos de ligação aos copos e aos vasos medidores.
+Art. 73.º O vaqueiro-ordenhador deve vigiar o estado de conservação das borrachas, em especial as tetinas e os tubos de ligação aos copos e aos vasos medidores.
 
-###### Art. 74.º O vaqueiro-ordenhador deve utilizar um jogo de ventosas de reserva por cada ponto de ordenha, em sistema semanal de rotação, devendo o referido jogo, durante o período de repouso, ficar imerso em soluto desengordurante adequado, apontando-se a título indicativo o soluto de soda cáustica a 5%, chamando-se, contudo, a atenção para o cuidado de manuseamento desse produto.
+Art. 74.º O vaqueiro-ordenhador deve utilizar um jogo de ventosas de reserva por cada ponto de ordenha, em sistema semanal de rotação, devendo o referido jogo, durante o período de repouso, ficar imerso em soluto desengordurante adequado, apontando-se a título indicativo o soluto de soda cáustica a 5%, chamando-se, contudo, a atenção para o cuidado de manuseamento desse produto.
 
-###### Art. 75.º O vaqueiro-ordenhador deve desmontar o circuito de ordenha, pelo menos quinzenalmente, para a lavagem e esterilização especial, incluindo desincrustações.
+Art. 75.º O vaqueiro-ordenhador deve desmontar o circuito de ordenha, pelo menos quinzenalmente, para a lavagem e esterilização especial, incluindo desincrustações.
 
 ### CAPÍTULO III — Da recolha
 
-###### Art. 76.º A recolha do leite de uma SCOM equipada com refrigeração só deve realizar-se após a última ordenha e passado o tempo que permita assegurar adequada temperatura de conservação para o leite.
+Art. 76.º A recolha do leite de uma SCOM equipada com refrigeração só deve realizar-se após a última ordenha e passado o tempo que permita assegurar adequada temperatura de conservação para o leite.
 
-###### Art. 77.º Antes de se iniciar o esvaziamento do tanque de refrigeração, o leite deve ser submetido a agitação pelo agitador incorporado e por comando manual, se necessário, para efeito de melhor distribuição da matéria gorda.
+Art. 77.º Antes de se iniciar o esvaziamento do tanque de refrigeração, o leite deve ser submetido a agitação pelo agitador incorporado e por comando manual, se necessário, para efeito de melhor distribuição da matéria gorda.
 
-###### Art. 78.º No momento da recolha deve-se esgotar todo o volume de leite contido no tanque de refrigeração.
+Art. 78.º No momento da recolha deve-se esgotar todo o volume de leite contido no tanque de refrigeração.
 
-###### Art. 79.º O transporte rodoviário do leite refrigerado, desde a SCOM até ao ponto de destino, terá de ser realizado em tanques isotérmicos com as características estabelecidas nas alíneas a), b), c), d) e e) do n.º 2 do artigo 13.º do Regulamento das Condições Higiotécnicas da Recolha e Transporte de Leite.
+Art. 79.º O transporte rodoviário do leite refrigerado, desde a SCOM até ao ponto de destino, terá de ser realizado em tanques isotérmicos com as características estabelecidas nas alíneas a), b), c), d) e e) do n.º 2 do artigo 13.º do Regulamento das Condições Higiotécnicas da Recolha e Transporte de Leite.
 
 ### CAPÍTULO IV — Do controle
 
-###### Art. 80.º Às entidades responsáveis pela exploração das SCOM compete criar serviços próprios de controle que assegurem o cumprimento do presente Regulamento.
+Art. 80.º Às entidades responsáveis pela exploração das SCOM compete criar serviços próprios de controle que assegurem o cumprimento do presente Regulamento.
 
-###### Art. 81.º Esses serviços devem ser organizados de modo a permitir a vigilância efectiva de todas as SCOM e, bem assim, executar as tarefas inerentes ao seu correcto funcionamento, entre as quais são de salientar as seguintes:
+Art. 81.º Esses serviços devem ser organizados de modo a permitir a vigilância efectiva de todas as SCOM e, bem assim, executar as tarefas inerentes ao seu correcto funcionamento, entre as quais são de salientar as seguintes:
 
 a) Verificação geral do estado de limpeza e conservação dos equipamentos e do funcionamento, designadamente, dos bocais de ordenha, do pulsador e dos sistemas de vácuo e de refrigeração;
 
@@ -416,19 +471,19 @@ g) Controle das quantidades para a concentração, pela comparação com as quan
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 82.º Todas as SCOM que à data de publicação deste Regulamento ultrapassam o número máximo estipulado no artigo 10.º deste diploma funcionarão sob licenciamento a título precário, sendo atribuídos prazos para a sua regularização, caso a caso.
+Art. 82.º Todas as SCOM que à data de publicação deste Regulamento ultrapassam o número máximo estipulado no artigo 10.º deste diploma funcionarão sob licenciamento a título precário, sendo atribuídos prazos para a sua regularização, caso a caso.
 
-###### Art. 83.º A atribuição dos prazos anteriormente citados é da competência dos respectivos serviços regionais de agricultura, cabendo recurso para o Secretário de Estado do Fomento Agrário.
+Art. 83.º A atribuição dos prazos anteriormente citados é da competência dos respectivos serviços regionais de agricultura, cabendo recurso para o Secretário de Estado do Fomento Agrário.
 
-###### Art. 84.º Compete aos respectivos serviços regionais de agricultura a vigilância pelo cumprimento do determinado neste Regulamento.
+Art. 84.º Compete aos respectivos serviços regionais de agricultura a vigilância pelo cumprimento do determinado neste Regulamento.
 
 Regulamento das Condições Higiotécnicas da Recolha e Transporte de Leite
 
 ### CAPÍTULO I — Da recolha de leite
 
-###### Artigo 1.º Os locais de recolha devem situar-se nas proximidades das unidades de produção leiteira e de modo a permitir a fácil recolha pelos meios de transporte adequados.
+Artigo 1.º Os locais de recolha devem situar-se nas proximidades das unidades de produção leiteira e de modo a permitir a fácil recolha pelos meios de transporte adequados.
 
-###### Art. 2.º - 1 - São considerados como «locais de recolha», nos termos da legislação em vigor, as salas colectivas de ordenha mecânica, os estábulos colectivos e individuais e os postos de recepção de leite, tendo ainda em consideração o disposto no n.º 5 deste artigo.
+Art. 2.º - 1 - São considerados como «locais de recolha», nos termos da legislação em vigor, as salas colectivas de ordenha mecânica, os estábulos colectivos e individuais e os postos de recepção de leite, tendo ainda em consideração o disposto no n.º 5 deste artigo.
 
 2 - Entende-se por «sala colectiva de ordenha mecânica», que adiante se designa por SCOM, a instalação destinada à ordenha mecânica das vacas leiteiras de pequenas explorações existentes na sua área de influência, sempre que possível com refrigeração anexa ao local de ordenha, e cuja localização, instalação, equipamento e funcionamento obedecerão a regulamentação específica.
 
@@ -444,13 +499,13 @@ c) Separar o leite entregue por categorias e referenciar convenientemente aquele
 
 5 - Mediante proposta da entidade responsável pela recolha, e por aprovação do Ministro da Agricultura e Pescas, poderão, a título excepcional, ser considerados outros locais de recolha, desde que fiquem asseguradas a defesa da qualidade do leite e a sua classificação, para efeito de pagamento ao produtor, ouvidos o respectivo serviço regional de agricultura e a Direcção-Geral dos Serviços Veterinários.
 
-###### Art. 3.º - 1 - A instalação e a exploração das salas colectivas de ordenha mecânica e dos postos de recepção de leite e a utilização dos estábulos colectivos e individuais como locais de recolha dependem de autorização dos serviços regionais de agricultura.
+Art. 3.º - 1 - A instalação e a exploração das salas colectivas de ordenha mecânica e dos postos de recepção de leite e a utilização dos estábulos colectivos e individuais como locais de recolha dependem de autorização dos serviços regionais de agricultura.
 
 2 - Para efeitos da autorização referida, serão observadas as normas de localização, instalação e funcionamento previstas neste Regulamento, dependendo sempre de parecer favorável dos serviços regionais de agricultura, atendidas as condições de economicidade de recolha e a prevenção de eventuais sobreequipamentos.
 
 #### SECÇÃO I — Normas de processo de licenciamento
 
-###### Art. 4.º - 1 - Para ser autorizada a instalação de novos locais de recolha, as entidades responsáveis pela recolha devem apresentar ao director regional de agricultura um requerimento com as seguintes indicações:
+Art. 4.º - 1 - Para ser autorizada a instalação de novos locais de recolha, as entidades responsáveis pela recolha devem apresentar ao director regional de agricultura um requerimento com as seguintes indicações:
 
 a) Natureza e localização do local de recolha, com desenho orientado da sua implantação;
 
@@ -490,11 +545,11 @@ b) Vistoria das instalações após a sua conclusão, para 'efeitos da concessã
 
 10 - Qualquer local de recolha, conforme definido nos termos do artigo 2.º deste Regulamento, só pode funcionar após a concessão da respectiva licença sanitária.
 
-###### Art. 5.º - 1 - A falta de comunicação ao requerente, no prazo determinado no número anterior, quanto à decisão sobre o requerimento apresentado nos termos do n.º 1 do artigo 4.º deste Regulamento confere ao requerente o direito de apresentar reclamação junto do serviço regional de agricultura e de remeter cópia do mesmo ao Ministério da Agricultura e Pescas.
+Art. 5.º - 1 - A falta de comunicação ao requerente, no prazo determinado no número anterior, quanto à decisão sobre o requerimento apresentado nos termos do n.º 1 do artigo 4.º deste Regulamento confere ao requerente o direito de apresentar reclamação junto do serviço regional de agricultura e de remeter cópia do mesmo ao Ministério da Agricultura e Pescas.
 
 2 - Estabelecem-se para o prazo previsto no número anterior sessenta dias, a contar da data do ofício que acusar a recepção do requerimento, ou da data deste, no caso de não ter sido acusada a recepção.
 
-###### Art. 6.º - 1 - As referidas licenças sanitárias anuais são válidas até 31 de Dezembro do ano a que se referem.
+Art. 6.º - 1 - As referidas licenças sanitárias anuais são válidas até 31 de Dezembro do ano a que se referem.
 
 2 - A renovação anual da licença sanitária efectuar-se-á mediante requerimento dirigido ao respectivo serviço regional de agricultura, depois de este verificar que se mantêm as necessárias condições hígio-técnicas e de conservação.
 
@@ -504,13 +559,13 @@ b) Vistoria das instalações após a sua conclusão, para 'efeitos da concessã
 
 5 - A renovação anual de licença sanitária relativa a locais de recolha que não satisfaçam as inspecções dos serviços regionais de agricultura e as condições expressas neste Regulamento será concedida a título precário, até cumprimento das normas estabelecidas dentro do prazo que for fixado.
 
-###### Art. 7.º - 1 - A cada instalação será atribuído um número de ordem de inscrição pelo respectivo serviço regional de agricultura, o qual será comunicado com a respectiva localização por menção da povoação onde se localiza ou da que lhe ficar mais próxima, freguesia e concelho, às Direcções-Gerais dos Serviços Veterinários e de Extensão Rural.
+Art. 7.º - 1 - A cada instalação será atribuído um número de ordem de inscrição pelo respectivo serviço regional de agricultura, o qual será comunicado com a respectiva localização por menção da povoação onde se localiza ou da que lhe ficar mais próxima, freguesia e concelho, às Direcções-Gerais dos Serviços Veterinários e de Extensão Rural.
 
 2 - A seguir a cada um dos referidos números será anexa uma das siglas SCOM, EC, EI ou PR, conforme se trate, respectivamente, da sala colectiva de ordenha mecânica, do estábulo colectivo, do estábulo individual ou do posto de recepção.
 
 #### SECÇÃO II — Requisitos de localização
 
-###### Art. 8.º - 1 - São requisitos a observar na localização das instalações dos locais de recolha os seguintes:
+Art. 8.º - 1 - São requisitos a observar na localização das instalações dos locais de recolha os seguintes:
 
 a) Estarem situados por forma a servirem racionalmente a produção e a respectiva rede de recolha;
 
@@ -520,7 +575,7 @@ b) Ficarem afastados de locais insalubres e livres de qualquer contiguidade peri
 
 #### SECÇÃO III — Requisitos de instalação e equipamento
 
-###### Art. 9.º - 1 - São requisitos gerais a observar nas instalações dos locais de recolha:
+Art. 9.º - 1 - São requisitos gerais a observar nas instalações dos locais de recolha:
 
 a) Não terem comunicação directa com habitações;
 
@@ -536,7 +591,7 @@ f) Disporem de sistema de esgotos adequado e de aberturas interiores de escoamen
 
 2 - Se o escoamento das águas residuais ou de lavagem dos locais de recolha não puder fazer-se para a rede pública de esgotos, deverá realizar-se para fossa ou por qualquer outra forma que não prejudique a salubridade do local, devendo subordinar-se à aprovação do respectivo director de saúde do distrito ou do seu delegado concelhio.
 
-###### Art. 10.º - 1 - Os locais de recolha terão de possuir o equipamento necessário à execução das operações referidas no n.º 3 do artigo 2.º deste Regulamento, nomeadamente:
+Art. 10.º - 1 - Os locais de recolha terão de possuir o equipamento necessário à execução das operações referidas no n.º 3 do artigo 2.º deste Regulamento, nomeadamente:
 
 a) Meios adequados para a medição ou pesagem do leite;
 
@@ -548,7 +603,7 @@ b) Meios apropriados para a limpeza e lavagem das instalações e do equipamento
 
 #### SECÇÃO IV — Requisitos de funcionamento
 
-###### Art. 11.º - 1 - No funcionamento das instalações de recolha deverão ser observadas as seguintes condições:
+Art. 11.º - 1 - No funcionamento das instalações de recolha deverão ser observadas as seguintes condições:
 
 a) As operações serão ordenadas por forma que o leite não sofra alteração por deficiência de processos higiotécnicos;
 
@@ -574,7 +629,7 @@ h) Os registos das medições de leite e de outros elementos de interesse para a
 
 #### SECÇÃO I — Recipientes
 
-###### Art. 12.º Os recipientes a utilizar na recolha e transporte de leite deverão satisfazer os seguintes requisitos:
+Art. 12.º Os recipientes a utilizar na recolha e transporte de leite deverão satisfazer os seguintes requisitos:
 
 a) Serem resistentes e inoxidáveis ou, pelo menos, revestidos com material com essas propriedades;
 
@@ -582,7 +637,7 @@ b) Serem completamente lisos e livres de quaisquer arestas vivas ou anfractuosid
 
 c) Não comportarem juntas de vedação que não sejam de material adequado, inabsorvente e esterilizável.
 
-###### Art. 13.º - 1 - Os recipientes para o transporte de leite a partir dos locais de recolha só poderão ser dos seguintes tipos:
+Art. 13.º - 1 - Os recipientes para o transporte de leite a partir dos locais de recolha só poderão ser dos seguintes tipos:
 
 a) Bilhas de modelo aprovado pela Direcção-Geral dos Serviços Veterinários, que satisfaçam os requisitos do artigo anterior;
 
@@ -600,7 +655,7 @@ d) Usarem na vedação das aberturas apenas tampas ou válvulas perfeitamente ad
 
 e) Possuírem revestimento exterior resistente à acção atmosférica e a outros agentes de corrosão pela própria natureza do material ou por recurso a camada de tinta.
 
-###### Art. 14.º - 1 - Todos os recipientes de leite do local de recolha acabados de servir devem ser convenientemente lavados e desinfectados, mas quando não o possam ser imediatamente serão, pelo menos, enxaguados com jactos de água fria, escorridos e mantidos destapados até à sua lavagem e desinfecção definitivas.
+Art. 14.º - 1 - Todos os recipientes de leite do local de recolha acabados de servir devem ser convenientemente lavados e desinfectados, mas quando não o possam ser imediatamente serão, pelo menos, enxaguados com jactos de água fria, escorridos e mantidos destapados até à sua lavagem e desinfecção definitivas.
 
 2 - Depois de limpos, os recipientes devem encontrar-se isentos de restos de leite ou de quaisquer detritos, bem escorridos e desinfectados.
 
@@ -608,35 +663,35 @@ e) Possuírem revestimento exterior resistente à acção atmosférica e a outro
 
 #### SECÇÃO II — Transporte
 
-###### Art. 15.º O transporte de leite não poderá demorar mais tempo do que o naturalmente aconselhável para a preservação da sua qualidade, com acentuado realce para o leite não refrigerado, e será efectuado nas melhores condições possíveis de resguardo e temperatura.
+Art. 15.º O transporte de leite não poderá demorar mais tempo do que o naturalmente aconselhável para a preservação da sua qualidade, com acentuado realce para o leite não refrigerado, e será efectuado nas melhores condições possíveis de resguardo e temperatura.
 
-###### Art. 16.º Quando da entrega nos postos de recepção, não é permitido aos produtores fazer apresentação conjunta de leite de duas ou mais ordenhas, devendo a produção de cada uma delas entrar nos referidos postos dentro do período máximo de uma hora após terminada a ordenha, caso o leite não seja refrigerado no próprio estábulo.
+Art. 16.º Quando da entrega nos postos de recepção, não é permitido aos produtores fazer apresentação conjunta de leite de duas ou mais ordenhas, devendo a produção de cada uma delas entrar nos referidos postos dentro do período máximo de uma hora após terminada a ordenha, caso o leite não seja refrigerado no próprio estábulo.
 
-###### Art. 17.º No transporte dos recipientes contendo leite deverá observar-se que os mesmos sejam mantidos convenientemente tapados e estejam, salvo se se tratar de recipientes isotérmicos, ao abrigo da acção directa dos raios solares.
+Art. 17.º No transporte dos recipientes contendo leite deverá observar-se que os mesmos sejam mantidos convenientemente tapados e estejam, salvo se se tratar de recipientes isotérmicos, ao abrigo da acção directa dos raios solares.
 
-###### Art. 18.º - 1 - Os tanques não podem ser utilizados para transporte de outros produtos.
+Art. 18.º - 1 - Os tanques não podem ser utilizados para transporte de outros produtos.
 
 2 - Admite-se o transporte de água de abastecimento em situações de emergência.
 
-###### Art. 19.º - 1 - Os veículos empregados no transporte de leite não poderão ter simultaneamente outra utilização, salvo autorização especial dada pelos serviços regionais de agricultura e da qual conste a natureza do produto transportado e o modo de embalagem utilizado.
+Art. 19.º - 1 - Os veículos empregados no transporte de leite não poderão ter simultaneamente outra utilização, salvo autorização especial dada pelos serviços regionais de agricultura e da qual conste a natureza do produto transportado e o modo de embalagem utilizado.
 
 2 - Mesmo quando não estejam sendo utilizados no transporte de leite, os veículos que a este fim se destinam não poderão servir para transportar estrumes, detritos e produtos tóxicos ou de difícil limpeza.
 
-###### Art. 20.º No acto de transporte de leite os veículos devem apresentar-se em perfeitas condições de asseio.
+Art. 20.º No acto de transporte de leite os veículos devem apresentar-se em perfeitas condições de asseio.
 
 ### CAPÍTULO III — Disposições gerais e penais
 
-###### Art. 21.º Entende-se por «instalação de recolha», no caso das salas colectivas de ordenha mecânica e dos estábulos individuais e colectivos quando funcionando como locais de recolha, a parte respeitante à sala do leite, sempre diferenciada e devidamente protegida das restantes divisões contíguas, obedecendo às condições higiotécnicas regulamentares e às determinadas pelos respectivos serviços regionais de agricultura.
+Art. 21.º Entende-se por «instalação de recolha», no caso das salas colectivas de ordenha mecânica e dos estábulos individuais e colectivos quando funcionando como locais de recolha, a parte respeitante à sala do leite, sempre diferenciada e devidamente protegida das restantes divisões contíguas, obedecendo às condições higiotécnicas regulamentares e às determinadas pelos respectivos serviços regionais de agricultura.
 
-###### Art. 22.º - 1 - Serão suspensas como locais de recolha todas as instalações que estejam a funcionar sem a necessária autorização ou aprovação dos respectivos serviços regionais de agricultura se, findo o prazo de noventa dias, não for regularizada a sua situação perante aqueles serviços ou não for dado cumprimento às suas instruções.
+Art. 22.º - 1 - Serão suspensas como locais de recolha todas as instalações que estejam a funcionar sem a necessária autorização ou aprovação dos respectivos serviços regionais de agricultura se, findo o prazo de noventa dias, não for regularizada a sua situação perante aqueles serviços ou não for dado cumprimento às suas instruções.
 
 2 - A suspensão pode ser acompanhada de selagem do respectivo equipamento ou da própria instalação, se for caso disso, nos casos dos postos de recepção e das salas colectivas de ordenha mecânica.
 
 3 - Da verificação da ocorrência e do procedimento aplicado será lavrado auto de notícia pelo funcionário competente dos serviços regionais de agricultura.
 
-###### Art. 23.º Os serviços regionais de agricultura darão oportunamente conhecimento às Direcções-Gerais dos Serviços Veterinários e de Extensão Rural do encerramento dos locais de recolha e, resumidamente, das razões que lhe presidiram.
+Art. 23.º Os serviços regionais de agricultura darão oportunamente conhecimento às Direcções-Gerais dos Serviços Veterinários e de Extensão Rural do encerramento dos locais de recolha e, resumidamente, das razões que lhe presidiram.
 
-###### Art. 24.º Ficam os serviços regionais de agricultura, na área da sua jurisdição, com poderes para punir:
+Art. 24.º Ficam os serviços regionais de agricultura, na área da sua jurisdição, com poderes para punir:
 
 a) Com multa de 5000$00 a 10000$00 os que não realizarem no prazo marcado as obras que lhes forem indicadas;
 
@@ -648,11 +703,11 @@ d) Com multa de 500$00 a 5000$00 os que não observarem qualquer das prescriçõ
 
 e) Com multa de 100$00 a 1000$00, por cada recipiente, os que utilizarem vasilhame que não satisfaça os requisitos constantes deste Regulamento.
 
-###### Art. 25.º - 1 - Quando se trate de bilhas vazias ou com leite e nos termos do artigo 34.º do [Decreto n.º 16130](https://diariodarepublica.pt/dr/detalhe/decreto/16130-1928-604245), de 9 de Novembro de 1928, acresce à multa prevista na alínea a) do artigo 24.º deste Regulamento a apreensão do leite e das bilhas, que poderá ser feita com perda ou não da propriedade a favor do Estado, conforme a gravidade do caso.
+Art. 25.º - 1 - Quando se trate de bilhas vazias ou com leite e nos termos do artigo 34.º do [Decreto n.º 16130](https://diariodarepublica.pt/dr/detalhe/decreto/16130-1928-604245), de 9 de Novembro de 1928, acresce à multa prevista na alínea a) do artigo 24.º deste Regulamento a apreensão do leite e das bilhas, que poderá ser feita com perda ou não da propriedade a favor do Estado, conforme a gravidade do caso.
 
 2 - Quando se trate de material insusceptível de beneficiação para o fim a que se destina, o recipiente pode ser inutilizado.
 
-###### Art. 26.º - 1 - Das decisões do director regional de agricultura cabe recurso para o Ministro da Agricultura e Pescas, a interpor no prazo de dez dias.
+Art. 26.º - 1 - Das decisões do director regional de agricultura cabe recurso para o Ministro da Agricultura e Pescas, a interpor no prazo de dez dias.
 
 2 - O prazo referido no número anterior contar-se-á a partir da data em que o interessado tomou conhecimento da decisão de que recorre.
 
@@ -660,13 +715,13 @@ Regulamento dos Centros de Concentração de Leite
 
 ### CAPÍTULO I — Definição
 
-###### Artigo 1.º Entendem-se por «centros de concentração de leite» as instalações nas quais são praticadas as operações adiante descritas no artigo 15.º
+Artigo 1.º Entendem-se por «centros de concentração de leite» as instalações nas quais são praticadas as operações adiante descritas no artigo 15.º
 
-###### Art. 2.º Para efeitos de aprovação dos referidos centros, serão observadas as normas de processo de licenciamento e os requisites de localização, instalação, equipamento e funcionamento que neste Regulamento se especificam.
+Art. 2.º Para efeitos de aprovação dos referidos centros, serão observadas as normas de processo de licenciamento e os requisites de localização, instalação, equipamento e funcionamento que neste Regulamento se especificam.
 
 ### CAPÍTULO II — Normas de processo de licenciamento
 
-###### Art. 3.º - 1 - As entidades habilitadas à exploração de centros de concentração de leite devem, quando interessadas, solicitar a necessária autorização em requerimento dirigido ao Ministro da Agricultura e Pescas e remetido do director regional de agricultura respectivo, do qual conste:
+Art. 3.º - 1 - As entidades habilitadas à exploração de centros de concentração de leite devem, quando interessadas, solicitar a necessária autorização em requerimento dirigido ao Ministro da Agricultura e Pescas e remetido do director regional de agricultura respectivo, do qual conste:
 
 a) Designação do requerente e sua sede social;
 
@@ -678,7 +733,7 @@ d) Destinos do leite.
 
 2 - O requerimento referido será acompanhado do projecto de instalação, em sextuplicado, contendo peças desenhadas na escala de 1:100 e memória descritiva suficiente para permitir a sua apreciação conveniente, incluindo a indicação do equipamento a instalar.
 
-###### Art. 4.º - 1 - O director regional de agricultura enviará cópia do requerimento e um exemplar do projecto das instalações a cada uma das entidades a seguir indicadas:
+Art. 4.º - 1 - O director regional de agricultura enviará cópia do requerimento e um exemplar do projecto das instalações a cada uma das entidades a seguir indicadas:
 
 a) Director-geral das Indústrias Agrícolas Alimentares;
 
@@ -692,19 +747,19 @@ d) Câmara municipal respectiva.
 
 3 - Na reunião com os objectivos referidos no número anterior será elaborado um parecer assinado por todos os intervenientes.
 
-###### Art. 5.º - 1 - O director regional de agricultura submeterá o requerimento referido no n.º 1 do artigo 3.º deste Regulamento a despacho do Ministro da Agricultura e Pescas, no caso de o parecer a emitir nos termos do artigo anterior ser favorável.
+Art. 5.º - 1 - O director regional de agricultura submeterá o requerimento referido no n.º 1 do artigo 3.º deste Regulamento a despacho do Ministro da Agricultura e Pescas, no caso de o parecer a emitir nos termos do artigo anterior ser favorável.
 
 2 - Neste caso, o director regional de agricultura enviará ao Ministro da Agricultura e Pescas, juntamente com o requerimento, um exemplar do projecto e a cópia do parecer, dando ulteriormente conhecimento à entidade interessada e aos intervenientes na reunião do teor da decisão ministerial.
 
 3 - No caso de parecer desfavorável, o director regional de agricultura dará conhecimento do mesmo à entidade interessada, a fim de que esta possa proceder às alterações necessárias.
 
-###### Art. 6.º - 1 - Concluída que esteja a instalação, obriga-se a entidade habilitada a não dar início à sua exploração sem prévia vistoria, que solicitará ao respectivo director regional de agricultura, o qual promoverá e participará na mesma com os representantes das entidades citadas no n.º 1 do artigo 4.º
+Art. 6.º - 1 - Concluída que esteja a instalação, obriga-se a entidade habilitada a não dar início à sua exploração sem prévia vistoria, que solicitará ao respectivo director regional de agricultura, o qual promoverá e participará na mesma com os representantes das entidades citadas no n.º 1 do artigo 4.º
 
 2 - Desta vistoria, que se destina a verificar se a instalação foi concluída de acordo com o projecto aprovado, será lavrado auto com o número de cópias necessárias para serem entregues a cada uma das entidades participantes e ao interessado, ficando os respectivos serviços regionais de agricultura incumbidos da sua elaboração e distribuição.
 
-###### Art. 7.º Sendo a vistoria satisfatória e observados os demais requisitos legais, o director regional de agricultura respectivo procederá ao primeiro licenciamento necessário ao funcionamento do centro de concentração de leite, fazendo menção dos números de registo na Direcção-Geral das Indústrias Agrícolas Alimentares e na Direcção-Geral dos Serviços Veterinários.
+Art. 7.º Sendo a vistoria satisfatória e observados os demais requisitos legais, o director regional de agricultura respectivo procederá ao primeiro licenciamento necessário ao funcionamento do centro de concentração de leite, fazendo menção dos números de registo na Direcção-Geral das Indústrias Agrícolas Alimentares e na Direcção-Geral dos Serviços Veterinários.
 
-###### Art. 8.º - 1 - O primeiro licenciamento é válido até 31 de Dezembro do respectivo ano e renovável anualmente, por solicitação da entidade que detém o respectivo direito de fruição e administração do centro de concentração, até 30 de Novembro do ano precedente àquele a que se refere a renovação.
+Art. 8.º - 1 - O primeiro licenciamento é válido até 31 de Dezembro do respectivo ano e renovável anualmente, por solicitação da entidade que detém o respectivo direito de fruição e administração do centro de concentração, até 30 de Novembro do ano precedente àquele a que se refere a renovação.
 
 2 - O respectivo serviço regional de agricultura procederá à referida renovação, se nada houver em contrário, pela emissão de uma licença que vigorará de 1 de Janeiro a 31 de Dezembro.
 
@@ -712,11 +767,11 @@ d) Câmara municipal respectiva.
 
 4 - A licença poderá ser retirada ou suspensa a sua renovação se nas inspecções referidas for verificado que o estabelecimento não mantém as necessárias condições higiotécnicas de laboração.
 
-###### Art. 9.º Os centros de concentração que à data da publicação do presente Regulamento se encontrem em laboração ficarão sujeitos a uma vistoria conjunta das Direcções-Gerais das Indústrias Agrícolas Alimentares e dos Serviços Veterinários e da direcção regional de agricultura respectiva para efeitos de confirmação dos licenciamentos, sendo admissível o seu funcionamento a título provisório até à conclusão das alterações exigidas.
+Art. 9.º Os centros de concentração que à data da publicação do presente Regulamento se encontrem em laboração ficarão sujeitos a uma vistoria conjunta das Direcções-Gerais das Indústrias Agrícolas Alimentares e dos Serviços Veterinários e da direcção regional de agricultura respectiva para efeitos de confirmação dos licenciamentos, sendo admissível o seu funcionamento a título provisório até à conclusão das alterações exigidas.
 
 ### CAPÍTULO III — Requisitos de localização
 
-###### Art. 10.º São requisitos a observar na localização dos centros de concentração os seguintes:
+Art. 10.º São requisitos a observar na localização dos centros de concentração os seguintes:
 
 a) Estarem situados por forma a servirem o mais cómoda e rapidamente possível os principais núcleos de produção e locais de recolha da respectiva área de influência, fixada por portaria do Ministro da Agricultura e Pescas;
 
@@ -726,7 +781,7 @@ c) Terem fácil acesso pelas vias de comunicação da região.
 
 ### CAPÍTULO IV — Requisitos de instalação e equipamento
 
-###### Art. 11.º - 1 - São requisitos gerais a observar na instalação dos centros de concentração os seguintes:
+Art. 11.º - 1 - São requisitos gerais a observar na instalação dos centros de concentração os seguintes:
 
 a) Terem capacidade, dependências e apetrechamento adequados à importância da exploração;
 
@@ -750,7 +805,7 @@ j) Disporem de dependências com espaço suficiente para as secções de produç
 
 2 - Se o escoamento das águas residuais ou de lavagem dos centros não puder fazer-se para a rede de esgoto público, esse escoamento deverá realizar-se para fossa ou por qualquer outra forma que não prejudique a salubridade do local ou da vizinhança e esteja de acordo com as exigências do director de saúde do distrito ou do seu delegado concelhio.
 
-###### Art. 12.º Os centros terão o equipamento necessário à perfeita execução das operações indicadas no artigo 15.º, devendo dispor de:
+Art. 12.º Os centros terão o equipamento necessário à perfeita execução das operações indicadas no artigo 15.º, devendo dispor de:
 
 a) Meios adequados à recepção, medição e ou pesagem de leite;
 
@@ -774,7 +829,7 @@ j) Equipamento de produção de frio de capacidade adequada para assegurar, em t
 
 l) Gerador de vapor de capacidade adequada às necessidades de funcionamento do centro.
 
-###### Art. 13.º Deverá observar-se que:
+Art. 13.º Deverá observar-se que:
 
 a) As superfícies em contacto com o leite sejam de material apropriado, perfeitamente polido, sem arestas ou anfractuosidades que dificultem a limpeza e esterilização, não atacável pelo ácido láctico nem pelos produtos normalmente utilizados nas operações de lavagem, esterilização e desincrustação;
 
@@ -782,7 +837,7 @@ b) As juntas dos dispositivos de condução ou tratamento do leite assegurem a e
 
 ### CAPÍTULO V — Requisitos de funcionamento
 
-###### Art. 14.º No funcionamento dos centros deverão ser observados os seguintes requisitos:
+Art. 14.º No funcionamento dos centros deverão ser observados os seguintes requisitos:
 
 a) As operações serão ordenadas por forma que o produto não sofra alterações por perdas de tempo escusadas ou por deficiência de processos higiotécnicos, devendo, para o leite não refrigerado previamente, o período de tempo que decorrer entre o início da recolha e o início da refrigeração no centro de concentração não ser superior a três horas;
 
@@ -798,7 +853,7 @@ f) O pessoal suspeito de doença infecto-contagiosa será suspenso da sua activi
 
 g) Os registos de laboração dos centros de concentração e os de análises dos leites serão mantidos em dia, devendo os respectivos elementos ser remetidos periodicamente aos respectivos directores regionais de agricultura, os quais providenciarão no sentido de os mesmos serem facultados ou remetidos às Direcções-Gerais dos Serviços Veterinários e das Indústrias Agrícolas Alimentares e aos Serviços de Lacticínios da Junta Nacional dos Produtos Pecuários ou organismo que a venha a substituir, segundo protocolo que vier a ser estabelecido entre representantes dos serviços centrais e regionais.
 
-###### Art. 15.º - 1 - Nos centros de concentração deverão realizar-se as seguintes operações:
+Art. 15.º - 1 - Nos centros de concentração deverão realizar-se as seguintes operações:
 
 a) Recepção, inspecção, colheita de amostras, medição e ou pesagem de leite, devidamente separado por lotes de qualidade segundo a regulamentação específica em vigor, quer se trate de leite refrigerado ou não, proveniente da recolha da respectiva área de influência;
 
@@ -822,19 +877,19 @@ i) Venda do leite, e eventualmente de nata, quando praticada a normalização do
 
 ### CAPÍTULO VI — Disposições gerais e penais
 
-###### Art. 16.º Os centros de tratamento e as fábricas de lacticínios, desde que seja satisfeito o consignado na alínea a) do artigo 10.º deste Regulamento, poderão ser autorizados a funcionar como centro de concentração, seguindo-se as normas do processo de licenciamento previstas no capítulo II do presente Regulamento.
+Art. 16.º Os centros de tratamento e as fábricas de lacticínios, desde que seja satisfeito o consignado na alínea a) do artigo 10.º deste Regulamento, poderão ser autorizados a funcionar como centro de concentração, seguindo-se as normas do processo de licenciamento previstas no capítulo II do presente Regulamento.
 
-###### Art. 17.º - 1 - Os centros de concentração poderão também, desde que devidamente autorizados pelo respectivo director regional de agricultura, receber leite de outras espécies, uma vez que possuam linhas de funcionamento independentes ou desde que a recepção desses leites seja feita após a recepção do leite de vaca e a armazenagem seja feita em depósitos isotérmicos devidamente identificados.
+Art. 17.º - 1 - Os centros de concentração poderão também, desde que devidamente autorizados pelo respectivo director regional de agricultura, receber leite de outras espécies, uma vez que possuam linhas de funcionamento independentes ou desde que a recepção desses leites seja feita após a recepção do leite de vaca e a armazenagem seja feita em depósitos isotérmicos devidamente identificados.
 
 2 - A autorização referida no número anterior só será concedida após parecer favorável das Direcções-Gerais das Indústrias Agrícolas Alimentares e dos Serviços Veterinários.
 
-###### Art. 18.º Dependem de aprovação da Direcção-Geral dos Serviços Veterinários os horários de funcionamento dos centros de concentração, sem prejuízo da demais legislação aplicável.
+Art. 18.º Dependem de aprovação da Direcção-Geral dos Serviços Veterinários os horários de funcionamento dos centros de concentração, sem prejuízo da demais legislação aplicável.
 
-###### Art. 19.º - 1 - Não é permitido utilizar as dependências dos centros de concentração para uso diverso daquele a que se destinam nem manter nas mesmas produtos ou materiais estranhos às respectivas instalações ou funcionamento.
+Art. 19.º - 1 - Não é permitido utilizar as dependências dos centros de concentração para uso diverso daquele a que se destinam nem manter nas mesmas produtos ou materiais estranhos às respectivas instalações ou funcionamento.
 
 2 - Nos terrenos próprios do centro de tratamento e até à distância mínima de 200 m dos locais onde se trate, manipule ou armazene leite e, eventualmente, seus derivados não poderão existir instalações pecuárias ou outras que pela sua natureza possam ocasionar cheiros estranhos ou ser foco de reprodução de insectos ou de roedores.
 
-###### Art. 20.º - 1 - Poderá ser suspensa a laboração, por meio de selagem do equipamento ou da própria instalação, dos centros de concentração que estejam a funcionar:
+Art. 20.º - 1 - Poderá ser suspensa a laboração, por meio de selagem do equipamento ou da própria instalação, dos centros de concentração que estejam a funcionar:
 
 a) Sem o necessário licenciamento;
 
@@ -844,7 +899,7 @@ c) Sem cumprimento de instruções emanadas dos serviços competentes ou de disp
 
 2 - A suspensão pode ser parcial e localizada, incidindo a selagem sobre o equipamento em causa ou sector das instalações.
 
-###### Art. 21.º As transgressões ao presente Regulamento serão punidas:
+Art. 21.º As transgressões ao presente Regulamento serão punidas:
 
 a) Com multa de 5000$00 a 10000$00 os que não realizarem no prazo marcado as obras de transformação que lhes forem indicadas;
 
@@ -852,11 +907,11 @@ b) Com multa de 5000$00 por cada empregado verificadamente doente ou que não es
 
 c) Com multa de 5000$00 a 10000$00 os que não cumprirem as prescrições higiotécnicas a observar no funcionamento dos centros ou se opuserem à execução dos preceitos contidos neste Regulamento.
 
-###### Art. 22.º - 1 - As acções de suspensão e de aplicação das multas previstas nos artigos anteriores, independentemente da competência da Direcção-Geral de Saúde no sector, poderão ser executadas pelas Direcções-Gerais das Indústrias Agrícolas Alimentares e dos Serviços Veterinários ou pelos serviços regionais de agricultura.
+Art. 22.º - 1 - As acções de suspensão e de aplicação das multas previstas nos artigos anteriores, independentemente da competência da Direcção-Geral de Saúde no sector, poderão ser executadas pelas Direcções-Gerais das Indústrias Agrícolas Alimentares e dos Serviços Veterinários ou pelos serviços regionais de agricultura.
 
 2 - Em qualquer dos casos, os serviços actuantes do Ministério da Agricultura e Pescas deverão comunicar aos dois outros serviços competentes a actuação havida, para efeitos de coordenação das acções a desenvolver.
 
-###### Art. 23.º - 1 - Das decisões do director regional de agricultura cabe recurso para o Ministro da Agricultura e Pescas, a interpor no prazo de dez dias.
+Art. 23.º - 1 - Das decisões do director regional de agricultura cabe recurso para o Ministro da Agricultura e Pescas, a interpor no prazo de dez dias.
 
 2 - O prazo referido no número anterior contar-se-á a partir da data em que o interessado tomar conhecimento da decisão de que recorre.
 
@@ -864,13 +919,13 @@ Regulamento dos Centros de Tratamento de Leite
 
 ### CAPÍTULO I — Definição
 
-###### Artigo 1.º Entendem-se por «centros de tratamento de leite» as instalações onde, nos termos da legislação em vigor, se procede à preparação do leite e natas para o abastecimento público pelos sistemas oficialmente aprovados e onde são praticadas as operações adiante descritas no artigo 15.º
+Artigo 1.º Entendem-se por «centros de tratamento de leite» as instalações onde, nos termos da legislação em vigor, se procede à preparação do leite e natas para o abastecimento público pelos sistemas oficialmente aprovados e onde são praticadas as operações adiante descritas no artigo 15.º
 
-###### Art. 2.º Para efeitos de aprovação dos referidos centros serão observadas as normas de processo de licenciamento e os requisitos de localização, instalação, equipamento e funcionamento que neste Regulamento se especificam.
+Art. 2.º Para efeitos de aprovação dos referidos centros serão observadas as normas de processo de licenciamento e os requisitos de localização, instalação, equipamento e funcionamento que neste Regulamento se especificam.
 
 ### CAPÍTULO II — Normas de processo de licenciamento
 
-###### Art. 3.º - 1 - As entidades, singulares ou colectivas, interessadas na exploração de centros de tratamento de leite devem solicitar a necessária autorização em requerimento, dirigido ao Ministro da Agricultura e Pescas e remetido ao director regional de agricultura respectivo, do qual conste:
+Art. 3.º - 1 - As entidades, singulares ou colectivas, interessadas na exploração de centros de tratamento de leite devem solicitar a necessária autorização em requerimento, dirigido ao Ministro da Agricultura e Pescas e remetido ao director regional de agricultura respectivo, do qual conste:
 
 a) Designação do requerente e sua sede social;
 
@@ -884,7 +939,7 @@ e) Destinos do leite e das natas.
 
 2 - O requerimento referido será acompanhado do projecto da instalação, em sextuplicado, contendo peças desenhadas na escala de 1:100 e memória descritiva suficiente para permitir a sua apreciação conveniente, incluindo a indicação do equipamento a instalar.
 
-###### Art. 4.º - 1 - O director regional de agricultura enviará cópia do requerimento e um exemplar do projecto das instalações a cada uma das entidades a seguir indicadas:
+Art. 4.º - 1 - O director regional de agricultura enviará cópia do requerimento e um exemplar do projecto das instalações a cada uma das entidades a seguir indicadas:
 
 a) Direcção-Geral das Indústrias Agrícolas Alimentares;
 
@@ -898,19 +953,19 @@ d) Câmara municipal respectiva.
 
 3 - Na reunião com os objectivos referidos no número anterior será elaborado um parecer, assinado por todos os intervenientes.
 
-###### Art. 5.º - 1 - O director regional de agricultura só submeterá o requerimento referido no n.º 1 do artigo 3.º deste Regulamento a despacho do Ministro da Agricultura e Pescas no caso de o parecer a emitir nos termos do artigo anterior ser favorável.
+Art. 5.º - 1 - O director regional de agricultura só submeterá o requerimento referido no n.º 1 do artigo 3.º deste Regulamento a despacho do Ministro da Agricultura e Pescas no caso de o parecer a emitir nos termos do artigo anterior ser favorável.
 
 2 - Neste caso, o director regional de agricultura enviará ao Ministro da Agricultura e Pescas, juntamente com o requerimento, um exemplar do projecto e a cópia do parecer, dando ulteriormente conhecimento à entidade interessada e aos intervenientes da reunião do teor da decisão ministerial.
 
 3 - No caso de parecer desfavorável, o director regional de agricultura dará conhecimento do mesmo à entidade interessada a fim de que esta possa proceder às alterações necessárias.
 
-###### Art. 6.º - 1 - Concluída que esteja a instalação, obriga-se o seu proprietário a não dar início à sua exploração sem prévia vistoria, que solicitará ao respectivo director regional de agricultura, o qual promoverá e participará na mesma com os representantes das entidades citadas no n.º 1 do artigo 4.º
+Art. 6.º - 1 - Concluída que esteja a instalação, obriga-se o seu proprietário a não dar início à sua exploração sem prévia vistoria, que solicitará ao respectivo director regional de agricultura, o qual promoverá e participará na mesma com os representantes das entidades citadas no n.º 1 do artigo 4.º
 
 2 - Desta vistoria, que se destina a verificar se a instalação foi concluída de acordo com o projecto aprovado, será lavrado auto com o número de cópias necessárias para serem entregues a cada uma das entidades participantes e ao interessado, ficando os respectivos serviços regionais de agricultura incumbidos da sua elaboração e distribuição.
 
-###### Art. 7.º Sendo a vistoria satisfatória e observados os demais requisitos legais, o director regional de agricultura respectivo procederá ao primeiro licenciamento necessário ao funcionamento do centro de tratamento de leite, fazendo menção dos números de registo na Direcção-Geral das Indústrias Agrícolas Alimentares e na Direcção-Geral dos Serviços Veterinários.
+Art. 7.º Sendo a vistoria satisfatória e observados os demais requisitos legais, o director regional de agricultura respectivo procederá ao primeiro licenciamento necessário ao funcionamento do centro de tratamento de leite, fazendo menção dos números de registo na Direcção-Geral das Indústrias Agrícolas Alimentares e na Direcção-Geral dos Serviços Veterinários.
 
-###### Art. 8.º - 1 - O primeiro licenciamento é válido até 31 de Dezembro do respectivo ano e renovável anualmente, por solicitação da entidade que detém o respectivo direito de fruição e administração do centro de tratamento, até 30 de Novembro do ano precedente àquele a que se refere a renovação.
+Art. 8.º - 1 - O primeiro licenciamento é válido até 31 de Dezembro do respectivo ano e renovável anualmente, por solicitação da entidade que detém o respectivo direito de fruição e administração do centro de tratamento, até 30 de Novembro do ano precedente àquele a que se refere a renovação.
 
 2 - O respectivo serviço regional de agricultura procederá à referida renovação, se nada houver em contrário, pela emissão de uma licença que vigorará de 1 de Janeiro a 31 de Dezembro.
 
@@ -918,11 +973,11 @@ d) Câmara municipal respectiva.
 
 4 - A licença poderá ser retirada ou suspensa a sua renovação se, nas inspecções referidas, for verificado que o estabelecimento não mantém as necessárias condições higiotécnicas de laboração.
 
-###### Art. 9.º Os centros de tratamento que à data da publicação do presente Regulamento se encontrem em laboração ficarão sujeitos a uma vistoria conjunta das Direcções-Gerais das Indústrias Agrícolas Alimentares e dos Serviços Veterinários e da direcção regional de agricultura respectiva para efeito de confirmação dos licenciamentos, sendo admissível o seu funcionamento a título provisório até à conclusão das alterações exigidas.
+Art. 9.º Os centros de tratamento que à data da publicação do presente Regulamento se encontrem em laboração ficarão sujeitos a uma vistoria conjunta das Direcções-Gerais das Indústrias Agrícolas Alimentares e dos Serviços Veterinários e da direcção regional de agricultura respectiva para efeito de confirmação dos licenciamentos, sendo admissível o seu funcionamento a título provisório até à conclusão das alterações exigidas.
 
 ### CAPÍTULO III — Requisitos de localização
 
-###### Art. 10.º São requisitos a observar na localização dos centros de tratamento os seguintes:
+Art. 10.º São requisitos a observar na localização dos centros de tratamento os seguintes:
 
 a) Estarem afastados de locais insalubres e livres de qualquer contiguidade perigosa, dispondo de zona de protecção sanitária adequada;
 
@@ -930,7 +985,7 @@ b) Terem fácil acesso pelas vias de comunicação da região.
 
 ### CAPÍTULO IV — Requisitos de instalação e equipamento
 
-###### Art. 11.º - 1 - São requisitos gerais a observar na instalação dos centros de tratamento os seguintes:
+Art. 11.º - 1 - São requisitos gerais a observar na instalação dos centros de tratamento os seguintes:
 
 a) Terem capacidade, dependências e apetrechamento adequados à importância da exploração;
 
@@ -956,7 +1011,7 @@ l) Disporem de dependências com espaço suficiente para as secções de produç
 
 2 - Se o escoamento das águas residuais ou de lavagem dos centros não puder fazer-se para a rede de esgoto público, esse escoamento deverá realizar-se para fossa ou por qualquer outra forma que não prejudique a salubridade do local ou da vizinhança e esteja de acordo com as exigências do director de saúde do distrito ou do delegado concelhio.
 
-###### Art. 12.º Os centros de tratamento terão o equipamento necessário às operações indicadas no artigo 15.º, devendo dispor de:
+Art. 12.º Os centros de tratamento terão o equipamento necessário às operações indicadas no artigo 15.º, devendo dispor de:
 
 a) Meios adequados à recepção, medição e ou pesagem de leite recebido;
 
@@ -986,7 +1041,7 @@ n) Câmaras frigoríficas para armazenamento do leite pasteurizado, sempre que e
 
 o) Gerador de vapor de capacidade adequada às necessidades de funcionamento do centro de tratamento.
 
-###### Art. 13.º Deverá observar-se que:
+Art. 13.º Deverá observar-se que:
 
 a) As superfícies em contacto com o leite sejam de material apropriado, perfeitamente polido, sem arestas ou anfractuosidades que dificultem a limpeza e esterilização, não atacável pelo ácido láctico nem pelos produtos normalmente utilizados nas operações de lavagem, esterilização e desincrustação;
 
@@ -994,7 +1049,7 @@ b) As juntas dos dispositivos de condução ou tratamento do leite assegurem a e
 
 ### CAPÍTULO V — Requisitos de funcionamento
 
-###### Art. 14.º No funcionamento dos centros de tratamento deverão ser observados os seguintes requisitos:
+Art. 14.º No funcionamento dos centros de tratamento deverão ser observados os seguintes requisitos:
 
 a) As operações serão ordenadas por forma que o produto não sofra alterações por perdas de tempo escusadas ou por deficiência de processos higiotécnicos;
 
@@ -1010,7 +1065,7 @@ f) O pessoal suspeito de doença infecto-contagiosa será suspenso da sua activi
 
 g) Os registos de laboração dos centros de tratamento e os de análise dos leites serão mantidos em dia, devendo os respectivos elementos ser remetidos periodicamente aos respectivos directores regionais de agricultura, os quais providenciarão no sentido de os mesmos serem facultados ou remetidos às Direcções-Gerais dos Serviços Veterinários e das Indústrias Agrícolas Alimentares e aos Serviços de Lacticínios da Junta Nacional dos Produtos Pecuários, ou organismo que a venha a substituir, segundo protocolo que vier a ser estabelecido entre representantes dos serviços centrais e regionais.
 
-###### Art. 15.º - 1 - Nos centros de tratamento deverão realizar-se as seguintes operações:
+Art. 15.º - 1 - Nos centros de tratamento deverão realizar-se as seguintes operações:
 
 a) Recepção, colheita de amostras, medição e ou pesagem dos leites refrigerados provenientes dos centros de concentração.
 
@@ -1034,7 +1089,7 @@ j) Recolha, em vasilhame devidamente assinalado, do leite anormal ou que for dad
 
 2 - O centro de tratamento deverá garantir as análises de controle dos produtos obtidos, dos produtos utilizados na lavagem e desinfecção do equipamento para comprovar a respectiva qualidade e da água utilizada na lavagem e enxaguamento do equipamento que contacta com o leite para comprovar a respectiva potabilidade e adequadas características físico-químicas.
 
-###### Art. 16.º Nos centros de tratamento poderão realizar-se, facultativamente, as seguintes operações:
+Art. 16.º Nos centros de tratamento poderão realizar-se, facultativamente, as seguintes operações:
 
 a) Preparação de leites compostos e aromatizados e seu tratamento e embalagem por processos oficialmente aprovados;
 
@@ -1042,15 +1097,15 @@ b) Tratamento e embalagem de natas para consumo em natureza.
 
 ### CAPÍTULO VI — Disposições gerais e penais
 
-###### Art. 17.º Poderão ser autorizados a funcionar como centros de tratamento as fábricas de lacticínios que obedeçam aos requisitos de localização, instalação e funcionamento, que sigam as normas do processo de licenciamento previstos neste Regulamento e cujo equipamento, condições de recepção, medição ou pesagem, tratamento, embalagem e armazenamento satisfaçam também as exigências determinadas tendo em conta a preservação de contaminações com lotes inadequados de leite, derivados lácteos e outros produtos estranhos à preparação do leite tratado para abastecimento público.
+Art. 17.º Poderão ser autorizados a funcionar como centros de tratamento as fábricas de lacticínios que obedeçam aos requisitos de localização, instalação e funcionamento, que sigam as normas do processo de licenciamento previstos neste Regulamento e cujo equipamento, condições de recepção, medição ou pesagem, tratamento, embalagem e armazenamento satisfaçam também as exigências determinadas tendo em conta a preservação de contaminações com lotes inadequados de leite, derivados lácteos e outros produtos estranhos à preparação do leite tratado para abastecimento público.
 
-###### Art. 18.º Dependem de aprovação da Direcção-Geral dos Serviços Veterinários os horários de funcionamento dos centros de tratamento, sem prejuízo da legislação de trabalho aplicável.
+Art. 18.º Dependem de aprovação da Direcção-Geral dos Serviços Veterinários os horários de funcionamento dos centros de tratamento, sem prejuízo da legislação de trabalho aplicável.
 
-###### Art. 19.º - 1 - Não é permitido utilizar as dependências dos centros de tratamento para uso diverso daquele a que se destinam, nem manter nas mesmas produtos ou materiais estranhos às respectivas instalações ou funcionamento.
+Art. 19.º - 1 - Não é permitido utilizar as dependências dos centros de tratamento para uso diverso daquele a que se destinam, nem manter nas mesmas produtos ou materiais estranhos às respectivas instalações ou funcionamento.
 
 2 - Nos terrenos próprios do centro de tratamento e até à distância mínima de 200 m dos locais onde se trate, manipule ou armazene leite e, eventualmente, seus derivados não poderão existir instalações pecuárias ou outras que pela sua natureza possam ocasionar cheiros estranhos ou ser foco de reprodução de insectos ou roedores.
 
-###### Art. 20.º - 1 - Poderá ser suspensa a laboração, por meio de selagem do equipamento ou da própria instalação, dos centros de tratamento que estejam a funcionar:
+Art. 20.º - 1 - Poderá ser suspensa a laboração, por meio de selagem do equipamento ou da própria instalação, dos centros de tratamento que estejam a funcionar:
 
 a) Sem o necessário licenciamento;
 
@@ -1060,7 +1115,7 @@ e) Sem cumprimento de instruções emanadas dos serviços competentes ou de disp
 
 2 - A suspensão pode ser parcial e localizada, incidindo a selagem sobre o equipamento em causa ou sector das instalações.
 
-###### Art. 21.º As transgressões ao presente Regulamento serão punidas:
+Art. 21.º As transgressões ao presente Regulamento serão punidas:
 
 a) Com multa de 5000$00 a 10000$00 os que não realizarem no prazo marcado as obras de transformação que lhes forem indicadas;
 
@@ -1068,11 +1123,11 @@ b) Com multa de 5000$00 por cada empregado verificadamente doente ou que não es
 
 c) Com multa de 5000$00 a 10000$00 os que não cumprirem as prescrições hígio-técnicas a observar no funcionamento dos centros de tratamento ou se opuserem à execução dos preceitos contidos neste Regulamento.
 
-###### Art. 22.º - 1 - As acções de suspensão e de aplicação das multas previstas nos artigos anteriores, independentemente da competência da Direcção-Geral de Saúde no sector, poderão ser executadas pelas Direcções-Gerais das Indústrias Agrícolas Alimentares e dos Serviços Veterinários ou pelos serviços regionais de agricultura.
+Art. 22.º - 1 - As acções de suspensão e de aplicação das multas previstas nos artigos anteriores, independentemente da competência da Direcção-Geral de Saúde no sector, poderão ser executadas pelas Direcções-Gerais das Indústrias Agrícolas Alimentares e dos Serviços Veterinários ou pelos serviços regionais de agricultura.
 
 2 - Em qualquer dos casos, os serviços actuantes do Ministério da Agricultura e Pescas deverão comunicar aos dois outros serviços competentes a actuação havida para efeitos de coordenação das acções a desenvolver.
 
-###### Art. 23.º - 1 - Das decisões do director regional de agricultura cabe recurso para o Ministro da Agricultura e Pescas, a interpor no prazo de dez dias.
+Art. 23.º - 1 - Das decisões do director regional de agricultura cabe recurso para o Ministro da Agricultura e Pescas, a interpor no prazo de dez dias.
 
 2 - O prazo referido no número anterior contar-se-á a partir da data em que o interessado tomar conhecimento da decisão de que recorre.
 
@@ -1080,15 +1135,15 @@ Regulamento das Condições Higiotécnicas da Venda e Distribuição de Leite
 
 ### CAPÍTULO I — Das embalagens de leite tratado
 
-###### Artigo 1.º - 1 - A distribuição do Leite dos centros de tratamento aos locais de venda, de consumo e ao domicílio será feita em garrafas ou outras embalagens aprovadas pela Direcção-Geral dos Serviços Veterinários e pelo Instituto da Qualidade Alimentar.
+Artigo 1.º - 1 - A distribuição do Leite dos centros de tratamento aos locais de venda, de consumo e ao domicílio será feita em garrafas ou outras embalagens aprovadas pela Direcção-Geral dos Serviços Veterinários e pelo Instituto da Qualidade Alimentar.
 
 2 - Só é permitida a distribuição de leite tratado em bilhas apropriadas, fechadas e seladas aos consumidores colectivos, à indústria e aos estabelecimentos hoteleiros e similares.
 
-###### Art. 2.º As garrafas e outros tipos de embalagens individuais serão devidamente fechados e deverão ter a indicação do centro de tratamento.
+Art. 2.º As garrafas e outros tipos de embalagens individuais serão devidamente fechados e deverão ter a indicação do centro de tratamento.
 
-###### Art. 3.º As garrafas ou embalagens de leite pasteurizado deverão apresentar obrigatoriamente, em caracteres indeléveis e legíveis, o termo do prazo de validade do leite, o qual não poderá exceder trinta e seis horas a contar do tratamento térmico.
+Art. 3.º As garrafas ou embalagens de leite pasteurizado deverão apresentar obrigatoriamente, em caracteres indeléveis e legíveis, o termo do prazo de validade do leite, o qual não poderá exceder trinta e seis horas a contar do tratamento térmico.
 
-###### Art. 4.º - 1 - As embalagens de leite ultrapasteurizado (UHT) deverão apresentar obrigatoriamente, em caracteres indeléveis e legíveis, a data do tratamento térmico e a do termo do prazo de validade do leite, o qual não poderá exceder três meses a contar da primeira data.
+Art. 4.º - 1 - As embalagens de leite ultrapasteurizado (UHT) deverão apresentar obrigatoriamente, em caracteres indeléveis e legíveis, a data do tratamento térmico e a do termo do prazo de validade do leite, o qual não poderá exceder três meses a contar da primeira data.
 
 2 - Os registos que indicam o prazo de validade do produto poderão ser feitos de duas maneiras:
 
@@ -1096,13 +1151,13 @@ a) Indicação do dia do tratamento, seguido da indicação do dia limite do pra
 
 b) Indicação do mês do tratamento, seguido da indicação do segundo mês após o anterior.
 
-###### Art. 5.º As garrafas ou embalagens de leite esterilizado deverão apresentar a indicação da data do tratamento, sempre que tal for praticável.
+Art. 5.º As garrafas ou embalagens de leite esterilizado deverão apresentar a indicação da data do tratamento, sempre que tal for praticável.
 
 ### CAPÍTULO II — Disposições gerais e penais
 
-###### Art. 6.º Todos os locais onde se pratique a venda ao público de leite pasteurizado deverão estar equipados com câmaras ou armários frigoríficos que assegurem a manutenção da temperatura daquele leite entre 0ºC e 7ºC.
+Art. 6.º Todos os locais onde se pratique a venda ao público de leite pasteurizado deverão estar equipados com câmaras ou armários frigoríficos que assegurem a manutenção da temperatura daquele leite entre 0ºC e 7ºC.
 
-###### Art. 7.º As transgressões ao presente Regulamento serão punidas:
+Art. 7.º As transgressões ao presente Regulamento serão punidas:
 
 a) A partir de seis meses, contados da data da publicação deste Regulamento, com multa de 5000$00 a 10000$00 as entidades que explorem postos de distribuição ou outros locais de venda de leite pasteurizado que não garantam a conservação do mesmo nas condições previstas no artigo 6.º deste Regulamento;
 

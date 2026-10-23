@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/02/036a00/08870890.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/32/1995/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1995-198146
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca4b172ff1741dffa86d3e5ed902d7af2e36415b89c303097955a32197702474
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35fb2a7339768e6ad9b641f7f567b86922f22b07ee3afd674009c777ce1e72f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - AVAL do Estado
-- Sociedade Anónima
 - Capital Social
 - Comissão Instaladora
-- Direcção Geral do Tesouro
 - Criação de Empresas
 - Criação de Serviços
 - Desenvolvimento Regional
+- Direcção Geral do Tesouro
 - EDIA
 - Empresa do Alqueva
 - Estatuto
 - Extinção de Serviços
-- Recrutamento de Pessoal
 - Obras Públicas
+- Recrutamento de Pessoal
 - Regime de Pessoal
+- Sociedade Anónima
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
@@ -87,6 +87,57 @@ relationships:
   target: pt:dre:517806:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:425293:por
+  label: "Alterados os arts. 2º e 5º, pelo DEC LEI.232/98.1998.07.22.MEPAT DR.IS-A [167]C\0C\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-1998-425293
+  date: '1998-07-22'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Transferida para o Ministério do Planeamento (ficando na dependência do respectivo Ministro) a empresa EDIA-Empresa\
+    \ de Desenvolvimento Integrado do Alqueva, a que se refere o presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A\
+    \ [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:536640:por
+  label: "Alterado o art. 2º, na redacção dada pelo Dec Lei 232/98, de 22-Jul, pelo DEC LEI.335/2001.2001.12.24.MPLA, DR.IS-A\
+    \ [296]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/335-2001-536640
+  date: '2001-12-24'
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Determinada, sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros Ministros, a responsabilidade\
+    \ do Ministro das Cidades, Ordenamento do Território e Ambiente, sobre a EDIA – Empresa de Desenvolvimento e Infra-Estruturas\
+    \ do Alqueva, pelo Dec Lei 120/2002 de 03-Mai, DR.IS-A [102], ouvindo o Ministro da Agricultura, Desenvolvimento Rural\
+    \ e Pescas\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
+- type: amended_by
+  target: pt:dre:684205:por
+  label: "Colocada sob a responsabilidade do Ministro das Cidades, Ordenamento do Território e Ambiente, nos domínios das\
+    \ águas, ouvido o Ministro da Agricultura, Desenvolvimento Rural e Pescas, a EDIA-Empresa de Desenvolvimento e Infra-Estruturas\
+    \ do Alqueva, S.A., constituida pelo presente diploma, pelo DEC LEI.119/2003.2003.06.17.PCM DR.IS-A [138]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2003-684205
+  date: '2003-06-17'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada, sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros Ministros, a responsabilidade\
+    \ do Ministro das Cidades, Administração Local, Habitação e Desenvolvimento Regional, sobre a EDIA – Empresa de Desenvolvimento\
+    \ e Infra-Estruturas do Alqueva, pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004, participando\
+    \ o Ministro da Agricultura, Pescas e Florestas na definição das linhas de orientação estratégica \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinado que fique na dependência do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas a EDIA, cujos\
+    \ estatutos foram aprovados no presente diploma, sendo a competência relativa à definição das orientações estratégicas\
+    \ nos domínios do ambiente, dos recursos hídricos, do ordenamento do território e do desenvolvimento regional, bem como\
+    \ o acompanhamento da sua execução, exercida pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas em articulação\
+    \ com o Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, pelo DEC LEI.79/2005.15.04.2005.PCM,\
+    \ DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/305/1993/09/01/p/dre
   label: null
@@ -95,16 +146,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/405/1993/12/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/405/1993/12/10/p/dre
+- type: cites
+  target: pt:dre:553397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633536:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:517806:por
+  label: "Revogado, com as alterações introduzidas pelos Dec Lei 232/98 de 22-Jul e 335/2001 de 24-Dez, pelo DEC LEI.42/2007.22.02.2007.MADRP,\
+    \ DR.IS [38] de 22.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-2007-517806
+  date: '2007-02-22'
 article_structure:
-  article_count: 22
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:16Z'
   warnings: []
   errors: []
 ---
@@ -129,13 +194,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É constituída a sociedade Empresa de Desenvolvimento e Infra-Estruturas do Alqueva, S. A., sociedade anónima de capitais exclusivamente públicos, adiante abreviadamente designada por Empresa.
+Artigo 1.º - 1 - É constituída a sociedade Empresa de Desenvolvimento e Infra-Estruturas do Alqueva, S. A., sociedade anónima de capitais exclusivamente públicos, adiante abreviadamente designada por Empresa.
 
 2 - A Empresa rege-se pela lei comercial, pelo presente diploma e pelos seus estatutos.
 
-###### Art. 2.º A Empresa é a entidade gestora do Empreendimento de Fins Múltiplos do Alqueva, que tem por objecto social a concepção, execução, construção e exploração daquele Empreendimento, contribuindo para a promoção do desenvolvimento económico e social na respectiva área de intervenção pelo aproveitamento das potencialidades do empreendimento.
+Art. 2.º A Empresa é a entidade gestora do Empreendimento de Fins Múltiplos do Alqueva, que tem por objecto social a concepção, execução, construção e exploração daquele Empreendimento, contribuindo para a promoção do desenvolvimento económico e social na respectiva área de intervenção pelo aproveitamento das potencialidades do empreendimento.
 
-###### Art. 3.º - 1 - A Empresa é constituída com um capital social inicial de 500000000$00, integralmente subscrito e realizado pelo Estado em dinheiro.
+Art. 3.º - 1 - A Empresa é constituída com um capital social inicial de 500000000$00, integralmente subscrito e realizado pelo Estado em dinheiro.
 
 2 - Podem ainda participar no capital social os municípios abrangidos na área de intervenção do Empreendimento de Fins Múltiplos do Alqueva e outras pessoas colectivas públicas.
 
@@ -143,7 +208,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Os direitos do Estado como accionista serão exercidos através de representante designado por despacho conjunto dos Ministros das Finanças e do Planeamento e Administração do Território, salvo quando a gestão das acções tenha sido cometida a outra entidade nos termos do número anterior.
 
-###### Art. 4.º - 1 - São aprovados os estatutos da Empresa, que figuram em anexo ao presente diploma.
+Art. 4.º - 1 - São aprovados os estatutos da Empresa, que figuram em anexo ao presente diploma.
 
 2 - Os estatutos anexos não carecem de redução a escritura pública, devendo o registo comercial competente ser feito com base no Diário da República em que hajam sido publicados.
 
@@ -151,7 +216,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Os actos necessários ao registo da constituição, bem como todas as alterações posteriores aos presentes estatutos, estão isentos de quaisquer taxas ou emolumentos notariais, de registo ou de outro tipo.
 
-###### Art. 5.º - 1 - Sem prejuízo do disposto na lei quanto à prestação de informações aos sócios, o conselho de administração deve enviar aos Ministros das Finanças e do Planeamento e da Administração do Território, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 5.º - 1 - Sem prejuízo do disposto na lei quanto à prestação de informações aos sócios, o conselho de administração deve enviar aos Ministros das Finanças e do Planeamento e da Administração do Território, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -159,43 +224,43 @@ b) Outros elementos que o conselho de administração julgue adequados à compre
 
 2 - O conselho fiscal deve enviar trimestralmente aos Ministros das Finanças e do Planeamento e Administração do Território um relatório em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 6.º Para a prossecução dos seus fins, são conferidos à Empresa, para além de outros que venham a ser expressamente atribuídos por lei:
+Art. 6.º Para a prossecução dos seus fins, são conferidos à Empresa, para além de outros que venham a ser expressamente atribuídos por lei:
 
 a) Os poderes para, nos termos da lei, nomeadamente do Código das Expropriações, agir como entidade expropriante dos bens imóveis e direitos a eles inerentes a expropriar que sejam necessários à prossecução do seu escopo social;
 
 b) O direito de utilizar e administrar os bens do domínio público do Estado que estejam ou venham a estar afectos ao exercício da sua actividade.
 
-###### Art. 7.º - 1 - As obras a realizar pela Empresa ficam sujeitas ao disposto no [Decreto-Lei n.º 405/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1993-553397), de 10 de Dezembro, e legislação complementar, no que respeita ao modo e às garantias de execução e conclusão de empreitadas e fornecimentos de obras públicas, desde que nos respectivos títulos esteja prevista a aplicação subsidiária daquele regime ou expressa, por qualquer forma, a subordinação do contratante às exigências do interesse público da conclusão atempada da obra ou fornecimento.
+Art. 7.º - 1 - As obras a realizar pela Empresa ficam sujeitas ao disposto no [Decreto-Lei n.º 405/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1993-553397), de 10 de Dezembro, e legislação complementar, no que respeita ao modo e às garantias de execução e conclusão de empreitadas e fornecimentos de obras públicas, desde que nos respectivos títulos esteja prevista a aplicação subsidiária daquele regime ou expressa, por qualquer forma, a subordinação do contratante às exigências do interesse público da conclusão atempada da obra ou fornecimento.
 
 2 - À Empresa são conferidos os poderes e prerrogativas do Estado quanto à protecção, desocupação, demolição e defesa administrativa da posse dos terrenos e instalações que lhe sejam afectos e das obras por si executadas ou contratadas, podendo ainda, nos termos da lei, ocupar temporariamente os terrenos particulares de que necessite para estaleiros, depósito de materiais, alojamento de pessoal operário e instalação de escritórios, sem prejuízo do direito a indemnização a que houver lugar.
 
-###### Art. 8.º - 1 - O pessoal actualmente em funções na comissão instaladora da Empresa do Alqueva que seja funcionário do Estado, de institutos públicos ou de autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos podem ser autorizados a exercer quaisquer cargos ou funções, em regime de requisição na Empresa, com a possibilidade de uma única renovação.
+Art. 8.º - 1 - O pessoal actualmente em funções na comissão instaladora da Empresa do Alqueva que seja funcionário do Estado, de institutos públicos ou de autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos podem ser autorizados a exercer quaisquer cargos ou funções, em regime de requisição na Empresa, com a possibilidade de uma única renovação.
 
 2 - Todas as requisições e comissões de serviço do pessoal que exerce funções na comissão instaladora da Empresa do Alqueva mantêm-se nos 60 dias subsequentes à eleição dos titulares dos cargos sociais da empresa, aplicando-se após essa data o disposto no número anterior.
 
-###### Art. 9.º - 1 - A contracção de empréstimos pela Empresa carece de autorização do Ministro das Finanças.
+Art. 9.º - 1 - A contracção de empréstimos pela Empresa carece de autorização do Ministro das Finanças.
 
 2 - As obrigações contraídas pela Empresa, nomeadamente as que resultem da emissão ou contracção de empréstimos, sindicatos ou não, ou de outros financiamentos internos ou externos constantes dos planos anual e plurianual de actividades podem gozar da garantia do Estado, a prestar nos termos legais.
 
 3 - Por despacho conjunto dos Ministros das Finanças e do Planeamento e Administração do Território, será fixado semestralmente o limite das garantias a prestar nos termos do número anterior.
 
-###### Art. 10.º Fica desde já convocada a assembleia geral da Empresa para se reunir, na sede social, pelas 15 horas do 30.º dia útil após a publicação do presente diploma, para a eleição dos titulares dos cargos sociais e para a tomada das deliberações previstas no n.º 2 do artigo 5.º dos estatutos.
+Art. 10.º Fica desde já convocada a assembleia geral da Empresa para se reunir, na sede social, pelas 15 horas do 30.º dia útil após a publicação do presente diploma, para a eleição dos titulares dos cargos sociais e para a tomada das deliberações previstas no n.º 2 do artigo 5.º dos estatutos.
 
-###### Art. 11.º A Empresa sucede ao Estado na posição jurídica por este detida através da comissão instaladora da Empresa do Alqueva, passando a ser titular de todos os correspondentes direitos e obrigações, bem como do património afecto àquela comissão, incluindo todo o existente nas instalações até agora por esta utilizadas e de que, por sucessão, passa a ser arrendatária.
+Art. 11.º A Empresa sucede ao Estado na posição jurídica por este detida através da comissão instaladora da Empresa do Alqueva, passando a ser titular de todos os correspondentes direitos e obrigações, bem como do património afecto àquela comissão, incluindo todo o existente nas instalações até agora por esta utilizadas e de que, por sucessão, passa a ser arrendatária.
 
-###### Art. 12.º A comissão instaladora da Empresa do Alqueva considerar-se-á extinta na data da realização da assembleia geral da Empresa prevista no artigo 10.º, mantendo-se, até essa data, plenamente em vigor o [Decreto-Lei n.º 305/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1993-633536), de 1 de Setembro.
+Art. 12.º A comissão instaladora da Empresa do Alqueva considerar-se-á extinta na data da realização da assembleia geral da Empresa prevista no artigo 10.º, mantendo-se, até essa data, plenamente em vigor o [Decreto-Lei n.º 305/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1993-633536), de 1 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 24 de Novembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Álvaro dos Santos Amaro - Luís Filipe Alves Monteiro - Joaquim Martins Ferreira do Amaral - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 24 de Janeiro de 1995.**
+Promulgado em 24 de Janeiro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1995.**
+Referendado em 26 de Janeiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatudos da Empresa de Desenvolvimento e Infra-Estruturas do Alqueva, S. A.
 

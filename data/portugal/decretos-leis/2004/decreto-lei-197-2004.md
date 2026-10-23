@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/08/193a00/52295229.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/197/2004/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2004-480913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc2d67e0190533fa3ed1fe9372b6c43c18427b6fa8e58348fe8af06447d2912d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fc6baf7d0e58d7dae02b15121fad95aab7d2017313c2c531488737693921b0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,33 +68,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Embarcação
 - Contra-ordenação
+- Embarcação
 - Fiscalização
-- Proteção do Ambiente
 - Poluição Marinha
 - Poluição pelos Navios
 - Portos
+- Proteção do Ambiente
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:107703392:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:107703392:por
+  label: Alterado o art. 13.º do Dec Lei 165/2003 de 24-jul, na redação do presente diploma, pelo(a) Decreto-Lei n.º 83/2017
+    - Diário da República n.º 137/2017, Série I de 2017-07-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-2017-107703392
+  date: '2017-07-18'
 - type: cites
   target: celex:32000L0059
   label: null
   source: http://data.europa.eu/eli/dir/2000/59/oj
 article_structure:
-  article_count: 4
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:59Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +139,9 @@ Os artigos 4.º, 7.º, 9.º e 13.º do Decreto-Lei n.º 165/2003, de 24 de Julho
 
 2 - Para os efeitos do disposto no número anterior, consideram-se adequados os meios portuários de recepção de resíduos que disponham de capacidade para receber os tipos e as quantidades de resíduos gerados em navios e de resíduos de carga dos navios que normalmente utilizam esse porto, tendo em conta as necessidades operacionais dos utilizadores do porto, a sua dimensão e localização geográfica, o tipo de embarcações que o escalem, bem como as isenções previstas no artigo 10.º
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -145,7 +153,9 @@ Os artigos 4.º, 7.º, 9.º e 13.º do Decreto-Lei n.º 165/2003, de 24 de Julho
 
 5 - No que diz respeito aos esgotos sanitários referidos na alínea c) do artigo 2.º, a execução do presente diploma fica suspensa até 24 de Setembro de 2004, sendo contudo respeitada a distinção feita no anexo IV da Convenção Marpol 73/78 entre navios novos e navios existentes.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -165,7 +175,9 @@ Os artigos 4.º, 7.º, 9.º e 13.º do Decreto-Lei n.º 165/2003, de 24 de Julho
 
 9 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os navios que escalem um porto nacional devem contribuir significativamente para a recuperação dos custos dos meios portuários de recepção dos resíduos gerados a bordo, incluindo os custos de tratamento e eliminação desses resíduos, independentemente da utilização efectiva dos meios existentes, sendo tal contribuição incluída nos direitos portuários.
 
@@ -179,12 +191,12 @@ Os artigos 4.º, 7.º, 9.º e 13.º do Decreto-Lei n.º 165/2003, de 24 de Julho
 
 Visto e aprovado em Conselho de Ministros de 17 de Maio de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - Armando José Cordeiro Sevinate Pinto - António Pedro de Nobre Carmona Rodrigues - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 2 de Agosto de 2004.**
+Promulgado em 2 de Agosto de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Agosto de 2004.**
+Referendado em 5 de Agosto de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

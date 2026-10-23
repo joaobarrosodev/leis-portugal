@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/08/18800/11751177.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/493-1975-314617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:48:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4dcb700610d43fca63acc6d0f81a9bafd1c3af6a94a184053c91a4ca1ec2aa32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a70a09ff639698c35c835b3f7ee2bcb5a8d294ea978e9d09a4e31b3befef2771
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:48:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Especialidade Militar
+- Estatuto
+- Estatuto do Oficial da Força Aérea
+- Força Aérea
+- Forças Armadas
+- Militar
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:138076:por
+  label: Alterados os limites de idade constantes do mapa n.º 3 e refere no seu art.66.º do Estatuto Oficial da Força Aérea,
+    a entrada em vigor em 31.12.78, anexo à presente portaria, pelo(a) Portaria n.º 16/77 - Diário da República n.º 12/1977,
+    Série I de 1977-01-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/16-1977-138076
+  date: '1977-01-15'
+- type: amended_by
+  target: pt:dre:329197:por
+  label: Suspendida temporariamente a aplicação dos limites de idade constante do mapa n.º 3, com referência ao artigo 66.º
+    do Estatuto do Oficial da Força Aérea, publicado em anexo à presente portaria, pelo(a) Portaria n.º 596/78 - Diário da
+    República n.º 224/1978, Série I de 1978-09-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/596-1978-329197
+  date: '1978-09-28'
+- type: cites
+  target: pt:dre:234079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234082:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:312598:por
+  label: Rectificado o mapa n.º 3 anexo ao presente diploma, pela DECL.DD8463.08.11.1975.PCM, DG.IS [259] de 08.11.1975, e
+    procede de novo à sua publicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1975-312598
+  date: '1975-11-08'
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogada pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:48:05Z'
   warnings: []
   errors: []
 ---
@@ -94,31 +133,31 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, o 
 
 1.º Os artigos 6.º, 50.º, 66.º, 70.º, 120.º, 190.º e 207.º do Estatuto do Oficial da Força Aérea Portuguesa passam a ter a redacção e os aditamentos seguintes:
 
-###### Art. 6.º - 1. As categorias e postos dos oficiais da Força Aérea, por ordem decrescente, correspondentes às categorias e postos dos oficiais do Exército e da Armada são os seguintes:
+Art. 6.º - 1. As categorias e postos dos oficiais da Força Aérea, por ordem decrescente, correspondentes às categorias e postos dos oficiais do Exército e da Armada são os seguintes:
 
 Oficiais da Força Aérea
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/08/18800/11751177.pdf))](https://files.diariodarepublica.pt/1s/1975/08/18800/11751177.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/08/18800/11751177.pdf)
 
 Oficiais do Exército
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/08/18800/11751177.pdf))](https://files.diariodarepublica.pt/1s/1975/08/18800/11751177.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/08/18800/11751177.pdf)
 
 Oficiais da Armada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/08/18800/11751177.pdf))](https://files.diariodarepublica.pt/1s/1975/08/18800/11751177.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/08/18800/11751177.pdf)
 
 2. ...
 
 ...
 
-###### Art. 50.º - 1. ...
+Art. 50.º - 1. ...
 
 2. ...
 
 3. Os oficiais que transitam para a situação de adidos aos respectivos quadros, nos termos do previsto na condição 18) da alínea b) do artigo 66.º, não serão, em princípio, nomeados para funções de comando.
 
-###### Art. 66.º ...
+Art. 66.º ...
 
 a) ...
 
@@ -142,7 +181,7 @@ b) ...
 
 ...
 
-###### Art. 70.º - 1. ...
+Art. 70.º - 1. ...
 
 a) ...
 
@@ -154,7 +193,7 @@ d) Requeiram a passagem à reserva e esta lhes seja concedida, depois de complet
 
 ...
 
-###### Art. 120.º - 1. Os oficiais apenas podem ser promovidos enquanto se mantiverem nos quadros do activo e não tenham sido abrangidos pelo disposto na condição 18) da alínea b) do artigo 66.º deste Estatuto. Constituem excepção ao atrás referido as seguintes:
+Art. 120.º - 1. Os oficiais apenas podem ser promovidos enquanto se mantiverem nos quadros do activo e não tenham sido abrangidos pelo disposto na condição 18) da alínea b) do artigo 66.º deste Estatuto. Constituem excepção ao atrás referido as seguintes:
 
 a) ...
 
@@ -164,15 +203,15 @@ c) ...
 
 ...
 
-###### Art. 122.º - 1. A promoção dos oficiais efectua-se independentemente da sua situação em relação ao quadro [no quadro, supranumerário e adidos, excepto, neste último caso, quando abrangidos pela condição 18) da alínea b) do artigo 66.º deste Estatuto].
+Art. 122.º - 1. A promoção dos oficiais efectua-se independentemente da sua situação em relação ao quadro [no quadro, supranumerário e adidos, excepto, neste último caso, quando abrangidos pela condição 18) da alínea b) do artigo 66.º deste Estatuto].
 
 ...
 
-###### Art. 190.º - 1. Designa-se licença da junta a licença concedida para tratamento e recuperação, por período arbitrado por junta médica.
+Art. 190.º - 1. Designa-se licença da junta a licença concedida para tratamento e recuperação, por período arbitrado por junta médica.
 
 ...
 
-###### Art. 207.º Para efeito de cálculo de pensões de reserva e de reforma será contado como tempo de serviço, se os interessados assim o requererem:
+Art. 207.º Para efeito de cálculo de pensões de reserva e de reforma será contado como tempo de serviço, se os interessados assim o requererem:
 
 a) O tempo de frequência da Escola Naval, Academia Militar e extintas escolas suas antecessoras que não tenha sido objecto da aplicação do disposto na alínea a) do n.º 2 do artigo 76.º, mediante o pagamento à Caixa Geral de Aposentações das quotas correspondentes aos vencimentos atribuídos aos alunos na data em que se verificou a referida frequência, em regime de internato ou de externato;
 
@@ -190,7 +229,7 @@ MAPA N.º 1
 
 Limites de idade para a passagem à situação de reserva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/08/18800/11751177.pdf))](https://files.diariodarepublica.pt/1s/1975/08/18800/11751177.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/08/18800/11751177.pdf)
 
 MAPA N.º 3
 
@@ -198,6 +237,6 @@ MAPA N.º 3
 
 Limites de idade para a passagem à situação de reserva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/08/18800/11751177.pdf))](https://files.diariodarepublica.pt/1s/1975/08/18800/11751177.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/08/18800/11751177.pdf)
 
-**O Chefe do Estado-Maior da Força Aérea, José Alberto Morais da Silva, general.**
+O Chefe do Estado-Maior da Força Aérea, José Alberto Morais da Silva, general.

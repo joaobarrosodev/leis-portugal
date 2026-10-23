@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/13400/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/45/2024/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2024-871763925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbdf3620c82bd728aab8ee59f45c9a748bc56ae07879debf2b0880be088d7e80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc21db71d3e634d8eeb07ee6d90b88c179a5795128485891c531082d14656821
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Estabelecimento de Ensino
 - Lisboa
 - Loures
-- Estabelecimento de Ensino
 - Universidade Europeia
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:87/2013
+  label: Altera, a partir de 13 de julho de 2024, o artigo 5.º do Decreto-Lei n.º 87/2013, de 26 de junho, Diário da República
+    n.º 121/2013, Série I
+  source: null
+  date: '2013-06-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/87/2013/06/26/p/dre
   label: null
@@ -79,16 +85,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: pt:dre:497402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:26Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +113,7 @@ de 12 de julho
 
 A Universidade Europeia é um estabelecimento de ensino superior com a natureza de universidade, reconhecida de interesse público pelo [Decreto-Lei n.º 87/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2013-497402), de 26 de junho, e autorizada a funcionar no concelho de Lisboa.
 
-A Ensilis - Educação e Formação, Unipessoal L.<sup>da</sup>, enquanto entidade instituidora deste estabelecimento de ensino superior, requereu que o funcionamento da Universidade Europeia se estendesse, também, ao concelho de Loures.
+A Ensilis - Educação e Formação, Unipessoal L.da, enquanto entidade instituidora deste estabelecimento de ensino superior, requereu que o funcionamento da Universidade Europeia se estendesse, também, ao concelho de Loures.
 
 De acordo com o parecer da Direção-Geral do Ensino Superior, encontram-se reunidas as condições previstas no regime jurídico das instituições de ensino superior, aprovado pela [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, na sua redação atual, para implementar a alteração requerida.
 
@@ -129,12 +143,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de junho de 2024. - Luís Montenegro - Fernando Manuel de Almeida Alexandre.
 
-**Promulgado em 3 de julho de 2024.**
+Promulgado em 3 de julho de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de julho de 2024.**
+Referendado em 9 de julho de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+117895156

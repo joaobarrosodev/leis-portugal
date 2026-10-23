@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/545-1970-147820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08ee707774176a687a1d3c9618927156e4e83289a5aa921099f00ff60dfed09e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3f6e22ad2d05a1dccb3dd2f89f335101d767aecab640e564ce3c86df8b72613
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:352099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:33Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +97,7 @@ Tendo a experiência demonstrado a necessidade de modificar as características 
 
 Manda o Governo da República Portuguesa, pelo Ministro do Interior, publicar, depois de homologado pelo Ministro do Exército, nos termos do § 1.º do artigo 1.º do [Decreto n.º 37211](https://diariodarepublica.pt/dr/detalhe/decreto/37211-1948-369050), de 11 de Dezembro de 1948, o seguinte:
 
-###### Artigo 1.º No uniforme n.º 2 (uniforme de serviço) a que se refere o artigo 23.º do Regulamento de Uniformes da Guarda Nacional Republicana é introduzida a seguinte alteração:
+Artigo 1.º No uniforme n.º 2 (uniforme de serviço) a que se refere o artigo 23.º do Regulamento de Uniformes da Guarda Nacional Republicana é introduzida a seguinte alteração:
 
 Alínea e) Dólman n.º 2:
 
@@ -133,7 +141,7 @@ Alínea i) Calção n.º 2:
 
 Tem sete passadores do mesmo tecido, para passagem do cinturão ou do cinto de precinta. Ajusta-se à perna na parte inferior por meio de uma fita preta com duas pontas, passando uma destas por uma casa que será aberta na costura.
 
-###### Art. 2.º No uniforme especial de motoristas a que se refere o artigo 36.º do citado Regulamento, o barrete descrito no n.º 1) da alínea l) do mencionado artigo passa a ter a seguinte composição:
+Art. 2.º No uniforme especial de motoristas a que se refere o artigo 36.º do citado Regulamento, o barrete descrito no n.º 1) da alínea l) do mencionado artigo passa a ter a seguinte composição:
 
 1.º Barrete:
 
@@ -143,4 +151,4 @@ O barrete tem na parte interior uma tira de carneira com 0,04 m de largura, que 
 
 Tem pala preta e um francalete de cordão de seda cinzento, que se fixará nos extremos, por dois pequenos botões com monograma G. N. R., que serão colocados na cinta, junto à pala.
 
-**O Ministro do Interior, António Manuel Gonçalves Rapazote.**
+O Ministro do Interior, António Manuel Gonçalves Rapazote.

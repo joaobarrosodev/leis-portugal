@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/07/12600/0333503336.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/89/2019/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2019-122920907
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6d66723cf234d5f1c27d82867f53fcf4b091bf2aff45c131a5c4218bfb2fa3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b6dc66d462dd55f7cc2235c119d2b2888c3b8dc4c51e8567d92397ba9037f73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ação Social
 - Arbitragem
 - Assembleia Geral
-- Multa
-- Inspecção Geral das Actividades Culturais
+- Associação
 - Contrato
 - Definição de Competências
-- Tratado da Organização Mundial de Propriedade Intelectual sobre Direito de Autor
 - Direito de Autor
-- Ação Social
 - Fiscalização
-- Publicitação
+- Inspecção Geral das Actividades Culturais
+- Internet
 - Mandato
+- Multa
 - Órgãos Sociais
 - Página na Internet
-- Internet
 - Propriedade Intelectual
-- Associação
+- Publicitação
+- Tratado da Organização Mundial de Propriedade Intelectual sobre Direito de Autor
 - Utilidade Pública
 relationships:
 - type: cites
@@ -100,16 +100,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/63/2011/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/63/2011/12/14/p/dre
+- type: cites
+  target: pt:dre:108041479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66970759:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:57Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +170,9 @@ b) Relativas a atividades sociais e de assistência previstas na alínea a) do n
 
 7 - [...].
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...].
 
@@ -184,7 +198,9 @@ b) Relativas a atividades sociais e de assistência previstas na alínea a) do n
 
 12 - Os conflitos a que se refere o n.º 1 podem ser, alternativamente, dirimidos nos termos da lei da arbitragem voluntária, sem prejuízo do disposto nos n.os 7 e 9 do presente artigo e no n.º 5 do artigo 60.º
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - [...].
 
@@ -216,12 +232,14 @@ c) As propostas juntas com a nomeação dos árbitros podem ser diferentes das a
 
 Visto e aprovado em Conselho de Ministros de 11 de abril de 2019. - Augusto Ernesto Santos Silva - Álvaro António da Costa Novo - Graça Maria da Fonseca Caetano Gonçalves.
 
-**Promulgado em 21 de junho de 2019.**
+Promulgado em 21 de junho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de junho de 2019.**
+Referendado em 27 de junho de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112405388

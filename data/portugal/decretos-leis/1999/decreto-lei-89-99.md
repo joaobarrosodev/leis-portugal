@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/89/1999/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1999-145621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:16:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f221acc8ef114c3acb72d7e099d2ea3edd0c6ef4c28c1542f5758ca13490340
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 104b05a9dc5cf0a6ecedfa1bec42a2245bb28f3eb9e0a30047d227fbbabc4a5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,7 +70,9 @@ reuse:
 subjects:
 - Conservatório Superior de Música de GAIA
 - Ensino Particular
+- Ensino Superior
 - Escola Superior Gallaecia
+- Estabelecimento de Ensino
 - Felgueiras
 - Instituto Superior de Ciências Educativas
 - Instituto Superior de Ciências Humanas e Tecnológicas
@@ -78,13 +80,34 @@ subjects:
 - Instituto Superior de Tecnologia Empresarial
 - Interesse Público
 - Mangualde
-- Estabelecimento de Ensino
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:67030783:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3105007:por
+  label: "Cessada a autorização concedida pelo DESP.5079/2005(2ªSérie).31.01.2005.MCIES, DR.IIS [48] de 09.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/5079-2005-3105007
+  date: '2005-01-31'
+- type: amended_by
+  target: pt:dre:67030783:por
+  label: Alterada a denominação e o reconhecimento de interesse público do Instituto Superior de Ciências Educativas de Felgueiras
+    pelo(a) Decreto-Lei n.º 56/2015 - Diário da República n.º 76/2015, Série I de 2015-04-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-2015-67030783
+  date: '2015-04-20'
+- type: amended_by
+  target: pt:dre:70508898:por
+  label: Tornada pública a decisão de proceder ao encerramento voluntário do Instituto Superior de Espinho reconhecido a título
+    excecional pelo presente diploma, pelo(a) Aviso n.º 11611/2015 - Diário da República n.º 199/2015, Série II de 2015-10-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/11611-2015-70508898
+  date: '2015-10-12'
+- type: amended_by
+  target: pt:dre:107497624:por
+  label: Tornada pública a cessação de funcionamento em 31.12.2016 do Instituto Superior de Espinho, reconhecido de interesse
+    público pelo presente diploma, pelo(a) Aviso n.º 6557/2017 - Diário da República n.º 112/2017, Série II de 2017-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/6557-2017-107497624
+  date: '2017-06-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -101,16 +124,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/139/1997/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/139/1997/08/21/p/dre
+- type: cites
+  target: pt:dre:196227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:16:14Z'
   warnings: []
   errors: []
 ---
@@ -339,15 +382,15 @@ Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Fevereiro de 1999. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins.
 
-**Promulgado em 10 de Março de 1999.**
+Promulgado em 10 de Março de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Março de 1999.**
+Referendado em 10 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I
 

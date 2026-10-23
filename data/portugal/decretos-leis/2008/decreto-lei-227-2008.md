@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/11/22900/0846708471.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/227/2008/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-2008-440096
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4ce48e3cb704be37f4cc96a7f59c4fa8ed4d3a356aeccbb29d53308b7b6ade3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 742a49a204c6c8fd9fcb9fc931a74b1e08f4b8d352d5bc3f4bc1c967aa785384
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,28 +71,36 @@ subjects:
 - Acreditação
 - Aproximação das Legislações
 - Certificado de Aptidão Profissional
-- Formação Profissional
-- Radiactividade
-- Radioprotecção
-- Direção Geral da Saúde
-- Definição de Competências
 - Controlo Sanitário
+- Definição de Competências
+- Direção Geral da Saúde
+- Ensino Superior
 - Equivalência de Habilitações Literárias
-- Saúde Pública
 - Especificação Técnica
+- Estabelecimento de Ensino
+- Formação Profissional
 - Habilitações Literárias
 - Normas de Segurança
 - Pessoal Técnico Especializado
-- Estabelecimento de Ensino
 - Qualificação Profissional
+- Radiactividade
+- Radioprotecção
 - Regime Jurídico
-- Ensino Superior
+- Saúde Pública
 - TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:835994080:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117202785:por
+  label: Determinado que, a partir de 02.04.2019, a autoridade competente - Agência Portuguesa do Ambiente, I.P. (APA, I.P.)
+    sucede em todas as atribuições, direitos e obrigações da Direção-Geral da Saúde (DGS) previstas no presente diploma e
+    portarias associadas pelo(a) Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03, nos termos
+    do disposto no seu art. 190.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
 - type: cites
   target: celex:31996L0029
   label: null
@@ -101,16 +109,23 @@ relationships:
   target: celex:31997L0043
   label: null
   source: http://data.europa.eu/eli/dir/1997/43/oj
+- type: repealed_by
+  target: pt:dre:835994080:por
+  label: Revogado, a partir de 1 de janeiro de 2024, com efeitos a 1 de julho de 2024, pelo(a) Decreto-Lei n.º 139-D/2023
+    - Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29 nos termos do n.º 1 do artigo 7.º e do artigo
+    8.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-d-2023-835994080
+  date: '2023-12-29'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:03Z'
   warnings: []
   errors: []
 ---
@@ -303,15 +318,15 @@ O presente decreto-lei entra em vigor no 1.º dia útil do mês seguinte ao da s
 
 Visto e aprovado em Conselho de Ministros de 11 de Setembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Fernando Teixeira dos Santos - Pedro Manuel Dias de Jesus Marques - Ana Maria Teodoro Jorge - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 21 de Outubro de 2008.**
+Promulgado em 21 de Outubro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de Outubro de 2008.**
+Referendado em 23 de Outubro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Habilitações mínimas de acesso à formação
 

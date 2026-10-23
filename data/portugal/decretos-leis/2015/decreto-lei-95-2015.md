@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/95/2015/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2015-67348948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ff3d8139a7e654a64728af04e732d30c1bbc7ba413806ad8e7a63cad5568111
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 806f0253ab4a29ffed3b3c4f65fce979be23ae68350136e45d0341dd4e9bc98d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Embarcação
 - Certificado de Conformidade
+- Comércio
+- Embarcação
 - Equipamento Marítimo
-- Instalações Radioelétricas
 - Fabrico Industrial
+- Instalações Radioelétricas
 - Normas de Segurança
 - Poluição Marinha
 - Segurança Marítima
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:107495710:por
@@ -154,6 +154,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/53/2012/03/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/53/2012/03/08/p/dre
+- type: cites
+  target: pt:dre:174827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58815312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611925:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:107495710:por
+  label: Revogado o Dec Lei 24/2004, de 23-jan, na redação do presente diploma pelo(a) Decreto-Lei n.º 63/2017 - Diário da
+    República n.º 112/2017, Série I de 2017-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-2017-107495710
+  date: '2017-06-09'
 - type: transposes
   target: celex:31996L0098
   label: null
@@ -173,13 +211,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:31Z'
   warnings: []
   errors: []
 ---
@@ -216,15 +254,15 @@ Os equipamentos enumerados na coluna 1 do anexo A.1 do anexo ao presente decreto
 
 Visto e aprovado em Conselho de Ministros de 2 de abril de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Berta Maria Correia de Almeida de Melo Cabral - António de Magalhães Pires de Lima - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 21 de maio de 2015.**
+Promulgado em 21 de maio de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de maio de 2015.**
+Referendado em 25 de maio de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -294,7 +332,9 @@ Reg. - Regra.
 
 Res. - Resolução.
 
-## ANEXO A.1 — Equipamentos para os quais já existem normas de ensaio pormenorizadas em instrumentos internacionais
+ANEXO A.1
+
+Equipamentos para os quais já existem normas de ensaio pormenorizadas em instrumentos internacionais
 
 Notas aplicáveis à totalidade do anexo A.1
 
@@ -316,15 +356,15 @@ g) As prescrições do presente anexo não prejudicam as prescrições das conve
 
 Coluna 4: Aplica-se a circular IMO MSC/Circular 980, exceto quando substituída pelos instrumentos específicos indicados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf))](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
 
 2 - Prevenção da poluição marinha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf))](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
 
 3 - Equipamento de proteção contra incêndios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf))](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
 
 4 - Equipamento de navegação
 
@@ -356,7 +396,7 @@ c) EN 61162-3 (2008) - Parte 3: Instrumentos com rede de dados em série:
 
 d) EN 61162-450 (2011) - Parte 450: Múltiplos emissores e múltiplos recetores - Interconexão da Ethernet.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf))](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
 
 5 - Equipamento de radiocomunicações
 
@@ -392,11 +432,11 @@ d) - EN 61162-3-alt1 (2010) Alteração 1 - Parte 3: Instrumentos com rede de da
 
 e) EN 61162-450 (2011) - Parte 450: Múltiplos emissores e múltiplos recetores - Interconexão da Ethernet.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf))](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
 
 6 - Equipamento prescrito pela COLREG 72
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf))](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
 
 7 - Equipamento de segurança para graneleiros
 
@@ -404,9 +444,11 @@ Nenhum item.
 
 8 - Equipamento prescrito no capítulo II-1 da SOLAS, Construção - estrutura, subdivisão e estabilidade, máquinas e instalações elétricas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf))](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
 
-## ANEXO A.2 — Equipamentos para os quais não existem ainda normas de ensaio pormenorizadas
+ANEXO A.2
+
+Equipamentos para os quais não existem ainda normas de ensaio pormenorizadas
 
 em instrumentos internacionais
 
@@ -414,15 +456,15 @@ em instrumentos internacionais
 
 Coluna 4: É aplicável a circular IMO MSC/Circ. 980, exceto quando substituída pelos instrumentos específicos indicados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf))](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
 
 2 - Prevenção da poluição marinha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf))](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
 
 3 - Equipamento de proteção contra incêndios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf))](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
 
 4 - Equipamento de navegação
 
@@ -458,7 +500,7 @@ d) - EN 61162-3-alt1 (2010) Alteração 1 - Parte 3: Instrumentos com rede de da
 
 e) EN 61162-450 (2011) - Parte 450: Múltiplos emissores e múltiplos recetores - Interconexão da Ethernet.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf))](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
 
 5 - Equipamento de radiocomunicações
 
@@ -492,16 +534,16 @@ c) EN 61162-3 (2008) - Parte 3: Instrumentos com rede de dados em série:
 
 d) EN 61162-450 (2011) - Parte 450: Múltiplos emissores e múltiplos recetores - Interconexão da Ethernet.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf))](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
 
 6 - Equipamento prescrito pela COLREG 72
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf))](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
 
 7 - Equipamento de segurança para graneleiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf))](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
 
 8 - Equipamento prescrito no capítulo II-1 da SOLAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf))](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)

@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 114/2020, 1º Suplemento, Série I de 2020-06-15
   number: '114'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 15-(4) a 15-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/06/11401/0000400004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/25-e/2020/06/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/25-e-2020-135711350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T05:39:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e68ecabd0327c77e9f95d6efc0e34b4fb9bbb4ff6f6b1ef6aa010737cb62215d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f133e2ed2021b381c7989ca540ca012b94bd1988520f6afbf429b3b33f7576a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:39:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário de Estado do Tesouro
+- Governo XXII
 - Nomeação
+- Secretário de Estado Adjunto e dos Assuntos Fiscais
 - Secretário de Estado das Finanças
 - Secretário de Estado do Orçamento
-- Governo XXII
-- Secretário de Estado Adjunto e dos Assuntos Fiscais
+- Secretário de Estado do Tesouro
 relationships:
 - type: amended_by
   target: pt:dre:136260571:por
@@ -81,13 +81,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:39:52Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +96,7 @@ validation:
 
 de 15 de junho
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro, com efeitos a 15 de junho de 2020:
 
@@ -108,12 +108,14 @@ João Nuno Marques de Carvalho Mendes Secretário de Estado das Finanças;
 
 Miguel Jorge de Campos Cruz Secretário de Estado do Tesouro.
 
-**Assinado em 12 de junho de 2020.**
+Assinado em 12 de junho de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de junho de 2020.**
+Referendado em 14 de junho de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113313446

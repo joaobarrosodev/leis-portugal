@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/139/2014/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2014-56819090
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa987cccc001ea54f39b64c212d14ba3a40b06090310ec6478e8869176979e6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a4cbb1670b756a86d72991246c2241b61f76d9567b3887236503d3c3ecd5334
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,26 +69,26 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
+- Combustível
 - Energia Elétrica
-- Poluição Atmosférica
+- Equipamento de Veículo
 - Equipamento Eléctrico
 - Especificação Técnica
-- Combustível
 - Instituto da Mobilidade e dos Transportes
-- Veículo
-- Segurança Rodoviária
-- Veículo Elétrico
-- Proteção do Ambiente
-- Equipamento de Veículo
-- Qualidade de VIDA
 - Poluição
-- Regulamento
+- Poluição Atmosférica
 - Poluição Sonora
-- Sinalização
+- Proteção do Ambiente
+- Qualidade de VIDA
+- Regulamento
 - Regulamento da Homologação de Veículos a Motor de DUAS e TRES Rodas e Respectivo Indicador de Velocidade
 - Regulamento dos Elementos e Caracteristicas dos Veículos a Motor de DUAS e TRES Rodas
 - Regulamento Relativo a Instalação dos Dispositivos de Iluminação e de Sinalização Luminosa nos Veículos a Motor de DUAS
   ou TRES Rodas
+- Segurança Rodoviária
+- Sinalização
+- Veículo
+- Veículo Elétrico
 - Veículo Hibrido
 relationships:
 - type: cites
@@ -120,15 +120,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 55
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:59Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +179,9 @@ Os artigos 145.º, 146.º, 147.º, 161.º, 191.º e 192.º do Regulamento Relati
 
 Os veículos da categoria L1e, L2e e L6e, em conformidade com as emissões de Euro 3 devem ser sujeitos aos ensaios dos tipos I e II descritos nos artigos 146.º e 147.º do presente Regulamento.
 
-###### Artigo 146.º — [...]
+Artigo 146.º
+
+[...]
 
 1 - O ensaio de tipo I para controlo das emissões médias de gases poluentes numa zona urbana de tráfego intenso depois de arranque a frio, é efetuado de acordo com o estabelecido nos números seguintes.
 
@@ -229,7 +231,9 @@ b) Bastam dois ensaios se V(índice 1)(igual ou menor que)0,85 L para todos os p
 
 13 - Os veículos da categoria L1e, L2e e L6e que cumpram os limites Euro 3 para o ensaio de tipo I estabelecidos no quadro constante do n.º 1 do anexo XXXIII-A e os requisitos para o ensaio do tipo I estabelecidos no presente capítulo devem ser homologados enquanto veículos conformes com a norma Euro 3.
 
-###### Artigo 147.º — [...]
+Artigo 147.º
+
+[...]
 
 1 - Ensaio do tipo II para controlo das emissões de monóxido de carbono e de hidrocarbonetos não queimados em marcha lenta sem carga, é efetuado de acordo com o estabelecido nos números seguintes.
 
@@ -237,7 +241,9 @@ b) Bastam dois ensaios se V(índice 1)(igual ou menor que)0,85 L para todos os p
 
 3 - O presente ensaio deve ser executado em conformidade com o método descrito no anexo XXXV do presente Regulamento.
 
-###### Artigo 161.º — [...]
+Artigo 161.º
+
+[...]
 
 1 - [...].
 
@@ -267,11 +273,15 @@ b) Bastam dois ensaios se V(índice 1)(igual ou menor que)0,85 L para todos os p
 
 14 - [...].
 
-###### Artigo 191.º — [...]
+Artigo 191.º
+
+[...]
 
 O combustível de referência gasolina (E5) deve ser especificado em conformidade com a secção A do anexo IX do [Regulamento (CE) n.º 692/2008](https://data.europa.eu/eli/reg/2008/692/oj?locale=pt), da Comissão, de 18 de julho de 2008.
 
-###### Artigo 192.º — [...]
+Artigo 192.º
+
+[...]
 
 O combustível de referência gasóleo (B5) deve ser especificado em conformidade com a secção A do anexo IX do [Regulamento (CE) n.º 692/2008](https://data.europa.eu/eli/reg/2008/692/oj?locale=pt), da Comissão, de 18 de julho de 2008.»
 
@@ -347,7 +357,9 @@ Os artigos 3.º, 10.º, 12.º, 13.º, 93.º, 101.º, 104.º, 119.º, 129.º, 137
 
 21) «Comutador principal de controlo do veículo» o dispositivo que ativa o sistema eletrónico a bordo do veículo, que passa de um estado desativado, como é o caso quando um veículo se encontra estacionado sem a presença do condutor, a um estado normal de funcionamento.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -375,7 +387,9 @@ b) Luzes de cruzamento (médios), que são automaticamente ligadas, quando o com
 
 11 - A condição referida no número anterior não será imposta no caso da luz de estrada e da luz de cruzamento, quando forem utilizadas para sinais luminosos produzidos por iluminação intermitente com pequenos intervalos da luz de cruzamento ou por iluminação intermitente da luz de estrada, ou por iluminação alternada com pequenos intervalos da luz de cruzamento e da luz de estrada.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -393,7 +407,9 @@ b) Luzes de cruzamento (médios), que são automaticamente ligadas, quando o com
 
 8 - A disposição referida no número anterior aplica-se, em especial, a veículos com sistemas de propulsão elétricos ou outros sistemas alternativos e a veículos equipados com um sistema automático de paragem/arranque do motor.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os veículos da categoria L1e devem satisfazer todas as prescrições pertinentes do Regulamento n.º 74 da UNECE, devendo estar equipados com os seguintes dispositivos de iluminação e de sinalização luminosa:
 
@@ -429,7 +445,9 @@ e) Refletores da frente não triangulares.
 
 8 - Na ausência de requisitos específicos no Regulamento n.º 74 da UNECE, os veículos da categoria L1e podem estar equipados com luzes de circulação diurna ativadas em vez de faróis de ligação automática que satisfaçam os requisitos estabelecidos nos artigos 167.º-A a 167.º-F do presente Regulamento.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - [...]:
 
@@ -475,7 +493,9 @@ i) Luz de circulação diurna.
 
 5 - [...].
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - No caso de o farol da luz de estrada estar montado, a instalação do avisador de acionamento é obrigatória.
 
@@ -485,7 +505,9 @@ i) Luz de circulação diurna.
 
 4 - O valor cumulado da intensidade máxima de todas as luzes de estrada suscetíveis de serem acionadas simultaneamente não deve exceder 430 000 cd, o que corresponde a um valor de referência de 100.
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 A localização das luzes de cruzamento deve obedecer ao disposto nas alíneas seguintes:
 
@@ -503,7 +525,9 @@ b) Em altura, as luzes de cruzamento devem ser instaladas a 500 mm, no mínimo, 
 
 c) Em comprimento, as luzes de cruzamento devem ser instaladas à frente do veículo, sendo esta exigência considerada respeitada se a luz emitida não causar incómodos ao condutor, direta ou indiretamente, por intermédio dos espelhos retrovisores e ou outras superfícies refletoras do veículo.
 
-###### Artigo 119.º — [...]
+Artigo 119.º
+
+[...]
 
 Devem ser instaladas as seguintes luzes de travagem:
 
@@ -513,7 +537,9 @@ b) Duas, no caso de veículos com uma largura total superior a 1300 mm;
 
 c) Uma luz de travagem da categoria S3 ou S4, ou seja, pode ser montada uma luz de travagem na parte superior central, desde que se cumpram todos os requisitos pertinentes do Regulamento UNECE n.º 48, aplicáveis à instalação de tais luzes de travagem para veículos da categoria M1.
 
-###### Artigo 129.º — [...]
+Artigo 129.º
+
+[...]
 
 A localização das luzes de presença da frente deve obedecer ao disposto nas alíneas seguintes:
 
@@ -531,7 +557,9 @@ b) Em altura, as luzes de presença da frente devem estar localizadas a 350 mm, 
 
 c) Em comprimento, as luzes de presença da frente devem estar localizadas à frente do veículo.
 
-###### Artigo 137.º — [...]
+Artigo 137.º
+
+[...]
 
 A localização das luzes de presença da retaguarda deve obedecer ao disposto nas alíneas seguintes:
 
@@ -547,7 +575,9 @@ b) Em altura, as luzes de presença da retaguarda devem estar localizadas a 250 
 
 c) Em comprimento, as referidas luzes devem estar localizadas na retaguarda do veículo.
 
-###### Artigo 145.º — [...]
+Artigo 145.º
+
+[...]
 
 A localização dos refletores da retaguarda não triangulares deve obedecer ao disposto nas alíneas seguintes:
 
@@ -563,7 +593,9 @@ b) Em altura, o refletor da retaguarda não triangular deve ser colocado a 250 m
 
 c) Em comprimento, o refletor da retaguarda não triangular deve ser colocado na retaguarda do veículo.
 
-###### Artigo 168.º — [...]
+Artigo 168.º
+
+[...]
 
 1 - Os veículos da categoria L3e devem satisfazer todas os requisitos pertinentes do Regulamento n.º 53 da UNECE, com exceção do ponto 5.14.9.
 
@@ -575,7 +607,9 @@ c) Em comprimento, o refletor da retaguarda não triangular deve ser colocado na
 
 5 - [...].
 
-###### Artigo 259.º — [...]
+Artigo 259.º
+
+[...]
 
 1 - [...].
 
@@ -597,13 +631,17 @@ e) Luz de circulação diurna.
 
 5 - [...].
 
-###### Artigo 268.º — Outros requisitos
+Artigo 268.º
+
+Outros requisitos
 
 1 - As luzes de estrada de veículos que tendem a inclinar-se nas curvas podem ser equipadas com um sistema de regulação da inclinação horizontal (HIAS), tal como definido no ponto 2.25 do Regulamento n.º 53 da UNECE, desde que sejam cumpridos todos os requisitos pertinentes desse regulamento aplicáveis aos HIAS.
 
 2 - O valor cumulado da intensidade máxima de todas as luzes de estrada suscetíveis de serem acionadas simultaneamente não deve exceder 430 000 cd, o que corresponde a um valor de referência de 100.
 
-###### Artigo 350.º — [...]
+Artigo 350.º
+
+[...]
 
 1 - [...].
 
@@ -625,13 +663,17 @@ e) Luz de circulação diurna.
 
 5 - [...].
 
-###### Artigo 359.º — Outros requisitos
+Artigo 359.º
+
+Outros requisitos
 
 1 - As luzes de estrada de veículos que tendem a inclinar-se nas curvas podem ser equipadas com um sistema de regulação da inclinação horizontal (HIAS), tal como definido no ponto 2.25 do Regulamento n.º 53 da UNECE, desde que sejam cumpridos todos os requisitos pertinentes desse regulamento aplicáveis aos HIAS.
 
 2 - O valor cumulado da intensidade máxima de todas as luzes de estrada suscetíveis de serem acionadas simultaneamente não deve exceder 430 000 cd, o que corresponde a um valor de referência de 100.
 
-###### Artigo 362.º — [...]
+Artigo 362.º
+
+[...]
 
 A localização das luzes de cruzamento deve obedecer ao disposto nas alíneas seguintes:
 
@@ -649,7 +691,9 @@ b) Em altura, a luz de cruzamento deve ser instalada a 500 mm, no mínimo, e a 1
 
 c) Em comprimento, a luz de cruzamento deve ser instalada à frente do veículo, sendo esta exigência considerada respeitada se a luz emitida não causar incómodos ao condutor, direta ou indiretamente, por intermédio dos espelhos retrovisores e ou outras superfícies refletoras do veículo.
 
-###### Artigo 377.º — [...]
+Artigo 377.º
+
+[...]
 
 Devem ser instaladas as seguintes luzes de travagem:
 
@@ -659,7 +703,9 @@ b) Duas, no caso de veículos com uma largura total superior a 1300 mm;
 
 c) Uma luz de travagem da categoria S3 ou S4, ou seja, pode ser montada uma luz de travagem na parte superior central, desde que se cumpram todos os requisitos pertinentes do Regulamento UNECE n.º 48, aplicáveis à instalação de tais luzes de travagem para veículos da categoria M1.
 
-###### Artigo 387.º — [...]
+Artigo 387.º
+
+[...]
 
 A localização das luzes de presença da frente deve obedecer ao disposto nas alíneas seguintes:
 
@@ -677,7 +723,9 @@ b) Em altura, as luzes de presença da frente devem estar localizadas a 350 mm, 
 
 c) Em comprimento, as luzes de presença da frente devem ser instaladas à frente do veículo.
 
-###### Artigo 395.º — [...]
+Artigo 395.º
+
+[...]
 
 A localização das luzes de presença da frente deve obedecer ao disposto nas alíneas seguintes:
 
@@ -693,7 +741,9 @@ b) Em altura, devem estar localizadas a 250 mm, no mínimo, e a 1500 mm, no máx
 
 c) Em comprimento, devem estar localizadas na retaguarda do veículo.
 
-###### Artigo 439.º — [...]
+Artigo 439.º
+
+[...]
 
 A localização dos refletores da retaguarda não triangulares deve obedecer ao disposto nas alíneas seguintes:
 
@@ -737,7 +787,9 @@ Outros requisitos
 
 6 - No caso de luzes de cruzamento com uma fonte luminosa cujo fluxo luminoso objetivo excede 2000 lúmenes e uma inclinação inicial entre -1,0 % e -1,5 %, a inclinação vertical deve manter-se entre -0,5 % e -2,5 % para todas as condições de carga e entre -1,0 % e -3,0 %, se a inclinação inicial for fixada entre -1,5 % e 2,0 %, podendo ser utilizado um dispositivo de nivelamento do farol para cumprir aqueles requisitos, desde que o seu funcionamento seja totalmente automático e o seu tempo de resposta inferior a 30 segundos.
 
-###### Artigo 109.º-B — Condições de ensaio
+Artigo 109.º-B
+
+Condições de ensaio
 
 Os requisitos de inclinação referidos no artigo anterior devem ser verificados da seguinte forma:
 
@@ -749,7 +801,9 @@ c) Veículo com uma massa de 75 kg a simular o condutor e com carga adicional de
 
 d) Antes de qualquer medição, o veículo deve ser agitado três vezes e em seguida deslocado para a frente e para trás, por, no mínimo, uma rotação completa da roda.
 
-###### Artigo 167.º-A — Número
+Artigo 167.º-A
+
+Número
 
 Devem ser instaladas as seguintes luzes de circulação diurna:
 
@@ -757,11 +811,15 @@ a) Uma ou duas, no caso de veículos com uma largura global não superior a 1300
 
 b) Duas, no caso de veículos com uma largura total superior a 1300 mm.
 
-###### Artigo 167.º-B — Disposição
+Artigo 167.º-B
+
+Disposição
 
 A disposição das luzes de circulação diurna não obedece a nenhuma especificação especial.
 
-###### Artigo 167.º-C — Localização
+Artigo 167.º-C
+
+Localização
 
 A localização das luzes de circulação diurna deve obedecer ao disposto nas alíneas seguintes:
 
@@ -781,7 +839,9 @@ c) Em comprimento, as luzes de circulação diurna devem ser colocadas à frente
 
 d) No caso da distância entre a luz indicadora de mudança de direção da frente e a luz de circulação diurna ser igual ou inferior a 40 mm, as ligações elétricas das luzes de circulação diurna do lado pertinente do veículo devem ser de molde a que, esteja desligada ou a sua intensidade luminosa esteja reduzida a um nível não superior a 140 cd, durante todo este período (tanto no ciclo ligado como desligado) de ativação da luz indicadora de mudança de direção da frente.
 
-###### Artigo 167.º-D — Visibilidade geométrica
+Artigo 167.º-D
+
+Visibilidade geométrica
 
 As luzes de circulação diurna devem ser instaladas, de modo a que:
 
@@ -791,11 +851,15 @@ b) (beta) = 20º para a esquerda e para a direita, se houver uma única luz de c
 
 c) (beta) = 20º para o exterior e 20º para o interior, se houver duas luzes de circulação diurna.
 
-###### Artigo 167.º-E — Orientação
+Artigo 167.º-E
+
+Orientação
 
 As luzes de circulação diurna devem ser orientadas para a frente, podendo rodar em função do ângulo de viragem de um guiador.
 
-###### Artigo 167.º-F — Ligações elétricas
+Artigo 167.º-F
+
+Ligações elétricas
 
 1 - Todas as luzes de circulação diurna devem acender-se quando o comutador principal de controlo for ativado, podendo, todavia, permanecer desligadas nas seguintes condições:
 
@@ -821,11 +885,15 @@ i) As luzes de cruzamento e os dispositivos de iluminação exigidos nos n.os 10
 
 ii) Se, posteriormente, as condições de iluminação ambiente atingirem um nível de, pelo menos, 7000 lux, as luzes de circulação diurna devem ser automaticamente reativadas, ao passo que as luzes de cruzamento e os dispositivos de iluminação exigidos nos n.os 10 e 11 do artigo 10.º, devem ser desativados em simultâneo num período de cinco a 300 segundos, ou seja, é necessário que as luzes se liguem de modo completamente automático se o condutor não tiver indicações visíveis e estímulos para ativar a iluminação normal quando estiver escuro.
 
-###### Artigo 167.º-G — Avisador de acionamento
+Artigo 167.º-G
+
+Avisador de acionamento
 
 A instalação do avisador de acionamento é facultativa.
 
-###### Artigo 349.º-A — Número
+Artigo 349.º-A
+
+Número
 
 Devem ser instaladas as seguintes luzes de circulação diurna:
 
@@ -833,11 +901,15 @@ a) Uma ou duas, no caso de veículos com uma largura global não superior a 1300
 
 b) Duas, no caso de veículos com uma largura total superior a 1300 mm.
 
-###### Artigo 349.º-B — Disposição
+Artigo 349.º-B
+
+Disposição
 
 A disposição das luzes de circulação diurna não obedece a nenhuma especificação especial.
 
-###### Artigo 349.º-C — Localização
+Artigo 349.º-C
+
+Localização
 
 A localização das luzes de circulação diurna deve obedecer ao disposto nas alíneas seguintes:
 
@@ -857,7 +929,9 @@ c) Em comprimento, as luzes de circulação diurna devem ser colocadas à frente
 
 d) No caso da distância entre a luz indicadora de mudança de direção da frente e a luz de circulação diurna ser igual ou inferior a 40 mm, as ligações elétricas das luzes de circulação diurna do lado pertinente do veículo devem ser de molde a que, esteja desligada ou a sua intensidade luminosa esteja reduzida a um nível não superior a 140 cd, durante todo este período (tanto no ciclo ligado como desligado) de ativação da luz indicadora de mudança de direção da frente.
 
-###### Artigo 349.º-D — Visibilidade geométrica
+Artigo 349.º-D
+
+Visibilidade geométrica
 
 As luzes de circulação diurna devem ser instaladas, de modo a que:
 
@@ -867,11 +941,15 @@ b) (beta) = 20º para a esquerda e para a direita, se houver uma única luz de c
 
 c) (beta) = 20º para o exterior e 20º para o interior, se houver duas luzes de circulação diurna.
 
-###### Artigo 349.º-E — Orientação
+Artigo 349.º-E
+
+Orientação
 
 As luzes de circulação diurna devem ser orientadas para a frente, podendo rodar em função do ângulo de viragem de um guiador.
 
-###### Artigo 349.º-F — Ligações elétricas
+Artigo 349.º-F
+
+Ligações elétricas
 
 1 - Todas as luzes de circulação diurna devem acender-se quando o comutador principal de controlo for ativado, podendo, todavia, permanecer desligadas nas seguintes condições:
 
@@ -897,11 +975,15 @@ i) As luzes de cruzamento e os dispositivos de iluminação exigidos nos n.os 10
 
 ii) Se, posteriormente, as condições de iluminação ambiente atingirem um nível de, pelo menos, 7000 lux, as luzes de circulação diurna devem ser automaticamente reativadas, ao passo que as luzes de cruzamento e os dispositivos de iluminação exigidos nos n.os 10 e 11 do artigo 10.º devem ser desativados em simultâneo num período de cinco a 300 segundos, ou seja, é necessário que as luzes se liguem de modo completamente automático se o condutor não tiver indicações visíveis e estímulos para ativar a iluminação normal quando estiver escuro.
 
-###### Artigo 349.º-G — Avisador de acionamento
+Artigo 349.º-G
+
+Avisador de acionamento
 
 A instalação do avisador de acionamento é facultativa.
 
-###### Artigo 367.º-A — Outros requisitos
+Artigo 367.º-A
+
+Outros requisitos
 
 1 - As luzes de cruzamento de veículos que tendem a inclinar-se nas curvas podem ser equipadas com um sistema de regulação da inclinação horizontal (HIAS), tal como definido no ponto 2.25 do Regulamento n.º 53 da UNECE, desde que sejam cumpridos todos os requisitos pertinentes desse regulamento aplicáveis aos HIAS.
 
@@ -915,7 +997,9 @@ A instalação do avisador de acionamento é facultativa.
 
 6 - No caso de luzes de cruzamento com uma fonte luminosa cujo fluxo luminoso objetivo excede 2000 lúmenes e uma inclinação inicial entre -1,0 % e -1,5 %, a inclinação vertical deve manter-se entre -0,5 % e -2,5 % para todas as condições de carga e, entre -1,0 % e -3,0 % se a inclinação inicial for fixada entre -1,5 % e 2,0 %, podendo ser utilizado um dispositivo de nivelamento do farol para cumprir os requisitos, desde que o seu funcionamento seja totalmente automático e o seu tempo de resposta inferior a 30 segundos.
 
-###### Artigo 367.º-B — Condições de ensaio
+Artigo 367.º-B
+
+Condições de ensaio
 
 Os requisitos de inclinação referidos no artigo anterior devem ser verificados da seguinte forma:
 
@@ -953,15 +1037,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de agosto de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima.
 
-**Promulgado em 5 de setembro de 2014.**
+Promulgado em 5 de setembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 11 de setembro de 2014.**
+Referendado em 11 de setembro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -1015,7 +1099,7 @@ Figura 1
 
 Amostragem de emissões de poluentes Euro 3 em comparação com Euro 2 para veículos das categorias L1e, L2e ou L6e
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
 
 4.3 - ...
 
@@ -1087,7 +1171,7 @@ Amostragem de emissões de poluentes Euro 3 em comparação com Euro 2 para veí
 
 8.2. - A massa de monóxido de carbono emitida durante o ensaio é determinada por intermédio da fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
 
 em que:
 
@@ -1105,7 +1189,7 @@ X = 2 para a fase 2 a quente;
 
 8.2.4 - CO(índice c) é a concentração volumétrica de monóxido de carbono nos gases diluídos, expressa em partes por milhão (ppm), e corrigida para atender à poluição do ar de diluição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
 
 em que:
 
@@ -1117,7 +1201,7 @@ em que:
 
 8.2.5 - V é o volume total, expresso em m3/fase, de gases diluídos, à temperatura de referência de 273,2 K (0 ºC) e à pressão de referência de 101,3 kPa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
 
 em que:
 
@@ -1133,7 +1217,7 @@ em que:
 
 8.3 - A massa de hidrocarbonetos não queimados emitida pelo escape do veículo durante o ensaio calcula-se por meio da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
 
 em que:
 
@@ -1145,7 +1229,7 @@ em que:
 
 8.3.4 - HC(índice c) é a concentração dos gases diluídos, expressa em ppm de carbono equivalente e corrigida para ter em conta o ar de diluição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
 
 em que:
 
@@ -1159,7 +1243,7 @@ em que:
 
 8.4 - A massa de óxidos de azoto emitida pelo escape do ciclomotor durante o ensaio calcula-se por meio da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
 
 em que:
 
@@ -1171,7 +1255,7 @@ em que:
 
 8.4.4 - NO(índice xc) é a concentração de óxido de azoto nos gases diluídos, expressa em ppm e corrigida para ter em conta o ar de diluição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
 
 em que:
 
@@ -1183,13 +1267,13 @@ em que:
 
 8.4.5 - K(índice h) é o fator de correção para a humidade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
 
 em que:
 
 8.4.5.1 - H é a humidade absoluta, em gramas de água por kg de ar seco (em g/kg)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
 
 em que:
 
@@ -1205,7 +1289,7 @@ em que:
 
 A massa de dióxido de carbono emitida pelo escape do veículo durante o ensaio deve ser calculada por meio da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
 
 em que:
 
@@ -1219,7 +1303,7 @@ em que:
 
 8.5.5 - CO(índice 2c) é a concentração dos gases diluídos, expressa em percentagem de dióxido de carbono equivalente, corrigida para ter em conta o ar de diluição por meio da seguinte equação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
 
 em que:
 
@@ -1231,7 +1315,7 @@ em que:
 
 8.6 - DF é um coeficiente expresso pela fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
 
 em que:
 
@@ -1245,7 +1329,7 @@ em que:
 
 O resultado (médio) da fase a frio designa-se R(índice X1) (em g), o resultado (médio) da fase a quente designa-se R(índice X2) (em g). Ao utilizar estes resultados das emissões, o resultado final do ensaio de tipo I R(índice X) (em g/km) deve ser calculado por meio da seguinte equação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
 
 em que:
 
@@ -1265,7 +1349,7 @@ S(índice T): distância de ensaio total = S(índice 1) + S(índice 2) efetivame
 
 O consumo de combustível deve ser calculado utilizando os resultados do ensaio do ponto 9 do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
 
 em que:
 
@@ -1285,7 +1369,9 @@ Figura 3
 
 [...]
 
-## ANEXO XXXIII-A — (a que se refere o n.º 9 do artigo 146.º e o n.º 3 do artigo 149.º)
+ANEXO XXXIII-A
+
+(a que se refere o n.º 9 do artigo 146.º e o n.º 3 do artigo 149.º)
 
 1 - As massas totais de monóxido de carbono, hidrocarbonetos e óxidos de azoto obtidas em cada ensaio serem inferiores aos valores-limite Euro 3 especificados no quadro seguinte:
 
@@ -1293,7 +1379,7 @@ QUADRO 1
 
 Limites de emissão euro 3 para os veículos das categorias L1e, L2e e L6e
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17700/0494004958.pdf)
 
 2 - ...»
 
@@ -1465,7 +1551,9 @@ valor corrigido do coeficiente de absorção:... m(elevado a -1)
 
 (14) Para veículos da categoria L no âmbito de aplicação do artigo 1.º do Regulamento da Homologação de Veículos a Motor de Duas e Três Rodas e Respetivo Indicador de Velocidade, com exceção dos veículos das categorias L1e, L2e e L6e.
 
-## ANEXO VI-A — [...]
+ANEXO VI-A
+
+[...]
 
 [...]
 
@@ -1593,7 +1681,9 @@ Temperatura do óleo do motor (3) (5): ...
 
 [...]
 
-## ANEXO XVIII — [...]
+ANEXO XVIII
+
+[...]
 
 [...]
 
@@ -1659,7 +1749,9 @@ Temperatura do óleo do motor (3) (5): ...
 
 [...]
 
-## ANEXO XXII — [...]
+ANEXO XXII
+
+[...]
 
 [...]
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/07100/0030100306.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/64/2025/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aae675df0ee3035a2b04adff2606673969d24d124373703dd75fa06658e30fc1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78e7c9234064308fe9f870c49bc0837a6c1af20324c00157d7ac09e8c8c63ef1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- GADO
-- Direção Geral da Saúde
-- Proteção dos Animais
-- Contra-ordenação
-- Direção Geral de Alimentação e Veterinária
 - Abate de Animais
-- IFAP
-- LOBO
-- Instituto da Conservação da Natureza e das Florestas
-- Proteção do Ambiente
+- Contra-ordenação
+- Direção Geral da Saúde
+- Direção Geral de Alimentação e Veterinária
 - Espécie Protegida
+- GADO
+- IFAP
+- Instituto da Conservação da Natureza e das Florestas
+- LOBO
+- Proteção do Ambiente
+- Proteção dos Animais
 relationships:
 - type: amended_by
   target: pt:dre:1154275215:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:54/2016
+  label: Altera, a partir de 1 de abril de 2025, os artigos 2.º, 5.º, 8.º, 9.º, 10.º, 11.º e 15.º, adita os artigos 7.º-A,
+    8.º-A e 11.º-A que passam a integrar o capítulo iii, e revoga o artigo 17.º do Decreto-Lei n.º 54/2016, de 25 de agosto,
+    Diário da República n.º 163/2016, Série I
+  source: null
+  date: '2016-08-25'
 - type: cites
   target: celex:32022R2472
   label: null
@@ -98,16 +105,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/335/2017/11/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/335/2017/11/06/p/dre
+- type: cites
+  target: pt:dre:114152777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187413389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75195061:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:335/2017
+  label: Revoga, a partir de 15 de abril de 2025, a Portaria n.º 335/2017, de 6 de novembro, Diário da República n.º 213/2017,
+    Série I
+  source: null
+  date: '2017-11-06'
 article_structure:
-  article_count: 13
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:45Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +205,9 @@ e) [...]
 
 f) [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -182,7 +221,9 @@ f) [...]
 
 6 - Compete ao ICNF, I. P., licenciar os atos e atividades previstos nos números anteriores, salvo os do n.º 2, cuja prática compete à Direção-Geral da Saúde (DGS) ou à Direção-Geral de Alimentação e Veterinária (DGAV), após parecer, não vinculativo, do ICNF, I. P., a emitir no prazo de 20 dias úteis.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Quando ocorram danos em animais atribuíveis diretamente ao lobo-ibérico, os mesmos são passíveis de indemnização ao respetivo produtor, mediante participação, efetuada diretamente pelo interessado ou por quem o represente, na área reservada do portal do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), nos termos do disposto nos números seguintes.
 
@@ -196,7 +237,9 @@ c) Cães de proteção de gado e cães de condução de gado, quando no exercíc
 
 3 - Quando de um ataque de lobo-ibérico resultar o desaparecimento de animais, os danos causados nos mesmos apenas podem ser considerados para efeitos de indemnização se o seu aparecimento ou do respetivo cadáver for comunicado até sete dias seguidos após a participação a que se refere o n.º 1.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -222,7 +265,9 @@ h) [...]
 
 4 - Findo o procedimento referido nos números anteriores, o ICNF, I. P., determina se os danos sofridos são efetivamente passíveis de indemnização ou não.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - As indemnizações de danos causados por lobo-ibérico enquadram-se no [Regulamento (UE) 2022/2472](http://data.europa.eu/eli/reg/2022/2472/oj?locale=pt), da Comissão Europeia, de 14 de dezembro de 2022.
 
@@ -254,7 +299,7 @@ b) Estarem confinados em locais com estruturas adequadas à sua proteção contr
 
 7 - No caso de danos provocados em cães de proteção de gado e cães de condução de gado, quando no exercício das suas funções, o valor da indemnização devida é sempre o previsto na alínea a) do n.º 4, independentemente do número de ataques de lobo.
 
-8 - Se os danos a indemnizar por ataque de lobo forem de ferimentos nos animais, a indemnização devida é a seguinte, sem prejuízo do disposto nos n.<sup>os</sup>4, 5 e 7:
+8 - Se os danos a indemnizar por ataque de lobo forem de ferimentos nos animais, a indemnização devida é a seguinte, sem prejuízo do disposto nos n.os4, 5 e 7:
 
 a) Se a gravidade dos ferimentos permitir concluir que o animal não vai sobreviver ou que fica incapacitado para o desempenho das suas funções, o produtor deve providenciar o seu abate e é indemnizado de acordo com o valor fixado no despacho referido no n.º 2;
 
@@ -266,7 +311,9 @@ c) Se o animal previsto na alínea anterior vier a morrer até 30 dias após o a
 
 10 - A indemnização por danos em animais referida nos números anteriores é equiparada a subsídio ou subvenção, para os efeitos previstos no artigo 21.º e no artigo 36.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de janeiro, na sua redação atual.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -282,7 +329,9 @@ d) O lesado não colaborar no agendamento ou na realização da vistoria previst
 
 3 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 A instrução dos processos contraordenacionais previstos no artigo 12.º e respetivas decisões, incluindo a aplicação das coimas e sanções acessórias, compete ao ICNF, I. P.»
 
@@ -296,11 +345,15 @@ Adoção de medidas de proteção
 
 Cabe ao produtor adotar as medidas de proteção que melhor se adequem à sua prática de pastoreio, de modo a minimizar o risco de ataque de lobo, seja pela presença de pastor e cães de proteção de gado, seja pela utilização de estruturas que confinem os animais, nomeadamente os mais vulneráveis, como crias ou fêmeas gestantes, ou durante os períodos de maior risco, como o inverno ou a noite.
 
-###### Artigo 8.º-A — Animais em sequestro
+Artigo 8.º-A
+
+Animais em sequestro
 
 Os danos causados em animais sujeitos a sequestro sanitário dão lugar ao pagamento de indemnização, salvo nos casos em que haja indicação por parte da DGAV ou de outra entidade competente para o efeito, de que a sujeição a sequestro resulta de negligência do proprietário.
 
-###### Artigo 11.º-A — Competências para a indemnização
+Artigo 11.º-A
+
+Competências para a indemnização
 
 1 - Compete ao ICNF, I. P., reconhecer o direito à indemnização, na sequência do procedimento referido no artigo 9.º, e registar essa decisão no Sistema de Informação do IFAP, I. P.
 
@@ -322,12 +375,14 @@ b) A [Portaria n.º 335/2017](https://diariodarepublica.pt/dr/detalhe/portaria/3
 
 Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Maria da Graça Carvalho - José Manuel Fernandes.
 
-**Promulgado em 24 de março de 2025.**
+Promulgado em 24 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 25 de março de 2025.**
+Referendado em 25 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118865488

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/207/1991/09/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/207-1991-291915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T07:50:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b62e83059f8ef6a439710b53f1541da4653d833216e33cb557c6b15bb5ef1909
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6e4bfc7bec4988d226721f27402ae03bd26ad003e8cbdf141f701b8e3b4bdc2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:50:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Eleição Legislativa
 - Assembleia da República
-- Transferência de Verbas
 - Autarquia Local
-relationships: []
+- Eleição Legislativa
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:420433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421775:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:50:53Z'
   warnings: []
   errors: []
 ---
@@ -106,4 +114,4 @@ Eleição da Assembleia da República - 1991
 
 Mapa resumo por distrito e região autónoma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/220b00/50285028.pdf))](https://files.diariodarepublica.pt/1s/1991/09/220b00/50285028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/220b00/50285028.pdf)

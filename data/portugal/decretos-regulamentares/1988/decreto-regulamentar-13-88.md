@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-1988-285936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b2bbe7d1cc117bc28560fd38f12e3d32cdd2c270f71219063e88dc444b7c4b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e04d9f8279d6db49c82e01cb2a387a44154a84d6c2fc5ad96481694e85d67ff7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfama
+- ÁREA Crítica de Recuperação e Reconversão Urbanística
+- Câmara Municipal
+- Lisboa
+- Mouraria
+- Venda de Imóveis
 relationships:
 - type: amended_by
   target: pt:dre:223385:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-04-30'
+- type: amended_by
+  target: pt:dre:633545:por
+  label: "Prorrogado o prazo fixado no nº 2 do art. 1º, pelo DR.31/91.1991.06.06.MPLAT, DR.IS-B [60]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/31-1991-633545
+  date: '1991-06-06'
+- type: amended_by
+  target: pt:dre:223385:por
+  label: "Prorrogado o prazo fixado no nº 2 do art. 1º, posteriormente prorrogado pelo DR 31/91 de 06-Jun, pelo DR.8/95.1995.04.26.MPLAT,\
+    \ DR.IS-B [97]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/8-1995-223385
+  date: '1995-04-26'
+- type: cites
+  target: pt:dre:220959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:461038:por
+  label: Rectificado pela DECL.DD2608.1988.04.08.PCM,DR.IS [100]Supl de 30/Abr/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-461038
+  date: '1988-04-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:46Z'
   warnings: []
   errors: []
 ---
@@ -99,20 +138,20 @@ Ao abrigo do disposto no n.º 1 do artigo 27.º do [Decreto-Lei n.º 794/76](htt
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É cedido à Câmara Municipal de Lisboa, nos termos do artigo 27.º, n.º 1, do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, o direito de preferência nas transmissões a título oneroso entre particulares de terrenos ou de edifícios situados nas áreas críticas de recuperação e reconversão urbanística dos Bairros de Alfama e da Mouraria, delimitadas pelos Decretos Regulamentares n.os [60/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/60-1986-220959), de 31 de Outubro, e [61/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1986-221106), de 3 de Novembro, respectivamente, e que não estejam abrangidas por zonas de protecção legalmente definidas.
+Artigo 1.º - 1 - É cedido à Câmara Municipal de Lisboa, nos termos do artigo 27.º, n.º 1, do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, o direito de preferência nas transmissões a título oneroso entre particulares de terrenos ou de edifícios situados nas áreas críticas de recuperação e reconversão urbanística dos Bairros de Alfama e da Mouraria, delimitadas pelos Decretos Regulamentares n.os [60/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/60-1986-220959), de 31 de Outubro, e [61/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1986-221106), de 3 de Novembro, respectivamente, e que não estejam abrangidas por zonas de protecção legalmente definidas.
 
 2 - Este direito é concedido pelo prazo de três anos a contar da entrada em vigor do presente diploma.
 
-###### Art. 2.º A comunicação a que se refere o artigo 3.º do Decreto-Lei n.º 862/76, de 22 de Dezembro, deverá ser dirigida ao presidente da Câmara Municipal de Lisboa.
+Art. 2.º A comunicação a que se refere o artigo 3.º do Decreto-Lei n.º 862/76, de 22 de Dezembro, deverá ser dirigida ao presidente da Câmara Municipal de Lisboa.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 25 de Fevereiro de 1988.**
+Promulgado em 25 de Fevereiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Fevereiro de 1988.**
+Referendado em 26 de Fevereiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

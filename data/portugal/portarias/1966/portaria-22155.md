@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22155-1966-474541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0560cfa794a7bb8464a7525c78227740a9b8e2f025878a04b7669a7af63c5b0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c8a94f33d6f9114b258059eaab499c55f47685a23a0f00e7291cbc4690db438
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:187544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475906:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:36Z'
   warnings: []
   errors: []
 ---
@@ -93,12 +101,12 @@ Número único. Os n.os 2.º, 3.º e 6.º da [Portaria n.º 21992](https://diari
 
 2.º As quantidades mínimas, em quilogramas, de papéis correntes que as fábricas podem vender por cada encomenda e para entrega por uma só vez, por cada referência, gramagem, acabamento, cor e formato de papel, constam do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/08/18100/13451346.pdf))](https://files.diariodarepublica.pt/1s/1966/08/18100/13451346.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/08/18100/13451346.pdf)
 
 3.º As encomendas dos papéis correntes de cor, com excepção das cores branca e natural, podem ser preenchidas dentro dos mínimos estabelecidos no n.º 2.º com cores sortidas, de entre as que constam, para cada referência, da secção 3.3 da norma NP-268, referente a características de identificação primária dos papéis correntes.
 
 6.º As quantidades mínimas, em quilogramas, de papéis especiais que as fábricas podem vender por cada encomenda e para entrega por uma só vez, por cada referência, gramagem, acabamento, cor e formato de papel, constam do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/08/18100/13451346.pdf))](https://files.diariodarepublica.pt/1s/1966/08/18100/13451346.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/08/18100/13451346.pdf)
 
 Secretarias de Estado do Comércio e da Indústria, 5 de Agosto de 1966. - O Secretário de Estado do Comércio, Fernando Manuel Alves Machado. - O Secretário de Estado da Indústria, Manuel Rafael Amaro da Costa.

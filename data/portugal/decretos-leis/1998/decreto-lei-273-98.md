@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/202a00/45814591.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/273/1998/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1998-566856
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b72618bcc1cdf012c834eca4fe9727b2fb0f76506d4150940b580d7b5234e2a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c244c84601f460d3ae7e152c79a3a3b897c9470eedd3a2d61f07acfd235c7a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
-- Produto Químico
 - Aproximação das Legislações
-- Gestão de Resíduos
+- Atividade Industrial
 - CEE
-- Multa
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral do Ambiente
+- Eliminação de Resíduos
 - Fiscalização
+- Gestão de Resíduos
 - Incineração de Resíduos
 - Indústria
 - Inspecção Geral do Ambiente
-- Licenciamento
 - Instituto dos Resíduos
-- Proteção do Ambiente
+- Licenciamento
+- Multa
 - Política do Ambiente
 - Poluição Industrial
-- Eliminação de Resíduos
+- Produto Químico
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:532798:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544775:por
+  label: "Suspenso desde a respectiva entrada em vigor relativamente às operações de co-incineração de resíduos industriais\
+    \ perigosos, incluindo a avaliação e selecção de locais para queima e tratamento desses resíduos,pela LEI.20/99.1999.04.15.AR\
+    \ DR.IS-A [88]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-1999-544775
+  date: '1999-04-15'
+- type: amended_by
+  target: pt:dre:545274:por
+  label: "Estabelecida a cessação da suspensão da vigência das normas relativas aos limites de emissão, bem como das constantes\
+    \ do Cap. III relativas à fiscalização e sancionamento das operações de co-incineração de resíduos industriais perigosos\
+    \ do presente diploma, pelo DEC LEI.121/99.1999.04.16.PCM DR.IS-A [89], determinada pela Lei 20/99 de 15-Abr.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-1999-545274
+  date: '1999-04-16'
+- type: amended_by
+  target: pt:dre:321343:por
+  label: "Cessada a suspensão da vigência das normas relativas às operações de co-incineração de resíduos industriais perigosos,\
+    \ incluindo a avaliação e selecção de locais para queima e tratamento desses resíduos (efectuada pela Lei 20/99 de 15-Abr)\
+    \ pelo DEC LEI.154-A/2001.2001.05.08.MAOT DR.IS-A [106]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-a-2001-321343
+  date: '2001-05-08'
 - type: cites
   target: celex:31991L0692
   label: null
@@ -98,16 +119,26 @@ relationships:
   target: celex:31994L0067
   label: null
   source: http://data.europa.eu/eli/dir/1994/67/oj
+- type: corrected_by
+  target: pt:dre:610736:por
+  label: "Rectificado pela DECL-RECT.19-B/98.1998.10.30.PCM DR.IS-A [252]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/19-b-1998-610736
+  date: '1998-10-30'
+- type: repealed_by
+  target: pt:dre:532798:por
+  label: "Revogado a partir de 28.12.2005 pelo DEC LEI.85/2005.28.04.2005.MAOT, DR.IS-A [82] de 28.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-2005-532798
+  date: '2005-04-28'
 article_structure:
   article_count: 25
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:59Z'
   warnings: []
   errors: []
 ---
@@ -490,13 +521,13 @@ Os valores limite de emissão constantes do n.º 11.2 do anexo VI à Portaria n.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1998. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 8 de Agosto de 1998.**
+Promulgado em 8 de Agosto de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Agosto de 1998.**
+Referendado em 20 de Agosto de 1998.
 
 Pelo Primeiro-Ministro, Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros.
 

@@ -22,12 +22,12 @@ publication:
   reference: Diário da República n.º 108/2015, 1º Suplemento, Série I de 2015-06-04
   number: '108'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3620-(2) a 3620-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/10801/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/101-a/2015/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-a-2015-67403642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d2095a022749f40252dc88b0a4e3edbc7cbe0ce34b0b7f89a10334b461b4a90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efc1af40f66c4f2c7966a59a4cc7c5cb90c1374cb37e12c1899a4f1a3c7a7063
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,14 +70,14 @@ reuse:
 subjects:
 - Aicep
 - Ensino Português no Estrangeiro
-- Remuneração Acessória
 - Instituto do Turismo de Portugal
+- Ministério dos Negócios Estrangeiros
 - Operação Cambial
 - Pessoal Diplomático
 - Pessoal Docente
 - Regime Cambial
 - Remuneração
-- Ministério dos Negócios Estrangeiros
+- Remuneração Acessória
 - Serviços Periféricos
 - Trabalhador por Conta de Outrem
 relationships:
@@ -85,6 +85,12 @@ relationships:
   target: pt:dre:72991301:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:72991301:por
+  label: Alterado o art. 1.º e prorrogada a vigência, até 30.06.2016, do presente diploma, pelo(a) Decreto-Lei n.º 252/2015
+    - Diário da República n.º 254/2015, Série I de 2015-12-30 nos termos do art. 4.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/252-2015-72991301
+  date: '2015-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-le
   label: null
@@ -125,16 +131,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
+- type: cites
+  target: pt:dre:158429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56890480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212742:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:20Z'
   warnings: []
   errors: []
 ---
@@ -181,16 +247,16 @@ O presente decreto-lei produz os seus efeitos a 1 de janeiro de 2015 e vigora at
 
 Visto e aprovado em Conselho de Ministros de 14 de maio de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 2 de junho de 2015.**
+Promulgado em 2 de junho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de junho de 2015.**
+Referendado em 4 de junho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/10801/0000200002.pdf))](https://files.diariodarepublica.pt/1s/2015/06/10801/0000200002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/10801/0000200002.pdf)

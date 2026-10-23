@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 81/1978, 2º Suplemento, Série I de 1978-04-07
   number: '81'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 636-(5) a 636-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/192-b-1978-656379
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T05:34:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ae162c23775d790a3202a0d9febb533c24216a5adc7584c3e232674eb5b13c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9673478b847c21273894e259c0d46744476b65a798a9303d067dcace413305d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:34:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Armazenagem
+- Comércio
+- Cooperativa
+- Definição de Competências
+- Especificação Técnica
+- Exploração Pecuária
+- Fundo de Abastecimento
+- Importação
+- Junta Nacional dos Produtos Pecuários
+- Lacticínios
+- Leite
+- Madeira.região Autónoma
+- Margens de Comercialização
+- Preço de Venda
+- Produção Leiteira
+- Queijo
+- Subsídio não Reembolsável
 relationships:
 - type: amended_by
   target: pt:dre:515837:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:294552:por
+  label: Complementado o disposto no presente diploma pelo(a) Despacho Normativo n.º 127/78 - Diário da República n.º 125/1978,
+    Série I de 1978-06-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/127-1978-294552
+  date: '1978-06-01'
+- type: amended_by
+  target: pt:dre:297606:por
+  label: Alterado o n.º 4 do n.º 16.º pelo(a) Portaria n.º 380/78 - Diário da República n.º 160/1978, Série I de 1978-07-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/380-1978-297606
+  date: '1978-07-14'
+- type: amended_by
+  target: pt:dre:392043:por
+  label: "Alterado o n.º 37º do presente diploma, pela PORT.21/79.17.01.1979.MFP, DR.IS [14] de 17.01.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/21-1979-392043
+  date: '1979-01-17'
+- type: cites
+  target: pt:dre:250817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:295845:por
+  label: Retificados o n.º 1 do n.º 13.º e o n.º 14.º pelo(a) Declaração - Diário da República n.º 108/1978, Série I de 1978-05-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-295845
+  date: '1978-05-11'
+- type: repealed_by
+  target: pt:dre:515837:por
+  label: Revogado o presente diploma, alterado pelas Port 380/78 de 14-jul e 21/79 de 17-jan, pela PORT.165/79.11.04.1979.MFP,
+    DR.IS [85-SUPL] de 11.04.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/165-1979-515837
+  date: '1979-04-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:34:44Z'
   warnings: []
   errors: []
 ---
@@ -212,7 +281,7 @@ Leite pasteurizado, leite comum tratado, leite ultrapasteurizado, leite esterili
 
 13.º - 1 - Os preços de revenda e venda ao público do leite pasteurizado nos postos de abastecimento e outros estabelecimentos, para utilizar fora do local de quisição e ao domicílio no continente, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf)
 
 2 - Aos preços fixados neste número para venda ao público poderá acrescer a importância de $20 por embalagem vendida para consumo fora da localidade onde se situam as instalações de tratamento.
 
@@ -228,7 +297,7 @@ Leite pasteurizado, leite comum tratado, leite ultrapasteurizado, leite esterili
 
 15.º - 1 - Os preços à porta da central de tratamento e na venda ao público do leite ultrapasteurizado no continente, para utilizar fora do local de aquisição, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf)
 
 2 - A margem mínima para o retalho é de $70 por litro.
 
@@ -236,7 +305,7 @@ Leite pasteurizado, leite comum tratado, leite ultrapasteurizado, leite esterili
 
 16.º - 1 - Os preços de revenda e de venda ao público do leite esterilizado no continente, para utilizar fora do local de aquisição, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf)
 
 2 - A margem mínima do retalhista é de $80 por litro.
 
@@ -246,7 +315,7 @@ Leite pasteurizado, leite comum tratado, leite ultrapasteurizado, leite esterili
 
 17.º - 1 - Os preços de revenda e venda ao público de leite especial pasteurizado no continente, para utilizar fora do local de aquisição, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf)
 
 2 - Da margem do retalhista prevista neste número poderá ser deduzida a importância de $20 por embalagem, quando colocada nos estabelecimentos de venda a retalho.
 
@@ -280,7 +349,7 @@ Leite pasteurizado, leite comum tratado, leite ultrapasteurizado, leite esterili
 
 32.º - 1 - Os preços máximos à porta da fábrica e na venda ao público do queijo tipo Flamengo de fabrico continental, com 40% ou mais de gordura, no continente, são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf)
 
 2 - Para o queijo tipo Flamengo, de fabrico açoriano, com 40% ou mais de gordura, os preços máximos no armazém do consignatário no continente e na venda ao público no continente são, respectivamente, 131$00 e 162$00 por quilograma.
 
@@ -292,7 +361,7 @@ Leite pasteurizado, leite comum tratado, leite ultrapasteurizado, leite esterili
 
 34.º - 1 - Os preços máximos à porta da fábrica e na venda ao público do leite condensado no continente são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf)
 
 2 - A margem mínima do retalhista é de 15% sobre o preço de aquisição.
 
@@ -300,13 +369,13 @@ Leite pasteurizado, leite comum tratado, leite ultrapasteurizado, leite esterili
 
 35.º - 1 - Os preços máximos de venda do leite em pó a granel de fabrico açoriano, com destino à indústria utilizadora continental, são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf)
 
 2 - Quando destinado à indústria de leite em pó embalado para venda ao público no continente, o leite em pó a granel de fabrico açoriano auferirá de um subsídio unitário a definir por despacho conjunto dos Secretários de Estado do Orçamento, do Comércio e Indústrias Agrícolas e do Comércio Interno.
 
 36.º - 1 - Os preços máximos de revenda e de venda ao público no continente do leite em pó embalado no continente são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08102/00050009.pdf)
 
 2 - Entende-se por preço de revenda o preço à porta da fábrica, quando embalado no continente ou no armazém do consignatário, quando embalado nos Açores.
 
@@ -338,4 +407,4 @@ Lista anexa a que se refere o n.º 1 do n.º 6.º da presente portaria
 
 7) Vasos colectores e medidores.
 
-**O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado do Fomento Agrário, Apolinário José Barbosa da Cruz Vaz Portugal. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Alcino Cardoso. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.**
+O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado do Fomento Agrário, Apolinário José Barbosa da Cruz Vaz Portugal. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Alcino Cardoso. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.

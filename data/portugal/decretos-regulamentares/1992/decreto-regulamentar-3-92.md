@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/03/055b00/11961197.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/3/1992/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1992-168204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c3d640cca8caaf2b6c70c5d1e3e02a44cae96327e44bad7726b1d94a356799c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d17bbef920b4bb95ba078fecaf0674bada3c8587192aa1f2293892d7e472b3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Radioprotecção
-- Higiene do Trabalho
 - Direcção Geral dos Cuidados de Saúde Primários
+- Higiene do Trabalho
+- Radioprotecção
 - Saúde Pública
 - Segurança no Trabalho
 relationships:
@@ -75,16 +75,36 @@ relationships:
   target: pt:dre:204379871:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:205669:por
+  label: "Derrogado o DR 9/90 de 19-Abr, com a redacção do presente diploma, pelo DEC LEI.165/2002.2002.07.17.MS DR.IS-A [163],\
+    \ relativamente à matéria que contrarie as disposições daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/165-2002-205669
+  date: '2002-07-17'
+- type: cites
+  target: pt:dre:332262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548836:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:117202785:por
+  label: Revogado, a partir de 02.04.2019, o DR 9/90 de 19-abr, alterado pelo presente diploma, pelo(a) Decreto-Lei n.º 108/2018
+    - Diário da República n.º 232/2018, Série I de 2018-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:09Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +121,7 @@ Assim:
 
 Ao abrigo do disposto no artigo 15.º do [Decreto-Lei n.º 348/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1989-548836), de 12 de Outubro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 36.º do [Decreto Regulamentar n.º 9/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1990-332262), de 19 de Abril, passa a ter a seguinte redacção:
+Artigo único. O artigo 36.º do [Decreto Regulamentar n.º 9/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1990-332262), de 19 de Abril, passa a ter a seguinte redacção:
 
 ###### Artigo 36.º — Isenção
 
@@ -121,12 +141,12 @@ Presidência do Conselho de Ministros, 20 de Janeiro de 1992.
 
 Aníbal António Cavaco Silva - Arlindo Marques da Cunha.
 
-**Promulgado em 10 de Fevereiro de 1992.**
+Promulgado em 10 de Fevereiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Fevereiro de 1992.**
+Referendado em 17 de Fevereiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

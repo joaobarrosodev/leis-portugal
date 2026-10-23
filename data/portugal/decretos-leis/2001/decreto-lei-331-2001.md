@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/12/293a00/83698373.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/331/2001/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-2001-538200
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:28:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28f0f6e0d90437841bda511c660d64b683c357cb54c8ce3d2f28e596a99b1f50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e1429fa37889b20683a17ba3500d2462582b7d0e69e346b2349ae5d50819fb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,23 @@ relationships:
   target: pt:dre:629416:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:405483:por
+  label: "Mantido em vigor pela LEI.32/2002.2002.12.20.AR DR.IS-A [294], remetendo para aquela as referências feitas à Lei\
+    \ 17/2000 de 08-Ago\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-2002-405483
+  date: '2002-12-20'
+- type: amended_by
+  target: pt:dre:669556:por
+  label: "Alterado o art. 9º pela LEI.107-B/2003.31.12.2003.AR, DR.IS-A [301-2ºSupl] de 31.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/107-b-2003-669556
+  date: '2003-12-31'
+- type: amended_by
+  target: pt:dre:483459:por
+  label: "Alterado o artigo 9.º, na redacção da Lei n.º 107-B/2003, de 31 de Dezembro, pela LEI.39-A/2005.29.07.2005.AR, DR.IS-A\
+    \ [145]Supl de 29.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-a-2005-483459
+  date: '2005-07-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/17/2000/08/08/p/dre
   label: null
@@ -80,16 +97,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:629416:por
+  label: "Revogado a partir de 07.11.2007 pelo DEC LEI.367/2007.02.11.2007.MTSSO, DR.IS [211] de 02.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/367-2007-629416
+  date: '2007-11-02'
 article_structure:
   article_count: 19
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:28:55Z'
   warnings: []
   errors: []
 ---
@@ -346,12 +380,12 @@ O presente diploma entra em vigor 15 dias após a data da sua publicação e pro
 
 Visto e aprovado em Conselho de Ministros de 11 de Outubro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Paulo José Fernandes Pedroso.
 
-**Promulgado em 5 de Dezembro de 2001.**
+Promulgado em 5 de Dezembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Dezembro de 2001.**
+Referendado em 7 de Dezembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

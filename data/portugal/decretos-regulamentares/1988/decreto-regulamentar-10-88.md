@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1988-287606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e8adf1876f9b71930a72ef44bca15a2826a6ea790f9a70f6837828344e7be92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 092345ef9ede28fa4cf5d64ac77ab575fc878fd2ba87f6b2224647d8d212fb9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Nacional de Cartografia
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:548408:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:548408:por
+  label: "Alterados os arts. 2º e 6º pelo DR.28/89.1989.10.02.MPLAT, DR.IS [277]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/28-1989-548408
+  date: '1989-10-02'
+- type: cites
+  target: pt:dre:229097:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:42Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +117,9 @@ Assim:
 
 O Governo decreta, ao abrigo do artigo 75.º do [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, e nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Conselho Nacional de Cartografia, abreviadamente designado por CNC, criado pelo [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, na dependência do Ministro do Planeamento e da Administração do Território, é um órgão de consulta e apoio do Governo para efeitos da definição e da execução das grandes linhas e orientações da política nacional de cartografia.
+Artigo 1.º O Conselho Nacional de Cartografia, abreviadamente designado por CNC, criado pelo [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, na dependência do Ministro do Planeamento e da Administração do Território, é um órgão de consulta e apoio do Governo para efeitos da definição e da execução das grandes linhas e orientações da política nacional de cartografia.
 
-###### Art. 2.º - 1 - Compete ao CNC:
+Art. 2.º - 1 - Compete ao CNC:
 
 a) Pronunciar-se obrigatoriamente e apresentar propostas sobre a definição e a execução da política nacional de cartografia, tendo em vista as necessidades de desenvolvimento social, económico, regional e de defesa do País, respeitadas as orientações governamentais sobre a matéria e ainda os pareceres de cada instituição nele representada;
 
@@ -148,7 +159,7 @@ l) Fomentar a preparação e aperfeiçoamento dos técnicos das várias especial
 
 2 - Consideram-se actividades cartográficas os trabalhos e estudos de cartografia geral e temática no seu sentido restrito, cartografia matemática, geodesia, topografia, fotogrametria, cadastro geométrico e as diversas técnicas de apoio pela detecção remota, nomeadamente a fotografia aérea, espacial e terrestre, o aeromagnetismo e a radiometria, bem como a reprodução e o tratamento científico e técnico de todos os dados e documentação ligados a estas disciplinas.
 
-###### Art. 3.º - 1 - O CNC é composto por:
+Art. 3.º - 1 - O CNC é composto por:
 
 a) Um presidente, nomeado pelo Ministro do Planeamento e da Administração do Território;
 
@@ -208,26 +219,26 @@ j) Um representante da Associação Nacional de Municípios.
 
 4 - O presidente do CNC poderá convidar a fazerem-se representar nas reuniões do Conselho quaisquer entidades ou personalidades cuja participação seja considerada conveniente.
 
-###### Art. 4.º - 1 - O CNC dispõe de um secretário, que participa nas reuniões do Conselho sem direito a voto, salvo se for membro do CNC.
+Art. 4.º - 1 - O CNC dispõe de um secretário, que participa nas reuniões do Conselho sem direito a voto, salvo se for membro do CNC.
 
 2 - O secretário do CNC é nomeado por despacho do Ministro do Planeamento e da Administração do Território.
 
-###### Art. 5.º - 1 - O CNC reunirá em plenário, por convocação do seu presidente, pelo menos duas vezes por ano.
+Art. 5.º - 1 - O CNC reunirá em plenário, por convocação do seu presidente, pelo menos duas vezes por ano.
 
 2 - As normas referentes ao funcionamento do CNC serão objecto de regimento aprovado pelo Conselho.
 
-###### Art. 6.º - 1 - Até à entrada em funcionamento do Centro Nacional de Informação Geográfica, o apoio é assegurado pela Secretaria-Geral do Ministério do Planeamento e da Administração do Território.
+Art. 6.º - 1 - Até à entrada em funcionamento do Centro Nacional de Informação Geográfica, o apoio é assegurado pela Secretaria-Geral do Ministério do Planeamento e da Administração do Território.
 
 2 - Na prossecução das suas atribuições, o CNC pode solicitar o apoio e a colaboração técnica dos organismos estatais de coordenação, financiamento e execução de cartografia.
 
 Aníbal António Cavaco Silva - Lino Dias Miguel - Vasco Joaquim Rocha Vieira - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 18 de Fevereiro de 1988.**
+Promulgado em 18 de Fevereiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Fevereiro de 1988.**
+Referendado em 22 de Fevereiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

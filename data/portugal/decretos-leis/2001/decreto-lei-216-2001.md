@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/08/179a00/47414751.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/216/2001/08/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2001-375406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d572653f3847cfd301e91f8a9b9efd2cb7d1ce9a7c419e40eb01d9b7d55cbe9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f7d332a1021ec45161ddab50a50a5acd4801ce1b5cb7bf285b2cfa80cfef853
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,42 +67,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
 - Acreditação
-- Produto Alimentar
 - Aproximação das Legislações
-- Região Autónoma
 - Batata
 - Biotecnologia
 - Catálogo Nacional de Variedades
-- Multa
-- Organismo Geneticamente Modificado
+- Comércio
 - Contra-ordenação
 - Controlo de Qualidade
+- Controlo Sanitário
 - Definição de Competências
 - Direcção Geral de Protecção das Culturas
 - Direcção Regional de Agricultura
 - Diretor Geral
-- Controlo Sanitário
-- Saúde Pública
+- Embalagem
 - Etiquetagem
 - Fiscalização
 - Licenciamento
-- Embalagem
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
-- Proteção do Ambiente
-- Produtor
-- Proteção Fitossanitária
-- Proteção do Consumidor
+- Multa
+- Organismo Geneticamente Modificado
 - Produção Agrícola
 - Produção Vegetal
+- Produto Alimentar
+- Produtor
+- Proteção do Ambiente
+- Proteção do Consumidor
+- Proteção Fitossanitária
+- Recurso
+- Região Autónoma
 - Sanção
-- Comércio
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:73807561:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:608181:por
+  label: "Aditado o art. 16.º-A, pelo DEC LEI.21/2004.22.01.2004.MADRP, DR.IS-A [18] de 22.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2004-608181
+  date: '2004-01-22'
+- type: amended_by
+  target: pt:dre:490452:por
+  label: "Determinado que o regime de derrogações previsto no art. 2º do Dec Lei 257/2009, de 24-Set, seja aplicável e prevaleça\
+    \ sobre o presente diploma, na redacção do Dec Lei 21/2004, de 22-Jan, pelo DEC LEI.257/2009.24.09.2009.MADRP, DR.IS [186]\
+    \ de 24.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-2009-490452
+  date: '2009-09-24'
 - type: cites
   target: celex:31966L0403
   label: null
@@ -119,16 +131,26 @@ relationships:
   target: celex:31998L0096
   label: null
   source: http://data.europa.eu/eli/dir/1998/96/oj
+- type: corrected_by
+  target: pt:dre:239237:por
+  label: "Rectificado pela DECL-RECT.20-G/2001.2001.10.31.PCM DR.IS-A [253]4º Supl de 31/Out/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/20-g-2001-239237
+  date: '2001-10-31'
+- type: repealed_by
+  target: pt:dre:73807561:por
+  label: Revogado pelo(a) Decreto-Lei n.º 14/2016 - Diário da República n.º 48/2016, Série I de 2016-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-2016-73807561
+  date: '2016-03-09'
 article_structure:
   article_count: 30
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:20Z'
   warnings: []
   errors: []
 ---
@@ -485,7 +507,7 @@ Dos despachos emitidos pelo director-geral de Protecção das Culturas cabe recu
 
 ###### Artigo 24.º — Regulamentação
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas estabelecerá, mediante despacho normativo, as regras e normas técnicas necessárias à boa execução do presente diploma.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas estabelecerá, mediante despacho normativo, as regras e normas técnicas necessárias à boa execução do presente diploma.
 
 ###### Artigo 25.º — Regiões Autónomas
 
@@ -557,15 +579,15 @@ O presente diploma entra em vigor no dia imediato à sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Maio de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Luís Manuel Capoulas Santos.
 
-**Promulgado em 20 de Julho de 2001.**
+Promulgado em 20 de Julho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Julho de 2001.**
+Referendado em 23 de Julho de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Zonas autorizadas para a produção de batata-semente
 
@@ -659,15 +681,15 @@ f) Viróide do tubérculo em fuso (PSTVd);
 
 B) Tolerâncias relativas a pureza varietal e ocorrência de pés doentes, admitidas quando das inspecções de campo (percentagem de plantas):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/179a00/47414751.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/179a00/47414751.pdf)](https://files.diariodarepublica.pt/1s/2001/08/179a00/47414751.pdf)](https://files.diariodarepublica.pt/1s/2001/08/179a00/47414751.pdf)
 
 C) Tolerâncias relativas ao estado sanitário dos tubérculos admitidas quando do pós-controlo (percentagem de tubérculos infectados por vírus ou de plantas com sintomas de viroses graves ou ligeiras):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/179a00/47414751.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/179a00/47414751.pdf)](https://files.diariodarepublica.pt/1s/2001/08/179a00/47414751.pdf)](https://files.diariodarepublica.pt/1s/2001/08/179a00/47414751.pdf)
 
 D) Tolerâncias relativas à pureza varietal e ocorrência de pés doentes, admitidas no controlo a posteriori (percentagem de plantas):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/179a00/47414751.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/179a00/47414751.pdf)](https://files.diariodarepublica.pt/1s/2001/08/179a00/47414751.pdf)](https://files.diariodarepublica.pt/1s/2001/08/179a00/47414751.pdf)
 
 3 - Condições relativas à qualidade dos lotes de batata-semente:
 

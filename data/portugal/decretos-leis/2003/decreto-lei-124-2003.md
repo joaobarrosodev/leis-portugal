@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/124/2003/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2003-692852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8ffcbf6c5a8092f6e7e744b0440aba51f1e63f71b1d75b89bbdff2c100536a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 076f78b8498369b599c8c51b0495ce8f1b6331d7809b320fdd506fb2875f28b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Acções
-- Sociedade Anónima
 - Caderno de Encargos
 - Caixa Geral de Depósitos
-- Direcção Geral do Tesouro
 - Conselho de Ministros
 - Delegação de Competências
+- Direcção Geral do Tesouro
 - GALP Energia
 - Privatização
 - SGPS
+- Sociedade Anónima
 - Venda Directa
 relationships:
 - type: cites
@@ -109,16 +109,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/68/2003/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/68/2003/05/10/p/dre
+- type: cites
+  target: pt:dre:143136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580995:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:22Z'
   warnings: []
   errors: []
 ---
@@ -209,12 +245,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Maio de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Carlos Manuel Tavares da Silva.
 
-**Promulgado em 3 de Junho de 2003.**
+Promulgado em 3 de Junho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Junho de 2003.**
+Referendado em 5 de Junho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

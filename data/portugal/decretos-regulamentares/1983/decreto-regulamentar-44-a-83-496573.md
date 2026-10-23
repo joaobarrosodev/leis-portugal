@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 123/1983, 1º Suplemento, Série I de 1983-05-28
   number: '123'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1968-(1) a 1968-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/12301/00010004.pdf
 entry_into_force_dates: []
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-a-1983-496573
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffe327cb182108f2734ff11d5d4520141f6fc3ccd1618845bf23982d16d5e1fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 974a84ff4cdce524bfc0e06a1f1ff4bc3a1fd1a636a64d6f524e648ff4756b7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete de Defesa do Consumidor
+- Ministério da Qualidade de VIDA
+- Orgânica
+- Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:182032:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:182032:por
+  label: "Extinto o Gabinete pelo DEC LEI.210/85.1985.06.27.PCM, DR.IS [145]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-1985-182032
+  date: '1985-06-27'
+- type: cites
+  target: pt:dre:308554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575922:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:38Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +131,7 @@ Assim, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constitui
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - O Gabinete de Defesa do Consumidor, abreviadamente designado por GDC, é um serviço que tem por finalidade promover e participar na política de salvaguarda dos direitos e interesses do consumidor, ao qual incumbe:
+Artigo 1.º - 1 - O Gabinete de Defesa do Consumidor, abreviadamente designado por GDC, é um serviço que tem por finalidade promover e participar na política de salvaguarda dos direitos e interesses do consumidor, ao qual incumbe:
 
 a) Prestar apoio ao Ministro e membros do Governo em funções no MQV na promoção da política da defesa do consumidor;
 
@@ -138,7 +163,7 @@ n) Dar parecer sobre todos os assuntos que, no âmbito das suas atribuições, l
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 2.º - 1 - Para prossecução das atribuições que lhe estão cometidas, o GDC será dirigido, coordenado e representado pelo director.
+Art. 2.º - 1 - Para prossecução das atribuições que lhe estão cometidas, o GDC será dirigido, coordenado e representado pelo director.
 
 2 - O director é coadjuvado por um subdirector, que exercerá as funções que por aquele lhe forem confiadas, bem como as que lhe forem expressamente delegadas ou subdelegadas.
 
@@ -146,7 +171,7 @@ n) Dar parecer sobre todos os assuntos que, no âmbito das suas atribuições, l
 
 4 - Os lugares de director e subdirector do GDC são equiparados, para todos os efeitos legais, respectivamente a director-geral e a subdirector-geral.
 
-###### Art. 3.º - 1 - O GDC integra os seguintes serviços:
+Art. 3.º - 1 - O GDC integra os seguintes serviços:
 
 a) A Direcção de Serviços de Coordenação dos Direitos do Consumidor;
 
@@ -158,7 +183,7 @@ d) A Secção Administrativa.
 
 2 - Junto do GDC funciona o Conselho de Publicidade, órgão criado nos termos do disposto no artigo 41.º do [Decreto-Lei n.º 421/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1980-461621), de 30 de Setembro.
 
-###### Art. 4.º - 1 - A Direcção de Serviços de Coordenação dos Direitos do Consumidor integra as seguintes divisões:
+Art. 4.º - 1 - A Direcção de Serviços de Coordenação dos Direitos do Consumidor integra as seguintes divisões:
 
 a) A Divisão de Estudos de Protecção da Saúde e Segurança;
 
@@ -224,7 +249,7 @@ g) Detectar os ilícitos praticados no âmbito da publicidade logo que constitua
 
 h) Elaborar legislação que garanta a participação do consumidor na definição legal ou administrativa dos seus direitos e interesses.
 
-###### Art. 5.º - 1 - A Direcção de Serviços de Estudos de Orientação de Consumos integra as seguintes divisões:
+Art. 5.º - 1 - A Direcção de Serviços de Estudos de Orientação de Consumos integra as seguintes divisões:
 
 a) A Divisão de Bens Alimentares;
 
@@ -248,7 +273,7 @@ g) Participar nas acções desenvolvidas por outros ministérios que de algum mo
 
 3 - As competências referidas no número anterior serão exercidas especificamente pela Divisão de Bens Alimentares e pela Divisão de Serviços e Bens não Alimentares nos respectivos âmbitos de actuação.
 
-###### Art. 6.º Compete à Divisão de Apoio Documental:
+Art. 6.º Compete à Divisão de Apoio Documental:
 
 a) Assegurar o levantamento e classificação de legislação portuguesa e estrangeira, nomeadamente da CEE, necessária ao cumprimento das atribuições do GDC;
 
@@ -258,7 +283,7 @@ c) Assegurar a compilação e classificação de artigos publicados na imprensa 
 
 d) Compilar e classificar toda a documentação produzida pelos diversos serviços do GDC;
 
-###### Art. 7.º Compete à Secção Administrativa:
+Art. 7.º Compete à Secção Administrativa:
 
 a) Assegurar os serviços de expediente geral, contabilidade, economato e administração de pessoal do GDC, sem prejuízo da competência da secretaria-geral;
 
@@ -268,7 +293,7 @@ c) Prestar apoio de secretariado aos conselhos, comissões e grupos de trabalho 
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 8.º - 1 - O GDC terá a dotação de pessoal constante do mapa anexo, o qual se integra no quadro único do MQV.
+Art. 8.º - 1 - O GDC terá a dotação de pessoal constante do mapa anexo, o qual se integra no quadro único do MQV.
 
 2 - O regime jurídico do pessoal em serviço no GDC será o constante do diploma regulamentar comum a todo o pessoal do MQV.
 
@@ -276,20 +301,20 @@ c) Prestar apoio de secretariado aos conselhos, comissões e grupos de trabalho 
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 9.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 9.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Francisco José Pereira Pinto Balsemão - Gonçalo Pereira Ribeiro Teles - Alípio Barrosa Pereira Dias - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 17 de Maio de 1983.**
+Promulgado em 17 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 25 de Maio de 1983.**
+Referendado em 25 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/12301/00010004.pdf))](https://files.diariodarepublica.pt/1s/1983/05/12301/00010004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12301/00010004.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/33/2005/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2005-604193
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0efabe4a5ac61cf1a41507d44edf19b64063411c033297727078532cba4a2e84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cec71bf1e5c469fbc8a9f3090eacd0df9906f9b0d8226ebb779ca8442b581d14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Produto Químico
+- Aditivo Alimentar
 - Aproximação das Legislações
+- Comércio
 - Etiquetagem
 - Fabrico Industrial
-- Aditivo Alimentar
-- Comércio
+- Produto Alimentar
+- Produto Químico
 relationships:
 - type: amended_by
   target: pt:dre:286753:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:247718:por
+  label: "Alterados os anexos do I ao VI do Dec Lei 121/98 de 08-Mai, na redacção do presente diploma, pelo DEC LEI.33/2008.25.02.2008.MADRP,\
+    \ DR.IS [39] de 25.02.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2008-247718
+  date: '2008-02-25'
+- type: amended_by
+  target: pt:dre:286753:por
+  label: "Alterados os anexos II, III, IV, V e VI do Dec Lei 121/98, de 08-Mai, na redacção do presente diploma, pelo DEC\
+    \ LEI.64/2011.09.05.2011.MADRP, DR.IS [89] de 09.05.2011, de acordo com o respectivo anexo I\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-2011-286753
+  date: '2011-05-09'
 - type: cites
   target: celex:31995L0002
   label: null
@@ -104,15 +116,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2003/114/oj
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:26Z'
   warnings: []
   errors: []
 ---
@@ -211,7 +223,9 @@ z) ...
 
 4 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -247,15 +261,15 @@ O presente diploma entra em vigor no dia 27 de Julho de 2005.
 
 Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - António Victor Martins Monteiro - Carlos Henrique da Costa Neves - Luís Filipe da Conceição Pereira - Rui Manuel Lobo Gomes da Silva.
 
-**Promulgado em 28 de Janeiro de 2005.**
+Promulgado em 28 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Fevereiro de 2005.**
+Referendado em 2 de Fevereiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 2.º)
 
@@ -281,23 +295,23 @@ a) A designação «E 170 Carbonatos de cálcio» é substituída, em todo o tex
 
 b) A rubrica relativa aos «Produtos à base de cacau e chocolate» passa a ter a seguinte redacção:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
 
 c) Na rubrica relativa a «Frutos e produtos hortícolas não transformados, congelados e ultracongelados, frutos e produtos hortícolas não transformados pré-embalados e refrigerados prontos a consumir e batata não transformada e descascada pré-embalada» é aditado o seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
 
 d) Na rubrica relativa a «Compotas de frutos» é aditado o seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
 
 e) Na rubrica relativa a «Mozzarella e requeijão» é aditado o seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
 
 f) No final do anexo são aditadas as seguintes rubricas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
 
 3 - No anexo III:
 
@@ -307,23 +321,23 @@ i) A designação «Produtos de panificação parcialmente cozidos pré-embalado
 
 ii) São aditadas as seguintes rubricas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
 
 b) Na parte C:
 
 i) São suprimidas as seguintes rubricas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
 
 ii) Na rubrica ao aditivo E 1105 é aditado o seguinte género alimentício:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
 
 c) Na parte D:
 
 i) No final, é aditado o seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
 
 ii) Na lista de géneros alimentícios relativa aos aditivos E 315 e E 316, a designação «Conservas e semiconservas de produtos cárneos» é substituída por «Produtos de salga e charcutaria e conservas de carne».
 
@@ -331,49 +345,49 @@ ii) Na lista de géneros alimentícios relativa aos aditivos E 315 e E 316, a de
 
 a) Na rubrica relativa aos aditivos E 338 e E 452 é aditado o seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
 
 b) Na rubrica relativa aos aditivos E 338 e E 452 é suprimido o seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
 
 c) Na rubrica relativa ao aditivo E 416 é aditado o seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
 
 d) Na rubrica relativa aos aditivos E 432 a E 436 é aditado o seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
 
 e) Na rubrica relativa ao aditivo E 444 é aditado o seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
 
 f) Na rubrica relativa ao aditivo E 551, a seguir à lista de géneros alimentícios e de teores máximos para os aditivos E 535 a E 538, é aditado o seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
 
 g) Na rubrica relativa ao aditivo E 900 é aditado o seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
 
 h) Na lista de géneros alimentícios e de teores máximos para os aditivos E 901 a E 904, a rubrica «E 903 Cera de carnaúba» é suprimida e aditada a seguinte rubrica relativa ao E 903 a seguir à entrada relativa ao E 904:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
 
 i) Na rubrica relativa ao aditivo E 459 é aditado o seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
 
 j) No final do anexo são aditadas as seguintes rubricas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
 
 5 - No anexo V:
 
 a) No final do anexo é aditada a seguinte rubrica:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
 
 b) A designação «Goma celulose reticulada» é aditada a E 468.
 
@@ -391,4 +405,4 @@ i) O título passa a ter a seguinte redacção:
 
 ii) É aditada a seguinte rubrica ao quadro:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/11041109.pdf)

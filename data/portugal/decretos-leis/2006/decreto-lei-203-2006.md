@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/10/20800/74417446.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/203/2006/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2006-545640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3b1735cf9ff7cf4b7d299e0ca27aae974b257bcb0d22acf20c4babec6763719
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52bfa7c69c7059fa32d0e1eb0bfa7a40907dea661fc161ae4c1e5e45fd3cff18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,39 +65,55 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Reestruturação de Serviços
-- Serviço Nacional de Bombeiros e Protecção Civil
-- Pessoal Dirigente
+- Auditoria Jurídica
+- Autoridade Nacional de Protecção Civil
+- Autoridade Nacional de Segurança Rodoviária
 - Cofre de Previdência
-- Ministério da Administração Interna
 - Criação de Serviços
 - Definição de Competências
+- Direcção Geral de Administração Interna
+- Direcção Geral de Infra-estruturas e Equipamentos
 - Direcção Geral de Viação
 - Extinção de Serviços
-- Secretaria Geral
 - Gabinete dos Assuntos Europeus
-- Instituto da Mobilidade e dos Transportes Terrestres
-- Inspeção Geral da Administração Interna
-- Integração de Serviços
-- Autoridade Nacional de Segurança Rodoviária
-- Direcção Geral de Administração Interna
+- Gabinete Nacional Sirene
 - GNR
 - Governo Civil
-- Auditoria Jurídica
-- Serviço de Estrangeiros e Fronteiras
+- Inspeção Geral da Administração Interna
+- Instituto da Mobilidade e dos Transportes Terrestres
+- Integração de Serviços
+- Ministério da Administração Interna
 - Orgânica
+- Pessoal Dirigente
+- PSP
 - Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria Geral
 - Secretariado Técnico dos Assuntos para o Processo Eleitoral
-- Autoridade Nacional de Protecção Civil
-- Gabinete Nacional Sirene
-- Direcção Geral de Infra-estruturas e Equipamentos
+- Serviço de Estrangeiros e Fronteiras
+- Serviço Nacional de Bombeiros e Protecção Civil
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:25345903:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinada a transição para o Ministério da Administração Interna, nos termos do estabelecido no art. 14º do DEC\
+    \ LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011, dos serviços identificados no presente diploma, sendo\
+    \ as competências dos governadores civis (cujos cargos se encontrem vagos) asseguradas pelo Ministro da Administração\
+    \ Interna, nos termos do disposto no art. 22º do citado diploma, até à extinção dos governos civis (integrados orgânica\
+    \ e hierarquicamente no referido ministério, nos termos do estabelecido no art. 4º deste diploma) e consequente redistribuição\
+    \ de funções por outros órgãos ou serviços da administração local e central do Estado.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amended_by
+  target: pt:dre:25345903:por
+  label: Extinta a Direção-Geral de Infraestruturas e Equipamentos, criada pelo presente diploma pelo(a) Decreto-Lei n.º 112/2014
+    - Diário da República n.º 132/2014, Série I de 2014-07-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-2014-25345903
+  date: '2014-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/33/2006/02/17/p/dre
   label: null
@@ -110,16 +126,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:240610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683408:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:642011:por
+  label: "Revogado, a partir de 03.01.2012, pelo DEC LEI.126-B/2011.29.12.2011.MAI, DR.IS [249-Supl] de 29.12.2011\011\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-b-2011-642011
+  date: '2011-12-29'
 article_structure:
   article_count: 20
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:36Z'
   warnings: []
   errors: []
 ---
@@ -506,18 +543,18 @@ As referências legais feitas aos serviços e organismos objecto de extinção, 
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.
 
-**Promulgado em 19 de Outubro de 2006.**
+Promulgado em 19 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 23 de Outubro de 2006.**
+Referendado em 23 de Outubro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Cargos de direcção superior da administração directa (ver nota 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20800/74417446.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20800/74417446.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/74417446.pdf)
 
 (nota 1) Não inclui as forças de segurança.

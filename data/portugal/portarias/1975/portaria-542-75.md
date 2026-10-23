@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/542-1975-307600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T04:49:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efdc2df0888c44f8fd7db743cfafd435032585f082d8c0ca2ed439782049ac50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5b9679afde953ba512f0e9beccbd802d517e6adfecee609f24b378cb44306df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:49:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação Contínua do Mérito
+- Ensino
+- Escola Naval
+- Estabelecimento de Ensino
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:501603:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:147987:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:49:17Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +103,19 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo
 
 1.º Alterar o artigo 131.º, que passa a ter a seguinte redacção:
 
-###### Art. 131.º - 1. Na orientação do ensino deverá constituir preocupação dominante promover a participação activa dos alunos por meio de trabalhos de aplicação, aulas práticas, seminários e colóquios, procurando desenvolver neles o gosto pelo estudo e pela investigação e criar-lhes hábitos de trabalho em grupo.
+Art. 131.º - 1. Na orientação do ensino deverá constituir preocupação dominante promover a participação activa dos alunos por meio de trabalhos de aplicação, aulas práticas, seminários e colóquios, procurando desenvolver neles o gosto pelo estudo e pela investigação e criar-lhes hábitos de trabalho em grupo.
 
 2. Os professores, instrutores e alunos devem assegurar-se, em estreita colaboração, de que os métodos pedagógicos utilizados na orientação do ensino e na avaliação dos resultados são os mais adequados ao seu melhor rendimento.
 
 2.º Alterar o n.º 2 do artigo 135.º, que passa a ter a seguinte redacção:
 
-###### Art. 135.º - 1. ...
+Art. 135.º - 1. ...
 
 2. A cada repetição oral ou escrita ou a qualquer outra forma de avaliação de conhecimentos corresponde um coeficiente que traduza a importância e a quantidade da matéria abrangida.
 
 3.º Alterar o artigo 143.º, que passa a ter a seguinte redacção:
 
-###### Art. 143.º - 1. Designa-se por «média de frequência» de uma cadeira ou instrução anual ou semestral a média, pesada de acordo com os coeficientes atribuídos às provas, das classificações obtidas pelo aluno em todas as repetições orais e escritas dessa cadeira ou instrução, com excepção dos casos previstos nos dois números seguintes.
+Art. 143.º - 1. Designa-se por «média de frequência» de uma cadeira ou instrução anual ou semestral a média, pesada de acordo com os coeficientes atribuídos às provas, das classificações obtidas pelo aluno em todas as repetições orais e escritas dessa cadeira ou instrução, com excepção dos casos previstos nos dois números seguintes.
 
 2. Nas cadeiras em que, por serem ministradas apenas sob a forma de aulas práticas, não se realizem repetições, conforme estabelecido no anexo H, designa-se por «média de frequência» a média aritmética das classificações atribuídas pelo respectivo professor a cada aluno pelos trabalhos por ele realizados durante a frequência da cadeira.
 
@@ -118,7 +127,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo
 
 4.º Alterar o artigo 144.º, que passa a ter a seguinte redacção:
 
-###### Art. 144.º - 1. São dispensados do exame final de qualquer cadeira os alunos que nessa cadeira tenham obtido média de frequência igual ou superior a 12 valores.
+Art. 144.º - 1. São dispensados do exame final de qualquer cadeira os alunos que nessa cadeira tenham obtido média de frequência igual ou superior a 12 valores.
 
 2. Não serão admitidos ao respectivo exame final os alunos que em qualquer cadeira hajam obtido média de frequência arredondada a valores exactos inferior a 10 valores.
 
@@ -128,31 +137,31 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo
 
 5.º Alterar o artigo 145.º, que passa a ter a seguinte redacção:
 
-###### Art. 145.º - 1. Os alunos dispensados de exame final de uma cadeira têm o direito de efectuar esse exame desde que assim o declarem por escrito, com vista a melhoria de classificação, sendo a respectiva classificação final a melhor das notas obtidas.
+Art. 145.º - 1. Os alunos dispensados de exame final de uma cadeira têm o direito de efectuar esse exame desde que assim o declarem por escrito, com vista a melhoria de classificação, sendo a respectiva classificação final a melhor das notas obtidas.
 
 2. O exame final referido em 1 conterá obrigatoriamente uma prova oral.
 
 6.º Alterar o n.º 1 do artigo 148.º, que passa a ter a seguinte redacção:
 
-###### Art. 148.º - 1. As provas de exame final de qualquer cadeira são prestadas perante um júri constituído da seguinte forma: o professor da cadeira, dois professores ou instrutores e dois alunos eleitos, sempre que possível já aprovados nessa cadeira e do mesmo curso dos alunos que prestam provas.
+Art. 148.º - 1. As provas de exame final de qualquer cadeira são prestadas perante um júri constituído da seguinte forma: o professor da cadeira, dois professores ou instrutores e dois alunos eleitos, sempre que possível já aprovados nessa cadeira e do mesmo curso dos alunos que prestam provas.
 
 2. ...
 
 7.º Alterar o n.º 1 do artigo 151.º, que passa a ter a seguinte redacção:
 
-###### Art. 151.º - 1. É dispensado da prova oral de um exame final o aluno que na prova escrita desse mesmo exame haja obtido classificação igual ou superior a 12 valores.
+Art. 151.º - 1. É dispensado da prova oral de um exame final o aluno que na prova escrita desse mesmo exame haja obtido classificação igual ou superior a 12 valores.
 
 2. ...
 
 8.º Alterar o artigo 160.º, que passa a ter a seguinte redacção:
 
-###### Art. 160.º No fim do 1.º semestre lectivo do 1.º ano escolar e no final de cada ano escolar são preenchidos para cada aluno boletins de informação das qualidades militares pela comissão de disciplina.
+Art. 160.º No fim do 1.º semestre lectivo do 1.º ano escolar e no final de cada ano escolar são preenchidos para cada aluno boletins de informação das qualidades militares pela comissão de disciplina.
 
 9.º Suprimir o artigo 163.º
 
 10.º Alterar o n.º 1 do artigo 164.º, que passa a ter a seguinte redacção:
 
-###### Art. 164.º - 1. A classificação anual das qualidades militares de cada aluno é a média aritmética das classificações atribuídas às várias qualidades no boletim a que se refere o artigo 160.º
+Art. 164.º - 1. A classificação anual das qualidades militares de cada aluno é a média aritmética das classificações atribuídas às várias qualidades no boletim a que se refere o artigo 160.º
 
 11.º Suprimir a alínea d) do n.º 1 do artigo 166.º
 
@@ -164,7 +173,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo
 
 III - Instruções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/09/20500/13071309.pdf))](https://files.diariodarepublica.pt/1s/1975/09/20500/13071309.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/09/20500/13071309.pdf)
 
 15.º As disposições deste diploma entram imediatamente em vigor, com excepção do estabelecido pela nova redacção dada ao n.º 2 do artigo 144.º e ao n.º 1 do artigo 151.º, referido nos n.os 3.º e 6.º, que passam a vigorar a partir do ano escolar de 1975-1976, inclusive.
 

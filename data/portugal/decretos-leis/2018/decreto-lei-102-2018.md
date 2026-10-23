@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/23000/0543405435.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/102/2018/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2018-117142868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d839250c07617fdb35dd90f21ed3296d65a2ecb32e46f0f0d6716937a42323e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8298772c36e76a9f6393a1bf952e336ea2a49bc73e80ac7178c6fe4125408044
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Definição de Competências
 - Fundo Europeu de Investimento
 - Investimento
 - Transferência de Competências
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
@@ -79,13 +79,13 @@ relationships:
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:42Z'
   warnings: []
   errors: []
 ---
@@ -188,12 +188,14 @@ Consideram-se feitas às entidades intermunicipais as referências constantes de
 
 Visto e aprovado em Conselho de Ministros de 13 de setembro de 2018. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Eduardo Arménio do Nascimento Cabrita - Manuel de Herédia Caldeira Cabral.
 
-**Promulgado em 7 de novembro de 2018.**
+Promulgado em 7 de novembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de novembro de 2018.**
+Referendado em 12 de novembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111841944

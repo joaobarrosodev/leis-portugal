@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/396/1999/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-1999-662127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:11:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9dbd28e32ec9ea5bca7ee093fff1f7dce3c9308a55b5651b386cbc5d630b3b77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db385fdae124349ad735cebf1f7eff76e3a18a545cd42e0fffee032acbf2fdd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:11:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,35 +70,41 @@ subjects:
 - Aproximação das Legislações
 - Definição de Competências
 - EEE
+- Ensino Superior
 - Ensino Superior Politécnico
-- União Europeia
+- Equivalência de Diplomas
 - Nacional das Comunidades
 - Prestação de Serviços
-- Profissão Regulamentada
 - Profissão Independente
+- Profissão Regulamentada
 - Qualificação Profissional
-- Equivalência de Diplomas
-- Ensino Superior
 - Trabalhador Comunitário
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:386602:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226805:por
+  label: "Alterados os arts 2º, 3º, 4º, 9º, 15º e 16º, aditados os arts 2º-A, 6º-A e 6º-B e republicado o Dec Lei 289/91 de\
+    \ 10-Ago. alterado pelo presente diploma, pelo DEC LEI.71/2003.2003.04.10.MCES, DR.IS [85]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-2003-226805
+  date: '2003-04-10'
 - type: cites
   target: celex:31989L0048
   label: null
   source: http://data.europa.eu/eli/dir/1989/48/oj
 article_structure:
-  article_count: 31
+  article_count: 19
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:11:52Z'
   warnings: []
   errors: []
 ---
@@ -129,13 +135,17 @@ Os artigos 1.º, 2.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 13.º, 14.º, 
 
 O presente decreto-lei aplica-se aos nacionais dos Estados membros da União Europeia e aos dos Estados signatários do Acordo sobre o Espaço Económico Europeu, adiante, genericamente, designados cidadãos europeus, que sejam titulares de um diploma de nível superior como tal definido no artigo 3.º e pretendam exercer em território português, como trabalhadores independentes ou por conta de outrem, actividade compreendida no domínio de uma profissão regulamentada.
 
-###### Artigo 2.º — Profissão regulamentada
+Artigo 2.º
+
+Profissão regulamentada
 
 1 - Para efeitos do presente diploma, entende-se por profissão regulamentada a actividade profissional ou conjunto de actividades profissionais cujo acesso esteja subordinado à posse de um diploma ou cujo exercício se processe a coberto de um título profissional reservado a quem satisfaça certas condições de qualificação.
 
 2 - As profissões regulamentadas a que se aplica o presente decreto-lei constam de lista aprovada por portaria conjunta dos Ministros Adjunto, da Educação e do Trabalho e da Solidariedade.
 
-###### Artigo 4.º — Requerentes
+Artigo 4.º
+
+Requerentes
 
 1 - Pode requerer autorização para exercer uma das profissões abrangidas por este decreto-lei todo o cidadão europeu que, alternativamente:
 
@@ -145,7 +155,9 @@ b) ...
 
 2 - ...
 
-###### Artigo 5.º — Pedido
+Artigo 5.º
+
+Pedido
 
 1 - O requerimento apresentado nas condições do artigo 4.º tem de ser redigido em língua portuguesa e conter os seguintes elementos:
 
@@ -167,7 +179,9 @@ e) Verba emolumentar e para despesas processuais.
 
 3 - Os documentos mencionados no n.º 2 devem, quando tal se justifique, ser acompanhados de tradução feita por notário ou tradutor oficial legalmente reconhecido ou autenticada por funcionário diplomático ou consular.
 
-###### Artigo 6.º — Idoneidade
+Artigo 6.º
+
+Idoneidade
 
 1 - Quando seja exigível na regulamentação de acesso ou de exercício de uma profissão em Portugal prova da idoneidade, os requerentes referidos no artigo 4.º deverão satisfazer essa condição.
 
@@ -181,7 +195,9 @@ b) Certificado do registo criminal ou documento equivalente, passado por entidad
 
 4 - Se o Estado membro de proveniência não exigir ou emitir documento da natureza do referido na alínea b) do n.º 2 para o acesso ou exercício da profissão em causa, a prova poderá ser substituída por declaração feita, sob juramento, pelo requerente, perante autoridade judicial ou administrativa, notário ou organismo profissional qualificado desse Estado membro que emitirá um atestado, fazendo fé dessa declaração.
 
-###### Artigo 7.º — Decisão
+Artigo 7.º
+
+Decisão
 
 1 - A decisão dos pedidos formulados nos termos do artigo 5.º pode revestir a forma de:
 
@@ -213,7 +229,9 @@ d) Não esteja abrangido pelo âmbito definido no artigo 1.º
 
 6 - Do indeferimento, expresso ou tácito, cabe recurso para os tribunais, nos termos gerais.
 
-###### Artigo 8.º — Experiência profissional
+Artigo 8.º
+
+Experiência profissional
 
 1 - Deverá ser feita comprovação de experiência profissional quando a duração da formação atestada nos termos das alíneas a) e b) do n.º 1 do artigo 4.º for inferior em, pelo menos, um ano à exigida em Portugal.
 
@@ -227,7 +245,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 9.º — Estágio de adaptação e prova de aptidão
+Artigo 9.º
+
+Estágio de adaptação e prova de aptidão
 
 1 - É admissível a submissão do requerente à frequência de um estágio de adaptação, de duração adequada, mas não superior a três anos, ou à prestação de uma prova de aptidão, na qual será tida em consideração a qualificação profissional do requerente no Estado membro de origem ou proveniência, quando:
 
@@ -241,11 +261,15 @@ c) ...
 
 3 - ...
 
-###### Artigo 10.º — Admissibilidade
+Artigo 10.º
+
+Admissibilidade
 
 Ao cidadão europeu não estabelecido em Portugal que esteja habilitado com um diploma nas condições definidas no artigo 3.º pode ser autorizada a realização de meras prestações de serviços, com os mesmos direitos e obrigações, nomeadamente de ordem disciplinar, dos profissionais residentes.
 
-###### Artigo 13.º — Uso de títulos de formação e de títulos profissionais
+Artigo 13.º
+
+Uso de títulos de formação e de títulos profissionais
 
 1 - Aos cidadãos europeus que preencham as condições de acesso ou de exercício a uma das profissões abrangidas pelo presente decreto-lei é reconhecido o direito ao uso em território português:
 
@@ -257,7 +281,9 @@ b) Do título legal de formação do Estado membro de origem ou de proveniência
 
 3 - Sempre que o título de formação referido na alínea b) do n.º 1 for susceptível de confusão com qualquer outro existente em Portugal que exija uma formação complementar não adquirida pelo migrante em causa, este só pode usá-lo em território português sob fórmula adequada.
 
-###### Artigo 14.º — Autoridades competentes
+Artigo 14.º
+
+Autoridades competentes
 
 1 - A competência para receber, apreciar e decidir dos pedidos formulados no âmbito e com o objectivo assinalados no presente diploma pertence à autoridade que, para cada profissão, consta do diploma a que se refere o n.º 2 do artigo 2.º
 
@@ -277,11 +303,15 @@ f) ...
 
 g) ...
 
-###### Artigo 15.º — Coordenação da informação
+Artigo 15.º
+
+Coordenação da informação
 
 Sem prejuízo do disposto na alínea f) do n.º 2 do artigo anterior, compete à Direcção-Geral do Ensino Superior, do Ministério da Educação, a prestação de esclarecimentos de natureza geral acerca da matéria contemplada no presente decreto-lei.
 
-###### Artigo 16.º — Regulamentação
+Artigo 16.º
+
+Regulamentação
 
 1 - O regime de acesso às profissões ou ao exercício das profissões abrangidas por este decreto-lei é, para cada uma delas, objecto de regulamentação própria, emitida pelo departamento governamental em que se insere a correspondente autoridade competente e, obrigatoriamente, integrada no instrumento legal regulador do estatuto da profissão considerada.
 
@@ -301,15 +331,15 @@ O Decreto-Lei n.º 289/91, de 10 de Agosto, com a redacção emergente das alter
 
 Visto e aprovado em Conselho de Ministros de 18 de Agosto de 1999. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Eduardo Carrega Marçal Grilo - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 23 de Setembro de 1999.**
+Promulgado em 23 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Outubro de 1999.**
+Referendado em 1 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Decreto-Lei n.º 289/91, de 10 de Agosto
 

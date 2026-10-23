@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/39/2011/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/39-2011-278054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T05:10:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d8045d92ac215c59fa91bcdfc2ff7f52fb314ec55841bfe1c407e4a735d7a48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 264596d5db384aef98720e450704c5999a09b08459d308e90faa5cec617a8882
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:10:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,24 +70,28 @@ subjects:
 - Argélia
 - Convenção
 - Portugal
-- Transporte de Mercadorias
 - TIR
+- Transporte de Mercadorias
 - Transporte de Passageiros
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/67/2011/04/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/67/2011/04/04/p/dre
+- type: cites
+  target: pt:dre:278047:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:10:12Z'
   warnings: []
   errors: []
 ---
@@ -96,16 +100,16 @@ validation:
 
 de 4 de Abril
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo entre a República Portuguesa e a República Democrática e Popular da Argélia sobre Transportes Internacionais Rodoviários e de Trânsito de Passageiros e Mercadorias, assinado em Argel em 9 de Junho de 2008, aprovado pela [Resolução da Assembleia da República n.º 67/2011](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/67-2011-278047), em 14 de Janeiro de 2011.
 
-**Assinado em 17 de Março de 2011.**
+Assinado em 17 de Março de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de Março de 2011.**
+Referendado em 22 de Março de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

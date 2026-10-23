@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/516/1999/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1999-626842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T02:14:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4647c9882a2272a87aa8344489e3c880e380bb027e89fc91ffd867a44ab18e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09f9b986bd45f3454c52bdb3b504e954d6b06b6d1d4294361f34dc608ae55408
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:14:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
 - Cagri
-- Parque de Sucata
-- Proteção do Ambiente
-- Pesgri
 - Diversidade Biológica
+- Gestão de Resíduos
 - Gestão do Ambiente
+- Parque de Sucata
+- Pesgri
 - Política do Ambiente
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:480969:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302769:por
+  label: "Revisto o PESGRI - que passa a designar-se por PESGRI 2001- pelo DEC LEI.89/2002.2002.04.09.MAOT DR.IS-A [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-2002-302769
+  date: '2002-04-09'
 - type: cites
   target: celex:31975L0442
   label: null
@@ -108,14 +113,14 @@ relationships:
   source: http://data.europa.eu/eli/reg/1997/322/oj
 article_structure:
   article_count: 3
-  section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 24
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:14:24Z'
   warnings: []
   errors: []
 ---
@@ -158,19 +163,19 @@ O PESGRI 99 será revisto no prazo de quatro anos contados da data da sua aprova
 
 Visto e aprovado em Conselho de Ministros de 16 de Setembro de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 29 de Outubro de 1999.**
+Promulgado em 29 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Novembro de 1999.**
+Referendado em 4 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 PLANO ESTRATÉGICO DE GESTÃO DE RESÍDUOS INDUSTRIAIS
 
-# PARTE I — Introdução e dados de base
+## PARTE I — Introdução e dados de base
 
 ### CAPÍTULO 1 — Introdução
 
@@ -216,15 +221,15 @@ Finalmente, e como condição fundamental do desenvolvimento sustentável, situa
 
 O presente Plano Estratégico consta de três partes, cada uma delas dedicada aos seguintes capítulos da obra:
 
-# Parte I - Introdução e dados de base:
+Parte I - Introdução e dados de base:
 
 Capítulos 1 a 6;
 
-# Parte II - Situação de referência:
+Parte II - Situação de referência:
 
 Capítulos 7 a 14;
 
-# Parte III - Estratégia e programas de acção:
+Parte III - Estratégia e programas de acção:
 
 Capítulos 15 a 23.
 
@@ -370,15 +375,15 @@ Para as actividades industriais, pode tomar-se por padrão a Classificação das
 
 Assim, no domínio atrás referido, a Classificação das Actividades Económicas, designada por CAE - Rev. 2, está dividida em secções e subsecções, com as seguintes rubricas:
 
-#### Secção C - Indústrias extractivas;
+Secção C - Indústrias extractivas;
 
-#### Secção D - Indústria transformadora;
+Secção D - Indústria transformadora;
 
-#### Secção E - Produção e distribuição de electricidade, gás e água;
+Secção E - Produção e distribuição de electricidade, gás e água;
 
 #### Secção F - Construção;
 
-#### Secção G - Comércio por grosso e a retalho, reparação de veículos automóveis, motociclos e de bens de uso pessoal e doméstico.
+Secção G - Comércio por grosso e a retalho, reparação de veículos automóveis, motociclos e de bens de uso pessoal e doméstico.
 
 Para facilitar a recolha de informação relativa a resíduos considerou-se conveniente fazer um agrupamento das actividades económicas abrangidas por este Plano da seguinte forma:
 
@@ -540,7 +545,7 @@ O esquema de princípio de tal sistema vai ilustrado na figura 5.2, que mostra o
 
 «Criar o sistema e ter a certeza, em simultâneo, da sua funcionalidade normal e da sua sustentabilidade futura» deve ser o lema de qualquer unidade gestionária de resíduos industriais.
 
-[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 5.2 - Fluxograma genérico da gestão integrada de resíduos industriais
 
@@ -558,7 +563,7 @@ O problema da valorização destes resíduos em termos de tratamento de fim de l
 
 A opção que se impõe passa pela reconversão ambiental de antigas minas e pedreiras e pelo decidido incremento de atenção pelo confinamento seguro em aterro, exigindo nova legislação e mais atento seguimento.
 
-[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 5.3 - Fluxograma da gestão dos resíduos provenientes da indústria extractiva
 
@@ -576,7 +581,7 @@ c) A reciclagem, directamente ligada aos processos industriais;
 
 d) A valorização energética, alternativa seleccionada para os resíduos perigosos em instalações de co-incineração.
 
-[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 5.4 - Processos, produtos e resíduos industriais
 
@@ -586,7 +591,7 @@ Embora se trate da parcela mais complexa de todo o sector, é neste domínio que
 
 A produção e distribuição de electricidade, gás e água, incluindo o tratamento de águas residuais, apresenta um fluxograma de gestão dos resíduos diferente dos restantes (fig. 5.5), em que ressaltam as dificuldades em tratar os resíduos dos processos físicos, químicos e biológicos da produção de água e das lamas das ETAR (estações de tratamento de águas residuais).
 
-[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 5.5 - Fluxograma da gestão dos resíduos provenientes da indústria da energia
 
@@ -594,7 +599,7 @@ Os resíduos mais comuns desta área industrial são os provenientes de activida
 
 Finalmente, a gestão dos resíduos provenientes da indústria de construção e demolição apresenta um fluxograma, representado na figura 5.6, em que se destaca a ausência de aspectos de valorização por redução, dado que, mesmo no capítulo de reciclagem, pouco se tem feito no nosso país. Há necessidade de promover decididamente a atenção sobre este tipo de resíduos, sem o que não se desenvolverá a importante fatia que representa no contexto geral dos resíduos industriais.
 
-[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 5.6 - Fluxograma da gestão dos resíduos provenientes da indústria de construção e demolição
 
@@ -706,7 +711,7 @@ n) Promover amplas campanhas de sensibilização da população em geral, dos in
 
 Estas tarefas que competem, em larga medida, às direcções regionais do ambiente e ao Instituto dos Resíduos, para poderem ser adequadamente desempenhadas, obrigarão ao reforço complementar dos meios técnicos e humanos existentes nestes organismos.
 
-# PARTE II — Situação de referência
+## PARTE II — Situação de referência
 
 Pretende-se caracterizar não só as indústrias existentes e os resíduos por estas gerados como também as infra-estruturas disponíveis para que se efectue uma gestão de resíduos devidamente correcta.
 
@@ -826,7 +831,7 @@ A localização geográfica das sedes das empresas revelava a forte importância
 
 Saliente-se, ainda, que, na região do Alentejo, se encontravam sediados 6% das empresas que, porém, eram responsáveis por 15% do emprego e 21% do volume de negócios do País.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Fonte: INE, 1996.
 
@@ -838,7 +843,7 @@ QUADRO IX.1
 
 Produção de rochas ornamentais (1996)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Fonte: IGM.
 
@@ -856,7 +861,7 @@ Em termos industriais, Portugal é caracterizado por fortes assimetrias no seu t
 
 Em 1995, a actividade da indústria transformadora foi assegurada por 63652 empresas, enquanto em 1997 esse número subiu já para 115473, tendo as Regiões Norte, Centro e de Lisboa e Vale do Tejo congregado, respectivamente, cerca de 94% e 92% das mesmas (figura 9.2). No entanto, a Região Norte, por si só, concentra quase metade do parque industrial existente.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Fonte: INE, Estatísticas das Empresas, 1997.
 
@@ -864,7 +869,7 @@ Figura 9.2 - Distribuição, por regiões, da indústria transformadora
 
 Numa apreciação mais detalhada (figura 9.3), verifica-se que os sectores com maior número de empresas, por ordem decrescente de importância relativa, eram, em 1997, a indústria têxtil, a indústria metalúrgica de base e de produtos metálicos, a indústria alimentar, de bebidas e tabaco e a indústria da madeira, cortiça e seus produtos.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Fonte: INE, Estatísticas das Empresas, 1997.
 
@@ -876,7 +881,7 @@ Em termos geográficos, e no que diz respeito ao continente, verifica-se uma for
 
 No que diz respeito à estrutura empresarial do sector, e de acordo com a figura 9.4, constata-se a predominância das pequenas empresas, com menos de nove trabalhadores, que representam 76% do total. Ainda em relação a este aspecto, verifica-se que 98% do parque industrial transformador é constituído por empresas com menos de 100 pessoas. No entanto, face à estrutura dimensional do sector no seu todo, verifica-se que as empresas de maior dimensão, com 100 e mais pessoas ao serviço, apesar de representarem apenas 2% do número de empresas, asseguram cerca de 43,4% do emprego.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Fonte: INE, Estatísticas das Empresas, 1996.
 
@@ -886,7 +891,7 @@ Em 1995, o volume de vendas na indústria transformadora atingiu um montante de 
 
 Nesse mesmo ano, as actividades mais representativas em termos de volume de vendas foram as indústrias alimentares (CAE 31), indústrias têxtil do vestuário e do couro (CAE 32), as indústrias químicas dos derivados do petróleo e do carvão e dos produtos de borracha e de plástico (CAE 35) e a fabricação de produtos metálicos e de máquinas, equipamentos e material de transporte (CAE 38), como se observa na figura 9.7.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Fonte: INE, Estatísticas das Empresas, 1995.
 
@@ -940,7 +945,7 @@ O Algarve é uma região sem grande tradição industrial, que desenvolveu a sua
 
 A figura 9.6 ilustra a distribuição geográfica das principais indústrias transformadoras.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 9.6 - Distribuição geográfica da indústria transformadora (1997)
 
@@ -960,7 +965,7 @@ Em resultado da pequena dimensão do seu mercado energético, Portugal possui, h
 
 Não admira, portanto, que a actual política energética portuguesa procure activamente reduzir os factores de fraqueza do sistema energético do País e reforçar as condições de desenvolvimento dos seus recursos endógenos.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 9.7 - Fluxos energéticos
 
@@ -980,7 +985,7 @@ QUADRO IX.2
 
 Quantitativos globais de produtos petrolíferos para comercialização (1995 e 1996)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Na comercialização, o gasóleo é o produto petrolífero refinado que tem mais significado, seguido do fuelóleo 3,5% S e da gasolina super.
 
@@ -990,7 +995,7 @@ Para além da PETROGAL, existem outras empresas, a funcionar no mercado portugu�
 
 Actualmente, o modelo organizativo do sistema eléctrico nacional (SEN) compreende o sistema eléctrico de serviço público (SEP) e o sistema eléctrico independente (SEI) (v. fig. 9.8).
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Fonte: ERSE.
 
@@ -1056,11 +1061,11 @@ QUADRO IX.3
 
 Centrais térmicas em Portugal continental
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Fonte: DGE.
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 9.9 - Centrais térmicas em Portugal continental
 
@@ -1080,7 +1085,7 @@ QUADRO IX.4
 
 Evolução (percentagem) da estrutura do sector da construção entre 1993 e 1998
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Fonte: AECOPS.
 
@@ -1096,13 +1101,13 @@ QUADRO IX.5
 
 Número de concursos de obras públicas abertos e adjudicados
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Fonte: AECOPS.
 
 Da análise da figura 9.10 observa-se que os concursos adjudicados nos últimos anos dizem respeito a obras concentradas nas Regiões Norte, Centro e de Lisboa e Vale do Tejo, tendo esta tendência sido acentuada em 1997.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Fonte: AECOPS.
 
@@ -1116,7 +1121,7 @@ A partir dos dados das estatísticas do Instituto Nacional de Estatística (INE)
 
 Na informação existente, a entidade investidora respectiva é, quase na sua totalidade, relativa a particulares e ou empresas privadas (cerca de 99%), razão pela qual é possível considerar-se este ponto relativo apenas a «obras particulares».
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Fonte: INE.
 
@@ -1126,7 +1131,7 @@ Da figura 9.11 é possível concluir que, para além da ligeira tendência de au
 
 Por outro lado, é possível verificar que nas Regiões do Centro e de Lisboa e Vale do Tejo é onde se tem verificado um maior número de licenças de demolição, consequentemente uma maior produção de resíduos de construção e demolição (v. fig. 9.12).
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Fonte: INE.
 
@@ -1212,7 +1217,7 @@ QUADRO X.1
 
 Respostas aos mapas de registo de resíduos industriais por regiões - ano de 1998
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Refere-se ainda que dos 3507 mapas recebidos, houve necessidade de excluir 446 por motivos que se prendem com o seu incorrecto ou incompleto preenchimento, bem como por se tratar de mapas relativos a empresas que não se encontram incluídas no âmbito do presente Plano. É pois com base em 3061 mapas de empresas, correspondentes a 11599 mapas de registo de resíduos, que se efectuou a análise destes dados.
 
@@ -1220,7 +1225,7 @@ QUADRO X.2
 
 Respostas aos mapas de registo de resíduos industriais por sector industrial - ano de 1998
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 10.2 - Análise dos dados mais recentes (1998):
 
@@ -1240,11 +1245,11 @@ QUADRO X.3
 
 Estrutura da produção de resíduos industriais (registos de 1998)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Fonte: DRA, Maio de 1999.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 10.1 - Preparação dos resíduos perigosos face à produção total
 
@@ -1252,13 +1257,13 @@ No que diz respeito à repartição da produção de resíduos por actividade, v
 
 O insignificante peso da indústria da construção, com cerca de 60000 t declaradas, apenas se pode explicar pela diminuta adesão ao registo anual, tanto mais que é sabido que esta actividade se caracteriza por gerar importantes volumes de resíduos. Uma acção específica neste sector é sobremaneira desejável, a fim de sensibilizar as empresas a cumprirem o que se acha preceituado na nossa lei em matéria de registo da produção de resíduos industriais.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 10.2 - Peso relativo de cada sector industrial para a produção total de resíduos
 
 Em termos de produção de resíduos perigosos, e de acordo com a figura 10.3, verifica-se que o peso dos quantitativos produzidos pela indústria transformadora (205793 t) em relação ao total é semelhante ao verificado para a produção global, embora isso já não seja verdade no que diz respeito aos outros sectores. Na realidade, a indústria da produção e distribuição de electricidade, gás e água apresenta neste caso um peso relativo de 15% (39645 t), enquanto a indústria extractiva e a da construção apenas representam, no seu conjunto, cerca de 6%.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 10.3 - Peso relativo de cada sector industrial para a produção total de resíduos perigosos
 
@@ -1270,7 +1275,7 @@ QUADRO X.4
 
 Média de produção anual de resíduos perigosos por empresa e actividade
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 10.3 - Análise geográfica:
 
@@ -1280,7 +1285,7 @@ QUADRO X.5
 
 Quantidade total de resíduos industriais por distrito (1998)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Fonte: DRA, Maio de 1999.
 
@@ -1292,13 +1297,13 @@ Ao nível concelhio (fig. 10.5), verificou-se em 1998 uma produção superior a 
 
 No que diz respeito ao concelho da Maia, a produção de resíduos industriais ficou quase exclusivamente ligada às actividades relacionadas com a indústria metalúrgica de base (97%), estando no caso do Barreiro, e à semelhança do que se passa em todo o distrito de Setúbal, largamente condicionada pela indústria sediada no QUIMIPARQUE (99% da produção do concelho). No concelho de Beja, é a indústria extractiva a grande produtora de resíduos industriais (99%).
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 10.4 - Produção de resíduos industriais por distrito
 
 A produção de resíduos industriais no concelho do Cartaxo deve-se quase exclusivamente à indústria da produção de produtos alimentares e bebidas, enquanto em Viana do Castelo se destaca a indústria da madeira e da cortiça (95% do total). No concelho de Vila Franca de Xira, as actividades industriais da CAE 26 - fabricação de outros produtos minerais não metálicos - foram responsáveis pela produção de 96% do total de resíduos industriais produzidos.
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 10.5 - Produção de resíduos industrais por concelho
 
@@ -1310,7 +1315,7 @@ QUADRO X.6
 
 Quantidade de resíduos industriais perigosos por distrito (1998)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Fonte: DRA, Maio de 1999.
 
@@ -1318,13 +1323,13 @@ Realça-se ainda os distritos de Vila Real e Aveiro, com cerca de 28000 t e 2400
 
 Merecem também referência os distritos do Porto, Santarém e Évora, com uma produção a variar entre as 10000 t e as 15000 t. No caso do Porto, as indústrias com uma produção de resíduos perigosos mais representativa foram as de fabricação de produtos químicos (32%) e a indústria automóvel (29%), sendo que no distrito de Santarém se destaca a indústria de produção e distribuição de electricidade (72%) e no de Évora a indústria da construção (96%).
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figugra 10.6 - Produção de resíduos industriais perigosos por distrito
 
 Uma análise ao nível concelhio (fig. 10.7), e de acordo com os dados disponíveis permite verificar que o Barreiro, com uma produção de 53464 t de resíduos perigosos em 1998, é o principal produtor nacinal, seguindo-se-lhe o concelho do Seixal, com 31338 t (maioritariamente produzidas na indústria da madeira e da cortiça e na metalúrgica de base).
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 10.7 - Produção de resíduos industriais perigosos por concelho
 
@@ -1368,7 +1373,7 @@ QUADRO X.7
 
 Produção de determinadas categorias de resíduos industriais perigosos por distrito (1996 e 1998)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Fonte: Sistema de Gestão de Resíduos Industriais - Actualização do Inventário de Resíduos: Quantitativos, TECNINVEST, Abril de 1997.
 
@@ -1396,7 +1401,7 @@ QUADRO X.8
 
 Categorias de resíduos perigosos sem destino final adequado no País e respectivas formas de tratamento aconselhadas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 O estudo concluía que, dependendo das características de inflamabilidade dos resíduos, as necessidades de tratamento térmico eram de 13000 t a 16000 t por ano. Da análise agora efectuada, verifica-se que estas necessidades foram já ultrapassadas, necessitando-se agora de uma capacidade da ordem das 33000 t. No que diz respeito aos quantitativos a enviar para tratamento físico-químico ou aterro, a diminuição dos quantitativos inventariados de 1996 e 1998, e de acordo com o referido atrás, dever-se-á certamente à diminuição da sua declaração e não propriamente a uma efectiva redução da sua produção.
 
@@ -1436,11 +1441,11 @@ QUADRO XI.1
 
 Quantitativos de óleos novos vendidos e de óleos usados recolhidos nos anos de 1990 a 1996
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Fonte: DGE.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Fonte: DGE.
 
@@ -1470,7 +1475,7 @@ O aumento dos quantitativos que se verificou pode ser devido, tal como já foi a
 
 O valor total de óleos usados, obtido a partir do tratamento dos mapas de registo de resíduos industriais, é distribuído pelas várias indústrias da forma apresentada na figura 11.2.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 11.2 - Distribuição da quantidade total de óleos usados declarados nos mapas de registo de resíduos industriais para 1998, por indústria.
 
@@ -1484,11 +1489,11 @@ A maior produção observa-se na Região de Lisboa e Vale do Tejo que apresenta 
 
 A Região do Norte apresenta maior produção na proximidade da costa litoral, mais especificamente em concelhos como Vila Nova de Gaia, Matosinhos, Maia e Guimarães, sendo estes de grande desenvolvimento industrial relativamente aos concelhos do interior da região.
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 11.3 - Produção de óleos usados por distrito
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 11.4 - Produção de óleos usados por concelho
 
@@ -1732,7 +1737,7 @@ De seguida, apresentam-se as informações recolhidas e analisadas pelo Institut
 
 As importações de resíduos declaradas e efectuadas no período compreendido entre 1994-998 dizem apenas respeito a cinzas de zinco, as quais são valorizadas por uma empresa nacional na produção de óxidos de zinco. Da observação da figura 12.1 constata-se que essa importação não apresenta uma evolução segundo um padrão lógico, devido sem dúvida a estar condicionada às acções de uma única empresa, embora se tenha situado sempre acima das 3000 t anuais.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 12.1 - Evolução dos quantitativos de resíduos importados (toneladas) por país de origem
 
@@ -1742,7 +1747,7 @@ Figura 12.1 - Evolução dos quantitativos de resíduos importados (toneladas) p
 
 A exportação de resíduos para valorização tem assumido nos últimos cinco anos uma importância crescente no panorama nacional de gestão de resíduos, tendo o ano de 1998 sido caracterizado pelo maior valor alguma vez registado, que se cifrou perto das 15000 t (fig. 12.2). À semelhança do que se verifica para a importação, também neste caso a Espanha se assume como parceiro preferencial, embora a Bélgica e a França tenham vindo a aumentar o seu peso relativo.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 12.2 - Evolução dos quantitativos de resíduos exportados (toneladas) por país de destino
 
@@ -1754,13 +1759,13 @@ Esta solução apenas foi possível devido à intervenção directa dos Estados 
 
 No que diz respeito ao tipo de resíduos exportados, realça-se a predominância dos que contêm teores elevados em metais pesados, os quais representam cerca de 60% do total (fig. 12.3). Esta situação justifica que a reciclagem e recuperação de metais e suas ligas se assuma como a principal operação de valorização utilizada.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 12.3 - Peso relativo dos principais tipos de resíduos exportados para valorização no período de 1994-1998
 
 No entanto, quanto a este aspecto, e conforme se pode verificar através da figura 12.4, é de referir a importância crescente que a valorização energética (em fornos de cimento) tem vindo progressivamente a adquirir.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 12.4 - Peso de cada método de valorização utilizado, relativamente à totalidade dos resíduos exportados para valorização
 
@@ -1770,19 +1775,19 @@ Nos últimos cinco anos, e à semelhança do que se verificou no caso da exporta
 
 Destaca-se ainda, no período considerado, a entrada em vigor, a 1 de Junho de 1996, do «Plano de Gestão de Resíduos do Reino Unido - Importação e Exportação», segundo o qual o Governo Britânico proíbe as importações de resíduos destinados a eliminação, nomeadamente de Portugal para o Reino Unido, com excepção dos resíduos destinados a incineração a alta temperatura. A aplicação deste Plano traduziu-se, como se pode verificar pela figura 12.5, numa diminuição acentuada da exportação de resíduos para aquele país.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 12.5 - Evolução dos quantitativos de resíduos exportados (toneladas) por país de destino
 
 No que diz respeito aos principais tipos de resíduos exportados, é de realçar a predominância das lamas geradas no tratamento de efluentes industriais, bem como dos resíduos resultantes do fabrico, formulação, distribuição e utilização (FFDU) de tintas e vernizes (fig. 12.6).
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 12.6 - Evolução dos quantitativos de resíduos exportados (toneladas) por país de destino
 
 Quanto aos métodos de eliminação utilizados, verifica-se que a deposição em aterro, precedida de tratamento físico-químico, quando necessário, tem vindo nos últimos anos a assumir uma importância crescente, atingindo em 1998 cerca de 66% do total de exportações de resíduos para eliminação (fig. 12.7).
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 12.7 - Evolução do peso relativo de cada método de eliminação utilizado
 
@@ -1794,7 +1799,7 @@ Quanto a este aspecto, refere-se que o regulamento prevê a possibilidade da cob
 
 Em termos globais, constata-se que a segunda metade da presente década tem sido caracterizada por uma supremacia da exportação face à importação, tendo este fenómeno atingido o seu expoente máximo no ano de 1998. Este peso crescente da exportação no cômputo das operações de gestão de resíduos reflecte, por um lado, a escassez de destinos adequados a nível nacional, mas também uma consciencialização crescente por parte dos operadores económicos envolvidos em actividades geradoras de resíduos.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 12.8 - Quantitativos (toneladas) totais importados e exportados durante esta década
 
@@ -1812,13 +1817,13 @@ No caso da importação, e no que se refere às características dos resíduos, 
 
 Quanto à exportação, a situação é bastante mais diversificada, sendo curioso registar que cerca de 44% da totalidade dos resíduos exportados se encontram relacionados, não com processos industriais propriamente ditos, mas sim com operações de despoluição a eles associadas. É ainda de realçar o importante contributo dado pelas operações de fabrico, formulação, distribuição e utilização de produtos farmacêuticos e de tintas e vernizes (fig. 12.9).
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 12.9 - Tipologia dos resíduos exportados
 
 Da observação da figura 12.10 verifica-se que o espectro dos sectores industriais que normalmente recorrem à exportação de resíduos é bastante variado, embora exista um certo predomínio da indústria automóvel e metalúrgica de base. Esta situação pode ter explicação no elevado quantitativo de resíduos associados a estas actividades, bem como no elevado valor intrínseco de certos resíduos e consequente apetência para a reciclagem.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 12.10 - Contributo dos sectores de actividade para a exportação de resíduos
 
@@ -1966,7 +1971,7 @@ Legislação sobre gestão de resíduos industriais.
 
 Este conjunto de informações encontra-se ainda em fase de recolha e preparação, pelo que apenas na próxima versão deste Plano se julga ser possível a inclusão da mesma.
 
-# PARTE III — Estratégia e programas de acção
+## PARTE III — Estratégia e programas de acção
 
 ### CAPÍTULO 15 — Sustentabilidade da gestão
 
@@ -2432,7 +2437,7 @@ As actividades industriais no nosso país seguiam, até há cinco ou seis anos a
 
 A figura 20.1 procura ilustrar a situação descrita, verdadeiro ponto de partida para a filosofia de mudança inerente às linhas estratégicas defendidas no presente Plano, e que se poderá designar por «ciclo primitivo de eliminação dos resíduos industriais.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 20.1 - Ciclo primitivo de «eliminação» dos resíduos (situação de partida)
 
@@ -2450,11 +2455,11 @@ Neste momento, poder-se-á dizer que, em Portugal, coexistem os dois tipos de si
 
 Mais rara é a existência de casos de evolução deste para o segundo paradigma, que se designou por «paradigma tecnológico» e que se tentou ilustrar na figura 20.3.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 20.2 - Ciclo avançado de «eliminação» dos resíduos (paradigma melhorado)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Nota. - A operação «transporte» não está representada.
 
@@ -2474,7 +2479,7 @@ Existe um terceiro paradigma, o paradigma ecológico, que vai presidir aos princ
 
 A figura 20.4 procura ilustrar melhor este raciocínio.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 20.4 - Ciclo ecológico dos resíduos: o terceiro paradigma (paradigma ecológico)
 
@@ -2588,7 +2593,7 @@ Tratamento de produtos residuais - variedade (material, biológico, térmico), c
 
 Tratamento de resíduos - específico.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Figura 20.5 - Gráfico do percurso previsível das três opções alternativas
 
@@ -2596,7 +2601,7 @@ QUADRO XX.2
 
 Objectivos por cenários sucessivos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
+[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)](https://files.diariodarepublica.pt/1s/1999/12/280a00/85158571.pdf)
 
 Os objectivos a atingir em cada um dos cenários considerados são indicados no quadro XX.2, a fim de facilitar o desenvolvimento das ideias para os programas de acção (capítulos 21, 22 e 23 seguintes).
 
@@ -2604,7 +2609,9 @@ Das três opções em causa, e ainda sem possibilidade de calcular os custos ine
 
 Após a análise dos programas de acção, nos próximos capítulos, tentar-se-á uma melhor aproximação e uma conclusão mais satisfatória sobre a escolha da opção preferível, havendo necessidade de obter valores financeiros para custear as actividades implícitas a essa escolha e levar em conta as consequências económicas e psicossociais do caminho a percorrer.
 
-### CAPÍTULO 21 — Programas de acção
+CAPÍTULO 21
+
+Programas de acção
 
 21.1 - Metodologia de apresentação:
 
@@ -2770,7 +2777,9 @@ C - Opção optimista:
 
 O programa de acção no longo prazo, relativo a esta opção, já se encontra fora do âmbito deste Plano Estratégico uma vez que o paradigma ecológico terá sido atingido à volta do ano de 2010 (v. fig. 20.5).
 
-### CAPÍTULO 22 — Legislação necessária à sustentação da estratégia
+CAPÍTULO 22
+
+Legislação necessária à sustentação da estratégia
 
 22.1 - Legislação em vigor aplicável:
 
@@ -2832,7 +2841,9 @@ Regulamentação de «bolsas de resíduos» especialmente criadas com a finalida
 
 Abertura à iniciativa privada do desempenho de serviços de apoio à reutilização, reciclagem e à valorização energética dos resíduos industriais.
 
-### CAPÍTULO 23 — Da estratégia à acção
+CAPÍTULO 23
+
+Da estratégia à acção
 
 Neste capítulo será descrito um primeiro conjunto de acções que decorrem da estratégia atrás definida e que são enquadráveis nas verbas que forem adstritas ao Ministério do Ambiente no âmbito do Orçamento do Estado e no III Quadro Comunitário de Apoio.
 

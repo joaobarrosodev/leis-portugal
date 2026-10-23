@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/216a00/50645072.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/244/1997/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1997-652772
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:51:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e6c05ed6ad668116f1d517deacc0557f7b421e11152eb6898bc71bdf3b642bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b94fd3ac63bb0085f3d95bebffd6d06d67c031f948657acd5b72575e68395767
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:51:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Director Artístico
+- Instituto das Artes Cénicas
 - Lisboa
 - Ministro da Cultura
-- Instituto das Artes Cénicas
 - Orgânica
 - Teatro
 - Teatro Nacional de DONA Maria II
@@ -79,6 +79,12 @@ relationships:
   target: pt:dre:209644:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553877:por
+  label: "Extinto o Orgão de Direcção do Teatro Nacional Dona Maria II, (a que se refere a al. a) do art. 9.º e 10.º) DEC\
+    \ LEI.247/2000.2000.09.29.MC, DR.IS-A [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-2000-553877
+  date: '2000-09-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/42/1996/05/07/p/dre
   label: null
@@ -99,16 +105,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/640-a/1994/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/640-a/1994/07/15/p/dre
+- type: cites
+  target: pt:dre:173688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580160:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:209644:por
+  label: "Revogado pelo DEC LEI.65/2004.23.03.2004.MC, DR.IS-A [70] de 23.03.2004, nos termos do disposto no respectivo art.\
+    \ 22º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-2004-209644
+  date: '2004-03-23'
 article_structure:
   article_count: 42
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:51:56Z'
   warnings: []
   errors: []
 ---
@@ -603,12 +643,12 @@ O presente diploma entra em vigor no dia imediato ao da respectiva publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Julho de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco Manuel Maria Ferreira Carrilho - António José Martins Seguro.
 
-**Promulgado em 27 de Agosto de 1997.**
+Promulgado em 27 de Agosto de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Setembro de 1997.**
+Referendado em 2 de Setembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

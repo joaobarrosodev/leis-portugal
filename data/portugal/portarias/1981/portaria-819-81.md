@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/09/21800/25252529.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,158 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/819-1981-563218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:55:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d03afb60edb724cb317e2a8b82458e9e3891f07689ebb54c0edda2e11e2edb73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29e6d27e582a7a950561437038d4acf87aeb643e87dac52e2aecda6941f13b83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:55:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direção Geral da Saúde
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:405702:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:397290:por
+  label: "Aumentado lugares ao quadro de pessoal aprovado pelo presente diploma pela PORT.751/82.02.08.1982.MFP, DR.IS [176]\
+    \ de 02.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/751-1982-397290
+  date: '1982-08-02'
+- type: amended_by
+  target: pt:dre:318317:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal aprovado pelo presente diploma pela PORT.1295/82.31.12.1982.MFP,\
+    \ DR.IS [301] de 31.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1295-1982-318317
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:312586:por
+  label: "Alterado o quadro de pessoal do Instituto Maternal relativamente ao pessoal de enfermagem pela PORT.306/83.1983.03.26.MFP\
+    \ DR.IS [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/306-1983-312586
+  date: '1983-03-26'
+- type: amended_by
+  target: pt:dre:453788:por
+  label: "Alterado o quadro de pessoal dirigente e de pessoal técnico superior do Instituto Maternal e da Direcção-Geral de\
+    \ Saúde, bem como o quadro de pessoal técnico superior dos Serviços de Higiene Rural e Defesa Anti-Sezonática e do Instituto\
+    \ de Assistência aos Doentes de Hansen, pela PORT.766/83.18.07.1983.MFP, DR.IS [163] de 17.07.1983\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/766-1983-453788
+  date: '1983-07-18'
+- type: amended_by
+  target: pt:dre:454314:por
+  label: "Alterado, na parte referente ao pessoal técnico superior, o quadro de pessoal aprovado pelo presente diploma, pela\
+    \ PORT.786/83.28.07.1983.MFP, DR.IS [172] de 28.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/786-1983-454314
+  date: '1983-07-28'
+- type: cites
+  target: pt:dre:140294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676628:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:405702:por
+  label: "Revogada pelo DEC LEI.74-C/84.1984.03.02.PCM DR.IS [53]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-c-1984-405702
+  date: '1984-03-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:55:29Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +228,7 @@ Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Adminis
 
 Quadro de pessoal da direcção-Geral de Saúde
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21800/25252529.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21800/25252529.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/21800/25252529.pdf)
 
 Notas
 
@@ -120,11 +238,11 @@ Notas
 
 ## ANEXO II — Quadro de pessoal do Parque Sanitário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21800/25252529.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21800/25252529.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/21800/25252529.pdf)
 
 ## ANEXO III — Quadro de pessoal dos Serviços Locais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21800/25252529.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21800/25252529.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/21800/25252529.pdf)
 
 Nota. - Os directores de saúde e os delegados de saúde que dirigirem centros de saúde perceberão uma gratificação mensal, respectivamente de 2500$00 e 2000$00.
 
@@ -132,13 +250,13 @@ Os funcionários que nos centros de saúde distritais desempenharem funções de
 
 ## ANEXO IV — Quadro de pessoal do Instituto Maternal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21800/25252529.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21800/25252529.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/21800/25252529.pdf)
 
 Nota. - Ao funcionário que exercer funções de tesoureiro e enquanto vigorar a autonomia administrativa será abonada a importância de 400$00 mensais para falhas até à publicação de legislação genérica sobre abono para falhas.
 
 ## ANEXO V — Quadro de pessoal dos Serviços de Higiene Rural e Defesa Anti-Sezonática
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21800/25252529.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21800/25252529.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/21800/25252529.pdf)
 
 Nota
 
@@ -148,7 +266,7 @@ Nota
 
 ## ANEXO VI — Quadro de pessoal do Instituto de Assistência aos Doentes de Hansen
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21800/25252529.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21800/25252529.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/21800/25252529.pdf)
 
 Notas
 

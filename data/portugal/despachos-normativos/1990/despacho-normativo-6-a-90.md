@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 26/1990, 1º Suplemento, Série I de 1990-01-31
   number: '26'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 434-(2) a 434-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/02601/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-a-1990-150168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T07:47:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88268f4e29f8a5ebef377f51afba171acf035d86c596b8707a9a945c2ef5d8a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 351e4cb53d7fb36c26825d563277d15f7bd351243403e1aaf108f04abeb67ba4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:47:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação de Professores
+- Disciplina de Educação Moral e Religiosa Católica
+- Ensino Oficial
+- Ensino Preparatório
+- Habilitações Literárias
+- Igreja Católica
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:540190:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:540190:por
+  label: "Aditadas, as habilitações próprias reconhecidas para a docência, ao elenco de cursos reconhecidos como habilitações\
+    \ próprias para os 2.º e 3.º ciclos do ensino básico e ensino secundário, constante do DN 32/84 de 09-Fev, na redacção\
+    \ do presente diploma, pela PORT.88/2006.24.01.2006.ME, DR.IS-B [17] de 24.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/88-2006-540190
+  date: '2006-01-24'
+- type: cites
+  target: pt:dre:376830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549814:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO A PARTIR DO ANO ESCOLAR DE 1997-1998, PELA PORT 1141-D/95 DE 15-SET DR.IS-B [214]2SUPL\04]2SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:47:23Z'
   warnings: []
   errors: []
 ---

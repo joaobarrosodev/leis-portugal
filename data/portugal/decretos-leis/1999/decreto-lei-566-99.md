@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/296a00/91829209.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/566/1999/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:15:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a1167fa094255866b6511708594b93a17ea3f86864e6282efd46b5639e90085
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 043878e169488f1e9f9d00d67a5a29859de449e6ceb0ac7f48d58c1b46a0fe07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:15:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,41 +66,268 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Álcool
 - Armazenagem
-- Região Autónoma
 - Bebida Alcoólica
 - CE Países
 - Código dos Impostos Especiais de Consumo
-- Imposto Especial sobre o Álcool
-- Imposto Especial sobre o Consumo de Tabaco
-- Imposto sobre Produtos Petrolíferos
-- Vinho
-- Política Fiscal
-- Álcool
-- SELO Fiscal
-- Fiscalização
+- Comércio
 - Créditos do Estado
-- Pagamento
+- Embalagem
+- Exportação
+- Fiscalização
+- Imposto Especial sobre o Álcool
 - Imposto Especial sobre o Consumo
 - Imposto Especial sobre o Consumo de Bebidas Alcoólicas
+- Imposto Especial sobre o Consumo de Tabaco
+- Imposto sobre Produtos Petrolíferos
 - Infracção Fiscal
 - Isenção Fiscal
-- Embalagem
+- Mercadoria
+- Pagamento
 - Pagamento a Prestações
+- Política Fiscal
 - Preço Máximo
-- Exportação
 - Produção
 - Reembolso
+- Região Autónoma
 - Regime Fiscal
-- Mercadoria
+- SELO Fiscal
 - Taxa
-- Comércio
 - TEOR Álcoolico
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:292110:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:679669:por
+  label: "Alterados os arts. 3º, 59º, 71º, 73º, 75º e 76º e aditados o nº 5 ao art. 4º, um art. 6º e a al d) ao nº 2 do art.\
+    \ 81º ao Código dos Impostos Especiais de Consumo pela LEI.3-B/2000.2000.04.04.AR,DR.IS-A [80]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:523637:por
+  label: "Estendido o âmbito de aplicação da al. c) do nº 3 do art. 74º aos plantadores automotrizes pela PORT.220/2000.2000.04.15.MF,\
+    \ DR. IS-B [90] de 15/Abr/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/220-2000-523637
+  date: '2000-04-15'
+- type: amended_by
+  target: pt:dre:212013:por
+  label: "Alterados os arts. 8º, 9º, 52º, 55º, 57º, a al c) do nº 1 do art. 66º, os arts. 83º e 85º e aditada uma subalínea\
+    \ à al b) do nº 1 do art. 40º do Código dos Impostos Especiais de Consumo pela LEI.30-C/2000.2000.12.29.AR,DR.IS-A [299]2º\
+    \ Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-2000-212013
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:319736:por
+  label: "Alterados os arts. 71º e 73º do CIEC, com a redacção da Lei 3-B/2000 de 04-Abr, pelo DEC LEI.58/2001.2001.02.19.MF\
+    \ DR.IS-A [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2001-319736
+  date: '2001-02-19'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Alterados os arts. 52º, 55º, 57º (todos na redacção da Lei 30-C/2000 de 29-Dez), 73º (na redacção da Lei 3-B/2000\
+    \ de 04-Abr e Dec Lei58/2001 de 19-Fev), 74º, 81º (o último na redacção da Lei 3-B/2000 de 04-Abr), 83º (na redacção da\
+    \ Lei 30-C/2000 de 29-Dez), 84º e 85º (o último na redacção da Lei 30-C/2000 de 29-Dez), todos do Código dos Impostos\
+    \ Especiais de Consumo, aprovado pelo presente diploma, pela LEI.109-B/2001.2001.12.27.AR DR.IS-A [298]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:197358:por
+  label: "Alterados os arts 81º (na redacção das Leis 3-B/2000 de 04-Abr e 109-B/2001 de 27-Dez), e 84º (na redacção da Lei\
+    \ 109-B/2001 de 27-Dez), ambos do Código Código dos Impostos Especiais de Consumo, aprovado pelo presente diploma, pelo\
+    \ Dec Lei 170/2002.2002.07.25.MF DR.IS-A [170]\00]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-2002-197358
+  date: '2002-07-25'
+- type: amended_by
+  target: pt:dre:425886:por
+  label: "Alterado o art. 73º (na redacção da Lei 3-B/2000, de 4-Abr, do Dec Lei 58/2001, de 19-Fev e da Lei 109-B/2001 de\
+    \ 27-Dez) e o art. 74º (na redacção da Lei 109-B/2001, de 27-Dez), ambos do Código dos Impostos Especiais de Consumo pelo\
+    \ DEC LEI.223/2002.2002.10.30.MF, DR.IS-A [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/223-2002-425886
+  date: '2002-10-30'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Alterados os arts. 52.º, 55.º e 57.º (os três na redacção da Lei 30-C/2000, de 29-Dez e da Lei 109-B/2001, de 27-Dez),\
+    \ 58.º, 59.º (este último na redacção da Lei 3-B/2000, de 04-Abr), 67.º, 71.º (este último na redacção da Lei 3-B/2000,\
+    \ de 04-Abr e do Dec Lei 58/2001, de 19-Fev), 83.º (na redacção da Lei 30-C/2000, de 29-Dez e da Lei 109-B/2001, de 27-Dez),\
+    \ 84.º (na redacção da Lei 109-B/2001, de 27-Dez e do Dec Lei 170/2002, de 25-Jul) e 85.º (na redacção da Lei 30-C/2000,\
+    \ de 29-Dez e da Lei 109-B/2001, de 27-Dez) do Código dos Impostos Especiais de Consumo, aprovado pelo presente diploma,\
+    \ e revogadas a partir da data referida no n.º 1 do art. 67.º deste Código, na nova redacção, as disposições relativas\
+    \ ao modelo, ao local de aposição, ás regras de fornecimento e controlo de utilização das estampilhas aplicáveis ás bebidas\
+    \ espirituosas, contrárias á Lei 32-B/2002, de 30-Dez, mantendo-se, contudo, inalteradas todas as competências de fiscalização\
+    \ e controlo cometidas aos organismos que tutelam esta matéria, pela LEI.32-B/2002.2002.12.30.AR DR.IS-A [301]2ºSUPL\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:656121:por
+  label: "Alterado o art. 58º do Código, alterado pela Lei 32-B/2002, de 30-Dez, pela LEI.43/2003.2003.08.22.AR, DR.IS-A [193]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/43-2003-656121
+  date: '2003-08-22'
+- type: amended_by
+  target: pt:dre:669556:por
+  label: "Alterado os arts. 52.º, 55.º e 57.º (os três na redacção das Leis 30-C/2000, de 29-Dez, 109-B/2001, de 27-Dez e\
+    \ 32-B/2002 de 30-Dez), art. 66.º (na redacção da Lei 30-C/2000, de 29-Dez), 70.º, 71.º (este último na redacção da Lei\
+    \ 3-B/2000, de 04-Abr, do Dec Lei 58/2001, de 19-Fev e da Lei 32-B/2002 de 30-Dez), 72.º, 73.º (este último na redacção\
+    \ da Lei 3-B/2000, de 04-Abr, do Dec Lei 58/2001, de 19-Fev, Lei 109-B/2001 de 27-Dez e Dec Lei 223/2002 de 30-Out), 80.º,\
+    \ 83.º (este último na redacção das Leis 30-C/2000, de 29-Dez, 109-B/2001, de 27-Dez e 32-B/2002 de 30-Dez e da Lei 32-B/2002\
+    \ de 30-Dez), 84.º (na redacção da Lei 109-B/2001, de 27-Dez e do Dec Lei 170/2002, de 25-Jul e Lei 32-B/2002 de 30-Dez)\
+    \ e 85.º (na redacção da Lei 30-C/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez e 32-B/2002 de 30-Dez), alterada ainda\
+    \ a menção \"imposto sobre os produtos petrolíferos\", que passa a \"imposto sobre os produtos petrolíferos e energéticos\"\
+    \ constante dos arts. 3º, 75º, 76º e 78º e epígrafes do art. 78º e cap. II, todos do Código dos Impostos Especiais de\
+    \ Consumo, aprovado pelo presente diploma, pela LEI.107-B/2003.31.12.2003.AR, DR.IS-A [301-2ºSupl] de 31.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/107-b-2003-669556
+  date: '2003-12-31'
+- type: amended_by
+  target: pt:dre:517435:por
+  label: "Alterados os arts. 8.º (na redacção da Lei 30-C/2000, de 29-Dez), 13.º, 14.º, 27.º, 35.º, 47.º, aditada uma al.\
+    \ e) ao n.º 2 do art. 28.º, uma al. e) ao art. 30.º, um n.º 4.º ao art. 34.º, os n.ºs 10.º e 11.º ao art. 44.º, os n.ºs\
+    \ 3, 4 e 5 ao art. 88.º e um art.º 106.º, e revogado o art. 77.º todos do Código dos Impostos Especiais de Consumo aprovado\
+    \ pelo presente diploma, pelo DEC LEI.162/2004.03.07.2004.MF, DR.IS-A [155] de 03.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-2004-517435
+  date: '2004-07-03'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterados os arts. 13.º e 14.º (na redacção do Dec Lei 162/2004, de 03-Jul), 31.º, 52.º (este último na redacção\
+    \ da Lei 30-C/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez, Lei 32-B/2002, de 30-Dez e Lei 107-B/2003, de 31-Dez), art.\
+    \ 55.º (na redacção das Leis 30-C/2000, de 29-Dez, 109-B/2001, de 27-Dez, 31-B/2002, de 30-Dez e 107-B/2003, de 31-Dez)\
+    \ art. 57.º (na redacção das Leis 30-C/2000, de 29-Dez, 109-B/2001, de 27-Dez, 32-B/2002, de 30-Dez e 107-B/2003, de 31-Dez),\
+    \ art. 66.º (na redacção das Leis 30-C/2000, de 29-Dez e 107-B/2003, de 31-Dez), art. 67.º (na redacção da Lei 32-B/2002,\
+    \ de 30-Dez), art. 71.º (na redacção da Lei 3-B/2000, de 04-Abr, do Dec Lei 58/2001, de 19-Fev, das Leis 32-B/2002, de\
+    \ 30-Dez e 107-B/2003, de 31-Dez), 72.º (na redacção da Lei 107-B/2003, de 31-Dez), art. 73.º (na redacção da Lei 3-B/2000,\
+    \ de 04-Abr, do Dec Lei 58/2001, de 19-Fev, da Lei 109-B/2001, de 27-Dez, do Dec Lei 223/2002, de 30-Out e da Lei 107-B/2003,\
+    \ de 31-Dez), art. 74.º (na redacção da Lei 109-B/2001, de 27-Dez e do Dec Lei 223/2002, de 30-Out), arts. 83.º e 85.º\
+    \ (na redacção das Leis 30-C/2000, de 29-Dez, 109-B/2001, de 27-Dez, 32-B/2002, de 30-Dez e 107-B/2003, de 31-Dez), todos\
+    \ do Código dos Impostos Especiais de Consumo, aprovado pelo presente diploma, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A\
+    \ [304-2ºSupl] de 30.12.2004\004\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:142520:por
+  label: "Alterado o art. 86º do Código dos Impostos Especiais de Consumo, aprovado pelo presente diploma, pelo DEC LEI.155/2005.08.09.2005.MFAP,\
+    \ DR.IS-A [173] de 08.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/155-2005-142520
+  date: '2005-09-08'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterados os arts. 9º (na redacção da Lei 30-C/2000 de 29-Dez), 22º, 24º, 28º, 30º, 45º, 52.º (este último na redacção\
+    \ das Leis 30-C/2000, de 29-Dez, 109-B/2001, de 27-Dez, 32-B/2002, de 30-Dez ,107-B/2003, de 31-Dez e 55-B/2004 de 30-Dez),\
+    \ art. 55.º (na redacção das Leis 30-C/2000, de 29-Dez, 109-B/2001, de 27-Dez, 32-B/2002, de 30-Dez, 107-B/2003, de 31-Dez\
+    \ e 55-B/2004 de 30-Dez) art. 57.º (na redacção das Leis 30-C/2000, de 29-Dez, 109-B/2001, de 27-Dez, 32-B/2002, de 30-Dez,107-B/2003,\
+    \ de 31-Dez e 55-B/2004 de 30-Dez), art. 67.º (na redacção da Lei 32-B/2002, de 30-Dez), art. 73.º (na redacção da Lei\
+    \ 3-B/2000, de 04-Abr, do Dec Lei 58/2001, de 19-Fev, da Lei 109-B/2001, de 27-Dez, do Dec Lei 223/2002, de 30-Out e da\
+    \ Lei 107-B/2003, de 31-Dez e e 55-B/2004 de 30-Dez), arts. 83.º (na redacção das Leis 30-C/2000, de 29-Dez, 109-B/2001,\
+    \ de 27-Dez, 32-B/2002, de 30-Dez e 107-B/2003, de 31-Dez e 55-B/2004 de 30-Out), 84.º (na redacção do Dec Lei 170/2002\
+    \ de 25-Jul e Lei 32-B//2002 de 30-Dez) e 85.º (na redacção das Leis 30-C/2000, de 29-Dez, 109-B/2001, de 27-Dez, 32-B/2002,\
+    \ de 30-Dez e 107-B/2003, de 31-Dez e 55-B/2004 de 30-Out), todos do Código dos Impostos Especiais de Consumo, aprovado\
+    \ pelo presente diploma, pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:667699:por
+  label: "Aditados os arts. 71º-A e 78º-A ao Código aprovado pelo presente diploma pelo DEC LEI.66/2006.22.03.2006.MEI, DR.IS-A\
+    \ [58] de 22.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-2006-667699
+  date: '2006-03-22'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterados os arts. 23º, 28º, 30º(os dois últimos na redacção da Lei 60-A/2005 de 30-Dez e do Dec Lei 162/2004 de\
+    \ 03-Jul que aditou uma al. e) aos citados artigos), arts. 32º, 33º, 35º(este último na redacção do Dec Lei 162/2004 de\
+    \ 03-Jul), arts. 51º, 52.º (este último na redacção da Lei 30-C/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez, Lei 32-B/2002,\
+    \ de 30-Dez e Lei 107-B/2003, de 31-Dez, Lei 55-B/2004 de 30-Dez e Lei 60-A/2005 de 30-Dez), art. 55.º (na redacção das\
+    \ Leis 30-C/2000, de 29-Dez, 109-B/2001, de 27-Dez, 31-B/2002, de 30-Dez, 107-B/2003, de 31-Dez, 55-B/2004 de 30-Dez e\
+    \ 60-A/2005 de 30-Dez) art. 57.º (na redacção das Leis 30-C/2000, de 29-Dez, 109-B/2001, de 27-Dez, 32-B/2002, de 30-Dez,\
+    \ 107-B/2003, de 31-Dez, 55-B/2004 de 30-Dez e 60-A/2005 de 30-Dez), art. 71.º (na redacção da Lei 3-B/2000, de 04-Abr,\
+    \ do Dec Lei 58/2001, de 19-Fev, das Leis 32-B/2002, de 30-Dez, 107-B/2003, de 31-Dez e 55-B/2004 de 30-Dez), art. 71º-A\
+    \ (na redacção do dec Lei 66/2006 de 22-Mar), art. 73.º(na redacção da Lei 3-B/2000, de 04-Abr, do Dec Lei 58/2001, de\
+    \ 19-Fev, da Lei 109-B/2001, de 27-Dez, do Dec Lei 223/2002, de 30-Out e das Leis 107-B/2003, de 31-Dez, 55-B/2004 de\
+    \ 30-Dez e 60-A/2005 de 30-Dez), art. 74.º (na redacção da Lei 109-B/2001, de 27-Dez , do Dec Lei 223/2002, de 30-Out\
+    \ e da Lei 55-B/2004 de 30-Dez), art. 78º-A(na redacção do dec Lei 66/2006 de 22-Mar), art. 80º(na redacção da Lei 107-B/2003\
+    \ de 31-Dez), arts. 83.º e 85.º (na redacção das Leis 30-C/2000, de 29-Dez, 109-B/2001, de 27-Dez, 32-B/2002, de 30-Dez,\
+    \ 107-B/2003, de 31-Dez, 55-B/2004 de 30-Dez e 60-A/2005 de 30-Dez), revogado os nºs 4 e 5 do art. 33º, o nº 4 do art.\
+    \ 86º e a al j) do nº 1 do art. 71º, todos do Código dos Impostos Especiais de Consumo, aprovado pelo presente diploma,\
+    \ pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0.2006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:230939:por
+  label: "Alterados os arts. 93º e 96º, aditado o art. 86º-A e revogados, sem prejuízo do nº 2 do art. 4º, o art. 86º, nº\
+    \ 2 do art. 92º, nºs 2 a 5 do art. 93º e o nº 2 do art. 96º, todos do Código dos Impostos Especiais de Consumo, aprovado\
+    \ pelo presente diploma, pelo DEC LEI.307-A/2007.31.08.2007.MFAP, DR.IS [168-3ºSupl] de 31.08.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/307-a-2007-230939
+  date: '2007-08-31'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o art. 27º (na redacção do Dec Lei 162/2004 de 03-Jul), arts. 52.º, 55º e 57º (na redacção da Lei 30-C/2000,\
+    \ de 29-Dez, da Lei 109-B/2001, de 27-Dez, Lei 32-B/2002, de 30-Dez e Lei 107-B/2003, de 31-Dez, Lei 55-B/2004 de 30-Dez\
+    \ e Lei 60-A/2005 de 30-Dez e 53-A/2006 de 29-Dez), art. 58º (na redacção das Leis 32-B/2002 de 30-Dez e 43/2003 de 22-Ago),\
+    \ art. 66º (na redacção das Leis 30-C/2000 de 29-Dez, 107-B/2003 de 31-Dez e 55-B/2004 de 30-Dez), art. 71.º (na redacção\
+    \ da Lei 3-B/2000, de 04-Abr, do Dec Lei 58/2001, de 19-Fev, das Leis 32-B/2002, de 30-Dez, 107-B/2003, de 31-Dez e 55-B/2004\
+    \ de 30-Dez e 53-A/2006 de 29-Dez), art. 71º-A (aditado pelo dec Lei 66/2006 de 22-Mar e na redacção da Lei 53-A/2006\
+    \ de 29-Dez), art. 72º (na redacção das Leis 55-B/2004 de 30-Dez e 107-B/2003 de 31-Dez), art. 73.º (na redacção da Lei\
+    \ 3-B/2000, de 04-Abr, do Dec Lei 58/2001, de 19-Fev, da Lei 109-B/2001, de 27-Dez, do Dec Lei 223/2002, de 30-Out e das\
+    \ Leis 107-B/2003, de 31-Dez, 55-B/2004 de 30-Dez e 60-A/2005 de 30-Dez e 53-A/2006 de 29-Dez), art. 74.º (na redacção\
+    \ da Lei 109-B/2001, de 27-Dez , do Dec Lei 223/2002, de 30-Out e da Lei 55-B/2004 de 30-Dez e 53-A/2006 de 29-Dez), art.\
+    \ 83.º (na redacção das Leis 30-C/2000, de 29-Dez, 109-B/2001, de 27-Dez, 32-B/2002, de 30-Dez, 107-B/2003, de 31-Dez,\
+    \ 55-B/2004 de 30-Dez e 60-A/2005 de 30-Dez e 53-A/2006 de 29-Dez), art. 84º (na redacção das leis 109-B/2001 de 27-Dez,\
+    \ 32-B/2002 de 30-Dez, Dec Lei 170/2002 de 25-Jul, Leis 107-B/2003 de 31-Dez e 60-A/2005 de 30-Dez), art. 85º (na redacção\
+    \ das leis 30-C/2000 de 29-Dez, 109-B/2001 de 27-Dez, 32-B/2002 de 30-Dez, 107-B/2003 de 31-Dez, 55-B/2004 de 30-Dez,\
+    \ 60-A/2005 de 30-Dez e 53-A/2006 de 29-Dez), art. 86º-A (na redacção do Dec Lei 307-A/2007 de 31-Ago), aditado o art.\
+    \ 10º-A e revogada a al. b) do nº 1, a al. a) do nº 2 os nºs 3 e 4 do art. 66º e o nº 4 do art. 71º, todos do Código dos\
+    \ Impostos Especiais de Consumo, aprovado pelo presente diploma, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de\
+    \ 31.12.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:440810:por
+  label: "Alterado o art. 86º-A (aditado pelo Dec Lei 307-A/2007, de 31-Ago e na redacção da Lei 67-A/2007, de 31-Dez) do\
+    \ Código dos Impostos Especiais de Consumo, aprovado pelo presente diploma, pelo DEC LEI.232/2008.02.12.2008.MFAP, DR.IS\
+    \ [233] de 02.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-2008-440810
+  date: '2008-12-02'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterados os arts. 7.º, 18.º, 35.º (na redacção do Dec Lei 162/2004 de 03-Jul e Lei 53-A/2006 de 29-Dez), 45.º (na\
+    \ redacção da Lei 60-A/2005 de 30-Dez), 47.º (na redacção do Dec Lei 162/2004 de 03-Jul), 52.º, 55.º, 57.º (na redacção\
+    \ da Lei 30-C/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez, Lei 32-B/2002, de 30-Dez e Lei 107-B/2003, de 31-Dez, Lei\
+    \ 55-B/2004 de 30-Dez e Lei 60-A/2005 de 30-Dez, 53-A/2006 de 29-Dez e 67-A/2007 de 31-Dez), 58.º (na redacção das Leis\
+    \ 32-B/2002 de 30-Dez, 43/2003 de 22-Ago e 67-A/2007 de 31-Dez), 61.º, 70.º (este último na redacção da Lei 107-B/2003\
+    \ de 31-Dez), 73.º (na redacção da Lei 3-B/2000, de 04-Abr, do Dec Lei 58/2001, de 19-Fev, da Lei 109-B/2001, de 27-Dez,\
+    \ do Dec Lei 223/2002, de 30-Out e das Leis 107-B/2003, de 31-Dez, 55-B/2004 de 30-Dez e 60-A/2005 de 30-Dez, 53-A/2006\
+    \ de 29-Dez e 67-A/2007 de 31-Dez),74.º (na redacção da Lei 109-B/2001, de 27-Dez , do Dec Lei 223/2002, de 30-Out e da\
+    \ Lei 55-B/2004 de 30-Dez, 53-A/2006 de 29-Dez e 67-A/2007 de 31-Dez), 83.º (na redacção das Leis 30-C/2000, de 29-Dez,\
+    \ 109-B/2001, de 27-Dez, 32-B/2002, de 30-Dez, 107-B/2003, de 31-Dez, 55-B/2004 de 30-Dez e 60-A/2005 de 30-Dez, 53-A/2006\
+    \ de 29-Dez e 67-A/2007 de 31-Dez), 84.º (na redacção das leis 109-B/2001 de 27-Dez, 32-B/2002 de 30-Dez, Dec Lei 170/2002\
+    \ de 25-Jul, Leis 107-B/2003 de 31-Dez, 60-A/2005 de 30-Dez e 67-A/2007 de 31-Dez), e 94.º, revogados os nºs 2 do art.\
+    \ 43.º e 3 do art. 47.º e os arts. 98.º e 103.º, todos do Código dos Impostos Especiais de Consumo, aprovado pelo presente\
+    \ diploma, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterados os arts 52.º, 55.º, 57.º (na redacção da Lei 30-C/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez, Lei 32-B/2002,\
+    \ de 30-Dez e Lei 107-B/2003, de 31-Dez, Lei 55-B/2004 de 30-Dez e Lei 60-A/2005 de 30-Dez, 53-A/2006 de 29-Dez e 67-A/2007\
+    \ de 31-Dez), 73.º (na redacção da Lei 3-B/2000, de 04-Abr, do Dec Lei 58/2001, de 19-Fev, da Lei 109-B/2001, de 27-Dez,\
+    \ do Dec Lei 223/2002, de 30-Out e das Leis 107-B/2003, de 31-Dez, 55-B/2004 de 30-Dez e 60-A/2005 de 30-Dez, 53-A/2006\
+    \ de 29-Dez e 67-A/2007 de 31-Dez), 83.º (na redacção das Leis 30-C/2000, de 29-Dez, 109-B/2001, de 27-Dez, 32-B/2002,\
+    \ de 30-Dez, 107-B/2003, de 31-Dez, 55-B/2004 de 30-Dez e 60-A/2005 de 30-Dez, 53-A/2006 de 29-Dez e 67-A/2007 de 31-Dez)\
+    \ e 84.º (na redacção das leis 109-B/2001 de 27-Dez, 32-B/2002 de 30-Dez, Dec Lei 170/2002 de 25-Jul, Leis 107-B/2003\
+    \ de 31-Dez, 60-A/2005 de 30-Dez e 67-A/2007 de 31-Dez), do Código dos Impostos Especiais de Consumo, aprovado pelo presente\
+    \ diploma, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:292110:por
+  label: "Alterado o nº 1 do art. 85º do Código dos Impostos Especiais de Consumo, aprovado pelo presente diploma, na redacção\
+    \ das leis 30-C/2000 de 29-Dez, 109-B/2001 de 27-Dez, 32-B/2002 de 30-Dez, 107-B/2003 de 31-Dez, 55-B/2004 de 30-Dez,\
+    \ 60-A/2005 de 30-Dez, 53-A/2006 de 29-Dez e 67-A/2007 de 31-Dez, pela LEI.12-A/2010.30.06.2010.AR, DR.IS [125-Supl] de\
+    \ 30.06.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2010-292110
+  date: '2010-06-30'
 - type: cites
   target: celex:31987R2658
   label: null
@@ -149,16 +376,54 @@ relationships:
   target: eli:http://data.europa.eu/
   label: null
   source: http://data.europa.eu/
+- type: corrected_by
+  target: pt:dre:596731:por
+  label: "Rectificado pela DECL-RECT.4-I/2000.2000.01.31.PCM DR.IS-B [25]Supl de 31/Jan/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-i-2000-596731
+  date: '2000-01-31'
+- type: corrected_by
+  target: pt:dre:214528:por
+  label: "Rectificado o art. 31º da Lei 32-B/2002, de 30-Dez, na parte que altera o art. 71º do Código dos Impostos Especiais\
+    \ de Consumo, aprovado pelo presente diploma, pela DECL-RECT.2/2003.15.03.2003.AR, DR.IS-A [63] de 15.03.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/2-2003-214528
+  date: '2003-03-15'
+- type: corrected_by
+  target: pt:dre:206417:por
+  label: "Rectificados os nº 1 e 3 do art. 37º da Lei 107-B/2003, de 31-Dez, na parte que altera o nº 1 do art. 66º e al.\
+    \ a) do nº 7 do art. 73º e na parte que altera a menção «imposto sobre os produtos petrolíferos» dos art.s 3º, 75, 76º\
+    \ e 78º bem como nas epígrafes do art. 78º e do capítulo II, respectivamente, do Código dos Impostos Especiais de Consumo\
+    \ aprovado pelo presente diploma, pela DECL-RECT.26-A/2004.28.02.2004.AR, DR.IS-A [50-Supl] de 28.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/26-a-2004-206417
+  date: '2004-02-28'
+- type: repealed_by
+  target: pt:dre:636938:por
+  label: "Revogado, a partir de 01.01.2008, o artigo 95.º do Código dos Impostos Especiais de Consumo, pela LEI.37/2007.14.08.2007.AR,\
+    \ DR.IS [156] de 14.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2007-636938
+  date: '2007-08-14'
+- type: repealed_by
+  target: pt:dre:335474:por
+  label: "Revogado, a partir de 21.07.2010, e com excepção dos arts 32.º a 36.º do Código dos Impostos Especiais de Consumo,\
+    \ os quais se mantêm em vigor até 31.12.2010, o presente diploma, rectificado pela Decl-Rect 4-I/2000, de 31-Jan e na\
+    \ redacção da Lei 3-B/200, de 04-Abr, da Lei 30-C/2000, de 29-Dez, do Dec Lei 58/2001, de 19-Fev, da Lei 109-B/2001, de\
+    \ 27-Dez, dos Dec Lei 170/2002, de 25-Jul e 223/2002, de 30-Out, da Lei 32-B/2002, de 30-Dez, rectificado pela Decl-Rect\
+    \ 2/2003, de 15-Mar, na redacção das Leis 43/2003, de 22-Ago, e 107-B/2003, de 31-Dez, rectificado pela Decl-Rect 26-A/2004,\
+    \ de 28-Fev, do Dec Lei 162/2004, de 03-Jul, da Lei 55-B/2004, de 30-Dez, do Dec Lei 155/2005, de 08-Set, da Lei 60-A/2005,\
+    \ de 30-Dez, do Dec Lei 66/2006, de 22-Mar, da Lei 53-A/2006, de 29-Dez, da Lei 37/2007, de 14-Ago, do Dec Lei 307-A/2007,\
+    \ de 31-Ago, da Lei 67-A/2007, de 31-Dez, do Dec Lei 232/2008, de 02-Fev e das Leis 64-A/2008, de 31-Dez e 3-B/2010, de\
+    \ 28-Abr, pelo DEC LEI.73/2010.21.06.2010.MFAP, DR.IS [118] de 21.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2010-335474
+  date: '2010-06-21'
 article_structure:
   article_count: 110
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 24
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:15:29Z'
   warnings: []
   errors: []
 ---
@@ -269,19 +534,21 @@ As taxas previstas nos artigos 73.º e 75.º do Código dos Impostos Especiais d
 
 Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 18 de Novembro de 1999.**
+Promulgado em 18 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Novembro de 1999.**
+Referendado em 25 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — CÓDIGO DOS IMPOSTOS ESPECIAIS DE CONSUMO
 
-# PARTE I — Parte geral
+## PARTE I
+
+## Parte geral
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -1009,7 +1276,9 @@ As perdas devidas a caso fortuito ou de força maior beneficiam de franquia desd
 
 3 - No caso de pedido fundamentado do sujeito passivo, a autoridade aduaneira pode conceder uma redução extraordinária da garantia de armazenagem.
 
-# PARTE II — Parte especial
+## PARTE II
+
+## Parte especial
 
 ### CAPÍTULO I — Imposto sobre o álcool e as bebidas alcoólicas
 
@@ -1445,7 +1714,7 @@ b) «Contentores especiais»: todos os contentores equipados com dispositivos es
 
 2 - Para efeitos do disposto no número anterior, a fixação, ou a respectiva alteração, é efectuada dentro dos seguintes intervalos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/296a00/91829209.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/296a00/91829209.pdf)](https://files.diariodarepublica.pt/1s/1999/12/296a00/91829209.pdf)
 
 3 - O gasóleo misturado por razões técnicas ou operacionais com o fuelóleo será tributado com a taxa aplicável ao fuelóleo, desde que a operação seja aprovada pela autoridade aduaneira e realizada sob controlo aduaneiro.
 
@@ -1499,7 +1768,7 @@ e) Motores fixos.
 
 1 - Os valores e as taxas unitárias do imposto aplicáveis na ilha de São Miguel são fixados para as mercadorias a seguir indicadas pelo Governo Regional dos Açores, podendo ser alterados dentro dos seguintes intervalos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/296a00/91829209.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/296a00/91829209.pdf)](https://files.diariodarepublica.pt/1s/1999/12/296a00/91829209.pdf)
 
 2 - As taxas do imposto aplicáveis nas restantes ilhas dos Açores serão inferiores às taxas aplicáveis na ilha de São Miguel, a fim de compensar os sobrecustos de transporte e armazenagem entre São Miguel ou o continente e as respectivas ilhas.
 
@@ -1817,7 +2086,7 @@ A autoridade aduaneira pode dar instruções aos responsáveis pelo pagamento do
 
 2 - A autoridade aduaneira comunicará ao Conselho de Prevenção do Tabagismo os resultados obtidos com o tratamento das informações referidas no número anterior.
 
-# PARTE III — Normas finais
+## PARTE III — Normas finais
 
 ###### Artigo 103.º — Isenções em lojas francas
 

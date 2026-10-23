@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/206/1998/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1998-484664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:58:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe9587dad34c07a790bea2b8ba4236e70d27a073ff0cea3a2b6a5f69f65d9390
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 884f9e19c47733b7473faca7934186c610baae84cb185520d8f99ff352bcc48a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:58:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão Instaladora
-- Ministério da Educação
 - Criação de Serviços
 - Instituto Histórico da Educação
+- Ministério da Educação
 - Orgânica
 - Regime de Instalação
 relationships:
@@ -77,6 +77,17 @@ relationships:
   target: pt:dre:432449:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2644880:por
+  label: "Prorrogado o período de instalação do IHE, pelo DC.724/2000.2000.06.19.MF DR.IIS [159] DE 12/JUL/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/724-2000-2644880
+  date: '2000-06-19'
+- type: amended_by
+  target: pt:dre:644138:por
+  label: "Prorrogado até à entrada em vigor do diploma que aprova a sua estrutura orgânica o regime de instalação do IME (criado\
+    \ pelo presente diploma) pelo DEC LEI.246/2001.2001.09.11.ME, DR.IS-A[211]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-2001-644138
+  date: '2001-09-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/143/1996/08/26/p/dre
   label: null
@@ -85,16 +96,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/215/1997/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/215/1997/08/18/p/dre
+- type: cites
+  target: pt:dre:208255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401911:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:432449:por
+  label: "Revogado, sem prejuízo do disposto no nº2 do art. 35º, pelo DEC LEI.208/2002.2002.10.17.ME, DR.IS-A [240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2002-432449
+  date: '2002-10-17'
 article_structure:
   article_count: 16
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:58:38Z'
   warnings: []
   errors: []
 ---
@@ -353,12 +377,12 @@ d) As alíneas d) e e) do n.º 1 do artigo 16.º
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Eduardo Carrega Marçal Grilo - Manuel Maria Ferreira Carrilho.
 
-**Promulgado em 29 de Junho de 1998.**
+Promulgado em 29 de Junho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Julho de 1998.**
+Referendado em 1 de Julho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

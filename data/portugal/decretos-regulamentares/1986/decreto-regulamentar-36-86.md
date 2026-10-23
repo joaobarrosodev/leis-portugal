@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-1986-219974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92155b17e78e3ee2f5b5a8fd46a25baa0ca12a92f65f538ba08f215bed01c40c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca863ba0de3eb7b6e14ca7007935f901f721de1286bfc78d25cd8ba53f4c95bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral do Tesouro
+- Fundo de Renovação da Marinha Mercante
+- Integração de Trabalhadores
+relationships:
+- type: cites
+  target: pt:dre:179822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400048:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:10Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +109,7 @@ Ao abrigo do n.º 1 do artigo 5.º do [Decreto-Lei n.º 210/85](https://diarioda
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O pessoal do extinto Fundo de Renovação da Marinha Mercante é integrado na Direcção-Geral do Tesouro.
+Artigo 1.º - 1 - O pessoal do extinto Fundo de Renovação da Marinha Mercante é integrado na Direcção-Geral do Tesouro.
 
 2 - O pessoal a que se refere o número anterior transita para o quadro de pessoal da Direcção-Geral do Tesouro na categoria que possuía em 1 de Janeiro de 1985, com efeitos a partir dessa data, mediante lista nominativa aprovada pelo Ministro das Finanças, publicada no Diário da República, independentemente de outras formalidades, com excepção da anotação do Tribunal de Contas.
 
@@ -104,7 +119,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 5 - Em tudo o que não estiver previsto no presente decreto regulamentar, a situação do pessoal integrado regular-se-á pelas disposições aplicáveis ao pessoal dos serviços centrais da Direcção-Geral do Tesouro.
 
-###### Art. 2.º - 1 - O activo e passivo do extinto Fundo de Renovação da Marinha Mercante é integrado no património do Estado, competindo à Direcção-Geral do Tesouro a respectiva administração.
+Art. 2.º - 1 - O activo e passivo do extinto Fundo de Renovação da Marinha Mercante é integrado no património do Estado, competindo à Direcção-Geral do Tesouro a respectiva administração.
 
 2 - É transferida para a Direcção-Geral do Tesouro a titularidade das contas de depósitos existentes em nome do extinto Fundo de Renovação da Marinha Mercante, sendo os saldos das referidas contas escriturados em operações de tesouraria.
 
@@ -112,30 +127,30 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 4 - Transitam para a responsabilidade do Estado, através da Direcção-Geral do Tesouro, as garantias prestadas pelo extinto Fundo de Renovação da Marinha Mercante a créditos concedidos a entidades nacionais por entidades sediadas na ordem externa, bem como as respectivas obrigações com terceiros.
 
-###### Art. 3.º - 1 - Transitam para a Direcção-Geral do Tesouro todos os processos e documentos relativos às atribuições e competências do extinto Fundo Renovação da de Marinha Mercante.
+Art. 3.º - 1 - Transitam para a Direcção-Geral do Tesouro todos os processos e documentos relativos às atribuições e competências do extinto Fundo Renovação da de Marinha Mercante.
 
 2 - A transição referida no número anterior será feita de auto de entrega e recepção, de acordo com os inventários elaborados pela confissão administrativa do extinto Fundo de Renovação da Marinha Mercante, nos quais se discriminarão quantitativamente os processos, ficheiros, livros e demais documentação a transferir.
 
 3 - A Direcção-Geral do Tesouro só será responsável pela documentação constante dos processos transferidos na medida em que o respectivo conteúdo seja confirmado pelo auto de entrega.
 
-###### Art. 4.º Em tudo o que não esteja previsto no presente decreto regulamentar aplica-se, com as necessárias adaptações, o disposto no [Decreto-Lei n.º 210/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1985-182032), de 27 de Junho.
+Art. 4.º Em tudo o que não esteja previsto no presente decreto regulamentar aplica-se, com as necessárias adaptações, o disposto no [Decreto-Lei n.º 210/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1985-182032), de 27 de Junho.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 9 de Agosto de 1986.**
+Promulgado em 9 de Agosto de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Agosto de 1986.**
+Referendado em 14 de Agosto de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
 
 Mapa I a que se refere o n.º 3 do artigo 1.º do Decreto Regulamentar n.º 36/86
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/20400/24412442.pdf))](https://files.diariodarepublica.pt/1s/1986/09/20400/24412442.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/20400/24412442.pdf)
 
 Mapa II a que se refere o n.º 4 do artigo 1.º do Decreto Regulamentar n.º 36/86
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/20400/24412442.pdf))](https://files.diariodarepublica.pt/1s/1986/09/20400/24412442.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/20400/24412442.pdf)

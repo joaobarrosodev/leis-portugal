@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/242b00/48904892.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/198/1992/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/198-1992-220739
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T07:56:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 665d09c340ec5e2094f2347f981adf53adf9df956fc5d1f03eb04cdb5d0406b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6af65a5c2780c6977839861c00d6086d5030e838d0d90ad0d7f92f3bbc296fa7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:56:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,46 @@ relationships:
   target: pt:dre:226813:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PRORROGADO, A TÍTULO EXCEPCIONAL, ATE 15 DE DEZEMBRO DE 1995, O PRAZO PARA HOMOLOGAÇÃO DA LISTA DAS ENTIDADES E\
+    \ RESPECTIVOS APOIOS A ATRIBUIR, A QUE SE REFERE O NUM 3 DO ART 10-A DO ANEXO DO DN 100/90 DE 14-AGO DR.IS [207], NA REDACÇÃO\
+    \ DADA PELO PRESENTE DIPLOMA, PELO DN 76-A/95 DE 30-NOV DR.IS-B [277]5SUPL DE 30/NOV/1995\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-b/1992/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/106-b/1992/06/01/p/dre
+- type: cites
+  target: pt:dre:410283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556656:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:620280:por
+  label: "Revogado o art. 19º das normas de apoio à actividade teatral, aprovadas em anexo ao DN 100/90, de 07-Set, na redacção\
+    \ do presente diploma, pelo DN.705/94.06.10.1994.PCM, DR.IS-B [231] de 06.10.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/705-1994-620280
+  date: '1994-10-06'
+- type: repealed_by
+  target: pt:dre:226813:por
+  label: "Revogado pelo DN.43/96.23.10.1996.MC, DR.IS-B [246] de 23.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/43-1996-226813
+  date: '1996-10-23'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:56:32Z'
   warnings: []
   errors: []
 ---

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/240a00/64426450.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/265/1995/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1995-668706
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56badec5f89036a1423f26283411802d6d9c79054cfad45a7fe02c288bcc0805
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0d9e3daa25df0b22ff1a07f526ed0206df463a90c44f673f800f40ba393e26d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Criação de Serviços
+- Direcção Geral das Contribuições e Impostos
 - Estatuto
 - Orgânica
-- Direcção Geral das Contribuições e Impostos
 - Técnico de Contas
 relationships:
 - type: amended_by
@@ -79,16 +79,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430433:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:693823:por
+  label: "Revogado pelo DEC LEI.452/99.1999.11.05.MF, DR.IS-A [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/452-1999-693823
+  date: '1999-11-05'
 article_structure:
-  article_count: 70
+  article_count: 69
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:00Z'
   warnings: []
   errors: []
 ---
@@ -115,47 +132,47 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 59.º da [Lei n.º 39-B/94](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), de 27 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto dos Técnicos Oficiais de Contas anexo ao presente diploma e que dele faz parte integrante.
+Artigo 1.º É aprovado o Estatuto dos Técnicos Oficiais de Contas anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º Ficam sujeitas à obrigação de disporem de técnico oficial de contas as entidades sujeitas aos impostos sobre o rendimento que possuam ou sejam obrigadas a possuir contabilidade regularmente organizada.
+Art. 2.º Ficam sujeitas à obrigação de disporem de técnico oficial de contas as entidades sujeitas aos impostos sobre o rendimento que possuam ou sejam obrigadas a possuir contabilidade regularmente organizada.
 
-###### Art. 3.º - 1 - É criada a Associação dos Técnicos Oficiais de Contas, pessoa colectiva pública, adiante designada por Associação, que se rege pelo disposto no Estatuto dos Técnicos Oficiais de Contas.
+Art. 3.º - 1 - É criada a Associação dos Técnicos Oficiais de Contas, pessoa colectiva pública, adiante designada por Associação, que se rege pelo disposto no Estatuto dos Técnicos Oficiais de Contas.
 
 2 - A Assolação passará a exercer as suas competências após a tomada de posse da comissão instaladora prevista no artigo 5.º
 
-###### Art. 4.º A Associação pode, no e para o exercício das suas funções, solicitar a colaboração necessária à Direcção-Geral das Contribuições e Impostos.
+Art. 4.º A Associação pode, no e para o exercício das suas funções, solicitar a colaboração necessária à Direcção-Geral das Contribuições e Impostos.
 
-###### Art. 5.º - 1 - Para assegurar o início de funções da Associação, o Ministro das Finanças, mediante portaria, designará uma comissão de cinco membros, a quem competirá proceder à instalação da Associação e assegurar o seu funcionamento.
+Art. 5.º - 1 - Para assegurar o início de funções da Associação, o Ministro das Finanças, mediante portaria, designará uma comissão de cinco membros, a quem competirá proceder à instalação da Associação e assegurar o seu funcionamento.
 
 2 - A comissão instaladora tem um mandato de dois anos após a sua tomada de posse.
 
 3 - Os membros da comissão instaladora serão remunerados, durante o seu mandato, nos termos que venham a ser definidos por despacho do Ministro das Finanças.
 
-###### Art. 6.º - 1 - No prazo de 180 dias a contar da data da posse da comissão instaladora, os técnicos de contas inscritos definitivamente na Direcção-Geral das Contribuições e Impostos devem requerer a sua inclusão na Lista dos Técnicos Oficiais de Contas.
+Art. 6.º - 1 - No prazo de 180 dias a contar da data da posse da comissão instaladora, os técnicos de contas inscritos definitivamente na Direcção-Geral das Contribuições e Impostos devem requerer a sua inclusão na Lista dos Técnicos Oficiais de Contas.
 
 2 - O requerimento a que se refere o número anterior é dirigido ao presidente da comissão de inscrição e deve ser instruído com cópia do Diário do Governo ou do Diário da República onde a sua inscrição foi publicada e a relação das entidades a que prestam os seus serviços e correspondente volume de negócios.
 
 3 - Quando os interessados não cumprirem o disposto nos números anteriores, as suas inscrições como técnicos de contas caducarão automaticamente, salvo justificação aceite pela comissão de inscrição.
 
-###### Art. 7.º - 1 - A primeira assembleia geral da Associação dos Técnicos Oficiais de Contas reunirá, no último mês do mandato da comissão instaladora, para eleição dos órgãos da Associação para o triénio seguinte e para fixação da jóia e da quota mensal dos seus membros.
+Art. 7.º - 1 - A primeira assembleia geral da Associação dos Técnicos Oficiais de Contas reunirá, no último mês do mandato da comissão instaladora, para eleição dos órgãos da Associação para o triénio seguinte e para fixação da jóia e da quota mensal dos seus membros.
 
 2 - Competirá ao presidente da comissão instaladora convocar a assembleia e dirigir os seus trabalhos.
 
 3 - Até à sua fixação pela primeira assembleia geral, a jóia e a quota mensal dos membros da Associação é de 5000$00 e 1000$00, respectivamente.
 
-###### Art. 8.º É revogada a [Portaria n.º 420/76](https://diariodarepublica.pt/dr/detalhe/portaria/420-1976-430433), de 14 de Julho.
+Art. 8.º É revogada a [Portaria n.º 420/76](https://diariodarepublica.pt/dr/detalhe/portaria/420-1976-430433), de 14 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 13 de Julho de 1995. - Manuel Dias Loureiro - Eduardo de Almeida Catroga - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 28 de Setembro de 1995.**
+Promulgado em 28 de Setembro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Outubro de 1995.**
+Referendado em 3 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatuto dos Técnicos Oficiais de Contas
 
@@ -191,7 +208,7 @@ As funções referidas no artigo 2.º podem ser confiadas a empresas de sociedad
 
 1 - Para efeitos dos limites fixados no artigo 5.º, as entidades referidas no n.º 1 do artigo 2.º são pontuadas, com referência ao seu volume de negócios, líquido de impostos sobre o consumo, de acordo com a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/240a00/64426450.pdf))](https://files.diariodarepublica.pt/1s/1995/10/240a00/64426450.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/240a00/64426450.pdf)
 
 2 - O volume de negócios referido no número anterior é sempre o correspondente ao do último exercício encerrado.
 

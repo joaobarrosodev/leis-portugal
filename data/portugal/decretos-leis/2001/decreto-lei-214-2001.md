@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/214/2001/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2001-379703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 950a069e28aa67eaacd9097ec6f531cae40b89894e24788b563ca8326d016846
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1e132c8e18d9958f122d8b784ae141045370b83f903a19633ccdf281397252c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Alimento Industrial
+- Alimento para Animais
 - Análise Laboratorial
 - Aproximação das Legislações
 - Controlo Sanitário
-- Alimento Industrial
-- Alimento para Animais
 relationships:
 - type: cites
   target: celex:32000L0045
@@ -79,14 +79,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/2000/45/oj
 article_structure:
   article_count: 3
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:19Z'
   warnings: []
   errors: []
 ---
@@ -125,17 +125,19 @@ As disposições constantes da norma portuguesa NP 4051 (1990), relativa à dete
 
 Visto e aprovado em Conselho de Ministros de 21 de Junho de 2001. - António Manuel de Oliveira Guterres - Luís Manuel Capoulas Santos.
 
-**Promulgado em 17 de Julho de 2001.**
+Promulgado em 17 de Julho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Julho de 2001.**
+Referendado em 19 de Julho de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — Parte A
+## ANEXO
+
+## Parte A
 
 Determinação da vitamina A
 
@@ -325,15 +327,15 @@ m = massa, em gramas, da toma de amostra analisada.
 
 (nota 1) Organizado pelo grupo de trabalho «Alimentos para animais» do Verband Deutscher Landwirtschaftlicher Untersuchungs und Forschungsanstalten (VDLUFA).
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)
 
 Figura 1
 
 Aparelho de extracção (4.8)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)
 
-# Parte B
+Parte B
 
 Determinação da vitamina E
 
@@ -517,15 +519,15 @@ m = massa, em gramas, da toma de amostra analisada.
 
 (nota 1) Organizado pelo grupo de trabalho «Alimentos para animais» do Verband Deutscher Landwirtschaftlicher Untersuchungs und Forschungsanstalten (VDLUFA).
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)
 
 Figura 1
 
 Aparelho de extracção (4.8)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)
 
-# Parte C
+Parte C
 
 Determinação do triptofano
 
@@ -669,15 +671,15 @@ MW = massa molecular do triptofano (= 204,23).
 
 8 - Resultados de um estudo interlaboratorial. - Tendo em vista a certificação do método de hidrólise, foi organizado um estudo interlaboratorial comunitário (quarta comparação interlaboratorial), no âmbito do qual foram analisadas três amostras em 12 laboratórios. Cada amostra foi analisada em quintuplicado. Os resultados obtidos figuram no quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)
 
 Tendo em vista a certificação do método de extracção do triptofano livre, foi organizado um outro estudo interlaboratorial comunitário (terceira comparação interlaboratorial), no âmbito do qual foram analisadas duas amostras em 13 laboratórios. Cada amostra foi analisada em quintuplicado. Os resultados obtidos figuram no quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)
 
 Tendo em vista a certificação do triptofano para a hidrólise, foi organizado um outro estudo interlaboratorial comunitário, no âmbito do qual foram analisadas quatro amostras em sete laboratórios. Os resultados obtidos figuram no quadro seguinte. Cada amostra foi analisada em quintuplicado.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)](https://files.diariodarepublica.pt/1s/2001/08/178a00/47054715.pdf)
 
 9 - Observações:
 

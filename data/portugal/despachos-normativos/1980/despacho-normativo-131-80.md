@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/04/09000/07670770.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/131-1980-681600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:59:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 833cb0dc3f3adb9ed15a865bab2462631b524a935d7de4e0b90e1d8601ab468d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a38e4050a266260ebd6e8bd317bf2399a7b54d4f9ed54b2d0901d9a2335ee03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:59:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CASA do POVO
+- Eleição
+- Regulamento Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:397168:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:30998729:por
+  label: "Cessada a aplicação pelo DN.147/82.21.12.1982.SRAS-RAA, JOA-IS [45] de 21.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/147-1982-30998729
+  date: '1982-12-21'
+- type: cites
+  target: pt:dre:473331:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:397168:por
+  label: "Revogado pelo DN.161/82.30.06.1982.MAS, DR.IS [178] de 04.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/161-1982-397168
+  date: '1982-06-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:59:26Z'
   warnings: []
   errors: []
 ---
@@ -200,7 +217,7 @@ b) Decidir das reclamações sobre a relação dos sócios eleitores e sobre a a
 
 2 - Os boletins terão a forma rectangular, dimensões adequadas ao número de listas concorrentes, serão elaborados em papel branco, liso e não transparente, e terão o seguinte aspecto gráfico:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/04/09000/07670770.pdf))](https://files.diariodarepublica.pt/1s/1980/04/09000/07670770.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/04/09000/07670770.pdf)
 
 3 - A votação será feita através da inscrição de uma cruz no interior do quadrado correspondente à lista em que o eleitor pretende votar.
 
@@ -270,4 +287,4 @@ O apuramento dos resultados da eleição será feito com base nas actas elaborad
 
 9 - Será arquivada em cada Casa do Povo a documentação relativa ao respectivo acto eleitoral, designadamente as actas da comissão de eleições e das mesas de voto.
 
-**O Ministro dos Assuntos Sociais, João António Morais Leitão.**
+O Ministro dos Assuntos Sociais, João António Morais Leitão.

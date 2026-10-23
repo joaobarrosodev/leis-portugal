@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/103/2014/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2014-25345605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a53decc561193eca53c01341c130d2585d27a8a4fd568387cfaf021cf9e2e0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3954711c4372e33d38be6d0b3ba4e7575129898d4b5dce1c0f60926f63bfc06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Geral
-- Gestão de Resíduos
-- Saneamento Básico
 - Conselho de Administração
+- Gestão de Resíduos
 - Melgaço
 - Monção
 - Paredes de Coura
 - Proteção do Ambiente
+- Saneamento Básico
 - Valença
 - Valorminho-valorização e Tratamento de Resíduos Sólidos
 - VILA NOVA de Cerveira
@@ -95,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498094:por
+  label: null
+  source: null
 article_structure:
-  article_count: 58
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 45
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:24Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +171,7 @@ São aditados ao [Decreto-Lei n.º 113/96](https://diariodarepublica.pt/dr/detal
 
 2 - Integram o conselho consultivo previsto no número anterior, por inerência, os presidentes de todas as câmaras municipais dos municípios utilizadores do sistema gerido pela VALORMINHO - Valorização e Tratamento de Resíduos Sólidos, S.A., bem como os membros do respetivo conselho de administração e o fiscal único desta.
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - A VALORMINHO - Valorização e Tratamento de Resíduos Sólidos, S.A., deve prestar em benefício do concedente uma caução destinada a garantir o cumprimento de todas as obrigações que para si emergem do contrato de concessão.
 
@@ -177,7 +193,7 @@ Os artigos 2.º, 3.º, 4.º, 5.º, 8.º, 9.º, 10.º, 12.º, 14.º, 16.º, 18.º
 
 3 - [...].
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - A sociedade, tem por objeto social a exploração e gestão, em regime de serviço público, do sistema multimunicipal de tratamento e recolha seletiva de resíduos urbanos do Vale do Minho.
 
@@ -191,17 +207,17 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 3 - A sociedade pode, desde que para o efeito esteja habilitada, exercer outras atividades para além daquelas que constituem o objeto da concessão, desde que consideradas complementares ou outras atividades nos termos do contrato de concessão e mediante autorização do concedente.
 
-###### Artigo 4.º
+Artigo 4.º
 
 No exercício da sua atividade a sociedade pode participar em quaisquer outras sociedades, ou entidades de natureza não societária, com objeto similar ou complementar do seu, desde que devidamente autorizada pela concedente.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - O capital social é de (euro) 900 000,00, encontrando-se integralmente realizado.
 
 2 - O capital social é representado por 180 000 ações com o valor nominal de (euro) 5,00 cada uma.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - As ações são nominativas e assumem a forma escritural ou titulada.
 
@@ -213,7 +229,7 @@ No exercício da sua atividade a sociedade pode participar em quaisquer outras s
 
 5 - [...].
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - [Revogado].
 
@@ -239,7 +255,7 @@ No exercício da sua atividade a sociedade pode participar em quaisquer outras s
 
 12 - Querendo vários acionistas preferir, as ações alienadas são distribuídas a cada um, incluindo ao primitivo adquirente, se já for acionista, na proporção das respetivas participações sociais.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - Mediante deliberação dos sócios, a sociedade pode amortizar as ações que forem penhoradas, arrestadas, arroladas, incluídas em massa insolvente ou, em geral, apreendidas no âmbito de qualquer ação judicial ou estiverem em condições de ser transmitidas judicialmente.
 
@@ -247,25 +263,25 @@ No exercício da sua atividade a sociedade pode participar em quaisquer outras s
 
 3 - [Revogado].
 
-###### Artigo 12.º
+Artigo 12.º
 
 1 - São órgãos da sociedade a assembleia geral, o conselho de administração, e o fiscal único que pode ser substituído por um fiscal único suplente.
 
 2 - Os membros da mesa da assembleia geral e do conselho de administração, o fiscal único e o fiscal único suplente são eleitos em assembleia geral, por períodos de três anos, e podem ser reconduzidos uma ou mais vezes, contando-se como completo o ano civil em que foram eleitos.
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - Os acionistas com direito de voto podem participar nas assembleias gerais desde que as ações estejam averbadas em seu nome no livro de registo da sociedade até 10 dias antes daquele em que a assembleia geral deva reunir em primeira convocatória.
 
 2 - [...].
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - [...].
 
 2 - A assembleia geral reúne ainda sempre que o requeiram o conselho de administração, o fiscal único ou os acionistas que representem, pelo menos, 5 % do capital social.
 
-###### Artigo 18.º
+Artigo 18.º
 
 1 - [...].
 
@@ -281,7 +297,7 @@ d) [...].
 
 3 - [...].
 
-###### Artigo 19.º
+Artigo 19.º
 
 1 - [...].
 
@@ -291,7 +307,7 @@ d) [...].
 
 4 - [...].
 
-###### Artigo 25.º
+Artigo 25.º
 
 A fiscalização da sociedade compete a um fiscal único e a um suplente, ambos revisores oficiais de contas ou sociedade de revisores oficiais de contas, eleitos em assembleia geral.»
 
@@ -329,15 +345,15 @@ São revogados os n.os 2 e 3 do artigo 3.º, o artigo 4.º, o n.º 3 do artigo 5
 
 Visto e aprovado em Conselho de Ministros de 8 de maio de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 24 de junho de 2014.**
+Promulgado em 24 de junho de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de junho de 2014.**
+Referendado em 25 de junho de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 
@@ -389,7 +405,9 @@ Republicação do [Decreto-Lei n.º 113/96](https://diariodarepublica.pt/dr/deta
 
 3 - A prestação da caução referida no número anterior deve ocorrer no prazo máximo de 90 dias após a VALORMINHO - Valorização e Tratamento de Resíduos Sólidos, S.A., deixar de ser detida maioritariamente por entidades públicas.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Disposições gerais
 

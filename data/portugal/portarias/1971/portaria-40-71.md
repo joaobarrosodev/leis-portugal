@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/40-1971-445922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a42321fc0b71cd7d3f9bb3f61cb1659fb64cba8d7ecadadea55c518175ca3bdc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 001ade43d13c528601efdd934e1fa9b7854eec447445d0e07d2eada18977d82b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:03Z'
   warnings: []
   errors: []
 ---
@@ -87,8 +87,8 @@ de 27 de Janeiro
 
 Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional e do Ultramar, no uso da competência que lhes é conferida pelo § 1.º do artigo 1.º do Diploma Legislativo Ministerial n.º 20, de 8 de Maio de 1961, o seguinte:
 
-###### Artigo único. É aplicável aos distritos de Luanda, Lunda, Moxico, Cuando-Cubango, Malanje e Bié o regime estabelecido no artigo 3.º do Diploma Legislativo Ministerial n.º 20, de 8 de Maio de 1961.
+Artigo único. É aplicável aos distritos de Luanda, Lunda, Moxico, Cuando-Cubango, Malanje e Bié o regime estabelecido no artigo 3.º do Diploma Legislativo Ministerial n.º 20, de 8 de Maio de 1961.
 
-**O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada no Boletim Oficial de Angola. - J. da Silva Cunha.

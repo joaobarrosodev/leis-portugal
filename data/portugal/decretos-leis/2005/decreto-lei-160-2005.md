@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/160/2005/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2005-148432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4636520484debea8e1f7a286b214ec88176c46bf511f02ffc6d4b3f8688fe462
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23fd7619b3a11329e5308c1385cb9e2f296edab5dc3b8c6f226aa38c8fdb0faf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
+- Agricultura
+- Agricultura Biológica
 - Armazenagem
 - Associação de Agricultores
 - Catálogo Nacional de Variedades
-- Formação Profissional
-- Organismo Geneticamente Modificado
+- Comércio
 - Contra-ordenação
 - Controlo de Qualidade
 - Direcção Geral de Protecção das Culturas
 - Direcção Regional de Agricultura
-- Agricultura Biológica
+- Exploração Agrícola
 - Fiscalização
+- Formação Profissional
 - Fundo de Compensação
 - Instituto do Ambiente
 - Milho
-- Exploração Agrícola
-- Zona de Proteção
-- Produtor
-- Agricultor
+- Organismo Geneticamente Modificado
 - Produção Agrícola
 - Produção Vegetal
-- Agricultura
-- Comércio
+- Produtor
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:73576679:por
@@ -132,13 +132,13 @@ relationships:
 article_structure:
   article_count: 17
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:37Z'
   warnings: []
   errors: []
 ---
@@ -397,19 +397,19 @@ O Governo estabelecerá, em diploma específico, a criação de um fundo de comp
 
 Visto e aprovado em Conselho de Ministros de 5 de Maio de 2005. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Luís Manuel Moreira de Campos e Cunha - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - António Fernando Correia de Campos.
 
-**Promulgado em 20 de Junho de 2005.**
+Promulgado em 20 de Junho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Junho de 2005.**
+Referendado em 24 de Junho de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Normas técnicas para o cultivo de variedades geneticamente modificadas
 
-# Parte A
+Parte A
 
 Milho
 

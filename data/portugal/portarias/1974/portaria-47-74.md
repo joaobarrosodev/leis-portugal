@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/47-1974-406931
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T04:28:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4553753d1faf31fac6ac9aee2f6b5a174a6ec7c5e6bbe9f1987c8e2df2480076
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79390d2ce34db5b7d1814728528e7482a96ee5532b7d0f1f5579cf21a2c47324
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:28:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:28:09Z'
   warnings: []
   errors: []
 ---
@@ -128,11 +156,11 @@ IV - Para efeito de cálculo de pensão ou de subsídio por morte aos beneficiá
 
 1 - a) Quando ao beneficiário corresponderem contribuições relativas a, pelo menos, seis anos civis anteriores a 1966, com ou sem salários posteriores a 31 de Dezembro de 1965, considera-se como total de salários dos cinco anos civis anteriores a 1966 a que correspondem melhores remunerações o produto do total de salários registados até àquela data pelo factor C, cujos valores são dados pela seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02100/00840086.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02100/00840086.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02100/00840086.pdf)
 
 b) O salário a atribuir a cada um dos cinco últimos anos civis com contribuições anteriores a 1966 obter-se-á multiplicando o total de salários determinado nos termos do número anterior pelo factor S correspondente da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02100/00840086.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02100/00840086.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02100/00840086.pdf)
 
 2. Quando ao beneficiário corresponderem menos de seis anos civis com entrada de contribuições anteriores a 1966, atribuir-se-á a cada um desses anos o salário obtido dividindo o total de salários anteriores a 1966 pelo respectivo número de anos com entrada de contribuições.
 

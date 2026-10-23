@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/65/1995/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1995-230526
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1a7345ae4ff104ff3e1d987f6c4144b4fc4f1766d6e57b71e14fcda9b31f8a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20dbe97d61a59bb9014cbbba6c8156ed0cdf8278e53e83cf763aa32e5a30533b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Contrato de Concessão
 - Administração de Portos
+- Contrato de Concessão
+- Empresa
+- Exploração Portuária
 - Licenciamento
 - Operador Portuário
-- Serviço Público
 - Regime Jurídico
-- Exploração Portuária
+- Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:116923611:por
@@ -82,16 +82,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/298/1993/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/298/1993/08/28/p/dre
+- type: cites
+  target: pt:dre:631864:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:21Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +118,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 13.º e 35.º do [Decreto-Lei n.º 298/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1993-631864), de 28 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 13.º e 35.º do [Decreto-Lei n.º 298/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1993-631864), de 28 de Agosto, passam a ter a seguinte redacção:
 
 ###### Artigo 13.º — [...]
 
@@ -134,16 +138,16 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 3 - Feita a comprovação, deve ser emitido o respectivo alvará no prazo de 10 dias.
 
-###### Art. 2.º A conformação e respectiva comprovação das empresas de estiva já licenciadas aquando da entrada em vigor do [Decreto-Lei n.º 298/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1993-631864), de 28 de Agosto, aos requisitos previstos no artigo 11.º e ao disposto na portaria referida no artigo 23.º, ambos do mencionado decreto-lei, deve ter lugar no prazo de seis meses a contar da entrada em vigor do presente diploma.
+Art. 2.º A conformação e respectiva comprovação das empresas de estiva já licenciadas aquando da entrada em vigor do [Decreto-Lei n.º 298/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1993-631864), de 28 de Agosto, aos requisitos previstos no artigo 11.º e ao disposto na portaria referida no artigo 23.º, ambos do mencionado decreto-lei, deve ter lugar no prazo de seis meses a contar da entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 1995. - Aníbal António Cavaco Silva - Fernando Manuel Barbosa Faria de Oliveira - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 9 de Março de 1995.**
+Promulgado em 9 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Março de 1995.**
+Referendado em 13 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

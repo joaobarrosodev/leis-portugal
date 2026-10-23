@@ -46,36 +46,125 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/494-1981-579298
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:47:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf133e36d8ece4d707114d5523b77b1138ab756d7068879358898fb63d04a2ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 429acaadca7abf1ae7554b5f6711d3b10ed1ed2fb48b6c9d1ca910243d4e36ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:47:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Integração de Trabalhadores
+- Lisboa
+- Quadro de Pessoal
+- Santa Casa da Misericórdia
+relationships:
+- type: cites
+  target: pt:dre:274639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:576475:por
+  label: Rectificada pela DECL.DD6478.04.08.1981.PCM, DR.IS [187] de 17.08.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-576475
+  date: '1981-08-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:47:28Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +199,7 @@ Ministério dos Assuntos Sociais, 18 de Maio de 1981. - O Ministro dos Assuntos 
 
 Quadro a que se refere o n.º 1.º da Portaria n.º 494/81
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/06/13700/13661373.pdf))](https://files.diariodarepublica.pt/1s/1981/06/13700/13661373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/06/13700/13661373.pdf)
 
 NOTAS
 
@@ -144,4 +233,4 @@ NOTAS
 
 (15) O médico encarregado da direcção do Centro de Saúde e Assistência do Dr. José Domingos Barreiro bem como os médicos que desempenham funções no laboratório de análises clínicas poderão trabalhar em regime de tempo completo com o vencimento correspondente.
 
-**O Ministro dos Assuntos Sociais, Carlos Matos Chaves de Macedo.**
+O Ministro dos Assuntos Sociais, Carlos Matos Chaves de Macedo.

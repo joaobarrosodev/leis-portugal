@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/08/16400/0447904479.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/63/2014/08/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/63-2014-56365332
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T05:20:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a5e679b865d217433ac95893dc072edcf71fc78909a9ec8ced3f1a84c1a8297
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3404bb3f03c5e428cf8b70a74a90af8e08c3b818d75af4f546ea9c796273a8a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:20:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Portugal
+- Berna
 - Embaixador
 - Nomeação
-- Berna
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:114133875:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114133875:por
+  label: Exonerado pelo(a) Decreto do Presidente da República n.º 108/2017 - Diário da República n.º 210/2017, Série I de
+    2017-10-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/108-2017-114133875
+  date: '2017-10-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:20:38Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +99,16 @@ validation:
 
 de 27 de agosto
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a) da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a) da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o ministro plenipotenciário de 1.ª classe Paulo Tiago Fernandes Jerónimo da Silva para o cargo de Embaixador de Portugal em Berna.
 
-**Assinado em 13 de agosto de 2014.**
+Assinado em 13 de agosto de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de agosto de 2014.**
+Referendado em 22 de agosto de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho. - O Ministro de Estado e dos Negócios Estrangeiros, Rui Manuel Parente Chancerelle de Machete.**
+O Primeiro-Ministro, Pedro Passos Coelho. - O Ministro de Estado e dos Negócios Estrangeiros, Rui Manuel Parente Chancerelle de Machete.

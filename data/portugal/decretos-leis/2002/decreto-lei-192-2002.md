@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/09/222a00/65266526.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/192/2002/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2002-647509
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a68423a49c9497e607fb28995cd4cfa3a9ae9854b9f3bcd225726e58835ca0a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73a4aac0aaa891dd7ec88a742700a3ce9748b2c361d3e3af765c6733e1a152c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ subjects:
 - Análises Clínicas
 - Conselho Nacional Antidopagem
 - Controlo Anti-doping
-- Laboratório de Análises de Dopagem e Bioquímica
 - Desporto
+- Laboratório de Análises de Dopagem e Bioquímica
 relationships:
 - type: amended_by
   target: pt:dre:494790:por
@@ -80,16 +80,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/183/1997/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/183/1997/07/26/p/dre
+- type: cites
+  target: pt:dre:144642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333524:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:494790:por
+  label: "Revogado pela LEI.27/2009.19.06.2009.AR, DR.IS [117] de 19.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/27-2009-494790
+  date: '2009-06-19'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:38Z'
   warnings: []
   errors: []
 ---
@@ -140,12 +153,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 2002. - José Manuel Durão Barroso - José Luís Fazenda Arnaut Duarte - José David Gomes Justino - Luís Filipe Pereira.
 
-**Promulgado em 5 de Setembro de 2002.**
+Promulgado em 5 de Setembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Setembro de 2002.**
+Referendado em 13 de Setembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

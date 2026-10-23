@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/4/1999/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1999-138794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T06:26:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 966a57240675c466ecc0f5af4d93c61ac5510065b2d0ecaf66071e2b471efd69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7ab496208f6a1b2305f2070d0c8e833d5f334980f9e7cf8715705a0f45678ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:26:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -94,16 +94,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/26/1999/01/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/26/1999/01/16/p/dre
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672657:por
+  label: null
+  source: null
 article_structure:
-  article_count: 50
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:26:14Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +172,9 @@ Denominações dos estabelecimentos de restauração e de bebidas com dança
 
 2 - Apenas podem utilizar a denominação «discoteca» os estabelecimentos de bebidas que disponham de salas ou espaços destinados a dança, com ou sem espectáculos de variedades, que preencham, para além dos requisitos previstos no [Decreto-Lei n.º 168/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1997-156002), de 4 de Julho, e no presente diploma, os requisitos previstos no [Decreto-Lei n.º 396/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-1982-375867), de 21 de Setembro, no [Decreto-Lei n.º 251/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1987-419647), de 24 de Junho, com as alterações introduzidas pelo [Decreto-Lei n.º 292/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1989-546986), de 2 de Setembro, na [Portaria n.º 1063/97](https://diariodarepublica.pt/dr/detalhe/portaria/1063-1997-672657), de 21 de Outubro, e na [Portaria n.º 26/99](https://diariodarepublica.pt/dr/detalhe/portaria/26-1999-193792), de 16 de Janeiro.
 
-###### Artigo 4.º — Estabelecimentos de restauração e de bebidas mistos
+Artigo 4.º
+
+Estabelecimentos de restauração e de bebidas mistos
 
 1 - No mesmo estabelecimento podem ser prestados, simultânea e cumulativamente, serviços de restauração e de bebidas, devendo satisfazer nesse caso aos requisitos exigidos para cada um desses tipos de estabelecimento, sem prejuízo do disposto no n.º 3.
 
@@ -148,7 +182,9 @@ Denominações dos estabelecimentos de restauração e de bebidas com dança
 
 3 - Nos estabelecimentos de restauração e de bebidas mistos as instalações destinadas aos utentes podem ser as mesmas.
 
-###### Artigo 12.º — Cozinhas, copas e zonas de fabrico
+Artigo 12.º
+
+Cozinhas, copas e zonas de fabrico
 
 1 - ...
 
@@ -174,7 +210,9 @@ Denominações dos estabelecimentos de restauração e de bebidas com dança
 
 12 - ...
 
-###### Artigo 13.º — Cozinhas, zonas de fabrico e copas integradas
+Artigo 13.º
+
+Cozinhas, zonas de fabrico e copas integradas
 
 1 - ...
 
@@ -184,7 +222,9 @@ Denominações dos estabelecimentos de restauração e de bebidas com dança
 
 4 - ...
 
-###### Artigo 17.º — Capacidade
+Artigo 17.º
+
+Capacidade
 
 1 - O número máximo de lugares dos estabelecimentos de restauração é fixado em função da área destinada ao serviço dos seus utentes nos termos seguintes:
 
@@ -206,35 +246,43 @@ e) Nos estabelecimentos de restauração que disponham de salas ou espaços dest
 
 5 - ...
 
-###### Artigo 21.º — Pessoal de serviço
+Artigo 21.º
+
+Pessoal de serviço
 
 1 - ...
 
 2 - Todo o pessoal de serviço dos estabelecimentos de restauração e de bebidas deve possuir habilitações profissionais adequadas ao tipo de serviço que presta, usar o uniforme e apresentar-se sempre com a máxima correcção e limpeza.
 
-###### Artigo 24.º — Características do serviço dos estabelecimentos de bebidas
+Artigo 24.º
+
+Características do serviço dos estabelecimentos de bebidas
 
 1 - O serviço prestado nos estabelecimentos de bebidas consiste no fornecimento de bebidas feito directamente aos utentes, em lugares sentados ou em pé, acompanhadas ou não de produtos de cafetaria, de produtos de pastelaria e de gelados.
 
 2 - Os estabelecimentos de bebidas previstos no artigo 2.º do presente diploma não podem dispor de salas ou espaços destinados a dança.
 
-## ANEXO I
+ANEXO I
 
 Tabela que estabelece os requisitos mínimos das instalações e de funcionamento dos estabelecimentos de restauração e de bebidas.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18171826.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18171826.pdf)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18171826.pdf)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18171826.pdf)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18171826.pdf)
 
-## ANEXO II
+ANEXO II
 
 Tabela que estabelece os requisitos mínimos das instalações e de funcionamento dos estabelecimentos de restauração e de bebidas de luxo.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18171826.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18171826.pdf)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18171826.pdf)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18171826.pdf)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18171826.pdf)
 
-###### Artigo 2.º — Republicação
+Artigo 2.º
+
+Republicação
 
 O [Decreto Regulamentar n.º 38/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1997-659294), de 25 de Setembro, é republicado em anexo, com as devidas alterações.
 
-###### Artigo 3.º — Disposições transitórias
+Artigo 3.º
+
+Disposições transitórias
 
 1 - O disposto no presente diploma aplica-se a todos os estabelecimentos de restauração e de bebidas existentes à data da sua entrada em vigor, sem prejuízo do disposto nos números seguintes.
 
@@ -242,41 +290,53 @@ O [Decreto Regulamentar n.º 38/97](https://diariodarepublica.pt/dr/detalhe/decr
 
 3 - A requerimento dos interessados, a câmara municipal ou a Direcção-Geral do Turismo, consoante os casos, pode reconhecer que a realização de algumas das obras referidas no número anterior se revela materialmente impossível ou excessivamente onerosa, para efeitos da sua dispensa.
 
-###### Artigo 4.º — Entrada em vigor
+Artigo 4.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia imediatamente a seguir ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Janeiro de 1999. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 3 de Março de 1999.**
+Promulgado em 3 de Março de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Março de 1999.**
+Referendado em 10 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — CAPÍTULO I
+ANEXO
+
+CAPÍTULO I
 
 Disposições gerais
 
-###### Artigo 1.º — Denominações dos estabelecimentos de restauração
+Artigo 1.º
+
+Denominações dos estabelecimentos de restauração
 
 Os estabelecimentos de restauração podem usar a denominação de «restaurante» ou qualquer outra que seja consagrada, nacional ou internacionalmente, pelos usos da actividade, nomeadamente «marisqueira», «casa de pasto», «pizzeria», «snack-bar», «self-service», «eat-driver», «take-away» ou «fast-food».
 
-###### Artigo 2.º — Denominações dos estabelecimentos de bebidas
+Artigo 2.º
+
+Denominações dos estabelecimentos de bebidas
 
 Os estabelecimentos de bebidas podem usar a denominação de «bar» ou outras que sejam consagradas, nacional ou internacionalmente, pelos usos da actividade, nomeadamente «cervejaria», «café», «pastelaria», «confeitaria», «boutique de pão quente», «cafetaria», «casa de chá», «gelataria», «pub» ou «taberna».
 
-###### Artigo 3.º — Denominações dos estabelecimentos de restauração e de bebidas com dança
+Artigo 3.º
+
+Denominações dos estabelecimentos de restauração e de bebidas com dança
 
 1 - Quando os estabelecimentos de restauração e de bebidas disponham de salas ou espaços destinados a dança, podem usar as denominações consagradas nacional ou internacionalmente, nomeadamente «clube nocturno», «boîte», «night-club», «cabaret» ou «dancing».
 
 2 - Apenas podem utilizar a denominação «discoteca» os estabelecimentos de bebidas que disponham de salas ou espaços destinados a dança, com ou sem espectáculos de variedades, que preencham, para além dos requisitos previstos no [Decreto-Lei n.º 168/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1997-156002), de 4 de Julho, e no presente diploma, os requisitos previstos no [Decreto-Lei n.º 396/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-1982-375867), de 21 de Setembro, no [Decreto-Lei n.º 251/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1987-419647), de 24 de Junho, com as alterações introduzidas pelo [Decreto-Lei n.º 292/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1989-546986), de 2 de Setembro, na [Portaria n.º 1063/97](https://diariodarepublica.pt/dr/detalhe/portaria/1063-1997-672657), de 21 de Outubro, e na [Portaria n.º 26/99](https://diariodarepublica.pt/dr/detalhe/portaria/26-1999-193792), de 16 de Janeiro.
 
-###### Artigo 4.º — Estabelecimentos de restauração e de bebidas mistos
+Artigo 4.º
+
+Estabelecimentos de restauração e de bebidas mistos
 
 1 - No mesmo estabelecimento podem ser prestados, simultânea e cumulativamente, serviços de restauração e de bebidas, devendo satisfazer nesse caso aos requisitos exigidos para cada um desses tipos de estabelecimento, sem prejuízo do disposto no n.º 3.
 
@@ -284,23 +344,35 @@ Os estabelecimentos de bebidas podem usar a denominação de «bar» ou outras q
 
 3 - Nos estabelecimentos de restauração e de bebidas mistos as instalações destinadas aos utentes podem ser as mesmas.
 
-###### Artigo 5.º — Estabelecimentos de restauração e de bebidas em empreendimentos turísticos
+Artigo 5.º
+
+Estabelecimentos de restauração e de bebidas em empreendimentos turísticos
 
 Os restaurantes, bares e outros estabelecimentos de restauração e de bebidas integrados em empreendimentos turísticos devem satisfazer aos requisitos exigidos no presente diploma.
 
-### CAPÍTULO II — Dos requisitos dos estabelecimentos de restauração e de bebidas
+CAPÍTULO II
 
-#### SECÇÃO I — Dos requisitos das instalações
+Dos requisitos dos estabelecimentos de restauração e de bebidas
 
-###### Artigo 6.º — Requisitos mínimos
+SECÇÃO I
+
+Dos requisitos das instalações
+
+Artigo 6.º
+
+Requisitos mínimos
 
 Os estabelecimentos de restauração e de bebidas devem preencher os requisitos mínimos das instalações, do equipamento e do serviço fixados na tabela que constitui o anexo I ao presente regulamento, que dele faz parte integrante.
 
-###### Artigo 7.º — Condição geral de instalação
+Artigo 7.º
+
+Condição geral de instalação
 
 A instalação das infra-estruturas, máquinas, ascensores, monta-pratos e, de um modo geral, de todo o equipamento necessário ao funcionamento dos estabelecimentos de restauração e de bebidas deve efectuar-se de modo que não se produzam ruídos, vibrações, fumos ou cheiros susceptíveis de perturbarem ou de, qualquer modo, afectarem o ambiente, a comodidade e a qualidade dos mesmos.
 
-###### Artigo 8.º — Infra-estruturas
+Artigo 8.º
+
+Infra-estruturas
 
 1 - Os estabelecimentos de restauração e de bebidas devem possuir uma rede interna de esgotos e respectiva ligação às redes gerais que conduzam as águas residuais a sistemas adequados ao seu escoamento, nomeadamente através da rede pública ou, se esta não existir, de um sistema de recolha e tratamento adequado ao volume e natureza dessas águas, de acordo com a legislação em vigor, quando não fizerem parte das recebidas pelas câmaras municipais.
 
@@ -308,13 +380,17 @@ A instalação das infra-estruturas, máquinas, ascensores, monta-pratos e, de u
 
 3 - Para efeitos do disposto no número anterior a captação de água deve possuir as adequadas condições de protecção sanitária e o sistema ser dotado dos processos de tratamento requeridos para potabilização da água ou para a manutenção dessa potabilização, de acordo com as normas de qualidade da água em vigor, devendo para o efeito ser efectuadas análises físico-químicas e ou microbiológicas.
 
-###### Artigo 9.º — Sistema e equipamento de climatização
+Artigo 9.º
+
+Sistema e equipamento de climatização
 
 1 - Nos casos em que seja exigível ar condicionado, o sistema deve permitir a sua regulação separada nas diversas dependências destinadas aos utentes.
 
 2 - Nos casos em que seja exigível aquecimento e ventilação, devem existir unidades em número suficiente e com comando regulável, de modo a garantir uma adequada temperatura ambiente.
 
-###### Artigo 10.º — Instalações sanitárias destinadas aos utentes
+Artigo 10.º
+
+Instalações sanitárias destinadas aos utentes
 
 1 - As instalações sanitárias destinadas aos utentes devem ser dotadas de água corrente.
 
@@ -328,11 +404,15 @@ A instalação das infra-estruturas, máquinas, ascensores, monta-pratos e, de u
 
 6 - As paredes, pavimentos e tectos das instalações sanitárias comuns devem ser revestidos de materiais resistentes, impermeáveis e de fácil limpeza.
 
-###### Artigo 11.º — Zonas de serviço
+Artigo 11.º
+
+Zonas de serviço
 
 Nos estabelecimentos de restauração e de bebidas, as zonas de serviço devem estar completamente separadas das destinadas aos utentes e instaladas por forma a evitar-se a propagação de fumos e cheiros e a obter-se o seu conveniente isolamento das outras dependências do estabelecimento, sem prejuízo do disposto no artigo 13.º
 
-###### Artigo 12.º — Cozinhas, copas e zonas de fabrico
+Artigo 12.º
+
+Cozinhas, copas e zonas de fabrico
 
 1 - Considera-se cozinha a zona destinada à confecção e preparação de refeições.
 
@@ -358,7 +438,9 @@ Nos estabelecimentos de restauração e de bebidas, as zonas de serviço devem e
 
 12 - O pavimento, as paredes e o tecto das cozinhas, copas, zonas de fabrico, instalações complementares e zonas de serviço de comunicação com as salas de refeições e demais zonas destinadas aos utentes devem ser revestidos de materiais resistentes, impermeáveis e de fácil limpeza.
 
-###### Artigo 13.º — Cozinhas, zonas de fabrico e copas integradas
+Artigo 13.º
+
+Cozinhas, zonas de fabrico e copas integradas
 
 1 - As cozinhas e as zonas de fabrico podem constituir um espaço integrado desde que o tipo de equipamentos utilizados e a solução adoptada o permitam.
 
@@ -368,23 +450,33 @@ Nos estabelecimentos de restauração e de bebidas, as zonas de serviço devem e
 
 4 - À cozinha e à copa dos estabelecimentos de bebidas aplica-se o disposto no número anterior, ainda que haja lugares sentados.
 
-###### Artigo 14.º — Instalações frigoríficas
+Artigo 14.º
+
+Instalações frigoríficas
 
 1 - A dimensão das instalações frigoríficas dos estabelecimentos de restauração e de bebidas depende da sua capacidade e das características e condições locais de abastecimento.
 
 2 - As instalações frigoríficas devem estar suficientemente afastadas das máquinas e equipamentos que produzam calor.
 
-###### Artigo 15.º — Acessos verticais
+Artigo 15.º
+
+Acessos verticais
 
 Só podem ser instalados estabelecimentos de restauração ou de bebidas em pisos superiores ao segundo, incluindo o rés-do-chão, desde que o edifício possua ascensor.
 
-#### SECÇÃO II — Dos requisitos de funcionamento
+SECÇÃO II
 
-###### Artigo 16.º — Condição geral de funcionamento
+Dos requisitos de funcionamento
+
+Artigo 16.º
+
+Condição geral de funcionamento
 
 Os estabelecimentos de restauração e de bebidas devem possuir o equipamento, o mobiliário e os utensílios necessários ao tipo e às características do serviço que se destinam a prestar.
 
-###### Artigo 17.º — Capacidade
+Artigo 17.º
+
+Capacidade
 
 1 - O número máximo de lugares dos estabelecimentos de restauração é fixado em função da área destinada ao serviço dos seus utentes, nos termos seguintes:
 
@@ -406,13 +498,17 @@ e) Nos estabelecimentos de restauração que disponham de salas ou espaços dest
 
 5 - O número máximo de lugares dos estabelecimentos referidos no artigo 4.º é fixado em função da área destinada a cada um dos serviços.
 
-###### Artigo 18.º — Placa identificativa da classificação
+Artigo 18.º
+
+Placa identificativa da classificação
 
 1 - Em todos os estabelecimentos de restauração e de bebidas é obrigatória a afixação no exterior, junto à entrada principal, de uma placa identificativa do tipo do estabelecimento, cujo modelo é aprovado por portaria do membro do Governo responsável pela área do turismo.
 
 2 - Em todos os estabelecimentos de restauração e de bebidas classificados, qualificados como típicos ou declarados de interesse para o turismo é obrigatória a afixação no exterior, junto à entrada principal, de uma placa identificativa, complementar da placa prevista no número anterior e cujo modelo é aprovado pela portaria nele referida.
 
-###### Artigo 19.º — Informações
+Artigo 19.º
+
+Informações
 
 1 - Junto à entrada dos estabelecimentos de restauração e de bebidas devem afixar-se em local destacado e por forma bem visível, de modo a permitir a sua fácil leitura do exterior do estabelecimento, mesmo durante o período de funcionamento nocturno, as seguintes indicações:
 
@@ -430,35 +526,49 @@ e) A existência de livro de reclamações.
 
 3 - Nas informações de carácter geral relativas aos estabelecimentos de restauração e de bebidas devem ser usados os sinais normalizados constantes da tabela aprovada pela portaria a que se refere o artigo 56.º do [Decreto-Lei n.º 167/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1997-156001), de 4 de Julho.
 
-###### Artigo 20.º — Arrumação e limpeza
+Artigo 20.º
+
+Arrumação e limpeza
 
 Os estabelecimentos de restauração e de bebidas devem ser limpos e arrumados diariamente antes da sua abertura ao público.
 
-###### Artigo 21.º — Pessoal de serviço
+Artigo 21.º
+
+Pessoal de serviço
 
 1 - Os estabelecimentos de restauração e de bebidas devem dispor do pessoal necessário à correcta execução do serviço que se destinam a prestar, de acordo com a sua capacidade.
 
 2 - Todo o pessoal de serviço dos estabelecimentos de restauração e de bebidas deve possuir habilitações profissionais adequadas ao tipo de serviço que presta, usar o uniforme adoptado pelo estabelecimento de forma a ser facilmente identificável e apresentar-se sempre com a máxima correcção e limpeza.
 
-###### Artigo 22.º — Fornecimentos
+Artigo 22.º
+
+Fornecimentos
 
 Nos estabelecimentos de restauração e de bebidas, sempre que não exista entrada de serviço, os fornecimentos devem fazer-se fora dos períodos em que o estabelecimento esteja aberto ao público ou, não sendo possível, nos períodos de menos frequência.
 
-### CAPÍTULO III — Do serviço
+CAPÍTULO III
 
-###### Artigo 23.º — Características do serviço dos estabelecimentos de restauração
+Do serviço
+
+Artigo 23.º
+
+Características do serviço dos estabelecimentos de restauração
 
 1 - O serviço prestado nos estabelecimentos de restauração consiste essencialmente na confecção e fornecimento de refeições, acompanhadas ou não de bebidas.
 
 2 - O serviço de restauração pode ser prestado directamente aos utentes, em lugares sentados ou em pé, no estabelecimento ou através da entrega aos utentes, no estabelecimento ou no seu domicílio, de refeições devidamente acondicionadas em embalagens adequadas e fechadas.
 
-###### Artigo 24.º — Características do serviço dos estabelecimentos de bebidas
+Artigo 24.º
+
+Características do serviço dos estabelecimentos de bebidas
 
 1 - O serviço prestado nos estabelecimentos de bebidas consiste no fornecimento de bebidas feito directamente aos utentes, em lugares sentados ou em pé, acompanhadas ou não de produtos de cafetaria, de produtos de pastelaria e de gelados.
 
 2 - Os estabelecimentos de bebidas previstos no artigo 2.º do presente diploma não podem dispor de salas ou espaços destinados a dança.
 
-###### Artigo 25.º — Serviços
+Artigo 25.º
+
+Serviços
 
 1 - Nos serviços prestados nos estabelecimentos de restauração e de bebidas deve observar-se o seguinte:
 
@@ -470,7 +580,9 @@ c) Só podem ser fornecidas bebidas e produtos que estejam dentro dos respectivo
 
 2 - O pessoal de serviço dos estabelecimentos de restauração e de bebidas deve atender os utentes correctamente e com eficiência.
 
-###### Artigo 26.º — Serviço nos estabelecimentos de restauração
+Artigo 26.º
+
+Serviço nos estabelecimentos de restauração
 
 Nos estabelecimentos de restauração deve haver sempre ao dispor dos utentes uma lista do dia, elaborada nos termos e com as indicações seguintes:
 
@@ -482,19 +594,27 @@ c) A existência de couvert e o respectivo preço e composição;
 
 d) A existência de um livro de reclamações à disposição dos clientes.
 
-### CAPÍTULO IV — Da classificação
+CAPÍTULO IV
 
-###### Artigo 27.º — Estabelecimento de luxo
+Da classificação
+
+Artigo 27.º
+
+Estabelecimento de luxo
 
 Para um estabelecimento de restauração ou de bebidas ser classificado como estabelecimento de luxo deve situar-se em local adequado a essa categoria e dispor de instalações, equipamentos e mobiliário com elevados padrões de qualidade, de modo a oferecer um ambiente requintado e de grande comodidade, de acordo com o estabelecido no presente diploma e nas tabelas que constituem os anexos I e II ao presente regulamento, que dele fazem parte integrante.
 
-###### Artigo 28.º — Estabelecimentos de restauração de luxo
+Artigo 28.º
+
+Estabelecimentos de restauração de luxo
 
 1 - Nos estabelecimentos de restauração de luxo a área mínima por lugar a que se refere a alínea a) do n.º 1 do artigo 17.º é de 1,50 m2.
 
 2 - Sem prejuízo do disposto no artigo 10.º, as instalações sanitárias destinadas aos utentes devem ser separadas por sexos e dotadas de água corrente quente e fria.
 
-###### Artigo 29.º — Serviço dos estabelecimentos de restauração de luxo
+Artigo 29.º
+
+Serviço dos estabelecimentos de restauração de luxo
 
 1 - Nos estabelecimentos de restauração de luxo, o serviço de refeições deve ser prestado em lugares sentados.
 
@@ -508,17 +628,23 @@ Para um estabelecimento de restauração ou de bebidas ser classificado como est
 
 6 - O chefe de mesa e o escanção devem falar, para além do português, o inglês.
 
-###### Artigo 30.º — Estabelecimentos de bebidas de luxo
+Artigo 30.º
+
+Estabelecimentos de bebidas de luxo
 
 1 - Nos estabelecimentos de bebidas de luxo as áreas mínimas por lugar a que se referem as alíneas a) e b) do n.º 1 do artigo 17.º são de 1 m2 e 0,75 m2, respectivamente.
 
 2 - Aplica-se aos estabelecimentos de bebidas de luxo o disposto no n.º 2 do artigo 28.º
 
-###### Artigo 31.º — Serviço dos estabelecimentos de bebidas de luxo
+Artigo 31.º
+
+Serviço dos estabelecimentos de bebidas de luxo
 
 O serviço deve ser dirigido por um chefe de bar, que deve falar, para além do português, o inglês.
 
-###### Artigo 32.º — Restaurantes típicos
+Artigo 32.º
+
+Restaurantes típicos
 
 1 - Os estabelecimentos de restauração e de bebidas podem ser qualificados como típicos quando, pelas características das refeições e bebidas neles servidas, e ainda pelo mobiliário, decoração, traje do pessoal ou espectáculo neles realizado, reconstituam a gastronomia e a tradição de uma região portuguesa.
 
@@ -526,9 +652,13 @@ O serviço deve ser dirigido por um chefe de bar, que deve falar, para além do 
 
 3 - Aplica-se, com as devidas adaptações, aos estabelecimentos de restauração e de bebidas típicos o disposto nos artigos 20.º a 24.º do [Decreto-Lei n.º 168/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1997-156002), de 4 de Julho.
 
-### CAPÍTULO V — Contra-ordenações
+CAPÍTULO V
 
-###### Artigo 33.º — Contra-ordenações
+Contra-ordenações
+
+Artigo 33.º
+
+Contra-ordenações
 
 1 - Constituem contra-ordenações:
 
@@ -544,7 +674,9 @@ c) A inexistência ou a não prestação dos serviços exigidos no n.º 5 das ta
 
 4 - A tentativa e a negligência são puníveis.
 
-###### Artigo 34.º — Sanção acessória de encerramento
+Artigo 34.º
+
+Sanção acessória de encerramento
 
 1 - O encerramento do estabelecimento e a suspensão do respectivo alvará de licença de utilização para serviço de restauração e de bebidas só podem ser determinados como sanção acessória das contra-ordenações resultantes da violação do disposto no artigo 11.º e nos n.os 4 e 5 do artigo 12.º
 
@@ -554,9 +686,13 @@ a) No caso de violação do artigo 11.º, o prazo é de 90 dias;
 
 b) No caso de violação dos n.os 4 e 5 do artigo 12.º, o prazo é de 90 dias.
 
-### CAPÍTULO VI — Disposições finais e transitórias
+CAPÍTULO VI
 
-###### Artigo 35.º — Estabelecimentos de restauração e de bebidas
+Disposições finais e transitórias
+
+Artigo 35.º
+
+Estabelecimentos de restauração e de bebidas
 
 1 - Os estabelecimentos de restauração e de bebidas existentes à data da entrada em vigor do presente diploma devem satisfazer os requisitos nele previstos para o respectivo tipo, devendo as suas entidades exploradoras proceder à realização das obras e à instalação dos equipamentos necessários para esse efeito, no prazo de dois anos a contar daquela data.
 
@@ -564,15 +700,21 @@ b) No caso de violação dos n.os 4 e 5 do artigo 12.º, o prazo é de 90 dias.
 
 3 - O não cumprimento do disposto no n.º 1 implica a perda da classificação de luxo ou encerramento do estabelecimento.
 
-###### Artigo 36.º — Restaurantes e estabelecimentos de bebidas de luxo existentes
+Artigo 36.º
+
+Restaurantes e estabelecimentos de bebidas de luxo existentes
 
 Os restaurantes e os estabelecimentos de bebidas que, à data da entrada em vigor do presente diploma, estejam qualificados como típicos ou classificados de luxo mantêm essa qualificação e classificação, sem prejuízo do disposto no n.º 1 do artigo anterior.
 
-###### Artigo 37.º — Restaurantes classificados de turísticos
+Artigo 37.º
+
+Restaurantes classificados de turísticos
 
 Os restaurantes que, à data da entrada em vigor do presente diploma, estiverem qualificados de turísticos são considerados, independentemente de quaisquer formalidades, de interesse para o turismo, sem prejuízo do disposto no artigo 35.º
 
-###### Artigo 38.º — Estabelecimentos existentes
+Artigo 38.º
+
+Estabelecimentos existentes
 
 1 - Os estabelecimentos existentes que, à data da entrada em vigor do presente diploma, estejam classificados como restaurantes de 1.ª, 2.ª e 3.ª categorias e casas de pasto ou como estabelecimentos de bebidas de 1.ª, 2.ª e 3.ª categorias e tabernas deixam de ter essas classificações, sendo apenas qualificados no tipo de estabelecimento que corresponder ao serviço que neles é prestado, nos termos no disposto do [Decreto-Lei n.º 168/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1997-156002), de 4 de Julho, e no presente diploma.
 
@@ -580,22 +722,26 @@ Os restaurantes que, à data da entrada em vigor do presente diploma, estiverem 
 
 3 - Os estabelecimentos existentes que, à data da entrada em vigor do presente diploma, estejam classificados como salas de dança de 1.ª ou 2.ª deixam de ter essas classificações, sendo qualificados apenas como estabelecimentos de restauração ou de bebidas com salas ou espaço destinados a dança, conforme o tipo de estabelecimento que corresponder ao serviço que neles é prestado.
 
-###### Artigo 39.º — Alteração da placa identificativa
+Artigo 39.º
+
+Alteração da placa identificativa
 
 As entidades exploradoras dos estabelecimentos referidos nos artigos 37.º e 38.º devem, no prazo de seis meses a contar da data da entrada em vigor do presente diploma, alterar a respectiva placa identificativa, bem como a documentação utilizada em toda a actividade externa, designadamente na publicidade e correspondência.
 
-###### Artigo 40.º — Entrada em vigor
+Artigo 40.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia imediatamente a seguir à sua publicação.
 
-## ANEXO I
+ANEXO I
 
 Tabela que estabelece os requisitos mínimos das instalações e de funcionamento dos estabelecimentos de restauração e de bebidas.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18171826.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18171826.pdf)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18171826.pdf)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18171826.pdf)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18171826.pdf)
 
-## ANEXO II
+ANEXO II
 
 Tabela que estabelece os requisitos mínimos das instalações e de funcionamento dos estabelecimentos de restauração e de bebidas de luxo.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18171826.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18171826.pdf)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18171826.pdf)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18171826.pdf)](https://files.diariodarepublica.pt/1s/1999/04/077b00/18171826.pdf)

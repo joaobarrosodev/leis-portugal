@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/03/05400/04750477.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/126-1978-446110
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T05:33:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 543fb555e39a62e6317eb5377efb53f9675788a1b5b6ac3dae8a9c7acb787978
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 004de06e57aaa85c32812f69d885d56b10e216da627a503c2eea14ee600d16db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:33:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso
+- Estatuto do Oficial da Armada
+- JURI
+- Marinha
 relationships:
 - type: amended_by
   target: pt:dre:391272:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:367830:por
+  label: "Alterados os n.os 1 e 2 pela PORT.596/79.16.11.1979.CR, DR.IS [265] de 16.11.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/596-1979-367830
+  date: '1979-11-16'
+- type: cites
+  target: pt:dre:278700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487748:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:295834:por
+  label: Retificada a al. c) do n.º 4.º pelo(a) Declaração - Diário da República n.º 107/1978, Série I de 1978-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-295834
+  date: '1978-05-10'
+- type: repealed_by
+  target: pt:dre:391272:por
+  label: "Revogada pela PORT.186-A/81.16.02.1981.CR, DR.IS [39] de 16.02.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/31-1981-391272
+  date: '1981-02-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:33:01Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +204,7 @@ c) A eliminação nas condições a que se refere este número só pode realizar
 
 Estado-Maior da Armada, 22 de Fevereiro de 1978. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, almirante.
 
-## Anexo a que se refere a Portaria n.º 126/78, de 6 de Março
+Anexo a que se refere a Portaria n.º 126/78, de 6 de Março
 
 1 - As provas de aptidão física são as seguintes:
 
@@ -205,6 +232,6 @@ c) Natação:
 
 3 - As provas referidas na alínea a) do n.º 1 são classificadas de acordo com a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/05400/04750477.pdf))](https://files.diariodarepublica.pt/1s/1978/03/05400/04750477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/05400/04750477.pdf)
 
-**O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, almirante.**
+O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, almirante.

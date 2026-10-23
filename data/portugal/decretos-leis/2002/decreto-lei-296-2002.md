@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/296/2002/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-2002-438061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc170a3ec32f42b53040dc1d298f3f8a901b09ad9d619dbcb7b4a865a4d4167c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efd6dc2567c6dadb1bc2bfb54316faab0daf214f135782874b49f4270a53511c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
 - Empresa Pública
+- Estabelecimento Hospitalar
 - Estatuto
 - Gestão Hospitalar
-- Estabelecimento Hospitalar
 - Santa Maria da Feira
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:602999:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692434:por
+  label: "Alterado o art. 22.º, pelo DEC LEI.126/2003.2003.06.24.MS DR.IS-A [143]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-2003-692434
+  date: '2003-06-24'
+- type: amended_by
+  target: pt:dre:602999:por
+  label: "Extinto, a partir de 01.02.2009, por integração no Centro Hospitalar de Entre o Douro e Vouga, E.P.E., que lhe sucede\
+    \ em todos os direitos e obrigações, o Hospital de S. Sebastião E.P.E., criado como pessoa colectiva de direito público\
+    \ pelo Dec Lei 218/96 de 20-Nov - posteriormente transformado em sociedade anónima pelo presente diploma, e em entidade\
+    \ pública empresarial pelo Dec Lei 233/2005 de 29-Dez DR.IS-A [249] - pelo DEC LEI.27/2009.27.01.2009.MS, DR.IS [18] de\
+    \ 27.01.2009, que determinou a sucessão pelo centro hospitalar de todos os seus direitos e obrigações\0s\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2009-602999
+  date: '2009-01-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/207/1999/06/09/p/dre
   label: null
@@ -89,16 +103,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:310798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
 article_structure:
   article_count: 49
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:59Z'
   warnings: []
   errors: []
 ---
@@ -301,13 +339,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Outubro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Luís Filipe Pereira - Isaltino Afonso de Morais.
 
-**Promulgado em 22 de Novembro de 2002.**
+Promulgado em 22 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Novembro de 2002.**
+Referendado em 28 de Novembro de 2002.
 
 Pelo Primeiro-Ministro, Maria Manuela Dias Ferreira Leite, Ministra de Estado e das Finanças.
 

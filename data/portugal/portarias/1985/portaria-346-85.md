@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/346-1985-181591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T08:24:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59fa16bda834bb6606d4943e4d5be3cf60d0e57eb3355e415006de75c7db87d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f81e773781dd049aee1474c792700a64cadbac114b53b4286af6cd5ad97dd1f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:24:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Ensino Preparatório
+- Estabelecimento de Ensino
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO PELA PORTARIA NUMERO 989/89, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 264, DE 16/11/89.\011/89.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: cites
+  target: pt:dre:327134:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:24:33Z'
   warnings: []
   errors: []
 ---
@@ -372,8 +383,8 @@ Armamar.
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Educação.
 
-**Assinada em 15 de Maio de 1985.**
+Assinada em 15 de Maio de 1985.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Educação, João de Deus Rogado Salvador Pinheiro. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/13100/15261533.pdf))](https://files.diariodarepublica.pt/1s/1985/06/13100/15261533.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/13100/15261533.pdf)

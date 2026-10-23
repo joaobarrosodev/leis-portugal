@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/333-1973-422185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T04:04:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb66370c8742ce17208d97a7895611334792a376b75220367d3606c709e9222c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8b7dff6e2f5dd1d0a3a68cbb95a1f1306196d4b4576eb8bee657a5c521da4fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:04:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234956:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:04:14Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +105,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1.º Reforce com a importância de 2350000$00 a verba do capítulo 12.º, artigo 353.º, n.º 10), alínea a) «III Plano de Fomento - Programa de execução para 1973 - Educação e investigação - Educação», da tabela de despesa extraordinária do orçamento geral da província para o ano económico de 1973, por transferência de igual importância das seguintes verbas da mesma tabela orçamental de despesa:
 
-### Capítulo 12.º, artigo 353.º «III Plano de Fomento- Programa de execução para 1973»:
+Capítulo 12.º, artigo 353.º «III Plano de Fomento- Programa de execução para 1973»:
 
 8) Transportes, comunicações e meteorologia:
 
@@ -107,7 +119,7 @@ a) Saúde ... 1150000$00
 
 2.º Abra um crédito especial de 5657128$70 para reforço das verbas que se indicam da referida tabela de despesa orçamental:
 
-### Capítulo 12.º, artigo 353.º «III Plano de Fomento - Programa de execução para 1973»:
+Capítulo 12.º, artigo 353.º «III Plano de Fomento - Programa de execução para 1973»:
 
 1) Agricultura, silvicultura e pecuária:
 

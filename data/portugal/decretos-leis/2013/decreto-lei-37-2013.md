@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/37/2013/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2013-259760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a735798e46b91949e8b112319221bb3d83e85d62521aec2f093cf549d6f5c16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c87cc3e32d42f854fa868743de5a3fb5e2e4f1e498e06a68c94d5d67c9f15a44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,35 +70,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Açores
 - Acreditação
-- Produção Animal
+- Agricultura
+- Agricultura Biológica
 - Apoio Técnico
-- Direção Geral de Agricultura e Desenvolvimento Rural
-- Cidadão Estrangeiro
-- Formação Profissional
 - Certificação Profissional
+- Cidadão Estrangeiro
 - Cidadão Nacional
 - Definição de Competências
+- Direção Geral de Agricultura e Desenvolvimento Rural
 - Direção Geral de Alimentação e Veterinária
-- Agricultura Biológica
-- Livre Circulação de Pessoas
 - Documento Eletrónico
-- Proteção do Ambiente
+- Formação Profissional
+- Instituto Nacional de Investigação Agrária
+- Livre Circulação de Pessoas
+- Madeira.região Autónoma
+- Pecuária
 - Pessoal Técnico
 - Política Agrícola Comum
-- Sistema de Informação
 - Prestação de Serviços
-- Qualificação Profissional
-- Madeira.região Autónoma
-- Protecção Integrada das Culturas
+- Produção Animal
 - Produção Vegetal
-- Regulamento CE
-- Pecuária
-- Agricultura
-- Açores
-- Instituto Nacional de Investigação Agrária
 - Produto Agrícola
 - Produto Animal
+- Proteção do Ambiente
+- Protecção Integrada das Culturas
+- Qualificação Profissional
+- Regulamento CE
+- Sistema de Informação
 relationships:
 - type: cites
   target: celex:32001L0082
@@ -145,15 +145,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/9/2009/03/04/p/dre
 article_structure:
-  article_count: 47
+  article_count: 32
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:05Z'
   warnings: []
   errors: []
 ---
@@ -206,7 +206,9 @@ Os artigos 1.º a 3.º e 9.º a 17.º do Decreto-Lei n.º 256/2009, de 24 de set
 
 O presente decreto-lei estabelece os princípios e as orientações para a prática da proteção integrada e da produção integrada e o regime das normas técnicas aplicáveis à proteção integrada, à produção integrada e ao modo de produção biológico, no âmbito da produção agrícola primária, e regulamenta a formação dos técnicos em proteção integrada, em produção integrada ou em modo de produção biológico e o acesso e exercício da atividade das respetivas entidades formadoras.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 [...]:
 
@@ -232,7 +234,9 @@ j) [Anterior alínea g)];
 
 k) [Anterior alínea h)].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Para efeitos do presente decreto-lei, compete:
 
@@ -250,7 +254,9 @@ d) À DGADR e à DGAV, apoiar as direções regionais de agricultura e pescas (D
 
 4 - [Revogado].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -270,7 +276,9 @@ d) À DGADR e à DGAV, apoiar as direções regionais de agricultura e pescas (D
 
 9 - [Anterior n.º 8].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -282,7 +290,9 @@ b) Medicamentos veterinários e produtos de uso veterinário autorizados, respet
 
 c) Produtos biocidas de uso veterinário autorizados ao abrigo do Decreto-Lei n.º 121/2002, de 3 de maio.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...].
 
@@ -292,7 +302,9 @@ c) Produtos biocidas de uso veterinário autorizados ao abrigo do Decreto-Lei n.
 
 4 - As publicações referidas nos números anteriores são editadas em formato digital e a sua publicitação é efetuada pela DGADR, no que respeita à produção integrada e ao modo de produção biológico, e pela DGAV, no que respeita à proteção integrada, nomeadamente através dos seus sítios na Internet.
 
-###### Artigo 12.º — Livre acesso à atividade de apoio técnico
+Artigo 12.º
+
+Livre acesso à atividade de apoio técnico
 
 1 - O acesso à atividade de apoio técnico em proteção integrada, em produção integrada ou em modo de produção biológico é livre.
 
@@ -310,7 +322,9 @@ c) Produtos biocidas de uso veterinário autorizados ao abrigo do Decreto-Lei n.
 
 8 - [Revogado].
 
-###### Artigo 13.º — Formação regulamentada
+Artigo 13.º
+
+Formação regulamentada
 
 1 - O livre acesso à atividade de apoio técnico em proteção integrada, em produção integrada ou em modo de produção biológico previsto no artigo anterior não prejudica o disposto nos números seguintes quanto à formação regulamentada, tal como definida na alínea g) do artigo 2.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto.
 
@@ -380,7 +394,9 @@ b) Formação superior em ciências agrárias complementada com ações de forma
 
 8 - O despacho referido no número anterior é publicado na 2.ª série do Diário da República e publicitado no sítio na Internet da DGADR.
 
-###### Artigo 14.º — Deveres
+Artigo 14.º
+
+Deveres
 
 1 - O exercício da atividade de apoio técnico em proteção integrada, em produção integrada ou em modo de produção biológico, nos termos do artigo 12.º ou do artigo 13.º, está sujeito ao cumprimento do disposto nos artigos 4.º a 11.º e, ainda, dos seguintes deveres:
 
@@ -392,15 +408,21 @@ c) Orientar e dar apoio técnico aos agricultores nas diferentes vertentes assoc
 
 2 - Quem violar o disposto nos artigos 4.º a 11.º e no número anterior responde civilmente pelos danos resultantes da violação, nos termos gerais.
 
-###### Artigo 15.º — Regiões Autónomas
+Artigo 15.º
+
+Regiões Autónomas
 
 O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, com as devidas adaptações, nos termos da respetiva autonomia político-administrativa, cabendo a sua execução administrativa aos serviços e organismos das respetivas administrações regionais autónomas com atribuições e competências na matéria.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 Pelos serviços prestados ao abrigo do disposto no presente decreto-lei, nomeadamente em matéria de inscrição na lista de técnicos em proteção integrada, em produção integrada ou em modo de produção biológico detentores de formação regulamentada, e de certificação de entidades formadoras, e tendo em consideração os respetivos custos administrativos, técnicos e logísticos, são devidas taxas a definir por portaria do membro do Governo responsável pela área da agricultura.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 A regulamentação técnica complementar à prevista no presente decreto-lei, nomeadamente em matéria de normas técnicas, de formação regulamentada e de certificação de entidades formadoras no âmbito da proteção integrada, da produção integrada e do modo de produção biológico, é definida por portaria do membro do Governo responsável pela área da agricultura.»
 
@@ -424,7 +446,9 @@ b) Formação regulamentada, nos termos de legislação de outro Estado-Membro d
 
 4 - A gestão e a atualização da lista referida no n.º 1 competem à DGADR, que pode, para este efeito, nomea-damente, usar a informação fornecida nos termos da alínea b) do n.º 6 do artigo 14.º-A, solicitar informações às entidades formadoras e aos profissionais em causa e utilizar os meios de cooperação administrativa referidos no artigo 14.º-D.
 
-###### Artigo 14.º-A — Certificação de entidades formadoras e ações de formação
+Artigo 14.º-A
+
+Certificação de entidades formadoras e ações de formação
 
 1 - A certificação das entidades formadoras que ministrem ações de formação em proteção integrada, em produção integrada ou em modo de produção biológico abrangidas pelo presente decreto-lei é regulada pela portaria a que se refere o n.º 2 do artigo 16.º do Decreto-Lei n.º 396/2007, de 31 de dezembro, sendo a entidade competente para a certificação a DGADR, mediante parecer prévio da DGAV.
 
@@ -450,17 +474,23 @@ b) Comunicar à DGADR a identificação dos formandos que concluíram a ação d
 
 8 - As ações de formação ministradas por entidades formadoras não certificadas ou cuja realização não tenha sido previamente comunicada nos termos do n.º 5 não constituem formação regulamentada para o exercício da atividade de apoio técnico em produção integrada, em produção integrada ou em modo de produção biológico.
 
-###### Artigo 14.º-B — Reconhecimento de qualificações noutros Estados-Membros
+Artigo 14.º-B
+
+Reconhecimento de qualificações noutros Estados-Membros
 
 A DGADR é a autoridade competente para a aplicação da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, no que respeita aos pedidos de reconhecimento de qualificações apresentados noutros Estados-Membros do Espaço Económico Europeu por nacionais de Estados-Membros formados nos termos previstos no presente decreto-lei.
 
-###### Artigo 14.º-C — Desmaterialização de procedimentos
+Artigo 14.º-C
+
+Desmaterialização de procedimentos
 
 1 - Todos os pedidos, comunicações e requerimentos, bem como a apresentação de documentos e de informações, no âmbito dos procedimentos regulados pelo presente decreto-lei, são realizados por via eletrónica, através do balcão único eletrónico dos serviços a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.
 
 2 - Quando, por motivo de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, os atos aí referidos podem ser praticados por qualquer outro meio previsto na lei.
 
-###### Artigo 14.º-D — Cooperação administrativa
+Artigo 14.º-D
+
+Cooperação administrativa
 
 As autoridades competentes nos termos do presente decreto-lei participam na cooperação administrativa no âmbito dos procedimentos relativos a prestadores provenientes de outro Estado-Membro, nos termos do disposto no capítulo VI do Decreto-Lei n.º 92/2010, de 26 de julho, e do n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, nomeadamente através do Sistema de Informação do Mercado Interno.»
 
@@ -486,15 +516,15 @@ São revogados o n.º 4 do artigo 3.º e os n.os 2 a 8 do artigo 12.º do Decret
 
 Visto e aprovado em Conselho de Ministros de 31 de janeiro de 2013. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 27 de fevereiro de 2013.**
+Promulgado em 27 de fevereiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de fevereiro de 2013.**
+Referendado em 28 de fevereiro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/15300/0000200029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/66/2023/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c22b7c22ad656aa6058229880899400100d9a349e9995c94adb2f65b2d2f3d30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41540b2f76c8f3fe087635026491de998a0c33e3757c8b8d1a18cba3dca7db24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,53 +67,53 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Apoio ao Investimento
 - Aproximação das Legislações
-- Valores Mobiliários
+- ASAE
+- Atividade Bancária
+- Autoridade Competente
+- Autoridade de Supervisão de Seguros e Fundos de Pensões
 - Autoridade Europeia dos Valores Mobiliários e dos Mercados
-- Financiamento
-- Instituição de Crédito
-- Empresa
-- Sociedade Comercial
-- Moeda Eletrónica
+- Banco Central Europeu
+- Banco de Portugal
+- CMVM
 - Código dos Valores Mobiliários
-- Supervisão Financeira
+- Comissão CE
+- Conversão de Moeda
 - Definição de Competências
 - Depósito Bancário
 - Doação
+- Empresa
 - Empréstimo
-- Banco Central Europeu
-- Conversão de Moeda
+- Financiamento
 - Fiscalização
 - Fiscalização Económica
 - Fundo de Garantia Automóvel
 - Fundo de Investimento
-- Banco de Portugal
-- Apoio ao Investimento
-- Projeto de Investimento
-- Comissão CE
 - Gestor
-- Pagamento
 - Informação
-- Atividade Bancária
+- Instituição de Crédito
+- Instituição Financeira
+- Internet
 - Investimento
-- ASAE
+- Investimento Privado
 - Mercado de Valores
 - Mercado Financeiro
+- Moeda Eletrónica
 - Multibanco
+- Pagamento
 - Página na Internet
-- Recompensa
-- Internet
+- Plataforma Eletrónica
 - Prestação de Serviços
+- Projeto de Investimento
+- Recompensa
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
 - Regime Jurídico
 - Regulamento CE
-- Investimento Privado
-- CMVM
-- Instituição Financeira
+- Sociedade Comercial
+- Supervisão Financeira
 - Valor de Referência
-- Autoridade de Supervisão de Seguros e Fundos de Pensões
-- Plataforma Eletrónica
-- Autoridade Competente
+- Valores Mobiliários
 relationships:
 - type: cites
   target: celex:32009L0103
@@ -211,6 +211,54 @@ relationships:
   target: eli:http://data.europa.eu/el
   label: null
   source: http://data.europa.eu/el
+- type: cites
+  target: pt:dre:108068705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114661387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115740680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116936932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58585556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70086389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70237675:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32009L0103
   label: null
@@ -220,15 +268,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 83
+  article_count: 60
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:33Z'
   warnings: []
   errors: []
 ---
@@ -347,7 +395,9 @@ c) [...]
 
 3 - A CMVM é a autoridade competente para a supervisão do cumprimento dos deveres referidos nas alíneas c) e d) do n.º 1 do artigo 16.º do Regulamento OFVM, incluindo os decorrentes da respetiva regulamentação, pelas entidades responsáveis pela gestão de organismos de investimento coletivo.
 
-###### Artigo 18.º-A — [...]
+Artigo 18.º-A
+
+[...]
 
 1 - [...]
 
@@ -431,11 +481,15 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 6.º, 10.º e 17.º da [Lei n.º 102/2015](ht
 
 2 - O disposto na presente lei aplica-se sem prejuízo do disposto no [Regulamento (UE) 2020/1503](https://data.europa.eu/eli/reg/2020/1503/oj?locale=pt), do Parlamento Europeu e do Conselho, de 7 de outubro de 2020, e demais direito nacional e da União Europeia aplicáveis.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 O financiamento colaborativo é o tipo de financiamento de entidades, ou das suas atividades e projetos, através do seu registo em plataformas eletrónicas acessíveis através da Internet, a partir das quais procedem à angariação de contributos ou de parcelas de investimento em dinheiro provenientes de pessoas singulares e coletivas na qualidade de apoiantes ou de investidores.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]
 
@@ -449,7 +503,9 @@ d) (Revogada.)
 
 e) O financiamento colaborativo de capital e de empréstimo nos termos do [Regulamento (UE) 2020/1503](https://data.europa.eu/eli/reg/2020/1503/oj?locale=pt), do Parlamento Europeu e do Conselho, de 7 de outubro de 2020.
 
-###### Artigo 4.º — Gestores de plataformas de financiamento e prestadores de serviços de financiamento colaborativo
+Artigo 4.º
+
+Gestores de plataformas de financiamento e prestadores de serviços de financiamento colaborativo
 
 1 - Podem ser gestores de plataformas de financiamento colaborativo através de donativo ou com recompensa quaisquer pessoas coletivas ou estabelecimentos individuais de responsabilidade limitada.
 
@@ -467,13 +523,17 @@ e) Sociedades comerciais.
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A adesão de um beneficiário de financiamento a uma determinada plataforma de financiamento colaborativo através de donativo ou com recompensa ou a subscrição de serviços de financiamento colaborativo de capital ou por empréstimo é realizada por contrato reduzido a escrito e disponível de forma desmaterializada através da plataforma, do qual consta nomeadamente a identificação das partes, as modalidades de financiamento colaborativo a utilizar, a identificação do projeto ou atividade a financiar e o montante e prazo da angariação, bem como os instrumentos financeiros a utilizar para proceder à angariação.
 
 2 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Aplicam-se plenamente às relações jurídicas subjacentes ao financiamento colaborativo, em particular na relação estabelecida entre os beneficiários do financiamento ou promotores e os consumidores e investidores, os regimes correspondentes aos tipos contratuais celebrados com recurso às plataformas de financiamento colaborativo, nomeadamente a doação, compra e venda, prestação de serviços, emissão e transmissão de valores mobiliários e mútuo, bem como as disposições sobre proteção da propriedade intelectual e comercial, quando relevantes.
 
@@ -481,7 +541,9 @@ e) Sociedades comerciais.
 
 3 - (Revogado.)
 
-###### Artigo 17.º — Prestação de informação aos investidores
+Artigo 17.º
+
+Prestação de informação aos investidores
 
 1 - As fichas de informação fundamental sobre o investimento objeto de uma oferta de financiamento colaborativo em Portugal e as comunicações comerciais são redigidas em português, em inglês, exceto se a CMVM a tal se opuser em virtude de se revelar contrário ao funcionamento do mercado ou aos interesses dos investidores, ou noutro idioma aceite pela CMVM.
 
@@ -515,19 +577,25 @@ b) Compensar os seus dirigentes ou trabalhadores pela oferta ou volume de vendas
 
 c) Gerir organismos de investimento coletivo ou deter valores mobiliários.
 
-###### Artigo 12.º-B — Prevenção de conflitos de interesses
+Artigo 12.º-B
+
+Prevenção de conflitos de interesses
 
 1 - As plataformas organizam-se por forma a identificar possíveis conflitos de interesses e atuam de modo a evitar ou reduzir ao mínimo o risco da sua ocorrência, não podendo os seus titulares, dirigentes, trabalhadores ou outros prestadores de serviços com intervenção direta na atividade de financiamento colaborativo através de donativo ou com recompensa possuir interesses contrapostos aos beneficiários ou investidores.
 
 2 - Em situação de conflito de interesses, as plataformas atuam por forma a assegurar aos investidores e aos beneficiários um tratamento transparente e equitativo.
 
-###### Artigo 12.º-C — Beneficiários
+Artigo 12.º-C
+
+Beneficiários
 
 1 - Podem recorrer às plataformas de financiamento colaborativo através de donativo ou com recompensa quaisquer pessoas singulares ou coletivas, nacionais ou estrangeiras, interessadas na angariação de fundos para as suas atividades ou projetos através destas modalidades de financiamento colaborativo.
 
 2 - Os beneficiários do financiamento colaborativo através de donativo ou com recompensa comunicam e mantêm atualizada junto das plataformas com as quais estabelecem uma relação contratual, para efeitos de transmissão de informação aos potenciais investidores, a sua identificação, natureza jurídica, contactos, sede ou domicílio, bem como a identidade dos seus titulares de órgãos de gestão, quando aplicável.
 
-###### Artigo 15.º-A — Regime jurídico
+Artigo 15.º-A
+
+Regime jurídico
 
 1 - A prestação de serviços de financiamento colaborativo de capital ou por empréstimo, nomeadamente, em matéria de acesso à atividade, de requisitos organizacionais e operacionais aplicáveis aos prestadores de serviços de financiamento colaborativo, dos deveres relativos à proteção do investidor, transparência, prestação de informação, comunicações comerciais e à supervisão da respetiva atividade rege-se pelo disposto na presente lei, no [Regulamento (UE) 2020/1503](https://data.europa.eu/eli/reg/2020/1503/oj?locale=pt), do Parlamento Europeu e do Conselho, de 7 de outubro de 2020 e demais legislação aplicável.
 
@@ -539,11 +607,15 @@ c) Gerir organismos de investimento coletivo ou deter valores mobiliários.
 
 5 - Aos contratos com prestadores de serviços de financiamento colaborativo é aplicável o regime das cláusulas contratuais gerais, sendo para esse efeito os investidores não sofisticados equiparados a consumidores.
 
-###### Artigo 15.º-B — Subcontratação de funções
+Artigo 15.º-B
+
+Subcontratação de funções
 
 Sem prejuízo do cumprimento de disposições especificamente aplicáveis às entidades previstas no n.º 2 do artigo 4.º, a subcontratação ou outra forma de externalização de serviços ou de funções de controlo ou operacionais por prestadores de serviços de financiamento colaborativo é formalizada em contrato escrito de onde constem os serviços ou funções subcontratadas e a política de gestão de eventuais conflitos de interesses que possam surgir dessa subcontratação.
 
-###### Artigo 16.º-A — Cooperação
+Artigo 16.º-A
+
+Cooperação
 
 1 - A CMVM solicita parecer ao Banco de Portugal, previamente à decisão de autorização para a prestação de serviços de financiamento colaborativo, sempre que se trate de uma entidade referida nas alíneas a), c) e d) do n.º 2 do artigo 4.º ou de outra entidade sujeita à supervisão do Banco de Portugal.
 
@@ -553,7 +625,9 @@ Sem prejuízo do cumprimento de disposições especificamente aplicáveis às en
 
 4 - A CMVM e o Banco de Portugal trocam entre si, sem demora indevida, qualquer informação que considerem relevante para o exercício das respetivas funções relativamente às entidades referidas nas alíneas a), c) e d) do n.º 2 do artigo 4.º e a outras entidades sujeitas à supervisão do Banco de Portugal.
 
-###### Artigo 16.º-B — Revogação da autorização
+Artigo 16.º-B
+
+Revogação da autorização
 
 1 - Quando revogue a autorização de prestador de serviços de financiamento colaborativo por este ter cessado a prestação de serviços de financiamento colaborativo, conforme previsto na alínea c) do n.º 1 do artigo 17.º do [Regulamento (UE) 2020/1503](https://data.europa.eu/eli/reg/2020/1503/oj?locale=pt) do Parlamento Europeu e do Conselho, de 7 de outubro de 2020, a CMVM pode ordenar a transferência dos contratos existentes para outro prestador de serviços de financiamento colaborativo, nos termos previstos no referido regulamento, e fixar um prazo para esse efeito.
 
@@ -571,7 +645,9 @@ Sem prejuízo do cumprimento de disposições especificamente aplicáveis às en
 
 8 - As sociedades comerciais referidas na alínea e) do n.º 2 do artigo 4.º modificam o respetivo objeto social no prazo de 3 meses a contar da data da revogação de autorização.
 
-###### Artigo 21.º-A — Supervisão
+Artigo 21.º-A
+
+Supervisão
 
 1 - A CMVM é, para os efeitos do [Regulamento (UE) 2020/1503](https://data.europa.eu/eli/reg/2020/1503/oj?locale=pt) do Parlamento Europeu e do Conselho, de 7 de outubro de 2020, a autoridade competente para desempenhar as funções e competências de regulação, de regulamentação, de supervisão e de fiscalização em matéria de financiamento colaborativo de capital e de empréstimo.
 
@@ -605,17 +681,23 @@ g) Tornar público o facto de um prestador de serviços de financiamento colabor
 
 7 - O disposto na presente lei não prejudica o exercício pelo Banco Central Europeu e pelo Banco de Portugal das suas competências relativamente às instituições de crédito, instituições de moeda eletrónica e instituições de pagamento, nos termos da legislação nacional e europeia em vigor.
 
-###### Artigo 21.º-B — Tratamento de reclamações e de pedidos de informação
+Artigo 21.º-B
+
+Tratamento de reclamações e de pedidos de informação
 
 1 - A CMVM organiza um serviço gratuito de tratamento dos pedidos de informação e das reclamações apresentados por clientes e outras partes interessadas, incluindo associações de consumidores, por escrito ou por via eletrónica, sobre alegadas infrações por parte de prestadores de serviços de financiamento colaborativo ou terceiros em seu nome.
 
 2 - As informações sobre o procedimento a que se refere o número anterior são disponibilizadas pela CMVM no seu sítio na Internet e comunicadas à ESMA.
 
-###### Artigo 21.º-C — Difusão de informação
+Artigo 21.º-C
+
+Difusão de informação
 
 A CMVM disponibiliza no seu sítio na Internet uma lista atualizada das entidades que prestam serviços de financiamento colaborativo em Portugal, incluindo os elementos essenciais para a identificação dessas entidades com menção das entidades que prestam o serviço de gestão individual de carteiras de empréstimos.
 
-###### Artigo 21.º-D — Regulamentação
+Artigo 21.º-D
+
+Regulamentação
 
 1 - A CMVM pode regulamentar o disposto na presente lei, nomeadamente nas seguintes matérias:
 
@@ -655,7 +737,9 @@ c) [...]
 
 d) [Regulamento (UE) 2021/1230](https://data.europa.eu/eli/reg/2021/1230/oj?locale=pt) do Parlamento Europeu e do Conselho, de 14 de julho de 2021, relativo aos pagamentos transfronteiriços na União.
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - [...]
 
@@ -665,19 +749,27 @@ a) [...]
 
 b) [...]
 
-###### Artigo 146.º — [...]
+Artigo 146.º
+
+[...]
 
 Os prestadores de serviços de pagamento disponibilizam aos respetivos utilizadores de serviços de pagamento, nos termos do disposto no artigo 142.º, mecanismos adequados de tratamento das reclamações que lhes sejam diretamente apresentadas relativamente ao cumprimento da legislação da União Europeia referida no n.º 2 do artigo 1.º
 
-###### Artigo 147.º — [...]
+Artigo 147.º
+
+[...]
 
 Sem prejuízo do acesso aos meios judiciais competentes, os utilizadores de serviços de pagamento, ou as suas associações representativas, bem como os demais interessados, podem apresentar, diretamente ao Banco de Portugal, nos termos previstos no artigo 143.º, reclamações fundadas no incumprimento do disposto na legislação da União Europeia referida no n.º 2 do artigo 1.º
 
-###### Artigo 148.º — [...]
+Artigo 148.º
+
+[...]
 
 Os prestadores de serviços de pagamento disponibilizam aos respetivos utilizadores de serviços de pagamento, nos termos previstos no artigo 144.º, o acesso a mecanismos eficazes e adequados de resolução alternativa de litígios de valor igual ou inferior à alçada dos tribunais de 1.ª instância relativamente à aplicação da legislação da União Europeia referida no n.º 2 do artigo 1.º
 
-###### Artigo 149.º — [...]
+Artigo 149.º
+
+[...]
 
 1 - O Banco de Portugal fiscaliza o cumprimento dos deveres estabelecidos na legislação da União Europeia referida no n.º 2 do artigo 1.º, podendo, para este efeito, exercer as competências previstas no n.º 2 do artigo 7.º em relação a prestadores de serviços de pagamento, a sistemas de pagamento, a entidades de processamento, a modelos de pagamento e a entidades que prestam serviços de conversão cambial através de um caixa automático ou num ponto de venda sujeitas à supervisão do Banco de Portugal de acordo com outras disposições legais e que não se incluam em qualquer das categorias anteriores.
 
@@ -685,7 +777,9 @@ Os prestadores de serviços de pagamento disponibilizam aos respetivos utilizado
 
 3 - A entidade reguladora setorial respetiva ou, nos demais setores de atividade, a Autoridade de Segurança Alimentar e Económica fiscalizam o cumprimento dos deveres estabelecidos no [Regulamento (UE) 2021/1230](https://data.europa.eu/eli/reg/2021/1230/oj?locale=pt) do Parlamento Europeu e do Conselho, de 14 de julho de 2021, por entidades não referidas no n.º 1 que prestam serviços de conversão cambial através de um caixa automático ou num ponto de venda.
 
-###### Artigo 150.º — [...]
+Artigo 150.º
+
+[...]
 
 1 - [...]
 
@@ -777,15 +871,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de junho de 2023. - António Luís Santos da Costa - Sofia Alves de Aguiar Batalha.
 
-**Promulgado em 27 de julho de 2023.**
+Promulgado em 27 de julho de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de julho de 2023.**
+Referendado em 28 de julho de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 7.º)
 
@@ -1192,3 +1286,5 @@ A entrada em vigor da presente lei não prejudica as relações jurídicas de fi
 ###### Artigo 25.º — Entrada em vigor
 
 A presente lei entra em vigor no primeiro dia do segundo mês seguinte ao da sua publicação, com exceção das disposições relativas ao financiamento colaborativo de capital ou por empréstimo, que entram em vigor no momento da entrada em vigor das normas regulamentares referidas no artigo 23.º
+
+116740865

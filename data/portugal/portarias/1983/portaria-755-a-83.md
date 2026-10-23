@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 156/1983, 1º Suplemento, Série I de 1983-07-09
   number: '156'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2512-(1) a 2512-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/15601/00010003.pdf
 entry_into_force_dates: []
@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/755-a-1983-618699
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T07:48:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6833787b3a0b24b08c88395f3c84011943d4eaeb6f07e717d2cd4daf5cbf5a74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 937c0bb9fab415c917da861466fddf76ff3857797a61a455f88b07baa25c373c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:48:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Energia Elétrica
+- Fundo de Apoio Térmico
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:185926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621691:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:673672:por
+  label: Rectificada pela DECL.DD5709.01.08.1983.PCM, DR.IS [200-Supl] de 31.08.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-673672
+  date: '1983-08-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:48:08Z'
   warnings: []
   errors: []
 ---
@@ -119,9 +135,9 @@ Em anexo figuram, a título de mera elucidação, os valores mínimos das taxas 
 
 Ministério da Indústria e Energia.
 
-**Assinada em 7 de Julho de 1983.**
+Assinada em 7 de Julho de 1983.
 
-**O Ministro da Indústria e Energia, José Veiga Simão.**
+O Ministro da Indústria e Energia, José Veiga Simão.
 
 TARIFAS DEGRADADAS EM RECUPERAÇÃO
 
@@ -129,20 +145,20 @@ Valores mínimos das taxas tarifárias, reportadas à data da publicação da Po
 
 Distribuidor: Serviços Municipalizados de Gás e Electricidade do Porto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15601/00010003.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15601/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15601/00010003.pdf)
 
 Distribuidor: Serviços Municipalizados de Valongo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15601/00010003.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15601/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15601/00010003.pdf)
 
 Distribuidor: Serviços Municipalizados de Espinho;
 
 Distribuidor: Serviços Municipalizados de Vila Nova de Gaia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15601/00010003.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15601/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15601/00010003.pdf)
 
 Distribuidor: Serviços Municipalizados de Viana do Castlo;
 
 Distribuidor: Serviços Municipalizados de Maia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15601/00010003.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15601/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15601/00010003.pdf)

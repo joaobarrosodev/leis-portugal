@@ -47,40 +47,113 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1-1978-468815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T05:32:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b866502b16374be564d5518bf4673805daf5af227e496dda02fc87004de3f2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bed747ea7b38d58af19cd96af09b29c3452706563ecd9ed3e521085d2dcc9957
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:32:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- BENS de Consumo
+- CAE
+- Mercado Interno
+- Política de Preços
+- Preço
+- Prestação de Serviços
+- Produto Industrial
 relationships:
 - type: amended_by
   target: pt:dre:532034:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:353722:por
+  label: "Incluídos novos produtos à lista anexa pela PORT.716/79.31.12.1979.MIND, DR.IS [300] de 31.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/716-1979-353722
+  date: '1979-12-31'
+- type: amended_by
+  target: pt:dre:661130:por
+  label: "Excluídos alguns bens e serviços da lista anexa à presente portaria pela PORT.135/84.1984.03.03.MIE DR.IS [54]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/135-1984-661130
+  date: '1984-03-03'
+- type: amended_by
+  target: pt:dre:399407:por
+  label: "Excluído do regime de preços declarados os bens e serviços enquadrados nas posições (CAE), incluídos na lista anexa\
+    \ ao presente diploma, pela PORT.726/84.17.09.1984.MIE, DR.IS [216] de 17.09.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/726-1984-399407
+  date: '1984-09-17'
+- type: amended_by
+  target: pt:dre:222018:por
+  label: "Excluído do regime de preços declarados bens incluídos na lista anexa pelo presente diploma, pela PORT.534/86.19.09.1986.MIC,\
+    \ DR.IS [216] de 19.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/534-1986-222018
+  date: '1986-09-19'
+- type: amended_by
+  target: pt:dre:417625:por
+  label: "Excluído do regime de preços declarados o bem incluído na lista anexa ao presente diploma, pela PORT.702/87.17.08.1987.MIE,\
+    \ DR.IS [187] de 17.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/702-1987-417625
+  date: '1987-08-17'
+- type: amended_by
+  target: pt:dre:613012:por
+  label: "Excluídas algumas posições da Classificação das Actividades Económicas da lista anexa ao presente diploma, pela\
+    \ PORT.195/89.09.03.1989.MF, DR.IS [57] de 09.03.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/195-1989-613012
+  date: '1989-03-09'
+- type: amended_by
+  target: pt:dre:620885:por
+  label: "Excluído do regime de preços declarados os bens enquadrados no desdobramento da Classificação das Actividades Económicas,\
+    \ incluídos na lista anexa, pela PORT.483/89.28.06.1989.MIE, DR.IS [146] de 28.06.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/483-1989-620885
+  date: '1989-06-28'
+- type: amended_by
+  target: pt:dre:593515:por
+  label: "Excluídos alguns bens da lista anexa ao presente diploma, pela PORT.354/91.20.04.1991.MCT, DR.IS-B [92] de 20.04.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/354-1991-593515
+  date: '1991-04-20'
+- type: amended_by
+  target: pt:dre:532034:por
+  label: "Excluído do regime de preços declarados os bens e serviços enquadrados nas posições (CAE), incluídas na lista anexa\
+    \ ao presente diploma, pela PORT.31/94.1994.01.11.MIE, DR.IS-B [8]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/31-1994-532034
+  date: '1994-01-11'
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:447513:por
+  label: Rectificada pela DECL.DD7637.16.03.1978.PCM, DR.IS [63] de 16.03.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-447513
+  date: '1978-03-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:32:20Z'
   warnings: []
   errors: []
 ---
@@ -149,4 +222,4 @@ ex- 369 Cimento.
 
 4101 Electricidade.
 
-**O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa. - O Ministro do Comércio e Turismo, Carlos Alberto da Mota Pinto.**
+O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa. - O Ministro do Comércio e Turismo, Carlos Alberto da Mota Pinto.

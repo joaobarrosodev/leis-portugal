@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/06/142a00/15861587.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/80/1996/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1996-430803
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:48:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c104effe62a108c612c99930b3b6459b77e45a9de39e2d0761868ec8bd3495aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d0cc4f3c48b0f0050004d289429aca53acff11e70ce239dd23ae0e205b33777
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:48:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ reuse:
 subjects:
 - Adjudicação
 - Adjudicação por Concurso Público
+- Administração Pública
 - Aquisição de Bens e Serviços
 - Concurso
 - Concurso Público
 - Contrato
 - Despesas Públicas
 - Empreitada de Obras Públicas
-- Administração Pública
 - Locação Financeira
 - Obras Públicas
 - Prestação de Serviços
@@ -85,20 +85,30 @@ relationships:
   target: pt:dre:522841:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:522841:por
+  label: "Alterada a redacção dos arts. 89º e 92º, conferida pelo presente diploma ao Dec Lei 55/95 de 29-Mar, pelo DEC LEI.128/98.1998.05.13.MF,\
+    \ DR.IS-A [110]\010]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-1998-522841
+  date: '1998-05-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/55/1995/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/55/1995/03/29/p/dre
+- type: cites
+  target: pt:dre:173688:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:48:13Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +153,9 @@ Os artigos 31.º, 32.º, 33.º, 89.º, 90.º, 92.º e 93.º do [Decreto-Lei n.º
 
 7 - Quando o valor da despesa exceda 500 contos, deverão ser consultados, pelo menos, dois prestadores de serviços ou fornecedores de bens.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -157,7 +169,9 @@ d) Ajuste directo, quando tal valor seja inferior a 2500 contos.
 
 2 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
@@ -173,7 +187,9 @@ d) Ajuste directo, quando tal valor seja inferior a 2500 contos.
 
 7 - ...
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - ...
 
@@ -185,7 +201,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 1 - ...
 
@@ -195,13 +213,17 @@ c) ...
 
 4 - A falta de comparência injustificada do interessado na data e local que lhe sejam indicados determina a sua exclusão do procedimento.
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - O procedimento por negociação, sem publicação prévia de anúncio, inicia-se por carta dirigida aos eventuais participantes, sempre que possível no mínimo de três, convidando-os a apresentar proposta num prazo que não pode ser inferior a cinco dias úteis.
 
 2 - O procedimento prossegue nos termos dos artigos 89.º, n.º 2, 90.º e 91.º
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - No ajuste directo em que haja consulta a mais de um participante, a proposta de aquisição ou fornecimento deve ser devidamente fundamentada.
 
@@ -213,12 +235,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação e não 
 
 Visto e aprovado em Conselho de Ministros de 18 de Abril de 1996. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 4 de Junho de 1996.**
+Promulgado em 4 de Junho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Junho de 1996.**
+Referendado em 5 de Junho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

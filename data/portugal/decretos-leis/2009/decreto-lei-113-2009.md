@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/113/2009/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc81ff9088e2d54587e07c50b3a5d9119e9a126ee27776480981539020a502c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcff7e02c1550f53a974aeab595ffc77c0f60f94926d6dfd1f38667e36746ff0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade Nacional de Segurança Rodoviária
 - Código da Estrada
-- Multa
 - Contra-ordenação
 - Fiscalização
-- Veículo
-- Autoridade Nacional de Segurança Rodoviária
+- Instituto de Infra-Estruturas Rodoviárias
+- Matrícula
+- Multa
 - Página na Internet
 - Portagem
 - Serviço Electrónico Europeu de Portagem
-- Instituto de Infra-Estruturas Rodoviárias
-- Matrícula
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:215097635:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:344242:por
+  label: "Alterados os arts. 5.º e 11.º e revogado o n.º 3 do art. 5.º da Lei 25/2006, de 30-Jun, na redacção do presente\
+    \ diploma, pela LEI.46/2010.07.09.2010.AR, DR.IS [174] de 07.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/46-2010-344242
+  date: '2010-09-07'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterados os arts. 15º e 17º e aditado o art. 17º-A à Lei 20/2006, de 30-Jun, na redacção e republicação do presente\
+    \ diploma, pela LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:146220:por
+  label: "Alterado o art. 3º da Lei 25/2006, de 30-Jun, na redacção do presente diploma, pela LEI ORG.1/2011.30.11.2011.AR,\
+    \ DR.IS [230] de 30.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/1-2011-146220
+  date: '2011-11-30'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterados os art.s 3º, 4º, 7º, 8º, 9º, 10º, 11º, 15º e 17º da Lei 25/2006, de 30-Jun, na redacção do presente diploma,\
+    \ pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação aos arts. 3º, 7º, 10º, 11º e 17º da Lei 25/2006 de 30-jun, alterado pelo presente diploma, pela\
+    \ LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:499526:por
+  label: "Dada nova redação ao art. 119º do Código da Estrada, aprovado pelo Dec Lei 114/94 de 03-mai, alterado pelo presente\
+    \ diploma pela LEI.72/2013.03.09.2013.AR, DR.IS [169] de 03.09.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/72-2013-499526
+  date: '2013-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/112/2009/05/18/p/dre
   label: null
@@ -120,16 +156,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/762/1993/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/762/1993/08/27/p/dre
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:530255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692658:por
+  label: null
+  source: null
 article_structure:
-  article_count: 45
+  article_count: 29
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:01Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +248,9 @@ Os artigos 117.º, 118.º, 119.º, 161.º e 162.º do Código da Estrada, aprova
 
 8 - ...
 
-###### Artigo 118.º — [...]
+Artigo 118.º
+
+[...]
 
 1 - ...
 
@@ -200,7 +274,9 @@ Os artigos 117.º, 118.º, 119.º, 161.º e 162.º do Código da Estrada, aprova
 
 11 - (Anterior n.º 10.)
 
-###### Artigo 119.º — [...]
+Artigo 119.º
+
+[...]
 
 1 - ...
 
@@ -228,7 +304,9 @@ Os artigos 117.º, 118.º, 119.º, 161.º e 162.º do Código da Estrada, aprova
 
 13 - (Anterior n.º 12.)
 
-###### Artigo 161.º — [...]
+Artigo 161.º
+
+[...]
 
 1 - ...
 
@@ -266,7 +344,9 @@ j) [Anterior alínea i).]
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 162.º — [...]
+Artigo 162.º
+
+[...]
 
 1 - ...
 
@@ -318,7 +398,9 @@ Os artigos 3.º, 4.º, 5.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 15.º
 
 2 - Os agentes de fiscalização referidos no número anterior são devidamente ajuramentados e credenciados pelo governador civil do distrito da sede da empresa, devendo este manter um registo permanente e actualizado de tais agentes de fiscalização.
 
-###### Artigo 4.º — Poderes dos agentes de fiscalização
+Artigo 4.º
+
+Poderes dos agentes de fiscalização
 
 1 - Os agentes de fiscalização podem, no exercício das suas funções e quando tal se mostre necessário, exigir ao agente de uma contra-ordenação a respectiva identificação e solicitar, se necessário, a intervenção da autoridade policial.
 
@@ -332,7 +414,9 @@ Os artigos 3.º, 4.º, 5.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 15.º
 
 6 - Os modelos homologados devem ser publicitados nos sítios da Internet do Instituto de Infra-Estruturas Rodoviárias, I. P., da Autoridade Nacional de Segurança Rodoviária, I. P., bem como no da concessionária ou subconcessionária respectiva.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -348,7 +432,9 @@ c) Em incumprimento das condições de utilização do sistema de pagamento a qu
 
 4 - Em todos os casos em que, nos termos da presente lei, sejam devidos custos administrativos, são os mesmos fixados por portaria do membro do Governo responsável pelo sector das infra-estruturas rodoviárias.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As contra-ordenações previstas na presente lei são punidas com coima de valor mínimo correspondente a 10 vezes o valor da respectiva taxa de portagem, mas nunca inferior a (euro) 25, e de valor máximo correspondente ao quíntuplo do valor mínimo da coima, com respeito pelos limites máximos previstos no artigo 17.º do regime geral do ilícito de mera ordenação social.
 
@@ -356,13 +442,17 @@ c) Em incumprimento das condições de utilização do sistema de pagamento a qu
 
 3 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A prática das contra-ordenações previstas nos artigos 5.º e 6.º pode ser detectada por qualquer agente de autoridade ou agente de fiscalização no exercício das suas funções, bem como através de equipamentos adequados, designadamente que registem a imagem ou detectem o dispositivo electrónico de matrícula do veículo com o qual a infracção foi praticada, nos termos da legislação aplicável à instalação e utilização de sistemas de vigilância electrónica para a prevenção e segurança em infra-estruturas rodoviárias ou da legislação aplicável ao dispositivo electrónico de matrícula.
 
 2 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Quando o agente de fiscalização, no exercício das suas funções, detectar a prática ou a ocorrência de contra-ordenações previstas nos artigos 5.º e 6.º lavra auto de notícia, do qual deve constar:
 
@@ -394,7 +484,9 @@ i) A assinatura do agente que o levantou, que poderá ser efectuada por chancela
 
 6 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Sempre que não for possível identificar o condutor do veículo no momento da prática da contra-ordenação, é notificado o titular do documento de identificação do veículo para que este, no prazo de 15 dias úteis, proceda a essa identificação ou pague o valor da taxa de portagem e os custos administrativos associados, salvo se provar a utilização abusiva do veículo por terceiros.
 
@@ -404,13 +496,17 @@ i) A assinatura do agente que o levantou, que poderá ser efectuada por chancela
 
 4 - Caso o agente da contra-ordenação não proceda ao pagamento referido no número anterior, é lavrado auto de notícia, aplicando-se o disposto nos artigos 12.º e 13.º
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Para efeitos da aplicação do disposto no artigo anterior, as autoridades policiais, as concessionárias, as subconcessionárias, as entidades de cobrança das taxas de portagem e as entidades gestoras de sistemas electrónicos de cobrança de portagens, podem solicitar à Conservatória do Registo Automóvel, com base na matrícula dos veículos, a identificação das entidades referidas no n.º 2 do artigo 10.º
 
 2 - Os termos, condições e custos de disponibilização da informação referida no número anterior são definidos por protocolo a celebrar entre aquelas entidades, o Instituto dos Registos e Notariado, I. P., e o Instituto das Tecnologias de Informação da Justiça, I. P.
 
-###### Artigo 12.º — Processo de contra-ordenação
+Artigo 12.º
+
+Processo de contra-ordenação
 
 1 - As entidades referidas no artigo 11.º, cujo agente de fiscalização tenha lavrado o auto de notícia, notificam o auto de notícia ao agente da contra-ordenação.
 
@@ -428,11 +524,15 @@ i) A assinatura do agente que o levantou, que poderá ser efectuada por chancela
 
 8 - As entidades referidas no artigo 11.º devem enviar mensalmente ao Instituto de Infra-Estruturas Rodoviárias, I. P., duplicado dos autos de notícia relativamente aos quais o agente da contra-ordenação não tenha procedido ao pagamento nos termos do n.º 2.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 A apresentação de defesa nos termos do n.º 2 do artigo anterior é realizada junto do Instituto de Infra-Estruturas Rodoviárias, I. P., com a indicação das testemunhas, até ao limite de três, podendo o agente da contra-ordenação juntar outros meios de prova.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - As entidades referidas no artigo 11.º são as entidades competentes para a instauração dos processos de contra-ordenação a que se refere a presente lei.
 
@@ -440,11 +540,15 @@ A apresentação de defesa nos termos do n.º 2 do artigo anterior é realizada 
 
 3 - Sem prejuízo do disposto no presente diploma, nas contra-ordenações previstas na presente lei é aplicável o regime previsto no artigo 174.º do Código da Estrada.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 A coima, a taxa de portagem e os custos administrativos devidos devem ser pagos no prazo de 15 dias úteis a contar da data em que a decisão se tornar definitiva, devendo o pagamento efectuar-se perante o Instituto de Infra-Estruturas Rodoviárias, I. P., e nas modalidades que vierem a ser fixadas em regulamento aprovado por esta entidade.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Caso a coima seja paga, nos termos do n.º 2 do artigo 12.º, o produto da mesma é distribuído da seguinte forma:
 
@@ -482,15 +586,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Fevereiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Costa Pina - Rui Carlos Pereira - Alberto Bernardes Costa - Mário Lino Soares Correia.
 
-**Promulgado em 2 de Maio de 2009.**
+Promulgado em 2 de Maio de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de Maio de 2009.**
+Referendado em 4 de Maio de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 

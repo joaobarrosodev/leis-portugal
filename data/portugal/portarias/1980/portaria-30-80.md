@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/01/01600/00440046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/30-1980-692382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba923edb415b48ebae04f0361bc3288e6b35a20a8f7372fd6227521881d0a0da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b6fe0e3211cccc62e90aee26cfdf384685cbabf7a894ffebfa9964bb8754342
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Batata
+- Comércio
+- Cooperação Agrícola
+- Direcção Geral de Protecção da Produção Agrícola
+- Fundo Regional de Regularização de Preços da Batata
+- Importação
+- Junta Nacional das Frutas
+- Produção Agrícola
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:459033:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581999:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:692576:por
+  label: Rectificada pela DECL.DD6688.25.01.1980.PCM, DR.IS [29] de 04.02.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-692576
+  date: '1980-01-25'
+- type: repealed_by
+  target: pt:dre:459033:por
+  label: "Revogada pela PORT.1019/80.28.11.1980.MAP, DR.IS [276] de 28.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1019-1980-459033
+  date: '1980-11-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:51Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +177,7 @@ c) O disposto nas alíneas anteriores não é aplicável quando for determinado 
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/01600/00440046.pdf))](https://files.diariodarepublica.pt/1s/1980/01/01600/00440046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/01/01600/00440046.pdf)
 
 2 - Nos documentos de venda de batata-semente nacional ao revendedor-retalhista deverá obrigatoriamente constar o preço de aquisição à cooperativa produtora de batata-semente.
 
@@ -152,7 +187,7 @@ QUADRO I
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/01600/00440046.pdf))](https://files.diariodarepublica.pt/1s/1980/01/01600/00440046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/01/01600/00440046.pdf)
 
 2 - O preço de venda ao agricultor da batata-semente importada será o que resultar do acréscimo da respectiva margem de comercialização sobre o preço CIF liner terms, convertido em escudos e adicionado do respectivo diferencial.
 

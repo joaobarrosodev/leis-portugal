@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/197a00/26942698.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/144/1996/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1996-401914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f22b89e4cca9da9398df53f78728e806dde069787436d47a67b723fa15bbcd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ce445877206c8d984db10664fdf3c43a8fa8b0faa466ee4dc0148fd76ebe2b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Fundação para a Ciência e a Tecnologia
-- Ministro da Ciência e da Tecnologia
+- Academia das Ciências de Lisboa
+- Auditoria Jurídica
+- Centro Científico e Cultural de Macau
 - Comissão Permanente da Invotan
 - Conselho Superior de Ciência e Tecnologia
 - Extinção de Serviços
-- Secretaria Geral
+- Fundação para a Ciência e a Tecnologia
 - Gabinete Coordenador da Política Científica e Tecnológica
 - Instituto de Cooperação Científica e Tecnológica Internacional
-- Instituto Tecnológico e Nuclear
-- Ministério da Ciência e da Tecnologia
-- Centro Científico e Cultural de Macau
 - Instituto de Investigação Científica e Tropical
-- Auditoria Jurídica
-- Orgânica
+- Instituto Tecnológico e Nuclear
 - Jnict
-- Quadro de Pessoal
-- Academia das Ciências de Lisboa
+- Ministério da Ciência e da Tecnologia
+- Ministro da Ciência e da Tecnologia
 - Observatório das Ciências e das Tecnologias
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Secretaria Geral
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
@@ -91,6 +91,14 @@ relationships:
   target: pt:dre:657223:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Alterada a orgânica pelo Dec Lei 120/2002 de 03-Mai, DR.IS-A [102], nos termos do seu art 20º, determinando-se a\
+    \ transição para o Ministério da Ciência e do Ensino Superior dos serviços e organismos compreendidos no agora extinto\
+    \ Ministério da Ciência e da Tecnologia, com excepção do Gabinete de Gestão e Intervenção Operacional para a Sociedade\
+    \ da Informação que transita para a Presidência do Conselho de Ministros\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/1994/07/22/p/dre
   label: null
@@ -103,16 +111,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/296-a/1995/11/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/296-a/1995/11/17/p/dre
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610444:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:657223:por
+  label: "Revogado pelo DEC LEI.205/2002.2002.10.07.MCES DR.IS-A [132], determinando a extinção do Gabinete Coordenador de\
+    \ Política Científica e Tecnológica, do Instituto de Cooperação Científica e Tecnológica Internacional, o Observatório\
+    \ da Ciência e das Tecnologias, da Auditoria Jurídica e da Secretaria Geral do ex-Ministério da Ciência e da Tecnologia\
+    \ e do Conselho Superior da Ciência e da Tecnologia\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2002-657223
+  date: '2002-10-07'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:12Z'
   warnings: []
   errors: []
 ---
@@ -371,7 +407,7 @@ b) Sem prejuízo das habilitações legais, para a carreira e categoria que inte
 
 ###### Artigo 18.º — Concessão de apoios
 
-**O Ministro da Ciência e da Tecnologia pode, por despacho, prestar apoio material e financeiro a entidades públicas, privadas e cooperativas que desenvolvam actividade nas áreas da ciência e da tecnologia.**
+O Ministro da Ciência e da Tecnologia pode, por despacho, prestar apoio material e financeiro a entidades públicas, privadas e cooperativas que desenvolvam actividade nas áreas da ciência e da tecnologia.
 
 ###### Artigo 19.º — Referências legais
 
@@ -389,18 +425,18 @@ b) Sem prejuízo das habilitações legais, para a carreira e categoria que inte
 
 Visto e aprovado em Conselhos de Ministros de 5 de Junho de 1996. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 8 de Agosto de 1996.**
+Promulgado em 8 de Agosto de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Agosto de 1996.**
+Referendado em 12 de Agosto de 1996.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.
 
 MAPA
 
 (a que se refere o n.º 3 do artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/197a00/26942698.pdf))](https://files.diariodarepublica.pt/1s/1996/08/197a00/26942698.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/197a00/26942698.pdf)

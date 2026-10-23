@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/37/2012/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/37-2012-552537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9667bf9b72bc572dd5fdcbc6d478f6b492f0939990b17287871adedff6062d55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c35cbee45cccd68d8c986dbaf333cc1e8fcb18ea1694ef136fac20272009a810
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,63 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário Geral Adjunto
-- Pessoal Dirigente
 - Definição de Competências
-- Secretaria Geral
 - Ministério das Finanças
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Secretaria Geral
 - Secretário Geral
+- Secretário Geral Adjunto
 relationships:
 - type: amended_by
   target: pt:dre:870757938:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Determinado, nos termos do disposto no art. 19º da Lei 66-B/2012, a transição das atribuições nos domínios da gestão\
+    \ dos recursos humanos, financeiros e patrimoniais do Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais\
+    \ (GPEARI), da Inspeção-Geral de Finanças (IGF), da Direção-Geral do Orçamento (DGO), da DGTF e da Direção-Geral da Administração\
+    \ e do Emprego Público (DGAEP), da Direção Geral da Administração e do Emprego Público (DGAEP) para a Secretaria-Geral\
+    \ do Ministério das Finanças; assim como o exercício pelo Secretário-Geral do Ministério das Finanças, durante o ano de\
+    \ 2013, das competências elencadas no nº 2 do referido art. 19º, relativamente àqueles serviços; a criação, no âmbito\
+    \ da Secretaria-Geral, de um mapa de pessoal único que integra os trabalhadores pertencentes aos referidos serviços; e\
+    \ determinado ainda, nos termos do disposto no art. 20º do mesmo diploma, a transferência para a Secretaria-Geral do MF\
+    \ da competência de gestão do orçamento dos gabinetes dos membros do Governo do Ministério das Finanças, sem prejuízo\
+    \ das competências próprias dos membros do Governo e respectivos chefes de gabinete, relativas à gestão do mesmo, pela\
+    \ LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Determinada a manutenção na Secretaria-Geral do Ministério das Finanças (SGMF), cuja orgânica consta do presente\
+    \ diploma, das atribuições nos domínios da gestão dos recursos humanos, financeiros e patrimoniais do Gabinete de Planeamento,\
+    \ Estratégia, Avaliação e Relações Internacionais (GPEARI), da IGF, da Direção-Geral do Orçamento (DGO), da DGTF e da\
+    \ Direção-Geral da Administração e do Emprego Público (DGAEP), a fusão no orçamento da SGMF dos orçamentos dos mesmos\
+    \ serviços, integrando a entidade contabilística «Gestão Administrativa e Financeira do Ministério das Finanças» bem como\
+    \ a transferência da competência de gestão dos orçamentos dos gabinetes do Ministério das Finanças para a mesma Secretaria-Geral,\
+    \ pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Determinada a manutenção na Secretaria-Geral do Ministério das Finanças (SGMF), cuja orgânica consta do presente
+    diploma, das atribuições nos domínios da gestão dos recursos humanos, financeiros e patrimoniais do Gabinete de Planeamento,
+    Estratégia, Avaliação e Relações Internacionais (GPEARI), da IGF, da Direção-Geral do Orçamento (DGO), da DGTF e da Direção-Geral
+    da Administração e do Emprego Público (DGAEP), a fusão no orçamento da SGMF dos orçamentos dos mesmos serviços, integrando
+    a entidade contabilística «Gestão Administrativa e Financeira do Ministério das Finanças» bem como a transferência da
+    competência de gestão dos orçamentos dos gabinetes do Ministério das Finanças para a mesma Secretaria-Geral, pelo(a) Lei
+    n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pelo Ministro de Estado e das Finanças a direção
+    sobre a Secretaria-Geral do Ministério das Finanças pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024,
+    Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117/2011/12/15/p/dre
   label: null
@@ -90,16 +134,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:145590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:870757938:por
+  label: Revogado pelo(a) Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02
+    nos termos do artigo 17.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-b-2024-870757938
+  date: '2024-07-02'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:05Z'
   warnings: []
   errors: []
 ---
@@ -202,18 +264,18 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 23 de fevereiro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.
 
-**Promulgado em 28 de março de 2012.**
+Promulgado em 28 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de abril de 2012.**
+Referendado em 4 de abril de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 8.º)
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/07100/0178401785.pdf))](https://files.diariodarepublica.pt/1s/2012/04/07100/0178401785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/07100/0178401785.pdf)

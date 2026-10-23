@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21600-1965-511068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:07:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fae16a4488f686295a26e0dc89be0ff25264b867b169047f015f8263a36b6727
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f50c9ac00555b57b54d72ce10ab1fe0cfac1243f8bd507f45ab35af0e5c0bb0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:07:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511067:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:07:40Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +104,7 @@ Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Prev
 
 1.º Os artigos 9.º, 21.º, 40.º, 43.º, § 1.º, 55.º, 85.º e 86.º da [Portaria n.º 17367](https://diariodarepublica.pt/dr/detalhe/portaria/17367-1959-429411), de 23 de Setembro de 1959, passam a ter a seguinte redacção:
 
-###### Art. 9.º O presidente da Corporação é eleito pelo conselho da Corporação de entre os indivíduos de mais de 35 anos que sejam sócios dos organismos corporativos primários das actividades representadas, exerçam ou tenham exercido funções directivas nesses mesmos organismos, suas federações ou uniões, bem como os representantes no conselho das actividades não organizadas, e reúnam os requisitos indicados nos n.os 1.º e 3.º a 5.º do artigo 15.º
+Art. 9.º O presidente da Corporação é eleito pelo conselho da Corporação de entre os indivíduos de mais de 35 anos que sejam sócios dos organismos corporativos primários das actividades representadas, exerçam ou tenham exercido funções directivas nesses mesmos organismos, suas federações ou uniões, bem como os representantes no conselho das actividades não organizadas, e reúnam os requisitos indicados nos n.os 1.º e 3.º a 5.º do artigo 15.º
 
 § 1.º Tratando-se de sociedades, a designação apenas poderá recair nos sócios destas com poderes de administração ou gerência.
 
@@ -96,50 +112,50 @@ Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Prev
 
 ...
 
-###### Art. 21.º A eleição dos representantes da Corporação à Câmara Corporativa efectuar-se-á até ao sexto dia após o da sessão a que se refere o artigo anterior.
+Art. 21.º A eleição dos representantes da Corporação à Câmara Corporativa efectuar-se-á até ao sexto dia após o da sessão a que se refere o artigo anterior.
 
 ...
 
-###### Art. 40.º Os representantes dos organismos corporativos em cada conselho de secção serão eleitos pelo conselho da Corporação de entre os indivíduos que sejam sócios dos organismos corporativos primários das actividades representadas, exerçam ou tenham exercido funções directivas nesses mesmos organismos, suas federações ou uniões e reúnam os requisitos a que se referem os n.os 1.º a 5.º do artigo 15.º
+Art. 40.º Os representantes dos organismos corporativos em cada conselho de secção serão eleitos pelo conselho da Corporação de entre os indivíduos que sejam sócios dos organismos corporativos primários das actividades representadas, exerçam ou tenham exercido funções directivas nesses mesmos organismos, suas federações ou uniões e reúnam os requisitos a que se referem os n.os 1.º a 5.º do artigo 15.º
 
 § único. Tratando-se de sociedades, aplicar-se-á o disposto no § 1.º do artigo 9.º
 
 ...
 
-###### Art. 43.º ...
+Art. 43.º ...
 
 § 1.º As comissões serão presididas pelo vice-presidente ou pela pessoa em que este delegar.
 
 ...
 
-###### Art. 55.º A junta disciplinar é constituída por um juiz, designado nos termos da base x da [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331), o qual presidirá, e, em representação paritária, por dois vogais, eleitos, para cada secção, pelo conselho da Corporação, de entre os indivíduos com capacidade para serem membros das secções, mas que não façam parte do conselho da respectiva secção.
+Art. 55.º A junta disciplinar é constituída por um juiz, designado nos termos da base x da [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331), o qual presidirá, e, em representação paritária, por dois vogais, eleitos, para cada secção, pelo conselho da Corporação, de entre os indivíduos com capacidade para serem membros das secções, mas que não façam parte do conselho da respectiva secção.
 
 § único. ...
 
 ...
 
-###### Art. 85.º ...
+Art. 85.º ...
 
 § 1.º Os organismos primários que se encontrem em regime de comissão directiva ou administrativa não podem designar representantes seus à Corporação.
 
 § 2.º Os organismos secundários que se encontrem em regime de comissão directiva ou administrativa poderão designar representantes seus à Corporação, mas estes serão necessàriamente escolhidos em reunião dos presidentes dos organismos primários respectivos que tenham sido eleitos para os seus cargos.
 
-###### Art. 86.º O presidente da Corporação e os vice-presidentes dos conselhos das secções podem ser eleitos para dois mandatos consecutivos.
+Art. 86.º O presidente da Corporação e os vice-presidentes dos conselhos das secções podem ser eleitos para dois mandatos consecutivos.
 
 2.º De harmonia com o disposto nos artigos 1.º e 3.º do [Decreto n.º 46608](https://diariodarepublica.pt/dr/detalhe/decreto/46608-1965-511067), de 23 de Outubro de 1965, que deram nova redacção, respectivamente, ao corpo dos artigos 12.º e 17.º e 23.º do [Decreto n.º 41875](https://diariodarepublica.pt/dr/detalhe/decreto/41875-1958-338215), de 23 de Setembro de 1958, passam a ter a seguinte redacção o corpo dos artigos 12.º e 38.º e o artigo 50.º da [Portaria n.º 17367](https://diariodarepublica.pt/dr/detalhe/portaria/17367-1959-429411), de 23 de Setembro de 1959:
 
-###### Art. 12.º O conselho da Corporação é composto pelo presidente da Corporação e por representantes dos organismos que a constituem, e nele têm assento, com voto meramente consultivo, os antigos presidentes da Corporação e os presidentes ou directores dos organismos a que se refere o artigo 7.º
+Art. 12.º O conselho da Corporação é composto pelo presidente da Corporação e por representantes dos organismos que a constituem, e nele têm assento, com voto meramente consultivo, os antigos presidentes da Corporação e os presidentes ou directores dos organismos a que se refere o artigo 7.º
 
 § único. ...
 
 ...
 
-###### Art. 38.º Cada uma das secções a que se refere o artigo 6.º terá um conselho, que será presidido pelo presidente da Corporação e do qual farão parte, paritàriamente, representantes das entidades patronais e dos trabalhadores.
+Art. 38.º Cada uma das secções a que se refere o artigo 6.º terá um conselho, que será presidido pelo presidente da Corporação e do qual farão parte, paritàriamente, representantes das entidades patronais e dos trabalhadores.
 
 § único. ...
 
 ...
 
-###### Art. 50.º A direcção da Corporação é composta pelo presidente da Corporação, pelo vice-presidente por ele designado de entre os vice-presidentes dos conselhos das secções e por seis vogais, eleitos pelo conselho da Corporação de entre os seus membros com voto deliberativo, devendo três dos vogais ser escolhidos de entre os representantes dos trabalhadores.
+Art. 50.º A direcção da Corporação é composta pelo presidente da Corporação, pelo vice-presidente por ele designado de entre os vice-presidentes dos conselhos das secções e por seis vogais, eleitos pelo conselho da Corporação de entre os seus membros com voto deliberativo, devendo três dos vogais ser escolhidos de entre os representantes dos trabalhadores.
 
 Ministério das Corporações e Previdência Social, 23 de Outubro de 1965. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença.

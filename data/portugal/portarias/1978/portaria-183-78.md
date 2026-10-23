@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/183-1978-446938
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:34:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa81f15877fa57913698d5f8525555e90eca6a5f86a4f83c8532fb54aaea17d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4cad44afd1a2676dc679d8d28ecb658b500d6ec2aec5477d57a4296fb2b10fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:34:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Regional de Turismo
+- Quadro de Pessoal
+- Região de Turismo da Serra da Estrela
+- Serra da Estrela
 relationships:
 - type: amended_by
   target: pt:dre:393048:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:383254:por
+  label: Alterada, com efeitos desde 01.06.1978, a remuneração do chefe de secretaria do quadro de pessoal da Comissão Regional
+    de Turismo da Serra da Estrela pela PORT.274/79.11.06.1979.PCM, DR.IS [134] de 11.06.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/274-1979-383254
+  date: '1979-06-11'
+- type: amended_by
+  target: pt:dre:393048:por
+  label: "Substituido o quadro de pessoal pela PORT.448/82.1982.04.30.PCM DR.IS [100]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/448-1982-393048
+  date: '1982-04-30'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653691:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:34:29Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +116,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Comércio e Turismo, 
 
 É aprovado o novo quadro de pessoal da Comissão Regional de Turismo da Serra da Estrela, o qual passa a ter a seguinte constituição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/07800/06230623.pdf))](https://files.diariodarepublica.pt/1s/1978/04/07800/06230623.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/07800/06230623.pdf)
 
 Nota. - O provimento dos lugares previstos no quadro objecto da presente portaria far-se-á no respeito pelas regras legais constantes do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 

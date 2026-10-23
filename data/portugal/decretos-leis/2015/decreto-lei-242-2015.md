@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20200/0898109000.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/242/2015/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2015-70693924
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19fcdae96dfea14e1b8bbc7552183be38299f6f29ac9c15ee78f705f3b21313b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f1d7a88d2165c21d6eee7524d4a57a63570314f7cd20cf259877674cde8444b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
 - Contra-ordenação
 - Definição de Competências
-- Estratégia Nacional de Conservação da Natureza e da Biodiversidade
-- Fundo para a Conservação da Natureza e da Biodiversidade
-- Proteção do Ambiente
 - Diversidade Biológica
 - Espécie Protegida
-- Zona de Proteção
-- Protecção do Património
+- Estratégia Nacional de Conservação da Natureza e da Biodiversidade
+- Fundo para a Conservação da Natureza e da Biodiversidade
 - Património Natural
-- Sistema Nacional de Áreas Classificadas
-- Sistema Nacional de Áreas Protegidas
-- Regime Jurídico
-- Reserva Natural
+- Proteção do Ambiente
+- Protecção do Património
 - Rede Fundamental de Conservação da Natureza
 - Rede Natura 2000
+- Regime Jurídico
+- Reserva Natural
+- Sistema Nacional de Áreas Classificadas
+- Sistema Nacional de Áreas Protegidas
+- Vida Selvagem
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:207272800:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:207272800:por
+  label: Alterado, com efeitos a 01.03.2023, o art. 23.º-B do Dec Lei 142/2008 de 24-jul, republicado pelo presente diploma,
+    pelo(a) Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2023-207272800
+  date: '2023-02-10'
 - type: cites
   target: celex:31979L0409
   label: null
@@ -152,16 +158,148 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/41/1999/05/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/41/1999/05/17/p/dre
+- type: cites
+  target: pt:dre:140853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
 article_structure:
-  article_count: 76
+  article_count: 63
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:06Z'
   warnings: []
   errors: []
 ---
@@ -214,7 +352,9 @@ Os artigos 2.º, 8.º, 13.º a 16.º, 22.º, 23.º, 27.º e 43.º a 45.º do [De
 
 2 - O disposto no presente decreto-lei não prejudica a aplicação de regimes especiais, designadamente os relativos à classificação e gestão de áreas marinhas protegidas para além do mar territorial, à reserva ecológica nacional, ao domínio público hídrico, à reserva agrícola nacional e aos recursos florestais, fitogenéticos, agrícolas, cinegéticos, pesqueiros e aquícolas das águas interiores.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Sem prejuízo das competências próprias de outras entidades públicas que concorrem para a conservação da natureza e da biodiversidade, cabe:
 
@@ -224,7 +364,9 @@ b) [...]
 
 c) [...].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...].
 
@@ -240,7 +382,9 @@ c) [...].
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -268,7 +412,9 @@ d) As ações, atos e atividades interditas ou condicionadas a autorização da 
 
 9 - O decurso do prazo de suspensão dos planos territoriais de âmbito intermunicipal ou municipal e de aplicação de medidas preventivas não determina a caducidade da classificação da área protegida.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - As comunidades intermunicipais, as associações de municípios e os municípios podem classificar áreas protegidas de âmbito regional ou local, nos termos previstos nos números seguintes.
 
@@ -292,7 +438,9 @@ d) As ações, atos e atividades interditas ou condicionadas a autorização da 
 
 11 - (Anterior n.º 6.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -306,7 +454,9 @@ c) A regulamentação das atividades permitidas, condicionadas ou proibidas, con
 
 d) [...].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
@@ -320,7 +470,9 @@ a) [Anterior alínea a) do n.º 3];
 
 b) [Anterior alínea b) do n.º 3].
 
-###### Artigo 23.º — Programas especiais das áreas protegidas
+Artigo 23.º
+
+Programas especiais das áreas protegidas
 
 1 - Os parques nacionais, os parques naturais de âmbito nacional e as reservas naturais e paisagens protegidas de âmbito nacional dispõem obrigatoriamente de um programa especial.
 
@@ -338,7 +490,9 @@ b) [Anterior alínea b) do n.º 3].
 
 8 - O regulamento de gestão da área protegida contém normas jurídicas gerais e abstratas que, no exercício de poderes jurídico-administrativos, visam produzir efeitos jurídicos externos, aplicando-se-lhe, nomeadamente, o regime previsto no Código do Procedimento Administrativo.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...].
 
@@ -346,7 +500,9 @@ b) [Anterior alínea b) do n.º 3].
 
 3 - Quando as áreas previstas no presente artigo coincidam com áreas protegidas de âmbito nacional, regional ou local, é-lhes aplicável o regime constante dos respetivos atos de classificação ou programas especiais de áreas protegidas, quando existentes.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Constitui contraordenação ambiental muito grave, punível nos termos da [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto, a prática dos seguintes atos e atividades quando previstos como proibidos ou interditos nos regulamentos de gestão das áreas protegidas:
 
@@ -444,7 +600,9 @@ n) A utilização da marca «Natural.PT», sem estar devidamente registado e cre
 
 7 - As contraordenações resultantes da violação das normas dos programas especiais relativas à transformação, uso e ocupação do solo com incidência urbanística integradas nos planos territoriais de âmbito intermunicipal e municipal são consideradas contraordenações do ordenamento do território sendo-lhes aplicável o regime previsto nos artigos 40.º-A a 40.º-D da [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...].
 
@@ -452,7 +610,9 @@ n) A utilização da marca «Natural.PT», sem estar devidamente registado e cre
 
 3 - A prática das ações referidas no n.º 1 não constitui contraordenação desde que autorizada pela autoridade nacional.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - [...].
 
@@ -478,7 +638,9 @@ Marcas associadas ao Sistema Nacional de Áreas Classificadas e sinalização
 
 3 - A sinalização para efeitos de identificação e informação relativa às áreas classificadas dentro dos seus limites territoriais consta de modelos próprios, a aprovar por portaria do membro do Governo responsável pela área da conservação da natureza.
 
-###### Artigo 23.º-A — Áreas sujeitas a regimes de proteção
+Artigo 23.º-A
+
+Áreas sujeitas a regimes de proteção
 
 1 - O regime de proteção de cada área protegida é definido de acordo com a importância dos valores e recursos naturais presentes e a respetiva sensibilidade ecológica, podendo ser delimitadas na planta de síntese do programa especial:
 
@@ -492,7 +654,9 @@ c) Áreas de proteção complementar - as quais correspondem a espaços que esta
 
 3 - A delimitação dos regimes de proteção previstos nos números anteriores deve fazer-se tendo em conta as construções existentes e direitos juridicamente consolidados, sem prejuízo do dever de indemnização sempre que tal não seja possível.
 
-###### Artigo 23.º-B — Atividades condicionadas
+Artigo 23.º-B
+
+Atividades condicionadas
 
 1 - Os programas especiais das áreas protegidas podem sujeitar a execução de determinadas ações, atos ou atividades a parecer prévio vinculativo ou autorização da autoridade nacional.
 
@@ -528,15 +692,15 @@ São revogadas a alínea b) do n.º 3 do artigo 14.º, o artigo 24.º, as alíne
 
 Visto e aprovado em Conselho de Ministros de 13 de agosto de 2015. - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Anabela Maria Pinto de Miranda Rodrigues - Paula Maria von Hafe Teixeira da Cruz - Leonardo Bandeira de Melo Mathias - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 9 de outubro de 2015.**
+Promulgado em 9 de outubro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de outubro de 2015.**
+Referendado em 12 de outubro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/222/2008/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2008-439846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 313e1f7c9979e987ed2bfdddb7c89829960600d330e2f39efcb241e561094b3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23e7184b26fa54afe45883901a292f53dadcab9074c4bb993fd22a5cfc93ea02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
+- Administração Regional de Saúde
 - Ambiente de Trabalho
 - Aprendizagem Profissional
 - Aproximação das Legislações
-- Investigação Científica e Tecnológica
-- Medicina Privada
-- Radiactividade
-- Radioprotecção
-- Administração Regional de Saúde
-- Direcção Regional de Economia
+- Atividade Industrial
+- Condições de Higiene e Segurança no Trabalho
 - Controlo Sanitário
-- Saúde Pública
+- Direcção Regional de Economia
+- Ensino
 - Especificação Técnica
 - Estudante
 - Fiscalização
 - Instituto Tecnológico e Nuclear
+- Investigação Científica e Tecnológica
+- Medicina Privada
 - Normas de Segurança
-- Zona de Proteção
 - Posto de Trabalho
-- Ensino
-- Condições de Higiene e Segurança no Trabalho
+- Radiactividade
+- Radioprotecção
+- Saúde Pública
 - Unidade de Saúde Pública
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:204379871:por
@@ -102,16 +102,22 @@ relationships:
   target: celex:31997L0043
   label: null
   source: http://data.europa.eu/eli/dir/1997/43/oj
+- type: repealed_by
+  target: pt:dre:117202785:por
+  label: Revogado, a partir de 02.04.2019, pelo(a) Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de
+    2018-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:58Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +166,7 @@ Para efeitos do presente decreto-lei, entende-se por:
 
 a) «Dose absorvida» (D) a energia absorvida por unidade de massa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
 
 i) Dose absorvida designa a dose média num tecido ou num órgão;
 
@@ -172,7 +178,7 @@ c) «Fontes artificiais» as fontes de radiação diferentes das fontes de radia
 
 d) «Dose efectiva comprometida» [E((tau))] a soma das doses equivalentes resultantes nos tecidos ou órgãos [H(índice T)((tau))] decorrentes de uma incorporação, cada uma delas multiplicada pelo factor de ponderação tecidular W(índice T) adequado, definida pela fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
 
 i) Em E((tau)), (tau) representa o número de anos em que se faz a integração;
 
@@ -180,7 +186,7 @@ ii) A unidade de dose efectiva comprometida é o Sievert;
 
 e) «Dose equivalente comprometida» [H(índice T)T((tau))] o integral, em função do tempo (t), do débito de dose equivalente no tecido ou órgão T que é recebida por um indivíduo, em resultado de uma incorporação, definida por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
 
 i) Em H(índice T)T((tau)) (t) é dado em anos;
 
@@ -194,7 +200,7 @@ g) «Limites de dose» as referências máximas fixadas para as doses resultante
 
 h) «Dose efectiva» (E) a soma das doses equivalentes ponderadas em todos os tecidos e órgãos do corpo especificados no anexo i do presente decreto-lei, do qual faz integrante, resultante de irradiação interna e externa, e que é definida pela fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
 
 i) Os valores de W(índice T) e W(índice R) adequados são especificados no anexo i do presente decreto-lei, do qual faz integrante;
 
@@ -208,7 +214,7 @@ em que D(índice T,R) é a dose absorvida média no tecido ou órgão T, em resu
 
 i) Quando o campo de radiação é composto por tipos e energias com valores diferentes de W(índice R), a dose equivalente total H(índice T) é definida por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
 
 ii) Os valores apropriados de W(índice R) são especificados no anexo i do presente decreto-lei, do qual faz integrante;
 
@@ -504,15 +510,15 @@ O presente decreto-lei entra em vigor 120 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 2008. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Pedro Manuel Dias de Jesus Marques - Ana Maria Teodoro Jorge - Manuel Frederico Tojal de Valsassina Heitor.
 
-**Promulgado em 17 de Outubro de 2008.**
+Promulgado em 17 de Outubro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de Outubro de 2008.**
+Referendado em 21 de Outubro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — A - Definição de grandezas e conceitos
 
@@ -528,15 +534,15 @@ Fluência (Fi): o quociente de dN por da, em que dN é o número de partículas 
 
 (Fi) = dN/da
 
-Factor de qualidade médio [([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf): valor médio do factor de qualidade num ponto do tecido quando a dose absorvida é libertada por partículas com diferentes valores de L. É calculado segundo a fórmula:
+Factor de qualidade médio [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf): valor médio do factor de qualidade num ponto do tecido quando a dose absorvida é libertada por partículas com diferentes valores de L. É calculado segundo a fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
 
 Tabela 1
 
 Relação entre o factor de qualidade, Q(L), e a transferência linear de energia não restrita, L
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
 
 Equivalente de dose individual H(índice p)(d): o equivalente de dose em tecidos moles, a uma profundidade adequada d, abaixo de um ponto especifico do corpo. A designação especifica da unidade de equivalente de dose individual é o Sievert (Sv).
 
@@ -548,13 +554,13 @@ Tabela 2
 
 Factor de ponderação da radiação para diferentes tipos de radiação e gamas de energia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
 
 Quando o campo de radiação é constituído por tipos e energias com valores de w(índice R) diferentes, a dose absorvida deve ser subdividida em blocos, cada um com o seu valor de w(índice R) e adicionados a fim de se obter o valor total da dose equivalente. Em alternativa, pode ser expressa como uma distribuição contínua de energia, em que cada elemento de dose absorvida a partir do elemento de energia entre E e E+dE é multiplicado pelo valor do w(índice R) correspondente.
 
 Em cálculos que envolvam neutrões, podem surgir dificuldades com a aplicação de valores de função degrau. Nestes casos, será talvez preferível utilizar a função continua definida pela seguinte relação matemática:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
 
 A figura 1 fornece uma comparação directa dos dois métodos.
 
@@ -562,7 +568,7 @@ Figura 1
 
 Factores de ponderação da radiação para os neutrões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
 
 A curva deve ser entendida como uma aproximação.
 
@@ -576,7 +582,7 @@ Tabela 3
 
 Factores de ponderação tecidular para diferentes tecidos ou órgãos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
 
 Os valores foram obtidos a partir de uma população de referência constituída por igual número de indivíduos de ambos os sexos e de um vasto leque etário. Na definição de dose efectiva, estes factores são aplicáveis aos trabalhadores, a membros do público e a ambos os sexos.
 
@@ -614,7 +620,7 @@ No presente decreto-lei, a menos que devidamente especificado, os requisitos em 
 
 Em geral, a dose efectiva E recebida por um indivíduo no grupo etário g será determinada de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
 
 Com excepção da descendência do radão e do torão, os valores da dose efectiva comprometida por unidade de incorporação, para a ingestão e para a inalação, são dados para membros do público, bem como para os aprendizes e estudantes na faixa etária entre os 16 e os 18 anos de idade nas tabelas A e B do anexo ii.
 
@@ -636,4 +642,4 @@ Radão-222 no local de trabalho - 0,5.
 
 Energia alfa potencial (da descendência de radão e do torão): a energia alfa total final emitida durante a desintegração da descendência do radão e do torão ao longo da cadeia de desintegração até, mas excluindo o Pb-210, para a descendência do Rn-222 e até ao Pb-208 para a descendência do Rn-220. A unidade é o J (Joule). Para a exposição a uma dada concentração por um determinado período a unidade é J.h.m(elevado a -3).
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22300/0800008076.pdf)

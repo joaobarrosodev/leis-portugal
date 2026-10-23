@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/190-1982-396694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T07:17:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90966d0fe12c6f54c89b475bb9f36b0dfe29f451b12b07e8dfdb456499db6b20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b691908fd8f9f4516086c775e48c5bbf39f6e5f3d30e0a3d9d91beeb09d06fbc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:17:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cereal
+- EPAC
+- Fixação de Preços
+- Preço
+- Preço de Intervenção
 relationships:
 - type: amended_by
   target: pt:dre:454860:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:454860:por
+  label: "Alterados os nºs. 1.º, 11.º, 14.º e 17.º pelo DN.168/83.09.08.1983.MFP, DR.IS [189] de 18.08.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/168-1983-454860
+  date: '1983-08-09'
+- type: cites
+  target: pt:dre:311784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656378:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:375178:por
+  label: Rectificado pela DECL.DD6068.14.09.1982.PCM, DR.IS [222] de 24.09.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-375178
+  date: '1982-09-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:17:40Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +136,7 @@ A - Trigo, centeio, triticale, cevada forrageira e aveia
 
 1.º Os preços de intervenção para o trigo, centeio, triticale, cevada forrageira e aveia para a campanha de produção de 1982-1983 a praticar pela EPAC são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/08/19900/25322534.pdf))](https://files.diariodarepublica.pt/1s/1982/08/19900/25322534.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/19900/25322534.pdf)
 
 2.º O trigo mole tipo I integra o cereal proveniente de semente certificada das variedades Campodoro, Impeto, Mara, Nazareno Strampelli e Anza e de searas devidamente verificadas pelos serviços regionais de agricultura ou da EPAC.
 
@@ -123,7 +150,7 @@ O trigo mole tipo II integra o cereal proveniente de todas as restantes variedad
 
 6.º As qualidades tipo correspondentes aos preços de intervenção aplicam-se aos cereais isentos de cheiros estranhos, de depredadores vivos, com coloração própria e as seguintes características:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/08/19900/25322534.pdf))](https://files.diariodarepublica.pt/1s/1982/08/19900/25322534.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/19900/25322534.pdf)
 
 7.º As bonificações e depreciações a aplicar aos cereais cuja qualidade se afasta da qualidade tipo definida no n.º 6.º são as seguintes:
 
@@ -149,7 +176,7 @@ e) Aveia: superior a 49 kg/hl até 62 kg/hl;
 
 8.º Todo o cereal da produção nacional que não apresente uma qualidade mínima não terá acesso ao regime de preços de intervenção. As características definidas para a qualidade mínima são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/08/19900/25322534.pdf))](https://files.diariodarepublica.pt/1s/1982/08/19900/25322534.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/19900/25322534.pdf)
 
 9.º Os cereais cujas características excedam as tolerâncias estabelecidas para a «qualidade mínima» serão classificados de «qualidade inferior», podendo ser recebidos pela EPAC, segundo condições a fixar.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/20600/0003200037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/77/2024/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2024-892301178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88c75bc3f0f2897361e34983bcfee96d921ba555b2e97fe7eb16d4a97d1709e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a9b37b287ed05bb76711b391d523a0cf6a9afab38b4f109e52e4d31a743272b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,93 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Multimunicipal de Abastecimento de Água do Sul do Grande Porto
+- Abastecimento de Água
 - Água
-- Saneamento Básico
 - Contrato de Concessão
 - Preço
-- Abastecimento de Água
-- Sistema Multimunicipal de Saneamento do Grande Porto
-- Tratamento de ÁGUA
-- SISTEMA MULTIMUNICIPAL DE ABASTECIMENTO DE ÁGUA E DE SANEAMENTO DO NORTE DE PORTUGAL
+- Saneamento Básico
+- Sistema Multimunicipal de Abastecimento de Água do Sul do Grande Porto
 - SISTEMA MULTIMUNICIPAL DE ABASTECIMENTO DE ÁGUA E DE SANEAMENTO DE LISBOA E VALE DO TEJO
 - Sistema Multimunicipal de Abastecimento de Água e de Saneamento do Algarve
 - Sistema Multimunicipal de Abastecimento de Água e de Saneamento do Centro Litoral de Portugal
+- SISTEMA MULTIMUNICIPAL DE ABASTECIMENTO DE ÁGUA E DE SANEAMENTO DO NORTE DE PORTUGAL
+- Sistema Multimunicipal de Saneamento do Grande Porto
+- Tratamento de ÁGUA
 relationships:
 - type: amended_by
   target: pt:dre:932837041:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:932837041:por
+  label: Mantida a vigência, no ano de 2025, das tarifas, rendimentos tarifários e demais valores cobrados definidos para
+    2024 pelo presente diploma e aplicados aos utilizadores municipais, utilizadores finais e clientes dos sistemas multimunicipais
+    de abastecimento de água e de saneamento do Centro Litoral de Portugal, do Norte de Portugal e do Vale do Tejo, do sistema
+    multimunicipal de abastecimento de água do sul do Grande Porto, do sistema multimunicipal de saneamento do Grande Porto
+    e do sistema multimunicipal de abastecimento de água e de saneamento do Algarve, pelo(a) Decreto-Lei n.º 97/2025 - Diário
+    da República n.º 160/2025, Série I de 2025-08-21 nos termos dos n.ºs 3 e 4 do artigo 2.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2025-932837041
+  date: '2025-08-21'
+- type: amends
+  target: pt:numero:lei:10/2014
+  label: Altera, a partir de 28 de outubro de 2024, o artigo 37.º e repristina o artigo 5.º e as disposições originárias da
+    alínea a) do artigo 11.º e do n.º 1 do artigo 13.º dos Estatutos da Entidade Reguladora dos Serviços de Águas e Resíduos,
+    aprovados em anexo à Lei n.º 10/2014, de 6 de março, Diário da República n.º 46/2014, Série I, bem como repristina as
+    disposições originárias do n.º 2 do artigo 7.º daquela Lei
+  source: null
+  date: '2014-03-06'
+- type: amends
+  target: pt:numero:decreto-lei:92/2015
+  label: Mantém vigentes, no ano de 2024, com efeitos a 1 de janeiro de 2024, nos termos do artigo 2.º do presente diploma,
+    as tarifas, os rendimentos tarifários e demais valores cobrados nos termos dos contratos de concessão, aplicados em 2023,
+    aos utilizadores municipais, utilizadores finais e clientes do sistema multimunicipal de abastecimento de água e de saneamento
+    do Centro Litoral de Portugal, criado através do Decreto-Lei n.º 92/2015, de 29 de maio, Diário da República n.º 104/2015,
+    Série I
+  source: null
+  date: '2015-05-29'
+- type: amends
+  target: pt:numero:decreto-lei:93/2015
+  label: Mantém vigentes, no ano de 2024, com efeitos a 1 de janeiro de 2024, nos termos do artigo 2.º do presente diploma,
+    as tarifas, os rendimentos tarifários e demais valores cobrados nos termos dos contratos de concessão, aplicados em 2023,
+    aos utilizadores municipais, utilizadores finais e clientes do sistema multimunicipal de abastecimento de água e de saneamento
+    do Norte de Portugal, criado através do Decreto-Lei n.º 93/2015, de 29 de maio, Diário da República n.º 104/2015, Série
+    I
+  source: null
+  date: '2015-05-29'
+- type: amends
+  target: pt:numero:decreto-lei:94/2015
+  label: Mantém vigentes, no ano de 2024, com efeitos a 1 de janeiro de 2024, nos termos dos artigos 2.º e 3.º do presente
+    diploma, as tarifas, os rendimentos tarifários e demais valores cobrados nos termos dos contratos de concessão, aplicados
+    em 2023, aos utilizadores municipais, utilizadores finais e clientes do sistema multimunicipal de abastecimento de água
+    e de saneamento do Vale do Tejo, bem como a componente tarifária acrescida e as tarifas a que se referem os n.ºs 3 e 4
+    do artigo 36.º e previstas nos anexos iv e v do Decreto-Lei n.º 94/2015, de 29 de maio, Diário da República n.º 104/2015,
+    Série I
+  source: null
+  date: '2015-05-29'
+- type: amends
+  target: pt:numero:decreto-lei:16/2017
+  label: Mantém vigentes, no ano de 2024, com efeitos a 1 de janeiro de 2024, nos termos dos artigos 2.º e 3.º do presente
+    diploma, as tarifas, os rendimentos tarifários e demais valores cobrados nos termos dos contratos de concessão, aplicados
+    em 2023, aos utilizadores municipais, utilizadores finais e clientes do sistema multimunicipal de abastecimento de água
+    e de saneamento do sul do Grande Porto e do Sistema multimunicipal de saneamento do Grande Porto, bem como a componente
+    tarifária acrescida, criados através do Decreto-Lei n.º 16/2017, de 1 de fevereiro, Diário da República n.º 23/2017, Série
+    I
+  source: null
+  date: '2017-02-01'
+- type: amends
+  target: pt:numero:decreto-lei:93/2019
+  label: Mantém vigentes, no ano de 2024, com efeitos a 1 de janeiro de 2024, nos termos do artigo 2.º do presente diploma,
+    as tarifas, os rendimentos tarifários e demais valores cobrados nos termos dos contratos de concessão, aplicados em 2023,
+    aos utilizadores municipais, utilizadores finais e clientes do sistema multimunicipal de abastecimento de água e de saneamento
+    do Algarve, criado através do Decreto-Lei n.º 93/2019, de 15 de julho, Diário da República n.º 133/2019, Série I
+  source: null
+  date: '2019-07-15'
+- type: amends
+  target: pt:numero:decreto-lei:16/2021
+  label: Altera, a partir de 28 de outubro de 2024, o artigo 8.º do Decreto-Lei n.º 16/2021, de 24 de fevereiro, Diário da
+    República n.º 38/2021, Série I
+  source: null
+  date: '2021-02-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/2021/12/30/p/dre
   label: null
@@ -123,16 +193,71 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75/2013/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75/2013/09/12/p/dre
+- type: cites
+  target: pt:dre:106380302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106654350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123166491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158238385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176800373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205493468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348947:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:lei:10/2014
+  label: Revoga as alterações (alterações ao artigo 7.º da Lei n.º 10/2014, de 6 de março, e aos artigos 5.º, 11.º e 13.º
+    dos Estatutos da Entidade Reguladora dos Serviços de Águas e Resíduos, aprovados em anexo ao mesmo diploma) introduzidas
+    pelo artigo 428.º da Lei n.º 75-B/2020, de 31 de dezembro, Diário da República n.º 253/2020, 1º Suplemento, Série I
+  source: null
+  date: '2020-12-31'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:12Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +304,7 @@ e) Sistema multimunicipal de saneamento do Grande Porto, criado através do [Dec
 
 f) Sistema multimunicipal de abastecimento de água e de saneamento do Algarve, criado através do [Decreto-Lei n.º 93/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2019-123166491), de 15 de julho.
 
-2 - O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 16/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2021-158238385), de 24 de fevereiro, alterado pelos Decretos-Leis n.<sup>os</sup>[124/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2021-176800373), de 30 de dezembro, e [87-C/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-c-2022-205493468), de 29 de dezembro, que altera o regime dos sistemas multimunicipais de recolha, tratamento e rejeição de efluentes.
+2 - O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 16/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2021-158238385), de 24 de fevereiro, alterado pelos Decretos-Leis n.os[124/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2021-176800373), de 30 de dezembro, e [87-C/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-c-2022-205493468), de 29 de dezembro, que altera o regime dos sistemas multimunicipais de recolha, tratamento e rejeição de efluentes.
 
 3 - O presente decreto-lei procede ainda à alteração dos Estatutos da Entidade Reguladora dos Serviços de Águas e Resíduos, aprovados em anexo à [Lei n.º 10/2014](https://diariodarepublica.pt/dr/detalhe/lei/10-2014-572143), de 6 de março, na sua redação atual.
 
@@ -189,13 +314,13 @@ f) Sistema multimunicipal de abastecimento de água e de saneamento do Algarve, 
 
 1 - Mantêm-se vigentes, no ano de 2024, as tarifas, os rendimentos tarifários e demais valores cobrados nos termos dos contratos de concessão, aplicados em 2023, aos utilizadores municipais, utilizadores finais e clientes dos sistemas multimunicipais de abastecimento de água e de saneamento do Centro Litoral de Portugal, do Norte de Portugal e do Vale do Tejo, do sistema multimunicipal de abastecimento de água do sul do Grande Porto, do sistema multimunicipal de saneamento do Grande Porto e do sistema multimunicipal de abastecimento de água e de saneamento do Algarve.
 
-2 - Mantêm-se vigentes, no ano de 2024, as tarifas a que se referem os n.<sup>os</sup>3 e 4 do artigo 36.º do [Decreto-Lei n.º 94/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2015-67348947), de 29 de maio, na sua redação atual, e previstas nos anexos iv e v ao referido decreto-lei, tal como aplicadas em 2023, por força do disposto no [Decreto-Lei n.º 87-C/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-c-2022-205493468), de 29 de dezembro.
+2 - Mantêm-se vigentes, no ano de 2024, as tarifas a que se referem os n.os3 e 4 do artigo 36.º do [Decreto-Lei n.º 94/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2015-67348947), de 29 de maio, na sua redação atual, e previstas nos anexos iv e v ao referido decreto-lei, tal como aplicadas em 2023, por força do disposto no [Decreto-Lei n.º 87-C/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-c-2022-205493468), de 29 de dezembro.
 
 3 - As tarifas, os rendimentos tarifários e demais valores cobrados aplicáveis em 2024, referidos nos números anteriores, são atualizados de acordo com a previsão do índice harmonizado de preços no consumidor publicado pela entidade responsável pela sua divulgação, sem prejuízo dos acertos a que seja necessário proceder anualmente nos termos previstos nos contratos de concessão.
 
 4 - Excetua-se do disposto no número anterior:
 
-a) A tarifa aplicada pela EPAL - Empresa Portuguesa das Águas Livres, S. A., nas atividades em alta ao abrigo do contrato celebrado com a Águas do Vale do Tejo, S. A., cuja atualização obedece ao regime contratualmente estabelecido e constante da nota (<sup>4</sup>) do anexo iv ao [Decreto-Lei n.º 94/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2015-67348947), de 29 de maio, na sua redação atual;
+a) A tarifa aplicada pela EPAL - Empresa Portuguesa das Águas Livres, S. A., nas atividades em alta ao abrigo do contrato celebrado com a Águas do Vale do Tejo, S. A., cuja atualização obedece ao regime contratualmente estabelecido e constante da nota (4) do anexo iv ao [Decreto-Lei n.º 94/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2015-67348947), de 29 de maio, na sua redação atual;
 
 b) As trajetórias tarifárias, as tarifas, os rendimentos tarifários e os demais valores estabelecidos nos contratos de concessão para o ano de 2024, bem como as respetivas regras de atualização, do sistema multimunicipal de saneamento de águas residuais do Tejo Atlântico e do sistema multimunicipal de saneamento da Península de Setúbal, criados através do [Decreto-Lei n.º 34/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2017-106654350), de 24 de março.
 
@@ -303,12 +428,14 @@ A Entidade Reguladora dos Serviços de Águas e Resíduos aprova os regulamentos
 
 Visto e aprovado em Conselho de Ministros de 11 de setembro de 2024. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida - Pedro Reis - Maria da Graça Carvalho.
 
-**Promulgado em 8 de outubro de 2024.**
+Promulgado em 8 de outubro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de outubro de 2024.**
+Referendado em 14 de outubro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118254382

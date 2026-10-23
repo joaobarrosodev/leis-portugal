@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/08/186a00/42304232.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/210/1997/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1997-202779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:51:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96c4587b9e38b18cfdd3e6ec8bdf7ddabc9746287edb3cedd8932af3dfef04b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c09efce782d2785497a69c47aa882865f412872c1605336c1c97dc571633588
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:51:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Educação
+- Ensino Básico
 - Formação de Professores
+- Funcionário Público
 - Habilitações Literárias
 - Integração de Trabalhadores
-- Pessoal Técnico Profissional
+- Ministério da Educação
 - Pessoal Docente
-- Ensino Básico
-- Funcionário Público
+- Pessoal Técnico Profissional
 - ZONA Pedagógica
 relationships:
 - type: amended_by
   target: pt:dre:517819:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:521599:por
+  label: "Alterados os arts. 2º, 3º, 4º, 5º e 6º pelo DEC LEI.66/2000.2000.04.26.ME, DR.IS-A [97]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-2000-521599
+  date: '2000-04-26'
+- type: cites
+  target: pt:dre:370018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548826:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:517819:por
+  label: "Revogado pelo DEC LEI.43/2007.22.02.2007.ME, DR.IS [38] de 22.02.2007, sem prejuízo do disposto no art. 26º daquele\
+    \ diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-2007-517819
+  date: '2007-02-22'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:51:10Z'
   warnings: []
   errors: []
 ---

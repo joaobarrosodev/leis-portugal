@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00700/0007500084.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13/2024/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2024-836437685
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22d1615a763c7df27351001b46843c8c12c1cf379f1c50a8c30eb25455013648
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09d993369ef1b9832d1eecff1bd0687d1dcea797a18e0e4278a181f9d89e91b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,59 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regime do Contrato de Trabalho em Funções Públicas
+- Bolsa de Emprego Público
 - Carreira Geral de Assistente Operacional
 - Carreira Geral de Assistente Técnico
-- Carreira Técnica Superior
-- Instituto Nacional de Estatística
 - Carreira Profissional
-- Bolsa de Emprego Público
-- Ministério das Finanças
-- Lei Geral do Trabalho em Funções Públicas
-- Funcionário Público
+- Carreira Técnica Superior
 - Estatuto Remuneratório
+- Funcionário Público
+- Instituto Nacional de Estatística
+- Lei Geral do Trabalho em Funções Públicas
+- Ministério das Finanças
 - Plataforma eletrónica Emprego Público
+- Regime do Contrato de Trabalho em Funções Públicas
 relationships:
 - type: amended_by
   target: pt:dre:884568028:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:78/2003
+  label: Determina, a partir de 15 de janeiro de 2024, com efeitos a 1 de janeiro de 2024, nos termos do artigo 12.º do presente
+    diploma, que a plataforma eletrónica Emprego Público sucede à Bolsa de Emprego Público (BEP) criada pelo Decreto-Lei n.º
+    78/2003, de 23 de abril, Diário da República n.º 95/2003, Série I-A
+  source: null
+  date: '2003-04-23'
+- type: amends
+  target: pt:numero:lei:35/2014
+  label: Altera, a partir de 15 de janeiro de 2024, com efeitos a 1 de janeiro de 2024, nos termos do artigo 10.º do presente
+    diploma, os artigos 38.º, 39.º-B, 153.º, 162.º, 304.º, 305.º, 306.º, 331.º, 333.º e o anexo, e revoga o n.º 7 do artigo
+    38.º da Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, Diário da República
+    n.º 117/2014, Série I
+  source: null
+  date: '2014-06-20'
+- type: amends
+  target: pt:numero:decreto-lei:58/2015
+  label: Altera, a partir de 15 de janeiro de 2024, com efeitos a 1 de janeiro de 2024, nos termos do n.º 2 do artigo 4.º,
+    dos artigos 5.º e 10.º e do n.º 2 do artigo 11.º do presente diploma, o anexo i do Decreto-Lei n.º 58/2015, de 21 de abril,
+    Diário da República n.º 77/2015, Série I
+  source: null
+  date: '2015-04-21'
+- type: amends
+  target: pt:numero:decreto-lei:187/2015
+  label: Altera, a partir de 15 de janeiro de 2024, com efeitos a 1 de janeiro de 2024, nos termos do n.º 2 do artigo 6.º,
+    dos artigos 7.º e 10.º e do n.º 2 do artigo 11.º do presente diploma, o anexo i do Decreto-Lei n.º 187/2015, de 7 de setembro,
+    Diário da República n.º 174/2015, Série I
+  source: null
+  date: '2015-09-07'
+- type: amends
+  target: pt:numero:decreto-lei:84-F/2022
+  label: Altera, a partir de 15 de janeiro de 2024, com efeitos a 1 de janeiro de 2024, nos termos do n.º 2 do artigo 2.º,
+    dos artigos 3.º e 10.º e do n.º 2 do artigo 11.º do presente diploma, o anexo ii do Decreto-Lei n.º 84-F/2022, de 16 de
+    deszembro, Diário da República n.º 241/2022, 1º Suplemento, Série I
+  source: null
+  date: '2022-12-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/187/2015/09/07/p/dre
   label: null
@@ -102,16 +138,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:204916688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221029890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67040487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70196968:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
+  article_count: 14
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:47Z'
   warnings: []
   errors: []
 ---
@@ -266,7 +322,9 @@ Os artigos 38.º, 39.º-B, 153.º, 162.º, 304.º, 305.º, 306.º, 331.º e 333.
 
 11 - [...]
 
-###### Artigo 39.º-B — [...]
+Artigo 39.º-B
+
+[...]
 
 1 - [...]
 
@@ -284,7 +342,9 @@ b) Na posição remuneratória imediatamente seguinte àquela em que se encontra
 
 4 - [...]
 
-###### Artigo 153.º — [...]
+Artigo 153.º
+
+[...]
 
 1 - [...]
 
@@ -298,7 +358,9 @@ b) Na posição remuneratória imediatamente seguinte àquela em que se encontra
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 162.º — [...]
+Artigo 162.º
+
+[...]
 
 1 - A prestação de trabalho suplementar até 100 horas anuais confere ao trabalhador o direito aos seguintes acréscimos:
 
@@ -322,7 +384,9 @@ b) 100 % por cada hora ou fração, em dia de descanso semanal, obrigatório ou 
 
 7 - [...]
 
-###### Artigo 304.º — [...]
+Artigo 304.º
+
+[...]
 
 1 - [...]
 
@@ -332,19 +396,25 @@ b) 100 % por cada hora ou fração, em dia de descanso semanal, obrigatório ou 
 
 4 - O trabalhador a quem tenha sido reconhecido o estatuto de vítima de violência doméstica, nos termos da legislação específica, fica dispensado do cumprimento do aviso prévio previsto nos números anteriores.
 
-###### Artigo 305.º — [...]
+Artigo 305.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - O trabalhador a quem tenha sido reconhecido o estatuto de vítima de violência doméstica, nos termos da legislação específica, fica dispensado do cumprimento do aviso prévio.
 
-###### Artigo 306.º — [...]
+Artigo 306.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - O disposto no número anterior não é aplicável ao trabalhador a quem tenha sido reconhecido o estatuto de vítima de violência doméstica, nos termos de legislação específica.
 
-###### Artigo 331.º — [...]
+Artigo 331.º
+
+[...]
 
 1 - [...]
 
@@ -360,7 +430,9 @@ b) 100 % por cada hora ou fração, em dia de descanso semanal, obrigatório ou 
 
 7 - Para efeitos dos n.os 2 a 5, pode ser exigida a exibição de original ou documento autenticado, quando haja dúvidas fundadas acerca do conteúdo ou autenticidade da cópia simples, devendo para o efeito ser fixado um prazo razoável não inferior a cinco dias úteis.
 
-###### Artigo 333.º — [...]
+Artigo 333.º
+
+[...]
 
 1 - Após o registo da constituição da comissão de trabalhadores e da aprovação dos estatutos ou das suas alterações, o ministério responsável pela área da Administração Pública remete, no prazo de oito dias, a contar da publicação, cópias das atas do apuramento global e das mesas de voto, dos documentos de registo dos votantes, dos estatutos aprovados ou alterados e do requerimento de registo, bem como a apreciação fundamentada sobre a legalidade da constituição da comissão de trabalhadores e dos estatutos ou das suas alterações, ao magistrado do Ministério Público da área da sede do respetivo órgão ou serviço.
 
@@ -426,15 +498,15 @@ O presente decreto-lei produz efeitos a 1 de janeiro de 2024.
 
 Visto e aprovado em Conselho de Ministros de 29 de novembro de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
 
-**Promulgado em 5 de janeiro de 2024.**
+Promulgado em 5 de janeiro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de janeiro de 2024.**
+Referendado em 8 de janeiro de 2024.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
 
@@ -486,12 +558,14 @@ Estrutura da carreira de técnico superior especialista em estatística do Insti
 
 [...]
 
-|  |  |  |  |  |
+| Carreira | Categoria | Conteúdo funcional | Grau de complexidade<br>funcional | Número de posições<br>remuneratórias |
 | --- | --- | --- | --- | --- |
-| Carreira | Categoria | Conteúdo funcional | Grau de complexidade funcional | Número de posições remuneratórias |
+|  |  |  |  |  |
 | Técnico superior... | [...] | [...] | [...] | 11 |
 | Assistente técnico... | [...] | [...] | [...] | [...] |
-| Assistente técnico... | [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] | [...] |  |
 | Assistente operacional... | [...] | [...] | [...] | [...] |
-| Assistente operacional... | [...] | [...] | [...] | [...] |
-| Assistente operacional... | [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] | [...] |  |
+| [...] | [...] | [...] | [...] |  |
+
+117230306

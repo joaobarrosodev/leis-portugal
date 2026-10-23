@@ -47,40 +47,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1977-281379
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e7d4cd32ac1cfd4e7d6049a722ecc9b223088b896a55d0486452029ce3f639e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb42a963d01b702e1f2ed61fceb53fa7817fffd76dd136e2435afc15324df9f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Administração Geral das Pescas
+- Direcção Geral da Extensão Rural
+- Direcção Geral da Investigação e Protecção dos Recursos Vivos e do Ambiente Aquático
+- Direcção Geral das Indústrias Agrícolas Alimentares
+- Direcção Geral das Pescas
+- Direcção Geral de Hidráulica e Engenharia Agrícola
+- Direcção Geral de Protecção da Produção Agrícola
+- Direcção Geral do Fomento Florestal
+- Direcção Geral do Ordenamento e Gestão Florestal
+- Direcção Geral do Planeamento e Fomento das Pescas
+- Direcção Geral dos Recursos Florestais
+- Direcção Geral dos Serviços Agrícolas
+- Direcção Geral dos Serviços Pecuários
+- Direcção Geral dos Serviços Veterinários
+- Fundo de Fomento Florestal
+- Gabinete de Coordenação das Pescas
+- Instituto de Gestão e Estruturação Fundiária
+- Instituto de Reorganização Agrária
+- Instituto Nacional de Investigação Agrária
+- Instituto Português de Conservas de Peixe
+- Ministério da Agricultura e Pescas
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:393804:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1226515:por
+  label: Determinada a passagem da Fábrica e Extracção e Refinação de Óleos Vegetais e de Rações - FORE, designação única
+    adoptada pelo DM DD201, de 03-Set 1975, para a dependência da Direcção-Geral das Indústrias Agrícolas Alimentares, pelo
+    DESP.DD4231.07.04.1978.MAP, DR.IIS [81] de 07.04.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1978-1226515
+  date: '1978-04-07'
+- type: amended_by
+  target: pt:dre:393804:por
+  label: "Determinada a transição para a Direcção-Geral da Extensão Rural dos Serviços de Agricultura Grupo, integrados no\
+    \ Instituto de Gestão e Estruturação Fundiária pelo presente diploma, pelo DR.4/79.28.02.1979.MAP, DR.IS [49] de 28.02.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-1979-393804
+  date: '1979-02-28'
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278241:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:446526:por
+  label: Rectificado pela DECL.DD7588.18.02.1978.PCM, DR.IS [41] de 18.02.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-446526
+  date: '1978-02-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:54Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +144,7 @@ De acordo com o disposto no artigo 12.º, conjugado com o n.º 2 do artigo 60.º
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São extintos, a partir da data da entrada em vigor deste diploma, os organismos referidos no artigo 60.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, e seus organismos dependentes.
+Artigo 1.º - 1 - São extintos, a partir da data da entrada em vigor deste diploma, os organismos referidos no artigo 60.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, e seus organismos dependentes.
 
 2 - Exceptua-se do disposto no número anterior a Escola Profissional de Pesca de Lisboa, que manterá as atribuições, organização, competências e regime de pessoal consignados no [Decreto-Lei n.º 407/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1977-278241), de 26 de Setembro, até à publicação do diploma orgânico da Direcção-Geral das Pescas, ficando desde já na sua dependência.
 
@@ -109,11 +158,11 @@ b) Praticar todos os actos necessários ao arrumo das suas contas.
 
 5 - A constituição das comissões liquidatárias, bem como as normas do seu funcionamento, serão definidas por despacho do Ministro da Agricultura e Pescas.
 
-###### Art. 2.º - 1 - As atribuições, competências e direitos, nomeadamente os inerentes à cobrança de receitas, conferidos por lei aos organismos mencionados no artigo anterior, passam para os novos órgãos e serviços do Ministério da Agricultura e Pescas, sem prejuízo dos especificados no [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, de conformidade com a distribuição de serviços efectuada pelos mapas I e II anexos a este diploma, que dele fazem parte integrante e até à publicação das correspondentes leis orgânicas.
+Art. 2.º - 1 - As atribuições, competências e direitos, nomeadamente os inerentes à cobrança de receitas, conferidos por lei aos organismos mencionados no artigo anterior, passam para os novos órgãos e serviços do Ministério da Agricultura e Pescas, sem prejuízo dos especificados no [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, de conformidade com a distribuição de serviços efectuada pelos mapas I e II anexos a este diploma, que dele fazem parte integrante e até à publicação das correspondentes leis orgânicas.
 
 2 - As receitas próprias, incluindo os activos financeiros, dos fundos referidos no artigo 59.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, serão geridas nas condições indicadas naquele mesmo artigo.
 
-###### Art. 3.º - 1 - Até à publicação do diploma referido no artigo 48.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, o funcionamento dos novos órgãos e serviços será assegurado pelos funcionários e agentes dos organismos extintos, os quais manterão os direitos, deveres e regalias dos serviços de origem, nomeadamente no que respeita à natureza do vínculo, designação funcional e letra de vencimento.
+Art. 3.º - 1 - Até à publicação do diploma referido no artigo 48.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, o funcionamento dos novos órgãos e serviços será assegurado pelos funcionários e agentes dos organismos extintos, os quais manterão os direitos, deveres e regalias dos serviços de origem, nomeadamente no que respeita à natureza do vínculo, designação funcional e letra de vencimento.
 
 2 - As remunerações do pessoal a que se refere o número anterior serão satisfeitas pelas dotações consignadas aos organismos mencionados no n.º 1 do artigo 1.º
 
@@ -121,53 +170,53 @@ b) Praticar todos os actos necessários ao arrumo das suas contas.
 
 4 - O pessoal dos Serviços do Associativismo Agrícola do Instituto de Reorganização Agrária passa para o Instituto de Gestão e Estruturação Fundiária.
 
-###### Art. 4.º Os móveis, utensílios, máquinas e viaturas com e sem motor e demais equipamentos, bem como toda a documentação dos organismos extintos, transitam, na data da entrada em vigor deste diploma, para os novos órgãos e serviços, mediante relações de cadastro devidamente discriminadas, assinadas e autenticadas em conformidade com a distribuição de serviços efectuada pelo mapa anexo a este diploma, salvo os respeitantes às inspecções técnicas e ou administrativas, que transitarão para a Secretaria-Geral.
+Art. 4.º Os móveis, utensílios, máquinas e viaturas com e sem motor e demais equipamentos, bem como toda a documentação dos organismos extintos, transitam, na data da entrada em vigor deste diploma, para os novos órgãos e serviços, mediante relações de cadastro devidamente discriminadas, assinadas e autenticadas em conformidade com a distribuição de serviços efectuada pelo mapa anexo a este diploma, salvo os respeitantes às inspecções técnicas e ou administrativas, que transitarão para a Secretaria-Geral.
 
-###### Art. 5.º - 1 - As disponibilidades apuradas nas verbas atribuídas aos organismos extintos serão afectas, na data da entrada em vigor deste diploma, aos novos órgãos e serviços, nos termos do artigo 66.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, e sem quaisquer outras formalidades, em conformidade com a distribuição de serviços constante dos mapas I e II anexos.
+Art. 5.º - 1 - As disponibilidades apuradas nas verbas atribuídas aos organismos extintos serão afectas, na data da entrada em vigor deste diploma, aos novos órgãos e serviços, nos termos do artigo 66.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, e sem quaisquer outras formalidades, em conformidade com a distribuição de serviços constante dos mapas I e II anexos.
 
 2 - A liquidação das despesas relativas ao corrente ano, efectuadas pelos organismos extintos e ainda não processadas na data da sua extinção, será feita de conta das dotações que lhes estavam consignadas.
 
-###### Art. 6.º - 1 - Os organismos dotados de autonomia administrativa, agora extintos, deverão elaborar as suas contas de gerência e remetê-las ao Tribunal de Contas, para julgamento, dentro dos prazos marcados por lei, mantendo-se em exercício, para este efeito, as correspondentes comissões ou conselhos administrativos, sem prejuízo do disposto no artigo 55.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
+Art. 6.º - 1 - Os organismos dotados de autonomia administrativa, agora extintos, deverão elaborar as suas contas de gerência e remetê-las ao Tribunal de Contas, para julgamento, dentro dos prazos marcados por lei, mantendo-se em exercício, para este efeito, as correspondentes comissões ou conselhos administrativos, sem prejuízo do disposto no artigo 55.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
 
 2 - Os novos órgãos e serviços assumirão, transitoriamente, a partir da data da extinção dos organismos referidos no número anterior, a gestão financeira das dotações que lhes estavam consignadas, devendo o respectivo dirigente propor, de imediato, a constituição da competente comissão administrativa, que se manterá em exercício de funções até à publicação do respectivo diploma orgânico.
 
-###### Art. 7.º - 1 - O Instituto Nacional de Investigação Agrária é dotado, até à publicação do seu diploma orgânico, de autonomia administrativa.
+Art. 7.º - 1 - O Instituto Nacional de Investigação Agrária é dotado, até à publicação do seu diploma orgânico, de autonomia administrativa.
 
 2 - O Instituto proporá ao Ministro da Agricultura e Pescas a constituição do respectivo conselho administrativo provisório.
 
-###### Art. 8.º - 1 - O Instituto Português de Conservas de Peixe, organismo dotado de autonomia administrativa e financeira, continuará a funcionar de acordo com a actual legislação até à publicação do seu novo diploma orgânico.
+Art. 8.º - 1 - O Instituto Português de Conservas de Peixe, organismo dotado de autonomia administrativa e financeira, continuará a funcionar de acordo com a actual legislação até à publicação do seu novo diploma orgânico.
 
 2 - A partir de 1 de Janeiro do próximo ano o Instituto levantará os fundos que lhe forem atribuídos no Orçamento Geral do Estado, mediante requisições a remeter à Delegação da Contabilidade Pública que funciona junto do Ministério da Agricultura e Pescas.
 
 3 - As dúvidas surgidas na aplicação das actuais disposições legais por que se rege o Instituto serão resolvidas por despacho do Ministro da Agricultura e Pescas, com o acordo do Ministro das Finanças, sempre que envolvam matéria financeira.
 
-###### Art. 9.º No Orçamento Geral do Estado para o ano de 1978 serão inscritas as dotações necessárias ao funcionamento dos novos órgãos e serviços, independentemente da publicação dos seus diplomas orgânicos.
+Art. 9.º No Orçamento Geral do Estado para o ano de 1978 serão inscritas as dotações necessárias ao funcionamento dos novos órgãos e serviços, independentemente da publicação dos seus diplomas orgânicos.
 
-###### Art. 10.º A área de influência dos actuais órgãos e serviços regionais agora extintos deverá ser ajustada às áreas das novas regiões agrárias, de acordo com as delimitações definidas em diploma legal.
+Art. 10.º A área de influência dos actuais órgãos e serviços regionais agora extintos deverá ser ajustada às áreas das novas regiões agrárias, de acordo com as delimitações definidas em diploma legal.
 
-###### Art. 11.º - 1 - O Instituto Nacional de Investigação Agrária manterá em funcionamento no Laboratório Nacional de Investigação Veterinária, no Laboratório de Estudos de Nutrição Animal e no Centro Nacional de Estudos e Fomento da Fruticultura, e nas actuais condições quanto a pessoal e material, os projectos de investigação em curso.
+Art. 11.º - 1 - O Instituto Nacional de Investigação Agrária manterá em funcionamento no Laboratório Nacional de Investigação Veterinária, no Laboratório de Estudos de Nutrição Animal e no Centro Nacional de Estudos e Fomento da Fruticultura, e nas actuais condições quanto a pessoal e material, os projectos de investigação em curso.
 
 2 - A criação e desenvolvimento de novos projectos de investigação a realizar pelo Instituto Nacional de Investigação Agrária no Laboratório Nacional de Investigação Veterinária, no Laboratório de Estudos de Nutrição Animal e no Centro Nacional de Estudos e Fomento da Fruticultura serão objecto de protocolo a acordar entre o Instituto de Investigação Agrária e os serviços nos quais estes organismos são integrados.
 
-###### Art. 12.º Os serviços periféricos do Ministério nas regiões autónomas mantêm, até à definição dos modos de funcionamento e tutela, a sua actual estrutura e ficam dependentes das novas direcções-gerais, de acordo com o mapa II anexo.
+Art. 12.º Os serviços periféricos do Ministério nas regiões autónomas mantêm, até à definição dos modos de funcionamento e tutela, a sua actual estrutura e ficam dependentes das novas direcções-gerais, de acordo com o mapa II anexo.
 
-###### Art. 13.º Todas as herdades e outros prédios que fazem parte do património do Ministério da Agricultura e Pescas ou que por ele estejam sendo administrados serão afectos às direcções regionais sob cuja área de influência se situem, com excepção dos expressamente referidos nos mapas I e II anexos.
+Art. 13.º Todas as herdades e outros prédios que fazem parte do património do Ministério da Agricultura e Pescas ou que por ele estejam sendo administrados serão afectos às direcções regionais sob cuja área de influência se situem, com excepção dos expressamente referidos nos mapas I e II anexos.
 
-###### Art. 14.º As atribuições e competências dos órgãos e serviços indicados no mapa III não são transferidas para nenhum dos novos organismos do Ministério da Agricultura e Pescas.
+Art. 14.º As atribuições e competências dos órgãos e serviços indicados no mapa III não são transferidas para nenhum dos novos organismos do Ministério da Agricultura e Pescas.
 
-###### Art. 15.º A parte residual dos actuais serviços não mencionada nos mapas anexos I, II e III deste decreto transita para a Secretaria-Geral e Inspecção-Geral Técnica e Administrativa, respectivamente nos sectores administrativo e técnico, podendo, logo que considerado oportuno, ser redistribuída, se for caso disso.
+Art. 15.º A parte residual dos actuais serviços não mencionada nos mapas anexos I, II e III deste decreto transita para a Secretaria-Geral e Inspecção-Geral Técnica e Administrativa, respectivamente nos sectores administrativo e técnico, podendo, logo que considerado oportuno, ser redistribuída, se for caso disso.
 
-###### Art. 16.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas com o acordo do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
+Art. 16.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas com o acordo do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 17.º Este diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+Art. 17.º Este diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - António Miguel Morais Barreto.
 
-**Promulgado em 15 de Novembro de 1977.**
+Promulgado em 15 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa I a que se referem os artigos 2.º e 5.º
 
@@ -859,4 +908,4 @@ b) O Conselho Administrativo;
 
 c) A Comissão Consultiva.
 
-**O Ministro da Agricultura e Pescas, António Miguel Morais Barreto.**
+O Ministro da Agricultura e Pescas, António Miguel Morais Barreto.

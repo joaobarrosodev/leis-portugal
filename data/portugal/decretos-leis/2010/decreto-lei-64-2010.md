@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/64/2010/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2010-335450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06903b1a949e17e8b27605b01f1c50d60a2be61b1deaf47c2d3d660ff4d2a223
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6ecb80b85098acfe014a515cf6f5f6298b0b1041268b237021f242429241c26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,16 @@ reuse:
 subjects:
 - Análise Laboratorial
 - Aproximação das Legislações
-- Indústria Farmacêutica
-- Saúde Pública
+- Comércio
 - Fabrico Industrial
 - Fiscalização
+- Indústria Farmacêutica
 - Medicamento
 - Medicamento Genérico
 - Normas de Segurança
 - Produto Farmacêutico
 - Proteção do Consumidor
-- Comércio
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:123962150:por
@@ -122,14 +122,14 @@ relationships:
   source: http://data.dre.pt/eli/dec-lei/176/2006/08/30/p/dre
 article_structure:
   article_count: 3
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:39Z'
   warnings: []
   errors: []
 ---
@@ -166,15 +166,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - Pedro Manuel Carqueijeiro Lourtie - Fernando Teixeira dos Santos - José Manuel Santos de Magalhães - Fernando Medina Maciel Almeida Correia - Valter Victorino Lemos - Ana Maria Teodoro Jorge - Maria Isabel Girão de Melo Veiga Vilar.
 
-**Promulgado em 19 de Maio de 2010.**
+Promulgado em 19 de Maio de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de Maio de 2010.**
+Referendado em 20 de Maio de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -182,7 +182,7 @@ Visto e aprovado em Conselho de Ministros de 1 de Abril de 2010. - José Sócrat
 
 Normas e protocolos analíticos, farmacotoxicológicos e clínicos em matéria de ensaios de medicamentos
 
-# PARTE IV — Medicamentos de terapia avançada
+## PARTE IV — Medicamentos de terapia avançada
 
 1 - Introdução. - Os pedidos de autorização de introdução no mercado relativos a medicamentos de terapia avançada, tal como definidos na alínea a) do n.º 1 do artigo 2.º do Regulamento (CE) n.º [1394/2007](https://data.europa.eu/eli/reg/2007/1394/oj?locale=pt), devem respeitar os requisitos de apresentação (módulos 1, 2, 3, 4 e 5) descritos na parte i do presente anexo.
 

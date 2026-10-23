@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/04/07600/0217802181.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/52/2019/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f297a73db0fd8923c9fcb1f45c776f9e4efaada17c348d266fd551bf8ab699f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00f4f49d32475b088ec37991dfc71f03b0f3278e12d7810dbaed804acf5be625
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Insolvência
-- Liquidação Judicial
-- Fiscal Único
+- Administrador da Insolvência
+- Agente de Execução
 - Cobrança
-- Multa
 - Comissão de Acompanhamento
 - Comissão de Fiscalização
+- Comissão para o Acompanhamento dos Auxiliares da Justiça
+- Conselho Consultivo
 - Contra-ordenação
 - Definição de Competências
-- Estatuto
-- Processo Disciplinar
-- Exame
-- Fiscalização
-- Lisboa
-- Conselho Consultivo
-- Página na Internet
 - Estágio de Formação
-- Recuperação de Empresas
+- Estatuto
+- Exame
 - Execução por Dívidas
+- Fiscal Único
+- Fiscalização
+- Insolvência
+- Liquidação Judicial
+- Lisboa
+- Multa
+- Página na Internet
+- Processo Disciplinar
+- Recuperação de Empresas
 - Regulamento
 - Remuneração
 - Segredo de Justiça
-- Administrador da Insolvência
-- Agente de Execução
 - Taxa
-- Comissão para o Acompanhamento dos Auxiliares da Justiça
 relationships:
 - type: amended_by
   target: pt:dre:858631716:por
@@ -133,16 +133,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2018/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2018/03/02/p/dre
+- type: cites
+  target: pt:dre:107014810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107596684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114749189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114796178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114796179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:21Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +225,9 @@ Os artigos 2.º, 6.º, 7.º, 9.º, 16.º, 17.º, 19.º, 21.º, 23.º, 28.º e 29
 
 2 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -201,7 +239,9 @@ Os artigos 2.º, 6.º, 7.º, 9.º, 16.º, 17.º, 19.º, 21.º, 23.º, 28.º e 29
 
 5 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -213,7 +253,9 @@ Os artigos 2.º, 6.º, 7.º, 9.º, 16.º, 17.º, 19.º, 21.º, 23.º, 28.º e 29
 
 5 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -223,7 +265,9 @@ Os artigos 2.º, 6.º, 7.º, 9.º, 16.º, 17.º, 19.º, 21.º, 23.º, 28.º e 29
 
 4 - Os resultados do exame e a lista de classificação dos candidatos a administrador judicial são publicados na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt, no prazo de 10 dias após a realização do exame.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -237,7 +281,9 @@ Os artigos 2.º, 6.º, 7.º, 9.º, 16.º, 17.º, 19.º, 21.º, 23.º, 28.º e 29
 
 6 - [...].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -245,7 +291,9 @@ Os artigos 2.º, 6.º, 7.º, 9.º, 16.º, 17.º, 19.º, 21.º, 23.º, 28.º e 29
 
 3 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - A entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais pode, por deliberação fundamentada, instaurar processo de contraordenação, aplicando-se, neste caso, as sanções previstas nos números seguintes.
 
@@ -257,13 +305,17 @@ Os artigos 2.º, 6.º, 7.º, 9.º, 16.º, 17.º, 19.º, 21.º, 23.º, 28.º e 29
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...].
 
 2 - O juiz, os credores, o devedor e o Ministério Público devem ainda comunicar à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais a violação reiterada por parte destes de quaisquer outros deveres a que os mesmos estejam sujeitos no âmbito do processo especial de revitalização, do processo especial para acordo de pagamento ou do processo de insolvência, para eventual instauração de processo disciplinar ou de processo de contraordenação.
 
-###### Artigo 23.º — Remuneração do administrador judicial nomeado por iniciativa do juiz
+Artigo 23.º
+
+Remuneração do administrador judicial nomeado por iniciativa do juiz
 
 1 - O administrador judicial provisório em processo especial de revitalização ou em processo especial para acordo de pagamento ou o administrador da insolvência em processo de insolvência nomeado por iniciativa do juiz tem direito a ser remunerado pelos atos praticados, de acordo com o montante estabelecido em portaria dos membros do Governo responsáveis pelas áreas das finanças, da justiça e da economia.
 
@@ -279,13 +331,17 @@ Os artigos 2.º, 6.º, 7.º, 9.º, 16.º, 17.º, 19.º, 21.º, 23.º, 28.º e 29
 
 7 - À remuneração devida ao administrador judicial comum para os devedores que se encontrem em situação de relação de domínio ou de grupo, nomeado nos termos do disposto no n.º 6 do artigo 52.º do Código da Insolvência e da Recuperação de Empresas, aplica-se o limite referido no número anterior acrescido de (euro) 10 000 por cada um dos devedores do mesmo grupo.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - No caso de as quantias objeto de cessão serem inferiores a (euro) 3 000 por ano, a remuneração é fixada pelo juiz com o limite máximo de (euro) 300.
 
-###### Artigo 29.º — Pagamento da remuneração do administrador judicial
+Artigo 29.º
+
+Pagamento da remuneração do administrador judicial
 
 1 - [...].
 
@@ -331,7 +387,9 @@ Remuneração do administrador judicial com funções de apreciação de crédit
 
 2 - Sem prejuízo do disposto no número anterior, ponderados o volume e número de créditos apreciados, o juiz pode ainda fixar uma remuneração variável.
 
-###### Artigo 28.º-A — Remuneração do administrador judicial provisório em processo de suprimento judicial da deliberação de conversão de créditos em capital
+Artigo 28.º-A
+
+Remuneração do administrador judicial provisório em processo de suprimento judicial da deliberação de conversão de créditos em capital
 
 1 - O administrador judicial provisório nomeado nos termos do disposto no n.º 2 do artigo 5.º da [Lei n.º 7/2018](https://diariodarepublica.pt/dr/detalhe/lei/7-2018-114796178), de 2 de março, aufere uma remuneração fixa em montante estabelecido na portaria a que se refere o n.º 1 do artigo 23.º
 
@@ -361,12 +419,14 @@ Cobrança coerciva de taxas e coimas
 
 Visto e aprovado em Conselho de Ministros de 21 de março de 2019. - Augusto Ernesto Santos Silva - Francisca Eugénia da Silva Dias Van Dunem.
 
-**Promulgado em 8 de abril de 2019.**
+Promulgado em 8 de abril de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de abril de 2019.**
+Referendado em 12 de abril de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112228476

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/134/1999/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/134-1999-534630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:29:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6a6d4c29ce217cc06c2588880fb61f3cb91d4e8a418cdf75e297c6ccdfd2e72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc9b798d8c6132ac0f5819c067072fc050e356e4e64da42c6630e53584b40b6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:29:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Unesco
 - Convenção
-- Portugal
 - Direito de Autor
 - Macau
 - Paris
-relationships: []
+- Portugal
+- Unesco
+relationships:
+- type: cites
+  target: pt:dre:430030:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:29:48Z'
   warnings: []
   errors: []
 ---
@@ -91,14 +95,14 @@ validation:
 
 de 22 de Abril
 
-**O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:
 
 É estendida ao território de Macau, nos mesmos termos em que a ela está vinculado o Estado Português, a Convenção Universal sobre o Direito de Autor, de 6 de Setembro de 1952, tal como revista pelo Acto de Paris de 24 de Julho de 1971, aprovada pelo [Decreto n.º 140-A/79](https://diariodarepublica.pt/dr/detalhe/decreto/140-a-1979-430030), de 26 de Dezembro, cujo texto foi publicado no Diário da República, 1.ª série, de 26 de Dezembro de 1979.
 
 Foram ouvidos os órgãos de governo próprios do território de Macau.
 
-**Assinado em 15 de Abril de 1999.**
+Assinado em 15 de Abril de 1999.
 
-**Publique-se no Boletim Oficial de Macau, em conjunto com os referidos decreto de aprovação e texto da Convenção.**
+Publique-se no Boletim Oficial de Macau, em conjunto com os referidos decreto de aprovação e texto da Convenção.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

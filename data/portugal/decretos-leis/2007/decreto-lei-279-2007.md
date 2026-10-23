@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/08/15000/0504005042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/279/2007/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-2007-637229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e71cbfb1bc1602736031e3c5413d66a800ff12afeb06924a7951d3b8bf963eac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1b08fca30f3cf56aff26dda169d5de132eb82c0add7aef7a32a18c086361997
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Qualidade do AR
+- Açores
+- Agência Portuguesa do Ambiente
 - Comissão de Coordenação e Desenvolvimento Regional
+- Departamento de Prospectiva Planeamento e Relações Internacionais
 - Madeira.região Autónoma
+- Poluição
 - Qualidade de VIDA
 - Qualidade do Ambiente
-- Poluição
-- Açores
-- Departamento de Prospectiva Planeamento e Relações Internacionais
-- Agência Portuguesa do Ambiente
+- Qualidade do AR
+- Região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:106982550:por
@@ -86,16 +86,21 @@ relationships:
   target: celex:31996L0062
   label: null
   source: http://data.europa.eu/eli/dir/1996/62/oj
+- type: repealed_by
+  target: pt:dre:342123:por
+  label: "Revogado, a partir de 28.09.2010, pelo DEC LEI.102/2010.23.09.2010.MAOT, DR.IS [186] de 23.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2010-342123
+  date: '2010-09-23'
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:17Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +149,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 6 -...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 Após a publicação das portarias previstas no artigo 4.º, o DPPRI, com base na informação para o efeito disponibilizada pela Agência Portuguesa do Ambiente, transmite à Comissão da União Europeia:
 
@@ -202,7 +209,9 @@ Aprovação dos planos de melhoria da qualidade do ar
 
 Os planos de melhoria da qualidade do ar elaborados pelas CCDR em cumprimento do disposto no n.º 3 do artigo anterior são, após audição das entidades envolvidas, submetidos à tutela para aprovação através de portaria conjunta dos membros do Governo responsáveis pelas áreas do ambiente, das autarquias locais e pelas áreas de execução das medidas neles previstas.
 
-###### Artigo 9.º-B — Programas de execução dos planos de melhoria da qualidade do ar
+Artigo 9.º-B
+
+Programas de execução dos planos de melhoria da qualidade do ar
 
 1 - No prazo máximo de seis meses a contar da publicação da portaria referida no artigo anterior, a CCDR apresenta uma proposta de programa de execução do respectivo plano de melhoria da qualidade do ar, competindo-lhe:
 
@@ -220,7 +229,9 @@ d) Avaliar os resultados obtidos e, caso necessário, reavaliar as medidas em cu
 
 4 - Sempre que necessário, a CCDR pode solicitar a participação da Agência Portuguesa do Ambiente de modo a assegurar a articulação com as entidades responsáveis por políticas e medidas de nível nacional.
 
-###### Artigo 9.º-C — Aprovação dos programas de execução
+Artigo 9.º-C
+
+Aprovação dos programas de execução
 
 1 - As propostas de programas de execução referidas no artigo anterior são submetidas pela CCDR à tutela, sendo tais programas aprovados por despacho conjunto dos membros do Governo responsáveis pela área do ambiente e pelas áreas de execução das medidas neles previstas.
 
@@ -238,12 +249,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Maio de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Francisco Carlos da Graça Nunes Correia.
 
-**Promulgado em 10 de Julho de 2007.**
+Promulgado em 10 de Julho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Julho de 2007.**
+Referendado em 16 de Julho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

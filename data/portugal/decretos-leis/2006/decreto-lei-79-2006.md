@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/79/2006/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2006-672459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08bdcc2fa6b48bf8ba0fcb8b428af07c66c4c455a9618b57215178e8d0dcc383
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de7a6a99c4d9290f5c051e2db5ad6ec2aefbce86b7a0eab24fb29e889e831b2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aproximação das Legislações
-- Qualidade do AR
-- Multa
-- Contra-ordenação
-- Climatização
-- Regulamento dos Sistemas Energéticos de Climatização em Edifícios
-- Política Energética
-- Especificação Técnica
-- Certificação Energética dos Edifícios
-- Licenciamento
-- Poupança de Energia
-- Madeira.região Autónoma
-- Regulamento
-- Habitação
-- Sanção
 - Açores
-- Prédio Urbano
+- Aproximação das Legislações
+- Certificação Energética dos Edifícios
+- Climatização
+- Contra-ordenação
 - Eficiência Energética
+- Especificação Técnica
+- Habitação
+- Licenciamento
+- Madeira.região Autónoma
+- Multa
+- Política Energética
+- Poupança de Energia
+- Prédio Urbano
+- Qualidade do AR
+- Regulamento
+- Regulamento dos Sistemas Energéticos de Climatização em Edifícios
+- Sanção
 relationships:
 - type: amended_by
   target: pt:dre:499237:por
@@ -92,16 +92,22 @@ relationships:
   target: celex:32002L0091
   label: null
   source: http://data.europa.eu/eli/dir/2002/91/oj
+- type: repealed_by
+  target: pt:dre:499237:por
+  label: "Revogado, a partir de 01.12.2013, pelo DEC LEI.118/2013.20.08.2013.MEE, DR.IS [159] de 20.08.2013, sem prejuízo\
+    \ do disposto nas als. d) e f) do n.º 2 do art. 54.º deste\0e\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-2013-499237
+  date: '2013-08-20'
 article_structure:
   article_count: 41
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:19Z'
   warnings: []
   errors: []
 ---
@@ -188,15 +194,15 @@ O presente decreto-lei entra em vigor 90 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia - António Fernando Correia de Campos.
 
-**Promulgado em 5 de Março de 2006.**
+Promulgado em 5 de Março de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Março de 2006.**
+Referendado em 6 de Março de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 REGULAMENTO DOS SISTEMAS ENERGÉTICOS DE CLIMATIZAÇÃO EM EDIFÍCIOS
 
@@ -896,25 +902,25 @@ fff) Zona ocupada - espaço de uma sala onde pode ocorrer a ocupação humana, g
 
 Número mínimo de escalões das instalações de aquecimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
 
 ## ANEXO III — Espessuras mínimas de isolamento
 
 Fluido interior quente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
 
 Fluido interior frio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
 
 Condutas e acessórios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
 
 Equipamentos e depósitos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
 
 Notas
 
@@ -958,15 +964,15 @@ Em todas as novas instalações de AVAC executadas em edifícios sujeitos ao pre
 
 Para licenciamento deve ser preenchido para cada edifício um conjunto de fichas conforme o modelo anexo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
 
 ## ANEXO VI — Caudais mínimos de ar novo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
 
 ## ANEXO VII — Concentrações máximas de referência de poluentes no interior dos edifícios existentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
 
 ## ANEXO VIII — Métodos de previsão de consumo de energia
 
@@ -992,7 +998,7 @@ h) Condições climáticas interiores, incluindo as de projecto.
 
 O STE-2005 baseia-se numa simulação horária anual (oito mil setecentas e sessenta horas) de um espaço monozona representado por um circuito de analogia reo-eléctrica tal como representado no diagrama seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
 
 O programa STE-2005 calcula as necessidades de aquecimento e de arrefecimento necessárias para manter o espaço (representado por T(índice i)) à temperatura de referência definida pelo RSECE para as estações de aquecimento e de arrefecimento, conforme apropriado. T(índice m) representa a temperatura média da massa térmica do espaço, T(índice s) representa a temperatura média das superfícies interiores da envolvente do espaço, e T(índice e) representa a temperatura exterior, integrando o STE-2005 uma base de dados interna de anos climáticos horários representativos para todos os concelhos de Portugal (continente e Regiões Autónomas).
 
@@ -1100,15 +1106,15 @@ Os valores dos factores de conversão têm em conta as diferenças de necessidad
 
 ## ANEXO X — Valores limite dos consumos globais específicos dos edifícios de serviços existentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
 
 ## ANEXO XI — Valores de referência limite dos consumos nominais específicos dos novos edifícios de serviços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
 
 ## ANEXO XII — Valores alternativos de IEE para algumas tipologias de edifícios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
 
 ## ANEXO XIII — Método de cálculo do período de retorno para medidas de eficiência energética
 
@@ -1166,4 +1172,4 @@ o) Limpeza das redes e componentes: deve ser confirmada a limpeza e desempenho d
 
 Os padrões de referência de utilização dos edifícios são os representados de seguida para cada uma das tipologias definidas no n.º 1 do artigo 31.º do presente Regulamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24162468.pdf)

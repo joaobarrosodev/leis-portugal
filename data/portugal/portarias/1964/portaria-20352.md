@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20352-1964-469432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 082b642849c91d3075425334007a9d57c7ce518c37175e9f90147e71af8d84d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a59f8f9dbe371f9b838aa38df9d73cc38c4c3fae6dc861ddd8f43dbe05c4d5de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531248:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:10Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +107,7 @@ a) Reforçar com as importâncias que se indicam as seguintes verbas da tabela d
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 272.º «Deslocações de pessoal»:
+Artigo 272.º «Deslocações de pessoal»:
 
 N.º 2), alínea a) «Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole» ... 30000$00
 
@@ -103,7 +119,7 @@ Alínea b) «Por quaisquer outros motivos - A pagar na metrópole» ... 250000$0
 
 N.º 5), alínea a) «Subsídio de viagem e de demora em portos de escala, inerentes às deslocações fora da província - A pagar na metrópole» ... 10000$00
 
-###### Artigo 273.º «Diversas despesas»:
+Artigo 273.º «Diversas despesas»:
 
 N.º 2), alínea c) «Passagens a estudantes, nos termos dos Decretos n.os 39297, de 29 de Julho de 1953, e 39362, de 16 de Setembro de 1953 - Passagens de regresso» ... 20000$00
 
@@ -113,7 +129,7 @@ N.º 15), alínea a) «Despesas com assistência médica, tratamento e intername
 
 ### CAPÍTULO 11.º — Exercícios findos
 
-###### Artigo 279.º «Para pagamento das despesas de exercícios findos referidas no artigo 57.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e legislação que posteriormente aditou ou alterou tal disposição - A pagar na metrópole» ... 80000$00
+Artigo 279.º «Para pagamento das despesas de exercícios findos referidas no artigo 57.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e legislação que posteriormente aditou ou alterou tal disposição - A pagar na metrópole» ... 80000$00
 
 ... 557327$50
 
@@ -131,21 +147,21 @@ Repartição Provincial dos Serviços de Saúde e Higiene
 
 Pagamento de serviços:
 
-###### Artigo 117.º, n.º 2) «Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 350000$00
+Artigo 117.º, n.º 2) «Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 350000$00
 
 ### CAPÍTULO 6.º — Serviços de justiça
 
 Delegação da Procuradoria da República e Arquivo do Registo Criminal e Policial Diversos encargos:
 
-###### Artigo 185.º, n.º 1) «Encargos administrativos - Alimentação e vestuário de presos» ... 175000$00
+Artigo 185.º, n.º 1) «Encargos administrativos - Alimentação e vestuário de presos» ... 175000$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 293.º, n.º 4) «Despesas de comunicações fora da província - Direitos de transportes aéreos» ... 200000$00
+Artigo 293.º, n.º 4) «Despesas de comunicações fora da província - Direitos de transportes aéreos» ... 200000$00
 
-###### Artigo 296.º «Abono de família» ... 400000$00
+Artigo 296.º «Abono de família» ... 400000$00
 
-###### Artigo 298.º «Subsídio para renda de casa» ... 200000$00
+Artigo 298.º «Subsídio para renda de casa» ... 200000$00
 
 ... 1325000$00
 

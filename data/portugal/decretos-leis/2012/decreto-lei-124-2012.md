@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/06/11800/0306103064.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/124/2012/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2012-178822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa080fbe4f0359953766ff8976e2a3e8903166bfe71a1f6f7c77a6ec502f9909
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4688d03dd9dda3db6c8a104981f6b18b7f2dcfde9afb57e56a4068aa6033e59c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário Geral Adjunto
-- Pessoal Dirigente
 - Definição de Competências
-- Secretaria Geral
 - Ministério da Economia e do Emprego
 - Orgânica
+- Pessoal Dirigente
+- Secretaria Geral
 - Secretário Geral
+- Secretário Geral Adjunto
 relationships:
 - type: amended_by
   target: pt:dre:67191200:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571030:por
+  label: "Reestruturada a Secretaria-Geral do ME, cuja orgânica consta do presente diploma, na redação do Dec Lei 167-C/2013,\
+    \ de 31-dez, e integradas as suas atribuições nos domínios da energia e geologia materializadas na Secretaria-Geral do\
+    \ Ministério do Ambiente, Ordenamento do Território e Energia e as suas atribuições no domínio do emprego incorporadas\
+    \ na Secretaria-Geral do Ministério da Solidariedade, Emprego e Segurança Social, pelo DEC LEI.11/2014.22.01.2014.MECO,\
+    \ DR.IS [15] de 22.01.2014\014\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2014-571030
+  date: '2014-01-22'
+- type: amended_by
+  target: pt:dre:570702:por
+  label: "Integradas na Secretaria-Geral do Ministério do Ambiente, Ordenamento do Território e Energia as atribuições da\
+    \ Secretaria-Geral do Ministério da Economia e Emprego com orgânica constante do presente diploma nos domínios da energia\
+    \ e geologia, pelo DEC LEI.17/2014.04.02.2014.MAOTE, DR.IS [24] de 04.02.2014, nos termos dos arts. 26º e 27º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-2014-570702
+  date: '2014-02-04'
+- type: amended_by
+  target: pt:dre:25343980:por
+  label: "Determinado que a Secretaria-geral sucede nas atribuições, nos termos da al. b) do n.º 1 e al. c) do n.º 2 do art.9.º,\
+    \ da Secretaria-Geral do Ministério da Economia e do Emprego, nos domínios da energia e geologia e na prestação de apoio\
+    \ administrativo e logístico ao Programa Operacional para a Valorização do Território, no âmbito do QREN 2007-2013, sucede\
+    \ nos direitos, obrigações e património da Secretaria-Geral do Ministério da Economia e do Emprego, relativos ao apoio\
+    \ ao gabinete do membro do Governo responsável pelas áreas da energia e da geologia, com orgânica constante do presente\
+    \ diploma, pelo DEC LEI.54/2014.09.04.2014.MAOTE, DR.IS [70] de 09.04.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/54-2014-25343980
+  date: '2014-04-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126-c/2011/12/29/p/dre
   label: null
@@ -93,16 +119,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/81-a/2007/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/81-a/2007/07/31/p/dre
+- type: cites
+  target: pt:dre:321693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642012:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:164425:por
+  label: "Revogada, a partir de 01.01.2014, a al. d), na parte relativa à Direção-Geral do Emprego e das Relações do Trabalho,\
+    \ e a al. f) do art. 10.º do presente diploma, pelo DEC LEI.167-C/2013.31.12.2013.MSESS, DR.IS [253-3ºSupl] de 31.12.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-c-2013-164425
+  date: '2013-12-31'
+- type: repealed_by
+  target: pt:dre:67191200:por
+  label: Revogado a partir de 01.06.2015, na redação do Dec Lei 167-C/2013, de 31-dez pelo(a) Decreto-Lei n.º 76/2015 - Diário
+    da República n.º 91/2015, Série I de 2015-05-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2015-67191200
+  date: '2015-05-12'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:44Z'
   warnings: []
   errors: []
 ---
@@ -277,18 +332,18 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 19 de abril de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira.
 
-**Promulgado em 1 de junho de 2012.**
+Promulgado em 1 de junho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de junho de 2012.**
+Referendado em 6 de junho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — Mapa de pessoal dirigente
 
 (a que se refere o artigo 8.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/11800/0306103064.pdf))](https://files.diariodarepublica.pt/1s/2012/06/11800/0306103064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/11800/0306103064.pdf)

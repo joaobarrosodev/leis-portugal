@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/712-1983-452501
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T07:46:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e04f7f23b1bed637d149e84bf65f7584e2dcfb5f820dbbb89493eff84b24c298
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d42794c55fa99ac04af61de8f9155b7b9b7a6b1854ac6953c789e04b883b7ce7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:46:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior
+- Faculdade de Ciências
+- Orgânica
+- Regulamento
+- Universidade de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:244884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:46:58Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +108,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação, o seguint
 
 Ministério da Educação.
 
-**Assinada em 12 de Maio de 1983.**
+Assinada em 12 de Maio de 1983.
 
 Pelo Ministro da Educação, Alberto Romão Dias, Secretário de Estado do Ensino Superior.
 
@@ -103,7 +116,7 @@ Pelo Ministro da Educação, Alberto Romão Dias, Secretário de Estado do Ensin
 
 ### CAPÍTULO I — Da natureza e objectivo
 
-###### Artigo 1.º - 1 - O Departamento de Educação da Faculdade de Ciências da Universidade de Lisboa, adiante designado por Departamento, constitui uma unidade orgânica de ensino, investigação e prestação de serviços à comunidade no domínio da educação, competindo-lhe especialmente:
+Artigo 1.º - 1 - O Departamento de Educação da Faculdade de Ciências da Universidade de Lisboa, adiante designado por Departamento, constitui uma unidade orgânica de ensino, investigação e prestação de serviços à comunidade no domínio da educação, competindo-lhe especialmente:
 
 a) Promover a aquisição, desenvolvimento e difusão do conhecimento de educação, bem como a formação de docentes, investigadores e técnicos superiores qualificados nessa área;
 
@@ -123,19 +136,19 @@ g) Elaborar programas de investigação.
 
 3 - Ao Departamento competirá ainda promover a divulgação do saber nas ciências específicas de que se ocupa, com vista à sua generalização, compreensão e integração na cultura.
 
-###### Art. 2.º O Departamento goza de autonomia pedagógica e científica, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos da universidade ou faculdade.
+Art. 2.º O Departamento goza de autonomia pedagógica e científica, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos da universidade ou faculdade.
 
-###### Art. 3.º Poderão ser criadas, alteradas ou extintas secções, no Departamento, sob proposta de um professor catedrático ou associado, sempre que a dimensão ou a pluralidade das matérias compreendidas na sua área o justifiquem.
+Art. 3.º Poderão ser criadas, alteradas ou extintas secções, no Departamento, sob proposta de um professor catedrático ou associado, sempre que a dimensão ou a pluralidade das matérias compreendidas na sua área o justifiquem.
 
 ### CAPÍTULO II — Dos órgãos
 
-###### Art. 4.º - O Departamento de Educação dispõe dos seguintes órgãos:
+Art. 4.º - O Departamento de Educação dispõe dos seguintes órgãos:
 
 a) O Conselho de Departamento;
 
 b) A Comissão Executiva.
 
-###### Art. 5.º - 1 - O Conselho de Departamento é constituído por membros permanentes e por membros não permanentes.
+Art. 5.º - 1 - O Conselho de Departamento é constituído por membros permanentes e por membros não permanentes.
 
 2 - São membros permanentes todos os professores catedráticos, associados e auxiliares em regime de tempo integral e investigadores doutorados incluídos na área científica abrangida pelo Departamento.
 
@@ -153,7 +166,7 @@ b) A Comissão Executiva.
 
 9 - As deliberações do Conselho de Departamento só produzirão efeitos quando tomadas pela maioria dos membros em efectividade de funções.
 
-###### Art. 6.º - 1 - Ao Conselho de Departamento compete:
+Art. 6.º - 1 - Ao Conselho de Departamento compete:
 
 a) Elaborar propostas de alteração ao regulamento do Departamento;
 
@@ -183,7 +196,7 @@ n) Deliberar sobre outras matérias cuja competência lhe haja sido delegada pel
 
 2 - As propostas de alteração referidas na alínea a) do número anterior estão sujeitas aos trâmites fixados no artigo 2.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
-###### Art. 7.º - 1 - Ao presidente do Conselho de Departamento compete:
+Art. 7.º - 1 - Ao presidente do Conselho de Departamento compete:
 
 a) Convocar e conduzir as reuniões do Conselho de Departamento e da Comissão Executiva;
 
@@ -193,11 +206,11 @@ c) Exercer as funções que lhe forem cometidas pelo Conselho de Departamento.
 
 2 - O presidente do Conselho de Departamento poderá ser parcialmente dispensado do serviço docente durante o seu mandato, sem perda da remuneração que vinha auferindo.
 
-###### Art. 8.º - 1 - As deliberações do Conselho de Departamento só poderão ser alteradas, ouvido este, pelos órgãos de gestão da escola, quando as julguem incompatíveis com os interesses gerais prosseguidos pelas escolas ou possam prejudicar o seu funcionamento.
+Art. 8.º - 1 - As deliberações do Conselho de Departamento só poderão ser alteradas, ouvido este, pelos órgãos de gestão da escola, quando as julguem incompatíveis com os interesses gerais prosseguidos pelas escolas ou possam prejudicar o seu funcionamento.
 
 2 - Das alterações às deliberações do Conselho de Departamento cabe recurso para o reitor.
 
-###### Art. 9.º - 1 - A Comissão Executiva do Departamento é constituída por:
+Art. 9.º - 1 - A Comissão Executiva do Departamento é constituída por:
 
 a) O presidente do Conselho de Departamento, que preside;
 
@@ -205,7 +218,7 @@ b) Dois docentes ou investigadores do Departamento.
 
 2 - A Comissão Executiva será secretariada por um funcionário da Faculdade.
 
-###### Art. 10.º À Comissão Executiva compete:
+Art. 10.º À Comissão Executiva compete:
 
 a) Preparar as reuniões do Conselho de Departamento e executar as suas deliberações;
 
@@ -215,33 +228,33 @@ c) Preparar convénios, acordos e contratos de prestação de serviços;
 
 d) Zelar pela conservação e manutenção das instalações e outros bens afectos ao Departamento.
 
-###### Art. 11.º - 1 - As atribuições das comissões de grupo previstas no [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro, ficam cometidas às comissões a constituir pelos professores do Conselho de Departamento.
+Art. 11.º - 1 - As atribuições das comissões de grupo previstas no [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro, ficam cometidas às comissões a constituir pelos professores do Conselho de Departamento.
 
 2 - Os professores que prestem serviço em mais de um departamento ou num grupo e num departamento só poderão integrar-se numa comissão de grupo ou de departamento.
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 12.º Os órgãos de gestão da Faculdade de Ciências procederão ao destacamento interno do pessoal docente, investigador, técnico superior, técnico, técnico-profissional, administrativo e auxiliar que se mostre necessário ao funcionamento do Departamento.
+Art. 12.º Os órgãos de gestão da Faculdade de Ciências procederão ao destacamento interno do pessoal docente, investigador, técnico superior, técnico, técnico-profissional, administrativo e auxiliar que se mostre necessário ao funcionamento do Departamento.
 
-###### Art. 13.º As actividades do pessoal técnico superior, técnico, técnico-profissional, administrativo, operário, auxiliar técnico e auxiliar são definidas pelos responsáveis das linhas de investigação a que estejam afectos ou pelos chefes dos serviços técnicos onde prestam serviço.
+Art. 13.º As actividades do pessoal técnico superior, técnico, técnico-profissional, administrativo, operário, auxiliar técnico e auxiliar são definidas pelos responsáveis das linhas de investigação a que estejam afectos ou pelos chefes dos serviços técnicos onde prestam serviço.
 
 ### CAPÍTULO IV — Instalações e equipamento
 
-###### Art. 14.º - 1 - São atribuídos ao Departamento as instalações e equipamentos afectos ao funcionamento do ramo educacional da Faculdade de Ciências da Universidade de Lisboa, mediante acordos bilaterais a estabelecer com outros departamentos, bem como os que lhe vierem a ser atribuídos nas novas instalações da Faculdade.
+Art. 14.º - 1 - São atribuídos ao Departamento as instalações e equipamentos afectos ao funcionamento do ramo educacional da Faculdade de Ciências da Universidade de Lisboa, mediante acordos bilaterais a estabelecer com outros departamentos, bem como os que lhe vierem a ser atribuídos nas novas instalações da Faculdade.
 
 2 - Os serviços de expediente e de contabilidade do Departamento correrão pelos serviços próprios da Faculdade de Ciências, que dará todo o apoio necessário.
 
 ### CAPÍTULO V — Dos contratos, convénios e prestação de serviços
 
-###### Art. 15.º O Departamento poderá celebrar contratos ou termos de tarefas com entidades singulares ou colectivas, nacionais ou estrangeiras, para a realização de trabalhos técnicos ou científicos e outros serviços de carácter individual necessários ao desempenho das suas actividades.
+Art. 15.º O Departamento poderá celebrar contratos ou termos de tarefas com entidades singulares ou colectivas, nacionais ou estrangeiras, para a realização de trabalhos técnicos ou científicos e outros serviços de carácter individual necessários ao desempenho das suas actividades.
 
-###### Art. 16.º O Departamento pode celebrar convénios de cooperação e intercâmbio científico com as universidades e outras entidades públicas ou privadas, nacionais ou estrangeiras.
+Art. 16.º O Departamento pode celebrar convénios de cooperação e intercâmbio científico com as universidades e outras entidades públicas ou privadas, nacionais ou estrangeiras.
 
-###### Art. 17.º - 1 - O Departamento poderá prestar serviços à comunidade no âmbito da sua especialidade.
+Art. 17.º - 1 - O Departamento poderá prestar serviços à comunidade no âmbito da sua especialidade.
 
 2 - Os contratos de prestação de serviços serão reduzidos a escrito e assinados pelo presidente da Comissão Executiva, após parecer favorável do Conselho de Departamento.
 
-###### Art. 18.º Os instrumentos de formalização dos contratos e convénios deverão contar, entre outros, os seguintes elementos:
+Art. 18.º Os instrumentos de formalização dos contratos e convénios deverão contar, entre outros, os seguintes elementos:
 
 a) Identificação das partes e seus representantes;
 
@@ -251,7 +264,7 @@ c) Direitos e deveres das partes;
 
 d) Duração.
 
-###### Art. 19.º - 1 - O Conselho de Departamento fixará para cada caso o preço dos serviços prestados, atendendo a:
+Art. 19.º - 1 - O Conselho de Departamento fixará para cada caso o preço dos serviços prestados, atendendo a:
 
 a) Despesas com a utilização e amortização de equipamento;
 
@@ -263,21 +276,21 @@ d) Gratificação por horas extraordinárias do pessoal envolvido na orientaçã
 
 2 - As importâncias recebidas pelo Departamento pela prestação de serviços, depois de deduzidas as correspondentes às alíneas b) e d) do número anterior, serão entregues nos cofres do Estado e escrituradas em «Contas de ordem» no Orçamento Geral do Estado, podendo ser aplicadas no próprio ano ou em anos futuros, através de orçamentos privativos.
 
-###### Art. 20.º - 1 - Para fins de administração autónoma das receitas referidas no n.º 1 do artigo anterior, e só neste caso, o Departamento ficará sujeito à legislação geral aplicável aos serviços com autonomia administrativa e financeira.
+Art. 20.º - 1 - Para fins de administração autónoma das receitas referidas no n.º 1 do artigo anterior, e só neste caso, o Departamento ficará sujeito à legislação geral aplicável aos serviços com autonomia administrativa e financeira.
 
 2 - Nos termos do número anterior, o Conselho de Departamento gozará da competência atribuída aos serviços com autonomia administrativa e financeira.
 
-###### Art. 21.º - 1 - O orçamento do Departamento constituirá uma subdivisão orgânica do orçamento da Universidade de Lisboa no Orçamento Geral do Estado.
+Art. 21.º - 1 - O orçamento do Departamento constituirá uma subdivisão orgânica do orçamento da Universidade de Lisboa no Orçamento Geral do Estado.
 
 2 - Enquanto não for possível estabelecer no Orçamento Geral do Estado dotação própria, serão satisfeitos pelas disponibilidades da Faculdade de Ciências da Universidade de Lisboa os encargos resultantes de serviços e funcionamento do Departamento.
 
 ### CAPÍTULO VI — Das disposições gerais
 
-###### Art. 22.º - 1 - Os membros dos órgãos dotados de poder deliberativo são criminal, civil e disciplinarmente responsáveis pelas infracções à lei cometidas no exercício das suas funções.
+Art. 22.º - 1 - Os membros dos órgãos dotados de poder deliberativo são criminal, civil e disciplinarmente responsáveis pelas infracções à lei cometidas no exercício das suas funções.
 
 2 - São excluídos do disposto no número anterior os membros que fizerem exarar em acta a sua oposição às deliberações tomadas e os ausentes que o façam na primeira reunião em que estiverem presentes.
 
-###### Art. 23.º - 1 - Os órgãos com poder deliberativo só podem deliberar quando estiver presente a maioria dos seus membros em efectividade de funções.
+Art. 23.º - 1 - Os órgãos com poder deliberativo só podem deliberar quando estiver presente a maioria dos seus membros em efectividade de funções.
 
 2 - As decisões são aprovadas por maioria simples.
 
@@ -285,8 +298,8 @@ d) Gratificação por horas extraordinárias do pessoal envolvido na orientaçã
 
 ### CAPÍTULO VII — Das disposições transitórias
 
-###### Art. 24.º O corpo docente do Departamento é constituído pelos docentes da Faculdade que para ela sejam destacados por proposta aprovada pela comissão coordenadora do conselho científico da Faculdade.
+Art. 24.º O corpo docente do Departamento é constituído pelos docentes da Faculdade que para ela sejam destacados por proposta aprovada pela comissão coordenadora do conselho científico da Faculdade.
 
-###### Art. 25.º - 1 - No prazo de 20 dias após a publicação deste Regulamento, o professor mais antigo da categoria mais elevada das áreas referidas no artigo 1.º desencadeará os processos eleitorais para a eleição dos membros não permanentes do Conselho de Departamento, bem como para a posterior eleição do seu presidente.
+Art. 25.º - 1 - No prazo de 20 dias após a publicação deste Regulamento, o professor mais antigo da categoria mais elevada das áreas referidas no artigo 1.º desencadeará os processos eleitorais para a eleição dos membros não permanentes do Conselho de Departamento, bem como para a posterior eleição do seu presidente.
 
 2 - O primeiro mandato dos membros eleitos em consequência dos processos referidos no número anterior termina no fim do ano lectivo seguinte àquele em que tiver sido realizada a eleição.

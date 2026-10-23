@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/243/1999/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1999-392037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:08:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68ad22e016176a2bf559a48a99378c4ff6a0fdb1a859c44709b05ea0f9e60fae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1312770a22677ebaf1b6b61fb7b49a3e655c4d7007d0dfd1c124cc58c19ec976
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:08:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jurisdição
+- Administração de Portos
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autonomia Patrimonial
-- Pessoal Dirigente
+- Caixa Geral de Aposentações
 - Comissão de Coordenação Portuária
 - Comissão de Fiscalização
 - Comissão de Serviço
@@ -80,10 +80,7 @@ subjects:
 - Definição de Competências
 - Estatuto
 - Estatuto do Pessoal
-- Administração de Portos
-- Junta Autónoma dos Portos
 - Extinção de Serviços
-- Caixa Geral de Aposentações
 - Fundo de Aposentação
 - Instituto Nacional de Pilotagem dos Portos
 - Instituto Portuário
@@ -91,10 +88,13 @@ subjects:
 - Instituto Público
 - Integração de Trabalhadores
 - Junta Autónoma do Porto da Figueira da Foz
+- Junta Autónoma dos Portos
 - Junta Autónoma dos Portos do Centro
+- Jurisdição
 - Orgânica
 - Personalidade Jurídica
 - Pessoal de Chefia
+- Pessoal Dirigente
 - Presidente
 - Receita Própria
 - Regime de Pessoal
@@ -104,6 +104,24 @@ relationships:
   target: pt:dre:520990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Integrado no Ministério do Equipamento Social, o Instituto Portuário do Centro, criado pelo presente diploma, pelo\
+    \ DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:251873:por
+  label: "Aditada a al. h) ao nº 1 do art. 6º e revogados a al. e) do art. 13º e os arts. 27º a 29º dos Estatutos do IPC,\
+    \ aprovados pelo presente diploma, pelo DEC LEI.46/2002.2002.03.02.MES DR.IS-A [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-2002-251873
+  date: '2002-03-02'
+- type: amended_by
+  target: pt:dre:520990:por
+  label: "Mantdios em vigor, até à revisão das áreas de jurisdição portuária, os limites definidos no art. 4º do anexo do\
+    \ presente diploma pelo DEC LEI.146/2007.27.04.2007.MOPTC, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/146-2007-520990
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/
   label: null
@@ -144,16 +162,98 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/339/1998/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/339/1998/11/03/p/dre
+- type: cites
+  target: pt:dre:181978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:448755:por
+  label: "Revogado, com excepção do art. 4º do respectivo anexo - no que respeita à definição de áreas de jurisdição, pelo\
+    \ DEC LEI.257/2002.2002.11.22.MOPTH DR.IS-A [270]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-2002-448755
+  date: '2002-11-22'
 article_structure:
   article_count: 50
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:08:36Z'
   warnings: []
   errors: []
 ---
@@ -292,15 +392,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 1999. - António Manuel de Oliveira Guterres - José Veiga Simão - João Carlos da Costa Ferreira da Silva - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - António Ricardo Rocha de Magalhães.
 
-**Promulgado em 11 de Junho de 1999.**
+Promulgado em 11 de Junho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Junho de 1999.**
+Referendado em 16 de Junho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 1.º)
 

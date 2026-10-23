@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/243/2001/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2001-631198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fed57e48ba024d73706ad92ec5776bfbb5145a57cc686f247c2b1e47ec194c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fd0a15b79f31ee9501ba20ed22d0efc89e4490fe6028b230bb93d8132f90b79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Água
 - Aproximação das Legislações
 - Controlo de Qualidade
 - Controlo Sanitário
-- Saúde Pública
 - Fiscalização
 - Proteção do Ambiente
-- Abastecimento de Água
+- Saúde Pública
 - Tratamento de ÁGUA
 relationships:
 - type: amended_by
@@ -92,16 +92,26 @@ relationships:
   target: celex:31998L0083
   label: null
   source: http://data.europa.eu/eli/dir/1998/83/oj
+- type: corrected_by
+  target: pt:dre:203234:por
+  label: "Rectificado pela DECL-RECT.20-AT/2001.2001.11.30.PCM, DR.IS-A [278]-3ºSupl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/20-at-2001-203234
+  date: '2001-11-30'
+- type: repealed_by
+  target: pt:dre:640931:por
+  label: "Revogado, nos termos do seu artigo 41º, pelo DEC LEI.306/2007.27.08.2007.MAOTDR, DR.IS [164] de 27.08.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/306-2007-640931
+  date: '2007-08-27'
 article_structure:
   article_count: 25
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:59Z'
   warnings: []
   errors: []
 ---
@@ -490,43 +500,45 @@ A secção III do capítulo II do Decreto-Lei n.º 236/98, de 1 de Agosto, é re
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 2001. - Jaime José Matos da Gama - Jaime José Matos da Gama - Luís Garcia Braga da Cruz - Luís Manuel Capoulas Santos - António Fernando Correia de Campos - Manuel Pedro Cunha da Silva Pereira.
 
-**Promulgado em 17 de Agosto de 2001.**
+Promulgado em 17 de Agosto de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Agosto de 2001.**
+Referendado em 23 de Agosto de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO I — Parte A)
+## ANEXO I
+
+## Parte A)
 
 Parâmetros microbiológicos
 
 1 - Para a água destinada ao consumo humano fornecida por sistemas de abastecimento público, redes de distribuição, camiões ou navio-cisterna, ou utilizada numa empresa da indústria alimentar:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)
 
 2 - Para as águas postas à venda em garrafas ou outros recipientes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)
 
-# Parte B)
+Parte B)
 
 Parâmetros químicos
 
 1 - Para a água destinada ao consumo humano fornecida por sistemas de abastecimento público, redes de distribuição, camiões ou navio-cisterna, ou utilizada numa empresa da indústria alimentar ou posta à venda em garrafas ou outros recipientes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)
 
-# Parte C)
+Parte C)
 
 Parâmetros indicadores
 
 Estabelecidos apenas para efeitos de controlo de água destinada ao consumo humano fornecida por sistemas de abastecimento público, redes de distribuição, camiões ou navio-cisterna, ou utilizada numa empresa da indústria alimentar ou posta à venda em garrafas ou outros recipientes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)
 
 ## ANEXO II — Controlo da qualidade da água
 
@@ -588,13 +600,13 @@ Frequência mínima de amostragem e de análise da água destinada para consumo 
 
 As entidades gestoras colherão amostras nos pontos obrigatórios definidos no n.º 1 do artigo 7.º para se assegurarem de que a água destinada ao consumo humano satisfaz os requisitos do presente diploma.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)
 
 QUADRO B2)
 
 Frequência mínima de amostragem e análise de águas colocadas à venda em garrafas ou outros recipientes
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)
 
 ## ANEXO III — Especificações para análise dos parâmetros
 
@@ -618,11 +630,11 @@ Filtração em membrana seguida de incubação anaeróbia da membrana em m-CP á
 
 Nota 1. - A composição do meio de base para m-CP ágar é a seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)
 
 Os ingredientes do meio de base são dissolvidos e o ph ajustado a 7,6. Esterilizar a 121ºC durante quinze minutos. Deixar arrefecer e adicionar.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)
 
 2) Parâmetros para os quais são especificadas as características de desempenho dos métodos analíticos a utilizar:
 
@@ -630,7 +642,7 @@ Os ingredientes do meio de base são dissolvidos e o ph ajustado a 7,6. Esterili
 
 2.2 - Para o pH, as especificações do método são as seguintes: o método deve ser capaz de medir o valor paramétrico com a exactidão de 0,2 unidades de pH e de precisão de 0,2 unidades de pH.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)](https://files.diariodarepublica.pt/1s/2001/09/206a00/57545765.pdf)
 
 3) Parâmetros para os quais não é especificado qualquer método de análise:
 

@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/70-1986-221169
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b069eb15b3ee33d04d46d4af3e0df5b7b0d50808b9c214132b69414902c14b38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa2d6b99ad14301695812b892413bdc5ec123ddddecca754d62a208760d7a6fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Orgânica
+- Serviços Sociais
+- Universidade de Évora
+relationships:
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655084:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:56Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +115,11 @@ Em cumprimento do disposto no artigo 39.º do [Decreto-Lei n.º 132/80](https://
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º Os Serviços Sociais da Universidade de Évora, adiante designados por SSUE, são uma pessoa colectiva de direito público dotada de autonomia administrativa e financeira e funcionam na Universidade de Évora,
+Artigo 1.º Os Serviços Sociais da Universidade de Évora, adiante designados por SSUE, são uma pessoa colectiva de direito público dotada de autonomia administrativa e financeira e funcionam na Universidade de Évora,
 
-###### Art. 2.º Os SSUE têm por fim a concessão de auxílios económicos aos estudantes carecidos de recursos, tendo em vista proporcionar-lhes melhores condições para se consagrarem ao estudo, bem como a prestação de outros serviços aos estudantes em geral, com o objectivo de melhorar as suas condições de vida, trabalho e uma mais completa formação académica, no contexto da política de acção social escolar superiormente definida.
+Art. 2.º Os SSUE têm por fim a concessão de auxílios económicos aos estudantes carecidos de recursos, tendo em vista proporcionar-lhes melhores condições para se consagrarem ao estudo, bem como a prestação de outros serviços aos estudantes em geral, com o objectivo de melhorar as suas condições de vida, trabalho e uma mais completa formação académica, no contexto da política de acção social escolar superiormente definida.
 
-###### Art. 3.º - 1 - A acção social escolar a desenvolver pelos SSUE beneficiará todos os estudantes interessados, desde que estejam matriculados na Universidade de Évora e preencham as condições legalmente estabelecidas.
+Art. 3.º - 1 - A acção social escolar a desenvolver pelos SSUE beneficiará todos os estudantes interessados, desde que estejam matriculados na Universidade de Évora e preencham as condições legalmente estabelecidas.
 
 2 - Os estudantes matriculados em estabelecimentos de ensino superior não integrados na Universidade de Évora que não sejam abrangidos pela acção social de quaisquer outros serviços sociais do ensino superior poderão beneficiar da acção desenvolvida pelos SSUE, nos termos do disposto nos números seguintes.
 
@@ -112,7 +131,7 @@ Em cumprimento do disposto no artigo 39.º do [Decreto-Lei n.º 132/80](https://
 
 6 - Os trabalhadores dos SSUE e dos estabelecimentos de ensino superior incluídos no seu âmbito, nos termos do disposto nos n.os 3, 4 e 5, poderão beneficiar dos serviços de alimentação dos SSUE, mediante acordo a estabelecer com a Obra Social do Ministério da Educação, desde que a utilização desses serviços não prejudique os estudantes por eles beneficiados.
 
-###### Art. 4.º - 1 - No domínio da concessão de auxílios económicos aos estudantes carecidos de recursos, compete aos SSUE:
+Art. 4.º - 1 - No domínio da concessão de auxílios económicos aos estudantes carecidos de recursos, compete aos SSUE:
 
 a) Conceder bolsas e subsídios de estudo;
 
@@ -136,7 +155,7 @@ e) Desenvolver outras actividades que pela sua natureza se enquadrem nos fins ge
 
 #### SECÇÃO I — Órgãos e suas competências
 
-###### Art. 5.º Os SSUE têm os seguintes órgãos:
+Art. 5.º Os SSUE têm os seguintes órgãos:
 
 a) O presidente;
 
@@ -144,9 +163,9 @@ b) O conselho geral;
 
 c) O conselho administrativo.
 
-###### Art. 6.º O cargo de presidente do SSUE é inerente ao cargo de reitor da mesma Universidade.
+Art. 6.º O cargo de presidente do SSUE é inerente ao cargo de reitor da mesma Universidade.
 
-###### Art. 7.º - 1 - Compete ao presidente dirigir superiormente os SSUE e orientar e coordenar as suas actividades, designadamente:
+Art. 7.º - 1 - Compete ao presidente dirigir superiormente os SSUE e orientar e coordenar as suas actividades, designadamente:
 
 a) Assegurar a gestão corrente dos Serviços;
 
@@ -168,7 +187,7 @@ h) Submeter ao CASES os projectos de regulamentos e assuntos relativos ao funcio
 
 3 - O presidente será coadjuvado nas suas funções por um vice-presidente, no qual poderá delegar algumas das suas competências.
 
-###### Art. 8.º - 1 - O conselho geral tem a seguinte composição:
+Art. 8.º - 1 - O conselho geral tem a seguinte composição:
 
 a) O presidente dos SSUE, que preside;
 
@@ -190,7 +209,7 @@ f) Dois representantes das associações de estudantes da Universidade de Évora
 
 5 - Os membros do conselho geral referidos nas alíneas d), e) e f) do n.º 1 manter-se-ão em funções após o termo dos respectivos mandatos até que sejam designados os novos membros que os irão substituir.
 
-###### Art. 9.º Compete ao conselho geral:
+Art. 9.º Compete ao conselho geral:
 
 a) Aprovar as propostas dos planos anuais e plurianuais de actividades, a submeter à aprovação do CASES;
 
@@ -208,7 +227,7 @@ g) Dar parecer sobre os assuntos que lhe sejam apresentados pelo presidente;
 
 h) Acompanhar o funcionamento e consultar a documentação dos serviços operativos e de apoio, podendo, para o efeito, delegar poderes em algum ou alguns dos seus membros.
 
-###### Art. 10.º - 1 - O conselho geral reunirá ordinariamente de três em três meses e extraordinariamente quando convocado pelo presidente, por sua iniciativa, ou a pedido de, pelo menos, dois dos seus membros.
+Art. 10.º - 1 - O conselho geral reunirá ordinariamente de três em três meses e extraordinariamente quando convocado pelo presidente, por sua iniciativa, ou a pedido de, pelo menos, dois dos seus membros.
 
 2 - A convocatória será acompanhada da lista dos assuntos a tratar na reunião.
 
@@ -222,7 +241,7 @@ h) Acompanhar o funcionamento e consultar a documentação dos serviços operati
 
 7 - Poderão participar nas reuniões do conselho geral, sem direito a voto, desde que convocados pelo presidente, os funcionários dos SSUE cuja presença se mostre aconselhável face aos assuntos a tratar.
 
-###### Art. 11.º - 1 - O conselho administrativo dos SSUE é constituído por:
+Art. 11.º - 1 - O conselho administrativo dos SSUE é constituído por:
 
 a) O presidente dos SSUE, que preside;
 
@@ -238,7 +257,7 @@ d) O chefe da Repartição de Administração e Aprovisionamento.
 
 4 - O membro do conselho administrativo a que se refere a alínea c) do n.º 1 será designado de entre funcionários públicos de reconhecida competência nos domínios da Administração Pública.
 
-###### Art. 12.º - 1 - Compete ao conselho administrativo:
+Art. 12.º - 1 - Compete ao conselho administrativo:
 
 a) Promover a elaboração dos planos financeiros anuais e plurianuais;
 
@@ -266,7 +285,7 @@ l) Promover a organização e permanente actualização de inventário e cadastr
 
 3 - O conselho administrativo poderá delegar no pessoal com cargos de chefia parte da sua competência para autorizar despesas, quando julgado conveniente à boa gestão dos serviços.
 
-###### Art. 13.º - 1 - O conselho administrativo reunirá ordinariamente duas vezes por mês e extraordinariamente a solicitação de qualquer dos seus membros.
+Art. 13.º - 1 - O conselho administrativo reunirá ordinariamente duas vezes por mês e extraordinariamente a solicitação de qualquer dos seus membros.
 
 2 - O conselho administrativo só poderá deliberar quando se encontre presente a maior simples dos seus membros.
 
@@ -282,7 +301,7 @@ l) Promover a organização e permanente actualização de inventário e cadastr
 
 #### SECÇÃO II — Serviços e suas competências
 
-###### Art. 14.º Os SSUE compreendem:
+Art. 14.º Os SSUE compreendem:
 
 a) Os serviços operativos;
 
@@ -290,7 +309,7 @@ b) Os serviços de apoio.
 
 ##### SUBSECÇÃO I — Serviços operativos
 
-###### Art. 15.º - 1 - Os serviços operativos são coordenados directamente pelo vice-presidente dos SSUE.
+Art. 15.º - 1 - Os serviços operativos são coordenados directamente pelo vice-presidente dos SSUE.
 
 2 - O vice-presidente será coadjuvado, em cada um dos domínios de acção dos serviços operativos, por um dos elementos neles colocados com a experiência e formação adequadas para o lugar, a designar para o efeito.
 
@@ -306,7 +325,7 @@ d) Lavandaria;
 
 e) Oficina de manutenção.
 
-###### Art. 16.º Em matéria de alojamento, compete aos SSUE:
+Art. 16.º Em matéria de alojamento, compete aos SSUE:
 
 a) Providenciar pela abertura e assegurar o funcionamento de residências;
 
@@ -324,7 +343,7 @@ g) Enviar aos serviços competentes os elementos necessários à cobrança pontu
 
 h) Enviar aos serviços competentes os elementos necessários à elaboração dos orçamentos e relatórios anuais.
 
-###### Art. 17.º Em matéria de alimentação, compete aos SSUE:
+Art. 17.º Em matéria de alimentação, compete aos SSUE:
 
 a) Providenciar pela abertura e assegurar o funcionamento dos refeitórios, bares e snacks;
 
@@ -338,7 +357,7 @@ e) Enviar directamente aos serviços competentes as receitas dos refeitórios, c
 
 f) Enviar aos serviços competentes os elementos necessários à elaboração dos orçamentos e relatórios anuais.
 
-###### Art. 18.º Em matéria de bolsas e empréstimos, compete aos SSUE:
+Art. 18.º Em matéria de bolsas e empréstimos, compete aos SSUE:
 
 a) Propor superiormente a concessão de bolsas de estudo, subsídios, empréstimos e outros benefícios pecuniários, de acordo com os regulamentos em vigor, e organizar os respectivos processos individuais;
 
@@ -350,7 +369,7 @@ d) Estudar e propor superiormente a adopção de novos esquemas e tipos de auxí
 
 e) Enviar aos serviços competentes os elementos necessários à elaboração dos orçamentos e relatórios anuais.
 
-###### Art. 19.º Em matéria de lavandaria, compete aos SSUE:
+Art. 19.º Em matéria de lavandaria, compete aos SSUE:
 
 a) Executar as tarefas de lavagens e tratamento de roupas, incluindo a preparação, funcionamento e desinfecção das respectivas máquinas;
 
@@ -360,7 +379,7 @@ c) Zelar pela conservação do equipamento e das instalações que lhes forem af
 
 d) Enviar aos serviços competentes os elementos necessários à apreciação de controle e funcionamento do respectivo serviço.
 
-###### Art. 20.º Em matéria de oficina de manutenção, compete aos SSUE:
+Art. 20.º Em matéria de oficina de manutenção, compete aos SSUE:
 
 a) Executar as reparações necessárias e possíveis em todo o material que fique dentro da sua esfera de competência e acção;
 
@@ -376,9 +395,9 @@ f) Enviar aos serviços competentes os elementos necessários à elaboração do
 
 ##### SUBSECÇÃO II — Serviços de apoio
 
-###### Art. 21.º Os serviços de apoio exercem as suas atribuições nos domínios da gestão administrativa e financeira, do aprovisionamento e apoio geral dos serviços dos SSUE e constituem a Repartição de Administração e Aprovisionamento.
+Art. 21.º Os serviços de apoio exercem as suas atribuições nos domínios da gestão administrativa e financeira, do aprovisionamento e apoio geral dos serviços dos SSUE e constituem a Repartição de Administração e Aprovisionamento.
 
-###### Art. 22.º A Repartição de Administração e Aprovisionamento é dirigida por um chefe de repartição e compreende as seguintes secções:
+Art. 22.º A Repartição de Administração e Aprovisionamento é dirigida por um chefe de repartição e compreende as seguintes secções:
 
 a) De Contabilidade, Orçamento e Serviços Financeiros;
 
@@ -386,7 +405,7 @@ b) De Pessoal, Património e Expediente;
 
 c) De Aprovisionamento.
 
-###### Art. 23.º - 1 - À Secção de Contabilidade, Orçamento e Serviços Financeiros, dirigida por um chefe de secção, compete:
+Art. 23.º - 1 - À Secção de Contabilidade, Orçamento e Serviços Financeiros, dirigida por um chefe de secção, compete:
 
 a) Preparar o orçamento ordinário e os necessários orçamentos suplementares;
 
@@ -456,7 +475,7 @@ j) Emitir e controlar os cheques e elaborar as respectivas listas de movimento;
 
 l) Comunicar aos interessados as datas de pagamentos e elaborar o expediente geral relacionado com o seu funcionamento normal.
 
-###### Art. 24.º A Secção de Pessoal, Património e Expediente, dirigida por um chefe de secção, compete:
+Art. 24.º A Secção de Pessoal, Património e Expediente, dirigida por um chefe de secção, compete:
 
 1) Em matéria de pessoal:
 
@@ -500,7 +519,7 @@ f) Proceder à actualização de endereços, listas telefónicas e outras relaç
 
 g) Assegurar o fornecimento, controle e racionalização dos impressos utilizados nos vários sectores.
 
-###### Art. 25.º A Secção de Aprovisionamento exerce a sua acção nos domínios das compras de géneros alimentares, gestão de stocks, conservação, manutenção e distribuição e é dirigida por um chefe de secção, competindo-lhe:
+Art. 25.º A Secção de Aprovisionamento exerce a sua acção nos domínios das compras de géneros alimentares, gestão de stocks, conservação, manutenção e distribuição e é dirigida por um chefe de secção, competindo-lhe:
 
 1) Em matéria de compras:
 
@@ -562,7 +581,7 @@ f) Estudar e implementar circuitos de distribuição adequados.
 
 ### CAPÍTULO III — Administração financeira e patrimonial
 
-###### Art. 26.º - 1 - Os SSUE arrecadarão e administrarão as suas receitas e satisfarão, por meio delas, os encargos que legalmente lhes caibam.
+Art. 26.º - 1 - Os SSUE arrecadarão e administrarão as suas receitas e satisfarão, por meio delas, os encargos que legalmente lhes caibam.
 
 2 - Constituem receitas dos SSUE:
 
@@ -584,35 +603,35 @@ h) Quaisquer outras receitas que por lei, contrato ou a outro título lhes sejam
 
 3 - As receitas referidas nas alíneas b) a h) serão entregues nos cofres do Estado e escrituradas em contas de ordem no Orçamento do Estado, devendo ser movimentadas nos termos da lei geral aplicável.
 
-###### Art. 27.º - 1 - As disponibilidades dos SSUE serão depositadas na Caixa Geral de Depósitos, sem prejuízo de se poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devam ser feitas em dinheiro.
+Art. 27.º - 1 - As disponibilidades dos SSUE serão depositadas na Caixa Geral de Depósitos, sem prejuízo de se poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devam ser feitas em dinheiro.
 
 2 - Os pagamentos serão efectuados, em regra, por meio de cheques e estes entregues em troca dos respectivos recibos devidamente legalizados.
 
-###### Art. 28.º A gestão económica e financeira dos SSUE será disciplinada pelos seguintes instrumentos de previsão:
+Art. 28.º A gestão económica e financeira dos SSUE será disciplinada pelos seguintes instrumentos de previsão:
 
 a) Planos de actividades e financeiros anuais e plurianuais;
 
 b) Orçamentos privativos anuais e suas utilizações.
 
-###### Art. 29.º - 1 - Com base no programa de trabalho para cada ano económico, o conselho administrativo dos SSUE promoverá a elaboração do respectivo orçamento privativo anual, sem prejuízo dos desdobramentos interinos necessários à conveniente descentralização de responsabilidades e adequado controle de gestão.
+Art. 29.º - 1 - Com base no programa de trabalho para cada ano económico, o conselho administrativo dos SSUE promoverá a elaboração do respectivo orçamento privativo anual, sem prejuízo dos desdobramentos interinos necessários à conveniente descentralização de responsabilidades e adequado controle de gestão.
 
 2 - O orçamento privativo será submetido à aprovação do Ministro da Educação e Cultura, após apreciação do conselho geral e do CASES, e ao visto do Ministro das Finanças, nos prazos legais.
 
 3 - Os SSUE poderão submeter à aprovação superior, no decurso de cada ano económico, os orçamentos suplementares previstos na lei geral, destinados quer a reforçar verbas inscritas no orçamento, quer a ocorrer a despesas nele não previstas, quer ainda para fins de alteração de rubricas.
 
-###### Art. 30.º Os SSUE gozam de vantagens que a Manutenção Militar tem em matéria de aquisição de géneros alimentícios e outros produtos.
+Art. 30.º Os SSUE gozam de vantagens que a Manutenção Militar tem em matéria de aquisição de géneros alimentícios e outros produtos.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 31.º - 1 - Os SSUE dispõem do quadro de pessoal anexo ao presente diploma.
+Art. 31.º - 1 - Os SSUE dispõem do quadro de pessoal anexo ao presente diploma.
 
 2 - Sempre que as circunstâncias o justifiquem, poderá o quadro de pessoal dos SSUE ser revisto por proposta do CASES mediante portaria conjunta dos Ministros da Educação e Cultura e das Finanças e do membro do Governo que superintender na função pública.
 
-###### Art. 32.º - 1 - A distribuição do pessoal pelos diferentes serviços dos SSUE é feita por despacho do presidente.
+Art. 32.º - 1 - A distribuição do pessoal pelos diferentes serviços dos SSUE é feita por despacho do presidente.
 
 2 - O pessoal dos SSUE poderá ainda ficar adstrito aos núcleos da Universidade de Évora, mediante condições a estabelecer por despacho do presidente.
 
-###### Art. 33.º O quadro de pessoal dos SSUE compreende os seguintes grupos profissionais:
+Art. 33.º O quadro de pessoal dos SSUE compreende os seguintes grupos profissionais:
 
 a) Pessoal dirigente;
 
@@ -626,7 +645,7 @@ e) Pessoal operário;
 
 f) Pessoal auxiliar.
 
-###### Art. 34.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço, pelo período de um ano.
+Art. 34.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço, pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -644,21 +663,21 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No lugar do quadro em que vier a ser provido definitivamente finda a comissão.
 
-###### Art. 35.º - 1 - O vice-presidente dos SSUE será recrutado e provido nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e do artigo 14.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio.
+Art. 35.º - 1 - O vice-presidente dos SSUE será recrutado e provido nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e do artigo 14.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio.
 
 2 - O cargo de vice-presidente dos SSUE é equiparado, para todos os efeitos legais, ao de subdirector.
 
-###### Art. 36.º O preenchimento do lugar de chefe de repartição far-se-á de entre chefes de secção com, pelo menos, três anos de bom e efectivo serviço na categoria ou de entre indivíduos com curso superior adequado e de reconhecida competência para o exercício do cargo.
+Art. 36.º O preenchimento do lugar de chefe de repartição far-se-á de entre chefes de secção com, pelo menos, três anos de bom e efectivo serviço na categoria ou de entre indivíduos com curso superior adequado e de reconhecida competência para o exercício do cargo.
 
-###### Art. 37.º Os lugares das categorias da carreira técnica superior serão providos de acordo com o disposto na lei geral.
+Art. 37.º Os lugares das categorias da carreira técnica superior serão providos de acordo com o disposto na lei geral.
 
-###### Art. 38.º Os técnicos de serviço social de 2.ª classe serão recrutados de entre indivíduos habilitados com curso superior de serviço social ou equiparado, ficando a promoção na respectiva carreira subordinada ao disposto na lei geral.
+Art. 38.º Os técnicos de serviço social de 2.ª classe serão recrutados de entre indivíduos habilitados com curso superior de serviço social ou equiparado, ficando a promoção na respectiva carreira subordinada ao disposto na lei geral.
 
-###### Art. 39.º O recrutamento para os lugares de chefe de secção, oficial administrativo, tesoureiro e escriturário-dactilógrafo far-se-á nos termos da lei geral.
+Art. 39.º O recrutamento para os lugares de chefe de secção, oficial administrativo, tesoureiro e escriturário-dactilógrafo far-se-á nos termos da lei geral.
 
-###### Art. 40.º O recrutamento, ingresso e acesso do pessoal operário rege-se pelo disposto na lei geral.
+Art. 40.º O recrutamento, ingresso e acesso do pessoal operário rege-se pelo disposto na lei geral.
 
-###### Art. 41.º - 1 - O recrutamento para encarregado de refeitório far-se-á de entre cozinheiros principais com um mínimo de três anos de serviço e classificação não inferior a Bom, ou, na sua falta, de entre encarregados de bar/snack ou cozinheiros de 1.ª classe, em ambos os casos com, pelo menos, seis anos de serviço na categoria e classificação não inferior a Bom.
+Art. 41.º - 1 - O recrutamento para encarregado de refeitório far-se-á de entre cozinheiros principais com um mínimo de três anos de serviço e classificação não inferior a Bom, ou, na sua falta, de entre encarregados de bar/snack ou cozinheiros de 1.ª classe, em ambos os casos com, pelo menos, seis anos de serviço na categoria e classificação não inferior a Bom.
 
 2 - O recrutamento de encarregados de armazém far-se-á de entre fiéis de armazém principais com, pelo menos, três anos de bom e efectivo serviço na categoria ou, na sua falta, de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e experiência adequada ao exercício do cargo.
 
@@ -672,11 +691,11 @@ c) O lugar de cozinheiro principal será provido de entre cozinheiros de 1.ª cl
 
 4 - O recrutamento de governante de residência far-se-á, mediante prestação de provas, de entre empregados de andar/quartos de 1.ª classe com, pelo menos, cinco anos de bom e efectivo serviço na categoria.
 
-###### Art. 42.º Os lugares de telefonista, motorista de ligeiros e auxiliar administrativo serão providos nos termos da lei geral.
+Art. 42.º Os lugares de telefonista, motorista de ligeiros e auxiliar administrativo serão providos nos termos da lei geral.
 
 ### CAPÍTULO V — Disposições transitórias e finais
 
-###### Art. 43.º - 1 - A integração do pessoal que se encontra a prestar serviço a qualquer título nos SSUE, que esteja abrangido pelo disposto no artigo 40.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, em lugares do quadro anexo ao presente diploma far-se-á por diploma individual de provimento, de acordo com as seguintes regras:
+Art. 43.º - 1 - A integração do pessoal que se encontra a prestar serviço a qualquer título nos SSUE, que esteja abrangido pelo disposto no artigo 40.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, em lugares do quadro anexo ao presente diploma far-se-á por diploma individual de provimento, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário ou agente já possui;
 
@@ -698,30 +717,30 @@ c) Para categoria que resulte da aplicação da tabela de equivalência constant
 
 8 - As regras de transição para o regime referido no número anterior serão fixadas em decreto regulamentar dos Ministros das Finanças e da Educação e Cultura e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 44.º O pessoal não vinculado à função pública que, encontrando-se a prestar serviço nos SSUE ao abrigo da legislação geral de trabalho à data da entrada em vigor do presente diploma, opte pela não integração no quadro anexo será remunerado com vencimentos e outras regalias correspondentes aos dos funcionários públicos integrados em carreiras com conteúdos funcionais equivalentes, não podendo ter tratamento mais favorável do que o aplicável aos restantes trabalhadores.
+Art. 44.º O pessoal não vinculado à função pública que, encontrando-se a prestar serviço nos SSUE ao abrigo da legislação geral de trabalho à data da entrada em vigor do presente diploma, opte pela não integração no quadro anexo será remunerado com vencimentos e outras regalias correspondentes aos dos funcionários públicos integrados em carreiras com conteúdos funcionais equivalentes, não podendo ter tratamento mais favorável do que o aplicável aos restantes trabalhadores.
 
-###### Art. 45.º Os encargos resultantes da aplicação do presente diploma serão suportados pelas dotações do orçamento privativo dos SSUE.
+Art. 45.º Os encargos resultantes da aplicação do presente diploma serão suportados pelas dotações do orçamento privativo dos SSUE.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 7 de Novembro de 1986.**
+Promulgado em 7 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Novembro de 1986.**
+Referendado em 12 de Novembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Quadro de pessoal a que se refere o n.º 1 do artigo 31.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/28300/36963705.pdf))](https://files.diariodarepublica.pt/1s/1986/12/28300/36963705.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/28300/36963705.pdf)
 
 ## ANEXO II — Tabela de equivalências a que se refere a alínea c) do n.º 1 do artigo 43.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/28300/36963705.pdf))](https://files.diariodarepublica.pt/1s/1986/12/28300/36963705.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/28300/36963705.pdf)
 
 ## ANEXO — Carreiras e correspondentes áreas funcionais do pessoal a que se refere o n.º 1 do artigo 31.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/28300/36963705.pdf))](https://files.diariodarepublica.pt/1s/1986/12/28300/36963705.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/28300/36963705.pdf)

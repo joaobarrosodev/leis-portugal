@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/04/09500/14661471.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/486-1983-311864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T07:41:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ec115d653c2343791db0bf4c3cd8f758e756e383b5cada88d298beea2db8031
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c29d0502c005f5b8b2ad4589ee207f7cc6ae4a353661c384abfd073279b9c7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:41:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Médico
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:612382:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:612382:por
+  label: "Revogada pela PORT.146/89.28.02.1989.MS, DR.IS [49] de 28.02.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/146-1989-612382
+  date: '1989-02-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:41:26Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +112,7 @@ Manda o Governo da República Portuguesa, pelo Ministro dos Assuntos Sociais, ap
 
 Ministério dos Assuntos Sociais.
 
-**Assinada em 8 de Abril de 1983.**
+Assinada em 8 de Abril de 1983.
 
 Pelo Ministro dos Assuntos Sociais, Adalberto Paulo da Fonseca Mendo, Secretário de Estado da Saúde.
 
@@ -110,29 +122,29 @@ REGULAMENTO DOS CONCURSOS PARA OS GRAUS E LUGARES DOS QUADROS DE PESSOAL DA CARR
 
 ### CAPÍTULO I — Concurso de habilitação para assistente de saúde pública
 
-###### Artigo 1.º Os concursos de habilitação para o grau de assistente de saúde pública coincidem com os exames finais do internato complementar e são os que se acham previstos no regulamento do referido processo formativo.
+Artigo 1.º Os concursos de habilitação para o grau de assistente de saúde pública coincidem com os exames finais do internato complementar e são os que se acham previstos no regulamento do referido processo formativo.
 
-###### Art. 2.º A aprovação no concurso referido no número anterior confere o grau de assistente de saúde pública devidamente avalizado pelo Estado, com passagem de diploma de idoneidade profissional correspondente, conforme o modelo anexo ao regulamento referido no artigo anterior.
+Art. 2.º A aprovação no concurso referido no número anterior confere o grau de assistente de saúde pública devidamente avalizado pelo Estado, com passagem de diploma de idoneidade profissional correspondente, conforme o modelo anexo ao regulamento referido no artigo anterior.
 
-###### Art. 3.º O referido diploma de idoneidade é conferido pela instituição onde se realizou o concurso e homologado pelo Departamento de Recursos Humanos.
+Art. 3.º O referido diploma de idoneidade é conferido pela instituição onde se realizou o concurso e homologado pelo Departamento de Recursos Humanos.
 
-###### Art. 4.º Pode o mesmo diploma ser conferido pela Direcção-Geral de Saúde, mediante requerimento aos médicos que à data da publicação do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, tenham habilitação profissional legalmente correspondente.
+Art. 4.º Pode o mesmo diploma ser conferido pela Direcção-Geral de Saúde, mediante requerimento aos médicos que à data da publicação do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, tenham habilitação profissional legalmente correspondente.
 
-###### Art. 5.º O referido diploma tem validade nacional e é prova do direito ao exercício diferenciado e autónomo na área profissional respectiva.
+Art. 5.º O referido diploma tem validade nacional e é prova do direito ao exercício diferenciado e autónomo na área profissional respectiva.
 
-###### Art. 6.º O mesmo diploma pode ser exigido em qualquer contrato com os serviços do Estado para o exercício profissional diferenciado na área profissional em causa.
+Art. 6.º O mesmo diploma pode ser exigido em qualquer contrato com os serviços do Estado para o exercício profissional diferenciado na área profissional em causa.
 
-###### Art. 7.º O previsto no número anterior não prejudica os contratos em vigor à data da publicação do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto.
+Art. 7.º O previsto no número anterior não prejudica os contratos em vigor à data da publicação do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto.
 
-###### Art. 8.º A validade do referido diploma será extensiva aos países com os quais Portugal mantenha acordo de reciprocidade sobre a matéria.
+Art. 8.º A validade do referido diploma será extensiva aos países com os quais Portugal mantenha acordo de reciprocidade sobre a matéria.
 
 ### CAPÍTULO II — Concurso de provimento para subdelegado de saúde
 
-###### Art. 9.º - 1 - Os concursos de provimento em lugares de subdelegado de saúde são exclusivamente curriculares.
+Art. 9.º - 1 - Os concursos de provimento em lugares de subdelegado de saúde são exclusivamente curriculares.
 
 2 - Os concursos são realizados na área da respectiva administração regional de saúde.
 
-###### Art. 10.º Podem concorrer aos concursos referidos no artigo 9.º:
+Art. 10.º Podem concorrer aos concursos referidos no artigo 9.º:
 
 a) Os médicos habilitados com o grau de assistente de saúde pública;
 
@@ -140,7 +152,7 @@ b) Os médicos que ocupem já um lugar de subdelegado de saúde;
 
 c) Os médicos cujo curriculum seja considerado idóneo pelo Ministro dos Assuntos Sociais, sob proposta do director-geral de Saúde.
 
-###### Art. 11.º - 1 - A abertura do concurso é da responsabilidade da respectiva administração regional de saúde.
+Art. 11.º - 1 - A abertura do concurso é da responsabilidade da respectiva administração regional de saúde.
 
 2 - As administrações regionais de saúde deverão comunicar superiormente a existência de vagas nos quadros logo que estas se verifiquem, solicitando autorização para publicamente as anunciar.
 
@@ -152,7 +164,7 @@ c) Os médicos cujo curriculum seja considerado idóneo pelo Ministro dos Assunt
 
 6 - Uma vez recebido tal requerimento, deve a administração regional de saúde abrir imediatamente concurso pelo prazo de 20 dia, referindo as disposições legais que obrigam a abertura de concurso, mediante a apresentação de uma candidatura.
 
-###### Art. 12.º - 1 - As candidaturas devem ser apresentadas directamente na administração regional de saúde, em requerimento dirigido ao presidente do respectivo órgão de gestão, acompanhado de:
+Art. 12.º - 1 - As candidaturas devem ser apresentadas directamente na administração regional de saúde, em requerimento dirigido ao presidente do respectivo órgão de gestão, acompanhado de:
 
 a) Original, a título devolutivo, ou fotocópia autenticada de diploma referido no artigo 3.º;
 
@@ -168,7 +180,7 @@ f) Documento comprovativo do tempo de serviço do estabelecimento a que esteja v
 
 2 - Os documentos referidos podem no todo ou em parte ser substituídos por certificado comprovativo de sua entrega pelo candidato em estabelecimento ao qual estivesse vinculado.
 
-###### Art. 13.º - 1 - Os júris dos concursos para provimento em lugares de subdelegado de saúde, que serão designados pelas administrações regionais de saúde das respectivas áreas, têm a seguinte constituição:
+Art. 13.º - 1 - Os júris dos concursos para provimento em lugares de subdelegado de saúde, que serão designados pelas administrações regionais de saúde das respectivas áreas, têm a seguinte constituição:
 
 a) 1 presidente, que será obrigatoriamente um elemento possuidor do grau máximo da carreira;
 
@@ -178,19 +190,19 @@ b) 2 vogais, que terão no mínimo o grau correspondente àquele a que se refere
 
 3 - A homologação dos júris competirá ao director-geral de Saúde.
 
-###### Art. 14.º - 1 - Nos 8 dias que se seguirem ao termo do prazo de abertura do concurso será publicada no Diário da República pela administração regional de saúde a lista dos concorrentes, com indicação das faltas verificadas nos documentos apresentados, e, simultaneamente, a composição do júri.
+Art. 14.º - 1 - Nos 8 dias que se seguirem ao termo do prazo de abertura do concurso será publicada no Diário da República pela administração regional de saúde a lista dos concorrentes, com indicação das faltas verificadas nos documentos apresentados, e, simultaneamente, a composição do júri.
 
 2 - Os concorrentes dispõem de 10 dias após a publicação para solicitar qualquer eventual rectificação à lista referida e também para regularizar a documentação em falta.
 
 3 - Todas as questões suscitadas serão resolvidas pelas administrações regionais de saúde no prazo de 5 dias, findo o qual será publicada no Diário da República a lista definitiva dos candidatos admitidos a concurso.
 
-###### Art. 15.º - 1 - Publicada a lista referida no artigo anterior, o júri disporá de 10 dias para apreciar e classificar os candidatos em mérito relativo.
+Art. 15.º - 1 - Publicada a lista referida no artigo anterior, o júri disporá de 10 dias para apreciar e classificar os candidatos em mérito relativo.
 
 2 - A apreciação é feita mediante análise dos curricula, podendo o júri, se assim o entender, ouvir os candidatos em entrevista.
 
 3 - As classificações serão dadas mediante lista dos candidatos aprovados em mérito absoluto e ordenados por ordem decrescente dos respectivos méritos relativos.
 
-###### Art. 16.º - 1 - Concluída a aprovação dos curricula, o júri reúne para decisão final, sendo a classificação dos candidatos feita por escrutínio secreto, que deverá obedecer ao esquema que se segue:
+Art. 16.º - 1 - Concluída a aprovação dos curricula, o júri reúne para decisão final, sendo a classificação dos candidatos feita por escrutínio secreto, que deverá obedecer ao esquema que se segue:
 
 ... Coeficiente de valorização
 
@@ -206,7 +218,7 @@ e) Exercício interino ou acidental de cargos.
 
 2 - Do resultado das provas e das colocações efectuadas será dado conhecimento à Direcção-Geral de Saúde e ao Departamento de Recursos Humanos.
 
-###### Art. 17.º - 1 - Havendo coincidência de datas nos prazos de abertura de concurso de várias administrações regionais de saúde na primeira série de concurso que se realize após a publicação do presente diploma, os médicos interessados poderão candidatar-se, simultaneamente, a 3 estabelecimentos, no máximo.
+Art. 17.º - 1 - Havendo coincidência de datas nos prazos de abertura de concurso de várias administrações regionais de saúde na primeira série de concurso que se realize após a publicação do presente diploma, os médicos interessados poderão candidatar-se, simultaneamente, a 3 estabelecimentos, no máximo.
 
 2 - Serão admitidos para os lugares a concurso os candidatos aprovados, por ordem decrescente dos méritos relativos.
 
@@ -216,9 +228,9 @@ e) Exercício interino ou acidental de cargos.
 
 ### CAPÍTULO III — Concurso de habilitação para delegado de saúde
 
-###### Art. 18.º A aprovação no concurso de habilitação para delegado de saúde confere o grau de delegado de saúde, que tem validade nacional devidamente avalizada pelo Estado, com passagem de diploma de idoneidade profissional correspondente, conforme modelo anexo a este Regulamento.
+Art. 18.º A aprovação no concurso de habilitação para delegado de saúde confere o grau de delegado de saúde, que tem validade nacional devidamente avalizada pelo Estado, com passagem de diploma de idoneidade profissional correspondente, conforme modelo anexo a este Regulamento.
 
-###### Art. 19.º Podem concorrer a este concurso:
+Art. 19.º Podem concorrer a este concurso:
 
 a) Os médicos habilitados com o grau de assistente de saúde pública com, pelo menos, 5 anos de exercício correspondente a este grau;
 
@@ -226,9 +238,9 @@ b) Os médicos que, ocupando já um lugar de delegado de saúde, o queiram fazer
 
 c) Os médicos cujo curriculum seja considerado idóneo pelo Ministro dos Assuntos Sociais, sob proposta do director-geral de Saúde.
 
-###### Art. 20.º O concurso é de âmbito nacional e aberto pela Direcção-Geral de Saúde uma vez por ano.
+Art. 20.º O concurso é de âmbito nacional e aberto pela Direcção-Geral de Saúde uma vez por ano.
 
-###### Art. 21.º - 1 - As candidaturas devem ser apresentadas directamente na Direcção-Geral de Saúde, em requerimento dirigido ao director-geral de Saúde, acompanhado de:
+Art. 21.º - 1 - As candidaturas devem ser apresentadas directamente na Direcção-Geral de Saúde, em requerimento dirigido ao director-geral de Saúde, acompanhado de:
 
 a) Original, a título devolutivo, ou fotocópia autenticada de diploma referido no artigo 3.º;
 
@@ -238,7 +250,7 @@ c) Documento comprovativo do tempo de serviço do estabelecimento a que esteja v
 
 2 - Os documentos referidos podem, no todo ou em parte, ser substituídos por certificado comprovativo da sua entrega pelo candidato em estabelecimento ao qual estivesse vinculado.
 
-###### Art. 22.º - 1 - O júri do concurso para habilitação no grau de delegado de saúde, que será nomeado pela Direcção-Geral de Saúde, tem a seguinte constituição:
+Art. 22.º - 1 - O júri do concurso para habilitação no grau de delegado de saúde, que será nomeado pela Direcção-Geral de Saúde, tem a seguinte constituição:
 
 a) 1 presidente, que será obrigatoriamente um elemento possuidor do grau máximo da carreira;
 
@@ -246,13 +258,13 @@ b) 2 vogais, que terão no mínimo o grau correspondente àquele a que se refere
 
 2 - As decisões são tomadas por maioria.
 
-###### Art. 23.º - 1 - Nos 8 dias que se seguirem ao termo do prazo de abertura do concurso será publicada no Diário da República a lista dos concorrentes, com indicação das faltas verificadas nos documentos apresentados, e, simultaneamente, afixada a composição do júri.
+Art. 23.º - 1 - Nos 8 dias que se seguirem ao termo do prazo de abertura do concurso será publicada no Diário da República a lista dos concorrentes, com indicação das faltas verificadas nos documentos apresentados, e, simultaneamente, afixada a composição do júri.
 
 2 - Os concorrentes dispõem de 10 dias após a publicação para solicitar qualquer eventual rectificação à lista referida e também para regularizar a documentação em falta.
 
 3 - Todas as questões suscitadas serão resolvidas pela Direcção-Geral de Saúde no prazo de 5 dias, findo o qual será publicada no Diário da República a lista definitiva dos candidatos admitidos a concurso.
 
-###### Art. 24.º - 1 - Publicada a lista referida no artigo anterior, o júri disporá de 10 dias para apreciar e classificar os candidatos em mérito absoluto.
+Art. 24.º - 1 - Publicada a lista referida no artigo anterior, o júri disporá de 10 dias para apreciar e classificar os candidatos em mérito absoluto.
 
 2 - A apreciação é feita mediante análise dos curricula, podendo o júri, se assim o entender, ouvir os candidatos em entrevista.
 
@@ -260,11 +272,11 @@ b) 2 vogais, que terão no mínimo o grau correspondente àquele a que se refere
 
 ### CAPÍTULO IV — Concurso de provimento para delegado de saúde
 
-###### Art. 25.º - 1 - Os concursos para provimento de lugares de delegado de saúde são exclusivamente curriculares.
+Art. 25.º - 1 - Os concursos para provimento de lugares de delegado de saúde são exclusivamente curriculares.
 
 2 - Os concursos são relizados na área da respectiva administração regional de saúde.
 
-###### Art. 26.º Podem concorrer a estes concursos:
+Art. 26.º Podem concorrer a estes concursos:
 
 a) Os médicos habilitados com o grau de delegado de saúde;
 
@@ -272,7 +284,7 @@ b) Os médicos já titulares de um lugar de delegado de saúde;
 
 c) Os médicos cujo curriculum seja considerado idóneo pelo Ministro dos Assuntos Sociais, sob proposta do director-geral de Saúde.
 
-###### Art. 27.º - 1 - A abertura do concurso é da responsabilidade da respectiva administração regional de saúde.
+Art. 27.º - 1 - A abertura do concurso é da responsabilidade da respectiva administração regional de saúde.
 
 2 - As administrações regionais de saúde deverão comunicar superiormente a existência de vagas nos quadros logo que estas se verifiquem, solicitando autorização para publicamente as anunciar.
 
@@ -284,7 +296,7 @@ c) Os médicos cujo curriculum seja considerado idóneo pelo Ministro dos Assunt
 
 6 - Uma vez recebido tal requerimento, deve a administração regional de saúde abrir imediatamente concurso pelo prazo de 20 dias, referindo as disposições legais que obrigam a abertura de concurso, mediante a apresentação de uma candidatura.
 
-###### Art. 28.º - 1 - As candidaturas devem ser apresentadas directamente na administração regional de saúde, em requerimento dirigido ao presidente do respectivo órgão de gestão, acompanhado de:
+Art. 28.º - 1 - As candidaturas devem ser apresentadas directamente na administração regional de saúde, em requerimento dirigido ao presidente do respectivo órgão de gestão, acompanhado de:
 
 a) Original, a título devolutivo, ou fotocópia autenticada de diploma referido no artigo 18.º;
 
@@ -300,7 +312,7 @@ f) Documento comprovativo do tempo de serviço do estabelecimento a que esteja v
 
 2 - Os documentos referidos podem, no todo ou em parte, ser substituídos por certificado comprovativo da sua entrega pelo candidato em estabelecimento ao qual estivesse vinculado.
 
-###### Art. 29.º - 1 - Os júris dos concursos para provimento em lugares de delegado de saúde, que serão designados pelas administrações regionais de saúde das respectivas áreas, têm a seguinte constituição:
+Art. 29.º - 1 - Os júris dos concursos para provimento em lugares de delegado de saúde, que serão designados pelas administrações regionais de saúde das respectivas áreas, têm a seguinte constituição:
 
 a) 1 presidente, que será obrigatoriamente um elemento possuidor do grau máximo da carreira;
 
@@ -310,19 +322,19 @@ b) 2 vogais, que terão, no mínimo, o grau de delegado de saúde.
 
 3 - A homologação do júri competirá ao director-geral de Saúde.
 
-###### Art. 30.º - 1 - Nos 8 dias que se seguirem ao termo do prazo de abertura do concurso será publicada no Diário da República a lista dos concorrentes, com indicação das faltas verificadas nos documentos apresentados, e, simultaneamente, a composição do júri.
+Art. 30.º - 1 - Nos 8 dias que se seguirem ao termo do prazo de abertura do concurso será publicada no Diário da República a lista dos concorrentes, com indicação das faltas verificadas nos documentos apresentados, e, simultaneamente, a composição do júri.
 
 2 - Os concorrentes dispõem de 10 dias após a publicação para solicitar qualquer eventual rectificação à lista referida e também para regularizar a documentação em falta.
 
 3 - Todas as questões susciadas serão resolvidas pelas administrações regionais de saúde no prazo de 5 dias, findo o qual será publicada no Diário da República a lista definitiva dos candidatos admitidos a concurso.
 
-###### Art. 31.º - 1 - Publicada a lista referida no número anterior, o júri disporá de 10 dias para apreciar e classificar os candidatos em mérito relativo.
+Art. 31.º - 1 - Publicada a lista referida no número anterior, o júri disporá de 10 dias para apreciar e classificar os candidatos em mérito relativo.
 
 2 - A apreciação é feita mediante análise dos curricula, podendo o júri, se assim o entender, ouvir os candidatos em entrevista.
 
 3 - As classificações finais serão dadas mediante lista dos candidatos aprovados, por ordem decrescente dos respectivos méritos relativos.
 
-###### Art. 32.º - 1 - Concluída a apreciação dos curricula, o júri reúne para decisão final, sendo obrigatoriamente considerados os seguintes elementos, valorizados segundo a ordem que se segue:
+Art. 32.º - 1 - Concluída a apreciação dos curricula, o júri reúne para decisão final, sendo obrigatoriamente considerados os seguintes elementos, valorizados segundo a ordem que se segue:
 
 ... Coeficiente de valorização
 
@@ -336,7 +348,7 @@ d) Outros elementos ... 1
 
 2 - Do resultado final do concurso será dado conhecimento à Direcção-Geral de Saúde e ao Departamento de Recursos Humanos.
 
-###### Art. 33.º - 1 - Havendo coincidência de datas nos prazos de abertura do concurso de várias administrações regionais de saúde na primeira série de concursos que se realize após a publicação do presente diploma, os médicos interessados poderão candidatar-se, simultaneamente, a 3 estabelecimentos no máximo.
+Art. 33.º - 1 - Havendo coincidência de datas nos prazos de abertura do concurso de várias administrações regionais de saúde na primeira série de concursos que se realize após a publicação do presente diploma, os médicos interessados poderão candidatar-se, simultaneamente, a 3 estabelecimentos no máximo.
 
 2 - Serão admitidos para os lugares a concurso os candidatos aprovados, por ordem decrescente dos méritos relativos.
 
@@ -346,9 +358,9 @@ d) Outros elementos ... 1
 
 ### CAPÍTULO V — Concurso de habilitação para chefe de serviço de saúde pública
 
-###### Art. 34.º O concurso de habilitação para chefe de serviço de saúde pública realiza-se uma vez por ano e a respectiva aprovação confere o grau de chefe de serviço de saúde pública que tem validade nacional devidamente formalizada pelo Estado.
+Art. 34.º O concurso de habilitação para chefe de serviço de saúde pública realiza-se uma vez por ano e a respectiva aprovação confere o grau de chefe de serviço de saúde pública que tem validade nacional devidamente formalizada pelo Estado.
 
-###### Art. 35.º Podem concorrer a este concurso:
+Art. 35.º Podem concorrer a este concurso:
 
 a) Os delegados de saúde com, pelo menos, 5 anos de exercício correspondente a este grau e aprovação em adequado curso de especialização;
 
@@ -356,23 +368,23 @@ b) Os médicos que, ocupando já um lugar de chefe de serviço de saúde públic
 
 c) Os médicos cujo curriculum seja considerado idóneo pelo Ministro dos Assuntos Sociais, sob proposta do director-geral de Saúde.
 
-###### Art. 36.º O concurso é de âmbito nacional e aberto pela Direcção-Geral de Saúde.
+Art. 36.º O concurso é de âmbito nacional e aberto pela Direcção-Geral de Saúde.
 
-###### Art. 37.º - 1 - O júri do concurso de habilitação para chefe de serviço de saúde pública será nomeado pelo director-geral de Saúde e constituído por 1 presidente e 4 vogais, que terão obrigatoriamente o grau de chefe de serviço de saúde pública.
+Art. 37.º - 1 - O júri do concurso de habilitação para chefe de serviço de saúde pública será nomeado pelo director-geral de Saúde e constituído por 1 presidente e 4 vogais, que terão obrigatoriamente o grau de chefe de serviço de saúde pública.
 
 2 - As decisões são tornadas por maioria.
 
-###### Art. 38.º - 1 - As candidaturas devem ser apresentadas directamente na Direcção-Geral de Saúde, em requerimento dirigido ao director-geral de Saúde, acompanhado de 6 exemplares do curriculum vitae e ainda da documentação referida no n.º 1 do artigo 12.º
+Art. 38.º - 1 - As candidaturas devem ser apresentadas directamente na Direcção-Geral de Saúde, em requerimento dirigido ao director-geral de Saúde, acompanhado de 6 exemplares do curriculum vitae e ainda da documentação referida no n.º 1 do artigo 12.º
 
 2 - Os documentos referidos podem, no todo ou em parte, ser substituídos por certificado comprovativo da sua entrega pelo candidato em estabelecimento ao qual estivesse vinculado.
 
-###### Art. 39.º - 1 - Nos 8 dias que se seguirem ao termo do prazo de abertura do concurso será mandada publicar no Diário da República a lista dos concorrentes, com indicação das faltas verificadas nos documentos apresentados, e, simultaneamente, a composição do júri.
+Art. 39.º - 1 - Nos 8 dias que se seguirem ao termo do prazo de abertura do concurso será mandada publicar no Diário da República a lista dos concorrentes, com indicação das faltas verificadas nos documentos apresentados, e, simultaneamente, a composição do júri.
 
 2 - Os concorrentes dispõem de 10 dias após a publicação para solicitar qualquer eventual rectificação à lista referida e também para regularizar a documentação em falta.
 
 3 - Todas as questões suscitadas serão resolvidas pela Direcção-Geral de Saúde no prazo de 5 dias, findo o qual será publicada a lista definitiva dos candidatos admitidos a concurso.
 
-###### Art. 40.º - 1 - O concurso de habilitação para chefe de serviço de saúde pública constará de discussão dos curricula e de provas escritas, orais e práticas.
+Art. 40.º - 1 - O concurso de habilitação para chefe de serviço de saúde pública constará de discussão dos curricula e de provas escritas, orais e práticas.
 
 2 - A apreciação do curriculum vitae será feita de acordo com o seguinte esquema valorativo:
 
@@ -398,39 +410,39 @@ d) Prova escrita sobre nutrição;
 
 c) Prova oral sobre saúde ocupacional.
 
-###### Art. 41.º A ordem das provas será a indicada no artigo anterior.
+Art. 41.º A ordem das provas será a indicada no artigo anterior.
 
-###### Art. 42.º A ordem de chamada dos candidatos será feita, em cada dia, por sorteio entre os candidatos que ainda não tenham realizado a prova, para o que serão previamente numerados por ordem alfabética.
+Art. 42.º A ordem de chamada dos candidatos será feita, em cada dia, por sorteio entre os candidatos que ainda não tenham realizado a prova, para o que serão previamente numerados por ordem alfabética.
 
-###### Art. 43.º As provas realizar-se-ão nos dias, horas e locais que forem designados pelo júri em avisos afixados na Direcção-Geral de Saúde.
+Art. 43.º As provas realizar-se-ão nos dias, horas e locais que forem designados pelo júri em avisos afixados na Direcção-Geral de Saúde.
 
-###### Art. 44.º O candidato que não comparecer à hora marcada para a prestação de provas ficará excluído do concurso.
+Art. 44.º O candidato que não comparecer à hora marcada para a prestação de provas ficará excluído do concurso.
 
-###### Art. 45.º Os pontos das provas escritas serão tirados à sorte imediatamente antes de cada prova; esta terá a duração de 3 horas.
+Art. 45.º Os pontos das provas escritas serão tirados à sorte imediatamente antes de cada prova; esta terá a duração de 3 horas.
 
-###### Art. 46.º A prova prática de técnica sanitária constará de 2 partes: a primeira, com duração nunca superior a 2 horas a contar da hora da chegada ao local. constará de uma inspecção ou vistoria sanitária; a segunda, da elaboração do respectivo relatório, com a duração de 3 horas.
+Art. 46.º A prova prática de técnica sanitária constará de 2 partes: a primeira, com duração nunca superior a 2 horas a contar da hora da chegada ao local. constará de uma inspecção ou vistoria sanitária; a segunda, da elaboração do respectivo relatório, com a duração de 3 horas.
 
-###### Art. 47.º Cada prova escrita e cada relatório da prova prática de técnica sanitária, depois de assinados pelo concorrente, serão mantidos em envelopes, que serão lacrados e rubricados pelo presidente do júri.
+Art. 47.º Cada prova escrita e cada relatório da prova prática de técnica sanitária, depois de assinados pelo concorrente, serão mantidos em envelopes, que serão lacrados e rubricados pelo presidente do júri.
 
-###### Art. 48.º Terminadas as provas escritas e as provas práticas, cada concorrente fará a leitura dessas suas provas em dias designados pelo júri, que poderá discuti-las em tempo não superior a 10 minutos para cada membro do júri, considerando-se compreendidos nesses 10 minutos a argumentação dos membros do júri e a resposta do candidato.
+Art. 48.º Terminadas as provas escritas e as provas práticas, cada concorrente fará a leitura dessas suas provas em dias designados pelo júri, que poderá discuti-las em tempo não superior a 10 minutos para cada membro do júri, considerando-se compreendidos nesses 10 minutos a argumentação dos membros do júri e a resposta do candidato.
 
-###### Art. 49.º Os pontos das provas orais, em número de 15 para cada área, serão afixados na Direcção-Geral de Saúde pelo menos 30 dias antes da realização das provas.
+Art. 49.º Os pontos das provas orais, em número de 15 para cada área, serão afixados na Direcção-Geral de Saúde pelo menos 30 dias antes da realização das provas.
 
-###### Art. 50.º O sorteio do ponto sobre o qual cada candidato deverá prestar a sua prova far-se-á sempre entre todos os pontos que digam respeito à prova.
+Art. 50.º O sorteio do ponto sobre o qual cada candidato deverá prestar a sua prova far-se-á sempre entre todos os pontos que digam respeito à prova.
 
-###### Art. 51.º As provas escritas e os relatórios das provas de técnica sanitária serão executados em papel entregue e rubricado pelo presidente do júri, bem como quaisquer apontamentos que os candidatos tenham de escolher para a execução das provas.
+Art. 51.º As provas escritas e os relatórios das provas de técnica sanitária serão executados em papel entregue e rubricado pelo presidente do júri, bem como quaisquer apontamentos que os candidatos tenham de escolher para a execução das provas.
 
-###### Art. 52.º Todo o candidato que durante a prestação das provas utilizar elementos não autorizados pelo júri será excluído do concurso.
+Art. 52.º Todo o candidato que durante a prestação das provas utilizar elementos não autorizados pelo júri será excluído do concurso.
 
-###### Art. 53.º Os membros do júri fiscalizarão convenientemente a elaboração das provas escritas e dos relatórios das provas práticas.
+Art. 53.º Os membros do júri fiscalizarão convenientemente a elaboração das provas escritas e dos relatórios das provas práticas.
 
-###### Art. 54.º Os pontos para as provas orais serão tirados lá sorte, com 10 minutos de antecedência para ordenação da respectiva prova, tendo o candidato 30 minutos para a sua exposição.
+Art. 54.º Os pontos para as provas orais serão tirados lá sorte, com 10 minutos de antecedência para ordenação da respectiva prova, tendo o candidato 30 minutos para a sua exposição.
 
-###### Art. 55.º O júri poderá interrogar os candidatos sobre a matéria das provas orais prestadas, não devendo a discussão exceder 10 minutos para cada membro do júri, incluindo-se nesse prazo as respostas dos concorrentes.
+Art. 55.º O júri poderá interrogar os candidatos sobre a matéria das provas orais prestadas, não devendo a discussão exceder 10 minutos para cada membro do júri, incluindo-se nesse prazo as respostas dos concorrentes.
 
-###### Art. 56.º As provas orais e a leitura das provas escritas e dos relatórios das provas práticas serão públicas.
+Art. 56.º As provas orais e a leitura das provas escritas e dos relatórios das provas práticas serão públicas.
 
-###### Art. 57.º - 1 - Cada uma das provas é, por si, eliminatória.
+Art. 57.º - 1 - Cada uma das provas é, por si, eliminatória.
 
 2 - As classificações em mérito absoluto serão tornadas públicas no fim de cada sessão de provas, só podendo efectuar a prova seguinte o candidato aprovado na prova anterior.
 
@@ -440,7 +452,7 @@ c) Prova oral sobre saúde ocupacional.
 
 5 - Caso se mantenha a igualdade, a ordenação será feita por votações sucessivas para cada um dos lugares em causa.
 
-###### Art. 58.º - 1 - Concluída a apreciação dos curricula, o júri reúne para decisão final, sendo obrigatoriamente considerados os seguintes elementos, valorizados segundo a ordem que se segue:
+Art. 58.º - 1 - Concluída a apreciação dos curricula, o júri reúne para decisão final, sendo obrigatoriamente considerados os seguintes elementos, valorizados segundo a ordem que se segue:
 
 a) Classificações obtidas em exame, concursos e cursos da carreira médica, segundo a sua importância relativa;
 
@@ -456,11 +468,11 @@ d) Outros elementos.
 
 ### CAPÍTULO VI — Concurso de provimento para chefe de serviço de saúde pública
 
-###### Art. 59.º - 1 - Os concursos de provimento em lugares de chefe de serviço de saúde pública serão curriculares.
+Art. 59.º - 1 - Os concursos de provimento em lugares de chefe de serviço de saúde pública serão curriculares.
 
 2 - Os concursos serão realizados na área da respectiva administração regional de saúde.
 
-###### Art. 60.º Podem concorrer a este concurso:
+Art. 60.º Podem concorrer a este concurso:
 
 a) Os médicos habilitados com o grau de chefe de serviço de saúde pública;
 
@@ -468,7 +480,7 @@ b) Os médicos já titulares de um lugar de chefe de serviço de saúde pública
 
 c) Os médicos cujo curriculum seja considerado idóneo pelo Ministro dos Assuntos Sociais, sob proposta do director-geral de Saúde.
 
-###### Art. 61.º - 1 - A abertura do concurso é da responsabilidade da respectiva administração regional de saúde.
+Art. 61.º - 1 - A abertura do concurso é da responsabilidade da respectiva administração regional de saúde.
 
 2 - As administrações regionais de saúde deverão comunicar superiormente a existência de vagas nos quadros logo que estas se verifiquem, solicitando autorização para publicamente as anunciar.
 
@@ -480,7 +492,7 @@ c) Os médicos cujo curriculum seja considerado idóneo pelo Ministro dos Assunt
 
 6 - Uma vez recebido tal requerimento, deve a administração regional de saúde abrir imediatamente concurso pelo prazo de 20 dias, referindo as disposições legais que obrigam a abertura de concurso, mediante a apresentação de uma candidatura.
 
-###### Art. 62.º - 1 - As candidaturas devem ser apresentadas directamente na administração regional de saúde, em requerimento dirigido ao presidente do órgão de gestão, acompanhado de:
+Art. 62.º - 1 - As candidaturas devem ser apresentadas directamente na administração regional de saúde, em requerimento dirigido ao presidente do órgão de gestão, acompanhado de:
 
 a) Original a título devolutivo ou fotocópia autenticada do diploma referido no artigo 58.º;
 
@@ -496,27 +508,27 @@ f) Documento comprovativo do tempo de serviço no estabelecimento a que esteja v
 
 2 - Os documentos referidos podem, no todo ou em parte, ser substituídos por certificado comprovativo da sua entrega pelo candidato em estabelecimento ao qual esteja vinculado, com excepção dos exemplares do curriculum.
 
-###### Art. 63.º - 1 - Os júris dos concursos para provimento em lugares de chefe de serviço de saúde pública serão designados pelas administrações regionais de saúde da respectiva área e constituídos por 1 presidente e 2 vogais, que terão obrigatoriamente o grau de chefe de serviço de saúde pública.
+Art. 63.º - 1 - Os júris dos concursos para provimento em lugares de chefe de serviço de saúde pública serão designados pelas administrações regionais de saúde da respectiva área e constituídos por 1 presidente e 2 vogais, que terão obrigatoriamente o grau de chefe de serviço de saúde pública.
 
 2 - As decisões serão tomadas por maioria.
 
 3 - A homologação do júri competirá ao director-geral de Saúde.
 
-###### Art. 64.º - 1 - Nos 8 dias que se seguirem ao termo do prazo de abertura do concurso será mandada publicar no Diário da República pela administração regional de saúde da respectiva área a lista dos concorrentes, com indicação das faltas verificadas nos documentos apresentados, e, simultaneamente, a composição do júri.
+Art. 64.º - 1 - Nos 8 dias que se seguirem ao termo do prazo de abertura do concurso será mandada publicar no Diário da República pela administração regional de saúde da respectiva área a lista dos concorrentes, com indicação das faltas verificadas nos documentos apresentados, e, simultaneamente, a composição do júri.
 
 2 - Os concorrentes dispõem de 10 dias após a publicação para solicitar qualquer eventual rectificação à lista referida e também para regularizar a documentação em falta.
 
 3 - Todas as questões suscitadas serão resolvidas pela administração regional de saúde no prazo de 5 dias, findo o qual será publicada no Diário da República a lista definitiva dos candidatos admitidos a concurso.
 
-###### Art. 65.º - 1 - Publicada a lista referida no número anterior, o júri disporá de 10 dias para apreciar e classificar os candidatos em mérito relativo.
+Art. 65.º - 1 - Publicada a lista referida no número anterior, o júri disporá de 10 dias para apreciar e classificar os candidatos em mérito relativo.
 
 2 - A apreciação é feita segundo o critério que se refere no artigo 67.º do presente Regulamento, devendo estar concluída no prazo de 30 dias a contar da publicação da lista definitiva dos candidatos admitidos.
 
-###### Art. 66.º - 1 - A classificação final do concurso será dada após a apreciação dos curricula mediante lista, na qual os candidatos serão ordenados por ordem descrescente do respectivo mérito relativo.
+Art. 66.º - 1 - A classificação final do concurso será dada após a apreciação dos curricula mediante lista, na qual os candidatos serão ordenados por ordem descrescente do respectivo mérito relativo.
 
 2 - Caso se mantenha a igualdade, a ordenação será feita por votações sucessivas para cada um dos lugares em causa.
 
-###### Art. 67.º - 1 - Concluída a apreciação dos curricula, o júri reúne para decisão final, sendo obrigatoriamente considerados os seguintes elementos, valorizados segundo a ordem que se segue:
+Art. 67.º - 1 - Concluída a apreciação dos curricula, o júri reúne para decisão final, sendo obrigatoriamente considerados os seguintes elementos, valorizados segundo a ordem que se segue:
 
 ... Coeficiente de valorização
 
@@ -528,7 +540,7 @@ b) Curso complementar de saúde pública ... 1
 
 3 - Do resultado final do concurso será dado conhecimento à Direcção-Geral de Saúde e ao Departamento de Recursos Humanos.
 
-###### Art. 68.º - 1 - Havendo coincidência de datas nos prazos de abertura de concurso de várias administrações regionais de saúde na primeira série de concursos que se realize após a publicação do presente diploma, os médicos interessados poderão candidatar-se, simultaneamente, a 3 estabelecimentos, no máximo.
+Art. 68.º - 1 - Havendo coincidência de datas nos prazos de abertura de concurso de várias administrações regionais de saúde na primeira série de concursos que se realize após a publicação do presente diploma, os médicos interessados poderão candidatar-se, simultaneamente, a 3 estabelecimentos, no máximo.
 
 2 - Serão admitidos para os lugares a concurso os candidatos aprovados, por ordem decrescente dos méritos relativos.
 
@@ -538,12 +550,12 @@ b) Curso complementar de saúde pública ... 1
 
 ### CAPÍTULO VII
 
-###### Art. 69.º As competências atribuídas neste diploma às administrações regionais de saúde pertencerão nas regiões autónomas às respectivas Secretarias Regionais dos Assuntos Sociais.
+Art. 69.º As competências atribuídas neste diploma às administrações regionais de saúde pertencerão nas regiões autónomas às respectivas Secretarias Regionais dos Assuntos Sociais.
 
-###### Art. 70.º As dúvidas suscitadas na interpretação deste Regulamento serão esclarecidas por despacho do Ministro dos Assuntos Sociais.
+Art. 70.º As dúvidas suscitadas na interpretação deste Regulamento serão esclarecidas por despacho do Ministro dos Assuntos Sociais.
 
-###### Art. 71.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 71.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Pelo Ministro dos Assuntos Sociais, Adalberto Paulo da Fonseca Mendo, Secretário de Estado da Saúde.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09500/14661471.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09500/14661471.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09500/14661471.pdf)

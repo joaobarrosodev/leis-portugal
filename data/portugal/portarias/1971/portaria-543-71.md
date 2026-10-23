@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/543-1971-632908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31c475e1036bbbe0154c0b3a758eef267e2017617f4f838923249b7b6be09306
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfc81b652ebb60dcf87107ff2abb40bebe8506102d00c41d0d5a3fc8d2d7e800
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,31 @@ relationships:
   target: pt:dre:335891:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:541975:por
+  label: Alterado o quadro II anexo à presente portaria, pelo(a) Portaria n.º 830-D/74 - Diário do Governo n.º 298/1974, 1º
+    Suplemento, Série I de 1974-12-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/830-d-1974-541975
+  date: '1974-12-22'
+- type: amended_by
+  target: pt:dre:335891:por
+  label: Alterado o quadro III pelo(a) Portaria n.º 342/75 - Diário do Governo n.º 131/1975, Série I de 1975-06-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/342-1975-335891
+  date: '1975-06-07'
+- type: cites
+  target: pt:dre:141237:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:30Z'
   warnings: []
   errors: []
 ---
@@ -94,10 +109,10 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Ex�
 
 Nos anos de 1972 a 1976 o preenchimento das vagas no quadro da arma de transmissões, bem como o preenchimento das vagas nos quadros da arma de engenharia e do serviço de material, resultantes da transferência de pessoal destes dois quadros para o primeiro, deverá processar-se de acordo com os planos constantes dos quadros I a VIII anexos.
 
-**O Ministro das Finanças, João Augusto Dias Rosas. - O Ministro do Exército, Horácio José de Sá Viana Rebelo.**
+O Ministro das Finanças, João Augusto Dias Rosas. - O Ministro do Exército, Horácio José de Sá Viana Rebelo.
 
 Do QUADRO I ao QUADRO VIII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/23500/14971498.pdf))](https://files.diariodarepublica.pt/1s/1971/10/23500/14971498.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/23500/14971498.pdf)
 
-**O Ministro do Exército, Horácio José de Sá Viana Rebelo.**
+O Ministro do Exército, Horácio José de Sá Viana Rebelo.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/5/1994/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1994-515455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf49a4cc9ea7ed85bb369703363aeb79ecf94d6274eef1bc99b1bac98b44c272
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 606a2be3c00f55b9f457111ba0ec74650f3208c6fb8f977896cd2c877f0db91f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embaixada
 - Autonomia Administrativa
-- Gestão Financeira
 - Definição de Competências
+- Embaixada
 - Fundo de Maneio
+- Gestão Financeira
 - Gestão Orçamental
 - Ministério dos Negócios Estrangeiros
 relationships:
@@ -77,6 +77,50 @@ relationships:
   target: pt:dre:115312061:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:543049:por
+  label: "Determinado que os serviços externos temporários do Ministério dos Negócios Estrangeiros continuem, em 2012, a reger-se\
+    \ pelo regime jurídico definido no presente diploma pelo DEC LEI.32/2012.13.02.2012.MF, DR.IS [31] de 13.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2012-543049
+  date: '2012-02-13'
+- type: amended_by
+  target: pt:dre:258755:por
+  label: "Determinado que os serviços externos temporários do Ministério dos Negócios Estrangeiros continuem, em 2013, a reger-se\
+    \ pelo regime jurídico do presente diploma, pelo DEC LEI.36/2013.11.03.2013.MF, DR.IS [49] de 11.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2013-258755
+  date: '2013-03-11'
+- type: amended_by
+  target: pt:dre:25344734:por
+  label: "Determinado que os serviços externos temporários do Ministério dos Negócios Estrangeiros continuem, em 2014, a reger-se\
+    \ pelo regime jurídico definido no presente diploma pelo DEC LEI.52/2014.07.04.2014.MF, DR.IS [68] de 07.04.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2014-25344734
+  date: '2014-04-07'
+- type: amended_by
+  target: pt:dre:74126124:por
+  label: Determinado que, em 2016, os serviços externos temporários do Ministério dos Negócios Estrangeiros (MNE) continuem
+    a reger-se pelo regime jurídico definido para os serviços externos permanentes, constante do presente diploma, pelo(a)
+    Decreto-Lei n.º 18/2016 - Diário da República n.º 72/2016, Série I de 2016-04-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2016-74126124
+  date: '2016-04-13'
+- type: amended_by
+  target: pt:dre:106549661:por
+  label: Determinado que, em 2017, os serviços externos temporários do Ministério dos Negócios Estrangeiros (MNE), continuam
+    a reger-se pelo regime jurídico definido para os serviços externos permanentes constante do presente diploma pelo(a) Decreto-Lei
+    n.º 25/2017 - Diário da República n.º 45/2017, Série I de 2017-03-03, que manteve em vigor, durante o ano de 2017, nos
+    termos do disposto no n.º 4 do seu art. 46.º, as disposições que permitam assegurar o regime jurídico de autonomia administrativa
+    atribuído aos serviços periféricos externos do MNE.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2017-106549661
+  date: '2017-03-03'
+- type: amended_by
+  target: pt:dre:115312061:por
+  label: Determinado que, em 2018, os serviços externos temporários do Ministério dos Negócios Estrangeiros (MNE), continuem
+    a reger-se pelo regime jurídico definido para os serviços externos permanentes no presente diploma, pelo(a) Decreto-Lei
+    n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15, e mantidas em vigor, durante o ano de 2018, nos
+    termos do disposto no n.º 4 do art. 49.º daquele decreto-lei, as disposições que permitam assegurar o regime jurídico
+    de autonomia administrativa atribuído aos serviços periféricos externos do MNE, relativas à consolidação orçamental da
+    entidade contabilística «Gestão Administrativa e Financeira do Ministério dos Negócios Estrangeiros».
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2018-115312061
+  date: '2018-05-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
   label: null
@@ -85,16 +129,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/48/1994/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/48/1994/02/24/p/dre
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515471:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:16Z'
   warnings: []
   errors: []
 ---
@@ -199,12 +255,12 @@ Presidência do Conselho de Ministros, 25 de Outubro de 1993.
 
 Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Manuel Durão Barroso.
 
-**Promulgado em 21 de Janeiro de 1994.**
+Promulgado em 21 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Janeiro de 1994.**
+Referendado em 24 de Janeiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

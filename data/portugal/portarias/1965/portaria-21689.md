@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21689-1965-512254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58c24f88c7babbea8c11374569fda26bfd3f6c0753e60f4d02ad816edb92e4da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e71656eeecb69f95f0c3374e4ee8a2426dfd7e6095bb5e8dd00e38113eaa2110
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429587:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:31Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +104,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, aprovar e pu
 
 1.º O artigo 22.º passa a ter a seguinte redacção:
 
-###### Art. 22.º As calças azuis para praças de marinhagem (figs. 23 e 24) são de flanela de lã sarjada azul-ferrete, sem listas nem pestanas, tendo alçapão, que é abotoado à frente com quatro botões do padrão n.º 7, colocados transversalmente. No interior, o alçapão possui duas abas, abotoadas a meio por três botões do mesmo padrão, levando a aba do lado direito uma algibeira de 0,015 m de largura e 0,019 m de comprimento.
+Art. 22.º As calças azuis para praças de marinhagem (figs. 23 e 24) são de flanela de lã sarjada azul-ferrete, sem listas nem pestanas, tendo alçapão, que é abotoado à frente com quatro botões do padrão n.º 7, colocados transversalmente. No interior, o alçapão possui duas abas, abotoadas a meio por três botões do mesmo padrão, levando a aba do lado direito uma algibeira de 0,015 m de largura e 0,019 m de comprimento.
 
 O cós da calça tem 0,06 m de altura, leva sete passadeiras e o forro do cós é do mesmo tecido.
 
@@ -100,7 +112,7 @@ As calças em baixo são cortadas em feitio de boca de sino, com largura inferio
 
 2.º O artigo 26.º passa a ter a seguinte redacção:
 
-###### Art. 26.º As calças de trabalho para sargentos e praças (figs. 23-A e 24-A) são de cotim de algodão azulado, direitas, sem listas nem pestanas, tendo braguilha abotoada com seis botões pretos do padrão n.º 7, em carcela de 0,04 m de largura.
+Art. 26.º As calças de trabalho para sargentos e praças (figs. 23-A e 24-A) são de cotim de algodão azulado, direitas, sem listas nem pestanas, tendo braguilha abotoada com seis botões pretos do padrão n.º 7, em carcela de 0,04 m de largura.
 
 De cada lado, junto à costura lateral, tem uma algibeira interior de 0,15 m de largura por 0,25 m de altura, de zuarte azul-ferrete; a abertura destas algibeiras é vertical e está colocada na costura lateral das calças.
 
@@ -110,13 +122,13 @@ Largura inferior da perna entre 0,25 m e 0,28 m e bainha interior de 0,035 m de 
 
 3.º O artigo 27.º passa a ter a seguinte redacção:
 
-###### Art. 27.º Os calções de banho para sargentos e praças são de sarja de nylon surat azul-escuro. Interiormente têm uma trousse de mousse nylon.
+Art. 27.º Os calções de banho para sargentos e praças são de sarja de nylon surat azul-escuro. Interiormente têm uma trousse de mousse nylon.
 
 O ajustamento à cintura é feito por meio de uma bainha elástica, reforçada por um cordão de seda.
 
 4.º O artigo 30.º passa a ter a seguinte redacção:
 
-###### Art. 30.º A camisa azul para sargentos e praças (fig. 27) é de tecido de algodão (popelina) azul-mescla, com colarinho pegado de 0,035 m de altura atrás e 0,075 m nos bicos, de manga comprida com punhos simples de 0,06 m de altura, abotoado por um botão cinzento-azulado do padrão n.º 7.
+Art. 30.º A camisa azul para sargentos e praças (fig. 27) é de tecido de algodão (popelina) azul-mescla, com colarinho pegado de 0,035 m de altura atrás e 0,075 m nos bicos, de manga comprida com punhos simples de 0,06 m de altura, abotoado por um botão cinzento-azulado do padrão n.º 7.
 
 O colarinho tem, a 0,05 m dos vértices exteriores e na linha de bissectriz do ângulo formado nos dois bicos, orifícios caseados para colocar as âncoras metálicas.
 
@@ -140,7 +152,7 @@ Este distintivo é usado nos uniformes n.os 1, 2, 3 e 4 e noutros uniformes, qua
 
 6.º É aumentado o artigo 50-A, com a seguinte redacção:
 
-###### Art. 50.º-A. O distintivo de frequência do curso de formação de oficiais do serviço especial.
+Art. 50.º-A. O distintivo de frequência do curso de formação de oficiais do serviço especial.
 
 O sargento ou praça que frequente o curso de formação de oficiais do serviço especial usa uma estrela de seis pontas, com 0,0075 m de raio (fig. 88-A), bordada a fio de ouro, num círculo de pano azul-ferrete de 0,014 m de raio.
 
@@ -150,7 +162,7 @@ O sargento-ajudante usa a estrela colocada superiormente ao distintivo de classe
 
 7.º O artigo 58.º passa a ter a seguinte redacção:
 
-###### Art. 58.º A fita para boné de praças de marinhagem (figs. 7 e 8) é de seda preta, com 0,028 m de largura e 0,85 m de comprimento; as letras da legenda são em tipo de imprensa, maiúsculo, tecidas por fio de seda natural de cor amarela e têm 0,013 m de altura.
+Art. 58.º A fita para boné de praças de marinhagem (figs. 7 e 8) é de seda preta, com 0,028 m de largura e 0,85 m de comprimento; as letras da legenda são em tipo de imprensa, maiúsculo, tecidas por fio de seda natural de cor amarela e têm 0,013 m de altura.
 
 A fita é colocada com a legenda para a frente, dando uma laçada do lado esquerdo da cabeça na fivela especial descrita no artigo seguinte, sem que as pontas fiquem caídas.
 
@@ -160,37 +172,37 @@ As fitas pertencentes a este grupo têm a legenda «Armada» e são usadas pelas
 
 8.º O artigo 72.º passa a ter a seguinte redacção:
 
-###### Art. 72.º As meias brancas para sargentos e praças (fig. 111) são de algodão, caneladas, tipo sport, de altura até ao joelho; terminam superiormente por um canhão de 0,12 m para usar dobrado.
+Art. 72.º As meias brancas para sargentos e praças (fig. 111) são de algodão, caneladas, tipo sport, de altura até ao joelho; terminam superiormente por um canhão de 0,12 m para usar dobrado.
 
 9.º O artigo 73.º passa a ter a seguinte redacção:
 
-###### Art. 73.º As meias pretas para sargentos e praças (fig. 111) são também de algodão de modelo igual às anteriores.
+Art. 73.º As meias pretas para sargentos e praças (fig. 111) são também de algodão de modelo igual às anteriores.
 
 10.º O artigo 74.º passa a ter a seguinte redacção:
 
-###### Art. 74.º As passadeiras para sargentos-ajudantes (fig. 112) são de pano de lã azul-ferrete, consistentes, próprias para serem enfiadas nas presilhas fixas existentes nos ombros de certos uniformes (blusão, camisa azul, camisa tropical, gabardina, sobretudo, bata, casaco de zuarte e fato de zuarte), formando um rectângulo de 0,115 m x 0,055 m, guarnecidas na face superior com o distintivo da respectiva classe bordado a fio de ouro brilhante e com o escudo nacional circundado pelo silvado, tudo bordado também no mesmo fio e com o fundo do escudo em prata.
+Art. 74.º As passadeiras para sargentos-ajudantes (fig. 112) são de pano de lã azul-ferrete, consistentes, próprias para serem enfiadas nas presilhas fixas existentes nos ombros de certos uniformes (blusão, camisa azul, camisa tropical, gabardina, sobretudo, bata, casaco de zuarte e fato de zuarte), formando um rectângulo de 0,115 m x 0,055 m, guarnecidas na face superior com o distintivo da respectiva classe bordado a fio de ouro brilhante e com o escudo nacional circundado pelo silvado, tudo bordado também no mesmo fio e com o fundo do escudo em prata.
 
 11.º O artigo 75.º passa a ter a seguinte redacção:
 
-###### Art. 75.º As passadeiras para primeiros-sargentos (fig. 113) são como as anteriores e usam-se nos mesmos uniformes, guarnecidas na face superior com o distintivo da respectiva classe bordado a fio de ouro brilhante e com quatro divisas de fio de ouro brilhante de um só cordão, com 0,007 m de largura; cada uma delas é constituída por dois ramos de 0,03 m de comprimento, nascendo as pontas da primeira a 0,002 m do extremo da passadeira e formando um ângulo de 120º, cujo vértice fica virado para cima; a distância entre duas divisas consecutivas é de 0,002 m.
+Art. 75.º As passadeiras para primeiros-sargentos (fig. 113) são como as anteriores e usam-se nos mesmos uniformes, guarnecidas na face superior com o distintivo da respectiva classe bordado a fio de ouro brilhante e com quatro divisas de fio de ouro brilhante de um só cordão, com 0,007 m de largura; cada uma delas é constituída por dois ramos de 0,03 m de comprimento, nascendo as pontas da primeira a 0,002 m do extremo da passadeira e formando um ângulo de 120º, cujo vértice fica virado para cima; a distância entre duas divisas consecutivas é de 0,002 m.
 
 12.º O artigo 82.º passa a ter a seguinte redacção:
 
-###### Art. 82.º As passadeiras para primeiros e segundos-sargentos reunindo todas as condições de promoção (figs. 122 e 123) são, respectivamente, como as dos primeiros e segundos-sargentos, mas têm por baixo das divisas e ligada à inferior uma divisa invertida com a mesma largura, constituída por dois ramos, de 0,03 m de comprimento, formando um ângulo de 120º.
+Art. 82.º As passadeiras para primeiros e segundos-sargentos reunindo todas as condições de promoção (figs. 122 e 123) são, respectivamente, como as dos primeiros e segundos-sargentos, mas têm por baixo das divisas e ligada à inferior uma divisa invertida com a mesma largura, constituída por dois ramos, de 0,03 m de comprimento, formando um ângulo de 120º.
 
 13.º É aumentado o artigo 82.º-A, com a seguinte redacção:
 
-###### Art. 82.º-A As passadeiras para cabos reunindo todas as condições de promoção (fig. 124) são iguais às dos cabos, mas têm sobreposto, a meio e perpendicularmente às divisas, um pequeno galão de fio de ouro brilhante, de um cordão, com 0,005 m de largura.
+Art. 82.º-A As passadeiras para cabos reunindo todas as condições de promoção (fig. 124) são iguais às dos cabos, mas têm sobreposto, a meio e perpendicularmente às divisas, um pequeno galão de fio de ouro brilhante, de um cordão, com 0,005 m de largura.
 
 14.º O artigo 134.º passa a ter a seguinte redacção:
 
-###### Art. 134.º As fitas para boné de praças de marinhagem pertencentes a este grupo são idênticas às descritas no artigo 58.º, mas têm a legenda privativa «N. R. T.», seguidas estas iniciais do nome do respectivo navio (por extenso ou abreviado, se o nome for muito longo) para as praças nele embarcadas.
+Art. 134.º As fitas para boné de praças de marinhagem pertencentes a este grupo são idênticas às descritas no artigo 58.º, mas têm a legenda privativa «N. R. T.», seguidas estas iniciais do nome do respectivo navio (por extenso ou abreviado, se o nome for muito longo) para as praças nele embarcadas.
 
 § único. Estas fitas são distribuídas às praças que prestaram serviço na respectiva unidade e apenas enquanto nelas estiverem embarcadas; ao destacarem para outras situações devem tirar essas fitas dos seus bonés e substituí-las por outras de 1.º grupo com a legenda «Armada», fazendo entrega das fitas de legenda privativa antes de destacarem.
 
 15.º O artigo 171.º passa a ter a seguinte redacção:
 
-###### Art. 171.º As unidades e serviços só podem requisitar estes artigos para distribuição imediata.
+Art. 171.º As unidades e serviços só podem requisitar estes artigos para distribuição imediata.
 
 § 1.º Exceptuam-se as seguintes unidades, que podem requisitar artigos para seu provimento:
 
@@ -266,6 +278,6 @@ ab) O colarinho de alcaxa e a manta de seda não são usados na ocasião 22-A.
 
 Ministério da Marinha, 26 de Novembro de 1965. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/11/26900/15381543.pdf))](https://files.diariodarepublica.pt/1s/1965/11/26900/15381543.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/11/26900/15381543.pdf)
 
 Ministério da Marinha, 26 de Novembro de 1965. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

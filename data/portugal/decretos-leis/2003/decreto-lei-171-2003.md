@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/176a00/45344536.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/171/2003/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2003-652283
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f8aa265ddd7a758eaf7b404b7b02edf1333265a2f3f2c694a5702042a5b4eb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df2047079b82f0e5181160da78fe5aa0aed3ec6407d8ab30be1f7c8f5d627a35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Comunidade Europeia
+- Direito de Estabelecimento
 - Equivalência de Habilitações Literárias
 - Farmacêutico
-- Direito de Estabelecimento
 - Livre Prestação de Serviços
 relationships:
 - type: amended_by
@@ -125,16 +125,21 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir
   label: null
   source: http://data.europa.eu/eli/dir
+- type: repealed_by
+  target: pt:dre:604779:por
+  label: Revogado, nos termos do nº 2 do art. 55.º, pela LEI.9/2009.04.03.2009.AR, DR.IS [44] de 04.03.2009
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2009-604779
+  date: '2009-03-04'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:15Z'
   warnings: []
   errors: []
 ---
@@ -185,7 +190,9 @@ Prazos e recursos
 
 4 - Ao requerente é assegurado o direito de impugnação perante os tribunais, nos termos da legislação reguladora do contencioso administrativo, sendo igualmente passível de recurso a falta de decisão no prazo previsto no n.º 1.
 
-###### Artigo 14.º — Equiparação de diplomas
+Artigo 14.º
+
+Equiparação de diplomas
 
 1 - (Corpo do artigo.)
 
@@ -207,15 +214,15 @@ O anexo do Decreto-Lei n.º 31/88, de 3 de Fevereiro, alterado pelo Decreto-Lei 
 
 Visto e aprovado em Conselho de Ministros de 13 Junho de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Luís Filipe Pereira.
 
-**Promulgado em 17 de Julho de 2003.**
+Promulgado em 17 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Julho de 2003.**
+Referendado em 21 de Julho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (alteração do anexo do Decreto-Lei n.º 31/88, de 6 Fevereiro)
 

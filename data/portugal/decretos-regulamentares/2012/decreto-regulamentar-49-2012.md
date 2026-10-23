@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/08/16900/0497804980.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/49/2012/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-2012-174819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c0ce9fb651f86dda45dcf26fd0436a08a069096799d229c732cf059360b28a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25bb3686f80fc170670fc4d3de78590be3a6f47769c63d7f9ce7016135f0eeac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,48 @@ reuse:
 subjects:
 - Apoio Administrativo
 - Apoio Técnico
-- Pessoal Dirigente
 - Definição de Competências
-- Secretaria Geral
 - Gabinete para os Meios de Comunicação Social
 - Orgânica
 - PCM-Entidades
+- Pessoal Dirigente
 - Premac
 - Presidência do Conselho de Ministros
 - Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:70025050:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260881:por
+  label: "Determinado que fique na dependência do Ministro Adjunto e do Desenvolvimento Regional, sem prejuízo dos poderes\
+    \ conferidos por lei ao Conselho de Ministros e ao membro do Governo responsável pela área das finanças, o Gabinete para\
+    \ os Meios de Comunicação Social (GMCS), no âmbito da Presidência do Conselho de Ministros, pelo DEC LEI.60/2013.09.05.2013.PCM,\
+    \ DR.IS [89] de 09.05.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-2013-260881
+  date: '2013-05-09'
+- type: amended_by
+  target: pt:dre:66443112:por
+  label: 'Extinto, sendo objeto de fusão, o Gabinete para os Meios de Comunicação Social (GMCS), no âmbito da Presidência
+    do Conselho de Ministros (conforme orgânica aprovada pelo Dec Lei 126-A/2011 de 29-dez), cuja orgânica, atribuições e
+    competências constam do presente diploma, que é revogado, a partir de 07.02.2015, pelo(a) Decreto-Lei n.º 24/2015 - Diário
+    da República n.º 26/2015, Série I de 2015-02-06; o qual determinou a integração das suas atribuições, nos termos do disposto
+    no seu art. 8.º, respetivamente: na Secretaria-Geral da Presidência do Conselho de Ministros, no domínio do apoio aos
+    Conselho de Ministros, Primeiro-Ministro, ministros e aos demais membros do Governo integrados na Presidência do Conselho
+    de Ministros, no apoio à conceção e avaliação das políticas públicas na área da comunicação social e da sociedade de informação;
+    nas comissões de coordenação regional (CCDR), no domínio da política de incentivos do Estado à comunicação social, ao
+    nível das respetivas áreas geográficas de atuação; e na Agência para o Desenvolvimento Social (Agência, I.P., nos domínios
+    da certificação e pagamento dos montantes devidos aos beneficiários e aos operadores postais, no que respeita aos regimes
+    de incentivos do Estado à comunicação social, e do reembolso dos encargos de expedição para as regiões autónomas de publicações
+    periódicas de informação geral, previsto no Dec Lei 43/2006 de 24-fev; assim como determinou: a sucessão pela SGPCM na
+    titularidade de todos os direitos, obrigações e posições jurídicas contratuais e administrativas; a remissão para a SGPCM
+    de todas as referências legais feitas ao ex-GMCS; a reafectação dos recursos financeiros, bens móveis e imóveis e veículos
+    afetos ao ex-GMCS, respetivos acervos museológicos, documentais e arquivísticos, em suporte papel ou digital; e a representação
+    pela SGPCM de todos os processos judiciais e litígios pendentes à data da entrada em vigor do presente diploma.'
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2015-66443112
+  date: '2015-02-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126-a/2011/12/29/p/dre
   label: null
@@ -97,16 +125,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:333522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642010:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70025050:por
+  label: Revogada, a partir de 16.10.2015, a al. i) do n.º 2 do art. 2.º pelo(a) Lei n.º 95/2015 - Diário da República n.º
+    159/2015, Série I de 2015-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/95-2015-70025050
+  date: '2015-08-17'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:17Z'
   warnings: []
   errors: []
 ---
@@ -233,18 +283,18 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 18 de julho de 2012. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento - Paulo Sacadura Cabral Portas - Miguel Fernando Cassola de Miranda Relvas.
 
-**Promulgado em 24 de agosto de 2012.**
+Promulgado em 24 de agosto de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de agosto de 2012.**
+Referendado em 28 de agosto de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 9.º)
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16900/0497804980.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16900/0497804980.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16900/0497804980.pdf)

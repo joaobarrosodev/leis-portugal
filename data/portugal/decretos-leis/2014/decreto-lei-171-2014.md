@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/21700/0571705719.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/171/2014/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2014-58815300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48cb976bbaf7ad0dd72041723b979b8b36e03bea4cf15b07c3af7d31852a1028
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa010ca9fb1ff9f2770ffb4ceb73fe9429f29506791d8635983584cab9e2b79d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,17 +75,23 @@ subjects:
 - Direção Geral do Tesouro e Finanças
 - Extinção de Serviços
 - Fundação Alter REAL
-- Transmissão da Propriedade
+- Gado Equino
 - Orgânica
 - Património Genético Animal
 - Prazo
-- Gado Equino
 - Transferência de Serviços
+- Transmissão da Propriedade
 relationships:
 - type: amended_by
   target: pt:dre:913947258:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:67098361:por
+  label: Alterado a partir de 28.06.2015 o art. 2.º do DR 31/2012, de 13-mar, na redação do presente diploma pelo(a) Decreto-Lei
+    n.º 68/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-2015-67098361
+  date: '2015-04-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/2013/08/01/p/dre
   label: null
@@ -102,16 +108,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/31/2012/03/13/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/31/2012/03/13/p/dre
+- type: cites
+  target: pt:dre:174824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553438:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:36Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +206,9 @@ f) [...].
 
 3 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O processo de liquidação da FAR deve ser concluído até 20 de novembro de 2014, nos termos da legislação aplicável.
 
@@ -272,12 +296,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, co
 
 Visto e aprovado em Conselho de Ministros de 2 de outubro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 31 de outubro de 2014.**
+Promulgado em 31 de outubro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de novembro de 2014.**
+Referendado em 4 de novembro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

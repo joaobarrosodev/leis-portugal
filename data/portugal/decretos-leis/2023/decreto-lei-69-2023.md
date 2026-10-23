@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/16100/0001000073.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/69/2023/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36a2923006b14159afd8e49880f69579688cb7f80ef16e338c76762f587f39ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de3508fa15d0a850405e3dcf923459d65eaa469766e432856689e4a4d1caca23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,52 +65,59 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
+- ACES
 - Acesso à Informação
+- Agência Portuguesa do Ambiente
 - Água
 - ÁGUA Potável
 - Análise Laboratorial
 - Aproximação das Legislações
-- Saneamento Básico
-- Inspecção Geral das Actividades Culturais
+- ASAE
+- Autarquia Local
+- Autoridade Competente
+- Autoridade para as Condições do Trabalho
+- Câmara Municipal
+- Comissão CE
 - Consumidor
 - Contra-ordenação
 - Controlo de Qualidade
-- Recursos Hídricos
+- Controlo Sanitário
 - Definição de Competências
 - Delegado de Saúde
 - Direção Geral de Alimentação e Veterinária
-- Controlo Sanitário
+- Entidade Reguladora dos Serviços das Águas e dos Resíduos
 - Entidade Reguladora dos Serviços de Águas e Resíduos dos Açores
-- Saúde Pública
 - Factura
 - Fiscalização
-- Comissão CE
-- Inspecção Geral das Actividades em Saúde
 - Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
-- Laboratório
-- ASAE
-- Licenciamento
 - Inspecção Geral da Educação e Ciência
+- Inspecção Geral das Actividades Culturais
+- Inspecção Geral das Actividades em Saúde
 - Inspecção Geral dos Serviços de Justiça
 - Instituto Português de Acreditação
-- Entidade Reguladora dos Serviços das Águas e dos Resíduos
+- Laboratório
+- Licenciamento
 - Poluição da água
 - Preço
-- Câmara Municipal
+- Recursos Hídricos
 - Regime Jurídico
-- Abastecimento de Água
+- Saneamento Básico
+- Saúde Pública
 - Tratamento de ÁGUA
-- Autarquia Local
-- ACES
 - Unidade Local de Saúde
-- Autoridade Competente
-- Autoridade para as Condições do Trabalho
-- Agência Portuguesa do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:1151816543:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1151816543:por
+  label: Alterados, a partir de 25 de julho de 2026, os artigos 3.º, 5.º, 12.º, 13.º, 14.º, 16.º, 17.º, 20.º, 21.º, 22.º,
+    23.º, 27.º, 28.º, 31.º, 33.º, 40.º, 43.º, o anexo II e revogada a alínea x) do n.º 2 do artigo 43.º presente diploma,
+    pelo(a) Decreto-Lei n.º 149/2026 - Diário da República n.º 142/2026, Série I de 2026-07-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-2026-1151816543
+  date: '2026-07-23'
 - type: cites
   target: celex:31996L0029
   label: null
@@ -195,16 +202,120 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/54/2015/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/54/2015/06/22/p/dre
+- type: cites
+  target: pt:dre:114177787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115940706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116029384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116108098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158238385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178264070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67552498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75662182:por
+  label: null
+  source: null
 article_structure:
-  article_count: 61
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 56
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:38Z'
   warnings: []
   errors: []
 ---
@@ -1435,7 +1546,9 @@ e) Recomendações sobre como evitar riscos para a saúde devidos à estagnaçã
 
 9 - As entidades gestoras que forneçam menos de 10 000 m3 de água por dia ou que abasteçam menos de 50 000 pessoas ficam dispensadas da obrigação a que se refere a alínea k) do n.º 2 e o disposto no n.º 3.
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - [...]
 
@@ -1475,13 +1588,17 @@ o) [...]
 
 4 - [...]
 
-###### Artigo 77.º — Extensão do âmbito de aplicação
+Artigo 77.º
+
+Extensão do âmbito de aplicação
 
 1 - (Anterior corpo do artigo.)
 
 2 - O disposto no artigo 61.º é aplicável às entidades gestoras de sistemas municipais e de sistemas intermunicipais que prestam serviços de abastecimento público de água a outras entidades gestoras.
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - [...]
 
@@ -1503,7 +1620,9 @@ Obrigação de faturação detalhada
 
 3 - A Entidade Reguladora dos Serviços de Águas e Resíduos pode recomendar um modelo de informação simplificada, sucinta, clara e facilmente compreensível para efeitos de implementação das obrigações constantes no presente artigo, no artigo seguinte e no artigo 67.º-C.
 
-###### Artigo 67.º-B — Informação constante das faturas
+Artigo 67.º-B
+
+Informação constante das faturas
 
 1 - Sem prejuízo da informação que resulta de legislação e regulamentação específicas, nomeadamente as relativas a taxas e impostos, as faturas relativas aos serviços de abastecimento público de água, de saneamento de águas residuais e de gestão de resíduos urbanos devem incluir a informação identificada no presente artigo.
 
@@ -1559,7 +1678,9 @@ f) As tarifas aplicadas a eventuais serviços auxiliares do serviço de gestão 
 
 5 - Para efeitos do disposto na alínea d) do número anterior, as entidades gestoras de sistemas multimunicipais e intermunicipais de gestão de resíduos urbanos fornecem a informação necessária às entidades responsáveis pela emissão de faturas aos utilizadores finais até ao final do mês de fevereiro de cada ano.
 
-###### Artigo 67.º-C — Informação constante das faturas caso os sistemas municipais se encontrem vinculados a sistemas multimunicipais ou intermunicipais
+Artigo 67.º-C
+
+Informação constante das faturas caso os sistemas municipais se encontrem vinculados a sistemas multimunicipais ou intermunicipais
 
 1 - Caso os sistemas municipais se encontrem vinculados a sistemas multimunicipais ou intermunicipais, incluindo os geridos através de parcerias públicas, a fatura deve discriminar a informação relativa ao custo médio unitário dos serviços prestados pelas entidades gestoras destes sistemas, doravante designadas entidades gestoras do serviço em alta.
 
@@ -1695,15 +1816,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de junho de 2023. - António Luís Santos da Costa - Catarina Teresa Rola Sarmento e Castro - António José da Costa Silva - Pedro Adão e Silva Cardoso Pereira - João Miguel Marques da Costa - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Manuel Francisco Pizarro de Sampaio e Castro - José Duarte Piteira Rica Silvestre Cordeiro.
 
-**Promulgado em 8 de agosto de 2023.**
+Promulgado em 8 de agosto de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de agosto de 2023.**
+Referendado em 10 de agosto de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 6.º)
 
@@ -1711,24 +1832,24 @@ Parâmetros e valores paramétricos
 
 Os valores paramétricos estabelecidos para efeitos de verificação da conformidade da qualidade da água destinada ao consumo humano são os seguintes:
 
-# Parte A
+Parte A
 
 Parâmetros microbiológicos
 
-|  |  |  |  |
+| Parâmetro | Valor<br>paramétrico | Unidade | Observações |
 | --- | --- | --- | --- |
-| Parâmetro | Valor paramétrico | Unidade | Observações |
+|  |  |  |  |
 | Enterococos intestinais... | 0 | Número/100 ml. | Nota 1 |
 | Escherichia coli (E. coli)... | 0 | Número/100 ml. | Nota 1 |
-| Nota: 1) Para a água em garrafas ou noutros recipientes, a unidade é número/250 ml. | Nota: 1) Para a água em garrafas ou noutros recipientes, a unidade é número/250 ml. | Nota: 1) Para a água em garrafas ou noutros recipientes, a unidade é número/250 ml. | Nota: 1) Para a água em garrafas ou noutros recipientes, a unidade é número/250 ml. |
+| Nota:<br>1) Para a água em garrafas ou noutros recipientes, a unidade é número/250 ml. |  |  |  |
 
-# Parte B
+Parte B
 
 Parâmetros químicos
 
-|  |  |  |  |
+| Parâmetro | Valor<br>paramétrico | Unidade | Observações |
 | --- | --- | --- | --- |
-| Parâmetro | Valor paramétrico | Unidade | Observações |
+|  |  |  |  |
 | Ácidos haloacéticos (HAA)... | 60 | (mi)g/l | Nota 1 |
 | Acrilamida ... | 0,10 | (mi)g/l | Nota 2 |
 | Antimónio ... | 10 | (mi)g/l Sb |  |
@@ -1761,14 +1882,14 @@ Parâmetros químicos
 | Selénio... | 20 | (mi)g/l Se | Nota 18 |
 | Soma de PFAS... | 0,10 | (mi)g/l | Nota 19 |
 | Tetracloroeteno e Tricloroeteno... | 10 | (mi)g/l | Nota 20 |
-| Trihalometanos (THM) ... | 100 80 (ponto de entrega) | (mi)g/l | Nota 21 |
+| Trihalometanos (THM) ... | 100<br>80 (ponto de entrega) | (mi)g/l | Nota 21 |
 | Urânio... | 30 | (mi)g/l |  |
 
-# PARTE C — Parâmetros indicadores
+## PARTE C — Parâmetros indicadores
 
-|  |  |  |  |
+| Parâmetro | Valor<br>paramét[Decreto-Lei n.º 83/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2011-670030)t-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent;color:#000000; font-style:Regular; font-size:6.5; vertical-align:center;">Unidade | Observações |  |
 | --- | --- | --- | --- |
-| Parâmetro | Valor paramét[Decreto-Lei n.º 83/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2011-670030)t-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent;color:#000000; font-style:Regular; font-size:6.5; vertical-align:center;">Unidade | Observações |  |
+|  |  |  |  |
 | Alumínio... | 200 | (mi)g/l Al |  |
 | Amónio... | 0,50 | mg/l NH(índice 4) |  |
 | Bactérias coliformes... | 0 | Número/100 ml | Nota 1 |
@@ -1833,7 +1954,7 @@ Notas:
 
 17) Valor de referência definido pela Comissão Europeia no âmbito da lista de vigilância, o qual nos termos da Decisão de Execução (UE) 2022/679, da Comissão, de 19 de janeiro de 2022, inclui os parâmetros 17-beta-estradiol, com o valor guia de 1ng/l, e nonilfenol, com valor guia de 300 ng/l, a monitorizar na água destinada a consumo humano, seguindo as especificações técnicas listadas na referida lista.
 
-# Parte D
+Parte D
 
 Controlo da dose indicativa e características do comportamento funcional analítico
 
@@ -1873,7 +1994,8 @@ a) A dose indicativa é calculada a partir das concentrações de radionuclídeo
 
 b) Caso se verifique a fórmula seguinte, pode concluir-se que a dose indicativa é inferior ao valor paramétrico de 0,10 mSv e que não é necessária nova investigação:
 
-![](https://files.diariodarepublica.pt/images/220113533/220113602.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/220113533/220113602.png) |
+| --- |
 
 em que:
 
@@ -1889,9 +2011,9 @@ Em relação ao urânio, prevê-se apenas as propriedades radiológicas do urân
 
 Quadro 1 - Concentrações derivadas de radioatividade na água destinada ao consumo humano
 
-|  |  |  |
+| Origem | Nuclídeo | Concentração<br>derivada |
 | --- | --- | --- |
-| Origem | Nuclídeo | Concentração derivada |
+|  |  |  |
 | Natural... | U-238 | 3,0 Bq/l |
 |  | U-234 | 2,8 Bq/l |
 |  | Ra-226 | 0,5 Bq/l |
@@ -1907,22 +2029,22 @@ Quadro 1 - Concentrações derivadas de radioatividade na água destinada ao con
 |  | Cs-137 | 11 Bq/l |
 |  | I-131 | 6,2 Bq/l |
 
-# Parte E
+Parte E
 
 Parâmetros relevantes para a avaliação do risco dos sistemas de distribuição predial
 
-|  |  |  |  |
+| Parâmetro | Valor<br>paramétrico | Unidades | Notas |
 | --- | --- | --- | --- |
-| Parâmetro | Valor paramétrico | Unidades | Notas |
+|  |  |  |  |
 | Legionella spp... | (menor que)1 000 | UFC/l | Nota 1 |
 | Chumbo... | 10 | (mi)g/l | Nota 2 |
-| Notas: 1) Este valor paramétrico é fixado para efeitos dos artigos 14.º, 15.º, 24.º e 25.º do presente decreto-lei. As ações previstas nesses artigos podem ser consideradas ainda que o valor esteja abaixo do valor paramétrico, nomeadamente em caso de infeções e surtos. Nesses casos, o foco infecioso deverá ser confirmado e a espécie de Legionella deverá ser identificada sob as orientações da autoridade de saúde. Este parâmetro deve ser medido se a avaliação do risco indicar que é adequado fazê-lo. 2) Este valor paramétrico é fixado para efeitos dos artigos 15.º, 16.º, 24.º e 25.º do presente decreto-lei. Os titulares dos edifícios deverão envidar todos os esforços para alcançar o valor mais baixo de 5 (mi)g/l até 12 de janeiro de 2036. | Notas: 1) Este valor paramétrico é fixado para efeitos dos artigos 14.º, 15.º, 24.º e 25.º do presente decreto-lei. As ações previstas nesses artigos podem ser consideradas ainda que o valor esteja abaixo do valor paramétrico, nomeadamente em caso de infeções e surtos. Nesses casos, o foco infecioso deverá ser confirmado e a espécie de Legionella deverá ser identificada sob as orientações da autoridade de saúde. Este parâmetro deve ser medido se a avaliação do risco indicar que é adequado fazê-lo. 2) Este valor paramétrico é fixado para efeitos dos artigos 15.º, 16.º, 24.º e 25.º do presente decreto-lei. Os titulares dos edifícios deverão envidar todos os esforços para alcançar o valor mais baixo de 5 (mi)g/l até 12 de janeiro de 2036. | Notas: 1) Este valor paramétrico é fixado para efeitos dos artigos 14.º, 15.º, 24.º e 25.º do presente decreto-lei. As ações previstas nesses artigos podem ser consideradas ainda que o valor esteja abaixo do valor paramétrico, nomeadamente em caso de infeções e surtos. Nesses casos, o foco infecioso deverá ser confirmado e a espécie de Legionella deverá ser identificada sob as orientações da autoridade de saúde. Este parâmetro deve ser medido se a avaliação do risco indicar que é adequado fazê-lo. 2) Este valor paramétrico é fixado para efeitos dos artigos 15.º, 16.º, 24.º e 25.º do presente decreto-lei. Os titulares dos edifícios deverão envidar todos os esforços para alcançar o valor mais baixo de 5 (mi)g/l até 12 de janeiro de 2036. | Notas: 1) Este valor paramétrico é fixado para efeitos dos artigos 14.º, 15.º, 24.º e 25.º do presente decreto-lei. As ações previstas nesses artigos podem ser consideradas ainda que o valor esteja abaixo do valor paramétrico, nomeadamente em caso de infeções e surtos. Nesses casos, o foco infecioso deverá ser confirmado e a espécie de Legionella deverá ser identificada sob as orientações da autoridade de saúde. Este parâmetro deve ser medido se a avaliação do risco indicar que é adequado fazê-lo. 2) Este valor paramétrico é fixado para efeitos dos artigos 15.º, 16.º, 24.º e 25.º do presente decreto-lei. Os titulares dos edifícios deverão envidar todos os esforços para alcançar o valor mais baixo de 5 (mi)g/l até 12 de janeiro de 2036. |
+| Notas:<br>1) Este valor paramétrico é fixado para efeitos dos artigos 14.º, 15.º, 24.º e 25.º do presente decreto-lei. As ações previstas nesses artigos podem ser consideradas ainda que o valor esteja abaixo do valor paramétrico, nomeadamente em caso de infeções e surtos. Nesses casos, o foco infecioso deverá ser confirmado e a espécie de Legionella deverá ser identificada sob as orientações da autoridade de saúde. Este parâmetro deve ser medido se a avaliação do risco indicar que é adequado fazê-lo.<br>2) Este valor paramétrico é fixado para efeitos dos artigos 15.º, 16.º, 24.º e 25.º do presente decreto-lei. Os titulares dos edifícios deverão envidar todos os esforços para alcançar o valor mais baixo de 5 (mi)g/l até 12 de janeiro de 2036. |  |  |  |
 
 ## ANEXO II — (a que se refere o artigo 16.º)
 
 Monitorização
 
-# Parte A
+Parte A
 
 Objetivos gerais e programas de monitorização da água destinada ao consumo humano
 
@@ -1952,9 +2074,9 @@ O programa de monitorização operacional deve incluir a monitorização do par�
 
 Quadro 1 - Monitorização operacional da turvação na estação de tratamento da água
 
-|  |  |
-| --- | --- |
 | Parâmetro operacional | Valor de referência |
+| --- | --- |
+|  |  |
 | Turvação à saída da estação de tratamento de água... | 0,3 UTN (unidades de turvação nefelométrica) em 95 % de amostras e nenhuma que exceda 1 UTN. |
 | Volume (m3) de água produzida diariamente na estação de tratamento da água. | Frequência mínima de amostragem e análise. |
 | (igual ou menor que) 1 000... | Semanalmente. |
@@ -1965,16 +2087,16 @@ O programa de monitorização operacional deve também incluir a monitorização
 
 Quadro 2 - Monitorização operacional dos Colífagos somáticos na água bruta
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Parâmetro operacional | Valor de referência | Unidades | Notas |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Colífagos somáticos... | 50 (para a água bruta). | Unidades formadoras de placas (UFP)/100 ml. | Este parâmetro deve ser medido se a avaliação do risco indicar que é oportuno. Se for encontrado em concentrações (maior que) 50 UFP/100 ml em água bruta, deverá ser analisado depois de concluídas as etapas do tratamento, a fim de determinar o grau de remoção logarítmica pelas barreiras existentes e de avaliar se o risco de surto de vírus patogénicos está suficientemente controlado. |
 
 4 - As entidades gestoras asseguram a revisão contínua dos programas de monitorização operacional e a sua atualização ou confirmação pelo menos de seis em seis anos.
 
 5 - As entidades gestoras asseguram a revisão contínua dos PCQA e a sua atualização com periodicidade anual.
 
-# Parte B
+Parte B
 
 Parâmetros e frequências de amostragem
 
@@ -2010,15 +2132,15 @@ A determinação dos parâmetros correspondentes ao controlo de rotina 2 implica
 
 Quadro 1 - Frequência mínima de amostragem e de análise para verificação da conformidade da água fornecida numa zona de abastecimento em baixa por uma rede de distribuição, por fontanários, por cisternas móveis ou fixas ou fornecida para uma empresa da indústria alimentar e de águas colocadas à venda em garrafas ou outros recipientes.
 
-|  |  |  |  |  |
+| Volume de água distribuída<br>ou produzida<br>diariamente (ver notas 1 e 2) m3 | Parâmetros do controlo<br>de rotina 1 (número<br>de amostras anual) | Parâmetros do controlo<br>de rotina 2<br>(número de amostras anual) | Parâmetros do controlo de inspeção (número de amostras anual) |  |
 | --- | --- | --- | --- | --- |
-| Volume de água distribuída ou produzida diariamente (ver notas 1 e 2) m3 | Volume de água distribuída ou produzida diariamente (ver notas 1 e 2) m3 | Parâmetros do controlo de rotina 1 (número de amostras anual) | Parâmetros do controlo de rotina 2 (número de amostras anual) | Parâmetros do controlo de inspeção (número de amostras anual) |
+|  |  |  |  |  |
 |  | (menor que) 10 | 6 | 1 (ver nota 4) | 1 (ver nota 4) |
 | (igual ou maior que) 10 | (igual ou menor que) 100 | 6 | 2 | 1 (ver nota 5) |
-| (maior que) 100 | (igual ou menor que) 1000 | 12/5 000 habitantes | 4 | 1 |
-| (maior que) 1 000 | (igual ou menor que) 10 000 | 12/5 000 habitantes | 4 para os primeiros 1 000 m3/dia +3 por cada 1 000 m3/dia adicionais e fração remanescente para o volume total (ver nota 3) | 1 para os primeiros 1 000 m3/dia +1 por cada 4 500 m3/ dia adicionais e fração remanescente para o volume total (ver nota 3) |
-| (maior que) 10 000 | (igual ou menor que) 100 000 | 12/5 000 habitantes | 4 para os primeiros 1 000 m3/dia +3 por cada 1 000 m3/dia adicionais e fração remanescente para o volume total (ver nota 3) | 3 para os primeiros 10 000 m3/dia +1 por cada 10 000 m3/dia adicionais e fração remanescente para o volume total (ver nota 3) |
-| (maior que) 100 000 |  | 12/5 000 habitantes | 4 para os primeiros 1 000 m3/dia +3 por cada 1 000 m3/dia adicionais e fração remanescente para o volume total (ver nota 3) | 12 por cada 100 000 m3/dia +1 por cada 25 000 m3/dia adicionais e fração remanescente para o volume total (ver nota 3) |
+| (maior que) 100 | (igual ou menor que) 1000 | 12/5 000<br>habitantes | 4 | 1 |
+| (maior que) 1 000 | (igual ou menor que) 10 000 | 4 para os primeiros 1 000 m3/dia +3 por cada 1 000 m3/dia adicionais e fração remanescente para o volume total (ver nota 3) | 1 para os primeiros 1 000 m3/dia +1 por cada 4 500 m3/ dia adicionais e fração remanescente para o volume total (ver nota 3) |  |
+| (maior que) 10 000 | (igual ou menor que) 100 000 | 3 para os primeiros 10 000 m3/dia +1 por cada 10 000 m3/dia adicionais e fração remanescente para o volume total (ver nota 3) |  |  |
+| (maior que) 100 000 |  | 12 por cada 100 000 m3/dia +1 por cada 25 000 m3/dia adicionais e fração remanescente para o volume total (ver nota 3) |  |  |
 
 Notas:
 
@@ -2034,12 +2156,12 @@ Notas:
 
 Quadro 2 - Parâmetros a analisar por tipo de controlo
 
-|  |  |  |
-| --- | --- | --- |
 | Controlo de rotina 1 | Controlo de rotina 2 | Controlo de inspeção (Nota 1) |
-| Escherichia coli (E. coli)... Bactérias coliformes... Desinfetante residual livre... | Cheiro... Sabor pH... Condutividade... Cor... Turvação... Enterococos intestinais... Número de colónias a 22 ºC... | Clostridium perfringens (incluindo esporos) Ácidos haloacéticos (HAA) Alumínio Amónio Antimónio Arsénio Benzeno Benzo(a)pireno Bisfenol A Boro Bromatos Cádmio Cálcio Carbono orgânico total (COT) Cianetos Cloretos Cloritos Cloratos Chumbo Cobre Crómio 1,2 - dicloroetano Dureza total Ferro Fluoretos Hidrocarbonetos aromáticos policíclicos (HAP) Magnésio Manganês Mercúrio Microcistina - LR Nitratos Nitritos Níquel Oxidabilidade Potássio Pesticidas (individuais e total) Selénio Sódio Sulfatos Tetracloroeteno e Tricloroeteno Total de PFAS Soma de PFAS Trihalometanos (THM) Urânio Dose indicativa (alfa)-total, (beta)-total, radionuclídeos) Radão Trítio Acrilamida Epicloridrina Cloreto de vinilo Substâncias e compostos incluídos na lista de vigilância |
-| Escherichia coli (E. coli)... Bactérias coliformes... Desinfetante residual livre... | Os parâmetros estabelecidos segundo a alínea c) referente ao controlo de rotina 2 da lista de parâmetros da parte B do anexo ii. | Clostridium perfringens (incluindo esporos) Ácidos haloacéticos (HAA) Alumínio Amónio Antimónio Arsénio Benzeno Benzo(a)pireno Bisfenol A Boro Bromatos Cádmio Cálcio Carbono orgânico total (COT) Cianetos Cloretos Cloritos Cloratos Chumbo Cobre Crómio 1,2 - dicloroetano Dureza total Ferro Fluoretos Hidrocarbonetos aromáticos policíclicos (HAP) Magnésio Manganês Mercúrio Microcistina - LR Nitratos Nitritos Níquel Oxidabilidade Potássio Pesticidas (individuais e total) Selénio Sódio Sulfatos Tetracloroeteno e Tricloroeteno Total de PFAS Soma de PFAS Trihalometanos (THM) Urânio Dose indicativa (alfa)-total, (beta)-total, radionuclídeos) Radão Trítio Acrilamida Epicloridrina Cloreto de vinilo Substâncias e compostos incluídos na lista de vigilância |
-| Escherichia coli (E. coli)... Bactérias coliformes... Desinfetante residual livre... |  | Clostridium perfringens (incluindo esporos) Ácidos haloacéticos (HAA) Alumínio Amónio Antimónio Arsénio Benzeno Benzo(a)pireno Bisfenol A Boro Bromatos Cádmio Cálcio Carbono orgânico total (COT) Cianetos Cloretos Cloritos Cloratos Chumbo Cobre Crómio 1,2 - dicloroetano Dureza total Ferro Fluoretos Hidrocarbonetos aromáticos policíclicos (HAP) Magnésio Manganês Mercúrio Microcistina - LR Nitratos Nitritos Níquel Oxidabilidade Potássio Pesticidas (individuais e total) Selénio Sódio Sulfatos Tetracloroeteno e Tricloroeteno Total de PFAS Soma de PFAS Trihalometanos (THM) Urânio Dose indicativa (alfa)-total, (beta)-total, radionuclídeos) Radão Trítio Acrilamida Epicloridrina Cloreto de vinilo Substâncias e compostos incluídos na lista de vigilância |
+| --- | --- | --- |
+|  |  |  |
+| Escherichia coli (E. coli)...<br>Bactérias coliformes...<br>Desinfetante residual livre... | Cheiro...<br>Sabor pH...<br>Condutividade...<br>Cor...<br>Turvação...<br>Enterococos intestinais...<br>Número de colónias a 22 ºC... | Clostridium perfringens (incluindo esporos)<br>Ácidos haloacéticos (HAA)<br>Alumínio<br>Amónio<br>Antimónio<br>Arsénio<br>Benzeno<br>Benzo(a)pireno<br>Bisfenol A<br>Boro<br>Bromatos<br>Cádmio<br>Cálcio<br>Carbono orgânico total (COT)<br>Cianetos<br>Cloretos<br>Cloritos<br>Cloratos<br>Chumbo<br>Cobre<br>Crómio<br>1,2 - dicloroetano<br>Dureza total<br>Ferro<br>Fluoretos<br>Hidrocarbonetos aromáticos policíclicos (HAP)<br>Magnésio<br>Manganês<br>Mercúrio<br>Microcistina - LR<br>Nitratos<br>Nitritos<br>Níquel<br>Oxidabilidade<br>Potássio<br>Pesticidas (individuais e total)<br>Selénio<br>Sódio<br>Sulfatos<br>Tetracloroeteno e Tricloroeteno<br>Total de PFAS<br>Soma de PFAS<br>Trihalometanos (THM)<br>Urânio<br>Dose indicativa (alfa)-total, (beta)-total, radionuclídeos)<br>Radão<br>Trítio<br>Acrilamida<br>Epicloridrina<br>Cloreto de vinilo<br>Substâncias e compostos incluídos na lista de vigilância |
+| Os parâmetros estabelecidos segundo a alínea c) referente ao controlo de rotina 2 da lista de parâmetros da parte B do anexo ii. |  |  |
+|  |  |  |
 
 Notas:
 
@@ -2047,15 +2169,15 @@ Notas:
 
 Quadro 3 - Frequência mínima de amostragem e de análise para verificação da conformidade da água destinada ao consumo humano fornecida por ponto de entrega de uma entidade gestora em alta
 
-|  |  |  |  |
+| Volume de água fornecida no ponto de entrega em alta<br>(metros cúbicos por dia) | Tipos de controlo da água para consumo humano (Nota 1) |  |  |
 | --- | --- | --- | --- |
-| Volume de água fornecida no ponto de entrega em alta (metros cúbicos por dia) | Tipos de controlo da água para consumo humano (Nota 1) | Tipos de controlo da água para consumo humano (Nota 1) | Tipos de controlo da água para consumo humano (Nota 1) |
-| Volume de água fornecida no ponto de entrega em alta (metros cúbicos por dia) | Controlo de rotina 1 | Controlo de rotina 2 | Controlo de inspeção |
+| Controlo de rotina 1 | Controlo de rotina 2 | Controlo de inspeção |  |
+|  |  |  |  |
 | (igual ou menor que) 1 000... | 6 | 4 | 1 |
-| (maior que) 1 000 e (igual ou menor que) 2 000... (maior que) 2 000 e (igual ou menor que) 5 000... (maior que) 5 000 e (igual ou menor que) 15 000... (maior que) 15 000 e (igual ou menor que) 25 000... (maior que) 25 000 e (igual ou menor que) 50 000... (maior que) 50 000 e (igual ou menor que) 100 000... (maior que) 100 000... | 12 18 24 72 104 156 365 | 4 6 8 24 36 52 104 | 1 1 2 4 4 6 12 |
-| Notas: 1) Para os parâmetros conservativos, o controlo analítico deve ser feito de modo a respeitar a frequência mínima exigida para a zona de abastecimento do sistema em baixa. | Notas: 1) Para os parâmetros conservativos, o controlo analítico deve ser feito de modo a respeitar a frequência mínima exigida para a zona de abastecimento do sistema em baixa. | Notas: 1) Para os parâmetros conservativos, o controlo analítico deve ser feito de modo a respeitar a frequência mínima exigida para a zona de abastecimento do sistema em baixa. | Notas: 1) Para os parâmetros conservativos, o controlo analítico deve ser feito de modo a respeitar a frequência mínima exigida para a zona de abastecimento do sistema em baixa. |
+| (maior que) 1 000 e (igual ou menor que) 2 000...<br>(maior que) 2 000 e (igual ou menor que) 5 000...<br>(maior que) 5 000 e (igual ou menor que) 15 000...<br>(maior que) 15 000 e (igual ou menor que) 25 000...<br>(maior que) 25 000 e (igual ou menor que) 50 000...<br>(maior que) 50 000 e (igual ou menor que) 100 000...<br>(maior que) 100 000... | 12<br>18<br>24<br>72<br>104<br>156<br>365 | 4<br>6<br>8<br>24<br>36<br>52<br>104 | 1<br>1<br>2<br>4<br>4<br>6<br>12 |
+| Notas:<br>1) Para os parâmetros conservativos, o controlo analítico deve ser feito de modo a respeitar a frequência mínima exigida para a zona de abastecimento do sistema em baixa. |  |  |  |
 
-# Parte C
+Parte C
 
 Controlo das substâncias radioativas
 
@@ -2089,7 +2211,7 @@ Aplica-se a frequência mínima de amostragem e análise fixada nos termos do qu
 
 Se um valor paramétrico é excedido numa determinada amostra, a autoridade de saúde determina o número de amostras para assegurar que os valores medidos sejam representativos de uma concentração de atividade média durante um ano inteiro.
 
-# Parte D
+Parte D
 
 Avaliação do risco e gestão do risco do sistema de abastecimento
 
@@ -2119,7 +2241,7 @@ Se disponíveis resultados da monitorização que comprovam que se encontram pre
 
 Se na sequência da avaliação do risco do sistema de abastecimento tiverem já sido introduzidos ajustamentos no programa de monitorização, a ERSAR pode prever a possibilidade de confirmar a sua validade sem exigir que se proceda, em conformidade com as alíneas b) e c) do n.º 2, a uma monitorização durante um período adicional de pelo menos três anos em pontos representativos de toda a zona de abastecimento ou ponto de entrega.
 
-# Parte E
+Parte E
 
 Métodos de amostragem e pontos de amostragem
 
@@ -2225,7 +2347,7 @@ Os métodos de análise utilizados para efeitos de monitorização e demonstraç
 
 Na ausência de um método analítico que satisfaça os critérios mínimos de desempenho enunciados na parte B do presente anexo, os laboratórios asseguram que a monitorização se efetua utilizando as melhores técnicas disponíveis e sem envolver custos excessivos.
 
-# Parte A
+Parte A
 
 Parâmetros microbiológicos para os quais são definidos métodos de análise
 
@@ -2247,7 +2369,7 @@ f) Colífagos somáticos;
 
 Para efeitos de monitorização operacional da parte A do anexo ii podem ser utilizadas as normas EN ISO 10705-2 e EN ISO 10705-3.
 
-# Parte B
+Parte B
 
 Parâmetros químicos e indicadores para os quais são definidas características de desempenho
 
@@ -2259,9 +2381,9 @@ A incerteza de medição a que se refere o quadro 1 não deve ser utilizada como
 
 Quadro 1 - Característica mínima de desempenho «incerteza de medição»
 
-|  |  |  |
+| Parâmetros | Incerteza de medição(Ver Nota 1)<br>% do valor paramétrico | Notas |
 | --- | --- | --- |
-| Parâmetros | Incerteza de medição(Ver Nota 1) % do valor paramétrico | Notas |
+|  |  |  |
 | Ácidos haloacéticos (HAA)... | 50 |  |
 | Acrilamida ... | 30 |  |
 | Alumínio... | 25 |  |
@@ -2296,7 +2418,7 @@ Quadro 1 - Característica mínima de desempenho «incerteza de medição»
 | Nitritos... | 20 |  |
 | Oxidabilidade... | 50 | Nota 6 |
 | Pesticidas... | 30 | Nota 7 |
-| pH... | 0,2 (expressa em unidades de pH) | Nota 8 |
+| pH... | 0,2 (expressa<br>em unidades de pH) | Nota 8 |
 | PFAS... | 50 |  |
 | Selénio... | 40 |  |
 | Sódio... | 15 |  |
@@ -2379,9 +2501,9 @@ Essas substâncias devem ser monitorizadas quando a avaliação do risco e a ges
 
 Quadro 2 - Características mínimas de desempenho «limite de deteção» dos parâmetros radioativos
 
-|  |  |  |
-| --- | --- | --- |
 | Parâmetros e radionuclídeos | Limite de deteção(notas 1 e 2) | Notas |
+| --- | --- | --- |
+|  |  |  |
 | Trítio... | 10 Bq/l | Nota 3 |
 | Radão... | 10 Bq/l | Nota 3 |
 | Atividade alfa total... | 0,04 Bq/l | Nota 4 |
@@ -2417,7 +2539,7 @@ Notas:
 
 Princípios de definição de metodologias referidas no artigo 34.º por grupos de materiais
 
-# Parte A
+Parte A
 
 Materiais orgânicos
 
@@ -2429,7 +2551,7 @@ b) Substâncias relativamente às quais não exista a possibilidade de a própri
 
 2 - Os materiais orgânicos são testados de acordo com o quadro 1, em conformidade com métodos de ensaio especificados nas normas europeias aplicáveis ou, na sua ausência, com um método reconhecido a nível internacional ou nacional, devendo preencher os requisitos neles estabelecidos. Para o efeito, os resultados dos ensaios em termos de migração de substâncias devem ser convertidos em níveis estimados à saída da torneira.
 
-# Parte B
+Parte B
 
 Materiais metálicos
 
@@ -2437,7 +2559,7 @@ Materiais metálicos
 
 2 - Os materiais metálicos são testados em conformidade com o quadro 1, de acordo com os métodos de ensaio especificados nas normas europeias aplicáveis ou, na sua ausência, num método reconhecido a nível internacional ou nacional e cumprem os requisitos nela estabelecidos.
 
-# Parte C
+Parte C
 
 Materiais cimentícios
 
@@ -2451,7 +2573,7 @@ c) Constituintes inorgânicos.
 
 2 - Os materiais cimentícios são testados em conformidade com o quadro 1, de acordo com os métodos de ensaio especificados nas normas europeias aplicáveis ou, na sua ausência, com um método reconhecido a nível internacional ou nacional, e devendo preencher os requisitos neles estabelecidos. Para tal, os resultados dos testes em termos de migração de substâncias devem ser convertidos em níveis estimados à saída da torneira.
 
-# Parte D
+Parte D
 
 Esmaltes e materiais cerâmicos
 
@@ -2459,7 +2581,7 @@ Esmaltes e materiais cerâmicos
 
 2 - Os esmaltes e os materiais cerâmicos são testados em conformidade com o quadro 1, de acordo com os métodos de ensaio especificados nas normas europeias aplicáveis, ou na sua ausência, com um método reconhecido a nível internacional ou nacional, devendo preencher os requisitos neles estabelecidos. Para tal, os resultados dos ensaios em termos de migração de substâncias devem ser convertidos em níveis estimados à saída da torneira.
 
-# Parte E
+Parte E
 
 Exceções aplicáveis à avaliação dos materiais utilizados em componentes menores e produtos multicomponentes
 
@@ -2467,7 +2589,7 @@ Para produtos multicomponentes: os componentes menores, as peças e os materiais
 
 Quadro 1 - Testes relativos aos tipos de materiais
 
-| Critérios | Orgânicos(ver nota 1) | Metálicos(ver nota 2) | Cimentícios | Esmaltes e materiais cerâmicos |
+| Critérios | Orgânicos(ver nota 1) | Metálicos(ver nota 2) | Cimentícios | Esmaltes<br>e materiais<br>cerâmicos |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 | Listas positivas europeias |  |  |  |  |
@@ -2512,9 +2634,9 @@ Instalações prioritárias
 
 Quadro 1 - Classificação da tipologia de instalações prioritárias
 
-|  |  |
-| --- | --- |
 | Tipologia das Instalações prioritárias | Dimensão a partir de: |
+| --- | --- |
+|  |  |
 | Hospitais, clínicas e unidades de cuidados continuados... | 100 camas |
 | Hotéis e outros edifícios turísticos similares... | 250 camas |
 | Instituições de ensino com balneários, incluindo escolas do ensino básico e secundário, universidades, escolas profissionais... | 100 alunos |
@@ -2527,7 +2649,11 @@ Quadro 1 - Classificação da tipologia de instalações prioritárias
 
 Quadro 2 - Parâmetros a monitorizar nas instalações em que são identificados como riscos específicos
 
-|  |
-| --- |
 | Parâmetros |
-| Desinfetante residual N.º de colónias a 22ºC Bactérias coliformes Escherichia coli Cheiro Sabor Cor Turvação Ferro Chumbo Cobre Níquel Bisfenol A Cloreto de vinilo Legionella spp Legionella pneumophila |
+| --- |
+|  |
+| Desinfetante residual<br>N.º de colónias a 22ºC<br>Bactérias coliformes<br>Escherichia coli<br>Cheiro<br>Sabor<br>Cor<br>Turvação<br>Ferro<br>Chumbo<br>Cobre<br>Níquel<br>Bisfenol A<br>Cloreto de vinilo<br>Legionella spp<br>Legionella pneumophila |
+
+116769523
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl4 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl5 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl6 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl7 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl10 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl11 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl12 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Italic; font-size:8.5; vertical-align:top; } .Tbl13 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl14 { text-align:justify; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl15 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl16 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:<arel='nofollownoopenernoreferrer'target='_blank'href='https://data.europa.eu/eli/dec/2022/679/oj?locale=pt'title='LinkparaDecisãodaUniãoEuropeia'>DecisãodeExecução(UE)2022/679</a>nsparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl17 { text-align:center; border-left-co<arel='nofollownoopenernoreferrer'target='_blank'href='/dr/detalhe/decreto-lei/138-2005-243493'title='Decreto-Lein.º138/2005'>Decreto-Lein.º138/2005</a>color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl18 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl19 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Italic; font-size:8.5; vertical-align:top; } .Tbl20 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl21 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl22 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl23 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl24 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl25 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl26 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl27 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl28 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl29 { text-align:justify; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Italic; font-size:8.5; vertical-align:top; } .Tbl30 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl31 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl32 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl33 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Bold; font-size:9.5; vertical-align:top; } .Tbl34 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl35 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl36 { text-align:center; border-left-color:Black; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl37 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:bottom; } .Tbl38 { text-align:center; border-bottom-color:transparent; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl39 { text-align:center; border-bottom-color:transparent; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:top; } .Tbl40 { text-align:justify; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

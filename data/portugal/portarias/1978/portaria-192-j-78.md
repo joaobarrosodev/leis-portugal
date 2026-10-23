@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 81/1978, 2º Suplemento, Série I de 1978-04-07
   number: '81'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 636-(22) a 636-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/04/08102/00220022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/192-j-1978-656387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T05:34:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9e6378dc4133e6a98489601e07b9b1a390523154d4dd941c15ffb1b7b0b3c47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d07ec98a835ce32aa5782a4771d7383906b5468b13864128a86988297bca63ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:34:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arroz
+- Comércio
+- Definição de Competências
+- Embalagem
+- EPAC
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:515861:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:31009619:por
+  label: "Alterado o preço fixado pela presente portaria pela PORT.76/78.19.12.1978.SRCI-RAA, JOA-IS [39] de 19.12.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/76-1978-31009619
+  date: '1978-12-19'
+- type: cites
+  target: pt:dre:160306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676446:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:295802:por
+  label: Retificado o n.º 11.º pelo(a) Declaração - Diário da República n.º 102/1978, Série I de 1978-05-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-295802
+  date: '1978-05-04'
+- type: repealed_by
+  target: pt:dre:515861:por
+  label: "Revogada pela PORT.169/79.11.04.1979.MAP, DR.IS [85]Supl de 11.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/169-1979-515861
+  date: '1979-04-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:34:54Z'
   warnings: []
   errors: []
 ---
@@ -93,17 +134,17 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Comér
 
 1.º Os preços máximos de venda pela indústria, sobre meio de transporte, à porta da fábrica, para vendas no continente e sobre cais de desembarque nas regiões autónomas, de arroz branqueado são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08102/00220022.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08102/00220022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08102/00220022.pdf)
 
 2.º Os preços máximos de venda ao público de arroz branqueado são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08102/00220022.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08102/00220022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08102/00220022.pdf)
 
 3.º Os preços máximos referidos nos n.os 1.º e 2.º do arroz dos tipos Carolino e Gigante, quando glaceados, podem ser acrescidos de $20/kg.
 
 4.º As margens de comercialização dos retalhistas, na venda dos diferentes tipos de arroz, não poderão ser inferiores aos seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08102/00220022.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08102/00220022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08102/00220022.pdf)
 
 5.º As tabelas de características de padronização serão apresentadas pela Empresa Pública de Abastecimento de Cereais à aprovação dos Secretários de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno e posteriormente divulgadas por aquela Empresa.
 

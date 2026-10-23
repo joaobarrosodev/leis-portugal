@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/03000/0083800841.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/30/2015/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2015-66487456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3269a94504c4cf22a835f1b864e97a4f57750ab8608230d8633331cb42430910
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d606ad89b051301c954038b82a7a4d286fa9eff6c3e28521018390b186ef97dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Local
 - ÁREA Metropolitana
-- Gestão Financeira
+- Autarquia Local
 - Comunidade Intermunicipal
+- Contratação Pública
 - Contrato Administrativo
-- Educação
-- Saúde
+- Cultura
 - Delegação de Competências
 - Descentralização
+- Educação
 - Gestão do Património
+- Gestão Financeira
 - Gestão Pública
-- Cultura
-- Administração Local
+- Saúde
 - Segurança Social
 - Transferência de Competências
-- Autarquia Local
-- Contratação Pública
 relationships:
 - type: amended_by
   target: pt:dre:140087206:por
@@ -107,16 +107,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/15/2013/03/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/15/2013/03/19/p/dre
+- type: cites
+  target: pt:dre:191865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:116068877:por
+  label: Revogado pelo(a) Lei n.º 50/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16, sem prejuízo do disposto
+    no art. 40.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/50-2018-116068877
+  date: '2018-08-16'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:28Z'
   warnings: []
   errors: []
 ---
@@ -337,12 +363,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de janeiro de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Miguel Poiares Pessoa Maduro - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 6 de fevereiro de 2015.**
+Promulgado em 6 de fevereiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de fevereiro de 2015.**
+Referendado em 9 de fevereiro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

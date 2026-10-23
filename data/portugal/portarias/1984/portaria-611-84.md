@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/08/19100/25412541.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/611-1984-381773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T08:08:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86c91ee11d6ccb064aac4b5d888e12f40e616e7eddb92eff121b35586ed00cd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76f60e5b819c1a13d4974f515bf3e1e52c7300d6ce50b6b5ae417437cfb2274a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:08:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ÁREA de Jurisdição
+- Capitania
+- Porto de Setúbal
 relationships:
 - type: amended_by
   target: pt:dre:495363:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:329788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:495363:por
+  label: "Revogada pela PORT.811/87.26.09.1987.MDN, DR.IS [222] de 26.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/811-1987-495363
+  date: '1987-09-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:08:56Z'
   warnings: []
   errors: []
 ---
@@ -94,8 +110,8 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, alte
 
 Ministério da Defesa Nacional.
 
-**Assinada em 27 de Julho de 1984.**
+Assinada em 27 de Julho de 1984.
 
-**O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto.**
+O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1984/08/19100/25412541.pdf))](https://files.diariodarepublica.pt/1s/1984/08/19100/25412541.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/08/19100/25412541.pdf)

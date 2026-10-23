@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23090-1967-401537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4eed12509ea52da580fa54905033b3b85dec8a2524967a2108571fd40cea8be8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02e99b873ea951c629bed13fec736fc5ed1c38916e23e94323e45ede81f1956c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:163839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561040:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:29Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +152,7 @@ A escusa terá de ser pedida, nos termos e com observância do disposto nos n.os
 
 6.º O n.º 4 do artigo 89.º passa a ter a seguinte redacção:
 
-###### Art. 89.º ...
+Art. 89.º ...
 
 ...
 
@@ -152,7 +176,7 @@ Nesta última hipótese intervirá na acção o substituto do juiz, havendo recu
 
 12.º O artigo 180.º do Código passa a ter a seguinte redacção:
 
-###### Art. 180.º ...
+Art. 180.º ...
 
 1. Nas cartas para citação irá declarada a dilação, que não poderá ser prorrogada a não ser nos casos previstos no n.º 4.
 
@@ -168,7 +192,7 @@ b) Entre quinze e cento e vinte dias, quando a citação deva efectuar-se fora d
 
 13.º O n.º 2 do artigo 181.º passa a ter a seguinte redacção:
 
-###### Art. 181.º ...
+Art. 181.º ...
 
 ...
 
@@ -246,11 +270,11 @@ Se não se puder concluí-la num só dia, o juiz marcará a continuação para o
 
 26.º O artigo 657.º do Código fica assim redigido:
 
-###### Art. 657.º Se as partes não tiverem acordado na discussão oral da causa, a secretaria, finda a produção da prova, facultará o processo para exame ao advogado do autor e depois ao do réu, pelo prazo de oito dias a cada um deles, a fim de alegarem por escrito, quanto à matéria de facto e ao direito aplicável.
+Art. 657.º Se as partes não tiverem acordado na discussão oral da causa, a secretaria, finda a produção da prova, facultará o processo para exame ao advogado do autor e depois ao do réu, pelo prazo de oito dias a cada um deles, a fim de alegarem por escrito, quanto à matéria de facto e ao direito aplicável.
 
 27.º Ao n.º 2 do artigo 700.º é acrescentado o seguinte:
 
-**O presidente, ou quem o esteja a substituir, não entrarão na distribuição, mas um ou outro exercerão as funções de adjunto quando tal lhes competir, lavrando o acórdão se forem eles a fazer vencimento.**
+O presidente, ou quem o esteja a substituir, não entrarão na distribuição, mas um ou outro exercerão as funções de adjunto quando tal lhes competir, lavrando o acórdão se forem eles a fazer vencimento.
 
 28.º O n.º 3 do artigo 709.º passa a ter a seguinte redacção:
 

@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 224/2014, 1º Suplemento, Série I de 2014-11-19
   number: '224'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5900-(2) a 5900-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/22401/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/106-c/2014/11/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/106-c-2014-58936747
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T05:19:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd7d75e292fffef7b4146e223db67bddc4cb9aa670abe16e862e1d674f164e47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7af73aeb335aef47e32414b283477d452fdcf7dc19e7302984de4579faf3072
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:19:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário de Estado da Administração Interna
-- Secretário de Estado Adjunto do Ministro da Administração Interna
-- Membros do Governo
 - Governo XIX
+- Membros do Governo
 - Nomeação
 - Secretário de Estado
+- Secretário de Estado Adjunto do Ministro da Administração Interna
+- Secretário de Estado da Administração Interna
 relationships:
 - type: amended_by
   target: pt:dre:67058830:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:67058830:por
+  label: Exonerado Fernando Manuel de Almeida Alexandre do cargo de Secretário de Estado Adjunto da Ministra da Administração
+    Interna, pelo(a) Decreto do Presidente da República n.º 29-B/2015 - Diário da República n.º 78/2015, 2º Suplemento, Série
+    I de 2015-04-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/29-b-2015-67058830
+  date: '2015-04-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:19:19Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +103,7 @@ validation:
 
 de 19 de novembro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -104,12 +111,12 @@ O Prof. Doutor Fernando Manuel de Almeida Alexandre Secretário de Estado Adjunt
 
 O Dr. João Rodrigo Pinho de Almeida Secretário de Estado da Administração Interna.
 
-**Assinado em 19 de novembro de 2014.**
+Assinado em 19 de novembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de novembro de 2014.**
+Referendado em 19 de novembro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

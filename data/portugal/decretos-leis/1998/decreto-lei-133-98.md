@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/112a00/22762285.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/133/1998/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1998-522380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:57:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f203548eb53bc822d5580cd09692d7bc20d50845d2bc41962be9778022f436a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09d0bb511e5654db6bdbc72092a0de5d09227fd6dcc9c5ab65ddcc0d36ba28b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:57:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
 subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
-- Património
+- Aviação Civil
 - Conselho de Administração
 - Conselho Fiscal
 - Contrato Individual de Trabalho
 - Criação de Serviços
 - Definição de Competências
 - Direcção Geral da Aviação Civil
-- Instituto Nacional de Aviação Civil
 - Estatuto
 - Extinção de Serviços
 - Fiscalização
 - Gestão do Património
+- Instituto Nacional de Aviação Civil
 - Instituto Público
 - Integração de Trabalhadores
 - Ministro do Equipamento do Planeamento e da Administração do Território
 - Orgânica
+- Património
 - Presidente
 - Quadro de Pessoal
-- Aviação Civil
 - Regime de Pessoal
 - Transferência de Competências
 - Tutela
@@ -94,6 +94,30 @@ relationships:
   target: pt:dre:521008:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476771:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma constante do n.º 1 do art. 21.º, enquanto\
+    \ conjugada com o preceituado na al. l) do n.º 2 do art. 13.º dos Estatutos do Instituto Nacional de Aviação Civil (INAC),\
+    \ aprovados pelo presente diploma, pelo AC.406/2003.17.09.2003.TCS, DR.IS-A [247] de 24.10.2003\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/406-2003-476771
+  date: '1998-05-15'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Integrado no Ministério do Equipamento Social, o Instituto Nacional de Aviação Civil, criado pelo Dec Lei 133/98,\
+    \ de 15-Mai DR. IS-A [112] pelo DEC LEI.474-A/99.1999.11.08.PCM\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:158618:por
+  label: "Alterados os arts. 7º, 8º, 10º 11º e 26º pelo DEC LEI.145/2002.2002.05.21.MES, DR.IS-A [117]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-2002-158618
+  date: '2002-05-21'
+- type: amended_by
+  target: pt:dre:589697:por
+  label: "Determinada a sujeição à superintendência e tutela do Ministro das Obras Públicas, Transportes e Comunicações, do\
+    \ Instituto criado no presente diploma, pelo DEC LEI.58/2005.04.03.2005.MOPTC, DR.IS-A [45] de 04.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2005-589697
+  date: '2005-03-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/1994/05/14/p/dre
   label: null
@@ -110,16 +134,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/422-a/1993/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/422-a/1993/12/30/p/dre
+- type: cites
+  target: pt:dre:264276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517787:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:546857:por
+  label: "Rectificado pela DECL-RECT.10-D/98.1998.05.29.PCM DR.IS-A [125]2ºSupl de 30/Mai/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-d-1998-546857
+  date: '1998-05-29'
+- type: repealed_by
+  target: pt:dre:481732:por
+  label: "Revogado o n.º 2 do art. 9.º, com a redacção dada pelo Dec Lei 145/2002, de 21-Maio, pelo DEC LEI.250/2003.11.10.2003.MOPTH,\
+    \ DR.IS-A [236] de 11.10.2003, sem prejuízo das respectivas disposições finais e transitórias\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-2003-481732
+  date: '1998-05-15'
+- type: repealed_by
+  target: pt:dre:423063:por
+  label: "Revogado o nº 1 do art. 9.º pelo DEC LEI.318/99.1999.08.11.MEPAT DR.IS-A [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/318-1999-423063
+  date: '1999-08-11'
+- type: repealed_by
+  target: pt:dre:521008:por
+  label: "Revogado o presente diploma a partir de 01.05.2007, com excepção do disposto nos respectivos nºs 1, 3 e 5 do art.\
+    \ 5º e no art. 6º, pelo DEC LEI.145/2007.27.04.2007.MOPTC, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-2007-521008
+  date: '2007-04-27'
 article_structure:
   article_count: 45
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:57:08Z'
   warnings: []
   errors: []
 ---
@@ -280,15 +354,15 @@ A transferência para o INAC de atribuições e competências previstas no prese
 
 Visto e aprovado em Conselho de Ministros de 19 de Março de 1998. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 28 de Abril de 1998.**
+Promulgado em 28 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Maio de 1998.**
+Referendado em 7 de Maio de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 1.º)
 
@@ -448,7 +522,9 @@ c) Solicitar a colaboração das autoridades policiais para impor o cumprimento 
 
 d) Aplicar as sanções previstas na lei.
 
-### CAPÍTULO III — SECÇÃO I
+### CAPÍTULO III
+
+#### SECÇÃO I
 
 Órgãos e serviços
 

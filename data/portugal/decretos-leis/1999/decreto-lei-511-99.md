@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/511/1999/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1999-643086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:14:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8f220c2b7c86837cde52af71a815f0157345cace27b46958aefb2aa9b454ab1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36fb5144053a01c8316fbbaa005990d27673bd4650e6b53b609bc95b4e6a6411
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:14:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,37 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- PSP
 - Aposentação
-- Segurança Interna
-- Serviços de Segurança
+- Carreira Profissional
 - Estatuto
 - Estatuto do Pessoal
-- Sistema Retributivo
-- Segurança Pública
-- Carreira Profissional
+- Força Paramilitar
 - Formas de Provimento
-- Recrutamento de Pessoal
-- Remuneração Acessória
+- Gestão de Recursos Humanos
 - Instituto Superior de Ciências Policiais e Segurança Interna
 - Integração de Trabalhadores
+- Polícia Criminal
 - Política Salarial
 - Pré-aposentação
-- Serviço Público
 - Progressão na Carreira
 - Promoção Profissional
+- PSP
 - Quadro de Pessoal
+- Recrutamento de Pessoal
+- Recurso
 - Regime de Pessoal
 - Remuneração
-- Força Paramilitar
-- Gestão de Recursos Humanos
-- Polícia Criminal
+- Remuneração Acessória
+- Segurança Interna
+- Segurança Pública
+- Serviço Público
+- Serviços de Segurança
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:3352656:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:578727:por
+  label: "Alterado o art. 36.º pelo DEC LEI.321/2001.2001.12.14.MAI DR.IS-A [288]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-2001-578727
+  date: '2001-12-14'
+- type: amended_by
+  target: pt:dre:493702:por
+  label: "Alterados os arts. 29º e 31º do Estatuto do Pessoal, pelo DEC LEI.228/2003.2003.09.27.MAI DR.IS-A [224]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-2003-493702
+  date: '2003-09-27'
+- type: amended_by
+  target: pt:dre:150714:por
+  label: "Alterados os arts. 16º, 17º, 19º, 62º e aditado o art. 17º-A ao Estatuto do Pessoal da Polícia de Segurança Pública\
+    \ aprovado pelo presente diploma, pelo DEC LEI.157/2005.20.09.2005.MAI, DR.IS-A [181] de 20.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2005-150714
+  date: '2005-09-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/170/1994/06/24/p/dre
   label: null
@@ -116,16 +132,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/1999/01/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/1999/01/27/p/dre
+- type: cites
+  target: pt:dre:152342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674182:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:491437:por
+  label: "Revogado, a partir de 01.01.2010, com excepção do nº 2 do art. 34º, pelo DEC LEI.299/2009.14.10.2009.MAI, DR.IS\
+    \ [199] de 14.10.2009, que manteve, transitoriamente em vigor (até à entrada em vigor do diploma previsto no nº 1 do art.\
+    \ 92º daquele diploma), as disposições pertinentes deste diploma, exclusivamente para efeito de aplicação do disposto\
+    \ no referido art. 92º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/299-2009-491437
+  date: '2009-10-14'
 article_structure:
   article_count: 87
   section_count: 29
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:14:18Z'
   warnings: []
   errors: []
 ---
@@ -260,15 +312,15 @@ O pessoal na situação de pré-aposentação em efectividade de serviço que se
 
 Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 8 de Novembro de 1999.**
+Promulgado em 8 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Novembro de 1999.**
+Referendado em 11 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ESTATUTO DO PESSOAL DA POLÍCIA DE SEGURANÇA PÚBLICA
 
@@ -1040,7 +1092,7 @@ As normas para a execução dos processos de concurso do pessoal com funções p
 
 Principais funções do pessoal técnico policial
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)
 
 ## ANEXO II — Escala indiciária do pessoal com funções policiais
 
@@ -1050,22 +1102,22 @@ MAPA N.º 1
 
 (em vigor a partir de 1 de Julho de 1999)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)
 
 MAPA N.º 2
 
 (em vigor a partir de 1 de Janeiro de 2000)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)
 
 MAPA N.º 3
 
 (em vigor a partir de 1 de Julho de 2000)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)
 
 ## ANEXO III — Remunerações do pessoal em formação
 
 (a que se refere o n.º 3 do artigo 52.º)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83168329.pdf)

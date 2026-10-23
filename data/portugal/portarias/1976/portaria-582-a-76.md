@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 228/1976, 1º Suplemento, Série I de 1976-09-28
   number: '228'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2234-(1) a 2234-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/09/22801/00010002.pdf
 entry_into_force_dates: []
@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/582-a-1976-235548
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T05:08:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93ac0b11d628ceabec7497cdf269cc2054ab6cf98791f7b4e60b2e446b5dbb50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9bba12c739312f0efb2b0aee0ecd1a913691fc576ef26b77853899d291c1db9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:08:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arrendamento Forçado
+- Arrendamento Rural
+- Expropriação
+- Indemnização
+- Instituto de Reorganização Agrária
+- Nacionalização
+- Orçamento Geral do Estado
+- Pagamento
+- Pessoa Singular
+- Prédio Rústico
+- Reforma Agrária
+- Subsídio
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:431054:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:409557:por
+  label: Rectificada pela DECL.DD8148.15.10.1976.PCM, DR.IS [242] de 15.10.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-409557
+  date: '1976-10-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:08:05Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +113,7 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças, com funda
 
 2. Para efeitos do disposto no número anterior é efectuada a seguinte transferência de verba nos orçamentos dos Ministérios abaixo indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/09/22801/00010002.pdf))](https://files.diariodarepublica.pt/1s/1976/09/22801/00010002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/09/22801/00010002.pdf)
 
 3. Com vista à aplicação da verba que lhe é atribuída no número anterior, o Instituto de Reorganização Agrária processará mensalmente as competentes folhas de despesa, devidamente documentadas e justificadas, a enviar à 11.ª Delegação da Direcção-Geral da Contabilidade Pública, para efeitos de verificação e expedição das correspondentes autorizações de pagamento a efectuar nos cofres do Tesouro, a favor dos interessados.
 

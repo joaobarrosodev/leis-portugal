@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/146/2005/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2005-245281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 771f51890adbf0c8d5858287a1e593c9da698cb68e41008f39bab7badba4e9b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0bfdc8ae0715aa61671dc3c5320944c41388d73d89f75147d1add25b04ede9bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Incapacidade Temporária
 - Prestações da Segurança Social
 - Protecção na Doença
 - Regime Jurídico
-- Incapacidade Temporária
 - Segurança Social
 - Subsídio de Doença
 relationships:
@@ -77,20 +77,42 @@ relationships:
   target: pt:dre:115620691:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:483168:por
+  label: "Alterado o artigo 21.º do Decreto-Lei n.º 28/2004, de 04 de Fevereiro, na redacção do presente diploma, pelo DEC\
+    \ LEI.302/2009.22.10.2009.MTSSO, DR.IS [205] de 22.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/302-2009-483168
+  date: '2009-10-22'
+- type: amended_by
+  target: pt:dre:178491:por
+  label: "Alterado, a partir de 01.07.2012, e nos termos do nº 9, o art. 16º do Dec Lei 28/2004, de 04-fev, na redação do\
+    \ presente, pelo DEC LEI.133/2012.27.06.2012.MSSSOC, DR.IS [123] de 27.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-2012-178491
+  date: '2012-06-27'
+- type: amended_by
+  target: pt:dre:115620691:por
+  label: Alterados, a partir de 01.07.2018, os arts. 21.º e 36.º do Dec Lei 28/2004 de 04-fev, ambos na redação do presente
+    diploma, pelo(a) Decreto-Lei n.º 53/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2018-115620691
+  date: '2018-07-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/28/2004/02/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/28/2004/02/04/p/dre
+- type: cites
+  target: pt:dre:592342:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:25Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +145,9 @@ Os artigos 12.º, 16.º, 21.º, 33.º e 36.º do [Decreto-Lei n.º 28/2004](http
 
 2 - ...
 
-###### Artigo 16.º — Montante do subsídio de doença
+Artigo 16.º
+
+Montante do subsídio de doença
 
 1 - ...
 
@@ -137,7 +161,9 @@ c) [Anterior alínea d).]
 
 3 - ...
 
-###### Artigo 21.º — Início do pagamento
+Artigo 21.º
+
+Início do pagamento
 
 1 - ...
 
@@ -149,7 +175,9 @@ c) [Anterior alínea d).]
 
 5 - ...
 
-###### Artigo 33.º — Requerimento
+Artigo 33.º
+
+Requerimento
 
 1 - A atribuição de subsídio de doença não depende da apresentação de requerimento pelo beneficiário.
 
@@ -161,7 +189,9 @@ c) [Anterior alínea d).]
 
 5 - ...
 
-###### Artigo 36.º — Confirmação da subsistência da incapacidade
+Artigo 36.º
+
+Confirmação da subsistência da incapacidade
 
 1 - ...
 
@@ -185,12 +215,12 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte à data da sua pu
 
 Visto e aprovado em Conselho de Ministros de 29 de Julho de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva - Francisco Ventura Ramos.
 
-**Promulgado em 14 de Agosto de 2005.**
+Promulgado em 14 de Agosto de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Agosto de 2005.**
+Referendado em 18 de Agosto de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

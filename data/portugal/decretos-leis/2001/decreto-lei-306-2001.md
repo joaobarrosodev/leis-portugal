@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/306/2001/12/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2001-582034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:28:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44e1ea114ac9efe4188402ccd2127a4701f7ea331c30d33a8d36d2f688489da6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 784daeca019926b7c3e4d55c4d891e1947fba8657b441709734da56b4e603885
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects:
 - Acreditação
 - Aproximação das Legislações
-- Sistema de Autoridade Marítima
 - Contra-ordenação
-- Segurança das Embarcações
+- Embarcação de Pesca
 - Fiscalização
 - Frota de Pesca
-- Instituto Marítimo-portuário
 - Indústria da Construção Naval
+- Instituto Marítimo-portuário
 - Normas de Segurança
-- Embarcação de Pesca
+- Segurança das Embarcações
+- Sistema de Autoridade Marítima
 relationships:
 - type: amended_by
   target: pt:dre:280895:por
@@ -93,14 +93,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/1999/19/oj
 article_structure:
   article_count: 2
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:28:20Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +139,9 @@ Texto consolidado das regras anexas à Convenção Internacional de Torremolinos
 
 Regras para a construção e equipamento de navios de pesca
 
-### CAPÍTULO I — Disposições gerais
+CAPÍTULO I
+
+Disposições gerais
 
 Regra 2
 
@@ -147,7 +149,9 @@ Definições
 
 18 - 'Pavimento da superstrutura' é o pavimento completo ou parcial que constitui o tecto de uma superstrutura, casota ou qualquer outra construção situada a uma altura não inferior a 1,8 m acima do convés de trabalho. Quando esta altura for inferior a 1,8 m, o tecto de tais casotas ou outras construções deve ser tratado do mesmo modo que o convés de trabalho.
 
-### CAPÍTULO III — Estabilidade e condições de navegabilidade correspondentes
+CAPÍTULO III
+
+Estabilidade e condições de navegabilidade correspondentes
 
 Regra 1
 
@@ -267,7 +271,7 @@ Caderno de estabilidade
 
 Regra 11
 
-##### Subdivisão dos porões de peixe com panas amovíveis
+Subdivisão dos porões de peixe com panas amovíveis
 
 A carga de pescado deve ser convenientemente estivada para evitar que corra e, assim, provoque um caimento ou um adornamento perigoso ao navio. Os escantilhões das panas dos porões de peixe, caso existam, devem ser a contento da Administração (ver nota 7).
 
@@ -285,13 +289,17 @@ A imersão máxima de serviço admissível deve ser sujeita a aprovação da Adm
 
 Regra 14
 
-##### Subdivisão e estabilidade em avaria
+Subdivisão e estabilidade em avaria
 
 Os navios de comprimento igual ou superior a 100 m, em que o número total de pessoas embarcadas seja igual ou superior a 100, devem poder, a contento da Administração, manter-se a flutuar com estabilidade positiva após alagamento de um qualquer compartimento que se considere em avaria, tendo em consideração o tipo do navio, o serviço a que se destina e a área de navegação (ver nota 9).
 
-### CAPÍTULO IV — Máquinas e instalações eléctricas e locais de máquinas periodicamente não atendidas
+CAPÍTULO IV
 
-# PARTE A — Disposições gerais
+Máquinas e instalações eléctricas e locais de máquinas periodicamente não atendidas
+
+PARTE A
+
+Disposições gerais
 
 Regra 1
 
@@ -379,7 +387,9 @@ Locais de máquinas periodicamente não atendidas
 
 10 - Os navios devem dispor de documentação que a Administração considere satisfatória para demonstrar que está em condições de operar com locais de máquinas periodicamente não atendidas.
 
-# PARTE B — Instalações de máquinas (v. também regra 3)
+PARTE B
+
+Instalações de máquinas (v. também regra 3)
 
 Regra 4
 
@@ -581,7 +591,9 @@ b) Quando for impossível na prática realizar este sistema de contenção de fu
 
 7 - Devem ser afixadas a bordo do navio instruções adequadas sobre métodos de condução das instalações frigoríficas e procedimentos de emergência.
 
-# PARTE C — Instalações eléctricas (v. também a regra 3)
+PARTE C
+
+Instalações eléctricas (v. também a regra 3)
 
 Regra 16
 
@@ -721,7 +733,9 @@ d) Exista um certificado de aprovação para utilização segura numa atmosfera 
 
 11 - Devem ser montados pára-raios em todos os mastros e mastaréus de madeira. Nos navios construídos em materiais não condutores, os pára-raios devem ser ligados, por condutores apropriados, a uma chapa de cobre fixada no casco do navio bastante abaixo da linha de água.
 
-# PARTE D — Locais de máquinas periodicamente não atendidas (v. também regra 3)
+PARTE D
+
+Locais de máquinas periodicamente não atendidas (v. também regra 3)
 
 Regra 19
 
@@ -825,7 +839,9 @@ Sistemas de segurança
 
 Deve existir um sistema de segurança que, em caso de deficiência grave de funcionamento das máquinas ou das caldeiras que constitua um perigo imediato, desencadeie a paragem automática da parte ameaçada da instalação e faça soar um alarme. O aparelho propulsor não deve parar automaticamente, salvo quando existir risco de avaria grave, colapso completo ou explosão. Quando existir um dispositivo para neutralizar a paragem do aparelho propulsor principal, ele deve ser concebido de maneira a não poder ser accionado inadvertidamente. Deve haver um indicador visual que permita constatar se este dispositivo foi ou não accionado.
 
-### CAPÍTULO VII — PARTE C
+CAPÍTULO VII
+
+PARTE C
 
 Regra 17
 
@@ -877,12 +893,12 @@ Para efeitos do disposto no anexo I do Decreto-Lei n.º 248/2000, de 3 de Outubr
 
 Visto e aprovado em Conselho de Ministros de 11 de Outubro de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Rui Eduardo Ferreira Rodrigues Pena - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Luís Manuel Capoulas Santos.
 
-**Promulgado em 15 de Novembro de 2001.**
+Promulgado em 15 de Novembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Novembro de 2001.**
+Referendado em 26 de Novembro de 2001.
 
-**O Primeiro-Ministro, em exercício, Guilherme d'Oliveira Martins.**
+O Primeiro-Ministro, em exercício, Guilherme d'Oliveira Martins.

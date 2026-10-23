@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/92/2002/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2002-303201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fe404a9389cc84ff712ba01dec3cb55616b03b46e93f84b4263adf1863b785f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e10c2e49bf49f9245fe2b20441ee2b0d4e8d279c64a8d7a29e9f678deb524fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,44 @@ subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
 - Direcção Geral de Viação
+- Equipamento de Veículo
 - Especificação Técnica
 - Homologação
-- Veículo
-- Segurança Rodoviária
-- Equipamento de Veículo
 - Regulamento
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:502980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:589559:por
+  label: "Alterado o anexo IV do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes\
+    \ e Unidades Técnicas, aprovado pelo Dec Lei 72/2000 de 06-Mai, alterado pelo presente diploma, passando aquele a ter\
+    \ a redacção constante do anexo II do DEC LEI.178/2005.28.10.2005.MAI, DR.IS-A [208] de 28.10.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2005-589559
+  date: '2005-10-28'
+- type: amended_by
+  target: pt:dre:520818:por
+  label: "Alterados os anexos I e IV do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes\
+    \ e Unidades Técnicas, aprovado pelo Dec Lei 72/2000 de 06-Mai, na redacção do presente diploma, pelo DEC LEI.198/2007.16.05.2007.MAI,\
+    \ DR.IS [94] de 16.05.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-2007-520818
+  date: '2007-05-16'
+- type: amended_by
+  target: pt:dre:456786:por
+  label: "Alterado o anexo I do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes\
+    \ e Unidades Técnicas, aprovado pelo Dec Lei 72/2000 de 06-Mai, com as alterações constantes do presente diploma, pelo\
+    \ DEC LEI.135/2008.21.07.2008.MOPTC, DR.IS [139] de 21.07.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-2008-456786
+  date: '2008-07-21'
+- type: amended_by
+  target: pt:dre:502980:por
+  label: "Dada nova redação ao anexo VIII do Regulamento Relativo à Proteção, à Frente, contra o Encaixe dos Automóveis pelo\
+    \ DEC LEI.148/2013.24.10.2013.MECO, DR.IS [206] de 24.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2013-502980
+  date: '2013-10-24'
 - type: cites
   target: celex:31970L0156
   label: null
@@ -94,16 +121,23 @@ relationships:
   target: celex:32000L0040
   label: null
   source: http://data.europa.eu/eli/dir/2000/40/oj
+- type: repealed_by
+  target: pt:dre:611962:por
+  label: "Revogado, a partir de 17.03.2010, o Dec Lei 72/2000 de 06-Mai, que aprovou o Regulamento da Homologação CE de Modelo\
+    \ de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, alterado pelo presente diploma, pelo DEC LEI.16/2010.12.03.2010.MOPTC,\
+    \ DR.IS [50] de 12.03.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2010-611962
+  date: '2010-03-12'
 article_structure:
   article_count: 15
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:44Z'
   warnings: []
   errors: []
 ---
@@ -150,11 +184,11 @@ Nos termos do disposto na alínea a) do n.º 1 do artigo 198.º da Constituiçã
 
 a) Na parte I, é aditado o seguinte ponto:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/086a00/35583565.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/086a00/35583565.pdf)](https://files.diariodarepublica.pt/1s/2002/04/086a00/35583565.pdf)
 
 b) Na parte II, é aditado o seguinte ponto:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/086a00/35583565.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/086a00/35583565.pdf)](https://files.diariodarepublica.pt/1s/2002/04/086a00/35583565.pdf)
 
 4 - O penúltimo parágrafo do ponto 1.2.2 do anexo X ao Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio, passa a ponto 1.2.3, com a seguinte redacção:
 
@@ -180,15 +214,15 @@ b) Deve recusar a matrícula ou a entrada em circulação de veículos novos ou 
 
 Visto e aprovado em Conselho de Ministros de 23 de Janeiro de 2002. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - António Luís Santos Costa - Luís Garcia Braga da Cruz.
 
-**Promulgado em 13 de Março de 2002.**
+Promulgado em 13 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Março de 2002.**
+Referendado em 21 de Março de 2002.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
 ## ANEXO — REGULAMENTO RELATIVO À PROTECÇÃO, À FRENTE, CONTRA O ENCAIXE DOS AUTOMÓVEIS
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/205/2012/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 428d0b735024e3c5f817ecd216fd388063b04bc55e891cb029e47db438cd9ed7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 524e84c66210389f3ac04fdea819d266dd20bdc5b1df847d2c3cae52a745f528
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atribuição de Verba
-- Gestão Financeira
+- Autarquia Local
 - Direção Geral do Património Cultural
 - Direção Geral do Tesouro e Finanças
-- Gestão Administrativa
 - Escola Portuguesa de Arte Equestre
 - Estabelecimento Hoteleiro
 - Fundação Alter REAL
-- Secretaria Geral
-- Presidência da República
+- Gestão Administrativa
 - Gestão do Património
+- Gestão Financeira
 - Parques do Monte da LUA
+- Presidência da República
 - Receita Própria
+- Secretaria Geral
 - Sintra
 - Transferência de Competências
 - Transferência Patrimonial
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:221225700:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498565:por
+  label: "Extinta a Fundação Alter Real, e revogado, a partir de 02.08.2013. o Dec Lei 48/2007 de 27-fev ,alterado pelo presente\
+    \ diploma, pelo DEC LEI.109/2013.01.08.2013.MAMAOT, DR.IS [147] de 01.08.2013, que determinou a devolução ao Estado da\
+    \ prossecução dos fins principais da referida Fundação, através da Direção Geral de Alimentação e Veterinária (DGAV),\
+    \ e mediante delegação de serviço público, à Companhia das Lezírias, S.A., para quem transferiu aqueles fins e atribuições,\
+    \ assim como o património, nos termos do disposto, respetivamente, nos arts. 3º e 4º daquele diploma\0ma\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-2013-498565
+  date: '2013-08-01'
+- type: amended_by
+  target: pt:dre:122498959:por
+  label: Alterado o anexo II do Dec Lei 115/2012, de 25-maio, na redação do presente diploma, pelo(a) Decreto-Lei n.º 78/2019
+    - Diário da República n.º 108/2019, Série I de 2019-06-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2019-122498959
+  date: '2019-06-05'
+- type: amended_by
+  target: pt:dre:221225700:por
+  label: Determinado que a Museus e Monumentos de Portugal, E. P. E., sucede à Direção-Geral do Património Cultural para os
+    efeitos previstos no art. 2.º do presente diploma, pelo(a) Decreto-Lei n.º 79/2023 - Diário da República n.º 171/2023,
+    Série I de 2023-09-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2023-221225700
+  date: '2023-09-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/115/2012/05/25/p/dre
   label: null
@@ -109,16 +131,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/2008/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/2008/09/11/p/dre
+- type: cites
+  target: pt:dre:177827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640651:por
+  label: null
+  source: null
 article_structure:
-  article_count: 47
+  article_count: 43
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:54Z'
   warnings: []
   errors: []
 ---
@@ -209,7 +255,7 @@ Os artigos 2.º, 3.º e 8.º do [Decreto-Lei n.º 215/2000](https://diariodarepu
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - ...
 
@@ -231,7 +277,7 @@ d) O Município de Sintra, com 15 %.
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 8.º
+Artigo 8.º
 
 Os trabalhadores em funções públicas do Estado, dos institutos públicos e das autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem exercer quaisquer cargos ou funções, nos termos da lei, na Parques do Monte da Lua.»
 
@@ -251,7 +297,7 @@ São aditados os artigos 8.º-A e 8.º-B ao [Decreto-Lei n.º 215/2000](https://
 
 3 - Para efeitos do disposto no número anterior, os planos de atividades e de investimento e os orçamentos e contas são remetidos aos membros do Governo referidos no n.º 1, para aprovação, no prazo em que são disponibilizados aos acionistas.
 
-###### Artigo 8.º-B
+Artigo 8.º-B
 
 1 - O membro do Governo responsável pela área da cultura pode dirigir instruções à Parques do Monte da Lua sobre aspetos concretos da sua atuação relativa ao património cultural que lhe esteja afeto.
 
@@ -269,7 +315,9 @@ Os artigos 5.º e 7.º do [Decreto-Lei n.º 48/2007](https://diariodarepublica.p
 
 A Fundação tem como fins principais a manutenção e desenvolvimento do património genético animal das raças Lusitana, Sorraia e Garrano e do Laboratório de Genética Molecular, sem prejuízo da prossecução dos demais fins legais e estatutários.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -301,15 +349,15 @@ b) As alíneas h) e i) do anexo i e as alíneas j) e k) do anexo ii do [Decreto-
 
 Visto e aprovado em Conselho de Ministros de 18 de julho de 2012. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento - José Pedro Correia de Aguiar-Branco - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 25 de agosto de 2012.**
+Promulgado em 25 de agosto de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de agosto de 2012.**
+Referendado em 28 de agosto de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 6.º)
 

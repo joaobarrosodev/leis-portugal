@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23332-1968-234707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de11fd963379ee2d3a4da66eb85ea235fb0ac5913b60776b729f8f6e40952376
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29f1eda192bd988b161ded5c51f830740414aec687ae999724390fc854978322
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:46Z'
   warnings: []
   errors: []
 ---
@@ -88,16 +88,16 @@ Ministério da Educação Nacional, 23 de Abril de 1968. - Pelo Ministro da Educ
 
 Regulamento do Prémio Carlos Augusto Farinha
 
-###### Artigo 1.º É instituído na Escola de Farmácia da Universidade de Lisboa o Prémio Carlos Augusto Farinha, o qual será constituído pelo rendimento anual da importância correspondente a 60 obrigações do empréstimo consolidado, 3 1/2 por cento, que foi convertida no certificado de renda perpétua n.º 2966, assentado à mesma Escola.
+Artigo 1.º É instituído na Escola de Farmácia da Universidade de Lisboa o Prémio Carlos Augusto Farinha, o qual será constituído pelo rendimento anual da importância correspondente a 60 obrigações do empréstimo consolidado, 3 1/2 por cento, que foi convertida no certificado de renda perpétua n.º 2966, assentado à mesma Escola.
 
-###### Art. 2.º O Prémio será atribuído anualmente ao aluno que termine o curso profissional de Farmácia com mais elevada classificação, nunca inferior a 16 valores.
+Art. 2.º O Prémio será atribuído anualmente ao aluno que termine o curso profissional de Farmácia com mais elevada classificação, nunca inferior a 16 valores.
 
 § único. Em caso de igualdade de classificação, o Prémio será atribuído ao aluno que tiver alcançado a média mais elevada nos exames das disciplinas do último ano do curso.
 
-###### Art. 3.º Quando não houver aluno em condições de receber o Prémio, a importância deste será adicionada à do ano imediato.
+Art. 3.º Quando não houver aluno em condições de receber o Prémio, a importância deste será adicionada à do ano imediato.
 
-###### Art. 4.º A designação do aluno a quem deve ser atribuído o Prémio será feita pelo conselho escolar da Escola e transmitida ao reitor da Universidade.
+Art. 4.º A designação do aluno a quem deve ser atribuído o Prémio será feita pelo conselho escolar da Escola e transmitida ao reitor da Universidade.
 
-###### Art. 5.º A entrega do Prémio compete ao reitor da Universidade e terá lugar, em princípio, na sessão inaugural dos trabalhos escolares do ano lectivo imediato ao da decisão do conselho escolar.
+Art. 5.º A entrega do Prémio compete ao reitor da Universidade e terá lugar, em princípio, na sessão inaugural dos trabalhos escolares do ano lectivo imediato ao da decisão do conselho escolar.
 
 Direcção-Geral do Ensino Superior e das Belas-Artes, 19 de Abril de 1968. - O Director-Geral, João Alexandre Ferreira de Almeida.

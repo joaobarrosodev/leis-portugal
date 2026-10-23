@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/15500/0000900020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/71/2021/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2021-169418564
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3276d8c55c45d0804b9f3e2dd62e504f5e7ea985b4e2e4682fc4f64a3516ded
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 323637a98b2c43bff9df43b6e89a5f7745761787e9c2cdbe032e5b4a393b1e39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,13 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Associação de Consumidores
+- Autoridade da Mobilidade e dos Transportes
 - Autoridade de Segurança Alimentar e Económica
-- Publicidade
+- Autoridade de Supervisão de Seguros e Fundos de Pensões
+- Autoridade Nacional da Aviação Civil
+- Autoridade Nacional de Comunicações
+- Autoridade Regional das Atividades Económicas
 - Centro Europeu do Consumidor
-- Inspecção Geral das Actividades Culturais
-- Infarmed
 - Comissão Europeia dos Direitos do Homem
 - Comissão Interministerial para a Cooperação
 - Comissão Nacional de Protecção de Dados
@@ -80,17 +82,15 @@ subjects:
 - Definição de Competências
 - Direcção Geral do Consumidor
 - Entidade Reguladora dos Serviços de Águas e Resíduos dos Açores
+- Entidade Reguladora dos Serviços Energéticos
+- Infarmed
+- Inspecção Geral das Actividades Culturais
 - Inspecção Regional das Actividades Económicas
 - Instituto da Mobilidade e dos Transportes
-- Entidade Reguladora dos Serviços Energéticos
-- Proteção do Consumidor
-- Regulamento CE
 - Ministério Público
-- Autoridade de Supervisão de Seguros e Fundos de Pensões
-- Autoridade da Mobilidade e dos Transportes
-- Autoridade Nacional da Aviação Civil
-- Autoridade Nacional de Comunicações
-- Autoridade Regional das Atividades Económicas
+- Proteção do Consumidor
+- Publicidade
+- Regulamento CE
 - Situação de Alerta
 relationships:
 - type: cites
@@ -141,16 +141,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/68/2019/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/68/2019/08/27/p/dre
+- type: cites
+  target: pt:dre:124220738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163442503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66195399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75132645:por
+  label: null
+  source: null
 article_structure:
   article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:22Z'
   warnings: []
   errors: []
 ---
@@ -343,18 +419,20 @@ O presente decreto-lei entra em vigor a 1 de novembro de 2021.
 
 Visto e aprovado em Conselho de Ministros de 22 de julho de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Augusto Ernesto Santos Silva - João Rodrigo Reis Carvalho Leão - Francisca Eugénia da Silva Dias Van Dunem - Nuno Artur Neves Melo da Silva - Marta Alexandra Fartura Braga Temido de Almeida Simões - João Pedro Soeiro de Matos Fernandes - Jorge Moreno Delgado.
 
-**Promulgado em 4 de agosto de 2021.**
+Promulgado em 4 de agosto de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de agosto de 2021.**
+Referendado em 5 de agosto de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — [a que se refere o artigo 3.º e a alínea c) do n.º 1 do artigo 21.º]
 
 Lista de autoridades competentes no âmbito do artigo 5.º do Regulamento (UE) [2017/2394](https://data.europa.eu/eli/reg/2017/2394/oj?locale=pt), do Parlamento Europeu e do Conselho, de 12 de dezembro de 2017
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/15500/0000900020.pdf))](https://files.diariodarepublica.pt/1s/2021/08/15500/0000900020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15500/0000900020.pdf)
+
+114477385

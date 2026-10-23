@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 10/1985, 1º Suplemento, Série I de 1985-01-12
   number: '10'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 72-(6) a 72-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01001/00060009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-e-1985-162780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T08:23:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f73862c920a5e340fd938aaa7dd2e787ee5be7f3bc65b535bf7ab32175ed4c20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3919b57f673faecad1f6af878271cb80ed12ab10b69283d67ff00d7b6b8cb32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:23:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento
+- Comércio
+- Controlo de Qualidade
+- Direcção Geral da Pecuária
+- Fundo de Abastecimento
+- Junta Nacional dos Produtos Pecuários
+- Leite
+- Mercado Interno
+- Preço de Venda
+- Preço Máximo
+- Subsídio
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:249492:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:325521:por
+  label: "Dada nova redacção ao nº. 2 do nº. 18º pela PORT.204/85.13.04.1985.MFP, DR.IS [86] de 13.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/204-1985-325521
+  date: '1985-04-13'
+- type: cites
+  target: pt:dre:382612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660542:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:190666:por
+  label: Rectificado o n.º 1 do preâmbulo pela DECL.DD4830.28.02.1985.PCM, DR.IS [49]2ºSupl de 28.02.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-190666
+  date: '1985-02-26'
+- type: repealed_by
+  target: pt:dre:249492:por
+  label: "Revogada pela PORT.894-E/85.23.11.1985.MF, DR.IS [270]Supl de 23.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/894-e-1985-249492
+  date: '1985-11-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:23:27Z'
   warnings: []
   errors: []
 ---
@@ -194,7 +245,7 @@ Leite esterilizado magro ... 0,5
 
 12.º - 1 - Os preços máximos do leite pasteurizado para utilizar fora do local de aquisição são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01001/00060009.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01001/00060009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01001/00060009.pdf)
 
 2 - Aos preços máximos de venda ao público fixados no n.º 1 poderá acrescer a importância de $50 por embalagem vendida para consumo fora da localidade onde se situam as instalações de tratamento, revertível para o centro de tratamento, se efectuar a distribuição até ao retalho, ou para o retalhista, se este se abastecer no centro de tratamento.
 
@@ -210,7 +261,7 @@ Leite esterilizado magro ... 0,5
 
 14.º - 1 - Os preços máximos do leite ultrapasteurizado de fabrico continental para utilizar fora do local de aquisição são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01001/00060009.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01001/00060009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01001/00060009.pdf)
 
 2 - É permitida a absorção da margem máxima de distribuição pelo centro de tratamento sempre que este efectue tal operação.
 
@@ -218,7 +269,7 @@ Leite esterilizado magro ... 0,5
 
 15.º - 1 - Os preços máximos do leite esterilizado de fabrico continental para utilizar fora do local de aquisição são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01001/00060009.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01001/00060009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01001/00060009.pdf)
 
 2 - É permitida a absorção da margem máxima de distribuição pelo centro de tratamento sempre que este efectue tal operação.
 
@@ -226,7 +277,7 @@ Leite esterilizado magro ... 0,5
 
 16.º - 1 - Os preços máximos de leite especial pasteurizado para utilizar fora do local de aquisição são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01001/00060009.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01001/00060009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01001/00060009.pdf)
 
 2 - Aos preços máximos de venda ao público fixados no n.º 1 poderá acrescer a importância de $50 por embalagem vendida para consumo fora da localidade onde se situam as instalações de tratamento, revertível para o centro de tratamento, se efectuar a distribuição até ao retalho, ou para o retalhista, se este se abastecer no centro de tratamento.
 
@@ -272,9 +323,9 @@ De Caia - 2$10.
 
 Secretarias de Estado do Orçamento, do Comércio e Indústria Agrícolas, da Produção Agrícola e do Comércio Interno.
 
-**Assinada em 10 de Janeiro de 1985.**
+Assinada em 10 de Janeiro de 1985.
 
-**O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado do Comércio e Indústria Agrícolas, Carlos Alberto Antunes Filipe. - O Secretário de Estado da Produção Agrícola, Joaquim António Rosado Gusmão. - O Secretário de Estado do Comércio Interno, Agostinho Alberto Bento da Silva Abade.**
+O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado do Comércio e Indústria Agrícolas, Carlos Alberto Antunes Filipe. - O Secretário de Estado da Produção Agrícola, Joaquim António Rosado Gusmão. - O Secretário de Estado do Comércio Interno, Agostinho Alberto Bento da Silva Abade.
 
 Lista anexa a que se refere o n.º 4.º da Portaria n.º 31-E/85, de 12 de Janeiro
 
@@ -296,4 +347,4 @@ Lista anexa a que se refere o n.º 4.º da Portaria n.º 31-E/85, de 12 de Janei
 
 9) Equipamento de recuperação de calor do sistema de refrigeração.
 
-**O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado do Comércio e Indústria Agrícolas, Carlos Alberto Antunes Filipe. - O Secretário de Estado da Produção Agrícola, Joaquim António Rosado Gusmão. - O Secretário de Estado do Comércio Interno, Agostinho Alberto Bento da Silva Abade.**
+O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado do Comércio e Indústria Agrícolas, Carlos Alberto Antunes Filipe. - O Secretário de Estado da Produção Agrícola, Joaquim António Rosado Gusmão. - O Secretário de Estado do Comércio Interno, Agostinho Alberto Bento da Silva Abade.

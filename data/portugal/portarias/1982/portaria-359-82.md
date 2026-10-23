@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/08100/08270830.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/359-1982-607276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T07:14:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14cff1547e233441b30d410c66b55a3595e837a6df8e526464b6809d7171fc2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67ffb9446728bcca5954e6315657072100a92e9fa772d347a53a3a7c5a017ce7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:14:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:600295:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:14:43Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Indústria, Energia e
 
 ### CAPÍTULO I — Domínio de aplicação e objectivo
 
-###### Artigo 1.º - 1 - O presente Regulamento é aplicável a toda e qualquer instalação consumidora de energia em relação à qual se verifique uma das seguintes situações:
+Artigo 1.º - 1 - O presente Regulamento é aplicável a toda e qualquer instalação consumidora de energia em relação à qual se verifique uma das seguintes situações:
 
 a) A instalação tenha tido, durante o ano anterior, consumo energético superior a 1000 t de equivalente petróleo (1000 tep/ano);
 
@@ -100,17 +104,17 @@ c) Tenha instalado pelo menos um equipamento cujo consumo energético nominal ex
 
 2 - Por despacho do Secretário de Estado da Energia poderá o presente Regulamento ser aplicado, em casos de reconhecido interesse, a quaisquer outras instalações consumidoras intensivas de energia, particularmente quando a participação do consumo energético seja significativa no custo final do produto.
 
-###### Art. 2.º Cada uma das instalações referidas no artigo anterior ficará sujeita às obrigações estabelecidas pelo [Decreto-Lei n.º 58/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1982-600295).
+Art. 2.º Cada uma das instalações referidas no artigo anterior ficará sujeita às obrigações estabelecidas pelo [Decreto-Lei n.º 58/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1982-600295).
 
-###### Art. 3.º Para cumprimento das obrigações referidas no artigo 2.º do [Decreto-Lei n.º 58/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1982-600295), deverão as entidades proprietárias ou utentes que tenham a responsabilidade das instalações dispor de técnicos ou entidades responsáveis de acordo com as disposições do presente Regulamento.
+Art. 3.º Para cumprimento das obrigações referidas no artigo 2.º do [Decreto-Lei n.º 58/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1982-600295), deverão as entidades proprietárias ou utentes que tenham a responsabilidade das instalações dispor de técnicos ou entidades responsáveis de acordo com as disposições do presente Regulamento.
 
 ### CAPÍTULO II — Reconhecimento dos técnicos
 
-###### Art. 4.º Os técnicos ou entidades examinadores das condições de utilização da energia, os autores dos planos de racionalização dos consumos e os responsáveis pela execução desses planos devem ser reconhecidos oficialmente para esse fim.
+Art. 4.º Os técnicos ou entidades examinadores das condições de utilização da energia, os autores dos planos de racionalização dos consumos e os responsáveis pela execução desses planos devem ser reconhecidos oficialmente para esse fim.
 
-###### Art. 5.º Para ser concedido o reconhecimento de examinadores das condições de utilização da energia ou de autor do plano de racionalização dos consumos, o técnico ou entidade interessada deverá requerê-lo à Direcção-Geral de Energia.
+Art. 5.º Para ser concedido o reconhecimento de examinadores das condições de utilização da energia ou de autor do plano de racionalização dos consumos, o técnico ou entidade interessada deverá requerê-lo à Direcção-Geral de Energia.
 
-###### Art. 6.º - 1 - Tratando-se de pessoa singular deverá o técnico interessado referido no artigo 5.º fazer prova de que:
+Art. 6.º - 1 - Tratando-se de pessoa singular deverá o técnico interessado referido no artigo 5.º fazer prova de que:
 
 a) É licenciado em especialidade adequada ao objectivo em causa;
 
@@ -128,11 +132,11 @@ a) O subgrupo, ou subgrupos, da Classificação das Actividades Económicas Port
 
 b) A duração do reconhecimento, a qual não poderá ser superior a 5 anos.
 
-###### Art. 7.º Tratando-se de pessoa colectiva deverá a entidade interessada referida no artigo 5.º ter como fim estatutário actividade de consultores e projectistas de instalações industriais, bem como fazer prova de que possui ao seu serviço técnico ou técnicos com os requisitos exigidos no artigo anterior.
+Art. 7.º Tratando-se de pessoa colectiva deverá a entidade interessada referida no artigo 5.º ter como fim estatutário actividade de consultores e projectistas de instalações industriais, bem como fazer prova de que possui ao seu serviço técnico ou técnicos com os requisitos exigidos no artigo anterior.
 
-###### Art. 8.º Para ser concedido o reconhecimento de técnico responsável pelo controle da execução e progresso do plano de racionalização dos consumos de energia, deverá o técnico ou entidade interessada requerê-lo à Direcção-Geral de Energia.
+Art. 8.º Para ser concedido o reconhecimento de técnico responsável pelo controle da execução e progresso do plano de racionalização dos consumos de energia, deverá o técnico ou entidade interessada requerê-lo à Direcção-Geral de Energia.
 
-###### Art. 9.º - 1 - Tratando-se de pessoa singular, deverá o técnico interessado referido no artigo 8.º fazer prova de que:
+Art. 9.º - 1 - Tratando-se de pessoa singular, deverá o técnico interessado referido no artigo 8.º fazer prova de que:
 
 a) É diplomado com o curso de engenheiro ou engenheiro técnico ou com o curso de oficial maquinista da marinha mercante;
 
@@ -140,11 +144,11 @@ b) Tem experiência da utilização de equipamentos semelhantes aos da instalaç
 
 2 - O reconhecimento será concedido com base em critérios de integridade e competência técnica.
 
-###### Art. 10.º Tratando-se de pessoa colectiva, deverá a entidade interessada referida no artigo 8.º ter como fim estatutário a actividade de consultor e projectista de instalações industriais e fazer prova de que possui ao seu serviço técnico ou técnicos com os requisitos exigidos no artigo anterior.
+Art. 10.º Tratando-se de pessoa colectiva, deverá a entidade interessada referida no artigo 8.º ter como fim estatutário a actividade de consultor e projectista de instalações industriais e fazer prova de que possui ao seu serviço técnico ou técnicos com os requisitos exigidos no artigo anterior.
 
 ### CAPÍTULO III — Exames das instalações
 
-###### Art. 11.º - 1 - O exame das condições de utilização da energia incidirá sobre a concepção e o estado das instalações, devendo ser recolhidos os elementos necessários à elaboração do plano de racionalização, bem como à subsequente verificação do cumprimento deste.
+Art. 11.º - 1 - O exame das condições de utilização da energia incidirá sobre a concepção e o estado das instalações, devendo ser recolhidos os elementos necessários à elaboração do plano de racionalização, bem como à subsequente verificação do cumprimento deste.
 
 2 - O exame deverá, nomeadamente, incidir sobre:
 
@@ -168,13 +172,13 @@ Da conversão de energia;
 
 f) A determinação dos consumos específicos de energia por tipo de produto.
 
-###### Art. 12.º Para uniformização a Direcção-Geral de Energia publicará a convenção a adoptar na repartição dos consumos de energia pelos diversos tipos de produtos, bem como os coeficientes de redução a toneladas de equivalente petróleo.
+Art. 12.º Para uniformização a Direcção-Geral de Energia publicará a convenção a adoptar na repartição dos consumos de energia pelos diversos tipos de produtos, bem como os coeficientes de redução a toneladas de equivalente petróleo.
 
-###### Art. 13.º Os exames das condições de utilização de energia deverão ser renovados pelo menos uma vez em cada 5 anos.
+Art. 13.º Os exames das condições de utilização de energia deverão ser renovados pelo menos uma vez em cada 5 anos.
 
 ### CAPÍTULO IV — Plano de racionalização
 
-###### Art. 14.º - 1 - O plano de racionalização estabelecerá obrigatoriamente metas de redução dos consumos específicos de energia por tipo de produto ou de instalação e cobrirá o período de 5 anos.
+Art. 14.º - 1 - O plano de racionalização estabelecerá obrigatoriamente metas de redução dos consumos específicos de energia por tipo de produto ou de instalação e cobrirá o período de 5 anos.
 
 2 - As metas a que se refere o número anterior não podem ser inferiores aos valores calculados pela fórmula:
 
@@ -190,7 +194,7 @@ K é o valor, a definir pela Direcção-Geral de Energia, para cada tipo de prod
 
 Os valores de M, C e K são referidos a quilogramas de equivalente petróleo por unidade de produto ou serviço obtido.
 
-###### Art. 15.º - 1 - No plano de racionalização deverão ser indicadas as modificações ou substituições a introduzir nos equipamentos ou na instalação existentes, quantificando as reduções de consumo consequentes e o respectivo programa de investimento.
+Art. 15.º - 1 - No plano de racionalização deverão ser indicadas as modificações ou substituições a introduzir nos equipamentos ou na instalação existentes, quantificando as reduções de consumo consequentes e o respectivo programa de investimento.
 
 2 - Os rendimentos, bem como os balanços energéticos considerados correctos em exploração eficiente, dos principais equipamentos e fabricos, constarão do plano de racionalização (rendimentos e balanços de referência).
 
@@ -200,11 +204,11 @@ Os valores de M, C e K são referidos a quilogramas de equivalente petróleo por
 
 ### CAPÍTULO V — Controle da execução e progresso do plano de racionalização
 
-###### Art. 16.º - 1 - O controle da execução e progresso do plano de racionalização será da responsabilidade de técnico pertencente aos quadros da empresa, desde que dos mesmos façam parte pelo menos 3 técnicos com os requisitos exigidos pela alínea a) do n.º 1 do artigo 9.º
+Art. 16.º - 1 - O controle da execução e progresso do plano de racionalização será da responsabilidade de técnico pertencente aos quadros da empresa, desde que dos mesmos façam parte pelo menos 3 técnicos com os requisitos exigidos pela alínea a) do n.º 1 do artigo 9.º
 
 2 - Quando a empresa não disponha nos seus quadros do mínimo de 3 técnicos referidos no número anterior, poderá, para controle da execução e progresso do plano de racionalização, contratar um técnico ou entidade responsável não pertencente aos seus quadros desde que satisfaçam os requisitos exigidos pelos artigos 9.º e 10.º
 
-###### Art. 17.º O técnico ou entidade responsável pela execução do plano de racionalização deve:
+Art. 17.º O técnico ou entidade responsável pela execução do plano de racionalização deve:
 
 a) Manter um registo actualizado pelo qual se possam verificar, mensalmente, os desvios em relação aos rendimentos e balanços energéticos de referência, bem como às metas estabelecidas para os consumos específicos;
 
@@ -214,28 +218,28 @@ c) Apresentar à Direcção-Geral de Energia, quando lhe forem solicitados, os r
 
 ### CAPÍTULO VI — Aprovação do plano de racionalização e do relatório anual
 
-###### Art. 18.º - 1 - A entidade proprietária ou utente que tenha assumido a responsabilidade pela utilização da instalação deve requerer à Direcção-Geral de Energia, durante o primeiro trimestre do ano seguinte àquele em que os consumos energéticos atingiram os valores fixados no n.º 1 do artigo 1.º do presente Regulamento, a aprovação do plano de utilização racional de energia.
+Art. 18.º - 1 - A entidade proprietária ou utente que tenha assumido a responsabilidade pela utilização da instalação deve requerer à Direcção-Geral de Energia, durante o primeiro trimestre do ano seguinte àquele em que os consumos energéticos atingiram os valores fixados no n.º 1 do artigo 1.º do presente Regulamento, a aprovação do plano de utilização racional de energia.
 
 2 - Nos casos previstos no n.º 2 do artigo 1.º deste Regulamento, a aprovação do plano de utilização racional de energia deverá ser requerida à Direcção-Geral de Energia no primeiro trimestre do ano seguinte ao da publicação do respectivo despacho.
 
-###### Art. 19.º Um novo plano de utilização racional de consumos deve ser submetido à aprovação antes de cada plano findar.
+Art. 19.º Um novo plano de utilização racional de consumos deve ser submetido à aprovação antes de cada plano findar.
 
-###### Art. 20.º A entidade proprietária ou utente que tenha assumido a responsabilidade pela utilização da instalação deve remeter o relatório anual do técnico ou entidade responsável pela execução do plano de racionalização à Direcção-Geral de Energia durante o mês de Janeiro do ano seguinte àquele a que o relatório se refere e requerer a respectiva aprovação.
+Art. 20.º A entidade proprietária ou utente que tenha assumido a responsabilidade pela utilização da instalação deve remeter o relatório anual do técnico ou entidade responsável pela execução do plano de racionalização à Direcção-Geral de Energia durante o mês de Janeiro do ano seguinte àquele a que o relatório se refere e requerer a respectiva aprovação.
 
 ### CAPÍTULO VII — Penalidades
 
-###### Art. 21.º As infracções ao disposto no presente diploma ou aos regulamentos que ele refere, por parte das entidades proprietárias ou utentes que tenham a responsabilidade pela utilização de instalações que, de acordo com os critérios do artigo 1.º deste Regulamento, sejam consideradas consumidoras intensivas de energia, ficam sujeitas às penalidades referidas no artigo 5.º do [Decreto-Lei n.º 58/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1982-600295).
+Art. 21.º As infracções ao disposto no presente diploma ou aos regulamentos que ele refere, por parte das entidades proprietárias ou utentes que tenham a responsabilidade pela utilização de instalações que, de acordo com os critérios do artigo 1.º deste Regulamento, sejam consideradas consumidoras intensivas de energia, ficam sujeitas às penalidades referidas no artigo 5.º do [Decreto-Lei n.º 58/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1982-600295).
 
-###### Art. 22.º A Direcção-Geral de Energia cancelará o reconhecimento do técnico ou entidade responsável pela execução do plano de racionalização sempre que se verifique a falta de cumprimento das determinações expressas no artigo 16.º
+Art. 22.º A Direcção-Geral de Energia cancelará o reconhecimento do técnico ou entidade responsável pela execução do plano de racionalização sempre que se verifique a falta de cumprimento das determinações expressas no artigo 16.º
 
 ### CAPÍTULO VIII — Disposições diversas
 
-###### Art. 23.º A fiscalização da execução do presente Regulamento bem como a aplicação das penalidades nele previstas compete à Direcção-Geral de Energia.
+Art. 23.º A fiscalização da execução do presente Regulamento bem como a aplicação das penalidades nele previstas compete à Direcção-Geral de Energia.
 
-###### Art. 24.º Compete à Direcção-Geral de Energia propor os subsídios a conceder nos termos do artigo 4.º do [Decreto-Lei n.º 58/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1982-600295).
+Art. 24.º Compete à Direcção-Geral de Energia propor os subsídios a conceder nos termos do artigo 4.º do [Decreto-Lei n.º 58/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1982-600295).
 
-###### Art. 25.º Para os consumidores que em 1982 atinjam os consumos previstos no artigo 1.º desta portaria, a apresentação dos planos de racionalização pode ser feita até 30 de Setembro de 1983.
+Art. 25.º Para os consumidores que em 1982 atinjam os consumos previstos no artigo 1.º desta portaria, a apresentação dos planos de racionalização pode ser feita até 30 de Setembro de 1983.
 
-###### Art. 26.º O presente Regulamento entra em vigor 180 dias após a sua publicação.
+Art. 26.º O presente Regulamento entra em vigor 180 dias após a sua publicação.
 
 Ministério da Indústria, Energia e Exportação, 23 de Março de 1982. - O Ministro da Indústria, Energia e Exportação, Ricardo Manuel Simões Bayão Horta.

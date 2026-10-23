@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/679-1972-686246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:55:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2b92b133b15832e9c16c734331f2fb8bf26557b7d9fd03302ddcdadc0ef34dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e87abd50280e18ed5a6c508cb72b1142817d5cfa31ddc03c4ff6374beb6d6678
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:55:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:55:09Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +97,11 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 Serviços de Educação
 
-###### Artigo 66.º, n.º 1 «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 84000$00
+Artigo 66.º, n.º 1 «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 84000$00
 
-###### Artigo 66.º, n.º 2 «Pessoal contratado - Vencimento contratual» ... 26000$00
+Artigo 66.º, n.º 2 «Pessoal contratado - Vencimento contratual» ... 26000$00
 
-###### Artigo 66.º, n.º 3 «Pessoal assalariado - Salários» ... 10000$00
+Artigo 66.º, n.º 3 «Pessoal assalariado - Salários» ... 10000$00
 
 ... 120000$00
 
@@ -109,7 +113,7 @@ Serviços de Centralização e Coordenação de Informações de Angola
 
 Despesas com o pessoal:
 
-###### Artigo 508.º n.º 1 «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 400000$00
+Artigo 508.º n.º 1 «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 400000$00
 
 ### CAPÍTULO 7.º — Serviços de Fomento
 
@@ -117,27 +121,27 @@ Serviços de Comércio
 
 Despesas com o pessoal:
 
-###### Artigo 1143.º, n.º 1 «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 400000$00
+Artigo 1143.º, n.º 1 «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 400000$00
 
 Inspecção Provincial das Actividades Económicas
 
 Despesas com o pessoal:
 
-###### Artigo 1154.º, n.º 1 «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 800000$00
+Artigo 1154.º, n.º 1 «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 800000$00
 
 Serviços da Indústria
 
 Despesas com o pessoal:
 
-###### Artigo 1165.º, n.º 1 «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 600000$00
+Artigo 1165.º, n.º 1 «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 600000$00
 
 Serviços de Veterinária
 
 Despesas com o pessoal:
 
-###### Artigo 1197.º, n.º 1 «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 600000$00
+Artigo 1197.º, n.º 1 «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 600000$00
 
-###### Artigo 1197.º, n.º 3 alínea a) «Pessoal assalariado - Salários» ... 200000$00
+Artigo 1197.º, n.º 3 alínea a) «Pessoal assalariado - Salários» ... 200000$00
 
 ... 3000000$00
 

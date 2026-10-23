@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/222/2015/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2015-70485723
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0bd2c17d801bafb371d031179004e68d4482f67a623a44b7da9be2d8ff4d8c9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f1323a2dc42a7d2b7c7a98edbcd5e41a9700be8c4c1e37217d7d84cd5618239
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Águas Públicas
-- Multa
-- Contra-ordenação
 - Albufeiras
-- Pesca
-- Licença de Pesca
-- Instituto da Conservação da Natureza e das Florestas
 - Aquicultura
-- Proteção do Ambiente
-- Sanção Penal
-- Pesca Desportiva
-- Pesca Profissional
+- Contra-ordenação
 - Diversidade Biológica
 - Espécie Protegida
 - Gestão do Ambiente
-- Zona de Proteção
+- Instituto da Conservação da Natureza e das Florestas
+- Licença de Pesca
+- Multa
+- Pesca
+- Pesca Desportiva
+- Pesca Profissional
+- Proteção do Ambiente
 - Responsabilidade Civil
 - Responsabilidade Criminal
+- Sanção Penal
 - ZONA de Pesca
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:108107541:por
@@ -131,16 +131,226 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2008/02/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2008/02/15/p/dre
+- type: cites
+  target: pt:dre:146561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67250270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70485722:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:108107541:por
+  label: Revogado pelo(a) Decreto-Lei n.º 112/2017 - Diário da República n.º 172/2017, Série I de 2017-09-06, nos termos do
+    art. 84.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-2017-108107541
+  date: '2017-09-06'
 article_structure:
   article_count: 65
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:46Z'
   warnings: []
   errors: []
 ---
@@ -1203,16 +1413,16 @@ O presente decreto-lei entra em vigor 90 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de agosto de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Anabela Maria Pinto de Miranda Rodrigues - Luís Maria de Barros Serra Marques Guedes - Leonardo Bandeira de Melo Mathias - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 24 de setembro de 2015.**
+Promulgado em 24 de setembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de setembro de 2015.**
+Referendado em 28 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 7.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19700/0871508730.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19700/0871508730.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19700/0871508730.pdf)

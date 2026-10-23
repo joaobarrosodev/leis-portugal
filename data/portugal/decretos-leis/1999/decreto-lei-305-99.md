@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/305/1999/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1999-426157
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f84c5119db8e5ff6ae8aba8ebe03a648ce0de560902b1ba426a797c64dc9a05b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b807cf6ab3fc4ebb1e2095a3663606e19c830a4286a7dde1a9302b9c38e1c6f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Alvará
-- Modernização Administrativa
-- Turismo
+- Autarquia Local
+- Câmara Municipal
 - Classificação dos Empreendimentos Turísticos
-- Multa
-- Propriedade Horizontal
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral do Turismo
 - Direcção Regional de Economia
-- Região de Turismo
 - Estabelecimento Hoteleiro
 - Fiscalização
 - Indústria Hoteleira
+- Infraestrutura Turística
 - Interesse para o Turismo
-- Licenciamento
 - Licença de Utilização
-- Parque de Campismo
+- Licenciamento
 - Madeira.região Autónoma
+- Modernização Administrativa
+- Multa
+- Parque de Campismo
+- Propriedade Horizontal
 - Proteção do Consumidor
-- Câmara Municipal
+- Região de Turismo
 - Regime Jurídico
 - Segurança dos Edifícios
-- Açores
-- Autarquia Local
-- Infraestrutura Turística
+- Turismo
 - Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:546014:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:546014:por
+  label: "Alterados os arts. 26.º, 30.º, 34.º, 61.º e 62.º e aditado o art. 30.º-A ao Dec Lei 167/97, de 04-Jul, pelo DEC\
+    \ LEI.217/2006.31.10.2006.MEI, DR.IS [210] de 31.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-2006-546014
+  date: '2006-10-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/167/1997/07/04/p/dre
   label: null
@@ -134,16 +140,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/247/1996/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/247/1996/07/08/p/dre
+- type: cites
+  target: pt:dre:144995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285370:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651701:por
+  label: null
+  source: null
 article_structure:
-  article_count: 107
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 87
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:56Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +282,9 @@ Competência da Direcção-Geral do Turismo
 
 4 - As competências específicas que, no âmbito do presente diploma, estão cometidas à Direcção-Geral do Turismo podem ser atribuídas às direcções regionais do Ministério da Economia, nos termos previstos no artigo 8.º e no n.º 2 do artigo 36.º, ambos do [Decreto-Lei n.º 78/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1999-144995), de 16 de Março.
 
-###### Artigo 17.º — Audição prévia
+Artigo 17.º
+
+Audição prévia
 
 1 - ...
 
@@ -220,7 +316,9 @@ d) Um representante de outra associação patronal do sector, no caso de o reque
 
 11 - ...
 
-###### Artigo 26.º — Vistoria
+Artigo 26.º
+
+Vistoria
 
 1 - ...
 
@@ -248,7 +346,9 @@ f) Um representante de outra associação patronal do sector, no caso de o reque
 
 7 - ...
 
-###### Artigo 30.º — Intimação judicial para um comportamento
+Artigo 30.º
+
+Intimação judicial para um comportamento
 
 1 - ...
 
@@ -256,7 +356,9 @@ f) Um representante de outra associação patronal do sector, no caso de o reque
 
 3 - As associações patronais do sector do turismo que tenham personalidade jurídica podem intentar, em nome dos seus associados, os pedidos de intimação previstos no presente artigo.
 
-###### Artigo 34.º — Requerimento
+Artigo 34.º
+
+Requerimento
 
 1 - No prazo de dois meses a contar da data da emissão do alvará de licença de utilização turística ou da abertura do empreendimento nos termos no n.º 5 do artigo 28.º, o interessado deve requerer à Direcção-Geral do Turismo a aprovação definitiva da classificação dos empreendimentos turísticos.
 
@@ -264,7 +366,9 @@ f) Um representante de outra associação patronal do sector, no caso de o reque
 
 3 - ...
 
-###### Artigo 35.º — Vistoria para efeitos de classificação
+Artigo 35.º
+
+Vistoria para efeitos de classificação
 
 1 - ...
 
@@ -288,7 +392,9 @@ d) Um representante de outra associação patronal do sector, no caso de o reque
 
 7 - ...
 
-###### Artigo 38.º — Revisão da classificação
+Artigo 38.º
+
+Revisão da classificação
 
 1 - ...
 
@@ -304,7 +410,9 @@ d) Um representante de outra associação patronal do sector, no caso de o reque
 
 7 - Quando for requerida a reclassificação do empreendimento pelo interessado aplica-se, com as necessárias adaptações, o disposto nos artigos 35.º a 37.º
 
-###### Artigo 42.º — Conjuntos turísticos
+Artigo 42.º
+
+Conjuntos turísticos
 
 1 - Quando diversos empreendimentos turísticos localizados numa área demarcada forem objecto de uma administração unitária, nos termos a estabelecer em regulamento, ainda que por entidades distintas, pode ser requerida à Direcção-Geral do Turismo a sua qualificação como conjunto turístico.
 
@@ -314,7 +422,9 @@ d) Um representante de outra associação patronal do sector, no caso de o reque
 
 4 - ...
 
-###### Artigo 44.º — Exploração de serviços de alojamento
+Artigo 44.º
+
+Exploração de serviços de alojamento
 
 1 - Com excepção do turismo no espaço rural, dos quartos particulares e dos estabelecimentos de hospedagem previstos no artigo 79.º, a exploração de serviços de alojamento apenas é permitida em edifício ou parte de edifício que constitua ou integre um dos empreendimentos turísticos referidos no n.º 2 do artigo 1.º
 
@@ -326,13 +436,17 @@ d) Um representante de outra associação patronal do sector, no caso de o reque
 
 5 - As unidades de alojamento dos empreendimentos turísticos não se consideram retiradas da exploração de serviços de alojamento pelo facto de se encontrarem sujeitas ao regime do direito real de habitação periódica.
 
-###### Artigo 46.º — Fracções imobiliárias
+Artigo 46.º
+
+Fracções imobiliárias
 
 1 - Para efeito do disposto no presente diploma, são consideradas fracções imobiliárias as partes componentes dos empreendimentos turísticos susceptíveis de constituírem unidades distintas e independentes, devidamente delimitadas, e que constituam ou se destinem à constituição de unidades de alojamento ou a instalações, equipamentos e serviços de exploração turística.
 
 2 - ...
 
-###### Artigo 47.º — Relações entre proprietários
+Artigo 47.º
+
+Relações entre proprietários
 
 1 - ...
 
@@ -356,7 +470,9 @@ d) Um representante de outra associação patronal do sector, no caso de o reque
 
 11 - A falta da menção referida no número anterior no título de transmissão constitui fundamento de recusa do registo da mesma.
 
-###### Artigo 48.º — Despesas de conservação, fruição e funcionamento
+Artigo 48.º
+
+Despesas de conservação, fruição e funcionamento
 
 1 - ...
 
@@ -370,7 +486,9 @@ d) Um representante de outra associação patronal do sector, no caso de o reque
 
 6 - ...
 
-###### Artigo 49.º — Deveres do proprietário
+Artigo 49.º
+
+Deveres do proprietário
 
 1 - O proprietário de qualquer unidade de alojamento que constitua fracção imobiliária de um empreendimento turístico, esteja ou não integrada na sua exploração turística, fica obrigado a:
 
@@ -382,7 +500,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 58.º — Competência de fiscalização
+Artigo 58.º
+
+Competência de fiscalização
 
 1 - Compete à Direcção-Geral do Turismo:
 
@@ -398,13 +518,17 @@ c) ...
 
 4 - Quando as acções de fiscalização previstas na alínea b) do n.º 1 e no n.º 2 do presente artigo forem efectuadas a pedido dos órgãos regionais ou locais de turismo, da Confederação do Turismo Português ou das associações patronais do sector, a Direcção-Geral do Turismo ou a câmara municipal, consoante o caso, deve enviar àquelas entidades, no prazo de oito dias a contar da data da sua realização, cópia do auto de fiscalização.
 
-###### Artigo 59.º — Serviços de inspecção
+Artigo 59.º
+
+Serviços de inspecção
 
 1 - Aos funcionários da Direcção-Geral do Turismo, das câmaras municipais e, quando for caso disso, dos órgãos regionais ou locais de turismo em serviço de inspecção deve ser facultado o acesso aos empreendimentos turísticos e às instalações previstas nos n.os 2 e 3 do artigo 44.º, devendo ainda ser-lhes apresentados os documentos justificadamente solicitados.
 
 2 - No âmbito da sua actividade de inspecção, a Direcção-Geral do Turismo pode recorrer a entidades públicas ou a entidades privadas acreditadas junto desta nas áreas dos serviços, equipamentos e infra-estruturas existentes nos empreendimentos turísticos e nas instalações previstas nos n.os 2 e 3 do artigo 44.º
 
-###### Artigo 61.º — Contra-ordenações
+Artigo 61.º
+
+Contra-ordenações
 
 1 - Para além das previstas nos regulamentos a que se refere o n.º 3 do artigo 1.º e das estabelecidas no artigo 54.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, com as alterações introduzidas pela [Lei n.º 29/92](https://diariodarepublica.pt/dr/detalhe/lei/29-1992-235289), de 5 de Setembro, e pelo [Decreto-Lei n.º 250/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1994-618126), de 15 de Outubro, constituem contra-ordenações:
 
@@ -476,7 +600,9 @@ dd) A violação do disposto no n.º 1 do artigo 78.º
 
 8 - ...
 
-###### Artigo 62.º — Sanções acessórias
+Artigo 62.º
+
+Sanções acessórias
 
 1 - Em função da gravidade e da reiteração das contra-ordenações previstas no artigo anterior e nos regulamentos nele referidos, bem como da culpa do agente e do tipo e classificação do empreendimento, podem ser aplicadas as seguintes sanções acessórias:
 
@@ -496,19 +622,25 @@ c) Encerramento do empreendimento ou das instalações previstas nos n.os 2 e 3 
 
 6 - ...
 
-###### Artigo 65.º — Produto das coimas
+Artigo 65.º
+
+Produto das coimas
 
 1 - O produto das coimas aplicadas pela Direcção-Geral do Turismo por infracção ao disposto no presente diploma e aos regulamentos a que se refere o n.º 3 do artigo 1.º reverte em 60% para os cofres do Estado e em 40% para a Direcção-Geral do Turismo.
 
 2 - O produto das coimas aplicadas pelas câmaras municipais por infracção ao disposto no presente diploma e aos regulamentos a que se refere o n.º 3 do artigo 1.º constitui receita dos respectivos municípios.
 
-###### Artigo 69.º — Registo
+Artigo 69.º
+
+Registo
 
 1 - É organizado pela Direcção-Geral do Turismo o registo central de todos os empreendimentos turísticos, nos termos a estabelecer em portaria do membro do Governo responsável pela área do turismo.
 
 2 - As entidades exploradoras dos empreendimentos turísticos devem comunicar à Direcção-Geral do Turismo a alteração de qualquer dos elementos do registo previstos na portaria a que se refere o número anterior no prazo de 30 dias a contar da data em que tenha lugar essa alteração.
 
-###### Artigo 70.º — Regime aplicável aos empreendimentos turísticos existentes
+Artigo 70.º
+
+Regime aplicável aos empreendimentos turísticos existentes
 
 1 - ...
 
@@ -516,7 +648,9 @@ c) Encerramento do empreendimento ou das instalações previstas nos n.os 2 e 3 
 
 3 - Os empreendimentos de animação culturais e desportivos declarados de interesse para o turismo nos termos do [Decreto-Lei n.º 328/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1986-221697), de 30 de Setembro, e do [Decreto Regulamentar n.º 8/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1989-613898), de 21 de Março, consideram-se, independentemente de quaisquer formalidades, declarados de interesse para o turismo nos termos e para os efeitos previstos no artigo 57.º
 
-###### Artigo 77.º — Elaboração e depósito do título constitutivo e do regulamento de administração
+Artigo 77.º
+
+Elaboração e depósito do título constitutivo e do regulamento de administração
 
 1 - As entidades exploradoras dos empreendimentos turísticos existentes à data da entrada em vigor do presente diploma, que sejam propriedade de várias pessoas, e que ainda não tenham depositado na Direcção-Geral do Turismo o respectivo título constitutivo, devem fazê-lo no prazo máximo de dois anos a contar daquela data.
 
@@ -542,17 +676,19 @@ O presente diploma entra em vigor no dia imediatamente a seguir ao da sua public
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Maria de Belém Roseira Martins Coelho Henriques de Pina - Manuel Maria Ferreira Carrilho - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.**
+Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Julho de 1999.**
+Referendado em 22 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Âmbito
 
@@ -1274,7 +1410,9 @@ c) Proceder à organização e instrução dos processos referentes às contra-o
 
 2 - No âmbito da sua actividade de inspecção, a Direcção-Geral do Turismo pode recorrer a entidades públicas ou a entidades privadas acreditadas junto desta nas áreas dos serviços, equipamentos e infra-estruturas existentes nos empreendimentos turísticos e nas instalações previstas nos n.os 2 e 3 do artigo 44.º
 
-###### Artigo 60.º — Livro de reclamações
+###### Artigo 60.º
+
+## Livro de reclamações
 
 1 - Em todos os empreendimentos turísticos deve existir um livro destinado aos utentes para que estes possam formular observações e reclamações sobre o estado e a apresentação das instalações e do equipamento, bem como sobre a qualidade dos serviços e o modo como foram prestados.
 

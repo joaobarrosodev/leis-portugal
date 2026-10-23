@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/140a00/35493551.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/182/2001/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2001-358948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 835d1f18557740c6820925e616dfed0b2628aa437cdf2ff2270f7aaa4e354315
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5228277c87da7a0990c88751b319ee0f578ac3cf841bf6c18eb8632973fba85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,30 @@ reuse:
 subjects:
 - Aposentação
 - Cálculo de Pensões
-- Sistema Retributivo
-- Remuneração Acessória
 - GNR
 - Militar
+- Remuneração Acessória
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:491436:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:491436:por
+  label: "Revogado, com efeitos a 01.01.2010, pelo DEC LEI.298/2009.14.10.2009.MAI, DR.IS [199] de 14.10.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-2009-491436
+  date: '2009-10-14'
 article_structure:
   article_count: 10
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:35Z'
   warnings: []
   errors: []
 ---
@@ -210,12 +215,12 @@ O presente diploma produz efeitos a partir de 1 de Janeiro de 2001.
 
 Visto e aprovado em Conselho de Ministros de 26 de Abril de 2001. - António Manuel de Oliveira Guterres - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - Alberto de Sousa Martins.
 
-**Promulgado em 5 de Junho de 2001.**
+Promulgado em 5 de Junho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Junho de 2001.**
+Referendado em 8 de Junho de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/02/02900/0095800960.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/5/2008/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2008-248231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:32:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4142ea4e7f1bd77cbe463814d4e43ccfdf284a099e952064f5946625fc2a65c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af5a0a566cc809c2b27835d85aaa9397466791977d6bfaec237e2c24b5473fc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:32:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Financiamento
+- Administração Regional de Saúde
+- Confidencialidade
+- Conselho Nacional de Procriação Medicamente Assistida
 - Conservação de Documentos
 - Definição de Competências
-- Administração Regional de Saúde
+- Financiamento
 - Fiscalização
 - Inspecção Geral das Actividades em Saúde
 - Licenciamento
 - Procriação Medicamente Assistida
-- Conselho Nacional de Procriação Medicamente Assistida
-- Confidencialidade
 - Setor Privado
 - Setor Público
 relationships:
@@ -84,20 +84,41 @@ relationships:
   target: pt:dre:105643546:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614135:por
+  label: "Alterados os arts. 2.º, 5.º, 6.º e 8.º, aditados os arts. 6.º-A e 6.º-B e republicado o presente diploma, pelo DR.1/2010.26.04.2010.MS,\
+    \ DR.IS [80] de 26.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/1-2010-614135
+  date: '2010-04-26'
+- type: amended_by
+  target: pt:dre:496705:por
+  label: "Alterado o art. 5.º do presente diploma, na redação do DR 1/2010, de 26-abr, pelo DR.4/2013.11.06.2013.MS, DR.IS\
+    \ [111] de 11.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-2013-496705
+  date: '2013-06-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/32/2006/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/32/2006/07/26/p/dre
+- type: cites
+  target: pt:dre:539239:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:105643546:por
+  label: Revogado pelo(a) Decreto Regulamentar n.º 6/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-2016-105643546
+  date: '2016-12-29'
 article_structure:
   article_count: 15
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:32:07Z'
   warnings: []
   errors: []
 ---
@@ -244,12 +265,12 @@ O Ministério da Saúde pode acordar com os centros privados autorizados o finan
 
 Visto e aprovado em Conselho de Ministros de 29 de Novembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Carmen Madalena da Costa Gomes e Cunha Pignatelli.
 
-**Promulgado em 28 de Janeiro de 2008.**
+Promulgado em 28 de Janeiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de Janeiro de 2008.**
+Referendado em 29 de Janeiro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

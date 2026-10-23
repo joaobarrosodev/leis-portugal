@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21541-1965-510234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0c7ee8d19142ed42fd42e9d0f2addf4b4f228654720377310b01b9afed2937e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ad47d609e8ec151656b95e688fbfbecd86faaef3496ba2796231940d534ea04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:160492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251851:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:14Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +95,7 @@ Não se justificando a exigência da alínea 1) do § único do artigo 15.º do 
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, ao abrigo do preceituado no artigo 47.º do Regulamento de Admissões e Promoções do Pessoal da Direcção-Geral dos Serviços Pecuários, aprovado pela [Portaria n.º 19405](https://diariodarepublica.pt/dr/detalhe/portaria/19405-1962-160492), de 25 de Setembro de 1962, e com observância do artigo 89.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), de 20 de Novembro de 1957, que o artigo 15.º do citado regulamento passe a ter a seguinte redacção:
 
-###### Art. 15.º As provas para ingresso nas categorias de escriturário de 2.ª classe e de aspirante referidas no artigo 76.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851) constam de:
+Art. 15.º As provas para ingresso nas categorias de escriturário de 2.ª classe e de aspirante referidas no artigo 76.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851) constam de:
 
 Para escriturário de 2.º classe:
 

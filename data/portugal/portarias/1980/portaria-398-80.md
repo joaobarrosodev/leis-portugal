@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/398-1980-471929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0407e82918b21214faa44b71b2bbd870d0a5544af270015cb38da6371b84e77c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5316d3fa0760051915b031a4044851cdd4fe3f72c052ca9d9ee55fc033ad5b51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Despesas Públicas
+- Direcção de Infraestruturas da Força Aérea Portuguesa
+- Força Aérea
+- Obras Públicas
+relationships:
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:30Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +104,9 @@ Tendo em vista as disposições do artigo 10.º do [Decreto-Lei n.º 211/79](htt
 
 Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, e o Governo, pelo Ministro das Finanças e do Plano, o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contratos para a execução de obras ou a executar obras por administração directa no continente e ilhas adjacentes até à importância de 760000000$00.
+Artigo 1.º É autorizada a Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contratos para a execução de obras ou a executar obras por administração directa no continente e ilhas adjacentes até à importância de 760000000$00.
 
-###### Art. 2.º - 1 - Os encargos resultantes dos contratos e das obras de administração directa não poderão, em cada ano, exceder as seguintes importâncias:
+Art. 2.º - 1 - Os encargos resultantes dos contratos e das obras de administração directa não poderão, em cada ano, exceder as seguintes importâncias:
 
 Em 1980 - 300000000$00;
 
@@ -107,7 +116,7 @@ Em 1982 - 60000000$00.
 
 2 - As importâncias fixadas para 1981 e 1982 serão acrescidas dos saldos que se apurarem nos anos anteriores.
 
-###### Art. 3.º - 1 - Os encargos resultantes da execução deste diploma serão satisfeitos por verba adequada do orçamento da Defesa Nacional - Departamento da Força Aérea.
+Art. 3.º - 1 - Os encargos resultantes da execução deste diploma serão satisfeitos por verba adequada do orçamento da Defesa Nacional - Departamento da Força Aérea.
 
 2 - A orçamentação das despesas de cada ano será precedida da apresentação de programas anuais de execução, elaborados de acordo com as normas definidas pelo Ministro das Finanças e do Plano, através do Departamento Central de Planeamento.
 

@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/748-1978-324918
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T05:49:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0d3348f3cfed7d38c331697aaec6693f2ead273972182e3c96358c49a9d6a2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24cdbcb7222a9feff0c4bb6ddb68b453acbaffe4e0fcd6e0e439c4eb6bbca1f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:49:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral dos Serviços Veterinários
+- Gado Bovino
+- Pecuária
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:159360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516187:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:49:00Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +104,13 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Fomento 
 
 A alínea a) do artigo 11.º e os artigos 14.º, 16.º e 17.º do Regulamento acima referido passam a ter a seguinte redacção:
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 a) Os recém-nascidos serão identificados provisoriamente pelos seus proprietários, nas primeiras quarenta e oito horas de vida, com coleiras numeradas, e definitivamente, nos sessenta dias subsequentes, por funcionário do livro, que lhes atribuirá, por brinco numerado e tatuagem na orelha direita, um número de série, em que o primeiro algarismo corresponderá ao ano de nascimento;
 
 ...
 
-###### Art. 14.º O livro de nascimentos é reservado exclusivamente:
+Art. 14.º O livro de nascimentos é reservado exclusivamente:
 
 1) Aos descendentes de touros inscritos no livro de adultos e de fêmeas inscritas neste livro ou no de nascimentos;
 
@@ -106,7 +118,7 @@ a) Os recém-nascidos serão identificados provisoriamente pelos seus proprietá
 
 ...
 
-###### Art. 16.º A inscrição no livro de adultos, a título definitivo ou inicial, é efectuada pela Secretaria do Livro Genealógico, sendo admitidos:
+Art. 16.º A inscrição no livro de adultos, a título definitivo ou inicial, é efectuada pela Secretaria do Livro Genealógico, sendo admitidos:
 
 A) A título definitivo
 
@@ -158,7 +170,7 @@ As fêmeas que satisfaçam as condições seguintes:
 
 § 2.º O livro de adultos manter-se-á em aberto durante dez anos, a partir da data da publicação do presente diploma, período que pode ser prorrogado se as circunstâncias o aconselharem.
 
-###### Art. 17.º Podem inscrever-se no livro de mérito:
+Art. 17.º Podem inscrever-se no livro de mérito:
 
 1) Os machos inscritos no livro de adultos que sejam pais de dez ou mais filhas inscritas no mesmo livro com produções contrastadas não inferiores a 4000 kg de leite nos primeiros trezentos e cinco dias da primeira lactação, ou a 5000 kg de leite em idêntico período de uma das lactações seguintes, com o mínimo, respectivamente, de 140 kg e de 175 kg de matéria gorda;
 

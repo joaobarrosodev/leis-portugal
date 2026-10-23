@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 124/1997, 2º Suplemento, Série I-B de 1997-05-30
   number: '124'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2624-(22) a 2624-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/124b02/00220023.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/24-a/1997/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-a-1997-418398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:24:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81ae46239dbc1e38ebe6d610d751421f7f7bc6c723b2017aff95fb090d3ecc80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0ca3584a754600b0d5bd44526f6b4b62a5d8c62a40f0e7788861cab9687bb4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:24:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,38 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abono de Família
 - Deficiente
 - Função Pública
-- Proteção ao Deficiente
 - Prestações da Segurança Social
 - Prestações Familiares
+- Proteção ao Deficiente
 - Proteção Social
 - Regime de Protecção Social dos Funcionários e Agentes da Administração Pública
 - Regime Jurídico
 - Segurança Social
 - Subsídio de Educação Especial
 - Subsídio de Funeral
-- Abono de Família
 - Subsídio por Assistência de Terceira Pessoa
 relationships:
 - type: amended_by
   target: pt:dre:178491:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:434786:por
+  label: "Alterados os arts. 3.º e 9.º pelo DR.15/99.1999.08.17.MTS DR.IS-B [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/15-1999-434786
+  date: '1999-08-17'
+- type: amended_by
+  target: pt:dre:652702:por
+  label: "Derrogado, o presente diploma, na redacção do DR 15/99, de 17-Ago, pelo DEC LEI.176/2003.2003.08.02.MSST DR.IS-A\
+    \ [177] na parte relativa às prestações por ele reguladas\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-2003-652702
+  date: '2003-08-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133-b/1997/05/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/133-b/1997/05/30/p/dre
+- type: cites
+  target: pt:dre:158179:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:24:13Z'
   warnings: []
   errors: []
 ---
@@ -199,12 +214,12 @@ Presidência do Conselho de Ministros, 30 de Abril de 1997.
 
 António Manuel de Oliveira Guterres - Fernando Teixeira dos Santos - Eduardo Luís Barreto Ferro Rodrigues - Fausto de Sousa Correia.
 
-**Promulgado em 27 de Maio de 1997.**
+Promulgado em 27 de Maio de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Maio de 1997.**
+Referendado em 30 de Maio de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

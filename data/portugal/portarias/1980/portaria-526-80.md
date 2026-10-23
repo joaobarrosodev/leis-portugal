@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/526-1980-471102
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1dfc93b13a499a0491399f6265ae796e3c54488a3604a354adf028a4ec89c33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29c30cd68057bc05712cdb223295ef0737a4867383917ff07f5b1a963b24ae39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autarquia Local
+- Concurso
+- GAT
+relationships:
+- type: cites
+  target: pt:dre:230898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:47Z'
   warnings: []
   errors: []
 ---
@@ -101,19 +116,19 @@ Secretarias de Estado da Reforma Administrativa e da Administração Regional e 
 
 Regulamento dos Concursos de Admissão do Pessoal Técnico Superior, Técnico e Técnico Auxiliar dos Gabinetes de Apoio Técnico
 
-###### Artigo 1.º - 1 - O presente Regulamento aplica-se aos concursos de admissão previstos nos artigos 17.º, 18.º e 19.º do [Decreto-Lei n.º 58/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1979-382847), de 29 de Março, que institucionaliza os gabinetes de apoio técnico (GAT).
+Artigo 1.º - 1 - O presente Regulamento aplica-se aos concursos de admissão previstos nos artigos 17.º, 18.º e 19.º do [Decreto-Lei n.º 58/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1979-382847), de 29 de Março, que institucionaliza os gabinetes de apoio técnico (GAT).
 
 2 - Para efeitos de aplicação deste Regulamento, entende-se por concurso o processo de recrutamento do pessoal pelo qual os indivíduos que se possam integrar nas áreas de recrutamento definidas no [Decreto-Lei n.º 58/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1979-382847), de 29 de Março, ou na lei geral, são colocados perante idênticas oportunidades e condições de candidatura e de avaliação com vista ao preenchimento de determinado lugar.
 
-###### Art. 2.º - 1 - Os concursos a que se refere o artigo anterior visam o recrutamento de pessoal técnico superior, técnico e técnico auxiliar dos quadros de pessoal dos GAT integrados na área de cada comissão de coordenação regional (CCR), mediante a apreciação das qualidades técnicas e profissionais dos candidatos relacionadas com a natureza e exigências dos lugares a preencher.
+Art. 2.º - 1 - Os concursos a que se refere o artigo anterior visam o recrutamento de pessoal técnico superior, técnico e técnico auxiliar dos quadros de pessoal dos GAT integrados na área de cada comissão de coordenação regional (CCR), mediante a apreciação das qualidades técnicas e profissionais dos candidatos relacionadas com a natureza e exigências dos lugares a preencher.
 
 2 - A realização dos concursos compete à CCR respectiva.
 
-###### Art. 3.º - 1 - Os concursos têm a validade de um ano e destinam-se ao preenchimento das vagas existentes à data de abertura do concurso e das que vierem a verificar-se durante o período de validade, constituindo-se para o efeito reservas de recrutamento.
+Art. 3.º - 1 - Os concursos têm a validade de um ano e destinam-se ao preenchimento das vagas existentes à data de abertura do concurso e das que vierem a verificar-se durante o período de validade, constituindo-se para o efeito reservas de recrutamento.
 
-###### Art. 4.º A abertura dos concursos é autorizada por despacho do Ministro da Administração Interna, sob proposta do presidente da CCR respectiva.
+Art. 4.º A abertura dos concursos é autorizada por despacho do Ministro da Administração Interna, sob proposta do presidente da CCR respectiva.
 
-###### Art. 5.º - 1 - Todas as operações dos concursos são realizadas sob a responsabilidade de um júri, composto por um presidente e cinco vogais, nomeado por despacho do Ministro da Administração Interna.
+Art. 5.º - 1 - Todas as operações dos concursos são realizadas sob a responsabilidade de um júri, composto por um presidente e cinco vogais, nomeado por despacho do Ministro da Administração Interna.
 
 2 - O júri é constituído pelo presidente da CCR ou pessoa em quem este delegue, que presidirá, e por cinco vogais, sendo dois representantes dos GAT, um com formação de engenharia e outro de arquitectura, e os outros três, um nomeado em representação da CCR, outro da Direcção-Geral de Acção Regional e Local e outro da Direcção-Geral de Recrutamento e Formação.
 
@@ -123,19 +138,19 @@ Regulamento dos Concursos de Admissão do Pessoal Técnico Superior, Técnico e 
 
 5 - O júri será secretariado por um funcionário da Repartição Administrativa e Financeira da CCR, a qual prestará o apoio administrativo necessário à realização do concurso.
 
-###### Art. 6.º - 1 - O júri só poderá deliberar quando estiverem presentes todos os seus membros.
+Art. 6.º - 1 - O júri só poderá deliberar quando estiverem presentes todos os seus membros.
 
 2 - O presidente do júri tem voto de qualidade.
 
 3 - Das reuniões do júri serão lavradas actas, das quais constarão todas as deliberações tomadas.
 
-###### Art. 7.º - 1 - Compete ao júri apreciar as qualificações técnicas e profissionais dos candidatos relacionadas com a natureza e exigências dos cargos a prover.
+Art. 7.º - 1 - Compete ao júri apreciar as qualificações técnicas e profissionais dos candidatos relacionadas com a natureza e exigências dos cargos a prover.
 
 2 - Para efeito da apreciação referida no número anterior, o júri estabelecerá previamente uma descrição das funções correspondentes a cada cargo, bem como, dentro dos respectivos requisitos legais, das suas exigências principais quanto a formação, conhecimentos e experiência profissionais.
 
-###### Art. 8.º Os concursos são anunciados no Diário da República e nos meios de comunicação social que garantam a maior divulgação, sendo sempre obrigatória a utilização de, pelo menos, um jornal de grande expansão na área da CCR.
+Art. 8.º Os concursos são anunciados no Diário da República e nos meios de comunicação social que garantam a maior divulgação, sendo sempre obrigatória a utilização de, pelo menos, um jornal de grande expansão na área da CCR.
 
-###### Art. 9.º Do aviso dos concursos constarão os seguintes elementos:
+Art. 9.º Do aviso dos concursos constarão os seguintes elementos:
 
 a) Indicação do número, categoria e localização dos lugares vagos a preencher e de que se trata de constituição de reservas de recrutamento;
 
@@ -151,9 +166,9 @@ f) Indicação do processo de apreciação, bem como dos critérios de avaliaç�
 
 g) Indicação do Diário da República onde foi publicado o presente Regulamento.
 
-###### Art. 10.º As candidaturas são formalizadas mediante requerimento dirigido ao Ministro da Administração Interna e entregue ou enviado à CCR respectiva num prazo nunca inferior a vinte dias.
+Art. 10.º As candidaturas são formalizadas mediante requerimento dirigido ao Ministro da Administração Interna e entregue ou enviado à CCR respectiva num prazo nunca inferior a vinte dias.
 
-###### Art. 11.º - 1 - Juntamente com os requerimentos, dos quais devem constar os dados de identificação, os candidatos deverão apresentar os respectivos curricula devidamente comprovados, englobando os seguintes elementos:
+Art. 11.º - 1 - Juntamente com os requerimentos, dos quais devem constar os dados de identificação, os candidatos deverão apresentar os respectivos curricula devidamente comprovados, englobando os seguintes elementos:
 
 a) Formação académica de base com a indicação da instituição ou instituições de formação frequentadas, anos e classificação dos cursos e respectiva concessão de equivalência, quando for o caso;
 
@@ -165,33 +180,33 @@ d) Quaisquer outros elementos comprovativos da qualificação e experiência pro
 
 2 - Os candidatos deverão apresentar sempre uma declaração da qual conste a indicação, por ordem de preferência, dos GAT das CCR respectivas em cujos quadros pretendem ser admitidos.
 
-###### Art. 12.º - 1 - Findo o prazo de apresentação das candidaturas, o júri reunirá para verificação das condições de admissibilidade dos candidatos.
+Art. 12.º - 1 - Findo o prazo de apresentação das candidaturas, o júri reunirá para verificação das condições de admissibilidade dos candidatos.
 
 2 - Nos casos em que se verifiquem insuficiências de instrução, deficiências ou irregularidades nos processos de candidatura, o júri marcará prazos, não inferiores a três nem superiores a dez dias, para que as mesmas possam ser supridas ou sanadas pelos interessados, informando-os disso individualmente, por processo que garanta que tomaram conhecimento.
 
-###### Art. 13.º Serão excluídos os candidatos que não possuam os requisitos legais de admissão.
+Art. 13.º Serão excluídos os candidatos que não possuam os requisitos legais de admissão.
 
-###### Art. 14.º - 1 - Concluídas as deliberações, o júri elaborará a lista provisória dos candidatos admissíveis e dos excluídos, a qual deverá ser publicada no Diário da República.
+Art. 14.º - 1 - Concluídas as deliberações, o júri elaborará a lista provisória dos candidatos admissíveis e dos excluídos, a qual deverá ser publicada no Diário da República.
 
 2 - No caso dos candidatos excluídos, serão sempre indicados na lista provisória os motivos da exclusão.
 
-###### Art. 15.º - 1 - Das deliberações do júri os candidatos poderão reclamar para o júri, no prazo de sete dias a contar da data da publicação e mediante requerimento entregue ou enviado à CCR em que exponham os fundamentos do mesmo.
+Art. 15.º - 1 - Das deliberações do júri os candidatos poderão reclamar para o júri, no prazo de sete dias a contar da data da publicação e mediante requerimento entregue ou enviado à CCR em que exponham os fundamentos do mesmo.
 
 2 - A informação da possibilidade da reclamação, bem como o processo e o prazo para a apresentar, constará sempre de publicação da lista provisória.
 
-###### Art. 16.º As decisões sobre as reclamações serão notificadas aos interessados individualmente, por processo que garanta que tomaram conhecimento.
+Art. 16.º As decisões sobre as reclamações serão notificadas aos interessados individualmente, por processo que garanta que tomaram conhecimento.
 
-###### Art. 17.º - 1 - Quando atendidas as reclamações das deliberações do júri, serão enviadas para publicação no Diário da República, nos cinco dias seguintes à ultima decisão, as alterações à lista provisória declarando-a definitiva.
+Art. 17.º - 1 - Quando atendidas as reclamações das deliberações do júri, serão enviadas para publicação no Diário da República, nos cinco dias seguintes à ultima decisão, as alterações à lista provisória declarando-a definitiva.
 
 2 - Quando as deliberações do júri não tenham sido objecto de reclamações, ou estas não tenham obtido provimento, será enviada para publicação no Diário da República apenas a declaração de conversão da lista provisória em definitiva, nos cinco dias após o termo do prazo da reclamação ou da última decisão proferida.
 
-###### Art. 18.º - 1 - O júri, na apreciação das qualificações dos candidatos, considerará predominantemente a respectiva formação profissional complementar e experiência profissional, avaliando a sua natureza e duração, face às características e exigências do cargo a prover.
+Art. 18.º - 1 - O júri, na apreciação das qualificações dos candidatos, considerará predominantemente a respectiva formação profissional complementar e experiência profissional, avaliando a sua natureza e duração, face às características e exigências do cargo a prover.
 
 2 - A fim de aprofundar ou complementar a apreciação referida no número anterior, o júri pode convocar os candidatos para a realização de entrevistas de apreciação curricular ou solicitar-lhes elementos complementares esclarecedores das respectivas qualificações.
 
-###### Art. 19.º Realizada a apreciação dos candidatos, o júri elaborará uma lista, ordenando-os de acordo com o mérito das respectivas qualificações em face dos cargos a prover.
+Art. 19.º Realizada a apreciação dos candidatos, o júri elaborará uma lista, ordenando-os de acordo com o mérito das respectivas qualificações em face dos cargos a prover.
 
-###### Art. 20.º Em igualdade de apreciação, constituem factores de preferência a observar pela ordem indicada, para efeito de ordenamento dos candidatos:
+Art. 20.º Em igualdade de apreciação, constituem factores de preferência a observar pela ordem indicada, para efeito de ordenamento dos candidatos:
 
 a) Ser funcionário de categoria idêntica à do cargo a prover pertencente ao quadro de qualquer GAT;
 
@@ -203,9 +218,9 @@ d) Ser funcionário ou agente de qualquer serviço ou organismo da Administraç�
 
 e) Ter frequentado com aproveitamento estágio nos gabinetes de apoio técnico.
 
-###### Art. 21.º A lista ordenada dos candidatos aprovados e dos excluídos deverá ser submetida à homologação do Ministro da Administração Interna e enviada para publicação no Diário da República, no prazo de cinco dias após homologação.
+Art. 21.º A lista ordenada dos candidatos aprovados e dos excluídos deverá ser submetida à homologação do Ministro da Administração Interna e enviada para publicação no Diário da República, no prazo de cinco dias após homologação.
 
-###### Art. 22.º - 1 - O provimento dos lugares dos quadros dos GAT far-se-á de entre os candidatos aprovados, segundo as preferências de admissão manifestadas e com respeito absoluto pela sua ordenação na lista.
+Art. 22.º - 1 - O provimento dos lugares dos quadros dos GAT far-se-á de entre os candidatos aprovados, segundo as preferências de admissão manifestadas e com respeito absoluto pela sua ordenação na lista.
 
 2 - Todo o candidato que recuse o provimento num lugar de um GAT da sua preferência será excluído.
 
@@ -213,14 +228,14 @@ e) Ter frequentado com aproveitamento estágio nos gabinetes de apoio técnico.
 
 4 - Os candidatos que recusarem o provimento referido na alínea anterior mantêm a sua posição relativa na lista ordenada do concurso.
 
-###### Art. 23.º - 1 - Os candidatos aprovados não admitidos constituem-se em reservas de recrutamento válidas por um ano e organizadas segundo as respectivas posições relativas obtidas no concurso e as preferências de admissão manifestadas.
+Art. 23.º - 1 - Os candidatos aprovados não admitidos constituem-se em reservas de recrutamento válidas por um ano e organizadas segundo as respectivas posições relativas obtidas no concurso e as preferências de admissão manifestadas.
 
 2 - Sempre que se verificar um vaga no quadro de qualquer GAT da CCR durante o período de validade das reservas de recrutamento, o seu preenchimento far-se-á segundo os critérios fixados no artigo anterior.
 
-###### Art. 24.º - 1 - Quando uma vaga dos quadros de qualquer GAT da CCR não puder ser provida por candidatos aprovados e existentes na respectiva reserva de recrutamento, poderá ser iniciado, antes do termo do prazo da sua validade, o processo de novo concurso.
+Art. 24.º - 1 - Quando uma vaga dos quadros de qualquer GAT da CCR não puder ser provida por candidatos aprovados e existentes na respectiva reserva de recrutamento, poderá ser iniciado, antes do termo do prazo da sua validade, o processo de novo concurso.
 
 2 - No caso previsto no número anterior, a referida reserva de recrutamento é anulada a partir da data da publicação da abertura do novo concurso, sendo do facto avisados os respectivos elementos.
 
-###### Art. 25.º O presente Regulamento será alterado de acordo com o que vier a ser estabelecido no diploma a que se refere o artigo 30.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673).
+Art. 25.º O presente Regulamento será alterado de acordo com o que vier a ser estabelecido no diploma a que se refere o artigo 30.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673).
 
-**O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo. - O Secretário de Estado da Administração Regional e Local, José Albino da Silva Peneda.**
+O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo. - O Secretário de Estado da Administração Regional e Local, José Albino da Silva Peneda.

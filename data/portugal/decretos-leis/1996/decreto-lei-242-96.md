@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/242/1996/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1996-197518
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:46:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 594ee49e21e3a598ef75a42faf1bf0fa0b835c9d13bba7bfa75494efa37f60f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da9d21ddd6167883452f054016ad0ce2eee5da0f252b055961e995b303858caa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:46:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
+- Equivalência de Diplomas
 - Formação Profissional
 - Livre Circulação de Trabalhadores
-- Equivalência de Diplomas
 - Trabalhador Independente
 - Trabalhador por Conta de Outrem
 relationships:
@@ -78,6 +78,26 @@ relationships:
   target: pt:dre:604779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:229305:por
+  label: "Alterado o nº 5 do anexo II pelo DEC LEI.359/98.1998.11.18.ME, DR.IS-A [267] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/359-1998-229305
+  date: '1998-11-18'
+- type: amended_by
+  target: pt:dre:660483:por
+  label: "Alterados os anexos II e III pelo DEC LEI.328/2000.2000.12.22.ME DR.IS-A [294]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/328-2000-660483
+  date: '2000-12-22'
+- type: amended_by
+  target: pt:dre:659917:por
+  label: "Alterados os arts. 15.º e 18.º e aditado o art. 7.º-A, pelo DEC LEI.179/2003.2003.08.14.ME DR.IS-A [187]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-2003-659917
+  date: '2003-08-14'
+- type: amended_by
+  target: pt:dre:350122:por
+  label: "Alterado o anexo I pela PORT.1509/2004.31.12.2004.MAET, DR.IS-B [305] de 31.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1509-2004-350122
+  date: '2004-12-31'
 - type: cites
   target: celex:31989L0048
   label: null
@@ -94,16 +114,26 @@ relationships:
   target: celex:31995L0043
   label: null
   source: http://data.europa.eu/eli/dir/1995/43/oj
+- type: corrected_by
+  target: pt:dre:306912:por
+  label: "Rectificado pela Decl-Rect.6-D/97.1997.03.31.PCM DR.IS-A [75]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/6-d-1997-306912
+  date: '1997-03-31'
+- type: repealed_by
+  target: pt:dre:604779:por
+  label: "Revogado, nos termos do nº 2 do art. 55.º,pela LEI.9/2009.04.03.2009.AR, DR.IS [44] de 04.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2009-604779
+  date: '2009-03-04'
 article_structure:
   article_count: 18
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:46:28Z'
   warnings: []
   errors: []
 ---
@@ -358,17 +388,17 @@ g) Confirmar junto da autoridade competente do Estado membro de origem ou de pro
 
 Visto e aprovado em Conselho de Ministros de 24 de Outubro de 1996. - António Manuel de Carvalho Ferreira Vitorino - Jaime José Matos da Gama - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Maria João Fernandes Rodrigues.
 
-**Promulgado em 27 de Novembro de 1996.**
+Promulgado em 27 de Novembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Novembro de 1996.**
+Referendado em 29 de Novembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/292a00/45044514.pdf))](https://files.diariodarepublica.pt/1s/1996/12/292a00/45044514.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/292a00/45044514.pdf)
 
 ## ANEXO II — Profissões a que se refere o anexo C das Directivas n.os [92/51/CEE](https://data.europa.eu/eli/dir/1992/51/oj?locale=pt), [94/38/CE](https://data.europa.eu/eli/dir/1994/38/oj?locale=pt) e [95/43/CE](https://data.europa.eu/eli/dir/1995/43/oj?locale=pt)
 
@@ -452,7 +482,7 @@ Na Áustria:
 
 - Óptico-optometrista de lentes de contacto (Kontaktlinsenoptiker);
 
-- Pedicuro [([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/292a00/45044514.pdf))](https://files.diariodarepublica.pt/1s/1996/12/292a00/45044514.pdf);
+- Pedicuro [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/292a00/45044514.pdf);
 
 - Mecânico de próteses auditivas (Hörgeräteakustiker);
 
@@ -560,7 +590,7 @@ As formações de:
 
 Na Dinamarca:
 
-- Comandante de navio [([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/292a00/45044514.pdf))](https://files.diariodarepublica.pt/1s/1996/12/292a00/45044514.pdf);
+- Comandante de navio [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/292a00/45044514.pdf);
 
 - Imediato (overstyrmand);
 
@@ -814,7 +844,7 @@ As autoridades neerlandesas comunicarão à Comissão a aos outros Estados membr
 
 Na Áustria:
 
-- Ciclos de formação ministrados em estabelecimentos de ensino profissional superior (Berufsbildende Höhere Schulen) e em estabelecimentos de ensino superior no domínio da agricultura e da silvicultura (Höhrere Land- und Forstwirtschaftliche Lehranstalten), incluindo ciclos de um tipo particular [([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/292a00/45044514.pdf))](https://files.diariodarepublica.pt/1s/1996/12/292a00/45044514.pdf), cuja estrutura e nível são estabelecidos por disposições jurídicas, regulamentares e administrativas. Estes ciclos de formação têm uma duração de pelo menos 13 anos, incluindo uma formação profissional de 5 anos sancionada por um exame final, cuja aprovação constitui prova de aptidões profissionais;
+- Ciclos de formação ministrados em estabelecimentos de ensino profissional superior (Berufsbildende Höhere Schulen) e em estabelecimentos de ensino superior no domínio da agricultura e da silvicultura (Höhrere Land- und Forstwirtschaftliche Lehranstalten), incluindo ciclos de um tipo particular [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/292a00/45044514.pdf), cuja estrutura e nível são estabelecidos por disposições jurídicas, regulamentares e administrativas. Estes ciclos de formação têm uma duração de pelo menos 13 anos, incluindo uma formação profissional de 5 anos sancionada por um exame final, cuja aprovação constitui prova de aptidões profissionais;
 
 - Ciclos de formação ministrados em escolas de mestres-artesãos (Meisterschulen), aulas de mestres-artesãos (Meisterklassen), escolas de formação de mestres-aprendizes do sector industrial (Werkmeisterschulen) ou de escolas de formação de artesãos no sector da construção (Bauhandwerkerschulen), cuja estrutura e nível são estabelecidos por disposições jurídicas, regulamentares e administrativas. Estes ciclos de formação têm uma duração total de pelo menos 13 anos, incluindo 9 anos de escolaridade obrigatória seguidos quer por pelo menos 3 anos de formação profissional numa escola especializada quer de pelo menos três anos de formação na empresa e, paralelamente, num estabelecimento de ensino profissional (Berufsschule), sancionada em ambos os casos por um exame, completados pela aprovação numa formação de pelo menos 1 ano numa escola de mestres-artesãos (Meisterschule), em aulas de mestres-artesãos (Meisterklassen), numa escola de formação de mestres-artesãos no sector industrial (Werkmeisterschule) ou numa escola de formação de artesãos no sector da construção (Bauhandwerkschule). Na maior parte dos casos, a duração total da formação é de pelo menos 15 anos, incluindo períodos de experiência profissional anteriores aos ciclos de formação nos estabelecimentos ou paralelos a uma formação a tempo parcial (pelo menos 960 horas).
 

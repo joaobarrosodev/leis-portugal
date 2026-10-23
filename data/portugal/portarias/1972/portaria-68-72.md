@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/68-1972-398095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:55:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89457b109479952c8eecb3472bdabf1d94caf7d144c38dbcd8d6f5ae81b6cbeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d8cc1e0f10c9ab908ece49c4c4cc5e593f98876334d8728cf1a3008fec2ea6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:55:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:55:10Z'
   warnings: []
   errors: []
 ---
@@ -87,6 +91,6 @@ de 5 de Fevereiro
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do [Decreto-Lei n.º 23367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23367-1933-326747), de 18 de Dezembro de 1933, reforçar, com a importância de 30000$00, a verba do capítulo 10.º, artigo 333.º, n.º 8, alínea a) «Encargos gerais - Diversas despesas - Despesas com valores selados - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de S. Tomé e Príncipe para o ano económico de 1971, tomando como contrapartida igual importância a sair das disponibilidades da verba do capitulo 4.º, artigo 67.º, n.º 1 «Administração geral e fiscalização - Serviços de Educação - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da mesma tabela de despesa.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada no Boletim Oficial de S. Tomé e Príncipe. - J. da Silva Cunha.

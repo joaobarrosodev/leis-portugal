@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/17100/0665306653.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/99/2015/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/99-2015-70171987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T05:24:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6786a3ab88e1d55b3156274077a4dfe45b60ba3f3bf5d0f4e34237d7d738cfb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25d39503371e9d9536bef2498a34a089778864ecbeb2513f844cde4fb0569e60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:24:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- ONU
-- Lisboa
-- Guimarães
-- Universidade
 - Governo Electrónico
+- Guimarães
+- Lisboa
+- ONU
+- Portugal
 - Unidade Operacional
+- Universidade
 - Universidade das Nações Unidas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/128/2015/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/128/2015/09/02/p/dre
+- type: cites
+  target: pt:dre:70171990:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:24:44Z'
   warnings: []
   errors: []
 ---
@@ -99,16 +103,16 @@ validation:
 
 de 2 de setembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b) da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b) da Constituição, o seguinte:
 
 É ratificado o Acordo entre a República Portuguesa e a Universidade das Nações Unidas relativo à Criação, Funcionamento e Localização da Unidade Operacional de Governação Eletrónica Orientada para Políticas da Universidade das Nações Unidas em Guimarães, Portugal, assinado em Lisboa, em 23 de maio de 2014, aprovado pela [Resolução da Assembleia da República n.º 128/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/128-2015-70171990), em 3 de julho de 2015.
 
-**Assinado em 20 de agosto de 2015.**
+Assinado em 20 de agosto de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de agosto de 2015.**
+Referendado em 28 de agosto de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

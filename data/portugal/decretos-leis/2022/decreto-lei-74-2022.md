@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/20500/0001000064.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/74/2022/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2022-202552707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b991ec9c7b283442db0cca21a23a0b6b18893d5ae3cf270ef3d3ddff00729098
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd9025595a3ae015280f95893285f2d7f00225fb2892188db5090b1cbedd9c67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imigração
-- Financiamento
+- Arrendamento Urbano para Habitação
 - Casa Degradada
 - Comparticipação do Estado
-- Obras de Conservação e Restauro
-- Realojamento
+- Conselho Diretivo
+- Direito à Habitação
 - Domínio Público Ferroviário
 - Empréstimo
-- Habitação Social
-- Conselho Diretivo
-- Instituto da Habitação e da Reabilitação Urbana
-- Orgânica
-- Política de Habitação
-- Prazo
+- Financiamento
 - Habitação
-- Renda de CASA
-- Prédio Urbano
-- Arrendamento Urbano para Habitação
+- Habitação Social
+- Imigração
 - Infraestruturas de Portugal
-- Porta de Entrada-Programa de Apoio ao Alojamento Urgente
-- Programa de Apoio ao Acesso à Habitação-1.º Direito
-- Direito à Habitação
+- Instituto da Habitação e da Reabilitação Urbana
+- Obras de Conservação e Restauro
+- Orgânica
 - Plano de Recuperação e Resiliência
+- Política de Habitação
+- Porta de Entrada-Programa de Apoio ao Alojamento Urgente
+- Prazo
+- Prédio Urbano
+- Programa de Apoio ao Acesso à Habitação-1.º Direito
+- Realojamento
+- Renda de CASA
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/102/2015/06/05/p/dre
@@ -130,16 +130,136 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/65/2019/
   label: null
   source: http://data.dre.pt/eli/port/65/2019/
+- type: cites
+  target: pt:dre:115221283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115440317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115502170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119847709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122373682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124392055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144454578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159174076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162756795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166158055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173732851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65949853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67409483:por
+  label: null
+  source: null
 article_structure:
-  article_count: 152
+  article_count: 130
   section_count: 34
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:57Z'
   warnings: []
   errors: []
 ---
@@ -232,13 +352,17 @@ k) [Anterior alínea e).]
 
 2 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
 2 - No exercício dessas competências, cabe ao IHRU, I. P., gerir os apoios ao alojamento temporário e à habitação permanente, em especial decidir sobre a concessão dos mesmos, proceder à atribuição dos apoios financeiros e, diretamente ou através de terceiros, acompanhar a respetiva execução e assegurar a avaliação global do Porta de Entrada a cada dois anos.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -246,7 +370,9 @@ k) [Anterior alínea e).]
 
 3 - O município pode prestar apoio aos beneficiários, por sua iniciativa ou a pedido destes, sob a forma de participação, em parceria ou em representação dos mesmos, na promoção e contratação das soluções habitacionais, podendo a representação incluir os poderes para, em nome deles, contratar e gerir o respetivo financiamento.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -262,7 +388,9 @@ b) Arrendamento ou subarrendamento de uma habitação.
 
 5 - O apoio financeiro ao abrigo do presente artigo é concedido por um prazo devidamente fundamentado pelo IHRU, I. P., com o limite de 18 meses, podendo, em casos especialmente fundamentados e autorizados pelo IHRU, I. P., aquele prazo ser prorrogado até 36 meses, designadamente nos casos de reabilitação ou reconstrução das habitações danificadas ou de construção nova.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -282,7 +410,9 @@ e) No caso de aquisição ou de aquisição e reabilitação, o último valor me
 
 4 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - As candidaturas ao Porta de Entrada são apresentadas junto do município e ou Região Autónoma competentes, os quais procedem à coordenação dos correspondentes processos e, caso mereçam o seu parecer favorável, ao envio dos mesmos ao IHRU, I. P., contendo a proposta de alojamento e ou de solução habitacional e os elementos instrutórios necessários.
 
@@ -298,7 +428,9 @@ e) No caso de aquisição ou de aquisição e reabilitação, o último valor me
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Os apoios são disponibilizados pelo IHRU, I. P., aos beneficiários nas condições contratualmente estabelecidas, sendo as comparticipações destinadas ao pagamento mensal das rendas ou dos preços dos alojamentos transferidas até ao dia um do mês a que respeitam para conta bancária indicada pelos beneficiários ou pelos titulares das habitações ou alojamentos, consoante ficar estabelecido.
 
@@ -364,7 +496,9 @@ v) ...
 
 w) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 ...
 
@@ -376,7 +510,9 @@ c) ...
 
 d) ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - As entidades referidas nas alíneas a) a d) do artigo 26.º podem pedir financiamento ao abrigo do disposto no presente decreto-lei para soluções habitacionais específicas de transição e ou de inserção de pessoas especialmente vulneráveis, nomeadamente as pessoas em situação de sem-abrigo e as vítimas de violência doméstica e os requerentes e beneficiários de proteção internacional.
 
@@ -384,7 +520,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -406,7 +544,9 @@ a) Se da intervenção resultar a existência de prédio ou frações vagos, est
 
 b) Se daí decorrer uma redução do número de habitações preexistentes, além da aplicação pelo município dos mecanismos de perequação entre proprietários, as pessoas e os agregados residentes nesse núcleo que devam ser realojados podem aceder a uma habitação adequada através de uma solução financiada ao abrigo do 1.º Direito.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - As comparticipações relativas a reabilitação, construção ou aquisição reportam-se exclusivamente à parte das despesas elegíveis relativa às frações habitacionais e áreas habitacionais dos prédios, tal como definidas nas alíneas l) a o) do artigo 4.º, sendo o respetivo montante calculado com base na parcela do total das despesas elegíveis proporcional àquelas áreas, sem prejuízo do disposto nos números seguintes.
 
@@ -422,7 +562,9 @@ b) Se daí decorrer uma redução do número de habitações preexistentes, alé
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -432,7 +574,9 @@ b) Se daí decorrer uma redução do número de habitações preexistentes, alé
 
 4 - Em qualquer dos casos previstos nos números anteriores, quando as obras ou contratos estejam em execução ou concluídos, as verbas são disponibilizadas em função dos comprovativos das despesas realizadas, podendo o IHRU, I. P., fazer depender cada nova libertação de verbas da apresentação de documentos que comprovem a boa aplicação dos montantes recebidos.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -450,7 +594,9 @@ b) ...
 
 6 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - Podem beneficiar de financiamento para promoção de soluções habitacionais ao abrigo do 1.º Direito:
 
@@ -470,7 +616,9 @@ e) ...
 
 4 - ...
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - ...
 
@@ -478,17 +626,23 @@ e) ...
 
 3 - As Regras Técnicas para Habitação de Custos Controlados constantes do anexo à [Portaria n.º 65/2019](https://diariodarepublica.pt/dr/detalhe/portaria/65-2019-119847709), de 19 de fevereiro, na sua redação atual, e a correspondente certificação, podem não ser aplicadas, em casos devidamente fundamentados, a empreendimentos habitacionais destinados a pessoas e agregados familiares que vivam em núcleos precários, tal como definidos no n.º 1 do artigo 11.º
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - O valor de referência para o cálculo do montante das comparticipações à aquisição de frações e prédios habitacionais é o produto das respetivas áreas brutas privativas pelo último valor mediano das vendas por m2 de alojamentos familiares novos (euro), por concelho ou, no caso de não estar disponível, da NUTS III de localização da habitação, divulgado pelo INE, I. P., ou o custo de promoção aplicável nos termos do regime de habitação de custos controlados, se este for superior.
 
 2 - O valor de referência indicado no número anterior é igualmente o aplicável no caso de uma solução conjugada de aquisição e reabilitação de frações ou prédios, sem prejuízo do disposto no n.º 2 do artigo 42.º, no caso de esse valor de referência corresponder ao custo de promoção.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 As comparticipações e os empréstimos à aquisição de terrenos são disponibilizados no ato de celebração dos contratos de compra e venda, sem prejuízo da possibilidade de antecipação das verbas necessárias para pagamento de quantias devidas a título de sinal ou de princípio de pagamento de contratos-promessa e, no caso de contratos celebrados, de disponibilização das verbas com a entrega dos comprovativos das despesas realizadas.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - ...
 
@@ -508,7 +662,9 @@ As comparticipações e os empréstimos à aquisição de terrenos são disponib
 
 9 - Os agregados que não apresentem candidatura dentro do prazo de 18 meses referido no n.º 5 não perdem o direito a fazê-lo sempre que o município confirme que a instrução da candidatura está em curso.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
@@ -516,7 +672,9 @@ As comparticipações e os empréstimos à aquisição de terrenos são disponib
 
 3 - ...
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - ...
 
@@ -524,7 +682,9 @@ As comparticipações e os empréstimos à aquisição de terrenos são disponib
 
 3 - ...
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - O último dos relatórios referidos no n.º 1 do artigo anterior, que precede o termo do prazo do acordo de financiamento, deve conter a calendarização atualizada sobre a contratação das soluções habitacionais dentro do referido prazo e, se for o caso, sobre as soluções que não sejam concretizadas no âmbito desse acordo.
 
@@ -532,7 +692,9 @@ As comparticipações e os empréstimos à aquisição de terrenos são disponib
 
 3 - ...
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - ...
 
@@ -544,7 +706,9 @@ As comparticipações e os empréstimos à aquisição de terrenos são disponib
 
 5 - ...
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1 - ...
 
@@ -602,15 +766,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de setembro de 2022. - António Luís Santos da Costa - Inês Pacheco Ramires Ferreira - Fernando Medina Maciel Almeida Correia - José Duarte Piteira Rica Silvestre Cordeiro - Pedro Nuno de Oliveira Santos - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
 
-**Promulgado em 13 de outubro de 2022.**
+Promulgado em 13 de outubro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 17 de outubro de 2022.**
+Referendado em 17 de outubro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 9.º)
 
@@ -1963,3 +2127,5 @@ O regime constante do presente decreto-lei aplica-se aos pedidos de apoio que se
 ###### Artigo 87.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+115790695

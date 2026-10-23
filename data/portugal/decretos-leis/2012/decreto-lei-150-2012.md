@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/07/13400/0364503647.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/150/2012/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2012-179777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de965c0c4ed48dbe7d7305e73551aaddb8c4a347e0102518ae39154fe78a76be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0dc96a11846d1495729e171ced51343c23c339aaf7b5c57202fdda88f8df8b77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Ensino não Superior
-- Formação Profissional
 - Ensino Profissional
 - Escola Profissional
+- Financiamento
+- Formação Profissional
 - FSE
 - Pessoal Docente
 - Qualificação Profissional
@@ -85,15 +85,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/4/1998/01/08/p/dre
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:06Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +128,9 @@ Os artigos 1.º, 13.º e 14.º do Decreto-Lei n.º 4/98, de 8 de janeiro, altera
 
 2 - O presente diploma não se aplica às escolas profissionais que ministrem exclusivamente cursos profissionais não reconhecidos oficialmente em Portugal, sem prejuízo da obtenção de equivalência de habilitações de sistemas educativos estrangeiros, nos termos do Decreto-Lei n.º 227/2005, de 28 de dezembro.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -140,7 +142,9 @@ a) A União Europeia e os seus Estados membros;
 
 b) Outros Estados e organizações internacionais de que Portugal faça parte, quando tal resulte de acordos celebrados, do princípio da reciprocidade ou dos tratados constitutivos das referidas organizações.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - As escolas profissionais privadas carecem de autorização prévia de funcionamento a conceder por despacho do membro do Governo responsável pela área da educação e ciência, no prazo máximo de 90 dias, a contar da regular apresentação do respetivo requerimento, após o qual se considera o pedido deferido, com todos os efeitos legais, devendo, neste caso, o requerente comunicar ao referido membro do Governo o início de funcionamento do estabelecimento em causa.
 
@@ -168,13 +172,17 @@ Reconhecimento mútuo
 
 3 - Sem prejuízo do disposto nos números anteriores, o reconhecimento mútuo de requisitos relativos a qualificações é regido pelo disposto na Lei n.º 9/2009, de 4 de março.
 
-###### Artigo 14.º-B — Tramitação desmaterializada
+Artigo 14.º-B
+
+Tramitação desmaterializada
 
 1 - Todos os pedidos, comunicações e notificações relacionados com a autorização de escolas profissionais entre os interessados e outros intervenientes nos procedimentos previstos no presente diploma devem ser efetuados através do balcão único eletrónico dos serviços nos termos previstos nos artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.
 
 2 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, pode ser utilizado qualquer outro meio legalmente admissível.
 
-###### Artigo 14.º-C — Cooperação administrativa
+Artigo 14.º-C
+
+Cooperação administrativa
 
 As autoridades competentes nos termos do presente diploma participam na cooperação administrativa, no âmbito dos procedimentos relativos a prestadores de serviços provenientes de outro Estado membro, nos termos do disposto nos artigos 26 a 29.º do Decreto-Lei n.º 92/2010, de 26 de julho, e no n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, nomeadamente através do Sistema de Informação do Mercado Interno (IMI).»
 
@@ -184,12 +192,12 @@ O presente diploma produz efeitos no dia seguinte ao da sua publicação e é ap
 
 Visto e aprovado em Conselho de Ministros de 17 de maio de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 3 de julho de 2012.**
+Promulgado em 3 de julho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de julho de 2012.**
+Referendado em 5 de julho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

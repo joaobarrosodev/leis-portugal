@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/04/07700/11211135.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,141 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/367-1983-312445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T07:38:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 421a4c2928af77a26e86a5559b64e3c46d7e6b2f5669c49e4688f2c221f42244
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1270d609809d53287670299c53fd7f909c1e1e5a7cae8b985ae14d87f28e632
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:38:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Actualização de Pensões
+- Aposentado
+- Arsenal do Alfeite
+- Cálculo de Pensões
+- Carreira Profissional
+- Equivalência de Categorias
+- Estabelecimentos Fabris das Forças Armadas
+- Fábrica Militar de Braço de Prata
+- Fábrica Militar de Pólvoras e Explosivos
+- Fábrica Nacional de Cordoaria
+- Forças Armadas
+- Laboratório Militar de Produtos Químicos e Farmacêuticos
+- Manutenção Militar
+- Oficinas Gerais de Fardamento e Equipamento
+- Oficinas Gerais de Material Aeronáutico
+- Oficinas Gerais de Material de Engenharia
+- Pensão de Aposentação
+- Pensão de Reforma
+- Pensionista
+- Pensões
+- Pessoal Civil
+- Reformado
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:606113:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:375831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689986:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:326163:por
+  label: Rectificada pela DECL.DD5747.27.04.1983.PCM, DR.IS [99-SUPL] de 30.04.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-326163
+  date: '1983-04-27'
+- type: repealed_by
+  target: pt:dre:606113:por
+  label: "Revogada, a partir de 01.02.2014, pelo DEC LEI.1/2014.09.01.2014.MDN, DR.IS [6] de 09.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-2014-606113
+  date: '2014-01-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:38:28Z'
   warnings: []
   errors: []
 ---
@@ -114,4 +215,4 @@ Ministérios da Defesa Nacional, das Finanças e do Plano e da Reforma Administr
 
 Do ANEXO I ao ANEXO VIII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/07700/11211135.pdf))](https://files.diariodarepublica.pt/1s/1983/04/07700/11211135.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/07700/11211135.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/094a00/21352143.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/136/1999/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1999-534635
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7827c40b4f872c10fffdd44fc1762c9e84247b7f7f036023d101833ed7ca0d0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7218c661658ba1d705d0c745e4c7679c12f33db8b493841528cb3c99c6db06f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Formação Profissional
-- Jornalista
 - Comparticipação do Estado
 - Comunicação Social
 - Contra-ordenação
-- Instituto da Comunicação Social
-- Pagamento
+- Financiamento
+- Formação Profissional
 - Imprensa
 - Incentivos à Comunicação Social
+- Instituto da Comunicação Social
+- Jornalista
+- Pagamento
 - Porte PAGO
-- Qualificação Profissional
 - Publicação
+- Qualificação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:319739:por
@@ -104,16 +104,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/45-b/1995/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/45-b/1995/01/19/p/dre
+- type: cites
+  target: pt:dre:162666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553433:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:319739:por
+  label: "Revogado o Dec Lei 37-A/97 de 31-Jan, na redacção do presente diploma, pelo DEC LEI.56/2001.2001.02.19.PCM DR.IS-A\
+    \ [42], mantendo-se contudo em vigor o regime do porte pago nele previsto até à data estabelecida no nº 1 do art. 46º\
+    \ do referido Dec Lei 56/2001\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-2001-319739
+  date: '2001-02-19'
 article_structure:
-  article_count: 47
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 34
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:09Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +179,9 @@ b) Incentivos directos, destinados a apoiar o financiamento de projectos no âmb
 
 2 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -182,7 +211,9 @@ h) [Anterior alínea g).]
 
 i) [Anterior alínea h).]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -192,7 +223,9 @@ i) [Anterior alínea h).]
 
 4 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Podem beneficiar de uma comparticipação de 100%, no custo das expedições postais para assinantes residentes no território nacional ou no estrangeiro, as publicações periódicas:
 
@@ -232,7 +265,9 @@ c) ...
 
 12 - O enquadramento das publicações periódicas no n.º 10 depende de parecer favorável do serviço da Administração que se ocupa da área do trabalho.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -252,11 +287,15 @@ d) [Anterior alínea e).]
 
 5 - O disposto no número anterior não se aplica a suplementos de publicações periódicas nem a encartes publicitários.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 A utilização abusiva do incentivo faz incorrer no cancelamento do direito ao porte pago por período não superior a dois anos, por despacho do membro do Governo responsável pela área da comunicação social.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -286,7 +325,9 @@ iii) Sejam licenciadas há, pelo menos, três anos na data de apresentação do 
 
 3 - Não podem candidatar-se ao incentivo à modernização tecnológica as entidades que, para o mesmo projecto, tenham beneficiado de outro regime de incentivos de carácter nacional ou regional.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -304,7 +345,9 @@ c) Acções de formação que visem a correcta utilização dos equipamentos e d
 
 5 - O incentivo à modernização tecnológica não contempla a aquisição de equipamentos e programas informáticos usados, salvo no caso de equipamentos gráficos, desde que a situação seja devidamente fundamentada sob os pontos de vista técnico e financeiro aquando da candidatura.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -326,7 +369,9 @@ b) Localização em concelhos com menor indicador per capita de poder de compra,
 
 c) Maior número de trabalhadores efectivos afectos à área da informação.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -334,21 +379,31 @@ c) Maior número de trabalhadores efectivos afectos à área da informação.
 
 3 - No decurso do período referido no número anterior, os equipamentos adquiridos com recurso ao incentivo à modernização tecnológica permanecerão afectos, obrigatoriamente, aos órgãos de comunicação social que fundamentaram a atribuição do incentivo.
 
-#### SECÇÃO II — Incentivos à formação e qualificação profissional
+SECÇÃO II
 
-###### Artigo 19.º — Caracterização
+Incentivos à formação e qualificação profissional
+
+Artigo 19.º
+
+Caracterização
 
 As entidades referidas na alínea c) do n.º 1 do artigo 3.º podem requerer incentivos destinados a acções de formação e qualificação profissional nas áreas da comunicação social e da organização e gestão de empresas do sector.
 
-###### Artigo 20.º — Avaliação dos projectos
+Artigo 20.º
+
+Avaliação dos projectos
 
 O Instituto do Emprego e Formação Profissional emitirá parecer prévio sobre o programa e os custos das acções de formação e qualificação profissional objecto de pedidos de incentivo, bem como sobre os curricula dos respectivos monitores.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 As entidades beneficiárias que não cumpram o disposto no presente diploma, bem como as que apliquem as verbas recebidas a título de incentivos directos para fins diferentes daqueles para os quais foram concedidas, e ainda as que, na apresentação das candidaturas, prestem informações falsas ou forneçam dados viciados que induzam em erro acerca do direito ao incentivo ou do montante a atribuir, são responsabilizadas civil e criminalmente, nos termos da lei.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - As entidades referidas no artigo 22.º perdem ainda o direito aos incentivos previstos neste diploma por um período não superior a dois anos, cujo início e extensão são fixados pelo membro do Governo responsável pela área da comunicação social, sob proposta do Instituto da Comunicação Social, sem prejuízo da reposição das verbas indevidamente recebidas, num prazo de 30 dias a partir da data da notificação.
 
@@ -378,15 +433,15 @@ O texto integral do [Decreto-Lei n.º 37-A/97](https://diariodarepublica.pt/dr/d
 
 Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 5 de Abril de 1999.**
+Promulgado em 5 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Abril de 1999.**
+Referendado em 9 de Abril de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — [Decreto-Lei n.º 37-A/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-1997-261339), de 31 de Janeiro
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/231/2000/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2000-559631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b62b7d251d9666f9f3a0626f8c8a18c5f348aae1aa027057c8a0c26710f1b016
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7af2676fd79626ddc4abde8e540c80acd1a363fe6b3137b9cc4658955c072d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Financiamento
-- Projeto de Investimento
 - Jovem Empresário
+- Projeto de Investimento
 - Regime de Apoio
 - Sistema de Apoio à Jovens Empresários
 relationships:
@@ -91,16 +91,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/58-a/1998/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/58-a/1998/05/04/p/dre
+- type: cites
+  target: pt:dre:432620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581226:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:25Z'
   warnings: []
   errors: []
 ---
@@ -139,12 +159,12 @@ São revogados o [Decreto-Lei n.º 22/97](https://diariodarepublica.pt/dr/detalh
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 2000. - Jaime José Matos da Gama - Manuel Pedro da Cruz Baganha - Vítor Manuel da Silva Santos - Elisa Maria da Costa Guimarães Ferreira - Armando António Martins Vara.
 
-**Promulgado em 31 de Agosto de 2000.**
+Promulgado em 31 de Agosto de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Setembro de 2000.**
+Referendado em 14 de Setembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

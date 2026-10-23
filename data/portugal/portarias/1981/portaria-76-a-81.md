@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 14/1981, 1º Suplemento, Série I de 1981-01-17
   number: '14'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 140-(1) a 140-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/01/01401/00010002.pdf
 entry_into_force_dates: []
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/76-a-1981-416630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:54:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbcce96aab52e5fca410027b53be4d0a41cab04f32c96721bb1ed8a5e6270dea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bdc0f40fb39090efcf02eb057aef45e8fcdc43361b0314f462a117a56f72a4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:54:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Madeira.região Autónoma
+- Preço
+- Transporte Aéreo
+- Transporte de Mercadorias
+- Transporte de Passageiros
 relationships:
 - type: amended_by
   target: pt:dre:376595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:579304:por
+  label: "Alterado o nº 1 e eliminadas as rubricas \"condições especiais de aplicação\" e \"cancelamento constantes do nº\
+    \ 2, pela PORT.497/81.19.06.1981.MFP, DR.IS [138] de 19.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/497-1981-579304
+  date: '1981-06-19'
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570368:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:376595:por
+  label: "Revogada no que se refere à Região Autónoma dos Açores pela PORT.954/82.09.10.1982.MFP, DR.IS [234] de 09.10.1982\0\
+    2\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/954-1982-376595
+  date: '1982-10-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:54:06Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +133,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 1.º São introduzidas as seguintes alterações ao n.º 1.º da [Portaria n.º 2/81](https://diariodarepublica.pt/dr/detalhe/portaria/2-1981-570368):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/01401/00010002.pdf))](https://files.diariodarepublica.pt/1s/1981/01/01401/00010002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/01401/00010002.pdf)
 
 2.º São introduzidas as seguintes alterações ao anexo I (condições de aplicação da tarifa para cidadãos portugueses residentes nos Açores e na Madeira) à [Portaria n.º 2/81](https://diariodarepublica.pt/dr/detalhe/portaria/2-1981-570368):
 

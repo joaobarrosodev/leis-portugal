@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/07/13600/0413904139.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/82/2013/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/82-2013-497845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T05:18:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 328ca06c265479b5eaf973df37e7c1f3e602109d7d3e99a12b3616eb8188484f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3397a1add19d65daa444f8068635799b176b2851f8fcf4cc1c11630540e28095
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:18:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- NATO
-- Missão Militar
-- Nomeação
 - Bruxelas
+- Missão Militar
+- NATO
+- Nomeação
 - UE
 relationships:
 - type: amended_by
   target: pt:dre:73943934:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:73943934:por
+  label: Exonerado, com efeitos a 09.03.2016, pelo(a) Decreto do Presidente da República n.º 6/2016 - Diário da República
+    n.º 58/2016, Série I de 2016-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/6-2016-73943934
+  date: '2016-03-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/1-a/2009/07/07/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1-a/2009/07/07/p/dre
+- type: cites
+  target: pt:dre:345291:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:18:28Z'
   warnings: []
   errors: []
 ---
@@ -98,12 +108,12 @@ validation:
 
 de 17 de julho
 
-**O Presidente da República decreta, nos termos da alínea c) do n.º 2 do artigo 24.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-a-2009-345291), de 7 de julho, o seguinte:**
+O Presidente da República decreta, nos termos da alínea c) do n.º 2 do artigo 24.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-a-2009-345291), de 7 de julho, o seguinte:
 
 É nomeado, sob proposta do Governo, formulada após iniciativa do Chefe do Estado-Maior-General das Forças Armadas e aprovada pelo Conselho Superior de Defesa Nacional, o Tenente-General João Luís Ramirez Carvalho Cordeiro para o cargo de Chefe da Missão Militar junto da Organização do Tratado do Atlântico Norte e da União Europeia, em Bruxelas, com efeitos a partir de 12 de julho de 2013.
 
-**Assinado em 12 de julho de 2013.**
+Assinado em 12 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.

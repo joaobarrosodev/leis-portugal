@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/202/1999/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1999-310796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:07:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 900902266e572cf49dd2f2ceda35f23172ace70dccd124b2e0bbe8bc1f2b2076
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c20b1a50e040b87c5ec81378b71e4b215a7d428290db97e70d9bfb8eeb4c5c35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:07:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Fiscal
-- Pessoal Dirigente
+- Carreira Profissional
 - Concurso
+- Contribuições e Impostos
 - Definição de Competências
 - Direcção Distrital de Finanças
 - Direcção Geral dos Impostos
-- Carreira Profissional
 - Formas de Provimento
-- Recrutamento de Pessoal
-- Ministro das Finanças
-- Remuneração Acessória
-- Contribuições e Impostos
+- Gestão de Recursos Humanos
 - Integração de Trabalhadores
 - Lista Nominativa
+- Ministro das Finanças
+- Mobilidade de Pessoal
 - Nomeação
 - Orgânica
 - Pessoal da Administração Tributária
 - Pessoal de Chefia
+- Pessoal Dirigente
 - Progressão na Carreira
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Recursos Humanos
 - Regime de Pessoal
 - Remuneração
+- Remuneração Acessória
 - Repartição de Finanças
-- Mobilidade de Pessoal
-- Gestão de Recursos Humanos
 - Tesouraria da Fazenda Pública
 - Tesoureiro da Fazenda Pública
 relationships:
@@ -108,16 +108,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/42/1997/02/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/42/1997/02/07/p/dre
+- type: cites
+  target: pt:dre:241227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559038:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:07:45Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +220,9 @@ g) Serviço de Apoio Técnico-Informático.
 
 6 - O Serviço de Apoio Técnico-Informático é coordenado por um funcionário pertencente às carreiras de informática, do pessoal técnico tributário ou do pessoal técnico superior e técnico, designado por despacho do director-geral dos Impostos, mediante proposta dos directores de finanças.
 
-###### Artigo 37.º — Estrutura das repartições de finanças
+Artigo 37.º
+
+Estrutura das repartições de finanças
 
 1 - ...
 
@@ -212,13 +230,17 @@ g) Serviço de Apoio Técnico-Informático.
 
 3 - Para efeito de comodidade do cumprimento das obrigações fiscais e de informação e apoio ao contribuinte, podem ser criadas, por portaria do Ministro das Finanças, extensões de repartições de finanças cujas competências e modo de funcionamento são regulados na referida portaria.
 
-###### Artigo 41.º — Chefes de divisão
+Artigo 41.º
+
+Chefes de divisão
 
 1 - ...
 
 2 - Sem prejuízo do disposto no número anterior, os cargos de chefe das divisões de cobrança das direcções de finanças podem, ainda, ser providos de entre tesoureiros de 1.ª classe.
 
-###### Artigo 42.º — Pessoal de chefia tributária
+Artigo 42.º
+
+Pessoal de chefia tributária
 
 1 - ...
 
@@ -288,12 +310,12 @@ A transição a que se refere o n.º 3 do artigo 1.º deste diploma faz-se atrav
 
 Visto e aprovado em Conselho de Ministros de 15 de Abril de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 25 de Maio de 1999.**
+Promulgado em 25 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Maio de 1999.**
+Referendado em 27 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 294/1995, 3º Suplemento, Série I-B de 1995-12-22
   number: '294'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 8072-(16) a 8072-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/12/294b03/00160019.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/34-a/1995/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:23:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e479ef54eb2f8ca9228325dae1c601cbcb3971a58a9051b78da6e46767d10411
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2010c924734385680dbced6ba264ec238376e7b042e890e0fa21bf2b2829bfe9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:23:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
 - Criação de Serviços
 - Definição de Competências
 - Instituto Nacional de Intervenção e Garantia Agrícola
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Reestruturação de Serviços
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/9/1993/03/22/p/dre
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/978/1994/11/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/978/1994/11/04/p/dre
+- type: cites
+  target: pt:dre:376841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637689:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:23:25Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +130,7 @@ Ao abrigo do n.º 1 do artigo 30.º do [Decreto-Lei n.º 282/88](https://diariod
 
 Os artigos 4.º, 5.º, 6.º, 9.º, 10.º, 13.º, 14.º e 15.º do [Decreto Regulamentar n.º 9/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1993-637689), de 22 de Março, passam a ter a seguinte redacção:
 
-###### Art. 4.º São serviços do INGA:
+Art. 4.º São serviços do INGA:
 
 a) Direcção de Serviços Financeiros (DSF);
 
@@ -130,7 +146,7 @@ f) Direcção de Serviços de Apoio Informático (DAI);
 
 g) Direcção de Serviços de Normalização, Harmonização e Auditoria (DNA).
 
-###### Art. 5.º - 1 - Compete à DSF:
+Art. 5.º - 1 - Compete à DSF:
 
 a) Assegurar os procedimentos técnico-administrativos respeitantes à gestão financeira do organismo;
 
@@ -148,7 +164,7 @@ g) Assegurar a representação nacional no Comité FEOGA a funcionar junto da Co
 
 2 - ...
 
-###### Art. 6.º - 1 - Compete à Divisão de Gestão Financeira:
+Art. 6.º - 1 - Compete à Divisão de Gestão Financeira:
 
 a) Estudar, propor e aplicar sistemas optimizados de gestão dos fluxos financeiros do INGA;
 
@@ -170,7 +186,7 @@ g) Elaborar os relatórios de prestação de contas ao FEOGA - Garantia, bem com
 
 4 - ...
 
-###### Art. 9.º - 1 - Compete à DIV:
+Art. 9.º - 1 - Compete à DIV:
 
 a) ...
 
@@ -202,7 +218,7 @@ d) ...
 
 e) Acompanhar a execução por outras entidades das acções necessárias à obtenção de candidaturas às medidas e ajudas financiadas pelo FEOGA - Garantia e concluir os processos com vista ao respectivo pagamento.
 
-###### Art. 10.º - 1 - Compete à DIA:
+Art. 10.º - 1 - Compete à DIA:
 
 a) ...
 
@@ -234,7 +250,7 @@ d) ...
 
 e) Acompanhar a execução por outras entidades das acções necessárias à obtenção de candidaturas às medidas e ajudas financiadas pelo FEOGA - Garantia e concluir os processos com vista ao respectivo pagamento.
 
-###### Art. 13.º - 1 - Compete à DVC:
+Art. 13.º - 1 - Compete à DVC:
 
 a) Preparar, coordenar e executar as operações de verificação e de controlo administrativo, físico e contabilístico junto dos beneficiários das medidas e das ajudas cujo processo de pagamento seja condicionado, nos termos da regulamentação aplicável, à realização prévia dessas operações, transmitindo às direcções de intervenção e às entidades que desenvolvam acções em cada medida os respectivos resultados;
 
@@ -250,11 +266,11 @@ a) Divisão de Verificação;
 
 b) Divisão de Controlo.
 
-###### Art. 14.º - 1 - À Divisão de Verificação compete realizar as verificações e controlos exigidos pela regulamentação aplicável que constituam condição prévia para o pagamento das medidas de intervenção e das ajudas, por parte dos respectivos serviços, quer por acção directa quer coordenando as acções de verificação e controlo efectuadas por entidades para o efeito credenciadas;
+Art. 14.º - 1 - À Divisão de Verificação compete realizar as verificações e controlos exigidos pela regulamentação aplicável que constituam condição prévia para o pagamento das medidas de intervenção e das ajudas, por parte dos respectivos serviços, quer por acção directa quer coordenando as acções de verificação e controlo efectuadas por entidades para o efeito credenciadas;
 
 2 - À Divisão de Controlo compete efectuar as acções de controlo e inspecção junto dos beneficiários das medidas de intervenção efectuadas e das ajudas pagas pelos organismos pagadores, nos termos definidos pela regulamentação aplicável, recorrendo predominantemente às técnicas de amostragem, de forma a verificar a existência de compatibilização entre a situação efectiva do beneficiário, suporte documental apresentado e a regulamentação aplicada.
 
-###### Art. 15.º - 1 - Compete a DAI:
+Art. 15.º - 1 - Compete a DAI:
 
 a) Planear, coordenar e executar os trabalhos de concepção e implementação dos sistemas de informação;
 
@@ -390,18 +406,18 @@ Presidência do Conselho de Mininistros, 13 de Dezembro de 1995.
 
 António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Promulgado em 22 de Dezembro de 1995.**
+Promulgado em 22 de Dezembro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Dezembro de 1995.**
+Referendado em 22 de Dezembro de 1995.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 Mapa anexo referido no n.º 3 do artigo 3.º
 
 Pessoal dirigente (directores de serviço, chefes de divisão e chefes de repartição)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/12/294b03/00160019.pdf))](https://files.diariodarepublica.pt/1s/1995/12/294b03/00160019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/294b03/00160019.pdf)

@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 39/1980, 1º Suplemento, Série I de 1980-02-15
   number: '39'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 164-(4) a 164-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/02/03901/00040005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/42-b-1980-275783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79502308e21914673c5f7891977b3d5c0f45f1aa34986c180edc776f1baf1859
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c566667b61c588ed8e7e43f54a3778f57a1b92f1117b03a4fbb5b88ed2a0bfa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Indústria Alimentar
+- Indústria Química
+- Instituto do Azeite e Produtos Oleaginosos
+- Margarina
+- Matéria-Prima
+- ÓLEO Vegetal
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:275663:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:678044:por
+  label: "Alterado o n.º 7.º, pela PORT.109/80.14.03.1980.MFP, DR.IS [62] de 14.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-1980-678044
+  date: '1980-03-14'
+- type: amended_by
+  target: pt:dre:677633:por
+  label: "Alterado o n.º 1 do n.º 1.º e o n.º 2.º, pela PORT.143/80.31.03.1980.MFP, DR.IS [76] de 31.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/143-1980-677633
+  date: '1980-03-31'
+- type: amended_by
+  target: pt:dre:471910:por
+  label: "Esclarecidas dúvidas quanto à execução do presente diploma pelo DN.203/80.1980.07.10.MFP, DR.IS [157]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/203-1980-471910
+  date: '1980-07-10'
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:275663:por
+  label: "Revogada pela PORT.331-A/81.06.04.1981.MFP, DR.IS [80]Supl de 06.04.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/331-a-1981-275663
+  date: '1981-04-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:05Z'
   warnings: []
   errors: []
 ---
@@ -164,6 +203,6 @@ Secretarias de Estado do Orçamento, do Comércio Interno e da Indústria Transf
 
 ## ANEXO — Características das sementes oleaginosas a que se refere o n.º 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/02/03901/00040005.pdf))](https://files.diariodarepublica.pt/1s/1980/02/03901/00040005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/02/03901/00040005.pdf)
 
-**O Secretário de Estado do Orçamento, António Jorge de Figueiredo Lopes. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves. - O Secretário de Estado da Indústria Transformadora, Ricardo Manuel Simões Bayão Horta.**
+O Secretário de Estado do Orçamento, António Jorge de Figueiredo Lopes. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves. - O Secretário de Estado da Indústria Transformadora, Ricardo Manuel Simões Bayão Horta.

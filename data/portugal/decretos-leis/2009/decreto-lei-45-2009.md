@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/45/2009/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28091db30a21cb8704109a6de5434d39d654eed936f0667250fa10069d312b90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ab5d8818e0edebd94f31b94c7815a602d6a16ed531ca0eb845cc9c99ce02c3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,34 +68,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Emprego
-- Regime do Contrato de Trabalho em Funções Públicas
-- Médico
+- Açores
+- Administração Central do Sistema de Saúde
+- Administração Regional de Saúde
+- Bolsa de Estudos
 - Carreira Médica
-- Formação Profissional
 - Comissão de Serviço
 - Concurso
-- Contrato de Trabalho a Termo
-- Administração Regional de Saúde
-- Férias
-- Internato Médico
-- Faltas
-- Administração Central do Sistema de Saúde
-- Ordem dos Médicos
-- Emprego
-- Madeira.região Autónoma
 - Contrato de Trabalho
-- Regime Jurídico
-- Bolsa de Estudos
-- Militar
+- Contrato de Trabalho a Termo
+- Emprego
+- Faltas
+- Férias
+- Formação Profissional
 - Funcionário Público
 - Gestão de Recursos Humanos
-- Açores
+- Internato Médico
+- Madeira.região Autónoma
+- Médico
+- Militar
+- Ordem dos Médicos
+- Regime do Contrato de Trabalho em Funções Públicas
+- Regime Jurídico
 - Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
 - type: amended_by
   target: pt:dre:67250272:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493010:por
+  label: "Alterados os arts. 12º-A e 23º do Dec Lei 203/2004 de 18-Ago, com a redacção constante do presente diploma, pelo\
+    \ DEC LEI.177/2009.04.08.2009.MS, DR.IS [149] de 04.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-2009-493010
+  date: '2009-08-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/2005/01/06/p/dre
   label: null
@@ -136,16 +142,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/2008/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/2008/09/11/p/dre
+- type: cites
+  target: pt:dre:142516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518466:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67250272:por
+  label: Revogado o Dec Lei 203/2004, de 18-ago, na redação do presente diploma, pelo(a) Decreto-Lei n.º 86/2015 - Diário
+    da República n.º 98/2015, Série I de 2015-05-21, sem prejuízo do n.º 3 do art. 35.º e do n.º 2 do art. 36.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-2015-67250272
+  date: '2015-05-21'
 article_structure:
-  article_count: 59
+  article_count: 41
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:42Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +244,9 @@ Os artigos 2.º, 3.º, 5.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º, 13.º, 15.º
 
 2 - Sem prejuízo do disposto no número anterior, o exercício autónomo da medicina é reconhecido a partir da conclusão, com aproveitamento, do 2.º ano de formação do internato médico.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -192,7 +254,9 @@ Os artigos 2.º, 3.º, 5.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º, 13.º, 15.º
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os médicos internos devem ter acesso a programas de investigação médica, em termos a definir por portaria do membro do Governo responsável pela área da saúde.
 
@@ -202,19 +266,25 @@ Os artigos 2.º, 3.º, 5.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º, 13.º, 15.º
 
 4 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
 2 - O Ministério da Saúde exerce as suas atribuições através dos serviços e estabelecimentos de saúde e dos órgãos do internato médico, sob a coordenação da Administração Central do Sistema de Saúde, I. P., em colaboração com a Ordem dos Médicos, de acordo com o previsto no presente decreto-lei e no Regulamento do Internato Médico, aprovado por portaria do membro do Governo responsável pela área da saúde.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
 2 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -234,7 +304,9 @@ Os artigos 2.º, 3.º, 5.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º, 13.º, 15.º
 
 9 - O exercício das funções de orientador de formação a que se refere o número anterior releva para efeitos curriculares, nos termos dos regulamentos enquadradores dos concursos das carreiras médicas, em termos a definir por portaria do membro do Governo responsável pela área da saúde.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Os programas de formação relativos ao ano comum e às áreas profissionais de especialização do internato médico são aprovados por portaria do membro do Governo responsável pela área da saúde, sob proposta da Ordem dos Médicos, ouvido o Conselho Nacional.
 
@@ -242,7 +314,9 @@ Os artigos 2.º, 3.º, 5.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º, 13.º, 15.º
 
 3 - Para efeitos e condições do n.º 1, e na ausência de proposta apresentada pela Ordem dos Médicos, os programas de formação são aprovados por portaria do membro do Governo responsável pela área da saúde, sob proposta do Conselho Nacional.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -258,7 +332,9 @@ Os artigos 2.º, 3.º, 5.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º, 13.º, 15.º
 
 7 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A admissão ao internato médico, a que podem candidatar-se os médicos, implica a sujeição a uma prova de seriação, de âmbito nacional, a realizar no 4.º trimestre de cada ano civil, organizada pela Administração Central do Sistema de Saúde, I. P., de acordo com as regras estabelecidas no Regulamento do Internato Médico e no respectivo aviso de abertura.
 
@@ -290,7 +366,9 @@ Os artigos 2.º, 3.º, 5.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º, 13.º, 15.º
 
 15 - Para efeitos do disposto nos n.os 6 e 9, as Regiões Autónomas participam na fixação das vagas, da sua natureza e da distribuição, através de proposta a apresentar à Administração Central do Sistema de Saúde, I. P.
 
-###### Artigo 13.º — Vinculação dos médicos internos
+Artigo 13.º
+
+Vinculação dos médicos internos
 
 1 - Os médicos internos ficam vinculados à ARS ou às Regiões Autónomas da área do estabelecimento ou serviço de saúde de colocação.
 
@@ -312,7 +390,9 @@ b) Comissão de serviço, no caso de o médico interno ser titular de uma relaç
 
 8 - O número de novos médicos internos a vincular a cada ARS ou às Regiões Autónomas é determinado, anualmente, por despacho do membro do Governo responsável pela área da saúde, publicado no Diário da República.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -330,7 +410,9 @@ c) A impossibilidade de candidatura ao concurso de admissão ao internato médic
 
 5 - A não apresentação dos internos é comunicada ao conselho directivo da Administração Central do Sistema de Saúde, I. P.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Os médicos internos estão sujeitos a horário de 40 horas semanais.
 
@@ -342,7 +424,9 @@ c) A impossibilidade de candidatura ao concurso de admissão ao internato médic
 
 5 - Aos médicos internos que tenham obtido acesso a programas de doutoramento em investigação médica pode ser concedido o regime de trabalho de tempo parcial, nos termos previstos no Regime do Contrato de Trabalho em Funções Públicas, aprovado pela [Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Aos médicos internos é aplicado, com as excepções previstas nos números seguintes, o regime de férias, faltas e licenças em vigor no regime do contrato de trabalho em funções públicas para os trabalhadores em contrato de trabalho a termo resolutivo incerto.
 
@@ -352,7 +436,9 @@ c) A impossibilidade de candidatura ao concurso de admissão ao internato médic
 
 4 - ...
 
-###### Artigo 18.º — Reafectação
+Artigo 18.º
+
+Reafectação
 
 1 - ...
 
@@ -366,7 +452,9 @@ c) A impossibilidade de candidatura ao concurso de admissão ao internato médic
 
 6 - As reafectações a que se referem os números anteriores são autorizadas por deliberação fundamentada do conselho directivo da Administração Central do Sistema de Saúde, I. P., sendo o médico interno colocado em estabelecimento indicado pela ARS ou pelos órgãos próprios das Regiões Autónomas respectivas, tendo em conta a proposta formulada pelo Conselho Nacional, atentas as capacidades formativas existentes e a proximidade do estabelecimento de colocação.
 
-###### Artigo 19.º — Mudança de área profissional e reingresso
+Artigo 19.º
+
+Mudança de área profissional e reingresso
 
 1 - Os médicos internos que pretendam mudar de área profissional têm de se candidatar a nova prova nacional de seriação, de acordo com as regras previstas no Regulamento do Internato Médico.
 
@@ -382,7 +470,9 @@ c) A impossibilidade de candidatura ao concurso de admissão ao internato médic
 
 7 - A aceitação de frequência de uma segunda área profissional de especialização esgota a faculdade prevista no número anterior.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -390,7 +480,9 @@ c) A impossibilidade de candidatura ao concurso de admissão ao internato médic
 
 3 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - A falta de aproveitamento nas avaliações previstas no n.º 1 do artigo 22.º, após as repetições e compensações admitidas nos termos do artigo anterior, determina a cessação do contrato a termo resolutivo incerto ou da comissão de serviço e a consequente desvinculação do médico interno, nos termos previstos no Regulamento do Internato Médico.
 
@@ -402,7 +494,9 @@ c) A impossibilidade de candidatura ao concurso de admissão ao internato médic
 
 5 - Nos casos de cessação do contrato a termo resolutivo incerto ou da comissão de serviço, a avaliação final pode ser realizada posteriormente, nos termos do Regulamento do Internato Médico.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -444,7 +538,9 @@ Vagas preferenciais
 
 12 - As vagas preferenciais não podem ser transformadas em vagas normais.
 
-###### Artigo 14.º-A — Acordo de colocação
+Artigo 14.º-A
+
+Acordo de colocação
 
 1 - Para efeitos do artigo 13.º, é celebrado entre a ARS ou as Regiões Autónomas e a entidade titular do serviço ou o estabelecimento de colocação, independentemente da sua natureza jurídica, um acordo de colocação.
 
@@ -484,15 +580,15 @@ O presente decreto-lei produz efeitos a 2 de Janeiro de 2009.
 
 Visto e aprovado em Conselho de Ministros de 8 de Janeiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira - Rui Carlos Pereira - José António Fonseca Vieira da Silva - Ana Maria Teodoro Jorge - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 11 de Fevereiro de 2009.**
+Promulgado em 11 de Fevereiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Fevereiro de 2009.**
+Referendado em 12 de Fevereiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 203/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2004-480703), de 18 de Agosto
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/137/2004/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2004-277844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7fb4c7df7b7215957cf105a2d5534b05b58a8103168b0e1cd8e231012239fe5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aafdc26d3a370b8ec2bfe38a40efdc748d21c4b403c3435387fb6bf7d4a6d804
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Alimento para Crianças
 - Aproximação das Legislações
-- Multa
-- Criança
-- Direção Geral da Saúde
+- Comércio
 - Contra-ordenação
 - Controlo de Qualidade
-- Definição de Competências
 - Controlo Sanitário
-- Saúde Pública
+- Criança
+- Definição de Competências
+- Direção Geral da Saúde
 - Etiquetagem
 - Fiscalização
 - Instituto do Consumidor
-- Produto a BASE de Cereais
-- Proteção do Consumidor
-- Pesticida
 - Limite Máximo de Resíduos
-- Comércio
+- Multa
+- Pesticida
+- Produto a BASE de Cereais
+- Produto Alimentar
+- Proteção do Consumidor
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:246850:por
@@ -115,16 +115,22 @@ relationships:
   target: celex:32003L0013
   label: null
   source: http://data.europa.eu/eli/dir/2003/13/oj
+- type: repealed_by
+  target: pt:dre:246850:por
+  label: "Revogado o Dec Lei 233/99, de 24-Jun, alterado pelo Dec Lei 284/2000, de 10-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.53/2008.25.03.2008.MADRP, DR.IS [59] de 25.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2008-246850
+  date: '2008-03-25'
 article_structure:
-  article_count: 28
+  article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:40Z'
   warnings: []
   errors: []
 ---
@@ -171,13 +177,17 @@ Objecto
 
 3 - O presente diploma contém oito anexos que dele fazem parte integrante.
 
-###### Artigo 4.º-A — [...]
+Artigo 4.º-A
+
+[...]
 
 1 - Os alimentos à base de cereais e os alimentos para bebés não podem conter resíduos de pesticidas específicos em teores superiores a 0,01 mg/kg em produtos prontos para consumo ou reconstituídos de acordo com as instruções do fabricante, com excepção das substâncias constantes no anexo VII ao presente diploma, que dele faz parte integrante, relativamente às quais os teores máximos de resíduos admissíveis são os aí fixados para as mesmas, e sem prejuízo do disposto no artigo seguinte.
 
 2 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -191,13 +201,17 @@ b) ...
 
 c) ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Sem prejuízo do procedimento contra-ordenacional a que houver lugar, a DGS pode suspender ou limitar provisoriamente a comercialização dos produtos abrangidos por este diploma, ainda que circulem livremente em qualquer outro Estado do espaço económico europeu, desde que verifique, fundamentadamente, que não obedecem aos critérios de composição e de qualidade definidos nos artigos 4.º, 4.º-A e 4.º-B ou que põem em perigo a saúde humana.
 
 2 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Constitui contra-ordenação, punível com coima mínima de (euro) 50 e máxima de (euro) 3740 ou de (euro) 14960, consoante se trate de pessoa singular ou colectiva:
 
@@ -209,11 +223,15 @@ c) ...
 
 2 - A negligência é punível.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 Por diploma aprovado pelos Ministros da Saúde e da Economia e pelo ministro com a tutela do Instituto do Consumidor e de acordo com os actos de direito comunitário que venham a ser adoptados nesta matéria serão estabelecidos os critérios de pureza das substâncias referidas no n.º 3 do artigo 4.º, bem como os critérios microbiológicos a que devem obedecer estes produtos e o nível máximo das substâncias cuja quantidade seja susceptível de prejudicar a saúde dos lactentes e das crianças de pouca idade.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.»
 
@@ -235,13 +253,13 @@ Proibição de utilização de produtos agrícolas contaminados com determinados
 
 2 - Para efeito do disposto no número anterior, considera-se que os pesticidas enumerados nos quadros n.os 1 e 2 do anexo VIII não foram utilizados se os respectivos resíduos no produto pronto para consumo ou reconstituído de acordo com as instruções do fabricante não excederem um teor de 0,003 mg/kg.
 
-## ANEXO VII
+ANEXO VII
 
 Níveis máximos de resíduos específicos para os pesticidas ou metabolitos de pesticidas nos alimentos transformados à base de cereais e nos alimentos para bebés.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)
 
-## ANEXO VIII
+ANEXO VIII
 
 Pesticidas que não podem ser utilizados em produtos agrícolas destinados à produção de alimentos à base de cereais ou alimentos para bebés.
 
@@ -285,15 +303,15 @@ Após a entrada em vigor do presente diploma, os alimentos à base de cereais e 
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 2004. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - Luís Filipe Pereira.
 
-**Promulgado em 24 de Maio de 2004.**
+Promulgado em 24 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Maio de 2004.**
+Referendado em 26 de Maio de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -537,7 +555,7 @@ O teor de sódio dos alimentos à base de cereais não deve exceder 25 mg/100 kJ
 
 6.2 - No que respeita aos produtos referidos na alínea b) do n.º 3 do artigo 2.º:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)
 
 ## ANEXO II — Composição dos alimentos para bebés destinados a lactentes e crianças de pouca idade
 
@@ -937,7 +955,7 @@ Iodato de sódio.
 
 ## ANEXO V — Valores de referência para a rotulagem nutricional dos alimentos destinados a lactentes e crianças de pouca idade
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)
 
 ## ANEXO VI
 
@@ -945,13 +963,13 @@ Limites máximos de vitaminas, minerais e elementos vestigiais que podem ser adi
 
 Os requisitos relativos aos nutrientes aplicam-se aos produtos prontos a ser utilizados, assim comercializados ou reconstituídos de acordo com as instruções do fabricante, excepto no que respeita ao potássio e ao cálcio, em que os requisitos se referem ao produto na forma em que é vendido.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)
 
 ## ANEXO VII
 
 Níveis máximos de resíduos específicos para os pesticidas ou metabolitos de pesticidas nos alimentos transformados à base de cereais e nos alimentos para bebés.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35683577.pdf)
 
 ## ANEXO VIII
 

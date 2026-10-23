@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/18900/19931996.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/527-1977-255046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T05:24:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b963cd89ab3c1bc1c9b854996860d5764b38c96a19ae7247ab4d5b7a7c70c267
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc6ad729edbad98811f4d0f5b3ef4ea4dbd2b7bf576255ce8130d0cbb8b7c638
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:24:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açúcar
+- Comércio
+- Produção
 relationships:
 - type: amended_by
   target: pt:dre:656394:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:461236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676446:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:286361:por
+  label: Rectificada pela DECL.DD160.06.09.1977.PCM, DR.IS [206] de 06.09.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-286361
+  date: '1977-09-06'
+- type: corrected_by
+  target: pt:dre:278232:por
+  label: Retificada pelo(a) Declaração - Diário da República n.º 222/1977, Série I de 1977-09-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-278232
+  date: '1977-09-24'
+- type: repealed_by
+  target: pt:dre:656394:por
+  label: Revogada pela PORT.192-R/78.07.04.1978.MCT, DR.IS [81]2ºSupl de 07.04.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/192-r-1978-656394
+  date: '1978-04-07'
+- type: repealed_by
+  target: pt:dre:31006987:por
+  label: "Revogada pela PORT.24/78.07.06.1978.SRF-RAA, JOA-IS [13] de 07.06.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24-1978-31006987
+  date: '1978-06-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:24:38Z'
   warnings: []
   errors: []
 ---
@@ -304,6 +347,6 @@ Secretaria de Estado do Comércio Interno, 4 de Julho de 1977. - O Secretário d
 
 Tabela de variação do preço da rama a que se refere o n.º 4 do n.º 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18900/19931996.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18900/19931996.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18900/19931996.pdf)
 
-**O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.**
+O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.

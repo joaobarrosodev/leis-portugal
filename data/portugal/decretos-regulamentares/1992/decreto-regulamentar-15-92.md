@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/161b00/33243327.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/15/1992/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1992-300398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d594bcff5424599462f2c5eb7bef6a2bc8607c227a091f1bf326daedafedda39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ea62393920f6ec794ab0ca15935d0ec63506cd56610f78654bfb729a058ef95
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/135/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/135/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:178331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549242:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:166204:por
+  label: "Revogado pelo DEC LEI.52/95.1995.03.20.MNE, DR.IS-A [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-1995-166204
+  date: '1995-03-20'
 article_structure:
   article_count: 13
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:49Z'
   warnings: []
   errors: []
 ---
@@ -181,7 +198,9 @@ b) A Divisão de Bolsas e Intercâmbio;
 
 c) A Divisão de Publicações e Documentação.
 
-###### Artigo 4.º — Divisão de Professorados e Leitorados
+###### Artigo 4.º
+
+##### Divisão de Professorados e Leitorados
 
 Compete especialmente à Divisão de Professorados e Leitorados:
 
@@ -191,7 +210,9 @@ b) Apoiar pedagogicamente a preparação e organização dos programas e materia
 
 c) Propor critérios para a selecção de docentes de ensino do português no estrangeiro, acompanhar o respectivo recrutamento e, bem assim, as acções de formação a eles destinadas.
 
-###### Artigo 5.º — Divisão de Bolsas e Intercâmbio
+###### Artigo 5.º
+
+##### Divisão de Bolsas e Intercâmbio
 
 Compete especialmente à Divisão de Bolsas e Intercâmbio;
 
@@ -211,7 +232,9 @@ g) Propor aos órgãos competentes do Instituto as medidas necessárias à parti
 
 h) Propor acções de colaboração e intercâmbio com autoridades escolares e outras entidades, públicas ou privadas, estrangeiras, de acordo com planos, programas e actividades de cooperação previamente definidos.
 
-###### Artigo 6.º — Divisão de Publicações e Documentação
+###### Artigo 6.º
+
+##### Divisão de Publicações e Documentação
 
 Compete especialmente à Divisão de Publicações e Documentação:
 
@@ -307,18 +330,18 @@ Presidência do Conselho de Ministros, 27 de Abril de 1992.
 
 Aníbal António Cavaco Silva - Jorge Braga de Macedo - João de Deus Rogado Salvador Pinheiro - António Fernando Couto dos Santos.
 
-**Promulgado em 2 de Julho de 1992.**
+Promulgado em 2 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Julho de 1992.**
+Referendado em 3 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Mapa do pessoal de direcção e chefia
 
 (artigo 13.º do Decreto Regulamentar n.º 15/92)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161b00/33243327.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161b00/33243327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161b00/33243327.pdf)

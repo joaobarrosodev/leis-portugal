@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/120/2025/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2025-946246033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 421bdbae206700d3b2387c475a636df0c5cb737509a8c835a99d9082b372a857
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cda466cceb04d3209e194300097e6742eeef08632b782d56ee06f9304415d57a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Direção Geral de Energia e Geologia
 - Distribuição de Energia Elétrica
 - Energia Elétrica
-- Direção Geral de Energia e Geologia
 - Entidade Reguladora dos Serviços Energéticos
+- Operador de Energia Elétrica
 - Rede Elétrica de Serviço Público
 - REDE Nacional de Distribuição
 - REDE Nacional de Distribuição de Electricidade em Média e ALTA Tensão
 - Sines
 - Sistema Elétrico Nacional
-- Operador de Energia Elétrica
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:80/2023
+  label: Altera, a partir de 15 de novembro de 2025, nos termos do artigo 4.º do presente diploma, os artigos 1.º, 2.º, 3.º,
+    4.º, 6.º, 7.º, 8.º, 10.º, 14.º, 16.º e 18.º, adita os artigos 9.º-A, 13.º-A e 14.º-A e revoga o artigo 5.º do Decreto-Lei
+    n.º 80/2023, de 6 de setembro, Diário da República n.º 173/2023, Série I, que é republicado
+  source: null
+  date: '2023-09-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/154/2013/11/05/p/dre
   label: null
@@ -89,16 +96,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/26/2016/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/26/2016/08/22/p/dre
+- type: cites
+  target: pt:dre:221327585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75177807:por
+  label: null
+  source: null
 article_structure:
-  article_count: 43
+  article_count: 31
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:07Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +170,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 6.º, 7.º, 8.º, 10.º, 14.º, 16.º e 18.º
 
 3 - Para os restantes níveis de tensão, pode ser definido, por portaria do membro do Governo responsável pela área da energia, após parecer da Entidade Reguladora dos Serviços Energéticos (ERSE), um limite de potência de ligação até ao qual os pedidos de acesso às redes não se encontram abrangidos pelo presente decreto-lei, devendo ser operacionalizados nos termos previstos no número anterior.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O reconhecimento de zonas de grande procura pressupõe a requisição, junto do operador da RESP, de dois ou mais pedidos de ligação à RESP de novas instalações de consumo, cuja potência, para poder ser disponibilizada, implique prazos objetivamente superiores aos que resultem da concretização dos planos de investimento para aumento da capacidade das redes previstos para a zona em questão.
 
@@ -169,7 +190,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 6.º, 7.º, 8.º, 10.º, 14.º, 16.º e 18.º
 
 8 - A zona de grande procura é reconhecida por despacho do membro do Governo responsável pela área da energia, que determina a abertura do procedimento excecional previsto no artigo seguinte.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O procedimento excecional de atribuição de capacidade de ligação à rede de instalações de consumo de energia elétrica aplicável às zonas de grande procura reconhecidas nos termos do artigo anterior é um procedimento aberto, transparente, equitativo e concorrencial, com as seguintes fases potenciais:
 
@@ -189,7 +212,9 @@ f) Leilão para atribuição de capacidade disponível.
 
 3 - A tramitação do procedimento excecional compete ao operador da RESP que identificou as dificuldades de satisfação da capacidade de ligação.
 
-###### Artigo 4.º — Manifestação de interesse, prestação de caução e apuramento da capacidade não utilizada
+Artigo 4.º
+
+Manifestação de interesse, prestação de caução e apuramento da capacidade não utilizada
 
 1 - Após a abertura do procedimento excecional é promovida uma consulta pública com vista à manifestação de interesse por parte dos interessados na atribuição de capacidade.
 
@@ -207,7 +232,9 @@ f) Leilão para atribuição de capacidade disponível.
 
 8 - (Anterior n.º 6.)
 
-###### Artigo 6.º — Caução
+Artigo 6.º
+
+Caução
 
 1 - Os encargos com a reformulação ou reforço da rede para criação de capacidade nas zonas sujeitas a procedimento excecional de atribuição de capacidade devem ser garantidos pela prestação de uma caução ao operador da RESP em função do valor da potência de ligação solicitada pelos interessados, a prestar no momento da manifestação de interesse referida no artigo 4.º
 
@@ -221,7 +248,8 @@ f) Leilão para atribuição de capacidade disponível.
 
 6 - No caso de alteração da calendarização, nos termos da alínea a) do n.º 1 do artigo 14.º-A, o montante da caução a executar é determinado pela seguinte fórmula:
 
-![](https://files.diariodarepublica.pt/images/946246033/946122382.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/946246033/946122382.png) |
+| --- |
 
 em que:
 
@@ -229,17 +257,19 @@ R é o valor da caução a executar;
 
 V é o valor total da caução prestada;
 
-P<sub>R</sub> corresponde à potência objeto do pedido de alteração da calendarização;
+PR corresponde à potência objeto do pedido de alteração da calendarização;
 
-P<sub>T</sub> corresponde à potência total atribuída no título de capacidade de ligação à RESP de instalação de consumo;
+PT corresponde à potência total atribuída no título de capacidade de ligação à RESP de instalação de consumo;
 
 Q corresponde à percentagem aplicável, definida nos termos da seguinte fórmula, em que t corresponde ao número de anos completos decorridos entre data de apresentação do pedido de alteração da configuração e a data de início do respetivo escalão de potência que consta do título de capacidade de ligação à RESP de instalação de consumo:
 
-![](https://files.diariodarepublica.pt/images/946246033/946122383.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/946246033/946122383.png) |
+| --- |
 
 7 - No caso de pedido de desistência parcial da capacidade de ligação atribuída no âmbito do procedimento excecional, nos termos da alínea b) do n.º 1 do artigo 14.º-A, o montante da caução a executar é determinado pela seguinte fórmula:
 
-![](https://files.diariodarepublica.pt/images/946246033/946122384.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/946246033/946122384.png) |
+| --- |
 
 em que:
 
@@ -247,13 +277,14 @@ D representa o valor total da caução a executar;
 
 V representa o valor total da caução prestada;
 
-P<sub>D</sub> corresponde à potência objeto de desistência;
+PD corresponde à potência objeto de desistência;
 
-P<sub>T</sub> corresponde à potência total atribuída no título de capacidade de ligação à RESP de instalação de consumo;
+PT corresponde à potência total atribuída no título de capacidade de ligação à RESP de instalação de consumo;
 
 S corresponde à percentagem aplicável, definida nos termos da seguinte fórmula, em que t corresponde ao número de anos completos decorridos entre a data de apresentação do pedido de desistência parcial e a data de início do respetivo escalão de potência que consta do título de capacidade de ligação à RESP de instalação de consumo:
 
-![](https://files.diariodarepublica.pt/images/946246033/946122385.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/946246033/946122385.png) |
+| --- |
 
 8 - O montante da caução prestada pode ser atualizado, sendo reduzido equitativamente em função do cumprimento da calendarização prevista no título de capacidade de ligação à RESP de instalação de consumo ou nos termos do n.º 2 do artigo 12.º
 
@@ -263,7 +294,9 @@ S corresponde à percentagem aplicável, definida nos termos da seguinte fórmul
 
 11 - Sem prejuízo da perda do montante caucionado, o incumprimento definitivo da calendarização prevista no título de capacidade de ligação à RESP de instalação de consumo implica a perda do direito à capacidade atribuída e não utilizada, que tenha sido obtida pelo interessado no contexto do procedimento previsto no presente decreto-lei, não havendo lugar à restituição do montante pago.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Concluída a fase de manifestação de interesse, prestação de caução e apuramento da capacidade não utilizada, o operador da RESP verifica se a capacidade resultante de reforços de rede previstos nos respetivos planos de desenvolvimento e investimentos das redes é suficiente para satisfazer a procura resultante das manifestações de interesse.
 
@@ -271,7 +304,9 @@ S corresponde à percentagem aplicável, definida nos termos da seguinte fórmul
 
 3 - Caso se verifique que a procura supera a capacidade a disponibilizar no contexto dos investimentos de rede, abre-se a fase prevista no artigo seguinte.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -305,7 +340,9 @@ b) Relativamente à capacidade disponibilizada ou cedida a título temporário, 
 
 12 - A capacidade disponibilizada a título definitivo que não seja atribuída no âmbito do presente procedimento fica disponível para nova atribuição.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Nas situações referidas no n.º 3 do artigo anterior, o operador da RESP promove um leilão para atribuição da capacidade.
 
@@ -329,7 +366,9 @@ b) Relativamente à capacidade disponibilizada ou cedida a título temporário, 
 
 11 - A capacidade adquirida em leilão consta de título de capacidade de ligação à RESP de instalação de consumo emitido pelo operador da RESP.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -343,7 +382,9 @@ c) A sucessão por morte, quando o sucessor assuma nas mesmas condições todos 
 
 3 - A transmissão da capacidade de ligação à RESP ao abrigo do disposto no número anterior carece de aprovação da DGEG, no prazo de 20 dias, devendo o respetivo pedido ser instruído com os elementos que comprovem a exceção invocada.
 
-###### Artigo 16.º — Projetos prioritários
+Artigo 16.º
+
+Projetos prioritários
 
 1 - Aos projetos prioritários é aplicável, na atribuição de capacidade ao abrigo dos artigos 8.º e 10.º, o seguinte regime:
 
@@ -357,7 +398,9 @@ a) Integrem um dos setores em situação de risco ou de risco significativo prev
 
 b) Sejam objeto de financiamento ao abrigo das Agendas Mobilizadoras e das Agendas Verdes para a Inovação Empresarial do Plano de Recuperação e Resiliência.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 Os documentos apresentados no âmbito do procedimento excecional a que se refere o presente decreto-lei, bem como no âmbito dos pedidos referidos no artigo 14.º-A, que contenham segredos comerciais, são considerados confidenciais para efeitos da [Lei n.º 26/2016](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), de 22 de agosto, na sua redação atual.»
 
@@ -375,7 +418,9 @@ Convergência da calendarização pretendida e da calendarização dos reforços
 
 3 - Quando, auscultados os interessados, não seja possível alcançar um acordo quanto à convergência de calendarizações, o procedimento segue para a fase de leilão prevista no artigo seguinte, sendo a capacidade disponibilizada ou cedida incorporada no referido leilão.
 
-###### Artigo 13.º-A — Encerramento do procedimento
+Artigo 13.º-A
+
+Encerramento do procedimento
 
 1 - O procedimento excecional previsto no presente decreto-lei é encerrado por despacho do membro do Governo responsável pela área da energia, quando se encontrarem cumpridas, de forma cumulativa, as condições seguintes:
 
@@ -387,7 +432,9 @@ b) Seja apresentada, pelo operador da RESP, a compatibilização dos cronogramas
 
 3 - Sem prejuízo do disposto no n.º 3 do artigo 3.º, o despacho referido no número anterior determina a caducidade das manifestações de interesse relativamente às quais não tenha sido emitido um título de capacidade de ligação à RESP de instalação de consumo.
 
-###### Artigo 14.º-A — Alteração de calendarização e desistência parcial
+Artigo 14.º-A
+
+Alteração de calendarização e desistência parcial
 
 1 - Após o encerramento do procedimento, os interessados a quem tenha sido atribuído um título de capacidade ligação à RESP de instalação de consumo no âmbito do procedimento excecional podem submeter, à DGEG:
 
@@ -401,15 +448,15 @@ b) A desistência parcial da capacidade de ligação atribuída no âmbito do pr
 
 4 - A DGEG decide os pedidos previstos no presente artigo no prazo máximo de 10 dias, recusando liminarmente os pedidos de alteração de calendarização que não cumpram com os limites referidos no número anterior.
 
-5 - O deferimento dos pedidos referidos no número anterior implica a execução da caução, nos termos dos n.<sup>os</sup>6 e 7 do artigo 6.º
+5 - O deferimento dos pedidos referidos no número anterior implica a execução da caução, nos termos dos n.os6 e 7 do artigo 6.º
 
 6 - A decisão referida no n.º 4 é notificada ao operador da RESP, para atualização do título de capacidade de ligação à RESP de instalação de consumo e execução da caução nos termos do número anterior.
 
-7 - A capacidade objeto de prorrogação fica disponível para atribuição, a título temporário, aplicando-se, com as necessárias adaptações, o disposto nos n.<sup>os</sup>9 e 10 do artigo 8.º»
+7 - A capacidade objeto de prorrogação fica disponível para atribuição, a título temporário, aplicando-se, com as necessárias adaptações, o disposto nos n.os9 e 10 do artigo 8.º»
 
 ###### Artigo 4.º — Alteração de calendarização e desistência na zona de grande procura de Sines
 
-1 - A alteração de calendarização e a desistência previstas nos n.<sup>os</sup>6 e 7 do artigo 6.º e no artigo 14.º-A do [Decreto-Lei n.º 80/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2023-221327585), de 6 de setembro, na redação dada pelo presente decreto-lei, aplica-se aos interessados com cauções prestadas no procedimento excecional da zona de grande procura de Sines, reconhecida no artigo 20.º do mesmo diploma.
+1 - A alteração de calendarização e a desistência previstas nos n.os6 e 7 do artigo 6.º e no artigo 14.º-A do [Decreto-Lei n.º 80/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2023-221327585), de 6 de setembro, na redação dada pelo presente decreto-lei, aplica-se aos interessados com cauções prestadas no procedimento excecional da zona de grande procura de Sines, reconhecida no artigo 20.º do mesmo diploma.
 
 2 - A capacidade de ligação à RESP libertada, temporária ou definitivamente, no âmbito da alteração de calendarização e da desistência referidas no número anterior fica livre para nova atribuição de ligação à RESP.
 
@@ -427,15 +474,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de outubro de 2025. - Luís Montenegro - Maria da Graça Carvalho.
 
-**Promulgado em 6 de novembro de 2025.**
+Promulgado em 6 de novembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de novembro de 2025.**
+Referendado em 10 de novembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -523,7 +570,8 @@ f) Leilão para atribuição de capacidade disponível.
 
 6 - No caso de alteração da calendarização, nos termos da alínea a) do n.º 1 do artigo 14.º-A, o montante da caução a executar é determinado pela seguinte fórmula:
 
-![](https://files.diariodarepublica.pt/images/946246033/946122386.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/946246033/946122386.png) |
+| --- |
 
 em que:
 
@@ -531,17 +579,19 @@ R é o valor da caução a executar;
 
 V é o valor total da caução prestada;
 
-P<sub>R</sub> corresponde à potência objeto do pedido de alteração da calendarização;
+PR corresponde à potência objeto do pedido de alteração da calendarização;
 
-P<sub>T</sub> corresponde à potência total atribuída no título de capacidade de ligação à RESP de instalação de consumo;
+PT corresponde à potência total atribuída no título de capacidade de ligação à RESP de instalação de consumo;
 
 Q corresponde à percentagem aplicável, definida nos termos da seguinte fórmula, em que t corresponde ao número de anos completos decorridos entre data de apresentação do pedido de alteração da configuração e a data de início do respetivo escalão de potência que consta do título de capacidade de ligação à RESP de instalação de consumo:
 
-![](https://files.diariodarepublica.pt/images/946246033/946122387.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/946246033/946122387.png) |
+| --- |
 
 7 - No caso de pedido de desistência parcial da capacidade de ligação atribuída no âmbito do procedimento excecional, nos termos da alínea b) do n.º 1 do artigo 14.º-A, o montante da caução a executar é determinado pela seguinte fórmula:
 
-![](https://files.diariodarepublica.pt/images/946246033/946122388.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/946246033/946122388.png) |
+| --- |
 
 em que:
 
@@ -549,13 +599,14 @@ D representa o valor total da caução a executar;
 
 V representa o valor total da caução prestada;
 
-P<sub>D</sub> corresponde à potência objeto de desistência;
+PD corresponde à potência objeto de desistência;
 
-P<sub>T</sub> corresponde à potência total atribuída no título de capacidade de ligação à RESP de instalação de consumo;
+PT corresponde à potência total atribuída no título de capacidade de ligação à RESP de instalação de consumo;
 
 S corresponde à percentagem aplicável, definida nos termos da seguinte fórmula, em que t corresponde ao número de anos completos decorridos entre a data de apresentação do pedido de desistência parcial e a data de início do respetivo escalão de potência que consta do título de capacidade de ligação à RESP de instalação de consumo:
 
-![](https://files.diariodarepublica.pt/images/946246033/946122389.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/946246033/946122389.png) |
+| --- |
 
 8 - O montante da caução prestada pode ser atualizado, sendo reduzido equitativamente em função do cumprimento da calendarização prevista no título de capacidade de ligação à RESP de instalação de consumo ou nos termos do n.º 2 do artigo 12.º
 
@@ -705,11 +756,11 @@ b) A desistência parcial da capacidade de ligação atribuída no âmbito do pr
 
 4 - A DGEG decide os pedidos previstos no presente artigo no prazo máximo de 10 dias, recusando liminarmente os pedidos de alteração de calendarização que não cumpram com os limites referidos no número anterior.
 
-5 - O deferimento dos pedidos referidos no número anterior implica a execução da caução, nos termos dos n.<sup>os</sup>6 e 7 do artigo 6.º
+5 - O deferimento dos pedidos referidos no número anterior implica a execução da caução, nos termos dos n.os6 e 7 do artigo 6.º
 
 6 - A decisão referida no n.º 4 é notificada ao operador da RESP, para atualização do título de capacidade de ligação à RESP de instalação de consumo e execução da caução nos termos do número anterior.
 
-7 - A capacidade objeto de prorrogação fica disponível para atribuição, a título temporário, aplicando-se, com as necessárias adaptações, o disposto nos n.<sup>os</sup>9 e 10 do artigo 8.º
+7 - A capacidade objeto de prorrogação fica disponível para atribuição, a título temporário, aplicando-se, com as necessárias adaptações, o disposto nos n.os9 e 10 do artigo 8.º
 
 ###### Artigo 15.º — Salvaguarda de clientes
 
@@ -752,3 +803,5 @@ Compete à ERSE supervisionar a execução e o cumprimento do presente decreto-l
 ###### Artigo 21.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+119763389

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/05/11300/07590762.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21999-1966-472917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:16:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 721def63b6cebd68f029892952a0e5942d4d527e54c11530cfb56ddd62dd06a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06153c68ec79152d69763d35903d6a1042315d4a29e5bc4b3571255914f80b08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Graduação Militar
+- Junta Médica
+- Marinha
+- Militar
+- Promoção Profissional
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:234547:por
+  label: "Alterados o n.º 21º e o mapa anexo do presente diploma, pela PORT.23320.19.04.1968.MMAR, DG.IS [94] de 19.04.1968\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23320-1968-234547
+  date: '1968-04-19'
+- type: amended_by
+  target: pt:dre:410939:por
+  label: "Dada nova redação ao n.º 3 e aditada uma nova alínea ao n.º 10 do presente diploma, pela Portaria PORT.880/73.12.12.1973.MMAR,\
+    \ DG.IS [288] de 12.12.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/880-1973-410939
+  date: '1973-12-12'
+- type: amended_by
+  target: pt:dre:336760:por
+  label: Determinado que o estabelecido no presente diploma continua em vigor, pelo(a) Portaria n.º 417/75 - Diário do Governo
+    n.º 152/1975, Série I de 1975-07-04 em tudo o que não contrarie o disposto nesta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/417-1975-336760
+  date: '1975-07-04'
+- type: amended_by
+  target: pt:dre:181433:por
+  label: "Dada nova redacção ao nº. 23º pela PORT.375/85.19.06.1985.MDN, DR.IS [138] de 19.06.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/375-1985-181433
+  date: '1985-06-19'
+- type: cites
+  target: pt:dre:251581:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogada pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:16:14Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +134,19 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 1.º Na Armada, os quadros de oficiais de complemento são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/11300/07590762.pdf))](https://files.diariodarepublica.pt/1s/1966/05/11300/07590762.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/11300/07590762.pdf)
 
 2.º As classes e postos do quadro de oficiais da reserva da Armada sem direito a pensão são os mesmos que os do quadro de oficiais do activo fixados no Estatuto do Oficial da Armada.
 
 3.º As classes e postos do quadro de oficiais da reserva naval são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/11300/07590762.pdf))](https://files.diariodarepublica.pt/1s/1966/05/11300/07590762.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/11300/07590762.pdf)
 
 A classe dos técnicos e especialistas compreende vários ramos que são definidos por despacho do Ministro da Marinha de acordo com as conveniências do serviço.
 
 4.º As classes e postos do quadro de oficiais da reserva marítima são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/11300/07590762.pdf))](https://files.diariodarepublica.pt/1s/1966/05/11300/07590762.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/11300/07590762.pdf)
 
 5.º Nas reservas naval e marítima existem mais os seguintes postos:
 

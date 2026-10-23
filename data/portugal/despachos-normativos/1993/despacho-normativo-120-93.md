@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/120/1993/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/120-1993-265720
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T08:00:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11a94da5028e33a03e02bffc0e328746cd2866bee8e524665b0da7758fcd970a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 142dfaf9d326e788a05e7d3fa4ffc1c9ca714cb689a1578c67084b284975fe9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:00:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Geral dos Serviços de Gestão e Organização
-- Secretaria de Estado da Cultura
 - Pessoal Técnico Superior
 - Quadro de Pessoal
+- Secretaria de Estado da Cultura
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 158/93, DE 25 DE AGOSTO, PUBLICADA NO DR.IS-B, 204 4SUPL, DE 930831.\0\
+    30831.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:673610:por
   label: Última alteração registada na importação inicial
@@ -82,16 +87,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/110/1993/01/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/110/1993/01/30/p/dre
+- type: cites
+  target: pt:dre:410282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599877:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:00:23Z'
   warnings: []
   errors: []
 ---

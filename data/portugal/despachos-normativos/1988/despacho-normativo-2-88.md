@@ -48,36 +48,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-1988-583806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T07:39:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a9ef3a353db7917ac429af8552d7d91ed7a2ae5e96366958f2f3fcc3b60e7e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95d6953e8591cf4b8121836f634e27c34a05e22beca351ae830fd90373ec453e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:39:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aposentação
+- Pessoal Civil
+- Quadro de Pessoal
+- Serviços Departamentais das Forças Armadas
+relationships:
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663290:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:39:34Z'
   warnings: []
   errors: []
 ---
@@ -94,6 +106,6 @@ Nestes termos:
 
 Reconhece-se, ao abrigo do n.º 2 do artigo 13.º do Decreto-Lei n.º 110-A/86, de 27 de Maio, a imprescindibilidade dos lugares do quadro do pessoal civil do Arsenal do Alfeite que venham a vagar por força do deferimento dos requerimentos de aposentação apresentados ao abrigo e na vigência do artigo 9.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, e que se enquadrem nas seguintes categorias e quantitativos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/01/00900/00770077.pdf))](https://files.diariodarepublica.pt/1s/1988/01/00900/00770077.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/01/00900/00770077.pdf)
 
 Ministérios da Defesa Nacional e das Finanças, 29 de Dezembro de 1987. - O Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe.

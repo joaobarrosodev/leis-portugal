@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/100/2001/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2001-344964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:23:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7909206fd4fd69168bb65c8b3a5d11bcc394dd2501473e481efb366b1051a339
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 592d486837e071567400d01936c9e6b503f569600e55511fc005626a3844de13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:23:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Comércio
+- Embalagem
 - Etiquetagem
 - Higiene Corporal
-- Embalagem
 - Proteção do Consumidor
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:246139:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667549:por
+  label: "Alterados os anexos II, III e VII pelo DEC LEI.151/2003.2003.07.11.MS, DR.IS-A [158]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-2003-667549
+  date: '2003-07-11'
 - type: cites
   target: celex:31976L0768
   label: null
@@ -95,16 +100,22 @@ relationships:
   target: celex:32000L0041
   label: null
   source: http://data.europa.eu/eli/dir/2000/41/oj
+- type: repealed_by
+  target: pt:dre:246139:por
+  label: "Revogado pelo DEC LEI.142/2005.24.08.2005.MS, DR.IS-A [162] de 24.08.2005, sem prejuízo do disposto no nº 5 do seu\
+    \ art. 44º. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2005-246139
+  date: '2005-08-24'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:23:39Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +126,7 @@ de 28 de Março
 
 A Portaria n.º 1281/97, de 31 de Dezembro, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os 81/99, de 16 de Março, e 267/99, de 15 de Julho, estabeleceu, nos termos do artigo 4.º do Decreto-Lei n.º 296/98, de 25 de Setembro, as listas das substâncias que não podem ser integradas na composição dos produtos cosméticos e de higiene corporal e ainda daquelas cuja admissão é permitida mediante determinadas condições e restrições.
 
-# Parte desta matéria foi entretanto revista à luz do progresso técnico pela 24.ª Directiva, n.º [2000/6/CE](https://data.europa.eu/eli/dir/2000/6/oj?locale=pt), da Comissão, de 29 de Fevereiro, que altera os anexos II, III, VI e VII da Directiva n.º [76/768/CEE](https://data.europa.eu/eli/dir/1976/768/oj?locale=pt), do Conselho, de 27 de Julho, pela 25.ª Directiva, n.º [2000/11/CE](https://data.europa.eu/eli/dir/2000/11/oj?locale=pt), da Comissão, de 10 de Março, que altera o anexo II da mesma Directiva n.º [76/768/CEE](https://data.europa.eu/eli/dir/1976/768/oj?locale=pt), e ainda pela Directiva n.º [2000/41/CE](https://data.europa.eu/eli/dir/2000/41/oj?locale=pt), da Comissão, de 19 de Junho, que altera a alínea i) do n.º 1 do artigo 4.º da referida Directiva n.º [76/768/CEE](https://data.europa.eu/eli/dir/1976/768/oj?locale=pt).
+Parte desta matéria foi entretanto revista à luz do progresso técnico pela 24.ª Directiva, n.º [2000/6/CE](https://data.europa.eu/eli/dir/2000/6/oj?locale=pt), da Comissão, de 29 de Fevereiro, que altera os anexos II, III, VI e VII da Directiva n.º [76/768/CEE](https://data.europa.eu/eli/dir/1976/768/oj?locale=pt), do Conselho, de 27 de Julho, pela 25.ª Directiva, n.º [2000/11/CE](https://data.europa.eu/eli/dir/2000/11/oj?locale=pt), da Comissão, de 10 de Março, que altera o anexo II da mesma Directiva n.º [76/768/CEE](https://data.europa.eu/eli/dir/1976/768/oj?locale=pt), e ainda pela Directiva n.º [2000/41/CE](https://data.europa.eu/eli/dir/2000/41/oj?locale=pt), da Comissão, de 19 de Junho, que altera a alínea i) do n.º 1 do artigo 4.º da referida Directiva n.º [76/768/CEE](https://data.europa.eu/eli/dir/1976/768/oj?locale=pt).
 
 Tornando-se agora necessário proceder à transposição para o ordenamento jurídico interno das referidas directivas e reconhecendo-se as inegáveis vantagens de dispor de um único diploma, reúne-se no presente toda a regulamentação sobre a matéria dispersa por vários dispositivos legais.
 
@@ -175,15 +186,15 @@ No caso de a pequena dimensão do produto não permitir a inserção das mençõ
 
 Visto e aprovado em Conselho de Ministros de 11 de Janeiro de 2001. - António Manuel de Oliveira Guterres - Mário Cristina de Sousa - Maria Manuela de Brito Arcanjo Marques da Costa.
 
-**Promulgado em 8 de Fevereiro de 2001.**
+Promulgado em 8 de Fevereiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Março de 2001.**
+Referendado em 15 de Março de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Lista indicativa por categorias de produtos cosméticos e de higiene corporal
 
@@ -1105,13 +1116,13 @@ Processo contínuo; a 140ºC, e 2 bar (2000 hPa), durante oito minutos ou equiva
 
 Lista das substâncias que os produtos cosméticos e de higiene corporal não podem conter fora das restrições e condições previstas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)
 
 Segunda parte
 
 Lista das substâncias provisoriamente admitidas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)
 
 ## ANEXO IV — Primeira parte
 
@@ -1127,7 +1138,7 @@ Coluna 3 - Corantes admitidos unicamente para os produtos cosméticos que não s
 
 Coluna 4 - Corantes admitidos unicamente para os produtos cosméticos que se destinam a entrar apenas em breve contacto com a pele.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)
 
 (nota 1) São igualmente admitidas as lacas ou sais destes corantes que contenham substâncias cuja utilização não está proibida no anexo II ou que não estão excluídas do campo de aplicação do presente diploma nos termos do anexo V.
 
@@ -1147,7 +1158,7 @@ Coluna 3 - Corantes admitidos unicamente para os produtos cosméticos que não s
 
 Coluna 4 - Corantes admitidos unicamente para os produtos cosméticos que se destinam a entrar apenas em breve contacto com a pele.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)
 
 (nota 1) São igualmente admitidas as lacas ou sais destes corantes que contêm substâncias cuja utilização não está proibida no anexo II ou que não estão excluídas do campo de aplicação do presente diploma nos termos do anexo V.
 
@@ -1177,13 +1188,13 @@ Primeira parte
 
 Lista dos conservantes admitidos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)
 
 Segunda parte
 
 Lista dos conservantes admitidos provisoriamente
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)
 
 ## ANEXO VII — Lista dos filtros para radiações ultravioletas que os produtos cosméticos e de higiene corporal podem conter
 
@@ -1197,12 +1208,12 @@ Primeira parte
 
 Lista dos filtros ultravioletas que os produtos cosméticos podem conter
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)
 
 Segunda parte
 
 Lista dos filtros ultravioletas que os produtos cosméticos e de higiene corporal podem conter provisoriamente
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)
 
 ## ANEXO VIII — [(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/03/074a00/17111737.pdf)

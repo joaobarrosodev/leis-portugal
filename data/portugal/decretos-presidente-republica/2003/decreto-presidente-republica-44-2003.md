@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/44/2003/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/44-2003-652705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T04:44:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0835d1c5bca0fdae9c8158aa0f727940c71df39243c3b60d4a8493e5e129148a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4457670f6484a10442f9bb2e6f71d82f99705084858a4532d5d3f052a4762c26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:44:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cardiff
-- Convenção
-- Portugal
-- Eutelsat
 - Comunicação por Satélite
+- Convenção
+- Eutelsat
+- Portugal
 - Privilegios e Imunidades
 relationships:
+- type: amends
+  target: pt:numero:resolucao-assembleia-republica:65/2003
+  label: "Ratifica o Acordo de Alteração ao Protocolo Relativo aos Privilégios e Imunidades da Organização Europeia de Telecomunicações\
+    \ por Satélite (EUTELSAT), aprovado, para adesão, pela Resolução da Assembleia da República n.º 65/2003, em 29 de Maio\
+    \ de 2003, DR.IS-A [177]\0\0"
+  source: null
+  date: '2003-05-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/65/2003/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/65/2003/08/02/p/dre
+- type: cites
+  target: pt:dre:652704:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:44:31Z'
   warnings: []
   errors: []
 ---
@@ -96,16 +107,16 @@ validation:
 
 de 2 de Agosto
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo de Alteração ao Protocolo Relativo aos Privilégios e Imunidades da Organização Europeia de Telecomunicações por Satélite (EUTELSAT), adoptado e confirmado pela 26.ª Assembleia de Partes daquela Organização, que teve lugar em Cardiff, de 18 a 20 de Maio de 1999, aprovado, para adesão, pela [Resolução da Assembleia da República n.º 65/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/65-2003-652704), em 29 de Maio de 2003.
 
-**Assinado em 16 de Julho de 2003.**
+Assinado em 16 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Julho de 2003.**
+Referendado em 23 de Julho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

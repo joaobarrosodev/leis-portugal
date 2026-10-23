@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28
   number: '144'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4860-(2) a 4860-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/14401/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/165-a/2009/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-a-2009-479644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12d778d5e3fc7022d93fbf9462c370af3a25a9ce0ae38dd1234e9666529d120e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4d63e33bccba4b32e5480df39171d07795892093782a1b97dbdc928edea9992
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Conselho Consultivo
 - Conselho Estratégico
 - Definição de Competências
 - Instituto Camões
-- Conselho Consultivo
+- Ministério dos Negócios Estrangeiros
 - Orgânica
 - Presidente
-- Ministério dos Negócios Estrangeiros
 - Vice-presidente
 relationships:
 - type: amended_by
@@ -115,16 +115,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:440776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:543919:por
+  label: "Revogado, a partir de 01.02.2012, o Dec Lei 119/2007, de 27-abr, na redação do presente diploma, pelo DEC LEI.21/2012.30.01.2012.MNE,\
+    \ DR.IS [21] de 30.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2012-543919
+  date: '2012-01-30'
 article_structure:
-  article_count: 28
+  article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:50Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +203,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 6.º, 7.º, 8.º, 9.º e 10.º do [Decreto-Le
 
 2 - ...
 
-###### Artigo 2.º — Sede e rede externa
+Artigo 2.º
+
+Sede e rede externa
 
 1 - O IC, I. P., tem a sua sede em Lisboa e desenvolve a sua acção no exterior através da sua rede externa.
 
@@ -175,7 +219,9 @@ b) Os centros culturais portugueses no estrangeiro.
 
 4 - As estruturas da rede externa articulam-se no estrangeiro com a rede diplomática e consular, de acordo com a orientação estratégica do IC, I. P.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -231,7 +277,9 @@ d) O desenvolvimento e promoção da utilização de plataformas para o ensino e
 
 4 - A prossecução das atribuições previstas nas alíneas g), j) e q) do n.º 2 é objecto de regulamento a aprovar por despacho conjunto dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e das finanças.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -239,7 +287,9 @@ d) O desenvolvimento e promoção da utilização de plataformas para o ensino e
 
 3 - São, ainda, órgãos do IC, I. P., o conselho consultivo e o conselho estratégico.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de actuação do Instituto e reúne pelo menos duas vezes por ano, nos termos do respectivo regulamento interno.
 
@@ -257,7 +307,9 @@ e) Um representante de cada uma das associações de sindicatos do pessoal docen
 
 3 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Os centros culturais portugueses no estrangeiro são unidades dotadas de autonomia administrativa, criadas junto das missões diplomáticas portuguesas ou postos consulares.
 
@@ -269,7 +321,9 @@ e) Um representante de cada uma das associações de sindicatos do pessoal docen
 
 5 - As estruturas de coordenação são dirigidas por um coordenador.
 
-###### Artigo 8.º — Estatuto do pessoal de direcção e coordenação
+Artigo 8.º
+
+Estatuto do pessoal de direcção e coordenação
 
 1 - ...
 
@@ -279,7 +333,9 @@ e) Um representante de cada uma das associações de sindicatos do pessoal docen
 
 4 - Aos responsáveis das estruturas coordenadoras do ensino português no estrangeiro aplica-se o previsto no regime jurídico do ensino português no estrangeiro.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Ao pessoal do IC, I. P., é aplicável o contrato de trabalho em funções públicas.
 
@@ -287,7 +343,9 @@ e) Um representante de cada uma das associações de sindicatos do pessoal docen
 
 3 - O desempenho de funções nas estruturas da rede externa do IC, I. P., rege-se pelo disposto no regime do pessoal dos centros culturais portugueses no estrangeiro ou no regime jurídico do ensino português no estrangeiro, conforme a estrutura em causa.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -365,15 +423,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, ex
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Paula Fernandes dos Santos - Augusto Ernesto Santos Silva.
 
-**Promulgado em 21 de Julho de 2009.**
+Promulgado em 21 de Julho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de Julho de 2009.**
+Referendado em 21 de Julho de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 Republicação do [Decreto-Lei n.º 119/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2007-520998), de 27 de Abril
 

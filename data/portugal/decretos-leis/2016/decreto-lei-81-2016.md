@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/22800/0421504217.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/81/2016/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2016-105263934
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68eb0adb72d5607b797c8bbd189f692842cafc7794764a57bfbaa2dbbbf501a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8a30d5d24a27130755516bbbee87091df5126d565e5af25d4ee4703732748da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Criação de Serviços
+- Cibercrime
 - Combate ao Crime
+- Criação de Serviços
 - Definição de Competências
 - Extinção de Serviços
-- Cibercrime
 - Orgânica
-- Sistema de Informação
-- Quadro de Pessoal
+- Pessoal Dirigente
 - Polícia Judiciária
+- Quadro de Pessoal
 - Remuneração
+- Sistema de Informação
 relationships:
 - type: amended_by
   target: pt:dre:184108564:por
@@ -110,15 +110,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2015/06/12/p/dre
 article_structure:
-  article_count: 9
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:58Z'
   warnings: []
   errors: []
 ---
@@ -223,7 +223,9 @@ g) [...].
 
 7 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]:
 
@@ -241,7 +243,9 @@ f) [...].
 
 2 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -325,20 +329,20 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de outubro de 2016. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - José Alberto de Azeredo Ferreira Lopes - Maria Constança Dias Urbano de Sousa - Helena Maria Mesquita Ribeiro.
 
-**Promulgado em 17 de novembro de 2016.**
+Promulgado em 17 de novembro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de novembro de 2016.**
+Referendado em 23 de novembro de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
-## Anexo à [Portaria n.º 304/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/605518/details/normal?l=1), de 25 de março
+Anexo à [Portaria n.º 304/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/605518/details/normal?l=1), de 25 de março
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/22800/0421504217.pdf))](https://files.diariodarepublica.pt/1s/2016/11/22800/0421504217.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/22800/0421504217.pdf)

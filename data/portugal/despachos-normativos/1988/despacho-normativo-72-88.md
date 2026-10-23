@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/72-1988-380155
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T07:40:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22a5cf08b46685cf1cf2dbe2d60311d5e0682d22454ccf0e0d1cfa1f567bd5ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6adc96cab27b0474e107373b71f2212e9c236e66dd1baeac83051fd9e529f9d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:40:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Função Pública
+- Quota de Descongelamento
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICAÇÃO PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 252, 2 SUPLEMENTO, DE 31/10/88. ALTERADO O NUMERO\
+    \ 4 PELO DESPACHO NORMATIVO NUMERO 4/89, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 6, DE 890107.\0E 890107.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:234481:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:234481:por
+  label: "Alterada a redacção do n.º 4 do presente diploma, pelo DN.4/89.07.01.1989.MF, DR.IS [6] de 07.01.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-1989-234481
+  date: '1989-01-07'
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:272068:por
+  label: Rectificado pela DECL.DD4168.1988.09.05.PCM DR.IS [227]2ºSUPL DE 30/SET/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-272068
+  date: '1988-09-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:40:54Z'
   warnings: []
   errors: []
 ---
@@ -124,4 +146,4 @@ Mapa a que se refere o n.º 1 do Despacho Normativo n.º 72/88
 
 Quotas de descongelamento - 1988
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/19000/34273428.pdf))](https://files.diariodarepublica.pt/1s/1988/08/19000/34273428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/19000/34273428.pdf)

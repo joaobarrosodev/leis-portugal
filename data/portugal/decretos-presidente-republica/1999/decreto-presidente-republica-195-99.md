@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/195/1999/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/195-1999-667761
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:31:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 110ed55c25356c0f8be80343c4e2e551626cea380944ba4e350b7b6660ca5038
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acf26886fccb7361536bd19e112f02842bcb8a1b5d77b8dd47eeb01bbd437b5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:31:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Certificado de Qualidade
 - Convenção
-- Portugal
-- Marca
 - Estocolmo
 - Macau
 - Madrid
-- Certificado de Qualidade
+- Marca
 - Marca Registada
-relationships: []
+- Portugal
+relationships:
+- type: cites
+  target: pt:dre:285483:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:31:17Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +99,7 @@ validation:
 
 de 22 de Outubro
 
-**O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:
 
 É estendido ao território de Macau o Acordo sobre o Registo Internacional das Marcas de Fábrica ou de Comércio, de 1891, revisto em 14 de Dezembro de 1900, em 2 de Junho de 1911, em 6 de Novembro de 1925, em 2 de Junho de 1934 e em 15 de Junho de 1957, na versão do Acto de Estocolmo de 14 de Julho de 1967, modificado em 2 de Outubro de 1979, aprovado pelo [Decreto do Governo n.º 7/88](https://diariodarepublica.pt/dr/detalhe/decreto-governo/7-1988-285483), de 29 de Abril, cujo texto foi publicado no Diário da República, 1.ª série, de 29 de Abril de 1988.
 
@@ -107,8 +111,8 @@ b) Nos termos do artigo 14.º, n.º 2, alínea d), da Convenção, a República 
 
 Foram ouvidos os órgãos de governo próprios do território de Macau.
 
-**Assinado em 15 de Outubro de 1999.**
+Assinado em 15 de Outubro de 1999.
 
-**Publique-se no Boletim Oficial de Macau, em conjunto com os referidos decreto de aprovação e texto da Convenção.**
+Publique-se no Boletim Oficial de Macau, em conjunto com os referidos decreto de aprovação e texto da Convenção.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

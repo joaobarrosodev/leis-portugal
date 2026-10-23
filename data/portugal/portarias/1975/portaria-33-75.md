@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/01/01600/00700071.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/33-1975-159085
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T04:43:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7243947ba6afa3258f8f78796db90104c3fe44e33bad01f65fbf4b352fda6f17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 491a4bc5a58b7402f6f96ca44c65f6f0776591b3a3ad454a95f520d46e369105
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:43:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto sobre Veículos
+- Isenção Fiscal
+- Regulamento do Imposto sobre Veículos
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:501179:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:236100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412056:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:501179:por
+  label: "Revogada pela PORT.175/76.27.03.1976.MF, DG.IS [74] de 27.03.1976, que mantém contudo em vigor com as necessárias\
+    \ adaptações e até à sua extinção o impresso do modelo nº 9 anexo ao presente diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/175-1976-501179
+  date: '1976-03-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:43:58Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +131,7 @@ b) Para os automóveis antigos de que trata a alínea c) - 1000 km de percurso e
 
 4.º Para efeitos de determinação da taxa do imposto, nos termos da tabela I do artigo 8.º do Regulamento, devida pelos automóveis de cujos livretes conste apenas a potência fiscal, a cilindrada do motor em centímetros cúbicos obtém-se multiplicando o valor dessa potência pelos seguintes factores, consoante o número de cilindros do motor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/01/01600/00700071.pdf))](https://files.diariodarepublica.pt/1s/1975/01/01600/00700071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/01/01600/00700071.pdf)
 
 5.º A presente portaria entra em vigor em 1 de Janeiro de 1975 e revoga, a partir dessa data, a [Portaria n.º 828/73](https://diariodarepublica.pt/dr/detalhe/portaria/828-1973-412056), de 22 de Novembro.
 
@@ -120,6 +139,6 @@ Secretaria de Estado do Orçamento, 31 de Dezembro de 1974. - O Secretário de E
 
 Modelo n.º 9 (n.º 3.º, 2, da Portaria n.º 000/75)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/01/01600/00700071.pdf))](https://files.diariodarepublica.pt/1s/1975/01/01600/00700071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/01/01600/00700071.pdf)
 
-**O Secretário de Estado do Orçamento, António de Seixas da Costa Leal.**
+O Secretário de Estado do Orçamento, António de Seixas da Costa Leal.

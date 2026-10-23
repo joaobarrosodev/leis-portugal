@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/515-1983-451043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T07:42:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cb088c6557a15860ebfceba5a88fbadbd8d6f45f0c44ed7b22d5e53631969ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77118ed3a7b7746bb6c9e9150eec815235322581cd62939a0041d295f1aeb27d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:42:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Diretivo
+- Instituto do Emprego e Formação Profissional
+- Pessoal de Chefia
+- Pessoal Dirigente
+- Recrutamento de Pessoal
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:310585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:42:09Z'
   warnings: []
   errors: []
 ---
@@ -109,6 +131,6 @@ Manda o Governo da República Portuguesa, pelos Ministros do Trabalho e da Refor
 
 Ministérios do Trabalho e da Reforma Administrativa.
 
-**Assinada em 18 de Abril de 1983.**
+Assinada em 18 de Abril de 1983.
 
-**O Ministro do Trabalho, Luís Alberto Ferrero Morales. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.**
+O Ministro do Trabalho, Luís Alberto Ferrero Morales. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

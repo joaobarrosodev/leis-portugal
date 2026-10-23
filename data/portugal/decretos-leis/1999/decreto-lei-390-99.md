@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/390/1999/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1999-667919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:11:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24a9c67d52def346d651bf6e581b61b14a2cdc57d74a399942591995b2b90ccb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1792226523d47cc2f3421c26bb22c8ecbac1dbfab46874a43ba6f8366591cfd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:11:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
-- Aproximação das Legislações
-- Gestão de Resíduos
-- Controlo de Qualidade
-- Descarga de ÁGUA Residual
-- Controlo Sanitário
-- Saúde Pública
-- Fiscalização
-- Proteção do Ambiente
 - Águas Residuais
+- Aproximação das Legislações
+- Atividade Industrial
+- Controlo de Qualidade
+- Controlo Sanitário
+- Descarga de ÁGUA Residual
+- Fiscalização
+- Gestão de Resíduos
+- Poluição
 - Poluição da água
 - Poluição Industrial
-- Poluição
+- Proteção do Ambiente
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:667534:por
@@ -98,15 +98,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1990/415/oj
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:11:42Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +137,9 @@ Os artigos 1.º e 3.º do Decreto-Lei n.º 56/99, de 26 de Fevereiro, passam a t
 
 2 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -187,25 +189,25 @@ Ao anexo II ao Decreto-Lei n.º 56/99, de 26 de Fevereiro, são aditados os cap�
 
 Visto e aprovado em Conselho de Ministros de 12 de Agosto de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Maria de Belém Roseira Martins Coelho Henriques de Pina - António Ricardo Rocha de Magalhães - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 17 de Setembro de 1999.**
+Promulgado em 17 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Setembro de 1999.**
+Referendado em 20 de Setembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 VIII - Disposições específicas relativas ao 1, 2-dicloroetano (DCE) (1) n.º CAS - 107-06-2
 
 A) Valores limite das normas de descarga
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)
 
 B) Objectivos de qualidade
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)
 
 C) Métodos de referência
 
@@ -221,11 +223,11 @@ IX - Disposições específicas relativas ao tricloroetileno (TRI) (1) n.º CAS 
 
 A) Valores limite das normas de descarga
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)
 
 B) Objectivos de qualidade
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)
 
 C) Métodos de referência
 
@@ -243,11 +245,11 @@ X - Disposições específicas relativas ao percloroetileno (PER) (1) n.º CAS -
 
 A) Valores limite das normas de descarga
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)
 
 B) Objectivos de qualidade
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)
 
 C) Métodos de referência
 
@@ -265,11 +267,11 @@ XI - Disposições específicas relativas ao triclorobenzeno (TCB) (1)
 
 A) Valores limite das normas de descarga
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)
 
 B) Objectivos de qualidade (1)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)](https://files.diariodarepublica.pt/1s/1999/09/229a00/66986702.pdf)
 
 C) Métodos de referência
 

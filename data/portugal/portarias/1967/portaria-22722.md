@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22722-1967-312057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fd77b07ee2b4942b296ba1bf463f956e9173d01464f90b99d24287ed0b2d9b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 507eb477fb37125479cc06c8a194490ad447518b42f133aecfa88060ef95a45d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:41Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +94,15 @@ Ministério da Educação Nacional, 15 de Junho de 1967. - O Ministro da Educaç
 
 ESTATUTOS DA FUNDAÇÃO DE ROGÉRIO CARDOSO
 
-###### Artigo 1.º A Fundação de Rogério Cardoso tem a sua sede em Lisboa, e a sua administração e representação, tanto em juízo como fora dele, são exercidas pelo Montepio Geral, Associação de Socorros Mútuos, com sede também na mesma cidade.
+Artigo 1.º A Fundação de Rogério Cardoso tem a sua sede em Lisboa, e a sua administração e representação, tanto em juízo como fora dele, são exercidas pelo Montepio Geral, Associação de Socorros Mútuos, com sede também na mesma cidade.
 
-###### Art. 2.º A Fundação tem por finalidade, de um modo geral, estimular o aperfeiçoamento moral da juventude e, em particular, premiar os alunos das Escolas Industrial e Comercial de Portalegre, Industrial do Marquês de Pombal e Comercial de Ferreira Borges que, tendo bom aproveitamento, se distingam por qualidades morais invulgares.
+Art. 2.º A Fundação tem por finalidade, de um modo geral, estimular o aperfeiçoamento moral da juventude e, em particular, premiar os alunos das Escolas Industrial e Comercial de Portalegre, Industrial do Marquês de Pombal e Comercial de Ferreira Borges que, tendo bom aproveitamento, se distingam por qualidades morais invulgares.
 
-###### Art. 3.º Os prémios, um para cada escola, com a denominação «Prémio Rogério Cardoso», serão atribuídos anualmente a alunos do sexo masculino que tenham frequentado o último ano do curso e não tenham idade superior a 20 anos no termo do ano escolar.
+Art. 3.º Os prémios, um para cada escola, com a denominação «Prémio Rogério Cardoso», serão atribuídos anualmente a alunos do sexo masculino que tenham frequentado o último ano do curso e não tenham idade superior a 20 anos no termo do ano escolar.
 
 § único. No caso de virem a ser considerados em igualdade de méritos mais de um aluno, terá direito ao Prémio o que sofrer de maior carência de recursos económicos e, mantendo-se ainda a igualdade, o mais novo.
 
-###### Art. 4.º Cada um dos Prémios será constituído por um terço do rendimento líquido do capital da Fundação. Juntamente será entregue a cada um dos premiados uma medalha comemorativa, de bronze (com diâmetro de 8 cm), tendo no anverso a efígie do patrono da Fundação e a legenda «Rogério Cardoso - Bondade» e no reverso o nome do aluno distinguido, o da respectiva escola e o ano da distinção.
+Art. 4.º Cada um dos Prémios será constituído por um terço do rendimento líquido do capital da Fundação. Juntamente será entregue a cada um dos premiados uma medalha comemorativa, de bronze (com diâmetro de 8 cm), tendo no anverso a efígie do patrono da Fundação e a legenda «Rogério Cardoso - Bondade» e no reverso o nome do aluno distinguido, o da respectiva escola e o ano da distinção.
 
 § 1.º Tanto o Prémio como a medalha serão entregues por um representante do Montepio Geral.
 
@@ -106,26 +110,26 @@ ESTATUTOS DA FUNDAÇÃO DE ROGÉRIO CARDOSO
 
 § 3.º Quando se reconheça haver em tal procedimento vantagem para o premiado, poderá ser-lhe entregue, da importância do Prémio, só uma parte, depositando-se o restante em seu nome na Caixa Económica de Lisboa, anexa ao Montepio Geral, para ser levantado quando ele se emancipe ou atinja a maioridade.
 
-###### Art. 5.º Quando nalgum ano ou nalguma das Escolas se reconheça não haver aluno ou alunos que preencham as condições fixadas nos artigos 2.º e 3.º, será a importância do correspondente Prémio reservada para atribuição no ano, ou anos seguintes, podendo neste caso o seu número anual ser superior a três, mas nunca maior que seis.
+Art. 5.º Quando nalgum ano ou nalguma das Escolas se reconheça não haver aluno ou alunos que preencham as condições fixadas nos artigos 2.º e 3.º, será a importância do correspondente Prémio reservada para atribuição no ano, ou anos seguintes, podendo neste caso o seu número anual ser superior a três, mas nunca maior que seis.
 
 § único. Se o Montepio o entender e existirem disponibilidades superiores às correspondentes a seis Prémios, poderá o excedente ser aplicado na elevação do capital da Fundação, a fim de que a importância unitária dos Prémios possa, por seu turno, ser aumentada.
 
-###### Art. 6.º O director de cada Escola comunicará à direcção do Montepio Geral até ao dia 10 de Agosto de cada ano o nome e mais elementos de identificação dos alunos que, no parecer do conselho disciplinar, mereçam ser apresentados como candidatos ao Prémio, fazendo juntar extractos do curriculum vitae de cada um deles e outros elementos de informação que repute de interesse. A direcção do Montepio Geral procederá à atribuição dos Prémios até ao dia 25 de Setembro.
+Art. 6.º O director de cada Escola comunicará à direcção do Montepio Geral até ao dia 10 de Agosto de cada ano o nome e mais elementos de identificação dos alunos que, no parecer do conselho disciplinar, mereçam ser apresentados como candidatos ao Prémio, fazendo juntar extractos do curriculum vitae de cada um deles e outros elementos de informação que repute de interesse. A direcção do Montepio Geral procederá à atribuição dos Prémios até ao dia 25 de Setembro.
 
-###### Art. 7.º Os Prémios serão entregues nas Escolas que os premiados hajam frequentado, em acto público e com a devida solenidade, de preferência na sessão de abertura do ano lectivo. Da atribuição será feita conveniente publicidade, principalmente na localidade de residência dos premiados, evidenciando-se as virtudes que originaram a distinção e referindo-se também as que caracterizaram o patrono da Fundação.
+Art. 7.º Os Prémios serão entregues nas Escolas que os premiados hajam frequentado, em acto público e com a devida solenidade, de preferência na sessão de abertura do ano lectivo. Da atribuição será feita conveniente publicidade, principalmente na localidade de residência dos premiados, evidenciando-se as virtudes que originaram a distinção e referindo-se também as que caracterizaram o patrono da Fundação.
 
-###### Art. 8.º O capital da Fundação é inicialmente constituído por 300000$00, doados pelos instituidores, Manuel Rodrigues Cardoso e Renato Rodrigues Cardoso.
+Art. 8.º O capital da Fundação é inicialmente constituído por 300000$00, doados pelos instituidores, Manuel Rodrigues Cardoso e Renato Rodrigues Cardoso.
 
 § 1.º A direcção do Montepio Geral converterá o capital em valores que, sob o ponto de vista de segurança e rentabilidade, assegurem os fins da Fundação.
 
 § 2.º A direcção do Montepio Geral poderá substituir os valores que venham a adquirir por outros, sempre que seja necessário ou considerado vantajoso.
 
-###### Art. 9.º Todos os encargos e despesas ocasionados pela realização dos fins da Fundação são custeados pelos rendimentos desta.
+Art. 9.º Todos os encargos e despesas ocasionados pela realização dos fins da Fundação são custeados pelos rendimentos desta.
 
-###### Art. 10.º A direcção, cujas funções são gratuitas, dará execução a todos os fins para que a Fundação foi criada e a todos os demais assuntos que com eles se relacionem, nomeadamente no que respeita à aplicação, guarda e administração de fundos.
+Art. 10.º A direcção, cujas funções são gratuitas, dará execução a todos os fins para que a Fundação foi criada e a todos os demais assuntos que com eles se relacionem, nomeadamente no que respeita à aplicação, guarda e administração de fundos.
 
-###### Art. 11.º Ao Montepio Geral compete anualmente, pela administração da Fundação e como prémio de prestação de serviços, uma taxa idêntica à cobrada dos clientes do Montepio, por administração de valores.
+Art. 11.º Ao Montepio Geral compete anualmente, pela administração da Fundação e como prémio de prestação de serviços, uma taxa idêntica à cobrada dos clientes do Montepio, por administração de valores.
 
-###### Art. 12.º No caso de serem extintas as Escolas a que se refere o artigo 2.º, serão os Prémios atribuídos a alunos dos estabelecimentos escolares que lhes sucederem.
+Art. 12.º No caso de serem extintas as Escolas a que se refere o artigo 2.º, serão os Prémios atribuídos a alunos dos estabelecimentos escolares que lhes sucederem.
 
 Direcção-Geral do Ensino Técnico Profissional, 15 de Junho de 1967. - O Director-Geral, Carlos Proença.

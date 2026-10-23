@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/243/2002/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2002-424731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:33:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9438893a107b13b62a43fbe9d5672a33b4a26fb566246c8dad9b4bbccf135d3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a90211d598f8a10a9fd982a0139f4b5e27aaee16a9dacf5ce16d6105b313ed8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:33:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Conselho Diretivo
 - Definição de Competências
 - Estatuto do Pessoal
 - Extinção de Serviços
-- Conselho Diretivo
 - Instituto de Gestão e Alienação do Património Habitacional do Estado
 - Instituto Nacional de Habitação
 - Integração de Serviços
 - Integração de Trabalhadores
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Transferência de Competências
 - Transferência Patrimonial
@@ -84,6 +84,20 @@ relationships:
   target: pt:dre:551625:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:480916:por
+  label: Alterado o art. 3.º do presente diploma, na redacção dada pelo Dec Lei 240/2003 de 04-Out, pelo DEC LEI.188/2004.17.08.2004.MF,
+    DR.IS-A [193] de 17.08.2004
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/188-2004-480916
+  date: '2004-08-17'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério das Cidades, Administração Local, Habitação e Desenvolvimento Regional\
+    \ do Instituto Nacional de Habitação e do Instituto de Gestão e Alienação do Património Habitacional do Estado (ambos\
+    \ integrados no agora extinto Ministério das Obras Públicas, Transportes e Habitação), pelo presente diploma, pelo DEC\
+    \ LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/204/1998/07/11/p/dre
   label: null
@@ -104,16 +118,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:313416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674051:por
+  label: null
+  source: null
 article_structure:
-  article_count: 55
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 44
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:33:50Z'
   warnings: []
   errors: []
 ---
@@ -286,7 +336,9 @@ i) Conceder apoio técnico a autarquias locais e a outras instituições promoto
 
 j) Gerir, conservar e alienar o parque habitacional, equipamentos e solos que constituem o seu património, no cumprimento da política definida para a habitação de interesse social.
 
-###### Artigo 3.º — Competências
+Artigo 3.º
+
+Competências
 
 1 - Compete ao INH no domínio da administração habitacional e apoio técnico:
 
@@ -342,7 +394,9 @@ f) Propor medidas com vista à uniformização da gestão do parque habitacional
 
 g) Desempenhar outras funções atribuídas por lei.
 
-###### Artigo 4.º — Tutela
+Artigo 4.º
+
+Tutela
 
 1 - ...
 
@@ -362,7 +416,9 @@ b) Autorizar a contracção de empréstimos, em moeda nacional ou estrangeira, b
 
 3 - ...
 
-###### Artigo 8.º — Regime de exercício de funções
+Artigo 8.º
+
+Regime de exercício de funções
 
 1 - ...
 
@@ -378,7 +434,9 @@ b) Autorizar a contracção de empréstimos, em moeda nacional ou estrangeira, b
 
 7 - Os membros que não exerçam funções em regime de requisição ou comissão de serviço ficam sujeitos ao regime geral da segurança social.
 
-###### Artigo 9.º — Competência
+Artigo 9.º
+
+Competência
 
 1 - ...
 
@@ -408,7 +466,9 @@ l) ...
 
 3 - ...
 
-###### Artigo 13.º — Composição
+Artigo 13.º
+
+Composição
 
 1 - ...
 
@@ -432,7 +492,9 @@ g) Por um representante de cada uma das entidades que detêm títulos de partici
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 14.º — Competências
+Artigo 14.º
+
+Competências
 
 ...
 
@@ -442,7 +504,9 @@ b) As medidas de política no domínio da habitação de interesse social;
 
 c) ...
 
-###### Artigo 18.º — Capital
+Artigo 18.º
+
+Capital
 
 1 - O INH dispõe de um capital inicial (euro) 75503037,68.
 
@@ -462,7 +526,9 @@ c) ...
 
 9 - (Anterior n.º 10.)
 
-###### Artigo 19.º — Outras receitas
+Artigo 19.º
+
+Outras receitas
 
 ...
 
@@ -486,7 +552,9 @@ i) [Anterior alínea f).]
 
 j) [Anterior alínea g).]
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -502,13 +570,17 @@ j) [Anterior alínea g).]
 
 7 - ...
 
-###### Artigo 21.º — Quadros de pessoal
+Artigo 21.º
+
+Quadros de pessoal
 
 1 - O quadro de pessoal do INH é aprovado por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação.
 
 2 - O INH dispõe ainda de um quadro transitório de pessoal abrangido pelo regime jurídico da função pública, aprovado por portaria conjunta dos membros do Governo referidos no número anterior, para os funcionários que hajam transitado do IGAPHE ou que sejam colocados nos termos do artigo 6.º do diploma que opera a fusão e que não tenham optado pela celebração de contrato individual de trabalho, cujos lugares serão extintos à medida que vagarem.
 
-###### Artigo 22.º — Estatuto do pessoal
+Artigo 22.º
+
+Estatuto do pessoal
 
 1 - ...
 
@@ -546,17 +618,19 @@ O [Decreto-Lei n.º 202-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-le
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 14 de Outubro de 2002.**
+Promulgado em 14 de Outubro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Outubro de 2002.**
+Referendado em 22 de Outubro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Natureza e atribuições
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/10/20800/75397548.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/215/2006/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2006-545647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f5d3045d080e395adbdf80d3baad782aa20fbf7ced992708615c051ee86434c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1739802d6370700e3458a05eaae35e4bfdd64cc2aa2873a156847f78fbb41d0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,75 +65,98 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário Geral Adjunto
-- Reestruturação de Serviços
-- Direcção Geral do Livro e das Bibliotecas
-- Instituto dos Museus e da Conservação
-- Pessoal Dirigente
-- Instituto do Cinema e do Audiovisual
-- Inspecção Geral das Actividades Culturais
-- Opart
-- Fundação
+- Academia Internacional da Cultura Portuguesa
+- Academia Nacional de Belas-artes
+- Academia Portuguesa de História
+- Biblioteca Nacional de Portugal
+- Centro Português de Fotografia
+- Cinemateca Portuguesa-Museu do Cinema
+- Companhia Nacional de Bailado
 - Conselho de Museus
+- Conselho Nacional de Cultura
 - Conselho Nacional do Direito de Autor
 - Conselho Superior de Arquivos
 - Conselho Superior de Bibliotecas
 - Controlador Financeiro
-- Igespar
 - Criação de Serviços
 - Definição de Competências
 - Delegação Regional da Cultura do Alentejo
 - Delegação Regional da Cultura do Algarve
 - Delegação Regional da Cultura do Centro
 - Delegação Regional da Cultura do Norte
-- Centro Português de Fotografia
-- Instituto das Artes
+- Direcção Geral das Artes
+- Direcção Geral do Livro e das Bibliotecas
+- Direcção Geral dos Arquivos
 - Direcção Regional de Cultura de Lisboa e VALE do TEJO
+- Direcção Regional de Cultura do Alentejo
 - Direcção Regional de Cultura do Algarve
+- Direcção Regional de Cultura do Centro
 - Direcção Regional de Cultura do Norte
 - Diretor Geral
 - Diretor Regional
 - Extinção de Serviços
-- Cinemateca Portuguesa-Museu do Cinema
-- Setor Empresarial do Estado
-- Secretaria Geral
-- Ministério da Cultura
-- Conselho Nacional de Cultura
-- Inspetor Geral
+- Fundação
+- Gabinete de Relações Culturais Internacionais
+- Gabinete do Direito de Autor
 - ICAM
+- Igespar
+- Inspecção Geral das Actividades Culturais
+- Inspetor Geral
+- Instituto das Artes
+- Instituto do Cinema e do Audiovisual
 - Instituto dos Arquivos Nacionais-torre do Tombo
+- Instituto dos Museus e da Conservação
 - Instituto Português de Arqueologia
 - Instituto Português de Conservação e Restauro
 - Instituto Português de Museus
 - Instituto Português do Livro e das Bibliotecas
 - Integração de Serviços
-- Academia Nacional de Belas-artes
-- Biblioteca Nacional de Portugal
-- Direcção Geral das Artes
-- Direcção Geral dos Arquivos
-- Direcção Regional de Cultura do Alentejo
-- Direcção Regional de Cultura do Centro
-- Gabinete do Direito de Autor
-- Companhia Nacional de Bailado
+- Ministério da Cultura
+- Opart
 - Orgânica
 - Orquestra Nacional do Porto
-- Teatro Nacional de São Carlos
+- Pessoal Dirigente
 - Piddac
 - Quadro de Pessoal
-- Gabinete de Relações Culturais Internacionais
+- Rede Portuguesa de Museus
+- Reestruturação de Serviços
+- Secretaria Geral
 - Secretário Geral
+- Secretário Geral Adjunto
+- Setor Empresarial do Estado
 - Subdirector Geral
 - Subinspector Geral
 - Teatro Nacional de DONA Maria II
+- Teatro Nacional de São Carlos
 - Teatro Nacional de são JOÃO
-- Rede Portuguesa de Museus
-- Academia Internacional da Cultura Portuguesa
-- Academia Portuguesa de História
 relationships:
 - type: amended_by
   target: pt:dre:642010:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332745:por
+  label: "Alterados os arts. 12.º e 19.º, bem como os anexos I e II, pelo DEC LEI.59/2010.07.06.2010.MC, DR.IS [109] de 07.06.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2010-332745
+  date: '2010-06-07'
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Extinto o Ministério da Cultura, e determinada a transição para a Presidência do Conselho de Ministros dos organismos,\
+    \ entidades e estruturas identificados no presente diploma, alterado pelo Dec Lei 59/2010 de 07-Jun, assim como de todos\
+    \ os serviços, organismos e estruturas que não tenham sido expressamente incorporados em outros ministérios pelo DEC LEI.86-A/2011.12.07.2011.PCM,\
+    \ DR.IS [132-Supl] de 12.07.2011, nos termos do nº 3 do seu art. 10º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amended_by
+  target: pt:dre:642010:por
+  label: "Determinado, que a Companhia Nacional de Bailado, institucionalizada pelo Dec Lei 460/82 de 26-Nov, transformada\
+    \ conjuntamente com o Teatro Nacional de S. Carlos, como E.P.E, denominada OPART - Organismo de Produção Artística, EPE,\
+    \ pelo presente diploma, seja objecto de cisão da OPART - Organismo de Produção Artística, E. P. E., e transformada em\
+    \ entidade pública empresarial, que passa a denominar-se Companhia Nacional de Bailado, E. P. E., pelo DEC LEI.126-A/2011.29.12.2011.PCM,\
+    \ DR.IS [249-Supl] de 29.12.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-a-2011-642010
+  date: '2011-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/33/2006/02/17/p/dre
   label: null
@@ -150,16 +173,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:240610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683408:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:642010:por
+  label: "Revogado, na redação do Dec Lei 59/2010 de 07-Jun, pelo DEC LEI.126-A/2011.29.12.2011.PCM, DR.IS [249-Supl] de 29.12.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-a-2011-642010
+  date: '2011-12-29'
 article_structure:
   article_count: 31
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:53Z'
   warnings: []
   errors: []
 ---
@@ -720,20 +769,20 @@ Ao IGESPAR, I. P., e ao IMC, I. P., é atribuído, nos termos do n.º 4 do artig
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.
 
-**Promulgado em 19 de Outubro de 2006.**
+Promulgado em 19 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 23 de Outubro de 2006.**
+Referendado em 23 de Outubro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Cargos de direcção superior da administração directa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20800/75397548.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20800/75397548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/75397548.pdf)
 
 ## ANEXO II — Dirigentes de organismos da administração indirecta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20800/75397548.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20800/75397548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/75397548.pdf)

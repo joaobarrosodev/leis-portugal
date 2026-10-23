@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/102-1990-557831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T07:44:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbaa559024f0b1b25a0cb7bb2346eaa54df85971a5e9d73b32d197532adfca23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5a444acdd2608f3e9328b8c1fb83ec02a3ea1ef16790c6727654a8333e3d16d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:44:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino Oficial
+- Ensino Particular
+- Quadro de Excelência
+- Quadro de Valor
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:565230:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:354116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:624209:por
+  label: Rectificado o anexo, reltivamente aos títulos dos nºs 6º, 9º e 10º pela DECL.DD3138.1990.10.23.PCM, DR.IS [252]2ºSupl
+    de 31.10.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-624209
+  date: '1990-10-23'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:44:22Z'
   warnings: []
   errors: []
 ---

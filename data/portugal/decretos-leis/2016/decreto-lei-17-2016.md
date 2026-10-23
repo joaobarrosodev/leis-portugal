@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/04/06500/0112301127.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/17/2016/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2016-74007250
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56eba77878e05d045e8941dda048c1b7806a25dbb0250f0be46d0f4df63dc3c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb6c6e8c25314a578e9f65caac0172645071e018737b79a5f3778e0910a656fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,26 +69,26 @@ reuse:
 subjects:
 - Agrupamento de Escolas
 - Aprendizagem
-- Ministério da Educação
+- Avaliação de Conhecimentos
 - Conselho Pedagógico
-- Língua Portuguesa
+- Currículo Nacional
 - Direcção Escolar
 - Diretor
 - Disciplina de Educação Moral e Religiosa
+- Ensino
+- Ensino Básico
 - Ensino Cooperativo
 - Ensino Particular
+- Ensino Secundário
+- Estabelecimento de Ensino
 - Gestão Escolar
 - Insucesso Escolar
-- Ensino Secundário
 - JURI Nacional de Exames
+- Língua Portuguesa
 - Matemática
-- Currículo Nacional
-- Ensino
-- Estabelecimento de Ensino
+- Ministério da Educação
 - Pessoal Docente
-- Ensino Básico
 - Prova de Aferição
-- Avaliação de Conhecimentos
 - Regime Jurídico
 relationships:
 - type: amended_by
@@ -119,16 +119,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/85/2009/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/85/2009/08/27/p/dre
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64297587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:115652962:por
+  label: Revogado, a partir de 07.07.2018, o Dec Lei 139/2012 de 05-jul, com a redação dada pelo presente, pelo(a) Decreto-Lei
+    n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06, sem prejuízo da vigência das normas relativas a
+    cursos de educação e formação de adultos e a ensinos básico e secundário na modalidade de ensino recorrente, nos termos
+    do art. 36.º e de acordo com a calendarização de produção de efeitos fixada no art. 38.º, ambos do Dec Lei 55/2018.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2018-115652962
+  date: '2018-07-06'
 article_structure:
-  article_count: 16
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:41Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +215,9 @@ Os artigos 1.º, 3.º, 4.º e 23.º a 26.º do [Decreto-Lei n.º 139/2012](https
 
 2 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -221,7 +259,9 @@ r) [Anterior alínea o).]
 
 s) [Anterior alínea p).]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -229,7 +269,9 @@ s) [Anterior alínea p).]
 
 3 - O calendário escolar e as regras a que deve obedecer a organização do ano letivo são estabelecidos por despacho do membro do Governo responsável pela área da educação.
 
-###### Artigo 23.º — Finalidades
+Artigo 23.º
+
+Finalidades
 
 1 - A avaliação constitui um processo regulador do ensino e da aprendizagem, que orienta o percurso escolar dos alunos e certifica as aprendizagens desenvolvidas.
 
@@ -249,7 +291,9 @@ c) Certificar aprendizagens.
 
 6 - ...
 
-###### Artigo 24.º — Avaliação das aprendizagens
+Artigo 24.º
+
+Avaliação das aprendizagens
 
 1 - A avaliação interna das aprendizagens, da responsabilidade dos professores e dos órgãos de gestão pedagógica da escola, compreende as seguintes modalidades de avaliação:
 
@@ -271,7 +315,9 @@ c) Exames finais nacionais.
 
 4 - (Revogado.)
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - A evolução do processo educativo dos alunos no ensino básico assume uma lógica de ciclo, progredindo para o ciclo imediato o aluno que tenha desenvolvido as aprendizagens definidas para cada ciclo de ensino.
 
@@ -291,7 +337,9 @@ c) Exames finais nacionais.
 
 9 - (Revogado.)
 
-###### Artigo 26.º — Escala de avaliação
+Artigo 26.º
+
+Escala de avaliação
 
 1 - No 1.º ciclo do ensino básico, a informação resultante da avaliação sumativa materializa-se na atribuição de uma menção qualitativa acompanhada de uma apreciação descritiva em todas as áreas curriculares.
 
@@ -317,7 +365,9 @@ Avaliação interna das aprendizagens
 
 4 - A avaliação definida no n.º 2 é a principal modalidade de avaliação e permite obter informação privilegiada e sistemática nos diversos domínios curriculares, devendo fundamentar o apoio às aprendizagens, nomeadamente à autorregulação dos percursos dos alunos em articulação com dispositivos de informação dirigidos aos encarregados de educação.
 
-###### Artigo 24.º-B — Avaliação externa das aprendizagens
+Artigo 24.º-B
+
+Avaliação externa das aprendizagens
 
 1 - As provas de aferição, de aplicação universal e obrigatória, a realizar no final do 2.º, do 5.º e do 8.º anos de escolaridade, permitem:
 
@@ -331,13 +381,17 @@ c) Potenciar uma intervenção pedagógica atempada, dirigida às dificuldades i
 
 3 - Os exames finais nacionais têm como objetivo avaliar o desempenho dos alunos e certificar a conclusão do ensino secundário nas ofertas formativas que prevejam avaliação externa das aprendizagens, podendo ainda ser considerados para efeitos de acesso ao ensino superior.
 
-###### Artigo 24.º-C — Intervenientes no processo de avaliação
+Artigo 24.º-C
+
+Intervenientes no processo de avaliação
 
 1 - Na avaliação das aprendizagens intervêm todos os professores envolvidos, assumindo particular responsabilidade o professor titular de turma, no 1.º ciclo, e os professores que integram o conselho de turma, nos 2.º e 3.º ciclos do ensino básico e no ensino secundário.
 
 2 - A escola deve assegurar a participação informada dos alunos e dos pais e encarregados de educação no processo de avaliação das aprendizagens, promovendo, de forma sistemática, a partilha de informações, o envolvimento e a responsabilização dos vários intervenientes, de acordo com as características da sua comunidade educativa.
 
-###### Artigo 26.º-A — Progressão e retenção
+Artigo 26.º-A
+
+Progressão e retenção
 
 1 - Em situações em que o aluno não desenvolva as aprendizagens definidas para o ano de escolaridade que frequenta, o professor titular de turma, no 1.º ciclo, ouvido o conselho de docentes, ou o conselho de turma, nos 2.º e 3.º ciclos, deve propor as medidas necessárias para superar as dificuldades detetadas no percurso escolar do aluno.
 
@@ -383,19 +437,19 @@ São revogados o n.º 5 do artigo 23.º, os n.os 3 e 4 do artigo 24.º, os n.os 
 
 Visto e aprovado em Conselho de Ministros de 17 de março de 2016. - Maria Manuel de Lemos Leitão Marques - Carolina Maria Gomes Ferra - Tiago Brandão Rodrigues.
 
-**Promulgado em 23 de março de 2016.**
+Promulgado em 23 de março de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de março de 2016.**
+Referendado em 23 de março de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 5.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/04/06500/0112301127.pdf))](https://files.diariodarepublica.pt/1s/2016/04/06500/0112301127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/04/06500/0112301127.pdf)
 
 ## ANEXO II — (a que se refere o n.º 3 do artigo 5.º)
 

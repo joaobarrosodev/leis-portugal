@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/278a00/69096913.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/311/2000/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-2000-599111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a26dd424c31bf827668072008403255712c7b32645848bc381e6056fd437ed2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ac747b8764598e53cef74db891e87be2bd9727973a32ac65bcb2acf9ee8aad7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,13 @@ relationships:
   target: pt:dre:521009:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:521009:por
+  label: "Determinada a sucessão do Gabinete de Planeamento, Estratégia e Relações Internacionais (GPERI) nas atribuições\
+    \ do Gabinete de Estudos e Planeamento (que se extingue) constantes do presente diploma, que é revogado a partir de 01.05.2007,\
+    \ nos termos do art. 5º do Dec Lei 201/2006 de 27-Out, pelo DR.59/2007.27.04.2007.MOPTC, DR.IS [82] de 27.04.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/59-2007-521009
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/129/2000/07/13/p/dre
   label: null
@@ -83,16 +90,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/16/1992/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/16/1992/07/22/p/dre
+- type: cites
+  target: pt:dre:292516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319933:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:296393:por
+  label: "Rectificada pela DECL-RECT.16-F/2000.2000.11.30.PCM DR.IS-A [277]3ºSUPL DE 30/DEZ/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-f-2000-296393
+  date: '2000-11-30'
 article_structure:
-  article_count: 14
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 13
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:18Z'
   warnings: []
   errors: []
 ---
@@ -219,7 +239,9 @@ a) A Divisão de Estudos, que exerce as competências definidas nas alíneas a),
 
 b) A Divisão de Planeamento e Prospectiva, que exerce as competências definidas nas alíneas e), f), g) e h).
 
-###### Artigo 8.º — Divisão Administrativa
+###### Artigo 8.º
+
+##### Divisão Administrativa
 
 1 - À Divisão Administrativa compete:
 
@@ -285,7 +307,7 @@ Para a prossecução das suas atribuições, o GEP articula-se com os serviços 
 
 2 - O quadro do restante pessoal do GEP consta de portaria conjunta a aprovar pelos Ministros do Equipamento Social e das Finanças e ainda pelo membro do Governo que tutela a Administração Pública.
 
-###### Artigo 12.ºTransição de pessoal
+Artigo 12.ºTransição de pessoal
 
 1 - Transita, na mesma carreira, categoria e escalão, para o quadro de pessoal do GEP a que se refere o n.º 2 do artigo 11.º o pessoal actualmente provido no quadro de pessoal do Gabinete de Coordenação dos Investimentos, aprovado pelo [Decreto Regulamentar n.º 16/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1992-292516), de 22 de Julho, com as alterações posteriormente introduzidas.
 
@@ -307,13 +329,13 @@ Para a prossecução das suas atribuições, o GEP articula-se com os serviços 
 
 Visto e aprovado em Conselho de Ministros de 26 de Outubro de 2000. - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes Pina Moura - Alberto de Sousa Martins.
 
-**Promulgado em 21 de Novembro de 2000.**
+Promulgado em 21 de Novembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Novembro de 2000.**
+Referendado em 23 de Novembro de 2000.
 
 Pelo Primeiro-Ministro, Jorge Paulo Sacadura Almeida Coelho, Ministro de Estado.
 

@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/87-1988-354161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T07:41:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e337b2045f6cc7ff559c0743cc335ea83de5fc15d0c90d9c7dfd99eb60470087
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ff8c8656f80adaf0a988814d1b48bb82b3acd89c917a18af561f162ed7cae6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:41:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Circulação de Mercadorias
+- Comércio Externo
+- Declaração de Exportação
+- Exportação
 relationships:
 - type: amended_by
   target: pt:dre:557000:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:557000:por
+  label: "Alterados os nºs 5 e 12, pelo DN.87/90.30.08.1990.MF, DR.IS [200] de 30.08.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/87-1990-557000
+  date: '1990-08-30'
+- type: cites
+  target: pt:dre:219973:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374776:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:41:16Z'
   warnings: []
   errors: []
 ---

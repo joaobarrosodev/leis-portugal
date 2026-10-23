@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/474-1977-251047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T05:23:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6cd597a623df06d0fca5e455efe216d767a2df432223bf3b7ef2e5bf9d204ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92f9f0e28b461b7bb62dbc3910b8dabc1640f66b3d4b71cbb4b568a768b6e7b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:23:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ação Social Escolar
+- Ensino Preparatório
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Jurisdição
+- ZONA Pedagógica
+relationships:
+- type: cites
+  target: pt:dre:492678:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:23:17Z'
   warnings: []
   errors: []
 ---
@@ -235,4 +245,4 @@ Zona 2 - concelhos de Cinfães, Armamar, Lamego, Moimenta da Beira, Penedono, Re
 
 Zona 3 - concelhos de Mortágua, Nelas, Carregal do Sal, Canas de Senhorim, Tondela e Santa Comba Dão.
 
-**O Ministro da Educação e Investigação Científica, Mário Augusto Sottomayor Leal Cardia.**
+O Ministro da Educação e Investigação Científica, Mário Augusto Sottomayor Leal Cardia.

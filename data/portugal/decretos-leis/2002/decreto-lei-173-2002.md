@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/173/2002/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2002-197357
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 182f1462dc6ecee7b79a864d2743cb8f389b811a245e97c7d7c6ee85f400cb66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54300f09e562125e3a62fd4573ce35244f49bd93449233b5b0402959e961589d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
+- Agricultura
 - Ajuda Comunitária
-- Financiamento
 - Azeite
 - Feoga
-- Tabaco
-- Ruris
+- Financiamento
 - Política Agrícola Comum
-- Agricultor
 - Regulamento CE
-- Agricultura
+- Ruris
+- Tabaco
 relationships:
 - type: cites
   target: celex:31999R1259
@@ -92,13 +92,13 @@ relationships:
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:17Z'
   warnings: []
   errors: []
 ---
@@ -127,12 +127,12 @@ São revogados os Decretos-Leis n.os 34/2001, de 8 de Fevereiro, e 281/2001, de 
 
 Visto e aprovado em Conselho de Ministros de 6 de Junho de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 9 de Julho de 2002.**
+Promulgado em 9 de Julho de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Julho de 2002.**
+Referendado em 15 de Julho de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

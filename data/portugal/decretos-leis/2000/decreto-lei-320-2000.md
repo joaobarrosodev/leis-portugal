@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/320/2000/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2000-583436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5505d5f85a2daa4844f27d5f57b44cefdd4b6b874f0ee11479fb1bb16c6b2e72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2441121331931ceb9785c74bc19cde4e713b2411556bc636ff8bdee0d3158bb5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,48 @@ reuse:
 subjects:
 - Amortização
 - Aquisição de Imóveis
-- Garantia
-- Instituição de Crédito
-- Propriedade Horizontal
-- Obras de Conservação e Restauro
 - Conta Poupança-habitação
 - Contrato de Mútuo
 - Crédito à Habitação
 - Crédito Bonificado
 - Emolumento
 - Fiscalização
+- Garantia
+- Habitação
+- Instituição de Crédito
 - Jovem
 - JURO Bonificado
 - Juros
+- Obras de Conservação e Restauro
 - Política de Crédito
 - Política de Habitação
+- Propriedade Horizontal
 - Regime Jurídico
-- Habitação
 - TAXA de JURO
 relationships:
 - type: amended_by
   target: pt:dre:632448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:519977:por
+  label: "Alterado o art. 13º do dec Lei 349/98 de 11-Nov, na redacção do presente diploma, pelo DEC LEI.107/2007.10.04.2007.MFAP,\
+    \ DR.IS [70] de 10.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2007-519977
+  date: '2007-04-10'
+- type: amended_by
+  target: pt:dre:489726:por
+  label: "Alterado, a partir de 10.12.2009, o art. 23.º do Dec Lei 349/98, de 11-Nov, na redacção do presente diploma, pelo\
+    \ DEC LEI.222/2009.11.09.2009.MEI, DR.IS [177] de 11.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-2009-489726
+  date: '2009-09-11'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Determinada a cessação, durante o ano de 2013, para os titulares de património financeiro superior a € 100 000,\
+    \ dos benefícios fiscais provenientes do regime de crédito à habitação bonificado previsto no Dec Lei 349/98 de 11-nov,\
+    \ alterado pelo presente diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1-a/2000/01/22/p/dre
   label: null
@@ -127,16 +146,97 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/672/1993/07/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/672/1993/07/19/p/dre
+- type: cites
+  target: pt:dre:148780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667938:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:429177:por
+  label: "Revogados, na sua actual redacção, os regimes de crédito bonificado e crédito jovem bonificado, relativamente à\
+    \ contratação de novas operações de crédito, destinadas à aquisição, construção e realização de obras de conservação ordinária,\
+    \ extraordinária e de beneficiação de habitação própria permanente, regulado pelo Dec Lei 349/98, de 11-Nov, com as alterações\
+    \ constantes do presente diploma e dos Dec Leis 137-B/99, de 22-Abr, 1-A/2000, de 22-Jan e 231/2002, de 02-Nov, pelo DEC\
+    \ LEI.305/2003.09.12.2003.MF, DR.IS-A [283] de 09.12.2003\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/305-2003-429177
+  date: '2003-12-09'
 article_structure:
-  article_count: 66
+  article_count: 48
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:32Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +269,9 @@ Os artigos 3.º, 4.º, 7.º, 8.º, 9.º, 11.º, 12.º, 13.º, 14.º, 17.º, 20.�
 
 3 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 ...
 
@@ -195,13 +297,17 @@ j) ...
 
 l) ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
 2 - Sem prejuízo de quaisquer outros sistemas de amortização dos empréstimos, devem as instituições de crédito competentes apresentar aos interessados o sistema de prestações constantes.
 
-###### Artigo 8.º — Acesso e permanência no regime bonificado
+Artigo 8.º
+
+Acesso e permanência no regime bonificado
 
 1 - O acesso ao regime de crédito bonificado depende do preenchimento cumulativo das seguintes condições:
 
@@ -239,7 +345,9 @@ c) Antes de decorrido o prazo previsto na alínea anterior, emitir procurações
 
 4 - O incumprimento das condições previstas nos números anteriores determina a imediata integração do mutuário no regime geral de crédito, sem prejuízo, sendo caso disso, da aplicabilidade do regime quanto a falsas declarações.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -247,7 +355,9 @@ c) Antes de decorrido o prazo previsto na alínea anterior, emitir procurações
 
 3 - As demais condições necessárias à aplicação do disposto no n.º 1 do presente artigo serão objecto de regulamentação por portaria conjunta do Ministro das Finanças e do ministro responsável pela matéria relativa à habitação.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Por portaria do Ministro das Finanças e do ministro responsável pela matéria relativa à habitação, serão fixados os valores máximos da habitação a adquirir ou a construir, bem como o custo máximo das obras de conservação ordinária e extraordinária ou de beneficiação a realizar, para efeitos de acesso a credito à habitação bonificado.
 
@@ -267,7 +377,9 @@ a) De requerimento a apresentar na instituição de crédito, devendo ser instru
 
 b) De declaração dos interessados, sob compromisso de honra, em como não são titulares de outro empréstimo em qualquer regime de crédito regulado no presente diploma, salvo as excepções nele previstas, bem como em que autorizam as entidades competentes para o acompanhamento, verificação e fiscalização do cumprimento do disposto no presente diploma a acederem às informações necessárias para o efeito.
 
-###### Artigo 12.º — Alienação do imóvel
+Artigo 12.º
+
+Alienação do imóvel
 
 1 - Os mutuários do regime bonificado não podem alienar o fogo durante o prazo de cinco anos após a data da concessão de empréstimo para aquisição, construção ou realização de obras em habitação própria permanente.
 
@@ -289,7 +401,9 @@ b) Perda de emprego ou morte de um dos titulares do empréstimo.
 
 8 - Por portaria do Ministro das Finanças e do ministro responsável pela matéria relativa à habitação, serão regulamentadas as demais condições que se mostrem necessárias à aplicação do disposto no presente artigo.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -297,11 +411,15 @@ b) Perda de emprego ou morte de um dos titulares do empréstimo.
 
 3 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 Ao regime de crédito jovem bonificado têm acesso os agregados familiares que preencham as condições definidas nos artigos 8.º e 9.º quando, à data da aprovação do empréstimo, nenhum dos titulares tenha mais de 30 anos de idade.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -315,13 +433,17 @@ Ao regime de crédito jovem bonificado têm acesso os agregados familiares que p
 
 6 - Os juros decorrentes dos empréstimos intercalares são suportados pelo mutuário, até à data da respectiva amortização.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A taxa de juro é livremente negociada entre as partes.
 
 2 - (Anterior n.º 3.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -331,7 +453,9 @@ Ao regime de crédito jovem bonificado têm acesso os agregados familiares que p
 
 4 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -345,7 +469,9 @@ c) [Anterior alínea d).]
 
 3 - As instituições de crédito devem apresentar ao mutuário uma simulação do plano financeiro do empréstimo, a qual terá em conta as condições vigentes à data da aprovação do crédito.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -359,7 +485,9 @@ c) [Anterior alínea d).]
 
 6 - O disposto nos n.os 4 e 5 do presente artigo aplica-se às entidades pagadoras das bonificações relativas a crédito bonificado concedido nos territórios das Regiões Autónomas dos Açores e da Madeira.
 
-###### Artigo 26.º-A — [...]
+Artigo 26.º-A
+
+[...]
 
 1 - ...
 
@@ -371,11 +499,15 @@ c) [Anterior alínea d).]
 
 5 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 O método de apuramento da 'taxa de referência para o cálculo de bonificações', a suportar pelo Orçamento do Estado ao abrigo do presente diploma, será fixado por portaria do Ministro das Finanças e do ministro responsável pela matéria relativa à habitação.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -405,7 +537,9 @@ c) Considerar um prazo de empréstimo que permita fazer coincidir o respectivo t
 
 9 - O Ministro das Finanças e o ministro responsável pela matéria relativa à habitação, por portaria conjunta, poderão fixar outras condições a que devam obedecer as operações de crédito previstas neste artigo.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 Os empréstimos contratados ao abrigo dos Decretos-Leis n.os [435/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/435-1980-461593), de 2 de Outubro, e [459/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1983-314074), de 30 de Dezembro, poderão transitar, a solicitação dos mutuários, para o regime instituído pelo presente diploma, em condições a definir em portaria conjunta do Ministro das Finanças e do ministro responsável pela matéria relativa à habitação.»
 
@@ -419,7 +553,9 @@ Falsas declarações
 
 A prestação de falsas declarações atinentes às condições de acesso e permanência nos regimes bonificados determina a imediata integração dos mutuários nas condições do regime geral de crédito, para além da obrigatoriedade de reembolso ao Estado das bonificações auferidas ao longo da vigência do empréstimo, acrescidas de 25%.
 
-###### Artigo 29.º-B — Inscrição no registo predial
+Artigo 29.º-B
+
+Inscrição no registo predial
 
 1 - Do registo predial de imóveis que sejam adquiridos, construídos, conservados ou beneficiados com recurso a crédito à habitação bonificado devem constar os ónus previstos nos artigos 8.º, n.º 3, e 12.º do presente diploma.
 
@@ -479,15 +615,15 @@ O [Decreto-Lei n.º 349/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 Visto e aprovado em Conselho de Ministros de 21 de Setembro de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes Pina Moura.
 
-**Promulgado em 31 de Outubro de 2000.**
+Promulgado em 31 de Outubro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Novembro de 2000.**
+Referendado em 3 de Novembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — [Decreto-Lei n.º 349/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), de 11 de Novembro
 

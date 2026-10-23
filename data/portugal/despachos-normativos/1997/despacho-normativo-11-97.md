@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/11/1997/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-1997-513180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T08:31:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31aab41d5061cba240a61ded64bd7efe702fb75495015589385fae5065afe156
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81afc2f3a37475301394fdb614add3331909b80ce1432e05fc03fa768db09b61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:31:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,20 +79,34 @@ relationships:
   target: pt:dre:224987:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:224987:por
+  label: "Introduzidos ajustamentos ao disposto no nº 1 pelo DN.8/98.30.01.1998.MADRP, DR.IS-B [25] de 30.01.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-1998-224987
+  date: '1998-01-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/43-a/1996/10/28/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/43-a/1996/10/28/p/dre
+- type: cites
+  target: pt:dre:598160:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:602490:por
+  label: "Rectificado pela DECL-RECT.6-L/97.1997.03.31.PCM, DR.IS-B [75]2ºSupl de 1997.03.31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/6-l-1997-602490
+  date: '1997-03-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:31:09Z'
   warnings: []
   errors: []
 ---

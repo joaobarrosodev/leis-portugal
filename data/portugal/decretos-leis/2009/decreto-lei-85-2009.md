@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85/2009/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2009-603260
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:11:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0217bdacd0c26a52dc6b87b9d138755b07d4dc3f44cdf90b730801d8168660ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9043d53b59118433e7b4e232895e15ce2d4506ed37e4e60ca5ae7b680b2dcc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:11:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Organização Territorial
-- QREN
 - ÁREA Metropolitana
 - Associação de Municípios
 - Nomenclatura das Unidades Territoriais para Fins Estatísticos
+- Organização Territorial
+- QREN
 - Unidade Territorial
 relationships:
 - type: amended_by
   target: pt:dre:343580:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343580:por
+  label: "Alterados, no que diz respeito às unidades territoriais do Pinhal Interior Sul e do Médio Tejo, o anexo I, e no\
+    \ que diz respeito ao município de Mação, o anexo II, ambos do Dec Lei 68/2008, de 14-Abr, na redacção do presente diploma,\
+    \ pela LEI.21/2010.23.08.2010.AR, DR.IS [163] de 23.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/21-2010-343580
+  date: '2010-08-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/68/2008/04/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/68/2008/04/14/p/dre
+- type: cites
+  target: pt:dre:249814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:11:26Z'
   warnings: []
   errors: []
 ---
@@ -131,13 +146,13 @@ Unidade territorial do Alentejo Central
 
 Alandroal, Arraiolos, Borba, Estremoz, Évora, Montemor-o-Novo, Mora, Mourão, Portel, Redondo, Reguengos de Monsaraz, Vendas Novas, Viana do Alentejo e Vila Viçosa.»
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06600/0208302083.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06600/0208302083.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06600/0208302083.pdf)
 
 Municípios do continente por NUTS III
 
 (ordenação por município)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06600/0208302083.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06600/0208302083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06600/0208302083.pdf)
 
 ###### Artigo 2.º — Entrada em vigor
 
@@ -145,12 +160,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Francisco Carlos da Graça Nunes Correia.
 
-**Promulgado em 26 de Março de 2009.**
+Promulgado em 26 de Março de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de Março de 2009.**
+Referendado em 27 de Março de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

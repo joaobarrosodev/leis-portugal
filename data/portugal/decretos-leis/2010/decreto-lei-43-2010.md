@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/43/2010/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2010-614285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 108439541318d344f733483cabbca27b5580fb2b296be27dd695810ebb5099b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc0610a7c8811e1771078d792926cff83243994ecd977f10ed2c73cc0c7d82b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Definição de Competências
-- Jovem
-- Gestão Orçamental
-- Segurança da Informação
-- Instituto da Habitação e da Reabilitação Urbana
-- Programa Porta 65-arrendamento por Jovens
-- Habitação
-- Dados Pessoais
 - Arrendamento Urbano para Habitação
+- Dados Pessoais
+- Definição de Competências
+- Financiamento
+- Gestão Orçamental
+- Habitação
+- Instituto da Habitação e da Reabilitação Urbana
+- Jovem
+- Programa Porta 65-arrendamento por Jovens
+- Segurança da Informação
 - Subsídio não Reembolsável
 relationships:
 - type: amended_by
   target: pt:dre:205557210:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:108021182:por
+  label: Alterados os arts. 4.º, 12.º, 13.º e 24.º do Dec Lei 308/2007, de 03-set, na versão republicada pelo presente diploma
+    pelo(a) Lei n.º 87/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18, nos termos do art. 6.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-2017-108021182
+  date: '2017-08-18'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Alterado o art. 26.º do Dec Lei 308/2007 de 03-set, na versão republicada pelo presente diploma, pelo(a) Lei n.º
+    114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
+- type: amended_by
+  target: pt:dre:205557210:por
+  label: Alterados, a partir de 31.12.2022, com efeitos a 01.01.2023, os arts. 3.º, 5.º (os mecanismos de interoperabilidade
+    previstos no n.º 11 deste último produzem efeitos a 31.10.2023), 6.º (os mecanismos de interoperabilidade previstos no
+    n.º 5 deste último produzem efeitos a 31.10.2023), 7.º, 8.º, 19.º, 20.º (os mecanismos de interoperabilidade previstos
+    neste último produzem efeitos a 31.10.2023) e 29.º , aditado o art. 6.º-A e revogados o n.º 6 do art. 7.º, o art. 9.º
+    e o n.º 2 do art. 29.º do Dec Lei 308/2007 de 03-set, na versão republicada pelo presente diploma pelo(a) Decreto-Lei
+    n.º 90-C/2022 - Diário da República n.º 251/2022, 4º Suplemento, Série I de 2022-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-c-2022-205557210
+  date: '2022-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/1992/08/05/p/dre
   label: null
@@ -102,16 +124,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/835/1992/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/835/1992/08/28/p/dre
+- type: cites
+  target: pt:dre:260136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641166:por
+  label: null
+  source: null
 article_structure:
-  article_count: 51
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 37
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:03Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +206,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 12.º, 13.º, 14.º, 15.º
 
 4 - O disposto no número anterior é aplicável aos casos em que um dos elementos do casal completa 32 anos durante o prazo em que beneficia do apoio.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Considera-se rendimento mensal bruto (RM) o valor correspondente à soma dos rendimentos brutos das categorias A e B, nos termos do Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS), auferido pelo jovem e por todos os membros do agregado jovem, definidos de acordo com o disposto nos n.os 4 a 8.
 
@@ -196,7 +240,9 @@ b) Quaisquer outras prestações compensatórias da perda ou inexistência de re
 
 13 - (Anterior n.º 11.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A candidatura ao Porta 65 - Jovem é efectuada por via electrónica no sítio da Internet do IHRU ou através do Portal do Cidadão.
 
@@ -206,7 +252,9 @@ b) Quaisquer outras prestações compensatórias da perda ou inexistência de re
 
 4 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 4.º, o acesso ao Porta 65 - Jovem, depende do cumprimento dos seguintes requisitos:
 
@@ -246,17 +294,23 @@ b) Sempre a que a habitação arrendada ou a arrendar disponha de uma ou mais as
 
 8 - O beneficiário do apoio deve cumprir os requisitos a que se referem as alíneas a) e b) do n.º 1 durante todo o período em que recebe a subvenção, devendo comunicar ao IHRU qualquer alteração.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Os candidatos a apoio financeiro do Porta 65 - Jovem não podem acumular esse apoio com quaisquer outras formas de apoio público à habitação, nem ter dívidas decorrentes de anteriores concessões do apoio ao arrendamento.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os jovens que pretendam aceder ao Porta 65 - Jovem podem, em alternativa à exibição de um contrato de arrendamento ou de um contrato-promessa de arrendamento, tal como previsto na alínea a) do n.º 2 do artigo 7.º, recorrer à bolsa de habitação para arrendamento de habitações inscritas pelos respectivos proprietários no Portal da Habitação, disponível no sítio da Internet do IHRU.
 
 2 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -264,7 +318,9 @@ Os candidatos a apoio financeiro do Porta 65 - Jovem não podem acumular esse ap
 
 3 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O apoio financeiro do Porta 65 - Jovem é concedido sob a forma de subvenção mensal não reembolsável, por períodos de 12 meses, podendo ser renovado em candidaturas subsequentes até ao limite de 36 meses.
 
@@ -278,7 +334,9 @@ Os candidatos a apoio financeiro do Porta 65 - Jovem não podem acumular esse ap
 
 6 - Nos casos previstos nas alíneas b) e c) do n.º 1 do artigo 4.º, a duração máxima do apoio financeiro é aferida relativamente ao jovem que haja auferido um maior número de subvenções mensais.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A percentagem da subvenção mensal aplicável nos termos do n.º 3 do artigo anterior pode ser acrescida, caso a habitação arrendada se localize:
 
@@ -294,9 +352,13 @@ b) O agregado jovem integrar dependentes.
 
 3 - Só pode cumular-se um dos acréscimos previstos no n.º 1 com um dos acréscimos previstos no número anterior.
 
-### CAPÍTULO IV — Candidaturas subsequentes
+CAPÍTULO IV
 
-###### Artigo 14.º — Condições das candidaturas subsequentes
+Candidaturas subsequentes
+
+Artigo 14.º
+
+Condições das candidaturas subsequentes
 
 1 - As candidaturas subsequentes ao apoio financeiro concedido ao abrigo do Porta 65 - Jovem dependem do cumprimento pelos beneficiários dos requisitos de acesso ao apoio.
 
@@ -304,15 +366,21 @@ b) O agregado jovem integrar dependentes.
 
 3 - O cumprimento dos requisitos referidos no n.º 1 é avaliado à data da apresentação da candidatura subsequente.
 
-###### Artigo 15.º — Procedimento
+Artigo 15.º
+
+Procedimento
 
 Aos pedidos de candidatura subsequentes é aplicável o disposto no artigo 6.º, sendo definidos em portaria os procedimentos aplicáveis à respectiva instrução.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 Sempre que, no âmbito do processo de candidaturas subsequentes à concessão de apoio financeiro, se verifique existir alteração da pontuação que determine a aplicação de escalão diferente do anterior, a subvenção mensal a pagar no período respectivo é calculada com base na percentagem correspondente ao novo escalão.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -320,7 +388,9 @@ Sempre que, no âmbito do processo de candidaturas subsequentes à concessão de
 
 3 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -330,7 +400,9 @@ Sempre que, no âmbito do processo de candidaturas subsequentes à concessão de
 
 4 - A DGTF deve transferir para o IHRU o valor da comissão prevista no n.º 2 até 31 de Janeiro de cada ano.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - As matérias previstas no n.º 3 do artigo 6.º, nas alíneas a) a c) do n.º 2 e nos n.os 5 e 6 do artigo 7.º, nos n.os 2 e 3 do artigo 10.º, no n.º 5 do artigo 12.º e no artigo 15.º são objecto de regulamentação por portaria dos membros do Governo responsáveis pelas áreas da habitação, da juventude e das finanças.
 
@@ -362,15 +434,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Fernanda Maria Rosa do Carmo Julião - Maria Helena dos Santos André.
 
-**Promulgado em 27 de Abril de 2010.**
+Promulgado em 27 de Abril de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de Abril de 2010.**
+Referendado em 29 de Abril de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 

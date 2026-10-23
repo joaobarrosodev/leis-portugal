@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/567-1974-474768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T04:30:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b30261016466a4e32c3bb5caa4a32d1c3e21b797e8d4ac4927bf9fa148d2f11c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 673d24d7feca554077bb1081f4bfda14cc2b3eb938286d96dec12232aa1b3140
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:30:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,36 @@ relationships:
   target: pt:dre:250401:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:407532:por
+  label: Aumentada até ao máximo de 150$00 os quantitativos da tabela das ajudas de custo pelo(a) Portaria n.º 757/76 - Diário
+    da República n.º 297/1976, Série I de 1976-12-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/757-1976-407532
+  date: '1976-12-22'
+- type: amended_by
+  target: pt:dre:250401:por
+  label: "Substituída, a partir de 01.06.1977, a tabela de ajudas de custo a que se refere o presente diploma, pela PORT.378/77.23.06.1977.PCM,\
+    \ DR.IS [143] de 23.06.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-1977-250401
+  date: '1977-06-23'
+- type: cites
+  target: pt:dre:262807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383780:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:30:26Z'
   warnings: []
   errors: []
 ---
@@ -91,6 +111,6 @@ de 5 de Setembro
 
 Manda o Governo Provisório da República Portuguesa, pelo Primeiro-Ministro e pelo Ministro das Finanças, nos termos do n.º 1.º do artigo 1.º do [Decreto-Lei n.º 48729](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48729-1968-262807), de 4 de Dezembro de 1968, que a tabela de ajudas de custo a que se refere a [Portaria n.º 152/73](https://diariodarepublica.pt/dr/detalhe/portaria/152-1973-383780), de 1 de Março, seja substituída, a partir de 1 de Setembro de 1974, pela que seguidamente se publica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/09/20700/09990999.pdf))](https://files.diariodarepublica.pt/1s/1974/09/20700/09990999.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/09/20700/09990999.pdf)
 
 Presidência do Conselho de Ministros e Ministério das Finanças, 2 de Setembro de 1974. - O Primeiro-Ministro, Vasco dos Santos Gonçalves. - O Ministro das Finanças, José da Silva Lopes.

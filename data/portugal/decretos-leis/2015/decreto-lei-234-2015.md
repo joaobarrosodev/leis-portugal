@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20000/0888108886.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/234/2015/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffef1d828d6e5f65044989ec555d45a90c5e40b6b1e85cede44c2c40bf54752c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a856e9a48c587589a4b408f8e91ee0db98128506e7acab16975d47e5d7d54db8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
 - Conservatória do Registo Comercial
+- Embarcação
 - Embarcação Estrangeira
-- Registo de Navios
-- Obrigações Hipotecárias
-- Zona Tributária Privilegiada
 - Madeira.região Autónoma
+- Obrigações Hipotecárias
 - Registo de Hipotecas
+- Registo de Navios
 - Registo Internacional de Navios da Madeira
 - Zona Franca
+- Zona Tributária Privilegiada
 relationships:
 - type: amended_by
   target: pt:dre:72909765:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:72909765:por
+  label: Determinado que a direção da Comissão Técnica do Registo Internacional de Navios da Madeira criada pelo Dec Lei 96/89,
+    de 28-mar, na redação do presente diploma seja exercida pela Ministra do Mar pelo(a) Decreto-Lei n.º 251-A/2015 - Diário
+    da República n.º 246/2015, 1º Suplemento, Série I de 2015-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-2015-72909765
+  date: '2015-12-17'
+- type: cites
+  target: pt:dre:219121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614782:por
+  label: null
+  source: null
 article_structure:
-  article_count: 43
+  article_count: 35
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:59Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +176,7 @@ b) [...];
 
 c) Exercer as competências referidas nas alíneas i) e l) do número anterior.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - [...]:
 
@@ -179,13 +194,13 @@ c) Um representante da DGRM.
 
 5 - [...].
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - [...].
 
 2 - A constituição e funcionamento das entidades referidas no número anterior dependem de autorização do Governo Regional da Madeira, estando sujeitas ao pagamento de uma taxa de instalação e de uma taxa anual de funcionamento, nos termos a definir pelos respetivos órgãos de governo próprio.
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - A venda de navios pode ser feita por declaração de venda (bill of sale), com reconhecimento da assinatura do vendedor, com menção à qualidade e poderes para o ato, quando aplicável.
 
@@ -203,7 +218,7 @@ c) Um representante da DGRM.
 
 8 - Nos casos previstos no número anterior, o adquirente dos bens hipotecados só pode exercer o direito à expurgação, previsto no artigo 721.º do Código Civil português, desde que o exercício desse direito garanta ao credor hipotecário o pagamento integral de todos os direitos e encargos decorrentes do contrato de hipoteca, não sendo aplicável o disposto na alínea b) do mencionado artigo.
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - [...]:
 
@@ -223,13 +238,13 @@ b) [...].
 
 7 - [...].
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - Os navios referidos no artigo anterior bem como os factos referentes às hipotecas com eles relacionados podem ser provisoriamente registados nos consulados de Portugal.
 
 2 - [...].
 
-###### Artigo 17.º
+Artigo 17.º
 
 1 - As entidades requerentes do registo referidas na alínea a) do n.º 1 do artigo 15.º fazem prova dos seguintes requisitos:
 
@@ -243,7 +258,7 @@ c) [...].
 
 3 - [...].
 
-###### Artigo 20.º
+Artigo 20.º
 
 1 - Sem prejuízo do disposto nos números seguintes, pelo menos 30 % dos tripulantes dos navios registados no MAR devem ser cidadãos de nacionalidade portuguesa ou nacionais de países europeus ou de países de língua oficial portuguesa.
 
@@ -251,7 +266,7 @@ c) [...].
 
 3 - [...].
 
-###### Artigo 28.º
+Artigo 28.º
 
 1 - A violação do artigo 6.º, do n.º 2 do artigo 8.º, do n.º 2 do artigo 11.º, do n.º 3 do artigo 15.º, do n.º 1 do artigo 20.º, do n.º 1 do artigo 21.º e do artigo 25.º constitui contraordenação punível com coima até (euro) 1 000,00 ou (euro) 15 000,00, conforme se trate de pessoa singular ou coletiva.
 
@@ -277,15 +292,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de setembro de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - José Pedro Correia de Aguiar-Branco - Paula Maria von Hafe Teixeira da Cruz - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 2 de outubro de 2015.**
+Promulgado em 2 de outubro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 8 de outubro de 2015.**
+Referendado em 8 de outubro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 

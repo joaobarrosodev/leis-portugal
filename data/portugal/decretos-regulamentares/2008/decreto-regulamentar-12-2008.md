@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/12/2008/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-2008-449677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:31:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27b6d5fe1121655ff8549451309ce66cc7dd8f1b161dd6f5ea805312d39f34f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ea41d26754e6a60c73e25260f2c85e6fcb602186b9ac40ee6cb7b04f1245fcc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:31:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- SCUT
-- Conservação de Estradas
-- Rede de Estradas
-- Fiscalização
 - Auto-estrada
-- Segurança Rodoviária
+- Conservação de Estradas
+- Direitos do Utente
+- Fiscalização
+- Informação do Consumidor
 - Plano Rodoviario Nacional
 - Portagem
-- Informação do Consumidor
-- Direitos do Utente
+- Rede de Estradas
+- SCUT
+- Segurança Rodoviária
 - Utente
 relationships:
 - type: cites
@@ -86,16 +86,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/24/2007/07/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/24/2007/07/18/p/dre
+- type: cites
+  target: pt:dre:629160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636052:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:31:49Z'
   warnings: []
   errors: []
 ---
@@ -428,12 +436,12 @@ O presente decreto regulamentar não se aplica às obras actualmente em curso cu
 
 Visto e aprovado em Conselho de Ministros de 3 de Abril de 2008. - José Sócrates Carvalho Pinto de Sousa - Mário Lino Soares Correia.
 
-**Promulgado em 21 de Maio de 2008.**
+Promulgado em 21 de Maio de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de Maio de 2008.**
+Referendado em 23 de Maio de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

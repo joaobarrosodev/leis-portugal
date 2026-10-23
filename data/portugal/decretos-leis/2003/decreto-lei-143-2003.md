@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/143/2003/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2003-667119
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2867bf4794ff31364a502efafc254a9570593f3faf2ae068d9281e791bc59a2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40dc1d16be734760e836fe777c6482fea4878d5319853c8a2cfe43e9d813b449
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Doença Animal
-- Multa
 - Contra-ordenação
+- Controlo Sanitário
 - Direção Geral de Veterinária
 - Direcção Regional de Agricultura
-- Controlo Sanitário
+- Doença Animal
 - Gado Suíno
+- Multa
 - Suinicultura
 relationships:
 - type: amended_by
   target: pt:dre:670027:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670027:por
+  label: "Alterado o art. 17º revogado o nº 1 do anexo III, pelo DEC LEI.79/2011.20.06.2011.MADRP, DR.IS [117] de 20.06.2011\0\
+    1\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2011-670027
+  date: '2011-06-20'
 - type: cites
   target: celex:31980L0217
   label: null
@@ -95,13 +101,13 @@ relationships:
 article_structure:
   article_count: 31
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:42Z'
   warnings: []
   errors: []
 ---
@@ -810,15 +816,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Maio de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 17 de Junho de 2003.**
+Promulgado em 17 de Junho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Junho de 2003.**
+Referendado em 18 de Junho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — Notificação da doença e outras informações epidemiológicas a fornecer em caso de confirmação da peste suína clássica
 
@@ -1004,11 +1010,11 @@ d) Desenvolver actividades de investigação e, sempre que possível, coordenar 
 
 ## ANEXO V — Principais critérios e factores de risco a ter em conta na decisão de occisão de suínos das explorações de contacto
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/38033818.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/38033818.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/38033818.pdf)
 
 ## ANEXO VI — Principais critérios e factores de risco a ter em conta na decisão de vacinação de emergência em explorações suinícolas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/38033818.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/38033818.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/38033818.pdf)
 
 ## ANEXO VII — Critérios e requisitos relativos aos planos de intervenção
 

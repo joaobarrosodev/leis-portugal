@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/266/1998/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1998-444708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e40fa748da0a6da8267071fbf85931de55d3961196921f794e094e13ddc1996
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce9b3c1022230858dd93ff9c735a061b783b3aa706cdf50e3db707bd312bbbc2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Combate à Droga
 - Comissão Interministerial
-- Projecto VIDA
 - Comissão Técnica de Acompanhamento
+- Conselho Nacional de Toxicodependência
 - Coordenador Nacional
 - Definição de Competências
-- Combate à Droga
-- Integração de Trabalhadores
-- Gabinete de Planeamento e de Coordenação do Combate à Droga
 - Droga
+- Gabinete de Planeamento e de Coordenação do Combate à Droga
+- Integração de Trabalhadores
 - Núcleo Distrital do Projecto VIDA
 - Observatório VIDA
 - Orgânica
-- Toxicodependente
-- Conselho Nacional de Toxicodependência
 - Presidência do Conselho de Ministros
+- Projecto VIDA
 - Receita Própria
+- Toxicodependente
 relationships:
 - type: amended_by
   target: pt:dre:274382:por
@@ -98,16 +98,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/45/1996/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/45/1996/09/03/p/dre
+- type: cites
+  target: pt:dre:231535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:274382:por
+  label: "Revogado, sem prejuízo do disposto nos nºs. 4 e 5 do art. 15º e art. 16º, referentes aos núcleos distritais do Programa\
+    \ de Prevenção da Toxicodependência-Projecto VIDA, enquanto não forem criadas as delegações regionais previstas no art.\
+    \ 28º, e do disposto no nº 3 do art. 7º, nos termos do nº 2 do art. 44º do presente diploma, pelo DEC LEI.90/2000.2000.05.18.PCM,DR.IS-A\
+    \ [115]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2000-274382
+  date: '2000-05-18'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:52Z'
   warnings: []
   errors: []
 ---
@@ -368,12 +392,12 @@ Todas as competências cometidas ao Primeiro-Ministro pelo presente diploma são
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1998. - António Manuel de Oliveira Guterres - Luís Filipe Marques Amado - José Rodrigues Pereira Penedos - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 3 de Agosto de 1998.**
+Promulgado em 3 de Agosto de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Agosto de 1998.**
+Referendado em 6 de Agosto de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

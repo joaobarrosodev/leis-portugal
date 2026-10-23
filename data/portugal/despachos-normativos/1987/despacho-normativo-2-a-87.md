@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 18/1987, 1º Suplemento, Série I de 1987-01-22
   number: '18'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 296-(1) a 296-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/01801/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-a-1987-300032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T07:37:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c477f48b3a9a00bf7a8ad03c84ef10cef8a6d311eeb66f3b64fd108828c84ea2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d5b3724e27857b8e1173eacd09abfd80e7e722cb5b7825bcfadd8abb9becf3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:37:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CE Países
+- Contingentação
+- Importação
+- Países Terceiros
+- Peixe
+- Peixe Congelado
+- Produtos de Pesca
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:583789:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:583789:por
+  label: Revogado, a partir de 01.01.1988, pelo(a) Despacho Normativo n.º 1/88 - Diário da República n.º 7/1988, Série I de
+    1988-01-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-1988-583789
+  date: '1988-01-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:37:13Z'
   warnings: []
   errors: []
 ---
@@ -161,8 +175,8 @@ Secretaria de Estado do Comércio Externo, 21 de Janeiro de 1987. - O Secretári
 
 ## ANEXO I — Contingentes anuais de importação dos produtos da pesca provenientes dos países terceiros e sua repartição trimestral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/01801/00010003.pdf))](https://files.diariodarepublica.pt/1s/1987/01/01801/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/01801/00010003.pdf)
 
 ## ANEXO II — Nível previsional global de importações para os produtos sujeitos ao mecanismo complementar aplicável às trocas comerciais no sector dos produtos da pesca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/01801/00010003.pdf))](https://files.diariodarepublica.pt/1s/1987/01/01801/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/01801/00010003.pdf)

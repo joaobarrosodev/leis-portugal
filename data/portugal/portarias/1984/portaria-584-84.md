@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/584-1984-382238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T08:08:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f1f1923918345b1a69ff7d5d306337b2905be4120175d9dda3b47a0d484de75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d0692d357485b7b5e79e5b7f4c417720f75c2075977bee278e19a264a98c22d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:08:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arrendamento Rural
+- Contrato
+- Renda Limite
+relationships:
+- type: cites
+  target: pt:dre:278708:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:520035:por
+  label: Rectificada pela DECL.DD5451.28.08.1984.PCM, DR.IS [202-Supl] de 31.08.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-520035
+  date: '1984-08-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:08:18Z'
   warnings: []
   errors: []
 ---
@@ -98,12 +110,12 @@ Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, Floresta
 
 Ministério da Agricultura, Florestas e Alimentação.
 
-**Assinada em 27 de Julho de 1984.**
+Assinada em 27 de Julho de 1984.
 
-**O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa.**
+O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa.
 
 TABELA DOS VALORES MÁXIMOS DE RENDA
 
 A Vigorar nos Contratos a estabelecer em 1984-1985
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/08/18400/24362437.pdf))](https://files.diariodarepublica.pt/1s/1984/08/18400/24362437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/08/18400/24362437.pdf)

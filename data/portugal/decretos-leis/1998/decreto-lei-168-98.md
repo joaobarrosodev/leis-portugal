@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/168/1998/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1998-478247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:57:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a86bdf163931ba9139a869dfd332635d5c9b88ed33701b4b5b3f524406b5408f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 212cff44ecc9dedcddab247bbdda75989b9adad6a27b5edd9599c4324d3c5007
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:57:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carcaça
+- Carne de Ovino
 - Carne de Suíno
 - Carne de Vaca
 - Classificação de Carcaças
-- Multa
 - Contra-ordenação
-- Direção Geral de Veterinária
 - Definição de Competências
+- Direção Geral de Veterinária
 - Direcção Regional de Agricultura
 - Gado Bovino
-- Carne de Ovino
-- Gado Suíno
 - Gado Ovino
+- Gado Suíno
+- Multa
 - Regime Jurídico
 - Sanção
 relationships:
@@ -132,13 +132,13 @@ relationships:
 article_structure:
   article_count: 16
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:57:58Z'
   warnings: []
   errors: []
 ---
@@ -385,15 +385,15 @@ O presente diploma entra em vigor no 1.º dia útil do 4.º mês após a sua pub
 
 Visto e aprovado em Conselho de Ministros de 16 de Abril de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Promulgado em 5 de Junho de 1998.**
+Promulgado em 5 de Junho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Junho de 1998.**
+Referendado em 17 de Junho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Classificação de carcaças
 

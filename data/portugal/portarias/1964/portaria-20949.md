@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20949-1964-535662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5469523881a1e2ee10a6f61ce97c56e32304bc281e35fd8acc0e7fdd7c148ba9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c46db75cfeb02463ea7e21e3afc5da970c23ec269cf6c7d3126158d8c8574402
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:56Z'
   warnings: []
   errors: []
 ---
@@ -89,29 +93,29 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Alimentação às praças» ... 400000$00
+Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Alimentação às praças» ... 400000$00
 
-###### Artigo 3.º, n.º 3) «Outras despesas com o pessoal - Ajudas de custo dentro da província» ... 30000$00
+Artigo 3.º, n.º 3) «Outras despesas com o pessoal - Ajudas de custo dentro da província» ... 30000$00
 
 Despesas com o material:
 
-###### Artigo 5.º, n.º 1), alínea a) «Despesas de conservação e aproveitamento de material - Semoventes - Veículos com motor» ... 1500$00
+Artigo 5.º, n.º 1), alínea a) «Despesas de conservação e aproveitamento de material - Semoventes - Veículos com motor» ... 1500$00
 
-###### Artigo 5.º, n.º 3), alínea a) «Despesas de conservação e aproveitamento de material - Material de defesa e segurança pública - Armamento, equipamento e outro material de guerra» ... 3000$00
+Artigo 5.º, n.º 3), alínea a) «Despesas de conservação e aproveitamento de material - Material de defesa e segurança pública - Armamento, equipamento e outro material de guerra» ... 3000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 7.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 20000$00
+Artigo 7.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 20000$00
 
-###### Artigo 9.º, n.º 1), alínea a) «Encargos administrativos - Preparação militar de pessoal a incorporar na província - Recrutas do ultramar» ... 600000$00
+Artigo 9.º, n.º 1), alínea a) «Encargos administrativos - Preparação militar de pessoal a incorporar na província - Recrutas do ultramar» ... 600000$00
 
-###### Artigo 9.º, n.º 2) «Encargos administrativos - Despesas gerais com recrutamento» ... 10000$00
+Artigo 9.º, n.º 2) «Encargos administrativos - Despesas gerais com recrutamento» ... 10000$00
 
-###### Artigo 9.º, n.º 3) «Encargos administrativos - Despesas gerais com exercícios de quadros e de tropas com manobras anuais» ... 5000$00
+Artigo 9.º, n.º 3) «Encargos administrativos - Despesas gerais com exercícios de quadros e de tropas com manobras anuais» ... 5000$00
 
-###### Artigo 9.º, n.º 4), alínea a) «Encargos administrativos - Prémios de transferência de fundos - A pagar na província» ... 8000$00
+Artigo 9.º, n.º 4), alínea a) «Encargos administrativos - Prémios de transferência de fundos - A pagar na província» ... 8000$00
 
-###### Artigo 11.º «Abono de família» ... 40000$00
+Artigo 11.º «Abono de família» ... 40000$00
 
 ... 1117500$00
 
@@ -119,15 +123,15 @@ tomando como contrapartida as seguintes disponibilidades existentes na mesma tab
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 900000$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 900000$00
 
-###### Artigo 3.º, n.º 2), alínea b) «Outras despesas com o pessoal - Fardamento, resguardos e calçado às praças - Indemnidade para fardamento» ... 35000$00
+Artigo 3.º, n.º 2), alínea b) «Outras despesas com o pessoal - Fardamento, resguardos e calçado às praças - Indemnidade para fardamento» ... 35000$00
 
-###### Artigo 3.º, n.º 4), alínea b) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na metrópole» ... 49500$00
+Artigo 3.º, n.º 4), alínea b) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na metrópole» ... 49500$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal»:
+Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal»:
 
 A pagar na província ... 33500$00
 

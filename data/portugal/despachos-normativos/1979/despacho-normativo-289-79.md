@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/289-1979-369841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:54:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7109cc3e0ea059e2cce483474f291b98678ff9be9add5ed9a12d7c16c343a461
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77bcbdc1d9792461dfe45c5d27e9c3bd66126a8c084b6cca198b45366cf1f470
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:54:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Atribuição de Verba
+- Empresa Nacionalizada
+- Empresa Pública
+- Financiamento
+- Setor Empresarial do Estado
+- Subsídio não Reembolsável
+relationships:
+- type: cites
+  target: pt:dre:274210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383013:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:54:36Z'
   warnings: []
   errors: []
 ---
@@ -86,6 +100,6 @@ Tendo em conta os trabalhos desenvolvidos no âmbito da Comissão de Financiamen
 
 Dando cumprimento ao disposto na Resolução do Conselho de Ministros n.º 241/79, de 8 de Agosto, especificamente o referido no n.º 3 da Resolução, os Ministros das Finanças e do Plano e do Comércio e Turismo determinam que a verba de 30000000$00 atribuída ao Ministério do Comércio e Turismo para subsídios não reembolsáveis às empresas nacionalizadas seja distribuída conforme quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/21600/23812381.pdf))](https://files.diariodarepublica.pt/1s/1979/09/21600/23812381.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/21600/23812381.pdf)
 
 Ministérios das Finanças e do Plano e do Comércio e Turismo, 30 de Julho de 1979. - Pelo Ministro das Finanças e do Plano, António de Almeida, Secretário de Estado do Tesouro. - O Ministro do Comércio e Turismo, Abel Pinto Repolho Correia.

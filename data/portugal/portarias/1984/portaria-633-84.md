@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/08/19600/26182620.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/633-1984-380928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T08:09:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e93cb94c187f230bf97a6d0992a9a498feafc0edb061d0b982f37968221521ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b46276b153cacf642a321fd7ea4e6a19e23ea820228e3d1865d5322cdcf5d54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:09:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Administração Geral do Porto de Lisboa
+- Classificação de Mercadorias
+- Mercadoria
+- Porto de Lisboa
+- Regulamento
+- Regulamento de Tarifas da Administração Geral do Porto de Lisboa
+- Tarifa Portuária
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:499776:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:380930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435978:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:446489:por
+  label: Rectificada pela DECL.DD5317.16.10.1984.PCM, DR.IS [253]2ºSupl de 31.10.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-446489
+  date: '1984-10-16'
+- type: repealed_by
+  target: pt:dre:499776:por
+  label: "Revogada pela PORT.964/87.1987.12.29.MOPTC DR.IS [298] de 29.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/964-1987-499776
+  date: '1987-12-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:09:28Z'
   warnings: []
   errors: []
 ---
@@ -94,10 +121,10 @@ Manda o Governo da República Portuguesa, pelo Ministro do Mar, que a classifica
 
 Ministério do Mar.
 
-**Assinada em 24 de Agosto de 1984.**
+Assinada em 24 de Agosto de 1984.
 
-**O Ministro do Mar, Carlos Montez Melancia.**
+O Ministro do Mar, Carlos Montez Melancia.
 
 Do Grupo I ao Grupo X
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/08/19600/26182620.pdf))](https://files.diariodarepublica.pt/1s/1984/08/19600/26182620.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/08/19600/26182620.pdf)

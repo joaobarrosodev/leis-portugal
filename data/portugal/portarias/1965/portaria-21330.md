@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21330-1965-296234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:01:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d6c05a3a8aa026049baeb874f8cb0580d82394e5efb19d3cb90f58384bc1e50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1366bcd79340634bd20863209142fa842c17820b9134f3b622d0e0c1d7b6be21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:01:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:168247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:01:42Z'
   warnings: []
   errors: []
 ---
@@ -92,6 +104,6 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Saúde e Assistência, que, independentemente da revisão dos quadros prevista no [Decreto-Lei n.º 46309](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46309-1965-236718), de 27 de Abril de 1965, e ao abrigo do disposto do artigo 1.º do [Decreto-Lei n.º 31913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31913-1942-168247), de 12 de Março de 1942, e no artigo 170.º do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, no quadro do pessoal de administração dos Hospitais Civis de Lisboa sejam extintos os cargos de administrador e adjunto do administrador, substituídos por outros pela forma seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/06/13000/08110812.pdf))](https://files.diariodarepublica.pt/1s/1965/06/13000/08110812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/06/13000/08110812.pdf)
 
 Ministérios das Finanças e da Saúde e Assistência, 11 de Junho de 1965. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.

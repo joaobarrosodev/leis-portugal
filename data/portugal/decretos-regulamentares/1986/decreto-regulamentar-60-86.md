@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/60-1986-220959
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a61ac2a15b1a04dcd7e9b2f8f8b60cef56bc928f11ac6e5e8975607bb9c49061
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95a48532b51e5f076640b1a9ad5cb68b3c7d0b11e97c90acd2482ac6f42ae5d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfama
+- ÁREA Crítica de Recuperação e Reconversão Urbanística
+- Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:2243044:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:217686:por
+  label: "Alterado pelo DR.6/92.1992.04.18.MPLAT, DR.IS-B [91]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-1992-217686
+  date: '1992-04-18'
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:43Z'
   warnings: []
   errors: []
 ---
@@ -100,20 +112,20 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ao abrigo do disposto no artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, é declarada área crítica de recuperação e reconversão urbanística a zona delimitada na planta anexa ao presente diploma, situada na zona de Alfama, da cidade de Lisboa.
+Artigo 1.º Ao abrigo do disposto no artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, é declarada área crítica de recuperação e reconversão urbanística a zona delimitada na planta anexa ao presente diploma, situada na zona de Alfama, da cidade de Lisboa.
 
-###### Art. 2.º Compete à Câmara Municipal de Lisboa promover as acções e o processo de recuperação e reconversão urbanística.
+Art. 2.º Compete à Câmara Municipal de Lisboa promover as acções e o processo de recuperação e reconversão urbanística.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 16 de Outubro de 1986.**
+Promulgado em 16 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Outubro de 1986.**
+Referendado em 21 de Outubro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/25200/32723273.pdf))](https://files.diariodarepublica.pt/1s/1986/10/25200/32723273.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/25200/32723273.pdf)

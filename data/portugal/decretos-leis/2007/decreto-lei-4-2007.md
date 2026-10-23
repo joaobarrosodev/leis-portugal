@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/01/00500/01160126.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/4/2007/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2007-262089
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a78a3f6f0a3193b62ed0c6f3e3bc06dd98dc4c480071bbdc29e2dc02a79f244
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b34f786aecf2c6188209c69c04afa786fc28f70c7754a5c3346b3856b4984bc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Certificado de Conformidade
-- Multa
+- Certificado de Qualidade
 - Construção Civil
 - Controlo de Qualidade
 - Definição de Competências
-- União Europeia
-- Fiscalização
-- LNEC
-- Laboratório Nacional de Engenharia Civil
-- Certificado de Qualidade
-- Instituto Português da Qualidade
 - Direcção Geral da Empresa
+- Fiscalização
+- Instituto Português da Qualidade
+- Laboratório Nacional de Engenharia Civil
+- LNEC
 - Material de Construção
+- Multa
 - Turquia
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:500018:por
@@ -98,16 +98,22 @@ relationships:
   target: eli:/application/external/tratado
   label: null
   source: /application/external/tratado
+- type: repealed_by
+  target: pt:dre:500018:por
+  label: "Revogado, a partir de 11.09.2013, o Dec Lei 113/93 de 10-abr, com as alterações e republicação constantes do presente\
+    \ diploma, pelo DEC LEI.130/2013.10.09.2013.MECO, DR.IS [174] de 10.09.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-2013-500018
+  date: '2013-09-10'
 article_structure:
-  article_count: 29
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:40Z'
   warnings: []
   errors: []
 ---
@@ -160,11 +166,15 @@ b) ...
 
 c) 'Colocação do produto no mercado' a primeira vez que um produto é colocado à disposição, no mercado comunitário, a título gratuito ou oneroso, com vista à sua distribuição ou utilização na Comunidade.
 
-###### Artigo 2.º — Exigências essenciais
+Artigo 2.º
+
+Exigências essenciais
 
 As exigências essenciais das obras, em matéria de resistência mecânica e estabilidade, segurança contra incêndio, higiene, saúde e ambiente, segurança na utilização, protecção contra o ruído e economia de energia e isolamento térmico, susceptíveis de condicionar as características dos produtos nelas utilizados constam do anexo I do presente decreto-lei e que dele faz parte integrante.
 
-###### Artigo 3.º — Colocação dos produtos no mercado
+Artigo 3.º
+
+Colocação dos produtos no mercado
 
 1 - Para colocação no mercado, os produtos a que se refere o artigo 1.º devem revelar aptidão para o uso a que se destinam, apresentando características tais que as obras em que venham a ser incorporados, quando convenientemente projectadas e construídas, possam satisfazer as exigências essenciais referidas no artigo anterior.
 
@@ -176,7 +186,9 @@ a) Os produtos que constem da lista de produtos menos importantes no que concern
 
 b) Os produtos que satisfaçam disposições nacionais relativas à certificação obrigatória até que as especificações técnicas europeias referidas no artigo 5.º obriguem à aposição da marcação CE.
 
-###### Artigo 4.º — Obrigatoriedade da marcação CE
+Artigo 4.º
+
+Obrigatoriedade da marcação CE
 
 1 - É obrigação do fabricante ou do seu mandatário estabelecido na União Europeia, na Turquia ou num Estado subscritor do Acordo sobre o Espaço Económico Europeu apor a marcação CE no próprio produto, num rótulo, nele fixado, na respectiva embalagem ou nos documentos comerciais de acompanhamento antes da colocação no mercado, nos termos dos números seguintes.
 
@@ -190,7 +202,9 @@ b) Os produtos que satisfaçam disposições nacionais relativas à certificaç�
 
 6 - Sem prejuízo do disposto no número anterior, pode ser aposta qualquer outra marca nos produtos, num rótulo, nas embalagens ou nos documentos comerciais de acompanhamento desde que não reduza ou exclua a visibilidade ou a legibilidade da marcação CE.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 Para efeitos do presente decreto-lei, consideram-se especificações técnicas:
 
@@ -200,7 +214,9 @@ b) A aprovação técnica europeia (ETA), emitida nos termos do artigo 6.º;
 
 c) A especificação técnica nacional, caso não exista norma harmonizada aplicável, que a Comissão Europeia indicou beneficiar da presunção de conformidade com as exigências essenciais, notificando-a aos Estados membros, e cuja referência é publicada no Jornal Oficial da União Europeia.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A aprovação técnica europeia é o reconhecimento técnico da aptidão de um produto para o uso a que o mesmo se destina.
 
@@ -222,7 +238,9 @@ b) Na falta dos guias referidos na alínea anterior, por referência às exigên
 
 4 - A aprovação técnica europeia é emitida a pedido do fabricante ou do seu mandatário estabelecido na União Europeia, na Turquia ou num Estado subscritor do Acordo sobre o Espaço Económico Europeu por organismos designados, para o efeito, pelos Estados membros.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As declarações de conformidade CE e os certificados de conformidade CE, referidos no artigo 4.º, pressupõem a observância do sistema de avaliação da conformidade estabelecido nas especificações técnicas aplicáveis.
 
@@ -230,13 +248,17 @@ b) Na falta dos guias referidos na alínea anterior, por referência às exigên
 
 3 - No caso de produtos destinados a serem colocados no mercado nacional, as declarações e os certificados de conformidade CE, com os elementos referidos no anexo III do presente decreto-lei, são redigidos em língua portuguesa.
 
-###### Artigo 8.º — Organismos notificados
+Artigo 8.º
+
+Organismos notificados
 
 1 - Os organismos de certificação, os organismos de inspecção e os laboratórios de ensaio envolvidos nos sistemas de avaliação da conformidade devem estar qualificados para o efeito com observância dos critérios mínimos previstos no anexo IV do presente decreto-lei e que dele faz parte integrante.
 
 2 - A lista dos organismos qualificados é fornecida à Comissão Europeia, nos termos previstos no n.º 3 do artigo 13.º
 
-###### Artigo 9.º — Reconhecimento mútuo
+Artigo 9.º
+
+Reconhecimento mútuo
 
 1 - As declarações e os certificados de conformidade CE, bem como os ensaios e inspecções efectuados em qualquer Estado membro da União Europeia, na Turquia ou num Estado subscritor do Acordo sobre o Espaço Económico Europeu, de harmonia com a Directiva n.º [89/106/CEE](https://data.europa.eu/eli/dir/1989/106/oj?locale=pt), do Conselho, de 21 de Dezembro de 1988, e outra regulamentação comunitária aplicável, têm o mesmo valor que os documentos e procedimentos nacionais correspondentes.
 
@@ -246,13 +268,17 @@ b) Na falta dos guias referidos na alínea anterior, por referência às exigên
 
 4 - Quando as diligências referidas se mostrem insuficientes, a DGE informará desse facto o Estado membro respectivo, podendo accionar a cláusula de salvaguarda nos termos do artigo seguinte.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Sempre que se verifique que os produtos de construção, ainda que tenham aposta a marcação CE, não se encontram aptos ao uso a que se destinam, será proibida ou limitada a sua colocação no mercado, condicionada ou assegurada a sua retirada do mesmo, mediante despacho do ministro que tutela a área da economia, com base em proposta da DGE.
 
 2 - As entidades fiscalizadoras do presente decreto-lei darão conhecimento imediato à DGE de todas as situações que justifiquem a adopção das medidas previstas no número anterior.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A fiscalização do cumprimento do disposto no presente decreto-lei cabe à Autoridade de Segurança Alimentar e Económica (ASAE), sem prejuízo das competências atribuídas por lei a outras entidades.
 
@@ -264,7 +290,9 @@ b) Na falta dos guias referidos na alínea anterior, por referência às exigên
 
 5 - A instrução dos processos de contra-ordenação compete à ASAE, a quem devem ser enviados os autos relativos a infracções verificadas por outras entidades.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O incumprimento do disposto nos artigos 3.º e 4.º constitui contra-ordenação punível com coima de (euro) 2000 a (euro) 44750, sem prejuízo da responsabilidade civil ou penal do mesmo decorrente, podendo ser ainda determinada, como sanção acessória, a apreensão dos produtos em causa, sempre que a sua utilização em condições normais represente perigo que o justifique.
 
@@ -288,7 +316,9 @@ d) Em 10% para o IPQ;
 
 e) Em 10% para a ASAE.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A DGE, o IPQ e o Laboratório Nacional de Engenharia Civil, adiante designado por LNEC, acompanharão a aplicação do presente decreto-lei, propondo as medidas necessárias à prossecução dos seus objectivos e as que se destinem a assegurar a ligação com a Comissão Europeia e os Estados membros.
 
@@ -324,15 +354,15 @@ Com a entrada em vigor do presente decreto-lei fica revogada a Portaria n.º 566
 
 Visto e aprovado em Conselho de Ministros de 21 de Setembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia.
 
-**Promulgado em 8 de Novembro de 2006.**
+Promulgado em 8 de Novembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 14 de Novembro de 2006.**
+Referendado em 14 de Novembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Exigências essenciais das obras
 
@@ -356,7 +386,7 @@ Visto e aprovado em Conselho de Ministros de 21 de Setembro de 2006. - José Só
 
 1 - A marcação CE é constituída pelas iniciais «CE», com a apresentação gráfica abaixo reproduzida, devendo as proporções manter-se no caso de redução ou ampliação e os elementos da marcação CE ter sensivelmente a mesma dimensão vertical, que não pode ser inferior a 5 mm.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/00500/01160126.pdf))](https://files.diariodarepublica.pt/1s/2007/01/00500/01160126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00500/01160126.pdf)
 
 2 - A marcação CE deve ser acompanhada da seguinte informação:
 
@@ -676,7 +706,7 @@ b) Dar conhecimento dessas aprovações técnicas às demais entidades que const
 
 1 - A marcação CE é constituída pelas iniciais «CE», com a apresentação gráfica abaixo reproduzida, devendo as proporções manter-se no caso de redução ou ampliação e os elementos da marcação CE ter sensivelmente a mesma dimensão vertical, que não pode ser inferior a 5 mm.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/00500/01160126.pdf))](https://files.diariodarepublica.pt/1s/2007/01/00500/01160126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00500/01160126.pdf)
 
 2 - A marcação CE deve ser acompanhada da seguinte informação:
 

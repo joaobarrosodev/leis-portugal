@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/711-1983-452491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T07:46:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e3ecadbde6eb3fd0067dd1596a280bdca3bb22c484f8dd263812fa3a09640b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f9074438de3a8f34a4a2db34f0f2ca8529136ff368ff0b98e7c235f4bb0ceae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:46:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Quadro de Pessoal
+- Secretaria Judicial
+- Tribunal Criminal
+- Tribunal de Polícia
+- VILA NOVA de GAIA
+relationships:
+- type: cites
+  target: pt:dre:375815:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:46:58Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +99,7 @@ Juízo de Polícia do Tribunal Criminal de Vila Nova de Gaia
 
 Secretaria Judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -112,6 +121,6 @@ Escriturário judicial (ver nota a) ... 5
 
 Ministério da Justiça.
 
-**Assinada em 3 de Junho de 1983.**
+Assinada em 3 de Junho de 1983.
 
-**O Ministro da Justiça, José Manuel Meneres Sampaio Pimentel.**
+O Ministro da Justiça, José Manuel Meneres Sampaio Pimentel.

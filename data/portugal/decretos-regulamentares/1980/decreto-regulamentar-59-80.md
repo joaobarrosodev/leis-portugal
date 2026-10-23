@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1980-462254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d1d81b1fd67ba26cea66bc1cd8c7a25fabe54effc127c7dd93ddf1287d768bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9dbb92e56c427c009d0d48716d06d4392abc45be2d7d93dffa010e68921d0546
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Património do Estado
+- Gabinete de Gestão dos Veículos do Estado
+- Integração de Trabalhadores
+- Ministério das Finanças
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:663154:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:365748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365762:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:51Z'
   warnings: []
   errors: []
 ---
@@ -94,22 +107,22 @@ Considerando que os objectivos que presidiram à criação do Gabinete de Gestã
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É extinto o Gabinete de Gestão de Veículos do Estado, designado abreviadamente por GVE.
+Artigo 1.º - 1 - É extinto o Gabinete de Gestão de Veículos do Estado, designado abreviadamente por GVE.
 
 2 - As atribuições e competência que por lei cabiam ao GVE são transferidas para a Direcção-Geral do Património do Estado, que as exercerá através da Direcção dos Serviços de Gestão de Veículos do Estado.
 
-###### Art. 2.º A estrutura, o funcionamento e o quadro de pessoal da Direcção dos Serviços de Gestão de Veículos do Estado a que se refere o n.º 2 do artigo 1.º são, transitoriamente, os mesmos que no GVE respeitavam à Direcção de Serviços de Gestão de Veículos do Estado, de conformidade com o disposto nos artigos 9.º e seguintes do [Decreto Regulamentar n.º 69/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/69-1979-365762), de 28 de Dezembro, com as adaptações que a transferência de competência e a extinção do GVE justificam.
+Art. 2.º A estrutura, o funcionamento e o quadro de pessoal da Direcção dos Serviços de Gestão de Veículos do Estado a que se refere o n.º 2 do artigo 1.º são, transitoriamente, os mesmos que no GVE respeitavam à Direcção de Serviços de Gestão de Veículos do Estado, de conformidade com o disposto nos artigos 9.º e seguintes do [Decreto Regulamentar n.º 69/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/69-1979-365762), de 28 de Dezembro, com as adaptações que a transferência de competência e a extinção do GVE justificam.
 
-###### Art. 3.º Os efectivos do pessoal dos órgãos não extintos do GVE são transferidos para a Direcção-Geral do Património do Estado, sem prejuízo dos respectivos direitos adquiridos.
+Art. 3.º Os efectivos do pessoal dos órgãos não extintos do GVE são transferidos para a Direcção-Geral do Património do Estado, sem prejuízo dos respectivos direitos adquiridos.
 
-###### Art. 4.º Os encargos decorrentes da integração do GVE na Direcção-Geral do Património do Estado serão suportados pelas verbas inscritas sob o cap. 27 do orçamento em vigor.
+Art. 4.º Os encargos decorrentes da integração do GVE na Direcção-Geral do Património do Estado serão suportados pelas verbas inscritas sob o cap. 27 do orçamento em vigor.
 
-###### Art. 5.º Este decreto entra em vigor na data da sua publicação.
+Art. 5.º Este decreto entra em vigor na data da sua publicação.
 
 Francisco Sá Carneiro - Aníbal António Cavaco Silva.
 
-**Promulgado em 30 de Setembro de 1980.**
+Promulgado em 30 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/54/1996/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1996-456861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f5f8806065b430934347e3d9bc3ecf58e212f714746af3d383494abb717d83d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2fd4bbcb037dc38462f9526285c60c84c97737a83c1ee50f585062351d444f88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Associação de Estudantes
-- Financiamento
 - Direito de Associação
 - Estudante
+- Financiamento
 - Instituto Português da Juventude
 - Subsídio
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:344251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420231:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:33Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +123,7 @@ Apoio material e técnico
 
 3 - Os pedidos de apoio referidos no número anterior serão apresentados junto dos serviços centrais ou distritais do IPJ, devendo estes responder no prazo de 10 dias úteis.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - ...
 
@@ -123,7 +131,7 @@ Apoio material e técnico
 
 3 - Os pedidos de apoio referidos no número anterior serão remetidos ao gabinete do membro do Governo responsável pela área da juventude.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - As AAEE que pretendam os subsídios a que se refere o artigo 27.º da [Lei n.º 33/87](https://diariodarepublica.pt/dr/detalhe/lei/33-1987-420231), de 11 de Julho, deverão formalizar o seu pedido através do preenchimento do impresso a que se refere o n.º 2 do artigo 3.º do presente diploma, acompanhado do projecto devidamente fundamentado e orçamentado, respeitando as datas e prazos fixados através de portaria pelo membro do Governo responsável pela área da juventude.
 
@@ -149,12 +157,12 @@ b) 50% no prazo de 15 dias úteis após a apreciação dos documentos referidos 
 
 Visto e aprovado em Conselho de Ministros de 11 de Abril de 1996. - António Manuel de Oliveira Guterres - Eduardo Carrega Marçal Grilo - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 10 de Maio de 1996.**
+Promulgado em 10 de Maio de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Maio de 1996.**
+Referendado em 13 de Maio de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106/2025/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 036aa04584f392fa286ff344615ed6942353e916198c3c4c09465634494c5074
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5fcf28bb80a4dfdea9099d0cbe7cb135fcae098679c5313f575ede71200d751a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Indicação Geográfica
 - Denominação de Origem
-- Região Demarcada
 - Estatuto
+- Indicação Geográfica
+- Região Demarcada
 - Região Demarcada do Douro
 relationships:
 - type: cites
@@ -88,16 +88,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/413/2001/04/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413/2001/04/18/p/dre
+- type: cites
+  target: pt:dre:118717740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634503:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:173/2009
+  label: Revoga, a partir de 20 de setembro de 2025, nos termos da alínea a) do artigo 4.º do presente diploma, o Decreto-Lei
+    n.º 173/2009, de 3 de agosto, Diário da República n.º 148/2009, Série I
+  source: null
+  date: '2009-08-03'
+- type: repeals
+  target: pt:numero:portaria:40/2019
+  label: Revoga, a partir de 20 de setembro de 2025, nos termos do artigo 3.º e alínea b) do artigo 4.º do presente diploma,
+    a Portaria n.º 40/2019, de 29 de janeiro, Diário da República n.º 20/2019, Série I
+  source: null
+  date: '2019-01-29'
 article_structure:
   article_count: 47
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:45Z'
   warnings: []
   errors: []
 ---
@@ -148,13 +180,13 @@ b) A [Portaria n.º 40/2019](https://diariodarepublica.pt/dr/detalhe/portaria/40
 
 Visto e aprovado em Conselho de Ministros de 28 de agosto de 2025. - Luís Montenegro - José Manuel Fernandes.
 
-**Promulgado em 5 de setembro de 2025.**
+Promulgado em 5 de setembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de setembro de 2025.**
+Referendado em 9 de setembro de 2025.
 
 Pelo Primeiro-Ministro, António Leitão Amaro, Ministro da Presidência.
 
@@ -196,7 +228,7 @@ Estatuto das denominações de origem protegidas e indicações geográficas pro
 
 4 - É proibida a utilização, por qualquer meio, de nomes, marcas, termos, expressões ou símbolos, ou qualquer indicação ou sugestão falsa ou falaciosa, que sejam suscetíveis de confundir o consumidor quanto à proveniência, natureza ou qualidades essenciais dos produtos, bem como de qualquer sinal que constitua reprodução, imitação ou evocação das DOP ou IGP da RDD.
 
-5 - A proibição estabelecida nos n.<sup>os</sup>3 e 4 aplica-se, igualmente, a produtos não vitivinícolas ou não comparáveis quando a utilização procure, sem justo motivo, tirar partido indevido do caráter distintivo ou do prestígio das DOP ou IGP da RDD, ou possa prejudicá-las, nomeadamente, pela respetiva diluição ou pelo enfraquecimento da sua força distintiva.
+5 - A proibição estabelecida nos n.os3 e 4 aplica-se, igualmente, a produtos não vitivinícolas ou não comparáveis quando a utilização procure, sem justo motivo, tirar partido indevido do caráter distintivo ou do prestígio das DOP ou IGP da RDD, ou possa prejudicá-las, nomeadamente, pela respetiva diluição ou pelo enfraquecimento da sua força distintiva.
 
 6 - É vedada a reprodução das DOP e IGP em dicionários, enciclopédias, obras de consulta semelhantes, ou em publicidade, quando daí se possa depreender que as mesmas constituem designações genéricas.
 
@@ -232,7 +264,7 @@ c) Douro Superior: no distrito de Bragança abrange a freguesia de Vilarelhos, d
 
 2 - A transferência, incluindo o transporte, dos vinhos ou produtos vínicos para caves ou armazéns situados no EG, bem como a circulação no interior da RDD, deve obedecer às disposições legais e às normas fixadas pelo IVDP, I. P.
 
-3 - Os armazéns têm de estar situados na RDD ou no EG, com a ressalva daqueles que se encontram fora nos termos e para os efeitos do disposto nos n.<sup>os</sup>3 e 4 do artigo 42.º
+3 - Os armazéns têm de estar situados na RDD ou no EG, com a ressalva daqueles que se encontram fora nos termos e para os efeitos do disposto nos n.os3 e 4 do artigo 42.º
 
 4 - Por motivos de força maior, da qual resulte a indisponibilidade temporária de armazéns no interior da RDD ou do EG, pode o IVDP, I. P., no respeito de um regime especial de controlo necessariamente mais rigoroso, autorizar, excecional e transitoriamente, num período nunca superior a 1 ano, a utilização de armazéns situados fora da RDD ou da linha limite do EG, mas numa área de proximidade imediata.
 
@@ -246,7 +278,7 @@ c) Douro Superior: no distrito de Bragança abrange a freguesia de Vilarelhos, d
 
 9 - Em derrogação do disposto no número anterior, é permitida a distribuição dos produtos engarrafados e a venda a retalho.
 
-10 - Os encargos suplementares causados pelos regimes especiais de controlo previstos nos n.<sup>os</sup>3 e 4 são suportados pelos interessados.
+10 - Os encargos suplementares causados pelos regimes especiais de controlo previstos nos n.os3 e 4 são suportados pelos interessados.
 
 ###### Artigo 5.º — Solos
 
@@ -326,7 +358,7 @@ e) Que no caso de vinhas instaladas em patamares ou socalcos, em locais com decl
 
 4 - Sem prejuízo do disposto nos números anteriores e do consagrado no comunicado de vindima anual, o IVDP, I. P., em situações específicas, pode fixar o rendimento máximo por hectare para cada parcela.
 
-5 - Para a determinação do rendimento por hectare na RDD e para a atribuição do direito à DOP «Porto» é aplicado sobre a área da parcela, determinada nos termos dos n.<sup>os</sup>3 e 4 do artigo 10.º, um coeficiente em função do seu declive médio e dos diferentes tipos de armação do terreno, em termos a regulamentar pelo IVDP, I. P., e aprovado pelo conselho interprofissional.
+5 - Para a determinação do rendimento por hectare na RDD e para a atribuição do direito à DOP «Porto» é aplicado sobre a área da parcela, determinada nos termos dos n.os3 e 4 do artigo 10.º, um coeficiente em função do seu declive médio e dos diferentes tipos de armação do terreno, em termos a regulamentar pelo IVDP, I. P., e aprovado pelo conselho interprofissional.
 
 ###### Artigo 13.º — Aguardente de origem vitícola e beneficiação
 
@@ -390,7 +422,9 @@ b) Em relação às restantes características, os vinhos ou produtos vínicos d
 
 2 - Na elaboração do vinho com direito à IGP «Duriense» são seguidos as práticas e os tratamentos enológicos legalmente autorizados.
 
-###### Artigo 18.º — Título alcoométrico
+###### Artigo 18.º
+
+## Título alcoométrico
 
 Os vinhos com direito à IGP «Duriense» devem ter um título alcoométrico volúmico adquirido mínimo de 10 % vol.
 
@@ -414,7 +448,9 @@ a) Aumento do título alcoométrico volúmico natural, através da adição de m
 
 b) Concentração parcial de mostos oriundos da RDD nos termos dos métodos legalmente autorizados e cumprindo as características legalmente estabelecidas.
 
-###### Artigo 21.º — Título alcoométrico
+###### Artigo 21.º
+
+## Título alcoométrico
 
 Os vinhos com direito à DOP «Douro» devem ter um título alcoométrico volúmico adquirido mínimo de 10 % vol.
 
@@ -432,7 +468,9 @@ As menções tradicionais facultativas da DOP «Douro», a sua disciplina e os c
 
 A quantidade de aguardente de origem vitícola destinada a interromper a fermentação, de acordo com a classe de doçura desejada, é fixada anualmente no comunicado de vindima.
 
-###### Artigo 25.º — Título alcoométrico
+###### Artigo 25.º
+
+## Título alcoométrico
 
 O Moscatel do Douro deve apresentar um título alcoométrico volúmico adquirido mínimo de 16,5 % vol. e máximo de 22,0 % vol.
 
@@ -621,3 +659,5 @@ Os vinhos e produtos vínicos a que se refere o presente estatuto só podem ser 
 1 - Os produtos abrangidos pelo presente estatuto só podem ser comercializados exibindo nos recipientes o respetivo selo de garantia, aprovado e emitido pelo IVDP, I. P., com modelos publicados na 2.ª série do Diário da República e dimensões a estabelecer pelo IVDP, I. P., ouvido o conselho interprofissional.
 
 2 - Os selos de garantia são identificados para permitirem um adequado controlo de utilização, podendo ainda conter outras marcas de controlo, a definir pelo IVDP, I. P.
+
+119521473

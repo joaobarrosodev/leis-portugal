@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/258a00/77087710.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/460/1999/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1999-693807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:13:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a900a5fe539fe19d09420c3d3adf367f0d48561603a9c4602fd1f9c5bc18db1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63e5d3e41b992fba48ee847b750f8f8ac8f9aeb4eee4df1c1660d5a3743d397d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:13:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,33 +68,40 @@ reuse:
 subjects:
 - Carreira de Auxiliar de Acção Educativa
 - Carreira de Cozinheiro
-- Pessoal Dirigente
+- Carreira Profissional
 - Criação de Serviços
 - Direcção Geral dos Serviços de Informática
 - Diretor Geral
+- Educação Pré-escolar
 - Educador de Infância
-- Sistema Retributivo
-- Carreira Profissional
 - Gabinete de Gestão Financeira
-- Ministério das Finanças
-- Ministério da Justiça
+- Gestão de Recursos Humanos
 - Integração de Serviços
 - Integração de Trabalhadores
 - Jardim de Infância
+- Ministério da Justiça
+- Ministério das Finanças
 - Orgânica
 - Pessoal Auxiliar
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Regime de Pessoal
 - Regime Jurídico
 - Remuneração
 - Serviços Sociais
-- Gestão de Recursos Humanos
-- Educação Pré-escolar
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:280923:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280923:por
+  label: "Determinada a cessação da actividade no termo do ano lectivo de 2009-2010 da creche-jardim-de-infância do Ministério\
+    \ da Justiça, criada pelo presente diploma, que é revogado, a partir de 01.02.2011, pelo DEC LEI.11/2011.21.01.2011.MJ,\
+    \ DR.IS [15] de 21.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2011-280923
+  date: '2011-01-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
   label: null
@@ -123,16 +130,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/1997/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/1997/02/10/p/dre
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620320:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogados, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), os artigos\
+    \ 5.º a 7.º pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:13:18Z'
   warnings: []
   errors: []
 ---
@@ -229,7 +290,7 @@ b) ...
 
 c) A divisão Creche-Jardim-de-Infância.
 
-###### Art. 11.º - 1 - ...
+Art. 11.º - 1 - ...
 
 2 - ...
 
@@ -285,12 +346,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 7 de Outubro de 1999.**
+Promulgado em 7 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Outubro de 1995.**
+Referendado em 21 de Outubro de 1995.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

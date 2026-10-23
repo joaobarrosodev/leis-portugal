@@ -47,40 +47,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/162-1976-500908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T04:57:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afdc8cc3437533c52539cd0d1d38acf8211efda0902907871e9f746cd39f7515
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 839f09c166027047ba2a0b6e710ddfe644e14aa575469ad41c355634747d6465
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:57:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abono Suplementar de Invalidez
+- África
+- Cálculo de Pensões
+- Deficiente das Forças Armadas
+- Forças Armadas
+- Guerra
+- Incapacidade Física
+- Invalidez
+- Militar
+- Pensão de Aposentação
+- Pensão de Invalidez
+- Pensão de Preço de Sangue
+- Pensão de Reforma
+- Pensão Extraordinária
+- Pensões
+- Promoção Profissional
+- Quadro de Pessoal
+- Reconversão Profissional
+- Reforma
+- Regime Jurídico
+- Reintegração de Militares
+- Remuneração
+- Serviço Militar
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:383808:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:409531:por
+  label: Prorrogado, até ao dia 24.03.1977, inclusive, o prazo, previsto no n.º 3 do presente diploma pelo(a) Portaria n.º
+    603/76 - Diário da República n.º 241/1976, Série I de 1976-10-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/603-1976-409531
+  date: '1976-10-14'
+- type: amended_by
+  target: pt:dre:139895:por
+  label: Prorrogado até ao dia 22 de junho de 1977 o prazo previsto no presente diploma pelo(a) Portaria n.º 197/77 - Diário
+    da República n.º 85/1977, Série I de 1977-04-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/197-1977-139895
+  date: '1977-04-12'
+- type: amended_by
+  target: pt:dre:468674:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma constante da alínea a) do n.º 7, pelo AC.563/96.10.04.1996.TCS,\
+    \ DR.IS-A [114] de 16.05.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/563-1996-468674
+  date: '1996-04-10'
+- type: cites
+  target: pt:dre:413023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507658:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:57:54Z'
   warnings: []
   errors: []
 ---

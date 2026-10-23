@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/466-1982-392818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T07:17:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f6b7b068772e5541c71571d44caa1f565acffd8cf98df47101e283e131c9492
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e9ad259142cff261354b3d15692247fc09f86e04c675bf7a37bd9ad8a29ba8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:17:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Médica Hospitalar
+- Centro Psiquiátrico de Recuperação de Montachique
+- Médico
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal de Enfermagem
+- Pessoal Operário
+- Pessoal Técnico
+- Pessoal Técnico Auxiliar de Diagnóstico e Terapêutica
+- Pessoal Técnico Profissional
+- Pessoal Técnico Superior
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:285877:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL APROVADO, PELA PORT 186/83 DE 02-MAR DR.IS [50]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-03-02'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL APROVADO, PELA PORT 405/84 DE 23-JUN DR.IS [144]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-06-23'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 451/87 DE 29-MAI DR.IS [123] NA PARTE REFERENTE AO PESSOAL TÉCNICO AUXILIAR
+    DE DIAGNÓSTICO E TERAPÊUTICA
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-05-29'
+- type: amended_by
+  target: pt:dre:497459:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, alterado pelas Port 186/83, de 02-Mar, 405/84, de 23-Jun\
+    \ e 707/85, de 23-Set, pela PORT.848/87.03.11.1987.MF, DR.IS [253] de 03.11.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/848-1987-497459
+  date: '1987-11-03'
+- type: amended_by
+  target: pt:dre:285877:por
+  label: "Alterado o quadro de pessoal pela PORT.162/88.16.03.1988.MF, DR.IS [63] de 16.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/162-1988-285877
+  date: '1988-03-16'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:17:14Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +151,6 @@ Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Adminis
 
 Quadro de pessoal do Centro Psiquiátrico de Recuperação de Montachique
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/05/10300/11461147.pdf))](https://files.diariodarepublica.pt/1s/1982/05/10300/11461147.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/05/10300/11461147.pdf)
 
 Nota. - O funcionário administrativo que desempenhar as funções de tesoureiro, manterá a actual remuneração mensal de 400$00 para falhas, sem prejuízo da revisão deste quantitativo nos termos da lei geral aplicável.

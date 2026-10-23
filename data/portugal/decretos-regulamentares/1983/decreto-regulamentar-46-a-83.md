@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 131/1983, 1º Suplemento, Série I de 1983-06-08
   number: '131'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2080-(2) a 2080-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/13101/00020013.pdf
 entry_into_force_dates: []
@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-a-1983-225789
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e6bcc4a5192d3cad9514afff2d19d16d25bc12596f7700f5f34970aec890664
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8385589805f630b732801d94350fcd432ac0d233142ddadfc896e8ee5b3706ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral das Pescas
+- Ministério da Agricultura Comércio e Pescas
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:394487:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:44Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +97,9 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Direcção-Geral das Pescas, criada pela alínea d) do n.º 1 do artigo 10.º do [Decreto-Lei n.º 293/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1982-394487), de 27 de Julho, é um organismo do Ministério da Agricultura, Comércio e Pescas dotado de autonomia administrativa, com atribuições de promover, coordenar e orientar o desenvolvimento técnico e económico, de administração geral e de relações técnicas internacionais do sector das pescas.
+Artigo 1.º A Direcção-Geral das Pescas, criada pela alínea d) do n.º 1 do artigo 10.º do [Decreto-Lei n.º 293/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1982-394487), de 27 de Julho, é um organismo do Ministério da Agricultura, Comércio e Pescas dotado de autonomia administrativa, com atribuições de promover, coordenar e orientar o desenvolvimento técnico e económico, de administração geral e de relações técnicas internacionais do sector das pescas.
 
-###### Art. 2.º Para a prossecução dos seus objectivos, compete à Direcção-Geral das Pescas:
+Art. 2.º Para a prossecução dos seus objectivos, compete à Direcção-Geral das Pescas:
 
 a) Estudar e contribuir para a definição da política nacional de pescas nos seus diversos aspectos, designadamente quanto à gestão e aproveitamento dos recursos vivos, marítimos e estuarinos, investimentos, preços à produção, seguros, associativismo, gestão de stocks, abastecimento e mercados;
 
@@ -132,7 +139,7 @@ s) Colaborar no apoio técnico e administrativo ao Gabinete de Relações Extern
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 3.º A Direcção-Geral das Pescas é dirigida pelo director-geral das Pescas e dotada com a seguinte estrutura orgânica:
+Art. 3.º A Direcção-Geral das Pescas é dirigida pelo director-geral das Pescas e dotada com a seguinte estrutura orgânica:
 
 1 - Órgãos:
 
@@ -158,7 +165,7 @@ b) Direcção de Serviços de Apoio às Empresas e Trabalhadores das Pescas;
 
 c) Direcção de Serviços de Recursos e de Cooperação Internacional.
 
-###### Art. 4.º - 1 - Compete ao director-geral:
+Art. 4.º - 1 - Compete ao director-geral:
 
 a) Dirigir e coordenar superiormente todos os serviços da Direcção-Geral;
 
@@ -174,13 +181,13 @@ e) Representar a Direcção-Geral junto de quaisquer organismos ou entidades.
 
 3 - O director-geral será substituído nas suas ausências e impedimentos pelo subdirector-geral que for designado por despacho ministerial.
 
-###### Art. 5.º - 1 - O conselho consultivo é presidido pelo director-geral e é constituído pelos directores-gerais ou equiparados dos organismos da Secretaria de Estado das Pescas e por representantes das associações económicas, empresariais e laborais do sector das pescas.
+Art. 5.º - 1 - O conselho consultivo é presidido pelo director-geral e é constituído pelos directores-gerais ou equiparados dos organismos da Secretaria de Estado das Pescas e por representantes das associações económicas, empresariais e laborais do sector das pescas.
 
 2 - Os vogais referidos no número anterior são nomeados por despacho ministerial, ouvidas as entidades interessadas.
 
 3 - O conselho consultivo pode ser solicitado a pronunciar-se sobre todas as matérias de interesse para a Direcção-Geral, especialmente sobre as competências referidas nas alíneas a) e b) do artigo 2.º
 
-###### Art. 6.º - 1 - O conselho consultivo funcionará em sessões plenárias ou por comissões especializadas, de acordo com o respectivo regulamento interno, a aprovar por despacho ministerial.
+Art. 6.º - 1 - O conselho consultivo funcionará em sessões plenárias ou por comissões especializadas, de acordo com o respectivo regulamento interno, a aprovar por despacho ministerial.
 
 2 - Compete ao director-geral, como presidente do conselho consultivo:
 
@@ -192,7 +199,7 @@ c) Nomear o secretário do conselho;
 
 d) Convidar, com o estatuto de observador ou consultor, entidades estranhas ao conselho, que poderão participar nas sessões plenárias ou nas comissões sem direito a voto.
 
-###### Art. 7.º - 1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira e é constituído pelos seguintes membros efectivos:
+Art. 7.º - 1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira e é constituído pelos seguintes membros efectivos:
 
 a) O director-geral, que presidirá;
 
@@ -210,7 +217,7 @@ c) Em substituição do director de Serviços de Administração, o chefe da Rep
 
 3 - Participará nas reuniões do conselho administrativo, com as funções de secretário, sem direito a voto, o chefe da Repartição de Administração Financeira ou, nas suas ausências ou impedimentos, outro chefe de repartição, a designar pelo director-geral.
 
-###### Art. 8.º - 1 - Compete ao conselho administrativo:
+Art. 8.º - 1 - Compete ao conselho administrativo:
 
 a) Elaborar o projecto de orçamento da Direcção-Geral de conta das dotações consignadas no Orçamento do Estado e propor as alterações consideradas necessárias;
 
@@ -244,7 +251,7 @@ c) Submeter à apreciação do conselho todos os assuntos e propostas julgados n
 
 5 - O conselho administrativo estabelecerá as normas internas do seu funcionamento.
 
-###### Art. 9.º Aos serviços compete, de uma forma geral, o estudo, coordenação e fomento das actividades relacionadas com a exploração dos recursos vivos e salinos das águas marítimas e estuarinas, cabendo-lhes, consoante a área funcional em que exerçam a sua actividade, o seguinte:
+Art. 9.º Aos serviços compete, de uma forma geral, o estudo, coordenação e fomento das actividades relacionadas com a exploração dos recursos vivos e salinos das águas marítimas e estuarinas, cabendo-lhes, consoante a área funcional em que exerçam a sua actividade, o seguinte:
 
 a) A execução e regulamentação das políticas definidas para o sector das pescas e a sua harmonização com as outras políticas sectoriais;
 
@@ -260,7 +267,7 @@ f) A elaboração de propostas e a emissão de pareceres sobre projectos de dipl
 
 g) A participação em reuniões e nas actividades de organismos especializados.
 
-###### Art. 10.º - 1 - O Departamento de Estudos e Planeamento, dirigido por um director de serviços, tem como atribuições promover, coordenar e realizar os estudos e trabalhos necessários à formulação da estratégia de desenvolvimento do sector das pescas e dos respectivos planos, projectos e programas, efectuando ainda o respectivo controle de execução.
+Art. 10.º - 1 - O Departamento de Estudos e Planeamento, dirigido por um director de serviços, tem como atribuições promover, coordenar e realizar os estudos e trabalhos necessários à formulação da estratégia de desenvolvimento do sector das pescas e dos respectivos planos, projectos e programas, efectuando ainda o respectivo controle de execução.
 
 2 - O Departamento de Estudos e Planeamento compreende as seguintes subunidades orgânicas:
 
@@ -268,7 +275,7 @@ a) Divisão de Estudos;
 
 b) Divisão de Planeamento.
 
-###### Art. 11.º À Divisão de Estudos compete:
+Art. 11.º À Divisão de Estudos compete:
 
 a) Estudar e propor a definição das alternativas de desenvolvimento do sector das pescas, do comportamento das suas variáveis macroeconómicas e das medidas de ajustamento económico ao respectivo processo de desenvolvimento;
 
@@ -286,7 +293,7 @@ g) Emitir pareceres jurídicos, económicos e financeiros sobre os programas e a
 
 h) Manter informação actualizada sobre elementos de interesse para o desempenho das suas atribuições, nomeadamente sobre sistemas de crédito e de financiamento.
 
-###### Art. 12.º À Divisão de Planeamento compete:
+Art. 12.º À Divisão de Planeamento compete:
 
 a) Propor a estratégia de desenvolvimento das actividades do sector, em conformidade com a política nacional de pescas;
 
@@ -304,7 +311,7 @@ g) Propor a definição dos critérios e normas a que deverá obedecer a execuç
 
 h) Assegurar a ligação com o Gabinete de Planeamento do Ministério e com outros órgãos e serviços de planeamento.
 
-###### Art. 13.º - 1 - A Direcção de Serviços de Administração exerce as suas atribuições nos domínios da administração financeira, patrimonial, de pessoal, arquivo, expediente e administração geral.
+Art. 13.º - 1 - A Direcção de Serviços de Administração exerce as suas atribuições nos domínios da administração financeira, patrimonial, de pessoal, arquivo, expediente e administração geral.
 
 2 - A Direcção de Serviços de Administração assegura as ligações com os serviços centrais de coordenação e apoio do Ministério e com outros organismos, de forma a garantir a efectivação das suas atribuições.
 
@@ -316,7 +323,7 @@ b) Repartição de Administração Financeira;
 
 c) Repartição de Administração Patrimonial.
 
-###### Art. 14.º - 1 - À Repartição de Pessoal e Administração Geral compete executar as acções administrativas nas áreas da administração de pessoal, arquivo, expediente, acolhimento e assuntos gerais.
+Art. 14.º - 1 - À Repartição de Pessoal e Administração Geral compete executar as acções administrativas nas áreas da administração de pessoal, arquivo, expediente, acolhimento e assuntos gerais.
 
 2 - A Repartição de Pessoal e de Administração Geral compreende as seguintes secções:
 
@@ -324,7 +331,7 @@ a) Secção de Pessoal;
 
 b) Secção de Administração Geral.
 
-###### Art. 15.º À Secção de Pessoal compete:
+Art. 15.º À Secção de Pessoal compete:
 
 a) Organizar e manter actualizado o cadastro de todo o pessoal da Direcção-Geral;
 
@@ -342,7 +349,7 @@ g) Instruir os processos de acidentes em serviço e dar-lhes o devido andamento;
 
 h) Colaborar com a Direcção-Geral de Organização e Recursos Humanos nas áreas da gestão de pessoal.
 
-###### Art. 16.º À Secção de Administração Geral compete:
+Art. 16.º À Secção de Administração Geral compete:
 
 a) Executar todas as tarefas respeitantes ao processamento do expediente geral, ao registo e classificação da documentação entrada e expedida e ao controle da circulação de documentos pelos serviços da Direcção-Geral;
 
@@ -356,7 +363,7 @@ e) Assegurar o serviço de acolhimento;
 
 f) Colaborar com a Divisão de Informação e Documentação na selecção e difusão de documentos de interesse técnico ou histórico.
 
-###### Art. 17.º - 1 - À Repartição de Administração Financeira compete executar acções administrativas nas áreas do orçamento, conta, contabilidade e tesouraria.
+Art. 17.º - 1 - À Repartição de Administração Financeira compete executar acções administrativas nas áreas do orçamento, conta, contabilidade e tesouraria.
 
 2 - A Repartição de Administração Financeira comprende as seguintes secções:
 
@@ -364,7 +371,7 @@ a) Secção de Orçamento e Conta;
 
 b) Secção de Contabilidade.
 
-###### Art. 18.º À Secção de Orçamento e Conta compete:
+Art. 18.º À Secção de Orçamento e Conta compete:
 
 a) Elaborar os projectos dos orçamentos e de alterações orçamentais;
 
@@ -378,7 +385,7 @@ e) Manter organizado o arquivo de toda a documentação das gerências findas;
 
 f) Fornecer à Direcção-Geral de Administração e Orçamento os elementos indispensáveis ao controle orçamental.
 
-###### Art. 19.º À Secção de Contabilidade compete:
+Art. 19.º À Secção de Contabilidade compete:
 
 a) Verificar e liquidar as despesas da Direcção-Geral;
 
@@ -390,13 +397,13 @@ d) Assegurar o funcionamento de um sistema de contabilidade analítica que permi
 
 e) Controlar o movimento de tesouraria.
 
-###### Art. 20.º Na Repartição de Administração Financeira funciona um tesoureiro, ao qual compete:
+Art. 20.º Na Repartição de Administração Financeira funciona um tesoureiro, ao qual compete:
 
 a) Arrecadar as receitas e efectuar o pagamento de todas as despesas autorizadas;
 
 b) Manter escriturados os livros de tesouraria.
 
-###### Art. 21.º - 1 - À Repartição de Administração Patrimonial compete executar acções administrativas nas áreas do aprovisionamento, gestão do património, conservação e segurança das instalações e gestão do parque automóvel.
+Art. 21.º - 1 - À Repartição de Administração Patrimonial compete executar acções administrativas nas áreas do aprovisionamento, gestão do património, conservação e segurança das instalações e gestão do parque automóvel.
 
 2 - A Repartição de Administração Patrimonial compreende as seguintes secções:
 
@@ -404,7 +411,7 @@ a) Secção de Património;
 
 b) Secção de Aprovisionamento.
 
-###### Art. 22.º À Secção de Património compete:
+Art. 22.º À Secção de Património compete:
 
 a) Assegurar a gestão de todo o património afecto à Direcção-Geral, zelando pela sua conservação e manutenção;
 
@@ -424,7 +431,7 @@ h) Superintender no pessoal de limpeza, assegurando a organização do respectiv
 
 i) Assegurar a gestão do parque automóvel.
 
-###### Art. 23.º À Secção de Aprovisionamento compete:
+Art. 23.º À Secção de Aprovisionamento compete:
 
 a) Promover a aquisição de maquinaria, material de transporte, mobiliário e demais equipamentos necessários, ouvidos os serviços competentes;
 
@@ -432,7 +439,7 @@ b) Promover todas as demais aquisições necessárias ao funcionamento dos servi
 
 c) Assegurar o serviço de informação das existências em armazém.
 
-###### Art. 24.º À Divisão de Estatística e Informática compete:
+Art. 24.º À Divisão de Estatística e Informática compete:
 
 1) Na área da estatística:
 
@@ -460,7 +467,7 @@ d) Zelar pela segurança dos dados tratados informaticamente;
 
 e) Propor a aquisição do equipamento informático e a concretização dos serviços de informática que a Direcção-Geral necessite.
 
-###### Art. 25.º À Divisão de Informação e Documentação compete:
+Art. 25.º À Divisão de Informação e Documentação compete:
 
 a) Organizar e gerir a biblioteca;
 
@@ -486,7 +493,7 @@ l) Colaborar com o Gabinete de Informação e Comunicação Social no estabeleci
 
 m) Fomentar e manter uma correcta imagem da Direcção-Geral perante a opinião pública.
 
-###### Art. 26.º - 1 - A Direcção de Serviços de Produção e Infra-Estruturas tem como atribuições promover a regulamentação e ordenamento das embarcações, artes e infra-estruturas do sector das pescas, assim como das actividades salineiras, apanhas e culturas marinhas.
+Art. 26.º - 1 - A Direcção de Serviços de Produção e Infra-Estruturas tem como atribuições promover a regulamentação e ordenamento das embarcações, artes e infra-estruturas do sector das pescas, assim como das actividades salineiras, apanhas e culturas marinhas.
 
 2 - A Direcção de Serviços de Produção e Infra-Estruturas compreende as seguintes subunidades orgânicas:
 
@@ -494,7 +501,7 @@ a) Divisão da Frota, Artes e Infra-Estruturas;
 
 b) Divisão do Sal, Apanhas e Culturas Marinhas.
 
-###### Art. 27.º À Divisão da Frota, Artes e Infra-Estruturas compete:
+Art. 27.º À Divisão da Frota, Artes e Infra-Estruturas compete:
 
 a) Estudar e propor normas e regulamentos, estabelecendo as especificações a que devem obedecer as embarcações, equipamentos e artes de pesca;
 
@@ -516,7 +523,7 @@ i) Colaborar com outras entidades competentes no estudo de novos tipos de embarc
 
 j) Promover a recolha de dados sobre frotas, suas características, artes de pesca, armadores e pescadores.
 
-###### Art. 28.º À Divisão do Sal, Apanhas e Culturas Marinhas compete:
+Art. 28.º À Divisão do Sal, Apanhas e Culturas Marinhas compete:
 
 a) Estudar e propor as normas e regulamentos necessários para coordenar, fiscalizar e disciplinar as actividades relacionadas com a exploração dos recursos salineiros, da malacologia, algologia e aquacultura, incluindo a cultura de crustáceos em depósitos flutuantes e fixos;
 
@@ -534,7 +541,7 @@ g) Colaborar com outras entidades na protecção e conservação do meio hídric
 
 h) Informar os assuntos no domínio público marítimo, no âmbito das atribuições da Direcção-Geral.
 
-###### Art. 29.º - 1 - A Direcção de Serviços de Apoio às Empresas e aos Trabalhadores das Pescas tem como atribuições estudar e propor normas reguladoras das actividades dos profissionais do sector, com vista a salvaguardar os seus direitos, promover a formação profissional e apoiar a constituição e actividade das empresas e de outras organizações produtivas do sector das pescas.
+Art. 29.º - 1 - A Direcção de Serviços de Apoio às Empresas e aos Trabalhadores das Pescas tem como atribuições estudar e propor normas reguladoras das actividades dos profissionais do sector, com vista a salvaguardar os seus direitos, promover a formação profissional e apoiar a constituição e actividade das empresas e de outras organizações produtivas do sector das pescas.
 
 2 - A Direcção de Serviços de Apoio às Empresas e aos Trabalhadores das Pescas compreende as seguintes subunidades orgânicas:
 
@@ -542,7 +549,7 @@ a) Divisão de Apoio às Condições de Trabalho;
 
 b) Divisão de Apoio à Gestão Empresarial;
 
-###### Art. 30.º À Divisão de Apoio às Condições de Trabalho compete:
+Art. 30.º À Divisão de Apoio às Condições de Trabalho compete:
 
 a) Estudar e propor, relativamente ao sector das pescas, normas e regulamentos para a inscrição marítima e matrícula dos trabalhadores, habilitações, qualificações, categorias e carreiras profissionais, lotação das embarcações e registo de armadores;
 
@@ -564,7 +571,7 @@ i) Coordenar e promover as acções de formação, em conformidade com a program
 
 j) Promover, em colaboração com o Instituto Nacional de Investigação das Pescas, acções que visem a divulgação e vulgarização científica.
 
-###### Art. 31.º À Divisão de Apoio à Gestão Empresarial compete:
+Art. 31.º À Divisão de Apoio à Gestão Empresarial compete:
 
 a) Estimular e apoiar as empresas e outras organizações de produtores do sector das pescas, designadamente a sua constituição e as respectivas actividades;
 
@@ -578,7 +585,7 @@ e) Estudar e propor medidas para a evolução do sistema de lotas e respectivas 
 
 f) Colaborar na definição e aperfeiçoamento dos circuitos de comercialização e transformação.
 
-###### Art. 32.º - 1 - A Direcção de Serviços de Recursos e de Cooperação Internacional tem como atribuições:
+Art. 32.º - 1 - A Direcção de Serviços de Recursos e de Cooperação Internacional tem como atribuições:
 
 a) Gerir os recursos vivos dos mares e estuários sob jurisdição nacional, definindo reservas, stocks, capturas, licenciando as respectivas actividades de pesca e cooperando na fiscalização da actividade das frotas pesqueiras;
 
@@ -594,7 +601,7 @@ b) Divisão de Acordos e de Cooperação Internacional;
 
 c) Divisão de Organizações Internacionais das Pescas.
 
-###### Art. 33.º À Divisão de Recursos, Capturas e Fiscalização compete:
+Art. 33.º À Divisão de Recursos, Capturas e Fiscalização compete:
 
 a) Colaborar no estudo, regulamentação e proposta de medidas para a conservação das espécies e defesa dos ecossistemas, designadamente quanto aos limites das capturas totais, esforços de pesca admissíveis, áreas de reserva, desova e criação, tamanhos mínimos, medidas de protecção de imaturos e períodos de defeso, assim como os condicionalismos e proibições aplicáveis a artes, malhagens e forras;
 
@@ -608,7 +615,7 @@ e) Colaborar no estudo e divulgação de normas e tabelas técnicas necessárias
 
 f) Estudar e propor critérios de atribuições de quotas de captura e esforço de pesca, em colaboração com o Instituto Nacional de Investigação das Pescas.
 
-###### Art. 34.º À Divisão de Acordos e de Cooperação Internacional compete:
+Art. 34.º À Divisão de Acordos e de Cooperação Internacional compete:
 
 a) Promover, no que se refere aos aspectos técnicos, a preparação de negociações de acordos de pesca, de programas, projectos e acções de cooperação com países estrangeiros;
 
@@ -624,7 +631,7 @@ f) Avaliar as potencialidades e necessidades dos interesses nacionais do sector 
 
 g) Avaliar o interesse técnico-económico das iniciativas, sugestões, propostas e ofertas provenientes do exterior e propor o seu aproveitamento.
 
-###### Art. 35.º À Divisão de Organizações Internacionais das Pescas compete:
+Art. 35.º À Divisão de Organizações Internacionais das Pescas compete:
 
 a) Prestar assessoria técnica aos representantes nacionais junto das organizações internacionais das pescas, fornecendo-lhes as informações solicitadas no âmbito das relações técnicas internacionais das pescas;
 
@@ -642,7 +649,7 @@ g) Colaborar na organização, apoiar e secretariar as reuniões das organizaç�
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-###### Art. 36.º - 1 - A gestão da Direcção-Geral será disciplinada pelos seguintes instrumentos de previsão e controle:
+Art. 36.º - 1 - A gestão da Direcção-Geral será disciplinada pelos seguintes instrumentos de previsão e controle:
 
 a) Plano anual de actividades;
 
@@ -656,7 +663,7 @@ d) Conta e relatório financeiro.
 
 3 - Os orçamentos serão elaborados com base no plano anual de actividades, sem prejuízo dos desdobramentos internos que se mostrem necessários à conveniente descentralização de responsabilidades e adequado controle de gestão.
 
-###### Art. 37.º - 1 - Constituem receitas próprias da Direcção-Geral das Pescas:
+Art. 37.º - 1 - Constituem receitas próprias da Direcção-Geral das Pescas:
 
 a) As quantias cobradas por serviços prestados a entidades públicas ou privadas;
 
@@ -670,7 +677,7 @@ d) Quaisquer outras receitas que lhe sejam atribuídas por lei ou provenientes d
 
 3 - Os saldos das dotações não utilizadas serão transferidos para o ano económico subsequente.
 
-###### Art. 38.º - 1 - A cobrança coerciva das dívidas será feita pelo processo das execuções fiscais, através dos serviços de justiça fiscal.
+Art. 38.º - 1 - A cobrança coerciva das dívidas será feita pelo processo das execuções fiscais, através dos serviços de justiça fiscal.
 
 2 - O processo terá por base certidão, passada pela Direcção de Serviços de Administração, da qual constem os seguintes elementos:
 
@@ -684,7 +691,7 @@ d) Data da certidão e assinatura da entidade emitente devidamente autenticada c
 
 3 - A mora do devedor, referida na alínea c) do número anterior, conta-se a partir do último dia do prazo fixado para o pagamento.
 
-###### Art. 39.º Constituem despesas da Direcção-Geral:
+Art. 39.º Constituem despesas da Direcção-Geral:
 
 a) Os encargos com o respectivo funcionamento, cumprimento das suas atribuições e exercício das suas competências;
 
@@ -694,54 +701,54 @@ c) Os custos de aquisição, manutenção e conservação de bens, equipamentos 
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 40.º - 1 - A Direcção-Geral dispõe do contingente de pessoal do quadro único do Ministério constante do mapa anexo ao presente diploma.
+Art. 40.º - 1 - A Direcção-Geral dispõe do contingente de pessoal do quadro único do Ministério constante do mapa anexo ao presente diploma.
 
 2 - A distribuição do pessoal pelos respectivos serviços é da competência do director-geral.
 
 3 - Os tesoureiros têm direito a um abono para falhas, de acordo com a lei geral.
 
-###### Art. 41.º Ao pessoal da Direcção-Geral não é permitido, salvo nos casos expressamente previstos na lei, acumular lugares ou cargos públicos, nem exercer actividades privadas, por si ou por interposta pessoa, remuneradas ou não, quando esse exercício se mostre incompatível com os deveres legalmente estabelecidos ou seja susceptível de impedir, dificultar ou frustrar o cabal desempenho das funções decorrentes do exercício dos cargos ou a inteira satisfação dos objectivos da Direcção-Geral.
+Art. 41.º Ao pessoal da Direcção-Geral não é permitido, salvo nos casos expressamente previstos na lei, acumular lugares ou cargos públicos, nem exercer actividades privadas, por si ou por interposta pessoa, remuneradas ou não, quando esse exercício se mostre incompatível com os deveres legalmente estabelecidos ou seja susceptível de impedir, dificultar ou frustrar o cabal desempenho das funções decorrentes do exercício dos cargos ou a inteira satisfação dos objectivos da Direcção-Geral.
 
-###### Art. 42.º - 1 - A Direcção-Geral assegura o direito à formação permanente dos seus trabalhadores e para este efeito serão organizados cursos, cuja frequência poderá ser obrigatória.
+Art. 42.º - 1 - A Direcção-Geral assegura o direito à formação permanente dos seus trabalhadores e para este efeito serão organizados cursos, cuja frequência poderá ser obrigatória.
 
 2 - Os cursos poderão ser monitorados pelos funcionários da Direcção-Geral ou por entidades ou indivíduos estranhos com especial competência nas respectivas matérias, sendo as suas remunerações fixadas por despacho ministerial.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 43.º - 1 - O funcionário dos serviços subordinar-se-á a critérios de gestão participativa e por objectivos e ao princípio da desconcentração decisória.
+Art. 43.º - 1 - O funcionário dos serviços subordinar-se-á a critérios de gestão participativa e por objectivos e ao princípio da desconcentração decisória.
 
 2 - Para o estudo de problemas específicos poderão ser constituídos grupos de trabalho ou equipas de projecto, cujo mandato, composição e funcionamento serão estabelecidos por despacho do director-geral.
 
 3 - Os grupos de trabalho e as equipas de projecto ocupar-se-ão de assuntos que, pela natureza específica ou interdisciplinar, não devam ser cometidos a quaisquer unidades orgânicas da Direcção-Geral.
 
-###### Art. 44.º - 1 - A realização de estudos, projectos e outros trabalhos específicos de carácter excepcional poderá ser confiada, mediante contrato, a entidades nacionais ou estrangeiras de reconhecida competência e mérito.
+Art. 44.º - 1 - A realização de estudos, projectos e outros trabalhos específicos de carácter excepcional poderá ser confiada, mediante contrato, a entidades nacionais ou estrangeiras de reconhecida competência e mérito.
 
 2 - Os contratos serão sempre reduzidos a escrito, especificando a natureza do trabalho, o prazo previsto para a sua execução e o montante da remuneração.
 
 3 - Os contratos referidos no número anterior não conferem em nenhum caso a qualidade de agente administrativo.
 
-###### Art. 45.º - 1 - A Direcção-Geral pode efectuar, em companhias nacionais, os seguros que for conveniente fazer em benefício dos seus trabalhadores sujeitos a riscos graves.
+Art. 45.º - 1 - A Direcção-Geral pode efectuar, em companhias nacionais, os seguros que for conveniente fazer em benefício dos seus trabalhadores sujeitos a riscos graves.
 
 2 - O seguro destina-se a reparar danos eventuais emergentes de acidentes em resultado do exercício das respectivas funções.
 
-###### Art. 46.º A Direcção-Geral pode atribuir subsídios, reembolsáveis ou não, a entidades públicas e privadas e a cooperativas que organizem certames, feiras, exposições ou simpósios relacionados com a inovação tecnológica ou a sua divulgação.
+Art. 46.º A Direcção-Geral pode atribuir subsídios, reembolsáveis ou não, a entidades públicas e privadas e a cooperativas que organizem certames, feiras, exposições ou simpósios relacionados com a inovação tecnológica ou a sua divulgação.
 
-###### Art. 47.º Os encargos com transportes e ajudas de custo devidas a trabalhadores do Ministério ou de outros departamentos ministeriais, ou a pessoas a ele estranhas, pela sua participação no Conselho Consultivo, noutras reuniões técnicas ou em outros empreendimentos da Direcção-Geral serão pagos por conta das dotações destinadas a esses objectivos.
+Art. 47.º Os encargos com transportes e ajudas de custo devidas a trabalhadores do Ministério ou de outros departamentos ministeriais, ou a pessoas a ele estranhas, pela sua participação no Conselho Consultivo, noutras reuniões técnicas ou em outros empreendimentos da Direcção-Geral serão pagos por conta das dotações destinadas a esses objectivos.
 
-###### Art. 48.º Os activos e passivos, os edifícios e instalações, os móveis e utensílios, máquinas, viaturas, demais equipamento e patrimónios, bem como toda a documentação, livros e registos, das extintas Direcções-Gerais do Desenvolvimento e Coordenação das Pescas e da Administração das Pescas transitam para a Direcção-Geral das Pescas na data da entrada em vigor deste diploma, mediante relações devidamente assinadas e autenticadas.
+Art. 48.º Os activos e passivos, os edifícios e instalações, os móveis e utensílios, máquinas, viaturas, demais equipamento e patrimónios, bem como toda a documentação, livros e registos, das extintas Direcções-Gerais do Desenvolvimento e Coordenação das Pescas e da Administração das Pescas transitam para a Direcção-Geral das Pescas na data da entrada em vigor deste diploma, mediante relações devidamente assinadas e autenticadas.
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - Basílio Adolfo Mendonça Horta da Franca - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 17 de Maio de 1983.**
+Promulgado em 17 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 3 de Junho de 1983.**
+Referendado em 3 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Mapa anexo a que se refere o n.º 1 do artigo 40.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/13101/00020013.pdf))](https://files.diariodarepublica.pt/1s/1983/06/13101/00020013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/13101/00020013.pdf)

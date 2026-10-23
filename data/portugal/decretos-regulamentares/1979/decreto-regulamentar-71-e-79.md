@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 299/1979, 14º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 14º Suplemento
+  supplement: null
   pages: 3446-(280) a 3446-(286)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29914/02800286.pdf
 entry_into_force_dates: []
@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-e-1979-156810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db9d9507396bc6dd74068a4f5bd13fdaffe1843cac84e821b7be21c4a7d7ed18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9db25e0f9a882d2ff85fe251092f1c8b097303b75b06a40f527d0b45cd94b430
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Administrativo
+- Conselho Consultivo
+- Definição de Competências
+- Direcção Geral do Desenvolvimento e Coordenação das Pescas
+- Diretor Geral
+- Orgânica
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:365284:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:678822:por
+  label: Rectificado pela DECL.DD6762.22.02.1980.PCM, DR.IS [56] de 07.03.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-678822
+  date: '1980-02-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:10Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +106,11 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - A Direcção-Geral do Desenvolvimento e Coordenação das Pescas, abreviadamente designada por DGDCP, criada pelo artigo 1.º do [Decreto-Lei n.º 411/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1979-365284), de 28 de Setembro, é um organismo cuja actividade se exerce no âmbito do planeamento, desenvolvimento, coordenação e relações técnicas internacionais do sector das pescas.
+Artigo 1.º - 1 - A Direcção-Geral do Desenvolvimento e Coordenação das Pescas, abreviadamente designada por DGDCP, criada pelo artigo 1.º do [Decreto-Lei n.º 411/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1979-365284), de 28 de Setembro, é um organismo cuja actividade se exerce no âmbito do planeamento, desenvolvimento, coordenação e relações técnicas internacionais do sector das pescas.
 
 2 - As atribuições da DGDCP são as constantes do artigo 2.º do [Decreto-Lei n.º 411/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1979-365284), de 28 de Setembro, e quaisquer outras que lhe sejam cometidas por lei.
 
-###### Art. 2.º - 1 - A DGDCP é um organismo dotado de autonomia administrativa.
+Art. 2.º - 1 - A DGDCP é um organismo dotado de autonomia administrativa.
 
 2 - Constituem receitas próprias da DGDCP:
 
@@ -110,19 +126,19 @@ d) Quaisquer outras receitas que lhe sejam atribuídas por lei ou contrato.
 
 4 - Os saldos das dotações não utilizadas serão transferidos para o ano económico subsequente.
 
-###### Art. 3.º A DGDCP é dirigida por um director-geral, coadjuvado por um subdirector-geral, que o substituirá nas suas ausências e impedimentos.
+Art. 3.º A DGDCP é dirigida por um director-geral, coadjuvado por um subdirector-geral, que o substituirá nas suas ausências e impedimentos.
 
 ### CAPÍTULO II — Órgãos e serviços
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 4.º São órgãos da DGDCP:
+Art. 4.º São órgãos da DGDCP:
 
 a) O Conselho Consultivo das Pescas;
 
 b) O Conselho Administrativo.
 
-###### Art. 5.º - 1 - O Conselho Consultivo das Pescas é um órgão de consulta e apoio ao director-geral.
+Art. 5.º - 1 - O Conselho Consultivo das Pescas é um órgão de consulta e apoio ao director-geral.
 
 2 - O Conselho Consultivo é constituído pelos seguintes membros:
 
@@ -166,7 +182,7 @@ j) Um representante dos sindicatos dos motoristas.
 
 5 - Sempre que se mostre conveniente, serão convocados ou convidados, com estatuto consultivo, outros elementos da Secretaria de Estado das Pescas ou a ela estranhos, especialmente qualificados para o esclarecimento das matérias em apreciação.
 
-###### Art. 6.º - 1 - Ao Conselho Consultivo das Pescas compete:
+Art. 6.º - 1 - Ao Conselho Consultivo das Pescas compete:
 
 a) Pronunciar-se sobre os planos a curto, médio e longo prazos das actividades do sector das pescas;
 
@@ -206,13 +222,13 @@ b) Elaborar as actas das reuniões e desenvolver as acções delas resultantes;
 
 c) Assegurar o arquivo e expediente do Conselho.
 
-###### Art. 7.º - 1 - O Conselho Consultivo funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo ordinariamente pelo menos quatro vezes por ano e extraordinariamente sempre que o presidente o convoque.
+Art. 7.º - 1 - O Conselho Consultivo funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo ordinariamente pelo menos quatro vezes por ano e extraordinariamente sempre que o presidente o convoque.
 
 2 - Desde que haja quórum, os assuntos submetidos à apreciação do Conselho Consultivo são resolvidos por maioria simples dos membros presentes, tendo o presidente voto de qualidade.
 
 3 - O Conselho Consultivo funcionará em conformidade com o seu regulamento interno, aprovado por despacho do Secretário de Estado das Pescas.
 
-###### Art. 8.º - 1 - O Conselho Administrativo é o órgão deliberativo em matéria de gestão financeira, constituído pelos seguintes membros:
+Art. 8.º - 1 - O Conselho Administrativo é o órgão deliberativo em matéria de gestão financeira, constituído pelos seguintes membros:
 
 a) O director-geral da DGDCP, que presidirá;
 
@@ -222,7 +238,7 @@ c) O chefe da Repartição de Administração.
 
 2 - Servirá de secretário o chefe da Secção de Administração Patrimonial e Financeira.
 
-###### Art. 9.º - 1 - Compete ao Conselho Administrativo:
+Art. 9.º - 1 - Compete ao Conselho Administrativo:
 
 a) Elaborar o projecto de orçamento da DGDCP de conta das dotações consignadas no Orçamento Geral do Estado e propor as alterações orçamentais consideradas necessárias;
 
@@ -256,7 +272,7 @@ c) Submeter à apreciação do Conselho todos os assuntos que entenda convenient
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 10.º A DGDCP dispõe dos seguintes serviços:
+Art. 10.º A DGDCP dispõe dos seguintes serviços:
 
 A) Serviços de apoio:
 
@@ -278,19 +294,19 @@ c) Direcção de Serviços de Operações e Inspecção de Pescas.
 
 ##### SUBSECÇÃO I — Dos serviços de apoio
 
-###### Art. 11.º - 1 - A Direcção de Serviços de Estudos e Planeamento tem como atribuições a promoção e elaboração dos estudos e trabalhos necessários à formulação dos planos anuais de médio e longo prazos e respectivos relatórios.
+Art. 11.º - 1 - A Direcção de Serviços de Estudos e Planeamento tem como atribuições a promoção e elaboração dos estudos e trabalhos necessários à formulação dos planos anuais de médio e longo prazos e respectivos relatórios.
 
 2 - À Direcção de Serviços de Estudos e Planeamento compete ainda, em ligação com o Gabinete de Planeamento do Ministério da Agricultura e Pescas e em coordenação com outros Ministérios ou organismos internacionais, o acompanhamento dos programas e projectos cujo desenvolvimento influencie o sector das pescas.
 
 3 - A Direcção de Serviços de Estudos e Planeamento assegura a integração e compatibilização dos programas e projectos dos diversos órgãos da Secretaria de Estado das Pescas nos planos de desenvolvimento do sector.
 
-###### Art. 12.º A Direcção de Serviços de Estudos e Planeamento é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 12.º A Direcção de Serviços de Estudos e Planeamento é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Estudos;
 
 b) Planeamento e Contrôle de Execução.
 
-###### Art. 13.º À Divisão de Estudos compete:
+Art. 13.º À Divisão de Estudos compete:
 
 a) Efectuar os estudos relativos ao diagnóstico, formulação de objectivos, estratégias e medidas de política necessários ao desenvolvimento do sector;
 
@@ -304,7 +320,7 @@ e) Proceder à recolha e compilação de informações e elementos estatísticos
 
 f) Propor o estabelecimento de preços à produção e colaborar na definição de normas comerciais no âmbito do sector com os serviços competentes do Ministério do Comércio e Turismo.
 
-###### Art. 14.º À Divisão de Planeamento e Contrôle da Execução compete:
+Art. 14.º À Divisão de Planeamento e Contrôle da Execução compete:
 
 a) Propor a estratégia de desenvolvimento a adoptar para o sector e as correspondentes actuações, em conformidade com a política definida superiormente;
 
@@ -318,7 +334,7 @@ e) Definir os critérios e normas de análise, avaliação e contrôle da execu�
 
 f) Acompanhar e controlar a execução material e financeira dos programas e projectos do sector, bem como a realização das respectivas medidas de política, procedendo periodicamente à elaboração dos respectivos relatórios.
 
-###### Art. 15.º À Divisão de Estatística compete:
+Art. 15.º À Divisão de Estatística compete:
 
 a) Colaborar com o Gabinete de Planeamento do Ministério da Agricultura e Pescas na ligação com os órgãos dos sistemas estatísticos nacionais e internacionais;
 
@@ -334,7 +350,7 @@ f) Recolher informações sobre a actividade das empresas e outras entidades do 
 
 g) Divulgar junto dos órgãos da Secretaria de Estado das Pescas as informações estatísticas recolhidas e junto das entidades competentes os dados necessários à informação a prestar por estas a organizações técnicas internacionais.
 
-###### Art. 16.º Ao Centro de Documentação e Informação, orientado por um técnico superior na dependência directa do director-geral, compete, em colaboração com o correspondente serviço central do Ministério da Agricultura e Pescas:
+Art. 16.º Ao Centro de Documentação e Informação, orientado por um técnico superior na dependência directa do director-geral, compete, em colaboração com o correspondente serviço central do Ministério da Agricultura e Pescas:
 
 a) Organizar e gerir a biblioteca da DGDCP;
 
@@ -350,7 +366,7 @@ f) Assegurar a edição e divulgação de trabalhos de natureza técnica de inte
 
 g) Colaborar na organização e participação da DGDCP em feiras e exposições.
 
-###### Art. 17.º - 1 - A Repartição de Administração exerce as suas atribuições nos domínios da administração financeira e patrimonial e de pessoal, expediente e arquivo.
+Art. 17.º - 1 - A Repartição de Administração exerce as suas atribuições nos domínios da administração financeira e patrimonial e de pessoal, expediente e arquivo.
 
 2 - A Repartição de Administração assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
@@ -360,7 +376,7 @@ a) Administração Patrimonial e Financeira;
 
 b) Pessoal e Expediente.
 
-###### Art. 18.º À Secção de Administração Patrimonial e Financeira compete:
+Art. 18.º À Secção de Administração Patrimonial e Financeira compete:
 
 a) Organizar e manter actualizado o inventário da DGDCP respeitante a edifícios e outras instalações, maquinaria e equipamento, material de transporte e demais bens de capital;
 
@@ -392,7 +408,7 @@ o) Manter organizado o arquivo de toda a documentação das gerências findas;
 
 p) Fiscalizar o movimento da tesouraria, efectuando mensalmente o seu balanço.
 
-###### Art. 19.º Adstrita à Secção de Administração Patrimonial e Financeira funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
+Art. 19.º Adstrita à Secção de Administração Patrimonial e Financeira funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
 
 a) Arrecadar todas as receitas pertencentes à DGDCP;
 
@@ -400,7 +416,7 @@ b) Efectuar o pagamento de todas as despesas devidamente autorizadas;
 
 e) Manter devidamente escriturados todos os livros de tesouraria.
 
-###### Art. 20.º À Secção de Pessoal e Expediente compete:
+Art. 20.º À Secção de Pessoal e Expediente compete:
 
 a) Elaborar e manter actualizado o cadastro de todo o pessoal da DGDCP;
 
@@ -420,19 +436,19 @@ h) Elaborar directivas de processamento e arquivo de correspondência e promover
 
 i) Assegurar uma adequada circulação de documentos e normas pelos diversos serviços da DGDCP.
 
-###### Art. 21.º - 1 - A Direcção de Serviços das Organizações Sectoriais de Pescas tem como atribuições assegurar e coordenar a representação e actuação do Ministério da Agricultura e Pescas nas organizações sectoriais internacionais competentes em matérias que interessam ao sector.
+Art. 21.º - 1 - A Direcção de Serviços das Organizações Sectoriais de Pescas tem como atribuições assegurar e coordenar a representação e actuação do Ministério da Agricultura e Pescas nas organizações sectoriais internacionais competentes em matérias que interessam ao sector.
 
 2 - À Direcção de Serviços das Organizações Sectoriais de Pescas compete ainda participar em organismos e conferências internacionais relacionados com actividades do sector.
 
 3 - A Direcção de Serviços das Organizações Sectoriais de Pescas assegura a execução das recomendações, resoluções, declarações e regulamentos emanados das organizações sectoriais, depois de integrados em direito interno.
 
-###### Art. 22.º A Direcção de Serviços das Organizações Sectoriais de Pescas é dirigida por um director de serviços e compreende as seguintes Divisões:
+Art. 22.º A Direcção de Serviços das Organizações Sectoriais de Pescas é dirigida por um director de serviços e compreende as seguintes Divisões:
 
 a) De Organizações Técnicas de Pescas;
 
 b) De Organismos Científicos e Económicos.
 
-###### Art. 23.º À Divisão das Organizações Técnicas de Pescas compete:
+Art. 23.º À Divisão das Organizações Técnicas de Pescas compete:
 
 a) Organizar os quadros de representação nacional junto das organizações regionais e conferências internacionais de pesca, propondo a nomeação dos representantes permanentes e não permanentes a cada reunião, bem como dos respectivos suplentes, peritos e conselheiros;
 
@@ -450,7 +466,7 @@ g) Elaborar critérios normativos de atribuições de quotas de captura e esfor�
 
 h) Organizar, apoiar e secretariar as reuniões das organizações regionais e conferências internacionais de pesca que se realizem em território nacional.
 
-###### Art. 24.º À Divisão dos Organismos Científicos e Económicos compete:
+Art. 24.º À Divisão dos Organismos Científicos e Económicos compete:
 
 a) Organizar os quadros de representação nacional junto dos organismos internacionais, científicos, económicos e tecnológicos de interesse para o sector, propondo a nomeação dos representantes permanentes e não permanentes a cada reunião, bem como dos respectivos suplentes, peritos e conselheiros;
 
@@ -466,17 +482,17 @@ f) Preparar as instruções necessárias ao cumprimento das normas, recomendaç�
 
 g) Organizar, apoiar e secretariar as reuniões dos organismos internacionais científicos, económicos e tecnológicos de interesse para o sector que se realizem em território nacional.
 
-###### Art. 25.º - 1 - A Direcção de Serviços das Relações Internacionais de Pescas tem como atribuições assegurar a preparação, coordenação e execução de programas, projectos e acordos de cooperação e assistência de carácter bilateral no âmbito do sector e o apoio técnico e jurídico necessário às negociações de acordos de pesca com países estrangeiros.
+Art. 25.º - 1 - A Direcção de Serviços das Relações Internacionais de Pescas tem como atribuições assegurar a preparação, coordenação e execução de programas, projectos e acordos de cooperação e assistência de carácter bilateral no âmbito do sector e o apoio técnico e jurídico necessário às negociações de acordos de pesca com países estrangeiros.
 
 2 - Compete ainda à Direcção de Serviços das Relações Internacionais de Pescas coordenar e apreciar as acções necessárias ao cumprimento dos deveres assumidos em acordos de pesca e superintender na forma de fruir e manter os respectivos direitos.
 
-###### Art. 26.º A Direcção de Serviços das Relações Internacionais de Pescas compreende as seguintes Divisões:
+Art. 26.º A Direcção de Serviços das Relações Internacionais de Pescas compreende as seguintes Divisões:
 
 a) De Relações de Cooperação e Assistência;
 
 b) De Acordos de Pesca.
 
-###### Art. 27.º À Divisão de Relações de Cooperação e Assistência compete:
+Art. 27.º À Divisão de Relações de Cooperação e Assistência compete:
 
 a) Averiguar das potencialidades e necessidades do sector das pescas na área da cooperação, bem como das ofertas e propostas existententes nesta matéria;
 
@@ -488,7 +504,7 @@ d) Organizar missões ao estrangeiro e receber e apoiar missões estrangeiras ao
 
 e) Preparar toda a legislação e instruções necessárias ao cumprimento de acordos de cooperação e assistência, no âmbito do sector.
 
-###### Art. 28.º À Divisão de Acordos de Pesca compete:
+Art. 28.º À Divisão de Acordos de Pesca compete:
 
 a) Preparar as linhas gerais de actuação em acordos de pesca para apreciação pela Comissão Técnica de Pescas e submetê-las à aprovação superior;
 
@@ -500,7 +516,7 @@ d) Organizar missões ao estrangeiro e receber e apoiar missões estrangeiras re
 
 e) Informar sobre a interpretação dos textos oficiais dos acordos e convenções de pesca e preparar o texto em português dos mesmos acordos e convenções.
 
-###### Art. 29.º - 1 - A Direcção de Serviços de Operações e Inspecção de Pescas tem como atribuições a coordenação da actuação das frotas de pesca portuguesas na Zona Económica Exclusiva e em águas estrangeiras e internacionais, a gestão da exploração pesqueira da Zona Económica Exclusiva e o contrôle da actuação dos navios de pesca estrangeiros nas águas jurisdicionais nacionais.
+Art. 29.º - 1 - A Direcção de Serviços de Operações e Inspecção de Pescas tem como atribuições a coordenação da actuação das frotas de pesca portuguesas na Zona Económica Exclusiva e em águas estrangeiras e internacionais, a gestão da exploração pesqueira da Zona Económica Exclusiva e o contrôle da actuação dos navios de pesca estrangeiros nas águas jurisdicionais nacionais.
 
 2 - A Direcção de Serviços de Operações e Inspecção de Pescas é dirigida por um director de serviços e compreende as seguintes Divisões:
 
@@ -508,7 +524,7 @@ a) De Operações;
 
 b) De Inspecção.
 
-###### Art. 30.º À Divisão de Operações compete:
+Art. 30.º À Divisão de Operações compete:
 
 a) Coordenar as actividades de pesca de navios nacionais que operem na ZEE, águas internacionais e estrangeiras;
 
@@ -520,7 +536,7 @@ d) Formular propostas de capturas totais e esforços de pesca admissíveis, capa
 
 e) Formular propostas de artes proibidas, malhagens mínimas e forras permitidas para as actividades de pesca na Zona Económica Exclusiva e em águas internacionais e estrangeiras, em colaboração com o Instituto Nacional de Investigação das Pescas.
 
-###### Art. 31.º À Divisão de Inspecção compete:
+Art. 31.º À Divisão de Inspecção compete:
 
 c) Fiscalizar a actuação das frotas de pesca cujas actividades são coordenadas pela Divisão de Operações;
 
@@ -532,44 +548,44 @@ c) Propor a nomeação ou a designação de fiscais em áreas em que a sua prese
 
 #### SECÇÃO I — Dos quadros de pessoal
 
-###### Art. 32.º A DGDCP, para o desempenho das suas atribuições, disporá do contingente de pessoal dirigente e do pessoal dos quadros únicos constantes do mapa anexo ao presente diploma e que dele faz parte integrante.
+Art. 32.º A DGDCP, para o desempenho das suas atribuições, disporá do contingente de pessoal dirigente e do pessoal dos quadros únicos constantes do mapa anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 33.º O tesoureiro terá direito a um abono para falhas de acordo com a lei geral.
+Art. 33.º O tesoureiro terá direito a um abono para falhas de acordo com a lei geral.
 
 #### SECÇÃO II — Do regime de substituição
 
-###### Art. 34.º O chefe da Repartição de Administração será substituído, no caso de vacatura do cargo ou ausência ou impedimento do respectivo titular, pelo chefe de secção que for designado por despacho do director-geral.
+Art. 34.º O chefe da Repartição de Administração será substituído, no caso de vacatura do cargo ou ausência ou impedimento do respectivo titular, pelo chefe de secção que for designado por despacho do director-geral.
 
-###### Art. 35.º O tesoureiro será substituído, nos casos de ausência ou impedimento, pelo funcionário que, sob sua proposta, for designado por despacho do director-geral.
+Art. 35.º O tesoureiro será substituído, nos casos de ausência ou impedimento, pelo funcionário que, sob sua proposta, for designado por despacho do director-geral.
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### Art. 36.º - 1 - Mediante autorização ministerial, sob proposta fundamentada do director-geral, a DGDCP poderá celebrar contratos ou termos de tarefa com técnicos, empresas ou organismos nacionais ou estrangeiros para a realização e execução de estudos, projectos especializados ou outros serviços de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
+Art. 36.º - 1 - Mediante autorização ministerial, sob proposta fundamentada do director-geral, a DGDCP poderá celebrar contratos ou termos de tarefa com técnicos, empresas ou organismos nacionais ou estrangeiros para a realização e execução de estudos, projectos especializados ou outros serviços de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
 
 2 - Os contratos serão sempre reduzidos a escrito e deverão especificar, obrigatoriamente, a natureza da tarefa a executar, o prazo para a sua execução e a remuneração a pagar, e não conferirão, em caso algum, a qualidade de agente administrativo.
 
-###### Art. 37.º A cobrança coerciva das dívidas à DGDCP provenientes de taxas ou outros rendimentos, cuja obrigação de pagamento haja sido reconhecida por lei ou despacho ministerial, realizar-se-á através do processo de execução fiscal, servindo de base à execução certidão extraída dos livros ou documentos, passada pela Repartição de Administração.
+Art. 37.º A cobrança coerciva das dívidas à DGDCP provenientes de taxas ou outros rendimentos, cuja obrigação de pagamento haja sido reconhecida por lei ou despacho ministerial, realizar-se-á através do processo de execução fiscal, servindo de base à execução certidão extraída dos livros ou documentos, passada pela Repartição de Administração.
 
-###### Art. 38.º A DGDCP poderá promover cursos de formação técnico-profissional para o seu pessoal de harmonia com a política de formação que vier a ser definida.
+Art. 38.º A DGDCP poderá promover cursos de formação técnico-profissional para o seu pessoal de harmonia com a política de formação que vier a ser definida.
 
-###### Art. 39.º - 1 - Poderão ser criadas, por decreto simples, delegações regionais, dirigidas por um delegado regional.
+Art. 39.º - 1 - Poderão ser criadas, por decreto simples, delegações regionais, dirigidas por um delegado regional.
 
 2 - Competirá ao delegado regional a superintendência das acções a desenvolver na região, a auscultação das necessidades do sector e o exercício dos poderes que nele forem delegados.
 
-###### Art. 40.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, com o acordo do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiver em causa matéria das respectivas competências.
+Art. 40.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, com o acordo do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiver em causa matéria das respectivas competências.
 
-###### Art. 41.º O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua aplicação.
+Art. 41.º O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua aplicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Joaquim da Silva Lourenço - Gabriela Guedes Salgueiro.
 
-**Promulgado em 24 de Dezembro de 1979.**
+Promulgado em 24 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 28.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29914/02800286.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29914/02800286.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29914/02800286.pdf)
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Joaquim da Silva Lourenço - Gabriela Guedes Salgueiro.

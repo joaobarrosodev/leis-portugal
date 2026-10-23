@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 64/2023, 1º Suplemento, Série I de 2023-03-30
   number: '64'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 15-(2) a 15-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/06401/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/21-b/2023/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-b-2023-211172339
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 396128eb6eff692804fb5d903cef24228e9a1bec67d4debb7d2f618a96b1e8c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 556e8a9371853905fc79156fc9c3fec9f941cf3df8ab2e57cc9f34e63f99733f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Centro Eletroprodutor
+- Comércio
 - Distribuição de Energia Elétrica
-- Gás Natural
-- Energia Elétrica
 - Distribuição de Gás
-- Gás
-- Mibel
-- Operador do Mercado Ibérico de Energia
+- Energia Elétrica
 - Entidade Reguladora dos Serviços Energéticos
+- Gás
+- Gás Natural
+- Mibel
+- Operador de Energia Elétrica
+- Operador do Mercado Ibérico de Energia
 - Preço de Referência
 - Produção de Energia Elétrica
 - Proteção do Consumidor
 - Sanção
 - Sistema Elétrico Nacional
-- Comércio
-- Centro Eletroprodutor
-- Operador de Energia Elétrica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/33/2022/05/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/33/2022/05/14/p/dre
+- type: cites
+  target: pt:dre:183432853:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:35Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +143,9 @@ Os artigos 4.º, 7.º e 15.º do [Decreto-Lei n.º 33/2022](https://diariodarepu
 
 5 - A partir do mês de abril de 2023, o valor da variável P(índice RGN) incorpora os aumentos nominais nos termos da tabela constante do anexo ao presente decreto-lei e do qual faz parte integrante.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -191,7 +197,9 @@ b) O gestor global do SEN dispõe de cinco dias úteis contados do fim dos prazo
 
 14 - Os agentes de mercado que abasteçam consumidores com coberturas celebradas diretamente nos termos do n.º 8, sendo responsáveis pelo respetivo reporte, devem obrigatoriamente repercutir no consumidor respetivo a isenção do custo da liquidação do valor do ajuste de mercado que tenha sido comunicada e aceite.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora até 31 de dezembro de 2023.»
 
@@ -205,15 +213,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de março de 2023. - António Luís Santos da Costa - João Titterington Gomes Cravinho - António José da Costa Silva - José Duarte Piteira Rica Silvestre Cordeiro.
 
-**Promulgado em 29 de março de 2023.**
+Promulgado em 29 de março de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de março de 2023.**
+Referendado em 29 de março de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -221,4 +229,6 @@ Visto e aprovado em Conselho de Ministros de 29 de março de 2023. - António Lu
 
 (a que se refere o n.º 5 do artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/06401/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2023/03/06401/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/06401/0000200004.pdf)
+
+116326947

@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/503-1985-183255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T08:28:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3bef80480e29a91b43f55bef3eb9ac5ac6c5da3be2c6541ac8dfd83ca8123d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c45b84d382e460ebef5df175a4224803992823ed7c38bf0690e328a6e9c12398
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:28:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Extinção de Serviços
+- Instituto Superior Técnico
+- Regulamento
+- Universidade Técnica de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:461833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:28:25Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +109,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação, o seguint
 
 Ministério da Educação.
 
-**Assinada em 10 de Julho de 1985.**
+Assinada em 10 de Julho de 1985.
 
-**O Ministro da Educação, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação, João de Deus Rogado Salvador Pinheiro.
 
 ## ANEXO
 
@@ -106,11 +119,11 @@ Regulamento do Departamento de Engenharia de Minas do Instituto Superior Técnic
 
 ### CAPÍTULO I — (Natureza e objectivos)
 
-###### Artigo 1.º O Departamento de Engenharia de Minas do Instituto Superior Técnico é uma unidade orgânica permanente, dirigida à realização continuada dos tarefas de ensino conducente a garantir a realização dos cursos de licenciatura em Engenharia de Minas e de pós-licenciatura e de investigação fundamental o aplicada no respectivo domínio científico, cabendo-lhe ainda promover o desenvolvimento tecnológico, a prestação de serviço no exterior e a efectivação das actividades de extensão universitária.
+Artigo 1.º O Departamento de Engenharia de Minas do Instituto Superior Técnico é uma unidade orgânica permanente, dirigida à realização continuada dos tarefas de ensino conducente a garantir a realização dos cursos de licenciatura em Engenharia de Minas e de pós-licenciatura e de investigação fundamental o aplicada no respectivo domínio científico, cabendo-lhe ainda promover o desenvolvimento tecnológico, a prestação de serviço no exterior e a efectivação das actividades de extensão universitária.
 
-###### Art. 2.º O Departamento de Engenharia de Minas do Instituto Superior Técnico, da Universidade Técnica de Lisboa, goza de autonomia pedagógica e científica, sem prejuízo das orientações gerais que vierem a ser estabelecidos pelos órgãos de Universidade ou do Instituto.
+Art. 2.º O Departamento de Engenharia de Minas do Instituto Superior Técnico, da Universidade Técnica de Lisboa, goza de autonomia pedagógica e científica, sem prejuízo das orientações gerais que vierem a ser estabelecidos pelos órgãos de Universidade ou do Instituto.
 
-###### Art. 3.º O Departamento de Engenharia de Minas do Instituto Superior Técnico é constituído pelas seguintes unidades:
+Art. 3.º O Departamento de Engenharia de Minas do Instituto Superior Técnico é constituído pelas seguintes unidades:
 
 Laboratório de Mineralogia e Petrologia (Laboratório e Museu de Mineralogia e Petrologia - LAMPIST).
 
@@ -122,13 +135,13 @@ Grupo de exploração.
 
 ### CAPÍTULO II — (Dos Órgãos do Departamento)
 
-###### Art. 4.º O Departamento tem os seguintes órgãos:
+Art. 4.º O Departamento tem os seguintes órgãos:
 
 a) Conselho de departamento;
 
 b) Comissão executiva.
 
-###### Art. 5.º -1 - O conselho de departamento é constituído por membros permanentes e por membros não permanentes
+Art. 5.º -1 - O conselho de departamento é constituído por membros permanentes e por membros não permanentes
 
 2 - São membros permanentes os professores catedráticos, associados e auxiliares e os investigadores doutorados incluídos na área científica abrangida pelo Departamento.
 
@@ -142,7 +155,7 @@ b) Comissão executiva.
 
 7 - As deliberações do conselho de departamento só produzirão efeitos quando tomadas pela maioria dos membros efectividade de funções.
 
-###### Art. 6.º Ao conselho de departamento compete:
+Art. 6.º Ao conselho de departamento compete:
 
 a) Eleger o presidente do conselho de departamento;
 
@@ -174,7 +187,7 @@ o) Decidir sobre os recursos que lhe sejam apresentados pelos membros do Departa
 
 p) Deliberar sobre outras matérias que, nos termos do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), se mostrem relevantes para o Departamento.
 
-###### Art. 7.º - 1 - No caso de o número de membros do conselho de departamento ser superior a 8, poderá este funcionar em plenário e ou em comissão restrita, que se designará por comissão coordenadora do departamento.
+Art. 7.º - 1 - No caso de o número de membros do conselho de departamento ser superior a 8, poderá este funcionar em plenário e ou em comissão restrita, que se designará por comissão coordenadora do departamento.
 
 2 - A comissão coordenadora do departamento é constituída por:
 
@@ -188,13 +201,13 @@ c) Docentes e investigadores não doutorados eleitos pelos seus pares do conselh
 
 4 - Das deliberações da comissão coordenadora haverá sempre recurso para o plenário do conselho, a convocar pelo presidente a solicitação de qualquer dos seus membros.
 
-###### Art. 8.º A comissão executiva do departamento é constituída por:
+Art. 8.º A comissão executiva do departamento é constituída por:
 
 a) Presidente do conselho de departamento, que preside;
 
 b) Dois docentes ou investigadores do departamento em tempo integral e em exercício de funções.
 
-###### Art. 9.º À comissão executiva compete:
+Art. 9.º À comissão executiva compete:
 
 a) Dirigir o Departamento de acordo com a legislação em vigor, com as normas gerais da escola e com as decisões e orientações estabelecidas pelo conselho de departamento;
 
@@ -216,7 +229,7 @@ i) Apresentar anualmente ao conselho de departamento o relatório das suas activ
 
 j) Preparar as reuniões do conselho e da comissão coordenadora do departamento e executar as suas deliberações.
 
-###### Art. 10.º Ao presidente do conselho de departamento compete:
+Art. 10.º Ao presidente do conselho de departamento compete:
 
 a) Convocar e conduzir as reuniões do conselho, da comissão coordenadora e da comissão executiva;
 
@@ -228,21 +241,21 @@ d) Exercer, em permanência, as funções que lhe forem cometidas pelo conselho,
 
 e) Fazer parte, por inerência de funções, da comissão coordenadora do conselho científico do Instituto Superior Técnico.
 
-###### Art. 11.º O presidente do conselho de departamento poderá ser parcialmente dispensado de serviço docente durante o seu mandato.
+Art. 11.º O presidente do conselho de departamento poderá ser parcialmente dispensado de serviço docente durante o seu mandato.
 
-###### Art. 12.º Nas suas actividades de gestão, a comissão executiva poderá ser coadjuvada por um, funcionário superior, de lugar do quadro, que desempenhará as funções de secretário de departamento.
+Art. 12.º Nas suas actividades de gestão, a comissão executiva poderá ser coadjuvada por um, funcionário superior, de lugar do quadro, que desempenhará as funções de secretário de departamento.
 
 ### CAPÍTULO III — (Dos órgãos dos laboratórios, museus e grupo)
 
-###### Art. 13.º Os responsáveis dos laboratórios, museus e grupo do Departamento de Engenharia de Minas são nomeados pelo conselho de departamento de Engenharia de Minas de entre os professores catedráticos ou associados da área de cada uma das unidades em causa, por períodos de 4 anos, prorrogáveis.
+Art. 13.º Os responsáveis dos laboratórios, museus e grupo do Departamento de Engenharia de Minas são nomeados pelo conselho de departamento de Engenharia de Minas de entre os professores catedráticos ou associados da área de cada uma das unidades em causa, por períodos de 4 anos, prorrogáveis.
 
-###### Art. 14.º Quando a dimensão dos laboratórios, museus e grupo o justifique e os docentes e investigadores neles incluídos o entenderem, serão constituídas comissões executivas, presididas, por inerência, pelo responsável do laboratório, museu e grupo, que terá voto de qualidade.
+Art. 14.º Quando a dimensão dos laboratórios, museus e grupo o justifique e os docentes e investigadores neles incluídos o entenderem, serão constituídas comissões executivas, presididas, por inerência, pelo responsável do laboratório, museu e grupo, que terá voto de qualidade.
 
 As comissões executivas terão como membros, além do presidente, mais docentes e ou investigadores eleitos por períodos bienais por todos os docentes e investigadores da área do laboratório ou grupo.
 
 As comissões executivas poderão escolher de entre os seus membros eleitos um secretário.
 
-###### Art. 15.º Compete ao responsável pela unidade e ou à comissão executiva:
+Art. 15.º Compete ao responsável pela unidade e ou à comissão executiva:
 
 a) Dirigir a unidade;
 
@@ -254,7 +267,7 @@ d) Zelar pelas instalações e equipamentos;
 
 e) Por delegação do conselho e ou comissão executiva do departamento, celebrar contratos de prestação de serviços, convénios e acordos.
 
-###### Art. 16.º Compete ao director de laboratório ou de grupo:
+Art. 16.º Compete ao director de laboratório ou de grupo:
 
 a) Representar o laboratório ou a grupo;
 
@@ -262,6 +275,6 @@ b) Assumir a responsabilidade científica do laboratório ou do grupo.
 
 ### CAPÍTULO IV — (Das disposições gerais)
 
-###### Art. 17.º Em tudo o que é omisso, o Departamento de Engenharia de Minas do Instituto Superior Técnico, da Universidade Técnica de Lisboa, rege-se pelo [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril, conjugado com o Regulamento dos Departamentos daquele Instituto, publicado em anexo à [Portaria n.º 722/80](https://diariodarepublica.pt/dr/detalhe/portaria/722-1980-461833), de 25 de Setembro.
+Art. 17.º Em tudo o que é omisso, o Departamento de Engenharia de Minas do Instituto Superior Técnico, da Universidade Técnica de Lisboa, rege-se pelo [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril, conjugado com o Regulamento dos Departamentos daquele Instituto, publicado em anexo à [Portaria n.º 722/80](https://diariodarepublica.pt/dr/detalhe/portaria/722-1980-461833), de 25 de Setembro.
 
-###### Art. 18.º Este Regulamento entrará em vigor no dia seguinte ao da sua publicação.
+Art. 18.º Este Regulamento entrará em vigor no dia seguinte ao da sua publicação.

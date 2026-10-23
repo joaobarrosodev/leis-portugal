@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/98/2025/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2025-932837042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7be940252d35f95f8a0b188bf4168d70c51a2afc7d66c40323e7cf6c6ed224a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de15764278edf972beb65a9403ea3cb7b739a3182c4de0c558d89be3cf20040c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
-- Saneamento Básico
 - Contrato de Concessão
-- Extinção de Serviços
-- Proteção do Ambiente
-- Prorrogação de Prazo
-- Entidade Gestora de Resíduos
 - Eliminação de Resíduos
+- Entidade Gestora de Resíduos
+- Extinção de Serviços
+- Gestão de Resíduos
+- Prorrogação de Prazo
+- Proteção do Ambiente
+- Saneamento Básico
 - Sistema Multimunicipal de Triagem Recolha Selectiva Valorização e Tratamento de Resíduos Sólidos Urbanos do Baixo Cavado
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:70/2023
+  label: Altera, a partir de 22 de agosto de 2025, os artigos 2.º e 3.º do Decreto-Lei n.º 70/2023, de 22 de agosto, Diário
+    da República n.º 162/2023, Série I
+  source: null
+  date: '2023-08-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/1996/08/02/p/dre
   label: null
@@ -96,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/70/2023/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/2023/08/22/p/dre
+- type: cites
+  target: pt:dre:220172307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693593:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:36Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +172,9 @@ Os artigos 2.º e 3.º do [Decreto-Lei n.º 70/2023](https://diariodarepublica.p
 
 2 - [...]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O sistema multimunicipal de triagem, recolha seletiva, valorização e tratamento de resíduos sólidos urbanos do Baixo Cávado extingue-se no dia 1 de janeiro de 2027.
 
@@ -168,12 +196,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da data da sua publica�
 
 Visto e aprovado em Conselho de Ministros de 7 de agosto de 2025. - Luís Montenegro - Manuel Castro Almeida - Maria da Graça Carvalho.
 
-**Promulgado em 14 de agosto de 2025.**
+Promulgado em 14 de agosto de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de agosto de 2025.**
+Referendado em 18 de agosto de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119450103

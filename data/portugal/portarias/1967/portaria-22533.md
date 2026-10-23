@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22533-1967-504307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:27:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e77177b18c5552d78b9c0179e588418565ad5ae5a9bd9173d7dac392b03e8a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5bdd58aa5a912880df31d37631a921a8db2fa342ed1e5a41e15b9684929a9e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:27:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comando Geral da Polícia de Segurança Pública
+- PSP
+- Regulamento
+- Serviço de Saúde
+relationships:
+- type: cites
+  target: pt:dre:217507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650349:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:27:39Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +111,13 @@ Manda o Governo da República Portuguesa, pelo Ministro do Interior, em execuç�
 
 1.º Os artigos 28.º e seu § único, 29.º e 30.º do Regulamento do Serviço de Saúde da Polícia de Segurança Pública, aprovado pela [Portaria n.º 17788](https://diariodarepublica.pt/dr/detalhe/portaria/17788-1960-502413), de 4 de Julho de 1960, passam a ter a seguinte redacção:
 
-###### Art. 28.º É criada uma farmácia em Lisboa, podendo ter laboratório de análises anexo, directamente subordinada ao Comando-Geral.
+Art. 28.º É criada uma farmácia em Lisboa, podendo ter laboratório de análises anexo, directamente subordinada ao Comando-Geral.
 
 § único. A farmácia será dirigida por um técnico farmacêutico.
 
-###### Art. 29.º Compete ao técnico farmacêutico dirigir e orientar os órgãos do respectivo serviço de modo a poderem fornecer os seus produtos ao serviço de saúde da Polícia de Segurança Pública, aos Serviços Sociais da mesma corporação, a todo o pessoal em serviço e aos familiares referidos na alínea c) do artigo 3.º, só podendo efectuar fornecimentos a outras entidades mediante autorização ministerial.
+Art. 29.º Compete ao técnico farmacêutico dirigir e orientar os órgãos do respectivo serviço de modo a poderem fornecer os seus produtos ao serviço de saúde da Polícia de Segurança Pública, aos Serviços Sociais da mesma corporação, a todo o pessoal em serviço e aos familiares referidos na alínea c) do artigo 3.º, só podendo efectuar fornecimentos a outras entidades mediante autorização ministerial.
 
-###### Art. 30.º Os órgãos do serviço farmacêutico ficarão subordinados tècnicamente à chefia do serviço de saúde e disciplinarmente ao Comando-Geral.
+Art. 30.º Os órgãos do serviço farmacêutico ficarão subordinados tècnicamente à chefia do serviço de saúde e disciplinarmente ao Comando-Geral.
 
 2.º É criado o conselho administrativo da farmácia da Polícia de Segurança Pública, ficando a reger-se pelas normas em vigor para os comandos de polícia, em harmonia com as disposições do [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, e seu regulamento, aprovado pelo [Decreto n.º 39550](https://diariodarepublica.pt/dr/detalhe/decreto/39550-1954-217507), de 26 de Fevereiro de 1954, que administrará um fundo privativo a constituir com receitas próprias.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/115-1972-399021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8a5425571924d8158413b1a588cf0ee59a6237cbe919531a60fedca9fcf8803
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2113498a28c43211ab8f5d5caf5b4ff7f74e0f8ec5c094df994845236f8990fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:48Z'
   warnings: []
   errors: []
 ---
@@ -94,14 +106,14 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 Encargos gerais:
 
-###### Artigo 1528.º, n.º 4), alínea a) «Deslocações do pessoal - Passagens de ou para o exterior por motivo de licença graciosa - A pagar na metrópole» ... 5000000$00
+Artigo 1528.º, n.º 4), alínea a) «Deslocações do pessoal - Passagens de ou para o exterior por motivo de licença graciosa - A pagar na metrópole» ... 5000000$00
 
-###### Artigo 1528.º, n.º 5), alínea a) «Passagens de ou para o exterior por quaisquer outros motivos - A pagar na metrópole» ... 2000000$00
+Artigo 1528.º, n.º 5), alínea a) «Passagens de ou para o exterior por quaisquer outros motivos - A pagar na metrópole» ... 2000000$00
 
 ... 7000000$00
 
 tomando como contrapartida igual importância a sair do excesso de cobrança sobre a previsão da receita do capítulo 2.º, artigo 8.º, n.º 1) «Impostos indirectos - Direitos de importação - Taxas», da tabela de receita ordinária do mesmo orçamento.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada no Boletim Oficial de Angola. - J. da Silva Cunha.

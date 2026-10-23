@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/287a00/71887192.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/318/2000/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2000-583241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f2b92a7d1a1bdcb00dcda76b4777a1ef462558277b18e50146c2090cda7621d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 447563efd941212070da6c0d0f3c8ec683311efd53b6446055c6619ca156069f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alcoolismo
-- Reestruturação de Serviços
-- Financiamento
 - Centro Regional de Alcoologia
 - Centro Regional de Alcoologia do Centro
 - Centro Regional de Alcoologia do Norte
 - Centro Regional de Alcoologia do Sul
 - Definição de Competências
+- Financiamento
+- Orgânica
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Saúde Mental
 - Saúde Pública
 - Serviço Nacional de Saúde
-- Orgânica
-- Saúde Mental
-- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:638548:por
@@ -120,16 +120,63 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/40/1999/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/40/1999/05/08/p/dre
+- type: cites
+  target: pt:dre:169001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668504:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:638548:por
+  label: "Revogado a partir de 01.06.2007, e determinado que o Instituto da Droga e da Toxicodependência, I. P. suceda nas\
+    \ atribuições dos centros regionais de alcoologia, cuja orgânica foi aprovada pelo presente diploma, pelo DEC LEI.221/2007.29.05.2007.MS,\
+    \ DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/221-2007-638548
+  date: '2007-05-29'
 article_structure:
   article_count: 23
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:28Z'
   warnings: []
   errors: []
 ---
@@ -486,12 +533,12 @@ O presente diploma entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Novembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Maria Manuela de Brito Arcanjo Marques da Costa - Alberto de Sousa Martins.
 
-**Promulgado em 30 de Novembro de 2000.**
+Promulgado em 30 de Novembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Dezembro de 2000.**
+Referendado em 6 de Dezembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/56-1978-325478
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:59:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfa115b6c9507e6986ac5c8b2ccfaa54cc71af1ef9403d9e859c3a159d4a9379
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6aafeedb7c7f47badc3e92cf425ae1de275fe8e0502897198848b1f274371cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:59:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Assistência aos Tuberculosos das Forças Armadas
+- Forças Armadas
+- Incapacidade Física
+- Junta Médica
+- Militar
+- Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais
+- Tuberculose
+relationships:
+- type: cites
+  target: pt:dre:178851:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:59:19Z'
   warnings: []
   errors: []
 ---
@@ -90,17 +101,17 @@ Convindo estabelecer uma tabela de desvalorizações funcionais resultantes das 
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovada a Tabela de Percentagem de Desvalorização Funcional para Uso das Juntas da ATFA, anexa ao presente diploma e dele fazendo parte integrante.
+Artigo 1.º É aprovada a Tabela de Percentagem de Desvalorização Funcional para Uso das Juntas da ATFA, anexa ao presente diploma e dele fazendo parte integrante.
 
-###### Art. 2.º Por portaria do Chefe do Estado-Maior-General das Forças Armadas, poderão ser introduzidas na referida Tabela as alterações que forem julgadas convenientes.
+Art. 2.º Por portaria do Chefe do Estado-Maior-General das Forças Armadas, poderão ser introduzidas na referida Tabela as alterações que forem julgadas convenientes.
 
 Visto e aprovado em Conselho da Revolução em 22 de Novembro de 1978.
 
-**Promulgado em 22 de Novembro de 1978.**
+Promulgado em 22 de Novembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Tabela de Percentagem de Desvalorização Funcional para Uso das Juntas da ATFA
 
@@ -172,7 +183,7 @@ Algumas destas provas podem colocar o doente numa determinada classe de invalide
 
 A escala das taxas de invalidez funcional foi estabelecida da seguinte maneira:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29900/27832787.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29900/27832787.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29900/27832787.pdf)
 
 Considerandos referentes à tabela:
 
@@ -234,7 +245,7 @@ c) Lesões cicatriciais pouco extensas (as que ocupam o parênquima pulmonar at�
 
 2 - Desvalorização segundo a repercussão funcional:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29900/27832787.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29900/27832787.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29900/27832787.pdf)
 
 Sequelas operatórias:
 
@@ -292,7 +303,7 @@ b) Isolada:
 
 Com sequelas de:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29900/27832787.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29900/27832787.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29900/27832787.pdf)
 
 IV - Tuberculose visceral
 

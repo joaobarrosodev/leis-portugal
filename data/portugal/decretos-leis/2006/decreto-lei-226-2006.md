@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/226/2006/11/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2006-544783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d640813042d77061b6603a9e4b5c0282876327d230ff7cac5ff14661d09893f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 243f16d6e7d1721c64ae10c097f4f904acb3b628301e3b5e0da983516c1045d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- PSP
+- Administração de Portos
 - Aproximação das Legislações
+- Autoridade Marítima Nacional
+- Capitania
+- Conselho Consultivo
+- Coordenador
+- Direcção Geral da Autoridade Marítima
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
 - Embarcação
+- Fiscalização
+- Instituto Portuário e dos Transportes Marítimos
+- Polícia Judiciária
+- Portos
+- PSP
+- Salvaguarda da VIDA Humana no MAR
+- Segurança da Navegação
+- Serviço de Estrangeiros e Fronteiras
+- Serviço de Informações de Segurança
 - Sistema de Autoridade Marítima
+- Taxa
+- Terrorismo
 - Tráfego Marítimo
 - Transporte Marítimo
-- Instituto Portuário e dos Transportes Marítimos
-- Coordenador
-- Autoridade Marítima Nacional
-- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
-- Administração de Portos
-- Fiscalização
-- Conselho Consultivo
-- Serviço de Estrangeiros e Fronteiras
-- Terrorismo
-- Capitania
-- Polícia Judiciária
-- Salvaguarda da VIDA Humana no MAR
-- Portos
-- Segurança da Navegação
-- Serviço de Informações de Segurança
-- Direcção Geral da Autoridade Marítima
-- Taxa
 relationships:
 - type: cites
   target: celex:32001L0105
@@ -107,13 +107,13 @@ relationships:
 article_structure:
   article_count: 44
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:00Z'
   warnings: []
   errors: []
 ---
@@ -1010,15 +1010,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Setembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Manuel Lobo Antunes - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira - José Manuel Vieira Conde Rodrigues - Mário Lino Soares Correia.
 
-**Promulgado em 30 de Outubro de 2006.**
+Promulgado em 30 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 31 de Outubro de 2006.**
+Referendado em 31 de Outubro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Lista de motivos inequívocos para a inspecção aprofundada
 

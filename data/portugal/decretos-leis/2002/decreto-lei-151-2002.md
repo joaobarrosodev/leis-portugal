@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/151/2002/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2002-158586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed44b28738452956f0cc8dc550ada9c2843e1e6980858a92806c1394fd47ac9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85c26632341ae241b1c17cdb1663442030993f42efecc180164aca38a22dd329
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Estatuto
 - Fiscalização
 - Instituto Regulador de Águas e Resíduos
-- Abastecimento de Água
 relationships:
 - type: amended_by
   target: pt:dre:491175:por
@@ -82,16 +82,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/362/1998/11/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/362/1998/11/18/p/dre
+- type: repealed_by
+  target: pt:dre:491175:por
+  label: "Revogado, sem prejuízo do disposto no art. 22º, a partir de 01.11.2009, o Dec Lei 362/98, de 18-Nov , na redacção\
+    \ do presente diploma,pelo DEC LEI.277/2009.02.10.2009.MAOTDR, DR.IS [192] de 02.10.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/277-2009-491175
+  date: '2009-10-02'
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:47Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +152,9 @@ g) ...
 
 2 - ...
 
-###### Artigo 3.º — Encargos
+Artigo 3.º
+
+Encargos
 
 1 - As entidades gestoras suportarão os encargos resultantes do funcionamento do IRAR nos termos fixados no Estatuto publicado em anexo, constituindo um dos critérios para a fixação das respectivas tarifas.
 
@@ -164,7 +172,9 @@ Objecto
 
 2 - As entidades da administração local autárquica não estão sujeitas à intervenção do IRAR em tudo quanto respeite à gestão dos sistemas, com excepção do controlo da qualidade da água para consumo humano.
 
-###### Artigo 5.º — Atribuições
+Artigo 5.º
+
+Atribuições
 
 ...
 
@@ -176,7 +186,9 @@ c) ...
 
 d) ...
 
-###### Artigo 11.º — Competência
+Artigo 11.º
+
+Competência
 
 1 - Sem prejuízo do disposto no n.º 2 do artigo 4.º, compete ao conselho directivo do IRAR:
 
@@ -220,7 +232,9 @@ t) ...
 
 u) ...
 
-###### Artigo 23.º — Taxas
+Artigo 23.º
+
+Taxas
 
 1 - As entidades gestoras concessionárias de sistemas multimunicipais e municipais ficam sujeitas ao pagamento de taxas pela sua actividade, segundo critérios a definir em portaria a aprovar pelo Ministro do Ambiente e do Ordenamento do Território.
 
@@ -240,12 +254,12 @@ e) Assegurar a qualidade da água para consumo humano, designadamente através d
 
 Visto e aprovado em Conselho de Ministros de 7 Março de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Luís Garcia Braga da Cruz - António Fernando Correia de Campos - Elisa Maria da Costa Guimarães Ferreira - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 7 de Maio de 2002.**
+Promulgado em 7 de Maio de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Maio de 2002.**
+Referendado em 9 de Maio de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

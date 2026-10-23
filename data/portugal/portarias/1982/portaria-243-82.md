@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/243-1982-600317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T07:11:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7008e7840c9a6f99b463766348ec11ad6f18c377aa522ebd61c37ef2707a5b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fbdd6273ffad9e1b752063e0ca05a49e5c1ed6099543304a4075072127ff707
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:11:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Quadro de Pessoal
+- Serviço Nacional de Protecção Civil
 relationships:
 - type: amended_by
   target: pt:dre:421818:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:421818:por
+  label: "Substituído o quadro de pessoal, de 25-Out, com as alterações introduzidas pelo presente diploma, e pela Port 774/84,\
+    \ de 03-Out, pelo anexo XII à PORT.461/87.1987.06.02.PCM, DR.IS [126]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/461-1987-421818
+  date: '1987-06-02'
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:11:47Z'
   warnings: []
   errors: []
 ---
@@ -100,4 +121,4 @@ Ministérios da Defesa Nacional, das Finanças e do Plano e da Reforma Administr
 
 Quadro anexo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/04900/04470447.pdf))](https://files.diariodarepublica.pt/1s/1982/03/04900/04470447.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/04900/04470447.pdf)

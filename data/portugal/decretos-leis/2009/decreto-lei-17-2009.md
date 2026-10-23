@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/17/2009/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dca099cd4b3332572f556641508620a59fa58a322e7710bcd22004255c4fbf3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 308e7181cf38779deadff66be499d3f5266d1ed17cdd5007c92f3d6d6488a8e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Prevenção de Incêndios
-- Financiamento
+- Autoridade Florestal Nacional
+- Autoridade Nacional de Protecção Civil
 - Definição de Competências
-- Proteção da Floresta
+- Equipamento de Combate a Incêndios
+- Exploração Florestal
+- Financiamento
 - Fiscalização
+- Incêndio
 - Ordenamento Florestal
 - Plano Municipal de Defesa da Floresta contra Incêndios
 - Plano Nacional de Defesa da Floresta contra Incêndios
-- Exploração Florestal
-- Autoridade Florestal Nacional
 - Política Florestal
-- Autoridade Nacional de Protecção Civil
-- Equipamento de Combate a Incêndios
+- Prevenção de Incêndios
+- Proteção da Floresta
 - Sistema de Defesa da Floresta contra Incêndios
 relationships:
 - type: amended_by
   target: pt:dre:108010872:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146221:por
+  label: "Alterados os art.s 3º-A, 3º-C e 9º do Dec Lei 124/2006, de 28-Jun, na redacção do presente diploma, pelo DEC LEI.114/2011.30.11.2011.MAI,\
+    \ DR.IS [230] de 30.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-2011-146221
+  date: '2011-11-30'
+- type: amended_by
+  target: pt:dre:25345886:por
+  label: "Alterados os arts. 26.º, 40.º e 41.º do Dec Lei 124/2006 de 28-jun, na redação do presente diploma, pelo DEC LEI.83/2014.23.05.2014.MAGM,\
+    \ DR.IS [99] de 23.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-2014-25345886
+  date: '2014-05-23'
+- type: amended_by
+  target: pt:dre:108010872:por
+  label: Alterados os arts. 1.º, 2.º, 3.º, 3.º-A (este último na redação do Dec Lei 114/2011, de 30-nov), 3.º-B, 3.º-C (este
+    último na redação do Dec Lei 114/2011, de 30-nov), 3.º-D, 4.º, 5.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º,
+    16.º, 17.º, 20.º, 21.º, 22.º, 25.º, 26.º (este último na redação do Dec Lei 83/2014, de 23-mai), 27.º, 28.º, 29.º, 30.º,
+    31.º, 32.º, 33.º, 34.º, 35.º, 36.º, 37.º, 38.º, 39.º, 40.º e 41.º (os dois últimos na redação do Dec Lei 83/2014, de 23-mai)
+    bem como o anexo, aditados os arts. 2.º-A, 26.º-A, 26.º-B e 37.º-A e revogados o n.º 7 do art. 2.º, as als. g) e n) do
+    n.º 1 do art. 3.º-C, a al. d) do n.º 1 do art. 3.º-D, o n.º 3 do art. 8.º, o n.º 7 do art. 13.º, o n.º 3 do art. 23.º,
+    as als. b), c), g), j), m) e n) do n.º 2 do art. 38.º, o n.º 3 do art. 41.º e o art. 42.º do Dec Lei 124/2006, de 28-jun,
+    na versão republicada pelo presente diploma pelo(a) Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/76-2017-108010872
+  date: '2017-08-17'
+- type: amends
+  target: pt:numero:decreto-lei:124/2006
+  label: "Altera os arts. 1.º a 4.º, 6.º a 10.º, 11.º (revogado o nº 3 deste art. pelo Dec Lei 15/2009 de 14-Jan), 12.º, 13.º,\
+    \ 14.º, 16.º, 18.º a 21.º, 23.º a 28.º, 30.º, 32.º, 34.º e 35.º a 43.º, bem como o anexo, adita uma secção I ao capítulo\
+    \ II, com a epígrafe «Comissões de defesa da floresta», adita ainda os arts. 3.º-A, 3.º-B, 3.º-C e 3.º-D, determina que\
+    \ as secções I e II do capítulo II passem respectivamente para secções II e III do mesmo capítulo, revoga o n.º 6 do artigo\
+    \ 8.º, os n.os 8, 9 e 10 do artigo 10.º, os n.os 3 e 4 do artigo 14.º e o n.º 2 do artigo 24.º, todos do Decreto-Lei n.º\
+    \ 124/2006, de 28 de Junho, DR.IS-A [123], republicado com a redacção actual\0l\0"
+  source: null
+  date: '2006-06-28'
 - type: cites
   target: celex:31992R2158
   label: null
@@ -98,16 +132,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/14/2004/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/14/2004/05/08/p/dre
+- type: corrected_by
+  target: pt:dre:605319:por
+  label: "Rectificado o presente diploma, que altera o Decreto-Lei n.º 124/2006, de 28 de Junho, e procede à sua republicação,\
+    \ pela DECL-RECT.20/2009.13.03.2009.PCM, DR.IS [51] de 13.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/20-2009-605319
+  date: '2009-03-13'
 article_structure:
-  article_count: 94
+  article_count: 56
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:56Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +194,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 2 - O presente decreto-lei aplica-se a todo o território continental português.
 
-###### Artigo 2.º — Sistema de Defesa da Floresta contra Incêndios
+Artigo 2.º
+
+Sistema de Defesa da Floresta contra Incêndios
 
 1 - O Sistema de Defesa da Floresta contra Incêndios prevê o conjunto de medidas e acções de articulação institucional, de planeamento e de intervenção relativas à prevenção e protecção das florestas contra incêndios, nas vertentes da compatibilização de instrumentos de ordenamento, de sensibilização, planeamento, ordenamento do território florestal, silvicultura, infra-estruturação, vigilância, detecção, combate, rescaldo, vigilância pós-incêndio e fiscalização, a levar a cabo pelas entidades públicas com competências na defesa da floresta contra incêndios e entidades privadas com intervenção no sector florestal.
 
@@ -180,7 +222,9 @@ c) ...
 
 9 - As regras de criação e funcionamento do SGIF são aprovadas, mediante proposta do presidente da Autoridade Florestal Nacional, pelo Conselho Florestal Nacional.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Para efeitos do disposto no presente decreto-lei, entende-se por:
 
@@ -248,19 +292,25 @@ hh) [Anterior alínea ee).]
 
 ii) [Anterior alínea ff).]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
 2 - O índice de risco temporal de incêndio florestal e respectiva cartografia é elaborada pelo Instituto de Meteorologia, em articulação com a Autoridade Florestal Nacional.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - As manchas florestais onde se reconhece ser prioritária a aplicação de medidas mais rigorosas de defesa da floresta contra incêndios face ao risco de incêndio que apresentam e em função do seu valor patrimonial, social ou ecológico são designadas por zonas críticas, sendo estas identificadas, demarcadas e alvo de planeamento próprio nos planos regionais de ordenamento florestal.
 
 2 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Assegurando a consistência territorial de políticas, instrumentos, medidas e acções, o planeamento da defesa da floresta contra incêndios tem um nível nacional, distrital e municipal.
 
@@ -270,7 +320,9 @@ ii) [Anterior alínea ff).]
 
 4 - O planeamento municipal tem um carácter executivo e de programação operacional e deverá cumprir as orientações e prioridades distritais e locais, numa lógica de contribuição para o todo nacional.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -284,7 +336,9 @@ ii) [Anterior alínea ff).]
 
 6 - (Revogado.)
 
-###### Artigo 9.º — Planeamento distrital de defesa da floresta contra incêndios
+Artigo 9.º
+
+Planeamento distrital de defesa da floresta contra incêndios
 
 1 - O planeamento distrital de defesa da floresta contra incêndios desenvolve as orientações nacionais decorrentes do planeamento nacional em matéria florestal e do PNDFCI, estabelecendo a estratégia distrital de defesa da floresta contra incêndios.
 
@@ -294,7 +348,9 @@ ii) [Anterior alínea ff).]
 
 4 - O elemento de ligação referido no número anterior pode ser, ou não, o mesmo elemento que desempenha as funções de oficial de ligação no período crítico.
 
-###### Artigo 10.º — Planeamento municipal de defesa da floresta contra incêndios
+Artigo 10.º
+
+Planeamento municipal de defesa da floresta contra incêndios
 
 1 - Os planos municipais de defesa da floresta contra incêndios (PMDFCI), de âmbito municipal ou intermunicipal, contêm as acções necessárias à defesa da floresta contra incêndios e, para além das acções de prevenção, incluem a previsão e a programação integrada das intervenções das diferentes entidades envolvidas perante a eventual ocorrência de incêndios.
 
@@ -316,13 +372,17 @@ ii) [Anterior alínea ff).]
 
 10 - (Revogado.)
 
-###### Artigo 11.º — Relação entre instrumentos de planeamento
+Artigo 11.º
+
+Relação entre instrumentos de planeamento
 
 1 - Todos os instrumentos de gestão florestal devem explicitar não só as acções de silvicultura para defesa da floresta contra incêndios e de infra-estruturação dos espaços rurais, mas também a sua integração e compatibilização com os instrumentos de planeamento florestal de nível superior, designadamente os PMDFCI e os planos regionais de ordenamento florestal (PROF).
 
 2 - Todas as iniciativas locais de prevenção, pré-supressão e recuperação de áreas ardidas ao nível submunicipal devem estar articuladas e enquadradas pelos PMDFCI.
 
-###### Artigo 12.º — Redes de defesa da floresta contra incêndios
+Artigo 12.º
+
+Redes de defesa da floresta contra incêndios
 
 1 - As redes de defesa da floresta contra incêndios (RDFCI) concretizam territorialmente, de forma coordenada, a infra-estruturação dos espaços rurais decorrente da estratégia do planeamento de defesa da floresta contra incêndios.
 
@@ -338,7 +398,9 @@ ii) [Anterior alínea ff).]
 
 7 - A recolha, registo e actualização da base de dados das RDFCI deve ser efectuada pelas autarquias locais, mediante protocolo e procedimento divulgado em norma técnica pela Autoridade Florestal Nacional, ouvido o Conselho Florestal Nacional.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -356,7 +418,9 @@ ii) [Anterior alínea ff).]
 
 8 - Quando as faixas de gestão de combustíveis e os mosaicos de parcelas ocorram em áreas ocupadas por sobreiros e azinheiras, a Autoridade Florestal Nacional pode autorizar desbastes com o objectivo de reduzir a continuidade dos combustíveis.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - As infra-estruturas discriminadas no n.º 2 do artigo 12.º, e os terrenos necessários à sua execução e inscritas nos PMDFCI podem, sob proposta das câmaras municipais, ser declaradas de utilidade pública, nos termos e para os efeitos previstos no Código das Expropriações, mediante despacho do membro do Governo responsável pela área das florestas.
 
@@ -366,7 +430,9 @@ ii) [Anterior alínea ff).]
 
 4 - (Revogado.)
 
-###### Artigo 16.º — Condicionalismos à edificação
+Artigo 16.º
+
+Condicionalismos à edificação
 
 1 - ...
 
@@ -374,7 +440,9 @@ ii) [Anterior alínea ff).]
 
 3 - As novas edificações no espaço florestal ou rural fora das áreas edificadas consolidadas têm de salvaguardar, na sua implantação no terreno, as regras definidas no PMDFCI respectivo ou, se este não existir, a garantia de distância à estrema da propriedade de uma faixa de protecção nunca inferior a 50 m e a adopção de medidas especiais relativas à resistência do edifício à passagem do fogo e à contenção de possíveis fontes de ignição de incêndios no edifício e respectivos acessos.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -384,17 +452,23 @@ ii) [Anterior alínea ff).]
 
 4 - As redes primárias de faixas de gestão de combustível são definidas pelos planos distritais de defesa da floresta contra incêndios e obrigatoriamente integrados no planeamento municipal de defesa da floresta contra incêndios.
 
-###### Artigo 19.º — Depósito de madeiras e de outros produtos inflamáveis
+Artigo 19.º
+
+Depósito de madeiras e de outros produtos inflamáveis
 
 1 - ...
 
 2 - Durante o período crítico só é permitido empilhamento em carregadouro de produtos resultantes de corte ou extracção (estilha, rolaria, madeira, cortiça e resina) desde que seja salvaguardada uma área sem vegetação com 10 m em redor e garantindo que nos restantes 40 m a carga combustível é inferior ao estipulado no anexo do presente decreto-lei e que dele faz parte integrante.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 As normas técnicas e funcionais relativas à classificação, cadastro, construção, manutenção e sinalização de vias integrantes da rede viária florestal, pontos de água e das demais infra-estruturas florestais integrantes das RDFCI constam de normas próprias, a aprovar por regulamento da Autoridade Florestal Nacional, homologado pelo membro do Governo responsável pela área das florestas, ouvido o Conselho Florestal Nacional.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -408,7 +482,9 @@ As normas técnicas e funcionais relativas à classificação, cadastro, constru
 
 6 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -432,7 +508,9 @@ h) Às actividades realizadas por membros das organizações definidas no n.º 3
 
 3 - As regras a que obedecem as actividades a que se refere a alínea h) do número anterior são definidas em portaria dos membros do Governo responsáveis pelas áreas da juventude, da protecção civil e das florestas.
 
-###### Artigo 24.º — Informação das zonas críticas
+Artigo 24.º
+
+Informação das zonas críticas
 
 1 - A garantia da informação sobre os condicionamentos referidos no artigo 22.º é da responsabilidade da autarquia nos seguintes termos:
 
@@ -444,7 +522,9 @@ c) ...
 
 2 - (Revogado.)
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - A execução de campanhas de sensibilização é, independentemente das entidades que as realizem, coordenada pela Autoridade Florestal Nacional.
 
@@ -456,7 +536,9 @@ c) ...
 
 5 - Compete à Autoridade Florestal Nacional a divulgação das medidas preventivas aconselhadas ou obrigatórias, onde se incluem as referidas nos artigos 22.º, 27.º, 28.º e 29.º, bem como a sua incidência territorial.
 
-###### Artigo 26.º — Fogo técnico
+Artigo 26.º
+
+Fogo técnico
 
 1 - As acções de fogo técnico, nomeadamente fogo controlado e fogo de supressão, só podem ser realizadas de acordo com as normas técnicas e funcionais a definir em regulamento da Autoridade Florestal Nacional, homologado pelo membro do Governo responsável pela área das florestas, ouvidas a Autoridade Nacional de Protecção Civil e a Guarda Nacional Republicana.
 
@@ -468,7 +550,9 @@ c) ...
 
 5 - Compete ao gabinete técnico florestal de cada município o registo cartográfico anual de todas as acções de gestão de combustíveis, ao qual é associada a identificação da técnica utilizada e da entidade responsável pela sua execução, e que deve ser incluído no plano operacional municipal.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - A realização de queimadas, definidas no artigo 3.º, deve obedecer às orientações emanadas das comissões distritais de defesa da floresta.
 
@@ -478,7 +562,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -490,11 +576,15 @@ c) ...
 
 5 - Exceptuam-se do disposto nos n.os 1 e 2 as actividades desenvolvidas por membros das organizações definidas no n.º 3 do artigo 3.º da Lei n.º 23/2006, de 23 de Junho, nos termos definidos na portaria referida no n.º 3 do artigo 23.º
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 Durante o período crítico, nos trabalhos e outras actividades que decorram em todos os espaços rurais e com eles relacionados, é obrigatório que as máquinas de combustão interna e externa a utilizar, onde se incluem todo o tipo de tractores, máquinas e veículos de transporte pesados, sejam dotadas de dispositivos de retenção de faíscas ou faúlhas e de dispositivos tapa-chamas nos tubos de escape ou chaminés, e estejam equipados com um ou dois extintores de 6 kg, de acordo com a sua massa máxima, consoante esta seja inferior ou superior a 10 000 kg.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - A RNPV é constituída por postos de vigia públicos e privados instalados em locais previamente aprovados pelo comandante da Guarda Nacional Republicana, ouvidos a Autoridade Florestal Nacional, a Autoridade Nacional de Protecção Civil e o Instituto de Conservação da Natureza e da Biodiversidade, I. P., e homologados pelo membro do Governo responsável pela área da protecção civil.
 
@@ -512,7 +602,9 @@ Durante o período crítico, nos trabalhos e outras actividades que decorram em 
 
 8 - A instalação de qualquer equipamento que possa interferir com a visibilidade e qualidade de comunicação radioeléctrica nos postos de vigia ou no espaço de 30 m em seu redor carece de parecer prévio da Guarda Nacional Republicana.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -522,7 +614,9 @@ Durante o período crítico, nos trabalhos e outras actividades que decorram em 
 
 4 - Compete à Autoridade Florestal Nacional coordenar com as Forças Armadas as acções que estas vierem a desenvolver na abertura de faixas de gestão de combustível e nas acções de gestão de combustível dos espaços florestais, bem como articular com o ICNB, I. P., quando estas acções se realizem em áreas protegidas, dando conhecimento à comissão municipal de defesa da floresta.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -532,7 +626,9 @@ Durante o período crítico, nos trabalhos e outras actividades que decorram em 
 
 4 - ...
 
-###### Artigo 36.º — Recuperação de áreas ardidas
+Artigo 36.º
+
+Recuperação de áreas ardidas
 
 1 - ...
 
@@ -540,13 +636,17 @@ Durante o período crítico, nos trabalhos e outras actividades que decorram em 
 
 3 - A recuperação de áreas ardidas é regulamentada por diploma próprio.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - A fiscalização do estabelecido no presente decreto-lei compete à Guarda Nacional Republicana, à Polícia de Segurança Pública, à Polícia Marítima, à Autoridade Florestal Nacional, à Autoridade Nacional de Protecção Civil, às câmaras municipais, às polícias municipais e aos vigilantes da natureza.
 
 2 - Compete aos membros do Governo responsáveis pelas áreas da administração interna e das florestas, a definição das orientações no domínio da fiscalização do estabelecido no presente decreto-lei.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -590,7 +690,9 @@ r) [Anterior alínea s).]
 
 4 - ...
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - Consoante a gravidade da contra-ordenação e a culpa do agente, pode a Autoridade Florestal Nacional determinar, cumulativamente com as coimas previstas nas alíneas c), l), m) e p) do n.º 2 do artigo 38.º, a aplicação das seguintes sanções acessórias, no âmbito de actividades e projectos florestais:
 
@@ -602,7 +704,9 @@ b) ...
 
 3 - Para efeitos do disposto na alínea a) do n.º 1, a Autoridade Florestal Nacional comunica, no prazo de cinco dias, a todas as entidades públicas responsáveis pela concessão de subsídios ou benefícios a aplicação da sanção.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -612,7 +716,9 @@ b) ...
 
 4 - Compete ao presidente da Autoridade Florestal Nacional e ao presidente da câmara municipal, consoante o caso, a aplicação das coimas previstas no artigo 38.º, bem como as respectivas sanções acessórias, das quais deve ser dado conhecimento às autoridades autuantes.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - A afectação do produto das coimas cobradas em aplicação das alíneas a), b), c), d), o) e p) do n.º 2 do artigo 38.º é feita da seguinte forma:
 
@@ -630,7 +736,9 @@ c) 20 % para a Autoridade Florestal Nacional.
 
 3 - ...
 
-###### Artigo 42.º — Elaboração e revisão dos planos de defesa da floresta contra incêndios
+Artigo 42.º
+
+Elaboração e revisão dos planos de defesa da floresta contra incêndios
 
 1 - Os planos distritais de defesa da floresta contra incêndios devem estar concluídos até 31 de Dezembro de 2009 e devem ser elaborados nos termos de regulamento da Autoridade Florestal Nacional homologado pelo membro do Governo responsável pela área das florestas.
 
@@ -638,7 +746,9 @@ c) 20 % para a Autoridade Florestal Nacional.
 
 3 - Os planos municipais de defesa da floresta contra incêndios actualmente existentes devem ser revistos e adequados ao presente diploma até 31 de Dezembro de 2009, nos termos de regulamento da Autoridade Florestal Nacional, homologado pelo membro do Governo responsável pela área das florestas.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -662,7 +772,7 @@ b) ...
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/00900/0027300295.pdf))](https://files.diariodarepublica.pt/1s/2009/01/00900/0027300295.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/00900/0027300295.pdf)
 
 3 - ...
 
@@ -698,7 +808,9 @@ B) ...
 
 4 - As comissões distritais funcionam sob a coordenação do governador civil do distrito e as comissões municipais funcionam sob a coordenação do presidente da câmara municipal.
 
-###### Artigo 3.º-B — Atribuições
+Artigo 3.º-B
+
+Atribuições
 
 1 - São atribuições das comissões distritais:
 
@@ -736,7 +848,9 @@ j) Avaliar os planos de fogo controlado que lhe forem apresentados pelas entidad
 
 l) Emitir, quando solicitado, parecer sobre os programas nacionais de defesa da floresta.
 
-###### Artigo 3.º-C — Composição das comissões distritais
+Artigo 3.º-C
+
+Composição das comissões distritais
 
 1 - As comissões distritais têm a seguinte composição:
 
@@ -774,7 +888,9 @@ o) Um representante da Liga dos Bombeiros Portugueses.
 
 4 - O desempenho de funções na comissão prevista no presente artigo não confere direito a qualquer remuneração.
 
-###### Artigo 3.º-D — Composição das comissões municipais
+Artigo 3.º-D
+
+Composição das comissões municipais
 
 1 - As comissões municipais têm a seguinte composição:
 
@@ -824,15 +940,15 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Outubro de 2008. - José Sócrates Carvalho Pinto de Sousa - Henrique Nuno Pires Severiano Teixeira - Rui Carlos Pereira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Luís Medeiros Vieira.
 
-**Promulgado em 18 de Dezembro de 2008.**
+Promulgado em 18 de Dezembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 18 de Dezembro de 2008.**
+Referendado em 18 de Dezembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 124/2006, de 28 de Junho
 
@@ -1722,7 +1838,7 @@ b) A altura máxima da vegetação é a constante do quadro n.º 1, variando em 
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/00900/0027300295.pdf))](https://files.diariodarepublica.pt/1s/2009/01/00900/0027300295.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/00900/0027300295.pdf)
 
 3 - Os estratos arbóreo, arbustivo e subarbustivo remanescentes devem ser organizados espacialmente por forma a evitar a continuidade vertical dos diferentes estratos combustíveis.
 

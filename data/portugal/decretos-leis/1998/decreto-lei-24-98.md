@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/24/1998/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1998-229974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c731a30eb003087d9bf9bacf9799f95bffe630d50703f77cc0abf4fa81a0bea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e057a25ec6aafee48ce1186446d12955ce34a072ca4cb0a1fb9284b767b9f057
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -84,16 +84,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/52-c/1996/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/52-c/1996/12/27/p/dre
+- type: cites
+  target: pt:dre:583042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594675:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:276181:por
+  label: "Rectificado pela DECL-RECT.7-H/98.1998.03.31.PCM DR.IS-A [76]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-h-1998-276181
+  date: '1998-03-31'
+- type: repealed_by
+  target: pt:dre:191558:por
+  label: "Revogado o art. 89º do Código de Processo Tributário aprovado pelo Dec Lei 154/91 de 23-Abr, na redacção do presente\
+    \ diploma, pelo DEC LEI.398/98.1998.12.17.MF, DR.IS-A [290] (sem prejuízo do disposto no nº 2 do art. 3º)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/398-1998-191558
+  date: '1998-12-17'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:19Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +167,9 @@ Perito independente. Nomeação e escolha
 
 8 - A fundamentação da decisão das comissões de revisão, na parte em que invoque matéria objecto do parecer do perito independente, deve obrigatoriamente efectuar-se por adesão ou rejeição, total ou parcial, do referido parecer.
 
-###### Artigo 85.º-B — Recrutamento e intervenção do perito independente
+Artigo 85.º-B
+
+Recrutamento e intervenção do perito independente
 
 1 - Os peritos independentes de apoio às comissões de revisão, de número não superior a 50, constam de uma relação oficial representativa dos vários sectores da actividade económica, a elaborar trienalmente por uma comissão de carácter permanente de quatro membros, dos quais dois são designados pelo Ministro das Finanças, um dos quais presidirá com voto de qualidade, e outros dois pelo Conselho Nacional de Fiscalidade.
 
@@ -164,12 +185,12 @@ Perito independente. Nomeação e escolha
 
 Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 26 de Janeiro de 1998.**
+Promulgado em 26 de Janeiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Janeiro de 1998.**
+Referendado em 29 de Janeiro de 1998.
 
 Pelo Primeiro-Ministro, Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros.

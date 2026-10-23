@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/260/1997/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1997-658596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b8d0b912a445e50365985bce0d4ddf0ae420d31f03d75fd8879f8421a0a5dee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53a849bca2b86d911b41a5b592d66574078c03c3b2cb0ed840fdbb09ee365a3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto Nacional de Garantia Agrícola
-- Vila Real
 - Agricultura
-- Ifadap
 - Bragança
+- Guarda
+- Ifadap
+- Instituto Nacional de Garantia Agrícola
 - Subsídio
 - Subsídio não Reembolsável
 - Temporal
-- Guarda
+- Vila Real
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/74/1997/05/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/74/1997/05/13/p/dre
+- type: cites
+  target: pt:dre:395154:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:18Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +138,9 @@ A atribuição das ajudas previstas no presente diploma faz-se ao abrigo de cont
 
 O beneficiário poderá, mediante requerimento, desistir da ajuda, desde que proceda à restituição das importâncias que haja recebido, acrescidas de juros calculados à taxa legal desde a data em que aquelas foram colocadas à sua disposição.
 
-###### Artigo 6.º — Título executivo
+###### Artigo 6.º
+
+## Título executivo
 
 1 - Constituem títulos executivos as certidões de dívida emitidas pelo IFADAP.
 
@@ -152,16 +158,16 @@ Compete ao IFADAP adoptar as normas técnicas, contratuais, financeiras e de fun
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Luís Manuel Capoulas Santos.
 
-**Promulgado em 16 de Setembro de 1997.**
+Promulgado em 16 de Setembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Setembro de 1997.**
+Referendado em 18 de Setembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Concelhos abrangidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/226a00/53715372.pdf))](https://files.diariodarepublica.pt/1s/1997/09/226a00/53715372.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/226a00/53715372.pdf)

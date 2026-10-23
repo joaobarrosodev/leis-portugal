@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/453-1978-299993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T05:41:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bbdf2a30c3b291af2236f913ef8d8cd4aeb350ad74646f39b4698b396935733
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edef430c7d01bbda70484a419767e17819ac9e507dd2bfb50fc3f7ebb716e8d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:41:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Disciplinar
+- Chefias Militares
+- Forças Armadas
+- Marinha
 relationships:
 - type: amended_by
   target: pt:dre:375857:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:378557:por
+  label: "Alterada a relação anexa ao presente diploma, pela Port.465/79.28.08.1979.CR, DR.IS [198] de 28.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/465-1979-378557
+  date: '1979-08-28'
+- type: amended_by
+  target: pt:dre:367825:por
+  label: "Alterada a relação anexa, na redacção da Port 465/79 de 28-Ago, pela PORT.595/79.31.10.1979.CR, DR.IS [264] de 15.11.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/595-1979-367825
+  date: '1979-10-31'
+- type: amended_by
+  target: pt:dre:573163:por
+  label: "Alterada a relação anexa ao presente diploma, na redacção da Port 465/79 de 28-Ago, pela PORT.386/81.12.05.1981.CR,\
+    \ DR.IS [108] de 12.05.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/386-1981-573163
+  date: '1981-05-12'
+- type: amended_by
+  target: pt:dre:375857:por
+  label: "Alterada a relação anexa pela PORT.882/82.20.09.1982.CR, DR.IS [218] de 20.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/882-1982-375857
+  date: '1982-09-20'
+- type: cites
+  target: pt:dre:139918:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:41:37Z'
   warnings: []
   errors: []
 ---

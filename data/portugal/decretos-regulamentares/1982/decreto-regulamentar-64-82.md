@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/22400/30823083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/64-1982-375263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T06:05:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53442699b86649b4c1ca9e53d1017dcee25e1294b345f703a72c3b803db2c971
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3daea516f20dcf71143e2e084449fc36ae6c5147743f339119cfd18a1675fcd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:05:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Licença de Transporte
+- Licenciamento
+- Regulamentação dos Transportes
+- Regulamento de Transportes em Automóveis
+- Transporte de Carga
+- Transporte de Mercadorias
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:533823:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:396538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:533823:por
+  label: "Revogado pelo DEC LEI.285/94.1994.11.11.MOPTC, DR.IS-A [261]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/285-1994-533823
+  date: '1994-11-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:05:54Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +118,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 3.º, 4.º, 7.º e 82.º do [Decreto n.º 46066](https://diariodarepublica.pt/dr/detalhe/decreto/46066-1964-535987), de 7 de Dezembro de 1964, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 3.º, 4.º, 7.º e 82.º do [Decreto n.º 46066](https://diariodarepublica.pt/dr/detalhe/decreto/46066-1964-535987), de 7 de Dezembro de 1964, passam a ter a seguinte redacção:
 
-###### Art. 2.º As licenças para a circulação dos veículos afectos a transportes particulares de mercadorias serão requeridas ao director-geral de Transportes Terrestres, com indicação dos seguintes elementos:
+Art. 2.º As licenças para a circulação dos veículos afectos a transportes particulares de mercadorias serão requeridas ao director-geral de Transportes Terrestres, com indicação dos seguintes elementos:
 
 1) Nome e residência ou sede do requerente, com a indicação da freguesia, concelho, código postal e bairro fiscal ou repartição de finanças e, sendo entidade colectiva, nome e residência do seu representante legal;
 
@@ -122,7 +146,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 § 6.º Através de portaria, poderão ser criadas, junto da Direcção-Geral de Transportes Terrestres, comissões técnicas destinadas a emitir parecer sobre os pedidos de licença para o transporte particular de mercadorias nos casos a que se reporta o § 4.º
 
-###### Art. 3.º Das licenças de circulação constarão:
+Art. 3.º Das licenças de circulação constarão:
 
 1) ...
 
@@ -134,7 +158,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 § único. ...
 
-###### Art. 4.º Determinam a passagem de nova licença:
+Art. 4.º Determinam a passagem de nova licença:
 
 a) ...
 
@@ -150,7 +174,7 @@ d) ...
 
 § 3.º Nos casos de transferência da localidade sede, os respectivos requerimentos deverão ser acompanhados de elementos documentais comprovativos de que o proprietário do veículo passou a exercer na nova localidade, ou nela exerce também, qualquer actividade económica a que pretenda afectar dominantemente a exploração do veículo.
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 a) ...
 
@@ -166,14 +190,14 @@ f) Os que se efectuem em veículos que excedam os limites de peso, pressão sobr
 
 § único. ...
 
-###### Art. 82.º Qualquer transgressão das disposições do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852) ou deste regulamento que não esteja especialmente punida fica sujeita à multa de 1000$00.
+Art. 82.º Qualquer transgressão das disposições do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852) ou deste regulamento que não esteja especialmente punida fica sujeita à multa de 1000$00.
 
-###### Art. 2.º Ficam revogados o § único do artigo 5.º e os artigos 16.º e 91.º do [Decreto n.º 46066](https://diariodarepublica.pt/dr/detalhe/decreto/46066-1964-535987), de 7 de Dezembro de 1964.
+Art. 2.º Ficam revogados o § único do artigo 5.º e os artigos 16.º e 91.º do [Decreto n.º 46066](https://diariodarepublica.pt/dr/detalhe/decreto/46066-1964-535987), de 7 de Dezembro de 1964.
 
 Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 14 de Setembro de 1982.**
+Promulgado em 14 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

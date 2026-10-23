@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/14/2002/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:27:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15bcac66db25c655c271a26b5f97a4b20835bcbec85b54c0ddf34e96d5b156e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5a4f6052c59cb266ffba55d1b7b919999aea4cd39dd8c759d9554f5a9813687
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:27:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
 - Contra-ordenação
 - Indústria Hoteleira
 - Licenciamento
 - Parque de Campismo
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:247248:por
@@ -91,16 +91,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/33/1997/09/17/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/33/1997/09/17/p/dre
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178355:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649483:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247248:por
+  label: "Revogado o DR 33/97 de 17-Set, com as alterações introduzidas pelo presente diploma (revogado nos mesmos termos),\
+    \ pelo DEC LEI.39/2008.07.03.2008.MEI, DR.IS [48] de 07.03.2008, com a entrada em vigor das portarias nele previstas \0\
+    s \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2008-247248
+  date: '2008-03-07'
 article_structure:
-  article_count: 62
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 36
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:27:15Z'
   warnings: []
   errors: []
 ---
@@ -147,17 +174,23 @@ h) Estarem afastados das grandes vias de comunicação ou suficientemente isolad
 
 3 - Enquanto não for possível dar cumprimento ao disposto no número anterior, devem ser criadas sombras por processos artificiais, sobretudo nas zonas destinadas a convívio.
 
-###### Artigo 2.º — Acesso à via pública
+Artigo 2.º
+
+Acesso à via pública
 
 Os terrenos dos parques de campismo devem ter fácil ligação à via pública para qualquer tipo de veículos automóveis com e sem reboques, designadamente para veículos de socorro ou emergência.
 
-###### Artigo 3.º — Delimitação
+Artigo 3.º
+
+Delimitação
 
 1 - O terreno dos parques de campismo deve ser vedado, por forma a preservar a segurança e a tranquilidade dos campistas.
 
 2 - Nas vedações devem existir portões de entrada e saída em número suficiente e devidamente sinalizados, com a largura mínima de 3,5 m, para possibilitar o acesso ao parque de campismo de veículos de socorro e emergência.
 
-###### Artigo 4.º — Vias de circulação interna
+Artigo 4.º
+
+Vias de circulação interna
 
 1 - Os parques de campismo devem dispor de vias de circulação interna que permitam o trânsito de qualquer tipo de veículos automóveis com ou sem reboques, designadamente veículos de socorro ou de emergência.
 
@@ -171,7 +204,9 @@ Os terrenos dos parques de campismo devem ter fácil ligação à via pública p
 
 6 - Apenas é permitido o estacionamento de veículos automóveis dentro dos parques de campismo nas áreas expressamente previstas para o efeito.
 
-###### Artigo 5.º — Rede de energia eléctrica
+Artigo 5.º
+
+Rede de energia eléctrica
 
 1 - Os parques de campismo devem dispor de uma rede interna, aérea ou subterrânea, de distribuição de energia eléctrica que assegure o fornecimento de electricidade aos campistas e a iluminação geral do parque.
 
@@ -185,7 +220,9 @@ Os terrenos dos parques de campismo devem ter fácil ligação à via pública p
 
 6 - Durante os períodos de silêncio deve haver luz permanente junto às entradas e saídas do parque do parque de campismo, bem como das instalações sanitárias, devendo no interior destas a luz ser accionável através de interruptores que tenham a necessária protecção.
 
-###### Artigo 6.º — Abastecimento de água
+Artigo 6.º
+
+Abastecimento de água
 
 1 - Os parques de campismo devem ser dotados de água de abastecimento para consumo humano, nos termos previstos nas normas relativas à qualidade da água destinada ao consumo humano.
 
@@ -199,7 +236,9 @@ Os terrenos dos parques de campismo devem ter fácil ligação à via pública p
 
 6 - Para efeitos do disposto no número anterior a captação de água destinada a abastecimento para consumo humano deve possuir as adequadas condições de protecção sanitária, e o sistema ser dotado dos processos de tratamento requeridos para a potabilização da água ou para a manutenção dessa potabilização, de acordo com as normas de qualidade da água em vigor, devendo para o efeito ser efectuadas análises físico-químicas e microbiológicas.
 
-###### Artigo 7.º — Condições gerais de instalação
+Artigo 7.º
+
+Condições gerais de instalação
 
 1 - A instalação das infra-estruturas e, de um modo geral, de todo o equipamento necessário ao funcionamento dos parques de campismo deve efectuar-se de modo que não se produzam ruídos, vibrações, fumos ou cheiros susceptíveis de perturbar ou de, por qualquer modo, afectar o ambiente dos parques de campismo e a tranquilidade e a segurança dos campistas.
 
@@ -221,7 +260,9 @@ f) As coberturas superiores devem ser fixadas ao solo de modo que não constitua
 
 4 - É interdita a instalação de muros artificiais à volta das tendas ou outros equipamentos similares utilizados pelos campistas.
 
-###### Artigo 8.º — Instalações sanitárias
+Artigo 8.º
+
+Instalações sanitárias
 
 1 - ...
 
@@ -249,7 +290,9 @@ e) Tomadas de corrente na proporção de uma para cada 40 campistas.
 
 8 - As paredes, pavimentos e tectos das instalações sanitárias devem ser revestidas de materiais resistentes, impermeáveis, não inflamáveis e de fácil limpeza.
 
-###### Artigo 10.º — Equipamentos de utilização comum
+Artigo 10.º
+
+Equipamentos de utilização comum
 
 1 - Os parques de campismo devem ter, pelo menos, os seguintes equipamentos de utilização comum pelos campistas:
 
@@ -267,7 +310,9 @@ f) Área para a prática de desportos ao ar livre.
 
 2 - Os lavadouros de louça, as pias para despejo de águas residuais e os tanques para lavar roupa, dotados de água corrente e ligados, por meio de sifão, ao sistema de esgoto, podem ser ao ar livre, devendo, no entanto, ser resguardados do sol e da chuva.
 
-###### Artigo 11.º — Recipientes para o lixo
+Artigo 11.º
+
+Recipientes para o lixo
 
 1 - Os parques de campismo devem dispor de recipientes para o lixo com tampa, colocados em locais de fácil acesso e devidamente sinalizados, na proporção de um por cada 30 campistas, com capacidade adequada e não distando entre si mais de 50 m.
 
@@ -277,7 +322,9 @@ f) Área para a prática de desportos ao ar livre.
 
 4 - A lavagem e manutenção dos contentores é obrigatória, devendo prever-se um local para esta actividade devidamente isolado das zonas destinadas aos campistas, devendo o mesmo ser claramente identificado.
 
-###### Artigo 12.º — Instalações de serviço para caravanas e autocaravanas
+Artigo 12.º
+
+Instalações de serviço para caravanas e autocaravanas
 
 1 - Nos parques de campismo em que sejam admitidas caravanas ou autocaravanas devem existir instalações de serviço na proporção de uma instalação para cada 30 unidades.
 
@@ -285,7 +332,9 @@ f) Área para a prática de desportos ao ar livre.
 
 3 - Os locais das instalações referidas no n.º 1 devem estar revestidos com materiais impermeabilizados, de modo a assegurar a drenagem das águas residuais.
 
-###### Artigo 13.º — Instalações de alojamento
+Artigo 13.º
+
+Instalações de alojamento
 
 1 - ...
 
@@ -297,13 +346,17 @@ f) Área para a prática de desportos ao ar livre.
 
 5 - Quando as instalações destinadas a alojamento forem pré-fabricadas e tiverem um carácter amovível, a área dos quartos pode ser reduzida para 5 m2 e 8 m2, consoante se trate, respectivamente, de quartos com uma cama individual ou com duas camas individuais ou uma de casal.
 
-###### Artigo 14.º — Placa identificativa da classificação e qualificação
+Artigo 14.º
+
+Placa identificativa da classificação e qualificação
 
 1 - Nos parques de campismo públicos e nos parques de campismo privativos previstos no n.º 4 do artigo 24.º, é obrigatória a afixação no exterior, junto à entrada principal, de uma placa identificativa da classificação do parque, cujo modelo é aprovado por portaria do membro do Governo responsável pela área do turismo.
 
 2 - Nos parques de campismo privativos é obrigatória a afixação no exterior, junto à entrada principal, de uma placa que identifique o parque como privativo, devendo, no caso dos parques previstos no n.º 3 do artigo 4.º do [Decreto-Lei n.º 167/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1997-156001), de 4 de Julho, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 55/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2002-250607), de 11 de Março, o mesmo ser identificado como associativo.
 
-###### Artigo 15.º — Capacidade dos parques
+Artigo 15.º
+
+Capacidade dos parques
 
 1 - A capacidade dos parques de campismo públicos é determinada pela área útil destinada a cada campista, de acordo com o estabelecido no presente regulamento para as respectivas categorias.
 
@@ -311,7 +364,9 @@ f) Área para a prática de desportos ao ar livre.
 
 3 - Para efeito do disposto no número anterior, a área útil mínima destinada a cada campista nos parques de campismo privativos é de 13 m2.
 
-###### Artigo 16.º — Recepção
+Artigo 16.º
+
+Recepção
 
 1 - Os parques de campismo devem ter uma recepção instalada junto da sua entrada principal.
 
@@ -355,25 +410,33 @@ m) A indicação do posto de correio mais próximo do parque de campismo.
 
 6 - ...
 
-###### Artigo 17.º — Primeiros socorros e equipamento de salvação
+Artigo 17.º
+
+Primeiros socorros e equipamento de salvação
 
 1 - Os parques de campismo devem ter disponível, vinte e quatro horas por dia, equipamento de primeiros socorros ou um posto médico para a prestação de assistência, devidamente sinalizado.
 
 2 - Sem prejuízo do disposto no [Decreto-Lei n.º 236/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1998-430457), de 1 de Agosto, os parques de campismo localizados em zonas que disponham de acesso directo a águas balneares situadas junto a praias fluviais ou marítimas, lagoas ou barragens sem serviços de socorros a náufragos, devem dispor de equipamento e meios de salvação para banhistas junto desses acessos e pessoal preparado para actuar em caso de emergência.
 
-###### Artigo 19.º — Serviço de limpeza e remoção do lixo
+Artigo 19.º
+
+Serviço de limpeza e remoção do lixo
 
 1 - ...
 
 2 - O lixo e demais resíduos recolhidos na área destinada ao campismo devem ser removidos diariamente para o local previsto no n.º 2 do artigo 11.º, onde serão recolhidos pelos serviços públicos ou, na falta destes, por outros idênticos.
 
-###### Artigo 20.º — Serviço de vigilância
+Artigo 20.º
+
+Serviço de vigilância
 
 1 - Nos parques de campismo deve existir um serviço permanente de vigilância.
 
 2 - ...
 
-###### Artigo 21.º — Deveres dos campistas
+Artigo 21.º
+
+Deveres dos campistas
 
 1 - ...
 
@@ -405,7 +468,9 @@ m) Não limitar qualquer zona interior ou exterior à área que lhe for destinad
 
 n) Não implantar estruturas fixas ou proceder à pavimentação do solo.
 
-###### Artigo 22.º — Regulamento interno
+Artigo 22.º
+
+Regulamento interno
 
 1 - Sem prejuízo do disposto no número seguinte, os parques de campismo devem ter um regulamento interno elaborado pela respectiva entidade exploradora e aprovado pela câmara municipal competente.
 
@@ -429,11 +494,15 @@ f) Os períodos de silêncio;
 
 g) Os equipamentos de queima autorizados pela entidade exploradora do parque de campismo para a confecção de alimentos.
 
-###### Artigo 23.º — Recusa de permanência
+Artigo 23.º
+
+Recusa de permanência
 
 Pode ser recusada a permanência nos parques de campismo aos campistas que desrespeitem os preceitos do regulamento interno e não cumpram os deveres previstos no artigo 21.º
 
-###### Artigo 24.º — Categorias
+Artigo 24.º
+
+Categorias
 
 1 - Os parques de campismo públicos classificam-se, atendendo à sua localização, à qualidade das suas instalações e equipamentos e dos serviços que ofereçam, nas categorias de 4, 3, 2 e 1 estrelas.
 
@@ -443,7 +512,9 @@ Pode ser recusada a permanência nos parques de campismo aos campistas que desre
 
 4 - Os parques de campismo privativos podem ser classificados em qualquer das categorias previstas para os parques de campismo públicos, desde que preencham os respectivos requisitos.
 
-###### Artigo 26.º — Parques de campismo de 2 estrelas
+Artigo 26.º
+
+Parques de campismo de 2 estrelas
 
 1 - ...
 
@@ -451,7 +522,9 @@ Pode ser recusada a permanência nos parques de campismo aos campistas que desre
 
 3 - ...
 
-###### Artigo 27.º — Parques de campismo de 3 estrelas
+Artigo 27.º
+
+Parques de campismo de 3 estrelas
 
 1 - ...
 
@@ -467,7 +540,9 @@ d) Coberturas descartáveis para retretes e recipientes específicos para deposi
 
 3 - ...
 
-###### Artigo 28.º — Parques de campismo de 4 estrelas
+Artigo 28.º
+
+Parques de campismo de 4 estrelas
 
 1 - ...
 
@@ -489,7 +564,9 @@ e) Tomadas de corrente na proporção de uma para cada 30 campistas.
 
 5 - As piscinas devem ter equipamentos que garantam as características das águas e obedeçam aos parâmetros definidos pelo [Decreto-Lei n.º 236/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1998-430457), de 1 de Agosto e respectivos regulamentos.
 
-###### Artigo 29.º — Contra-ordenações
+Artigo 29.º
+
+Contra-ordenações
 
 1 - Constituem contra-ordenações:
 
@@ -507,7 +584,9 @@ d) A falta ou o não cumprimento dos requisitos especiais exigidos nos artigos 2
 
 4 - ...
 
-###### Artigo 30.º — Sanção acessória de encerramento
+Artigo 30.º
+
+Sanção acessória de encerramento
 
 O encerramento ou a suspensão do parque de campismo e a consequente cassação do respectivo alvará de licença de utilização turística só podem ser determinados como sanção acessória das contra-ordenações resultantes da violação do disposto nos artigos 3.º, 5.º, 6.º, 15.º, 18.º e 19.º»
 
@@ -527,17 +606,19 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Consellho de Ministros de 13 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Eduardo Arménio do Nascimento Cabrita - Luís Garcia Braga da Cruz - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 14 de Fevereiro de 2002.**
+Promulgado em 14 de Fevereiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Fevereiro de 2002.**
+Referendado em 22 de Fevereiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Disposições gerais
 

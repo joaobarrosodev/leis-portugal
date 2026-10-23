@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1980-471075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acd162cf2bcf835760373bf4e8a1bc54c4d9321fb60ea4f8f2a7530b2e503b4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 645194a9dd98c56aace02b94b80db5cfad8ab2b0ef50b18fd42273ba6229fa05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA NON Aedificandi
+relationships:
+- type: cites
+  target: pt:dre:264553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:28Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +103,19 @@ Considerando o disposto no n.º 4 do artigo 30.º do Regulamento para a Explora�
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Até à aprovação dos planos ou anteprojectos de ampliação das infra-estruturas na linha do Sado, será considerada área non aedificandi as faixas de terreno confinantes, à esquerda e à direita, desta linha férrea, entre os quilómetros 17,200 e 43,500, conforme os limites e distâncias expressos nos desenhos n.os L-003004, L-003005, L-003006, L-003007, L-003008, L-003009 e L-0030010 anexos a este diploma e referidos ao eixo da via actual, também descritos no quadro junto.
+Artigo 1.º Até à aprovação dos planos ou anteprojectos de ampliação das infra-estruturas na linha do Sado, será considerada área non aedificandi as faixas de terreno confinantes, à esquerda e à direita, desta linha férrea, entre os quilómetros 17,200 e 43,500, conforme os limites e distâncias expressos nos desenhos n.os L-003004, L-003005, L-003006, L-003007, L-003008, L-003009 e L-0030010 anexos a este diploma e referidos ao eixo da via actual, também descritos no quadro junto.
 
-###### Art. 2.º A implantação de edifícios, arruamentos, passagens de nível ou qualquer outro tipo de ampliação ou construção na área referida no artigo antecedente fica sujeita, caso a caso, a autorização do Ministério dos Transportes e Comunicações, ouvida a CP.
+Art. 2.º A implantação de edifícios, arruamentos, passagens de nível ou qualquer outro tipo de ampliação ou construção na área referida no artigo antecedente fica sujeita, caso a caso, a autorização do Ministério dos Transportes e Comunicações, ouvida a CP.
 
-###### Art. 3.º Os limites e distâncias da área non aedificandi definidos no artigo 1.º serão revistos decorridos cinco anos, para o que se tomará em consideração a evolução dos estudos das ampliações em causa.
+Art. 3.º Os limites e distâncias da área non aedificandi definidos no artigo 1.º serão revistos decorridos cinco anos, para o que se tomará em consideração a evolução dos estudos das ampliações em causa.
 
 Francisco Sá Carneiro - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 16 de Julho de 1980.**
+Promulgado em 16 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro a que se refere e artigo 1.º
 
@@ -116,4 +125,4 @@ Linha do Sado
 
 Terreno a declarar como área «non aedificandi»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/19300/23232327.pdf))](https://files.diariodarepublica.pt/1s/1980/08/19300/23232327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/19300/23232327.pdf)

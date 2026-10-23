@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21078-1965-239068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a7967653b1f2fe8ce2d7c3b45e33be37d3c108ae34c1f1d0fea0e7c12ff28ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96e43b95b2ce3eec7f01b401f96dd1bca721cdd2fc9de471b7d048b86811a52d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:37Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +93,9 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 11.º, n.º 4) «Encargos administrativos - Subvenção de família» ... 600000$00
+Artigo 11.º, n.º 4) «Encargos administrativos - Subvenção de família» ... 600000$00
 
-###### Artigo 13.º, n.º 1) «Abono de família aos funcionários - Despesas com o abono de família aos funcionários» ... 1500000$00
+Artigo 13.º, n.º 1) «Abono de família aos funcionários - Despesas com o abono de família aos funcionários» ... 1500000$00
 
 ... 2100000$00
 
@@ -101,11 +105,11 @@ Despesas com o pessoal:
 
 Pessoal militar permanente e não permanente privativo da Força Aérea
 
-###### Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações a militares dos quadros - De serviço aéreo» ... 1900000$00
+Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações a militares dos quadros - De serviço aéreo» ... 1900000$00
 
 Pessoal privativo equiparado a militar e civil
 
-###### Artigo 5.º, n.º 2) «Outras despesas com o pessoal - Alimentação» ... 200000$00
+Artigo 5.º, n.º 2) «Outras despesas com o pessoal - Alimentação» ... 200000$00
 
 ... 2100000$00
 

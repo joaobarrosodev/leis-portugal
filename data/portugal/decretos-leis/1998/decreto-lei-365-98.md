@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/365/1998/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1998-217732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:02:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0197e2499a88daaea20892a7008a1f2ab126756afcb326d85856a4c45d0fbeec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fcb07e889de8028d075e57b5f98cd031f5ded301f3e5c9974accf5c165b5eb78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:02:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,81 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Aditivo Alimentar
+- Alimentação Humana
 - Aproximação das Legislações
-- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
-- Multa
 - Contra-ordenação
 - Definição de Competências
-- Alimentação Humana
-- Aditivo Alimentar
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
+- Multa
+- Produto Alimentar
 - Sanção
 relationships:
 - type: amended_by
   target: pt:dre:286753:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:411873:por
+  label: "Substitu&#237;do o anexo II pelo DEC LEI.38/2000.2000.03.14.MADRP DR.IS-A [62]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2000-411873
+  date: '2000-03-14'
+- type: amended_by
+  target: pt:dre:642556:por
+  label: "Substituído o Anexo I do presente diploma e aditados ao mesmo os critérios constantes do Anexo II pelo DEC LEI.248/2001.2001.09.18.MADRP,\
+    \ DR.IS-A[217]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/248-2001-642556
+  date: '2001-09-18'
+- type: amended_by
+  target: pt:dre:185899:por
+  label: "Aditado o anexo IV pelo DEC LEI.181/2002.2002.08.13.MADRP DR.IS-A [185]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-2002-185899
+  date: '2002-08-13'
+- type: amended_by
+  target: pt:dre:496676:por
+  label: "Alterados os anexos I e II, com a redacção introduzida pelos Dec Lei 38/2000 de 14-Mar e 248/2001 de 18-Set, pelo\
+    \ DEC LEI.218/2003.2003.09.19.MADRP DR.IS-A [217]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-2003-496676
+  date: '2003-09-19'
+- type: amended_by
+  target: pt:dre:501798:por
+  label: "Alterados os anexos I e II deste diploma, com as altera&#231;&#245;es introduzidas pelos Dec Lei 38/2000 de 14-Mar,\
+    \ 248/2001 de 18-Set e 218/2003 de 19-Set, pelo DEC LEI.181/2004.28.07.2004.MADRP, DR.IS-A [176] de 28.07.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-2004-501798
+  date: '2004-07-28'
+- type: amended_by
+  target: pt:dre:245334:por
+  label: "Alterados os anexos II e IV deste diploma, com a redacção conferida pelos Dec Lei 38/2000 de 14-Mar, 248/2001 de\
+    \ 18-Set, 181/2002 de 13-Ago, 218/2003 de 19-Set e 181/2004 de 28-Jul, pelo DEC LEI.150/2005.30.08.2005.MADRP, DR.IS-A\
+    \ [166] de 30.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-2005-245334
+  date: '2005-08-30'
+- type: amended_by
+  target: pt:dre:449695:por
+  label: "Alterados os anexos I, II (na redacção dos Dec Lei 38/2000 de 14-Mar, 248/2001 de 18-Set, 218/2003 de 19-Set, 181/2004\
+    \ de 28-Jul e 150/2005, de 30-Ago) e IV (na redacção do Dec Lei 181/2002, de 13-Ago) do presente diploma, pelo DEC LEI.99/2008.12.06.2008.MADRP,\
+    \ DR.IS [112] de 12.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-2008-449695
+  date: '2008-06-12'
+- type: amended_by
+  target: pt:dre:333873:por
+  label: "Alterados os anexos i (na redacção do Dec Lei 248/2001, de 18-Set, do Dec Lei 218/2003, de 19-Set, do Dec Lei 181/2004,\
+    \ de 28-Jul e do Dec Lei 99/2008, de 12-Jun) , ii (na redacção do Dec Lei 38/200, 14-Mar, do Dec Lei 248/2001, de 18-Set,\
+    \ do Dec Lei 218/2003, de 19-Set, do Dec Lei 181/2004, de 28-Jul, do Dec Lei 150/2005, 30-Ago e do Dec Lei 99/2008, de\
+    \ 12-Jun) e iv (aditado pelo Dec Lei 181/2002, de 13-Ago, na redacção do Dec Lei 150/2005, de 30-Ago e do Dec Lei 99/2008,\
+    \ de 12-Jun) e revogada a referência aos aditivos E 230 bifenilo e E 233 tiabendazolo do anexo i do presente diploma,\
+    \ pelo DEC LEI.94/2010.29.07.2010.MADRP, DR.IS [146] de 29.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-2010-333873
+  date: '2010-07-29'
+- type: amended_by
+  target: pt:dre:286753:por
+  label: "Alterados os anexos I ( na redacção dos Decretos Lei 248/2001, de 18-Set, 218/2003, de 19-Set, 181/2004, de 28-Jul,\
+    \ 99/2008, de 16-Jun e 94/2010, de 29-Jul ), II ( na redacção dos Decretos Lei 38/2000, de 14-Mar, 248/2001, de 18-Set,\
+    \ 218/2003, de 19-Set, 181/2004, de 28-Jul, 150/2005, de 30-Ago, 99/2008, de 12-Jun e 94/2010, de 29-Jul ) e IV ( na redacção\
+    \ dos Decretos Lei 181/2002, de 13-Ago, 150/2005, de 30-Ago, 99/2008, de 12-Jun e 94/2010, de 29-Jul ), todos do presente\
+    \ diploma, pelo DEC LEI.64/2011.09.05.2011.MADRP, DR.IS [89] de 09.05.2011, de acordo com o respectivo anexo II\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-2011-286753
+  date: '2011-05-09'
 - type: cites
   target: celex:31996L0077
   label: null
@@ -87,13 +148,13 @@ relationships:
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:02:37Z'
   warnings: []
   errors: []
 ---
@@ -150,15 +211,15 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Setembro de 1998. - António Manuel de Oliveira Guterres - Luís Manuel Capoulas Santos - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 29 de Outubro de 1998.**
+Promulgado em 29 de Outubro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Novembro de 1998.**
+Referendado em 9 de Novembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I
 
@@ -1334,7 +1395,7 @@ B. Espectroscopia ... Uma solução a 0,0005% (m/v) em solução metanólica de 
 
 C. pH ... 5,5-7,5, numa solução a 1% (m/v) numa mistura em ácido acético glacial de 20 partes de dimetilformamida para 80 partes de água, previamente neutralizada.
 
-D. Rotação específica, calculada em relação ao produto anidro. ... [([ver documento original](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf))](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) = +250º-295º, numa solução a 1% (m/v) em ácido acético glacial, a 20ºC.
+D. Rotação específica, calculada em relação ao produto anidro. ... [(ver documento original)](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) = +250º-295º, numa solução a 1% (m/v) em ácido acético glacial, a 20ºC.
 
 Pureza:
 
@@ -2142,7 +2203,7 @@ Perda por secagem ... Não superior a 0,4%, após secagem sob vácuo com ácido 
 
 Cinza sulfatada ... Teor não superior a 0,1%.
 
-Rotação específica ... [([ver documento original](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf))](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) entre +20,5º e +21,5º (solução aquosa a 10%, m/v).
+Rotação específica ... [(ver documento original)](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) entre +20,5º e +21,5º (solução aquosa a 10%, m/v).
 
 pH de uma solução aquosa a 2% ... Entre 2,4 e 2,8.
 
@@ -2184,7 +2245,7 @@ Pureza:
 
 Perda por secagem ... Não superior a 0,25%, após secagem sob vácuo com ácido sulfúrico num exsicador durante 24 horas.
 
-Rotação específica ... [([ver documento original](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf))](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) entre +103º e 106º (solução aquosa a 10%, m/v).
+Rotação específica ... [(ver documento original)](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) entre +103º e 106º (solução aquosa a 10%, m/v).
 
 pH de uma solução aquosa a 10% ... Entre 6,5 e 8,0.
 
@@ -2222,7 +2283,7 @@ Pureza:
 
 Fluoretos ... Teor não superior a 10 mg/kg (expresso em flúor).
 
-Rotação específica ... [([ver documento original](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf))](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) entre +95º e +97º (solução aquosa a 5%, m/v).
+Rotação específica ... [(ver documento original)](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) entre +95º e +97º (solução aquosa a 5%, m/v).
 
 pH de uma solução aquosa a 10% ... Entre 6,0 e 7,5.
 
@@ -2268,7 +2329,7 @@ Perda por secagem ... Não superior a 2,0%, após secagem em estufa de vácuo a 
 
 Cinza sulfatada ... Teor não superior a 0,1%.
 
-Rotação específica ... [([ver documento original](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf))](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) entre +21º e 24º (solução metanólica a 5%, m/v).
+Rotação específica ... [(ver documento original)](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) entre +21º e 24º (solução metanólica a 5%, m/v).
 
 Arsénio ... Teor não superior a 3 mg/kg.
 
@@ -2340,7 +2401,7 @@ Pureza:
 
 Cinza sulfatada ... Teor não superior a 0,1%.
 
-Rotação específica ... [([ver documento original](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf))](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) não inferior +20º.
+Rotação específica ... [(ver documento original)](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) não inferior +20º.
 
 Arsénio ... Teor não superior a 3 mg/kg.
 
@@ -2378,13 +2439,13 @@ B. Espectrofotometria ... Absorção máxima a cerca de 292 nm em etanol absolut
 
 Pureza:
 
-Índice de refracção ... [([ver documento original](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf))](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) entre 1,503 e 1,507.
+Índice de refracção ... [(ver documento original)](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) entre 1,503 e 1,507.
 
 Absorção específica em etanol ... E(índice 1 cm) (elevado a 1%) (292 nm) entre 72 e 76 (0,01 g de alfa-tocoferol em 200 ml de etanol absoluto).
 
 Cinza sulfatada ... Teor não superior a 0,1%.
 
-Rotação específica ... [([ver documento original](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf))](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) 0º + 0,05º (mais ou menos) (solução 1:10 em clorofórmio).
+Rotação específica ... [(ver documento original)](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) 0º + 0,05º (mais ou menos) (solução 1:10 em clorofórmio).
 
 Arsénio ... Teor não superior a 3 mg/kg.
 
@@ -2422,7 +2483,7 @@ Absorção específica em etanol ... E(índice 1 cm) (elevado a 1%) (298 nm) ent
 
 ... E(índice 1 cm) (elevado a 1%) (257 nm) entre 5,0 e 8,0.
 
-Índice de refracção ... [([ver documento original](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf))](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) entre 1,503 e 1,507.
+Índice de refracção ... [(ver documento original)](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) entre 1,503 e 1,507.
 
 Cinza sulfatada ... Teor não superior a 0,1%.
 
@@ -2460,7 +2521,7 @@ Absorção específica em etanol ... E(índice 1 cm) (elevado a 1%) (298 nm) ent
 
 ... E(índice 1 cm) (elevado a 1%) (257 nm) entre 3,0 e 6,0.
 
-Índice de refracção ... [([ver documento original](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf))](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) entre 1,500 e 1,504.
+Índice de refracção ... [(ver documento original)](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) entre 1,500 e 1,504.
 
 Cinza sulfatada ... Teor não superior a 0,1%.
 
@@ -2648,7 +2709,7 @@ Perda por secagem ... Não superior a 0,4%, após secagem com silicagel, sob pre
 
 Cinza sulfatada ... Teor não superior a 0,3%.
 
-Rotação específica ... [([ver documento original](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf))](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) entre -16,5º e -18,0º (solução aquosa a 10%, m/v).
+Rotação específica ... [(ver documento original)](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) entre -16,5º e -18,0º (solução aquosa a 10%, m/v).
 
 Oxalatos ... Adicionar 2 gotas de ácido acético glacial e 5 ml de uma solução de a 10% de acetado de cálcio a uma solução de 1 g de ácido eritórbico em 10 ml de água. A solução deve manter-se límpida.
 
@@ -2696,7 +2757,7 @@ Pureza:
 
 Perda por secagem ... Não superior a 0,25%, após secagem sob vácuo com ácido sulfúrico num exsicador de vácuo durante 24 horas.
 
-Rotação específica ... [([ver documento original](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf))](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) entre +95º e +98º (solução aquosa a 10%, m/v).
+Rotação específica ... [(ver documento original)](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) entre +95º e +98º (solução aquosa a 10%, m/v).
 
 pH de uma solução aquosa a 10% ... Entre 5,5 e 8,0.
 
@@ -3414,7 +3475,7 @@ Perda por secagem ... Não superior a 0,5% (3 horas com P(índice 2)O(índice 5)
 
 Cinza sulfatada ... Teor não superior a 1000 mg/kg, após calcinação a 800ºC (mais ou menos) 25ºC.
 
-Rotação óptica específica ... [([ver documento original](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf))](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) entre +11,5º e +13,5º (solução aquosa a 20%, m/v).
+Rotação óptica específica ... [(ver documento original)](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) entre +11,5º e +13,5º (solução aquosa a 20%, m/v).
 
 Chumbo ... Teor não superior a 5 mg/kg.
 
@@ -4580,7 +4641,7 @@ Teor ... Mínimo de 98% de D-manitol (C(índice 6)H(índice 14)O(índice 6)) em 
 
 Intervalo de fusão ... Entre 165ºC e 169ºC.
 
-Poder rotatório específico [([ver documento original](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf))](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) ... Entre +23,0º e -24,3º.
+Poder rotatório específico [(ver documento original)](https://files.diariodarepublica.pt/1s/1998/11/270a00/62816349.pdf) ... Entre +23,0º e -24,3º.
 
 Matérias voláteis ... Máximo de 0,3%, determinados por secagem a 105ºC durante 4 horas.
 

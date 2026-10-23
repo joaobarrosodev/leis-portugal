@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/184a00/39033907.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/254/1998/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1998-438066
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b49550a3c1d48483ed09fbcc614228ddfdee9f15a98f835ce7c351982d44994
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e00cb682fe11efa5f562bdb036c9791b71f8b84e03831ff258fcaa4117abc23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Casa do Douro
+- Comércio
 - Comissão Interprofissional da Região Demarcada do Douro
-- Vinho
+- Comissão Vitivinícola Regional
 - Denominação de Origem
 - Instituto do Vinho do Porto
-- Comissão Vitivinícola Regional
 - Região Demarcada do Douro
-- Comércio
+- Vinha
+- Vinho
 - Vinho do Porto
 - Vinificação
-- Vinha
 relationships:
 - type: amended_by
   target: pt:dre:493025:por
@@ -94,16 +94,51 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/76/1995/04/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/76/1995/04/19/p/dre
+- type: cites
+  target: pt:dre:151875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579512:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:493025:por
+  label: Revogado, a partir de 02.09.2009, mantendo-se transitoriamente em vigor até à publicação das portarias e dos regulamentos
+    previstos, relativamente às matérias que estes visam regulamentar, pelo DEC LEI.173/2009.03.08.2009.MADRP, DR.IS [148]
+    de 03.08.2009
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-2009-493025
+  date: '2009-08-03'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:39Z'
   warnings: []
   errors: []
 ---
@@ -254,13 +289,13 @@ No âmbito das DOC abrangidas pelo presente diploma, a CIRDD, o IVP e a Casa do 
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1998. - António Manuel de Oliveira Guterres - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Promulgado em 21 de Julho de 1998.**
+Promulgado em 21 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Julho de 1998.**
+Referendado em 27 de Julho de 1998.
 
 Pelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional.
 

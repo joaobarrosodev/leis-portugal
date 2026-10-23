@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/47/2005/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 180b78cdbc0342e941cc144ebe60aa5192dea98f3c0639a82c81fcf31710fcd1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3c213ac92210e17773ad342a0db4dcdc34206f82250e9627a601a98e50b6ccf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,44 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ADSE
-- Ministério das Finanças e da Administração Pública
-- Inspeção Geral de Finanças
-- Pessoal Dirigente
-- Direcção Geral do Tesouro
+- Caixa Geral de Aposentações
+- CMVM
 - Conselho Superior de Finanças
+- Direção Geral do Orçamento
+- Direcção Geral da Administração Pública
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
 - Direcção Geral de Assuntos Europeus e Relações Internacionais
+- Direcção Geral de Estudos e Previsão
 - Direcção Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros
 - Direcção Geral do Património
-- Instituto de Gestão do Crédito Público
-- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
-- Caixa Geral de Aposentações
-- INA
+- Direcção Geral do Tesouro
 - Fundo de Estabilização Aduaneiro
-- Secretaria Geral
+- Fundo de Estabilização Tributário
 - Fundo de Regularização da Dívida Pública
+- INA
+- Inspeção Geral de Finanças
 - Inspecção Geral da Administração Pública
+- Instituto de Gestão do Crédito Público
 - Instituto de Informática
 - Instituto de Seguros de Portugal
-- Direcção Geral da Administração Pública
-- Direcção Geral de Estudos e Previsão
-- Direção Geral do Orçamento
-- Fundo de Estabilização Tributário
 - Instituto para a Gestão das Lojas do Cidadão
+- Ministério das Finanças e da Administração Pública
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Secretaria Geral
 - Serviços Sociais
-- CMVM
 relationships:
 - type: amended_by
   target: pt:dre:108113698:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Alterado o art. 22.º do presente diploma, revogado pelo Dec. Lei 205/2006 de 27-out sem prejuízo do disposto no seu
+    art. 37.º, pelo(a) Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-a-2016-73958532
+  date: '2016-03-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/
   label: null
@@ -138,16 +144,112 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/335/1997/12/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/335/1997/12/02/p/dre
+- type: cites
+  target: pt:dre:180473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621721:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:545650:por
+  label: "Revogado, sem prejuízo do disposto no art. 37.º, e determinada, de acordo com o preceituado no art. 33.º - a extinção\
+    \ (com fusão) dos seguintes serviços e organismos: Direcção Geral de Estudos e Previsão, Direcção Geral dos Assuntos Europeus\
+    \ e Relações Internacionais, Direcção Geral do Património, Inspecção-Geral da Administração Pública e Serviços Sociais\
+    \ do Ministério das Finanças e da Administração Pública, sendo as suas atribuições integradas, respectivamente, no Gabinete\
+    \ de Planeamento, Estratégia, Avaliação e Relações Internacionais e na Direcção Geral do Tesouro e Finanças e na Direcção\
+    \ Geral do Orçamento, na Direcção Geral do Tesouro e Finanças, na Inspecção Geral de Finanças e nos Serviços Sociais da\
+    \ Administração Pública; - a reestruturação dos seguintes serviços e organismos: Direcção Geral do Tesouro (que passa\
+    \ a designar-se Direcção Geral do Tesouro e Finanças, transferindo parte das actividades para o Instituto de Gestão do\
+    \ Crédito Público, I.P.), Direcção Geral da Administração Pública (que passa a designar-se Direcção Geral de Administração\
+    \ e do Emprego Público), Instituto de Informática (que passa a integrar a administração directa do Estado) e demais serviços,\
+    \ organismos e estruturas referidas nos arts. 4.º, 5.º, 7.º e 8.º; - a transferência do Instituto Português de Santo António\
+    \ em Roma (para o âmbito do MNE) e da Fundação Ricardo Espírito Santo Silva (para o âmbito do MC), pelo DEC LEI.205/2006.27.10.2006.MFAP,\
+    \ DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2006-545650
+  date: '2006-10-27'
+- type: repealed_by
+  target: pt:dre:108113698:por
+  label: Revogado o art. 22.º pelo(a) Decreto-Lei n.º 113/2017 - Diário da República n.º 173/2017, Série I de 2017-09-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-2017-108113698
+  date: '2017-09-07'
+- type: repeals
+  target: pt:numero:decreto-lei:151/2000
+  label: "Revoga nos termos do art. 35.º e 38.º o n.º 2 do artigo 3.º e os artigos 6.º, 7.º, 9.º e 10.º do Decreto-Lei n.º\
+    \ 151/2000, de 20 de Julho, DR.IS-A [166] \0\0"
+  source: null
+  date: '2000-07-20'
 article_structure:
   article_count: 39
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:41Z'
   warnings: []
   errors: []
 ---
@@ -522,15 +624,15 @@ d) O n.º 2 do artigo 3.º e os artigos 6.º, 7.º, 9.º e 10.º do [Decreto-Lei
 
 Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix.
 
-**Promulgado em 4 de Fevereiro de 2005.**
+Promulgado em 4 de Fevereiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Fevereiro de 2005.**
+Referendado em 14 de Fevereiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO — Mapa a que se refere o artigo 37.º
 

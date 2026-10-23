@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-1983-308108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T07:22:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa3ae95712b629a7d40a404b457d28205bfaf4302855190b1dcfd741b646a02f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0eb7f168ac9dc01c365e2384267ec2b4462376d8e872e310ed5734cfe41bc621
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:22:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Bagagem
+- Contribuições e Impostos
+- Evasão Fiscal
+- Importação
+- Regulamento das Alfândegas
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PRORROGADO PELO DESPACHO NORMATIVO NUMERO 65/84, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 73, DE 840327.\0\
+    40327.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:661875:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661875:por
+  label: "Prorrogado o prazo de vigência do presente diploma pelo DN.65/84.1984.03.07.MFP [73] de 27/Mar/1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/65-1984-661875
+  date: '1984-03-07'
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:165194:por
+  label: Rectificado pela DECL.DD2976.1983.03.03.PCM DR.IS [75]Supl de 31/Mar/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-165194
+  date: '1983-03-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:22:31Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +119,7 @@ Considerando ainda que esta facilidade é sobremodo injustificável quando se tr
 
 Determino, ao abrigo do disposto no artigo único do Decreto-Lei n.º 17/76, de 15 de Janeiro, que, a título experimental e até 31 de Dezembro de 1983, seja alterado o artigo 364.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, o qual passará a ter a seguinte redacção:
 
-###### Artigo 364.º Têm despacho de reexportação, para além das mercadorias que hajam sido importadas temporariamente, todas aquelas que, sendo estrangeiras, tenham de ser expedidas para fora do País, desde que, neste caso, obedeçam cumulativamente às seguintes condições:
+Artigo 364.º Têm despacho de reexportação, para além das mercadorias que hajam sido importadas temporariamente, todas aquelas que, sendo estrangeiras, tenham de ser expedidas para fora do País, desde que, neste caso, obedeçam cumulativamente às seguintes condições:
 
 a) Não estarem em regime de trânsito ou baldeação;
 

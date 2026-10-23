@@ -46,40 +46,108 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/868-1981-563629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:56:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e717dd4184df292d8b91b2c87b2ae49113fe80f7fcf3e8d091642b625a4539db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e61b450f5077e8ae46ea9a63ed7e9d1d8dd45ddfc3b783f19a003bb6b8d191a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:56:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Médica Hospitalar
+- Centro de Saúde Mental
+- Faro
+- Médico
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal de Enfermagem
+- Pessoal Operário
+- Pessoal Técnico
+- Pessoal Técnico Auxiliar de Diagnóstico e Terapêutica
+- Pessoal Técnico Profissional
+- Pessoal Técnico Superior
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:285877:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 490/82 DE 11-MAI DR.IS [108]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-05-11'
+- type: amended_by
+  target: pt:dre:312619:por
+  label: "Alterado o quadro de pessoal pela PORT.342/83.29.03.1983.MFP, DR.IS [73] de 29.03.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/342-1983-312619
+  date: '1983-03-29'
+- type: amended_by
+  target: pt:dre:451039:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 502/83 DE 03-MAI DR.IS [101], NA PARTE REFERENTE AO PESSOAL TÉCNICO SUPERIOR,
+    PESSOAL TÉCNICO, PESSOAL TÉCNICO PROFISSIONAL, PESSOAL ADMINISTRATIVO E PESSOAL TÉCNICO AUXILIAR DE DIAGNÓSTICO E TERAPÊUTICA
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/502-1983-451039
+  date: '1983-05-03'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 564/85 DE 14-AGO DR.IS [186]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-08-17'
+- type: amended_by
+  target: pt:dre:177397:por
+  label: "Alterado o quadro de pessoal, na parte referente ao pessoal operário e auxiliar, pela PORT.681/85.12.09.1985.PCM,\
+    \ DR.IS [210] de 12.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/681-1985-177397
+  date: '1985-09-12'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 451/87 DE 29-MAI DR.IS [123] NA REDACÇÃO DADA PELA PORT 502/83 DE 03-MAI,
+    NA PARTE REFERENTE AO PESSOAL TÉCNICO AUXILIAR DE DIAGNÓSTICO E TERAPÊUTICA
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-05-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 162/88 DE 16-MAR DR.IS [63]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-03-16'
+- type: amended_by
+  target: pt:dre:285877:por
+  label: "Alterado o quadro de pessoal pela PORT.162/88.16.03.1988.MF, DR.IS [63] de 16.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/162-1988-285877
+  date: '1988-03-16'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:56:37Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +168,6 @@ Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Adminis
 
 Quadro de pessoal do Centro de Saúde Mental de Faro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/22300/25952596.pdf))](https://files.diariodarepublica.pt/1s/1981/09/22300/25952596.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22300/25952596.pdf)
 
 Nota. - O funcionário administrativo que desempenhar as funções de tesoureiro manterá a actual remuneração mensal de 200$00 para falhas, sem prejuízo da revisão deste quantitativo nos termos da lei geral aplicável.

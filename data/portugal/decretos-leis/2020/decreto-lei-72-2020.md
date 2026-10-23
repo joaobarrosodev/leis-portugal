@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/09/18500/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72/2020/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2020-143437624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 290adcd821720fad307b4ad419f1bdb302a3efb68ad57f9fb2844340cb7e5461
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cbcf9d0ba737dfcd5a97c4a203c5ba33d264f520ca9da73da16faad7380c377
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Certificado de Aptidão Profissional
 - Catálogo Nacional de Qualificações
-- Formação Profissional
-- Equipamento Eléctrico
-- Formador
 - Certificação Energética dos Edifícios
-- Sistema Nacional de Qualificações
+- Certificado de Aptidão Profissional
+- Ensino Superior
+- Equipamento Eléctrico
+- Formação Profissional
+- Formador
 - Pessoal de Inspecção
 - Pessoal Técnico
-- Qualificação Profissional
 - Prorrogação de Prazo
-- Ensino Superior
+- Qualificação Profissional
 - Segurança das Instalações
+- Sistema Nacional de Qualificações
 relationships:
 - type: cites
   target: celex:32005L0036
@@ -122,15 +122,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:11Z'
   warnings: []
   errors: []
 ---
@@ -195,7 +195,9 @@ b) O TIM qualificado para atuar em edifícios com sistemas técnicos instalados 
 
 6 - [Revogado].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -241,12 +243,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 27 de agosto de 2020. - António Luís Santos da Costa - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 10 de setembro de 2020.**
+Promulgado em 10 de setembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de setembro de 2020.**
+Referendado em 15 de setembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113573562

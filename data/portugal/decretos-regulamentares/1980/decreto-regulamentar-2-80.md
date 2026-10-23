@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/03/05100/02760278.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1980-678854
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce0bc9818c558dee0f3c31964ec1ed6f0238e67eed247f153ea5926eb6796d4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ae4ec83266ff08399b62a5300707ba6c7158076134b853d3eff97d04244c898
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Coordenador do Trabalho Portuário
+- Trabalho Portuário
 relationships:
 - type: amended_by
   target: pt:dre:332184:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332184:por
+  label: Extinto pelo DEC LEI.116/90.05.04.1990.MOPTC, DR.IS [[80]] de 05.04.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-1990-332184
+  date: '1990-04-05'
+- type: cites
+  target: pt:dre:631272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631274:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:579343:por
+  label: "Revogado pelo DR.63-B/84.1984.08.20.MFP, DR.IS [192]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/63-b-1984-579343
+  date: '1984-08-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:55Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +126,15 @@ Nestes termos, o Governo decreta, ao abrigo do disposto na alínea c) do artigo 
 
 ### CAPÍTULO I — Natureza e âmbito
 
-###### Artigo 1.º É criado o Centro Coordenador do Trabalho Portuário do Douro e Leixões, abreviadamente designado por CCTPDL, ao abrigo do disposto no artigo 18.º do [Decreto-Lei n.º 145-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-b-1978-631274), de 17 de Junho.
+Artigo 1.º É criado o Centro Coordenador do Trabalho Portuário do Douro e Leixões, abreviadamente designado por CCTPDL, ao abrigo do disposto no artigo 18.º do [Decreto-Lei n.º 145-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-b-1978-631274), de 17 de Junho.
 
-###### Art. 2.º O CCTPDL é uma entidade dotada de personalidade jurídica e de autonomia administrativa e financeira e funciona na dependência directa do Instituto do Trabalho Portuário.
+Art. 2.º O CCTPDL é uma entidade dotada de personalidade jurídica e de autonomia administrativa e financeira e funciona na dependência directa do Instituto do Trabalho Portuário.
 
-###### Art. 3.º O CCTPDL tem sede em Leixões e exerce a sua acção na área dos portos do Douro e Leixões.
+Art. 3.º O CCTPDL tem sede em Leixões e exerce a sua acção na área dos portos do Douro e Leixões.
 
 ### CAPÍTULO II — Atribuições
 
-###### Art. 4.º No âmbito das atribuições referidas no artigo 19.º do [Decreto-Lei n.º 145-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-b-1978-631274), de 17 de Junho, compete, nomeadamente, ao CCTPDL:
+Art. 4.º No âmbito das atribuições referidas no artigo 19.º do [Decreto-Lei n.º 145-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-b-1978-631274), de 17 de Junho, compete, nomeadamente, ao CCTPDL:
 
 a) Organizar o registo de todos os trabalhadores portuários e entidades empregadoras dos mesmos na área da sua jurisdição;
 
@@ -146,13 +170,13 @@ p) Com o acordo do ITP, fixar as taxas a cobrar às entidades empregadoras como 
 
 ### CAPÍTULO III — Órgãos e serviços
 
-###### Art. 5.º São órgãos do CCTPDL:
+Art. 5.º São órgãos do CCTPDL:
 
 a) A direcção;
 
 b) O conselho fiscal.
 
-###### Art. 6.º - 1 - A direcção é nomeada por despacho conjunto dos Ministros do Trabalho e dos Transportes e Comunicações, sendo constituída por:
+Art. 6.º - 1 - A direcção é nomeada por despacho conjunto dos Ministros do Trabalho e dos Transportes e Comunicações, sendo constituída por:
 
 a) Um presidente, designado pelos Ministros do Trabalho e dos Transportes e Comunicações;
 
@@ -164,11 +188,11 @@ c) Três representantes das entidades empregadoras que operem na área do CCTPDL
 
 3 - O mandato dos membros da direcção é revogável a todo o tempo.
 
-###### Art. 7.º Por cada membro efectivo da direcção deverão as entidades referidas no artigo antecedente designar, simultaneamente, um membro suplente, que substituirá aquele nas suas faltas e impedimentos.
+Art. 7.º Por cada membro efectivo da direcção deverão as entidades referidas no artigo antecedente designar, simultaneamente, um membro suplente, que substituirá aquele nas suas faltas e impedimentos.
 
-###### Art. 8.º Sempre que necessário, a direcção poderá solicitar a presença de um representante da APDL nas suas reuniões.
+Art. 8.º Sempre que necessário, a direcção poderá solicitar a presença de um representante da APDL nas suas reuniões.
 
-###### Art. 9.º - 1 - Compete à direcção:
+Art. 9.º - 1 - Compete à direcção:
 
 a) Elaborar os regulamentos internos necessários à correcta execução das suas atribuições e funcionamento dos serviços;
 
@@ -192,11 +216,11 @@ j) Prosseguir, de um modo geral, as atribuições do CCTPDL.
 
 2 - A aplicação de qualquer sanção disciplinar só poderá ter lugar após o sindicato representativo do trabalhador arguido ter sido consultado, nos termos da contratação colectiva em vigor.
 
-###### Art. 10.º - 1 - A direcção deverá reunir ordinariamente uma vez por semana e excepcionalmente sempre que for convocada pelo presidente ou por três vogais.
+Art. 10.º - 1 - A direcção deverá reunir ordinariamente uma vez por semana e excepcionalmente sempre que for convocada pelo presidente ou por três vogais.
 
 2 - As deliberações da direcção serão tomadas por maioria, tendo o presidente voto de qualidade.
 
-###### Art. 11.º - 1 - O conselho fiscal é nomeado por despacho dos Ministros do Trabalho e dos Transportes e Comunicações, sendo constituído por:
+Art. 11.º - 1 - O conselho fiscal é nomeado por despacho dos Ministros do Trabalho e dos Transportes e Comunicações, sendo constituído por:
 
 a) Um presidente, designado conjuntamente pelos Ministros do Trabalho e dos Transportes e Comunicações;
 
@@ -208,13 +232,13 @@ c) Um vogal representante das entidades empregadoras, designado pelas Associaç�
 
 3 - O mandato dos membros do conselho fiscal é revogável a todo o tempo.
 
-###### Art. 12.º Compete ao conselho fiscal:
+Art. 12.º Compete ao conselho fiscal:
 
 a) Fiscalizar, por iniciativa própria, a pedido do presidente da direcção ou de três membros desta, qualquer acto ou contrato celebrado pelo CCTPDL que envolva receitas ou despesas;
 
 b) Apreciar o relatório e contas anuais do CCTPDL e elaborar o respectivo parecer, os quais serão enviados ao ITP para aprovação.
 
-###### Art. 13.º - 1- São serviços do CCTPDL:
+Art. 13.º - 1- São serviços do CCTPDL:
 
 a) Os Serviços Gerais e Administração;
 
@@ -224,15 +248,15 @@ c) O Serviço de Contencioso.
 
 2 - A criação dos serviços necessários ao bom funcionamento do CCTPDL é da competência da respectiva direcção, ouvido o ITP.
 
-###### Art. 14.º A estrutura e competência dos serviços referidos no artigo anterior serão fixadas pela direcção, ouvido o ITP.
+Art. 14.º A estrutura e competência dos serviços referidos no artigo anterior serão fixadas pela direcção, ouvido o ITP.
 
-###### Art. 15.º - 1 - Os serviços referidos no artigo 13.º, com excepção do Serviço de Contencioso, serão coordenados por um secretário-geral nomeado pelo Ministro dos Transportes e Comunicações, sob proposta da direcção.
+Art. 15.º - 1 - Os serviços referidos no artigo 13.º, com excepção do Serviço de Contencioso, serão coordenados por um secretário-geral nomeado pelo Ministro dos Transportes e Comunicações, sob proposta da direcção.
 
 2 - Ao secretário-geral compete, designadamente, dar execução às decisões emanadas da direcção, superintender hierarquicamente em todos os serviços por ele coordenados e orientá-los no exercício das suas competências.
 
 ### CAPÍTULO IV — Receitas e despesas
 
-###### Art. 16.º Constituem receitas do CCTPDL:
+Art. 16.º Constituem receitas do CCTPDL:
 
 a) As importâncias relativas às retribuições dos trabalhadores recrutados por seu intermédio pagas peles entidades empregadoras, acrescidas dos encargos correspondentes;
 
@@ -244,16 +268,16 @@ d) Os juros de disponibilidades próprias;
 
 e) Quaisquer outras legalmente permitidas.
 
-###### Art. 17.º São despesas do CCTPDL todas as que resultem do exercício das suas atribuições.
+Art. 17.º São despesas do CCTPDL todas as que resultem do exercício das suas atribuições.
 
 ### CAPÍTULO V — Disposições transitórias
 
-###### Art. 18.º O pessoal presentemente ao serviço do Fundo de Férias e do Fundo de Garantia Salarial transitará automaticamente, sem perda de quaisquer direitos, para o quadro do CCTPDL, devendo, sempre que possível, dar-se prioridade na admissão de pessoal aos funcionários ao serviço dos sindicatos e das associações de empregadores que seja excedentário em virtude da entrada em funcionamento do CCTPDL e que preencha as condições exigidas.
+Art. 18.º O pessoal presentemente ao serviço do Fundo de Férias e do Fundo de Garantia Salarial transitará automaticamente, sem perda de quaisquer direitos, para o quadro do CCTPDL, devendo, sempre que possível, dar-se prioridade na admissão de pessoal aos funcionários ao serviço dos sindicatos e das associações de empregadores que seja excedentário em virtude da entrada em funcionamento do CCTPDL e que preencha as condições exigidas.
 
 Francisco Sá Carneiro - Aníbal António Cavaco Silva - Eusébio Marques de Carvalho - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 20 de Fevereiro de 1980.**
+Promulgado em 20 de Fevereiro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

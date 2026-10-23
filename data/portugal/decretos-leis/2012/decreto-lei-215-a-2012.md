@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08
   number: '194'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5588-(2) a 5588-(45)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/10/19401/0000200045.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/215-a/2012/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76d41be7f2eb4067974408f53aad54855f7a8fcee19c1ca3c5f724d04c864212
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c8e36cdf8d9da7ef8a8325c7aeac568b8f4956783299a75743a76b9f7af9afd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Distribuição de Energia Elétrica
+- Açores
 - Aproximação das Legislações
-- Garantia
-- Sociedade Anónima
-- Energia Elétrica
+- Comércio
 - Contrato de Concessão
 - Definição de Competências
-- EDP
-- Entidade Reguladora do Sector Eléctrico
 - Direção Geral de Energia e Geologia
-- Licenciamento
-- Mercado Interno
+- Distribuição de Energia Elétrica
+- EDP
+- Energia Elétrica
+- Entidade Reguladora do Sector Eléctrico
+- Garantia
+- Governo
 - Informação do Consumidor
+- Licenciamento
+- Madeira.região Autónoma
+- Mercado Interno
 - Preço
 - Produção de Energia Elétrica
-- Madeira.região Autónoma
 - Proteção do Consumidor
 - Rede Elétrica de Serviço Público
 - Rede Elétrica Nacional
@@ -91,15 +93,26 @@ subjects:
 - Rede Nacional de Transporte de Energia Elétrica
 - Regime Jurídico
 - Seguro Obrigatório de Responsabilidade Civil
-- Governo
-- Açores
 - Sistema Elétrico Nacional
-- Comércio
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:177634016:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70128401:por
+  label: Alterado o art. 73.º-A (aditado pelo Dec Lei 78/2011, de 20-jun) e revogados os n.os 6 e 7 do mesmo art. 73.º-A do
+    Dec Lei 29/2006, de 15-fev, republicado pelo presente diploma pelo(a) Decreto-Lei n.º 178/2015 - Diário da República n.º
+    167/2015, Série I de 2015-08-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2015-70128401
+  date: '2015-08-27'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Alterados os arts. 30.º e 41.º do Dec Lei 29/2006, de 15-fev, na versão alterada e republicada pelo presente diploma
+    pelo(a) Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
+  date: '2016-12-28'
 - type: cites
   target: celex:31983L0349
   label: null
@@ -128,16 +141,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/29/2006/02/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/29/2006/02/15/p/dre
+- type: corrected_by
+  target: pt:dre:190642:por
+  label: "Retificados o art. 2º [na parte que altera o nº1 do art. 23º e o nº3 do art. 61º ] bem como o nº1 do art. 23º e\
+    \ o nº3 do art. 61º do anexo que republica o Dec Lei 29/2006, de 15-fev, pela DECL-RECT.74/2012.07.12.2012.PCM, DR.IS\
+    \ [237] de 07.12.2012\012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/74-2012-190642
+  date: '2012-12-07'
+- type: repealed_by
+  target: pt:dre:177634016:por
+  label: Revogado o Dec Lei 29/2006 de 15-fev, na versão republicada pelo presente diploma pelo(a) Decreto-Lei n.º 15/2022
+    - Diário da República n.º 10/2022, Série I de 2022-01-14 nos termos dos seu art. 305.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2022-177634016
+  date: '2022-01-14'
 article_structure:
-  article_count: 180
+  article_count: 117
   section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:05Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +224,9 @@ Os artigos 1.º, 3.º, 6.º, 8.º, 9.º, 13.º, 14.º, 15.º, 17.º, 18.º, 19.�
 
 2 - O presente decreto-lei transpõe para a ordem jurídica nacional os princípios da Diretiva n.º [2009/72/CE](https://data.europa.eu/eli/dir/2009/72/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de julho, que estabelece regras comuns para o mercado interno da eletricidade e que revoga a Diretiva n.º [2003/54/CE](https://data.europa.eu/eli/dir/2003/54/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -282,7 +310,9 @@ mm) ...
 
 nn) ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -300,7 +330,9 @@ b) O tratamento eficiente das reclamações através da Entidade Reguladora dos 
 
 6 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Em caso de crise energética como tal definida na lei aplicável às crises energéticas, nomeadamente de crise súbita no mercado da energia ou de ameaça à segurança de pessoas e bens ou à integridade da rede, o Governo pode adotar medidas excecionais de salvaguarda, em conformidade com os termos previstos na lei aplicável às crises energéticas e às infraestruturas críticas.
 
@@ -308,7 +340,9 @@ b) O tratamento eficiente das reclamações através da Entidade Reguladora dos 
 
 3 - O Governo comunica de imediato as medidas de salvaguarda adotadas aos outros Estados membros e à Comissão Europeia.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -336,7 +370,9 @@ e) Monitorização da segurança do abastecimento;
 
 f) Declaração de crise energética nos termos da legislação aplicável e adoção das correspondentes medidas de salvaguarda, de forma a minorar os seus efeitos.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 ...
 
@@ -354,7 +390,9 @@ f) ...
 
 g) Outras atividades relacionadas com a prestação de serviços no âmbito do mercado integrado no SEN.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 ...
 
@@ -376,11 +414,15 @@ h) ...
 
 i) Outros intervenientes que, nos termos da lei, possam exercer as atividades previstas na alínea g) do artigo anterior.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 O exercício da atividade de produção de eletricidade é livre, ficando sujeito à obtenção de licença ou, nos casos previstos em legislação complementar, à realização de comunicação prévia junto das entidades administrativas competentes.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Considera-se produção de eletricidade em regime ordinário a atividade de produção que não esteja abrangida por um regime jurídico especial.
 
@@ -394,7 +436,9 @@ c) Que beneficiem de incentivos à garantia de potência pelos mesmos disponibil
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Considera-se produção em regime especial a atividade de produção sujeita a regimes jurídicos especiais, tais como a produção de eletricidade através de cogeração e de recursos endógenos, renováveis e não renováveis, a microprodução, a miniprodução e a produção sem injeção de potência na rede, bem como a produção de eletricidade através de recursos endógenos, renováveis e não renováveis, não sujeita a regime jurídico especial.
 
@@ -402,7 +446,9 @@ c) Que beneficiem de incentivos à garantia de potência pelos mesmos disponibil
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -412,13 +458,17 @@ b) ...
 
 2 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Os produtores de eletricidade em regime especial gozam do direito de vender toda ou parte da eletricidade que produzem ao comercializador de último recurso, sempre que beneficiem de remuneração garantida, ou, quando não usufruam de tal benefício, a um qualquer comercializador, incluindo um facilitador de mercado que agregue a produção, em mercados organizados ou através de contratos bilaterais, nas condições estabelecidas na lei.
 
 2 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -430,17 +480,23 @@ b) ...
 
 5 - A entidade concessionária da RNT está obrigada a respeitar as disposições legais em matéria de certificação e a praticar os necessários atos e diligências com vista a garantir a obtenção e manutenção da referida certificação.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 A RNT compreende as redes que integram a concessão do operador da RNT, as interligações e as instalações para a operação da rede de transporte e para a gestão técnica global do SEN.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A gestão técnica global do SEN é exercida com independência, de forma não transparente e discriminatória, e consiste na coordenação sistémica das instalações que constituem o SEN, de forma a assegurar o seu funcionamento integrado e harmonizado e a segurança e continuidade do abastecimento de eletricidade, nos termos previstos em legislação complementar.
 
 2 - A gestão técnica global do SEN é da responsabilidade do operador da RNT.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - O operador da RNT é a entidade concessionária da respetiva rede, sem prejuízo do disposto nos artigos 25.º-A a 25.º-F.
 
@@ -480,7 +536,9 @@ n) [Anterior alínea o).]
 
 5 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -518,7 +576,9 @@ c) ...
 
 5 - (Revogado.)
 
-###### Artigo 25.º-A — Aprovação, designação e certificação do operador da RNT
+Artigo 25.º-A
+
+Aprovação, designação e certificação do operador da RNT
 
 1 - A entidade concessionária da rede de transporte deve ser aprovada e designada como operador da RNT pelo membro do Governo responsável pela área da energia, o qual deve comunicar essa designação à Comissão Europeia e promover a sua publicação no Jornal Oficial da União Europeia.
 
@@ -544,7 +604,9 @@ c) ...
 
 12 - Os procedimentos a observar para a certificação do cumprimento das condições previstas no n.º 3 são estabelecidos por regulamentação emitida pela ERSE.
 
-###### Artigo 25.º-B — [...]
+Artigo 25.º-B
+
+[...]
 
 1 - O operador da RNT deve notificar a ERSE de quaisquer alterações ou transações previstas que possam exigir a reapreciação das condições relativas à separação jurídica e patrimonial estabelecidas no artigo 25.º
 
@@ -558,15 +620,21 @@ c) Na sequência de pedido fundamentado da Comissão Europeia.
 
 3 - A reapreciação da certificação observa, com as devidas adaptações, o disposto nos n.os 4 a 12 do artigo anterior.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 O operador da RNT deve proporcionar aos interessados, de forma não discriminatória e transparente, o acesso às respetivas redes, baseado em tarifas aplicáveis a todos os clientes, nos termos do Regulamento do Acesso às Redes e às Interligações e do Regulamento Tarifário.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 O operador da RNT relaciona-se comercialmente com os utilizadores das respetivas instalações, tendo direito a receber, pela utilização destas e pela prestação dos serviços inerentes, uma retribuição por aplicação de tarifas reguladas definidas no Regulamento Tarifário.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - O planeamento da RNT deve prever medidas destinadas a assegurar a adequação da rede, a segurança do abastecimento e a existência de capacidade para a receção e entrega de eletricidade, com níveis adequados de segurança e de qualidade de serviço, tendo em conta as disposições e os objetivos previstos no Regulamento (CE) n.º [714/2009](https://data.europa.eu/eli/reg/2009/714/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de julho, no âmbito do mercado interno da eletricidade.
 
@@ -582,7 +650,9 @@ O operador da RNT relaciona-se comercialmente com os utilizadores das respetivas
 
 7 - O procedimento de elaboração do PDIRT é definido em legislação complementar.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -592,7 +662,9 @@ O operador da RNT relaciona-se comercialmente com os utilizadores das respetivas
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -632,7 +704,9 @@ b) A empresa verticalmente integrada aprove o plano financeiro anual do operador
 
 8 - Sem prejuízo da separação contabilística das atividades, a separação jurídica prevista no presente artigo e a forma de comunicação prevista na alínea e) do n.º 2 não é exigida aos operadores das redes de distribuição de BT que abasteçam um número de clientes inferior a 100 000.
 
-###### Artigo 36.º-A — [...]
+Artigo 36.º-A
+
+[...]
 
 1 - ...
 
@@ -648,7 +722,9 @@ b) A empresa verticalmente integrada aprove o plano financeiro anual do operador
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - O planeamento das redes de distribuição deve assegurar a existência de capacidade nas redes para a receção e entrega de eletricidade, com níveis adequados de qualidade de serviço e de segurança, e o seu desenvolvimento adequado e eficiente, no âmbito do mercado interno da eletricidade.
 
@@ -662,7 +738,9 @@ b) A empresa verticalmente integrada aprove o plano financeiro anual do operador
 
 6 - O PDIRD e o respetivo procedimento de elaboração obedecem aos termos estabelecidos em legislação complementar.
 
-###### Artigo 41.º-A — [...]
+Artigo 41.º-A
+
+[...]
 
 1 - ...
 
@@ -678,7 +756,9 @@ b) A empresa verticalmente integrada aprove o plano financeiro anual do operador
 
 7 - (Revogado.)
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -690,7 +770,9 @@ b) A empresa verticalmente integrada aprove o plano financeiro anual do operador
 
 5 - O fornecimento de eletricidade, salvo casos fortuitos ou de força maior, só pode ser interrompido por razões de interesse público, de serviço ou de segurança, ou por facto imputável ao cliente ou a terceiros, nos termos previstos no Regulamento das Relações Comerciais.
 
-###### Artigo 43.º-A — [...]
+Artigo 43.º-A
+
+[...]
 
 1 - ...
 
@@ -716,7 +798,9 @@ i) Prestar informações à DGEG e à ERSE sobre consumos, número de clientes, 
 
 j) ...
 
-###### Artigo 45.º-A — [...]
+Artigo 45.º-A
+
+[...]
 
 1 - Os contratos de fornecimento de eletricidade estão sujeitos à forma escrita e devem integrar informações sobre os direitos dos consumidores, incluindo sobre o tratamento de reclamações, as quais devem ser comunicadas de forma clara e de fácil compreensão, nomeadamente através das páginas na Internet dos comercializadores.
 
@@ -756,7 +840,9 @@ c) [Anterior alínea l) do n.º 2.]
 
 8 - Os comercializadores devem notificar os seus clientes de qualquer aumento dos encargos resultante de alteração de condições contratuais, previamente à entrada em vigor do aumento, podendo os clientes denunciar de imediato os contratos se não aceitarem as novas condições que lhes sejam notificadas pelos respetivos comercializadores.
 
-###### Artigo 45.º-B — [...]
+Artigo 45.º-B
+
+[...]
 
 1 - ...
 
@@ -772,7 +858,9 @@ b) Enviar à ERSE semestralmente os preços praticados a todos os clientes nos m
 
 5 - Os comercializadores ficam ainda obrigados a enviar à DGEG, com a periodicidade prevista na lei, informação relativa aos preços médios praticados, consumos e número de clientes, bem como às componentes dos referidos preços e respetivos encargos.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - ...
 
@@ -782,13 +870,17 @@ b) Enviar à ERSE semestralmente os preços praticados a todos os clientes nos m
 
 4 - O comercializador de último recurso é ainda responsável por fornecer eletricidade aos clientes cujo comercializador em regime de mercado tenha ficado impedido de exercer a atividade, bem como por assegurar o fornecimento de eletricidade em locais onde não exista oferta dos comercializadores de eletricidade em regime de mercado, nos termos a definir em legislação complementar.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - A atividade de comercialização de eletricidade de último recurso é separada juridicamente das restantes atividades, incluindo outras formas de comercialização, sendo exercida segundo critérios de independência, definidos na lei e no Regulamento das Relações Comerciais, sem prejuízo do disposto no n.º 8 do artigo 36.º
 
 2 - ...
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - ...
 
@@ -806,7 +898,9 @@ a) O comercializador de último recurso é obrigado a fornecer eletricidade aos 
 
 b) ...
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - ...
 
@@ -846,7 +940,9 @@ d) Obter informação sobre o seu consumo e custos efetivos, com a frequência q
 
 10 - (Anterior n.º 9.)
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - ...
 
@@ -866,7 +962,9 @@ g) ...
 
 2 - ...
 
-###### Artigo 57.º-A — [...]
+Artigo 57.º-A
+
+[...]
 
 ...
 
@@ -888,7 +986,9 @@ h) ...
 
 i) ...
 
-###### Artigo 58.º — Competências da regulação no âmbito do SEN
+Artigo 58.º
+
+Competências da regulação no âmbito do SEN
 
 1 - Sem prejuízo das atribuições e competências previstas nos seus Estatutos, nos regulamentos europeus e na lei, a ERSE exerce as seguintes e competências de regulação do SEN:
 
@@ -920,7 +1020,9 @@ m) [Anterior alínea n) do corpo do artigo.]
 
 2 - Quando, no âmbito do processo de certificação do operador da RNT, este for sujeito às obrigações previstas na subsecção ii da secção ii do capítulo ii, a regulação da ERSE tem ainda como objetivo, para além do disposto no número anterior, monitorizar o cumprimento das obrigações do operador da RNT e da empresa verticalmente integrada e a relação entre ambos, no âmbito das competências que lhe são atribuídas por lei.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - ...
 
@@ -928,7 +1030,9 @@ m) [Anterior alínea n) do corpo do artigo.]
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
@@ -940,7 +1044,9 @@ m) [Anterior alínea n) do corpo do artigo.]
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - A monitorização da segurança de abastecimento é assegurada pelo Governo, através da DGEG, com a colaboração do operador da RNT, nos termos do presente artigo, do artigo 64.º e da legislação complementar.
 
@@ -950,7 +1056,9 @@ m) [Anterior alínea n) do corpo do artigo.]
 
 4 - O Governo publica o relatório anual previsto no número anterior até 31 de julho de cada ano, dando conhecimento do mesmo à Comissão Europeia e à ERSE.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - ...
 
@@ -958,7 +1066,9 @@ m) [Anterior alínea n) do corpo do artigo.]
 
 3 - ...
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - Não se aplicam às Regiões Autónomas as disposições relativas ao mercado organizado, bem como as disposições relativas à separação jurídica das atividades de produção, transporte, distribuição e comercialização de eletricidade, nos termos da derrogação prevista no artigo 44.º da Diretiva n.º [2009/72/CE](https://data.europa.eu/eli/dir/2009/72/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de julho.
 
@@ -966,7 +1076,9 @@ m) [Anterior alínea n) do corpo do artigo.]
 
 3 - ...
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - ...
 
@@ -976,11 +1088,15 @@ m) [Anterior alínea n) do corpo do artigo.]
 
 4 - Compete à ERSE promover a arbitragem destinada à resolução de conflitos entre os agentes e os clientes.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 Para garantir o cumprimento das suas obrigações, os operadores de redes e os produtores devem constituir e manter em vigor um seguro de responsabilidade civil, proporcional ao potencial risco inerente às atividades, de montante a definir nos termos da legislação complementar.
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - ...
 
@@ -1006,7 +1122,9 @@ i) O Regulamento de Funcionamento da Comissão de Auditoria ao cumprimento do re
 
 3 - ...
 
-###### Artigo 78.º-A — [...]
+Artigo 78.º-A
+
+[...]
 
 1 - ...
 
@@ -1034,7 +1152,9 @@ Funções do operador da RNT no âmbito da política energética
 
 4 - A comissão de auditoria prevista no n.º 2 deve reunir pelo menos uma vez por trimestre e elaborar relatórios, com a periodicidade indicada no regulamento previsto no número anterior, indicando as situações de incumprimento ou cumprimento defeituoso detetadas e as medidas propostas com vista à respetiva sanação e formulando recomendações quanto à atuação da entidade concessionária da RNT no exercício das funções decorrentes das obrigações referidas no n.º 1.
 
-###### Artigo 25.º-C — Certificação relativamente a países terceiros à União Europeia
+Artigo 25.º-C
+
+Certificação relativamente a países terceiros à União Europeia
 
 1 - Caso a entidade concessionária da rede de transporte seja controlada por uma pessoa ou pessoas de país ou países terceiros à União Europeia, a respetiva certificação como operador da RNT observa o disposto no presente artigo e no artigo seguinte.
 
@@ -1062,7 +1182,9 @@ b) Se a atribuição da certificação põe, ou não, em risco a segurança do a
 
 11 - A decisão final e respetiva fundamentação são publicadas, juntamente com o parecer da Comissão Europeia, nos sítios na Internet da ERSE e da DGEG.
 
-###### Artigo 25.º-D — Recusa de certificação relativamente a países terceiros
+Artigo 25.º-D
+
+Recusa de certificação relativamente a países terceiros
 
 1 - A ERSE deve recusar a certificação da entidade concessionária referida no n.º 1 do artigo anterior, sempre que não tiver sido demonstrado que:
 
@@ -1082,7 +1204,9 @@ c) Outros factos e circunstâncias específicos do caso e do país ou países te
 
 4 - Para efeitos de realização da avaliação prevista na alínea b) do n.º 1, a ERSE deve notificar de imediato o membro do Governo responsável pela área da energia ou a entidade por este designada do pedido de certificação apresentado, do parecer emitido pela Comissão ou da respetiva omissão de pronúncia, bem como de todas as demais informações e elementos relevantes.
 
-###### Artigo 25.º-E — Reapreciação da certificação relativamente a países terceiros
+Artigo 25.º-E
+
+Reapreciação da certificação relativamente a países terceiros
 
 1 - O operador da RNT deve notificar a ERSE sempre que ocorram quaisquer circunstâncias suscetíveis de conduzir à aquisição do seu controlo ou do controlo da RNT por parte de pessoa ou pessoas de país ou países terceiros à União Europeia.
 
@@ -1094,7 +1218,9 @@ b) Sempre que tenha conhecimento, por outra via, de quaisquer circunstâncias su
 
 3 - O procedimento de reapreciação iniciado nos termos do número anterior observa, com as devidas adaptações, o disposto nos artigos 25.º-C e 25.º-D.
 
-###### Artigo 25.º-F — Modelos alternativos de separação
+Artigo 25.º-F
+
+Modelos alternativos de separação
 
 1 - Caso, no âmbito do processo de certificação do operador da RNT, surjam objeções à certificação da entidade concessionária da RNT nos termos do artigo 25.º-A por se considerar que a mesma integra uma empresa verticalmente integrada em violação do disposto no artigo 25.º, a ERSE notifica a referida entidade concessionária para praticar os atos e adotar as medidas necessárias a assegurar o cumprimento integral das condições relativas à separação jurídica e patrimonial previstas no artigo 25.º
 
@@ -1134,7 +1260,9 @@ c) Têm o direito de reclamar junto da ERSE quando entendam que a cessação ant
 
 9 - A certificação da entidade concessionária da RNT como OTI nos termos do n.os 5 a 7 não afeta a qualidade de concessionária da RNT por parte da referida entidade.
 
-###### Artigo 26.º-A — Ativos, equipamento, pessoal e identidade
+Artigo 26.º-A
+
+Ativos, equipamento, pessoal e identidade
 
 1 - Para ser certificada enquanto operador de transporte independente (OTI), a entidade concessionária da RNT deve dispor de todos os recursos humanos, técnicos, materiais e financeiros necessários ao cumprimento das suas obrigações nos termos da presente subsecção e ao exercício da atividade de transporte de eletricidade, devendo, designadamente, ser o proprietário de todos os ativos, incluindo a RNT, e contratar o pessoal necessário ao exercício da atividade de transporte de eletricidade, incluindo para o desempenho das funções societárias.
 
@@ -1150,7 +1278,9 @@ b) Os termos e condições da prestação desses serviços sejam aprovados pela 
 
 5 - Sem prejuízo das decisões do órgão de supervisão previsto no artigo 26.º-E, a empresa verticalmente integrada deve disponibilizar atempadamente ao OTI, na sequência de um pedido deste para esse efeito, os recursos financeiros necessários para a realização de futuros projetos de investimento e substituição dos ativos existentes.
 
-###### Artigo 26.º-B — Deveres do OTI
+Artigo 26.º-B
+
+Deveres do OTI
 
 1 - A atividade de transporte de eletricidade exercida pelo OTI compreende, para além do disposto no n.º 2 do artigo 24.º, pelo menos, os deveres seguidamente indicados:
 
@@ -1182,7 +1312,9 @@ h) Assegurar a prestação de todos os serviços da empresa, incluindo serviços
 
 7 - O operador da RNT não pode, no âmbito da compra ou venda de eletricidade por empresas coligadas, utilizar abusivamente informações comercialmente sensíveis obtidas de terceiros no âmbito do fornecimento ou da negociação do acesso à rede.
 
-###### Artigo 26.º-C — Independência do OTI
+Artigo 26.º-C
+
+Independência do OTI
 
 1 - Sem prejuízo das competências de decisão do órgão de supervisão previsto no artigo 26.º-E, o OTI dispõe dos seguintes poderes:
 
@@ -1212,7 +1344,9 @@ b) O poder de angariar e mobilizar meios financeiros no mercado de capitais, em 
 
 12 - A empresa verticalmente integrada deve abster-se de qualquer comportamento que impeça ou prejudique o cumprimento, por parte do operador da RNT, das obrigações que lhe incumbem nos termos da presente subsecção, não podendo exigir que o operador da RNT obtenha autorização da empresa verticalmente integrada para cumprir essas obrigações.
 
-###### Artigo 26.º-D — Independência do pessoal e da gestão do OTI
+Artigo 26.º-D
+
+Independência do pessoal e da gestão do OTI
 
 1 - As decisões relativas à nomeação e recondução dos titulares dos órgãos de administração ou gerência e dos responsáveis pela gestão do OTI, às respetivas condições de trabalho, incluindo a remuneração, bem como as decisões respeitantes à cessação dos respetivos mandatos ou contratos são tomadas pelo órgão de supervisão do OTI previsto no artigo seguinte.
 
@@ -1240,7 +1374,9 @@ b) Se existirem dúvidas quanto à justificação da cessação antecipada de um
 
 11 - O disposto nos n.os 6 a 10 é igualmente aplicável a todos os responsáveis pela gestão executiva do OTI, bem como a todos aqueles que respondam diretamente perante estes sobre questões relacionadas com o funcionamento, a manutenção ou o desenvolvimento da rede.
 
-###### Artigo 26.º-E — Órgão de supervisão
+Artigo 26.º-E
+
+Órgão de supervisão
 
 1 - O OTI tem um órgão de supervisão composto pelo número de membros indicado nos seus estatutos, os quais representam o acionista ou acionistas que direta ou indiretamente controlam o OTI e os demais titulares, direta ou indiretamente, de ações do OTI, cabendo a cada um destes grupos de acionistas indicar metade dos referidos membros, nos termos indicados nos referidos estatutos.
 
@@ -1252,13 +1388,17 @@ b) Se existirem dúvidas quanto à justificação da cessação antecipada de um
 
 5 - O disposto na alínea b) do n.º 4 do artigo 26.º-D é aplicável a todos os membros do órgão de supervisão.
 
-###### Artigo 26.º-F — Programa de conformidade
+Artigo 26.º-F
+
+Programa de conformidade
 
 1 - O OTI deve elaborar e executar um programa de conformidade que contemple as medidas adotadas e obrigações específicas para excluir comportamentos discriminatórios, devendo ainda estabelecer o plano de monitorização do cumprimento do referido programa.
 
 2 - O programa de conformidade é submetido à aprovação da ERSE, sem prejuízo das competências do responsável pela conformidade previsto no artigo seguinte.
 
-###### Artigo 26.º-G — Responsável pela conformidade
+Artigo 26.º-G
+
+Responsável pela conformidade
 
 1 - O órgão de supervisão designa um responsável pela conformidade, que pode ser uma pessoa singular ou coletiva, ficando tal designação sujeita a aprovação prévia pela ERSE.
 
@@ -1274,7 +1414,9 @@ b) Se existirem dúvidas quanto à justificação da cessação antecipada de um
 
 7 - O órgão de supervisão pode destituir o responsável pela conformidade, com fundamento na sua falta de independência ou de capacidade profissional, mediante aprovação prévia pela ERSE ou a pedido desta.
 
-###### Artigo 26.º-H — Funções do responsável pela conformidade
+Artigo 26.º-H
+
+Funções do responsável pela conformidade
 
 1 - Sem prejuízo dos poderes de fiscalização da ERSE, compete ao responsável pela conformidade:
 
@@ -1296,7 +1438,9 @@ g) Submeter à ERSE as propostas de decisão sobre o plano de investimentos ou a
 
 3 - Compete ainda ao responsável pela conformidade fiscalizar o cumprimento pelo OTI dos deveres de confidencialidade previstos na alínea j) do n.º 2 do artigo 24.º e nos n.os 6 e 7 do artigo 26.º-B.
 
-###### Artigo 26.º-I — Poderes do responsável pela conformidade
+Artigo 26.º-I
+
+Poderes do responsável pela conformidade
 
 1 - O responsável pela conformidade tem acesso a todos os dados relevantes do OTI, bem como aos serviços pelo mesmo prestados e a todas as informações necessárias para o cumprimento das suas funções.
 
@@ -1310,7 +1454,9 @@ b) Projetos empreendidos com vista a explorar, manter e desenvolver a RNT, inclu
 
 c) Compra ou venda da energia necessária para a exploração da RNT.
 
-###### Artigo 26.º-J — Poderes para tomar decisões de investimento
+Artigo 26.º-J
+
+Poderes para tomar decisões de investimento
 
 1 - O OTI deve comunicar à ERSE qualquer decisão envolvendo a não realização dos investimentos previstos no plano decenal de desenvolvimento da RNT (PDIRT) para os três anos seguintes, apresentando os respetivos fundamentos.
 
@@ -1336,7 +1482,9 @@ c) A exploração dos novos ativos pelo OTI.
 
 6 - Quando a ERSE fizer uso dos poderes previstos no n.º 2, os custos dos investimentos realizados no desenvolvimento da RNT são repercutidos na tarifa de uso global do sistema ou noutra tarifa aplicável à globalidade dos consumidores de energia elétrica nos termos a definir no Regulamento Tarifário.
 
-###### Artigo 26.º-K — Ligação à RNT
+Artigo 26.º-K
+
+Ligação à RNT
 
 1 - O OTI elabora e publica procedimentos transparentes e eficientes para a ligação não discriminatória de novas centrais elétricas à RNT, os quais estão sujeitos a aprovação prévia pela ERSE, ouvida a DGEG.
 
@@ -1344,7 +1492,9 @@ c) A exploração dos novos ativos pelo OTI.
 
 3 - O OTI não pode recusar um novo ponto de ligação à rede alegando que este acarretará custos adicionais relacionados com um necessário aumento da capacidade de elementos da rede nas imediações do ponto de ligação.
 
-###### Artigo 49.º-A — Exercício da atividade de facilitador de mercado
+Artigo 49.º-A
+
+Exercício da atividade de facilitador de mercado
 
 1 - Considera-se «facilitador de mercado» o comercializador que estiver sujeito à obrigação de aquisição da energia produzida pelos produtores em regime especial com remuneração de mercado, nas condições estabelecidas em legislação complementar.
 
@@ -1352,7 +1502,9 @@ c) A exploração dos novos ativos pelo OTI.
 
 3 - A atividade do facilitador de mercado deve obedecer às condições estabelecidas no presente decreto-lei e em legislação complementar, no Regulamento Tarifário, no Regulamento de Relações Comerciais e no Regulamento da Qualidade de Serviço.
 
-###### Artigo 59.º-A — Separação contabilística
+Artigo 59.º-A
+
+Separação contabilística
 
 1 - As empresas de eletricidade devem, sem prejuízo das exigências constantes do presente diploma em matéria de separação jurídica e independentemente da sua forma jurídica e regime de propriedade, elaborar, submeter aos respetivos órgãos competentes e publicar as suas contas anuais, nos termos da legislação e regulamentação aplicável.
 
@@ -1404,15 +1556,15 @@ São revogados os n.os 1 e 6 do artigo 6.º, o n.º 3 do artigo 21.º, o n.º 5 
 
 Visto e aprovado em Conselho de Ministros de 16 de agosto de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Sacadura Cabral Portas - Álvaro Santos Pereira.
 
-**Promulgado em 4 de outubro de 2012.**
+Promulgado em 4 de outubro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 7 de outubro de 2012.**
+Referendado em 7 de outubro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

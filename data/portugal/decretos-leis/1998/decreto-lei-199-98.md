@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/199/1998/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1998-485053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:58:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 417cd2cca698c09ccb48d7923fb1321c5394974bda3a6bd011305e5e9f187ce4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0a2b41aa0a7d820494f0e68b0fc6ba4ab5696f1ef66431e783132466be21873
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:58:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CEE
-- Pesca
+- Embarcação de Pesca
 - Normas de Construção
+- Pesca
 - Regulamento
 - Regulamento CE
-- Embarcação de Pesca
 - Regulamento sobre Construção e Modificação das Embarcações de Pesca de Comprimento entre Perpendiculares Inferior a 12 M
 relationships:
 - type: amended_by
   target: pt:dre:533381:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:533381:por
+  label: "Alterados o nº 5 do art. 21º, o nº 2 do art. 40º, o nº 12 do art. 57º e o apêndice nº 2, simbologia, do Regulamento\
+    \ pelo DEC LEI.266/2000.2000.10.19.MES,DR.IS-A [242]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/266-2000-533381
+  date: '2000-10-19'
 - type: cites
   target: celex:31986R2930
   label: null
@@ -90,16 +96,21 @@ relationships:
   target: celex:31994R3259
   label: null
   source: http://data.europa.eu/eli/reg/1994/3259/oj
+- type: corrected_by
+  target: pt:dre:574714:por
+  label: "Rectificado pela DECL-RECT.13-G/98.1998.08.31.PCM, DR.IS-A [200]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-g-1998-574714
+  date: '1998-08-31'
 article_structure:
   article_count: 81
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:58:33Z'
   warnings: []
   errors: []
 ---
@@ -136,15 +147,15 @@ O presente diploma entra em vigor 90 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho.
 
-**Promulgado em 7 de Maio de 1998.**
+Promulgado em 7 de Maio de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Junho de 1998.**
+Referendado em 5 de Junho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO
 
@@ -612,11 +623,11 @@ g) Alarmes sonoros e visuais, que actuem por baixa pressão do óleo de lubrific
 
 2 - O diâmetro do veio propulsor deve estar de acordo com as instruções fornecidas pelo fabricante do motor e o seu valor, em milímetros, não deve ser inferior ao calculado pela fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 3 - Se o material tiver uma tensão de rotura (sigma(índice r)) superior a 440 N/mm2 o diâmetro do veio propulsor pode ser corrigido multiplicando-o pelo factor do material (f), em que:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 4 - O diâmetro do veio intermédio, quando existir, deve ser calculado em conformidade com os números anteriores e aplicando posteriormente a seguinte fórmula:
 
@@ -676,7 +687,7 @@ e) Um tubo de sonda com válvula de fecho automático ou um indicador de nível 
 
 2 - Os tanques de combustível devem ser convenientemente reforçados e a espessura da chapa deve ser, no mínimo, igual à que consta da seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 ###### Artigo 46.º — Circuito de combustível
 
@@ -908,7 +919,7 @@ O alador ou guincho de pesca deve ser concebido de modo a assegurar a recolha do
 
 1 - As embarcações devem ser equipadas com um cabo e amarra com elos em aço e ferro para poder fundear, de acordo com o seguinte quadro:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 2 - As embarcações com C(índice ff) >= 6 devem ser equipadas com um ferro sobressalente.
 
@@ -928,7 +939,7 @@ b) Para embarcações com C(índice ff) superior a 9 m: 60 m.
 
 As embarcações devem ser equipadas com o material náutico e de equipamento constante do quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 ### CAPÍTULO 9 — Lotação máxima, higiene e habitabilidade
 
@@ -1014,11 +1025,11 @@ c) Em matéria de faróis e de sinais, às regras previstas na Convenção sobre
 
 d) Em matéria de meios de salvação e de radiocomunicações, à legislação aplicável às embarcações nacionais.
 
-## APÊNDICE N.º 1
+APÊNDICE N.º 1
 
 1 - Escantilhões das embarcações de madeira na forma base X altura:
 
-[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 Outras generalidades a ter em conta na tabela de escantilhões:
 
@@ -1046,7 +1057,7 @@ l) Devem existir reforços locais nas zonas de esforços concentrados e abertura
 
 2 - Escantilhões das embarcações de PRFV:
 
-[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 Módulo resistente (Z) para perfis em função da sua área (Af(índice 1)), altura (H) e espessura (ts)
 
@@ -1056,31 +1067,31 @@ Módulo resistente (Z) para perfis em função da sua área (Af(índice 1)), alt
 
 3.1 - Materiais de construção. - O aço utilizado deve ser próprio para construção naval, grau A, com as seguintes características:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 3.2 - Dimensionamento das soldaduras:
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 O valor mínimo de a deve estar de acordo com a seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 3.3 - Tipo de soldaduras. - O tipo de soldaduras entre elementos sujeitos a esforços deve estar de acordo com o seguinte quadro:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 Na soldadura intermitente o comprimento dos cordões assim como o seu espaçamento devem estar de acordo com a seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 e conforme a figura que se segue:
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 3.4 - Escantilhões da quilha e roda de proa. - O módulo resistente da secção da quilha e da roda de proa deve ser pelo menos igual a:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 No caso de não existir barra de quilha, a espessura das chapas (t) que formam a quilha deve ser aumentada para:
 
@@ -1090,7 +1101,7 @@ em que t(índice f) é a espessura das chapas do fundo.
 
 3.5 - Espessura da chaparia. - Para efeitos deste número, deve ser considerada a seguinte simbologia:
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 Os requisitos do módulo resistente da secção podem ser reduzidos multiplicando-o pelo seguinte valor:
 
@@ -1104,27 +1115,27 @@ Ao quinado; ou
 
 A espessura da chaparia do fundo não deve ser inferior ao maior dos seguintes valores:
 
-[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[[[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 b) Do costado - a espessura do costado (t(índice c)) não deve ser inferior ao maior dos seguintes valores:
 
-[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[[[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 c) Do convés - a espessura da chaparia do convés (t(índice d)) não deve ser inferior ao maior dos seguintes valores:
 
-[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[[[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 3.6 - Módulos resistentes (Z) das secções de:
 
 a) Cavernas - não devem ser inferiores ao seguinte valor:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 e a largura efectiva da chapa associada é 20 vezes a espessura da chapa;
 
 b) Balizas - não deve ser inferior a:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 em que l(índice v) deve estar de acordo com a seguinte fórmula:
 
@@ -1138,11 +1149,11 @@ f(índice o) - altura da flecha;
 
 R - raio da curvatura do encolamento;
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 c) Do vau a meio do vão - não deve ser inferior a:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 3.7 - Painel de popa. - No caso de não estar sujeito a esforços provocados pelo motor propulsor, o painel de popa deve ter uma espessura pelo menos igual à espessura do costado; contudo, caso esteja, deve ter uma espessura pelo menos igual à do fundo.
 
@@ -1156,13 +1167,13 @@ As chapas onde assentam os cunhos de amarração ou dispositivos equivalentes de
 
 Módulo resistente para perfis (Z) soldados a chapas de 4 mm a 6 mm
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 Espessura dos perfis em milímetros
 
 As curvas são dadas para várias alturas dos perfis.
 
-## APÊNDICE N.º 2
+APÊNDICE N.º 2
 
 Dimensionamento do aparelho de governo
 
@@ -1194,7 +1205,7 @@ P(índice c) - pontal de construção, em metros.
 
 1 - Dimensionamento da porta do leme. - A área da porta do leme (A) não deve ser inferior à calculada pela seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 2 - Cálculo dos momentos equivalentes:
 
@@ -1202,17 +1213,17 @@ P(índice c) - pontal de construção, em metros.
 
 3 - Cálculo da força de governo (K). - O aparelho de governo deve ser calculado de modo que quando se exerce uma força tangencial de 450 N na roda do leme se desenvolva uma força na alavança ou braço do leme não inferior à calculada pela seguinte fórmula:
 
-[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[[[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 4 - Dimensionamento da madre do leme e acessórios (d):
 
 4.1 - Madre do leme. - O diâmetro da madre do leme deve ser pelo menos igual ao calculado pela seguinte fórmula:
 
-[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[[[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 4.2 - Diâmetro dos pernos. - O diâmetro dos pernos de acoplamento do leme (d(índice p)) não deve ser inferior ao calculado pela seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 em que n é o número de pernos, que não deve ser inferior a quatro.
 
@@ -1222,11 +1233,11 @@ em que n é o número de pernos, que não deve ser inferior a quatro.
 
 5 - Espessura da porta do leme. - A espessura da chapa de aço da porta do leme (e) não deve ser inferior à calculada pelas seguintes fórmulas:
 
-[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
+[[[[[[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)
 
 Nas portas de aço com perfil de parede dupla a espessura da chapa de aço não deve ser inferior a 3 mm.
 
-portas em madeira [(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf).
+portas em madeira [[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/32103227.pdf).
 
 A porta do leme, quando construída em aço, deve possuir dois reforços a todo o comprimento, convenientemente espaçados, com espessuras não inferiores à espessura da chapa.
 

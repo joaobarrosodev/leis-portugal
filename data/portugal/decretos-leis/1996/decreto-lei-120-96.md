@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/182a00/23772382.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/120/1996/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1996-412047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:43:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0e0e1bbec28e8d3ae432a6e8a0bf368e1a0e2c2d9224f4a51245f52b66d5cb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2bb364e2443c688d6956e857590339f9658c7b2c267eca4ac1180e098e91b79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:43:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,29 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
+- Comunicação por Satélite
+- Equipamento
+- Equipamento de Transmissão
+- Licenciamento
 - Multa
 - Serviço Universal de Telecomunicações
-- Equipamento
-- Comunicação por Satélite
-- Licenciamento
 - Serviços de Telecomunicações de Valor Acrescentado
-- Equipamento de Transmissão
 relationships:
 - type: amended_by
   target: pt:dre:241801:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:402722:por
+  label: "Alterados os arts. 12º e 13º pelo DEC LEI.344/97.1997.12.05.MEPAT, DR.IS-A [281]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/344-1997-402722
+  date: '1997-12-05'
+- type: amended_by
+  target: pt:dre:581376:por
+  label: "Mantido em vigor pelo DEC LEI.381-A/97.1997.12.30.MEPAT DR.IS-A [300]3ºSupl, até à emissão de regulamento de exploração\
+    \ de operadores de redes de satélites e de prestadores de serviços via satélite.\0e.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/381-a-1997-581376
+  date: '1997-12-30'
 - type: cites
   target: celex:31988L0301
   label: null
@@ -92,16 +103,33 @@ relationships:
   target: celex:31994L0046
   label: null
   source: http://data.europa.eu/eli/dir/1994/46/oj
+- type: repealed_by
+  target: pt:dre:241799:por
+  label: "Revogados os arts. 4.º a 10.º, n.º 2 e 5 do art. 15.º e art. 17.º, pelo DEC LEI.290-A/99.1999.07.30.MEPAT DR.IS-A\
+    \ [176]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-a-1999-241799
+  date: '1999-07-30'
+- type: repealed_by
+  target: pt:dre:241800:por
+  label: "Revogados os arts. 1.º a 3.º e art. 11.º a 13.º, n.ºs 1, 3, 4 e 6 do art. 15.º e os arts. 16.º e 18.º a 27.º, pelo\
+    \ DEC LEI.290-B/99.1999.07.30.MEPAT DR.IS-A [176]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-b-1999-241800
+  date: '1999-07-30'
+- type: repealed_by
+  target: pt:dre:241801:por
+  label: "Revogado o art. 14.º pelo DEC LEI.290-C/99.1999.07.30.MEPAT DR.IS-A [176]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-c-1999-241801
+  date: '1999-07-30'
 article_structure:
   article_count: 28
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:43:37Z'
   warnings: []
   errors: []
 ---
@@ -490,12 +518,12 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Junho de 1996. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho.
 
-**Promulgado em 19 de Julho de 1996.**
+Promulgado em 19 de Julho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Julho de 1996.**
+Referendado em 23 de Julho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliviera Guterres.**
+O Primeiro-Ministro, António Manuel de Oliviera Guterres.

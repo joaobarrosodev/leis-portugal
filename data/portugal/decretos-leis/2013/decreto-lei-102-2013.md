@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/07/14200/0440004408.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/102/2013/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e065f10f8ae4d1af913359952fc672272a4256b961c76c52dc9e1c6453b0b538
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e47bce16abf86a9d7b163ba0d19e32ce4cf8e63e214a3c33b0f8db28a530bcf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ subjects:
 - Autonomia Científica
 - Autonomia Financeira
 - Autonomia Pedagógica
-- Pessoal Dirigente
-- Gestão Financeira
 - Definição de Competências
 - Gabinete de Avaliação Educacional
 - Gestão do Património
-- Ministério da Educação e Ciência
-- Instituto Público
+- Gestão Financeira
 - Instituto de Avaliação Educativa
+- Instituto Público
+- Ministério da Educação e Ciência
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Transferência de Competências
 relationships:
@@ -86,6 +86,40 @@ relationships:
   target: pt:dre:935098429:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:67348949:por
+  label: Alterados os arts. 5.º e 31.º e os anexos I e II do Dec Lei 125/2011, de 29-dez, na redação do presente diploma pelo(a)
+    Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-2015-67348949
+  date: '2015-05-29'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a superintendência e tutela sobre o Instituto de Avaliação Educativa,
+    I.P., com orgânica aprovada pelo presente diploma, seja exercida pelo Ministro da Educação pelo(a) Decreto-Lei n.º 169-B/2019
+    - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a 30.03.2022, o exercício da superintendência e tutela pelo Ministro da Educação sobre o
+    Instituo de Avaliação Educativa, I.P. (IAVE, I.P.) pelo(a) Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022,
+    Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pelo Ministro da Educação, Ciência e Inovação a
+    superintendência e tutela sobre o Instituto de Avaliação Educativa, I. P. pelo(a) Decreto-Lei n.º 32/2024 - Diário da
+    República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja exercida pelo Ministro da Educação, Ciência e Inovação a
+    superintendência e tutela sobre o Instituto de Avaliação Educativa, I. P. pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da
+    República n.º 142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/125/2011/12/29/p/dre
   label: null
@@ -110,16 +144,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:145195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3033939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632419:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:935098429:por
+  label: Revogada, a partir de 01 de outubro de 2025, pelo(a) Decreto-Lei n.º 105/2025 - Diário da República n.º 176/2025,
+    Série I de 2025-09-12, nos termos da sua alínea a) do artigo 17.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-2025-935098429
+  date: '2025-09-12'
 article_structure:
-  article_count: 35
+  article_count: 34
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:21Z'
   warnings: []
   errors: []
 ---
@@ -546,7 +614,9 @@ e) O Instituto de Avaliação Educativa, I.P.
 
 2 - [...].
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...].
 
@@ -694,15 +764,15 @@ c) O [Despacho n.º 5305/2012](https://diariodarepublica.pt/dr/detalhe/despacho/
 
 Visto e aprovado em Conselho de Ministros de 19 de junho de 2013. - Vítor Louçã Rabaça Gaspar - Vítor Louçã Rabaça Gaspar - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 17 de julho de 2013.**
+Promulgado em 17 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 18 de julho de 2013.**
+Referendado em 18 de julho de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 29.º)
 
@@ -712,10 +782,12 @@ Visto e aprovado em Conselho de Ministros de 19 de junho de 2013. - Vítor Louç
 
 Cargos de direção superior da administração direta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/14200/0440004408.pdf))](https://files.diariodarepublica.pt/1s/2013/07/14200/0440004408.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/14200/0440004408.pdf)
 
-## ANEXO II — (a que se refere o artigo 30.º)
+ANEXO II
+
+(a que se refere o artigo 30.º)
 
 Dirigentes de organismos da administração indireta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/14200/0440004408.pdf))](https://files.diariodarepublica.pt/1s/2013/07/14200/0440004408.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/14200/0440004408.pdf)

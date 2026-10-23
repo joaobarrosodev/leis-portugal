@@ -46,40 +46,118 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/559-1975-307377
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T04:49:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd8129254c43cb208b6825c781c63584204a66d0a7e7485f8b7dc0011258d189
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37574fe6f1efd91745307dfe8b8a650557ecea3517afae857660388e13cb105b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:49:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Évora
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:1932468:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:250439:por
+  label: Derrogada, relativamente à expropriação de vários prédios rústicos no concelho de Arraiolos, pelo(a) Portaria n.º
+    411/77 - Diário da República n.º 158/1977, Série I de 1977-07-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/411-1977-250439
+  date: '1977-07-11'
+- type: amended_by
+  target: pt:dre:250440:por
+  label: Derrogada, relativamente à expropriação de vários prédios rústicos no concelho de Arraiolos, pelo(a) Portaria n.º
+    414/77 - Diário da República n.º 158/1977, Série I de 1977-07-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/414-1977-250440
+  date: '1977-07-11'
+- type: amended_by
+  target: pt:dre:250446:por
+  label: Derrogada, parcialmente, pelo(a) Portaria n.º 413/77 - Diário da República n.º 158/1977, Série I de 1977-07-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1977-250446
+  date: '1977-07-11'
+- type: amended_by
+  target: pt:dre:250779:por
+  label: Derrogada, relativamente à expropriação do prédio rústico denominado «Herdade das Hortas», pelo(a) Portaria n.º 426/77
+    - Diário da República n.º 161/1977, Série I de 1977-07-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/426-1977-250779
+  date: '1977-07-14'
+- type: amended_by
+  target: pt:dre:251194:por
+  label: Derrogada, na parte relativa ao prédio rústico denominado «Rabaçal», situado na freguesia de Nossa Senhora do Bispo,
+    concelho de Montemor-o-Novo, pelo(a) Portaria n.º 460/77 - Diário da República n.º 172/1977, Série I de 1977-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/460-1977-251194
+  date: '1977-07-27'
+- type: amended_by
+  target: pt:dre:251195:por
+  label: Derrogada, na parte relativa à expropriação do prédio rústico denominado «Monte de Cima», situado na freguesia de
+    Évora Monte, concelho de Estremoz, pelo(a) Portaria n.º 461/77 - Diário da República n.º 172/1977, Série I de 1977-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/461-1977-251195
+  date: '1977-07-27'
+- type: amended_by
+  target: pt:dre:278255:por
+  label: Derrogada, no referente aos prédios rústicos denominados «Pássaros de Cina» e «Julioa», situados no concelho de Mourão
+    pelo(a) Portaria n.º 621/77 - Diário da República n.º 224/1977, Série I de 1977-09-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/621-1977-278255
+  date: '1977-09-27'
+- type: amended_by
+  target: pt:dre:279809:por
+  label: Derrogada, no referente aos prédios rústicos da Fundação da Casa de Bragança, pelo(a) Portaria n.º 741/77 - Diário
+    da República n.º 283/1977, Série I de 1977-12-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/741-1977-279809
+  date: '1977-12-09'
+- type: amended_by
+  target: pt:dre:299420:por
+  label: Reformada, no tocante à pontuação atribuída ao prédio rústico Pégoras, ao qual corresponde uma pontuação de apenas
+    49594,802 pontos, a presente portaria, pelo(a) Portaria n.º 493/78 - Diário da República n.º 198/1978, Série I de 1978-08-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/493-1978-299420
+  date: '1978-08-29'
+- type: amended_by
+  target: pt:dre:471911:por
+  label: "Derrogada em parte pela PORT.396/80.10.07.1980.MAP, DR.IS [157] de 10.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/396-1980-471911
+  date: '1980-07-10'
+- type: amended_by
+  target: pt:dre:462643:por
+  label: "Derrogada, no que respeita aos prédios rústicos denominados \"Rebaldia\" e \"Correia\" , pela PORT.875/80.24.10.1980.MAP,\
+    \ DR.IS [247] de 24.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/875-1980-462643
+  date: '1980-10-24'
+- type: amended_by
+  target: pt:dre:1932468:por
+  label: "Derrogada na parte relativa ao prédio rústico \"Mercador\" pela PORT.420/99(2ªSÉRIE).1999.04.09.PCM DR.IIS [98]\
+    \ de 27/Abr/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/420-1999-1932468
+  date: '1999-04-09'
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:49:42Z'
   warnings: []
   errors: []
 ---

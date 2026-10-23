@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22300/0000800010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/105/2023/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2023-224427487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83a7d3c866f0746aaa5a0dd8b5d17e063ff6c79208d0f8a94c7df569829fb02d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d9f1e24ab4eaaf6453dcc6747e29c71c24844edb761c5258362f7f351912405
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -94,16 +94,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/82/2021/10/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/82/2021/10/13/p/dre
+- type: cites
+  target: pt:dre:107507169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124134339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136678483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172745163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202552706:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:33Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +168,9 @@ Os artigos 2.º-A, 3.º, 3.º-A e 5.º do [Decreto-Lei n.º 64/2017](https://dia
 
 3 - Os termos do procedimento concorrencial referido no número anterior são determinados por portaria do membro do Governo responsável pela área da energia.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -168,7 +194,9 @@ e) [...]
 
 6 - (Revogado.)
 
-###### Artigo 3.º-A — [...]
+Artigo 3.º-A
+
+[...]
 
 1 - [...]
 
@@ -176,7 +204,9 @@ e) [...]
 
 3 - O parecer referido no n.º 1 é precedido de pronúncia das comissões sub-regionais de gestão integrada de fogos rurais dos territórios abrangidos, quando estas se encontrarem constituídas.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O pedido de atribuição de licença de produção é precedido da obtenção de título de reserva de capacidade de injeção na RESP, nos termos do procedimento concorrencial referido no artigo 2.º-A.
 
@@ -202,12 +232,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de outubro de 2023. - António Luís Santos da Costa - José Luís Pereira Carneiro - António José da Costa Silva - José Duarte Piteira Rica Silvestre Cordeiro - Ana Maria Pereira Abrunhosa Trigueiros de Aragão - Maria do Céu de Oliveira Antunes.
 
-**Promulgado em 6 de novembro de 2023.**
+Promulgado em 6 de novembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de novembro de 2023.**
+Referendado em 9 de novembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+117053987

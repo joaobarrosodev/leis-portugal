@@ -5,7 +5,7 @@ title: Decreto-Lei n.º 184/2005
 short_title: null
 summary: Transpõe para a ordem jurídica nacional a Directiva n.º 2003/73/CE, da Comissão, de 24 de Julho, alterando o Decreto-Lei
   n.º 304/2001, de 26 de Novembro, que estabelece um sistema de informação ao consumidor sobre economia de combustível e emissões
-  de dióxido de carbono (CO<sub>2</sub>)
+  de dióxido de carbono (CO2)
 jurisdiction: portugal
 territory: null
 document_type: decreto-lei
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/184/2005/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2005-583782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd453e00277f7f0c44be917e708c28c0816696101780eadd1aaacad83f8e4f1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbd0efaae28a5a8d648307f077cc5d166105a0d9790ab51a86a66149e9e078f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Combustível
-- Veículo
-- Proteção do Ambiente
+- Comércio
 - Informação do Consumidor
 - Poluição
-- Comércio
+- Proteção do Ambiente
+- Veículo
 relationships:
 - type: cites
   target: celex:31999L0094
@@ -88,15 +88,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reco/2003/271/oj
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:14Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +163,9 @@ n) 'Material promocional' qualquer forma de informação utilizada na comerciali
 
 o) 'Suporte de registo electrónico, magnético ou óptico' qualquer material físico no qual possa ser registada informação electronicamente e que possa servir de instrumento de informação para o grande público.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -175,7 +177,9 @@ c) ...
 
 2 - O cartaz, expositor ou painel a que se refere a alínea b) do número anterior deve obedecer aos requisitos constantes do anexo II do presente diploma, do qual faz parte integrante.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -197,15 +201,15 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Setembro de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Manuel Pedro Cunha da Silva Pereira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 21 de Outubro de 2005.**
+Promulgado em 21 de Outubro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Outubro de 2005.**
+Referendado em 24 de Outubro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Descrição do cartaz/expositor ou painel a exibir no ponto de venda
 

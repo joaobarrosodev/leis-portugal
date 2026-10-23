@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/47/2002/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/47-2002-656445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T04:42:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 163f37924ac6ad742f20e57df51065ac56e79777b73eb28d884e412930959649
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec0bf35c6cbaafccb1f0388b5930e11e466909383c11f11b1d73c36542be17f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:42:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,22 @@ relationships:
   target: pt:dre:203439:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:203439:por
+  label: "Exonerado o ministro plenipotenciário José Manuel de Carvalho Lameiras do cargo de Embaixador de Portugal em Rabat,\
+    \ pelo DEC.2/2006.04.01.2006.PR, DR.IS-A [3] de 04.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/2-2006-203439
+  date: '2006-01-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:42:25Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +99,16 @@ validation:
 
 de 10 de Outubro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o ministro plenipotenciário de 1.ª classe José Manuel de Carvalho Lameiras para o cargo de embaixador de Portugal em Rabat.
 
-**Assinado em 17 de Setembro de 2002.**
+Assinado em 17 de Setembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Outubro de 2002.**
+Referendado em 1 de Outubro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso. - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Manuel de Mendonça Martins da Cruz.**
+O Primeiro-Ministro, José Manuel Durão Barroso. - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Manuel de Mendonça Martins da Cruz.

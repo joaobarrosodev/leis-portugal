@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/37/2006/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/37-2006-673007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:55:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 199426e8576b52c6976f6d210047120df477a041526762f0e6687bb66b265e3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3abb353397cf461bc8c07f6f0a53ed09c3082ad829b2267b4d77edd8c91f179
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:55:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Ilhas Turks e Caicos
 - Juros
+- Portugal
 - Poupança
 - Rendimento
 - Tributação
@@ -79,16 +79,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/27/2006/04/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/27/2006/04/06/p/dre
+- type: cites
+  target: pt:dre:673010:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:55:01Z'
   warnings: []
   errors: []
 ---
@@ -97,16 +101,16 @@ validation:
 
 de 6 de Abril
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo entre a República Portuguesa e o Território Dependente da Coroa Britânica das Ilhas Turcas e Caicos, por troca de cartas, respectivamente de 29 de Dezembro de 2004 e de 17 de Abril de 2005, Relativo à Tributação dos Rendimentos da Poupança, aprovado pela [Resolução da Assembleia da República n.º 27/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/27-2006-673010), em 26 de Janeiro de 2006.
 
-**Assinado em 21 de Março de 2006.**
+Assinado em 21 de Março de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 29 de Março de 2006.**
+Referendado em 29 de Março de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

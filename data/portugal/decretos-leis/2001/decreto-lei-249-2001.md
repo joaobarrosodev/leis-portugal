@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/09/220a00/60106012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/249/2001/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2001-611564
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:27:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d0c489e72caf90c407286fc40330867fd991cad496df83c1344a0826f1c0edd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65a6c32422a83912640368bc0ec479645b55a8e597089069cce9b77bf86725bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:27:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- REDE Pública de Telecomunicações
+- Comunicações
 - Concorrência
 - Instituto das Comunicações de Portugal
-- Serviço Público
-- Comunicações
+- REDE Pública de Telecomunicações
 - Regulamento
+- Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:581061:por
@@ -93,16 +93,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/290-a/1999/07/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/290-a/1999/07/30/p/dre
+- type: repealed_by
+  target: pt:dre:581061:por
+  label: "Revogado a partir de 11.02.2004 o Dec Lei 290-A/99 de 30-Jul, com as alterações do presente diploma, pela LEI.5/2004.10.02.2004.AR,\
+    \ DR.IS-A [34] de 10.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/5-2004-581061
+  date: '2004-02-10'
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:27:06Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +141,9 @@ Oferta de um conjunto mínimo
 
 4 - Os elementos referidos nos números anteriores devem constar de aviso a publicar na 3.ª série do Diário da República.
 
-###### Artigo 24.º — Informação sobre as condições de oferta
+Artigo 24.º
+
+Informação sobre as condições de oferta
 
 1 - ...
 
@@ -161,7 +169,9 @@ Oferta de um conjunto mínimo
 
 12 - O ICP deve facultar à Comissão Europeia, até cinco meses após o final do período anual a que respeitam, relatórios estatísticos que mostrem o desempenho dos operadores em relação às condições de oferta discriminadas no n.º 1.
 
-###### Artigo 34.º — Processo de conciliação
+Artigo 34.º
+
+Processo de conciliação
 
 1 - ...
 
@@ -181,18 +191,18 @@ Mantêm-se em vigor as determinações do ICP adoptadas ao abrigo do artigo 23.�
 
 Visto e aprovado em Conselho de Ministros de 9 de Agosto de 2001. - António Manuel de Oliveira Guterres - José António Fonseca Vieira da Silva.
 
-**Promulgado em 11 de Setembro de 2001.**
+Promulgado em 11 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Setembro de 2001.**
+Referendado em 13 de Setembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO I — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/220a00/60106012.pdf)
+## ANEXO I — [[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/220a00/60106012.pdf)](https://files.diariodarepublica.pt/1s/2001/09/220a00/60106012.pdf)
 
 Para os tipos de linhas alugadas acima indicados, as especificações referidas definem também os pontos terminais da rede (PTR), de acordo com a definição constante do artigo 2.º da Directiva n.º [90/387/CEE](http://data.europa.eu/eli/dir/1990/387/oj?locale=pt).
 
-## ANEXO II — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/220a00/60106012.pdf)
+## ANEXO II — [[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/220a00/60106012.pdf)](https://files.diariodarepublica.pt/1s/2001/09/220a00/60106012.pdf)

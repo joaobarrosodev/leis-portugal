@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 301/1980, 10º Suplemento, Série I de 1980-12-31
   number: '301'
   series: I
-  supplement: 10º Suplemento
+  supplement: null
   pages: 4244-(181) a 4244-(186)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1120-1980-226403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:10:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41b0d01b07e2fa1aab1242a492f4e5d6c3998c21fb8b2e6d20e28cac7e6f2b0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44691edcb5e57ec2ce6f0832dc2909845f61b2e276904d1925126fe06c7cb6fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:10:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carris
+- CP
+- Metropolitano de Lisboa
+- Passe Social
+- Preço
+- Serviço de Transportes Colectivos do Porto
+- Transporte de Passageiros
+- Transporte Ferroviário
+- Transporte Fluvial
+- Transporte Público
+- Transporte Urbano
+- Transtejo
+relationships:
+- type: cites
+  target: pt:dre:148442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:10:45Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +164,11 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 Autocarros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
 
 Eléctricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
 
 Elevadores:
 
@@ -124,7 +184,7 @@ Pré-comprado (ver nota a) ... 8$00
 
 1.1.3 - Transtejo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
 
 1.2 - Passes:
 
@@ -168,7 +228,7 @@ LE ... 1355$00
 
 Válidos na Carris e no Metropolitano e ainda num percurso de um operador rodoviário, nos termos definidos na [Portaria n.º 765-A/80](https://diariodarepublica.pt/dr/detalhe/portaria/765-a-1980-250430), de 1 de Outubro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
 
 1.2.4 - Passes de terceira idade ... 240$00
 
@@ -240,23 +300,23 @@ De segunda-feira a sexta-feira, excepto entre as 6 horas e 30 minutos e as 9 hor
 
 Autocarros e troleicarros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
 
 Eléctricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
 
 2.1.2 - Outros percursos com um ou dois término fora da cidade:
 
 Autocarros e troleicarros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
 
 Fora da cidade, nos percursos comuns às carreiras dos STCP sujeitas a estas tarifas, os outros concessionários deverão praticar as tarifas homologadas para aquelas. A requerimento dos respectivos concessionários, o director-geral de Transportes Terrestres poderá autorizar, através de despacho, que nas carreiras interurbanas se pratique naqueles percursos o regime tarifário previsto no ponto 4 do presente diploma.
 
 Eléctricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
 
 2.2 - Passes:
 
@@ -316,7 +376,7 @@ Válido no STCP e na CP, nos termos definidos pela [Portaria n.º 306/80](https:
 
 Válidos nos termos definidos pela [Portaria n.º 756/80](https://diariodarepublica.pt/dr/detalhe/portaria/756-1980-461620), de 30 de Setembro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
 
 Para distâncias superiores nas modalidades de 44 e 52 viagens o preço dos passes é calculado de acordo com a fórmula seguinte, com arredondamento para os 5$00 imediatamente superiores:
 
@@ -358,7 +418,7 @@ K é igual a 33 e 36,4, respectivamente para as modalidades de 44 e de 52 viagen
 
 4.1.1 - Para percursos até 25 km:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
 
 4.1.2 - Para percursos de 25 km até 100 km (por escalões de 4 km em 4 km).
 
@@ -426,7 +486,7 @@ A requerimento dos concessionários, a Direcção-Geral de Transportes Terrestre
 
 4.4.1 - Para número ilimitado de viagens:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30110/01810186.pdf)
 
 4.4.2 - Para número limitado de viagens:
 

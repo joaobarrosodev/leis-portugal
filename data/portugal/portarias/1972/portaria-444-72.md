@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/444-1972-676226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2f1e42f5d24781d0322951b7129a4e6452c950395d798364eb85c83eafe7c4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6458b3fc0bf067f624107ca6a4abfa2ce65e4350c4f5b8dadee37acbb25de073
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:234774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471305:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:36Z'
   warnings: []
   errors: []
 ---
@@ -91,31 +103,31 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 7) «Remunerações certas ao pessoal em exercício - Eventual (pessoal dos serviços de enfermagem, de laboratório, dos serviços gerais e administrativos)» ... 150000$00
+Artigo 1.º, n.º 7) «Remunerações certas ao pessoal em exercício - Eventual (pessoal dos serviços de enfermagem, de laboratório, dos serviços gerais e administrativos)» ... 150000$00
 
-###### Artigo 2.º, n.º 1), alínea b) «Remunerações acidentais - Gratificações - Remunerações ao pessoal menor pelos serviços extraordinários prestados fora das horas regulamentares» ... 40000$00
+Artigo 2.º, n.º 1), alínea b) «Remunerações acidentais - Gratificações - Remunerações ao pessoal menor pelos serviços extraordinários prestados fora das horas regulamentares» ... 40000$00
 
-###### Artigo 2.º, n.º 1), alínea c) «Remunerações ao pessoal coadjuvante pelos serviços extraordinários prestados fora das horas regulamentares» ... 80000$00
+Artigo 2.º, n.º 1), alínea c) «Remunerações ao pessoal coadjuvante pelos serviços extraordinários prestados fora das horas regulamentares» ... 80000$00
 
 Despesas com o material:
 
-###### Artigo 7.º, n.º 6) «Material de consumo corrente - Diversos não especificados, incluindo desenho, fotografia e filmagem de assuntos científicos» ... 30000$00
+Artigo 7.º, n.º 6) «Material de consumo corrente - Diversos não especificados, incluindo desenho, fotografia e filmagem de assuntos científicos» ... 30000$00
 
 Pagamento de serviços:
 
-###### Artigo 8.º, n.º 3) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e outras despesas» ... 80000$00
+Artigo 8.º, n.º 3) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e outras despesas» ... 80000$00
 
-###### Artigo 8.º, n.º 4) «Medicamentos, apósitos, vacinas, drogas, instrumentos cirúrgicos, utensílios de farmácia e aparelhos de laboratório, material clínico destinado aos serviços médicos especializados» ... 150000$00
+Artigo 8.º, n.º 4) «Medicamentos, apósitos, vacinas, drogas, instrumentos cirúrgicos, utensílios de farmácia e aparelhos de laboratório, material clínico destinado aos serviços médicos especializados» ... 150000$00
 
-###### Artigo 8.º, n.º 5) «Consultas, exames e tratamentos especiais a fazer fora do Hospital por beneficiários de assistência quando ali internados e serviços clínicos e de hospitalização, nos termos do § 2.º do artigo 144.º e alínea a) do artigo 146.º do [Decreto n.º 45664](https://diariodarepublica.pt/dr/detalhe/decreto/45664-1964-471305), de 15 de Abril de 1964, e artigo 18.º do [Decreto n.º 48277](https://diariodarepublica.pt/dr/detalhe/decreto/48277-1968-234774), de 16 de Março de 1968» ... 80000$00
+Artigo 8.º, n.º 5) «Consultas, exames e tratamentos especiais a fazer fora do Hospital por beneficiários de assistência quando ali internados e serviços clínicos e de hospitalização, nos termos do § 2.º do artigo 144.º e alínea a) do artigo 146.º do [Decreto n.º 45664](https://diariodarepublica.pt/dr/detalhe/decreto/45664-1964-471305), de 15 de Abril de 1964, e artigo 18.º do [Decreto n.º 48277](https://diariodarepublica.pt/dr/detalhe/decreto/48277-1968-234774), de 16 de Março de 1968» ... 80000$00
 
-###### Artigo 8.º, n.º 8) «Prémios aos dadores de sangue» ... 20000$00
+Artigo 8.º, n.º 8) «Prémios aos dadores de sangue» ... 20000$00
 
-###### Artigo 9.º, n.º 2) «Despesas de comunicações - Telefones» ... 20000$00
+Artigo 9.º, n.º 2) «Despesas de comunicações - Telefones» ... 20000$00
 
 Diversos encargos:
 
-###### Artigo 11.º «Abono de família» ... 30000$00
+Artigo 11.º «Abono de família» ... 30000$00
 
 ... 680000$00
 

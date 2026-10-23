@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/291a00/44884497.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/241/1996/12/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1996-197538
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:46:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d81289c2611bbc90d941904e30b976a7d7c7575ab053188be38bf0dc07cfc2e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87a8637ef8731f90f8bc20d6220f84229575103d1123cd093685b654aef3722d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:46:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ reuse:
 subjects:
 - Comissão Coordenadora
 - Conselho Administrativo
-- Ministério da Educação
-- Educação
-- Definição de Competências
 - Conselho Consultivo
 - Conselho Nacional de Educação
+- Definição de Competências
+- Educação
+- Ministério da Educação
 - Orgânica
 - Política de Educação
 - Presidente
@@ -84,20 +84,82 @@ relationships:
   target: pt:dre:66414233:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:491206:por
+  label: "Alterado o art. 3º do Dec Lei 125/82 de 22-Abr, na redacção do presente diploma, pelo DEC LEI.214/2005.09.12.2005.ME,\
+    \ DR.IS-A [235] de 09.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2005-491206
+  date: '2005-12-09'
+- type: amended_by
+  target: pt:dre:603224:por
+  label: "Alterado o art. 5.º do Dec Lei 125/82 de 22-Abr, na redacção do presente diploma, pela LEI.13/2009.01.04.2009.AR,\
+    \ DR.IS [64] de 01.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-2009-603224
+  date: '2009-04-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/244/1991/07/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/244/1991/07/06/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667947:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66414233:por
+  label: Revogado, a partir de 04.02.2015, o Dec. Lei 125/82 de 22-abr, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 21/2015 - Diário da República n.º 23/2015, Série I de 2015-02-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2015-66414233
+  date: '2015-02-03'
 article_structure:
-  article_count: 48
+  article_count: 33
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:46:28Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +194,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Junto do Conselho funciona um conselho administrativo, que exerce funções de fiscalização e controlo em matéria de gestão financeira e patrimonial.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Compete ao Conselho Nacional de Educação, por iniciativa própria ou em resposta a solicitações que lhe sejam apresentadas pela Assembleia da República e pelo Governo, emitir opiniões, pareceres e recomendações sobre todas as questões educativas, nomeadamente:
 
@@ -198,7 +262,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -260,7 +326,9 @@ ee) Um representante das instituições particulares de solidariedade social.
 
 2 - A designação dos membros referidos no n.º 1 deve ter em conta a relevância dos interesses representados, bem como as competências do Conselho Nacional de Educação.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os membros do Conselho são designados por um período renovável de três anos.
 
@@ -272,7 +340,9 @@ ee) Um representante das instituições particulares de solidariedade social.
 
 5 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -292,7 +362,9 @@ c) Deixem de ser reconhecidos como tais pelas entidades que representam, devendo
 
 3 - A perda do mandato, salvo no caso da alínea a), é declarada pelo Conselho, por maioria de dois terços dos respectivos membros em efectividade de funções, com salvaguarda das correspondentes garantias de defesa.
 
-###### Artigo 10.º — Comissão coordenadora
+Artigo 10.º
+
+Comissão coordenadora
 
 1 - O Conselho terá uma comissão coordenadora, com a seguinte composição:
 
@@ -308,7 +380,9 @@ c) O secretário-geral.
 
 4 - A remuneração mensal do presidente do Conselho Nacional de Educação corresponde à remuneração base mensal do cargo de reitor das universidades públicas.
 
-###### Artigo 10.º-A — [...]
+Artigo 10.º-A
+
+[...]
 
 1 - O conselho administrativo tem a seguinte composição:
 
@@ -356,7 +430,9 @@ b) O secretário-geral, por um funcionário da assessória técnica e administra
 
 c) O funcionário a que se refere a alínea c) do n.º 1 será substituído na forma prevista para a sua designação.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O Conselho dispõe de uma assessoria técnica e administrativa própria, que funciona na dependência do secretário-geral.
 
@@ -366,7 +442,9 @@ c) O funcionário a que se refere a alínea c) do n.º 1 será substituído na f
 
 4 - ...
 
-###### Artigo 12.º-A — [...]
+Artigo 12.º-A
+
+[...]
 
 1 - ...
 
@@ -392,17 +470,23 @@ j) [Anterior alínea i).]
 
 2 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 O Conselho funciona em plenário e em comissões especializadas permanentes ou eventuais.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - As sessões plenárias funcionam desde que esteja presente a maioria dos seus membros, entre os quais o presidente ou o membro da comissão coordenadora por si designado para o substituir para este efeito.
 
 2 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 Compete ao presidente:
 
@@ -424,11 +508,15 @@ h) ...
 
 i) Exercer quaisquer outros poderes que lhe sejam atribuídos por lei.
 
-###### Artigo 18.º — Competências da comissão coordenadora
+Artigo 18.º
+
+Competências da comissão coordenadora
 
 A comissão coordenadora exerce as suas funções com carácter não permanente, competindo-lhe coadjuvar o presidente, designadamente, na elaboração do plano de actividades do Conselho e no acompanhamento da sua execução.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Os processos são distribuídos pelo presidente, ouvida a comissão coordenadora, a um relator designado de entre os membros do Conselho.
 
@@ -436,7 +524,9 @@ A comissão coordenadora exerce as suas funções com carácter não permanente,
 
 3 - ...
 
-###### Artigo 23.º — Encargos financeiros e instalações
+Artigo 23.º
+
+Encargos financeiros e instalações
 
 1 - Os encargos financeiros resultantes do funcionamento do Conselho, incluindo os dos serviços de apoio, são suportados por orçamento próprio, com dotação inscrita no orçamento do Ministério de Educação, por proposta do Conselho.
 
@@ -466,7 +556,9 @@ b) ...
 
 4 - Cabe ao Ministério da Educação dotar o Conselho de instalações próprias, adequadas ao seu bom funcionamento.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - O serviço prestado no Conselho pelos seus membros, designadamente os da comissão coordenadora, é equiparado, para todos os efeitos, ao serviço efectivo da função própria, ficando, contudo, suspensos, na medida correspondente, os deveres inerentes a esse exercício.
 
@@ -488,7 +580,9 @@ b) ...
 
 10 - ...
 
-###### Artigo 24.º-A — Acordos e contratos
+Artigo 24.º-A
+
+Acordos e contratos
 
 1 - O Conselho poderá, nos termos da legislação aplicável, estabelecer relações e celebrar contratos e outros acordos com quaisquer entidades nacionais, estrangeiras e organizações internacionais, públicas ou privadas, com vista à optimização dos seus recursos e ao desenvolvimento das suas atribuições e competências.
 
@@ -504,17 +598,19 @@ São revogados os artigos 28.º e 29.º do [Decreto-Lei n.º 125/82](https://dia
 
 Visto e aprovado em Conselho de Ministros de 3 de Outubro de 1996. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Eduardo Carrega Marçal Grilo - Maria João Fernandes Rodrigues - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 27 de Novembro de 1996.**
+Promulgado em 27 de Novembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Novembro de 1996.**
+Referendado em 28 de Novembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — Artigo 1.º
+## ANEXO
+
+###### Artigo 1.º
 
 Conselho Nacional de Educação
 

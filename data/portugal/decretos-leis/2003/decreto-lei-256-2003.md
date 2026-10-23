@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/256/2003/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2003-476751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b423f5aee3155294e8238680318d7df0770455030f34245e4bae75b56027926f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88b2aee9eda828ad3655100e6fe29b08c14e60875bf1fb4b01a9b7a7e9a145a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,124 @@ subjects:
 - Aproximação das Legislações
 - CE Países
 - Código do IVA
-- Estatuto dos Benefícios Fiscais
-- IVA
-- Impostos Directos
-- Documento Eletrónico
 - Comércio Eletrónico
+- Documento Eletrónico
+- Estatuto dos Benefícios Fiscais
+- Impostos Directos
+- IVA
 relationships:
 - type: amended_by
   target: pt:dre:119622094:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterado o art. 66º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, revisto pelo Dec Lei 198/2001, de 03-Jul, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de\
+    \ 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterado o art. 5º do Dec Lei 198/90 de 19-Jun, com a redacção inserida pelo presente diploma, pela LEI.60-A/2005.30.12.2005.AR,\
+    \ DR.IS-A [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:539402:por
+  label: "Alterados os arts. 19º, 28º, 35º e 48º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção\
+    \ conferida no presente diploma, pela LEI.33/2006.28.07.2006.AR, DR.IS [145] de 28.07.2006 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/33-2006-539402
+  date: '2006-07-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterados os arts. 28º, 45º, 48º e 52º e revogados a al. i) do nº 1 do art. 28º, os nºs 2 e 10 do art. 40º, o nº\
+    \ 3 do art. 45º e o nº 3 do art. 48º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção conferida\
+    \ no presente diploma, pelo DEC LEI.238/2006.20.12.2006.MFAP, DR.IS [243] de 20.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2006-12-20'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterado o art. 39.º, do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na redacção do presente diploma,\
+    \ pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249]Supl de 29.12.2006 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterados os arts. 19º e 35º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção conferida\
+    \ no presente diploma, pelo DEC LEI.21/2007.29.01.2007.MFAP, DR.IS [20] de 29.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2007-01-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterados os artigos 19.º e 39.º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na redacção do presente\
+    \ diploma, republicado pelos Dec Leis 195/89 de 12-Jun e 166/94 de 09-Jun, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl]\
+    \ de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:449902:por
+  label: "Alterados os art.s 19º, 28º, 35º, 39º, 45º, 48º, 52º e 72º do Dec Lei 394-B/94, de 26-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.102/2008.20.06.2008.MFAP, DR.IS [118] de 20.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2008-449902
+  date: '2008-06-20'
+- type: amended_by
+  target: pt:dre:493507:por
+  label: "Alterado a partir de 01.01.2010, o artigo 19.º do Código do IVA, aprovado pelo Decreto-Lei 394-B/84, de 26 de Dezembro,\
+    \ na redacção do presente diploma, pelo DEC LEI.186/2009.12.08.2009.MFAP, DR.IS [155] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-2009-493507
+  date: '2009-08-12'
+- type: amended_by
+  target: pt:dre:490420:por
+  label: "Alterado o art. 28º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ pelo DEC LEI.249/2009.23.09.2009.MFAP, DR.IS [185] de 23.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-2009-490420
+  date: '2009-09-23'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterado o art. 19.º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ renumerado e republicado pelo Dec Lei 102/2008 de 20-Jun, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\
+    10\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:306581:por
+  label: "Alterado, a partir de 01.01.2011, o art. 19º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção\
+    \ do presente diploma, pelo DEC LEI.134/2010.27.12.2010.MFAP, DR.IS [249] de 27.12.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-2010-306581
+  date: '2010-12-27'
+- type: amended_by
+  target: pt:dre:174548:por
+  label: "Alterados, a partir de 01.01.2013, os arts 19.º,45.º, 48.º, 52.º e 72.º do Código do Imposto sobre o Valor Acrescentado,\
+    \ aprovado pelo Dec Lei 394-B/84, de 26-dez, na redação do presente diploma, pelo DEC LEI.197/2012.24.08.2012.MF, DR.IS\
+    \ [164] de 24.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-2012-174548
+  date: '2012-08-24'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação aos arts.19º e 35º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-dez, alterado pelo presente\
+    \ diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:513603:por
+  label: "Dada nova redação, com efeitos a 01.10.2013, ao art. 19º do Código do IVA , aprovado pelo Dec Lei 394-B/84 de 26-dez\
+    \ , alterado pelo presente diploma, pelo DEC LEI.71/2013.30.05.2013.MF, DR.IS [104] de 30.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-2013-513603
+  date: '2013-05-30'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterado o art. 5º do Dec Lei 198/90, de 19-jun, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR,\
+    \ DR.IS [253-Supl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:119622094:por
+  label: Alterado, a partir de 16.02.2019, e nos termos do disposto no art. 45.º, o art. 52.º do Código do IVA, aprovado pelo
+    Dec Lei 394-B/84 de 26-dez, na redação do presente diploma, pelo(a) Decreto-Lei n.º 28/2019 - Diário da República n.º
+    33/2019, Série I de 2019-02-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2019-119622094
+  date: '2019-02-15'
 - type: cites
   target: celex:31977L0388
   label: null
@@ -88,16 +196,22 @@ relationships:
   target: celex:32001L0115
   label: null
   source: http://data.europa.eu/eli/dir/2001/115/oj
+- type: repealed_by
+  target: pt:dre:261156:por
+  label: "Revogado, a partir de 11.05.2013, o Dec Lei 127/90 de 17-abr, com as alterações introduzidas pelo presente diploma,\
+    \ pelo DEC LEI.61/2013.10.05.2013.MF, DR.IS [90] de 10.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2013-261156
+  date: '2013-05-10'
 article_structure:
-  article_count: 15
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:55Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +256,7 @@ Os artigos 19.º, 28.º, 35.º, 39.º, 45.º, 48.º, 52.º e 72.º do Código do
 
 6 - Para efeitos do exercício do direito à dedução, consideram-se passados em forma legal as facturas ou documentos equivalentes que contenham os elementos previstos no artigo 35.º
 
-###### Artigo 28.º
+Artigo 28.º
 
 1 - ...
 
@@ -172,7 +286,7 @@ Os artigos 19.º, 28.º, 35.º, 39.º, 45.º, 48.º, 52.º e 72.º do Código do
 
 14 - Para cumprimento do disposto na alínea b) do n.º 1, as facturas ou documentos equivalentes poderão ser elaborados pelo próprio adquirente dos bens ou serviços ou por um terceiro, em nome e por conta do sujeito passivo.
 
-###### Artigo 35.º
+Artigo 35.º
 
 1 - ...
 
@@ -216,7 +330,7 @@ b) O adquirente provar que o transmitente dos bens ou prestador dos serviços to
 
 12 - Sem prejuízo do disposto no número anterior, a elaboração de facturas ou documentos equivalentes pelos próprios adquirentes dos bens ou dos serviços ou por terceiros, que não disponham de sede, estabelecimento estável ou domicílio em qualquer Estado membro, é sujeita a autorização prévia da Direcção-Geral dos Impostos, a qual poderá fixar condições específicas para a sua efectivação.
 
-###### Artigo 39.º
+Artigo 39.º
 
 1 - ...
 
@@ -244,7 +358,7 @@ c) ...
 
 6 - ...
 
-###### Artigo 45.º
+Artigo 45.º
 
 1 - ...
 
@@ -252,7 +366,7 @@ c) ...
 
 3 - Sempre que o registo referido no n.º 1 respeite a facturas ou documentos equivalentes emitidos por via electrónica, deverão ser conservados em suporte papel listagens dessas facturas ou documentos equivalentes, por cada período de tributação, aplicando-se, com as necessárias adaptações, o disposto no número anterior.
 
-###### Artigo 48.º
+Artigo 48.º
 
 1 - ...
 
@@ -260,7 +374,7 @@ c) ...
 
 3 - Sempre que o registo referido no n.º 1 respeite a facturas ou documentos equivalentes emitidos por via electrónica, deverão ser conservados em suporte papel listagens dessas facturas ou documentos equivalentes, por cada período de tributação, aplicando-se, com as necessárias adaptações, o disposto no número anterior.
 
-###### Artigo 52.º
+Artigo 52.º
 
 1 - ...
 
@@ -274,7 +388,7 @@ c) ...
 
 6 - Os sujeitos passivos que não disponham de sede, estabelecimento estável ou domicílio em território nacional, que pretendam manter o arquivo dos livros, registos e demais documentos, incluindo os referidos no n.º 4, fora do território da Comunidade, deverão solicitar autorização prévia à Direcção-Geral dos Impostos, a qual poderá fixar condições específicas para a sua efectivação.
 
-###### Artigo 72.º
+Artigo 72.º
 
 1 - ...
 
@@ -336,12 +450,12 @@ O presente diploma entra em vigor em 1 de Janeiro de 2004.
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2003. - José Manuel Durão Barroso - Norberto Emílio Sequeira da Rosa.
 
-**Promulgado em 6 de Outubro de 2003.**
+Promulgado em 6 de Outubro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Outubro de 2003.**
+Referendado em 10 de Outubro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

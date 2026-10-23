@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/10/251b00/56625664.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/24/1998/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1998-229115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82d3c71ae086b3c5ab53f118d3c5b8ee71b089dd751cbbe7cf9b9696089b60e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9251b0b3522566969327e125e3fd650b5096652a729dfb3d56da34bb725ad063
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
 subjects:
 - Alcoolismo
 - Código da Estrada
-- Fiscalização Rodoviária
-- Ilícito de MERA Ordenação Social
-- Veículo
-- Exame Médico
-- Instituto Português da Qualidade
-- Segurança Rodoviária
 - Condutor
 - Droga
+- Exame Médico
+- Fiscalização Rodoviária
+- Ilícito de MERA Ordenação Social
+- Instituto Português da Qualidade
 - Regulamento do Controlo Metrológico dos Álcoolimetros
+- Segurança Rodoviária
 - Taxa de Alcoolemia
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:520799:por
@@ -95,16 +95,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/986/1992/10/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/986/1992/10/20/p/dre
+- type: cites
+  target: pt:dre:220733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571417:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520799:por
+  label: "Revogado a partir de 15.08.2007 pela LEI.18/2007.17.05.2007.AR, DR.IS [95] de 17.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/18-2007-520799
+  date: '2007-05-17'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:22Z'
   warnings: []
   errors: []
 ---
@@ -251,12 +272,12 @@ Presidência do Conselho de Ministros, 20 de Agosto de 1998.
 
 António Manuel de Oliveira Guterres - Armando António Martins Vara - José Eduardo Vera Cruz Jardim - Francisco Ventura Ramos.
 
-**Promulgado em 7 de Outubro de 1998.**
+Promulgado em 7 de Outubro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Outubro de 1998.**
+Referendado em 14 de Outubro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -46,40 +46,112 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-1981-390455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:42:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 334e473171470b38a6d0b303b948243b6a9f63c64239c6b39c618d1beaf0462c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37a19bf43332cfd7b56a648ee6549f5a21fcea085d512299814a3f5c7570c661
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:42:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola Nacional de Saúde Pública
+- Quadro de Pessoal
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:176322:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 308/81 DE 31-MAR DR.IS [75]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1981-03-31'
+- type: amended_by
+  target: pt:dre:389384:por
+  label: "Alterado o quadro de pessoal pela PORT.308/81.31.03.1981.MFP, DR.IS [75] de 31.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/308-1981-389384
+  date: '1981-03-31'
+- type: amended_by
+  target: pt:dre:308482:por
+  label: "Alterado o quadro de pessoal aprovado pela PORT.67/83.1983.01.26.MFP DR.IS [21]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/67-1983-308482
+  date: '1983-01-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 1072/83 DE 30-DEZ DR.IS [300]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-12-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 436/86 DE 17-AGO DR.IS [183]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-08-17'
+- type: amended_by
+  target: pt:dre:498714:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, com as alterações introduzidas pelas Port 308/81 de\
+    \ 31-Mar, 67/83 de 26-Jan, 1072/83 de 30-Dez e 436/86 de 11-Ago, pela PORT.916/87.02.12.1987.MF, DR.IS [277] de 02.12.1987\0\
+    87\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/916-1987-498714
+  date: '1987-12-02'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 147/88 DE 09-MAR DR.IS [57]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-03-09'
+- type: amended_by
+  target: pt:dre:287382:por
+  label: Alterado o quadro de pessoal da Escola Nacional de Saúde Pública, aprovado pela presente e alterado pelas Ports 308/81,
+    de 31-mar, 67/83, de 26-jan, 1072/83, de 30-dez, e 436/86, de 17-ago, pelo(a) Portaria n.º 147/88 - Diário da República
+    n.º 57/1988, Série I de 1988-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/147-1988-287382
+  date: '1988-03-09'
+- type: amended_by
+  target: pt:dre:380134:por
+  label: "Alterado o quadro de pessoal, com a redacção introduzida pelas Port 308/81 31-Mar, 67/83 de 26-Jan, 1072/83 de 30-Dez,\
+    \ 436/86 de 11-Ago, 916/87 de 02-Dez e 147/88 de 09-Mar, pela PORT.569/88.19.08.1988.MF, DR.IS [191] de 19.08.1988\088\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/569-1988-380134
+  date: '1988-08-19'
+- type: amended_by
+  target: pt:dre:176322:por
+  label: "Substituído, no que se refere ao pessoal docente, o quadro da Escola Nacional de Saúde Pública constante do presente\
+    \ diploma, na redacção da Port 308/81, de 31-Mar e da Port 436/86, de 11-Ago, pela PORT.252/98.1998.04.24.PCM DR.IS-B\
+    \ [96]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/252-1998-176322
+  date: '1998-04-24'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:42:48Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +172,6 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal da Escola Nacional de Saúde Pública
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/01100/00960096.pdf))](https://files.diariodarepublica.pt/1s/1981/01/01100/00960096.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/01100/00960096.pdf)
 
 Nota. - Ao funcionário administrativo que exercer as funções de tesoureiro será atribuída a remuneração mensal de 500$00 para falhas.

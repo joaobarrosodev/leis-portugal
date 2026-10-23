@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22224-1966-480170
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5873a16b344f46ac71b32e9aafbe93c6e946f8a6c8a2438355a2f2b94ed84e68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c98cc38b4b625b13fbd3095a9d6e25dcd5245a04d39e5592976b4af6ed85f21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:431979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486317:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:01Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +108,7 @@ Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Prev
 
 2.º Alterar a redacção do artigo 10.º do mesmo regulamento pela seguinte forma:
 
-###### Art. 10.º - 1. No despacho de deferimento do pedido de agrupamento ficará definida a área em que o mesmo se circunscreve, dentro do qual, sem prejuízo do disposto no artigo 6.º, será permitida, nos demais termos deste regulamento, a instalação de novos estabelecimentos de fabrico de pão e a transferência ou reabertura dos existentes, se não vier a ser cumprido integralmente aquele despacho.
+Art. 10.º - 1. No despacho de deferimento do pedido de agrupamento ficará definida a área em que o mesmo se circunscreve, dentro do qual, sem prejuízo do disposto no artigo 6.º, será permitida, nos demais termos deste regulamento, a instalação de novos estabelecimentos de fabrico de pão e a transferência ou reabertura dos existentes, se não vier a ser cumprido integralmente aquele despacho.
 
 2. Enquanto não é despachado o pedido de agrupamento, que será instruído com certidão do respectivo pacto social e informações do Instituto Nacional do Pão e grémio dos industriais de panificação competente, ficará suspensa a autorização para instalação, transferência ou reabertura de estabelecimentos de fabrico de pão, quando os mesmos se situarem aquém do dobro da distância mínima de qualquer dos estabelecimentos a agrupar, fixada no artigo 6.º, com a ressalva nele consignada.
 

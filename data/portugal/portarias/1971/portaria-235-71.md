@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 104/1971, 1º Suplemento, Série I de 1971-05-04
   number: '104'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 642-(1) a 642-(46)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/05/10401/00010046.pdf
 entry_into_force_dates: []
@@ -46,36 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/235-1971-685442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b1326761abfc11c720137af3e27a25bd5c9c338de8c836f29ee40808cd1e239
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fd2370c32e680b80199730fb11381d22ae919e0da19fdecef6f5d4094ac52ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Previdência Social
+relationships:
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
   article_count: 291
-  section_count: 130
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 66
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:07Z'
   warnings: []
   errors: []
 ---
@@ -124,135 +161,135 @@ ESTATUTO DO PESSOAL DA ADMINISTRAÇÃO DAS INSTITUIÇÕES DE PREVIDÊNCIA SOCIAL
 
 SUMÁRIO
 
-### Capítulo I - Do âmbito.
+Capítulo I - Do âmbito.
 
-### Capítulo II - Dos direitos, deveres e garantias gerais.
+Capítulo II - Dos direitos, deveres e garantias gerais.
 
-### Capítulo III - Das categorias e quadros do pessoal.
+Capítulo III - Das categorias e quadros do pessoal.
 
-#### Secção I - Categorias profissionais.
+Secção I - Categorias profissionais.
 
-##### Subsecção I - Enumeração das categorias.
+Subsecção I - Enumeração das categorias.
 
-##### Subsecção II - Atribuição das categorias.
+Subsecção II - Atribuição das categorias.
 
-##### Subsecção III - Condições de existência das categorias.
+Subsecção III - Condições de existência das categorias.
 
-#### Secção II - Quadro do pessoal.
+Secção II - Quadro do pessoal.
 
-### Capítulo IV - Do acesso do pessoal.
+Capítulo IV - Do acesso do pessoal.
 
-#### Secção I - Condições gerais de provimento.
+Secção I - Condições gerais de provimento.
 
-##### Subsecção I - Princípios fundamentais.
+Subsecção I - Princípios fundamentais.
 
-##### Subsecção II - Concursos e cursos de formação.
+Subsecção II - Concursos e cursos de formação.
 
-##### Divisão I - Concursos de provimento.
+Divisão I - Concursos de provimento.
 
-##### Divisão II - Concursos documentais.
+Divisão II - Concursos documentais.
 
-##### Divisão III - Formação e aperfeiçoamento do pessoal.
+Divisão III - Formação e aperfeiçoamento do pessoal.
 
-##### Divisão IV - Concursos de promoção.
+Divisão IV - Concursos de promoção.
 
-#### Secção II - Provimento dos lugares nas categorias.
+Secção II - Provimento dos lugares nas categorias.
 
-##### Subsecção I - Disposições comuns.
+Subsecção I - Disposições comuns.
 
-##### Subsecção II - Pessoal administrativo.
+Subsecção II - Pessoal administrativo.
 
-##### Divisão I - Pessoal administrativo dirigente.
+Divisão I - Pessoal administrativo dirigente.
 
-##### Divisão II - Pessoal administrativo geral.
+Divisão II - Pessoal administrativo geral.
 
-##### Divisão III - Pessoal administrativo auxiliar.
+Divisão III - Pessoal administrativo auxiliar.
 
-##### Subsecção III - Pessoal de contabilidade.
+Subsecção III - Pessoal de contabilidade.
 
-##### Subsecção IV - Pessoal técnico.
+Subsecção IV - Pessoal técnico.
 
-##### Divisão I - Pessoal técnico de serviços mecanográficos e informática.
+Divisão I - Pessoal técnico de serviços mecanográficos e informática.
 
-##### Divisão II - Pessoal técnico de outros serviços.
+Divisão II - Pessoal técnico de outros serviços.
 
-##### Subsecção V - Pessoal de inspecção e serviços externos.
+Subsecção V - Pessoal de inspecção e serviços externos.
 
-##### Subsecção VI - Pessoal auxiliar.
+Subsecção VI - Pessoal auxiliar.
 
-#### Secção III - Regime das nomeações e admissões.
+Secção III - Regime das nomeações e admissões.
 
-##### Subsecção I - Disposições comuns.
+Subsecção I - Disposições comuns.
 
-##### Subsecção II - Nomeações efectivas.
+Subsecção II - Nomeações efectivas.
 
-##### Subsecção III - Nomeações não efectivas.
+Subsecção III - Nomeações não efectivas.
 
-##### Divisão I - Nomeações interinas.
+Divisão I - Nomeações interinas.
 
-##### Divisão II - Nomeações provisórias ou a título precário.
+Divisão II - Nomeações provisórias ou a título precário.
 
-##### Subsecção IV - Mudanças de categorias.
+Subsecção IV - Mudanças de categorias.
 
-##### Subsecção V - Transferências.
+Subsecção V - Transferências.
 
-##### Subsecção VI - Readmissões.
+Subsecção VI - Readmissões.
 
-### Capítulo V - Da prestação do trabalho.
+Capítulo V - Da prestação do trabalho.
 
-#### Secção I - Modo de prestação do trabalho.
+Secção I - Modo de prestação do trabalho.
 
-##### Subsecção I - Regime de trabalho.
+Subsecção I - Regime de trabalho.
 
-##### Subsecção II - Classificação de serviço.
+Subsecção II - Classificação de serviço.
 
-#### Secção II - Duração do trabalho.
+Secção II - Duração do trabalho.
 
-##### Subsecção I - Horário de trabalho.
+Subsecção I - Horário de trabalho.
 
-##### Subsecção II - Comparência do pessoal.
+Subsecção II - Comparência do pessoal.
 
-### Capítulo VI - Da suspensão da prestação do trabalho.
+Capítulo VI - Da suspensão da prestação do trabalho.
 
-#### Secção I - Descanso semanal, feriados e tolerâncias de ponto.
+Secção I - Descanso semanal, feriados e tolerâncias de ponto.
 
-#### Secção II - Férias e licenças.
+Secção II - Férias e licenças.
 
 #### Secção III - Faltas.
 
-#### Secção IV - Suspensão da prestação de trabalho por impedimento prolongado.
+Secção IV - Suspensão da prestação de trabalho por impedimento prolongado.
 
-### Capítulo VII - Da retribuição.
+Capítulo VII - Da retribuição.
 
-#### Secção I - Remunerações.
+Secção I - Remunerações.
 
-#### Secção II - Abonos e gratificações.
+Secção II - Abonos e gratificações.
 
-#### Secção III - Ajudas de custo e transportes.
+Secção III - Ajudas de custo e transportes.
 
-#### Secção IV - Prémios e recompensas.
+Secção IV - Prémios e recompensas.
 
-##### Subsecção I - Prémios de rendimento.
+Subsecção I - Prémios de rendimento.
 
-##### Subsecção II - Prémios e recompensas por sugestões.
+Subsecção II - Prémios e recompensas por sugestões.
 
-##### Subsecção III - Prémios «Segurança Social».
+Subsecção III - Prémios «Segurança Social».
 
-### Capítulo VIII - Da cessação do contrato de trabalho.
+Capítulo VIII - Da cessação do contrato de trabalho.
 
-### Capítulo IX - Da disciplina e das penalidades.
+Capítulo IX - Da disciplina e das penalidades.
 
-#### Secção I - Princípios gerais.
+Secção I - Princípios gerais.
 
-#### Secção II - Sanções disciplinares.
+Secção II - Sanções disciplinares.
 
-#### Secção III - Processos disciplinares.
+Secção III - Processos disciplinares.
 
-### Capítulo X - Disposições finais e transitórias.
+Capítulo X - Disposições finais e transitórias.
 
-#### Secção I - Disposições finais.
+Secção I - Disposições finais.
 
-#### Secção II - Disposições transitórias.
+Secção II - Disposições transitórias.
 
 ## Anexo I
 
@@ -2064,7 +2101,7 @@ c) As mulheres de limpeza.
 
 1. O horário de trabalho dos empregados em serviço nas sedes das instituições é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/05/10401/00010046.pdf))](https://files.diariodarepublica.pt/1s/1971/05/10401/00010046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/05/10401/00010046.pdf)
 
 2. O início e o termo de cada um dos dois períodos de trabalho do pessoal auxiliar poderá, porém, ser alterado sempre que tal seja julgado conveniente para os serviços pelas respectivas direcções.
 
@@ -2450,7 +2487,7 @@ Os empregados de serviço externo têm direito à gratificação mensal de 500$0
 
 Os empregados que fazem parte dos quadros da Inspecção Administrativa da Federação têm direito às seguintes gratificações mensais, a atribuir nos termos do artigo seguinte, pelo serviço externo realizado fora da cidade de Lisboa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/05/10401/00010046.pdf))](https://files.diariodarepublica.pt/1s/1971/05/10401/00010046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/05/10401/00010046.pdf)
 
 ###### Artigo 227.º — (Cálculo das gratificações do pessoal da Inspecção Administrativa)
 
@@ -2484,7 +2521,7 @@ Os empregados que fazem parte dos quadros da Inspecção Administrativa da Feder
 
 1. Os empregados, quando ausentes, por motivo de serviço, dos locais onde exerçam normalmente a sua actividade têm direito ao abono diário de ajudas de custo, de harmonia com a tabela seguinte, em função das suas categorias e das localidades para onde se desloquem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/05/10401/00010046.pdf))](https://files.diariodarepublica.pt/1s/1971/05/10401/00010046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/05/10401/00010046.pdf)
 
 2. Só são devidas ajudas de custo pelas deslocações além de 5 km da periferia das localidades onde os empregados exerçam normalmente a sua actividade.
 
@@ -2500,7 +2537,7 @@ Os empregados que fazem parte dos quadros da Inspecção Administrativa da Feder
 
 2. Pelas deslocações em que a saída da residência de serviço e a entrada se observem dentro de um período de vinte e quatro horas abonar-se-ão as percentagens seguintes de ajudas de custo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/05/10401/00010046.pdf))](https://files.diariodarepublica.pt/1s/1971/05/10401/00010046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/05/10401/00010046.pdf)
 
 3. Nas deslocações por dias sucessivos aplicam-se as percentagens referidas no número anterior nos dias da partida e do regresso, com as particularidades seguintes:
 
@@ -2946,14 +2983,14 @@ Dentro de noventa dias após a entrada em vigor deste Estatuto, as direcções d
 
 Além dos empregados das instituições de previdência referidos no artigo 1.º, ficam igualmente sujeitos a este Estatuto os empregados das instituições de previdência constituídas ao abrigo da [Lei n.º 1884](https://diariodarepublica.pt/dr/detalhe/lei/1884-1935-380290), de 16 de Março de 1935, enquanto subsistirem, bem como das suas federações e caixas de abono de família.
 
-**O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.**
+O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.
 
 Do ANEXO I ao ANEXO V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/05/10401/00010046.pdf))](https://files.diariodarepublica.pt/1s/1971/05/10401/00010046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/05/10401/00010046.pdf)
 
 Da Tabela A à Tabela I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/05/10401/00010046.pdf))](https://files.diariodarepublica.pt/1s/1971/05/10401/00010046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/05/10401/00010046.pdf)
 
-**O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.**
+O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.

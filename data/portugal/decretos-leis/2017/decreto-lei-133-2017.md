@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/10/20200/0573005732.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/133/2017/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2017-108323925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2040b61898be27fa19440efd61cdb77f676bc44cdd821aa1f4b005d9dfb26d69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a6a715372d6d7951b2f4bec9bc04a7134f67b5534bf8d87bedc9e691db68837
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Almada
-- Ordenamento do Território
-- Renovação Urbana
 - Domínio Privado do Estado
 - Domínio Público do Estado
-- Projeto de Investimento
-- Plano de Urbanização
 - Domínio Público Hídrico
+- Ordenamento do Território
+- Plano de Urbanização
+- Projeto de Investimento
+- Renovação Urbana
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/100/2008/06/16/p/dre
@@ -116,16 +116,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/66/2009/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/66/2009/08/07/p/dre
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:43Z'
   warnings: []
   errors: []
 ---
@@ -228,18 +272,18 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de setembro de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Marcos da Cunha e Lorena Perestrello de Vasconcellos - João Pedro Soeiro de Matos Fernandes - José Apolinário Nunes Portada.
 
-**Promulgado em 28 de setembro de 2017.**
+Promulgado em 28 de setembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 2 de outubro de 2017.**
+Referendado em 2 de outubro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se referem o n.º 1 do artigo 2.º e o n.º 1 do artigo 5.º)
 
 Planta da área a desafetar e das áreas a concessionar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/20200/0573005732.pdf))](https://files.diariodarepublica.pt/1s/2017/10/20200/0573005732.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/20200/0573005732.pdf)

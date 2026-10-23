@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/241-1978-425527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T05:36:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f9cda9a08daae701aed69b24a764bc9fea958bfaee33563898ab43cee8525de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f207ced177c175df5c90357c7d95ceaa81de66e72749e15e66a3f993e4acc5c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:36:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Nacional de Reabilitação
+- Representante do Governo
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:414588:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:36:20Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +99,7 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado da Presidência do Conselho de Ministros, o seguinte:
 
-###### Artigo 1.º O Conselho Nacional de Reabilitação passa a integrar os seguintes vogais:
+Artigo 1.º O Conselho Nacional de Reabilitação passa a integrar os seguintes vogais:
 
 1 - Representantes dos seguintes departamentos governativos:
 
@@ -124,6 +131,6 @@ m) Secretaria de Estado das Obras Públicas.
 
 3 - Um vogal em representação da Associação dos Deficientes das Forças Armadas (ADFA).
 
-###### Art. 2.º A presente portaria produz efeitos no dia seguinte à data da sua publicação.
+Art. 2.º A presente portaria produz efeitos no dia seguinte à data da sua publicação.
 
 Presidência do Conselho de Ministros, 17 de Abril de 1978. - O Secretário de Estado da Presidência do Conselho de Ministros, Antero Alves Monteiro Dinis.

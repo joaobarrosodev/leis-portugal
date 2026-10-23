@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06300/18601863.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/81/2007/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46c930dcda85da16b759be11bebdf5db82dc71ddf3ab893bb3c0665d34cb6a9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0775a53659dceae93f6ee0f3afebb3a38664b9af0a9bb8850541d56410087190
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério das Finanças e da Administração Pública
-- Pessoal Dirigente
 - Definição de Competências
 - Direcção Geral dos Impostos
 - Diretor Geral
+- Ministério das Finanças e da Administração Pública
 - Orgânica
+- Pessoal Dirigente
 - Subdirector Geral
 relationships:
 - type: amended_by
   target: pt:dre:243769:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:439170:por
+  label: "Alterado o art. 8º pelo DEC LEI.212/2008.07.11.2008.MFAP, DR.IS [217] de 07.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2008-439170
+  date: '2008-11-07'
+- type: amended_by
+  target: pt:dre:145590:por
+  label: "Extinta a Direcção-Geral dos Impostos (ex-Direcção Geral das Contribuições e Impostos, prevista no Dec Lei 49-B/76,\
+    \ de 20-Jan, redenominada pelo Dec Lei 158/96, de 20-Jan), pelo DEC LEI.117/2011.15.12.2011.MF, DR.IS [239] de 15.12.2011,\
+    \ que determina, nos termos dos art.s 30º e 31º, a fusão e integração das suas atribuições na Autoridade Tributária e\
+    \ Aduaneira.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2011-145590
+  date: '2011-12-15'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 8º do presente diploma, na redacção do Dec Lei 212/2008, de 07-Nov, pela LEI.64-B/2011.30.12.2011.AR,\
+    \ DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/205/2006/10/27/p/dre
   label: null
@@ -97,16 +116,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/557/1999/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/557/1999/12/17/p/dre
+- type: cites
+  target: pt:dre:545650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655311:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:145591:por
+  label: "Revogado o presente diploma, a partir de 01.01.2012, na redacção do Dec Lei 212/2008, de 07-Nov, pelo DEC LEI.118/2011.15.12.2011.MF,\
+    \ DR.IS [239] de 15.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-2011-145591
+  date: '2011-12-15'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:26Z'
   warnings: []
   errors: []
 ---
@@ -303,16 +348,16 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 8 de Março de 2007.**
+Promulgado em 8 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 9 de Março de 2007.**
+Referendado em 9 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o artigo 9.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06300/18601863.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06300/18601863.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06300/18601863.pdf)

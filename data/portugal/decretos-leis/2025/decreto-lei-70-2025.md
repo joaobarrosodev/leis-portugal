@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/70/2025/04/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2025-916268331
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 854158d14beb465dae1c0fa267409f8d020a64a57750e3c6f770067d53944313
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8500317c3be4165e76869a6df9fde01a86dbc5d356a90a85586a392647395681
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Crime
+- Administração Pública
 - Auditoria
+- Combate ao Crime
+- Comunicação de Irregularidades
 - Conselho de Prevenção da Corrupção
 - Corrupção
-- Combate ao Crime
+- Crime
 - Crime Tributário
-- Administração Pública
-- Fiscalização
-- Tribunal de Contas
-- Direito Penal
-- Trafico de Influencia
-- Comunicação de Irregularidades
 - Dados Abertos
+- Direito Penal
+- Fiscalização
 - Mecanismo Nacional Anticorrupção
+- Trafico de Influencia
+- Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:1159035453:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:109-E/2021
+  label: Altera, a partir de 29 de maio de 2025, os artigos 2.º, 4.º, 7.º, 8.º, 12.º, 13.º e 21.º, adita os artigos 9.º-A,
+    9.º-B, 9.º-C, 9.º-D, 13.º-A, 13.º-B, 13.º-C, 13.º-D, 13.º-E, 13.º-F, 13.º-G e 26.º-A e revoga as alíneas a), b), d) e
+    e) do artigo 8.º, os artigos 9.º, 10.º, 11.º, as alíneas g), h), i), j) e k) do n.º 1 do artigo 13.º e os artigos 14.º,
+    15.º, 16.º, 17.º, 18.º e 19.º do Decreto-Lei n.º 109-E/2021, de 9 de dezembro, Diário da República n.º 237/2021, 1º Suplemento,
+    Série I, que republica, em anexo
+  source: null
+  date: '2021-12-09'
 - type: cites
   target: celex:32014R0910
   label: null
@@ -138,20 +147,112 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/2019/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/2019/08/08/p/dre
+- type: cites
+  target: pt:dre:107791615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175659840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75177807:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32019L1937
   label: null
   source: null
 article_structure:
-  article_count: 100
+  article_count: 83
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:55Z'
   warnings: []
   errors: []
 ---
@@ -246,7 +347,9 @@ q) [...]
 
 4 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -256,7 +359,9 @@ q) [...]
 
 4 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -266,7 +371,9 @@ q) [...]
 
 4 - Sem prejuízo do segredo de justiça, devem ser remetidas ao MENAC cópias de todas as decisões de arquivamento, de acusação, de pronúncia ou de não pronúncia, sentenças absolutórias ou condenatórias respeitantes a factos enunciados na alínea g) do n.º 3 do artigo 2.º
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 [...]
 
@@ -284,7 +391,9 @@ f) [Anterior alínea c).]
 
 g) O Fiscal Único.
 
-###### Artigo 12.º — Competências do Conselho Consultivo
+Artigo 12.º
+
+Competências do Conselho Consultivo
 
 1 - [...]
 
@@ -302,7 +411,9 @@ e) [Anterior alínea b).]
 
 3 - [...]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -336,7 +447,9 @@ n) Um/a representante das organizações não governamentais que exerçam a sua 
 
 2 - O/a Presidente do Conselho de Administração pode, por sua iniciativa ou sob proposta de algum dos membros do Conselho Consultivo, convidar a estar presentes nas reuniões deste Conselho, sem direito a voto, pessoas cujo contributo considere importante para as matérias a apreciar em cada reunião.
 
-###### Artigo 21.º — Vinculação e representação do Mecanismo Nacional Anticorrupção
+Artigo 21.º
+
+Vinculação e representação do Mecanismo Nacional Anticorrupção
 
 O MENAC é representado, designadamente em juízo ou na prática de atos jurídicos, pelo/a Presidente do Conselho de Administração ou por um/a vogal, se neste/a tiver sido delegada competência, ou por mandatários/as especialmente designados/as por aquele Conselho.»
 
@@ -382,7 +495,9 @@ c) Assegurar a representação do MENAC e, a pedido do Governo, a representaçã
 
 4 - O/a Presidente é substituído/a nas suas faltas e impedimentos pelo/a vogal que for designado/a pelo Conselho de Administração.
 
-###### Artigo 9.º-B — Composição, designação, mandato do Conselho de Administração
+Artigo 9.º-B
+
+Composição, designação, mandato do Conselho de Administração
 
 1 - O Conselho de Administração do MENAC é composto por um presidente e dois vogais.
 
@@ -396,11 +511,15 @@ c) Assegurar a representação do MENAC e, a pedido do Governo, a representaçã
 
 6 - No caso previsto no número anterior, o exercício de funções em regime de substituição não deverá exceder o prazo máximo de 90 dias.
 
-###### Artigo 9.º-C — Funcionamento do Conselho de Administração
+Artigo 9.º-C
+
+Funcionamento do Conselho de Administração
 
 O Conselho de Administração reúne ordinariamente uma vez por semana, e extraordinariamente sempre que convocado pelo/a Presidente ou pelos dois vogais.
 
-###### Artigo 9.º-D — Exclusividade e estatuto remuneratório dos membros do Conselho de Administração
+Artigo 9.º-D
+
+Exclusividade e estatuto remuneratório dos membros do Conselho de Administração
 
 1 - Os membros do Conselho de Administração do MENAC exercem as suas funções em regime de exclusividade.
 
@@ -414,7 +533,9 @@ O Conselho de Administração reúne ordinariamente uma vez por semana, e extrao
 
 6 - O tempo de serviço prestado no MENAC considera-se, para todos os efeitos, nomeadamente antiguidade e promoção, como prestado nas categorias e nas carreiras que os membros do Conselho de Administração ocupavam no momento da designação, mantendo os/as designados/as todos os direitos, subsídios, regalias sociais, remuneratórias e quaisquer outras correspondentes a essas categorias e carreiras, não podendo, pelo não exercício de atividade, ser prejudicados nas alterações de posicionamento remuneratório a que, entretanto, tenham adquirido direito, nem nos concursos a que se submetam.
 
-###### Artigo 13.º-A — Competências do Fiscal Único
+Artigo 13.º-A
+
+Competências do Fiscal Único
 
 1 - O Fiscal Único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do MENAC.
 
@@ -444,7 +565,9 @@ c) Promover a realização de reuniões com o Conselho de Administração para a
 
 d) Tomar ou propor as demais providências que considere indispensáveis.
 
-###### Artigo 13.º-B — Designação, mandato e remuneração do Fiscal Único
+Artigo 13.º-B
+
+Designação, mandato e remuneração do Fiscal Único
 
 1 - O Fiscal Único é designado por despacho do membro do Governo responsável pela área das finanças obrigatoriamente de entre revisores oficiais de contas ou sociedades de revisores oficiais de contas.
 
@@ -454,7 +577,9 @@ d) Tomar ou propor as demais providências que considere indispensáveis.
 
 4 - A remuneração do Fiscal Único é fixada no ato de designação, tendo como limite máximo ¼ do vencimento previsto para o/a Presidente do Conselho Administração, e é paga 12 vezes por ano.
 
-###### Artigo 13.º-C — Serviços
+Artigo 13.º-C
+
+Serviços
 
 1 - O MENAC integra os seguintes serviços:
 
@@ -466,7 +591,9 @@ c) Secretaria-Geral.
 
 2 - A organização e o funcionamento dos serviços são fixados pelo regulamento interno do MENAC.
 
-###### Artigo 13.º-D — Unidade de Planeamento, Prevenção e Informação
+Artigo 13.º-D
+
+Unidade de Planeamento, Prevenção e Informação
 
 1 - A Unidade de Planeamento, Prevenção e Informação é responsável pelo exercício das atribuições do MENAC em matéria de planeamento, prevenção e informação, competindo-lhe, designadamente:
 
@@ -492,7 +619,9 @@ j) Pronunciar-se sobre qualquer assunto da sua competência que lhe seja submeti
 
 2 - A Unidade de Planeamento, Prevenção e Informação é dirigida pelo/a vogal do Conselho de Administração que for por este designado.
 
-###### Artigo 13.º-E — Unidade de Fiscalização e Contraordenações
+Artigo 13.º-E
+
+Unidade de Fiscalização e Contraordenações
 
 1 - A Unidade de Fiscalização e Contraordenações é responsável pelo exercício das atribuições do MENAC em matéria de fiscalização e contraordenações, competindo-lhe, designadamente:
 
@@ -512,7 +641,9 @@ g) Pronunciar-se sobre qualquer assunto da sua competência que lhe seja submeti
 
 2 - A Unidade de Fiscalização e Contraordenações é dirigida pelo/a vogal do Conselho de Administração que for por este designado.
 
-###### Artigo 13.º-F — Secretaria-Geral
+Artigo 13.º-F
+
+Secretaria-Geral
 
 1 - A Secretaria-Geral é o serviço de apoio técnico e administrativo aos órgãos e serviços do MENAC.
 
@@ -548,7 +679,9 @@ k) Garantir a existência de processos permanentes de identificação e monitori
 
 6 - O regulamento interno pode prever que a Secretaria-Geral integre uma unidade orgânica flexível, dirigido por um/a coordenador/a, equiparado para efeitos remuneratórios a cargo de direção intermédia de 2.º grau, recrutado/a de entre trabalhadores do mapa de pessoal do MENAC, e ao/à qual serão aplicáveis as disposições referidas no n.º 4.
 
-###### Artigo 13.º-G — Pessoal
+Artigo 13.º-G
+
+Pessoal
 
 1 - O mapa de pessoal do MENAC é fixado em portaria dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da justiça, sob proposta do Conselho de Administração.
 
@@ -564,7 +697,9 @@ k) Garantir a existência de processos permanentes de identificação e monitori
 
 7 - A remuneração dos/as consultores/as corresponde ao nível remuneratório 47 da tabela remuneratória única dos/as trabalhadores/as que exercem funções públicas.
 
-###### Artigo 26.º-A — Dados pessoais
+Artigo 26.º-A
+
+Dados pessoais
 
 O tratamento dos dados pessoais para efeitos do presente decreto-lei observa a legislação aplicável em matéria de proteção de dados pessoais, designadamente, o Regulamento Geral de Proteção de Dados (RGPD), aprovado pelo [Regulamento (UE) 2016/679](http://data.europa.eu/eli/reg/2016/679/oj?locale=pt), do Parlamento Europeu e do Conselho, de 27 de abril de 2016, a [Lei n.º 26/2016](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), de 22 de agosto, na sua redação atual, a [Lei n.º 58/2019](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), de 8 de agosto e a [Lei n.º 59/2019](https://diariodarepublica.pt/dr/detalhe/lei/59-2019-123815983), de 8 de agosto.»
 
@@ -608,15 +743,15 @@ São revogadas as alíneas a), b), d) e e) do artigo 8.º, os artigos 9.º, 10.�
 
 Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Rita Alarcão Júdice.
 
-**Promulgado em 16 de abril de 2025.**
+Promulgado em 16 de abril de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 16 de abril de 2025.**
+Referendado em 16 de abril de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -1108,7 +1243,7 @@ O artigo 5.º do [Decreto-Lei n.º 276/2007](https://diariodarepublica.pt/dr/det
 
 4 - No âmbito do exercício das respetivas atribuições, os serviços de inspeção podem, nos termos do estabelecido nos protocolos a que se refere o número seguinte, aceder a informação constante das bases de dados das pessoas coletivas públicas, preferencialmente de forma direta e remota.
 
-5 - As condições de acesso e tratamento da informação prevista nos n.<sup>os</sup>3 e 4, nomeadamente as categorias dos funcionários autorizados a aceder à informação, a forma de comunicação ou de acesso, a natureza e categoria dos dados consultáveis e os termos da conservação da informação obtida são definidas mediante protocolos a celebrar entre as respetivas entidades, sujeitos a autorização da Comissão Nacional de Proteção de Dados.»
+5 - As condições de acesso e tratamento da informação prevista nos n.os3 e 4, nomeadamente as categorias dos funcionários autorizados a aceder à informação, a forma de comunicação ou de acesso, a natureza e categoria dos dados consultáveis e os termos da conservação da informação obtida são definidas mediante protocolos a celebrar entre as respetivas entidades, sujeitos a autorização da Comissão Nacional de Proteção de Dados.»
 
 ###### Artigo 26.º — Instalação do Mecanismo Nacional Anticorrupção
 
@@ -1228,7 +1363,7 @@ a) Elaboração, no mês de outubro, de relatório de avaliação intercalar nas
 
 b) Elaboração, no mês de abril do ano seguinte a que respeita a execução, de relatório de avaliação anual, contendo nomeadamente a quantificação do grau de implementação das medidas preventivas e corretivas identificadas, bem como a previsão da sua plena implementação.
 
-5 - O PPR é revisto a cada três anos ou sempre que se opere uma alteração nas atribuições ou na estrutura orgânica ou societária da entidade que justifique a revisão dos elementos referidos nos n.<sup>os</sup>1 ou 2.
+5 - O PPR é revisto a cada três anos ou sempre que se opere uma alteração nas atribuições ou na estrutura orgânica ou societária da entidade que justifique a revisão dos elementos referidos nos n.os1 ou 2.
 
 6 - As entidades abrangidas asseguram a publicidade do PPR e dos relatórios previstos no n.º 3 aos seus trabalhadores, devendo fazê-lo através da intranet e na sua página oficial na Internet, caso as tenham, no prazo de 10 dias contados desde a sua implementação e respetivas revisões ou elaboração.
 
@@ -1236,7 +1371,7 @@ b) Elaboração, no mês de abril do ano seguinte a que respeita a execução, d
 
 8 - As entidades públicas abrangidas que não estejam sob direção, superintendência ou tutela de membro do Governo comunicam o PPR e os relatórios previstos no n.º 3 apenas ao MENAC, no prazo de 10 dias contados desde a sua implementação e respetivas revisões ou elaboração.
 
-9 - As comunicações previstas nos n.<sup>os</sup>7 e 8 são feitas através de plataforma eletrónica a criar para o efeito, gerida pelo MENAC.
+9 - As comunicações previstas nos n.os7 e 8 são feitas através de plataforma eletrónica a criar para o efeito, gerida pelo MENAC.
 
 ###### Artigo 7.º — Código de conduta
 
@@ -1254,7 +1389,7 @@ b) Elaboração, no mês de abril do ano seguinte a que respeita a execução, d
 
 7 - As entidades públicas abrangidas que não estejam sob direção, superintendência ou tutela de membro do Governo comunicam o seu código de conduta e o relatório previsto no n.º 3 apenas ao MENAC, no prazo de 10 dias contados desde a sua implementação e respetivas revisões ou elaboração.
 
-8 - As comunicações previstas nos n.<sup>os</sup>6 e 7 são feitas através de plataforma eletrónica a criar para o efeito, gerida pelo MENAC.
+8 - As comunicações previstas nos n.os6 e 7 são feitas através de plataforma eletrónica a criar para o efeito, gerida pelo MENAC.
 
 ###### Artigo 8.º — Canais de denúncia
 
@@ -1422,7 +1557,7 @@ d) Adesão a mecanismos de centralização de compras.
 
 1 - Sem prejuízo da responsabilidade civil, disciplinar ou financeira a que haja lugar, é punível como contraordenação:
 
-a) A não adoção ou implementação do PPR ou a adoção ou implementação de um PPR a que falte algum ou alguns dos elementos referidos nos n.<sup>os</sup>1 e 2 do artigo 6.º;
+a) A não adoção ou implementação do PPR ou a adoção ou implementação de um PPR a que falte algum ou alguns dos elementos referidos nos n.os1 e 2 do artigo 6.º;
 
 b) A não adoção de um código de conduta ou a adoção de um código de conduta que não considere as normas penais referentes à corrupção e às infrações conexas ou os riscos da exposição da entidade a estes crimes, nos termos do n.º 1 do artigo 7.º;
 
@@ -1442,7 +1577,7 @@ b) A não revisão do PPR nos termos do n.º 5 do artigo 6.º;
 
 c) A não publicitação do PPR e dos respetivos relatórios de controlo aos trabalhadores, nos termos do n.º 6 do artigo 6.º;
 
-d) A não comunicação do PPR ou dos respetivos relatórios de controlo nos termos dos n.<sup>os</sup>7 e 8 do artigo 6.º;
+d) A não comunicação do PPR ou dos respetivos relatórios de controlo nos termos dos n.os7 e 8 do artigo 6.º;
 
 e) A não elaboração do relatório previsto no n.º 3 do artigo 7.º ou a elaboração do relatório sem identificação de algum ou alguns dos elementos previstos nesse número;
 
@@ -1450,7 +1585,7 @@ f) A não revisão do código de conduta, nos termos do n.º 4 do artigo 7.º;
 
 g) A não publicitação do código de conduta aos trabalhadores, nos termos do n.º 5 do artigo 7.º;
 
-h) A não comunicação do código de ética e dos pertinentes relatórios nos termos dos n.<sup>os</sup>6 e 7 do artigo 7.º
+h) A não comunicação do código de ética e dos pertinentes relatórios nos termos dos n.os6 e 7 do artigo 7.º
 
 4 - As contraordenações referidas no número anterior são punidas com coima:
 
@@ -1508,7 +1643,7 @@ b) Pelo pagamento das coimas aplicadas por contraordenações praticadas por fac
 
 ###### Artigo 25.º — Notificações
 
-1 - As notificações são efetuadas por carta registada, sem prejuízo do disposto nos n.<sup>os</sup>3 e 10.
+1 - As notificações são efetuadas por carta registada, sem prejuízo do disposto nos n.os3 e 10.
 
 2 - As notificações referidas no número anterior presumem-se feitas no terceiro dia posterior ao do registo ou no primeiro dia útil seguinte, quando aquele não o seja, devendo a cominação constar do ato de notificação.
 
@@ -1538,7 +1673,7 @@ b) Pelo pagamento das coimas aplicadas por contraordenações praticadas por fac
 
 4 - Para os efeitos do número anterior, o arguido, sempre que arrolar testemunhas, fornece os elementos necessários à sua notificação, designadamente a morada e o respetivo código postal.
 
-5 - As notificações referidas nos números anteriores são feitas por carta registada com aviso de receção ou pessoalmente, se necessário através das autoridades policiais, aplicando-se às mesmas o disposto nos n.<sup>os</sup>4, 5 e 6 do artigo anterior.
+5 - As notificações referidas nos números anteriores são feitas por carta registada com aviso de receção ou pessoalmente, se necessário através das autoridades policiais, aplicando-se às mesmas o disposto nos n.os4, 5 e 6 do artigo anterior.
 
 ###### Artigo 27.º — Direito de audiência e defesa do arguido
 
@@ -1617,3 +1752,5 @@ Para os efeitos do artigo anterior, o MENAC ou as inspeções-gerais ou entidade
 2 - O disposto no presente regime não se aplica quando exista norma de direito da União Europeia ou de direito internacional que disponha em sentido diverso e seja aplicável a entidade pública.
 
 3 - O disposto no presente regime não prejudica os poderes de controlo e jurisdição do Tribunal de Contas sobre as matérias e entidades nele reguladas.
+
+118966121

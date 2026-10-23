@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/09/221a00/65546562.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/376/1999/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1999-558205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:11:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd84295b3323ec97ac96612a5f9fdcdd80c922798062019a4299b11d49c5cca2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11d5c05914be50d2253be3e90266b4e99975c1b539ca3b81695127a43ae04f82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:11:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,48 +66,48 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Fiscal
-- Gabinete de Auditoria Interna
+- Administração Geral Tributária
 - Autonomia Administrativa
 - Autonomia Financeira
-- Património
 - Centro de Estudos e Apoio às Políticas Tributárias
 - Centro de Estudos Fiscais
-- Pessoal Dirigente
-- Política Fiscal
+- Conselho Coordenador
+- Conselho Diretivo
 - Conselho Nacional de Fiscalidade
 - Conselho Superior Tributário
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Direcção Geral das Contribuições e Impostos
 - Direcção Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros
 - Direcção Geral dos Impostos
-- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
 - Diretor
 - Diretor Geral
 - Estatuto
-- Infracção Disciplinar
 - Extinção de Serviços
-- Administração Geral Tributária
-- Recrutamento de Pessoal
-- Secretário de Estado dos Assuntos Fiscais
-- Ministro das Finanças
-- Primeiro-ministro
-- Conselho Diretivo
+- Gabinete de Auditoria Interna
+- Gestão de Recursos Humanos
+- Infracção Disciplinar
 - Instituto de Formação Tributária
+- Ministro das Finanças
 - Núcleo de Estudos Aduaneiros
 - Orgânica
-- Conselho Coordenador
+- Património
 - Pessoa Colectiva de Direito Público
+- Pessoal Dirigente
+- Política Fiscal
 - Presidente
+- Primeiro-ministro
 - Receita Fiscal
+- Recrutamento de Pessoal
 - Regime de Pessoal
 - Regime Jurídico
 - Remuneração
 - Responsabilidade Civil
 - Responsabilidade Criminal
+- Secretário de Estado dos Assuntos Fiscais
 - Segredo Profissional
 - Segurança Social
 - Serviço de Auditoria Interna
 - Serviço de Planeamento Estratégico dos Sistemas de Informação
-- Direcção Geral das Contribuições e Impostos
-- Gestão de Recursos Humanos
 - Transferência de Pessoal
 - Transferência de Serviços
 - Transferência de Verbas
@@ -117,6 +117,19 @@ relationships:
   target: pt:dre:448153:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:368070:por
+  label: "Mantidos integrados os serviços extintos pelo nº 1 do art. 30º nas estruturas orgânicas das respectivas direcções-gerais,\
+    \ até 1 de Maio de 2000, e alterado o art. 33º (relativo à entrada em vigor do presente diploma) pela LEI.176-A/99.1999.12.30.AR\
+    \ DR.IS-A [302]Supl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/176-a-1999-368070
+  date: '1999-12-30'
+- type: amended_by
+  target: pt:dre:448153:por
+  label: "Extinta a Administração-Geral Tributária nos termos do art. 16º e revogado pelo DEC LEI.262/2002.2002.11.25.MF,\
+    \ DR.IS-A [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/262-2002-448153
+  date: '2002-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/158/1996/09/03/p/dre
   label: null
@@ -129,16 +142,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
+- type: cites
+  target: pt:dre:150926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
 article_structure:
   article_count: 33
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:11:27Z'
   warnings: []
   errors: []
 ---
@@ -599,12 +624,12 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 2000, salvo as normas l
 
 Visto e aprovado em Conselho de Ministros de 24 de Junho de 1999. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Fausto de Sousa Correia.
 
-**Promulgado em 7 de Setembro de 1999.**
+Promulgado em 7 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Setembro de 1999.**
+Referendado em 9 de Setembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

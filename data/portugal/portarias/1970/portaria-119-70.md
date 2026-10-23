@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/119-1970-228074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bfa1c1192c404ee11db2b65c9e944851d5c437d6fe4e8e4f263a11e13f6a6fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35c6cad494908ac032aec2f41b626409c6d98b1d49813712f1b73ddf98fccc70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,28 @@ relationships:
   target: pt:dre:397697:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:180424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:33Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +102,7 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º III da base LXXXIII da Lei Orgânica do Ultramar Português, que seja aplicado às províncias ultramarinas o [Decreto n.º 49205](https://diariodarepublica.pt/dr/detalhe/decreto/49205-1969-198681), de 25 de Agosto de 1969, com as alterações seguintes:
 
-###### Art. 4.º - 1. O Ministro do Ultramar poderá autorizar que, mediante prestação de provas, os estágios a realizar em escolas das províncias ultramarinas sejam frequentados por candidatos titulares de habilitações académicas que, embora diversas das exigidas pelo artigo anterior, possuam nível apropriado e sejam, para o efeito, declaradas suficientes pelo Ministério da Educação Nacional.
+Art. 4.º - 1. O Ministro do Ultramar poderá autorizar que, mediante prestação de provas, os estágios a realizar em escolas das províncias ultramarinas sejam frequentados por candidatos titulares de habilitações académicas que, embora diversas das exigidas pelo artigo anterior, possuam nível apropriado e sejam, para o efeito, declaradas suficientes pelo Ministério da Educação Nacional.
 
 2. As provas a prestar serão indicadas em parecer da Junta Nacional da Educação e incidirão sobre as disciplinas do grupo em causa não compreendidas ou insuficientemente contempladas no curso ou habilitação académica que o interessado possuir.
 
@@ -100,9 +112,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ...
 
-###### Art. 6.º Os estágios efectuam-se nas escolas para esse efeito designadas por despacho ministerial e o número de estagiários de um e de outro sexo a admitir anualmente em cada grupo e em cada escola é também fixado, ouvido o Governo da província, mediante proposta do director-geral de Educação, por despacho ministerial, publicando-se no Boletim Oficial da província respectiva, durante a primeira quinzena de Julho, o correspondente aviso.
+Art. 6.º Os estágios efectuam-se nas escolas para esse efeito designadas por despacho ministerial e o número de estagiários de um e de outro sexo a admitir anualmente em cada grupo e em cada escola é também fixado, ouvido o Governo da província, mediante proposta do director-geral de Educação, por despacho ministerial, publicando-se no Boletim Oficial da província respectiva, durante a primeira quinzena de Julho, o correspondente aviso.
 
-###### Art. 7.º - 1. ...
+Art. 7.º - 1. ...
 
 2. Na graduação dos candidatos considerar-se-ão, sucessivamente, como razões de preferência:
 
@@ -120,7 +132,7 @@ d) Aptidão documentada no processo curricular, quando este exista.
 
 Competirá a este júri apreciar a preferência expressa na alínea d) e estabelecer a graduação definitiva dos candidatos.
 
-###### Art. 68.º - 1. A admissão será requerida ao governador-geral pelos candidatos, até 31 de Julho.
+Art. 68.º - 1. A admissão será requerida ao governador-geral pelos candidatos, até 31 de Julho.
 
 2. ...
 
@@ -150,9 +162,9 @@ i) Pelo processo curricular, quando exista.
 
 7. Os candidatos que sejam professores contratados não necessitam de apresentar os documentos a que se refere o presente artigo, se já constarem dos seus processos individuais, devendo, no entanto, juntar cópia autêntica do seu registo biográfico.
 
-###### Art. 9.º Os candidatos que satisfaçam as condições legais serão submetidos à junta provincial de saúde.
+Art. 9.º Os candidatos que satisfaçam as condições legais serão submetidos à junta provincial de saúde.
 
-###### Art. 10.º - 1. À junta compete verificar:
+Art. 10.º - 1. À junta compete verificar:
 
 a) Se o concorrente sofre de moléstia contagiosa, especialmente de tuberculose contagiosa ou evolutiva, ou tem deformidade ou deficiência física que prejudique o exercício do magistério;
 
@@ -164,7 +176,7 @@ b) Se possui as condições físicas e a sanidade e equilíbrio mentais que aque
 
 4. Das decisões da junta provincial de saúde cabe recurso para a Junta de Saúde do Ultramar.
 
-###### Art. 11.º - 1. Até ao dia 15 de Agosto a Direcção dos Serviços de Educação fará publicar no Boletim Oficial a lista dos candidatos admitidos em cada grupo e em cada escola, de acordo com o aviso a que se refere o artigo 6.º
+Art. 11.º - 1. Até ao dia 15 de Agosto a Direcção dos Serviços de Educação fará publicar no Boletim Oficial a lista dos candidatos admitidos em cada grupo e em cada escola, de acordo com o aviso a que se refere o artigo 6.º
 
 ...
 
@@ -172,17 +184,17 @@ b) Se possui as condições físicas e a sanidade e equilíbrio mentais que aque
 
 ...
 
-###### Art. 12.º Se, expirado o prazo estabelecido no n.º 2 do artigo anterior, algum ou alguns dos candidatos com direito à matrícula a não tiverem efectuado, cumpre às escolas informar do facto, no dia imediato, a Direcção dos Serviços, que, em sua substituição, convocará para o estágio igual número de candidatos do respectivo grupo ainda não admitidos, pela ordem da graduação a que se refere o artigo 7.º
+Art. 12.º Se, expirado o prazo estabelecido no n.º 2 do artigo anterior, algum ou alguns dos candidatos com direito à matrícula a não tiverem efectuado, cumpre às escolas informar do facto, no dia imediato, a Direcção dos Serviços, que, em sua substituição, convocará para o estágio igual número de candidatos do respectivo grupo ainda não admitidos, pela ordem da graduação a que se refere o artigo 7.º
 
-###### Art. 13.º ...
+Art. 13.º ...
 
 3. Os livros a que se refere este artigo serão fornecidos pela Direcção dos Serviços de Educação e aí arquivados depois do completamente preenchidos.
 
 ...
 
-###### Art. 15.º A orientação superior dos estágios é da competência do inspector provincial de Educação. Nos diferentes grupos os estágios são dirigidos pelos respectivos professores metodólogos, cuja acção no âmbito de cada escola ao director cabe coordenar.
+Art. 15.º A orientação superior dos estágios é da competência do inspector provincial de Educação. Nos diferentes grupos os estágios são dirigidos pelos respectivos professores metodólogos, cuja acção no âmbito de cada escola ao director cabe coordenar.
 
-###### Art. 16.º - 1. Os professores metodólogos necessários à eficiente direcção dos estágios são nomeados em comissão pelo Ministro do Ultramar, de entre os professores efectivos do respectivo grupo do ensino técnico, sob proposta do director-geral de Educação, ouvidos os governos das províncias.
+Art. 16.º - 1. Os professores metodólogos necessários à eficiente direcção dos estágios são nomeados em comissão pelo Ministro do Ultramar, de entre os professores efectivos do respectivo grupo do ensino técnico, sob proposta do director-geral de Educação, ouvidos os governos das províncias.
 
 2. O Ministro do Ultramar poderá também designar para o exercício das funções de metodólogo professores dois quadros da metrópole que tenham sido nomeados, em comissão, nos termos do § 1.º do artigo 3.º do [Decreto-Lei n.º 43913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43913-1961-180424), de 14 de Setembro de 1961, para o desempenho de funções docentes nas províncias ultramarinas.
 
@@ -198,11 +210,11 @@ b) Se possui as condições físicas e a sanidade e equilíbrio mentais que aque
 
 ...
 
-###### Art. 20.º - 1. Os estagiários gozarão do estatuto de professores contratados atados ou eventuais.
+Art. 20.º - 1. Os estagiários gozarão do estatuto de professores contratados atados ou eventuais.
 
 ...
 
-###### Art. 21.º - 1. Não podem beneficiar do disposto no artigo anterior os estagiários que não tenham sido aprovados na primeira frequência, salvo se a repetição for motivada pela prestação de serviço militar obrigatório ou por doença verificada pela junta provincial de saúde a que se refere o artigo 9.º
+Art. 21.º - 1. Não podem beneficiar do disposto no artigo anterior os estagiários que não tenham sido aprovados na primeira frequência, salvo se a repetição for motivada pela prestação de serviço militar obrigatório ou por doença verificada pela junta provincial de saúde a que se refere o artigo 9.º
 
 2. Os estagiários repetentes que forem contratados, se a repetição não for justificada pelas circunstâncias referidas no número anterior, serão notificados, nos termos e prazo estabelecidos na lei, da denúncia do contrato para o seu termo.
 
@@ -210,15 +222,15 @@ b) Se possui as condições físicas e a sanidade e equilíbrio mentais que aque
 
 ...
 
-###### Art. 25.º Enquanto não funcionarem residências próprias para os estagiários ou a capacidade das mesmas se revelar insuficiente, poderá pelas entidades competente ser autorizado o respectivo alojamento em residências universitárias.
+Art. 25.º Enquanto não funcionarem residências próprias para os estagiários ou a capacidade das mesmas se revelar insuficiente, poderá pelas entidades competente ser autorizado o respectivo alojamento em residências universitárias.
 
-###### Art. 26.º ...
+Art. 26.º ...
 
 3. As classificações dos estagiários aprovados serão anunciadas na escola e comunicadas à Direcção dos Serviços de Educação.
 
 ...
 
-###### Art. 30.º - 1. A admissão ao Exame de Estado nos termos do artigo anterior é requerida ao director provincial dos Serviços de Educação de 1 a 15 de Setembro de cada ano, e os candidatos juntarão ao requerimento documentos comprovativos:
+Art. 30.º - 1. A admissão ao Exame de Estado nos termos do artigo anterior é requerida ao director provincial dos Serviços de Educação de 1 a 15 de Setembro de cada ano, e os candidatos juntarão ao requerimento documentos comprovativos:
 
 a) Da habilitação legalmente exigida para a matrícula no estágio do grupo a que respeitar o exame;
 
@@ -228,35 +240,35 @@ b) Da actividade profissional exercida e da qualificação que lhe haja sido atr
 
 3. Um dos exemplares da dissertação será arquivado na Direcção dos Serviços de Educação.
 
-###### Art. 31.º ...
+Art. 31.º ...
 
 3. A decisão do júri será comunicada ao ca candidato até 15 de Janeiro.
 
 ...
 
-###### Art. 33.º - 1. Os júris dos Exames de Estado são nomeados por portaria e constituídos por cinco membros: inspector provincial de Educação ou um seu representante, que presidirá, os professores metodólogos do grupo e, se necessário, outros professores também do grupo.
+Art. 33.º - 1. Os júris dos Exames de Estado são nomeados por portaria e constituídos por cinco membros: inspector provincial de Educação ou um seu representante, que presidirá, os professores metodólogos do grupo e, se necessário, outros professores também do grupo.
 
 2. O Ministro do Ultramar pode determinar que tenham constituição especial os júris dos Exames de Estado requeridos nos termos do artigo 29.º
 
 ...
 
-###### Art. 38.º - 1. De todas as sessões dois júris, cujo serviço é rigorosamente confidencial, se lavrarão actas, que, depois de aprovadas, serão assinadas e no final enviadas à Direcção dos Serviços de Educação.
+Art. 38.º - 1. De todas as sessões dois júris, cujo serviço é rigorosamente confidencial, se lavrarão actas, que, depois de aprovadas, serão assinadas e no final enviadas à Direcção dos Serviços de Educação.
 
 2. A Direcção de Serviços fará publicar no Boletim Oficial as classificações obtidas no Exame de Estado pelos candidatos aprovados e as correspondentes classificações profissionais.
 
-###### Art. 39.º Cada um dos membros dos júris dos Exames de Estado tem direito à gratificação que for fixada pelos órgãos legislativos locais e ao abono das despesas de transporte em 1.ª classe e de ajudas de custo, quando tiverem lugar.
+Art. 39.º Cada um dos membros dos júris dos Exames de Estado tem direito à gratificação que for fixada pelos órgãos legislativos locais e ao abono das despesas de transporte em 1.ª classe e de ajudas de custo, quando tiverem lugar.
 
-###### Art. 40.º - 1. A aprovação no Exame de Estado confere direito à passagem, pela Direcção de Serviços, do correspondente diploma, que será assinado pelo chefe de departamento do ensino técnico profissional e médio e pelo director de Serviços, no qual será inscrita a classificação profissional do interessado.
+Art. 40.º - 1. A aprovação no Exame de Estado confere direito à passagem, pela Direcção de Serviços, do correspondente diploma, que será assinado pelo chefe de departamento do ensino técnico profissional e médio e pelo director de Serviços, no qual será inscrita a classificação profissional do interessado.
 
 2. ...
 
-###### Art. 43.º - 1. ...
+Art. 43.º - 1. ...
 
 2. Os futuros provimentos em lugares vagos dos grupos 2.º, 4.º 8.º e 11.º do quadro comum do ensino técnico profissional do ultramar serão distribuídos, mediante despacho ministerial, pelos respectivos sub-grupos, em correspondência com as necessidades do ensino.
 
 ...
 
-###### Art. 46.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro do Ultramar.
+Art. 46.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro do Ultramar.
 
 Ministério do Ultramar, 24 de Fevereiro de 1970. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 

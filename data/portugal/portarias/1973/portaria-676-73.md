@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/676-1973-413050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T04:12:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb870fb3b33669d245cd556a1eee5bbf21dad077003b31364fb033a5e57bec5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bbaa4dea484db94d112f93446d4a0966c310baaf06d3d3f0096b15ca287bcd7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:12:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,30 @@ relationships:
   target: pt:dre:335751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:335751:por
+  label: Alteradas as lotações, completa e normal, dos navios-patrulhas da classe Cacine pelo(a) Portaria n.º 358/75 - Diário
+    do Governo n.º 133/1975, Série I de 1975-06-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/358-1975-335751
+  date: '1975-06-11'
+- type: cites
+  target: pt:dre:263745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590162:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:12:22Z'
   warnings: []
   errors: []
 ---
@@ -94,12 +108,12 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que as lota�
 
 Ministério da Marinha, 18 de Setembro de 1973. - O Ministro da Marinha, Manuel Pereira Crespo.
 
-## Anexo a que se refere a Portaria n.º 676/73, de 9 de Outubro
+Anexo a que se refere a Portaria n.º 676/73, de 9 de Outubro
 
 Lotações completa e normal dos navios-patrulhas da classe «Cacine»
 
 Oficiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23600/17731774.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23600/17731774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23600/17731774.pdf)
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

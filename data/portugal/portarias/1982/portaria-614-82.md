@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/614-1982-395321
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T07:20:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 218b1bd1984f209ee5fee81a7ca85780d902621b59ca4a4b10dca8cf00e9e8ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d76485304046f017fcbd8e65a66921dd5878d56a609712d2434681f86be7642
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:20:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Certificado de Qualidade
+- Produção Vegetal
+- Regulamento para a Aplicação do Esquema de Certificação de Sementes
+- Regulamento Técnico para Sementes de Milho
+- Semente
 relationships:
 - type: amended_by
   target: pt:dre:660290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:660290:por
+  label: "Alterado o nº 4 do Cap. II e o nº 13 do Cap. VI do anexo I, pela PORT.19/84.1984.01.12.MAFA, DR.IS [10]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19-1984-660290
+  date: '1984-01-12'
+- type: cites
+  target: pt:dre:395325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563412:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADO O ANEXO I PELA PORTARIA 159/92, PUBLICADA NO DR.IS-B, 60.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-03-13'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADOS OS ANEXOS 2 E 3, PELA PORTARIA 288/94, PUBLICADA NO DR.IS-B, 111.\0-B, 111."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-13'
 article_structure:
   article_count: 0
   section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:20:51Z'
   warnings: []
   errors: []
 ---
@@ -495,11 +527,11 @@ Arroz ... 5
 
 5 - Nas inspecções de campo será seguida a metodologia da OCDE, sendo o número mínimo e as oportunidades das inspecções os apresentados no quadro que segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
 
 6 - As distâncias mínimas de isolamento, em metros, a observar nos campos de multiplicação são:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
 
 Sendo a classificação a atribuir:
 
@@ -521,21 +553,21 @@ Sendo a classificação a atribuir:
 
 8 - Para assegurar a pureza varietal da semente a produzir, os limites máximos de impurezas permitidos na multiplicação são:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
 
 9 - A classificação a atribuir ao campo de multiplicação quanto à pureza varietal será:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
 
 10 - À presença de plantas de outras espécies cujas sementes são de difícil separação nas operações de limpeza e calibragem deve ser dada especial atenção, pelo que serão anotadas as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
 
 11 - A classificação a atribuir aos campos de multiplicação, quanto à pureza da espécie, será:
 
 a) Para a presença de outros cereais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
 
 b) Para a presença das restantes espécies referidas no n.º 10:
 
@@ -551,11 +583,11 @@ b) Para a presença das restantes espécies referidas no n.º 10:
 
 13 - À presença de doenças que reduzem o valor de utilização das sementes deverá ser dada especial atenção, pelo que serão anotadas as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
 
 14 - A presença das doenças abaixo indicadas conduz à reprovação do campo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
 
 ### CAPÍTULO IV — Controle dos lotes de sementes produzidas
 
@@ -587,7 +619,7 @@ b) O produtor obtiver a indispensável autorização da DSCQS.
 
 19 - Para que sejam emitidos certificados é indispensável que os lotes de sementes submetidos à certificação satisfaçam todas as prescrições regulamentares e as sementes tenham as características definidas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
 
 ### CAPÍTULO VI — Disposições transitórias
 
@@ -685,13 +717,13 @@ c) Croquis de sementeira com diferenciação dos progenitores e localização da
 
 10 - O número mínimo e a oportunidade das inspecções de campo são apresentados no quadro que se segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
 
 11 - A metodologia a utilizar nas inspecções de campo será definida pela DSCQS.
 
 12 - As distâncias de isolamento, em metros, a observar nos campos de produção de sementes são:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
 
 13 - As distâncias de isolamento fixadas no n.º 12 poderão ser reduzidas nas seguintes condições:
 
@@ -743,15 +775,15 @@ c) Após a colheita e antes do descarolamento, as espigas fora do tipo e as aber
 
 18 - Os campos de produção de sementes, após os períodos referidos no n.º 17, não poderão apresentar percentagens de impurezas superiores às indicadas no quadro que se segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
 
 A classificação a atribuir será:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
 
 19 - Os campos de produção de semente de variedades híbridas não poderão apresentar, durante todo o período de floração, um número de plantas do progenitor feminino a disseminar ou que tenham disseminado pólen que exceda as seguintes percentagens:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
 
 20 - Considera-se como tendo disseminado pólen, para aplicação do n.º 19, as plantas que apresentem no total 5 cm ou mais de ráquis com anteras, emergindo das glumas. Para a determinação desse total considera-se não só o ráquis principal como as suas ramificações, tanto no caule principal como nos caules secundários (filhos).
 
@@ -759,7 +791,7 @@ A classificação a atribuir será:
 
 22 - A classificação a atribuir ao campo de produção de sementes quanto ao desbandeiramento será (em função da percentagem de plantas do progenitor feminino a disseminar ou que tenham disseminado pólen):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
 
 23 - À polinização será atribuída a seguinte classificação:
 
@@ -779,7 +811,7 @@ A classificação a atribuir será:
 
 25 - Como a presença de doenças ou pragas reduz o valor de utilização das sementes, aos campos de produção será atribuída a seguinte classificação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17711782.pdf)
 
 26 - Quando a um campo de produção de sementes for atribuída a classificação de 1 quanto ao estado sanitário, este deverá ser aprovado condicionalmente, aguardando que o resultado da análise de pureza a efectuar ao lote de semente produzido permita tomar uma decisão definitiva.
 

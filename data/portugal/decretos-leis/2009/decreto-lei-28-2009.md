@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/01/01900/0057100578.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/28/2009/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2009-602981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1612e608e8bc8450ec987c104fdd417ebd5c6680533b7bf7a6df40116f9fc8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7106ed4161b5690fce838dbb22c6eaecf4432f1e1b82456fe2ad7126d905940c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,18 +72,18 @@ subjects:
 - Comarca da Grande Lisboa Noroeste
 - Comarca do Alentejo Litoral
 - Comarca do Baixo Vouga
+- Comarca Piloto
 - Definição de Competências
 - Extinção de Serviços
 - Férias Judiciais
-- Pessoal de Justiça
+- Gabinete de Apoio aos Magistrados do Ministério Público
 - Gabinete de Apoio aos Magistrados Judiciais
 - Horário de Funcionamento
 - Lei de Organização e Funcionamento dos Tribunais Judiciais
 - Magistrado do Ministério Público
-- Gabinete de Apoio aos Magistrados do Ministério Público
 - Magistrado Judicial
-- Comarca Piloto
 - Organização Judiciária
+- Pessoal de Justiça
 - Secretaria Judicial
 - Substituição de Funções
 - Tribunal Judicial
@@ -92,6 +92,13 @@ relationships:
   target: pt:dre:571934:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571934:por
+  label: "Alterados, a partir de 17.04.2014, os arts 388.º e 389.º, do Código dos Valores Mobiliários, aprovado pelo Dec.\
+    \ Lei 486/99, de 13-nov, na redação do presente diploma, pelo DEC LEI.40/2014.18.03.2014.MF, DR.IS [54] de 18.03.2014\0\
+    4\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2014-571934
+  date: '2014-03-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/186-a/1999/05/31/p/dre
   label: null
@@ -116,16 +123,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/52/2008/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/52/2008/08/28/p/dre
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692253:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:499514:por
+  label: Revogado pela LEI.62/2013.26.08.2013.AR, DR.IS [163] de 26.08.2013, nos termos do disposto no nº 1 do seu art. 188º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/62-2013-499514
+  date: '2013-08-26'
 article_structure:
   article_count: 51
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 22
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:40Z'
   warnings: []
   errors: []
 ---
@@ -414,7 +450,9 @@ e) Passar certificados de registo de denúncia;
 
 f) Outras que lhe sejam atribuídas por lei ou definidas pelo magistrado do Ministério Público coordenador.
 
-###### Artigo 27.º — Secção central única
+###### Artigo 27.º
+
+#### Secção central única
 
 Onde a natureza e volume processual o aconselharem, existirá uma secção central comum para os serviços judiciais e para os serviços do Ministério Público, com as competências previstas nos artigos 24.º e 26.º
 
@@ -628,15 +666,15 @@ O presente decreto-lei será revisto até 31 de Agosto de 2010.
 
 Visto e aprovado em Conselho de Ministros de 27 de Novembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa.
 
-**Promulgado em 21 de Janeiro de 2009.**
+Promulgado em 21 de Janeiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Janeiro de 2009.**
+Referendado em 26 de Janeiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — MAPA I
 

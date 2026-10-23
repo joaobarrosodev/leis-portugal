@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05
   number: '234'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 136-(11) a 136-(42)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23403/0001100042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/114-d/2023/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-d-2023-225283593
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d75855dce84e2df5cffbee9862ef6507c4557b0670a110f7917d5623e58666c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a9e36cbfddba4980d9d570ca86625781ee6ec56e41d4ed131d1be2e03e1a50f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,25 @@ subjects:
 - Regulamento CE
 - Regulamento Emolumentar dos Registos e Notariado
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:322-A/2001
+  label: Altera, a partir de 4 de janeiro de 2024, os artigos 15.º e 22.º e revoga o n.º 2.12 do artigo 22.º do Regulamento
+    Emolumentar dos Registos e Notariado, aprovado em anexo ao Decreto-Lei n.º 322-A/2001, de 14 de dezembro, Diário da República
+    n.º 288/2001, 1º Suplemento, Série I-A
+  source: null
+  date: '2001-12-14'
+- type: amends
+  target: pt:numero:lei:19/2009
+  label: Adita, a partir de 4 de janeiro de 2024, os artigos 26.º-A e 26.º-B e a secção VI, com a epígrafe «Disposições complementares»,
+    composta pelos referidos artigos, à Lei n.º 19/2009, de 12 de maio, Diário da República n.º 91/2009, Série I de
+  source: null
+  date: '2009-05-12'
+- type: amends
+  target: pt:numero:decreto-lei:24/2019
+  label: Altera, a partir de 4 de janeiro de 2024, os artigos 6.º, 7.º e 8.º do Decreto-Lei n.º 24/2019, de 1 de fevereiro,
+    Diário da República n.º 23/2019, Série I
+  source: null
+  date: '2019-02-01'
 - type: cites
   target: celex:32002L0047
   label: null
@@ -145,6 +164,34 @@ relationships:
   target: eli:http://data.europa.eu/eli/d
   label: null
   source: http://data.europa.eu/eli/d
+- type: cites
+  target: pt:dre:118950630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222583130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608246:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32012L0017
   label: null
@@ -158,15 +205,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 66
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:50Z'
   warnings: []
   errors: []
 ---
@@ -247,7 +294,9 @@ Os artigos 28.º, 35.º, 87.º, 94.º, 95.º, 96.º, 97.º, 98.º, 99.º, 100.º
 
 7 - O disposto no presente artigo não se aplica no âmbito de instrumentos, poderes e mecanismos de resolução.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...].
 
@@ -261,7 +310,9 @@ a) No âmbito de instrumentos, poderes e mecanismos de resolução;
 
 b) Durante a pendência de qualquer processo de reestruturação de empresas previsto no Código da Insolvência e da Recuperação de Empresas.
 
-###### Artigo 87.º — [...]
+Artigo 87.º
+
+[...]
 
 1 - [...].
 
@@ -279,7 +330,9 @@ a) No âmbito de instrumentos, poderes e mecanismos de resolução;
 
 b) Durante a pendência de qualquer processo de reestruturação de empresas previsto no Código da Insolvência e da Recuperação de Empresas.
 
-###### Artigo 94.º — [...]
+Artigo 94.º
+
+[...]
 
 1 - [...].
 
@@ -291,7 +344,9 @@ a) No âmbito de instrumentos, poderes e mecanismos de resolução;
 
 b) Durante a pendência de qualquer processo de reestruturação de empresas previsto no Código da Insolvência e da Recuperação de Empresas.
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - [...].
 
@@ -305,7 +360,9 @@ b) Durante a pendência de qualquer processo de reestruturação de empresas pre
 
 6 - O disposto no presente artigo não se aplica no âmbito de instrumentos, poderes e mecanismos de resolução.
 
-###### Artigo 96.º — [...]
+Artigo 96.º
+
+[...]
 
 1 - [...].
 
@@ -319,7 +376,9 @@ a) No âmbito de instrumentos, poderes e mecanismos de resolução;
 
 b) Durante a pendência de qualquer processo de reestruturação de empresas previsto no Código da Insolvência e da Recuperação de Empresas.
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - [...].
 
@@ -331,7 +390,9 @@ b) Durante a pendência de qualquer processo de reestruturação de empresas pre
 
 5 - [...].
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - [...]:
 
@@ -367,7 +428,9 @@ m) [...].
 
 5 - [...].
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - [...].
 
@@ -391,7 +454,9 @@ d) A descrição das dificuldades especiais de avaliação eventualmente encontr
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - [...].
 
@@ -411,11 +476,15 @@ c) A data designada para a reunião da assembleia geral.
 
 6 - [...].
 
-###### Artigo 101.º-A — [...]
+Artigo 101.º-A
+
+[...]
 
 No prazo de três meses após a publicação do registo do projeto, os credores das sociedades participantes cujos créditos sejam anteriores a essa publicação podem deduzir oposição judicial à fusão, com fundamento no prejuízo que dela derive para a realização dos seus direitos, desde que tenham solicitado à sociedade a satisfação do seu crédito ou a prestação de garantia adequada, há pelo menos 15 dias, sem que o seu pedido tenha sido atendido.
 
-###### Artigo 117.º-A — [...]
+Artigo 117.º-A
+
+[...]
 
 1 - A fusão transfronteiriça realiza-se mediante a reunião numa só de duas ou mais sociedades, desde que uma das sociedades participantes na fusão tenha sede em Portugal e outra das sociedades participantes na fusão tenha sido constituída de acordo com a legislação de um Estado-Membro, nos termos da [Diretiva (UE) n.º 2017/1132](http://data.europa.eu/eli/dir/2017/1132/oj?locale=pt), do Parlamento Europeu e do Conselho, de 14 de junho de 2017, e tenha a sede estatutária, a administração central ou o estabelecimento principal no território da União Europeia.
 
@@ -431,13 +500,17 @@ b) Às sociedades que se encontrarem em liquidação e tiverem iniciado a distri
 
 c) Às sociedades que sejam objeto de instrumentos, poderes e mecanismos de resolução previstos no título IV da [Diretiva n.º 2014/59/UE](http://data.europa.eu/eli/dir/2014/59/oj?locale=pt), do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e nas correspondentes disposições da legislação que a transpôs para a ordem jurídica interna ou no título V do [Regulamento (UE) n.º 2021/23](http://data.europa.eu/eli/reg/2021/23/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de dezembro de 2020.
 
-###### Artigo 117.º-B — [...]
+Artigo 117.º-B
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - Para o efeito previsto no número anterior, as garantias prestadas aos credores por sociedade participante num processo de fusão transfronteiriça, nos termos do n.º 1 do artigo 101.º-B, estão sujeitas à condição de a fusão produzir efeitos nos termos do artigo 117.º-H.
 
-###### Artigo 117.º-C — Projeto comum e relatório de fusão transfronteiriça
+Artigo 117.º-C
+
+Projeto comum e relatório de fusão transfronteiriça
 
 1 - (Anterior proémio do corpo do artigo.)
 
@@ -487,7 +560,9 @@ c) De que forma os fatores previstos nas alíneas anteriores afetam as filiais d
 
 12 - O disposto nos números anteriores não prejudica o exercício pelos interessados dos respetivos direitos de informação e de consulta legalmente previstos.
 
-###### Artigo 117.º-D — Fiscalização pericial do projeto comum de fusão transfronteiriça
+Artigo 117.º-D
+
+Fiscalização pericial do projeto comum de fusão transfronteiriça
 
 1 - À fiscalização do projeto comum nas sociedades com sede em Portugal participantes numa fusão transfronteiriça aplica-se o disposto nos n.os 1, 4, 5 e 6 do artigo 99.º, com as especialidades previstas nos números seguintes.
 
@@ -499,7 +574,9 @@ c) De que forma os fatores previstos nas alíneas anteriores afetam as filiais d
 
 5 - Não é exigido o exame do projeto comum de fusão por revisor oficial de contas ou por sociedade de revisores, a que se refere o n.º 2, se todos os sócios e portadores de outros títulos que confiram direito de voto de todas as sociedades que participam na fusão o dispensarem.
 
-###### Artigo 117.º-F — Aprovação do projeto de fusão - Proteção dos sócios
+Artigo 117.º-F
+
+Aprovação do projeto de fusão - Proteção dos sócios
 
 1 - Devem ser aprovados pela assembleia geral de cada uma das sociedades participantes na fusão transfronteiriça, através de deliberação:
 
@@ -535,7 +612,9 @@ c) O incumprimento dos requisitos legais nas informações prestadas relativamen
 
 12 - O exercício dos direitos a que se referem os n.os 7 a 11 não impede a inscrição definitiva da fusão no registo comercial, com os efeitos previstos no artigo 117.º-H.
 
-###### Artigo 117.º-G — [...]
+Artigo 117.º-G
+
+[...]
 
 1 - [...].
 
@@ -567,7 +646,9 @@ b) Que, nos termos do direito nacional e numa avaliação caso a caso, a fusão 
 
 13 - (Anterior n.º 5.)
 
-###### Artigo 117.º-I — [...]
+Artigo 117.º-I
+
+[...]
 
 1 - O disposto na presente secção aplica-se, com as exceções estabelecidas nos números seguintes, à incorporação por uma sociedade de outra ou de outras de cujas quotas ou ações aquela seja a única titular, diretamente ou por pessoas que, direta ou indiretamente, detenham essas participações por conta dela mas em nome próprio, desde que a sociedade incorporante não atribua novas participações sociais no âmbito da fusão.
 
@@ -585,7 +666,9 @@ c) O relatório da administração destinado aos sócios e aos trabalhadores, pr
 
 d) O relatório do revisor ou das sociedades de revisores oficiais de contas, previsto no n.º 2 do artigo 117.º-D e no n.º 4 do artigo 99.º
 
-###### Artigo 347.º — [...]
+Artigo 347.º
+
+[...]
 
 1 - [...].
 
@@ -663,7 +746,9 @@ z) [...].
 
 3 - [...].
 
-###### Artigo 10.º-A — [...]
+Artigo 10.º-A
+
+[...]
 
 1 - [...]:
 
@@ -675,7 +760,9 @@ c) [...].
 
 2 - [...].
 
-###### Artigo 74.º-A — [...]
+Artigo 74.º-A
+
+[...]
 
 1 - [...].
 
@@ -719,7 +806,9 @@ c) [...].
 
 5 - [...].
 
-###### Artigo 7.º — Fusões, cisões e transformações transfronteiriças
+Artigo 7.º
+
+Fusões, cisões e transformações transfronteiriças
 
 1 - O registo comercial nacional notifica, através do Sistema de Interconexão, o registo competente do Estado-Membro de cada uma das sociedades participantes na fusão, na cisão ou na transformação transfronteiriça, com sede na União Europeia:
 
@@ -731,7 +820,9 @@ b) Da emissão do certificado prévio de fusão, de cisão ou de transformação
 
 3 - O registo comercial nacional, após a receção da notificação feita pelo registo competente do Estado-Membro, nos termos previstos no número anterior, procede oficiosamente ao registo da fusão, da cisão ou da transformação transfronteiriça na sociedade incorporada, cindida ou objeto da transformação, respetivamente, com sede em Portugal e, quando seja o caso, ao subsequente cancelamento oficioso da matrícula.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]:
 
@@ -803,7 +894,9 @@ i) [...].
 
 2 - [...].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
@@ -895,7 +988,9 @@ Participação dos trabalhadores na cisão e na transformação transfronteiriç
 
 O disposto nas secções anteriores é aplicável, com as necessárias adaptações, à cisão e à transformação transfronteiriças, realizadas nos termos dos artigos 129.º-A a 129.º-L e 140.º-B a 140.º-L, respetivamente, do Código das Sociedades Comerciais.
 
-###### Artigo 26.º-B — Informação e consulta dos trabalhadores
+Artigo 26.º-B
+
+Informação e consulta dos trabalhadores
 
 1 - Aos trabalhadores das sociedades objeto de fusão, de cisão ou de transformação transfronteiriça são assegurados os direitos à informação e à consulta relativamente aos respetivos projetos e documentos conexos, nos termos do Código do Trabalho e da [Lei n.º 96/2009](https://diariodarepublica.pt/dr/detalhe/lei/96-2009-489480), de 3 de setembro.
 
@@ -911,11 +1006,15 @@ Instrumentos, poderes e mecanismos de resolução
 
 O disposto na presente secção não se aplica no âmbito de instrumentos, poderes e mecanismos de resolução.
 
-###### Artigo 122.º-A — Responsabilidade emergente da cisão
+Artigo 122.º-A
+
+Responsabilidade emergente da cisão
 
 Os membros do órgão de administração de cada uma das sociedades participantes são solidariamente responsáveis pelos danos causados pela cisão à sociedade e aos seus sócios e credores, desde que, na verificação da situação patrimonial das sociedades e na conclusão da cisão, não tenham observado a diligência de um gestor criterioso e ordenado.
 
-###### Artigo 129.º-A — Noção e âmbito
+Artigo 129.º-A
+
+Noção e âmbito
 
 1 - A cisão transfronteiriça realiza-se mediante a divisão de uma ou mais sociedades, desde que uma das sociedades participantes na cisão tenha sede em Portugal e outra das sociedades participantes na cisão tenha sido constituída de acordo com a legislação de um Estado-Membro, nos termos da [Diretiva (UE) 2017/1132](http://data.europa.eu/eli/dir/2017/1132/oj?locale=pt), do Parlamento Europeu e do Conselho, de 14 de junho de 2017, e tenha a sede estatutária, a administração central ou o estabelecimento principal no território da União Europeia.
 
@@ -937,13 +1036,17 @@ b) Às sociedades que se encontrarem em liquidação e tiverem iniciado a distri
 
 c) Às sociedades que sejam objeto de instrumentos, poderes e mecanismos de resolução previstos no título IV da [Diretiva 2014/59/UE](http://data.europa.eu/eli/dir/2014/59/oj?locale=pt), do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e nas correspondentes disposições da legislação que a transpôs para a ordem jurídica interna ou no título V do [Regulamento (UE) 2021/23](http://data.europa.eu/eli/reg/2021/23/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de dezembro de 2020.
 
-###### Artigo 129.º-B — Direito aplicável
+Artigo 129.º-B
+
+Direito aplicável
 
 1 - São aplicáveis às sociedades com sede em Portugal participantes num processo de cisão transfronteiriça as disposições da presente secção e, subsidiariamente, as disposições relativas às cisões internas, em especial no que respeita ao processo de tomada de decisão relativo à cisão, e, ainda, o disposto relativamente à fusão transfronteiriça.
 
 2 - Aos procedimentos e às formalidades a cumprir para a obtenção do certificado prévio à cisão transfronteiriça aplica-se o direito do Estado-Membro da sociedade cindida, aplicando-se aos procedimentos e às formalidades posteriores à receção do certificado prévio o direito do Estado-Membro da sociedade beneficiária.
 
-###### Artigo 129.º-C — Projeto de cisão transfronteiriça
+Artigo 129.º-C
+
+Projeto de cisão transfronteiriça
 
 1 - Compete à administração da sociedade a cindir, ou às administrações das sociedades participantes, em conjunto, elaborar o projeto de cisão transfronteiriça, do qual constem os seguintes elementos:
 
@@ -975,7 +1078,9 @@ m) As garantias oferecidas aos credores.
 
 2 - O disposto nas alíneas b) e f) do número anterior não se aplica à cisão transfronteiriça por separação.
 
-###### Artigo 129.º-D — Relatório do órgão de administração destinado aos sócios e aos trabalhadores
+Artigo 129.º-D
+
+Relatório do órgão de administração destinado aos sócios e aos trabalhadores
 
 1 - Sem prejuízo do disposto no n.º 9, a administração da sociedade a cindir, ou as administrações das sociedades participantes, em conjunto, elaboram um relatório destinado aos sócios e aos trabalhadores, do qual constem os fundamentos jurídico-económicos da cisão transfronteiriça, bem como a explicitação das suas implicações para os trabalhadores e para a atividade futura de cada uma das sociedades resultantes da cisão.
 
@@ -1011,7 +1116,9 @@ c) De que forma os fatores previstos as alíneas anteriores afetam as filiais da
 
 10 - O disposto nos números anteriores não prejudica o exercício pelos interessados dos respetivos direitos de informação e de consulta legalmente previstos.
 
-###### Artigo 129.º-E — Fiscalização pericial do projeto de cisão transfronteiriça
+Artigo 129.º-E
+
+Fiscalização pericial do projeto de cisão transfronteiriça
 
 1 - À fiscalização do projeto nas sociedades com sede em Portugal participantes numa cisão transfronteiriça aplica-se, com as necessárias adaptações, o disposto nos n.os 1, 4, 5 e 6 do artigo 99.º, com as especialidades previstas nos artigos seguintes.
 
@@ -1037,7 +1144,9 @@ d) A descrição das dificuldades especiais de avaliação eventualmente encontr
 
 8 - O disposto no presente artigo não se aplica à cisão transfronteiriça por separação.
 
-###### Artigo 129.º-F — Aprovação do projeto de cisão transfronteiriça
+Artigo 129.º-F
+
+Aprovação do projeto de cisão transfronteiriça
 
 1 - Devem ser aprovados pela assembleia geral de cada uma das sociedades participantes na cisão transfronteiriça, através de deliberação:
 
@@ -1059,7 +1168,9 @@ b) A fixação inadequada da contrapartida da aquisição a que se refere a alí
 
 c) O incumprimento dos requisitos legais por parte das informações prestadas relativamente à relação de troca das participações sociais, a que se refere a alínea a), ou à contrapartida da aquisição, a que se refere a alínea anterior.
 
-###### Artigo 129.º-G — Proteção dos sócios
+Artigo 129.º-G
+
+Proteção dos sócios
 
 1 - Qualquer sócio de sociedade participante com sede em Portugal que considere que a contrapartida da aquisição das suas participações sociais, oferecida no projeto de cisão transfronteiriça, é inadequada tem o direito de pedir ao tribunal, no prazo de seis meses a contar da data da deliberação de cisão, que seja fixada contrapartida adequada, a qual deve ser calculada nos termos previstos no artigo 105.º e com referência ao momento da deliberação.
 
@@ -1075,7 +1186,9 @@ c) O incumprimento dos requisitos legais por parte das informações prestadas r
 
 7 - O disposto no presente artigo não se aplica à cisão transfronteiriça por separação.
 
-###### Artigo 129.º-H — Proteção dos credores
+Artigo 129.º-H
+
+Proteção dos credores
 
 1 - No prazo de três meses a contar da publicação do projeto de cisão transfronteiriça, os credores que demonstrem, fundamentadamente, que a cisão compromete a satisfação dos seus créditos e que a sociedade não lhes ofereceu as garantias adequadas, podem requerer judicialmente a obtenção de garantias adequadas.
 
@@ -1083,7 +1196,9 @@ c) O incumprimento dos requisitos legais por parte das informações prestadas r
 
 3 - A sociedade beneficiária e, em caso de cisão transfronteiriça parcial ou por separação, a sociedade cindida são solidariamente responsáveis perante a sociedade à qual é atribuído o elemento passivo do património para o cumprimento das obrigações, até ao limite do valor líquido dos elementos ativos do património.
 
-###### Artigo 129.º-I — Certificado prévio à cisão transfronteiriça
+Artigo 129.º-I
+
+Certificado prévio à cisão transfronteiriça
 
 1 - As autoridades competentes para o controlo da legalidade da cisão transfronteiriça são os serviços do registo comercial.
 
@@ -1107,7 +1222,9 @@ b) Que, nos termos do direito nacional e numa avaliação caso a caso, a cisão 
 
 7 - Se os serviços de registo comercial não efetuarem a avaliação dentro dos prazos previstos, devido à complexidade técnica do procedimento transfronteiriço, o requerente é notificado dos motivos antes do termo desses prazos.
 
-###### Artigo 129.º-J — Efeitos do registo da cisão transfronteiriça
+Artigo 129.º-J
+
+Efeitos do registo da cisão transfronteiriça
 
 1 - A partir da data do registo da cisão transfronteiriça no registo comercial, produzem-se os seguintes efeitos:
 
@@ -1139,7 +1256,9 @@ ii) As participações sociais da sociedade ou das sociedades beneficiárias sã
 
 3 - As participações sociais de uma sociedade beneficiária não podem ser trocadas por participações sociais na sociedade cindida detidas pela sociedade ou por pessoa que atue por conta da sociedade.
 
-###### Artigo 129.º-K — Fiscalização da legalidade da cisão transfronteiriça
+Artigo 129.º-K
+
+Fiscalização da legalidade da cisão transfronteiriça
 
 1 - As autoridades competentes para o controlo da legalidade da cisão transfronteiriça, regida pelo direito das sociedades beneficiárias com sede em Portugal no que diz respeito à sua aprovação e conclusão, são os serviços do registo comercial.
 
@@ -1149,15 +1268,21 @@ ii) As participações sociais da sociedade ou das sociedades beneficiárias sã
 
 4 - Os serviços de registo comercial procedem ao registo definitivo da cisão transfronteiriça quando concluírem que todas os procedimentos e formalidades foram devidamente preenchidas nos Estados-Membros da União Europeia das sociedades beneficiárias.
 
-###### Artigo 129.º-L — Validade da cisão transfronteiriça
+Artigo 129.º-L
+
+Validade da cisão transfronteiriça
 
 A cisão transfronteiriça que cumpra os requisitos legalmente previstos, e que tenha começado a produzir efeitos nos termos do artigo 129.º-J, não pode ser declarada nula.
 
-###### Artigo 139.º-A — Responsabilidade emergente da transformação
+Artigo 139.º-A
+
+Responsabilidade emergente da transformação
 
 Os membros do órgão de administração da sociedade transformada são solidariamente responsáveis pelos danos causados pela transformação à sociedade e aos seus sócios e credores, desde que, na verificação da situação patrimonial da sociedade e na conclusão da transformação, não tenham observado a diligência de um gestor criterioso e ordenado.
 
-###### Artigo 140.º-B — Noção e âmbito
+Artigo 140.º-B
+
+Noção e âmbito
 
 1 - A transformação transfronteiriça realiza-se através da operação pela qual uma sociedade, sem ser dissolvida ou liquidada ou entrar em liquidação, mantendo a sua personalidade jurídica, converte:
 
@@ -1177,13 +1302,17 @@ c) Às sociedades que sejam objeto de instrumentos, poderes e mecanismos de reso
 
 d) As sociedades sujeitas a processos de insolvência ou regimes de reestruturação preventiva.
 
-###### Artigo 140.º-C — Direito aplicável
+Artigo 140.º-C
+
+Direito aplicável
 
 1 - Aos processos de transformação transfronteiriça aplicam-se as disposições da presente secção e, subsidiariamente, as disposições relativas às transformações internas, em especial no que respeita ao processo de tomada de decisão relativo à transformação, à proteção dos credores das sociedades objeto de transformação, dos credores obrigacionistas e dos direitos dos trabalhadores que não sejam regulados por lei especial, sem prejuízo do disposto no número seguinte.
 
 2 - Aos procedimentos e às formalidades a cumprir para a obtenção do certificado prévio à transformação transfronteiriça aplica-se o direito do Estado-Membro de partida, ou seja, aquele em que a sociedade se encontra registada, aplicando-se aos procedimentos e às formalidades posteriores à receção do certificado prévio o direito do Estado-Membro de destino, ou seja, aquele para o qual a sociedade transfere o seu registo e a sua sede estatutária.
 
-###### Artigo 140.º-D — Projeto de transformação transfronteiriça
+Artigo 140.º-D
+
+Projeto de transformação transfronteiriça
 
 A administração da sociedade a transformar elabora projeto de transformação transfronteiriça, do qual constem os seguintes elementos:
 
@@ -1209,7 +1338,9 @@ j) As repercussões prováveis da transformação transfronteiriça nas relaçõ
 
 k) As informações sobre os procedimentos mediante os quais se determinam os regimes de participação dos trabalhadores na definição dos seus direitos de participação na sociedade transformada, quando aplicáveis
 
-###### Artigo 140.º-E — Relatório do órgão de administração destinado aos sócios e aos trabalhadores
+Artigo 140.º-E
+
+Relatório do órgão de administração destinado aos sócios e aos trabalhadores
 
 1 - O órgão de administração da sociedade elabora um relatório destinado aos sócios e aos trabalhadores, do qual constem os fundamentos jurídico-económicos da transformação transfronteiriça, bem como a explicitação das suas implicações para os trabalhadores e para a atividade futura da sociedade.
 
@@ -1243,7 +1374,9 @@ c) De que forma os fatores previstos nas alíneas anteriores afetam as filiais d
 
 10 - O disposto nos números anteriores não prejudica o exercício pelos interessados dos respetivos direitos de informação e de consulta legalmente previstos.
 
-###### Artigo 140.º-F — Fiscalização pericial do projeto de transformação transfronteiriça
+Artigo 140.º-F
+
+Fiscalização pericial do projeto de transformação transfronteiriça
 
 1 - O projeto de transformação transfronteiriça é examinado por um revisor oficial de contas ou por uma sociedade de revisores independente, que elabora um relatório disponibilizado aos sócios pelo menos um mês antes da data da assembleia geral a que se refere o artigo 140.º-G.
 
@@ -1261,7 +1394,9 @@ c) A descrição das dificuldades especiais de avaliação eventualmente encontr
 
 5 - Não é exigível a análise e o relatório a que se refere o n.º 1 se todos os sócios da sociedade tiverem deliberado a respetiva dispensa ou no caso de se tratar de sociedade unipessoal.
 
-###### Artigo 140.º-G — Registo, publicação e consulta do projeto e convocação da assembleia
+Artigo 140.º-G
+
+Registo, publicação e consulta do projeto e convocação da assembleia
 
 1 - O projeto de transformação transfronteiriça deve ser registado, sendo de imediato publicado.
 
@@ -1277,7 +1412,9 @@ c) A descrição das dificuldades especiais de avaliação eventualmente encontr
 
 7 - À consulta dos documentos relativos à transformação é aplicável, com as necessárias adaptações, o estabelecido no artigo 101.º
 
-###### Artigo 140.º-H — Aprovação do projeto de transformação
+Artigo 140.º-H
+
+Aprovação do projeto de transformação
 
 1 - A aprovação do projeto de transformação transfronteiriça da sociedade e a adaptação dos respetivos estatutos deve ser deliberada pelos sócios, nos termos prescritos para o respetivo tipo de sociedade.
 
@@ -1289,7 +1426,9 @@ a) A fixação inadequada da compensação pecuniária oferecida aos sócios, no
 
 b) O incumprimento dos requisitos legais nas informações prestadas relativamente à compensação prevista na alínea anterior:
 
-###### Artigo 140.º-I — Proteção dos sócios
+Artigo 140.º-I
+
+Proteção dos sócios
 
 1 - Para além dos casos em que a lei e o contrato atribuem ao sócio o direito de se exonerar da sociedade, qualquer sócio da sociedade a transformar que tenha votado contra o projeto de transformação transfronteiriça tem o direito de, no prazo de um mês a contar da data da deliberação, alienar as suas participações sociais mediante o pagamento da compensação pecuniária referida na alínea i) do artigo 140.º-D.
 
@@ -1303,7 +1442,9 @@ b) O incumprimento dos requisitos legais nas informações prestadas relativamen
 
 6 - Os tribunais portugueses serão exclusivamente competentes para as ações respeitantes ao exercício dos direitos dos sócios, os quais serão regulados pelo direito português.
 
-###### Artigo 140.º-J — Proteção dos credores
+Artigo 140.º-J
+
+Proteção dos credores
 
 1 - No prazo de três meses a contar da publicação do projeto de transformação transfronteiriça, os credores com créditos anteriores que ainda não estejam vencidos nessa data e que considerem insuficientes as garantias previstas na alínea f) do artigo 140.º-D podem requerer judicialmente a determinação de garantias adequadas, com fundamento no prejuízo que decorra da transformação transfronteiriça para a satisfação dos seus direitos.
 
@@ -1315,7 +1456,9 @@ b) O incumprimento dos requisitos legais nas informações prestadas relativamen
 
 5 - O disposto no n.º 1 não afasta a aplicação das normas de direito português em matéria de cumprimento ou de garantia de obrigações pecuniárias ou não pecuniárias de que sejam titulares o Estado e outras entidades públicas.
 
-###### Artigo 140.º-K — Certificado prévio e registo da transformação
+Artigo 140.º-K
+
+Certificado prévio e registo da transformação
 
 1 - As autoridades competentes para o controlo da legalidade das transformações transfronteiriças são os serviços do registo comercial.
 
@@ -1351,7 +1494,9 @@ b) A fixação das disposições relativas à participação dos trabalhadores, 
 
 11 - Para o efeito do controlo referido na alínea b) do n.º 2, o pedido de registo da transformação transfronteiriça deve ser apresentado ao serviço do registo comercial pela sociedade, acompanhado do certificado referido na alínea a) do mesmo número e do projeto de transformação transfronteiriça aprovado pela assembleia geral, no prazo de seis meses após a emissão do certificado.
 
-###### Artigo 140.º-L — Efeitos do registo da transformação transfronteiriça
+Artigo 140.º-L
+
+Efeitos do registo da transformação transfronteiriça
 
 A transformação transfronteiriça produz efeitos a partir da data do respetivo registo e determina que:
 
@@ -1361,11 +1506,15 @@ b) Os sócios da sociedade continuam a ser sócios da sociedade transformada, sa
 
 c) Os direitos e as obrigações da sociedade decorrentes de contratos de trabalho ou de relações de trabalho existentes à data em que a transformação transfronteiriça começa a produzir efeitos passam a ser da sociedade transformada.
 
-###### Artigo 140.º-M — Validade da transformação transfronteiriça
+Artigo 140.º-M
+
+Validade da transformação transfronteiriça
 
 A transformação transfronteiriça que cumpra os requisitos legalmente previstos, e que tenha começado a produzir efeitos, nos termos do artigo 140.º-L, não pode ser declarada nula.
 
-###### Artigo 463.º-A — Instrumentos, poderes e mecanismos de resolução
+Artigo 463.º-A
+
+Instrumentos, poderes e mecanismos de resolução
 
 O disposto no presente capítulo não se aplica no âmbito de instrumentos, poderes e mecanismos de resolução.»
 
@@ -1387,13 +1536,17 @@ Registo da cisão
 
 5 - A receção de todas as notificações a efetuar pelos registos competentes dos Estados-Membros das sociedades beneficiárias, nos termos do número anterior, determina o cancelamento da matrícula da sociedade totalmente cindida que esteja sediada em território nacional.
 
-###### Artigo 67.º-D — Registo de transformação transfronteiriça
+Artigo 67.º-D
+
+Registo de transformação transfronteiriça
 
 1 - O registo de transformação transfronteiriça efetuado sobre a sociedade transformada, quando sediada em território nacional, determina a notificação desse facto e do consequente início de produção de efeitos, através do sistema de interconexão dos registos da União Europeia, ao registo competente do Estado-Membro de partida, onde estava sediada a sociedade objeto de transformação.
 
 2 - A receção da notificação do início da produção de efeitos da transformação transfronteiriça, efetuada por registo competente do Estado-Membro da União Europeia, enquanto Estado-Membro de destino, determina a realização oficiosa do registo da transformação transfronteiriça e o cancelamento da matrícula da sociedade objeto de transformação que esteja sediada em território nacional.
 
-###### Artigo 74.º-B — Certificado prévio à cisão transfronteiriça
+Artigo 74.º-B
+
+Certificado prévio à cisão transfronteiriça
 
 1 - A emissão do certificado ou dos certificados comprovativos do cumprimento dos atos e das formalidades prévios à cisão transfronteiriça, relativamente à sociedade ou às sociedades participantes com sede em território nacional, pode ser solicitada, após o registo do respetivo projeto, em qualquer serviço de registo com competência para a prática de atos de registo comercial.
 
@@ -1409,7 +1562,9 @@ d) Observações sobre o projeto de cisão transfronteiriça.
 
 3 - A apresentação dos documentos referidos no número anterior é dispensada sempre que estes se encontrem arquivados em serviço de registo nacional.
 
-###### Artigo 74.º-C — Certificado prévio à transformação transfronteiriça
+Artigo 74.º-C
+
+Certificado prévio à transformação transfronteiriça
 
 1 - A emissão do certificado comprovativo do cumprimento dos atos e das formalidades prévios à transformação transfronteiriça, relativamente à sociedade com sede em território nacional, pode ser solicitada, após o registo do respetivo projeto, em qualquer serviço de registo com competência para a prática de atos de registo comercial.
 
@@ -1459,12 +1614,14 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de outubro de 2023. - Mariana Guimarães Vieira da Silva - Jorge Albino Alves Costa.
 
-**Promulgado em 5 de dezembro de 2023.**
+Promulgado em 5 de dezembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de dezembro de 2023.**
+Referendado em 5 de dezembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+100000357

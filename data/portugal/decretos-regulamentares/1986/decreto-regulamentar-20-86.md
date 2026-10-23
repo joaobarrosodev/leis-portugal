@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1986-228601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T06:12:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20e91056765d11d5742560faa531292e907b15336aeda6b4c9d7f5bdfa1a0ca6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d29a7a550f8d35d634562d779fab7bc0ecb452cfdcdfb5c92abd456e2022d76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:12:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Armamento
+- Guarda Florestal
+- Regulamento de Uniformes e Armamento do Pessoal Florestal
+relationships:
+- type: cites
+  target: pt:dre:232501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438268:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:12:45Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +104,9 @@ Com fundamento no artigo 71.º do [Decreto-Lei n.º 40721](https://diariodarepub
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 20.º do Regulamento de Uniformes e Armamento do Pessoal Florestal, aprovado pelo [Decreto n.º 42683](https://diariodarepublica.pt/dr/detalhe/decreto/42683-1959-438268), de 25 de Novembro de 1959, passa a ter a seguinte redacção:
+Artigo único. O artigo 20.º do Regulamento de Uniformes e Armamento do Pessoal Florestal, aprovado pelo [Decreto n.º 42683](https://diariodarepublica.pt/dr/detalhe/decreto/42683-1959-438268), de 25 de Novembro de 1959, passa a ter a seguinte redacção:
 
-###### Art. 20.º Compete ao Estado, pela Direcção-Geral das Florestas, fornecer ao pessoal o armamento e equipamento acessório que for considerado obrigatório ou conveniente ao exercício das respectivas funções, o qual é o seguinte:
+Art. 20.º Compete ao Estado, pela Direcção-Geral das Florestas, fornecer ao pessoal o armamento e equipamento acessório que for considerado obrigatório ou conveniente ao exercício das respectivas funções, o qual é o seguinte:
 
 1) Pistolas de calibre 7,65 mm ou revólveres de calibre 32 mm e respectivos coldres, fiadores e bolsas de cartuchos, a distribuir obrigatoriamente a todos os guardas e mestres florestais e ainda a outros funcionários florestais em serviço de polícia;
 
@@ -109,12 +120,12 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 18 de Junho de 1986.**
+Promulgado em 18 de Junho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Junho de 1986.**
+Referendado em 18 de Junho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

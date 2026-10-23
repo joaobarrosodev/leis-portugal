@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 10/2001, 1º Suplemento, Série I-A de 2001-01-12
   number: '10'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 222-(2) a 222-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/010a01/00020004.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/5-a/2001/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-a-2001-534604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:29:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b5e6f69cee3eb5a73c9c205d904008d7e4797e047df77d7af67f37a6bf33976
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c59035164255dd63909a2475ecae005207407680402ce8dabe45de49478db87a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:29:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ subjects:
 - Colocação de Professores
 - Concurso
 - Direcção Geral da Administração Educativa
-- Ensino Preparatório
 - Direcção Regional de Educação
-- Prazo
-- Ensino
-- Pessoal Docente
-- Ensino Básico
 - Educação Pré-escolar
+- Ensino
+- Ensino Básico
+- Ensino Preparatório
+- Pessoal Docente
+- Prazo
 relationships:
 - type: amended_by
   target: pt:dre:151933:por
@@ -109,16 +109,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:145799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676429:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:29:36Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +213,7 @@ b) n o quociente da divisão inteira por 365 dias do restante tempo de serviço 
 
 6 - ...
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - ...
 
@@ -179,7 +227,7 @@ b) n o quociente da divisão inteira por 365 dias do restante tempo de serviço 
 
 6 - ...
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - ...
 
@@ -197,7 +245,7 @@ b) n o quociente da divisão inteira por 365 dias do restante tempo de serviço 
 
 7 - O incumprimento do disposto no n.º 3 equivale à não aceitação da colocação, com os efeitos constante no n.º 1 do artigo 25.º deste diploma.
 
-###### Artigo 58.º
+Artigo 58.º
 
 1 - ...
 
@@ -227,7 +275,7 @@ Os artigos 13.º, 59.º a 62.º e 64.º a 66.º do [Decreto-Lei n.º 35/88](http
 
 5 - ...
 
-###### Artigo 59.º
+Artigo 59.º
 
 1 - Para efeitos do disposto no n.º 1 do artigo 33.º deste diploma, os titulares de lugar temporariamente suspenso apresentarão no serviço regional competente a que pertençam, de 8 a 10 de Julho de cada ano, um requerimento com indicação, por ordem de preferência, das escolas onde pretendem ser colocados, acompanhado de uma ficha profissional.
 
@@ -243,7 +291,7 @@ Os artigos 13.º, 59.º a 62.º e 64.º a 66.º do [Decreto-Lei n.º 35/88](http
 
 7 - ...
 
-###### Artigo 60.º
+Artigo 60.º
 
 1 - Os processos de candidatura referidos no artigo 38.º do presente diploma serão apresentados, de 8 a 10 de Julho de cada ano, no serviço regional competente onde se situa a residência familiar ou o local onde o cônjuge venha a exercer a sua actividade profissional no ano escolar a que o concurso respeita.
 
@@ -253,21 +301,21 @@ Os artigos 13.º, 59.º a 62.º e 64.º a 66.º do [Decreto-Lei n.º 35/88](http
 
 4 - ...
 
-###### Artigo 61.º
+Artigo 61.º
 
 As colocações referidas nos artigos 59.º e 60.º deste diploma deverão estar concluídas até ao dia 20 de Julho.
 
-###### Artigo 62.º
+Artigo 62.º
 
 1 - Após a publicitação da lista definitiva referida no artigo 49.º deste diploma, os serviços regionais competentes elaborarão uma lista ordenada de todos os professores pertencentes aos respectivos quadros distritais de vinculação, respeitando o disposto nos artigos 12.º, 13.º e 14.º deste diploma, a afixar nos locais de estilo, até 15 de Julho de cada ano.
 
 2 - ...
 
-###### Artigo 64.º
+Artigo 64.º
 
 Até 24 de Julho de cada ano os serviços regionais competentes afixarão a relação das escolas com a indicação dos lugares vagos e ou disponíveis, mesmo que temporariamente, e os motivos da sua existência, apurados até ao dia útil imediatamente anterior a 24 de Julho.
 
-###### Artigo 65.º
+Artigo 65.º
 
 1 - Os professores referidos no artigo 62.º indicarão as suas preferências de 25 a 27 de Julho através do preenchimento de boletim modelo da Imprensa Nacional-Casa da Moeda, onde indicarão:
 
@@ -281,7 +329,7 @@ b) ...
 
 4 - ...
 
-###### Artigo 66.º
+Artigo 66.º
 
 1 - As afectações às escolas referidas no artigo 64.º iniciar-se-ão no dia 28 de Julho.
 
@@ -315,13 +363,13 @@ d) ...
 
 e) ...
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - Os pedidos de recondução serão apresentados em requerimento dirigido aos serviços regionais competentes entre os dia 1 e 5 de Julho.
 
 2 - O requerimento será formalizado em boletim modelo da Imprensa Nacional-Casa da Moeda, acompanhado das certidões a que se refere o artigo 8.º do presente diploma.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - Em cada ano escolar considera-se aberto em 1 de Julho, independentemente de quaisquer formalidades, o concurso referido na alínea b) do artigo 1.º
 
@@ -337,12 +385,12 @@ O presente diploma produz efeitos a partir do dia 1 de Janeiro de 2001.
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 2000. - Jaime José Matos da Gama - Augusto Ernesto Santos Silva.
 
-**Promulgado em 8 de Janeiro de 2001.**
+Promulgado em 8 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Janeiro de 2001.**
+Referendado em 11 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

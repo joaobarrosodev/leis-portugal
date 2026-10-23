@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-1972-399031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ce885da571a04d85edb3c5c90eebe175b55b4342bbfad8d75b29db931c62f42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd1a3aa119dcbabd5ae1e307638a1535475c2edc0cc2e74f0a56f589a565f4f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:199823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504537:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:43Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +107,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, ao abrigo d
 
 2.º O corpo do artigo 2.º passa a a ter a seguinte redacção:
 
-###### Art. 2.º Os governos provinciais, ouvidos os serviços competentes, informarão a Inspecção-Geral de Minas, do Ministério do Ultramar, até ao fim de Setembro de cada ano, sobre as necessidades locais de bolsas de estudo especiais de formação profissional universitária a conceder para o ano lectivo seguinte, fornecendo-lhe os elementos que julguem convenientes, inclusive de natureza orçamental; a proposta com o número de bolsas e respectivos encargos será submetida a despacho do Ministro do Ultramar pela Inspecção-Geral de Minas, acompanhada do parecer da Comissão Administrativa Central do Fundo de Fomento Mineiro Ultramarino, que deverá conter também as previsões orçamentais necessárias para ocorrer à correspondente despesa.
+Art. 2.º Os governos provinciais, ouvidos os serviços competentes, informarão a Inspecção-Geral de Minas, do Ministério do Ultramar, até ao fim de Setembro de cada ano, sobre as necessidades locais de bolsas de estudo especiais de formação profissional universitária a conceder para o ano lectivo seguinte, fornecendo-lhe os elementos que julguem convenientes, inclusive de natureza orçamental; a proposta com o número de bolsas e respectivos encargos será submetida a despacho do Ministro do Ultramar pela Inspecção-Geral de Minas, acompanhada do parecer da Comissão Administrativa Central do Fundo de Fomento Mineiro Ultramarino, que deverá conter também as previsões orçamentais necessárias para ocorrer à correspondente despesa.
 
 3.º O § único do artigo 3.º substituído por um parágrafo, numerado de 1, com a mesma redacção, sendo-lhe, ainda, aditado o § 2.º seguinte:
 
@@ -111,7 +123,7 @@ c) Terem a classificação final mínima de 12 valores nas habilitações que lh
 
 5.º Ao artigo 9.º é dada a nova redacção seguinte:
 
-###### Art. 9.º As previsões orçamentais destinadas a ocorrer às despesas com a concessão de bolsas de estudo de especialização ou aperfeiçoamento profissional serão feitas pelo Fundo de Fomento Mineiro Ultramarino nas mesmas condições do artigo 2.º deste Regulamento, observando-se também o disposto no seu § único.
+Art. 9.º As previsões orçamentais destinadas a ocorrer às despesas com a concessão de bolsas de estudo de especialização ou aperfeiçoamento profissional serão feitas pelo Fundo de Fomento Mineiro Ultramarino nas mesmas condições do artigo 2.º deste Regulamento, observando-se também o disposto no seu § único.
 
 6.º O § único do artigo 10.º passa a § 1.º, sendo, ainda, acrescentado um novo parágrafo, do teor seguinte:
 
@@ -135,15 +147,15 @@ d) Terem prestado serviço, em qualquer dos seguintes casos, salvo quando se tra
 
 8.º Ao corpo do artigo 15.º é dada a nova redacção seguinte:
 
-###### Art. 15.º A entrega dos requerimentos referidos nos artigos 7.º e 14.º deste Regulamento deve ser feita no prazo de sessenta dias, a contar da data do respectivo anúncio nos serviços provinciais de geologia e minas ou na Inspecção-Geral de Minas, do Ministério do Ultramar, que organizará os processos individuais e os informará, para efeitos de classificação dos candidatos e subsequente decisão ministerial.
+Art. 15.º A entrega dos requerimentos referidos nos artigos 7.º e 14.º deste Regulamento deve ser feita no prazo de sessenta dias, a contar da data do respectivo anúncio nos serviços provinciais de geologia e minas ou na Inspecção-Geral de Minas, do Ministério do Ultramar, que organizará os processos individuais e os informará, para efeitos de classificação dos candidatos e subsequente decisão ministerial.
 
 9.º O corpo do artigo 16.º passa a ter a seguinte redacção:
 
-###### Art. 16.º A apreciação das candidaturas apresentadas será feita na Inspecção-Geral de Minas por comissão especialmente designada, da qual fará parte um representante da Direcção-Geral de Educação.
+Art. 16.º A apreciação das candidaturas apresentadas será feita na Inspecção-Geral de Minas por comissão especialmente designada, da qual fará parte um representante da Direcção-Geral de Educação.
 
 10.º Ao artigo 17.º e seu § único são dadas as seguintes novas redacções:
 
-###### Art. 17.º A Inspecção-Geral de Minas comunicará à Direcção-Geral de Educação e ao Fundo de Fomento Mineiro Ultramarino os despachos de atribuição das bolsas, indicando o nome do bolseiro, a sua morada, o curso, ano e estabelecimento de ensino em que está matriculado e, bem assim, se tem direito a prémio de aproveitamento e, neste caso, qual o seu montante.
+Art. 17.º A Inspecção-Geral de Minas comunicará à Direcção-Geral de Educação e ao Fundo de Fomento Mineiro Ultramarino os despachos de atribuição das bolsas, indicando o nome do bolseiro, a sua morada, o curso, ano e estabelecimento de ensino em que está matriculado e, bem assim, se tem direito a prémio de aproveitamento e, neste caso, qual o seu montante.
 
 § único. O Fundo de Fomento Mineiro Ultramarino porá à disposição da entidade que for indicada pela Direcção-Geral de Educação as importâncias necessárias para os pagamentos a fazer por força das bolsas de estudo concedidas, devendo ser dado conhecimento do respectivo expediente à Inspecção-Geral de Minas.
 
@@ -153,7 +165,7 @@ d) Terem prestado serviço, em qualquer dos seguintes casos, salvo quando se tra
 
 12.º Ao artigo 19.º e seu § único são dadas as seguintes novas redacções:
 
-###### Art. 19.º Todas as alterações que se verificarem no regime das bolsas de estudo concedidas deverão ser comunicadas pela Direcção-Geral de Educação à Inspecção-Geral de Minas e ao Fundo de Fomento Mineiro Ultramarino.
+Art. 19.º Todas as alterações que se verificarem no regime das bolsas de estudo concedidas deverão ser comunicadas pela Direcção-Geral de Educação à Inspecção-Geral de Minas e ao Fundo de Fomento Mineiro Ultramarino.
 
 § único. Quando as alterações dependerem da resolução do Ministro do Ultramar, deverá o respectivo processo ser submetido a despacho pela Inspecção-Geral de Minas, acompanhado de parecer do Fundo de Fomento Mineiro Ultramarino.
 
@@ -175,11 +187,11 @@ h) Cumprir o compromisso do exercício profissional no ultramar, dando-lhe iníc
 
 15.º O corpo do artigo 23.º passa a ter a seguinte redacção:
 
-###### Art. 23.º A requerimento do interessado, podem ser concedidas a desistência ou a suspensão das bolsas de estudo e a excepção ao disposto nas alíneas a) e b) do artigo anterior, nos casos motivados pelo cumprimento obrigatório dos deveres militares e por doença ou qualquer outra circunstância de força maior, devidamente comprovados.
+Art. 23.º A requerimento do interessado, podem ser concedidas a desistência ou a suspensão das bolsas de estudo e a excepção ao disposto nas alíneas a) e b) do artigo anterior, nos casos motivados pelo cumprimento obrigatório dos deveres militares e por doença ou qualquer outra circunstância de força maior, devidamente comprovados.
 
 16.º É dada nova redacção ao corpo do artigo 25.º e sua alínea a), bem como aditados dois parágrafos, nos termos seguintes:
 
-###### Art. 25.º Os beneficiários das bolsas de estudo ficam obrigados a reembolsar o Fundo de Fomento Mineiro Ultramarino de todas as importâncias recebidas e do custo das passagens fornecidas e mais despesas efectuadas por força dessas bolsas, quando:
+Art. 25.º Os beneficiários das bolsas de estudo ficam obrigados a reembolsar o Fundo de Fomento Mineiro Ultramarino de todas as importâncias recebidas e do custo das passagens fornecidas e mais despesas efectuadas por força dessas bolsas, quando:
 
 a) Perderem o direito às bolsas em virtude das disposições do artigo 22.º deste Regulamento, ressalvadas as excepções previstas no seu artigo 23.º;
 
@@ -201,6 +213,6 @@ a) Perderem o direito às bolsas em virtude das disposições do artigo 22.º de
 
 18.º O artigo 31.º é eliminado, por constituir disposição transitória, já sem aplicação.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

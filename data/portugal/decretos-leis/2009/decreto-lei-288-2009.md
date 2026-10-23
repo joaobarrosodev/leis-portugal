@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/288/2009/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9c519ef2d20310e6701db9fcfa849782a3420177c737fdd31338feb0184029c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32f00bbe37538000479c6ed1ac5ce59277c252543c8a978f13416151aefd9589
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Registo Criminal
-- Ficheiro Informático
-- Cidadão Estrangeiro
-- Certificado do Registo Criminal
-- Cidadão Nacional
-- Conservação de Documentos
-- Identificação de Contumazes
-- Registo de Contumazes
-- Direcção Geral dos Serviços Judiciários
-- Diretor
-- Identificação Criminal
-- Contumaz
 - Base de Dados
-- Segurança da Informação
-- Direito à Informação
-- Pessoa Coletiva
-- Sistema de Informação
+- Certificado do Registo Criminal
+- Cidadão Estrangeiro
+- Cidadão Nacional
 - Confidencialidade
-- Direcção Geral da Administração da Justiça
+- Conservação de Documentos
+- Contumaz
 - Dados Pessoais
+- Direcção Geral da Administração da Justiça
+- Direcção Geral dos Serviços Judiciários
+- Direito à Informação
+- Diretor
+- Ficheiro Informático
+- Identificação Criminal
+- Identificação de Contumazes
+- Pessoa Coletiva
+- Registo Criminal
+- Registo de Contumazes
+- Segurança da Informação
+- Sistema de Informação
 relationships:
 - type: amended_by
   target: pt:dre:124044666:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:67142147:por
+  label: Determinada a manutenção em vigor do Dec Lei 381/98, de 27-nov, na redação do presente diploma pelo(a) Lei n.º 37/2015
+    - Diário da República n.º 86/2015, Série I de 2015-05-05, até à publicação da regulamentação prevista no respetivo art.
+    45.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2015-67142147
+  date: '2015-05-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/20/2007/01/23/p/dre
   label: null
@@ -117,16 +124,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:152525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640142:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70095697:por
+  label: Revogado, a partir de 30.08.2015, o Dec Lei 62/99 de 29-mar, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2015-70095697
+  date: '2015-08-25'
 article_structure:
-  article_count: 29
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:49Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +198,9 @@ Os artigos 1.º, 3.º, 4.º a 6.º, 9.º, 11.º a 14.º, 16.º, 18.º a 20.º, 2
 
 São serviços de identificação criminal os serviços da Direcção-Geral da Administração da Justiça como tal definidos na respectiva Lei Orgânica.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -173,11 +216,15 @@ São serviços de identificação criminal os serviços da Direcção-Geral da A
 
 7 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Ao registo de cada cidadão ou pessoa colectiva ou entidade equiparada identificado criminalmente é atribuído um número sequencial ao qual se reporta toda a informação criminal existente a seu respeito.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -203,7 +250,9 @@ b) Tratando-se de pessoa colectiva ou entidade equiparada, denominação, sede e
 
 6 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -213,7 +262,9 @@ b) Tratando-se de pessoa colectiva ou entidade equiparada, denominação, sede e
 
 4 - Se depois da remessa do boletim se apurar que o arguido a quem o mesmo respeita forneceu uma identificação falsa, ou que não eram correctos os elementos de identificação, preenche-se outro boletim com a identificação correcta, que é remetido com a respectiva nota de referência, para a substituição do anterior.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -225,7 +276,9 @@ b) Tratando-se de pessoa colectiva ou entidade equiparada, denominação, sede e
 
 5 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O titular da informação que requeira certificado do registo criminal deve provar ser o próprio requerente e confirmar os seus dados de identificação civil, através da exibição de documento de identificação civil ou outro documento de identificação idóneo, ou pelo reconhecimento da sua assinatura.
 
@@ -233,7 +286,9 @@ b) Tratando-se de pessoa colectiva ou entidade equiparada, denominação, sede e
 
 3 - Não sendo indicado no requerimento o número de identificação civil ou o número de identificação de pessoa colectiva do titular, a emissão depende da verificação inequívoca da sua identidade.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Quem requerer certificado do registo criminal relativo a terceiro deve apresentar declaração do titular da informação ou, no caso de pessoa colectiva ou entidade equiparada, de quem, nos termos da lei, a represente, comprovativa de que o pedido é feito em seu nome ou no seu interesse e onde sejam especificados:
 
@@ -245,13 +300,17 @@ b) O nome completo e o número de identificação civil da pessoa que o pode req
 
 3 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
 2 - Os dados de identificação do requerente e do titular da informação são confirmados nos termos do n.º 1 do artigo 11.º, sendo aplicável à emissão do certificado o disposto no n.º 3 do mesmo artigo.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -269,7 +328,9 @@ b) O nome completo e o número de identificação civil da pessoa que o pode req
 
 8 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - As condições de acesso directo ao ficheiro central de identificação criminal pelas entidades referidas nas alíneas a) a h) do artigo 7.º da [Lei n.º 57/98](https://diariodarepublica.pt/dr/detalhe/lei/57-1998-437236), de 18 de Agosto, são definidas por despacho do director-geral da Administração da Justiça.
 
@@ -277,7 +338,9 @@ b) O nome completo e o número de identificação civil da pessoa que o pode req
 
 3 - As entidades autorizadas a aceder directamente ao ficheiro central de identificação criminal adoptam todas as medidas necessárias à estrita observância das regras de segurança estabelecidas no artigo 29.º, sob controlo dos serviços de identificação criminal e do Instituto das Tecnologias de Informação na Justiça, I. P.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Têm acesso ao ficheiro dactiloscópico as entidades referidas nas alíneas a), b), c), e) e h) do artigo 7.º da [Lei n.º 57/98](https://diariodarepublica.pt/dr/detalhe/lei/57-1998-437236), de 18 de Agosto.
 
@@ -287,7 +350,9 @@ b) O nome completo e o número de identificação civil da pessoa que o pode req
 
 4 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - O registo de contumazes é constituído pela identificação do titular e por extractos de decisões proferidas pelos tribunais, de declaração, alteração ou cessação de contumácia que a ele respeitem.
 
@@ -299,7 +364,9 @@ b) Tratando-se de pessoa colectiva ou entidade equiparada, denominação, sede e
 
 3 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -307,7 +374,9 @@ b) Tratando-se de pessoa colectiva ou entidade equiparada, denominação, sede e
 
 3 - Os efeitos especiais da declaração de contumácia e a respectiva especificação devem constar do boletim de acordo com os códigos constantes de tabela aprovada por despacho do director-geral da Administração da Justiça.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -315,7 +384,9 @@ b) Tratando-se de pessoa colectiva ou entidade equiparada, denominação, sede e
 
 3 - (Revogado.)
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -325,7 +396,9 @@ b) Tratando-se de pessoa colectiva ou entidade equiparada, denominação, sede e
 
 4 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -333,11 +406,15 @@ b) Tratando-se de pessoa colectiva ou entidade equiparada, denominação, sede e
 
 3 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 O certificado pode ser remetido directamente aos interessados, mediante prévio pagamento da franquia postal e das despesas de remessa, nas condições a fixar por despacho do director-geral da Administração da Justiça.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - Salvo o disposto no artigo 85.º do [Decreto-Lei n.º 555/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1973-412470), de 26 de Fevereiro, no que respeita aos impressos emitidos por computador, os modelos de impressos necessários ao exercício das competências dos serviços de identificação criminal são aprovados por despacho do Ministro da Justiça, sob proposta do director-geral da Administração da Justiça, constituindo modelos exclusivos dos serviços de identificação criminal.
 
@@ -367,7 +444,9 @@ d) ...
 
 3 - Para os efeitos definidos na alínea d) do artigo 3.º da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de Outubro, o responsável pelos ficheiros informáticos referidos nos números anteriores é o director-geral da Administração da Justiça.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O ficheiro onomástico de identificação criminal e de contumazes tem as seguintes finalidades:
 
@@ -379,7 +458,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O ficheiro onomástico de identificação criminal e de contumazes é constituído pelos seguintes dados pessoais, quando existam ou deles haja conhecimento:
 
@@ -423,7 +504,9 @@ c) Falecimento ou, tratando-se de pessoa colectiva ou entidade equiparada, extin
 
 7 - (Anterior n.º 5.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O ficheiro de emissão de certificados do registo criminal é constituído pelos seguintes dados pessoais, quando existam ou deles haja conhecimento, relativos aos titulares da informação certificada e a cada emissão ocorrida:
 
@@ -451,7 +534,9 @@ b) Número de identificação civil ou passaporte e referência à respectiva en
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O ficheiro de emissão de certificados de contumácia é constituído pelos seguintes dados pessoais, quando existam ou deles haja conhecimento, relativos aos titulares da informação certificada e a cada emissão ocorrida:
 
@@ -487,7 +572,9 @@ c) Número de identificação de pessoa colectiva.
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - São recolhidos de boletins do registo criminal ou de contumácia remetidos pelos tribunais aos serviços de identificação criminal:
 
@@ -509,7 +596,9 @@ b) Ao registo comercial ou ao ficheiro central de pessoas colectivas, tratando-s
 
 6 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -521,13 +610,17 @@ b) Ao registo comercial ou ao ficheiro central de pessoas colectivas, tratando-s
 
 5 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
 2 - Os dados constantes dos ficheiros informáticos de emissão de certificados são conservados durante o prazo subsequente à data da emissão a que se reportam, nos termos fixados por despacho do director-geral da Administração da Justiça, sendo automaticamente cancelados após o decurso desse prazo.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O director-geral da Administração da Justiça adopta as medidas de segurança referidas no n.º 1 do artigo 15.º da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de Outubro, e do disposto no artigo 29.º do [Decreto-Lei n.º 381/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1998-217324), de 27 de Novembro.
 
@@ -539,12 +632,12 @@ O presente decreto-lei entra em vigor na data de entrada em vigor da lei que alt
 
 Visto e aprovado em Conselho de Ministros de 20 de Agosto de 2009. - José Sócrates Carvalho Pinto de Sousa - Alberto Bernardes Costa.
 
-**Promulgado em 25 de Setembro de 2009.**
+Promulgado em 25 de Setembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de Setembro de 2009.**
+Referendado em 28 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

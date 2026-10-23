@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/05/09700/0252602530.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/66/2019/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2019-122349220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f562b3a3bc76e120bb1d2691486cf60b7c6249f45b8fe503c20566fdb492098
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 524291a138f5acab8a0535d882e1ec2490c06eda4a5966c001bd666c2ce29aa9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,31 @@ reuse:
 subjects:
 - Alvará
 - ÁREA de Reabilitação Urbana
+- Arrendamento Urbano para Habitação
+- Câmara Municipal
 - Construção Civil
-- Obras Particulares
-- Urbanização
-- Obras de Conservação e Restauro
 - Contra-ordenação
 - Definição de Competências
-- Renovação Urbana
-- Regulamentação de Atos Legislativos
+- Direito à Informação
 - Emolumento do Notariado
-- Registos e Notariado
 - Fiscalização
 - Indústria da Construção
 - Industrial da Construção Civil
 - Isenção de Taxas e Emolumentos
-- Direito à Informação
 - Licenciamento
 - Licenciamento de Obras
+- Obras de Conservação e Restauro
+- Obras Particulares
 - Prazo
-- Câmara Municipal
-- Regime Jurídico
-- Regulamento Emolumentar dos Registos e Notariado
-- Responsabilidade Civil
 - Prédio Urbano
-- Arrendamento Urbano para Habitação
+- Regime Jurídico
+- Registos e Notariado
+- Regulamentação de Atos Legislativos
+- Regulamento Emolumentar dos Registos e Notariado
+- Renovação Urbana
+- Responsabilidade Civil
 - Titulo de Registo
+- Urbanização
 - Vistoria
 relationships:
 - type: cites
@@ -135,16 +135,212 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/50-a/2018/05/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/50-a/2018/05/02/p/dre
+- type: cites
+  target: pt:dre:107078023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107458728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107761915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107987278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108016474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108028571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114358690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115211109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117514512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56501680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66414231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70300348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70423756:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:36Z'
   warnings: []
   errors: []
 ---
@@ -241,7 +437,9 @@ o) [...];
 
 p) 'Arrendamento forçado', o arrendamento de edifícios ou frações autónomas, assumido por uma entidade administrativa, pelo prazo estritamente necessário para o efeito, com o objetivo de garantir o ressarcimento das despesas incorridas com a realização de obras coercivas, através do recebimento das rendas relativas a contrato previamente existente à intervenção que se mantenha em vigor ou, quando este não exista ou tenha cessado a sua vigência, pela celebração de novo contrato.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -273,7 +471,9 @@ i) As obras resultantes de uma intimação da câmara municipal, nos termos prev
 
 6 - [...].
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - [...].
 
@@ -287,7 +487,9 @@ i) As obras resultantes de uma intimação da câmara municipal, nos termos prev
 
 6 - O registo referido no número anterior é cancelado através da exibição de certidão emitida pela câmara municipal que ateste a conclusão das obras ou o cumprimento da ordem de demolição, consoante o caso, ou pela junção da autorização de utilização emitida posteriormente.
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 1 - [...].
 
@@ -307,13 +509,17 @@ i) As obras resultantes de uma intimação da câmara municipal, nos termos prev
 
 9 - Aplica-se à vistoria o disposto no artigo 95.º, com as devidas adaptações.
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - Quando o proprietário não iniciar as obras que lhe sejam determinadas nos termos do artigo 89.º, não apresentar os elementos instrutórios no prazo fixado para o efeito, ou estes forem objeto de rejeição, ou não concluir aquelas obras dentro dos prazos que para o efeito lhe forem fixados, pode a câmara municipal tomar posse administrativa do imóvel para lhes dar execução imediata.
 
 2 - À execução coerciva das obras referidas no número anterior, incluindo todos os atos preparatórios necessários, como sejam levantamentos, sondagens, realização de estudos ou projetos, aplica-se, com as devidas adaptações, o disposto nos artigos 107.º, 108.º e 108.º-B.
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - [...].
 
@@ -339,7 +545,9 @@ i) As obras resultantes de uma intimação da câmara municipal, nos termos prev
 
 12 - O prazo referido no n.º 10 suspende-se, com o limite de 150 dias, pelo período em que decorrerem os procedimentos de contratação legalmente devidos relativos à intervenção, entre a decisão de contratar e o começo de execução do contrato ou, no caso das empreitadas, o início dos trabalhos.
 
-###### Artigo 108.º — [...]
+Artigo 108.º
+
+[...]
 
 1 - As quantias relativas às despesas realizadas nos termos do artigo anterior, incluindo os custos com o realojamento dos inquilinos a que haja lugar, bem como quaisquer indemnizações ou sanções pecuniárias que a Administração tenha de suportar para o efeito, são de conta do infrator.
 
@@ -365,7 +573,9 @@ Obras determinadas pela câmara municipal
 
 4 - A comissão verifica igualmente, com o proprietário, a necessidade de se proceder a alterações aos trabalhos inicialmente previstos, em função de alterações supervenientes detetadas durante a execução da obra e imprevisíveis aquando daquela notificação.
 
-###### Artigo 108.º-B — Arrendamento forçado
+Artigo 108.º-B
+
+Arrendamento forçado
 
 1 - Findo o prazo previsto no n.º 2 do artigo 108.º sem que se encontrem liquidadas as quantias devidas pelo proprietário, o município, em alternativa à cobrança judicial da dívida em processo de execução fiscal, pode optar pelo ressarcimento através do arrendamento forçado, sendo lavrado auto de posse do imóvel para esse efeito.
 
@@ -415,7 +625,9 @@ Os artigos 55.º e 59.º do Regime Jurídico da Reabilitação Urbana, aprovado 
 
 4 - Quando o proprietário, incumprindo a obrigação de reabilitar, não iniciar as operações urbanísticas compreendidas na ação de reabilitação que foi determinada, não apresentar os elementos instrutórios ou não concluir essas operações urbanísticas dentro dos prazos que para o efeito sejam fixados, pode a entidade gestora tomar posse administrativa dos edifícios ou frações para dar execução imediata às obras determinadas, incluindo todos os seus atos preparatórios necessários, como sejam levantamentos, sondagens, realização de estudos ou projetos, aplicando-se o disposto nos artigos 107.º, 108.º e 108.º-B do RJUE.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - Após a conclusão das obras realizadas pela câmara municipal nos termos do disposto no n.º 4 do artigo 55.º, se o proprietário, no prazo de 20 dias, não proceder ao ressarcimento integral das despesas incorridas pela entidade gestora, ou, no mesmo prazo, não propuser outra forma alternativa de extinção da dívida, nomeadamente a dação em cumprimento ou em função do cumprimento, ou ainda a consignação de rendimentos do imóvel, nos termos da lei, pode a entidade gestora optar, em alternativa à cobrança judicial da dívida em processo de execução fiscal, pelo arrendamento forçado, nos termos previstos no RJUE.
 
@@ -469,12 +681,14 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de fevereiro de 2019. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 3 de maio de 2019.**
+Promulgado em 3 de maio de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 13 de maio de 2019.**
+Referendado em 13 de maio de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112304875

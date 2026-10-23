@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/18/1994/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1994-225459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:21:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9db30cb618b1463bb8717d8ac2b84e0af84585c66f0f61ae7d958bf88e1c8ab8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aee223c23928d62d4e211e3c568f99c69d934c05aea3d380d50f201734f1fbc2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:21:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
-- Medicina Privada
-- Ministro da Saúde
 - Conselho de Administração
 - Definição de Competências
-- Regime de Exclusividade
 - Estabelecimento Hospitalar
+- Medicina Privada
+- Médico
+- Ministro da Saúde
+- Regime de Exclusividade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/46/1991/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/46/1991/09/12/p/dre
+- type: cites
+  target: pt:dre:138480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506396:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:21:32Z'
   warnings: []
   errors: []
 ---
@@ -108,22 +128,22 @@ Nesta conformidade, e considerando o disposto no [Decreto-Lei n.º 73/90](https:
 
 Ao abrigo do disposto no artigo 20.º do [Decreto-Lei n.º 19/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1988-506396), de 21 de Janeiro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Mediante autorização do Ministro da Saúde, os médicos membros dos conselhos de administração dos hospitais podem utilizar a faculdade conferida pelo n.º 1 do artigo 32.º do [Decreto-Lei n.º 73/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1990-332425), de 7 de Março, para o atendimento de doentes privados e, bem assim, exercer a sua actividade profissional regular nos serviços das respectivas especialidades.
+Artigo 1.º - 1 - Mediante autorização do Ministro da Saúde, os médicos membros dos conselhos de administração dos hospitais podem utilizar a faculdade conferida pelo n.º 1 do artigo 32.º do [Decreto-Lei n.º 73/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1990-332425), de 7 de Março, para o atendimento de doentes privados e, bem assim, exercer a sua actividade profissional regular nos serviços das respectivas especialidades.
 
 2 - Os interessados não podem intervir como membros dos conselhos de administração na tomada de decisão quanto à aplicação do disposto no número anterior.
 
-###### Art. 2.º São revogados os Decretos Regulamentares n.os [35/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/35-1988-354166), de 17 de Outubro, e [46/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1991-300431), de 12 de Setembro.
+Art. 2.º São revogados os Decretos Regulamentares n.os [35/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/35-1988-354166), de 17 de Outubro, e [46/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1991-300431), de 12 de Setembro.
 
 Presidência do Conselho de Ministros, 13 de Junho de 1994.
 
 Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Adalberto Paulo da Fonseca Mendo.
 
-**Promulgado em 12 de Julho de 1994.**
+Promulgado em 12 de Julho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Julho de 1994.**
+Referendado em 14 de Julho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

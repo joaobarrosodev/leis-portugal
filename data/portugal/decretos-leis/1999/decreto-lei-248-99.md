@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/152a00/41644179.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/248/1999/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1999-372671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:08:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7907bdc3cd7058a307c1468650eea503ebc4f6f05dcc5b7e3d3adc5d4c1cacaf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c4aee9642b97596367381c6d05ad8147ddef22b3eb59bbbb6bb146d87337288
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:08:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,58 +70,58 @@ subjects:
 - Acidente de Trabalho
 - Actualização de Pensões
 - Acumulação de Pensões
-- Família
 - Assistência Médica
 - Assistência Medicamentosa
-- Trabalho
 - Bonificação de Pensões
 - Cálculo de Pensões
 - Centro Nacional de Protecção contra os Riscos Profissionais
-- Formação Profissional
-- Multa
 - Contra-ordenação
 - Contra-ordenação Laboral
-- Internamento Hospitalar
 - Cuidados de Enfermagem
-- Saúde
+- Cuidados Médicos
 - Despesas de Deslocação
 - Direito do Trabalho
 - Direitos Sociais
-- Pensão por Incapacidade Permanente para o Trabalho
-- Fundo de Garantia e Actualização de Pensões
-- Pagamento
-- Indemnização
-- Pensão de Invalidez
 - Doença Profissional
+- Família
+- Formação Profissional
+- Fundo de Garantia e Actualização de Pensões
+- Incapacidade Física
+- Incapacidade Permanente
+- Incapacidade Temporária
+- Indemnização
+- Internamento Hospitalar
+- Multa
+- Óbito
+- Pagamento
+- Pensão de Invalidez
+- Pensão por Incapacidade Permanente para o Trabalho
 - Pensão por Morte
+- Pensões
 - Pessoa a Cargo
 - Prazo
 - Prescrição
 - Prestação Suplementar a Pensão
-- Pensões
 - Prestações em Espécie
 - Prestações Pecuniárias
 - Presunção
-- Incapacidade Física
-- Cuidados Médicos
 - Reconversão Profissional
 - Reembolso
 - Regime Jurídico
 - Responsabilidade Civil
 - Responsabilidade Criminal
-- Incapacidade Temporária
+- Saúde
 - Segurança Social
-- Óbito
 - Subsídio
 - Subsídio de Funeral
 - Subsídio para Readaptação
 - Subsídio para Readaptação de Habitação
 - Subsídio por Morte
 - Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais
-- Incapacidade Permanente
 - Termalismo
 - Trabalhador
 - Trabalhador Independente
+- Trabalho
 - União de Facto
 relationships:
 - type: amended_by
@@ -136,16 +136,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/100/1997/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/100/1997/09/13/p/dre
+- type: cites
+  target: pt:dre:158179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648882:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632906:por
+  label: "Revogado com a entrada em vigor das normas regulamentares do Código do Trabalho aprovado pela LEI.99/2003.2003.08.27.AR\
+    \ DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/99-2003-632906
+  date: '2003-08-27'
+- type: repealed_by
+  target: pt:dre:489505:por
+  label: "Revogado, a partir de 01.01.2010, o presente diploma, pela LEI.98/2009.04.09.2009.AR, DR.IS [172] de 04.09.2009,\
+    \ sem prejuízo do disposto no artigo. 187º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/98-2009-489505
+  date: '2009-09-04'
 article_structure:
   article_count: 105
   section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:08:41Z'
   warnings: []
   errors: []
 ---
@@ -994,12 +1046,12 @@ O presente diploma entra em vigor no 1.º dia do 6.º mês seguinte à data da s
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Francisco Ventura Ramos - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 11 de Junho de 1999.**
+Promulgado em 11 de Junho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Junho de 1999.**
+Referendado em 21 de Junho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

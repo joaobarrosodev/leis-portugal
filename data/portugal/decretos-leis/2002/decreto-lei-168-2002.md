@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/07/168a00/54255442.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/168/2002/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2002-188877
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4400117646c68f2fe546ca5a13be5bafa6d637242f50959adb421130b60de6fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 939df2ee3fe75e2fb5da72ba0204101ee8bd4c840fbe7ff222c7c62d6d3c1067
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Acreditação
 - Aproximação das Legislações
 - Catálogo Nacional de Variedades
-- Madeira.região Autónoma
-- Açores
 - Comércio
+- Madeira.região Autónoma
 - Produto Agrícola
 relationships:
 - type: amended_by
@@ -113,16 +113,26 @@ relationships:
   target: celex:32002L0008
   label: null
   source: http://data.europa.eu/eli/dir/2002/8/oj
+- type: corrected_by
+  target: pt:dre:275185:por
+  label: "Rectificado pela DECL-RECT.2-C/2003.2003.03.31.PCM DR.IS-A [76]2º Supl de 31/Mar/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/2-c-2003-275185
+  date: '2003-03-31'
+- type: repealed_by
+  target: pt:dre:517474:por
+  label: "Revogado pelo DEC LEI.154/2004.30.06.2004.MADRP, DR.IS-A [152] de 30.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2004-517474
+  date: '2004-06-30'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:08Z'
   warnings: []
   errors: []
 ---
@@ -197,15 +207,15 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Maio de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 1 de Julho de 2002.**
+Promulgado em 1 de Julho de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Julho de 2002.**
+Referendado em 4 de Julho de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO
 
@@ -215,7 +225,7 @@ Ao Decreto-Lei n.º 268/2000, de 24 de Outubro, são aditados os anexos I e II, 
 
 Espécies hortícolas
 
-# Parte A
+Parte A
 
 Caracteres mínimos a observar nos exames de distinção, homogeneidade e estabilidade
 
@@ -1083,7 +1093,7 @@ B) Chicória-de-folhas:
 
 4.2) Floração feminina.
 
-# Parte B
+Parte B
 
 Condições gerais mínimas
 
@@ -1095,7 +1105,7 @@ Condições gerais mínimas
 
 4 - Aquando do controlo dos componentes genealógicos, as condições mínimas previstas na parte A podem ser reduzidas.
 
-# Parte C
+Parte C
 
 A) Delineamento experimental e condições de cultivo para variedades de alho-porro, couve-flor, couve-lombarda, couve-repolho, couve-roxa, alface e tomate.
 
@@ -1103,11 +1113,13 @@ Para as variedades de alho-porro, couve-flor, couve-lombarda, couve-repolho, cou
 
 B) Delineamento experimental e condições de cultivo
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/07/168a00/54255442.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/07/168a00/54255442.pdf)](https://files.diariodarepublica.pt/1s/2002/07/168a00/54255442.pdf)
 
-## ANEXO II — Espécies agrícolas
+ANEXO II
 
-# Parte A
+Espécies agrícolas
+
+Parte A
 
 Caracteres mínimos a observar nos exames de distinção, homogeneidade e estabilidade
 
@@ -2617,7 +2629,7 @@ Todos os caracteres enumerados para as diversas espécies são válidos para o e
 
 6) Época de floração (H).
 
-# Parte B
+Parte B
 
 Caracteres mínimos a observar nos exames de valor agronómico e de utilização
 
@@ -2635,7 +2647,7 @@ Os caracteres adiante enumerados são válidos para todas as espécies mencionad
 
 6) Ritmos de produção - para as espécies forrageiras.
 
-# Parte C
+Parte C
 
 Condições gerais mínimas
 
@@ -2647,7 +2659,7 @@ Condições gerais mínimas
 
 4 - No caso de haver dúvidas sobre a avaliação da homogeneidade, para as espécies enumeradas na parte A, n.os 20, 29, 34, 36, 39, 40, 43, 45, 46, 50, 52, 53 ou 55, é necessário proceder igualmente ao exame de plantas descendentes do material semeado no ano antecedente.
 
-# Parte D
+Parte D
 
 A) Delineamento experimental e condições de cultivo para variedades de trigo-mole e de milho
 
@@ -2655,4 +2667,4 @@ Para as variedades de trigo-mole e de milho, as condições mínimas para a real
 
 B) Delineamento experimental e condições de cultivo
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/07/168a00/54255442.pdf)»
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/07/168a00/54255442.pdf)](https://files.diariodarepublica.pt/1s/2002/07/168a00/54255442.pdf)»

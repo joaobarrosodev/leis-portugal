@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/2/1993/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/2-1993-585069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:14:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72dd558f7f57ffcbda8bab2486d5cf3b9fe2129788d45ff47ab1d3d45e336cae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 142f579c4070a590df0102cd1fc9697519c1ce7b45e1f1459c22ebed1ef35280
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:14:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Embaixador
-- Nomeação
 - Harare
+- Nomeação
 - Zimbabwe
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:14:20Z'
   warnings: []
   errors: []
 ---
@@ -88,16 +88,16 @@ validation:
 
 de 22 de Janeiro
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o ministro plenipotenciário José Pacheco Luís Gomes para o cargo de embaixador de Portugal em Harare.
 
-**Assinado em 30 de Dezembro de 1992.**
+Assinado em 30 de Dezembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Dezembro de 1992.**
+Referendado em 31 de Dezembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro dos Negócios Estrangeiros, José Manuel Durão Barroso.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro dos Negócios Estrangeiros, José Manuel Durão Barroso.

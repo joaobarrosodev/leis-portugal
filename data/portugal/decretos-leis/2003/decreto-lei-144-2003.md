@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/144/2003/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2003-667124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dda60384ea646bee9303dca9a669ad9ba8924be696155bccf31c3fb335667f3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d70a340502c8ebaddda9bdea848c0d717f7ca16869766fc0f283ed7f87f7876
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Alimentação Humana
+- Alimento para Animais
 - Análise Laboratorial
 - Aproximação das Legislações
-- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
-- Multa
 - Contra-ordenação
 - Controlo de Qualidade
 - Definição de Competências
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
 - Direcção Regional de Agricultura
 - Fiscalização
-- Alimentação Humana
-- Proteção do Consumidor
-- Alimento para Animais
-- Produção Vegetal
-- Pesticida
-- Produto Fitofarmacêutico
 - Limite Máximo de Resíduos
+- Multa
+- Pesticida
+- Produção Vegetal
 - Produto Agrícola
+- Produto Fitofarmacêutico
+- Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:601372:por
@@ -126,16 +126,23 @@ relationships:
   target: celex:32002L0063
   label: null
   source: http://data.europa.eu/eli/dir/2002/63/oj
+- type: repealed_by
+  target: pt:dre:601372:por
+  label: "Revogado, nos termos do art. 13.º, (Mantido em vigor o disposto nos artigos 10.º e 11.º, relativos aos métodos de\
+    \ colheita de amostras e aos métodos de análise para controlo de resíduos de pesticidas nos produtos agrícolas de origem\
+    \ vegetal), pelo DEC LEI.39/2009.10.02.2009.MADRP, DR.IS [28] de 10.02.2009\0009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2009-601372
+  date: '2009-02-10'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:44Z'
   warnings: []
   errors: []
 ---
@@ -326,15 +333,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Abril de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 17 de Junho de 2003.**
+Promulgado em 17 de Junho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Junho de 2003.**
+Referendado em 18 de Junho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Métodos de amostragem para o controlo oficial de resíduos de pesticidas em produtos agrícolas de origem vegetal
 
@@ -450,7 +457,7 @@ QUADRO N.º 1
 
 Número mínimo de amostras primárias a colher num lote
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/38183826.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/38183826.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/38183826.pdf)
 
 4.3 - Preparação da amostra global - os procedimentos a seguir são descritos no quadro n.º 2. As amostras primárias devem ser combinadas e bem misturadas, se possível, para constituir a amostra global.
 
@@ -460,7 +467,7 @@ QUADRO N.º 2
 
 Descrição das amostras primárias e dimensão mínima de amostras de laboratório
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/38183826.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/38183826.pdf)](https://files.diariodarepublica.pt/1s/2003/07/150a00/38183826.pdf)
 
 4.4 - Preparação da amostra de laboratório - se a amostra global foi maior do que o necessário para a amostra de laboratório, deve ser dividida de forma a constituir-se uma parte representativa. Pode utilizar-se um instrumento de amostragem, um divisor de amostras ou outro processo apropriado de redução da dimensão das amostras, mas as unidades de produtos vegetais frescos não devem ser cortadas ou partidas. Se necessário, serão colhidos, nesta fase, duplicados das amostras de laboratório, que também podem ser preparados pelo processo alternativo acima descrito. As dimensões mínimas das amostras de laboratório são indicadas no quadro n.º 2.
 

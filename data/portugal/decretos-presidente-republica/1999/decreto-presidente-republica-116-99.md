@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/116/1999/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/116-1999-145613
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T04:29:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7af811703cb7497ec392d74f664634f5fa5445d7052246f2c9e9d82502ddcaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f115903dfa575d1bab63358b1bae26424a3444db9ea85360afd22b977f0e4e0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:29:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bélgica
+- Bruxelas
 - Embaixador
 - Nomeação
-- Bruxelas
 relationships:
 - type: amended_by
   target: pt:dre:302164:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302164:por
+  label: "Exonerado pelo DEC.21/2004.03.05.2004.PR, DR.IS-A [103] de 03.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/21-2004-302164
+  date: '2004-05-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:29:17Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +98,16 @@ validation:
 
 de 19 de Março
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o embaixador Francisco Pessanha de Quevedo Crespo para o cargo de embaixador de Portugal em Bruxelas.
 
-**Assinado em 26 de Fevereiro de 1999.**
+Assinado em 26 de Fevereiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Março de 1999.**
+Referendado em 2 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.

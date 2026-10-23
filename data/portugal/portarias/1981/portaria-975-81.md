@@ -46,40 +46,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/975-1981-568367
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:59:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1359bee1fc0d4da89a42a1d8e68262e197efb11751799c598246930d78d1149d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97ec5cb91561ef3b3827e8a2750b64c71d9bb9626ad45e046c187272d934abac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:59:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Educação e das Universidades
+- Quadro de Pessoal
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:307823:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:608503:por
+  label: "Alterada pela PORT.335/82.1982.04.01.MFP, DR.IS [76] de 1/Abr/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/335-1982-608503
+  date: '1982-04-01'
+- type: amended_by
+  target: pt:dre:374437:por
+  label: "Criado um lugar de assessor no quadro único de pessoal do Ministério da Educação, a que se refere o mapa anexo ao\
+    \ presente diploma, pela PORT.841/82.02.09.1982.MFP, DR.IS [203] de 02.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/841-1982-374437
+  date: '1982-09-02'
+- type: amended_by
+  target: pt:dre:376667:por
+  label: "Alterado o quadro de pessoal constante do anexo do presente diploma pela PORT.963/82.13.10.1982.MFP, DR.IS [237]\
+    \ de 13.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/963-1982-376667
+  date: '1982-10-13'
+- type: amended_by
+  target: pt:dre:379171:por
+  label: "Alterado o quadro de único do pessoal dos órgãos e serviços centrais do Ministério da Educação, constante do mapa\
+    \ anexo à Port. 975/81, de 17-Nov, DR.IS [265], alterada naPort 841/82, de 02-Set e na Port 963/82, de 13-Out, pela PORT.1147/82.25.11.1982.MFP,\
+    \ DR.IS [287] de 14.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1147-1982-379171
+  date: '1982-11-25'
+- type: amended_by
+  target: pt:dre:307823:por
+  label: "Abatidos ao quado de pessoal os lugares relativos à Direcção Geral da Apoio Médico, pela PORT.52/83.1983.01.21.MQV\
+    \ DR.IS [17]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/52-1983-307823
+  date: '1983-01-21'
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:59:13Z'
   warnings: []
   errors: []
 ---
@@ -110,4 +167,4 @@ Ministérios das Finanças e do Plano, da Educação e das Universidades e da Re
 
 Mapa a que se refere a Portaria n.º 975/81
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/26500/30423044.pdf))](https://files.diariodarepublica.pt/1s/1981/11/26500/30423044.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/26500/30423044.pdf)

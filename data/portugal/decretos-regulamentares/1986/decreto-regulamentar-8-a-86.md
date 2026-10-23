@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 80/1986, 1º Suplemento, Série I de 1986-04-07
   number: '80'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 820-(1) a 820-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/04/08001/00010001.pdf
 entry_into_force_dates: []
@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-a-1986-515247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9f6efca260010fd0a04d6c7c9dbc45d9b53874c3aac088ea1ba98134765052a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe43b7f5ec07bd7cf608753b1878eedb0a2e5e73a64a0b26a7f914f43ade9223
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Ministério da Educação
+- Ministério da Saúde
+- Ministério das Finanças
+- Ministério das Obras Públicas
+- Ministério do Trabalho
+- OBRA Social
+- Presidência do Conselho de Ministros
+- Serviços Sociais
+relationships:
+- type: cites
+  target: pt:dre:193808:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:09Z'
   warnings: []
   errors: []
 ---
@@ -95,18 +108,18 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º A produção de efeitos das normas contidas no [Decreto Regulamentar n.º 5/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1986-193808), de 28 de Fevereiro, fica dependente da verificação do preenchimento das condições consideradas indispensáveis ao bom e regular funcionamento das obras e serviços sociais nos moldes definidos no referido diploma, a reconhecer por despacho do Ministro das Finanças.
+Artigo 1.º A produção de efeitos das normas contidas no [Decreto Regulamentar n.º 5/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1986-193808), de 28 de Fevereiro, fica dependente da verificação do preenchimento das condições consideradas indispensáveis ao bom e regular funcionamento das obras e serviços sociais nos moldes definidos no referido diploma, a reconhecer por despacho do Ministro das Finanças.
 
-###### Art. 2.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Joaquim Fernando Nogueira - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Pedro José Rodrigues Pires de Miranda - António Amaro de Matos - Fernando Augusto dos Santos Martins - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Luís Fernando Mira Amaral.
 
-**Promulgado em 4 de Abril de 1986.**
+Promulgado em 4 de Abril de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Abril de 1986.**
+Referendado em 7 de Abril de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

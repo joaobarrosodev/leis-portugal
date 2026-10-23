@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/34/2005/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2005-605329
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b9381fbcc3f9bdbf0e78b482e63062b31daec44cca8cc7ebf7bcf08c788c8d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea10c7ac0ca0ca8170255fd6bf9e8e1e937369dd6ac145d9234c4b71ad92ac2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Benefícios Fiscais
 - CE Países
+- Dupla Tributação
 - Igualdade de Tratamento
 - Isenção Fiscal
 - Juros
 - Pessoa Coletiva
-- Dupla Tributação
 - Reembolso
-- Benefícios Fiscais
 - Retenção na Fonte
 - Taxa
 - Tributação
@@ -83,6 +83,45 @@ relationships:
   target: pt:dre:571007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:583434:por
+  label: "Alterados os arts. 80º e 90º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-Nov, na redacção do presente\
+    \ diploma, pelo DEC LEI.192/2005.07.11.2005.MFAP, DR.IS-A [213] de 07.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-2005-583434
+  date: '2005-11-07'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art 90.º do Código do IRC, aprovado pelo Dec Lei n.º 442-B/88, de 30-Nov, revisto e republicado pelo\
+    \ Dec Lei 198/2001 de 03-Jul, e com a redacção do presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl]\
+    \ de 29.12.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o art 90.º do Código do IRC aprovado pelo Dec Lei 442-B/88 de 30-Nov, revisto e republicado pelo Dec Lei\
+    \ 198/2001 de 03-Jul, e na redacção do presente diploma, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0\
+    7\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 80.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterado o art. 90.º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ republicado pelo Dec Lei 159/2009 de 13-Jul, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:571007:por
+  label: Dada nova redação ao art. 90.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-nov, alterado pelo presente
+    diploma, pela LEI.2/2014.16.01.2014.AR, DR.IS [11] de 16.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
 - type: cites
   target: celex:32003L0048
   label: null
@@ -92,15 +131,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2003/49/oj
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:28Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +204,9 @@ b) Em caso de existência de relações especiais, nos termos do disposto no n.�
 
 c) Ao montante dos juros correspondentes ao endividamento excessivo, determinado de acordo com as regras constantes do artigo 61.º
 
-###### Artigo 90.º — Dispensa de retenção na fonte
+Artigo 90.º
+
+Dispensa de retenção na fonte
 
 1 - ...
 
@@ -255,12 +296,12 @@ As disposições aprovadas pelo presente diploma entram em vigor em 1 de Julho d
 
 Visto e aprovado em Conselho de Ministros de 2 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix - António Victor Martins Monteiro.
 
-**Promulgado em 7 de Janeiro de 2005.**
+Promulgado em 7 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Janeiro de 2005.**
+Referendado em 11 de Janeiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

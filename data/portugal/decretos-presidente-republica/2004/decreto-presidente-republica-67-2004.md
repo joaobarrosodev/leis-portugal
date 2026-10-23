@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/67/2004/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/67-2004-604400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T04:48:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f647014c15d2bc052f1bbddf8b225f986a92efee4d5043e1070943e7cc89921f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fbc469070352cdda441938f90b9664ed7c901484f1f17dabaeb647cb34739d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:48:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Embaixador
+- França
 - Nomeação
 - Paris
-- França
 relationships:
 - type: amended_by
   target: pt:dre:203435:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:203435:por
+  label: "Exonerado o embaixador João Rosa Lã, do cargo de Embaixador de Portugal em Paris, pelo DEC.1/2006.04.01.2006.PR,\
+    \ DR.IS-A [3] de 04.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/1-2006-203435
+  date: '2006-01-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:48:37Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +98,16 @@ validation:
 
 de 23 de Setembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o embaixador João Rosa Lã para o cargo de Embaixador de Portugal em Paris.
 
-**Assinado em 16 de Setembro de 2004.**
+Assinado em 16 de Setembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Setembro de 2004.**
+Referendado em 16 de Setembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes. - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Victor Martins Monteiro.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes. - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Victor Martins Monteiro.

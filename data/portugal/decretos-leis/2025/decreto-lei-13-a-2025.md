@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/04801/0000200089.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13-a/2025/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c61d7d44643a7d8652877768ff9946d56797a3c88d19bfb030067678c354d92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7c8729e4653d6c3c0bcbee2ae53909a2821a99da8a8dde5201e6135e8d54f50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,64 +67,174 @@ reuse:
 subjects:
 - Administração Central
 - Administração Financeira do Estado
+- Administração Local
+- Administração Pública
+- Administração Regional
 - Alteração Orçamental
 - Aquisição de Bens e Serviços
-- Região Autónoma
 - Atribuição de Verba
 - Autoridade Tributária e Aduaneira
-- Garantia
-- Património
-- Descolonização
+- BENS Imóveis do Estado
+- Cedência de Interesse Público
 - Comunidade Intermunicipal
+- Contabilidade Pública
+- Créditos do Estado
 - Descentralização
+- Descolonização
 - Despesas Públicas
-- Regulamentação de Atos Legislativos
+- Direção Geral do Orçamento
 - Dívida Pública
 - Dotação Orçamental
-- Empréstimo Público
 - Empresa Pública
-- Administração Pública
+- Empréstimo Público
+- Estatuto Remuneratório
 - Execução do Orçamento
-- BENS Imóveis do Estado
 - Fundos CE
-- Créditos do Estado
-- Recrutamento de Pessoal
+- Garantia
 - Gestão Orçamental
-- Pagamento em Atraso
 - Manual Escolar
-- Direção Geral do Orçamento
-- Sistema de Normalização Contabilística
-- Orçamento Geral do Estado
+- Ministério dos Negócios Estrangeiros
+- Mobilidade de Pessoal
 - Operações de Tesouraria
 - Orçamento
 - Orçamento da Segurança Social
-- Património do Estado
-- Tesouraria
-- Política Orçamental
-- Prestação de Contas
-- Receita Pública
-- Administração Local
-- Regulamento CE
-- Cedência de Interesse Público
-- Mobilidade de Pessoal
-- Ministério dos Negócios Estrangeiros
-- Setor Empresarial
-- Serviços Periféricos
-- Administração Regional
-- Contabilidade Pública
-- Estatuto Remuneratório
-- Ucrânia
-- PORTUGAL 2020
-- Orçamento Participativo Portugal
+- Orçamento Geral do Estado
 - Orçamento Participativo Jovem Portugal
-- Programa de Regularização Extraordinária dos Vínculos Precários na Administração Pública
+- Orçamento Participativo Portugal
+- Pagamento em Atraso
+- Património
+- Património do Estado
 - Plano de Recuperação e Resiliência
+- Política Orçamental
+- PORTUGAL 2020
 - Portugal 2030
+- Prestação de Contas
+- Programa de Regularização Extraordinária dos Vínculos Precários na Administração Pública
+- Receita Pública
+- Recrutamento de Pessoal
+- Região Autónoma
+- Regulamentação de Atos Legislativos
+- Regulamento CE
+- Serviços Periféricos
+- Setor Empresarial
+- Sistema de Normalização Contabilística
+- Tesouraria
+- Ucrânia
 relationships:
 - type: amended_by
   target: pt:dre:1087228943:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:177/2000
+  label: Altera, com efeitos a 1 de janeiro de 2025, o artigo 2.º do Decreto-Lei n.º 177/2000, de 9 de agosto, Diário da República
+    n.º 183/2000, Série I-A
+  source: null
+  date: '2000-08-09'
+- type: amends
+  target: pt:numero:decreto-lei:161/2001
+  label: Altera, com efeitos a 1 de janeiro de 2025, o artigo 14.º do Decreto-Lei n.º 161/2001, de 22 de maio, Diário da República
+    n.º 118/2001, Série I-A
+  source: null
+  date: '2001-05-22'
+- type: amends
+  target: pt:numero:decreto-lei:113/2005
+  label: Altera, com efeitos a 1 de janeiro de 2025, o artigo 5.º do Decreto-Lei n.º 113/2005, de 13 de julho, Diário da República
+    n.º 133/2005, Série I-A
+  source: null
+  date: '2005-07-13'
+- type: amends
+  target: pt:numero:lei:47/2006
+  label: Derroga, no ano letivo de 2024-2025, nos termos do n.º 1 do artigo 170.º do presente diploma, a alínea a) do n.º
+    4 do artigo 5.º da Lei n.º 47/2006, de 28 de agosto, Diário da República n.º 165/2006, Série I
+  source: null
+  date: '2006-08-28'
+- type: amends
+  target: pt:numero:decreto-lei:176/2006
+  label: Altera, com efeitos a 1 de janeiro de 2025, o artigo 120.º do Decreto-Lei n.º 176/2006, de 30 de agosto, Diário da
+    República n.º 167/2006, Série I
+  source: null
+  date: '2006-08-30'
+- type: amends
+  target: pt:numero:decreto-lei:37/2007
+  label: Altera, com efeitos a 1 de janeiro de 2025, o artigo 3.º do Decreto-Lei n.º 37/2007, de 19 de fevereiro, Diário da
+    República n.º 35/2007, Série I
+  source: null
+  date: '2007-02-19'
+- type: amends
+  target: pt:numero:decreto-lei:170/2008
+  label: Altera, com efeitos a 1 de janeiro de 2025, o artigo 4.º do Decreto-Lei n.º 170/2008, de 26 de agosto, Diário da
+    República n.º 164/2008, Série I
+  source: null
+  date: '2008-08-26'
+- type: amends
+  target: pt:numero:decreto-lei:89/2010
+  label: Altera, com efeitos a 1 de janeiro de 2025, o artigo 10.º (Período de vigência) do Decreto-Lei n.º 89/2010, de 21
+    de julho, Diário da República n.º 140/2010, Série I, que passa a vigorar até 31 de dezembro de 2025, com exceção do estabelecido
+    no seu artigo 8.º
+  source: null
+  date: '2010-07-21'
+- type: amends
+  target: pt:numero:decreto-lei:34/2012
+  label: Altera, com efeitos a 1 de janeiro de 2025, o artigo 12.º do Decreto-Lei n.º 34/2012, de 14 de fevereiro, Diário
+    da República n.º 32/2012, Série I
+  source: null
+  date: '2012-02-14'
+- type: amends
+  target: pt:numero:portaria:278/2012
+  label: Derroga, com efeitos a 1 de janeiro de 2025, nos termos do artigo 116.º do presente diploma, o n.º 2 do artigo 2.º
+    da Portaria n.º 278/2012, de 14 de setembro, Diário da República n.º 179/2012, Série I
+  source: null
+  date: '2012-09-14'
+- type: amends
+  target: pt:numero:decreto-lei:215/2012
+  label: Altera, com efeitos a 1 de janeiro de 2025, o artigo 29.º e revoga o n.º 5 do mesmo artigo 29.º do Decreto-Lei n.º
+    215/2012, de 28 de setembro, Diário da República n.º 189/2012, Série I
+  source: null
+  date: '2012-09-28'
+- type: amends
+  target: pt:numero:decreto-lei:171/2015
+  label: Altera, com efeitos a 1 de janeiro de 2025, o artigo 35.º do Decreto-Lei n.º 171/2015, de 25 de agosto, Diário da
+    República n.º 165/2015, Série I
+  source: null
+  date: '2015-08-25'
+- type: amends
+  target: pt:numero:decreto-lei:192/2015
+  label: Estende aos serviços integrados, para efeitos da prestação de contas relativa ao ano de 2024, o regime de dispensa
+    constante do n.º 2 do artigo 10.º do Decreto-Lei n.º 192/2015, de 11 de setembro, Diário da República n.º 178/2015, Série
+    I
+  source: null
+  date: '2015-09-11'
+- type: amends
+  target: pt:numero:decreto-lei:201/2015
+  label: Altera, com efeitos a 1 de janeiro de 2025, o artigo 4.º do Decreto-Lei n.º 201/2015, de 17 de setembro, Diário da
+    República n.º 182/2015, Série I
+  source: null
+  date: '2015-09-17'
+- type: amends
+  target: pt:numero:decreto-lei:111-B/2017
+  label: Altera, com efeitos a 1 de janeiro de 2025, o artigo 9.º (Norma transitória) do Decreto-Lei n.º 111-B/2017, de 31
+    de agosto, Diário da República n.º 168/2017, 2º Suplemento, Série I
+  source: null
+  date: '2017-08-31'
+- type: amends
+  target: pt:numero:decreto-lei:52/2022
+  label: Altera, com efeitos a 1 de janeiro de 2025, o artigo 77.º do Decreto-Lei n.º 52/2022, de 4 de agosto, Diário da República
+    n.º 150/2022, Série I
+  source: null
+  date: '2022-08-04'
+- type: amends
+  target: pt:numero:decreto-lei:100/2023
+  label: Altera, com efeitos a 1 de janeiro de 2025, o artigo 2.º (Prorrogação excecional de licenças) do Decreto-Lei n.º
+    100/2023, de 31 de outubro, Diário da República n.º 211/2023, Série I
+  source: null
+  date: '2023-10-31'
+- type: amends
+  target: pt:numero:decreto-lei:103/2023
+  label: Altera, com efeitos a 1 de janeiro de 2025, o artigo 20.º e revoga o n.º 6 do mesmo artigo 20.º do Decreto-Lei n.º
+    103/2023, de 7 de novembro, Diário da República n.º 215/2023, Série I
+  source: null
+  date: '2023-11-07'
 - type: cites
   target: celex:32004R1222
   label: null
@@ -185,16 +295,364 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/1/2023/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1/2023/08/17/p/dre
+- type: cites
+  target: pt:dre:105669749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106549661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106647823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106886582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115226934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115553662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115642178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117142872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118748848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153519406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160631105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187413389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187413390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204502329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207177836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210543862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219991254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220061174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66005768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70686134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74950370:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:890194535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901667918:por
+  label: null
+  source: null
 article_structure:
-  article_count: 177
-  section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 11
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:25Z'
   warnings: []
   errors: []
 ---
@@ -267,7 +725,7 @@ c) À retenção de 1 % da dotação orçamental da entidade incumpridora, relat
 
 4 - Excluem-se do estabelecido no número anterior as transferências do Orçamento do Estado para as entidades com autonomia administrativa e financeira respeitantes a receitas de impostos consignadas.
 
-5 - As redistribuições a que se referem os n.<sup>os</sup>9 e 11 do artigo 3.º da Lei do Orçamento do Estado, da competência, respetivamente, do dirigente do serviço e do membro do Governo responsável pela área setorial, são efetuadas através de alterações orçamentais no âmbito da gestão flexível.
+5 - As redistribuições a que se referem os n.os9 e 11 do artigo 3.º da Lei do Orçamento do Estado, da competência, respetivamente, do dirigente do serviço e do membro do Governo responsável pela área setorial, são efetuadas através de alterações orçamentais no âmbito da gestão flexível.
 
 6 - A libertação mensal de fundos apenas pode ser realizada pela DGO após a verificação do registo dos cativos previstos na Lei do Orçamento do Estado.
 
@@ -295,7 +753,7 @@ e) As despesas destinadas ao pagamento dos encargos contratuais com o Sistema de
 
 4 - Deve ser concedida uma descativação de 20 % das despesas previstas no número anterior quando associadas a programas de desmaterialização ou outras iniciativas conducentes à diminuição de utilização de papel e consumíveis de impressão.
 
-5 - A descativação e a utilização total ou parcial das verbas cativas previstas nos n.<sup>os</sup>1 e 3 carece de despacho do membro do Governo responsável pela área setorial, sem possibilidade de delegação, salvo em outro membro do Governo tendo em consideração a necessidade de concretizar as autorizações de contratação já concedidas.
+5 - A descativação e a utilização total ou parcial das verbas cativas previstas nos n.os1 e 3 carece de despacho do membro do Governo responsável pela área setorial, sem possibilidade de delegação, salvo em outro membro do Governo tendo em consideração a necessidade de concretizar as autorizações de contratação já concedidas.
 
 6 - Para efeitos do artigo 11.º, e sem prejuízo das competências estabelecidas para a realização de alterações orçamentais, as entidades podem fazer a redistribuição de dotações orçamentais de rubricas sujeitas a cativos, desde que seja mantido o montante de cativos por fonte de financiamento e por rubricas sujeitas a cativos, estabelecido nos termos da lei.
 
@@ -457,29 +915,35 @@ b) Existam, nos termos do regime da organização e funcionamento do Governo, po
 
 6 - As instituições de ensino superior, nestas se incluindo, para efeitos do presente número, as de natureza fundacional previstas no capítulo vi do título iii da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, na sua redação atual, são competentes para proceder às alterações orçamentais constantes do n.º 3 do artigo 9.º, da alínea e) do n.º 1 do artigo 10.º e do n.º 1 do presente artigo, desde que em cumprimento da regra do equilíbrio prevista no artigo 27.º da Lei de Enquadramento Orçamental.
 
-###### Artigo 12.º — Prioridade e registo de alterações orçamentais
+Artigo 12.º
+
+Prioridade e registo de alterações orçamentais
 
 1 - As alterações orçamentais decorrentes do aumento de receitas próprias, incluindo as resultantes de integrações de saldos, são efetuadas prioritariamente a favor das classificações económicas 01.01 - «Remunerações certas e permanentes» ou 01.03 - «Segurança social», desde que estas registem necessidades de financiamento, e a favor da redução dos pagamentos em atraso.
 
 2 - O registo das alterações orçamentais é efetuado, pelos serviços e organismos, nos sistemas contabilísticos, após emissão do despacho de autorização, só podendo ser registada a inscrição ou o reforço das dotações da despesa após o registo do correspondente movimento de contrapartida que o suporta.
 
-###### Artigo 13.º — Alterações orçamentais respeitantes a dotações centralizadas
+Artigo 13.º
 
-1 - A afetação da dotação prevista no n.º 4 do artigo 8.º da Lei do Orçamento do Estado é efetuada por despacho dos membros do Governo responsáveis pelas áreas das finanças e da coesão territorial, quando estejam em causa operações financiadas no âmbito do Portugal 2020, do Portugal 2030 e do MFEEE 2014-2021 e 2021-2028, e quando estejam em causa o Programa de Desenvolvimento Rural do Continente 2014-2020 (PDR 2020) o Plano Estratégico da Política Agrícola Comum 23.27 (PEPAC 23.27) ou o Programa Operacional Mar 2020 (Mar 2020) e o Programa Operacional Mar 2030 (Mar 2030), e projetos do Plano Nacional de Ação (PNA), do Sistema de Gestão Integrada dos Fogos Rurais (SGIFR), dos membros do Governo responsáveis pelas áreas das finanças, da agricultura e pescas e, quando aplicável, da economia e da agricultura e pescas, mediante parecer da DGO, que confirme a inexistência de contrapartida pública nacional inscrita no Orçamento do Estado para 2025 ou garantida de outra forma e demais requisitos previstos nos n.<sup>os</sup>4 e 5 do artigo 8.º da Lei do Orçamento do Estado, e da Agência para o Desenvolvimento e Coesão, I. P. (Agência, I. P.), da Unidade Nacional de Gestão do MFEEE ou do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), quando estejam em causa operações financiadas pelos PDR 2020, PEPAC 23.27 ou Mar 2020 e Mar 2030, que, respetivamente, comprove que as operações em causa têm o cofinanciamento do Portugal 2020, do Portugal 2030, ou do MFEEE, ou do PDR 2020, do PEPAC 23.27 ou do Mar 2020 ou do Mar 2030 aprovado.
+Alterações orçamentais respeitantes a dotações centralizadas
 
-2 - A afetação da dotação prevista nos n.<sup>os</sup>4 e 13 do artigo 8.º da Lei do Orçamento do Estado, relativamente aos procedimentos autorizados pelos membros do Governo durante o ano de 2024, ao abrigo do disposto nos n.<sup>os</sup>4 a 7 do artigo 8.º da [Lei n.º 24-D/2022](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), de 30 de dezembro, no artigo 12.º do [Decreto-Lei n.º 10/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836), de 8 de fevereiro, e na [Portaria n.º 138/2017](https://diariodarepublica.pt/dr/detalhe/portaria/138-2017-106886582), de 17 de abril, efetua-se mediante submissão do pedido pela entidade coordenadora do programa orçamental da área governativa em causa ao membro do Governo responsável pela área das finanças, para reavaliação no prazo de 15 dias.
+1 - A afetação da dotação prevista no n.º 4 do artigo 8.º da Lei do Orçamento do Estado é efetuada por despacho dos membros do Governo responsáveis pelas áreas das finanças e da coesão territorial, quando estejam em causa operações financiadas no âmbito do Portugal 2020, do Portugal 2030 e do MFEEE 2014-2021 e 2021-2028, e quando estejam em causa o Programa de Desenvolvimento Rural do Continente 2014-2020 (PDR 2020) o Plano Estratégico da Política Agrícola Comum 23.27 (PEPAC 23.27) ou o Programa Operacional Mar 2020 (Mar 2020) e o Programa Operacional Mar 2030 (Mar 2030), e projetos do Plano Nacional de Ação (PNA), do Sistema de Gestão Integrada dos Fogos Rurais (SGIFR), dos membros do Governo responsáveis pelas áreas das finanças, da agricultura e pescas e, quando aplicável, da economia e da agricultura e pescas, mediante parecer da DGO, que confirme a inexistência de contrapartida pública nacional inscrita no Orçamento do Estado para 2025 ou garantida de outra forma e demais requisitos previstos nos n.os4 e 5 do artigo 8.º da Lei do Orçamento do Estado, e da Agência para o Desenvolvimento e Coesão, I. P. (Agência, I. P.), da Unidade Nacional de Gestão do MFEEE ou do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), quando estejam em causa operações financiadas pelos PDR 2020, PEPAC 23.27 ou Mar 2020 e Mar 2030, que, respetivamente, comprove que as operações em causa têm o cofinanciamento do Portugal 2020, do Portugal 2030, ou do MFEEE, ou do PDR 2020, do PEPAC 23.27 ou do Mar 2020 ou do Mar 2030 aprovado.
+
+2 - A afetação da dotação prevista nos n.os4 e 13 do artigo 8.º da Lei do Orçamento do Estado, relativamente aos procedimentos autorizados pelos membros do Governo durante o ano de 2024, ao abrigo do disposto nos n.os4 a 7 do artigo 8.º da [Lei n.º 24-D/2022](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), de 30 de dezembro, no artigo 12.º do [Decreto-Lei n.º 10/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836), de 8 de fevereiro, e na [Portaria n.º 138/2017](https://diariodarepublica.pt/dr/detalhe/portaria/138-2017-106886582), de 17 de abril, efetua-se mediante submissão do pedido pela entidade coordenadora do programa orçamental da área governativa em causa ao membro do Governo responsável pela área das finanças, para reavaliação no prazo de 15 dias.
 
 3 - Para efeitos do acesso à dotação centralizada prevista no n.º 9 do artigo 8.º da Lei do Orçamento do Estado, as entidades que solicitem reforços de dotação de despesa por contrapartida daquela dotação centralizada não podem ter dotações corrigidas inferiores à dotação inicial nas rubricas de despesa para as quais proponham reforço de verbas.
 
 4 - Ficam sujeitas a autorização prévia do membro do Governo responsável pela área das finanças as alterações orçamentais que procedam a reduções de dotações que tiveram reforço com contrapartida nas dotações centralizadas previstas no artigo 8.º da Lei do Orçamento do Estado.
 
-###### Artigo 14.º
+Artigo 14.º
 
 Programa de Regularização Extraordinária dos Vínculos Precários na Administração Pública - Técnicos especializados dos agrupamentos de escolas e escolas não agrupadas
 
 Na ausência dos mapas de pessoal a que se refere o artigo 6.º da [Lei n.º 112/2017](https://diariodarepublica.pt/dr/detalhe/lei/112-2017-114425584), de 29 de dezembro, na sua redação atual, e para efeitos da abertura de procedimentos concursais ao abrigo da LTFP para regularização extraordinária de técnicos especializados nos agrupamentos de escolas e escolas não agrupadas, é automaticamente considerado o número de postos de trabalho estritamente necessário, no respetivo agrupamento de escolas ou escola não agrupada, para corresponder às necessidades permanentes reconhecidas em pareceres da respetiva Comissão de Avaliação Bipartida, homologados pelos membros do Governo competentes.
 
-###### Artigo 15.º — Orçamento Participativo Portugal e Orçamento Participativo Jovem Portugal
+Artigo 15.º
+
+Orçamento Participativo Portugal e Orçamento Participativo Jovem Portugal
 
 1 - A afetação da dotação prevista para os projetos aprovados no âmbito do Orçamento Participativo Portugal (OPP) e do Orçamento Participativo Jovem Portugal (OPJP) efetua-se mediante despacho dos membros do Governo responsáveis pelas áreas da modernização administrativa e da presidência e das finanças, no caso do OPP, e mediante despacho dos membros do Governo responsáveis pelas áreas das finanças e da juventude, no caso do OPJP, nos seguintes termos:
 
@@ -497,7 +961,9 @@ c) As entidades referidas nas alíneas anteriores podem ser públicas, incluindo
 
 5 - Relativamente às verbas do OPP 2017 e do OPJP 2017, bem como às verbas do OPP 2018, do OPJP 2018 e do OPJP 2019 que tenham sido transferidas para as entidades gestoras ou coordenadoras dos projetos aprovados, é aplicável, respetivamente, o regime decorrente do n.º 4 do artigo 13.º do [Decreto-Lei n.º 25/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2017-106549661), de 3 de março, do n.º 4 do artigo 14.º do [Decreto-Lei n.º 33/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), de 15 de maio, do n.º 4 do artigo 15.º do [Decreto-Lei n.º 84/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), de 28 de junho, do n.º 4 do artigo 15.º do [Decreto-Lei n.º 53/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389), de 12 de agosto, e do n.º 4 do artigo 15.º do [Decreto-Lei n.º 10/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836), de 8 de fevereiro.
 
-###### Artigo 16.º — Acompanhamento da execução dos orçamentos com impacto de género
+Artigo 16.º
+
+Acompanhamento da execução dos orçamentos com impacto de género
 
 1 - A Comissão para a Cidadania e a Igualdade de Género (CIG) acompanha a execução das medidas e ações do orçamento com perspetiva de género constante dos elementos informativos e complementares ao Orçamento do Estado para 2025, podendo solicitar informação aos serviços responsáveis pela respetiva implementação, bem como propor a utilização de indicadores adicionais para a monitorização do cumprimento dos objetivos identificados.
 
@@ -507,7 +973,9 @@ c) As entidades referidas nas alíneas anteriores podem ser públicas, incluindo
 
 4 - A DGO e a CIG prestam apoio de capacitação e formação no âmbito do acompanhamento da execução do orçamento com perspetiva de género.
 
-###### Artigo 17.º — Programas específicos de mobilidade
+Artigo 17.º
+
+Programas específicos de mobilidade
 
 1 - Para efeitos do n.º 2 do artigo 23.º da Lei do Orçamento do Estado, a mobilidade de trabalhadores para estruturas específicas que venham a ser criadas em áreas transversais a toda a Administração Pública implica a transferência orçamental dos montantes considerados na dotação da rubrica «Despesas com pessoal» do serviço de origem do trabalhador para o orçamento de despesas com pessoal da estrutura à qual o trabalhador seja afeto.
 
@@ -519,7 +987,9 @@ b) Caso a despesa no serviço de origem seja financiada através de receitas pr�
 
 3 - Na eventualidade de a despesa com pessoal no serviço de origem ser financiada através de receitas consignadas a fins específicos, o membro do Governo responsável pela área setorial promove e autoriza as alterações orçamentais no âmbito da sua competência, necessárias ao financiamento da despesa com pessoal associada à mobilidade dos trabalhadores em causa, previamente à transferência a que se refere o número anterior.
 
-###### Artigo 18.º — Entrega de saldos
+Artigo 18.º
+
+Entrega de saldos
 
 1 - Os saldos das entidades da administração central com origem em receitas de impostos são entregues na tesouraria do Estado, ainda que com prejuízo dos respetivos diplomas orgânicos e dos diplomas que definem os regimes setoriais, sendo as instruções definidas pela DGO.
 
@@ -529,7 +999,7 @@ a) Correspondentes à contrapartida nacional de projetos cofinanciados e receita
 
 b) Das instituições de ensino superior, que transitam nos termos do disposto no artigo 114.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, na sua redação atual;
 
-c) Previstos nos n.<sup>os</sup>3 e 4 do artigo 21.º;
+c) Previstos nos n.os3 e 4 do artigo 21.º;
 
 d) Apurados no âmbito da reorganização da defesa nacional e das Forças Armadas, cuja transição esteja legalmente prevista e seja previamente autorizada pelo membro do Governo responsável pela área das finanças;
 
@@ -545,7 +1015,9 @@ i) Da Agência, I. P., provenientes de receitas de impostos, decorrentes do refo
 
 3 - O disposto no n.º 1 aplica-se, igualmente, quando estiverem em causa saldos com origem em receitas de impostos consignadas, nos casos em que o montante realmente cobrado pelo Estado tiver sido inferior ao montante transferido para as entidades beneficiárias dessas receitas de impostos consignadas.
 
-###### Artigo 19.º — Transição de saldos
+Artigo 19.º
+
+Transição de saldos
 
 1 - Os saldos de receitas próprias, de receitas de impostos consignadas e de verbas com origem em receitas próprias do Fundo Azul, do crédito externo e de fundos europeus e internacionais das entidades da administração central, incluindo os saldos da ação social escolar no ensino não superior, apurados na execução orçamental de 2024, transitam para 2025.
 
@@ -567,7 +1039,7 @@ i) Da Agência, I. P., provenientes de receitas de impostos, decorrentes do refo
 
 10 - Nas instituições do ensino superior que compreendam unidades orgânicas autónomas dotadas de autonomia administrativa e financeira, a verificação do cumprimento da regra do equilíbrio orçamental é feita em relação à instituição como um todo, abrangendo o conjunto daquelas unidades orgânicas, nelas se incluindo os respetivos serviços de ação social, sendo o eventual incumprimento da responsabilidade das unidades orgânicas autónomas que não cumpram com a mencionada regra de equilíbrio.
 
-11 - Para os fins previstos nos n.<sup>os</sup>3 e 4 do artigo 21.º, no que respeita às verbas do Fundo de Apoio aos pagamentos do Serviço Nacional de Saúde (SNS), as entidades devem, previamente, proceder à integração de saldos, para, posteriormente, efetuarem a restituição de saldos a favor da Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.).
+11 - Para os fins previstos nos n.os3 e 4 do artigo 21.º, no que respeita às verbas do Fundo de Apoio aos pagamentos do Serviço Nacional de Saúde (SNS), as entidades devem, previamente, proceder à integração de saldos, para, posteriormente, efetuarem a restituição de saldos a favor da Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.).
 
 12 - O saldo de receitas de impostos da execução orçamental de 2024 do Gabinete de Estratégia, Planeamento e Avaliação Culturais transita e é integrado no respetivo orçamento, sendo consignado ao pagamento de apoios às artes.
 
@@ -579,13 +1051,17 @@ i) Da Agência, I. P., provenientes de receitas de impostos, decorrentes do refo
 
 16 - Os saldos de receitas de impostos apurados na execução orçamental de 2024, da medida «veículos» prevista no [Decreto-Lei n.º 54/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2022-187413390), de 12 de agosto, que estabelece a programação de infraestruturas e equipamentos das forças e serviços de segurança do Ministério da Administração Interna, transitam para 2025 sendo consignado à execução da respetiva medida.
 
-###### Artigo 20.º — Saldo de gerência da Autoridade Nacional da Aviação Civil e pagamento da taxa de segurança às Forças e Serviços de Segurança
+Artigo 20.º
+
+Saldo de gerência da Autoridade Nacional da Aviação Civil e pagamento da taxa de segurança às Forças e Serviços de Segurança
 
 1 - Para efeitos do disposto no artigo 7.º e no n.º 24 do anexo i à Lei do Orçamento do Estado a Autoridade Nacional da Aviação Civil (ANAC) é autorizada a realizar despesa em benefício do setor regulado, nomeadamente com vista à comparticipação dos custos incorridos para garantir as condições de segurança nos aeródromos utilizados na rota Bragança/Vila Real/Viseu/Cascais/Portimão, sujeita a obrigações de serviço público no âmbito do transporte aéreo, fixadas pelo Governo.
 
 2 - Para efeitos do disposto no artigo 7.º e no n.º 68 do anexo i à Lei do Orçamento do Estado, nomeadamente para efeitos de pagamento da taxa de segurança às Forças e Serviços de Segurança, referente ao 4.º trimestre do ano, a ANAC fica autorizada a realizar a transferência dos respetivos valores, logo que seja apurado o respetivo saldo a 31 de dezembro, nos termos da [Portaria n.º 77-B/2014](https://diariodarepublica.pt/dr/detalhe/portaria/77-b-2014-25344049), de 1 de abril, na sua redação atual.
 
-###### Artigo 21.º — Aplicação de saldos
+Artigo 21.º
+
+Aplicação de saldos
 
 1 - Sem prejuízo do disposto no número seguinte, a aplicação em despesa dos saldos transitados só pode ser efetuada após autorização do membro do Governo responsável pela área das finanças.
 
@@ -595,7 +1071,7 @@ a) Dos fundos europeus e internacionais e respetiva contrapartida pública nacio
 
 b) Da Lei de Programação Militar, aprovada pela [Lei Orgânica n.º 1/2023](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2023-219991254), de 17 de agosto, após validação pela DGO até 30 dias após a prestação de contas por parte das entidades da defesa, dos saldos apurados da ADSE, I. P., SAD e ADM, do n.º 2 do artigo 46.º do [Decreto-Lei n.º 118/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1983-311397), de 25 de fevereiro, na sua redação atual, do [Decreto-Lei n.º 54/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2022-187413390), de 12 de agosto, referentes a medidas relativas a infraestruturas, armamento e equipamento de proteção individual, nos termos previstos no referido decreto-lei, e ainda da Lei das Infraestruturas Militares, aprovada pela [Lei Orgânica n.º 2/2023](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), de 18 de agosto, na sua redação atual, desde que no exercício de 2025 exista contrapartida em receita proveniente da alienação de património ao abrigo da mesma lei e que se observe o saldo orçamental inicial da Lei das Infraestruturas Militares;
 
-c) Das receitas provenientes da atividade consular, quando se confirme a impossibilidade da sua repatriação, nos termos previstos nos n.<sup>os</sup>4 e 5 do artigo 57.º, desde que no orçamento do MNE seja efetuada uma cativação adicional de igual montante em despesas financiadas por receitas de impostos, excluindo despesas com pessoal;
+c) Das receitas provenientes da atividade consular, quando se confirme a impossibilidade da sua repatriação, nos termos previstos nos n.os4 e 5 do artigo 57.º, desde que no orçamento do MNE seja efetuada uma cativação adicional de igual montante em despesas financiadas por receitas de impostos, excluindo despesas com pessoal;
 
 d) Dos empréstimos contraídos no sistema bancário externo junto do Banco Europeu de Investimento e do Banco de Desenvolvimento do Conselho da Europa, desde que aplicados em despesa não efetiva em amortização ou concessão de empréstimos, nomeadamente no âmbito da reabilitação urbana, sem prejuízo de obtenção de autorização prévia do membro do Governo responsável pela área das finanças para assegurar o cumprimento do limite previsto no artigo 76.º da Lei do Orçamento do Estado.
 
@@ -603,15 +1079,21 @@ d) Dos empréstimos contraídos no sistema bancário externo junto do Banco Euro
 
 4 - Os saldos da execução orçamental de 2024 dos hospitais, centros hospitalares e unidades locais de saúde são integrados automaticamente no seu orçamento de 2025 e autorizada a sua aplicação no pagamento de dívidas vencidas sem necessidade da autorização a que se refere o n.º 1, com exceção das verbas recebidas do Fundo de Apoio aos Pagamentos do SNS, criado pelo [Decreto-Lei n.º 185/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2006-540022), de 12 de setembro, extinto pelo [Decreto-Lei n.º 188/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2014-66005768), de 30 de dezembro, os quais transitam para a ACSS, I. P.
 
-###### Artigo 22.º — Saldos do capítulo 60 do Orçamento do Estado
+Artigo 22.º
+
+Saldos do capítulo 60 do Orçamento do Estado
 
 No âmbito do encerramento da conta referida no n.º 2 do artigo 14.º da Lei do Orçamento do Estado, as quantias que não tiverem sido utilizadas são refletidas contabilisticamente na desoneração da despesa da execução orçamental de 2025, utilizando-se os procedimentos contabilísticos mais adequados para o efeito.
 
-###### Artigo 23.º — Saldos do capítulo 70 do Orçamento do Estado
+Artigo 23.º
+
+Saldos do capítulo 70 do Orçamento do Estado
 
 No âmbito do encerramento da conta referida no n.º 2 do artigo 15.º da Lei do Orçamento do Estado, as quantias que não tiverem sido utilizadas são refletidas contabilisticamente na desoneração da despesa da execução orçamental de 2025, utilizando-se os procedimentos contabilísticos mais adequados para o efeito.
 
-###### Artigo 24.º — Cabimentação e compromissos
+Artigo 24.º
+
+Cabimentação e compromissos
 
 1 - As entidades da administração central registam e mantêm atualizados, nos seus sistemas informáticos, a cabimentação dos encargos prováveis programados para o ano em curso.
 
@@ -623,7 +1105,9 @@ No âmbito do encerramento da conta referida no n.º 2 do artigo 15.º da Lei do
 
 5 - Estão dispensados do cumprimento do número anterior as entidades que utilizem o sistema de informação contabilística Gestão de Recursos Financeiros em modo Partilhado (GeRFiP), gerido pela ESPAP, I. P.
 
-###### Artigo 25.º — Prazos para autorização de pagamentos e cobrança de receita
+Artigo 25.º
+
+Prazos para autorização de pagamentos e cobrança de receita
 
 1 - A data-limite para a entrada de pedidos de libertação de créditos e de solicitações de transferência de fundos na DGO é 12 de dezembro do ano em curso, salvo situações excecionais, devidamente justificadas pelo membro do Governo pela área setorial e autorizadas pelo membro do Governo responsável pela área das finanças.
 
@@ -641,11 +1125,13 @@ No âmbito do encerramento da conta referida no n.º 2 do artigo 15.º da Lei do
 
 8 - O prazo referido no n.º 3 pode ser excecionalmente alargado até ao último dia útil do ano, exclusivamente para pagamentos correspondentes a projetos financiados por fundos europeus, cuja data-limite corresponde ao último dia útil do ano de 2025.
 
-###### Artigo 26.º — Libertação de créditos e solicitações de transferência de fundos
+Artigo 26.º
+
+Libertação de créditos e solicitações de transferência de fundos
 
 1 - Os pedidos de libertação de créditos e as solicitações de transferência de fundos referentes a financiamento europeu, processados nos termos do n.º 2 do artigo 17.º do [Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), de 28 de julho, na sua redação atual, devem, para os efeitos do disposto no artigo 18.º do referido decreto-lei, ser acompanhados dos comprovativos das correspondentes ordens de pagamento sobre o Tesouro.
 
-2 - O incumprimento do disposto no número anterior ou do disposto na alínea f) do n.º 1 do artigo 33.º constitui motivo de recusa de autorização dos pedidos de libertação de créditos, nos termos dos n.<sup>os</sup>1 e 2 do artigo 19.º do [Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), de 28 de julho, na sua redação atual.
+2 - O incumprimento do disposto no número anterior ou do disposto na alínea f) do n.º 1 do artigo 33.º constitui motivo de recusa de autorização dos pedidos de libertação de créditos, nos termos dos n.os1 e 2 do artigo 19.º do [Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), de 28 de julho, na sua redação atual.
 
 3 - O não envio das candidaturas aprovadas ou o não envio de declaração da autoridade de gestão ou de representante de organismo intermédio com indicação do número de candidaturas, data da aprovação e montante global aprovado constitui, igualmente, motivo de recusa dos pedidos de libertação de créditos ou de solicitações de transferências de fundos referentes a despesas que tenham como fonte de financiamento receitas de impostos afetas a projetos cofinanciados.
 
@@ -653,13 +1139,15 @@ No âmbito do encerramento da conta referida no n.º 2 do artigo 15.º da Lei do
 
 5 - As entidades sem autonomia financeira só podem utilizar as dotações inscritas no Orçamento do Estado após esgotadas as suas receitas próprias não consignadas a fins específicos.
 
-6 - No cumprimento do disposto nos n.<sup>os</sup>4 e 5, excetuando as transferências com compensação em receitas próprias e as inscritas no capítulo 50, podem ser cativadas as transferências correntes e de capital para as entidades com autonomia administrativa e financeira cuja execução orçamental ou em relação aos quais as auditorias realizadas pelo MF não demonstrem a necessidade da utilização integral daquele financiamento.
+6 - No cumprimento do disposto nos n.os4 e 5, excetuando as transferências com compensação em receitas próprias e as inscritas no capítulo 50, podem ser cativadas as transferências correntes e de capital para as entidades com autonomia administrativa e financeira cuja execução orçamental ou em relação aos quais as auditorias realizadas pelo MF não demonstrem a necessidade da utilização integral daquele financiamento.
 
 7 - Quando as entidades da administração central tenham obrigação de pagamento de quantias resultantes de decisões jurisdicionais, nos termos previstos no artigo 172.º do Código de Processo nos Tribunais Administrativos, aprovado pela [Lei n.º 15/2002](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), de 22 de fevereiro, na sua redação atual, fica a DGO autorizada a proceder à retenção do montante devido nas transferências do Orçamento do Estado.
 
 8 - Ao longo da execução orçamental, a receita própria arrecadada é a todo o momento afeta às dotações que envolvam as despesas previstas na alínea b) do n.º 3 do artigo 9.º, na proporção do orçamento corrigido, com exclusão das instituições de ensino superior e demais instituições de investigação científica.
 
-###### Artigo 27.º — Prazos médios de pagamento
+Artigo 27.º
+
+Prazos médios de pagamento
 
 1 - Os coordenadores dos programas orçamentais efetuam o acompanhamento dos prazos médios de pagamento e reportam a situação, trimestralmente, aos membros do Governo responsáveis pela área das finanças e pela área setorial.
 
@@ -675,7 +1163,9 @@ No âmbito do encerramento da conta referida no n.º 2 do artigo 15.º da Lei do
 
 7 - Os organismos obrigam-se a implementar circuitos que garantam não só a eliminação de pagamentos em atraso, como a otimização dos prazos de pagamento, tendo em vista a obtenção de descontos no caso de pronto pagamento.
 
-###### Artigo 28.º — Fundos de maneio e fundos de viagens e alojamento
+Artigo 28.º
+
+Fundos de maneio e fundos de viagens e alojamento
 
 1 - Os fundos de maneio a que se refere o artigo 32.º do [Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), de 28 de julho, na sua redação atual, podem ser constituídos por um valor a definir pelos órgãos dirigentes das entidades, até ao limite máximo de três duodécimos da respetiva rubrica da dotação do orçamento, líquida de cativos.
 
@@ -683,9 +1173,9 @@ No âmbito do encerramento da conta referida no n.º 2 do artigo 15.º da Lei do
 
 3 - A constituição dos fundos previstos nos números anteriores por montante superior ao referido no número anterior fica sujeita à autorização do membro do Governo responsável pela área setorial.
 
-4 - A liquidação dos fundos previstos nos n.<sup>os</sup>1 e 2 é obrigatoriamente efetuada até 9 de janeiro do ano seguinte, com exceção dos fundos de maneio criados com vista a suportar encargos decorrentes da atividade das Forças Armadas no exterior, bem como do fundo de sustentação e funcionamento criado com vista a suportar as atividades da cooperação técnico-militar nos Países Africanos de Língua Oficial Portuguesa e Timor-Leste, que devem ser liquidados até 30 de janeiro do ano seguinte.
+4 - A liquidação dos fundos previstos nos n.os1 e 2 é obrigatoriamente efetuada até 9 de janeiro do ano seguinte, com exceção dos fundos de maneio criados com vista a suportar encargos decorrentes da atividade das Forças Armadas no exterior, bem como do fundo de sustentação e funcionamento criado com vista a suportar as atividades da cooperação técnico-militar nos Países Africanos de Língua Oficial Portuguesa e Timor-Leste, que devem ser liquidados até 30 de janeiro do ano seguinte.
 
-###### Artigo 29.º
+Artigo 29.º
 
 Adoção e aplicação de referenciais contabilísticos, envio da informação ao Sistema Central de Contabilidade e Contas Públicas e Gestão do Plano de Contas Multidimensional
 
@@ -713,7 +1203,7 @@ c) As entidades pertencentes ao SNS enviam ao S3CP a informação orçamental e 
 
 a) Se a entidade estiver sujeita diretamente à aplicação do PCC-MF, pode desagregar as contas de movimento deste plano;
 
-b) No caso de a entidade estar sujeita a um plano de contas central de natureza setorial que decorra dos sistemas referidos nos n.<sup>os</sup>4 e 5, pode desagregar as respetivas contas de movimento.
+b) No caso de a entidade estar sujeita a um plano de contas central de natureza setorial que decorra dos sistemas referidos nos n.os4 e 5, pode desagregar as respetivas contas de movimento.
 
 9 - A prestação de contas dos estabelecimentos públicos de ensino não superior é efetuada pelo IGEFE, I. P., através da consolidação do reporte proveniente dos sistemas locais das referidas escolas.
 
@@ -727,7 +1217,7 @@ a) Divulgação do inventário de património;
 
 b) Dívidas a terceiros por antiguidade dos saldos.
 
-13 - As alterações ao [Decreto-Lei n.º 26/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2002-284358), de 14 de fevereiro, introduzidas pelos n.<sup>os</sup>1 a 4 do artigo 156.º do [Decreto-Lei n.º 33/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), de 15 de maio, não são aplicáveis às entidades que, ao abrigo do n.º 5 do mesmo artigo, não as tenham aplicado durante o ano anterior, devendo as mesmas comunicar esse facto à UniLEO e à DGO.
+13 - As alterações ao [Decreto-Lei n.º 26/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2002-284358), de 14 de fevereiro, introduzidas pelos n.os1 a 4 do artigo 156.º do [Decreto-Lei n.º 33/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), de 15 de maio, não são aplicáveis às entidades que, ao abrigo do n.º 5 do mesmo artigo, não as tenham aplicado durante o ano anterior, devendo as mesmas comunicar esse facto à UniLEO e à DGO.
 
 14 - Quando os princípios da economia, eficiência e eficácia o aconselhem, a proposta de agregação numa única entidade contabilística e a adoção do regime simplificado de prestação de contas pode ser autorizada pelo membro do Governo responsável pela área das finanças.
 
@@ -739,7 +1229,9 @@ b) Dívidas a terceiros por antiguidade dos saldos.
 
 18 - As entidades que atuam por conta e em nome do Estado são responsáveis por assegurar toda a informação que integra a Entidade Contabilística Estado a que se refere o artigo 49.º da Lei de Enquadramento Orçamental.
 
-###### Artigo 30.º — Adoção de sistemas de informação contabilística
+Artigo 30.º
+
+Adoção de sistemas de informação contabilística
 
 1 - As entidades sem autonomia financeira mantêm a solução contabilística em uso, designadamente a disponibilizada pela ESPAP, I. P.
 
@@ -755,7 +1247,9 @@ a) Demonstração da garantia de integração da informação nos sistemas orça
 
 b) Justificação da economia, eficiência e eficácia da solução proposta, incluindo obtenção do parecer exigido nos termos do [Decreto-Lei n.º 107/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2012-551977), de 18 de maio, na sua redação atual, relativo à adoção de sistemas informáticos, numa ótica de racionalização dos custos em tecnologias de informação e comunicação.
 
-###### Artigo 31.º — Consolidação orçamental e de prestação de contas
+Artigo 31.º
+
+Consolidação orçamental e de prestação de contas
 
 1 - A adoção do modelo de funcionamento de partilha de atividades comuns, a que se refere o artigo 8.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, na sua redação atual, centrado nas secretarias-gerais e abrangendo as áreas financeira, patrimonial e de recursos humanos, não prejudica a consolidação orçamental no âmbito do MNE, do Ministério da Cultura (MC) e do Ministério da Economia (ME).
 
@@ -857,13 +1351,17 @@ i) Estrutura de Missão para a Comunicação Social.
 
 13 - Decorrente da implementação da reestruturação prevista no [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, que aprova a orgânica da Secretaria-Geral do Governo e o modelo organizativo a adotar pelas entidades com responsabilidade em matéria de estudos e planeamento no âmbito da reforma da administração central do Estado, pode a estrutura das entidades contabilísticas acima referidas ser objeto de alteração.
 
-###### Artigo 32.º — Sistema de Gestão de Receitas
+Artigo 32.º
+
+Sistema de Gestão de Receitas
 
 1 - Em cumprimento do disposto no artigo 2.º do [Decreto-Lei n.º 301/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1999-426764), de 5 de agosto, os serviços sem autonomia financeira, constantes de listagem regularmente publicada no sítio da DGO na Internet, devem utilizar o Sistema de Gestão de Receitas, de acordo com as instruções constantes da Circular n.º 1/DGO/2018, de 15 de janeiro, também publicada no sítio da DGO na Internet.
 
 2 - Os estabelecimentos públicos de ensino não superior devem utilizar o Sistema de Gestão de Receitas referido no número anterior, designadamente através de integração das suas soluções aplicacionais na solução disponibilizada e articulada entre a DGO, o IGEFE, I. P., e a ESPAP, I. P.
 
-###### Artigo 33.º — Competências e deveres dos coordenadores dos programas orçamentais
+Artigo 33.º
+
+Competências e deveres dos coordenadores dos programas orçamentais
 
 1 - No cumprimento do previsto na Lei de Enquadramento Orçamental, independentemente de envolver diferentes programas, cabe à entidade coordenadora do programa orçamental:
 
@@ -905,7 +1403,9 @@ l) Efetuar o reporte dos investimentos estruturantes das entidades abrangidas, a
 
 8 - As entidades coordenadoras dos programas orçamentais constantes do anexo i ao presente decreto-lei podem ser objeto de alteração à medida em que for concretizada a reforma orgânica e funcional da administração central do Estado constante do [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho.
 
-###### Artigo 34.º — Regime aplicável às entidades públicas reclassificadas
+Artigo 34.º
+
+Regime aplicável às entidades públicas reclassificadas
 
 1 - As EPR integradas no setor público administrativo como entidades com autonomia financeira regem-se por um regime especial de controlo da execução orçamental, não lhes sendo aplicáveis as regras relativas:
 
@@ -929,7 +1429,9 @@ b) Unidade de tesouraria;
 
 c) Prestação de informação relativa ao orçamento de tesouraria mensualizado.
 
-###### Artigo 35.º — Regime aplicável às entidades públicas reclassificadas de regime simplificado
+Artigo 35.º
+
+Regime aplicável às entidades públicas reclassificadas de regime simplificado
 
 1 - Às EPR identificadas no anexo ii ao presente decreto-lei é aplicável o regime previsto no artigo anterior, não lhes sendo aplicáveis as regras relativas:
 
@@ -941,11 +1443,15 @@ c) Ao registo de informação a que se refere o artigo 102.º
 
 2 - As EPR identificadas do anexo ii ao presente decreto-lei estão sujeitas à aplicação do regime de classificação económica das receitas e das despesas públicas aprovado pelo [Decreto-Lei n.º 26/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2002-284358), de 14 de fevereiro, na sua redação atual, no modelo simplificado definido pela DGO.
 
-###### Artigo 36.º — Relatório
+Artigo 36.º
+
+Relatório
 
 Em 2025, o relatório previsto no n.º 3 do artigo 17.º do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, na sua redação atual, passa a ter periodicidade mensal e a conter a informação relativa à execução orçamental acumulada com detalhe por dimensão e componente do PRR.
 
-###### Artigo 37.º — Descontos para os subsistemas de saúde
+Artigo 37.º
+
+Descontos para os subsistemas de saúde
 
 1 - Os descontos para a ADSE, I. P., previstos no artigo 46.º do [Decreto-Lei n.º 118/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1983-311397), de 25 de fevereiro, na sua redação atual, têm lugar mesmo quando não haja prestação de trabalho:
 
@@ -957,15 +1463,21 @@ b) Por ocorrência das eventualidades previstas no artigo 13.º da [Lei n.º 4/2
 
 3 - O disposto nos números anteriores é aplicável aos demais subsistemas de saúde da Administração Pública.
 
-###### Artigo 38.º — Serviços processadores
+Artigo 38.º
+
+Serviços processadores
 
 Assumem as competências de serviços processadores os gabinetes de gestão financeira, as secretarias-gerais e outros departamentos ou serviços que, através do sistema de informação contabilística, procedam a transferências para entidades com autonomia financeira, ou a transferência de verbas, por classificação económica, para entidades sem autonomia financeira.
 
-###### Artigo 39.º — Entregas relativas aos descontos para o Instituto de Proteção e Assistência na Doença, I. P., e para a Caixa Geral de Aposentações, I. P.
+Artigo 39.º
+
+Entregas relativas aos descontos para o Instituto de Proteção e Assistência na Doença, I. P., e para a Caixa Geral de Aposentações, I. P.
 
 As entregas relativas a retenções destinadas à ADSE, I. P., e à CGA, I. P., são efetuadas através do Documento Único de Cobrança.
 
-###### Artigo 40.º — Pagamento de prestações, reposição e devolução de montantes indevidamente recebidos
+Artigo 40.º
+
+Pagamento de prestações, reposição e devolução de montantes indevidamente recebidos
 
 1 - A escrituração das reposições deve efetuar-se de acordo com as instruções emitidas pela DGO.
 
@@ -983,7 +1495,9 @@ As entregas relativas a retenções destinadas à ADSE, I. P., e à CGA, I. P., 
 
 8 - Os juros arrecadados ao abrigo do artigo 26.º do [Decreto-Lei n.º 159/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2014-58605739), de 27 de outubro, na sua redação atual, e do artigo 34.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, integram a contrapartida pública nacional para efeitos de financiamento de operações no âmbito do Portugal 2020 e do Portugal 2030.
 
-###### Artigo 41.º — Dação de bens em pagamento
+Artigo 41.º
+
+Dação de bens em pagamento
 
 1 - O regime de dação de bens em pagamento constante dos artigos 87.º, 201.º e 202.º do Código de Procedimento e de Processo Tributário, aprovado pelo [Decreto-Lei n.º 433/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1999-692261), de 26 de outubro, na sua redação atual, é aplicável, com as necessárias adaptações, ao pagamento, mesmo que parcial, de todas as dívidas ao Estado, ainda que não se encontrem abrangidas por processo de execução fiscal.
 
@@ -997,7 +1511,9 @@ As entregas relativas a retenções destinadas à ADSE, I. P., e à CGA, I. P., 
 
 6 - Existindo decisão judicial que determine a restituição de um montante correspondente a uma dívida ao Estado extinta por dação de bens em pagamento, essa restituição deve ser realizada através de despesa a suportar pela entidade responsável pela cobrança, carecendo das autorizações inerentes à operacionalização deste tipo de despesa.
 
-###### Artigo 42.º — Restituição de valores pagos em processo de execução fiscal cobrados pela Autoridade Tributária e Aduaneira
+Artigo 42.º
+
+Restituição de valores pagos em processo de execução fiscal cobrados pela Autoridade Tributária e Aduaneira
 
 1 - Sempre que haja lugar à restituição de valores pagos em processo de execução fiscal cobrados pela Autoridade Tributária e Aduaneira (AT), mas cuja receita não seja administrada por esta e cujos valores já tenham sido transferidos para a entidade titular dessa receita, compete à referida entidade a restituição dos montantes cobrados que se mostrem devidos em cumprimento de decisão judicial de anulação total ou parcial da liquidação ou da extinção da execução fiscal.
 
@@ -1025,17 +1541,21 @@ As entregas relativas a retenções destinadas à ADSE, I. P., e à CGA, I. P., 
 
 13 - Para efeitos da instauração do processo de execução fiscal, a AT emite, com o valor de título executivo, uma certidão nos termos do artigo 163.º do Código de Procedimento e de Processo Tributário.
 
-14 - Os montantes restituídos, nos termos do n.º 11 ou no âmbito do processo de execução fiscal previsto nos n.<sup>os</sup>12 e 13, constituem receita própria da AT.
+14 - Os montantes restituídos, nos termos do n.º 11 ou no âmbito do processo de execução fiscal previsto nos n.os12 e 13, constituem receita própria da AT.
 
 15 - Para efeitos do regime previsto no presente artigo, entende-se por entidade titular da receita a entidade competente para emissão da certidão de dívida que serviu de base à instauração do processo de execução fiscal e para a qual foram transferidos os montantes nele cobrados.
 
-###### Artigo 43.º — Regularização da dívida relativa a comparticipações escolares
+Artigo 43.º
+
+Regularização da dívida relativa a comparticipações escolares
 
 1 - As dívidas à CPL, I. P., referentes a comparticipações escolares é regularizada através de pagamento voluntário ou no âmbito de processo cível.
 
 2 - As dívidas a que se refere o número anterior não são objeto de execução e consideram-se extintas, por deliberação do conselho diretivo da CPL, I. P., quando o seu valor acumulado não exceda 25,00 euros.
 
-###### Artigo 44.º — Autorizações no âmbito de despesas com deslocações
+Artigo 44.º
+
+Autorizações no âmbito de despesas com deslocações
 
 1 - Os despachos a que se referem o n.º 2 do artigo 33.º do [Decreto-Lei n.º 106/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1998-176328), de 24 de abril, na sua redação atual, o n.º 2 do artigo 2.º e o n.º 2 do artigo 5.º do [Decreto-Lei n.º 192/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1995-484656), de 28 de julho, na sua redação atual, são da competência do membro do Governo responsável pela área setorial.
 
@@ -1043,13 +1563,17 @@ As entregas relativas a retenções destinadas à ADSE, I. P., e à CGA, I. P., 
 
 3 - Aos indivíduos em missão de monitorização a bordo dos navios de investigação no âmbito das campanhas oceanográficas e em missão de inspeção em meios navais fora do território nacional são abonadas ajudas de custo diárias, na sua totalidade.
 
-###### Artigo 45.º — Indemnizações compensatórias
+Artigo 45.º
+
+Indemnizações compensatórias
 
 1 - Sem prejuízo do disposto no [Decreto-Lei n.º 167/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2008-453551), de 26 de agosto, na sua redação atual, às empresas prestadoras de serviço público que não tenham contrato em vigor com o Estado podem ser atribuídas indemnizações compensatórias por resolução do Conselho de Ministros.
 
 2 - Sempre que a interrupção da prestação do serviço público seja prejudicial ao interesse público, a atribuição de indemnizações compensatórias nos termos do número anterior é determinada pelo cumprimento das obrigações de serviço público efetivamente asseguradas pelas empresas prestadoras desse serviço, tendo como referência o anteriormente contratualizado.
 
-###### Artigo 46.º — Assunção de compromissos plurianuais
+Artigo 46.º
+
+Assunção de compromissos plurianuais
 
 1 - Para efeitos da assunção de compromissos plurianuais, o limite temporal estabelecido na alínea b) do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, considera-se alargado para quatro anos económicos no caso de contratos cujo prazo de execução seja de até 36 meses.
 
@@ -1079,13 +1603,15 @@ c) O procedimento para formação do contrato seja o concurso público ou o conc
 
 11 - O disposto no presente artigo aplica-se às entidades da administração central e da segurança social.
 
-12 - O disposto nos n.<sup>os</sup>5 e 6 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, aplica-se também às EPR que assumam a forma de sociedade anónima.
+12 - O disposto nos n.os5 e 6 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, aplica-se também às EPR que assumam a forma de sociedade anónima.
 
-13 - Os processos relativos à assunção de encargos plurianuais que impliquem a realização de despesa no ano em curso e que, nos termos dos n.<sup>os</sup>1 e 2 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, careçam de autorização do membro do Governo responsável pela área das finanças devem, para esse efeito, ser remetidos ao MF até 15 de novembro do ano em curso, em obediência ao circuito processual estabelecido para o efeito pela DGO.
+13 - Os processos relativos à assunção de encargos plurianuais que impliquem a realização de despesa no ano em curso e que, nos termos dos n.os1 e 2 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, careçam de autorização do membro do Governo responsável pela área das finanças devem, para esse efeito, ser remetidos ao MF até 15 de novembro do ano em curso, em obediência ao circuito processual estabelecido para o efeito pela DGO.
 
 14 - Os processos de encargos plurianuais podem não prosseguir caso a base de dados central disponibilizada pela DGO, a que se refere o n.º 1 do artigo 13.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, não esteja devidamente atualizada.
 
-###### Artigo 47.º — Assunção de compromissos plurianuais relativos a contratos financiados por fundos europeus
+Artigo 47.º
+
+Assunção de compromissos plurianuais relativos a contratos financiados por fundos europeus
 
 1 - Sem prejuízo do disposto no artigo anterior, nos casos de assunção de compromissos plurianuais relativos a contratos financiados maioritariamente por fundos europeus ou fundos internacionais recebidos por Portugal a fundo perdido, com candidatura aprovada, o limite temporal estabelecido na alínea b) do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, considera-se alargado para cinco anos económicos e o limite de valor:
 
@@ -1097,7 +1623,7 @@ b) Não se aplica desde que a contrapartida nacional seja no máximo de 20 % do 
 
 3 - A assunção de encargos plurianuais prevista nos termos do presente artigo está sujeita a publicação no Diário da República, quando se trate da assunção de compromissos plurianuais superior a 1 000 000,00 euros em algum dos anos económicos seguintes ao da abertura do procedimento.
 
-###### Artigo 48.º
+Artigo 48.º
 
 Assunção de compromissos plurianuais relativos a contratos financiados pelo Fundo Europeu de Desenvolvimento Regional, pelo Fundo Social Europeu, pelo Fundo de Coesão e pelo Fundo para Uma Transição Justa
 
@@ -1121,7 +1647,9 @@ c) Seja observado o limite máximo de contrapartida pública nacional anual para
 
 7 - O disposto no presente artigo aplica-se a todas as entidades da administração central, com exceção das EPR.
 
-###### Artigo 49.º — Assunção de compromissos plurianuais relativos a despesa recorrente
+Artigo 49.º
+
+Assunção de compromissos plurianuais relativos a despesa recorrente
 
 1 - Sem prejuízo do disposto no artigo 45.º, o limite de valor estabelecido na alínea b) do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, não se aplica desde que cumpridos, cumulativamente, os seguintes requisitos:
 
@@ -1143,19 +1671,23 @@ ii) Aquisição de serviços: 02.02.01 - Encargos das instalações; 02.02.02 - 
 
 3 - A assunção de encargos plurianuais prevista nos termos do presente artigo está sujeita a publicação no Diário da República, quando se trate da assunção de compromissos plurianuais superior a 500 000 euros em algum dos anos económicos seguintes ao da abertura do procedimento.
 
-###### Artigo 50.º — Comemorações do Quinquagésimo Aniversário da Revolução do 25 de Abril de 1974 e eventos nacionais na área da cultura
+Artigo 50.º
+
+Comemorações do Quinquagésimo Aniversário da Revolução do 25 de Abril de 1974 e eventos nacionais na área da cultura
 
 1 - Para efeitos de assunção de compromissos plurianuais relativos às Comemorações do Quinquagésimo Aniversário da Revolução do 25 de Abril de 1974, à comemoração dos 50 anos de democracia portuguesa, às Comemorações do V Centenário do Nascimento de Luís de Camões, às Comemorações dos 100 anos do Nascimento de Carlos Paredes e à organização de iniciativas das capitais portuguesas da cultura e da capital europeia da cultura, o limite do valor estabelecido na alínea b) do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, considera-se aumentado para 500 000,00,00 euros.
 
 2 - No âmbito das iniciativas referidas no número anterior, não se aplica o disposto no artigo 22.º da [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 3 de setembro, na sua redação atual, sendo a celebração de contrato ou protocolo com os municípios ou freguesias sujeita a aprovação do membro do Governo responsável pela área da cultura.
 
-###### Artigo 51.º — Disposições específicas para a celebração de contratos de aquisição de bens e serviços
+Artigo 51.º
 
-1 - A dispensa do cumprimento do disposto nos n.<sup>os</sup>1 e 2 e no n.º 3 in fine do artigo 16.º da Lei do Orçamento do Estado, nos termos do n.º 4 do mesmo artigo, pode ser conferida globalmente a um conjunto de contratos.
+Disposições específicas para a celebração de contratos de aquisição de bens e serviços
+
+1 - A dispensa do cumprimento do disposto nos n.os1 e 2 e no n.º 3 in fine do artigo 16.º da Lei do Orçamento do Estado, nos termos do n.º 4 do mesmo artigo, pode ser conferida globalmente a um conjunto de contratos.
 
 2 - As autorizações referidas no n.º 4 do artigo 16.º da Lei do Orçamento do Estado, consideram-se deferidas se sobre as mesmas não houver pronúncia do membro do Governo responsável pela respetiva área setorial no prazo de 30 dias úteis.
 
-3 - A celebração ou renovação de contratos de aquisição de serviços que conduzam a um acréscimo global anual até ao limite de 20 150,00 euros face ao ano anterior por entidade está excecionada da autorização prévia prevista nos n.<sup>os</sup>1 a 3 do artigo 16.º da Lei do Orçamento do Estado, salvo quanto aos contratos de prestação de serviços na modalidade de tarefa ou de avença, aos quais é aplicável o regime previsto no artigo 18.º da Lei do Orçamento do Estado.
+3 - A celebração ou renovação de contratos de aquisição de serviços que conduzam a um acréscimo global anual até ao limite de 20 150,00 euros face ao ano anterior por entidade está excecionada da autorização prévia prevista nos n.os1 a 3 do artigo 16.º da Lei do Orçamento do Estado, salvo quanto aos contratos de prestação de serviços na modalidade de tarefa ou de avença, aos quais é aplicável o regime previsto no artigo 18.º da Lei do Orçamento do Estado.
 
 4 - Sem prejuízo das atribuições legais do CEJURE de apoio jurídico, consultoria, assessoria e aconselhamento jurídico, e sendo excecional o recurso a serviços jurídicos externos, fica dispensada do cumprimento do disposto no n.º 2 do artigo 16.º da Lei do Orçamento do Estado, a celebração de contratos de aquisição de serviços com idêntico objeto de contrato vigente em 2024 desde que reunidos os seguintes requisitos cumulativos:
 
@@ -1165,7 +1697,9 @@ b) O critério de adjudicação seja na modalidade prevista na alínea b) do n.�
 
 c) O procedimento para formação do contrato a utilizar seja o concurso público ou concurso público limitado por prévia qualificação.
 
-###### Artigo 52.º — Formação de contratos no âmbito da participação de Portugal na Expo 2025 Osaka Kansai e eventos de projeção internacional
+Artigo 52.º
+
+Formação de contratos no âmbito da participação de Portugal na Expo 2025 Osaka Kansai e eventos de projeção internacional
 
 1 - A parte ii do CCP, não é aplicável à formação dos contratos de locação ou aquisição de bens móveis ou de serviços ou à realização de empreitadas de obras públicas que se destinem à organização, programação, conceção e implementação da participação de Portugal na Expo 2025 Osaka Kansai, a executar no estrangeiro, pela Agência para o Investimento e Comércio Externo, E. P. E. (AICEP, E. P. E.), cujo valor seja inferior aos limiares relevantes para os efeitos da [Diretiva n.º 2014/24/UE](https://data.europa.eu/eli/dir/2014/24/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, relativa aos contratos públicos.
 
@@ -1177,7 +1711,9 @@ b) Quando, no país de origem do adjudicatário, os documentos previstos na alí
 
 c) Os demais documentos de habilitação exigidos, designadamente a declaração sob compromisso de honra de que o adjudicatário pode executar a prestação objeto do contrato a celebrar no Estado de que é nacional de acordo com as regras nele aplicáveis, podem ser redigidos no idioma previsto para a apresentação da proposta, não carecendo de tradução devidamente legalizada nem de ser prestados perante notário, autoridade judiciária ou administrativa ou qualquer outra.
 
-###### Artigo 53.º — Procedimento prévio à contratação de estudos, pareceres, projetos e consultoria
+Artigo 53.º
+
+Procedimento prévio à contratação de estudos, pareceres, projetos e consultoria
 
 1 - Sem prejuízo das atribuições legais do CEJURE de apoio jurídico, consultoria, assessoria e aconselhamento jurídico, e sendo excecional o recurso a serviços jurídicos externos, para cumprimento do n.º 2 do artigo 17.º da Lei do Orçamento do Estado, o dirigente máximo do serviço com competência para contratar deve fundamentar a impossibilidade de os estudos, pareceres, projetos e consultoria ou outros trabalhos especializados serem realizados por recursos próprios, designadamente mediante consulta às entidades do respetivo programa orçamental com competências na área específica a contratar, sem prejuízo da necessidade de consulta das entidades cuja consulta seja obrigatória por lei, designadamente a Agência para a Modernização Administrativa, I. P. (AMA, I. P.), em matéria de modernização e simplificação administrativa e administração eletrónica, e o CEJURE, em matéria de serviços jurídicos.
 
@@ -1185,7 +1721,7 @@ c) Os demais documentos de habilitação exigidos, designadamente a declaração
 
 3 - Decorrido o prazo de 10 dias seguidos sobre a data de apresentação do pedido sem que sobre ele seja emitida pronúncia, considera-se demonstrada a impossibilidade de satisfação do mesmo por parte das entidades abrangidas pelo respetivo programa orçamental.
 
-4 - Sem prejuízo do disposto no número anterior, a contratação de serviços jurídicos externos é precedida de pedido de parecer prévio obrigatório e vinculativo ao CEJURE, a emitir no prazo de 5 dias, nos termos dos n.<sup>os</sup>2 e 3 do artigo 15.º do [Decreto-Lei n.º 68/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2024-890194535), de 8 de outubro.
+4 - Sem prejuízo do disposto no número anterior, a contratação de serviços jurídicos externos é precedida de pedido de parecer prévio obrigatório e vinculativo ao CEJURE, a emitir no prazo de 5 dias, nos termos dos n.os2 e 3 do artigo 15.º do [Decreto-Lei n.º 68/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2024-890194535), de 8 de outubro.
 
 5 - O dirigente máximo do serviço com competência para contratar pode efetuar o pedido a que se refere o n.º 1 relativamente ao conjunto de aquisições necessárias ao desenvolvimento do plano de atividades, enviando para o efeito a respetiva listagem das necessidades específicas de contratação, a calendarização e fundamentação para esta necessidade, sendo neste caso o prazo para pronúncia de 30 dias seguidos, decorridos os quais se considera demonstrada a impossibilidade de satisfação do pedido.
 
@@ -1197,21 +1733,31 @@ c) Os demais documentos de habilitação exigidos, designadamente a declaração
 
 9 - O disposto no presente artigo, bem como no artigo 15.º do [Decreto-Lei n.º 68/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2024-890194535), de 8 de outubro, não é aplicável às empresas públicas do setor empresarial do Estado, às quais se aplica o disposto no artigo seguinte.
 
-10 - O artigo 17.º da Lei do Orçamento do Estado, com exceção dos n.<sup>os</sup>3 e 4, não é aplicável a estudos, pareceres, projetos e serviços de consultoria ou outros trabalhos especializados efetuados ao abrigo do [Decreto-Lei n.º 54/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2022-187413390), de 12 de agosto, independentemente da fonte de financiamento associada.
+10 - O artigo 17.º da Lei do Orçamento do Estado, com exceção dos n.os3 e 4, não é aplicável a estudos, pareceres, projetos e serviços de consultoria ou outros trabalhos especializados efetuados ao abrigo do [Decreto-Lei n.º 54/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2022-187413390), de 12 de agosto, independentemente da fonte de financiamento associada.
 
-###### Artigo 54.º — Contratação de estudos, pareceres, projetos e consultoria por empresas públicas do setor empresarial do Estado
+Artigo 54.º
+
+Contratação de estudos, pareceres, projetos e consultoria por empresas públicas do setor empresarial do Estado
 
 Nas empresas públicas do setor empresarial do Estado, a decisão de contratar a aquisição de serviços cujo objeto sejam estudos, pareceres, projetos e serviços de consultoria ou outros trabalhos especializados de natureza intelectual, incluindo a renovação de eventuais contratos em vigor, apenas pode ser tomada em situações excecionais devidamente fundamentadas e desde que demonstrada a impossibilidade de satisfação das necessidades através de recursos próprios ou de empresas que se encontrem em relação de grupo.
 
-###### Artigo 55.º — Regime especial de trabalho suplementar
+Artigo 55.º
+
+Regime especial de trabalho suplementar
 
 Em circunstâncias excecionais e delimitadas no tempo, designadamente quando se mostre indispensável para o combate aos incêndios, mediante autorização dos membros do Governo responsáveis pelas áreas da coesão territorial e da agricultura e pescas, podem ser ultrapassados os limites da duração do trabalho suplementar previstos na lei dos trabalhadores que integrem o Dispositivo Especial de Combate a Incêndios Rurais, que seja prestado no contexto destes incêndios.
 
-#### SECÇÃO II — DISPOSIÇÕES ESPECÍFICAS
+SECÇÃO II
 
-##### SUBSECÇÃO I — PROGRAMA DA REPRESENTAÇÃO EXTERNA
+DISPOSIÇÕES ESPECÍFICAS
 
-###### Artigo 56.º — Gestão financeira do Programa de Representação Externa
+SUBSECÇÃO I
+
+PROGRAMA DA REPRESENTAÇÃO EXTERNA
+
+Artigo 56.º
+
+Gestão financeira do Programa de Representação Externa
 
 1 - As receitas provenientes de reembolsos de bolsas da União Europeia ficam consignadas às despesas de cooperação com encargos com bolseiros.
 
@@ -1227,7 +1773,9 @@ b) Vencimentos e outras remunerações e abonos do pessoal diplomático especial
 
 c) As despesas decorrentes do movimento diplomático e administrativo e de missões no estrangeiro e em Portugal.
 
-###### Artigo 57.º — Regras respeitantes a despesas
+Artigo 57.º
+
+Regras respeitantes a despesas
 
 1 - As despesas a satisfazer por conta das dotações inscritas no orçamento de despesa do MNE relativas a «visitas de Estado e equiparadas» realizam-se com dispensa das formalidades legais e são reguladas por despacho do membro do Governo responsável pela área dos negócios estrangeiros.
 
@@ -1243,7 +1791,9 @@ b) A realizar no âmbito da estratégia e desenvolvimento das ações de promoç
 
 5 - As dotações resultantes de despesas a efetuar por conta de ações extraordinárias de política externa, conforme previstas na alínea f) do n.º 2 do artigo 3.º do [Decreto-Lei n.º 10/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2012-544172), de 19 de janeiro, na sua redação atual, e devidamente aprovadas pelo membro do Governo responsável pela área dos negócios estrangeiros, podem ser objeto de transferência direta pelo FRI, I. P., a favor do organismo ou entidade beneficiária das mesmas.
 
-###### Artigo 58.º — Regras respeitantes a receitas
+Artigo 58.º
+
+Regras respeitantes a receitas
 
 1 - As receitas provenientes do subarrendamento, cedência ou ónus sobre espaços e de patrocínios no âmbito de eventos organizados pelos serviços periféricos externos do MNE ficam consignadas às suas despesas de funcionamento e de conservação de imóveis do Estado Português no exterior.
 
@@ -1257,11 +1807,13 @@ b) A realizar no âmbito da estratégia e desenvolvimento das ações de promoç
 
 6 - A título excecional, quando da aplicação de taxas de câmbio fixadas pelo Banco de Portugal resulte para o MNE, por motivos que lhe são alheios, uma perda substancial superior a 50 % da receita que seria arrecadada, podem os postos aplicar, na atividade de atendimento consular, a taxa de câmbio praticada localmente que seja mais ajustada a evitar as perdas referidas.
 
-7 - A receita resultante das operações sobre os imóveis geridos pelo MNE, a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 5/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2021-153519406), de 11 de janeiro, é afeta integralmente à entidade contabilística «Gestão Administrativa e Financeira do Ministério dos Negócios Estrangeiros», não se aplicando as regras previstas nos n.<sup>os</sup>1 e 3 do artigo 5.º da Lei do Orçamento do Estado, e é consignada à aquisição, reabilitação, adaptação, conservação e/ou restauro dos imóveis que lhe estão afetos no estrangeiro, mediante plano apresentado por aquela entidade ao membro do Governo responsável pela área das finanças.
+7 - A receita resultante das operações sobre os imóveis geridos pelo MNE, a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 5/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2021-153519406), de 11 de janeiro, é afeta integralmente à entidade contabilística «Gestão Administrativa e Financeira do Ministério dos Negócios Estrangeiros», não se aplicando as regras previstas nos n.os1 e 3 do artigo 5.º da Lei do Orçamento do Estado, e é consignada à aquisição, reabilitação, adaptação, conservação e/ou restauro dos imóveis que lhe estão afetos no estrangeiro, mediante plano apresentado por aquela entidade ao membro do Governo responsável pela área das finanças.
 
 8 - O plano de aquisição, reabilitação, adaptação, conservação e/ou restauro dos imóveis, elaborado nos termos do número anterior, é remetido pela entidade competente à ESTAMO, S. A., para conhecimento.
 
-###### Artigo 59.º — Regras respeitantes a saldos
+Artigo 59.º
+
+Regras respeitantes a saldos
 
 1 - Os saldos das receitas referidas no n.º 1 do artigo 56.º, apurados no ano económico anterior, transitam para o ano em curso e ficam consignados às respetivas despesas.
 
@@ -1269,7 +1821,9 @@ b) A realizar no âmbito da estratégia e desenvolvimento das ações de promoç
 
 3 - Os saldos das transferências efetuadas no âmbito de projetos plurianuais para o desenvolvimento, investigação e cooperação desenvolvidos pelo Camões, I. P., transitam para o ano em curso.
 
-###### Artigo 60.º — Regras respeitantes a projetos de cooperação
+Artigo 60.º
+
+Regras respeitantes a projetos de cooperação
 
 1 - As dotações orçamentais destinadas a projetos e ações de cooperação para o desenvolvimento passíveis de contabilização em ajuda pública ao desenvolvimento só podem ser executadas após a emissão de parecer prévio vinculativo do Camões, I. P.
 
@@ -1279,19 +1833,27 @@ b) A realizar no âmbito da estratégia e desenvolvimento das ações de promoç
 
 4 - Todas as áreas governativas identificam junto da área governativa responsável pela área da cooperação, até 15 de março de 2025, as verbas que estimam despender nesse mesmo ano com a execução de programas, projetos e ações de cooperação para o desenvolvimento, no quadro da implementação da Estratégia da Cooperação Portuguesa 2030, aprovada em anexo à [Resolução do Conselho de Ministros n.º 121/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/121-2022-204502329), de 9 de dezembro.
 
-###### Artigo 61.º — Regras respeitantes à Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas
+Artigo 61.º
+
+Regras respeitantes à Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas
 
 1 - Fica a DGACCP autorizada a cobrar receita pelo ato de reconhecimento da assinatura de funcionários consulares portugueses e por atestar a assinatura de funcionário das missões diplomáticas e consulares acreditadas em Portugal.
 
 2 - A receita prevista no número anterior fica consignada às despesas de funcionamento da DGACCP.
 
-###### Artigo 62.º — Receita por contrapartida de utilização de imóveis no exterior
+Artigo 62.º
+
+Receita por contrapartida de utilização de imóveis no exterior
 
 O valor a cobrar como contrapartida pela utilização a título oneroso de parte de imóveis afetados a Serviços Periféricos Externos do Ministério dos Negócios Estrangeiros por quaisquer entidades, públicas ou privadas, nacionais ou estrangeiras, constitui receita do posto respetivo.
 
-##### SUBSECÇÃO II — PROGRAMA DA DEFESA
+SUBSECÇÃO II
 
-###### Artigo 63.º — Gestão financeira do Programa da Defesa
+PROGRAMA DA DEFESA
+
+Artigo 63.º
+
+Gestão financeira do Programa da Defesa
 
 1 - As dotações para missões humanitárias e de paz, bem como dos observadores militares não enquadráveis nestas missões, inscritas no orçamento do Ministério da Defesa Nacional (MDN), são movimentadas por despacho do membro do Governo responsável pela área da defesa nacional, prevendo transferências entre capítulos daquele orçamento, com vista a afetar ao Estado-Maior-General das Forças Armadas e aos ramos das Forças Armadas os montantes necessários à cobertura dos encargos a incorrer no âmbito das citadas missões.
 
@@ -1301,9 +1863,13 @@ O valor a cobrar como contrapartida pela utilização a título oneroso de parte
 
 4 - A transferência de verbas para a CGA, I. P., prevista na alínea d) do n.º 8 do artigo 8.º da Lei do Orçamento do Estado, depende de despacho do membro do Governo responsável pela área da defesa nacional.
 
-##### SUBSECÇÃO III — PROGRAMA DA SAÚDE
+SUBSECÇÃO III
 
-###### Artigo 64.º — Gestão financeira do Programa da Saúde
+PROGRAMA DA SAÚDE
+
+Artigo 64.º
+
+Gestão financeira do Programa da Saúde
 
 1 - Sem prejuízo de regimes especiais em vigor, no âmbito da execução do orçamento de investimento do MS, e para execução de projetos considerados estratégicos para a política de saúde, fica a ACSS, I. P., autorizada a efetuar, mediante a celebração de protocolo, transferências para as entidades públicas empresariais do SNS.
 
@@ -1313,7 +1879,9 @@ O valor a cobrar como contrapartida pela utilização a título oneroso de parte
 
 4 - O disposto no número anterior não prejudica a imputação da responsabilidade financeira à correspondente entidade geradora da despesa.
 
-###### Artigo 65.º — Regime remuneratório específico de trabalho extraordinário ou suplementar no setor da saúde
+Artigo 65.º
+
+Regime remuneratório específico de trabalho extraordinário ou suplementar no setor da saúde
 
 1 - O somatório do número de horas extraordinárias e de prestação de serviços médicos contratados pelos estabelecimentos que integram o SNS e os serviços regionais de saúde não pode ser superior ao registado no trimestre homólogo, em cada um desses serviços, exceto em casos autorizados pelo membro do Governo responsável pela área da saúde e com conhecimento do membro do Governo responsável pela área das finanças.
 
@@ -1321,7 +1889,9 @@ O valor a cobrar como contrapartida pela utilização a título oneroso de parte
 
 3 - Os atos praticados em violação dos números anteriores são nulos e determinam responsabilidade civil, financeira e disciplinar por parte dos gestores das entidades abrangidas pelo regime estabelecido no presente decreto-lei.
 
-###### Artigo 66.º — Aquisição de serviços médicos e celebração de contratos-programa
+Artigo 66.º
+
+Aquisição de serviços médicos e celebração de contratos-programa
 
 1 - A celebração de contratos de aquisição de serviços com pessoal médico apenas é admissível nos casos em que comprovadamente o serviço não possa ser assegurado por médicos do respetivo mapa de pessoal.
 
@@ -1331,7 +1901,9 @@ O valor a cobrar como contrapartida pela utilização a título oneroso de parte
 
 4 - A DE-SNS, I. P., a ACSS, I. P., e as unidades locais de saúde, E. P. E., podem celebrar contratos-programa com as entidades pertencentes à rede nacional de prestação de cuidados de saúde, desde que previamente autorizados pelos membros do Governo responsáveis pelas áreas das finanças e da saúde, sendo-lhes aplicável as disposições do artigo 208.º da Lei do Orçamento do Estado.
 
-###### Artigo 67.º — Cuidados paliativos
+Artigo 67.º
+
+Cuidados paliativos
 
 1 - Os estabelecimentos de saúde integrados no SNS estão dispensados do cumprimento do disposto no artigo 16.º da Lei do Orçamento do Estado, relativamente à celebração de contratos de aquisição de serviços no âmbito dos cuidados paliativos, quando financiados integralmente por entidades privadas e do setor social e titulados por protocolos celebrados com entidades públicas para cumprimento das políticas de saúde constantes do Programa do Governo.
 
@@ -1339,11 +1911,15 @@ O valor a cobrar como contrapartida pela utilização a título oneroso de parte
 
 3 - As entidades referidas nos números anteriores devem comunicar aos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública, até ao final do mês seguinte àquele em que foram adjudicados, os contratos celebrados ou renovados nos termos do presente artigo.
 
-###### Artigo 68.º — Contratação de médicos aposentados
+Artigo 68.º
+
+Contratação de médicos aposentados
 
 Nos termos do n.º 1 do artigo 37.º da Lei do Orçamento do Estado, as autorizações para o exercício de funções públicas ou de prestação de trabalho remunerado por parte de médicos aposentados em serviços ou estabelecimentos do SNS, independentemente da sua natureza jurídica, são conferidas mediante despacho dos membros do Governo responsáveis pelas áreas da Administração Pública, das finanças e da saúde, que fixa o contingente anual de médicos aposentados que podem ser contratados, considerando as especiais carências dos serviços ou estabelecimentos e das áreas de especialidade.
 
-###### Artigo 69.º — Preços a praticar junto do Serviço Nacional de Saúde pelo setor convencionado e pelos responsáveis pela colocação no mercado de dispositivos médicos
+Artigo 69.º
+
+Preços a praticar junto do Serviço Nacional de Saúde pelo setor convencionado e pelos responsáveis pela colocação no mercado de dispositivos médicos
 
 1 - Por razões de interesse público ou de regulação do mercado, e em condições a regulamentar por portaria, o membro do Governo responsável pela área da saúde pode determinar, relativamente ao setor convencionado e aos responsáveis pela colocação no mercado de dispositivos médicos, consoante o mais adequado a cada área, a prática de:
 
@@ -1361,19 +1937,25 @@ c) Reduções dos preços contratualizados com as entidades do SNS.
 
 5 - Os textos dos acordos previstos no n.º 2 devem ser publicitados no sítio na Internet da ACSS, I. P.
 
-###### Artigo 70.º — Responsabilidade financeira pelas prestações de saúde a beneficiários de subsistemas públicos de saúde
+Artigo 70.º
+
+Responsabilidade financeira pelas prestações de saúde a beneficiários de subsistemas públicos de saúde
 
 1 - O SNS, no âmbito das suas competências e atribuições territoriais, é financeiramente responsável pelas prestações de saúde realizadas aos beneficiários de subsistemas públicos, desde que os mesmos tenham direito a essas prestações pela sua condição de beneficiários do SNS.
 
 2 - Os subsistemas públicos de saúde são financeiramente responsáveis pelas restantes prestações de saúde realizadas aos seus beneficiários nos termos dos respetivos estatutos.
 
-###### Artigo 71.º — Gestão do programa orçamental da saúde
+Artigo 71.º
+
+Gestão do programa orçamental da saúde
 
 1 - Até à extinção das Administrações Regionais de Saúde, I. P. (ARS, I. P.), a efetuar durante o ano de 2025, o membro do Governo responsável pela área da saúde fica autorizado a efetuar as alterações orçamentais necessárias para assegurar o seu normal funcionamento, designadamente para pagamento de remunerações e assunção de compromissos.
 
 2 - O reforço das dotações orçamentais das ARS, I. P., necessárias para assegurar o seu normal funcionamento até à sua extinção, tem como contrapartida as verbas inscritas para o efeito no orçamento da ACSS, I. P., ficando estas alterações orçamentais sujeitas a aprovação do membro do Governo responsável pela área da saúde, desde que destinadas a pagamento das despesas referidas no número anterior.
 
-###### Artigo 72.º — Pagamentos em atraso
+Artigo 72.º
+
+Pagamentos em atraso
 
 1 - A execução mensal dos estabelecimentos e serviços integrados no SNS não pode conduzir ao aumento dos pagamentos em atraso relativamente ao período homólogo do ano de 2024.
 
@@ -1383,9 +1965,13 @@ c) Reduções dos preços contratualizados com as entidades do SNS.
 
 4 - Os estabelecimentos e serviços integrados no SNS não podem, com exceção do agrupamento de despesa «despesas com pessoal», ter uma execução igual ou superior a 2 % comparativamente com a execução verificada no período homólogo do ano anterior.
 
-##### SUBSECÇÃO IV — PROGRAMA DA EDUCAÇÃO
+SUBSECÇÃO IV
 
-###### Artigo 73.º — Gestão financeira do Programa da Educação
+PROGRAMA DA EDUCAÇÃO
+
+Artigo 73.º
+
+Gestão financeira do Programa da Educação
 
 1 - As dotações comuns destinadas a vencimentos do pessoal dos agrupamentos de escolas e de escolas não agrupadas, inscritas no orçamento dos estabelecimentos públicos de ensino não superior, asseguradas pelo IGEFE, I. P., no âmbito do capítulo 05 do orçamento do Ministério da Educação, Ciência e Inovação, são utilizadas por cada agrupamento de escolas ou por cada escola não agrupada, de harmonia com as necessidades resultantes da satisfação de encargos com o pessoal que esteja em exercício, sendo as correspondentes informações de cabimento prestadas pelo IGEFE, I. P., desde que previstas no orçamento inicialmente aprovado.
 
@@ -1399,7 +1985,9 @@ c) Reduções dos preços contratualizados com as entidades do SNS.
 
 6 - Com vista a garantir a celebração da execução dos projetos cofinanciados, os estabelecimentos públicos de ensino não superior podem utilizar as disponibilidades de tesouraria de fundos europeus existentes, resultantes de pedidos a título de adiantamento, reembolso e saldo final, para suportar os encargos afetos a projetos igualmente cofinanciados por fundos europeus, independentemente dos projetos de que resultem, desde que tenham a mesma fonte de financiamento e limitado ao valor elegível de cada projeto, acrescido do valor correspondente ao IVA, sob condição de ser garantida a correta inscrição orçamental.
 
-###### Artigo 74.º — Receitas dos agrupamentos de escolas e escolas não agrupadas
+Artigo 74.º
+
+Receitas dos agrupamentos de escolas e escolas não agrupadas
 
 1 - Para além das verbas previstas na Lei do Orçamento do Estado, constituem receitas dos agrupamentos de escolas e escolas não agrupadas:
 
@@ -1419,7 +2007,9 @@ f) Outras receitas que lhe sejam atribuídas por lei.
 
 3 - Excetuam-se do disposto no número anterior as receitas provenientes da cobrança de refeições escolares quando, no uso da faculdade prevista no artigo 64.º do [Decreto-Lei n.º 21/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), de 30 de janeiro, na sua redação atual, os municípios não assumam a posição contratual do Estado em contrato de fornecimento de refeições confecionadas para refeitórios escolares localizados na respetiva área territorial, até à sua execução integral.
 
-###### Artigo 75.º — Gratuitidade de manuais escolares
+Artigo 75.º
+
+Gratuitidade de manuais escolares
 
 1 - No início do ano letivo é garantido a todos os alunos que frequentam a escolaridade obrigatória na rede pública do Ministério da Educação, Ciência e Inovação o acesso gratuito a manuais escolares em suporte digital ou suporte físico, no último caso complementados por licenças digitais.
 
@@ -1435,41 +2025,61 @@ f) Outras receitas que lhe sejam atribuídas por lei.
 
 7 - O membro do Governo responsável pela área da educação define ainda, nos termos da legislação aplicável, as condições de adoção e certificação de manuais escolares que potenciem a reutilização de manuais em todos os graus de ensino.
 
-##### SUBSECÇÃO V — PROGRAMA DO ENSINO SUPERIOR, CIÊNCIA E INOVAÇÃO
+SUBSECÇÃO V
 
-###### Artigo 76.º — Gestão financeira do Programa Ensino Superior, Ciência e Inovação
+PROGRAMA DO ENSINO SUPERIOR, CIÊNCIA E INOVAÇÃO
+
+Artigo 76.º
+
+Gestão financeira do Programa Ensino Superior, Ciência e Inovação
 
 1 - Aos professores auxiliares a quem seja distribuído serviço correspondente à categoria de professor associado não cabe a perceção de qualquer acréscimo remuneratório ou suplemento.
 
 2 - As dotações inscritas no capítulo 02, divisão 01, subdivisão 99 «Dotações comuns», para o apoio ao ensino superior, só podem ser utilizadas mediante despacho do membro do Governo responsável pela área do ensino superior.
 
-###### Artigo 77.º — Contratação de seguros
+Artigo 77.º
+
+Contratação de seguros
 
 Para efeitos do n.º 2 do artigo 19.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, os seguros contratados por instituições de ensino superior, suportados por receitas próprias, não carecem de autorização dos membros do Governo responsáveis pela área das finanças e pela área setorial.
 
-##### SUBSECÇÃO VI — PROGRAMA DA JUSTIÇA
+SUBSECÇÃO VI
 
-###### Artigo 78.º — Disposições específicas respeitantes aos tribunais superiores e ao Programa da Justiça
+PROGRAMA DA JUSTIÇA
+
+Artigo 78.º
+
+Disposições específicas respeitantes aos tribunais superiores e ao Programa da Justiça
 
 Os tribunais superiores ficam excluídos do âmbito de aplicação do artigo 3.º da Lei do Orçamento do Estado, não sendo ainda aplicável às respetivas aquisições de serviços o disposto nos artigos 16.º a 18.º da Lei do Orçamento do Estado.
 
-### CAPÍTULO III — ADMINISTRAÇÃO REGIONAL E LOCAL
+CAPÍTULO III
 
-###### Artigo 79.º — Registo das transferências financeiras e encargos resultantes do processo de descentralização
+ADMINISTRAÇÃO REGIONAL E LOCAL
+
+Artigo 79.º
+
+Registo das transferências financeiras e encargos resultantes do processo de descentralização
 
 1 - As transferências financeiras, as receitas arrecadadas e as despesas diretamente relacionadas com a descentralização de competências estabelecida pela [Lei n.º 50/2018](https://diariodarepublica.pt/dr/detalhe/lei/50-2018-116068877), de 16 de agosto, e pelos respetivos diplomas setoriais, são reportados pelos municípios, mensalmente, através da plataforma eletrónica da DGAL.
 
 2 - O registo referido no número anterior deve permitir identificar e relacionar, para cada área da descentralização, as receitas arrecadadas e as despesas realizadas com as transferências recebidas da administração central do Estado para o exercício das competências transferidas.
 
-###### Artigo 80.º — Reafetação de verbas no âmbito do Fundo de Financiamento da Descentralização no mesmo domínio de competências
+Artigo 80.º
+
+Reafetação de verbas no âmbito do Fundo de Financiamento da Descentralização no mesmo domínio de competências
 
 No âmbito do Fundo de Financiamento da Descentralização (FFD) a competência para reafetar verbas entre componentes, desde que a mesma ocorra dentro do mesmo domínio é das autarquias locais.
 
-###### Artigo 81.º — Auxílios financeiros e cooperação técnica e financeira
+Artigo 81.º
+
+Auxílios financeiros e cooperação técnica e financeira
 
 Com vista ao cumprimento do n.º 7 do artigo 22.º da [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 3 de setembro, na sua redação atual, as entidades de cada área governativa prestam à DGAL, nos moldes por esta definidos, informação sobre os instrumentos de cooperação técnica e financeira e de auxílio financeiro celebrados com autarquias locais, bem como os respetivos montantes e prazos.
 
-###### Artigo 82.º — Lojas de cidadão
+Artigo 82.º
+
+Lojas de cidadão
 
 1 - Nos termos da alínea a) do n.º 2 do artigo 132.º da Lei do Orçamento do Estado, considera-se autorizada a celebração de contratos e protocolos no âmbito da expansão da Rede de Lojas e Espaços Cidadão com financiamento previsto em PRR.
 
@@ -1483,21 +2093,29 @@ Com vista ao cumprimento do n.º 7 do artigo 22.º da [Lei n.º 73/2013](https:/
 
 6 - O parecer da ESTAMO, S. A., a que se refere o n.º 3 do artigo 175.º da Lei do Orçamento do Estado, fica dispensado, sendo os protocolos objeto de mera comunicação, sempre que o valor unitário por m2, não exceda os limites previstos no artigo 121.º
 
-###### Artigo 83.º — Obrigações de serviço público na Região Autónoma dos Açores
+Artigo 83.º
+
+Obrigações de serviço público na Região Autónoma dos Açores
 
 1 - A transferência da dotação orçamental prevista no n.º 1 do artigo 153.º da Lei do Orçamento do Estado, é efetuada trimestralmente pela DGTF, com recurso a verbas inscritas no capítulo 60 do orçamento do MF, sendo transferido, no final de cada trimestre, o montante de 2 513 111,25 euros.
 
 2 - A Inspeção-Geral das Finanças (IGF) procede à validação dos custos incorridos e decorrentes da prestação de serviço público no transporte interilhas face à compensação prevista no n.º 1 do artigo 153.º da Lei do Orçamento do Estado, procedendo-se aos eventuais acertos e compensações a que haja lugar no prazo de seis meses a contar da homologação do relatório da IGF.
 
-### CAPÍTULO IV — EXECUÇÃO DO ORÇAMENTO DA SEGURANÇA SOCIAL
+CAPÍTULO IV
 
-###### Artigo 84.º — Execução do orçamento da segurança social
+EXECUÇÃO DO ORÇAMENTO DA SEGURANÇA SOCIAL
+
+Artigo 84.º
+
+Execução do orçamento da segurança social
 
 1 - Compete ao IGFSS, I. P., efetuar a gestão global do orçamento da segurança social, assegurar o acompanhamento da execução orçamental e propor eventuais alterações orçamentais, nos termos do artigo 56.º da Lei de Enquadramento Orçamental.
 
 2 - Considerando a variação dos consumos através da alteração de frequências dos utentes, no âmbito do n.º 2 do artigo 8.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, a assunção dos compromissos relativos a acordos de cooperação vigentes entre o Instituto da Segurança Social, I. P. (ISS, I. P.), e as Instituições Particulares de Solidariedade Social é efetuada pelo valor estimado de encargos relativos ao período temporal de apuramento dos fundos disponíveis.
 
-###### Artigo 85.º — Prazos para autorização de pagamentos e cobrança de receita
+Artigo 85.º
+
+Prazos para autorização de pagamentos e cobrança de receita
 
 1 - Não é permitido contrair encargos que não possam ser pagos até 5 de janeiro do ano seguinte.
 
@@ -1505,7 +2123,9 @@ Com vista ao cumprimento do n.º 7 do artigo 22.º da [Lei n.º 73/2013](https:/
 
 3 - Nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), de 28 de julho, na sua redação atual, a cobrança de receitas, originadas ou autorizadas até 31 de dezembro do ano em curso, pode ser realizada até 5 de janeiro do ano seguinte, relevando para efeitos da execução orçamental do ano em curso.
 
-###### Artigo 86.º — Requisição de fundos
+Artigo 86.º
+
+Requisição de fundos
 
 1 - O financiamento das instituições de segurança social e dos demais organismos com dotações integradas no orçamento da segurança social é efetuado pelo IGFSS, I. P., com base em planos de tesouraria aprovados por este.
 
@@ -1519,7 +2139,9 @@ Com vista ao cumprimento do n.º 7 do artigo 22.º da [Lei n.º 73/2013](https:/
 
 6 - O valor a transferir para os organismos financiados pelo orçamento da segurança social deve ser líquido das cativações definidas na Lei do Orçamento do Estado e no presente decreto-lei, de acordo com a informação a disponibilizar pelas entidades da administração central abrangidos.
 
-###### Artigo 87.º — Alterações orçamentais
+Artigo 87.º
+
+Alterações orçamentais
 
 1 - As alterações orçamentais só podem ter seguimento quando sejam devidamente justificadas e apresentem a adequada contrapartida.
 
@@ -1549,7 +2171,9 @@ d) Receitas obtidas na gestão do Fundo de Estabilização Financeira da Seguran
 
 10 - As alterações orçamentais referidas na alínea c) do artigo 60.º da Lei de Enquadramento Orçamental, são autorizadas pelo membro do Governo responsável pela área da segurança social.
 
-###### Artigo 88.º — Transferências orçamentais
+Artigo 88.º
+
+Transferências orçamentais
 
 1 - O orçamento da segurança social apoia financeiramente os centros de cultura e desporto da segurança social (CCD) no desenvolvimento das suas atividades, não se integrando estas na prossecução de fins de ação social complementar, para os efeitos previstos no [Decreto-Lei n.º 122/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2007-520977), de 27 de abril, na sua redação atual.
 
@@ -1557,7 +2181,9 @@ d) Receitas obtidas na gestão do Fundo de Estabilização Financeira da Seguran
 
 3 - As transferências para os CCD são definidas, regulamentadas e autorizadas por despacho do membro do Governo responsável pela área da segurança social, com base em critérios transparentes e objetivos.
 
-###### Artigo 89.º — Relacionamento com o sistema bancário ou financeiro
+Artigo 89.º
+
+Relacionamento com o sistema bancário ou financeiro
 
 1 - O IGFSS, I. P., fica autorizado a estabelecer relações com as instituições do sistema bancário ou financeiro, podendo, para o efeito, negociar aplicações de capital, constituir depósitos e contrair empréstimos de curto prazo que se mostrem necessários à execução do orçamento da segurança social para o ano em curso, nos termos do n.º 6 do artigo 56.º da Lei de Enquadramento Orçamental.
 
@@ -1565,7 +2191,9 @@ d) Receitas obtidas na gestão do Fundo de Estabilização Financeira da Seguran
 
 3 - Sem prejuízo do disposto no número anterior, fica o IGFSS, I. P., autorizado a constituir depósitos bancários exclusivamente necessários à atividade dos serviços da segurança social.
 
-###### Artigo 90.º — Política para a inclusão das pessoas com deficiência
+Artigo 90.º
+
+Política para a inclusão das pessoas com deficiência
 
 A informação prevista no artigo 237.º da Lei do Orçamento do Estado é compilada e remetida por cada entidade coordenadora da Estratégia Nacional para a Inclusão das Pessoas com Deficiência, 2021-2025 (ENIPD), ao Instituto Nacional para a Reabilitação, I. P., e à DGO:
 
@@ -1573,11 +2201,17 @@ a) No prazo de 60 dias após a entrada em vigor do presente decreto-lei, quanto 
 
 b) Até 28 de fevereiro do ano seguinte, quanto à sua execução, bem como quanto à estimativa do montante correspondente às verbas para a implementação da ENIPD 2026-2030 os indicadores de execução, avaliação e descrição das metas de execução.
 
-### CAPÍTULO V — OPERAÇÕES DO TESOURO
+CAPÍTULO V
 
-#### SECÇÃO I — OPERAÇÕES ATIVAS E PASSIVAS
+OPERAÇÕES DO TESOURO
 
-###### Artigo 91.º — Parecer sobre operações de financiamento
+SECÇÃO I
+
+OPERAÇÕES ATIVAS E PASSIVAS
+
+Artigo 91.º
+
+Parecer sobre operações de financiamento
 
 1 - Ficam sujeitas a apreciação prévia do IGCP, E. P. E., as operações de financiamento de montante superior a 500 000,00 euros, nomeadamente empréstimos, realizadas pelos serviços e fundos dotados de autonomia administrativa e financeira, incluindo EPR.
 
@@ -1585,7 +2219,9 @@ b) Até 28 de fevereiro do ano seguinte, quanto à sua execução, bem como quan
 
 3 - Ficam excecionadas do disposto nos números anteriores as operações de financiamento concedidas pela DGTF que estejam sujeitas a cotação do IGCP, E. P. E.
 
-###### Artigo 92.º — Controlo do limite para as garantias a conceder por pessoas coletivas de direito público
+Artigo 92.º
+
+Controlo do limite para as garantias a conceder por pessoas coletivas de direito público
 
 Para efeitos de controlo do cumprimento do limite máximo para a concessão de garantias, previsto no n.º 4 do artigo 80.º da Lei do Orçamento do Estado, as pessoas coletivas de direito público devem:
 
@@ -1593,11 +2229,15 @@ a) Solicitar à DGTF informação prévia sobre o cabimento das garantias a conc
 
 b) Informar a DGTF, trimestralmente, até ao dia 10 do mês seguinte ao do trimestre a que respeitam, de todos os movimentos relativos às operações financeiras por si garantidas.
 
-###### Artigo 93.º — Concessão de garantias às operações de crédito à exportação
+Artigo 93.º
+
+Concessão de garantias às operações de crédito à exportação
 
 À concessão de garantias às operações mencionadas no n.º 2 do artigo 80.º da Lei do Orçamento do Estado, que não revistam a natureza de seguro, aplica-se, com as necessárias adaptações, atenta a respetiva finalidade, a [Lei n.º 112/97](https://diariodarepublica.pt/dr/detalhe/lei/112-1997-649166), de 16 de setembro, na sua redação atual, sendo os demais termos e condições dessas garantias objeto de despacho do membro do Governo responsável pela área das finanças.
 
-###### Artigo 94.º — Controlo do limite para a concessão de empréstimos e outras operações ativas
+Artigo 94.º
+
+Controlo do limite para a concessão de empréstimos e outras operações ativas
 
 1 - Para efeitos de controlo do cumprimento do limite máximo para a concessão de empréstimos e outras operações ativas, previsto no n.º 2 do artigo 76.º da Lei do Orçamento do Estado, as pessoas coletivas de direito público devem:
 
@@ -1609,13 +2249,19 @@ b) Registar mensalmente nos serviços online da DGO, até ao dia 10 do mês segu
 
 3 - A concessão de financiamentos de natureza reembolsável, com financiamento nacional, suscetível de atribuição de prémio de realização, ainda que atribuído posteriormente ao reembolso, carece de autorização prévia dos membros do Governo responsáveis pela área das finanças e pela respetiva área setorial.
 
-###### Artigo 95.º — Procedimento aplicável aos empréstimos externos
+Artigo 95.º
+
+Procedimento aplicável aos empréstimos externos
 
 O regime previsto no artigo 32.º-B do Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de julho, na sua redação atual, é aplicável aos juros de capitais provenientes do estrangeiro representativos de contratos de empréstimo ali previstos celebrados pelo IGCP, E. P. E., em nome e representação do Estado português, desde que seja reconhecido pelo membro do Governo responsável pela área das finanças o interesse público subjacente à operação e o credor seja um não residente em território nacional sem estabelecimento estável ao qual o empréstimo seja imputável.
 
-#### SECÇÃO II — GESTÃO DA TESOURARIA DO ESTADO
+SECÇÃO II
 
-###### Artigo 96.º — Modelo de gestão de tesouraria
+GESTÃO DA TESOURARIA DO ESTADO
+
+Artigo 96.º
+
+Modelo de gestão de tesouraria
 
 1 - É estabelecido um modelo de gestão de tesouraria que garanta os seguintes objetivos:
 
@@ -1647,17 +2293,19 @@ e) Permitir a reconciliação diária entre a informação bancária e a contabi
 
 10 - Sem prejuízo pelo disposto nos números anteriores, as entidades referidas no n.º 3 podem efetuar aplicações em CEDIC.
 
-11 - Fica autorizada a transição e a utilização de saldos de gerência, bem como a respetiva aplicação em despesa pelas entidades para a concretização da aplicação em CEDIC referida nos n.<sup>os</sup>7 e 9.
+11 - Fica autorizada a transição e a utilização de saldos de gerência, bem como a respetiva aplicação em despesa pelas entidades para a concretização da aplicação em CEDIC referida nos n.os7 e 9.
 
-12 - As alterações orçamentais que visam permitir as aplicações em CEDIC a que se referem os n.<sup>os</sup>7 a 8, são da competência do dirigente máximo da entidade quando envolvam o aumento de despesa compensado pela cobrança de receita própria ou consignada.
+12 - As alterações orçamentais que visam permitir as aplicações em CEDIC a que se referem os n.os7 a 8, são da competência do dirigente máximo da entidade quando envolvam o aumento de despesa compensado pela cobrança de receita própria ou consignada.
 
-13 - Ficam autorizadas, até ao último dia útil do ano, as alterações orçamentais a realizar aos orçamentos das entidades, exclusivamente para efeitos de constituição de CEDIC nos termos e limites previstos nos n.<sup>os</sup>7 e 8, com exceção daquelas que sejam financiadas por receitas gerais de impostos.
+13 - Ficam autorizadas, até ao último dia útil do ano, as alterações orçamentais a realizar aos orçamentos das entidades, exclusivamente para efeitos de constituição de CEDIC nos termos e limites previstos nos n.os7 e 8, com exceção daquelas que sejam financiadas por receitas gerais de impostos.
 
 14 - As entidades procedem ao registo das alterações orçamentais referidas no número anterior, após comunicação do IGCP, E. P. E., relativa aos CEDIC constituídos nos termos do disposto no n.º 7.
 
 15 - Sem prejuízo das normas previstas no presente decreto-lei, em matéria de aplicação de saldos de gerência, o reembolso de aplicações financeiras enquadradas nos números anteriores, assumindo a forma de saldo de gerência anterior no momento do seu reembolso, pode vir a ser utilizado no orçamento de despesa efetiva das entidades.
 
-###### Artigo 97.º — Unidade de tesouraria
+Artigo 97.º
+
+Unidade de tesouraria
 
 1 - As entidades referidas no artigo 13.º da Lei do Orçamento do Estado, com exceção das entidades públicas não reclassificadas, são obrigadas a fazer prova do cumprimento do princípio da unidade de tesouraria através do registo trimestral, nos serviços online da DGO, do saldo bancário registado no final de cada um dos três meses anteriores, da totalidade das suas disponibilidades e aplicações financeiras, seja qual for a origem ou natureza das mesmas, incluindo receitas próprias, junto do IGCP, E. P. E., e das instituições bancárias, bem como das disponibilidades e aplicações mantidas na banca comercial e respetivos rendimentos.
 
@@ -1697,7 +2345,7 @@ e) Sistema de Indemnização aos Investidores.
 
 8 - Em situações excecionais, devidamente fundamentadas, a pedido do serviço ou organismo, o membro do Governo responsável pela área das finanças pode autorizar a dispensa do cumprimento do princípio da unidade de tesouraria em exercícios anteriores.
 
-9 - A dispensa do cumprimento do princípio da unidade de tesouraria não isenta as entidades do reporte de informação a que se referem os n.<sup>os</sup>1 e 2.
+9 - A dispensa do cumprimento do princípio da unidade de tesouraria não isenta as entidades do reporte de informação a que se referem os n.os1 e 2.
 
 10 - Os rendimentos de todas as disponibilidades e aplicações financeiras auferidos em virtude do incumprimento do princípio da unidade de tesouraria e respetivas regras, ou dispensados do cumprimento deste princípio, devem ser entregues na tesouraria central do Estado até ao final do mês seguinte ao da sua obtenção e remetido o respetivo comprovativo à DGO.
 
@@ -1713,11 +2361,13 @@ e) Sistema de Indemnização aos Investidores.
 
 16 - Sem prejuízo do disposto no número anterior, o pagamento de vencimentos nos agrupamentos de escolas e escolas não agrupadas é assegurado centralmente pelo IGEFE, I. P., através de conta no IGCP, E. P. E.
 
-###### Artigo 98.º — Regularização de saldos
+Artigo 98.º
+
+Regularização de saldos
 
 Consideram-se regularizadas as dívidas respeitantes ao financiamento de apoios no âmbito do [Decreto-Lei n.º 159/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2001-343434), de 18 de maio, e do [Decreto-Lei n.º 115/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2005-236275), de 14 de julho, bem como as respeitantes a indemnizações prestadas por conta do ministério da saúde no período de 1980 a 1982 pela transferência de hospitais para o Estado.
 
-###### Artigo 99.º
+Artigo 99.º
 
 Cartão «Tesouro Português»
 
@@ -1735,7 +2385,9 @@ Cartão «Tesouro Português»
 
 7 - O disposto no presente artigo aplica-se, com as devidas adaptações, aos municípios que mantenham contas bancárias junto do IGCP, E. P. E., e possuam o cartão «Tesouro Português».
 
-###### Artigo 100.º — Gestão das disponibilidades de tesouraria
+Artigo 100.º
+
+Gestão das disponibilidades de tesouraria
 
 1 - As disponibilidades residentes na tesouraria central do Estado podem ser aplicadas na aquisição de valores mobiliários representativos de dívida pública, entendendo-se por esta quer a dívida contraída pelo IGCP, E. P. E., atuando em nome e em representação do Estado, quer a dívida de entidades que, independentemente da sua natureza e forma, estejam reclassificadas no perímetro das administrações públicas no âmbito do Sistema Europeu de Contas Nacionais e Regionais.
 
@@ -1743,17 +2395,25 @@ Cartão «Tesouro Português»
 
 3 - Compete ao IGCP, E. P. E., definir os termos e as condições das operações de compra de dívida a realizar ao abrigo do disposto nos números anteriores, em obediência ao princípio da máxima eficiência de gestão da tesouraria do Estado.
 
-#### SECÇÃO III — RECUPERAÇÃO DE CRÉDITOS E REGULARIZAÇÃO DE RESPONSABILIDADES
+SECÇÃO III
 
-###### Artigo 101.º — Recuperação de créditos
+RECUPERAÇÃO DE CRÉDITOS E REGULARIZAÇÃO DE RESPONSABILIDADES
+
+Artigo 101.º
+
+Recuperação de créditos
 
 1 - A cobrança dos créditos detidos pela DGTF decorrentes de empréstimos e comparticipações financeiras reembolsáveis, concedidas pelo Estado ou por outras entidades públicas, designadamente empresas públicas, que lhe tenham transmitido os respetivos direitos, bem como da execução da garantia do Estado prestada no quadro do Código das Expropriações, aprovado pela [Lei n.º 168/99](https://diariodarepublica.pt/dr/detalhe/lei/168-1999-569885), de 18 de setembro, na sua redação atual, pode ter lugar por recurso ao processo de execução fiscal nos termos previstos no Código de Procedimento e de Processo Tributário.
 
 2 - Sempre que a cobrança de créditos detidos pela DGTF seja realizada por recurso ao processo de execução fiscal, a certidão de dívida emitida pela DGTF constitui título executivo para o efeito.
 
-### CAPÍTULO VI — PRESTAÇÃO DE INFORMAÇÃO
+CAPÍTULO VI
 
-###### Artigo 102.º — Informação sobre fundos disponíveis, compromissos, contas a pagar e pagamentos em atraso
+PRESTAÇÃO DE INFORMAÇÃO
+
+Artigo 102.º
+
+Informação sobre fundos disponíveis, compromissos, contas a pagar e pagamentos em atraso
 
 1 - Independentemente da existência de pagamentos em atraso, as entidades referidas no artigo 2.º da Lei de Enquadramento Orçamental, procedem, mensalmente, ao registo da informação sobre fundos disponíveis, compromissos assumidos, saldo inicial das contas a pagar, movimento mensal, saldo das contas a pagar a transitar para o mês seguinte e os pagamentos em atraso, até ao dia 10 do mês seguinte a que se reporta, no suporte informático das seguintes entidades:
 
@@ -1765,13 +2425,15 @@ c) DGAL, no subsetor da administração local;
 
 d) IGFSS, I. P., no subsetor da segurança social.
 
-2 - Os municípios e as freguesias que tenham cumprido as obrigações previstas nos n.<sup>os</sup>5 e 6 do artigo 128.º da Lei do Orçamento do Estado, e estejam excluídos do âmbito de aplicação da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual e do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, estão dispensados do envio do mapa dos fundos disponíveis através dos sistemas de informação da DGAL, mantendo-se a obrigatoriedade de reporte dos pagamentos em atraso.
+2 - Os municípios e as freguesias que tenham cumprido as obrigações previstas nos n.os5 e 6 do artigo 128.º da Lei do Orçamento do Estado, e estejam excluídos do âmbito de aplicação da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual e do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, estão dispensados do envio do mapa dos fundos disponíveis através dos sistemas de informação da DGAL, mantendo-se a obrigatoriedade de reporte dos pagamentos em atraso.
 
 3 - O reporte da informação relativa a fundos disponíveis e compromissos assumidos referido no n.º 1 é submetido a validação da entidade coordenadora do programa orçamental.
 
 4 - As entidades referidas nas alíneas b) a d) do n.º 1 e as entidades do subsetor da administração regional devem remeter à DGO a informação compilada até ao dia 15 do mês referido no n.º 1.
 
-###### Artigo 103.º — Informação genérica a prestar pelas entidades com autonomia financeira no Sistema de Informação de Gestão Orçamental
+Artigo 103.º
+
+Informação genérica a prestar pelas entidades com autonomia financeira no Sistema de Informação de Gestão Orçamental
 
 1 - As entidades com autonomia financeira são responsáveis por proceder ao registo da informação no suporte informático, ou ao envio em suporte eletrónico, dando conta às respetivas entidades coordenadoras, nos termos previstos nos números seguintes.
 
@@ -1787,7 +2449,9 @@ d) IGFSS, I. P., no subsetor da segurança social.
 
 7 - Para além dos documentos mencionados nos números anteriores, a DGO pode ainda solicitar qualquer outra informação de caráter financeiro necessária à análise do impacto das contas das entidades referidas no n.º 1 no saldo das administrações públicas.
 
-###### Artigo 104.º — Informação a prestar pelas instituições do Ministério da Saúde
+Artigo 104.º
+
+Informação a prestar pelas instituições do Ministério da Saúde
 
 1 - As instituições do setor público administrativo e do setor empresarial do Estado, no âmbito do MS, enviam à ACSS, I. P., os documentos de prestação de contas mensal, os documentos de prestação de contas final e respetiva certificação legal de contas, bem como outra informação necessária ao acompanhamento económico-financeiro das entidades ou ao controlo da execução do orçamento do MS.
 
@@ -1807,7 +2471,9 @@ b) Pela DGO, no caso das instituições do setor público administrativo.
 
 7 - A ACSS, I. P., compila a informação a prestar no âmbito dos recursos humanos das entidades do MS, nos termos da Lei do Orçamento do Estado, do Estatuto do SNS, aprovado pelo [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, e do presente decreto-lei, e remete à DGO, nos termos a definir na circular de execução orçamental.
 
-###### Artigo 105.º — Informação a prestar pelas regiões autónomas
+Artigo 105.º
+
+Informação a prestar pelas regiões autónomas
 
 1 - As regiões autónomas prestam à DGO, nos termos definidos por esta, a seguinte informação:
 
@@ -1823,11 +2489,13 @@ e) A necessária à aferição do cumprimento do equilíbrio orçamental e do li
 
 2 - As regiões autónomas prestam, ainda, a informação de caráter económico-financeiro que seja solicitada pela DGO, necessária à análise do impacto das contas das administrações regionais no saldo das administrações públicas.
 
-###### Artigo 106.º — Informação a prestar pelas regiões autónomas e entidades integradas no subsetor da administração regional em contas nacionais
+Artigo 106.º
+
+Informação a prestar pelas regiões autónomas e entidades integradas no subsetor da administração regional em contas nacionais
 
 Os Governos Regionais dos Açores e da Madeira prestam informação à DGO, trimestralmente e nos termos por esta definidos, sobre a celebração de contratos em regime de parcerias público-privadas, concessões e execução de contratos em vigor, de modo a permitir a existência de um registo atualizado e completo destas operações ao nível das Regiões Autónomas.
 
-###### Artigo 107.º
+Artigo 107.º
 
 Informação a prestar pelas autarquias locais, empresas do setor empresarial local, entidades intermunicipais, entidades associativas municipais e entidades integradas no subsetor da administração local em contas nacionais
 
@@ -1853,7 +2521,9 @@ e) A prevista no n.º 3 do artigo 131.º da Lei do Orçamento do Estado.
 
 6 - A DGO e a DGAL partilham a informação prestada nos termos do presente artigo, podendo, no âmbito das respetivas atribuições, solicitar informações adicionais às entidades constantes do n.º 3.
 
-###### Artigo 108.º — Informação a prestar pela segurança social
+Artigo 108.º
+
+Informação a prestar pela segurança social
 
 1 - As instituições de segurança social e os demais organismos com orçamentos integrados no orçamento da segurança social devem disponibilizar, mensalmente, ao IGFSS, I. P., até ao sétimo dia do mês seguinte àquele a que respeitam, elementos sobre a execução orçamental de receita e de despesa realizados nos termos definidos no SNC-AP.
 
@@ -1873,17 +2543,25 @@ f) Os dados referentes à situação da dívida e dos ativos expressos em títul
 
 g) A dívida contraída e os ativos expressos em títulos de dívida emitidos pelas administrações públicas, em cumprimento do [Regulamento (CE) 1222/2004](https://data.europa.eu/eli/reg/2004/1222/oj?locale=pt), do Conselho, de 28 de junho de 2004, na sua redação atual, até ao final do mês seguinte ao fim do trimestre.
 
-###### Artigo 109.º — Deveres de informação
+Artigo 109.º
+
+Deveres de informação
 
 Para além das obrigações de informação especialmente previstas no presente capítulo, a DGO pode ainda solicitar às entidades referidas no artigo 2.º da Lei de Enquadramento Orçamental, outra informação que se revele necessária para o acompanhamento da execução orçamental.
 
-###### Artigo 110.º — Prestação de informação por via eletrónica
+Artigo 110.º
+
+Prestação de informação por via eletrónica
 
 Todos os relatórios, informações e documentos referidos no presente decreto-lei, que devam ser objeto de reporte ou de envio, devem ser disponibilizados por via eletrónica, salvo disposição legal em contrário.
 
-### CAPÍTULO VII — POLÍTICAS DE PREVENÇÃO DA VIOLÊNCIA DOMÉSTICA, DE PROTEÇÃO E DE ASSISTÊNCIA DAS SUAS VÍTIMAS
+CAPÍTULO VII
 
-###### Artigo 111.º — Política de prevenção da violência doméstica, de proteção e de assistência das suas vítimas
+POLÍTICAS DE PREVENÇÃO DA VIOLÊNCIA DOMÉSTICA, DE PROTEÇÃO E DE ASSISTÊNCIA DAS SUAS VÍTIMAS
+
+Artigo 111.º
+
+Política de prevenção da violência doméstica, de proteção e de assistência das suas vítimas
 
 A informação prevista no artigo 80.º-A da [Lei n.º 112/2009](https://diariodarepublica.pt/dr/detalhe/lei/112-2009-490247), de 16 de setembro, na sua redação atual, é compilada e remetida por cada entidade coordenadora à CIG e à DGO:
 
@@ -1891,9 +2569,13 @@ a) No prazo de 60 dias após a entrada em vigor do presente decreto-lei, quanto 
 
 b) Até 28 de fevereiro do ano seguinte, quanto à sua execução, bem como estimativa do montante correspondente a isenções concedidas a pessoas com o estatuto de vítima de violência doméstica.
 
-### CAPÍTULO VIII — DISPOSIÇÕES ESPECÍFICAS EM MATÉRIA DE GESTÃO DE PATRIMÓNIO
+CAPÍTULO VIII
 
-###### Artigo 112.º — Disposição do património imobiliário
+DISPOSIÇÕES ESPECÍFICAS EM MATÉRIA DE GESTÃO DE PATRIMÓNIO
+
+Artigo 112.º
+
+Disposição do património imobiliário
 
 1 - Sem prejuízo do disposto no [Decreto-Lei n.º 106/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2018-117142872), de 29 de novembro, a alienação, a oneração e o arrendamento de imóveis pertencentes ao Estado ou aos organismos públicos com personalidade jurídica, dotados ou não de autonomia financeira, que não tenham a natureza, a forma e a designação de empresa, fundação ou associação pública, bem como a cedência de utilização de imóveis do Estado, são sempre onerosas.
 
@@ -1907,7 +2589,7 @@ b) Não prossigam atribuições de natureza mercantil;
 
 c) Desenvolvam no imóvel atividades de particular relevância social.
 
-4 - O disposto nos n.<sup>os</sup>2 e 3 aplica-se, com as devidas adaptações, aos imóveis a que se refere o n.º 5 do artigo 66.º da Lei do Orçamento do Estado, tendo por referência o valor apurado em avaliação promovida pelo IGFSS, I. P.
+4 - O disposto nos n.os2 e 3 aplica-se, com as devidas adaptações, aos imóveis a que se refere o n.º 5 do artigo 66.º da Lei do Orçamento do Estado, tendo por referência o valor apurado em avaliação promovida pelo IGFSS, I. P.
 
 5 - O disposto no n.º 1 não se aplica às operações imobiliárias previstas em legislação especial, nos termos da qual se excecione a aplicação do princípio da onerosidade ou o disposto no [Decreto-Lei n.º 280/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402), de 7 de agosto, na sua redação atual, nomeadamente:
 
@@ -1947,7 +2629,9 @@ o) Aos afetos à prossecução de fins de relevante interesse público ou social
 
 8 - As dispensas previstas nas alíneas l), m), n) e o) do n.º 5, carecem de autorização do membro do Governo responsável pela área da segurança social.
 
-###### Artigo 113.º — Utilização de curta duração
+Artigo 113.º
+
+Utilização de curta duração
 
 1 - O pagamento da contrapartida, prevista na alínea a) do n.º 7 do artigo 5.º da Lei do Orçamento do Estado, devida pelo utilizador, é realizado previamente ao início da utilização e suportado em documento contabilístico.
 
@@ -1955,9 +2639,11 @@ o) Aos afetos à prossecução de fins de relevante interesse público ou social
 
 3 - As condições previstas nos números anteriores aplicam-se exclusivamente à utilização de curta duração por terceiro que envolva mais de 50 % da área útil dos edifícios, instalações ou espaço exterior, não sendo exigíveis quando ocorra cedência de utilização de curta duração que envolva uma área inferior.
 
-4 - A contrapartida mínima a que se refere a alínea a) do n.º 7 do artigo 5.º da Lei do Orçamento do Estado é fixada num ou em vários preços m<sup>2</sup>/hora para edifícios e m<sup>2</sup>/dia para espaços exteriores.
+4 - A contrapartida mínima a que se refere a alínea a) do n.º 7 do artigo 5.º da Lei do Orçamento do Estado é fixada num ou em vários preços m2/hora para edifícios e m2/dia para espaços exteriores.
 
-###### Artigo 114.º — Contabilização de receita proveniente de operações imobiliárias
+Artigo 114.º
+
+Contabilização de receita proveniente de operações imobiliárias
 
 1 - Com vista à contabilização das receitas provenientes de operações imobiliárias, devem os serviços do Estado e os organismos públicos com personalidade jurídica, dotados ou não de autonomia financeira, que não tenham a natureza, a forma e a designação de empresa, fundação ou associação pública, remeter à ESTAMO, S. A., até 15 de fevereiro 2026, informação relativa às operações de alienação, permuta, oneração e cedências relativas aos imóveis sob a sua gestão, identificando a inscrição matricial, o registo e o local da situação do imóvel, bem como o respetivo título jurídico da ocupação.
 
@@ -1967,7 +2653,9 @@ o) Aos afetos à prossecução de fins de relevante interesse público ou social
 
 4 - A afetação das receitas referidas no n.º 1 aos respetivos serviços é promovida pela ESTAMO, S. A., em conformidade com o disposto na Lei do Orçamento do Estado quanto à afetação do produto da alienação e oneração de imóveis.
 
-###### Artigo 115.º — Princípio da onerosidade
+Artigo 115.º
+
+Princípio da onerosidade
 
 1 - Fica a ESTAMO, S. A., autorizada a notificar os serviços, organismos públicos e demais entidades para pagamento das contrapartidas decorrentes da aplicação do princípio da onerosidade liquidadas, comunicadas e devidas em anos anteriores e cujo pagamento não tenha sido realizado, procedendo à emissão das correspondentes faturas.
 
@@ -2009,21 +2697,29 @@ l) Edifícios afetos a outros Estados ou a organizações internacionais;
 
 m) Edifícios afetos aos órgãos constitucionais de consulta.
 
-###### Artigo 116.º — Aplicação do princípio da onerosidade aos imóveis afetos à prossecução das atividades operacionais das Forças Armadas
+Artigo 116.º
+
+Aplicação do princípio da onerosidade aos imóveis afetos à prossecução das atividades operacionais das Forças Armadas
 
 É aplicado o princípio da onerosidade aos imóveis, partes de imóveis ou espaços afetos à prossecução das atividades operacionais das Forças Armadas, em derrogação do disposto no n.º 2 do artigo 2.º da [Portaria n.º 278/2012](https://diariodarepublica.pt/dr/detalhe/portaria/278-2012-175980), de 14 de setembro, na sua redação atual.
 
-###### Artigo 117.º — Satisfação de encargos decorrentes da extinção do Fundo dos Antigos Combatentes
+Artigo 117.º
+
+Satisfação de encargos decorrentes da extinção do Fundo dos Antigos Combatentes
 
 Os encargos previstos na parte final do artigo 16.º da [Lei n.º 3/2009](https://diariodarepublica.pt/dr/detalhe/lei/3-2009-397297), de 13 de janeiro, na sua redação atual, a satisfazer pela Lei de Programação de Infraestruturas Militares, atual Lei das Infraestruturas Militares, são satisfeitos por verbas do orçamento do Estado, no PO 06-Defesa.
 
-###### Artigo 118.º — Fundo de Reabilitação e Conservação Patrimonial
+Artigo 118.º
+
+Fundo de Reabilitação e Conservação Patrimonial
 
 1 - O financiamento do FRCP pode abranger intervenções em imóveis dos serviços, organismos e demais entidades que possam beneficiar de outros fundos, públicos ou privados, destinados a operações de reabilitação, conservação ou restauro em imóveis apenas na parte não financiada, não podendo ser cumulados com outros programas decorrentes de regimes e legislação especiais de rentabilização de imóveis.
 
 2 - Cabe ao membro do Governo responsável pela área das finanças, mediante comprovativo de aprovação da candidatura ao FRCP, autorizar as alterações orçamentais resultantes de operações não previstas nos orçamentos iniciais das entidades beneficiárias, necessárias para assegurar as respetivas despesas no valor correspondente ao financiamento aprovado.
 
-###### Artigo 119.º — Competência para autorizar aquisições onerosas e arrendamentos para instalação de serviços públicos
+Artigo 119.º
+
+Competência para autorizar aquisições onerosas e arrendamentos para instalação de serviços públicos
 
 1 - Compete ao membro do Governo responsável pela área das finanças e ao membro do Governo responsável pela área setorial autorizar, no âmbito do [Decreto-Lei n.º 280/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402), de 7 de agosto, na sua redação atual, a aquisição onerosa, para o Estado e para os institutos públicos, do direito de propriedade ou de outros direitos reais de gozo sobre bens imóveis, quando o valor da aquisição seja inferior ao montante estabelecido no regime de realização de despesa pública para os ministros autorizarem despesa.
 
@@ -2037,7 +2733,9 @@ Os encargos previstos na parte final do artigo 16.º da [Lei n.º 3/2009](https:
 
 6 - A revogação por acordo, a denúncia ou resolução pelo Estado ou pelos institutos públicos dos contratos de arrendamento dependem de autorização prévia do membro do Governo responsável pela área setorial ou, caso impliquem o pagamento de indemnização, a celebração de novo contrato de arrendamento ou a celebração de contrato de compra e venda, de autorização prévia dos membros do Governo responsáveis pela área das finanças e pela área setorial.
 
-###### Artigo 120.º — Consulta ao mercado
+Artigo 120.º
+
+Consulta ao mercado
 
 1 - A consulta ao mercado prevista no artigo 34.º e seguintes do [Decreto-Lei n.º 280/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402), de 7 de agosto, na sua redação atual, realiza-se através da publicação de anúncios no sítio na Internet da ESTAMO, S. A., ou no portal único da ESTAMO, S. A., especializado em imobiliário público, não podendo o prazo de recebimento das propostas, ser inferior a 10 dias.
 
@@ -2063,15 +2761,17 @@ b) Se destine a dar resposta a situações de alojamento de emergência ou de tr
 
 4 - O pedido é instruído com a análise custo-benefício da operação, a declaração de cabimento orçamental da despesa e, quando aplicável, o comprovativo do registo do compromisso plurianual.
 
-###### Artigo 121.º — Avaliação
+Artigo 121.º
+
+Avaliação
 
 1 - Estão dispensados da avaliação e da homologação promovida pela ESTAMO, S. A., os arrendamentos para instalação dos serviços do Estado ou dos institutos públicos que, cumulativamente, cumpram os seguintes requisitos:
 
 | Tipologia | Área bruta privativa igual ou inferior a | Valor anual da renda inferior a | Prazo inicial do contrato igual ou inferior a |
 | --- | --- | --- | --- |
-| Habitação | 100 m<sup>2</sup> | 10 000 € | 5 anos |
-| Escritórios | 200 m<sup>2</sup> | 20 000 € | 5 anos |
-| Armazém/arquivo | 500 m<sup>2</sup> | 2 500 € | 5 anos |
+| Habitação | 100 m2 | 10 000 € | 5 anos |
+| Escritórios | 200 m2 | 20 000 € | 5 anos |
+| Armazém/arquivo | 500 m2 | 2 500 € | 5 anos |
 
 2 - Ficam dispensadas de homologação da ESTAMO, S. A.:
 
@@ -2079,7 +2779,9 @@ a) As avaliações realizadas por três peritos avaliadores a que se refere o n.
 
 b) As avaliações relativas à transferência de património imobiliário do Estado para o IAPMEI, I. P., para efeitos da implementação, na área de Sines, de novos projetos relevantes para a economia nacional, nos termos do disposto no Decreto-Lei n.º 6/90, de 3 de janeiro.
 
-###### Artigo 122.º — Regime de alienação de imóveis aplicável à Parvalorem, S. A., e à Imofundos, S. A.
+Artigo 122.º
+
+Regime de alienação de imóveis aplicável à Parvalorem, S. A., e à Imofundos, S. A.
 
 1 - Ficam a Parvalorem, S. A., e a Imofundos - Sociedade Gestora de Organismos de Investimento Coletivo, S. A., autorizadas a alienar e/ou onerar os bens imóveis da sua propriedade ou gestão, em aplicação do disposto no artigo 34.º do Decreto-Lei n.º 32/2024, de 10 de maio, na sua redação atual, desde que os contratos mencionados se insiram no cumprimento do respetivo objeto social e na realização de atos de administração ordinária.
 
@@ -2087,11 +2789,15 @@ b) As avaliações relativas à transferência de património imobiliário do Es
 
 3 - Para efeitos do n.º 1 deve ser consultado previamente o IHRU, I. P., que dispõe do prazo máximo de 10 dias úteis para manifestar interesse na integração dos imóveis na Bolsa de Imóveis Públicos para Habitação, nos termos do Decreto-Lei n.º 82/2020, de 2 de outubro, na sua redação atual.
 
-###### Artigo 123.º — Contratos de arrendamento com opção de compra
+Artigo 123.º
+
+Contratos de arrendamento com opção de compra
 
 Sem prejuízo do disposto no Decreto-Lei n.º 280/2007, de 7 de agosto, na sua redação atual, podem os contratos de arrendamento de imóveis do Estado ou de institutos públicos ser celebrados com cláusulas de opção ou de promessa de compra e venda, caso em que se pode prever qual a percentagem das rendas já pagas a ser deduzida ao valor de venda do imóvel.
 
-###### Artigo 124.º — Contrato de arrendamento de imóveis afetos à instalação de postos de atendimento de serviços e organismos públicos
+Artigo 124.º
+
+Contrato de arrendamento de imóveis afetos à instalação de postos de atendimento de serviços e organismos públicos
 
 1 - A celebração, renovação e cessação dos contratos de arrendamento relativos a imóveis afetos à instalação de postos de atendimento de serviços integrados do Estado e de organismos públicos com personalidade jurídica, dotados ou não de autonomia financeira, estão sujeitas a parecer prévio favorável da AMA, I. P., a emitir no prazo de 20 dias.
 
@@ -2125,27 +2831,35 @@ l) Instituto Português do Desporto e Juventude, I. P.;
 
 m) Agência para a Integração Migrações e Asilo, I. P.
 
-4 - Os atos praticados em violação do disposto nos n.<sup>os</sup>1 e 2 são nulos e fazem incorrer os seus autores em responsabilidade civil, financeira e disciplinar.
+4 - Os atos praticados em violação do disposto nos n.os1 e 2 são nulos e fazem incorrer os seus autores em responsabilidade civil, financeira e disciplinar.
 
-###### Artigo 125.º — Arrendamento de imóveis no estrangeiro
+Artigo 125.º
+
+Arrendamento de imóveis no estrangeiro
 
 1 - A renovação, revogação, denúncia ou resolução de contratos de arrendamento de imóveis sitos no estrangeiro para a instalação dos serviços do MNE, do MDN, da AICEP, E. P. E., do Camões, I. P., do Turismo de Portugal, I. P., e do Camões, I. P., ficam dispensados de autorização prévia, bem como de homologação, nos termos do disposto no n.º 6 do artigo 113.º e no artigo 42.º do Decreto-Lei n.º 280/2007, de 7 de agosto, na sua redação atual.
 
 2 - Ao arrendamento de imóveis em países beneficiários de ajuda para os projetos ou programas de cooperação cofinanciados pelo Camões, I. P., e do Turismo de Portugal, I. P., desde que tal necessidade e respetivo financiamento se encontrem previstos nos protocolos enquadradores, bem como ao arrendamento de imóveis destinados à promoção da língua e cultura portuguesas no estrangeiro, aplica-se ainda a dispensa de autorização do Ministro das Finanças prevista no n.º 2 do artigo 20.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual.
 
-###### Artigo 126.º — Redefinição do uso dos solos
+Artigo 126.º
+
+Redefinição do uso dos solos
 
 1 - Verificada a desafetação do domínio público ou dos fins de utilidade pública de quaisquer prédios e equipamentos situados nas áreas de uso especial, de equipamentos públicos ou equivalentes e a sua reafetação a outros fins, deve ser redefinido o uso do solo, de modo a consagrar os usos, os índices médios e os outros parâmetros aplicáveis às áreas limítrofes adjacentes que confinem diretamente com as áreas de uso a redefinir.
 
-2 - O procedimento a adotar para os casos previstos no número anterior é o procedimento simplificado previsto nos n.<sup>os</sup>3 e seguintes do artigo 123.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação atual, mediante a elaboração ou alteração do pertinente instrumento de gestão territorial, aplicando-se o disposto nos n.<sup>os</sup>4 a 6 do artigo 29.º do mesmo decreto-lei, sempre que ocorra falta de iniciativa procedimental por parte da entidade competente para o efeito.
+2 - O procedimento a adotar para os casos previstos no número anterior é o procedimento simplificado previsto nos n.os3 e seguintes do artigo 123.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação atual, mediante a elaboração ou alteração do pertinente instrumento de gestão territorial, aplicando-se o disposto nos n.os4 a 6 do artigo 29.º do mesmo decreto-lei, sempre que ocorra falta de iniciativa procedimental por parte da entidade competente para o efeito.
 
-###### Artigo 127.º — Constituição em propriedade horizontal
+Artigo 127.º
+
+Constituição em propriedade horizontal
 
 1 - A constituição da propriedade horizontal de prédios da titularidade do Estado faz-se mediante declaração emitida pela ESTAMO, S. A., desde que cumpridos os respetivos requisitos legais.
 
 2 - A declaração referida no número anterior constitui título bastante para a inscrição na matriz e respetivos registos prediais.
 
-###### Artigo 128.º — Transferência da gestão de património habitacional do Estado
+Artigo 128.º
+
+Transferência da gestão de património habitacional do Estado
 
 1 - A propriedade dos imóveis ainda não alienados pelo Estado existentes nas urbanizações denominadas «Bairro do Dr. Mário Madeira» e «Bairro de Santa Maria», inseridas na Quinta da Paiã, na freguesia da Pontinha, nos termos do Decreto-Lei n.º 52/2014, de 7 de abril, é transferida para o IHRU, I. P.
 
@@ -2157,19 +2871,25 @@ m) Agência para a Integração Migrações e Asilo, I. P.
 
 5 - O arrendamento das habitações transferidas fica sujeito ao regime do arrendamento apoiado ou de renda condicionada ou ao programa de arrendamento acessível.
 
-###### Artigo 129.º — Processos de regularização ou liquidação de associações ou empresas públicas
+Artigo 129.º
+
+Processos de regularização ou liquidação de associações ou empresas públicas
 
 1 - No âmbito do processo de regularização extraordinário destinado ao saneamento financeiro do património da Casa do Douro, previsto na Lei n.º 19/2016, de 24 de junho, na sua redação atual, o Instituto dos Vinhos do Douro e do Porto, I. P., pode assegurar a conservação e gestão do património que for transmitido para o Estado e para outras entidades públicas, mediante despacho dos membros do Governo responsáveis pelas áreas das finanças e da agricultura e da alimentação que fixe as respetivas condições, designadamente a contrapartida devida pelo serviço a prestar.
 
 2 - A DGTF, mediante despacho do membro do Governo responsável pela área das finanças, pode exercer as funções de liquidatário de empresas públicas dissolvidas pelo Estado, sendo aplicável subsidiariamente o Código das Sociedades Comerciais, aprovado pelo Decreto-Lei n.º 262/86, de 2 de setembro, na sua redação atual.
 
-###### Artigo 130.º — Embarcações, aeronaves e outros bens móveis do Estado
+Artigo 130.º
+
+Embarcações, aeronaves e outros bens móveis do Estado
 
 1 - A administração e gestão das embarcações e aeronaves declaradas perdidas a favor do Estado e que se encontram sob a gestão da DGTF é cometida ao Gabinete de Administração de Bens.
 
 2 - As embarcações, aeronaves e outros bens móveis do domínio privado do Estado que se encontrem sob a gestão direta da DGTF podem ser afetos, a título precário ou definitivo, a outros serviços do Estado mediante despacho dos membros do Governo responsáveis pela área das finanças e da área setorial.
 
-###### Artigo 131.º — Concentração física de entidades públicas
+Artigo 131.º
+
+Concentração física de entidades públicas
 
 1 - Compete à Secretaria-Geral do Governo a gestão do edifício onde atualmente se encontra instalada a sede da Caixa Geral de Depósitos, no que concerne à instalação nele de entidades públicas, nomeadamente, a distribuição e afetação das entidades pelo edifício, bem como a gestão dos contratos de fornecimento de bens e serviços essenciais.
 
@@ -2179,9 +2899,13 @@ m) Agência para a Integração Migrações e Asilo, I. P.
 
 4 - A afetação dos imóveis do Estado às entidades referidas no n.º 2 cessa automaticamente com a respetiva desocupação, regressando os mesmos à gestão da ESTAMO, S. A., livre de pessoas e bens.
 
-### CAPÍTULO IX — DISPOSIÇÕES ESPECÍFICAS EM MATÉRIA DE GESTÃO DE PESSOAL
+CAPÍTULO IX
 
-###### Artigo 132.º — Valorizações remuneratórias dos trabalhadores das empresas do setor público empresarial e das entidades independentes
+DISPOSIÇÕES ESPECÍFICAS EM MATÉRIA DE GESTÃO DE PESSOAL
+
+Artigo 132.º
+
+Valorizações remuneratórias dos trabalhadores das empresas do setor público empresarial e das entidades independentes
 
 1 - As empresas do setor público empresarial e as entidades independentes devem dispor de instrumentos que prevejam mecanismos de valorização dos seus trabalhadores, de desenvolvimento de carreiras com base em critérios objetivos predefinidos de avaliação do desempenho com diferenciação de mérito, bem como, de eventual atribuição de prémios de desempenho, aprovados nos termos do artigo 25.º do Decreto-Lei n.º 133/2013, de 3 de outubro, na sua redação atual.
 
@@ -2193,9 +2917,11 @@ m) Agência para a Integração Migrações e Asilo, I. P.
 
 5 - Para efeitos de efetivação da responsabilidade financeira a que se refere o número anterior, consideram-se pagamentos indevidos as despesas realizadas em violação do disposto no presente artigo.
 
-###### Artigo 133.º — Outras valorizações remuneratórias
+Artigo 133.º
 
-1 - Sem prejuízo dos n.<sup>os</sup>4 a 8, e das alterações obrigatórias de posicionamento remuneratório, progressões e mudanças de nível ou escalão, os processos de promoções, independentemente da respetiva modalidade, dependem de despacho prévio favorável do membro do Governo responsável pela área em que se integra o órgão, serviço ou entidade em causa, sendo posteriormente submetidos a autorização dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública e, com exceção dos órgãos e serviços das administrações regional e local, em que a emissão do despacho compete ao membro do Governo Regional responsável pela matéria ou ao presidente do respetivo órgão executivo e das autarquias locais, entidades intermunicipais e empresas locais.
+Outras valorizações remuneratórias
+
+1 - Sem prejuízo dos n.os4 a 8, e das alterações obrigatórias de posicionamento remuneratório, progressões e mudanças de nível ou escalão, os processos de promoções, independentemente da respetiva modalidade, dependem de despacho prévio favorável do membro do Governo responsável pela área em que se integra o órgão, serviço ou entidade em causa, sendo posteriormente submetidos a autorização dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública e, com exceção dos órgãos e serviços das administrações regional e local, em que a emissão do despacho compete ao membro do Governo Regional responsável pela matéria ou ao presidente do respetivo órgão executivo e das autarquias locais, entidades intermunicipais e empresas locais.
 
 2 - Incluem-se no disposto no número anterior as mudanças de categoria ou posto e as graduações do pessoal identificado no n.º 9 do artigo 2.º da Lei n.º 75/2014, de 12 de setembro, abrangendo:
 
@@ -2231,9 +2957,11 @@ b) A atribuição de prémios de desempenho, até ao montante equivalente à rem
 
 9 - As situações de constituição ou consolidação de mobilidades intercarreiras e intercategorias determinam, respetivamente, quando efetuadas para carreira ou categoria de grau de complexidade superior à de origem, a impossibilidade de substituição do trabalhador, ou a extinção do correspondente posto de trabalho, na carreira e categoria de origem, com exceção dos casos em que a mobilidade tenha operado sem o acordo do serviço de origem.
 
-10 - As autorizações conferidas ao abrigo do disposto nos n.<sup>os</sup>5 a 9 relativamente a órgãos e serviços da administração central devem ser reportadas trimestralmente aos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública.
+10 - As autorizações conferidas ao abrigo do disposto nos n.os5 a 9 relativamente a órgãos e serviços da administração central devem ser reportadas trimestralmente aos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública.
 
-###### Artigo 134.º — Vínculos de emprego público a termo resolutivo
+Artigo 134.º
+
+Vínculos de emprego público a termo resolutivo
 
 1 - Os membros do Governo responsáveis pelas áreas das finanças e da Administração Pública podem autorizar a renovação de contratos de trabalho em funções públicas a termo resolutivo ou de nomeações transitórias, em situações excecionais, fundamentadas na existência de relevante interesse público, fixando, caso a caso, as condições e os termos a observar para o efeito e desde que se verifiquem os seguintes requisitos cumulativos:
 
@@ -2267,7 +2995,9 @@ b) Formandos da Guarda Nacional Republicana (GNR) e da Polícia de Segurança P�
 
 9 - O disposto nos números anteriores não é aplicável às Regiões Autónomas nem ao subsetor local.
 
-###### Artigo 135.º — Controlo de recrutamento de trabalhadores
+Artigo 135.º
+
+Controlo de recrutamento de trabalhadores
 
 1 - Para além dos recrutamentos previamente autorizados no âmbito do n.º 6 do artigo 30.º da LTFP, os membros do Governo responsáveis pelas áreas das finanças e da Administração Pública podem ainda, desde que verificadas situações excecionais, devidamente fundamentadas, autorizar a abertura de procedimentos concursais com vista à constituição de vínculos de emprego público por tempo indeterminado ou a termo, para carreira geral ou especial e carreiras que ainda não tenham sido objeto de extinção, de revisão ou de decisão de subsistência, destinados a candidatos que não possuam um vínculo de emprego público por tempo indeterminado previamente constituído, fixando, caso a caso, o número máximo de trabalhadores a recrutar e desde que se verifiquem os seguintes requisitos cumulativos:
 
@@ -2303,7 +3033,9 @@ c) Receitas de programas e projetos financiados por fundos europeus ou internaci
 
 9 - O disposto no presente artigo não é aplicável ao subsetor local.
 
-###### Artigo 136.º — Cedência de interesse público
+Artigo 136.º
+
+Cedência de interesse público
 
 1 - Os órgãos e os serviços abrangidos pelo âmbito de aplicação objetivo definido no artigo 1.º da LTFP, podem proceder à celebração de acordo de cedência de interesse público com trabalhador de entidade excluída do âmbito de aplicação objetivo da mesma lei, previsto no n.º 1 do seu artigo 241.º, em situações excecionais especialmente fundamentadas quanto à existência de relevante interesse público, e com observância dos requisitos exigidos no n.º 2 do mesmo artigo 241.º
 
@@ -2313,7 +3045,9 @@ c) Receitas de programas e projetos financiados por fundos europeus ou internaci
 
 4 - O disposto no presente artigo tem caráter excecional e prevalece sobre todas as disposições legais, gerais ou especiais, contrárias.
 
-###### Artigo 137.º — Admissões de pessoal militar, militarizado e com funções policiais, de segurança ou equiparado
+Artigo 137.º
+
+Admissões de pessoal militar, militarizado e com funções policiais, de segurança ou equiparado
 
 Carecem de parecer prévio favorável do membro do Governo responsável pela área das finanças e, consoante os casos, do Primeiro-Ministro e dos membros do Governo responsáveis pelas áreas da defesa nacional, da administração interna e da justiça:
 
@@ -2325,7 +3059,9 @@ c) As decisões relativas à admissão do pessoal militarizado ou equiparado e p
 
 d) As decisões relativas à admissão de militares da GNR e do pessoal com funções policiais da PSP e da Polícia Marítima.
 
-###### Artigo 138.º — Contratação de trabalhadores por pessoas coletivas de direito público e empresas do setor público empresarial
+Artigo 138.º
+
+Contratação de trabalhadores por pessoas coletivas de direito público e empresas do setor público empresarial
 
 1 - As pessoas coletivas de direito público, ainda que dotadas de autonomia administrativa ou de independência estatutária, e as empresas do setor público empresarial podem proceder, no âmbito da respetiva autonomia de gestão, ao recrutamento de trabalhadores para a constituição de vínculos de emprego por tempo indeterminado, ou a termo, à conversão de contratos a termo em contratos por tempo indeterminado, bem como à celebração de acordos de cedência de interesse público com trabalhadores de entidades abrangidas pelo âmbito de aplicação da LTFP, desde que expressamente autorizados no ato de aprovação do plano de atividades e orçamento e do plano de desenvolvimento organizacional no caso das entidades públicas empresariais integradas no SNS.
 
@@ -2363,7 +3099,9 @@ f) Cumprimento dos demais requisitos legais aplicáveis.
 
 12 - O disposto no presente artigo prevalece sobre todas as disposições legais, gerais ou especiais, contrárias.
 
-###### Artigo 139.º — Substituição de trabalhadores em empresas do setor público empresarial
+Artigo 139.º
+
+Substituição de trabalhadores em empresas do setor público empresarial
 
 1 - O órgão máximo de gestão de empresa do setor empresarial do Estado detém competência para a celebração de contratos de trabalho sem termo ou celebração de acordos de cedência de interesse público, com trabalhadores de entidades abrangidas pelo âmbito de aplicação da LTFP, para substituição, para a mesma função, ou função distinta, identificada como prioritária, de trabalhadores que cessem o vínculo de emprego e que desempenhem tarefas correspondentes a necessidades permanentes, devidamente justificadas, desde que a remuneração do trabalhador a contratar:
 
@@ -2387,11 +3125,13 @@ b) Represente um custo anualizado igual ou inferior ao custo anualizado com o tr
 
 7 - A celebração de contratos de trabalho nos termos previstos no presente artigo é comunicada à DGTF, através do SISEE ou SIRIEF, conforme aplicável, no prazo máximo de 10 dias úteis a contar da data da produção de efeitos do respetivo contrato, sendo aplicável o disposto no n.º 10 do artigo anterior.
 
-8 - Para além do disposto nos n.<sup>os</sup>5 e 6, quando esteja em causa a substituição de trabalhadores para as carreiras médicas, segue-se o regime próprio de recrutamento aplicável nos termos legais, salvo nos casos de manifesta urgência devidamente fundamentada a que se refere o n.º 1 do artigo 99.º do Estatuto do SNS, em que é definido um contingente anual a aprovar por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+8 - Para além do disposto nos n.os5 e 6, quando esteja em causa a substituição de trabalhadores para as carreiras médicas, segue-se o regime próprio de recrutamento aplicável nos termos legais, salvo nos casos de manifesta urgência devidamente fundamentada a que se refere o n.º 1 do artigo 99.º do Estatuto do SNS, em que é definido um contingente anual a aprovar por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
 
 9 - As empresas do setor público empresarial, podem proceder, no âmbito da respetiva autonomia de gestão e financeira ao recrutamento antecipado para substituição de trabalhadores que cessem funções no ano a que respeita o Plano de Atividade e Orçamento (PAO), até ao limite de 5 % do número de trabalhadores na categoria, arredondado por excesso, desde que previsto no planeamento de recursos humanos que integra o PAO.
 
-###### Artigo 140.º — Gastos operacionais das empresas do setor empresarial do Estado
+Artigo 140.º
+
+Gastos operacionais das empresas do setor empresarial do Estado
 
 1 - Para efeitos do disposto no artigo 52.º da Lei do Orçamento do Estado, o rácio dos gastos operacionais sobre o volume de negócios excluídos os impactos extraordinários decorrentes do cumprimento de disposições legais, devidamente fundamentados, deve ser igual ou inferior ao verificado em 2024, sem prejuízo do disposto nos números seguintes.
 
@@ -2409,17 +3149,20 @@ b) Os gastos operacionais compreendem o somatório de Custo com Mercadorias Vend
 
 6 - O presente artigo não se aplica aos estabelecimentos de saúde que configurem entidades públicas empresariais integradas nos SNS.
 
-7 - A aplicação do disposto nos n.<sup>os</sup>1 e 4 às empresas públicas em liquidação e às empresas públicas que constituírem veículos de liquidação de património é adaptada nos termos estritamente necessários ao cumprimento do respetivo plano de atividade e orçamento aprovado, nos termos do n.º 9 do artigo 39.º do Decreto-Lei n.º 133/2013, de 3 de outubro, na sua redação atual.
+7 - A aplicação do disposto nos n.os1 e 4 às empresas públicas em liquidação e às empresas públicas que constituírem veículos de liquidação de património é adaptada nos termos estritamente necessários ao cumprimento do respetivo plano de atividade e orçamento aprovado, nos termos do n.º 9 do artigo 39.º do Decreto-Lei n.º 133/2013, de 3 de outubro, na sua redação atual.
 
 8 - Os relatórios de execução orçamental, incluindo os emitidos pelo órgão de fiscalização, devem incluir a análise da evolução dos gastos operacionais, incluindo a discriminação dos gastos com pessoal e os resultantes de fatores que são objeto de ajustamento, nos termos dos números anteriores, face ao respetivo orçamento aprovado e ao disposto na Lei do Orçamento do Estado e no presente decreto-lei.
 
 9 - Sem prejuízo do disposto no número anterior, as empresas públicas ficam dispensadas da autorização do membro do Governo responsável pela área das finanças, para aquisição de máquinas e viaturas que sejam imprescindíveis para a manutenção e fiscalização de infraestruturas, de modo a garantir a segurança de pessoas e bens e a continuidade do respetivo serviço público, desde que essa aquisição seja expressamente autorizada no Plano de Atividade e Orçamento.
 
-###### Artigo 141.º — Endividamento das empresas do setor empresarial do Estado
+Artigo 141.º
+
+Endividamento das empresas do setor empresarial do Estado
 
 1 - Para efeitos do disposto no artigo 53.º da Lei do Orçamento do Estado, o apuramento do crescimento global do endividamento das empresas públicas integradas no setor empresarial do Estado é calculado de acordo com a seguinte fórmula:
 
-![](https://files.diariodarepublica.pt/images/910323298/910201483.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/910323298/910201483.png) |
+| --- |
 
 em que:
 
@@ -2443,27 +3186,39 @@ e) Indicadores financeiros que permitam o acompanhamento e monitorização da im
 
 3 - As empresas públicas financeiras referidas no anexo iii ao presente decreto-lei e do qual faz parte integrante, não são consideradas para efeitos do cálculo do crescimento global do endividamento das empresas públicas.
 
-###### Artigo 142.º — Regularização de responsabilidades decorrentes do processo de descolonização
+Artigo 142.º
+
+Regularização de responsabilidades decorrentes do processo de descolonização
 
 A regularização de responsabilidades decorrentes do processo de descolonização é assegurada pela DGTF por recurso a dotação orçamental inscrita no capítulo 60, desde que autorizada pelo membro do Governo responsável pela área das finanças.
 
-###### Artigo 143.º — Mobilidade no setor público empresarial
+Artigo 143.º
+
+Mobilidade no setor público empresarial
 
 O disposto no artigo 21.º da Lei do Orçamento do Estado, é ainda aplicável às situações de mobilidade e cedências de interesse público existentes, à data da entrada em vigor do presente decreto-lei, no setor público empresarial.
 
-###### Artigo 144.º — Plano de Recuperação e Resiliência
+Artigo 144.º
+
+Plano de Recuperação e Resiliência
 
 1 - Encontram-se isentas das formalidades legais aplicáveis as despesas da Estrutura de Missão Recuperar Portugal, as despesas destinadas a assegurar o funcionamento da Comissão de Auditoria e Controlo do PRR, incluindo as respetivas atribuições de auditoria e controlo, realizadas pelas entidades nela representadas, bem como as destinadas à prossecução das atribuições da Agência, I. P., no âmbito do PRR, nomeadamente as relativas a ações de verificação de duplo financiamento, designadamente as que envolvam autorizações, pareceres, condições ou comunicações, sem prejuízo do cumprimento das regras de contratação pública legalmente estabelecidas.
 
 2 - As alterações orçamentais referidas na alínea d) do n.º 1 do artigo 11.º relativas a dotações afetas à Estrutura de Missão Recuperar Portugal, as que se destinem a assegurar o funcionamento da Comissão de Auditoria e Controlo do PRR ou a assegurar as atribuições da Agência, I. P., no âmbito do PRR, designadamente a verificação do duplo financiamento por fundos europeus, são da competência, respetivamente, dos dirigentes máximos da EMRP, das entidades que asseguram o funcionamento da Comissão de Auditoria e Controlo do PRR ou da Agência, I. P.
 
-### CAPÍTULO X — REGIME DE APOIOS EM BENEFÍCIO DA UCRÂNIA
+CAPÍTULO X
 
-###### Artigo 145.º — Formas da assistência excecional a favor da Ucrânia
+REGIME DE APOIOS EM BENEFÍCIO DA UCRÂNIA
+
+Artigo 145.º
+
+Formas da assistência excecional a favor da Ucrânia
 
 O Estado pode prestar apoios financeiros à Ucrânia, nomeadamente sob a forma de garantias pessoais, empréstimos ou subsidiação de taxa de juro, dentro dos limites previstos na Lei do Orçamento do Estado, no quadro dos mecanismos de assistência macrofinanceira adotados pela União Europeia ou de instrumentos de cooperação.
 
-###### Artigo 146.º — Garantias pessoais
+Artigo 146.º
+
+Garantias pessoais
 
 1 - O Estado pode prestar garantias pessoais, sob qualquer forma, para realização de operações financeiras previstas no quadro dos mecanismos ou instrumentos de cooperação previstos no artigo anterior.
 
@@ -2471,7 +3226,9 @@ O Estado pode prestar apoios financeiros à Ucrânia, nomeadamente sob a forma d
 
 3 - Quando a garantia não seja concedida no quadro dos mecanismos de assistência macrofinanceira adotados pela União Europeia, a autorização prevista no número anterior é precedida de parecer do membro do Governo responsável pela área dos negócios estrangeiros.
 
-###### Artigo 147.º — Outros apoios financeiros
+Artigo 147.º
+
+Outros apoios financeiros
 
 1 - Os demais apoios financeiros são autorizados por despacho fundamentado do membro do Governo responsável pela área das finanças, precedido de parecer do membro do Governo responsável pela área dos negócios estrangeiros.
 
@@ -2483,7 +3240,9 @@ b) As condições financeiras associadas;
 
 c) A fundamentação desses apoios no âmbito da assistência à Ucrânia.
 
-###### Artigo 148.º — Concessão dos apoios financeiros
+Artigo 148.º
+
+Concessão dos apoios financeiros
 
 1 - A concessão dos apoios financeiros autorizados ao abrigo dos artigos 146.º e 147.º é efetuada pela DGTF.
 
@@ -2491,13 +3250,19 @@ c) A fundamentação desses apoios no âmbito da assistência à Ucrânia.
 
 3 - O Governo comunica semestralmente à Assembleia da República os apoios financeiros concedidos à Ucrânia ao abrigo do presente capítulo.
 
-###### Artigo 149.º — Apoios não financeiros
+Artigo 149.º
+
+Apoios não financeiros
 
 Podem ser doados à Ucrânia embarcações, aeronaves e outros bens móveis do domínio privado do Estado, no estado de conservação em que se encontrem, com registo militar ou civil, mediante despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, das finanças, da defesa nacional, da administração interna, e das áreas setoriais a quem estejam afetos.
 
-### CAPÍTULO XI — ALTERAÇÕES LEGISLATIVAS
+CAPÍTULO XI
 
-###### Artigo 150.º — Alteração ao Decreto-Lei n.º 106/98, de 24 de abril
+ALTERAÇÕES LEGISLATIVAS
+
+Artigo 150.º
+
+Alteração ao Decreto-Lei n.º 106/98, de 24 de abril
 
 Os artigos 9.º e 14.º do Decreto-Lei n.º 106/98, de 24 de abril, na sua redação atual, passam a ter a seguinte redação:
 
@@ -2515,7 +3280,9 @@ Os artigos 9.º e 14.º do Decreto-Lei n.º 106/98, de 24 de abril, na sua reda�
 
 5 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O montante das ajudas de custo devidas aos indivíduos que, não sendo funcionários ou agentes, façam parte de conselhos, comissões, grupos de trabalho, grupos de projeto ou outras estruturas de carácter não permanente de serviços do Estado, quando convocados para reuniões em que tenham de ausentar-se do local onde exercem normalmente a sua atividade, é fixado globalmente por estrutura, de entre as estabelecidas na tabela em vigor, mediante despacho do ministro da tutela e comunicação à Direção-Geral do Orçamento.
 
@@ -2523,7 +3290,9 @@ Os artigos 9.º e 14.º do Decreto-Lei n.º 106/98, de 24 de abril, na sua reda�
 
 3 - (Revogado.)»
 
-###### Artigo 151.º — Alteração ao Decreto-Lei n.º 197/99, de 8 de junho
+Artigo 151.º
+
+Alteração ao Decreto-Lei n.º 197/99, de 8 de junho
 
 O artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, passa a ter a seguinte redação:
 
@@ -2549,7 +3318,9 @@ b) Os seus encargos não excedam o limite de 500 000,00 euros em cada um dos ano
 
 7 - [...]»
 
-###### Artigo 152.º — Alteração ao Decreto-Lei n.º 177/2000, de 9 de agosto
+Artigo 152.º
+
+Alteração ao Decreto-Lei n.º 177/2000, de 9 de agosto
 
 O artigo 2.º do Decreto-Lei n.º 177/2000, de 9 de agosto, alterado pelo Decreto-Lei n.º 74/2002, de 26 de março, passa a ter a seguinte redação:
 
@@ -2565,7 +3336,9 @@ O artigo 2.º do Decreto-Lei n.º 177/2000, de 9 de agosto, alterado pelo Decret
 
 4 - [...]»
 
-###### Artigo 153.º — Alteração ao Decreto-Lei n.º 161/2001, de 22 de maio
+Artigo 153.º
+
+Alteração ao Decreto-Lei n.º 161/2001, de 22 de maio
 
 O artigo 14.º do Decreto-Lei n.º 161/2001, de 22 de maio, alterado pelo Decreto-Lei n.º 170/2004, de 16 de julho, passa a ter a seguinte redação:
 
@@ -2577,7 +3350,9 @@ O artigo 14.º do Decreto-Lei n.º 161/2001, de 22 de maio, alterado pelo Decret
 
 2 - [...]»
 
-###### Artigo 154.º — Alteração ao Decreto-Lei n.º 113/2005, de 13 de julho
+Artigo 154.º
+
+Alteração ao Decreto-Lei n.º 113/2005, de 13 de julho
 
 O artigo 5.º do Decreto-Lei n.º 113/2005, de 13 de julho, passa a ter a seguinte redação:
 
@@ -2595,7 +3370,9 @@ O artigo 5.º do Decreto-Lei n.º 113/2005, de 13 de julho, passa a ter a seguin
 
 5 - A competência para a concessão da compensação a que se refere o artigo 1.º é do membro do Governo com tutela da respetiva força ou serviço.»
 
-###### Artigo 155.º — Alteração ao Decreto-Lei n.º 176/2006, de 30 de agosto
+Artigo 155.º
+
+Alteração ao Decreto-Lei n.º 176/2006, de 30 de agosto
 
 O artigo 120.º do Decreto-Lei n.º 176/2006, de 30 de agosto, na sua redação atual, passa a ter a seguinte redação:
 
@@ -2615,7 +3392,9 @@ O artigo 120.º do Decreto-Lei n.º 176/2006, de 30 de agosto, na sua redação 
 
 6 - O membro do Governo responsável pela área da saúde aprova, por portaria, a regulamentação necessária à concretização do disposto no número anterior.»
 
-###### Artigo 156.º — Alteração ao Decreto-Lei n.º 37/2007, de 19 de fevereiro
+Artigo 156.º
+
+Alteração ao Decreto-Lei n.º 37/2007, de 19 de fevereiro
 
 O artigo 3.º do Decreto-Lei n.º 37/2007, de 19 de fevereiro, na sua redação atual, passa a ter a seguinte redação:
 
@@ -2633,7 +3412,9 @@ O artigo 3.º do Decreto-Lei n.º 37/2007, de 19 de fevereiro, na sua redação 
 
 5 - O Camões - Instituto da Cooperação e da Língua, I. P. (Camões, I. P.), na contratação de bens e serviços, destinados a serem entregues ou prestados fora do território nacional, no âmbito de projetos, programas e ações de cooperação para o desenvolvimento, bem como da promoção da língua e cultura portuguesas, fica dispensado das obrigações inerentes à qualidade de entidade compradora vinculada previstas no presente decreto-lei.»
 
-###### Artigo 157.º — Alteração ao Decreto-Lei n.º 170/2008, de 26 de agosto
+Artigo 157.º
+
+Alteração ao Decreto-Lei n.º 170/2008, de 26 de agosto
 
 O artigo 4.º do Decreto-Lei n.º 170/2008, de 26 de agosto, na sua redação atual, passa a ter a seguinte redação:
 
@@ -2661,7 +3442,9 @@ e) [...]
 
 5 - [...]»
 
-###### Artigo 158.º — Alteração ao Decreto-Lei n.º 89/2010, de 21 de julho
+Artigo 158.º
+
+Alteração ao Decreto-Lei n.º 89/2010, de 21 de julho
 
 O artigo 10.º do Decreto-Lei n.º 89/2010, de 21 de julho, na sua redação atual, passa a ter a seguinte redação:
 
@@ -2671,7 +3454,9 @@ O artigo 10.º do Decreto-Lei n.º 89/2010, de 21 de julho, na sua redação atu
 
 O regime previsto no presente decreto-lei, com exceção do estabelecido no artigo 8.º, vigora até 31 de dezembro de 2025.»
 
-###### Artigo 159.º — Alteração ao Decreto-Lei n.º 34/2012, de 14 de fevereiro
+Artigo 159.º
+
+Alteração ao Decreto-Lei n.º 34/2012, de 14 de fevereiro
 
 O artigo 12.º do Decreto-Lei n.º 34/2012, de 14 de fevereiro, na sua redação atual, passa a ter a seguinte redação:
 
@@ -2687,7 +3472,9 @@ O artigo 12.º do Decreto-Lei n.º 34/2012, de 14 de fevereiro, na sua redação
 
 4 - [...]»
 
-###### Artigo 160.º — Alteração ao Decreto-Lei n.º 215/2012, de 28 de setembro
+Artigo 160.º
+
+Alteração ao Decreto-Lei n.º 215/2012, de 28 de setembro
 
 O artigo 29.º do Decreto-Lei n.º 215/2012, de 28 de setembro, passa a ter a seguinte redação:
 
@@ -2707,7 +3494,9 @@ O artigo 29.º do Decreto-Lei n.º 215/2012, de 28 de setembro, passa a ter a se
 
 6 - [...]»
 
-###### Artigo 161.º — Alteração do Decreto-Lei n.º 171/2015, de 25 de agosto
+Artigo 161.º
+
+Alteração do Decreto-Lei n.º 171/2015, de 25 de agosto
 
 O artigo 35.º do Decreto-Lei n.º 171/2015, de 25 de agosto, na sua redação atual, passa a ter a seguinte redação:
 
@@ -2729,7 +3518,9 @@ O artigo 35.º do Decreto-Lei n.º 171/2015, de 25 de agosto, na sua redação a
 
 7 - Nos casos previstos na alínea a) do número anterior, o arguido fica obrigado ao pagamento da respetiva taxa, por cada emissão de certificado, a título de encargos imputados na conta, quando o pagamento das custas judiciais seja da sua responsabilidade.»
 
-###### Artigo 162.º — Alteração ao Decreto-Lei n.º 201/2015, de 17 de setembro
+Artigo 162.º
+
+Alteração ao Decreto-Lei n.º 201/2015, de 17 de setembro
 
 O artigo 4.º do Decreto-Lei n.º 201/2015, de 17 de setembro, passa a ter a seguinte redação:
 
@@ -2755,7 +3546,9 @@ O artigo 4.º do Decreto-Lei n.º 201/2015, de 17 de setembro, passa a ter a seg
 
 9 - [...]»
 
-###### Artigo 163.º — Alteração ao Decreto-Lei n.º 111-B/2017, de 31 de agosto
+Artigo 163.º
+
+Alteração ao Decreto-Lei n.º 111-B/2017, de 31 de agosto
 
 O artigo 9.º do Decreto-Lei n.º 111-B/2017, de 31 de agosto, na sua redação atual, passa a ter a seguinte redação:
 
@@ -2777,9 +3570,11 @@ O artigo 9.º do Decreto-Lei n.º 111-B/2017, de 31 de agosto, na sua redação 
 
 7 - [...]»
 
-###### Artigo 164.º — Alteração ao Decreto-Lei n.º 52/2022, de 4 de agosto
+Artigo 164.º
 
-O artigo 77.º do Decreto-Lei n.º 52/2022, de 4 de agosto, alterado pelos Decretos-Leis n.<sup>os</sup>7-A/2023, de 30 de janeiro, 102/2023, de 7 de novembro, e pela Lei n.º 82/2023, de 29 de dezembro, passa a ter a seguinte redação:
+Alteração ao Decreto-Lei n.º 52/2022, de 4 de agosto
+
+O artigo 77.º do Decreto-Lei n.º 52/2022, de 4 de agosto, alterado pelos Decretos-Leis n.os7-A/2023, de 30 de janeiro, 102/2023, de 7 de novembro, e pela Lei n.º 82/2023, de 29 de dezembro, passa a ter a seguinte redação:
 
 «Artigo 77.º
 
@@ -2795,9 +3590,11 @@ O artigo 77.º do Decreto-Lei n.º 52/2022, de 4 de agosto, alterado pelos Decre
 
 5 - [...]
 
-6 - A percentagem da remuneração prevista nos n.<sup>os</sup>4 e 5 pode ser aumentada até 100 % pelo exercício de atividade médica de natureza assistencial, exclusivamente nas unidades locais de saúde onde desempenham o cargo de diretor clínico, mediante despacho favorável dos membros do Governo responsáveis pelas áreas das finanças e da saúde.»
+6 - A percentagem da remuneração prevista nos n.os4 e 5 pode ser aumentada até 100 % pelo exercício de atividade médica de natureza assistencial, exclusivamente nas unidades locais de saúde onde desempenham o cargo de diretor clínico, mediante despacho favorável dos membros do Governo responsáveis pelas áreas das finanças e da saúde.»
 
-###### Artigo 165.º — Alteração ao Decreto-Lei n.º 100/2023, de 31 de outubro
+Artigo 165.º
+
+Alteração ao Decreto-Lei n.º 100/2023, de 31 de outubro
 
 O artigo 2.º do Decreto-Lei n.º 100/2023, de 31 de outubro, passa a ter a seguinte redação:
 
@@ -2811,9 +3608,11 @@ O artigo 2.º do Decreto-Lei n.º 100/2023, de 31 de outubro, passa a ter a segu
 
 3 - (Anterior n.º 2.)»
 
-###### Artigo 166.º — Alteração ao Decreto-Lei n.º 103/2023, de 7 de novembro
+Artigo 166.º
 
-O artigo 20.º do Decreto-Lei n.º 103/2023, de 7 de novembro, alterado pelos Decretos-Leis n.<sup>os</sup>118/2023, de 20 de dezembro, 17/2024, de 29 de janeiro, e 81/2024, de 31 de outubro, passa a ter a seguinte redação:
+Alteração ao Decreto-Lei n.º 103/2023, de 7 de novembro
+
+O artigo 20.º do Decreto-Lei n.º 103/2023, de 7 de novembro, alterado pelos Decretos-Leis n.os118/2023, de 20 de dezembro, 17/2024, de 29 de janeiro, e 81/2024, de 31 de outubro, passa a ter a seguinte redação:
 
 «Artigo 20.º
 
@@ -2833,39 +3632,53 @@ O artigo 20.º do Decreto-Lei n.º 103/2023, de 7 de novembro, alterado pelos De
 
 7 - O exercício do direito de oposição previsto no n.º 4 não obsta a que os trabalhadores médicos em causa revertam, a todo o tempo, a opção exercida naqueles termos, declarando pretender aderir ao regime de dedicação plena.»
 
-### CAPÍTULO XII — DISPOSIÇÕES FINAIS
+CAPÍTULO XII
 
-###### Artigo 167.º — Aplicação do Decreto-Lei n.º 14/2003, de 30 de janeiro
+DISPOSIÇÕES FINAIS
+
+Artigo 167.º
+
+Aplicação do Decreto-Lei n.º 14/2003, de 30 de janeiro
 
 O IAPMEI, I. P., fica autorizado a tomar as decisões e a efetuar os procedimentos necessários ao cumprimento de decisões judiciais transitadas em julgado cuja causa de pedir tenha sido a aplicação do n.º 2 do artigo 6.º do Decreto-Lei n.º 14/2003, de 30 de janeiro.
 
-###### Artigo 168.º — Formação de contratos no âmbito da Web Summit de 2025
+Artigo 168.º
+
+Formação de contratos no âmbito da Web Summit de 2025
 
 1 - Podem efetuar-se, durante o ano económico de 2025, através de ajuste direto ou de consulta prévia, até aos limiares europeus, as despesas com empreitadas de obras públicas e aquisições de bens e serviços a realizar pela AICEP, E. P. E., no âmbito da preparação, organização e execução da edição de 2025 do evento Web Summit.
 
 2 - Às aquisições de bens e serviços e aos contratos de empreitadas de obras públicas previstas no número anterior não se aplicam as limitações constantes do n.º 2 do artigo 113.º do CCP.
 
-###### Artigo 169.º — Participação nos negócios jurídicos em comunidade intermunicipal
+Artigo 169.º
+
+Participação nos negócios jurídicos em comunidade intermunicipal
 
 Os municípios que nos termos da Lei n.º 24-A/2022, de 23 de dezembro, passaram a integrar outra comunidade intermunicipal, podem manter a sua participação nos negócios jurídicos constituídos na comunidade intermunicipal em que se encontravam, na medida do necessário à efetivação das situações jurídicas constituídas nesse âmbito e até à respetiva conclusão.
 
-###### Artigo 170.º — Distribuição e devolução dos manuais escolares
+Artigo 170.º
+
+Distribuição e devolução dos manuais escolares
 
 1 - No ano letivo de 2024-2025, em derrogação do disposto na alínea a) do n.º 4 do artigo 5.º da Lei n.º 47/2006, de 28 de agosto, na sua redação atual, os alunos do 1.º ciclo do ensino básico ficam isentos de devolver os manuais escolares no final do presente ano letivo.
 
 2 - No início do ano letivo de 2025-2026 são distribuídos gratuitamente manuais escolares novos a todos os alunos do 1.º ciclo do ensino básico da rede pública do Ministério da Educação, Ciência e Inovação.
 
-###### Artigo 171.º — Apoio à renda
+Artigo 171.º
+
+Apoio à renda
 
 1 - Até julho de 2025 ou se anterior, até ao apuramento dos dados para pagamento do apoio extraordinária à renda relativo ao ano civil de 2025 se encontrar concluído, este apoio não se suspende e é processado com base nos dados apurados para o ano civil de 2024, nos termos previstos no Decreto-Lei n.º 20-B/2023, de 22 de março, na redação anterior à data da entrada em vigor do Decreto-Lei n.º 103-B/2023, de 9 de novembro.
 
-2 - O disposto no número anterior não prejudica a aplicação dos n.<sup>os</sup>1 e 2 do artigo 4.º do Decreto-Lei n.º 103-B/2023, de 9 de novembro, a partir do processamento respeitante ao mês de janeiro de 2025.
+2 - O disposto no número anterior não prejudica a aplicação dos n.os1 e 2 do artigo 4.º do Decreto-Lei n.º 103-B/2023, de 9 de novembro, a partir do processamento respeitante ao mês de janeiro de 2025.
 
 3 - Uma vez concluído o apuramento dos dados para o pagamento do apoio extraordinário à renda relativo ao ano civil de 2025, nos termos previstos no artigo 6.º do Decreto-Lei n.º 103-B/2023, de 9 de novembro, este apoio passa a ser processado com base nesses dados, retroagindo a janeiro de 2025 nos casos em que o montante apurado seja mais favorável para o beneficiário.
 
-4 - Os prazos previstos nos n.<sup>os</sup>2 a 4 do artigo 6.º do Decreto-Lei n.º 103-B/2023, de 9 de novembro, são prorrogados, por despacho dos membros do Governo responsáveis pelas áreas das finanças, da segurança social e da habitação, pelo exato período de impedimento do exercício desse direito.
+4 - Os prazos previstos nos n.os2 a 4 do artigo 6.º do Decreto-Lei n.º 103-B/2023, de 9 de novembro, são prorrogados, por despacho dos membros do Governo responsáveis pelas áreas das finanças, da segurança social e da habitação, pelo exato período de impedimento do exercício desse direito.
 
-###### Artigo 172.º — Centros Qualifica da Área Metropolitana de Lisboa
+Artigo 172.º
+
+Centros Qualifica da Área Metropolitana de Lisboa
 
 1 - Durante o ano de 2025 o IEFP, I. P., fica autorizado a financiar a atividade dos Centros Qualifica da Área Metropolitana de Lisboa não pertencentes à rede de Centros Qualifica do IEFP, I. P., nem do Ministério da Educação, Ciência e Inovação, com autorização de funcionamento emitida por despacho da Agência Nacional para a Qualificação e o Ensino Profissional, I. P. (ANQEP, I. P.).
 
@@ -2873,13 +3686,17 @@ Os municípios que nos termos da Lei n.º 24-A/2022, de 23 de dezembro, passaram
 
 3 - Para efeitos do financiamento previsto nos números anteriores, a ANQEP, I. P., assegura as funções de análise de candidaturas a financiamento e de verificação administrativa e local da execução física e financeira dos Centros Qualifica da Área Metropolitana de Lisboa.
 
-###### Artigo 173.º — Fundo Ambiental
+Artigo 173.º
+
+Fundo Ambiental
 
 1 - No âmbito da execução dos investimentos do pilar da Transição Climática do PRR, cujo beneficiário intermediário é o Fundo Ambiental, durante o período de execução do PRR podem ser solicitados contributos ao ICNF, I. P., à APA, I. P., à Direção-Geral de Energia e Geologia e à Direção-Geral do Território, para avaliação, análise e acompanhamento da execução dos projetos nos respetivos domínios de atuação.
 
 2 - O Fundo Ambiental fica autorizado a transferir para as entidades identificadas no número anterior verbas de receitas próprias, até ao montante global de 4 211 632,00 euros, para avaliação, análise e acompanhamento da execução dos projetos dos investimentos do pilar da Transição Climática do PRR, de que é beneficiário intermediário, no âmbito da gestão flexível nos termos do artigo 9.º
 
-###### Artigo 174.º — Norma revogatória
+Artigo 174.º
+
+Norma revogatória
 
 São revogados:
 
@@ -2891,42 +3708,48 @@ c) O n.º 5 do artigo 29.º do Decreto-Lei n.º 215/2012, de 28 de setembro, na 
 
 d) O n.º 6 do artigo 20.º do Decreto-Lei n.º 103/2023, de 7 de novembro, na sua redação atual.
 
-###### Artigo 175.º — Produção de efeitos
+Artigo 175.º
+
+Produção de efeitos
 
 O presente decreto-lei produz efeitos à data da entrada em vigor da Lei do Orçamento do Estado, salvo se disposto em contrário nos artigos antecedentes.
 
-###### Artigo 176.º — Entrada em vigor
+Artigo 176.º
+
+Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de janeiro de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - António Leitão Amaro - Manuel Castro Almeida - Pedro Miguel Duarte - Nuno Melo - Rita Alarcão Júdice - Margarida Blasco - Fernando Alexandre - Ana Paula Martins - Miguel Martinez de Castro Pinto Luz - Pedro Reis - Rosário Palma Ramalho - Maria da Graça Carvalho - Margarida Balseiro Lopes - José Manuel Fernandes - Dalila Rodrigues.
 
-**Promulgado em 4 de março de 2025.**
+Promulgado em 4 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de março de 2025.**
+Referendado em 5 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
-## ANEXO I — (a que se referes os n.<sup>os</sup>6 e 8 do artigo 33.º)
+ANEXO I
 
-| Programa | Programa | Ministério Executor | Ministério Executor | Entidade Coordenadora |
+(a que se referes os n.os6 e 8 do artigo 33.º)
+
+| Programa | Ministério Executor | Entidade Coordenadora |  |  |
 | --- | --- | --- | --- | --- |
 | 002 | Governação | 02 | Presidência do Conselho de Ministros | Secretaria-Geral do Governo |
-| 002 | Governação | 05 | Ministério da Coesão Territorial | Secretaria-Geral do Governo |
+| 05 | Ministério da Coesão Territorial |  |  |  |
 | 003 | Representação Externa | 03 | Ministério dos Negócios Estrangeiros (MNE) | Secretaria-Geral do MNE |
 | 006 | Defesa | 06 | Ministério da Defesa Nacional (MDN) | Secretaria-Geral do MDN |
 | 008 | Segurança Interna | 08 | Ministério da Administração Interna (MAI) | Secretaria-Geral do MAI |
 | 007 | Justiça | 07 | Ministério da Justiça | Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. |
 | 004 | Finanças | 04 | Ministério das Finanças | Secretaria-Geral do Governo |
-| 005 | Gestão da Dívida Pública | 04 | Ministério das Finanças | Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E. |
+| 005 | Gestão da Dívida Pública | Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E. |  |  |
 | 013 | Economia | 12 | Ministério da Economia | Secretaria-Geral do Governo |
 | 018 | Cultura | 17 | Ministério da Cultura | Gabinete de Estratégia, Planeamento e Avaliação Culturais |
 | 010 | Ciência, e Inovação | 09 | Ministério da Educação, Ciência e Inovação | Instituto de Gestão Financeira da Educação, I. P. |
-| 009 | Educação | 09 | Ministério da Educação, Ciência e Inovação | Instituto de Gestão Financeira da Educação, I. P. |
+| 009 | Educação |  |  |  |
 | 014 | Trabalho, Solidariedade e Segurança Social | 13 | Ministério do Trabalho, Solidariedade e Segurança Social (MTSSS) | Gabinete de Estratégia e Planeamento do MTSSS |
 | 011 | Saúde | 10 | Ministério da Saúde | Administração Central do Sistema de Saúde, I. P. |
 | 015 | Ambiente e Energia | 14 | Ministério do Ambiente e Energia | Secretaria-Geral do Governo |
@@ -2934,9 +3757,13 @@ Visto e aprovado em Conselho de Ministros de 30 de janeiro de 2025. - Luís Mont
 | 017 | Agricultura e Pescas | 16 | Ministério da Agricultura e Pescas | Gabinete de Planeamento, Políticas e Administração Geral |
 | 016 | Juventude e Modernização | 15 | Ministério da Juventude e Modernização | Secretaria-Geral do Governo |
 
-## ANEXO II — [a que se referem a alínea e) do n.º 1 do artigo 34.º e os n.<sup>os</sup>1 e 2 do artigo 35.º]
+ANEXO II
 
-# PARTE I — ENTIDADES QUE CUMPREM OS CRITÉRIOS ESTABELECIDOS NO N.º 13 DO ARTIGO 3.º DA LEI DO ORÇAMENTO DO ESTADO
+[a que se referem a alínea e) do n.º 1 do artigo 34.º e os n.os1 e 2 do artigo 35.º]
+
+PARTE I
+
+ENTIDADES QUE CUMPREM OS CRITÉRIOS ESTABELECIDOS NO N.º 13 DO ARTIGO 3.º DA LEI DO ORÇAMENTO DO ESTADO
 
 Associação Metropolitana de Operadores de Transporte de Lisboa.
 
@@ -2960,7 +3787,7 @@ CONSEST - Promoção Imobiliária, S. A.
 
 Costa Polis, Sociedade para o Desenvolvimento do Programa Polis na Costa da Caparica, S. A.
 
-EAS - Empresa Ambiente na Saúde, Tratamento de Resíduos Hospitalares Unipessoal, L.<sup>da</sup>
+EAS - Empresa Ambiente na Saúde, Tratamento de Resíduos Hospitalares Unipessoal, L.da
 
 Extra - Explosivos da Trafaria, S. A.
 
@@ -2980,7 +3807,7 @@ Fundo de Garantia de Depósitos.
 
 Metro - Mondego, S. A.
 
-Metro do Porto Consultoria - Consultoria em Transportes Urbanos e Participações, Unipessoal, L.<sup>da</sup>
+Metro do Porto Consultoria - Consultoria em Transportes Urbanos e Participações, Unipessoal, L.da
 
 Polis Litoral Norte, S. A.
 
@@ -2996,7 +3823,9 @@ Vianapolis, Sociedade para o Desenvolvimento do Programa Polis em Viana do Caste
 
 Wil - Projetos Turísticos, S. A.
 
-# PARTE II — ENTIDADES ABRANGIDAS PELO ARTIGO 35.º
+PARTE II
+
+ENTIDADES ABRANGIDAS PELO ARTIGO 35.º
 
 Fundo de Resolução.
 
@@ -3004,7 +3833,9 @@ Oitante, S. A.
 
 SUCH - Serviço de Utilização Comum dos Hospitais.
 
-## ANEXO III — (a que se refere o n.º 3 do artigo 141.º)
+ANEXO III
+
+(a que se refere o n.º 3 do artigo 141.º)
 
 Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E.
 
@@ -3013,3 +3844,7 @@ Caixa Geral de Depósitos, S. A.
 Banco Português de Fomento, S. A.
 
 SOFID - Sociedade para o Financiamento do Desenvolvimento - Instituição Financeira de Crédito, S. A.
+
+118782762
+
+.Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:s<arel='nofollownoopenernoreferrer'target='_blank'href='/dr/detalhe/decreto-lei/6-1990-313830'title='Decreto-Lein.º6/90'>Decreto-Lein.º6/90</a>lor:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); bord<arel='nofollownoopenernoreferrer'target='_blank'href='/dr/detalhe/decreto-lei/32-2024-864224972'title='Decreto-Lein.º32/2024'>Decreto-Lein.º32/2024</a>der-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl8 { min-height:18px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { border-collapse:collapse; border-width:1px; border-color:rgb(0,0,0); } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl14 { min-height:28px; }

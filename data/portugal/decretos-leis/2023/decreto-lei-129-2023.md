@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24700/0008600088.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/129/2023/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2023-835674294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f494027758dc6009729d39db7254ce86dffb22640e21147e1b059623f452de7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79bb2fac3102ca2ee51c2e62acd220412bebdd80b7682491f979f2742c7da4cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Património Cultural
 - Conselho Nacional de Cultura
-- Orgânica
 - Cultura
 - Museus e Monumentos de Portugal
+- Orgânica
+- Património Cultural
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:132/2013
+  label: Altera, a partir de 27 de dezembro de 2023, com efeitos a 1 de janeiro de 2024, os artigos 17.º, 20.º e 21.º e revoga
+    as alíneas b), c) e d) do n.º 1 e as alíneas f), g), i), j) e k) do n.º 2 do artigo 20.º e a alínea b) do n.º 1 e a alínea
+    b) do n.º 2 do artigo 21.º do Decreto-Lei n.º 132/2013, de 13 de setembro, Diário da República n.º 177/2013, Série I
+  source: null
+  date: '2013-09-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/2013/09/13/p/dre
   label: null
@@ -87,16 +94,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/2023/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/2023/09/04/p/dre
+- type: cites
+  target: pt:dre:115172414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221225699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221225700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500036:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:05Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +172,9 @@ h) [...]
 
 4 - [...]
 
-###### Artigo 20.º — Secção dos museus, da conservação e restauro e do património cultural móvel
+Artigo 20.º
+
+Secção dos museus, da conservação e restauro e do património cultural móvel
 
 1 - A secção especializada permanente dos museus, da conservação e restauro e do património cultural móvel é integrada:
 
@@ -211,7 +236,9 @@ l) Emitir parecer sobre a desclassificação como arquivo de interesse nacional 
 
 3 - Os demais membros do conselho de administração da Museus e Monumentos de Portugal, E. P. E., têm assento na secção especializada dos museus, da conservação e restauro e do património cultural móvel, sem direito de voto.
 
-###### Artigo 21.º — Secção do património arquitetónico, arqueológico e imaterial
+Artigo 21.º
+
+Secção do património arquitetónico, arqueológico e imaterial
 
 1 - A secção especializada permanente do património arquitetónico, arqueológico e imaterial é integrada:
 
@@ -265,12 +292,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de dezembro de 2023. - António Luís Santos da Costa - Pedro Nuno Pereira de Sousa Rodrigues - Pedro Adão e Silva Cardoso Pereira - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
 
-**Promulgado em 18 de dezembro de 2023.**
+Promulgado em 18 de dezembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de dezembro de 2023.**
+Referendado em 19 de dezembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+117186543

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/404-1970-139381
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 412500490d7e5655553df7d462997eab2e0afefba09fdde3b852f20a4e0341a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90e3647f4e0a0c4051154dcaf39ccffb8d9d12c1e2ccc18e0b7b4a3ffe122313
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142696:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:12Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +96,9 @@ Ministério da Saúde e Assistência, 18 de Agosto de 1970. - O Ministro da Saú
 
 Regulamento do Conselho Coordenador dos Hospitais Escolares
 
-###### Artigo 1.º O Conselho Coordenador dos Hospitais Escolares é um órgão consultivo de coordenação para os assuntos de natureza técnica e de organização relacionados com os hospitais escolares e funciona na dependência directa do Ministro da Saúde e Assistência.
+Artigo 1.º O Conselho Coordenador dos Hospitais Escolares é um órgão consultivo de coordenação para os assuntos de natureza técnica e de organização relacionados com os hospitais escolares e funciona na dependência directa do Ministro da Saúde e Assistência.
 
-###### Art. 2.º Compete, especialmente, ao Conselho Coordenador:
+Art. 2.º Compete, especialmente, ao Conselho Coordenador:
 
 a) Avaliar os planos de acção e programas de realização anuais de cada um dos hospitais escolares, em ordem a assegurar as condições indispensáveis ao ensino, à investigação científica e às actividades assistenciais;
 
@@ -104,7 +108,7 @@ c) Analisar os problemas de administração, com base em elementos de índole es
 
 d) Emitir pareceres relativos aos demais assuntos sobre que seja mandado ouvir.
 
-###### Art. 3.º - 1. O Conselho Coordenador dos Hospitais Escolares é formado pelos seguintes vogais permanentes:
+Art. 3.º - 1. O Conselho Coordenador dos Hospitais Escolares é formado pelos seguintes vogais permanentes:
 
 a) Director-geral do Ensino Superior e das Belas-Artes;
 
@@ -114,10 +118,10 @@ c) Os directores e provedores de cada um dos hospitais escolares.
 
 2. Para exame de questões especiais poderá o Ministro convocar outros funcionários para participar em trabalhos do Conselho.
 
-###### Art. 4.º - 1. O Conselho funciona em plenário sob a presidência do Ministro da Saúde e Assistência ou, por delegação deste, de um dos vogais permanentes.
+Art. 4.º - 1. O Conselho funciona em plenário sob a presidência do Ministro da Saúde e Assistência ou, por delegação deste, de um dos vogais permanentes.
 
 2. Quando houver conveniência, pode o Ministro determinar a formação de grupos de trabalho, constituídos por vogais permanentes ou funcionários adrede convocados para a apresentação de pareceres ou relatórios a submeter ao Conselho.
 
-###### Art. 5.º O Conselho terá um secretário, designado pelo Ministro da Saúde e Assistência de entre funcionários da Direcção-Geral dos Hospitais, a quem caberá a responsabilidade do expediente de todos os assuntos sujeitos à apreciação do Conselho, com o apoio do serviço a que pertença.
+Art. 5.º O Conselho terá um secretário, designado pelo Ministro da Saúde e Assistência de entre funcionários da Direcção-Geral dos Hospitais, a quem caberá a responsabilidade do expediente de todos os assuntos sujeitos à apreciação do Conselho, com o apoio do serviço a que pertença.
 
 Ministério da Saúde e Assistência, 18 de Agosto de 1970. - O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.

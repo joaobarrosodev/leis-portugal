@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1988-287387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7bba08e400808bb67471cdaf38b04dc556637e85886eee45aef7ed5dbc04ea2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed4712300ce4cbd1d82e821792ca14fa750e1a0e0d0c6df03f8bda5e8dd37e7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ministério da Agricultura Pescas e Alimentação
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667910:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:42Z'
   warnings: []
   errors: []
 ---
@@ -96,23 +114,23 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 Natureza e atribuições
 
-###### Artigo 1.º - 1 - A Direcção de Serviços de Apoio Técnico-Administrativo, criada pela alínea a) do n.º 3 do artigo 3.º do [Decreto-Lei n.º 310-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-a-1986-667910), de 23 de Setembro, abreviadamente designada por DSATA, é um serviço que funciona na dependência do membro do Governo competente para o sector das pescas, ao qual incumbe, nos termos do previsto na alínea a) do n.º 2 do artigo 5.º do diploma atrás citado, apoiar a organização e gestão dos recursos humanos, financeiros e patrimoniais no âmbito do sector administrativo das pescas e prestar apoio técnico-administrativo ao Gabinete daquele membro do Governo.
+Artigo 1.º - 1 - A Direcção de Serviços de Apoio Técnico-Administrativo, criada pela alínea a) do n.º 3 do artigo 3.º do [Decreto-Lei n.º 310-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-a-1986-667910), de 23 de Setembro, abreviadamente designada por DSATA, é um serviço que funciona na dependência do membro do Governo competente para o sector das pescas, ao qual incumbe, nos termos do previsto na alínea a) do n.º 2 do artigo 5.º do diploma atrás citado, apoiar a organização e gestão dos recursos humanos, financeiros e patrimoniais no âmbito do sector administrativo das pescas e prestar apoio técnico-administrativo ao Gabinete daquele membro do Governo.
 
 2 - A DSATA assegura as ligações com outras entidades do Ministério da Agricultura, Pescas e Alimentação, nomeadamente com a Secretaria-Geral, e com outros organismos, de forma a garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 2.º A DSATA compreende:
+Art. 2.º A DSATA compreende:
 
 a) A Repartição Administrativa (RA);
 
 b) O Centro de Documentação e Informação (CDI).
 
-###### Art. 3.º A RA compreende as seguintes secções:
+Art. 3.º A RA compreende as seguintes secções:
 
 a) Secção de Pessoal, Expediente e Arquivo (SPEA);
 
 b) Secção de Administração Financeira e Patrimonial (SAFP).
 
-###### Art. 4.º À SPEA compete:
+Art. 4.º À SPEA compete:
 
 a) Elaborar e manter actualizado o cadastro do pessoal da DSATA e do que se encontra afecto ao Gabinete do membro do Governo responsável pelo sector das pescas;
 
@@ -130,7 +148,7 @@ g) Assegurar o serviço de atendimento ao Gabinete do membro do Governo respons�
 
 h) Colaborar com o CDI na selecção e difusão de documentos de interesse técnico ou histórico.
 
-###### Art. 5.º À SAFP compete:
+Art. 5.º À SAFP compete:
 
 a) Assegurar as acções necessárias à elaboração dos orçamentos da DSATA e do Gabinete do membro do Governo responsável pelo sector das pescas;
 
@@ -152,7 +170,7 @@ i) Assegurar a eficiência das redes de comunicação interna e externa;
 
 j) Coordenar as acções relativas à limpeza e segurança das instalações.
 
-###### Art. 6.º Ao CDI compete:
+Art. 6.º Ao CDI compete:
 
 a) Proceder à recolha, tratamento e conservação dos elementos bibliográficos e documentação respeitantes às actividades compreendidas no âmbito do sector das pescas e promover ou colaborar na sua divulgação;
 
@@ -168,32 +186,32 @@ f) Recolher e organizar a informação difundida nos órgãos de comunicação s
 
 g) Orientar e coordenar a participação em feiras, exposições e outros certames afins, colaborando, quando necessário, na respectiva organização.
 
-###### Art. 7.º - 1 - O CDI será dirigido por funcionário a designar por despacho do membro do Governo responsável pelo sector das pescas, mediante proposta do director de serviços.
+Art. 7.º - 1 - O CDI será dirigido por funcionário a designar por despacho do membro do Governo responsável pelo sector das pescas, mediante proposta do director de serviços.
 
 2 - O funcionário designado nos termos do número anterior manterá a sua posição de carreira.
 
 Pessoal
 
-###### Art. 8.º - 1 - A DSATA dispõe do quadro de pessoal anexo ao presente diploma.
+Art. 8.º - 1 - A DSATA dispõe do quadro de pessoal anexo ao presente diploma.
 
 2 - A distribuição de pessoal pelas unidades e subunidades orgânicas da DSATA é da competência do respectivo director de serviços.
 
-###### Art. 9.º O regime de pessoal da DSATA é o constante do [Decreto Regulamentar n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1984-384385), de 28 de Maio, e demais legislação aplicável, com observância das alterações resultantes do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
+Art. 9.º O regime de pessoal da DSATA é o constante do [Decreto Regulamentar n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1984-384385), de 28 de Maio, e demais legislação aplicável, com observância das alterações resultantes do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
 
-###### Art. 10.º O pessoal do quadro único do ex-Ministério da Agricultura e Pescas destacado na Secção de Apoio ao Gabinete do membro do Governo responsável pelo sector das pescas transita para os lugares do quadro anexo ao presente diploma nos termos das regras pertinentes do [Decreto Regulamentar n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1984-384385), de 28 de Maio, e demais legislação geral aplicável, de harmonia com o estabelecido no [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 28 de Maio, e em conformidade com os critérios definidos no n.º 1 do artigo 11.º do [Decreto-Lei n.º 310-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-a-1986-667910), de 23 de Setembro.
+Art. 10.º O pessoal do quadro único do ex-Ministério da Agricultura e Pescas destacado na Secção de Apoio ao Gabinete do membro do Governo responsável pelo sector das pescas transita para os lugares do quadro anexo ao presente diploma nos termos das regras pertinentes do [Decreto Regulamentar n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1984-384385), de 28 de Maio, e demais legislação geral aplicável, de harmonia com o estabelecido no [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 28 de Maio, e em conformidade com os critérios definidos no n.º 1 do artigo 11.º do [Decreto-Lei n.º 310-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-a-1986-667910), de 23 de Setembro.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 25 de Fevereiro de 1988.**
+Promulgado em 25 de Fevereiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Fevereiro de 1988.**
+Referendado em 26 de Fevereiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o artigo 8.º do Decreto Regulamentar n.º 11/88
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/05700/08730874.pdf))](https://files.diariodarepublica.pt/1s/1988/03/05700/08730874.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/05700/08730874.pdf)

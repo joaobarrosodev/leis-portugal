@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/293a00/69526961.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/408/1998/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1998-186752
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e57a43e7274793284a6e41bad3de3e1892c59e56aa4f37da0812a1621fea70c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffbff1b8f72e160d49210063f2e850d9ff21039e45b47d6a66589e18e1d097a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,28 +69,28 @@ subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autorização de Despesas
-- Financiamento
-- Formação Profissional
-- Pessoal Dirigente
+- Cinema
 - Comissão de Fiscalização
-- Contrato Individual de Trabalho
-- Extinção de Serviços
-- Produção Cinematográfica
-- Filmoteca
-- Ministério da Cultura
 - Conselho Consultivo
-- ICAM
-- Integração de Trabalhadores
-- Orgânica
-- Pessoa Colectiva de Direito Público
+- Contrato Individual de Trabalho
 - Cooperação Cultural
 - Cooperação Internacional
+- Extinção de Serviços
+- Filmoteca
+- Financiamento
+- Formação Profissional
+- ICAM
+- Indústria Cinematográfica
+- Integração de Trabalhadores
+- Ministério da Cultura
+- Orgânica
+- Pessoa Colectiva de Direito Público
+- Pessoal Dirigente
 - Política do Audiovisual
 - Prestação de Serviços
+- Produção Cinematográfica
 - Quadro de Pessoal
 - Receita Própria
-- Cinema
-- Indústria Cinematográfica
 - Segurança Social
 - Títulos de Participação
 relationships:
@@ -98,20 +98,54 @@ relationships:
   target: pt:dre:520449:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545647:por
+  label: "Reestruturado o Instituto do Cinema, Audiovisual e Multimédia, criado pelo presente diploma, que nos termos da alínea\
+    \ d) do nº. 4 do artigo 26.º passa a denominar-se Instituto do Cinema e Audiovisual, I.P., sendo as suas atribuições na\
+    \ área do multimédia transferidas para a Direcção-Geral das Artes pelo DEC LEI.215/2006.27.10.2006.MC, DR.IS [208] de\
+    \ 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2006-545647
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:520449:por
+  label: "Determinado que o Conselho Nacional de Cultura, suceda nas competências do Instituto do Cinema, do Audiovisual e\
+    \ Multimédia, cuja orgânica foi aprovada pelo presente diploma, pelo DR.35/2007.29.03.2007.MC, DR.IS [63] de 29.03.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/35-2007-520449
+  date: '2007-03-29'
+- type: amended_by
+  target: pt:dre:520460:por
+  label: "Determinado que a Direcção-Geral das Artes suceda nas atribuições do Instituto do Cinema Audiovisual e Multimédia\
+    \ na área da multimédia, cuja orgânica foi aprovada pelo presente diploma, pelo DEC LEI.91/2007.29.03.2007.MC, DR.IS [63]\
+    \ de 29.03.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-2007-520460
+  date: '2007-03-29'
 - type: cites
   target: celex:31997L0036
   label: null
   source: http://data.europa.eu/eli/dir/1997/36/oj
+- type: repealed_by
+  target: pt:dre:642751:por
+  label: "Revogada a al. f) do n.º 4 do art. 22.º, pelo DEC LEI.510/99.1999.11.23.MC DR.IS-A [273]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/510-1999-642751
+  date: '1999-11-23'
+- type: repealed_by
+  target: pt:dre:520428:por
+  label: "Revogado e determinado que o Instituto do Cinema e do Audiovisual, suceda nas atribuições do Instituto do Cinema,\
+    \ Audiovisual e Multimédia, cuja orgânica foi aprovada pelo presente diploma, pelo DEC LEI.95/2007.29.03.2007.MC, DR.IS\
+    \ [63] de 29.03.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-2007-520428
+  date: '2007-03-29'
 article_structure:
   article_count: 40
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:37Z'
   warnings: []
   errors: []
 ---
@@ -434,7 +468,9 @@ b) Divisão de Recursos Financeiros e Patrimoniais;
 
 c) Divisão de Recursos Humanos.
 
-###### Artigo 19.º — Divisão de Planeamento, Coordenação e Controlo
+###### Artigo 19.º
+
+##### Divisão de Planeamento, Coordenação e Controlo
 
 À Divisão de Planeamento, Coordenação e Controlo compete:
 
@@ -452,7 +488,9 @@ f) Proceder a estudos de mercado;
 
 g) Analisar a adequação dos procedimentos e o funcionamento dos sistemas de informação internos, bem como zelar pela sua coordenação.
 
-###### Artigo 20.º — Divisão de Recursos Financeiros e Patrimoniais
+###### Artigo 20.º
+
+##### Divisão de Recursos Financeiros e Patrimoniais
 
 1 - À Divisão de Recursos Financeiros e Patrimoniais compete:
 
@@ -480,7 +518,9 @@ l) Gerir o aprovisionamento de stocks e promover a sua distribuição pelas dive
 
 2 - Na dependência da Divisão de Recursos Financeiros e Patrimoniais funciona ainda uma tesouraria, coordenada por um tesoureiro, que assegura as tarefas inerentes ao movimento de receitas e despesas e respectiva escrituração.
 
-###### Artigo 21.º — Divisão de Recursos Humanos
+###### Artigo 21.º
+
+##### Divisão de Recursos Humanos
 
 À Divisão de Recursos Humanos compete:
 
@@ -744,15 +784,15 @@ O presente diploma entra em vigor 10 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Outubro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Luís Lopes da Mota - Eduardo Carrega Marçal Grilo - Eduardo Luís Barreto Ferro Rodrigues - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 4 de Dezembro de 1998.**
+Promulgado em 4 de Dezembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Dezembro de 1998.**
+Referendado em 10 de Dezembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Quadro de pessoal dirigente do ICAM a que se refere o artigo 29.º
 

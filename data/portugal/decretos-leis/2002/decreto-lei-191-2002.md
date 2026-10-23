@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/191/2002/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-2002-634503
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1227026ffde3835dbca8c799f4aff45d08a406fc33b16af947c426a7939b2a3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aea3d98340331ac0fa85f2b3840fc926cfa3e397732d710ab97ff4884706b2f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ reuse:
 subjects:
 - Armazenagem
 - Casa do Douro
+- Comércio
 - Comissão Interprofissional da Região Demarcada do Douro
-- Multa
-- Vinho
 - Contra-ordenação
 - Controlo de Qualidade
 - Fiscalização
 - Instituto da Vinha e do Vinho
 - Instituto do Vinho do Porto
 - Licores
+- Multa
 - Produção
 - Região Demarcada do Douro
-- Comércio
+- Vinha
+- Vinho
 - Vinho do Porto
 - Vinificação
-- Vinha
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/254/1998/08/11/p/dre
@@ -92,16 +92,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/74/1995/04/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/74/1995/04/19/p/dre
+- type: cites
+  target: pt:dre:151875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579512:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:37Z'
   warnings: []
   errors: []
 ---
@@ -194,13 +210,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Maria Dulce Farinha Franco Vilhena de Carvalho - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 5 de Setembro de 2002.**
+Promulgado em 5 de Setembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Setembro de 2002.**
+Referendado em 5 de Setembro de 2002.
 
 Pelo Primeiro-Ministro, Maria Manuela Dias Ferreira Leite, Ministra de Estado e das Finanças.
 

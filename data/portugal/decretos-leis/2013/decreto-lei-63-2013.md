@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/63/2013/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2013-261159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e26934de4c6049d5438e6278f4dba67dff45fd6f7fbfa76e3de0732c9ac7e4da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d21b9d37c9ff7d636f2351697a0bc350282711ed50631f6f8df7a4b93def2ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,32 +68,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Produção Animal
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
-- Doença Animal
+- Aquicultura
+- Controlo Sanitário
 - Crustáceo
 - Definição de Competências
 - Direção Geral de Alimentação e Veterinária
-- Controlo Sanitário
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Doença Animal
 - Estabelecimento Industrial
 - Fiscalização
-- Licenciamento
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Indústria Transformadora
 - Instituto da Conservação da Natureza e das Florestas
-- Aquicultura
+- Licenciamento
 - Molusco
 - Peixe
-- Regulamento CE
-- Indústria Transformadora
+- Produção Animal
 - Produto Animal
-- Transferência de Competências
+- Regulamento CE
 - Saúde Animal
-- Agência Portuguesa do Ambiente
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:58763443:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:58763443:por
+  label: Alterados o art. 1.º e a parte II do anexo III do Dec Lei 152/2009 de 02-jul, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 169/2014 - Diário da República n.º 215/2014, Série I de 2014-11-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-2014-58763443
+  date: '2014-11-06'
 - type: cites
   target: celex:32002R1774
   label: null
@@ -119,15 +125,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/152/2009/07/02/p/dre
 article_structure:
-  article_count: 5
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 4
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:33Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +166,9 @@ Os artigos 1.º e 5.º do Decreto-Lei n.º 152/2009, de 2 de julho, passam a ter
 
 O presente decreto-lei transpõe para a ordem jurídica interna a Diretiva n.º [2006/88/CE](https://data.europa.eu/eli/dir/2006/88/oj?locale=pt), do Conselho, de 24 de outubro, relativa aos requisitos zoossanitários aplicáveis aos animais de aquicultura e produtos derivados, assim como à prevenção e ao combate a certas doenças dos animais aquáticos, com a redação que lhe foi dada pela Diretiva n.º [2008/53/CE](https://data.europa.eu/eli/dir/2008/53/oj?locale=pt), da Comissão, de 30 de abril de 2008, respeitante à virémia primaveril da carpa, e pela Diretiva de Execução n.º [2012/31/UE](https://data.europa.eu/eli/dir/2012/31/oj?locale=pt), da Comissão, de 25 de outubro de 2012, no que respeita às espécies de peixes sensíveis à septicemia hemorrágica viral e às doenças exóticas que podem comprometer o estatuto sanitário dos animais aquáticos suprimindo a síndrome ulcerativa epizoótica.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -204,24 +212,24 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de abril de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Luís Miguel Gubert Morais Leitão - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 6 de maio de 2013.**
+Promulgado em 6 de maio de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 7 de maio de 2013.**
+Referendado em 7 de maio de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
-# PARTE II — Lista de doenças
+## PARTE II — Lista de doenças
 
 Doenças exóticas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/09000/0281602818.pdf))](https://files.diariodarepublica.pt/1s/2013/05/09000/0281602818.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/09000/0281602818.pdf)
 
 Doenças não exóticas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/09000/0281602818.pdf))](https://files.diariodarepublica.pt/1s/2013/05/09000/0281602818.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/09000/0281602818.pdf)

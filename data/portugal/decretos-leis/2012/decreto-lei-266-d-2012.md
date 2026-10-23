@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31
   number: '252'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7424-(270) a 7424-(278)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/12/25202/0027000278.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/266-d/2012/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-d-2012-632430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bcbdc3bbbf00d95aef5dda5b69360af43e4dd7907ccef410e1e78f49c285d9cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f40fed98b6135c675c970ed8dd8a2c72edbc43a7c68190f55dbcef3c593c5cfb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica
-- Horas Extraordinárias
 - Contrato de Trabalho
 - Duração do Trabalho
 - Horário de Trabalho
+- Horas Extraordinárias
+- Médico
 relationships:
 - type: amended_by
   target: pt:dre:912653923:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:835864045:por
+  label: Determinado, a partir de 30.12.2023, com efeitos a 01.01.2024, que a estrutura remuneratória aplicável aos trabalhadores
+    médicos sujeitos aos regimes transitórios de dedicação exclusiva de 42 horas de trabalho normal por semana, de dedicação
+    exclusiva de 35 horas de trabalho normal por semana e de 35 horas semanais sem dedicação exclusiva, é a constante, respetivamente,
+    dos anexos ii a iv, pelo(a) Decreto-Lei n.º 137/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29, nos termos
+    do n.º 2 do seu art. 2.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-2023-835864045
+  date: '2023-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/176/2009/08/04/p/dre
   label: null
@@ -99,16 +108,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669540:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:06Z'
   warnings: []
   errors: []
 ---
@@ -217,7 +250,9 @@ d) Coadjuvar o diretor de serviço nas atividades de gestão;
 
 e) Substituir o diretor de serviço da respetiva área nas suas faltas e impedimentos.
 
-###### Artigo 7.º-B — Área de medicina geral e familiar
+Artigo 7.º-B
+
+Área de medicina geral e familiar
 
 1 - Na área de medicina geral e familiar, ao assistente são atribuídas, nomeadamente, as seguintes funções:
 
@@ -271,7 +306,9 @@ d) Coadjuvar a direção clínica dos agrupamentos de centros de saúde nas ativ
 
 e) Substituir o coordenador de unidade da respetiva área nas suas faltas e impedimentos.
 
-###### Artigo 7.º-C — Área de saúde pública
+Artigo 7.º-C
+
+Área de saúde pública
 
 1 -Na área de saúde pública, ao assistente são atribuídas, nomeadamente, as seguintes funções:
 
@@ -327,7 +364,9 @@ c) Coordenar os processos de acreditação;
 
 d) Desempenhar cargos de direção e chefia.
 
-###### Artigo 7.º-D — Área de medicina legal
+Artigo 7.º-D
+
+Área de medicina legal
 
 1 -Na área de medicina legal, ao assistente são atribuídas, nomeadamente, as seguintes funções:
 
@@ -383,7 +422,9 @@ d) Exercer as funções de diretor de serviço;
 
 e) Substituir o diretor de serviço nas suas faltas e impedimentos, quando para tal designado.
 
-###### Artigo 7.º-E — Área de medicina do trabalho
+Artigo 7.º-E
+
+Área de medicina do trabalho
 
 1 -Na área de medicina do trabalho, ao assistente são atribuídas, nomeadamente, as seguintes funções:
 
@@ -441,7 +482,9 @@ d) Coadjuvar o diretor de serviço nas atividades de gestão;
 
 e) Substituir o diretor de serviço nas suas faltas e impedimentos.
 
-###### Artigo 15.º-A — Tempo de trabalho
+Artigo 15.º-A
+
+Tempo de trabalho
 
 1 - O período normal de trabalho dos trabalhadores médicos é de 8 horas diárias e 40 horas semanais, organizadas de segunda a sexta-feira, sem prejuízo do disposto nos números seguintes.
 
@@ -453,7 +496,9 @@ e) Substituir o diretor de serviço nas suas faltas e impedimentos.
 
 5 - O cumprimento do período normal de trabalho nos serviços de urgência, externa e interna, unidades de cuidados intensivos e unidades de cuidados intermédios, ocorre no período compreendido entre as zero horas de segunda-feira e as 24 horas de domingo, sem prejuízo da parte final do n.º 2.
 
-###### Artigo 17.º-A — Direção e chefia
+Artigo 17.º-A
+
+Direção e chefia
 
 1 - Os trabalhadores integrados na carreira médica podem exercer funções de direção, chefia, ou coordenação de departamentos, serviços ou unidades funcionais do Serviço Nacional de Saúde, desde que sejam titulares das categorias de assistente graduado sénior ou, em casos devidamente fundamentados, de assistente graduado.
 
@@ -473,7 +518,9 @@ Os artigos 7.º e 20.º do [Decreto-Lei n.º 177/2009](https://diariodarepublica
 
 2 - Cada área prevista no número anterior tem formas de exercício adequadas à natureza da atividade que desenvolve, nos termos dos artigos seguintes, sem prejuízo do disposto em instrumento de regulamentação coletiva de trabalho.
 
-###### Artigo 20.º — Tempo de trabalho
+Artigo 20.º
+
+Tempo de trabalho
 
 1 - O período normal de trabalho dos trabalhadores médicos é de 8 horas diárias e 40 horas semanais, organizadas de segunda a sexta-feira, sem prejuízo do disposto nos números seguintes.
 
@@ -545,7 +592,9 @@ d) Coadjuvar o diretor de serviço nas atividades de gestão;
 
 e) Substituir o diretor de serviço da respetiva área nas suas faltas e impedimentos.
 
-###### Artigo 7.º-B — Área de medicina geral e familiar
+Artigo 7.º-B
+
+Área de medicina geral e familiar
 
 1 -Na área de medicina geral e familiar, ao assistente são atribuídas, nomeadamente, as seguintes funções:
 
@@ -599,7 +648,9 @@ d) Coadjuvar a direção clínica dos agrupamentos de centros de saúde nas ativ
 
 e) Substituir o coordenador de unidade da respetiva área nas suas faltas e impedimentos.
 
-###### Artigo 7.º-C — Área de saúde pública
+Artigo 7.º-C
+
+Área de saúde pública
 
 1 -Na área de saúde pública, ao assistente são atribuídas, nomeadamente, as seguintes funções:
 
@@ -655,7 +706,9 @@ c) Coordenar os processos de acreditação;
 
 d) Desempenhar cargos de direção e chefia.
 
-###### Artigo 7.º-D — Área de medicina legal
+Artigo 7.º-D
+
+Área de medicina legal
 
 1 -Na área de medicina legal, ao assistente são atribuídas, nomeadamente, as seguintes funções:
 
@@ -711,7 +764,9 @@ d) Exercer as funções de diretor de serviço;
 
 e) Substituir o diretor de serviço nas suas faltas e impedimentos, quando para tal designado.
 
-###### Artigo 7.º-E — Área de medicina do trabalho
+Artigo 7.º-E
+
+Área de medicina do trabalho
 
 1 -Na área de medicina do trabalho, ao assistente são atribuídas, nomeadamente, as seguintes funções:
 
@@ -827,16 +882,16 @@ O presente decreto-lei reporta os seus efeitos a 1 de janeiro de 2013.
 
 Visto e aprovado em Conselho de Ministros de 11 de dezembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 27 de dezembro de 2012.**
+Promulgado em 27 de dezembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de dezembro de 2012.**
+Referendado em 28 de dezembro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o n.º 6 do artigo 5.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027000278.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027000278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027000278.pdf)

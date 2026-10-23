@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/227/2007/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-2007-638704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 285c02f5cd847302bb92291100a5782d9c11edc63ead6c9402f52641323a0c7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7890d5becc71d586497e14c1b0783f8131dc234e5ad6219b1de5c7fe8615658
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,15 +71,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Poluição Atmosférica
-- Veículo
 - Equipamento de Veículo
+- Poluição Atmosférica
 - Regulamento
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:114276584:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260417:por
+  label: "Dada nova redação ao anexo II do Dec Lei 74/2005 de 24-mar, alterado pelo presente diploma, pelo DEC LEI.53/2013.17.04.2013.MEE,\
+    \ DR.IS [75] de 17.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2013-260417
+  date: '2013-04-17'
+- type: amended_by
+  target: pt:dre:502980:por
+  label: "Dada nova redação aos anexos II e III do Regulamento da Homologação de Tratores Agrícolas ou Florestais, Seus Reboques\
+    \ e Máquinas Intermutáveis Rebocadas, aprovado pelo Dec Lei 74/2005 de 24-mar, alterado pelo presente diploma, pelo DEC\
+    \ LEI.148/2013.24.10.2013.MECO, DR.IS [206] de 24.10.2013 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2013-502980
+  date: '2013-10-24'
+- type: amended_by
+  target: pt:dre:25345582:por
+  label: "Alterados os anexos II, III, VII e IX do Regulamento Respeitante às Medidas a Tomar Contra as Emissões de Gases\
+    \ Poluentes e de Partículas Poluentes Provenientes dos Motores Destinados à Propulsão dos Tratores Agrícolas ou Florestais,\
+    \ aprovado pelo Dec Lei 114/2002, de 20-abr, na redação do presente diploma, pelo DEC LEI.97/2014.26.06.2014.MECO, DR.IS\
+    \ [121] de 26.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2014-25345582
+  date: '2014-06-26'
 - type: cites
   target: celex:31988L0077
   label: null
@@ -117,15 +138,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2005/13/oj
 article_structure:
-  article_count: 10
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:15Z'
   warnings: []
   errors: []
 ---
@@ -276,7 +297,9 @@ Requisitos
 
 4 - A indicação 'Motor de substituição' deve ser aposta numa etiqueta ligada ao motor ou deve ser inserida no manual de instruções.
 
-###### Artigo 2.º-B — Regime de flexibilidade
+Artigo 2.º-B
+
+Regime de flexibilidade
 
 Em derrogação ao disposto nos n.os 1 e 2 do artigo anterior, a pedido do fabricante de tractores e mediante autorização da Direcção-Geral de Viação, o fabricante de motores pode, no período entre duas fases de valores limite sucessivas, introduzir no mercado um número limitado de motores que respeitem apenas os valores limite de emissões estabelecidos na fase imediatamente anterior à fase que está em aplicação, ou tractores com esses motores, na condição de o fabricante respeitar o procedimento estabelecido no capítulo III do Regulamento ora aprovado.»
 
@@ -286,9 +309,13 @@ Em derrogação ao disposto nos n.os 1 e 2 do artigo anterior, a pedido do fabri
 
 Disposições aplicáveis aos tractores e motores introduzidos no mercado ao abrigo do regime de flexibilidade
 
-#### SECÇÃO I — Acções a empreender pelos fabricantes de motores e tractores
+SECÇÃO I
 
-###### Artigo 20.º — Regime de flexibilidade
+Acções a empreender pelos fabricantes de motores e tractores
+
+Artigo 20.º
+
+Regime de flexibilidade
 
 1 - O fabricante de tractores que pretenda recorrer ao regime de flexibilidade deve solicitar à Direcção-Geral de Viação que o autorize a introduzir ou a obter junto dos seus fornecedores de motores, no período entre duas fases de limites de emissões, as quantidades de motores estabelecidas nos n.os 2, 3 e 4 infra, que não respeitem os actuais valores limite de emissões, mas tenham sido homologados relativamente à fase imediatamente anterior de limites de emissões.
 
@@ -298,7 +325,9 @@ Disposições aplicáveis aos tractores e motores introduzidos no mercado ao abr
 
 4 - Em alternativa à opção prevista no n.os 2 e 3, o fabricante de tractores pode solicitar autorização para que os seus fornecedores de motores introduzam no mercado um número definido de motores ao abrigo do regime de flexibilidade, não devendo o número de motores de cada categoria de motor ultrapassar os valores referidos no quadro constante do anexo X ao presente Regulamento.
 
-###### Artigo 21.º — Pedido apresentado pelo fabricante
+Artigo 21.º
+
+Pedido apresentado pelo fabricante
 
 1 - O pedido apresentado pelo fabricante à Direcção-Geral de Viação deve incluir, cumulativamente, a seguinte informação:
 
@@ -310,15 +339,21 @@ b) Uma amostra da etiqueta adicional que é aposta no motor, ostentando o texto 
 
 3 - O fabricante do tractor deve apresentar semestralmente à Direcção-Geral de Viação um relatório sobre a aplicação do regime de flexibilidade que adoptou, devendo o relatório incluir dados cumulativos sobre o número de motores e tractores introduzidos no mercado ao abrigo desse regime, os número de série do motor e do tractor, bem como os Estados membros onde o tractor tenha sido posto em circulação, mantendo-se este procedimento enquanto um regime de flexibilidade estiver em curso.
 
-#### SECÇÃO II — Acções a empreender pelo fabricante do motor e pela Direcção-Geral de Viação
+SECÇÃO II
 
-###### Artigo 22.º — Acções a empreender pelo fabricante do motor
+Acções a empreender pelo fabricante do motor e pela Direcção-Geral de Viação
+
+Artigo 22.º
+
+Acções a empreender pelo fabricante do motor
 
 1 - Um fabricante de motores pode fornecer motores a um fabricante de tractores ao abrigo de um regime de flexibilidade abrangido por uma homologação em conformidade com o disposto nos artigos anteriores do presente capítulo.
 
 2 - O fabricante dos motores deve apor a esses motores uma etiqueta com o seguinte texto: 'motor introduzido no mercado ao abrigo do regime de flexibilidade'.
 
-###### Artigo 23.º — Acções a empreender pela Direcção-Geral de Viação
+Artigo 23.º
+
+Acções a empreender pela Direcção-Geral de Viação
 
 A Direcção-Geral de Viação deve avaliar o conteúdo do pedido de regime de flexibilidade e dos documentos apensos, após o que informa o fabricante dos tractores da sua decisão de autorizar, ou não, o regime de flexibilidade.»
 
@@ -334,15 +369,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 29 de Março de 2007.**
+Promulgado em 29 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 2 de Abril de 2007.**
+Referendado em 2 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o n.º 3 do artigo 2.º)
 
@@ -356,7 +391,7 @@ Ficha de informações relativa à homologação de um tipo de motores precursor
 
 As informações seguintes serão fornecidas em triplicado e devem incluir um índice. Se houver desenhos, serão fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, deverão ser suficientemente pormenorizadas.
 
-# Parte 1
+Parte 1
 
 Generalidades
 
@@ -376,7 +411,7 @@ Generalidades
 
 1.5 - Endereço das linhas de montagem: ...
 
-# Parte 2
+Parte 2
 
 Tipo de motor no interior da família
 
@@ -550,7 +585,7 @@ Indicar o método utilizado: no motor/no banco de ensaio das bombas (1).
 
 2.6.4.2 - Parâmetros controlados: ...
 
-# Parte 3
+Parte 3
 
 Família de motores de ignição por compressão
 
@@ -562,9 +597,9 @@ Família de motores de ignição por compressão
 
 3.1.2 - Especificações dos tipos de motores que compõem a família:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/10700/36683680.pdf))](https://files.diariodarepublica.pt/1s/2007/06/10700/36683680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/10700/36683680.pdf)
 
-# Parte 4
+Parte 4
 
 Tipo de motor
 
@@ -762,7 +797,7 @@ Indicar o método utilizado: no motor/no banco de ensaio das bombas (1).
 
 2.4 - Resultados dos ensaios medidos de acordo com as prescrições da Directiva n.º [97/68/CE](https://data.europa.eu/eli/dir/1997/68/oj?locale=pt):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/10700/36683680.pdf))](https://files.diariodarepublica.pt/1s/2007/06/10700/36683680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/10700/36683680.pdf)
 
 3 - [...]
 
@@ -870,7 +905,7 @@ Indicar o método utilizado: no motor/no banco de ensaio das bombas (1).
 
 2.2.4 - Resultados dos ensaios medidos de acordo com as prescrições da Directiva n.º [97/68/CE](https://data.europa.eu/eli/dir/1997/68/oj?locale=pt):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/10700/36683680.pdf))](https://files.diariodarepublica.pt/1s/2007/06/10700/36683680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/10700/36683680.pdf)
 
 2.3 - [...]
 
@@ -918,9 +953,11 @@ Reconhecimento de homologações alternativas
 
 Em alternativa à opção prevista nos n.os 2 e 3 do artigo 20.º do presente Regulamento, o fabricante de tractores pode solicitar autorização para que os seus fornecedores de motores introduzam no mercado um número definido de motores ao abrigo do regime de flexibilidade, não devendo o número de motores de cada categoria de motor ultrapassar os seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/10700/36683680.pdf))](https://files.diariodarepublica.pt/1s/2007/06/10700/36683680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/10700/36683680.pdf)
 
-## ANEXO II — (a que se refere o artigo 4.º)
+ANEXO II
+
+(a que se refere o artigo 4.º)
 
 1 - O anexo I do Regulamento da Homologação de Tractores Agrícolas ou Florestais, Seus Reboques e Máquinas Intermutáveis Rebocadas passa a ter a seguinte redacção:
 
@@ -940,7 +977,7 @@ MODELO A
 
 3 - Motor:
 
-# Parte 1 - Generalidades
+Parte 1 - Generalidades
 
 3.1 - Motor precursor/tipo de motor (1) (3) (21):
 
@@ -968,7 +1005,7 @@ Dois tempos/quatro tempos (1).
 
 3.1.7 - Combustível: gasóleo/gasolina/GPL/outro (1).
 
-# Parte 2 - Tipo de motor no interior da família
+Parte 2 - Tipo de motor no interior da família
 
 3.2 - Características essenciais do tipo de motor precursor da família (3):
 
@@ -1140,7 +1177,7 @@ Indicar o método utilizado: no motor/no banco de ensaio das bombas (1).
 
 3.2.6.4.2 - Parâmetros controlados: ...
 
-# Parte 3 - Família de motores de ignição por compressão
+Parte 3 - Família de motores de ignição por compressão
 
 3.3 - Características essenciais da família de motores:
 
@@ -1150,9 +1187,9 @@ Indicar o método utilizado: no motor/no banco de ensaio das bombas (1).
 
 3.3.1.2 - Especificações dos tipos de motores que compõem a família:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/10700/36683680.pdf))](https://files.diariodarepublica.pt/1s/2007/06/10700/36683680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/10700/36683680.pdf)
 
-# Parte 4 - Tipo de motor
+Parte 4 - Tipo de motor
 
 3.4 - Características essenciais do tipo de motor:
 
@@ -1352,13 +1389,19 @@ MODELO B
 
 [...]
 
-### Capítulo I — [...]
+Capítulo I
 
-### Capítulo II — [...]
+[...]
 
-### Capítulo III — [...]
+Capítulo II
 
-# Parte I
+[...]
+
+Capítulo III
+
+[...]
+
+Parte I
 
 [...]
 
@@ -1372,7 +1415,7 @@ MODELO B
 
 4 - [...]
 
-# Parte II
+Parte II
 
 [...]
 
@@ -1382,19 +1425,23 @@ MODELO B
 
 3 - [...]
 
-## APÊNDICE N.º 1
+APÊNDICE N.º 1
 
 [...]
 
 1 - [...]
 
-#### Secção 1: letra minúscula 'e' seguida do número distintivo do Estado membro que emite a homologação:
+Secção 1: letra minúscula 'e' seguida do número distintivo do Estado membro que emite a homologação:
 
 1 para a Alemanha; 2 para a França; 3 para a Itália; 4 para os Países Baixos; 5 para a Suécia; 6 para a Bélgica; 9 para a Espanha; 11 para o Reino Unido; 12 para a Áustria; 13 para o Luxemburgo; 17 para a Finlândia; 18 para a Dinamarca; 21 para Portugal; 23 para a Grécia; 24 para a Irlanda; 8 para a República Checa; 29 para a Estónia; CY para o Chipre; 32 para a Letónia; 36 para a Lituânia; 7 para a Hungria; MT para Malta; 20 para a Polónia; 26 para a Eslovénia; 27 para a Eslováquia.
 
-#### Secção 2 - [...] — Secção 3 - [...]
+Secção 2 - [...]
 
-#### Secção 4 - [...] — Secção 5 - [...]
+Secção 3 - [...]
+
+Secção 4 - [...]
+
+Secção 5 - [...]
 
 2 - [...]
 
@@ -1412,7 +1459,7 @@ MODELO B
 
 [...]
 
-# Parte I
+Parte I
 
 [...]
 
@@ -1632,7 +1679,7 @@ Eslováquia: ...
 
 17 - [...]
 
-# Parte II
+Parte II
 
 [...]
 

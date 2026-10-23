@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/12/24000/0606406068.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/176/2014/12/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55ed96dfe17aee9a0bd6dabbe9d5a5d3927e3768456498d4566caaebd6598119
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de395dad08e2517ef6e6161e1397e9e519f52584eb77592db61de2e6fdeec81f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Currículo Nacional
+- Ensino Básico
+- Ensino Secundário
 - Gestão Escolar
 - Habilitações Literárias
-- Ensino Secundário
 - Língua Estrangeira
-- Currículo Nacional
 - Pessoal Docente
 - Qualificação Profissional
-- Ensino Básico
 - Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:1006464121:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74007250:por
+  label: Alterados, a partir de 05.04.2016, os arts. 1.º, 3.º, 4.º, 23.º, 24.º, 25.º e 26.º (este último na redação do Dec
+    Lei 91/2013 de 10-jul e do presente diploma), aditados, a partir da mesma data, os arts. 24.º-A, 24.º-B, 24.º-C e 26.º-A,
+    e revogados, a partir da mesma data, o n.º 5 do art. 23.º, os n.ºs 3 e 4 do art. 24.º, os n.ºs 5, 6, 7, 8 e 9 do art.
+    25.º e os n.ºs 3 e 4 do art. 26.º, todos do Dec Lei 139/2012 de 05-jul, pelo(a) Decreto-Lei n.º 17/2016 - Diário da República
+    n.º 65/2016, Série I de 2016-04-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-2016-74007250
+  date: '2016-04-04'
+- type: amended_by
+  target: pt:dre:114825662:por
+  label: Alterado o art. 3.º do Dec Lei 27/2006 de 10-fev, na redação do presente diploma, pelo(a) Decreto-Lei n.º 16/2018
+    - Diário da República n.º 47/2018, Série I de 2018-03-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2018-114825662
+  date: '2018-03-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/139/2012/07/05/p/dre
   label: null
@@ -122,16 +137,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/800/1994/09/09/p/d
   label: null
   source: http://data.dre.pt/eli/port/800/1994/09/09/p/d
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:115652962:por
+  label: Revogado, a partir de 07.07.2018, o Dec Lei 139/2012 de 05-jul, com a redação dada pelo presente, pelo(a) Decreto-Lei
+    n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06, sem prejuízo da vigência das normas relativas a
+    cursos de educação e formação de adultos e a ensinos básico e secundário na modalidade de ensino recorrente, nos termos
+    do art. 36.º e de acordo com a calendarização de produção de efeitos fixada no art. 38.º, ambos do Dec Lei 55/2018.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2018-115652962
+  date: '2018-07-06'
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:39Z'
   warnings: []
   errors: []
 ---
@@ -236,7 +315,9 @@ Os artigos 9.º e 26.º do [Decreto-Lei n.º 139/2012](https://diariodarepublica
 
 3 - [...].
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]:
 
@@ -278,15 +359,15 @@ O disposto nos artigos 5.º e 6.º produz efeitos a partir do ano letivo de 2015
 
 Visto e aprovado em Conselho de Ministros de 13 de novembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 28 de novembro de 2014.**
+Promulgado em 28 de novembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 11 de dezembro de 2014.**
+Referendado em 11 de dezembro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -294,7 +375,7 @@ Visto e aprovado em Conselho de Ministros de 13 de novembro de 2014. - Pedro Pas
 
 1.º ciclo do ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/12/24000/0606406068.pdf))](https://files.diariodarepublica.pt/1s/2014/12/24000/0606406068.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/12/24000/0606406068.pdf)»
 
 ## ANEXO II — (a que se refere o artigo 6.º)
 
@@ -308,14 +389,14 @@ Ensino básico
 
 1.º e 2.º anos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/12/24000/0606406068.pdf))](https://files.diariodarepublica.pt/1s/2014/12/24000/0606406068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/12/24000/0606406068.pdf)
 
 3.º e 4.º anos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/12/24000/0606406068.pdf))](https://files.diariodarepublica.pt/1s/2014/12/24000/0606406068.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/12/24000/0606406068.pdf)»
 
 ## ANEXO III — (a que se refere o artigo 7.º)
 
 Especialidades do grau de mestre, requisitos mínimos de formação para ingresso e grupos de recrutamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/12/24000/0606406068.pdf))](https://files.diariodarepublica.pt/1s/2014/12/24000/0606406068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/12/24000/0606406068.pdf)

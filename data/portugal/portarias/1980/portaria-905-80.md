@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/905-1980-462264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:31:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d66febdaa6d11416f793e18f110f555dcff6aea4c5fa5e0782501a2a2766fc81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82c8b6659d0b85fc4969c47a4e7e36f54d7451606344a62ca52688b824fb6a42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:31:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estaleiros Navais de Viana do Castelo
+- Saneamento Económico e Financeiro
+relationships:
+- type: cites
+  target: pt:dre:240848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508778:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:31:58Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +169,7 @@ e os Estaleiros Navais de Viana do Castelo, E. P., é estabelecido o seguinte pr
 
 4.º A participação de cada um dos bancos na tomada do referido empréstimo é a seguinte, e foi determinada com referência às responsabilidades por financiamento e respectivos encargos financeiros dos Estaleiros Navais de Viana do Castelo, E P., em relação a cada um dos bancos, em 31 de Março de 1980:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/25000/36523653.pdf))](https://files.diariodarepublica.pt/1s/1980/10/25000/36523653.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/25000/36523653.pdf)
 
 § único. O montante da Caixa Geral de Depósitos respeita a parte das responsabilidades por financiamento directo e encargos financeiros reportados a 21 de Março de 1980, conforme o seu ofício de consenso n.º 1832, de 28 de Agosto de 1980, dirigido ao Secretário de Estado das Finanças.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/174/1997/07/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1997-147674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 768d779aa7a0b0b970fc74c958669ae370e7bddb8140dc62c214218fa7d0948e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d1a0a596758f9288713e58dc7a645f58139c1e3422e7591214f5f5fd0d77e5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Atestado Médico
+- Benefícios Fiscais
+- Deficiente
+- Incapacidade Física
 - Junta Médica
 - Proteção ao Deficiente
-- Incapacidade Física
-- Benefícios Fiscais
 relationships:
 - type: amended_by
   target: pt:dre:837022978:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:491686:por
+  label: "Alterados os art.s 3º e 4º do Dec Lei 202/96, de 23-Out, na redacção do presente diploma, pelo DEC LEI.291/2009.12.10.2009.MS,\
+    \ DR.IS [197] de 12.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/291-2009-491686
+  date: '2009-10-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/202/1996/10/23/p/dre
   label: null
@@ -84,16 +90,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/341/1993/09/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/341/1993/09/30/p/dre
+- type: cites
+  target: pt:dre:226809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645876:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:19Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +150,7 @@ São alterados os n.os 1 e 3 do artigo 3.º, o n.º 4 do artigo 4.º e é aditad
 
 3 - O adjunto do delegado regional de saúde deverá convocar a junta médica e notificar o requerente da data do exame, a realizar no prazo de 60 dias a contar da data da entrega do requerimento.
 
-###### Artigo 4.º
+Artigo 4.º
 
 4 - Sempre que a lei faça depender a atribuição de benefícios de determinados requisitos específicos, o atestado médico de incapacidade deve indicar o fim a que se destina e respectivos efeitos e condições legais, bem como a natureza das deficiências e os condicionalismos relevantes para a concessão do benefício.
 
@@ -146,19 +168,19 @@ O [Decreto-Lei n.º 202/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 Visto e aprovado em Conselho de Ministros de 8 de Maio de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 26 de Junho de 1997.**
+Promulgado em 26 de Junho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Junho de 1997.**
+Referendado em 27 de Junho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO II AO DECRETO-LEI N.º 202/96
+ANEXO II AO DECRETO-LEI N.º 202/96
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/165a00/36423644.pdf))](https://files.diariodarepublica.pt/1s/1997/07/165a00/36423644.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/165a00/36423644.pdf)
 
 DECRETO-LEI N.º 202/96, DE 23 DE OUTUBRO
 
@@ -246,4 +268,4 @@ f) Sempre que necessário para um diagnóstico diferencial seguro, devem ser sol
 
 g) O valor final global da incapacidade será apresentado em percentagem e arredondado (por excesso ou por defeito) para a unidade mais próxima.
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/165a00/36423644.pdf))](https://files.diariodarepublica.pt/1s/1997/07/165a00/36423644.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/165a00/36423644.pdf)

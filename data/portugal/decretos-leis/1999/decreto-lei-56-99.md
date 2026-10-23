@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/56/1999/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1999-165240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:15:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c90263c7548aa80cdcdbdf51479eb1e58721979b45b5b6b17f69df1b598cf9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79190e7aefb2af80c5acfeca100572c946644ef203bcde8fef88717220f412cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:15:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
 - Aproximação das Legislações
-- Gestão de Resíduos
+- Atividade Industrial
 - Controlo de Qualidade
 - Definição de Competências
 - Descarga de ÁGUA Residual
 - Fiscalização
-- Proteção do Ambiente
+- Gestão de Resíduos
 - Poluição da água
 - Poluição Industrial
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:70476206:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667919:por
+  label: "Alterados os arts. 1º e 3º e aditados os caps. VIII, IX, X e XI ao anexo II pelo DEC LEI.390/99.1999.09.30.MAM DR.IS-A\
+    \ [229]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/390-1999-667919
+  date: '1999-09-30'
 - type: cites
   target: celex:31986L0280
   label: null
@@ -94,16 +100,32 @@ relationships:
   target: celex:31996L0061
   label: null
   source: http://data.europa.eu/eli/dir/1996/61/oj
+- type: corrected_by
+  target: pt:dre:219932:por
+  label: "Rectificado pela DECL-RECT.10-S/99.1999.04.30.PCM DR.IS-A [101]SUPL DE 30/ABR/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-s-1999-219932
+  date: '1999-04-30'
+- type: repealed_by
+  target: pt:dre:342131:por
+  label: "Revogadas as als. B) das rubricas i a xi do anexo ii pelo DEC LEI.103/2010.24.09.2010.MAOT, DR.IS [187] de 24.09.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-2010-342131
+  date: '2010-09-24'
+- type: repealed_by
+  target: pt:dre:70476206:por
+  label: Revogado pelo(a) Decreto-Lei n.º 218/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-2015-70476206
+  date: '2015-10-07'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:15:19Z'
   warnings: []
   errors: []
 ---
@@ -272,15 +294,15 @@ No que respeita às substâncias referidas no n.º 1 do artigo 3.º, consideram-
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 1998. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 10 de Fevereiro de 1999.**
+Promulgado em 10 de Fevereiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Fevereiro de 1999.**
+Referendado em 11 de Fevereiro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Disposições gerais
 
@@ -296,13 +318,13 @@ Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 1998. - António 
 
 A) Valores limite das normas de descarga
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
 
 (nota 1) O artigo 8.º aplica-se, nomeadamente, à utilização do tetracloreto de carbono nas lavandarias industriais.
 
 B) Objectivos de qualidade (ver nota 1)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
 
 (nota 1) Sem prejuízo do disposto no artigo 9.º, sempre que se demonstrar que não existe qualquer problema no que se refere ao cumprimento e à manutenção permanente do objectivo de qualidade acima referido, pode ser instaurado um processo de controlo simplificado.
 
@@ -318,7 +340,7 @@ II - Disposições específicas relativas ao DDT (ver nota 1) (ver nota 2) n.º 
 
 A) Valores limite das normas de descarga (ver nota 3)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
 
 (nota 1) A soma dos isómetros 1, 1, 1,-tricloro- 2, 2 bis (p-clorofenil) etano.
 
@@ -334,7 +356,7 @@ A) Valores limite das normas de descarga (ver nota 3)
 
 B) Objectivos de qualidade (ver nota 1)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
 
 (nota 1) A concentração de DDT nas águas, nos sedimentos, nos moluscos, nos crustáceos e nos peixes não devem aumentar de forma significativa com o tempo.
 
@@ -350,7 +372,7 @@ III - Disposições específicas relativas ao pentaclorofenol (PCP) (ver nota 1)
 
 A) Valores limite das normas de descarga
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
 
 (nota 1) O composto químico 2, 3, 4, 5, 6-pentacloro-1 hidroxibenzeno e os respectivos sais.
 
@@ -358,7 +380,7 @@ A) Valores limite das normas de descarga
 
 B) Objectivos de qualidade (ver nota 1)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
 
 (nota 1) A concentração de PCP nos sedimentos, nos molúscos, nos crustáceos e nos peixes não deve aumentar de forma significativa com o tempo.
 
@@ -382,7 +404,7 @@ Isodrina - n.º CAS - 465-73-6 (ver nota 4)
 
 A) Valores limite das normas de descarga
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
 
 (nota 1) Composto químico C(índice 12)H(índice 8)Cl(índice 6).
 
@@ -402,7 +424,7 @@ A) Valores limite das normas de descarga
 
 B) Objectivos de qualidade (ver nota 1)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
 
 (nota 1) A concentração de aldrina, dialdrina, endrina e isodrina nos sedimentos, nos moluscos, nos crustáceos e nos peixes não deve aumentar de forma significativa com o tempo.
 
@@ -418,11 +440,11 @@ V - Disposições específicas relativas ao hexaclorobenzeno (HCB) - n.º CAS - 
 
 A) Valores limite das normas de descarga
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
 
 B) Objectivos de qualidade (ver nota 1)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
 
 (nota 1) Não deve haver, com o tempo, qualquer aumento significativo, directo ou indirecto, na poluição resultante de descargas de HCB que afectem a sua concentração em sedimentos, moluscos, crustáceos e peixes.
 
@@ -438,11 +460,11 @@ VI - Disposições específicas relativas ao hexaclorubutadieno (HCBD) - n.º CA
 
 A) Valores limite das normas de descarga
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
 
 B) Objectivos de qualidade (ver nota 1)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
 
 (nota 1) Não deve haver, com o tempo, qualquer aumento significativo, directo ou indirecto, na poluição resultante de descargas de HCBD que afectem a sua concentração em sedimentos, moluscos, crustáceos e peixes.
 
@@ -458,13 +480,13 @@ VII - Disposições específicas relativas ao clorofórmio (CHCL(índice 3)) (ve
 
 A) Valores limite das normas de descarga
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
 
 (nota 1) O artigo 8.º é aplicável no caso de serem identificadas outras fontes para além das constantes do presente anexo.
 
 B) Objectivos de qualidade (ver nota 1)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)](https://files.diariodarepublica.pt/1s/1999/02/048a00/10671075.pdf)
 
 (nota 1) Sem prejuízo do artigo 9.º, sempre que haja indicações da existência de qualquer problema no que se refere à observância e à manutenção permanente do objectivo de qualidade, pode ser criado um processo de controlo simplificado.
 

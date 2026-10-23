@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/019a00/03380342.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/10/2001/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2001-344926
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:23:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5832a9ebfd18ce9362dc03f75bb04cafccccda17389c43476553adb3a04b5ea3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff9e0085d62d5c872257ed35d119bd1cb63fa3a1e155b9e403c52c90bf001a38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:23:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Agência Internacional de Energia
 - Aproximação das Legislações
+- Combustível
 - Contra-ordenação
 - Direcção Geral de Energia
+- Fiscalização
+- Madeira.região Autónoma
 - Petróleo
 - Produto Petrolífero
 - Reservas de Combustível
-- Combustível
-- Fiscalização
-- Madeira.região Autónoma
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:483938:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:347541:por
+  label: "Alterado o art. 16º, pela LEI.17/2001.2001.07.03.AR, DR.IS-A [152]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/17-2001-347541
+  date: '2001-06-21'
+- type: amended_by
+  target: pt:dre:421437:por
+  label: "Alterados os arts. 1º, 2º, 3º, 4º, 6º, 7º, 8º, 9º, 10º, 12º e 16º, com a redacção introduzida pela Lei 17/2001 de\
+    \ 03-Jul, pelo DEC LEI.339-D/2001.2001.12.27.MECO DR.IS-A [299]5º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/339-d-2001-421437
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:211032:por
+  label: "Alterados os arts. 1º, 4º e 7º, com a redacção conferida pelo Dec Lei 339-D/2001 28-Dez, pelo DEC LEI.71/2004.25.03.2004.MECO,\
+    \ DR.IS-A [72] de 25.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-2004-211032
+  date: '2004-03-25'
 - type: cites
   target: celex:31968L0414
   label: null
@@ -90,16 +107,26 @@ relationships:
   target: celex:31998L0093
   label: null
   source: http://data.europa.eu/eli/dir/1998/93/oj
+- type: corrected_by
+  target: pt:dre:337859:por
+  label: "Rectificada pela DECL-RECT.9-E/2001.2001.03.27.PCM, DR.IS-A [77]2ºSupl. de 31/Mar/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/9-e-2001-337859
+  date: '2001-03-27'
+- type: repealed_by
+  target: pt:dre:483938:por
+  label: "Revogado pelo DEC LEI.165/2013.16.12.2013.MAOTE, DR.IS [243] de 16.12.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/165-2013-483938
+  date: '2013-12-16'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:23:39Z'
   warnings: []
   errors: []
 ---
@@ -324,12 +351,12 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Novembro de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Júlio de Lemos de Castro Caldas - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - Mário Cristina de Sousa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 8 de Janeiro de 2001.**
+Promulgado em 8 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Janeiro de 2001.**
+Referendado em 11 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

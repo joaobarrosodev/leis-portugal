@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/06000/0002600029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/43/2025/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2025-912444915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2958427e1a6bf68617d50fe277d7bac73831899e2615335ae237c7a145150242
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 600de508a7910739193be59d67a5af3546a79abdd72b841da983cdc6671c7cbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
 - Definição de Competências
 - Direção Geral da Administração Escolar
-- Educador de Infância
-- Junta Médica
 - Direção Geral dos Estabelecimentos Escolares
-- Inspecção Geral da Educação e Ciência
-- Pessoal Docente
-- Mobilidade de Pessoal
 - Doença
+- Educador de Infância
+- Função Pública
 - Funcionário Público
+- Inspecção Geral da Educação e Ciência
+- Junta Médica
+- Mobilidade de Pessoal
+- Pessoal Docente
 - Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:41/2022
+  label: Altera, a partir de 27 de março de 2025, os artigos 4.º, 5.º, 7.º, 8.º, 9.º, 10.º, 11.º e 12.º e adita o artigo 4.º-A
+    ao Decreto-Lei n.º 41/2022, de 17 de junho, Diário da República n.º 116/2022, Série I
+  source: null
+  date: '2022-06-17'
+- type: amends
+  target: pt:numero:despacho:7716-A/2022
+  label: Mantém em vigor, nos termos do n.º 2 do artigo 4.º do presente diploma, o Despacho n.º 7716-A/2022, de 21 de junho,
+    Diário da República n.º 118/2022, 2º Suplemento, Série II
+  source: null
+  date: '2022-06-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/2008/07/15/p/dre
   label: null
@@ -95,16 +107,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:184830277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185043381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546068:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:23Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +191,9 @@ iii) Parente no primeiro grau da linha reta ascendente.
 
 2 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -167,13 +205,17 @@ b) A deslocação se realize para agrupamento de escolas ou para escola não agr
 
 3 - [...]
 
-###### Artigo 7.º — Determinação da capacidade de acolhimento e colocação dos docentes
+Artigo 7.º
+
+Determinação da capacidade de acolhimento e colocação dos docentes
 
 1 - A determinação da capacidade de acolhimento dos agrupamentos de escolas e das escolas não agrupadas é realizada pela Direção-Geral da Administração Escolar, não podendo exceder 10 % da dotação global do quadro de pessoal docente do agrupamento de escolas ou da escola não agrupada de destino.
 
 2 - A colocação dos docentes é realizada pela Direção-Geral da Administração Escolar.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A colocação dos docentes em mobilidade por motivo de doença efetua-se de acordo com os seguintes critérios de preferência:
 
@@ -193,17 +235,23 @@ d) [Anterior alínea c).]
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - Sempre que um docente comprove ter-se verificado um agravamento da sua condição de saúde, no decurso do ano letivo, pode instruir novo pedido de mobilidade, sendo colocado em função da capacidade de acolhimento que subsista nos agrupamentos de escolas e nas escolas não agrupadas para os quais manifeste preferência, determinada nos termos do artigo 7.º
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Sem prejuízo das situações previstas no artigo anterior, a mobilidade por motivo de doença tem a duração de um ano escolar, podendo ser renovada por mais dois anos escolares, desde que se mantenham os requisitos e as condições previstos no presente decreto-lei, independentemente da existência ou não de componente letiva e sem prejuízo da capacidade de acolhimento.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A verificação do cumprimento dos requisitos e das condições da mobilidade por motivo de doença concretiza-se através de:
 
@@ -213,7 +261,9 @@ b) [...]
 
 2 - A não comprovação das declarações prestadas pelos docentes determina, consoante o caso, a exclusão do procedimento de mobilidade por motivo de doença ou a anulação da mobilidade autorizada, bem como a instauração de procedimento disciplinar e a comunicação ao Ministério Público para o efeito de eventual responsabilidade criminal a que haja lugar.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 O regime de mobilidade de docentes por motivo de doença estabelecido no presente decreto-lei é objeto de avaliação até ao final do ano escolar de 2025/2026, tendo em vista a apreciação da sua aplicação e a sua eventual revisão.»
 
@@ -249,12 +299,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Fernando Alexandre - Ana Paula Martins.
 
-**Promulgado em 19 de março de 2025.**
+Promulgado em 19 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 20 de março de 2025.**
+Referendado em 20 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118856578

@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/601-1980-460789
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:24:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44bb73d7ff7693bd205718dd782edbf00d558f7ae523dc1198f54cf8921cc014
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79f5bb74b0b32561f58fa63d96591b54e037f95a5d8eb50a05ae478f47e17176
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:24:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Comando Geral da Guarda Fiscal
+- Contrato
+- Guarda Fiscal
+relationships:
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:24:37Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +102,9 @@ Tendo em vista o artigo 10.º do [Decreto-Lei n.º 211/79](https://diariodarepub
 
 Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano, o seguinte:
 
-###### Artigo 1.º É autorizado o Comando-Geral da Guarda Fiscal a celebrar contratos para aquisição de viaturas ligeiras e tipo furgão até ao montante de 11486160$00.
+Artigo 1.º É autorizado o Comando-Geral da Guarda Fiscal a celebrar contratos para aquisição de viaturas ligeiras e tipo furgão até ao montante de 11486160$00.
 
-###### Art. 2.º - 1 - Os encargos resultantes da aquisição a efectuar e a que se refere o artigo anterior não poderão, em cada ano, exceder as seguintes importâncias:
+Art. 2.º - 1 - Os encargos resultantes da aquisição a efectuar e a que se refere o artigo anterior não poderão, em cada ano, exceder as seguintes importâncias:
 
 Em 1980 - 1599900$00;
 
@@ -103,6 +112,6 @@ Em 1981 - 9886260$00.
 
 2 - A importância fixada para 1981 será acrescida do saldo que se apurar no corrente ano.
 
-###### Art. 3.º Os encargos resultantes da execução do disposto no artigo anterior serão satisfeitos pelas dotações da Guarda fiscal atribuídas em 1980 e a atribuir em 1981 através do Orçamento Geral do Estado.
+Art. 3.º Os encargos resultantes da execução do disposto no artigo anterior serão satisfeitos pelas dotações da Guarda fiscal atribuídas em 1980 e a atribuir em 1981 através do Orçamento Geral do Estado.
 
 Ministério das Finanças e do Plano, 2 de Agosto de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.

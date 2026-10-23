@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/089a00/37013702.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/108/2002/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2002-304325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:30:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a88b01bfbd470f1bf9ddf4063150412e6da2529773b4c9c35ce80920f847fc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fab7163c4fcaef4b4cc79686c89c9a8f7fb16d4509caa616451d8c5fb1d02698
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:30:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects:
 - Animação Sócio-cultural
 - Contrato de Seguro
+- Direcção Geral do Turismo
 - Empresa
 - Espetáculos e Divertimentos Públicos
-- Turismo
+- Infraestrutura Turística
 - Promoção Turística
-- Direcção Geral do Turismo
 - Seguro de Acidentes de Trabalho
 - Seguro de Acidentes Pessoais
 - Seguro de Assistência as Pessoas
-- Infraestrutura Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:608703:por
@@ -90,16 +90,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/21/2002/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/21/2002/01/31/p/dre
+- type: cites
+  target: pt:dre:276448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580977:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:608703:por
+  label: "Revogado, a partir de 14.06.2009, o Dec Lei 204/2000 de 01-Set, alterado pelo presente diploma, (revogado na mesma\
+    \ data), pelo DEC LEI.108/2009.15.05.2009.MEI, DR.IS [94] de 15.05.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2009-608703
+  date: '2009-05-15'
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:30:54Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +158,9 @@ Noção
 
 6 - ...
 
-###### Artigo 4.º — Exclusividade e limites
+Artigo 4.º
+
+Exclusividade e limites
 
 1 - ...
 
@@ -158,11 +174,15 @@ c) ...
 
 d) ...
 
-###### Artigo 18.º — Garantias exigidas
+Artigo 18.º
+
+Garantias exigidas
 
 Para garantia da responsabilidade perante clientes emergente das actividades previstas no artigo 3.º, as empresas de animação turística devem prestar um seguro, nos termos previstos no artigo 20.º
 
-###### Artigo 20.º — Seguros
+Artigo 20.º
+
+Seguros
 
 1 - Sem prejuízo do disposto no n.º 5, as empresas de animação turística estão obrigadas a celebrar, nos termos estabelecidos no número seguinte, um seguro adequado a garantir os riscos decorrentes das actividades que pretendam exercer.
 
@@ -188,7 +208,9 @@ c) Seguro de responsabilidade civil, garantindo (euro) 50000 por sinistro, e anu
 
 5 - Em caso de actividades de reduzido risco, a Direcção-Geral do Turismo pode dispensar a celebração de seguro.
 
-###### Artigo 21.º — Causas de exclusão
+Artigo 21.º
+
+Causas de exclusão
 
 1 - São excluídos do seguro:
 
@@ -204,12 +226,12 @@ O presente diploma entra em vigor no dia imediatamente a seguir ao da sua public
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Guilherme d'Oliveira Martins - Luís Garcia Braga da Cruz.
 
-**Promulgado em 22 de Março de 2002.**
+Promulgado em 22 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Março de 2002.**
+Referendado em 28 de Março de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

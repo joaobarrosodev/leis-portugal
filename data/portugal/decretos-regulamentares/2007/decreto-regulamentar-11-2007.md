@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/02/04100/13781380.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/11/2007/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c903424fd1a7fce15d88bd65b1df00d9584c64436c59098fb7b297874d3d918
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bad2c4e07618ae050ce69667b18715379b2ddcc927947507d9f776a10920189
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Direção Geral de Veterinária
-- Definição de Competências
-- Diretor Geral
 - Controlo Sanitário
+- Definição de Competências
+- Direção Geral de Veterinária
+- Diretor Geral
 - Fiscalização
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orgânica
+- Pessoal Dirigente
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:553438:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:247711:por
+  label: "Alterado o art. 3º e o anexo pelo DEC LEI.32/2008.25.02.2008.MADRP, DR.IS [39] de 25.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2008-247711
+  date: '2008-02-25'
+- type: amended_by
+  target: pt:dre:602066:por
+  label: "Aditados os arts. 8º-A e 8º-B pelo DR.4/2009.13.02.2009.MADRP, DR.IS [31] de 13.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-2009-602066
+  date: '2009-02-13'
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extinta, sendo objecto de fusão, a Direção-Geral de Veterinária (criada no âmbito do então Ministério da Agricultura,\
+    \ do Desenvolvimento Rural e das Pescas pelo Dec Lei 74/96 de 18-Jun, já revogado), cujas atribuições e competências constam\
+    \ do presente diploma, alterado pelo Dec Lei 32/2008 de 25-Fev e pelo DR 4/2009 de 13-Fev, pelo DEC LEI.7/2012.17.01.2012.MAMAOT,\
+    \ DR.IS [12] de 17.01.2012, nos termos do disposto no nº 3 do seu art. 34º; sendo as suas atribuições integradas na Direção-Geral\
+    \ de Alimentação e Veterinária, criada naquele diploma. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
+- type: amended_by
+  target: pt:dre:553438:por
+  label: "Determinada a sucessão pela Direção-Geral de Alimentação e Veterinária (DGVA) nas atribuições da ex-Direção-Geral\
+    \ de Veterinária, constantes deste diploma, que é revogado, a partir de 01.04.2012 pelo DR.31/2012.13.03.2012.MAMAOT,\
+    \ DR.IS [52] de 13.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/31-2012-553438
+  date: '2012-03-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/1997/05/02/p/dre
   label: null
@@ -95,16 +121,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:381752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:56Z'
   warnings: []
   errors: []
 ---
@@ -223,16 +265,16 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 2 de Fevereiro de 2007.**
+Promulgado em 2 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 5 de Fevereiro de 2007.**
+Referendado em 5 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Mapa a que se refere o artigo 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/04100/13781380.pdf))](https://files.diariodarepublica.pt/1s/2007/02/04100/13781380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/04100/13781380.pdf)

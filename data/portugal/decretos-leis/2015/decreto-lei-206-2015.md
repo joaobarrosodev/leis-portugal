@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/18600/0844108442.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/206/2015/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2015-70361623
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75750e125cb5dce3fc3134a323e07361db873cf15ace07f35345f5e62401748e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 933a7f5a5aa4a05ab253f076898f6be429fe8428213925a626ec91ec0973a513
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
-- Controlo Financeiro
-- Saúde
-- Definição de Competências
-- Administração Regional de Saúde
-- Serviço Nacional de Saúde
 - Administração Central do Sistema de Saúde
-- Orgânica
+- Administração Regional de Saúde
+- Controlo Financeiro
+- Definição de Competências
+- Gestão Financeira
 - Ministério da Saúde
+- Orgânica
+- Saúde
+- Serviço Nacional de Saúde
 - Transferência de Competências
 relationships:
 - type: cites
@@ -89,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/35/2012/02/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/35/2012/02/15/p/dre
+- type: cites
+  target: pt:dre:543026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58940164:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:18Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +201,9 @@ Instrumentos de gestão de pessoal
 
 Para efeitos do disposto no artigo 22.º-A do Estatuto do Serviço Nacional de Saúde, aprovado pelo [Decreto-Lei n.º 11/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1993-586006), de 15 de janeiro, a ACSS, I. P., é equiparada a serviço ou estabelecimento do Serviço Nacional de Saúde.
 
-###### Artigo 13.º-B — Controlo financeiro
+Artigo 13.º-B
+
+Controlo financeiro
 
 1 - A Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E. (IGCP, E. P. E.), remete, numa base trimestral, informação à ACSS, I. P., sobre os montantes, de disponibilidades e aplicações, aplicados pelos hospitais do SNS, independentemente da respetiva natureza jurídica, e das Administrações Regionais de Saúde, I. P.
 
@@ -203,12 +217,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação
 
 Visto e aprovado em Conselho de Ministros de 27 de agosto de 2015. - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Fernando Serra Leal da Costa.
 
-**Promulgado em 16 de setembro de 2015.**
+Promulgado em 16 de setembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de setembro de 2015.**
+Referendado em 17 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

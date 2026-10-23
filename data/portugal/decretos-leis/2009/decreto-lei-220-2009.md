@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17400/0612206124.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/220/2009/09/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2009-489254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f970b64847fb5d4d8b9ad2442cc64048c012b0c437f2c8b70564c1f5a77548e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3de7d468f47dce1ab163e3ee014c98314e63f45960908fbad0c10d07c9e38b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,6 +67,7 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ensino Artístico
+- Ensino Básico
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
@@ -75,7 +76,6 @@ subjects:
 - Mestrado
 - Pessoal Docente
 - Qualificação Profissional
-- Ensino Básico
 - Regime Jurídico
 relationships:
 - type: amended_by
@@ -102,16 +102,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:25344769:por
+  label: "Revogado, sem prejuízo do disposto no art. 29.º, a partir de 19.05.2014, pelo DEC LEI.79/2014.14.05.2014.MECI, DR.IS\
+    \ [92] de 14.05.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2014-25344769
+  date: '2014-05-14'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:45Z'
   warnings: []
   errors: []
 ---
@@ -224,12 +254,12 @@ A partir do ano lectivo de 2010-2011, só podem ocorrer novas admissões de estu
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Jorge Miguel de Melo Viana Pedreira - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 31 de Agosto de 2009.**
+Promulgado em 31 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de Setembro de 2009.**
+Referendado em 1 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22721-1967-312056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a876cb63d79b2b33d9fa4ab262ee033a0eda100bdeeaddf01f5945a2d2f27a24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95ca1266268f67a3e39b8da0a35c6f57586caaff72b1e2a2850eb4a0b3bb42c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:186140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313222:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:41Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +95,7 @@ Sendo conveniente tornar extensivas às províncias ultramarinas as facilidades 
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º III da base LXXXIII da Lei Orgânica do Ultramar Português, que seja aplicado nas províncias ultramarinas o artigo 5.º do [Decreto n.º 29992](https://diariodarepublica.pt/dr/detalhe/decreto/29992-1939-186140), de 21 de Outubro de 1939, na forma que lhe foi dada pelo artigo único do [Decreto n.º 47700](https://diariodarepublica.pt/dr/detalhe/decreto/47700-1967-313222), de 15 de Maio de 1967, com a seguinte redacção:
 
-###### Art. 5.º A publicação no Diário do Governo, determinada pelo Ministro da Educação Nacional, e por ordem do Ministro do Ultramar transcrita no Boletim Oficial, dos despachos proferidos nos termos do artigo 1.º torna obrigatória a sua observância, sem necessidade de exibição de qualquer outro título.
+Art. 5.º A publicação no Diário do Governo, determinada pelo Ministro da Educação Nacional, e por ordem do Ministro do Ultramar transcrita no Boletim Oficial, dos despachos proferidos nos termos do artigo 1.º torna obrigatória a sua observância, sem necessidade de exibição de qualquer outro título.
 
 Ministério do Ultramar, 15 de Junho de 1967. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 

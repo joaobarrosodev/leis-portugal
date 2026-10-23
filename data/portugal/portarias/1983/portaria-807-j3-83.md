@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 174/1983, 6º Suplemento, Série I de 1983-07-30
   number: '174'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 2832-(81) a 2832-(81)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/17406/00810081.pdf
 entry_into_force_dates: []
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/807-j3-1983-435461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T07:50:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 531d10649083bea7bc109e83f4d5f4b3029ef5a9df39a9f4b62567062b589629
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81e824865d9b575f7b20c341c56b52d127bc91c26fe8cf941a33cf33becb12f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:50:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Hospitalar
+- Figueira da Foz
+- Hospital Distrital
+- Médico
+- Pessoal Técnico Superior
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:554610:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:554610:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital da Figueira da Foz, aprovado pela Port 771/80, de 02-Out, na\
+    \ redação do presente diploma, pela PORT.921/90.01.10.1990.MF, DR.IS [227] de 01.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/921-1990-554610
+  date: '1990-10-01'
+- type: cites
+  target: pt:dre:318290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:50:24Z'
   warnings: []
   errors: []
 ---
@@ -95,10 +123,10 @@ Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finança
 
 Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa.
 
-**Assinada em 8 de Junho de 1983.**
+Assinada em 8 de Junho de 1983.
 
 Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro dos Assuntos Sociais, Adalberto Paulo da Fonseca Mendo, Secretário de Estado da Saúde. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
 
 Quadro de pessoal do Hospital Distrital da Figueira da Foz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/17406/00810081.pdf))](https://files.diariodarepublica.pt/1s/1983/07/17406/00810081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/17406/00810081.pdf)

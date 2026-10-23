@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/153a00/30463049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/184/1998/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1998-485945
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:58:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af6cf8299976dcbc57909abca197a0bfd44e725e177889d1153187fe5fecbedd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b932478a0de6e7430ea01f3adbc65490b2aba51c1afa39244616102c41dcd203
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:58:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Secretaria Geral
-- Primeiro-ministro
-- Remuneração Acessória
-- Orgânica
 - Ceger
+- Orgânica
+- Pessoal Dirigente
 - Presidência do Conselho de Ministros
+- Primeiro-ministro
 - Quadro de Pessoal
 - Regime de Pessoal
+- Remuneração Acessória
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:1321840:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:199447:por
+  label: "Declaradas inconstitucionais, com força obrigatória geral, as normas do n.º 1 do art. 9.º e do n.º 1 do art. 16.º\
+    \ do presente diploma, limitando parcialmente os efeitos de inconstitucionalidade por razões de segurança jurídica, os\
+    \ membros do quadro do CEGER que tenham já preenchido, na data da publicação do presente Acordão, as condições previstas\
+    \ naquelas normas que lhes permitiram adquirir o vinculo definitivo, pelo AC.208/2002.2002.05.21.TCS DR.IS-A [155] DE\
+    \ 08/JUL/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/208-2002-199447
+  date: '2002-05-21'
+- type: amended_by
+  target: pt:dre:548240:por
+  label: "Dada nova redacção aos arts. 1.º, 2.º, 3.º e 7.º e revogado o n.º 2 do art. 3.º, art. 9.º e art. 16.º do presente\
+    \ diploma, pelo DEC LEI.116-B/2006.16.06.2006.PCM, DR.IS-A [115-2ºSupl] de 16.06.2006, que o republica na íntegra.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-b-2006-548240
+  date: '2006-06-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/235/1993/07/03/p/dre
   label: null
@@ -91,16 +106,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/899/1993/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/899/1993/09/20/p/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672131:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521251:por
+  label: "Revogado o Dec Lei 429/89 de 15-Fev, alterado pelo presente diploma, pelo DEC LEI.163/2007.03.05.2007.PCM, DR.IS\
+    \ [85] de 03.05.2007, a partir de 01.06.2007.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-2007-521251
+  date: '2007-05-03'
 article_structure:
   article_count: 18
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:58:13Z'
   warnings: []
   errors: []
 ---
@@ -281,15 +322,15 @@ O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 18 de Junho de 1998.**
+Promulgado em 18 de Junho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Junho de 1998.**
+Referendado em 24 de Junho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 Do MAPA I ao MAPA IV
 

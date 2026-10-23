@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/10/19800/0496504970.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/80/2018/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2018-116673880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bcf23d3f5c32c98e6c87f86936dd8f54f40b5af79ae10b9dcaf4564beef90aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfaa59f50f91fcd9380155910e6f2fce65aeeb989e3c0af35eacb5667a038d8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medicina
-- Investigação Científica e Tecnológica
 - Comissão de Ética para a Investigação Clínica
 - Comissão de Ética para a Saúde
 - Definição de Competências
+- Ensino Superior
 - Grupo Coordenador
+- Investigação Científica e Tecnológica
 - Mandato
+- Medicina
 - Presidente
+- Rede Nacional das Comissões de Ética para a Saúde
 - Regime Jurídico
 - Regulamento CE
-- Ensino Superior
 - Setor Público
-- Rede Nacional das Comissões de Ética para a Saúde
 relationships:
 - type: cites
   target: celex:32014R0536
@@ -100,16 +100,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/64/2015/03/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/64/2015/03/05/p/dre
+- type: cites
+  target: pt:dre:25344024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66674009:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:13Z'
   warnings: []
   errors: []
 ---
@@ -412,12 +424,14 @@ O presente decreto-lei entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de setembro de 2018. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - Manuel Frederico Tojal de Valsassina Heitor - Adalberto Campos Fernandes.
 
-**Promulgado em 9 de outubro de 2018.**
+Promulgado em 9 de outubro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de outubro de 2018.**
+Referendado em 10 de outubro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111721804

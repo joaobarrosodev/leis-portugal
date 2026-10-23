@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/99/2012/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2012-553046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c373cd94ddb16a1299f5f30dbad8c12d43c76fac6b42e07b168c921214a0ca47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5be331b37a55713678be765f7d67ed1142690eb000d3db3ef95957b76fcdc2b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
 - Comissão Interministerial
 - Comissão Interministerial de Orientação Estratégica dos Fundos Comunitários e Extracomunitários
 - Definição de Competências
 - Empresa Privada
 - Feader
 - FEDER
-- Fundo de Coesão
-- Secretaria Geral
-- Programa Quadro Solidariedade e Gestão dos Fluxos Migratorios
-- Ministério das Finanças
+- Financiamento
 - FSE
-- Fundo Europeu para a Integração de Nacionais de Países Terceiros
+- Fundo de Coesão
 - Fundo Europeu de Regresso
+- Fundo Europeu para a Integração de Nacionais de Países Terceiros
 - Fundo Europeu para as Fronteiras Externas
 - Fundo Europeu para os Refugiados
+- Ministério das Finanças
+- Programa Quadro Solidariedade e Gestão dos Fluxos Migratorios
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-
@@ -123,16 +123,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/84-a/2007/12/10/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/84-a/2007/12/10/p/dre
+- type: cites
+  target: pt:dre:241045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642517:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:17Z'
   warnings: []
   errors: []
 ---
@@ -235,12 +315,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e vigor
 
 Visto e aprovado em Conselho de Ministros de 15 de março de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Sacadura Cabral Portas - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Fernando Ferreira Santo - Miguel Fernando Cassola de Miranda Relvas - Sérgio Paulo Lopes da Silva Monteiro - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 20 de abril de 2012.**
+Promulgado em 20 de abril de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de abril de 2012.**
+Referendado em 23 de abril de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

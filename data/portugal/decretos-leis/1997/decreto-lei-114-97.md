@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/114/1997/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1997-385203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:48:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1ff8cb3d60f83d99ffd0bd67c4b00f806f24e68a8d80b55fcd20822a73fca09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1386d83ea1e14025d09f659bf7092e58320996269a66fa6baf0ff276000065b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:48:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jurisdição
 - Criação de Serviços
 - Definição de Competências
 - Direito Administrativo
 - Direito Fiscal
 - Estatuto
-- Pessoal de Justiça
 - Instalação de Serviços
 - Integração de Trabalhadores
+- Jurisdição
 - Magistrado do Ministério Público
 - Magistrado Judicial
 - Orgânica
+- Pessoal de Justiça
 - Quadro de Pessoal
 - Secretaria Judicial
 - Supremo Tribunal Administrativo
+- Tribunal
 - Tribunal Administrativo
 - Tribunal Administrativo e Fiscal
 - Tribunal Central Administrativo
 - Tribunal de Círculo
 - Tribunal Fiscal
-- Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:380127:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:380127:por
+  label: "Alterada a redacção dos arts. 28º, 46º e do Cap. IV, aditado um art. 27º-A e um Cap. IV-A, ao Dec Lei 374/84 de\
+    \ 29-Nov DR.IS [277], com a alteração decorrente do presente diploma, pelo DEC LEI.301-A/99.1999.08.05.MJ, DR.IS-A [181]2ºSUPL\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/301-a-1999-380127
+  date: '1999-08-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/229/1996/11/29/p/dre
   label: null
@@ -116,16 +123,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1177/1993/11/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1177/1993/11/10/p/dre
+- type: cites
+  target: pt:dre:158634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687019:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 8
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:48:59Z'
   warnings: []
   errors: []
 ---
@@ -154,55 +197,55 @@ Os artigos 1.º, 3.º, 7.º, 11.º, 13.º, 14.º, 15.º, 17.º, 22.º, 44.º, 45
 
 Os quadros dos magistrados do Supremo Tribunal Administrativo são os fixados nos mapas I e II anexos, com as alterações ao mapa II constantes do mapa VIII anexo ao [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, na redacção do [Decreto-Lei n.º 312/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1993-659960), de 15 de Setembro.
 
-###### Artigo 3.º
+Artigo 3.º
 
 Compete ao secretário chefiar a secretaria e dar posse ao pessoal referido no mapa anexo à [Portaria n.º 1177/93](https://diariodarepublica.pt/dr/detalhe/portaria/1177-1993-581269), de 10 de Novembro.
 
-###### Artigo 7.º
+Artigo 7.º
 
 O quadro da secretaria e dos serviços de apoio do Supremo Tribunal Administrativo é o fixado no mapa anexo à [Portaria n.º 1177/93](https://diariodarepublica.pt/dr/detalhe/portaria/1177-1993-581269), de 10 de Novembro.
 
-###### Artigo 11.º
+Artigo 11.º
 
 1 - ...
 
 2 - O funcionário a que se refere o número anterior tem direito ao abono de gratificação de montante equivalente a 10% do valor do índice correspondente ao escalão 1 da escala salarial da categoria de assessor principal do regime geral.
 
-###### Artigo 13.º
+Artigo 13.º
 
 Os quadros dos magistrados do Tribunal Central Administrativo são os fixados nos mapas V e VI anexos.
 
-###### Artigo 14.º
+Artigo 14.º
 
 À secretaria e aos serviços de apoio do Tribunal Central Administrativo são aplicáveis, com as necessárias adaptações, as disposições correspondentes aplicáveis à secretaria do Supremo Tribunal Administrativo.
 
-###### Artigo 15.º
+Artigo 15.º
 
 O quadro da secretaria e dos serviços de apoio do Tribunal Central Administrativo é o fixado no mapa VI-A anexo.
 
-###### Artigo 17.º
+Artigo 17.º
 
 Os quadros dos magistrados dos tribunais administrativos de círculo são os fixados nos mapas VIII e IX anexos, com as alterações ao mapa IX constantes do mapa VIII anexo ao [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, na redacção do [Decreto-Lei n.º 312/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1993-659960), de 15 de Setembro.
 
-###### Artigo 22.º
+Artigo 22.º
 
 Os quadros das secretarias e dos serviços de apoio dos tribunais administrativos de círculo são os fixados no mapa anexo à [Portaria n.º 1177/93](https://diariodarepublica.pt/dr/detalhe/portaria/1177-1993-581269), de 10 de Novembro.
 
-###### Artigo 44.º
+Artigo 44.º
 
 Nas sessões, os vice-presidentes do Supremo Tribunal Administrativo e do Tribunal Central Administrativo ocupam lugar, seguidamente ao do presidente, segundo a sua antiguidade na função.
 
-###### Artigo 45.º
+Artigo 45.º
 
 De cada acórdão do Supremo Tribunal Administrativo e do Tribunal Central Administrativo é elaborado um sumário doutrinal, da responsabilidade do relator.
 
-###### Artigo 46.º
+Artigo 46.º
 
 1 - Os juízes designados para proceder a inspecções e instruir processos disciplinares, de averiguações, inquérito e sindicância nos tribunais administrativos e fiscais podem ser secretariados por funcionários do Supremo Tribunal Administrativo ou do Tribunal Central Administrativo por eles indicados, obtida a concordância do respectivo presidente.
 
 2 - ...
 
-###### Artigo 47.º
+Artigo 47.º
 
 1 - No Tribunal Central Administrativo e no Tribunal Administrativo de Círculo de Lisboa os turnos de férias e os demais previstos na lei de processo são fixados pelo presidente e pelo juiz a que se refere o artigo 50.º do [Decreto-Lei n.º 129/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1984-655081), de 27 de Abril, respectivamente.
 
@@ -276,15 +319,15 @@ São revogados os n.os 2 e 3 do artigo 5.º, os n.os 2 e 5 do artigo 10.º, e os
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 22 de Abril de 1997.**
+Promulgado em 22 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Abril de 1997.**
+Referendado em 28 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA V
 
@@ -308,7 +351,7 @@ MAPA VI-A
 
 Quadro da secretaria e dos serviços de apoio do Tribunal Central Administrativo
 
-#### Secção de expediente e contabilidade, duas secções de processos e serviços de apoio:
+Secção de expediente e contabilidade, duas secções de processos e serviços de apoio:
 
 Pessoal:
 
@@ -372,4 +415,4 @@ Juiz - 5.
 
 MAPA XVI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/109a00/22782280.pdf))](https://files.diariodarepublica.pt/1s/1997/05/109a00/22782280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/109a00/22782280.pdf)

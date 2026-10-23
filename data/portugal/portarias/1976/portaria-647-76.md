@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/647-1976-409307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T05:09:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20ded99018ee305a0350cdfba0700cee1ada5d65b5d503db0f957bf98fb444a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6eb35233566d0623e7c15ca340073a9fce3c03b98a3cfc016a35eab708273038
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:09:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Corpo de Polícia dos Estabelecimentos de Marinha
+- Fardamento
+- Ministério da Marinha
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:161891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643160:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:408155:por
+  label: Rectificada pela DECL.DD7955.02.12.1976.CR, DR.IS [281] de 02.12.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-408155
+  date: '1976-12-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:09:36Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +106,7 @@ Tornando-se necessário estabelecer os distintivos das categorias de guarda de 3
 
 Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, acrescentar o seguinte ao artigo 18.º do Regulamento de Uniformes para Uso do Pessoal do Corpo de Polícia dos Estabelecimentos de Marinha ([Portaria n.º 336/71](https://diariodarepublica.pt/dr/detalhe/portaria/336-1971-643160), de 24 de Junho):
 
-###### Art. 18.º ...
+Art. 18.º ...
 
 7. Os guardas de 3.ª classe usarão dois emblemas nacionais descritos no n.º 4, colocados numa só linha:
 

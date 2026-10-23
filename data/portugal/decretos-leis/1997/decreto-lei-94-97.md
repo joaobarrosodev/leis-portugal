@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/095a00/18231831.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/94/1997/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1997-476918
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc75dddfd0c421e532ad3ae42a251cf0868ef8c7bff70eb3a15ab56d46f44033
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2373d4011764e5cf619e5be1b190d8bc97fd88ee5425999ec17679a7d51215d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Instituto de Investigação das Pescas e do Mar
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:628851:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Sujeitado a superintendência conjunta, cabendo a tutela funcional e patrimonial ao Ministro da Agricultura, Desenvolvimento\
+    \ Rural e Pescas e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida\
+    \ em articulação com o Ministro da Ciência e do Ensino Superior, pelo Dec Lei 120/2002 de 03-Mai, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
+- type: amended_by
+  target: pt:dre:425486:por
+  label: "Fundido o Instituto de Investigação das Pescas e do Mar, com o Instituto Nacional de Investigação Agrária, dando\
+    \ origem ao Instituto Nacional de Investigação Agrária e das Pescas, pelo DEC LEI.246/2002.2002.11.08.MADRP,DR.IS-A [258]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-2002-425486
+  date: '2002-11-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/321/1993/09/21/p/dre
   label: null
@@ -88,16 +102,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/11/1994/01/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/11/1994/01/05/p/dre
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655515:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:628851:por
+  label: "Revogado, a partir de 01.11.2007, com excepção do disposto no art. 30º, pelo DEC LEI.356/2007.29.10.2007.MADRP,\
+    \ DR.IS [208] de 29.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/356-2007-628851
+  date: '2007-10-29'
 article_structure:
   article_count: 37
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:18Z'
   warnings: []
   errors: []
 ---
@@ -510,7 +542,9 @@ d) A Repartição de Aprovisionamento e Património (RAP).
 
 3 - A DSA é dirigida por um director, equiparado, para todos os efeitos, a director de serviços.
 
-###### Artigo 20.º — Divisão de Navios
+###### Artigo 20.º
+
+##### Divisão de Navios
 
 1 - À DN compete assegurar a execução do plano de cruzeiros técnico-científicos e a operacionalidade dos navios de investigação e das outras embarcações do -IPIMAR, incumbindo-lhe:
 
@@ -712,16 +746,16 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - Maria Manuela de Brito Arcanjo Marques da Costa - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 3 de Abril de 1997.**
+Promulgado em 3 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Abril de 1997.**
+Referendado em 10 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 QUADRO DE PESSOAL DIRIGENTE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/095a00/18231831.pdf))](https://files.diariodarepublica.pt/1s/1997/04/095a00/18231831.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/095a00/18231831.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/08/15200/56585670.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/162/2006/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2006-538616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 695af398a37dd6b6523b33f9883e8053deed2387f7c8128907dbddb5f0150986
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b56ae851b4d8e55b0fb47b97537917d5fe0db009829c51b3f88ab1667bb7f3c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamento Consular
 - Ministério dos Negócios Estrangeiros
+- Regulamento Consular
 relationships:
 - type: amended_by
   target: pt:dre:603208:por
@@ -80,16 +80,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/22/1998/05/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/22/1998/05/12/p/dre
+- type: cites
+  target: pt:dre:319925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516741:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:603208:por
+  label: "Revogado pelo DEC LEI.71/2009.31.03.2009.MNE, DR.IS [63] de 31.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-2009-603208
+  date: '2009-03-31'
 article_structure:
-  article_count: 99
-  section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 89
+  section_count: 35
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:48Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +149,9 @@ d) ...
 
 4 - Nas missões diplomáticas podem ser organizadas secções consulares, nos moldes estabelecidos para os postos consulares.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Os consulados de carreira e as secções consulares são geridos por funcionários diplomáticos.
 
@@ -144,7 +159,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 27.º — Natureza e cargos
+Artigo 27.º
+
+Natureza e cargos
 
 1 - Os titulares dos postos consulares são agentes do Estado, nomeados pelo Governo, e ocupam um dos cargos seguintes:
 
@@ -158,7 +175,9 @@ d) ...
 
 2 - No exercício das suas funções, os cônsules-gerais e os cônsules podem, em circunstâncias excepcionais e devidamente fundamentadas, ser coadjuvados, respectivamente, por cônsules-gerais-adjuntos e cônsules-adjuntos.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -170,13 +189,17 @@ d) ...
 
 5 - A nomeação dos cônsules-gerais-adjuntos e cônsules-adjuntos é feita nos termos do n.º 1.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Os cônsules honorários não têm direito a qualquer remuneração pelo exercício das suas funções.
 
 2 - Em circunstâncias excepcionais e devidamente fundamentadas, os cônsules honorários podem receber subsídios para cobertura de custos relacionados com o exercício das suas funções.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - Na ausência ou impedimento do cônsul titular do posto de carreira, este é gerido, sucessivamente, pelo cônsul-adjunto, pelo vice-cônsul e pelo chanceler mais antigo.
 
@@ -186,7 +209,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - Os postos e as secções consulares prestam a assistência necessária e possível às pessoas singulares e colectivas portuguesas no estrangeiro, nos termos das leis nacionais e estrangeiras em vigor e de acordo com o direito internacional, nomeadamente através de:
 
@@ -216,17 +241,23 @@ m) [Anterior alínea l).]
 
 2 - ...
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 Os postos e as secções consulares podem conceder passaportes e emitir outros documentos de viagem, nos termos das normas jurídicas nacionais, comunitárias e internacionais em vigor.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - Em circunstâncias excepcionais e devidamente fundamentadas, os postos e as secções consulares podem receber e instruir pedidos de bilhete de identidade apresentados por cidadãos portugueses residentes em áreas de jurisdição contíguas, nos termos a legislar em diploma próprio.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - No exercício das funções referidas no artigo anterior, compete aos cônsules titulares de postos de carreira, aos encarregados das secções consulares e aos cônsules-adjuntos por aqueles expressamente autorizados lavrar, nomeadamente, os seguintes actos de registo:
 
@@ -248,7 +279,9 @@ d) ...
 
 6 - ...
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - Os cônsules titulares de postos de carreira e os encarregados das secções consulares e os cônsules-adjuntos por aqueles expressamente autorizados têm competência para a prática de actos notariais relativos a portugueses que se encontrem no estrangeiro ou que devam produzir os seus efeitos em Portugal.
 
@@ -290,21 +323,21 @@ São revogados os artigos 23.º, 24.º e 25.º do [Decreto-Lei n.º 381/97](http
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 2006. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Alberto Bernardes Costa.
 
-**Promulgado em 24 de Julho de 2006.**
+Promulgado em 24 de Julho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 25 de Julho de 2006.**
+Referendado em 25 de Julho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
 Republicação do [Decreto-Lei n.º 381/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1997-319925), de 30 de Dezembro
 
-# PARTE I — Da organização consular
+## PARTE I — Da organização consular
 
 ## TÍTULO I — Dos serviços consulares externos e dos titulares dos postos consulares
 
@@ -636,7 +669,7 @@ d) Recenseamento eleitoral.
 
 As facilidades, privilégios e imunidades relativos aos postos consulares, aos funcionários consulares de carreira e aos outros membros dos postos consulares são os concedidos pelo direito internacional público e pelas normas locais do Estado receptor.
 
-# PARTE II — Da acção consular
+## PARTE II — Da acção consular
 
 ## TÍTULO I — Das funções consulares
 
@@ -1026,7 +1059,7 @@ b) Colaborar com os respectivos postos e secções consulares, nos termos acorda
 
 2 - Os postos e secções consulares poderão apresentar propostas de aprofundamento e sistematização da colaboração referida no número anterior.
 
-# PARTE III — Dos membros do pessoal consular
+## PARTE III — Dos membros do pessoal consular
 
 ## TÍTULO I — Dos membros do pessoal consular
 

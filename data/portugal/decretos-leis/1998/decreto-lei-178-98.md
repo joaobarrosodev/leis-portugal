@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/178/1998/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1998-486974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:58:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b49ced4d553a941ce17da9581fde092ed289b24842d0f06fa7ec68c651fe412a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5aefdaf987da395d7a0bdce3ddf1e3167bd6956effa30e98aec10208071d8fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:58:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Formação Profissional
-- Construção Civil
 - Apoio ao Investimento
+- Comércio
+- Construção Civil
+- Formação Profissional
+- FSE
 - Indústria
 - QCA
-- FSE
 - Regime de Apoio
 - Sindepedip
 - Sistema de Incentivos Regionais
 - Subsídio não Reembolsável
-- Comércio
+- Turismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/172/1997/07/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/172/1997/07/16/p/dre
+- type: cites
+  target: pt:dre:150765:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:58:08Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +135,9 @@ Os artigos 2.º, 3.º, 4.º, 5.º, 13.º e 14.º do [Decreto-Lei n.º 172/97](ht
 
 5 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Os apoios a conceder no âmbito dos regimes previstos no n.º 2 do artigo anterior dirigem-se aos projectos promovidos por empresas, agrupamentos complementares de empresas (ACE), cooperativas e consórcios, constituídos ou a constituir, que:
 
@@ -143,7 +149,9 @@ b) Tenham até 500 trabalhadores, no caso do regime de apoio previsto na alínea
 
 3 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - As entidades promotoras dos projectos candidatos aos regimes de apoio indicados no artigo 2.º podem beneficiar dos incentivos nele previstos desde que:
 
@@ -161,7 +169,9 @@ e) ...
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -169,7 +179,9 @@ e) ...
 
 3 - As condições de acesso referidas no n.º 1 são objecto de regulamentação.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -183,7 +195,9 @@ e) ...
 
 6 - A posição jurídica do promotor no contrato pode ser objecto de cessão, por motivos devidamente justificados, após homologação dos Ministros do Equipamento, do Planeamento e da Administração do Território, da Economia, do Trabalho e da Solidariedade e da Ciência e da Tecnologia, sob proposta da entidade gestora.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -193,12 +207,12 @@ e) ...
 
 Visto e aprovado em Conselho de Ministros, 30 de Abril de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 18 de Junho de 1998.**
+Promulgado em 18 de Junho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Junho de 1998.**
+Referendado em 23 de Junho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

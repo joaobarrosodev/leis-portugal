@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 183/1984, 1º Suplemento, Série I de 1984-08-08
   number: '183'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2428-(3) a 2428-(26)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/08/18301/00030026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,165 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/582-b-1984-370853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T08:08:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07ab4081bda3cb8aed986ddb6cf2383e9f9886fad834b675da29bbc194683df5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0059e27be5579fc76bb2afd81cbc61f99438ca5e835e6224e44e58c24b13695d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:08:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Oficial
+- Ensino Superior
+- Ensino Superior Politécnico
+- Estabelecimento de Ensino
+- Regulamento dos Regimes Especiais de Candidatura a Matricula e Inscrição em Estabelecimentos e Cursos de Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:354707:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:399448:por
+  label: "Dada nova redacção ao art. 32.º da secção III do Regulamento dos Regimes Especiais de Candidatura a Matrícula e\
+    \ Inscrição em Estabelecimentos e Cursos de Ensino Superior e aditada uma al. c) ao n.º 2 do art. 44.º da secção IX do\
+    \ Regulamento referido, aprovado pelo presente diploma, pela PORT.732/84.20.09.1984.ME, DR.IS [219] de 20.09.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/732-1984-399448
+  date: '1984-09-20'
+- type: amended_by
+  target: pt:dre:218570:por
+  label: "Alterado o artigo 44.º e o anexo I do Regulamento, pela PORT.413/86.30.07.1986.MEC, DR.IS [173] de 30.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1986-218570
+  date: '1986-07-30'
+- type: amended_by
+  target: pt:dre:417227:por
+  label: "Alterado o que o anexo I do Regulamento anexo ao presente diploma, na redacção da Portaria 413/86, de 30 de Julho,\
+    \ pela PORT.674/87.31.07.1987.MEC, DR.IS [174] de 31.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/674-1987-417227
+  date: '1987-07-31'
+- type: amended_by
+  target: pt:dre:373252:por
+  label: "Alterado o artigo 19.º do Regulamento pela PORT.450/88.08.07.1988.ME, DR.IS [156] de 08.07.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/450-1988-373252
+  date: '1988-07-08'
+- type: amended_by
+  target: pt:dre:377079:por
+  label: "Alterados a al. a) do art. 30º da secção II bem como o anexo II pela PORT.558/88.17.08.1988.ME, DR.IS [189] de 17.08.1988\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/558-1988-377079
+  date: '1988-08-17'
+- type: cites
+  target: pt:dre:266124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660288:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:382209:por
+  label: Rectificada pela DECL.DD5413.08.08.1984.PCM, DR.IS [189] de 16.08.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-382209
+  date: '1984-08-08'
+- type: repealed_by
+  target: pt:dre:324935:por
+  label: "Revogados os arts. 32.º e 33.º do Regulamento, pela PORT.168/85.29.03.1985.ME, DR.IS [74] de 29.03.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/168-1985-324935
+  date: '1985-03-29'
+- type: repealed_by
+  target: pt:dre:354707:por
+  label: "Revogada pelo DEC LEI.354/88.12.10.1988.ME, DR.IS [236] de 12.10.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/354-1988-354707
+  date: '1988-10-12'
 article_structure:
   article_count: 80
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:08:15Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +244,7 @@ b) Sejam titulares do 11.º ano de escolaridade português ou legalmente equival
 
 Ministério da Educação.
 
-**Assinada em 31 de Julho de 1984.**
+Assinada em 31 de Julho de 1984.
 
 Pelo Ministro da Educação, Joaquim Germano Pinto Machado Correia da Silva, Secretário de Estado do Ensino Superior.
 
@@ -809,8 +934,8 @@ A Direcção-Geral do Ensino Superior ou o GCIES, conforme os casos, expedirão 
 
 O presente Regulamento poderá ser revisto, quando tal se justifique, designadamente quando se tenha em vista anos lectivos subsequentes ao da sua publicação.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1984/08/18301/00030026.pdf))](https://files.diariodarepublica.pt/1s/1984/08/18301/00030026.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/08/18301/00030026.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1984/08/18301/00030026.pdf))](https://files.diariodarepublica.pt/1s/1984/08/18301/00030026.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/08/18301/00030026.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1984/08/18301/00030026.pdf))](https://files.diariodarepublica.pt/1s/1984/08/18301/00030026.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/08/18301/00030026.pdf)

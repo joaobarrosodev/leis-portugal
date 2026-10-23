@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/01/01300/0035400356.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/10/2019/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2019-117919457
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 582c1f604f2c2fc84802d9c45fb111b8de77474395d65360f8dfcb0fe354f598
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b279e3f1c773deeb9cb0639c0a9ef378e2960610debdb602a002aa212fa6d86f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pnale
-- Registo Português de Licenças de Emissão
+- Agência Portuguesa do Ambiente
+- Alteração Climática
+- Aproximação das Legislações
+- Comércio
+- Decisão CE
 - Efeito de Estufa
 - Licença de Emissão
-- Aproximação das Legislações
-- Decisão CE
-- Poluição Atmosférica
 - Licenciamento
+- Pnale
+- Poluição Atmosférica
 - Regime Jurídico
+- Registo Português de Licenças de Emissão
 - Regulamento CE
-- Alteração Climática
-- Comércio
-- Agência Portuguesa do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:131124444:por
@@ -111,16 +111,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/42-a/2016/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/42-a/2016/08/12/p/dre
+- type: cites
+  target: pt:dre:259892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75150234:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:131124444:por
+  label: Revogado, a partir de 07.04.2020, pelo(a) Decreto-Lei n.º 12/2020 - Diário da República n.º 68/2020, Série I de 2020-04-06,
+    que o manteve, contudo, transitoriamente em vigor , nos termos do art. 46.º daquele diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-2020-131124444
+  date: '2020-04-06'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:38Z'
   warnings: []
   errors: []
 ---
@@ -213,12 +227,14 @@ O presente decreto-lei produz efeitos a 1 de janeiro de 2019.
 
 Visto e aprovado em Conselho de Ministros de 20 de dezembro de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 27 de dezembro de 2018.**
+Promulgado em 27 de dezembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de janeiro de 2019.**
+Referendado em 7 de janeiro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111967332

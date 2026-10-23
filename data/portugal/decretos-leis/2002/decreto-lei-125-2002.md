@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/125/2002/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2002-368661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d408a4e47c2f77ab35941f4263c0214f322d5a39646dcb6172f71db74456211
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddd8659d13872f0c784fd668964a32e4dbd25c2717d32f03244dc66f6485f3d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
 subjects:
 - Árbitro
 - Centro de Estudos Judiciários
-- Formação Profissional
 - Concurso
 - Definição de Competências
+- Direcção Geral da Administração da Justiça
 - Expropriação
-- Recrutamento de Pessoal
+- Formação Profissional
 - Homologação
 - Lista
 - Profissão Independente
 - Qualificação Profissional
-- Direcção Geral da Administração da Justiça
+- Recrutamento de Pessoal
 - Remuneração
 - Utilidade Pública
 relationships:
@@ -85,6 +85,19 @@ relationships:
   target: pt:dre:607757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:522639:por
+  label: "Alterados os arts. 1º, 3º a 10º, 12º, 13º, 14º e 15º, aditados os arts. 9º-A, 9º-B e 10º-A e revogados os nºs 4\
+    \ e 5 do art. 8º e os arts. 22º e 23º pelo DEC LEI.12/2007.19.01.2007.MJ, DR.IS [14] de 19.01.2007, que republicou o presente\
+    \ diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-2007-522639
+  date: '2007-01-19'
+- type: amended_by
+  target: pt:dre:607757:por
+  label: "Dada nova redacção ao art. 9º-A deste diploma, aditado pelo Dec Lei 12/2007 de 19-Jan, pelo DEC LEI.94/2009.27.04.2009.MJ,\
+    \ DR.IS [81] de 27.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-2009-607757
+  date: '2009-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/204/1998/07/11/p/dre
   label: null
@@ -101,16 +114,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/168/1999/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/168/1999/09/18/p/dre
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569885:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:12Z'
   warnings: []
   errors: []
 ---
@@ -381,12 +410,12 @@ São revogados o [Decreto Regulamentar n.º 15/98](https://diariodarepublica.pt/
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Diogo Campos Barradas de Lacerda Machado - Júlio Domingos Pedrosa da Luz de Jesus.
 
-**Promulgado em 23 de Abril de 2002.**
+Promulgado em 23 de Abril de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Abril de 2002.**
+Referendado em 26 de Abril de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

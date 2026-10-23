@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/30/1994/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1994-654526
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:21:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4c13cca179b3882fc6afca4cd797871da7333548096920306ca8acb78eb98b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bcb854979008eecb5b31cfbe58135267c9f95c5a6135f1aa617676cc03b4472
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:21:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/49/1993/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/49/1993/02/26/p/dre
+- type: cites
+  target: pt:dre:180593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657439:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:355931:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 254/94, DA PCM, DE 30 DE NOVEMBRO, PUBLICADA NO DR.IS-B, 277, 4SUPL.\0\
+    , 4SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/254-1994-355931
+  date: '1994-11-30'
 article_structure:
   article_count: 59
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:21:50Z'
   warnings: []
   errors: []
 ---
@@ -1087,12 +1113,12 @@ Presidência do Conselho de Ministros, 4 de Abril de 1994.
 
 Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
 
-**Promulgado em 5 de Agosto de 1994.**
+Promulgado em 5 de Agosto de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Agosto de 1994.**
+Referendado em 12 de Agosto de 1994.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

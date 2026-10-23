@@ -46,36 +46,112 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/630-1985-181016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T08:31:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b8a924a0c62a42b4caa318587bf36bdb1036ec22a84a2e37b19710c04d0434a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbca6e13934ab0e6e82545eab8e65e745d845f7c1682f30fb8b0d95958747d58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:31:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Ministério do Trabalho e Segurança Social
+- Quadro de Pessoal
+- Secretaria Geral
+relationships:
+- type: cites
+  target: pt:dre:297469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621349:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:31:27Z'
   warnings: []
   errors: []
 ---
@@ -98,12 +174,12 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e do Trabalho e Segurança Social.
 
-**Assinada em 5 de Agosto de 1985.**
+Assinada em 5 de Agosto de 1985.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro do Trabalho e Segurança Social, Amândio Anes de Azevedo. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
 
 Secretaria-Geral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/08/19300/27472747.pdf))](https://files.diariodarepublica.pt/1s/1985/08/19300/27472747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/19300/27472747.pdf)
 
 Nota. - Lugares a extinguir quando vagarem.

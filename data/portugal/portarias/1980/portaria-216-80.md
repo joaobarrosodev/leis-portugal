@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/10100/08550856.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/216-1980-475149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f81f095a9e723d4b1481ccf7c2bfb2c9960ba312018ec90c217b42a99fb79ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c17678efe3ced537a2f039321d8470eebe25a69d89f521031524ecdd70ae50ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Indústria da Celulose e do Papel
+- Papel
 relationships:
 - type: amended_by
   target: pt:dre:389386:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:508807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:389386:por
+  label: "Revogada pela PORT.310/81.31.03.1981.MCT, DR.IS [75] de 31.03.1981\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/310-1981-389386
+  date: '1981-03-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:32Z'
   warnings: []
   errors: []
 ---
@@ -130,6 +145,6 @@ Secretarias de Estado do Comércio Interno, do Comércio Externo e da Indústria
 
 ## ANEXO — Quadro a que se refere o n.º 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/10100/08550856.pdf))](https://files.diariodarepublica.pt/1s/1980/05/10100/08550856.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/10100/08550856.pdf)
 
-**O Secretário de Estado do Comércio Interno, António Escaja Gonçalves. - O Secretário de Estado do Comércio Externo, Armando de Sousa Almeida. - O Secretário de Estado da Indústria Transformadora, Ricardo Manuel Simões Bayão Horta.**
+O Secretário de Estado do Comércio Interno, António Escaja Gonçalves. - O Secretário de Estado do Comércio Externo, Armando de Sousa Almeida. - O Secretário de Estado da Indústria Transformadora, Ricardo Manuel Simões Bayão Horta.

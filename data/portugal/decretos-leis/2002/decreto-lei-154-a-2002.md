@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 133/2002, 1º Suplemento, Série I-A de 2002-06-11
   number: '133'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4824-(2) a 4824-(269)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/06/133a01/00020269.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/154-a/2002/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-a-2002-448942
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48a07054301ac26222ec5ce403b2c1b8b07e4a848ada7d4883a4eaa604f4fff6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12b05721d5ad788744bfb8c7ebb590acf3b8e42d954eec6fb13d94909a15b18b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
-- Saúde Pública
-- Etiquetagem
 - Embalagem
+- Etiquetagem
+- Produto Químico
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:343084:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:315883:por
+  label: "Alterados os anexos I e X do Regulamento aprovado pela Port 732-A/96 de 11-Dez, com a redacção do presente diploma,\
+    \ pelo DEC LEI.72-M/2003.2003.04.14.MCOTA DR.IS-A [88]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-m-2003-315883
+  date: '2003-04-14'
+- type: amended_by
+  target: pt:dre:231297:por
+  label: "Alterados os anexos I e V do Regulamento para Notificação de Substâncias Químicas e para a Classificação, Embalagem\
+    \ e Rotulagem de Substâncias Perigosas, aprovado pela Port 732-A/96 de 11-Dez, com as alterações introduzidas pelo presente\
+    \ diploma, pelo DEC LEI.27-A/2006.10.02.2006.MAOTDR, DR.IS-A [30-Supl] de 10.02.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-a-2006-231297
+  date: '2006-02-10'
 - type: cites
   target: celex:31967L0548
   label: null
@@ -84,16 +97,28 @@ relationships:
   target: celex:32001L0059
   label: null
   source: http://data.europa.eu/eli/dir/2001/59/oj
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "Revogada a Port. 732-A/96, de 11-Dez, na redacção do presente diploma, pelo DEC LEI.98/2010.11.08.2010.MAOT, DR.IS\
+    \ [155] de 11.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2010-08-11'
+- type: repealed_by
+  target: pt:dre:343084:por
+  label: "Revogada a Port. 732-A/96, de 11-Dez, na redacção do presente diploma, pelo DEC LEI.98/2010.11.08.2010.MAOT, DR.IS\
+    \ [155] de 11.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2010-343084
+  date: '2010-08-11'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:52Z'
   warnings: []
   errors: []
 ---
@@ -200,14 +225,14 @@ b) O texto do anexo 7.B do presente diploma é inserido entre o «Nível 2» e o
 
 Visto e aprovado em Conselho de Ministros de 31 de Janeiro de 2002. - António Manuel de Oliveira Guterres - Luís Garcia Braga da Cruz - António Fernando Correia de Campos - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 14 de Março de 2002.**
+Promulgado em 14 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Março de 2002.**
+Referendado em 20 de Março de 2002.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
 [(ver anexos no documento original)](https://files.diariodarepublica.pt/1s/2002/06/133a01/00020269.pdf)

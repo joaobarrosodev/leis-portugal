@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/274b00/73577358.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/75/1995/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/75-1995-626869
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T08:29:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9aeee6e269bf5ff3b38b943c6c6b9ed7c6eba63b700a1b17deb6fca6972bee8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 308a805a070db68f1f1bb85baca06cf589caa074ea50c9973c6c8fdd46f8d9ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:29:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Controlo Sanitário
 - Definição de Competências
 - Direcção Regional de Agricultura
-- Controlo Sanitário
+- Ifadap
 - Indemnização
 - Instituto de Protecção da Produção Agro-Alimentar
 - Piddac
-- Proteção Fitossanitária
 - Produção Vegetal
-- Ifadap
+- Proteção Fitossanitária
 - Vegetais
 relationships:
 - type: amended_by
@@ -94,16 +94,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/344/1994/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/344/1994/06/01/p/dre
+- type: cites
+  target: pt:dre:300984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431578:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:624656:por
+  label: "Revogado pelo DN.3/96.06.01.1996.MADRP, DR.IS-B [5] de 06.01.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-1996-624656
+  date: '1996-01-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:29:25Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +161,7 @@ e) Qualquer outro tratamento determinado pelos serviços de protecção fitossan
 
 Tabela para cálculo da indemnização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/274b00/73577358.pdf))](https://files.diariodarepublica.pt/1s/1995/11/274b00/73577358.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/274b00/73577358.pdf)
 
 5 - Compete às direcções regionais de agricultura zelar pela aplicação das medidas de protecção fitossanitária por elas definidas e proceder à recolha dos elementos necessários à elaboração dos processos de indemnização e apresentação dos mesmos ao IPPAA, no prazo máximo de cinco dias após a verificação da aplicação das medidas atrás referidas.
 

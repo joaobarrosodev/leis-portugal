@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/33-1970-227268
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47c9ac0d4b6323fce6f7be69aa99c4822707838d77c3e28e093e54bc7066fbc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b426970519db0477554d476046fe5dff3b3f801b45b45480096e78bcdbc954d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:199978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274639:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:31Z'
   warnings: []
   errors: []
 ---
@@ -89,19 +97,19 @@ Manda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência
 
 Os n.os 1 e 2 do artigo 9.º, os n.os 1 e 2 do artigo 23.º e os n.os 1 e 3 do artigo 35.º passam a ter a seguinte redacção:
 
-###### Artigo 9.º - 1. Cada um dos júris será presidido por um director de serviço hospitalar e terá dois vogais, com as categorias de assistente ou graduado.
+Artigo 9.º - 1. Cada um dos júris será presidido por um director de serviço hospitalar e terá dois vogais, com as categorias de assistente ou graduado.
 
 2. Os membros do júri deverão, de preferência pertencer ao ramo clínico ou especialidade a que respeitam as provas. O presidente pertencerá ao quadro do estabelecimento ou serviço interessado. Os vogais devem ser escolhidos nos quadros de outros hospitais centrais, sempre que possível.
 
 ...
 
-###### Art. 23.º - 1. Cada um dos júris será presidido por um director de serviço hospitalar e terá quatro ou dois vogais, conforme se trate de concurso para medicina interna e cirurgia geral ou para outras especialidades, que serão médicos dos quadros hospitalares com categoria não inferior a assistente de hospital central.
+Art. 23.º - 1. Cada um dos júris será presidido por um director de serviço hospitalar e terá quatro ou dois vogais, conforme se trate de concurso para medicina interna e cirurgia geral ou para outras especialidades, que serão médicos dos quadros hospitalares com categoria não inferior a assistente de hospital central.
 
 2. Todos os membros dos júris deverão pertencer, sempre que possível, ao ramo clínico ou especialidade a que respeitam as provas. O presidente e um dos vogais pertencerão ao quadro do hospital interessado. Os restantes vogais devem ser, de preferência, escolhidos nos quadros de outros hospitais centrais.
 
 ...
 
-###### Art. 35.º - 1. O júri será constituído por um presidente e quatro vogais, todos com categoria de director de serviço de hospital central.
+Art. 35.º - 1. O júri será constituído por um presidente e quatro vogais, todos com categoria de director de serviço de hospital central.
 
 ...
 

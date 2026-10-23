@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/285/2001/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-2001-589335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:27:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 983805be65ea64398557eddfb1ea6d51d5d6722d17c3c6c36656eb719bbb0f2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d79efc71bed20368aac0f1decb4b18338d3df57ad997acd1e4aa3dde19e20d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:27:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituição de Crédito
 - Contrato de Locação Financeira
+- Instituição de Crédito
 - Locação Financeira
 - Regime Jurídico
 - Sociedade de Locação Financeira
@@ -77,6 +77,33 @@ relationships:
   target: pt:dre:191534:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:646111:por
+  label: "Alterado o art. 4.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei\
+    \ 298/92, de 31-Dez, na redacção do Dec Lei 232/96, de 05-Dez e do presente diploma, pelo DEC LEI.201/2002.2002.09.26.MF\
+    \ DR.IS-A [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-2002-646111
+  date: '2002-09-26'
+- type: amended_by
+  target: pt:dre:241222:por
+  label: "Alterado o art. 4º do Regime Jurídico das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei\
+    \ 298/92 de 31- Dez, com a redacção do presente diploma, pelo DEC LEI.357-A/2007.31.10.2007.MFAP, DR.IS [210-2ºSupl] de\
+    \ 31.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/357-a-2007-241222
+  date: '2007-10-31'
+- type: amended_by
+  target: pt:dre:483411:por
+  label: "Alterado, a partir de 01.11.2009, o art. 4.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras,\
+    \ aprovado pelo Dec Lei 298/92, de 31-Dez, na redacção do presente diploma, pelo DEC LEI.317/2009.30.10.2009.MFAP, DR.IS\
+    \ [211] de 30.10.2009\0009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/317-2009-483411
+  date: '2009-10-30'
+- type: amended_by
+  target: pt:dre:191534:por
+  label: "Alterado o art. 4º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei 298/92,\
+    \ de 31-dez, na redação do presente diploma, pelo DEC LEI.242/2012.07.11.2012.MF, DR.IS [215] de 07.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2012-191534
+  date: '2012-11-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/149/1995/06/24/p/dre
   label: null
@@ -89,16 +116,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/72/1995/04/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/72/1995/04/15/p/dre
+- type: cites
+  target: pt:dre:230112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475373:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:227273:por
+  label: "Rectificado o Decreto-Lei n.º 357-A/2007, de 31 de Outubro, que alterou o Regime Geral das Instituições de Crédito\
+    \ e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, na redacção do presente diploma,\
+    \ pela DECL-RECT.117-A/2007.28.12.2007.PCM, DR.IS [250]3ºSupl de 28.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/117-a-2007-227273
+  date: '2007-12-28'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:27:56Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +203,9 @@ a) Alienar, ceder a exploração, locar ou efectuar outros actos de administraç
 
 b) Locar bens móveis fora das condições referidas na alínea anterior.
 
-###### Artigo 7.º — Consórcios
+Artigo 7.º
+
+Consórcios
 
 As entidades habilitadas a exercer a actividade de locação financeira podem constituir consórcios para a realização de operações que constituem o seu objecto.»
 
@@ -225,12 +273,12 @@ São revogados os artigos 4.º, 5.º, 16.º e 20.º do [Decreto-Lei n.º 149/95]
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - António José Martins Seguro.
 
-**Promulgado em 11 de Outubro de 2001.**
+Promulgado em 11 de Outubro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Outubro de 2001.**
+Referendado em 18 de Outubro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/83/1998/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1998-209020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c72d590509b7b8983a0100cc51f1675a4916ca53c0d2fb72816c0f76082c081
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7845e522e8aa0181d1bd1a14061000afcd5cf9827ddfd97a427440f49dea2ce1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
+- Administração Pública
+- Condições de Higiene e Segurança no Trabalho
 - Conselho de Saúde e Segurança no Trabalho para a Administração Pública
 - Criação de Serviços
 - Definição de Competências
-- Administração Pública
-- Segurança no Trabalho
-- Condições de Higiene e Segurança no Trabalho
-- Regulamento
+- Função Pública
 - Funcionário Público
+- Regulamento
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:303819:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Determinada a transição para o Ministério da Reforma do Estado e da Administração Pública, do Conselho de Saúde\
+    \ e Segurança no Trabalho na Administração Pública, criado pelo presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM\
+    \ DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:303819:por
+  label: "Alterada a al b) do nº 1 do art. 2º e aditado o art. 5º-A ao Regulamento anexo pelo DEC LEI.107/2000.2000.06.19.MREAP,DR.IS-A\
+    \ [140]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2000-303819
+  date: '2000-06-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/441/1991/11/14/p/dre
   label: null
@@ -87,16 +100,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/53-a/1998/03/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/53-a/1998/03/11/p/dre
+- type: cites
+  target: pt:dre:316728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438182:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:44Z'
   warnings: []
   errors: []
 ---
@@ -181,15 +206,15 @@ O funcionamento do Conselho rege-se pelo regulamento publicado em anexo ao prese
 
 Visto e aprovado em Conselho de Ministros de 5 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 18 de Março de 1998.**
+Promulgado em 18 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Março de 1998.**
+Referendado em 26 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Regulamento do Conselho de Saúde e Segurança no Trabalho para a Administração Pública
 

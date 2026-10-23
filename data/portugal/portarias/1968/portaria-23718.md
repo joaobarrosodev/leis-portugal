@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23718-1968-263216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7c98757dca968aa7324e0d668c73da5a5c5909f6b1acac83089b1b263df3272
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b52f9161aa45ef2d8b734bb56c6f9c6c0004b9f138ce1d3759a504ad732ba474
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:264512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508641:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:58Z'
   warnings: []
   errors: []
 ---
@@ -85,13 +97,13 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º III da base LXXXIII da Lei Orgânica do Ultramar Português, aplicar nas províncias ultramarinas o Estatuto do Ciclo Preparatório do Ensino Secundário, aprovado pelo [Decreto n.º 48572](https://diariodarepublica.pt/dr/detalhe/decreto/48572-1968-508641), de 9 de Setembro de 1968, com excepção dos artigos 138.º, 161.º a 167.º, 170.º a 177.º, alíneas j), m), n) e o) do artigo 179.º, alíneas c) e f) do n.º 1 do artigo 180.º, n.º 2 do artigo 180.º, artigos 184.º, 186.º a 190.º, 192.º a 217.º, 221.º, 222.º, 225.º, n.º 2 do artigo 231.º, n.º 4 do artigo 233.º, artigos 234.º, 236.º, 239.º, 243.º, 244.º, 246.º a 302.º, n.º 2 do artigo 309.º, artigos 310.º, 312.º a 314.º, 316.º a 320.º, n.os 2 e 3 do artigo 323.º, artigos 324.º a 332.º, 334.º a 336.º, 388.º a 347.º, 350.º, 351.º, 353.º, 360.º a 363.º, n.º 2 do artigo 364.º, artigo 366 e n.os 2 e 3 do artigo 367.º, devendo observar-se as alterações seguintes:
 
-###### Art. 6.º - 1. ...
+Art. 6.º - 1. ...
 
 2. Quanto ao conjunto E, o Ministro do Ultramar fixará em despacho se as duas línguas serão oferecidas à opção dos alunos, ou se só se ensinará uma, com carácter obrigatório, e qual, podendo, neste último caso, determinar que a outra seja ensinada também, pelo menos, nalgumas escolas, mas com carácter facultativo.
 
 ...
 
-###### Art. 14.º - 1. ...
+Art. 14.º - 1. ...
 
 ...
 
@@ -99,39 +111,39 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ...
 
-###### Art. 15.º Aos conselhos escolares cumprirá estabelecer, em pormenor e segundo a orientação do Gabinete de Estudos anexo à Direcção-Geral de Educação e da inspecção provincial de educação, o realce a dar às várias matérias dos programas e a duração a atribuir-lhes no desenvolvimento do ensino de cada disciplina, tendo em consideração designadamente as exigências dos temas centrais de coordenação.
+Art. 15.º Aos conselhos escolares cumprirá estabelecer, em pormenor e segundo a orientação do Gabinete de Estudos anexo à Direcção-Geral de Educação e da inspecção provincial de educação, o realce a dar às várias matérias dos programas e a duração a atribuir-lhes no desenvolvimento do ensino de cada disciplina, tendo em consideração designadamente as exigências dos temas centrais de coordenação.
 
-###### Art. 16.º - 1. ...
+Art. 16.º - 1. ...
 
 2. Essa organização competirá a uma das referidas escolas, a designar segundo escala definida pelo Gabinete de Estudos anexo à Direcção-Geral de Educação e pela inspecção provincial de educação, devendo os planos e programas ajustar-se ao condicionalismo local.
 
-###### Art. 17.º - 1. ...
+Art. 17.º - 1. ...
 
 2. As reuniões dos conselhos de turma devem realizar-se sempre sem prejuízo das actividades escolares, cabendo aos professores que nelas participam a gratificação constante da [Portaria n.º 23625](https://diariodarepublica.pt/dr/detalhe/portaria/23625-1968-264512), de 25 de Setembro de 1968.
 
 ...
 
-###### Art. 23.º As horas de serviço docente prestadas nos termos dos artigos 18.º a 22.º serão abonadas como horas extraordinárias quando excederem o serviço obrigatório do professor, de acordo com o estabelecido na [Portaria n.º 23625](https://diariodarepublica.pt/dr/detalhe/portaria/23625-1968-264512), de 25 de Setembro de 1968.
+Art. 23.º As horas de serviço docente prestadas nos termos dos artigos 18.º a 22.º serão abonadas como horas extraordinárias quando excederem o serviço obrigatório do professor, de acordo com o estabelecido na [Portaria n.º 23625](https://diariodarepublica.pt/dr/detalhe/portaria/23625-1968-264512), de 25 de Setembro de 1968.
 
 ...
 
-###### Art. 26.º - 1. O Estado fomentará a gradual criação de escolas preparatórias, de modo a assegurar o ensino do ciclo em todos os concelhos ou circunscrições.
+Art. 26.º - 1. O Estado fomentará a gradual criação de escolas preparatórias, de modo a assegurar o ensino do ciclo em todos os concelhos ou circunscrições.
 
 ...
 
-###### Art. 31.º Os anos escolar e lectivo nas províncias ultramarinas terão o seu início e termo consoante o que estiver estabelecido na legislação local para o ensino secundário.
+Art. 31.º Os anos escolar e lectivo nas províncias ultramarinas terão o seu início e termo consoante o que estiver estabelecido na legislação local para o ensino secundário.
 
 ...
 
-###### Art. 37.º - 1. Só serão admitidos à matricula no 1.º ano das escolas preparatórias públicas os candidatos de idade não superior a 14 anos, com referência a 31 de Março do ano escolar a que a matrícula respeita.
+Art. 37.º - 1. Só serão admitidos à matricula no 1.º ano das escolas preparatórias públicas os candidatos de idade não superior a 14 anos, com referência a 31 de Março do ano escolar a que a matrícula respeita.
 
 2. Só serão admitidos à matricula do 2.º ano das escolas preparatórias públicas os candidatos de idade não superior a 15 anos, com referência a 31 de Março do ano escolar a que a matrícula respeita.
 
-###### Art. 38.º A matricula em cada ano do ciclo será requerida, nas escolas públicas, nos prazos fixados pelos governos provinciais.
+Art. 38.º A matricula em cada ano do ciclo será requerida, nas escolas públicas, nos prazos fixados pelos governos provinciais.
 
 ...
 
-###### Art. 40.º - 1. Os candidatos à primeira matrícula juntarão ao boletim referido no artigo anterior os seguintes documentos:
+Art. 40.º - 1. Os candidatos à primeira matrícula juntarão ao boletim referido no artigo anterior os seguintes documentos:
 
 ...
 
@@ -143,23 +155,23 @@ b) Atestado médico comprovativo de que não sofrem de doença contagiosa e bole
 
 ...
 
-###### Art. 43.º As matrículas dos candidatos inscritos fora dos prazos a que se refere o artigo 38.º ficam sujeitas a multa, que será paga em estampilha fiscal a inutilizar no boletim e corresponderá a 6$00 por cada dia de atraso na entrega do boletim.
+Art. 43.º As matrículas dos candidatos inscritos fora dos prazos a que se refere o artigo 38.º ficam sujeitas a multa, que será paga em estampilha fiscal a inutilizar no boletim e corresponderá a 6$00 por cada dia de atraso na entrega do boletim.
 
 ...
 
-###### Art. 45.º - 1. ...
+Art. 45.º - 1. ...
 
 2. Compete aos serviços provinciais de educação fixar a data limite de afixação nas escolas da relação dos requerentes que não podem ser admitidos.
 
 ...
 
-###### Art. 53.º - 1. ...
+Art. 53.º - 1. ...
 
 2. Em hipótese negativa providenciar-se-á, na medida do possível, para que a orientação escolar do aluno seja assegurada por professor de escola pública onde o aluno estiver inscrito, que para o efeito for designado.
 
 ...
 
-###### Art. 54.º - 1. ...
+Art. 54.º - 1. ...
 
 2. A matrícula faz-se na escola correspondente à localização do estabelecimento ou à residência do aluno, no prazo estabelecido pelo governo da província.
 
@@ -167,39 +179,39 @@ b) Atestado médico comprovativo de que não sofrem de doença contagiosa e bole
 
 ...
 
-###### Art. 57.º - 1. A matrícula realiza-se pela apresentação do boletim de inscrição, devidamente preenchido e instruído com os documentos necessários, o qual levará colada e inutilizada com a assinatura do aluno uma estampilha fiscal do valor fixado de harmonia com o n.º 2 do artigo 5.º da [Portaria n.º 23625](https://diariodarepublica.pt/dr/detalhe/portaria/23625-1968-264512), de 25 de Setembro de 1968. Assinará também o boletim o director do estabelecimento que o aluno frequenta, ou o professor que lhe ministra o ensino, ou o encarregado da sua educação, segundo os casos.
+Art. 57.º - 1. A matrícula realiza-se pela apresentação do boletim de inscrição, devidamente preenchido e instruído com os documentos necessários, o qual levará colada e inutilizada com a assinatura do aluno uma estampilha fiscal do valor fixado de harmonia com o n.º 2 do artigo 5.º da [Portaria n.º 23625](https://diariodarepublica.pt/dr/detalhe/portaria/23625-1968-264512), de 25 de Setembro de 1968. Assinará também o boletim o director do estabelecimento que o aluno frequenta, ou o professor que lhe ministra o ensino, ou o encarregado da sua educação, segundo os casos.
 
 ...
 
-###### Art. 61.º - 1. ...
+Art. 61.º - 1. ...
 
 2. A transferência no decorrer do ano lectivo apenas será autorizada em casos que o director ou chefe de repartição provincial considere absolutamente justificados.
 
 ...
 
-###### Art. 63.º - 1. ...
+Art. 63.º - 1. ...
 
 2. Em casos excepcionais, ou quando a transferência se efectue de escola de fora da província, pode o Ministro ou o governador considerar justificadas faltas correspondentes a mais de dois dias lectivos.
 
 ...
 
-###### Art. 65.º Fora dos prazos fixados no n.º 1 do artigo anterior pode excepcionalmente o governador autorizar a transferência de alunos cujas famílias sejam forçadas a deslocar a sua residência.
+Art. 65.º Fora dos prazos fixados no n.º 1 do artigo anterior pode excepcionalmente o governador autorizar a transferência de alunos cujas famílias sejam forçadas a deslocar a sua residência.
 
 ...
 
-###### Art. 67.º - 1. O ciclo preparatório ministrado em escolas públicas é sempre gratuito para todos os alunos internos que ainda não tenham excedido o limite máximo da idade da obrigatoriedade escolar e cujas condições económicas o justifiquem, em termos a definir por despacho do governador da província.
+Art. 67.º - 1. O ciclo preparatório ministrado em escolas públicas é sempre gratuito para todos os alunos internos que ainda não tenham excedido o limite máximo da idade da obrigatoriedade escolar e cujas condições económicas o justifiquem, em termos a definir por despacho do governador da província.
 
 2. Os alunos não abrangidos pela disposição anterior estão sujeitos ao pagamento das propinas fixadas de harmonia com o n.º 2 do artigo 5.º da [Portaria n.º 23625](https://diariodarepublica.pt/dr/detalhe/portaria/23625-1968-264512), de 25 de Setembro de 1968.
 
 ...
 
-###### Art. 68.º - 1. ...
+Art. 68.º - 1. ...
 
 2. A lotação normal de cada turma é de vinte e cinco alunos, sendo a máxima fixada pelos serviços de educação.
 
 ...
 
-###### Art. 75.º - 1. Aos alunos com aproveitamento distinto, e aos que pratiquem actos de especial mérito, podem ser atribuídas as seguintes recompensas:
+Art. 75.º - 1. Aos alunos com aproveitamento distinto, e aos que pratiquem actos de especial mérito, podem ser atribuídas as seguintes recompensas:
 
 ...
 
@@ -209,7 +221,7 @@ d) Prémio com louvor.
 
 3. A instituição de prémios destinados a alunos depende de aprovação do governador da província.
 
-###### Art. 76.º - 1. ...
+Art. 76.º - 1. ...
 
 ...
 
@@ -221,17 +233,17 @@ d) Prémio com louvor.
 
 13. Para os alunos sujeitos à escolaridade obrigatória a informação dos processos de que resultar a aplicação das penas 5.ª e 6.ª deverá ser submetida à Direcção-Geral de Educação.
 
-###### Art. 77.º Quando a aplicação de uma pena da competência do director da escola resulte perda de ano, haverá recurso para o governador.
+Art. 77.º Quando a aplicação de uma pena da competência do director da escola resulte perda de ano, haverá recurso para o governador.
 
 ...
 
-###### Art. 97.º - 1. ...
+Art. 97.º - 1. ...
 
 2. O Ministro do Ultramar pode estabelecer normas mínimas a que deva obedecer o material didáctico.
 
 ...
 
-###### Art. 99.º - 1. ...
+Art. 99.º - 1. ...
 
 2. A escolha deverá ser feita entre os livros autorizados para o ensino do ciclo pelo Ministro do Ultramar.
 
@@ -239,13 +251,13 @@ d) Prémio com louvor.
 
 4. Os programas das disciplinas podem estabelecer a exigência de cadernos de trabalhos, livros de consulta e livros auxiliares, carecendo a sua adopção nas escolas de autorização do Gabinete de Estudos anexo à Direcção-Geral de Educação.
 
-###### Art. 100.º - 1. A apreciação dos livros escolares apresentados para autorização compete ao Gabinete de Estudos anexo à Direcção-Geral de Educação.
+Art. 100.º - 1. A apreciação dos livros escolares apresentados para autorização compete ao Gabinete de Estudos anexo à Direcção-Geral de Educação.
 
 2. Não será considerado o livro que se mostre em desarmonia com a doutrina e moral cristãs tradicionais do País ou com os superiores interesses e valores da Nação Portuguesa.
 
 ...
 
-###### Art. 101.º - 1. A autorização para cada livro, válida por um prazo de cinco anos, será dada por despacho do Ministro do Ultramar.
+Art. 101.º - 1. A autorização para cada livro, válida por um prazo de cinco anos, será dada por despacho do Ministro do Ultramar.
 
 2. A autorização tornar-se-á definitiva, nos termos do número anterior, quando, depois de impresso, o livro mostre satisfazer às prescrições que tiverem sido determinadas pelo Gabinete de Estudos anexo à Direcção-Geral de Educação.
 
@@ -253,9 +265,9 @@ d) Prémio com louvor.
 
 4. A autorização a que se refere o n.º 4 artigo 104.º será publicada no Diário do Governo e nos Boletins Oficiais, sendo a partir desta data que se contará o prazo consignado do n.º 1.
 
-###### Art. 102.º A autorização dos livros escolares a que se refere o artigo 101.º é feita mediante prévio concurso público nos prazos que forem fixados por despacho ministerial, anunciados no Diário do Governo e nos Boletins Oficiais.
+Art. 102.º A autorização dos livros escolares a que se refere o artigo 101.º é feita mediante prévio concurso público nos prazos que forem fixados por despacho ministerial, anunciados no Diário do Governo e nos Boletins Oficiais.
 
-###### Art. 103.º - 1. Os autores ou os editores interessados na aprovação dos seus livros apresentarão, nos prazos fixados, requerimento, dirigido ao director-geral de Educação, do qual constem os elementos necessários à sua completa identificação.
+Art. 103.º - 1. Os autores ou os editores interessados na aprovação dos seus livros apresentarão, nos prazos fixados, requerimento, dirigido ao director-geral de Educação, do qual constem os elementos necessários à sua completa identificação.
 
 ...
 
@@ -263,7 +275,7 @@ d) Prémio com louvor.
 
 ...
 
-###### Art. 104.º - 1. A apreciação dos livros de cada disciplina apresentados a concurso será feita por dois inspectores ou professores da respectiva especialidade, nomeados pelo director-geral de Educação, que apresentarão, em prazo prèviamente estabelecido, relatório circunstanciado e devidamente fundamentado, dando parecer sobre o mérito científico e pedagógico absoluto e relativo de cada livro, e tendo sempre em vista a sua harmonia com os programas e com o disposto no artigo 100.º
+Art. 104.º - 1. A apreciação dos livros de cada disciplina apresentados a concurso será feita por dois inspectores ou professores da respectiva especialidade, nomeados pelo director-geral de Educação, que apresentarão, em prazo prèviamente estabelecido, relatório circunstanciado e devidamente fundamentado, dando parecer sobre o mérito científico e pedagógico absoluto e relativo de cada livro, e tendo sempre em vista a sua harmonia com os programas e com o disposto no artigo 100.º
 
 ...
 
@@ -273,45 +285,45 @@ d) Prémio com louvor.
 
 ...
 
-###### Art. 107.º - 1. ...
+Art. 107.º - 1. ...
 
 2. A indicação dos instrumentos didácticos que devem ser objecto de autorização e a sua apreciação competem ao Gabinete de Estudos.
 
 ...
 
-###### Art. 109.º - 1. ...
+Art. 109.º - 1. ...
 
 2. O serviço de orientação escolar entrará em funcionamento quando, por despacho, o Ministro do Ultramar o determinar.
 
 ...
 
-###### Art. 113.º - 1. ...
+Art. 113.º - 1. ...
 
 2. Os serviços de orientação escolar de cada escola podem, com autorização dos serviços de educação e dos encarregados de educação e a concordância dos serviços de acção social escolar, solicitar dos serviços psicotécnicos ou de higiene mental e das clínicas médicas especializadas, psicológicas, de orientação, ou outras, as observações que julguem necessárias e excedam as possibilidades técnicas da escola, ficando as respectivas despesas a cargo do serviço de acção social escolar.
 
 ...
 
-###### Art. 117.º - 1. A escolha dos mencionados professores deve, tanto quanto possível, recair em elementos do corpo docente com preparação psicopedagógica, cultura humanística e mais de 30 anos de idade, estando sujeita a autorização do director provincial ou chefe de repartição provincial dos serviços de educação.
+Art. 117.º - 1. A escolha dos mencionados professores deve, tanto quanto possível, recair em elementos do corpo docente com preparação psicopedagógica, cultura humanística e mais de 30 anos de idade, estando sujeita a autorização do director provincial ou chefe de repartição provincial dos serviços de educação.
 
 2. É dever desses professores seguirem os cursos de aperfeiçoamento organizados ou autorizados pelos serviços de educação.
 
 ...
 
-###### Art. 130.º - 1. ...
+Art. 130.º - 1. ...
 
 2. No ensino doméstico, quando não seja ministrado individualmente por parentes até ao terceiro grau ou por pessoas que vivam na mesma economia familiar, exige-se a habilitação do curso geral dos liceus ou equivalente, competindo sempre a sua responsabilidade aos pais ou tutores dos alunos.
 
 ...
 
-###### Art. 132.º Os governos provinciais fixarão as datas de inscrição dos alunos dos referidos cursos nas escolas preparatórias públicas dos concelhos ou circunscrições ou, na falta destas, na escola preparatória do mesmo distrito que for designada para esse efeito.
+Art. 132.º Os governos provinciais fixarão as datas de inscrição dos alunos dos referidos cursos nas escolas preparatórias públicas dos concelhos ou circunscrições ou, na falta destas, na escola preparatória do mesmo distrito que for designada para esse efeito.
 
 ...
 
-###### Art. 135.º - 1. Nas escolas públicas, os directores são nomeados pelo governador, de entre os professores do ciclo preparatório ou de qualquer ramo de ensino secundário.
+Art. 135.º - 1. Nas escolas públicas, os directores são nomeados pelo governador, de entre os professores do ciclo preparatório ou de qualquer ramo de ensino secundário.
 
 ...
 
-###### Art. 136.º ...
+Art. 136.º ...
 
 ...
 
@@ -337,27 +349,27 @@ cc) Delegar parte das suas funções nos seus auxiliares directos, mediante pré
 
 ...
 
-###### Art. 139.º A posse dos directores de escolas preparatórias do ensino secundário obedece às regras estabelecidas no Estatuto do Funcionalismo Ultramarino.
+Art. 139.º A posse dos directores de escolas preparatórias do ensino secundário obedece às regras estabelecidas no Estatuto do Funcionalismo Ultramarino.
 
 ...
 
-###### Art. 140.º - 1. ...
+Art. 140.º - 1. ...
 
 ...
 
 3. O governador poderá mandar cessar, a todo o tempo, as funções de director de qualquer escola preparatória particular.
 
-###### Art. 141.º Nas escolas públicas de lotação superior a doze turmas haverá um subdirector, nomeado pelo governador, mediante proposta do director.
+Art. 141.º Nas escolas públicas de lotação superior a doze turmas haverá um subdirector, nomeado pelo governador, mediante proposta do director.
 
 ...
 
-###### Art. 143.º - 1. ...
+Art. 143.º - 1. ...
 
 2. Nos impedimentos do director e do subdirector exercerá a direcção o professor para o efeito designado pelo director provincial ou chefe da repartição provincial dos serviços de educação.
 
 ...
 
-###### Art. 145.º - 1. ...
+Art. 145.º - 1. ...
 
 ...
 
@@ -365,11 +377,11 @@ d) Propor ao director ou, por seu intermédio, aos serviços de educação o que
 
 ...
 
-###### Art. 146.º Sempre que o julgarem conveniente, os directores das escolas poderão propor ao inspector provincial ou chefe de repartição provincial dos serviços de educação um delegado seu para cada disciplina ou conjunto de disciplinas, ao qual competirá orientar e coordenar o ensino daquela disciplina ou conjunto de disciplinas e a organização de eventuais provas de frequência e exames finais, bem como fiscalizar o serviço de professores eventuais, sobre o qual lhe cumpre prestar informação escrita ao conselho escolar.
+Art. 146.º Sempre que o julgarem conveniente, os directores das escolas poderão propor ao inspector provincial ou chefe de repartição provincial dos serviços de educação um delegado seu para cada disciplina ou conjunto de disciplinas, ao qual competirá orientar e coordenar o ensino daquela disciplina ou conjunto de disciplinas e a organização de eventuais provas de frequência e exames finais, bem como fiscalizar o serviço de professores eventuais, sobre o qual lhe cumpre prestar informação escrita ao conselho escolar.
 
 ...
 
-###### Art. 155.º ...
+Art. 155.º ...
 
 ...
 
@@ -379,19 +391,19 @@ g) Propor à inspecção provincial de educação ou à repartição provincial 
 
 ...
 
-###### Art. 156.º - 1. ...
+Art. 156.º - 1. ...
 
 2. Sempre que, por motivo de força maior, do conselho escolar façam parte professores eventuais, não poderão estes estar presentes quando o conselho se pronunciar sobre os assuntos mencionados nas alíneas f) e g) do artigo anterior.
 
 ...
 
-###### Art. 160.º Nas suas faltas ou impedimentos será o secretário substituído pelo director de turma que há menos tempo for professor da escola, o qual receberá a gratificação atribuída ao secretário, a não ser que este se encontre impedido em serviço oficial por período não excedente a quinze dias.
+Art. 160.º Nas suas faltas ou impedimentos será o secretário substituído pelo director de turma que há menos tempo for professor da escola, o qual receberá a gratificação atribuída ao secretário, a não ser que este se encontre impedido em serviço oficial por período não excedente a quinze dias.
 
 ...
 
-###### Art. 169.º O pessoal de secretaria das escolas preparatórias do ensino secundário faz parte dos quadros dos serviços de educação das respectivas províncias ultramarinas, sendo nelas colocado em conformidade com as necessidades de serviço.
+Art. 169.º O pessoal de secretaria das escolas preparatórias do ensino secundário faz parte dos quadros dos serviços de educação das respectivas províncias ultramarinas, sendo nelas colocado em conformidade com as necessidades de serviço.
 
-###### Art. 178.º 1. ...
+Art. 178.º 1. ...
 
 ...
 
@@ -399,7 +411,7 @@ c) Quanto à secretaria e outros serviços:
 
 Registo da correspondência recebida e da correspondência expedida, organizado por correspondentes e, dentro destes, por assuntos;
 
-# Livro de autos de posse de todos os funcionários;
+Livro de autos de posse de todos os funcionários;
 
 Inventário dos móveis e do material;
 
@@ -413,7 +425,7 @@ Registo do movimento do material requisitado pelos diferentes serviços.
 
 ...
 
-###### Art. 179.º ...
+Art. 179.º ...
 
 ...
 
@@ -421,15 +433,15 @@ c) Organizar e submeter à aprovação do director a tabela de serviço do pesso
 
 ...
 
-###### Art. 219.º O pessoal docente das escolas preparatórias públicas é constituído por professores efectivos e eventuais, pertencendo os efectivos ao quadro comum do ultramar.
+Art. 219.º O pessoal docente das escolas preparatórias públicas é constituído por professores efectivos e eventuais, pertencendo os efectivos ao quadro comum do ultramar.
 
-###### Art. 220.º - 1. Nas escolas de frequência masculina e nas de frequência mista os lugares dos quadros de professores podem ser providos em indivíduos de um ou de outro sexo; mas nas escolas do primeiro tipo gozarão de preferência os candidatos do sexo masculino. Ressalva-se o disposto no artigo 227.º
+Art. 220.º - 1. Nas escolas de frequência masculina e nas de frequência mista os lugares dos quadros de professores podem ser providos em indivíduos de um ou de outro sexo; mas nas escolas do primeiro tipo gozarão de preferência os candidatos do sexo masculino. Ressalva-se o disposto no artigo 227.º
 
 2. Nas escolas de frequência feminina, o provimento recairá apenas em candidatos do sexo feminino, o mesmo sucedendo em relação ao quadro privativo da secção feminina das escolas.
 
 ...
 
-###### Art. 223.º - 1. ...
+Art. 223.º - 1. ...
 
 ...
 
@@ -441,19 +453,19 @@ b) Os instrutores devem coadjuvar os professores, podendo leccionar turmas, com 
 
 c) O que se dispõe relativamente aos instrutores é extensivo aos indivíduos que não possuam qualquer dos cursos em referência.
 
-###### Art. 224.º A fixação do número de professores de cada grupo das escolas preparatórias será efectuada em portaria pelo governo da província, de acordo com a sua lotação.
+Art. 224.º A fixação do número de professores de cada grupo das escolas preparatórias será efectuada em portaria pelo governo da província, de acordo com a sua lotação.
 
 ...
 
-###### Art. 228.º - 1. ...
+Art. 228.º - 1. ...
 
 2. Quando as necessidades do ensino ou das actividades circum-escolares o justifiquem, podem os professores em exercício nas escolas, bem como os instrutores de Educação Física prestar semanalmente até oito horas de serviço extraordinário remunerado, além das de serviço obrigatório.
 
 ...
 
-###### Art. 232.º Em regra, o provimento dos lugares de professor dos quadros comum e complementar será feito por concurso aberto na Direcção-Geral de Educação.
+Art. 232.º Em regra, o provimento dos lugares de professor dos quadros comum e complementar será feito por concurso aberto na Direcção-Geral de Educação.
 
-###### Art. 233.º Aos concursos a que se refere o artigo anterior poderão apresentar-se:
+Art. 233.º Aos concursos a que se refere o artigo anterior poderão apresentar-se:
 
 a) Professores efectives do ciclo;
 
@@ -463,7 +475,7 @@ c) Outros indivíduos com aprovação no Exame de Estado.
 
 ...
 
-###### Art. 237.º - 1. Os candidatos ao provimento de lugares de professor efectivo juntarão aos seus requerimentos:
+Art. 237.º - 1. Os candidatos ao provimento de lugares de professor efectivo juntarão aos seus requerimentos:
 
 a) Os documentos comprovativos da habilitação legal;
 
@@ -473,17 +485,17 @@ c) A declaração a que se refere o [Decreto-Lei n.º 27003](https://diariodarep
 
 ...
 
-###### Art. 238.º Os documentos a que se refere o artigo anterior serão enviados à Direcção-Geral de Educação por intermédio da escola onde os requerentes se encontrem a prestar serviço e directamente pelos que não exerçam o ensino em qualquer escola oficial.
+Art. 238.º Os documentos a que se refere o artigo anterior serão enviados à Direcção-Geral de Educação por intermédio da escola onde os requerentes se encontrem a prestar serviço e directamente pelos que não exerçam o ensino em qualquer escola oficial.
 
 ...
 
-###### Art. 240.º - 1. A classificação da qualidade de serviço dos professores dos quadros pertence às inspecções provinciais de educação e às repartições provinciais dos serviços de educação.
+Art. 240.º - 1. A classificação da qualidade de serviço dos professores dos quadros pertence às inspecções provinciais de educação e às repartições provinciais dos serviços de educação.
 
 2. A classificação da qualidade de serviço dos professores que exerçam o cargo de director pertence aos inspectores provinciais ou chefes de repartição provincial dos serviços de educação.
 
 ...
 
-###### Art. 241.º - 1. A Direcção-Geral de Educação, colhidas as informações necessárias dos serviços provinciais ou da Mocidade Portuguesa, ou da Mocidade Portuguesa Feminina, fará publicar no Diário do Governo e nos Boletins Oficiais a relação graduada dos candidatos admitidos ao provimento dos lugares de professor efectivo, segundo o disposto nos n.os 2 e 3 do artigo 233.º e no n.º 2 do artigo 234.º, respectivamente.
+Art. 241.º - 1. A Direcção-Geral de Educação, colhidas as informações necessárias dos serviços provinciais ou da Mocidade Portuguesa, ou da Mocidade Portuguesa Feminina, fará publicar no Diário do Governo e nos Boletins Oficiais a relação graduada dos candidatos admitidos ao provimento dos lugares de professor efectivo, segundo o disposto nos n.os 2 e 3 do artigo 233.º e no n.º 2 do artigo 234.º, respectivamente.
 
 ...
 
@@ -491,19 +503,19 @@ c) A declaração a que se refere o [Decreto-Lei n.º 27003](https://diariodarep
 
 ...
 
-###### Art. 242. - 1. As formalidades de posse, comissões, abonos, subsídios e passagens regular-se-ão pelas disposições contidas no Estatuto do Funcionalismo Ultramarino.
+Art. 242. - 1. As formalidades de posse, comissões, abonos, subsídios e passagens regular-se-ão pelas disposições contidas no Estatuto do Funcionalismo Ultramarino.
 
 ...
 
-###### Art. 245.º - 1. Podem ser colocados em comissão de serviço nas vagas existentes nas escolas preparatórias públicas professores efectivos do ensino secundário - liceal ou técnico profissional - dos quadros dos estabelecimentos da mesma província.
+Art. 245.º - 1. Podem ser colocados em comissão de serviço nas vagas existentes nas escolas preparatórias públicas professores efectivos do ensino secundário - liceal ou técnico profissional - dos quadros dos estabelecimentos da mesma província.
 
 2. Os referidos professores serão abonados pelas disponibilidades das dotações destinadas às escolas preparatórias e manterão as regalias correspondentes aos quadros a que pertencem, sendo o seu serviço contado, para todos os efeitos, como prestado nos mesmos quadros.
 
 ...
 
-###### Art. 305.º A classificação de Suficiente obsta a que o tempo a que respeita seja contado para efeito de melhoria de classificação profissional.
+Art. 305.º A classificação de Suficiente obsta a que o tempo a que respeita seja contado para efeito de melhoria de classificação profissional.
 
-###### Art. 306.º - 1. Os vencimentos do pessoal docente são, para as diversas categorias, os que se encontram fixados pela [Portaria n.º 23625](https://diariodarepublica.pt/dr/detalhe/portaria/23625-1968-264512), de 25 de Setembro de 1968.
+Art. 306.º - 1. Os vencimentos do pessoal docente são, para as diversas categorias, os que se encontram fixados pela [Portaria n.º 23625](https://diariodarepublica.pt/dr/detalhe/portaria/23625-1968-264512), de 25 de Setembro de 1968.
 
 2. A remuneração dos professores eventuais e de Moral e Religião, aos quais não seja possível atribuir todo o serviço obrigatório, será calculada pela fórmula (N x V)/22, onde N é o número de horas semanais atribuídas e V o vencimento da tabela correspondente ao ensino e categoria do professor.
 
@@ -511,7 +523,7 @@ c) A declaração a que se refere o [Decreto-Lei n.º 27003](https://diariodarep
 
 ...
 
-###### Art. 333.º - 1. Os professores efectivos das escolas preparatórias públicas podem, com prévia autorização do Ministro, ser colocados em comissão de serviço público noutros Ministérios ou aí prestar serviço eventual, não tendo, porém, direito, enquanto se conservarem por esse modo impedidos, ao abono de qualquer remuneração pelo Ministério do Ultramar ou pelas províncias ultramarinas nem a que o serviço prestado seja contado como docente para qualquer efeito, salvo, pelo que respeita à contagem de tempo, se se tratar de alguma das situações previstas no número seguinte.
+Art. 333.º - 1. Os professores efectivos das escolas preparatórias públicas podem, com prévia autorização do Ministro, ser colocados em comissão de serviço público noutros Ministérios ou aí prestar serviço eventual, não tendo, porém, direito, enquanto se conservarem por esse modo impedidos, ao abono de qualquer remuneração pelo Ministério do Ultramar ou pelas províncias ultramarinas nem a que o serviço prestado seja contado como docente para qualquer efeito, salvo, pelo que respeita à contagem de tempo, se se tratar de alguma das situações previstas no número seguinte.
 
 2. É contado, para todos os efeitos legais, como serviço docente o que for prestado pelos funcionários referidos no número anterior em qualquer das seguintes situações:
 
@@ -549,35 +561,35 @@ q) Serviço militar obrigatório.
 
 ...
 
-###### Art. 337.º Enquanto não forem reorganizados os serviços de educação, compete às direcções provinciais, inspecções provinciais e repartições provinciais a superintendência e resolução de todos os assuntos relativos ao ciclo preparatório do ensino secundário.
+Art. 337.º Enquanto não forem reorganizados os serviços de educação, compete às direcções provinciais, inspecções provinciais e repartições provinciais a superintendência e resolução de todos os assuntos relativos ao ciclo preparatório do ensino secundário.
 
 ...
 
-###### Art. 352.º - 1. ...
+Art. 352.º - 1. ...
 
 2. O Ministro do Ultramar criará, por despacho, secções de escolas preparatórias quando as circunstâncias as justificarem.
 
 ...
 
-###### Art. 354.º - 1. ...
+Art. 354.º - 1. ...
 
 2. Os reitores dos liceus e os directores das escolas técnicas, assim como os vice-reitores e subdirectores de secções de liceus e de estabelecimentos de ensino técnico profissional onde funcionem escolas de ciclo preparatório, receberão as gratificações previstas na tabela n.º 3 anexa à [Portaria n.º 23625](https://diariodarepublica.pt/dr/detalhe/portaria/23625-1968-264512), de 25 de Setembro de 1968.
 
 ...
 
-###### Art. 355.º Logo que o governador da província o determine, as escolas preparatórias públicas que funcionem nos termos do artigo 352.º, n.º 1, passam a ter direcção própria e autonomia pedagógica e disciplinar.
+Art. 355.º Logo que o governador da província o determine, as escolas preparatórias públicas que funcionem nos termos do artigo 352.º, n.º 1, passam a ter direcção própria e autonomia pedagógica e disciplinar.
 
 ...
 
-###### Art. 359.º Enquanto não houver livros superiormente aprovados para o ensino do ciclo preparatório, os conselhos escolares procederão à escolha dos livros de texto e compêndios para tal autorizados por despacho do Ministro do Ultramar.
+Art. 359.º Enquanto não houver livros superiormente aprovados para o ensino do ciclo preparatório, os conselhos escolares procederão à escolha dos livros de texto e compêndios para tal autorizados por despacho do Ministro do Ultramar.
 
 ...
 
-###### Art. 364.º Nas escolas preparatórias que funcionem nos edifícios dos liceus e das escolas técnicas podem os reitores e directores completar os horários dos professores do ciclo preparatório com serviço docente nas disciplinas do ensino liceal ou técnico ministradas no estabelecimento, e vice-versa, até determinação em contrário do governador da província.
+Art. 364.º Nas escolas preparatórias que funcionem nos edifícios dos liceus e das escolas técnicas podem os reitores e directores completar os horários dos professores do ciclo preparatório com serviço docente nas disciplinas do ensino liceal ou técnico ministradas no estabelecimento, e vice-versa, até determinação em contrário do governador da província.
 
 ...
 
-###### Art. 367.º - 1. Relativamente aos três próximos anos escolares, o Ministro do Ultramar tomará, por meio de portarias ou despachos, as providências necessárias para adaptar o regime do ciclo preparatório às circunstâncias que forem ocorrendo.
+Art. 367.º - 1. Relativamente aos três próximos anos escolares, o Ministro do Ultramar tomará, por meio de portarias ou despachos, as providências necessárias para adaptar o regime do ciclo preparatório às circunstâncias que forem ocorrendo.
 
 ...
 

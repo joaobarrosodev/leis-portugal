@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/67/2000/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/67-2000-583620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T04:37:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17860847594a360581d5b45c75a5cc1babb55d7741b593506fb91e55f58b898a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bcf51e2e9d445fdddeafe49367b08466f774996c982ac9d6106a89b09fcf158
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:37:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,21 @@ relationships:
   target: pt:dre:538674:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:538674:por
+  label: "Exonerado pelo DEC.38-O/2002.2002.09.09.PR, DR.IS-A [208]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/38-o-2002-538674
+  date: '2002-09-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:37:01Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +97,16 @@ validation:
 
 de 13 de Dezembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o ministro plenipotenciário de 1.ª classe Manuel dos Santos Moreira de Andrade para o cargo de embaixador de Portugal em Tunis.
 
-**Assinado em 21 de Novembro de 2000.**
+Assinado em 21 de Novembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Novembro de 2000.**
+Referendado em 22 de Novembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.

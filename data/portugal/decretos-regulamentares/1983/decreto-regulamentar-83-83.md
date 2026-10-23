@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 276/1983, 1º Suplemento, Série I de 1983-11-30
   number: '276'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3944-(1) a 3944-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/11/27601/00010004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-1983-469873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:08:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbeff2230affbabba4d4544e441b48cfcc4cfe87937a8d315bd1bc8929be9c9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7297fbea8be875b7b46bb9a9a3061dfd36222cc4095a1b4cd10a7e3b3cb96e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:08:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pensão de Invalidez
+- Pensão de Velhice
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:621933:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691622:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621933:por
+  label: "Revogado pelo DR.92-B/84.1984.12.28.MTSS, DR.IS [299]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/92-b-1984-621933
+  date: '1984-12-28'
 article_structure:
   article_count: 18
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:08:33Z'
   warnings: []
   errors: []
 ---
@@ -237,12 +265,12 @@ O presente diploma entra em vigor no dia 1 de Dezembro de 1983.
 
 Mário Soares - Carlos Alberto da Mota Pinto - Amândio Anes de Azevedo.
 
-**Promulgado em 28 de Novembro de 1983.**
+Promulgado em 28 de Novembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 28 de Novembro de 1983.**
+Referendado em 28 de Novembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

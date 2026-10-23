@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/290/2007/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-2007-636964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c1b7947fc1fb4c12e3cbfec66902947b0b7adb26424d56a0c487661614ec423
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80f4cb34ed856e7c20bfb39fb658c75d9a7097ca949d409cff893900f1a9fc0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Construção Civil
-- Normas de Construção
 - Câmara Municipal
+- Construção Civil
+- Material de Construção
+- Normas de Construção
+- Prédio Urbano
 - Regulamento
 - Regulamento Geral das Edificações Urbanas
-- Material de Construção
 - Segurança dos Edifícios
-- Prédio Urbano
 relationships:
 - type: amended_by
   target: pt:dre:246551:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:246551:por
+  label: "Alterado o art. 17º do Dec Lei 38382 de 07-Ago 1951, na redacção do presente diploma, pelo DEC LEI.50/2008.19.03.2008.MOPTC,\
+    \ DR.IS [56] de 19.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-2008-246551
+  date: '2008-03-19'
 - type: cites
   target: celex:31989L0106
   label: null
@@ -86,13 +92,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:27Z'
   warnings: []
   errors: []
 ---
@@ -129,12 +135,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Julho de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Mário Lino Soares Correia.
 
-**Promulgado em 2 de Agosto de 2007.**
+Promulgado em 2 de Agosto de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Agosto de 2007.**
+Referendado em 9 de Agosto de 2007.
 
 Pelo Primeiro-Ministro, Fernando Teixeira dos Santos, Ministro de Estado e das Finanças.

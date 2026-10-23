@@ -46,40 +46,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/67-1983-308482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T07:45:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80c6f961202400583924e3e623d03a2afb50b4d0b7488960d7b0a7f97fc4630a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad370ecb42bda16396629bd15e241f22d9bcbbdafbd3ef69c0b402d626d8718b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:45:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Escola Nacional de Saúde Pública
+- Extinção de Lugares
+- Pessoal Administrativo
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:668312:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498714:por
+  label: "Alterado o quadro de pessoal aprovado pela Port 31/81 de 14-Jan, com a redacção dada pelo presente diploma, pela\
+    \ PORT.916/87.02.12.1987.MF, DR.IS [277] de 02.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/916-1987-498714
+  date: '1987-12-02'
+- type: amended_by
+  target: pt:dre:287382:por
+  label: Alterado o quadro de pessoal da Escola Nacional de Saúde Pública, aprovado pela Port 31/81, de 14-jan, alterado pelas
+    Ports 308/81, de 31-mar, pela presente, 1072/83, de 30-dez, e 436/86, de 17-ago, pelo(a) Portaria n.º 147/88 - Diário
+    da República n.º 57/1988, Série I de 1988-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/147-1988-287382
+  date: '1988-03-09'
+- type: amended_by
+  target: pt:dre:380134:por
+  label: "Alterado o quadro de pessoal aprovado pela Port 31/81 de 14-Jan, alterado pelo presente diploma, pela PORT.569/88.19.08.1988.MF,\
+    \ DR.IS [191] de 19.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/569-1988-380134
+  date: '1988-08-19'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:45:57Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +144,7 @@ Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finança
 
 1.º Ao quadro de pessoal da Escola Nacional de Saúde Pública, aprovado pela [Portaria n.º 31/81](https://diariodarepublica.pt/dr/detalhe/portaria/31-1981-390455), de 14 de Janeiro, é acrescentado o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/01/02100/01930194.pdf))](https://files.diariodarepublica.pt/1s/1983/01/02100/01930194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/01/02100/01930194.pdf)
 
 2.º É extinto 1 lugar de chefe de secção no quadro de pessoal da Escola, aprovado pela [Portaria n.º 31/81](https://diariodarepublica.pt/dr/detalhe/portaria/31-1981-390455), de 14 de Janeiro.
 

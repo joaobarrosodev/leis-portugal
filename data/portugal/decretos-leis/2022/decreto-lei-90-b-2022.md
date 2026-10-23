@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 251/2022, 4º Suplemento, Série I de 2022-12-30
   number: '251'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 74-(2) a 74-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/25104/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/90-b/2022/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-b-2022-205557209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a8bd0e17122b507357659c55ae426d30b0a6b0473e1735e46ff6bbb52927cdd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b950a92b514d48765767f89aee8a196f99145f78ceb98c13824503732a2ee132
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
 subjects:
 - Acesso à Informação
 - Arbitragem
-- Financiamento
 - Circunscrição Administrativa
 - Comissão de Acompanhamento
 - Contrato
 - Desenvolvimento Cultural
-- Estatuto
-- Pagamento
 - Direcção Geral das Artes
+- Estatuto
+- Financiamento
 - Música
 - Orgânica
 - Órgãos Sociais
 - Orquestra
+- Pagamento
 - Política Cultural
 - Prestação de Contas
 - Regime Jurídico
@@ -103,16 +103,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/37-a/2021/02/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/37-a/2021/02/15/p/dre
+- type: cites
+  target: pt:dre:115688982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117133470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157397604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403891:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:23Z'
   warnings: []
   errors: []
 ---
@@ -169,12 +185,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de dezembro de 2022. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - Pedro Adão e Silva Cardoso Pereira.
 
-**Promulgado em 28 de dezembro de 2022.**
+Promulgado em 28 de dezembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de dezembro de 2022.**
+Referendado em 29 de dezembro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+116023544

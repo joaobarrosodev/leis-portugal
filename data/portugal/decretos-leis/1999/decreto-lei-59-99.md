@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/051a00/11021156.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/59/1999/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1999-152526
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:15:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46df21c2ad469c664f3988dec45db87824a6680c5e0b972057dcd2364b3d63c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b62ec7a7d6febc068baf27d39123d8f92031461ca1e8d19fd036186a6dd742c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:15:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,10 @@ subjects:
 - Adjudicação por Concurso Público
 - Adjudicação sem Concurso Público
 - Administração Central
+- Administração Local
+- Administração Regional
 - Ajuste Direto
 - Aproximação das Legislações
-- Garantia
 - Caderno de Encargos
 - Comissão de Acompanhamento
 - Concurso Público
@@ -81,14 +82,50 @@ subjects:
 - Empreitada de Obras Públicas
 - Empreiteiro de Obras Públicas
 - Fiscalização
+- Garantia
 - Obras Públicas
-- Administração Local
-- Administração Regional
 relationships:
 - type: amended_by
   target: pt:dre:2733375:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:482628:por
+  label: "Substituidos os anexos IV, V, VI e VII, nos termos do art. 4.º do DEC LEI.245/2003.07.10.2003.MOPTH, DR.IS-A [232]\
+    \ de 07.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-2003-482628
+  date: '1999-03-02'
+- type: amended_by
+  target: pt:dre:570568:por
+  label: "Alterados os arts. 9.º, 18.º, 48.º e 67.º, pela LEI.163/99.1999.09.14.AR DR.IS-A [215]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/163-1999-570568
+  date: '1999-09-14'
+- type: amended_by
+  target: pt:dre:314419:por
+  label: "Alterados os arts. 52.º e 121.º pelo DEC LEI.159/2000.2000.07.27.MES DR.IS-A [172]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2000-314419
+  date: '2000-07-27'
+- type: amended_by
+  target: pt:dre:278029:por
+  label: "Alterado o art. 259.º pela LEI.13/2002.2002.02.19.ARDR.IS-A [42], a partir da sua entrada em vigor.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-2002-278029
+  date: '2002-02-19'
+- type: amended_by
+  target: pt:dre:537259:por
+  label: "Estabelecida, em determinados casos, a não aplicação ao sector agrícola e desenvolvimento rural do regime do presente\
+    \ diploma, na redacção da Lei 163/99, de 14 de Setembro, do Decreto-Lei 159/2000, de 27 de Julho, da Lei 13/2002, de 19\
+    \ de Fevereiro, e do Decreto-Lei 245/2003, de 10 de Julho, pelo DEC LEI.130/2006.07.07.2006.MADRP, DR.IS [130] de 07.07.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-2006-537259
+  date: '2006-07-07'
+- type: amended_by
+  target: pt:dre:520988:por
+  label: "Determinada a sucessão do Instituto da Construção e do Imobiliário, I.P. (InCI, I.P.) nas atribuições do Conselho\
+    \ Superior de Obras Públicas constantes do regime jurídico das empreitadas de obras públicas aprovado no presente diploma,\
+    \ com a redacção conferida na Lei 13/2002 de 19-Fev, pelo DEC LEI.144/2007.27.04.2007.MOPTC, DR.IS [82] de 27.04.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-2007-520988
+  date: '2007-04-27'
 - type: cites
   target: celex:31993L0037
   label: null
@@ -101,16 +138,22 @@ relationships:
   target: celex:31997L0052
   label: null
   source: http://data.europa.eu/eli/dir/1997/52/oj
+- type: repealed_by
+  target: pt:dre:248178:por
+  label: "Revogado, a partir de 30.07.2008 (a revogação dos arts. 260º, 261º, 262º, 263º e 264º produzem efeitos a partir\
+    \ de 30.01.2008), pelo DEC LEI.18/2008.29.01.2008.MOPTC, DR.IS [20] de 29.01.2008 - (Ver Notas)\0s)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2008-248178
+  date: '2008-01-29'
 article_structure:
-  article_count: 278
-  section_count: 57
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 279
+  section_count: 58
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:15:39Z'
   warnings: []
   errors: []
 ---
@@ -683,7 +726,9 @@ b) Enviar ao SPOCE, no prazo máximo de 48 dias após cada adjudicação, um an�
 
 10 - As informações relativas à adjudicação de um contrato podem ser retidas quando possam obstar à aplicação da lei, ser contrárias ao interesse público, lesar os interesses comerciais legítimos de empresas públicas ou privadas ou prejudicar a concorrência leal entre empreiteiros.
 
-###### Artigo 53.º — Divisão em lotes
+###### Artigo 53.º
+
+##### Divisão em lotes
 
 1 - Quando uma obra se encontrar dividida em vários lotes, sendo cada um deles objecto de um contrato, o valor de cada lote deve ser tido em consideração para efeitos de cálculo do valor global da obra.
 
@@ -2985,15 +3030,15 @@ O presente diploma entra em vigor três meses após a data da sua publicação e
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 12 de Fevereiro de 1999.**
+Promulgado em 12 de Fevereiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Fevereiro de 1999.**
+Referendado em 19 de Fevereiro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Trabalhos a que se refere o n.º 3 do artigo 52.º
 
@@ -3011,7 +3056,9 @@ Trabalhos especializados em outras actividades de engenharia civil.
 
 Construção de hospitais, de instalações desportivas, recreativas e de ocupação de tempos livres, estabelecimentos de ensino e edifícios para uso administrativo.
 
-## ANEXO II — Artigo 65.º
+## ANEXO II
+
+###### Artigo 65.º
 
 1 - Entende-se por «especificações técnicas» o conjunto das prescrições técnicas constantes, nomeadamente, dos cadernos de encargos, que definem as características exigidas a um trabalho, material, produto ou fornecimento e que permitem caracterizar objectivamente um trabalho, material, produto ou fornecimento de modo a que estes correspondam à utilização a que o dono da obra os destina. Essas características incluem:
 

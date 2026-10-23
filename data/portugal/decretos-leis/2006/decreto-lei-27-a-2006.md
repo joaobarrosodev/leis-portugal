@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 30/2006, 1º Suplemento, Série I-A de 2006-02-10
   number: '30'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1100-(2) a 1100-(239)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/27-a/2006/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-a-2006-231297
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da1c4d17ff34ca1af0ded29071013590eb8f990a361e1b526eea70b634d358f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6151adff8b955fafd7d46c7ed3365359261f1f6f70a2903c55a3acd6ccef8c21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
-- Saúde Pública
-- Etiquetagem
 - Embalagem
+- Etiquetagem
+- Produto Químico
 - Proteção do Ambiente
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:343084:por
@@ -93,16 +93,28 @@ relationships:
   target: celex:32004L0073
   label: null
   source: http://data.europa.eu/eli/dir/2004/73/oj
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "Revogada a Port. 732-A/96, de 11-Dez, na redacção do presente diploma, pelo DEC LEI.98/2010.11.08.2010.MAOT, DR.IS\
+    \ [155] de 11.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2010-08-11'
+- type: repealed_by
+  target: pt:dre:343084:por
+  label: "Revogada a Port. 732-A/96, de 11-Dez, na redacção do presente diploma, pelo DEC LEI.98/2010.11.08.2010.MAOT, DR.IS\
+    \ [155] de 11.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2010-343084
+  date: '2010-08-11'
 article_structure:
   article_count: 5
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:29Z'
   warnings: []
   errors: []
 ---
@@ -183,25 +195,25 @@ c) Os capítulos C.21 a C.24, nos termos do anexo XIII ao presente diploma, do q
 
 Visto e aprovado em Conselho de Ministros de 26 de Outubro de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Diogo Pinto de Freitas do Amaral - Francisco Carlos da Graça Nunes Correia - António Fernando Correia de Campos.
 
-**Promulgado em 9 de Dezembro de 2005.**
+Promulgado em 9 de Dezembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Dezembro de 2005.**
+Referendado em 15 de Dezembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I
 
 Nota K. - Não é necessário classificar a substância como cancerígena ou mutagénica se for possível provar que a substância contém menos de 0,1% m/m, de 1,3-butadieno (número EINECS 203-450-8). Se a substância não for classificada como cancerígena ou mutagénica, devem ser aplicadas pelo menos as frases «S» (2-)9-16. A presente nota aplica-se apenas a determinadas substâncias complexas do anexo I derivadas do petróleo.
 
-## ANEXO II — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+## ANEXO II — [[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
-## ANEXO III — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+## ANEXO III — [[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
-## ANEXO IV — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+## ANEXO IV — [[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
 ## ANEXO V — "B.1 bis. TOXICIDADE ORAL AGUDA - PROCEDIMENTO DE DOSE FIXA
 
@@ -401,15 +413,15 @@ Conclusões.
 
 (11) Chan P.K e A.W. Hayes (1994) Chapter 16 Acute Toxicity and Eye Irritation . Em: Principles and Methods of Toxicology. 3ª Edição. A.W. Hayes , Editor. Raven Press, Ltd. New York, USA.
 
-# PARTE 1: FLUXOGRAMA PARA O ESTUDO DE DETERMINAÇÃO DE AMPLITUDE
+PARTE 1: FLUXOGRAMA PARA O ESTUDO DE DETERMINAÇÃO DE AMPLITUDE
 
-[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[[[[[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
-# PARTE 2: FLUXOGRAMA PARA O ESTUDO PRINCIPAL
+PARTE 2: FLUXOGRAMA PARA O ESTUDO PRINCIPAL
 
-[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[[[[[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
-# PARTE 3
+## PARTE 3
 
 CRITÉRIOS PARA A CLASSIFICAÇÃO DE SUBSTÂNCIAS DE ENSAIO COM VALORES PREVISÍVEIS DE LD(índice 50) SUPERIORES A 2000 MG/KG PARA AS QUAIS NÃO É NECESSÁRIO EFECTUAR ENSAIO.
 
@@ -441,13 +453,13 @@ Estudo principal
 
 As regras de decisão para o procedimento sequencial apresentado, na Parte 2, serão aplicadas ao ensaio com dose de 5000 mg/kg. Assim, quando se utiliza uma dose de 5000 mg/kg no estudo principal, o resultado A ((igual ou maior que) 2 mortes) requer o ensaio com um segundo grupo, com uma dose de 2000 mg/kg. Os resultados B (toxicidade evidente e/ou (igual ou menor que) 1 morte) ou C (sem toxicidade) não permitem a classificação da substância em conformidade com o GHS. De igual modo, para uma dose inicial diferente de 5000 mg/kg, o ensaio é realizado até à dose de 5000 mg/kg se o resultado da dose de 2000 mg/kg for C. No caso de se obter um resultado A na subsequente dose de 5000 mg/kg, a substância será classificada na Categoria 5 do GHS, enquanto um resultado B ou C não permite a classificação da substância.
 
-# PARTE 4
+## PARTE 4
 
 MÉTODO DE ENSAIO B.1 bis - Orientações em conformidade com o esquema transitório da UE, válido até à implementação total do Sistema de Classificação Harmonizado a Nível Mundial (GHS)
 
 (obtido da referência (8))
 
-[(ver fluxogramas no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[(ver fluxogramas no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
 ## ANEXO VI — "B.1 tris. TOXICIDADE ORAL AGUDA - MÉTODO DE CLASSIFICAÇÃO DE TOXICIDADE AGUDA
 
@@ -643,7 +655,7 @@ Conclusões.
 
 (12) Chan P.K. and A.W. Hayes. (1994 ). Chap. 16. Acute Toxicity and Eye Irritancy. Principles and Methods of Toxicology. Third Edition. A.W. Hayes, Editor. Raven Press, Ltd., New York, USA.
 
-# PARTE 1 — PROCEDIMENTO A SEGUIR PARA CADA UMA DAS DOSES INICIAIS
+## PARTE 1 — PROCEDIMENTO A SEGUIR PARA CADA UMA DAS DOSES INICIAIS
 
 CONSIDERAÇÕES GERAIS
 
@@ -659,23 +671,23 @@ Os esquemas de ensaio, descritos na presente Parte, descrevem esquematicamente o
 
 Consoante o número de animais sacrificados sem dor ou mortos, o procedimento de ensaio segue as setas respectivas.
 
-# PARTE 1A — PROCEDIMENTO DE ENSAIO COM UMA DOSE INICIAL DE 5 MG/KG DE PESO CORPORAL
+## PARTE 1A — PROCEDIMENTO DE ENSAIO COM UMA DOSE INICIAL DE 5 MG/KG DE PESO CORPORAL
 
-[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[[[[[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
-# PARTE 1B — PROCEDIMENTO DE ENSAIO COM UMA DOSE INICIAL DE 50 MG/KG DE PESO CORPORAL
+## PARTE 1B — PROCEDIMENTO DE ENSAIO COM UMA DOSE INICIAL DE 50 MG/KG DE PESO CORPORAL
 
-[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[[[[[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
-# PARTE 1C — PROCEDIMENTO DE ENSAIO COM UMA DOSE INICIAL DE 300 MG/KG DE PESO CORPORAL
+## PARTE 1C — PROCEDIMENTO DE ENSAIO COM UMA DOSE INICIAL DE 300 MG/KG DE PESO CORPORAL
 
-[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[[[[[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
-# PARTE 1D — PROCEDIMENTO DE ENSAIO COM UMA DOSE INICIAL DE 2000 MG/KG DE PESO CORPORAL
+## PARTE 1D — PROCEDIMENTO DE ENSAIO COM UMA DOSE INICIAL DE 2000 MG/KG DE PESO CORPORAL
 
-[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[[[[[(ver fluxograma no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
-# PARTE 2 — CRITÉRIOS PARA A CLASSIFICAÇÃO DE SUBSTÂNCIAS DE ENSAIO COM VALORES PREVISÍVEIS DE LD(índice 50) SUPERIORES A 2000 MG/KG SEM NECESSIDADE DE EFECTUAR ENSAIO
+## PARTE 2 — CRITÉRIOS PARA A CLASSIFICAÇÃO DE SUBSTÂNCIAS DE ENSAIO COM VALORES PREVISÍVEIS DE LD(índice 50) SUPERIORES A 2000 MG/KG SEM NECESSIDADE DE EFECTUAR ENSAIO
 
 Os critérios para a Categoria de Perigosidade 5 destinam-se a permitir a identificação de substâncias de ensaio que representam um perigo de toxicidade aguda relativamente baixo, mas que, em certas circunstâncias, podem representar perigo para populações vulneráveis. É previsível que tais substâncias apresentem valores de DL(índice 50) por via oral ou dérmica na gama de 2000-5000 mg/kg ou dose equivalente para outras vias. As substâncias de ensaio podem ser classificadas na categoria de perigosidade definida por: 2000 mg/kg (menor que) DL(índice 50) (maior que) 5000 mg/kg (Categoria 5 do GHS) nos seguintes casos:
 
@@ -699,13 +711,13 @@ Devido ao reconhecimento da necessidade de proteger o bem-estar dos animais, os 
 
 Quando é necessário efectuar o ensaio com uma dose de 5000 mg/kg, só é necessária uma etapa (ou seja, três animais). Se o primeiro animal tratado morre, o ensaio prossegue a uma dose de 2000 mg/kg, em conformidade com os fluxogramas da Parte 1. Se o primeiro animal sobrevive, são tratados dois outros animais. Se somente um dos três animais morrer, é de prever que o valor de DL(índice 50) seja superior a 5000 mg/kg. Se ambos os animais morrerem, o ensaio prossegue com uma dose de 2000 mg/kg."
 
-# PARTE 3
+## PARTE 3
 
 MÉTODO DE ENSAIO B.1 tris: Orientações sobre a classificação em conformidade com o esquema transitório da UE em vigor até à implementação total do Sistema de Classificação Harmonizado ao Nível Mundial (GHS)
 
 (obtido da referência (8))
 
-[(ver fluxogramas no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[(ver fluxogramas no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
 ## ANEXO VII — "B. 4. TOXICIDADE AGUDA: IRRITAÇÃO/CORROSÃO DÉRMICA
 
@@ -921,7 +933,7 @@ Máximo possível: 4
 
 Poderá ser efectuado um exame histopatológico para clarificar respostas equívocas.
 
-# PARTE 1 — Uma Estratégia de Ensaio Sequencial para a Irritação e Corrosão Dérmica
+## PARTE 1 — Uma Estratégia de Ensaio Sequencial para a Irritação e Corrosão Dérmica
 
 CONSIDERAÇÕES GERAIS
 
@@ -967,7 +979,7 @@ FIGURA 1:
 
 ESTRATÉGIA DE ENSAIO E AVALIAÇÃO PARA IRRITAÇÃO/CORROSÃO DÉRMICA
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
 ## ANEXO VIII — "B. 5. TOXICIDADE AGUDA: IRRITAÇÃO/CORROSÃO OCULAR
 
@@ -1227,7 +1239,7 @@ Tumefacção, com as pálpebras mais do que semi-cerradas ... 4
 
 Máximo possível: 4
 
-# PARTE 1 — Uma Estratégia de Ensaio Sequencial para a Irritação e Corrosão Ocular
+## PARTE 1 — Uma Estratégia de Ensaio Sequencial para a Irritação e Corrosão Ocular
 
 CONSIDERAÇÕES GERAIS
 
@@ -1279,7 +1291,7 @@ FIGURA 1
 
 ESTRATÉGIA DE ENSAIO E AVALIAÇÃO PARA IRRITAÇÃO/CORROSÃO OCULAR
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
 ## ANEXO IX — "B.31. ESTUDO DE TOXICIDADE SOBRE O DESENVOLVIMENTO PRÉ-NATAL
 
@@ -2033,7 +2045,7 @@ O Quadro 1 fornece alguns exemplos de resultados:
 
 QUADRO 1
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
 3 RELATÓRIO
 
@@ -2085,19 +2097,19 @@ FIGURA 1
 
 Dispositivo pressurizado
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
 FIGURA 2
 
 Suporte do dispositivo
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
 FIGURA 3
 
 Sistema de ignição
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
 ## ANEXO XII — "B.42. SENSIBILIZAÇÃO DA PELE: ENSAIO DE GÂNGLIO LINFÁTICO LOCAL
 
@@ -2595,13 +2607,13 @@ TABELA 1
 
 Número mínimo de animais necessários, em cada grupo, para se realizar o ensaio de neurotoxicidade de forma independente ou em conjunto com outros estudos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
 TABELA 2
 
 Frequência das observações clínicas e dos ensaios funcionais
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
 ## ANEXO XIII — "C.21. MICRORGANISMOS DO SOLO: ENSAIO DE TRANSFORMAÇÃO DE AZOTO
 
@@ -3537,9 +3549,9 @@ Resultados:
 
 (37) Hurle K., Walker A. (1980). Persistence and its prediction. In Interactions between Herbicides and the Soil (R.J. Hance, Ed.), Academic Press, 83-122.
 
-# PARTE 1 — TENSÃO DE ÁGUA, CAPACIDADE DE CAMPO (FC) E CAPACIDADE DE RETENÇÃO DE ÁGUA (WHC)(1)
+## PARTE 1 — TENSÃO DE ÁGUA, CAPACIDADE DE CAMPO (FC) E CAPACIDADE DE RETENÇÃO DE ÁGUA (WHC)(1)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
 A tensão de água é medida em centímetros da coluna de água ou em bar. Devido à extensa gama de valores para a tensão de sucção, esta é simplesmente expressa como o valor de pF que é equivalente ao logaritmo da altura da coluna de água, em centímetros.
 
@@ -3549,23 +3561,23 @@ A capacidade de retenção de água (WHC) é determinada laboratorialmente em so
 
 (1) Mückenhausen, E. (1975). Die Bodenkunde und ihre geologischen, geomorphologischen, mineralogischen und petrologischen Grundlagen. DLG-Verlag, Frankfurt am Main.
 
-# PARTE 2 — TEORES DE HUMIDADE DO SOLO (g de água por 100 g de solo seco) DE VÁRIOS TIPOS DE SOLOS PROVENIENTES DE DIFERENTES PAÍSES
+## PARTE 2 — TEORES DE HUMIDADE DO SOLO (g de água por 100 g de solo seco) DE VÁRIOS TIPOS DE SOLOS PROVENIENTES DE DIFERENTES PAÍSES
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
-# PARTE 3
+## PARTE 3
 
 FIGURA 1:
 
 Exemplo de um sistema de fluxo para o estudo da transformação de produtos químicos no solo (1)(2)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
 FIGURA 2:
 
 Exemplo de um balão biométrico para o estudo da transformação de produtos químicos no solo (3)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
 (1) Guth, J.A. (1980). The study of transformations. In Interactions between Herbicides and the Soil (R.J. Hance, Ed.), Academic Press, 123-157.
 
@@ -3729,7 +3741,7 @@ Em casos específicos, poderá ser necessário medir, e incluir no relatório, o
 
 Medição de parâmetros para a caracterização das amostras água-sedimento (7)(22)(23)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
 1.8.3. Recolha, manuseamento e armazenamento
 
@@ -3941,7 +3953,7 @@ Resultados:
 
 (37) Carlton, R.R. and Allen, R. (1994). The use of a compartment model for evaluating the fate of pesticides in sediment/water systems. Brighton Crop Protection Conference - Pest and Diseases, pp 1349-1354.
 
-# PARTE 1 — ORIENTAÇÃO RELATIVA AOS SISTEMAS DE ENSAIO AERÓBIOS E ANAERÓBIOS
+## PARTE 1 — ORIENTAÇÃO RELATIVA AOS SISTEMAS DE ENSAIO AERÓBIOS E ANAERÓBIOS
 
 Sistema de ensaio aeróbio
 
@@ -3953,15 +3965,17 @@ No caso do sistema de ensaio anaeróbio, o procedimento de ensaio é essencialme
 
 No ensaio anaeróbio, a avaliação da mineralização inclui a medição do dióxido de carbono e metano libertados.
 
-# PARTE 2: EXEMPLO DE UM APARELHO DE FLUXO
+PARTE 2: EXEMPLO DE UM APARELHO DE FLUXO
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
 
-## ANEXO 3 — PARTE 3: EXEMPLO DE UM APARELHO BIOMÉTRICO
+## ANEXO 3
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+## PARTE 3: EXEMPLO DE UM APARELHO BIOMÉTRICO
 
-# PARTE 4 — EXEMPLO DE CÁLCULO PARA A DOSE DE SUBSTÂNCIA DE ENSAIO A APLICAR AOS RECIPIENTES DE ENSAIO
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)](https://files.diariodarepublica.pt/1s/2006/02/030a01/00020239.pdf)
+
+## PARTE 4 — EXEMPLO DE CÁLCULO PARA A DOSE DE SUBSTÂNCIA DE ENSAIO A APLICAR AOS RECIPIENTES DE ENSAIO
 
 Diâmetro interno do cilindro: = 8 cm
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/14600/08920894.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/394-1975-337067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T04:45:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30b3f39139c94724461a9e3b4f5b03f710afe986f55ec78ab7864609b419b541
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb872b0a384e7791ac5c300f387dc59fa26374ae682b2d0474e55997d22534bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:45:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Controlo de Qualidade
+- Definição de Competências
+- Junta Nacional dos Produtos Pecuários
 relationships:
 - type: amended_by
   target: pt:dre:495686:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:409681:por
+  label: Mantida em vigor para a campanha lanar de 1976-1977 pelo(a) Portaria n.º 618/76 - Diário da República n.º 243/1976,
+    Série I de 1976-10-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/618-1976-409681
+  date: '1976-10-16'
+- type: amended_by
+  target: pt:dre:256204:por
+  label: Mantida em vigor para a campanha lanar de 1977-1978 o presente diploma, mantida em vigor pela Port 618/76 de 15-Out,
+    pelo(a) Portaria n.º 528/77 - Diário da República n.º 190/1977, Série I de 1977-08-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/528-1977-256204
+  date: '1977-08-18'
+- type: amended_by
+  target: pt:dre:297434:por
+  label: Determinada a manutenção em vigor do presente diploma para a campanha lanar 1978-1979 pelo(a) Portaria n.º 390/78
+    - Diário da República n.º 165/1978, Série I de 1978-07-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/390-1978-297434
+  date: '1978-07-20'
+- type: amended_by
+  target: pt:dre:381978:por
+  label: "Mantida em vigor, para a campanha lanar de 1979-1980, pelo presente diploma, mantida em vigor pela Portaria 390/78,\
+    \ de 20 de Julho, pela PORT.358/79.21.07.1979.MFP, DR.IS [167] de 21.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/358-1979-381978
+  date: '1979-07-21'
+- type: amended_by
+  target: pt:dre:471763:por
+  label: "Mantida em vigor para a campanha lanar de 1980-1981 com a manutenção em vigor efectuada pela Portaria 358/79, de\
+    \ 21 de Julho, pela PORT.378/80.07.07.1980.MFP, DR.IS [155] de 07.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-1980-471763
+  date: '1980-07-07'
+- type: amended_by
+  target: pt:dre:580602:por
+  label: "Mantido em vigor o disposto no presente diploma, com a manutenção em vigor efectuada pela Portaria 378/80, de 08\
+    \ de Julho para a campanha lanar de 1981-1982 pela PORT.591/81.14.07.1981.MFP, DR.IS [159] de 14.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/591-1981-580602
+  date: '1981-07-14'
+- type: cites
+  target: pt:dre:202023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623395:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:495686:por
+  label: "Revogada pela PORT.798/87.16.09.1987.MF, DR.IS [213] de 16.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/798-1987-495686
+  date: '1987-09-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:45:39Z'
   warnings: []
   errors: []
 ---
@@ -281,4 +338,4 @@ Lavados saragoços: menos 30%.
 
 Serão desvalorizadas até 20% todas as lãs que apresentem restos de marcas a tinta com base em substâncias resistentes à lavagem industrial.
 
-**O Secretário de Estado do Abastecimento e Preços, José António da Conceição Neto. - O Secretário de Estado das Finanças, José de Almeida Serra. - O Secretário de Estado da Indústria e Tecnologia, João Manuel Midosi Bahuto Pereira da Silva Martins Pereira. - O Secretário de Estado do Fomento Agrário, Henrique Lopes Moreira de Seabra.**
+O Secretário de Estado do Abastecimento e Preços, José António da Conceição Neto. - O Secretário de Estado das Finanças, José de Almeida Serra. - O Secretário de Estado da Indústria e Tecnologia, João Manuel Midosi Bahuto Pereira da Silva Martins Pereira. - O Secretário de Estado do Fomento Agrário, Henrique Lopes Moreira de Seabra.

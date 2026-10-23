@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/112/2002/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2002-291836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53aa5915c0d7798922030cad3d05ed6f15edc3e3858b192921db148d9b0511a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae3eb6d445e63409135e624e4821263958636478bd0f4dec904b867313ffce66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água
-- Recursos Hídricos
+- Domínio Público Hídrico
 - Gestão dos Recursos
 - Plano Nacional da ÁGUA
-- Domínio Público Hídrico
+- Recursos Hídricos
 relationships:
 - type: amended_by
   target: pt:dre:75701996:por
@@ -99,16 +99,22 @@ relationships:
   target: celex:32000L0060
   label: null
   source: http://data.europa.eu/eli/dir/2000/60/oj
+- type: repealed_by
+  target: pt:dre:75701996:por
+  label: Revogado, a partir de 10.11.2016, pelo(a) Decreto-Lei n.º 76/2016 - Diário da República n.º 215/2016, Série I de
+    2016-11-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2016-75701996
+  date: '2016-11-09'
 article_structure:
   article_count: 2
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:01Z'
   warnings: []
   errors: []
 ---
@@ -181,15 +187,15 @@ O Plano Nacional da Água tem a duração máxima de 10 anos e deverá ser revis
 
 Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Rui Eduardo Ferreira Rodrigues Pena - Rui António Ferreira Cunha - Luís Garcia Braga da Cruz - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos - António Fernando Correia de Campos - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 19 de Fevereiro de 2002.**
+Promulgado em 19 de Fevereiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Fevereiro de 2002.**
+Referendado em 22 de Fevereiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ### CAPÍTULO I — Introdução
 
@@ -581,7 +587,7 @@ A unidade básica - a bacia hidrográfica, enformada pelo parâmetro hidrológic
 
 A unidade operativa - as actuais unidades homogéneas de planeamento e gestão de recursos hídricos - cuja definição resulta da integração das unidades hidrológicas com os referidos factores socioeconómicos, de modo a serem obtidas regiões de gestão e planeamento mais adequadas aos condicionalismos e aos fins específicos resultantes de uma abordagem integrada da gestão dos recursos hídricos.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 Pode, assim, concluir-se que o conceito de região hidrográfica referido na LBA enquanto unidade operativa de planeamento pode, por um lado, incluir a agregação de uma ou mais bacias hidrográficas determinadas em termos hidrológicos e, por outro, pode limitar-se a uma parte de uma dada bacia hidrográfica internacional.
 
@@ -1511,7 +1517,7 @@ Análise externa - a avaliação dos factores exógenos ao sector dos recursos h
 
 Análise interna - a avaliação dos factores internos aos diversos subsistemas que compõem os recursos hídricos, descrevendo-os no que eles têm de mais marcante, pela positiva ou pela negativa (pontos fortes e pontos fracos).
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 Do cruzamento destes factores de diagnóstico serão definidos os factores nucleares do sucesso do Plano, que serão enformadores dos objectivos que se sucederão.
 
@@ -2291,7 +2297,7 @@ Decorrem das novas estatísticas demográficas previsões evolutivas positivas d
 
 O cenário A considera um crescimento populacional moderado para o continente, escondendo, porém, a nível regional algumas tendências importantes, regressivas ou de estabilização do número de residentes. Expressa afinal uma litoralização e aumento da concentração metropolitana, embora a taxas menores do que as da década de 80 e início de 90. As cidades médias do interior tendem a consolidar-se e adquirir uma dimensão crítica que polariza novas actividades económicas, fazendo-o porém à custa do despovoamento dos pequenos meios rurais. Da mesma forma, centros de maior dinâmica económica tendem a manter-se e a reforça-se, polarizando em seu torno maiores concentrações demográficas de malha alargada e justificada pelas residências secundárias.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 O Alentejo continua uma relativa diminuição dos quantitativos populacionais, por força do aumento da mobilidade interna, para o litoral, parecendo consubstanciar uma realidade de fraca ligação a Espanha. A bacia hidrográfica do Guadiana perde cerca de 6000 residentes até 2006 e quase 30000 pessoas até 2020.
 
@@ -2305,7 +2311,7 @@ No cenário B em 2020 considera-se um quantitativo populacional significativamen
 
 A evolução das áreas de regadio (figura 6.3.2) é em grande medida dependente dos desenvolvimentos que a nova PAC trouxer e das quotas de mercado que forem permitidas para as diferentes culturas de regadio. O cenário A ensaia, sobretudo, um aumento gradual das áreas de regadio, enquanto que o cenário B constitui o limite máximo até onde é plausível pensar que se poderão expandir as áreas de regadio no continente.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 O cenário A corresponde a um aumento moderado, prevendo que até 2020 possam ser criadas novas áreas de rega, expandindo em cerca de 140000 ha a área de regadio actual e que segundo o RGA 99 é de aproximadamente 790000 ha (totalizar-se-ia assim 930200 ha). A implementação é gradual, a um ritmo mais intenso até 2006 (cerca de 13000 ha/ano), deduzido fundamentalmente dos compromissos assumidos pelo Estado perante os financiamentos que solicitou ao QCA III e que inscreveu no Plano Nacional de Regadios. Entre 2000 e 2006, de cerca de 80000 ha a implementar, 72500 ha (90%) são de iniciativa pública, pelo que seria a manifestação tendencial do comportamento dos privados perante o mercado agrícola nos próximos anos.
 
@@ -2321,7 +2327,7 @@ O cenário B traduz um aumento da área de rega de até 220000 ha, totalizando p
 
 No que se refere à evolução proposta para a indústria transformadora (figura 6.3.3), adoptando para a situação de referência a informação estatística de 1996, de acordo com os PBH, existirão na situação de referência cerca de 730 mil activos, representando 7,4% da população residente total ou cerca 24% da população activa (que por sua vez representa 48% da população total). O sector de emprego na indústria transformadora traduz na perspectiva da evolução recente alguma introversão das fileiras química e alimentar, alguns ganhos de competitividade do sector da metalurgia reflectidos pelo crescimento do VAB no sector, alguma internacionalização do sector da metalomecânica e da produção de equipamentos, algumas debilidades das fileiras têxtil e florestal (tradicionalmente as indústrias de exportação do País), devidas basicamente às desvantagens de uma afirmação internacional com base no factor preço, e dinamismo dos novos pólos de especialização industrial, agindo na produção de bens intermédios, com fortes possibilidades de internacionalização e baseados nas indústrias de material de transporte (fileira automóvel designadamente) e materiais de construção (cerâmicas em particular).
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 O cenário A corresponde a um aumento moderado dos efectivos da indústria transformadora até 2020 de cerca de 50 mil efectivos (totaliza 777 mil activos), o que traduz uma taxa de crescimento médio de 2300 efectivos por ano, o que se afigura como razoável para o crescimento demográfico minimalista e traduz bem a tendência recente de estabilização do sector industrial na economia (em termos de sector empregador). Seguindo de perto as tendências demográficas, as bacias hidrográficas «mais industriais» continuam a sua preponderância. A bacia do Leça representa cerca de 10% da população empregada no sector da indústria transformadora, seguida de muito perto por bacias hidrográficas como o Douro e Vouga e o Ave com 9%. A bacia do Tejo representa 8,5% da população e todas as restantes percentagens significativamente inferiores.
 
@@ -2365,7 +2371,7 @@ QUADRO 7.2.1
 
 Indicadores de referência para avaliação das necessidades de águas das populações
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 Da análise da figura 7.2.1 e comparativamente com a situação actual (8090240 habitantes servidos) verifica-se que as maiores evoluções das pressões no período 2000-2020 (9600000 habitantes ou 9800000 habitantes servidos em 2006, 9780000 habitantes ou 10140000 habitantes em 2012, 10010000 ou 10640000 habitantes em 2020) sobre os recursos hídricos se observa nas bacias hidrográficas dos rios Tejo e Douro (mais 160 hm3/ano na bacia hidrográfica do rio Tejo e 80 hm3/ano na bacia hidrográfica do rio Douro) e assiste-se a uma manutenção das necessidades na bacia hidrográfica dos rios Minho e Mira bem como a uma diminuição das necessidades na bacia hidrográfica do rio Guadiana (menos 6 hm3/ano). Nas restantes bacias hidrográficas assiste-se a um crescimento moderado das necessidades. Destaca-se que não estão contabilizados os valores referentes ao turismo e população flutuante, que assume especial relevância no PBH das ribeiras do Algarve.
 
@@ -2391,7 +2397,7 @@ QUADRO 7.2.2
 
 Eficiências globais de rega
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 As dotações actuais disponíveis para cada concelho consideram-se que se mantêm constantes ao longo do período de planeamento, admitindo que no conjunto das culturas de referência qualquer alteração não introduz variações significativas nas dotações médias.
 
@@ -2399,7 +2405,7 @@ QUADRO 7.2.3
 
 Taxa de utilização das áreas equipadas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 As eficiências globais de rega assumem-se que evoluem progressivamente e foram estabelecidas tendo como referência os valores propostos pelo IHERA/MADRP e pelos PBH, tendo como factor determinante o tipo de rega predominante e a dimensão tipo das parcelas de regadio para cada região agrária. Está subjacente a esta estimativa o facto de apenas 13% da área de regadio corresponder a perímetros de rega públicos e que, portanto, nos 87% de área é de regadio privado, o que pressupõe eficiências de rega superiores, tendo em conta que parte significativa de águas é distribuída por bombagem.
 
@@ -2427,7 +2433,7 @@ QUADRO 7.2.4
 
 Cargas geradas futuras de origem difusa
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 Como não se dispõem das projecções daqueles indicadores macroeconómicos com a desagregação espacial suficiente para planeamento de recursos hídricos, optou-se por indexar os activos na indústria transformadora ao número de residentes calculados pelas projecções demográficas (mantendo a proporção em cada concelho) e utilizar uma dotação bruta média de água por unidade de trabalhador e por dia equivalente à da situação de referência, como forma de obter as necessidades de água. Admite-se, também de forma simplificada, na estimativa das necessidades de água que se deverá manter a produtividade por trabalhador.
 
@@ -2447,7 +2453,7 @@ As pressões da industria também se fazem sentir pela via da rejeição de águ
 
 Os valores obtidos revelam que a maior carga gerada no futuro se localizará na bacia hidrográfica do rio Tejo para todos os parâmetros e que terá maior expressão por unidade de área nas bacias hidrográficas do rio Leça com 93 t/ano/km2 e 43 t/ano/km2, para os parâmetros CQO e SST, respectivamente.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 7.3 - Avaliação prospectiva da situação quantitativa dos recursos hídricos nos horizontes de planeamento
 
@@ -2457,7 +2463,7 @@ QUADRO 7.2.5
 
 Necessidades de água globais futuras anuais médias
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 O balanço hídrico exige duas interacções, a primeira, considerando apenas a capacidade de regularização instalada em cada horizonte de planeamento, identificando-se assim as bacias hidrográficas deficitárias, a segunda, incluindo o efeito de armazenamento e regularização das novas infra-estruturas e equipamentos necessários às supressões de tais défices, comprovando as garantias que esses equipamentos devem proporcionar.
 
@@ -2477,15 +2483,15 @@ QUADRO 7.2.6
 
 Cargas geradas globais futuras anuais médias
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 QUADRO 7.2.7
 
 Balanço hídrico por bacia - Águas de superfície
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 No quadro 7.2.8 verifica-se que as transferências actuais para as bacias hidrográficas dos rios Leça e Lis e das ribeiras do Oeste e do Algarve não são suficientes para garantir a satisfação da totalidade das necessidades nessas bacias hidrográficas. Analisando os quadros 7.2.9 e 7.2.10 verifica-se que as transferências para a bacia hidrográfica do rio Sado são suficientes para garantir as necessidades, mantendo-se no entanto ratios inferiores à unidade nas bacias hidrográficas dos rios Leça e Lis e nas ribeiras do Oeste e do Algarve.
 
@@ -2493,19 +2499,19 @@ QUADRO 7.2.8
 
 Quadro comparativo disponibilidades versus necessidades - Águas de superfície para o cenário B em 2006
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 QUADRO 7.2.9
 
 Quadro comparativo disponibilidades versus necessidades - Águas de superfície para cenário o B em 2012
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 QUADRO 7.2.10
 
 Quadro comparativo disponibilidades versus necessidades - Águas de superfície para o cenário B em 2020
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 Os resultados apresentados revelaram algumas situações de escassez de água que, por constituírem alguma surpresa, merecem uma investigação mais cuidada no sentido de as corrigir ou confirmar. As limitações resultantes dos dados disponíveis e da escala de trabalho utilizada impediu que se procedesse a essa análise no âmbito do PNA.
 
@@ -2529,7 +2535,7 @@ Não se prevendo um aumento significativo dos consumos de água na agricultura e
 
 No que respeita ao sector industrial, e apesar de não ser fácil fazer previsões a médio prazo sobre a evolução das características do tecido industrial nas diversas regiões do País, haverá por certo uma tendência para se consolidar a integração de um número significativo de indústrias nos sistemas urbanos de drenagem, com adequados pré-tratamentos. Certas unidades de maior dimensão manterão os seus sistemas próprios de tratamento e destino final, estimulando-se de forma crescente a adopção das melhores tecnologias disponíveis em detrimento das tecnologias de fim-de-linha. Nesta medida, há seguramente que aprofundar o conhecimento das características de certas actividades industriais, sendo previsível a gradual diminuição das cargas afluentes aos meios hídricos.
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 Situado no extremo sudoeste da Europa, desde muito cedo Portugal viu no mar a satisfação dos seus desígnios, a que se seguiu uma maior concentração de actividades e de pessoas junto ao litoral e ao longo dos troços navegáveis dos principais rios. Uns e outros constituíam as estradas por onde circulavam os bens e as pessoas. Muito mais tarde, o desenvolvimento industrial viu no mar e nos rios não só o meio mais acessível para efectuar o transporte de mercadorias, como também os meios receptores por excelência onde poderia rejeitar os resíduos resultantes da produção.
 
@@ -2589,7 +2595,7 @@ Apesar dos processos climáticos à escala global serem bastante complexos e env
 
 Foram aplicados dois tipos de modelos de resolução espacial diferente: os modelos de circulação global e os modelos de circulação regional.
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 A variabilidade dos diferentes cenários de precipitação tornam difícil a apresentação de estimativas quantificadas dos impactes das alterações climáticas sobre as disponibilidades de água. A prevista diminuição da precipitação acompanhada por um aumento da evapotranspiração potencial, relacionada com o aumento da temperatura, tenderá a provocar uma diminuição das disponibilidades de água. As variações sazonais das alterações da temperatura e precipitação podem, no entanto, não confirmar esta tendência.
 
@@ -2745,7 +2751,7 @@ O Aproveitamento Hidráulico de Fins Múltiplos do Barlavento Algarvio assenta n
 
 O aproveitamento hidráulico é constituído por um sistema de barragens/albufeiras, interligadas entre si, que constituem as origens de água, e por um sistema de adução principal até uma estação de tratamento de água (ETA de Alcantarilha).
 
-# Parte do sistema geral ainda não se encontra construído como é o caso da barragem de Odelouca e do respectivo túnel de ligação ao Funcho.
+Parte do sistema geral ainda não se encontra construído como é o caso da barragem de Odelouca e do respectivo túnel de ligação ao Funcho.
 
 Presentemente, o abastecimento de água para rega apenas é realizado a partir das albufeiras do Funcho e Arade e da Bravura para os dois aproveitamentos hidroagrícolas há muito existentes nesta região. A rega futura, de mais áreas, deverá vir a ser feita a partir do adutor de água bruta mediante uma derivação prevista a montante da ETA de Alcantarilha; também se prevê regar diversos blocos a partir de águas subterrâneas, como já acontece no caso do bloco do Benaciate.
 
@@ -2859,7 +2865,7 @@ QUADRO 1.3.1
 
 Objectivos de qualidade para as massas de água(ver nota *)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 (nota *) Sem prejuízo das derrogações previstas na DQA.
 
@@ -2875,7 +2881,7 @@ QUADRO 1.3.2
 
 Prazos de protecção das águas subterrâneas destinadas a produção de água para consumo humano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 Promover a execução das infra-estruturas de tratamento de águas residuais urbanas necessárias para assegurar o cumprimento da Directiva n.º [91/271/CEE](http://data.europa.eu/eli/dir/1991/271/oj?locale=pt), transposta para o direito interno pelo Decreto-Lei n.º 152/97, de 19 de Junho, com as alterações introduzidas pelo Decreto-Lei n.º 172/2001, de 26 de Maio, de forma que:
 
@@ -2989,7 +2995,7 @@ QUADRO 1.3.3
 
 Objectivos de qualidade da água em função dos usos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 Promover, em geral, um incremento da eficiência global de rega, a médio prazo entre 5% e 10% e de 15% a longo prazo, nos sistemas de iniciativa pública, tradicionais e individuais, principalmente naqueles onde se pratica a rega por gravidade;
 
@@ -3059,7 +3065,7 @@ QUADRO 1.3.4
 
 Prazos de aplicação da Directiva Quadro da Água
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 1.3.6 - Promover a racionalização, a optimização e a eficácia do quadro institucional, a adequação do quadro normativo nacional às novas perspectivas e exigências da gestão e planeamento em matéria de recursos hídricos e o cumprimento da legislação comunitária e dos acordos internacionais subscritos por Portugal:
 
@@ -3125,7 +3131,7 @@ Objectivos e estratégias de planos sectoriais relevantes
 
 Planos nacionais/sectoriais
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 Do PDR destacam-se na componente «IV.2 - Sustentabilidade ambiental», pela sua relação com o PNA, as perspectivas:
 
@@ -3185,7 +3191,7 @@ Elaborado o diagnóstico e identificados os principais problemas e respectivas c
 
 A sequência e suporte da elaboração do programa de medidas pode ser ilustrada da seguinte forma (figura 3.1.1.):
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 Na formulação do programa de medidas atende-se ao facto de o Decreto-Lei n.º 45/94, de 22 de Fevereiro, estabelecer na alínea c) do n.º 3 do seu artigo 6.º que o PNA deve conter uma proposta de medidas e acções que compreenda, de entre outras, as medidas para a coordenação dos diferentes PBH.
 
@@ -3209,7 +3215,7 @@ QUADRO 3.2.1
 
 Articulação eixos-objectivos gerais
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 Os programas de acção, em número de 16 (P1 a P16), foram agrupados por eixos em função da sua natureza e contribuição para a realização do objectivo geral associado a esse eixo e são constituídos por medidas que constam dos estudos de base do Plano e que se relacionam de forma mais directa, não com os grandes problemas identificados na caracterização e diagnóstico, mas antes com os problemas específicos inventariados naquela parte do Plano.
 
@@ -3221,7 +3227,7 @@ QUADRO 3.2.2
 
 Articulação eixos-programas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 O PNA assegura o enquadramento dos PBH, pelo que os programas de medidas destes últimos têm de ser necessariamente coerentes e articulados com os eixos e respectivos programas de acção do PNA por forma que da execução dos projectos previstos nos PBH resulte em simultâneo uma contribuição para a concretização do programa de medidas do PNA.
 
@@ -3243,7 +3249,7 @@ Programa - Protecção, Recuperação e Promoção da Qualidade dos Recursos Hí
 
 Principais problemas - ocorrência de água com qualidade insuficiente para algumas utilizações e requisitos ambientais, ocorrência de riscos de poluição acidental, insuficiência e precariedade dos sistemas de abastecimento de água e saneamento de águas residuais urbanas e industriais, deficiente protecção das origens e captações, ausência de gestão articulada entre origens e captações de água e insuficiência de cumprimento da legislação.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 Articulação com a DQA - o programa P1 articula-se, em especial, com as actividades «Caracterização das regiões hidrográficas», «Programa de medidas para cumprimento de objectivos» e «Planos de gestão de bacia hidrográfica».
 
@@ -3451,15 +3457,15 @@ A organização dos serviços ao nível das Regiões Autónomas será assegurada
 
 Regiões hidrográficas
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 Regiões hidrográficas
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 Administrações de regiões hidrográficas
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 Proposta de criação dos conselhos de região hidrográfica (CRH), um por cada RH ou por áreas de jurisdição das ARH, órgãos representativos de consulta e decisão no âmbito da gestão dos recursos hídricos, com representação dos organismos do Estado relacionados com o uso da água e dos diversos utilizadores e com poderes mais alargados em matéria de participação dos cidadãos e das suas organizações do que os actualmente consagrados no Decreto-Lei n.º 45/94, de 22 de Fevereiro.
 
@@ -3541,7 +3547,7 @@ QUADRO 3.4.1
 
 Contribuição dos programas para a resolução dos problemas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 Os programas relacionados com a «Divulgação e sensibilização» (P12) e com a «Promoção da participação dos utilizadores» (P13) contribuem de forma muito importante para que possam ser minimizados e erradicados os problemas que se verificam actualmente relacionados com a insuficiente informação e sensibilização das populações para a problemática da água, bem como com a relativamente diminuta co-responsabilidade dos utilizadores na gestão da água.
 
@@ -3663,7 +3669,7 @@ QUADRO 3.5.1
 
 Principais disposições da DQA a aplicar pelos Estados-Membros e respectivos prazos de execução e revisão
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 Disposições relativas às regiões hidrográficas internacionais
 
@@ -3797,7 +3803,7 @@ D - Sistematização dos relatórios exigidos pela DQA.
 
 Na figura 3.5.1 são apresentadas as acções directamente relacionadas com a implementação legal da DQA e a elaboração da primeira geração de planos de gestão de bacia hidrográfica. Para além destas acções, os Estados-Membros deverão desenvolver iniciativas conjuntas com a Comissão e os outros Estados-Membros, nomeadamente o exercício de intercaliberação de sistemas de classificação dos parâmetros biológicos.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 Articulação entre programas e actividades
 
@@ -3815,7 +3821,7 @@ QUADRO 3.5.2
 
 Articulação entre programas (PNA) e actividades (DQA)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 4 - Programação física e financeira
 
@@ -3851,7 +3857,7 @@ Em face do que antecede a programação física proposta no pna, estando no seu 
 
 Plano Nacional da Água
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 5 - Programação da execução material e financeira
 
@@ -3875,13 +3881,13 @@ Ascendendo o montante total do investimento a cerca de 1780 milhões de contos (
 
 A importância elevada do eixo «Gestão integrada da procura», quando comparada com outros eixos, deriva da conjugação de dois factores: por um lado, a orientação assumida no âmbito do PDR de assegurar que 95% da população em 2006 seja abastecida por sistema públicos; por outro, a opção decorrente do quadro previsto no Plano Novos Regadios 2000-2006, nele incluído a componente rega prevista pelo Empreendimento de Fins Múltiplos de Alqueva.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 QUADRO 5.2.1
 
 Investimentos por eixos - PNA
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 A estes dois factores deve ser acrescentado o que decorre dos investimentos necessários à concretização do objectivo do PNA de aumentar a eficiência de utilização da água na rega e de reduzir as perdas nos sistemas de abastecimento, o que implica investimentos significativos.
 
@@ -3913,17 +3919,17 @@ QUADRO 5.3.1
 
 Investimentos de programa e período
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 Outro problema com que o País se debate no domínio dos recursos hídricos é o da poluição dos meios hídricos, pelo que o PNA inscreve no orçamento das suas medidas e acções o Programa P2 - Redução e Controlo da Poluição Tópica, o qual, com um investimento de 380 milhões de contos (1880 milhões de euros) (22% do total), pretende alterar significativamente esta realidade através da elevação dos níveis de atendimento da população servida com redes de drenagem e tratamento de águas residuais para 90% até 2006, o que passa nomeadamente pela implementação de sistemas integrados previstos no PEAASAR.
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 O terceiro programa mais relevante quanto aos montantes de investimento estimados é o Programa P7 - Conservação dos Recursos Hídricos, cabendo-lhe 184,6 milhões de contos (920 milhões de euros), ou seja, 10% do total do investimento, o que evidencia o esforço financeiro ainda necessário para reduzir as perdas actuais nos sistemas de abastecimento para valores aceitáveis em termos de gestão racional dos recursos hídricos e para aumentar as eficiências globais de rega.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 Os Programas P1 - Protecção, Recuperação e Promoção da Qualidade dos Meios Hídricos, P3 - Conservação Ambiental e da Integridade Biológica e P5 - Ordenamento e Gestão do Domínio Hídrico detêm uma importância relativa semelhante no quadro dos investimentos estimados no PNA entre 3% e 5%. Estes programas compreendem medidas no âmbito do controlo da qualidade das massas de água, protecção das origens, avaliação e controlo das fontes de poluição, secas, acidentes de poluição, estabelecimento de caudais ambientais, reabilitação e conservação de ecossistemas, ordenamento do domínio hídrico, prevenção e minimização dos efeitos das cheias e conservação da rede hidrográfica.
 
@@ -3947,7 +3953,7 @@ No período inicial a evolução da taxa de execução financeira do Plano está
 
 Verifica-se que existem programas que embora não tendo uma expressão financeira significativa, são todavia relevantes para a implementação e sustentabilidade do Plano, destacando-se nesse contexto os Programas Ordenamento e Gestão do Domínio Hídrico e Aplicação do Regime Económico e Financeiro.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
+[[[[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)](https://files.diariodarepublica.pt/1s/2002/04/090a00/37243817.pdf)
 
 Apesar de o PNA contemplar acções e medidas que extravasam o âmbito dos PBH, a despesa global é, contudo, inferior ao somatório das verbas previstas nestes, por optimizar os custos das medidas e acções em resultado da sua inserção numa lógica global e numa perspectiva nacional.
 

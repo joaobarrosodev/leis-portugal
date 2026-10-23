@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/212/2012/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2012-175526
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e77d7d163f861119f15b426cbe354e1490bed08516826bcebd0e3bdf4a79271
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e914ee69c6622bbf4ab115299795535dd507f9f5df09f3999538e1ebf009ff88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gás Natural
 - Aproximação das Legislações
 - Arbitragem
 - Autoridade da Concorrência
-- Energia Elétrica
-- Definição de Competências
 - Concorrência
-- Estatuto
-- Mercado Interno
+- Definição de Competências
+- Energia Elétrica
 - Entidade Reguladora dos Serviços Energéticos
-- Regulamento Tarifário
+- Estatuto
+- Gás Natural
+- Mercado Interno
 - Preço
 - Regulamento da Qualidade de Serviço
 - Regulamento de Operação das Infra-estruturas
@@ -86,12 +85,22 @@ subjects:
 - Regulamento de Relações Comerciais
 - Regulamento do Acesso as Redes as Infra Estruturas e as Interligações
 - Regulamento do Acesso as Redes e as Interligações
+- Regulamento Tarifário
 - Sistema Nacional de Gás Natural
 relationships:
 - type: amended_by
   target: pt:dre:122476954:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:497411:por
+  label: "Dada nova redação aos arts. 3º, 4º, 6º, 8º, 10º, 13º, 20º, 22º, 28º, 29º, 31º, 32º, 33º, 34º, 41º, 44º, 46º, 49º,\
+    \ 50º, 54º e 55º, assim como é alterada a organização sistemática relativa à secção I do cap. II, que passa a denominar-se\
+    \ «Competências genéricas», à secção VI do cap. II, que passa a denominar-se «Resolução de litígios», todos dos Estatutos\
+    \ da Entidade Reguladora dos Serviços Energéticos (ERSE), aprovados pelo Dec Lei 97/2002 de 12-abr, com as alterações\
+    \ constantes do presente diploma, pelo DEC LEI.84/2013.25.06.2013.MEE, DR.IS [120] de 25.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2013-497411
+  date: '2013-06-25'
 - type: cites
   target: celex:32003L0054
   label: null
@@ -113,15 +122,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2009/713/oj
 article_structure:
-  article_count: 49
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:03Z'
   warnings: []
   errors: []
 ---
@@ -270,7 +279,9 @@ h) Efetuar inspeções, incluindo inspeções não anunciadas, nas instalações
 
 i) Atribuir todas as funções, ou funções específicas do operador da rede de transporte, a um operador de rede independente nos termos da lei, em caso de incumprimento reiterado por parte do operador da rede de transporte das obrigações que lhe incumbem nos termos da lei, em especial em caso de comportamento discriminatório persistente a favor da empresa verticalmente integrada.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -278,13 +289,17 @@ i) Atribuir todas as funções, ou funções específicas do operador da rede de
 
 3 - A ERSE goza de capacidade judiciária ativa e passiva.
 
-###### Artigo 5.º — Promoção e defesa da concorrência
+Artigo 5.º
+
+Promoção e defesa da concorrência
 
 1 - Compete à ERSE fomentar e garantir a observância das regras da concorrência nos sectores por si regulados, sem prejuízo das competências da Autoridade da Concorrência.
 
 2 - Incumbe à ERSE denunciar à Autoridade da Concorrência as práticas restritivas da concorrência de que tenha conhecimento e colaborar com aquela no correspondente procedimento sancionatório.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os operadores cujas atividades estão sujeitas à regulação da ERSE, nos termos previstos na legislação e regulamentação aplicáveis, estão obrigados a prestar à ERSE toda a cooperação que esta lhes solicite para o cabal desempenho das suas funções, designadamente a informação e os documentos de que necessite.
 
@@ -292,19 +307,25 @@ i) Atribuir todas as funções, ou funções específicas do operador da rede de
 
 3 - Os operadores referidos no n.º 1 estão sujeitos, nos termos da legislação que estabelece as bases dos sectores regulados e dos seus diplomas complementares, ao cumprimento dos regulamentos aprovados pela ERSE.
 
-###### Artigo 7.º — Divulgação da informação
+Artigo 7.º
+
+Divulgação da informação
 
 1 - A ERSE pode proceder à divulgação da informação recolhida no âmbito das suas atividades regulatórias junto dos operadores cujas atividades estejam sujeitas a regulação, sem prejuízo do respeito pelas informações que pela sua natureza estejam sujeitas a segredo comercial ou industrial ou relativo à propriedade intelectual, bem como das regras aplicáveis em matéria de tratamento de dados pessoais.
 
 2 - A informação referida na parte final do número anterior pode ser partilhada com as demais entidades reguladoras da União Europeia, incluindo as entidades de supervisão financeira e as autoridades da concorrência, desde que estas se comprometam a manter a confidencialidade da informação partilhada.
 
-###### Artigo 8.º — Competências
+Artigo 8.º
+
+Competências
 
 1 - A ERSE dispõe das competências necessárias à prossecução da sua finalidade e das atribuições estabelecidas nos presentes Estatutos e na legislação que regula o Sistema Elétrico Nacional (SEN) e o Sistema Nacional de Gás Natural (SNGN).
 
 2 - As competências da ERSE com vista à prossecução das suas atribuições, nos termos previstos no número anterior, são de natureza regulamentar, de regulação e supervisão, consultiva, sancionatória e de arbitragem.
 
-###### Artigo 9.º — Regulamentos da ERSE
+Artigo 9.º
+
+Regulamentos da ERSE
 
 1 - A ERSE dispõe de competência para a elaboração e aprovação de regulamentos destinados à aplicação da legislação que disciplina a organização e o funcionamento dos sectores que integram o âmbito da regulação da ERSE.
 
@@ -338,7 +359,9 @@ v) Regulamento de Operação das Infraestruturas.
 
 4 - Os regulamentos da ERSE podem prever procedimentos de autorregulação das entidades intervenientes nos sectores regulados, possibilitando-lhes a adoção de regulamentos internos que, conformando-se com a regulamentação da ERSE, desenvolvam os seus princípios, tendo em vista a sua eficiente e adequada aplicação, designadamente em matérias que confiram aos agentes e aos consumidores melhores condições na prestação do serviço regulado.
 
-###### Artigo 10.º — Procedimento regulamentar
+Artigo 10.º
+
+Procedimento regulamentar
 
 1 - Antes da aprovação ou alteração de qualquer regulamento cuja emissão seja da sua competência, e sem prejuízo da consulta ao conselho consultivo ou ao conselho tarifário em razão das matérias da competência de cada um destes conselhos, a ERSE deve comunicar o procedimento em curso ao membro do Governo responsável pela área da energia, à Direção-Geral de Energia e Geologia (DGEG), às entidades concessionárias, licenciadas, aos comercializadores, às associações de consumidores de interesse genérico e ao público em geral, facultando-lhes o acesso aos textos respetivos e disponibilizando-os na sua página na Internet.
 
@@ -352,7 +375,9 @@ v) Regulamento de Operação das Infraestruturas.
 
 6 - Os regulamentos da ERSE que contenham normas de eficácia externa são publicados na 2.ª série do Diário da República e disponibilizados na sua página na Internet.
 
-###### Artigo 11.º — Poderes de regulação e de supervisão
+Artigo 11.º
+
+Poderes de regulação e de supervisão
 
 1 - A ERSE dispõe de poderes de regulação, competindo-lhe no seu exercício:
 
@@ -370,13 +395,17 @@ c) Assegurar a aplicação das leis e regulamentos e demais normas aplicáveis n
 
 d) Exigir das entidades cujas atividades estão abrangidas pela sua regulação toda a informação de que necessite para o exercício das suas atribuições e competências.
 
-###### Artigo 12.º — Fixação de tarifas e preços das atividades reguladas
+Artigo 12.º
+
+Fixação de tarifas e preços das atividades reguladas
 
 1 - Compete à ERSE nos termos da lei e dos regulamentos tarifários referidos na secção anterior estabelecer e aprovar os valores das tarifas e preços regulados.
 
 2 - As decisões da ERSE relativas a tarifas e preços são publicadas na 2.ª série do Diário da República e divulgadas através da página da ERSE na Internet e de outros instrumentos que se considerem adequados.
 
-###### Artigo 13.º — Atividade de fiscalização
+Artigo 13.º
+
+Atividade de fiscalização
 
 1 - Os trabalhadores da ERSE, os mandatários desta entidade, bem como as pessoas ou entidades qualificadas devidamente credenciadas que, em nome da ERSE, desempenhem funções de fiscalização, quando se encontrem no exercício das suas funções, podem:
 
@@ -388,35 +417,49 @@ c) Aceder às instalações, equipamentos e serviços das entidades sujeitas à 
 
 2 - Às pessoas referidas no número anterior que desempenhem as funções aí enunciadas é atribuído um cartão de identificação, aprovado e assinado pelo presidente do conselho de administração ou, na ausência ou impedimento deste, pela assinatura conjunta de dois membros do conselho de administração.
 
-###### Artigo 14.º — Inquéritos e auditorias
+Artigo 14.º
+
+Inquéritos e auditorias
 
 A ERSE pode determinar, por sua iniciativa, ou mediante solicitação do membro do Governo responsável pela área da energia, a realização de sindicâncias, inquéritos ou auditorias às entidades reguladas, desde que as referidas diligências tenham por objeto matérias que se enquadrem nas atividades reguladas e se integrem nas suas atribuições.
 
-###### Artigo 15.º — Pareceres no âmbito de cooperação administrativa e jurisdicional
+Artigo 15.º
+
+Pareceres no âmbito de cooperação administrativa e jurisdicional
 
 1 - Sem prejuízo das consultas ou pareceres previstos na lei, a ERSE deve, no âmbito das matérias das suas atribuições, prestar apoio, designadamente através da emissão de pareceres, a outras entidades da administração pública, em especial à Autoridade da Concorrência, à Direção-Geral de Energia e Geologia, à Direção-Geral do Consumidor e à Comissão do Mercado dos Valores Mobiliários.
 
 2 - No âmbito das suas atribuições, a ERSE emite os pareceres que lhe forem solicitados pelos tribunais, nomeadamente sobre matérias de natureza regulatória.
 
-###### Artigo 16.º — Consultas e pareceres da ERSE
+Artigo 16.º
+
+Consultas e pareceres da ERSE
 
 Incumbe à ERSE pronunciar-se, a pedido da Assembleia da República e do Governo, sobre iniciativas legislativas ou outras respeitantes às suas atribuições no âmbito dos sectores da eletricidade e do gás natural.
 
-###### Artigo 17.º — Natureza dos pareceres da ERSE
+Artigo 17.º
+
+Natureza dos pareceres da ERSE
 
 Salvo disposição legal expressa em contrário, os pareceres previstos na lei cuja competência de emissão pertence à ERSE não são vinculativos.
 
-###### Artigo 18.º — Prazos de emissão dos pareceres da ERSE
+Artigo 18.º
+
+Prazos de emissão dos pareceres da ERSE
 
 Salvo no caso de um prazo diferente ser estipulado por lei ou regulamento, os pareceres da ERSE devem ser emitidos dentro do prazo de 30 dias a contar da data da solicitação dos mesmos.
 
-###### Artigo 19.º — Poderes sancionatórios
+Artigo 19.º
+
+Poderes sancionatórios
 
 1 - Estão sujeitos ao poder sancionatório da ERSE todas as entidades intervenientes no Sistema Elétrico Nacional (SEN) e no Sistema Nacional de Gás Natural (SNGN), cujas atividades estejam sujeitas à regulação da ERSE, nos termos da legislação que estabelece as bases dos sectores, da legislação complementar, destes Estatutos e dos regulamentos identificados no n.º 2 do artigo 9.º ou dos regulamentos cuja aprovação, aplicação ou supervisão sejam da competência da ERSE.
 
 2 - O regime sancionatório do sector energético é objeto de diploma próprio.
 
-###### Artigo 20.º — Resolução de conflitos
+Artigo 20.º
+
+Resolução de conflitos
 
 1 - No exercício das suas competências em matéria de resolução de conflitos entre os operadores sujeitos à regulação da ERSE, ou entre eles e os seus clientes ou terceiros, cabe à ERSE:
 
@@ -428,7 +471,9 @@ b) Tomar conhecimento das queixas dos clientes e adotar as providências necess�
 
 3 - A ERSE deve assegurar que os procedimentos adotados nos termos do n.º 1 são decididos no prazo máximo de dois meses a contar da data da receção do pedido, podendo este prazo ser prorrogado por igual período quando a ERSE necessitar de informações complementares, ou, ainda, por um período superior mediante acordo com o queixoso.
 
-###### Artigo 21.º — Inspeção dos registos de queixas
+Artigo 21.º
+
+Inspeção dos registos de queixas
 
 1 - A ERSE deve regularmente inspecionar os registos de queixas dos consumidores apresentadas aos operadores sujeitos à sua regulação, designadamente aos comercializadores.
 
@@ -440,23 +485,31 @@ b) Tomar conhecimento das queixas dos clientes e adotar as providências necess�
 
 5 - A ERSE, na sequência do tratamento das queixas ou reclamações, pode, consoante os casos, ordenar ou recomendar aos operadores sujeitos à sua regulação as providências necessárias à reparação justa dos direitos dos consumidores.
 
-###### Artigo 22.º — Arbitragem
+Artigo 22.º
+
+Arbitragem
 
 1 - Compete à ERSE fomentar a arbitragem para a resolução dos conflitos emergentes dos contratos entre as entidades intervenientes nos sectores regulados e os consumidores, designadamente entre estes e os comercializadores no âmbito do fornecimento de energia, assegurando aos consumidores os meios para a sua realização.
 
 2 - Na ausência de lei especial que enquadre a forma e os termos de funcionamento da arbitragem prevista neste artigo, aplicam-se as disposições relativas à resolução extrajudicial dos conflitos constantes da Lei dos Serviços Públicos Essenciais, aprovada pela Lei n.º 23/96, de 23 de julho, alterada pelas Leis n.os 12/2008, de 26 de fevereiro, 24/2008, de 2 de junho, e 6/2011, de 10 de março.
 
-###### Artigo 23.º — Fomento e condições de processamento de arbitragem
+Artigo 23.º
+
+Fomento e condições de processamento de arbitragem
 
 1 - Independentemente da natureza da arbitragem prevista no artigo anterior, a ERSE deve criar as condições para que os consumidores possam, através da arbitragem, ver resolvidos os seus conflitos com as entidades intervenientes nos sectores regulados, em especial com os comercializadores, em termos processuais simples, expeditos e tendencialmente gratuitos.
 
 2 - Para efeitos do disposto no número anterior, a ERSE pode tomar a iniciativa de, em colaboração com outras entidades, promover a criação de novos centros de arbitragem institucionalizada ou celebrar protocolos com centros de arbitragem institucionalizada existentes, cabendo-lhe nesse caso promover a adesão das entidades intervenientes nos sectores regulados aos referidos centros de arbitragem.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 O conselho de administração é o órgão colegial responsável pela definição, orientação, condução e acompanhamento das atividades da ERSE.
 
-###### Artigo 28.º — Composição, designação e estatuto
+Artigo 28.º
+
+Composição, designação e estatuto
 
 1 - ...
 
@@ -468,7 +521,9 @@ O conselho de administração é o órgão colegial responsável pela definiçã
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 29.º — Incompatibilidades e impedimentos
+Artigo 29.º
+
+Incompatibilidades e impedimentos
 
 1 - Não pode ser designado para o conselho de administração quem seja ou tenha sido, nos últimos dois anos, membro dos órgãos sociais de administração ou gerência de sociedades comerciais ou demais pessoas coletivas intervenientes nos sectores regulados pela ERSE, quem exerça ou tenha exercido, no mesmo período, outras funções de direção nas mesmas entidades e ainda quem tenha realizado quaisquer estudos e trabalhos para as empresas dos sectores regulados, ainda que de forma independente, sobre os sectores regulados.
 
@@ -490,7 +545,9 @@ a) O ex-membro do conselho de administração tenha atingido a idade de reforma 
 
 b) O termo do mandato ocorra por renúncia ao cargo ou uma das causas previstas no n.º 2 do artigo seguinte.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - Compete ao conselho de administração definir, orientar e acompanhar as atividades e serviços da ERSE, bem como representar a ERSE e assegurar a execução das suas atividades.
 
@@ -528,7 +585,9 @@ o) Praticar os demais atos de gestão corrente necessários ao bom funcionamento
 
 p) Tomar decisões no âmbito de processos de contraordenação que corram os seus termos ao abrigo do regime sancionatório do sector energético, incluindo as relativas à aplicação de coimas e sanções acessórias.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - O conselho de administração reúne, ordinariamente, uma vez por semana e, extraordinariamente, sempre que o presidente o convoque, por sua iniciativa ou a solicitação de qualquer um dos seus membros.
 
@@ -542,7 +601,9 @@ p) Tomar decisões no âmbito de processos de contraordenação que corram os se
 
 6 - Os membros presentes não podem recusar-se a assinar as atas das reuniões, mesmo que não estejam de acordo com as deliberações nelas tomadas, devendo, nesse caso, consignar na ata a sua declaração de voto em sentido contrário ao da deliberação.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - Compete ao presidente coordenar a atividade do conselho de administração, nomeadamente:
 
@@ -562,17 +623,23 @@ e) Exercer as competências que lhe sejam delegadas pelo conselho de administra�
 
 4 - Sem prejuízo do disposto no n.º 4 do artigo 14.º do Código do Procedimento Administrativo, o presidente ou o seu substituto legal podem opor o seu veto a deliberações que reputem contrárias à lei, aos presentes Estatutos e aos regulamentos.
 
-###### Artigo 34.º — Responsabilidade dos membros
+Artigo 34.º
+
+Responsabilidade dos membros
 
 1 - Os membros do conselho de administração da ERSE são solidariamente responsáveis pelos atos praticados no exercício das suas funções.
 
 2 - São isentos de responsabilidade os membros que, tendo estado presentes na reunião em que foi tomada a deliberação, tiverem manifestado o seu desacordo, em declaração consignada na respetiva ata.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 O fiscal único é o órgão da ERSE responsável pelo controlo da legalidade e mérito da gestão financeira e patrimonial da ERSE, bem como de consulta do conselho de administração nesse domínio.
 
-###### Artigo 38.º — Competências
+Artigo 38.º
+
+Competências
 
 1 - Compete ao fiscal único:
 
@@ -602,11 +669,15 @@ b) Ter acesso a todos os serviços e à documentação da ERSE, podendo solicita
 
 c) Tomar ou propor as demais providências que considere indispensáveis.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 O conselho consultivo é o órgão de consulta na definição das linhas gerais de atuação da ERSE e nas deliberações adotadas pelo conselho de administração.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -686,7 +757,9 @@ f) [Anterior alínea d)].
 
 8 - O representante do operador logístico de mudança de comercializador de eletricidade e de gás natural passa a integrar o conselho consultivo a partir da data em que a respetiva entidade representada inicie as suas funções, nos termos da legislação aplicável.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -696,7 +769,9 @@ b) A secção do sector do gás natural, composta pelos representantes mencionad
 
 2 - O plenário e as secções do conselho consultivo são presididos pelo representante do membro do Governo responsável pela área da energia.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Compete ao conselho consultivo, reunido em plenário, emitir parecer sobre:
 
@@ -722,7 +797,9 @@ c) Outras matérias relacionadas com o sector elétrico ou com o sector do gás 
 
 5 - Os pareceres do conselho consultivo são publicitados pela ERSE na sua página na Internet, bem como por outros meios considerados adequados.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - O conselho consultivo reúne ordinariamente, pelo menos, duas vezes por ano.
 
@@ -738,7 +815,9 @@ c) Outras matérias relacionadas com o sector elétrico ou com o sector do gás 
 
 7 - O pagamento das ajudas de custo e das senhas de presença dos representantes das sociedades comerciais representadas no conselho consultivo é assegurado pelas respetivas sociedades, no valor e demais termos e condições a definir por estas.
 
-###### Artigo 46.º — Composição e designação
+Artigo 46.º
+
+Composição e designação
 
 1 - ...
 
@@ -794,7 +873,9 @@ s) Um representante das associações que tenham como associados consumidores de
 
 8 - A designação dos membros do conselho tarifário é feita por um período de três anos, renovável, sem prejuízo de os referidos membros poderem ser substituídos a qualquer momento pelas entidades que os designam.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -804,7 +885,9 @@ b) A secção do sector do gás natural, composta pelos representantes mencionad
 
 2 - O conselho tarifário pode reunir, em sessão plenária, para tratar de questões comuns às duas secções que o compõem.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - Compete ao conselho tarifário emitir parecer, através das suas secções, sobre a aprovação e revisão dos regulamentos tarifários, bem como sobre a fixação de tarifas e preços.
 
@@ -816,7 +899,9 @@ b) A secção do sector do gás natural, composta pelos representantes mencionad
 
 5 - Os pareceres do conselho tarifário são publicitados pela ERSE e disponibilizados para consulta na sua página na Internet, bem como por outros meios considerados adequados.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - Cada secção do conselho tarifário reúne ordinariamente uma vez por ano, por convocação do seu presidente.
 
@@ -832,7 +917,9 @@ b) A secção do sector do gás natural, composta pelos representantes mencionad
 
 7 - O conselho tarifário aprova o seu regulamento interno.
 
-###### Artigo 50.º — Receitas
+Artigo 50.º
+
+Receitas
 
 1 - ...
 
@@ -852,7 +939,9 @@ e) ...
 
 4 - Em caso de incumprimento do disposto no n.º 2, a cobrança das importâncias em dívida pode ser efetuada coercivamente com recurso ao processo de execução fiscal.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - ...
 
@@ -872,7 +961,9 @@ c) Deter quaisquer interesses de natureza económica ou financeira nas entidades
 
 6 - Sem prejuízo do disposto no número anterior, os trabalhadores da ERSE podem, nos termos da lei e a título excecional, prestar funções em entidades intervenientes nos sectores regulados, por um período determinado, no âmbito do desenvolvimento de projetos especiais ou da formação em áreas com relevância para as atividades desenvolvidas pela ERSE.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - A ERSE pode solicitar, nos termos da lei, a colaboração de trabalhadores pertencentes à administração direta ou indireta do Estado e empresas públicas.
 
@@ -900,7 +991,9 @@ Relatórios sobre o funcionamento dos mercados
 
 3 - A ERSE deve ainda relatar anualmente a sua atividade e o cumprimento das suas obrigações à Assembleia da República, ao Governo, à Comissão Europeia e à Agência de Cooperação dos Reguladores de Energia, devendo o relatório abranger as medidas adotadas e os resultados obtidos.
 
-###### Artigo 30.º-A — Vinculação
+Artigo 30.º-A
+
+Vinculação
 
 1 - A ERSE obriga-se pela assinatura do presidente do conselho de administração ou, na sua ausência ou impedimento, pela assinatura conjunta de dois dos membros do conselho de administração, e ainda pela assinatura de um ou mais mandatários especialmente designados pelo conselho de administração, no âmbito restrito dos poderes que lhe são conferidos.
 
@@ -960,12 +1053,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de julho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Artur Álvaro Laureano Homem da Trindade - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 13 de setembro de 2012.**
+Promulgado em 13 de setembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de setembro de 2012.**
+Referendado em 17 de setembro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

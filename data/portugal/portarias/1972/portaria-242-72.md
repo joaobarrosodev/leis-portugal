@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/242-1972-680402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-05-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb1adea580757842462bde8d1ae175f2fe4e6a95ca1dd6f4be165d8cbb5dc829
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b5e1d70ba4ee32d4eeec9d4ff9ce45aed5c21db64ff54cf043f3d6d7d90c69a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276195:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:49Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +101,7 @@ Usando da faculdade conferida pelo n.º III da base LXXXIII da Lei Orgânica do 
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, tornar extensivo às províncias ultramarinas o Regulamento dos Exames de Fim do Ciclo Preparatório do Ensino Secundário, aprovado pelo [Decreto-Lei n.º 262/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1970-142560), de 11 de Junho, com excepção do artigo 71.º, ficando os artigos 3.º, 4.º, 5.º, 9.º, 13.º, 16.º, 29.º, 30.º, 46.º, 56.º, 57.º, 58.º, 59.º, 61.º, 63.º e 64.º com a redacção seguinte:
 
-###### Art. 3.º - 1. O horário das provas escritas, primeira e segunda chamada, será fixado por despacho ministerial.
+Art. 3.º - 1. O horário das provas escritas, primeira e segunda chamada, será fixado por despacho ministerial.
 
 2. Haverá uma só época de exames, que decorrerá desde o termo das aulas até ao dia 10 de Agosto.
 
@@ -127,13 +139,13 @@ g) Declaração de não ter prestado provas na época normal, no caso dos candid
 
 10. A admissão a exame dos candidatos a que se referem os n.os 3 e 4 é da competência dos directores das escolas, que tomarão igualmente as providências necessárias à elaboração dos pontos das provas escritas e à constituição dos júris. Do resultado destes exames, quando realizados fora da época a que se refere o n.º 2, não haverá recurso.
 
-###### Art. 4.º - 1. Os exames realizar-se-ão em todas as escolas preparatórias.
+Art. 4.º - 1. Os exames realizar-se-ão em todas as escolas preparatórias.
 
 2. Sempre que o número de candidatos e a lotação das escolas o justifiquem, poderá o Governador determinar que sejam utilizadas instalações ou outros estabelecimentos de ensino oficial para a realização das provas de exame.
 
 3. Quando numa escola preparatória seja impossível a realização de provas escritas de exame para todos os examinandos que as requeiram, poderá recorrer-se às instalações de estabelecimentos de ensino particular existentes na mesma localidade, mediante acordo com os respectivos directores.
 
-###### Art. 5.º - 1. Pode o Governador da província, mediante parecer favorável dos serviços de educação, autorizar que os alunos dos estabelecimentos de ensino particular possam realizar nele os seus exames, de acordo com normas a fixar em portaria pelos órgãos legislativos da província.
+Art. 5.º - 1. Pode o Governador da província, mediante parecer favorável dos serviços de educação, autorizar que os alunos dos estabelecimentos de ensino particular possam realizar nele os seus exames, de acordo com normas a fixar em portaria pelos órgãos legislativos da província.
 
 2. A autorização para a realização desses exames deve ser requerida ao Governador, por intermédio dos serviços de educação, até 30 de Abril.
 
@@ -151,7 +163,7 @@ g) Declaração de não ter prestado provas na época normal, no caso dos candid
 
 ...
 
-###### Art. 9.º Os alunos nas condições das alíneas c), d) e e) do artigo 6.º terão de apresentar no acto da inscrição para exame os seguintes documentos:
+Art. 9.º Os alunos nas condições das alíneas c), d) e e) do artigo 6.º terão de apresentar no acto da inscrição para exame os seguintes documentos:
 
 a) Boletim de inscrição para exame, no qual serão inutilizados pelo candidato, além do selo fiscal de 20$00, os selos correspondentes à propina de exame, de conformidade com a tabela estabelecida pelos órgãos legislativos locais no uso da competência que lhes conferiu o n.º 2 do artigo 5.º do [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195), de 23 de Agosto de 1968, segundo a redacção da [Portaria n.º 23625](https://diariodarepublica.pt/dr/detalhe/portaria/23625-1968-264512), de 25 de Setembro de 1968;
 
@@ -167,13 +179,13 @@ f) Caderneta ou ressalva militar, para os alunos maiores, quando for caso disso,
 
 ...
 
-###### Art. 13.º - 1. Os boletins serão apresentados nas escolas onde os alunos se encontrem matriculados ou, nos casos em que não é exigida matricula, nas escolas mais próximas da sua residência.
+Art. 13.º - 1. Os boletins serão apresentados nas escolas onde os alunos se encontrem matriculados ou, nos casos em que não é exigida matricula, nas escolas mais próximas da sua residência.
 
 2. Nas localidades onde exista mais de uma escola preparatória, os alunos não matriculados poderão apresentar os boletins em qualquer escola, com observância do disposto no artigo seguinte.
 
 ...
 
-###### Art. 16.º - 1. Nas localidades onde exista mais de uma escola, sempre que o número de candidatos e a lotação das escolas o justifiquem, os serviços de educação podem determinar que seja remetido certo número de processos de exame de umas para as outras escolas, de preferência os dos candidatos externos que se apresentem como não matriculados.
+Art. 16.º - 1. Nas localidades onde exista mais de uma escola, sempre que o número de candidatos e a lotação das escolas o justifiquem, os serviços de educação podem determinar que seja remetido certo número de processos de exame de umas para as outras escolas, de preferência os dos candidatos externos que se apresentem como não matriculados.
 
 2. Verificando-se as condições do número anterior, as secretarias das escolas donde houverem de ser transferidos afixarão no átrio, logo que tomem conhecimento da determinação, as relações dos examinandos deslocados e as escolas respectivas para onde foram distribuídos. Uma cópia dessas relações será junta aos processos deslocados.
 
@@ -185,45 +197,45 @@ f) Caderneta ou ressalva militar, para os alunos maiores, quando for caso disso,
 
 ...
 
-###### Art. 29.º - 1. Se o número de professores em serviço numa escola for insuficiente para a realização dos exames, pode o Governador determinar que ali prestem serviço professores de outras escolas da mesma localidade ou, em caso de necessidade, de localidade diferente.
+Art. 29.º - 1. Se o número de professores em serviço numa escola for insuficiente para a realização dos exames, pode o Governador determinar que ali prestem serviço professores de outras escolas da mesma localidade ou, em caso de necessidade, de localidade diferente.
 
 2. Os professores deslocados, nos termos do número anterior, para localidade diferente daquela onde estiverem em exercício terão direito a despesas de transporte e a ajudas de custo, quando devidas.
 
-###### Art. 30.º Quando prestem provas os examinandos do ensino particular, deverá, sempre que possível, fazer parte de cada júri de exames um professor daquele ensino, devidamente habilitado em condições a regulamentar oportunamente pelos órgãos legislativos locais.
+Art. 30.º Quando prestem provas os examinandos do ensino particular, deverá, sempre que possível, fazer parte de cada júri de exames um professor daquele ensino, devidamente habilitado em condições a regulamentar oportunamente pelos órgãos legislativos locais.
 
 ...
 
-###### Art. 46.º Os alunos excluídos em exames de fim do ciclo, nas provas escritas, podem recorrer das decisões dos júris.
+Art. 46.º Os alunos excluídos em exames de fim do ciclo, nas provas escritas, podem recorrer das decisões dos júris.
 
 ...
 
-###### Art. 56.º Apresentada a alegação, o director fá-la-á juntar com o requerimento, à prova respectiva, remetendo o processo imediatamente à estação superior.
+Art. 56.º Apresentada a alegação, o director fá-la-á juntar com o requerimento, à prova respectiva, remetendo o processo imediatamente à estação superior.
 
-###### Art. 57.º - 1. A entidade que receber o processo de recurso, encarregará dois professores da especialidade de o examinar, e cada um desses professores emitirá, no prazo de quarenta e oito horas, o seu parecer fundamentado.
+Art. 57.º - 1. A entidade que receber o processo de recurso, encarregará dois professores da especialidade de o examinar, e cada um desses professores emitirá, no prazo de quarenta e oito horas, o seu parecer fundamentado.
 
 2. Todas as provas de uma mesma disciplina que seja objecto de recurso serão examinadas pelos mesmos professores.
 
 3. Cada um dos examinadores terá direito a uma gratificação de 50$00 por cada recurso em que dê parecer.
 
-###### Art. 58.º - 1. Logo que sejam apresentados os pareceres dos examinadores será o processo presente a um corpo consultivo, cuja constituição será fixada por despacho do Governador da província, que deverá proceder à sua apreciação de modo que seja sempre possível, no caso de provimento dos recursos, prestarem os examinandos as provas orais até ao dia 10 de Agosto.
+Art. 58.º - 1. Logo que sejam apresentados os pareceres dos examinadores será o processo presente a um corpo consultivo, cuja constituição será fixada por despacho do Governador da província, que deverá proceder à sua apreciação de modo que seja sempre possível, no caso de provimento dos recursos, prestarem os examinandos as provas orais até ao dia 10 de Agosto.
 
 2. Os resultados dos recursos serão sempre comunicados telegràficamente aos directores das escolas.
 
-###### Art. 59.º Pode o corpo consultivo a que se refere o artigo anterior alterar a classificação votada pelo júri.
+Art. 59.º Pode o corpo consultivo a que se refere o artigo anterior alterar a classificação votada pelo júri.
 
 ...
 
-###### Art. 61.º Para efeitos de registo serão também enviados à Inspecção Provincial de Educação, quando existia ou à Repartição Provincial dos Serviços de Educação, nos restantes casos, todos os processos de recurso a que haja sido concedido provimento.
+Art. 61.º Para efeitos de registo serão também enviados à Inspecção Provincial de Educação, quando existia ou à Repartição Provincial dos Serviços de Educação, nos restantes casos, todos os processos de recurso a que haja sido concedido provimento.
 
 ...
 
-###### Art. 63.º Sempre que haja candidatos a exame de fim do ciclo e que também hajam requerido, no mesmo ano, outros exames e cujo resultado esteja condicionado à aprovação no exame de fim do ciclo, os directores das escolas preparatórias tomarão as seguintes providências:
+Art. 63.º Sempre que haja candidatos a exame de fim do ciclo e que também hajam requerido, no mesmo ano, outros exames e cujo resultado esteja condicionado à aprovação no exame de fim do ciclo, os directores das escolas preparatórias tomarão as seguintes providências:
 
 a) Determinarão que esses examinandos, se admitidos às provas orais, sejam convocados para essas provas com a urgência possível;
 
 b) Promoverão que os chefes das secretarias respectivas informem aqueles estabelecimentos de ensino dos resultados finais obtidos pelos candidatos naquelas condições, sempre que lhes sejam solicitados.
 
-###### Art. 64.º - 1. As provas orais são públicas.
+Art. 64.º - 1. As provas orais são públicas.
 
 2. Cada escola constituirá o número de júris que as possibilidades docentes permitam e o bom andamento dos trabalhos justifique, por forma que as provas estejam terminadas até 10 de Agosto.
 
@@ -231,6 +243,6 @@ b) Promoverão que os chefes das secretarias respectivas informem aqueles estabe
 
 4. O director da escola indicará, para cada júri de provas orais, um presidente, de preferência professor efectivo, e um secretário.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/23/1993/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/23-1993-324491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T04:14:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52a7da51dc01adae2891423906ec77f345fd5ebc5ba5190e0a2c5771c5d50b84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4abc5b61e8ad66f09991ebb858219e72a2795875a45b2f050897a47066fc3e04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:14:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,32 +69,36 @@ subjects:
 - Acordo Europeu
 - CE Países
 - CECA
+- Comércio
 - Convenção
-- Portugal
+- Cooperação Económica
 - EEE
 - EFTA
+- Liechtenstein
 - Livre Circulação de Mercadorias
 - Livre Circulação de Pessoas
-- Cooperação Económica
 - Política Económica
-- Comércio
-- Liechtenstein
+- Portugal
 - Região Económica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/27/1993/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/27/1993/08/20/p/dre
+- type: cites
+  target: pt:dre:324484:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:14:25Z'
   warnings: []
   errors: []
 ---
@@ -103,16 +107,16 @@ validation:
 
 de 20 de Agosto
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Protocolo Que Adapta o Acordo sobre o Espaço Económico Europeu, respectivo Acto Final e seus anexos, assinado em Bruxelas em 17 de Março de 1993, aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 27/93](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/27-1993-324484), de 3 de Junho de 1993.
 
-**Assinado em 28 de Julho de 1993.**
+Assinado em 28 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Julho de 1993.**
+Referendado em 30 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

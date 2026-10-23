@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/16200/0497404978.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/102/2017/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2017-108041482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef930ff45480fc495218c66541acf83410d153016757ec63d2ef8436180dea7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a19375332033cabcfbc89c09a3c7f3dda3c9116da79e224406d36bf06c6e3d0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,52 +69,58 @@ subjects:
 - ACTO Extrajudicial
 - Alcoolismo
 - Arbitragem
-- Equipamento Desportivo
 - AUTO de Conciliação
-- Gestão de Resíduos
 - Bebida Alcoólica
-- Modernização Administrativa
+- Centro de Arbitragem de Conflitos de Consumo
 - Certificação Electrónica
-- Estabelecimento Comercial
+- Comércio
 - Comércio a Retalho
-- Instituto da Construção e do Imobiliário
 - Conflito de Consumo
 - Contrato
-- Fundo Sanitário e de Segurança Alimentar mais
+- Desporto
 - Diretor Técnico
+- Documento Eletrónico
+- Eliminação de Resíduos
+- Equipamento Desportivo
+- Estabelecimento Comercial
 - Estabelecimento de Bebidas
 - Estabelecimento de Restauração
-- Segurança Pública
-- Pagamento
+- Fundo Sanitário e de Segurança Alimentar mais
+- Gestão de Resíduos
 - Informação
-- Centro de Arbitragem de Conflitos de Consumo
-- Documento Eletrónico
+- Informação Ambiental
+- Informação do Consumidor
+- Instituto da Construção e do Imobiliário
 - Mediação de Imóveis
-- Serviço de Mediação
+- Mediador
 - Menoridade
 - Mercado Imobiliário
-- Programa Simplex
+- Modernização Administrativa
 - ÓLEO Comestivel
 - ÓLEO Usado
+- Pagamento
 - Pagamento de Contribuições
-- Proteção ao Deficiente
-- Tratamento de Resíduos
-- Informação do Consumidor
+- Plataforma Eletrónica
 - Prestação de Serviços
+- Programa Simplex
+- Proteção ao Deficiente
 - Proteção do Consumidor
 - Regulamento Interno
-- Mediador
-- Eliminação de Resíduos
+- Segurança Pública
+- Serviço de Mediação
 - Taxa de Segurança Alimentar mais
-- Comércio
-- Desporto
-- Plataforma Eletrónica
-- Informação Ambiental
+- Tratamento de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:169360995:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114913768:por
+  label: Alterado, com efeitos a 25.06.2018, o art. 134.º do anexo ao Dec Lei 10/2015 de 16-jan, na redação do presente diploma,
+    pelo(a) Lei n.º 15/2018 - Diário da República n.º 61/2018, Série I de 2018-03-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2018-114913768
+  date: '2018-03-27'
 - type: cites
   target: celex:32013L0011
   label: null
@@ -159,16 +165,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/365/2015/10/16/p/
   label: null
   source: http://data.dre.pt/eli/port/365/2015/10/16/p/
+- type: cites
+  target: pt:dre:174777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70215248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70716380:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:10Z'
   warnings: []
   errors: []
 ---
@@ -275,7 +321,9 @@ Contrato de mediação imobiliária
 
 9 - Quando, por motivo de indisponibilidade técnica, não for possível o cumprimento do disposto nos n.os 5 e 6, pode ser utilizado qualquer outro meio legalmente admissível.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...]:
 
@@ -321,7 +369,9 @@ Reporte de informação e apresentação de documentos
 
 3 - Sem prejuízo das obrigações de apresentação de documentos, livros e registos, impostas a todas as entidades fiscalizadas, nos termos da [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto, os produtores de OUA titulares de estabelecimentos objeto de emissão dos certificados referidos nos artigos 11.º e 12.º, cujo modelo consta do anexo ao presente decreto-lei, do qual faz parte integrante, devem conservar os mesmos certificados em seu poder, durante o respetivo período de validade, e apresentá-los às autoridades fiscalizadoras sempre que por estas forem solicitados.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -363,7 +413,9 @@ Conservação e apresentação de comprovativos
 
 Os agentes económicos obrigados ao pagamento da taxa prevista no artigo 9.º devem conservar em seu poder, por um período mínimo de 3 anos, cópia documental dos comprovativos dos respetivos pagamentos e apresentar os mesmos à autoridade fiscalizadora, sempre que por esta forem solicitados.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]:
 
@@ -405,7 +457,9 @@ Os artigos 29.º e 134.º do anexo ao [Decreto-Lei n.º 10/2015](https://diariod
 
 3 - [Revogado].
 
-###### Artigo 134.º — [...]
+Artigo 134.º
+
+[...]
 
 1 - [...].
 
@@ -469,12 +523,12 @@ b) Os n.os 2 e 3 do artigo 29.º e o n.º 4 do artigo 134.º do anexo ao [Decret
 
 Visto e aprovado em Conselho de Ministros de 27 de abril de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Maria Constança Dias Urbano de Sousa - Francisca Eugénia da Silva Dias Van Dunem - Pedro Manuel Dias de Jesus Marques - Adalberto Campos Fernandes - Manuel de Herédia Caldeira Cabral.
 
-**Promulgado em 27 de junho de 2017.**
+Promulgado em 27 de junho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de junho de 2017.**
+Referendado em 30 de junho de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

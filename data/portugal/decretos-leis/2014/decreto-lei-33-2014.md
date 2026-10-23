@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/33/2014/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d73d0e90bfe92231a289d5e4301b166775542f53089bd887d33d657839871aa8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9554164c8793cff7c0c3172596a233b0033fcc62a225eedb501ad07e073d9000
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
-- Lares
+- Apoio Domiciliário
+- Centro de Acolhimento
 - Centro de Actividades de Tempos Livres
+- Centro de Actividades Ocupacionais
+- Centro de Apoio Social
 - Centro de DIA
 - Centro Social
-- Multa
 - Contra-ordenação
 - Definição de Competências
 - Empresa Privada
 - Equipamento Social
 - Fiscalização
-- IPSS
 - Ilícito de MERA Ordenação Social
+- Instituto da Segurança Social
+- IPSS
 - Jardim de Infância
-- Centro de Acolhimento
+- Lares
 - Licenciamento
-- Centro de Actividades Ocupacionais
+- Multa
 - Prestação de Serviços
-- Apoio Domiciliário
-- Centro de Apoio Social
 relationships:
 - type: amended_by
   target: pt:dre:186831379:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:176907514:por
+  label: 'Alterados, a partir de 10.01.2022, os arts. 1.º, 4.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 16.º, 18.º, 20.º, 21.º,
+    23.º, 26.º, 27.º, 29.º, 30.º, 31.º, 32.º, 33.º, 35.º, 37.º, 38.º, 39.º-B, 39.º-C, 39.º-D, 39.º-H, 40.º, 41.º e 44.º, e
+    a sistemática relativa ao cap. III, cuja epígrafe passa a ter a seguinte redação: «Autorização do funcionamento»; aditados
+    a partir da mesma data, os arts. 5.º-A, 8.º-A, 10.º-A, 15.º-A, 15.º-B, 17.º-A, 18.º-A, 19.º-A e 41.º-A; e revogados, também
+    a partir daquela data, a al. a) do n.º 1 e o n.º 3 do art. 8.º, a al. c) do n.º 2 e o n.º 4 do art. 9.º, o art. 15.º,
+    o n.º 4 do art. 16.º, as als. c) a g) do art. 39.º-D e os arts. 17.º, 19.º, 22.º e 42.º todos do Dec Lei 64/2007 de 14-mar,
+    na versão republicada pelo diploma, pelo(a) Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento,
+    Série I de 2021-12-3, que o republicou em anexo na redação ora introduzida, onde para aqueles efeitos de republicação
+    determina que se leia «ISS, I. P.», onde se lê «Instituto da Segurança Social, I. P.».'
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-a-2021-176907514
+  date: '2021-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133-a/1997/05/30/p/dre
   label: null
@@ -132,16 +145,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/63/2013/08/27/p/
   label: null
   source: http://data.dre.pt/eli/lei/63/2013/08/27/p/
+- type: cites
+  target: pt:dre:158178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671204:por
+  label: null
+  source: null
 article_structure:
-  article_count: 103
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 66
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:07Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +247,9 @@ Os artigos 1.º a 5.º, 7.º, 8.º, 12.º a 22.º, 24.º a 28.º, 30.º, 31.º, 
 
 O presente decreto-lei define o regime de licenciamento e de fiscalização da prestação de serviços e dos estabelecimentos de apoio social, adiante designados por estabelecimentos, em que sejam exercidas atividades e serviços do âmbito da segurança social relativos a crianças, jovens, pessoas idosas ou pessoas com deficiência, bem como os destinados à prevenção e reparação das situações de carência, de disfunção e de marginalização social, estabelecendo ainda o respetivo regime sancionatório.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O presente decreto-lei aplica-se aos estabelecimentos prestadores de serviços de apoio social estabelecidos em território nacional das seguintes entidades:
 
@@ -200,11 +263,15 @@ c) Entidades privadas que desenvolvam atividades de apoio social.
 
 3 - [Anterior n.º 2].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Consideram-se de apoio social os estabelecimentos em que sejam prestados serviços de apoio às pessoas e às famílias, independentemente de estes serem prestados em equipamentos ou a partir de estruturas prestadoras de serviços que prossigam os objetivos do sistema de ação social definidos na [Lei n.º 4/2007](https://diariodarepublica.pt/dr/detalhe/lei/4-2007-522781), de 16 de janeiro, que aprova as bases gerais do sistema de segurança social.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Os serviços de apoio às pessoas e famílias referidos no artigo anterior são desenvolvidos pelas seguintes respostas sociais:
 
@@ -222,11 +289,15 @@ f) [...].
 
 2 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 As condições técnicas de instalação e funcionamento dos estabelecimentos são as regulamentadas em diplomas específicos e em instrumentos regulamentares aprovados pelo membro do Governo responsável pela área da segurança social, os quais são também publicitados no sítio oficial www.seg-social.pt.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O licenciamento de construção é requerido à câmara municipal e está sujeito, com as especificidades previstas no presente decreto-lei e nos diplomas específicos e instrumentos regulamentares respeitantes às condições de instalação dos estabelecimentos, ao regime jurídico da urbanização e edificação (RJUE), estabelecido pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro.
 
@@ -236,7 +307,9 @@ As condições técnicas de instalação e funcionamento dos estabelecimentos s�
 
 4 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]:
 
@@ -260,7 +333,9 @@ d) A capacidade do estabelecimento.
 
 7 - [...].
 
-###### Artigo 12.º — Condições para a concessão da licença
+Artigo 12.º
+
+Condições para a concessão da licença
 
 A licença de funcionamento para cada resposta social depende da verificação das seguintes condições:
 
@@ -274,7 +349,9 @@ d) [...];
 
 e) Da idoneidade do requerente e do pessoal ao serviço do estabelecimento, considerando o disposto no artigo seguinte.
 
-###### Artigo 13.º — Impedimentos
+Artigo 13.º
+
+Impedimentos
 
 1 - Não podem exercer funções, a qualquer título, nos estabelecimentos, as pessoas que:
 
@@ -286,11 +363,15 @@ b) Tenham sido condenadas, por sentença transitada em julgado, qualquer que ten
 
 3 - Sem prejuízo do disposto nos números anteriores, no caso dos estabelecimentos para crianças e jovens, é obrigatório o cumprimento do disposto no n.º 1 do artigo 2.º da [Lei n.º 113/2009](https://diariodarepublica.pt/dr/detalhe/lei/113-2009-490258), de 17 de setembro.
 
-###### Artigo 14.º — Legitimidade para requerer o licenciamento
+Artigo 14.º
+
+Legitimidade para requerer o licenciamento
 
 Podem requerer o licenciamento do funcionamento para uma resposta social, as pessoas singulares e coletivas que pretendam desenvolver as respostas sociais referidas no artigo 4.º, independentemente do título de utilização das instalações a elas afetas, desde que seja observado o disposto no artigo anterior.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O pedido de licenciamento do funcionamento de uma resposta social é dirigido ao Instituto da Segurança Social, I.P., através de requerimento, em modelo próprio, do qual constam:
 
@@ -308,7 +389,9 @@ f) A capacidade proposta.
 
 2 - [Revogado].
 
-###### Artigo 16.º — Instrução
+Artigo 16.º
+
+Instrução
 
 1 - O requerimento de licenciamento, a que se refere o artigo anterior, é instruído com os seguintes documentos:
 
@@ -338,7 +421,9 @@ j) [...].
 
 4 - [...].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O Instituto da Segurança Social, I.P., profere decisão, devidamente fundamentada, sobre o pedido de licenciamento no prazo de 30 dias a contar da data de receção do requerimento.
 
@@ -346,7 +431,9 @@ j) [...].
 
 3 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Quando tenha sido proferida decisão favorável é emitida, para cada resposta social, a licença de funcionamento, em impresso de modelo próprio aprovado por portaria do membro do Governo responsável pela área da segurança social, do qual consta:
 
@@ -364,7 +451,9 @@ f) A data de emissão.
 
 2 - [Revogado].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Nos casos em que não se encontrem reunidas as condições exigidas para a concessão de licença de funcionamento, mas seja previsível que as mesmas possam ser satisfeitas, pode ser concedida uma autorização provisória de funcionamento, salvo se as condições de funcionamento forem suscetíveis de comprometer a saúde, segurança, bem-estar dos utentes e a qualidade dos serviços a prestar.
 
@@ -376,7 +465,9 @@ f) A data de emissão.
 
 5 - Às instituições particulares de solidariedade social ou equiparadas, ou outras instituições sem fins lucrativos com quem o Instituto da Segurança Social, I.P., pretenda celebrar acordo de cooperação, que reúnam as condições exigidas para a concessão da licença, é concedida uma autorização provisória de funcionamento por um prazo de 180 dias, renovável até à celebração de acordo.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A interrupção do funcionamento do estabelecimento por um período superior a um ano determina a suspensão da respetiva licença.
 
@@ -386,11 +477,15 @@ f) A data de emissão.
 
 4 - [...].
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 A interrupção do funcionamento do estabelecimento por um período superior a cinco anos, ou a cessação definitiva, determina a caducidade da licença.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
@@ -398,15 +493,21 @@ A interrupção do funcionamento do estabelecimento por um período superior a c
 
 3 - O pedido de substituição é indeferido se as alterações não respeitarem as condições referidas no artigo 12.º
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 Cada estabelecimento deve adotar uma denominação própria que permita a sua individualização e impeça a duplicação de denominações.
 
-###### Artigo 25.º — Contratos de prestação de serviços
+Artigo 25.º
+
+Contratos de prestação de serviços
 
 Os diplomas específicos e os instrumentos regulamentares de cada resposta social podem estabelecer a obrigatoriedade de celebração por escrito de contratos de prestação de serviços com os utentes ou seus representantes, devendo os mesmos integrar cláusulas sobre os principais direitos e deveres das partes contratantes.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Cada estabelecimento dispõe de um regulamento interno de funcionamento, do qual constam, designadamente:
 
@@ -422,7 +523,9 @@ e) O preçário ou critérios de determinação das comparticipações familiare
 
 2 - Qualquer alteração ao regulamento interno é comunicada ao Instituto da Segurança Social, I.P., nos termos da alínea b) do n.º 2 do artigo 30.º
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 São afixados nos estabelecimentos abrangidos pelo presente decreto-lei, em local visível e de fácil acesso, os seguintes documentos:
 
@@ -448,13 +551,17 @@ j) O valor da comparticipação financeira da segurança social nas despesas de 
 
 k) A indicação da existência de livro de reclamações.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Nos estabelecimentos deve existir um livro de reclamações de harmonia com o disposto na legislação em vigor.
 
 2 - A fiscalização, a instrução dos processos e a aplicação das coimas e sanções acessórias compete aos serviços do Instituto da Segurança Social, I.P.
 
-###### Artigo 30.º — Obrigações específicas das entidades gestoras
+Artigo 30.º
+
+Obrigações específicas das entidades gestoras
 
 1 - Os proprietários ou titulares dos estabelecimentos são obrigados a facultar aos serviços competentes de fiscalização e inspeção o acesso ao estabelecimento e a todas as suas dependências, bem como as informações indispensáveis à avaliação e fiscalização do seu funcionamento.
 
@@ -466,7 +573,9 @@ b) [...];
 
 c) No prazo de 30 dias, informação de qualquer alteração dos elementos referidos no artigo 18.º e, bem assim, da interrupção ou cessação do funcionamento por iniciativa dos proprietários.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...].
 
@@ -474,15 +583,21 @@ c) No prazo de 30 dias, informação de qualquer alteração dos elementos refer
 
 3 - [Revogado].
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 Para efeitos das ações de avaliação e fiscalização previstas nos artigos anteriores, o Instituto da Segurança Social, I.P., pode solicitar a colaboração de peritos e entidades especializadas do Ministério da Solidariedade, Emprego e Segurança Social, da autoridade de saúde e de outros serviços competentes, tendo designadamente em consideração as condições de salubridade e segurança, acondicionamento dos géneros alimentícios e condições higiossanitárias.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 Os estabelecimentos das instituições particulares de solidariedade social e de outras instituições sem fins lucrativos abrangidos por acordos de cooperação celebrados com o Instituto da Segurança Social, I.P., estão sujeitos às condições de funcionamento, às obrigações e regime sancionatório estabelecidos no presente decreto-lei, bem como nos respetivos diplomas específicos, não lhes sendo, porém, aplicáveis, enquanto os acordos vigorarem, as disposições de licenciamento da atividade constantes do capítulo III.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...].
 
@@ -504,7 +619,9 @@ Contraordenações
 
 As infrações ao disposto no presente decreto-lei constituem contraordenações, nos termos dos artigos seguintes.
 
-###### Artigo 39.º-B — Infrações muito graves
+Artigo 39.º-B
+
+Infrações muito graves
 
 Constituem infrações muito graves:
 
@@ -530,7 +647,9 @@ j) Inexistência de processo individual do utente;
 
 k) A inexistência de plano de intervenção.
 
-###### Artigo 39.º-C — Infrações graves
+Artigo 39.º-C
+
+Infrações graves
 
 Constituem infrações graves:
 
@@ -542,7 +661,9 @@ c) A falta de comunicação prévia, aos serviços competentes do Instituto da S
 
 d) A falta da remessa anual, aos serviços competentes do Instituto da Segurança Social, I.P., dos mapas estatísticos dos utentes e da relação do pessoal existente no estabelecimento, bem como do preçário em vigor.
 
-###### Artigo 39.º-D — Infrações leves
+Artigo 39.º-D
+
+Infrações leves
 
 Constitui infração leve a falta de afixação em local bem visível de qualquer dos seguintes elementos:
 
@@ -560,7 +681,9 @@ f) Mapa semanal das ementas;
 
 g) Preçário, com indicação dos valores mínimos e máximos praticados.
 
-###### Artigo 39.º-E — Coimas
+Artigo 39.º-E
+
+Coimas
 
 Às infrações previstas nos artigos 39.º-B a 39.º-D são aplicáveis as seguintes coimas:
 
@@ -572,19 +695,25 @@ c) Entre 2 500,00 EUR e 5 000,00 EUR, para as infrações graves referidas no ar
 
 d) Entre 500,00 EUR e 1 000,00 EUR, para as infrações leves referidas no artigo 39.º-D.
 
-###### Artigo 39.º-F — Negligência e tentativa
+Artigo 39.º-F
+
+Negligência e tentativa
 
 1 - Os ilícitos de mera ordenação social previstos no presente capítulo são punidos a título de dolo ou de negligência.
 
 2 - A tentativa é punida nos ilícitos de mera ordenação social referidos nos artigos 39.º-B e 39.º-C.
 
-###### Artigo 39.º-G — Limites máximos e mínimos das coimas
+Artigo 39.º-G
+
+Limites máximos e mínimos das coimas
 
 1 - Os limites máximos e mínimos das coimas previstas no presente decreto-lei aplicam-se quer às pessoas singulares quer às pessoas coletivas, sendo reduzidos a metade quando aplicáveis a entidades que não tenham finalidade lucrativa.
 
 2 - Em caso de reincidência, os limites mínimo e máximo da coima são elevados em um terço do respetivo valor.
 
-###### Artigo 39.º-H — Sanções acessórias
+Artigo 39.º-H
+
+Sanções acessórias
 
 1 - Cumulativamente com as coimas previstas pela prática de infrações muito graves e graves, podem ser aplicadas ao infrator as seguintes sanções acessórias:
 
@@ -604,17 +733,23 @@ e) Publicação, a expensas do infrator, em locais idóneos para o cumprimento d
 
 4 - A publicidade da condenação referida na alínea e) do n.º 1 consiste na publicação de um extrato, do qual consta a caracterização da infração, a norma violada, a identificação do infrator e a sanção aplicada.
 
-###### Artigo 39.º-I — Determinação da medida da coima
+Artigo 39.º-I
+
+Determinação da medida da coima
 
 1 - A determinação da medida da coima faz-se em função da gravidade da contraordenação, da culpa, da situação económica do agente e do benefício económico que este retirou da prática da contraordenação.
 
 2 - Se o agente retirou da infração um benefício económico calculável superior ao limite máximo da coima, e não existirem outros meios de o eliminar, pode este elevar-se até ao montante do benefício, não devendo todavia a elevação exceder um terço do limite máximo legalmente estabelecido.
 
-###### Artigo 39.º-J — Destino das coimas
+Artigo 39.º-J
+
+Destino das coimas
 
 O produto das coimas reverte para a autoridade administrativa que as aplique, independentemente da fase em que se torne definitiva ou transite em julgado a decisão condenatória.
 
-###### Artigo 39.º-K — Regime processual
+Artigo 39.º-K
+
+Regime processual
 
 1 - Às contraordenações previstas no presente decreto-lei é aplicável, com as devidas adaptações, o regime processual aprovado pela [Lei n.º 107/2009](https://diariodarepublica.pt/dr/detalhe/lei/107-2009-489761), de 14 de setembro, alterada pela [Lei n.º 63/2013](https://diariodarepublica.pt/dr/detalhe/lei/63-2013-499519), de 27 de agosto.
 
@@ -646,15 +781,15 @@ O presente decreto-lei entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de janeiro de 2014. - Pedro Passos Coelho - Miguel Bento Martins Costa Macedo e Silva - Paulo José de Ribeiro Moita de Macedo - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 21 de fevereiro de 2014.**
+Promulgado em 21 de fevereiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de fevereiro de 2014.**
+Referendado em 25 de fevereiro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -978,7 +1113,9 @@ j) O valor da comparticipação financeira da segurança social nas despesas de 
 
 k) A indicação da existência de livro de reclamações.
 
-###### Artigo 28.º — Livro de reclamações
+###### Artigo 28.º
+
+## Livro de reclamações
 
 1 - Nos estabelecimentos deve existir um livro de reclamações de harmonia com o disposto na legislação em vigor.
 

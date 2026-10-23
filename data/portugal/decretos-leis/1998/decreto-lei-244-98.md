@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/182a00/38323851.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/244/1998/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1998-434982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d409536d91a5300857f7d02586fef19b96a1d778807277f3a25182626282ed9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b56adad902245279246eb820ffae0d9a8993a29020b137bf29e39d37fc66ee25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,69 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo de Schengen
-- Imigração
-- Nacionalidade
+- Admissão de Estrangeiros
 - Asilo Político
-- Residência de Estrangeiros
 - Bilhete de Identidade
 - Boletim de Alojamento
 - Centro de Instalação Temporária
 - Cidadão Estrangeiro
-- Multa
 - Contra-ordenação
+- Emprego
 - Estudante
 - Expulsão de Estrangeiros
 - Fronteiras
-- Refugiado
+- Imigração
 - Julgamento
 - Livre Circulação de Pessoas
-- Serviço de Estrangeiros e Fronteiras
-- Emprego
-- Política de Emprego
-- Taxa
+- Multa
+- Nacionalidade
 - Passaporte
+- Política de Emprego
+- Refugiado
+- Residência de Estrangeiros
+- Serviço de Estrangeiros e Fronteiras
+- Taxa
 - Trabalhador Independente
-- Admissão de Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:201699171:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:353345:por
+  label: "Alterados os arts 22.º, 23.º, 35.º, 51.º, 85.º, 89.º, 91.º e 159.º, pela LEI.97/99.1999.07.26.AR DR.IS-A [172]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/97-1999-353345
+  date: '1999-07-26'
+- type: amended_by
+  target: pt:dre:239249:por
+  label: "Alterados os arts 1º, 13º, 15º, 18º, 21º, 23º, 30º, 36º, 37º, 38º, 40º, 41º, 43º, 50º, 52º, 53º, 54º, 55º, 56º,\
+    \ 57º, 58º, 87º, 88º, 91º, 100º, 101º, 107º, 119º. 136º, 138º, 139º, 140º, 141º, 142º, 143º, 144º, 145º, 146º, 147º, 148º,\
+    \ 149º, 155º, 159º , 160º, e 163º, aditado ao Capítulo III a secção V composta pelo art. 51º-A ,alterada a epígrafe do\
+    \ Capítulo IV, adita o art. 92º-A e o art. 136º-A. Revogados os arts 42º, 44º e 46º do presente diploma, com as alterações\
+    \ da Lei 97/99 de 26-Jul, pelo DEC LEI.4/2001.2001.01.10.MAI, DR.IS-A [8] e republicado na integra \0ra \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-2001-239249
+  date: '2001-01-10'
+- type: amended_by
+  target: pt:dre:188557:por
+  label: "Alterados os arts 3º, 13º, 15º, 16º, 21º, 23º, 24º, 25º, 35º, 36º, 37º, 38º, 40º, 41º, 43º, 49º, 53º, 54º, 56º,\
+    \ 57º, 58º, 60º, 73º, 76º, 77º, 83º, 85º, 86º, 87º, 88º, 90 º, 91º, 93º, 134º, 135º, 136º, 136º-A,137º, 140º, 141º, 143º,\
+    \ 144º, 145º, 146º, 147º, 148º, 149º, 153º, 154º, e 163 º aditados os arts 15º-A, 134º-A, 136º-A, 137º-A, 137º-B, 137º-C,\
+    \ e 137º-D, aditada a secção VI ao Cap. III, alterada a epigrafe do Cap. IX, a epígrafe da secção I do Cap.IX, aditada\
+    \ a subsecção I à secção I do Cap. IX, alterada a secção II do Cap. IX que passa a ser a subsecção II da secção I,a secção\
+    \ III do Cap. IX passa a ser a subsecção III da secção I, a secção IV do Cap. IX passa a ser a subsecção IV da secção\
+    \ I,aditada a secção II, III e IV ao Cap.IX, alteradas as epígrafes dos Caps. X, XI, XII, XIII, revogados os arts. 55º,155º\
+    \ e 159º e republicado em anexo o presente diploma, pelo DEC LEI.34/2003.2003.02.25.MAI, DR.IS-A [47]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2003-188557
+  date: '2003-02-25'
+- type: amended_by
+  target: pt:dre:252205:por
+  label: "Declarada a inconstitucionalidade com força obrigatória geral, das normas constantes das als. a), b) e c) do n.º\
+    \ 1 e 2 do art. 101.º e n.º 2 do art. 125.º do presente diploma, pelo AC.232/2004.31.03.2004.TCS, DR.IS-A [122] de 25.05.2004,\
+    \ enquanto aplicáveis a cidadãos estrangeiros que tenham a seu cargo filhos menores de nacionalidade portuguesa residentes\
+    \ em território nacional\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/232-2004-252205
+  date: '2004-03-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
   label: null
@@ -126,16 +161,83 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/464/1994/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/464/1994/07/01/p/dre
+- type: cites
+  target: pt:dre:232136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640075:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:635814:por
+  label: "Revogado, a partir de 03.08.2007, o presente diploma, com as alterações introduzidas pela Lei 97/99 de 26-Jul, pelo\
+    \ Dec Lei 4/2001 de 10-Jan e pelo Dec Lei 34/2003 de 25-Fev, pela LEI.23/2007.04.07.2007.AR, DR.IS [127] de 04.07.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-2007-635814
+  date: '2007-07-04'
 article_structure:
   article_count: 163
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:29Z'
   warnings: []
   errors: []
 ---
@@ -1514,12 +1616,12 @@ Até ao início da vigência da regulamentação prevista no presente diploma ma
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1998. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 24 de Julho de 1998.**
+Promulgado em 24 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Julho de 1998.**
+Referendado em 27 de Julho de 1998.
 
 Pelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 166/2023, 1º Suplemento, Série I de 2023-08-28
   number: '166'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 35-(4) a 35-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/16601/0000400013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/74-b/2023/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-b-2023-220956295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 748569ddef346fffe384b241ba52e6d65549169c3e6709de31a3e5ce9dea9031
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93d0e5392be132b56fdcae0afdae05268ee6659e284a2182d37d37acdff1c4f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cobrança de Dívidas
 - Código de Procedimento e de Processo Tributário
 - Conselho Superior dos Tribunais Administrativos e Fiscais
-- Sistema Judicial
 - Decisão Judicial
 - Estatuto
 - Juiz
 - Julgamento
-- Cobrança de Dívidas
-- Regime Jurídico
 - Ministério Público
+- Regime Jurídico
+- Sistema Judicial
 - Tribunal Administrativo e Fiscal
+- Tribunal Central Administrativo
 - Tribunal Central Administrativo Norte
 - Tribunal Central Administrativo SUL
-- Tribunal Central Administrativo
 - Tribunal Judicial
 - Tribunal Tributário
 relationships:
@@ -115,16 +115,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/34/2023/07/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/34/2023/07/19/p/dre
+- type: cites
+  target: pt:dre:124642985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124750731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215798273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
 article_structure:
-  article_count: 24
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:46Z'
   warnings: []
   errors: []
 ---
@@ -193,7 +225,9 @@ Os artigos 18.º, 26.º, 31.º, 32.º, 35.º, 36.º, 37.º, 38.º, 43.º-A, 44.�
 
 2 - [...]
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 [...]
 
@@ -213,7 +247,9 @@ g) [...]
 
 h) [...]
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - São tribunais centrais administrativos o Tribunal Central Administrativo Sul, com sede em Lisboa, o Tribunal Central Administrativo Norte, com sede no Porto, e o Tribunal Central Administrativo Centro, com sede em Castelo Branco.
 
@@ -223,7 +259,9 @@ h) [...]
 
 4 - [...]
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...]
 
@@ -243,7 +281,9 @@ b) Subsecção de execução fiscal e de recursos contraordenacionais.
 
 4 - A cada uma das subsecções previstas nos números anteriores aplica-se o disposto para a secção respetiva.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...]
 
@@ -261,7 +301,9 @@ b) No caso da subsecção social, aos juízes da subsecção de contratos públi
 
 c) No caso da subsecção dos contratos públicos, aos juízes da subsecção administrativa comum.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...]
 
@@ -309,7 +351,9 @@ u) [...]
 
 3 - [...]
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -317,7 +361,9 @@ u) [...]
 
 3 - Atendendo ao volume e à complexidade do serviço, o Conselho Superior dos Tribunais Administrativos e Fiscais, sob proposta do presidente do respetivo tribunal central administrativo, pode determinar temporariamente a distribuição aleatória de processos que tenham como objeto matérias da competência da subsecção administrativa comum aos juízes de uma das outras subsecções, atendendo à afinidade dos respetivos objetos com as matérias da especialização.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -325,7 +371,9 @@ u) [...]
 
 3 - Atendendo ao volume e à complexidade do serviço, o Conselho Superior dos Tribunais Administrativos e Fiscais, sob proposta do presidente do respetivo tribunal central administrativo, pode determinar temporariamente a distribuição aleatória de processos que tenham como objeto matérias da competência da subsecção tributária comum aos juízes da subsecção de execução fiscal e de recursos contraordenacionais, atendendo à afinidade dos respetivos objetos com as matérias da especialização.
 
-###### Artigo 43.º-A — [...]
+Artigo 43.º-A
+
+[...]
 
 1 - [...]
 
@@ -399,7 +447,9 @@ f) [...]
 
 9 - [...]
 
-###### Artigo 44.º-A — [...]
+Artigo 44.º-A
+
+[...]
 
 1 - [...]
 
@@ -425,7 +475,9 @@ d) [...]
 
 2 - [...]
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - [...]
 
@@ -441,7 +493,9 @@ d) [...]
 
 7 - O concurso é aberto para cada uma das secções e tem a validade de dois anos, prorrogável até seis meses.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -451,7 +505,9 @@ d) [...]
 
 4 - O juiz que mude de subsecção mantém a sua competência nos processos já inscritos para julgamento em que seja relator e naqueles em que, como adjunto, já tenha aposto o seu visto para julgamento.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - [...]
 
@@ -465,7 +521,9 @@ d) [...]
 
 6 - O concurso é aberto para cada uma das secções e tem a validade de dois anos, prorrogável até seis meses.
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - [...]
 
@@ -507,7 +565,9 @@ q) [...]
 
 3 - [...]
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 [...]
 
@@ -577,7 +637,9 @@ Juízes além do quadro
 
 2 - Os juízes nomeados para os lugares acrescidos a que se refere o número anterior mantêm-se em lugares além do quadro até ocuparem as vagas que lhes competirem.
 
-###### Artigo 74.º-A — Autonomia administrativa e financeira
+Artigo 74.º-A
+
+Autonomia administrativa e financeira
 
 O Conselho Superior dos Tribunais Administrativos e Fiscais é dotado de autonomia administrativa e financeira, dispondo de orçamento próprio, inscrito nos encargos gerais do Orçamento do Estado.»
 
@@ -613,12 +675,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de agosto de 2023. - Mariana Guimarães Vieira da Silva - Catarina Teresa Rola Sarmento e Castro.
 
-**Promulgado em 25 de agosto de 2023.**
+Promulgado em 25 de agosto de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 25 de agosto de 2023.**
+Referendado em 25 de agosto de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+116805251

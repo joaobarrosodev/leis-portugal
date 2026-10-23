@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/044b00/07370739.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/4/1993/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1993-656590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:21:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1da3b5199bac46425ea98aec385a5454624dc204421217a8d424de1e6d5eac20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7a3e6f5717a06988ea9fbeb0123f0fa9c8ba149b1086e327b17dd4ce69cd375
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:21:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Civil
+- Comissão para a Instrução de Pedidos de Indemnização às Vítimas de Crimes Violentos
 - Crime
+- Indemnização
+- Processo Civil
 - Processo Penal
 - Proteção Civil
 - Violência
-- Comissão para a Instrução de Pedidos de Indemnização às Vítimas de Crimes Violentos
-- Indemnização
 - Vítima
 relationships:
 - type: amended_by
   target: pt:dre:307656:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:171509:por
+  label: "Alterado o art. 9.º pelo DR.1/99.1999.02.15.MJ DR.IS-B [38]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/1-1999-171509
+  date: '1999-02-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/423/1991/10/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/423/1991/10/30/p/dre
+- type: cites
+  target: pt:dre:322286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:307656:por
+  label: Revogado, a partir de 01.11.2010, pelo DEC LEI.120/2010.27.10.2010.MJ, DR.IS [209] de 27.10.2010
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2010-307656
+  date: '2010-10-27'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:21:09Z'
   warnings: []
   errors: []
 ---
@@ -196,12 +214,12 @@ Presidência do Conselho de Ministros, 23 de Novembro de 1992.
 
 Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 22 de Janeiro de 1993.**
+Promulgado em 22 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1993.**
+Referendado em 26 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

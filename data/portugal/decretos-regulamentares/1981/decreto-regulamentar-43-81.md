@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1981-563020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:04:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e34f1c8373d4bb4563962c6a99ae14ee602c5d66d52a951bbfe24cba909802a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ed7d25bc0dc23256167198c7bc786315d3a94f0655e4ae38b08bdb59213f7db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:04:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agricultura
+- Centro Regional de Investigação e Desenvolvimento Agrário
+- Instituto Nacional de Investigação Agrária
+- Serviço Regional de Agricultura
+- Transferência de Competências
+relationships:
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402716:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:04:14Z'
   warnings: []
   errors: []
 ---
@@ -95,27 +108,27 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º As atribuições, competências e direitos conferidos por lei aos centros regionais de investigação e desenvolvimento agrários, bem como o pessoal que aí se encontre a prestar serviço, são transferidos para os serviços regionais de agricultura, de acordo com o mapa I anexo a este diploma, que dele faz parte integrante.
+Artigo 1.º As atribuições, competências e direitos conferidos por lei aos centros regionais de investigação e desenvolvimento agrários, bem como o pessoal que aí se encontre a prestar serviço, são transferidos para os serviços regionais de agricultura, de acordo com o mapa I anexo a este diploma, que dele faz parte integrante.
 
-###### Art. 2.º - 1 - A transição do pessoal referido no artigo anterior é feita mediante despacho do Ministro da Agricultura e Pescas, com manutenção dos direitos, deveres e regalias do serviço de origem, nomeadamente no que respeita à natureza do vínculo, designação funcional e letra de vencimento.
+Art. 2.º - 1 - A transição do pessoal referido no artigo anterior é feita mediante despacho do Ministro da Agricultura e Pescas, com manutenção dos direitos, deveres e regalias do serviço de origem, nomeadamente no que respeita à natureza do vínculo, designação funcional e letra de vencimento.
 
 2 - O contingente de pessoal dos serviços regionais de agricultura é aumentado de acordo com o mapa II anexo a este diploma e que dele faz parte integrante, considerando-se essas unidades abatidas ao contingente do pessoal do Instituto Nacional de Investigação Agrária.
 
-###### Art. 3.º Os móveis, utensílios, máquinas e viaturas, com e sem motor, e demais equipamento, bem como toda a documentação, afectos aos centros regionais de investigação e desenvolvimento agrários transitam, na data da entrada em vigor deste diploma, para os serviços regionais de agricultura, mediante relações de cadastro devidamente discriminadas, assinadas e autenticadas, em conformidade com a distribuição dos centros regionais de investigação e desenvolvimento agrários constante do mapa I anexo a este diploma.
+Art. 3.º Os móveis, utensílios, máquinas e viaturas, com e sem motor, e demais equipamento, bem como toda a documentação, afectos aos centros regionais de investigação e desenvolvimento agrários transitam, na data da entrada em vigor deste diploma, para os serviços regionais de agricultura, mediante relações de cadastro devidamente discriminadas, assinadas e autenticadas, em conformidade com a distribuição dos centros regionais de investigação e desenvolvimento agrários constante do mapa I anexo a este diploma.
 
-###### Art. 4.º Durante o corrente ano e até que seja possível proceder-se às necessárias alterações orçamentais, o INIA continuará a suportar o encargo com as despesas de funcionamento e pessoal dos centros regionais de investigação e desenvolvimento agrários, devendo, para o efeito, os respectivos serviços regionais de agricultura remeter àquele Instituto, mensalmente, relação discriminativa das despesas a realizar e, posteriormente, a documentação que justifique o seu processamento, liquidação, autorização e pagamento.
+Art. 4.º Durante o corrente ano e até que seja possível proceder-se às necessárias alterações orçamentais, o INIA continuará a suportar o encargo com as despesas de funcionamento e pessoal dos centros regionais de investigação e desenvolvimento agrários, devendo, para o efeito, os respectivos serviços regionais de agricultura remeter àquele Instituto, mensalmente, relação discriminativa das despesas a realizar e, posteriormente, a documentação que justifique o seu processamento, liquidação, autorização e pagamento.
 
-###### Art. 5.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, com o acordo dos Ministros das Finanças e do Plano e da Reforma Administrativa, quando estiverem em causa matérias das respectivas competências.
+Art. 5.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, com o acordo dos Ministros das Finanças e do Plano e da Reforma Administrativa, quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 6.º Este diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+Art. 6.º Este diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
 Francisco José Pereira Pinto Balsemão - João António de Morais Leitão - António José Baptista Cardoso e Cunha - Eusébio Marques de Carvalho.
 
-**Promulgado em 28 de Agosto de 1981.**
+Promulgado em 28 de Agosto de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA I
 
@@ -147,4 +160,4 @@ O Centro Regional de Investigação e Desenvolvimento Agrários do Algarve.
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21200/24402441.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21200/24402441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/21200/24402441.pdf)

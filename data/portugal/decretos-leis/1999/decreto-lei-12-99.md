@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/008a00/01150132.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/12/1999/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1999-490774
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:05:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f824d0092faf5df89d24b994378691f4dddf32cd23c6035b5596fcbe6be6c4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2043b9352525d9160783ede2e5eaf03d0a34d1df71838955c18d3b37fedc6ab6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:05:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,27 @@ reuse:
 subjects:
 - Agência de Turismo
 - Alvará
-- Turismo
-- Multa
+- Comércio
 - Contra-ordenação
 - Direito de Estabelecimento
 - Licenciamento
+- Multa
 - Proteção do Consumidor
 - Sanção Económica
 - Seguro Obrigatório de Responsabilidade Civil
-- Comércio
+- Turismo
 - Viagem de Turismo
 relationships:
 - type: amended_by
   target: pt:dre:286770:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:636062:por
+  label: "Alterados os art.s 2º, 3º, 5º, 8º, 14º, 23º, 30º, 40º, 57º, 59º, 60º, 61º, e revogados o nº 5 do art. 3º e o art\
+    \ 54º pelo DEC LEI.263/2007.20.07.2007.MEI, DR.IS [139] de 20.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/263-2007-636062
+  date: '2007-07-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/167/1997/07/04/p/dre
   label: null
@@ -123,16 +129,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/784
   label: null
   source: http://data.dre.pt/eli/port/784
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629866:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:286770:por
+  label: "Revogado, a partir de 05.06.2011, o Dec Lei n.º 209/97, de 13-Ago, na redacção do presente diploma, pelo DEC LEI.61/2011.06.05.2011.MEID,\
+    \ DR.IS [88] de 06.05.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2011-286770
+  date: '2011-05-06'
 article_structure:
-  article_count: 88
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 72
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:05:52Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +219,9 @@ Noção
 
 2 - Para os efeitos do presente diploma, a noção de empresa compreende o estabelecimento individual de responsabilidade limitada, a cooperativa e a sociedade comercial que tenham por objecto o exercício das actividades referidas no número anterior.
 
-###### Artigo 2.º — Actividades próprias e acessórias
+Artigo 2.º
+
+Actividades próprias e acessórias
 
 1 - São actividades próprias das agências de viagens e turismo:
 
@@ -197,7 +255,9 @@ h) ...
 
 i) ...
 
-###### Artigo 3.º — Exclusividade e limites
+Artigo 3.º
+
+Exclusividade e limites
 
 1 - Apenas as empresas licenciadas como agências de viagens e turismo podem exercer as actividades previstas no n.º 1 do artigo 2.º, sem prejuízo do disposto nos números seguintes.
 
@@ -215,7 +275,9 @@ c) ...
 
 5 - Não estão abrangidas pelo exclusivo reservado às agências de viagens e turismo as pessoas singulares e as pessoas colectivas previstas no número anterior que, sem regularidade nem fim lucrativo, organizarem viagens turísticas para terceiros abrangendo um número superior a oito pessoas por viagem, aplicando-se-lhes o regime previsto no artigo 54.º do presente diploma.
 
-###### Artigo 5.º — Licença
+Artigo 5.º
+
+Licença
 
 1 - ...
 
@@ -239,7 +301,9 @@ d) Terem sido titulares, gerentes ou administradores de uma agência de viagens 
 
 4 - ...
 
-###### Artigo 6.º — Pedido
+Artigo 6.º
+
+Pedido
 
 1 - Do pedido de licença deve constar:
 
@@ -267,7 +331,9 @@ f) Declaração em como o titular do estabelecimento em nome individual de respo
 
 4 - ...
 
-###### Artigo 8.º — Sucursais de agências estabelecidas na União Europeia
+Artigo 8.º
+
+Sucursais de agências estabelecidas na União Europeia
 
 1 - As agências de viagens e turismo estabelecidas noutro Estado membro da União Europeia podem abrir sucursais em Portugal, sendo dispensadas as formalidades exigidas pelo direito nacional para a constituição de empresas previstas no artigo 1.º
 
@@ -275,7 +341,9 @@ f) Declaração em como o titular do estabelecimento em nome individual de respo
 
 3 - Para os efeitos do disposto no número anterior, as sucursais de agências estabelecidas na União Europeia devem instruir o pedido de licença com os documentos previstos nas alíneas c), d), e) e f) do n.º 2 do artigo 6.º e ainda uma certidão do registo comercial comprovando a constituição da representação permanente em Portugal.
 
-###### Artigo 14.º — Utilização de meios próprios
+Artigo 14.º
+
+Utilização de meios próprios
 
 1 - Na realização de viagens turísticas e na recepção, transferência e assistência de turistas, as agências de viagens podem utilizar os meios de transporte que lhes pertençam, devendo, quando se tratar de veículos automóveis com lotação superior a nove lugares, cumprir os requisitos de acesso à profissão de transportador público rodoviário interno ou internacional de passageiros que nos termos da legislação respectiva lhes sejam aplicáveis, sem prejuízo do disposto nos números seguintes.
 
@@ -289,7 +357,9 @@ f) Declaração em como o titular do estabelecimento em nome individual de respo
 
 6 - Os veículos automóveis utilizados no exercício das actividades previstas no n.º 1 com lotação superior a nove lugares devem ser sujeitos a prévio licenciamento pela Direcção-Geral de Transportes Terrestres, nos termos a definir em portaria conjunta dos membros do Governo responsáveis pelas áreas do turismo e dos transportes, a qual fixará igualmente os requisitos mínimos a que devem obedecer tais veículos.
 
-###### Artigo 23.º — Informação sobre a viagem
+Artigo 23.º
+
+Informação sobre a viagem
 
 Antes do início de qualquer viagem organizada, a agência deve prestar ao cliente, em tempo útil, por escrito ou por outra forma adequada, as seguintes informações:
 
@@ -307,7 +377,9 @@ f) Sem prejuízo do disposto na alínea anterior, no caso de a viagem se realiza
 
 g) O modo de proceder no caso específico de doença ou acidente.
 
-###### Artigo 30.º — Incumprimento
+Artigo 30.º
+
+Incumprimento
 
 1 - Quando, após a partida, não seja fornecida uma parte significativa dos serviços previstos no contrato, a agência deve assegurar, sem aumento de preço para o cliente, a prestação de serviços equivalentes aos contratados.
 
@@ -321,7 +393,9 @@ g) O modo de proceder no caso específico de doença ou acidente.
 
 6 - Quando não seja possível contactar a agência de viagens nos termos previstos no número anterior, ou quando esta não assegure, em tempo útil, a prestação de serviços equivalentes aos contratados, o cliente pode contratar com terceiros serviços de alojamento e transporte não incluídos no contrato, a expensas da agência de viagens.
 
-###### Artigo 39.º — Princípios gerais
+Artigo 39.º
+
+Princípios gerais
 
 1 - ...
 
@@ -347,7 +421,9 @@ e) O prestador de serviços de alojamento não puder ser responsabilizado pela d
 
 7 - ...
 
-###### Artigo 40.º — Limites
+Artigo 40.º
+
+Limites
 
 1 - ...
 
@@ -375,13 +451,17 @@ c) ...
 
 5 - A responsabilidade da agência por danos não corporais poderá ser contratualmente limitada ao valor correspondente a cinco vezes o preço do serviço vendido.
 
-###### Artigo 54.º — Garantias
+Artigo 54.º
+
+Garantias
 
 1 - As pessoas singulares ou colectivas previstas no n.º 5 do artigo 3.º devem celebrar, antes de cada viagem turística que organizem, um seguro de responsabilidade civil, para os efeitos do disposto nas alíneas c), d) e e) do n.º 2 do artigo 41.º, nos termos previstos para as agências de viagens e turismo.
 
 2 - É dispensada a realização do contrato de seguro previsto no número anterior se o repatriamento e a assistência médica estiverem expressamente assegurados por agências de viagens e turismo ou por empresas transportadoras.
 
-###### Artigo 57.º — Contra-ordenações
+Artigo 57.º
+
+Contra-ordenações
 
 1 - Constituem contra-ordenações os seguintes comportamentos:
 
@@ -433,11 +513,15 @@ s) A violação do disposto no artigo 63.º
 
 7 - É punido com coima de 100000$00 a 500000$00 o não cumprimento da obrigação prevista na alínea r) do n.º 1.
 
-###### Artigo 58.º — Tentativa e negligência
+Artigo 58.º
+
+Tentativa e negligência
 
 A tentativa e a negligência são puníveis, sendo o limite máximo e mínimo da coima, nesses casos, reduzidos a metade.
 
-###### Artigo 59.º — Sanções acessórias
+Artigo 59.º
+
+Sanções acessórias
 
 1 - ...
 
@@ -447,7 +531,9 @@ A tentativa e a negligência são puníveis, sendo o limite máximo e mínimo da
 
 4 - (Suprimido.)
 
-###### Artigo 60.º — Competência para aplicação das sanções
+Artigo 60.º
+
+Competência para aplicação das sanções
 
 1 - É da competência do director-geral do Turismo a aplicação de coimas por violação deste diploma até 3000000$00, inclusive, à excepção das resultantes da violação dos n.os 1 e 6 do artigo 14.º, cuja competência é do director-geral de Transportes Terrestres.
 
@@ -455,7 +541,9 @@ A tentativa e a negligência são puníveis, sendo o limite máximo e mínimo da
 
 3 - ...
 
-###### Artigo 61.º — Produto das coimas
+Artigo 61.º
+
+Produto das coimas
 
 O produto das coimas recebidas por infracção ao disposto no presente diploma reverte em 60% para os cofres do Estado, 40% para a Direcção-Geral do Turismo, excepto o que resultar das coimas previstas por infracção ao disposto nos n.os 1 e 6 do artigo 14.º, que reverterá em 60% para os cofres do Estado, 20% para a Direcção-Geral de Transportes Terrestres e 20% para a entidade fiscalizadora.»
 
@@ -479,17 +567,19 @@ O presente diploma entra em vigor no dia imediatamente a seguir ao da sua public
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 1998. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 30 de Dezembro de 1998.**
+Promulgado em 30 de Dezembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Dezembro de 1998.**
+Referendado em 30 de Dezembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Disposições gerais
 
@@ -723,7 +813,9 @@ A transmissão da propriedade e a cessão de exploração dos estabelecimentos d
 
 Aos representantes das agências, quando devidamente identificados e em serviço, é permitido o acesso às delegações das alfândegas, aos cais de embarque e aos recintos destinados aos passageiros nos aeroportos ou gares.
 
-###### Artigo 16.º — Livro de reclamações
+###### Artigo 16.º
+
+## Livro de reclamações
 
 1 - Em todos os estabelecimentos das agências de viagens e turismo deve existir um livro destinado aos utentes para que estes possam formular observações e reclamações sobre o estado e a apresentação das instalações e do equipamento, bem como sobre a qualidade dos serviços e o modo como foram prestados.
 

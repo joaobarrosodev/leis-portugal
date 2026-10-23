@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 257/1999, 1º Suplemento, Série I-A de 1999-11-04
   number: '257'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7660-(2) a 7660-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/257a01/00020007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/449-a/1999/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-a-1999-692274
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:13:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4557d71aa0dbc76244ec5c736b350497b08248c06ed5e3f73e1c59a61908bc50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f16c710a1e78b9a8ad5bfe206d94d1cbd97c760a20c8f8690fd158171833e31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:13:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
 subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
-- Ministro do Trabalho e da Solidariedade
 - Estatuto
 - Financiamento da Segurança Social
 - Fundo de Estabilização Financeira da Segurança Social
 - Instituto de Gestão de Fundos de Capitalização da Segurança Social
 - Instituto Público
+- Ministro do Trabalho e da Solidariedade
 - Segurança Social
 - Transferência de Pessoal
 - Transferência Patrimonial
@@ -93,16 +93,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619168:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:638544:por
+  label: "Revogado pelo DEC LEI.216/2007.29.05.2007.MTSSO, DR.IS [103] de 29.05.2007, a partir de 01.06.2007 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-2007-638544
+  date: '2007-05-29'
 article_structure:
   article_count: 32
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:13:03Z'
   warnings: []
   errors: []
 ---
@@ -193,15 +222,15 @@ b) Sem prejuízo das habilitações legais, para carreira e categoria que integr
 
 Visto e aprovado em Conselho de Ministros de 16 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 29 de Outubro de 1999.**
+Promulgado em 29 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Novembro de 1999.**
+Referendado em 4 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Estatutos do Instituto de Gestão de Fundos de Capitalização da Segurança Social
 

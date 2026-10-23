@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/707-1973-412246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T04:13:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ab03615a681dec2e6462325afd98b898da79ef7f0bf8355016e8a121cffc76d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c81abdda89dcf7f82c5f1e9294e0f40cc9968bdbd3c6d19b236df7d24371213d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:13:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:147987:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:13:07Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +97,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo do
 
 ...
 
-###### Art. 160.º No final do 1.º semestre lectivo do 1.º ano e no final de cada ano escolar são preenchidos para cada aluno boletins de informação das qualidades militares pelas entidades seguintes:
+Art. 160.º No final do 1.º semestre lectivo do 1.º ano e no final de cada ano escolar são preenchidos para cada aluno boletins de informação das qualidades militares pelas entidades seguintes:
 
 a) Chefe do gabinete de formação técnico-naval respectivo;
 
@@ -107,9 +111,9 @@ e) Comandante do navio onde se tenha realizado viagem de instrução em curso, q
 
 ...
 
-###### Art. 163.º Com base nos boletins de informação das qualidades militares a que se refere o artigo 160.º, a comissão de disciplina preencherá, no termo do 1.º semestre lectivo do 1.º ano e no termo de cada ano escolar, para cada aluno, um boletim final, que servirá para a atribuição da classificação das qualidades militares.
+Art. 163.º Com base nos boletins de informação das qualidades militares a que se refere o artigo 160.º, a comissão de disciplina preencherá, no termo do 1.º semestre lectivo do 1.º ano e no termo de cada ano escolar, para cada aluno, um boletim final, que servirá para a atribuição da classificação das qualidades militares.
 
-###### Art. 164.º - 1. A classificação anual das qualidades militares de cada aluno é:
+Art. 164.º - 1. A classificação anual das qualidades militares de cada aluno é:
 
 a) Para os alunos do 1.º ano, a média aritmética das classificações atribuídas às qualidades militares nos dois boletins finais referidos no artigo anterior;
 
@@ -119,7 +123,7 @@ b) Para os alunos dos anos seguintes, a média aritmética das classificações 
 
 ...
 
-###### Art. 228.º Os alunos que obtenham classificação inferior a 10 valores em qualquer dos boletins finais referidos no artigo 163.º são propostos para exclusão.
+Art. 228.º Os alunos que obtenham classificação inferior a 10 valores em qualquer dos boletins finais referidos no artigo 163.º são propostos para exclusão.
 
 ...
 
@@ -127,6 +131,6 @@ b) Para os alunos dos anos seguintes, a média aritmética das classificações 
 
 Ministério da Marinha, 9 de Setembro de 1973. - O Ministro da Marinha, Manuel Pereira Crespo.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/24200/18431845.pdf))](https://files.diariodarepublica.pt/1s/1973/10/24200/18431845.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/24200/18431845.pdf)
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

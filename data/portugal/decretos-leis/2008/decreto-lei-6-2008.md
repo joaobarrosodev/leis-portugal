@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/01/00700/0021600220.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/6/2008/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2008-386826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20cbe6204a85f605fcda73da1b90059d73383e9f35b112d3c0b9b5d65c27d16c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc28e0d20231ffb2b44467642bd5f782e68fab85a6131e13918a70004f56257a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aproximação das Legislações
+- ASAE
 - CEE
+- Certificado de Qualidade
+- Comércio
 - Comissão de Aplicação de Coimas em Matéria Económica e Publicidade
-- Sistema Português da Qualidade
 - Contra-ordenação
 - Controlo de Qualidade
 - Definição de Competências
 - Equipamento Eléctrico
 - Fiscalização
-- ASAE
-- Certificado de Qualidade
 - Instituto Português da Qualidade
-- Normas de Segurança
 - Madeira.região Autónoma
+- Normas de Segurança
 - Proteção do Consumidor
-- Açores
-- Comércio
+- Sistema Português da Qualidade
 relationships:
 - type: amended_by
   target: pt:dre:106499601:por
@@ -101,16 +101,22 @@ relationships:
   target: celex:32006L0095
   label: null
   source: http://data.europa.eu/eli/dir/2006/95/oj
+- type: repealed_by
+  target: pt:dre:106499601:por
+  label: Revogado pelo(a) Decreto-Lei n.º 21/2017 - Diário da República n.º 37/2017, Série I de 2017-02-21 sem prejuízo do
+    disposto no art. 30.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2017-106499601
+  date: '2017-02-21'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:10Z'
   warnings: []
   errors: []
 ---
@@ -283,15 +289,15 @@ Com a entrada em vigor do presente decreto-lei ficam revogados o Decreto-Lei n.�
 
 Visto e aprovado em Conselho de Ministros de 8 de Novembro de 2007. - José Sócrates Carvalho Pinto de Sousa - António Fernandes da Silva Braga - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 6 de Dezembro de 2007.**
+Promulgado em 6 de Dezembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 7 de Dezembro de 2007.**
+Referendado em 7 de Dezembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Condições de segurança do equipamento eléctrico
 
@@ -327,7 +333,7 @@ c) Não coloquem em perigo pessoas, animais domésticos e bens quando o equipame
 
 1 - A marcação CE de conformidade é constituída pelas iniciais CE, de acordo com o seguinte grafismo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0021600220.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0021600220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0021600220.pdf)
 
 a) No caso de redução ou ampliação da marcação CE, devem ser respeitadas as proporções resultantes do grafismo graduado acima indicado;
 

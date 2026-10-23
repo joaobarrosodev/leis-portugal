@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/46/2009/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2009-602059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6fd59bb99a77d3a6daf3aab306016c9107656cc1bf3955ba8a6b15ef21d5314
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21cfa3615ab0bc7ffa887762fa1fe8233ad6b96f2ef8024d310f19a63d58fdc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Águas Públicas
-- Ordenamento do Território
-- Plano Director Municipal
-- Recursos Hídricos
-- Desenvolvimento Regional
-- Planeamento Urbano
 - Albufeiras
-- Orla Costeira
+- Autarquia Local
+- Desenvolvimento Regional
 - Lagoa
 - Medidas Preventivas
-- Zona de Proteção
-- Política de Solos
+- Ordenamento do Território
+- Orla Costeira
+- Planeamento Urbano
 - Plano de Pormenor
 - Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
 - Política do Ambiente
-- Urbanismo
+- Recursos Hídricos
 - Regime Jurídico
-- Autarquia Local
+- Urbanismo
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:189940:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:494006:por
+  label: "Alterados o nº 3 do art. 77º, a al. b) do nº 4 do art. 107º ( com efeitos desde 24.09.2007 a 25.02.2009 ) e as als.\
+    \ j) do nº 2 ( com efeitos desde 24.09.2009 a 25.02.2009 ) e d) do nº 4 do art. 148º, todos do Dec Lei 380/99, de 22-Set,\
+    \ na redacção dos arts. 2º e 3º do Dec Lei 316/2007, de 19-Set, e do presente diploma, pelo DEC LEI.181/2009.07.08.2009.MAOTDR,\
+    \ DR.IS [152] de 07.08.2009\0009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-2009-494006
+  date: '2009-08-07'
+- type: amended_by
+  target: pt:dre:485605:por
+  label: "Alterado o art. 148º do Dec Lei 380/99, de 22-Set, na redacção do presente diploma, pelo DEC LEI.2/2011.06.01.2011.PCM,\
+    \ DR.IS [4] de 06.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2011-485605
+  date: '2011-01-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/116/2008/07/04/p/dre
   label: null
@@ -129,16 +143,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83/1995/08/3
   label: null
   source: http://data.dre.pt/eli/lei/83/1995/08/3
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
 article_structure:
-  article_count: 188
-  section_count: 35
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 177
+  section_count: 31
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:44Z'
   warnings: []
   errors: []
 ---
@@ -195,7 +273,9 @@ Os artigos 77.º, 83.º-A, 92.º-A, 93.º, 95.º, 97.º-A, 100.º, 104.º, 107.�
 
 11 - ...
 
-###### Artigo 83.º-A — [...]
+Artigo 83.º-A
+
+[...]
 
 1 - Os planos municipais de ordenamento do território vigentes são disponibilizados, com carácter de permanência e na versão actualizada, no sítio electrónico do município a que respeitam.
 
@@ -205,7 +285,9 @@ Os artigos 77.º, 83.º-A, 92.º-A, 93.º, 95.º, 97.º-A, 100.º, 104.º, 107.�
 
 4 - ...
 
-###### Artigo 92.º-A — [...]
+Artigo 92.º-A
+
+[...]
 
 1 - A certidão do plano de pormenor que contenha as menções constantes das alíneas a) a d), h) e i) do n.º 1 do artigo 91.º, e que seja acompanhada das peças escritas e desenhadas enunciadas no n.º 3 do artigo anterior, constitui título bastante para a individualização no registo predial dos prédios resultantes das operações de loteamento, estruturação da compropriedade ou reparcelamento previstas no plano.
 
@@ -221,7 +303,9 @@ Os artigos 77.º, 83.º-A, 92.º-A, 93.º, 95.º, 97.º-A, 100.º, 104.º, 107.�
 
 7 - ...
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - Os instrumentos de gestão territorial podem ser objecto de alteração, de correcção material, de rectificação, de revisão e de suspensão.
 
@@ -231,7 +315,9 @@ Os artigos 77.º, 83.º-A, 92.º-A, 93.º, 95.º, 97.º-A, 100.º, 104.º, 107.�
 
 4 - ...
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - ...
 
@@ -247,7 +333,9 @@ d) ...
 
 e) ...
 
-###### Artigo 97.º-A — Correcções materiais e rectificações
+Artigo 97.º-A
+
+Correcções materiais e rectificações
 
 1 - As correcções materiais dos instrumentos de gestão territorial são admissíveis para efeitos de:
 
@@ -269,7 +357,9 @@ b) Correcção de erros materiais provenientes de divergências entre o acto ori
 
 5 - São admissíveis a todo o tempo, mediante declaração da respectiva entidade emitente, rectificações aos instrumentos de gestão territorial objecto de publicação na 2.ª série do Diário da República, nos casos previstos no número anterior.
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - ...
 
@@ -291,7 +381,9 @@ b) Por deliberação da assembleia municipal, sob proposta da câmara municipal,
 
 8 - A suspensão prevista na alínea b) do n.º 2 implica obrigatoriamente o estabelecimento de medidas preventivas e a abertura de procedimento de elaboração, revisão ou alteração de plano municipal de ordenamento do território para a área em causa, em conformidade com a decisão tomada pelo município.
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 1 - ...
 
@@ -311,7 +403,9 @@ b) Por deliberação da assembleia municipal, sob proposta da câmara municipal,
 
 9 - O disposto no presente artigo não se aplica à violação de disposições de planos de ordenamento de áreas protegidas ou de planos de ordenamento de albufeiras de águas públicas, os quais dispõem de regimes contra-ordenacionais específicos constantes, respectivamente, do regime jurídico da conservação da natureza e da biodiversidade e do regime de protecção das albufeiras de águas públicas de serviço público e das lagoas ou lagos de águas públicas.
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - ...
 
@@ -341,7 +435,9 @@ e) ...
 
 9 - ...
 
-###### Artigo 109.º — [...]
+Artigo 109.º
+
+[...]
 
 1 - ...
 
@@ -357,7 +453,9 @@ e) ...
 
 7 - A deliberação municipal referida no n.º 1 bem como a de prorrogação das medidas preventivas estão sujeitas a publicação nos termos do artigo 148.º
 
-###### Artigo 112.º — [...]
+Artigo 112.º
+
+[...]
 
 1 - ...
 
@@ -377,7 +475,9 @@ e) ...
 
 9 - A prorrogação das medidas preventivas segue o procedimento previsto no presente decreto-lei para o seu estabelecimento.
 
-###### Artigo 148.º — [...]
+Artigo 148.º
+
+[...]
 
 1 - ...
 
@@ -435,15 +535,15 @@ São revogados o artigo 83.º-B, a alínea b) do n.º 4 do artigo 107.º e a al�
 
 Visto e aprovado em Conselho de Ministros de 4 de Dezembro de 2008. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Rui Carlos Pereira - Alberto Bernardes Costa - Rui Nuno Garcia de Pina Neves Baleiras - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António de Melo Pinto Ribeiro.
 
-**Promulgado em 4 de Fevereiro de 2009.**
+Promulgado em 4 de Fevereiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de Fevereiro de 2009.**
+Referendado em 5 de Fevereiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro
 
@@ -1265,7 +1365,7 @@ Os planos intermunicipais de ordenamento do território são aprovados por delib
 
 ##### SUBSECÇÃO II — Planos municipais de ordenamento do território
 
-##### DIVISÃO I
+DIVISÃO I
 
 Disposições gerais
 
@@ -1551,7 +1651,7 @@ Os planos municipais de ordenamento do território poderão ter um prazo de vig�
 
 ###### Artigo 83.º-B — (Revogado pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro.)
 
-##### DIVISÃO II
+DIVISÃO II
 
 Plano director municipal
 
@@ -1637,7 +1737,7 @@ d) Programa de execução, contendo designadamente disposições indicativas sob
 
 3 - Os demais elementos que acompanham o plano director municipal são fixados por portaria do membro do Governo responsável pelo ordenamento do território.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Plano de urbanização
 
@@ -1697,7 +1797,7 @@ c) Programa de execução, contendo designadamente disposições indicativas sob
 
 3 - Os demais elementos que acompanham o plano de urbanização são fixados por portaria do membro do Governo responsável pelo ordenamento do território.
 
-##### DIVISÃO IV
+DIVISÃO IV
 
 Plano de pormenor
 

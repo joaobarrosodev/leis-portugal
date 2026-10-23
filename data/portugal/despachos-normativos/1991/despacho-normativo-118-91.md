@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/118/1991/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/118-1991-633559
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T07:48:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3db9085a06e2c86ade7922f3f769ae17437702f409a67dbcdcdd3e4b2c395c89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8e29d8b720e8c4395642ba449dbd1c833f07f59e082f445615b2a8bef54d4d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:48:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Turismo
 - Apoio ao Investimento
-- Indústria Hoteleira
+- Financiamento
 - Fundo de Turismo
+- Indústria Hoteleira
 - TAXA de JURO
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:566808:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:566808:por
+  label: "Mantido em vigor pelo DEC LEI.247/95.1995.09.20.MCT, DR.IS-A [218]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-1995-566808
+  date: '1995-09-20'
+- type: cites
+  target: pt:dre:354732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549421:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:524417:por
+  label: "Revogado pelo DN.73/92.19.05.1992.MCT, DR.IS-B [115] de 19.05.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/73-1992-524417
+  date: '1992-05-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:48:44Z'
   warnings: []
   errors: []
 ---
@@ -267,4 +293,4 @@ Tabela anexa ao Despacho Normativo n.º 118/91
 
 [a que se refere a alínea b) do n.º 13 do presente diploma]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/06/129b00/30723074.pdf))](https://files.diariodarepublica.pt/1s/1991/06/129b00/30723074.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/06/129b00/30723074.pdf)

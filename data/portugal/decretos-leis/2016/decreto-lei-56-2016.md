@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/08/16500/0299603000.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/56/2016/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2016-75216370
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f9da829616cee48a9e35c2b35b468080f3768b2e22bbf5b714dd94b92a9a11b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0415585e3e1641cab1144cbfa797ccf33e822b43c476483c8563039d15dd128b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Aproximação das Legislações
-- Multa
-- Fiscalização
-- Licença de Utilização
-- Licença de Transporte
+- Autoridade Competente
+- Comércio
 - Embalagem
+- Fiscalização
+- Licença de Transporte
+- Licença de Utilização
+- Multa
 - Normas de Segurança
 - Pirotecnia
+- PSP
 - Regulamento CE
 - Substância Perigosa e Explosiva
 - Taxa
-- Comércio
 - Transporte de Mercadorias Perigosas
-- Autoridade Competente
 relationships:
 - type: amended_by
   target: pt:dre:168296687:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115487880:por
+  label: Alterados, com efeitos a 01.07.2018, os arts. 3.º, 4.º, 7.º, 16.º, 18.º e 20.º do presente diploma, pelo(a) Decreto-Lei
+    n.º 41/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2018-115487880
+  date: '2018-06-11'
 - type: cites
   target: celex:32008R1272
   label: null
@@ -99,16 +105,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401043:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:168296687:por
+  label: Revogado, a partir de 27.07.2021, o presente diploma, pelo(a) Decreto-Lei n.º 62/2021 - Diário da República n.º 143/2021,
+    Série I de 2021-07-26 e nos termos do seu art. 25.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-2021-168296687
+  date: '2021-07-26'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:21Z'
   warnings: []
   errors: []
 ---
@@ -357,12 +377,12 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de julho de 2016. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - Maria Constança Dias Urbano de Sousa.
 
-**Promulgado em 11 de agosto de 2016.**
+Promulgado em 11 de agosto de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de agosto de 2016.**
+Referendado em 18 de agosto de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/189/2009/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-2009-493684
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6645748a39bee4992b6d854b3525e5bf02211905c5f704fda984cece161e7172
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d6d6f749083e7ee07f01d9733e09b0d5af23df82cdf1bf3acf388c535650cb8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Extinção de Carreiras
-- Arsenal do Alfeite
 - Administração Pública
+- Arsenal do Alfeite
 - Carreira Profissional
+- Extinção de Carreiras
 - Integração de Trabalhadores
 - Quadro de Pessoal
 - Remuneração
@@ -95,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1227/1991/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1227/1991/12/31/p/dre
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601558:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:14Z'
   warnings: []
   errors: []
 ---
@@ -175,13 +195,13 @@ O presente decreto-lei entra em vigor na data de início de vigência do contrat
 
 Visto e aprovado em Conselho de Ministros de 18 de Junho de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - João António da Costa Mira Gomes.
 
-**Promulgado em 7 de Agosto de 2009.**
+Promulgado em 7 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de Agosto de 2009.**
+Referendado em 10 de Agosto de 2009.
 
 Pelo Primeiro-Ministro, Luís Filipe Marques Amado, Ministro de Estado e dos Negócios Estrangeiros.
 
@@ -191,7 +211,7 @@ Transição para a carreira de técnico superior
 
 (transições a que aludem os artigos 2.º e 8.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf)
 
 MAPA II
 
@@ -201,7 +221,7 @@ Transição para a carreira de assistente técnico
 
 Categoria: assistente técnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf)
 
 MAPA III
 
@@ -211,15 +231,15 @@ Transição para a carreira de assistente operacional
 
 Categoria: encarregado geral operacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf)
 
 Categoria: encarregado operacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf)
 
 Categoria: assistente operacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf)
 
 MAPA IV
 
@@ -227,7 +247,7 @@ Transição para a carreira especial não revista de técnico de informática
 
 (transições a que alude o artigo 5.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf)
 
 MAPA V
 
@@ -235,7 +255,7 @@ Carreiras subsistentes
 
 (transições a que alude o artigo 6.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15800/0532505335.pdf)
 
 MAPA VI
 

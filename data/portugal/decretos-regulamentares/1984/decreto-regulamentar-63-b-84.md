@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 192/1984, 1º Suplemento, Série I de 1984-08-20
   number: '192'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2556-(16) a 2556-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/08/19201/00160019.pdf
 entry_into_force_dates: []
@@ -48,36 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-b-1984-579343
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:09:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 813466cbb36f33527e7ef5547e9bbc778eb0baced1c62c30d33d0c518459c99d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5703787a860b851461a49aa5a3abe62eb8b7bb8f3b0660068cedd897bc17349e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:09:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro Coordenador do Trabalho Portuário
+- Orgânica
+- Trabalho Portuário
+relationships:
+- type: cites
+  target: pt:dre:383648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678854:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:09:56Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +131,9 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e âmbito
 
-###### Artigo 1.º Os centros coordenadores do trabalho portuário (CCTP) são entidades dotadas de personalidade jurídica de direito público e de autonomia administrativa, financeira e patrimonial que funcionam sob a tutela administrativa, controle e fiscalização do Instituto do Trabalho Portuário (ITP).
+Artigo 1.º Os centros coordenadores do trabalho portuário (CCTP) são entidades dotadas de personalidade jurídica de direito público e de autonomia administrativa, financeira e patrimonial que funcionam sob a tutela administrativa, controle e fiscalização do Instituto do Trabalho Portuário (ITP).
 
-###### Art. 2.º - 1 - Cada CCTP tem sede e exerce a sua acção na área do respectivo porto, nos termos fixados na lei.
+Art. 2.º - 1 - Cada CCTP tem sede e exerce a sua acção na área do respectivo porto, nos termos fixados na lei.
 
 2 - Mantêm-se em funcionamento os CCTP de Lisboa (CCTPL), do Douro e Leixões (CCTPDL) e de Setúbal (CCTPS), criados pelos Decretos Regulamentares n.os [17/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1978-631272), de 17 de Junho, [1/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1980-508601), de 9 de Janeiro, e [2/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1980-678854), de 1 de Março.
 
@@ -118,7 +145,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO II — Competências
 
-###### Art. 3.º - 1 - No âmbito das atribuições referidas no n.º 2 do artigo 2.º do [Decreto-Lei n.º 282-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344), de 20 de Agosto, compete, nomeadamente, aos CCTP:
+Art. 3.º - 1 - No âmbito das atribuições referidas no n.º 2 do artigo 2.º do [Decreto-Lei n.º 282-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344), de 20 de Agosto, compete, nomeadamente, aos CCTP:
 
 a) Organizar o registo de todos os trabalhadores e operadores portuários na área da sua jurisdição;
 
@@ -156,7 +183,7 @@ p) Fixar anualmente as taxas devidas como contrapartida pelo recrutamento dos tr
 
 ### CAPÍTULO III — Órgãos e serviços
 
-###### Art. 4.º São órgãos dos CCTP:
+Art. 4.º São órgãos dos CCTP:
 
 a) A direcção;
 
@@ -164,7 +191,7 @@ b) O conselho fiscal;
 
 c) O conselho geral.
 
-###### Art. 5.º - 1 - A direcção é nomeada e exonerada por despacho do Ministro do Mar, sendo constituída por:
+Art. 5.º - 1 - A direcção é nomeada e exonerada por despacho do Ministro do Mar, sendo constituída por:
 
 a) 1 presidente;
 
@@ -174,7 +201,7 @@ c) 1 vogal designado pelos operadores portuários do mesmo porto.
 
 2 - Nos casos previstos nas alíneas b) e c) do número anterior, poderá o Ministro do Mar, se o considerar necessário, suprir a falta se as entidades competentes se abstiverem de indicar o seu representante no prazo de 30 dias após serem solicitadas a fazê-lo.
 
-###### Art. 6.º - 1 - Compete à direcção:
+Art. 6.º - 1 - Compete à direcção:
 
 a) Elaborar os regulamentos internos necessários à correcta execução das atribuições do CCTP e funcionamento dos serviços;
 
@@ -192,13 +219,13 @@ g) De um modo geral, exercer as competências que estão cometidas ao CCTP.
 
 2 - O exercício do poder disciplinar, nos termos da alínea a) do n.º 2 do artigo 7.º do [Decreto-Lei n.º 282-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344), de 20 de Agosto, cabe à direcção, que deverá exercê-lo nos termos prescritos pela legislação de trabalho e pelo instrumento de regulamentação colectiva em vigor.
 
-###### Art. 7.º - 1 - A direcção reunirá ordinariamente uma vez por semana e extraordinariamente sempre que o seu presidente, por iniciativa própria ou a solicitação de qualquer dos vogais, a convoque.
+Art. 7.º - 1 - A direcção reunirá ordinariamente uma vez por semana e extraordinariamente sempre que o seu presidente, por iniciativa própria ou a solicitação de qualquer dos vogais, a convoque.
 
 2 - As deliberações serão tomadas por maioria dos membros presentes, cabendo ao presidente voto de qualidade.
 
 3 - De todas as reuniões será lavrada acta.
 
-###### Art. 8.º - 1 - O conselho fiscal é nomeado e exonerado por despacho do Ministro do Mar, sendo constituído por:
+Art. 8.º - 1 - O conselho fiscal é nomeado e exonerado por despacho do Ministro do Mar, sendo constituído por:
 
 a) 1 presidente;
 
@@ -208,13 +235,13 @@ c) 1 representante dos operadores portuários do mesmo porto designado por estes
 
 2 - Nos casos previstos nas alíneas b) e c) do número anterior, poderá o Ministro do Mar, se o considerar necessário, suprir a falta se as entidades competentes se abstiverem de indicar o seu representante no prazo de 30 dias após serem solicitadas a fazê-lo.
 
-###### Art. 9.º Compete ao conselho fiscal:
+Art. 9.º Compete ao conselho fiscal:
 
 a) Fiscalizar, por iniciativa própria ou a pedido de qualquer dos membros da direcção, as contas do CCTP;
 
 b) Apreciar o relatório e contas e o orçamento anual do CCTP e elaborar os respectivos pareceres.
 
-###### Art. 10.º - 1 - O conselho geral é nomeado e exonerado por despacho do Ministro do Mar, sendo constituído por:
+Art. 10.º - 1 - O conselho geral é nomeado e exonerado por despacho do Ministro do Mar, sendo constituído por:
 
 a) 1 representante do Ministério do Mar, que presidirá;
 
@@ -242,7 +269,7 @@ g) 1 representante das associações comerciais.
 
 7 - O conselho geral funcionará desde que esteja presente a maioria dos membros nomeados.
 
-###### Art. 11.º Compete ao conselho geral:
+Art. 11.º Compete ao conselho geral:
 
 a) Acompanhar a actividade do CCTP, podendo formular propostas, sugestões ou recomendações que entenda convenientes e bem assim pedidos de esclarecimento ou justificação à direcção;
 
@@ -250,11 +277,11 @@ b) Pronunciar-se sobre qualquer assunto que a direcção entenda dever submeter 
 
 c) Dar os pareceres que lhe sejam pedidos pelo conselho directivo do ITP.
 
-###### Art. 12.º As funções de membro do conselho geral não são remuneradas pelo CCTP.
+Art. 12.º As funções de membro do conselho geral não são remuneradas pelo CCTP.
 
 ### CAPÍTULO IV — Tutela administrativa do ITP
 
-###### Art. 13.º Carecem de aprovação prévia do ITP:
+Art. 13.º Carecem de aprovação prévia do ITP:
 
 a) O plano de actividades e o orçamento anual do CCTP;
 
@@ -274,13 +301,13 @@ h) A aquisição ou alienação de imóveis ou de equipamentos de valor superior
 
 i) A fixação das taxas devidas como contrapartida pelo recrutamento dos trabalhadores portuários por seu intermédio.
 
-###### Art. 14.º O funcionamento dos CCTP está sujeito à fiscalização e controle do ITP.
+Art. 14.º O funcionamento dos CCTP está sujeito à fiscalização e controle do ITP.
 
 ### CAPÍTULO V — Gestão, receitas e despesas
 
-###### Art. 15.º Os CCTP devem ser geridos em moldes empresariais.
+Art. 15.º Os CCTP devem ser geridos em moldes empresariais.
 
-###### Art. 16.º Constituem receitas dos CCTP:
+Art. 16.º Constituem receitas dos CCTP:
 
 a) As importâncias relativas às retribuições dos trabalhadores recrutados por seu intermédio pagas pelas entidades empregadoras, acrescidas dos encargos correspondentes;
 
@@ -292,30 +319,30 @@ d) Os juros de disponibilidades próprias;
 
 e) Quaisquer outras legalmente permitidas.
 
-###### Art. 17.º São despesas dos CCTP todas as que resultem do exercício das suas funções.
+Art. 17.º São despesas dos CCTP todas as que resultem do exercício das suas funções.
 
 ### CAPÍTULO VI — Disposições finais e transitórias
 
-###### Art. 18.º - 1 - Com a entrada em vigor do presente diploma, consideram-se dissolvidos os actuais órgãos dos CCTP.
+Art. 18.º - 1 - Com a entrada em vigor do presente diploma, consideram-se dissolvidos os actuais órgãos dos CCTP.
 
 2 - Manter-se-ão, porém, transitoriamente em funções até à data de nomeação dos novos órgãos dos CCTP as actuais direcções e conselhos fiscais.
 
 3 - Os prazos previstos nos n.os 2 dos artigos 5.º e 8.º são reduzidos para 8 dias, no caso da nomeação a que se refere o n.º 2 do presente artigo.
 
-###### Art. 19.º No prazo de 3 meses a contar da sua nomeação, as direcções apresentarão ao ITP, para aprovação, a estrutura dos respectivos CCTP e os seus quadros de pessoal.
+Art. 19.º No prazo de 3 meses a contar da sua nomeação, as direcções apresentarão ao ITP, para aprovação, a estrutura dos respectivos CCTP e os seus quadros de pessoal.
 
-###### Art. 20.º Nas regiões autónomas poderá aplicar-se o presente diploma, com as alterações consideradas necessárias.
+Art. 20.º Nas regiões autónomas poderá aplicar-se o presente diploma, com as alterações consideradas necessárias.
 
-###### Art. 21.º São revogados os Decretos Regulamentares n.os [17/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1978-631272), de 17 de Junho, [1/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1980-508601), de 9 de Janeiro, e [2/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1980-678854), de 1 de Março.
+Art. 21.º São revogados os Decretos Regulamentares n.os [17/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1978-631272), de 17 de Junho, [1/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1980-508601), de 9 de Janeiro, e [2/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1980-678854), de 1 de Março.
 
 Visto e aprovado em Conselho de Ministros de 5 de Junho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo - Carlos Montez Melancia.
 
-**Promulgado em 8 de Agosto de 1984.**
+Promulgado em 8 de Agosto de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 17 de Agosto de 1984.**
+Referendado em 17 de Agosto de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

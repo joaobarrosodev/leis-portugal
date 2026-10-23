@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/610-1972-690063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03134a3165f1fa0296bb15bb872986f64c0b8d25d1081632ec85eb05d583e438
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 170ea173a551d73d3558fd2400f118d8e69cfced827937826821896e7c9abdfd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,42 @@ relationships:
   target: pt:dre:337046:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:337046:por
+  label: Alterada a al. a) do n.º II do mapa anexo pelo(a) Portaria n.º 379/75 - Diário do Governo n.º 141/1975, Série I de
+    1975-06-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/379-1975-337046
+  date: '1975-06-21'
+- type: cites
+  target: pt:dre:155187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631981:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:34Z'
   warnings: []
   errors: []
 ---
@@ -311,4 +337,4 @@ Anidrido sulfuroso total - não superior a 200 mg por litro;
 
 Anidrido sulfuroso livre - não superior a 70 mg por litro, com tolerância de 10 por cento.
 
-**O Secretário de Estado do Comércio, Alexandre de Azeredo Vaz Pinto.**
+O Secretário de Estado do Comércio, Alexandre de Azeredo Vaz Pinto.

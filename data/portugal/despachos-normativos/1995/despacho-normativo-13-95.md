@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/03/068b00/15361546.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/13/1995/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-1995-165636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T08:27:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93ff8bf95331154a58ce9e46552835105694403703fdec7078fc3567eae4abb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d896d13932e26c39f4dbbe5b739e5fa7129d1ccb3a81e50bbb23e1db0e47055a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:27:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- CASA PIA de Lisboa
+- Ensino Técnico Profissional
 - Formação Profissional
 - Plano de Estudos
-- Ensino Técnico Profissional
-- CASA PIA de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:567697:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADA PELA DECL-RECT 67/95 DE 31-MAI DR.IS-B [126]2SUPL DE 31/MAI/1995\0AI/1995"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-05-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/6/1991/01/15/p/dre
   label: null
@@ -83,16 +88,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/423/1992/05/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/423/1992/05/22/p/dre
+- type: cites
+  target: pt:dre:471100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523640:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:567697:por
+  label: "Revogado, mantendo contudo em vigor os planos curriculares constantes do mesmo, para os alunos que frequentam os\
+    \ 2.º e 3.º anos dos cursos, pelo DN.64/98.1998.08.18.ME DR.IS-B [204] DE 04/SET/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/64-1998-567697
+  date: '1998-08-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:27:53Z'
   warnings: []
   errors: []
 ---
@@ -327,4 +358,4 @@ d) Casa Pia de Lisboa.
 
 Ministérios da Educação e do Emprego e da Segurança Social, 20 de Fevereiro de 1995. - Pela Ministra da Educação, Manuel Castro de Almeida, Secretário de Estado da Educação e do Desporto. - Pelo Ministro do Emprego e da Segurança Social, José Frederico de Lemos Salter Cid, Secretário de Estado da Segurança Social.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/068b00/15361546.pdf))](https://files.diariodarepublica.pt/1s/1995/03/068b00/15361546.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/068b00/15361546.pdf)

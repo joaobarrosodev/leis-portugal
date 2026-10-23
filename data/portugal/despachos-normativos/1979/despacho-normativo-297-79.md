@@ -46,40 +46,101 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/297-1979-369785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:54:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b865223f6ba817febc016ffb4c9960df66192b2f9ef9db769413eff6b8fa78a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f35736093bddcdd957113825fbd235e3130e144fc9be2d0a0ee10977d5daa05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:54:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ADSE
+- Auditoria Jurídica
+- Banco de Portugal
+- Caixa Geral de Aposentações
+- Conselho Consultivo do Mercado Financeiro
+- Cosec
+- Definição de Competências
+- Direcção Geral da Contabilidade Pública
+- Direcção Geral das Alfândegas
+- Direcção Geral das Contribuições e Impostos
+- Direcção Geral do Património
+- Direcção Geral do Tesouro
+- Direcção Geral do Tribunal de Contas
+- Fundo de Abastecimento
+- Gabinete de Estudos e Planeamento
+- Gabinete de Gestão dos Veículos do Estado
+- Gabinete de Informação e Relações Públicas
+- Gabinete Governamental
+- Gabinete para a Cooperação Económica Externa
+- Guarda Fiscal
+- Imprensa Nacional-Casa da Moeda
+- Inspeção Geral de Finanças
+- Inspecção de Crédito
+- Inspecção de Seguros
+- Instituto de Informática
+- Instituto Geográfico e Cadastral
+- Instituto Nacional de Seguros
+- Intendência Geral do Orçamento
+- IPE
+- Junta de Crédito Público
+- Ministério das Finanças
+- Montepio dos Servidores do Estado
+- Orgânica
+- Secretaria de Estado das Finanças
+- Secretaria de Estado do Orçamento
+- Secretaria de Estado do Tesouro
+- Secretaria Geral
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:365899:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:364908:por
+  label: "Alterado o art. 7.º pelo DN.315/79.13.10.1979.MF, DR.IS [237] de 13.10.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/315-1979-364908
+  date: '1979-10-13'
+- type: amended_by
+  target: pt:dre:364935:por
+  label: "Aditada a al. g) pelo DN.317/79.16.10.1979.MF, DR.IS [239] de 16.10.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/317-1979-364935
+  date: '1979-10-16'
+- type: cites
+  target: pt:dre:381505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:366453:por
+  label: Rectificado pelo DN.366/79.14.12.1979.MF, DR.IS [287] de 14.12.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/366-1979-366453
+  date: '1979-12-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:54:47Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +153,7 @@ Entretanto, está-se ciente de que a elaboração de uma nova lei orgânica do M
 
 Nestes termos, ao abrigo do artigo 202.º, alínea d), da Constituição, determino o seguinte, enquanto se não proceder à reestruturação dos serviços:
 
-###### Artigo 1.º - 1 - O Ministério das Finanças, cuja orientação global cabe ao respectivo Ministro, compreende as seguintes Secretarias de Estado:
+Artigo 1.º - 1 - O Ministério das Finanças, cuja orientação global cabe ao respectivo Ministro, compreende as seguintes Secretarias de Estado:
 
 a) Secretaria de Estado do Orçamento;
 
@@ -102,7 +163,7 @@ c) Secretaria de Estado das Finanças.
 
 2 - O Conselho Superior de Economia funcionará, até à sua extinção, na directa dependência do Ministro das Finanças.
 
-###### Art. 2.º Dependem directamente do Ministro das Finanças os serviços seguintes:
+Art. 2.º Dependem directamente do Ministro das Finanças os serviços seguintes:
 
 a) Gabinete do Ministro;
 
@@ -116,9 +177,9 @@ e) Gabinete para a Cooperação Económica Externa;
 
 f) Gabinete de Informação e Relações Públicas.
 
-###### Art. 3.º O Ministro das Finanças exerce, por acumulação, a gestão directa da Secretaria de Estado das Finanças.
+Art. 3.º O Ministro das Finanças exerce, por acumulação, a gestão directa da Secretaria de Estado das Finanças.
 
-###### Art. 4.º Na dependência do Secretário de Estado do Orçamento funcionarão os serviços seguintes:
+Art. 4.º Na dependência do Secretário de Estado do Orçamento funcionarão os serviços seguintes:
 
 a) Gabinete do Secretário de Estado;
 
@@ -144,7 +205,7 @@ l) Caixa Geral de Aposentações e Montepio dos Servidores do Estado;
 
 m) Assistência na Doença aos Servidores do Estado.
 
-###### Art. 5.º Na dependência do Secretário de Estado do Tesouro funcionarão os serviços seguintes:
+Art. 5.º Na dependência do Secretário de Estado do Tesouro funcionarão os serviços seguintes:
 
 a) Gabinete do Secretário de Estado;
 
@@ -154,7 +215,7 @@ c) Junta do Credito Público;
 
 d) Inspecção de Seguros.
 
-###### Art. 6.º O Secretário de Estado do Tesouro despachará ainda os assuntos relativos:
+Art. 6.º O Secretário de Estado do Tesouro despachará ainda os assuntos relativos:
 
 a) Ao sistema bancário;
 
@@ -172,7 +233,7 @@ g) Ao Conselho Consultivo do Mercado Financeiro;
 
 h) Às bolsas de valores.
 
-###### Art. 7.º Na dependência do Secretário de Estado das Finanças funcionarão os serviços seguintes:
+Art. 7.º Na dependência do Secretário de Estado das Finanças funcionarão os serviços seguintes:
 
 a) Gabinete do Secretário de Estado;
 
@@ -186,7 +247,7 @@ e) Gabinete de Gestão de Veículos do Estado;
 
 f) Serviço de Informação para o Abastecimento Estatal.
 
-###### Art. 8.º O Secretário de Estado das Finanças despachará ainda os assuntos relativos:
+Art. 8.º O Secretário de Estado das Finanças despachará ainda os assuntos relativos:
 
 a) Ao Instituto das Participações do Estado;
 
@@ -198,6 +259,6 @@ d) A financiamentos propostos pela Comissão Interministerial de Financiamento a
 
 e) Aos contratos de viabilização.
 
-###### Art. 9.º Este despacho entra em vigor no dia 1 de Setembro e revoga o [Despacho Normativo n.º 180/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/180-1979-381505).
+Art. 9.º Este despacho entra em vigor no dia 1 de Setembro e revoga o [Despacho Normativo n.º 180/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/180-1979-381505).
 
 Ministério das Finanças, 29 de Agosto de 1979. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/55/2001/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2001-321289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:29:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 072383ba361e053bdde7de445d077152d5d110d8cb84724c369a9cf2357ca9f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b778a0a12960e39a54432ae11f274b12efa788400523522ac3fe1570fd297777
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:29:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
+- Conservação e Restauro
 - Conservador de Museu
-- Património Cultural
-- Recrutamento de Pessoal
-- Ministério da Cultura
-- Integração de Trabalhadores
-- Museologia
 - Descrição de Funções
+- Formação Profissional
+- Integração de Trabalhadores
+- Ministério da Cultura
+- Museologia
+- Património Cultural
 - Pessoal Técnico Profissional
 - Pessoal Técnico Superior
-- Conservação e Restauro
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:522218:por
+  label: "Alterados os arts 17º e 18º pela LEI.89/2001.2001.08.10.AR DR.IS-A [185]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/89-2001-522218
+  date: '2001-08-10'
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para as carreiras Gerais de Técnico Superior, bem como para as categorias de assistente\
+    \ técnico, e assistente operacional, nos termos dos arts. 2º, 4º e 7º, dos trabalhadores integrados nas carreiras ou titulares\
+    \ das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime de Contrato de Trabalho\
+    \ em Funções Públicas (RCTFP), revogado o citado diploma, a partir da mesma data, com excepção das disposições relativas\
+    \ às categorias subsistentes, pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126/1994/05/19/p/dre
   label: null
@@ -105,16 +119,73 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678271:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:337858:por
+  label: "Rectificada pela DECL-RECT.9-D/2001.2001.03.27.PCM, DR.IS-A [77]2ºSupl. de 31/Mar/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/9-d-2001-337858
+  date: '2001-03-27'
 article_structure:
   article_count: 22
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:29:43Z'
   warnings: []
   errors: []
 ---
@@ -355,15 +426,15 @@ O presente diploma produz efeitos a 1 de Julho de 2000.
 
 Visto e aprovado em Conselho de Ministros de 11 de Janeiro de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - José Estêvão Cangarato Sasportes - Alberto de Sousa Martins.
 
-**Promulgado em 2 de Fevereiro de 2001.**
+Promulgado em 2 de Fevereiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Fevereiro de 2001.**
+Referendado em 7 de Fevereiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Conteúdos funcionais
 
@@ -413,17 +484,17 @@ Produz, por processos artesanais tradicionais e sob orientação, obra enquadrá
 
 Carreira de conservador
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
 
 Carreira de conservador-restaurador
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
 
 Carreira de técnico de conservação e restauro
 
 Carreira de técnico de fotografia e radiografia para a conservação
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
 
 Carreira técnico-profissional de museografia
 
@@ -431,19 +502,19 @@ Carreira técnico-profissional de conservação e restauro
 
 Carreira técnico-profissional de secretário-recepcionista
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
 
 Carreira de vigilante-recepcionista
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
 
 Carreira do pessoal de guardaria
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
 
 Carreira de artífice
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
 
 ## ANEXO III — Mapas de transição
 
@@ -451,28 +522,28 @@ MAPA A
 
 Carreira de técnico de conservação e restauro da área funcional de pintura, escultura, têxteis e documentos gráficos
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
 
 MAPA B
 
 Carreiras de técnico de conservação e restauro da área funcional de objectos arqueológicos, azulejaria, faiança, porcelana e vitral e de técnico de fotografia e radiografia para a conservação
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
 
 MAPA C
 
 Carreira de técnico auxiliar de conservação e restauro da área funcional de objectos arqueológicos e etnográficos e documentos gráficos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
 
 MAPA D
 
 Carreira de vigilante-recepcionista
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
 
 MAPA E
 
 Carreira de artífice
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/11300/0371103711.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/34/2015/06/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/34-2015-67468083
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T05:23:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b322d2ddd3609284bca362a36beac9beece1751f1e4aed3c0b3967eb3dd6038
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49925b1ad4fa4e46d2abe2551ee9690a0fa3e413b01cd497d511927b8d6d751b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:23:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Aéreo
 - Convenção
-- Portugal
-- Lisboa
 - Guiné Equatorial
+- Lisboa
+- Portugal
+- Transporte Aéreo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/61/2015/06/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/61/2015/06/12/p/dre
+- type: cites
+  target: pt:dre:67468086:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:23:09Z'
   warnings: []
   errors: []
 ---
@@ -94,16 +98,16 @@ validation:
 
 de 12 de junho
 
-**O Presidente da República decreta, nos termos do artigo 135º, alínea b) da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135º, alínea b) da Constituição, o seguinte:
 
 É ratificado o Acordo sobre Transporte Aéreo entre a República Portuguesa e a República da Guiné Equatorial, assinado em Lisboa, a 15 de maio de 2014, aprovado pela [Resolução da Assembleia da República n.º 61/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/61-2015-67468086), em 27 de março de 2015.
 
-**Assinado em 3 de junho de 2015.**
+Assinado em 3 de junho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 8 de junho de 2015.**
+Referendado em 8 de junho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/419-1979-377885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T05:58:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7bf08fbd9c67bda5faa9b14063b0565c335b9d7cd11de67b0f49d0ed3d662bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77e53436fa17893ee072e9fac96ee6ce2165e32551ae994ff9a5dc2709327ca4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Animais
+- Agricultor
+- Indemnização
 relationships:
 - type: amended_by
   target: pt:dre:549394:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:183609:por
+  label: "Dada nova redacção à al. a) do nº 10-1 e ao nº 11 e substituida a tabela anexa pela PORT.488/85.19.07.1985.MFP,\
+    \ DR.IS [164] de 19.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/488-1985-183609
+  date: '1985-07-19'
+- type: cites
+  target: pt:dre:326359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520187:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO O NUMERO 2, 2.1, 3.2, 4 E 12, PELA PORTARIA NUMERO 915/89, PUBLICADA NO DIÁRIO DA REPÚBLICA, NUMERO 240,\
+    \ DE 18/10/89. ALTERADO O NUMERO 2 PELA PORTARIA NUMERO 200/89, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 58,\
+    \ DE 10/3/89. ALTERADO O NUMERO 1, PELA PORTARIA NUMERO 915/89, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 240,\
+    \ DE 18/10/89. ALTERADO O NUMERO 4, PELA PORTARIA NUMERO 302/86, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 140,\
+    \ DE 21/6/86.\0E, NUMERO 140, DE 21/6/86.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:58:15Z'
   warnings: []
   errors: []
 ---
@@ -194,7 +219,7 @@ Tabela anexa
 
 I) Explorações previamente reconhecidas e aprovadas como preenchendo as condições de instalação, efectivos e funcionamento estabelecidos no despacho de 16 de Maio de 1973 com as alterações que lhe foram introduzidas pelo despacho de 30 de Novembro do mesmo ano e com defesa sanitária aprovada pela Direcção-Geral dos Serviços Veterinários:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/18500/18851887.pdf))](https://files.diariodarepublica.pt/1s/1979/08/18500/18851887.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/18500/18851887.pdf)
 
 II) Outras explorações registadas - valor-base (VB).
 

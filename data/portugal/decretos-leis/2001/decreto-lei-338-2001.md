@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/338/2001/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:29:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c52095cf4f51dc70758aaf07cfe3f37945b7290f13baddc123cf0b348d65479
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 816e05b919bfd0c6cd7aab13d7458a4d0a3d626b1139ea3a563db8d5386f9961
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:29:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ÁREA de Refúgio
 - CAÇA
 - Conselho Cinegético
 - Definição de Competências
 - Direcção Geral das Florestas
+- Guarda Florestal
 - Habilitações Literárias
 - Instituto da Conservação da Natureza
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
-- Guarda Florestal
-- ÁREA de Refúgio
 - ZONA de CAÇA
 - ZONA de CAÇA Municipal
 relationships:
@@ -82,6 +82,13 @@ relationships:
   target: pt:dre:649906:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:481498:por
+  label: "Repristinado o art. 69º do Dec Lei 227-B/2000, na redacção que lhe foi conferida pelo presente diploma, mantido\
+    \ em vigor o disposto no supracitado artigo, até à publicação da portaria referida no artº 73º do DEC LEI.201/2005.24.11.2005.MADRP,\
+    \ DR.IS-A [226] de 24.11.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-2005-481498
+  date: '2005-11-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -122,16 +129,74 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/393
   label: null
   source: http://data.dre.pt/eli/port/393
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661769:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:480704:por
+  label: "Revogado pelo Dec Lei 202/2004 de 18-Ago, DR.IS-A [194], mantido contudo transitoriamente em vigor até à publicação\
+    \ da legislação prevista no referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2004-480704
+  date: '2004-08-18'
 article_structure:
-  article_count: 199
+  article_count: 173
   section_count: 34
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:29:03Z'
   warnings: []
   errors: []
 ---
@@ -212,7 +277,9 @@ z) ...
 
 aa) Jornada de caça - exercício do acto venatório de um caçador por um dia de caça.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -222,7 +289,9 @@ aa) Jornada de caça - exercício do acto venatório de um caçador por um dia d
 
 4 - Os prazos e termos do procedimento para a constituição de zonas de caça são regulados por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 ...
 
@@ -250,7 +319,9 @@ i) ...
 
 j) Cumprir os planos de gestão, assim como os planos anuais de exploração.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -262,7 +333,9 @@ j) Cumprir os planos de gestão, assim como os planos anuais de exploração.
 
 5 - Nas ZCN a suspensão e revogação é determinada por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que estabelece ainda, no caso da suspensão, o prazo para a supressão da falta que a determinou.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -286,7 +359,9 @@ v) ...
 
 vi) ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -296,7 +371,9 @@ vi) ...
 
 4 - Nas ZCM a suspensão e revogação é determinada por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que estabelece ainda, no caso da suspensão, o prazo para a supressão da falta que a determinou.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - Constitui ainda obrigação dos concessionários de zonas de caça apresentar na respectiva direcção regional de agricultura e no ICN quando as zonas de caça se situarem em áreas classificadas, em impresso da Direcção-Geral das Florestas, em cada época venatória, proposta de plano anual de exploração, a qual deve conter, nomeadamente:
 
@@ -312,7 +389,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -332,7 +411,9 @@ d) ...
 
 9 - ...
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - ...
 
@@ -342,7 +423,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -352,7 +435,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - ...
 
@@ -382,7 +467,9 @@ l) Os terrenos situados entre o nível de água das albufeira e o nível de plen
 
 3 - ...
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - ...
 
@@ -392,7 +479,9 @@ l) Os terrenos situados entre o nível de água das albufeira e o nível de plen
 
 4 - Sempre que os interessados tenham sido titulares de carta de caçador portuguesa ou tenham sido condenados por crime de caça, o exame a que se refere o número anterior deve ter ocorrido em data posterior à da caducidade da carta ou da condenação.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - ...
 
@@ -410,7 +499,9 @@ l) Os terrenos situados entre o nível de água das albufeira e o nível de plen
 
 8 - Por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, pode ser dispensada a licença especial de caça maior aos caçadores residentes na freguesia ou freguesias onde se situa a área a bater ou a montear aos javalis.
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 1 - ...
 
@@ -420,7 +511,9 @@ b) ...
 
 2 - A jornada de caça aos pombos, tordos e estorninho-malhado, bem como a detenção de exemplares destas espécies no exercício da caça, se é permitida entre o nascer do Sol e as 16 horas, exceptuando-se para os tordos nos locais de passagem a definir por edital das direcções regionais de agricultura respectivas, cujo término ocorrerá com o pôr do Sol.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - ...
 
@@ -428,7 +521,9 @@ b) ...
 
 3 - Em terrenos cinegéticos não ordenados, nos meses de Agosto, Setembro e Janeiro, a caça a estas espécies só é permitida de espera e de cetraria e apenas nos locais e nas condições estabelecidas por edital da Direcção-Geral das Florestas.
 
-###### Artigo 96.º — [...]
+Artigo 96.º
+
+[...]
 
 1 - ...
 
@@ -436,7 +531,9 @@ b) ...
 
 3 - Em terrenos cinegéticos não ordenados, nos meses de Janeiro e Fevereiro, a caça a esta espécie só é permitida nos locais e nas condições estabelecidas por edital da Direcção-Geral das Florestas.
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - ...
 
@@ -446,7 +543,9 @@ b) ...
 
 4 - É proibido o exercício da caça a esta espécie a menos de 100 m de linhas e de pontos de água acessíveis à fauna e de locais artificiais de alimentação, exceptuando-se nos locais e nas condições a definir por edital das direcções regionais de agricultura respectivas e edital conjunto com o Instituto da Conservação da Natureza, sempre que abranjam territorialmente áreas classificadas.
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - ...
 
@@ -458,7 +557,9 @@ b) ...
 
 5 - Nos meses de Agosto e Setembro é proibido o exercício da caça a estas espécies a menos de 100 m de linhas e de pontos de água acessíveis à fauna e de locais artificiais de alimentação, exceptuando-se nos locais e nas condições a definir por edital das direcções regionais de agricultura respectivas e edital conjunto com o Instituto da Conservação da Natureza, sempre que abranjam territorialmente áreas classificadas.
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - ...
 
@@ -468,7 +569,9 @@ b) ...
 
 4 - O edital das direcção regionais de agricultura a que se refere o n.º 2 do artigo 84.º é em conjunto com o Instituto da Conservação da Natureza, sempre que abranjam territorialmente áreas classificadas.
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - ...
 
@@ -480,7 +583,9 @@ b) De batida e de montaria, nos meses de Outubro a Fevereiro, nos locais e nas c
 
 3 - ...
 
-###### Artigo 113.º — [...]
+Artigo 113.º
+
+[...]
 
 1 - ...
 
@@ -492,7 +597,9 @@ b) De batida e de montaria, nos meses de Outubro a Fevereiro, nos locais e nas c
 
 5 - Os planos referidos nos n.os 3 e 4 do artigo 7.º são elaborados pela Direcção-Geral das Florestas, em colaboração com o Instituto da Conservação da Natureza.
 
-###### Artigo 114.º — [...]
+Artigo 114.º
+
+[...]
 
 1 - ...
 
@@ -502,17 +609,23 @@ b) De batida e de montaria, nos meses de Outubro a Fevereiro, nos locais e nas c
 
 4 - As direcções regionais de agricultura devem comunicar ao Instituto da Conservação da Natureza as informações que lhe forem prestadas nos termos do disposto nas alíneas f) e h) do artigo 19.º, na alínea g) do n.º 1 do artigo 38.º e no n.º 1 do artigo 40.º
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 1 - ...
 
 2 - As áreas de refúgio de caça são criadas por portaria conjunta dos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território e os editais a que se refere o n.º 4 do artigo 50.º carecem de parecer favorável do Instituto da Conservação da Natureza.
 
-###### Artigo 119.º — [...]
+Artigo 119.º
+
+[...]
 
 O prazo para emissão dos pareceres a que se referem os artigos anteriores é de 20 dias após a recepção dos mesmos, findo o qual se presume serem favoráveis, à excepção do parecer previsto no n.º 1 do artigo 118.º cujo prazo é de 10 dias.
 
-###### Artigo 128.º — [...]
+Artigo 128.º
+
+[...]
 
 1 - ...
 
@@ -598,7 +711,9 @@ nn) ...
 
 o) ...
 
-###### Artigo 155.º — [...]
+Artigo 155.º
+
+[...]
 
 a) ...
 
@@ -616,7 +731,9 @@ g) ...
 
 h) ...
 
-###### Artigo 166.º — [...]
+Artigo 166.º
+
+[...]
 
 ...
 
@@ -638,15 +755,15 @@ O [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-
 
 Visto e aprovado em Conselho de Ministros de 4 de Outubro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Rui Eduardo Ferreira Rodrigues Pena - Henrique Nuno Pires Severiano Teixeira - António Luís Santos Costa - Eduardo Guimarães de Oliveira Fernandes - Luís Manuel Capoulas Santos - António Fernando Correia de Campos - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 12 de Dezembro de 2001.**
+Promulgado em 12 de Dezembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Dezembro de 2001.**
+Referendado em 13 de Dezembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644)
 
@@ -894,7 +1011,7 @@ d) Os demais caçadores.
 
 ###### Artigo 18.º — Decisão final
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas pode:**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas pode:
 
 a) Conceder a respectiva transferência;
 

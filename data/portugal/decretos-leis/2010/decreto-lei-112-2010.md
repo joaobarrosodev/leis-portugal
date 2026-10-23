@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/112/2010/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2010-307850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:11:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f365d776a5c7f1592b62461ed766a305f2833a8f08273850eeaa911ad77f56dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b4231c492ec2db122766ccffe1bf715212da3abd710cac4481643c385a46e45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:11:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
+- Comércio
+- Medicamento Veterinário
+- Produto Químico
 - Proteção dos Animais
-- Saúde Pública
 - Proteção Fitossanitária
 - Regime Jurídico
-- Medicamento Veterinário
-- Comércio
 - Saúde Animal
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:114177787:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:277589:por
+  label: "Alterado o anexo I do Dec Lei 121/2002 de 03-Maio, na redacção e republicado pelo presente diploma, pelo DEC LEI.47/2011.31.03.2011.MS,\
+    \ DR.IS [64] de 31.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-2011-277589
+  date: '2011-03-31'
+- type: amended_by
+  target: pt:dre:179514:por
+  label: "Alterado e republicado o anexo I do Dec Lei 121/2002, de 03-maio, na redação do presente diploma, pelo DEC LEI.154/2012.16.07.2012.MS,\
+    \ DR.IS [136] de 16.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2012-179514
+  date: '2012-07-16'
+- type: amended_by
+  target: pt:dre:259897:por
+  label: "Alterado o anexo I do Dec Lei 121/2002 de 03-mai, com as alterações constantes do presente diploma - retificado\
+    \ pela Decl-Rect 37/2010 de 17-dez, pelo DEC LEI.40/2013.18.03.2013.MS, DR.IS [54] de 18.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2013-259897
+  date: '2013-03-18'
+- type: amended_by
+  target: pt:dre:497401:por
+  label: "Altera, com efeitos a partir de 01.02.2015, o anexo I do Dec Lei 121/2002 de 03-mai, com as alterações introduzidas\
+    \ pelo presente diploma, pelo DEC LEI.85/2013.26.06.2013.MS, DR.IS [121] de 26.06.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-2013-497401
+  date: '2013-06-26'
+- type: amended_by
+  target: pt:dre:571026:por
+  label: "Alterado, com produção de efeitos nos termos do art. 4.º, o anexo I do Dec Lei 121/2002, de 03-maio, na redação\
+    \ do presente diploma, pelo DEC LEI.9/2014.20.01.2014.MS, DR.IS [13] de 20.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2014-571026
+  date: '2014-01-20'
 - type: cites
   target: celex:31998L0008
   label: null
@@ -130,16 +160,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/121/2002/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/121/2002/05/03/p/dre
+- type: corrected_by
+  target: pt:dre:306433:por
+  label: "Rectificado o 3º parágrafo do preâmbulo bem como o anexo II (que constitui a republicação do Dec Lei 121/2002, de\
+    \ 3 de Maio), pela DECL-RECT.37/2010.17.12.2010.PCM, DR.IS [243] de 17.12.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/37-2010-306433
+  date: '2010-12-17'
+- type: repealed_by
+  target: pt:dre:114177787:por
+  label: Revogado, a partir de 01.01.2018, o Dec Lei 121/2002 de 13-mai, na redação do presente diploma, mantendo-se contudo
+    transitoriamente em vigor o seu art. 38.º pelo(a) Decreto-Lei n.º 140/2017 - Diário da República n.º 217/2017, Série I
+    de 2017-11-10 nos termos do n.º 1 do seu art. 20.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2017-114177787
+  date: '2017-11-10'
 article_structure:
   article_count: 45
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:11:53Z'
   warnings: []
   errors: []
 ---
@@ -268,19 +311,19 @@ c) A partir de 1 de Fevereiro de 2012, para as substâncias activas fosforeto de
 
 Visto e aprovado em Conselho de Ministros de 24 de Junho de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Medina Maciel Almeida Correia - António Manuel Soares Serrano - Fernanda Maria Rosa do Carmo Julião - Maria Helena dos Santos André - Manuel Francisco Pizarro Sampaio e Castro.
 
-**Promulgado em 15 de Setembro de 2010.**
+Promulgado em 15 de Setembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de Setembro de 2010.**
+Referendado em 17 de Setembro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20400/0460404671.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20400/0460404671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20400/0460404671.pdf)
 
 ## ANEXO II — (a que se refere o artigo 5.º)
 
@@ -1176,4 +1219,4 @@ Sem prejuízo do disposto no artigo anterior, ficam revogados a Portaria n.º 17
 
 ## ANEXO I — Lista de substâncias activas e seus requisitos decididos a nível comunitário para inclusão em produtos biocidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20400/0460404671.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20400/0460404671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20400/0460404671.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/04/08900/05320537.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/277-1974-411862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:23:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f781dfec0277d41f6cc5360d4d9c164a4b9f5e7eca85546ae61a9722b3232e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31fa379d459b50e61facb15a65e47285c79d02bfa2a3ba57934c89205bd88765
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:23:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,49 @@ relationships:
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:272665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogada pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:23:32Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +130,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Aeronáu
 
 1.º Os artigos 9.º, 11.º, 16.º, 38.º, 39.º, 48.º, 51.º, 60.º, 66.º, 73.º, 76.º, 77.º, 92.º, 119.º, 126.º, 146.º, 158.º, 160.º, 173.º, 175.º, 176.º, 190.º e 207.º do Estatuto do Oficial da Força Aérea passam a ter as redacções seguintes:
 
-###### Art. 9.º - 1. ...
+Art. 9.º - 1. ...
 
 2. ...
 
@@ -113,11 +146,11 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Aeronáu
 
 ...
 
-###### Art. 11.º Na Força Aérea os oficiais distribuem-se pelos seguintes quadros, onde são inscritos por ordem decrescente dos postos indicados e, dentro de cada posto, por ordem decrescente de antiguidade:
+Art. 11.º Na Força Aérea os oficiais distribuem-se pelos seguintes quadros, onde são inscritos por ordem decrescente dos postos indicados e, dentro de cada posto, por ordem decrescente de antiguidade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/08900/05320537.pdf))](https://files.diariodarepublica.pt/1s/1974/04/08900/05320537.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/08900/05320537.pdf)
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 a) ...
 
@@ -135,7 +168,7 @@ b) Mediante vacatura:
 
 3) ...
 
-###### Art. 38.º - 1. O ingresso no quadro de pilotos faz-se no posto de alferes por promoção de sargentos-ajudantes pilotos que estejam habilitados com o respectivo curso de formação e satisfaçam os restantes requisitos constantes de legislação especial.
+Art. 38.º - 1. O ingresso no quadro de pilotos faz-se no posto de alferes por promoção de sargentos-ajudantes pilotos que estejam habilitados com o respectivo curso de formação e satisfaçam os restantes requisitos constantes de legislação especial.
 
 2. O ingresso no quadro de pilotos faz-se também no posto de alferes por promoção de oficiais milicianos pilotos e sargentos milicianos pilotos que estejam habilitados com o respectivo curso de formação e satisfaçam os restantes requisitos constantes de legislação especial.
 
@@ -143,7 +176,7 @@ b) Mediante vacatura:
 
 4. A ordenação na escala dos alferes mencionados no número anterior com antiguidade referida à mesma data é feita por cursos de formação e, dentro de cada curso, pelas classificações nele obtidas.
 
-###### Art. 39.º - 1. O ingresso no quadro de navegadores faz-se no posto de alferes por promoção de sargentos-ajudantes pilotos que estejam habilitados com o respectivo curso de formação e satisfaçam os restantes requisitos constantes de legislação especial.
+Art. 39.º - 1. O ingresso no quadro de navegadores faz-se no posto de alferes por promoção de sargentos-ajudantes pilotos que estejam habilitados com o respectivo curso de formação e satisfaçam os restantes requisitos constantes de legislação especial.
 
 2. O ingresso no quadro de navegadores faz-se também no posto de alferes por promoção de oficiais milicianos navegadores, oficiais milicianos pilotos e sargentos milicianos pilotos que estejam habilitados com o respectivo curso de formação e satisfaçam os restantes requisitos constantes de legislação especial.
 
@@ -153,7 +186,7 @@ b) Mediante vacatura:
 
 ...
 
-###### Art. 48.º - 1. ...
+Art. 48.º - 1. ...
 
 a) Depois de terem prestado um mínimo de oito anos de serviço efectivo na Força Aérea como oficiais daqueles quadros, assim o requeiram e a tanto estejam autorizados;
 
@@ -169,7 +202,7 @@ d) ...
 
 ...
 
-###### Art. 51.º - 1. ...
+Art. 51.º - 1. ...
 
 a) ...
 
@@ -235,7 +268,7 @@ h) ...
 
 ...
 
-###### Art. 60.º - 1. ...
+Art. 60.º - 1. ...
 
 2. ...
 
@@ -275,7 +308,7 @@ n) Abrangidos pelo n.º 1 do artigo 69.º da [Lei n.º 2135](https://diariodarep
 
 ...
 
-###### Art. 66.º ...
+Art. 66.º ...
 
 a) ...
 
@@ -319,7 +352,7 @@ b) ...
 
 ...
 
-###### Art. 73.º - 1. ...
+Art. 73.º - 1. ...
 
 a) Tendo prestado 15 ou mais anos de serviço, atinjam 70 anos de idade;
 
@@ -339,7 +372,7 @@ d) Reúnam as condições estabelecidas na lei para a reforma extraordinária.
 
 ...
 
-###### Art. 76.º - 1. ...
+Art. 76.º - 1. ...
 
 a) ...
 
@@ -371,13 +404,13 @@ b) ...
 
 c) ...
 
-###### Art. 77.º - 1. Conta-se como tempo de serviço efectivo o referido no artigo anterior, com exclusão, para o oficial no activo, do respeitante a comissão especial e, para o oficial na reserva ou na reforma, do relativo ao desempenho de funções que, quando exercidas por oficiais no activo, correspondam a comissão especial.
+Art. 77.º - 1. Conta-se como tempo de serviço efectivo o referido no artigo anterior, com exclusão, para o oficial no activo, do respeitante a comissão especial e, para o oficial na reserva ou na reforma, do relativo ao desempenho de funções que, quando exercidas por oficiais no activo, correspondam a comissão especial.
 
 2. O tempo de serviço efectivo na Força Aérea é contado a partir do aumento dos militares à Força Aérea.
 
 ...
 
-###### Art. 92.º - 1. ...
+Art. 92.º - 1. ...
 
 2. São reguladas por legislação especial as condições em que os oficiais deficientes em consequência de acidentes ou doenças resultantes de serviço de campanha ou de manutenção da ordem pública ou ainda da prática de acto humanitário ou de dedicação à causa pública podem:
 
@@ -393,7 +426,7 @@ d) Manter-se em serviço efectivo ou ingressar nos quadros permanentes, sendo de
 
 ...
 
-###### Art. 119.º - 1. Para serem promovidos, os oficiais têm de satisfazer às condições de promoção fixadas neste Estatuto, tendo, porém, em conta as excepções nele previstas e os casos contemplados na legislação especial a que alude o n.º 2 do artigo 92.º
+Art. 119.º - 1. Para serem promovidos, os oficiais têm de satisfazer às condições de promoção fixadas neste Estatuto, tendo, porém, em conta as excepções nele previstas e os casos contemplados na legislação especial a que alude o n.º 2 do artigo 92.º
 
 2. ...
 
@@ -401,7 +434,7 @@ a) ...
 
 b) ...
 
-###### Art. 126.º - 1. ...
+Art. 126.º - 1. ...
 
 a) Capitão, após três anos de permanência no posto de tenente, nos quadros de pilotos aviadores, engenheiros, médicos e de intendência e contabilidade;
 
@@ -415,7 +448,7 @@ c) Tenente, após um ano de permanência no posto de alferes.
 
 ...
 
-###### Art. 146.º - 1. Os oficiais não podem ser promovidos aos postos adiante indicados sem os seguintes tempos mínimos de serviço, contados a partir da promoção a tenente:
+Art. 146.º - 1. Os oficiais não podem ser promovidos aos postos adiante indicados sem os seguintes tempos mínimos de serviço, contados a partir da promoção a tenente:
 
 Capitão - três anos, excepto para os quadros de pilotos e de navegadores, em que o tempo mínimo é de cinco anos.
 
@@ -435,7 +468,7 @@ General - dezoito anos.
 
 ...
 
-###### Art. 158.º As condições especiais de promoção no quadro de pilotos são:
+Art. 158.º As condições especiais de promoção no quadro de pilotos são:
 
 a) Para a promoção a tenente:
 
@@ -485,7 +518,7 @@ e) Para a promoção a coronel:
 
 ...
 
-###### Art. 160.º ...
+Art. 160.º ...
 
 a) ...
 
@@ -519,7 +552,7 @@ d) Para a promoção a tenente-coronel:
 
 ...
 
-###### Art. 173.º - 1. ...
+Art. 173.º - 1. ...
 
 a) ...
 
@@ -539,23 +572,23 @@ f) Noutros casos em que a lei expressamente o determine.
 
 ...
 
-###### Art. 175.º - 1. As graduações referidas nos artigos 173.º e 174.º conferem aos graduados, enquanto se mantiverem, todos os direitos e impõem-lhes todos os deveres próprios do posto atribuído, nomeadamente no que respeita a continências e honras militares, distintivos e insígnias, vencimentos e contagem do tempo de serviço.
+Art. 175.º - 1. As graduações referidas nos artigos 173.º e 174.º conferem aos graduados, enquanto se mantiverem, todos os direitos e impõem-lhes todos os deveres próprios do posto atribuído, nomeadamente no que respeita a continências e honras militares, distintivos e insígnias, vencimentos e contagem do tempo de serviço.
 
 2. A graduação cessa logo que o oficial seja promovido ao posto em que se encontra graduado ou seja exonerado das funções que motivaram a graduação.
 
-###### Art. 176.º - 1. Os oficiais dos quadros permanentes na situação de reforma extraordinária em consequência de acidentes ou doenças resultantes de serviço de campanha ou de manutenção da ordem pública ou ainda da prática de acto humanitário ou de dedicação à causa pública são graduados, a título permanente, de harmonia com preceitos constantes de diploma especial.
+Art. 176.º - 1. Os oficiais dos quadros permanentes na situação de reforma extraordinária em consequência de acidentes ou doenças resultantes de serviço de campanha ou de manutenção da ordem pública ou ainda da prática de acto humanitário ou de dedicação à causa pública são graduados, a título permanente, de harmonia com preceitos constantes de diploma especial.
 
 2. A atribuição dessa graduação não confere aos oficiais direito a qualquer alteração na pensão de reforma calculada e estabelecida na data da mudança de situação.
 
 ...
 
-###### Art. 190.º - 1. Designa-se por licença da junta a licença concedida em consequência de parecer da junta de saúde para tratamento ou recuperação, por períodos não superiores a noventa dias.
+Art. 190.º - 1. Designa-se por licença da junta a licença concedida em consequência de parecer da junta de saúde para tratamento ou recuperação, por períodos não superiores a noventa dias.
 
 2. Esta licença é concedida pelas entidades e nas condições expressas no Regulamento das Juntas Médicas da Força Aérea.
 
 ...
 
-###### Art. 207.º - 1. Para efeito de cálculo de pensões de reforma contar-se-á o tempo de serviço referido no artigo 76.º, mediante o pagamento do que for devido à Caixa Geral de Aposentações.
+Art. 207.º - 1. Para efeito de cálculo de pensões de reforma contar-se-á o tempo de serviço referido no artigo 76.º, mediante o pagamento do que for devido à Caixa Geral de Aposentações.
 
 2. Em referência do disposto na alínea a) do n.º 2 do artigo 76.º, consideram-se todos os cursos da Escola Naval, da Academia Militar e extintas escolas suas antecessoras que não tenham sido objecto de aplicação daquele preceito, mediante indemnizações à Caixa Geral de Aposentações das quotas correspondentes aos vencimentos atribuídos aos alunos na data em que se verificou a frequência em regime de internato ou de externato.
 
@@ -563,7 +596,7 @@ f) Noutros casos em que a lei expressamente o determine.
 
 2.º É adicionado ao Estatuto do Oficial da Força Aérea o artigo seguinte:
 
-###### Art. 158.º-A. As condições especiais de promoção no quadro de navegadores são:
+Art. 158.º-A. As condições especiais de promoção no quadro de navegadores são:
 
 a) Para promoção a tenente:
 
@@ -609,6 +642,6 @@ Mapa n.º 1 (a que se refere o artigo 71.º)
 
 Limites de idade para passagem à situação de reserva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/08900/05320537.pdf))](https://files.diariodarepublica.pt/1s/1974/04/08900/05320537.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/08900/05320537.pdf)
 
-**O Secretário de Estado da Aeronáutica, Mário Tello Polleri.**
+O Secretário de Estado da Aeronáutica, Mário Tello Polleri.

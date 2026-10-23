@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/224/2003/09/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-2003-494052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62225d038939d4fb5a4900dc0d684d3b11f34c28a17a0313847f6515963fc8f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ceb6a71557cc139d2314691312e79fb6ef971925b74ea71f4b19fb1bb59a2aaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Indústria Automóvel
-- Mudança Tecnológica
+- Combustível
 - Direcção Geral de Viação
 - Documentação
-- Combustível
-- Homologação
-- Veículo
-- Proteção do Ambiente
 - Equipamento de Veículo
+- Homologação
+- Indústria Automóvel
+- Mudança Tecnológica
 - Poluição por Hidrocarbonetos
+- Proteção do Ambiente
 - Regulamento
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:281200:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:281200:por
+  label: "Alterados os arts. 182º, 186º-A e 194º e o nº 6.6 do anexo 24º do Regulamento aprovado pelo Dec Lei 202/2000 de\
+    \ 01-Set, com a redacção do presente diploma pelo DEC LEI.132/2004.03.06.2004.MAI, DR.IS-A [130] de 03.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-2004-281200
+  date: '2004-06-03'
 - type: cites
   target: celex:31970L0220
   label: null
@@ -97,15 +103,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2002/80/oj
 article_structure:
-  article_count: 32
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:21Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +166,9 @@ São alterados os artigos 1.º, 2.º, 3.º, 7.º, 12.º, 14.º, 21.º, 23.º, 33
 
 4 - O presente Regulamento também se aplica ao processo de homologação CE para catalisadores de substituição enquanto unidades técnicas destinadas a ser instaladas em veículos das categorias M(índice 1) e N(índice 1).
 
-###### Artigo 2.º — Definições
+Artigo 2.º
+
+Definições
 
 1 - ...
 
@@ -212,7 +220,9 @@ São alterados os artigos 1.º, 2.º, 3.º, 7.º, 12.º, 14.º, 21.º, 23.º, 33
 
 25 - 'Veículo bicombustível': um veículo que pode funcionar a tempo parcial com gasolina e, também a tempo parcial, com GPL ou com GN.
 
-###### Artigo 3.º — Pedido de homologação CE
+Artigo 3.º
+
+Pedido de homologação CE
 
 1 - ...
 
@@ -232,7 +242,9 @@ São alterados os artigos 1.º, 2.º, 3.º, 7.º, 12.º, 14.º, 21.º, 23.º, 33
 
 9 - ...
 
-###### Artigo 7.º — Tipos de ensaio
+Artigo 7.º
+
+Tipos de ensaio
 
 1 - ...
 
@@ -256,7 +268,9 @@ g) Sempre que aplicável, ensaio do OBD.
 
 4 - ...
 
-###### Artigo 12.º — Ensaio de tipo V
+Artigo 12.º
+
+Ensaio de tipo V
 
 1 - ...
 
@@ -292,7 +306,9 @@ c) ...
 
 12 - ...
 
-###### Artigo 14.º — Catalisadores de substituição e catalisadores de substituição originais
+Artigo 14.º
+
+Catalisadores de substituição e catalisadores de substituição originais
 
 1 - Os catalisadores de substituição destinados a equiparem veículos com homologação CE devem ser ensaiados de acordo com o referido no capítulo XI do presente Regulamento.
 
@@ -332,7 +348,9 @@ c) Número ou números de peça do catalisador de substituição original;
 
 d) Número de homologação do ou dos modelos de veículos pertinentes.
 
-###### Artigo 21.º — Conformidade dos veículos em circulação
+Artigo 21.º
+
+Conformidade dos veículos em circulação
 
 1 - ...
 
@@ -452,7 +470,9 @@ g) Resultados do ensaio de, pelo menos, três veículos diferentes por família.
 
 12 - Para efeitos do presente Regulamento, o fabricante não é obrigado a realizar uma auditoria da conformidade em circulação de um modelo de veículo, se puder demonstrar, de forma satisfatória para a Direcção-Geral de Viação, que as vendas anuais desse modelo, na Comunidade, são inferiores a 5000.
 
-###### Artigo 23.º — Diagnóstico a bordo OBD
+Artigo 23.º
+
+Diagnóstico a bordo OBD
 
 1 - ...
 
@@ -490,17 +510,23 @@ d) Pode realizar ensaios desse modelo de veículo de acordo com o referido anexo
 
 14 - ...
 
-###### Artigo 33.º — Combustível
+Artigo 33.º
+
+Combustível
 
 1 - Ao realizar o ensaio de um veículo em função dos valores limite das emissões, estabelecidos na linha A do quadro II constante do anexo 32.º, o combustível de referência adequado deve cumprir as especificações indicadas na secção A do anexo 29.º ou, no caso dos combustíveis gasosos de referência, no ponto A.1 ou no ponto B do anexo 30.º, todos do presente Regulamento.
 
 2 - Ao realizar o ensaio de um veículo em função dos valores limite das emissões, estabelecidos na linha B do quadro II referido no número anterior, o combustível de referência adequado deve cumprir as especificações indicadas na secção B do anexo 29.º ou, no caso dos combustíveis gasosos de referência, no ponto A.2 ou no ponto B do anexo 30.º, todos do presente Regulamento.
 
-###### Artigo 159.º — Combustível de ensaio
+Artigo 159.º
+
+Combustível de ensaio
 
 O combustível de ensaio deve satisfazer as especificações da secção C do anexo 29.º ao presente Regulamento.
 
-###### Artigo 175.º — Definições
+Artigo 175.º
+
+Definições
 
 Para efeitos do presente capítulo, entende-se por:
 
@@ -544,7 +570,9 @@ s) ...
 
 t) ...
 
-###### Artigo 183.º — Activação do indicador de anomalias
+Artigo 183.º
+
+Activação do indicador de anomalias
 
 1 - ...
 
@@ -558,7 +586,9 @@ t) ...
 
 6 - O IA deve permanecer activado enquanto o motor não arrancar ou rodar depois de a chave da ignição do veículo ter sido colocada na posição de ligado, devendo desactivar-se depois do arranque do motor, se, entretanto, não for detectada qualquer anomalia.
 
-###### Artigo 184.º — Armazenamento de códigos de anomalia
+Artigo 184.º
+
+Armazenamento de códigos de anomalia
 
 1 - O sistema OBD deve registar o ou os códigos de anomalia indicativos do estado do sistema de controlo das emissões, devendo ser utilizados códigos de estado diferentes para identificar os sistemas de controlo das emissões que funcionam correctamente e os sistemas de controlo das emissões cuja avaliação completa exige que o veículo continue a ser operado.
 
@@ -570,7 +600,9 @@ t) ...
 
 5 - ...
 
-###### Artigo 186.º-A — Requisitos relativos à homologação de sistemas de diagnóstico a bordo
+Artigo 186.º-A
+
+Requisitos relativos à homologação de sistemas de diagnóstico a bordo
 
 1 - ...
 
@@ -618,11 +650,15 @@ c) Selecção de um conjunto de sinais de diagnóstico, associado a um ou dois t
 
 16 - A Direcção-Geral de Viação deve notificar a sua decisão de aceitação do pedido a todas as autoridades dos outros Estados membros, de acordo com os requisitos constantes dos artigos 5.º ao 12.º do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio.
 
-###### Artigo 191.º — Âmbito de aplicação
+Artigo 191.º
+
+Âmbito de aplicação
 
 O presente capítulo aplica-se à homologação CE, enquanto unidades técnicas, de catalisadores a instalar em um ou mais modelos de automóveis das categorias M(índice 1) e M(índice 2) como peças de substituição, conforme definida na parte A do anexo II do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas.
 
-###### Artigo 192.º — Definições
+Artigo 192.º
+
+Definições
 
 Para efeitos do disposto no presente capítulo, entende-se por:
 
@@ -656,7 +692,9 @@ h) Protecção térmica.
 
 7) 'Catalisador de substituição deteriorado' um catalisador envelhecido ou que se encontra artificialmente deteriorado, de tal forma que satisfaça os requisitos constantes do n.º 1 do anexo 24.º ao presente Regulamento; para efeitos do teste de demonstração dos veículos equipados com motores de ignição comandada, quando o valor HC medido de acordo com o artigo 198.º for superior ao valor medido durante a homologação do veículo, a diferença tem de ser acrescentada aos valores limite mencionados no n.º 2 do artigo 179.º, aos quais se aplica o excesso permitido no n.º 1 do referido anexo 24.º
 
-###### Artigo 193.º — Pedido de homologação CE
+Artigo 193.º
+
+Pedido de homologação CE
 
 1 - ...
 
@@ -670,7 +708,9 @@ b) Uma amostra do tipo de catalisador de substituição, devendo essa amostra se
 
 c) Uma amostra adicional do tipo de catalisador de substituição, no caso de um catalisador de substituição destinado a ser instalado num veículo equipado com um sistema OBD, devendo essa amostra ser clara e indelevelmente marcada com a firma ou marca do requerente e a sua designação comercial; o catalisador deve ter sido deteriorado conforme definido no n.º 7 do artigo anterior.
 
-###### Artigo 195.º — Marcação de homologação CE
+Artigo 195.º
+
+Marcação de homologação CE
 
 1 - ...
 
@@ -712,11 +752,15 @@ c) Uma amostra adicional do tipo de catalisador de substituição, no caso de um
 
 5 - O anexo 28.º ao presente Regulamento apresenta exemplos de disposições da marca de homologação e dos dados de homologação acima referidos.
 
-###### Artigo 197.º — Requisitos relativos às emissões
+Artigo 197.º
+
+Requisitos relativos às emissões
 
 Os veículos indicados na alínea a) do n.º 3 do artigo 193.º, equipados com um catalisador de substituição do tipo cuja homologação se solicita, devem ser sujeitos a um ensaio do tipo I, nas condições descritas no capítulo correspondente do presente Regulamento, de modo a comparar o seu comportamento funcional com o do catalisador original de acordo com o procedimento a seguir descrito.
 
-###### Artigo 199.º — Ensaio do tipo I aos gases de escape com o catalisador de substituição
+Artigo 199.º
+
+Ensaio do tipo I aos gases de escape com o catalisador de substituição
 
 1 - O catalisador original dos veículos de ensaio é substituído pelo catalisador de substituição, nos termos da alínea b) do n.º 3 do artigo 193.º, que é sujeito a rodagem durante 12 ciclos extra-urbanos (parte 2 do ensaio do tipo I).
 
@@ -724,7 +768,9 @@ Os veículos indicados na alínea a) do n.º 3 do artigo 193.º, equipados com u
 
 3 - ...
 
-###### Artigo 200.º — Avaliação da emissão de poluentes dos veículos equipados com catalisadores de substituição
+Artigo 200.º
+
+Avaliação da emissão de poluentes dos veículos equipados com catalisadores de substituição
 
 1 - ...
 
@@ -744,7 +790,9 @@ G é o valor limite das emissões de um poluente ou a soma de dois poluentes (ev
 
 3 - Se se solicitar a homologação para diferentes modelos de veículos do mesmo fabricante, e desde que esses diferentes modelos de veículos estejam equipados com o mesmo tipo de catalisador original, o ensaio do tipo I pode ser limitado, no mínimo, a dois veículos seleccionados após acordo com o serviço técnico responsável pela homologação.
 
-###### Artigo 205.º — Prescrições particulares
+Artigo 205.º
+
+Prescrições particulares
 
 1 - As verificações referidas no n.º 2.2 do anexo X do Regulamento da Homologação CE de Modelo de Automóveis e Seus Reboques, Seus Sistemas, Componentes e Unidades Técnicas devem incluir a satisfação das características definidas no n.º 4 do artigo 192.º do presente Regulamento.
 
@@ -764,7 +812,9 @@ Modelo de veículo em que a velocidade do motor em marcha lenta sem carga é sup
 
 Em relação a um modelo de veículo em que a velocidade do motor em marcha lenta sem carga seja superior à velocidade do motor durante as operações 5, 12 e 24 do ciclo urbano elementar (parte 1), a embraiagem poderá ser desengatada durante a operação anterior.
 
-###### Artigo 186.º-B — Veículo bicombustível funcionando a gás
+Artigo 186.º-B
+
+Veículo bicombustível funcionando a gás
 
 1 - Para os veículos bicombustíveis funcionando a gás, os procedimentos devem ser os seguintes:
 
@@ -780,7 +830,9 @@ d) Apagamento de um código de anomalia - v. artigo 186.º do presente Regulamen
 
 3 - Sem prejuízo do presente requisito, o código de estado referido no artigo 184.º do presente Regulamento deve indicar a avaliação completa dos sistemas de controlo para ambos os tipos de combustível, a gasolina ou a gás, quando tiver sido efectuada a avaliação completa dos sistemas de controlo para um dos tipos de combustível.
 
-###### Artigo 186.º-C — Acesso às informações relativas ao OBD
+Artigo 186.º-C
+
+Acesso às informações relativas ao OBD
 
 1 - Os pedidos de homologação ou de alteração de uma homologação, em conformidade com o disposto no Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, devem ser acompanhados das informações pertinentes relativas ao sistema OBD do veículo.
 
@@ -800,7 +852,7 @@ c) A Direcção-Geral de Viação deve transmitir as referidas informações às
 
 6 - O pedido de informação deve identificar a especificação exacta do modelo relativamente ao qual a informação é solicitada, devendo confirmar que a informação é necessária para o desenvolvimento de peças de substituição ou de retromontagem, ferramentas de diagnóstico ou equipamentos de ensaio.
 
-###### Artigo 202.º-A
+Artigo 202.º-A
 
 Requisitos relativos à compatibilidade do OBD (aplicável a catalisadores de substituição destinados a ser instalados em veículos equipados com um sistema OBD).
 
@@ -816,7 +868,9 @@ Requisitos relativos à compatibilidade do OBD (aplicável a catalisadores de su
 
 6 - O IA não deve ser activado durante o funcionamento do veículo exigido pelo artigo 199.º do presente Regulamento.
 
-###### Artigo 202.º-B — Documentação
+Artigo 202.º-B
+
+Documentação
 
 1 - Todas as embalagens que contenham um catalisador de substituição novo devem ser acompanhadas pelas seguintes informações:
 
@@ -888,15 +942,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de Julho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - José Luís Mota de Campos - Carlos Manuel Tavares da Silva - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 1 de Setembro de 2003.**
+Promulgado em 1 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Setembro de 2003.**
+Referendado em 4 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (referente ao artigo 4.º)
 
@@ -1274,7 +1328,7 @@ A informação constante do presente número deve ser repetida no apêndice do c
 
 3.2.12.2.8.6.4 - As informações solicitadas neste número podem ser apresentadas, por exemplo, pelo preenchimento do quadro abaixo, que será apenso ao presente anexo:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
 
 3.2.15 - ...
 
@@ -1362,7 +1416,7 @@ A informação constante do presente número deve ser repetida no apêndice do c
 
 9.10.3.1 - ...
 
-## Apêndice
+Apêndice
 
 Informações sobre as condições de ensaio
 
@@ -1598,13 +1652,13 @@ Figura 1.8
 
 Verificação da conformidade em circulação - Procedimento e auditoria
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
 
 Figura 1.9
 
 Ensaio da conformidade em circulação - Selecção e ensaio dos veículos
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
 
 4 - O anexo 24.º do Regulamento das Homologações CE de Veículos, Sistemas e Unidades Técnicas Relativo às Emissões Poluentes passa a ter a seguinte redacção:
 
@@ -1816,7 +1870,7 @@ Número de homologação: ...
 
 Razão da extensão: ...
 
-#### SECÇÃO I
+SECÇÃO I
 
 0.1 - Marca (firma do fabricante): ...
 
@@ -1834,7 +1888,7 @@ Razão da extensão: ...
 
 0.8 - Morada(s) da(s) linha(s) de montagem: ...
 
-#### SECÇÃO II
+SECÇÃO II
 
 1 - Informações adicionais (se aplicável): ver adenda.
 
@@ -1900,13 +1954,13 @@ A - Especificações dos combustíveis de referência para o ensaio de veículos
 
 Modelo: Gasolina sem chumbo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
 
 2 - Características técnicas do combustível de referência a utilizar para o ensaio de veículos equipados com motor de ignição por compressão:
 
 Modelo: Combustível para motores diesel
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
 
 B - Especificações dos combustíveis de referência para o ensaio de veículos em função dos limites de emissões indicados na linha B do quadro referido no n.º 12 do artigo 8.º - Ensaio do tipo I
 
@@ -1914,19 +1968,19 @@ B - Especificações dos combustíveis de referência para o ensaio de veículos
 
 Modelo: Gasolina sem chumbo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
 
 2 - Características técnicas do combustível de referência a utilizar para o ensaio de veículos equipados com motor de ignição por compressão:
 
 Modelo: Combustível para motores diesel
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
 
 C - Especificações do combustível de referência a utilizar para o ensaio do tipo de veículos equipados com motor de ignição comandada a baixa temperatura - Ensaio do tipo VI
 
 Modelo: Gasolina sem chumbo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
 
 9 - O anexo 30.º do Regulamento das Homologações CE de Veículos, Sistemas e Unidades Técnicas Relativo às Emissões Poluentes passa a ter a seguinte redacção:
 
@@ -1938,15 +1992,15 @@ A - Características técnicas dos combustíveis GPL de referência
 
 1 - Dados técnicos do GPL de referência utilizado para o ensaio de veículos em função dos limites de emissões indicados na linha a do quadro II constante do anexo 32.º do presente regulamento - ensaio de tipo I:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
 
 2 - Dados técnicos do GPL de referência utilizado para o ensaio de veículos em função dos limites de emissões indicados na linha B do quadro II constante do anexo 32.º do presente Regulamento - ensaio de tipo I:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
 
 B - Características técnicas do GN de referência
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
 
 10 - O anexo 31.º do Regulamento das Homologações CE de Veículos, Sistemas e Unidades Técnicas Relativo às Emissões Poluentes passa a ter a seguinte redacção:
 
@@ -1976,7 +2030,7 @@ Número da homologação: ...
 
 Razão da extensão: ...
 
-#### SECÇÃO I
+SECÇÃO I
 
 0.1 - ...
 
@@ -1994,7 +2048,7 @@ Razão da extensão: ...
 
 0.8 - ...
 
-#### SECÇÃO II
+SECÇÃO II
 
 1 - ...
 
@@ -2014,11 +2068,11 @@ Razão da extensão: ...
 
 9 - ...
 
-## Apêndice
+Apêndice
 
 Adenda ao certificado de homologação CE n.º ... relativa à homologação de um veículo no que diz respeito à Directiva n.º [70/220/CEE](https://data.europa.eu/eli/dir/1970/220/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º ...
 
-# PARTE I
+PARTE I
 
 1 - ...
 
@@ -2050,7 +2104,7 @@ Adenda ao certificado de homologação CE n.º ... relativa à homologação de 
 
 1.8 - ...
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
 
 Tipo II: ...%.
 
@@ -2066,7 +2120,7 @@ Factores de deterioração DF: calculados, fixos (ver nota 1);
 
 Especificar os valores: ...
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
 
 1.8.1 - No caso dos veículos alimentados a GPL ou GN:
 
@@ -2104,7 +2158,7 @@ Especificar os valores: ...
 
 1.9 - Dados relativos às emissões necessários nos ensaios de utilização em estrada:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
 
 1.10 - Catalisadores:
 
@@ -2116,7 +2170,9 @@ Especificar os valores: ...
 
 1.10.2.1 - Marca(s) e tipo(s) do catalisador de substituição original, de acordo com o n.º 3.2.12.2.1 do anexo 1.º ao presente Regulamento (ficha de informações):...
 
-# PARTE II — Informações relativas ao OBD
+PARTE II
+
+Informações relativas ao OBD
 
 Conforme se indica no n.º 3.2.12.2.8.6 da ficha de informações, constante do anexo 1.º ao presente Regulamento, a informação constante infra é fornecida pelo construtor do veículo para permitir o fabrico de peças de substituição ou de acessórios compatíveis com o sistema OBD, bem como de ferramentas de diagnóstico e equipamentos de ensaio. O fabricante não será obrigado a fornecer essas informações se elas estiverem abrangidas por direitos de propriedade intelectual ou constituírem um saber fazer específico do fabricante ou do(s) fornecedor(es) de equipamento de origem.
 
@@ -2130,7 +2186,7 @@ O disposto seguidamente deve ser fornecido, mediante pedido e sem discriminaçã
 
 Essas informações poderão ser apresentadas num quadro, do seguinte modo:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
 
 (nota 1) Riscar o que não interessa.
 
@@ -2148,4 +2204,4 @@ QUADRO I
 
 Diferentes vias para a homologação de um veículo e suas extensões
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)](https://files.diariodarepublica.pt/1s/2003/09/221a00/61866209.pdf)

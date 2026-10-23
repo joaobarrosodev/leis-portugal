@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/09/18000/0544505445.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/88/2017/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/88-2017-108165162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T05:31:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8df13cbc97ed1da9af610c25943499bf89ca9eb3a58ff872f012f3a3b24b8b5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6850135bc4a10449499802ce98b2920f540382cae8439118a91c36f51b5c8c93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:31:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vice-chefe do Estado Maior do Exército
 - Exército
 - Nomeação
+- Vice-chefe do Estado Maior do Exército
 relationships:
 - type: amended_by
   target: pt:dre:117246226:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117246226:por
+  label: Confirmada a exoneração pelo(a) Decreto do Presidente da República n.º 89/2018 - Diário da República n.º 235/2018,
+    Série I de 2018-12-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/89-2018-117246226
+  date: '2018-12-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/1-a/2009/07/07/p/dre
   label: null
@@ -85,13 +91,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:31:27Z'
   warnings: []
   errors: []
 ---
@@ -100,12 +106,12 @@ validation:
 
 de 18 de setembro
 
-**O Presidente da República decreta, nos termos do n.º 5 do artigo 24.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/345291/details/normal?l=1), de 7 de julho, alterada e republicada pela [Lei Orgânica n.º 6/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56384929/details/normal?l=1), de 1 de setembro, o seguinte:**
+O Presidente da República decreta, nos termos do n.º 5 do artigo 24.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/345291/details/normal?l=1), de 7 de julho, alterada e republicada pela [Lei Orgânica n.º 6/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56384929/details/normal?l=1), de 1 de setembro, o seguinte:
 
 É confirmada a nomeação para o cargo de Vice-Chefe do Estado-Maior do Exército do Tenente-General Fernando Celso Vicente de Campos Serafino, efetuada por despacho do Ministro da Defesa Nacional de 11 de setembro de 2017, com efeitos a partir da data de tomada de posse.
 
-**Assinado em 12 de setembro de 2017.**
+Assinado em 12 de setembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.

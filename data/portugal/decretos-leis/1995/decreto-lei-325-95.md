@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/12/278a00/75107514.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/325/1995/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1995-626426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bc48a1bd0603cf37f15c766566fa70e51430bd40aeeea0996db598b0daf85ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b4127406df8cf69644d6c841800ce2ac8b96a9ffeac4ce82ad19e6645d438f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Imóveis
-- Crime
 - BEM Móvel
-- Jogos de Fortuna e Azar
-- Multa
-- Contra-ordenação
 - Branqueamento de Capitais
-- Inspecção Geral das Actividades Económicas
-- Lei de Imprensa
-- Mediação de Imóveis
-- Terrorismo
-- Sanção Penal
-- Direito Penal
-- Lotaria Nacional
-- Responsabilidade Criminal
-- Instituição Financeira
 - Comércio
+- Contra-ordenação
+- Crime
+- Direito Penal
+- Inspecção Geral das Actividades Económicas
+- Instituição Financeira
+- Jogos de Fortuna e Azar
+- Lei de Imprensa
+- Lotaria Nacional
+- Mediação de Imóveis
+- Multa
+- Responsabilidade Criminal
+- Sanção Penal
+- Terrorismo
 - Venda de Imóveis
 - ZONA de JOGO
 relationships:
@@ -90,20 +90,54 @@ relationships:
   target: pt:dre:210422:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:566854:por
+  label: "Alterado o art. 2º pela LEI.65/98.1998.09.02.AR, DR.IS-A [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/65-1998-566854
+  date: '1998-09-02'
+- type: amended_by
+  target: pt:dre:540216:por
+  label: "Alterados os art.s. 4º, 5º, 7º, 8º, 12º e 13º, pelo DEC LEI.323/2001.2001.12.17.MJ DR.IS-A [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-2001-540216
+  date: '2001-12-17'
+- type: amended_by
+  target: pt:dre:273418:por
+  label: "Aditados novos arts. 8.º-A, 8.º-B, 8.º-C e 8.º-D e alterada a redacção dos arts. 2.º e 10.º do presente diploma,\
+    \ alterado pela Lei 65/98, de 02-Set, pelo Dec Lei 275-A/2000, de 09-Nov, pela Lei 104/2001, de 25-ago e pelo Dec Lei\
+    \ 323/2001, de 17-Dez, pela LEI.10/2002.2002.02.11.AR DR.IS-A [35]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-2002-273418
+  date: '2002-02-11'
 - type: cites
   target: celex:31991L0308
   label: null
   source: http://data.europa.eu/eli/dir/1991/308/oj
+- type: repealed_by
+  target: pt:dre:515637:por
+  label: "Revogado o art. 20º pela LEI.104/2001.2001.08.25.AR DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/104-2001-515637
+  date: '2001-08-25'
+- type: repealed_by
+  target: pt:dre:583017:por
+  label: "Revogado o art. 19º pela LEI.5/2002.2002.01.11.AR DR.IS-A [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/5-2002-583017
+  date: '2002-01-11'
+- type: repealed_by
+  target: pt:dre:210422:por
+  label: "Revogado o presente diploma, alterado pela Lei 65/98, de 02-Set, pela Lei 104/2001, de 25-Ago, pelo Dec Lei 323/2001,\
+    \ de 17-Dez, pela Lei 5/2002, de 11-Jan e pela Lei 10/2002, de 11-Fev, pela LEI.11/2004.27.03.2004.AR, DR.IS-A [74] de\
+    \ 27.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/11-2004-210422
+  date: '2004-03-27'
 article_structure:
   article_count: 21
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:21Z'
   warnings: []
   errors: []
 ---
@@ -376,12 +410,12 @@ Para efeitos de inquérito, instrução e julgamento das infracções previstas 
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel Cardoso Borges Soeiro - José Bernardo Veloso Falcão e Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 13 de Outubro de 1995.**
+Promulgado em 13 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Outubro de 1995.**
+Referendado em 16 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

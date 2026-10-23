@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15300/0550505507.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/152/2015/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2015-69968709
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 425ee4cd8dc81211e53e8255088030bc2ae80753599a8ad51f136fcbbd6b6aed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a15e93827608fbfd0a78271e3cdccb964adcc5d186652ecb0774674955387161
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
 - Definição de Competências
-- Ministério das Finanças
-- Integração de Serviços
 - Direcção Geral de Protecção Social dos Trabalhadores em Funções Públicas
-- Orgânica
-- Quadro de Pessoal
+- Integração de Serviços
 - Ministério da Saúde
+- Ministério das Finanças
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:159432382:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:105726273:por
+  label: Alterado, com efeitos a 01.01.2017, o anexo I ao Dec Lei 124/2011 de 29-dez, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 7/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09 nos termos do seu art. 25.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2017-105726273
+  date: '2017-01-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/2015/01/06/p/dre
   label: null
@@ -120,16 +126,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/decre
   label: null
   source: http://data.dre.pt/eli/decre
+- type: cites
+  target: pt:dre:145186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56304800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56304801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66463205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968712:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:105726273:por
+  label: Revogado, com efeitos a 01.01.2017, o DR 44/2012 de 20-jun, na redação do presente diploma, pelo(a) Decreto-Lei n.º
+    7/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09 nos termos dos n.ºs 1 e 2 do seu art. 23.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2017-105726273
+  date: '2017-01-09'
 article_structure:
-  article_count: 10
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:17Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +232,9 @@ c) [...];
 
 d) Gerir o subsistema de saúde da Administração Pública.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 [...]:
 
@@ -208,7 +262,9 @@ Os artigos 5.º e 7.º do [Decreto Regulamentar n.º 44/2012](https://diariodare
 
 3 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -272,15 +328,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de junho de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 4 de agosto de 2015.**
+Promulgado em 4 de agosto de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de agosto de 2015.**
+Referendado em 5 de agosto de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -290,9 +346,11 @@ Visto e aprovado em Conselho de Ministros de 4 de junho de 2015. - Pedro Passos 
 
 Cargos de direção superior da administração direta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15300/0550505507.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15300/0550505507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15300/0550505507.pdf)
 
-## ANEXO II — (a que se refere o artigo 5.º)
+ANEXO II
+
+(a que se refere o artigo 5.º)
 
 «ANEXO I
 
@@ -300,4 +358,4 @@ Cargos de direção superior da administração direta
 
 Cargos de direção superior da administração direta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15300/0550505507.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15300/0550505507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15300/0550505507.pdf)

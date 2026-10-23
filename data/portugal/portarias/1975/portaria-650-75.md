@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/11/25800/17661767.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/650-1975-312578
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T04:51:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16c81ec2a2a4a4c00e6a830e09f853e31ab1cf044428be149ee268e6a957eb7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30248f91c73a0ba895667fbc5107384f02fefc373b7c632002e2e5553c270def
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:51:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alimentação
+- Consumidor
+- Farinha
+- Fixação de Preços
+- Preço de Venda
 relationships:
 - type: amended_by
   target: pt:dre:315548:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:158385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:315548:por
+  label: Revogada pelo(a) Portaria n.º 101-L/77 - Diário da República n.º 50/1977, 2º Suplemento, Série I de 1977-03-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-l-1977-315548
+  date: '1977-03-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:51:57Z'
   warnings: []
   errors: []
 ---

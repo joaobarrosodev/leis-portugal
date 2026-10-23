@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/00700/00980098.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/2-1987-599509
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T04:00:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75c2f62ccf461a74595a2741fac7397d80f67ec8634269b2b9225dbc78bc7ac5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7defde17bb38f2063292befd26ddfabc3207caedde20bf579222adb7412fb4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:00:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Perdão da Pena
+relationships:
+- type: amended_by
+  target: pt:dre:663358:por
+  label: "Declarado sem efeito pela DECL.DD1043.1987.01.12.PR DR.IS [19] DE 23/JAN/1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-663358
+  date: '1987-01-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:00:43Z'
   warnings: []
   errors: []
 ---
@@ -85,16 +91,16 @@ validation:
 
 de 9 de Janeiro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea e), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea e), da Constituição, o seguinte:
 
 A pena residual de prisão aplicada a Luís Gonzaga do Rego Sá Pereira, de 42 anos de idade, no processo n.º 155/84 da 1.ª Secção do 2.º Juízo do Tribunal Judicial de Ponta Delgada é reduzida, por indulto, em um ano de prisão.
 
-**Assinado em 22 de Dezembro de 1986.**
+Assinado em 22 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES. - Aníbal António Cavaco Silva.**
+O Presidente da República, MÁRIO SOARES. - Aníbal António Cavaco Silva.
 
-**Referendado em 23 de Dezembro de 1986.**
+Referendado em 23 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

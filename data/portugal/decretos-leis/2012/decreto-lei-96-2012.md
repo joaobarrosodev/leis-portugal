@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/96/2012/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2012-553002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7898455fecbd45d9f0040616570c3783fff52b280905d4d6856f7a41431139b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad40969d32acccb2504e51d8895a427708278cdb23b80f7ffc8d152493cc7ae4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Inspeção Geral de Finanças
-- Pessoal Dirigente
+- Conselho de Inspecção
 - Controlo Financeiro
 - Controlo Orçamental
 - Definição de Competências
-- Recrutamento de Pessoal
+- Inspeção Geral de Finanças
 - Inspecção Geral da Administração Pública
-- Conselho de Inspecção
 - Inspetor Geral
 - Integração de Trabalhadores
 - Orgânica
 - Pessoal de Inspecção
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Subinspector Geral
 - Transferência de Competências
 relationships:
@@ -85,6 +85,59 @@ relationships:
   target: pt:dre:864224972:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Determinada a transição para a Secretaria-Geral do Ministério das Finanças (cuja orgânica consta do DR 37/2012 de\
+    \ 10-abr) das atribuições nos domínios da gestão dos recursos humanos, financeiros e patrimoniais da Inspeção Geral de\
+    \ Finanças (IGF), constantes do presente diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:72909765:por
+  label: Determinado que a direção da Inspeção-Geral das Finanças seja exercida pelo Ministro das Finanças em coordenação
+    com o Ministro Adjunto, no âmbito do exercício da tutela inspetiva sobre as autarquias locais, as demais formas de organização
+    territorial autárquica e o sector empresarial local pelo(a) Decreto-Lei n.º 251-A/2015 - Diário da República n.º 246/2015,
+    1º Suplemento, Série I de 2015-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-2015-72909765
+  date: '2015-12-17'
+- type: amended_by
+  target: pt:dre:114177785:por
+  label: Determinado que a direção sobre a Inspeção-Geral das Finanças seja exercida pelo Ministro das Finanças, em coordenação
+    com o Ministro da Administração Interna, no âmbito do exercício da tutela inspetiva sobre as autarquias locais, as demais
+    formas de organização territorial autárquica e o setor empresarial local, pelo(a) Decreto-Lei n.º 138/2017 - Diário da
+    República n.º 217/2017, Série I de 2017-11-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-2017-114177785
+  date: '2017-11-10'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a direcção sobre a Inspeção-Geral de Finanças, com orgânica aprovada pelo
+    presente diploma, seja exercida pelo Ministro de Estado e das Finanças e em coordenação com a Ministra da Modernização
+    do Estado e da Administração Pública no âmbito do controlo e avaliação dos serviços públicos nas áreas de organização,
+    funcionamento, gestão e recursos humanos e no âmbito do exercício da tutela inspetiva sobre as autarquias locais, as demais
+    formas de organização territorial autárquica e o setor empresarial local, pelo(a) Decreto-Lei n.º 169-B/2019 - Diário
+    da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado com efeitos a 30.03.2022 que a direção sobre a Inspeção-Geral de Finanças, com orgânica aprovada pelo
+    presente diploma seja exercida pelo Ministro das Finanças e em coordenação com a Ministra da Presidência no âmbito do
+    controlo e avaliação dos serviços públicos nas áreas de organização, funcionamento, gestão e recursos humanos, e em coordenação
+    com a Ministra da Coesão Territorial no âmbito do exercício da tutela inspetiva sobre as autarquias locais, as demais
+    formas de organização territorial autárquica e o setor empresarial local pelo(a) Decreto-Lei n.º 32/2022 - Diário da República
+    n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pelo Ministro de Estado e das Finanças, em coordenação
+    com o Ministro da Presidência, relativamente ao controlo e avaliação da organização, funcionamento, gestão e recursos
+    humanos dos serviços públicos e estruturas, organismos e unidades da administração central e em coordenação com o Ministro
+    Adjunto e da Coesão Territorial, no âmbito do exercício da tutela inspetiva sobre as autarquias locais, as demais formas
+    de organização territorial autárquica e o setor empresarial local, a direção sobre a Inspeção-Geral de Finanças pelo(a)
+    Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117/2011/12/15/p/dre
   label: null
@@ -105,16 +158,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/2007/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/2007/03/29/p/dre
+- type: cites
+  target: pt:dre:145590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520464:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:16Z'
   warnings: []
   errors: []
 ---
@@ -331,18 +404,18 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de fevereiro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Fernando Cassola de Miranda Relvas - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 13 de abril de 2012.**
+Promulgado em 13 de abril de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de abril de 2012.**
+Referendado em 16 de abril de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 10.º)
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/08000/0226202265.pdf))](https://files.diariodarepublica.pt/1s/2012/04/08000/0226202265.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/08000/0226202265.pdf)

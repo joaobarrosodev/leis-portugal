@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/176/2004/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2004-507641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86dc3fe6a98c52234218117cb17866f723ef15be1f24367e0e71abe0a7fa5d57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88e411966aff516811acff97418ca16dfbad3a050c196a9d1927196f9d1ba641
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério das Finanças
-- Secretário de Estado da Administração Local
-- Ministério das Cidades Ordenamento do Território e Ambiente
 - Direcção Geral do Desenvolvimento Regional
+- Governo XV
+- Ministério das Cidades Ordenamento do Território e Ambiente
+- Ministério das Finanças
 - Orgânica
 - Secretário de Estado Adjunto e do Desenvolvimento Regional
+- Secretário de Estado da Administração Local
 - Secretário de Estado do Ambiente e Ordenamento do Território
-- Governo XV
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/119/2003/06/17/p/dre
@@ -91,16 +91,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/474-a/1999/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/474-a/1999/11/08/p/dre
+- type: cites
+  target: pt:dre:371035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692200:por
+  label: null
+  source: null
 article_structure:
-  article_count: 43
+  article_count: 42
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:32Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +159,7 @@ d) (Revogada.)
 
 5 - ...
 
-###### Artigo 25.º
+Artigo 25.º
 
 1 - ...
 
@@ -175,13 +195,13 @@ Em anexo ao presente diploma, do qual faz parte integrante, é republicado na í
 
 Visto e aprovado em Conselho de Ministros de 27 de Maio de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - Maria Teresa Pinto Basto Gouveia - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Nuno Albuquerque Morais Sarmento - Luís Manuel Gonçalves Marques Mendes - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - José David Gomes Justino - Maria da Graça Martins da Silva Carvalho - Pedro Manuel da Cruz Roseta - Luís Filipe Pereira - António José de Castro Bagão Félix - António Pedro de Nobre Carmona Rodrigues - Arlindo Marques da Cunha.
 
-**Promulgado em 12 de Julho de 2004.**
+Promulgado em 12 de Julho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Julho de 2004.**
+Referendado em 15 de Julho de 2004.
 
 Pelo Primeiro-Ministro, Maria Manuela Dias Ferreira Leite, Ministra de Estado e das Finanças.
 
@@ -281,7 +301,7 @@ d) Secretário de Estado da Juventude e Desportos.
 
 ###### Artigo 7.º
 
-**O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado e das Finanças ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição.**
+O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado e das Finanças ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição.
 
 ###### Artigo 8.º
 

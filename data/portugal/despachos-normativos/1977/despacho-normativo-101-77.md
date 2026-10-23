@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/101-1977-139188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:35:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4edad11f5dbd17125505049ee7cc8836dfa753fb23b074b8ac9832509e0b8537
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f5fc30b1a4bfccb3046b9723a66b905212662b7cc7c1ef15708990e050a5cc0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:35:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Classificação de Espectáculos
+- Presidente
+- Reestruturação de Serviços
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:255273:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:255273:por
+  label: Prorrogado por quatro meses o prazo concedido pela al. 1) do presente diploma pelo(a) Despacho Normativo n.º 168/77
+    - Diário da República n.º 186/1977, Série I de 1977-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/168-1977-255273
+  date: '1977-08-12'
+- type: cites
+  target: pt:dre:431005:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:35:28Z'
   warnings: []
   errors: []
 ---

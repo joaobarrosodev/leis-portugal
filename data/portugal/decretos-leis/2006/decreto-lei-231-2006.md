@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/231/2006/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2006-545061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75fc9ec808f6c88fc84883cc0afe4d0975774efda69bfa884ab340453e5d3dca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 828c4b4f4e8c32e88c7843fd9c4b2f1bdf5df19206ee6302fcdbaaeda53d1d1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração do Porto de Sines
-- Gestão de Resíduos
 - Concurso Público
 - Contrato de Concessão
+- Gestão de Resíduos
 - Organização Mundial do Comércio
 - Pessoa Coletiva
 - Pessoa Singular
@@ -84,13 +84,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:08Z'
   warnings: []
   errors: []
 ---
@@ -141,21 +141,23 @@ O contrato de concessão regula-se pelas bases publicadas em anexo ao presente d
 
 Visto e aprovado em Conselho de Ministros de 12 de Outubro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Mário Lino Soares Correia.
 
-**Promulgado em 8 de Novembro de 2006.**
+Promulgado em 8 de Novembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 10 de Novembro de 2006.**
+Referendado em 10 de Novembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Bases gerais da concessão do terminal de granéis líquidos do porto de Sines
 
 ### CAPÍTULO I — Concessão
 
-###### Base I — Objecto e âmbito da concessão
+Base I
+
+Objecto e âmbito da concessão
 
 1 - A concessão tem por objecto principal o direito de exploração comercial, em regime de serviço público, da actividade de movimentação de cargas líquidas ou liquefeitas no terminal de granéis líquidos (TGL), incluindo o respectivo estabelecimento.
 
@@ -165,17 +167,23 @@ Visto e aprovado em Conselho de Ministros de 12 de Outubro de 2006. - José Sóc
 
 4 - A outorga da concessão implica o exclusivo da exploração comercial na área concessionada, sem prejuízo, quando aplicável, da possibilidade de realização de operações de movimentação de cargas por parte de entidades estranhas à concessionária, nas áreas afectas à concessão, bem como de serem exercidas actividades e prestados serviços não compreendidos nos números precedentes e que estejam com eles conexos nos termos que venham a ser estabelecidos no contrato de concessão.
 
-###### Base II — Área afecta à concessão
+Base II
+
+Área afecta à concessão
 
 A área afecta à concessão é a que consta de planta anexa às presentes bases, explicitada como C12 - terminal de granéis líquidos.
 
-###### Base III — Plano geral da concessão
+Base III
+
+Plano geral da concessão
 
 Sem prejuízo das especificações do caderno de encargos, as propostas apresentadas pelos concorrentes podem conter o plano geral da concessão compreendendo todas as obras, instalações e bens de apetrechamento existentes e a implantar futuramente, um plano de funcionamento contendo o sistema de operações e as soluções técnicas que serão adoptadas para a sua exploração e um plano financeiro de investimentos e exploração.
 
 ### CAPÍTULO II — Estabelecimento e obras
 
-###### Base IV — Estabelecimento
+Base IV
+
+Estabelecimento
 
 1 - Compreendem-se no estabelecimento da concessão:
 
@@ -193,7 +201,9 @@ c) As obras e bens de apetrechamento que venham a ser realizados e implantados p
 
 5 - Os bens, instalações, equipamentos e sistemas industriais e de comunicações referidos na alínea a) do n.º 1 são adquiridos pela concessionária, constando a respectiva identificação de anexo ao caderno de encargos.
 
-###### Base V — Obras
+Base V
+
+Obras
 
 1 - São da responsabilidade da concessionária todas as obras de construção, reparação e conservação dos bens que integram o estabelecimento.
 
@@ -203,7 +213,9 @@ c) As obras e bens de apetrechamento que venham a ser realizados e implantados p
 
 4 - As licenças e a fiscalização acima referidas não dispensam as que, por lei, sejam da competência de outros serviços oficiais.
 
-###### Base VI — Conservação e renovação dos equipamentos
+Base VI
+
+Conservação e renovação dos equipamentos
 
 1 - A concessionária mantém, por sua conta e risco, em permanente estado de bom funcionamento, conservação e segurança, até ao termo da concessão, todos os bens, instalações, equipamentos e sistemas industriais e de comunicações, obrigando-se a substituí-los sempre que, por desgaste físico, avaria ou obsolescência, se mostrem inadequados aos fins a que se destinam.
 
@@ -213,7 +225,9 @@ c) As obras e bens de apetrechamento que venham a ser realizados e implantados p
 
 ### CAPÍTULO III — Exploração
 
-###### Base VII — Regime de exploração
+Base VII
+
+Regime de exploração
 
 1 - A exploração da concessão é levada a cabo pela concessionária, em regime de serviço público e em conformidade com os regulamentos aprovados e as disposições aplicáveis da lei e do contrato.
 
@@ -221,13 +235,17 @@ c) As obras e bens de apetrechamento que venham a ser realizados e implantados p
 
 3 - As instalações e os bens e equipamentos concessionados não podem, sem autorização da concedente, ser utilizados para fins diferentes dos previstos no contrato.
 
-###### Base VIII — Regulamento de exploração
+Base VIII
+
+Regulamento de exploração
 
 1 - A concessionária deve submeter à aprovação da concedente, dentro do prazo que esta indicar, ou o contrato estabelecer, a proposta de regulamento de exploração (RETGL) onde deve constar o conjunto de normas a observar na exploração da concessão, as quais compreenderão a generalidade dos procedimentos conexos com a realização das operações e a prestação dos serviços.
 
 2 - A concessionária deve garantir a observância e cumprimento de todas as normas estabelecidas pelos regulamentos do porto de Sines, nomeadamente pelo Regulamento de Exploração (REPS) e Normas Complementares, pelo Regulamento de Ambiente e Segurança (RASPS) e pelos Regulamentos de Exploração e Segurança do TGL.
 
-###### Base IX — Regulamento de tarifas
+Base IX
+
+Regulamento de tarifas
 
 1 - As tarifas máximas a praticar, dentro da área afecta à concessão, na realização das operações, fornecimentos, prestação de serviços e uso das instalações constarão do Regulamento de Tarifas (RTTGL), a aprovar pela concedente, nos termos contratualmente definidos, o qual entra em vigor nos termos e na data que esta indicar.
 
@@ -235,7 +253,9 @@ c) As obras e bens de apetrechamento que venham a ser realizados e implantados p
 
 3 - O Regulamento de Tarifas mencionado no n.º 1 é actualizado tendo por base a variação média dos últimos 12 meses, referenciada a Outubro do ano anterior, do Índice de Preços no Consumidor (IPC), sem habitação, publicado pelo INE, devendo também ter em consideração os valores de referência de tarifários praticados em portos estrangeiros, para além dos princípios enunciados no número anterior.
 
-###### Base X — Publicidade da informação relativa à exploração
+Base X
+
+Publicidade da informação relativa à exploração
 
 1 - A concessionária deve adoptar um sistema eficiente de tratamento e consulta de elementos informativos relativos à exploração, de modo a poder facultá-los à concedente, aos utentes e a quaisquer outras entidades a quem a lei atribua legitimidade para os solicitar.
 
@@ -243,7 +263,9 @@ c) As obras e bens de apetrechamento que venham a ser realizados e implantados p
 
 3 - Nos impressos utilizados pela concessionária, no âmbito da concessão, deve ser feita menção, de forma simplificada, às condições gerais de contratação e às normas regulamentares que interessam directamente aos utentes, em termos a aprovar pela concedente.
 
-###### Base XI — Pessoal da concessão
+Base XI
+
+Pessoal da concessão
 
 1 - Os trabalhadores utilizados na exploração da concessão devem estar vinculados à concessionária por contrato individual de trabalho.
 
@@ -253,7 +275,9 @@ c) As obras e bens de apetrechamento que venham a ser realizados e implantados p
 
 4 - Sem prejuízo do disposto no n.º 1, o contrato deve prever que os trabalhadores da concedente directamente afectos às actividades concessionadas sejam integrados nas equipas de trabalho da concessionária nos termos e condições que vierem a ser definidos no caderno de encargos e no contrato.
 
-###### Base XII — Segurança e ambiente
+Base XII
+
+Segurança e ambiente
 
 1 - A concessionária fica obrigada a adoptar medidas e a instalar equipamentos contra incêndios, bem como a introduzir os meios adequados à prevenção de acidentes pessoais, materiais e de poluição decorrentes da actividade exercida na área de concessão, devendo submeter à concedente, para aprovação, um regulamento de ambiente e segurança (RASTGL).
 
@@ -267,17 +291,23 @@ c) As obras e bens de apetrechamento que venham a ser realizados e implantados p
 
 ### CAPÍTULO IV — Vigência, modificação ou extinção do contrato
 
-###### Base XIII — Prazo da concessão
+Base XIII
+
+Prazo da concessão
 
 1 - O contrato de concessão é outorgado por prazo determinado, não superior a 30 anos, contado a partir da data da recepção do TGL.
 
 2 - Caso a lei venha a permitir prazos superiores, poderá o prazo ser prorrogado até ao limite aí estabelecido, se nisso acordarem a concedente e a concessionária.
 
-###### Base XIV — Modificação do contrato
+Base XIV
+
+Modificação do contrato
 
 A modificação do contrato determinada unilateralmente pela concedente implica, na medida em que afecte o equilíbrio económico-financeiro ou operacional da exploração, a revisão das condições da concessão.
 
-###### Base XV — Extinção da concessão
+Base XV
+
+Extinção da concessão
 
 1 - O contrato de concessão extingue-se no termo do respectivo prazo, revertendo para a concedente todos os bens que integram o estabelecimento da concessão, entrando, de imediato, na sua posse, revertendo de forma gratuita, livres de ónus ou encargos, em bom estado de conservação, funcionamento e segurança, não podendo a concessionária reclamar por esse facto indemnização nem invocar, a qualquer título, direito de retenção.
 
@@ -285,7 +315,9 @@ A modificação do contrato determinada unilateralmente pela concedente implica,
 
 3 - O contrato de concessão prevê obrigatoriamente os termos e modos pelos quais se procederá à reversão e entrega dos bens, à transferência para a concedente da titularidade de eventuais direitos detidos pela concessionária sobre terceiros e que se revelem necessários para a continuidade da prestação dos serviços concedidos e, em geral, à tomada de quaisquer outras medidas tendentes a evitar a interrupção da prestação do serviço público.
 
-###### Base XVI — Rescisão e caducidade
+Base XVI
+
+Rescisão e caducidade
 
 1 - Sem prejuízo de outros efeitos decorrentes da lei para situações de incumprimento contratual, a concedente pode dar por finda a concessão mediante rescisão do contrato, com fundamento na violação grave, por parte da concessionária, das obrigações essenciais da concessão, insanável ou não sanada.
 
@@ -313,7 +345,9 @@ f) A verificação de situações repetidas de indisciplina do pessoal ou dos ut
 
 7 - A rescisão e a caducidade do contrato implicam a reversão gratuita do estabelecimento para a concedente e a perda das cauções prestadas em garantia do bom e pontual cumprimento do contrato.
 
-###### Base XVII — Resgate da concessão
+Base XVII
+
+Resgate da concessão
 
 1 - A concedente pode resgatar a concessão quando motivos de interesse público o justifiquem, desde que decorrido metade do prazo contratual, mediante aviso comunicado à concessionária por carta registada com aviso de recepção com, pelo menos, um ano de antecedência.
 
@@ -321,7 +355,9 @@ f) A verificação de situações repetidas de indisciplina do pessoal ou dos ut
 
 3 - Aplica-se aos casos de resgate o disposto no n.º 3 da base XV.
 
-###### Base XVIII — Extinção do serviço
+Base XVIII
+
+Extinção do serviço
 
 1 - O Governo ou a concedente podem extinguir o serviço público concessionado, sob expressa invocação de interesse público, o qual deve ser fundamentado.
 
@@ -329,13 +365,17 @@ f) A verificação de situações repetidas de indisciplina do pessoal ou dos ut
 
 3 - Aplica-se ao caso previsto na presente base o disposto no contrato em cumprimento do n.º 3 da base XV.
 
-###### Base XIX — Guerra, estado de sítio ou emergência grave
+Base XIX
+
+Guerra, estado de sítio ou emergência grave
 
 1 - Em caso de guerra, estado de sítio ou emergência grave, pode a concedente assumir transitoriamente a exploração dos serviços da concessão, de harmonia com as normas aplicáveis a ocorrências dessa natureza e sem precedência de qualquer formalidade.
 
 2 - Enquanto tiver lugar a situação prevista no número anterior, suspende-se a contagem do prazo da concessão, ficando a concessionária exonerada do cumprimento das obrigações decorrentes do contrato de concessão.
 
-###### Base XX — Sequestro
+Base XX
+
+Sequestro
 
 1 - A concedente pode assumir a exploração dos serviços objecto da concessão se, por facto imputável à concessionária, estiver iminente a cessação da actividade ou ocorrer perturbação grave que ponha em causa a regularidade da exploração.
 
@@ -343,23 +383,31 @@ f) A verificação de situações repetidas de indisciplina do pessoal ou dos ut
 
 ### CAPÍTULO V — Obrigações especiais da concessionária
 
-###### Base XXI — Deliberações da concessionária
+Base XXI
+
+Deliberações da concessionária
 
 1 - Sem prejuízo de outras limitações que sejam especialmente previstas no contrato de concessão, ficam sujeitas à aprovação da concedente as deliberações da concessionária relativas à alteração do respectivo objecto social, à transformação, fusão ou dissolução da sociedade ou à redução do capital social, salvo tratando-se de sociedade cujo objecto não consista exclusivamente na prestação do serviço público concessionado, caso em que tais deliberações apenas dependem de aprovação da concedente se afectarem o centro de custos e proveitos respeitante à exploração do terminal.
 
 2 - Sem prejuízo das obrigações assumidas perante entidades financiadoras, previamente aprovadas ou aceites pela concedente, a concessionária não pode, sem prévia e expressa autorização daquela, alienar, hipotecar ou alterar, no todo ou em parte, as instalações, os equipamentos, o objecto ou os fins da concessão.
 
-###### Base XXII — Contabilidade separada
+Base XXII
+
+Contabilidade separada
 
 Para efeitos do estabelecido nas presentes bases, a sociedade titular da concessão procede à elaboração de contabilidade separada para o conjunto dos bens e serviços que explora na área da concessão definida nas bases II e IV, quando tal sociedade não tenha como objecto exclusivo a exploração do estabelecimento da concessão.
 
-###### Base XXIII — Elementos estatísticos
+Base XXIII
+
+Elementos estatísticos
 
 1 - A concessionária obriga-se a fornecer à concedente os elementos estatísticos referentes ao movimento havido no TGL, bem como os elementos contabilísticos que traduzam o resultado da exploração, no prazo e condições fixados no contrato de concessão.
 
 2 - Os elementos estatísticos e contabilísticos a fornecer devem ser adequados à verificação e validação dos parâmetros necessários ao cálculo da(s) taxa(s) variável(eis), ao apuramento das mercadorias movimentadas e à determinação dos indicadores de desempenho.
 
-###### Base XXIV — Taxas a pagar pela concessionária
+Base XXIV
+
+Taxas a pagar pela concessionária
 
 1 - Pela utilização dos bens dominiais, instalações, equipamentos e sistemas industriais e de comunicações afectos à concessão, são devidas, pela concessionária, as taxas estabelecidas no contrato de concessão.
 
@@ -367,7 +415,9 @@ Para efeitos do estabelecido nas presentes bases, a sociedade titular da concess
 
 ### CAPÍTULO VI — Fiscalização, sanções e garantias
 
-###### Base XXV — Fiscalização
+Base XXV
+
+Fiscalização
 
 1 - O estabelecimento da concessão e as actividades exercidas pela concessionária ficam sujeitos à fiscalização da concedente, sem prejuízo do exercício de fiscalização por outros serviços oficiais que para o efeito sejam competentes.
 
@@ -375,17 +425,23 @@ Para efeitos do estabelecido nas presentes bases, a sociedade titular da concess
 
 3 - A concessionária deve facultar todos os livros e registos respeitantes ao estabelecimento e actividades concessionadas que as entidades competentes considerem necessários à acção fiscalizadora, bem como prestar os esclarecimentos que lhe forem solicitados.
 
-###### Base XXVI — Vistorias extraordinárias
+Base XXVI
+
+Vistorias extraordinárias
 
 Constituem encargo da concessionária todas as despesas, devidamente documentadas, resultantes de vistorias extraordinárias, nomeadamente as devidas a reclamações de terceiros, desde que se conclua pela existência de irregularidades imputáveis à concessionária.
 
-###### Base XXVII — Multas
+Base XXVII
+
+Multas
 
 1 - Pelo incumprimento das obrigações da concessão, a que não corresponda sanção mais grave, é a concessionária punida com multa cujos limites mínimo e máximo constam obrigatoriamente do contrato de concessão.
 
 2 - As sanções são graduadas em função da gravidade dos actos ou omissões e, uma vez comunicada à concessionária a respectiva aplicação pela concedente, tornam-se imediatamente eficazes, com dispensa de outra formalidade.
 
-###### Base XXVIII — Força maior
+Base XXVIII
+
+Força maior
 
 1 - Consideram-se unicamente casos de força maior, com as consequências fixadas nos números seguintes e sem prejuízo do disposto no n.º 3, os acontecimentos imprevisíveis e irresistíveis, exteriores às partes, cujos efeitos se produzam independentemente da vontade ou das circunstâncias pessoais das mesmas e tenham um impacte directo negativo de relevo sobre a concessão.
 
@@ -399,23 +455,31 @@ b) Pragas, epidemias, sismos, graves inundações, tempestades e outros cataclis
 
 4 - Sempre que ocorra um caso de força maior que tenha por efeito impedir ou prejudicar gravemente o cumprimento pelas partes de qualquer das suas obrigações decorrentes do contrato de concessão, a parte afectada fica exonerada de responsabilidade pelo não cumprimento pontual e atempado, na medida em que este haja sido impedido ou gravemente prejudicado em consequência directa e necessária do caso de força maior.
 
-###### Base XXIX — Cauções
+Base XXIX
+
+Cauções
 
 1 - Como garantia do pontual pagamento de taxas, do bom cumprimento do contrato e da cobrança de multas aplicadas, a concessionária deposita à ordem da concedente uma caução no valor que for estabelecido no contrato.
 
 2 - A caução pode ser substituída por outros meios de garantia idóneos e será actualizada de harmonia com os critérios e periodicidade estabelecidos no contrato.
 
-###### Base XXX — Responsabilidade civil da concessionária
+Base XXX
+
+Responsabilidade civil da concessionária
 
 A concessionária é responsável, nos termos gerais de direito, por quaisquer prejuízos ocasionados à concedente ou a terceiros no exercício da actividade concessionada.
 
 ### CAPÍTULO VII — Transmissão de direitos e responsabilidades da concessionária
 
-###### Base XXXI — Contratos de financiamento
+Base XXXI
+
+Contratos de financiamento
 
 Podem ser celebrados contratos de mútuo, de prestação de garantia bancária e outros similares, entre a concessionária e entidades financiadoras ou outras, destinados a dotar a concessionária com meios financeiros necessários ao cumprimento das obrigações que para ela decorrem da concessão, e que podem envolver a própria concedente, nos termos do caderno de encargos.
 
-###### Base XXXII — Oneração ou transmissão de direitos e exploração de serviços por terceiros
+Base XXXII
+
+Oneração ou transmissão de direitos e exploração de serviços por terceiros
 
 1 - Sem prejuízo do disposto na base anterior, a concessionária não pode, sem prévio consentimento da concedente, onerar, transmitir, subconceder ou por qualquer forma fazer-se substituir, no todo ou em parte, na titularidade ou exercício dos direitos e bens da concessão.
 
@@ -425,8 +489,10 @@ Podem ser celebrados contratos de mútuo, de prestação de garantia bancária e
 
 ### CAPÍTULO VIII — Contencioso do contrato
 
-###### Base XXXIII — Foro
+Base XXXIII
+
+Foro
 
 Sobre as questões de interpretação e de aplicação do contrato de concessão, podem a concedente e a concessionária acordar a respectiva resolução por tribunal arbitral a constituir nos termos gerais de direito, o qual julgará segundo as normas legais aplicáveis, ou segundo a equidade, na situação prevista na base XIV, ou quando o contrato o preveja expressamente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22700/80728078.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22700/80728078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22700/80728078.pdf)

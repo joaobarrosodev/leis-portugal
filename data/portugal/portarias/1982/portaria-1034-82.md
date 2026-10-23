@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1034-1982-377168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T07:01:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b18864bd896241532eecd7bb22b7f2be8a3bd3172296547717e91a5448ef8976
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd2df2b5672ec8501ac6de02291ee611e77fe5436af29f95f70539fde66409ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:01:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral do Planeamento Urbanístico
+- Ministério da Habitação e Obras Públicas
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:390382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:01:19Z'
   warnings: []
   errors: []
 ---
@@ -94,4 +105,4 @@ Ministérios das Finanças e do Plano, da Habitação, Obras Públicas e Transpo
 
 Quadro anexo à Portaria n.º 1034/82
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/26100/37793780.pdf))](https://files.diariodarepublica.pt/1s/1982/11/26100/37793780.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/26100/37793780.pdf)

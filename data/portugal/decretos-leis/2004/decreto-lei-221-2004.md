@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/221/2004/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2004-531385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4e0159102ed2e34c879c6fe7747a8f2468685fd68f2d254a7718fd55cf703fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d582261d20c627b4c3fb8888988c596c90ca073253b0404ce51fdeac6f10a58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
+- Câmara Municipal
 - Código da Estrada
-- Multa
 - Contra-ordenação
 - Direcção Geral de Viação
 - Fiscalização
-- Veículo
 - GNR
 - Inspecção Geral do Trabalho
+- Multa
+- PSP
 - Segurança Rodoviária
 - Trabalhador Rural
-- Câmara Municipal
 - Transporte de Passageiros
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
@@ -95,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/369/1999/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/369/1999/09/18/p/dre
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569892:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:34Z'
   warnings: []
   errors: []
 ---
@@ -189,12 +209,12 @@ Até à entrada em vigor da portaria a que se refere o artigo 3.º do presente d
 
 Visto e aprovado em Conselho de Ministros de 2 de Setembro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - Daniel Viegas Sanches - José Pedro Correia de Aguiar Branco - José Luís Fazenda Arnaut Duarte - Carlos Henrique da Costa Neves - António Luís Guerra Nunes Mexia.
 
-**Promulgado em 26 de Outubro de 2004.**
+Promulgado em 26 de Outubro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Novembro de 2004.**
+Referendado em 3 de Novembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

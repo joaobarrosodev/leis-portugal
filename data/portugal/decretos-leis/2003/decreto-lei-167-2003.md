@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/07/173a00/43924398.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/167/2003/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2003-651282
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07810fd512ee51745ae423cd7f23b6b28b9d2e7853dcc1c8f96838b6ba88f4bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b084bebe108180b4a3899b1d7c56fd164402d0157f887e600bdef978dee87cb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,22 @@ subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autonomia Patrimonial
-- Serviço Nacional de Bombeiros e Protecção Civil
-- Fiscal Único
-- INEM
-- Direção Geral da Saúde
-- Ministro da Saúde
 - Comissão Técnica
 - Conselho de Administração
 - Contrato Individual de Trabalho
 - Cruz Vermelha Portuguesa
 - Definição de Competências
 - Delegação Regional
+- Direção Geral da Saúde
 - Estatuto
+- Fiscal Único
+- Gestão de Recursos Humanos
 - Gestor Público
-- SIEM
+- INEM
 - Instituto Público
 - Integração de Trabalhadores
-- Tribunal de Contas
 - Liga dos Bombeiros Portugueses
+- Ministro da Saúde
 - Prémio de Seguro
 - Quadro de Pessoal
 - Regime de Protecção Social dos Funcionários e Agentes da Administração Pública
@@ -94,7 +92,9 @@ subjects:
 - Responsabilidade Administrativa
 - Responsabilidade Civil
 - Responsabilidade Criminal
-- Gestão de Recursos Humanos
+- Serviço Nacional de Bombeiros e Protecção Civil
+- SIEM
+- Tribunal de Contas
 - Tutela
 relationships:
 - type: amended_by
@@ -113,16 +113,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/295/1997/05/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/295/1997/05/05/p/dre
+- type: cites
+  target: pt:dre:302875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:638543:por
+  label: "Revogado a partir de 01.06.2007 pelo DEC LEI.220/2007.29.05.2007.MS, DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/220-2007-638543
+  date: '2007-05-29'
 article_structure:
   article_count: 44
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:10Z'
   warnings: []
   errors: []
 ---
@@ -217,15 +238,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Maio de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Luís Filipe Pereira.
 
-**Promulgado em 16 de Julho de 2003.**
+Promulgado em 16 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Julho de 2003.**
+Referendado em 21 de Julho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — ESTATUTOS DO INSTITUTO NACIONAL DE EMERGÊNCIA MÉDICA
 

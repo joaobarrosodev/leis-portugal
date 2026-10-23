@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/02/034a00/07230724.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/40/2001/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2001-319947
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:29:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c4c5ffa82a68d1e5e66b64b5dd789696b7969bc45423ffd27bc7a44f10db60b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 245bc771fb26c39493dbc8f22e87ac953fe79f94a34e724faf1631b91c481193
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:29:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contribuições da Segurança Social
-- Artesanato
-- Indústria Agrícola
-- Trabalhador Rural
 - Agricultor
+- Artesanato
+- Contribuições da Segurança Social
+- Indústria Agrícola
 - Madeira.região Autónoma
 - TAXA Contributiva
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:490249:por
@@ -94,16 +94,59 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3-b/2000/04/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3-b/2000/04/04/p/dre
+- type: cites
+  target: pt:dre:189476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679669:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:515391:por
+  label: "Revogado o n.º 2 do art. 28.º e o n.º 2 do art. 29.º do DRG 26/79/M de 07-Nov, na redacção do presente diploma,\
+    \ pelo DLR.20/2004/M.22.07.2004.ALR-RAM, DR.IS-A [185] de 07.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2004-515391
+  date: '2004-07-22'
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado o DRG 26/79/M, de 07-Nov, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela\
+    \ Lei n.º 119/2009, de 30 de Dezembro), na redacção do presente diploma, pela LEI.110/2009.16.09.2009.AR, DR.IS [180]\
+    \ de 16.09.2009, sem prejuízo de, até à entrada em vigor da regulamentação [prevista no art. 4.º] se manter transitoriamente\
+    \ em vigor as disposições procedimentais do diploma revogado que não contrariem o disposto no Código aprovado pela citada\
+    \ Lei \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:29:23Z'
   warnings: []
   errors: []
 ---
@@ -152,14 +195,14 @@ O presente decreto-lei produz efeitos desde 1 de Janeiro de 2001.
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 2000. - Jaime José Matos da Gama - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 26 de Janeiro de 2001.**
+Promulgado em 26 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Fevereiro de 2001.**
+Referendado em 1 de Fevereiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/034a00/07230724.pdf)

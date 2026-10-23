@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 167/1968, 1º Suplemento, Série I de 1968-07-16
   number: '167'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1019 - 1036
   pdf_url: https://files.diariodarepublica.pt/1s/1968/07/16701/10191036.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23485-1968-220145
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b83e8fc97f661620c8cb24b538f2f063c3f95d91df26ca70f1c47e16cc7828ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 421feb7eb8af89e78a9747457887dfb2de4c340aad484ce296e98215777d28c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:318914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578769:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:58Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +192,7 @@ Desenvolvimento do vocabulário pelo uso de sinónimos e antónimos de vocábulo
 
 Exercícios frequentes de exposição oral.
 
-##### Divisão dos períodos em proposições. Ideia de oração principal.
+Divisão dos períodos em proposições. Ideia de oração principal.
 
 Análise da proposição: o sujeito, o predicado, o nome predicativo do sujeito (só com os verbos ser e estar) e o complemento directo. Distinção prática dos tempos simples dos verbos. Uso espontâneo dos tempos compostos.
 
@@ -408,7 +420,7 @@ Círculo e circunferência. O raio.
 
 Ângulos formados por dois raios.
 
-##### Divisão da circunferência em graus. Medição de ângulos com o transferidor.
+Divisão da circunferência em graus. Medição de ângulos com o transferidor.
 
 Noções de horizontal e vertical. Uso do nível e do fio de prumo.
 
@@ -710,7 +722,7 @@ Portugal:
 
 Territórios e populações de que se compõe. Comparação das grandezas desses territórios; comunicação entre eles por terra, mar e ar.
 
-##### Divisão dos territórios metropolitano, insular e ultramarino em distritos e províncias. Razões especiais da importância de algumas cidades (função administrativa; actividade cultural ou económica; carácter turístico). Nomes e localização dos principais rios portugueses (Minho, Douro, Mondego, Tejo, Guadiana; Cacheu, Geba; Zaire, Cuanza, Cunene; Rovuma, Zambeze, Save, Limpopo, Incomati; Mandovi); sua importância na delimitação de fronteiras e na vida económica nacional (agricultura, pesca, indústrias baseadas na força motriz da água, com referência a centrais hidroeléctricas; comunicações).
+Divisão dos territórios metropolitano, insular e ultramarino em distritos e províncias. Razões especiais da importância de algumas cidades (função administrativa; actividade cultural ou económica; carácter turístico). Nomes e localização dos principais rios portugueses (Minho, Douro, Mondego, Tejo, Guadiana; Cacheu, Geba; Zaire, Cuanza, Cunene; Rovuma, Zambeze, Save, Limpopo, Incomati; Mandovi); sua importância na delimitação de fronteiras e na vida económica nacional (agricultura, pesca, indústrias baseadas na força motriz da água, com referência a centrais hidroeléctricas; comunicações).
 
 Os acidentes orográficos mais importantes e sua localização (serras do Gerês, Barroso, Marão, Montemuro, Caramulo, Estrela; Pico; Pico do Fogo; Pico de S. Tomé, Canganza, Tala-Mugongo e Chela; Namuli, Gorongosa; Gates; Ramelau; planície alentejana; planaltos de Malanje, Lunda, Benguela, Bié e Huíla; planalto de Manica). Ideia sumária da relação entre a orografia e a riqueza agro-pecuária e florestal. Nomes e localização dos principais portos (Leixões e Porto, Lisboa, Setúbal, Funchal, Ponta Delgada, S. Vicente, Bissau, S. Tomé, Luanda, Lobito, Lourenço Marques, Beira, Mormugão, Macau e Díli) - Sua importância na vida local e nacional. Os aeroportos de Lisboa, ilhas da Madeira, Santa Luzia e Terceira, ilha do Sal, Luanda, Beira e Lourenço Marques como centros de comunicação nacionais e internacionais.
 

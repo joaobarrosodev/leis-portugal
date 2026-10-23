@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/08/16100/0285102854.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/50/2016/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2016-75170444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8f2e330e14a3ee142d3e20401841d54471a31cb0f11e2057773c59a50771533
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b577304ba57107be077f36beb65d8181aea1e416231358419e4157cbfdbd8779
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,21 +70,21 @@ reuse:
 subjects:
 - Alvará
 - Aproximação das Legislações
-- Gestão de Resíduos
-- Multa
-- Contra-ordenação
-- Diretor Geral
-- Saúde Pública
-- Especificação Técnica
-- Combustível
-- Fiscalização
-- Direção Geral de Energia e Geologia
-- Gasolina
-- Licenciamento
-- Proteção do Ambiente
 - ÁREA de Serviço
 - Câmara Municipal
+- Combustível
+- Contra-ordenação
+- Direção Geral de Energia e Geologia
+- Diretor Geral
+- Especificação Técnica
+- Fiscalização
+- Gasolina
+- Gestão de Resíduos
+- Licenciamento
+- Multa
 - Posto de Abastecimento de Combustíveis
+- Proteção do Ambiente
+- Saúde Pública
 relationships:
 - type: cites
   target: celex:32009L0126
@@ -118,16 +118,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/109/2001/12/24/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/109/2001/12/24/p/dre
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571030:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
+  article_count: 16
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:16Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +218,9 @@ k) ...
 
 l) ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A partir da data em que os sistemas de fase ii de recuperação de vapores de gasolina passem a ser obrigatórios, em conformidade com o artigo anterior:
 
@@ -200,7 +234,9 @@ b) A razão vapor/gasolina dos vapores de gasolina recuperados que sejam transfe
 
 4 - (Revogado.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A eficiência da captura de vapores de gasolina dos sistemas de fase ii de recuperação de vapores de gasolina nas estações de serviço deve ser comprovada anualmente, de acordo com a norma EN 16321-2.
 
@@ -216,11 +252,15 @@ b) A razão vapor/gasolina dos vapores de gasolina recuperados que sejam transfe
 
 7 - O modelo do dístico referido no número anterior é definido por despacho do diretor-geral da Direção-Geral de Energia e Geologia (DGEG).
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 As entidades licenciadoras e fiscalizadoras procedem à instrução dos correspondentes processos de contraordenação, cabendo ao presidente da câmara municipal respetiva ou ao diretor-geral da DGEG a competência para a aplicação das coimas.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A totalidade da receita resultante da aplicação das coimas pelo presidente da câmara municipal reverte para o município respetivo, de acordo com o n.º 1 do artigo 28.º do [Decreto-Lei n.º 267/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-2002-447916), de 26 de novembro.
 
@@ -248,15 +288,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de julho de 2016. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - Fernando António Portela Rocha de Andrade - Adalberto Campos Fernandes - Manuel de Herédia Caldeira Cabral.
 
-**Promulgado em 9 de agosto de 2016.**
+Promulgado em 9 de agosto de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de agosto de 2016.**
+Referendado em 11 de agosto de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 

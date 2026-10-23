@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/124-1983-308281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T07:32:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fa1e67975d053bcde30d11175e7ab645e2d977d416508711dd1ef367b0a0d0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ca54a0aaa2e9123f15179f000a38f280518b26f5aa0d35afdd11b6dc5aba586
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:32:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Procuradoria Geral da República
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O MAPA ANEXO, PELA PORTARIA NUMERO 477/83, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 94, DE\
+    \ 23/4/83.\023/4/83.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570327:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:32:31Z'
   warnings: []
   errors: []
 ---
@@ -100,4 +119,4 @@ Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finança
 
 Ministérios das Finanças e do Plano, da Justiça e da Reforma Administrativa, 13 de Janeiro de 1983. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Justiça e Ministro da Reforma Administrativa, José Manuel Meneres Sampaio Pimentel.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/02800/03350335.pdf))](https://files.diariodarepublica.pt/1s/1983/02/02800/03350335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/02800/03350335.pdf)

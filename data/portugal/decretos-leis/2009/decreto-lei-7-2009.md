@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/7/2009/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2009-396876
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:11:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce94cec8c78309f21797432644eeb5f452becbf3645bda3b4cee0309bc869020
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 465992b6292008eb2caa741b5e30294b6e1fa287dca11a250982f6294a206549
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:11:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Açores
+- Aditivo Alimentar
+- Alimentação Humana
 - Aproximação das Legislações
-- Multa
-- Leite
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- ASAE
+- Comércio
+- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
 - Contra-ordenação
 - Definição de Competências
 - Etiquetagem
 - Fiscalização
 - Gabinete de Planeamento e Políticas
-- ASAE
-- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
-- Alimentação Humana
-- Aditivo Alimentar
-- Madeira.região Autónoma
 - Indústria Alimentar
+- Leite
+- Madeira.região Autónoma
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Multa
+- Produto Alimentar
 - Sanção
-- Açores
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:107495709:por
@@ -115,16 +115,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/213/2003/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/213/2003/09/18/p/dre
+- type: repealed_by
+  target: pt:dre:107495709:por
+  label: Revogado a partir de 01.07.2017 pelo(a) Decreto-Lei n.º 62/2017 - Diário da República n.º 112/2017, Série I de 2017-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-2017-107495709
+  date: '2017-06-09'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:11:11Z'
   warnings: []
   errors: []
 ---
@@ -239,15 +244,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Setembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Rui Carlos Pereira - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Ana Maria Teodoro Jorge.
 
-**Promulgado em 5 de Dezembro de 2008.**
+Promulgado em 5 de Dezembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de Dezembro de 2008.**
+Referendado em 10 de Dezembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Definições e denominações dos produtos
 
@@ -313,9 +318,9 @@ a) A expressão «evaporated milk», em inglês, designa o produto definido na a
 
 b) As expressões «lait demi-écrémé concentré» e «lait demi-écrémé concentré non sucré», em francês, «leche evaporada semidesnatada», em espanhol, «geëvaporeerde halfvolle melk» e «halfvolle koffiemelk», em neerlandês, e «evaporated semi-skimmed milk», em inglês, designam o produto definido na alínea c) do n.º 1 do anexo i que contém, em massa, entre 4 % e 4,5 % de matéria gorda e pelo menos 24 % de resíduo seco total;
 
-c) As expressões «kondenseret [([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf))](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf)», em dinamarquês, e «kondensierte kaffeesahne», em alemão, designam o produto definido na alínea a) do n.º 1 do anexo i;
+c) As expressões «kondenseret [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf)», em dinamarquês, e «kondensierte kaffeesahne», em alemão, designam o produto definido na alínea a) do n.º 1 do anexo i;
 
-d) As expressões «[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf))](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf)», em dinamarquês, «Rahmpulver» e «Sahnepulver», em alemão, «crème en poudre», em francês, «roompoeder», em neerlandês, «gräddpulver», em sueco, e «kermajauhe», em finlandês, designam o produto definido na alínea a) do n.º 2 do anexo i;
+d) As expressões «[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf)», em dinamarquês, «Rahmpulver» e «Sahnepulver», em alemão, «crème en poudre», em francês, «roompoeder», em neerlandês, «gräddpulver», em sueco, e «kermajauhe», em finlandês, designam o produto definido na alínea a) do n.º 2 do anexo i;
 
 e) As expressões «lait demi-écrémé concentré sucré», em francês, «leche condensada semidesnatada», em espanhol, e «gecondenseerde halfvolle melk met suiker», em neerlandês, designam o produto definido na alínea f) do n.º 1 do anexo i que contém, em massa, entre 4 % e 4,5 % de matéria gorda e pelo menos 28 % de resíduo seco total proveniente do leite;
 
@@ -329,9 +334,9 @@ i) A expressão «rasvaton maitojauhe», em finlandês, designa o produto defini
 
 j) A expressão «leche en polvo semidesnatada», em espanhol, designa o produto definido na alínea c) do n.º 2 do anexo i com um teor de matéria gorda compreendido entre 10 % e 16 %;
 
-l) A expressão maltesa «[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf))](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf) evaporat» designa o produto definido na alínea b) do n.º 1 do anexo i;
+l) A expressão maltesa «[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf) evaporat» designa o produto definido na alínea b) do n.º 1 do anexo i;
 
-m) A expressão maltesa «[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf))](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf)» designa o produto definido na alínea c) do n.º 1 do anexo i;
+m) A expressão maltesa «[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf)» designa o produto definido na alínea c) do n.º 1 do anexo i;
 
 n) A expressão estónia «koorepulber» designa o produto definido na alínea a) do n.º 2 do anexo i;
 
@@ -343,16 +348,16 @@ q) A expressão estónia «magustatud väherasvane kondenspiim» designa o produ
 
 r) A expressão estónia «väherasvane piimapulber» na alínea c) do n.º 2 do anexo i;
 
-s) A expressão checa «[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf))](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf) neslazená smetana» designa o produto definido na alínea a) do n.º 1 do anexo i;
+s) A expressão checa «[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf) neslazená smetana» designa o produto definido na alínea a) do n.º 1 do anexo i;
 
-t) A expressão checa «[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf))](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf)» designa o produto definido na alínea b) do n.º 1 do anexo i;
+t) A expressão checa «[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf)» designa o produto definido na alínea b) do n.º 1 do anexo i;
 
-u) A expressão checa «[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf))](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf)» designa o produto definido na alínea c) do n.º 1 do anexo i, que contém, em massa, entre 4 % e 4,5 % de matéria gorda;
+u) A expressão checa «[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf)» designa o produto definido na alínea c) do n.º 1 do anexo i, que contém, em massa, entre 4 % e 4,5 % de matéria gorda;
 
-v) A expressão checa «[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf))](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf)» designa o produto definido na alínea e) do n.º 1 do anexo i;
+v) A expressão checa «[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf)» designa o produto definido na alínea e) do n.º 1 do anexo i;
 
-x) A expressão checa «[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf))](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf)» designa o produto definido na alínea f) do n.º 1 do anexo i, que contém, em massa, entre 4 % e 4,5 % de matéria gorda;
+x) A expressão checa «[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf)» designa o produto definido na alínea f) do n.º 1 do anexo i, que contém, em massa, entre 4 % e 4,5 % de matéria gorda;
 
-z) A expressão checa «[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf))](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf) smetana» designa o produto definido na alínea a) do n.º 2 do anexo i;
+z) A expressão checa «[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf) smetana» designa o produto definido na alínea a) do n.º 2 do anexo i;
 
-aa) A expressão checa «[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf))](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf) mléko» designa o produto definido na alínea c) do n.º 2 do anexo i que contém, em massa, entre 14 % e 16 % de matéria gorda.
+aa) A expressão checa «[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/00300/0013600139.pdf) mléko» designa o produto definido na alínea c) do n.º 2 do anexo i que contém, em massa, entre 14 % e 16 % de matéria gorda.

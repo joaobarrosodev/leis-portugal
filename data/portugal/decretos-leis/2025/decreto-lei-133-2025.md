@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/12/24700/0006900073.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/133/2025/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2025-992627245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0dae42791d7f8ed57b99193ccbef5a27352a7acb124f0eb6e5eba67f2541d16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7aef0544abd85d46dc9885e7a1d20df80433b076b13e004f49c6d8d9d3d84964
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Alimentação Humana
 - Aproximação das Legislações
 - Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
 - Etiquetagem
 - Fiscalização
 - Fruto
-- Alimentação Humana
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:230/2003
+  label: Altera, a partir de 29 de dezembro de 2025, os artigos 1.º, 3.º, 4.º, os anexos i, ii,iii e revoga as alíneas f),
+    g) e i) do artigo 3.º do Decreto-Lei n.º 230/2003, de 27 de setembro, Diário da República n.º 224/2003, Série I-A
+  source: null
+  date: '2003-09-27'
 - type: cites
   target: celex:32001L0113
   label: null
@@ -101,6 +107,14 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493700:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32001L0113
   label: null
@@ -110,15 +124,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:30Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +167,9 @@ Os artigos 1.º, 3.º e 4.º do [Decreto-Lei n.º 230/2003](https://diariodarepu
 
 O presente diploma transpõe para a ordem jurídica interna a [Diretiva 2001/113/CE](https://data.europa.eu/eli/dir/2001/113/oj?locale=pt) do Conselho, de 20 de dezembro, relativa aos doces, geleias de frutos, citrinadas e creme de castanha destinados à alimentação humana, na redação conferida pela [Diretiva (UE) 2024/1438](https://data.europa.eu/eli/dir/2024/1438/oj?locale=pt) do Parlamento Europeu e do Conselho, de 14 de maio de 2024.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 A rotulagem dos produtos abrangidos pelo presente diploma obedece ao disposto no [Regulamento (UE) n.º 1169/2011](https://data.europa.eu/eli/reg/2011/1169/oj?locale=pt) do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, exigindo-se ainda o cumprimento das seguintes regras:
 
@@ -175,7 +191,9 @@ h) As indicações previstas na alínea e) devem figurar em carateres claramente
 
 i) (Revogada.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Só podem ser utilizados no fabrico dos produtos definidos no anexo i os ingredientes enumerados no anexo ii do presente diploma e que dele faz parte integrante.»
 
@@ -193,15 +211,15 @@ São revogadas as alíneas f), g) e i) do artigo 3.º do [Decreto-Lei n.º 230/2
 
 Visto e aprovado em Conselho de Ministros de 4 de dezembro de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Rui Miguel Ladeira Pereira.
 
-**Promulgado em 11 de dezembro de 2025.**
+Promulgado em 11 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de dezembro de 2025.**
+Referendado em 15 de dezembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -261,7 +279,9 @@ II - O resíduo seco solúvel dos produtos definidos na parte i, determinado por
 
 III - [...]
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 [...]
 
@@ -291,7 +311,9 @@ Sumo de beterrabas vermelhas, concentrado ou não: apenas nos doces e nas geleia
 
 Aditivos alimentares autorizados em conformidade com o [Regulamento (CE) n.º 1333/2008](https://data.europa.eu/eli/reg/2008/1333/oj?locale=pt) do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008.
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 A - [...]
 
@@ -308,3 +330,5 @@ Concentração, se tal for tecnicamente possível.
 2 - [...]
 
 3 - [...]»
+
+119919735

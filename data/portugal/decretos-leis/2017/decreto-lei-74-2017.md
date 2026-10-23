@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/11800/0314103157.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/74/2017/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d99929ffb78595dc6d87e3bd24cd3517aea34128ee596671b16316f9adde567
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fcc10cbd7e82ad6ef2c44038fc0469fe311d3929e06d20cf45fbcfeea6769de0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,52 +67,59 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abastecimento de BENS Essenciais
-- Instituto da Segurança Social
-- Aquisição de Bens e Serviços
-- Livro de Reclamações
-- Empresa
-- Modernização Administrativa
-- Multa
-- Inspecção Geral das Actividades Culturais
-- Infarmed
-- Conflito de Consumo
-- Instituto dos Registos e do Notariado
-- Definição de Competências
-- Direcção Geral do Consumidor
-- Entidade Reguladora da Saúde
-- Fiscalização
-- Banco de Portugal
-- Instituto de Turismo de Portugal
-- Avaliação das Instituições
-- ASAE
-- Inspecção Geral da Educação e Ciência
-- Inspecção Geral dos Serviços de Justiça
-- Entidade Reguladora dos Serviços das Águas e dos Resíduos
-- Programa Simplex
-- Ordem dos Médicos Veterinários
-- Entidade Reguladora dos Serviços Energéticos
-- Informação do Consumidor
-- Prazo
-- Prestação de Serviços
-- Proteção do Consumidor
 - Agência para a Modernização Administrativa
-- REDE Telematica de Informação Comum
-- Setor Privado
-- Setor Público
-- Sector Público Administrativo
-- CMVM
+- Aquisição de Bens e Serviços
+- ASAE
 - Atendimento Público
-- Autoridade de Supervisão de Seguros e Fundos de Pensões
 - Autoridade da Mobilidade e dos Transportes
-- Instituto dos Mercados Públicos do Imobiliário e da Construção
-- Plataforma Eletrónica
+- Autoridade de Supervisão de Seguros e Fundos de Pensões
 - Autoridade Nacional da Aviação Civil
 - Autoridade Nacional de Comunicações
+- Avaliação das Instituições
+- Banco de Portugal
+- CMVM
+- Conflito de Consumo
+- Definição de Competências
+- Direcção Geral do Consumidor
+- Empresa
+- Entidade Reguladora da Saúde
+- Entidade Reguladora dos Serviços das Águas e dos Resíduos
+- Entidade Reguladora dos Serviços Energéticos
+- Fiscalização
+- Infarmed
+- Informação do Consumidor
+- Inspecção Geral da Educação e Ciência
+- Inspecção Geral das Actividades Culturais
+- Inspecção Geral dos Serviços de Justiça
+- Instituto da Segurança Social
+- Instituto de Turismo de Portugal
+- Instituto dos Mercados Públicos do Imobiliário e da Construção
+- Instituto dos Registos e do Notariado
+- Livro de Reclamações
+- Modernização Administrativa
+- Multa
+- Ordem dos Médicos Veterinários
+- Plataforma Eletrónica
+- Prazo
+- Prestação de Serviços
+- Programa Simplex
+- Proteção do Consumidor
+- REDE Telematica de Informação Comum
+- Sector Público Administrativo
+- Setor Privado
+- Setor Público
 relationships:
 - type: amended_by
   target: pt:dre:840716420:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Alterados, a partir de 28.07.2021, os arts. 9.º, 9.º-A e 11.º e revogado o n.º 5 do art. 11.º do Dec Lei 156/2005
+    de 15-set, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021,
+    Série I de 2021-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
 - type: cites
   target: eli:h
   label: null
@@ -157,16 +164,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/6/2011/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/6/2011/03/10/p/dre
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70086390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75216373:por
+  label: null
+  source: null
 article_structure:
-  article_count: 49
+  article_count: 30
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:15Z'
   warnings: []
   errors: []
 ---
@@ -235,7 +314,9 @@ Os artigos 1.º a 13.º do [Decreto-Lei n.º 156/2005](https://diariodarepublica
 
 3 - Os fornecedores de bens e os prestadores de serviços podem disponibilizar no seu sítio na Internet instrumentos destinados à resolução de problemas dos consumidores ou utentes, desde que assegurem uma clara distinção entre aqueles e o livro de reclamações.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - São abrangidos pela obrigação de disponibilização do formato físico do livro de reclamações todos os fornecedores de bens e prestadores de serviços, designadamente os identificados no anexo ao presente decreto-lei, do qual faz parte integrante, em todos os estabelecimentos que:
 
@@ -257,7 +338,9 @@ b) [...].
 
 8 - A reclamação apresentada no livro de reclamações em formato eletrónico tem a mesma validade da reclamação apresentada no livro de reclamações em formato físico.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]:
 
@@ -283,7 +366,9 @@ e) Proceder ao envio dos originais das folhas de reclamação e documentos a que
 
 5 - O prestador de serviço público essencial, a que se refere a [Lei n.º 23/96](https://diariodarepublica.pt/dr/detalhe/lei/23-1996-408366), de 26 de julho, alterada pelas [Leis n.os 12/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), de 26 de fevereiro, [24/2008](https://diariodarepublica.pt/dr/detalhe/lei/24-2008-448955), de 2 de junho, [6/2011](https://diariodarepublica.pt/dr/detalhe/lei/6-2011-279444), de 10 de março, [44/2011](https://diariodarepublica.pt/dr/detalhe/lei/44-2011-670065), de 22 de junho, e [10/2013](https://diariodarepublica.pt/dr/detalhe/lei/10-2013-257004), de 28 de janeiro, é obrigado a responder ao consumidor e utente no prazo máximo de 15 dias úteis a contar da data da reclamação lavrada no livro de reclamações.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A reclamação é formulada através do preenchimento da folha de reclamação no livro de reclamações.
 
@@ -301,7 +386,9 @@ d) Apor a data da reclamação.
 
 4 - Quando os consumidores ou utentes estejam impossibilitados de preencher a folha de reclamação por razões de analfabetismo ou incapacidade física, o fornecedor de bens, o prestador dos serviços ou qualquer responsável pelo atendimento deve, no momento da apresentação da reclamação e a pedido do consumidor ou utente, efetuar o respetivo preenchimento nos termos descritos oralmente por este.
 
-###### Artigo 5.º — Envio da folha de reclamação
+Artigo 5.º
+
+Envio da folha de reclamação
 
 1 - Após o preenchimento da folha de reclamação, o fornecedor do bem, o prestador de serviços ou o funcionário do estabelecimento, deve, no prazo de 15 dias úteis, salvo se for estabelecido prazo distinto em lei especial, remeter o original da folha do livro de reclamações, consoante o caso:
 
@@ -327,7 +414,9 @@ b) O exemplar da mensagem publicitária, através de suporte físico ou digital,
 
 6 - Sem prejuízo do disposto nos números anteriores, o consumidor ou utente pode também remeter o duplicado da folha de reclamação à entidade de controlo de mercado competente ou à entidade reguladora do setor, de acordo com as instruções constantes da mesma, ou, tratando-se de fornecedor de bens ou de prestador de serviços não identificado no anexo ao presente decreto-lei e não havendo uma e outra destas entidades, à entidade que nos termos da lei é competente para emitir a respetiva acreditação ou, na ausência desta, à ASAE.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]:
 
@@ -349,7 +438,9 @@ c) Analisar as reclamações, a documentação apresentada pelo fornecedor de be
 
 7 - Para efeitos do disposto no capítulo anterior, as entidades reguladoras e as entidades de controlo de mercado competentes disponibilizam e divulgam, em lugar de destaque, nos respetivos sítios na Internet, o acesso à plataforma digital que disponibiliza o formato eletrónico do livro de reclamações, doravante designada como Plataforma Digital.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 São aprovados por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa, das finanças e da defesa do consumidor:
 
@@ -357,7 +448,9 @@ a) O modelo do formato físico do livro de reclamações, bem como as regras rel
 
 b) O modelo de formulário, edição, preço, fornecimento e distribuição do formato eletrónico do livro de reclamações.
 
-###### Artigo 8.º — Aquisição de novo livro de reclamações em formato físico
+Artigo 8.º
+
+Aquisição de novo livro de reclamações em formato físico
 
 1 - [...].
 
@@ -369,7 +462,9 @@ b) O modelo de formulário, edição, preço, fornecimento e distribuição do f
 
 5 - Nos casos previstos no número anterior o fornecedor de bens ou prestador de serviços deve comunicar eletronicamente, à Imprensa Nacional-Casa da Moeda, S. A., a alteração efetuada, para efeitos de averbamento no livro de reclamações.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]:
 
@@ -383,13 +478,17 @@ b) De (euro) 150 a (euro) 2500 e de (euro) 500 a (euro) 5000, consoante o infrat
 
 4 - (Revogado.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Quando a gravidade da infração o justifique podem ainda ser aplicadas sanções acessórias, nos termos do regime geral das contraordenações.
 
 2 - (Revogado.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A fiscalização do cumprimento do disposto no presente decreto-lei, bem como a instrução dos processos e a aplicação das coimas e sanções acessórias relativa às contraordenações previstas no n.º 1 do artigo 9.º compete:
 
@@ -443,7 +542,9 @@ b) À ASAE, quando a fiscalização e a instrução dos processos é efetuada pe
 
 5 - [...].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A rede telemática de informação comum (RTIC), criada pela Direção-Geral do Consumidor para registo e tratamento das reclamações dos consumidores e utentes constantes do livro de reclamações, integra-se na Plataforma Digital a que se refere o n.º 1 do artigo 12.º-A.
 
@@ -459,7 +560,9 @@ b) À ASAE, quando a fiscalização e a instrução dos processos é efetuada pe
 
 7 - (Revogado.)
 
-###### Artigo 13.º — Outros meios de reclamação
+Artigo 13.º
+
+Outros meios de reclamação
 
 1 - A formulação da reclamação nos termos previstos no presente decreto-lei não exclui a possibilidade de o consumidor ou utente apresentar reclamações por quaisquer outros meios e não limita o exercício de quaisquer direitos constitucional ou legalmente consagrados.
 
@@ -487,7 +590,9 @@ Envio digital das folhas do livro de reclamações em formato físico
 
 5 - Quando, por motivos de indisponibilidade técnica, não for possível o cumprimento do disposto nos n.os 1 e 2, o fornecedor de bens ou o prestador de serviços procede ao envio do original da folha de reclamação em papel no prazo previsto no n.º 1 do artigo 5.º
 
-###### Artigo 5.º-B — Obrigações do fornecedor de bens e do prestador de serviços relativas ao formato eletrónico do livro de reclamações
+Artigo 5.º-B
+
+Obrigações do fornecedor de bens e do prestador de serviços relativas ao formato eletrónico do livro de reclamações
 
 1 - O fornecedor de bens ou prestador de serviços é obrigado a possuir o formato eletrónico do livro de reclamações, nos termos previstos nos n.os 2 e 3 do artigo 9.º
 
@@ -501,13 +606,17 @@ Envio digital das folhas do livro de reclamações em formato físico
 
 6 - A existência e disponibilização do formato eletrónico do livro de reclamações não afasta a obrigatoriedade de disponibilização, em simultâneo, do formato físico do livro de reclamações, nos estabelecimentos a que se refere o n.º 1 do artigo 2.º
 
-###### Artigo 5.º-C — Apresentação da reclamação em formato eletrónico
+Artigo 5.º-C
+
+Apresentação da reclamação em formato eletrónico
 
 1 - O consumidor ou utente pode formular a reclamação em formato eletrónico através da Plataforma Digital.
 
 2 - O disposto no n.º 4 do artigo 4.º aplica-se, com as devidas adaptações, à formulação da reclamação em formato eletrónico, caso tal seja solicitado pelo consumidor ou utente, sem que isso implique a obrigação de disponibilizar meio de acesso à Plataforma Digital.
 
-###### Artigo 12.º-A — Plataforma Digital
+Artigo 12.º-A
+
+Plataforma Digital
 
 1 - A Plataforma Digital visa, com observância do disposto na [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de outubro, alterada pela [Lei n.º 103/2015](https://diariodarepublica.pt/dr/detalhe/lei/103-2015-70086390), de 24 de agosto, possibilitar a apresentação de reclamações em formato eletrónico, bem como a submissão de pedidos de informação relacionados com a defesa do consumidor ou utente.
 
@@ -515,7 +624,9 @@ Envio digital das folhas do livro de reclamações em formato físico
 
 3 - Sem prejuízo do disposto no número anterior, o formulário eletrónico da reclamação deve cumprir as regras de acessibilidade digital, por forma a permitir a apresentação autónoma de reclamações por consumidores ou utentes com deficiência visual.
 
-###### Artigo 13.º-A — Relatório sobre conflitualidade no consumo
+Artigo 13.º-A
+
+Relatório sobre conflitualidade no consumo
 
 A Direção-Geral do Consumidor elabora, anualmente, um relatório estatístico global sobre a conflitualidade no consumo, podendo para este efeito solicitar a cooperação das entidades reguladoras do setor e das entidades de controlo de mercado competentes envolvidas na aplicação do presente decreto-lei.»
 
@@ -557,7 +668,9 @@ Os artigos 35.º-A, 38.º, 39.º-A e 43.º do [Decreto-Lei n.º 135/99](https://
 
 6 - [...].
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - Nos termos do disposto no artigo 35.º-A, os serviços e organismos da Administração Pública devem divulgar aos utentes de forma visível a existência da respetiva plataforma prevista no artigo 35.º-A e do livro de reclamações.
 
@@ -587,7 +700,9 @@ c) Registar a reclamação apresentada e a resposta na plataforma aplicável, re
 
 11 - (Revogado.)
 
-###### Artigo 39.º-A — [...]
+Artigo 39.º-A
+
+[...]
 
 1 - São criados mecanismos de avaliação automática pelos utentes dos locais e linhas de atendimento ao público da Administração Pública.
 
@@ -597,7 +712,9 @@ c) Registar a reclamação apresentada e a resposta na plataforma aplicável, re
 
 4 - Cabe à AMA, I. P., aprovar e disponibilizar no sítio na Internet um manual de normas orientadoras de aplicação dos mecanismos de avaliação automática pelos utentes, dos locais e linhas de atendimento ao público da Administração Pública.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [...].
 
@@ -641,15 +758,15 @@ b) A cópia amarela do livro de reclamações à Agência para a Modernização 
 
 Visto e aprovado em Conselho de Ministros de 30 de março de 2017. - António Luís Santos da Costa - Maria Manuel de Lemos Leitão Marques - Mário José Gomes de Freitas Centeno - Francisca Eugénia da Silva Dias Van Dunem - Eduardo Arménio do Nascimento Cabrita - Luís Filipe Carrilho de Castro Mendes - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva - Adalberto Campos Fernandes - Pedro Manuel Dias de Jesus Marques - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - João Pedro Soeiro de Matos Fernandes - Luís Medeiros Vieira - Ana Paula Mendes Vitorino.
 
-**Promulgado em 6 de junho de 2017.**
+Promulgado em 6 de junho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de junho de 2017.**
+Referendado em 7 de junho de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 

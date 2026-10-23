@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/04/09900/10141015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/362-1981-394749
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:44:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a6b770e30650b4b0ae11ba669e8271989a56d9f4f48d412a0a0c74a7c0e1959
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68ef2e49a1c8720ca667d4058fce858dea9aa68a31c9cafa3b9e3680062ea2ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:44:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Ciências Musicais
+- Faculdade de Ciências Sociais e Humanas
+- Licenciatura
+- Plano de Estudos
+- Universidade NOVA de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:454055:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:404483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471140:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:454055:por
+  label: "Revogada pela PORT.809/83.03.08.1983.ME, DR.IS [177] de 03.08.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/809-1983-454055
+  date: '1983-08-03'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:44:19Z'
   warnings: []
   errors: []
 ---
@@ -167,4 +189,4 @@ Ministério da Educação e Ciência, 20 de Abril de 1981. - O Ministro da Educa
 
 Faculdade de Ciências Sociais e Humanas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/09900/10141015.pdf))](https://files.diariodarepublica.pt/1s/1981/04/09900/10141015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/09900/10141015.pdf)

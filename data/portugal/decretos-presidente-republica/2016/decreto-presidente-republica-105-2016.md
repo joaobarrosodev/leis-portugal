@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/23100/0427204272.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/105/2016/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/105-2016-105300286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T05:24:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da2870b592050e2bcb7cb9f43c1d8eb5fd9399aa433adf4f93df0744e041fa34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66fb11b0721684155d83f64699dbbb87a848cf4d91dbc385fc0a3495144a8dba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:24:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Carreira Militar
 - Graduação Militar
-- Promoção Profissional
 - Militar
+- Promoção Profissional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/1-a/2009/07/07/p/dre
@@ -82,13 +82,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:24:55Z'
   warnings: []
   errors: []
 ---
@@ -97,12 +97,12 @@ validation:
 
 de 2 de dezembro
 
-**O Presidente da República decreta, nos termos do n.º 2 do artigo 25.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/345291/details/normal?l=1), de 7 de julho, alterada e republicada pela [Lei Orgânica n.º 6/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56384929/details/normal?l=1), de 1 de setembro, o seguinte:**
+O Presidente da República decreta, nos termos do n.º 2 do artigo 25.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/345291/details/normal?l=1), de 7 de julho, alterada e republicada pela [Lei Orgânica n.º 6/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56384929/details/normal?l=1), de 1 de setembro, o seguinte:
 
 É confirmada a promoção ao posto de Comodoro, do Capitão-de-mar-e-guerra, da Classe de Marinha, Aníbal Júlio Maurício Soares Ribeiro, efetuada por deliberação de 22 de novembro de 2016 do Conselho de Chefes de Estado-Maior e aprovada por despacho do Ministro da Defesa Nacional de 26 do mesmo mês.
 
-**Assinado em 29 de novembro de 2016.**
+Assinado em 29 de novembro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.

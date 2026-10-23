@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/734-1972-685414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:56:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 106c7a20e1ab0a8f87c4383e17eee5144ee6b06d736a2bdb0df5be7b426228e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33d400af9553d8e445d3ace6dccaab8c59df61bee7e68d2904c97b9d815f1abe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:56:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:686602:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:56:29Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ Ministério das Obras Públicas, 7 de Dezembro de 1972. - O Ministro das Obras P
 
 Regulamento da Concessão de Diuturnidade aos Especialistas do Laboratório Nacional de Engenharia Civil
 
-###### Artigo 1.º - 1. O especialista candidato à concessão de diuturnidade deverá apresentar:
+Artigo 1.º - 1. O especialista candidato à concessão de diuturnidade deverá apresentar:
 
 a) Requerimento em que é solicitada a concessão da diuturnidade;
 
@@ -108,12 +112,12 @@ c) Descrição comentada da actividade geral desenvolvida: organização e lecci
 
 d) Descrição comentada dos resultados mais significativos da actividade especializada desenvolvida ao serviço do Laboratório, com base nos trabalhos considerados de maior relevância.
 
-###### Art. 2.º - 1. O mérito da actividade exercida pelos especialistas será apreciado através das qualidades científicas e técnicas, pessoais e administrativas, referidas no artigo 4.º do Regulamento das Informações de Serviço do Laboratório Nacional de Engenharia Civil, segundo o critério indicado no corpo do seu artigo 9.º, com base nas informações de serviço do candidato e nos elementos referidos no artigo 1.º do presente Regulamento.
+Art. 2.º - 1. O mérito da actividade exercida pelos especialistas será apreciado através das qualidades científicas e técnicas, pessoais e administrativas, referidas no artigo 4.º do Regulamento das Informações de Serviço do Laboratório Nacional de Engenharia Civil, segundo o critério indicado no corpo do seu artigo 9.º, com base nas informações de serviço do candidato e nos elementos referidos no artigo 1.º do presente Regulamento.
 
 2. Só será reconhecido mérito à actividade exercida pelos especialistas, para efeitos de concessão da diuturnidade, àqueles que obtiverem classificação global, arredondada às unidades, não inferior a 15.
 
-###### Art. 3.º O júri de apreciação do mérito da actividade exercida pelos candidatos será constituído pelo director do Laboratório, pelos subdirectores e pelos chefes de serviço para o efeito nomeados.
+Art. 3.º O júri de apreciação do mérito da actividade exercida pelos candidatos será constituído pelo director do Laboratório, pelos subdirectores e pelos chefes de serviço para o efeito nomeados.
 
-###### Art. 4.º Aos especialistas aos quais não seja concedida a diuturnidade por não atingirem a classificação referida no n.º 2 do artigo 2.º é dada a faculdade de se candidatarem de novo à concessão da diuturnidade após decorridos mais cinco anos.
+Art. 4.º Aos especialistas aos quais não seja concedida a diuturnidade por não atingirem a classificação referida no n.º 2 do artigo 2.º é dada a faculdade de se candidatarem de novo à concessão da diuturnidade após decorridos mais cinco anos.
 
-**O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**
+O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

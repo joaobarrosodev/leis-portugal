@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/26902693.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/140/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2007-520986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:56:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a47379104f8b2a18a4955c0a8e0a91e001b02f7dbb09b0212f3254cd28a2e5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a6b39fef3ca4c6f9fd4d3c9931d67f284d3541a34f03d9b9552267e4ca5bd48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
+- Conselho Diretivo
 - Conselho Estratégico
 - Definição de Competências
-- Conselho Diretivo
+- Fiscal Único
+- IAPMEI
 - Ministério da Economia e da Inovação
 - Orgânica
 - Quadro de Pessoal
 - Secretário Geral
-- IAPMEI
 relationships:
 - type: amended_by
   target: pt:dre:190390:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:628856:por
+  label: "Transferidas as competências do INETI, I.P., de acordo com o art. 2º, transitando para o Instituto de Apoio às Pequenas\
+    \ e Médias Empresas I.P., cuja orgânica foi aprovada pelo presente diploma, as competências dos Centros de Informação\
+    \ Técnica para a Indústria, de Gestão e Engenharia de Formação, Direcção de Serviços de Apoio Técnico e de Manutenção,\
+    \ Direcção de Serviços de Informática e Comunicações e Gabinete de Trabalho das Participadas, bem como as participações\
+    \ sociais detidas pelo INETI, I.P., e o seu acervo patrimonial, nos termos dos nºs. 3, 4 e 5 do art. 3º, pelo DEC LEI.355/2007.29.10.2007.MEI,\
+    \ DR.IS [208] de 29.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/355-2007-628856
+  date: '2007-10-29'
+- type: amended_by
+  target: pt:dre:456799:por
+  label: "Transferidos os equipamentos inamovíveis do INETI, I.P. para o IAPMEI, I.P., cuja orgânica consta do presente diploma,\
+    \ pelo DEC LEI.139/2008.21.07.2008.MCTES, DR.IS [139] de 21.07.2008, sem prejuízo do disposto nos nºs 2 e 3 do respectivo\
+    \ art. 9º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-2008-456799
+  date: '2008-07-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/129/1999/04/21/p/dre
   label: null
@@ -99,16 +116,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:354114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:190390:por
+  label: "Revogado, a partir de 01.01.2013, pelo DEC LEI.266/2012.28.12.2012.MEE, DR.IS [251] de 28.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/266-2012-190390
+  date: '2012-12-28'
+- type: repeals
+  target: pt:numero:decreto-lei:35-A/2003
+  label: "Revoga, a partir de 01.05.2007, o Decreto-Lei n.º 35-A/2003, de 27 de Fevereiro, DR.IS-A [49]Supl\0\0"
+  source: null
+  date: '2003-02-27'
+- type: repeals
+  target: pt:numero:decreto-lei:191/2004
+  label: "Revoga, a partir de 01.05.2007, o Decreto-Lei n.º 191/2004, de 17 de Agosto, DR.IS-A [193]\0\0"
+  source: null
+  date: '2004-08-17'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:56:34Z'
   warnings: []
   errors: []
 ---
@@ -327,12 +383,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 11 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 4 de Abril de 2007.**
+Promulgado em 4 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 5 de Abril de 2007.**
+Referendado em 5 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

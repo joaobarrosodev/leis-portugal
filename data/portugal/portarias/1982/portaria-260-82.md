@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/260-1982-599936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T07:12:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a98a19e270453caa2c33464d8ef03fe3e04dd65160ac8f52fc46292466e865af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffe95a49da7fb1dd3f74169dceba0f4dfd70ccb1d175d5d64c32268d35a75d76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:12:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CIME
+- Gratificação
 relationships:
 - type: amended_by
   target: pt:dre:355508:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227982:por
+  label: "Alterado o n.º 4.º, pela PORT.384/86.23.07.1986.MF, DR.IS [167] de 23.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/384-1986-227982
+  date: '1986-07-23'
+- type: amended_by
+  target: pt:dre:355508:por
+  label: "Alterado o n.º 4.º, na redacção da Portaria n.º 384/86, de 23 de Julho, pela PORT.650/88.28.09.1988.MF, DR.IS [225]\
+    \ de 28.09.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/650-1988-355508
+  date: '1988-09-28'
+- type: cites
+  target: pt:dre:457619:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:12:12Z'
   warnings: []
   errors: []
 ---

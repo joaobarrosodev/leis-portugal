@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/22300/0000900026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/97/2020/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2020-148599584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b88d4ac3afef85d8c0a785f9aeefe87265a57b425cc675a1ca319425beafe8df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0c9227748229d7b41cf38727fb0883d35f5a58037dcbc7f9457c267a84f695e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armazenagem
-- Vinho
-- Indicação Geográfica
-- Denominação de Origem
+- Controlo Metrológico
 - Definição de Competências
+- Denominação de Origem
+- Embalagem
 - Engarrafador
 - Estatuto
 - Etiquetagem
+- Indicação Geográfica
 - Instituto da Vinha e do Vinho
-- Embalagem
-- Região Demarcada do Douro
-- Controlo Metrológico
-- Regulamento do Controlo Metrológico dos Reservatorios de Armazenamento de Instalação FIXA
 - Produto Vitivinícola
+- Região Demarcada do Douro
+- Regulamento do Controlo Metrológico dos Reservatorios de Armazenamento de Instalação FIXA
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:214724639:por
@@ -113,15 +113,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/413/2001/04/18/p/dre
 article_structure:
-  article_count: 48
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 23
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:40Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +166,9 @@ Os artigos 39.º e 42.º do estatuto das denominações de origem e indicação 
 
 5 - [...].
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...].
 
@@ -192,15 +194,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de outubro de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Maria do Céu de Oliveira Antunes Albuquerque.
 
-**Promulgado em 10 de novembro de 2020.**
+Promulgado em 10 de novembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de novembro de 2020.**
+Referendado em 11 de novembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -428,7 +430,9 @@ Indicação geográfica «Duriense»
 
 Na elaboração do vinho com direito à IG «Duriense» são seguidos as práticas e os tratamentos enológicos legalmente autorizados.
 
-###### Artigo 18.º — Título alcoométrico
+###### Artigo 18.º
+
+## Título alcoométrico
 
 Os vinhos com direito à IG «Duriense» devem ter um título alcoométrico volúmico adquirido mínimo de 10 % vol.
 
@@ -450,13 +454,17 @@ e) «Grande reserva».
 
 3 - Os critérios de apreciação sensorial das menções tradicionais são estabelecidos pelo IVDP, I. P., ouvido o conselho interprofissional.
 
-### CAPÍTULO III
+CAPÍTULO III
 
 Denominação de origem «Douro»
 
-#### SECÇÃO I — Disposições gerais
+SECÇÃO I
 
-###### Artigo 20.º — Práticas e tratamentos enológicos
+Disposições gerais
+
+Artigo 20.º
+
+Práticas e tratamentos enológicos
 
 1 - Sem prejuízo do regime previsto no presente estatuto para o Moscatel do Douro e para os vinhos espumantes, os métodos de vinificação a observar na elaboração dos vinhos suscetíveis de obtenção da DO «Douro» são os legalmente previstos.
 
@@ -466,7 +474,9 @@ a) Aumento do título alcoométrico volúmico natural, através da adição de m
 
 b) Concentração parcial de mostos oriundos da RDD nos termos dos métodos legalmente autorizados e cumprindo as características legalmente estabelecidas.
 
-###### Artigo 21.º — Título alcoométrico
+Artigo 21.º
+
+Título alcoométrico
 
 Os vinhos têm de apresentar um título alcoométrico volúmico adquirido mínimo de:
 
@@ -474,11 +484,15 @@ a) Vinhos brancos e rosados - 10,5 % vol;
 
 b) Vinhos tintos - 11 % vol.
 
-###### Artigo 22.º — Estágio
+Artigo 22.º
+
+Estágio
 
 O estágio dos vinhos é definido em regulamento do IVDP, I. P., aprovado pelo conselho interprofissional, a emitir no prazo de 180 dias.
 
-###### Artigo 23.º — Menções tradicionais
+Artigo 23.º
+
+Menções tradicionais
 
 1 - As menções tradicionais da DO «Douro», e sua disciplina, constam de regulamento do IVDP, I. P., aprovado pelo conselho interprofissional, a emitir no prazo de 180 dias.
 
@@ -498,17 +512,25 @@ f) «Reserva especial».
 
 3 - Os critérios de apreciação sensorial das menções tradicionais são estabelecidos pelo IVDP, I. P., ouvido o conselho interprofissional.
 
-#### SECÇÃO II — Moscatel do Douro
+SECÇÃO II
 
-###### Artigo 24.º — Aguardente de origem vitícola
+Moscatel do Douro
+
+Artigo 24.º
+
+Aguardente de origem vitícola
 
 A quantidade de aguardente de origem vitícola destinada a interromper a fermentação, de acordo com o grau de doçura desejado, é fixada anualmente no comunicado de vindima.
 
-###### Artigo 25.º — Título alcoométrico
+Artigo 25.º
+
+Título alcoométrico
 
 O Moscatel do Douro deve apresentar um título alcoométrico volúmico adquirido mínimo de 16,5 % vol. e máximo de 22,0 % vol.
 
-###### Artigo 26.º — Menções tradicionais
+Artigo 26.º
+
+Menções tradicionais
 
 1 - As menções tradicionais do vinho licoroso Moscatel do Douro e a sua disciplina constam de regulamento do IVDP, I. P., aprovado pelo conselho interprofissional, a emitir no prazo de 180 dias.
 
@@ -522,9 +544,13 @@ c) Indicação do ano de colheita.
 
 3 - Os critérios de apreciação sensorial das menções tradicionais são estabelecidos pelo IVDP, I. P., ouvido o conselho interprofissional.
 
-#### SECÇÃO III — Vinho espumante
+SECÇÃO III
 
-###### Artigo 27.º — Elaboração
+Vinho espumante
+
+Artigo 27.º
+
+Elaboração
 
 1 - O vinho espumante com direito à DO «Douro» deve obedecer aos seguintes requisitos:
 
@@ -536,7 +562,9 @@ c) A segunda fermentação alcoólica é obrigatoriamente realizada em garrafa.
 
 2 - A duração do processo de elaboração dos vinhos espumantes é contada a partir da segunda fermentação alcoólica, não podendo ser inferior a nove meses.
 
-###### Artigo 28.º — Menções tradicionais
+Artigo 28.º
+
+Menções tradicionais
 
 1 - As menções tradicionais do vinho espumante com direito à DO «Douro» e sua disciplina constam de regulamento do IVDP, I. P., aprovado pelo conselho interprofissional, a emitir no prazo de 180 dias.
 
@@ -554,9 +582,13 @@ e) «Colheita selecionada».
 
 3 - Os critérios de apreciação sensorial das menções tradicionais são estabelecidos pelo IVDP, I. P., ouvido pelo conselho interprofissional.
 
-#### SECÇÃO IV — Aguardente vínica
+SECÇÃO IV
 
-###### Artigo 29.º — Elaboração
+Aguardente vínica
+
+Artigo 29.º
+
+Elaboração
 
 1 - A produção de aguardentes vínicas com direito à DO «Douro» deve resultar da destilação de vinho proveniente da RDD.
 
@@ -564,11 +596,13 @@ e) «Colheita selecionada».
 
 3 - As características físicas, químicas e organoléticas devem cumprir as disposições legais aplicáveis.
 
-### CAPÍTULO IV
+CAPÍTULO IV
 
 Denominação de origem «Porto»
 
-###### Artigo 30.º — Práticas e tratamentos enológicos
+Artigo 30.º
+
+Práticas e tratamentos enológicos
 
 1 - A elaboração do vinho do Porto deve respeitar os métodos e práticas enológicas legalmente autorizados, incluindo a regulamentação do IVDP, I. P., e o disposto no comunicado de vindima, devendo ser realizada no interior da RDD.
 
@@ -576,7 +610,9 @@ Denominação de origem «Porto»
 
 3 - A quantidade de aguardente de origem vitícola destinada a interromper a fermentação, de acordo com o grau de doçura desejado, é fixada anualmente no comunicado de vindima.
 
-###### Artigo 31.º — Características analíticas
+Artigo 31.º
+
+Características analíticas
 
 1 - O título alcoométrico volúmico potencial natural médio dos mostos é no mínimo de 11 % vol.
 
@@ -586,7 +622,9 @@ Denominação de origem «Porto»
 
 4 - O vinho do Porto branco leve seco pode ter, no mínimo, 16,5 % vol.
 
-###### Artigo 32.º — Estágio
+Artigo 32.º
+
+Estágio
 
 1 - O vinho tem o estágio mínimo legalmente estabelecido, competindo ao IVDP, I. P., o controlo desta idade média mínima e da qualidade mínima dos vinhos.
 
@@ -596,7 +634,9 @@ Denominação de origem «Porto»
 
 4 - As regras de conservação e envelhecimento constam de regulamentação do IVDP, I. P., aprovada pelo conselho interprofissional.
 
-###### Artigo 33.º — Tipos e menções tradicionais
+Artigo 33.º
+
+Tipos e menções tradicionais
 
 1 - Os tipos de vinhos do Porto, designadamente tawny, ruby, branco ou white e rosé ou rosado e as suas menções tradicionais, bem como a sua disciplina, constam de regulamento do IVDP, I. P., aprovado pelo conselho interprofissional, a emitir no prazo de 180 dias.
 
@@ -616,7 +656,9 @@ f) «Reserva» ou «reserve».
 
 3 - Os critérios de apreciação sensorial, em especial das menções tradicionais integradas nas categorias especiais, são estabelecidos pelo IVDP, I. P., ouvido o conselho interprofissional.
 
-###### Artigo 34.º — Atividade comercial
+Artigo 34.º
+
+Atividade comercial
 
 1 - Todas as pessoas singulares ou coletivas que se dediquem à venda de vinho do Porto ficam obrigadas a fazer a sua inscrição em registo apropriado existente no IVDP, I. P., e devem satisfazer as seguintes condições:
 
@@ -630,7 +672,9 @@ d) Respeitar as regras de capacidade de vendas fixadas em função das existênc
 
 2 - O limite mínimo de existências fixado na alínea b) do número anterior não é exigível em relação aos proprietários que comercializem vinho engarrafado exclusivamente elaborado com uvas produzidas em propriedades suas.
 
-###### Artigo 35.º — Capacidade de vendas inicial
+Artigo 35.º
+
+Capacidade de vendas inicial
 
 1 - A capacidade de vendas em cada ano (n) das entidades referidas no artigo anterior é calculada em função das existências registadas em seu nome no IVDP, I. P., em 31 de dezembro do ano anterior (n - 1) e é fixada, para além do previsto no artigo 36.º, no quantitativo obtido pela adição dos quantitativos referidos nas alíneas seguintes:
 
@@ -644,7 +688,9 @@ d) A percentagem da fórmula A/B = 30/x, se os vinhos adquiridos ou elaborados n
 
 2 - Por vinhos adquiridos ou elaborados entendem-se aqueles que satisfaçam os preceitos regulamentares estabelecidos pelo IVDP, I. P., ouvido o conselho interprofissional.
 
-###### Artigo 36.º — Capacidade de vendas adquirida
+Artigo 36.º
+
+Capacidade de vendas adquirida
 
 1 - Os comerciantes podem, durante cada ano (n), adquirir capacidade de vendas pela compra à produção, incluindo a Casa do Douro, de vinhos generosos suscetíveis de obter a DO «Porto», os quais atribuem, conforme a idade, a seguinte capacidade de vendas:
 
@@ -664,7 +710,9 @@ e) De mais de 6 anos de idade - 100 %.
 
 4 - Os vinhos em poder da produção ficam em regime de contas correntes no IVDP, I. P., de acordo com a legislação em vigor, para efeitos de controlo e confirmação de idade, se a merecerem.
 
-###### Artigo 37.º — Cedências de vinho com capacidade de vendas
+Artigo 37.º
+
+Cedências de vinho com capacidade de vendas
 
 1 - São admitidas cedências de vinhos entre comerciantes acompanhadas da respetiva capacidade de vendas até ao limite de 20 % da capacidade de vendas do adquirente determinada nos termos do artigo 35.º
 
@@ -674,15 +722,21 @@ e) De mais de 6 anos de idade - 100 %.
 
 4 - Os vinhos a serem cedidos têm de ser previamente submetidos à apreciação do IVDP, I. P., e devem estar em condições de lhe ser atribuída a DO «Porto».
 
-###### Artigo 38.º — Liquidação
+Artigo 38.º
+
+Liquidação
 
 1 - O regime estabelecido nos artigos 35.º a 37.º do presente estatuto não é aplicável às entidades que se encontrem em regime de liquidação segundo as regras definidas pelo IVDP, I. P.
 
 2 - Às entidades que entrarem em regime de liquidação deve o IVDP, I. P., recusar a sua reinscrição, com a decorrente inibição do exercício daquela atividade pelo prazo de cinco anos, contando-se este do termo da liquidação.
 
-### CAPÍTULO V — Disposições finais
+CAPÍTULO V
 
-###### Artigo 39.º — Instalações de armazenagem
+Disposições finais
+
+Artigo 39.º
+
+Instalações de armazenagem
 
 1 - Sem prejuízo da legislação geral aplicável, todas as entidades que se dediquem à produção ou comercialização de vinhos e de outros produtos vitivinícolas abrangidos pelo presente estatuto, excluída a distribuição dos produtos engarrafados e a venda a retalho, são obrigadas a dispor de instalações de armazenagem inscritas, aprovadas e sujeitas ao controlo do IVDP, I. P., e nas quais devem manter registos atualizados nos termos a definir por este Instituto.
 
@@ -694,7 +748,9 @@ e) De mais de 6 anos de idade - 100 %.
 
 5 - Em caso de coexistência dos diferentes produtos abrangidos pelo presente estatuto numa mesma instalação, os mesmos devem ser armazenados em recipientes devidamente identificados, permitindo um controlo fácil e eficiente.
 
-###### Artigo 40.º — Uvas, mostos, vinhos, produtos vínicos ou afins não provenientes da RDD ou do EG
+Artigo 40.º
+
+Uvas, mostos, vinhos, produtos vínicos ou afins não provenientes da RDD ou do EG
 
 1 - Salvo autorização do IVDP, I. P., e sem prejuízo da legislação aplicável à uva de mesa e ao consagrado no presente estatuto quanto aos mostos, é proibida a entrada na RDD ou no EG de uvas e mostos.
 
@@ -702,11 +758,15 @@ e) De mais de 6 anos de idade - 100 %.
 
 3 - Aos vinhos e produtos vínicos ou afins abrangidos pelo presente artigo aplica-se, nos termos a regulamentar pelo IVDP, I. P., o disposto no n.º 5 do artigo anterior.
 
-###### Artigo 41.º — Circulação e documentação de acompanhamento
+Artigo 41.º
+
+Circulação e documentação de acompanhamento
 
 Os vinhos e produtos vínicos a que se refere o presente estatuto só podem ser postos em circulação e comercializados desde que sejam acompanhados da necessária documentação oficial.
 
-###### Artigo 42.º — Engarrafamento e rotulagem
+Artigo 42.º
+
+Engarrafamento e rotulagem
 
 1 - O engarrafamento e acondicionamento para venda ou introdução no consumo de vinhos e produtos vínicos a que se refere o presente estatuto, bem como a respetiva rotulagem, só podem efetuar-se após aprovação dos referidos produtos e da sua rotulagem pelo IVDP, I. P.
 
@@ -722,16 +782,24 @@ Os vinhos e produtos vínicos a que se refere o presente estatuto só podem ser 
 
 7 - A natureza dos vedantes a utilizar no engarrafamento, o tipo e a dimensão da garrafa ou, no caso da DO «Douro» e da IG «Duriense», de outra forma de acondicionamento, são definidos pelo IVDP, I. P., e aprovados pelo conselho interprofissional.
 
-###### Artigo 43.º — Selos de garantia
+Artigo 43.º
+
+Selos de garantia
 
 1 - Os produtos abrangidos pelo presente estatuto só podem ser comercializados exibindo nos recipientes o respetivo selo de garantia, aprovado e emitido pelo IVDP, I. P., com modelos publicados na 2.ª série do Diário da República, e dimensões a estabelecer pelo IVDP, I. P., ouvido o conselho interprofissional.
 
 2 - Os selos de garantia são numerados sequencialmente, para permitirem um adequado controlo de utilização, podendo ainda conter outras marcas de controlo, a definir pelo IVDP, I. P.
 
-## ANEXO I — (a que se refere o n.º 1 do artigo 3.º do estatuto)
+ANEXO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/11/22300/0000900026.pdf))](https://files.diariodarepublica.pt/1s/2020/11/22300/0000900026.pdf)
+(a que se refere o n.º 1 do artigo 3.º do estatuto)
 
-## ANEXO II — (a que se refere o n.º 5 do artigo 4.º do estatuto)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/11/22300/0000900026.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/11/22300/0000900026.pdf))](https://files.diariodarepublica.pt/1s/2020/11/22300/0000900026.pdf)
+ANEXO II
+
+(a que se refere o n.º 5 do artigo 4.º do estatuto)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/11/22300/0000900026.pdf)
+
+113728564

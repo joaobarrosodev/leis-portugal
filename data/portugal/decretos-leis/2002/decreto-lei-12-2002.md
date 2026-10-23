@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/12/2002/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2002-239259
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ae2f7a95914504d20f53c3103baa4204a984ef981aa33df78891f97a7b39f71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1cad6029fd67336526d979bc50071d7f0001b91c259ac90a3ed49be31c924570
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pocissss
+- Contabilidade Pública
 - Instituições de Segurança Social
 - Plano de Contas
+- Pocissss
 - Proteção Social
 - Segurança Social
-- Contabilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:70262478:por
@@ -84,16 +84,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/232/1997/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/232/1997/09/03/p/dre
+- type: cites
+  target: pt:dre:233093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641123:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70262478:por
+  label: Revogado, com efeitos a 01.01.2017, o presente diploma, pelo(a) Decreto-Lei n.º 192/2015 - Diário da República n.º
+    178/2015, Série I de 2015-09-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-2015-70262478
+  date: '2015-09-11'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:07Z'
   warnings: []
   errors: []
 ---
@@ -178,15 +204,15 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 2002.
 
 Visto e aprovado em Conselho de Ministros de 11 de Outubro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Paulo José Fernandes Pedroso.
 
-**Promulgado em 21 de Dezembro de 2001.**
+Promulgado em 21 de Dezembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Dezembro de 2001.**
+Referendado em 27 de Dezembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 PLANO OFICIAL DE CONTABILIDADE DAS INSTITUIÇÕES DO SISTEMA DE SOLIDARIEDADE E DE SEGURANÇA SOCIAL
 
@@ -564,11 +590,11 @@ As diferenças de câmbio apuradas na data de elaboração do balanço final do 
 
 5 - Balanço
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 6 - Demonstração de resultados
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 7 - Notas ao mapa de controlo orçamental
 
@@ -590,7 +616,7 @@ Faculta informação designadamente sobre:
 
 «Grau de execução orçamental» - percentagem de realização das despesas pagas em relação às dotações do orçamento corrigido.
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 7.2 - Controlo orçamental - Receita
 
@@ -616,7 +642,7 @@ Faculta informação designadamente sobre:
 
 «Grau de execução orçamental» - percentagem das receitas cobradas líquidas em relação às previsões corrigidas.
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 7.3 - Nota aos fluxos de caixa
 
@@ -626,27 +652,27 @@ Nele se evidenciam, também, os correspondentes saldos (da gerência anterior e 
 
 As receitas e despesas orçamentais serão desagregadas de acordo com a discriminação constante do orçamento.
 
-[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 7.4 - Situação financeira (ver nota a)
 
 (nota a) Facultativo.
 
-[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 7.5 - Descontos e retenções
 
-[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 7.6 - Desenvolvimento das despesas com o pessoal (ver nota a)
 
 (nota a) Facultativo.
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 7.7 - Orçamento anual
 
-[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 8 - Anexos às demonstrações financeiras
 
@@ -700,7 +726,7 @@ c) Por provisões extraordinárias respeitantes ao activo.
 
 8.2.7 - Movimentos ocorridos nas rubricas do activo imobilizado constantes do balanço e nas respectivas amortizações e provisões, de acordo com os quadros, dos tipos seguintes:
 
-[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 8.2.8 - Cada uma das rubricas dos mapas atrás referidos deverá ser desagregada de modo que sejam evidenciadas as seguintes informações:
 
@@ -726,7 +752,7 @@ Valores líquidos dos elementos do activo imobilizado.
 
 8.2.11 - Elaboração de um quadro discriminativo das reavaliações, conforme mapa anexo.
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 8.2.12 - Relativamente às imobilizações corpóreas e em curso:
 
@@ -776,23 +802,23 @@ b) Discriminação dos custos financeiros nelas capitalizados respeitantes ao ex
 
 8.2.29 - Descrição das responsabilidades da entidade por garantias prestadas, desdobrando-as de acordo com a natureza destas e mencionando expressamente as garantias reais, bem como os avales prestados de acordo com um mapa do tipo seguinte.
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 8.2.30 - Indicação da diferença, quando levada ao activo, entre as importânicas das dívidas a pagar e as correspondentes quantias arrecadadas.
 
 8.2.31 - Desdobramento das contas de provisões acumuladas explicitando os movimentos ocorridos no exercício, de acordo com um quadro do seguinte tipo.
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 8.2.32 - Explicitação e justificação dos movimentos ocorridos em cada uma das contas da classe 5 - «Fundo patrimonial», constantes do balanço.
 
 8.2.33 - Demonstração do custo das mercadorias vendidas e das matérias consumidas, de acordo com o mapa do tipo seguinte:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 8.2.34 - Demonstração da variação da produção conforme mapa do tipo seguinte:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 8.2.35 - Repartição do valor líquido das vendas e das prestações de serviços, registados na conta 71 - «Vendas e prestações de serviços», por actividades e por mercados (interno e externo), na medida em que tais actividades e mercados sejam consideravelmente diferentes.
 
@@ -800,11 +826,11 @@ b) Discriminação dos custos financeiros nelas capitalizados respeitantes ao ex
 
 8.2.37 - Demonstração dos resultados financeiros, como segue:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 8.2.38 - Demonstração dos resultados extraordinários, como segue:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 8.2.39 - Outras informações consideradas relevantes para melhor compreensão da posição financeira e dos resultados.
 
@@ -828,7 +854,7 @@ Modificações na redacção da rubrica;
 
 «Dotações corrigidas» - importâncias correspondentes aos valores finais colocados à disposição da entidade.
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 2 - Receita. - Têm por finalidade evidenciar as modificações ocorridas no orçamento inicial durante o exercício, devendo a rubrica «Classificação económica» apresentar um grau de desagregação idêntico ao do orçamento inicial, com as alterações posteriormente ocorridas, e ser organizada de forma a evidenciar as receitas gerais do orçamento e as receitas próprias.
 
@@ -844,7 +870,7 @@ Outras alterações orçamentais, individualizando as decorrentes de inscriçõe
 
 «Previsões corrigidas» - valores finais relativos à previsão das receitas a cobrar. Inclui o valor das reposições não abatidas nos pagamentos.
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 8.3.2 - Contratação administrativa:
 
@@ -856,7 +882,7 @@ Revisão de preços;
 
 Trabalhos a mais.
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 2 - Formas de adjudicação. - Informação no que respeita a cada tipo de contrato sobre as modalidades de adjudicação:
 
@@ -876,7 +902,7 @@ Ajuste directo.
 
 Deverá ser referenciado o número e valor dos contratos adjudicados no exercício.
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 8.3.3 - Execução de programas e projectos de investimentos. - Informação para cada programa e projecto de investimento:
 
@@ -890,7 +916,7 @@ Execução financeira no exercício.
 
 Indicação das entidades gestoras do programa/projecto, mencionando-se ainda particularidades dos meios financeiros a mobilizar e as alterações registadas ao programa/projecto iniciais (valor, fontes de financiamento, duração).
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 8.3.4 - Transferências e subsídios. - Pretende-se informação sobre transferências e subsídios correntes e de capital, subordinada aos seguintes aspectos:
 
@@ -914,7 +940,7 @@ Devolução de subsídios ocorrida no exercício, por incumprimento de condiçõ
 
 Outros elementos considerados relevantes.
 
-[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 8.3.5 - Aplicações em activos de rendimento fixo e variável. - Informação para cada tipo de activos, distinguindo entre os activos de curto e os de médio e longo prazos:
 
@@ -926,7 +952,7 @@ Valor dos rendimentos vencidos e recebidos;
 
 Valor dos rendimentos vencidos e não recebidos até final do exercício.
 
-[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 8.3.6 - Endividamento. - Informação sobre o nível de endividamento das instituições do sistema de solidariedade e de segurança social em resultado dos empréstimos titulados e não titulados contraídos pela entidade, considerando o prazo inicial (curto e médio e longo prazos) e a moeda (nacional ou estrangeira):
 
@@ -960,7 +986,7 @@ As diferenças de câmbio registadas no exercício serão levadas às colunas de
 
 Câmbio em 31 de Dezembro de cada ano e valor da dívida na mesma data.
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
+[[[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)](https://files.diariodarepublica.pt/1s/2002/01/021a00/05360592.pdf)
 
 8.4 - Notas sobre a contabilidade analítica
 

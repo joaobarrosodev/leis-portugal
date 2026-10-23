@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 141/1978, 1º Suplemento, Série I de 1978-06-22
   number: '141'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1098-(2) a 1098-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf
 entry_into_force_dates: []
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/140-a-1978-259204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T06:42:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fa9f1a609b9fa92ebf4f727c8dcec7f8e540e512477dc6c32de5dd426de203b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7dd76f4b0f248681046b5ba4048c296129dde3605117a0222ee3dbc179306a45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:42:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Currículo Nacional
+- Ensino Secundário
+- Plano de Estudos
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:269617:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:296816:por
+  label: Aditado o n.º 4.1 pelo(a) Despacho Normativo n.º 168/78 - Diário da República n.º 174/1978, Série I de 1978-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/168-1978-296816
+  date: '1978-07-31'
+- type: amended_by
+  target: pt:dre:269617:por
+  label: "Substituídos os anexos I e II do presente diploma, mantendo-se em vigor as restantes disposições e anexos não contrariados\
+    \ pelo DN.135-A/79.05.06.1979.MEIC, DR.IS [140-Supl] de 20.06.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/135-a-1979-269617
+  date: '1979-06-05'
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:297050:por
+  label: Rectificado pela DECL.DD7631.28.07.1978.PCM, DR.IS [172] de 28.07.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-297050
+  date: '1978-07-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:42:21Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +180,7 @@ Ministério da Educação e Cultura, 15 de Junho de 1978. - O Ministro da Educa�
 
 ## ANEXO I — A - Área de estudos científico-naturais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 a) A formação vocacional orienta-se para: desporto, indústrias alimentares, produção agrícola, produção animal, pescas, quimicotecnia e saúde.
 
@@ -164,7 +188,7 @@ b) Esta área de estudos permitirá o acesso aos seguintes cursos do ensino supe
 
 B - Área de estudos científico-tecnológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 a) A formação vocacional orienta-se para: construção civil, electrotecnia, mecanotecnia, e têxtil.
 
@@ -172,7 +196,7 @@ b) Esta área de estudos permitirá o acesso aos seguintes cursos do ensino supe
 
 C - Área de estudos económico-sociais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 a) A formação vocacional orienta-se para: contabilidade e administração, informática e secretariado.
 
@@ -182,7 +206,7 @@ c) O acesso aos cursos de História e de História-Ciências Sociais (curso de f
 
 D - Área de estudos humanísticos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 a) A formação vocacional orienta-se para: direito e administração pública, informação e documentação, línguas estrangeiras, relações públicas e secretariado.
 
@@ -190,7 +214,7 @@ b) Esta área de estudos permitirá o acesso aos seguintes cursos do ensino supe
 
 E - Área de estudos das artes visuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 a) A formação vocacional orienta-se para: artes e técnicas de fogo, artes e técnicas dos tecidos, equipamento e interiores, artes e técnicas gráficas, imagem e comunicação áudio-visual, introdução às artes plásticas, design e arquitectura.
 
@@ -202,17 +226,17 @@ b) Esta área de estudos permitirá o acesso aos seguintes cursos do ensino supe
 
 Formação vocacional - produção agrícola
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 Nota. - A divisão em turnos refere-se apenas à via de desenvolvimento forte.
 
 Formação vocacional - produção agrícola (regime florestal)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 Formação vocacional - produção animal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 Nota 1. - Escolas especialmente vocacionadas poderão acrescentar duas horas à disciplina de Zoologia.
 
@@ -220,31 +244,31 @@ Nota 2. - A divisão em turnos refere-se apenas à via de desenvolvimento forte.
 
 Formação vocacional - Indústrias alimentares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 Nota. - A divisão em turnos refere-se apenas à via de desenvolvimento forte.
 
 Formação vocacional - Pescas oceânicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 Formação vocacional - Pescas (interiores)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 Currículo da formação vocacional - Quimicotecnia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 Nota. - Todas as aulas de duas horas prevêem uma divisão de dois turnos.
 
 Formação vocacional - Saúde
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 Formação vocacional - Desporto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 B
 
@@ -252,37 +276,37 @@ B
 
 Currículo da formação vocacional - Têxtil C
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 Nota. - Para funcionar na Escola Industrial do Infante D. Henrique.
 
 Currículo da formação vocacional - Têxtil B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 Nota. - Para funcionar na Escola Industrial e Comercial de Guimarães.
 
 Currículo da formação vocacional - Electrotecnia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 Currículo da formação vocacional - Mecanotecnia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 Currículo da formação vocacional - Construção civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 Currículo da formação vocacional - Electrónica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 Nota. - Na Escola Industrial de Fonseca de Benevides a disciplina de Electrónica Aplicada poderá funcionar com mais duas horas em cada ano.
 
 Currículo da formação vocacional - Têxtil A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 Nota 1. - Para funcionar na Escola Técnica da Covilhã.
 
@@ -292,15 +316,15 @@ C
 
 Formação vocacional - Secretariado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 Formação vocacional - Contabilidade e Administração
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 Formação vocacional - Informática
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 D
 
@@ -308,7 +332,7 @@ D
 
 Formação vocacional - Música
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 Currículo variável conforme as línguas que os alunos iniciarem:
 
@@ -318,7 +342,7 @@ Currículo variável conforme as línguas que os alunos iniciarem:
 
 Formação vocacional - Orientada pela Secret. de Línguas Estrang., jornalismo, Admin. Públicas, Turismo, etc.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 E
 
@@ -326,47 +350,47 @@ E
 
 Formação vocacional - Introdução às artes visuais e à arquitectura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 Formação vocacional - Artes e técnicas gráficas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 ## ANEXO III — QUADRO I
 
 A - Área de estudos científico-naturais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 QUADRO II
 
 B - Área de estudos científico-tecnológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 QUADRO III
 
 Cursos com acesso simultâneo pelas áreas de estudos científico-naturais e científico-tecnológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 QUADRO IV
 
 C - Área de estudos económico-sociais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 QUADRO V
 
 D - Área de estudos humanísticos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 QUADRO VI
 
 Área de estudos humanísticos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14101/00020016.pdf)
 
 QUADRO VII
 
@@ -374,4 +398,4 @@ Licenciatura em Filosofia e cursos da escola do magistério primário e escolas 
 
 O acesso a estes cursos poderá ser feito através de qualquer das cinco áreas de estudo previstas no n.º 2 deste despacho, independentemente da disciplina opcional escolhida na área de estudos em que se inscrever.
 
-**O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia.**
+O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia.

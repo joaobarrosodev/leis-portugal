@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00600/00220022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19-1980-582004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:12:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f14f6b56b2423c8424bdf42e75c64bce4ce63551a0f7c6c9ef0956c78220c42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 807aaa8e8b755484271e997b9df230e42674e63d344142c1ba36583ef7a3f626
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:12:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- BENS de Consumo
+- Comércio
+- Mercado Interno
+- Política de Preços
+- Preço Declarado
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:459006:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:459006:por
+  label: "Revogada pela PORT.1007/80.26.11.1980.MCT, DR.IS [274] de 26.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1007-1980-459006
+  date: '1980-11-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:12:56Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +124,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comérci
 
 2.º - 1 - Os preços máximos de venda no armazém do fabricante ou do consignatário e de venda ao público são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/00600/00220022.pdf))](https://files.diariodarepublica.pt/1s/1980/01/00600/00220022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/01/00600/00220022.pdf)
 
 2.º É revogado o n.º 7.º da [Portaria n.º 173/79](https://diariodarepublica.pt/dr/detalhe/portaria/173-1979-515836), de 11 de Abril.
 

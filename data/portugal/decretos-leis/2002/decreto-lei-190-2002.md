@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/190/2002/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2002-627263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81e2bdfdc1aff7471828b568c3b619ff5bb947e2c9367873c6b2c0d12234abfd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b72df80cd7b17365045afff67476eca4aa828c1722d409037d8e58b02bec3b34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,12 @@ relationships:
   target: pt:dre:572398:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:572398:por
+  label: "Alterado o nº 1º da Port 722-E11/92 de 15-Jul, na redacção dada pelo presente diploma, pela PORT.369/2003.2003.05.05.MADRP,\
+    \ DR.IS-B [103]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/369-2003-572398
+  date: '2003-05-05'
 - type: cites
   target: celex:31979L0409
   label: null
@@ -88,13 +94,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:37Z'
   warnings: []
   errors: []
 ---
@@ -125,12 +131,12 @@ O presente diploma produz os seus efeitos a partir da data da entrada em vigor d
 
 Visto e aprovado em Conselho de Ministros de 4 de Julho de 2002. - José Manuel Durão Barroso - Paulo Sacadura Cabral Portas - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.
 
-**Promulgado em 16 de Agosto de 2002.**
+Promulgado em 16 de Agosto de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Agosto de 2002.**
+Referendado em 22 de Agosto de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

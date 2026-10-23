@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/79/2002/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2002-300611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2427e58c78e05d1b686085f03df1a37e5921b5cf5a55446db2c313fdced930e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24d499846a33ef93a0ad6fc11ad9329f1e45735e08685f0dc92461c55e43b64d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto Nacional de Formação e Estudos do Desporto
 - Conselho Nacional Antidopagem
-- Ministério da Juventude e do Desporto
 - Instituto do Desporto de Portugal
+- Instituto Nacional de Formação e Estudos do Desporto
+- Ministério da Juventude e do Desporto
 - Orgânica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/217/2001/08/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/217/2001/08/03/p/dre
+- type: cites
+  target: pt:dre:375402:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:24Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +135,9 @@ f) ...
 
 3 - ...
 
-###### Artigo 13.º — Instituto Nacional de Formação e Estudos do Desporto
+Artigo 13.º
+
+Instituto Nacional de Formação e Estudos do Desporto
 
 1 - ...
 
@@ -153,7 +159,9 @@ g) ...
 
 3 - ...
 
-###### Artigo 16.º — Conselho Nacional Antidopagem
+Artigo 16.º
+
+Conselho Nacional Antidopagem
 
 1 - O Conselho Nacional Antidopagem (CNAD) é o órgão responsável pela organização e coordenação, a nível nacional, das acções de prevenção e de combate à dopagem no desporto.
 
@@ -163,12 +171,12 @@ g) ...
 
 Visto e aprovado em Conselho de Ministros de 17 de Janeiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Alberto de Sousa Martins - José Manuel Lello Ribeiro de Almeida.
 
-**Promulgado em 11 de Março de 2002.**
+Promulgado em 11 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Março de 2002.**
+Referendado em 14 de Março de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

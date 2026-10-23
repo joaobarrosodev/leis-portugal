@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/119a00/29913007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/164/2001/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-2001-340234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 550947d20e2edac37a96ab652593ece2cb42a33a5017c499578a09414e76ad04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab33b8d3d48a067063b298369f0c7331d39e783e4a408a72af44bfa50c79c337
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Acidente Ecológico
 - Acidente Nuclear
+- Açores
 - Aproximação das Legislações
-- Proteção Civil
+- Autoridade Nacional de Protecção Civil
+- Catástrofe
 - Comissão Consultiva para a Prevenção e Controlo de Riscos e Acidentes Graves
-- Serviço Nacional de Protecção Civil
 - Contra-ordenação
 - Definição de Competências
-- Acidente Ecológico
 - Direcção Geral do Ambiente
-- Saúde Pública
 - Estabelecimento Industrial
-- Segurança no Trabalho
-- Catástrofe
 - Inspecção Geral do Ambiente
-- Proteção do Ambiente
-- Política do Ambiente
 - Madeira.região Autónoma
+- Política do Ambiente
+- Proteção Civil
+- Proteção do Ambiente
 - Regime Jurídico
 - Sanção
-- Autoridade Nacional de Protecção Civil
-- Açores
+- Saúde Pública
+- Segurança no Trabalho
+- Serviço Nacional de Protecção Civil
 relationships:
 - type: amended_by
   target: pt:dre:628828:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226807:por
+  label: "Aditado o art 47º-A pelo DEC LEI.69/2003.2003.04.10.MECO, DR.IS-A [85]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2003-226807
+  date: '2003-04-10'
 - type: cites
   target: celex:31967L0548
   label: null
@@ -140,16 +145,28 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/
   label: null
   source: http://data.europa.eu/eli/dir/
+- type: corrected_by
+  target: pt:dre:571973:por
+  label: "Rectificado pela DECL-RECT.13-R/2001.2001.06.30.PCM DR.IS-A [150]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-r-2001-571973
+  date: '2001-06-30'
+- type: repealed_by
+  target: pt:dre:636175:por
+  label: "Revogado a partir de 17.07.2007, com as alterações do art. 30º do Dec Lei 69/2003 de 10-Abr, aplicando-se contudo\
+    \ o disposto no presente diploma, aos procedimentos já iniciados e ainda não concluídos, pelo DEC LEI.254/2007.12.07.2007.MAOTDR,\
+    \ DR.IS [133] de 12.07.2007, à data da sua entrada em vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2007-636175
+  date: '2007-07-12'
 article_structure:
   article_count: 50
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:08Z'
   warnings: []
   errors: []
 ---
@@ -908,15 +925,15 @@ b) 30% para o SNPC.
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Mário Cristina de Sousa - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 8 de Maio de 2001.**
+Promulgado em 8 de Maio de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Maio de 2001.**
+Referendado em 10 de Maio de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Âmbito de aplicação
 
@@ -932,19 +949,19 @@ Este anexo I diz respeito à presença de substâncias perigosas em qualquer est
 
 4 - As regras enunciadas na nota 4 da parte 2, que regem a adição de substâncias perigosas ou de categorias de substâncias perigosas, aplicar-se-ão nos casos pertinentes.
 
-# PARTE 1 — Substâncias designadas
+## PARTE 1 — Substâncias designadas
 
 No caso de uma substância ou grupo de substâncias enumerados na parte 1 serem igualmente abrangidos por uma categoria da parte 2, devem ser consideradas as quantidades de limiar estabelecidas na parte 1.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/119a00/29913007.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/119a00/29913007.pdf)](https://files.diariodarepublica.pt/1s/2001/05/119a00/29913007.pdf)](https://files.diariodarepublica.pt/1s/2001/05/119a00/29913007.pdf)
 
 Factores internacionais de toxicidade equivalente (ITEF - International Toxic Equivalent Factors) para os congéneres de preocupação (NATO/CCMS).
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/119a00/29913007.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/119a00/29913007.pdf)](https://files.diariodarepublica.pt/1s/2001/05/119a00/29913007.pdf)](https://files.diariodarepublica.pt/1s/2001/05/119a00/29913007.pdf)
 
-# PARTE 2 — Categorias de substâncias e preparações não designadas especificamente na parte 1
+## PARTE 2 — Categorias de substâncias e preparações não designadas especificamente na parte 1
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/119a00/29913007.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/119a00/29913007.pdf)](https://files.diariodarepublica.pt/1s/2001/05/119a00/29913007.pdf)](https://files.diariodarepublica.pt/1s/2001/05/119a00/29913007.pdf)
 
 Notas
 
@@ -1100,7 +1117,7 @@ vii) Controlo e análise: adopção e aplicação de procedimentos destinados à
 
 ## ANEXO IV — Dados e informações que devem constar dos planos de emergência internos e externos
 
-# PARTE 1 — Planos de emergência internos
+## PARTE 1 — Planos de emergência internos
 
 a) Nome e cargo da(s) pessoa(s) autorizada(s) a desencadear procedimentos de emergência e do responsável pela aplicação de medidas de mitigação no estabelecimento e respectiva coordenação.
 
@@ -1116,7 +1133,7 @@ f) Disposições relativas à formação do pessoal para as tarefas que poderá 
 
 g) Disposições destinadas a apoiar as medidas mitigadoras tomadas no exterior do estabelecimento.
 
-# PARTE 2 — Planos de emergência externos
+## PARTE 2 — Planos de emergência externos
 
 a) Nome e cargo das pessoas habilitadas a desencadear procedimentos de emergência e da pessoas autorizadas a dirigir e coordenar as acções fora do estabelecimento.
 
@@ -1156,7 +1173,9 @@ g) Disposições destinadas a assegurar a prestação de informações aos servi
 
 11 - Descrição dos meios concretos e disponíveis para efeito de obtenção de quaisquer informações relevantes, sem prejuízo da protecção das matérias confidenciais, nos termos da legislação aplicável.
 
-## ANEXO VI — PARTE I
+## ANEXO VI
+
+## PARTE I
 
 Critérios para a notificação de acidentes à Comissão Europeia
 
@@ -1212,7 +1231,7 @@ ii) Danos materiais no exterior do estabelecimento: a partir de 0,5 milhões de 
 
 II - Devem ser notificados à Comissão os acidentes ou «quase acidentes» que, do ponto de vista da DGA, apresentem, para a prevenção de acidentes graves e para a limitação das respectivas consequências, um interesse técnico específico e que não correspondam aos critérios quantitativos acima referidos.
 
-# PARTE II — Informações para a notificação de acidentes à Comissão Europeia
+## PARTE II — Informações para a notificação de acidentes à Comissão Europeia
 
 a) Identificação do Estado Português e da DGA, como autoridade responsável pela elaboração do relatório do acidente.
 

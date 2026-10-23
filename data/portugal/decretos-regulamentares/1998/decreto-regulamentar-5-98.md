@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/084b00/15581567.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/5/1998/04/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1998-167382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce683c4ba72ac72f0ef552bd90e19ff0de43c98ce4dbb23a2898adfa467c1488
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b93bd9101ac0094ae995591cd7a60a92826d7a6cd73eeaee6032a6f289949cbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,57 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Formação Profissional
-- Multa
 - Contra-ordenação
 - Direcção Geral de Viação
 - Ensino de Condução
 - Escola de Condução
+- Formação Profissional
 - Instrutor de Condução
 - Licenciamento
-- Veículo
+- Multa
 - Regime Jurídico
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:571931:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:656080:por
+  label: "Alterado o nº 5 do art. 24º e o art. 44º pelo DR.20/2000.2000.12.19.MAI,DR.IS-B [291]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/20-2000-656080
+  date: '2000-12-19'
+- type: amended_by
+  target: pt:dre:277126:por
+  label: "Alterado o art. 34.º, com a redacção dada pelo DR 20/2000, de 19-Dez, e aditados os arts. 34.º-A, 34.º-B e 39.º-A,\
+    \ pelo DR.22/2004.07.06.2004.MAI, DR.IS-B [133] de 07.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/22-2004-277126
+  date: '2004-06-07'
 - type: cites
   target: celex:31991L0439
   label: null
   source: http://data.europa.eu/eli/dir/1991/439/oj
+- type: corrected_by
+  target: pt:dre:248866:por
+  label: "Rectificado pela DECL-RECT.10-E/98.1998.05.29.PCM, DR.IS-B [125]3ºSupl de 30/Mai/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-e-1998-248866
+  date: '1998-05-29'
+- type: repealed_by
+  target: pt:dre:571931:por
+  label: "Revogado a partir de 16.06.2014, na redação dos DR 20/2000, de 19-dez e 22/2004, de 07-jun, pela LEI.14/2014.18.03.2014.AR,\
+    \ DR.IS [54] de 18.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-2014-571931
+  date: '2014-03-18'
 article_structure:
   article_count: 46
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:36Z'
   warnings: []
   errors: []
 ---
@@ -801,12 +823,12 @@ Presidência do Conselho de Ministros, 5 de Fevereiro de 1998.
 
 António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Maria de Bélem Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 20 de Março de 1998.**
+Promulgado em 20 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Março de 1998.**
+Referendado em 26 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

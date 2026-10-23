@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/145/2013/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2013-503049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02df5edb10b7815337459663b743c5b0a4248940b608fe8db2ad91e52187e320
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4094271a997dbba6750d3dcb75d12c4f93ced5607a08f249dd2eb49bffa1cf86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aditivo Alimentar
+- Alimentação Humana
 - Aproximação das Legislações
+- ASAE
 - Bebida não Alcoólica
-- Multa
+- Comércio
 - Controlo de Qualidade
 - Definição de Competências
 - Etiquetagem
 - Fabrico Industrial
-- ASAE
-- Alimentação Humana
-- Aditivo Alimentar
-- Regulamento CE
+- Multa
 - Refrigerante
-- Comércio
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:992879807:por
@@ -130,15 +130,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/225/2003/09/24/p/dre
 article_structure:
-  article_count: 10
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:05Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +179,9 @@ Os artigos 2.º a 4.º, 11.º e 12.º do Decreto-Lei n.º 225/2003, de 24 de set
 
 2 - Salvo disposição em contrário do presente diploma, os produtos referidos no número anterior estão sujeitos às disposições do direito da União Europeia aplicáveis aos alimentos, nomeadamente, o Regulamento (CE) n.º [178/2002](https://data.europa.eu/eli/reg/2002/178/oj?locale=pt), do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]:
 
@@ -203,13 +205,17 @@ i) [...]
 
 j) [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A rotulagem do sumo de frutos concentrado definido no n.º 2 da parte I do anexo I, não destinado ao consumidor final, deve mencionar a presença e a quantidade adicionada de sumo de limão ou de lima ou de agentes acidificantes permitidos pelo Regulamento (CE) n.º [1333/2008](https://data.europa.eu/eli/reg/2008/1333/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo aos aditivos alimentares.
 
 2 - A indicação a que se refere o número anterior deve ser aposta na embalagem, num rótulo aplicado à embalagem ou num documento de acompanhamento.
 
-###### Artigo 11.º — Autoridade competente
+Artigo 11.º
+
+Autoridade competente
 
 1 - A Direção-Geral de Alimentação e Veterinária é a entidade responsável pelas medidas de política relativas à qualidade e segurança dos produtos abrangidos pelo presente diploma, competindo-lhe, designadamente:
 
@@ -219,7 +225,9 @@ b) [...].
 
 2 - [...].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -245,13 +253,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de setembro de 2013. - Pedro Passos Coelho - Luís Álvaro Barbosa de Campos Ferreira - António de Magalhães Pires de Lima - José Diogo Santiago de Albuquerque - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 16 de outubro de 2013.**
+Promulgado em 16 de outubro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de outubro de 2013.**
+Referendado em 17 de outubro de 2013.
 
 Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.
 
@@ -411,15 +419,15 @@ f) «Äppelmust/äpplemust», sumo de maçã sem adição de açúcares;
 
 g) «Mosto», sinónimo de sumo de uva;
 
-h) «[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20300/0617606181.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20300/0617606181.pdf) sula ar cukuru» ou «astelpaju mahl suhkruga» ou «[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20300/0617606181.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20300/0617606181.pdf) sok z rokitnika»: sumos obtidos a partir de bagas «seabuckthorn», com adição de, no máximo, 140 g de açúcares por litro.
+h) «[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20300/0617606181.pdf) sula ar cukuru» ou «astelpaju mahl suhkruga» ou «[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20300/0617606181.pdf) sok z rokitnika»: sumos obtidos a partir de bagas «seabuckthorn», com adição de, no máximo, 140 g de açúcares por litro.
 
 ## ANEXO IV — Disposições específicas relativas aos néctares de frutos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20300/0617606181.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20300/0617606181.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20300/0617606181.pdf)
 
 ## ANEXO V — Graduação Brix mínima dos sumos de frutos reconstituídos e dos polmes de frutos reconstituídos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20300/0617606181.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20300/0617606181.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20300/0617606181.pdf)
 
 No caso dos produtos assinalados com um asterisco (*), que são convertidos em sumo, determina-se a densidade relativa mínima do sumo a 20ºC em relação a água a 20º C.
 

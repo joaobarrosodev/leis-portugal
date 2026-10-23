@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/11200/0000300009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/43/2023/06/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2023-214252941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12c5e492b2af706f22350d08fe63656c4b174aa430400057baa5a135d14ca484
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17ba7114bb0ec42ba9b0f6ceddaa13815a101644707b8263659cc77605172775
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- PSP
 - Aproximação das Legislações
-- Região Autónoma
-- Empresa
-- Multa
+- Autoridade para as Condições do Trabalho
+- Condutor
 - Contra-ordenação
-- Transporte Rodoviário
+- Contrato de Trabalho
+- Empresa
 - Fiscalização
 - Fundo de Acidentes de Trabalho
-- Instituto da Mobilidade e dos Transportes
 - GNR
-- Condutor
-- Transporte de Mercadorias
+- Instituto da Mobilidade e dos Transportes
+- Multa
 - Prestação de Serviços
-- Contrato de Trabalho
+- PSP
+- Região Autónoma
 - Regulamento CE
+- Transporte de Mercadorias
 - Transporte de Passageiros
 - Transporte Internacional
-- Autoridade para as Condições do Trabalho
+- Transporte Rodoviário
 relationships:
 - type: cites
   target: celex:31996L0071
@@ -139,6 +139,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:206464114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1084345987:por
+  label: Revogado, a partir de 12 de julho de 2026, pelo(a) Decreto-Lei n.º 84/2026 - Diário da República n.º 71/2026, Série
+    I de 2026-04-13 nos termos da alínea f) do artigo 65.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2026-1084345987
+  date: '2026-04-12'
 - type: transposes
   target: celex:31996L0071
   label: null
@@ -150,13 +164,13 @@ relationships:
 article_structure:
   article_count: 15
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:03Z'
   warnings: []
   errors: []
 ---
@@ -389,12 +403,14 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de abril de 2023. - Mariana Guimarães Vieira da Silva - João Saldanha de Azevedo Galamba.
 
-**Promulgado em 30 de maio de 2023.**
+Promulgado em 30 de maio de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 2 de junho de 2023.**
+Referendado em 2 de junho de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+116543087

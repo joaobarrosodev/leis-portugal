@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 244/2016, 3º Suplemento, Série I de 2016-12-22
   number: '244'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4780-(58) a 4780-(58)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/24403/0005800058.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/114-f/2016/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/114-f-2016-105604808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T05:25:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 733fbbaeac4ae6e3b1abf343631a45bc31f284a706ee6e1f889c3c9790f60c9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cdc0e581e0c9eb9747821e618ad31b5f03e62c69e2fccd9b9060c0946e96ea8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:25:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,13 +72,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:25:15Z'
   warnings: []
   errors: []
 ---
@@ -87,16 +87,16 @@ validation:
 
 de 22 de dezembro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:
 
 É indultada a pena de prisão, que foi substituída pela pena de prisão em dias livres, aplicada a José Manuel da Fonseca Formiga, de 38 anos de idade, no Proc.º n.º 400/15.1TXLSB-B, do Tribunal de Família e Menores e de Comarca de Cascais - 1.º Juízo Criminal, por razões humanitárias.
 
-**Assinado em 22 de dezembro de 2016.**
+Assinado em 22 de dezembro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de dezembro de 2016.**
+Referendado em 22 de dezembro de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

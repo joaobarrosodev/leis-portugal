@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/01/004a00/00340037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/2/2003/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2003-481161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ead0b41e93478afe653d1f3ed4ebfd0feae3528d02c41ce48a731970bd540cc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98459236b1ff33b60cda03170d32017144ccf8d31e1d74a90118a488b839ea0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,17 @@ reuse:
 subjects:
 - Comissão de Coordenação do Fundo Social Europeu
 - Comissão de Gestão
-- Ministério da Segurança Social e do Trabalho
 - Comissariado Regional do Norte da LUTA contra a Pobreza
 - Comissariado Regional do SUL da LUTA contra a Pobreza
-- Instituto de Solidariedade e Segurança Social
+- Departamento de Estatística do Trabalho Emprego e Formação Profissional
+- Departamento de Estudos Prospectiva e Planeamento
 - Departamento para os Assuntos do Fundo Social Europeu
 - Dotação Orçamental
 - Extinção de Serviços
 - Instituto de Gestão do Fundo Social Europeu
+- Instituto de Solidariedade e Segurança Social
 - Instituto para o Desenvolvimento Social
-- Departamento de Estatística do Trabalho Emprego e Formação Profissional
-- Departamento de Estudos Prospectiva e Planeamento
+- Ministério da Segurança Social e do Trabalho
 - Profiss
 - Quadro de Pessoal
 relationships:
@@ -120,16 +120,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/394/1994/06/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/394/1994/06/21/p/dre
+- type: cites
+  target: pt:dre:248251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674439:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:527834:por
+  label: "Revogado pelo DEC LEI.171/2004.17.07.2004.MSST, DR.IS-A [167] de 17.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2004-527834
+  date: '2004-07-17'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:50Z'
   warnings: []
   errors: []
 ---
@@ -230,12 +271,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Dezembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António José de Castro Bagão Félix.
 
-**Promulgado em 20 de Dezembro de 2002.**
+Promulgado em 20 de Dezembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Dezembro de 2002.**
+Referendado em 23 de Dezembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

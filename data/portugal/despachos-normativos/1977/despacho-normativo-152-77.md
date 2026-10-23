@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/152-1977-250454
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:36:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cc43ef894bbae40db430397e41ae38441ab75beddf2f857d33dc540140970e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a9152362b30b3f363a05fd041fa1735fe5301bfc8064fdee4dd50a83d014be4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:36:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Desalojado
+- Proteção Social
+relationships:
+- type: cites
+  target: pt:dre:250392:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:36:46Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +99,13 @@ REGULAMENTO DO REGIME DE PROTECÇÃO SOCIAL A DESALOJADOS
 
 #### SECÇÃO I — Subsídio de desemprego
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Requerimento)
 
 A inscrição dos desalojados para emprego e a entrega do requerimento para a concessão do subsídio de desemprego deverão ser feitas nos centros de emprego da área da sua residência.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Instrução do processo)
 
@@ -107,7 +113,7 @@ A inscrição dos desalojados para emprego e a entrega do requerimento para a co
 
 2. Nos distritos de Lisboa e Porto não haverá lugar à confirmação da credencial, prevista no número anterior, cabendo ao Comissariado o envio à Direcção dos Serviços de Emprego dos elementos relativos aos desalojados.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Prova de trabalho anterior)
 
@@ -121,13 +127,13 @@ b) Viver em economia independente, por se encontrar privado de agregado familiar
 
 3. A presunção de prova nos termos do número anterior não pode ser aplicada cumulativamente aos dois cônjuges e só poderá ter lugar desde que nenhum deles tenha feito prova de trabalho anterior.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Atribuição do subsídio)
 
 O subsídio de desemprego será atribuído logo que os centros de emprego verifiquem, em face das declarações do Comissariado e da prova produzida, que o desalojado satisfaz as condições da lei geral e especial.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Comunicação às caixas de previdência)
 
@@ -135,7 +141,7 @@ A atribuição do subsídio de desemprego será comunicada, semanalmente, às re
 
 #### SECÇÃO II — Pensão de invalidez
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Requerimento)
 
@@ -145,13 +151,13 @@ A atribuição do subsídio de desemprego será comunicada, semanalmente, às re
 
 3. Para efeito do número anterior, a qualidade de desalojado e a situação de carência terão de ser comprovadas por documento emanado do Comissariado.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Instrução do processo)
 
 Na instrução do processo observar-se-ão os requisitos e formalidades estabelecidos nos n.os 1, 2 e 3 do artigo 3.º
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Parecer do médico do trabalho)
 
@@ -159,7 +165,7 @@ Emitido o parecer de incapacidade total e permanente para o trabalho pelo respec
 
 #### SECÇÃO III — Pensão de velhice
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Requerimento)
 
@@ -171,13 +177,13 @@ Emitido o parecer de incapacidade total e permanente para o trabalho pelo respec
 
 4. Podem ser dispensados das provas referidas no número anterior os desalojados requerentes de pensão que se encontrem a receber subsídio de desemprego, devendo a Caixa Nacional de Pensões solicitar à respectiva caixa de previdência e abono de família os elementos necessários à atribuição de pensão.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Processamento)
 
 Compete ao Comissariado remeter à Caixa Nacional de Pensões, para inclusão em processamento, os elementos respeitantes a todos os desalojados que, em 1 de Julho de 1977, tenham direito à pensão de velhice.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Produção de prova)
 
@@ -189,7 +195,7 @@ Compete ao Comissariado remeter à Caixa Nacional de Pensões, para inclusão em
 
 #### SECÇÃO IV — Pensão de sobrevivência
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Requerimento)
 
@@ -199,7 +205,7 @@ Compete ao Comissariado remeter à Caixa Nacional de Pensões, para inclusão em
 
 #### SECÇÃO V — Abono de família e prestações complementares
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Requerimento)
 
@@ -207,7 +213,7 @@ Compete ao Comissariado remeter à Caixa Nacional de Pensões, para inclusão em
 
 2. Nos distritos de Lisboa e Porto não haverá lugar à entrega da credencial, cabendo ao Comissariado remeter às caixas de previdência os elementos respeitantes aos desalojados referidos no número anterior.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Processamento)
 
@@ -217,7 +223,7 @@ Compete ao Comissariado remeter à Caixa Nacional de Pensões, para inclusão em
 
 #### SECÇÃO VI — Assistência médica e medicamentosa
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Comunicação aos serviços médico-sociais)
 
@@ -225,13 +231,13 @@ Para efeito de concessão de assistência médica e medicamentosa, a caixa distr
 
 ### CAPÍTULO II — Disposições comuns
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Identificação dos titulares)
 
 A identificação dos titulares de direito às prestações estabelecidas pelo [Decreto-Lei n.º 259/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1977-250392) compete ao Comissariado para os Desalojados, designado neste Regulamento por Comissariado.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Actualização das situações)
 
@@ -241,10 +247,10 @@ A identificação dos titulares de direito às prestações estabelecidas pelo [
 
 3. O Comissariado deverá comunicar aos centros de emprego e às instituições de previdência as alterações relativas à situação dos titulares das prestações, designadamente a concessão de financiamento para projectos de actividade económica.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Normas supletivas)
 
 Em tudo o que não estiver expressamente estabelecido neste Regulamento aplicar-se-ão as normas regulamentares em vigor nas instituições intervenientes.
 
-**O Secretário de Estado da População e Emprego, Manuel Alfredo Tito de Morais. - O Secretário de Estado da Segurança Social, Vítor Manuel Gomes Vasques.**
+O Secretário de Estado da População e Emprego, Manuel Alfredo Tito de Morais. - O Secretário de Estado da Segurança Social, Vítor Manuel Gomes Vasques.

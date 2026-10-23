@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/115/2025/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2025-942401303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e5381f549276c54b925994df4d41663d9c17b4a79dd3033208e2c9f66805e20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c5160d62537d75765f80a167579de231d9af6233a1d59f9857a63726f0e416f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,23 @@ reuse:
 subjects:
 - Acesso à Informação
 - Aproximação das Legislações
-- Interconexão de Dados
-- Sociedade Comercial
 - Beneficiário
+- Branqueamento de Capitais
 - Combate à Fraude
 - Combate ao Crime
-- Branqueamento de Capitais
 - Informação Económica e Financeira
-- Sistema de Informação
-- Registo Comercial
+- Interconexão de Dados
 - Registo Central do Beneficiário Efetivo
+- Registo Comercial
+- Sistema de Informação
+- Sociedade Comercial
 relationships:
+- type: amends
+  target: pt:numero:lei:89/2017
+  label: Altera, a partir de 1 de novembro de 2025, os artigos 4.º, 9.º, 19.º, 20.º e 21.º do Registo Central do Beneficiário
+    Efetivo, aprovado em anexo à Lei n.º 89/2017, de 21 de agosto, Diário da República n.º 160/2017, Série I
+  source: null
+  date: '2017-08-21'
 - type: cites
   target: celex:32015L0849
   label: null
@@ -108,6 +114,18 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/233/2018/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/233/2018/08/21/p/dre
+- type: cites
+  target: pt:dre:108028571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116130016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141382321:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32015L0849
   label: null
@@ -121,15 +139,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:57Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +222,9 @@ i) [...]
 
 j) As heranças jacentes e as heranças indivisas.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -232,7 +252,9 @@ vi) [...]
 
 4 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - É disponibilizada, em página eletrónica, a quem demonstre ter um interesse legítimo no acesso à informação, a seguinte informação sobre os beneficiários efetivos das entidades que, de acordo com o disposto no artigo 3.º, estejam sujeitas ao RCBE:
 
@@ -248,7 +270,9 @@ b) [...]
 
 5 - A informação sobre os beneficiários efetivos das entidades que, de acordo com o disposto no artigo 3.º, estejam sujeitas ao RCBE, pode ainda ser disponibilizada através do serviço de carteira digital, em moldes a definir em diploma próprio.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -264,7 +288,9 @@ b) [...]
 
 7 - [...]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -278,12 +304,14 @@ b) [...]
 
 Visto e aprovado em Conselho de Ministros de 3 de outubro de 2025. - Luís Montenegro - Rita Alarcão Júdice.
 
-**Promulgado em 17 de outubro de 2025.**
+Promulgado em 17 de outubro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de outubro de 2025.**
+Referendado em 22 de outubro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119693915

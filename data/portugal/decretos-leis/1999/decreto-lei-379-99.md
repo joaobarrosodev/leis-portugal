@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/09/221a00/65746579.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/379/1999/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1999-558200
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:11:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbb042585d15cab16414beb45fce685902ad59475516014bb51fe579870c6aae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2f237e4a54047b0c02ffeab144d3fa0123fc9d022382e036f86ff458030501a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:11:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigador
 - Autonomia Administrativa
 - Autonomia Financeira
-- Investigação Científica e Tecnológica
+- Coimbra
 - Comissão de Fiscalização
-- Unidade de Acompanhamento
-- Gestão Financeira
 - Conselho Científico
 - Criação de Serviços
 - Denominação de Instituição
 - Difusão da Informação
 - Extinção de Serviços
 - Fiscalização
-- Recrutamento de Pessoal
+- Gestão de Recursos Humanos
 - Gestão do Património
-- Museu Nacional da Ciência e da Técnica
-- Instituição de Investigação
+- Gestão Financeira
 - IHCT
+- Instituição de Investigação
 - Instituto Português de Museus
 - Instituto Público
+- Investigação Científica e Tecnológica
+- Investigador
+- Museu Nacional da Ciência e da Técnica
 - Orgânica
-- Coimbra
 - Programa de Formação
+- Recrutamento de Pessoal
 - Regime de Pessoal
-- Gestão de Recursos Humanos
 - Transferência de Pessoal
 - Transferência de Serviços
+- Unidade de Acompanhamento
 relationships:
 - type: amended_by
   target: pt:dre:425928:por
@@ -109,16 +109,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/219/1992/10/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/219/1992/10/15/p/dre
+- type: cites
+  target: pt:dre:163201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534998:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:425928:por
+  label: "Revogado pelo DEC LEI.235/2002.2002.11.02.MCES DR.IS-A [253]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-2002-425928
+  date: '2002-11-02'
 article_structure:
-  article_count: 23
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:11:27Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +222,7 @@ h) Cooperação interinstitucional.
 
 5 - (Actual n.º 3.)
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - Incumbe essencialmente ao IHCT:
 
@@ -217,7 +242,7 @@ g) ...
 
 2 - No domínio das suas competências, o IHCT pode estabelecer programas de formação, bem como financiar programas e projectos de índole científica e atribuir subsídios visando a prossecução das suas atribuições.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - Para a prossecução das finalidades enunciadas no artigo anterior, poderá o IHCT utilizar, designadamente, os meios que a evolução científica e tecnológica disponibilize ou venha a disponibilizar e que sejam susceptíveis de contribuírem para a prossecução dos seus fins de investigação e museológicos.
 
@@ -231,7 +256,7 @@ c) A elaboração de publicações não periódicas, catálogos de exposições,
 
 d) A realização e edição de materiais de divulgação de ciência e tecnologia sobre suporte áudio-visual e multimedia.
 
-###### Artigo 4.º
+Artigo 4.º
 
 São órgãos do IHCT:
 
@@ -243,7 +268,7 @@ c) O conselho científico;
 
 d) A comissão de fiscalização.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - O IHCT é dirigido por um director, coadjuvado por um subdirector.
 
@@ -253,7 +278,7 @@ d) A comissão de fiscalização.
 
 4 - As comissões de serviço do director e do subdirector não podem ser renovadas mais de uma vez.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - Compete ao director do IHCT:
 
@@ -289,21 +314,21 @@ o) Exercer as competências que lhe sejam delegadas pelo Ministro da Ciência e 
 
 3 - O subdirector exerce as competências que lhe forem delegadas pelo director.
 
-###### Artigo 7.º
+Artigo 7.º
 
 A unidade de acompanhamento é constituída por especialistas exteriores ao IHCT a quem seja reconhecida competência na área da museologia ou da história da ciência e da técnica, devendo parte deles exercer a sua actividade em instituições não nacionais.
 
-###### Artigo 8.º
+Artigo 8.º
 
 À unidade de acompanhamento compete analisar regularmente o funcionamento do IHCT, avaliando a sua actuação e emitindo os pareceres que julgar adequados ou que lhe forem solicitados, designadamente sobre o plano e o relatório anual de actividades.
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - O conselho científico é constituído por todos os que, a qualquer título, exerçam actividade no IHCT, desde que sejam habilitados com o grau de doutor ou equivalente, tenham obtido aprovação nas provas a que se refere o artigo 17.º, n.º 2, do [Decreto-Lei n.º 219/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1992-226629), de 15 de Outubro, ou, ainda que não possuam qualquer dessas qualificações, integrem a carreira de investigação em categoria igual ou superior à de investigador auxiliar ou a carreira docente universitária em categoria igual ou superior à de professor auxiliar.
 
 2 - Compete ao conselho científico emitir parecer sobre o orçamento, o plano e o relatório anual de actividades do IHCT.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - A comissão de fiscalização é composta por três membros, designados por despacho conjunto dos Ministros das Finanças e da Ciência e da Tecnologia, sendo um obrigatoriamente revisor oficial de contas.
 
@@ -327,7 +352,7 @@ e) Pronunciar-se sobre quaisquer questões que lhe sejam submetidas pelos órgã
 
 f) Participar às entidades competentes as irregularidades que detectar.
 
-###### Artigo 11.º
+Artigo 11.º
 
 1 - Constituem receitas do IHCT:
 
@@ -355,7 +380,7 @@ São aditados ao [Decreto-Lei n.º 347/76](https://diariodarepublica.pt/dr/detal
 
 O IHCT está sujeito à superintendência do Ministro da Ciência e da Tecnologia, que abrange a determinação do enquadramento geral em que se deve desenvolver a sua actividade e das linhas prioritárias da sua actuação.
 
-###### Artigo 1.º-B
+Artigo 1.º-B
 
 O IHCT está sujeito à tutela de legalidade e de mérito do Ministro da Ciência e da Tecnologia, a qual compreende:
 
@@ -375,11 +400,11 @@ g) A prática de actos cuja realização resulte de obrigação imposta por lei 
 
 h) A apreciação e decisão dos recursos cuja interposição para o Ministro da Ciência e da Tecnologia esteja prevista na lei.
 
-###### Artigo 10.º-A
+Artigo 10.º-A
 
 O património do IHCT é constituído pela universalidade dos seus bens, direitos e obrigações.
 
-###### Artigo 11.º-A
+Artigo 11.º-A
 
 1 - A gestão patrimonial e financeira do IHCT rege-se pelos seguintes instrumentos de gestão previsional:
 
@@ -395,7 +420,7 @@ e) Relatório anual de actividades.
 
 2 - O IHCT utilizará um sistema de contabilidade que se enquadre no Plano Oficial de Contabilidade Pública (POCP), nos termos de portaria conjunta dos Ministros das Finanças e da Ciência e da Tecnologia, precedida de audição da Comissão de Normalização Contabilística da Administração Pública.
 
-###### Artigo 15.º
+Artigo 15.º
 
 Quando a natureza ou a especificidade dos objectivos o aconselhe, poderão ser constituídas, com carácter transitório, equipas de projecto, que não podem simultaneamente ser em número superior a seis, as quais são integradas por técnicos e outros especialistas do IHCT e, sempre que se mostre conveniente, por técnicos ou outros especialistas das entidades autónomas tuteladas pelo Ministro da Ciência e da Tecnologia ou por outros elementos oriundos, nomeadamente, das universidades e institutos de investigação, sendo constituídos, respectivamente, por despacho do director do IHCT ou do Ministro da Ciência e da Tecnologia.»
 
@@ -427,12 +452,12 @@ São revogados o artigo 14.º do [Decreto-Lei n.º 347/76](https://diariodarepub
 
 Visto e aprovado em Conselho de Ministros de 15 de Julho de 1999. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 23 de Agosto de 1999.**
+Promulgado em 23 de Agosto de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Agosto de 1999.**
+Referendado em 26 de Agosto de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

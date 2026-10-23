@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/886-1982-375870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T07:27:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfea2dfa0f9b9640bb44b56ade8fbeebafbdc1df52ba423d4a7b5928f9c7c3d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc92bd912db8e08e59f3b48006a82df20dfb74643138c32e04dc58709e805b48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:27:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Administração Distrital dos Serviços de Saúde
+- Carreira Médica
+- Clínica Geral
+- Direcção Regional de Saúde
+- Madeira.região Autónoma
+- Médico
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:275829:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:193441:por
+  label: "Derrogados e substituídos os lugares do quadro respeitante à Região Autónoma dos Açores, pelo quadro anexo ao DRR.6/86/A.1986.02.17.GR-RAA,\
+    \ DR.IS [57]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1986-193441
+  date: '1986-02-17'
+- type: amended_by
+  target: pt:dre:275829:por
+  label: "Derrogada e substituída, na parte correspondente, o quadro único de pessoal da carreira de clínica geral, aprovado\
+    \ pelo presente diploma, pela PORT.720-A/86.28.11.1986.MF, DR.IS [275-2.º Supl] de 28.11.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/720-a-1986-275829
+  date: '1986-11-28'
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608202:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:27:25Z'
   warnings: []
   errors: []
 ---
@@ -106,4 +134,4 @@ Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Adminis
 
 Quadro único do pessoal da carreira médica de clínica geral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/21900/29722975.pdf))](https://files.diariodarepublica.pt/1s/1982/09/21900/29722975.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/21900/29722975.pdf)

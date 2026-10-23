@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/21600/19711971.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/239-1978-329470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T06:44:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb05098552082b99aa5610f7e2d4bff011065c4f33bac4a5b53c002928062bb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d367a063ca83ead10e23433295a0115605d727077c1f26ed6743550d5651ff1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:44:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Electrotécnica Portuguesa
+- Integração de Serviços
+- Ministério da Indústria e Tecnologia
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:395749:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:160716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564839:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:395749:por
+  label: Revogado pelo(a) Despacho Normativo n.º 91/82 - Diário da República n.º 132/1982, Série I de 1982-06-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/91-1982-395749
+  date: '1982-06-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:44:46Z'
   warnings: []
   errors: []
 ---

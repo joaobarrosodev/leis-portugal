@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/14900/0000900014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/48/2020/08/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2020-139348418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56a7a036553d05de187a6adb7316dbc561a56e67c4d2d1615cb830860e50d2ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d12e75dc47619d34a76873320bdf3b32d3ac2cb4a5d34850b8513dc03cd04257
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
 subjects:
 - Acesso à Informação
 - Autoridade Tributária e Aduaneira
-- Ficheiro Informático
-- Empresa
-- Modernização Administrativa
-- Instituto Nacional de Estatística
-- Contabilidade
-- Imprensa Nacional-Casa da Moeda
 - Banco de Portugal
-- Contribuições e Impostos
-- Informação Económica e Financeira
 - Base de Dados
+- Contabilidade
+- Contribuições e Impostos
+- Empresa
+- Ficheiro Informático
+- Imprensa Nacional-Casa da Moeda
+- Informação Económica e Financeira
 - Inspecção Tributária
 - Instituto de Gestão Financeira e Equipamentos da Justiça
-- Tributação
+- Instituto Nacional de Estatística
+- Modernização Administrativa
 - Plataforma Eletrónica
+- Tributação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/28/2019/02/15/p/dre
@@ -114,16 +114,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/35/2019/01/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/35/2019/01/28/p/dre
+- type: cites
+  target: pt:dre:116826872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118406929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118406930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118562585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119622094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124793094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664305:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:44Z'
   warnings: []
   errors: []
 ---
@@ -246,13 +278,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de julho de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Mariana Guimarães Vieira da Silva - António Mendonça Mendes - Francisca Eugénia da Silva Dias Van Dunem.
 
-**Promulgado em 23 de julho de 2020.**
+Promulgado em 23 de julho de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de julho de 2020.**
+Referendado em 27 de julho de 2020.
 
 Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
 
@@ -323,3 +355,5 @@ ii) 4.4.4.9.4. - Código do utilizador (SourceID);
 iii) 4.4.4.11. - Código do utilizador (SourceID);
 
 iv) 4.4.4.14.2.3. - Descrição da linha (Description) - campo não obrigatório na estrutura.
+
+113447153

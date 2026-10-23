@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/12/290a00/82988299.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/325/2001/12/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-2001-540215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:28:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ace37ea81c272d7d814c4cd8d57f9d5f816506a8a362ad9428874acc68387200
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c1497c3ea04c29a42c1fe8add8140649368014338ac861c067a6b338fc24118
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/313/2000/12/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/313/2000/12/02/p/dre
+- type: cites
+  target: pt:dre:257422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599112:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:621716:por
+  label: "Rectificado pela DECL-RECT.20-BC/2001.2001.12.17.PCM DR.IS-B [290]3º Supl de 17/Dez/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/20-bc-2001-621716
+  date: '2001-12-17'
+- type: repealed_by
+  target: pt:dre:306917:por
+  label: "Revogado pelo DEC LEI.320-C/2002.2002.12.30.MSST, DR.IS-A [301]Supl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-c-2002-306917
+  date: '2002-12-30'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:28:46Z'
   warnings: []
   errors: []
 ---
@@ -123,12 +141,12 @@ O presente diploma produz efeitos a partir de 1 de Janeiro de 2002.
 
 Visto e aprovado em Conselho de Ministros de 9 de Novembro de 2001. - Guilherme d'Oliveira Martins - Guilherme d'Oliveira Martins - Luís Garcia Braga da Cruz - Paulo José Fernandes Pedroso.
 
-**Promulgado em 5 de Dezembro de 2001.**
+Promulgado em 5 de Dezembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Dezembro de 2001.**
+Referendado em 7 de Dezembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

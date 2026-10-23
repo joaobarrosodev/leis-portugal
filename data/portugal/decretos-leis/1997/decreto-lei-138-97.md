@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/138/1997/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1997-349501
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 896d432b03fb05bb848eb6e38d7b074a0d8522dda713cac843c5214afb8519ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b3b98b3458f2e07b4484edbc10560ac97695a445804c78718a4e7e75b2e32e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -88,16 +88,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/6/1991/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/6/1991/02/20/p/dre
+- type: cites
+  target: pt:dre:487123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583042:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:484776:por
+  label: "Rectificado pela DECL-RECT.14-C/97.1997.07.21.PCM, DR.IS-B [175]-3ºSupl de 1997.07.31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/14-c-1997-484776
+  date: '1997-07-21'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:29Z'
   warnings: []
   errors: []
 ---
@@ -214,18 +227,18 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1997.
 
 Visto e aprovado em Conselho de Ministros de 23 de Abril de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Adriano Lopes Gomes Pimpão - Maria João Fernandes Rodrigues - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 19 de Maio de 1997.**
+Promulgado em 19 de Maio de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Maio de 1997.**
+Referendado em 19 de Maio de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 Orçamento da segurança social - 1997
 
 Continente e Regiões Autónomas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/127a00/26802684.pdf))](https://files.diariodarepublica.pt/1s/1997/06/127a00/26802684.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/127a00/26802684.pdf)

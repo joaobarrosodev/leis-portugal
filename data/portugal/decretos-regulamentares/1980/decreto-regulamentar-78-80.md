@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 288/1980, 1º Suplemento, Série I de 1980-12-15
   number: '288'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4160-(1) a 4160-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/28801/00010008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1980-291870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:03:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfcee33c9da3e4c65556e7b1614c5bc4fa4b2460707f3305262b26cbfba01e7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e93f31dd2dd1f517e9b5d5f3d419cf752881b66b1bdfbb1bed96a0c9294f6bf3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:03:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Concurso
+- Descrição de Funções
+- Formas de Provimento
+- Instituto Nacional de Investigação Agrária
+- Instituto Nacional de Investigação das Pescas
+- Instituto Nacional de Veterinária
+- Investigação Científica e Tecnológica
+- Investigador
+- Ministério da Agricultura e Pescas
+- Promoção Profissional
+- Quadro de Pessoal
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:226629:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227456:por
+  label: "Prorrogado o prazo constante na alínea f) do n.º 2 do artigo 28.º, pelo DR.16/86.08.05.1986.MAPA, DR.IS [105] de\
+    \ 08.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/16-1986-227456
+  date: '1986-05-08'
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681635:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:287589:por
+  label: "Revogado pelo DEC LEI.68/88.03.03.1988.MPLAT, DR.IS [52] de 03.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-1988-287589
+  date: '1988-03-03'
+- type: repealed_by
+  target: pt:dre:226629:por
+  label: "Revogado pelo DEC LEI.219/92.15.10.1992.MPLAT, DR.IS-A [238] de 15.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-1992-226629
+  date: '1992-10-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:03:16Z'
   warnings: []
   errors: []
 ---
@@ -465,11 +514,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva - Vítor Pereira Crespo - António José Baptista Cardoso e Cunha.
 
-**Promulgado em 9 de Dezembro de 1980.**
+Promulgado em 9 de Dezembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Lista a que se refere o n.º 1 do artigo 1.º
 
@@ -481,4 +530,4 @@ Instituto Nacional de Veterinária.
 
 Mapa a que se referem os artigos 23.º e 25.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/28801/00010008.pdf))](https://files.diariodarepublica.pt/1s/1980/12/28801/00010008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28801/00010008.pdf)

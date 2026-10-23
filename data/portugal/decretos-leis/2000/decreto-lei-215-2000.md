@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/215/2000/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2000-580793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e39e1a79743d11b24648b87043025d7ef9f2a285a169d0fbf41a2ea652d1e18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac2d6efbff02830857f128120ce04e20e6550a954b6ed17c6144fad0ec867c72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,61 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
-- Ordenamento do Território
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Autarquia Local
 - Constituição de Sociedade
 - Estatuto
-- Setor Empresarial do Estado
 - Instituto da Conservação da Natureza
-- Proteção do Ambiente
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Ordenamento do Território
 - Parques do Monte da LUA
 - Património Mundial
+- Proteção do Ambiente
+- Setor Empresarial do Estado
 - Sintra
-- Autarquia Local
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:174824:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:520450:por
+  label: "Determinada a sucessão do Instituto de Museus e da Conservação (IMC) nas participações sociais detidas pelo Instituto\
+    \ Português do Património Arquitectónico (IPPAR) relativas à sociedade Parques de Sintra - Montes da Lua, S.A., constituída\
+    \ no presente diploma, pelo DEC LEI.97/2007.29.03.2007.MC, DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2007-520450
+  date: '2007-03-29'
+- type: amended_by
+  target: pt:dre:640651:por
+  label: "Alterados os arts.3º e 6º, o Anexo II e os arts 15º e 17º dos Estatutos constantes do Anexo I, todos do Dec Lei\
+    \ 215/200, de 02-Set, pelo DEC LEI.292/2007.21.08.2007.MAOTDR, DR.IS [160] de 21.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-2007-640651
+  date: '2007-08-21'
+- type: amended_by
+  target: pt:dre:174824:por
+  label: "Determinada a afetação à Parques do Monte da Lua, S.A da exploração do Palácio Nacional de Queluz e do Palácio Nacional\
+    \ de Sintra, assim como a afetação àquela sociedade das seguintes construções situadas no Parque da Pena: Pousada Prof.\
+    \ Mário de Azevedo Gomes, Arrecadação de Santa Eufémia, edíficio da ex-Direção-Geral de Florestas em Santa Eufémia, assim\
+    \ como o edíficio inacabado junto; e dada nova redação aos art. 2º, 3º (alterado pelo Dec Lei 292/2007 de 21-ago) e 8º\
+    \ e ao anexo II (alterado pelo Dec Lei 292/2007 de 21-ago), aditados os arts. 8º-A e 8º-B, e revogado o art. 9º, todos\
+    \ do presente diploma, pelo DEC LEI.205/2012.31.08.2012.MAMAOT, DR.IS [169] de 31.08.2012, que o republicou na sua redação\
+    \ atual. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2012-174824
+  date: '2012-08-31'
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
 article_structure:
   article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:05Z'
   warnings: []
   errors: []
 ---
@@ -194,15 +222,15 @@ Fica desde já convocada a assembleia geral da Parques do Monte da Lua, para se 
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Luís Manuel Capoulas Santos - José Sócrates Carvalho Pinto de Sousa - José Estêvão Cangarato Sasportes.
 
-**Promulgado em 16 de Agosto de 2000.**
+Promulgado em 16 de Agosto de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Agosto de 2000.**
+Referendado em 23 de Agosto de 2000.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
 ## ANEXO — Estatutos da Sociedade Parques de Sintra - Monte da Lua, S. A.
 

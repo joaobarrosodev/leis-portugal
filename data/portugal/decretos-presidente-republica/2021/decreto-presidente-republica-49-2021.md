@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11200/0000300003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/49/2021/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/49-2021-164955301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T05:43:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6902ba7a2e4ff7b8149a497565478d19d20a9b4af88366e78b80e0c98c3f727
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb13b2ee7832f6e7ed59b15c5a5b685a80e4c9daba14b394f364def827e9185e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:43:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
 subjects:
 - Carreira Militar
 - Exército
-- Graduação Militar
 - GNR
-- Promoção Profissional
+- Graduação Militar
 - Militar
+- Promoção Profissional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/30/2017/03/22/p/dre
@@ -80,13 +80,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:43:11Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +95,16 @@ validation:
 
 de 11 de junho
 
-**O Presidente da República decreta, nos termos da alínea a) do n.º 1 do artigo 140.º do [Decreto-Lei n.º 30/2017](https://diariodarepublica.pt/web/guest/pesquisa/-/search/106642828/details/normal?l=1), de 22 de março, o seguinte:**
+O Presidente da República decreta, nos termos da alínea a) do n.º 1 do artigo 140.º do [Decreto-Lei n.º 30/2017](https://diariodarepublica.pt/web/guest/pesquisa/-/search/106642828/details/normal?l=1), de 22 de março, o seguinte:
 
 É confirmada a promoção ao posto de Brigadeiro-General do Coronel Tirocinado de Administração Militar António Manuel de Oliveira Bogas, na sequência do parecer de 4 de dezembro de 2020 do Conselho Superior da Guarda Nacional Republicana e do despacho de aprovação da promoção do Ministro da Administração Interna de 12 de maio de 2021.
 
 A antiguidade do militar no posto de Brigadeiro-General conta-se a partir do dia 28 de dezembro de 2020, devendo passar a auferir a remuneração correspondente ao novo posto desde a data da assinatura do presente decreto.
 
-**Assinado em 7 de junho de 2021.**
+Assinado em 7 de junho de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+114304416

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/16800/27292729.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/776-1983-453832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T07:48:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7005edfb89aaf097ba32379e51e552644d652fc43ba276ca362e6420497504a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0480812ec11a0e883a9cd41810ee390457c41c538fa5017e70823b0982907563
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:48:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Leite
+- Margens de Comercialização
+- Preço
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:442315:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:310403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627020:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:442315:por
+  label: "Revogada pela PORT.884/83.21.09.1983.MFP, DR.IS [218] de 21.09.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/884-1983-442315
+  date: '1983-09-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:48:37Z'
   warnings: []
   errors: []
 ---
@@ -107,10 +132,10 @@ Leite de classe C - 5$00.
 
 8.º - 1 - Os subsídios a atribuir pelo Fundo de Abastecimento aos vários tipos de leite para consumo em natureza, a partir de 16 de Julho de 1983 são os seguintes, por litro de leite:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/16800/27292729.pdf))](https://files.diariodarepublica.pt/1s/1983/07/16800/27292729.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/16800/27292729.pdf)
 
 Ministérios das Finanças e do Plano, da Agricultura, Florestas e Alimentação e do Comércio e Turismo.
 
-**Assinada em 14 de Julho de 1983.**
+Assinada em 14 de Julho de 1983.
 
-**O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa. - O Ministro do Comércio e Turismo, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa. - O Ministro do Comércio e Turismo, Álvaro Roque de Pinho Bissaia Barreto.

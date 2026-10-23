@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/093a00/21132117.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1999-534598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ca43485724d719b0a0fe3d9c2b3d59ac93e227335be0c0fe7671b6700177357
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 079906c080b86aa9ec70987bd236e62be906d052d28259222876ccb23ef203be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,47 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Emprego
+- Criação de Emprego
+- Desempregado
+- Economia Social
+- Emprego
 - Financiamento
 - Formação Profissional
-- Desempregado
 - Iniciativa Local de Emprego
-- Criação de Emprego
 - Mercado de Emprego
-- Economia Social
-- Programa de Promoção de Mercado Social de Emprego
-- Emprego
-- Programa de Emprego
-- Promoção de Emprego
 - Política de Emprego
+- Programa de Emprego
+- Programa de Promoção de Mercado Social de Emprego
+- Promoção de Emprego
 - Reembolso
 relationships:
 - type: amended_by
   target: pt:dre:66325237:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:462066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462068:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66325237:por
+  label: Revogado a partir de 31.01.2015 pelo(a) Decreto-Lei n.º 13/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2015-66325237
+  date: '2015-01-26'
 article_structure:
   article_count: 24
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:09Z'
   warnings: []
   errors: []
 ---
@@ -398,12 +411,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 Março de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 7 de Abril de 1999.**
+Promulgado em 7 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Abril de 1999.**
+Referendado em 9 de Abril de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

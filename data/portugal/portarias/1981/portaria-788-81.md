@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/788-1981-565009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T06:54:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b4b8e8c1ed49f7ee47b8e17d33d0ec94fae5cf59a3f37ddd4747f73b32311f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47f9c163f293edd2ac89428195d49b1451a75bb7ef73f3d67cef5a8f9d525276
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:54:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:160358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:54:49Z'
   warnings: []
   errors: []
 ---
@@ -86,6 +107,6 @@ de 11 de Setembro
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Educação e Ciência e pelo Secretário de Estado da Reforma Administrativa, que, face ao disposto no n.º 1 do artigo 20.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, o quadro do Instituto de António Aurélio da Costa Ferreira, aprovado pelo [Decreto-Lei n.º 35401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35401-1945-463624), de 27 de Dezembro de 1945, com as alterações introduzidas pela [Portaria n.º 19415](https://diariodarepublica.pt/dr/detalhe/portaria/19415-1962-160358), de 3 de Outubro de 1962, e pelos Decretos-Leis n.os [414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740) e [25/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1972-400054), respectivamente de 27 de Setembro e de 18 de Janeiro, passe a ter a seguinte composição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/20900/24202421.pdf))](https://files.diariodarepublica.pt/1s/1981/09/20900/24202421.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/20900/24202421.pdf)
 
 Ministérios das Finanças e do Plano, da Educação e Ciência e da Reforma Administrativa, 22 de Agosto de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro da Educação e Ciência, Vítor Pereira Crespo. - O Secretário de Estado da Reforma Administrativa, José Cândido Sousa Carrusca Robin de Andrade.

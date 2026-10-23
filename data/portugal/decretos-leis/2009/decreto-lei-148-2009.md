@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/06/12100/0413304139.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/148/2009/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2009-491956
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48df385cf68525876da226b3a582f029813b2bfe3b8d45275ee015276d4f669d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91c3e5070a16aaf32e358cacc63b3a0006c10ec94251d17bdd90a9a06f206893
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Valores Mobiliários
 - Mercado Monetário
 - Organismo de Investimento Colectivo
 - Regime Jurídico
 - Sociedade de Investimento
 - Sociedade Gestora de Empresas
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:475919:por
@@ -95,16 +95,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/252/2003/10/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/252/2003/10/17/p/dre
+- type: repealed_by
+  target: pt:dre:475919:por
+  label: "Revogado a partir de 07.09.2013 o Dec Lei 252/2003, de 17-out, na redação do presente diploma, pelo DEC LEI.63-A/2013.10.05.2013.MF,\
+    \ DR.IS [90-Supl] de 10.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-a-2013-475919
+  date: '2013-05-10'
 article_structure:
-  article_count: 11
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:29Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +163,9 @@ c) Registo e depósito de unidades de participação de OIC.
 
 6 - ...
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -173,7 +181,9 @@ c) Registo e depósito de unidades de participação de OIC.
 
 7 - ...
 
-###### Artigo 44.º — Valores mobiliários
+Artigo 44.º
+
+Valores mobiliários
 
 1 - O presente título é aplicável aos seguintes valores mobiliários:
 
@@ -203,7 +213,9 @@ ii) Tenham como subjacentes outros activos, ainda que estes difiram dos referido
 
 2 - Consideram-se na situação prevista na alínea a) do número anterior, salvo informações obtidas pelo OICVM que conduzam a conclusão diferente, os valores mobiliários admitidos à negociação ou negociados num mercado regulamentado.
 
-###### Artigo 45.º — Instrumentos financeiros elegíveis
+Artigo 45.º
+
+Instrumentos financeiros elegíveis
 
 1 - As carteiras dos OICVM são constituídas por instrumentos financeiros líquidos, que sejam:
 
@@ -299,7 +311,9 @@ d) Disponibilidade de estatísticas fiáveis sobre a emissão ou os programas de
 
 8 - (Anterior n.º 4.)
 
-###### Artigo 46.º — Técnicas e instrumentos de gestão
+Artigo 46.º
+
+Técnicas e instrumentos de gestão
 
 1 - As sociedades gestoras podem utilizar técnicas e instrumentos adequados à gestão eficaz dos activos do OICVM, nos termos definidos no presente decreto-lei ou em regulamento, e de acordo com os documentos constitutivos, considerando os respectivos riscos no processo de gestão do OICVM.
 
@@ -339,7 +353,9 @@ c) Tem um impacte significativo sobre o perfil de risco e a determinação do pr
 
 11 - A sociedade gestora utiliza processos de gestão de riscos que lhe permitam em qualquer momento controlar e avaliar as suas posições em instrumentos financeiros derivados e a respectiva contribuição para o perfil de risco geral da carteira, os quais permitem uma avaliação precisa e independente dos instrumentos financeiros derivados negociados fora de mercado regulamentado.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - ...
 
@@ -369,7 +385,9 @@ c) Tem um impacte significativo sobre o perfil de risco e a determinação do pr
 
 14 - ...
 
-###### Artigo 53.º — Limites de OICVM de índices
+Artigo 53.º
+
+Limites de OICVM de índices
 
 1 - Um OICVM pode investir até ao máximo de 20 % do seu valor líquido global em acções ou instrumentos representativos de dívida emitidos pela mesma entidade, quando o objectivo da sua política de investimentos for a reprodução da composição de um determinado índice de acções ou de instrumentos representativos de dívida, reconhecido pela CMVM.
 
@@ -415,7 +433,9 @@ b) Assentem em dados de mercado ou em modelos de avaliação, incluindo sistemas
 
 6 - Considera-se que os critérios referidos nos n.os 4 e 5 são respeitados no caso de instrumentos financeiros que são normalmente negociados no mercado monetário, conforme referidos no n.º 1, e que são admitidos à negociação ou negociados num mercado regulamentado, em conformidade com a alínea a) do n.º 1 do artigo 45.º, a menos que o OICVM disponha de informações que conduzam a uma conclusão diferente.
 
-###### Artigo 45.º-A — Instrumentos financeiros derivados
+Artigo 45.º-A
+
+Instrumentos financeiros derivados
 
 1 - Os instrumentos derivados de crédito incluem-se nos instrumentos financeiros derivados referidos nas alíneas e) e f) do n.º 1 do artigo 45.º, permitindo a transferência do risco de crédito de um activo, conforme referido na alínea e) do n.º 1 do artigo 45.º, independentemente dos outros riscos associados a esse activo, quando cumpram os seguintes critérios:
 
@@ -439,7 +459,9 @@ ii) Um serviço da sociedade gestora do OICVM independente do departamento respo
 
 4 - A referência a instrumentos financeiros líquidos exclui os instrumentos derivados sobre mercadorias.
 
-###### Artigo 45.º-B — Índices financeiros
+Artigo 45.º-B
+
+Índices financeiros
 
 1 - São considerados índices financeiros os índices que:
 
@@ -473,12 +495,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Abril de 2009. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos.
 
-**Promulgado em 8 de Junho de 2009.**
+Promulgado em 8 de Junho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Junho de 2009.**
+Referendado em 9 de Junho de 2009.
 
 Pelo Primeiro-Ministro, Fernando Teixeira dos Santos, Ministro de Estado e das Finanças.

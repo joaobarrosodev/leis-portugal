@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 294/1991, 1º Suplemento, Série I-A de 1991-12-21
   number: '294'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6710-(8) a 6710-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/12/294a01/00080008.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/99/1991/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/99-1991-195238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T04:12:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 714744bcf07799d8bfbd6ee1f6b081fcb1c4646ee08b72304d78a1587181f44b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0a038cf853a0a0df6cb20065d02f946d7e66f99958eed0249fdc03dbe50ac83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:12:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:12:06Z'
   warnings: []
   errors: []
 ---
@@ -85,16 +85,16 @@ validation:
 
 de 21 de Dezembro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea f), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea f), da Constituição, o seguinte:
 
 É indultada, na parte não cumprida, a pena de prisão aplicada a José Valentim Melo de Sousa, de 39 anos de idade, no processo n.º 779/85, da 1.ª Secção do 4.º Juízo Criminal do Tribunal Criminal da Comarca de Lisboa.
 
-**Assinado em 21 de Dezembro de 1991.**
+Assinado em 21 de Dezembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Dezembro de 1991.**
+Referendado em 21 de Dezembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

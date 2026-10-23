@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31
   number: '252'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7424-(258) a 7424-(270)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/12/25202/0025800270.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/266-c/2012/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bafb015847a02dbb86553db1466778da1087726822991d4634fb06ea91232e78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2d6a882b7fa7352153064219e520b13fa32d9992ea10665efb2d4fddb6f24ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Geral do Tesouro
 - Arrendamento Urbano não Habitacional
-- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
-- Direção Geral do Tesouro e Finanças
-- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
-- Indemnização
-- Instituto Nacional de Habitação
-- Instituto de Gestão Financeira da Segurança Social
-- Licença de Utilização
-- Instituto da Habitação e da Reabilitação Urbana
-- Subsídio de Renda de CASA
 - Arrendamento Urbano para Habitação
-- Rendimento Anual Bruto Corrigido
 - Autarquia Local
+- Direção Geral do Tesouro e Finanças
+- Direcção Geral do Tesouro
+- Indemnização
+- Instituto da Habitação e da Reabilitação Urbana
+- Instituto de Gestão Financeira da Segurança Social
+- Instituto Nacional de Habitação
+- Licença de Utilização
+- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
+- Rendimento Anual Bruto Corrigido
+- Subsídio de Renda de CASA
 relationships:
 - type: amended_by
   target: pt:dre:69977686:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:65949851:por
+  label: Alterados a partir de 18.01.2015 os arts. 1.º e 16.º do Dec Lei 158/2006, de 08-ago, na redação do presente diploma
+    pelo(a) Lei n.º 79/2014 - Diário da República n.º 245/2014, Série I de 2014-12-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/79-2014-65949851
+  date: '2014-12-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/158/2006/08/08/p/dre
   label: null
@@ -115,16 +121,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1192-a/2006/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1192-a/2006/11/03/p/dre
+- type: cites
+  target: pt:dre:152703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693853:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69977686:por
+  label: Revogado o Dec Lei 158/2006, de 08-ago, na redação do presente diploma pelo(a) Decreto-Lei n.º 156/2015 - Diário
+    da República n.º 154/2015, Série I de 2015-08-10, sem prejuízo do disposto no n.º 2 do art. 32.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-2015-69977686
+  date: '2015-08-10'
 article_structure:
-  article_count: 48
+  article_count: 37
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:05Z'
   warnings: []
   errors: []
 ---
@@ -237,7 +289,9 @@ i) Durante o período de cinco anos referido na alínea b) do n.º 7 e no n.º 9
 
 ii) Após o decurso do período de cinco anos referido na alínea b) do n.º 7 do artigo 36.º da [Lei n.º 6/2006](https://diariodarepublica.pt/dr/detalhe/lei/6-2006-693853), de 27 de fevereiro, na redação que lhe foi conferida pela [Lei n.º 31/2012](https://diariodarepublica.pt/dr/detalhe/lei/31-2012-175305), de 14 de agosto, nos termos das alíneas a) e b) do n.º 2 do artigo 35.º da referida Lei.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]:
 
@@ -253,7 +307,9 @@ e) [...];
 
 f) [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -263,7 +319,9 @@ f) [...].
 
 4 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -283,7 +341,9 @@ f) [...].
 
 9 - Os modelos dos pedidos e das declarações previstos nos n.ºs 5 e 7 são aprovados por portaria dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da habitação.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Tem direito a subsídio de renda, em alternativa, o arrendatário de contrato a que se refere o n.º 2 do artigo 1.º:
 
@@ -291,7 +351,9 @@ a) [...];
 
 b) [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -303,7 +365,9 @@ b) [...].
 
 5 - A falta de autorização para o acesso à informação fiscal e das entidades processadoras de pensões, a que se refere o número anterior, bem como a não apresentação de um dos elementos obrigatórios previstos na portaria a que se refere o n.º 2, determinam a rejeição liminar do pedido.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -313,7 +377,9 @@ a) A renda seja atualizada nos termos do artigo 45.º da [Lei n.º 6/2006](https
 
 b) [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 O direito ao subsídio de renda caduca:
 
@@ -321,7 +387,9 @@ a) Por morte do titular, salvo no caso de transmissão do arrendamento para quem
 
 b) Com o vencimento da primeira renda atualizada ao abrigo dos artigos 30.º a 37.º da [Lei n.º 6/2006](https://diariodarepublica.pt/dr/detalhe/lei/6-2006-693853), de 27 de fevereiro, na redação que lhe foi conferida pela [Lei n.º 31/2012](https://diariodarepublica.pt/dr/detalhe/lei/31-2012-175305), de 14 de agosto.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, o agregado familiar, a RMNA e os fatores de correção do RAB para efeitos de aplicação do presente decreto-lei são os existentes no ano civil anterior:
 
@@ -349,7 +417,9 @@ Repercussão do pedido de atribuição do subsídio de renda no aumento da renda
 
 2 - Sob pena de ser obrigado a indemnizar pelos danos causados pela sua omissão, o arrendatário comunica ao senhorio a decisão sobre a concessão do subsídio de renda, no prazo de 15 dias após dela ter conhecimento.
 
-###### Artigo 19.º-A — Disposições transitórias
+Artigo 19.º-A
+
+Disposições transitórias
 
 1 - Durante o ano de 2012, o arrendatário pode, na resposta a que se refere o artigo 31.º da [Lei n.º 6/2006](https://diariodarepublica.pt/dr/detalhe/lei/6-2006-693853), de 27 de fevereiro, na redação que lhe foi conferida pela [Lei n.º 31/2012](https://diariodarepublica.pt/dr/detalhe/lei/31-2012-175305), de 14 de agosto, comunicar ao senhorio, para efeitos de invocação de que o RABC do seu agregado familiar é inferior a cinco RMNA, que o agregado familiar, a RMNA e os fatores de correção do RAB relevantes para o apuramento do RABC são os existentes no ano de 2012.
 
@@ -393,7 +463,9 @@ Os artigos 1.º a 3.º do [Decreto-Lei n.º 160/2006](https://diariodarepublica.
 
 O presente decreto-lei regula os elementos do contrato de arrendamento urbano e os requisitos a que obedece a sua celebração, conforme previsto no n.º 2 do artigo 1070.º do Código Civil.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Do contrato de arrendamento urbano deve constar:
 
@@ -411,7 +483,9 @@ f) [Anterior alínea e)];
 
 g) [Anterior alínea f)].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]:
 
@@ -463,15 +537,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de novembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paula Maria von Hafe Teixeira da Cruz - Miguel Fernando Cassola de Miranda Relvas - Maria de Assunção Oliveira Cristas Machado da Graça - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 28 de dezembro de 2012.**
+Promulgado em 28 de dezembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de dezembro de 2012.**
+Referendado em 28 de dezembro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 8.º)
 

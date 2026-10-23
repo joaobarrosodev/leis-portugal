@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/25/2014/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7159e758e6776931579a75f4b5153417a9d8afc20a73de34f36b2010805f5533
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce1c9a8365217b5029bbf864a97c6a6e8f3a881702294f66ba7644cc70c60b8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
+- Açores
 - Alvará
-- Região Autónoma
-- Multa
 - Contra-ordenação
 - Direcção Geral dos Transportes Terrestres
 - EEE
-- União Europeia
 - Fiscalização
+- GNR
 - Instituto da Mobilidade e dos Transportes
 - Licenciamento
-- Veículo
-- GNR
-- Transporte de Mercadorias
-- Prestação de Serviços
 - Madeira.região Autónoma
+- Multa
+- Prestação de Serviços
+- PSP
+- Região Autónoma
 - Regime Jurídico
-- Açores
 - Taxa
+- Transporte de Mercadorias
+- União Europeia
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/de
@@ -126,16 +126,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/59/2011/05/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/59/2011/05/05/p/dre
+- type: cites
+  target: pt:dre:168800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636181:por
+  label: null
+  source: null
 article_structure:
-  article_count: 41
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:57Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +242,9 @@ Os artigos 2.º a 4.º, 10.º, 12.º, 13.º, 15.º a 19.º do [Decreto-Lei n.º 
 
 2 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A atividade de prestação de serviços por meio de veículos pronto-socorro só pode ser exercida em território nacional por prestadores aqui estabelecidos que efetuem a mera comunicação prévia referida no artigo seguinte.
 
@@ -186,7 +252,9 @@ Os artigos 2.º a 4.º, 10.º, 12.º, 13.º, 15.º a 19.º do [Decreto-Lei n.º 
 
 3 - [Revogado].
 
-###### Artigo 4.º — Mera comunicação prévia
+Artigo 4.º
+
+Mera comunicação prévia
 
 1 - Os prestadores estabelecidos em território nacional para a prestação de serviços por meio de veículos pronto-socorro devem enviar, antes do início da atividade em causa, mera comunicação prévia ao Instituto da Mobilidade e dos Transportes, I.P. (IMT, I.P.), ou à autoridade territorialmente competente nas Regiões Autónomas dos Açores ou da Madeira, conforme o caso aplicável, com:
 
@@ -200,7 +268,9 @@ d) Declaração de regularidade da situação contributiva perante a administra�
 
 2 - A comunicação referida no número anterior tem validade nacional, independentemente de ser apresentada ao IMT, I.P., ou à autoridade territorialmente competente de uma Região Autónoma.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Os prestadores de serviços por meio de veículos pronto-socorro estabelecidos em território nacional têm o dever de comunicar ao IMT, I. P., ou à autoridade territorialmente competente de uma Região Autónoma, conforme o caso aplicável, no prazo de 30 dias a contar da data da sua ocorrência:
 
@@ -210,7 +280,9 @@ b) A cessação da respetiva atividade em território nacional.
 
 2 - [Revogado].
 
-###### Artigo 12.º — Veículos pronto-socorro
+Artigo 12.º
+
+Veículos pronto-socorro
 
 1 - Os veículos pronto-socorro utilizados pelos prestadores de serviços são homologados pelo IMT, I.P., nos termos do [Decreto-Lei n.º 16/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2010-611962), de 12 de março, alterado pelos Decretos-Leis n.os [59/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2011-287110), de 5 de maio, e [148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), de 24 de outubro, ou por organismo congénere da União Europeia ou do Espaço Económico Europeu, nos termos da legislação aplicável.
 
@@ -218,7 +290,9 @@ b) A cessação da respetiva atividade em território nacional.
 
 3 - Os veículos pronto-socorro referidos no número anterior devem ostentar dístico de identificação.
 
-###### Artigo 13.º — Caderno de registo de serviços ou guia de transporte
+Artigo 13.º
+
+Caderno de registo de serviços ou guia de transporte
 
 1 - Os serviços de transporte ou reboque de veículos avariados ou sinistrados efetuados por empresas estabelecidas em território nacional devem ser descritos de forma sequencial num caderno de registo constituído por folhas numeradas e não destacáveis.
 
@@ -232,7 +306,9 @@ b) Realizar o registo dos serviços nos termos da legislação do Estado-membro 
 
 4 - As empresas que prestem serviços de transporte ou reboque de veículos avariados ou sinistrados em regime de livre prestação em território nacional registam-nos nos termos da legislação do Estado-membro de origem, podendo, para o efeito, utilizar igualmente a guia de transporte a que se refere o artigo 19.º do [Decreto-Lei n.º 257/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2007-636181), de 16 de julho, alterado pelos Decretos-Leis n.os [137/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2008-456787), de 21 de julho, e [136/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2009-494226), de 5 de junho.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]:
 
@@ -248,7 +324,9 @@ e) A falta de registo dos serviços nos termos do artigo 13.º, com coima de 100
 
 2 - A negligência e a tentativa são puníveis, nos termos gerais.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -258,17 +336,23 @@ e) A falta de registo dos serviços nos termos do artigo 13.º, com coima de 100
 
 4 - Às contraordenações previstas no presente diploma aplica-se o regime geral das contraordenações, constante do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, alterado pelos Decretos-Leis n.os [356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de outubro, [244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de setembro, e [323/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), de 17 de dezembro, e pela [Lei n.º 109/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-2001-536642), de 24 de dezembro.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
 2 - O produto das coimas cobradas pelas autoridades das Regiões Autónomas constitui receita própria da Região em causa.
 
-###### Artigo 18.º — Modelos de dísticos e cadernos de registo
+Artigo 18.º
+
+Modelos de dísticos e cadernos de registo
 
 Os modelos do dístico bem como do caderno de registo de serviços a que se refere o presente diploma são aprovados por despacho do presidente do conselho diretivo do IMT, I.P.
 
-###### Artigo 19.º — Taxas
+Artigo 19.º
+
+Taxas
 
 1 - A receção e tratamento da mera comunicação prévia a que se refere o artigo 4.º são sujeitas a taxas a fixar pelos membros do Governo responsáveis pelas áreas das finanças e dos transportes.
 
@@ -304,35 +388,45 @@ c) A [Portaria n.º 747/2005](https://diariodarepublica.pt/dr/detalhe/portaria/7
 
 2 - Para efeitos de republicação onde se lê: «Direção-Geral de Transportes Terrestres», «DGTT» e «diretor-geral de Transportes Terrestres, deve ler-se, respetivamente: «Instituto da Mobilidade e dos Transportes, I.P.», «IMT, I.P.» e presidente do conselho diretivo do IMT, I.P..
 
-###### Artigo 7.º — Entrada em vigor
+Artigo 7.º
+
+Entrada em vigor
 
 O presente decreto-lei entra em vigor 30 dias após a data de publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de dezembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Miguel Bento Martins Costa Macedo e Silva - António de Magalhães Pires de Lima.
 
-**Promulgado em 7 de fevereiro de 2014.**
+Promulgado em 7 de fevereiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 11 de fevereiro de 2014.**
+Referendado em 11 de fevereiro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
-## ANEXO — (a que se refere o artigo 6.º)
+ANEXO
+
+(a que se refere o artigo 6.º)
 
 Republicação do [Decreto-Lei n.º 193/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-2001-361951), de 26 de junho
 
-### CAPÍTULO I — Disposições gerais
+CAPÍTULO I
 
-###### Artigo 1.º — Âmbito
+Disposições gerais
+
+Artigo 1.º
+
+Âmbito
 
 1 - O presente diploma estabelece o regime de acesso e exercício da atividade de prestação de serviços com veículos pronto-socorro.
 
 2 - Não estão abrangidos pelo presente diploma os serviços com veículos pronto-socorro prestados por pessoas coletivas de utilidade pública sem fins lucrativos.
 
-###### Artigo 2.º — Prestação de serviços com veículos pronto-socorro
+Artigo 2.º
+
+Prestação de serviços com veículos pronto-socorro
 
 1 - São veículos pronto-socorro os que estejam devidamente adaptados para o transporte ou reboque de veículos avariados ou sinistrados, assim classificados no respetivo documento de identificação automóvel.
 
@@ -346,9 +440,13 @@ c) Que não possam circular na via pública;
 
 d) Que se destinem a exposições ou manifestações desportivas.
 
-### CAPÍTULO II — Acesso à atividade
+CAPÍTULO II
 
-###### Artigo 3.º — Acesso à atividade
+Acesso à atividade
+
+Artigo 3.º
+
+Acesso à atividade
 
 1 - A atividade de prestação de serviços por meio de veículos pronto-socorro só pode ser exercida em território nacional por prestadores aqui estabelecidos que efetuem a mera comunicação prévia referida no artigo seguinte.
 
@@ -356,7 +454,9 @@ d) Que se destinem a exposições ou manifestações desportivas.
 
 3 - [Revogado].
 
-###### Artigo 4.º — Mera comunicação prévia
+Artigo 4.º
+
+Mera comunicação prévia
 
 1 - Os prestadores estabelecidos em território nacional para a prestação de serviços por meio de veículos pronto-socorro devem enviar, antes do início da atividade em causa, mera comunicação prévia ao Instituto da Mobilidade e dos Transportes, I.P. (IMT, I.P.), ou à autoridade territorialmente competente nas Regiões Autónomas dos Açores ou da Madeira, conforme o caso aplicável, com:
 
@@ -370,27 +470,39 @@ d) Declaração de regularidade da situação contributiva perante a administra�
 
 2 - A comunicação referida no número anterior tem validade nacional, independentemente de ser apresentada ao IMT, I.P., ou à autoridade territorialmente competente de uma Região Autónoma.
 
-###### Artigo 5.º — Requisitos de acesso à atividade
+Artigo 5.º
+
+Requisitos de acesso à atividade
 
 [Revogado].
 
-###### Artigo 6.º — Idoneidade
+Artigo 6.º
+
+Idoneidade
 
 [Revogado]
 
-###### Artigo 7.º — Capacidade técnica
+Artigo 7.º
+
+Capacidade técnica
 
 [Revogado]
 
-###### Artigo 8.º — Capacidade financeira
+Artigo 8.º
+
+Capacidade financeira
 
 [Revogado]
 
-###### Artigo 9.º — Atribuição de alvarás e de certificados
+Artigo 9.º
+
+Atribuição de alvarás e de certificados
 
 [Revogado]
 
-###### Artigo 10.º — Dever de informação
+Artigo 10.º
+
+Dever de informação
 
 1 - Os prestadores de serviços por meio de veículos pronto-socorro estabelecidos em território nacional têm o dever de comunicar ao IMT, I.P., ou à autoridade territorialmente competente de uma Região Autónoma, conforme o caso aplicável, no prazo de 30 dias a contar da data da sua ocorrência:
 
@@ -400,13 +512,19 @@ b) A cessação da respetiva atividade em território nacional.
 
 2 - [Revogado].
 
-###### Artigo 11.º — Falta superveniente de requisitos
+Artigo 11.º
+
+Falta superveniente de requisitos
 
 [Revogado]
 
-### CAPÍTULO III — Exercício da atividade
+CAPÍTULO III
 
-###### Artigo 12.º — Veículos pronto-socorro
+Exercício da atividade
+
+Artigo 12.º
+
+Veículos pronto-socorro
 
 1 - Os veículos pronto-socorro utilizados pelos prestadores de serviços são homologados pelo IMT, I.P., nos termos do [Decreto-Lei n.º 16/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2010-611962), de 12 de março, alterado pelos Decretos-Leis n.os [59/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2011-287110), de 5 de maio, e [148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), de 24 de outubro, ou por organismo congénere da União Europeia ou do Espaço Económico Europeu, nos termos da legislação aplicável.
 
@@ -414,7 +532,9 @@ b) A cessação da respetiva atividade em território nacional.
 
 3 - Os veículos pronto-socorro referidos no número anterior devem ostentar dísticos de identificação.
 
-###### Artigo 13.º — Caderno de registo de serviços ou guia de transporte
+Artigo 13.º
+
+Caderno de registo de serviços ou guia de transporte
 
 1 - Os serviços de transporte ou reboque de veículos avariados ou sinistrados efetuados por empresas estabelecidas em território nacional devem ser descritos de forma sequencial num caderno de registo constituído por folhas numeradas e não destacáveis.
 
@@ -428,9 +548,13 @@ b) Realizar o registo dos serviços nos termos da legislação do Estado-membro 
 
 4 - As empresas que prestem serviços de transporte ou reboque de veículos avariados ou sinistrados em regime de livre prestação em território nacional registam-nos nos termos da legislação do Estado-membro de origem, podendo, para o efeito, igualmente utilizar a guia de transporte a que se refere o artigo 19.º do [Decreto-Lei n.º 257/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2007-636181), de 16 de julho, alterado pelos Decretos-Leis n.os [137/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2008-456787), de 21 de julho, e [136/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2009-494226), de 5 de junho.
 
-### CAPÍTULO IV — Fiscalização e regime sancionatório
+CAPÍTULO IV
 
-###### Artigo 14.º — Fiscalização
+Fiscalização e regime sancionatório
+
+Artigo 14.º
+
+Fiscalização
 
 1 - São competentes para a fiscalização do cumprimento do disposto no presente diploma as seguintes entidades:
 
@@ -444,7 +568,9 @@ d) Polícia de Segurança Pública.
 
 2 - As entidades referidas no número anterior podem proceder, junto das pessoas singulares ou coletivas que efetuem os serviços a que se refere o presente diploma, a todas as investigações e verificações necessárias para o exercício da sua competência fiscalizadora.
 
-###### Artigo 15.º — Contraordenações
+Artigo 15.º
+
+Contraordenações
 
 1 - As infrações ao disposto no presente diploma constituem contraordenações, puníveis com as seguintes coimas:
 
@@ -460,7 +586,9 @@ e) A falta de registo dos serviços nos termos do artigo 13.º, com coima de 100
 
 2 - A negligência e a tentativa são puníveis, nos termos gerais.
 
-###### Artigo 16.º — Processamento das contraordenações
+Artigo 16.º
+
+Processamento das contraordenações
 
 1 - O processamento das contraordenações previstas neste diploma compete ao IMT, I.P.
 
@@ -470,7 +598,9 @@ e) A falta de registo dos serviços nos termos do artigo 13.º, com coima de 100
 
 4 - Às contraordenações previstas no presente diploma aplica-se o regime geral das contraordenações, constante do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, alterado pelos Decretos-Leis n.os [356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de outubro, [244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de setembro, e [323/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), de 17 de dezembro, e pela [Lei n.º 109/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-2001-536642), de 24 de dezembro.
 
-###### Artigo 17.º — Produto das coimas
+Artigo 17.º
+
+Produto das coimas
 
 1 - O produto das coimas será distribuído da seguinte forma:
 
@@ -482,34 +612,50 @@ c) 60% para o Estado.
 
 2 - O produto das coimas cobradas pelas autoridades das Regiões Autónomas constitui receita própria da Região em causa.
 
-### CAPÍTULO V — Disposições finais e transitórias
+CAPÍTULO V
 
-###### Artigo 18.º — Modelos de dísticos e cadernos de registo
+Disposições finais e transitórias
+
+Artigo 18.º
+
+Modelos de dísticos e cadernos de registo
 
 Os modelos do dístico bem como do caderno de registo de serviços a que se refere o presente diploma são aprovados por despacho do presidente do conselho diretivo do IMT, I.P.
 
-###### Artigo 19.º — Taxas
+Artigo 19.º
+
+Taxas
 
 1 - A receção e tratamento da mera comunicação prévia a que se refere o artigo 4.º são sujeitas a taxas a fixar pelos membros do Governo responsáveis pelas áreas das finanças e dos transportes.
 
 2 - O produto das taxas cobradas pelo IMT, I.P., constitui receita própria deste instituto.
 
-###### Artigo 19.º-A — Cooperação administrativa
+Artigo 19.º-A
+
+Cooperação administrativa
 
 As autoridades administrativas competentes nos termos do presente diploma prestam e solicitam às autoridades competentes dos outros Estados-Membros da União Europeia ou do Espaço Económico Europeu e à Comissão Europeia assistência mútua e tomam as medidas necessárias para cooperar eficazmente no âmbito dos procedimentos relativos a prestadores estabelecidos em outro Estado-Membro.
 
-###### Artigo 20.º — Disposições transitórias
+Artigo 20.º
+
+Disposições transitórias
 
 [Revogado]
 
-###### Artigo 21.º — Prorrogação de prazo
+Artigo 21.º
+
+Prorrogação de prazo
 
 O prazo previsto no n.º 3 do artigo 36.º do [Decreto-Lei n.º 38/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1999-168800), de 6 de fevereiro, fica prorrogado até à data de entrada em vigor do presente diploma, na parte aplicável ao transporte de viaturas avariadas ou sinistradas.
 
-###### Artigo 22.º — Produção de efeitos
+Artigo 22.º
+
+Produção de efeitos
 
 O presente diploma produz efeitos a partir de 8 de março de 2001.
 
-###### Artigo 23.º — Entrada em vigor
+Artigo 23.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor 30 dias após a data da sua publicação.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/01600/0000200010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/2/2025/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2025-904570275
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d22a645d5aedae8b474a8296164af87061af7b8abd28beaa1019368bbfbc2ad5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90ee41472d7259e1c68ec9f232c8410638a39ff45b11cccc460ef9048c8b6ea1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Autoridade de Segurança Alimentar e Económica
-- Contra-ordenação
-- Definição de Competências
-- Secretaria Geral
-- Ministério das Finanças
-- Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
-- ASAE
-- Serviços Partilhados do Ministério da Saúde
-- Ministério do Ambiente
 - Agência para a Modernização Administrativa
-- Regulamento CE
-- Dados Pessoais
+- ASAE
+- Autoridade de Segurança Alimentar e Económica
 - Autoridade Nacional de Comunicações
+- Contra-ordenação
+- Dados Pessoais
+- Definição de Competências
+- Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Ministério das Finanças
+- Ministério do Ambiente
+- Regulamento CE
+- Secretaria Geral
+- Serviços Partilhados do Ministério da Saúde
 relationships:
 - type: cites
   target: celex:32018R1724
@@ -108,16 +108,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/92/2010/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/92/2010/02/12/p/dre
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611341:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:52Z'
   warnings: []
   errors: []
 ---
@@ -186,9 +206,9 @@ O presente decreto-lei assegura a execução na ordem jurídica interna do [Regu
 
 ###### Artigo 3.º — Competências da Agência para a Modernização Administrativa, I. P.
 
-1 - Para efeitos dos n.<sup>os</sup>1 a 3 do artigo anterior, compete à AMA, I. P.:
+1 - Para efeitos dos n.os1 a 3 do artigo anterior, compete à AMA, I. P.:
 
-a) Disponibilizar plataforma para receção da notificação dos serviços de intermediação de dados, designadamente através do Portal Único de Serviços Digitais (gov.pt), assegurando a interoperabilidade com os organismos designados nos n.<sup>os</sup>4 a 9 do artigo anterior;
+a) Disponibilizar plataforma para receção da notificação dos serviços de intermediação de dados, designadamente através do Portal Único de Serviços Digitais (gov.pt), assegurando a interoperabilidade com os organismos designados nos n.os4 a 9 do artigo anterior;
 
 b) Prestar apoio técnico através da disponibilização de um ambiente de tratamento seguro de acesso para fins de reutilização de categorias de dados;
 
@@ -308,7 +328,7 @@ i) O incumprimento do dever de informação prévia ao consentimento dado pelos 
 
 j) A inexistência de designação de representante legal do prestador de serviços de dados, quando não estabelecido na União Europeia, ou a ausência de prestação de informações pelo representante legal, quando solicitado, em violação do disposto no n.º 5 do artigo 14.º do Regulamento Governação de Dados;
 
-k) O incumprimento das obrigações decorrentes dos n.<sup>os</sup>1 a 5 do artigo 31.º do Regulamento Governação de Dados.
+k) O incumprimento das obrigações decorrentes dos n.os1 a 5 do artigo 31.º do Regulamento Governação de Dados.
 
 3 - Constitui contraordenação leve a prática dos seguintes atos:
 
@@ -350,7 +370,7 @@ c) A ausência de informação aos detentores dos dados em caso de qualquer tran
 
 d) A ausência de especificação da jurisdição de país terceiro, em violação do disposto no n.º 6 do artigo 21.º do Regulamento Governação de Dados.
 
-e) O incumprimento das obrigações decorrentes dos n.<sup>os</sup>1 e 3 do artigo 31.º do Regulamento Governação de Dados.
+e) O incumprimento das obrigações decorrentes dos n.os1 e 3 do artigo 31.º do Regulamento Governação de Dados.
 
 ###### Artigo 9.º — Responsabilidade
 
@@ -396,12 +416,14 @@ Em tudo o que não estiver expressamente estabelecido no presente decreto-lei em
 
 Visto e aprovado em Conselho de Ministros de 12 de dezembro de 2024. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - Pedro Reis - Maria da Graça Carvalho - Margarida Balseiro Lopes - José Manuel Fernandes.
 
-**Promulgado em 3 de janeiro de 2025.**
+Promulgado em 3 de janeiro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de janeiro de 2025.**
+Referendado em 7 de janeiro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118582287

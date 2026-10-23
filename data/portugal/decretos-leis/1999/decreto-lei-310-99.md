@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/310/1999/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1999-426692
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:10:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ad067fe201c3cfadedaa24f638fd46f584e23a4c7d14638e14bd27e1a447922
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dceb06feee251e0a429d694efa33f0abc86b7796800014137e0dbc0a94356d38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,6 +67,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Alimento para Animais
 - Análise Laboratorial
 - Aproximação das Legislações
 - Comunidade Europeia
@@ -74,7 +75,6 @@ subjects:
 - Controlo Sanitário
 - Política Agrícola Comum
 - Qualidade do Produto
-- Alimento para Animais
 relationships:
 - type: cites
   target: celex:31966R3136
@@ -86,14 +86,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/1998/64/oj
 article_structure:
   article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:10:09Z'
   warnings: []
   errors: []
 ---
@@ -122,17 +122,19 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 1 de Julho de 1999. - António Manuel de Oliveira Guterres - Luís Manuel Capoulas Santos.
 
-**Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.**
+Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Julho de 1999.**
+Referendado em 27 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — Parte A
+## ANEXO
+
+## Parte A
 
 Determinação do teor de ácidos aminados
 
@@ -434,7 +436,7 @@ em que V representa o volume do extracto final.
 
 O método foi ensaiado num estudo internacional de comparação interlaboratorial realizado em 1990 com base em quatro tipos de alimentos para animais (alimento misto para suínos, alimento composto para frangos, concentrado proteico e pré-mistura). Após eliminação dos valores isolados, obtiveram-se para a média os valores que se apresentam no quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)
 
 7.1 - Repetibilidade.
 
@@ -442,11 +444,11 @@ Apresentam-se de seguida os valores relativos à repetibilidade, expressos em te
 
 Desvio padrão intralaboratorial (S(índice r)), expresso em gramas por quilogramas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)
 
 Coeficiente de variação, expresso em percentagem, do desvio padrão intralaboratorial (S(índice R))
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)
 
 7.2 - Reprodutibilidade.
 
@@ -454,11 +456,11 @@ Apresentam-se no quadro seguinte os valores do desvio padrão interlaboratorial 
 
 Desvio padrão interlaboratorial (s(índice r)), expresso em gramas por quilogramas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)
 
 Coeficiente de variação, expresso em percentagem, do desvio padrão interlaboratorial (S(índice r))
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)
 
 8 - Utilização de materiais de referência
 
@@ -476,7 +478,7 @@ Dilui-se a solução padrão com tampão citrato de modo que os picos surjam no 
 
 9.3 - A aplicação do método a alimentos para animais com mais de 1% de cloretos (concentrados, minerais, suplementos) pode originar uma subestimação da metionina, sendo por isso necessário um tratamento especial.
 
-# Parte B
+Parte B
 
 Doseamento da gordura bruta
 
@@ -598,7 +600,7 @@ b = massa, em gramas, do resíduo da segunda extracção.
 
 8.6 - A pré-extracção pelo processo A antes da hidrólise e a reextracção pelo processo B são recomendadas quando o teor de gordura bruta for superior a 15%. Em certa medida, isto depende da natureza do alimento e da gordura do alimento.
 
-# Parte C
+Parte C
 
 Doseamento do olaquindox
 
@@ -744,7 +746,7 @@ Foi organizado um estudo interlaboratórios comunitário, no decurso do qual for
 
 Os resultados desse estudo são apresentados em seguida:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51785186.pdf)
 
 9 - Observação
 

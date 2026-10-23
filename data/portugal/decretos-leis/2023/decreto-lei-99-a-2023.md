@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 209/2023, 3º Suplemento, Série I de 2023-10-27
   number: '209'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 25-(2) a 25-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/20903/0000200014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/99-a/2023/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-a-2023-223473628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f81b587b4e3fa8eb21f02c1752b7f6508cbd37b40dcc5b951aead53979d4abe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3900a8ca16773b4562c47936178d48511741dc69592d6bff47abea670d38ee2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Instituto dos Registos e do Notariado
+- Agência para a Integração Migrações e Asilo I. P.
 - Coordenador Adjunto
 - Coordenador Geral
-- Segurança Interna
 - Criação de Serviços
 - Definição de Competências
 - Fronteiras
 - GNR
+- Instituto dos Registos e do Notariado
 - Orgânica
+- PSP
 - Secretário Geral do Sistema de Segurança Interna
-- Agência para a Integração Migrações e Asilo I. P.
+- Segurança Interna
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/40/2023/06/02/p/dre
@@ -94,16 +94,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/73/2021/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/73/2021/11/12/p/dre
+- type: cites
+  target: pt:dre:174244808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213881447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213881448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453479:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:18Z'
   warnings: []
   errors: []
 ---
@@ -584,15 +600,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 26 de outubro de 2023. - Mariana Guimarães Vieira da Silva - Mariana Guimarães Vieira da Silva - José Luís Pereira Carneiro - Fernando Medina Maciel Almeida Correia - Ana Catarina Veiga dos Santos Mendonça Mendes.
 
-**Promulgado em 27 de outubro de 2023.**
+Promulgado em 27 de outubro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de outubro de 2023.**
+Referendado em 27 de outubro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 20.º)
 
@@ -602,8 +618,10 @@ Visto e aprovado em Conselho de Ministros de 26 de outubro de 2023. - Mariana Gu
 
 Mapa de pessoal dirigente
 
-|  |  |  |
+| Designação dos cargos dirigentes | Número de lugares |  |
 | --- | --- | --- |
-| Designação dos cargos dirigentes | Número de lugares | Número de lugares |
-| Coordenador-geral... | 1 | 1 |
+|  |  |  |
+| Coordenador-geral... | 1 |  |
 | Coordenador-adjunto... | 6 | » |
+
+117007095

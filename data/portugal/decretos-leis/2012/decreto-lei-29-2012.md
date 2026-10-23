@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/29/2012/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2012-543734
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bbfcf9f467e679ac134f501e1f466a20271e2aa42c1d22de4ccf84cb4acf40e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53afc9572955d7b7a6c32cde44d0e5bab37a652aff9f615862d848091005d36f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,7 +67,6 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Universidade de Lisboa
 - Instituto Superior Técnico
 - Instituto Tecnológico e Nuclear
 - Integração de Serviços
@@ -77,12 +76,27 @@ subjects:
 - Sacavém
 - Transferência de Competências
 - Transferência Patrimonial
+- Universidade de Lisboa
 - Universidade Técnica de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:204379871:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:504774:por
+  label: "Determinada a sucessão pela autoridade reguladora competente prevista no âmbito deste diploma (Comissão Reguladora\
+    \ para a Segurança das Instalações Nucleares – COMRSIN) nas atribuições e competências do Instituto Superior Técnico,\
+    \ previstas no Dec Lei 198/2009, de 26-Ago, por via disposto no presente diploma, pelo DEC LEI.156/2013.05.11.2013.MECI,\
+    \ DR.IS [214] de 05.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-2013-504774
+  date: '2013-11-05'
+- type: amended_by
+  target: pt:dre:117202785:por
+  label: Derrogado o presente diploma, a partir de 02.04.2019, pelo(a) Decreto-Lei n.º 108/2018 - Diário da República n.º
+    232/2018, Série I de 2018-12-03, na matéria que contrarie as disposições daquele diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
 - type: cites
   target: eli:/application/external/euratom
   label: null
@@ -90,13 +104,13 @@ relationships:
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:11Z'
   warnings: []
   errors: []
 ---
@@ -199,15 +213,15 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 1 de Fevereiro de 2012.**
+Promulgado em 1 de Fevereiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de Fevereiro de 2012.**
+Referendado em 3 de Fevereiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 

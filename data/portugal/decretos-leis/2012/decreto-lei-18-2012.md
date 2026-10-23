@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/01/02000/0049400497.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/18/2012/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2012-543878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7bc2053e9f3eef7210dbe82861bd6817514976c9b520fae38615cd63fb058b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70acbf7120d06b55ce92330ca297724cf266f7bb8ece4c721f417cb4335a859b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Património
-- Fiscal Único
+- Bolsa de Estudos
 - Carreira de Investigação Científica
-- Investigação Científica e Tecnológica
-- Pessoal Dirigente
-- Unidade de Acompanhamento
 - Comissão Paritária
 - Conselho Científico
 - Conselho de Orientação
-- Definição de Competências
 - Conselho Diretivo
-- Instituto de Investigação Científica Tropical
-- Laboratório do Estado
-- Orgânica
-- Presidente
+- Definição de Competências
 - Estágio de Formação
-- Receita
-- Bolsa de Estudos
+- Fiscal Único
+- Instituto de Investigação Científica Tropical
+- Investigação Científica e Tecnológica
+- Laboratório do Estado
 - Ministério dos Negócios Estrangeiros
+- Orgânica
+- Património
+- Pessoal Dirigente
+- Presidente
+- Receita
+- Unidade de Acompanhamento
 - Vogal
 relationships:
 - type: amended_by
   target: pt:dre:69920316:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260881:por
+  label: "Determinada a transição para o Ministério dos Negócios Estrangeiros (cuja orgânica consta do Dec Lei 121/2011 de\
+    \ 29-dez) do Instituto de Investigação Científica Tropical, I.P, (IICT, I.P.), anteriormente no âmbito da Presidência\
+    \ do Conselho de Ministros (cuja orgânica foi aprovada pelo Dec Lei 126-A/2011 de 29-dez) pelo DEC LEI.60/2013.09.05.2013.PCM,\
+    \ DR.IS [89] de 09.05.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-2013-260881
+  date: '2013-05-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/2011/12/29/p/dre
   label: null
@@ -118,16 +126,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:145192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69920316:por
+  label: Revogado, extinguindo por fusão o Instituto de Investigação Científica e Tropical, I.P. (IICT, I.P.) constante do
+    presente diploma, e determinada a integração das suas atribuições, nos termos do artigo 3.º, respetivamente na Universidade
+    de Lisboa (UL) cujos Estatutos, foram homologados pelo DN 5-A/2013, de 19-abr e na Direção-Geral do Livro, Arquivo e Bibliotecas
+    (DGLAB), com a orgânica constante do Dec Lei 103/2012, de 16-maio, pelo(a) Decreto-Lei n.º 141/2015 - Diário da República
+    n.º 148/2015, Série I de 2015-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-2015-69920316
+  date: '2015-07-31'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:29Z'
   warnings: []
   errors: []
 ---
@@ -392,12 +437,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 24 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo de Sacadura Cabral Portas - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 19 de Janeiro de 2012.**
+Promulgado em 19 de Janeiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de Janeiro de 2012.**
+Referendado em 23 de Janeiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

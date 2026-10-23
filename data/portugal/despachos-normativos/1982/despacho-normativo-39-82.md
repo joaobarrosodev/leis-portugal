@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1982-608259
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T07:20:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33aea2163b117fec0aa3d3420d5a50fcb025474d102d7739237fad5c66d4b599
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91182f1e0d248db4ca9671788112ca49a4c780b8656c75b2bb67fe20c3c0bae8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:20:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arqueologia
+- Conselho da Europa
+- Convenção
+- Cooperação Cultural
+- Investigação Científica e Tecnológica
+- Londres
+- Património Cultural
+- Portugal
+- Protecção do Património
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:20:34Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +96,15 @@ de 2 de Abril
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada para ratificação a Convenção Europeia para a Protecção do Património Arqueológico, aberta à assinatura em 6 de Maio de 1969, cujo texto original e respectiva tradução em português seguem em anexo ao presente decreto.
+Artigo único. É aprovada para ratificação a Convenção Europeia para a Protecção do Património Arqueológico, aberta à assinatura em 6 de Maio de 1969, cujo texto original e respectiva tradução em português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 24 de Fevereiro de 1982.**
+Assinado em 24 de Fevereiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CONVENTION EUROPÉENNE POUR LA PROTECTION DU PATRIMOINE ARCHÉOLOGIQUE
 
@@ -445,7 +454,7 @@ b) O Comité de Ministros do Conselho da Europa poderá convidar qualquer outro 
 
 ###### ARTIGO 14.º
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados Membros do Conselho e qualquer outro Estado que tenha aderido à presente Convenção:**
+O Secretário-Geral do Conselho da Europa notificará os Estados Membros do Conselho e qualquer outro Estado que tenha aderido à presente Convenção:
 
 a) De qualquer assinatura;
 
@@ -461,6 +470,6 @@ Em fé do que, os abaixo assinados, devidamente autorizados para o efeito, assin
 
 Feita em Londres, aos 6 dias do mês de Maio de 1969, em inglês e em francês, ambos os textos fazendo igualmente fé, num único exemplar, que será depositado nos arquivos do Conselho da Europa.
 
-**O Secretário-Geral do Conselho da Europa enviará cópia autenticada a cada um dos Estados signatários e aderentes.**
+O Secretário-Geral do Conselho da Europa enviará cópia autenticada a cada um dos Estados signatários e aderentes.
 
 (Seguem-se as assinaturas.)

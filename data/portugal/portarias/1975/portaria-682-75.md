@@ -46,36 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/682-1975-310418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T04:52:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ca06125d41af47f404f01607e7f79e07035459ece8c48774e09600f23520ac8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1bd937fa0e3300f5ad36841d2bba87ddb9ee9ba22912123d43056ed15a36ede
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:52:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituições de Previdência Social
+- Pessoal de Enfermagem
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:160754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:52:42Z'
   warnings: []
   errors: []
 ---
@@ -116,6 +139,6 @@ Secretarias de Estado da Saúde e da Segurança Social, 4 de Novembro de 1975. -
 
 Tabela a que se refere o n.º 1 da Portaria n.º 682/75
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/11/26800/18431844.pdf))](https://files.diariodarepublica.pt/1s/1975/11/26800/18431844.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/11/26800/18431844.pdf)
 
-**O Secretário de Estado da Saúde, Carlos Matos Chaves Macedo. - O Secretário de Estado da Segurança Social, Vítor Manuel Gomes Vasques.**
+O Secretário de Estado da Saúde, Carlos Matos Chaves Macedo. - O Secretário de Estado da Segurança Social, Vítor Manuel Gomes Vasques.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/2/2011/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2011-485605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5ef18403f94c4db2a55d74c9f6afa5d3b014070fe32aa8b0ea7cf9d05408d5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af1eb937aa3107e8f95b91e3a20962fb2b4265ce777ba2d637b9b028aba49dfc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Serviço Postal
-- Ordenamento do Território
 - CAÇA
 - CTT
-- Simplegis
-- Publicitação
 - Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
-- Ordenamento Cinegético
-- Página na Internet
 - Internet
+- Ordenamento Cinegético
+- Ordenamento do Território
+- Página na Internet
+- Publicitação
 - SELO Postal
+- Serviço Postal
+- Simplegis
 - ZONA de CAÇA
 - ZONA de Intervenção Florestal
 relationships:
@@ -86,6 +86,36 @@ relationships:
   target: pt:dre:115012859:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:572470:por
+  label: "Alterados os arts. 11.º, 12.º e 12.º-A do Dec Lei 127/2005 de 05-ago, na redação do presente diploma, pelo DEC LEI.27/2014.18.02.2014.MAGM,\
+    \ DR.IS [34] de 18.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2014-572470
+  date: '2014-02-18'
+- type: amended_by
+  target: pt:dre:70064733:por
+  label: Alterado o art. 137.º do Dec Lei 202/2004 de 18-ago, com a redação do presente diploma, pelo(a) Decreto-Lei n.º 167/2015
+    - Diário da República n.º 163/2015, Série I de 2015-08-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-2015-70064733
+  date: '2015-08-21'
+- type: amended_by
+  target: pt:dre:105703294:por
+  label: Alterado o art. 4.º do Estatuto do Selo Postal, aprovado pelo Dec Lei 360/85 de 03-set, com a redação dada pelo presente
+    diploma, pelo(a) Decreto-Lei n.º 1/2017 - Diário da República n.º 4/2017, Série I de 2017-01-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-2017-105703294
+  date: '2017-01-05'
+- type: amended_by
+  target: pt:dre:107507172:por
+  label: Alterado o art. 12.º do Dec Lei 127/2005, de 05-ago, na redação do presente diploma, pelo(a) Decreto-Lei n.º 67/2017
+    - Diário da República n.º 113/2017, Série I de 2017-06-12, que o republica
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2017-107507172
+  date: '2017-06-12'
+- type: amended_by
+  target: pt:dre:115012859:por
+  label: Alterados os arts. 15.º, 23.º, 28.º, 48.º e 137.º do Dec Lei 202/2004, de 18-ago, na redação do presente diploma
+    pelo(a) Decreto-Lei n.º 24/2018 - Diário da República n.º 71/2018, Série I de 2018-04-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2018-115012859
+  date: '2018-04-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei
   label: null
@@ -126,16 +156,232 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/173/1999/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/173/1999/09/21/p/dre
+- type: cites
+  target: pt:dre:165180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179355:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683069:por
+  label: null
+  source: null
 article_structure:
-  article_count: 208
+  article_count: 182
   section_count: 36
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:55Z'
   warnings: []
   errors: []
 ---
@@ -234,7 +480,9 @@ Os artigos 15.º, 18.º, 22.º, 23.º, 24.º, 26.º, 28.º, 29.º, 30.º, 40.º,
 
 2 - Os critérios de proporcionalidade da participação dos diferentes grupos são fixados nos respectivos despachos de transferência.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 O membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural pode, por despacho:
 
@@ -242,7 +490,9 @@ a) Conceder a respectiva transferência de gestão;
 
 b) Indeferir o pedido de transferência.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A transferência de gestão prevista no artigo 14.º extingue-se:
 
@@ -256,7 +506,9 @@ d) Por decisão do membro do Governo responsável pelas áreas da agricultura e 
 
 2 - A extinção da transferência prevista nas alí-neas a), b) e d) do número anterior é objecto de despacho do membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - As ZCN são criadas por despacho do membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural ou por despacho conjunto deste membro do Governo e dos membros do Governo competentes em razão da matéria.
 
@@ -270,7 +522,9 @@ d) Por decisão do membro do Governo responsável pelas áreas da agricultura e 
 
 6 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - O membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural pode autorizar a abertura de um processo de candidatura para a transferência de gestão de ZCN.
 
@@ -278,7 +532,9 @@ d) Por decisão do membro do Governo responsável pelas áreas da agricultura e 
 
 3 - Nas ZCN a suspensão e revogação são determinadas por despacho do membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural, que estabelece ainda, no caso da suspensão, o prazo para a supressão do motivo que a determinou.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - As ZCM são criadas por despacho do membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural, que define as condições da transferência de gestão.
 
@@ -288,7 +544,9 @@ d) Por decisão do membro do Governo responsável pelas áreas da agricultura e 
 
 4 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -298,7 +556,9 @@ d) Por decisão do membro do Governo responsável pelas áreas da agricultura e 
 
 4 - ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -316,7 +576,9 @@ d) Por decisão do membro do Governo responsável pelas áreas da agricultura e 
 
 8 - Sempre que as entidades gestoras requeiram atempadamente a renovação e os processos não tenham ficado concluídos até ao termo da transferência de gestão, fica suspenso o exercício da caça até à publicação do despacho de renovação, pelo prazo máximo de seis meses.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - As ZCA são concessionadas por despacho do membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural a associações de caçadores com um mínimo de 20 associados.
 
@@ -324,7 +586,9 @@ d) Por decisão do membro do Governo responsável pelas áreas da agricultura e 
 
 3 - ...
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 Compete ao membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural decidir, por despacho:
 
@@ -332,7 +596,9 @@ a) Conceder a respectiva concessão;
 
 b) Indeferir o pedido de concessão.
 
-###### Artigo 41.º — Conteúdo do despacho de concessão
+Artigo 41.º
+
+Conteúdo do despacho de concessão
 
 Os despachos de concessão de zonas de caça devem especificar, designadamente:
 
@@ -344,7 +610,9 @@ c) ...
 
 d) ...
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - ...
 
@@ -356,11 +624,15 @@ d) ...
 
 5 - A mudança de concessionário é efectuada por despacho do membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 Ocorrendo alteração na estrutura ou tipologia de uma ou várias zonas de caça confinantes entre si, seja por divisão de uma zona de caça, por unificação de várias zonas, por anexação, por mudança de tipologia ou outras causas, em que se verifique simultaneidade ou sucessão temporal imediata de actos, são os mesmos objecto de um único despacho do membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - A renovação pode ser automática desde que o respectivo despacho de concessão o preveja e as condições que estiveram na sua origem não tenham sido alteradas ou, ainda, se no decorrer da concessão ou renovação vierem a reunir-se as condições que o permitam.
 
@@ -382,13 +654,17 @@ Ocorrendo alteração na estrutura ou tipologia de uma ou várias zonas de caça
 
 10 - ...
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - ...
 
 2 - No caso de caducidade da concessão ou renovação, e na salvaguarda do património cinegético existente, a extinção da zona de caça é determinada apenas por despacho do membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural, não sendo entretanto permitida a actividade cinegética.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - ...
 
@@ -396,7 +672,9 @@ Ocorrendo alteração na estrutura ou tipologia de uma ou várias zonas de caça
 
 3 - A sinalização dos aparcamentos de gado e dos terrenos referidos na alínea i) do n.º 1 do presente artigo carece de autorização prévia da DGRF.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - As áreas de refúgio de caça são criadas por despacho do membro do Governo responsável pelas áreas da agricultura e desenvolvimento rural, que estabelece as limitações às actividades que prejudiquem ou possam perturbar as espécies cinegéticas e não cinegéticas, cuja conservação, fomento ou protecção se pretende.
 
@@ -410,7 +688,9 @@ Ocorrendo alteração na estrutura ou tipologia de uma ou várias zonas de caça
 
 6 - O membro do Governo responsável pela área do ambiente pode propor áreas de refúgio quando estejam em causa espécies não cinegéticas, a criar através de despacho conjunto dos membros do Governo responsáveis pelas áreas da agricultura e desenvolvimento rural e do ambiente e ordenamento do território.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 O direito à não caça extingue-se:
 
@@ -422,7 +702,9 @@ c) Quando deixarem de se verificar as condições previstas no n.º 2 do artigo 
 
 d) ...
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - ...
 
@@ -432,7 +714,9 @@ d) ...
 
 4 - Nos meses de Janeiro e Fevereiro, a caça à lebre só pode ser permitida a corricão e de cetraria e apenas em zonas de caça.
 
-###### Artigo 118.º — [...]
+Artigo 118.º
+
+[...]
 
 1 - A criação de zonas de caça, a anexação e desanexação de terrenos, bem como a sua renovação, revogação e mudança de concessionário, são efectuadas por despacho dos membros do Governo responsáveis pelas áreas da agricultura e do desenvolvimento rural, do ambiente e do ordenamento do território.
 
@@ -440,7 +724,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 137.º — [...]
+Artigo 137.º
+
+[...]
 
 1 - Constituem contra-ordenações de caça:
 
@@ -534,7 +820,9 @@ tt)...
 
 4 - ...
 
-###### Artigo 157.º — [...]
+Artigo 157.º
+
+[...]
 
 1 - ...
 
@@ -544,17 +832,23 @@ tt)...
 
 4 - ...
 
-###### Artigo 162.º — [...]
+Artigo 162.º
+
+[...]
 
 Até à publicação dos despachos que fixam a composição dos conselhos cinegéticos e de conservação da fauna, mantêm-se em vigor as portarias de constituição existentes.
 
-###### Artigo 167.º — [...]
+Artigo 167.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, a exclusão dos terrenos referidos no n.º 1 do artigo 28.º pode ser requerida no prazo de um ano sobre a data de publicação do despacho de criação ou de renovação da zona de caça.
 
 2 - ...
 
-###### Artigo 170.º — [...]
+Artigo 170.º
+
+[...]
 
 Sem prejuízo do regime transitório previsto no artigo seguinte, são revogados:
 
@@ -652,7 +946,9 @@ Os artigos 11.º e 12.º do [Decreto-Lei n.º 127/2005](https://diariodarepublic
 
 2 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -736,7 +1032,9 @@ b) Sempre que se proceda a alterações, revisões, adaptações ou rectificaç�
 
 8 - O envio dos instrumentos de gestão territorial para publicação no Diário da República é efectuado por via electrónica e através de uma plataforma informática, nos termos de portaria conjunta do membro do Governo responsável pela área do ordenamento do território e do membro do Governo com superintendência sobre a actividade da Imprensa Nacional-Casa da Moeda, S. A., relacionada com a edição do Diário da República.
 
-###### Artigo 151.º — [...]
+Artigo 151.º
+
+[...]
 
 1 - Para efeitos do depósito de planos intermunicipais e de planos municipais de ordenamento do território não sujeitos a ratificação, assim como das respectivas alterações e revisões, e ainda de medidas preventivas, a assembleia intermunicipal ou a câmara municipal, conforme a natureza do plano aprovado, remete à DGOTDU uma colecção completa das peças escritas e gráficas que, nos termos do presente decreto-lei, constituem o conteúdo documental do instrumento de gestão territorial, bem como cópia autenticada da deliberação da assembleia municipal que aprova o plano, o respectivo relatório ambiental, os pareceres emitidos nos termos do presente diploma ou a acta da conferência de serviços, quando a eles houver lugar, e o relatório de ponderação dos resultados da discussão pública.
 
@@ -762,15 +1060,15 @@ b) Sempre que se proceda a alterações, revisões, adaptações ou rectificaç�
 
 Visto e aprovado em Conselho de Ministros de 23 de Setembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Manuel Pedro Cunha da Silva Pereira - António Manuel Soares Serrano - António Augusto da Ascenção Mendonça - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Valter Victorino Lemos - Ana Maria Teodoro Jorge - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 20 de Dezembro de 2010.**
+Promulgado em 20 de Dezembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de Dezembro de 2010.**
+Referendado em 23 de Dezembro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 10.º)
 

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24314-1969-214270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70e319d9341477c790ffc49713e0a6cf4c6c96b41a102e045e8031d2ed1d50fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd302ea06de6d4ce41752415bb60a8d0e52320c596906faf9b576fbd14681a66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:41Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +95,19 @@ Ministério da Educação Nacional, 26 de Setembro de 1969. - Pelo Ministro da E
 
 Regulamento do Prémio Molaflex
 
-###### Artigo 1.º O Prémio Molaflex, criado na Escola Industrial de S. João da Madeira pela empresa Molaflex (Molas Flexíveis, Lda.), com sede na mesma vila, é constituído pela importância de 1500$00 e destina-se a galardoar o aluno que, em cada ano, obtiver mais alta classificação no exame de aptidão profissional do curso de formação de serralheiro.
+Artigo 1.º O Prémio Molaflex, criado na Escola Industrial de S. João da Madeira pela empresa Molaflex (Molas Flexíveis, Lda.), com sede na mesma vila, é constituído pela importância de 1500$00 e destina-se a galardoar o aluno que, em cada ano, obtiver mais alta classificação no exame de aptidão profissional do curso de formação de serralheiro.
 
-###### Art. 2.º - 1. O aluno premiado tem direito a um estágio profissional remunerado, com a duração de dois meses, a realizar nas oficinas da empresa.
+Art. 2.º - 1. O aluno premiado tem direito a um estágio profissional remunerado, com a duração de dois meses, a realizar nas oficinas da empresa.
 
 2. O estágio é facultativo para o aluno.
 
-###### Art. 3.º - 1. Compete ao conselho escolar designar o aluno a premiar.
+Art. 3.º - 1. Compete ao conselho escolar designar o aluno a premiar.
 
 2. Havendo mais de um aluno com a mesma classificação no exame de aptidão profissional, o Prémio será atribuído ao aluno que tenha mais elevada classificação de diploma e, se a igualdade subsistir, ao que alcance melhor classificação na disciplina de Tecnologia.
 
-###### Art. 4.º A importância do Prémio será entregue à Direcção da Escola pela empresa instituidora até ao dia 2 de Dezembro de cada ano.
+Art. 4.º A importância do Prémio será entregue à Direcção da Escola pela empresa instituidora até ao dia 2 de Dezembro de cada ano.
 
-###### Art. 5.º - 1. A entrega do Prémio será feita solenemente no período festivo do Natal, em sessão para a qual será convocado por escrito o aluno contemplado.
+Art. 5.º - 1. A entrega do Prémio será feita solenemente no período festivo do Natal, em sessão para a qual será convocado por escrito o aluno contemplado.
 
 2. Se o aluno não comparecer nem se fizer representar e se não levantar o Prémio até ao termo do ano lectivo, o respectivo quantitativo reverterá a favor da acção social do Centro de Actividades Circum-Escolares da Escola.
 

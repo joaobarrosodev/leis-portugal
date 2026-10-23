@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 301/1982, 1º Suplemento, Série I de 1982-12-31
   number: '301'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4326-(6) a 4326-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf
 entry_into_force_dates: []
@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1339-1982-626667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T07:08:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d89da3ef4b27888c0935100039ff7da23315d344318523d508e51c46c8b91bee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0e7279f029f0869ef8b547402d9a21440d9da2db25ef2ceb5ae80312187111b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:08:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Preço
+- Tarifa Geral de Transportes
+- Transporte de Passageiros
+- Transporte Ferroviário
+- Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:311029:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:148442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:08:41Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +158,11 @@ Manda o Governo da República Portuguesa, pelos Ministros da Agricultura, Comér
 
 Autocarros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
 
 Eléctricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
 
 Elevadores:
 
@@ -126,7 +180,7 @@ Pré-comprado (ver nota a) ... 15$00
 
 1.1.3 - Transtejo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
 
 1.2 - Passes:
 
@@ -182,7 +236,7 @@ LE ... 2405$00
 
 Válidos na Carris e no Metropolitano e ainda num percurso de um operador rodoviário, nos termos definidos na [Portaria n.º 765-A/80](https://diariodarepublica.pt/dr/detalhe/portaria/765-a-1980-250430), de 1 de Outubro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
 
 1.2.5 - Passe turístico (semanal) válido nas redes da Carris e do Metropolitano ... 470$00
 
@@ -222,21 +276,21 @@ Passe Terreiro do Paço-Montijo para a terceira idade (mensal) (válido para ind
 
 Autocarros e troleicarros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
 
 Eléctricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
 
 2.1.2 - Outros percursos com 1 ou 2 términos fora da cidade:
 
 Autocarros e troleicarros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
 
 Eléctricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
 
 Fora da cidade, nos percursos comuns às carreiras do STCP sujeitas a estas tarifas, os outros concessionários deverão praticar as tarifas homologadas para aquelas. A requerimento dos respectivos concessionários, o director-geral de Transportes Terrestres poderá autorizar, por despacho, que nas carreiras interurbanas se pratique naqueles percursos o regime tarifário previsto no n.º 4 do presente diploma.
 
@@ -306,7 +360,7 @@ Válido no STCP e na CP, nos termos definidos pela [Portaria n.º 306/80](https:
 
 Válidos nos termos definidos pela [Portaria n.º 756/80](https://diariodarepublica.pt/dr/detalhe/portaria/756-1980-461620), de 30 de Setembro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
 
 3 - Outros transportes urbanos:
 
@@ -344,13 +398,13 @@ A Direcção-Geral de Transportes Terrestres poderá aprovar mínimos de cobran�
 
 4.3.1 - Para número ilimitado de viagens:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
 
 4.3.2 - Para número limitado de viagens:
 
 Em substituição da modalidade referida no número anterior e a requerimento dos concessionários, pode a Direcção-Geral de Transportes Terrestres autorizar a emissão de assinaturas de linha para 44, 52 e 88 viagens, não podendo esta última modalidade ser praticada como modalidade única:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
 
 4.3.3 - Quando as assinaturas de linha previstas nos números anteriores permitirem a utilização de duas ou mais carreiras, o seu preço será calculado em função do preço do bilhete simples correspondente à distância zonal do percurso para que são válidas.
 
@@ -372,4 +426,4 @@ Em substituição da modalidade referida no número anterior e a requerimento do
 
 Ministérios da Agricultura, Comércio e Pescas e da Habitação, Obras Públicas e Transportes, 31 de Dezembro de 1982. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca. - Pelo Ministro da Habitação, Obras Públicas e Transportes, Abílio Gaspar Rodrigues, Secretário de Estado dos Transportes Interiores.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)

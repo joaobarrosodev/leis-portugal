@@ -19,15 +19,13 @@ publication:
   reference: Diário da República n.º 284/2000, 1º Suplemento, Série I-A de 2000-12-11
   number: '284'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7066-(2) a 7066-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/284a01/00020002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+legal_status: not_in_force
+notes: []
 language: por
 version:
   kind: original
@@ -48,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/57-a/2000/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/57-a-2000-476764
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T04:36:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d961899157dfd9217fdbb580fac6a759ecbf6666ab73646b73db813f66565ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94ec29103ef1953514be9805a4091410614831df4417ee4390b83b8ba36c0ce7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:36:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +73,21 @@ relationships:
   target: pt:dre:338991:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:338991:por
+  label: "Rectificada pela DECL-RECT.2/2001.2001.01.05.PR DR.IS-A [15] DE 18/JAN/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/2-2001-338991
+  date: '2001-01-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:36:48Z'
   warnings: []
   errors: []
 ---
@@ -95,12 +98,12 @@ de 11 de Dezembro
 
 É exonerado, a seu pedido e sob proposta do Primeiro-Ministro, o Dr. Ricardo Paixão Moreira Sá Fernandes do cargo de Secretário de Estado dos Assuntos Fiscais.
 
-**Assinado em 6 de Dezembro de 2000.**
+Assinado em 6 de Dezembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Dezembro de 2000.**
+Referendado em 11 de Dezembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

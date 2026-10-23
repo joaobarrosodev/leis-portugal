@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24446-1969-217485
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c7d6c7db08e42d4dbeb8d100f7ce98ad300e1142b541f5153d560f42771ed6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73708fb173943501fa1c63d7363b9bdcadd543456dda3fba5756f20098ab7cf5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:148178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315121:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:33Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +105,13 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 2. Os artigos 18.º, 33.º, 34.º, 35.º e 38.º do mesmo Regulamento são substituídos pelos seguintes:
 
-###### Art. 18.º - 1. As provas realizar-se-ão em Lisboa, perante um júri constituído da seguinte forma:
+Art. 18.º - 1. As provas realizar-se-ão em Lisboa, perante um júri constituído da seguinte forma:
 
 Presidente:
 
 O director do Serviço do Pessoal, para os concursos de chefes de secção;
 
-**O chefe da 4.ª Repartição da Direcção do Serviço do Pessoal, para os primeiros-oficiais, segundos-oficiais, terceiros-oficiais e dactilógrafos.**
+O chefe da 4.ª Repartição da Direcção do Serviço do Pessoal, para os primeiros-oficiais, segundos-oficiais, terceiros-oficiais e dactilógrafos.
 
 Vogais (para todos os concursos):
 
@@ -115,7 +127,7 @@ Um funcionário civil de secretaria de categoria superior à dos concorrentes, m
 
 ...
 
-###### Art. 33.º - 1. É concedido a todos os funcionários civis de secretaria o direito de solicitarem a sua inscrição para lugares que venham a vagar mediante requerimento nesse sentido dirigido ao director do Serviço do Pessoal.
+Art. 33.º - 1. É concedido a todos os funcionários civis de secretaria o direito de solicitarem a sua inscrição para lugares que venham a vagar mediante requerimento nesse sentido dirigido ao director do Serviço do Pessoal.
 
 2. A inscrição de um funcionário para servir em determinado local anulará a inscrição que haja sido requerida para servir noutro.
 
@@ -123,7 +135,7 @@ Um funcionário civil de secretaria de categoria superior à dos concorrentes, m
 
 4. Será anulada a inscrição do funcionário que desista da sua transferência quando esta lhe competir.
 
-###### Art. 34.º Sempre que razões ou conveniências do serviço não o impeçam, deverão ser transferidos os funcionários que estiverem nas seguintes condições:
+Art. 34.º Sempre que razões ou conveniências do serviço não o impeçam, deverão ser transferidos os funcionários que estiverem nas seguintes condições:
 
 a) Quando hajam sido castigados com pena de suspensão;
 
@@ -131,7 +143,7 @@ b) Quando hajam terminado três anos de permanência em local para onde tenham s
 
 c) Quando prestem serviço há mais de oito anos nos organismos instalados nas margens norte e sul do Tejo, incluindo a Capitania do Porto de Lisboa e suas delegações marítimas e a Capitania do Porto de Cascais, e haja nos mesmos organismos funcionários de igual categoria voluntários para os lugares.
 
-###### Art. 35.º - 1. As transferências por permuta só serão autorizadas quando os requerentes se encontrem em número um nas escalas respectivas.
+Art. 35.º - 1. As transferências por permuta só serão autorizadas quando os requerentes se encontrem em número um nas escalas respectivas.
 
 2. Enquanto houver indivíduos aprovados em concursos abertos nos termos do artigo 24.º não serão admitidas transferências de funcionários para as vagas que ocorram nas capitanias e organismos insulares.
 
@@ -139,6 +151,6 @@ c) Quando prestem serviço há mais de oito anos nos organismos instalados nas m
 
 ...
 
-###### Art. 38.º - 1. São revogados todos os despachos ministeriais, normas e instruções publicados ao abrigo do § 2.º do artigo 15.º do [Decreto-Lei n.º 36081](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36081-1946-148178), de 31 de Dezembro de 1946, relativos a admissões, promoções e transferências do pessoal civil de secretaria.
+Art. 38.º - 1. São revogados todos os despachos ministeriais, normas e instruções publicados ao abrigo do § 2.º do artigo 15.º do [Decreto-Lei n.º 36081](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36081-1946-148178), de 31 de Dezembro de 1946, relativos a admissões, promoções e transferências do pessoal civil de secretaria.
 
 Ministério da Marinha, 29 de Novembro de 1969. - O Ministro da Marinha, Manuel Pereira Crespo.

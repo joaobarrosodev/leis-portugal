@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/06/10700/0174401751.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/23/2016/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2016-74605301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b805c40deba86ac3a60222312936b8446c7cfb4959fc5bd189efa49bd3a0b6cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bac5f5a8fede96998adf71b259b37fab39b41158f4f4e5945f6f9d12a9fd4ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
+- Açores
 - Acreditação
 - Água
 - ÁGUA Potável
 - Aproximação das Legislações
-- Região Autónoma
-- Direção Geral da Saúde
+- ASAE
+- Autoridade Competente
+- Balcão do Empreendedor
 - Contra-ordenação
 - Controlo de Qualidade
-- Definição de Competências
 - Controlo Sanitário
-- Saúde Pública
+- Definição de Competências
+- Direção Geral da Saúde
+- Entidade Reguladora dos Serviços das Águas e dos Resíduos
 - Fiscalização
 - Laboratório
-- ASAE
-- Entidade Reguladora dos Serviços das Águas e dos Resíduos
-- Poluição da água
 - Madeira.região Autónoma
+- Poluição da água
+- Região Autónoma
 - Resíduo Radioactivo
-- Açores
-- Abastecimento de Água
+- Saúde Pública
 - Tratamento de ÁGUA
-- Balcão do Empreendedor
-- Autoridade Competente
 relationships:
 - type: amended_by
   target: pt:dre:114315242:por
@@ -159,6 +159,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/51/2014/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/51/2014/08/25/p/dre
+- type: cites
+  target: pt:dre:205669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56346571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640931:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:114315242:por
+  label: Revogado, a partir de 01.01.2018, pelo(a) Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de
+    2017-12-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-2017-114315242
+  date: '2017-12-07'
 - type: transposes
   target: celex:31998L0083
   label: null
@@ -170,13 +240,13 @@ relationships:
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:49Z'
   warnings: []
   errors: []
 ---
@@ -443,21 +513,21 @@ O presente decreto-lei entra em vigor no dia 1 de julho de 2016.
 
 Visto e aprovado em Conselho de Ministros de 19 de maio de 2016. - António Luís Santos da Costa - Maria Margarida Ferreira Marques - Manuel Frederico Tojal de Valsassina Heitor - Fernando Manuel Ferreira Araújo - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
 
-**Promulgado em 31 de maio de 2016.**
+Promulgado em 31 de maio de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 2 de junho de 2016.**
+Referendado em 2 de junho de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — [a que se referem a alínea e) do artigo 4.º, o n.º 2 do artigo 5.º e o n.º 1 do artigo 6.º]
 
 Valores paramétricos para o radão, o trítio e a DI na água destinada ao consumo humano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/06/10700/0174401751.pdf))](https://files.diariodarepublica.pt/1s/2016/06/10700/0174401751.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/06/10700/0174401751.pdf)
 
 ## ANEXO II — [a que se referem a alínea e) do artigo 4.º, o n.º 2 do artigo 6.º e o n.º 1 do artigo 12.º]
 
@@ -493,7 +563,7 @@ QUADRO 1
 
 Frequência mínima de amostragem e análise para efeitos de controlo da água destinada ao consumo humano fornecida por uma rede de distribuição ou por um camião-cisterna ou utilizada numa empresa da indústria alimentar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/06/10700/0174401751.pdf))](https://files.diariodarepublica.pt/1s/2016/06/10700/0174401751.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/06/10700/0174401751.pdf)
 
 7 - Estabelecimento de uma média
 
@@ -529,13 +599,13 @@ Dado que níveis elevados de trítio podem indicar a presença de outros radionu
 
 A dose indicativa é calculada a partir das concentrações de radionuclídeos medidas e dos coeficientes de dose fixados no quadro A do anexo III da [Diretiva n.º 96/29/EURATOM](https://data.europa.eu/eli/dir/1996/29/oj?locale=pt) do Conselho, de 13 de maio de 1996, ou de informações mais recentes reconhecidas pelas autoridades competentes, com base na ingestão anual de água (730 l para os adultos). Caso se verifique a fórmula seguinte, pode concluir-se que a dose indicativa é inferior ao valor paramétrico de 0,1 mSv e que não é necessária nova investigação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/06/10700/0174401751.pdf))](https://files.diariodarepublica.pt/1s/2016/06/10700/0174401751.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/06/10700/0174401751.pdf)
 
 QUADRO 1
 
 Concentrações derivadas de radioatividade na água destinada ao consumo humano (1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/06/10700/0174401751.pdf))](https://files.diariodarepublica.pt/1s/2016/06/10700/0174401751.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/06/10700/0174401751.pdf)
 
 3 - Avaliação de desempenho e métodos de análise
 
@@ -543,4 +613,4 @@ Para os parâmetros e radionuclídeos seguintes, o método de análise utilizado
 
 QUADRO 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/06/10700/0174401751.pdf))](https://files.diariodarepublica.pt/1s/2016/06/10700/0174401751.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/06/10700/0174401751.pdf)

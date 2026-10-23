@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 65/1982, 1º Suplemento, Série I de 1982-03-19
   number: '65'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 622-(1) a 622-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/03/06501/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/304-a-1982-692189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T07:13:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7963f7db339a209483e769f3db30bc3c5d1e6bd862df310d2def8214af98079f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af736eeaf93d2a8fe79a1b47cad4678de7f8fff28060e49d1a8ba702538e650e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:13:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola de Condução
+- Política de Preços
+- Preço
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:309738:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:428031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:309738:por
+  label: "Revogada pela PORT.255/83.05.03.1983.MACP, DR.IS [53] de 05.03.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/255-1983-309738
+  date: '1983-03-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:13:17Z'
   warnings: []
   errors: []
 ---
@@ -195,7 +220,7 @@ TABELA B
 
 Preços máximos por lição ou por séries de 10 e 20 lições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/06501/00010003.pdf))](https://files.diariodarepublica.pt/1s/1982/03/06501/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/06501/00010003.pdf)
 
 TABELA C
 
@@ -203,7 +228,7 @@ TABELA C
 
 Preços máximos por lição ou por séries de 15 lições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/06501/00010003.pdf))](https://files.diariodarepublica.pt/1s/1982/03/06501/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/06501/00010003.pdf)
 
 TABELA D
 
@@ -211,7 +236,7 @@ TABELA D
 
 Preços máximos por lição ou por séries de 10 lições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/06501/00010003.pdf))](https://files.diariodarepublica.pt/1s/1982/03/06501/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/06501/00010003.pdf)
 
 TABELA E
 
@@ -219,7 +244,7 @@ TABELA E
 
 Preços máximos do fornecimento de veículos de instrução para exame:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/06501/00010003.pdf))](https://files.diariodarepublica.pt/1s/1982/03/06501/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/06501/00010003.pdf)
 
 ## ANEXO II — Minuta do requerimento a que se refere o n.º 3.º da Portaria n.º 304-A/82
 

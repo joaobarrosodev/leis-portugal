@@ -46,36 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/737-1981-577913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:53:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63ea808ced1780b44a834193d6142a3e6074a499ca3e4e8f4d6d94cf8e0f0d9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d8d01e421f53f32b9fda8f775472a081ec59ad32ebb482a088be37c83843c44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:53:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Activo Imobilizado
+- Amortização
+- Contribuição Industrial
+- Empresa
+- Indústria
+- Taxa
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICAÇÃO DE 13-NOV DR.IS [272] DE 25/NOV/1981.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1981-11-25'
+- type: cites
+  target: pt:dre:139722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693240:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:567955:por
+  label: Rectificada pela DECL.DD6276.13.11.1981.PCM, DR.IS [272] de 25.11.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-567955
+  date: '1981-11-13'
 article_structure:
   article_count: 0
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:53:28Z'
   warnings: []
   errors: []
 ---
@@ -252,7 +292,7 @@ TABELA I
 
 Taxas específicas
 
-##### DIVISÃO I
+DIVISÃO I
 
 Indústrias agro-pecuárias e da pesca
 
@@ -318,7 +358,7 @@ Grupo 2 - Indústria da pesca
 
 6 - Ferramentas e utensílios de uso específico ... 25
 
-##### DIVISÃO II
+DIVISÃO II
 
 Indústrias extractivas
 
@@ -346,7 +386,7 @@ Indústrias extractivas
 
 (nota b) Em função da superfície degradada.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Indústrias transformadoras
 
@@ -816,7 +856,7 @@ C) Fabricação de artigos de matérias plásticas
 
 4 - Ferramentas e utensílios de uso específico ... 33,33
 
-##### DIVISÃO IV
+DIVISÃO IV
 
 Construção civil e obras públicas
 
@@ -870,7 +910,7 @@ Construção civil e obras públicas
 
 5 - Ferramentas e equipamentos individuais ... 33,33
 
-##### DIVISÃO V
+DIVISÃO V
 
 Electricidade, gás e água
 
@@ -942,7 +982,7 @@ Grupo 3 - Captação e distribuição de água
 
 8 - Ferramentas e utensílios de uso específico ... 25
 
-##### DIVISÃO VI
+DIVISÃO VI
 
 Transportes e comunicações
 
@@ -1054,7 +1094,7 @@ Grupo 2 - Comunicações telefónicas, telegráficas e radiotelegráficas
 
 6 - Ferramentas e utensílios de uso específico ... 25
 
-##### DIVISÃO VII
+DIVISÃO VII
 
 Serviços
 
@@ -1154,7 +1194,7 @@ TABELA II
 
 Taxas genéricas
 
-##### DIVISÃO I
+DIVISÃO I
 
 Activo corpóreo
 
@@ -1376,7 +1416,7 @@ Grupo 5 - Elementos diversos
 
 4.º ano - 10%.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Activo incorpóreo
 
@@ -1398,4 +1438,4 @@ Activo incorpóreo
 
 (nota b) Os alvarás, licenças, concessões e outros direitos que se encontravam sujeitos ao regime de condicionamento industrial, e que não estejam totalmente amortizados, deverão ser amortizados a uma taxa que permita a sua completa amortização até ao exercício de 1983.
 
-**O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias.**
+O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias.

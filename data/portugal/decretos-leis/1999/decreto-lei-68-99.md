@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/68/1999/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1999-158047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:15:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecbfd0b1291775f66b7edc139535e66cc528fd48747c81cab9b8f0c8a5ffcf0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2dc37ac8201892fe746dfb38dff25e28ba6ad6df4a63564524c95f10b1980f52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:15:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Agrícola
+- Agricultura
 - ÁGUA de REGA
 - ÁGUA Potável
 - ÁGUA Superficial
+- Águas Subterrâneas
 - Aproximação das Legislações
-- Instituto da ÁGUA
+- Atividade Agrícola
 - Código de BOAS Práticas Agrícolas
-- Multa
+- Comissão
 - Comissão Técnica de Acompanhamento
 - Contra-ordenação
-- Recursos Hídricos
 - Definição de Competências
 - Direcção Regional de Agricultura
-- Mar Territorial
 - Direcção Regional do Ambiente e Recursos Naturais
-- Saúde Pública
-- Comissão
-- Licenciamento
-- Proteção do Ambiente
-- Planeamento
-- Fertilizante
-- Programa de Acção
-- Poluição da água
 - Domínio Público Hídrico
+- Fertilizante
+- Instituto da ÁGUA
+- Licenciamento
+- Mar Territorial
+- Multa
+- Planeamento
 - Poluição
-- Águas Subterrâneas
-- Agricultura
+- Poluição da água
+- Programa de Acção
+- Proteção do Ambiente
+- Recursos Hídricos
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:596288:por
@@ -111,15 +111,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1991/676/oj
 article_structure:
-  article_count: 3
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:15:49Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +152,9 @@ Os artigos 4.º, 5.º e 7.º do Decreto-Lei n.º 235/97, de 3 de Setembro, e os 
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A designação e revisão da designação das zonas vulneráveis será feita mediante:
 
@@ -172,7 +174,9 @@ c) A avaliação do estado de eutrofização das águas doces superficiais, dos 
 
 4 - Os resultados analíticos obtidos através do cumprimento do disposto no número anterior serão enviados ao INAG, que os deverá manter em registos adequados à sua permanente actualização e fácil disponibilização.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Para a prossecução dos objectivos mencionados no artigo 2.º, serão aprovados, por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, programas de acção a aplicar às zonas identificadas como vulneráveis, nos termos do artigo 4.º, tendo em conta:
 
@@ -194,7 +198,9 @@ b) As condições do ambiente, em particular as edafo-climáticas, nas diferente
 
 8 - ...
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 1 - Na identificação das águas referidas no n.º 1 do artigo 4.º serão aplicados, entre outros, os seguintes critérios:
 
@@ -212,7 +218,9 @@ b) ...
 
 c) ...
 
-## ANEXO V — [...]
+ANEXO V
+
+[...]
 
 1 - ...
 
@@ -234,12 +242,12 @@ e) As previsões quanto aos prazos em que se espera que as águas identificadas 
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 1998. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - Luís Manuel Capoulas Santos - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 22 de Fevereiro de 1999.**
+Promulgado em 22 de Fevereiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Março de 1999.**
+Referendado em 4 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

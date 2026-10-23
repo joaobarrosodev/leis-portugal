@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/439/1999/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1999-692184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:12:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 327b5a59bd2c3d80ef791e6de39b3c15575e4dff584114570b9eb41bb4cd26e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 704c29125296b355b9dede773a157fc0f22f30b2fdc2fa1ba3bc6b663a36d072
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:12:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cálculo de Pensões
 - Caixa Geral de Aposentações
-- Macau
+- Cálculo de Pensões
 - Fundo de Pensões de Macau
+- Macau
 - Pensão de Aposentação
 - Pensão Unificada
 - Regime Geral da Segurança Social
@@ -84,16 +84,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/361/1998/11/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/361/1998/11/18/p/dre
+- type: cites
+  target: pt:dre:229304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668323:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:12:53Z'
   warnings: []
   errors: []
 ---
@@ -134,12 +142,12 @@ O presente diploma entra em vigor no 1.º dia do 3.º mês seguinte ao da sua pu
 
 Visto e aprovado em Conselho de Ministros de 16 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 13 de Outubro de 1999.**
+Promulgado em 13 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Outubro de 1999.**
+Referendado em 21 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

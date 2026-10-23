@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/18100/0810508115.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/196/2015/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 137859b6eec51490e935a1e1f0c28d24619ea57392dd8f77eb740ce7df484357
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0190d971f1ae3512398faadcb915e9ab3f23a78e2cfacaeb6fbedcbb038b3558
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Inspecção Geral das Actividades Culturais
+- Comércio
+- Comércio Eletrónico
 - Comunicações Eletrónicas
 - Contra-ordenação
 - Definição de Competências
@@ -76,14 +76,14 @@ subjects:
 - Fiscalização
 - Fixação de Preços
 - Importação
+- Inspecção Geral das Actividades Culturais
 - Manual Escolar
+- Multa
 - Política Cultural
 - Preço
 - Preço de Venda
 - Preço FIXO
 - Retalhista
-- Comércio Eletrónico
-- Comércio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/176/1996/09/21/p/dre
@@ -97,16 +97,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/92/2010/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/92/2010/07/26/p/dre
+- type: cites
+  target: pt:dre:215895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 48
+  article_count: 32
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:06Z'
   warnings: []
   errors: []
 ---
@@ -183,13 +203,17 @@ p) «Retalhista», a pessoa singular ou pessoa coletiva, seja a sua natureza jur
 
 q) «Subscrições em fase de pré-publicação», as subscrições de coleções que ainda não foram publicadas até ao momento da sua colocação na rede de venda.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O preço fixado pelo editor ou importador deve ser indicado pelo retalhista de forma legível e visível, de modo a permitir uma fácil informação do consumidor.
 
 2 - Na venda por correspondência ou por assinatura, o editor ou importador deve indicar o preço ou na publicidade ou nos impressos promocionais, nas cintas, nos invólucros ou na contracapa dos livros.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -197,19 +221,25 @@ q) «Subscrições em fase de pré-publicação», as subscrições de coleçõe
 
 3 - O retalhista pode fazer acrescentar ao preço efetivo do livro os custos ou as remunerações que correspondam a serviços suplementares prestados e que tenham sido acordados com o consumidor, nomeadamente o custo da entrega em local convencionado.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
 2 - Para efeitos do disposto na alínea a) do número anterior, o editor deve indicar na ficha técnica do livro o mês e ano da primeira edição e, cumulativamente e sempre que aplicável, o mês e ano da reedição ou da republicação.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - As modificações do preço fixado nos termos do artigo 2.º e a data a partir da qual devem ser consideradas para venda ao público são válidas para todos os retalhistas, desde que comunicadas pelo editor, distribuidor ou importador, ou seu representante, à sua rede de vendas, considerando os endereços postal ou eletrónico habitualmente utilizados nos contactos comerciais, com uma antecedência não inferior a 15 dias, sob pena de não produzirem quaisquer efeitos.
 
 2 - O retalhista fica obrigado a praticar o novo preço a partir da data de produção de efeitos que lhe foi comunicada.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Semestralmente, até ao quinto dia útil dos meses de janeiro e julho, sempre que no semestre anterior tenham sido publicadas novidades, reeditadas obras ou alterados preços, todo o editor ou importador com exclusividade, por si ou através de representante, deve distribuir pela sua rede de vendas, considerando os endereços postal ou eletrónico habitualmente usados nos contactos comerciais, em formato físico ou eletrónico, um catálogo ou uma lista completa e consolidada de preços dos seus livros efetivamente disponíveis para venda, sem o imposto sobre o valor acrescentado (IVA), sejam novidades ou fundo de catálogo, contendo o título do livro, o autor, o ISBN, o mês e ano da primeira edição ou, sempre que aplicável, o mês e ano da reedição, e o preço fixado pelo editor, sem o IVA, atualizados até ao último dia do mês anterior.
 
@@ -221,17 +251,23 @@ q) «Subscrições em fase de pré-publicação», as subscrições de coleçõe
 
 5 - O disposto no presente artigo não se aplica às edições de autor, cuja edição e distribuição sejam asseguradas diretamente pelo próprio autor.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 O disposto no presente diploma não se aplica às aquisições de livros efetuadas por entidades públicas à rede livreira e destinadas exclusivamente a ações no âmbito da cooperação externa e das bibliotecas públicas, escolares e universitárias, as quais podem beneficiar de um regime de preço mais favorável.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os exemplares de edições especiais destinados a associações, instituições ou outras entidades individualizadas devem ostentar de forma visível a especificação dessa natureza.
 
 2 - No caso de as edições referidas no número anterior virem a ser comercializadas, deve ser observado o disposto nos artigos 4.º, 4.º-A e 5.º, relevando, para efeitos de verificação dos prazos previstos no artigo 5.º, a data aposta na fatura com que iniciou a respetiva comercialização.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - É permitida a comercialização de livros editados ou importados há menos de 18 meses, com um preço de venda ao público compreendido entre 80 % e 100 % do preço fixado pelo editor ou importador exclusivo, no decurso de feiras do livro ou de festas do livro e de mercados do livro, desde que tais iniciativas decorram em períodos de tempo previamente determinados e respeitem as regras definidas no número seguinte.
 
@@ -257,7 +293,9 @@ c) Em instalações fixas nas quais não seja exercida uma atividade permanente.
 
 7 - A IGAC mantém atualizada e disponível para consulta por qualquer interessado a lista das iniciativas realizadas nos termos do presente artigo.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -273,11 +311,15 @@ e) [...].
 
 2 - O retalhista que venda ao público livros isentos da obrigação de venda a preço fixo, deve observar as condições de que depende aquela isenção, nomeadamente as que resultam das definições contidas nas alíneas g), h), i), l), m) e q) do artigo 1.º
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 A Direção-Geral do Livro, dos Arquivos e das Bibliotecas deve proceder ao acompanhamento regular da aplicação do disposto no presente diploma, em ordem a permitir avaliar os seus efeitos, culturais e económicos, no setor editorial e livreiro e a suscitar a produção de propostas de medidas, quando necessário, tendentes a corrigir e a melhorar o comércio do livro.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Constitui contraordenação punível com coima entre 250 (euro) e 3 740 (euro), no caso das pessoas singulares, e de 350 (euro) e 12 500 (euro), no caso das pessoas coletivas, a violação do disposto no artigo 2.º, no artigo 4.º, no artigo 4.º-A, no n.º 2 do artigo 5.º, nos n.os 1 e 2 do artigo 8.º, no artigo 11.º, no n.º 2 do artigo 13.º, nos n.os 1 a 4 e 6 do artigo 14.º e no n.º 2 do artigo 15.º
 
@@ -291,11 +333,15 @@ A Direção-Geral do Livro, dos Arquivos e das Bibliotecas deve proceder ao acom
 
 6 - Atenta a gravidade da contraordenação, pode a mesma ser objeto de publicidade.
 
-###### Artigo 19.º — Instrução dos processos e aplicação das coimas
+Artigo 19.º
+
+Instrução dos processos e aplicação das coimas
 
 A instrução dos processos instaurados pela prática das contraordenações previstas no presente diploma compete à IGAC e a aplicação das coimas ao inspetor-geral das atividades culturais.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 O produto da aplicação das coimas e das sanções pecuniárias compulsórias previstas no presente diploma constitui receita do Fundo de Fomento Cultural e destina-se a contribuir para financiar programas de incentivo à leitura e de promoção ao livro.»
 
@@ -341,7 +387,9 @@ a) Oferta de um livro editado ou importado há mais de 18 meses, na compra de li
 
 b) Oferta do serviço de transporte na venda à distância ou na venda em estabelecimento comercial, com entrega em local convencionado, de livro editado ou importado há menos de 18 meses e cumulação dessa oferta com um desconto imediato ou diferido igual ou inferior a 10 % do preço fixado pelo editor ou importador.
 
-###### Artigo 18.º-A — Sanção aplicável
+Artigo 18.º-A
+
+Sanção aplicável
 
 1 - A determinação da medida da coima faz-se em função da gravidade da contraordenação, da culpa do agente, da sua situação económica e dos benefícios obtidos com a prática do facto.
 
@@ -349,7 +397,9 @@ b) Oferta do serviço de transporte na venda à distância ou na venda em estabe
 
 3 - Para efeitos do disposto nos números anteriores, são ainda atendíveis, a coação, a falsificação, as falsas declarações, a simulação ou outro meio fraudulento utilizado pelo agente, bem como a existência de atos de ocultação ou dissimulação tendentes a dificultar a descoberta da infração.
 
-###### Artigo 18.º-B — Medidas cautelares
+Artigo 18.º-B
+
+Medidas cautelares
 
 1 - A entidade fiscalizadora pode determinar, com caráter de urgência e sem dependência de audiência de interessados, a suspensão da execução de qualquer das práticas proibidas pelo artigo 4.º-A ou de práticas violadoras do disposto no artigo 14.º, que sejam suscetíveis de causar prejuízo grave, de difícil ou impossível reparação a outras empresas, sempre que constate que existem indícios fortes da sua verificação.
 
@@ -361,7 +411,9 @@ b) Oferta do serviço de transporte na venda à distância ou na venda em estabe
 
 5 - A medida cautelar e a sanção pecuniária compulsória referidas no número anterior vigoram até a decisão em processo contraordenacional se tornar definitiva, transitar em julgado ou caducar por condenação em processo criminal pelo mesmo facto, sem prejuízo da alteração, substituição ou revogação da medida cautelar, nos termos gerais ou por aplicação de medida de coação de efeito equivalente.
 
-###### Artigo 18.º-C — Sanções pecuniárias compulsórias
+Artigo 18.º-C
+
+Sanções pecuniárias compulsórias
 
 1 - A entidade fiscalizadora pode aplicar uma sanção pecuniária compulsória, no caso de o agente não cumprir a decisão que impõe a adoção de medidas cautelares.
 
@@ -403,15 +455,15 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de junho de 2015. - Pedro Passos Coelho - Hélder Manuel Gomes dos Reis - Leonardo Bandeira de Melo Mathias.
 
-**Promulgado em 2 de setembro de 2015.**
+Promulgado em 2 de setembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de setembro de 2015.**
+Referendado em 4 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

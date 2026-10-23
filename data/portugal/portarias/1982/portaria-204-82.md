@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/204-1982-600154
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T07:10:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf0173eac39e9a3e804aabb29cd46f49890554e70b157da04c9cf179f84e64d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 162e179630a2089c3cb795c0c56d67fb5b49a81b49f3821c30ed45213755a312
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:10:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aveiro
+- Quadro de Pessoal
+- Serviços de LUTA Antituberculosa
 relationships:
 - type: amended_by
   target: pt:dre:179054:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:377129:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal, pela PORT.1052/82.13.11.1982.MFP, DR.IS\
+    \ [263] de 13.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1052-1982-377129
+  date: '1982-11-13'
+- type: amended_by
+  target: pt:dre:386031:por
+  label: "Alterado o quadro de pessoal dos Serviços de Luta Antituberculosa do Distrito de Aveiro, aprovado pelo presente\
+    \ diploma, pela PORT.474/84.20.07.1984.PCM, DR.IS [167] de 20.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/474-1984-386031
+  date: '1984-07-20'
+- type: amended_by
+  target: pt:dre:179054:por
+  label: "Aumentado um lugar ao quadro de pessoal aprovado pelo presente diploma, pela PORT.670/85.09.09.1985.PCM, DR.IS [207]\
+    \ de 09.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/670-1985-179054
+  date: '1985-09-09'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:10:54Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +133,6 @@ Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Adminis
 
 Quadro de pessoal dos Serviços de Luta Antituberculosa do Distrito de Aveiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/02/04200/03730373.pdf))](https://files.diariodarepublica.pt/1s/1982/02/04200/03730373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/02/04200/03730373.pdf)
 
 Nota. - O pessoal que no momento usufruir de gratificações por chefia ou coordenação de trabalho de equipa manterá tais gratificações, que se extinguirão logo que as actuais funções terminem.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/557-1970-147844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d46633b57b15d5ce8104b111c83829ebc9ef3641ccaf1f345611b8fd6d0a2893
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3b060494287aad166069ffbecc54c5b1361130f7294b7957742978f9f44e170
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282138:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:53Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +121,7 @@ g) Na observação (n) da tabela de uniformes as palavras «no uniforme de cadet
 
 3.º A alínea l) do n.º 1) do artigo 75.º e os artigos 76.º e 77.º do citado Plano tomam a seguinte redacção:
 
-###### Art. 75.º ...
+Art. 75.º ...
 
 1) ...
 
@@ -125,9 +133,9 @@ Alunos da Escola Naval - um galão do padrão n.º 4, colocado na frente anterio
 
 Dos quadros de complemento - um galão do padrão n.º 5 (fig. 81).
 
-###### Art. 76.º Os distintivos dos cadetes são âncoras com 0,040 m de altura (fig. 82), bordadas a fio de ouro.
+Art. 76.º Os distintivos dos cadetes são âncoras com 0,040 m de altura (fig. 82), bordadas a fio de ouro.
 
-###### Art. 77.º Os distintivos dos cadetes usam-se:
+Art. 77.º Os distintivos dos cadetes usam-se:
 
 1) No dólman azul:
 
@@ -155,4 +163,4 @@ VI) Em actos não oficiais os aspirantes a oficial podem usar os uniformes n.os 
 
 8.º É revogado o artigo 94º do Plano de Uniformes para Oficiais, Aspirantes a Oficial e Cadetes da Armada e são eliminadas as figuras n.os 53, 57, 83, 84 e 85 do mesmo Plano.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

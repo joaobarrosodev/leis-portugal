@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/258a00/76947700.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/455/1999/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/455-1999-693818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:13:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f9859b12af1de3b4e581f2301c8a2cc77011b34e87781ecca30600584ca7054
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4400b89ccb9c829999600c163938a650011e9ce24ba7dc39bc8db1ced53e728c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:13:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,26 @@ reuse:
 subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
-- Património
 - Comissão de Fiscalização
-- Gestão Financeira
+- Conselho Consultivo
+- Conselho Diretivo
 - Definição de Competências
-- Instituto de Gestão do Crédito Público
 - Dívida Pública
 - Estatuto
 - Estatuto do Pessoal
 - Fundo de Regularização da Dívida Pública
 - Gestão
 - Gestão do Património
+- Gestão Financeira
+- Instituto de Gestão do Crédito Público
 - Ministro das Finanças
-- Conselho Diretivo
-- Conselho Consultivo
+- Mobilidade de Pessoal
+- Património
 - Pessoa Colectiva de Direito Público
 - Presidente
 - Prestação de Serviços
 - Receita Própria
 - Relatório de Actividade
-- Mobilidade de Pessoal
 - Segredo Profissional
 - Segurança Social
 relationships:
@@ -95,6 +95,24 @@ relationships:
   target: pt:dre:174556:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:520442:por
+  label: "Alterado o artigo 6.º do Decreto-Lei 160/96, de 04 de Setembro, na redacção do presente diploma, pelo DEC LEI.86/2007.29.03.2007.MFAP,\
+    \ DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-2007-520442
+  date: '2007-03-29'
+- type: amended_by
+  target: pt:dre:636406:por
+  label: "Alterados os artigos 6.º, 11.º, 16.º e 25.º do Decreto-Lei n.º 160/96, de 4 de Setembro, na redacção do presente\
+    \ diploma, pelo DEC LEI.273/2007.30.07.2007.MFAP, DR.IS [145] de 30.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2007-636406
+  date: '2007-07-30'
+- type: amended_by
+  target: pt:dre:689576:por
+  label: "Alterado o art. 6.º dos Estatutos do Instituto de Gestão do Crédito Público, I. P., aprovados pelo Dec Lei 160/96,\
+    \ de 04-Set, na redacção do presente diploma, pelo DEC LEI.69-A/2009.24.03.2009.MFAP, DR.IS [58-Supl] de 24.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-a-2009-689576
+  date: '2009-03-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/160/1996/09/04/p/dre
   label: null
@@ -107,16 +125,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/28/1998/02/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/28/1998/02/11/p/dre
+- type: cites
+  target: pt:dre:229486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492268:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:174556:por
+  label: "Revogado, a partir de 01.09.2012, o Dec Lei 160/96, de 04-set, na redação do presente diploma, do Dec Lei 28/98,\
+    \ de 11-fev, da Lei 87-B/98, de 31-dez, dos Dec Lei 2/99, de 04-jan, 86/2007, de 29-mar, 273/2007, de 30-jul e 69-A/2009,\
+    \ de 24-mar e transformado o Instituto de Gestão da Tesouraria e do Crédito Público, I. P., na Agência de Gestão da Tesouraria\
+    \ e da Dívida Pública - IGCP, E. P. E., e aprova os respetivos estatutos, pelo DEC LEI.200/2012.27.08.2012.MF, DR.IS [165]\
+    \ de 27.08.2012\0012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-2012-174556
+  date: '2012-08-27'
 article_structure:
-  article_count: 33
+  article_count: 31
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:13:13Z'
   warnings: []
   errors: []
 ---
@@ -181,7 +220,9 @@ n) [Anterior alínea m).]
 
 2 - ...
 
-###### Artigo 11.º — Competências do conselho directivo
+Artigo 11.º
+
+Competências do conselho directivo
 
 1 - ...
 
@@ -219,7 +260,9 @@ q) [Anterior alínea o).]
 
 2 - ...
 
-###### Artigo 25.º — Receitas
+Artigo 25.º
+
+Receitas
 
 1 - ...
 
@@ -245,17 +288,17 @@ g) [Anterior alínea f).]
 
 Visto e aprovado em Conselho de Ministros de 2 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 13 de Outubro de 1999.**
+Promulgado em 13 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Outubro de 1999.**
+Referendado em 21 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO A QUE SE REFERE O ARTIGO 2.º
+ANEXO A QUE SE REFERE O ARTIGO 2.º
 
 ESTATUTOS DO INSTITUTO DE GESTÃO DO CRÉDITO PÚBLICO (IGCP)
 

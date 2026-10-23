@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/04000/0001400024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13/2023/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d5a49b898f610cabf5fc1812436f4d7783dde12d8005084a58c4ea10237a71a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70fd7f4bc6953089830d45e2caf01335922b6a0bad41401c1441ceffc7fa306e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Cinema e do Audiovisual
+- Conselho Consultivo
+- Conselho Diretivo
 - Criação de Serviços
 - Definição de Competências
-- Conselho Diretivo
-- Conselho Consultivo
+- Instituto do Cinema e do Audiovisual
 - Orgânica
 - Portugal Film Commission
 relationships:
@@ -101,16 +101,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/85/2019/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/85/2019/05/31/p/dre
+- type: cites
+  target: pt:dre:115536002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122465018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131463650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187351210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
-  article_count: 27
+  article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:07Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +179,9 @@ Os artigos 1.º, 3.º, 4.º e 10.º do [Decreto-Lei n.º 79/2012](https://diario
 
 3 - O ICA, I. P., prossegue ainda as atribuições previstas no artigo 3.º em matéria de incentivos à produção cinematográfica e audiovisual e captação de filmagens internacionais para Portugal, com um propósito de valorização e promoção da imagem do território e do País, sob superintendência e tutela dos membros do Governo responsáveis pelas áreas do turismo e da cultura.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O ICA, I. P., tem por missão apoiar o desenvolvimento das atividades cinematográficas e audiovisuais, desde a criação até à divulgação e circulação nacional e internacional das obras, potenciando o surgimento de novos valores, contribuindo para a diversidade de oferta cultural e para a promoção da língua portuguesa e da identidade nacionais, promover a captação de filmagens e produções audiovisuais internacionais para Portugal e acompanhar e colaborar na gestão dos respetivos instrumentos e incentivos financeiros.
 
@@ -187,7 +217,9 @@ n) Propor aos membros do Governo responsáveis pelas áreas do turismo e da cult
 
 3 - As atribuições do ICA, I. P., em matéria de promoção da captação de filmagens e produções audiovisuais internacionais para Portugal, de simplificação e agilização dos procedimentos para esse efeito e de acompanhamento e colaboração na gestão dos respetivos instrumentos e incentivos financeiros são prosseguidas pela Portugal Film Commission (PFC).
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 [...]
 
@@ -199,7 +231,9 @@ c) A PFC;
 
 d) O conselho consultivo.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -249,7 +283,9 @@ i) Um plano estratégico da PFC para cada triénio;
 
 ii) Os planos e relatórios anuais de atividades na parte respeitante à PFC.
 
-###### Artigo 7.º-B — Rede de pontos focais
+Artigo 7.º-B
+
+Rede de pontos focais
 
 1 - É criada a rede de pontos focais, que apoia a atividade da PFC.
 
@@ -267,7 +303,9 @@ b) Emitir parecer sobre qualquer assunto relativo às atribuições da PFC, semp
 
 6 - Em função da sua relevância em matéria de procedimentos, outras entidades podem ser convidadas a integrar a rede de pontos focais.
 
-###### Artigo 7.º-C — Conselho consultivo
+Artigo 7.º-C
+
+Conselho consultivo
 
 1 - O conselho consultivo é um órgão de consulta, apoio e participação na definição das linhas gerais de atuação do ICA, I. P., no âmbito das atribuições do ICA, I. P., prosseguidas pela PFC.
 
@@ -299,15 +337,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 2 de fevereiro de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - José Maria da Cunha Costa - Pedro Adão e Silva Cardoso Pereira.
 
-**Promulgado em 14 de fevereiro de 2023.**
+Promulgado em 14 de fevereiro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 17 de fevereiro de 2023.**
+Referendado em 17 de fevereiro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -528,3 +566,5 @@ A participação e a aquisição ou aumento de participações em entes de direi
 ###### Artigo 14.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+116190753

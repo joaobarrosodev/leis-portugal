@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/05/111a00/29953004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/111/2004/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2004-264285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef8dbac5f00b4ea182f3529a9d58024db4c422de01231eef683c24503a647e7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c546e450ad24475071d7f1aa3f9e77cf99e7a5369dac8e5c333695752c335ae0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Análises Clínicas
-- Direção Geral da Saúde
 - Contra-ordenação
+- Direção Geral da Saúde
 - Fiscalização
 - Laboratório
 - Licenciamento
@@ -100,16 +100,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/44/1993/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/44/1993/12/17/p/dre
+- type: cites
+  target: pt:dre:309005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632722:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:491395:por
+  label: "Revogado, a partir de 11.10.2009, pelo DEC LEI.279/2009.06.10.2009.MS, DR.IS [193] de 06.10.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/279-2009-491395
+  date: '2009-10-06'
 article_structure:
-  article_count: 56
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 51
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:07Z'
   warnings: []
   errors: []
 ---
@@ -176,11 +201,15 @@ m) ...
 
 5 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 O funcionamento de qualquer laboratório depende da obtenção de uma licença, a conceder por despacho do Ministro da Saúde, que fixa as valências que o seu titular fica autorizado a desenvolver, os respectivos postos de colheita e, bem assim, os laboratórios, fora da Comunidade Europeia, com os quais tenha sido celebrado contrato de colaboração, nos casos previstos no n.º 2 do artigo 34.º
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -198,7 +227,9 @@ d) ...
 
 4 - Os laboratórios de análises clínicas licenciados num Estado membro que pretendam abrir postos de colheita no território nacional devem organizar um processo nos termos do disposto no presente artigo, acompanhado da documentação comprovativa do respectivo licenciamento no país de origem.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - Os laboratórios nacionais podem estabelecer acordos de colaboração entre si ou com laboratórios de outro Estado membro, nos termos do presente diploma, os quais devem ser levados ao conhecimento da Direcção-Geral da Saúde.
 
@@ -206,13 +237,17 @@ d) ...
 
 3 - Os laboratórios licenciados ao abrigo deste diploma não podem ser utilizados como postos de colheita de laboratórios licenciados fora da Comunidade Europeia.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - À regulação das áreas dos postos de colheita aplica-se o disposto no n.º 4 do artigo anterior.
 
 2 - (Revogado.)
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - Constituem contra-ordenações puníveis com coima graduada de (euro) 1250 a (euro) 3740, no caso de pessoa singular, e de (euro) 2500 até ao máximo de (euro) 30000, no caso de pessoa colectiva:
 
@@ -236,15 +271,15 @@ O [Decreto-Lei n.º 217/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 2004. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - Luís Filipe Pereira.
 
-**Promulgado em 26 de Abril de 2004.**
+Promulgado em 26 de Abril de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Abril de 2004.**
+Referendado em 27 de Abril de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Regime jurídico do licenciamento dos laboratórios
 
@@ -630,7 +665,9 @@ h) Normas relativas aos utilizadores.
 
 3 - Deve ser afixada, em local bem visível, informação sobre a existência de livro de reclamações.
 
-###### Artigo 28.º — Livro de reclamações
+###### Artigo 28.º
+
+## Livro de reclamações
 
 1 - Os laboratórios devem dispor de livro de reclamações de modelo normalizado insusceptível de ser desvirtuado, com termo de abertura datado e assinado pelo conselho de administração da ARS.
 

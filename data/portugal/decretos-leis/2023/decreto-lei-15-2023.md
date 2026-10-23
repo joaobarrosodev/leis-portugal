@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/04000/0003100033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/15/2023/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2023-207760044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a350c935a941ae372cabb06b7c2822631f48929e5670fbb6cc320e3ffd3e67d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a9690d8e3065e2375bbf23f9f1618471b625c724549f381363488216ceaee2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Médico
+- Administração Central do Sistema de Saúde
 - Carreira Médica
 - Definição de Competências
-- Serviço Nacional de Saúde
-- Remuneração Acessória
-- Horas Extraordinárias
-- Administração Central do Sistema de Saúde
-- Estabelecimento Hospitalar
-- Remuneração
-- Serviços de Urgência
 - Direção Executiva do Serviço Nacional de Saúde
+- Estabelecimento Hospitalar
+- Função Pública
+- Horas Extraordinárias
+- Médico
+- Remuneração
+- Remuneração Acessória
+- Serviço Nacional de Saúde
+- Serviços de Urgência
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/50-a/2022/07/25/p/dre
@@ -87,16 +87,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:186577262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382997:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:23Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +145,9 @@ Os artigos 2.º, 3.º, 5.º, 6.º e 7.º do [Decreto-Lei n.º 50-A/2022](https:/
 
 O órgão máximo de gestão dos estabelecimentos de saúde integrados no Serviço Nacional de Saúde (SNS) têm competência, após parecer prévio da Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.), para celebrar contratos de trabalho sem termo com médicos especialistas, que correspondam a necessidades permanentes para assegurar o normal funcionamento dos serviços de urgência, designadamente os profissionais que aí tenham exercido funções em regime de prestação de serviços, por si ou através de empresas.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -161,7 +175,9 @@ c) Para assegurar o funcionamento da rede de urgências metropolitanas, por méd
 
 10 - Para efeitos do volume de horas suscetível de determinar a aplicação do n.º 2 é considerado o somatório das horas de trabalho suplementar prestadas desde 1 de fevereiro de 2023.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A celebração de contratos de aquisição de serviços com pessoal médico apenas é admissível nos casos em que comprovadamente o serviço não possa ser assegurado por médicos do respetivo mapa de pessoal, estando aqueles contratos sujeitos a um valor hora máximo correspondente ao valor hora médio pago, por entidade, a título de trabalho suplementar, em 2019.
 
@@ -169,13 +185,17 @@ c) Para assegurar o funcionamento da rede de urgências metropolitanas, por méd
 
 3 - Os atos praticados em violação dos números anteriores são nulos e determinam responsabilidade civil, financeira e disciplinar por parte dos gestores das entidades abrangidas pelo regime estabelecido no presente decreto-lei.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os custos associados ao trabalho suplementar e à aquisição de serviços médicos não podem exceder, em cada serviço ou estabelecimento de saúde, os montantes pagos a título de trabalho suplementar e de prestação de serviços médicos no ano de 2019, corrigidos dos encargos decorrentes das atualizações salariais anuais, sem prejuízo do número seguinte.
 
 2 - Em situações excecionais, quando por motivos de urgência e absoluta necessidade devidamente fundamentados, o limite previsto no número anterior deva ser ultrapassado, as entidades apresentam comprovativo do efetivo pagamento de valores superiores ao limite discriminando o efeito associado às atualizações salariais anuais, para efeitos de autorização dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 O regime previsto no presente decreto-lei vigora até 31 de julho de 2023.»
 
@@ -191,12 +211,14 @@ São revogados o n.º 8 do artigo 3.º e o artigo 4.º do [Decreto-Lei n.º 50-A
 
 Visto e aprovado em Conselho de Ministros de 16 de fevereiro de 2023. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - Ricardo Jorge Almeida Perdigão Seleiro Mestre.
 
-**Promulgado em 19 de fevereiro de 2023.**
+Promulgado em 19 de fevereiro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de fevereiro de 2023.**
+Referendado em 22 de fevereiro de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+116198513

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20829-1964-538192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 831acb3e2fe4ce1f6a6443107bc49c2e8dfd14a36cc95420ba56b481afbee780
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75e376ec644a4c3fe207b94e587add10a605b0f85e83dc44ad6a28e33caca5f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688051:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:19Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +166,7 @@ Poderá a Junta ir além deste limite se as circunstâncias o aconselharem.
 
 § 2.º Das embalagens deve constar a designação do produto, seu volume, tipo comercial, acidez, preço de venda ao público e ainda a identificação da entidade responsável pelo acondicionamento.
 
-§ 3.º Quando embalado, o azeite de tipo extra será exclusivamente virgem, de sabor e aroma irrepreensíveis, com acidez não superior a 1º, sem tolerância para mais, e ainda com um máximo de 0,2 de absorvência a 268 nanómetros expresso em [([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22900/13981400.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22900/13981400.pdf).
+§ 3.º Quando embalado, o azeite de tipo extra será exclusivamente virgem, de sabor e aroma irrepreensíveis, com acidez não superior a 1º, sem tolerância para mais, e ainda com um máximo de 0,2 de absorvência a 268 nanómetros expresso em [(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22900/13981400.pdf).
 
 § 4.º Com exclusão do azeite do tipo extra, o acondicionamento em embalagens herméticas de azeite de outros tipos carece, para efeitos de contrôle e limitação de quantidades, de autorização expressa da Junta Nacional do Azeite, obtida, no caso dos armazenistas, através do Grémio dos Armazenistas e Exportadores de Azeite.
 
@@ -192,7 +200,7 @@ TABELA I
 
 Preços de intervenção da Junta Nacional do Azeite nas compras à produção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22900/13981400.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22900/13981400.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22900/13981400.pdf)
 
 Nota. - O produtor pode vender o azeite com qualquer grau de acidez, tendo em atenção que a variação do preço do azeite com menos de 2º é de $07, de 2º a 5º é de $06, tudo por décimo de acidez, sendo livres os preços do azeite com graduação superior.
 
@@ -202,7 +210,7 @@ Preços de venda de azeite a granel pelos retalhistas ao público (Lisboa)
 
 (Máximos por litro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/22900/13981400.pdf))](https://files.diariodarepublica.pt/1s/1964/09/22900/13981400.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/22900/13981400.pdf)
 
 Nota. - O armazenista pode vender o azeite extra e fino com a tolerância de 0,1º de acidez e o corrente e consumo com a tolerância de 0,2º de acidez. O retalhista não pode exceder a tolerância do armazenista no azeite extra; mas nos restantes tipos beneficia da tolerância de 0,1º de acidez, além da concedida ao armazenista.
 

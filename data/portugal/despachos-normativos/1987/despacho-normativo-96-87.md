@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/96-1987-499571
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T07:39:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08fd865532fc95ff0db18cac82556110ae5bd940997dadf04138318da75148eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da828116ade3904e03ed67023951824eb1c7d8a6d9ad00cc0bd9b13581d0a5c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:39:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alfândega
+- Reforma Aduaneira
+- Regulamento
+- Regulamento das Alfândegas
+relationships:
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506178:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:39:09Z'
   warnings: []
   errors: []
 ---
@@ -90,12 +102,12 @@ Assim, nos termos do artigo único do [Decreto n.º 17/76](https://diariodarepub
 
 1 - O artigo 358.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, passa a ter a seguinte redacção:
 
-###### Art. 358.º As mercadorias em trânsito entradas pela fronteira terrestre serão conferidas nas estâncias aduaneiras de fronteira e seguirão, com guia de trânsito internacional, para as estâncias onde se há-de proceder ao respectivo despacho acompanhadas por praças da Guarda Fiscal, exceptuando-se as mercadorias que se apresentem em regime de trânsito comunitário, que ficarão sujeitas às disposições legais em vigor sobre a matéria.
+Art. 358.º As mercadorias em trânsito entradas pela fronteira terrestre serão conferidas nas estâncias aduaneiras de fronteira e seguirão, com guia de trânsito internacional, para as estâncias onde se há-de proceder ao respectivo despacho acompanhadas por praças da Guarda Fiscal, exceptuando-se as mercadorias que se apresentem em regime de trânsito comunitário, que ficarão sujeitas às disposições legais em vigor sobre a matéria.
 
 § único. As guias de trânsito a que o corpo deste artigo de refere serão de caderneta.
 
 2 - É aditado ao Regulamento das Alfândegas o artigo 358.º-A, com a seguinte redacção:
 
-###### Art. 358.º-A. Para as mercadorias em trânsito saídas dos depósitos e terminais a que se refere o corpo do artigo 136.º da Reforma Aduaneira as autoridades aduaneiras determinarão quais os documentos a adoptar e os procedimentos que deverão ser observados.
+Art. 358.º-A. Para as mercadorias em trânsito saídas dos depósitos e terminais a que se refere o corpo do artigo 136.º da Reforma Aduaneira as autoridades aduaneiras determinarão quais os documentos a adoptar e os procedimentos que deverão ser observados.
 
 Secretaria de Estado dos Assuntos Fiscais, 9 de Dezembro de 1987. - O Secretário de Estado dos Assuntos Fiscais, José de Oliveira Costa.

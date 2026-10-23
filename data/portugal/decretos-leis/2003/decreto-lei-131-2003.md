@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/131/2003/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2003-693253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfde60d2abb9c3d1bbab5375984025d4140363d9973e36fbfaa1775bd6b3bc6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50d7a16a5983dc72142a641c49f1cf6cd56f1558330de3c97ea4d8d99c11b2fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Nomenclatura das Unidades Territoriais para Fins Estatísticos
 - Conselho de Ministros
 - Controlo Orçamental
 - Execução do Orçamento
+- Nomenclatura das Unidades Territoriais para Fins Estatísticos
 - Orçamento Geral do Estado
 - Programa Orçamental
 relationships:
@@ -78,16 +78,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/91/2001/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/91/2001/08/20/p/dre
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:30Z'
   warnings: []
   errors: []
 ---
@@ -176,12 +180,12 @@ f) Os indicadores de avaliação da economia, eficiência e eficácia.
 
 Visto e aprovado em Conselho de Ministros de 9 de Maio de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 13 de Junho de 2003, na ilha das Flores, Açores.**
+Promulgado em 13 de Junho de 2003, na ilha das Flores, Açores.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Junho de 2003.**
+Referendado em 18 de Junho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

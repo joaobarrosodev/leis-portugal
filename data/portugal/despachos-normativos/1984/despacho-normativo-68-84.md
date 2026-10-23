@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/68-1984-661900
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T07:30:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2c8f67616d424c84ce3cc6600cec24fbe7cd5db4aff6c13944f050b72cfb6be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e004b9b2b4ce7709b5c5ffc07d521b4cbf2cc4e807ce257ff67226aa9a2c0ade
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:30:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Formas de Provimento
+- Gabinete Coordenador do Alqueva
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:250982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:30:21Z'
   warnings: []
   errors: []
 ---
@@ -89,6 +100,6 @@ Considerando ainda que urge dar cumprimento àquele imperativo legal, atenta a n
 
 Ao abrigo do n.º 1 do artigo 7.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, é aprovada a programação do preenchimento dos lugares vagos e nunca providos do quadro do pessoal do Gabinete Coordenador do Alqueva, aprovado pelo [Decreto-Lei n.º 298/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1977-250982), de 21 de Julho, pelo modo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/03/07400/10141014.pdf))](https://files.diariodarepublica.pt/1s/1984/03/07400/10141014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/03/07400/10141014.pdf)
 
 Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 3 de Fevereiro de 1984. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José San-Bento de Menezes.

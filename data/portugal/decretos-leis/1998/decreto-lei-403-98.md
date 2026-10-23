@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/291a00/69106915.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/403/1998/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1998-191105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fa9914a1f90f2ee3d393119421825fb0121fc63060843cf3117ef6472a899ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89e6e7d784fa6661b335b4658d91d2001effee43a2357c0a5dec53b96347fa19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Embarcação
-- Transporte Marítimo
-- Marinha Mercante
 - Comunidade Europeia
+- Embarcação
 - Fiscalização
-- Política de Transportes
+- Marinha Mercante
 - Normas de Segurança
 - OMI
+- Política de Transportes
 - Segurança Marítima
+- Transporte Marítimo
 - Vistoria
 relationships:
 - type: amended_by
@@ -92,16 +92,21 @@ relationships:
   target: celex:31997L0058
   label: null
   source: http://data.europa.eu/eli/dir/1997/58/oj
+- type: repealed_by
+  target: pt:dre:423922:por
+  label: "Revogado pelo DEC LEI.321/2003.23.12.2003.MOPTH, DR.IS-A [259] de 23.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-2003-423922
+  date: '2003-12-23'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:28Z'
   warnings: []
   errors: []
 ---
@@ -154,15 +159,15 @@ As disposições do anexo à Resolução A.789(19) da OMI, a que se refere o art
 
 Visto e aprovado em Conselho de Ministros de 5 de Novembro de 1998. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho.
 
-**Promulgado em 26 de Novembro de 1998.**
+Promulgado em 26 de Novembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Dezembro de 1998.**
+Referendado em 3 de Dezembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Resolução A.789(19), da Organização Marítima Internacional (OMI), de 23 de Novembro de 1995
 

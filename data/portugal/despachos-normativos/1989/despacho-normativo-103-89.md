@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/103-1989-549801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T07:41:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c00d6f199533221ee090b2aba2fb94108d202f0ba54f5f6f461cda0579e98b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3870211daae367e93548094af6e08f5169459ece7010284b40670bed3939a049
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:41:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Iscte
+- Pessoal Docente
+relationships:
+- type: cites
+  target: pt:dre:182227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:41:41Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +97,7 @@ Tornando-se necessário providenciar pela fixação das quotas anuais de descong
 
 Ouvido o Ministro da Educação:
 
-**O Ministro das Finanças determina, ao abrigo do disposto no artigo 12.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, e no artigo 1.º do [Decreto-Lei n.º 192/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1985-182227), de 24 de Junho, o seguinte:**
+O Ministro das Finanças determina, ao abrigo do disposto no artigo 12.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, e no artigo 1.º do [Decreto-Lei n.º 192/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1985-182227), de 24 de Junho, o seguinte:
 
 1 - Considera-se descongelada para o ano lectivo de 1988-1989 a admissão do seguinte pessoal docente para o Instituto Superior de Ciências do Trabalho e da Empresa:
 

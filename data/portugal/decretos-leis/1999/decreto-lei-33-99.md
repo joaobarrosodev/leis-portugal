@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/02/030a00/06680675.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/33/1999/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1999-169007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:10:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7be193e61ecfc7daca7691d029c5d5b7c3cdca66cb634e5df11437a071456cc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd8a560d9647a66e16d42beeefef0bbdf7e5e3a3136f8e2cf67749faf8429f3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
 - Adjudicação
 - Aquisição de Bens e Serviços
 - Caderno de Encargos
-- Ministério da Defesa Nacional
-- Guarda Fiscal
-- Ministro da Economia
 - Concurso Público
 - Conselho Nacional de Agricultura Pescas e Alimentação
 - Contrato
-- Segurança Interna
 - Definição de Competências
 - Despesas Públicas
-- Ministro das Finanças
-- Primeiro-ministro
-- GNR
 - Forças Armadas
-- Prazo
-- Regime Jurídico
+- GNR
+- Guarda Fiscal
+- Ministério da Defesa Nacional
 - Ministro da Defesa Nacional
+- Ministro da Economia
+- Ministro das Finanças
+- Prazo
+- Primeiro-ministro
+- Recurso
+- Regime Jurídico
+- Segurança Interna
 - Tratado CEE
 relationships:
 - type: amended_by
   target: pt:dre:671231:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:248178:por
+  label: "Alterados, a partir de 30.07.2008, os arts 1º e 2º pelo DEC LEI.18/2008.29.01.2008.MOPTC, DR.IS [20] de 29.01.2008\0\
+    08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2008-248178
+  date: '2008-01-29'
 - type: cites
   target: celex:31992L0050
   label: null
@@ -104,16 +110,21 @@ relationships:
   target: celex:31993R3696
   label: null
   source: http://data.europa.eu/eli/reg/1993/3696/oj
+- type: repealed_by
+  target: pt:dre:671231:por
+  label: Revogado em 01.01.2012 pelo DEC LEI.104/2011.06.10.2011.MDN, DR.IS [192] de 06.10.2011
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-2011-671231
+  date: '2011-10-06'
 article_structure:
   article_count: 31
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:10:32Z'
   warnings: []
   errors: []
 ---
@@ -558,15 +569,15 @@ O presente diploma entra em vigor 30 dias após a sua publicação, só se aplic
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Joaquim Augusto Nunes de Pina Moura.
 
-**Promulgado em 18 de Janeiro de 1999.**
+Promulgado em 18 de Janeiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Janeiro de 1999.**
+Referendado em 28 de Janeiro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Anúncio de concurso com selecção de propostas para negociação
 

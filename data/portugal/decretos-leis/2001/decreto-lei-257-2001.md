@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/257/2001/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2001-611883
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:27:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: daecbae2ebe0ecc3110c11a693513b9f503b011e634423124e75b42daa3e2bcc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c596103358f69c6f6c89cd0274859b2eb27ccbe502a9494e55452da179075628
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:27:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
 subjects:
 - Acumulação de Empregos
 - ALTO Comissário da Saúde
-- Pessoal Dirigente
-- Direção Geral da Saúde
 - Departamento de Modernização e Recursos da Saúde
+- Direção Geral da Saúde
 - Diretor Geral
-- Secretaria Geral
-- Orgânica
 - Ministério da Saúde
+- Orgânica
+- Pessoal Dirigente
 - Remuneração
+- Secretaria Geral
 - Subsecretário de Estado
 - Transferência Patrimonial
 relationships:
@@ -83,6 +83,12 @@ relationships:
   target: pt:dre:241792:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:287653:por
+  label: "Alterado o art. 5º do Dec Lei 10/93 de 15-Jan, na redacção do presente diploma,, pelo DR.3-A/2005.31.05.2005.MS,\
+    \ DR.IS-B [104-Supl] de 31.05.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/3-a-2005-287653
+  date: '2005-05-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1-b/2000/01/22/p/dre
   label: null
@@ -103,16 +109,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/96/2000/05/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/96/2000/05/23/p/dre
+- type: cites
+  target: pt:dre:300040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667939:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:241792:por
+  label: "Revogados os n.os 2 a 5 do artigo 2.º, pelo DR.7/2005.10.08.2005.MS, DR.IS-B [153] de 10.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/7-2005-241792
+  date: '2005-08-10'
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:27:20Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +188,9 @@ c) ...
 
 d) ...
 
-###### Artigo 7.º — Departamento de Modernização e Recursos da Saúde
+Artigo 7.º
+
+Departamento de Modernização e Recursos da Saúde
 
 1 - O Departamento de Modernização e Recursos da Saúde é o serviço central de apoio aos gabinetes dos membros do Governo, de acompanhamento da política de modernização administrativa e sua implementação, de regulamentação e acompanhamento das políticas de recursos humanos ao nível dos serviços centrais e desconcentrados do Ministério e do Serviço Nacional de Saúde.
 
@@ -227,12 +260,12 @@ e) O [Decreto-Lei n.º 16/2001](https://diariodarepublica.pt/dr/detalhe/decreto-
 
 Visto e aprovado em Conselho de Ministros de 2 de Agosto de 2001. - António Manuel de Oliveira Guterres - Guillherme d'Oliveira Martins - António Ferreira Correia de Campos - Alexandre António Cantigas Rosa.
 
-**Promulgado em 6 de Setembro de 2001.**
+Promulgado em 6 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Setembro de 2001.**
+Referendado em 13 de Setembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

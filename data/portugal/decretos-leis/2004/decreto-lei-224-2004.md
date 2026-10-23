@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/224/2004/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-2004-209822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e1bf95a88c794b3a584d8f3e84e6bcf775ea2ca6eab1b11cd0ea5b5880fb2ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15864f6615cfd9e98c34d4a6a4a3a10c5a3cef4d7ef4669a0457ccaee7925ca3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Publicidade
 - Código da Publicidade
-- Suporte Publicitário
+- Publicidade
 - Publicidade do Estado
+- Suporte Publicitário
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/275/1998/09/09/p/dre
@@ -106,16 +106,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/32/2003/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/32/2003/08/22/p/dre
+- type: cites
+  target: pt:dre:146566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656087:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:38Z'
   warnings: []
   errors: []
 ---
@@ -160,18 +200,20 @@ d) ...
 
 2 - Não podem constituir suporte publicitário as publicações periódicas informativas editadas pelos órgãos das autarquias locais, salvo se o anunciante for uma empresa municipal de capitais exclusiva ou maioritariamente públicos.
 
-###### Artigo 27.º — Publicidade do Estado
+Artigo 27.º
+
+Publicidade do Estado
 
 A publicidade do Estado é regulada em diploma próprio.»
 
 Visto e aprovado em Conselho Ministros de 7 de Outubro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - Nuno Albuquerque Morais Sarmento - José Luís Fazenda Arnaut Duarte - Henrique José Monteiro Chaves.
 
-**Promulgado em 15 de Novembro de 2004.**
+Promulgado em 15 de Novembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Novembro de 2004.**
+Referendado em 22 de Novembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/268/1995/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1995-668899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d472d8170a562aa9b0e6ce9f6964dbb3a1dc2e7792debaab76c8f003b3c05c3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1daadfebdcddbc150c78efca84bbc3e085754f855d503bde2efc574d6c1efe0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,40 +65,64 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
+- Contratação de Pessoal
 - Criação de Serviços
 - Definição de Competências
 - Faro
-- Lisboa
 - Junta Autónoma das Estradas
-- Contratação de Pessoal
+- Lisboa
 - Orgânica
+- Pessoal Dirigente
+- Porto
 - Quadro de Pessoal
+- Reestruturação de Serviços
 - Santarém
 - Transferência de Competências
 - Transferência de Serviços
-- Porto
 - Viseu
 relationships:
 - type: amended_by
   target: pt:dre:629168:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:361886:por
+  label: "Alterada a redacção dos art 1º, 8º e 9º pelo Dec Lei 141/97.1997.06.06.MEPAT, DR.IS-A [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-1997-361886
+  date: '1997-06-06'
+- type: amended_by
+  target: pt:dre:629168:por
+  label: "Transformada a E.P. - Estradas de Portugal, EPE em sociedade anónima de capitais exclusivamente públicos, primeiramente\
+    \ Junta Autónoma das Estradas, criada pelo Dec 13969 de 20-Jul 1927, reestruturada pelo presente diploma, pelo DEC LEI.374/2007.07.11.2007.MOPTC,\
+    \ DR.IS [214] de 07.11.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-2007-629168
+  date: '2007-11-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/395/1991/10/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/395/1991/10/16/p/dre
+- type: cites
+  target: pt:dre:289060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:05Z'
   warnings: []
   errors: []
 ---
@@ -185,7 +209,9 @@ d) Apoiar tecnicamente outros serviços quando para tal for solicitada.
 
 7 - Os adjuntos dos coordenadores de empreendimento poderão ser exonerados e substituídos livremente por despacho do presidente da JAE.
 
-###### Artigo 6.º — Divisão de Programação do Gabinete de Planeamento e Programação
+###### Artigo 6.º
+
+##### Divisão de Programação do Gabinete de Planeamento e Programação
 
 À Divisão de Programação do Gabinete de Planeamento e Programação compete:
 
@@ -195,7 +221,9 @@ b) Promover e manter actualizada uma estrutura eficaz de informação que permit
 
 c) Elaborar, acompanhar e avaliar os programas específicos de financiamento comunitário de obras integradas nos programas anuais de investimento.
 
-###### Artigo 7.º — Divisão de Expropriações
+###### Artigo 7.º
+
+##### Divisão de Expropriações
 
 No âmbito da Direcção de Serviços de Construção funciona a Divisão de Expropriações, à qual compete:
 
@@ -247,7 +275,9 @@ As Direcções de Estradas dos Distritos de Beja e Faro.
 
 3 - Os directores de estradas exercem as competências que lhe forem delegadas ou subdelegadas pelo respectivo director de exploração, essencialmente nos domínios da exploração, polícia e segurança das estradas.
 
-###### Artigo 10.º — Divisão de estudo e planeamento das direcções de serviços regionais de estradas
+###### Artigo 10.º
+
+##### Divisão de estudo e planeamento das direcções de serviços regionais de estradas
 
 Cada direcção de serviços regionais de estradas compreende uma divisão de estudo e planeamento, à qual compete:
 
@@ -295,14 +325,14 @@ Na data de entrada em vigor do presente diploma cessam as comissões de serviço
 
 Visto e aprovado em Conselho de Ministros de 31 de Agosto de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 3 de Outubro de 1995.**
+Promulgado em 3 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Outubro de 1995.**
+Referendado em 6 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/241a00/64566459.pdf))](https://files.diariodarepublica.pt/1s/1995/10/241a00/64566459.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/241a00/64566459.pdf)

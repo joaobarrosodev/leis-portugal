@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/54/2011/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2011-276796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19f1c32c4dfec1fc10ba7c399982de75e217179bbbad81d243391b4049d21b86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45f00fd728c44bb844ffa16203be6a8d7223569398591e8501330afc788f5e9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,43 +67,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Acreditação
-- Produto Alimentar
+- Agricultor
 - Análise Laboratorial
 - Aproximação das Legislações
-- Região Autónoma
 - Batata
 - Catálogo Nacional de Variedades
-- Multa
+- Comércio
 - Contra-ordenação
 - Controlo de Qualidade
-- Definição de Competências
 - Controlo Sanitário
-- Saúde Pública
+- Definição de Competências
+- Embalagem
 - Etiquetagem
 - Fiscalização
 - Licenciamento
-- Embalagem
-- Proteção do Ambiente
-- Produto Hortícola
-- Produtor
-- Proteção Fitossanitária
-- Agricultor
 - Madeira.região Autónoma
-- Proteção do Consumidor
+- Multa
 - Produção Agrícola
 - Produção Vegetal
-- Sanção
-- Semente
-- Açores
-- Taxa
-- Comércio
 - Produto Agrícola
+- Produto Alimentar
+- Produto Hortícola
+- Produtor
+- Proteção do Ambiente
+- Proteção do Consumidor
+- Proteção Fitossanitária
+- Região Autónoma
+- Sanção
+- Saúde Pública
+- Semente
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:155732595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:572154:por
+  label: "Dada nova redação aos anexos I e II do Dec Lei 257/2009 de 24-set, alterado e republicado pelo presente diploma,\
+    \ pelo DEC LEI.34/2014.05.03.2014.MAGM, DR.IS [45] de 05.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2014-572154
+  date: '2014-03-05'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Alterados, a partir de 28.07.2021, os arts. 22.º, 24.º e 25.º e revogado o n.º 2 do art. 22.º do Dec Lei 257/2009
+    de 24-set, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021,
+    Série I de 2021-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
 - type: cites
   target: celex:31994R2100
   label: null
@@ -129,15 +142,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/257/2009/09/24/p/dre
 article_structure:
-  article_count: 52
+  article_count: 33
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:28Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +195,9 @@ O presente decreto-lei transpõe a Directiva n.º [2009/145/CE](https://data.eur
 
 3 - O presente decreto-lei estabelece o regime de derrogações aplicáveis à inscrição, produção, certificação e comercialização de variedades de conservação de espécies agrícolas e hortícolas e de espécies hortícolas desenvolvidas para cultivo em determinadas condições.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O regime de derrogações previsto no presente decreto-lei é aplicável e prevalece sobre o disposto no:
 
@@ -194,7 +209,9 @@ c) Decreto-Lei n.º 88/2010, de 20 de Julho, que regula a produção, controlo, 
 
 2 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Para efeitos do presente decreto-lei entende-se por:
 
@@ -210,7 +227,9 @@ e) ...
 
 f) "Variedade desenvolvida para cultivo em determinadas condições", a variedade de espécie hortícola que não possui valor intrínseco para uma produção vegetal comercial.
 
-###### Artigo 4.º — Derrogações e condições de inscrição de variedades
+Artigo 4.º
+
+Derrogações e condições de inscrição de variedades
 
 1 - Em derrogação das condições de inscrição de variedades estabelecidas no Catálogo Nacional de Variedades de Espécies Agrícolas e de Espécies Hortícolas (CNV), aprovado pelo Decreto-Lei n.º 154/2004, de 30 de Junho, podem ser inscritas variedades de conservação e variedades desenvolvidas para cultivo em determinadas condições, de acordo com os requisitos estipulados no presente decreto-lei.
 
@@ -220,7 +239,9 @@ f) "Variedade desenvolvida para cultivo em determinadas condições", a variedad
 
 4 - As variedades referidas nos n.os 2 e 3 são identificadas no CNV como "variedade de conservação cujas sementes são certificadas ou controladas como semente standard" e "variedade desenvolvida para cultivo em determinadas condições cujas sementes devem ser controladas como semente standard", respectivamente.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O pedido de inscrição de uma variedade no CNV é dirigido ao director-geral de Agricultura e Desenvolvimento Rural, em formulário disponibilizado no sítio da Internet da Direcção-Geral de Agricultura e Desenvolvimento Rural (DGADR) e acessível através do Portal do Cidadão e do Portal da Empresa, podendo ser enviado por via electrónica.
 
@@ -236,7 +257,9 @@ d) ...
 
 3 - Não são exigidos ensaios oficiais se as informações mencionadas no número anterior forem consideradas suficientes para decidir sobre a admissão ao CNV de uma variedade.
 
-###### Artigo 6.º — Indeferimento do pedido de inscrição
+Artigo 6.º
+
+Indeferimento do pedido de inscrição
 
 O pedido de inscrição de uma variedade abrangida pelo presente decreto-lei é indeferido quando a variedade:
 
@@ -252,7 +275,9 @@ e) Esteja protegida por um direito comunitário de protecção das variedades ve
 
 f) Esteja protegida por um direito nacional de protecção de variedades vegetais, tal como previsto no Decreto-Lei n.º 213/90, de 28 de Junho, que estabelece o regime jurídico do direito de obtentor de variedades vegetais.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Os caracteres mínimos a observar para efeitos de avaliação da distinção e da estabilidade devem ser, no mínimo, os caracteres mencionados nos questionários técnicos associados aos protocolos de ensaio do Instituto Comunitário das Variedades Vegetais ou nos questionários técnicos dos princípios directores da União Internacional para a Protecção das Obtenções Vegetais, enumerados nos anexos i e ii do Decreto-Lei n.º 154/2004, de 30 de Junho.
 
@@ -264,7 +289,9 @@ f) Esteja protegida por um direito nacional de protecção de variedades vegetai
 
 5 - ...
 
-###### Artigo 8.º — Avaliação e decisão
+Artigo 8.º
+
+Avaliação e decisão
 
 1 - Efectuado o pedido de inscrição das variedades abrangidas pelo presente decreto-lei, a DGADR procede à avaliação do pedido.
 
@@ -278,7 +305,9 @@ b) Quando decorrer o prazo de 10 dias sem que tenha sido remetida a notificaçã
 
 4 - As variedades de conservação e as variedades desenvolvidas para cultivo em determinadas condições inscritas no CNV são expressamente identificadas como tal.
 
-###### Artigo 10.º — Região de origem de variedades de conservação
+Artigo 10.º
+
+Região de origem de variedades de conservação
 
 1 - Quando seja admitida a inscrição de uma variedade de conservação, devem ser expressamente identificadas no CNV a região ou as regiões nas quais a variedade de conservação é tradicionalmente cultivada e às quais está naturalmente adaptada, a seguir designadas por "regiões de origem".
 
@@ -288,7 +317,9 @@ b) Quando decorrer o prazo de 10 dias sem que tenha sido remetida a notificaçã
 
 4 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Em derrogação do disposto no Decreto-Lei n.º 88/2010, de 20 de Julho, podem ser admitidas à produção, certificação e comercialização sementes de variedades de conservação, desde que:
 
@@ -318,7 +349,9 @@ c) As sementes possuam uma pureza varietal suficiente.
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A produção de semente e batata-semente de variedades de conservação deve ser feita unicamente na região de origem, a não ser que nessa região, devido a um problema ambiental específico, não seja possível garantir o cumprimento das condições de certificação previstas no artigo anterior no que respeita à qualidade mínima dos lotes de semente.
 
@@ -332,7 +365,9 @@ c) As sementes possuam uma pureza varietal suficiente.
 
 6 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Para verificação dos requisitos de certificação estipulados nos artigos 11.º e 12.º, os lotes de semente a certificar são submetidos a análises e ensaios de sementes realizados em conformidade com os métodos preconizados pela Associação Internacional de Ensaio de Sementes (ISTA), podendo ser realizados pela DGADR ou por laboratórios reconhecidos para o efeito por esta entidade.
 
@@ -340,7 +375,9 @@ c) As sementes possuam uma pureza varietal suficiente.
 
 3 - As análises e ensaios referidos no número anterior, no que respeita à categoria certificada, são efectua-dos por inspectores de qualidade de semente oficiais ou por técnicos de amostragem autorizados, nos termos daquele decreto-lei.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 As embalagens de sementes e batata-semente devem ostentar uma etiqueta do produtor ou acondicionador de sementes e uma inscrição impressa ou carimbada com as informações seguintes:
 
@@ -372,7 +409,9 @@ n) [Anterior alínea l).]
 
 o) [Anterior alínea m)].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Os lotes de semente e batata-semente de variedades de conservação só podem ser comercializados:
 
@@ -388,7 +427,9 @@ b) Unicamente na sua região de origem.
 
 5 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Para cada variedade de conservação de espécies agrícolas, a quantidade de sementes e batata-semente comercializada não deve exceder 0,5 % das sementes da mesma espécie utilizadas em Portugal durante uma época de cultivo ou a quantidade necessária para semear 100 ha, se esta quantidade for mais elevada.
 
@@ -400,7 +441,9 @@ b) Unicamente na sua região de origem.
 
 5 - Cada variedade desenvolvida para cultivo em determinadas condições só pode ser comercializada em embalagens pequenas que não excedam o peso líquido máximo para cada espécie fixado no anexo ii ao presente decreto-lei, do qual faz parte integrante.
 
-###### Artigo 19.º — Monitorização dos campos de multiplicação de sementes e batata-semente e das quantidades produzidas
+Artigo 19.º
+
+Monitorização dos campos de multiplicação de sementes e batata-semente e das quantidades produzidas
 
 1 - ...
 
@@ -408,7 +451,9 @@ b) Unicamente na sua região de origem.
 
 3 - ...
 
-###### Artigo 20.º — Pós-controlo oficial e acompanhamento
+Artigo 20.º
+
+Pós-controlo oficial e acompanhamento
 
 1 - ...
 
@@ -416,7 +461,9 @@ b) Unicamente na sua região de origem.
 
 3 - A DGADR verifica se as quantidades previstas no artigo anterior são susceptíveis de ser excedidas, atribuindo, nesse caso, a cada produtor de semente em causa a quantidade que pode comercializar durante a respectiva campanha de produção.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Constituem contra-ordenações as seguintes infracções:
 
@@ -450,13 +497,17 @@ b) De 500 a (euro) 44 000 quando cometidas por pessoas colectivas.
 
 3 - A tentativa e a negligência são puníveis, sendo os limites referidos nos números anteriores reduzidos para metade.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Pela inscrição de variedades de conservação no CNV e pelo licenciamento de produtores de semente e acondicionadores de variedades de conservação são devidas taxas, nos termos fixados na Portaria n.º 984/2008, de 2 de Setembro, alterada pelas Portarias n.os 622/2009, de 8 de Junho, e 8/2010, de 6 de Janeiro.
 
 2 - As taxas a que se refere o número anterior são aplicáveis, respectivamente, à inscrição de variedades desenvolvidas para cultivo em determinadas condições no CNV e ao licenciamento de produtores de semente e de acondicionadores das mesmas sementes.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -478,15 +529,15 @@ São aditados os anexos i e ii ao Decreto-Lei n.º 257/2009, de 24 de Setembro, 
 
 Visto e aprovado em Conselho de Ministros de 20 de Janeiro de 2011. - José Sócrates Carvalho Pinto de Sousa - António Fernandes da Silva Braga - Emanuel Augusto dos Santos - Fernando Medina Maciel Almeida Correia - António Manuel Soares Serrano.
 
-**Promulgado em 30 de Março de 2011.**
+Promulgado em 30 de Março de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de Março de 2011.**
+Referendado em 31 de Março de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -494,13 +545,13 @@ Visto e aprovado em Conselho de Ministros de 20 de Janeiro de 2011. - José Sóc
 
 Restrições quantitativas para a comercialização de sementes de variedades de conservação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07400/0229402307.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07400/0229402307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07400/0229402307.pdf)
 
 ## ANEXO II — (a que se refere o n.º 5 do artigo 18.º)
 
 Peso líquido máximo por embalagem de semente de variedade desenvolvida para cultivo em determinadas condições
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07400/0229402307.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07400/0229402307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07400/0229402307.pdf)
 
 ## ANEXO II — (a que se refere o artigo 4.º)
 
@@ -894,10 +945,10 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Restrições quantitativas para a comercialização de sementes de variedades de conservação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07400/0229402307.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07400/0229402307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07400/0229402307.pdf)
 
 ## ANEXO II — (a que se refere o n.º 5 do artigo 18.º)
 
 Peso líquido máximo por embalagem de semente de variedade desenvolvida para cultivo em determinadas condições
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07400/0229402307.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07400/0229402307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07400/0229402307.pdf)

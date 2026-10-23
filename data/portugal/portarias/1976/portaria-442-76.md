@@ -46,40 +46,216 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/442-1976-430823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T05:04:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5c9b1697fbaf4c2fcf8f62d41471336c57effcb8557c8dfa2f51df221aee0ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89137205339243b6000552e43c6f27b656e0d3c0629fea46bd9db888a6e518d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:04:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:186721640:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:299847:por
+  label: Derrogado, no tocante ao prédio descrito sob o n.º 129, a presente Portaria, pelo(a) Portaria n.º 461/78 - Diário
+    da República n.º 186/1978, Série I de 1978-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/461-1978-299847
+  date: '1978-08-14'
+- type: amended_by
+  target: pt:dre:388046:por
+  label: "Derrogada em parte pela PORT.277/81.18.03.1981.MAP, DR.IS [64] de 18.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/277-1981-388046
+  date: '1981-03-18'
+- type: amended_by
+  target: pt:dre:318144:por
+  label: "Desanexado parte do prédio rústico denominado \"Carrascal, Marco e Tapadinha\" expropriado pelo presente diploma,\
+    \ pela PORT.1227/82.30.12.1982.MFP, DR.IS [300] de 30.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1227-1982-318144
+  date: '1982-12-30'
+- type: amended_by
+  target: pt:dre:2103408:por
+  label: "Derrogada, na parte em que expropria o prédio Herdade de Marim e os 414,2021 da Herdade da Rola, pela PORT.DD333.13.02.1990.PCM,\
+    \ DR.IIS [37] de 13.02.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1990-2103408
+  date: '1990-02-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DERROGADA EM PARTE PELA PORT 326/92IIS DR.IIS [248]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-10-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "DERROGADA EM PARTE PELA PORT 1/96IIS DE 06-FEV DA PCM E MADRP DR.IIS [31]\0DR.IIS [31]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-02-06'
+- type: amended_by
+  target: pt:dre:2053422:por
+  label: "Derrogada parte da presente portaria pela PORT.736/98(2ªSÉRIE).1998.07.23.PCM, DR.IIS [178] de 04/Ago/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/736-1998-2053422
+  date: '1998-07-23'
+- type: amended_by
+  target: pt:dre:1891595:por
+  label: "Derrogada na parte relativa ao prédio rústico \"Sesmo da Lobata e Vale de Calças\" pela PORT.390/99(2ªSÉRIE).1999.03.26.PCM\
+    \ DR.IIS [88] de 15/Abr/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/390-1999-1891595
+  date: '1999-03-26'
+- type: amended_by
+  target: pt:dre:2039043:por
+  label: "Derrogada pela PORT.290/2001(2ªSÉRIE).2001.01.31.PCM, DR.IIS[43] de 20/Fev/2001 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/290-2001-2039043
+  date: '2001-01-31'
+- type: amended_by
+  target: pt:dre:2917099:por
+  label: "Derrogada pela PORT.1008/2001(2ªSÉRIE).2001.05.17.PCM, DR.IIS [131] de 06/Jun/200\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1008-2001-2917099
+  date: '2001-05-17'
+- type: amended_by
+  target: pt:dre:1671027:por
+  label: "Derrogada parte deste diploma pela PORT.1242/2001(2ªSÉRIE).2001.07.06.PCM, DR.IIS[166]de 19/Jul/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1242-2001-1671027
+  date: '2001-07-06'
+- type: amended_by
+  target: pt:dre:2566217:por
+  label: "Derrogada em parte pela PORT.1241/2002(2ªSÉRIE).2002.07.07.PCM DR.IIS [194] DE 23/AGO/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1241-2002-2566217
+  date: '2002-07-07'
+- type: amended_by
+  target: pt:dre:1854483:por
+  label: "Derrogada na parte em que expropria os prédios rústicos denominados Albarrão-Rosal, Covas e Calicos, pela PORT.63/2003(2ªSÉRIE).2003.01.06.PCM,\
+    \ DR.IIS [17] de 21/Jan/2003 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/63-2003-1854483
+  date: '2003-01-06'
+- type: amended_by
+  target: pt:dre:1854484:por
+  label: "Derrogada, na parte em que expropria os prédios rústicos denominados \"Vale Bom\", pela PORT.64/2003(2ªSÉRIE).2003.01.06.PCM\
+    \ DR.IIS [17] DE 21/JAN/2003\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/64-2003-1854484
+  date: '2003-01-06'
+- type: amended_by
+  target: pt:dre:3260137:por
+  label: "Derrogada na parte em que expropria o prédio rústico \"Albarrão-Rosal\" pela PORT.890/2003(2ªSÉRIE).2003.06.26.PCM\
+    \ DR.IIS [158], de 11/Jul/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/890-2003-3260137
+  date: '2003-06-26'
+- type: amended_by
+  target: pt:dre:1384483:por
+  label: "Derrogada parte da presente portaria, pela PORT.1072/2003(2ªSÉRIE).2003.07.24.MADRP DR.IIS [184] DE 11/AGO/2003\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1072-2003-1384483
+  date: '2003-07-24'
+- type: amended_by
+  target: pt:dre:1366987:por
+  label: "Derrogada parte pela PORT.201/2004(2ªSérie).22.01.2004.PCM, DR.IIS [30] de 05.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/201-2004-1366987
+  date: '2004-01-22'
+- type: amended_by
+  target: pt:dre:2802451:por
+  label: "Derrogada parte pela PORT.799/2004(2ªSérie).01.07.2004.PCM, DR.IIS [165] de 15.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/799-2004-2802451
+  date: '2004-07-01'
+- type: amended_by
+  target: pt:dre:2758377:por
+  label: "Derrogada parte pela PORT.1141/2004(2ªSérie).15.10.2004.PCM, DR.IIS [256] de 30.10.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1141-2004-2758377
+  date: '2004-10-15'
+- type: amended_by
+  target: pt:dre:1802733:por
+  label: "Derrogado parte do presente diploma, pela PORT.229/2005(2ªSérie).09.02.2005.PCM, DR.IIS [40] de 25.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/229-2005-1802733
+  date: '2005-02-09'
+- type: amended_by
+  target: pt:dre:3146985:por
+  label: "Derrogada parte pela PORT.342/2005(2ªSérie).07.03.2005.PCM, DR.IIS [57] de 22.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/342-2005-3146985
+  date: '2005-03-07'
+- type: amended_by
+  target: pt:dre:603529:por
+  label: "Derrogada na parte em que expropria os prédios rústicos denominados «Vale Bom», pela PORT.357/2009.06.04.2009.PCM,\
+    \ DR.IS [67] de 06.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/357-2009-603529
+  date: '2009-04-06'
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:2533202:por
+  label: "Revogado o presente diploma, na parte em que expropria a área de 83,9500 ha, correspondente ao prédio rústico Monte\
+    \ da Vinha, pela PORT.1/96IIS.06.02.1996.PCM, DR.IIS [31] de 06.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1-1996-2533202
+  date: '1996-02-06'
+- type: repealed_by
+  target: pt:dre:105322291:por
+  label: Revogada, na parte em que expropria a área de 49,5000 ha, que faz parte integrante do prédio rústico denominado «Albarrão
+    Rosal», inscrito na matriz predial rústica sob o artigo 3, secção JJ1, da freguesia de Pias, concelho de Serpa, pelo(a)
+    Portaria n.º 304/2016 - Diário da República n.º 233/2016, Série I de 2016-12-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/304-2016-105322291
+  date: '2016-12-06'
+- type: repealed_by
+  target: pt:dre:105746097:por
+  label: Revogada, na parte em que expropria a área de 2,7500 ha, respeitante ao prédio «Vale Bom», inscrito na matriz predial
+    rústica sob o artigo 44.º, secção 1A1, da União de Freguesias de Alfundão e Peroguarda, anterior artigo 44, secção A1,
+    da freguesia de Peroguarda, concelho de Ferreira do Alentejo, pelo(a) Portaria n.º 18/2017 - Diário da República n.º 8/2017,
+    Série I de 2017-01-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/18-2017-105746097
+  date: '2017-01-11'
+- type: repealed_by
+  target: pt:dre:106861724:por
+  label: Revogada, com efeitos a partir de 22.11.2016, na parte em que expropria a área de 221,7250 ha, respeitante ao lote
+    4, que faz parte integrante do prédio rústico denominado «Herdade do Sertão», inscrito na matriz predial rústica sob o
+    artigo 1, secção SS1, da freguesia de Selmes, concelho da Vidigueira, pelo(a) Portaria n.º 134/2017 - Diário da República
+    n.º 72/2017, Série I de 2017-04-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/134-2017-106861724
+  date: '2017-04-11'
+- type: repealed_by
+  target: pt:dre:106955051:por
+  label: Revogada, com efeitos a 22.11.2016, na parte em que expropria a área de 221,7250 ha, respeitante ao lote 4, que faz
+    parte integrante do prédio rústico denominado «Herdade do Sertão», inscrito na matriz predial rústica sob o artigo 1.º,
+    secção SS1, da freguesia de Selmes, concelho da Vidigueira, pela Portaria n.º 149/2017 - Diário da República n.º 84/2017,
+    Série I de 2017-05-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/149-2017-106955051
+  date: '2017-05-02'
+- type: repealed_by
+  target: pt:dre:107761910:por
+  label: Revogada, na parte em que se refere à área de 4,0000 ha do prédio «Vale Bom», inscrito na matriz predial rústica
+    sob o artigo 35, secção 1A1, da união de freguesias de Alfundão e Peroguarda, concelho de Ferreira do Alentejo, pelo(a)
+    Portaria n.º 231/2017 - Diário da República n.º 144/2017, Série I de 2017-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/231-2017-107761910
+  date: '2017-07-27'
+- type: repealed_by
+  target: pt:dre:186721640:por
+  label: Revogada pelo(a) Portaria n.º 197/2022 - Diário da República n.º 144/2022, Série I de 2022-07-27, na parte em que
+    expropria a área constante do mesmo diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/197-2022-186721640
+  date: '2022-07-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:04:43Z'
   warnings: []
   errors: []
 ---

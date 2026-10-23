@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/10/244a00/70277031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/258/2003/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2003-476753
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d92c72f994929b481a5559f3c3b83e31bfa5a6fcf69d2d4d4fff7dc914ea704b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12272cf65cb52735ae226bb280e4c71a00f6126838ed1a40485fd2d381bd5ef2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Entidade Certificadora
 - Direcção Geral de Viação
+- Entidade Certificadora
 - Fiscalização
+- Formação Profissional
 - Incompatibilidades
 - Inspecção de Veículos
-- Veículo
-- Pessoal de Inspecção
 - Licença de Inspecção Técnica de Veículos
+- Pessoal de Inspecção
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:835994081:por
@@ -97,16 +97,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/22/2003/06/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/22/2003/06/28/p/dre
+- type: cites
+  target: pt:dre:584257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655940:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693247:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:835994081:por
+  label: Revogado, a partir de 30 de dezembro de 2023, com efeitos a 28 de janeiro de 2024, pelo(a) Decreto-Lei n.º 139-E/2023
+    - Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29, nos termos do seu artigo 6.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-e-2023-835994081
+  date: '2023-12-29'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:58Z'
   warnings: []
   errors: []
 ---
@@ -319,12 +341,12 @@ b) 180 dias após a data da sua publicação quanto às restantes disposições.
 
 Visto e aprovado em Conselho de Ministros de 4 de Setembro de 2003. - José Manuel Durão Barroso - António Jorge de Figueiredo Lopes - José David Gomes Justino - António José de Castro Bagão Félix.
 
-**Promulgado em 6 de Outubro de 2003.**
+Promulgado em 6 de Outubro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Outubro de 2003.**
+Referendado em 10 de Outubro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

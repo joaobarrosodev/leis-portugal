@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 10/1985, 1º Suplemento, Série I de 1985-01-12
   number: '10'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 72-(10) a 72-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01001/00100011.pdf
 entry_into_force_dates: []
@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-h-1985-162783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T08:23:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c4eca3bd0e60b0b3eec87fb8da8cf621a2d275e17754acd77f569de95ee6eed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0706b4e092412b2830413582243a30f726c4baa85c07f74a2fd5f0a993a37960
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:23:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Combustível
+- EDP
+- Fuelóleo
+- Gasóleo
+- Gasolina
+- Petróleo
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:660718:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:23:32Z'
   warnings: []
   errors: []
 ---
@@ -162,6 +173,6 @@ Nos casos em que, por razões imputáveis ao consumidor, não for possível efec
 
 Ministérios das Finanças e do Plano, da Indústria e Energia e do Comércio e Turismo.
 
-**Assinada em 10 de Janeiro de 1985.**
+Assinada em 10 de Janeiro de 1985.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Indústria e Energia, José Veiga Simão. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.

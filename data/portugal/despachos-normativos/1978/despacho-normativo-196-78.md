@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/196-1978-299039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:43:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f155cc4153232ab1a4ccd49911c1629491f8296a6d99915e6d097acc6da5e923
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6c296032f4ea418418cb6374aa0d4656697cdf43c5f1304dc8eda4e234646a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:43:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral do Pessoal do MAR
+- Diretor
+- Escola de Mestrança e Marinhagem
+- Estabelecimento de Ensino
+- Exame
+- Marinha Mercante
+- Pessoal Navegante
+- Regulamento da Inscrição Marítima Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca
+- Tripulação
+relationships:
+- type: cites
+  target: pt:dre:688589:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:325761:por
+  label: Rectificado pela DECL.DD7419.17.11.1978.PCM, DR.IS [265] de 17.11.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-325761
+  date: '1978-11-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:43:42Z'
   warnings: []
   errors: []
 ---
@@ -111,6 +129,6 @@ Nestes termos, ao abrigo do artigo 2.º, alínea b), do Regulamento da Escola de
 
 Secretaria de Estado da Marinha Mercante, 26 de Julho de 1978. - O Secretário de Estado da Marinha Mercante, Luís António Penedo Correia Maltês.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/19400/17131713.pdf))](https://files.diariodarepublica.pt/1s/1978/08/19400/17131713.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/19400/17131713.pdf)
 
-**O Secretário de Estado da Marinha Mercante, Luís António Penedo Correia Maltês.**
+O Secretário de Estado da Marinha Mercante, Luís António Penedo Correia Maltês.

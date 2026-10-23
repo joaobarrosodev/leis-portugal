@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 174/2014, 1º Suplemento, Série I de 2014-09-10
   number: '174'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4886-(2) a 4886-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/09/17401/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/66-a/2014/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/66-a-2014-56729681
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T05:20:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7df9114528c0170b2e4cadcfd2eb77f3ac35cd8b087da9f4d05381a93ec98d2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3f694b0f792064360494fd372918bc812c5b61072c2abdc9fbb2b1c0e9173f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:20:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Exoneração
-- Membros do Governo
 - Governo XIX
-- Secretário de Estado Adjunto do Primeiro-ministro
+- Membros do Governo
 - Secretário de Estado
+- Secretário de Estado Adjunto do Primeiro-ministro
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:20:42Z'
   warnings: []
   errors: []
 ---
@@ -90,16 +90,16 @@ validation:
 
 de 10 de setembro
 
-**O Presidente da República decreta, nos termos do artigo 133º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133º, alínea h), da Constituição, o seguinte:
 
 É exonerado, a seu pedido e sob proposta do Primeiro-Ministro, o Eng.º Carlos Manuel Félix Moedas do cargo de Secretário de Estado Adjunto do Primeiro-Ministro.
 
-**Assinado em 10 de setembro de 2014.**
+Assinado em 10 de setembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de setembro de 2014.**
+Referendado em 10 de setembro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

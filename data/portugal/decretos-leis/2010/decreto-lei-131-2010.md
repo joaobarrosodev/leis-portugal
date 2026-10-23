@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/131/2010/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2010-307201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3f745f019204af1f6b5f49c4bf508ff15e907c5bf442ba9984412f29d08d41c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee733523e52c7669c6de7c4a861a28a905abc9607e603ab99f967c2028c079b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,20 +70,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
 - Acordo
 - ACTO Administrativo
 - Adjudicação de Obras Públicas
 - Adjudicação por Concurso Público
 - Adjudicação sem Concurso Público
 - Ajuste Direto
-- Rede
 - Aquisição de Bens e Serviços
 - Assistência Médica
-- Garantia
-- Instituto da Construção e do Imobiliário
+- Código dos Contratos Públicos
+- Comissão CE
 - Concurso Internacional
+- Concurso Limitado por Prévia Qualificação
 - Concurso Público
+- Contratação Pública
 - Contrato Administrativo
 - Contrato de Concessão
 - Contrato de Construção
@@ -91,21 +91,29 @@ subjects:
 - Direito Administrativo
 - Empreitada de Obras Públicas
 - Feader
+- Garantia
+- Instituto da Construção e do Imobiliário
 - IPSS
-- Projeto de Investimento
-- Comissão CE
-- Publicitação
 - Locação Financeira
-- Concurso Limitado por Prévia Qualificação
 - Notificação
 - Portal dos Contratos Públicos
-- Código dos Contratos Públicos
-- Contratação Pública
+- Projeto de Investimento
+- Publicitação
+- Recurso
+- Rede
 relationships:
 - type: amended_by
   target: pt:dre:108086621:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:108086621:por
+  label: Alterados os arts. 77.º, 78.º-A, 104.º e 472.º do Código dos Contratos Públicos, aprovado pelo Dec Lei 18/2008 de
+    29-jan, na versão republicada do Código pelo Dec Lei 278/2009 de 29-jan, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31, nos termos do disposto nos seus
+    arts. 12.º e 13.º, que procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-b-2017-108086621
+  date: '2017-08-31'
 - type: cites
   target: celex:31989L0665
   label: null
@@ -127,15 +135,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
 article_structure:
-  article_count: 11
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:12Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +198,9 @@ São alterados os artigos 77.º, 95.º, 104.º e 472.º do CCP, aprovado em anex
 
 3 - ...
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - ...
 
@@ -208,7 +218,9 @@ c) ...
 
 d) Só tenha sido apresentada uma proposta.
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 1 - ...
 
@@ -232,7 +244,9 @@ d) Só tenha sido apresentada uma proposta.
 
 3 - ...
 
-###### Artigo 472.º — Obrigações perante a Comissão Europeia
+Artigo 472.º
+
+Obrigações perante a Comissão Europeia
 
 1 - ...
 
@@ -254,7 +268,9 @@ Anúncio voluntário de transparência
 
 2 - Quando a entidade adjudicante pretenda divulgar a sua intenção de celebrar um contrato no Jornal Oficial da União Europeia, nos termos do número anterior, deve fazê-lo através de um anúncio conforme modelo constante do anexo iii do Regulamento (CE) n.º [1150/2009](https://data.europa.eu/eli/reg/2009/1150/oj?locale=pt), da Comissão, de 10 de Novembro.
 
-###### Artigo 283.º-A — Anulação de contratos com fundamento em vícios procedimentais
+Artigo 283.º-A
+
+Anulação de contratos com fundamento em vícios procedimentais
 
 1 - Os contratos são designadamente anuláveis quando tenham sido celebrados:
 
@@ -298,12 +314,12 @@ Os artigos 2.º, 3.º e 6.º do presente decreto-lei entram em vigor 30 dias ap�
 
 Visto e aprovado em Conselho de Ministros de 16 de Setembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto de Sousa Martins - António Manuel Soares Serrano - António Augusto da Ascenção Mendonça - Óscar Manuel de Oliveira Gaspar.
 
-**Promulgado em 6 de Dezembro de 2010.**
+Promulgado em 6 de Dezembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 7 de Dezembro de 2010.**
+Referendado em 7 de Dezembro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

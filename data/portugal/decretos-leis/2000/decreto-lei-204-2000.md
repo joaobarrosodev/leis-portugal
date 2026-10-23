@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/202a00/45994605.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/204/2000/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2000-580977
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:18:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc5d9c369146427294efa25a58b67f89f3d275f15df5a5808fe0749f7b5c6b0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f416cb5fefed1a6c9d347daa524d32348c76e7ff28d1d9e5964596e3f7d3c5c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:18:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,38 @@ reuse:
 subjects:
 - Aeroporto
 - Animação Sócio-cultural
-- Região Autónoma
-- Equipamento Desportivo
-- Livro de Reclamações
-- Empresa
-- Espetáculos e Divertimentos Públicos
-- Turismo
-- Promoção Turística
-- Multa
 - Contra-ordenação
+- Desporto
 - Direcção Geral do Turismo
 - Diretor Geral
 - Embarcação de Recreio
+- Empresa
+- Equipamento Desportivo
+- Espetáculos e Divertimentos Públicos
+- Infraestrutura Turística
+- Livro de Reclamações
 - Marina
+- Multa
 - Parque de Diversões
-- Prestação de Serviços
 - Portos
+- Prestação de Serviços
+- Promoção Turística
+- Região Autónoma
 - Seguro Obrigatório de Responsabilidade Civil
 - SURF
 - Termalismo
-- Desporto
-- Infraestrutura Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:608703:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:304325:por
+  label: "Alterados os arts. 2º, 4º, 18º, 20º e 21º do presente diploma, pelo DEC LEI.108/2002.2002.04.16.MECO, DR.IS-A [89]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2002-304325
+  date: '2002-04-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/229/1992/10/21/p/dre
   label: null
@@ -109,16 +115,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/22/1998/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/22/1998/09/21/p/dre
+- type: cites
+  target: pt:dre:199794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533800:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:608703:por
+  label: "Revogado, a partir de 14.06.2009, o presente diploma, alterado pelo Dec Lei 108/2002 de 16-Abr (revogado na mesma\
+    \ data), pelo DEC LEI.108/2009.15.05.2009.MEI, DR.IS [94] de 15.05.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2009-608703
+  date: '2009-05-15'
 article_structure:
   article_count: 32
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:18:45Z'
   warnings: []
   errors: []
 ---
@@ -415,7 +443,9 @@ Sem prejuízo do disposto no artigo 10.º, a transmissão da propriedade e a ces
 
 5 - Os veículos automóveis utilizados no exercício das actividades previstas no n.º 1 com lotação superior a nove lugares devem ser sujeitos a prévio licenciamento pela Direcção-Geral de Transportes Terrestres, nos termos a definir em portaria conjunta dos membros do Governo responsáveis pelas áreas do turismo e dos transportes, a qual fixará igualmente os requisitos mínimos a que devem obedecer tais veículos.
 
-###### Artigo 17.º — Livro de reclamações
+###### Artigo 17.º
+
+## Livro de reclamações
 
 1 - As empresas de animação turística devem possuir em todos os seus estabelecimentos um livro destinado aos utentes para que estes possam formular observações e reclamações sobre o estado e a apresentação das instalações e do equipamento, bem como sobre a qualidade dos serviços e o modo como foram prestados.
 
@@ -569,12 +599,12 @@ O presente diploma entra em vigor no dia imediatamente a seguir ao da sua public
 
 Visto e aprovado em Conselho de Ministros de 13 de Julho de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes Pina Moura - Armando António Martins Vara.
 
-**Promulgado em 16 de Agosto de 2000.**
+Promulgado em 16 de Agosto de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Agosto de 2000.**
+Referendado em 24 de Agosto de 2000.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.

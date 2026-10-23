@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/06400/0003200037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/59/2025/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2025-913223418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 039b0d44a7601a719fc3261be78056bc51880321e92353913cb76243c614ad53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a401cd2a7da76feeac7db9c48e9f12da51615ad29740a2909089960913760b5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Autoridade Tributária e Aduaneira
-- Pessoal Dirigente
 - Administração Pública
+- Autoridade Tributária e Aduaneira
 - Carreira Profissional
-- Inspecção Tributária
-- Quadro de Pessoal
 - Estatuto Remuneratório
+- Inspecção Tributária
+- Pessoal Dirigente
+- Quadro de Pessoal
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:118/2011
+  label: Altera, a partir de 2 de abril de 2025, com efeitos a 1 de abril de 2025, o anexo ao Decreto-Lei n.º 118/2011, de
+    15 de dezembro, Diário da República n.º 239/2011, Série I
+  source: null
+  date: '2011-12-15'
+- type: amends
+  target: pt:numero:decreto-lei:132/2019
+  label: Altera, a partir de 2 de abril de 2025, com efeitos a 1 de abril de 2025, nos termos do artigo 7.º do presente diploma,
+    os artigos 37.º, 38.º, 39.º e 42.º e os anexos v, vi e vii, e revoga as alíneas a) e b) do n.º 3 do artigo 1.º e as alíneas
+    a) e b) do n.º 1 do artigo 38.º do Decreto-Lei n.º 132/2019, de 30 de agosto, Diário da República n.º 166/2019, Série
+    I
+  source: null
+  date: '2019-08-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117/2011/12/15/p/dre
   label: null
@@ -103,16 +117,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:124324704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187413389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221029890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:840060195:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:40Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +163,7 @@ validation:
 
 de 1 de abril
 
-O [Decreto-Lei n.º 117/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2011-145590), de 15 de dezembro, na sua redação atual, procedeu à fusão da Direção-Geral de Impostos (DGCI), da Direção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC) e da Direção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros (DGITA), extinguindo-as e criando a Autoridade Tributária e Aduaneira (AT), cuja orgânica foi aprovada pelo [Decreto-Lei n.º 118/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2011-145591), de 15 de dezembro, na sua redação atual, tendo-se, no entanto, mantido inalteradas as diversas carreiras de regime especial do pessoal dessas três direções-gerais, até à aprovação do [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), de 30 de agosto, alterado pelos Decretos-Leis n.<sup>os</sup>[53/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389), de 12 de agosto, e [19/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), de 2 de fevereiro, que procede à revisão das carreiras especiais da Autoridade Tributária e Aduaneira.
+O [Decreto-Lei n.º 117/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2011-145590), de 15 de dezembro, na sua redação atual, procedeu à fusão da Direção-Geral de Impostos (DGCI), da Direção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC) e da Direção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros (DGITA), extinguindo-as e criando a Autoridade Tributária e Aduaneira (AT), cuja orgânica foi aprovada pelo [Decreto-Lei n.º 118/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2011-145591), de 15 de dezembro, na sua redação atual, tendo-se, no entanto, mantido inalteradas as diversas carreiras de regime especial do pessoal dessas três direções-gerais, até à aprovação do [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), de 30 de agosto, alterado pelos Decretos-Leis n.os[53/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389), de 12 de agosto, e [19/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), de 2 de fevereiro, que procede à revisão das carreiras especiais da Autoridade Tributária e Aduaneira.
 
 O [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), de 30 de agosto, na sua redação atual, veio rever a estrutura das carreiras de regime especial existentes naquelas direções-gerais, criando duas novas carreiras especiais de grau de complexidade funcional 3, com estrutura unicategorial e tendo mantido seis carreiras de regime especial das extintas DGCI e DGAIEC como carreiras subsistentes. Decorridos seis anos sobre aquela revisão, foram constatadas incoerências entre os diferentes procedimentos tendentes à integração dos trabalhadores enquadrados nas carreiras subsistentes nas carreiras especiais então criadas, as quais cumpre corrigir, através da adoção de soluções justas e equilibradas, e que foram acordadas no âmbito do diálogo mantido entre o Governo e as estruturas sindicais que representam os trabalhadores da AT.
 
@@ -141,7 +183,7 @@ O presente decreto-lei procede à:
 
 a) Décima alteração ao [Decreto-Lei n.º 118/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2011-145591), de 15 de dezembro, na sua redação atual, que aprova a estrutura orgânica da Autoridade Tributária e Aduaneira;
 
-b) Terceira alteração ao [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), de 30 de agosto, alterado pelos Decretos-Leis n.<sup>os</sup>[53/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389), de 12 de agosto, e [19/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), de 2 de fevereiro, que procede à revisão das carreiras especiais da Autoridade Tributária e Aduaneira.
+b) Terceira alteração ao [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), de 30 de agosto, alterado pelos Decretos-Leis n.os[53/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389), de 12 de agosto, e [19/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), de 2 de fevereiro, que procede à revisão das carreiras especiais da Autoridade Tributária e Aduaneira.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), de 30 de agosto
 
@@ -171,7 +213,9 @@ g) Investigador tributário economista;
 
 h) Investigador tributário jurista.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...]
 
@@ -205,7 +249,9 @@ f) [...]
 
 10 - (Anterior n.º 8.)
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - [...]
 
@@ -221,7 +267,9 @@ d) Os trabalhadores atualmente integrados na carreira de regime especial de inve
 
 3 - [...]
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...]
 
@@ -267,15 +315,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, pr
 
 Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro.
 
-**Promulgado em 19 de março de 2025.**
+Promulgado em 19 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de março de 2025.**
+Referendado em 21 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -283,10 +331,10 @@ Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Monte
 
 Carreira especial de gestão e inspeção tributária e aduaneira
 
-| Carreiras | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Gestão e inspeção tributária e aduaneira | PR | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 12 |
-| Gestão e inspeção tributária e aduaneira | NR | 20 | 25 | 29 | 33 | 37 | 41 | 44 | 47 | 51 | 55 | 59 | 63 | » |
+| Carreiras | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gestão e inspeção tributária e aduaneira | PR | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| NR | 20 | 25 | 29 | 33 | 37 | 41 | 44 | 47 | 51 | 55 | 59 | 63 | » |
 
 ## ANEXO II — (a que se refere o artigo 3.º)
 
@@ -294,10 +342,10 @@ Carreira especial de gestão e inspeção tributária e aduaneira
 
 Carreira especial de inspeção e auditoria tributária e aduaneira
 
-| Carreiras | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Inspeção e auditoria tributária e aduaneira | PR | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 12 |
-| Inspeção e auditoria tributária e aduaneira | NR | 20 | 25 | 29 | 33 | 37 | 41 | 44 | 47 | 51 | 55 | 59 | 63 | » |
+| Carreiras | Posições remuneratórias (PR)/níveis remuneratórios (NR) - Fixas |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Inspeção e auditoria tributária e aduaneira | PR | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| NR | 20 | 25 | 29 | 33 | 37 | 41 | 44 | 47 | 51 | 55 | 59 | 63 | » |
 
 ## ANEXO III — (a que se refere o artigo 3.º)
 
@@ -305,13 +353,13 @@ Carreira especial de inspeção e auditoria tributária e aduaneira
 
 [...]
 
-| Cargos de chefia tributária e aduaneira | Posição remuneratória/nível remuneratório | Posição remuneratória/nível remuneratório |
+| Cargos de chefia tributária e aduaneira | Posição remuneratória/nível remuneratório |  |
 | --- | --- | --- |
-| Chefe de serviço de finanças de nível i | 44 | 44 |
-| Chefe de delegação aduaneira de nível i | 44 | 44 |
-| Chefe de serviço de finanças-adjunto de nível i | 40 | 40 |
-| Chefe de serviço de finanças de nível ii | 40 | 40 |
-| Chefe de delegação aduaneira de nível ii | 40 | 40 |
+| Chefe de serviço de finanças de nível i | 44 |  |
+| Chefe de delegação aduaneira de nível i | 44 |  |
+| Chefe de serviço de finanças-adjunto de nível i | 40 |  |
+| Chefe de serviço de finanças de nível ii | 40 |  |
+| Chefe de delegação aduaneira de nível ii | 40 |  |
 | Chefe de serviço de finanças-adjunto de nível ii | 36 | » |
 
 ## ANEXO IV — (a que se refere o artigo 4.º)
@@ -322,13 +370,17 @@ Carreira especial de inspeção e auditoria tributária e aduaneira
 
 [...]
 
-| Qualificação | Grau | Designação do cargo | Número de lugares | Número de lugares |
+| Qualificação | Grau | Designação do cargo | Número de lugares |  |
 | --- | --- | --- | --- | --- |
-| [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] | [...] |  |
+| [...] | [...] | [...] | [...] |  |
+| [...] | [...] | [...] | [...] |  |
+| [...] | [...] | [...] | [...] |  |
+| [...] | [...] | [...] | [...] |  |
+| [...] | [...] | [...] | [...] |  |
+| [...] | [...] | [...] | [...] |  |
 | Direção intermédia | 1.º | [...] | 96 | » |
+
+118863105
+
+.Tbl2 { height:34px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl10 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-left-style:solid; vertical-align:bottom; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl12 { min-height:26px; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; }

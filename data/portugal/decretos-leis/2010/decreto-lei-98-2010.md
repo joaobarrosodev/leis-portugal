@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/98/2010/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2010-343084
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afaade4633c5b030df3bde102a09ae51f94e7fc8b4b65973ebd44ad0e6fc5aa9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3da618cef96399541ba3a28aeb82254c28a9bf6ce808a009ac19cf72aac77af5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
-- Gestão de Resíduos
-- INEM
+- ASAE
 - Classificação de Mercadorias
+- Comércio
 - Contra-ordenação
 - Definição de Competências
-- Saúde Pública
+- Embalagem
 - Etiquetagem
 - Fiscalização
-- ASAE
-- Licenciamento
-- Embalagem
+- Gestão de Resíduos
+- INEM
 - Inspecção Geral do Ambiente e do Ordenamento do Território
+- Licenciamento
 - Proteção do Ambiente
 - Proteção do Consumidor
-- Comércio
-- Agência Portuguesa do Ambiente
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:114337042:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:lei:242/2001
+  label: "Altera os arts. 2º, 7º ( este a partir de 01.12.2010), 17º, 18º e 19º, bem como os anexos I, II-A e III, todos do\
+    \ Dec Lei nº 242/2001, de 31-Ago, DR IS-A [202]\0\0"
+  source: null
+  date: '2001-08-31'
+- type: amends
+  target: pt:numero:lei:196/2003
+  label: "Altera, a partir de 01.12.2010, o art. 2º do Dec Lei nº 196/2003, de 23-Ago, DR IS-A [194], na redacção do Dec Lei\
+    \ 64/2008, de 08-Abr\0\0"
+  source: null
+  date: '2003-08-23'
+- type: amends
+  target: pt:numero:lei:181/2006
+  label: "Altera os arts. 2º, 8º e 9º do Dec Lei nº 181/2006, de 06-Set, DR IS [172]\0\0"
+  source: null
+  date: '2006-09-06'
 - type: cites
   target: celex:31967L0548
   label: null
@@ -138,16 +155,29 @@ relationships:
   target: eli:http://data.europa.eu/eli/r
   label: null
   source: http://data.europa.eu/eli/r
+- type: repealed_by
+  target: pt:dre:499546:por
+  label: "Revogado o Dec Lei 242/2001 de 31-ago DR.IS-A [202], na redação do presente diploma, pelo DEC LEI.127/2013.30.08.2013.MAMAOT,\
+    \ DR.IS [167] de 30.08.2013 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-2013-499546
+  date: '2013-08-30'
+- type: repealed_by
+  target: pt:dre:114337042:por
+  label: Revogado, a partir de 01.01.2018, o Dec Lei 196/2003 de 23-ago, na versão republicada pelo Dec Lei 64/2008 de 08-abr
+    e na redação do presente diploma, pelo(a) Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento,
+    Série I de 2017-12-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-d-2017-114337042
+  date: '2017-12-11'
 article_structure:
-  article_count: 30
+  article_count: 24
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:13Z'
   warnings: []
   errors: []
 ---
@@ -614,7 +644,9 @@ gg) ...
 
 hh) ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -646,7 +678,9 @@ hh) ...
 
 15 - ...
 
-###### Artigo 17.º — Contra-ordenações ambientais
+Artigo 17.º
+
+Contra-ordenações ambientais
 
 1 - Constitui contra-ordenação ambiental grave, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, a prática dos seguintes actos:
 
@@ -670,13 +704,17 @@ b) A violação das obrigações de monitorização e informação previstas nos
 
 4 - Pode ser objecto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de Agosto, a condenação pela prática das infracções graves previstas no n.º 1, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstractamente aplicável.
 
-###### Artigo 18.º — Sanções acessórias e apreensão cautelar
+Artigo 18.º
+
+Sanções acessórias e apreensão cautelar
 
 1 - Relativamente às infracções graves previstas no n.º 1 do artigo anterior, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos previstos na Lei n.º 50/2006, de 29 de Agosto.
 
 2 - Relativamente às infracções graves e leves previstas no artigo anterior, pode ainda a autoridade competente determinar a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da Lei n.º 50/2006, de 29 de Agosto.
 
-###### Artigo 19.º — Instrução e decisão dos processos
+Artigo 19.º
+
+Instrução e decisão dos processos
 
 São competentes para o processamento das contra-ordenações a Inspecção-Geral do Ambiente e do Ordenamento do Território e as comissões de coordenação e desenvolvimento regional.»
 
@@ -726,13 +764,17 @@ o) [...]
 
 p) [...].
 
-## ANEXO II-A — Parte I
+ANEXO II-A
+
+Parte I
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15500/0335303398.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15500/0335303398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15500/0335303398.pdf)
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 1 - [...]
 
@@ -800,7 +842,9 @@ j) ...
 
 l) ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Constituem contra-ordenações ambientais graves, puníveis nos termos da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto:
 
@@ -814,7 +858,9 @@ c) A colocação no mercado nacional dos produtos abrangidos pelo presente decre
 
 3 - A tentativa e a negligência são puníveis.
 
-###### Artigo 9.º — Sanções acessórias e apreensão cautelar
+Artigo 9.º
+
+Sanções acessórias e apreensão cautelar
 
 1 - Sempre que a gravidade da infracção o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos previstos na Lei n.º 50/2006, de 29 de Agosto.
 
@@ -894,19 +940,19 @@ c) A Portaria n.º 431/96, de 2 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 15 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - Pedro Manuel Carqueijeiro Lourtie - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - António Manuel Soares Serrano - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Ana Maria Teodoro Jorge.
 
-**Promulgado em 17 de Julho de 2010.**
+Promulgado em 17 de Julho de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de Julho de 2010.**
+Referendado em 20 de Julho de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Símbolos e indicações de perigo das substâncias e misturas perigosas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15500/0335303398.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15500/0335303398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15500/0335303398.pdf)
 
 ## ANEXO II — Natureza dos riscos específicos atribuídos às substâncias e misturas perigosas
 
@@ -3496,7 +3542,7 @@ Sempre que as frases seleccionadas de acordo com os critérios estritos referido
 
 7.7 - Dimensões do rótulo para as misturas. - As dimensões do rótulo devem ser as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15500/0335303398.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15500/0335303398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15500/0335303398.pdf)
 
 Cada símbolo deve ocupar, pelo menos, um décimo da superfície do rótulo sem, no entanto, ser inferior a 1cm2. O rótulo deve ser solidamente afixado a uma ou mais faces da embalagem que contém imediatamente a preparação.
 
@@ -3646,7 +3692,9 @@ No que diz respeito ao ponto 4.1.5. e, nomeadamente, ao seu último parágrafo, 
 
 Essas consultas decorrerão no âmbito do processo normal de consulta de peritos nacionais e ou no âmbito de comités já existentes. Proceder-se-á de modo idêntico quando substâncias já incluídas na Parte 3 do Anexo VI do Regulamento [1272/2008](https://data.europa.eu/eli/reg/2008/1272/oj?locale=pt) devam ser reclassificadas, no que se refere aos seus efeitos carcinogénicos ou mutagénicos ou aos seus efeitos tóxicos na reprodução.
 
-## ANEXO V — Parte A
+ANEXO V
+
+Parte A
 
 Disposições relativas aos fechos de segurança para crianças
 
@@ -3674,7 +3722,7 @@ ou
 
 - o fecho em questão foi sujeito a ensaios, sendo considerado conforme à norma supramencionada.
 
-# Parte B
+Parte B
 
 Disposições relativas aos dispositivos que permitem detectar os perigos pelo tacto
 

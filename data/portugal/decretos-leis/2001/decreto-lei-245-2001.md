@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/245/2001/09/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2001-629788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:27:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea6a1906ed88ca848c514fb8bbe602c8e98c537b18c06cf2ae3da616ed915cf5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07b2cbee73a5e1cf9d2a423831c31bece1b01965a16ec7fba29e2e2a665615f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:27:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,45 @@ relationships:
   target: pt:dre:499049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério das Actividades Económicas e do Trabalho do Conselho Nacional para a Segurança,\
+    \ Higiene e Saúde no Trabalho (integrado no agora extinto Ministério da Segurança Social e do Trabalho), pelo DEC LEI.215-A/2004.03.09.2004.PCM,\
+    \ DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para o Ministério do Trabalho e da Solidariedade Social do Conselho (integrado no extinto\
+    \ Ministério das Actividades Económicas e do Trabalho), reestruturado no presente diploma, pelo DEC LEI.79/2005.15.04.2005.PCM,\
+    \ DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:370982:por
+  label: "Alterados os artigos 3.º, 4.º, 5.º, 6.º, 7.º, 9.º e 10.º,revogado o artigo 8.º e extinta a comissão de acompanhamento\
+    \ prevista no presente diploma pelo DEC LEI.121/2006.22.06.2006.MTSSO, DR.IS-A [119] de 22.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2006-370982
+  date: '2006-06-22'
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinada a transição para o Ministério da Economia e do Emprego do Conselho Nacional de Higiene e Segurança no\
+    \ Trabalho, integrado no ex-Ministério do Trabalho e da Solidariedade Social, estruturado pelo presente diploma, alterado\
+    \ pelo Dec Lei 121/2006 de 22-Jun, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amended_by
+  target: pt:dre:642012:por
+  label: "Extinto o Conselho Nacional da Higiene e Segurança no Trabalho, pelo DEC LEI.126-C/2011.29.12.2011.MEE, DR.IS [249-Supl]\
+    \ de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-c-2011-642012
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:499049:por
+  label: "Determinada a transição para o Ministério da Solidariedade, Emprego e Segurança Social, pelo DEC LEI.119/2013.21.08.2013.PCM,\
+    \ DR.IS [160] de 21.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2013-499049
+  date: '2013-08-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/2000/06/30/p/dre
   label: null
@@ -91,16 +130,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/3/2000/01/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/3/2000/01/13/p/dre
+- type: cites
+  target: pt:dre:228460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496680:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:239236:por
+  label: "Rectificado pela DECL-RECT.20-F/2001.2001.10.31.PCM DR.IS-A [253]4º Supl de 31/Out/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/20-f-2001-239236
+  date: '2001-10-31'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:27:00Z'
   warnings: []
   errors: []
 ---
@@ -261,12 +333,12 @@ O presente diploma entra em vigor no dia seguinte ao da respectiva publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Agosto de 2001. - António Manuel de Oliveira Guterres - Rodolfo Vasco Castro Gomes Mascarenhas Lavrador - Eduardo Luís Barreto Ferro Rodrigues - António Fernando Correia de Campos - Paulo José Fernandes Pedroso.
 
-**Promulgado em 29 de Agosto de 2001.**
+Promulgado em 29 de Agosto de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Agosto de 2001.**
+Referendado em 30 de Agosto de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

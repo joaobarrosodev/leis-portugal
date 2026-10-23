@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10300/34733475.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/210/2007/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2007-638527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68d473e50a15957b322c911d286047f85b0d07d15eef6defa55fff0eb484717e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b17947e9dab8e85c513a032a544df209180400df722f5ae4f8cb3e683b2ec23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Diretor Geral
-- Ministério do Trabalho e da Solidariedade Social
-- Instituto para a Qualidade na Formação
 - Direcção Geral do Emprego e das Relações de Trabalho
+- Diretor Geral
+- Instituto para a Qualidade na Formação
+- Ministério do Trabalho e da Solidariedade Social
 - Orgânica
 - Subdirector Geral
 relationships:
@@ -77,6 +77,13 @@ relationships:
   target: pt:dre:552550:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinada a transição para o Ministério da Economia e do Emprego da Direcção-Geral do Emprego e das Relações de\
+    \ Trabalho, anteriormente integrada no extinto Ministério do Trabalho e da Solidariedade Social, cuja orgânica foi aprovada\
+    \ pelo presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/2006/10/27/p/dre
   label: null
@@ -85,16 +92,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/266/2002/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/266/2002/11/26/p/dre
+- type: cites
+  target: pt:dre:447915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:552550:por
+  label: "Revogado nos termos do art. 46.º do Dec Lei 126-C/2011, de 29-dez, a partir de 01.05.2012, pelo DR. 40/2012.12.04.2012.MEE,\
+    \ DR.IS [73] de 12.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/40-2012-552550
+  date: '2012-04-12'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:54Z'
   warnings: []
   errors: []
 ---
@@ -217,16 +238,16 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva.
 
-**Promulgado em 14 de Abril de 2007.**
+Promulgado em 14 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Abril de 2007.**
+Referendado em 16 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o artigo 8.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/10300/34733475.pdf))](https://files.diariodarepublica.pt/1s/2007/05/10300/34733475.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/10300/34733475.pdf)

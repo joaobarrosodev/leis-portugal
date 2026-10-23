@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/220/1996/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1996-197757
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:45:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20b36e83dd24d1bef37e744b9ea99dae9b6a50abd35f34212e8f428d3d5406ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fc3866907112912b6ed5220b647c213db57070867fbbd07abb40a1851c7adfc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:45:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cimeira
-- Feriado
-- Lisboa
-- Estabelecimento de Ensino
-- OSCE
-- Funcionário Público
-- Tolerância de Ponto
 - Autarquia Local
+- Cimeira
+- Estabelecimento de Ensino
+- Feriado
+- Funcionário Público
+- Lisboa
+- OSCE
+- Tolerância de Ponto
 relationships: []
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:45:53Z'
   warnings: []
   errors: []
 ---
@@ -114,10 +114,10 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 7 de Novembro de 1996. - António Manuel de Carvalho Ferreira Vitorino - António Manuel de Carvalho Ferreira Vitorino - José Manuel Lello Ribeiro de Almeida - Alberto Bernardes Costa - João Cardona Gomes Cravinho - Eduardo Carrega Marçal Grilo - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 18 de Novembro de 1996.**
+Promulgado em 18 de Novembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Novembro de 1996. O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+Referendado em 20 de Novembro de 1996. O Primeiro-Ministro, António Manuel de Oliveira Guterres.

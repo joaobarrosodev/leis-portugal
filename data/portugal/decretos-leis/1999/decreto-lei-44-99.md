@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/02/036a00/07620765.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/44/1999/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1999-170309
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:12:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8bad364ae3cb544d3733dd992c873b47b486ed306979128b002a775eadac6dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da43aaedfedb1c0da9fce8e2a9d624d4bf99bd29b88ddcd3b0fa27bfbd383ac9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:12:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Empresa
-- Reforma Fiscal
-- Inventário Permanente
-- Gestão de Empresas
-- Plano Oficial de Contabilidade
 - Evasão Fiscal
+- Gestão de Empresas
 - Inventário
+- Inventário Permanente
+- Plano Oficial de Contabilidade
+- Reforma Fiscal
 - Sistema de Inventário Permanente
 relationships:
 - type: amended_by
   target: pt:dre:2242375:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:605330:por
+  label: "Alterado o Plano Oficial de Contabilidade, aprovado pelo Dec Lei 410/89, de 21-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.35/2005.17.02.2005.MFAP, DR.IS-A [34] de 17.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2005-605330
+  date: '2005-02-17'
 - type: cites
   target: celex:31978L0660
   label: null
@@ -87,16 +93,27 @@ relationships:
   target: celex:31983L0349
   label: null
   source: http://data.europa.eu/eli/dir/1983/349/oj
+- type: repealed_by
+  target: pt:dre:239795:por
+  label: "Revogado o art. 3º e alterados arts. 1º, 4º e 5º, pelo DEC LEI.79/2003.2003.04.23.MF DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2003-239795
+  date: '2003-04-23'
+- type: repealed_by
+  target: pt:dre:492428:por
+  label: "Revogado, com a redacção conferida no Dec Lei 79/2003 de 23-Abr, pelo DEC LEI.158/2009.13.07.2009.MFAP, DR.IS [133]\
+    \ de 13.07.2009, nos termos do estabelecido no seu art. 16º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-2009-492428
+  date: '2009-07-13'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:12:53Z'
   warnings: []
   errors: []
 ---
@@ -165,15 +182,15 @@ O presente diploma aplica-se aos exercícios que comecem em ou a partir de 1 de 
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 2 de Fevereiro de 1999.**
+Promulgado em 2 de Fevereiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Fevereiro de 1999.**
+Referendado em 4 de Fevereiro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO
 
@@ -237,7 +254,7 @@ A designação «Demonstração dos resultados (por funções)» passa a «Demon
 
 Demonstração dos resultados por funções
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/02/036a00/07620765.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/02/036a00/07620765.pdf)](https://files.diariodarepublica.pt/1s/1999/02/036a00/07620765.pdf)](https://files.diariodarepublica.pt/1s/1999/02/036a00/07620765.pdf)
 
 6 - A designação do n.º 14.2, «Demonstração consolidada dos resultados», do capítulo 14, «Demonstrações financeiras consolidadas», do Plano Oficial de Contabilidade é alterada para «Demonstração consolidada dos resultados por naturezas».
 
@@ -245,13 +262,13 @@ Demonstração dos resultados por funções
 
 Demonstração consolidada dos resultados por funções
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/02/036a00/07620765.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/02/036a00/07620765.pdf)](https://files.diariodarepublica.pt/1s/1999/02/036a00/07620765.pdf)](https://files.diariodarepublica.pt/1s/1999/02/036a00/07620765.pdf)
 
 8 - À nota 42 do anexo ao balanço e à demonstração dos resultados (capítulo 8 do Plano Oficial de Contabilidade) é aditado o seguinte:
 
 «Quando a empresa tiver de elaborar a demonstração dos resultados por funções, deverá também apresentar a demonstração do custo das vendas e das prestações de serviços, como segue:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/02/036a00/07620765.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/02/036a00/07620765.pdf)](https://files.diariodarepublica.pt/1s/1999/02/036a00/07620765.pdf)](https://files.diariodarepublica.pt/1s/1999/02/036a00/07620765.pdf)
 
 9 - No capítulo 12, classe 3, «Existências», do Plano Oficial de Contabilidade, o primeiro parágrafo é substituído pelo seguinte:
 

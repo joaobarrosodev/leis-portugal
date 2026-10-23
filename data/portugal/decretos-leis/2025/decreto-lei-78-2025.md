@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/09000/0000600019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/78/2025/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ceb2b198f5b6871640e9d5ba91fa25105dd1c06ca1dc76f00b244562f02f143f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0431efab7f49eb8657bce957d9ea6867ea5860bd6825efc22063b158526daea5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,59 @@ reuse:
 subjects:
 - Concurso
 - Contratação de Docentes
-- Timor Leste
 - Direção Geral da Administração Escolar
 - Ensino Português no Estrangeiro
+- Escola Portuguesa de Cabo Verde
+- Escola Portuguesa de Díli
 - Escola Portuguesa de Moçambique-Centro de Ensino e Língua Portuguesa
+- Escola Portuguesa de São Paulo
+- Mobilidade de Pessoal
 - Recrutamento de Pessoal
 - São Tomé e Príncipe
-- Mobilidade de Pessoal
-- Escola Portuguesa de Díli
-- Escola Portuguesa de Cabo Verde
-- Escola Portuguesa de São Paulo
+- Timor Leste
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:183/2006
+  label: Altera, a partir de 13 de maio de 2025, nos termos dos artigos 9.º e 10.º, e com os efeitos previstos nos n.ºs 2
+    e 3 do artigo 12.º, os artigos 15.º e 16.º-A do Decreto-Lei n.º 183/2006, de 6 de setembro, Diário da República n.º 172/2006,
+    Série I
+  source: null
+  date: '2006-09-06'
+- type: amends
+  target: pt:numero:decreto-lei:48/2009
+  label: Altera, a partir de 13 de maio de 2025, nos termos dos artigos 9.º e 10.º, e com os efeitos previstos nos n.ºs 2
+    e 3 do artigo 12.º do presente diploma, os artigos 16.º e 18.º do Decreto-Lei n.º 48/2009, de 23 de fevereiro, Diário
+    da República n.º 37/2009, Série I
+  source: null
+  date: '2009-02-23'
+- type: amends
+  target: pt:numero:decreto-lei:212/2015
+  label: Altera, a partir de 13 de maio de 2025, nos termos dos artigos 9.º e 10.º, e com os efeitos previstos nos n.ºs 2
+    e 3 do artigo 12.º do presente diploma, os artigos 18.º e 20.º do Decreto-Lei n.º 212/2015, de 29 de setembro, Diário
+    da República n.º 190/2015, Série I
+  source: null
+  date: '2015-09-29'
+- type: amends
+  target: pt:numero:decreto-lei:213/2015
+  label: Altera, a partir de 13 de maio de 2025, nos termos dos artigos 9.º e 10.º, e com os efeitos previstos nos n.ºs 2
+    e 3 do artigo 12.º do presente diploma, os artigos 18.º e 20.º do Decreto-Lei n.º 213/2015, de 29 de setembro, Diário
+    da República n.º 190/2015, Série I
+  source: null
+  date: '2015-09-29'
+- type: amends
+  target: pt:numero:decreto-lei:73/2019
+  label: Altera, a partir de 13 de maio de 2025, nos termos dos artigos 9.º e 10.º, e com os efeitos previstos nos n.ºs 2
+    e 3 do artigo 12.º do presente diploma, os artigos 18.º e 20.º do Decreto-Lei n.º 73/2019, de 28 de maio, Diário da República
+    n.º 102/2019, Série I
+  source: null
+  date: '2019-05-28'
+- type: amends
+  target: pt:numero:decreto-lei:139-B/2023
+  label: Altera, a partir de 13 de maio de 2025, nos termos dos artigos 9.º e 10.º, e com os efeitos previstos nos n.ºs 2
+    e 3 do artigo 12.º do presente diploma, o n.º 1 e revoga o n.º 3 do artigo 16.º do Decreto-Lei n.º 139-B/2023, de 29 de
+    dezembro, Diário da República n.º 250/2023, 4º Suplemento, Série I
+  source: null
+  date: '2023-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-
   label: null
@@ -119,16 +161,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:122419057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223154119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70402847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70402848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70402849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835994078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:871917718:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:05Z'
   warnings: []
   errors: []
 ---
@@ -165,9 +251,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 a) À sexta alteração ao [Decreto-Lei n.º 241/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1999-393007), de 25 de junho, na sua redação atual, que cria a Escola Portuguesa de Moçambique - Centro de Ensino e Língua Portuguesa;
 
-b) À terceira alteração ao [Decreto-Lei n.º 183/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2006-539981), de 6 de setembro, alterado pelos Decretos-Leis n.<sup>os</sup>[99/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), de 23 de outubro, e [45-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-b-2024-871917718), de 12 de julho, que cria a Escola Portuguesa de Luanda - Centro de Ensino e Língua Portuguesa;
+b) À terceira alteração ao [Decreto-Lei n.º 183/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2006-539981), de 6 de setembro, alterado pelos Decretos-Leis n.os[99/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), de 23 de outubro, e [45-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-b-2024-871917718), de 12 de julho, que cria a Escola Portuguesa de Luanda - Centro de Ensino e Língua Portuguesa;
 
-c) À terceira alteração ao [Decreto-Lei n.º 48/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2009-602046), de 23 de fevereiro, alterado pelos Decretos-Leis n.<sup>os</sup>[214/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2015-70402849), de 29 de setembro, e [139-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-2023-835994078), de 29 de dezembro, que cria, ao abrigo do acordo de cooperação celebrado em 4 de dezembro de 2002 entre a República Portuguesa e a República Democrática de Timor-Leste, a Escola Portuguesa de Díli - Centro de Ensino e Língua Portuguesa;
+c) À terceira alteração ao [Decreto-Lei n.º 48/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2009-602046), de 23 de fevereiro, alterado pelos Decretos-Leis n.os[214/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2015-70402849), de 29 de setembro, e [139-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-2023-835994078), de 29 de dezembro, que cria, ao abrigo do acordo de cooperação celebrado em 4 de dezembro de 2002 entre a República Portuguesa e a República Democrática de Timor-Leste, a Escola Portuguesa de Díli - Centro de Ensino e Língua Portuguesa;
 
 d) À segunda alteração ao [Decreto-Lei n.º 212/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2015-70402847), de 29 de setembro, alterado pelo [Decreto-Lei n.º 139-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-2023-835994078), de 29 de dezembro, que cria a Escola Portuguesa de São Tomé e Príncipe - Centro de Ensino e da Língua Portuguesa;
 
@@ -217,7 +303,9 @@ d) Doença incapacitante do próprio que exija tratamento prolongado; ou
 
 e) Instabilidade política ou social devidamente reconhecida pelo Estado Português.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -299,7 +387,9 @@ d) Doença incapacitante do próprio que exija tratamento prolongado; ou
 
 e) Instabilidade política ou social devidamente reconhecida pelo Estado Português.
 
-###### Artigo 16.º-A — [...]
+Artigo 16.º-A
+
+[...]
 
 1 - [...]
 
@@ -367,7 +457,9 @@ d) Doença incapacitante do próprio que exija tratamento prolongado; ou
 
 e) Instabilidade política ou social devidamente reconhecida pelo Estado Português.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -453,7 +545,9 @@ d) Doença incapacitante do próprio que exija tratamento prolongado; ou
 
 e) Instabilidade política ou social devidamente reconhecida pelo Estado Português.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -519,7 +613,9 @@ d) Doença incapacitante do próprio que exija tratamento prolongado; ou
 
 e) Instabilidade política ou social devidamente reconhecida pelo Estado Português.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -583,7 +679,9 @@ d) Doença incapacitante do próprio que exija tratamento prolongado; ou
 
 e) Instabilidade política ou social devidamente reconhecida pelo Estado Português.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -655,9 +753,9 @@ O artigo 16.º do [Decreto-Lei n.º 139-B/2023](https://diariodarepublica.pt/dr/
 
 ###### Artigo 10.º — Aplicação no tempo
 
-1 - O regime previsto nos n.<sup>os</sup>9 a 11 do artigo 13.º do [Decreto-Lei n.º 241/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1999-393007), de 25 de junho, nos n.<sup>os</sup>7 a 9 do artigo 15.º do [Decreto-Lei n.º 183/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2006-539981), de 6 de setembro, nos n.<sup>os</sup>9 a 11 do artigo 16.º do [Decreto-Lei n.º 48/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2009-602046), de 23 de fevereiro, nos n.<sup>os</sup>9 a 11 do artigo 18.º do [Decreto-Lei n.º 212/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2015-70402847), de 29 de setembro, nos n.<sup>os</sup>9 a 11 do artigo 18.º do [Decreto-Lei n.º 213/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2015-70402848), de 29 de setembro, e nos n.<sup>os</sup>8 a 10 do artigo 18.º do [Decreto-Lei n.º 73/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2019-122419057), de 28 de maio, todos na redação introduzida pelo presente decreto-lei, apenas é aplicável às colocações de docentes que tenham lugar a partir do dia 1 de setembro de 2025.
+1 - O regime previsto nos n.os9 a 11 do artigo 13.º do [Decreto-Lei n.º 241/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1999-393007), de 25 de junho, nos n.os7 a 9 do artigo 15.º do [Decreto-Lei n.º 183/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2006-539981), de 6 de setembro, nos n.os9 a 11 do artigo 16.º do [Decreto-Lei n.º 48/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2009-602046), de 23 de fevereiro, nos n.os9 a 11 do artigo 18.º do [Decreto-Lei n.º 212/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2015-70402847), de 29 de setembro, nos n.os9 a 11 do artigo 18.º do [Decreto-Lei n.º 213/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2015-70402848), de 29 de setembro, e nos n.os8 a 10 do artigo 18.º do [Decreto-Lei n.º 73/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2019-122419057), de 28 de maio, todos na redação introduzida pelo presente decreto-lei, apenas é aplicável às colocações de docentes que tenham lugar a partir do dia 1 de setembro de 2025.
 
-2 - Para o cômputo dos períodos de quatro anos e do limite máximo de três vezes, a que se referem os n.<sup>os</sup>3, 15 e 16 do artigo 15.º do [Decreto-Lei n.º 241/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1999-393007), de 25 de junho, os n.<sup>os</sup>3, 5 e 6 do artigo 16.º-A do [Decreto-Lei n.º 183/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2006-539981), de 6 de setembro, os n.<sup>os</sup>3, 15 e 16 do artigo 18.º do [Decreto-Lei n.º 48/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2009-602046), de 23 de fevereiro, os n.<sup>os</sup>3, 5 e 6 do artigo 20.º do [Decreto-Lei n.º 212/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2015-70402847), de 29 de setembro, os n.<sup>os</sup>3, 5 e 6 do artigo 20.º do [Decreto-Lei n.º 213/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2015-70402848), de 29 de setembro, e os n.<sup>os</sup>3, 5 e 6 do artigo 20.º do [Decreto-Lei n.º 73/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2019-122419057), de 28 de maio, todos na redação introduzida pelo presente decreto-lei, apenas se contam o tempo que decorrer ou as viagens que forem realizadas, consoante os casos, a partir do dia 1 de setembro de 2025.
+2 - Para o cômputo dos períodos de quatro anos e do limite máximo de três vezes, a que se referem os n.os3, 15 e 16 do artigo 15.º do [Decreto-Lei n.º 241/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1999-393007), de 25 de junho, os n.os3, 5 e 6 do artigo 16.º-A do [Decreto-Lei n.º 183/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2006-539981), de 6 de setembro, os n.os3, 15 e 16 do artigo 18.º do [Decreto-Lei n.º 48/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2009-602046), de 23 de fevereiro, os n.os3, 5 e 6 do artigo 20.º do [Decreto-Lei n.º 212/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2015-70402847), de 29 de setembro, os n.os3, 5 e 6 do artigo 20.º do [Decreto-Lei n.º 213/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2015-70402848), de 29 de setembro, e os n.os3, 5 e 6 do artigo 20.º do [Decreto-Lei n.º 73/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2019-122419057), de 28 de maio, todos na redação introduzida pelo presente decreto-lei, apenas se contam o tempo que decorrer ou as viagens que forem realizadas, consoante os casos, a partir do dia 1 de setembro de 2025.
 
 ###### Artigo 11.º — Norma revogatória
 
@@ -669,16 +767,18 @@ O artigo 16.º do [Decreto-Lei n.º 139-B/2023](https://diariodarepublica.pt/dr/
 
 2 - O presente decreto-lei produz efeitos a partir do dia 1 de setembro de 2025, salvo o disposto no n.º 1 do artigo 9.º, o qual produz efeitos a partir do dia seguinte ao da publicação do presente decreto-lei, e sem prejuízo do previsto no número seguinte.
 
-3 - O disposto na primeira parte do número anterior não obsta a que, a partir da data da entrada em vigor do presente decreto-lei, possa ser emitida a regulamentação prevista nos Decretos-Leis n.<sup>os</sup>[241/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1999-393007), de 25 de junho, [183/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2006-539981), de 6 de setembro, [48/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2009-602046), de 23 de fevereiro, [212/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2015-70402847), de 29 de setembro, [213/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2015-70402848), de 29 de setembro, e [73/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2019-122419057), de 28 de maio, todos na redação introduzida pelo presente decreto-lei, sem prejuízo do início da sua vigência apenas poder ter lugar quando a correspondente norma legal habilitante começar a ser aplicável.
+3 - O disposto na primeira parte do número anterior não obsta a que, a partir da data da entrada em vigor do presente decreto-lei, possa ser emitida a regulamentação prevista nos Decretos-Leis n.os[241/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1999-393007), de 25 de junho, [183/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2006-539981), de 6 de setembro, [48/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2009-602046), de 23 de fevereiro, [212/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2015-70402847), de 29 de setembro, [213/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2015-70402848), de 29 de setembro, e [73/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2019-122419057), de 28 de maio, todos na redação introduzida pelo presente decreto-lei, sem prejuízo do início da sua vigência apenas poder ter lugar quando a correspondente norma legal habilitante começar a ser aplicável.
 
 Visto e aprovado em Conselho de Ministros de 23 de abril de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - João Alexandre da Silva Lopes - António Leitão Amaro - Fernando Alexandre.
 
-**Promulgado em 2 de maio de 2025.**
+Promulgado em 2 de maio de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de maio de 2025.**
+Referendado em 6 de maio de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119027154

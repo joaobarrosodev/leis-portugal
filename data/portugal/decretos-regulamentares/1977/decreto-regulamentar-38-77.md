@@ -46,36 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1977-253405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T05:56:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4debaa1fb5d7ea1cddacef5d6655fe41d81c8ac9367a4c2f17109cb8da82df42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46bea0582e5720a03f27a240f683f03aee2e0c35d6f2a9a404eabea82a487423
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:56:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Circulação de Mercadorias
+- Comércio
+- Comissão Permanente para a Aplicação dos Direitos Anti-dumping e Compensadores
+- Concorrência
+- Definição de Competências
+- Direcção Geral das Alfândegas
+- Direitos Aduaneiros
+- Direitos Anti-dumping
+- Exportação
+- GATT
+- Importação
+- Ministério do Comércio e Turismo
+- Pauta Aduaneira
+- Representante do Governo
+relationships:
+- type: cites
+  target: pt:dre:233322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233323:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:56:53Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +120,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Para efeitos de aplicação do disposto no [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), entende-se por país exportador de uma mercadoria importada em território nacional o país de proveniência dessa mercadoria, salvo nos casos em que a mercadoria, originária de um país diferente, transite apenas pelo país de proveniência sem entrar no respectivo consumo interno ou não seja possível determinar neste país o preço do mercado interno comparável, casos em que se atenderá ao país de origem.
+Artigo 1.º Para efeitos de aplicação do disposto no [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), entende-se por país exportador de uma mercadoria importada em território nacional o país de proveniência dessa mercadoria, salvo nos casos em que a mercadoria, originária de um país diferente, transite apenas pelo país de proveniência sem entrar no respectivo consumo interno ou não seja possível determinar neste país o preço do mercado interno comparável, casos em que se atenderá ao país de origem.
 
-###### Art. 2.º Para efeitos de aplicação do disposto no [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), entende-se por preço de exportação de uma mercadoria exportada para território nacional o preço pelo qual essa mercadoria é vendida, numa operação comercial normal, pelo exportador ou por sua conta, ao importador em território nacional ou à entidade por conta de quem a mercadoria é importada em território nacional, depois de efectuados os seguintes ajustamentos:
+Art. 2.º Para efeitos de aplicação do disposto no [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), entende-se por preço de exportação de uma mercadoria exportada para território nacional o preço pelo qual essa mercadoria é vendida, numa operação comercial normal, pelo exportador ou por sua conta, ao importador em território nacional ou à entidade por conta de quem a mercadoria é importada em território nacional, depois de efectuados os seguintes ajustamentos:
 
 a) Dedução dos custos com transportes, cargas, descargas e seguro, desde o porto ou local do país exportador donde a mercadoria foi expedida até ao porto ou local da importação em território nacional, desde que tais custos estejam incluídos no preço da mercadoria facturado pelo exportador;
 
@@ -114,7 +136,7 @@ e) Inclusão de direitos de importação ou outros encargos de efeito equivalent
 
 f) Inclusão de impostos indirectos ou outros encargos fiscais equivalentes, lançados directa ou indirectamente no país exportador sobre a produção, a fabricação ou a comercialização da mercadoria em causa, que foram reembolsados ou não foram cobrados, em virtude da exportação dessa mercadoria.
 
-###### Art. 3.º - 1. Sendo impossível ou duvidosa a determinação do preço da exportação nos termos do artigo anterior, designadamente devido à existência de qualquer associação ou sistema de compensação entre o exportador e o importador ou terceiros, poderá este preço ser fixado com base no preço pelo qual a mercadoria importada tenha sido revendida pela primeira vez, numa operação comercial normal, a um comprador independente; nos casos em que a mercadoria não seja revendida a um comprador independente, ou não tenha sido revendida no estado em que foi importada, poderá ser fixado o preço com base em qualquer outro critério razoável.
+Art. 3.º - 1. Sendo impossível ou duvidosa a determinação do preço da exportação nos termos do artigo anterior, designadamente devido à existência de qualquer associação ou sistema de compensação entre o exportador e o importador ou terceiros, poderá este preço ser fixado com base no preço pelo qual a mercadoria importada tenha sido revendida pela primeira vez, numa operação comercial normal, a um comprador independente; nos casos em que a mercadoria não seja revendida a um comprador independente, ou não tenha sido revendida no estado em que foi importada, poderá ser fixado o preço com base em qualquer outro critério razoável.
 
 2. Na determinação do preço de exportação com base no preço de revenda, serão efectuados, além dos mencionados no artigo anterior, os seguintes ajustamentos:
 
@@ -124,7 +146,7 @@ b) Dedução dos direitos aduaneiros aplicáveis na importação da mercadoria e
 
 c) Dedução dos impostos indirectos ou outros encargos fiscais equivalentes eventualmente cobrados por ocasião da revenda da dita mercadoria.
 
-###### Art. 4.º - 1. Para efeitos de aplicação do disposto no [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), entende-se que dois preços são comparáveis se obedecerem às seguintes condições:
+Art. 4.º - 1. Para efeitos de aplicação do disposto no [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), entende-se que dois preços são comparáveis se obedecerem às seguintes condições:
 
 a) Respeitarem a mercadorias idênticas ou similares e da mesma qualidade;
 
@@ -136,9 +158,9 @@ d) Estarem corrigidos das influências que resultem das diferenças averiguadas 
 
 2. Entende-se por mercadoria similar a que, embora não inteiramente idêntica, apresente características próximas da mercadoria considerada.
 
-###### Art. 5.º Não constitui prática do dumping a simples isenção ou reembolso dos direitos de importação ou dos impostos indirectos ou outros encargos fiscais equivalentes que oneram a mercadoria idêntica ou similar destinada a ser consumida no país exportador.
+Art. 5.º Não constitui prática do dumping a simples isenção ou reembolso dos direitos de importação ou dos impostos indirectos ou outros encargos fiscais equivalentes que oneram a mercadoria idêntica ou similar destinada a ser consumida no país exportador.
 
-###### Art. 6.º - 1. Na determinação dos prejuízos ou da ameaça dos prejuízos resultantes da prática de dumping são tidos em consideração, por um lado, as consequências do dumping e, por outro lado, os restantes factores que conjuntamente podem ter uma influência desfavorável na produção.
+Art. 6.º - 1. Na determinação dos prejuízos ou da ameaça dos prejuízos resultantes da prática de dumping são tidos em consideração, por um lado, as consequências do dumping e, por outro lado, os restantes factores que conjuntamente podem ter uma influência desfavorável na produção.
 
 2. A avaliação dos prejuízos resultantes da prática de dumping baseia-se no exame de todos os factores que podem influir na situação da produção, designadamente:
 
@@ -154,11 +176,11 @@ b) As práticas comerciais restritivas.
 
 6. A avaliação da ameaça de prejuízos baseia-se em factos concretos que permitam determinar que o aumento substancial das importações de mercadoria em causa a preços de dumping provocaria uma alteração de circunstâncias claramente previsível e iminente que inevitavelmente conduziria à verificação de prejuízos.
 
-###### Art. 7.º - 1. Para efeitos de avaliação dos prejuízos entende-se por produções estabelecidas em território nacional, o conjunto dos produtores de mercadorias idênticas ou similares, ou os produtores que representem a maior parte da produção total das mesmas mercadorias.
+Art. 7.º - 1. Para efeitos de avaliação dos prejuízos entende-se por produções estabelecidas em território nacional, o conjunto dos produtores de mercadorias idênticas ou similares, ou os produtores que representem a maior parte da produção total das mesmas mercadorias.
 
 2. Nos casos em que os produtores sejam simultaneamente importadores da mercadoria objecto da prática de dumping poderão entender-se por produções estabelecidas em território nacional os restantes produtores de mercadorias idênticas ou similares.
 
-###### Artigo 8.º - 1. Os produtores nacionais que se considerem gravemente prejudicados, ou ameaçados de vir a sê-lo, pela prática de dumping em relação a mercadorias importadas, podem requerer à Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores o estudo da necessidade de lançar sobre as ditas mercadorias direitos anti-dumping nos termos dos artigos 1.º e 2.º do [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), fazendo acompanhar os seus requerimentos das justificações e elementos de prova em que baseiam as suas alegações, indicando nomeadamente:
+Artigo 8.º - 1. Os produtores nacionais que se considerem gravemente prejudicados, ou ameaçados de vir a sê-lo, pela prática de dumping em relação a mercadorias importadas, podem requerer à Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores o estudo da necessidade de lançar sobre as ditas mercadorias direitos anti-dumping nos termos dos artigos 1.º e 2.º do [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), fazendo acompanhar os seus requerimentos das justificações e elementos de prova em que baseiam as suas alegações, indicando nomeadamente:
 
 a) A designação das mercadorias objecto de dumping e respectiva classificação pautal;
 
@@ -172,17 +194,17 @@ d) Os elementos de prova relativos ao dumping assim como aos prejuízos resultan
 
 3. Se, após esta apreciação preliminar, se chegar à conclusão de que os elementos de prova apresentados pelos requerentes são insuficientes, a Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores pode dicidir não iniciar a investigação da prática de dumping, notificando da decisão os requerentes, aos quais será dada a oportunidade de apresentarem novos elementos de prova.
 
-###### Art. 9.º Os serviços dos Ministérios das Finanças, do Comércio e Turismo e da Indústria e Tecnologia podem tomar a iniciativa de propor à Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores uma investigação relativa à prática de dumping, independentemente de reclamação apresentada pelos produtores.
+Art. 9.º Os serviços dos Ministérios das Finanças, do Comércio e Turismo e da Indústria e Tecnologia podem tomar a iniciativa de propor à Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores uma investigação relativa à prática de dumping, independentemente de reclamação apresentada pelos produtores.
 
-###### Art. 10.º - 1. Nos casos previstos no artigo 3.º do [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), a Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores poderá investigar a prática de dumping a pedido do Governo do país interessado, formulado por intermédio do Ministério dos Negócios Estrangeiros.
+Art. 10.º - 1. Nos casos previstos no artigo 3.º do [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), a Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores poderá investigar a prática de dumping a pedido do Governo do país interessado, formulado por intermédio do Ministério dos Negócios Estrangeiros.
 
 2. O pedido referido no número anterior deve ser acompanhado dos elementos de prova susceptíveis de demonstrar a existência do dumping e dos prejuízos que resultem ou possam vir a resultar para a produção desse país.
 
-###### Art. 11.º - 1. Os exportadores nacionais que se considerem gravemente prejudicados, ou ameaçados de vir a sê-lo, pela prática de dumping, em relação a mercadorias importadas noutro país com o qual o Governo Português tenha acordado na aplicação de direitos anti-dumping numa base de reciprocidade, podem requerer à Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores o estudo da necessidade de solicitar ao Governo desse país a instituição de direitos anti-dumping sobre as ditas mercadorias, pedido que será formulado por intermédio do Ministério dos Negócios Estrangeiros.
+Art. 11.º - 1. Os exportadores nacionais que se considerem gravemente prejudicados, ou ameaçados de vir a sê-lo, pela prática de dumping, em relação a mercadorias importadas noutro país com o qual o Governo Português tenha acordado na aplicação de direitos anti-dumping numa base de reciprocidade, podem requerer à Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores o estudo da necessidade de solicitar ao Governo desse país a instituição de direitos anti-dumping sobre as ditas mercadorias, pedido que será formulado por intermédio do Ministério dos Negócios Estrangeiros.
 
 2. O pedido referido no número anterior deve ser acompanhado dos elementos de prova susceptíveis de demonstrar a existência de dumping e dos prejuízos que resultem ou possam vir a resultar para a produção nacional.
 
-###### Art. 12.º - 1. Uma vez iniciada a investigação relativa à prática de dumping com base em elementos considerados suficientes, será dado conhecimento da mesma aos interessados conhecidos, designadamente aos exportadores e aos representantes dos Governos dos respectivos países, aos importadores das mercadorias suspeitas da prática de dumping e aos produtores estabelecidos em território nacional. Na mesma ocasião será publicado um aviso no Diário da República indicando o produto em causa e o país de origem ou de exportação, referindo, ao mesmo tempo, que informações pertinentes podem ser comunicadas à Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores.
+Art. 12.º - 1. Uma vez iniciada a investigação relativa à prática de dumping com base em elementos considerados suficientes, será dado conhecimento da mesma aos interessados conhecidos, designadamente aos exportadores e aos representantes dos Governos dos respectivos países, aos importadores das mercadorias suspeitas da prática de dumping e aos produtores estabelecidos em território nacional. Na mesma ocasião será publicado um aviso no Diário da República indicando o produto em causa e o país de origem ou de exportação, referindo, ao mesmo tempo, que informações pertinentes podem ser comunicadas à Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores.
 
 2. Aos interessados mencionados no número anterior será concedido um prazo nunca inferior a quinze dias para apresentarem as informações e os elementos de prova que julguem úteis para a investigação.
 
@@ -190,19 +212,19 @@ d) Os elementos de prova relativos ao dumping assim como aos prejuízos resultan
 
 4. Sempre que o tratamento confidencial requerido para uma informação ou para um elemento de prova não se mostre justificado, ou a sua divulgação não seja autorizada pelos interessados, podem os mesmos deixar de ser tidos em consideração durante a investigação, salvo se for possível demonstrar de forma satisfatória a sua exactidão.
 
-###### Art. 13.º - 1. A investigação iniciada nos termos do artigo anterior será dada por terminada se se chegar à conclusão de que não se verifica a prática de dumping ou de que os elementos de prova apresentados são insuficientes para demonstrar o dumping ou os prejuízos, notificando-se desta decisão os interessados mencionados no n.º 1 do mesmo artigo.
+Art. 13.º - 1. A investigação iniciada nos termos do artigo anterior será dada por terminada se se chegar à conclusão de que não se verifica a prática de dumping ou de que os elementos de prova apresentados são insuficientes para demonstrar o dumping ou os prejuízos, notificando-se desta decisão os interessados mencionados no n.º 1 do mesmo artigo.
 
 2. A decisão a que se refere o número anterior será tomada por despacho do Ministro das Finanças, sob proposta da Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores.
 
 3. A investigação pode igualmente ser dada por terminada sempre que os exportadores das mercadorias suspeitas da prática de dumping se comprometam voluntariamente a rever os seus preços, de forma a eliminar a diferença correspondente à margem de dumping, ou a não exportar as ditas mercadorias a preços de dumping e desde que se considere esta solução viável sob o ponto de vista prático.
 
-###### Art. 14.º - 1. Sempre que, em virtude da investigação efectuada nos termos dos artigos anteriores, fique demonstrada a prática de dumping e que dela resultam ou podem vir a resultar prejuízos importantes para produções estabelecidas em território nacional, ou atraso considerável na instalação de uma produção em território nacional, a Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores proporá ao Ministro das Finanças a publicação de um decreto, nos termos dos artigos 1.º e 2.º do [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), a instituir direitos anti-dumping sobre as importações das mercadorias em causa.
+Art. 14.º - 1. Sempre que, em virtude da investigação efectuada nos termos dos artigos anteriores, fique demonstrada a prática de dumping e que dela resultam ou podem vir a resultar prejuízos importantes para produções estabelecidas em território nacional, ou atraso considerável na instalação de uma produção em território nacional, a Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores proporá ao Ministro das Finanças a publicação de um decreto, nos termos dos artigos 1.º e 2.º do [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), a instituir direitos anti-dumping sobre as importações das mercadorias em causa.
 
 2. Nos casos previstos no artigo 10.º, a Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores proporá ao Ministro das Finanças a publicação de um decreto instituindo direitos anti-dumping, sempre que se considerem fundamentadas as alegações do Governo do país interessado sobre a prática de dumping e se considere provado que do dumping resultam ou podem vir a resultar prejuízos importantes para a produção do país em causa.
 
 3. As propostas submetidas nos termos do presente artigo devem ser acompanhadas de uma exposição dos resultados da investigação conduzida nos termos dos artigos anteriores e das informações necessárias para fixar as condições em que os direitos anti-dumping serão exigíveis, conforme o disposto no artigo seguinte.
 
-###### Art. 15.º - 1. O decreto pelo qual se criem direitos anti-dumping deve fixar as condições em que esses direitos serão exigíveis, indicando nomeadamente:
+Art. 15.º - 1. O decreto pelo qual se criem direitos anti-dumping deve fixar as condições em que esses direitos serão exigíveis, indicando nomeadamente:
 
 a) A natureza das mercadorias a que os direitos são aplicáveis e a respectiva classificação pautal, mencionando, quando for caso disso, a designação comercial, o país de origem ou proveniência e os nomes dos produtores ou exportadores;
 
@@ -214,7 +236,7 @@ c) O período, contínuo ou não e com ou sem limite de duração, durante o qua
 
 3. No decreto em que se estabeleça a criação de direitos anti-dumping sobre a importação de uma mercadoria originária ou proveniente de um país determinado fixar-se-ão também as condições em que a referida mercadoria será considerada originária ou proveniente do país em questão e quais os meios de prova admitidos para mostrar a origem ou a proveniência.
 
-###### Art. 16.º - Quando estejam em causa importações de mercadorias idênticas ou similares de vários fornecedores de um ou mais países, o cálculo dos direitos anti-dumping poderá ser efectuado, em relação a cada importação, mediante o confronto do preço de exportação com um preço de base, previamente fixado.
+Art. 16.º - Quando estejam em causa importações de mercadorias idênticas ou similares de vários fornecedores de um ou mais países, o cálculo dos direitos anti-dumping poderá ser efectuado, em relação a cada importação, mediante o confronto do preço de exportação com um preço de base, previamente fixado.
 
 2. O preço de base será fixado no decreto que instituir os direitos anti-dumping e não excederá o mais baixo valor normal comparável que for possível apurar no ou nos países de origem ou proveniência das mercadorias.
 
@@ -226,7 +248,7 @@ c) O período, contínuo ou não e com ou sem limite de duração, durante o qua
 
 6. Se após a investigação a que se refere o número anterior, a cargo da Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores, se concluir pela inexistência do dumping, os direitos cobrados serão restituídos; se se concluir que o montante dos direitos cobrados excede a margem de dumping que vier a ser apurada, será restituído o excesso.
 
-###### Art. 17.º - 1. Para efeitos de aplicação do disposto no artigo 9.º do [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), a Comissão Permanente para a Aplicação de Direitos Anti-Dumping e Compensadores poderá propor ao Ministro das Finanças, a pedido dos interessados referidos nos artigos 8.º e 9.º, a publicação de uma portaria estabelecendo a aplicação de uma caução, sempre que das averiguações preliminares efectuadas se concluir que há fortes razões para supor a existência de dumping e de prejuízos importantes para as produções instaladas em território nacional.
+Art. 17.º - 1. Para efeitos de aplicação do disposto no artigo 9.º do [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), a Comissão Permanente para a Aplicação de Direitos Anti-Dumping e Compensadores poderá propor ao Ministro das Finanças, a pedido dos interessados referidos nos artigos 8.º e 9.º, a publicação de uma portaria estabelecendo a aplicação de uma caução, sempre que das averiguações preliminares efectuadas se concluir que há fortes razões para supor a existência de dumping e de prejuízos importantes para as produções instaladas em território nacional.
 
 2. As propostas submetidas nos termos do presente artigo devem ser acompanhadas de uma exposição dos resultados das averiguações preliminares a que se procedeu e das informações necessárias para fixar as condições em que a caução será exigível, conforme o disposto no número seguinte.
 
@@ -238,7 +260,7 @@ b) O montante unitário da caução, fixado segundo um critério específico ou 
 
 c) O período durante o qual a caução pode ser retida, que não deverá ultrapassar três meses, podendo, no entanto, ir até seis meses, se o importador e o exportador assim o requererem.
 
-###### Art. 18.º - 1. Os diplomas que estabeleçam direitos anti-dumping ou determinem a prestação de caução não podem ter efeito retroactivo, aplicando-se somente em relação a mercadorias entradas no consumo a partir da data da respectiva entrada em vigor.
+Art. 18.º - 1. Os diplomas que estabeleçam direitos anti-dumping ou determinem a prestação de caução não podem ter efeito retroactivo, aplicando-se somente em relação a mercadorias entradas no consumo a partir da data da respectiva entrada em vigor.
 
 2. No entanto, quando se concluir pela existência de um prejuízo importante, os direitos anti-dumping podem ser aplicados retroactivamente por período não superior a três meses.
 
@@ -248,7 +270,7 @@ c) O período durante o qual a caução pode ser retida, que não deverá ultrap
 
 5. Igualmente nos casos em que o importador sabia, deveria saber, que o exportador praticava o dumping e que tal facto provocaria um prejuízo importante, os direitos anti-dumping podem ser aplicados retroactivamente em relação a mercadorias que entraram no consumo nos três meses, no máximo, anteriores à aplicação dessas medidas.
 
-###### Art. 19.º - 1. A recolha e análise das informações e elementos de prova relativos ao dumping, a efectuar nos termos do presente decreto pela Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores, competirá especialmente ao representante do Ministério do Comércio e Turismo.
+Art. 19.º - 1. A recolha e análise das informações e elementos de prova relativos ao dumping, a efectuar nos termos do presente decreto pela Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores, competirá especialmente ao representante do Ministério do Comércio e Turismo.
 
 2. O representante do Ministério do Comércio e Turismo elaborará relatório circunstanciado e formulará as respectivas conclusões para, com o processo respectivo, serem presentes à apreciação da Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores.
 
@@ -260,14 +282,14 @@ c) O período durante o qual a caução pode ser retida, que não deverá ultrap
 
 6. O representante do Ministério do Comércio e Turismo encarregado da recolha e análise das informações e elementos de prova relativos ao dumping poderá estabelecer contacto com todas as entidades oficiais ou particulares, de quem precise receber informações ou elementos de prova, salvo nos casos previstos no [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323) e no presente diploma.
 
-###### Art. 20.º A instituição dos direitos compensadores regular-se-á, na parte aplicável, pelas disposições dos artigos 6.º a 19.º
+Art. 20.º A instituição dos direitos compensadores regular-se-á, na parte aplicável, pelas disposições dos artigos 6.º a 19.º
 
-###### Art. 21.º É revogado o [Decreto n.º 46828](https://diariodarepublica.pt/dr/detalhe/decreto/46828-1966-233322), de 5 de Janeiro de 1966.
+Art. 21.º É revogado o [Decreto n.º 46828](https://diariodarepublica.pt/dr/detalhe/decreto/46828-1966-233322), de 5 de Janeiro de 1966.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Alfredo Jorge Nobre da Costa - Carlos Alberto da Mota Pinto.
 
-**Promulgado em 2 de Junho de 1977.**
+Promulgado em 2 de Junho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

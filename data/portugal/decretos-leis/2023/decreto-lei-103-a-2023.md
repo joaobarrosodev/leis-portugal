@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 217/2023, 1º Suplemento, Série I de 2023-11-09
   number: '217'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 20-(2) a 20-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/21701/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/103-a/2023/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-a-2023-224081984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b49d6de5b85707e07992a747d27f27d004bcfad02344a2b8e4688e8ad5fe5dab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76c3f18a7a1e48e1ce3941815d67f0e42137592a4c3f9d1b7329a27271abf92d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Instituto Camões-Centro Cultural Português
+- Ministério dos Negócios Estrangeiros
 - Pessoal Consular
 - Pessoal Diplomático
 - Regime de Pessoal
 - Regime Jurídico
 - Remuneração
-- Ministério dos Negócios Estrangeiros
 - Serviços Periféricos
 relationships:
 - type: cites
@@ -115,16 +115,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/291-a/
   label: null
   source: http://data.dre.pt/eli/port/291-a/
+- type: cites
+  target: pt:dre:115553662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122419058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134210075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178660785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204502335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74843538:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:32Z'
   warnings: []
   errors: []
 ---
@@ -195,7 +243,9 @@ b) Subsídio de viagem correspondente ao reembolso das despesas efetuadas com as
 
 6 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -203,7 +253,9 @@ b) Subsídio de viagem correspondente ao reembolso das despesas efetuadas com as
 
 3 - (Revogado.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -233,25 +285,33 @@ Os artigos 12.º, 14.º, 21.º, 24.º e 42.º do [Decreto-Lei n.º 47/2013](http
 
 7 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Aos trabalhadores dos SPE do MNE é aplicável o regime e os montantes de ajudas de custo por deslocação no estrangeiro previstos para os demais trabalhadores em funções públicas, nos termos a regulamentar, por país, por despacho dos membros do Governo responsáveis pelas áreas da Administração Pública, dos negócios estrangeiros e das finanças.
 
 2 - Aos trabalhadores das carreiras gerais de técnico superior e de assistente técnico dos SPE do MNE, que manuseiem ou tenham à sua guarda nas áreas de tesouraria ou cobrança, valores, numerário, títulos ou documentos, sendo por eles responsáveis, é devido abono para falhas, nos termos da lei, nos montantes a fixar, por país, por portaria dos membros do Governo responsáveis pelas áreas da Administração Pública, dos negócios estrangeiros e das finanças.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - O subsídio de refeição é atribuído aos trabalhadores dos SPE do MNE, de acordo com as condições estabelecidas para a generalidade dos trabalhadores em funções públicas, sendo fixado o respetivo montante, por país, nos termos a regulamentar por portaria dos membros do Governo responsáveis pelas áreas da Administração Pública, dos negócios estrangeiros e das finanças.
 
 2 - A atualização do subsídio de refeição efetua-se nos termos do artigo 12.º, com as necessárias adaptações.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - As tabelas remuneratórias dos trabalhadores das residências oficiais do Estado são fixadas por portaria dos membros do Governo responsáveis pelas áreas da Administração Pública, dos negócios estrangeiros e das finanças, a qual deve estabelecer os respetivos critérios, por país, e cujos valores são objeto de atualização, nos termos do artigo 12.º, com as necessárias adaptações.
 
 2 - [...]
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - Os chanceleres auferem a remuneração base mensal, bem como outros componentes que lhes sejam devidos pelo exercício do cargo, sendo fixados por portaria dos membros do Governo responsáveis pelas áreas da Administração Pública, dos negócios estrangeiros e das finanças, a qual deve estabelecer os respetivos critérios, por país, e cujos valores são objeto de atualização, nos termos do artigo 12.º, com as necessárias adaptações.
 
@@ -311,12 +371,14 @@ e) A [Portaria n.º 291-A/2022](https://diariodarepublica.pt/dr/detalhe/portaria
 
 Visto e aprovado em Conselho de Ministros de 26 de outubro de 2023. - Mariana Guimarães Vieira da Silva - Mariana Guimarães Vieira da Silva - João Titterington Gomes Cravinho - Fernando Medina Maciel Almeida Correia - Gabriel Gameiro Rodrigues Bastos.
 
-**Promulgado em 7 de novembro de 2023.**
+Promulgado em 7 de novembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de novembro de 2023.**
+Referendado em 9 de novembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+117046826

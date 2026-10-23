@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/278/2007/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-2007-636389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56bc652ad8de347c0f6616155bad121ec3b274fc926f92f62999778a8f467952
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16f3dba3a9529cb1ebb34e4fe95467fb2293303841a631908acdf434c3032112
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscalização
-- Licenciamento
-- Licença Especial
-- Proteção do Ambiente
 - Câmara Municipal
+- Fiscalização
+- Licença Especial
+- Licenciamento
 - Poluição Sonora
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:2521316:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:9/2007
+  label: "Altera o artigo 4.º do Decreto-Lei n.º 9/2007, de 17 de Janeiro, DR. IS [12], e o artigo 15.º do Regulamento Geral\
+    \ do Ruído, anexo ao citado diploma\0\0"
+  source: null
+  date: '2007-01-17'
 - type: cites
   target: celex:32002L0049
   label: null
@@ -85,15 +91,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/9/2007/01/17/p/dre
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:16Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +134,9 @@ Os artigos 4.º do Decreto-Lei n.º 9/2007, de 17 de Janeiro, e 15.º do Regulam
 
 Os municípios que dispõem de mapas de ruído à data de publicação do presente decreto-lei devem proceder à sua adaptação, para efeitos do disposto no artigo 7.º do Regulamento Geral do Ruído, até 31 de Dezembro de 2007.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O exercício de actividades ruidosas temporárias previsto no artigo anterior pode ser autorizado, em casos excepcionais e devidamente justificados, mediante emissão de licença especial de ruído pelo respectivo município, que fixa as condições de exercício da actividade relativas aos aspectos referidos no número seguinte.
 
@@ -150,12 +158,12 @@ Os municípios que dispõem de mapas de ruído à data de publicação do presen
 
 Visto e aprovado em Conselho de Ministros de 6 de Junho de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Rui Carlos Pereira - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Mário Lino Soares Correia.
 
-**Promulgado em 16 de Julho de 2007.**
+Promulgado em 16 de Julho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de Julho de 2007.**
+Referendado em 17 de Julho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

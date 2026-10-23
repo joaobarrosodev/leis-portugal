@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/10/25000/19891992.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/738-1973-412594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T04:13:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06d121f379dc2333409b3ebd1fc60b0ea377db8680544700dd4421a6b2d0f8a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 336eebd26dbf5fc99da1baaefe51cda600cfd81148c8b5e2f7958817e14658a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:13:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,25 @@ relationships:
   target: pt:dre:336484:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:400002:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:336484:por
+  label: Revogada pelo(a) Portaria n.º 460/75 - Diário do Governo n.º 170/1975, Série I de 1975-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/460-1975-336484
+  date: '1975-07-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:13:48Z'
   warnings: []
   errors: []
 ---
@@ -272,4 +281,4 @@ As dúvidas que surjam na aplicação da presente portaria, inclusive as que res
 
 A selecção da documentação, tendo em vista expurgar os processos de documentos sem interesse administrativo que serão inutilizados, será feita por técnicos auxiliares de documentação da Secretaria-Geral ou dos serviços respectivos, mas sob a orientação da Divisão de Documentação da Secretaria-Geral.
 
-**O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**
+O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

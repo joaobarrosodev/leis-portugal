@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/10/24900/14361437.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24385-1969-216146
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87f29a34e2d9ce30d279533853303dc6ca038e2fb1948750e4747ff353333d37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27a3d0be18754f618bb05272709a3b942e1683b48839991c82de9fca50ea3b0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Estatuto dos Sargentos e Praças da Armada
+- Marinha
+- Militar
+- Promoção Profissional
+- Sargento
 relationships:
 - type: amended_by
   target: pt:dre:397102:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:193429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199594:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:397102:por
+  label: "Revogada pela PORT.219/72.1972.04.21.MMAR DG.IS [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/219-1972-397102
+  date: '1972-04-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:17Z'
   warnings: []
   errors: []
 ---
@@ -111,6 +130,6 @@ QUADRO N.º 2
 
 Condições especiais de promoção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/10/24900/14361437.pdf))](https://files.diariodarepublica.pt/1s/1969/10/24900/14361437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/10/24900/14361437.pdf)
 
 Ministério da Marinha, 23 de Outubro de 1969. - O Ministro da Marinha, Manuel Pereira Crespo.

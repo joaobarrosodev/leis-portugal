@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/08/19300/11181118.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/481-1972-676657
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f43cb0e313153dd146a7697994fa9b0bd05de8598f949f801ea3c6ab704f2b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 086a0aa6623631da502bf357455da398a0123deac5b64d32ace237c88ed08545
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,29 @@ relationships:
   target: pt:dre:329472:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:398094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631384:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:329472:por
+  label: Revogada pelo(a) Portaria n.º 568/78 - Diário da República n.º 216/1978, Série I de 1978-09-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/568-1978-329472
+  date: '1978-09-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:28Z'
   warnings: []
   errors: []
 ---
@@ -111,6 +124,6 @@ c) Não tendo este estabelecimento, a sua residência.
 
 Ministérios das Finanças e das Comunicações, 12 de Junho de 1972. O Secretário de Estado do Orçamento, Augusto Victor Coelho. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/08/19300/11181118.pdf))](https://files.diariodarepublica.pt/1s/1972/08/19300/11181118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/19300/11181118.pdf)
 
 Ministérios das Finanças e das Comunicações, 12 de Junho de l972. - O Secretário de Estado do Orçamento, Augusto Victor Coelho. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

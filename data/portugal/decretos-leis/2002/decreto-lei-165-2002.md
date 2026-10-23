@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/07/163a00/53645370.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/165/2002/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2002-205669
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cacdc6aede5ce4cc0e3989d1971aabb14767268543847d4723bd154d49766bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb3070364cd73663c9d9c576444191259c779b6bba2497716104c5b17fdcec1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,22 +70,27 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Centro Nacional de Protecção contra os Riscos Profissionais
-- Radiactividade
-- Radioprotecção
-- Comissão Nacional para as Emergências Radiológicas
-- Higiene do Trabalho
-- Definição de Competências
 - Comissão Nacional de Protecção contra Radiações
-- Saúde Pública
-- Segurança no Trabalho
+- Comissão Nacional para as Emergências Radiológicas
+- Definição de Competências
+- Higiene do Trabalho
 - Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
 - Instituto do Ambiente
 - Instituto Tecnológico e Nuclear
+- Radiactividade
+- Radioprotecção
+- Saúde Pública
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:204379871:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:439380:por
+  label: "Aditado o art. 11º-A pelo DEC LEI.215/2008.10.11.2008.MS, DR.IS [218] de 10.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2008-439380
+  date: '2008-11-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/138/1996/08/14/p/dre
   label: null
@@ -102,6 +107,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/3/1992/03/06/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/3/1992/03/06/p/dre
+- type: cites
+  target: pt:dre:168204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548836:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:543735:por
+  label: "Revogada, a partir de 14.02.2012., a al. a) do art. 13º, pelo DEC LEI.30/2012.09.02.2012.MECI, DR.IS [29] de 09.02.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-2012-543735
+  date: '2012-02-09'
+- type: repealed_by
+  target: pt:dre:504774:por
+  label: "Revogadas, a partir de 05.12.2013, as als. c) e i) do art. 14.º pelo DEC LEI.156/2013.05.11.2013.MECI, DR.IS [214]\
+    \ de 05.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-2013-504774
+  date: '2013-11-05'
+- type: repealed_by
+  target: pt:dre:117202785:por
+  label: Revogado, a partir de 02.04.2019, o presente diploma, alterado pelo Dec Lei 215/2008 de 10-nov, pelo Dec Lei 30/2012
+    de 09-fev e pelo Dec Lei 156/2013 de 05-nov, pelo(a) Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série
+    I de 2018-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
 - type: transposes
   target: celex:31996L0029
   label: null
@@ -109,13 +157,13 @@ relationships:
 article_structure:
   article_count: 26
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:04Z'
   warnings: []
   errors: []
 ---
@@ -510,12 +558,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Maio de 2002. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Carlos Manuel Tavares da Silva - Pedro Lynce de Faria - Luís Filipe Pereira - António José de Castro Bagão Félix - Isaltino Afonso de Morais.
 
-**Promulgado em 26 de Junho de 2002.**
+Promulgado em 26 de Junho de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Julho de 2002.**
+Referendado em 4 de Julho de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

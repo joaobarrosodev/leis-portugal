@@ -48,36 +48,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/332-1980-462615
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T07:04:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad5839e8f710bed4f8b6f1ae547fd2d93d306480046b829d3b5a0e81fa3c7802
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35d1a8d1c1a45ed310a6714c5961318b617ac2741c04571b67f222bdad8e474b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:04:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Guarda Fiscal
+- Promoção Profissional
+- Tempo de Serviço
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO PELO DESPACHO NORMATIVO, NUMERO 293/81, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 238, DE 16/10/81.\0\
+    10/81.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: cites
+  target: pt:dre:327822:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:04:16Z'
   warnings: []
   errors: []
 ---
@@ -104,12 +116,12 @@ Ministério das Finanças e do Plano, 24 de Setembro de 1980. - O Ministro das F
 
 Especialidades e aptidões da Guarda Fiscal equivalentes ao serviço prestado em postos fiscais para efeitos do disposto nas alíneas b) dos artigos 13.º e 14.º do [Decreto-Lei n.º 313/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1978-327822), de 27 de Outubro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/24000/34213422.pdf))](https://files.diariodarepublica.pt/1s/1980/10/24000/34213422.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/24000/34213422.pdf)
 
 ## ANEXO 2
 
 Especialidades e aptidões da Guarda Fiscal que, desempenhadas durante dezoito meses, equivalem ao serviço prestado em postos fiscais durante doze meses:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/24000/34213422.pdf))](https://files.diariodarepublica.pt/1s/1980/10/24000/34213422.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/24000/34213422.pdf)
 
-**O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.**
+O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.

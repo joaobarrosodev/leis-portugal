@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/07/12500/0284802851.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/53/2018/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2018-115620691
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50162710dcd20ad5205ff8d97665523ddd9d365d47e49f6798ea0515467dcc88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4fd5c236631c47973d12a3386ff6804e90ee89b26c756c589fa7860357deeb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
-- Protecção da Maternidade
-- Instituto de Solidariedade e Segurança Social
-- Contribuições da Segurança Social
-- Regulamentação de Atos Legislativos
 - Centro Distrital de Solidariedade e Segurança Social
+- Contribuições da Segurança Social
+- Desemprego
+- Doença
+- Incapacidade Temporária
+- Instituto de Solidariedade e Segurança Social
+- Parentalidade
 - Prazo de Garantia
 - Prestações da Segurança Social
 - Prestações de Desemprego
-- Desemprego
-- Parentalidade
-- Protecção na Doença
 - Proteção no Desemprego
 - Proteção Social
+- Protecção da Maternidade
+- Protecção na Doença
 - Regime Geral da Segurança Social
 - Regime Jurídico
-- Doença
-- Incapacidade Temporária
+- Regulamentação de Atos Legislativos
 - Segurança Social
 - Subsídio
 - Subsídio de Desemprego
 - Subsídio de Doença
+- SUBSÍDIO POR CESSAÇÃO DE ATIVIDADE
 - Subsídio por Licença Parental
 - Trabalhador Independente
-- SUBSÍDIO POR CESSAÇÃO DE ATIVIDADE
 relationships:
 - type: amended_by
   target: pt:dre:125417313:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:125417313:por
+  label: Alterado, a partir de 01.11.2019, o art. 22.º do Dec Lei 220/2006 de 03-nov, na versão republicada pelo Dec Lei 72/2010
+    de 18-jun e na redação do presente diploma, pelo(a) Decreto-Lei n.º 153/2019 - Diário da República n.º 200/2019, Série
+    I de 2019-10-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/153-2019-125417313
+  date: '2019-10-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/12/2013/01/25/p/dre
   label: null
@@ -135,16 +142,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/2010/05/
   label: null
   source: http://data.dre.pt/eli/lei/5/2010/05/
+- type: cites
+  target: pt:dre:107114288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70152047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75194223:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:43Z'
   warnings: []
   errors: []
 ---
@@ -209,13 +304,17 @@ Os artigos 21.º, 34.º, 36.º e 40.º do [Decreto-Lei n.º 28/2004](https://dia
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...].
 
 2 - Nas situações em que o certificado de incapacidade temporária não seja recebido nas instituições gestoras no prazo referido no número anterior, aplica-se o disposto no n.º 5 do artigo 21.º, salvo justificação atendível devidamente fundamentada.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...].
 
@@ -225,7 +324,9 @@ Os artigos 21.º, 34.º, 36.º e 40.º do [Decreto-Lei n.º 28/2004](https://dia
 
 4 - No âmbito do regime dos trabalhadores independentes, são verificadas as situações de incapacidade temporária que se prolonguem por mais de 20 dias.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - O pagamento das prestações aos trabalhadores independentes e aos beneficiários do regime de inscrição facultativa depende de se encontrar regularizada a respetiva situação contributiva nas condições previstas nos artigos 217.º e 219.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado pela [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), de 16 de setembro, na sua redação atual.
 
@@ -251,7 +352,9 @@ Os artigos 22.º e 80.º do [Decreto-Lei n.º 220/2006](https://diariodarepublic
 
 3 - Para efeitos do disposto nos números anteriores, quando necessário, podem ser considerados os períodos de registo de remunerações por exercício de atividade profissional independente, sem prejuízo do disposto no artigo seguinte.
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - [...].
 
@@ -291,7 +394,9 @@ Os artigos 3.º, 4.º, 6.º, 8.º e 10.º do [Decreto-Lei n.º 65/2012](https://
 
 2 - Consideram-se economicamente dependentes os trabalhadores independentes que reúnam os requisitos previstos no artigo 140.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social (CRC), aprovado pela [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), de 16 de setembro, na sua redação atual.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -299,7 +404,9 @@ Os artigos 3.º, 4.º, 6.º, 8.º e 10.º do [Decreto-Lei n.º 65/2012](https://
 
 3 - O subsídio parcial por cessação de atividade é atribuído nas situações em que o trabalhador independente, após cessar o contrato de prestação de serviços com a entidade contratante, mantenha uma atividade profissional cujo rendimento seja inferior ao montante do subsídio por cessação de atividade.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]:
 
@@ -315,13 +422,17 @@ e) [...].
 
 2 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O prazo de garantia para atribuição dos subsídios por cessação de atividade é de 360 dias de exercício de atividade independente economicamente dependente, com o correspondente pagamento efetivo de contribuições, num período de 24 meses imediatamente anterior à data da cessação involuntária do contrato de prestação de serviços.
 
 2 - Para efeitos do disposto no número anterior, quando necessário, podem ainda ser considerados os períodos de registo de remunerações no âmbito do regime geral dos trabalhadores por conta de outrem e do regime dos trabalhadores independentes.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O montante diário do subsídio por cessação de atividade é calculado na base de 30 dias por mês, de acordo com a seguinte fórmula:
 
@@ -355,7 +466,9 @@ b) [...].
 
 5 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -379,12 +492,14 @@ O presente decreto-lei entra em vigor no dia 1 de julho de 2018, sem prejuízo d
 
 Visto e aprovado em Conselho de Ministros de 24 de maio de 2018. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - José António Fonseca Vieira da Silva.
 
-**Promulgado em 15 de junho de 2018.**
+Promulgado em 15 de junho de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de junho de 2018.**
+Referendado em 21 de junho de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111463041

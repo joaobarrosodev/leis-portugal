@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/100/1999/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/100-1999-165385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:28:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca67c43478ae1e994faa707725b1ec866a155d95721bb4382114f6ff93af1da4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7005dde646e6d2e04ac3f44701fa84ed18704647e6a2041bf42f8b959beb3912
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:28:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cuba
 - Embaixador
 - Havana
 - Nomeação
-- Cuba
 relationships:
 - type: amended_by
   target: pt:dre:240803:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:240803:por
+  label: "Exonerado o ministro plenipotenciário de 1.ª classe Alfredo Manuel Silva Duarte Costa do cargo de embaixador de\
+    \ Portugal em Havana nomeado pelo presente diploma, pelo DEC.2/2004.06.01.2004.PR, DR.IS-A [4] de 06.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/2-2004-240803
+  date: '2004-01-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:28:57Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +99,16 @@ validation:
 
 de 25 de Fevereiro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o ministro plenipotenciário de 2.ª classe Alfredo Manuel Silva Duarte Costa para o cargo de embaixador de Portugal em Havana.
 
-**Assinado em 28 de Janeiro de 1999.**
+Assinado em 28 de Janeiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Fevereiro de 1999.**
+Referendado em 1 de Fevereiro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.

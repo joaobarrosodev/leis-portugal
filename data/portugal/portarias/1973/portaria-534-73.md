@@ -46,40 +46,103 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/534-1973-419025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T04:09:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83c67f1473fc8f4a04cbf0fe5001fa6891c5a76852ba1b692ef5ae6eee600c3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad31f326c749bdd88b36f81e3ce3e76645613532209c9ea7743695afbbee9998
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:09:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Águeda
+- Albergaria-a-velha
+- Alijó
+- Anadia
+- Arcos de Valdevez
+- Arraiolos
+- Aveiro
+- Caminha
+- Castelo Branco
+- Cinfães
+- Criação de Serviços
+- Estabelecimento Prisional
+- Estarreja
+- Estremoz
+- Évora
+- Extinção de Serviços
+- Faro
+- Fundão
+- Idanha-a-nova
+- Lamego
+- Melgaço
+- Moimenta da Beira
+- Montalegre
+- Montemor-o-Novo
+- Ovar
+- Paredes de Coura
+- PESO da Régua
+- Ponte de LIMA
+- Redondo
+- Reguengos de Monsaraz
+- Resende
+- Sertã
+- Tabuaço
+- Vagos
+- Valença
+- Valpaços
+- Viana do Castelo
+- VILA Pouca de Aguiar
+- Vila Real
+- Vila Viçosa
 relationships:
 - type: amended_by
   target: pt:dre:248221:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:683050:por
+  label: "Anuladas as zonas de protecção e ónus da cadeia da Comarca de Anadia pela PORT.469/2003.2003.06.06.MOPTH, DR.IS\
+    \ [131]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/469-2003-683050
+  date: '2003-06-06'
+- type: amended_by
+  target: pt:dre:660116:por
+  label: "Anuladas as zonas de protecção e ónus das cadeias de várias comarcas extintas pelo presente diploma, pela PORT.832/2003.2003.08.13.MOPTH\
+    \ DR.IS-B [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/832-2003-660116
+  date: '2003-08-13'
+- type: amended_by
+  target: pt:dre:248221:por
+  label: "Extinto, a partir de 05.02.2008, o Estabelecimento Prisional Regional de Castelo Branco e alterada a denominação\
+    \ do Estabelecimento Prisional Regional de Évora, criados pelo presente diploma, e revogado parcialmente no que diz respeito\
+    \ aos estabelecimentos prisionais referidos, pelo DEC LEI.21/2008.31.01.2008.MJ, DR.IS [22] de 31.01.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2008-248221
+  date: '2008-01-31'
+- type: cites
+  target: pt:dre:200410:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:09:00Z'
   warnings: []
   errors: []
 ---

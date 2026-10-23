@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/972-1982-376213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T07:29:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73fa37e0bb5b91b43c50773766cbc18e402a9a38c8c04c73abdac29baed8b5b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d862996cdeb5b2f7382936dac551560ec985c47904cb4d7ce778e0bf7e8cedd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:29:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pessoal Civil
+- Polícia Judiciária Militar
+- Quadro de Pessoal
+- Serviço de Polícia Judiciária Militar
 relationships:
 - type: amended_by
   target: pt:dre:417224:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:417224:por
+  label: "Alterado o quadro de pessoal anexo pelo DR.49/87.31.07.1987.MDN, DR.IS [174] de 31.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/49-1987-417224
+  date: '1987-07-31'
+- type: cites
+  target: pt:dre:312069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568699:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:243550:por
+  label: Rectificada pela DECL.DD6012.26.10.1982.CR, DR.IS [251-3.º Supl] de 29.10.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-243550
+  date: '1982-10-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:29:28Z'
   warnings: []
   errors: []
 ---
@@ -103,4 +133,4 @@ Conselho da Revolução, 28 de Setembro de 1982. - O Chefe do Estado-Maior-Gener
 
 ## ANEXO — Quadro do pessoal civil do Serviço de Polícia Judiciária Militar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24000/34073408.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24000/34073408.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24000/34073408.pdf)

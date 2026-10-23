@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/15/2006/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-2006-545819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fbd42430975bf3651ddc6b9b5be692a874fb928fdadbf0cfea08e9b7afdb4df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb8b82c622f35f32f7a9f70f77c0c7cfc6f436fc767f0bfac2092227cea41546
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,12 @@ reuse:
 subjects:
 - Alcochete
 - Almada
+- Amadora
 - ÁREA Metropolitana
-- Prevenção de Incêndios
+- Autoridade Florestal Nacional
 - Barreiro
+- Cascais
 - Circunscrição Florestal
-- Ordenamento do Território
 - Direcção Geral dos Recursos Florestais
 - Lisboa
 - Lisboa e Vale do Tejo
@@ -79,24 +80,23 @@ subjects:
 - Moita
 - Montijo
 - Odivelas
+- Oeiras
+- Ordenamento do Território
 - Ordenamento Florestal
-- Plano de Gestão Florestal
 - Palmela
 - Parque Natural da Arrábida
-- Proteção do Ambiente
-- Setúbal
+- Plano de Gestão Florestal
 - Plano de Ordenamento da Orla Costeira
-- Política de Solos
-- PROT para a ÁREA Metropolitana de Lisboa
 - Plano Regional de Ordenamento Florestal
-- Autoridade Florestal Nacional
-- Regulamento
+- Política de Solos
 - Política Florestal
+- Prevenção de Incêndios
+- PROT para a ÁREA Metropolitana de Lisboa
+- Proteção do Ambiente
+- Regulamento
 - Seixal
 - Sesimbra
-- Amadora
-- Cascais
-- Oeiras
+- Setúbal
 - Sintra
 - ZONA de Intervenção Florestal
 relationships:
@@ -104,6 +104,18 @@ relationships:
   target: pt:dre:118051704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280498:por
+  label: "Suspensa, a partir de 07.02.2011 e pelo prazo de dois anos, a aplicação dos arts. 42º e 44º a 48º do regulamento\
+    \ anexo ao presente diploma, pela PORT.62/2011.02.02.2011.MADRP, DR.IS [23] de 02.02.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/62-2011-280498
+  date: '2011-02-02'
+- type: amended_by
+  target: pt:dre:258539:por
+  label: "Suspensa, com produção de efeitos a 07.02.2013 e pelo prazo máximo de dois anos, a aplicação dos art.s 42º e 44º\
+    \ a 48º do regulamento, pela PORT.78/2013.19.02.2013.MAMAOT, DR.IS [35] de 19.02.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/78-2013-258539
+  date: '2013-02-19'
 - type: cites
   target: eli:http://data.dre.pt/e
   label: null
@@ -144,16 +156,82 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/86/2003/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/86/2003/06/25/p/dre
+- type: cites
+  target: pt:dre:234725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692252:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:118051704:por
+  label: Revogado com a entrada em vigor das portarias previstas no n.º 1 do art. 11.º do Dec Lei 16/2009, de 14-jan pelo(a)
+    Decreto-Lei n.º 11/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2019-118051704
+  date: '2019-01-21'
 article_structure:
   article_count: 57
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:36Z'
   warnings: []
   errors: []
 ---
@@ -218,19 +296,19 @@ O PROF AML entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Agosto de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 21 de Setembro de 2006.**
+Promulgado em 21 de Setembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 25 de Setembro de 2006.**
+Referendado em 25 de Setembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO A — REGULAMENTO DO PLANO REGIONAL DE ORDENAMENTO FLORESTAL DA ÁREA METROPOLITANA DE LISBOA (PROF AML)
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais
 
@@ -418,7 +496,7 @@ ii) Modelo de organização territorial;
 
 iii) Normas e modelos de silvicultura.
 
-## TÍTULO II
+TÍTULO II
 
 Uso, ocupação e ordenamento florestal
 
@@ -768,7 +846,7 @@ iii) Normas de silvicultura por função de conservação.
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: amieiro-negro (Frangula alnus), azereiro (Prunus lusitanica), azevinho (Ilex aquifolium), carvalho-cerquinho (Quercus faginea), carvalho-negral (Quercus pyrenaica), carvalho americano (Q. rubra), cerejeira-brava (Prunus avium), freixo (Fraxinus angustifolia), loureiro (Laurus nobilis), medronheiro (Arbutus unedo), nogueira (Juglans regia), pinheiro-bravo (Pinus pinaster), platano-bastardo (Acer pseudoplatanus), sobreiro (Quercus suber), tramagueira (Tamarix africana).
 
@@ -798,7 +876,7 @@ iii) Normas de silvicultura por função de produção.
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: carvalho-negral (Quercus pyrenaica), castanheiro (Castanea sativa) cedro do Buçaco (Cupressus lusitanica), cerejeira-brava (Prunus avium), freixo (Fraxinus angustifolia), lodão-bastardo, (Celtis australis), medronheiro (Arbutus unedo), nogueira (Juglans regia), pinheiro-bravo (Pinus pinaster), pinheiro-de-alepo (P. halepensis), plátano-bastardo (Acer pseudoplatanus).
 
@@ -828,7 +906,7 @@ iii) Normas de silvicultura por função de conservação.
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: alfarrobeira (Ceratonia siliqua), amieiro (Alnus glutinosae), azinheira (Q. Ilex var. rotundifolia), carrasco (Q. Coccifera), cedro do Buçaco (Cupressus lusitanica), lodão bastardo (Celtis australis), medronheiro (Arbutus unedo), nogueira (Juglans regia), pinheiro-bravo (Pinus pinaster), pinheiro-de-alepo (P. halepensis), plátano-bastardo (Acer pseudoplatanus), salgueiro (Salix sp.), sobreiro (Quercus suber), tamargueira (Tamarix africana), zambujeiro (Olea europaea var. Sylvestris).
 
@@ -858,7 +936,7 @@ iii) Normas de silvicultura por função de produção.
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: amieiro (Alnus glutinosae), azinheira (Q. Ilex var. Rotundifolia), carrasco (Q. Coccifera), cedro do Buçaco (Cupressus lusitanica), cerejeira-brava (Prunus avium), lodão-bastardo (Celtis australis), freixo (Fraxinus angustifolia), medronheiro (Arbutus unedo), salgueiro (Salix sp.), tamargueira (Tamarix africana), zambujeiro (Olea europaea var. Sylvestris), zimbro (Juniperus turbinata).
 
@@ -888,7 +966,7 @@ iii) Normas de silvicultura por função de conservação.
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: amieiro (Alnus glutinosae), azinheira (Q. Ilex var. Rotundifolia), carrasco (Q. Coccifera), cedro do Buçaco (Cupressus lusitanica), cerejeira-brava (Prunus avium), lodão-bastardo (Celtis australis), medronheiro (Arbutus unedo), salgueiro (Salix sp.).
 
@@ -918,7 +996,7 @@ iii) Normas de silvicultura por função de conservação.
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: amieiro (Alnus glutinosae), salgueiro (Salix sp.), cerejeira-brava (Prunus avium), nogueira (Junglas regia), tamargueira (Tamarix africana).
 
@@ -948,7 +1026,7 @@ iii) Normas de silvicultura por função de recreio, enquadramento e estética d
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: amieiro (Alnus glutinosae), salgueiro (Salix sp.), tamargueira (Tamarix africana).
 
@@ -978,7 +1056,7 @@ iii) Normas de silvicultura por função de recreio, enquadramento e estética d
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: amieiro (Alnus glutinosae), salgueiro (Salix sp.), tamargueira (Tamarix africana).
 
@@ -1008,7 +1086,7 @@ iii) Normas de silvicultura por função de recreio, enquadramento e estética d
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: alfarrobeira (Ceratonia siliqua), carrasco (Quercus coccifera), freixo (Fraxinus angustifolia), lodão-bastardo (Celtis australis), medronheiro (Arbutus unedo), sobreiro (Quercus suber), zambujeiro (Olea europaea var. Sylvestris), zimbro (Juniperus turbinata).
 
@@ -1038,7 +1116,7 @@ iii) Normas de silvicultura por função de recreio, enquadramento e estética d
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: pinheiro-bravo (Pinus pinaster), tamargueira (Tamarix africana), zambujeiro (Olea europaea var. Sylvestris).
 
@@ -1068,7 +1146,7 @@ iii) Normas de silvicultura por função de recreio, enquadramento e estética d
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: amieiro (Alnus glutinosae), carvalho-negral (Quercus pyrenaica), carvalho americano (Quercus rubra), castanheiro (Castanea sativa), cedro do Buçaco (Cupressus lusitanica), freixo (Fraxinus angustifolia), lodão-bastardo (Celtis australis), medronheiro (Arbutus unedo), nogueira (Juglans regia), pinheiro-manso (Pinus pinea), plátano-bastardo (Acer pseudoplatanus), salgueiro (Salix sp.), sobreiro (Quercus suber), tamargueira (Tamarix africana), zambujeiro (Olea europaea var. Sylvestris).
 
@@ -1088,7 +1166,7 @@ iii) Normas de silvicultura por função de recreio, enquadramento e estética d
 
 1 - Estão sujeitas a plano de gestão florestal (PGF) as explorações florestais públicas e comunitárias, tal como definido no artigo 5.º da Lei de Bases da Política Florestal, de acordo com a hierarquia de prioridades para a sua elaboração, nomeadamente as identificadas na seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
 
 2 - Encontram-se igualmente sujeitas à elaboração obrigatória de Plano de Gestão Florestal todas as explorações florestais privadas com área igual ou superior a 25 ha, no caso de se encontrarem nos municípios de Mafra, Loures, Vila Franca de Xira, Sintra, Amadora, Odivelas, Lisboa, Cascais e Oeiras, e com área superior a 100 ha no caso de se localizarem nos municípios Almada, Seixal, Barreiro, Moita, Alcochete, Montijo, Palmela, Sesimbra e Setúbal.
 
@@ -1126,7 +1204,7 @@ d) Áreas percorridas por incêndios de grandes dimensões.
 
 4 - No PROF AML são propostas e identificadas como freguesias com espaços florestais prioritários para instalação de ZIF as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
 
 ### CAPÍTULO V — Medidas de intervenção
 
@@ -1148,33 +1226,33 @@ No relatório do PROF AML, estão consignadas medidas de intervenção comuns à
 
 1 - O PROF AML estabelece como metas, para 2025 e 2045, os seguintes valores de percentagem de espaços florestais em relação à superfície total da região PROF:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
 
 2 - O PROF AML define como metas, para 2025 e 2045, os seguintes valores de percentagem de espaços florestais arborizados em relação à superfície total da região PROF:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
 
 3 - O PROF AML estabelece como metas, para 2025 e 2045, os seguintes valores percentuais de composição de espaços florestais arborizados ao nível da região PROF:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
 
 4 - O PROF AML estabelece como metas, para 2025 e 2045, os seguintes valores percentuais de composição de espaços arborizados ao nível de cada sub-região homogénea:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
 
 5 - O PROF AML define como metas, para 2025 e 2045, as seguintes proporções, em termos percentuais, de povoamentos sujeitos a silvicultura intensiva:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
 
 6 - A percentagem de área queimada anual é monitorizada através dos seguintes indicadores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
 
 ###### Artigo 43.º — Objectivos comuns à região PROF e objectivos específicos às sub-regiões homogéneas
 
 Os objectivos comuns a toda a região PROF, bem como os objectivos específicos às sub-regiões homogéneas, mencionados nos artigos 13.º a 21.º, são monitorizados através dos indicadores contidos no plano que integra o relatório do PROF AML, sem prejuízo de outros que possam ser considerados adequados.
 
-## TÍTULO III
+TÍTULO III
 
 Defesa da floresta contra incêndios
 
@@ -1248,7 +1326,7 @@ f) Rede de infra-estruturas de apoio ao combate.
 
 4 - As novas edificações no solo rural têm de salvaguardar, na sua implantação no terreno, a garantia de distância à extrema da propriedade de uma faixa de protecção nunca inferior a 50 m e a adopção de medidas especiais relativas à resistência do edifício, à passagem do fogo e à contenção de possíveis fontes de ignição de incêndios no edifício e respectivos acessos.
 
-## TÍTULO IV
+TÍTULO IV
 
 Disposições finais
 
@@ -1278,8 +1356,8 @@ Quando se verificarem alterações às normas legais e regulamentares citadas no
 
 ## ANEXO — Normas genéricas de intervenção nos espaços florestais e modelos de silvicultura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
 
 ## ANEXO B — Mapa síntese do Plano Regional de Ordenamento Florestal da Área Metropolitana de Lisboa (PROF AML)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20200/72567274.pdf)

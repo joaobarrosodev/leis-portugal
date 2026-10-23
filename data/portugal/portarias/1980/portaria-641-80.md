@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/641-1980-460870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a975ec520d7f2e316d6f5ed57c6062f46c86efcae7ac085eb679aceedc963271
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7cc78747af09c33a3b10b1ec0075e4c88889626a9f64971c7cd05579747a42f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola de Enfermagem
+- Quadro de Pessoal
+- Viseu
 relationships:
 - type: amended_by
   target: pt:dre:240793:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:312584:por
+  label: "Alterado o quadro de pessoal na parte relativa ao pessoal de enfermagem, pela PORT.304/83.1983.03.26.MFP DR.IS [71]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/304-1983-312584
+  date: '1983-03-26'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:35Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +121,6 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal da Escola de Enfermagem de Viseu
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/21400/26862687.pdf))](https://files.diariodarepublica.pt/1s/1980/09/21400/26862687.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21400/26862687.pdf)
 
 Nota. - O funcionário administrativo que exercer as funções de tesoureiro será abonado de 500$00 mensais para falhas.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/05900/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/31/2021/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/31-2021-160195053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T05:42:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8966829090df1cd911bdf68cc892d2b5c1470a14c2f85eaaa3634116a3b0c5b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72aa900b9614857fc32296a518ff4012bcfe1539e0e77c1ce5df4c1e53646b83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:42:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Chicago
-- Transporte Aéreo
-- PERU
-- Convenção
-- Portugal
-- Aviação Civil Internacional
-- União Europeia
-- Aviação Civil
-- Segurança Aérea
-- Transporte Internacional
 - Autoridade Nacional da Aviação Civil
+- Aviação Civil
+- Aviação Civil Internacional
+- Chicago
+- Convenção
+- PERU
+- Portugal
+- Segurança Aérea
+- Transporte Aéreo
+- Transporte Internacional
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/90/2021/03/25/p/dre
@@ -85,13 +85,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:42:46Z'
   warnings: []
   errors: []
 ---
@@ -100,16 +100,18 @@ validation:
 
 de 25 de março
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo sobre Transporte Aéreo entre a República Portuguesa e a República do Peru, assinado em Lisboa, em 26 de fevereiro de 2019, aprovado, pela [Resolução da Assembleia da República n.º 90/2021](https://diariodarepublica.pt/web/guest/pesquisa/-/search/160195054/details/normal?l=1), em 4 de dezembro de 2020.
 
-**Assinado em 16 de março de 2021.**
+Assinado em 16 de março de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de março de 2021.**
+Referendado em 19 de março de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114093022

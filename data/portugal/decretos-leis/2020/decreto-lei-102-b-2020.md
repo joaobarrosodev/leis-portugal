@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09
   number: '238'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 36-(2) a 36-(220)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/102-b/2020/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 585b52b3dfc0d8828c4e3b8e513a091cc208aaafcacf22da1c05c2bc89616dce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cab9b5ddcb8ee19e793d6eabc70475862d43411432719f0d8386ec456716f1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
+- Autoridade Nacional de Segurança Rodoviária
 - Carta de Condução
 - Código da Estrada
-- Multa
+- Condutor
 - Definição de Competências
 - Fiscalização Rodoviária
-- Instituto da Mobilidade e dos Transportes
-- Veículo
-- Autoridade Nacional de Segurança Rodoviária
 - GNR
-- Condutor
+- Instituto da Mobilidade e dos Transportes
+- Multa
+- PSP
 - Regulamento da Habilitação Legal para Conduzir
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:204552603:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:170083315:por
+  label: Alterados os arts. 48.º e 50.º-A do Código da Estrada, aprovado pelo Dec Lei 114/94 de 03-mai, na versão alterada
+    e republicada pelo presente diploma, pelo(a) Lei n.º 66/2021 - Diário da República n.º 164/2021, Série I de 2021-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-2021-170083315
+  date: '2021-08-24'
+- type: amended_by
+  target: pt:dre:185971761:por
+  label: Alterados, a partir de 01.08.2022, os arts. 125.º e 128.º do Código da Estrada, aprovado pelo Dec Lei 114/94 de 03-mai,
+    na versão alterada e republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 46/2022 - Diário da República n.º 133/2022,
+    Série I de 2022-07-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-2022-185971761
+  date: '2022-07-12'
+- type: amended_by
+  target: pt:dre:204552603:por
+  label: Alterados, a partir de 08.01.2023, os arts. 117.º e 169.º e revogado o n.º 11 do art. 119.º Código da Estrada, aprovado
+    pelo Dec Lei 114/94, de 03-mai, na versão alterada e republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 84-C/2022
+    - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-c-2022-204552603
+  date: '2022-12-09'
 - type: cites
   target: celex:31985R3821
   label: null
@@ -142,6 +162,178 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/85/2017/06/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/85/2017/06/19/p/dre
+- type: cites
+  target: pt:dre:105263933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:105780422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107524708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107648315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107791615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114315241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114337042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117142873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128071719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56304801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58228086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66970760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70133808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75060359:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32006L0126
   label: null
@@ -151,15 +343,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 345
-  section_count: 126
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 17
+  section_count: 34
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:29Z'
   warnings: []
   errors: []
 ---
@@ -250,7 +442,9 @@ Os artigos 22.º, 23.º, 55.º, 81.º, 82.º, 84.º, 85.º, 89.º, 107.º, 112.�
 
 8 - [...].
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...].
 
@@ -272,7 +466,9 @@ b) A utilização dos avisadores luminosos especiais em situações em que não 
 
 8 - O não funcionamento ou funcionamento defeituoso do avisador luminoso especial é equiparado à sua falta.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - [...].
 
@@ -286,7 +482,9 @@ b) A utilização dos avisadores luminosos especiais em situações em que não 
 
 6 - [...].
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - [...].
 
@@ -302,7 +500,9 @@ b) A utilização dos avisadores luminosos especiais em situações em que não 
 
 7 - Os limites de 0,5 g/l e 0,8 g/l referidos no número anterior são reduzidos para 0,2 g/l e 0,5 g/l, respetivamente, para os condutores em regime probatório, condutores de veículos de socorro ou de serviço urgente, de transportes coletivo de crianças e jovens até aos 16 anos, de táxis, de TVDE, de automóveis pesados de passageiros ou de mercadorias ou de transporte de mercadorias perigosas.
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - O condutor e passageiros transportados em veículos a motor são obrigados a usar cintos e demais dispositivos de segurança com que, por lei, os veículos estejam equipados.
 
@@ -318,7 +518,9 @@ b) A utilização dos avisadores luminosos especiais em situações em que não 
 
 7 - Quem não utilizar ou utilizar incorretamente os dispositivos de segurança previstos no presente artigo é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 1 - [...].
 
@@ -330,7 +532,9 @@ b) A utilização dos avisadores luminosos especiais em situações em que não 
 
 5 - [...].
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - [...].
 
@@ -356,7 +560,9 @@ b) Registo por meios eletrónicos, quando o condutor os substitua nos termos do 
 
 8 - Quem, nos casos previstos no n.º 5 e na alínea b) do n.º 6, não entregar os documentos no prazo de cinco dias à autoridade indicada pelo agente de fiscalização é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - O condutor interveniente em acidente deve fornecer aos restantes intervenientes a sua identificação, a do proprietário do veículo e a da seguradora, bem como o número da apólice, exibindo, quando solicitado, os documentos comprovativos ou os dados dos documentos disponibilizados nos termos do n.º 1 do artigo 4.º-A da [Lei n.º 37/2014](https://diariodarepublica.pt/dr/detalhe/lei/37-2014-25345579), de 26 de junho, na sua redação atual.
 
@@ -366,7 +572,9 @@ b) Registo por meios eletrónicos, quando o condutor os substitua nos termos do 
 
 4 - [...].
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - Motociclo é o veículo dotado de duas rodas, com ou sem carro lateral, com motor de propulsão com cilindrada superior a 50 cm3, no caso de motor de combustão interna, ou que, por construção, exceda em patamar a velocidade de 45 km/h ou cuja potência máxima exceda 4 kW.
 
@@ -384,7 +592,9 @@ a) Ligeiro - veículo com velocidade máxima, em patamar e por construção, nã
 
 b) Pesado - veículo cuja massa sem carga, excluída a massa das baterias no caso de veículos elétricos, não exceda 450 kg ou 600 kg, consoante se destine, respetivamente, ao transporte de passageiros ou de mercadorias.
 
-###### Artigo 112.º — [...]
+Artigo 112.º
+
+[...]
 
 1 - [...].
 
@@ -406,7 +616,9 @@ b) As trotinetas com motor elétrico, bem como os dispositivos de circulação c
 
 8 - O disposto nos n.os 6 e 7 é aplicável aos velocípedes que estejam equipados com motor auxiliar com potência máxima contínua superior a 1,0 kW ou cuja alimentação não seja interrompida se se deixar de pedalar ou cuja velocidade máxima seja superior a 25 km/h.
 
-###### Artigo 119.º — [...]
+Artigo 119.º
+
+[...]
 
 1 - [...]:
 
@@ -456,7 +668,9 @@ d) [...].
 
 13 - [...].
 
-###### Artigo 121.º — [...]
+Artigo 121.º
+
+[...]
 
 1 - [...].
 
@@ -486,7 +700,9 @@ d) [...].
 
 14 - [...].
 
-###### Artigo 122.º — [...]
+Artigo 122.º
+
+[...]
 
 1 - [...].
 
@@ -516,7 +732,9 @@ d) [...].
 
 14 - [...].
 
-###### Artigo 123.º — [...]
+Artigo 123.º
+
+[...]
 
 1 - A carta de condução habilita o seu titular a conduzir uma ou mais categorias de veículos e respetivos tipos fixadas no RHLC, sem prejuízo do estabelecido nas disposições relativas à homologação de veículos.
 
@@ -552,7 +770,9 @@ c) Com coima de (euro) 500 a (euro) 2500, se for apenas titular de carta de cond
 
 14 - [...].
 
-###### Artigo 125.º — [...]
+Artigo 125.º
+
+[...]
 
 1 - Além da carta de condução são títulos habilitantes para a condução de veículos a motor os seguintes:
 
@@ -588,7 +808,9 @@ i) Licença de aprendizagem.
 
 8 - Quem infringir o disposto nos n.os 3 a 5, sendo titular de licença válida, é sancionado com coima de (euro) 300 a (euro) 1500.
 
-###### Artigo 128.º — [...]
+Artigo 128.º
+
+[...]
 
 1 - [...]
 
@@ -634,7 +856,9 @@ e) Exista registo de prova prática realizada em território nacional, em data p
 
 10 - É aplicável o disposto nos números anteriores ao averbamento na carta de condução de categorias registadas em título estrangeiro.
 
-###### Artigo 129.º — [...]
+Artigo 129.º
+
+[...]
 
 1 - [...].
 
@@ -650,7 +874,9 @@ e) Exista registo de prova prática realizada em território nacional, em data p
 
 7 - Caso as entidades fiscalizadoras detetem condutores cujos comportamentos possam indiciar a falta de aptidão física, mental ou psicológica para conduzir com segurança devem elaborar relatório circunstanciado e remetê-lo à autoridade competente.
 
-###### Artigo 130.º — Caducidade dos títulos de condução
+Artigo 130.º
+
+Caducidade dos títulos de condução
 
 1 - [...]:
 
@@ -694,7 +920,9 @@ b) Os titulares do título caducado há mais de cinco anos.
 
 7 - Quem conduzir veículo com título caducado, nos termos previstos no n.º 1, é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 139.º — [...]
+Artigo 139.º
+
+[...]
 
 1 - [...].
 
@@ -702,7 +930,9 @@ b) Os titulares do título caducado há mais de cinco anos.
 
 3 - Quando a contraordenação for praticada no exercício da condução, além dos critérios referidos no número anterior, deve atender-se, como circunstância agravante, aos especiais deveres de cuidado que recaem sobre o condutor, designadamente quando este conduza veículos de socorro ou de serviço urgente, de transporte coletivo de crianças, táxis, de TVDE, pesados de passageiros ou de mercadorias, ou de transporte de mercadorias perigosas.
 
-###### Artigo 145.º — [...]
+Artigo 145.º
+
+[...]
 
 1 - [...]:
 
@@ -744,7 +974,9 @@ a) A circulação de veículo sem seguro de responsabilidade civil, caso em que 
 
 b) A circulação de veículos nos termos do n.º 6 do artigo 112.º
 
-###### Artigo 146.º — [...]
+Artigo 146.º
+
+[...]
 
 [...]:
 
@@ -780,7 +1012,9 @@ p) [...];
 
 q) [...].
 
-###### Artigo 148.º — [...]
+Artigo 148.º
+
+[...]
 
 1 - [...]:
 
@@ -812,7 +1046,9 @@ b) [...].
 
 13 - [...].
 
-###### Artigo 169.º — [...]
+Artigo 169.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 7:
 
@@ -836,7 +1072,9 @@ b) O levantamento e notificação de auto de contraordenação cujos factos cons
 
 7 - [...].
 
-###### Artigo 169.º-A — [...]
+Artigo 169.º-A
+
+[...]
 
 1 - Os atos processuais podem ser praticados em suporte informático com aposição de assinatura digital qualificada, nomeadamente através do Cartão de Cidadão e da Chave Móvel Digital, podendo ser utilizado o Sistema de Certificação de Atributos Profissionais.
 
@@ -844,7 +1082,9 @@ b) O levantamento e notificação de auto de contraordenação cujos factos cons
 
 3 - [Revogado.]
 
-###### Artigo 171.º-A — Dispensa de procedimento
+Artigo 171.º-A
+
+Dispensa de procedimento
 
 A prática de factos tipificados como contraordenação que se encontre justificada ao abrigo do artigo 64.º não dá lugar à instauração de procedimento quando:
 
@@ -852,7 +1092,9 @@ a) Tratando-se de agentes das forças e serviços de segurança e órgãos de po
 
 b) Tratando-se de condutores de veículos em missão urgente de prestação de socorro ou em serviço urgente de interesse público, a entidade com competência de direção, tutela ou superintendência sobre o condutor juntar os fundamentos da justificação e respetiva prova, no prazo de 15 dias úteis após notificação da autoridade ou agente de autoridade.
 
-###### Artigo 173.º — [...]
+Artigo 173.º
+
+[...]
 
 1 - Quando a notificação for efetuada no ato da verificação da contraordenação o infrator deve, de imediato ou no prazo máximo de 48 horas, prestar depósito de valor igual ao mínimo da coima aplicável.
 
@@ -868,7 +1110,9 @@ b) Tratando-se de condutores de veículos em missão urgente de prestação de s
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 176.º — [...]
+Artigo 176.º
+
+[...]
 
 1 - [...]:
 
@@ -906,7 +1150,9 @@ c) Em caso de notificação por via eletrónica, no quinto dia posterior ao regi
 
 11 - [...].
 
-###### Artigo 183.º — [...]
+Artigo 183.º
+
+[...]
 
 1 - Sempre que o valor mínimo da coima aplicável seja igual ou superior a 2 UC pode a autoridade administrativa, a requerimento do arguido, autorizar o seu pagamento em prestações mensais, não inferiores a (euro) 50, pelo período máximo de 12 meses.
 
@@ -934,7 +1180,9 @@ c) 'Pernoita', a permanência de autocaravana ou similar no local do estacioname
 
 3 - Quem infringir o disposto no n.º 1 é sancionado com coima de (euro) 60 a (euro) 300, salvo se se tratar de pernoita ou aparcamento em áreas da Rede Natura 2000 e áreas protegidas, caso em que a coima é de (euro) 120 a (euro) 600(euro).
 
-###### Artigo 149.º-A — Interoperabilidade entre organismos públicos
+Artigo 149.º-A
+
+Interoperabilidade entre organismos públicos
 
 1 - As entidades competentes em matéria de fiscalização, os tribunais e a ANSR comunicam ao IMT, I. P., as restrições momentâneas ou permanentes aplicáveis ao titular do título de condução, nomeadamente as resultantes da cassação do título de condução e da proibição ou inibição de conduzir.
 
@@ -1020,7 +1268,9 @@ hh) [...].
 
 5 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -1038,7 +1288,9 @@ e) A Guarda Nacional Republicana e a Polícia de Segurança Pública, no âmbito
 
 3 - [Revogado.]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Qualquer pessoa, desde que devidamente identificada, tem o direito de conhecer o conteúdo dos registos, constantes das bases de dados, que lhe respeitem.
 
@@ -1110,7 +1362,9 @@ c) Organizar e manter atualizado o registo das entidades que invocam ou suscitam
 
 8 - Sem prejuízo do disposto no n.º 1, a fiscalização do cumprimento do artigo 50.º-A do Código da Estrada fora das vias do domínio público ou das vias do domínio privado abertas ao trânsito público situadas em áreas da Rede Natura 2000 e áreas protegidas compete à Autoridade Marítima Nacional, à Guarda Nacional Republicana, à Polícia de Segurança Pública e às câmaras municipais, nas respetivas áreas de jurisdição.
 
-###### Artigo 6.º — Segurança e sinalização das vias públicas
+Artigo 6.º
+
+Segurança e sinalização das vias públicas
 
 1 - Compete à entidade gestora da via garantir a segurança e a sinalização das vias públicas.
 
@@ -1136,7 +1390,9 @@ b) Recomendar às entidades gestoras da via, no prazo que lhes for fixado, que p
 
 7 - As recomendações da ANSR são publicitadas no seu sítio na Internet.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -1270,15 +1526,15 @@ c) O Regulamento da Habilitação Legal para Conduzir, aprovado em anexo ao [Dec
 
 Visto e aprovado em Conselho de Ministros de 27 de novembro de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Berta Ferreira Milheiro Nunes - João Rodrigo Reis Carvalho Leão - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem - Alexandra Ludomila Ribeiro Fernandes Leitão - Tiago Brandão Rodrigues - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Marta Alexandra Fartura Braga Temido de Almeida Simões - João Pedro Soeiro de Matos Fernandes - Pedro Nuno de Oliveira Santos - Maria do Céu de Oliveira Antunes Albuquerque.
 
-**Promulgado em 5 de dezembro de 2020.**
+Promulgado em 5 de dezembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de dezembro de 2020.**
+Referendado em 8 de dezembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 8.º)
 
@@ -1288,7 +1544,9 @@ Carta de condução
 
 A carta de condução prevista no n.º 4 do artigo 121.º do Código da Estrada obedece ao modelo constante do anexo I do presente regulamento, do qual faz parte integrante.
 
-###### Artigo 3.º — Carta de condução e categorias de veículos
+Artigo 3.º
+
+Carta de condução e categorias de veículos
 
 1 - [...].
 
@@ -1428,7 +1686,9 @@ b) Da categoria T do tipo III, sem prejuízo do averbamento da restrição 793, 
 
 6 - Sem prejuízo da exigência de habilitação específica, os condutores de veículos que se desloquem sobre carris ou de troleicarros devem ser titulares de carta de condução válida para a categoria D.
 
-###### Artigo 9.º — Licença de aprendizagem
+Artigo 9.º
+
+Licença de aprendizagem
 
 1 - A licença de aprendizagem é emitida aos candidatos a condutor para efeitos de autorização de condução na via pública em contexto de ensino e exame de condução.
 
@@ -1440,7 +1700,9 @@ b) Da categoria T do tipo III, sem prejuízo do averbamento da restrição 793, 
 
 5 - A licença de aprendizagem obedece ao modelo constante da secção E do anexo I ao presente regulamento e do qual faz parte integrante.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]:
 
@@ -1474,7 +1736,9 @@ c) [...].
 
 10 - Caso a troca do título estrangeiro esteja condicionada à realização de uma ou mais provas do exame de condução, o condutor é considerado não habilitado se reprovar duas vezes em qualquer uma das provas.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O titular de carta de condução ou de qualquer outro título de condução deve respeitar as restrições, adaptações ou limitações que lhe foram impostas, relativas ao condutor, ao veículo ou às condições de circulação, nos termos da secção B do anexo I ao presente regulamento.
 
@@ -1482,7 +1746,9 @@ c) [...].
 
 3 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Os títulos de condução emitidos ao abrigo do presente regulamento têm a validade neles registada.
 
@@ -1510,7 +1776,9 @@ b) 2 anos, após o condutor perfazer 70 anos de idade.
 
 8 - [...].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -1548,7 +1816,9 @@ e) Ter condição de estudante em território nacional há, pelo menos, 185 dias
 
 13 - A portaria mencionada no número anterior pode regular, ainda, os termos necessários à revalidação automática das cartas de condução em conjunto com a renovação online do Cartão de Cidadão, realizada no portal ePortugal, utilizando a Plataforma de Interoperabilidade da Administração Pública e mediante autenticação segura com recurso ao Cartão de Cidadão ou à Chave Móvel Digital.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]:
 
@@ -1580,7 +1850,9 @@ j) Ter condição de estudante em território nacional há, pelo menos, 185 dias
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]:
 
@@ -1606,7 +1878,9 @@ g) [...].
 
 5 - [...].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]:
 
@@ -1618,7 +1892,9 @@ b) [...].
 
 3 - [...].
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...].
 
@@ -1648,7 +1924,9 @@ e) De candidatos ou condutores considerados 'inaptos' ou 'aptos' com restriçõe
 
 9 - [...].
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Por despacho do presidente do conselho diretivo do IMT, I. P., e do diretor-geral da Saúde são aprovados:
 
@@ -1662,7 +1940,9 @@ b) Os conteúdos do relatório de avaliação psicológica e os modelos do certi
 
 4 - Cabe à SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., definir e publicitar as normas, os requisitos e as especificações dos sistemas informáticos de emissão de atestados médicos e de certificados de aptidão psicológica por via eletrónica, bem como promover a sua implementação pelos vários operadores.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...].
 
@@ -1672,7 +1952,9 @@ b) Os conteúdos do relatório de avaliação psicológica e os modelos do certi
 
 4 - Quando o candidato ou condutor for considerado 'inapto' na avaliação psicológica, o psicólogo que a tiver efetuado deve enviar ao serviço competente do IMT, I. P., sob forma confidencial, cópias do relatório e do certificado de avaliação psicológica referidos na alínea b) do n.º 1 do artigo 26.º
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - Só podem ser admitidos a exame de condução os candidatos que preencham os requisitos previstos nas alíneas a), b) e e) a j) do n.º 1 do artigo 18.º
 
@@ -1694,11 +1976,15 @@ g) T do tipo I, II e III, que tenham frequentado curso adequado.
 
 3 - [...].
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 São admitidos a exame especial os candidatos que preencham os requisitos fixados nas alíneas a), b) e e) a j) do n.º 1 do artigo 18.º e tenham frequentado com aproveitamento o curso específico de formação, quando aplicável, ministrado por entidade autorizada, nos termos a fixar por deliberação do conselho diretivo do IMT, I. P.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...].
 
@@ -1728,7 +2014,9 @@ b) Os candidatos às categorias A2 e A que sejam titulares de carta de conduçã
 
 12 - (Anterior n.º 9.)
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - O exame especial é composto por:
 
@@ -1752,7 +2040,9 @@ c) Frequência, com aproveitamento, de curso específico de formação e realiza
 
 8 - [...].
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...].
 
@@ -1760,7 +2050,9 @@ c) Frequência, com aproveitamento, de curso específico de formação e realiza
 
 3 - [...].
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - As faltas às provas componentes do exame de condução são justificadas quando se verifique justo impedimento, podendo o candidato, no prazo máximo de três dias úteis a contar do dia da falta, requerer marcação de nova data sem pagamento de nova taxa ou, caso pretenda desistir da realização da prova, requerer a devolução da taxa paga.
 
@@ -1770,7 +2062,9 @@ c) Frequência, com aproveitamento, de curso específico de formação e realiza
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...].
 
@@ -1780,7 +2074,9 @@ c) Frequência, com aproveitamento, de curso específico de formação e realiza
 
 4 - As imagens, figuras, perguntas e respostas constantes das bases de dados que geram o teste referido no n.º 1 não podem ser divulgadas, exceto em caso de reclamação, caso em que podem ser visualizadas, nos termos do artigo 48.º
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - [...].
 
@@ -1802,7 +2098,9 @@ b) Calçado fechado e ajustado;
 
 c) Colete retrorrefletor.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - [...].
 
@@ -1820,7 +2118,9 @@ c) Colete retrorrefletor.
 
 8 - [...].
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - [...]:
 
@@ -1850,7 +2150,9 @@ f) Sendo titular de carta de condução, quando a revalidar ou substituir.
 
 8 - [...].
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - A formação e a certificação previstas no presente regulamento para as entidades que procedam à formação e avaliação de candidatos a carta de condução da categoria AM, entre os 14 e os 16 anos, devem ser articuladas com o Catálogo Nacional de Qualificações e o Sistema de Certificação de Entidades Formadoras, através de portaria dos membros do Governo responsáveis pelas áreas da educação, do emprego e da formação profissional e dos transportes.
 
@@ -1862,39 +2164,57 @@ f) Sendo titular de carta de condução, quando a revalidar ou substituir.
 
 [...]
 
-#### Secção A — [...]
+Secção A
 
-#### Secção B — [...]
+[...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+Secção B
 
-#### Secção C — [...]
+[...]
 
-#### Secção D — [...]
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+
+Secção C
+
+[...]
+
+Secção D
+
+[...]
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
-#### Secção E — Modelo da licença de aprendizagem
+Secção E
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+Modelo da licença de aprendizagem
 
-## ANEXO II — [Revogado.]
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
-## ANEXO III — [...]
+ANEXO II
 
-#### Secção A — [...]
+[Revogado.]
 
-#### Secção B — [...]
+ANEXO III
+
+[...]
+
+Secção A
+
+[...]
+
+Secção B
+
+[...]
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 Esta página contém as menções específicas numeradas da seguinte forma:
 
@@ -1908,7 +2228,7 @@ Esta página contém as menções específicas numeradas da seguinte forma:
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 Esta página contém as menções específicas numeradas da seguinte forma:
 
@@ -1918,11 +2238,11 @@ Esta página contém as menções específicas numeradas da seguinte forma:
 
 Página 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 Página 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 Esta página contém as menções específicas numeradas da seguinte forma:
 
@@ -1942,21 +2262,31 @@ Esta página contém as menções específicas numeradas da seguinte forma:
 
 8 - Selo ou carimbo do serviço emissor que retirou o direito a conduzir no seu território.
 
-#### Secção C — [...]
+Secção C
 
-## ANEXO III — (a que se refere o n.º 2 do artigo 9.º)
+[...]
+
+ANEXO III
+
+(a que se refere o n.º 2 do artigo 9.º)
 
 «ANEXO VII
 
 [...]
 
-# PARTE I — [...]
-
-#### SECÇÃO I — [...]
+PARTE I
 
 [...]
 
-#### SECÇÃO II — I - [...]
+SECÇÃO I
+
+[...]
+
+[...]
+
+SECÇÃO II
+
+I - [...]
 
 1 - [...].
 
@@ -2116,7 +2446,9 @@ VI - [...]
 
 3.4.2 - Técnicas de emergência em situações de trauma
 
-#### SECÇÃO III — [...]
+SECÇÃO III
+
+[...]
 
 I - [...]
 
@@ -2168,11 +2500,17 @@ IV - [...]
 
 [...]
 
-# PARTE II — [...]
+PARTE II
 
-# PARTE III — [...]
+[...]
 
-#### SECÇÃO I — [...]
+PARTE III
+
+[...]
+
+SECÇÃO I
+
+[...]
 
 1 - [...].
 
@@ -2200,7 +2538,9 @@ d) [...].
 
 4 - [...].
 
-#### SECÇÃO II — [...]
+SECÇÃO II
+
+[...]
 
 1 - [...]:
 
@@ -2264,17 +2604,25 @@ Categoria DE:
 
 [...]»
 
-## ANEXO IV — [a que se refere a alínea a) do artigo 14.º]
+ANEXO IV
+
+[a que se refere a alínea a) do artigo 14.º]
 
 Republicação do Código da Estrada, aprovado pelo [Decreto-Lei n.º 114/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1994-250659), de 3 de maio
 
 CÓDIGO DA ESTRADA
 
-## TÍTULO I — Disposições gerais
+TÍTULO I
 
-### CAPÍTULO I — Princípios gerais
+Disposições gerais
 
-###### Artigo 1.º — Definições legais
+CAPÍTULO I
+
+Princípios gerais
+
+Artigo 1.º
+
+Definições legais
 
 Para os efeitos do disposto no presente Código e legislação complementar, os termos seguintes têm o significado que lhes é atribuído neste artigo:
 
@@ -2328,13 +2676,17 @@ aa) «Zona de estacionamento» - local da via pública especialmente destinado, 
 
 bb) «Zona de coexistência» - zona da via pública especialmente concebida para utilização partilhada por peões e veículos, onde vigoram regras especiais de trânsito e sinalizada como tal.
 
-###### Artigo 2.º — Âmbito de aplicação
+Artigo 2.º
+
+Âmbito de aplicação
 
 1 - O disposto no presente Código é aplicável ao trânsito nas vias do domínio público do Estado, das Regiões Autónomas e das autarquias locais.
 
 2 - O disposto no presente diploma é também aplicável nas vias do domínio privado, quando abertas ao trânsito público, em tudo o que não estiver especialmente regulado por acordo celebrado entre as entidades referidas no número anterior e os respetivos proprietários.
 
-###### Artigo 3.º — Liberdade de trânsito
+Artigo 3.º
+
+Liberdade de trânsito
 
 1 - Nas vias a que se refere o artigo anterior é livre a circulação, com as restrições constantes do presente Código e legislação complementar.
 
@@ -2344,7 +2696,9 @@ bb) «Zona de coexistência» - zona da via pública especialmente concebida par
 
 4 - Quem praticar atos com o intuito de impedir ou embaraçar a circulação de veículos a motor é sancionado com coima de (euro) 300 a (euro) 1500, se sanção mais grave não for aplicável por força de outra disposição legal.
 
-###### Artigo 4.º — Ordens das autoridades
+Artigo 4.º
+
+Ordens das autoridades
 
 1 - O utente deve obedecer às ordens legítimas das autoridades com competência para regular e fiscalizar o trânsito, ou dos seus agentes, desde que devidamente identificados como tal.
 
@@ -2352,7 +2706,9 @@ bb) «Zona de coexistência» - zona da via pública especialmente concebida par
 
 3 - Quem desobedecer ao sinal regulamentar de paragem das autoridades referidas no n.º 1 é sancionado com coima de (euro) 500 a (euro) 2500, se sanção mais grave não for aplicável por força de outra disposição legal.
 
-###### Artigo 5.º — Sinalização
+Artigo 5.º
+
+Sinalização
 
 1 - Nos locais que possam oferecer perigo para o trânsito ou em que este deva estar sujeito a restrições especiais e ainda quando seja necessário dar indicações úteis, devem ser utilizados os respetivos sinais de trânsito.
 
@@ -2372,13 +2728,17 @@ d) Dificultar, restringir ou comprometer a comodidade e segurança da circulaç�
 
 5 - Quem infringir o disposto no n.º 3 é sancionado com coima de (euro) 700 a (euro) 3500, podendo ainda os meios de publicidade em causa ser mandados retirar pela entidade competente.
 
-###### Artigo 6.º — Sinais
+Artigo 6.º
+
+Sinais
 
 1 - Os sinais de trânsito são fixados em regulamento onde, de harmonia com as convenções internacionais em vigor, se especificam as formas, as cores, as inscrições, os símbolos e as dimensões, bem como os respetivos significados e os sistemas de colocação.
 
 2 - As inscrições constantes nos sinais são escritas em português, salvo o que resulte das convenções internacionais.
 
-###### Artigo 7.º — Hierarquia entre prescrições
+Artigo 7.º
+
+Hierarquia entre prescrições
 
 1 - As prescrições resultantes dos sinais prevalecem sobre as regras de trânsito.
 
@@ -2396,9 +2756,13 @@ d) Dificultar, restringir ou comprometer a comodidade e segurança da circulaç�
 
 3 - As ordens dos agentes reguladores do trânsito prevalecem sobre as prescrições resultantes dos sinais e sobre as regras de trânsito.
 
-### CAPÍTULO II — Restrições à circulação
+CAPÍTULO II
 
-###### Artigo 8.º — Realização de obras e utilização das vias públicas para fins especiais
+Restrições à circulação
+
+Artigo 8.º
+
+Realização de obras e utilização das vias públicas para fins especiais
 
 1 - A realização de obras nas vias públicas e a sua utilização para a realização de atividades de caráter desportivo, festivo ou outras que possam afetar o trânsito normal ou colocar restrições ao trânsito dos peões nos passeios só é permitida desde que autorizada pelas entidades competentes, e com a correspondente aplicação local de sinalização temporária e identificação de obstáculos.
 
@@ -2414,7 +2778,9 @@ d) Dificultar, restringir ou comprometer a comodidade e segurança da circulaç�
 
 7 - Os organizadores de manifestação desportiva envolvendo peões ou animais em violação ao disposto no n.º 1 são sancionados com coima de (euro) 300 a (euro) 1500, acrescida de (euro) 30 por cada um dos participantes ou concorrentes.
 
-###### Artigo 9.º — Suspensão ou condicionamento do trânsito
+Artigo 9.º
+
+Suspensão ou condicionamento do trânsito
 
 1 - A suspensão ou condicionamento do trânsito só podem ser ordenados por motivos de segurança, de emergência grave ou de obras ou com o fim de prover à conservação dos pavimentos, instalações e obras de arte e podem respeitar apenas a parte da via ou a veículos de certa espécie, peso ou dimensões.
 
@@ -2422,7 +2788,9 @@ d) Dificultar, restringir ou comprometer a comodidade e segurança da circulaç�
 
 3 - Salvo casos de emergência grave ou de obras urgentes, o condicionamento ou suspensão do trânsito são publicitados com a antecedência fixada em regulamento.
 
-###### Artigo 10.º — Proibição temporária ou permanente da circulação de certos veículos
+Artigo 10.º
+
+Proibição temporária ou permanente da circulação de certos veículos
 
 1 - Sempre que ocorram circunstâncias anormais de trânsito, pode proibir-se temporariamente, por regulamento, a circulação de certas espécies de veículos ou de veículos que transportem certas mercadorias.
 
@@ -2432,13 +2800,21 @@ d) Dificultar, restringir ou comprometer a comodidade e segurança da circulaç�
 
 4 - Quem infringir a proibição prevista no n.º 1 ou o condicionamento previsto no n.º 2 é sancionado com coima de (euro) 150 a (euro) 750, sendo os veículos impedidos de prosseguir a sua marcha até findar o período em que vigora a proibição.
 
-## TÍTULO II — Do trânsito de veículos e animais
+TÍTULO II
 
-### CAPÍTULO I — Disposições comuns
+Do trânsito de veículos e animais
 
-#### SECÇÃO I — Regras gerais
+CAPÍTULO I
 
-###### Artigo 11.º — Condução de veículos e animais
+Disposições comuns
+
+SECÇÃO I
+
+Regras gerais
+
+Artigo 11.º
+
+Condução de veículos e animais
 
 1 - Todo o veículo ou animal que circule na via pública deve ter um condutor, salvo as exceções previstas neste Código.
 
@@ -2448,13 +2824,17 @@ d) Dificultar, restringir ou comprometer a comodidade e segurança da circulaç�
 
 4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 12.º — Início de marcha
+Artigo 12.º
+
+Início de marcha
 
 1 - Os condutores não podem iniciar ou retomar a marcha sem assinalarem com a necessária antecedência a sua intenção e sem adotarem as precauções necessárias para evitar qualquer acidente.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 13.º — Posição de marcha
+Artigo 13.º
+
+Posição de marcha
 
 1 - A posição de marcha dos veículos deve fazer-se pelo lado direito da faixa de rodagem, conservando das bermas ou passeios uma distância suficiente que permita evitar acidentes.
 
@@ -2466,7 +2846,9 @@ d) Dificultar, restringir ou comprometer a comodidade e segurança da circulaç�
 
 5 - Quem circular em sentido oposto ao estabelecido é sancionado com coima de (euro) 250 a (euro) 1250.
 
-###### Artigo 14.º — Pluralidade de vias de trânsito dentro das localidades
+Artigo 14.º
+
+Pluralidade de vias de trânsito dentro das localidades
 
 1 - [Revogado.]
 
@@ -2476,7 +2858,9 @@ d) Dificultar, restringir ou comprometer a comodidade e segurança da circulaç�
 
 4 - Quem infringir o disposto no n.º 2 é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 14.º-A — Rotundas
+Artigo 14.º-A
+
+Rotundas
 
 1 - Nas rotundas, o condutor deve adotar o seguinte comportamento:
 
@@ -2492,13 +2876,17 @@ d) Sem prejuízo do disposto nas alíneas anteriores, os condutores devem utiliz
 
 3 - Quem infringir o disposto nas alíneas b), c) e d) do n.º 1 e no n.º 2 é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 15.º — Trânsito em filas paralelas
+Artigo 15.º
+
+Trânsito em filas paralelas
 
 1 - Sempre que, existindo mais de uma via de trânsito no mesmo sentido, os veículos, devido à intensidade da circulação, ocupem toda a largura da faixa de rodagem destinada a esse sentido, estando a velocidade de cada um dependente da marcha dos que o precedem, os condutores não podem sair da respetiva fila para outra mais à direita, salvo para mudar de direção, parar ou estacionar.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 16.º — Placas, postes, ilhéus e dispositivos semelhantes
+Artigo 16.º
+
+Placas, postes, ilhéus e dispositivos semelhantes
 
 1 - Nos cruzamentos, entroncamentos e rotundas o trânsito faz-se por forma a dar a esquerda à parte central dos mesmos ou às placas, postes, ilhéus direcionais ou dispositivos semelhantes existentes, desde que se encontrem no eixo da faixa de rodagem de que procedem os veículos.
 
@@ -2506,7 +2894,9 @@ d) Sem prejuízo do disposto nas alíneas anteriores, os condutores devem utiliz
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 17.º — Bermas e passeios
+Artigo 17.º
+
+Bermas e passeios
 
 1 - Os veículos só podem circular nas bermas ou nos passeios desde que o acesso aos prédios o exija, salvo as exceções previstas em regulamento local.
 
@@ -2516,7 +2906,9 @@ d) Sem prejuízo do disposto nas alíneas anteriores, os condutores devem utiliz
 
 4 - Quem infringir o disposto no n.º 1 é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 18.º — Distância entre veículos
+Artigo 18.º
+
+Distância entre veículos
 
 1 - O condutor de um veículo em marcha deve manter entre o seu veículo e o que o precede a distância suficiente para evitar acidentes em caso de súbita paragem ou diminuição de velocidade deste, tendo em especial consideração os utilizadores vulneráveis.
 
@@ -2526,11 +2918,15 @@ d) Sem prejuízo do disposto nas alíneas anteriores, os condutores devem utiliz
 
 4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 19.º — Visibilidade reduzida ou insuficiente
+Artigo 19.º
+
+Visibilidade reduzida ou insuficiente
 
 Para os efeitos deste Código e legislação complementar, considera-se que a visibilidade é reduzida ou insuficiente sempre que o condutor não possa avistar a faixa de rodagem em toda a sua largura numa extensão de, pelo menos, 50 m.
 
-###### Artigo 20.º — Veículos de transporte coletivo de passageiros
+Artigo 20.º
+
+Veículos de transporte coletivo de passageiros
 
 1 - Nas localidades, os condutores devem abrandar a sua marcha e, se necessário, parar, sempre que os veículos de transporte coletivo de passageiros retomem a marcha à saída dos locais de paragem.
 
@@ -2538,9 +2934,13 @@ Para os efeitos deste Código e legislação complementar, considera-se que a vi
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
 
-#### SECÇÃO II — Sinais dos condutores
+SECÇÃO II
 
-###### Artigo 21.º — Sinalização de manobras
+Sinais dos condutores
+
+Artigo 21.º
+
+Sinalização de manobras
 
 1 - Quando o condutor pretender reduzir a velocidade, parar, estacionar, mudar de direção ou de via de trânsito, iniciar uma ultrapassagem ou inverter o sentido de marcha, deve assinalar com a necessária antecedência a sua intenção.
 
@@ -2548,7 +2948,9 @@ Para os efeitos deste Código e legislação complementar, considera-se que a vi
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 22.º — Sinais sonoros
+Artigo 22.º
+
+Sinais sonoros
 
 1 - Os sinais sonoros devem ser breves.
 
@@ -2570,7 +2972,9 @@ b) Fora das localidades, para prevenir um condutor da intenção de o ultrapassa
 
 8 - Quem infringir o disposto no n.º 6 é sancionado com coima de (euro) 500 a (euro) 2500 e com perda dos objetos, devendo o agente de fiscalização proceder à sua imediata remoção e apreensão ou, não sendo ela possível, apreender o documento de identificação do veículo até à efetiva remoção e apreensão daqueles objetos, sendo, neste caso, aplicável, com as necessárias adaptações, o disposto no n.º 5 do artigo 161.º
 
-###### Artigo 23.º — Sinais luminosos
+Artigo 23.º
+
+Sinais luminosos
 
 1 - Quando os veículos transitem fora das localidades com as luzes acesas por insuficiência de visibilidade, os sinais sonoros podem ser substituídos por sinais luminosos, através da utilização alternada dos máximos com os médios, mas sempre sem provocar encandeamento.
 
@@ -2592,9 +2996,13 @@ b) A utilização dos avisadores luminosos especiais em situações em que não 
 
 8 - O não funcionamento ou funcionamento defeituoso do avisador luminoso especial é equiparado à sua falta.
 
-#### SECÇÃO III — Velocidade
+SECÇÃO III
 
-###### Artigo 24.º — Princípios gerais
+Velocidade
+
+Artigo 24.º
+
+Princípios gerais
 
 1 - O condutor deve regular a velocidade de modo a que, atendendo à presença de outros utilizadores, em particular os vulneráveis, às características e estado da via e do veículo, à carga transportada, às condições meteorológicas ou ambientais, à intensidade do trânsito e a quaisquer outras circunstâncias relevantes, possa, em condições de segurança, executar as manobras cuja necessidade seja de prever e, especialmente, fazer parar o veículo no espaço livre e visível à sua frente.
 
@@ -2602,7 +3010,9 @@ b) A utilização dos avisadores luminosos especiais em situações em que não 
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 25.º — Velocidade moderada
+Artigo 25.º
+
+Velocidade moderada
 
 1 - Sem prejuízo dos limites máximos de velocidade fixados, o condutor deve moderar especialmente a velocidade:
 
@@ -2632,17 +3042,21 @@ m) Sempre que exista grande intensidade de trânsito.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 26.º — Marcha lenta
+Artigo 26.º
+
+Marcha lenta
 
 1 - Os condutores não devem transitar em marcha cuja lentidão cause embaraço injustificado aos restantes utentes da via.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 60 a (euro) 300, se sanção mais grave não for aplicável por força de outra disposição legal.
 
-###### Artigo 27.º — Limites gerais de velocidade
+Artigo 27.º
+
+Limites gerais de velocidade
 
 1 - Sem prejuízo do disposto nos artigos 24.º e 25.º e de limites inferiores que lhes sejam impostos, os condutores não podem exceder as seguintes velocidades instantâneas (em quilómetros/hora):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 2 - Quem exceder os limites máximos de velocidade é sancionado:
 
@@ -2676,7 +3090,9 @@ b) Se conduzir outros veículos, com as seguintes coimas:
 
 7 - Quem conduzir a velocidade inferior ao limite estabelecido no número anterior é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 28.º — Limites especiais de velocidade
+Artigo 28.º
+
+Limites especiais de velocidade
 
 1 - Sempre que a intensidade do trânsito ou as características das vias o aconselhem podem ser fixados, para vigorar em certas vias, troços de via ou períodos:
 
@@ -2696,11 +3112,17 @@ b) Limites máximos de velocidade instantânea inferiores ou superiores aos esta
 
 7 - [Revogado.]
 
-#### SECÇÃO IV — Cedência de passagem
+SECÇÃO IV
 
-##### SUBSECÇÃO I — Princípio geral
+Cedência de passagem
 
-###### Artigo 29.º — Princípio geral
+SUBSECÇÃO I
+
+Princípio geral
+
+Artigo 29.º
+
+Princípio geral
 
 1 - O condutor sobre o qual recaia o dever de ceder a passagem deve abrandar a marcha, se necessário parar, ou, em caso de cruzamento de veículos, recuar, por forma a permitir a passagem de outro veículo, sem alteração da velocidade ou direção deste.
 
@@ -2708,15 +3130,21 @@ b) Limites máximos de velocidade instantânea inferiores ou superiores aos esta
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600.
 
-##### SUBSECÇÃO II — Cruzamentos, entroncamentos e rotundas
+SUBSECÇÃO II
 
-###### Artigo 30.º — Regra geral
+Cruzamentos, entroncamentos e rotundas
+
+Artigo 30.º
+
+Regra geral
 
 1 - Nos cruzamentos e entroncamentos o condutor deve ceder a passagem aos veículos que se lhe apresentem pela direita.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 31.º — Cedência de passagem em certas vias ou troços
+Artigo 31.º
+
+Cedência de passagem em certas vias ou troços
 
 1 - Deve sempre ceder a passagem o condutor:
 
@@ -2732,7 +3160,9 @@ c) Que entre numa rotunda.
 
 4 - Quem infringir o disposto no n.º 2 é sancionado com coima de (euro) 250 a (euro) 1250.
 
-###### Artigo 32.º — Cedência de passagem a certos veículos
+Artigo 32.º
+
+Cedência de passagem a certos veículos
 
 1 - Sem prejuízo do disposto no n.º 1 do artigo anterior, os condutores devem ceder a passagem às colunas militares ou militarizadas, bem como às escoltas policiais.
 
@@ -2748,9 +3178,13 @@ c) Que entre numa rotunda.
 
 7 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600.
 
-##### SUBSECÇÃO III — Cruzamento de veículos
+SUBSECÇÃO III
 
-###### Artigo 33.º — Impossibilidade de cruzamento
+Cruzamento de veículos
+
+Artigo 33.º
+
+Impossibilidade de cruzamento
 
 1 - Se não for possível o cruzamento entre dois veículos que transitem em sentidos opostos, deve observar-se o seguinte:
 
@@ -2770,31 +3204,45 @@ d) Perante veículos da mesma categoria, aquele que for a subir, salvo se for ma
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 34.º — Veículos de grandes dimensões
+Artigo 34.º
+
+Veículos de grandes dimensões
 
 1 - Sempre que a largura livre da faixa de rodagem, o perfil transversal ou o estado de conservação da via não permitam que o cruzamento se faça com a necessária segurança, os condutores de veículos ou de conjuntos de veículos de largura superior a 2 m ou cujo comprimento, incluindo a carga, exceda 8 m devem diminuir a velocidade e parar, se necessário, a fim de o facilitar.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 60 a (euro) 300.
 
-#### SECÇÃO V — Algumas manobras em especial
+SECÇÃO V
 
-##### SUBSECÇÃO I — Princípio geral
+Algumas manobras em especial
 
-###### Artigo 35.º — Disposição comum
+SUBSECÇÃO I
+
+Princípio geral
+
+Artigo 35.º
+
+Disposição comum
 
 1 - O condutor só pode efetuar as manobras de ultrapassagem, mudança de direção ou de via de trânsito, inversão do sentido de marcha e marcha atrás em local e por forma que da sua realização não resulte perigo ou embaraço para o trânsito.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.
 
-##### SUBSECÇÃO II — Ultrapassagem
+SUBSECÇÃO II
 
-###### Artigo 36.º — Regra geral
+Ultrapassagem
+
+Artigo 36.º
+
+Regra geral
 
 1 - A ultrapassagem deve efetuar-se pela esquerda.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 250 a (euro) 1250.
 
-###### Artigo 37.º — Exceções
+Artigo 37.º
+
+Exceções
 
 1 - Deve fazer-se pela direita a ultrapassagem de veículos ou animais cujo condutor, assinalando devidamente a sua intenção, pretenda mudar de direção para a esquerda ou, numa via de sentido único, parar ou estacionar à esquerda, desde que, em qualquer caso, tenha deixado livre a parte mais à direita da faixa de rodagem.
 
@@ -2806,7 +3254,9 @@ b) Estando parados para a entrada ou saída de passageiros, exista placa de ref�
 
 3 - Quem infringir o disposto no n.º 1 é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 38.º — Realização da manobra
+Artigo 38.º
+
+Realização da manobra
 
 1 - O condutor de veículo não deve iniciar a ultrapassagem sem se certificar de que a pode realizar sem perigo de colidir com veículo que transite no mesmo sentido ou em sentido contrário.
 
@@ -2828,13 +3278,17 @@ e) Na ultrapassagem de velocípedes ou à passagem de peões que circulem ou se 
 
 5 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 39.º — Obrigação de facultar a ultrapassagem
+Artigo 39.º
+
+Obrigação de facultar a ultrapassagem
 
 1 - Todo o condutor deve, sempre que não haja obstáculo que o impeça, facultar a ultrapassagem, desviando-se o mais possível para a direita ou, nos casos previstos no n.º 1 do artigo 37.º, para a esquerda e não aumentando a velocidade enquanto não for ultrapassado.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 40.º — Veículos de marcha lenta
+Artigo 40.º
+
+Veículos de marcha lenta
 
 1 - Fora das localidades, em vias cuja faixa de rodagem só tenha uma via de trânsito afeta a cada sentido, os condutores de automóveis pesados, de veículos agrícolas, de máquinas industriais, de veículos de tração animal ou de outros veículos, com exceção dos velocípedes, que transitem em marcha lenta devem manter em relação aos veículos que os precedem uma distância não inferior a 50 m que permita a sua ultrapassagem com segurança.
 
@@ -2844,7 +3298,9 @@ e) Na ultrapassagem de velocípedes ou à passagem de peões que circulem ou se 
 
 4 - Quem infringir o disposto nos n.os 1 e 3 é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 41.º — Ultrapassagens proibidas
+Artigo 41.º
+
+Ultrapassagens proibidas
 
 1 - É proibida a ultrapassagem:
 
@@ -2870,19 +3326,27 @@ g) Sempre que a largura da faixa de rodagem seja insuficiente.
 
 5 - Quem infringir o disposto nos n.os 1 e 2 é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 42.º — Pluralidade de vias e trânsito em filas paralelas
+Artigo 42.º
+
+Pluralidade de vias e trânsito em filas paralelas
 
 Nos casos previstos no n.º 2 do artigo 14.º, no artigo 14.º-A e no artigo 15.º, o facto de os veículos de uma fila circularem mais rapidamente que os de outra não é considerado ultrapassagem para os efeitos previstos no presente Código.
 
-##### SUBSECÇÃO III — Mudança de direção
+SUBSECÇÃO III
 
-###### Artigo 43.º — Mudança de direção para a direita
+Mudança de direção
+
+Artigo 43.º
+
+Mudança de direção para a direita
 
 1 - O condutor que pretenda mudar de direção para a direita deve aproximar-se, com a necessária antecedência e quanto possível, do limite direito da faixa de rodagem e efetuar a manobra no trajeto mais curto.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 44.º — Mudança de direção para a esquerda
+Artigo 44.º
+
+Mudança de direção para a esquerda
 
 1 - O condutor que pretenda mudar de direção para a esquerda deve aproximar-se, com a necessária antecedência e o mais possível, do limite esquerdo da faixa de rodagem ou do eixo desta, consoante a via esteja afeta a um ou a ambos os sentidos de trânsito, e efetuar a manobra de modo a entrar na via que pretende tomar pelo lado destinado ao seu sentido de circulação.
 
@@ -2890,9 +3354,13 @@ Nos casos previstos no n.º 2 do artigo 14.º, no artigo 14.º-A e no artigo 15.
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
 
-##### SUBSECÇÃO IV — Inversão do sentido de marcha
+SUBSECÇÃO IV
 
-###### Artigo 45.º — Lugares em que é proibida
+Inversão do sentido de marcha
+
+Artigo 45.º
+
+Lugares em que é proibida
 
 1 - É proibido inverter o sentido de marcha:
 
@@ -2908,15 +3376,21 @@ e) Sempre que se verifique grande intensidade de trânsito.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.
 
-##### SUBSECÇÃO V — Marcha atrás
+SUBSECÇÃO V
 
-###### Artigo 46.º — Realização da manobra
+Marcha atrás
+
+Artigo 46.º
+
+Realização da manobra
 
 1 - A marcha atrás só é permitida como manobra auxiliar ou de recurso e deve efetuar-se lentamente e no menor trajeto possível.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 47.º — Lugares em que é proibida
+Artigo 47.º
+
+Lugares em que é proibida
 
 1 - Sem prejuízo do disposto no n.º 2 do artigo 33.º para o cruzamento de veículos, a marcha atrás é proibida:
 
@@ -2932,9 +3406,13 @@ e) Sempre que se verifique grande intensidade de trânsito.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.
 
-##### SUBSECÇÃO VI — Paragem e estacionamento
+SUBSECÇÃO VI
 
-###### Artigo 48.º — Como devem efetuar-se
+Paragem e estacionamento
+
+Artigo 48.º
+
+Como devem efetuar-se
 
 1 - Considera-se paragem a imobilização de um veículo pelo tempo estritamente necessário para a entrada ou saída de passageiros ou para breves operações de carga ou descarga, desde que o condutor esteja pronto a retomar a marcha e o faça sempre que estiver a impedir ou a dificultar a passagem de outros veículos.
 
@@ -2948,7 +3426,9 @@ e) Sempre que se verifique grande intensidade de trânsito.
 
 6 - Quem infringir o disposto nos n.os 4 e 5 é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 49.º — Proibição de paragem ou estacionamento
+Artigo 49.º
+
+Proibição de paragem ou estacionamento
 
 1 - É proibido parar ou estacionar:
 
@@ -2978,7 +3458,9 @@ c) Parar na faixa de rodagem, salvo nas condições previstas no n.º 3 do artig
 
 4 - Quem infringir o disposto no n.º 2 é sancionado com coima de (euro) 60 a (euro) 300, salvo se se tratar de estacionamento de noite nas faixas de rodagem, caso em que a coima é de (euro) 250 a (euro) 1250.
 
-###### Artigo 50.º — Proibição de estacionamento
+Artigo 50.º
+
+Proibição de estacionamento
 
 1 - É proibido o estacionamento:
 
@@ -3002,7 +3484,9 @@ i) De veículos ostentando qualquer informação com vista à sua transação, e
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 30 a (euro) 150, salvo se se tratar do disposto nas alíneas c), f) e i), casos em que a coima é de (euro) 60 a (euro) 300.
 
-###### Artigo 50.º-A — Proibição de pernoita e aparcamento de autocaravanas
+Artigo 50.º-A
+
+Proibição de pernoita e aparcamento de autocaravanas
 
 1 - Sem prejuízo do disposto nos artigos 49.º e 50.º, são proibidos a pernoita e o aparcamento de autocaravanas ou similares fora dos locais expressamente autorizados para o efeito.
 
@@ -3016,7 +3500,9 @@ c) «Pernoita», a permanência de autocaravana ou similar no local do estaciona
 
 3 - Quem infringir o disposto no n.º 1 é sancionado com coima de (euro) 60 a (euro) 300, salvo se se tratar de pernoita ou aparcamento em áreas da Rede Natura 2000 e áreas protegidas, caso em que a coima é de (euro) 120 a (euro) 600(euro).
 
-###### Artigo 51.º — Contagem das distâncias
+Artigo 51.º
+
+Contagem das distâncias
 
 As distâncias a que se referem as alíneas b) do n.º 1 e a) do n.º 2 do artigo 49.º contam-se:
 
@@ -3024,7 +3510,9 @@ a) Do início ou fim da curva ou lomba;
 
 b) Do prolongamento do limite mais próximo da faixa de rodagem transversal, nos restantes casos.
 
-###### Artigo 52.º — Paragem de veículos de transporte coletivo
+Artigo 52.º
+
+Paragem de veículos de transporte coletivo
 
 1 - Nas faixas de rodagem, o condutor de veículo utilizado no transporte coletivo de passageiros só pode parar para a entrada e saída de passageiros nos locais especialmente destinados a esse fim.
 
@@ -3032,9 +3520,13 @@ b) Do prolongamento do limite mais próximo da faixa de rodagem transversal, nos
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150.
 
-#### SECÇÃO VI — Transporte de pessoas e de carga
+SECÇÃO VI
 
-###### Artigo 53.º — Regras gerais
+Transporte de pessoas e de carga
+
+Artigo 53.º
+
+Regras gerais
 
 1 - É proibido entrar, sair, carregar, descarregar ou abrir as portas dos veículos sem que estes estejam completamente imobilizados.
 
@@ -3042,7 +3534,9 @@ b) Do prolongamento do limite mais próximo da faixa de rodagem transversal, nos
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 54.º — Transporte de pessoas
+Artigo 54.º
+
+Transporte de pessoas
 
 1 - As pessoas devem entrar e sair pelo lado direito ou esquerdo do veículo, consoante este esteja parado ou estacionado à direita ou à esquerda da faixa de rodagem.
 
@@ -3062,7 +3556,9 @@ c) Os casos especialmente previstos em regulamentos locais, para os veículos de
 
 6 - Quem infringir o disposto nos n.os 3 e 4 é sancionado com coima de (euro) 60 a (euro) 300, aplicável por cada pessoa transportada indevidamente, devendo o veículo ficar imobilizado até que a situação seja regularizada.
 
-###### Artigo 55.º — Transporte de crianças em automóvel
+Artigo 55.º
+
+Transporte de crianças em automóvel
 
 1 - As crianças com menos de 12 anos de idade transportadas em automóveis equipados com cintos de segurança, desde que tenham altura inferior a 135 cm, devem ser seguras por sistema de retenção homologado e adaptado ao seu tamanho e peso.
 
@@ -3080,7 +3576,9 @@ b) Se a criança tiver idade igual ou superior a 3 anos e o automóvel não disp
 
 6 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600 por cada criança transportada indevidamente.
 
-###### Artigo 56.º — Transporte de carga
+Artigo 56.º
+
+Transporte de carga
 
 1 - A carga e a descarga devem ser feitas pela retaguarda ou pelo lado da faixa de rodagem junto de cujo limite o veículo esteja parado ou estacionado.
 
@@ -3114,15 +3612,21 @@ j) Sejam utilizadas obrigatoriamente cintas de retenção ou dispositivo análog
 
 6 - Quem infringir o disposto no n.º 3 é sancionado com coima de (euro) 120 a (euro) 600, se sanção mais grave não for aplicável, podendo ser determinada a imobilização do veículo ou a sua deslocação para local apropriado, até que a situação se encontre regularizada.
 
-#### SECÇÃO VII — Limites de peso e dimensão dos veículos
+SECÇÃO VII
 
-###### Artigo 57.º — Proibição de trânsito
+Limites de peso e dimensão dos veículos
+
+Artigo 57.º
+
+Proibição de trânsito
 
 1 - Não podem transitar nas vias públicas os veículos cujos pesos brutos, pesos por eixo ou dimensões excedam os limites gerais fixados em regulamento.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 600 a (euro) 3000.
 
-###### Artigo 58.º — Autorização especial
+Artigo 58.º
+
+Autorização especial
 
 1 - Nas condições fixadas em regulamento, pode ser permitido pela entidade competente o trânsito de veículos de peso ou dimensões superiores aos legalmente fixados ou que transportem objetos indivisíveis que excedam os limites da respetiva caixa.
 
@@ -3140,9 +3644,13 @@ j) Sejam utilizadas obrigatoriamente cintas de retenção ou dispositivo análog
 
 8 - Nos casos previstos nos n.os 6 e 7 pode ser determinada a imobilização do veículo ou a sua deslocação para local apropriado até que a situação se encontre regularizada.
 
-#### SECÇÃO VIII — Iluminação
+SECÇÃO VIII
 
-###### Artigo 59.º — Regras gerais
+Iluminação
+
+Artigo 59.º
+
+Regras gerais
 
 1 - Os dispositivos de iluminação de sinalização luminosa e os refletores que devem equipar os veículos, bem como as respetivas características, são fixados em regulamento.
 
@@ -3170,7 +3678,9 @@ b) Puser em circulação veículo utilizando refletores não previstos no mesmo 
 
 c) Sem prejuízo do disposto no n.º 2 do artigo 62.º, conduzir veículo com avaria em algum ou alguns dos dispositivos previstos no n.º 1.
 
-###### Artigo 60.º — Utilização de luzes
+Artigo 60.º
+
+Utilização de luzes
 
 1 - Os dispositivos de iluminação a utilizar pelos condutores são os seguintes:
 
@@ -3194,7 +3704,9 @@ d) Luz de travagem, destinada a indicar aos outros utentes o acionamento do trav
 
 e) Luz de nevoeiro da retaguarda, destinada a tornar mais visível o veículo em caso de nevoeiro intenso ou de outras situações de redução significativa de visibilidade.
 
-###### Artigo 61.º — Condições de utilização das luzes
+Artigo 61.º
+
+Condições de utilização das luzes
 
 1 - Desde o anoitecer ao amanhecer e, ainda, durante o dia sempre que existam condições meteorológicas ou ambientais que tornem a visibilidade insuficiente, nomeadamente em caso de nevoeiro, chuva intensa, queda de neve, nuvens de fumo ou pó, os condutores devem utilizar as seguintes luzes:
 
@@ -3216,7 +3728,9 @@ d) De nevoeiro, sempre que as condições meteorológicas ou ambientais o imponh
 
 6 - Quem utilizar os máximos no cruzamento com outros veículos, pessoas ou animais ou quando o veículo transite a menos de 100 m daquele que o precede ou ainda durante a paragem ou detenção da marcha do veículo é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 62.º — Avaria nas luzes
+Artigo 62.º
+
+Avaria nas luzes
 
 1 - Sempre que, nos termos do n.º 1 do artigo anterior, seja obrigatória a utilização de dispositivos de iluminação e de sinalização luminosa, é proibido o trânsito de veículos com avaria dos dispositivos referidos na alínea b) do n.º 1 e no n.º 2 do artigo 60.º, salvo o disposto no número seguinte.
 
@@ -3230,7 +3744,9 @@ b) Luzes avisadoras de perigo, caso em que apenas podem transitar pelo tempo est
 
 4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300, devendo o documento de identificação do veículo ser apreendido nos termos e para os efeitos previstos na alínea f) do n.º 1 e no n.º 6 do artigo 161.º
 
-###### Artigo 63.º — Sinalização de perigo
+Artigo 63.º
+
+Sinalização de perigo
 
 1 - Quando o veículo represente um perigo especial para os outros utentes da via devem ser utilizadas as luzes avisadoras de perigo.
 
@@ -3246,9 +3762,13 @@ b) Quando o veículo esteja a ser rebocado.
 
 5 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
 
-#### SECÇÃO IX — Serviço de urgência e transportes especiais
+SECÇÃO IX
 
-###### Artigo 64.º — Trânsito de veículos em serviço de urgência
+Serviço de urgência e transportes especiais
+
+Artigo 64.º
+
+Trânsito de veículos em serviço de urgência
 
 1 - Os condutores de veículos que transitem em missão de polícia, de prestação de socorro, de segurança prisional ou de serviço urgente de interesse público assinalando adequadamente a sua marcha podem, quando a sua missão o exigir, deixar de observar as regras e os sinais de trânsito, mas devem respeitar as ordens dos agentes reguladores do trânsito.
 
@@ -3272,7 +3792,9 @@ b) Durante o dia, utilizando repetidamente os sinais sonoros.
 
 7 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 65.º — Cedência de passagem
+Artigo 65.º
+
+Cedência de passagem
 
 1 - Sem prejuízo do disposto na alínea b) do n.º 1 e no n.º 2 do artigo 31.º, qualquer condutor deve ceder a passagem aos condutores dos veículos referidos no artigo anterior.
 
@@ -3286,15 +3808,23 @@ b) As autoestradas e vias reservadas a automóveis e motociclos, nas quais os co
 
 4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 66.º — Trânsito de veículos que efetuam transportes especiais
+Artigo 66.º
+
+Trânsito de veículos que efetuam transportes especiais
 
 O trânsito, paragem e estacionamento nas vias públicas de veículos que transportem cargas que pela sua natureza ou outras características o justifiquem pode ser condicionado por regulamento.
 
-#### SECÇÃO X — Trânsito em certas vias ou troços
+SECÇÃO X
 
-##### SUBSECÇÃO I — Trânsito nas passagens de nível
+Trânsito em certas vias ou troços
 
-###### Artigo 67.º — Atravessamento
+SUBSECÇÃO I
+
+Trânsito nas passagens de nível
+
+Artigo 67.º
+
+Atravessamento
 
 1 - O condutor só pode iniciar o atravessamento de uma passagem de nível, ainda que a sinalização lho permita, depois de se certificar de que a intensidade do trânsito não o obriga a imobilizar o veículo sobre ela.
 
@@ -3308,15 +3838,21 @@ b) Quando as instruções dos agentes ferroviários ou a sinalização existente
 
 4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 68.º — Imobilização forçada de veículo ou animal
+Artigo 68.º
+
+Imobilização forçada de veículo ou animal
 
 1 - Em caso de imobilização forçada de veículo ou animal ou de queda da respetiva carga numa passagem de nível, o respetivo condutor deve promover a sua imediata remoção ou, não sendo esta possível, tomar as medidas necessárias para que os condutores dos veículos ferroviários que se aproximem possam aperceber-se da presença do obstáculo.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.
 
-##### SUBSECÇÃO II — Trânsito nos cruzamentos e entroncamentos
+SUBSECÇÃO II
 
-###### Artigo 69.º — Atravessamento
+Trânsito nos cruzamentos e entroncamentos
+
+Artigo 69.º
+
+Atravessamento
 
 1 - O condutor não deve entrar num cruzamento ou entroncamento, ainda que as regras de cedência de passagem ou a sinalização luminosa lho permitam, se for previsível que, tendo em conta a intensidade do trânsito, fique nele imobilizado, perturbando a circulação transversal.
 
@@ -3324,9 +3860,13 @@ b) Quando as instruções dos agentes ferroviários ou a sinalização existente
 
 3 - Quem infringir o disposto no n.º 1 é sancionado com coima de (euro) 30 a (euro) 150.
 
-##### SUBSECÇÃO III — Parques e zonas de estacionamento
+SUBSECÇÃO III
 
-###### Artigo 70.º — Regras gerais
+Parques e zonas de estacionamento
+
+Artigo 70.º
+
+Regras gerais
 
 1 - Nos locais da via pública especialmente destinados ao estacionamento, quando devidamente assinalados, os condutores não podem transitar ou atravessar as linhas de demarcação neles existentes para fins diversos do estacionamento.
 
@@ -3336,7 +3876,9 @@ b) Quando as instruções dos agentes ferroviários ou a sinalização existente
 
 4 - Quem infringir o disposto no n.º 1 é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 71.º — Estacionamento proibido
+Artigo 71.º
+
+Estacionamento proibido
 
 1 - Nos parques e zonas de estacionamento é proibido estacionar:
 
@@ -3354,9 +3896,13 @@ a) (euro) 30 a (euro) 150, se se tratar do disposto nas alíneas b) e d);
 
 b) (euro) 60 a (euro) 300, se se tratar do disposto nas alíneas a) e c).
 
-##### SUBSECÇÃO IV — Trânsito nas autoestradas e vias equiparadas
+SUBSECÇÃO IV
 
-###### Artigo 72.º — Autoestradas
+Trânsito nas autoestradas e vias equiparadas
+
+Artigo 72.º
+
+Autoestradas
 
 1 - Nas autoestradas e respetivos acessos, quando devidamente sinalizados, é proibido o trânsito de peões, animais, veículos de tração animal, velocípedes, ciclomotores, motociclos e triciclos de cilindrada não superior a 50 cm3, quadriciclos, veículos agrícolas, comboios turísticos, bem como de veículos ou conjuntos de veículos insuscetíveis de atingir em patamar velocidade superior a 60 km/h ou aos quais tenha sido fixada velocidade máxima igual ou inferior àquele valor.
 
@@ -3376,7 +3922,9 @@ e) Transpor os separadores de trânsito ou as aberturas neles existentes.
 
 4 - Quem circular em sentido oposto ao legalmente estabelecido ou infringir o disposto nas alíneas c) a e) do n.º 2 é sancionado com coima de (euro) 500 a (euro) 2500, se sanção mais grave não for aplicável por força de outra disposição legal.
 
-###### Artigo 73.º — Entrada e saída das autoestradas
+Artigo 73.º
+
+Entrada e saída das autoestradas
 
 1 - A entrada e saída das autoestradas faz-se unicamente pelos acessos a tal fim destinados.
 
@@ -3386,25 +3934,35 @@ e) Transpor os separadores de trânsito ou as aberturas neles existentes.
 
 4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 250 a (euro) 1250.
 
-###### Artigo 74.º — Trânsito de veículos pesados de mercadorias ou conjuntos de veículos
+Artigo 74.º
+
+Trânsito de veículos pesados de mercadorias ou conjuntos de veículos
 
 1 - Nas autoestradas ou troços de autoestradas com três ou mais vias de trânsito afetas ao mesmo sentido, os condutores de veículos pesados de mercadorias ou conjuntos de veículos cujo comprimento exceda 7 m só podem utilizar as duas vias de trânsito mais à direita.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 75.º — Vias reservadas a automóveis e motociclos
+Artigo 75.º
+
+Vias reservadas a automóveis e motociclos
 
 É aplicável o disposto na presente subsecção ao trânsito em vias reservadas a automóveis e motociclos.
 
-##### SUBSECÇÃO V — Vias reservadas, corredores de circulação e pistas especiais
+SUBSECÇÃO V
 
-###### Artigo 76.º — Vias reservadas
+Vias reservadas, corredores de circulação e pistas especiais
+
+Artigo 76.º
+
+Vias reservadas
 
 1 - As faixas de rodagem das vias públicas podem, mediante sinalização, ser reservadas ao trânsito de veículos de certas espécies ou a veículos destinados a determinados transportes, sendo proibida a sua utilização pelos condutores de quaisquer outros.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 77.º — Vias de trânsito reservadas
+Artigo 77.º
+
+Vias de trânsito reservadas
 
 1 - Pode ser reservada a utilização de uma ou mais vias de trânsito à circulação de veículos de certas espécies ou afetos a determinados transportes, sendo proibida a sua utilização pelos condutores de quaisquer outros veículos.
 
@@ -3420,7 +3978,9 @@ b) A classe ou classes de veículos autorizadas a circular em cada via, nomeadam
 
 5 - Quem infringir o disposto no n.º 1 é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 78.º — Pistas especiais
+Artigo 78.º
+
+Pistas especiais
 
 1 - Quando existam pistas especialmente destinadas a animais ou veículos de certas espécies, o trânsito destes deve fazer-se preferencialmente por aquelas pistas.
 
@@ -3434,7 +3994,9 @@ b) A classe ou classes de veículos autorizadas a circular em cada via, nomeadam
 
 6 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150, salvo se se tratar do n.º 4, caso em que a coima é de (euro) 10 a (euro) 50.
 
-###### Artigo 78.º-A — Zonas de coexistência
+Artigo 78.º-A
+
+Zonas de coexistência
 
 1 - Numa zona de coexistência devem ser observadas as seguintes regras:
 
@@ -3456,9 +4018,13 @@ f) O condutor que saia de uma zona residencial ou de coexistência deve ceder pa
 
 4 - Quem infringir o disposto na alínea f) do n.º 1 é sancionado com coima de (euro) 120 a (euro) 600.
 
-#### SECÇÃO XI — Poluição
+SECÇÃO XI
 
-###### Artigo 79.º — Poluição do solo e do ar
+Poluição
+
+Artigo 79.º
+
+Poluição do solo e do ar
 
 1 - É proibido o trânsito de veículos a motor que emitam fumos ou gases em quantidade superior à fixada em regulamento ou que derramem óleo ou quaisquer outras substâncias.
 
@@ -3468,7 +4034,9 @@ f) O condutor que saia de uma zona residencial ou de coexistência deve ceder pa
 
 4 - Quem infringir o disposto no n.º 2 é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 80.º — Poluição sonora
+Artigo 80.º
+
+Poluição sonora
 
 1 - A condução de veículos e as operações de carga e descarga devem fazer-se de modo a evitar ruídos incómodos.
 
@@ -3482,9 +4050,13 @@ f) O condutor que saia de uma zona residencial ou de coexistência deve ceder pa
 
 6 - Quem infringir o disposto nos n.os 2 e 3 é sancionado com coima de (euro) 60 a (euro) 300, se sanção mais grave não for aplicável por força de outro diploma legal.
 
-#### SECÇÃO XII — Regras especiais de segurança
+SECÇÃO XII
 
-###### Artigo 81.º — Condução sob influência de álcool ou de substâncias psicotrópicas
+Regras especiais de segurança
+
+Artigo 81.º
+
+Condução sob influência de álcool ou de substâncias psicotrópicas
 
 1 - É proibido conduzir sob influência de álcool ou de substâncias psicotrópicas.
 
@@ -3504,7 +4076,9 @@ b) (euro) 500 a (euro) 2500, se a taxa for igual ou superior a 0,8 g/l e inferio
 
 7 - Os limites de 0,5 g/l e 0,8 g/l referidos no número anterior são reduzidos para 0,2 g/l e 0,5 g/l, respetivamente, para os condutores em regime probatório, condutores de veículos de socorro ou de serviço urgente, de transportes coletivo de crianças e jovens até aos 16 anos, de táxis, de TVDE, de automóveis pesados de passageiros ou de mercadorias ou de transporte de mercadorias perigosas.
 
-###### Artigo 82.º — Utilização de dispositivos de segurança
+Artigo 82.º
+
+Utilização de dispositivos de segurança
 
 1 - O condutor e passageiros transportados em veículos a motor são obrigados a usar cintos e demais dispositivos de segurança com que, por lei, os veículos estejam equipados.
 
@@ -3524,11 +4098,15 @@ b) O modo de utilização e características técnicas dos mesmos dispositivos.
 
 7 - Quem não utilizar ou utilizar incorretamente os dispositivos de segurança previstos no presente artigo é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 83.º — Condução profissional de veículos de transporte
+Artigo 83.º
+
+Condução profissional de veículos de transporte
 
 Por razões de segurança, podem ser definidos, para os condutores profissionais de veículos de transporte, os tempos de condução e descanso e, bem assim, pode ser exigida a presença de mais de uma pessoa habilitada para a condução de um mesmo veículo.
 
-###### Artigo 84.º — Proibição de utilização de certos aparelhos
+Artigo 84.º
+
+Proibição de utilização de certos aparelhos
 
 1 - É proibida ao condutor, durante a marcha do veículo, a utilização ou o manuseamento de forma continuada de qualquer tipo de equipamento ou aparelho suscetível de prejudicar a condução, designadamente auscultadores sonoros e aparelhos radiotelefónicos.
 
@@ -3544,9 +4122,13 @@ b) Os aparelhos utilizados durante o ensino da condução e respetivo exame, nos
 
 5 - Quem infringir o disposto no n.º 3 é sancionado com coima de (euro) 500 a (euro) 2500 e com perda dos objetos, devendo o agente de fiscalização proceder à sua imediata remoção e apreensão ou, não sendo ela possível, apreender o documento de identificação do veículo até à efetiva remoção e apreensão daqueles objetos, sendo, neste caso, aplicável o disposto no n.º 5 do artigo 161.º
 
-#### SECÇÃO XIII — Documentos
+SECÇÃO XIII
 
-###### Artigo 85.º — Documentos de que o condutor deve ser portador
+Documentos
+
+Artigo 85.º
+
+Documentos de que o condutor deve ser portador
 
 1 - Sempre que um veículo a motor transite na via pública o seu condutor deve ser portador dos seguintes documentos:
 
@@ -3586,15 +4168,21 @@ b) Registo por meios eletrónicos, quando o condutor os substitua nos termos do 
 
 8 - Quem, nos casos previstos no n.º 5 e na alínea b) do n.º 6, não entregar os documentos no prazo de cinco dias à autoridade indicada pelo agente de fiscalização é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 86.º — Prescrições especiais
+Artigo 86.º
+
+Prescrições especiais
 
 1 - O condutor a quem tenha sido averbado no seu título de condução o uso de lentes, próteses ou outros aparelhos deve usá-los durante a condução.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 60 a (euro) 300.
 
-#### SECÇÃO XIV — Comportamento em caso de avaria ou acidente
+SECÇÃO XIV
 
-###### Artigo 87.º — Imobilização forçada por avaria ou acidente
+Comportamento em caso de avaria ou acidente
+
+Artigo 87.º
+
+Imobilização forçada por avaria ou acidente
 
 1 - Em caso de imobilização forçada de um veículo em consequência de avaria ou acidente, o condutor deve proceder imediatamente ao seu regular estacionamento ou, não sendo isso viável, retirar o veículo da faixa de rodagem ou aproximá-lo o mais possível do limite direito desta e promover a sua rápida remoção da via pública.
 
@@ -3606,7 +4194,9 @@ b) Registo por meios eletrónicos, quando o condutor os substitua nos termos do 
 
 5 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300, ou com coima de (euro) 120 a (euro) 600 quando a infração for praticada em autoestrada ou via reservada a automóveis e motociclos, se outra sanção mais grave não for aplicável.
 
-###### Artigo 88.º — Pré-sinalização de perigo
+Artigo 88.º
+
+Pré-sinalização de perigo
 
 1 - Todos os veículos a motor em circulação, salvo os dotados apenas de duas ou três rodas, os motocultivadores e os quadriciclos sem caixa, devem estar equipados com um sinal de pré-sinalização de perigo e um colete, ambos retrorrefletores e de modelo oficialmente aprovado.
 
@@ -3624,7 +4214,9 @@ b) Registo por meios eletrónicos, quando o condutor os substitua nos termos do 
 
 8 - A quem infringir simultaneamente o disposto nos n.os 1 e 4 são levantados dois autos de contraordenação, para os efeitos previstos nos n.os 6 e 7.
 
-###### Artigo 89.º — Identificação em caso de acidente
+Artigo 89.º
+
+Identificação em caso de acidente
 
 1 - O condutor interveniente em acidente deve fornecer aos restantes intervenientes a sua identificação, a do proprietário do veículo e a da seguradora, bem como o número da apólice, exibindo, quando solicitado, os documentos comprovativos ou os dados dos documentos disponibilizados nos termos do n.º 1 do artigo 4.º-A da [Lei n.º 37/2014](https://diariodarepublica.pt/dr/detalhe/lei/37-2014-25345579), de 26 de junho, na sua redação atual.
 
@@ -3634,11 +4226,17 @@ b) Registo por meios eletrónicos, quando o condutor os substitua nos termos do 
 
 4 - Quem infringir o disposto no n.º 2 é sancionado com coima de (euro) 500 a (euro) 2500, se sanção mais grave não for aplicável.
 
-### CAPÍTULO II — Disposições especiais para motociclos, ciclomotores e velocípedes
+CAPÍTULO II
 
-#### SECÇÃO I — Regras especiais
+Disposições especiais para motociclos, ciclomotores e velocípedes
 
-###### Artigo 90.º — Regras de condução
+SECÇÃO I
+
+Regras especiais
+
+Artigo 90.º
+
+Regras de condução
 
 1 - Sem prejuízo do disposto no n.º 2, os condutores de motociclos, ciclomotores ou velocípedes não podem:
 
@@ -3658,9 +4256,13 @@ e) Seguir a par, salvo se transitarem em pista especial e não causarem perigo o
 
 4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300, salvo se se tratar de condutor de velocípede, caso em que a coima é de (euro) 30 a (euro) 150.
 
-#### SECÇÃO II — Transporte de passageiros e de carga
+SECÇÃO II
 
-###### Artigo 91.º — Transporte de passageiros
+Transporte de passageiros e de carga
+
+Artigo 91.º
+
+Transporte de passageiros
 
 1 - Nos motociclos, triciclos, quadriciclos e ciclomotores é proibido o transporte de passageiros de idade inferior a 7 anos, salvo tratando-se de veículos providos de caixa rígida não destinada apenas ao transporte de carga.
 
@@ -3676,7 +4278,9 @@ c) Se tratar do transporte de crianças com idade inferior a 7 anos, em disposit
 
 4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 92.º — Transporte de carga
+Artigo 92.º
+
+Transporte de carga
 
 1 - O transporte de carga em motociclo, triciclo, quadriciclo, ciclomotor ou velocípede só pode fazer-se em reboque ou caixa de carga.
 
@@ -3684,9 +4288,13 @@ c) Se tratar do transporte de crianças com idade inferior a 7 anos, em disposit
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
 
-#### SECÇÃO III — Iluminação
+SECÇÃO III
 
-###### Artigo 93.º — Utilização das luzes
+Iluminação
+
+Artigo 93.º
+
+Utilização das luzes
 
 1 - [Revogado.]
 
@@ -3696,7 +4304,9 @@ c) Se tratar do transporte de crianças com idade inferior a 7 anos, em disposit
 
 4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300, salvo se se tratar de condutor de velocípede, caso em que a coima é de (euro) 30 a (euro) 150.
 
-###### Artigo 94.º — Avaria nas luzes
+Artigo 94.º
+
+Avaria nas luzes
 
 1 - Em caso de avaria nas luzes de motociclos, triciclos, quadriciclos e ciclomotores é aplicável, com as necessárias adaptações, o disposto no artigo 62.º
 
@@ -3704,19 +4314,29 @@ c) Se tratar do transporte de crianças com idade inferior a 7 anos, em disposit
 
 3 - Quem infringir o disposto no n.º 2 é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 95.º — Sinalização de perigo
+Artigo 95.º
+
+Sinalização de perigo
 
 É aplicável aos motociclos, triciclos, quadriciclos e ciclomotores, quando estejam munidos de luzes de mudança de direção, o disposto no artigo 63.º, com as necessárias adaptações.
 
-#### SECÇÃO IV — Sanções aplicáveis a condutores de velocípedes
+SECÇÃO IV
 
-###### Artigo 96.º — Remissão
+Sanções aplicáveis a condutores de velocípedes
+
+Artigo 96.º
+
+Remissão
 
 As coimas previstas no presente Código são reduzidas para metade nos seus limites mínimo e máximo quando aplicáveis aos condutores de velocípedes, salvo quando se trate de coimas especificamente fixadas para estes condutores.
 
-### CAPÍTULO III — Disposições especiais para veículos de tração animal e animais
+CAPÍTULO III
 
-###### Artigo 97.º — Regras especiais
+Disposições especiais para veículos de tração animal e animais
+
+Artigo 97.º
+
+Regras especiais
 
 1 - Os condutores de veículos de tração animal ou de animais devem conduzi-los de modo a manter sempre o domínio sobre a sua marcha e a evitar impedimento ou perigo para o trânsito.
 
@@ -3730,13 +4350,19 @@ As coimas previstas no presente Código são reduzidas para metade nos seus limi
 
 6 - O proprietário de animal que o deixe vaguear na via pública por forma a impedir ou fazer perigar o trânsito é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 98.º — Regulamentação local
+Artigo 98.º
+
+Regulamentação local
 
 Em tudo o que não estiver previsto no presente Código, o trânsito de veículos de tração animal e de animais é objeto de regulamento local.
 
-## TÍTULO III — Do trânsito de peões
+TÍTULO III
 
-###### Artigo 99.º — Lugares em que podem transitar
+Do trânsito de peões
+
+Artigo 99.º
+
+Lugares em que podem transitar
 
 1 - Os peões devem transitar pelos passeios, pistas ou passagens a eles destinados ou, na sua falta, pelas bermas.
 
@@ -3760,7 +4386,9 @@ e) Quando sigam em formação organizada sob a orientação de um monitor ou em 
 
 6 - Quem, com violação dos deveres de cuidado e de proteção, não impedir que os menores de 16 anos que, por qualquer título, se encontrem a seu cargo brinquem nas faixas de rodagem das vias públicas é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 100.º — Posição a ocupar na via
+Artigo 100.º
+
+Posição a ocupar na via
 
 1 - Os peões devem transitar pela direita dos locais que lhes são destinados, salvo nos casos previstos na alínea d) do n.º 2 do artigo anterior.
 
@@ -3770,7 +4398,9 @@ e) Quando sigam em formação organizada sob a orientação de um monitor ou em 
 
 4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 10 a (euro) 50.
 
-###### Artigo 101.º — Atravessamento da faixa de rodagem
+Artigo 101.º
+
+Atravessamento da faixa de rodagem
 
 1 - Os peões não podem atravessar a faixa de rodagem sem previamente se certificarem de que, tendo em conta a distância que os separa dos veículos que nela transitam e a respetiva velocidade, o podem fazer sem perigo de acidente.
 
@@ -3782,13 +4412,17 @@ e) Quando sigam em formação organizada sob a orientação de um monitor ou em 
 
 5 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 10 a (euro) 50.
 
-###### Artigo 102.º — Iluminação de cortejos e formações organizadas
+Artigo 102.º
+
+Iluminação de cortejos e formações organizadas
 
 1 - Sempre que transitem na faixa de rodagem desde o anoitecer ao amanhecer e sempre que as condições de visibilidade o aconselhem, os cortejos e formações organizadas devem assinalar a sua presença com, pelo menos, uma luz branca dirigida para a frente e uma luz vermelha dirigida para a retaguarda, ambas do lado esquerdo do cortejo ou formação, bem como através da utilização de, pelo menos, dois coletes retrorrefletores, um no início e outro no fim da formação.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 103.º — Cuidados a observar pelos condutores
+Artigo 103.º
+
+Cuidados a observar pelos condutores
 
 1 - Ao aproximar-se de uma passagem de peões ou velocípedes assinalada, em que a circulação de veículos está regulada por sinalização luminosa, o condutor, mesmo que a sinalização lhe permita avançar, deve deixar passar os peões ou os velocípedes que já tenham iniciado a travessia da faixa de rodagem.
 
@@ -3798,7 +4432,9 @@ e) Quando sigam em formação organizada sob a orientação de um monitor ou em 
 
 4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 104.º — Equiparação
+Artigo 104.º
+
+Equiparação
 
 É equiparado ao trânsito de peões:
 
@@ -3814,15 +4450,23 @@ e) O trânsito de cadeiras de rodas equipadas com motor elétrico;
 
 f) A condução à mão de motocultivadores sem reboque ou retrotrem.
 
-## TÍTULO IV — Dos veículos
+TÍTULO IV
 
-### CAPÍTULO I — Classificação dos veículos
+Dos veículos
 
-###### Artigo 105.º — Automóveis
+CAPÍTULO I
+
+Classificação dos veículos
+
+Artigo 105.º
+
+Automóveis
 
 Automóvel é o veículo com motor de propulsão, dotado de pelo menos quatro rodas, com tara superior a 550 kg, cuja velocidade máxima é, por construção, superior a 25 km/h, e que se destina, pela sua função, a transitar na via pública, sem sujeição a carris.
 
-###### Artigo 106.º — Classes e tipos de automóveis
+Artigo 106.º
+
+Classes e tipos de automóveis
 
 1 - Os automóveis classificam-se em:
 
@@ -3840,7 +4484,9 @@ b) De mercadorias - os veículos que se destinam ao transporte de carga.
 
 4 - As categorias de veículos para efeitos de aprovação de modelo são fixadas em regulamento.
 
-###### Artigo 107.º — Motociclos, ciclomotores, triciclos e quadriciclos
+Artigo 107.º
+
+Motociclos, ciclomotores, triciclos e quadriciclos
 
 1 - Motociclo é o veículo dotado de duas rodas, com ou sem carro lateral, com motor de propulsão com cilindrada superior a 50 cm3, no caso de motor de combustão interna, ou que, por construção, exceda em patamar a velocidade de 45 km/h ou cuja potência máxima exceda 4 kW.
 
@@ -3858,7 +4504,9 @@ a) Ligeiro - veículo com velocidade máxima, em patamar e por construção, nã
 
 b) Pesado - veículo cuja massa sem carga, excluída a massa das baterias no caso de veículos elétricos, não exceda 450 kg ou 600 kg, consoante se destine, respetivamente, ao transporte de passageiros ou de mercadorias.
 
-###### Artigo 108.º — Veículos agrícolas
+Artigo 108.º
+
+Veículos agrícolas
 
 1 - Trator agrícola ou florestal é o veículo com motor de propulsão, de dois ou mais eixos, cuja função principal reside na potência de tração, especialmente concebido para ser utilizado com reboques, alfaias ou outras máquinas destinadas a utilização agrícola ou florestal.
 
@@ -3870,13 +4518,17 @@ b) Pesado - veículo cuja massa sem carga, excluída a massa das baterias no cas
 
 5 - Tratocarro é o veículo com motor de propulsão, de dois ou mais eixos, provido de uma caixa de carga destinada ao transporte de produtos agrícolas ou florestais e cujo peso bruto não ultrapassa 3500 kg, sendo equiparado, para efeitos de circulação, a trator agrícola.
 
-###### Artigo 109.º — Outros veículos a motor
+Artigo 109.º
+
+Outros veículos a motor
 
 1 - Veículo sobre carris é aquele que, independentemente do sistema de propulsão, se desloca sobre carris.
 
 2 - Máquina industrial é o veículo com motor de propulsão, de dois ou mais eixos, destinado à execução de obras ou trabalhos industriais e que só eventualmente transita na via pública, sendo pesado ou ligeiro consoante o seu peso bruto exceda ou não 3500 kg.
 
-###### Artigo 110.º — Reboques
+Artigo 110.º
+
+Reboques
 
 1 - Reboque é o veículo destinado a transitar atrelado a um veículo a motor.
 
@@ -3896,7 +4548,9 @@ b) Pesado - veículo cuja massa sem carga, excluída a massa das baterias no cas
 
 9 - Quem infringir o disposto nos n.os 6 e 7 é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 111.º — Veículos únicos e conjuntos de veículos
+Artigo 111.º
+
+Veículos únicos e conjuntos de veículos
 
 1 - Consideram-se veículos únicos:
 
@@ -3908,7 +4562,9 @@ b) O comboio turístico constituído por um trator e um ou mais reboques destina
 
 3 - Para efeitos de circulação, o conjunto de veículos é equiparado a veículo único.
 
-###### Artigo 112.º — Velocípedes
+Artigo 112.º
+
+Velocípedes
 
 1 - Velocípede é o veículo com duas ou mais rodas acionado pelo esforço do próprio condutor por meio de pedais ou dispositivos análogos.
 
@@ -3930,7 +4586,9 @@ b) As trotinetas com motor elétrico, bem como os dispositivos de circulação c
 
 8 - O disposto nos n.os 6 e 7 é aplicável aos velocípedes que estejam equipados com motor auxiliar com potência máxima contínua superior a 1,0 kW ou cuja alimentação não seja interrompida se se deixar de pedalar ou cuja velocidade máxima seja superior a 25 km/h.
 
-###### Artigo 113.º — Reboque de veículos de duas rodas e carro lateral
+Artigo 113.º
+
+Reboque de veículos de duas rodas e carro lateral
 
 1 - Os motociclos, triciclos, quadriciclos, ciclomotores e velocípedes podem atrelar, à retaguarda, um reboque de um eixo destinado ao transporte de carga.
 
@@ -3940,9 +4598,13 @@ b) As trotinetas com motor elétrico, bem como os dispositivos de circulação c
 
 4 - Os motociclos de cilindrada superior a 125 cm3 podem acoplar carro lateral destinado ao transporte de um passageiro.
 
-### CAPÍTULO II — Características dos veículos
+CAPÍTULO II
 
-###### Artigo 114.º — Características dos veículos
+Características dos veículos
+
+Artigo 114.º
+
+Características dos veículos
 
 1 - As características dos veículos e dos respetivos sistemas, componentes e acessórios são fixadas em regulamento.
 
@@ -3956,7 +4618,9 @@ b) As trotinetas com motor elétrico, bem como os dispositivos de circulação c
 
 6 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 250 a (euro) 1250, sendo ainda apreendido o veículo até que este seja aprovado em inspeção extraordinária.
 
-###### Artigo 115.º — Transformação de veículos
+Artigo 115.º
+
+Transformação de veículos
 
 1 - Considera-se transformação de veículo qualquer alteração das suas características construtivas ou funcionais.
 
@@ -3964,9 +4628,13 @@ b) As trotinetas com motor elétrico, bem como os dispositivos de circulação c
 
 3 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 250 a (euro) 1250, se sanção mais grave não for aplicável, sendo ainda apreendido o veículo até que este seja aprovado em inspeção extraordinária.
 
-### CAPÍTULO III — Inspeções
+CAPÍTULO III
 
-###### Artigo 116.º — Inspeções
+Inspeções
+
+Artigo 116.º
+
+Inspeções
 
 1 - Os veículos a motor e os seus reboques podem ser sujeitos, nos termos fixados em regulamento, a inspeção para:
 
@@ -3986,9 +4654,13 @@ f) Controlo aleatório de natureza técnica, na via pública, para verificação
 
 3 - A falta a qualquer das inspeções previstas nos números anteriores é sancionada com coima de (euro) 250 a (euro) 1250.
 
-### CAPÍTULO IV — Matrícula
+CAPÍTULO IV
 
-###### Artigo 117.º — Obrigatoriedade de matrícula
+Matrícula
+
+Artigo 117.º
+
+Obrigatoriedade de matrícula
 
 1 - Os veículos a motor e os seus reboques só são admitidos em circulação desde que matriculados, salvo o disposto nos n.os 2 e 3.
 
@@ -4006,7 +4678,9 @@ f) Controlo aleatório de natureza técnica, na via pública, para verificação
 
 8 - Quem puser em circulação veículo não matriculado nos termos dos números anteriores é sancionado com coima de (euro) 600 a (euro) 3000, salvo quando se tratar de ciclomotor ou veículo agrícola, casos em que a coima é de (euro) 300 a (euro) 1500.
 
-###### Artigo 118.º — Identificação do veículo
+Artigo 118.º
+
+Identificação do veículo
 
 1 - Por cada veículo matriculado deve ser emitido um documento destinado a certificar a respetiva matrícula, donde constem as características que o permitam identificar.
 
@@ -4030,7 +4704,9 @@ f) Controlo aleatório de natureza técnica, na via pública, para verificação
 
 11 - Quem infringir o disposto nos n.os 5 e 6 é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 119.º — Cancelamento da matrícula
+Artigo 119.º
+
+Cancelamento da matrícula
 
 1 - A matrícula de um veículo deve ser cancelada quando:
 
@@ -4080,7 +4756,9 @@ d) Quando o veículo deixe de ser utilizado na via pública, mediante apresenta�
 
 13 - Quem infringir o prazo previsto no n.º 4 é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 119.º-A — Cancelamento temporário de matrícula
+Artigo 119.º-A
+
+Cancelamento temporário de matrícula
 
 1 - Pode ser temporariamente cancelada a matrícula de veículos de transporte público rodoviário de mercadorias, nas seguintes condições:
 
@@ -4102,17 +4780,27 @@ b) De declaração do proprietário ou legítimo possuidor em como o veículo n�
 
 6 - Quando não ocorra a reposição ou o cancelamento definitivo da matrícula, após o decurso do prazo definido no número anterior, o proprietário do veículo é sancionado com coima de (euro) 60 a (euro) 300.
 
-### CAPÍTULO V — Regime especial
+CAPÍTULO V
 
-###### Artigo 120.º — Regime especial
+Regime especial
+
+Artigo 120.º
+
+Regime especial
 
 O disposto no presente título não é aplicável ao equipamento militar circulante ou de intervenção de ordem pública afeto às forças militares ou de segurança.
 
-## TÍTULO V — Da habilitação legal para conduzir
+TÍTULO V
 
-### CAPÍTULO I — Títulos de condução
+Da habilitação legal para conduzir
 
-###### Artigo 121.º — Habilitação legal para conduzir
+CAPÍTULO I
+
+Títulos de condução
+
+Artigo 121.º
+
+Habilitação legal para conduzir
 
 1 - Só pode conduzir um veículo a motor na via pública quem estiver legalmente habilitado para o efeito.
 
@@ -4142,7 +4830,9 @@ O disposto no presente título não é aplicável ao equipamento militar circula
 
 14 - O condutor que infringir algum dos deveres fixados no RHLC é sancionado com coima de (euro) 60 a (euro) 300, se sanção mais grave não for aplicável.
 
-###### Artigo 121.º-A — Atribuição de pontos
+Artigo 121.º-A
+
+Atribuição de pontos
 
 1 - A cada condutor são atribuídos doze pontos.
 
@@ -4150,7 +4840,9 @@ O disposto no presente título não é aplicável ao equipamento militar circula
 
 3 - Aos pontos atribuídos nos termos dos números anteriores pode ser acrescido um ponto, até ao limite máximo de dezasseis pontos, nas situações previstas no n.º 7 do artigo 148.º
 
-###### Artigo 122.º — Regime probatório
+Artigo 122.º
+
+Regime probatório
 
 1 - A carta de condução emitida a favor de quem ainda não se encontrava legalmente habilitado a conduzir qualquer categoria de veículos fica sujeita a regime probatório durante os três primeiros anos da sua validade.
 
@@ -4180,7 +4872,9 @@ O disposto no presente título não é aplicável ao equipamento militar circula
 
 14 - [Revogado.]
 
-###### Artigo 123.º — Carta de condução
+Artigo 123.º
+
+Carta de condução
 
 1 - A carta de condução habilita o seu titular a conduzir uma ou mais categorias de veículos e respetivos tipos fixadas no RHLC, sem prejuízo do estabelecido nas disposições relativas à homologação de veículos.
 
@@ -4216,9 +4910,13 @@ c) Com coima de (euro) 500 a (euro) 2500, se for apenas titular de carta de cond
 
 14 - [Revogado.]
 
-###### Artigo 124.º — [Revogado.]
+Artigo 124.º
 
-###### Artigo 125.º — Outros títulos
+[Revogado.]
+
+Artigo 125.º
+
+Outros títulos
 
 1 - Além da carta de condução são títulos habilitantes para a condução de veículos a motor os seguintes:
 
@@ -4254,13 +4952,19 @@ i) Licença de aprendizagem.
 
 8 - Quem infringir o disposto nos n.os 3 a 5, sendo titular de licença válida, é sancionado com coima de (euro) 300 a (euro) 1500.
 
-### CAPÍTULO II — Requisitos
+CAPÍTULO II
 
-###### Artigo 126.º — Requisitos para a obtenção de títulos de condução
+Requisitos
+
+Artigo 126.º
+
+Requisitos para a obtenção de títulos de condução
 
 Os requisitos exigidos para a obtenção dos títulos de condução são fixados no RHLC.
 
-###### Artigo 127.º — Restrições ao exercício da condução
+Artigo 127.º
+
+Restrições ao exercício da condução
 
 1 - Podem ser impostos aos condutores, em resultado de avaliação médica ou psicológica:
 
@@ -4280,9 +4984,13 @@ c) Adaptações específicas ao veículo que conduzam.
 
 6 - [Revogado.]
 
-### CAPÍTULO III — Troca de título
+CAPÍTULO III
 
-###### Artigo 128.º — Troca de títulos de condução
+Troca de título
+
+Artigo 128.º
+
+Troca de títulos de condução
 
 1 - A carta de condução pode ser obtida por troca de título estrangeiro válido, que não se encontre apreendido ou tenha sido cassado ou cancelado por determinação de um outro Estado.
 
@@ -4332,9 +5040,13 @@ e) Exista registo de prova prática realizada em território nacional, em data p
 
 10 - É aplicável o disposto nos números anteriores ao averbamento na carta de condução de categorias registadas em título estrangeiro.
 
-### CAPÍTULO IV — Novos exames e caducidade
+CAPÍTULO IV
 
-###### Artigo 129.º — Novos exames
+Novos exames e caducidade
+
+Artigo 129.º
+
+Novos exames
 
 1 - Surgindo fundadas dúvidas sobre a aptidão física, mental ou psicológica ou sobre a capacidade de um condutor ou candidato a condutor para conduzir com segurança, a autoridade competente determina que aquele seja submetido, singular ou cumulativamente, a avaliação médica, a avaliação psicológica, a novo exame de condução ou a qualquer das suas provas.
 
@@ -4350,7 +5062,9 @@ e) Exista registo de prova prática realizada em território nacional, em data p
 
 7 - Caso as entidades fiscalizadoras detetem condutores cujos comportamentos possam indiciar a falta de aptidão física, mental ou psicológica para conduzir com segurança devem elaborar relatório circunstanciado e remetê-lo à autoridade competente.
 
-###### Artigo 130.º — Caducidade dos títulos de condução
+Artigo 130.º
+
+Caducidade dos títulos de condução
 
 1 - O título de condução caduca se:
 
@@ -4394,23 +5108,35 @@ b) Os titulares do título caducado há mais de cinco anos.
 
 7 - Quem conduzir veículo com título caducado, nos termos previstos no n.º 1, é sancionado com coima de (euro) 120 a (euro) 600.
 
-## TÍTULO VI — Da responsabilidade
+TÍTULO VI
 
-### CAPÍTULO I — Disposições gerais
+Da responsabilidade
 
-###### Artigo 131.º — Âmbito
+CAPÍTULO I
+
+Disposições gerais
+
+Artigo 131.º
+
+Âmbito
 
 Constitui contraordenação rodoviária todo o facto ilícito e censurável que preencha um tipo legal correspondente à violação de norma do Código da Estrada ou de legislação complementar e legislação especial cuja aplicação esteja cometida à ANSR, e para o qual se comine uma coima.
 
-###### Artigo 132.º — Regime
+Artigo 132.º
+
+Regime
 
 As contraordenações rodoviárias são reguladas pelo disposto no presente diploma, pela legislação rodoviária complementar ou especial que as preveja e, subsidiariamente, pelo regime geral das contraordenações.
 
-###### Artigo 133.º — Punibilidade da negligência
+Artigo 133.º
+
+Punibilidade da negligência
 
 Nas contraordenações rodoviárias a negligência é sempre sancionada.
 
-###### Artigo 134.º — Concurso de infrações
+Artigo 134.º
+
+Concurso de infrações
 
 1 - Se o mesmo facto constituir simultaneamente crime e contraordenação, o agente é punido sempre a título de crime, sem prejuízo da aplicação da sanção acessória prevista para a contraordenação.
 
@@ -4418,7 +5144,9 @@ Nas contraordenações rodoviárias a negligência é sempre sancionada.
 
 3 - As sanções aplicadas às contraordenações em concurso são sempre cumuladas materialmente.
 
-###### Artigo 135.º — Responsabilidade pelas infrações
+Artigo 135.º
+
+Responsabilidade pelas infrações
 
 1 - São responsáveis pelas contraordenações rodoviárias os agentes que pratiquem os factos constitutivos das mesmas, designados em cada diploma legal, sem prejuízo das exceções e presunções expressamente previstas naqueles diplomas.
 
@@ -4454,7 +5182,9 @@ e) Os que facultem a utilização de veículos a pessoas que não estejam devida
 
 8 - O titular do documento de identificação do veículo ou, nos casos referidos pela alínea c) do n.º 3, o locatário responde subsidiariamente pelo pagamento das coimas e das custas que forem devidas pelo autor da contraordenação, sem prejuízo do direito de regresso contra este, quando haja utilização abusiva do veículo.
 
-###### Artigo 136.º — Classificação das contraordenações rodoviárias
+Artigo 136.º
+
+Classificação das contraordenações rodoviárias
 
 1 - As contraordenações rodoviárias, nomeadamente as previstas no Código da Estrada e legislação complementar, classificam-se em leves, graves e muito graves, nos termos dos respetivos diplomas legais.
 
@@ -4462,11 +5192,15 @@ e) Os que facultem a utilização de veículos a pessoas que não estejam devida
 
 3 - São contraordenações graves ou muito graves as que forem sancionáveis com coima e com sanção acessória.
 
-###### Artigo 137.º — Coima
+Artigo 137.º
+
+Coima
 
 As coimas aplicadas por contraordenações rodoviárias não estão sujeitas a qualquer adicional e do seu produto não pode atribuir-se qualquer percentagem aos agentes autuantes.
 
-###### Artigo 138.º — Sanção acessória
+Artigo 138.º
+
+Sanção acessória
 
 1 - As contraordenações graves e muito graves são sancionáveis com coima e com sanção acessória.
 
@@ -4478,7 +5212,9 @@ As coimas aplicadas por contraordenações rodoviárias não estão sujeitas a q
 
 5 - As sanções acessórias são cumpridas em dias seguidos.
 
-###### Artigo 139.º — Determinação da medida da sanção
+Artigo 139.º
+
+Determinação da medida da sanção
 
 1 - A medida e o regime de execução da sanção determinam-se em função da gravidade da contraordenação e da culpa, tendo ainda em conta os antecedentes do infrator relativamente ao diploma legal infringido ou aos seus regulamentos.
 
@@ -4486,11 +5222,15 @@ As coimas aplicadas por contraordenações rodoviárias não estão sujeitas a q
 
 3 - Quando a contraordenação for praticada no exercício da condução, além dos critérios referidos no número anterior, deve atender-se, como circunstância agravante, aos especiais deveres de cuidado que recaem sobre o condutor, designadamente quando este conduza veículos de socorro ou de serviço urgente, de transporte coletivo de crianças, táxis, de TVDE, pesados de passageiros ou de mercadorias, ou de transporte de mercadorias perigosas.
 
-###### Artigo 140.º — Atenuação especial da sanção acessória
+Artigo 140.º
+
+Atenuação especial da sanção acessória
 
 Os limites mínimo e máximo da sanção acessória cominada para as contraordenações muito graves podem ser reduzidos para metade tendo em conta as circunstâncias da infração, se o infrator não tiver praticado, nos últimos cinco anos, qualquer contraordenação grave ou muito grave ou facto sancionado com proibição ou inibição de conduzir e na condição de se encontrar paga a coima.
 
-###### Artigo 141.º — Suspensão da execução da sanção acessória
+Artigo 141.º
+
+Suspensão da execução da sanção acessória
 
 1 - Pode ser suspensa a execução da sanção acessória aplicada a contraordenações graves no caso de se verificarem os pressupostos de que a lei penal geral faz depender a suspensão da execução das penas, desde que se encontre paga a coima, nas condições previstas nos números seguintes.
 
@@ -4510,7 +5250,9 @@ c) Ao cumprimento de deveres específicos previstos noutros diplomas legais.
 
 6 - [Revogado.]
 
-###### Artigo 142.º — Revogação da suspensão da execução da sanção acessória
+Artigo 142.º
+
+Revogação da suspensão da execução da sanção acessória
 
 1 - A suspensão da execução da sanção acessória é sempre revogada se, durante o respetivo período:
 
@@ -4520,7 +5262,9 @@ b) O infrator, tratando-se de outra sanção acessória, cometer nova contraorde
 
 2 - A revogação determina o cumprimento da sanção cuja execução estava suspensa e a quebra da caução, que reverte a favor da entidade que tiver determinado a suspensão.
 
-###### Artigo 143.º — Reincidência
+Artigo 143.º
+
+Reincidência
 
 1 - É sancionado como reincidente o infrator que cometa contraordenação cominada com sanção acessória, depois de ter sido condenado por outra contraordenação ao mesmo diploma legal ou seus regulamentos, praticada há menos de cinco anos e também sancionada com sanção acessória.
 
@@ -4528,7 +5272,9 @@ b) O infrator, tratando-se de outra sanção acessória, cometer nova contraorde
 
 3 - No caso de reincidência, os limites mínimos de duração da sanção acessória previstos para a respetiva contraordenação são elevados para o dobro.
 
-###### Artigo 144.º — Registo de infrações
+Artigo 144.º
+
+Registo de infrações
 
 1 - O registo de infrações é efetuado e organizado nos termos e para os efeitos estabelecidos nos diplomas legais onde se preveem as respetivas contraordenações.
 
@@ -4538,9 +5284,13 @@ b) O infrator, tratando-se de outra sanção acessória, cometer nova contraorde
 
 4 - Aos processos em que deva ser apreciada a responsabilidade de qualquer infrator é sempre junta uma cópia dos assentamentos que lhe dizem respeito.
 
-### CAPÍTULO II — Disposições especiais
+CAPÍTULO II
 
-###### Artigo 145.º — Contraordenações graves
+Disposições especiais
+
+Artigo 145.º
+
+Contraordenações graves
 
 1 - No exercício da condução, consideram-se graves as seguintes contraordenações:
 
@@ -4582,7 +5332,9 @@ a) A circulação de veículo sem seguro de responsabilidade civil, caso em que 
 
 b) A circulação de veículos nos termos do n.º 6 do artigo 112.º
 
-###### Artigo 146.º — Contraordenações muito graves
+Artigo 146.º
+
+Contraordenações muito graves
 
 No exercício da condução, consideram-se muito graves as seguintes contraordenações:
 
@@ -4618,7 +5370,9 @@ p) A condução de veículo de categoria ou subcategoria para a qual a carta de 
 
 q) O abandono pelo condutor do local do acidente nas circunstâncias referidas no n.º 2 do artigo 89.º
 
-###### Artigo 147.º — Inibição de conduzir
+Artigo 147.º
+
+Inibição de conduzir
 
 1 - A sanção acessória aplicável aos condutores pela prática de contraordenações graves ou muito graves previstas no Código da Estrada e legislação complementar consiste na inibição de conduzir.
 
@@ -4626,7 +5380,9 @@ q) O abandono pelo condutor do local do acidente nas circunstâncias referidas n
 
 3 - Se a responsabilidade for imputada a pessoa singular não habilitada com título de condução ou a pessoa coletiva, a sanção de inibição de conduzir é substituída por apreensão do veículo por período idêntico de tempo que àquela caberia.
 
-###### Artigo 148.º — Sistema de pontos e cassação do título de condução
+Artigo 148.º
+
+Sistema de pontos e cassação do título de condução
 
 1 - A prática de contraordenação grave ou muito grave, prevista e punida nos termos do Código da Estrada e legislação complementar, determina a subtração de pontos ao condutor na data do caráter definitivo da decisão condenatória ou do trânsito em julgado da sentença, nos seguintes termos:
 
@@ -4664,7 +5420,9 @@ c) A cassação do título de condução do infrator, sempre que se encontrem su
 
 13 - A decisão de cassação do título de condução é impugnável para os tribunais judiciais nos termos do regime geral das contraordenações.
 
-###### Artigo 149.º — Registo de infrações
+Artigo 149.º
+
+Registo de infrações
 
 1 - Do registo de infrações relativas ao exercício da condução, organizado nos termos de diploma próprio, devem constar:
 
@@ -4678,29 +5436,43 @@ c) A pontuação atualizada do título de condução.
 
 3 - A Autoridade Nacional de Segurança Rodoviária assegura o acesso dos condutores ao registo de infrações.
 
-###### Artigo 149.º-A — Interoperabilidade entre organismos públicos
+Artigo 149.º-A
+
+Interoperabilidade entre organismos públicos
 
 1 - As entidades competentes em matéria de fiscalização, os tribunais e a ANSR comunicam ao IMT, I. P., as restrições momentâneas ou permanentes aplicáveis ao titular do título de condução, nomeadamente as resultantes da cassação do título de condução e da proibição ou inibição de conduzir.
 
 2 - As comunicações a que se refere o número anterior são efetuadas através da Plataforma de Interoperabilidade da Administração Pública.
 
-### CAPÍTULO III — Garantia da responsabilidade civil
+CAPÍTULO III
 
-###### Artigo 150.º — Obrigação de seguro
+Garantia da responsabilidade civil
+
+Artigo 150.º
+
+Obrigação de seguro
 
 1 - Os veículos a motor e seus reboques só podem transitar na via pública desde que seja efetuado, nos termos de legislação especial, seguro da responsabilidade civil que possa resultar da sua utilização.
 
 2 - Quem infringir o disposto no n.º 1 é sancionado com coima de (euro) 500 a (euro) 2500, se o veículo for um motociclo ou um automóvel, ou de (euro) 250 a (euro) 1250, se for outro veículo a motor.
 
-###### Artigo 151.º — Seguro de provas desportivas
+Artigo 151.º
+
+Seguro de provas desportivas
 
 A autorização para realização, na via pública, de provas desportivas de veículos a motor e dos respetivos treinos oficiais depende da efetivação, pelo organizador, de um seguro que cubra a sua responsabilidade civil, bem como a dos proprietários ou detentores dos veículos e dos participantes, decorrente dos danos resultantes de acidentes provocados por esses veículos.
 
-## TÍTULO VII — Procedimentos de fiscalização
+TÍTULO VII
 
-### CAPÍTULO I — Procedimento para a fiscalização da condução sob influência de álcool ou de substâncias psicotrópicas
+Procedimentos de fiscalização
 
-###### Artigo 152.º — Princípios gerais
+CAPÍTULO I
+
+Procedimento para a fiscalização da condução sob influência de álcool ou de substâncias psicotrópicas
+
+Artigo 152.º
+
+Princípios gerais
 
 1 - Devem submeter-se às provas estabelecidas para a deteção dos estados de influenciado pelo álcool ou por substâncias psicotrópicas:
 
@@ -4718,7 +5490,9 @@ c) As pessoas que se propuserem iniciar a condução.
 
 5 - O médico ou paramédico que, sem justa causa, se recusar a proceder às diligências previstas na lei para diagnosticar o estado de influenciado pelo álcool ou por substâncias psicotrópicas é punido por crime de desobediência.
 
-###### Artigo 153.º — Fiscalização da condução sob influência de álcool
+Artigo 153.º
+
+Fiscalização da condução sob influência de álcool
 
 1 - O exame de pesquisa de álcool no ar expirado é realizado por autoridade ou agente de autoridade mediante a utilização de aparelho aprovado para o efeito.
 
@@ -4748,7 +5522,9 @@ b) Análise de sangue.
 
 8 - Se não for possível a realização de prova por pesquisa de álcool no ar expirado, o examinando deve ser submetido a colheita de sangue para análise ou, se esta não for possível por razões médicas, deve ser realizado exame médico, em estabelecimento oficial de saúde, para diagnosticar o estado de influenciado pelo álcool.
 
-###### Artigo 154.º — Impedimento de conduzir
+Artigo 154.º
+
+Impedimento de conduzir
 
 1 - Quem apresentar resultado positivo no exame previsto no n.º 1 do artigo anterior ou recusar ou não puder submeter-se a tal exame, fica impedido de conduzir pelo período de doze horas, a menos que comprove, antes de decorrido esse período, que não está influenciado pelo álcool, através de exame por si requerido.
 
@@ -4758,7 +5534,9 @@ b) Análise de sangue.
 
 4 - As despesas originadas pelo exame a que se refere a parte final do n.º 1 são suportadas pelo examinando, salvo se resultarem de contraprova com resultado negativo requerida ao abrigo do n.º 2 do artigo anterior.
 
-###### Artigo 155.º — Imobilização do veículo
+Artigo 155.º
+
+Imobilização do veículo
 
 1 - Para garantir o cumprimento do disposto no n.º 1 do artigo anterior deve o veículo ser imobilizado ou removido para parque ou local apropriado, providenciando-se, sempre que tal se mostre indispensável, o encaminhamento dos ocupantes do veículo.
 
@@ -4768,7 +5546,9 @@ b) Análise de sangue.
 
 4 - No caso previsto no número anterior, o condutor substituto deve ser notificado de que fica responsável pela observância do impedimento referido no artigo anterior, sob pena de crime de desobediência qualificada.
 
-###### Artigo 156.º — Exames em caso de acidente
+Artigo 156.º
+
+Exames em caso de acidente
 
 1 - Os condutores e os peões que intervenham em acidente de trânsito devem, sempre que o seu estado de saúde o permitir, ser submetidos a exame de pesquisa de álcool no ar expirado, nos termos do artigo 153.º
 
@@ -4778,7 +5558,9 @@ b) Análise de sangue.
 
 4 - Os condutores e peões mortos devem também ser submetidos ao exame previsto no n.º 2.
 
-###### Artigo 157.º — Fiscalização da condução sob influência de substâncias psicotrópicas
+Artigo 157.º
+
+Fiscalização da condução sob influência de substâncias psicotrópicas
 
 1 - Os condutores e as pessoas que se propuserem iniciar a condução devem ser submetidos aos exames legalmente estabelecidos para deteção de substâncias psicotrópicas, quando haja indícios de que se encontram sob influência destas substâncias.
 
@@ -4800,7 +5582,9 @@ c) As pessoas que se propuserem iniciar a condução nas circunstâncias previst
 
 7 - Para efeitos do n.º 2 entende-se por ferido grave aquele que, em consequência de acidente de viação e após atendimento em serviço de urgência hospitalar por situação emergente, careça de cuidados clínicos que obriguem à permanência em observação no serviço de urgência ou em internamento hospitalar.
 
-###### Artigo 158.º — Outras disposições
+Artigo 158.º
+
+Outras disposições
 
 1 - São fixados em regulamento:
 
@@ -4818,9 +5602,13 @@ e) As tabelas dos preços dos exames realizados e das taxas de transporte dos ex
 
 3 - Quando os exames referidos tiverem resultado positivo, as despesas são da responsabilidade do examinando, devendo ser levadas à conta de custas nos processos-crime ou de contraordenação a que houver lugar, as quais revertem a favor da entidade referida no número anterior.
 
-### CAPÍTULO II — Apreensões
+CAPÍTULO II
 
-###### Artigo 159.º — Apreensão preventiva de títulos de condução
+Apreensões
+
+Artigo 159.º
+
+Apreensão preventiva de títulos de condução
 
 1 - Os títulos de condução devem ser preventivamente apreendidos pelas autoridades de investigação criminal ou de fiscalização ou seus agentes quando:
 
@@ -4832,7 +5620,9 @@ c) Se encontrem em estado de conservação que torne ininteligível qualquer ind
 
 2 - Nos casos previstos nas alíneas a) e c) do n.º 1 deve, em substituição do título, ser fornecida uma guia de condução válida pelo tempo julgado necessário e renovável quando ocorra motivo justificado.
 
-###### Artigo 160.º — Outros casos de apreensão de títulos de condução
+Artigo 160.º
+
+Outros casos de apreensão de títulos de condução
 
 1 - Os títulos de condução devem ser apreendidos para cumprimento da cassação do título, proibição ou inibição de conduzir.
 
@@ -4848,7 +5638,9 @@ c) Tenha caducado nos termos dos n.os 1 e 2 do artigo 130.º
 
 4 - Sem prejuízo da punição por crime de desobediência, se o condutor não proceder à entrega do título de condução nos termos do número anterior, pode a entidade competente determinar a sua apreensão, através da autoridade de fiscalização e seus agentes.
 
-###### Artigo 161.º — Apreensão do documento de identificação do veículo
+Artigo 161.º
+
+Apreensão do documento de identificação do veículo
 
 1 - O documento de identificação do veículo deve ser apreendido pelas autoridades de investigação criminal ou de fiscalização ou seus agentes quando:
 
@@ -4886,7 +5678,9 @@ j) O veículo circule desrespeitando as regras relativas à poluição sonora, d
 
 8 - Sem prejuízo do disposto nos n.os 3 a 6, quem conduzir veículo cujo documento de identificação tenha sido apreendido é sancionado com coima de (euro) 300 a (euro) 1500.
 
-###### Artigo 162.º — Apreensão de veículos
+Artigo 162.º
+
+Apreensão de veículos
 
 1 - O veículo deve ser apreendido pelas autoridades de investigação criminal ou de fiscalização ou seus agentes quando:
 
@@ -4926,9 +5720,13 @@ l) A apreensão seja determinada ao abrigo do disposto nos n.os 5 e 6 do artigo 
 
 8 - Quem for titular do documento de identificação do veículo responde pelo pagamento das despesas causadas pela sua apreensão.
 
-### CAPÍTULO III — Abandono, bloqueamento e remoção de veículos
+CAPÍTULO III
 
-###### Artigo 163.º — Estacionamento indevido ou abusivo
+Abandono, bloqueamento e remoção de veículos
+
+Artigo 163.º
+
+Estacionamento indevido ou abusivo
 
 1 - Considera-se estacionamento indevido ou abusivo:
 
@@ -4950,7 +5748,9 @@ h) O de veículos sem chapa de matrícula ou com chapa que não permita a corret
 
 2 - Os prazos previstos nas alíneas a) e e) do número anterior não se interrompem, desde que os veículos sejam apenas deslocados de um para outro lugar de estacionamento, ou se mantenham no mesmo parque ou zona de estacionamento.
 
-###### Artigo 164.º — Bloqueamento e remoção
+Artigo 164.º
+
+Bloqueamento e remoção
 
 1 - Podem ser removidos os veículos que se encontrem:
 
@@ -5002,7 +5802,9 @@ n) Na faixa de rodagem de autoestrada ou via equiparada.
 
 8 - As taxas são devolvidas caso não haja lugar a condenação.
 
-###### Artigo 165.º — Presunção de abandono
+Artigo 165.º
+
+Presunção de abandono
 
 1 - Removido o veículo nos termos do artigo anterior ou levantada a apreensão efetuada nos termos do n.º 1 do artigo 162.º, deve ser notificado o titular do documento de identificação do veículo, para a residência constante do respetivo registo, para o levantar no prazo de 45 dias.
 
@@ -5014,7 +5816,9 @@ n) Na faixa de rodagem de autoestrada ou via equiparada.
 
 5 - O veículo é considerado imediatamente abandonado quando essa for a vontade manifestada expressamente pelo seu proprietário.
 
-###### Artigo 166.º — Reclamação de veículos
+Artigo 166.º
+
+Reclamação de veículos
 
 1 - Da notificação referida no artigo anterior deve constar a indicação do local para onde o veículo foi removido e, bem assim, que o titular do respetivo documento de identificação o deve retirar dentro dos prazos referidos no artigo anterior e após o pagamento das despesas de remoção e depósito, sob pena de o veículo se considerar abandonado.
 
@@ -5024,7 +5828,9 @@ n) Na faixa de rodagem de autoestrada ou via equiparada.
 
 4 - A entrega do veículo ao reclamante depende da prestação de caução de valor equivalente às despesas de remoção e depósito.
 
-###### Artigo 167.º — Hipoteca
+Artigo 167.º
+
+Hipoteca
 
 1 - Quando o veículo seja objeto de hipoteca, a remoção deve também ser notificada ao credor, para a residência constante do respetivo registo ou nos termos do n.º 3 do artigo anterior.
 
@@ -5038,7 +5844,9 @@ n) Na faixa de rodagem de autoestrada ou via equiparada.
 
 6 - O credor hipotecário tem o direito de exigir do titular do documento de identificação as despesas referidas no número anterior e as que efetuar na qualidade de fiel depositário.
 
-###### Artigo 168.º — Penhora
+Artigo 168.º
+
+Penhora
 
 1 - Quando o veículo tenha sido objeto de penhora ou ato equivalente, a autoridade que procedeu à remoção deve informar o tribunal das circunstâncias que a justificaram.
 
@@ -5046,11 +5854,17 @@ n) Na faixa de rodagem de autoestrada ou via equiparada.
 
 3 - Na execução, os créditos pelas despesas de remoção e depósito gozam de privilégio mobiliário especial.
 
-## TÍTULO VIII — Do processo
+TÍTULO VIII
 
-### CAPÍTULO I — Competência e forma dos atos
+Do processo
 
-###### Artigo 169.º — Competência para o processamento e aplicação das sanções
+CAPÍTULO I
+
+Competência e forma dos atos
+
+Artigo 169.º
+
+Competência para o processamento e aplicação das sanções
 
 1 - Sem prejuízo do disposto no n.º 7:
 
@@ -5074,7 +5888,9 @@ b) O levantamento e notificação de auto de contraordenação cujos factos cons
 
 7 - A competência para o processamento e aplicação de coimas nas contraordenações rodoviárias por infrações leves relativas a estacionamento proibido, indevido ou abusivo nos parques ou zonas de estacionamento, nas vias e nos demais espaços públicos quer dentro das localidades, quer fora das localidades, neste caso desde que estejam sob jurisdição municipal, é da respetiva câmara municipal.
 
-###### Artigo 169.º-A — Forma dos atos processuais
+Artigo 169.º-A
+
+Forma dos atos processuais
 
 1 - Os atos processuais podem ser praticados em suporte informático com aposição de assinatura digital qualificada, nomeadamente através do Cartão de Cidadão e da Chave Móvel Digital, podendo ser utilizado o Sistema de Certificação de Atributos Profissionais.
 
@@ -5082,9 +5898,13 @@ b) O levantamento e notificação de auto de contraordenação cujos factos cons
 
 3 - [Revogado.]
 
-### CAPÍTULO II — Processamento
+CAPÍTULO II
 
-###### Artigo 170.º — Auto de notícia e de denúncia
+Processamento
+
+Artigo 170.º
+
+Auto de notícia e de denúncia
 
 1 - Quando qualquer autoridade ou agente de autoridade, no exercício das suas funções de fiscalização, presenciar contraordenação rodoviária, levanta ou manda levantar auto de notícia, o qual deve mencionar:
 
@@ -5100,7 +5920,9 @@ b) O valor registado e o valor apurado após dedução do erro máximo admissív
 
 5 - A autoridade ou agente de autoridade que tiver notícia, por denúncia ou conhecimento próprio, de contraordenação que deva conhecer levanta auto, a que é correspondentemente aplicável o disposto nos n.os 1 e 2, com as necessárias adaptações.
 
-###### Artigo 171.º — Identificação do arguido
+Artigo 171.º
+
+Identificação do arguido
 
 1 - A identificação do arguido deve ser efetuada através da indicação de:
 
@@ -5130,7 +5952,9 @@ f) Número e identificação do documento que titula o exercício da atividade, 
 
 8 - Quem infringir o disposto nos n.os 6 e 7 é sancionado nos termos do n.º 2 do artigo 4.º
 
-###### Artigo 171.º-A — Dispensa de procedimento
+Artigo 171.º-A
+
+Dispensa de procedimento
 
 A prática de factos tipificados como contraordenação que se encontre justificada ao abrigo do artigo 64.º não dá lugar à instauração de procedimento quando:
 
@@ -5138,7 +5962,9 @@ a) Tratando-se de agentes das forças e serviços de segurança e órgãos de po
 
 b) Tratando-se de condutores de veículos em missão urgente de prestação de socorro ou em serviço urgente de interesse público, a entidade com competência de direção, tutela ou superintendência sobre o condutor juntar os fundamentos da justificação e respetiva prova, no prazo de 15 dias úteis após notificação da autoridade ou agente de autoridade.
 
-###### Artigo 172.º — Cumprimento voluntário
+Artigo 172.º
+
+Cumprimento voluntário
 
 1 - É admitido o pagamento voluntário da coima, pelo mínimo, nos termos e com os efeitos estabelecidos nos números seguintes.
 
@@ -5150,7 +5976,9 @@ b) Tratando-se de condutores de veículos em missão urgente de prestação de s
 
 5 - [Revogado.]
 
-###### Artigo 173.º — Garantia de cumprimento
+Artigo 173.º
+
+Garantia de cumprimento
 
 1 - Quando a notificação for efetuada no ato da verificação da contraordenação o infrator deve, de imediato ou no prazo máximo de 48 horas, prestar depósito de valor igual ao mínimo da coima aplicável.
 
@@ -5172,7 +6000,9 @@ c) Todos os documentos referidos nas alíneas anteriores, se a sanção respeita
 
 7 - No caso de ser prestado depósito e não ser apresentada defesa dentro do prazo estipulado para o efeito, o depósito efetuado converte-se automaticamente em pagamento, com os efeitos previstos no n.º 4 do artigo anterior.
 
-###### Artigo 174.º — Infratores com sanções por cumprir
+Artigo 174.º
+
+Infratores com sanções por cumprir
 
 1 - Se, em qualquer ato de fiscalização, o condutor ou o titular do documento de identificação do veículo não tiverem cumprido as sanções pecuniárias que anteriormente lhes foram aplicadas a título definitivo, o condutor deve proceder, de imediato, ao seu pagamento.
 
@@ -5194,7 +6024,9 @@ c) Se a sanção respeitar ao condutor e ele for, simultaneamente, titular do do
 
 7 - O veículo apreendido responde pelo pagamento das quantias devidas.
 
-###### Artigo 175.º — Comunicação da infração e direito de audição e defesa do arguido
+Artigo 175.º
+
+Comunicação da infração e direito de audição e defesa do arguido
 
 1 - Após o levantamento do auto, o arguido deve ser notificado:
 
@@ -5236,7 +6068,9 @@ d) Assinatura do arguido ou, caso existam, do mandatário ou representante legal
 
 5 - O requerimento previsto na alínea d) do n.º 2, bem como os requerimentos para consulta do processo ou para identificação do autor da contraordenação nos termos do n.º 3 do artigo 171.º, devem ser apresentados em impresso de modelo aprovado por despacho do presidente da ANSR.
 
-###### Artigo 176.º — Notificações
+Artigo 176.º
+
+Notificações
 
 1 - As notificações efetuam-se:
 
@@ -5286,7 +6120,9 @@ c) Em caso de notificação por via eletrónica, no quinto dia posterior ao regi
 
 11 - Sempre que o notificando se recusar a receber ou a assinar a notificação, o agente certifica a recusa, considerando-se efetuada a notificação.
 
-###### Artigo 177.º — Depoimentos
+Artigo 177.º
+
+Depoimentos
 
 1 - As testemunhas, peritos ou consultores técnicos indicados pelo arguido na defesa devem por ele ser apresentados na data, hora e local indicados pela entidade instrutora do processo.
 
@@ -5298,7 +6134,9 @@ c) Em caso de notificação por via eletrónica, no quinto dia posterior ao regi
 
 5 - Os depoimentos ou esclarecimentos prestados presencialmente podem ser documentados em meios técnicos audiovisuais.
 
-###### Artigo 178.º — Adiamento da diligência de inquirição de testemunhas
+Artigo 178.º
+
+Adiamento da diligência de inquirição de testemunhas
 
 1 - A diligência de inquirição de testemunhas, de peritos ou de consultores técnicos, apenas pode ser adiada uma única vez, se a falta à primeira marcação tiver sido considerada justificada.
 
@@ -5308,17 +6146,25 @@ c) Em caso de notificação por via eletrónica, no quinto dia posterior ao regi
 
 4 - Os elementos de prova da impossibilidade de comparecimento devem ser apresentados com a comunicação referida no número anterior.
 
-###### Artigo 179.º — Ausência do arguido
+Artigo 179.º
+
+Ausência do arguido
 
 A falta de comparência do arguido à diligência de inquirição que lhe tenha sido comunicada não obsta ao prosseguimento do processo, salvo se a falta tiver sido considerada justificada nos termos do artigo anterior, caso em que é aplicável o regime nele estabelecido.
 
-###### Artigo 180.º — Medidas cautelares
+Artigo 180.º
+
+Medidas cautelares
 
 Podem ser impostas medidas cautelares, nos termos previstos em cada diploma legal, quando se revele necessário para a instrução do processo, ou para a defesa da segurança rodoviária, e ainda quando o arguido exerça atividade profissional autorizada, titulada por alvará ou licenciada pela entidade administrativa competente, e tenha praticado a infração no exercício dessa atividade.
 
-### CAPÍTULO III — Da decisão
+CAPÍTULO III
 
-###### Artigo 181.º — Decisão condenatória
+Da decisão
+
+Artigo 181.º
+
+Decisão condenatória
 
 1 - A decisão que aplica a coima ou a sanção acessória deve conter:
 
@@ -5346,7 +6192,9 @@ b) A indicação de que, no prazo referido na alínea anterior, pode requerer o 
 
 4 - Não tendo o arguido exercido o direito de defesa, a fundamentação a que se refere a alínea b) do n.º 1 pode ser feita por simples remissão para o auto de notícia.
 
-###### Artigo 182.º — Cumprimento da decisão
+Artigo 182.º
+
+Cumprimento da decisão
 
 1 - A coima e as custas são pagas no prazo de 15 dias úteis a contar da data em que a decisão se torna definitiva, devendo o pagamento efetuar-se nas modalidades fixadas em regulamento.
 
@@ -5360,7 +6208,9 @@ b) Tratando-se de apreensão do veículo, pela sua entrega efetiva, bem como do 
 
 c) Tratando-se de outra sanção acessória, deve proceder-se nos termos indicados na decisão condenatória.
 
-###### Artigo 183.º — Pagamento da coima em prestações
+Artigo 183.º
+
+Pagamento da coima em prestações
 
 1 - Sempre que o valor mínimo da coima aplicável seja igual ou superior a 2 UC pode a autoridade administrativa, a requerimento do arguido, autorizar o seu pagamento em prestações mensais, não inferiores a (euro) 50, pelo período máximo de 12 meses.
 
@@ -5368,11 +6218,15 @@ c) Tratando-se de outra sanção acessória, deve proceder-se nos termos indicad
 
 3 - A falta de pagamento de alguma das prestações implica o imediato vencimento das demais.
 
-###### Artigo 184.º — Competência da entidade administrativa após decisão
+Artigo 184.º
+
+Competência da entidade administrativa após decisão
 
 O poder de apreciação da entidade administrativa esgota-se com a decisão, exceto quando é apresentado recurso da decisão condenatória, caso em que a entidade administrativa a pode revogar até ao envio dos autos para o Ministério Público.
 
-###### Artigo 185.º — Custas
+Artigo 185.º
+
+Custas
 
 1 - As custas devem, entre outras, cobrir as despesas efetuadas com franquias postais e comunicações telefónicas, telegráficas, por telecópia ou por transmissão eletrónica.
 
@@ -5394,7 +6248,9 @@ d) As despesas resultantes de qualquer diligência de prova solicitada pelo argu
 
 6 - O disposto no presente artigo não exclui a aplicação de custas previstas noutro diploma legal, complementar ou especial.
 
-###### Artigo 185.º-A — Certidão de dívida
+Artigo 185.º-A
+
+Certidão de dívida
 
 1 - Quando se verifique que a coima ou as custas não foram pagas, decorrido o prazo legal de pagamento, contado a partir da data em que a decisão se tornou definitiva, é extraída certidão de dívida com base nos elementos constantes do processo de contraordenação.
 
@@ -5416,19 +6272,27 @@ f) Quaisquer outras indicações úteis para o eficaz seguimento da execução.
 
 4 - A certidão de dívida serve de base à instauração do processo de execução a promover pelos tribunais competentes, nos termos do regime geral das contraordenações.
 
-### CAPÍTULO IV — Do recurso
+CAPÍTULO IV
 
-###### Artigo 186.º — Recursos
+Do recurso
+
+Artigo 186.º
+
+Recursos
 
 As decisões judiciais proferidas em sede de impugnação de decisões administrativas admitem recurso nos termos da lei geral aplicável às contraordenações.
 
-###### Artigo 187.º — Efeitos do recurso
+Artigo 187.º
+
+Efeitos do recurso
 
 1 - A impugnação judicial da decisão administrativa que aplique uma coima, uma sanção acessória ou determine a cassação do título de condução tem efeito suspensivo.
 
 2 - [Revogado.]
 
-###### Artigo 187.º-A — Revisão
+Artigo 187.º-A
+
+Revisão
 
 1 - Sem prejuízo do disposto no número seguinte, à revisão de decisões definitivas ou transitadas em julgado em matéria de contraordenação rodoviária é aplicável o regime geral do ilícito de mera ordenação social, sempre que não contrarie o disposto no presente diploma.
 
@@ -5436,23 +6300,33 @@ As decisões judiciais proferidas em sede de impugnação de decisões administr
 
 3 - A revisão contra o arguido só é admissível quando vise a sua condenação pela prática de um crime.
 
-### CAPÍTULO V — Da prescrição
+CAPÍTULO V
 
-###### Artigo 188.º — Prescrição do procedimento
+Da prescrição
+
+Artigo 188.º
+
+Prescrição do procedimento
 
 1 - O procedimento por contraordenação rodoviária extingue-se por efeito da prescrição logo que, sobre a prática da contraordenação, tenham decorrido dois anos.
 
 2 - Sem prejuízo da aplicação do regime de suspensão e de interrupção previsto no regime geral do ilícito de mera ordenação social, a prescrição do procedimento por contraordenação rodoviária interrompe-se também com a notificação ao arguido da decisão condenatória.
 
-###### Artigo 189.º — Prescrição da coima e das sanções acessórias
+Artigo 189.º
+
+Prescrição da coima e das sanções acessórias
 
 As coimas e as sanções acessórias prescrevem no prazo de dois anos contados a partir do caráter definitivo da decisão condenatória ou do trânsito em julgado da sentença.
 
-## ANEXO V — [a que se refere a alínea b) do artigo 14.º]
+ANEXO V
+
+[a que se refere a alínea b) do artigo 14.º]
 
 Republicação do [Decreto-Lei n.º 317/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1994-575295), de 24 de dezembro, que organiza o registo individual do condutor
 
-###### Artigo 1.º — Base de dados
+Artigo 1.º
+
+Base de dados
 
 1 - A Autoridade Nacional de Segurança Rodoviária (ANSR) dispõe de uma base de dados, designada Registo Individual do Condutor (RIC), que contém o registo de infrações e a pontuação associados ao título de condução do condutor, a qual consta de ficheiro central informatizado.
 
@@ -5464,17 +6338,23 @@ b) Permitir o acesso à informação sobre o registo de infrações dos condutor
 
 c) Permitir a fiscalização da injunção de proibição de conduzir veículos a motor aplicada em sede de suspensão provisória do processo penal.
 
-###### Artigo 2.º — Responsável pela base de dados
+Artigo 2.º
+
+Responsável pela base de dados
 
 1 - É responsável pela base de dados do RIC, nos termos e para os efeitos do disposto na alínea d) do artigo 3.º da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de outubro, o presidente da ANSR.
 
 2 - Cabe, em especial, ao presidente da ANSR assegurar o direito de informação e de acesso aos dados pelos respetivos titulares e a correção de inexatidões, bem como velar para que a consulta ou a comunicação da informação respeitem as condições previstas na lei.
 
-###### Artigo 3.º — Dados recolhidos
+Artigo 3.º
+
+Dados recolhidos
 
 A recolha de dados para tratamento automatizado, no âmbito das competências da ANSR, deve limitar-se ao que seja necessário para a prossecução dos objetivos legalmente definidos para as respetivas bases de dados.
 
-###### Artigo 4.º — Registo de infrações e da pontuação dos condutores
+Artigo 4.º
+
+Registo de infrações e da pontuação dos condutores
 
 1 - O RIC é um ficheiro constituído por dados relativos:
 
@@ -5590,7 +6470,9 @@ c) Fundamento;
 
 d) Período durante o qual não pode ser concedido novo título de condução.
 
-###### Artigo 5.º — Registo de infratores habilitados com título de condução estrangeiro
+Artigo 5.º
+
+Registo de infratores habilitados com título de condução estrangeiro
 
 1 - O registo de infratores habilitados com título de condução estrangeiro é constituído pelos dados de identificação do condutor, pelas condenações por infração com inibição ou proibição de condução em território nacional, pelas condenações em medida de segurança que impliquem cassação da licença de condução e pela aplicação da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal.
 
@@ -5610,7 +6492,9 @@ f) O nome.
 
 3 - Relativamente às infrações punidas com inibição ou proibição de condução em território nacional, à aplicação de medidas de segurança que impliquem cassação dos títulos de condução e à aplicação da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal são recolhidos os dados referidos nos n.os 3 e 5 do artigo anterior.
 
-###### Artigo 6.º — Recolha e atualização
+Artigo 6.º
+
+Recolha e atualização
 
 1 - Os dados devem ser exatos e pertinentes, não podendo a sua recolha exceder os limites definidos no artigo 3.º
 
@@ -5634,7 +6518,9 @@ d) Da data da decisão condenatória e respetivo trânsito em julgado, ou da dec
 
 e) Dos preceitos violados e das penas principais, de substituição e acessórias, ou das medidas de segurança aplicadas na decisão condenatória, ou da injunção aplicada em sede de suspensão provisória do processo.
 
-###### Artigo 7.º — Acesso aos dados
+Artigo 7.º
+
+Acesso aos dados
 
 1 - A ANSR e, nas Regiões Autónomas, os serviços competentes, acedem aos dados contidos na base de dados a que se refere o artigo 1.º através de uma linha de transmissão de dados.
 
@@ -5652,19 +6538,27 @@ e) A Guarda Nacional Republicana e a Polícia de Segurança Pública, no âmbito
 
 3 - [Revogado.]
 
-###### Artigo 8.º — Comunicação dos dados
+Artigo 8.º
+
+Comunicação dos dados
 
 Os dados previstos nos artigos 4.º e 5.º podem ser comunicados às entidades competentes de outro Estado no âmbito de instrumento de direito internacional convencional a que o Estado Português se encontre vinculado.
 
-###### Artigo 9.º — Informação para fins de estatística
+Artigo 9.º
+
+Informação para fins de estatística
 
 Para além dos casos previstos no artigo 7.º, a informação pode ser divulgada para fins estatísticos, mediante autorização do responsável das bases de dados e desde que não possam ser identificáveis as pessoas a que respeita, observadas as disposições legais aplicáveis.
 
-###### Artigo 10.º — Conservação dos dados
+Artigo 10.º
+
+Conservação dos dados
 
 Os dados inseridos no RIC são conservados pelo prazo dos cinco anos subsequentes à decisão se tornar definitiva ou ao trânsito em julgado da sentença, findo o qual são eliminados de imediato.
 
-###### Artigo 11.º — Direito à informação e acesso aos dados
+Artigo 11.º
+
+Direito à informação e acesso aos dados
 
 1 - Qualquer pessoa, desde que devidamente identificada, tem o direito de conhecer o conteúdo dos registos, constantes das bases de dados, que lhe respeitem.
 
@@ -5686,7 +6580,9 @@ Os dados inseridos no RIC são conservados pelo prazo dos cinco anos subsequente
 
 10 - O disposto no n.º 2 pode suceder através da Plataforma de Interoperabilidade da Administração Pública e mediante autenticação segura com recurso ao Cartão de Cidadão ou à Chave Móvel Digital.
 
-###### Artigo 12.º — Certidão do registo de infrações do condutor e da pontuação dos títulos de condução
+Artigo 12.º
+
+Certidão do registo de infrações do condutor e da pontuação dos títulos de condução
 
 1 - A certidão do registo de infrações do condutor e do número de pontos associados ao título de condução é emitida pela ANSR, preferencialmente por meio eletrónico, a requerimento do titular, podendo ser disponibilizada online mediante a introdução de um código de validação facultado para o efeito.
 
@@ -5700,7 +6596,9 @@ Os dados inseridos no RIC são conservados pelo prazo dos cinco anos subsequente
 
 6 - As certidões são válidas por três meses a contar da data da sua emissão.
 
-###### Artigo 13.º — Segurança da informação
+Artigo 13.º
+
+Segurança da informação
 
 1 - Tendo em vista a segurança da informação, cabe ao responsável pela base de dados a que se refere o presente diploma garantir a observação das seguintes regras:
 
@@ -5722,21 +6620,31 @@ h) O transporte de suportes de dados é objeto de controlo para impedir que os d
 
 2 - O uso indevido da informação disponível nas bases de dados do RIC é punido nos termos previstos na [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de outubro.
 
-## ANEXO VI — [a que se refere a alínea c) do artigo 14.º]
+ANEXO VI
+
+[a que se refere a alínea c) do artigo 14.º]
 
 Republicação do Regulamento da Habilitação Legal para Conduzir, aprovado em anexo ao [Decreto-Lei n.º 138/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2012-178550), de 5 de julho
 
 REGULAMENTO DA HABILITAÇÃO LEGAL PARA CONDUZIR
 
-## TÍTULO I — Títulos de condução
+TÍTULO I
 
-### CAPÍTULO I — Cartas e licenças de condução
+Títulos de condução
 
-###### Artigo 1.º — Carta de condução
+CAPÍTULO I
+
+Cartas e licenças de condução
+
+Artigo 1.º
+
+Carta de condução
 
 A carta de condução prevista no n.º 4 do artigo 121.º do Código da Estrada obedece ao modelo constante do anexo I do presente regulamento, do qual faz parte integrante.
 
-###### Artigo 2.º — Competência para emissão e revogação dos títulos de condução
+Artigo 2.º
+
+Competência para emissão e revogação dos títulos de condução
 
 1 - Os títulos de condução, com exceção dos títulos para a condução de veículos pertencentes às forças militares e de segurança, são emitidos, revogados e cancelados pelo Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), nos termos do Código da Estrada e do presente regulamento.
 
@@ -5758,7 +6666,9 @@ a) Procede à sua inutilização, se for um título nacional; ou
 
 b) Remete o título à entidade emissora, se for título estrangeiro, com indicação dos motivos determinantes da apreensão.
 
-###### Artigo 3.º — Carta de condução e categorias de veículos
+Artigo 3.º
+
+Carta de condução e categorias de veículos
 
 1 - A carta de condução é única e contém averbadas todas as categorias de veículos que habilita o seu titular a conduzir.
 
@@ -5898,7 +6808,9 @@ b) Da categoria T do tipo III, sem prejuízo do averbamento da restrição 793, 
 
 6 - Sem prejuízo da exigência de habilitação específica, os condutores de veículos que se desloquem sobre carris ou de troleicarros devem ser titulares de carta de condução válida para a categoria D.
 
-###### Artigo 4.º — Substituição das cartas
+Artigo 4.º
+
+Substituição das cartas
 
 A requerimento dos respetivos titulares, os serviços desconcentrados do IMT, I. P., substituem as cartas de condução com fundamento em:
 
@@ -5908,7 +6820,9 @@ b) Deterioração do original;
 
 c) Alteração nos dados pessoais.
 
-###### Artigo 5.º — Certificados emitidos pelas forças militares e de segurança
+Artigo 5.º
+
+Certificados emitidos pelas forças militares e de segurança
 
 Os titulares de certificados emitidos pelas forças militares e de segurança válidos para a condução de veículos de categorias idênticas às referidas no n.º 2 do artigo 3.º podem requerer ao IMT, I. P., carta de condução válida para as correspondentes categorias, desde a obtenção dos mencionados certificados e até dois anos depois de:
 
@@ -5920,7 +6834,9 @@ c) Passarem à reserva ou pré-aposentação;
 
 d) Passarem à reforma ou aposentação.
 
-###### Artigo 6.º — Menções adicionais e restritivas
+Artigo 6.º
+
+Menções adicionais e restritivas
 
 1 - As menções adicionais e restritivas relativas ao condutor devem constar sob forma codificada no respetivo título de condução, diante da categoria a que respeitam, de acordo com o estipulado nos n.os 1 e 2 do artigo 127.º do Código da Estrada, mediante utilização dos códigos harmonizados da União Europeia ou nacionais, constantes da secção B do anexo I.
 
@@ -5930,11 +6846,17 @@ d) Passarem à reforma ou aposentação.
 
 4 - Os códigos 1 a 99 correspondem a códigos harmonizados da União Europeia e os códigos 100 e seguintes, a códigos nacionais, sendo válidos apenas para a condução em território nacional.
 
-###### Artigo 7.º — [Revogado.]
+Artigo 7.º
 
-### CAPÍTULO II — Outros títulos de condução
+[Revogado.]
 
-###### Artigo 8.º — Licença internacional de condução
+CAPÍTULO II
+
+Outros títulos de condução
+
+Artigo 8.º
+
+Licença internacional de condução
 
 1 - As licenças internacionais de condução, constantes do anexo 10 da Convenção sobre Trânsito Rodoviário, de 23 de agosto de 1949, aprovada para adesão pelo [Decreto-Lei n.º 39 904](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39904-1954-681817), de 13 de novembro de 1954, e do anexo n.º 7 da Convenção sobre Circulação Rodoviária de Viena, de 8 de novembro de 1968, ratificada pela [Resolução da Assembleia da República n.º 107/2010](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/107-2010-341446), de 13 de setembro, são emitidas pelo IMT, I. P., ou pelo Automóvel Club de Portugal, nos termos do [Decreto-Lei n.º 26080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26080-1935-538205), de 22 de novembro de 1935, aos condutores titulares de carta de condução nacional ou emitida por outros Estados membros da União Europeia ou do espaço económico europeu que a requeiram.
 
@@ -5942,7 +6864,9 @@ d) Passarem à reforma ou aposentação.
 
 3 - O período máximo de validade de uma licença internacional de condução é de um ano contado da data em que é emitida, sem prejuízo de lhe ser fixado um período mais curto sempre que o termo da validade da carta de condução que a suporta ocorra em data anterior.
 
-###### Artigo 9.º — Licença de aprendizagem
+Artigo 9.º
+
+Licença de aprendizagem
 
 1 - A licença de aprendizagem é emitida aos candidatos a condutor para efeitos de autorização de condução na via pública em contexto de ensino e exame de condução.
 
@@ -5954,7 +6878,9 @@ d) Passarem à reforma ou aposentação.
 
 5 - A licença de aprendizagem obedece ao modelo constante da secção E do anexo I ao presente regulamento e do qual faz parte integrante.
 
-###### Artigo 10.º — Carta de condução da categoria AM entre os 14 e os 16 anos
+Artigo 10.º
+
+Carta de condução da categoria AM entre os 14 e os 16 anos
 
 1 - Podem ser emitidas cartas de condução da categoria AM, com a menção da restrição 790, aos indivíduos com idade não inferior a 14 anos e que ainda não tenham completado os 16 anos que satisfaçam as seguintes condições:
 
@@ -5976,7 +6902,9 @@ d) Sejam aprovados em exame de condução, após frequência de ação especial 
 
 6 - [Revogado.]
 
-###### Artigo 11.º — Licença especial de condução
+Artigo 11.º
+
+Licença especial de condução
 
 1 - A licença especial de condução prevista na alínea g) do n.º 1 do artigo 125.º do Código da Estrada obedece ao modelo constante da secção B do anexo IV e é emitida a favor de:
 
@@ -5994,7 +6922,9 @@ c) Cônjuge e descendentes em 1.º grau dos membros a que se referem as alíneas
 
 5 - No termo da sua missão em Portugal, o titular deve devolver a licença ao ministério através do qual a solicitou, que a remete ao IMT, I. P., para cancelamento.
 
-###### Artigo 12.º — Autorização especial de condução
+Artigo 12.º
+
+Autorização especial de condução
 
 1 - A autorização especial de condução prevista na alínea h) do n.º 1 do artigo 125.º do Código da Estrada obedece ao modelo constante da secção C do anexo IV.
 
@@ -6002,7 +6932,9 @@ c) Cônjuge e descendentes em 1.º grau dos membros a que se referem as alíneas
 
 3 - A autorização referida no número anterior tem a validade máxima de 185 dias por ano civil, o qual nunca pode exceder o prazo de validade do título estrangeiro que a suporta.
 
-###### Artigo 13.º — Títulos de condução estrangeiros
+Artigo 13.º
+
+Títulos de condução estrangeiros
 
 1 - Os títulos de condução emitidos por Estados membros da União Europeia ou do espaço económico europeu são reconhecidos em Portugal para a condução das categorias de veículos a que habilitam, com as restrições deles constantes, desde que:
 
@@ -6024,7 +6956,9 @@ b) Os títulos de condução emitidos por Estado membro da União Europeia ou do
 
 6 - As condições impostas no n.º 1 são também aplicáveis aos restantes títulos estrangeiros que, nos termos do artigo 125.º do Código da Estrada, habilitam a conduzir em Portugal.
 
-###### Artigo 14.º — Troca de títulos estrangeiros
+Artigo 14.º
+
+Troca de títulos estrangeiros
 
 1 - Os condutores portadores de títulos de condução estrangeiros válidos que habilitem a conduzir em Portugal podem requerer a sua troca por carta de condução portuguesa para as categorias de veículos para que se encontrem habilitados, com dispensa de exame de condução:
 
@@ -6058,9 +6992,13 @@ c) Declaração que ateste a validade do título de condução emitida pelo resp
 
 10 - Caso a troca do título estrangeiro esteja condicionada à realização de uma ou mais provas do exame de condução, o condutor é considerado não habilitado se reprovar duas vezes em qualquer uma das provas.
 
-### CAPÍTULO III — Deveres do condutor e validade dos títulos de condução
+CAPÍTULO III
 
-###### Artigo 15.º — Deveres do titular
+Deveres do condutor e validade dos títulos de condução
+
+Artigo 15.º
+
+Deveres do titular
 
 1 - O titular de carta de condução ou de qualquer outro título de condução deve respeitar as restrições, adaptações ou limitações que lhe foram impostas, relativas ao condutor, ao veículo ou às condições de circulação, nos termos da secção B do anexo I ao presente regulamento.
 
@@ -6068,7 +7006,9 @@ c) Declaração que ateste a validade do título de condução emitida pelo resp
 
 3 - Os condutores portadores de títulos de condução emitidos por Estado membro da União Europeia ou do espaço económico europeu que fixem residência em Portugal devem, nos 60 dias subsequentes, comunicar esse facto ao serviço desconcentrado do IMT, I. P., da área da nova residência.
 
-###### Artigo 16.º — Validade dos títulos de condução
+Artigo 16.º
+
+Validade dos títulos de condução
 
 1 - Os títulos de condução emitidos ao abrigo do presente regulamento têm a validade neles registada.
 
@@ -6096,7 +7036,9 @@ b) 2 anos, após o condutor perfazer 70 anos de idade.
 
 8 - As licenças especiais de condução têm validade correspondente à do título estrangeiro que lhe serviu de origem, até ao limite máximo de três anos.
 
-###### Artigo 17.º — Revalidação dos títulos de condução
+Artigo 17.º
+
+Revalidação dos títulos de condução
 
 1 - A revalidação dos títulos de condução fica condicionada ao preenchimento e comprovação pelos seus titulares dos seguintes requisitos:
 
@@ -6134,11 +7076,17 @@ e) Ter condição de estudante em território nacional há, pelo menos, 185 dias
 
 13 - A portaria mencionada no número anterior pode regular, ainda, os termos necessários à revalidação automática das cartas de condução em conjunto com a renovação online do Cartão de Cidadão, realizada no portal ePortugal, utilizando a Plataforma de Interoperabilidade da Administração Pública e mediante autenticação segura com recurso ao Cartão de Cidadão ou à Chave Móvel Digital.
 
-## TÍTULO II — Requisitos de obtenção dos títulos de condução
+TÍTULO II
 
-### CAPÍTULO I — Requisitos gerais
+Requisitos de obtenção dos títulos de condução
 
-###### Artigo 18.º — Condições de obtenção do título
+CAPÍTULO I
+
+Requisitos gerais
+
+Artigo 18.º
+
+Condições de obtenção do título
 
 1 - A obtenção de título de condução está condicionada ao preenchimento cumulativo dos seguintes requisitos:
 
@@ -6174,7 +7122,9 @@ b) Sendo candidato à categoria A, disponha de, pelo menos, dois anos de titular
 
 5 - É cancelado o título de condução obtido com fundamento em falsas declarações ou pressupostos falsos ou afetados por erro.
 
-###### Artigo 19.º — Residência habitual
+Artigo 19.º
+
+Residência habitual
 
 1 - Para efeitos do disposto na alínea i) do n.º 1 do artigo anterior, considera-se «residência habitual» o Estado onde o candidato ou condutor viva durante pelo menos 185 dias por ano civil, em consequência de vínculos pessoais e profissionais ou, na falta destes últimos, em consequência apenas dos primeiros, desde que sejam indiciadores de uma relação estreita com aquele local, sem prejuízo do disposto nos números seguintes.
 
@@ -6190,7 +7140,9 @@ b) Sendo candidato à categoria A, disponha de, pelo menos, dois anos de titular
 
 7 - O acesso por parte do IMT, I. P., às bases de dados do IRN, I. P., bem como e a utilização da plataforma dos serviços comuns do cartão do cidadão são isentos do pagamento de emolumentos e demais encargos devidos nos termos da legislação aplicável.
 
-###### Artigo 20.º — Idade
+Artigo 20.º
+
+Idade
 
 1 - Para obtenção de título de condução são necessárias as seguintes idades mínimas, de acordo com a habilitação pretendida:
 
@@ -6224,7 +7176,9 @@ g) Categorias D e DE: 24, ou 21 ou 23 anos, desde que, nestes casos, possua a ca
 
 5 - Só podem conduzir veículos da categoria CE cuja massa máxima autorizada exceda 20 000 kg os condutores que não tenham completado 67 anos de idade.
 
-###### Artigo 21.º — Outros requisitos de obtenção de cartas de condução
+Artigo 21.º
+
+Outros requisitos de obtenção de cartas de condução
 
 1 - Sem prejuízo dos restantes requisitos, a obtenção das categorias de carta de condução mencionadas nas alíneas seguintes depende ainda:
 
@@ -6240,11 +7194,17 @@ b) Não permitam o transporte de mais de nove passageiros, incluindo o condutor,
 
 3 - A condução de conjuntos de veículos compostos por um veículo trator da categoria B e um reboque com massa máxima autorizada superior a 750 kg, em que a massa máxima do conjunto assim formado seja superior a 3 500 kg e não exceda 4 250 kg, pode ser exercida por titulares de carta de condução da categoria B que tenham sido aprovados na prova prática específica cujo conteúdo programático consta da secção VI da parte II do anexo VII do presente Regulamento, do qual faz parte integrante.
 
-### CAPÍTULO II — Aptidão física, mental e psicológica
+CAPÍTULO II
 
-#### SECÇÃO I — Princípios gerais
+Aptidão física, mental e psicológica
 
-###### Artigo 22.º — Classificação dos condutores
+SECÇÃO I
+
+Princípios gerais
+
+Artigo 22.º
+
+Classificação dos condutores
 
 1 - Para efeitos da avaliação da aptidão física, mental e psicológica, prevista na alínea b) do n.º 1 do artigo 18.º, os candidatos a condutor e os condutores são classificados num dos seguintes grupos:
 
@@ -6256,13 +7216,17 @@ b) Grupo 2: candidatos ou condutores de veículos das categorias C1, C1E, C, CE,
 
 3 - Quem, sendo apenas titular de carta de condução das categorias B e ou BE, conduzir ambulâncias, veículos de bombeiros, de transporte de doentes, de transporte escolar, de transporte coletivo de crianças ou de automóveis ligeiros de passageiros de aluguer, sem ter inscrito, na sua carta de condução, o código nacional 997 previsto na secção B do anexo I, é sancionado com a coima prevista no n.º 3 do artigo 123.º do Código da Estrada.
 
-###### Artigo 23.º — Condições mínimas de aptidão física, mental e psicológica
+Artigo 23.º
+
+Condições mínimas de aptidão física, mental e psicológica
 
 1 - As condições mínimas de aptidão física, mental e psicológica exigidas aos candidatos e condutores constam, respetivamente, dos anexos V e VI do presente Regulamento, do qual fazem parte integrante.
 
 2 - Não são aprovados em avaliação médica e psicológica os candidatos ou condutores que não atinjam as condições mínimas fixadas.
 
-###### Artigo 24.º — Avaliação médica e psicológica
+Artigo 24.º
+
+Avaliação médica e psicológica
 
 1 - Os candidatos e condutores do grupo 1 são submetidos a avaliação médica e a avaliação psicológica sempre que recomendada na avaliação médica.
 
@@ -6272,7 +7236,9 @@ b) Grupo 2: candidatos ou condutores de veículos das categorias C1, C1E, C, CE,
 
 4 - Sempre que para a obtenção do título de condução seja exigida a submissão a avaliação psicológica, o mesmo é exigido para a respetiva revalidação, sem prejuízo do disposto no n.º 5 do artigo 17.º
 
-###### Artigo 25.º — Competência para realizar a avaliação da aptidão física, mental e psicológica
+Artigo 25.º
+
+Competência para realizar a avaliação da aptidão física, mental e psicológica
 
 1 - A avaliação da aptidão física e mental dos candidatos e condutores dos grupos 1 e 2 é realizada por médicos no exercício da sua profissão ou em Serviços Clínicos para a avaliação da aptidão física, mental e psicológica dos candidatos e condutores.
 
@@ -6306,7 +7272,9 @@ e) De candidatos ou condutores considerados «inaptos» ou «aptos» com restri�
 
 9 - A abertura, a modificação e o funcionamento dos Serviços Clínicos para a avaliação da aptidão física, mental e psicológica dos candidatos e condutores regem-se pelo disposto no [Decreto-Lei n.º 127/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), de 22 de agosto, sendo aplicável o procedimento simplificado por mera comunicação prévia aí previsto.
 
-###### Artigo 26.º — Modelos
+Artigo 26.º
+
+Modelos
 
 1 - Por despacho do presidente do conselho diretivo do IMT, I. P., e do diretor-geral da Saúde são aprovados:
 
@@ -6320,9 +7288,13 @@ b) Os conteúdos do relatório de avaliação psicológica e os modelos do certi
 
 4 - Cabe à SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., definir e publicitar as normas, os requisitos e as especificações dos sistemas informáticos de emissão de atestados médicos e de certificados de aptidão psicológica por via eletrónica, bem como promover a sua implementação pelos vários operadores.
 
-#### SECÇÃO II — Avaliação médica
+SECÇÃO II
 
-###### Artigo 27.º — Exames médicos
+Avaliação médica
+
+Artigo 27.º
+
+Exames médicos
 
 1 - O exame médico destina-se a avaliar as condições físicas e mentais de candidatos ou condutores de acordo com o estabelecido no anexo V.
 
@@ -6334,7 +7306,9 @@ b) Os conteúdos do relatório de avaliação psicológica e os modelos do certi
 
 5 - Finda a avaliação, é emitido o atestado médico referido no n.º 1 do artigo anterior.
 
-###### Artigo 28.º — Outros exames
+Artigo 28.º
+
+Outros exames
 
 1 - Qualquer médico que, no decurso da sua atividade clínica, detete condutor que sofra de doença ou deficiência, crónica ou progressiva, ou apresente perturbações do foro psicológico suscetíveis de afetar a segurança na condução deve notificar o facto à autoridade de saúde da área da residência do condutor, sob a forma de relatório clínico fundamentado e confidencial.
 
@@ -6344,9 +7318,13 @@ b) Os conteúdos do relatório de avaliação psicológica e os modelos do certi
 
 4 - O procedimento constante dos números anteriores é ainda aplicável à avaliação médica determinada ao abrigo dos n.os 1 e 5 do artigo 129.º do Código da Estrada.
 
-#### SECÇÃO III — Avaliação psicológica
+SECÇÃO III
 
-###### Artigo 29.º — Exames psicológicos
+Avaliação psicológica
+
+Artigo 29.º
+
+Exames psicológicos
 
 1 - O exame psicológico destina-se a avaliar as áreas percetivo-cognitiva, psicomotora e psicossocial relevantes para o exercício da condução ou suscetíveis de influenciar o seu desempenho, de acordo com o anexo VI.
 
@@ -6356,15 +7334,21 @@ b) Os conteúdos do relatório de avaliação psicológica e os modelos do certi
 
 4 - Quando o candidato ou condutor for considerado «inapto» na avaliação psicológica, o psicólogo que a tiver efetuado deve enviar ao serviço competente do IMT, I. P., sob forma confidencial, cópias do relatório e do certificado de avaliação psicológica referidos na alínea b) do n.º 1 do artigo 26.º
 
-###### Artigo 30.º — Outros exames psicológicos
+Artigo 30.º
+
+Outros exames psicológicos
 
 1 - O psicólogo que, no decurso da sua atividade, detetar condutor que sofra perturbações do foro psicológico ou mental suscetíveis de afetar a segurança na condução, deve notificar o facto ao serviço competente do IMT, I. P., sob a forma de relatório fundamentado e confidencial.
 
 2 - São também submetidos a exame psicológico os candidatos a condutores de qualquer categoria de veículos que tenham sido titulares de carta ou licença de condução cassada nos termos do n.º 7 do artigo 101.º do Código Penal ou do artigo 148.º do Código da Estrada.
 
-#### SECÇÃO IV — Atestado médico e certificado de avaliação psicológica
+SECÇÃO IV
 
-###### Artigo 31.º — Emissão do atestado médico e do certificado de avaliação psicológica
+Atestado médico e certificado de avaliação psicológica
+
+Artigo 31.º
+
+Emissão do atestado médico e do certificado de avaliação psicológica
 
 1 - O atestado médico e o certificado de avaliação psicológica são emitidos respetivamente pelo médico e pelo psicólogo e contêm a menção de «Apto» ou «Inapto», consoante o caso, e a indicação, nos casos de «Apto» e se existirem, das restrições impostas ao condutor e ou adaptações do veículo.
 
@@ -6376,7 +7360,9 @@ b) Os conteúdos do relatório de avaliação psicológica e os modelos do certi
 
 5 - O examinando considerado «inapto» em avaliação médica ou psicológica só pode ser submetido a qualquer daquelas avaliações passados seis meses, ficando impedido de conduzir até ser considerado «apto», ainda que a sua carta de condução se encontre válida.
 
-###### Artigo 32.º — Recursos
+Artigo 32.º
+
+Recursos
 
 1 - O candidato ou condutor considerado «Inapto» pode apresentar recurso da decisão no prazo de 30 dias após a emissão do atestado médico ou do certificado de avaliação psicológica.
 
@@ -6400,11 +7386,17 @@ b) O IMT, I. P., quando a inaptidão se deva a reprovação no exame psicológic
 
 9 - O condutor considerado «Inapto» em junta médica ou pelo IMT, I. P., fica impedido de conduzir até ser considerado «Apto», ainda que a sua carta de condução esteja válida.
 
-### CAPÍTULO III — Exame de condução
+CAPÍTULO III
 
-#### SECÇÃO I — Admissão e composição do exame de condução
+Exame de condução
 
-###### Artigo 33.º — Admissão a exame de condução
+SECÇÃO I
+
+Admissão e composição do exame de condução
+
+Artigo 33.º
+
+Admissão a exame de condução
 
 1 - Só podem ser admitidos a exame de condução os candidatos que preencham os requisitos previstos nas alíneas a), b) e e) a j) do n.º 1 do artigo 18.º
 
@@ -6436,11 +7428,15 @@ d) Os titulares de certificado de condução emitido pelas forças militares e d
 
 e) Os titulares de carta de condução da categoria B que pretendam habilitar-se à condução dos conjuntos de veículos referidos no n.º 3 do artigo 21.º
 
-###### Artigo 34.º — Admissão a exame especial
+Artigo 34.º
+
+Admissão a exame especial
 
 São admitidos a exame especial os candidatos que preencham os requisitos fixados nas alíneas a), b) e e) a j) do n.º 1 do artigo 18.º e tenham frequentado com aproveitamento o curso específico de formação, quando aplicável, ministrado por entidade autorizada, nos termos a fixar por deliberação do conselho diretivo do IMT, I. P.
 
-###### Artigo 35.º — Composição do exame para obtenção de carta de condução
+Artigo 35.º
+
+Composição do exame para obtenção de carta de condução
 
 1 - O exame de condução é único e destina-se a atestar que os candidatos possuem os conhecimentos, as aptidões e os comportamentos exigidos para a condução de um veículo a motor.
 
@@ -6470,9 +7466,13 @@ b) Os candidatos às categorias A2 e A que sejam titulares de carta de conduçã
 
 12 - As provas são classificadas como «Aprovado» ou «Reprovado», e apenas é considerado «apto» o candidato aprovado em ambas, salvo dispensa legal de alguma das provas componentes do exame de condução.
 
-###### Artigo 36.º — [Revogado.]
+Artigo 36.º
 
-###### Artigo 37.º — Composição do exame especial
+[Revogado.]
+
+Artigo 37.º
+
+Composição do exame especial
 
 1 - O exame especial é composto por:
 
@@ -6496,9 +7496,13 @@ c) Frequência, com aproveitamento, de curso específico de formação e realiza
 
 8 - O candidato que reprove duas vezes no exame especial, ou em qualquer das suas provas, só pode efetuar novo exame de condução após formação e mediante propositura por escola de condução.
 
-#### SECÇÃO II — Realização dos exames de condução
+SECÇÃO II
 
-###### Artigo 38.º — Centros de exame
+Realização dos exames de condução
+
+Artigo 38.º
+
+Centros de exame
 
 1 - O exame para obtenção de carta de condução pode ser efetuado, mediante escolha do candidato:
 
@@ -6520,7 +7524,9 @@ iii) No distrito limítrofe da escola de condução, ainda que se situe fora da 
 
 3 - O exame especial de condução é realizado pelo IMT, I. P., que pode, para o efeito, recorrer a centros privados de exames, sendo-lhe aplicável todas as restantes disposições, previstas no presente Regulamento para o exame de condução.
 
-###### Artigo 39.º — Marcação das provas de exame
+Artigo 39.º
+
+Marcação das provas de exame
 
 1 - Para a marcação da prova teórica, a escola de condução está obrigada a registar o candidato no sistema informático do IMT, I. P., nos dois dias seguintes à sua inscrição na formação.
 
@@ -6546,13 +7552,17 @@ iii) No distrito limítrofe da escola de condução, ainda que se situe fora da 
 
 12 - As provas teórica e prática do exame de condução são realizadas no mesmo centro de exames, salvo nos casos em que o candidato comprove alteração de residência ou deslocação temporária de morada devido ao cumprimento de obrigações laborais ou frequência de estabelecimento de ensino.
 
-###### Artigo 40.º — Convocatórias
+Artigo 40.º
+
+Convocatórias
 
 1 - O examinando é convocado para prestar cada uma das provas do exame de condução, pela escola de condução, quando for por ela proposto, ou pelo centro de exames, quando se encontrar em regime de autopropositura.
 
 2 - O examinando deve comparecer no local e na hora que lhe forem designados.
 
-###### Artigo 41.º — Faltas, interrupção e anulação das provas de exame
+Artigo 41.º
+
+Faltas, interrupção e anulação das provas de exame
 
 1 - As faltas às provas componentes do exame de condução são justificadas quando se verifique justo impedimento, podendo o candidato, no prazo máximo de três dias úteis a contar do dia da falta, requerer marcação de nova data sem pagamento de nova taxa ou, caso pretenda desistir da realização da prova, requerer a devolução da taxa paga.
 
@@ -6572,11 +7582,17 @@ d) Tenha prestado falsas declarações ou apresentado documentos falsos ou vicia
 
 e) Se tenha feito substituir por outra pessoa ou praticado qualquer outra fraude na realização de prova de exame.
 
-#### SECÇÃO III — Prova teórica
+SECÇÃO III
 
-##### SUBSECÇÃO I — Forma e conteúdos da prova
+Prova teórica
 
-###### Artigo 42.º — Forma da prova teórica
+SUBSECÇÃO I
+
+Forma e conteúdos da prova
+
+Artigo 42.º
+
+Forma da prova teórica
 
 1 - A prova teórica consiste num teste de aplicação interativa multimédia.
 
@@ -6586,7 +7602,9 @@ e) Se tenha feito substituir por outra pessoa ou praticado qualquer outra fraude
 
 4 - As imagens, figuras, perguntas e respostas constantes das bases de dados que geram o teste referido no n.º 1 não podem ser divulgadas, exceto em caso de reclamação, caso em que podem ser visualizadas, nos termos do artigo 48.º
 
-###### Artigo 43.º — Composição do teste
+Artigo 43.º
+
+Composição do teste
 
 1 - O teste da prova teórica incide sobre os conteúdos programáticos constantes da parte I do anexo VII e é composto, segundo a categoria de veículos que se destina a habilitar, por:
 
@@ -6612,7 +7630,9 @@ f) Categorias D1 e D - 20 questões sobre as disposições específicas relativa
 
 6 - A resposta pode ser alterada pelo candidato com toque na alternativa que pretenda.
 
-###### Artigo 44.º — Intérprete e tradutor
+Artigo 44.º
+
+Intérprete e tradutor
 
 1 - Quando o examinando for surdo pode requerer ao serviço competente do IMT, I. P., a intervenção de intérprete de língua gestual credenciado para estar presente durante a realização da prova.
 
@@ -6620,9 +7640,13 @@ f) Categorias D1 e D - 20 questões sobre as disposições específicas relativa
 
 3 - Os procedimentos para a tradução referida no número anterior são definidos por deliberação do conselho diretivo do IMT, I. P.
 
-##### SUBSECÇÃO II — Realização da prova teórica
+SUBSECÇÃO II
 
-###### Artigo 45.º — Sessões da prova
+Realização da prova teórica
+
+Artigo 45.º
+
+Sessões da prova
 
 1 - As sessões da prova teórica realizam-se, de segunda-feira a sexta-feira, entre as 8 horas e 30 minutos e as 17 horas e 30 minutos, com interrupção entre as 13 e as 14 horas.
 
@@ -6648,7 +7672,9 @@ f) Categorias D1 e D - 20 questões sobre as disposições específicas relativa
 
 12 - Em caso de reprovação, é entregue ao examinando e enviado à escola de condução proponente cópia da folha referida no n.º 10 para efeito de identificação das unidades temáticas a aperfeiçoar.
 
-###### Artigo 46.º — Duração da prova
+Artigo 46.º
+
+Duração da prova
 
 As provas referidas no n.º 1 do artigo 43.º têm a seguinte duração:
 
@@ -6660,13 +7686,17 @@ c) 10 minutos, as previstas na alínea c);
 
 d) 25 minutos, as previstas nas alíneas d), e) e f).
 
-###### Artigo 47.º — Aprovação
+Artigo 47.º
+
+Aprovação
 
 1 - Consoante o teste, nos termos do n.º 1 do artigo 43.º, seja composto por 30, 40, 10 ou 20 questões, são considerados «Aprovados» os candidatos que respondam de forma correta, respetivamente, a, pelo menos, 27, 36, 9 e 18 daquelas questões, salvo os candidatos da categoria AM, que são considerados «Aprovados» desde que respondam acertadamente a, pelo menos, 17 das questões colocadas.
 
 2 - A aprovação na prova teórica tem a validade de um ano, durante o qual deve ser obtida aprovação na prova prática.
 
-###### Artigo 48.º — Reclamação
+Artigo 48.º
+
+Reclamação
 
 1 - Em caso de reprovação na prova teórica, o examinando pode ver as questões que errou na presença do examinador ou do responsável pelo centro de exames e do diretor da escola, cuja presença não é obrigatória, no prazo de quatro horas após o termo da prova.
 
@@ -6676,15 +7706,23 @@ d) 25 minutos, as previstas nas alíneas d), e) e f).
 
 4 - O IMT, I. P., aprecia a reclamação e comunica o resultado ao reclamante e ao centro de exames, num prazo não superior a 15 dias úteis sobre a sua receção.
 
-###### Artigo 49.º — Registos para fins estatísticos
+Artigo 49.º
+
+Registos para fins estatísticos
 
 Os resultados de cada sessão de exame são registados para fins estatísticos e as provas são conservadas no centro de exames pelo período mínimo de um ano, nos termos determinados por despacho do presidente do conselho diretivo do IMT, I. P.
 
-#### SECÇÃO IV — Prova prática
+SECÇÃO IV
 
-##### SUBSECÇÃO I — Características da prova
+Prova prática
 
-###### Artigo 50.º — Composição da prova prática
+SUBSECÇÃO I
+
+Características da prova
+
+Artigo 50.º
+
+Composição da prova prática
 
 1 - Os conteúdos programáticos da prova prática do exame de condução constam da parte II do anexo VII do presente Regulamento.
 
@@ -6712,7 +7750,9 @@ c) Bloco III - condução em marcha normal, com quatro séries.
 
 8 - As características do espaço designado para a realização das manobras especiais bem como a composição das séries de manobras especiais que integram cada bloco são fixadas por deliberação do conselho diretivo do IMT, I. P.
 
-###### Artigo 51.º — Duração da prova
+Artigo 51.º
+
+Duração da prova
 
 1 - A prova prática da categoria AM tem a duração de 30 minutos, sendo prestada em circulação em condições normais de trânsito em vias urbanas e não urbanas.
 
@@ -6730,7 +7770,9 @@ c) No mínimo 25 minutos dedicados à circulação em condições normais de tr�
 
 5 - A duração das provas, referidas nos números anteriores, não inclui o tempo dedicado à verificação dos documentos de identificação do candidato, do instrutor e do veículo, bem como o da divulgação dos resultados.
 
-###### Artigo 52.º — Acompanhamento durante a prova
+Artigo 52.º
+
+Acompanhamento durante a prova
 
 1 - No início da prova o examinando deve identificar-se nos termos do n.º 5 do artigo 45.º
 
@@ -6746,9 +7788,13 @@ c) No mínimo 25 minutos dedicados à circulação em condições normais de tr�
 
 7 - As manobras especiais, realizadas em espaço designado para o efeito, para as categorias A1, A2 e A, são acompanhadas pelo examinador fora do veículo.
 
-##### SUBSECÇÃO II — Realização da prova prática
+SUBSECÇÃO II
 
-###### Artigo 53.º — Percursos de exame
+Realização da prova prática
+
+Artigo 53.º
+
+Percursos de exame
 
 1 - Cada centro de exames deve ter um mínimo de 10 percursos previamente aprovados por despacho do diretor regional de mobilidade e transportes competente, que incluam circulação em vias urbanas e não urbanas.
 
@@ -6782,7 +7828,9 @@ c) A série de manobras a efetuar, dentro de cada bloco de manobras dos previsto
 
 13 - Sem prejuízo do disposto no número anterior, os diretores regionais de mobilidade e transportes devem, por sua iniciativa ou a solicitação do centro de exames, aprovar novo percurso sempre que um dos anteriormente aprovados se mostre inadequado ou impraticável.
 
-###### Artigo 54.º — Prova para as categorias AM, A1, A2 e A
+Artigo 54.º
+
+Prova para as categorias AM, A1, A2 e A
 
 1 - No início da prova para as categorias AM, A1, A2 e A, o candidato deve demonstrar conhecimento ou proceder à verificação, de forma aleatória e por indicação do examinador, de três dos temas indicados nos pontos 1.1 a 1.2.6 da secção I ou nos pontos 1.1 a 1.2.9 da secção II da parte II do anexo VII, bem como obedecer aos procedimentos prévios constantes dos pontos 1.3 das duas secções, respetivamente.
 
@@ -6858,7 +7906,9 @@ b) Calçado fechado e ajustado;
 
 c) Colete retrorrefletor.
 
-###### Artigo 55.º — Prova para as categorias B1 e B
+Artigo 55.º
+
+Prova para as categorias B1 e B
 
 1 - No início da prova para as categorias B1 e B, o candidato deve demonstrar conhecimento ou proceder à verificação, de forma aleatória e por indicação do examinador, de três dos temas indicados nos pontos 1.1 a 1.8 da secção III da parte II do anexo VII, bem como obedecer aos procedimentos prévios constantes do ponto 1.9 da referida secção.
 
@@ -6906,7 +7956,9 @@ h) Tomar as precauções necessárias ao sair do veículo;
 
 i) Realizar uma condução económica e ecológica, tendo em conta as rotações por minuto e a utilização correta da caixa de velocidades, travagem e aceleração.
 
-###### Artigo 56.º — Prova para a categoria BE
+Artigo 56.º
+
+Prova para a categoria BE
 
 1 - No início da prova para a categoria BE, o candidato deve demonstrar conhecimento ou proceder à verificação, de forma aleatória e por indicação do examinador, de três dos temas indicados nos pontos 1.1 a 1.2.7 da secção IV da parte II do anexo VII, bem como obedecer aos procedimentos prévios constantes dos pontos 1.3 a 1.6 da referida secção.
 
@@ -6928,7 +7980,9 @@ f) Atrelar e desatrelar o reboque/semirreboque ao veículo trator, iniciando-se 
 
 4 - O disposto no presente artigo é aplicável, com as necessárias adaptações, à prova prática específica prevista no n.º 3 do artigo 21.º
 
-###### Artigo 57.º — Prova para as categorias C1, C, C1E, CE, D1, D, D1E e DE
+Artigo 57.º
+
+Prova para as categorias C1, C, C1E, CE, D1, D, D1E e DE
 
 1 - No início da prova para as categorias C1, C, C1E, CE, D1, D, D1E e DE, o candidato deve demonstrar conhecimento e proceder à verificação das disposições comuns constantes da secção V da parte II do anexo VII do seguinte modo:
 
@@ -6964,7 +8018,9 @@ g) [Revogada.]
 
 6 - Na parte da prova destinada à circulação em vias urbanas e não urbanas, todos os candidatos devem efetuar as manobras referidas no n.º 4 do artigo 55.º
 
-###### Artigo 58.º — Princípios a observar durante a prova
+Artigo 58.º
+
+Princípios a observar durante a prova
 
 1 - Durante a prova prática, os candidatos a qualquer das categorias de veículos devem demonstrar conhecimentos, aptidões e comportamentos que lhes permitam:
 
@@ -6982,7 +8038,9 @@ f) Contribuir para a segurança dos restantes utentes da estrada, especialmente 
 
 2 - [Revogado.]
 
-###### Artigo 59.º — Avaliação
+Artigo 59.º
+
+Avaliação
 
 1 - Na apreciação global, o examinador deve ter em consideração o grau de cumprimento, pelo candidato, do disposto no artigo anterior.
 
@@ -6996,7 +8054,9 @@ f) Contribuir para a segurança dos restantes utentes da estrada, especialmente 
 
 6 - Aos candidatos aprovados na prova prática, é emitida pelo IMT, I. P., uma autorização temporária de condução que substitui a carta de condução até à sua emissão, cuja impressão é feita pelo centro de exames.
 
-###### Artigo 60.º — Causas de reprovação
+Artigo 60.º
+
+Causas de reprovação
 
 1 - Constitui causa de reprovação na prova prática:
 
@@ -7030,9 +8090,13 @@ b) Exceder o tempo limite de duração máxima estabelecida para execução das 
 
 4 - Na situação referida no número anterior, cabe ao examinador decidir se o veículo pode continuar a ser conduzido pelo candidato reprovado ou se este deve ser substituído pelo instrutor.
 
-##### SUBSECÇÃO III — Veículos de exame
+SUBSECÇÃO III
 
-###### Artigo 61.º — Caraterísticas dos veículos de exame
+Veículos de exame
+
+Artigo 61.º
+
+Caraterísticas dos veículos de exame
 
 1 - A prova prática só pode ser prestada em veículos licenciados para instrução ou para exame, com possibilidade de recurso a equipamento de monitorização da prova, nos termos a fixar por deliberação do conselho diretivo do IMT, I. P.
 
@@ -7204,7 +8268,7 @@ d) Número de controlo;
 
 e) A menção «modelo da União Europeia» em português e a menção «carta de condução» nas restantes línguas da Comunidade, impressas em cor-de-rosa a fim de constituir a trama de fundo da carta e ainda de forma ténue o escudo português:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 f) As cores de referência são o azul pantone reflex blue e o amarelo pantone yellow.
 
@@ -7230,7 +8294,7 @@ c) É reservado um espaço no modelo da carta de condução da União Europeia q
 
 #### Secção B — Códigos harmonizados da União Europeia e códigos nacionais de restrições e adaptações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 #### Secção C — Dígitos identificadores dos serviços emissores de cartas de condução que precedem o número
 
@@ -7282,21 +8346,21 @@ Funchal - M.
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 #### Secção E — Modelo da licença de aprendizagem
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 ## ANEXO II — [Revogado.]
 
@@ -7332,7 +8396,7 @@ Disposições relativas à licença internacional de condução
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 Esta página contém as menções específicas numeradas da seguinte forma:
 
@@ -7346,7 +8410,7 @@ Esta página contém as menções específicas numeradas da seguinte forma:
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 Esta página contém as menções específicas numeradas da seguinte forma:
 
@@ -7356,11 +8420,11 @@ Esta página contém as menções específicas numeradas da seguinte forma:
 
 Página 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 Página 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 Esta página contém as menções específicas numeradas da seguinte forma:
 
@@ -7380,7 +8444,7 @@ Esta página contém as menções específicas numeradas da seguinte forma:
 
 8 - Selo ou carimbo do serviço emissor que retirou o direito a conduzir no seu território.
 
-#### Secção C — [([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+#### Secção C — [(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 ## ANEXO IV — (a que se referem o n.º 1 do artigo 11.º e o n.º 1 do artigo 12.º do Regulamento da Habilitação Legal para Conduzir)
 
@@ -7390,7 +8454,7 @@ Disposições relativas às licenças e autorizações especiais de condução
 
 #### SECÇÃO B — Licença especial de condução
 
-# PARTE A
+## PARTE A
 
 1 - É aprovado o modelo de licença especial de condução n.º 151, exclusivo da Imprensa Nacional-Casa da Moeda, S. A.
 
@@ -7430,19 +8494,19 @@ Restrições;
 
 A menção «Esta licença só é válida em Portugal e deve ser exibida com o título de condução estrangeiro» impressa em carateres maiúsculos.
 
-# PARTE B — Modelo da licença especial de condução
+## PARTE B — Modelo da licença especial de condução
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 #### SECÇÃO C — Autorização especial de condução
 
-# PARTE A
+## PARTE A
 
 1 - É aprovado o modelo de autorização especial de condução n.º 153, exclusivo do Instituto da Mobilidade e dos Transportes, I. P.
 
@@ -7492,15 +8556,15 @@ Validade;
 
 Restrições.
 
-# PARTE B — Modelo da autorização especial de condução
+## PARTE B — Modelo da autorização especial de condução
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 ## ANEXO V — (a que se referem o n.º 1 do artigo 23.º e o n.º 1 do artigo 27.º do Regulamento da Habilitação Legal para Conduzir)
 
@@ -7892,11 +8956,11 @@ Normas mínimas relativas à aptidão psicológica para a condução de um veíc
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0000200220.pdf)
 
 #### SECÇÃO II — Metodologia de aplicação
 
@@ -7948,7 +9012,7 @@ g) Comportamentos que revelem a tendência para abusar de substâncias psicotró
 
 (a que se referem o n.º 3 do artigo 21.º, os n.os 2 e 4 do artigo 35.º, o n.º 5 do artigo 37.º, o n.º 1 do artigo 43.º, o n.º 1 do artigo 50.º, o n.º 1 do artigo 54.º, o n.º 1 do artigo 55.º, o n.º 1 do artigo 56.º, o n.º 1 do artigo 57.º e os n.os 7 e 8 do artigo 61.º do Regulamento da Habilitação Legal para Conduzir)
 
-# PARTE I — Prova teórica
+## PARTE I — Prova teórica
 
 #### SECÇÃO I — Categoria AM
 
@@ -9040,7 +10104,7 @@ IV - Específicas para as categorias D1 e D
 
 3.2 - Utilização e manutenção diária dos sistemas em conjuntos de automóveis pesados de passageiros.
 
-# PARTE II — Prova prática
+## PARTE II — Prova prática
 
 #### SECÇÃO I — Categorias AM
 
@@ -10058,7 +11122,7 @@ Conjunto compostos por um veículo da categoria B e reboque de massa máxima aut
 
 3.9 - Técnicas de condução defensiva.
 
-# PARTE III — Veículos de exame
+## PARTE III — Veículos de exame
 
 #### SECÇÃO I — Equipamento
 
@@ -10371,3 +11435,5 @@ c) Tipos de situações desgastantes para a maioria dos condutores;
 d) Efeitos do stress na condução;
 
 e) Meios para mitigar os efeitos do stress ao volante.
+
+100000281

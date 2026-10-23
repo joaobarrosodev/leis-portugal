@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/30/2014/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/30-2014-25344761
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T05:19:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 275e31cb3a53d7c3036b0b775d7477c78e4b4520553111f01c199a8b51e81395
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 723f5eab19a34d9bb3496cd4e0078d864966ff1ce572400d953de3e74d1455a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:19:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
+- Alimentação
 - Convenção
-- Portugal
-- Timor Leste
-- ONU
+- FAO
 - Lisboa
-- Pesca
+- Novos Países de Expressão Portuguesa
+- ONU
 - Países de Língua Portuguesa
 - Palop
-- Novos Países de Expressão Portuguesa
-- FAO
-- Alimentação
-- Agricultura
+- Pesca
+- Portugal
+- Timor Leste
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/39/2014/05/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/39/2014/05/14/p/dre
+- type: cites
+  target: pt:dre:25344763:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:19:52Z'
   warnings: []
   errors: []
 ---
@@ -101,16 +105,16 @@ validation:
 
 de 14 de maio
 
-**O Presidente da República decreta, nos termos do artigo 135º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo Quadro entre a República Portuguesa e a Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), assinado em Lisboa em 31 de julho de 2012, aprovado pela [Resolução da Assembleia da República n.º 39/2014](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/39-2014-25344763), em 28 de março de 2014.
 
-**Assinado em 6 de maio de 2014.**
+Assinado em 6 de maio de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de maio de 2014.**
+Referendado em 9 de maio de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

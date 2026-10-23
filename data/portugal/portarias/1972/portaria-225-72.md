@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/04/09700/04960500.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/225-1972-396935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a07951efb1d5dc269cd2233bbac75f61f71c77f9b8ef47e8beafad8cfd00ce0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c57bb25d39b621005c032fef8bad726b20246c138665d4da83951099e37e9d00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,41 @@ relationships:
   target: pt:dre:674436:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:187697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633704:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:674436:por
+  label: "Revogada pelo DEC LEI.306/91.17.08.1991.PCM, DR.IS-A [188] de 17.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/306-1991-674436
+  date: '1991-08-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:20Z'
   warnings: []
   errors: []
 ---
@@ -106,17 +131,17 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Trabalho
 
 3.º Ficam revogados o Regulamento da Carteira Profissional dos Toureiros, aprovado por despacho ministerial de 3 de Março de 1945, e os artigos 26.º a 42.º e 44.º a 65.º do Regulamento do Espectáculo Tauromáquico e das Condições de Prestação e Remuneração do Trabalho, aprovado por despacho ministerial de 22 de Junho de 1953, com as alterações aprovadas por despacho ministerial de 1 de Maio de 1954.
 
-**O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.**
+O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.
 
 Regulamento da Profissão dos Artistas Tauromáquicos
 
 ### CAPÍTULO I — (Do exercício da profissão)
 
-###### Artigo 1.º - 1. O exercício da actividade profissional dos artistas tauromáquicos fica sujeito ao regime estabelecido neste Regulamento, aprovado ao abrigo do artigo 5.º do [Decreto-Lei n.º 43181](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43181-1960-514840), de 23 de Setembro de 1960.
+Artigo 1.º - 1. O exercício da actividade profissional dos artistas tauromáquicos fica sujeito ao regime estabelecido neste Regulamento, aprovado ao abrigo do artigo 5.º do [Decreto-Lei n.º 43181](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43181-1960-514840), de 23 de Setembro de 1960.
 
 2. O presente Regulamento é também aplicável em relação aos artistas tauromáquicos do sexo feminino.
 
-###### Art. 2.º - 1. Para os efeitos deste Regulamento, são considerados artistas tauromáquicos os indivíduos que em espectáculos tauromáquicos exercem a actividade nas modalidades de actuação a que correspondem as seguintes categorias:
+Art. 2.º - 1. Para os efeitos deste Regulamento, são considerados artistas tauromáquicos os indivíduos que em espectáculos tauromáquicos exercem a actividade nas modalidades de actuação a que correspondem as seguintes categorias:
 
 a) Cavaleiros tauromáquicos;
 
@@ -134,31 +159,31 @@ f) Toureiro cómico.
 
 3. Para facilidade de expressão, as categorias de cavaleiro tauromáquico e cavaleiro tauromáquico praticante também passam a ser designadas, respectivamente, por cavaleiro e cavaleiro praticante.
 
-###### Art. 3.º Os profissionais indicados nas alíneas a), b), d) e f) do n.º 1 do artigo anterior são também designados cabeças de cartaz.
+Art. 3.º Os profissionais indicados nas alíneas a), b), d) e f) do n.º 1 do artigo anterior são também designados cabeças de cartaz.
 
-###### Art. 4.º - 1. Os cabeças de cartaz, com excepção dos novilheiros praticantes, serão classificados em grupos, consoante a sua categoria artística.
+Art. 4.º - 1. Os cabeças de cartaz, com excepção dos novilheiros praticantes, serão classificados em grupos, consoante a sua categoria artística.
 
 2. A classificação a que se refere o número anterior será proposta pelo Sindicato Nacional dos Toureiros Portugueses, necessitando, para ter validade, da aprovação do director-geral do Trabalho e Corporações, ouvida a Direcção-Geral da Cultura Popular e Espectáculos.
 
-###### Art. 5.º - 1. São reconhecidas as classificações dos artistas tauromáquicos estrangeiros quando atribuídas nos respectivos países, não podendo, todavia, ser consideradas inferiores às dos artistas portugueses de igual categoria profissional que actuem no mesmo espectáculo, para efeitos de remuneração das quadrilhas e de contribuição para o Fundo de Assistência do Sindicato.
+Art. 5.º - 1. São reconhecidas as classificações dos artistas tauromáquicos estrangeiros quando atribuídas nos respectivos países, não podendo, todavia, ser consideradas inferiores às dos artistas portugueses de igual categoria profissional que actuem no mesmo espectáculo, para efeitos de remuneração das quadrilhas e de contribuição para o Fundo de Assistência do Sindicato.
 
 2. Os «bezerristas» estrangeiros são considerados como novilheiros praticantes, para efeitos de contribuição para o Fundo de Assistência do Sindicato e da constituição de quadrilhas.
 
-###### Art. 6.º Para os efeitos do presente Regulamento entende-se por:
+Art. 6.º Para os efeitos do presente Regulamento entende-se por:
 
 a) Elenco, o conjunto de artistas cabeças de cartaz que actua em cada espectáculo;
 
 b) Quadrilha, o conjunto de artistas que coadjuvam os cabeças de cartaz nas suas actuações - bandarilheiros e bandarilheiros praticantes.
 
-###### Art. 7.º Em cada espectáculo o número de cavaleiros praticantes, novilheiros e novilheiros praticantes não poderá exceder, respectivamente, os de cavaleiros, de matadores de toiros e de novilheiros.
+Art. 7.º Em cada espectáculo o número de cavaleiros praticantes, novilheiros e novilheiros praticantes não poderá exceder, respectivamente, os de cavaleiros, de matadores de toiros e de novilheiros.
 
-###### Art. 8.º - 1. Nos espectáculos tauromáquicos classificados como festivais taurinos os elencos podem ser compostos por cabeças de cartaz profissionais e amadores, desde que o número destes não exceda o dos primeiros.
+Art. 8.º - 1. Nos espectáculos tauromáquicos classificados como festivais taurinos os elencos podem ser compostos por cabeças de cartaz profissionais e amadores, desde que o número destes não exceda o dos primeiros.
 
 2. Nos festivais taurinos em que haja lide apeada a entidade organizadora providenciará no sentido da actuação de um novilheiro praticante.
 
 3. No caso de não cumprimento do estabelecido no número anterior, a entidade organizadora, se não provar a impossibilidade de fazer actuar os artistas referidos, ficará sujeita às sanções previstas no Regulamento do Espectáculo Tauromáquico.
 
-###### Art. 9.º - 1. Nos elencos em que participam estrangeiros o número destes não pode ser superior ao dos portugueses, quer na lide a cavalo, quer na lide apeada, salvo o disposto nos números seguintes.
+Art. 9.º - 1. Nos elencos em que participam estrangeiros o número destes não pode ser superior ao dos portugueses, quer na lide a cavalo, quer na lide apeada, salvo o disposto nos números seguintes.
 
 2. Em cada quatro corridas de toiros realizadas numa praça poderá o elenco de uma delas ser organizado sem obediência ao estabelecido no número anterior.
 
@@ -166,7 +191,7 @@ b) Quadrilha, o conjunto de artistas que coadjuvam os cabeças de cartaz nas sua
 
 4. Exceptuam-se do disposto neste artigo os espectáculos previstos no artigo 3.º do Regulamento do Espectáculo Tauromáquico, devendo o substituto ser obrigatóriamente português.
 
-###### Art. 10.º - 1. Nos espectáculos tauromáquicos as quadrilhas serão constituídas por bandarilheiros em número igual ao das reses a lidar, com as seguintes excepções:
+Art. 10.º - 1. Nos espectáculos tauromáquicos as quadrilhas serão constituídas por bandarilheiros em número igual ao das reses a lidar, com as seguintes excepções:
 
 a) Na lide a cavalo de uma só rês cada quadrilha será constituída por dois bandarilheiros;
 
@@ -182,19 +207,19 @@ b) Na lide apeada o número de bandarilheiros será acrescido de uma unidade.
 
 6. O disposto neste artigo não é aplicável às garraiadas e às variedades taurinas.
 
-###### Art. 11.º - 1. Nas garraiadas os bandarilheiros serão em número não inferior a quatro.
+Art. 11.º - 1. Nas garraiadas os bandarilheiros serão em número não inferior a quatro.
 
 2. Nas variedades taurinas, quando o número de vacas não exceder o de garraios, o número de bandarilheiros não poderá ser inferior a três e, quando o número de garraios for igual ou superior ao de vacas, o número de bandarilheiros não poderá ser inferior a quatro.
 
 3. Nas garraiadas cada novilheiro praticante será coadjuvado por um bandarilheiro praticante.
 
-###### Art. 12.º - 1. Nas quadrilhas cujos cabeças de cartaz sejam estrangeiros é obrigatória a inclusão de bandarilheiros nacionais em percentagem não inferior a 50 por cento do número total dos seus componentes.
+Art. 12.º - 1. Nas quadrilhas cujos cabeças de cartaz sejam estrangeiros é obrigatória a inclusão de bandarilheiros nacionais em percentagem não inferior a 50 por cento do número total dos seus componentes.
 
 2. A actuação de bandarilheiros de nacionalidade estrangeira não residentes em Portugal só é permitida quando os respectivos cabeças de cartaz forem da mesma nacionalidade.
 
 3. A homologação de contratos com bandarilheiros estrangeiros residentes em Portugal carece de parecer do Sindicato.
 
-###### Art. 13.º - 1. Sempre que não seja dado cumprimento ao que neste Regulamento se estabelece quanto ao número de bandarilheiros ou bandarilheiros praticantes, as entidades organizadoras dos espectáculos contribuirão para o Fundo de Assistência do Sindicato com a importância correspondente ao dobro da remuneração do profissional em falta, salvo caso de impossibilidade de actuação daquele devidamente comprovada.
+Art. 13.º - 1. Sempre que não seja dado cumprimento ao que neste Regulamento se estabelece quanto ao número de bandarilheiros ou bandarilheiros praticantes, as entidades organizadoras dos espectáculos contribuirão para o Fundo de Assistência do Sindicato com a importância correspondente ao dobro da remuneração do profissional em falta, salvo caso de impossibilidade de actuação daquele devidamente comprovada.
 
 2. Quando o lugar de bandarilheiro ou bandarilheiro praticante em falta for ocupado por um profissional pertencente a outra quadrilha, este receberá 50 por cento da remuneração a que o primeiro teria direito.
 
@@ -204,15 +229,15 @@ b) Na lide apeada o número de bandarilheiros será acrescido de uma unidade.
 
 5. O bandarilheiro que faltar ao espectáculo sem motivo justificado pagará 50 por cento dos honorários previstos no respectivo contrato para o Fundo de Assistência do Sindicato.
 
-###### Art. 14.º Os matadores de toiros e novilheiros, tanto portugueses como estrangeiros, serão auxiliados por moços de espada de nacionalidade portuguesa.
+Art. 14.º Os matadores de toiros e novilheiros, tanto portugueses como estrangeiros, serão auxiliados por moços de espada de nacionalidade portuguesa.
 
-###### Art. 15.º A Direcção-Geral do Trabalho e Corporações poderá autorizar a actuação de menores de 18 anos quando, pùblicamente, hajam revelado aptidões para o exercício da actividade.
+Art. 15.º A Direcção-Geral do Trabalho e Corporações poderá autorizar a actuação de menores de 18 anos quando, pùblicamente, hajam revelado aptidões para o exercício da actividade.
 
 ### CAPÍTULO II — (Do ingresso e acesso na profissão)
 
-###### Art. 16.º O ingresso na profissão é reservado aos indivíduos maiores de 18 anos, com as habilitações literárias mínimas exigidas por lei, que possuam condições físicas para o exercício da actividade e preencham os demais requisitos para tanto exigidos neste Regulamento.
+Art. 16.º O ingresso na profissão é reservado aos indivíduos maiores de 18 anos, com as habilitações literárias mínimas exigidas por lei, que possuam condições físicas para o exercício da actividade e preencham os demais requisitos para tanto exigidos neste Regulamento.
 
-###### Art. 17.º São condições especiais para a atribuição das seguintes categorias:
+Art. 17.º São condições especiais para a atribuição das seguintes categorias:
 
 a) De cavaleiro praticante - actuação em, pelo menos, cinco espectáculos tauromáquicos como cavaleiro amador e aprovação na prova de aptidão respectiva;
 
@@ -226,9 +251,9 @@ e) De moço de espada - apresentação de documento comprovativo de aptidão pro
 
 f) De embolador - apresentação de documento comprovativo de aptidão profissional, assinado por um cavaleiro, um bandarilheiro e dois emboladores, portugueses.
 
-###### Art. 18.º As provas de aptidão referidas nas alíneas a), b) e c) do artigo anterior serão prestadas em festivais taurinos, novilhadas ou novilhadas populares.
+Art. 18.º As provas de aptidão referidas nas alíneas a), b) e c) do artigo anterior serão prestadas em festivais taurinos, novilhadas ou novilhadas populares.
 
-###### Art. 19.º - 1. A prestação das provas a que se refere o artigo anterior, bem como o ingresso nas categorias que não dependem da prestação de quaisquer provas, serão requeridos à direcção do Sindicato, em impresso fornecido pelo mesmo organismo.
+Art. 19.º - 1. A prestação das provas a que se refere o artigo anterior, bem como o ingresso nas categorias que não dependem da prestação de quaisquer provas, serão requeridos à direcção do Sindicato, em impresso fornecido pelo mesmo organismo.
 
 2. O requerimento será acompanhado de:
 
@@ -248,9 +273,9 @@ f) Importância fixada no artigo 39.º deste Regulamento.
 
 4. Das decisões da direcção do Sindicato relativamente ao previsto no número anterior há recurso para o director-geral do Trabalho e Corporações.
 
-###### Art. 20.º O acesso às categorias de cavaleiro tauromáquico e de bandarilheiro só é permitido aos indivíduos que tenham actuado, respectivamente, como cavaleiro praticante e como bandarilheiro praticante em, pelo menos, dez espectáculos e hajam sido aprovados na respectiva prova de alternativa.
+Art. 20.º O acesso às categorias de cavaleiro tauromáquico e de bandarilheiro só é permitido aos indivíduos que tenham actuado, respectivamente, como cavaleiro praticante e como bandarilheiro praticante em, pelo menos, dez espectáculos e hajam sido aprovados na respectiva prova de alternativa.
 
-###### Art. 21.º - 1. As provas de alternativa serão prestadas em corridas de toiros.
+Art. 21.º - 1. As provas de alternativa serão prestadas em corridas de toiros.
 
 2. Os cavaleiros e bandarilheiros só poderão tomar alternativa nas praças de 1.ª e 2.ª categoria.
 
@@ -260,19 +285,19 @@ f) Importância fixada no artigo 39.º deste Regulamento.
 
 5. Os requerimentos a que se refere o número anterior serão acompanhados de duas fotografias, iguais e recentes, do tipo bilhete de identidade, e da respectiva importância fixada no artigo 39.º deste Regulamento.
 
-###### Art. 22.º - 1. O acesso à categoria de novilheiro é reservado aos novilheiros praticantes que tenham actuado em, pelo menos, dez espectáculos.
+Art. 22.º - 1. O acesso à categoria de novilheiro é reservado aos novilheiros praticantes que tenham actuado em, pelo menos, dez espectáculos.
 
 2. A atribuição da categoria referida no número anterior será solicitada em requerimento dirigido à direcção do Sindicato, acompanhado de duas fotografias, iguais e recentes, do tipo bilhete de identidade, e da respectiva importância fixada no artigo 39.º deste Regulamento.
 
-###### Art. 23.º Só pode ser atribuída a categoria de matador de toiros aos novilheiros que tenham obtido alternativa em corrida de toiros «de morte», que terá de ser comprovada por documento passado pelo organismo competente do país onde a tomaram.
+Art. 23.º Só pode ser atribuída a categoria de matador de toiros aos novilheiros que tenham obtido alternativa em corrida de toiros «de morte», que terá de ser comprovada por documento passado pelo organismo competente do país onde a tomaram.
 
-###### Art. 24.º As datas e as praças em que se realizarão as provas de aptidão e de alternativa referidas neste Regulamento serão indicadas, pelos respectivos candidatos, à direcção do Sindicato.
+Art. 24.º As datas e as praças em que se realizarão as provas de aptidão e de alternativa referidas neste Regulamento serão indicadas, pelos respectivos candidatos, à direcção do Sindicato.
 
-###### Art. 25.º Os candidatos às categorias de cavaleiro e cavaleiro praticante são considerados como tendo estas categorias durante a prestação das provas respectivas, para efeito da composição dos elencos.
+Art. 25.º Os candidatos às categorias de cavaleiro e cavaleiro praticante são considerados como tendo estas categorias durante a prestação das provas respectivas, para efeito da composição dos elencos.
 
-###### Art. 26.º As provas para o ingresso nas categorias de bandarilheiro e de bandarilheiro praticante serão prestadas com reses de lide a cavalo e com reses de lide apeada, com prévia autorização expressa dos respectivos cabeças de cartaz.
+Art. 26.º As provas para o ingresso nas categorias de bandarilheiro e de bandarilheiro praticante serão prestadas com reses de lide a cavalo e com reses de lide apeada, com prévia autorização expressa dos respectivos cabeças de cartaz.
 
-###### Art. 27.º - 1. Os júris das provas de aptidão serão constituídos por um representante do Sindicato, que presidirá, e por dois profissionais, um dos quais será, obrigatóriamente, da especialidade do examinando - cavaleiro, matador ou bandarilheiro.
+Art. 27.º - 1. Os júris das provas de aptidão serão constituídos por um representante do Sindicato, que presidirá, e por dois profissionais, um dos quais será, obrigatóriamente, da especialidade do examinando - cavaleiro, matador ou bandarilheiro.
 
 2. Os júris das provas de alternativa a que se refere o artigo 21.º serão constituídos por um representante do Sindicato, que presidirá, por um cavaleiro e por um bandarilheiro.
 
@@ -280,31 +305,31 @@ f) Importância fixada no artigo 39.º deste Regulamento.
 
 4. Os componentes dos júris serão designados pela direcção do Sindicato.
 
-###### Art. 28.º As decisões dos júris a que se refere o artigo anterior serão consignadas em actas assinadas por todos os membros, as quais deverão ser afixadas na sede do Sindicato no prazo máximo de oito dias a contar da data da realização das provas e por um período de tempo não inferior a oito dias.
+Art. 28.º As decisões dos júris a que se refere o artigo anterior serão consignadas em actas assinadas por todos os membros, as quais deverão ser afixadas na sede do Sindicato no prazo máximo de oito dias a contar da data da realização das provas e por um período de tempo não inferior a oito dias.
 
-###### Art. 29.º No caso de os candidatos a provas de aptidão ou alternativa previstas neste Regulamento não obterem aprovação nos respectivos exames, só poderão requerer novas provas decorrido o prazo de seis meses.
+Art. 29.º No caso de os candidatos a provas de aptidão ou alternativa previstas neste Regulamento não obterem aprovação nos respectivos exames, só poderão requerer novas provas decorrido o prazo de seis meses.
 
 ### CAPÍTULO III — (Da carteira profissional)
 
-###### Art. 30.º - 1. A carteira profissional dos artistas tauromáquicos é título obrigatório para o exercício da actividade, nas modalidades correspondentes às categorias enumeradas no artigo 2.º
+Art. 30.º - 1. A carteira profissional dos artistas tauromáquicos é título obrigatório para o exercício da actividade, nas modalidades correspondentes às categorias enumeradas no artigo 2.º
 
 2. O disposto no número anterior não é aplicável às actuações de profissionais, em modalidades diferentes daquelas para que estiverem habilitados, nos espectáculos classificados como festivais taurinos.
 
-###### Art. 31.º - 1. O exercício da actividade de novilheiro praticante depende de autorização da Direcção-Geral do Trabalho e Corporações, ouvido o Sindicato.
+Art. 31.º - 1. O exercício da actividade de novilheiro praticante depende de autorização da Direcção-Geral do Trabalho e Corporações, ouvido o Sindicato.
 
 2. As autorizações a que se refere o número anterior serão concedidas por períodos de um ano e substituem, para todos os efeitos, a carteira profissional.
 
-###### Art. 32.º - 1. A carteira profissional, do modelo aprovado pela Direcção-Geral do Trabalho e Corporações, será passada pelo Sindicato aos indivíduos que satisfaçam as condições estabelecidas neste Regulamento para o ingresso e acesso na profissão.
+Art. 32.º - 1. A carteira profissional, do modelo aprovado pela Direcção-Geral do Trabalho e Corporações, será passada pelo Sindicato aos indivíduos que satisfaçam as condições estabelecidas neste Regulamento para o ingresso e acesso na profissão.
 
 2. A passagem das carteiras será efectuada a pedido dos interessados, mediante requerimento em impresso fornecido pelo Sindicato.
 
-###### Art. 33.º - 1. A carteira profissional conterá, além do nome, filiação, data de nascimento, categoria, número do bilhete de identidade e fotografia do titular, a data e o número de ordem da sua emissão, assim como os espaços necessários para revalidações e averbamentos.
+Art. 33.º - 1. A carteira profissional conterá, além do nome, filiação, data de nascimento, categoria, número do bilhete de identidade e fotografia do titular, a data e o número de ordem da sua emissão, assim como os espaços necessários para revalidações e averbamentos.
 
 2. As carteiras profissionais deverão ser assinadas pelos seus titulares e pelo presidente da direcção do Sindicato e só serão válidas depois de visadas pelos serviços competentes da Direcção-Geral do Trabalho e Corporações e da Direcção-Geral da Cultura Popular e Espectáculos.
 
-###### Art. 34.º Os vistos nas carteiras dependem da apresentação dos respectivos processos, organizados pelo Sindicato.
+Art. 34.º Os vistos nas carteiras dependem da apresentação dos respectivos processos, organizados pelo Sindicato.
 
-###### Art. 35.º - 1. As carteiras profissionais serão revalidadas anualmente pelo Sindicato, no decurso do mês de Fevereiro.
+Art. 35.º - 1. As carteiras profissionais serão revalidadas anualmente pelo Sindicato, no decurso do mês de Fevereiro.
 
 2. A falta de revalidação das carteiras terá como consequência a impossibilidade de os seus titulares continuarem a exercer a profissão.
 
@@ -312,11 +337,11 @@ f) Importância fixada no artigo 39.º deste Regulamento.
 
 4. A cópia do requerimento a que se refere o número anterior, em que será passado recibo da carteira, será imediatamente devolvida e substituirá, para todos os efeitos, a carteira profissional respectiva durante o período de trinta dias.
 
-###### Art. 36.º É obrigatória a apresentação das carteiras profissionais aos funcionários da Inspecção do Trabalho e aos delegados técnicos da Direcção-Geral da Cultura Popular e Espectáculos sempre que aos seus titulares seja solicitada.
+Art. 36.º É obrigatória a apresentação das carteiras profissionais aos funcionários da Inspecção do Trabalho e aos delegados técnicos da Direcção-Geral da Cultura Popular e Espectáculos sempre que aos seus titulares seja solicitada.
 
-###### Art. 37.º Nos casos de deterioração ou extravio de carteiras profissionais, o Sindicato passará aos interessados segunda via, mediante requerimento, entregando desde logo documento provisório, que substituirá, para todos os efeitos, a carteira profissional em falta.
+Art. 37.º Nos casos de deterioração ou extravio de carteiras profissionais, o Sindicato passará aos interessados segunda via, mediante requerimento, entregando desde logo documento provisório, que substituirá, para todos os efeitos, a carteira profissional em falta.
 
-###### Art. 38.º - 1. Haverá recurso a todo o tempo para o Ministro das Corporações e Previdência Social:
+Art. 38.º - 1. Haverá recurso a todo o tempo para o Ministro das Corporações e Previdência Social:
 
 a) Da denegação da passagem de carteiras profissionais;
 
@@ -326,7 +351,7 @@ b) De qualquer decisão do Sindicato relativa a carteiras profissionais, conside
 
 3. Se a direcção do Sindicato não proceder nos termos do número anterior, a Direcção-Geral do Trabalho e Corporações poderá emitir, a favor do indivíduo em causa, uma autorização provisória para o exercício da profissão, que substituirá, para todos os efeitos, a carteira profissional.
 
-###### Art. 39.º - 1. O Sindicato cobrará as seguintes importâncias, que constituirão receita própria do organismo:
+Art. 39.º - 1. O Sindicato cobrará as seguintes importâncias, que constituirão receita própria do organismo:
 
 a) Pela admissão a provas de alternativa:
 
@@ -354,23 +379,23 @@ Fora do prazo, por facto imputável ao requerente ... 40$00
 
 2. A importância prevista no número anterior para matador de toiros será cobrada quando do averbamento da alternativa na carteira profissional.
 
-###### Art. 40.º As carteiras profissionais cujos titulares tenham deixado de exercer definitivamente a actividade deverão ser entregues no Sindicato, a fim de serem inutilizadas com o carimbo «Anulada», em tipo destacado, aposto em todas as suas faces ou folhas, após o que poderão ser devolvidas aos interessados, a seu pedido.
+Art. 40.º As carteiras profissionais cujos titulares tenham deixado de exercer definitivamente a actividade deverão ser entregues no Sindicato, a fim de serem inutilizadas com o carimbo «Anulada», em tipo destacado, aposto em todas as suas faces ou folhas, após o que poderão ser devolvidas aos interessados, a seu pedido.
 
-###### Art. 41.º A passagem de carteiras profissionais a estrangeiros residentes em Portugal depende de autorização do Ministro das Corporações e Previdência Social.
+Art. 41.º A passagem de carteiras profissionais a estrangeiros residentes em Portugal depende de autorização do Ministro das Corporações e Previdência Social.
 
-###### Art. 42.º Os profissionais que exercerem a actividade sem estarem na posse da carteira profissional válida incorrem nas sanções previstas no artigo 11.º do [Decreto-Lei n.º 43181](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43181-1960-514840), de 23 de Setembro de 1960.
+Art. 42.º Os profissionais que exercerem a actividade sem estarem na posse da carteira profissional válida incorrem nas sanções previstas no artigo 11.º do [Decreto-Lei n.º 43181](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43181-1960-514840), de 23 de Setembro de 1960.
 
 ### CAPÍTULO IV — (Disposições gerais e transitórias)
 
-###### Art. 43.º Aos matadores de toiros podem, mediante pedido formulado à direcção do Sindicato, ser atribuídas as categorias de novilheiro ou bandarilheiro.
+Art. 43.º Aos matadores de toiros podem, mediante pedido formulado à direcção do Sindicato, ser atribuídas as categorias de novilheiro ou bandarilheiro.
 
-###### Art. 44.º - 1. O exercício gratuito da actividade por artistas portugueses em qualquer espectáculo obriga a empresa ou entidade organizadora ao pagamento de 25 por cento do que seria a remuneração mínima dos mesmos artistas, que reverterá para o Fundo de Assistência do Sindicato Nacional dos Toureiros Portugueses.
+Art. 44.º - 1. O exercício gratuito da actividade por artistas portugueses em qualquer espectáculo obriga a empresa ou entidade organizadora ao pagamento de 25 por cento do que seria a remuneração mínima dos mesmos artistas, que reverterá para o Fundo de Assistência do Sindicato Nacional dos Toureiros Portugueses.
 
 2. O pagamento indicado no número anterior será efectuado, antes do início do espectáculo, no referido Sindicato.
 
-###### Art. 45.º Nos espectáculos tauromáquicos (com excepção das variedades taurinas) em que actuem forcados a empresa ou entidade organizadora fica obrigada ao pagamento da importância de 300$00, que reverterá para o Fundo de Assistência do Sindicato Nacional dos Toureiros Portugueses.
+Art. 45.º Nos espectáculos tauromáquicos (com excepção das variedades taurinas) em que actuem forcados a empresa ou entidade organizadora fica obrigada ao pagamento da importância de 300$00, que reverterá para o Fundo de Assistência do Sindicato Nacional dos Toureiros Portugueses.
 
-###### Art. 46.º Os profissionais estrangeiros que actuem em praças portuguesas como cabeças de cartaz, mesmo que gratuitamente, contribuirão para o Fundo de Assistência do Sindicato Nacional dos Toureiros Portugueses, por cada espectáculo em que intervenham, com as seguintes importâncias:
+Art. 46.º Os profissionais estrangeiros que actuem em praças portuguesas como cabeças de cartaz, mesmo que gratuitamente, contribuirão para o Fundo de Assistência do Sindicato Nacional dos Toureiros Portugueses, por cada espectáculo em que intervenham, com as seguintes importâncias:
 
 Matadores de toiros e cavaleiros (rejoneadores):
 
@@ -390,14 +415,14 @@ Novilheiros:
 
 Outros artistas ... 300$00
 
-###### Art. 47.º A tabela estabelecida no artigo anterior, bem como a prevista no n.º 1 do artigo 39.º, poderão ser revistas por despacho do Ministro das Corporações e Previdência Social, sob proposta do Sindicato Nacional dos Toureiros Portugueses.
+Art. 47.º A tabela estabelecida no artigo anterior, bem como a prevista no n.º 1 do artigo 39.º, poderão ser revistas por despacho do Ministro das Corporações e Previdência Social, sob proposta do Sindicato Nacional dos Toureiros Portugueses.
 
-###### Art. 48.º - 1. O exercício das profissões abrangidas por este Regulamento por parte de estrangeiros depende de autorização do Ministério das Corporações e Previdência Social, a qual só deverá ser concedida depois de feita a prova de ter sido paga a importância prevista no artigo 2.º do Decreto-Lei n.º 43190, de 23 de Setembro de 1960, e a estabelecida no artigo 46.º deste Regulamento.
+Art. 48.º - 1. O exercício das profissões abrangidas por este Regulamento por parte de estrangeiros depende de autorização do Ministério das Corporações e Previdência Social, a qual só deverá ser concedida depois de feita a prova de ter sido paga a importância prevista no artigo 2.º do Decreto-Lei n.º 43190, de 23 de Setembro de 1960, e a estabelecida no artigo 46.º deste Regulamento.
 
 2. Para efeitos do estabelecido no número anterior, as empresas ou entidades que contratarem artistas estrangeiros serão solidàriamente responsáveis pelo pagamento das referidas importâncias.
 
-###### Art. 49.º O Sindicato passará carteira profissional de modelo aprovado pela Direcção-Geral do Trabalho e Corporações aos profissionais legalmente habilitados a exercer a actividade na data da publicação deste Regulamento, os quais, para o efeito, deverão o apresentar o respectivo requerimento no prazo máximo de noventa dias a contar daquela data.
+Art. 49.º O Sindicato passará carteira profissional de modelo aprovado pela Direcção-Geral do Trabalho e Corporações aos profissionais legalmente habilitados a exercer a actividade na data da publicação deste Regulamento, os quais, para o efeito, deverão o apresentar o respectivo requerimento no prazo máximo de noventa dias a contar daquela data.
 
-###### Art. 50.º Os casos omissos e as dúvidas suscitadas na interpretação deste Regulamento serão resolvidos pelo Ministro das Corporações e Previdência Social, ouvida a Corporação dos Espectáculos.
+Art. 50.º Os casos omissos e as dúvidas suscitadas na interpretação deste Regulamento serão resolvidos pelo Ministro das Corporações e Previdência Social, ouvida a Corporação dos Espectáculos.
 
-**O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.**
+O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.

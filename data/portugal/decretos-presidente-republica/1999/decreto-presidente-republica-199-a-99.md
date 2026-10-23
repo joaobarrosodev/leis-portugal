@@ -19,20 +19,21 @@ summary: Nomeia, sob proposta do Primeiro-Ministro, o Dr. Luís Filipe Marques A
   Silva Santos Secretário de Estado da Indústria e Energia, o Sr. Vítor José Cabrita Neto Secretário de Estado do Turismo,
   o Sr. Rui António Ferreira Cunha Secretário de Estado Adjunto do Ministro do Trabalho e da Solidariedade, o Dr. Paulo José
   Fernandes Pedroso Secretário de Estado do Trabalho e Formação, o Dr. José António Fonseca Vieira da Silva Secretário de
-  Estado da Segurança Social, o Dr. Eduard o Arménio do Nascimento Cabrita Secretário de Estado Adjunto do Ministro da Justiça,
-  o Dr. Diogo Campos Barradas de Lacerda Machado Secretário de Estado da Justiça, o engenheiro António Ricardo Rocha de Magalhães
-  Secretário de Estado Adjunto da Ministra do Planeamento, o Dr. João Nuno Marques de Carvalho Mendes Secretário de Estado
-  do Planeamento, o Sr. José Apolinário Nunes Portada Secretário de Estado das Pescas, o Dr. Luís Medeiros Vieira Secretário
-  de Estado dos Mercados Agrícolas e da Qualidade Alimentar, o engenheiro Victor Manuel Coelho Barros Secretário de Estado
-  do Desenvolvimento Rural, a Prof.ª Doutora Ana Maria Benavente da Silva Nuno Secretária de Estado da Educação, o Prof. Doutor
-  José Joaquim Dinis Reis Secretário de Estado do Ensino Superior, o Prof. Doutor Augusto Ernesto Santos Silva Secretário
-  de Estado da Administração Educativa, o Dr. José Miguel Marques Boquinhas Secretário de Estado da Saúde, o Sr. Arnaldo Jorge
-  d'Assunção Silva Secretário de Estado dos Recursos Humanos e da Modernização da Saúde, o engenheiro Rui Nobre Gonçalves
-  Secretário de Estado do Ambiente, o Dr. Manuel Pedro Cunha da Silva Pereira Secretário de Estado do Ordenamento do Território
-  e da Conservação da Natureza, a Dr.ª Catarina Marques de Almeida Vaz Pinto Secretária de Estado da Cultura, o Dr. Alexandre
-  António Cantigas Rosa Secretário de Estado da Administração Pública e da Modernização Administrativa, o Dr. Alberto Arons
-  Braga de Carvalho Secretário de Estado da Comunicação Social, o Sr. Acácio Manuel de Frias Barreiros Secretário de Estado
-  para a Defesa do Consumidor e o Dr. Luís Miguel de Oliveira Fontes Secretário de Estado da Juventude
+  Estado da Segurança Social, o Dr. Eduard                                       o Arménio do Nascimento Cabrita Secretário
+  de Estado Adjunto do Ministro da Justiça, o Dr. Diogo Campos Barradas de Lacerda Machado Secretário de Estado da Justiça,
+  o engenheiro António Ricardo Rocha de Magalhães Secretário de Estado Adjunto da Ministra do Planeamento, o Dr. João Nuno
+  Marques de Carvalho Mendes Secretário de Estado do Planeamento, o Sr. José Apolinário Nunes Portada Secretário de Estado
+  das Pescas, o Dr. Luís Medeiros Vieira Secretário de Estado dos Mercados Agrícolas e da Qualidade Alimentar, o engenheiro
+  Victor Manuel Coelho Barros Secretário de Estado do Desenvolvimento Rural, a Prof.ª Doutora Ana Maria Benavente da Silva
+  Nuno Secretária de Estado da Educação, o Prof. Doutor José Joaquim Dinis Reis Secretário de Estado do Ensino Superior, o
+  Prof. Doutor Augusto Ernesto Santos Silva Secretário de Estado da Administração Educativa, o Dr. José Miguel Marques Boquinhas
+  Secretário de Estado da Saúde, o Sr. Arnaldo Jorge d'Assunção Silva Secretário de Estado dos Recursos Humanos e da Modernização
+  da Saúde, o engenheiro Rui Nobre Gonçalves Secretário de Estado do Ambiente, o Dr. Manuel Pedro Cunha da Silva Pereira Secretário
+  de Estado do Ordenamento do Território e da Conservação da Natureza, a Dr.ª Catarina Marques de Almeida Vaz Pinto Secretária
+  de Estado da Cultura, o Dr. Alexandre António Cantigas Rosa Secretário de Estado da Administração Pública e da Modernização
+  Administrativa, o Dr. Alberto Arons Braga de Carvalho Secretário de Estado da Comunicação Social, o Sr. Acácio Manuel de
+  Frias Barreiros Secretário de Estado para a Defesa do Consumidor e o Dr. Luís Miguel de Oliveira Fontes Secretário de Estado
+  da Juventude
 jurisdiction: portugal
 territory: null
 document_type: decreto-presidente-republica
@@ -48,7 +49,7 @@ publication:
   reference: Diário da República n.º 252/1999, 1º Suplemento, Série I-A de 1999-10-28
   number: '252'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7304-(3) a 7304-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/252a01/00030003.pdf
 entry_into_force_dates: []
@@ -75,18 +76,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/199-a/1999/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/199-a-1999-413400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T04:31:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8013dd1d50b850bd3a9f54b09f0367702b649f825588fad970fe5eb72ed06d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc673a8d34d5a038beabf7bbd4d5bea1d6f7c086f76f11b75bd1341c67462cdd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:31:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -95,63 +96,96 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Governo XIV
-- Secretário de Estado da Administração Interna
-- Secretário de Estado do Ensino Superior
-- Secretário de Estado do Ordenamento do Território e da Conservação da Natureza
-- Secretário de Estado do Turismo
-- Secretário de Estado Adjunto do Ministro da Administração Interna
-- Secretário de Estado Adjunto do Ministro da Justiça
-- Secretário de Estado Adjunto e das Obras Públicas
-- Secretário de Estado da Cultura
-- Secretário de Estado da Educação
-- Secretário de Estado do Tesouro e das Finanças
-- Secretário de Estado dos Assuntos Fiscais
-- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
-- Secretário de Estado da Administração Local
-- Secretário de Estado da Saúde
-- Secretário de Estado dos Transportes
-- Secretário de Estado da Justiça
-- Secretário de Estado do Ambiente
-- Secretário de Estado das Comunidades Portuguesas
-- Secretário de Estado para os Assuntos Europeus
-- Secretário de Estado do Desporto
 - Nomeação
+- Secretário de Estado Adjunto do Ministro da Administração Interna
 - Secretário de Estado Adjunto do Ministro da Economia
+- Secretário de Estado Adjunto do Ministro da Justiça
 - Secretário de Estado Adjunto do Ministro do Planeamento
 - Secretário de Estado Adjunto do Ministro do Trabalho e da Solidariedade
+- Secretário de Estado Adjunto e das Obras Públicas
 - Secretário de Estado da Administração Educativa
+- Secretário de Estado da Administração Interna
+- Secretário de Estado da Administração Local
 - Secretário de Estado da Administração Marítima e Portuária
 - Secretário de Estado da Administração Pública e Modernização Administrativa
 - Secretário de Estado da Comunicação Social
+- Secretário de Estado da Cultura
+- Secretário de Estado da Educação
 - Secretário de Estado da Habitação
 - Secretário de Estado da Indústria e Energia
+- Secretário de Estado da Justiça
 - Secretário de Estado da Juventude
+- Secretário de Estado da Saúde
 - Secretário de Estado da Segurança Social
+- Secretário de Estado das Comunidades Portuguesas
 - Secretário de Estado das Pescas
+- Secretário de Estado do Ambiente
 - Secretário de Estado do Comércio e Serviços
 - Secretário de Estado do Desenvolvimento Rural
+- Secretário de Estado do Desporto
+- Secretário de Estado do Ensino Superior
 - Secretário de Estado do Orçamento
+- Secretário de Estado do Ordenamento do Território e da Conservação da Natureza
 - Secretário de Estado do Planeamento
+- Secretário de Estado do Tesouro e das Finanças
 - Secretário de Estado do Trabalho e Formação
+- Secretário de Estado do Turismo
+- Secretário de Estado dos Assuntos Fiscais
 - Secretário de Estado dos Assuntos Parlamentares
 - Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar
+- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
 - Secretário de Estado dos Recursos Humanos e da Modernização da Saúde
+- Secretário de Estado dos Transportes
 - Secretário de Estado para a Defesa do Consumidor
+- Secretário de Estado para os Assuntos Europeus
 relationships:
 - type: amended_by
   target: pt:dre:621704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:424967:por
+  label: "Exonerados o Sr. José Narciso Rodrigues de Miranda do cargo de Secretário de Estado da Administração Marítima e\
+    \ Portuária e o Prof. Doutor António do Pranto Nogueira Leite do cargo de Secretário de Estado do Tesouro e das Finanças\
+    \ pelo DEC.39-C/2000.2000.09.18.PR,DR.IS-A [216]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/39-c-2000-424967
+  date: '2000-09-18'
+- type: amended_by
+  target: pt:dre:424968:por
+  label: "Exonerados o Prof. Doutor Fernando Manuel dos Santos Vigário Pacheco do cargo de Secretário de Estado Orçamento,\
+    \ o Prof. Doutor Manuel Pedro da Cruz Baganha do cargo de Secretário de Estado dos Assuntos Fiscais, o Dr. Luís Medeiros\
+    \ Vieira do cargo de Secretário de Estado dos Mercados Agrícolas e da Qualidade Alimentar e o Sr. Arnaldo Jorge d'Assunção\
+    \ Silva do cargo de Secretário de Estado dos Recursos Humanos e da Modernização da Saúde pelo DEC.39-D/2000.2000.09.18.PR,DR.IS-A\
+    \ [216]Supl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/39-d-2000-424968
+  date: '2000-09-18'
+- type: amended_by
+  target: pt:dre:359704:por
+  label: "Exonerado o eng.º José Manuel Lello Ribeiro de Almeida pelo DEC.82-B/2000.2000.12.18.PR, DR.IS-A [290]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/82-b-2000-359704
+  date: '2000-12-18'
+- type: amended_by
+  target: pt:dre:359705:por
+  label: "Exonerado o Dr. Luís Manuel Santos Silva Patrão pelo DEC.82-C/2000.2000.12.18.PR, DR.IS-B [290]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/82-c-2000-359705
+  date: '2000-12-18'
+- type: amended_by
+  target: pt:dre:621704:por
+  label: "Exonerados o Dr. Alberto Arons Braga de Carvalho e o Sr. Acácio Manuel Frias Barreiros, respectivamente dos cargos\
+    \ de Secretário de Estado da Comunicação Social e de Secretário de Estado para a Defesa do Consumidor, pelo DEC.34-E/2001.2001.07.04.PR\
+    \ DR.IS-A [153]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/34-a-2001-621704
+  date: '2001-07-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:31:23Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +194,7 @@ validation:
 
 de 28 de Outubro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -246,12 +280,12 @@ O Sr. Acácio Manuel de Frias Barreiros Secretário de Estado para a Defesa do C
 
 O Dr. Luís Miguel de Oliveira Fontes Secretário de Estado da Juventude.
 
-**Assinado em 28 de Outubro de 1999.**
+Assinado em 28 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Outubro de 1999.**
+Referendado em 28 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

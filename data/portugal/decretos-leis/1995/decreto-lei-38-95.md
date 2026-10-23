@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/38/1995/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1995-197687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 786de80824412da53b1938cd778befc2a7d89bbdb3e77cf27f8a1eab9f1321eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4187af3c54ed764b82882ebc3657749145c4d0f265dac5804953b15cfa163fb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/199/1991/05/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/199/1991/05/29/p/dre
+- type: cites
+  target: pt:dre:179847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630781:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:41Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +132,9 @@ Assim:
 
 No desenvolvimento do regime, estabelecido na [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 27 de Outubro, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 5.º, 8.º, 9.º, 10.º, 11.º, 13.º, 14.º e 15.º do [Decreto-Lei n.º 199/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1988-374255), de 31 de Maio, alterado pelo [Decreto-Lei n.º 199/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1991-630781), de 29 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 5.º, 8.º, 9.º, 10.º, 11.º, 13.º, 14.º e 15.º do [Decreto-Lei n.º 199/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1988-374255), de 31 de Maio, alterado pelo [Decreto-Lei n.º 199/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1991-630781), de 29 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 3.º 1 - ...
+Art. 3.º 1 - ...
 
 2 - ...
 
@@ -122,7 +146,7 @@ c) ...
 
 d) ...
 
-###### Art. 5.º - 1 - A indemnização pela privação temporária do uso e fruição prevista na alínea c) do n.º 1 do artigo 3.º corresponderá ao valor do rendimento líquido dos bens durante o período em que o seu titular tiver ficado privado do respectivo uso e fruição, tendo em conta a exploração praticada nos prédios rústicos à data da sua expropriação ou nacionalização, ou da sua ocupação, no caso de esta a ter precedido.
+Art. 5.º - 1 - A indemnização pela privação temporária do uso e fruição prevista na alínea c) do n.º 1 do artigo 3.º corresponderá ao valor do rendimento líquido dos bens durante o período em que o seu titular tiver ficado privado do respectivo uso e fruição, tendo em conta a exploração praticada nos prédios rústicos à data da sua expropriação ou nacionalização, ou da sua ocupação, no caso de esta a ter precedido.
 
 2 - O valor do rendimento líquido a que se refere o número anterior será calculado com base no somatório das seguintes parcelas:
 
@@ -140,7 +164,7 @@ d) Rendimento florestal líquido do prédio, calculado de acordo com os critéri
 
 5 - Se a reserva tiver sido atribuída sobre prédio diverso do que foi ocupado, nacionalizado ou expropriado, haverá lugar à indemnização por privação temporária de uso e fruição, na medida em que o valor da reserva tenha sido abatido ao valor do prédio ocupado, nacionalizado ou expropriado nos termos da alínea a) do n.º 2 do artigo 3.º
 
-###### Art. 8.º - 1 - A indemnização definitiva devida, no âmbito do presente diploma, pelas nacionalizações ou expropriações efectuadas ao abrigo da legislação sobre reforma agrária, será determinada oficiosamente ou, a pedido dos indemnizados, através de requerimento dirigido ao Ministro da Agricultura.
+Art. 8.º - 1 - A indemnização definitiva devida, no âmbito do presente diploma, pelas nacionalizações ou expropriações efectuadas ao abrigo da legislação sobre reforma agrária, será determinada oficiosamente ou, a pedido dos indemnizados, através de requerimento dirigido ao Ministro da Agricultura.
 
 2 - A determinação das indemnizações definitivas será efectuada pelo Estado ou por entidades privadas, escolhidas através de concurso público, as quais proporão ao Governo a fixação de um valor em cada processo.
 
@@ -150,13 +174,13 @@ d) Rendimento florestal líquido do prédio, calculado de acordo com os critéri
 
 5 - A partir da data de entrada em vigor do presente diploma deixam de ser aceites novos pedidos de fixação de indemnização provisória e deverão ser arquivados os processos pendentes a ela referentes.
 
-###### Art. 9.º - 1 - ...
+Art. 9.º - 1 - ...
 
 2 - No caso de um dos seus bens ou direitos respeitar a várias pessoas, o cálculo do valor do bem ou direito, para efeitos de indemnização, decorrerá no processo que primeiro se iniciar, devendo sempre ser notificados os demais titulares do início do processo de avaliação dos valores que resultarem do cálculo realizado.
 
 3 - No, caso de o prédio ou conjunto de prédios da mesma pessoa se situar em vários distritos, o cálculo do seu valor decorrerá no processo de avaliação correspondente ao distrito em que se situar a parte de maior dimensão.
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 2 - ...
 
@@ -168,7 +192,7 @@ c) Os rendimentos líquidos médios e os valores fundiários.
 
 3 - O valor das construções e edificações existentes à data da ocupação, nacionalização ou expropriação será determinado, independentemente do que constar na matriz ou no cadastro, com base no seu valor intrínseco, correspondente a uma percentagem do custo estimado da construção das mesmas, no ano em que ocorreu a ocupação, nacionalização ou expropriação, a qual reflectirá o número de anos da construção e o seu estado de conservação.
 
-###### Art. 11.º - 1 - O valor do capital de exploração abrangido pela nacionalização ou expropriação ou que haja sido retirado aos seus proprietários com a ocupação será indemnizado com base no inventário realizado na data da ocupação, nacionalização ou expropriação e que integre o respectivo processo de devolução desses bens.
+Art. 11.º - 1 - O valor do capital de exploração abrangido pela nacionalização ou expropriação ou que haja sido retirado aos seus proprietários com a ocupação será indemnizado com base no inventário realizado na data da ocupação, nacionalização ou expropriação e que integre o respectivo processo de devolução desses bens.
 
 2 - Na falta de inventário nos termos do número anterior, deverá a entidade avaliadora tentar proceder à reconstituição da situação à data da ocupação, nacionalização ou expropriação, colhendo outra prova documental que esteja disponível.
 
@@ -180,13 +204,13 @@ c) Os rendimentos líquidos médios e os valores fundiários.
 
 6 - A indemnização relativa a produtos armazenados não devolvidos será calculada com base no valor corrente à data da indemnização.
 
-###### Art. 13.º - 1 - Sendo atribuída reserva ou declarada a reversão ao titular de bens e direitos que hajam sido objecto de nacionalização ou expropriação, o valor dos bens e direitos atribuídos será apurado de acordo com as mesmas regras e critérios aplicados para a determinação do valor dos bens e direitos expropriados e nacionalizados, mas será reportado à situação real do bem ou direito reservado ou revertido à data da devolução.
+Art. 13.º - 1 - Sendo atribuída reserva ou declarada a reversão ao titular de bens e direitos que hajam sido objecto de nacionalização ou expropriação, o valor dos bens e direitos atribuídos será apurado de acordo com as mesmas regras e critérios aplicados para a determinação do valor dos bens e direitos expropriados e nacionalizados, mas será reportado à situação real do bem ou direito reservado ou revertido à data da devolução.
 
 2 - ...
 
 3 - ...
 
-###### Art. 14.º - 1 - Os proprietários ou titulares de outros direitos reais de gozo sobre bens nacionalizados ou expropriados a quem tenham sido devolvidos esses bens em data posterior à da ocupação, nacionalização ou expropriação terão direito a uma indemnização pela privação temporária de uso e fruição dos bens devolvidos.
+Art. 14.º - 1 - Os proprietários ou titulares de outros direitos reais de gozo sobre bens nacionalizados ou expropriados a quem tenham sido devolvidos esses bens em data posterior à da ocupação, nacionalização ou expropriação terão direito a uma indemnização pela privação temporária de uso e fruição dos bens devolvidos.
 
 2 - O período de privação referido no número anterior conta-se desde o momento da ocupação desses bens até ao regresso à posse dos mesmos bens pelos seus titulares, independentemente da existência de acto administrativo com esse objectivo.
 
@@ -194,24 +218,24 @@ c) Os rendimentos líquidos médios e os valores fundiários.
 
 4 - No caso de prédio arrendado, a indemnização prevista no n.º 1 será atribuída ao arrendatário cuja posição jurídica haja sido interrompida em consequência da nacionalização, cabendo ao titular de direito real que dispunha de uso e fruição do prédio uma indemnização pelo não recebimento das rendas devidas pelo arrendamento.
 
-###### Art. 15.º - 1 - Os títulos das indemnizações atribuídas ao abrigo do presente diploma podem ser mobilizados, pelo seu valor nominal, para pagamento de dívidas do respectivo titular ao Estado, vencidas à data de entrada em vigor do presente diploma, ou para aquisição ou subscrição de participações sociais de sociedades a privatizar do sector agro-alimentar.
+Art. 15.º - 1 - Os títulos das indemnizações atribuídas ao abrigo do presente diploma podem ser mobilizados, pelo seu valor nominal, para pagamento de dívidas do respectivo titular ao Estado, vencidas à data de entrada em vigor do presente diploma, ou para aquisição ou subscrição de participações sociais de sociedades a privatizar do sector agro-alimentar.
 
 2 - Os títulos de indemnização referidos no número anterior serão convertidos em dinheiro, ao seu valor nominal, pelo Fundo de Regularização da Dívida Pública, contra a sua apresentação pelas sociedades a que se refere o mesmo número.
 
 3 - As participações sociais adquiridas ao abrigo do n.º 1 não podem ser oneradas nem ser objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de cinco anos a contar da data da respectiva aquisição, sob pena de nulidade do referido negócio.
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 199/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1988-374255), de 31 de Maio, alterado pelo [Decreto-Lei n.º 199/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1991-630781), de 29 de Maio, o seguinte artigo:
+Art. 2.º É aditado ao [Decreto-Lei n.º 199/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1988-374255), de 31 de Maio, alterado pelo [Decreto-Lei n.º 199/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1991-630781), de 29 de Maio, o seguinte artigo:
 
-###### Art. 16.º As fórmulas técnicas necessárias à determinação das indemnizações previstas no presente diploma serão objecto de portaria conjunta dos Ministros das Finanças e da Agricultura.
+Art. 16.º As fórmulas técnicas necessárias à determinação das indemnizações previstas no presente diploma serão objecto de portaria conjunta dos Ministros das Finanças e da Agricultura.
 
 Visto e aprovado em Conselho de Ministros de 24 de Novembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - António Duarte Silva.
 
-**Promulgado em 24 de Janeiro de 1995.**
+Promulgado em 24 de Janeiro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1995.**
+Referendado em 26 de Janeiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

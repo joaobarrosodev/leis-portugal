@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/06/136a00/28842885.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/150/1997/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1997-367398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 271d61436642d262f28f13193066f6f4f84601e3bf2be463e20c5bc229523570
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c0e64aa5598379988749730965755571d727a6c00cef051d9f7ed5a4c46f258
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Estatuto dos Funcionários de Justiça
-- Pessoal de Justiça
-- Oficial de Justiça
-- Recrutamento de Pessoal
-- Orgânica
+- Gestão de Recursos Humanos
 - Ministério Público
 - Mobilidade de Pessoal
+- Oficial de Justiça
+- Orgânica
 - Organização Judiciária
+- Pessoal de Justiça
+- Recrutamento de Pessoal
 - Secretaria Judicial
-- Gestão de Recursos Humanos
 - Tribunal Judicial
 relationships:
 - type: amended_by
@@ -90,16 +90,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/378/1991/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/378/1991/10/09/p/dre
+- type: cites
+  target: pt:dre:288235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666745:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:428653:por
+  label: "Revogado pelo DEC LEI.343/99.1999.08.26.MJ,DR.IS-A [199]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/343-1999-428653
+  date: '1999-08-26'
 article_structure:
-  article_count: 11
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:49Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +161,9 @@ Os artigos 40.º, 43.º, 44.º, 46.º, 55.º, 61.º, 67.º, 68.º e 71.º do [De
 
 6 - ...
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -152,7 +171,9 @@ Os artigos 40.º, 43.º, 44.º, 46.º, 55.º, 61.º, 67.º, 68.º e 71.º do [De
 
 3 - ...
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -170,11 +191,15 @@ b) Quando, nos termos do n.º 3 do artigo 55.º, o funcionário haja sido nomead
 
 6 - ...
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 Os oficiais de justiça que sejam autorizados a desistir de provimento em lugar para o qual foram nomeados passam à situação de disponibilidade, não gozando, contudo, da preferência consagrada no n.º 4 do artigo 71.º
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - ...
 
@@ -188,7 +213,9 @@ Os oficiais de justiça que sejam autorizados a desistir de provimento em lugar 
 
 6 - ...
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
@@ -196,13 +223,17 @@ Os oficiais de justiça que sejam autorizados a desistir de provimento em lugar 
 
 3 - ...
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - Nenhum oficial de justiça pode ser requisitado, destacado ou provido interinamente antes de decorrido um ano de efectivo serviço no respectivo lugar ou enquanto nele se encontre provisoriamente provido.
 
 2 - ...
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - ...
 
@@ -218,7 +249,9 @@ Os oficiais de justiça que sejam autorizados a desistir de provimento em lugar 
 
 7 - ...
 
-###### Artigo 71.º — Disponibilidade e licenças
+Artigo 71.º
+
+Disponibilidade e licenças
 
 1 - ...
 
@@ -242,12 +275,12 @@ O regime instituído pelo presente diploma aplica-se ao concurso externo de ingr
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1997. - António Manuel de Oliveira Guterres - José Manuel de Matos Fernandes.
 
-**Promulgado em 27 de Maio de 1997.**
+Promulgado em 27 de Maio de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Maio de 1997.**
+Referendado em 30 de Maio de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

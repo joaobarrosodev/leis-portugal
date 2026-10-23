@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/73-1989-618890
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-17T00:00:00Z'
+  retrieved_at: '2026-10-23T07:43:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 460d529198be3db482b490618dd76b0b14e3553707ef48a30dc59e46cc815e53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87e2af205bc254513c9f9ffb7f5789285b34a3039aec2389051ab457964c3025
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:43:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Universitária
+- Ensino Superior
+- Estatuto
+- Universidade do Porto
 relationships:
 - type: amended_by
   target: pt:dre:344428:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:344428:por
+  label: "Homologada a primeira alteração aos Estatutos homologados pelo presente diploma, pelo DN.23/2001.2001.05.17.ME DR.IS-B\
+    \ [114] DE 17/MAI/2001 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/23-2001-344428
+  date: '2001-05-17'
+- type: cites
+  target: pt:dre:244884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358363:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:505243:por
+  label: Rectificado pela DECL.DD3512.1989.10.04.PCM, DR.IS [251]2ºSupl de 31/Out/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-505243
+  date: '1989-10-04'
 article_structure:
-  article_count: 50
+  article_count: 51
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:43:40Z'
   warnings: []
   errors: []
 ---
@@ -824,7 +851,9 @@ Ao relatório e às contas anuais será dada adequada publicidade.
 
 A Universidade do Porto, bem como as unidades orgânicas e os estabelecimentos referidos nos artigos 8.º e 9.º destes Estatutos, estão isentos, nos termos que a lei prescreve, de impostos, taxas, custas, emolumentos e selos.
 
-### CAPÍTULO VI — Artigo 47.º
+### CAPÍTULO VI
+
+###### Artigo 47.º
 
 Revisão dos Estatutos
 

@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 259/1973, 1º Suplemento, Série I de 1973-11-06
   number: '259'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2120-(4) a 2120-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1973/11/25901/00040004.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/762-1973-358114
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:14:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24e7b8a026b27583ada9b2d8ba78abb7b870aa3898f829b9ed6c18cfc6144592
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c114f345fdf9f8ab26446efc1e1961fb16c4919a57f4a32fe70219037122cdc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:14:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:14:26Z'
   warnings: []
   errors: []
 ---
@@ -86,6 +90,6 @@ de 6 de Novembro
 
 Manda o Governo da República Portuguesa, pelo Ministro das Finanças, com fundamento no n.º 1 e suas alíneas b) e d) do artigo 3.º do [Decreto-Lei n.º 54/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1972-398130), de 15 de Fevereiro, efectuar as seguintes transferências de verbas nos Ministérios abaixo designados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/25901/00040004.pdf))](https://files.diariodarepublica.pt/1s/1973/11/25901/00040004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/25901/00040004.pdf)
 
 Ministério das Finanças, 25 de Outubro de 1973. - Pelo Ministro das Finanças, Augusto Victor Coelho, Secretário de Estado do Orçamento.

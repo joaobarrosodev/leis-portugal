@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/03/057a00/20502053.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/62/2006/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2006-667875
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a2999397a17b46d02df7bc6dfd4992d28cc294941a1bfcff1bc16f06c35f9f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5cc1c19444cf2209a53370565f31ae0d0ac7ff04b10212f6d86061fbda39b45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aproximação das Legislações
+- ASAE
+- Combustível
+- Comércio
 - Comissão de Aplicação de Coimas em Matéria Económica e Publicidade
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
-- Combustível
+- Direcção Geral de Geologia e Energia
 - Fiscalização
 - Importação
-- ASAE
-- Direcção Geral de Geologia e Energia
 - Produtor
-- Açores
-- Comércio
 - Transporte
 - Transporte Público
 relationships:
@@ -84,6 +84,17 @@ relationships:
   target: pt:dre:114337041:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:448966:por
+  label: "Alterado o art. 10º, pelo DEC LEI.89/2008.30.05.2008.MEI, DR.IS [104] de 30.05.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-2008-448966
+  date: '2008-05-30'
+- type: amended_by
+  target: pt:dre:438706:por
+  label: "Alterado o art. 7º do presente diploma, e renumerados os seus números, pelo DEC LEI.206/2008.23.10.2008.MEI, DR.IS\
+    \ [206] de 23.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-2008-438706
+  date: '2008-10-23'
 - type: cites
   target: celex:32001L0077
   label: null
@@ -92,16 +103,34 @@ relationships:
   target: celex:32003L0030
   label: null
   source: http://data.europa.eu/eli/dir/2003/30/oj
+- type: repealed_by
+  target: pt:dre:604599:por
+  label: "Revogada a al. a) do nº1 do art. 14º pelo DEC LEI.49/2009.26.02.2009.MEI, DR.IS [40] de 26.02.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2009-604599
+  date: '2009-02-26'
+- type: repealed_by
+  target: pt:dre:307650:por
+  label: "Revogado, a partir de 01.01.2011 e com excepção dos arts. 6º e 7º, pelo DEC LEI.117/2010.25.10.2010.MEID, DR.IS\
+    \ [207] de 25.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2010-307650
+  date: '2010-10-25'
+- type: repealed_by
+  target: pt:dre:114337041:por
+  label: Revogado, a partir de 01.01.2018, o presente diploma, na redação dos Decs Leis 89/2008 de 30-mai, 206/2008 de 23-out,
+    49/2009 de 26-fev e 117/2010 de 25-out, pelo(a) Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento,
+    Série I de 2017-12-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-c-2017-114337041
+  date: '2017-12-11'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:07Z'
   warnings: []
   errors: []
 ---
@@ -328,12 +357,12 @@ Sem prejuízo do disposto no n.º 2 do artigo 12.º do presente decreto-lei, a p
 
 Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia.
 
-**Promulgado em 1 de Março de 2006.**
+Promulgado em 1 de Março de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Março de 2006.**
+Referendado em 2 de Março de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

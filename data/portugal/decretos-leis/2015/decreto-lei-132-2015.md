@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13200/0474204742.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/132/2015/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2015-69773249
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a49e607bc16ae7d6d8debb3000a948a112e4d86791147a6c0609b8ac109841b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf78109e5f625cf85fe406e855690988ad58656aa2b50714d6582cd8f3920fda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,38 +67,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema de Autoridade Marítima
+- Agência Portuguesa do Ambiente
+- Contra-ordenação
+- Direcção Geral da Autoridade Marítima
+- Fiscalização
 - Multa
 - Ordenamento do Território
-- Contra-ordenação
 - Orla Costeira
-- Segurança Pública
-- Fiscalização
-- ZONA Marítima
-- Proteção do Ambiente
 - Plano de Ordenamento da Orla Costeira
-- Zona de Proteção
-- Sanção
-- Sinalização
-- Direcção Geral da Autoridade Marítima
 - Praia Marítima
+- Proteção do Ambiente
+- Sanção
+- Segurança Pública
+- Sinalização
+- Sistema de Autoridade Marítima
 - ZONA Balnear
-- Agência Portuguesa do Ambiente
+- Zona de Proteção
+- ZONA Marítima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/159/2012/07/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/159/2012/07/24/p/dre
+- type: cites
+  target: pt:dre:179368:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:53Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +135,9 @@ Os artigos 18.º e 23.º do [Decreto-Lei n.º 159/2012](https://diariodarepublic
 
 A fiscalização do cumprimento do disposto no presente diploma, bem como das respetivas disposições regulamentares, compete à APA, I. P., aos órgãos locais da Autoridade Marítima Nacional e à Polícia Marítima em particular, à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM), às autoridades portuárias, às autarquias locais e demais autoridades policiais.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...].
 
@@ -155,12 +161,12 @@ A fiscalização do cumprimento do disposto no presente diploma, bem como das re
 
 Visto e aprovado em Conselho de Ministros de 7 de maio de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - José Pedro Correia de Aguiar-Branco - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 1 de julho de 2015.**
+Promulgado em 1 de julho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de julho de 2015.**
+Referendado em 3 de julho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

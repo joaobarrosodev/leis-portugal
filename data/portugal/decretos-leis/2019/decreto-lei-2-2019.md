@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/01/00800/0010500108.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/2/2019/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2019-117726476
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa96415546cf0afc10c6be27a2dae1eecdaa784ca1ae6cd8879bc7f1bc8f04c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7737327f66ef0c1365ca547bcb8dd3baf63b912fabdfed1f69b898dbb14e5ca9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,48 +65,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Telefone
-- Proteção Civil
-- Incêndio
-- Prevenção de Incêndios
+- Açores
+- Agência para a Gestão Integrada de Fogos Rurais
+- Agência Portuguesa do Ambiente
+- Autoridade Nacional de Protecção Civil
+- Catástrofe
 - Centro de Coordenação Operacional Distrital
 - Centro de Coordenação Operacional Nacional
 - Comandante
-- Direção Geral da Saúde
 - Comissão Nacional de Protecção Civil
 - Comunicação Social
-- Radiocomunicações
-- REDE Basica de Telecomunicações
-- Rede Privada de Telecomunicações
-- REDE Pública de Telecomunicações
-- Serviço de Telecomunicações Móveis
+- Comunicações
 - Comunicações Eletrónicas
-- SIRESP
 - Criação de Serviços
 - Definição de Competências
-- Segurança Pública
-- Catástrofe
-- Informação
-- Instituto Português do Mar e da Atmosfera
-- Direito à Informação
+- Direção Geral da Saúde
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Direito à Informação
+- Incêndio
+- Informação
 - Instituto da Conservação da Natureza e das Florestas
-- Radiodifusão
 - Instituto Nacional de Saúde Dr Ricardo Jorge
+- Instituto Português do Mar e da Atmosfera
 - Madeira.região Autónoma
 - Presidência do Conselho de Ministros
+- Prevenção de Incêndios
+- Proteção Civil
+- Radiocomunicações
+- Radiodifusão
+- REDE Basica de Telecomunicações
 - REDE Integrada de Comunicações de Emergência
 - REDE Móvel Nacional de Emergência e Segurança
-- Comunicações
+- Rede Privada de Telecomunicações
+- REDE Pública de Telecomunicações
 - REDE Telefonica Móvel
-- Autoridade Nacional de Protecção Civil
+- Região Autónoma
+- Segurança Pública
+- Serviço de Telecomunicações Móveis
 - Siops
-- Açores
-- Televisão
-- Agência para a Gestão Integrada de Fogos Rurais
+- SIRESP
 - Sistema Nacional de Monitorização e Comunicação de Risco de Alerta Especial e de Aviso à População
-- Agência Portuguesa do Ambiente
+- Telefone
+- Televisão
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/5/2004/02/10/p/dre
@@ -120,16 +120,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/160/2017/10/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/160/2017/10/30/p/dre
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114123460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581061:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:56Z'
   warnings: []
   errors: []
 ---
@@ -282,12 +294,14 @@ O presente decreto-lei produz efeitos a 1 de janeiro de 2019.
 
 Visto e aprovado em Conselho de Ministros de 6 de dezembro de 2018. - António Luís Santos da Costa - Carlos Manuel Soares Miguel - Marta Alexandra Fartura Braga Temido de Almeida Simões - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos - Ana Paula Mendes Vitorino.
 
-**Promulgado em 27 de dezembro de 2018.**
+Promulgado em 27 de dezembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de janeiro de 2019.**
+Referendado em 7 de janeiro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111963736

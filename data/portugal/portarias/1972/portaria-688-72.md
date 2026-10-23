@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/688-1972-686590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:55:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a1074149b17c96cf147c137a8fb868cc017bb1bbb2bb2c65cbc06de7fe56feb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 669fa35a5ebe0f2dc5211fb7a5c50d8e95ca0525fbafaa3636c218744f127406
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:55:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:55:24Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +96,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1.º Reforce com as importâncias que vão designadas as verbas da tabela de despesa extraordinária do orçamento geral da província para o ano económico de 1972 que se indicam:
 
-### Capítulo 12.º, artigo 350.º «III Plano de Fomento - Programa de execução para 1972»:
+Capítulo 12.º, artigo 350.º «III Plano de Fomento - Programa de execução para 1972»:
 
 5) Melhoramentos rurais:
 
@@ -128,7 +132,7 @@ a) Saúde ... 420000$00
 
 2.º Utilize para contrapartida destes reforços disponibilidades das seguintes verbas da mesma tabela orçamental de despesa:
 
-### Capítulo 12.º, artigo 350.º «III Plano de Fomento - Programa de execução para 1972»:
+Capítulo 12.º, artigo 350.º «III Plano de Fomento - Programa de execução para 1972»:
 
 2) Pesca:
 

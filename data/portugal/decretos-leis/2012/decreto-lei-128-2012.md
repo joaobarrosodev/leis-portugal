@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/128/2012/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6469eaee04626a41e20090d5ff4c9ed6adc7f607df8fe54f1e3f43e3194649b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: daf0a56040fc5c4f1cdd4269d5591fd37719d673783d0452bf5ca1c3116de654
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,32 +72,50 @@ subjects:
 - Assistência Medicamentosa
 - Autoridade Tributária e Aduaneira
 - Cobrança
-- Multa
 - Comparticipação
 - Consulta Médica
 - Contra-ordenação
+- Cuidados Médicos
 - Declaração de Rendimentos
 - Definição de Competências
-- Serviço Nacional de Saúde
-- Pagamento
+- Doença
+- Exame Médico
 - Insuficiência Económica
 - Meios Complementares de Diagnóstico
-- Exame Médico
+- Multa
+- Pagamento
 - Preço Máximo
-- Cuidados Médicos
 - Prova
+- Registo Nacional de Utentes
 - Rendimento
-- Doença
+- Serviço Nacional de Saúde
 - Serviços de Urgência
 - Taxa
 - TAXA Moderadora
 - Utente
-- Registo Nacional de Utentes
 relationships:
 - type: amended_by
   target: pt:dre:55076560:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação ao art. 8º-A do Dec Lei 113/2011 de 29-nov, alterado e republicado pelo presente diploma, pela\
+    \ LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:498764:por
+  label: "Alterado o art. 8.º-A, aditado pelo presente diploma, do Dec Lei 113/2011, de 29-nov, na redação da Lei 66-B/2012,\
+    \ de 31-dez, pela LEI.51/2013.24.07.2013.AR, DR.IS [141] de 24.07.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/51-2013-498764
+  date: '2013-07-24'
+- type: amended_by
+  target: pt:dre:55076560:por
+  label: Alterado o art 4.º do Dec Lei 113/2011 de 29-nov, na redação do presente diploma, pelo(a) Decreto-Lei n.º 117/2014
+    - Diário da República n.º 149/2014, Série I de 2014-08-05 que procede à republicação daquele
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2014-55076560
+  date: '2014-08-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/113/2011/11/29/p/dre
   label: null
@@ -138,16 +156,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/349/1996
   label: null
   source: http://data.dre.pt/eli/port/349/1996
+- type: cites
+  target: pt:dre:146061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652284:por
+  label: null
+  source: null
 article_structure:
-  article_count: 21
+  article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:48Z'
   warnings: []
   errors: []
 ---
@@ -202,7 +264,9 @@ i) ...
 
 j) Os desempregados com inscrição válida no centro de emprego auferindo subsídio de desemprego igual ou inferior a 1,5 vezes o indexante de apoios sociais (IAS), que, em virtude de situação transitória ou de duração inferior a um ano, não podem comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º, e o respetivo cônjuge e dependentes.
 
-###### Artigo 5.º — Transporte não urgente
+Artigo 5.º
+
+Transporte não urgente
 
 1 - O transporte não urgente de doentes que seja instrumental à realização das prestações de saúde no âmbito do SNS é isento de encargos para o utente quando a situação clínica o justifique, nas condições a aprovar por portaria do membro do Governo responsável pela área da saúde, e desde que seja comprovada a respetiva insuficiência económica.
 
@@ -212,7 +276,9 @@ j) Os desempregados com inscrição válida no centro de emprego auferindo subs�
 
 4 - O disposto nos números anteriores não se aplica a beneficiários de subsistemas de saúde, bem como a quaisquer entidades, públicas ou privadas, responsáveis pelos respetivos encargos.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Para efeitos do presente diploma, consideram-se em situação de insuficiência económica os utentes que integrem agregado familiar cujo rendimento médio mensal seja igual ou inferior a 1,5 vezes o valor do IAS.
 
@@ -296,15 +362,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de abril de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira - Paulo José de Ribeiro Moita de Macedo - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 12 de junho de 2012.**
+Promulgado em 12 de junho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de junho de 2012.**
+Referendado em 14 de junho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 

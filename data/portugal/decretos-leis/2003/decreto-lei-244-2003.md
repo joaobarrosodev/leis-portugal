@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/10/232a00/66036606.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/244/2003/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2003-482630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b4e241bbec43d9b4b38c9e001f5fe4ce0ec989bb902805c32a12fe4698e98dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61730c295f0e27c733b80e664d824b29dc31b61eebce169c2bb976caf20077af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sirca
 - Cadáver
+- Sirca
 relationships:
 - type: amended_by
   target: pt:dre:106647823:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:543005:por
+  label: "Alterado o art. 4º e revogados os nºs 1 e 2 do art. 7º, pelo DEC LEI.38/2012.16.02.2012.MAMAOT, DR.IS [34] de 16.02.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2012-543005
+  date: '2012-02-16'
 - type: cites
   target: celex:32000D0766
   label: null
@@ -82,16 +88,41 @@ relationships:
   target: celex:32002R1774
   label: null
   source: http://data.europa.eu/eli/reg/2002/1774/oj
+- type: repealed_by
+  target: pt:dre:357771:por
+  label: "Revogada a alínea c) do n.º 2 do artigo 10.º, pelo DEC LEI.122/2006.27.06.2006.MADRP, DR.IS-A [122] de 27.06.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2006-357771
+  date: '2006-06-27'
+- type: repealed_by
+  target: pt:dre:280485:por
+  label: "Revogado o presente diploma, a partir de 12.02.2011, na redacção do Dec Lei 122/2006, de 27-Jun, pelo DEC LEI.19/2011.07.02.2011.MADRP,\
+    \ DR.IS [26] de 07.02.2011, em tudo o que o contrarie, sendo o art. 5º do presente diploma aplicado até à entrada em vigor\
+    \ do despacho a que se refere o nº 1 do art. 2º do decreto-lei revogatório.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-2011-280485
+  date: '2011-02-07'
+- type: repealed_by
+  target: pt:dre:106647823:por
+  label: Revogado, a partir de 28.03.2017, o presente diploma, alterado pelos Dec Lei 122/2006 de 27-jun, 19/2011 de 07-fev
+    e 38/2012 de 16-fev, pelo(a) Decreto-Lei n.º 33/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2017-106647823
+  date: '2017-03-23'
+- type: repeals
+  target: pt:numero:decreto-lei:197/2002
+  label: "Revoga, à excepção dos anexos n.º 1 e n.º 2, n.º 1, Decreto-Lei n.º 197/2002, de 25 de Setembro, DR.IS-A [222]\0\
+    \0"
+  source: null
+  date: '2002-09-05'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:45Z'
   warnings: []
   errors: []
 ---
@@ -250,12 +281,12 @@ O presente diploma entra em vigor no 15.º dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Agosto de 2003. - José Manuel Durão Barroso - Norberto Emílio Sequeira da Rosa - Maria Celeste Ferreira Lopes Cardona - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 24 de Setembro de 2003.**
+Promulgado em 24 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Setembro de 2003.**
+Referendado em 25 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

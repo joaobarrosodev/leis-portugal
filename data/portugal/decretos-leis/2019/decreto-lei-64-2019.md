@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/05/09400/0247602488.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/64/2019/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2019-122317423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e69c3848dd8ca9ed3d69e75e6771c14f1636bd5bdd1d1c1520be16a97419fdf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30e27b4f780e040ea720714429e399de105c1e68c8abc7ad8275300d78e89de9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,42 +67,51 @@ reuse:
 subjects:
 - Acidente de Trabalho
 - Ajuda Judicial
-- Tempo de Serviço
 - Aposentação
 - Assistência Médica
 - Assistência Medicamentosa
+- Autarquia Local
+- Autoridade Nacional de Emergência e Proteção Civil
+- Bombeiro
 - Bonificação de Pensões
-- Cartão de Identificação
-- Contribuições da Segurança Social
-- Ensino Oficial
-- Carreira Profissional
 - Caixa Geral de Aposentações
+- Carreira Profissional
+- Cartão de Identificação
+- Condições de Higiene e Segurança no Trabalho
+- Contribuições da Segurança Social
+- Doença Profissional
+- Educação Pré-escolar
+- Ensino Oficial
+- Ensino Superior
+- Fardamento
 - Formas de Provimento
 - Fundo de Proteção Social do Bombeiro
 - Isenção de Taxas e Emolumentos
 - Liga dos Bombeiros Portugueses
-- Bombeiro
 - Limite de Idade
+- Mobilidade de Pessoal
 - Pensão de Invalidez
 - Pensão de Velhice
-- Doença Profissional
 - Prestações da Segurança Social
 - Proteção Social
 - Regime Jurídico
-- Condições de Higiene e Segurança no Trabalho
-- Ensino Superior
-- Mobilidade de Pessoal
 - Segurança Social
 - Seguro de Acidentes Pessoais
 - Seguro Social Voluntário
-- Educação Pré-escolar
 - Subsídio de Estudos
 - Subsídio por Morte
 - TAXA Moderadora
-- Autarquia Local
-- Fardamento
-- Autoridade Nacional de Emergência e Proteção Civil
+- Tempo de Serviço
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:113/2011
+  label: Altera os arts. 6.º, 10.º, 17.º, 18.º e 46.º, adita os arts. 6.º-A e 6.º-B, revoga o art. 11.º e o n.º 2 do art.
+    18.º e republica (onde para aqueles efeitos se deve ler «Autoridade Nacional de Emergência e Proteção Civil» e «Decreto-Lei
+    n.º 113/2011, de 29 de novembro, na sua redação atual» em vez de «Autoridade Nacional de Proteção Civil» e «Decreto-Lei
+    n.º 113/2011, de 29 de novembro») o Dec Lei 241/2007 de 21-jun DR.IS [118], na versão republicada pelo Dec Lei 249/2012
+    de 21-nov
+  source: null
+  date: '2007-06-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/113/2011/11/29/p/dre
   label: null
@@ -135,16 +144,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/48/2009/08/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/48/2009/08/04/p/dre
+- type: cites
+  target: pt:dre:107458721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666511:por
+  label: null
+  source: null
 article_structure:
-  article_count: 70
+  article_count: 65
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:34Z'
   warnings: []
   errors: []
 ---
@@ -207,7 +256,9 @@ Os artigos 6.º, 10.º, 17.º, 18.º e 46.º do [Decreto-Lei n.º 241/2007](http
 
 12 - (Anterior n.º 11.)
 
-###### Artigo 10.º — Bonificação de tempo de serviço para efeitos de pensão
+Artigo 10.º
+
+Bonificação de tempo de serviço para efeitos de pensão
 
 1 - Os bombeiros voluntários portugueses que reúnam, pelo menos, 15 anos de serviço no quadro ativo ou de comando têm direito a uma bonificação de tempo de serviço para efeitos de pensão, independentemente do regime de proteção social que os abranja.
 
@@ -223,7 +274,9 @@ Os artigos 6.º, 10.º, 17.º, 18.º e 46.º do [Decreto-Lei n.º 241/2007](http
 
 7 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -231,7 +284,9 @@ Os artigos 6.º, 10.º, 17.º, 18.º e 46.º do [Decreto-Lei n.º 241/2007](http
 
 3 - Para efeitos do disposto nos números anteriores, a atividade prestada como bombeiro voluntário considera-se equiparada a atividade profissional.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - As contribuições para a segurança social do pessoal abrangido pelo regime de seguro social voluntário são calculadas pela aplicação da taxa contributiva relativa ao âmbito material escolhido à base de incidência contributiva escolhida, nos termos previstos no Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.
 
@@ -239,7 +294,9 @@ Os artigos 6.º, 10.º, 17.º, 18.º e 46.º do [Decreto-Lei n.º 241/2007](http
 
 3 - O pagamento das contribuições referidas no n.º 1 é efetuado pelas entidades detentoras dos corpos de bombeiros, sendo ressarcidas pelo Fundo de Proteção Social do Bombeiro.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - O Fundo de Proteção Social do Bombeiro, criado pela portaria do Ministério do Interior, de 4 de junho de 1932, com as inovações da [Portaria n.º 233/87](https://diariodarepublica.pt/dr/detalhe/portaria/233-1987-666511), de 28 de março, no âmbito da Liga dos Bombeiros Portugueses, suporta os encargos previstos nos artigos 6.º, 8.º, 10.º, 18.º, 19.º, 20.º e 21.º .
 
@@ -259,7 +316,9 @@ Benefícios no âmbito dos municípios
 
 3 - As comparticipações referidas no número anterior podem revestir a forma de concessão de subsídios, isenção ou redução de impostos, de taxas, de tarifas e preços, bem como de autorização para utilização de infraestruturas e equipamentos, ou outras consideradas de interesse para promover o exercício do voluntariado de bombeiros.
 
-###### Artigo 6.º-B — Outros benefícios
+Artigo 6.º-B
+
+Outros benefícios
 
 1 - Os bombeiros voluntários beneficiam ainda das seguintes regalias:
 
@@ -291,15 +350,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de março de 2019. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem - Manuel Frederico Tojal de Valsassina Heitor - José António Fonseca Vieira da Silva - Marta Alexandra Fartura Braga Temido de Almeida Simões.
 
-**Promulgado em 2 de maio de 2019.**
+Promulgado em 2 de maio de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de maio de 2019.**
+Referendado em 7 de maio de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -1074,3 +1133,5 @@ c) O [Decreto-Lei n.º 297/2000](https://diariodarepublica.pt/dr/detalhe/decreto
 ###### Artigo 51.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no 1.º dia do 3.º mês após a sua publicação, sem prejuízo do disposto no artigo 49.º
+
+112283686

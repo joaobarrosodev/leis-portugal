@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/108/2008/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fda92b598514beec88cdf112e5308ad019a5e02942546cbd777056be76e5751c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a12f21db889d49a29c6296b0ab895bfa43d15ba4525a58010ff80403acca123
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,258 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Benefícios Fiscais
 - Código do IRC
 - Código do IRS
 - Estatuto dos Benefícios Fiscais
-- IRS
 - IRC
-- Benefícios Fiscais
+- IRS
 relationships:
 - type: amended_by
   target: pt:dre:205557192:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:440498:por
+  label: "Alterado o art. 46º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, - revisto e republicado\
+    \ pelo Dec Lei 198/2001, de 03-Jul, na redacção do presente diploma, pela LEI.64/2008.05.12.2008.AR, DR.IS [236] de 05.12.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-2008-440498
+  date: '2008-12-05'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 68.º (antigo art. 64.º, renumerado pelo presente diploma) ao Estatuto dos Benefícios Fiscais, aprovado\
+    \ pelo Dec Lei 215/89 de 01-Jul, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:604822:por
+  label: "Alterados os art.s 19º (antigo art. 17º) e 32º (antigo art. 31º) do Estatuto dos Benefícios Fiscais, aprovado pelo\
+    \ Dec Lei 215/89, de 01-Jul, na redacção do presente diploma, pela LEI.10/2009.10.03.2009.AR, DR.IS [48] de 10.03.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-2009-604822
+  date: '2009-03-10'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterados os arts. 32º (antigo art. 31º), 44.º, 47.º e 49.º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec\
+    \ Lei 215/89, de 01-Jul, alterado, renumerado de acordo com a tabela de correspondência e republicado pelo presente diploma,\
+    \ pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:334098:por
+  label: "Alterado o art. 22º do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89 de 01-Jul, com a redacção e\
+    \ republicação constantes do presente diploma, e aditado o art. 72º ao Estatuto, pela LEI.15/2010.26.07.2010.AR, DR.IS\
+    \ [143] de 26.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2010-334098
+  date: '2010-07-26'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterados os arts. 21º, 48º e 49º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na\
+    \ redacção do presente diploma, pela LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterados os art.s 17º, 21º, 22º, 26º, 33º, 46º e 48º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei\
+    \ 215/89, de 01-Jul, na redacção do presente diploma, pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:552023:por
+  label: "Alterado o art. 44º e revogados os nºs. 6 e 19 do art. 33º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec\
+    \ Lei 215/89, de 10-jul, renumerado e republicado pelo presente diploma, pela LEI.20/2012.14.05.2012.AR, DR.IS [93] de\
+    \ 14.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-2012-552023
+  date: '2012-05-14'
+- type: amended_by
+  target: pt:dre:175305:por
+  label: "Alterado, a partir de 12.11. 2012, o art. 44º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89,\
+    \ de 01- jul, renumerado (com tabela de correspondência) e republicado pelo presente diploma, pela LEI.31/2012.14.08.2012.AR,\
+    \ DR.IS [157] de 14.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-2012-175305
+  date: '2012-08-14'
+- type: amended_by
+  target: pt:dre:174543:por
+  label: "Aditado, a partir de 01.01.2013, à parte II o capítulo XII, com a epígrafe «Benefícios pela exigência de fatura»,\
+    \ constituído pelo art. 66º-B ao Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-jul, e renumerado\
+    \ (com tabela de correspondência) e republicado pelo presente diploma, pelo DEC LEI.198/2012.24.08.2012.MF, DR.IS [164]\
+    \ de 24.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-2012-174543
+  date: '2012-08-24'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação aos arts. 22º, 48º, 58º e 69º ; e revogado o art. 72º do Estatuto dos Benefícios Fiscais, aprovado\
+    \ pelo Dec Lei 215/89 de 01-jul, alterado, renumerado e republicado pelo presente diploma, pela LEI.66-B/2012.31.12.2012.AR,\
+    \ DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:496766:por
+  label: "Dada nova redação ao art. 41º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89 de 01-jul, alterado\
+    \ renumerado e republicado pelo presente diploma, pelo DEC LEI.82/2013.17.06.2013.MF, DR.IS [114] de 17.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-2013-496766
+  date: '2013-06-17'
+- type: amended_by
+  target: pt:dre:484127:por
+  label: "Dada nova redação ao art. 36.º e ao art. 66.º-B do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89\
+    \ de 01-jul, alterado, renumerado e republicado pelo presente diploma, pela LEI.83/2013.09.12.2013.AR, DR.IS [238] de\
+    \ 09.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-2013-484127
+  date: '2013-12-09'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterados os arts. 36.º (na redação da Lei 83/2013, de 09-dez), 46.º(rectificado pela Decl DD3500, de 31-out de\
+    \ 1989, e na redacção das Leis 65/90, de 28-dez, 75/93, de 20-dez, 10-B/96, de 23-mar, 52-C/96, de 27-dez, 127-B/97, de\
+    \ 20-dez, 32-B/2002, de 30-dez e 53-A/2006, de 29-dez, do presente diploma e da Lei 64-B/2011, de 30-dez), 49.º (na redação\
+    \ do presente diploma e das Leis 3-B/2010, de 28-abr e 55-A/2010, de 31-dez ), 60.º(na redação do Dec Lei 185/2009, de\
+    \ 12-ago) e 69.º (na redação das Leis 64-B/2011, de 30-dez e 66-B/2012, de 31-dez), aditado um cap. xiii à parte ii, composto\
+    \ pelos arts 66.º-C a 66.º-L e revogados o art. 32.º, os n.os 1 e 2 do art. 32.º-A e 4 a 7 do art. 41.º, o art. 42.º e\
+    \ a al. b) do n.º 5 e os n.os 9 a 11 do art. 60.º, todos do Estatuto dos Benefícios Fiscais (EBF), aprovado pelo Dec Lei\
+    \ 215/89 de 01-jul, renumerado e republicado pelo presente diploma, pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl]\
+    \ de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:57701290:por
+  label: Dada nova redação aos arts. 23.º. 24.º e 36.º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89 de
+    01-jul, alterado, renumerado e republicado pelo presente diploma, pelo(a) Lei n.º 75-A/2014 - Diário da República n.º
+    188/2014, 1º Suplemento, Série I de 2014-09-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-a-2014-57701290
+  date: '2014-09-30'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Alterados os arts 48.º_antigo art 45.º_, 62.º_antigo art. 56.º-D_ e 69.º_antigo art 65.º_, do Estatuto dos Benefícios
+    Fiscais (EBF), aprovado pelo Dec Lei 215/89 de 01-jul, renumerado (com tabela de correspondência) e republicado pelo presente
+    diploma, pelo(a) Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66022084:por
+  label: Dada nova redação ao art. 44.º - anterior art. 40.º, e ao art. 45.º - anterior art. 40.º-A; e aditados os arts. 44.º-A,
+    44.º-B, 59.º-A, 59.º-B, 59.º-C e 59.º-D ao Estatuto dos Benefícios Fiscais (EBF), aprovado pelo Dec Lei 215/89 de 01-jul,
+    revisto pelo Dec Lei 198/2001 de 03-jul, alterado, renumerado com tabela de correspondência e republicado pelo presente
+    diploma, pelo(a) Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-d-2014-66022084
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66022085:por
+  label: Alterados os arts. 18.º e 58.º (este último na redação da Lei 66-B/2012, de 31-dez), aditados os arts. 20.º-A e 39.º-A
+    e revogados os arts. 66.º-B e 74.º do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89 de 01-jul, revisto
+    pelo Dec Lei 198/2001 de 03-jul, alterado, renumerado e republicado pelo presente diploma, pelo(a) Lei n.º 82-E/2014 -
+    Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-e-2014-66022085
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66145328:por
+  label: Alterados os arts. 22.º(na redação das Leis 15/2010 de 26-jul, 64-B/2011 de 30-dez e 66-B/2012, de 31-dez), 24.º
+    (na redação da Lei 75-A/2014, de 30-set) e 71.º (aditado pela Lei 64-A/2008 de 31-dez, na redação da Lei 66-B/2012, de
+    31-dez) e aditado o art. 22.º-A ao Estatuto dos Benefícios Fiscais (EBF) aprovado pelo Dec Lei 215/89, de 01-jul, alterado,
+    renumerado e republicado pelo presente diploma, pelo(a) Decreto-Lei n.º 7/2015 - Diário da República n.º 8/2015, Série
+    I de 2015-01-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2015-66145328
+  date: '2015-01-13'
+- type: amended_by
+  target: pt:dre:67647961:por
+  label: Alterado o art. 7.º e aditado o art. 36.º-A ao Estatuto dos Benefícios Fiscais (EBF), aprovado pelo Dec Lei 215/89
+    de 01-jul, alterado, renumerado e republicado pelo presente diploma, pelo(a) Lei n.º 64/2015 - Diário da República n.º
+    126/2015, Série I de 2015-07-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-2015-67647961
+  date: '2015-07-01'
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Alterados os arts. 22.º-A (aditado pelo Dec. Lei 7/2015 de 13-jan), 24.º (na redação da Lei 75-A/2014 de 30-set,
+    e do Dec. Lei 7/2015 de 13-jan), 27.º (na redação das Leis 55-A/2010 de 31-Dez, e 64-B/2011 de 30-dez), 44.º (na redação
+    das Leis 3-B/2010 de 28-abr, 55-A/2010 de 31-dez, 20/2012 de 14-mai, 31/2012 de 14-ago, e 82-D/2014 de 31-dez), 55.º,
+    66.º-A (aditado pela 64-B/2011 de 30-dez), 69.º (na redação das Leis 64-B/2011 de 30-dez, 66-B/2012 de 31-dez, 83-c/2013
+    de 31-dez, e 82-B/2014 de 31-dez) e 71.º (aditado pela Lei 64-A/2008 de 31-dez, e na redação da Lei 66-B/2012 de 31-dez,
+    e do Dec. Lei 7/2015 de 13-jan), aditados os arts. 32.º-B, 32.º-C, 32.º-D e 40.º-A, e revogados os arts. 48.º e 49.º do
+    Estatuto dos Benefícios Fiscais (EBF), aprovado pelo Dec. Lei 215/89 de 01-jul, na versão renumerada, com tabela de correspondência,
+    e republicada do EBF pelo presente diploma, pelo(a) Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento,
+    Série I de 2016-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-a-2016-73958532
+  date: '2016-03-30'
+- type: amended_by
+  target: pt:dre:74953317:por
+  label: Alterado o art. 70.º (aditado pela Lei 64-A/2008 de 31-dez e na redação das Leis 3-B/2010 de 28-abr, 55-A/2010 de
+    31-dez, e 64-B/2011 de 30-dez) e revogados os n.ºs 1, 2 e 3 do mesmo art. 70.º do Estatuto dos Benefícios Fiscais (EBF)
+    aprovado pelo Dec. Lei 215/89 de 01-jul, na versão renumerada, com tabela de correspondência, e republicada do EBF pelo
+    presente diploma, pelo(a) Decreto-Lei n.º 38/2016 - Diário da República n.º 135/2016, Série I de 2016-07-15 nos termos
+    do seu art. 3.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2016-74953317
+  date: '2016-07-15'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Alterados os arts. 14.º, 17.º (na redação da Lei 64-B/2011, de 30-dez), 22.º (na redação das Leis 15/2010, de 26-jul,
+    64-B/2011, de 30-dez, 66-B/2012, de 31-dez e do Dec Lei 7/2015, de 13-jan), 30.º, 41.º-A, 44.º-B (aditado pela Lei 82-D/2014,
+    de 31-dez), 46.º (na redação das Leis 64/2008, de 05-dez, 64-B/2011, de 30-dez e 83-C/2013, de 31-dez) e 70.º (aditado
+    pela Lei 64-A/2008, de 31-dez, na redação das Leis 3-B/2010, de 28-abr, 55-A/2010, de 31-dez e 64-B/2011, de 30-dez e
+    pelo Dec Lei 38/2016, de 15-jul), aditados os arts. 41.º-B, 43.º-A e 59.º-E, prorrogadas por um ano, nos termos do art.
+    226.º, as normas que consagram os benefícios fiscais que caducariam a 01.01.2017, constantes dos arts. 19.º (na redação
+    da Lei 10/2009, de 10-mar), 20.º, 26.º (na redação da Lei 64-B/2011, de 30-dez), 28.º, 29.º, 30.º, 31.º, 47.º (na redação
+    da Lei 3-B/2010, de 28-abr), 50.º, 51.º, 52.º, 53.º, 54.º, 63.º e 64.º e revogados as als. a) e b) do n.º 1 e o n.º 3
+    do art. 41.º-A e o n.º 14 do art. 66.º-A todos do Estatuto dos Benefícios Fiscais (EBF) aprovado em anexo ao Dec Lei 215/89,
+    de 01-jul, na versão revista e republicada pelo presente diploma pelo(a) Lei n.º 42/2016 - Diário da República n.º 248/2016,
+    Série I de 2016-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
+  date: '2016-12-28'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Alterados os arts. 13.º, 14.º (com a redação dada pela Lei 42/2016 de 28-dez), 41.º-A (com a redação dada pelo Dec
+    Lei 162/2014 de 03-out e pela Lei 42/2016 de 28-dez), 44.º (com a redação dada pela Lei 3-B/2010 de 28-abr, pela Lei 55-A/2010
+    de 31-dez, pela Lei 20/2012 de 14-maio, pela Lei 31/2012 de 18-ago, pela Lei 82-D/2014 de 31-dez e pela Lei 7-A/2016 de
+    30-mar), 45.º (com a redação dada pela Lei 82-D/2014 de 31-dez), 59.º-D (aditado pela Lei 82-D/2014 de 31-dez e com a
+    redação dada pela Lei 110/2017 de 15-dez), 59.º-F (aditado pelo Dec Lei 22/2017 de 22-fev – retificado pela Decl Ret 13/2017
+    de 13-abr), 60.º (com a redação dada pelo Dec Lei 185/2009 de 12-ago e pela Lei 83-C/2013 de 31-dez), 62.º (com a redação
+    dada pela Lei 82-B/2014 de 31-dez), 66.º-A (aditado pela Lei 64-B/2011 de 30-dez e com a redação dada pela Lei 7-A/2016
+    de 30-mar) e 71.º (com a redação dada pela Lei 64-A/2008 de 31-dez, pela Lei 66-B/2012 de 31-dez, pelo Dec Lei 7/2015
+    de 13-jan e pela Lei 7-A/2016 de 30-mar), aditados os arts. 19.º-A, 43.º-B, 43.º-C, 59.º-G e 59.º-H, prorrogado, nos termos
+    do disposto no art. 266.º da Lei 114/2017 de 29-dez, o art. 62.º-A - «Mecenato Científico» (aditado pela Lei 64-B/2011
+    de 30-dez) pelo prazo previsto no n.º 1 do art. 3.º, assim como foram prorrogados, nos termos do disposto no n.º 2 do
+    art. 265.º da Lei 114/2017 de 29-dez, a vigência dos benefícios fiscais, previstos no n.º 1 do art. 226.º citada Lei 42/2016
+    (constantes dos arts. 19.º, 20.º, 26.º, 28.º, 29.º, 30.º, 31.º, 47.º, 50.º, 51.º, 52.º, 53.º, 54.º, 63.º, e 64.º do EBF),
+    e revogados os n.ºs 12 e 13 do art. 60.º e os n.ºs 8, 20, 22, 25 e 26 do art. 71.º todos do Estatuto dos Benefícios Fiscais
+    (EBF), aprovado pelo Dec Lei 215/89 de 01-jul, na versão revista e republicada pelo presente diploma, pelo(a) Lei n.º
+    114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
+- type: amended_by
+  target: pt:dre:115946548:por
+  label: Alterado o art. 31.º, na redação do presente diploma, do Estatuto dos Benefícios Fiscais (EBF), aprovado pelo Dec
+    Lei 215/89 de 01-jul, pelo(a) Lei n.º 43/2018 - Diário da República n.º 153/2018, Série I de 2018-08-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/43-2018-115946548
+  date: '2018-08-09'
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Alterados os arts. 17.º (na redação das Leis 64-B/2011 de 30-dez e 42/2016 de 28-dez), 21.º (na redação das Leis
+    55-A/2010 de 31-dez e 64-B/2011 de 30/dez), 24.º (na redação da Lei 75-A/2014 de 30-set, do Dec Lei 7/2015 de 13-jan e
+    da Lei 7-A/2016 de 30-mar), 27.º (na redação das Leis 55-A/2010 de 31-Dez, 64-B/2011 de 30-dez e 7-A/2016 de 30-mar),
+    41.º-B (aditado pela Lei 42/2016 de 28-dez), 59.º-D (aditado pela Lei 82-D/2014 de 31-dez e na redação das Leis 110/2017
+    de 15-dez e 114/2017 de 29-dez), 59.º-G (aditado pela Lei 110/2017 de 15-dez), 59.º-H (aditado pela Lei 114/2017 de 29-dez),
+    60.º (na redação do Dec Lei 185/2009 de 12-ago e das Leis 83-C/2013 de 31-dez e 114/2017 de 29-dez), 64.º e 71.º(aditado
+    pela Lei 64-A/2008 de 31-dez, e na redação da Lei 66-B/2012 de 31-dez, do Dec Lei 7/2015 de 13-jan e das Leis 7-A/2016
+    de 30-mar e 114/2017 de 29-dez), aditado o art. 59.º-J e revogado o n.º 7 do art. 60.º do Estatuto dos Benefícios Fiscais
+    (EBF) aprovado pelo Dec Lei 215/89 de 01-jul, na versão renumerada, com tabela de correspondência, e republicada do EBF
+    pelo presente diploma, pelo(a) Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:185224662:por
+  label: Alterados os arts. 22.º-A, 36.º-A (este último com efeitos desde 01.01.2022), 41.º-B, 45.º, 46.º, 64.º e 66.º-A do
+    Estatuto dos Benefícios Fiscais aprovado em anexo ao Dec Lei 215/89 de 01-jul, na versão renumerada, com tabela de correspondência,
+    e republicada do Estatuto pelo presente diploma, pelo(a) Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de
+    2022-06-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2022-185224662
+  date: '2022-06-27'
+- type: amended_by
+  target: pt:dre:205557192:por
+  label: Alterados os arts. 41.º-B, 44.º e 71.º, aditados os arts. 19.º-B (este último com cessação da vigência em 31.12.2026)
+    e 43.º-D e revogados o art. 41.º-A e o n.º 4 do art. 41.º-B do Estatuto dos Benefícios Fiscais (EBF) aprovado em anexo
+    ao Dec Lei 215/89 de 01-jul, na versão republicada pelo presente diploma e estabelecido um regime transitório no âmbito
+    de mesmo estatuto pelo(a) Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/24-d-2022-205557192
+  date: '2022-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/191/1999/06/05/p/dre
   label: null
@@ -117,16 +358,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67-a/2007/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67-a/2007/12/31/p/dre
+- type: cites
+  target: pt:dre:205670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667137:por
+  label: null
+  source: null
 article_structure:
-  article_count: 109
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 75
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:56Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +484,9 @@ Os artigos 2.º-A, 4.º, 11.º-A, 14.º, 15.º, 17.º, 21.º, 22.º, 22.º-A, 22
 
 3 - O disposto no n.º 1 não se aplica aos benefícios fiscais constantes dos artigos 14.º, 14.º-A, 15.º, 21.º, 22.º, 22.º-A, 22.º-B e 40.º, bem como ao capítulo v da parte ii do presente Estatuto.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -175,13 +494,17 @@ Os artigos 2.º-A, 4.º, 11.º-A, 14.º, 15.º, 17.º, 21.º, 22.º, 22.º-A, 22
 
 3 - O procedimento de reconhecimento dos benefícios fiscais regula-se pelo disposto na lei geral tributária e no Código de Procedimento e de Processo Tributário.
 
-###### Artigo 11.º-A — [...]
+Artigo 11.º-A
+
+[...]
 
 1 - Os benefícios fiscais dependentes de reconhecimento não podem ser concedidos quando o sujeito passivo tenha deixado de efectuar o pagamento de qualquer imposto sobre o rendimento, a despesa ou o património e das contribuições relativas ao sistema da segurança social.
 
 2 - Para efeitos do disposto no número anterior, tal situação só é impeditiva do reconhecimento dos benefícios fiscais enquanto o interessado se mantiver em incumprimento e se a dívida tributária em causa, sendo exigível, não tenha sido objecto de reclamação, impugnação ou oposição e prestada garantia idónea, quando devida.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -201,7 +524,9 @@ b) ...
 
 7 - (Revogado.)
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -215,7 +540,9 @@ b) Para a empresa, a tributação autónoma, à taxa de 40 %, no exercício do i
 
 4 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Para a determinação do lucro tributável dos sujeitos passivos de IRC e dos sujeitos passivos de IRS com contabilidade organizada, os encargos correspondentes à criação líquida de postos de trabalho para jovens e para desempregados de longa duração, admitidos por contrato de trabalho por tempo indeterminado, são considerados em 150 % do respectivo montante, contabilizado como custo do exercício.
 
@@ -237,7 +564,9 @@ d) ...
 
 6 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -265,7 +594,9 @@ c) ...
 
 10 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -317,7 +648,9 @@ d) ...
 
 e) ...
 
-###### Artigo 22.º-A — [...]
+Artigo 22.º-A
+
+[...]
 
 1 - ...
 
@@ -341,7 +674,9 @@ b) ...
 
 9 - ...
 
-###### Artigo 22.º-B — [...]
+Artigo 22.º-B
+
+[...]
 
 1 - ...
 
@@ -369,7 +704,9 @@ b) ...
 
 11 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -391,7 +728,9 @@ b) Às mais-valias realizadas por pessoas singulares com a transmissão onerosa 
 
 c) (Revogada.)
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -399,7 +738,9 @@ c) (Revogada.)
 
 3 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -411,7 +752,9 @@ c) (Revogada.)
 
 5 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
@@ -491,7 +834,9 @@ c) ...
 
 21 - (Revogado.)
 
-###### Artigo 33.º-A — [...]
+Artigo 33.º-A
+
+[...]
 
 1 - Para efeitos do disposto no n.º 19 do artigo anterior, considera-se que, pelo menos, 85 % do lucro tributável resultante da actividade global das entidades a que se refere a alínea c) do n.º 1 daquele preceito corresponde a actividades exercidas fora do âmbito institucional das Zonas Francas da Madeira e da ilha de Santa Maria.
 
@@ -505,7 +850,9 @@ c) ...
 
 6 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -551,7 +898,9 @@ e) ...
 
 9 - ...
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -577,7 +926,9 @@ d) ...
 
 8 - ...
 
-###### Artigo 39.º-A — [...]
+Artigo 39.º-A
+
+[...]
 
 1 - ...
 
@@ -589,7 +940,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 39.º-B — Benefícios fiscais relativos à interioridade
+Artigo 39.º-B
+
+Benefícios fiscais relativos à interioridade
 
 1 - ...
 
@@ -619,7 +972,9 @@ b) ...
 
 8 - ...
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -673,7 +1028,9 @@ d) ...
 
 9 - ...
 
-###### Artigo 40.º-A — [...]
+Artigo 40.º-A
+
+[...]
 
 1 - ...
 
@@ -689,7 +1046,9 @@ d) ...
 
 7 - ...
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - Ficam isentos de imposto municipal sobre imóveis, nos termos da tabela a que se refere o n.º 5, os prédios ou parte de prédios urbanos habitacionais construídos, ampliados, melhorados ou adquiridos a título oneroso, destinados à habitação própria e permanente do sujeito passivo ou do seu agregado familiar, e que sejam efectivamente afectos a tal fim, no prazo de seis meses após a aquisição ou a conclusão da construção, da ampliação ou dos melhoramentos, salvo por motivo não imputável ao beneficiário, devendo o pedido de isenção ser apresentado pelos sujeitos passivos até ao termo dos 60 dias subsequentes àquele prazo.
 
@@ -717,7 +1076,9 @@ d) ...
 
 13 - (Anterior n.º 12.)
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -731,13 +1092,17 @@ d) ...
 
 6 - Em todos os aspectos que não estejam regulados no presente artigo ou no Código do Imposto Municipal sobre Imóveis aplica-se, com as necessárias adaptações, o disposto no [Decreto-Lei n.º 423/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1983-442949), de 5 de Dezembro.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - Ficam isentos de imposto municipal sobre imóveis e de imposto municipal sobre as transmissões onerosas de imóveis os prédios integrados em fundos de investimento imobiliário, em fundos de pensões e em fundos de poupança-reforma, que se constituam e operem de acordo com a legislação nacional.
 
 2 - Os imóveis integrados em fundos de investimento imobiliário, mistos ou fechados de subscrição particular, por investidores não qualificados ou por instituições financeiras por conta daqueles, não beneficiam das isenções referidas no número anterior, sendo as taxas de imposto municipal sobre imóveis e de imposto municipal sobre as transmissões onerosas de imóveis reduzidas para metade.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - Ficam isentos de imposto municipal sobre imóveis, por um período de 25 anos, os prédios urbanos afectos exclusivamente a parques de estacionamento subterrâneos públicos, declarados de utilidade municipal por deliberação da respectiva assembleia municipal, nos termos previstos pelo n.º 2 do artigo 12.º da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro.
 
@@ -745,7 +1110,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 Às empresas armadoras da marinha mercante nacional são concedidos os seguintes benefícios fiscais:
 
@@ -753,15 +1120,21 @@ a) Tributação dos lucros, resultantes exclusivamente da actividade de transpor
 
 b) ...
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 São isentos de IRC os rendimentos das comissões vitivinícolas regionais, reguladas nos termos do [Decreto-Lei n.º 212/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2004-479875), de 23 de Agosto, e legislação complementar, com excepção dos juros de depósitos e outros rendimentos de capitais, que são tributados à taxa de 20 %.
 
-###### Artigo 50.º — Entidades gestoras de sistemas integrados de gestão de fluxos específicos de resíduos
+Artigo 50.º
+
+Entidades gestoras de sistemas integrados de gestão de fluxos específicos de resíduos
 
 Ficam isentas de IRC, excepto quanto aos rendimentos de capitais, tal como são definidos para efeitos de IRS, as entidades gestoras de sistemas integrados de gestão de fluxos específicos de resíduos, devidamente licenciadas nos termos legais, durante todo o período correspondente ao licenciamento, relativamente aos resultados que, durante esse período, sejam reinvestidos ou utilizados para a realização dos fins que lhes sejam legalmente atribuídos.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - Os rendimentos provenientes da propriedade literária, artística e científica, considerando-se também como tal os rendimentos provenientes da alienação de obras de arte de exemplar único e os rendimentos provenientes das obras de divulgação pedagógica e científica, quando auferidos por autores residentes em território português, desde que sejam os titulares originários, são considerados no englobamento, para efeitos de IRS, apenas por 50 % do seu valor, líquido de outros benefícios.
 
@@ -771,7 +1144,9 @@ Ficam isentas de IRC, excepto quanto aos rendimentos de capitais, tal como são 
 
 4 - ...
 
-###### Artigo 56.º-A — [...]
+Artigo 56.º-A
+
+[...]
 
 1 - Estão isentas de IRC as comunidades locais, enquadráveis nos termos da alínea b) do n.º 1 do artigo 2.º do Código do IRC, quanto aos rendimentos derivados dos baldios, incluindo os resultantes da cessão de exploração, bem como os da transmissão de bens ou da prestação de serviços comuns aos compartes, quando, em qualquer caso, aqueles rendimentos sejam afectos, de acordo com o plano de utilização aprovado, com os usos ou costumes locais, ou com as deliberações dos órgãos competentes dos compartes, em investimento florestal ou outras benfeitorias no próprio baldio ou, bem assim, em melhoramentos junto da comunidade que os possui e gere, até ao fim do quarto exercício posterior ao da sua obtenção, salvo em caso de justo impedimento no cumprimento do prazo de afectação, notificado à Direcção-Geral dos Impostos, acompanhado da respectiva fundamentação escrita, até ao último dia útil do 1.º mês subsequente ao termo do referido prazo.
 
@@ -779,7 +1154,9 @@ Ficam isentas de IRC, excepto quanto aos rendimentos de capitais, tal como são 
 
 3 - ...
 
-###### Artigo 56.º-B — [...]
+Artigo 56.º-B
+
+[...]
 
 1 - ...
 
@@ -803,7 +1180,9 @@ Ficam isentas de IRC, excepto quanto aos rendimentos de capitais, tal como são 
 
 11 - ...
 
-###### Artigo 56.º-D — [...]
+Artigo 56.º-D
+
+[...]
 
 1 - ...
 
@@ -871,7 +1250,9 @@ i) ...
 
 12 - ...
 
-###### Artigo 56.º-E — [...]
+Artigo 56.º-E
+
+[...]
 
 1 - Os donativos em dinheiro atribuídos pelas pessoas singulares residentes em território nacional, nos termos e condições previstos nos artigos anteriores, são dedutíveis à colecta do IRS do ano a que digam respeito, com as seguintes especificidades:
 
@@ -883,7 +1264,9 @@ c) ...
 
 2 - São ainda dedutíveis à colecta, nos termos e limites fixados nas alíneas b) e c) do número anterior, os donativos concedidos a igrejas, instituições religiosas, pessoas colectivas de fins não lucrativos pertencentes a confissões religiosas ou por elas instituídas, sendo a sua importância considerada em 130 % do seu quantitativo.
 
-###### Artigo 56.º-G — [...]
+Artigo 56.º-G
+
+[...]
 
 1 - São considerados custos ou perdas do exercício, até ao limite de 8/1000 do volume de vendas ou de serviços prestados, em valor correspondente a 130 % do respectivo total, para efeitos de IRC, os donativos de equipamento informático, programas de computadores, formação e consultadoria na área da informática, concedidos às entidades referidas nos n.os 1 e 3 e nas alíneas b), d), e), f) e g) do n.º 6 do artigo 56.º-D.
 
@@ -897,7 +1280,9 @@ c) ...
 
 6 - ...
 
-###### Artigo 65.º — Prédios situados nas áreas de localização empresarial (ALE)
+Artigo 65.º
+
+Prédios situados nas áreas de localização empresarial (ALE)
 
 1 - São isentas de imposto municipal sobre as transmissões onerosas de imóveis as aquisições de imóveis situados nas áreas de localização empresarial, efectuadas pelas respectivas sociedades gestoras e pelas empresas que nelas se instalarem.
 
@@ -953,23 +1338,23 @@ A alteração ao disposto no artigo 50.º do Estatuto dos Benefícios Fiscais, a
 
 Visto e aprovado em Conselho de Ministros de 12 de Março de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 5 de Junho de 2008.**
+Promulgado em 5 de Junho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Junho de 2008.**
+Referendado em 6 de Junho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Tabela de correspondência a que se refere o n.º 1 do artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/12200/0392903962.pdf))](https://files.diariodarepublica.pt/1s/2008/06/12200/0392903962.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12200/0392903962.pdf)
 
 ## ANEXO II — ESTATUTO DOS BENEFÍCIOS FISCAIS
 
-# PARTE I — Princípios gerais
+## PARTE I — Princípios gerais
 
 ###### Artigo 1.º — Âmbito de aplicação
 
@@ -1079,7 +1464,7 @@ b) A dívida tributária não tenha sido objecto de reclamação, impugnação o
 
 3 - É igualmente transmissível inter vivos, mediante autorização do Ministro das Finanças, o direito aos benefícios fiscais concedidos, por acto ou contrato fiscal, a pessoas singulares ou colectivas, desde que no transmissário se verifiquem os pressupostos do benefício e fique assegurada a tutela dos interesses públicos com ele prosseguidos.
 
-# PARTE II — Benefícios fiscais com carácter estrutural
+## PARTE II — Benefícios fiscais com carácter estrutural
 
 ### CAPÍTULO I — Benefícios fiscais de natureza social
 
@@ -1349,7 +1734,7 @@ b) Às mais-valias realizadas por pessoas singulares com a transmissão onerosa 
 
 ###### Artigo 28.º — Empréstimos externos e rendas de locação de equipamentos importados
 
-**O Ministro das Finanças pode, a requerimento e com base em parecer fundamentado da Direcção-Geral dos Impostos, conceder isenção total ou parcial de IRS ou de IRC, relativamente a juros de capitais provenientes do estrangeiro, representativos de empréstimos e rendas de locação de equipamentos importados, de que sejam devedores o Estado, as Regiões Autónomas, as autarquias locais e as suas federações ou uniões, ou qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os institutos públicos, e as empresas que prestem serviços públicos, desde que os credores tenham o domicílio no estrangeiro, e não disponham em território português de estabelecimento estável ao qual o empréstimo seja imputado.**
+O Ministro das Finanças pode, a requerimento e com base em parecer fundamentado da Direcção-Geral dos Impostos, conceder isenção total ou parcial de IRS ou de IRC, relativamente a juros de capitais provenientes do estrangeiro, representativos de empréstimos e rendas de locação de equipamentos importados, de que sejam devedores o Estado, as Regiões Autónomas, as autarquias locais e as suas federações ou uniões, ou qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os institutos públicos, e as empresas que prestem serviços públicos, desde que os credores tenham o domicílio no estrangeiro, e não disponham em território português de estabelecimento estável ao qual o empréstimo seja imputado.
 
 ###### Artigo 29.º — Serviços financeiros de entidades públicas
 
@@ -1863,7 +2248,7 @@ d) Relativamente às situações previstas na alínea n), no ano, inclusive, em 
 
 5 - Para efeitos do disposto nos n.os 1 e 3, o período de isenção a conceder é determinado em conformidade com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/12200/0392903962.pdf))](https://files.diariodarepublica.pt/1s/2008/06/12200/0392903962.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12200/0392903962.pdf)
 
 6 - Nos casos previstos neste artigo, a isenção é reconhecida pelo chefe de finanças da área da situação do prédio, em requerimento devidamente documentado.
 
@@ -2175,7 +2560,7 @@ d) A identificação dos bens, no caso de donativos em espécie.
 
 3 - Os donativos em dinheiro de valor superior a (euro) 200 devem ser efectuados através de meio de pagamento que permita a identificação do mecenas, designadamente transferência bancária, cheque nominativo ou débito directo.
 
-# PARTE III — Benefícios fiscais com carácter temporário
+## PARTE III — Benefícios fiscais com carácter temporário
 
 ###### Artigo 67.º — Acções adquiridas no âmbito das privatizações
 

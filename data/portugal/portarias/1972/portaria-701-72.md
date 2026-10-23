@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/12/28000/18091809.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/701-1972-686836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:55:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcacd2491130574b7da46969ed6f7b7c24824b6adc43b1cef411bd92233727fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d366dde4c3a9ac4b0d67d9a780fb7bf65e88271a7716574dfb638754d519f91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:55:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,30 @@ relationships:
   target: pt:dre:70508971:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:170534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228452:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70508971:por
+  label: Revogada a Port 124/70, de 02-mar, na redação do presente diploma pelo(a) Decreto-Lei n.º 230/2015 - Diário da República
+    n.º 199/2015, Série I de 2015-10-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-2015-70508971
+  date: '2015-10-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:55:44Z'
   warnings: []
   errors: []
 ---

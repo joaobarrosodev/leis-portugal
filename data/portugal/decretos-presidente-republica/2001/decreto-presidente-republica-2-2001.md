@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/2/2001/01/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/2-2001-341428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T04:38:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ed23ac27bc9fccb9123d91b0fb0e77a083e6a139e46444fb79203d2b96e73bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de547bf2eb42142e23478a1e67dadd52f583e46f4a6a39c474c99f9b915847d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:38:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,33 @@ relationships:
   target: pt:dre:207851:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:207851:por
+  label: "Exonerado o Com. Fernando José Ribeiro de Melo Gomes pelo DEC.28/2002.2002.07.16.PR DR.IS-A [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/28-2002-207851
+  date: '2002-07-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/18/1995/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/18/1995/07/13/p/dre
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461220:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:38:39Z'
   warnings: []
   errors: []
 ---
@@ -96,12 +109,12 @@ validation:
 
 de 13 de Janeiro
 
-**O Presidente da República decreta, nos termos da alínea c) do n.º 2 do artigo 29.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, na redacção que lhe foi dada pela [Lei n.º 18/95](https://diariodarepublica.pt/dr/detalhe/lei/18-1995-461220), de 13 de Julho, o seguinte:**
+O Presidente da República decreta, nos termos da alínea c) do n.º 2 do artigo 29.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, na redacção que lhe foi dada pela [Lei n.º 18/95](https://diariodarepublica.pt/dr/detalhe/lei/18-1995-461220), de 13 de Julho, o seguinte:
 
 É nomeado, sob proposta do Governo, formulada após iniciativa do Chefe do Estado-Maior-General das Forças Armadas e aprovada pelo Conselho Superior de Defesa Nacional, o capitão-de-mar-e-guerra Fernando José Ribeiro de Melo Gomes para o cargo de comandante da Força Naval Permanente do Atlântico (STANAVFORLANT), com efeitos a partir de 30 de Março de 2001.
 
-**Assinado em 8 de Janeiro de 2001.**
+Assinado em 8 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

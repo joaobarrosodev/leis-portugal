@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/235/1999/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1999-393002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:08:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2a0513d9f5753d8026f0dd77345b97585993e6e984985b27d85cd905b437f74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f77811e150f8807089a3f215f3280340e98df2cd3c3f4956b6a9e0360b5f7e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:08:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,26 @@ reuse:
 subjects:
 - Delegação Regional
 - Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
+- Ministério dos Negócios Estrangeiros
 - Orgânica
 - Quadro de Pessoal
-- Ministério dos Negócios Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:521017:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667755:por
+  label: "Alterado o Dec Lei 53/94 de 24-Fev, na redacção do presente diploma, pelo DEC LEI.430/99.1999.10.22.MNE, DR.IS-A\
+    \ [247]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/430-1999-667755
+  date: '1999-10-22'
+- type: amended_by
+  target: pt:dre:448752:por
+  label: "Alterados os arts. 3º e 12º-A do Dec Lei 53/94 de 24-Fev, com a redacção dada pelo presente diploma, pelo DEC LEI.253/2002.2002.11.22.MNE\
+    \ DR.IS-A [270]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/253-2002-448752
+  date: '2002-11-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/210/1998/07/16/p/dre
   label: null
@@ -88,16 +100,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/53/1994/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/53/1994/02/24/p/dre
+- type: cites
+  target: pt:dre:234089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515462:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521017:por
+  label: "Revogado, nos termos do n.º 5 do Decreto-Lei 201/2006, de 27 de Outubro, a partir de 01.05.2007, o Decreto-Lei 53/94,\
+    \ de 24 de Fevereiro, na redacção do presente diploma, pelo DR.47/2007.27.04.2007.MNE, DR.IS [82] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/47-2007-521017
+  date: '2007-04-27'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:08:31Z'
   warnings: []
   errors: []
 ---
@@ -140,12 +170,12 @@ Ao quadro de pessoal anexo ao [Decreto-Lei n.º 53/94](https://diariodarepublica
 
 Visto e aprovado em Conselho de Ministros de 29 de Abril de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Carlos dos Santos - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 11 de Junho de 1999.**
+Promulgado em 11 de Junho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Junho de 1999.**
+Referendado em 16 de Junho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

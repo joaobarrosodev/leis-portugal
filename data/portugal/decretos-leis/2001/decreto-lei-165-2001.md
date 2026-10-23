@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/119a00/30073019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/165/2001/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2001-340236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9851dbf99c59c16ec9d9d3901617c212fdccb8e511ba04e3a47f9b3bdd79d824
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f5c2bd1c9ee118fad3da1a29553d7681cf04b19afd45ddaae5c3e9f6bce6eca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Contrato de Concessão
-- Lisboa
-- Gestão do Património
-- Loures
 - Exposição Internacional de Lisboa de 1998
+- Gestão do Património
+- Lisboa
+- Loures
 - Parque EXPO 98
 - Política de Solos
-- Urbanismo
 - Receita Municipal
 - Regime Jurídico
-- Autarquia Local
+- Urbanismo
 - ZONA Urbana
 relationships:
 - type: amended_by
@@ -123,16 +123,77 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/68/1998/06/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/68/1998/06/09/p/dre
+- type: cites
+  target: pt:dre:222611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689023:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:191528:por
+  label: "Revogado, a partir de 07.11.2012, pelo DEC LEI.241/2012.06.11.2012.MAMAOT, DR.IS [214] de 06.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/241-2012-191528
+  date: '2012-11-06'
 article_structure:
   article_count: 4
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:09Z'
   warnings: []
   errors: []
 ---
@@ -183,21 +244,23 @@ Os municípios de Lisboa e de Loures ficam autorizados a consignar a receita cor
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Mário Cristina de Sousa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 8 de Maio de 2001.**
+Promulgado em 8 de Maio de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Maio de 2001.**
+Referendado em 10 de Maio de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 Bases da concessão
 
 ### CAPÍTULO I — Objecto e tipo da concessão
 
-###### Base I — Definições
+Base I
+
+Definições
 
 Nas presentes bases, sempre que iniciados por maiúscula, e salvo se do contexto claramente resultar sentido diferente, os termos abaixo indicados terão o significado que a seguir lhes é apontado:
 
@@ -235,7 +298,9 @@ p) Subcontratos - os contratos a celebrar entre a concessionária e terceiras en
 
 q) Termo da concessão - a extinção do contrato de concessão, independentemente do motivo pelo qual a mesma ocorra, e sem prejuízo das obrigações que perduram, nos termos das presentes bases da concessão.
 
-###### Base II — Objecto da concessão
+Base II
+
+Objecto da concessão
 
 1 - A concessão tem por objecto o exercício do serviço público de gestão urbana dentro dos limites territoriais da área da concessão, nos termos das presentes bases da concessão.
 
@@ -267,11 +332,15 @@ m) Monitorização ambiental.
 
 3 - O contrato de concessão regulará os termos em que os concedentes poderão cometer à concessionária o exercício de actividades acessórias relativamente à área da concessão, para além das referidas no número anterior.
 
-###### Base III — Delimitação física da concessão
+Base III
+
+Delimitação física da concessão
 
 O serviço público concessionado exerce-se dentro dos limites da área da concessão identificada na planta constante do anexo I às presentes bases da concessão, das quais constitui parte integrante.
 
-###### Base IV — Estabelecimento da concessão
+Base IV
+
+Estabelecimento da concessão
 
 1 - O estabelecimento da concessão é composto:
 
@@ -283,7 +352,9 @@ c) Pelas infra-estruturas implantadas nos limites da área da concessão, e inst
 
 2 - Integrarão igualmente o estabelecimento da concessão quaisquer outros espaços, infra-estruturas ou equipamentos que venham a integrar o património de qualquer dos concedentes, nos termos dos projectos de reparcelamento que venham a ser elaborados e aprovados para o território que constitui a área da concessão.
 
-###### Base V — Bens que integram a concessão
+Base V
+
+Bens que integram a concessão
 
 Integram a concessão:
 
@@ -293,7 +364,9 @@ b) O mobiliário urbano (incluindo componentes e acessórios), peças de arte ur
 
 c) Todos os bens adquiridos pela concessionária ao longo de todo o período de duração da concessão que se encontrem directamente afectos às actividades de gestão urbana da área da concessão, designadamente todas as máquinas, equipamentos, aparelhagens, acessórios e, em geral, quaisquer outros bens e direitos afectos ou relativos à exploração e manutenção do estabelecimento da concessão, de que a concessionária seja titular.
 
-###### Base VI — Regime dos bens e direitos que integram a concessão
+Base VI
+
+Regime dos bens e direitos que integram a concessão
 
 1 - Os bens referidos nas alíneas a) e b) do n.º 1 da base IV, e os bens de igual natureza que venham a integrar o património dos concedentes, nos termos do n.º 2 da mesma base, integram o domínio público dos municípios de Lisboa e de Loures, dentro dos limites territoriais dos respectivos concelhos.
 
@@ -303,19 +376,25 @@ c) Todos os bens adquiridos pela concessionária ao longo de todo o período de 
 
 ### CAPÍTULO II — Duração da concessão
 
-###### Base VII — Prazo e termo da concessão
+Base VII
+
+Prazo e termo da concessão
 
 1 - A concessão será atribuída por um prazo não superior a 20 anos, caducando automaticamente às 24 horas do dia 31 de Dezembro do último ano do prazo, a estabelecer no contrato de concessão.
 
 2 - O disposto no número anterior não prejudica a aplicação das disposições do capítulo XIII e das modalidades de extinção do contrato de concessão que nelas se prevêem, bem como do disposto na base XLVI.
 
-###### Base VIII — Prorrogação do prazo da concessão
+Base VIII
+
+Prorrogação do prazo da concessão
 
 O prazo estabelecido no contrato de concessão, nos termos do n.º 1 da base anterior, apenas poderá ser prorrogado se nisso acordarem por escrito os concedentes e a concessionária.
 
 ### CAPÍTULO III — Sociedade concessionária
 
-###### Base IX — Objecto social
+Base IX
+
+Objecto social
 
 1 - A concessionária terá como objecto social exclusivo, ao longo de todo o período de duração da concessão, o exercício das actividades que, nos termos do contrato de concessão, se considerem integradas na concessão, bem como outras actividades acessórias que lhe venham a ser cometidas ou autorizadas pelos concedentes nos termos do n.º 3 da base II.
 
@@ -323,7 +402,9 @@ O prazo estabelecido no contrato de concessão, nos termos do n.º 1 da base ant
 
 3 - A concessionária não está sujeita ao regime da [Lei n.º 58/98](https://diariodarepublica.pt/dr/detalhe/lei/58-1998-437233), de 18 de Agosto.
 
-###### Base X — Estrutura accionista da concessionária
+Base X
+
+Estrutura accionista da concessionária
 
 1 - Os municípios manterão necessariamente ao longo de todo o período de duração da concessão e a tudo o tempo o controlo da concessionária.
 
@@ -337,7 +418,9 @@ O prazo estabelecido no contrato de concessão, nos termos do n.º 1 da base ant
 
 6 - A Parque Expo transmitirá para os municípios a totalidade das acções de que for titular até ao dia 31 de Dezembro de 2010, de acordo com o faseamento e demais condições previstas no acordo parassocial.
 
-###### Base XI — Capital social
+Base XI
+
+Capital social
 
 1 - O capital social da concessionária deverá encontrar-se integralmente subscrito na data de assinatura do contrato de concessão, o qual fixará o respectivo montante e será realizado nos termos previstos nos respectivos estatutos.
 
@@ -345,13 +428,17 @@ O prazo estabelecido no contrato de concessão, nos termos do n.º 1 da base ant
 
 3 - Serão obrigatoriamente nominativas as acções representativas do capital social da concessionária que sejam necessárias para assegurar o controlo desta nos termos previstos na base X.
 
-###### Base XII — Oneração de acções da concessionária
+Base XII
+
+Oneração de acções da concessionária
 
 1 - A oneração de acções representativas do capital social da concessionária pertencentes aos municípios e à Parque Expo dependerá, sob pena de nulidade, de autorização prévia de ambos os concedentes, a qual se considerará tacitamente concedida se não for recusada no prazo de 20 dias úteis.
 
 2 - Exceptuam-se do disposto no número anterior as onerações de acções efectuadas em benefício de instituições financeiras que assegurem o financiamento da concessão, as quais deverão em todos os casos ser comunicadas aos concedentes acompanhadas de informação detalhada sobre os termos e condições em que forem estabelecidas, no prazo de 30 dias a contar da data em que sejam efectuadas.
 
-###### Base XIII — Alienação de bens e direitos da concessionária
+Base XIII
+
+Alienação de bens e direitos da concessionária
 
 1 - A concessionária só poderá alienar ou onerar os bens e direitos a que se referem a alínea c) do n.º 1 da base IV e as alíneas b) e c) da base V mediante autorização prévia de ambos os concedentes, que se considerará tacitamente concedida se não for recusada no prazo de 20 dias contados da data de recepção da comunicação efectuada pela concessionária, sem prejuízo do disposto nos números seguintes.
 
@@ -361,7 +448,9 @@ O prazo estabelecido no contrato de concessão, nos termos do n.º 1 da base ant
 
 4 - Ao longo do último ano de duração da concessão, os negócios referidos no n.º 2 da presente base deverão ser comunicados pela concessionária aos concedentes com uma antecedência mínima de 30 dias, podendo qualquer destes opor-se à sua concretização nos 10 dias seguintes à recepção daquela comunicação, caso em que a concessionária fica impedida de realizar, sob pena de nulidade, o negócio em vista.
 
-###### Base XIV — Obrigações de informação da concessionária
+Base XIV
+
+Obrigações de informação da concessionária
 
 Ao longo de todo o período de duração da concessão, e sem prejuízo das demais obrigações de informação estabelecidas no contrato de concessão, a concessionária compromete-se para com os concedentes a:
 
@@ -379,7 +468,9 @@ f) Fornecer-lhes, por escrito e no menor prazo possível, relatório circunstanc
 
 g) Apresentar prontamente quaisquer informações complementares ou adicionais que razoavelmente lhe sejam solicitadas pelos concedentes.
 
-###### Base XV — Regime fiscal
+Base XV
+
+Regime fiscal
 
 1 - A concessionária está sujeita a tributação directa e indirecta, nos termos gerais, salvo o disposto no número seguinte.
 
@@ -387,7 +478,9 @@ g) Apresentar prontamente quaisquer informações complementares ou adicionais q
 
 ### CAPÍTULO IV — Financiamento
 
-###### Base XVI — Responsabilidade da concessionária
+Base XVI
+
+Responsabilidade da concessionária
 
 1 - A concessionária é responsável única pela obtenção do financiamento necessário ao desenvolvimento de todas as actividades que integram o objecto da concessão, por forma a cumprir cabal e atempadamente todas as obrigações que assume no contrato de concessão.
 
@@ -395,7 +488,9 @@ g) Apresentar prontamente quaisquer informações complementares ou adicionais q
 
 ### CAPÍTULO V — Serviço concessionado
 
-###### Base XVII — Poder regulamentar
+Base XVII
+
+Poder regulamentar
 
 1 - A concessionária proporá aos concedentes os regulamentos que considerar necessários relativos à prestação dos serviços compreendidos no âmbito da concessão, designadamente no que respeita ao ordenamento do trânsito, ao estacionamento de duração limitada, à ocupação do espaço público e à gestão dos resíduos sólidos urbanos e equiparados na área da concessão.
 
@@ -411,7 +506,9 @@ g) Apresentar prontamente quaisquer informações complementares ou adicionais q
 
 7 - Para os efeitos do disposto no número anterior, pertence ao conselho de administração da concessionária a competência para determinar a instrução dos processos de contra-ordenação e para a aplicação das coimas, a qual poderá ser delegada em qualquer dos seus membros.
 
-###### Base XVIII — Ordenamento do trânsito e do estacionamento
+Base XVIII
+
+Ordenamento do trânsito e do estacionamento
 
 1 - A concessionária tem competência para o ordenamento do trânsito rodoviário e pedonal, bem como para a disciplina e fiscalização do estacionamento de duração limitada na via pública, dentro dos limites da área da concessão.
 
@@ -421,7 +518,9 @@ g) Apresentar prontamente quaisquer informações complementares ou adicionais q
 
 4 - O disposto nos n.os 2 e 3 é aplicável ao pessoal de entidades terceiras com quem a concessionária venha a subcontratar no domínio da fiscalização do estacionamento de duração limitada na via pública.
 
-###### Base XIX — Administração do domínio público
+Base XIX
+
+Administração do domínio público
 
 1 - A concessionária é competente para o licenciamento da ocupação do domínio público municipal integrado no estabelecimento da concessão, bem como para a atribuição de concessões de uso privativo do domínio público na mesma zona.
 
@@ -433,7 +532,9 @@ g) Apresentar prontamente quaisquer informações complementares ou adicionais q
 
 5 - A concessionária é competente para o licenciamento da publicidade exterior a instalar na área da concessão.
 
-###### Base XX — Subconcessões e subcontratos
+Base XX
+
+Subconcessões e subcontratos
 
 1 - A concessionária pode celebrar com terceiros contratos que tenham por objecto o desenvolvimento das actividades compreendidas na concessão, os quais não poderão, em qualquer caso, abranger o exercício dos poderes atribuídos à concessionária nos termos das bases XVII, XVIII e XIX, salvo, quanto ao disposto nesta última, no que respeita à fiscalização do estacionamento de duração limitada na via pública.
 
@@ -443,7 +544,9 @@ g) Apresentar prontamente quaisquer informações complementares ou adicionais q
 
 4 - Havendo subconcessão ou subcontratação efectuada nos termos da presente base, a concessionária manterá os direitos e continuará sujeita às obrigações emergentes do contrato de concessão, responsabilizando-se perante os concedentes pelo cabal cumprimento do mesmo.
 
-###### Base XXI — Extinção dos subcontratos
+Base XXI
+
+Extinção dos subcontratos
 
 1 - No termo da concessão caducarão automaticamente quaisquer contratos de subconcessão ou outros subcontratos que tenham sido celebrados pela concessionária, sendo esta inteiramente responsável pela cessação dos seus efeitos, e não assumindo os concedentes quaisquer responsabilidades nesta matéria, sem prejuízo do disposto no n.º 2 da base XL, no n.º 5 da base XLI e nos números seguintes.
 
@@ -453,7 +556,9 @@ g) Apresentar prontamente quaisquer informações complementares ou adicionais q
 
 ### CAPÍTULO VI — Exploração da concessão
 
-###### Base XXII — Data e condições da transferência da exploração
+Base XXII
+
+Data e condições da transferência da exploração
 
 1 - Os bens, instalações e equipamentos que integram o estabelecimento da concessão, nos termos da base IV, ficam afectos à concessionária na data de assinatura do contrato de concessão, para os efeitos do exercício do serviço concessionado.
 
@@ -463,7 +568,9 @@ g) Apresentar prontamente quaisquer informações complementares ou adicionais q
 
 4 - A concessionária pagará aos concedentes pela afectação e transferência da exploração dos bens a que se refere o n.º 1 um montante global a fixar no contrato de concessão, o qual estabelecerá igualmente os termos do respectivo pagamento e repartição por cada um dos concedentes.
 
-###### Base XXIII — Regime de taxas e tarifas
+Base XXIII
+
+Regime de taxas e tarifas
 
 1 - Para além da retribuição a pagar pelos concedentes nos termos da base XXVIII, a concessionária, no exercício dos serviços compreendidos na concessão, pode cobrar as seguintes taxas e tarifas:
 
@@ -493,23 +600,31 @@ g) Tarifa de saneamento.
 
 ### CAPÍTULO VII — Manutenção e conservação do estabelecimento da concessão
 
-###### Base XXIV — Manutenção e conservação
+Base XXIV
+
+Manutenção e conservação
 
 1 - É da responsabilidade da concessionária a manutenção dos bens, instalações e equipamentos que compõem o estabelecimento da concessão em bom estado de conservação e perfeitas condições de utilização, de limpeza, conforto e segurança para os utentes, a todo o tempo e durante todo o período de duração da concessão.
 
 2 - A concessionária assumirá todos os encargos decorrentes das reparações, renovações e adaptações que seja necessário realizar com vista a garantir o cumprimento das obrigações estabelecidas no número anterior.
 
-###### Base XXV — Reforço e modernização das infra-estruturas e da galeria técnica
+Base XXV
+
+Reforço e modernização das infra-estruturas e da galeria técnica
 
 Os concedentes podem impor à concessionária o reforço ou a modernização das infra-estruturas e da galeria técnica, ficando nesse caso obrigados a proceder à reposição do equilíbrio financeiro da concessão, nos termos previstos no contrato de concessão.
 
-###### Base XXVI — Obrigações da concessionária em matéria de manutenção e conservação
+Base XXVI
+
+Obrigações da concessionária em matéria de manutenção e conservação
 
 1 - A manutenção e conservação dos bens integrados no estabelecimento da concessão deverá efectuar-se nos termos previstos na legislação nacional e comunitária.
 
 2 - A concessionária não pode recusar a qualquer utente a prestação de quaisquer serviços, salvo o disposto na lei ou em regulamento no que respeita à falta de pagamento de taxas e tarifas.
 
-###### Base XXVII — Instalações de terceiros
+Base XXVII
+
+Instalações de terceiros
 
 1 - Quando, ao longo do período da concessão, venha a mostrar-se necessária a instalação na área da concessão de quaisquer equipamentos ou redes de serviço público não previstas anteriormente, a concessionária deverá permitir a sua instalação.
 
@@ -519,13 +634,17 @@ Os concedentes podem impor à concessionária o reforço ou a modernização das
 
 ### CAPÍTULO VIII — Retribuição da concessionária
 
-###### Base XXVIII — Retribuição pelos concedentes
+Base XXVIII
+
+Retribuição pelos concedentes
 
 1 - Pela prestação do serviço público de gestão urbana, a concessionária tem direito a receber dos concedentes uma retribuição anual cujos montantes, faseamento e repartição por ambos os concedentes serão fixados no contrato de concessão.
 
 2 - A Parque Expo poderá comparticipar na retribuição a que se refere o número anterior, nos termos e condições previamente acordados com os concedentes e com a concessionária, tendo em consideração os pressupostos do modelo económico-financeiro, que será parte integrante do contrato de concessão.
 
-###### Base XXIX — Receitas da concessionária
+Base XXIX
+
+Receitas da concessionária
 
 Constituem receitas da concessionária:
 
@@ -545,11 +664,15 @@ g) Outras que lhe sejam devidas por lei ou por contrato.
 
 ### CAPÍTULO IX — Modificações subjectivas na concessão
 
-###### Base XXX — Cedência, oneração e alienação
+Base XXX
+
+Cedência, oneração e alienação
 
 Sem prejuízo do disposto na base XX e na base XXI, é interdito à concessionária ceder, alienar ou por qualquer modo onerar, no todo ou em parte, a concessão ou realizar qualquer negócio jurídico que vise atingir idênticos resultados, sendo nulo qualquer acto praticado em violação do disposto na presente base.
 
-###### Base XXXI — Trespasse
+Base XXXI
+
+Trespasse
 
 1 - A concessionária não pode trespassar a concessão ou realizar qualquer negócio jurídico que vise atingir idênticos resultados, sem prévia autorização dos concedentes, sendo nulo qualquer acto praticado em violação do disposto na presente base.
 
@@ -561,7 +684,9 @@ A concessionária é responsável pela transferência integral dos seus direitos
 
 ### CAPÍTULO X — Representação dos concedentes junto da concessionária
 
-###### Base XXXII — Representação dos concedentes
+Base XXXII
+
+Representação dos concedentes
 
 1 - A representação dos concedentes junto da concessionária, para os efeitos do contrato de concessão, será exercida por uma comissão de representação dos concedentes, composta por quatro membros, sendo dois a designar pelo município de Lisboa e dois a designar pelo município de Loures.
 
@@ -577,27 +702,37 @@ c) Pronunciar-se sobre a eventual alteração da repartição percentual entre o
 
 4 - A concessionária facultará à comissão de representação dos concedentes, ou a qualquer outra entidade por esta nomeada, o livre acesso a todo o estabelecimento da concessão, bem como a todos os livros de actas, listas de presença e documentos anexos relativos à concessionária, livros, registos e documentos relativos às instalações e actividades objecto da concessão, incluindo as estatísticas e registos de gestão utilizados, e prestará sobre todos esses documentos os esclarecimentos que lhe forem solicitados.
 
-###### Base XXXIII — Intervenção directa dos concedentes
+Base XXXIII
+
+Intervenção directa dos concedentes
 
 Quando a concessionária não tenha respeitado determinações emitidas pela comissão de representação dos concedentes no âmbito dos seus poderes de fiscalização, assistirá aos concedentes a faculdade de proceder à correcção da situação, directamente ou através de terceiro, correndo os custos para o efeito incorridos por conta da concessionária.
 
 ### CAPÍTULO XI — Responsabilidade extracontratual perante terceiros
 
-###### Base XXXIV — Pela culpa e pelo risco
+Base XXXIV
+
+Pela culpa e pelo risco
 
 A concessionária responderá, nos termos da lei geral, por quaisquer prejuízos causados a terceiros no exercício das actividades que constituem o objecto da concessão, pela culpa ou pelo risco, não sendo assumido pelos concedentes qualquer tipo de responsabilidade neste âmbito.
 
-###### Base XXXV — Por prejuízos causados por entidades contratadas
+Base XXXV
+
+Por prejuízos causados por entidades contratadas
 
 A concessionária responderá ainda nos termos gerais da relação comitente-comissário pelos prejuízos causados a terceiros pelas entidades por si contratadas para o desenvolvimento das actividades compreendidas na concessão.
 
-###### Base XXXVI — Obrigações de seguro
+Base XXXVI
+
+Obrigações de seguro
 
 A concessionária deverá assegurar a existência e manutenção em vigor das apólices de seguro necessárias para garantir uma efectiva cobertura dos riscos inerentes ao desenvolvimento das actividades integradas na concessão, nos termos que venham a ser estabelecidos no contrato de concessão.
 
 ### CAPÍTULO XII — Incumprimento e cumprimento defeituoso
 
-###### Base XXXVII — Incumprimento
+Base XXXVII
+
+Incumprimento
 
 1 - Sem prejuízo da possibilidade de resolução do contrato de concessão, o incumprimento pela concessionária de quaisquer deveres ou obrigações emergentes do contrato de concessão, ou das determinações dos concedentes emitidas no âmbito da lei ou do contrato, poderá ser sancionado, por decisão dos concedentes, pela aplicação de multas contratuais, cujo montante variará, em função da gravidade da falta, entre 1000000$00 e 50000000$00, sem prejuízo do direito dos concedentes a serem indemnizados pelo dano excedente.
 
@@ -611,23 +746,31 @@ A concessionária deverá assegurar a existência e manutenção em vigor das ap
 
 6 - A aplicação de multas não prejudica a aplicação de outras sanções contratuais, nem de outras sanções previstas em lei ou regulamento, nem isenta a concessionária de responsabilidade civil, criminal e contra-ordenacional em que incorrer perante os concedentes ou terceiro.
 
-###### Base XXXVIII — Força maior
+Base XXXVIII
+
+Força maior
 
 O contrato de concessão estabelecerá as consequências da ocorrência de qualquer situação susceptível de ser qualificada, nos termos e para os efeitos daquele contrato, como caso de força maior.
 
 ### CAPÍTULO XIII — Extinção e suspensão da concessão
 
-###### Base XXXIX — Requisição
+Base XXXIX
+
+Requisição
 
 Em casos de emergência grave e em defesa do interesse público, os concedentes têm o direito de gerir e explorar o estabelecimento da concessão, mediante requisição nos termos da lei, a qual terminará quando cessar o motivo que lhe tiver dado causa.
 
-###### Base XL — Resgate
+Base XL
+
+Resgate
 
 1 - Após decorrido um período de vigência da concessão, a determinar no contrato de concessão, os concedentes poderão resgatar a concessão, sempre que motivos de interesse público o justifiquem, mediante notificação remetida à concessionária com a antecedência mínima de um ano em relação à data do resgate.
 
 2 - Pelo resgate, os concedentes assumirão todos os direitos e obrigações da concessionária emergentes de contratos de financiamento, bem como de subconcessões e outros subcontratos.
 
-###### Base XLI — Resolução
+Base XLI
+
+Resolução
 
 1 - Os concedentes poderão pôr fim à concessão através de resolução do contrato de concessão, em casos de violação grave ou reiterada e não sanada das obrigações da concessionária, nomeadamente nas seguintes situações:
 
@@ -663,11 +806,15 @@ l) Incumprimento de decisões judiciais ou arbitrais.
 
 5 - O contrato de concessão poderá prever e regular as circunstâncias em que, no caso de resolução do mesmo, haverá lugar à assunção pelos concedentes dos direitos e obrigações da concessionária emergentes dos contratos de financiamento.
 
-###### Base XLII — Caducidade
+Base XLII
+
+Caducidade
 
 O contrato de concessão caduca quando se verificar o termo do prazo de duração da concessão, nos termos da base VII, extinguindo-se as relações contratuais existentes entre as partes, sem prejuízo do disposto na base XLVI.
 
-###### Base XLIII — Entrega e reversão de bens e direitos
+Base XLIII
+
+Entrega e reversão de bens e direitos
 
 1 - No termo da concessão, cessam para a concessionária todos os direitos emergentes do contrato de concessão, sendo entregues aos concedentes todos os bens que constituem o estabelecimento da concessão, dentro dos limites territoriais dos respectivos concelhos, em bom estado de manutenção e conservação.
 
@@ -679,17 +826,23 @@ O contrato de concessão caduca quando se verificar o termo do prazo de duraçã
 
 ### CAPÍTULO XIV — Condição financeira da concessionária
 
-###### Base XLIV — Assunção de riscos
+Base XLIV
+
+Assunção de riscos
 
 A concessionária assume integral responsabilidade por todos os riscos inerentes à concessão, excepto nos casos em que o contrário resulte do contrato de concessão.
 
-###### Base XLV — Equilíbrio financeiro
+Base XLV
+
+Equilíbrio financeiro
 
 Tendo em atenção a distribuição de riscos estabelecida na base anterior, a concessionária terá direito à reposição do equilíbrio financeiro da concessão nos casos e termos que venham a ser fixados no contrato de concessão, para além dos previstos nas presentes bases.
 
 ### CAPÍTULO XV — Direitos de propriedade industrial e intelectual
 
-###### Base XLVI — Direitos de propriedade industrial e intelectual
+Base XLVI
+
+Direitos de propriedade industrial e intelectual
 
 1 - A concessionária fornecerá gratuitamente aos concedentes todos os projectos, planos, plantas, documentos e outros materiais, de qualquer natureza, que se revelem necessários ou úteis ao desempenho das funções que a estes incumbem nos termos do contrato de concessão, ou ao exercício dos direitos que lhes assistem nos termos do mesmo, e que tenham sido adquiridos ou criados no desenvolvimento das actividades integradas na concessão, seja directamente pela concessionária seja pelos terceiros que para o efeito subcontratar.
 
@@ -703,11 +856,15 @@ Tendo em atenção a distribuição de riscos estabelecida na base anterior, a c
 
 ### CAPÍTULO XVI — Exercício de poderes pelos concedentes
 
-###### Base XLVII — Poderes conjuntos
+Base XLVII
+
+Poderes conjuntos
 
 Sempre que, nos termos da lei, das presentes bases e do contrato de concessão, o exercício de quaisquer direitos ou de quaisquer poderes esteja reservado aos concedentes, tal exercício deverá ser efectuado de forma conjunta, nos termos da base XLVIII.
 
-###### Base XLVIII — Modo de exercício dos poderes conjuntos
+Base XLVIII
+
+Modo de exercício dos poderes conjuntos
 
 1 - O exercício dos poderes conjuntos efectua-se mediante proposta a formular pela comissão de representação dos concedentes a ambos os concedentes.
 
@@ -715,7 +872,9 @@ Sempre que, nos termos da lei, das presentes bases e do contrato de concessão, 
 
 ### CAPÍTULO XVII — Disposições diversas
 
-###### Base XLIX — Deveres gerais das partes
+Base XLIX
+
+Deveres gerais das partes
 
 1 - As partes comprometem-se reciprocamente a cooperar e a prestar o auxílio que razoavelmente lhes possa ser exigido com vista ao bom desenvolvimento das actividades integradas na concessão.
 
@@ -725,7 +884,9 @@ Sempre que, nos termos da lei, das presentes bases e do contrato de concessão, 
 
 ### CAPÍTULO XVIII — Resolução de litígios
 
-###### Base L — Resolução de litígios
+Base L
+
+Resolução de litígios
 
 1 - Os eventuais conflitos que possam surgir entre os concedentes e a concessionária em matéria de validade, interpretação ou execução do contrato de concessão serão resolvidos por recurso a arbitragem, nos termos que venham a ser estabelecidos no contrato de concessão.
 

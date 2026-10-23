@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/06/11900/0335203356.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/94/2014/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2014-25676941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ab93b3618c5d3a627894fe1dd8811264343f053bed8d70a6051131cc6225426
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd35f9c93285bb609231f0bf5c1fbf1328a2a00e140b2a4dba7786d8ecb314b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
-- Política Energética
 - Direção Geral de Energia e Geologia
-- Página na Internet
-- Proteção do Ambiente
-- Entidade Reguladora dos Serviços Energéticos
 - Energia
+- Entidade Reguladora dos Serviços Energéticos
+- Gestão de Resíduos
+- Página na Internet
+- Política Energética
 - Preço
 - Produção de Energia Elétrica
 - Produtor
+- Proteção do Ambiente
 - Rede Elétrica de Serviço Público
 - REDE Nacional de Distribuição de Electricidade em Média e ALTA Tensão
 - Rede Nacional de Transporte de Energia Elétrica
@@ -110,16 +110,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/51/2010/05/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/51/2010/05/20/p/dre
+- type: cites
+  target: pt:dre:259256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638769:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:177634016:por
+  label: Revogado pelo(a) Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14 nos termos do seu
+    art. 305.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2022-177634016
+  date: '2022-01-14'
 article_structure:
   article_count: 22
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:14Z'
   warnings: []
   errors: []
 ---
@@ -374,12 +400,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de maio de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 17 de junho de 2014.**
+Promulgado em 17 de junho de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de junho de 2014.**
+Referendado em 19 de junho de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

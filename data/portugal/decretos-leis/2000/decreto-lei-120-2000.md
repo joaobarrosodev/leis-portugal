@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/152a00/28972906.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/120/2000/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2000-300841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:16:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adc655fcca8e40e9a5c45ea6ac548073ce9aca68163c102cb570ff572a97e9f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2df75366e33d4cc15f2333689cc1328e10b4dff4b4b9af5a94a0e5ce2863642
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,37 +65,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da ÁGUA
+- Auditoria Jurídica
 - Centro Nacional de Informação Geográfica
-- Pessoal Dirigente
-- Observatório do Ordenamento do Território e do Urbanismo
+- Conselho Nacional da ÁGUA
 - Direcção Geral do Ambiente
+- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
 - Direcção Regional do Ambiente e do Ordenamento do Território de Lisboa e VALE do TEJO
+- Direcção Regional do Ambiente e do Ordenamento do Território do Alentejo
 - Direcção Regional do Ambiente e do Ordenamento do Território do Algarve
 - Direcção Regional do Ambiente e do Ordenamento do Território do Centro
 - Direcção Regional do Ambiente e do Ordenamento do Território do Norte
-- Direcção Regional do Ambiente e do Ordenamento do Território do Alentejo
 - Extinção de Serviços
-- Secretaria Geral
+- Gabinete de Relações Internacionais
 - Inspecção Geral do Ambiente
+- Instituto da ÁGUA
 - Instituto da Conservação da Natureza
 - Instituto de Promoção Ambiental
 - Instituto Português de Cartografia e Cadastro
-- Integração de Trabalhadores
-- Gabinete de Relações Internacionais
-- Auditoria Jurídica
-- Conselho Nacional da ÁGUA
-- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
 - Instituto Regulador de Águas e Resíduos
-- OSMOP
-- Orgânica
-- Quadro de Pessoal
+- Integração de Trabalhadores
 - Ministério do Ambiente e do Ordenamento do Território
+- Observatório do Ordenamento do Território e do Urbanismo
+- Orgânica
+- OSMOP
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:580669:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:276467:por
+  label: "Transferidos o Centro de Estudos e Formação Autárquica, a Direcção-Geral das Autarquias Locais e a Inspecção-Geral\
+    \ da Administração do Território para o MAOT, cuja orgânica consta do presente diploma, pelo DEC LEI.267-A/2000.2000.10.20.PCM\
+    \ DR.IS-A [243]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-a-2000-276467
+  date: '2000-10-20'
+- type: amended_by
+  target: pt:dre:585216:por
+  label: "Alterados os arts. 2º e 3º, aditados os arts. 12º-A, 17º-A e 25º-A e revogados os arts. 9º, 13º, 16º e 18º, pelo\
+    \ DEC LEI.8/2002.2002.01.09.MAOT DR.IS-A [7]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2002-585216
+  date: '2002-01-09'
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Determinada a transição para o Ministério das Cidades, Ordenamento do Território e Ambiente dos serviços e organismos\
+    \ compreendidos no extinto Ministério do Ambiente e do Ordenamento do Território, pelo Dec Lei 120/2002 de 03-Mai, DR.IS-A\
+    \ [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/230/1997/08/30/p/dre
   label: null
@@ -112,16 +132,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1031/1995/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1031/1995/08/23/p/dre
+- type: cites
+  target: pt:dre:423062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692200:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:336712:por
+  label: "Rectificado pelo DECL-RECT.7-R/2000.2000.08.31.PCM DR.IS-A [201]2º Supl de 31/Ago/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-r-2000-336712
+  date: '2000-08-31'
+- type: repealed_by
+  target: pt:dre:580669:por
+  label: "Revogado pelo DEC LEI.97/2003.2003.05.07.MCOTA, DR.IS-A [105]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2003-580669
+  date: '2003-05-07'
 article_structure:
   article_count: 32
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:16:54Z'
   warnings: []
   errors: []
 ---
@@ -710,14 +760,14 @@ Os funcionários e agentes do MAOT continuam abrangidos pela Obra Social do Mini
 
 Visto e aprovado em Conselho de Ministros de 20 de Abril de 2000. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Elisa Maria da Costa Guimarães Ferreira - Guilherme d'Oliveira Martins - José Sócrates Carvalho Pinto de Sousa - Alberto de Sousa Martins.
 
-**Promulgado em 14 de Junho de 2000.**
+Promulgado em 14 de Junho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Junho de 2000.**
+Referendado em 21 de Junho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/152a00/28972906.pdf)

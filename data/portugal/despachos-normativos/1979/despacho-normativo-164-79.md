@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/164-1979-381765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:51:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ac59b2d2dd3b115b40953a238246d11e7221760fb1f2c7ee78cf7d65dde53db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b565c03315b249c0ad05f964275c41444e7e99708ece4049c9c4f4e3e6bf88e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:51:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regulamento
+- Serviço de Lotas e Vendagem
 relationships:
 - type: amended_by
   target: pt:dre:234335:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:364762:por
+  label: "Alterados os arts. 8.º e 10.º do Regulamento Geral de Organização e Funcionamento dos Serviços de Lotas e Vendagem,\
+    \ aprovado pelo presente diploma pelo DDN.320/79.17.10.1979.MAP, DR.IS [240] de 17.10.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/320-1979-364762
+  date: '1979-10-17'
+- type: cites
+  target: pt:dre:253394:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:234335:por
+  label: "Revogadas as normas em vigor, aprovadas pelo presente diploma, pela PORT.9/89.04.01.1989.MAPA, DR.IS [3] de 04.01.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/9-1989-234335
+  date: '1989-01-04'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:51:20Z'
   warnings: []
   errors: []
 ---
@@ -292,4 +310,4 @@ Continuarão em vigor as disposições legais em tudo o que não contrarie as de
 
 Os regulamentos das secções serão homologados por despacho do Secretário de Estado das Pescas.
 
-**O Secretário de Estado das Pescas, João de Albuquerque.**
+O Secretário de Estado das Pescas, João de Albuquerque.

@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/427-1983-312855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T07:40:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85da942205e830064f46f8067bb06418feb3f85cd4e47c960068acbce0491bc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad9038e27efab38aa1768fecf87f68b6740b768b7e7c863675e1a97905ee2f00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:40:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Central
+- Administração Ultramarina
+- Aposentação
+- Desalojado
+- Equivalência de Categorias
 relationships:
 - type: amended_by
   target: pt:dre:401371:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:460787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673829:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:384060:por
+  label: Rectificada a tabela de equivalências contidas no mapa I bem como as categorias constantes no mapa II anexos ao presente
+    diploma, pela PORT.293/84.16.05.1984.PCM, DR.IS [113] de 16.05.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/293-1984-384060
+  date: '1984-05-16'
+- type: corrected_by
+  target: pt:dre:401371:por
+  label: Rectificada a tabela de equivalências contida no mapa I anexo ao presente diploma, pela PORT.907/84.13.12.1984.PCM,
+    DR.IS [287] de 13.12.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/907-1984-401371
+  date: '1984-12-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:40:00Z'
   warnings: []
   errors: []
 ---
@@ -115,10 +152,10 @@ Mapa I a que se refere a Portaria n.º 427/83
 
 Categorias específicas da administração central
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/08500/12591272.pdf))](https://files.diariodarepublica.pt/1s/1983/04/08500/12591272.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/08500/12591272.pdf)
 
 Mapa II a que se refere a Portaria n.º 427/83
 
 Categorias da antiga administração ultramarina
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/08500/12591272.pdf))](https://files.diariodarepublica.pt/1s/1983/04/08500/12591272.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/08500/12591272.pdf)

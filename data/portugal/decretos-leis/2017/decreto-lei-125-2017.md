@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/10/19200/0559205594.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/125/2017/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2017-108244274
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc163b2532ab91f54e3d203c087c8b44ccf746fcbfb55410a643c39797f9222c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74dca0e066a62369b45dfd90d1ce12ff0868ffa4602ecfdf0e1a593028a0a04f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Administração Central
-- Direito de Acesso
-- Inspeção Geral de Finanças
-- Construção Civil
-- Definição de Competências
+- Administração Local
 - Barreira Arquitectónica
+- Comissão para a Promoção das Acessibilidades
+- Construção Civil
+- Deficiente
+- Definição de Competências
+- Direito de Acesso
 - Edifício Público
+- Inspeção Geral de Finanças
+- Instituto Nacional para a Reabilitação
 - Instituto Público
 - Normas de Construção
 - Proteção ao Deficiente
-- Administração Local
-- Instituto Nacional para a Reabilitação
-- Comissão para a Promoção das Acessibilidades
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/115/2012/05/25/p/dre
@@ -108,16 +108,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/38/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/38/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:145590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56501680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:33Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +208,9 @@ Os artigos 4.º, 10.º, 12.º, 21.º e 22.º do [Decreto-Lei n.º 163/2006](http
 
 2 - O termo de responsabilidade referido no número anterior deve ser enviado, para efeitos de registo, ao Instituto Nacional para a Reabilitação, I. P. (INR, I. P.).
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -198,7 +228,9 @@ Os artigos 4.º, 10.º, 12.º, 21.º e 22.º do [Decreto-Lei n.º 163/2006](http
 
 8 - A aplicação das normas técnicas, aprovadas por este decreto-lei, a edifícios e respetivos espaços circundantes que revistam especial interesse histórico e arquitetónico, designadamente os imóveis classificados ou em vias de classificação, é avaliada caso a caso e adaptada às características específicas do edifício em causa, ficando a sua aprovação dependente do parecer favorável da Direção-Geral do Património Cultural.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 [...]:
 
@@ -208,7 +240,9 @@ b) À Inspeção-Geral de Finanças (IGF) quanto aos deveres impostos às entida
 
 c) [...].
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 [...]:
 
@@ -218,7 +252,9 @@ b) À IGF no âmbito das ações de fiscalização às instalações e espaços 
 
 c) [Anterior alínea b)].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - O INR, I. P., acompanha a aplicação do presente decreto-lei e procede, periodicamente, à avaliação global do grau de acessibilidade dos edifícios, instalações e espaços referidos no artigo 2.º
 
@@ -256,12 +292,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de agosto de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Maria Constança Dias Urbano de Sousa - Francisca Eugénia da Silva Dias Van Dunem - Carlos Manuel Soares Miguel - Miguel Honrado - José António Fonseca Vieira da Silva - Ângelo Nelson Rosário de Souza - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 28 de setembro de 2017.**
+Promulgado em 28 de setembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de outubro de 2017.**
+Referendado em 3 de outubro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

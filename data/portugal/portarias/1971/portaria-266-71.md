@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/266-1971-644570
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aaa1f00a7cadbe11616e1e65102e4e0d0d95a2abbf1440d718228ae96f4cb596
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88b1930159d5490a438375be34f88160cc7454f98d94d29c225c5c4bcf48e30e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,24 @@ relationships:
   target: pt:dre:675860:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:431626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665307:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:51Z'
   warnings: []
   errors: []
 ---
@@ -101,4 +109,4 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado das Comunic
 
 5) Findo este prazo e constituída a reserva determinada no artigo 42.º do Estatuto do Selo Postal dos CTT, proceder-se-á à destruição dos selos sobrantes.
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

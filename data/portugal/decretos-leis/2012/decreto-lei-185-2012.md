@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/185/2012/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2012-175286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 754188f2d16a97dde0a1f98f4cb299c589e0796a2fa65746b769bc8c89dc3088
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 993084c51d58a5f84948b35ea4f89d25395228e60cdf72fb7cbb3dd5942464cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,23 @@ reuse:
 subjects:
 - Acreditação
 - Aproximação das Legislações
-- Controlo de Qualidade
-- Etiquetagem
-- Embalagem
-- Meios Complementares de Diagnóstico
-- Material Médico-Cirúrgico
 - Comércio
+- Controlo de Qualidade
+- Embalagem
+- Etiquetagem
+- Material Médico-Cirúrgico
+- Meios Complementares de Diagnóstico
 relationships:
 - type: amended_by
   target: pt:dre:56346571:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:56346571:por
+  label: Alterado o art. 19.º (na redação do Dec Lei 311/2002, de 20-dez) e aditados os arts 19.º-A e 19.º-B ao Dec Lei 189/2000,
+    de 12-ago, republicado pelo presente diploma, pelo(a) Lei n.º 51/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/51-2014-56346571
+  date: '2014-08-25'
 - type: cites
   target: celex:31998L0079
   label: null
@@ -93,15 +99,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/189/2000/08/12/p/dre
 article_structure:
-  article_count: 35
+  article_count: 33
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:36Z'
   warnings: []
   errors: []
 ---
@@ -138,15 +144,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de julho de 2012. - Pedro Passos Coelho - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 26 de julho de 2012.**
+Promulgado em 26 de julho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de julho de 2012.**
+Referendado em 27 de julho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
@@ -562,7 +568,9 @@ Os artigos 3.º, 12.º e 13.º do Decreto-Lei n.º 306/97, de 11 de novembro, pa
 
 2 - Os dispositivos referidos na alínea c) do n.º 2 do artigo anterior são introduzidos no mercado mediante comunicação ao INFARMED.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A comunicação ao INFARMED referida no n.º 2 do artigo 3.º deve conter os seguintes elementos:
 
@@ -572,7 +580,9 @@ b) Uma ficha de registo, por dispositivo, com menção da informação considera
 
 2 - A documentação prevista na alínea a) do número anterior deve conter os elementos estabelecidos no n.º 1 e nas alíneas a) a d), f), g), i) a m), p) e q) do n.º 2 do artigo 4.º, quando aplicáveis.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 À embalagem, rótulo e folheto informativo dos dispositivos referidos no n.º 2 do artigo 3.º aplica-se o disposto nas alíneas a) a h) do n.º 1 e nos n.os 2, 3 e 4 do artigo 5.º e o disposto no n.º 1 e nas alíneas a) a c) do n.º 2 e no n.º 3 do artigo 6.º, com as necessárias adaptações.»
 
@@ -1242,7 +1252,7 @@ c) A aptidão necessária para redigir os certificados, registos e relatórios q
 
 1 - A marcação «CE» de conformidade é constituída pelas iniciais «CE» com o seguinte grafismo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15400/0429004307.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15400/0429004307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15400/0429004307.pdf)
 
 2 - Em caso de redução ou ampliação da marcação, devem ser respeitadas as proporções respeitantes do grafismo graduado acima reproduzido.
 

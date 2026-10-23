@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05600/0000800062.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/26/2025/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2025-911648872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e02ed2e6f5398e657869712f1649bff88899e4d775f13208771b6f533682e404
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6851d81a08cfeaabcc921e98314871f0dcba66e9581d3011768e735c11844643
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,28 @@ reuse:
 subjects:
 - Acidente de Transporte
 - Aproximação das Legislações
+- Companhia de Seguros
+- Condutor
 - Contra-ordenação
+- Documentos do Veículo
 - Fiscalização
 - Fundo de Garantia Automóvel
 - Indemnização
-- Veículo
-- Documentos do Veículo
-- Condutor
 - Reembolso
-- Companhia de Seguros
 - Seguro Obrigatório de Responsabilidade Civil
+- Veículo
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:291/2007
+  label: Altera, nos termos do artigo 7.º do presente diploma, os artigos 1.º, 3.º, 4.º, 5.º, 12.º, 20.º, 29.º, 47.º, 48.º,
+    49.º, 58.º, 59.º, 65.º, 71.º, 76.º, 79.º e 81.º e as epígrafes do título i, do capítulo iv do título ii e a epígrafe do
+    título iv, adita os artigos 1.º-A, 20.º-A, 20.º-B, 26.º-A, 51.º-A, 55.º-A, 57.º-A, 57.º-B, 57.º-C, 57.º-D, 57.º-E, 57.º-F,
+    57.º-G, 57.º-H, 75.º-A, 78.º-A e 79.º-A e a subsecção ii-A à secção i do capítulo iv do título ii, a secção iii ao capítulo
+    iii do título iii e os capítulo i e ii ao título iv, revoga o artigo 2.º, os n.ºs 2 e 4 do artigo 12.º, o n.º 2 do artigo
+    20.º e o n.º 3 do artigo 49.º e republica o Decreto-Lei n.º 291/2007, de 21 de agosto, Diário da República n.º 160/2007,
+    Série I
+  source: null
+  date: '2007-08-21'
 - type: cites
   target: celex:31972L0166
   label: null
@@ -146,6 +157,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2019/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2019/08/08/p/dre
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215375650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70237675:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31984L0005
   label: null
@@ -159,15 +234,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 151
-  section_count: 33
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 119
+  section_count: 30
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:00Z'
   warnings: []
   errors: []
 ---
@@ -206,7 +281,9 @@ Objeto
 
 O presente decreto-lei regula o sistema do seguro obrigatório de responsabilidade civil resultante da circulação de veículos automóveis e transpõe para a ordem jurídica interna a [Diretiva n.º 2009/103/CE](https://data.europa.eu/eli/dir/2009/103/oj?locale=pt) do Parlamento Europeu e do Conselho, de 16 de setembro de 2009, relativa ao seguro de responsabilidade civil que resulta da circulação de veículos automóveis e à fiscalização do cumprimento da obrigação de segurar esta responsabilidade, na sua redação atual.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -224,7 +301,9 @@ f) ‘Lesado’, a pessoa que tenha direito a uma indemnização por danos causa
 
 2 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Os veículos, com estacionamento habitual em Portugal, só podem circular se a responsabilidade civil emergente de acidente resultante dessa circulação se encontrar coberta por seguro, nos termos do presente decreto-lei.
 
@@ -238,7 +317,9 @@ a) Às situações em que os veículos são utilizados em funções meramente ag
 
 b) Aos veículos que sejam temporária ou permanentemente retirados e proibidos de utilização através de um procedimento administrativo ou outra medida verificável, sem prejuízo do disposto na alínea d) do n.º 1 do artigo 48.º
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Para efeitos do disposto no presente decreto-lei, sempre que um veículo cuja circulação esteja sujeita à obrigação de seguro seja enviado de Portugal para outro Estado-Membro, o Estado-Membro em que se situa o risco é, consoante a escolha da pessoa responsável pelo cumprimento da referida obrigação:
 
@@ -250,7 +331,9 @@ b) A partir da data da aceitação da entrega pelo adquirente, o Estado-Membro d
 
 3 - [...]
 
-###### Artigo 12.º — Capital mínimo seguro
+Artigo 12.º
+
+Capital mínimo seguro
 
 1 - O capital mínimo obrigatoriamente seguro, nos termos e para os efeitos das alíneas a) e c) do n.º 1 do artigo anterior, é de:
 
@@ -264,7 +347,9 @@ b) € 1 300 000, por acidente para os danos materiais.
 
 4 - (Revogado.)
 
-###### Artigo 20.º — Declaração de historial de sinistros
+Artigo 20.º
+
+Declaração de historial de sinistros
 
 1 - A empresa de seguros entrega ao tomador do seguro, no prazo de 15 dias contados da solicitação deste, uma declaração de historial de sinistros resultantes de acidentes que envolvam responsabilidade civil provocados pela circulação do veículo coberto pelo contrato de seguro, considerando para o efeito dessa declaração o período dos últimos cinco anos da relação contratual ou, na ausência desses acidentes.
 
@@ -280,7 +365,9 @@ b) O tomador do seguro tenha entregado à empresa de seguros o documento comprov
 
 5 - As empresas de seguros emitem a declaração de historial de sinistros de acordo com o modelo estabelecido na regulamentação da União Europeia adotada ao abrigo do artigo 16.º da [Diretiva 2009/103/CE](https://data.europa.eu/eli/dir/2009/103/oj?locale=pt) do Parlamento Europeu e do Conselho, de 16 de setembro de 2009, na sua redação atual.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...]
 
@@ -310,7 +397,9 @@ b) O tomador do seguro tenha entregado à empresa de seguros o documento comprov
 
 14 - O disposto no n.º 12 é aplicável aos documentos comprovativos do seguro referidos nas alíneas b) a d) do n.º 1 do artigo anterior, se emitidos nos termos do ordenamento jurídico respetivo.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - O Fundo de Garantia Automóvel garante a reparação dos danos decorrentes de acidentes rodoviários nas situações e termos previstos na secção seguinte.
 
@@ -322,7 +411,9 @@ b) O tomador do seguro tenha entregado à empresa de seguros o documento comprov
 
 5 - [...]
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 3 do artigo 5.º e nos artigos 57.º-C e 57.º-D, o Fundo de Garantia Automóvel satisfaz, nos termos da presente secção, as indemnizações decorrentes de acidentes rodoviários ocorridos em Portugal e originados:
 
@@ -336,7 +427,9 @@ d) Por veículo retirado e proibido de utilização, ainda que de forma temporá
 
 2 - [...]
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...]
 
@@ -360,7 +453,9 @@ c) Incapacidade parcial permanente igual ou superior a 15 %.
 
 4 - O Fundo de Garantia Automóvel não pode subordinar o pagamento da indemnização a condições diferentes das estabelecidas no presente capítulo, nomeadamente a prova, pelo lesado, por qualquer meio, de que a pessoa responsável não pode ou não quer pagar a indemnização.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - [...]
 
@@ -390,7 +485,7 @@ h) [...]
 
 6 - A contribuição resultante da percentagem destinada ao financiamento das responsabilidades do Fundo de Garantia Automóvel relativas à insolvência e liquidação é devida pelas empresas de seguros com sede em Portugal e pelas sucursais de empresa de seguros de um país terceiro, não podendo ser cobrada aos tomadores de seguros.
 
-7 - Em caso de estorno do prémio de seguro em razão da extinção do respetivo contrato, o estorno das contribuições cobradas pela empresa de seguros para o Fundo de Garantia Automóvel, nos termos do n.º 5, é efetuado nas mesmas percentagens previstas nos n.<sup>os</sup>2 e 3.
+7 - Em caso de estorno do prémio de seguro em razão da extinção do respetivo contrato, o estorno das contribuições cobradas pela empresa de seguros para o Fundo de Garantia Automóvel, nos termos do n.º 5, é efetuado nas mesmas percentagens previstas nos n.os2 e 3.
 
 8 - As contribuições cobradas pelas empresas de seguros nos termos do n.º 5 são entregues ao Fundo de Garantia Automóvel no mês seguinte a cada trimestre civil de cobrança.
 
@@ -400,7 +495,9 @@ a) Em caso de insuficiência de fundos do Fundo de Garantia Automóvel para faze
 
 b) O Estado pode assegurar uma dotação correspondente ao montante dos encargos que excedam as receitas arrecadadas pelo Fundo de Garantia Automóvel.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 [...]
 
@@ -418,13 +515,17 @@ f) Os valores despendidos por força de acordos internacionais ou decorrente da 
 
 g) [Anterior alínea f).]
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - São protegidos nos termos do presente título os lesados de acidente de viação ocorridos fora do seu Estado-Membro de residência, quando este seja um Estado-Membro ou, sem prejuízo do fixado no n.º 1 do artigo 74.º, um país terceiro aderente ao sistema da ‘carta verde’.
 
 2 - O disposto no capítulo ii e na secção i do capítulo iii do presente título não é aplicável aos danos resultantes de acidente causado pela utilização de veículo habitualmente estacionado e segurado no Estado-Membro de residência do lesado.
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - [...]
 
@@ -436,7 +537,9 @@ g) [Anterior alínea f).]
 
 5 - [...]
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - Para efeitos do disposto no presente decreto-lei, a ASF é responsável pela manutenção de um registo com as seguintes informações relativas aos veículos habitualmente estacionados em Portugal:
 
@@ -464,11 +567,15 @@ f) [...]
 
 7 - A ASF pode regulamentar os procedimentos destinados à recolha e divulgação de informação previstas no presente artigo.
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 O tratamento de dados pessoais decorrente do disposto no presente título observa o disposto no [Regulamento (UE) 2016/679](https://data.europa.eu/eli/reg/2016/679/oj?locale=pt) do Parlamento Europeu e do Conselho de 27 de abril de 2016 e na [Lei n.º 58/2019](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), de 8 de agosto, na sua redação atual.
 
-###### Artigo 81.º — Fiscalização do cumprimento da obrigação de seguro
+Artigo 81.º
+
+Fiscalização do cumprimento da obrigação de seguro
 
 1 - O cumprimento da obrigação de seguro é fiscalizado nos termos do artigo 85.º do Código da Estrada, sem prejuízo da apreensão do veículo prevista na alínea f) do n.º 1 do artigo 162.º do mesmo Código.
 
@@ -508,7 +615,9 @@ b) Um peso líquido máximo superior a 25 kg e uma velocidade máxima de projeto
 
 3 - Para efeitos do disposto no presente decreto-lei, o veículo encontra-se em circulação se for usado de forma consistente com a sua função habitual como meio de transporte de pessoas e coisas no momento do acidente, independentemente das características do veículo, do terreno em que esteja a ser utilizado ou de se encontrar estacionado ou em movimento.
 
-###### Artigo 20.º-A — Uso da declaração de historial de sinistros
+Artigo 20.º-A
+
+Uso da declaração de historial de sinistros
 
 1 - O tratamento dos tomadores de seguros e dos segurados pelas empresas de seguros, com base nas declarações de historial de sinistros emitidas por outras empresas de seguros ou pelas entidades referidas no n.º 4 do artigo anterior, não pode ser discriminatório, designadamente, agravando os prémios em razão da respetiva nacionalidade ou residência.
 
@@ -518,11 +627,15 @@ b) Um peso líquido máximo superior a 25 kg e uma velocidade máxima de projeto
 
 4 - A política prevista no número anterior é revista sempre que necessário.
 
-###### Artigo 20.º-B — Regulamentação
+Artigo 20.º-B
+
+Regulamentação
 
 A ASF pode regulamentar a informação a disponibilizar ao público pela empresa de seguros sobre a declaração de historial de sinistros.
 
-###### Artigo 26.º-A — Acidentes com envolvimento de reboques
+Artigo 26.º-A
+
+Acidentes com envolvimento de reboques
 
 1 - Em caso de acidente envolvendo um veículo trator e um reboque seguros por contratos de seguro de responsabilidade civil distintos, os lesados podem:
 
@@ -536,7 +649,9 @@ a) De que é responsável pelo pagamento da totalidade do dano, dentro dos limit
 
 b) Da existência e funções do Fundo de Garantia Automóvel, com indicação de que este é responsável pelo pagamento do dano, caso possa opor exceção atendível ao lesado.
 
-###### Artigo 51.º-A — Limites especiais à responsabilidade do Fundo de Garantia Automóvel no caso de acidentes que envolvam reboques
+Artigo 51.º-A
+
+Limites especiais à responsabilidade do Fundo de Garantia Automóvel no caso de acidentes que envolvam reboques
 
 1 - Em caso de acidentes que envolvam reboques, o Fundo de Garantia Automóvel só garante a satisfação das indemnizações quando não seja aplicável o disposto nos números seguintes.
 
@@ -546,21 +661,29 @@ b) Da existência e funções do Fundo de Garantia Automóvel, com indicação d
 
 4 - Para além do disposto no número anterior, caso o outro veículo envolvido no acidente se torne conhecido e tenha seguro, a empresa de seguros que satisfaça o pagamento previsto no n.º 2 tem, ainda, direito de regresso contra a empresa de seguros desse veículo.
 
-###### Artigo 55.º-A — Obrigação de reembolso do Fundo de Garantia Automóvel
+Artigo 55.º-A
+
+Obrigação de reembolso do Fundo de Garantia Automóvel
 
 O Fundo de Garantia Automóvel reembolsa o organismo congénere de outro Estado-Membro pelo que este, nos termos da respetiva lei nacional, haja pago para ressarcimento do dano causado pela circulação de um veículo com estacionamento habitual em Portugal e que se encontre isento da obrigação de seguro nos termos do disposto na parte final do n.º 2 e na alínea b) do n.º 4 do artigo 4.º
 
-###### Artigo 57.º-A — Acionamento do Fundo de Garantia Automóvel em caso de liquidação ou insolvência de empresa de seguros
+Artigo 57.º-A
+
+Acionamento do Fundo de Garantia Automóvel em caso de liquidação ou insolvência de empresa de seguros
 
 Os lesados de acidentes de viação ocorridos em Portugal, residentes em Portugal, titulares de direito de indemnização por danos corporais ou materiais contra empresa de seguros com sede em Portugal ou noutro Estado-Membro, objeto de um processo de insolvência ou de liquidação, podem apresentar os correspondentes pedidos de indemnização contra o Fundo de Garantia Automóvel, ainda que o hajam já feito contra a empresa de seguros.
 
-###### Artigo 57.º-B — Publicidade e informação sobre o processo de insolvência ou de liquidação de uma empresa de seguros com sede em Portugal
+Artigo 57.º-B
+
+Publicidade e informação sobre o processo de insolvência ou de liquidação de uma empresa de seguros com sede em Portugal
 
 1 - Sem prejuízo do previsto no regime geral aplicável à liquidação de empresas de seguros, as decisões tomadas pelo tribunal ou autoridade competente para instaurar os processos de insolvência ou liquidação de empresas de seguros com sede em Portugal que exerçam a atividade do seguro obrigatório automóvel são objeto de publicação no sítio da ASF na Internet.
 
 2 - O Fundo de Garantia Automóvel comunica prontamente aos organismos congéneres dos demais Estados-Membros as decisões referidas no número anterior.
 
-###### Artigo 57.º-C — Processamento de pedidos de indemnização apresentados contra empresa de seguros com sede em Portugal
+Artigo 57.º-C
+
+Processamento de pedidos de indemnização apresentados contra empresa de seguros com sede em Portugal
 
 1 - Quando receba um pedido de indemnização ao abrigo do artigo 57.º-A, para pagamento de indemnização devida por empresa de seguros com sede em Portugal sujeita a um processo de insolvência ou liquidação, o Fundo de Garantia Automóvel informa desse facto a empresa de seguros em questão.
 
@@ -570,7 +693,9 @@ Os lesados de acidentes de viação ocorridos em Portugal, residentes em Portuga
 
 4 - A empresa de seguros colabora prontamente com o Fundo de Garantia Automóvel, sempre que solicitado, para efeitos do disposto no presente artigo.
 
-###### Artigo 57.º-D — Processamento de pedidos de indemnização apresentados contra empresa de seguros com sede noutro Estado-Membro
+Artigo 57.º-D
+
+Processamento de pedidos de indemnização apresentados contra empresa de seguros com sede noutro Estado-Membro
 
 1 - Quando receba um pedido de indemnização ao abrigo do artigo 57.º-A, para pagamento de indemnização devida por empresa de seguros com sede noutro Estado-Membro, e tendo o processo de insolvência ou liquidação da mesma sido comunicado pelo organismo congénere da respetiva sede, o Fundo de Garantia Automóvel informa desse facto:
 
@@ -608,13 +733,17 @@ iv) Os danos não estejam totalmente quantificados.
 
 7 - O disposto no artigo 57.º-G é aplicável, com as necessárias adaptações, ao organismo que tenha reembolsado o Fundo de Garantia Automóvel nos termos do número anterior.
 
-###### Artigo 57.º-E — Reembolso pelo Fundo de Garantia Automóvel em processo de insolvência ou de liquidação de uma empresa de seguros com sede em Portugal
+Artigo 57.º-E
+
+Reembolso pelo Fundo de Garantia Automóvel em processo de insolvência ou de liquidação de uma empresa de seguros com sede em Portugal
 
 1 - O Fundo de Garantia Automóvel reembolsa os organismos congéneres de outro Estado-Membro dos pagamentos que estes hajam efetuado a lesados, residentes nesse Estado-Membro, em razão de pedidos por motivo de insolvência ou liquidação de empresa de seguros com sede em Portugal.
 
 2 - O Fundo de Garantia Automóvel procede ao reembolso previsto no número anterior no prazo previsto no acordo escrito entre o Fundo de Garantia Automóvel e o organismo requerente do reembolso, ou na sua falta, no prazo máximo de seis meses a contar da data do recebimento do pedido de reembolso.
 
-###### Artigo 57.º-F — Cooperação
+Artigo 57.º-F
+
+Cooperação
 
 1 - O Fundo de Garantia Automóvel coopera, de forma célere, em todas as fases do processo previsto na presente subsecção, com:
 
@@ -630,15 +759,21 @@ d) As autoridades competentes dos Estados-Membros.
 
 3 - A cooperação prevista nos números anteriores rege-se pelos acordos de cooperação entre os diversos organismos instituídos nos Estados-Membros, designadamente quanto a procedimentos de reembolso, previsto no n.º 13 do artigo 10.º-A e no n.º 13 do artigo 25.º-A da [Diretiva 2009/103/CE](https://data.europa.eu/eli/dir/2009/103/oj?locale=pt), na sua redação atual.
 
-###### Artigo 57.º-G — Sub-rogação
+Artigo 57.º-G
+
+Sub-rogação
 
 Sempre que tenha satisfeito um pedido de indemnização ao abrigo da presente subsecção, o Fundo de Garantia Automóvel fica sub-rogado nos direitos do lesado contra a empresa de seguros em processo de insolvência ou liquidação, bem como, na parte da responsabilidade não coberta pelo seguro, contra o responsável pelo acidente.
 
-###### Artigo 57.º-H — Regulamentação
+Artigo 57.º-H
+
+Regulamentação
 
 A ASF pode regulamentar o disposto na presente subsecção, nomeadamente em matéria de operacionalização.
 
-###### Artigo 75.º-A — Intervenção em caso de insolvência ou liquidação da empresa de seguros relativamente a acidentes que ocorram noutro Estado-Membro
+Artigo 75.º-A
+
+Intervenção em caso de insolvência ou liquidação da empresa de seguros relativamente a acidentes que ocorram noutro Estado-Membro
 
 1 - À indemnização de lesados de acidentes de viação que ocorram num Estado-Membro distinto do seu Estado-Membro de residência, que sejam titulares de um direito de indemnização por danos corporais ou materiais contra uma empresa de seguros com sede em Portugal ou noutro Estado-Membro, objeto de um processo de insolvência ou de liquidação, é aplicável a subsecção ii-A da secção i do capítulo iv do título ii, com as especificidades previstas no número seguinte.
 
@@ -650,11 +785,15 @@ b) Quando receba um pedido de indemnização ao abrigo do n.º 1, informa desse 
 
 3 - O disposto nos números anteriores é igualmente aplicável à indemnização dos lesados de acidentes de viação ocorridos em país terceiro aderente ao sistema da ‘carta verde’ e causados por veículo habitualmente estacionado e segurado em Estado-Membro, nos termos previstos no n.º 1 do artigo 65.º
 
-###### Artigo 78.º-A — Colaboração internacional no domínio dos veículos objeto de exportação ou importação na União Europeia
+Artigo 78.º-A
+
+Colaboração internacional no domínio dos veículos objeto de exportação ou importação na União Europeia
 
 A ASF coopera com os centros de informação de outros Estados-Membros, para garantir a disponibilidade das informações necessárias ao conhecimento da situação dos veículos abrangidos pelo disposto no artigo 5.º
 
-###### Artigo 79.º-A — Ferramentas independentes de comparação
+Artigo 79.º-A
+
+Ferramentas independentes de comparação
 
 1 - A ASF certifica as ferramentas independentes de comparação gratuita de preços, tarifas e coberturas de contratos de seguro obrigatório de responsabilidade civil automóvel que cumpram continuamente os seguintes requisitos:
 
@@ -718,7 +857,7 @@ ii) O capítulo ii, com a epígrafe «Informação para comparação na contrata
 
 ###### Artigo 5.º — Norma revogatória
 
-São revogados o artigo 2.º, os n.<sup>os</sup>2 e 4 do artigo 12.º, o n.º 2 do artigo 20.º e o n.º 3 do artigo 49.º do [Decreto-Lei n.º 291/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-2007-640637), de 21 de agosto.
+São revogados o artigo 2.º, os n.os2 e 4 do artigo 12.º, o n.º 2 do artigo 20.º e o n.º 3 do artigo 49.º do [Decreto-Lei n.º 291/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-2007-640637), de 21 de agosto.
 
 ###### Artigo 6.º — Republicação
 
@@ -730,19 +869,19 @@ São revogados o artigo 2.º, os n.<sup>os</sup>2 e 4 do artigo 12.º, o n.º 2 
 
 2 - O disposto nos artigos 57.º-A a 57.º-H e 75.º-A do [Decreto-Lei n.º 291/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-2007-640637), de 21 de agosto, na redação introduzida pelo presente decreto-lei, produz efeitos a partir de 10 de julho de 2024, relativamente a insolvências ocorridas a partir de 23 de dezembro de 2023.
 
-3 - Até à produção de efeitos das portarias a que se referem os n.<sup>os</sup>2 a 4 do artigo 58.º do [Decreto-Lei n.º 291/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-2007-640637), de 21 de agosto, na redação introduzida pelo presente decreto-lei, continuam a ser devidas ao Fundo de Garantia Automóvel as contribuições legalmente previstas à data de entrada em vigor do presente decreto-lei.
+3 - Até à produção de efeitos das portarias a que se referem os n.os2 a 4 do artigo 58.º do [Decreto-Lei n.º 291/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-2007-640637), de 21 de agosto, na redação introduzida pelo presente decreto-lei, continuam a ser devidas ao Fundo de Garantia Automóvel as contribuições legalmente previstas à data de entrada em vigor do presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 16 de janeiro de 2025. - Luís Montenegro - Inês Carmelo Rosa Calado Lopes Domingos - Joaquim Miranda Sarmento - Rita Alarcão Júdice - Margarida Blasco.
 
-**Promulgado em 4 de março de 2025.**
+Promulgado em 4 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de março de 2025.**
+Referendado em 5 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -1104,9 +1243,9 @@ e) Relativamente a veículos matriculados em países que não tenham serviço na
 
 5 - Os certificados de seguro de fronteira a que se refere a alínea e) do n.º 1 do artigo anterior devem ter o âmbito territorial do Acordo entre os serviços nacionais de seguros, competindo a respetiva emissão e efetivação das responsabilidades a qualquer empresa de seguros que esteja autorizada a explorar o ramo «Responsabilidade civil de veículos terrestres a motor».
 
-6 - Relativamente aos contratos de seguro de que sejam titulares as pessoas referidas nos n.<sup>os</sup>3 e 4 do artigo 6.º, constituem documentos comprovativos do seguro o certificado de responsabilidade civil, o certificado provisório ou o aviso-recibo, o qual deve encontrar-se validado nos termos do n.º 5 do presente artigo.
+6 - Relativamente aos contratos de seguro de que sejam titulares as pessoas referidas nos n.os3 e 4 do artigo 6.º, constituem documentos comprovativos do seguro o certificado de responsabilidade civil, o certificado provisório ou o aviso-recibo, o qual deve encontrar-se validado nos termos do n.º 5 do presente artigo.
 
-7 - Os certificados de responsabilidade civil e os certificados provisórios referidos no número anterior devem ser emitidos pelas empresas de seguros, nos termos, respetivamente, dos n.<sup>os</sup>1 e 3 do presente artigo.
+7 - Os certificados de responsabilidade civil e os certificados provisórios referidos no número anterior devem ser emitidos pelas empresas de seguros, nos termos, respetivamente, dos n.os1 e 3 do presente artigo.
 
 8 - A ASF emite norma regulamentar fixadora do conteúdo, e eventuais demais condições de genuidade, dos certificado provisório, aviso-recibo e certificado de responsabilidade civil objeto do presente artigo, bem como do demais necessário à aplicação do presente artigo.
 
@@ -1274,7 +1413,7 @@ b) Se a proposta prevista na alínea anterior tiver sido aceite, a empresa de se
 
 1 - A posição prevista na alínea c) do n.º 1 ou na alínea b) do n.º 2 do artigo 37.º consubstancia-se numa proposta razoável de indemnização, no caso de a responsabilidade não ser contestada e de o dano sofrido ser quantificável, no todo ou em parte.
 
-2 - Em caso de incumprimento dos deveres fixados nas disposições identificadas no número anterior, quando revistam a forma dele constante, é aplicável o previsto nos n.<sup>os</sup>2 e 3 do artigo anterior.
+2 - Em caso de incumprimento dos deveres fixados nas disposições identificadas no número anterior, quando revistam a forma dele constante, é aplicável o previsto nos n.os2 e 3 do artigo anterior.
 
 3 - Todavia, quando a proposta da empresa de seguros tiver sido efetuada nos termos substanciais e procedimentais previstos no sistema de avaliação e valorização dos danos corporais por utilização da Tabela Indicativa para Avaliação de Incapacidades Permanentes em Direito Civil, os juros nos termos do número anterior são devidos apenas à taxa legal prevista na lei aplicável ao caso e sobre a diferença entre o montante oferecido e o montante fixado na decisão judicial, e, relativamente aos danos não patrimoniais, a partir da data da decisão judicial que torne líquidos os montantes devidos.
 
@@ -1286,7 +1425,7 @@ b) Se a proposta prevista na alínea anterior tiver sido aceite, a empresa de se
 
 ###### Artigo 40.º — Resposta fundamentada
 
-1 - A comunicação da não assunção da responsabilidade, nos termos previstos nas disposições identificadas nos n.<sup>os</sup>1 dos artigos 38.º e 39.º, consubstancia-se numa resposta fundamentada em todos os pontos invocados no pedido nos seguintes casos:
+1 - A comunicação da não assunção da responsabilidade, nos termos previstos nas disposições identificadas nos n.os1 dos artigos 38.º e 39.º, consubstancia-se numa resposta fundamentada em todos os pontos invocados no pedido nos seguintes casos:
 
 a) A responsabilidade tenha sido rejeitada;
 
@@ -1294,7 +1433,7 @@ b) A responsabilidade não tenha sido claramente determinada;
 
 c) Os danos sofridos não sejam totalmente quantificáveis.
 
-2 - Em caso de atraso no cumprimento dos deveres fixados nas disposições identificadas nos n.<sup>os</sup>1 dos artigos 38.º e 39.º, quando revistam a forma constante do número anterior, para além dos juros devidos a partir do 1.º dia de atraso sobre o montante previsto no n.º 2 do artigo anterior, esta constitui-se devedora para com o lesado e para com a ASF, em partes iguais, de uma quantia de € 200 por cada dia de atraso.
+2 - Em caso de atraso no cumprimento dos deveres fixados nas disposições identificadas nos n.os1 dos artigos 38.º e 39.º, quando revistam a forma constante do número anterior, para além dos juros devidos a partir do 1.º dia de atraso sobre o montante previsto no n.º 2 do artigo anterior, esta constitui-se devedora para com o lesado e para com a ASF, em partes iguais, de uma quantia de € 200 por cada dia de atraso.
 
 ###### Artigo 41.º — Perda total
 
@@ -1336,7 +1475,7 @@ c) A estimativa do valor do respetivo salvado e a identificação de quem se com
 
 ###### Artigo 43.º — Pagamento da indemnização
 
-1 - Salvo acordo em contrário, a empresa de seguros responsável deve proceder ao pagamento ao lesado da indemnização decorrente do sinistro no prazo de oito dias úteis a contar da data da assunção da responsabilidade, nos termos das disposições identificadas nos n.<sup>os</sup>1 dos artigos 38.º e 39.º, e mediante a apresentação dos documentos necessários ao pagamento.
+1 - Salvo acordo em contrário, a empresa de seguros responsável deve proceder ao pagamento ao lesado da indemnização decorrente do sinistro no prazo de oito dias úteis a contar da data da assunção da responsabilidade, nos termos das disposições identificadas nos n.os1 dos artigos 38.º e 39.º, e mediante a apresentação dos documentos necessários ao pagamento.
 
 2 - O disposto no número anterior não prejudica o pagamento aos terceiros prestadores de serviços em prazos mais dilatados, desde que tal tenha sido com eles convencionado e daí não decorra um agravamento das condições de ressarcimento dos danos sofridos pelo lesado.
 
@@ -1350,7 +1489,7 @@ c) A estimativa do valor do respetivo salvado e a identificação de quem se com
 
 2 - As empresas de seguros devem, nas suas comunicações com os tomadores de seguros, com os segurados ou com os terceiros lesados, prestar informação sobre a sua adesão à arbitragem voluntária, indicando as entidades que procedem a essa arbitragem.
 
-3 - Se o tomador do seguro, o segurado ou o terceiro lesado não concordar com a decisão comunicada nos termos das disposições identificadas nos n.<sup>os</sup>1 dos artigos 38.º e 39.º, e não aceitar o recurso à arbitragem, a empresa de seguros fica dispensada do cumprimento dos prazos previstos no artigo anterior.
+3 - Se o tomador do seguro, o segurado ou o terceiro lesado não concordar com a decisão comunicada nos termos das disposições identificadas nos n.os1 dos artigos 38.º e 39.º, e não aceitar o recurso à arbitragem, a empresa de seguros fica dispensada do cumprimento dos prazos previstos no artigo anterior.
 
 ###### Artigo 45.º — Códigos de conduta, convenções ou acordos
 
@@ -1478,7 +1617,7 @@ No âmbito da proteção objeto do título ii, compete ao Fundo de Garantia Auto
 
 4 - São subsidiariamente responsáveis pelo pagamento ao Fundo de Garantia Automóvel, nos termos do n.º 1, os que tenham contribuído para o erro ou vício determinante da anulabilidade ou nulidade do contrato de seguro e ainda o comerciante de veículos automóveis que não cumpra as formalidades de venda relativas à obrigação de seguro de responsabilidade civil automóvel.
 
-5 - As entidades que reembolsem o Fundo nos termos dos n.<sup>os</sup>3 e 4 beneficiam de direito de regresso contra outros responsáveis, se os houver, relativamente ao que tiverem pago.
+5 - As entidades que reembolsem o Fundo nos termos dos n.os3 e 4 beneficiam de direito de regresso contra outros responsáveis, se os houver, relativamente ao que tiverem pago.
 
 6 - Aos direitos do Fundo de Garantia Automóvel previstos nos números anteriores é aplicável o n.º 2 do artigo 498.º do Código Civil, sendo relevante para o efeito, em caso de pagamentos fracionados por lesado ou a mais do que um lesado, a data do último pagamento efetuado pelo Fundo de Garantia Automóvel.
 
@@ -1516,7 +1655,7 @@ No âmbito da proteção objeto do título ii, o Fundo de Garantia Automóvel, e
 
 PROTEÇÃO DOS LESADOS RELATIVAMENTE A DANOS RESULTANTES DE ACIDENTES QUE OCORRERAM NO SEU ESTADO-MEMBRO DE RESIDÊNCIA EM CASO DE INSOLVÊNCIA OU LIQUIDAÇÃO DE EMPRESA DE SEGUROS
 
-##### DIVISÃO I
+DIVISÃO I
 
 LESADOS EM ACIDENTES EM QUE PORTUGAL É O ESTADO-MEMBRO DE RESIDÊNCIA
 
@@ -1578,7 +1717,7 @@ iv) Os danos não estejam totalmente quantificados.
 
 7 - O disposto no artigo 57.º-G é aplicável, com as necessárias adaptações, ao organismo que tenha reembolsado o Fundo de Garantia Automóvel nos termos do número anterior.
 
-##### DIVISÃO II
+DIVISÃO II
 
 LESADOS EM ACIDENTES EM QUE PORTUGAL NÃO É O ESTADO-MEMBRO DE RESIDÊNCIA
 
@@ -1588,7 +1727,7 @@ LESADOS EM ACIDENTES EM QUE PORTUGAL NÃO É O ESTADO-MEMBRO DE RESIDÊNCIA
 
 2 - O Fundo de Garantia Automóvel procede ao reembolso previsto no número anterior no prazo previsto no acordo escrito entre o Fundo de Garantia Automóvel e o organismo requerente do reembolso, ou na sua falta, no prazo máximo de seis meses a contar da data do recebimento do pedido de reembolso.
 
-##### DIVISÃO III
+DIVISÃO III
 
 DISPOSIÇÕES COMUNS
 
@@ -1648,7 +1787,7 @@ h) Quaisquer outras receitas que lhe venham a ser atribuídas.
 
 6 - A contribuição resultante da percentagem destinada ao financiamento das responsabilidades do Fundo de Garantia Automóvel relativas à insolvência e liquidação é devida pelas empresas de seguros com sede em Portugal e pelas sucursais de empresa de seguros de um país terceiro, não podendo ser cobrada aos tomadores de seguros.
 
-7 - Em caso de estorno do prémio de seguro em razão da extinção do respetivo contrato, o estorno das contribuições cobradas pela empresa de seguros para o Fundo de Garantia Automóvel, nos termos do n.º 5, é efetuado nas mesmas percentagens previstas nos n.<sup>os</sup>2 e 3.
+7 - Em caso de estorno do prémio de seguro em razão da extinção do respetivo contrato, o estorno das contribuições cobradas pela empresa de seguros para o Fundo de Garantia Automóvel, nos termos do n.º 5, é efetuado nas mesmas percentagens previstas nos n.os2 e 3.
 
 8 - As contribuições cobradas pelas empresas de seguros nos termos do n.º 5 são entregues ao Fundo de Garantia Automóvel no mês seguinte a cada trimestre civil de cobrança.
 
@@ -2024,7 +2163,7 @@ O cumprimento pelas empresas de seguros do previsto no presente decreto-lei, bem
 
 ###### Artigo 86.º — Contraordenações
 
-1 - A infração ao disposto nos n.<sup>os</sup>1, 5 e 6 do artigo 36.º, nos n.<sup>os</sup>1 a 3 e 6 do artigo 37.º, nos artigos 38.º a 40.º e nos n.<sup>os</sup>1 e 5 do artigo 42.º constitui contraordenação punível com coima de € 3000 a € 44 890, quando não exista sanção civil aplicável.
+1 - A infração ao disposto nos n.os1, 5 e 6 do artigo 36.º, nos n.os1 a 3 e 6 do artigo 37.º, nos artigos 38.º a 40.º e nos n.os1 e 5 do artigo 42.º constitui contraordenação punível com coima de € 3000 a € 44 890, quando não exista sanção civil aplicável.
 
 2 - A infração ao disposto no artigo 33.º, no n.º 7 do artigo 36.º, no artigo 41.º, no n.º 2 do artigo 44.º e no n.º 2 do artigo 45.º constitui contraordenação punível com coima de € 750 a € 24 940.
 
@@ -2095,3 +2234,5 @@ f) O n.º 3 do artigo 66.º do [Decreto-Lei n.º 94-B/98](https://diariodarepubl
 ###### Artigo 95.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor 60 dias após a sua publicação.
+
+118808933

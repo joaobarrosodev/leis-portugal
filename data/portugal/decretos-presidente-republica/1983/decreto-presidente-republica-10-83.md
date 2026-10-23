@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/10-1983-311815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8b84a80a07051c445b026aa79ab03c84f7535a1b11d4c7fea1eba15964f9a33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a093ff57b503825bcf270a0e75fbef4bc0e189e03de5e93603b9829bbd2a8b08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embaixador
+- Exoneração
+- Maputo
+- Moçambique
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:40Z'
   warnings: []
   errors: []
 ---
@@ -84,12 +88,12 @@ validation:
 
 de 21 de Abril
 
-**O Presidente da República decreta, nos termos da alínea a) do artigo 138.º da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos da alínea a) do artigo 138.º da Constituição, o seguinte:
 
 É exonerado, sob proposta do Governo, o embaixador José Pires Cutileiro do cargo de embaixador de Portugal no Maputo.
 
-**Assinado em 28 de Março de 1983.**
+Assinado em 28 de Março de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão. - O Ministro dos Negócios Estrangeiros, Vasco Luís Caldeira Coelho Futscher Pereira.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão. - O Ministro dos Negócios Estrangeiros, Vasco Luís Caldeira Coelho Futscher Pereira.

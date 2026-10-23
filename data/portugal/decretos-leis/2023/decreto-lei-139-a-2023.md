@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29
   number: '250'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 342-(2) a 342-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/25004/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/139-a/2023/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-2023-835994077
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33a9fd5ea49fa039acf2e5e14e7a4d5cc3581e3747f2a6eee73fe3c2cf5d0dd9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d1b26b809160a459da0ae4936fc2c04227229d323a04fee70ad6567eeb70305
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência para a Modernização Administrativa
 - Definição de Competências
+- Estrutura de Missão Portugal Digital
 - Extinção de Serviços
 - Gabinete Nacional de Segurança
 - Orgânica
-- Agência para a Modernização Administrativa
-- Estrutura de Missão Portugal Digital
 - Plano de Ação para a Transição Digital
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:3/2012
+  label: Altera, a partir de 30 de dezembro de 2023, com efeitos a partir de 31 de dezembro de 2023, o artigo 6.º-A do Decreto-Lei
+    n.º 3/2012, de 16 de janeiro, Diário da República n.º 11/2012, Série I
+  source: null
+  date: '2012-01-16'
+- type: amends
+  target: pt:numero:decreto-lei:43/2012
+  label: Altera, a partir de 30 de dezembro de 2023, com efeitos a partir de 31 de dezembro de 2023, o artigo 3.º do Decreto-Lei
+    n.º 43/2012, de 23 de fevereiro, Diário da República n.º 39/2012, Série I
+  source: null
+  date: '2012-02-23'
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:31/2020
+  label: Determina, a partir de 30 de dezembro de 2023, com efeitos a partir de 31 de dezembro de 2023, a extinção da Estrutura
+    de Missão Portugal Digital, sucedendo-lhe, nos termos do artigo 3.º do presente diploma, nas atribuições e competências,
+    em todas as relações jurídicas legais, contratuais e procedimentais de que esta seja titular à data da sua extinção, bem
+    como nos respetivos direitos, obrigações e património, incluindo no que respeita aos procedimentos concursais em curso
+    e aos contratos em vigor e nas posições processuais nas ações judiciais pendentes, a Agência para a Modernização Administrativa,
+    I. P., e revoga a Resolução do Conselho de Ministros n.º 31/2020, de 21 de abril, Diário da República n.º 78/2020, Série
+    I
+  source: null
+  date: '2020-04-21'
 - type: cites
   target: eli:http://data.dr
   label: null
@@ -113,16 +136,67 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/34-b/2023/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/34-b/2023/04/20/p/dre
+- type: cites
+  target: pt:dre:114152775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114908238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132133788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132133789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212137683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:30/2020
+  label: Revoga, a partir de 30 de dezembro de 2023, com efeitos a partir de 31 de dezembro de 2023, nos termos do artigo
+    8.º do presente diploma, a Resolução do Conselho de Ministros n.º 30/2020, de 21 de abril, Diário da República n.º 78/2020,
+    Série I
+  source: null
+  date: '2020-04-21'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:18Z'
   warnings: []
   errors: []
 ---
@@ -265,12 +339,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de novembro de 2023. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia.
 
-**Promulgado em 28 de dezembro de 2023.**
+Promulgado em 28 de dezembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de dezembro de 2023.**
+Referendado em 29 de dezembro de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+117211125

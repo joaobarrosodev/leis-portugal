@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/070b00/15581563.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/68/1991/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/68-1991-621562
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T07:53:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0a3d44c341f8c96f7150c6dc2c6ab6b737426326b032981f57e0c14c36e47e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf4a106f03ef7a5ecddd85d6239f4f38c084663b3fe47418dcc808e7b52b4c66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:53:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Departamento para os Assuntos do Fundo Social Europeu
+- Formação Profissional
 - FSE
+- Instituto do Emprego e Formação Profissional
 - Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:290981:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:304769:por
+  label: "Alterados os artigos 6.º, 10.º, 11.º, 14.º, 16.º e aditado o artigo 14.º-A, pelo DN.194/91.05.09.1991.MESS, DR.IS-B\
+    \ [204] de 05.09.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/194-1991-304769
+  date: '1991-09-05'
+- type: amended_by
+  target: pt:dre:647680:por
+  label: "Alterados os artigos 10.º e 11.º, na redacção do Despacho Normativo 194/91, de 5 de Setembro, pelo DN.7/93.06.02.1993.MESS,\
+    \ DR.IS-B [31] de 06.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/7-1993-647680
+  date: '1993-02-06'
 - type: cites
   target: celex:31988R4255
   label: null
   source: http://data.europa.eu/eli/reg/1988/4255/oj
+- type: corrected_by
+  target: pt:dre:459585:por
+  label: "Rectificada a alínea b) do n.º 1 do artigo 7.º pela DECL-RECT.82/91.30.04.1991.PCM, DR.IS-A [99]2ºSupl de 30.04.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/82-1991-459585
+  date: '1991-04-30'
+- type: repealed_by
+  target: pt:dre:331414:por
+  label: "Revogado o artigo 23.º pelo DN.257/91.11.11.1991.MESS, DR.IS-B [259] de 11.11.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/257-1991-331414
+  date: '1991-11-11'
+- type: repealed_by
+  target: pt:dre:290981:por
+  label: "Revogado pelo DR.15/94.1994.07.06.MESS, DR.IS-B [154]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/15-1994-290981
+  date: '1994-07-06'
 article_structure:
   article_count: 29
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:53:30Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +169,7 @@ b) Em relação à idade dos formandos, ao momento da apresentação do pedido.
 
 ###### Artigo 5.º — Orientações
 
-**O Ministro do Emprego e da Segurança Social, ouvido o Instituto do Emprego e Formação Profissional (IEFP), poderá fixar, para apreciação os pedidos, designadamente, os seguintes indicadores:**
+O Ministro do Emprego e da Segurança Social, ouvido o Instituto do Emprego e Formação Profissional (IEFP), poderá fixar, para apreciação os pedidos, designadamente, os seguintes indicadores:
 
 a) Montante máximo por formando/hora, susceptível de co-financiamento, para o total das despesas elegíveis ou apenas para algumas dessas despesas, tal como estão definidas no n.º 1 do artigo 3.º do Regulamento (CEE) n.º [4255/88](http://data.europa.eu/eli/reg/1988/4255/oj?locale=pt), do Conselho, de 19 de Dezembro de 1988, publicado no Jornal Oficial das Comunidades Europeias, n.º L-374/21, de 31 de Dezembro de 1988;
 

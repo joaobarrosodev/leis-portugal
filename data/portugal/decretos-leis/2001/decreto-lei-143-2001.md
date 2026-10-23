@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/04/097a00/23602367.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/143/2001/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2001-165020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:24:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5251843b5b710639447a1080f600b57331656e1e96ff5c1fa7a0b3ef465b00b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe4da11b309e6251ea1fe9ac312ae7b91d0a9acff5f77d964bda006abd002648
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:24:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,28 +70,28 @@ reuse:
 subjects:
 - Alienação de BENS
 - Aproximação das Legislações
-- Empresa
-- Publicidade
-- Moeda Eletrónica
-- Multa
+- Comércio
 - Comissão de Aplicação de Coimas em Matéria Económica
 - Contra-ordenação
 - Contrato
 - Contrato à Distância
 - Contrato de Prestação de Serviços
 - Direcção Geral do Comércio e da Concorrência
+- Empresa
 - Fiscalização
-- Inspecção Geral das Actividades Económicas
-- Pagamento
 - Informação
-- Instituto do Consumidor
 - Informação do Consumidor
+- Inspecção Geral das Actividades Económicas
+- Instituto do Consumidor
+- Moeda Eletrónica
+- Multa
+- Pagamento
 - Prazo
 - Preço
 - Prestação de Serviços
 - Proteção do Consumidor
+- Publicidade
 - Reembolso
-- Comércio
 - Venda
 - Venda Automática
 - Venda em Cadeia
@@ -102,6 +102,13 @@ relationships:
   target: pt:dre:572450:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:249242:por
+  label: "Alterados os arts.1.º, 6.º, 8.º, 9.º, 14.º, 15.º, 18.º, 19.º, 25.º, 31.º, 32.º, e 34.º, revogadas as als. c) e d)\
+    \ do nº 2 do art. 6º, todos do presente diploma, pelo DEC LEI.82/2008.20.05.2008.MEI, DR.IS [97] de 20.05.2008, que o\
+    \ republica em anexo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-2008-249242
+  date: '2008-05-20'
 - type: cites
   target: celex:31985L0577
   label: null
@@ -110,16 +117,38 @@ relationships:
   target: celex:31997L0007
   label: null
   source: http://data.europa.eu/eli/dir/1997/7/oj
+- type: corrected_by
+  target: pt:dre:234709:por
+  label: "Rectificado pela DECL-RECT.13-C/2001.2001.05.31.PCM, DR.IS-A[126]3ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-c-2001-234709
+  date: '2001-05-31'
+- type: repealed_by
+  target: pt:dre:246504:por
+  label: "Revogados os arts. 26º, 27º, 28º e 29º pelo DEC LEI.57/2008.26.03.2008.MEI, DR.IS [60] de 26.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-2008-246504
+  date: '2008-03-26'
+- type: repealed_by
+  target: pt:dre:483411:por
+  label: "Revogado, a partir de 01.11.2009, o art. 10.º pelo DEC LEI.317/2009.30.10.2009.MFAP, DR.IS [211] de 30.10.2009\0\
+    09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/317-2009-483411
+  date: '2009-10-30'
+- type: repealed_by
+  target: pt:dre:572450:por
+  label: "Revogado, a partir de 13.06.2014, o presente diploma, na redação do Dec Lei 57/2008, de 26-mar, do Dec Lei 82/2008,\
+    \ de 20-maio, do Dec Lei 317/2009, de 30-out, pelo DEC LEI.24/2014.14.02.2014.MECO, DR.IS [32] de 14.02.2014\014\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2014-572450
+  date: '2014-02-14'
 article_structure:
   article_count: 38
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:24:38Z'
   warnings: []
   errors: []
 ---
@@ -608,12 +637,12 @@ O presente diploma entra em vigor no prazo de 30 dias a contar data da sua publi
 
 Visto e aprovado em Conselho de Ministros de 15 de Março de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Mário Cristina de Sousa.
 
-**Promulgado em 11 de Abril de 2001.**
+Promulgado em 11 de Abril de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Abril de 2001.**
+Referendado em 12 de Abril de 2001.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.

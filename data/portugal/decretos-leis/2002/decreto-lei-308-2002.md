@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/12/290a00/78487854.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/308/2002/12/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-2002-405758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:35:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0629b5062b2fd7127ce40fc648c1493129a2679d28413354166d445d06f1b572
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c473e6f6c671a57a180ab2c52ef257fa2f25a4856d8a52f3e508f60445aa5c60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:35:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Reestruturação de Serviços
+- Agência para a Qualidade e Segurança Alimentar
+- Alimentação
 - Autonomia Administrativa
 - Autonomia Patrimonial
 - Comissão Instaladora
 - Conselho Científico
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Conselho Consultivo
+- Conselho Coordenador
 - Controlo de Qualidade
 - Definição de Competências
 - Fiscalização
 - Instalação de Serviços
-- Conselho Consultivo
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orgânica
-- Conselho Coordenador
 - Pessoa Colectiva de Direito Público
 - Política Alimentar
-- Agência para a Qualidade e Segurança Alimentar
-- Alimentação
+- Produto Alimentar
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:522977:por
@@ -100,16 +100,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/82/2001/03/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/82/2001/03/09/p/dre
+- type: cites
+  target: pt:dre:208255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401291:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:522977:por
+  label: "Revogado pelo DEC LEI.217-B/2004.09.10.2004.MAPF, DR.IS-A [238]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-b-2004-522977
+  date: '2004-10-09'
 article_structure:
-  article_count: 47
+  article_count: 33
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:35:13Z'
   warnings: []
   errors: []
 ---
@@ -170,11 +187,15 @@ Os artigos 1.º, 2.º, 4.º, 5.º, 6.º, 7.º, 8.º, 11.º, 12.º, 13.º, 15.º,
 
 2 - A Agência é uma pessoa colectiva de direito público, dotada de autonomia administrativa e de património próprio, exercendo a sua actividade, durante a sua fase de instalação, sob a dependência directa do Ministro da Agricultura, Desenvolvimento Rural e Pescas, sem prejuízo da tutela conjunta dos Ministros Adjunto do Primeiro-Ministro e da Ciência e do Ensino Superior, na área das respectivas competências.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 A Agência tem por missão garantir padrões elevados de qualidade e segurança alimentar, mediante a avaliação científica, rigorosa e independente dos riscos existentes e na sua comunicação, com a participação activa dos consumidores, dos agentes económicos e sociais e da comunidade científica.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 A Agência, no âmbito da avaliação científica e comunicação dos riscos em toda a cadeia alimentar, durante o período de instalação, tem por atribuições:
 
@@ -190,7 +211,9 @@ e) Promover e apoiar, em ligação com as universidades e outras instituições 
 
 f) Colaborar, na área das suas atribuições, com a Autoridade Europeia para a Segurança Alimentar.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -204,7 +227,9 @@ a) O conselho científico;
 
 b) O conselho consultivo.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -212,7 +237,9 @@ b) O conselho consultivo.
 
 3 - A comissão instaladora é apoiada por três adjuntos, equiparados, para efeitos remuneratórios, a director de serviços e recrutados de entre directores de serviços, chefes de divisão ou funcionários com remuneração não inferior ao índice 510 da tabela do regime geral.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -236,7 +263,9 @@ d) Convocar e dirigir as reuniões da comissão instaladora;
 
 e) ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A comissão instaladora reúne ordinariamente uma vez por semana, e as suas deliberações são tomadas por maioria simples, tendo o presidente voto de qualidade.
 
@@ -246,7 +275,9 @@ e) ...
 
 4 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -258,7 +289,9 @@ e) ...
 
 5 - Os membros do conselho científico têm direito a receber uma compensação por cada reunião em que participem, sendo o respectivo montante fixado por despacho conjunto dos Ministros das Finanças e da Agricultura, Desenvolvimento Rural e Pescas.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 ...
 
@@ -272,7 +305,9 @@ d) Propor à comissão instaladora a realização de estudos, conferências, col
 
 e) Colaborar com a comissão instaladora na elaboração da lei orgânica.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -282,11 +317,15 @@ e) Colaborar com a comissão instaladora na elaboração da lei orgânica.
 
 4 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 A dotação do pessoal indispensável ao início de funcionamento da Agência consta de mapa aprovado por despacho conjunto dos Ministros das Finanças e da Agricultura, Desenvolvimento Rural e Pescas, sob proposta da comissão instaladora.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O prazo de instalação é fixado em dois anos, podendo ser prorrogado, a título excepcional, por mais um ano, mediante despacho conjunto dos Ministros das Finanças e da Agricultura, Desenvolvimento Rural e Pescas.
 
@@ -294,7 +333,9 @@ A dotação do pessoal indispensável ao início de funcionamento da Agência co
 
 3 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -316,7 +357,9 @@ Núcleo de informação do risco na segurança alimentar
 
 Junto da comissão instaladora funcionará um núcleo de informação do risco na segurança alimentar (NIRSA), que será dirigido por um técnico superior, equiparado, para efeitos remuneratórios, a director de serviços.
 
-###### Artigo 14.º-B — Competências do núcleo de informação do risco na segurança alimentar
+Artigo 14.º-B
+
+Competências do núcleo de informação do risco na segurança alimentar
 
 Compete nomeadamente ao NIRSA:
 
@@ -326,7 +369,9 @@ b) Transmitir, logo que conhecidas, todas as situações que possam comprometer 
 
 c) Assegurar, para efeitos do disposto na alínea anterior, que o princípio da precaução esteja sempre presente na comunicação do risco, designadamente quando em situações de incerteza, dúvidas ou desconhecimento científico.
 
-###### Artigo 14.º-C — Lei orgânica
+Artigo 14.º-C
+
+Lei orgânica
 
 Para efeitos do disposto na alínea b) do n.º 1 do artigo 7.º, a comissão instaladora deve ter em conta, nomeadamente, as seguintes linhas orientadoras:
 
@@ -360,15 +405,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Outubro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Pedro Lynce de Faria - Luís Filipe Pereira - Isaltino Afonso de Morais.
 
-**Promulgado em 29 de Novembro de 2002.**
+Promulgado em 29 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Dezembro de 2002.**
+Referendado em 3 de Dezembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Republicação
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/299/1995/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-1995-691785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b7e5cd64d73334c0a2ab2f6e982a75e8265ff31809ef2b4bdd3e08751b61626
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a25012bc07347e14a1399e6ac36f08331d66a34367e19a00914cb79610e37b8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,33 @@ subjects:
 - Crédito à Habitação
 - Habitação
 - TAXA de JURO
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:325760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:45Z'
   warnings: []
   errors: []
 ---
@@ -100,20 +116,20 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A taxa de juro contratual dos empréstimos concedidos ao abrigo do regime de habitação a custos controlados corresponde à que estiver em vigor no início de cada período de contagem de juros.
+Artigo 1.º - 1 - A taxa de juro contratual dos empréstimos concedidos ao abrigo do regime de habitação a custos controlados corresponde à que estiver em vigor no início de cada período de contagem de juros.
 
 2 - O disposto no número anterior aplica-se a todos os empréstimos nele referidos, incluindo os já contratados, a partir do período de contagem de juros subsequente à entrada em vigor do presente diploma.
 
-###### Art. 2.º São revogadas a parte final do n.º 1 do artigo 4.º do [Decreto-Lei n.º 264/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1982-394514), de 8 de Julho, na redacção dada pelo [Decreto-Lei n.º 349/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1983-454292), de 30 de Julho, e a parte final do artigo 8.º do [Decreto-Lei n.º 220/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1983-451825), de 26 de Maio.
+Art. 2.º São revogadas a parte final do n.º 1 do artigo 4.º do [Decreto-Lei n.º 264/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1982-394514), de 8 de Julho, na redacção dada pelo [Decreto-Lei n.º 349/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1983-454292), de 30 de Julho, e a parte final do artigo 8.º do [Decreto-Lei n.º 220/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1983-451825), de 26 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 14 de Setembro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 5 de Outubro de 1995.**
+Promulgado em 5 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1995.**
+Referendado em 10 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

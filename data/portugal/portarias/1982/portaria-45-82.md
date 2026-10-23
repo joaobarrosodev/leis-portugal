@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/45-1982-601159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T07:16:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: daac435833edf03cbfe6b6ae6bd10f546ba8abe2c3044c4788e8e52d2b066410
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4d2df226d88cf1eb0a70ea476d88d8025d515d645f5de664ad1656646fa7f05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:16:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Hospitalar
+- Centro Hospitalar de VILA NOVA de GAIA
+- Quadro de Pessoal
+- VILA NOVA de GAIA
 relationships:
 - type: amended_by
   target: pt:dre:598492:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:451854:por
+  label: "Criados dois lugares de neurofisiografista e extintos dois lugares de terapeuta da fala no quadro de pessoal aprovado\
+    \ pela Port 663/80, de 16-Set, alterada pelo presente diploma, pela PORT.661/83.08.06.1983.MFP, DR.IS [131] de 08.06.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/661-1983-451854
+  date: '1983-06-08'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:16:54Z'
   warnings: []
   errors: []
 ---
@@ -96,6 +123,6 @@ Atento o exposto e em conformidade com as disposições legais invocadas:
 
 Manda o Governo da República Portuguesa, pelos Ministros de Estado e das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, que sejam introduzidas ao quadro de pessoal do Centro Hospitalar de Vila Nova de Gaia as alterações que a seguir se mencionam:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/01/01000/00630064.pdf))](https://files.diariodarepublica.pt/1s/1982/01/01000/00630064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/01/01000/00630064.pdf)
 
 Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, 7 de Dezembro de 1981. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro dos Assuntos Sociais, Luís Eduardo da Silva Barbosa. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

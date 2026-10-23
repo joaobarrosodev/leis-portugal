@@ -46,40 +46,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/97-1981-390196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:59:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e6d861d8ccd8a62af804845ce4c4fb85ef49f9d439fd41a0b8fd6a85bcc84c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7a093b69ec11b090555a2d8d4c1a559395a20739b5ac6ae558493783a521d3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:59:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Marinha do Comércio
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:612452:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:573160:por
+  label: "Alterado o quadro de pessoal constante do anexo I pela PORT.389/81.12.05.1981.MFP, DR.IS [108] de 12.05.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/389-1981-573160
+  date: '1981-05-12'
+- type: amended_by
+  target: pt:dre:578944:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Marinha de Comércio, constante do mapa anexo pela PORT.470/81.06.06.1981.MFP,\
+    \ DR.IS [130] de 06.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/470-1981-578944
+  date: '1981-06-06'
+- type: amended_by
+  target: pt:dre:395936:por
+  label: "Substituido o quadro de pessoal de informática constante do mapa I anexo ao presente diploma, pela PORT.604/82.1982.06.18.MAS\
+    \ DR.IS [138]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/604-1982-395936
+  date: '1982-06-18'
+- type: amended_by
+  target: pt:dre:401305:por
+  label: "Alterado o quadro de pessoal, com a alteração constante da Port 604/82, de 18-Jun, pela PORT.911/84.14.12.1984.PCM,\
+    \ DR.IS [288] de 14.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/911-1984-401305
+  date: '1984-12-14'
+- type: amended_by
+  target: pt:dre:356721:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Marinha de Comércio, constante do mapa I anexo ao presente diploma,\
+    \ pela PORT.776/88.05.12.1988.MF, DR.IS [280] de 05.12.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/776-1988-356721
+  date: '1988-12-05'
+- type: cites
+  target: pt:dre:235970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:390638:por
+  label: Rectificada pela DECL.DD6344.13.02.1981.PCM, DR.IS [47] de 25.02.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-390638
+  date: '1981-02-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:59:06Z'
   warnings: []
   errors: []
 ---
@@ -104,4 +152,4 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/01800/01650165.pdf))](https://files.diariodarepublica.pt/1s/1981/01/01800/01650165.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/01800/01650165.pdf)

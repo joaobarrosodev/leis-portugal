@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/300/1998/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1998-235929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T02:00:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a95846e79aba5021af83ae7e3767377b60efe0b780762aceb3ea2dc8c6e0ae7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc24569281749c87c74c68596cb4525817fb6160193b9d608f3856f3df5b0cdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:00:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aquisição de Bens e Serviços
-- Governo Regional
+- Catástrofe
+- Contratação Pública
 - Contrato
 - Contrato Administrativo
 - Despesas Públicas
 - Empreitada de Obras Públicas
-- Catástrofe
-- Ilha de São Jorge
-- Ilha do Pico
+- Governo Regional
 - Habitação
-- Sismo
-- Açores
+- Ilha de São Jorge
 - ILHA do Faial
+- Ilha do Pico
+- Sismo
 - ZONA Sinistrada
-- Contratação Pública
 relationships:
 - type: amended_by
   target: pt:dre:580979:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:580979:por
+  label: "Alterados os arts. 1.º e 2.º e prorrogado por mais 1 ano o regime jurídico especial, pelo DEC LEI.200/2000.2000.09.01.PCM\
+    \ DR.IS-A [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-2000-580979
+  date: '2000-09-01'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:00:35Z'
   warnings: []
   errors: []
 ---
@@ -141,12 +147,12 @@ O presente diploma produz efeitos desde 9 de Julho de 1998.
 
 Visto e aprovado em Conselho de Ministros de 20 de Agosto de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Armando António Martins Vara - João Cardona Gomes Cravinho.
 
-**Promulgado em 18 de Setembro de 1998.**
+Promulgado em 18 de Setembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Setembro de 1998.**
+Referendado em 24 de Setembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

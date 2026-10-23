@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/229b00/54785481.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/30/1993/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1993-651686
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f1dd86739cc660fd3799d0897a03802b71044b48dd0e8b1744a2c9ff2d62ea9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f570b2e6031359cf0a8ec92bf5d1ff1f3b79a58d98ec2fab0c074083e70d632b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro de Juventude
-- Pessoal Dirigente
 - Definição de Competências
 - Instituto Português da Juventude
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Serviço Regional
 relationships:
@@ -81,16 +81,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/333/1993/09/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/333/1993/09/29/p/dre
+- type: cites
+  target: pt:dre:651703:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:437780:por
+  label: "Revogado pelo DEC LEI.70/96.1996.06.04.PCM DR.IS.A [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-1996-437780
+  date: '1996-06-04'
 article_structure:
   article_count: 17
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:57Z'
   warnings: []
   errors: []
 ---
@@ -345,15 +354,15 @@ Presidência do Conselho de Ministros, 9 de Agosto de 1993.
 
 Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 3 de Setembro de 1993.**
+Promulgado em 3 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Setembro de 1993.**
+Referendado em 8 de Setembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o n.º 1 do artigo 15.º
 
@@ -399,8 +408,8 @@ Mapas a que se refere o artigo 17.º
 
 Quadro de pessoal dirigente dos serviços centrais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/229b00/54785481.pdf))](https://files.diariodarepublica.pt/1s/1993/09/229b00/54785481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/229b00/54785481.pdf)
 
 Quadro de pessoal dirigente dos serviços regionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/229b00/54785481.pdf))](https://files.diariodarepublica.pt/1s/1993/09/229b00/54785481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/229b00/54785481.pdf)

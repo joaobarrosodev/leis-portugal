@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/01/003b00/00510053.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/1/1995/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-1995-363905
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T08:27:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c79b59d6b2ef67209c08cd66e674e8da766ae8ea4d5b717c13cb18d24d71c6ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6161f631e7f54e909eeb39c7770d29b0cf7272c7dca32dff799baeaae8a12ad6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:27:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,22 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Batata
+- Comércio
 - Controlo de Qualidade
 - Controlo Sanitário
-- Proteção Fitossanitária
 - Produção Vegetal
-- Comércio
+- Proteção Fitossanitária
 relationships:
 - type: amended_by
   target: pt:dre:375406:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:478248:por
+  label: "Substituida a abreviatura \"CEE\" pela abreviatura \"CE\" nos arts. 4º e 6º e no anexo II pelo DEC LEI.169/98.1998.06.25.MADRP,\
+    \ DR.IS-A [144]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-1998-478248
+  date: '1998-06-25'
 - type: cites
   target: celex:31966L0403
   label: null
@@ -86,16 +92,21 @@ relationships:
   target: celex:31993L0017
   label: null
   source: http://data.europa.eu/eli/dir/1993/17/oj
+- type: repealed_by
+  target: pt:dre:375406:por
+  label: "Revogado pelo DEC LEI.216/2001.2001.08.03.MADRP DR.IS-A [179]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-2001-375406
+  date: '2001-08-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:27:35Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +215,7 @@ j) Viróide do tubérculo em fuso (PSTV).
 
 Quadro n.º 1 - Tolerâncias máximas admitidas de plantas doentes na cultura aquando das inspecções de campo (percentagem de plantas) para a categoria pré-base.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/003b00/00510053.pdf))](https://files.diariodarepublica.pt/1s/1995/01/003b00/00510053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/003b00/00510053.pdf)
 
 ## ANEXO II
 
@@ -238,4 +249,4 @@ b) Exceder o máximo de 0,5% em peso de tubérculos infectados por podridões se
 
 Quadro n.º 1 - Tolerâncias admitidas para impureza varietal e plantas doentes presentes na cultura (percentagem de plantas), aquando das inspecções de campo para as classes comunitárias da categoria base.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/003b00/00510053.pdf))](https://files.diariodarepublica.pt/1s/1995/01/003b00/00510053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/003b00/00510053.pdf)

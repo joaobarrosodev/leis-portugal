@@ -46,36 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/32-1990-574918
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T07:46:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aca7f9b5422f7d440dc9918c414cc6776bbeeaad16b4f2c1744385d77e99fc76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7391747e13f7d774fe3f3ca64a09de9196fe41640c38bf066b893f17dbc98c14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:46:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral de Extensão Educativa
+- Educação dos Adultos
+- Ensino Básico
+- Gestão Administrativa
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549390:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:46:43Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +115,9 @@ Considerando como necessária a criação daquelas comissões organizadoras, bem
 
 Determino:
 
-###### Artigo 1.º São criadas, no âmbito da Direcção-Geral de Extensão Educativa, as comissões organizadoras de extensão educativa, adiante designadas por «comissões organizadoras».
+Artigo 1.º São criadas, no âmbito da Direcção-Geral de Extensão Educativa, as comissões organizadoras de extensão educativa, adiante designadas por «comissões organizadoras».
 
-###### Art. 2.º As comissões organizadoras ficam sujeitas à seguinte regulamentação:
+Art. 2.º As comissões organizadoras ficam sujeitas à seguinte regulamentação:
 
 1 - As comissões organizadoras são criadas para o âmbito geográfico definido pelo disposto no n.º 1 do artigo 29.º do [Decreto-Lei n.º 361/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1989-549390), de 18 de Outubro, pelos seguintes elementos:
 
@@ -112,7 +135,7 @@ e) Dois elementos para o exercício de funções de secretário e tesoureiro, re
 
 3 - Por despacho ministerial podem ainda ser designadas, para fazerem parte das comissões organizadoras, individualidades, até ao máximo de três, cuja participação se revele de interesse.
 
-###### Art. 3.º Compete às comissões organizadoras apoiar e implementar actividades educativas e culturais, nomeadamente:
+Art. 3.º Compete às comissões organizadoras apoiar e implementar actividades educativas e culturais, nomeadamente:
 
 a) Estimular e apoiar, na medida das suas possibilidades, as iniciativas públicas e privadas no âmbito da educação de adultos e do desenvolvimento cultural;
 
@@ -120,34 +143,34 @@ b) Promover a articulação das acções desenvolvidas, no âmbito da educação
 
 c) Promover e apoiar, no âmbito da educação de adultos, projectos experimentais de desenvolvimento local.
 
-###### Art. 4.º - 1 - As comissões organizadoras reúnem, em sessão ordinária, pelo menos uma vez por mês e, em sessão extraordinária, todas as vezes que forem convocadas pelo respectivo presidente, por iniciativa própria ou a pedido de metade ou mais dos seus membros.
+Art. 4.º - 1 - As comissões organizadoras reúnem, em sessão ordinária, pelo menos uma vez por mês e, em sessão extraordinária, todas as vezes que forem convocadas pelo respectivo presidente, por iniciativa própria ou a pedido de metade ou mais dos seus membros.
 
 2 - As deliberações serão tomadas por maioria, tendo o presidente direito a voto de desempate.
 
 3 - As comissões organizadoras só podem deliberar quando estiver presente a maioria dos membros em efectividade de funções.
 
-###### Art. 5.º As receitas das comissões organizadoras são constituídas por subsídios que lhes sejam atribuídos através dos orçamentos da Direcção-Geral de Extensão Educativa ou de outras entidades públicas ou privadas, nomeadamente das direcções regionais de educação.
+Art. 5.º As receitas das comissões organizadoras são constituídas por subsídios que lhes sejam atribuídos através dos orçamentos da Direcção-Geral de Extensão Educativa ou de outras entidades públicas ou privadas, nomeadamente das direcções regionais de educação.
 
-###### Art. 6.º As despesas das comissões organizadoras são as que resultam da execução dos seus planos de actividades.
+Art. 6.º As despesas das comissões organizadoras são as que resultam da execução dos seus planos de actividades.
 
-###### Art. 7.º A escrituração das comissões organizadoras deve obedecer aos seguintes requisitos:
+Art. 7.º A escrituração das comissões organizadoras deve obedecer aos seguintes requisitos:
 
 a) Um registo de contas correntes por programas de acção;
 
 b) Um diário de caixa relativo a toda a movimentação de fundos efectuada.
 
-###### Art. 8.º - 1 - As receitas das comissões organizadoras serão depositadas na Caixa Geral de Depósitos ou no Montepio Geral e serão movimentadas mediante cheques subscritos por dois elementos, dos quais um será obrigatoriamente o tesoureiro.
+Art. 8.º - 1 - As receitas das comissões organizadoras serão depositadas na Caixa Geral de Depósitos ou no Montepio Geral e serão movimentadas mediante cheques subscritos por dois elementos, dos quais um será obrigatoriamente o tesoureiro.
 
 2 - Nas comissões organizadoras pode existir em cofre um fundo de maneio, cujo montante será definido, em cada caso, pelo director-geral de Extensão Educativa.
 
-###### Art. 9.º As comissões organizadoras apresentarão, em cada ano, até 15 de Novembro, e em articulação com as direcções regionais, o projecto de orçamento e o plano de actividades para o ano seguinte e, tendo em vista satisfazer o previsto no artigo 3.º, até ao dia 30 de Janeiro, a conta de gerência e o respectivo relatório do exercício anterior, os quais serão submetidos à aprovação do director-geral de Extensão Educativa.
+Art. 9.º As comissões organizadoras apresentarão, em cada ano, até 15 de Novembro, e em articulação com as direcções regionais, o projecto de orçamento e o plano de actividades para o ano seguinte e, tendo em vista satisfazer o previsto no artigo 3.º, até ao dia 30 de Janeiro, a conta de gerência e o respectivo relatório do exercício anterior, os quais serão submetidos à aprovação do director-geral de Extensão Educativa.
 
-###### Art. 10.º As contas de gerência são instruídas com todos os documentos de receita e despesa devidamente relacionados, selados e conferidos, comprovativos da movimentação financeira efectuada.
+Art. 10.º As contas de gerência são instruídas com todos os documentos de receita e despesa devidamente relacionados, selados e conferidos, comprovativos da movimentação financeira efectuada.
 
-###### Art. 11.º As comissões organizadoras elaborarão trimestralmente balancetes, os quais serão enviados à Direcção-Geral de Extensão Educativa, para efeitos de visto, junto com os extractos periódicos da sua conta de depósito.
+Art. 11.º As comissões organizadoras elaborarão trimestralmente balancetes, os quais serão enviados à Direcção-Geral de Extensão Educativa, para efeitos de visto, junto com os extractos periódicos da sua conta de depósito.
 
-###### Art. 12.º As contas de gerência referidas nos números anteriores devem ser apresentadas sob a forma de mapa, acompanhado de um relatório circunstanciado da sua execução material.
+Art. 12.º As contas de gerência referidas nos números anteriores devem ser apresentadas sob a forma de mapa, acompanhado de um relatório circunstanciado da sua execução material.
 
-###### Art. 13.º Na Direcção-Geral de Extensão Educativa existirá um processo, organizado por anos económicos, relativo a cada comissão organizadora, do qual devem constar todos os elementos necessários ao conhecimento conjuntural da respectiva situação financeira.
+Art. 13.º Na Direcção-Geral de Extensão Educativa existirá um processo, organizado por anos económicos, relativo a cada comissão organizadora, do qual devem constar todos os elementos necessários ao conhecimento conjuntural da respectiva situação financeira.
 
 Ministério da Educação, 14 de Maio de 1990. - O Ministro da Educação, Roberto Artur da Luz Carneiro.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/66/2004/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2004-209605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8e69fdfd436ae7903ce43dbfaa5befec2586097b31490f765bfb7ce6c16c43c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d419e39b1ecaa979fd27c2d12b2b5fd143d4a1f918d36ef65e76c925157fa8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
 subjects:
 - Acção Financeira
 - Alienação de Acções
-- Valores Mobiliários
-- Mercado de Títulos
+- Aquisição de Títulos
+- CMVM
 - Código dos Valores Mobiliários
 - Emissão de Títulos
-- Publicitação
+- Mercado de Títulos
 - Mercado de Valores
 - Mercado Financeiro
 - Obrigações
@@ -79,13 +79,67 @@ subjects:
 - Oferta Pública de Distribuição
 - Oferta Pública de Subscrição
 - OPV
-- CMVM
-- Aquisição de Títulos
+- Publicitação
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:66581992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667337:por
+  label: "Alterados os arts. 8º, 30º, 31º, 35º, 110º, 111º, 134º, 143º, 155.º, 163-A.º, 203º, 212º, 222º, 227º, 229º, 237-A.º,\
+    \ 247.º, 311º, 350º, 359º, 361º e 388º do Código dos Valores Mobiliários aprovado pelo Dec Lei 486/99 de 13-Nov, na redacção\
+    \ do presente diploma, pelo DEC LEI.52/2006.15.03.2006.MFAP, DR.IS-A [53] de 15.03.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2006-667337
+  date: '2006-03-15'
+- type: amended_by
+  target: pt:dre:546195:por
+  label: "Alterado o art. 111º do Código dos Valores Mobiliários aprovado pelo Dec Lei 486/99 de 13-Nov, com a redacção constante\
+    \ do presente diploma, pelo DEC LEI.219/2006.02.11.2006.MFAP, DR.IS [211] de 02.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-2006-546195
+  date: '2006-11-02'
+- type: amended_by
+  target: pt:dre:241222:por
+  label: "Alterados os arts. 8º, 30º, 31º, 35º, 111º, 201º, 203º, 205º, 210º, 212º, 222º, 227º, 228º, 229º, 230º, 247º, 268º,\
+    \ 280º, 311º, 348º, 351º, 359º, 361º. 363º, 388º e 392º e revogados os nºs 3 e 4 do art. 201º, os nºs 3 a 7 do art. 203º,\
+    \ os nºs 4, 5 e 6 do art. 205º, os nºs 4 a 7 do art. 228º, os nºs 6, 7 e 8 do art. 229º e os nºs 2 e 3 do art. 351º todos\
+    \ do Código dos Valores Mobiliários aprovado pelo Dec Lei 486/99 de 13-Nov, na redacção do presente diploma, republicado\
+    \ pelo DEC LEI.357-A/2007.31.10.2007.MFAP, DR.IS [210-2ºSupl] de 31.10.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/357-a-2007-241222
+  date: '2007-10-31'
+- type: amended_by
+  target: pt:dre:626446:por
+  label: "Alterados os arts. 351.º e 363.º do Código dos Valores Mobiliários, aprovado pelo Dec Lei 486/99, de 13-Nov, na\
+    \ redacção dada pelo presente diploma, pelo DEC LEI.211-A/2008.03.11.2008.MFAP, DR.IS [213-Supl] de 03.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-a-2008-626446
+  date: '2008-11-03'
+- type: amended_by
+  target: pt:dre:494791:por
+  label: "Alterado o art. 388.º do Código dos Valores Mobiliários, aprovado pelo Dec Lei 486/99, de 13-Nov, na redacção do\
+    \ presente diploma, pela LEI.28/2009.19.06.2009.AR, DR.IS [117] de 19.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2009-494791
+  date: '2009-06-19'
+- type: amended_by
+  target: pt:dre:258114:por
+  label: "Alterados os arts. 30.º, 111.º, 134.º, 143.º, 155.º, 237.º-A e 359.º do Código dos Valores Mobiliários aprovado\
+    \ pelo Dec Lei 486/99, de 13-nov, na redação do presente diploma, pelo DEC LEI.18/2013.06.02.2013.MF, DR.IS [26] de 06.02.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2013-258114
+  date: '2013-02-06'
+- type: amended_by
+  target: pt:dre:571934:por
+  label: "Alterados, a partir de 17.04.2014, os arts 35.º, 268.º, 280.º, 359.º, 361, 363.º e 388.º do Código dos Valores Mobiliários,\
+    \ aprovado pelo Dec. Lei 486/99, de 13-nov, na redação do presente diploma, pelo DEC LEI.40/2014.18.03.2014.MF, DR.IS\
+    \ [54] de 18.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2014-571934
+  date: '2014-03-18'
+- type: amended_by
+  target: pt:dre:66581992:por
+  label: Alterado o art. 359.º do Código dos Valores Mobiliários aprovado pelo Dec. Lei 486/99 de 13-nov, na redação do presente
+    diploma, pelo(a) Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2015-66581992
+  date: '2015-02-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/107/2003/06/04/p/dre
   label: null
@@ -106,16 +160,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/8-d/2002/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/8-d/2002/01/15/p/dre
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682983:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:227273:por
+  label: "Rectificado o Decreto-Lei n.º 357-A/2007, de 31 de Outubro, que alterou o Código dos Valores Mobiliários, aprovado\
+    \ pelo Decreto-Lei n.º 486/99, de 13 de Novembro, na redacção do presente diploma, e respectiva republicação, (acrescentando\
+    \ o artigo 179.º aos artigos alterados), pela DECL-RECT.117-A/2007.28.12.2007.PCM, DR.IS [250]3ºSupl de 28.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/117-a-2007-227273
+  date: '2007-12-28'
 article_structure:
-  article_count: 40
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:55Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +253,9 @@ f) ...
 
 g) Outros documentos representativos de situações jurídicas homogéneas, desde que sejam susceptíveis de transmissão em mercado.
 
-###### Artigo 8.º — Informação auditada
+Artigo 8.º
+
+Informação auditada
 
 1 - Deve ser objecto de relatório ou parecer elaborados por auditor registado na CMVM, à excepção da informação trimestral, a informação financeira contida em documento de prestação de contas, em estudo de viabilidade ou em outros documentos que:
 
@@ -184,7 +267,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 30.º — Investidores institucionais
+Artigo 30.º
+
+Investidores institucionais
 
 1 - Consideram-se investidores institucionais as seguintes entidades:
 
@@ -204,7 +289,9 @@ f) Outras instituições financeiras autorizadas ou reguladas, designadamente fu
 
 3 - A CMVM pode, por regulamento, qualificar como investidores institucionais outras entidades dotadas de uma especial competência e experiência relativas a valores mobiliários, nomeadamente emitentes, definindo os indicadores económico-financeiros que permitem essa qualificação.
 
-###### Artigo 31.º — Acção popular
+Artigo 31.º
+
+Acção popular
 
 1 - ...
 
@@ -216,7 +303,9 @@ a) O fundo de garantia relacionado com a actividade em que se insere o facto ger
 
 b) Não existindo o fundo de garantia referido na alínea anterior, o sistema de indemnização dos investidores.
 
-###### Artigo 35.º — Constituição de fundos de garantia
+Artigo 35.º
+
+Constituição de fundos de garantia
 
 1 - As entidades gestoras de mercados regulamentados e de sistemas de liquidação de valores mobiliários podem constituir ou promover a constituição de fundos de garantia.
 
@@ -226,7 +315,9 @@ b) Não existindo o fundo de garantia referido na alínea anterior, o sistema de
 
 4 - As entidades gestoras referidas no n.º 1 podem deliberar que a participação no fundo por si constituído ou promovido é obrigatória para os membros de mercado regulamentado autorizados a executar ordens por conta de outrem e para os participantes no sistema de liquidação.
 
-###### Artigo 36.º — Gestão de fundos de garantia
+Artigo 36.º
+
+Gestão de fundos de garantia
 
 1 - ...
 
@@ -254,7 +345,9 @@ d) As receitas dos fundos.
 
 5 - ...
 
-###### Artigo 110.º — Ofertas particulares
+Artigo 110.º
+
+Ofertas particulares
 
 1 - ...
 
@@ -264,7 +357,9 @@ b) ...
 
 2 - As ofertas particulares dirigidas por sociedades abertas e por sociedades emitentes de valores mobiliários negociados em mercado ficam sujeitas a comunicação subsequente à CMVM para efeitos estatísticos.
 
-###### Artigo 111.º — Âmbito
+Artigo 111.º
+
+Âmbito
 
 ...
 
@@ -280,7 +375,9 @@ e) ...
 
 f) As ofertas públicas de distribuição de valores mobiliários cujo valor nominal seja igual ou superior a (euro) 50000 ou, em caso de valores mobiliários sem valor nominal, se o preço unitário de subscrição ou de venda for igual ou superior àquele montante.
 
-###### Artigo 134.º — Exigibilidade de prospecto
+Artigo 134.º
+
+Exigibilidade de prospecto
 
 1 - ...
 
@@ -300,13 +397,17 @@ f) ...
 
 g) ...
 
-###### Artigo 143.º — Prospecto complementar
+Artigo 143.º
+
+Prospecto complementar
 
 1 - ...
 
 2 - O prospecto a que se refere o número anterior pode ser, no todo ou em parte, redigido numa língua de uso corrente nos mercados financeiros internacionais.
 
-###### Artigo 144.º — Prospecto de referência
+Artigo 144.º
+
+Prospecto de referência
 
 1 - ...
 
@@ -314,7 +415,9 @@ g) ...
 
 3 - O prospecto a que se referem os números anteriores pode ser, no todo ou em parte, redigido numa língua de uso corrente nos mercados financeiros internacionais, nos casos dos artigos 163.º-A e 237.º-A.
 
-###### Artigo 155.º — Matérias a regulamentar
+Artigo 155.º
+
+Matérias a regulamentar
 
 ...
 
@@ -340,7 +443,9 @@ j) ...
 
 l) Deveres de informação para a distribuição através de oferta pública dos valores mobiliários a que se refere a alínea g) do artigo 1.º
 
-###### Artigo 201.º — Regras do mercado e códigos deontológicos
+Artigo 201.º
+
+Regras do mercado e códigos deontológicos
 
 1 - Para cada mercado a entidade gestora elabora e publica as regras relativas a requisitos de admissão à negociação de valores mobiliários e respectivo processo, bem como outras necessárias ao bom funcionamento do mercado.
 
@@ -350,7 +455,9 @@ l) Deveres de informação para a distribuição através de oferta pública dos
 
 4 - ...
 
-###### Artigo 203.º — Membros
+Artigo 203.º
+
+Membros
 
 1 - ...
 
@@ -370,7 +477,9 @@ b) Outras entidades que negoceiem exclusivamente por conta própria, nos termos 
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 205.º — Admissão à negociação
+Artigo 205.º
+
+Admissão à negociação
 
 1 - A admissão de valores mobiliários à negociação num mercado regulamentado depende de decisão da entidade gestora desse mercado, a requerimento do emitente.
 
@@ -390,7 +499,9 @@ c) Desde que o emitente a tal não se oponha, no caso de valores admitidos a um 
 
 6 - O emitente de valores mobiliários admitidos à negociação em mercado regulamentado deve, no momento em que solicita a admissão, nomear um representante com poderes bastantes para as relações com o mercado e a CMVM.
 
-###### Artigo 210.º — Operações realizadas fora de mercado
+Artigo 210.º
+
+Operações realizadas fora de mercado
 
 1 - ...
 
@@ -398,7 +509,9 @@ c) Desde que o emitente a tal não se oponha, no caso de valores admitidos a um 
 
 3 - Sempre que a protecção dos investidores o justifique, a CMVM estabelece, através de regulamento, os deveres de informação dos intermediários financeiros que, de forma usual, procedam à execução de ordens de clientes fora de mercado regulamentado, nomeadamente no que respeita às condições de preço em que se propõe efectuar essas operações.
 
-###### Artigo 212.º — Regulamentos da CMVM
+Artigo 212.º
+
+Regulamentos da CMVM
 
 1 - ...
 
@@ -416,7 +529,9 @@ e) ...
 
 3 - ...
 
-###### Artigo 222.º — Informação sobre preços e quantidades
+Artigo 222.º
+
+Informação sobre preços e quantidades
 
 1 - ...
 
@@ -424,7 +539,9 @@ e) ...
 
 3 - ...
 
-###### Artigo 227.º — Requisitos gerais
+Artigo 227.º
+
+Requisitos gerais
 
 1 - ...
 
@@ -438,7 +555,9 @@ e) ...
 
 6 - ...
 
-###### Artigo 228.º — Admissão de acções à negociação
+Artigo 228.º
+
+Admissão de acções à negociação
 
 1 - Só podem ser admitidas à negociação acções em relação às quais:
 
@@ -458,7 +577,9 @@ b) Se preveja capitalização bolsista das acções que são objecto de pedido d
 
 7 - (Anterior n.º 3.)
 
-###### Artigo 229.º — Admissão de obrigações à negociação
+Artigo 229.º
+
+Admissão de obrigações à negociação
 
 1 - Só podem ser admitidas à negociação obrigações representativas de empréstimo obrigacionista ou de alguma das suas séries cujo montante seja igual ou superior a (euro) 200000.
 
@@ -476,11 +597,15 @@ b) Se preveja capitalização bolsista das acções que são objecto de pedido d
 
 8 - ...
 
-###### Artigo 230.º — Admissão de outros valores mobiliários
+Artigo 230.º
+
+Admissão de outros valores mobiliários
 
 A admissão à negociação de outros valores mobiliários depende da verificação de requisitos adequados às características do emitente, dos valores e dos investidores a que se destinam, a definir por regulamento da entidade gestora do mercado.
 
-###### Artigo 235.º — Recusa de admissão
+Artigo 235.º
+
+Recusa de admissão
 
 1 - A admissão à negociação só pode ser recusada se:
 
@@ -494,7 +619,9 @@ c) O interesse dos investidores desaconselhar a admissão à negociação, atent
 
 3 - ...
 
-###### Artigo 247.º — Regulamentação
+Artigo 247.º
+
+Regulamentação
 
 ...
 
@@ -512,7 +639,9 @@ f) ...
 
 g) Deveres de informação para a admissão à negociação dos valores mobiliários a que se refere a alínea g) do artigo 1.º
 
-###### Artigo 268.º — Participantes especiais
+Artigo 268.º
+
+Participantes especiais
 
 1 - ...
 
@@ -538,7 +667,9 @@ c) As entidades referidas na alínea c) do número anterior.
 
 6 - ...
 
-###### Artigo 280.º — Incumprimento
+Artigo 280.º
+
+Incumprimento
 
 1 - ...
 
@@ -552,13 +683,17 @@ c) As entidades referidas na alínea c) do número anterior.
 
 6 - As regras referidas no número anterior asseguram que os procedimentos de substituição adoptados possibilitam a entrega dos valores mobiliários ao credor num prazo razoável relativamente ao previsto nas regras aplicáveis ao sistema para a liquidação.
 
-###### Artigo 311.º — Defesa do mercado
+Artigo 311.º
+
+Defesa do mercado
 
 1 - Os intermediários financeiros e os membros de mercado referidos no n.º 3 do artigo 203.º devem comportar-se com a maior probidade comercial, abstendo-se de participar em operações ou de praticar actos susceptíveis de pôr em risco a regularidade de funcionamento, a transparência e a credibilidade do mercado.
 
 2 - ...
 
-###### Artigo 348.º — Fomento de mercado
+Artigo 348.º
+
+Fomento de mercado
 
 1 - As operações de fomento de mercado visam a criação de condições para a comercialização regular num mercado de uma determinada categoria de valores mobiliários ou instrumentos financeiros derivados, nomeadamente o incremento da liquidez.
 
@@ -568,13 +703,17 @@ c) As entidades referidas na alínea c) do número anterior.
 
 4 - Os contratos a que se referem os n.os 2 e 3 ou as cláusulas contratuais gerais desses contratos, quando existam, são registados na CMVM.
 
-###### Artigo 350.º — Empréstimo de valores mobiliários
+Artigo 350.º
+
+Empréstimo de valores mobiliários
 
 1 - ...
 
 2 - O empréstimo de valores mobiliários para liquidação de operações de bolsa não se considera como actividade de intermediação financeira quando efectuado pela entidade gestora de mercado ou de sistema de liquidação ou pela contraparte central por esta acolhida.
 
-###### Artigo 351.º — Regulamentação
+Artigo 351.º
+
+Regulamentação
 
 1 - ...
 
@@ -584,7 +723,9 @@ c) As entidades referidas na alínea c) do número anterior.
 
 4 - ...
 
-###### Artigo 359.º — Entidades sujeitas à supervisão da CMVM
+Artigo 359.º
+
+Entidades sujeitas à supervisão da CMVM
 
 1 - ...
 
@@ -606,7 +747,9 @@ g) ...
 
 3 - ...
 
-###### Artigo 361.º — Exercício da supervisão
+Artigo 361.º
+
+Exercício da supervisão
 
 1 - ...
 
@@ -616,7 +759,9 @@ g) ...
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 363.º — Supervisão prudencial
+Artigo 363.º
+
+Supervisão prudencial
 
 1 - ...
 
@@ -630,7 +775,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 388.º — Disposições comuns
+Artigo 388.º
+
+Disposições comuns
 
 1 - ...
 
@@ -644,7 +791,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 392.º — Valores mobiliários
+Artigo 392.º
+
+Valores mobiliários
 
 1 - ...
 
@@ -674,7 +823,9 @@ c) Se a lei pessoal do emitente for estrangeira.
 
 2 - Nos casos previstos nas alíneas b) e c) do número anterior, a CMVM pode exigir que seja divulgado um sumário em português que descreva as características e os riscos essenciais associados à oferta, ao emitente e aos valores mobiliários oferecidos.
 
-###### Artigo 237.º-A — Idioma
+Artigo 237.º-A
+
+Idioma
 
 1 - O prospecto de admissão pode ser, no todo ou em parte, redigido numa língua de uso corrente nos mercados financeiros internacionais:
 
@@ -704,12 +855,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 12 de Março de 2004.**
+Promulgado em 12 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Março de 2004.**
+Referendado em 15 de Março de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/10/21100/0561505624.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/163/2014/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f616c0593e939208ff32053cf9116dc187b2d216d674564695b7e5f644b99518
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 816318859573e5b87c14bb695a6786edc5995d22791f3c2c5d9f19fc0fda8e56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
-- Ministério da Administração Interna
-- Definição de Competências
-- Orgânica
-- Quadro de Pessoal
 - Autoridade Nacional de Protecção Civil
+- Definição de Competências
+- Ministério da Administração Interna
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:120454103:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74526740:por
+  label: Alterado o art. 30.º do Dec Lei 73/2013 de 31-mai, alterado e republicado pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 21/2016 - Diário da República n.º 100/2016, Série I de 2016-05-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2016-74526740
+  date: '2016-05-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei
   label: null
@@ -119,16 +125,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/1/2011/11/30/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1/2011/11/30/p/dre
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642011:por
+  label: null
+  source: null
 article_structure:
-  article_count: 48
+  article_count: 44
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:24Z'
   warnings: []
   errors: []
 ---
@@ -227,13 +305,17 @@ e) Dotar as forças especiais de bombeiros dos meios e recursos necessários à 
 
 6 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A ANPC é dirigida por um presidente, coadjuvado por quatro diretores nacionais, cargos de direção superior de 1.º e 2.º graus, respetivamente.
 
 2 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]:
 
@@ -269,7 +351,9 @@ l) Determinar os requisitos técnicos no âmbito da locação de meios aéreos n
 
 5 - [...].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]:
 
@@ -303,7 +387,9 @@ e) [...];
 
 f) [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 [...]:
 
@@ -361,15 +447,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de outubro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Álvaro Barbosa de Campos Ferreira - Berta Maria Correia de Almeida de Melo Cabral - Miguel Bento Martins Costa Macedo e Silva - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 29 de outubro de 2014.**
+Promulgado em 29 de outubro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de outubro de 2014.**
+Referendado em 29 de outubro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -379,7 +465,7 @@ Visto e aprovado em Conselho de Ministros de 16 de outubro de 2014. - Pedro Pass
 
 Cargos de direção superior da administração direta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/10/21100/0561505624.pdf))](https://files.diariodarepublica.pt/1s/2014/10/21100/0561505624.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/10/21100/0561505624.pdf)»
 
 ## ANEXO II — (a que se refere o artigo 5.º)
 
@@ -389,7 +475,7 @@ Mapa de cargos de direção
 
 (a que se refere o artigo 26.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/10/21100/0561505624.pdf))](https://files.diariodarepublica.pt/1s/2014/10/21100/0561505624.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/10/21100/0561505624.pdf)»
 
 ## ANEXO III — (a que se refere o artigo 8.º)
 
@@ -955,4 +1041,4 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 (a que se refere o artigo 26.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/10/21100/0561505624.pdf))](https://files.diariodarepublica.pt/1s/2014/10/21100/0561505624.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/10/21100/0561505624.pdf)

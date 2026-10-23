@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/08300/0018500187.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/28/2023/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2023-212379455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e88dc9ed164a8c23f13c9c2b6e2ece24f96d60ae7828a8bd6280b088f6087fdb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f884438c2a492eaa922ecc3bb77b9eab98e0eea2ecab951917552fa66ffca321
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
 subjects:
 - Actualização de Pensões
 - Aposentação
-- Cálculo de Pensões
 - Caixa Geral de Aposentações
+- Cálculo de Pensões
 - IAS
 - Pensão de Aposentação
 - Pensão de Invalidez
+- Pensão de Reforma
 - Pensão de Sobrevivência
 - Pensão de Velhice
-- Pensão de Reforma
 - Pensões
 - Prestações da Segurança Social
 - Proteção Social
@@ -95,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/24-b/2023/01/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/24-b/2023/01/09/p/dre
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205928630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641154:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:45Z'
   warnings: []
   errors: []
 ---
@@ -177,12 +189,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de abril de 2023. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 21 de abril de 2023.**
+Promulgado em 21 de abril de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 26 de abril de 2023.**
+Referendado em 26 de abril de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+116411697

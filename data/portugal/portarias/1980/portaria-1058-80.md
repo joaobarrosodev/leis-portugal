@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1058-1980-459671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T06:09:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c314061d0b24bd52c73c0093331d1862b2611206e9bd47bf651798baacd33ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66ed92ed5acca2f2860141067474e7a6ec33ec4cfc8ee99fdbf2be93d9e9780c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:09:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bolsa de Estudos
+- Definição de Competências
+- Instituto Superior Técnico
+- Lisboa
+- Regulamento
+- Universidade de Lisboa
+relationships:
+- type: corrected_by
+  target: pt:dre:568479:por
+  label: Rectificada pela DECL.DD6267.09.11.1981.PCM, DR.IS [266] de 18.11.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-568479
+  date: '1981-11-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:09:05Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +103,11 @@ Ministério da Educação e Ciência, 27 de Novembro de 1980. - O Ministro da Ed
 
 REGULAMENTO DA BOLSA DE ESTUDOS PROF. ENGENHEIRO COSTA ANDRÉ JÚNIOR
 
-###### Artigo 1.º É criada no Instituto Superior Técnico, da Universidade Técnica de Lisboa, a Bolsa de Estudos Prof. Engenheiro Costa André Júnior, constituída com base no capital inicial de 1180000$00, doados por aquele professor universitário, e que vão ser convertidos em títulos de empréstimo amortizáveis do Estado, depositados em conta bancária própria da Reitoria da Universidade Técnica de Lisboa.
+Artigo 1.º É criada no Instituto Superior Técnico, da Universidade Técnica de Lisboa, a Bolsa de Estudos Prof. Engenheiro Costa André Júnior, constituída com base no capital inicial de 1180000$00, doados por aquele professor universitário, e que vão ser convertidos em títulos de empréstimo amortizáveis do Estado, depositados em conta bancária própria da Reitoria da Universidade Técnica de Lisboa.
 
-###### Art. 2.º Os títulos de empréstimo amortizáveis serão adquiridos pela Reitoria da Universidade Técnica de Lisboa por subscrição ou na Bolsa, conforme se tornar mais vantajoso, e sempre que sejam amortizados será o seu produto convertido em novos títulos de forma a conseguir o máximo rendimento.
+Art. 2.º Os títulos de empréstimo amortizáveis serão adquiridos pela Reitoria da Universidade Técnica de Lisboa por subscrição ou na Bolsa, conforme se tornar mais vantajoso, e sempre que sejam amortizados será o seu produto convertido em novos títulos de forma a conseguir o máximo rendimento.
 
-###### Art. 3.º - 1 - A Bolsa, no primeiro ano da sua atribuição, terá o valor anual de 74000$00, destinados a serem repartidos em partes iguais por dois alunos do Instituto Superior Técnico, e o seu montante será corrigido nos anos seguintes de acordo com a taxa oficial de inflação.
+Art. 3.º - 1 - A Bolsa, no primeiro ano da sua atribuição, terá o valor anual de 74000$00, destinados a serem repartidos em partes iguais por dois alunos do Instituto Superior Técnico, e o seu montante será corrigido nos anos seguintes de acordo com a taxa oficial de inflação.
 
 2 - Em cada ano, além do primeiro, o valor da bolsa será o do ano anterior acrescido do montante da taxa de inflação verificada nesse ano.
 
@@ -104,11 +115,11 @@ REGULAMENTO DA BOLSA DE ESTUDOS PROF. ENGENHEIRO COSTA ANDRÉ JÚNIOR
 
 4 - O valor corrigido, nos termos do número anterior, constituirá a base para a determinação do montante da bolsa nos anos seguintes.
 
-###### Art. 4.º - 1 - Quando o valor anual da bolsa, calculado nos termos do artigo anterior, exceder o valor do capital residual, será este o montante da última bolsa.
+Art. 4.º - 1 - Quando o valor anual da bolsa, calculado nos termos do artigo anterior, exceder o valor do capital residual, será este o montante da última bolsa.
 
 2 - A bolsa subsistirá até se esgotar a totalidade do capital.
 
-###### Art. 5.º - 1 - A bolsa destina-se a alunos carecidos dos meios económicos necessários à continuação dos seus estudos e que se encontrem nas condições legais fixadas para a obtenção das bolsas de estudo atribuídas pelos Serviços Sociais da Universidade Técnica de Lisboa.
+Art. 5.º - 1 - A bolsa destina-se a alunos carecidos dos meios económicos necessários à continuação dos seus estudos e que se encontrem nas condições legais fixadas para a obtenção das bolsas de estudo atribuídas pelos Serviços Sociais da Universidade Técnica de Lisboa.
 
 2 - A bolsa será atribuída de preferência a alunos que iniciem os seus cursos.
 
@@ -116,10 +127,10 @@ REGULAMENTO DA BOLSA DE ESTUDOS PROF. ENGENHEIRO COSTA ANDRÉ JÚNIOR
 
 4 - Em igualdade de circunstâncias para a atribuição da bolsa, goza de preferência o aluno que tiver obtido maior classificação no semestre anterior ou na habilitação de ingresso no ensino superior.
 
-###### Art. 6.º A bolsa será paga no termo de cada semestre escolar na proporção de metade do seu montante a cada contemplado.
+Art. 6.º A bolsa será paga no termo de cada semestre escolar na proporção de metade do seu montante a cada contemplado.
 
-###### Art. 7.º Compete aos Serviços Sociais da Universidade de Lisboa, de acordo com os regulamentos em vigor sobre a concessão de bolsas de estudo, organizar os processos dos concorrentes e graduá-los.
+Art. 7.º Compete aos Serviços Sociais da Universidade de Lisboa, de acordo com os regulamentos em vigor sobre a concessão de bolsas de estudo, organizar os processos dos concorrentes e graduá-los.
 
-###### Art. 8.º A bolsa será paga por despacho do reitor da Universidade Técnica e constará de documento que identifique o benemérito.
+Art. 8.º A bolsa será paga por despacho do reitor da Universidade Técnica e constará de documento que identifique o benemérito.
 
-**O Ministro da Educação e Ciência, Vítor Pereira Crespo.**
+O Ministro da Educação e Ciência, Vítor Pereira Crespo.

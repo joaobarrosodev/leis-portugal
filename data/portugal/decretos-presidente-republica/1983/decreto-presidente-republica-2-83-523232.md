@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 29/1983, 1º Suplemento, Série I de 1983-02-04
   number: '29'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 360-(1) a 360-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/02901/00010001.pdf
 entry_into_force_dates: []
@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/2-1983-523232
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b7000c6b4d33eb0de15bc73c3859835c0658fa87b83588537add0b8c8230a94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad8e172d88d551ef7e1540a6d753e29c96e2cb3aa1c0a1b37d8792c4f8ba5fa7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia da República
+- Dissolução do Parlamento
+- Eleição Legislativa
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:51Z'
   warnings: []
   errors: []
 ---
@@ -85,19 +88,19 @@ validation:
 
 de 4 de Fevereiro
 
-**O Presidente da República, precedendo a audição do Conselho de Estado e dos partidos representados na Assembleia da República, decreta, nos termos do artigo 136.º, alínea e), da Constituição, o seguinte:**
+O Presidente da República, precedendo a audição do Conselho de Estado e dos partidos representados na Assembleia da República, decreta, nos termos do artigo 136.º, alínea e), da Constituição, o seguinte:
 
-###### Artigo 1.º É dissolvida a Assembleia da República.
+Artigo 1.º É dissolvida a Assembleia da República.
 
-###### Art. 2.º É fixado, de harmonia com o artigo 116.º, n.º 6, da Constituição, o dia 25 de Abril do corrente ano para a eleição dos deputados à Assembleia da República.
+Art. 2.º É fixado, de harmonia com o artigo 116.º, n.º 6, da Constituição, o dia 25 de Abril do corrente ano para a eleição dos deputados à Assembleia da República.
 
-###### Art. 3.º O presente decreto produz efeitos na data da sua publicação.
+Art. 3.º O presente decreto produz efeitos na data da sua publicação.
 
-**Assinado em 4 de Fevereiro de 1983.**
+Assinado em 4 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Parecer
 
@@ -109,4 +112,4 @@ Contra a conclusão votaram os Srs. Conselheiros Engenheiro Alfredo Jorge Nobre 
 
 Presidência da República, 20 de Janeiro de 1983.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

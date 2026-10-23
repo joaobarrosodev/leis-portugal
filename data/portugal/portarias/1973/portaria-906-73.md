@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/906-1973-411156
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T04:17:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee4cd09d837adf4da18308d89f3e8618f7b56dc896fcf15b0a2be9c03dee9ef7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7127afd183400fc3bdd23907bb6e19d5f520c2ee9728dee29ef19f0ae260c431
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:17:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:312664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476880:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:17:49Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +120,13 @@ Da importância de 227655$00, tomando como contra partida disponibilidades das s
 
 Despesas com o pessoal
 
-###### Artigo 3.º «Remunerações certas ao pessoal em exercício»:
+Artigo 3.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1 «Pessoal dos quadros aprovados por lei»:
 
 Alínea a) «Vencimentos» ... 60000$00
 
-###### Artigo 4.º «Remunerações acidentais»:
+Artigo 4.º «Remunerações acidentais»:
 
 N.º 1 «Gratificações»:
 
@@ -110,11 +134,11 @@ Alínea e) «Compensação de trabalhos a prestar acidentalmente por taquígrafo
 
 Diversos encargos
 
-###### Artigo 13.º «Encargos de instalações»:
+Artigo 13.º «Encargos de instalações»:
 
 N.º 1 «Rendas de casa» ... 70000$00
 
-###### Artigo 19.º «Duplicação de vencimentos, nos termos do § 2.º do artigo 59.º do [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966» ... 17655$00
+Artigo 19.º «Duplicação de vencimentos, nos termos do § 2.º do artigo 59.º do [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966» ... 17655$00
 
 ... 227655$00
 
@@ -124,23 +148,23 @@ Da importância de 1470000$00, tomando como contrapartida disponibilidades das s
 
 ### CAPÍTULO ÚNICO — Despesas com o material
 
-###### Artigo 7.º «Material de consumo corrente»:
+Artigo 7.º «Material de consumo corrente»:
 
 N.º 5 «Despesas com a publicação do Boletim Clínico e Estatístico do Hospital do Ultramar» ... 80000$00
 
 Pagamento de serviços
 
-###### Artigo 8.º «Despesas de higiene, saúde e conforto»:
+Artigo 8.º «Despesas de higiene, saúde e conforto»:
 
 N.º 3 «Luz, aquecimento, água, lavagem e outras despesas» ... 180000$00
 
 Diversos encargos
 
-###### Artigo 14.º «Montagem, funcionamento e estudos com isótopos radioactivos» ... 210000$00
+Artigo 14.º «Montagem, funcionamento e estudos com isótopos radioactivos» ... 210000$00
 
-###### Artigo 18.º-A «Do crédito especial inscrito nos termos da [Portaria n.º 562/73](https://diariodarepublica.pt/dr/detalhe/portaria/562-1973-419252), de 16 de Agosto» ... 400000$00
+Artigo 18.º-A «Do crédito especial inscrito nos termos da [Portaria n.º 562/73](https://diariodarepublica.pt/dr/detalhe/portaria/562-1973-419252), de 16 de Agosto» ... 400000$00
 
-###### Artigo 18.º-C «Do crédito especial inscrito nos termos da [Portaria n.º 625/73](https://diariodarepublica.pt/dr/detalhe/portaria/625-1973-413614), de 17 de Setembro» ... 600000$00
+Artigo 18.º-C «Do crédito especial inscrito nos termos da [Portaria n.º 625/73](https://diariodarepublica.pt/dr/detalhe/portaria/625-1973-413614), de 17 de Setembro» ... 600000$00
 
 ... 1470000$00
 
@@ -150,7 +174,7 @@ Da importância de 196000$00, tomando como contrapartida disponibilidades das se
 
 ### CAPÍTULO ÚNICO — Despesas com o pessoal
 
-###### Artigo 1.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 4 «Pessoal assalariado»:
 
@@ -168,7 +192,7 @@ Da importância de 463685$00, tomando como contrapartida disponibilidades das se
 
 Despesas com o pessoal
 
-###### Artigo 1.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1 «Pessoal dos quadros aprovados por lei»:
 

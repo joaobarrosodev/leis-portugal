@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/56/1995/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1995-174312
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10753bad1d82506ab74d561959f0621516576ba41cc7922a63088dd9ffd01a6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a66923d3fda9b08f0274c249b69e6985f5e6e9efb0f3ce8dbb2c2bd10b5bbf2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Acções
-- Sociedade Anónima
 - Bolsa de Valores
 - Capital Social
-- Portucel
 - OPV
+- Portucel
 - Privatização
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/39/1993/02/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/39/1993/02/13/p/dre
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648137:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:06Z'
   warnings: []
   errors: []
 ---
@@ -113,23 +121,23 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovada a primeira fase de reprivatização do capital da Portucel Industrial - Empresa Produtora de Celulose, S. A., abreviadamente Portucel Industrial, sociedade totalmente participada pela PORTUCEL - Empresa de Celulose e Papel de Portugal, SGPS, S. A., a realizar nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, bem como do presente diploma e das resoluções do Conselho de Ministros que estabelecerem as condições finais e concretas das operações necessárias à sua boa execução.
+Artigo 1.º É aprovada a primeira fase de reprivatização do capital da Portucel Industrial - Empresa Produtora de Celulose, S. A., abreviadamente Portucel Industrial, sociedade totalmente participada pela PORTUCEL - Empresa de Celulose e Papel de Portugal, SGPS, S. A., a realizar nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, bem como do presente diploma e das resoluções do Conselho de Ministros que estabelecerem as condições finais e concretas das operações necessárias à sua boa execução.
 
-###### Art. 2.º - 1 - A primeira fase do processo de reprivatização da sociedade consistirá na alienação de um lote de acções que não exceda 40% do respectivo capital social, a determinar pelo Conselho de Ministros nos termos previstos no artigo 9.º, bem como na alienação daquelas cuja transmissão resulte do previsto no n.º 2 do artigo 8.º
+Art. 2.º - 1 - A primeira fase do processo de reprivatização da sociedade consistirá na alienação de um lote de acções que não exceda 40% do respectivo capital social, a determinar pelo Conselho de Ministros nos termos previstos no artigo 9.º, bem como na alienação daquelas cuja transmissão resulte do previsto no n.º 2 do artigo 8.º
 
 2 - A alienação prevista no número anterior far-se-á mediante uma oferta pública de venda em bolsa de valores nacional, destinada ao público em geral, sem prejuízo do disposto no artigo 4.º, e uma operação de venda directa a um grupo de instituições financeiras, com a obrigação de ulterior dispersão das acções, parte das quais em mercados internacionais.
 
 3 - Será requerida a admissão à cotação na Bolsa de Valores de Lisboa da totalidade das acções referidas nos números anteriores.
 
-###### Art. 3.º O número de acções objecto da oferta pública de venda referida no n.º 2 do artigo anterior será determinado pelo Conselho de Ministros, nos termos previstos no artigo 9.º
+Art. 3.º O número de acções objecto da oferta pública de venda referida no n.º 2 do artigo anterior será determinado pelo Conselho de Ministros, nos termos previstos no artigo 9.º
 
-###### Art. 4.º - 1 - É reservado para aquisição por trabalhadores da Portucel Industrial, S. A., da PORTUCEL - Empresa de Celulose e Papel de Portugal, SGPS, S. A., e das sociedades constituídas por força do disposto no artigo 1.º do [Decreto-Lei n.º 39/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1993-648137), de 13 de Fevereiro, bem como dos trabalhadores que se encontravam ao serviço da PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A., à data da sua transformação em sociedade gestora de participações sociais, pequenos subscritores e emigrantes, um lote de acções correspondente a 50% do lote referido no artigo anterior.
+Art. 4.º - 1 - É reservado para aquisição por trabalhadores da Portucel Industrial, S. A., da PORTUCEL - Empresa de Celulose e Papel de Portugal, SGPS, S. A., e das sociedades constituídas por força do disposto no artigo 1.º do [Decreto-Lei n.º 39/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1993-648137), de 13 de Fevereiro, bem como dos trabalhadores que se encontravam ao serviço da PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A., à data da sua transformação em sociedade gestora de participações sociais, pequenos subscritores e emigrantes, um lote de acções correspondente a 50% do lote referido no artigo anterior.
 
 2 - Entendem-se por trabalhadores para efeitos do número anterior as pessoas como tal consideradas pelo artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
 3 - As acções não incluídas nas reservas instituídas no n.º 1, ou que delas remanesçam, serão destinadas ao público em geral.
 
-###### Art. 5.º - 1 - As acções adquiridas em conformidade com a reserva instituída no n.º 1 do artigo anterior não podem, sob pena de nulidade do referido negócio, ser oneradas ou objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de seis meses a contar da data da respectiva aquisição.
+Art. 5.º - 1 - As acções adquiridas em conformidade com a reserva instituída no n.º 1 do artigo anterior não podem, sob pena de nulidade do referido negócio, ser oneradas ou objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de seis meses a contar da data da respectiva aquisição.
 
 2 - As acções adquiridas por trabalhadores ao abrigo do n.º 1 do artigo anterior não conferem aos respectivos titulares o direito de votar em assembleia geral por interposta pessoa durante o período de indisponibilidade previsto no número anterior.
 
@@ -139,21 +147,21 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 5 - São nulos os contratos-promessa, contratos de opção ou outros pelos quais seja convencionada a alienação futura das acções quando celebrados antes de iniciado ou terminado o respectivo período de indisponibilidade.
 
-###### Art. 6.º As nulidades cominadas no artigo anterior podem ser judicialmente declaradas, a requerimento do Ministério Público, sem prejuízo da sua invocação, nos termos gerais de direito, por qualquer interessado, incluindo a própria sociedade.
+Art. 6.º As nulidades cominadas no artigo anterior podem ser judicialmente declaradas, a requerimento do Ministério Público, sem prejuízo da sua invocação, nos termos gerais de direito, por qualquer interessado, incluindo a própria sociedade.
 
-###### Art. 7.º - 1 - As acções que não forem destinadas à oferta pública de venda, bem como aquelas que remanescerem dessa oferta, serão objecto de venda directa a um conjunto de instituições financeiras, com a obrigação de estas entidades procederem à subsequente dispersão dos títulos, devendo parte deles ser objecto de oferta em mercados internacionais, destinada a alcançar o desejável grau de internacionalização da sociedade e a afirmar a presença do País e das suas empresas nos mercados internacionais de capitais.
+Art. 7.º - 1 - As acções que não forem destinadas à oferta pública de venda, bem como aquelas que remanescerem dessa oferta, serão objecto de venda directa a um conjunto de instituições financeiras, com a obrigação de estas entidades procederem à subsequente dispersão dos títulos, devendo parte deles ser objecto de oferta em mercados internacionais, destinada a alcançar o desejável grau de internacionalização da sociedade e a afirmar a presença do País e das suas empresas nos mercados internacionais de capitais.
 
 2 - As condições concretas a que deverão obedecer a venda directa e a subsequente dispersão das acções constarão de um caderno de encargos a aprovar por resolução do Conselho de Ministros, conforme previsto no artigo 9.º
 
 3 - Para efeito do registo das acções, bem como do pagamento de quaisquer taxas ou comissões que legalmente forem devidas, considera-se como uma única operação a venda directa e a subsequente dispersão referidas nos números anteriores.
 
-###### Art. 8.º - 1 - O número de acções destinadas à operação de venda directa poderá ser reduzido, em percentagem que não exceda 15% do lote fixado nos termos do artigo 3.º para a oferta dirigida ao público em geral, se a procura verificada nesta oferta exceder as acções disponíveis para esse efeito.
+Art. 8.º - 1 - O número de acções destinadas à operação de venda directa poderá ser reduzido, em percentagem que não exceda 15% do lote fixado nos termos do artigo 3.º para a oferta dirigida ao público em geral, se a procura verificada nesta oferta exceder as acções disponíveis para esse efeito.
 
 2 - A PORTUCEL - Empresa de Celulose e Papel de Portugal, SGPS, S. A., fica autorizada a acordar com as instituições financeiras adquirentes referidas no artigo anterior a venda de um lote suplementar de acções, na condição de tal venda se mostrar necessária para assegurar os compromissos resultantes da dispersão de acções a que aquelas estão obrigadas, não podendo esse lote exceder 15% do total das acções destinadas à venda directa.
 
 3 - As acções referidas no número anterior apenas poderão ser alienadas dentro do prazo de 30 dias a contar da conclusão da venda referida no artigo 7.º e ao mesmo preço que vigorar para as acções objecto daquela venda.
 
-###### Art. 9.º - 1 - Compete ao Conselho de Ministros aprovar, mediante uma ou mais resoluções, as condições finais e concretas das operações a realizar para a execução do presente diploma, regular o modo de transferência das acções remanescentes de uma classe para outra e aprovar o caderno de encargos respeitante à operação de venda directa.
+Art. 9.º - 1 - Compete ao Conselho de Ministros aprovar, mediante uma ou mais resoluções, as condições finais e concretas das operações a realizar para a execução do presente diploma, regular o modo de transferência das acções remanescentes de uma classe para outra e aprovar o caderno de encargos respeitante à operação de venda directa.
 
 2 - As resoluções referidas no número anterior fixarão o preço de alienações das acções objecto das operações de venda, bem como os preços especiais das acções destinadas à aquisição por trabalhadores, pequenos subscritores e emigrantes, e definirão as quantidades dos lotes respeitantes a cada uma das operações ou reservas.
 
@@ -163,38 +171,38 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 5 - O Conselho de Ministros poderá, na forma prevista no número anterior, delegar no Ministro das Finanças a competência para a determinação do preço base de alienação das acções objecto das ofertas de venda, devendo, nesse caso, definir o seu valor mínimo, bem como os descontos a conceder aos beneficiários das reservas estabelecidas no n.º 1 do artigo 4.º
 
-###### Art. 10.º - 1 - Nenhuma entidade, singular ou colectiva, poderá adquirir, ao abrigo do presente diploma, mais de 10% do capital da sociedade, sendo reduzidas a este limite as propostas de aquisição que o excederem.
+Art. 10.º - 1 - Nenhuma entidade, singular ou colectiva, poderá adquirir, ao abrigo do presente diploma, mais de 10% do capital da sociedade, sendo reduzidas a este limite as propostas de aquisição que o excederem.
 
 2 - Consideram-se como a mesma entidade duas ou mais entidades que tenham, entre si, relações de simples participação ou relações de participação recíproca de valor superior a 50% do capital social de uma delas ou que sejam dominadas pelos mesmos sócios.
 
-###### Art. 11.º Compete ao conselho de administração da PORTUCEL - Empresa de Celulose e Papel de Portugal, SGPS, S. A., propor ao Ministro das Finanças o valor da sociedade a reprivatizar, com base em avaliação especialmente efectuada por duas entidades independentes, escolhidas de entre as que forem pré-qualificadas para o efeito.
+Art. 11.º Compete ao conselho de administração da PORTUCEL - Empresa de Celulose e Papel de Portugal, SGPS, S. A., propor ao Ministro das Finanças o valor da sociedade a reprivatizar, com base em avaliação especialmente efectuada por duas entidades independentes, escolhidas de entre as que forem pré-qualificadas para o efeito.
 
-###### Art. 12.º O Estado adquirirá à PORTUCEL - Empresa de Celuloses e Papel, SGPS, S. A., pelo respectivo valor nominal, os títulos de dívida pública representativos de indemnização por nacionalizações e expropriações que tenham sido mobilizados nos termos previstos no artigo 24.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
+Art. 12.º O Estado adquirirá à PORTUCEL - Empresa de Celuloses e Papel, SGPS, S. A., pelo respectivo valor nominal, os títulos de dívida pública representativos de indemnização por nacionalizações e expropriações que tenham sido mobilizados nos termos previstos no artigo 24.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-###### Art. 13.º Nos 60 dias seguintes ao termo desta primeira fase do processo de reprivatização, a sociedade publicará, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos seus accionistas cuja participação atinja 1% do capital social, indicando a quantidade de acções de que cada um é titular.
+Art. 13.º Nos 60 dias seguintes ao termo desta primeira fase do processo de reprivatização, a sociedade publicará, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos seus accionistas cuja participação atinja 1% do capital social, indicando a quantidade de acções de que cada um é titular.
 
-###### Art. 14.º Para realização das operações de alienação de acções de que trata o presente diploma, competirá à PORTUCEL - Empresa de Celulose e Papel, SGPS, S. A., negociar a respectiva montagem, bem como a tomada firme e colocação das acções e determinar todas as demais condições que se afigurem convenientes.
+Art. 14.º Para realização das operações de alienação de acções de que trata o presente diploma, competirá à PORTUCEL - Empresa de Celulose e Papel, SGPS, S. A., negociar a respectiva montagem, bem como a tomada firme e colocação das acções e determinar todas as demais condições que se afigurem convenientes.
 
-###### Art. 15.º Nas deliberações tomadas em assembleia geral da Portucel Industrial consideram-se como pertencentes ao mesmo accionista as acções que seriam contadas como suas para efeitos de oferta pública de aquisição, nos termos do Código do Mercado de Valores Mobiliários.
+Art. 15.º Nas deliberações tomadas em assembleia geral da Portucel Industrial consideram-se como pertencentes ao mesmo accionista as acções que seriam contadas como suas para efeitos de oferta pública de aquisição, nos termos do Código do Mercado de Valores Mobiliários.
 
-###### Art. 16.º - 1 - Os accionistas da Portucel Industrial têm o dever de prestar ao conselho de administração da sociedade, por forma escrita, verdadeira, completa e elucidativa, todas as informações que o mesmo lhes solicitar sobre factos que lhes digam respeito e que tenham a ver com as previsões dos n.os 2 e 3 do artigo 525.º e do artigo 530.º do Código do Mercado de Valores Mobiliários.
+Art. 16.º - 1 - Os accionistas da Portucel Industrial têm o dever de prestar ao conselho de administração da sociedade, por forma escrita, verdadeira, completa e elucidativa, todas as informações que o mesmo lhes solicitar sobre factos que lhes digam respeito e que tenham a ver com as previsões dos n.os 2 e 3 do artigo 525.º e do artigo 530.º do Código do Mercado de Valores Mobiliários.
 
 2 - A falta de cumprimento deste dever até à data da realização da primeira reunião da assembleia geral da sociedade posterior ao pedido de informação implica a confissão, pelo accionista em causa, dos factos que lhe são imputados pelo conselho de administração.
 
 3 - Os acordos parassociais relativos à Portucel Industrial devem ser comunicados, na íntegra, ao conselho de administração, nos 30 dias posteriores à sua celebração, pelos accionistas que os tenham subscrito, sob pena de invalidade dos mesmos.
 
-###### Art. 17.º As escrituras públicas de alteração do pacto social da Portucel Industrial que incluam as modificações decorrentes do disposto no presente diploma, bem como os competentes registos, ficarão isentas do pagamento de quaisquer taxas ou emolumentos.
+Art. 17.º As escrituras públicas de alteração do pacto social da Portucel Industrial que incluam as modificações decorrentes do disposto no presente diploma, bem como os competentes registos, ficarão isentas do pagamento de quaisquer taxas ou emolumentos.
 
-###### Art. 18.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 18.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio - Luís Fernando Mira Amaral.
 
-**Promulgado em 9 de Março de 1995.**
+Promulgado em 9 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Março de 1995.**
+Referendado em 13 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/09/217a00/63726377.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/360/1999/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1999-570293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:11:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de96036387a49a4d377039b1acd8e05b3706d74a590cfe8ba6b19fd1a93748e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdc41cd9ef9d297f6586346e62a99f3190c8d2a22eaedf530f3a8750d2742a6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:11:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,6 +77,22 @@ relationships:
   target: pt:dre:520466:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:405937:por
+  label: "Alterado o art. 27º pelo DEC LEI.3/2000.2000.01.29.MF,DR.IS-A [24]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-2000-405937
+  date: '2000-01-29'
+- type: amended_by
+  target: pt:dre:576276:por
+  label: "Alterados os arts. 2º e 11º pelo DEC LEI.315/2001.2001.12.10.MECO DR.IS-A [284]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/315-2001-576276
+  date: '2001-12-10'
+- type: amended_by
+  target: pt:dre:626048:por
+  label: "Alterados os arts 10º e 17º do presente diploma, pela PORT.1067/2004.26.08.2004.MF, DR.IS-B [201] de 26.08.2004\0\
+    4\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1067-2004-626048
+  date: '2004-08-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/281/1991/08/09/p/dre
   label: null
@@ -93,16 +109,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679824:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520466:por
+  label: "Revogado, com excepcção do disposto nos n.ºs 1 e 2 do artigo 22.º, pelo DEC LEI.82/2007.29.03.2007.MFAP, DR.IS [63]\
+    \ de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-2007-520466
+  date: '2007-03-29'
 article_structure:
   article_count: 27
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:11:07Z'
   warnings: []
   errors: []
 ---
@@ -453,12 +495,12 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 2000, salvo as normas l
 
 Visto e aprovado em Conselho de Ministros de 24 de Junho de 1999. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Fausto de Sousa Correia.
 
-**Promulgado em 30 de Agosto de 1999.**
+Promulgado em 30 de Agosto de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Setembro de 1999.**
+Referendado em 2 de Setembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

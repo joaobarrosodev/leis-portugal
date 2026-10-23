@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/432-1978-296820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T05:41:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb54af845e4574bb5c22387d00a685e429ce3702325ec2a2aa6f2951fef13265
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81f971b93f5134c107203af7f2ad0f912741adc73c25f6f539ae385a2bb86048
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:41:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Primário
+- Pessoal Docente
+- Prémio de Mérito
+- Prémio Liberdade-visconde de Sousa Prego
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:511034:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:41:07Z'
   warnings: []
   errors: []
 ---
@@ -103,19 +112,19 @@ Ministério da Educação e Cultura, 18 de Julho de 1978. - O Ministro da Educa�
 
 Regulamento do Prémio Liberdade - Visconde de Sousa Prego
 
-###### Artigo 1.º Em cumprimento das disposições testamentárias do falecido Visconde de Sousa Prego, é instituído o Prémio Liberdade - Visconde de Sousa Prego, que se destina a galardoar professores do ensino primário elementar nas condições que passam a mencionar-se.
+Artigo 1.º Em cumprimento das disposições testamentárias do falecido Visconde de Sousa Prego, é instituído o Prémio Liberdade - Visconde de Sousa Prego, que se destina a galardoar professores do ensino primário elementar nas condições que passam a mencionar-se.
 
-###### Art. 2.º O prémio será conferido anualmente e constitui encargo da Santa Casa da Misericórdia da Figueira da Foz, que, em cada ano, o incluirá no seu orçamento de despesas.
+Art. 2.º O prémio será conferido anualmente e constitui encargo da Santa Casa da Misericórdia da Figueira da Foz, que, em cada ano, o incluirá no seu orçamento de despesas.
 
-###### Art. 3.º O prémio, que a Santa Casa da Misericórdia da Figueira da Foz manterá perpetuamente, tem o valor anual de 30000$00.
+Art. 3.º O prémio, que a Santa Casa da Misericórdia da Figueira da Foz manterá perpetuamente, tem o valor anual de 30000$00.
 
-###### Art. 4.º Para efeitos de atribuição, o prémio será dividido em quatro de igual valor, portanto de 7500$00 cada um, a atribuir a dois professores do ensino primário elementar de qualquer dos distritos do continente português que se encontrem em cada uma das seguintes situações:
+Art. 4.º Para efeitos de atribuição, o prémio será dividido em quatro de igual valor, portanto de 7500$00 cada um, a atribuir a dois professores do ensino primário elementar de qualquer dos distritos do continente português que se encontrem em cada uma das seguintes situações:
 
 a) Tendo leccionado apenas a 2.ª fase de aprendizagem, hajam tido, expresso em percentagem relativa à frequência média anual, maior número de alunos com aproveitamento na avaliação final, sem contar, para a determinação dessa percentagem, os alunos que se não encontrem em condições legais de completarem o ensino primário elementar;
 
 b) Tendo leccionado concomitantemente a 1.ª e a 2.ª fases de aprendizagem, hajam obtido o maior número, em percentagem, nos termos da alínea anterior, de alunos com aproveitamento na avaliação final da 2.ª fase.
 
-###### Art. 5.º - 1 - As direcções escolares de cada um dos distritos do continente procederão ao apuramento dos quatro candidatos a propor, escolhendo dois por cada um dos grupos definidos na alínea a) e na alínea b) do artigo precedente.
+Art. 5.º - 1 - As direcções escolares de cada um dos distritos do continente procederão ao apuramento dos quatro candidatos a propor, escolhendo dois por cada um dos grupos definidos na alínea a) e na alínea b) do artigo precedente.
 
 2 - Nos distritos em que a aplicação dos critérios estabelecidos no artigo 4.º leve a encontrar, por cada grupo, mais do que dois professores em igualdade de circunstâncias, a atribuição dos prémios deferir-se-á tendo em conta a seguinte ordem de prioridades:
 
@@ -127,11 +136,11 @@ III) Ao que no ano lectivo anterior haja obtido maior número de alunos com aque
 
 IV) Ao que tiver mais idade.
 
-###### Art. 6.º - 1 - A Direcção-Geral do Ensino Básico apurará, de entre os candidatos seleccionados pelas direcções escolares, aqueles a quem, por cada uma das modalidades de trabalho definidas no artigo 4.º, deverá ser atribuído o prémio em cada ano.
+Art. 6.º - 1 - A Direcção-Geral do Ensino Básico apurará, de entre os candidatos seleccionados pelas direcções escolares, aqueles a quem, por cada uma das modalidades de trabalho definidas no artigo 4.º, deverá ser atribuído o prémio em cada ano.
 
 2 - Em caso de necessidade, observar-se-á o disposto no n.º 2 do artigo 5.º
 
-###### Art. 7.º - 1 - Indicados pela Direcção-Geral do Ensino Básico à Santa Casa da Misericórdia da Figueira da Foz os nomes dos quadro galardoados em cada ano, o provedor da instituição fará a entrega dos prémios em sessão solene a realizar no dia 8 de Dezembro, data da fundação da mesma Santa Casa.
+Art. 7.º - 1 - Indicados pela Direcção-Geral do Ensino Básico à Santa Casa da Misericórdia da Figueira da Foz os nomes dos quadro galardoados em cada ano, o provedor da instituição fará a entrega dos prémios em sessão solene a realizar no dia 8 de Dezembro, data da fundação da mesma Santa Casa.
 
 2 - Para efeito da comparência na sessão solene de 8 de Dezembro, são os professores premiados dispensados de serviço nos dias 7 e 9 do mesmo mês.
 

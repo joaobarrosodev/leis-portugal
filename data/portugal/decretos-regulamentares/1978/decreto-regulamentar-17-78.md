@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 137/1978, 1º Suplemento, Série I de 1978-06-17
   number: '137'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1074-(6) a 1074-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/13701/00060008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1978-631272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T05:58:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9980167d0bb1d01d4ec53ba462c9dcd58ed9fe88351c8cd0e4dd90e3cde764fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1527144149008dec1e5655fd46467a28ef882aa7980580b90d1854bafd8d906
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Coordenador do Trabalho Portuário de Lisboa
+- Criação de Serviços
+- Definição de Competências
+- Instituto do Trabalho Portuário
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:332184:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332184:por
+  label: Extinto pelo DEC LEI.116/90.05.04.1990.MOPTC, DR.IS [80] de 05.04.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-1990-332184
+  date: '1990-04-05'
+- type: cites
+  target: pt:dre:631274:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:329864:por
+  label: Rectificado pela DECL.DD7495.06.09.1978.PCM, DR.IS [205] de 06.09.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-329864
+  date: '1978-09-06'
+- type: repealed_by
+  target: pt:dre:579343:por
+  label: "Revogado pelo DR.63-B/84.1984.08.20.MFP, DR.IS [192]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/63-b-1984-579343
+  date: '1984-08-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:58:26Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +124,15 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e âmbito
 
-###### Artigo 1.º É criado o Centro Coordenador do Trabalho Portuário de Lisboa, abreviadamente designado por CCTPL, ao abrigo do disposto no artigo 18.º do [Decreto-Lei n.º 145-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-b-1978-631274), de 17 de Junho.
+Artigo 1.º É criado o Centro Coordenador do Trabalho Portuário de Lisboa, abreviadamente designado por CCTPL, ao abrigo do disposto no artigo 18.º do [Decreto-Lei n.º 145-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-b-1978-631274), de 17 de Junho.
 
-###### Art. 2.º O CCTPL é uma entidade dotada de personalidade jurídica e de autonomia administrativa e financeira e funciona na dependência directa do Instituto do Trabalho Portuário.
+Art. 2.º O CCTPL é uma entidade dotada de personalidade jurídica e de autonomia administrativa e financeira e funciona na dependência directa do Instituto do Trabalho Portuário.
 
-###### Art. 3.º O CCTPL tem sede em Lisboa e exerce a sua acção na área do porto de Lisboa.
+Art. 3.º O CCTPL tem sede em Lisboa e exerce a sua acção na área do porto de Lisboa.
 
 ### CAPÍTULO II — Competência
 
-###### Art. 4.º No âmbito das atribuições referidas no artigo 19.º do [Decreto-Lei n.º 145-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-b-1978-631274), de 17 de Junho, compete ao CCTPL, nomeadamente:
+Art. 4.º No âmbito das atribuições referidas no artigo 19.º do [Decreto-Lei n.º 145-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-b-1978-631274), de 17 de Junho, compete ao CCTPL, nomeadamente:
 
 a) Elaborar os regulamentos internos necessários à boa execução das suas atribuições;
 
@@ -142,13 +166,13 @@ o) Arrecadar as receitas e pagar as despesas inerentes às respectivas atribuiç
 
 ### CAPÍTULO III — Órgãos e serviços
 
-###### Art. 5.º São órgãos do CCTPL:
+Art. 5.º São órgãos do CCTPL:
 
 a) A direcção;
 
 b) O conselho fiscal.
 
-###### Art. 6.º - 1 - A direcção é nomeada por despacho conjunto dos Ministros dos Transportes e Comunicações e do Trabalho, sendo constituída por:
+Art. 6.º - 1 - A direcção é nomeada por despacho conjunto dos Ministros dos Transportes e Comunicações e do Trabalho, sendo constituída por:
 
 a) Um presidente, designado pelos Ministros dos Transportes e Comunicações e do Trabalho;
 
@@ -158,11 +182,11 @@ c) Três representantes dos empregadores, designados, conjuntamente, pela Associ
 
 2 - Nos casos previstos nas alíneas b) e c) do número anterior, competirá aos Ministros dos Transportes e Comunicações e do Trabalho suprir a falta se as entidades competentes se abstiverem de indicar o seu representante no prazo de trinta dias após serem solicitadas a fazê-lo.
 
-###### Art. 7.º Por cada membro efectivo da direcção deverão as entidades referidas no artigo antecedente designar, simultaneamente, um membro suplente, que substituirá aquele nas suas faltas e impedimentos.
+Art. 7.º Por cada membro efectivo da direcção deverão as entidades referidas no artigo antecedente designar, simultaneamente, um membro suplente, que substituirá aquele nas suas faltas e impedimentos.
 
-###### Art. 8.º Sempre que necessário, a direcção poderá solicitar a presença de um representante da AGPL nas suas reuniões.
+Art. 8.º Sempre que necessário, a direcção poderá solicitar a presença de um representante da AGPL nas suas reuniões.
 
-###### Art. 9.º - 1 - Compete à direcção:
+Art. 9.º - 1 - Compete à direcção:
 
 a) Coordenar e dirigir superiormente todos os serviços do Centro;
 
@@ -178,13 +202,13 @@ f) Exercer, de um modo geral, as competências atribuídas ao Centro pelo artigo
 
 2 - O exercício do poder disciplinar, nos termos do artigo 24.º do [Decreto-Lei n.º 145-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-b-1978-631274), de 17 de Junho, cabe ao presidente da direcção, ouvidos os restantes membros.
 
-###### Art. 10.º Junto da direcção funcionará um serviço contencioso, ao qual caberá o estudo e tratamento de quaisquer problemas, designadamente de carácter jurídico, que lhe sejam confiados.
+Art. 10.º Junto da direcção funcionará um serviço contencioso, ao qual caberá o estudo e tratamento de quaisquer problemas, designadamente de carácter jurídico, que lhe sejam confiados.
 
-###### Art. 11.º A direcção deverá reunir ordinariamente uma vez por semana e excepcionalmente sempre que o julgue necessário.
+Art. 11.º A direcção deverá reunir ordinariamente uma vez por semana e excepcionalmente sempre que o julgue necessário.
 
-###### Art. 12.º As deliberações da direcção serão tomadas por maioria.
+Art. 12.º As deliberações da direcção serão tomadas por maioria.
 
-###### Art. 13.º - 1 - O conselho fiscal é nomeado por despacho conjunto dos Ministros dos Transportes e Comunicações e do Trabalho, sendo constituído por:
+Art. 13.º - 1 - O conselho fiscal é nomeado por despacho conjunto dos Ministros dos Transportes e Comunicações e do Trabalho, sendo constituído por:
 
 a) Um presidente, designado conjuntamente pelos Ministérios dos Transportes e Comunicações e do Trabalho;
 
@@ -194,13 +218,13 @@ c) Um representante dos empregadores, designado pelas associações referidas na
 
 2 - Nos casos previstos nas alíneas b) e c) do número anterior, competirá aos Ministros dos Transportes e Comunicações e do Trabalho suprir a falta se as entidades competentes se abstiverem de indicar o seu representante no prazo de trinta dias após serem solicitadas a fazê-lo.
 
-###### Art. 14.º Compete ao conselho fiscal:
+Art. 14.º Compete ao conselho fiscal:
 
 a) Fiscalizar, por iniciativa própria, a pedido da direcção ou de qualquer das partes nela representadas, as contas do CCTPL;
 
 b) Apreciar obrigatoriamente o relatório e contas e o orçamento anuais do CCTPL e elaborar os respectivos pareceres, que enviará às entidades referidas no artigo 2.º, bem como ao ITP.
 
-###### Art. 15.º São serviços do CCTPL:
+Art. 15.º São serviços do CCTPL:
 
 a) Os serviços administrativos;
 
@@ -208,11 +232,11 @@ b) Os serviços de colocação;
 
 c) Os serviços gerais.
 
-###### Art. 16.º - 1 - Os serviços referidos no artigo anterior serão coordenados por um secretário-geral, nomeado pelo Ministro dos Transportes e Comunicações, sob proposta da direcção, ao qual compete, designadamente, dar execução às decisões dela emanadas.
+Art. 16.º - 1 - Os serviços referidos no artigo anterior serão coordenados por um secretário-geral, nomeado pelo Ministro dos Transportes e Comunicações, sob proposta da direcção, ao qual compete, designadamente, dar execução às decisões dela emanadas.
 
 2 - O secretário-geral superintende hierarquicamente em todos aqueles serviços e a ele compete orientá-los na realização das suas competências.
 
-###### Art. 17.º Os serviços administrativos, que deverão assegurar todo o apoio administrativo à direcção, ao secretário-geral e aos outros serviços referidos no artigo 15.º, serão constituídos pelas seguintes secções:
+Art. 17.º Os serviços administrativos, que deverão assegurar todo o apoio administrativo à direcção, ao secretário-geral e aos outros serviços referidos no artigo 15.º, serão constituídos pelas seguintes secções:
 
 a) Secretaria, à qual compete:
 
@@ -246,7 +270,7 @@ c) Documentação e Estatística, à qual compete:
 
 3.º Organizar e manter actualizado um serviço de documentação e informação seleccionando e divulgando as respectivas publicações e documentos a nível interno do CCTPL e às entidades nele representadas ou com ele relacionadas.
 
-###### Art. 18.º Os serviços de colocação serão constituídos pelas seguintes secções:
+Art. 18.º Os serviços de colocação serão constituídos pelas seguintes secções:
 
 a) Programação e Distribuição, à qual compete:
 
@@ -274,7 +298,7 @@ c) Fiscalização, à qual compete:
 
 3.º Manter os seus elementos actualizados com a regulamentação respeitante ao sector.
 
-###### Art. 19.º Os serviços gerais serão constituídos pelas seguintes secções:
+Art. 19.º Os serviços gerais serão constituídos pelas seguintes secções:
 
 a) Técnica, à qual compete:
 
@@ -294,7 +318,7 @@ c) Cultura e Desporto, à qual compete formular os esquemas apropriados no senti
 
 ### CAPÍTULO IV — Receitas e despesas
 
-###### Art. 20.º Consistem receitas do CCTPL:
+Art. 20.º Consistem receitas do CCTPL:
 
 a) As importâncias correspondentes às retribuições dos trabalhadores recrutados por seu intermédio pagas pelas entidades empregadoras, acrescidas dos encargos legais correspondentes;
 
@@ -308,16 +332,16 @@ e) Os juros de disponibilidades próprias;
 
 f) Quaisquer outras legalmente permitidas.
 
-###### Art. 21.º São despesas do CCTPL todas as que resultem das suas atribuições.
+Art. 21.º São despesas do CCTPL todas as que resultem das suas atribuições.
 
 ### CAPÍTULO V — Disposições transitórias
 
-###### Art. 22.º O pessoal presentemente ao serviço do Fundo de Férias e do Fundo de Garantia Salarial transitará automaticamente, sem perda de quaisquer direitos, para o quadro referido no artigo anterior, devendo, sempre que possível, dar-se prioridade, na admissão de pessoal, aos funcionários ao serviço dos sindicatos e das associações de empregadores que seja excedentário em virtude da entrada em funcionamento do CCTPL e preencham as condições exigidas.
+Art. 22.º O pessoal presentemente ao serviço do Fundo de Férias e do Fundo de Garantia Salarial transitará automaticamente, sem perda de quaisquer direitos, para o quadro referido no artigo anterior, devendo, sempre que possível, dar-se prioridade, na admissão de pessoal, aos funcionários ao serviço dos sindicatos e das associações de empregadores que seja excedentário em virtude da entrada em funcionamento do CCTPL e preencham as condições exigidas.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - António Manuel Maldonado Gonelha - Manuel Branco Ferreira Lima.
 
-**Promulgado em 14 de Junho de 1978.**
+Promulgado em 14 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

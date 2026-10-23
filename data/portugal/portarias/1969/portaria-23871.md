@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23871-1969-526818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:56:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cda1a0d23976f239edb0e621ca8b9c25eae26644db7e9f2092b7bc39c6168741
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a407dccc86d11cb5d4ff1e1a7e8a42ea23f0f791c421ac29be10d22c8d56a46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:262672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290839:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:56:17Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +141,7 @@ Ausência de dedos nos pés;
 
 e ainda, consoante a classe do veículo e o tipo de condução que o examinando pretende praticar, as seguintes tolerâncias específicas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/01/02100/00940098.pdf))](https://files.diariodarepublica.pt/1s/1969/01/02100/00940098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/01/02100/00940098.pdf)
 
 3. No termo de inspecção normal que conclua pela aprovação do interessado, o médico, depois de preenchido o boletim de inspecção e passado o atestado, entrega-os ao examinando para serem apresentados na delegação, inspecção ou subdelegação de saúde da respectiva área.
 
@@ -151,7 +159,7 @@ b) A pedido do interessado declarado inapto na inspecção normal ou que, tendo 
 
 2. Será aprovado em inspecção especial o examinando em quem não se verifique qualquer das circunstâncias e limitações referidas no n.º 1 do artigo 40.º, podendo o médico dos serviços de saúde, quanto às limitações previstas nas alíneas a) e e) daquele número, consentir mais as seguintes tolerâncias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/01/02100/00940098.pdf))](https://files.diariodarepublica.pt/1s/1969/01/02100/00940098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/01/02100/00940098.pdf)
 
 3. O examinando com rigidez ou malformações da coluna vertebral ou com ausência ou impotência funcional - total ou não - de qualquer membro e que seja declarado apto pelos serviços de saúde fica sujeito, consoante os casos, a um ou a ambos os seguintes condicionamentos, além de quaisquer outros julgados necessários:
 
@@ -205,10 +213,10 @@ Ministérios das Comunicações e da Saúde e Assistência, 25 de Janeiro de 196
 
 Modelo n.º 921
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/01/02100/00940098.pdf))](https://files.diariodarepublica.pt/1s/1969/01/02100/00940098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/01/02100/00940098.pdf)
 
 Modelo n.º 922
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/01/02100/00940098.pdf))](https://files.diariodarepublica.pt/1s/1969/01/02100/00940098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/01/02100/00940098.pdf)
 
 Ministérios das Comunicações e da Saúde e Assistência, 25 de Janeiro de 1969. - O Ministro das Comunicações, José Estêvão Abranches Couceiro do Canto Moniz. - O Ministro da Saúde e Assistência, Lopo de Carvalho Cancella de Abreu.

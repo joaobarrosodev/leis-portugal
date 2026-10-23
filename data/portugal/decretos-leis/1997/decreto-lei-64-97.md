@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/072a00/13581361.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/64/1997/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1997-525617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8aeeca8882b41d07b301f53fc4390eb9b5f133c96004d2dcfed2f67d45c1aa0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 310fb44ee388c7ca848f4a6bc8f4fc4007de99285237362adec66e1b07525957
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Comissão de Fiscalização
 - Complexo de Apoio às Actividades Desportivas
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:580670:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:276467:por
+  label: "Integrado o Complexo de Apoio às Actividades Desportivas no Ministério da Juventude e do Desporto pelo DEC LEI.267-A/2000.2000.10.20.PCM\
+    \ DR.IS-A [243]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-a-2000-276467
+  date: '2000-10-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12/1996/04/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/12/1996/04/18/p/dre
+- type: cites
+  target: pt:dre:220896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571650:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:580670:por
+  label: "Revogado pelo DEC LEI.96/2003.2003.05.07.PCM, DR.IS-A [105]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-2003-580670
+  date: '2003-05-07'
 article_structure:
   article_count: 28
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:42Z'
   warnings: []
   errors: []
 ---
@@ -271,7 +294,9 @@ g) Assegurar o expediente;
 
 h) Manter actualizado o cadastro dos bens do CAAD.
 
-###### Artigo 14.º — Secção de Pessoal e Expediente
+###### Artigo 14.º
+
+#### Secção de Pessoal e Expediente
 
 À Secção de Pessoal e Expediente compete:
 
@@ -289,7 +314,9 @@ f) Proceder à recepção, classificação, registo, distribuição e expediçã
 
 g) Assegurar as tarefas necessárias à organização e gestão do arquivo.
 
-###### Artigo 15.º — Secção de Contabilidade
+###### Artigo 15.º
+
+#### Secção de Contabilidade
 
 À Secção de Contabilidade compete:
 
@@ -395,14 +422,14 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 1996. - António Manuel de Oliveira Guterres - Fernando Teixeira dos Santos - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 31 de Janeiro de 1997.**
+Promulgado em 31 de Janeiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Janeiro de 1997.**
+Referendado em 31 de Janeiro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/072a00/13581361.pdf))](https://files.diariodarepublica.pt/1s/1997/03/072a00/13581361.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/072a00/13581361.pdf)

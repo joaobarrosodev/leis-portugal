@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/10/20200/0783907841.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/300/2009/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ecab76b1830b6c362c6867711d66be0e5011749d8953e94d466e90641bd12cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: baff1e291a82e686fa0a3159ecb82c390f82ec64c5c463fcc0a6531cfc048607
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Base de Dados
+- Cooperação Policial
 - Definição de Competências
 - Diretor Geral
-- Cooperação Policial
 - Formas de Provimento
-- Base de Dados
-- Orgânica
-- Polícia Judiciária Militar
-- Quadro de Pessoal
+- Investigação Criminal
 - Militar
 - Ministro da Defesa Nacional
-- Investigação Criminal
+- Orgânica
+- Pessoal Dirigente
+- Polícia Judiciária Militar
 - Prevenção Criminal
+- Quadro de Pessoal
 - Subdirector Geral
 relationships:
 - type: amended_by
@@ -96,16 +96,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/97-a/2009/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/97-a/2009/09/03/p/dre
+- type: cites
+  target: pt:dre:388227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655675:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:544412:por
+  label: "Revogado, a partir de 01.02.2012, pelo DEC LEI.9/2012.18.01.2012.MDN, DR.IS [13] de 18.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2012-544412
+  date: '2012-01-18'
 article_structure:
   article_count: 14
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:01Z'
   warnings: []
   errors: []
 ---
@@ -254,16 +271,16 @@ O presente decreto-lei entra em vigor no dia 1 de Novembro de 2009.
 
 Visto e aprovado em Conselho de Ministros de 3 de Setembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Henrique Nuno Pires Severiano Teixeira.
 
-**Promulgado em 7 de Outubro de 2009.**
+Promulgado em 7 de Outubro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Outubro de 2009.**
+Referendado em 9 de Outubro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Mapa a que se refere o n.º 1 do artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20200/0783907841.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20200/0783907841.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20200/0783907841.pdf)

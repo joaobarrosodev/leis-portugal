@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/03/057a00/20442050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/61/2006/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2006-667774
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2870630498bde808f12326af71e1b5edf793ca4b717379fb0bce5a4672e587e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8483b69cc3a8fb4df5f9b15810b47baf7a9c18dc0d181530c0ff9469ccae599
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,39 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estrutura BASE do Exército
+- Academia Militar
+- Brigada de Intervenção
 - Brigada de Reacção Rapida
+- Brigada Mecanizada
+- Chefe do Estado Maior do Exército
 - Comando da Instrução e Doutrina
 - Comando da Logística
-- Estrutura de Comando do Exército
-- Inspecção Geral do Exército
-- Vice-chefe do Estado Maior do Exército
-- Comando Operacional
-- Exército
-- Gestão Financeira
+- Comando do Exército
 - Comando do Pessoal
+- Comando Operacional
 - Conselho Superior de Disciplina do Exército
 - Conselho Superior do Exército
 - Escola do Serviço de Saúde Militar
-- Academia Militar
-- Brigada de Intervenção
-- Brigada Mecanizada
-- ZONA Militar da Madeira
-- Gabinete do Chefe do Estado Maior do Exército
-- Hospital Militar de Belém
-- Junta Médica de Recurso do Exército
-- Chefe do Estado Maior do Exército
-- Forças Armadas
-- Orgânica
-- Militar
-- Comando do Exército
-- ZONA Militar dos Açores
+- Estrutura BASE do Exército
+- Estrutura de Comando do Exército
+- Exército
 - FOPE
+- Forças Armadas
+- Gabinete do Chefe do Estado Maior do Exército
+- Gestão Financeira
+- Hospital Militar de Belém
+- Inspecção Geral do Exército
+- Junta Médica de Recurso do Exército
+- Militar
+- Orgânica
+- Vice-chefe do Estado Maior do Exército
+- ZONA Militar da Madeira
+- ZONA Militar dos Açores
 relationships:
 - type: amended_by
   target: pt:dre:489707:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1199695:por
+  label: "Determinada a extinção dos comandos, unidades, estabelecimentos e demais órgãos do Exército constantes do mapa anexo\
+    \ ao Desp 12251/2006 (2ª.Série) de 12-Jun, no cumprimento do disposto no nº 2 do art. 30º do presente diploma, pelo DESP.12251/2006(2ªSérie).24.05.2006.MDN,\
+    \ DR.IIS [113] de 12.06.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/12251-2006-1199695
+  date: '2006-05-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/50/1993/02/26/p/dre
   label: null
@@ -106,16 +113,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/111/1991/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/111/1991/08/29/p/dre
+- type: cites
+  target: pt:dre:404104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657445:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:489707:por
+  label: Revogado, a partir de 01.10.2009, pelo DEC LEI.231/2009.15.09.2009.MDN, DR.IS [179] de 15.09.2009, e sem prejuízo
+    do disposto no artigo 33.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-2009-489707
+  date: '2009-09-15'
 article_structure:
   article_count: 35
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:05Z'
   warnings: []
   errors: []
 ---
@@ -166,15 +187,15 @@ O presente decreto-lei produz efeitos desde 1 de Janeiro de 2006.
 
 Visto e aprovado em Conselho de Ministros de 23 de Fevereiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Luís Filipe Marques Amado.
 
-**Promulgado em 5 de Março de 2006.**
+Promulgado em 5 de Março de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Março de 2006.**
+Referendado em 6 de Março de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Lei Orgânica do Exército
 

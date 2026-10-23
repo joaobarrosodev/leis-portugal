@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/234-1974-412216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T04:22:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1067455f254097df8707d998cbee9476b1b3e8333483eb0946040a5d29555335
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b07d943511e8acf8c22bdc16c7722ae2ed1382038915a8eb9d44af826c725cb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:22:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,40 @@ relationships:
   target: pt:dre:324734:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:324734:por
+  label: Alterado o n.º 5 da presente portaria, pelo(a) Portaria n.º 736/78 - Diário da República n.º 285/1978, Série I de
+    1978-12-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/736-1978-324734
+  date: '1978-12-13'
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:266096:por
+  label: Rectificada pela DECL.DD9548.24.04.1974.PC, DG.IS [96]Supl de 24.04.1974, que procede à publicação dos modelos a
+    que se refere o n.º 18.º do presente diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1974-266096
+  date: '1974-04-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:22:31Z'
   warnings: []
   errors: []
 ---

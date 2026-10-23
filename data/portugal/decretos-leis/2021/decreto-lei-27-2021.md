@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/04/07400/0000500013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/27/2021/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ed905a722c910278d958d35f9b6bb45ef34b8b19d5f36b9ca5c457138572c2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0d5cbe371649173052976ab682aec1dbc9b1119674d9f5b3279702337212cd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Pessoal Dirigente
+- Carreira Docente Universitária
 - Conselho Científico
+- Conselho Diretivo
 - Conselho Pedagógico
 - Diretor
 - Doutoramento
-- Remuneração Acessória
-- Conselho Diretivo
+- Ensino Superior
+- Estabelecimento de Ensino
 - JURI
 - Licenciatura
-- Carreira Docente Universitária
 - Mestrado
-- Estabelecimento de Ensino
+- Pessoal Dirigente
 - Pessoal Docente
 - Presidente
-- Ensino Superior
+- Pró-Reitor
 - Reitor
 - Remuneração
+- Remuneração Acessória
 - Subdiretor
 - TESE
 - Vice-presidente
-- Pró-Reitor
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/107/2008/06/25/p/dre
@@ -125,16 +125,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: pt:dre:105658704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116068879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75319452:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:13Z'
   warnings: []
   errors: []
 ---
@@ -339,7 +379,9 @@ c) Não seja titular de contrato por tempo indeterminado com uma instituição d
 
 4 - O reconhecimento a que se refere o número anterior não determina a atribuição do título de especialista, não se confunde com o título de especialista atribuído por associação pública profissional, bem como não releva para efeitos de acreditação de ciclos de estudo nem para cumprimento dos critérios previstos no artigo 49.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -353,7 +395,9 @@ c) Não seja titular de contrato por tempo indeterminado com uma instituição d
 
 6 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -385,13 +429,17 @@ b) [Anterior alínea b) do proémio do corpo do artigo.]
 
 2 - O trabalho referido na alínea b) do número anterior não poderá ser de natureza académica ou científica, nem ter já sido objeto de avaliação ou de defesa para efeitos de obtenção de grau académico ou diploma.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - O certificado deverá identificar todas as instituições de ensino superior que integraram o consórcio e ser subscrito pelos órgãos legais e estatutariamente competentes de cada uma destas instituições.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - (Anterior proémio do corpo do artigo:)
 
@@ -401,7 +449,9 @@ b) [Anterior alínea b) do proémio do corpo do artigo.]
 
 2 - Para efeitos da avaliação da experiência profissional, referida no número anterior, apenas é considerada a experiência profissional obtida após a conclusão do grau académico e em contextos distintos da docência no ensino superior.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -411,7 +461,9 @@ b) [Anterior alínea b) do proémio do corpo do artigo.]
 
 4 - O requerimento e todos os respetivos elementos poderão ser entregues através de formato digital.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -427,7 +479,9 @@ b) [Anterior alínea b) do proémio do corpo do artigo.]
 
 7 - Nas provas públicas a que se refere o artigo 14.º, o presidente do júri pode autorizar a participação de vogais por teleconferência em qualquer número, bem como do candidato, desde que haja condições técnicas para a sua plena participação nos trabalhos.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -453,12 +507,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de março de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Alexandra Ludomila Ribeiro Fernandes Leitão - Manuel Frederico Tojal de Valsassina Heitor.
 
-**Promulgado em 7 de abril de 2021.**
+Promulgado em 7 de abril de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 13 de abril de 2021.**
+Referendado em 13 de abril de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114148395

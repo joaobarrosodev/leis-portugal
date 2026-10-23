@@ -47,52 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/30-1986-222224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:59:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c3aeee0d0c57ec43fa9f3ddb1027c4ee59d25aaa7de8cd09c459a8b1e75db94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08281c988aa861f10613054814595f0bdbfb64ef58d398d46bdc036f66c885cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:59:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arábia Saudita
+- Embaixador
+- Exoneração
+- Jeddah
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:59:21Z'
   warnings: []
   errors: []
 ---
 
 # Decreto do Presidente da República n.º 30/86
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea a), da Constituição, o seguinte:
 
 É exonerado, sob proposta do Governo, o ministro plenipotenciário de 1.ª classe Pedro Paulo de Morais Alves Machado do cargo de embaixador de Portugal em Jeddah.
 
-**Assinado em 1 de Outubro de 1986.**
+Assinado em 1 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES. - O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro dos Negócios Estrangeiros, Pedro José Rodrigues Pires de Miranda.**
+O Presidente da República, MÁRIO SOARES. - O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro dos Negócios Estrangeiros, Pedro José Rodrigues Pires de Miranda.
 
-**Referendado em 6 de Outubro de 1986.**
+Referendado em 6 de Outubro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

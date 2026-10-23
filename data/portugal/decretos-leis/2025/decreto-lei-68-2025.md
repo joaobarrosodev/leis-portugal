@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/07200/0001700022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/68/2025/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2025-914713264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6442605445f3bea83a042991d4890d7bb5d41bb7b2f66f8cc1d32a019b9b0c81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5b6414aeeef963e3f9408ef90514e27bc5478068bbf1a4466808f14ef3ced18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Ministério da Defesa Nacional
-- Pessoal Dirigente
 - Comissão de Educação Física e Desporto Militar
-- Diretor Geral
-- Orgânica
-- Serviço de Assistência Religiosa das Forças Armadas
-- Transferência de Competências
 - Direção Geral de Recursos Humanos da Defesa Nacional
 - Direção-Geral de Armamento e Património da Defesa Nacional
+- Diretor Geral
+- Ministério da Defesa Nacional
+- Orgânica
+- Pessoal Dirigente
+- Reestruturação de Serviços
+- Serviço de Assistência Religiosa das Forças Armadas
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:1095232857:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:183/2014
+  label: Altera, a partir de 1 de julho de 2025, os artigos 4.º, 14.º, 26.º e 27.º, adita o artigo 14.º-A, altera o anexo
+    i e revoga o n.º 2 do artigo 26.º do Decreto-Lei n.º 183/2014, de 29 de dezembro, Diário da República n.º 250/2014, Série
+    I
+  source: null
+  date: '2014-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/146/2015/08/03/p/dre
   label: null
@@ -92,16 +99,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/35/2016/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/35/2016/06/29/p/dre
+- type: cites
+  target: pt:dre:130114172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69927762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74813524:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:51Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +133,7 @@ validation:
 
 de 11 de abril
 
-O [Decreto-Lei n.º 183/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2014-65983260), de 29 de dezembro, alterado pelos Decretos-Leis n.<sup>os</sup>[146/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2015-69927762), de 3 de agosto, e [35/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2016-74813524), de 29 de junho, aprovou a orgânica do Ministério da Defesa Nacional (MDN), visando a simplificação e otimização dos serviços tendo como referencial a racionalização das estruturas orgânicas da Administração Pública e do seu modo de funcionamento, à luz dos objetivos de melhoria de funcionamento, economia de meios e redução da despesa pública. Neste sentido, foi então encetada a reorganização dos serviços centrais, designadamente através da criação da Direção-Geral de Recursos da Defesa Nacional (DGRDN), resultante da fusão da Direção-Geral de Pessoal e Recrutamento Militar com a Direção-Geral de Armamento e Infraestruturas de Defesa.
+O [Decreto-Lei n.º 183/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2014-65983260), de 29 de dezembro, alterado pelos Decretos-Leis n.os[146/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2015-69927762), de 3 de agosto, e [35/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2016-74813524), de 29 de junho, aprovou a orgânica do Ministério da Defesa Nacional (MDN), visando a simplificação e otimização dos serviços tendo como referencial a racionalização das estruturas orgânicas da Administração Pública e do seu modo de funcionamento, à luz dos objetivos de melhoria de funcionamento, economia de meios e redução da despesa pública. Neste sentido, foi então encetada a reorganização dos serviços centrais, designadamente através da criação da Direção-Geral de Recursos da Defesa Nacional (DGRDN), resultante da fusão da Direção-Geral de Pessoal e Recrutamento Militar com a Direção-Geral de Armamento e Infraestruturas de Defesa.
 
 Por força deste sobredimensionamento, a DGRDN passou a congregar um extenso leque de atribuições, que incluiu matérias tão díspares como recursos humanos (aspetos estatutários, recrutamento, regulação, formação, incentivos, reinserção profissional, profissionalização, saúde militar, assuntos sociais, assistência religiosa), deficientes militares, antigos combatentes, armamento e equipamento (incluindo a lei de programação militar), infraestruturas e património (incluindo a lei das infraestruturas militares), qualidade e ambiente.
 
@@ -128,7 +151,7 @@ Nos termos do n.º 2 do artigo 198.º da Constituição, o Governo decreta o seg
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 183/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2014-65983260), de 29 de dezembro, alterado pelos Decretos-Leis n.<sup>os</sup>[146/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2015-69927762), de 3 de agosto, e [35/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2016-74813524), de 29 de junho, que aprova a orgânica do Ministério da Defesa Nacional.
+O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 183/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2014-65983260), de 29 de dezembro, alterado pelos Decretos-Leis n.os[146/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2015-69927762), de 3 de agosto, e [35/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2016-74813524), de 29 de junho, que aprova a orgânica do Ministério da Defesa Nacional.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 183/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2014-65983260), de 29 de dezembro
 
@@ -158,7 +181,9 @@ g) [Anterior alínea f)].
 
 3 - [...]
 
-###### Artigo 14.º — Direção-Geral de Recursos Humanos da Defesa Nacional
+Artigo 14.º
+
+Direção-Geral de Recursos Humanos da Defesa Nacional
 
 1 - A Direção-Geral de Recursos Humanos da Defesa Nacional (DGRHDN) tem por missão conceber, desenvolver, coordenar, harmonizar e executar as políticas de recursos humanos necessários à defesa nacional e às Forças Armadas, incluindo o recrutamento, e o apoio aos antigos combatentes e aos deficientes militares.
 
@@ -212,7 +237,9 @@ o) Assegurar, em articulação com a DGPDN, a representação em organizações 
 
 5 - A DGRHDN é dirigida por um diretor-geral, coadjuvado por um subdiretor-geral, cargos de direção superior de 1.º e 2.º graus, respetivamente.
 
-###### Artigo 26.º — Transferência de atribuições e competências
+Artigo 26.º
+
+Transferência de atribuições e competências
 
 1 - Os serviços integradores identificados nas alíneas d) e e) do n.º 2 do artigo 4.º do presente decreto-lei sucedem nos direitos e obrigações e nas posições contratuais do serviço que as transfere nos termos dos respetivos diplomas orgânicos e demais regimes legais aplicáveis.
 
@@ -220,7 +247,9 @@ o) Assegurar, em articulação com a DGPDN, a representação em organizações 
 
 3 - [...]
 
-###### Artigo 27.º — Referências legais
+Artigo 27.º
+
+Referências legais
 
 As referências legais feitas aos serviços objeto de fusão, mencionados no artigo anterior, consideram-se feitas aos serviços que passam a integrar as respetivas atribuições.»
 
@@ -280,15 +309,15 @@ O presente decreto-lei entra em vigor no dia 1 de julho de 2025.
 
 Visto e aprovado em Conselho de Ministros de 7 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Nuno Melo.
 
-**Promulgado em 1 de abril de 2025.**
+Promulgado em 1 de abril de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de abril de 2025.**
+Referendado em 4 de abril de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -298,7 +327,11 @@ Visto e aprovado em Conselho de Ministros de 7 de março de 2025. - Luís Monten
 
 Cargos de direção superior da administração direta
 
-|  | Número de lugares | Número de lugares |
+|  | Número de lugares |  |
 | --- | --- | --- |
-| Cargos de direção superior de 1.º grau | 7 | 7 |
+| Cargos de direção superior de 1.º grau | 7 |  |
 | Cargos de direção superior de 2.º grau | 4 | » |
+
+118927363
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl3 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:middle; } .Tbl5 { text-align:center; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:none; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:top; } .Tbl12 { text-align:center; margin-left:9px; } .Tbl13 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:none; border-right-style:none; border-left-style:none; vertical-align:bottom; }

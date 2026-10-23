@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/198/2009/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2009-488787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1643458e543e86114d2e3e257649c378b37e33a581a9ee60339376cf2ebc2a0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6270b143f30959f9516b0816070e719c58711fbb6092dfa2caa5845fb5209ad9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Multa
-- Radiactividade
 - Contra-ordenação
-- Saúde Pública
 - Euratom
 - Fiscalização
+- Instituto Tecnológico e Nuclear
+- Multa
+- Proteção do Ambiente
+- Radiactividade
+- Resíduo
+- Resíduo Radioactivo
+- Saúde Pública
 - Seguro
 - Transporte de Resíduos
-- Instituto Tecnológico e Nuclear
-- Resíduo
-- Proteção do Ambiente
-- Resíduo Radioactivo
 relationships:
 - type: amended_by
   target: pt:dre:504774:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:504774:por
+  label: "Determinada a sucessão pela autoridade reguladora competente prevista no âmbito deste diploma (Comissão Reguladora\
+    \ para a Segurança das Instalações Nucleares – COMRSIN) nas atribuições e competências do Instituto Superior Técnico,\
+    \ previstas no presente diploma, por via disposto no Dec Lei 29/2012 de 09-fev, pelo DEC LEI.156/2013.05.11.2013.MECI,\
+    \ DR.IS [214] de 05.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-2013-504774
+  date: '2013-11-05'
 - type: cites
   target: celex:31992L0003
   label: null
@@ -104,13 +112,13 @@ relationships:
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:24Z'
   warnings: []
   errors: []
 ---
@@ -365,7 +373,7 @@ Os pedidos de autorização ou de aprovação de transferência, trânsito ou re
 
 ###### Artigo 15.º — Suspensão e revogação
 
-**O presidente do ITN pode determinar a suspensão por um prazo de 90 dias, bem como revogar, a autorização da transferência, trânsito ou reenvio dos resíduos radioactivos ou combustível irradiado sempre que verifique que as operações sejam desconformes com as normas legais e regulamentares aplicáveis ou com as condições estabelecidas na respectiva autorização ou aprovação.**
+O presidente do ITN pode determinar a suspensão por um prazo de 90 dias, bem como revogar, a autorização da transferência, trânsito ou reenvio dos resíduos radioactivos ou combustível irradiado sempre que verifique que as operações sejam desconformes com as normas legais e regulamentares aplicáveis ou com as condições estabelecidas na respectiva autorização ou aprovação.
 
 ###### Artigo 16.º — Notificação
 
@@ -457,14 +465,14 @@ O presente decreto-lei é aplicável aos pedidos de autorização aprovados ou a
 
 Visto e aprovado em Conselho de Ministros de 9 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - Francisco Carlos da Graça Nunes Correia - Ana Maria Teodoro Jorge - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 11 de Agosto de 2009.**
+Promulgado em 11 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de Agosto de 2009.**
+Referendado em 14 de Agosto de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16500/0561405629.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16500/0561405629.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16500/0561405629.pdf)

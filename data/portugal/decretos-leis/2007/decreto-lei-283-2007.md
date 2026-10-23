@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/283/2007/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2007-636957
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df039c78580a076088836e0a85aa5a3ef628d278e2b8e41c85d7785779515fe2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d08dbc4e251ce31ddcbb59a868650194b22f6e40ee821b2b4a41dedc0d4f01e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
 subjects:
 - Aeronave com Motor
 - Aeronave de Voo Livre
-- Contrato de Seguro
-- Navegação Aérea
+- Aviação Civil
 - Contra-ordenação
+- Contrato de Seguro
 - Definição de Competências
-- Instituto Nacional de Aviação Civil
 - Fabrico Industrial
 - Fiscalização
 - Importação
-- Pessoal Navegante
+- Instituto Nacional de Aviação Civil
 - Licença de Pilotagem
+- Navegação Aérea
+- Pessoal Navegante
 - Qualificação Profissional
-- Aviação Civil
 - Regime Jurídico
 - Responsabilidade Civil
 - Segurança da Navegação
@@ -124,16 +124,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port
   label: null
   source: http://data.dre.pt/eli/port
+- type: cites
+  target: pt:dre:158618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 85
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:20Z'
   warnings: []
   errors: []
 ---
@@ -210,7 +258,9 @@ o) 'Zona restrita', o espaço aéreo de dimensões definidas situado sobre o ter
 
 4 - (Revogado.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -218,7 +268,9 @@ o) 'Zona restrita', o espaço aéreo de dimensões definidas situado sobre o ter
 
 3 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ....
 
@@ -238,7 +290,9 @@ g) ...
 
 2 - (Revogado.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - A emissão da PPVL é regulada nos termos do disposto nos artigos anteriores, sendo a mesma válida para o ano civil em curso.
 
@@ -250,11 +304,15 @@ g) ...
 
 5 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 A falta de qualquer das condições previstas nos artigos 14.º e 16.º, ocorrida após a emissão da licença ou das respectivas qualificações, que venha a ser constatada em verificação periódica, bem como a falta desta verificação por razão imputável ao titular da licença ou qualificação, implica o cancelamento das mesmas.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - As aeronaves de voo livre apenas podem realizar voo visual diurno abaixo do tecto das nuvens em espaço aéreo de classe G, não controlado.
 
@@ -262,11 +320,17 @@ A falta de qualquer das condições previstas nos artigos 14.º e 16.º, ocorrid
 
 3 - ...
 
-### CAPÍTULO III — [...]
+CAPÍTULO III
 
-#### SECÇÃO I — Registo, matrícula e requisitos técnicos
+[...]
 
-###### Artigo 19.º — Registo e matrícula
+SECÇÃO I
+
+Registo, matrícula e requisitos técnicos
+
+Artigo 19.º
+
+Registo e matrícula
 
 1 - ...
 
@@ -276,7 +340,9 @@ A falta de qualquer das condições previstas nos artigos 14.º e 16.º, ocorrid
 
 4 - Às aeronaves ultraleves são atribuídas marcas de nacionalidade e matrícula.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - O certificado de voo é o documento comprovativo de que as condições técnicas de aeronavegabilidade previstas no presente diploma estão cumpridas.
 
@@ -292,7 +358,9 @@ A falta de qualquer das condições previstas nos artigos 14.º e 16.º, ocorrid
 
 7 - Constitui pressuposto para a emissão do certificado de voo a inscrição no Registo Aeronáutico Nacional prevista no artigo anterior, precedida da aprovação das condições técnicas de aeronavegabilidade.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - A PU e respectivas qualificações são emitidas a favor do candidato que, mediante prestação de provas perante o INAC ou entidade por ele designada, demonstre, cumulativamente:
 
@@ -318,7 +386,9 @@ f) Ser titular de um certificado médico de aptidão de classe 2 emitido nos ter
 
 6 - A emissão das licenças restritas previstas no número anterior pode dar lugar à dispensa do cumprimento de alguns requisitos de obtenção de licenças previstos na regulamentação aplicável, conforme determinação do INAC, a publicar em regulamentação complementar.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -342,7 +412,9 @@ d) ....
 
 7 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - A instrução de voo para obtenção de uma licença, qualificação ou autorização apenas pode ser ministrada por um piloto titular de uma licença com a qualificação de instrutor.
 
@@ -352,7 +424,9 @@ d) ....
 
 4 - Os requisitos para a emissão, validade, revalidação e renovação da qualificação de instrutor são os constantes em regulamentação complementar.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
@@ -364,7 +438,9 @@ d) ....
 
 5 - O incumprimento do disposto no n.º 1, que se afere após o decurso do prazo máximo de cinco anos ali previsto, importa a caducidade da licença de pilotagem.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -382,7 +458,9 @@ d) ....
 
 8 - A renovação de licenças ou de qualificações caducadas há mais de seis meses obriga à obtenção de uma declaração de aptidão de voo emitida por uma organização de formação autorizada pelo INAC, para o efeito.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -396,7 +474,9 @@ d) ....
 
 6 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - Os proprietários dos ultraleves e os pilotos das aeronaves de voo livre e dos paramotores abrangidos pelo presente diploma têm de possuir um contrato de seguro que garanta, nos termos da legislação em vigor para o sector da aviação civil, a responsabilidade civil pelos danos previstos no n.º 1 do artigo anterior e com um limite mínimo correspondente ao estabelecido no n.º 2 do mesmo artigo.
 
@@ -404,7 +484,9 @@ d) ....
 
 3 - No caso dos pilotos de aeronaves de voo livre e de paramotores, a apólice deve ser exibida, sempre que solicitado expressamente pelas entidades fiscalizadoras, no prazo máximo de cinco dias após a data da acção de fiscalização.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 ...
 
@@ -422,7 +504,9 @@ f) [Anterior alínea e).]
 
 g) [Anterior alínea f).]
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - ...
 
@@ -530,13 +614,17 @@ j) [Anterior alínea g).]
 
 l) [Anterior alínea h).]
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - O INAC pode, de acordo com a secção ii do capítulo ii do [Decreto-Lei n.º 10/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2004-241189), de 9 de Janeiro, e com o artigo 21.º do regime geral das contra-ordenações, aprovado pelo [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 1 de Setembro, e pela [Lei n.º 109/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-2001-536642), de 24 de Dezembro, determinar a aplicação da sanção acessória de suspensão da licença de pilotagem, das respectivas qualificações ou da qualificação de instrutor, por um período não superior a dois anos, em simultâneo com a aplicação da coima correspondente às contra-ordenações previstas no n.º 1 do artigo 46.º
 
 2 - A punição por contra-ordenação pode ser publicitada, nos termos previstos no artigo 13.º do [Decreto-Lei n.º 10/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2004-241189), de 9 de Janeiro.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 ...
 
@@ -572,7 +660,9 @@ p) [Anterior alínea o).]
 
 q) [Anterior alínea p).]
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - A validade dos certificados de voo das aeronaves ultraleves é regulada nos termos do disposto no artigo 70.º do regulamento aprovado pelo INAC que estabelece as regras de construção, certificação e operação de aeronaves ultraleves.
 
@@ -614,11 +704,15 @@ i) 'VFR' as regras de voo visual;
 
 j) 'VSO' a velocidade mínima em voo nivelado.
 
-###### Artigo 2.º-A — Tipos e classes de aeronaves
+Artigo 2.º-A
+
+Tipos e classes de aeronaves
 
 Os diversos tipos ou classes de aeronaves de voo livre e ultraleves encontram-se definidos em regulamentação aprovada pelo INAC.
 
-###### Artigo 12.º-A — Aptidão física e mental
+Artigo 12.º-A
+
+Aptidão física e mental
 
 1 - Os titulares de licença de piloto de voo livre, bem como os candidatos à sua obtenção, apenas podem exercer as actividades previstas nos artigos 11.º e 14.º, desde que obtenham prova da sua aptidão física e mental por meio de:
 
@@ -628,13 +722,17 @@ b) Exame de avaliação médico-desportiva com decisão médica favorável, vál
 
 2 - O exame de avaliação médico-desportiva referido na alínea b) do número anterior é válido durante o ano civil em que tenha sido efectuado ou durante o ano civil subsequente, se tiver sido efectuado no decurso do mês de Dezembro.
 
-###### Artigo 31.º-A — Instrutores de matérias teóricas
+Artigo 31.º-A
+
+Instrutores de matérias teóricas
 
 1 - A instrução teórica pode ser ministrada por um instrutor de voo ou ainda por um técnico de reconhecida competência nas matérias que leccione.
 
 2 - Os instrutores de matérias teóricas devem ter formação pedagógica adequada.
 
-###### Artigo 36.º-A — Circulação de aeronaves comunitárias e estrangeiras
+Artigo 36.º-A
+
+Circulação de aeronaves comunitárias e estrangeiras
 
 1 - A circulação de aeronaves ultraleves comunitárias e estrangeiras no espaço aéreo português depende das seguintes condições cumulativas:
 
@@ -718,43 +816,57 @@ b) Quando for obrigatória a sujeição da aeronave a um plano de voo, submetê-
 
 Quadro (*)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/15500/0520705225.pdf))](https://files.diariodarepublica.pt/1s/2007/08/15500/0520705225.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/15500/0520705225.pdf)
 
-###### Artigo 3.º — Norma revogatória
+Artigo 3.º
+
+Norma revogatória
 
 São revogados os n.os 2, 3 e 4 do artigo 2.º, o n.º 2 do artigo 12.º, o n.º 2 do artigo 19.º, a alínea a) do n.º 4 do artigo 27.º, as alíneas b) e d) do artigo 49.º e os n.os 2 e 5 do artigo 51.º do [Decreto-Lei n.º 238/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2004-218363), de 18 de Dezembro.
 
-###### Artigo 4.º — Republicação
+Artigo 4.º
+
+Republicação
 
 É republicado, em anexo, que é parte integrante do presente decreto-lei, o [Decreto-Lei n.º 238/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2004-218363), de 18 de Dezembro, com a redacção actual.
 
-###### Artigo 5.º — Entrada em vigor
+Artigo 5.º
+
+Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Henrique Nuno Pires Severiano Teixeira - José Manuel Santos de Magalhães - Emanuel Augusto dos Santos - Alberto Bernardes Costa - Mário Lino Soares Correia.
 
-**Promulgado em 5 de Julho de 2007.**
+Promulgado em 5 de Julho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Julho de 2007.**
+Referendado em 9 de Julho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-## ANEXO — (republicação do [Decreto-Lei n.º 238/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2004-218363), de 18 de Dezembro)
+ANEXO
 
-### CAPÍTULO I — Disposições gerais
+(republicação do [Decreto-Lei n.º 238/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2004-218363), de 18 de Dezembro)
 
-###### Artigo 1.º — Âmbito de aplicação
+CAPÍTULO I
+
+Disposições gerais
+
+Artigo 1.º
+
+Âmbito de aplicação
 
 1 - O presente diploma regula a utilização de aeronaves civis de voo livre e de ultraleves.
 
 2 - Excluem-se do âmbito deste diploma as aeronaves mais leves que o ar, designadamente balões e dirigíveis com ou sem motor auxiliar.
 
-###### Artigo 1.º-A — Abreviaturas
+Artigo 1.º-A
+
+Abreviaturas
 
 Para efeitos do presente diploma, entende-se por:
 
@@ -778,7 +890,9 @@ i) «VFR» as regras de voo visual;
 
 j) «VSO» a velocidade mínima em voo nivelado.
 
-###### Artigo 2.º — Definições
+Artigo 2.º
+
+Definições
 
 1 - Para os efeitos do presente diploma, entende-se por:
 
@@ -822,11 +936,15 @@ o) «Zona restrita» o espaço aéreo de dimensões definidas situado sobre o te
 
 4 - (Revogado.)
 
-###### Artigo 2.º- A — Tipos e classes de aeronaves
+Artigo 2.º- A
+
+Tipos e classes de aeronaves
 
 Os diversos tipos ou classes de aeronaves de voo livre e ultraleves encontram-se definidos em regulamentação aprovada pelo INAC.
 
-###### Artigo 3.º — Condições gerais de utilização
+Artigo 3.º
+
+Condições gerais de utilização
 
 1 - As aeronaves de voo livre e os ultraleves só podem ser utilizados em actividades de desporto e recreio.
 
@@ -842,17 +960,23 @@ a) Os ultraleves utilizados devem ser propriedade das entidades ali referidas;
 
 b) A realização das actividades previstas no n.º 4 carece de autorização prévia do INAC.
 
-###### Artigo 4.º — Uso de substâncias psicoactivas
+Artigo 4.º
+
+Uso de substâncias psicoactivas
 
 Os titulares das licenças, qualificações e autorizações previstas neste diploma não podem exercer as actividades por elas tituladas quando se encontrem sob a influência de quaisquer substâncias psicoactivas ou medicamentos que possam afectar a sua capacidade de exercê-las de forma segura e adequada.
 
-###### Artigo 5.º — Registo de experiência
+Artigo 5.º
+
+Registo de experiência
 
 1 - O titular de uma licença de piloto de ultraleve e voo livre deve manter um registo fiável da sua experiência de voo.
 
 2 - O registo de experiência referido no número anterior deve ser efectuado através do preenchimento de uma caderneta individual, cujo modelo e modo de preenchimento são definidos em regulamentação complementar.
 
-###### Artigo 6.º — Limitação ou suspensão das licenças, qualificações, autorizações e certificados
+Artigo 6.º
+
+Limitação ou suspensão das licenças, qualificações, autorizações e certificados
 
 1 - O INAC pode, por razões de segurança devidamente fundamentadas, emitir as licenças, as qualificações, as autorizações e os certificados previstos no presente diploma, impondo limitações às competências dos seus titulares e ao exercício das actividades tituladas.
 
@@ -862,13 +986,17 @@ Os titulares das licenças, qualificações e autorizações previstas neste dip
 
 4 - As limitações determinadas pelo INAC ao exercício das competências dos titulares de licenças, qualificações, autorizações e certificados previstos no presente diploma são averbadas nos referidos documentos.
 
-###### Artigo 7.º — Licenças, qualificações e autorizações estrangeiras
+Artigo 7.º
+
+Licenças, qualificações e autorizações estrangeiras
 
 1 - As licenças, qualificações e autorizações de pilotos de voo livre e de ultraleves e as autorizações de organizações de formação emitidos por outras autoridades aeronáuticas podem ser validadas pelo INAC, mediante requerimento do seu titular, desde que haja um acordo entre o INAC e a autoridade aeronáutica emissora estabelecido com base na reciprocidade de aceitação, e desde que se assegure um nível de segurança equivalente entre os requisitos exigidos em Portugal e os exigidos por essa autoridade aeronáutica.
 
 2 - As acções de formação ministradas por organizações de formação autorizadas por outras autoridades aeronáuticas podem ser reconhecidas pelo INAC para efeitos de licenciamento dos pilotos de voo livre e ultraleves, desde que seja demonstrada a necessidade de recurso à formação ministrada por essas organizações e estejam preenchidos os requisitos previstos no presente diploma e regulamentação complementar para as organizações e para a formação em causa.
 
-###### Artigo 8.º — Delegação
+Artigo 8.º
+
+Delegação
 
 1 - As competências do conselho de administração do INAC previstas neste diploma podem ser objecto de delegação a outras entidades, nomeadamente aeroclubes, associações ou federações de âmbito aeronáutico, nos termos da lei.
 
@@ -876,11 +1004,17 @@ Os titulares das licenças, qualificações e autorizações previstas neste dip
 
 3 - Nos casos em que o exercício das competências delegadas der origem à cobrança de taxas, nos termos deste diploma, deve a receita das mesmas reverter para a entidade delegada.
 
-### CAPÍTULO II — Das aeronaves de voo livre
+CAPÍTULO II
 
-#### SECÇÃO I — Requisitos técnicos
+Das aeronaves de voo livre
 
-###### Artigo 9.º — Requisitos técnicos
+SECÇÃO I
+
+Requisitos técnicos
+
+Artigo 9.º
+
+Requisitos técnicos
 
 1 - As aeronaves de voo livre devem cumprir os requisitos de homologação definidos pela legislação em vigor e ainda os que forem determinados por entidades certificadoras reconhecidas pelo INAC.
 
@@ -890,13 +1024,19 @@ Os titulares das licenças, qualificações e autorizações previstas neste dip
 
 4 - Não é permitida a operação da aeronave sem o cumprimento do disposto nos números anteriores.
 
-###### Artigo 10.º — Suspensão de operação da aeronave
+Artigo 10.º
+
+Suspensão de operação da aeronave
 
 Logo que, por ocorrência acidental, insuficiência de apropriada manutenção ou outra causa, qualquer dos requisitos técnicos exigíveis nos termos da legislação aplicável deixe de se verificar, não pode a aeronave ser utilizada, devendo ser suspensa qualquer operação.
 
-#### SECÇÃO II — Pilotagem, organizações de formação e instrução
+SECÇÃO II
 
-###### Artigo 11.º — Pilotagem
+Pilotagem, organizações de formação e instrução
+
+Artigo 11.º
+
+Pilotagem
 
 1 - As aeronaves de voo livre só podem ser pilotadas por titulares de licença de pilotagem válida, sem prejuízo do disposto no número seguinte.
 
@@ -904,7 +1044,9 @@ Logo que, por ocorrência acidental, insuficiência de apropriada manutenção o
 
 3 - Os modelos das licenças e dos cartões de aluno-piloto, bem como as condições para a obtenção e emissão deste último, são publicados em regulamentação complementar.
 
-###### Artigo 12.º — Requisitos para a obtenção de licenças de pilotagem de voo livre
+Artigo 12.º
+
+Requisitos para a obtenção de licenças de pilotagem de voo livre
 
 1 - A licença de pilotagem de voo livre e respectivas qualificações são emitidas a favor do candidato que, mediante prestação de provas perante o INAC ou entidade por ele designada, demonstre, cumulativamente:
 
@@ -924,7 +1066,9 @@ g) Fazer prova de ter celebrado o contrato de seguro previsto no artigo 41.º
 
 2 - (Revogado.)
 
-###### Artigo 12.º-A — Aptidão física e mental
+Artigo 12.º-A
+
+Aptidão física e mental
 
 1 - Os titulares de licença de piloto de voo livre, bem como os candidatos à sua obtenção apenas podem exercer as actividades previstas nos artigos 11.º e 14.º, desde que obtenham prova da sua aptidão física e mental por meio de:
 
@@ -934,7 +1078,9 @@ b) Exame de avaliação médico-desportiva com decisão médica favorável, vál
 
 2 - O exame de avaliação médico-desportiva referido na alínea b) do número anterior é válido durante o ano civil em que tenha sido efectuado ou durante o ano civil subsequente, se tiver sido efectuado no decurso do mês de Dezembro.
 
-###### Artigo 13.º — Autorização de organizações de formação
+Artigo 13.º
+
+Autorização de organizações de formação
 
 1 - As organizações que pretendam ministrar instrução de conhecimentos teóricos e de voo para a emissão de licenças de pilotos de voo livre, ou de qualificações inerentes às licenças atrás referidas, estão sujeitas a autorização e registo no INAC.
 
@@ -944,7 +1090,9 @@ b) Exame de avaliação médico-desportiva com decisão médica favorável, vál
 
 4 - No caso de se verificar que o titular da autorização referida no n.º 1 não cumpre os requisitos para a sua manutenção, estabelecidos em regulamentação complementar, o INAC pode suspender ou cancelar a autorização.
 
-###### Artigo 14.º — Instrução
+Artigo 14.º
+
+Instrução
 
 1 - Os candidatos à aprendizagem devem ter, no mínimo, 16 anos de idade e, como habilitação mínima, ter concluído a escolaridade obrigatória.
 
@@ -958,11 +1106,15 @@ b) Exame de avaliação médico-desportiva com decisão médica favorável, vál
 
 6 - As autorizações de examinador são válidas por um período definido pelo INAC, não superior a três anos, podendo ser revalidadas por igual período se, estando cumpridas as condições para a sua emissão inicial, o requerente tiver exercido as funções de examinador pelo menos uma vez em cada ano do período de validade da autorização.
 
-###### Artigo 15.º — Emissão de licenças de pilotagem
+Artigo 15.º
+
+Emissão de licenças de pilotagem
 
 Compete ao INAC a emissão das licenças e qualificações de pilotagem de voo livre.
 
-###### Artigo 16.º — Licenças e qualificações para piloto de voo livre
+Artigo 16.º
+
+Licenças e qualificações para piloto de voo livre
 
 1 - A emissão da PPVL é regulada nos termos do disposto nos artigos anteriores, sendo a mesma válida para o ano civil em curso.
 
@@ -974,13 +1126,19 @@ Compete ao INAC a emissão das licenças e qualificações de pilotagem de voo l
 
 5 - A pilotagem de aeronaves de voo livre com outro ocupante é objecto de uma qualificação específica.
 
-###### Artigo 17.º — Cancelamento de licenças ou qualificações de pilotagem
+Artigo 17.º
+
+Cancelamento de licenças ou qualificações de pilotagem
 
 A falta de qualquer das condições previstas nos artigos 14.º e 16.º, ocorrida após a emissão da licença ou das respectivas qualificações, que venha a ser constatada em verificação periódica, bem como a falta desta verificação por razão imputável ao titular da licença ou qualificação, implica o cancelamento das mesmas.
 
-#### SECÇÃO III — Da operação das aeronaves de voo livre
+SECÇÃO III
 
-###### Artigo 18.º — Condições de operação
+Da operação das aeronaves de voo livre
+
+Artigo 18.º
+
+Condições de operação
 
 1 - As aeronaves de voo livre apenas podem realizar voo visual diurno abaixo do tecto das nuvens em espaço aéreo de classe G, não controlado.
 
@@ -988,11 +1146,17 @@ A falta de qualquer das condições previstas nos artigos 14.º e 16.º, ocorrid
 
 3 - As operações de descolagem e aterragem das aeronaves de voo livre e a sua circulação no espaço aéreo, nos termos dos números anteriores, bem como as condições de autorização da operação prevista no número anterior, estão sujeitas às restrições operacionais e às regras de voo estabelecidas em legislação aplicável e regulamentação complementar.
 
-### CAPÍTULO III — Dos ultraleves
+CAPÍTULO III
 
-#### SECÇÃO I — Registo, matrícula e requisitos técnicos
+Dos ultraleves
 
-###### Artigo 19.º — Registo e matrícula
+SECÇÃO I
+
+Registo, matrícula e requisitos técnicos
+
+Artigo 19.º
+
+Registo e matrícula
 
 1 - Os ultraleves são obrigatoriamente inscritos no Registo Aeronáutico Nacional pelos respectivos proprietários e em nome dos mesmos.
 
@@ -1002,7 +1166,9 @@ A falta de qualquer das condições previstas nos artigos 14.º e 16.º, ocorrid
 
 4 - Às aeronaves ultraleves são atribuídas marcas de nacionalidade e matrícula.
 
-###### Artigo 20.º — Certificado de voo
+Artigo 20.º
+
+Certificado de voo
 
 1 - O certificado de voo é o documento comprovativo de que as condições técnicas de aeronavegabilidade previstas no presente diploma estão cumpridas.
 
@@ -1018,13 +1184,17 @@ A falta de qualquer das condições previstas nos artigos 14.º e 16.º, ocorrid
 
 7 - Constitui pressuposto para a emissão de certificado de voo a inscrição no Registo Aeronáutico Nacional prevista no artigo anterior, precedida da aprovação das condições técnicas de aeronavegabilidade.
 
-###### Artigo 21.º — Termo de responsabilidade
+Artigo 21.º
+
+Termo de responsabilidade
 
 1 - A documentação descritiva das características técnicas de cada ultraleve é sempre acompanhada de termo de responsabilidade pela respectiva exactidão, subscrito pelo construtor.
 
 2 - Nos casos em que não é possível a apresentação da documentação exigida nos termos do número anterior, o certificado de voo é emitido mediante provas de resistência estrutural e ensaios de voo da aeronave determinados pelo INAC, sendo os correspondentes encargos suportados pelo requerente.
 
-###### Artigo 22.º — Suspensão e cancelamento do certificado de voo
+Artigo 22.º
+
+Suspensão e cancelamento do certificado de voo
 
 1 - A validade do certificado de voo é suspensa logo que, por ocorrência de acidente, insuficiência de apropriada manutenção ou qualquer outra causa, deixe de se verificar o cumprimento dos requisitos técnicos exigidos nos termos do presente diploma e regulamentação complementar.
 
@@ -1038,15 +1208,21 @@ b) Quando haja exportação definitiva da aeronave.
 
 4 - Compete ao INAC cancelar ou suspender o certificado de voo.
 
-###### Artigo 23.º — Documentos da aeronave
+Artigo 23.º
+
+Documentos da aeronave
 
 1 - São documentos da aeronave o certificado de voo o diário de navegação e a caderneta do motor.
 
 2 - Os documentos referidos no número anterior devem estar a bordo da aeronave, com excepção da caderneta do motor.
 
-#### SECÇÃO II — Da pilotagem, organizações de formação e instrução
+SECÇÃO II
 
-###### Artigo 24.º — Pilotagem
+Da pilotagem, organizações de formação e instrução
+
+Artigo 24.º
+
+Pilotagem
 
 1 - Os ultraleves só podem ser pilotados por titulares de licença de pilotagem de ultraleves válida, associada a um certificado médico de classe 2, emitido nos termos do [Decreto-Lei n.º 250/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2003-481732), de 11 de Outubro, igualmente válido, devendo os pilotos ser portadores destes documentos.
 
@@ -1054,7 +1230,9 @@ b) Quando haja exportação definitiva da aeronave.
 
 3 - Os modelos das licenças e dos cartões de aluno-piloto, bem como as condições de obtenção deste último, são publicados em regulamentação complementar.
 
-###### Artigo 25.º — Requisitos para a obtenção da licença de pilotagem de ultraleves
+Artigo 25.º
+
+Requisitos para a obtenção da licença de pilotagem de ultraleves
 
 1 - A PU e respectivas qualificações são emitidas a favor do candidato que, mediante prestação de provas perante o INAC ou entidade por ele designada, demonstre, cumulativamente:
 
@@ -1080,7 +1258,9 @@ f) Ser titular de um certificado médico de aptidão de classe 2, emitido nos te
 
 6 - A emissão das licenças restritas previstas no número anterior pode dar lugar à dispensa do cumprimento de alguns requisitos de obtenção de licenças previstos na regulamentação aplicável, conforme determinação do INAC a publicar em regulamentação complementar.
 
-###### Artigo 26.º — Autorização de organizações de formação
+Artigo 26.º
+
+Autorização de organizações de formação
 
 1 - As organizações que pretendam ministrar instrução de conhecimentos teóricos e de voo para a emissão de licenças de pilotos de ultraleve, ou de qualificações inerentes às licenças atrás referidas, estão sujeitas a autorização e registo no INAC.
 
@@ -1094,7 +1274,9 @@ f) Ser titular de um certificado médico de aptidão de classe 2, emitido nos te
 
 6 - O INAC mantém um registo actualizado das organizações de formação autorizadas nos termos do presente artigo.
 
-###### Artigo 27.º — Instrução
+Artigo 27.º
+
+Instrução
 
 1 - Os candidatos à aprendizagem devem ter, no mínimo, 17 anos de idade e, como habilitação mínima, ter concluído a escolaridade obrigatória.
 
@@ -1122,11 +1304,15 @@ a) Ser titular de uma licença de âmbito igual ou superior à que o examinando 
 
 b) Ser titular de uma qualificação de instrutor para a formação de qualificação igual à que o examinando pretende obter.
 
-###### Artigo 28.º — Emissão de licenças de pilotagem
+Artigo 28.º
+
+Emissão de licenças de pilotagem
 
 Compete ao INAC a emissão, reemissão, renovação, revalidação e alteração das licenças de pilotagem de ultraleves.
 
-###### Artigo 29.º — Qualificações para piloto de ultraleve
+Artigo 29.º
+
+Qualificações para piloto de ultraleve
 
 1 - O exercício das actividades objecto do licenciamento referido no artigo anterior está condicionado à titularidade de qualificações adequadas, nos termos do presente diploma.
 
@@ -1142,7 +1328,9 @@ c) De instrutor;
 
 d) De radiotelefonia.
 
-###### Artigo 30.º — Qualificações de classe e de tipo
+Artigo 30.º
+
+Qualificações de classe e de tipo
 
 1 - As qualificações de classe limitam o exercício das actividades de piloto a grupos de aeronaves semelhantes com características técnicas ou de operação afins.
 
@@ -1150,7 +1338,9 @@ d) De radiotelefonia.
 
 3 - Os requisitos para a emissão, validade, revalidação e renovação das qualificações de classe ou de tipo são estabelecidos em regulamentação complementar.
 
-###### Artigo 31.º — Qualificações de instrutor
+Artigo 31.º
+
+Qualificações de instrutor
 
 1 - A instrução de voo para obtenção de uma licença, qualificação ou autorização apenas pode ser ministrada por um piloto titular de uma licença com a qualificação de instrutor.
 
@@ -1160,19 +1350,25 @@ d) De radiotelefonia.
 
 4 - Os requisitos para a emissão, validade, revalidação e renovação da qualificação de instrutor são os constantes em regulamentação complementar.
 
-###### Artigo 31.º-A — Instrutores de matérias teóricas
+Artigo 31.º-A
+
+Instrutores de matérias teóricas
 
 1 - A instrução teórica pode ser ministrada por um instrutor de voo ou ainda por um técnico de reconhecida competência nas matérias que leccione.
 
 2 - Os instrutores de matérias teóricas devem ter formação pedagógica adequada.
 
-###### Artigo 32.º — Qualificações de radiotelefonia
+Artigo 32.º
+
+Qualificações de radiotelefonia
 
 1 - As qualificações de radiotelefonia habilitam o piloto a operar uma estação de serviço móvel aeronáutico a bordo de uma aeronave ultraleve.
 
 2 - Os requisitos para a emissão da qualificação de radiotelefonia são os constantes de regulamentação complementar.
 
-###### Artigo 33.º — Validade das licenças, das qualificações e do certificado de aptidão médica
+Artigo 33.º
+
+Validade das licenças, das qualificações e do certificado de aptidão médica
 
 1 - As licenças de pilotagem de ultraleves são obrigatoriamente apresentadas ao INAC num prazo máximo de cinco anos, para verificação da manutenção das condições da sua validade e respectiva reemissão.
 
@@ -1184,7 +1380,9 @@ d) De radiotelefonia.
 
 5 - O incumprimento do disposto no n.º 1, que se afere após o decurso do prazo máximo de cinco anos ali previsto, importa a caducidade da licença de pilotagem.
 
-###### Artigo 34.º — Reemissão e revalidação
+Artigo 34.º
+
+Reemissão e revalidação
 
 1 - A reemissão da licença de pilotagem é feita mediante a verificação, pelo INAC, da validade das qualificações averbadas e da conformidade da licença com os dados que mantém em registo.
 
@@ -1208,7 +1406,9 @@ c) Aprovação em verificação de proficiência feita por um examinador autoriz
 
 8 - A renovação de licenças ou de qualificações caducadas há mais de seis meses obriga à obtenção de uma declaração de aptidão de voo emitida por uma organização de formação autorizada pelo INAC, para o efeito.
 
-###### Artigo 35.º — Suspensão e cancelamento de licenças de pilotagem
+Artigo 35.º
+
+Suspensão e cancelamento de licenças de pilotagem
 
 1 - A falta de qualquer das condições de aptidão exigidas no artigo 25.º, ocorrida após a emissão da licença de pilotagem ou constatada em verificação periódica, bem como a falta desta por razão imputável ao seu titular, implica a suspensão imediata da sua validade.
 
@@ -1216,9 +1416,13 @@ c) Aprovação em verificação de proficiência feita por um examinador autoriz
 
 3 - A renovação das licenças canceladas nos termos do número anterior é objecto de regulamentação complementar.
 
-#### SECÇÃO III — Da operação dos ultraleves
+SECÇÃO III
 
-###### Artigo 36.º — Condições de operação
+Da operação dos ultraleves
+
+Artigo 36.º
+
+Condições de operação
 
 1 - Os ultraleves só podem ser operados desde que possuam o respectivo certificado de voo válido nos termos do disposto no artigo 20.º, bem como o certificado de seguro previsto no artigo 41.º
 
@@ -1232,7 +1436,9 @@ c) Aprovação em verificação de proficiência feita por um examinador autoriz
 
 6 - Um piloto de ultraleve só pode operar transportando outro ocupante após ter efectuado, no mínimo, trinta horas de voo.
 
-###### Artigo 36.º-A — Circulação de aeronaves comunitárias e estrangeiras
+Artigo 36.º-A
+
+Circulação de aeronaves comunitárias e estrangeiras
 
 1 - A circulação de aeronaves ultraleves comunitárias e estrangeiras no espaço aéreo português depende das seguintes condições cumulativas:
 
@@ -1268,11 +1474,17 @@ e) Identificação do local ou aeródromo a partir do qual decorre a operação 
 
 8 - Excepcionalmente, e sempre que não for possível cumprir os requisitos previstos no presente artigo, por força dos regimes jurídicos aplicáveis no Estado de nacionalidade das aeronaves cuja utilização deva ocorrer no espaço aéreo português, pode o INAC autorizar a operação das mesmas, casuisticamente, atendendo à fundamentação apresentada para a autorização em causa e tendo por referência os princípios básicos em matéria de segurança, contidos no presente diploma.
 
-### CAPÍTULO IV — Do fabrico nacional e importação de aeronaves ultraleves
+CAPÍTULO IV
 
-#### SECÇÃO I — Do fabrico nacional
+Do fabrico nacional e importação de aeronaves ultraleves
 
-###### Artigo 37.º — Autorização das organizações de fabrico
+SECÇÃO I
+
+Do fabrico nacional
+
+Artigo 37.º
+
+Autorização das organizações de fabrico
 
 1 - O fabrico nacional de aeronaves ultraleves para fins comerciais só pode ser realizado por organizações devidamente autorizadas pelo INAC.
 
@@ -1284,15 +1496,21 @@ e) Identificação do local ou aeródromo a partir do qual decorre a operação 
 
 5 - Para os efeitos do disposto no presente capítulo, consideram-se aeronaves importadas todas aquelas cujo modelo não tenha sido aprovado nos termos do artigo seguinte.
 
-###### Artigo 38.º — Aprovação do modelo da aeronave
+Artigo 38.º
+
+Aprovação do modelo da aeronave
 
 1 - O projecto da aeronave, o modelo e os seus componentes carecem de aprovação emitida pelo INAC.
 
 2 - As condições de aprovação do modelo são definidas em regulamentação complementar.
 
-#### SECÇÃO II — Da importação
+SECÇÃO II
 
-###### Artigo 39.º — Importação de aeronaves
+Da importação
+
+Artigo 39.º
+
+Importação de aeronaves
 
 1 - A importação de aeronaves implica a prévia homologação do respectivo modelo pelo INAC.
 
@@ -1300,15 +1518,21 @@ e) Identificação do local ou aeródromo a partir do qual decorre a operação 
 
 3 - Para os efeitos de comercialização, o vendedor é responsável pelo fornecimento de toda a documentação necessária à aprovação, operação e manutenção da aeronave.
 
-### CAPÍTULO V — Da responsabilidade
+CAPÍTULO V
 
-###### Artigo 40.º — Responsabilidade por danos a terceiros
+Da responsabilidade
+
+Artigo 40.º
+
+Responsabilidade por danos a terceiros
 
 1 - Os proprietários dos ultraleves e os pilotos das aeronaves de voo livre abrangidos pelo presente diploma são responsáveis, independentemente de culpa, pelo ressarcimento dos danos causados a terceiros pela aeronave, salvo se o acidente se tiver ficado a dever a culpa exclusiva do lesado.
 
 2 - A responsabilidade estabelecida no número anterior, quando não haja culpa do proprietário ou piloto, tem por limite máximo o montante estabelecido na legislação em vigor para o sector da aviação civil.
 
-###### Artigo 41.º — Seguros
+Artigo 41.º
+
+Seguros
 
 1 - Os proprietários dos ultraleves e os pilotos das aeronaves de voo livre e dos paramotores abrangidos pelo presente diploma têm de possuir um contrato de seguro que garanta, nos termos da legislação em vigor para o sector da aviação civil, a responsabilidade civil pelos danos previstos no n.º 1 do artigo anterior e com um limite mínimo correspondente ao estabelecido no n.º 2 do mesmo artigo.
 
@@ -1316,9 +1540,13 @@ e) Identificação do local ou aeródromo a partir do qual decorre a operação 
 
 3 - No caso dos pilotos de aeronaves de voo livre e de paramotores, a apólice deve ser exibida, sempre que solicitado expressamente pelas entidades fiscalizadoras, no prazo máximo de cinco dias após a data da acção de fiscalização.
 
-### CAPÍTULO VI — Da fiscalização e contra-ordenações
+CAPÍTULO VI
 
-###### Artigo 42.º — Fiscalização
+Da fiscalização e contra-ordenações
+
+Artigo 42.º
+
+Fiscalização
 
 São competentes para a fiscalização das actividades abrangidas pelo presente diploma as entidades seguintes:
 
@@ -1336,13 +1564,17 @@ f) Guarda Nacional Republicana, Polícia de Segurança Pública, órgãos da aut
 
 g) Outras entidades nas quais o INAC tenha delegado as competências previstas neste diploma, nos termos do artigo 8.º
 
-###### Artigo 43.º — Participação e denúncia
+Artigo 43.º
+
+Participação e denúncia
 
 1 - Sempre que qualquer das entidades referidas no artigo anterior tiver presenciado factos que constituam infracção ao disposto no presente diploma, deve participá-los por escrito ao INAC, no prazo máximo de oito dias úteis, com indicação dos factos, do local, dia e hora em que ocorreram, da identidade das pessoas envolvidas e, se possível, de testemunhas, até ao limite máximo de cinco por cada infracção, que possam depor sobre os mesmos factos.
 
 2 - Quando haja testemunhas presenciais dos factos descritos, o participante pode tomar os seus depoimentos por escrito, os quais, depois de assinados, são anexados à participação.
 
-###### Artigo 44.º — Apreensão cautelar
+Artigo 44.º
+
+Apreensão cautelar
 
 1 - O INAC, na qualidade de entidade competente para aplicar as coimas, pode, nos termos do artigo 28.º do [Decreto-Lei n.º 10/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2004-241189), de 9 de Janeiro, que aprova o regime das contra-ordenações aeronáuticas civis, determinar a apreensão cautelar da aeronave quando esta não se encontra certificada, quando não for exibida a apólice de seguro obrigatório e ainda por razões de segurança devidamente fundamentadas, nomeadamente quando haja indícios de ter havido alterações estruturais da aeronave que ponham em risco a segurança de voo.
 
@@ -1352,11 +1584,15 @@ g) Outras entidades nas quais o INAC tenha delegado as competências previstas n
 
 4 - Todos os custos decorrentes das medidas adoptadas nos termos deste artigo correm por conta do proprietário da aeronave.
 
-###### Artigo 45.º — Medidas cautelares
+Artigo 45.º
+
+Medidas cautelares
 
 O INAC pode determinar, como medida cautelar, e por prazo não superior a seis meses, a suspensão de licenças ou qualificações de pilotagem ou da qualificação de instrutor, por razões de segurança de voo devidamente fundamentadas, nomeadamente quando sejam violadas as condições das operações das aeronaves previstas neste diploma e em regulamentação complementar.
 
-###### Artigo 46.º — Contra-ordenações
+Artigo 46.º
+
+Contra-ordenações
 
 1 - Constitui contra-ordenação aeronáutica civil muito grave:
 
@@ -1464,7 +1700,9 @@ j) A operação de um ultraleve com o certificado de voo em mau estado de conser
 
 l) A operação de uma aeronave por um piloto com a licença de pilotagem em mau estado de conservação por forma a tornar ilegível algum dos seus elementos.
 
-###### Artigo 47.º — Processamento das contra-ordenações
+Artigo 47.º
+
+Processamento das contra-ordenações
 
 1 - Compete ao INAC, nos termos do [Decreto-Lei n.º 133/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1998-522380), de 15 de Maio, alterado pelo [Decreto-Lei n.º 145/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2002-158618), de 21 de Maio, instaurar e instruir os processos de contra-ordenação, bem como proceder à aplicação das coimas e das sanções acessórias.
 
@@ -1472,15 +1710,21 @@ l) A operação de uma aeronave por um piloto com a licença de pilotagem em mau
 
 3 - O montante das coimas cobradas pelo INAC em execução do presente decreto-lei reverte para este Instituto, para as entidades participantes previstas no artigo 42.º e para o Estado nas percentagens de 30 %, 10 % e 60 %, respectivamente.
 
-###### Artigo 48.º — Sanções acessórias
+Artigo 48.º
+
+Sanções acessórias
 
 1 - O INAC pode, de acordo com a secção ii do capítulo ii do [Decreto-Lei n.º 10/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2004-241189), de 9 de Janeiro, com o artigo 21.º do regime geral das contra-ordenações, aprovado pelo [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 1 de Setembro, e pela [Lei n.º 109/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-2001-536642), de 24 de Dezembro, determinar a aplicação da sanção acessória de suspensão da licença de pilotagem, das respectivas qualificações ou da qualificação de instrutor, por um período não superior a dois anos, em simultâneo com a aplicação da coima correspondente às contra-ordenações previstas no n.º 1 do artigo 46.º
 
 2 - A punição por contra-ordenação pode ser publicitada, nos termos previstos no artigo 13.º do [Decreto-Lei n.º 10/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2004-241189), de 9 de Janeiro.
 
-### CAPÍTULO VII — Disposições finais e transitórias
+CAPÍTULO VII
 
-###### Artigo 49.º — Taxas
+Disposições finais e transitórias
+
+Artigo 49.º
+
+Taxas
 
 São devidas taxas, de montantes a fixar por portaria do ministro responsável pelo sector da aviação civil:
 
@@ -1516,11 +1760,15 @@ p) Pela homologação do modelo da aeronave;
 
 q) Pelo termo de abertura e autenticação da caderneta de voo individual de registo de experiência, diário de navegação e caderneta de motor.
 
-###### Artigo 50.º — Regulamentação
+Artigo 50.º
+
+Regulamentação
 
 Em cumprimento das remissões contidas no presente diploma para regulamentação complementar, é aprovado apenas um regulamento próprio do INAC para cada uma das categorias estabelecidas no n.º 1 do artigo 1.º do presente diploma.
 
-###### Artigo 51.º — Disposições transitórias
+Artigo 51.º
+
+Disposições transitórias
 
 1 - A validade dos certificados de voo das aeronaves ultraleves é regulada nos termos do disposto no artigo 70.º do regulamento aprovado pelo INAC que estabelece as regras de construção, certificação e operação de aeronaves ultraleves.
 
@@ -1532,11 +1780,15 @@ Em cumprimento das remissões contidas no presente diploma para regulamentação
 
 5 - (Revogado.)
 
-###### Artigo 52.º — Norma revogatória
+Artigo 52.º
+
+Norma revogatória
 
 São revogados o [Decreto-Lei n.º 71/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1990-332403), de 2 de Março, e a [Portaria n.º 45/94](https://diariodarepublica.pt/dr/detalhe/portaria/45-1994-509611), de 14 de Janeiro.
 
-## ANEXO — Regras de voo visual
+ANEXO
+
+Regras de voo visual
 
 1 - À excepção dos voos VFR especiais, os voos VFR devem ser conduzidos de forma que a aeronave voe em condições de visibilidade e distância das nuvens iguais ou superiores às especificadas no quadro.
 
@@ -1580,4 +1832,4 @@ b) Quando for obrigatória a sujeição da aeronave a um plano de voo, submeter 
 
 Quadro (*)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/15500/0520705225.pdf))](https://files.diariodarepublica.pt/1s/2007/08/15500/0520705225.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/15500/0520705225.pdf)

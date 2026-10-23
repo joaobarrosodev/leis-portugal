@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/143-1976-501647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T04:57:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f53923d042360161b8efee6bf076513f9893ebcd79e917674bcbae7276ab90b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b30bc906aedebe5664a8085182b37d68b517a460ddbd57ed4ac7f72fab94978
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:57:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Administrativa
+- Comissão Central da Corporação Geral dos Pilotos
+- Definição de Competências
+- Direcção Geral do Pessoal do MAR
+- Direcção Geral dos Serviços de Fomento Marítimo
+- Diretor Geral
+- Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e das Ilhas Adjacentes
+- Transferência de Competências
+relationships:
+- type: cites
+  target: pt:dre:312232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480741:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:57:25Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +119,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha 
 
 1.º O artigo 117.º, a alínea c) do n.º 4.º, o n.º 7.º e o § 2.º do artigo 118.º, o n.º 4.º do artigo 123.º e o corpo do artigo 124.º do Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e das Ilhas Adjacentes, aprovado pelo [Decreto n.º 41668](https://diariodarepublica.pt/dr/detalhe/decreto/41668-1958-353078), de 7 de Junho de 1958, passam a ter a seguinte redacção:
 
-###### Art. 117.º A Corporação Geral dos Pilotos, considerada como um todo organicamente solidário, é dirigida e administrada por uma comissão, denominada Comissão Central da Corporação Geral dos Pilotos, composta por dois pilotos pertencentes à Corporação de Pilotos de Lisboa, dois à do Douro e Leixões e dois à de Setúbal, eleitos anualmente pelas respectivas corporações, e por um representante da Secretaria de Estado da Marinha Mercante, nomeado pelo Secretário de Estado.
+Art. 117.º A Corporação Geral dos Pilotos, considerada como um todo organicamente solidário, é dirigida e administrada por uma comissão, denominada Comissão Central da Corporação Geral dos Pilotos, composta por dois pilotos pertencentes à Corporação de Pilotos de Lisboa, dois à do Douro e Leixões e dois à de Setúbal, eleitos anualmente pelas respectivas corporações, e por um representante da Secretaria de Estado da Marinha Mercante, nomeado pelo Secretário de Estado.
 
 § 1.º A Comissão Central será presidida por um dos seus membros piloto da Corporação de Pilotos de Lisboa, designado pelo Secretário de Estado da Marinha Mercante.
 
@@ -107,7 +127,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha 
 
 ...
 
-###### Art. 118.º ...
+Art. 118.º ...
 
 ...
 
@@ -127,7 +147,7 @@ c) Realização de despesas correntes de valor excedente a 40000$00 e quaisquer 
 
 ...
 
-###### Art. 123.º ...
+Art. 123.º ...
 
 ...
 
@@ -135,7 +155,7 @@ c) Realização de despesas correntes de valor excedente a 40000$00 e quaisquer 
 
 ...
 
-###### Art. 124.º A comissão administrativa é responsável para com a corporação ou secção local respectiva por todos os actos da sua gerência, e as suas resoluções, sempre que haja qualquer assunto importante a tratar ou que envolva despesas de valor compreendido entre 10000$00 e 40000$00, devem constar de acta, só assumindo força executória depois da homologação desta pela Comissão Central da Corporação Geral dos Pilotos.
+Art. 124.º A comissão administrativa é responsável para com a corporação ou secção local respectiva por todos os actos da sua gerência, e as suas resoluções, sempre que haja qualquer assunto importante a tratar ou que envolva despesas de valor compreendido entre 10000$00 e 40000$00, devem constar de acta, só assumindo força executória depois da homologação desta pela Comissão Central da Corporação Geral dos Pilotos.
 
 2.º A competência atribuída ao director-geral dos Serviços de Fomento Marítimo pelo [Decreto n.º 41668](https://diariodarepublica.pt/dr/detalhe/decreto/41668-1958-353078), de 7 de Junho de 1958, é transferida para o director-geral do Pessoal do Mar.
 

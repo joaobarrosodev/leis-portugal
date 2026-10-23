@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22336-1966-477341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:23:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b35271a31bdf5e6cb1fdddbdd4502e6770237620f620f45152ed227265c28f4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38254f51ab434a73edabeb506d6674815a14e8dd11591be5bd39d60ef677fb30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:23:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474544:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:23:27Z'
   warnings: []
   errors: []
 ---
@@ -93,17 +101,17 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 Despesas com o pessoal:
 
-###### Artigo 1.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1), alínea a) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 190000$00
 
 N.º 3) «Pessoal assalariado» ... 26000$00
 
-###### Artigo 2.º, n.º 1), alínea b) «Remunerações acidentais - Gratificações - Remunerações ao pessoal coadjuvante pelos serviços extraordinários prestados fora das horas regulamentares» ... 4000$00
+Artigo 2.º, n.º 1), alínea b) «Remunerações acidentais - Gratificações - Remunerações ao pessoal coadjuvante pelos serviços extraordinários prestados fora das horas regulamentares» ... 4000$00
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 1) «Construções e obras novas - Edifícios e outras construções» ... 180000$00
+Artigo 4.º, n.º 1) «Construções e obras novas - Edifícios e outras construções» ... 180000$00
 
 ... 400000$00
 

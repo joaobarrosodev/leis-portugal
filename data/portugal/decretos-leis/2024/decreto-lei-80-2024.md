@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/21100/0001800019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/80/2024/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2024-893982646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a2e963fb2a1eecf2ab1c36d487bb190b6ebae6ff26302b9df153b36656ebbae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0185e6d70964cc15f6bdd1faf113c396d0bef498bc4815e4ca0d25a0d915150e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ADSE
-- PSP
 - Assistência a Familiares
 - Assistência Médica
-- Serviço Nacional de Saúde
-- GNR
-- Protecção na Doença
-- Regime Jurídico
 - Doença
 - Funcionário Público
+- GNR
+- Protecção na Doença
+- PSP
+- Regime Jurídico
+- Serviço Nacional de Saúde
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:158/2005
+  label: Altera, a partir de 4 de novembro de 2024, o artigo 32.º e adita o artigo 32.º-A ao Decreto-Lei n.º 158/2005, de
+    20 de setembro, Diário da República n.º 181/2005, Série I-A
+  source: null
+  date: '2005-09-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/2013/07/30/p/dre
   label: null
@@ -105,16 +111,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53-d/2006/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53-d/2006/12/29/p/dre
+- type: cites
+  target: pt:dre:150711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968712:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:17Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +175,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à sexta alteração ao [Decreto-Lei n.º 158/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2005-150711), de 20 de setembro, alterado pela [Lei n.º 53-D/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-d-2006-197491), de 29 de dezembro, pelo [Decreto-Lei n.º 105/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2013-498702), de 30 de julho, pela [Lei n.º 30/2014](https://diariodarepublica.pt/dr/detalhe/lei/30-2014-25343710), de 19 de maio, e pelos Decretos-Leis n.<sup>os</sup>[81/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2015-67212152), de 15 de maio, e [154/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2015-69968712), de 7 de agosto, que estabelece o regime jurídico da assistência na doença ao pessoal ao serviço da Guarda Nacional Republicana e da Polícia de Segurança Pública e aos seus familiares.
+O presente decreto-lei procede à sexta alteração ao [Decreto-Lei n.º 158/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2005-150711), de 20 de setembro, alterado pela [Lei n.º 53-D/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-d-2006-197491), de 29 de dezembro, pelo [Decreto-Lei n.º 105/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2013-498702), de 30 de julho, pela [Lei n.º 30/2014](https://diariodarepublica.pt/dr/detalhe/lei/30-2014-25343710), de 19 de maio, e pelos Decretos-Leis n.os[81/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2015-67212152), de 15 de maio, e [154/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2015-69968712), de 7 de agosto, que estabelece o regime jurídico da assistência na doença ao pessoal ao serviço da Guarda Nacional Republicana e da Polícia de Segurança Pública e aos seus familiares.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 158/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2005-150711), de 20 de setembro
 
@@ -175,12 +213,14 @@ b) As categorias dos titulares e os dados a analisar, bem como o tipo de tratame
 
 Visto e aprovado em Conselho de Ministros de 26 de setembro de 2024. - Joaquim Miranda Sarmento - Joaquim Miranda Sarmento - Margarida Blasco - Maria Clara Gonçalves Marques Mendes.
 
-**Promulgado em 17 de outubro de 2024.**
+Promulgado em 17 de outubro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 24 de outubro de 2024.**
+Referendado em 24 de outubro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118284409

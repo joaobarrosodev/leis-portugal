@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/21/2010/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2010-611310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5a4e153504da1c4434abb55acbfe17eeca38b3a92955f3366fe7367eeafda4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80d7f0e04920e72bbd12a5a66f30fffa097c2d1176ecb5c5ea72cd33ae9bcba7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ subjects:
 - Capital Social
 - Criação de Serviços
 - Empresa Pública
+- Estabelecimento Hospitalar
 - Estatuto
 - Extinção de Serviços
 - Hospital de Curry Cabral
-- Estabelecimento Hospitalar
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
@@ -79,6 +79,13 @@ relationships:
   target: pt:dre:542866:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:542866:por
+  label: "Extinto e integrado por fusão no Centro Hospitalar de Lisboa Central, E. P. E., criado pelo Decreto-Lei n.º 50-A/2007,\
+    \ de 28 de fevereiro, o Hospital de Curry Cabral, E. P. E., criado pelo presente diploma, pelo DEC LEI.44/2012.23.02.2012.MS,\
+    \ DR.IS [39] de 23.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2012-542866
+  date: '2012-02-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
   label: null
@@ -103,16 +110,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:37Z'
   warnings: []
   errors: []
 ---
@@ -181,16 +212,16 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 14 de Janeiro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Ana Maria Teodoro Jorge.
 
-**Promulgado em 3 de Março de 2010.**
+Promulgado em 3 de Março de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Março de 2010.**
+Referendado em 6 de Março de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/05800/0092500926.pdf))](https://files.diariodarepublica.pt/1s/2010/03/05800/0092500926.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/05800/0092500926.pdf)

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 55/1995, 1º Suplemento, Série I-B de 1995-03-06
   number: '55'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1228-(2) a 1228-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/03/055b01/00020005.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/11-a/1995/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-a-1995-263695
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T08:27:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ae5f0aae7f33715622d25a956ae73b9552708dbf9b0d56d577b2ffdd5430906
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e06cec85e4e71033ca5e3785e5cfe7d6e432d8dfd3c9de06ec863a52594a3c91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:27:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Energia não Poluente
+- Apoio ao Investimento
 - Contrato de Concessão
 - Definição de Competências
 - Direcção Geral de Energia
-- Política Energética
-- Equipamento Térmico
-- Apoio ao Investimento
-- Projeto de Investimento
-- Indústria
-- QCA
 - Energia
+- Energia não Poluente
+- Equipamento Térmico
+- Financiamento
+- IAPMEI
+- Indústria
+- Política Energética
 - Poupança de Energia
 - Programa Energia
+- Projeto de Investimento
+- QCA
 - Recursos Energéticos
 - Regime de Apoio
 - Regulamento
 - Sistema de Incentivos a Utilização Racional de Energia
-- IAPMEI
 - Subsídio
 - Subsídio não Reembolsável
 relationships:
@@ -93,6 +93,18 @@ relationships:
   target: pt:dre:197334:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197334:por
+  label: "Alterados os arts. 2º, 5º, 6º, 7º e 10º, pelo DN.19/98.1998.02.27.MECO DR.IS-B [66] de 19/Mar/1998 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/19-1998-197334
+  date: '1998-02-27'
+- type: amended_by
+  target: pt:dre:2336012:por
+  label: "Suspensa a recepção da candidaturas à medida n.º 3 do Programa Energia-Sistema de Incentivos à Utilização Racional\
+    \ de Energia, regulamentada pelo presente diploma, pelo DESP.16995/99(2ªSÉRIE).1999.08.17.MECO DR.IIS [203] de 31/AGO/1999\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/16995-1999-2336012
+  date: '1999-08-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/195/1994/07/19/p/dre
   label: null
@@ -105,16 +117,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/68/1994/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/68/1994/08/11/p/dre
+- type: cites
+  target: pt:dre:198139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374240:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:27:39Z'
   warnings: []
   errors: []
 ---

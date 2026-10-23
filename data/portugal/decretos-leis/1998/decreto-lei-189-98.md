@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/189/1998/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1998-485054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:58:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fae5195606a65e95de2a5b0afa71bfe3c7b197de020bdb34f90fb9c7dce47a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 053766f1f2260ce89cca663d4436fb7791d14e425c38f9d47bd1dac3b61e53d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:58:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
-- Sistema de Autoridade Marítima
-- Transporte Marítimo
-- Marinha Mercante
-- Multa
 - Contra-ordenação
 - Convenção
 - Definição de Competências
 - Direcção Geral de Portos Navegação e Transportes Marítimos
+- Embarcação
 - Fiscalização
 - Licenciamento
-- Transporte de Mercadorias
+- Marinha Mercante
+- Multa
 - Sanção
 - Segurança Marítima
+- Sistema de Autoridade Marítima
 - Transporte de Carga
+- Transporte de Mercadorias
 - Transporte Internacional
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:553057:por
@@ -91,16 +91,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/115/1996/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/115/1996/08/06/p/dre
+- type: cites
+  target: pt:dre:300465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411794:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553057:por
+  label: "Revogado o art. 21º pela LEI.18/2012.07.05.2012.AR, DR.IS [88] de 07.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/18-2012-553057
+  date: '2012-05-07'
 article_structure:
   article_count: 27
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:58:19Z'
   warnings: []
   errors: []
 ---
@@ -321,14 +334,14 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - João Cardona Gomes Cravinho.
 
-**Promulgado em 8 de Maio de 1998.**
+Promulgado em 8 de Maio de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Junho de 1998.**
+Referendado em 5 de Junho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 [(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/31373141.pdf)

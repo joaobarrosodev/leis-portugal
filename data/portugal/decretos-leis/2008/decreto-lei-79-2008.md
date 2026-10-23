@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/05/08900/0250902510.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/79/2008/05/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2008-249794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 308b9e0db8f2bf92f1b0a6ce4c20244aa561bcefc8b039a2c6a17dd271820615
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c48315f432c917b81f73468cf7f9b85618fba6e992094a1a724e03176b65fb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,20 @@ reuse:
 subjects:
 - Assistência Médica
 - Consulta Médica
-- Serviço Nacional de Saúde
 - Meios Complementares de Diagnóstico
+- Serviço Nacional de Saúde
 - TAXA Moderadora
 relationships:
 - type: amended_by
   target: pt:dre:146061:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613246:por
+  label: "Alterado o art. 2.º do Dec Lei 173/2003, de 01-Ago, na redacação do presente diploma, pela DEC LEI.38/2010.20.04.2010.MS,\
+    \ DR.IS [76] de 20.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2010-613246
+  date: '2010-04-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/173/2003/08/01/p/dre
   label: null
@@ -96,16 +102,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53-a/2006/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53-a/2006/12/29/p/dre
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678455:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:146061:por
+  label: "Revogado em 01.01.2012 o Dec Lei 173/2003, de 01-Ago, na redacção do presente diploma, pelo DEC LEI.113/2011.29.11.2011.MS,\
+    \ DR.IS [229] de 29.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-2011-146061
+  date: '2011-11-29'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:29Z'
   warnings: []
   errors: []
 ---
@@ -150,15 +186,15 @@ O artigo 2.º do [Decreto-Lei n.º 173/2003](https://diariodarepublica.pt/dr/det
 
 Visto e aprovado em Conselho de Ministros de 20 de Março de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva - Ana Maria Teodoro Jorge.
 
-**Promulgado em 23 de Abril de 2008.**
+Promulgado em 23 de Abril de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 24 de Abril de 2008.**
+Referendado em 24 de Abril de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/414-1974-476353
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T04:26:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64d817b6626872a071efc1a05cb7c7840b2438bd195f050e2824c73c5975531a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe82df4822c66ec4d1b358630b0c4dc04318c78b0df9766e86d439a7b72dc69d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:26:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:26:48Z'
   warnings: []
   errors: []
 ---
@@ -86,6 +90,6 @@ de 5 de Julho
 
 Manda o Governo Provisório da República Portuguesa, pelo Ministro da Coordenação Económica, com fundamento no n.º 1 e suas alíneas c) e d) do artigo 3.º do [Decreto-Lei n.º 54/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1972-398130), de 15 de Fevereiro, efectuar as seguintes transferências de verbas nos Ministérios abaixo designados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/07/15500/07830783.pdf))](https://files.diariodarepublica.pt/1s/1974/07/15500/07830783.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/07/15500/07830783.pdf)
 
 Ministério da Coordenação Económica, 22 de Junho de 1974. - Pelo Ministro da Coordenação Económica, António Costa Leal, Subsecretário de Estado do Orçamento.

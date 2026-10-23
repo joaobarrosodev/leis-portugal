@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05800/0004300045.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/36/2025/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2025-912066245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25b3a2d6a03809dc27e7306c0a5eb7392bd229577a7ea6075c9ab537a0aae213
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbc3d4226605765bd68a2eece9a419f47a39ee74979d864ed818c41a867c5302
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direito Marítimo
-- Marinha Mercante
-- Pessoal do MAR
+- Embarcação de Pesca
 - Embarcação de Tráfego Local
 - Inscrição Marítima
-- Embarcação de Pesca
-- Setor Marítimo-Portuário
+- Marinha Mercante
+- Pessoal do MAR
 - Segurança Marítima
+- Setor Marítimo-Portuário
 - Sistema Nacional de Embarcações e Marítimos
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:166/2019
+  label: Altera, a partir de 25 de março de 2025, os artigos 16.º, 41.º, 43.º e 68.º do Decreto-Lei n.º 166/2019, de 31 de
+    outubro, Diário da República n.º 210/2019, Série I
+  source: null
+  date: '2025-03-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2019/10/31/p/dre
   label: null
@@ -84,16 +90,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/21/2025/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/21/2025/03/04/p/dre
+- type: cites
+  target: pt:dre:125865390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:909595542:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:13Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +152,9 @@ Os artigos 16.º, 41.º, 43.º e 68.º do [Decreto-Lei n.º 166/2019](https://di
 
 5 - [...]
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...]
 
@@ -160,7 +176,9 @@ b) Reconhece os emitidos por entidades competentes de países terceiros, para ef
 
 8 - [...]
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - O pedido de aceitação dos certificados a que se reporta o n.º 3 e a alínea a) do n.º 4 do artigo 41.º, é apresentado à administração marítima, através de requerimento redigido em língua portuguesa ou inglesa, instruído com os seguintes elementos:
 
@@ -198,13 +216,15 @@ i) Certidão emitida por entidade formadora de marítimos, certificada pela Admi
 
 3 - O reconhecimento concedido aos pedidos a que se refere o número anterior é averbado à cédula marítima de que o requerente seja detentor, não havendo lugar à emissão de DMar.
 
-4 - Os documentos referidos nos n.<sup>os</sup>1 e 2, devem, em caso de justificada necessidade, ser acompanhados de tradução para português devidamente legalizada, designadamente pelos serviços notariais ou consulares, exceto se os originais estiverem redigidos em língua inglesa.
+4 - Os documentos referidos nos n.os1 e 2, devem, em caso de justificada necessidade, ser acompanhados de tradução para português devidamente legalizada, designadamente pelos serviços notariais ou consulares, exceto se os originais estiverem redigidos em língua inglesa.
 
 5 - (Anterior n.º 3.)
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - [...]
 
@@ -224,12 +244,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - José Manuel Fernandes.
 
-**Promulgado em 14 de março de 2025.**
+Promulgado em 14 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de março de 2025.**
+Referendado em 18 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118839121

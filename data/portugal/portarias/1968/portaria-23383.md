@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23383-1968-271828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 352da462dcc4e6ad94201e1f8f5b1eac3ad1aae128cd0a8f797bcbb40421e4c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ac93f4482fc26b75bac636f2f20e2177c1d20e875fbeec51ac6f2cd52d5d3bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:253445:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:52Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +101,13 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 2.º O artigo 1.º terá a seguinte redacção:
 
-###### Artigo 1.º São criados nas Directorias da Polícia Judiciária de Luanda e Lourenço Marques laboratórios de polícia científica.
+Artigo 1.º São criados nas Directorias da Polícia Judiciária de Luanda e Lourenço Marques laboratórios de polícia científica.
 
 3.º No n.º 2 do artigo 2.º a referência a «comarcas de Lisboa, Porto e Coimbra» deve entender-se como feita às «comarcas de Luanda e Lourenço Marques».
 
 4.º Os n.os 1 e 3 do artigo 3.º passarão a ter a seguinte redacção:
 
-###### Art. 3.º - 1. O laboratório goza de independência técnica, funciona sob a direcção de um diplomado em Medicina ou Ciências Físico-Químicas e terá, além do director com a categoria da letra D, o quadro do pessoal que por portaria dos governadores-gerais das províncias de Angola e Moçambique vier a ser estabelecido.
+Art. 3.º - 1. O laboratório goza de independência técnica, funciona sob a direcção de um diplomado em Medicina ou Ciências Físico-Químicas e terá, além do director com a categoria da letra D, o quadro do pessoal que por portaria dos governadores-gerais das províncias de Angola e Moçambique vier a ser estabelecido.
 
 ...
 

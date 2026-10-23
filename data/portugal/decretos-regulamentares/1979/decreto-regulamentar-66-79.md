@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1979-365962
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 202cbfad04b67a13141139dfa76727bfcd794374bf6cddb1e8ef4d95311262d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae361a8fd9975b0db53ec2cb816189dbe88b0861d8857448e0fa43d6f937ef5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Instituto de Qualidade Alimentar
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:388424:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:388424:por
+  label: "Alargado o quadro de pessoal do Instituto de Qualidade Alimentar aprovado pelo presente diploma, pela PORT.254/81.09.03.1981.MAP,\
+    \ DR.IS [56] de 09.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-1981-388424
+  date: '1981-03-09'
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281266:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:50Z'
   warnings: []
   errors: []
 ---
@@ -94,17 +112,17 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - O Instituto de Qualidade Alimentar do Ministério da Agricultura e Pescas, abreviadamente designado por IQA, criado pelo artigo 42.º e alínea l) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, é um organismo cuja actividade se desenvolve nos domínios da definição de uma política de qualidade alimentar, nomeadamente na regulamentação, promoção e contrôle de qualidade de alimentos.
+Artigo 1.º - 1 - O Instituto de Qualidade Alimentar do Ministério da Agricultura e Pescas, abreviadamente designado por IQA, criado pelo artigo 42.º e alínea l) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, é um organismo cuja actividade se desenvolve nos domínios da definição de uma política de qualidade alimentar, nomeadamente na regulamentação, promoção e contrôle de qualidade de alimentos.
 
 2 - As atribuições do IQA são as constantes do artigo 33.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, e quaisquer outras que lhe sejam cometidas por lei.
 
-###### Art. 2.º O Instituto de Qualidade Alimentar é dirigido por um director com categoria equiparada a director-geral, coadjuvado por um subdirector com categoria equiparada a subdirector-geral, que o substituirá nas suas ausências e impedimentos.
+Art. 2.º O Instituto de Qualidade Alimentar é dirigido por um director com categoria equiparada a director-geral, coadjuvado por um subdirector com categoria equiparada a subdirector-geral, que o substituirá nas suas ausências e impedimentos.
 
 ### CAPÍTULO II — Órgãos e serviços
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 3.º - 1 - O IQA dispõe de um Conselho Técnico como órgão de consulta e apoio ao director, por ele presidido.
+Art. 3.º - 1 - O IQA dispõe de um Conselho Técnico como órgão de consulta e apoio ao director, por ele presidido.
 
 2 - O Conselho Técnico é constituído pelos seguintes membros:
 
@@ -142,7 +160,7 @@ o) Os directores de serviços do IQA
 
 5 - As entidades estranhas ao MAP convidadas em conformidade com o número anterior terão direito a uma senha de presença por cada reunião a que assistam, bem como ao abono das despesas de transporte, nos termos legais.
 
-###### Art. 4.º - 1 - Ao Conselho Técnico compete emitir parecer sobre:
+Art. 4.º - 1 - Ao Conselho Técnico compete emitir parecer sobre:
 
 a) Os projectos de diploma que, pela sua importância, tenham indiscutível relevância no âmbito da competência do IQA;
 
@@ -172,13 +190,13 @@ b) Elaborar as actas das reuniões e desenvolver as acções delas resultantes;
 
 c) Assegurar o arquivo e o expediente do Conselho.
 
-###### Art. 5.º - 1 - O Conselho Técnico funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo o plenário ordinariamente, pelo menos, duas vezes por ano e extraordinariamente sempre que o presidente o convoque.
+Art. 5.º - 1 - O Conselho Técnico funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo o plenário ordinariamente, pelo menos, duas vezes por ano e extraordinariamente sempre que o presidente o convoque.
 
 2 - Os assuntos submetidos a apreciação do Conselho Técnico serão resolvidos por maioria simples dos membros presentes, tendo o presidente voto de qualidade.
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 6.º O IQA dispõe dos seguintes serviços:
+Art. 6.º O IQA dispõe dos seguintes serviços:
 
 A) Serviços de apoio:
 
@@ -202,17 +220,17 @@ d) Divisão de Promoção e Contrôle da Marcação, Publicidade e Embalagens.
 
 ##### SUBSECÇÃO I — Dos serviços de apoio
 
-###### Art. 7.º - 1 - A Direcção de Serviços de Planeamento tem como atribuições a preparação da programação da actividade do IQA, a análise da execução dos programas anuais, a elaboração de planos alimentares a curto, médio e longo prazos e os estudos conducentes à definição da política alimentar nacional adequada às potencialidades do País e às necessidades da população.
+Art. 7.º - 1 - A Direcção de Serviços de Planeamento tem como atribuições a preparação da programação da actividade do IQA, a análise da execução dos programas anuais, a elaboração de planos alimentares a curto, médio e longo prazos e os estudos conducentes à definição da política alimentar nacional adequada às potencialidades do País e às necessidades da população.
 
 2 - A Direcção de Serviços de Planeamento assegura a ligação com outras unidades do Ministério da Agricultura e Pescas, ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 8.º A Direcção de Serviços de Planeamento é dirigida por um director de serviços e compreende as seguintes Divisões:
+Art. 8.º A Direcção de Serviços de Planeamento é dirigida por um director de serviços e compreende as seguintes Divisões:
 
 a) Planeamento, Coordenação e Estatística;
 
 b) Economia Alimentar e Nutrição.
 
-###### Art. 9.º À Divisão de Planeamento, Coordenação e Estatística compete:
+Art. 9.º À Divisão de Planeamento, Coordenação e Estatística compete:
 
 a) Realizar, com o apoio dos restantes serviços, o planeamento da actividade do IQA, preparando os planos de actividade anual e plurianual e elaborando os respectivos relatórios;
 
@@ -228,7 +246,7 @@ f) Promover e coordenar a elaboração de monografias e estudos de actualizaçã
 
 g) Realizar, além dos estudos promovidos por iniciativa própria ou determinação superior, os que lhe forem encomendados por entidades públicas, privadas ou cooperativas, em matéria das suas atribuições.
 
-###### Art. 10.º À Divisão de Economia Alimentar e Nutrição compete:
+Art. 10.º À Divisão de Economia Alimentar e Nutrição compete:
 
 a) Promover a selecção e o aperfeiçoamento das técnicas de informação económica aplicáveis aos estudos do sector alimentar;
 
@@ -238,11 +256,11 @@ c) Elaborar, em colaboração com o Instituto Nacional de Saúde Dr. Ricardo Jor
 
 d) Realizar, além dos estudos promovidos por iniciativa própria ou determinação superior, os que lhe forem encomendados por entidades públicas, privadas ou cooperativas, em matéria das suas atribuições.
 
-###### Art. 11.º - 1 - O Laboratório Central da Qualidade Alimentar tem como atribuições a realização de estudos laboratoriais destinados à regulamentação e promoção da qualidade dos produtos alimentares, sua definição e fixação de características, e ao estabelecimento de novos métodos de análise a propor como métodos oficiais e a execução das análises necessárias à prevenção e repressão das infracções contra a genuinidade, qualidade e composição de produtos e aditivos alimentares e à passagem de certificados de qualidade e genuinidade.
+Art. 11.º - 1 - O Laboratório Central da Qualidade Alimentar tem como atribuições a realização de estudos laboratoriais destinados à regulamentação e promoção da qualidade dos produtos alimentares, sua definição e fixação de características, e ao estabelecimento de novos métodos de análise a propor como métodos oficiais e a execução das análises necessárias à prevenção e repressão das infracções contra a genuinidade, qualidade e composição de produtos e aditivos alimentares e à passagem de certificados de qualidade e genuinidade.
 
 2 - O Laboratório Central da Qualidade Alimentar assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista a efectivação das atribuições que lhe estão conferidas.
 
-###### Art. 12.º O Laboratório Central da Qualidade Alimentar é dirigido por um director de serviços e compreende as seguintes Divisões:
+Art. 12.º O Laboratório Central da Qualidade Alimentar é dirigido por um director de serviços e compreende as seguintes Divisões:
 
 a) Produtos de Origem Animal;
 
@@ -252,7 +270,7 @@ c) Aditivos, Auxiliares Tecnológicos, Contaminantes, Resíduos e Produtos Diver
 
 d) Microbiologia.
 
-###### Art. 13.º - 1 - À Divisão de Produtos de Origem Animal compete:
+Art. 13.º - 1 - À Divisão de Produtos de Origem Animal compete:
 
 a) Realizar os ensaios preliminares e as análises físicas e químicas destinados ao contrôle de qualidade dos produtos alimentares de origem animal;
 
@@ -276,7 +294,7 @@ d) Mel;
 
 e) Outros produtos de origem animal, suas conservas e extractos.
 
-###### Art. 14.º - 1 - À Divisão de Produtos de Origem Vegetal compete:
+Art. 14.º - 1 - À Divisão de Produtos de Origem Vegetal compete:
 
 a) Realizar os ensaios preliminares e as análises físicas e químicas destinados ao contrôle de qualidade dos produtos alimentares de origem vegetal;
 
@@ -306,7 +324,7 @@ g) Açúcares;
 
 h) Produtos de culinária.
 
-###### Art. 15.º - 1 - À Divisão de Aditivos, Auxiliares Tecnológicos, Contaminantes, Resíduos e Produtos Diversos compete, no âmbito dos produtos alimentares que lhe estão cometidos:
+Art. 15.º - 1 - À Divisão de Aditivos, Auxiliares Tecnológicos, Contaminantes, Resíduos e Produtos Diversos compete, no âmbito dos produtos alimentares que lhe estão cometidos:
 
 a) Realizar as análises físicas e químicas destinadas à pesquisa e doseamento de aditivos, auxiliares tecnológicos contaminantes e resíduos que existam em produtos alimentares;
 
@@ -334,7 +352,7 @@ e) Aperitivos;
 
 f) Outros produtos.
 
-###### Art. 16.º À Divisão de Microbiologia compete:
+Art. 16.º À Divisão de Microbiologia compete:
 
 a) Realizar as análises microbiológicas destinadas ao contrôle de qualidade dos produtos alimentares;
 
@@ -346,7 +364,7 @@ d) Realizar o estudo de novos métodos de análise microbiológica de produtos a
 
 e) Colaborar com os serviços e entidades competentes nos estudos microbiológicos destinados à fixação das características de salubridade dos produtos alimentares.
 
-###### Art. 17.º A Divisão de Documentação e Informação é dirigida por um chefe de divisão, competindo-lhe, em colaboração com o correspondente serviço central do Ministério da Agricultura e Pescas:
+Art. 17.º A Divisão de Documentação e Informação é dirigida por um chefe de divisão, competindo-lhe, em colaboração com o correspondente serviço central do Ministério da Agricultura e Pescas:
 
 a) Proceder à recolha e tratamento de elementos bibliográficos e documentação nos domínios de actividade do IQA e promover ou colaborar na sua divulgação junto dos técnicos do Instituto;
 
@@ -364,11 +382,11 @@ g) Assegurar a edição e divulgação de publicações, textos e informações 
 
 h) Colaborar com a DGER na organização e Participação do IQA em feiras e exposições.
 
-###### Art. 18.º - 1 - A Repartição Administrativa exerce as suas atribuições nos domínios da administração financeira e patrimonial e de pessoal, expediente e arquivo.
+Art. 18.º - 1 - A Repartição Administrativa exerce as suas atribuições nos domínios da administração financeira e patrimonial e de pessoal, expediente e arquivo.
 
 2 - A Repartição Administrativa assegura as ligações com outras unidades orgânicas do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 19.º A Repartição Administrativa é dirigida por um chefe de repartição e compreende as seguintes Secções:
+Art. 19.º A Repartição Administrativa é dirigida por um chefe de repartição e compreende as seguintes Secções:
 
 a) Administração Patrimonial;
 
@@ -376,7 +394,7 @@ b) Administração Financeira;
 
 c) Administração de Pessoal, Expediente e Arquivo.
 
-###### Art. 20.º À Secção de Administração Patrimonial compete:
+Art. 20.º À Secção de Administração Patrimonial compete:
 
 a) Organizar e manter actualizado o inventário do IQA respeitante a edifícios e outras instalações, maquinaria e equipamento, material de transporte e demais bens de capital;
 
@@ -390,7 +408,7 @@ e) Processar os documentos de despesa das aquisições referidas nas alíneas b)
 
 f) Zelar pela segurança dos edifícios e outras instalações.
 
-###### Art. 21.º À Secção de Administração Financeira compete:
+Art. 21.º À Secção de Administração Financeira compete:
 
 a) Recolher e preparar os elementos necessários à elaboração do orçamento do IQA e das respectivas alterações;
 
@@ -404,7 +422,7 @@ e) Fornecer à Secretaria-Geral do MAP os elementos necessários ao contrôle or
 
 f) Manter actualizado o arquivo de toda a documentação dos anos económicos findos.
 
-###### Art. 22.º À Secção de Administração de Pessoal, Expediente e Arquivo compete:
+Art. 22.º À Secção de Administração de Pessoal, Expediente e Arquivo compete:
 
 a) Elaborar e manter actualizado o cadastro de todo o pessoal do IQA;
 
@@ -426,17 +444,17 @@ i) Superintender no pessoal auxiliar.
 
 ##### SUBSECÇÃO II — Dos serviços operativos
 
-###### Art. 23.º - 1 - A Direcção de Serviços de Regulamentação da Qualidade tem como atribuições a elaboração de regulamentos, especificações e normas sobre produtos alimentares destinados à alimentação humana ou animal, publicidade, marcação e embalagens, bem como de outros diplomas legais que interessem ao IQA no âmbito das suas atribuições, e a coordenação das disposições internacionais, nomeadamente no âmbito da Comunidade Económica Europeia, da FAO/OMS - Codex Alimentarius e da Organização Internacional de Normalização (ISO).
+Art. 23.º - 1 - A Direcção de Serviços de Regulamentação da Qualidade tem como atribuições a elaboração de regulamentos, especificações e normas sobre produtos alimentares destinados à alimentação humana ou animal, publicidade, marcação e embalagens, bem como de outros diplomas legais que interessem ao IQA no âmbito das suas atribuições, e a coordenação das disposições internacionais, nomeadamente no âmbito da Comunidade Económica Europeia, da FAO/OMS - Codex Alimentarius e da Organização Internacional de Normalização (ISO).
 
 2 - A Direcção de Serviços de Regulamentação da Qualidade assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 24.º A Direcção de Serviços de Regulamentação da Qualidade é dirigida por um director de serviços e compreende as seguintes Divisões:
+Art. 24.º A Direcção de Serviços de Regulamentação da Qualidade é dirigida por um director de serviços e compreende as seguintes Divisões:
 
 a) Regulamentação e Especificações;
 
 b) Normalização.
 
-###### Art. 25.º À Divisão de Regulamentação e Especificações compete:
+Art. 25.º À Divisão de Regulamentação e Especificações compete:
 
 a) Manter actualizada toda a regulamentação sobre produtos alimentares em vigor no País;
 
@@ -454,7 +472,7 @@ g) Colaborar com a Direcção-Geral de Saúde no estabelecimento da distinção 
 
 h) Colaborar activamente com os organismos internacionais de regulamentação e especificações, nomeadamente com as comissões especializadas da Comunidade Económica Europeia, com a FAO/OMS - Codex Alimentarius e com a Organização Internacional de Normalização (ISO), no âmbito dos produtos alimentares.
 
-###### Art. 26.º À Divisão de Normalização compete:
+Art. 26.º À Divisão de Normalização compete:
 
 a) Promover, criar e estruturar comissões técnicas com o objectivo de definir os produtos alimentares e fixar as suas características;
 
@@ -472,11 +490,11 @@ g) Colaborar activamente com os organismos internacionais de normalização, nom
 
 h) Colaborar com a Divisão de Regulamentação e Especificações no sentido de tornar obrigatórias determinadas normas definitivas (NP) de géneros alimentícios e promover e orientar estudos, em colaboração com o Laboratório Central da Qualidade Alimentar, que sirvam de base à elaboração de normas de métodos de análise e outras normas nacionais ou internacionais.
 
-###### Art. 27.º - 1 - A Direcção de Serviços de Promoção e Contrôle da Qualidade dos Produtos de Origem Vegetal tem como atribuições a promoção de estudos e a verificação da aplicação de regulamentos, especificações e normas de qualidade aos produtos de origem vegetal, nacionais ou importados, destinados à alimentação humana ou animal, respectivas matérias-primas, ingredientes e aditivos, a passagem de certificados de origem, qualidade e genuinidade, a emissão de pareceres prévios aquando da importação destes produtos e a verificação obrigatória da aplicação dos regulamentos de qualidade às instalações de obtenção, recepção, transformação, acondicionamento, armazenagem, transporte e venda dos mesmos produtos.
+Art. 27.º - 1 - A Direcção de Serviços de Promoção e Contrôle da Qualidade dos Produtos de Origem Vegetal tem como atribuições a promoção de estudos e a verificação da aplicação de regulamentos, especificações e normas de qualidade aos produtos de origem vegetal, nacionais ou importados, destinados à alimentação humana ou animal, respectivas matérias-primas, ingredientes e aditivos, a passagem de certificados de origem, qualidade e genuinidade, a emissão de pareceres prévios aquando da importação destes produtos e a verificação obrigatória da aplicação dos regulamentos de qualidade às instalações de obtenção, recepção, transformação, acondicionamento, armazenagem, transporte e venda dos mesmos produtos.
 
 2 - A Direcção de Serviços de Promoção e Contrôle da Qualidade dos Produtos de Origem Vegetal assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 28.º - 1 - A Direcção de Serviços de Promoção e Contrôle da Qualidade dos Produtos de Origem Vegetal é dirigida por um director de serviços compreende as seguintes Divisões:
+Art. 28.º - 1 - A Direcção de Serviços de Promoção e Contrôle da Qualidade dos Produtos de Origem Vegetal é dirigida por um director de serviços compreende as seguintes Divisões:
 
 a) Cereais, Leguminosas, Oleaginosas e Derivados;
 
@@ -506,11 +524,11 @@ l) Organizar e manter actualizado o registo e cadastro das instalações de obte
 
 1) Organizar e manter actualizado o registo e cadastro dos transgressores.
 
-###### Art. 29.º - 1 - A Direcção de Serviços de Promoção e Contrôle da Qualidade dos Produtos de Origem Animal tem como atribuições a promoção de estudos e a verificação da aplicação dos regulamentos, especificações e normas de qualidade aos produtos de origem animal, nacionais ou importados, destinados à alimentação humana ou animal, respectivas matérias-primas, ingredientes e aditivos, a passagem de certificados de origem, qualidade e genuinidade, a emissão de pareceres prévios aquando da importação destes produtos e a verificação obrigatória da aplicação dos regulamentos de qualidade às instalações de obtenção, recepção, transformação, acondicionamento, armazenagem, transporte e venda dos mesmos produtos.
+Art. 29.º - 1 - A Direcção de Serviços de Promoção e Contrôle da Qualidade dos Produtos de Origem Animal tem como atribuições a promoção de estudos e a verificação da aplicação dos regulamentos, especificações e normas de qualidade aos produtos de origem animal, nacionais ou importados, destinados à alimentação humana ou animal, respectivas matérias-primas, ingredientes e aditivos, a passagem de certificados de origem, qualidade e genuinidade, a emissão de pareceres prévios aquando da importação destes produtos e a verificação obrigatória da aplicação dos regulamentos de qualidade às instalações de obtenção, recepção, transformação, acondicionamento, armazenagem, transporte e venda dos mesmos produtos.
 
 2 - A Direcção de Serviços de Promoção e Contrôle da Qualidade dos Produtos de Origem Animal assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 30.º - 1 - A Direcção de Serviços de Promoção e Contrôle da Qualidade dos Produtos de Origem Animal é dirigida por um director de serviços e compreende as seguintes Divisões:
+Art. 30.º - 1 - A Direcção de Serviços de Promoção e Contrôle da Qualidade dos Produtos de Origem Animal é dirigida por um director de serviços e compreende as seguintes Divisões:
 
 a) Produtos Frescos e Refrigerados;
 
@@ -540,7 +558,7 @@ i) Organizar e manter actualizado o registo e cadastro das instalações de obte
 
 j) Organizar e manter actualizado o registo e cadastro dos transgressores.
 
-###### Art. 31.º À Divisão de Promoção e Contrôle da Marcação, Publicidade e Embalagens, dirigida por um chefe de divisão, compete:
+Art. 31.º À Divisão de Promoção e Contrôle da Marcação, Publicidade e Embalagens, dirigida por um chefe de divisão, compete:
 
 a) Exercer a promoção de boas práticas de marcação e publicidade de produtos alimentares;
 
@@ -558,46 +576,46 @@ f) Organizar e manter actualizado o registo e cadastro dos transgressores.
 
 #### SECÇÃO I — Dos quadros de pessoal
 
-###### Art. 32.º O IQA disporá, para o desempenho das suas atribuições, do contingente de pessoal dirigente e do pessoal dos quadros únicos constantes do mapa anexo ao presente diploma, que dele faz parte integrante.
+Art. 32.º O IQA disporá, para o desempenho das suas atribuições, do contingente de pessoal dirigente e do pessoal dos quadros únicos constantes do mapa anexo ao presente diploma, que dele faz parte integrante.
 
-###### Art. 33.º Os lugares dos quadros únicos do Ministério da Agricultura e Pescas temporariamente libertos por motivo do provimento dos seus titulares em lugares de pessoal dirigente do Instituto de Qualidade Alimentar só poderão ser preenchidos interinamente mediante a observação dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro.
+Art. 33.º Os lugares dos quadros únicos do Ministério da Agricultura e Pescas temporariamente libertos por motivo do provimento dos seus titulares em lugares de pessoal dirigente do Instituto de Qualidade Alimentar só poderão ser preenchidos interinamente mediante a observação dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro.
 
 #### SECÇÃO II — Do regime de substituição
 
-###### Art. 34.º O chefe da Repartição Administrativa é substituído nas suas ausências e impedimentos pelo chefe de secção que for designado por despacho do director, sob proposta do chefe da Repartição.
+Art. 34.º O chefe da Repartição Administrativa é substituído nas suas ausências e impedimentos pelo chefe de secção que for designado por despacho do director, sob proposta do chefe da Repartição.
 
 ### CAPÍTULO IV — Disposições gerais e finais
 
-###### Art. 35.º - 1 - Mediante autorização ministerial e sob proposta fundamentada, o IQA poderá celebrar contratos ou termos de tarefa com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
+Art. 35.º - 1 - Mediante autorização ministerial e sob proposta fundamentada, o IQA poderá celebrar contratos ou termos de tarefa com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
 
 2 - Os contratos serão sempre reduzidos a escrito e não conferirão em caso algum a qualidade de agente administrativo.
 
-###### Art. 36.º O Instituto de Qualidade Alimentar poderá promover a realização de cursos de actualização técnico-profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
+Art. 36.º O Instituto de Qualidade Alimentar poderá promover a realização de cursos de actualização técnico-profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
 
-###### Art. 37.º Para a realização de actividades de estudo e formação no âmbito das suas atribuições, poderá o IQA estabelecer convénios com instituições científicas, técnicas e educacionais, nacionais ou estrangeiras, ouvido o GICI.
+Art. 37.º Para a realização de actividades de estudo e formação no âmbito das suas atribuições, poderá o IQA estabelecer convénios com instituições científicas, técnicas e educacionais, nacionais ou estrangeiras, ouvido o GICI.
 
-###### Art. 38.º O IQA poderá estabelecer com os serviços regionais de agricultura do MAP ou com outras entidades convénios ou protocolos para a realização de análises e estudos laboratoriais que se mostrem necessários ao desempenho das suas atribuições.
+Art. 38.º O IQA poderá estabelecer com os serviços regionais de agricultura do MAP ou com outras entidades convénios ou protocolos para a realização de análises e estudos laboratoriais que se mostrem necessários ao desempenho das suas atribuições.
 
-###### Art. 39.º Os abonos inerentes a transportes e a ajudas de custo devidos a funcionários de outros departamentos ministeriais, ou a pessoas a ele estranhas, pela sua participação na realização de projectos e outros empreendimentos do IQA serão pagos de conta das dotações do plano consignadas a esses objectivos.
+Art. 39.º Os abonos inerentes a transportes e a ajudas de custo devidos a funcionários de outros departamentos ministeriais, ou a pessoas a ele estranhas, pela sua participação na realização de projectos e outros empreendimentos do IQA serão pagos de conta das dotações do plano consignadas a esses objectivos.
 
-###### Art. 40.º O IQA poderá, precedendo despacho ministerial de autorização, sob proposta devidamente fundamentada, subsidiar a prestação de serviços e a realização de trabalhos efectuados por entidades públicas ou privadas relacionados com as suas actividades.
+Art. 40.º O IQA poderá, precedendo despacho ministerial de autorização, sob proposta devidamente fundamentada, subsidiar a prestação de serviços e a realização de trabalhos efectuados por entidades públicas ou privadas relacionados com as suas actividades.
 
-###### Art. 41.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
+Art. 41.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 42.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 42.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Joaquim da Silva Lourenço - Gabriela Guedes Salgueiro.
 
-**Promulgado em 11 de Dezembro de 1979.**
+Promulgado em 11 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 32.º
 
 (Contingente de pessoal do IQA)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29200/32723279.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29200/32723279.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29200/32723279.pdf)
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Agricultura e Pescas, Joaquim da Silva Lourenço. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Agricultura e Pescas, Joaquim da Silva Lourenço. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro.

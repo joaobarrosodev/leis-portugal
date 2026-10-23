@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/11/25800/37793779.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/965-1983-443554
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T07:55:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85b85cb3a0b157b569d5be0bbe90e4280fd416b4f623a75a6cc2be42e36074eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1384e52934ffc9acd1530210273a9be164dbb20ba0d412b45c2d975a73bd2f6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:55:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto do Oficial do Exército
+- Exército
+- Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:243574:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogada pelo DEC LEI.34-A/90.1990.01.24.MDN,DR.IS [20]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:55:26Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +109,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, o se
 
 1.º O n.º 2 do artigo 49.º do Estatuto do Oficial do Exército, na redacção que lhe foi dada pela [Portaria n.º 1012-Q/82](https://diariodarepublica.pt/dr/detalhe/portaria/1012-q-1982-243574), de 29 de Outubro, passa a ter a seguinte redacção:
 
-###### Art. 49.º - 1 ...
+Art. 49.º - 1 ...
 
 2 - Os oficiais da reserva fora da efectividade de serviço só podem ser convocados para:
 
@@ -107,6 +119,6 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, o se
 
 Ministério da Defesa Nacional.
 
-**Assinada em 13 de Outubro de 1983.**
+Assinada em 13 de Outubro de 1983.
 
-**O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto.**
+O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto.

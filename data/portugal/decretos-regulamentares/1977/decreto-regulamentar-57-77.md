@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-1977-255984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a22d0b8964c9c0db344e3c0920f90c58faa06a21192717db27afd15af5fea3fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1cca8041c6e6993719a936fe5ed2fc1341b6154728675df40df825c06147f66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Estatuto
+- Socarmar
 relationships:
 - type: amended_by
   target: pt:dre:548382:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:561579:por
+  label: "Dada nova redacção ao art. 5º, pelo DR.46/81.1981.10.08.MFP, DR.IS [231]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/46-1981-561579
+  date: '1981-10-08'
+- type: amended_by
+  target: pt:dre:548382:por
+  label: "Transformada em sociedade anónima, com a denominação de Socarmar, S.A. a empresa pública criada no presente diploma,\
+    \ pelo DEC LEI.337/89.04.10.1989.MOPTC, DR.IS [229] de 04.10.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/337-1989-548382
+  date: '1989-10-04'
+- type: cites
+  target: pt:dre:166584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635246:por
+  label: null
+  source: null
 article_structure:
   article_count: 29
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:20Z'
   warnings: []
   errors: []
 ---
@@ -98,27 +128,29 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o estatuto da empresa pública Socarmar, E. P., nacionalizada pelo [Decreto-Lei n.º 701-E/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-e-1975-166584), de 17 de Dezembro.
+Artigo 1.º É aprovado o estatuto da empresa pública Socarmar, E. P., nacionalizada pelo [Decreto-Lei n.º 701-E/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-e-1975-166584), de 17 de Dezembro.
 
-###### Art. 2.º Transitam para a Socarmar, E. P., todos os trabalhadores que, à data da entrada em vigor deste diploma, devem considerar-se ao serviço da empresa nacionalizada Socarmar - Sociedade de Cargas e Descargas Marítimas, S. A. R. L.
+Art. 2.º Transitam para a Socarmar, E. P., todos os trabalhadores que, à data da entrada em vigor deste diploma, devem considerar-se ao serviço da empresa nacionalizada Socarmar - Sociedade de Cargas e Descargas Marítimas, S. A. R. L.
 
-###### Art. 3.º O capital estatutário da Socarmar, E. P., será fixado de acordo com o preceituado no [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho.
+Art. 3.º O capital estatutário da Socarmar, E. P., será fixado de acordo com o preceituado no [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho.
 
-###### Art. 4.º A comissão administrativa a que se refere o n.º 2 do artigo 3.º do [Decreto-Lei n.º 701-E/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-e-1975-166584), de 17 de Dezembro, cessará as suas funções aquando da nomeação do conselho de gerência da empresa.
+Art. 4.º A comissão administrativa a que se refere o n.º 2 do artigo 3.º do [Decreto-Lei n.º 701-E/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-e-1975-166584), de 17 de Dezembro, cessará as suas funções aquando da nomeação do conselho de gerência da empresa.
 
-###### Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 9 de Agosto de 1977.**
+Promulgado em 9 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 PROJECTO DE ESTATUTOS DA SOCARMAR, E. P.
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 (Natureza, denominação e sede)
 
@@ -418,4 +450,4 @@ d) Mapa de origem e aplicação de fundos.
 
 As dúvidas que se suscitarem na interpretação ou aplicação do presente estatuto são resolvidas por despacho do Ministro dos Transportes e Comunicações.
 
-**O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.**
+O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.

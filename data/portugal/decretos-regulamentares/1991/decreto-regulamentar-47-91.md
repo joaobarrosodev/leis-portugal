@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/47/1991/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1991-301617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d373f3b93448e3ca7f2f62e97f5852990044dbdad359bb333ac71edc6a1445f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32e09a565702aaea90f4cc30f274e0d32cd3213533b81eb26cbbeeabe34884a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
 - Concurso de Habilitação
+- Função Pública
 - Reestruturação de Carreiras
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421461:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:13Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +112,7 @@ Assim:
 
 Ao abrigo do disposto no n.º 7 do artigo 17.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. A alínea c) do n.º 2 do artigo 2.º do [Decreto Regulamentar n.º 32/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/32-1987-421461), de 18 de Maio, passa a ter a seguinte redacção:
+Artigo único. A alínea c) do n.º 2 do artigo 2.º do [Decreto Regulamentar n.º 32/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/32-1987-421461), de 18 de Maio, passa a ter a seguinte redacção:
 
 c) O prazo de validade é ilimitado;
 
@@ -108,12 +120,12 @@ Presidência do Conselho de Ministros, 5 de Agosto de 1991.
 
 Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 6 de Setembro de 1991.**
+Promulgado em 6 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Setembro de 1991.**
+Referendado em 10 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

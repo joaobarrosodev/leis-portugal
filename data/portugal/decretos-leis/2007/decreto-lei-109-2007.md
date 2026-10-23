@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/109/2007/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2007-519626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb8bb255a36eddf9972a9eeff790a979545fe70eb8308d43c9a62322f179ed8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b979e9e46f8a98b695fc66ef9c423e72e9378439ed6b5ad6d6560abbdb27196
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Prevenção de Incêndios
-- Sociedade Anónima
 - Capital Social
-- Ministério da Administração Interna
-- Transporte Aéreo
 - Criação de Empresas
-- Estatuto
-- Setor Empresarial do Estado
 - EMA
+- Estatuto
+- Incêndio
+- Ministério da Administração Interna
+- Prevenção de Incêndios
+- Setor Empresarial do Estado
+- Sociedade Anónima
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:571021:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260397:por
+  label: "Alterado o art. 3º, revogados os n.os 2 e 3 do mesmo art. 3.º e alterado o art. 3º e revogado o n.º 2 do art. 3.º\
+    \ dos Estatutos da EMA- Empresa de Meios Aéreos, S.A., publicados em anexo, pelo DEC LEI.57/2013.19.04.2013.MAI, DR.IS\
+    \ [77] de 19.04.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-2013-260397
+  date: '2013-04-19'
+- type: amended_by
+  target: pt:dre:571021:por
+  label: "Determinada a dissolução da EMA – Empresa de Meios Aéreos, S.A, criada pelo presente diploma, alterado pelo Dec\
+    \ Lei 57/2013 de 19-abr, pelo DEC LEI.8/2014.17.01.2014.MAI, DR.IS [12] de 17.01.2014, que procedeu à sua revogação, sem\
+    \ prejuízo da manutenção em vigor transitória (até à data do registo do encerramento da liquidação da referida sociedade\
+    \ publicitada por despacho dos membros do Governo responsáveis pelas áreas das finanças e da administração interna), nos\
+    \ termos do disposto no art. 6º do citado Dec Lei 8/2014, do nº 1 do art. 3º e dos arts. 4º e 8º do presente diploma,\
+    \ bem como do nº 1 do art. 3º dos Estatutos da EMA, publicados em anexo. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2014-571021
+  date: '2014-01-17'
 - type: cites
   target: celex:32003R1702
   label: null
@@ -88,13 +105,13 @@ relationships:
 article_structure:
   article_count: 32
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:53Z'
   warnings: []
   errors: []
 ---
@@ -183,15 +200,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Mário Lino Soares Correia.
 
-**Promulgado em 4 de Abril de 2007.**
+Promulgado em 4 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 9 de Abril de 2007.**
+Referendado em 9 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 1.º)
 

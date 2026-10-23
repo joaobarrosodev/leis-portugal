@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/101/2007/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2007-520208
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c11af20a981d5cdf12cf730b13aae2bba450533a2b4adb48aeaf15bc662d72d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8dddfa315ac12bde4261731a70c1ee8bfd9226ff4a7e920354935ebc48ddac93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
-- Energia Elétrica
 - Definição de Competências
+- Direcção Geral de Geologia e Energia
+- Energia Elétrica
 - Equipamento Eléctrico
 - Licenciamento
-- Direcção Geral de Geologia e Energia
+- Modernização Administrativa
 - Regulamento de Licenças para Instalações Eléctricas
 - Vistoria
 relationships:
@@ -91,16 +91,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/30/2006/07/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30/2006/07/11/p/dre
+- type: cites
+  target: pt:dre:283681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626594:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:47Z'
   warnings: []
   errors: []
 ---
@@ -149,13 +177,17 @@ Tipo B - instalações que sejam alimentadas por instalações de serviço públ
 
 Tipo C - instalações alimentadas por uma rede de distribuição de serviço público em baixa tensão ou instalações de carácter permanente com produção própria em baixa tensão até 100 kVA, se de segurança ou de socorro.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Com excepção do referido nos artigos 27.º e 28.º, as instalações eléctricas de serviço público ficam sujeitas a licença para o seu estabelecimento, a conceder pelo director-geral de Geologia e Energia ou pelo director regional da economia, nos termos do disposto no presente Regulamento.
 
 2 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A licença de estabelecimento para as instalações eléctricas de serviço particular do tipo A é concedida pelo director regional da economia territorialmente competente, à excepção das seguintes:
 
@@ -179,7 +211,9 @@ b) Centrais fotovoltaicas ou eólicas destinadas a abastecer de energia eléctri
 
 4 - (Revogado.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A licença de estabelecimento para instalações eléctricas do tipo B que ultrapassem os limites da respectiva propriedade ou que tenham uma extensão superior a 500 m é concedida pelo director regional da economia territorialmente competente.
 
@@ -187,7 +221,9 @@ b) Centrais fotovoltaicas ou eólicas destinadas a abastecer de energia eléctri
 
 3 - Quando as instalações eléctricas indicadas nos números anteriores ultrapassem os limites da propriedade do respectivo requerente, deve este instruir o pedido com as autorizações dos proprietários dos locais atravessados.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - As instalações eléctricas do tipo C não dependem de licença para o estabelecimento, ficando sujeitas à fiscalização da direcção regional da economia territorialmente competente, bem como à inspecção das associações inspectoras de instalações eléctricas.
 
@@ -195,7 +231,9 @@ b) Centrais fotovoltaicas ou eólicas destinadas a abastecer de energia eléctri
 
 3 - A entrada em exploração das instalações referidas nos números anteriores fica condicionada ao cumprimento do disposto no artigo 6.º do [Decreto-Lei n.º 272/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1992-597570), de 3 de Dezembro.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -219,7 +257,9 @@ b) Centrais fotovoltaicas ou eólicas destinadas a abastecer de energia eléctri
 
 11 - Os pedidos de licença instruídos com as autorizações dos proprietários dos terrenos atravessados, bem como de todas as outras entidades territorialmente competentes, ficam dispensados das consultas ou publicação de éditos.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -259,7 +299,9 @@ n) ...
 
 6 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - O pedido de licença de estabelecimento de uma instalação eléctrica de serviço particular do tipo A que dela careça ou do tipo B que ultrapasse os limites da propriedade privada ou que tenham uma extensão superior a 500 m será feito em requerimento dirigido ao director-geral de Geologia e Energia ou ao director regional de economia, de acordo com a respectiva competência, e acompanhado do respectivo projecto, em triplicado, elaborado e instruído de maneira análoga à fixada para instalações de serviço público no artigo 15.º
 
@@ -267,7 +309,9 @@ n) ...
 
 3 - ...
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - As instalações eléctricas de serviço particular dos tipos A ou B que ultrapassem os limites da propriedade do requerente ou que tenham uma extensão superior a 500 m devem ser integralmente concluídas no prazo máximo de um ano a contar da data da atribuição da licença de estabelecimento.
 
@@ -277,7 +321,9 @@ n) ...
 
 4 - O não cumprimento dos prazos implica a revogação da licença atribuída ou da aprovação dada ao projecto.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - Com excepção dos casos abrangidos pelo n.º 4 do artigo 27.º e pelo artigo 28.º, o proprietário de instalação eléctrica de serviço público ou de serviço particular dos tipos A e B deve solicitar a sua vistoria mediante requerimento dirigido à Direcção-Geral de Geologia e Energia ou à direcção regional da economia, de acordo com a respectiva competência.
 
@@ -299,7 +345,7 @@ n) ...
 
 10 - (Revogado.)
 
-###### Artigo 42.º
+Artigo 42.º
 
 1 - Os requerimentos de vistoria referentes a instalações eléctricas de serviço público ou de serviço particular dos tipos A e B devem ser acompanhados do termo de responsabilidade pela sua exploração.
 
@@ -347,7 +393,9 @@ Carecem de projecto as instalações eléctricas definidas no Regulamento de Lic
 
 7) Redes particulares de distribuição de energia eléctrica em baixa tensão e respectivas instalações de iluminação exterior.
 
-## ANEXO V — [...]
+ANEXO V
+
+[...]
 
 1 - Instalações do tipo A de potência instalada superior a 50 kVA.
 
@@ -377,7 +425,9 @@ Carecem de projecto as instalações eléctricas definidas no Regulamento de Lic
 
 10 - ...
 
-## ANEXO VI — [...]
+ANEXO VI
+
+[...]
 
 1 - Instalações do tipo A cuja potência instalada esteja compreendida entre 20 kVA e 50 kVA.
 
@@ -415,7 +465,9 @@ b) Instalações colectivas de edifícios e entradas.
 
 2 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Compete às associações inspectoras de instalações eléctricas a aprovação de projectos de instalações eléctricas do seu âmbito de actuação, bem como a sua inspecção antes da sua entrada em serviço - inspecção inicial.
 
@@ -433,12 +485,12 @@ O presente decreto-lei entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - António José de Castro Guerra - Paulo Jorge Oliveira Ribeiro de Campos.
 
-**Promulgado em 19 de Março de 2007.**
+Promulgado em 19 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 21 de Março de 2007.**
+Referendado em 21 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

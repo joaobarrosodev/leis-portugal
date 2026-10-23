@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/20/1998/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1998-223626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:58:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38acce2528d0f852077d41069588c4309c31179de9e104ba3e511a7eb8572cef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6f274a699b4823135c8369e933a3380dfe5a35e173e6a65cb137510203b3527
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:58:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
+- Autoridade Florestal Nacional
 - Contra-ordenação
 - Direcção Geral das Florestas
-- Proteção da Floresta
+- Exploração Florestal
 - Fiscalização
 - Instituto da Conservação da Natureza
+- Multa
+- Proteção da Floresta
 - Proteção do Ambiente
-- Exploração Florestal
-- Autoridade Florestal Nacional
 - Sistema Nacional de Áreas Protegidas
 relationships:
 - type: amended_by
   target: pt:dre:553442:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:438175:por
+  label: "Alterada a al. g) e h) do n.º 1 do art. 1.º e o art. 3.º pelo DEC LEI.253/98.1998.08.11.MADRP DR.IS-A [184]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/253-1998-438175
+  date: '1998-08-11'
+- type: amended_by
+  target: pt:dre:553442:por
+  label: Mantido em vigor o presente diploma pelo(a) Lei n.º 12/2012 - Diário da República n.º 52/2012, Série I de 2012-03-13,
+    nos termos do disposto no n.º 2 do art. 3.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2012-553442
+  date: '2012-03-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/74/1996/06/18/p/dre
   label: null
@@ -93,16 +104,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/11/1997/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/11/1997/04/30/p/dre
+- type: cites
+  target: pt:dre:285306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680642:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490450:por
+  label: "Revogado o presente diploma, a partir de 16.12.2011, sem prejuízo do disposto no n.º 1 do art. 2.º, na redacção\
+    \ do Dec Lei 253/98, de 11-Ago, pelo DEC LEI.254/2009.24.09.2009.MADRP, DR.IS [186] de 24.09.2009 (Ver Notas)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2009-490450
+  date: '2009-09-24'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:58:33Z'
   warnings: []
   errors: []
 ---
@@ -169,12 +230,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Novembro de 1997. - António Manuel de Oliveira Guterres - Fernando Teixeira dos Santos - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 6 de Janeiro de 1998.**
+Promulgado em 6 de Janeiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Janeiro de 1998.**
+Referendado em 19 de Janeiro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

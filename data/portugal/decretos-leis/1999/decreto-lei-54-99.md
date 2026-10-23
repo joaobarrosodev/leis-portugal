@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/02/043a00/10021005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/54/1999/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1999-158444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:14:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5f03bcd575698ecead808e7aeb40e3953e308a90447d8a33e1dcd4b8ea87975
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd861c1d32284ec9eea75b1b83edae13f01df8198d5f66a179c1ec919a4f47d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:14:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Gestão de Resíduos
-- Recursos Hídricos
 - Descarga de ÁGUA Residual
 - Fiscalização
+- Gestão de Resíduos
 - Hexaclorociclo-hexano
 - Licenciamento
-- Proteção do Ambiente
 - Poluição da água
 - Poluição Industrial
+- Proteção do Ambiente
+- Recursos Hídricos
 relationships:
 - type: amended_by
   target: pt:dre:342131:por
@@ -89,16 +89,26 @@ relationships:
   target: celex:31996L0061
   label: null
   source: http://data.europa.eu/eli/dir/1996/61/oj
+- type: corrected_by
+  target: pt:dre:219933:por
+  label: "Rectificado pela DECL-RECT.10-T/99.1999.04.30.PCM DR.IS-A [101]SUPL DE 30/ABR/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-t-1999-219933
+  date: '1999-04-30'
+- type: repealed_by
+  target: pt:dre:342131:por
+  label: "Revogada a al. B) do anexo pelo DEC LEI.103/2010.24.09.2010.MAOT, DR.IS [187] de 24.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-2010-342131
+  date: '2010-09-24'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:14:58Z'
   warnings: []
   errors: []
 ---
@@ -243,15 +253,15 @@ No que respeita ao HCH, consideram-se derrogadas as disposições do anexo XXII 
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 1998. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 10 de Fevereiro de 1999.**
+Promulgado em 10 de Fevereiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Fevereiro de 1999.**
+Referendado em 11 de Fevereiro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — A) Valores limite e procedimentos de verificação de conformidade
 

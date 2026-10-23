@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/168/1999/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/168-1999-354703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:30:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1286ec65ca9e3955ad51e8aaad59caee74f797e186e73bb036b4045b42813257
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b26727fb0cd996d5b4546ae00589cf0e9402451da09bb628d83558830afe05f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:30:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Profissão Artística
 - Convenção
-- Portugal
 - Direito de Autor
-- Radiodifusão
-- Organismo de Radiodifusão
-- Roma
 - Fonograma
+- Organismo de Radiodifusão
+- Portugal
+- Profissão Artística
+- Radiodifusão
+- Roma
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/61/1999/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/61/1999/07/22/p/dre
+- type: cites
+  target: pt:dre:354700:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:30:38Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +101,7 @@ validation:
 
 de 22 de Julho
 
-**O presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 ###### Artigo 1.º
 
@@ -113,12 +117,12 @@ b) Que, nos termos do n.º 2 do artigo 6.º da Convenção, só concederá a pro
 
 c) Que, nos termos da subalínea IV da alínea a) do n.º 1 do artigo 16.º da Convenção, a extensão e a duração da protecção prevista no seu artigo 12.º se verificará em relação aos fonogramas cujo produtor seja nacional de outro Estado Contratante na medida em que este Estado Contratante proteja os fonogramas fixados pela primeira vez por nacional do Estado Português.
 
-**Assinado em 2 de Julho de 1999.**
+Assinado em 2 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Julho de 1999.**
+Referendado em 9 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

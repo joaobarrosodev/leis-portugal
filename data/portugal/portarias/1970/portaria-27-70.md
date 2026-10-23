@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/27-1970-227248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 246dcdc55167efce8198d507bf417985805173f82251fb1ab3dd5cfd90401733
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cecbc973eabadd6853773640db0d138912b2ddb860a678b978097657fed36e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474544:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:00Z'
   warnings: []
   errors: []
 ---
@@ -89,11 +97,11 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 Pagamento de serviços:
 
-###### Artigo 8.º, n.º 2) «Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 258000$00
+Artigo 8.º, n.º 2) «Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 258000$00
 
 Diversos encargos:
 
-###### Artigo 11.º «Abono de família» ... 100$00
+Artigo 11.º «Abono de família» ... 100$00
 
 ... 258100$00
 
@@ -103,7 +111,7 @@ tomando como contrapartida igual importância a sair das disponibilidades existe
 
 Despesas com o pessoal:
 
-###### Artigo 1.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1), alínea a) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 18100$00
 
@@ -113,15 +121,15 @@ N.º 3) «Pessoal assalariado» ... 10000$00
 
 N.º 5) «Eventual (pessoal dos serviços de enfermagem, de laboratório e gerais)» ... 18000$00
 
-###### Artigo 2.º, n.º 1), alínea b) «Remunerações acidentais - Gratificações - Remunerações ao pessoal coadjuvante pelos serviços extraordinários prestados fora das horas regulamentares» ... 3000$00
+Artigo 2.º, n.º 1), alínea b) «Remunerações acidentais - Gratificações - Remunerações ao pessoal coadjuvante pelos serviços extraordinários prestados fora das horas regulamentares» ... 3000$00
 
-###### Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Encargos com o subsídio eventual de custo de vida, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 17000$00
+Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Encargos com o subsídio eventual de custo de vida, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 17000$00
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 1) «Construções e obras novas - Edifícios e outras construções» ... 12000$00
+Artigo 4.º, n.º 1) «Construções e obras novas - Edifícios e outras construções» ... 12000$00
 
-###### Artigo 5.º «Aquisições de utilização permanente»:
+Artigo 5.º «Aquisições de utilização permanente»:
 
 N.º 2) «Aquisição de móveis»:
 
@@ -129,7 +137,7 @@ Alínea d) «Outros móveis» ... 26000$00
 
 Alínea f) «Apetrechamento dos novos serviços de cirurgia, radiologia, agentes físicos, análises clínicas e infecto-contagiosos, isótopos, etc.» ... 130000$00
 
-###### Artigo 6.º «Despesas de conservação e aproveitamento do material»:
+Artigo 6.º «Despesas de conservação e aproveitamento do material»:
 
 N.º 1), alínea a) «De imóveis - Prédios rústicos (reparações, arborizações e aquisição de adubos e sementes)» ... 5000$00
 

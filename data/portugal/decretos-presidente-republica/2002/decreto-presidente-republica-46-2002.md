@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/46/2002/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/46-2002-656444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T04:42:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05a5a2d801e11b6df58b6b699937aff8252dfa7fb33c1a247f227afe60c653f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 146023e54baeb271710906e2bd3d1000169e14c3e6c79aa819c0e6c5dad51099
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:42:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,21 @@ relationships:
   target: pt:dre:541614:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:541614:por
+  label: "Exonerado João António da Silveira de Lima Pimentel pelo DEC.72/2006.28.09.2006.PR, DR.IS [188] de 28.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/72-2006-541614
+  date: '2006-09-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:42:24Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +98,16 @@ validation:
 
 de 10 de Outubro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o ministro plenipotenciário de 1.ª classe João António da Silveira de Lima Pimentel para o cargo de embaixador de Portugal em Banguecoque.
 
-**Assinado em 17 de Setembro de 2002.**
+Assinado em 17 de Setembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Outubro de 2002.**
+Referendado em 1 de Outubro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso. - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Manuel de Mendonça Martins da Cruz.**
+O Primeiro-Ministro, José Manuel Durão Barroso. - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Manuel de Mendonça Martins da Cruz.

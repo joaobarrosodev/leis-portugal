@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/153-1977-250434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:36:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 656225caa623bf67183f6bf00a04470c3b73b516ff9d4b6132626377bf7665b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 331bade533e1b058fad4d1910b79d428a56841c0bb4e101ca3f861bf7513117f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:36:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cessação de Actividade
+- RDP
+- Secretaria de Estado da Emigração
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:36:46Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +91,7 @@ Considerando que a potência dessas emissões em onda curta cobrem de forma idê
 
 Considerando que se afigura necessário concretizar, por meios urgentes e práticos, o espírito do despacho conjunto do Ministro dos Negócios Estrangeiros e do Ministro da Comunicação Social de 18 de Junho de 1976, que estabelece algumas normas nesta matéria:
 
-**O Secretário de Estado da Emigração e o Secretário de Estado da Comunicação Social determinam o seguinte:**
+O Secretário de Estado da Emigração e o Secretário de Estado da Comunicação Social determinam o seguinte:
 
 1. A partir do próximo dia 30 de Junho cessam as emissões da Rádio Liberdade, a cargo da Secretaria de Estado da Emigração, com estúdios instalados no Palácio Foz, transmitidas através do centro emissor de Sines da IFAP (Deutsche Welle);
 

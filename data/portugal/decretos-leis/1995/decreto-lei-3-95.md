@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/3/1995/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1995-147251
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd67f410619018b69c14a4e318a1aded30d7c97c6773f1f9ddeb275bc55209ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e38fe873dea2749754ff199a1cd76ed8d12ead33acb93fa2c48904a613b098d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Civil
-- Ministério Público
 - Direito Civil
+- Ministério Público
+- Processo Civil
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227/1994/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/227/1994/09/08/p/dre
+- type: cites
+  target: pt:dre:657045:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:46Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +111,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. - 1 - É admitido o arquivamento dos inventários obrigatórios instaurados em consequência de sucessões abertas anteriormente à data da entrada em vigor do [Decreto-Lei n.º 227/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1994-657045), de 8 de Setembro, se tal for requerido pelos representantes dos incapazes neles interessados ou pelo Ministério Público e desde que este, quando não seja o requerente, e os demais interessados, já citados para a causa, não deduzam oposição ao requerido.
+Artigo único. - 1 - É admitido o arquivamento dos inventários obrigatórios instaurados em consequência de sucessões abertas anteriormente à data da entrada em vigor do [Decreto-Lei n.º 227/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1994-657045), de 8 de Setembro, se tal for requerido pelos representantes dos incapazes neles interessados ou pelo Ministério Público e desde que este, quando não seja o requerente, e os demais interessados, já citados para a causa, não deduzam oposição ao requerido.
 
 2 - No caso previsto no número anterior, se, em consequência do termo do inventário obrigatório, tiver lugar a realização de partilha extrajudicial, aplica-se o disposto no [Decreto-Lei n.º 227/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1994-657045), de 8 de Setembro.
 
@@ -117,12 +121,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 3 de Novembro de 1994. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 29 de Dezembro de 1994.**
+Promulgado em 29 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Janeiro de 1995.**
+Referendado em 2 de Janeiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

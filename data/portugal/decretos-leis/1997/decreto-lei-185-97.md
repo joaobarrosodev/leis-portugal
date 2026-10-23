@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/172a00/38363841.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/185/1997/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1997-144597
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4f94f968f3571efc2346ade5dbd1810ec58fc49957a229cc48fd665f0f9ba42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c16c6f74f86484d3cb98e136d9a1eac0478db603537a52ec36e068a0240b28c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
 subjects:
 - Alteração Orçamental
 - Autonomia Administrativa
-- Pessoal Dirigente
 - Definição de Competências
-- Secretaria Geral
-- Ministério do Planeamento e da Administração do Território
 - Ministério da Ciência e da Tecnologia
 - Ministério do Equipamento Social
+- Ministério do Planeamento e da Administração do Território
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Receita Própria
 - Remuneração
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:553420:por
@@ -86,16 +86,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/144/1996/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/144/1996/08/26/p/dre
+- type: cites
+  target: pt:dre:401914:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553420:por
+  label: "Revogado pelo DEC LEI.111/2003.2003.06.04.MCES DR.IS-A [129]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2003-553420
+  date: '2003-06-04'
 article_structure:
   article_count: 20
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:35Z'
   warnings: []
   errors: []
 ---
@@ -322,9 +331,13 @@ c) Realizar cursos de formação, seminários, conferências e outras acções d
 
 d) Criar e manter actualizado um cadastro de especialistas e formadores ao serviço do Ministério da Ciência e da Tecnologia.
 
-##### SUBSECÇÃO III — Divisão de Informação, Relações Públicas e Protocolo
+##### SUBSECÇÃO III
 
-###### Artigo 10.º — Divisão de Informação, Relações Públicas e Protocolo
+##### Divisão de Informação, Relações Públicas e Protocolo
+
+###### Artigo 10.º
+
+##### Divisão de Informação, Relações Públicas e Protocolo
 
 Compete à Divisão de Informação, Relações Públicas e Protocolo:
 
@@ -348,9 +361,13 @@ i) Assegurar a publicação no Diário da República de todos os diplomas, despa
 
 j) Desenvolver as actividades necessárias à recepção, deslocação e estada de personalidades ou missões, estrangeiras ou nacionais, que se desloquem a convite do Ministro da Ciência e da Tecnologia.
 
-##### SUBSECÇÃO IV — Divisão de Informática e Arquivo
+##### SUBSECÇÃO IV
 
-###### Artigo 11.º — Divisão de Informática e Arquivo
+##### Divisão de Informática e Arquivo
+
+###### Artigo 11.º
+
+##### Divisão de Informática e Arquivo
 
 Compete à Divisão de Informática e Arquivo:
 
@@ -442,16 +459,16 @@ Transferem-se para a Secretaria-Geral do Ministério da Ciência e da Tecnologia
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 17 de Junho de 1997.**
+Promulgado em 17 de Junho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Julho de 1997.**
+Referendado em 2 de Julho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 Mapa a que se refere o n.º 2 do artigo 17.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/172a00/38363841.pdf))](https://files.diariodarepublica.pt/1s/1997/07/172a00/38363841.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/172a00/38363841.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/27/1996/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1996-547031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:46:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d4b45ab86402394b990a46468f1c2ccc9cf1d8fb1f6b00a980307c98cbf0e8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdcb5c3ee16b68e5bfde25bfef42da57211844fbfb15a0d47a572730c3ec9d45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:46:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fundação
 - Estatuto
+- Fundação
 - Fundação AGA KHAN
 - Pessoa Colectiva de Direito Privado
 - Utilidade Pública
@@ -75,6 +75,17 @@ relationships:
   target: pt:dre:309004:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:421630:por
+  label: "Alterada a redacção do nº 1 do art. 4º, pelo DEC LEI.377/97.1997.12.24.MSSS DR.IS-A [296]T\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/377-1997-421630
+  date: '1997-12-24'
+- type: amended_by
+  target: pt:dre:309004:por
+  label: "Alterado o art. 3º dos Estatutos aprovados pelo presente diploma, pelo DEC LEI.213/99.1999.06.15.PCM, DR.IS-A [137]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/213-1999-309004
+  date: '1999-06-15'
 - type: cites
   target: celex:31983R0918
   label: null
@@ -82,13 +93,13 @@ relationships:
 article_structure:
   article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:46:53Z'
   warnings: []
   errors: []
 ---
@@ -151,15 +162,15 @@ Assim, nos termos do artigo 201.º, n.º 1, alínea a), da Constituição, o Gov
 
 Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 1996. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Maria de Belém Roseira Martins Coelho Henriques de Pina - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 6 de Março de 1996.**
+Promulgado em 6 de Março de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Março de 1996.**
+Referendado em 8 de Março de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — ESTATUTOS DA FUNDAÇÃO AGA KHAN PORTUGAL
 
@@ -395,4 +406,4 @@ QUADRO I
 
 Disponibilidade e aplicações a curto prazo da Fundação AgaKhan, com sede em Genebra, em 31 de Dezembro de 1995
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/077a00/06660670.pdf))](https://files.diariodarepublica.pt/1s/1996/03/077a00/06660670.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/077a00/06660670.pdf)

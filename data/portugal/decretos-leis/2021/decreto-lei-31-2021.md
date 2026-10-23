@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/08900/0005300057.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/31/2021/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2021-162940683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25662d0a3103ea8c67ecc1a10646a5228f17ed2292d2991f61d8682ee7661585
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44f60ea261a3fb3bf208c960b82badf4dd2f1dcdd0b112868714a0faf7d06a67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Centro de Competências de Apoio à Política Externa do Estado
 - Criação de Serviços
 - Definição de Competências
-- Secretaria Geral
-- Orgânica
 - Ministério dos Negócios Estrangeiros
+- Orgânica
+- Pessoal Dirigente
+- Secretaria Geral
 - Secretário Geral
-- Centro de Competências de Apoio à Política Externa do Estado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/2011/12/29/p/dre
@@ -96,15 +96,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
 article_structure:
-  article_count: 9
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:20Z'
   warnings: []
   errors: []
 ---
@@ -301,7 +301,9 @@ viii) Contencioso do Estado no estrangeiro e cooperação judiciária internacio
 
 ix) Organização, comunicação e diplomacia pública.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 [...]:
 
@@ -317,7 +319,9 @@ e) [...];
 
 f) O Centro de Competências de Apoio à Política Externa.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 A organização interna dos serviços da SG obedece ao modelo de estrutura hierarquizada, com exceção do Centro de Competências de Apoio à Política Externa que obedece ao modelo de estrutura matricial.»
 
@@ -349,7 +353,9 @@ h) Contencioso do Estado no estrangeiro e cooperação judiciária internacional
 
 i) Organização, comunicação e diplomacia pública.
 
-###### Artigo 15.º-B — Direção do Centro de Competências de Apoio à Política Externa
+Artigo 15.º-B
+
+Direção do Centro de Competências de Apoio à Política Externa
 
 Sem prejuízo das competências que lhe sejam conferidas por lei, regulamento ou que nele sejam delegadas ou subdelegadas, compete ao Secretário-Geral do MNE, com faculdade de delegação:
 
@@ -363,7 +369,9 @@ d) Avaliar o desempenho profissional dos técnicos superiores, em colaboração 
 
 e) Representar o CAPE junto de outros serviços e de entidades nacionais, internacionais e estrangeiras.
 
-###### Artigo 15.º-C — Dotação e estatuto remuneratório dos chefes de equipas multidisciplinares
+Artigo 15.º-C
+
+Dotação e estatuto remuneratório dos chefes de equipas multidisciplinares
 
 1 - O número máximo de chefes de equipas multidisciplinares não pode exceder quatro.
 
@@ -379,12 +387,14 @@ São revogadas a alínea c) do artigo 5.º e a alínea i) do artigo 19.º do [De
 
 Visto e aprovado em Conselho de Ministros de 8 de abril de 2021. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - João Rodrigo Reis Carvalho Leão - Alexandra Ludomila Ribeiro Fernandes Leitão.
 
-**Promulgado em 29 de abril de 2021.**
+Promulgado em 29 de abril de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de maio de 2021.**
+Referendado em 3 de maio de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114209217

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/256a00/74687474.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/445/1999/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1999-694175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:12:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca0343996af46cf8e3942b0cb0cac354064aafadfed6541eb38028d5077e82d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91c5d3ba2ce56b4da29051d41724b1e256a68c6782eeb62b22909dd625992f55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:12:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,44 +67,56 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
+- Administração Local
+- Administração Regional
 - Agente Aduaneiro
 - Alfândega
-- Crime
-- Garantia
 - Câmara dos Despachantes Oficiais
+- Carreira Profissional
 - Cédula Profissional
-- Formação Profissional
 - Contrato
+- Crime
 - Definição de Competências
 - Deontologia Profissional
-- Regime Laboral
 - Desalfândegamento
+- Descrição de Funções
 - Despachante Oficial
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
 - Estatuto
-- Infracção Disciplinar
-- Carreira Profissional
+- Evasão Fiscal
 - Extinção de Serviços
+- Formação Profissional
 - Fraude Aduaneira
 - Fraude Fiscal
-- Ministério das Finanças
+- Garantia
 - Incompatibilidades
-- Publicitação
-- Descrição de Funções
-- Evasão Fiscal
+- Infracção Disciplinar
+- Ministério das Finanças
+- Ministério Público
 - Profissão Independente
 - Prova
+- Publicitação
 - Reforma Aduaneira
-- Administração Local
+- Regime Laboral
 - Regulamento das Alfândegas
-- Ministério Público
 - Remuneração
-- Administração Regional
 relationships:
 - type: amended_by
   target: pt:dre:70128395:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:385026:por
+  label: "Alterados os arts. 2º a 6º do presente diploma, bem como os arts. 1º, 2º, 3º, e 5º do Estatuto do Despachante Oficial,\
+    \ publicado em anexo, pelo DEC LEI.73/2001.2001.02.26.MF DR.IS-A [48]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2001-385026
+  date: '2001-02-26'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 1º do Dec Lei 289/88, de 24-Ago, na redacção do presente diploma, pela LEI.64-B/2011.30.12.2011.AR,\
+    \ DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/173/1998/06/26/p/dre
   label: null
@@ -121,16 +133,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:147408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623039:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70128395:por
+  label: Revogado, a partir de 26.09.2015, o presente Dec Lei, na redação do Dec Lei 73/2001 de 26-fev, pelo(a) Lei n.º 112/2015
+    - Diário da República n.º 167/2015, Série I de 2015-08-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/112-2015-70128395
+  date: '2015-08-27'
 article_structure:
-  article_count: 38
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:12:58Z'
   warnings: []
   errors: []
 ---
@@ -215,7 +265,9 @@ Os livros de registo referidos no artigo antecedente indicarão o nome do inscri
 
 § único. ...»
 
-###### Artigo 4.º — Alterações à Reforma Aduaneira
+Artigo 4.º
+
+Alterações à Reforma Aduaneira
 
 Os artigos 426.º, 430.º, 430.º-A, 470.º, 471.º e 478.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, passam a ter a seguinte redacção:
 
@@ -233,25 +285,25 @@ A solicitação, nas alfândegas, de qualquer modalidade de despacho ou outras d
 
 § único. Continua a designar-se «despacho de navios e de aeronaves» o conjunto de actos e formalidades necessários ao seu desembaraço aduaneiro, nele podendo intervir os donos ou agentes das respectivas empresas de navegação marítima ou área, em relação aos navios e aeronaves de que sejam proprietários ou que lhes venham consignados, quando as referidas empresas, se forem estrangeiras, mantenham com o País carreiras regulares com toda ou parte da sua frota, e os despachantes oficiais, em qualquer caso.
 
-###### Artigo 430.º
+Artigo 430.º
 
 Não podem despachar ou efectuar outras declarações nas alfândegas os comerciantes falidos não reabilitados ou sobre quem impenda a interdição do exercício da actividade que consiste em fazer declarações aduaneiras.
 
-###### Artigo 430.º-A
+Artigo 430.º-A
 
 1 - Os directores das alfândegas exigirão a todas as pessoas que exerçam a profissão de fazer declarações aduaneiras uma caução, de valor nunca inferior a 10000000$00, como obrigação prévia ao exercício dessa actividade, a efectuar na alfândega em cuja área de jurisdição se situe o respectivo domicílio fiscal.
 
 2 - A caução referida no número anterior, a prestar por depósito, fiança bancária ou seguro-caução, servirá de garantia, em primeiro lugar, ao Estado e aos restantes lesados, se os houver.
 
-###### Artigo 470.º
+Artigo 470.º
 
 Compete à CDO determinar os requisitos, a organização e o acesso à profissão de despachante oficial.
 
-###### Artigo 471.º
+Artigo 471.º
 
 Compete ao Ministério das Finanças, por intermédio da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, o exercício dos poderes de tutela sobre a CDO.
 
-###### Artigo 478.º
+Artigo 478.º
 
 A todos os indivíduos referidos no n.º 1 do artigo 426.º serão passadas cédulas para prova da sua habilitação na alfândega e exercício das funções que lhes competem.
 
@@ -261,7 +313,9 @@ A todos os indivíduos referidos no n.º 1 do artigo 426.º serão passadas céd
 
 § 3.º ...»
 
-###### Artigo 5.º — Alterações ao [Decreto-Lei n.º 289/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1988-379919), de 24 de Agosto
+Artigo 5.º
+
+Alterações ao [Decreto-Lei n.º 289/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1988-379919), de 24 de Agosto
 
 O artigo 2.º do [Decreto-Lei n.º 289/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1988-379919), de 24 de Agosto, passa a ter a seguinte redacção:
 
@@ -271,7 +325,9 @@ O artigo 2.º do [Decreto-Lei n.º 289/88](https://diariodarepublica.pt/dr/detal
 
 2 - ...»
 
-###### Artigo 6.º — Legislação revogada
+Artigo 6.º
+
+Legislação revogada
 
 1 - São revogados os artigos 426.º, n.os 2 e 3, 427.º, 429.º, n.os 2 e 3, §§ 1.º e 2.º, 434.º, 435.º, 436.º, 437.º, 438.º, 439.º, 458.º, 472.º, 474.º, 475.º, 476.º, 481.º, 482.º, § único, 485.º, 485.º-A e 524.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965.
 
@@ -279,29 +335,37 @@ O artigo 2.º do [Decreto-Lei n.º 289/88](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 16 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 19 de Outubro de 1999.**
+Promulgado em 19 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Outubro de 1999.**
+Referendado em 21 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ESTATUTO DOS DESPACHANTES OFICIAIS
 
-### CAPÍTULO I — Exercício da profissão
+CAPÍTULO I
 
-###### Artigo 1.º — Designação
+Exercício da profissão
+
+Artigo 1.º
+
+Designação
 
 Designam-se por despachantes oficiais os profissionais inscritos na Câmara dos Despachantes Oficiais, adiante designada por CDO, nos termos do respectivo Estatuto, sendo-lhes atribuído em exclusividade o uso desse título profissional, bem como o exercício profissional das respectivas funções.
 
-###### Artigo 2.º — Caracterização da profissão
+Artigo 2.º
+
+Caracterização da profissão
 
 Os despachantes oficiais intervêm como declarantes em nome e por conta de outrem, em qualquer parte do território nacional, nos actos e formalidades previstos na legislação aduaneira, incluindo as declarações de mercadorias originárias ou destinadas a países terceiros, as declarações de mercadorias sujeitas a impostos especiais sobre o consumo e outras declarações com implicações aduaneiras ou cuja gestão ou recepção venha a ser atribuída à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo.
 
-###### Artigo 3.º — Modos de exercício da profissão
+Artigo 3.º
+
+Modos de exercício da profissão
 
 Os despachantes oficiais podem exercer a sua actividade:
 
@@ -313,25 +377,35 @@ c) Como contratados pela administração central, regional ou local;
 
 d) Como assalariados de outro despachante oficial, de outros profissionais ou de uma pessoa colectiva.
 
-###### Artigo 4.º — Acesso à profissão
+Artigo 4.º
+
+Acesso à profissão
 
 Os candidatos a despachante oficial devem possuir o curso de acesso à profissão ou aprovação nas provas de equivalência ao referido curso.
 
-###### Artigo 5.º — Curso de acesso à profissão
+Artigo 5.º
+
+Curso de acesso à profissão
 
 O curso de acesso à profissão de despachante oficial é realizado anualmente, nos termos das regras a fixar em regulamento.
 
-###### Artigo 6.º — Cursos de actualização e reciclagem
+Artigo 6.º
+
+Cursos de actualização e reciclagem
 
 Os despachantes oficiais devem frequentar, pelo menos trienalmente, cursos de formação e reciclagem.
 
-###### Artigo 7.º — Identificação dos despachantes oficiais
+Artigo 7.º
+
+Identificação dos despachantes oficiais
 
 1 - Os despachantes oficiais são identificados através da respectiva cédula profissional, emitida pela CDO.
 
 2 - A CDO poderá emitir cartões de acesso às instalações aduaneiras para despachantes oficiais e seus ajudantes.
 
-###### Artigo 8.º — Vinhetas de controlo
+Artigo 8.º
+
+Vinhetas de controlo
 
 1 - O selo de garantia previsto no Estatuto da CDO assumirá a forma de vinheta de controlo de aposição obrigatória em todas as declarações efectuadas pelos despachantes oficiais.
 
@@ -341,7 +415,9 @@ Os despachantes oficiais devem frequentar, pelo menos trienalmente, cursos de fo
 
 4 - Os despachantes oficiais manterão registo da utilização das vinhetas, por declaração efectuada, devendo fornecer à CDO todas as informações que lhes forem solicitadas pelas autoridades aduaneiras e fiscais.
 
-###### Artigo 9.º — Exercício da profissão por estrangeiros
+Artigo 9.º
+
+Exercício da profissão por estrangeiros
 
 1 - Os despachantes de Estados membros da União Europeia podem exercer a respectiva profissão em Portugal após a inscrição na CDO.
 
@@ -349,7 +425,9 @@ Os despachantes oficiais devem frequentar, pelo menos trienalmente, cursos de fo
 
 3 - Aos candidatos mencionados nos n.º 1 e 2 pode ser exigida, pela CDO, para efeitos de inscrição, a realização de exame.
 
-###### Artigo 10.º — Caução
+Artigo 10.º
+
+Caução
 
 1 - Os despachantes oficiais, para exercerem a sua profissão, devem prestar uma caução por depósito, fiança bancária ou seguro-caução no valor de 10000 contos, que servirá de garantia, em primeiro lugar, ao Estado e aos restantes lesados, se os houver.
 
@@ -359,19 +437,27 @@ Os despachantes oficiais devem frequentar, pelo menos trienalmente, cursos de fo
 
 4 - A caução deve ser prestada ao director da alfândega onde se situe a área de jurisdição do respectivo domicílio fiscal.
 
-###### Artigo 11.º — Ajudantes de despachantes oficiais
+Artigo 11.º
+
+Ajudantes de despachantes oficiais
 
 Os despachantes oficiais podem ter ao seu serviço ajudantes que os auxiliem nos actos referentes às declarações e à tramitação aduaneira, dentro ou fora das alfândegas.
 
-###### Artigo 12.º — Lista dos despachantes oficiais
+Artigo 12.º
+
+Lista dos despachantes oficiais
 
 1 - A CDO publicará, trienalmente, durante o mês de Março, na 3.ª série do Diário da República, a relação nominal, por ordem alfabética, com indicação do número de membro, dos despachantes oficiais inscritos até 31 de Dezembro do último triénio que estejam no pleno gozo dos seus direitos.
 
 2 - Nos meses de Março e Outubro de cada ano a Câmara publicará, nos mesmos termos, um aditamento à lista referida no número anterior, do qual constarão os despachantes oficiais cuja inscrição tenha sido concretizada, suspensa, cancelada ou regularizada durante o semestre imediatamente anterior.
 
-### CAPÍTULO II — Direitos, deveres, incompatibilidades e deontologia profissional
+CAPÍTULO II
 
-###### Artigo 13.º — Direitos dos despachantes oficiais
+Direitos, deveres, incompatibilidades e deontologia profissional
+
+Artigo 13.º
+
+Direitos dos despachantes oficiais
 
 Para além dos direitos sociais previstos no artigo 59.º do Estatuto da CDO, os despachantes oficiais têm, designadamente, os seguintes direitos:
 
@@ -385,7 +471,9 @@ d) Dispor de condições de acesso à formação para actualização e aperfeiç
 
 e) Dispor dos meios e assistência necessários às tarefas de que são incumbidos e a uma remuneração condigna do seu trabalho.
 
-###### Artigo 14.º — Deveres gerais
+Artigo 14.º
+
+Deveres gerais
 
 1 - Os despachantes oficiais devem contribuir para o prestígio da profissão, desempenhando consciente e diligentemente as suas funções e evitando qualquer actuação contrária à dignidade da mesma.
 
@@ -415,11 +503,15 @@ l) Zelar pelo interesse das entidades com as quais colaborem, sem prejuízo da s
 
 3 - Os despachantes oficiais devem possuir registo de todos os serviços prestados aos seus clientes e mantê-lo actualizado, devendo, no caso de não possuírem contabilidade regularmente organizada segundo os planos de contas oficialmente aplicáveis, manter um registo actualizado das contas correntes onde estejam inscritos todos os movimentos de entrada e saída de fundos referentes a cada cliente.
 
-###### Artigo 15.º — Incompatibilidades
+Artigo 15.º
+
+Incompatibilidades
 
 O exercício da profissão de despachante oficial é incompatível com o exercício da profissão de funcionário aduaneiro.
 
-###### Artigo 16.º — Princípios de deontologia
+Artigo 16.º
+
+Princípios de deontologia
 
 Os despachantes oficiais devem:
 
@@ -435,7 +527,9 @@ e) Abster-se de exercer qualquer pressão ilegítima sobre a autoridade pública
 
 f) Defender e fazer defender o sigilo profissional.
 
-###### Artigo 17.º — Deveres de isenção
+Artigo 17.º
+
+Deveres de isenção
 
 Os despachantes oficiais, no exercício da sua profissão, devem:
 
@@ -447,7 +541,9 @@ c) Abster-se de se envolverem em situações que possam comprometer o desempenho
 
 d) Basear a promoção da sua actividade profissional em informações verdadeiras.
 
-###### Artigo 18.º — Deveres para com as entidades a quem prestem serviços
+Artigo 18.º
+
+Deveres para com as entidades a quem prestem serviços
 
 Nas suas relações com as entidades a quem prestem serviços, constituem deveres dos despachantes oficiais:
 
@@ -467,15 +563,21 @@ g) Não abandonar, sem justificação ponderosa, os trabalhos que lhes estejam c
 
 h) Prestar contas das importâncias recebidas dos seus clientes ou a eles pertencentes, quer tenham sido recebidas a título de adiantamento para despesas por sua conta e ordem ou a título de honorários, quer devolvidas pela liquidação de cauções ou depósitos provisórios;
 
-###### Artigo 19.º — Dever de colaboração na luta contra a fraude e evasão fiscal e aduaneira
+Artigo 19.º
+
+Dever de colaboração na luta contra a fraude e evasão fiscal e aduaneira
 
 Os despachantes oficiais, no exercício da sua profissão, devem prestar toda a colaboração que se revelar necessária às entidades oficiais, nacionais e comunitárias, coordenadoras da luta contra a fraude e evasão fiscal e aduaneira.
 
-###### Artigo 20.º — Deveres para com a administração aduaneira
+Artigo 20.º
+
+Deveres para com a administração aduaneira
 
 Os despachantes oficiais devem, com correcção e lealdade, prestar toda a colaboração aos funcionários e agentes dos serviços aduaneiros nos actos e formalidades em que intervenham.
 
-###### Artigo 21.º — Relações com outros profissionais
+Artigo 21.º
+
+Relações com outros profissionais
 
 Nas relações com outros profissionais, os despachantes oficiais devem:
 
@@ -483,7 +585,9 @@ a) Respeitar os princípios, normas, tradições e regras deontológicas própri
 
 b) Cooperar nas realizações e iniciativas de interesse mútuo.
 
-###### Artigo 22.º — Deveres recíprocos dos despachantes oficiais
+Artigo 22.º
+
+Deveres recíprocos dos despachantes oficiais
 
 Os despachantes oficiais devem:
 
@@ -495,7 +599,9 @@ c) Ser solidário com qualquer colega injustamente ofendido na sua actividade, d
 
 d) Não se apropriar indevidamente de dados ou resultados da actividade alheia.
 
-###### Artigo 23.º — Fixação dos honorários
+Artigo 23.º
+
+Fixação dos honorários
 
 1 - Na fixação dos horários os despachantes oficiais devem proceder com moderação, atender ao tempo gasto e à complexidade do serviço prestado e ter em conta o valor da mercadoria.
 
@@ -505,24 +611,36 @@ d) Não se apropriar indevidamente de dados ou resultados da actividade alheia.
 
 4 - Não é permitido aos despachantes oficiais repartir honorários, excepto com colegas que tenham prestado colaboração.
 
-###### Artigo 24.º — Limitações à publicidade
+Artigo 24.º
+
+Limitações à publicidade
 
 1 - É vedada aos despachantes oficiais toda a espécie de publicidade por circulares, anúncios, meios de comunicação social ou qualquer outra forma, directa ou indirecta, de publicidade profissional.
 
 2 - Não são consideradas formas de publicidade para efeitos do disposto no número anterior o uso de tabuletas no exterior dos escritórios, a utilização de cartões de visita ou papel de carta, desde que com a simples menção do nome do despachante ou da sociedade de que faz parte, dos títulos académicos, do endereço dos escritórios e do horário de funcionamento.
 
-###### Artigo 25.º — Participação de crimes públicos
+Artigo 25.º
+
+Participação de crimes públicos
 
 Os despachantes oficiais devem participar ao Ministério Público, através da CDO, os factos detectados no exercício das respectivas funções de interesse público que se qualifiquem como crimes públicos.
 
-### CAPÍTULO III — Acção disciplinar
+CAPÍTULO III
 
-###### Artigo 26.º — Responsabilidade disciplinar
+Acção disciplinar
+
+Artigo 26.º
+
+Responsabilidade disciplinar
 
 Os despachantes oficiais estão sujeitos à jurisdição disciplinar dos órgãos da CDO, nos termos previstos no respectivo Estatuto, sendo-lhes designadamente aplicáveis as regras nele previstas em caso de violação de algum dos deveres fixados no presente Estatuto.
 
-### CAPÍTULO IV — Disposições finais
+CAPÍTULO IV
 
-###### Artigo 27.º — Legislação subsidiária
+Disposições finais
+
+Artigo 27.º
+
+Legislação subsidiária
 
 Em tudo o que não se revelar contrário ao disposto no presente diploma aplicar-se-ão à profissão de despachante oficial as disposições da lei geral sobre o contrato de mandato.

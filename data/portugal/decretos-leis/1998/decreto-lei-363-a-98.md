@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19
   number: '268'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6272-(2) a 6272-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/268a01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/363-a/1998/11/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:02:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c803f6c8847e1f924f3e73b539088d730d0c4971433f4e331f279fb16b6298df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc9d7a57a21135185d864aea59cb5b80888a5fbd7e22ed37305130dd2ec6a7ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:02:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,30 +71,30 @@ subjects:
 - Auditoria Financeira
 - Autonomia Administrativa
 - Autonomia Financeira
+- Avaliação do Pessoal
 - Carreira de Inspecção Superior
-- Inspeção Geral de Finanças
-- Formação Profissional
-- Pessoal Dirigente
-- Gestão Financeira
+- Conselho de Inspecção
 - Controlo Financeiro
 - Controlo Orçamental
 - Definição de Competências
-- Processo Disciplinar
 - Finanças Públicas
 - Fiscalização
+- Formação Profissional
 - Fundos CE
 - Gestão
+- Gestão de Recursos Humanos
 - Gestão do Património
+- Gestão Financeira
 - Gestão Pública
 - Incompatibilidades
-- Conselho de Inspecção
+- Inspeção Geral de Finanças
 - Integração de Trabalhadores
-- QCA
 - Orgânica
 - Pessoal de Inspecção
+- Pessoal Dirigente
+- Processo Disciplinar
+- QCA
 - Quadro de Pessoal
-- Avaliação do Pessoal
-- Gestão de Recursos Humanos
 relationships:
 - type: cites
   target: celex:31992L0078
@@ -115,13 +115,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:02:33Z'
   warnings: []
   errors: []
 ---
@@ -150,12 +150,12 @@ O disposto no presente diploma produz efeitos a partir da data da entrada em vig
 
 Visto e aprovado em Conselho de Ministros de 13 de Novembro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 17 de Novembro de 1998.**
+Promulgado em 17 de Novembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Novembro de 1998.**
+Referendado em 18 de Novembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

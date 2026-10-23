@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20996-1964-535194
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:53:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a40b7bcd38683ac596b32196cc6cdd53c5a5a54eec24b2174755aea20179944
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 915163da41c47697847f4d66fb2dcdf05e0235b464a018c7cd2c9220535164cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:53:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:53:56Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +95,15 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 Encargos gerais:
 
-###### Artigo 1679.º, n.º 12), alínea h) «Quota-parte da província em encargos na metrópole - Outros encargos - Quota-parte com que a província concorre para fazer face aos encargos resultantes de conferências internacionais e organismos delas derivados e outras despesas correlativas» ... 200000$00
+Artigo 1679.º, n.º 12), alínea h) «Quota-parte da província em encargos na metrópole - Outros encargos - Quota-parte com que a província concorre para fazer face aos encargos resultantes de conferências internacionais e organismos delas derivados e outras despesas correlativas» ... 200000$00
 
-###### Artigo 1683.º «Deslocações do pessoal»:
+Artigo 1683.º «Deslocações do pessoal»:
 
 N.º 4), alínea a) «Passagens de ou para o exterior por motivo de licença graciosa - A pagar na metrópole» ... 1000000$00
 
 N.º 5), alínea a) «Passagens de ou para o exterior por quaisquer outros motivos - A pagar na metrópole» ... 2500000$00
 
-###### Artigo 1684.º «Diversas despesas», n.º 6), alínea a) «Despesas com assistência médica, tratamento e internamento de casos de tuberculose, câncer, alienação mental e lepra, em hospitais, manicómios, casas de saúde e sanatórios de funcionários civis do activo, aposentados e operários do Estado e de colonos pobres das províncias ultramarinas» ... 50000$00
+Artigo 1684.º «Diversas despesas», n.º 6), alínea a) «Despesas com assistência médica, tratamento e internamento de casos de tuberculose, câncer, alienação mental e lepra, em hospitais, manicómios, casas de saúde e sanatórios de funcionários civis do activo, aposentados e operários do Estado e de colonos pobres das províncias ultramarinas» ... 50000$00
 
 ... 3750000$00
 

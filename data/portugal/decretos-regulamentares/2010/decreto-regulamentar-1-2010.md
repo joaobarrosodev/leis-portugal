@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/04/08000/0138601389.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/1/2010/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2010-614135
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:32:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99b6f2d02b3776719a78fb525a39d97b57c0b0809f88ac39d5b4146ba29a810a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e043b9c43feaf16b0649b0f565a494e807821a34dcdf2f5a1a81dedba69b4a22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:32:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
-- Inspecção Geral das Actividades em Saúde
-- Pessoal Especializado
-- Procriação Medicamente Assistida
 - Conselho Nacional de Procriação Medicamente Assistida
 - Inseminação Artificial
+- Inspecção Geral das Actividades em Saúde
+- Médico
+- Pessoal Especializado
+- Procriação Medicamente Assistida
 - Setor Privado
 - Setor Público
 relationships:
@@ -79,6 +79,12 @@ relationships:
   target: pt:dre:105643546:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:496705:por
+  label: "Alterado o art. 5.º do DR 5/2008, de 11- fev, na redação do presente diploma, pelo DR.4/2013.11.06.2013.MS, DR.IS\
+    \ [111] de 11.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-2013-496705
+  date: '2013-06-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/5/2008/02/11/p/dre
   label: null
@@ -87,16 +93,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/32/2006/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/32/2006/07/26/p/dre
+- type: cites
+  target: pt:dre:248231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539239:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:105643546:por
+  label: Revogado pelo(a) Decreto Regulamentar n.º 6/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-2016-105643546
+  date: '2016-12-29'
 article_structure:
-  article_count: 24
+  article_count: 20
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:32:44Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +156,9 @@ Os artigos 2.º, 5.º, 6.º e 8.º do [Decreto Regulamentar n.º 5/2008](https:/
 
 3 - Aos centros referidos no número anterior pode ser autorizada a realização do conjunto das técnicas de PMA previstas no artigo 2.º da [Lei n.º 32/2006](https://diariodarepublica.pt/dr/detalhe/lei/32-2006-539239), de 26 de Julho, para a execução exclusiva da técnica de inseminação artificial ou para a selecção de dadores e preservação de gâmetas.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -149,13 +170,17 @@ Os artigos 2.º, 5.º, 6.º e 8.º do [Decreto Regulamentar n.º 5/2008](https:/
 
 5 - O disposto nos n.os 2, 3 e 4 não se aplica aos centros autorizados exclusivamente para a inseminação artificial, nem aos centros autorizados exclusivamente para a selecção de dadores e preservação de gâmetas, casos em que se aplicam os artigos 6.º-A e 6.º-B.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os centros de PMA dispõem de pessoal com experiência e competências compatíveis com a PMA, integrando, no mínimo, dois técnicos detentores de licenciatura ou grau superior nas áreas de Medicina, Biologia, Bioquímica ou Farmácia.
 
 2 - O disposto no número anterior não se aplica aos centros autorizados exclusivamente para a inseminação artificial, nem aos centros autorizados exclusivamente para a selecção de dadores e preservação de gâmetas, casos em que se aplicam os artigos 6.º-A e 6.º-B.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -175,7 +200,9 @@ Pessoal afecto aos centros exclusivamente dedicados à inseminação artificial
 
 Os centros dedicados exclusivamente à inseminação artificial devem dispor de uma equipa constituída, no mínimo, por um médico ginecologista/obstetra e por um técnico licenciado com experiência e competências compatíveis com a PMA.
 
-###### Artigo 6.º-B — Pessoal afecto aos centros exclusivamente dedicados à selecção de dadores e preservação de gâmetas
+Artigo 6.º-B
+
+Pessoal afecto aos centros exclusivamente dedicados à selecção de dadores e preservação de gâmetas
 
 1 - Os centros que se dediquem exclusivamente à selecção de dadores e à preservação de gâmetas devem dispor de uma equipa constituída, no mínimo, por um médico especialista em ginecologia/obstetrícia, em genética médica, em endocrinologia ou em urologia, com experiência e competência nesta área.
 
@@ -187,15 +214,15 @@ Os centros dedicados exclusivamente à inseminação artificial devem dispor de 
 
 Visto e aprovado em Conselho de Ministros de 12 de Fevereiro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Francisco Pizarro Sampaio e Castro.
 
-**Promulgado em 13 de Abril de 2010.**
+Promulgado em 13 de Abril de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de Abril de 2010.**
+Referendado em 14 de Abril de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 

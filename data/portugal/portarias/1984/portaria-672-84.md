@@ -47,40 +47,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/672-1984-373796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T08:10:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0955e91b83888dfddb36f0cc962ea085e7293c502ce7a7714ac316fa4eb317f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfdde8c6389cccb1bdfd7d0ad130383daab0e884ac6fdb5bacb2f13b92180071
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:10:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Engenharia Civil
+- Curso de Engenharia de Minas
+- Curso de Engenharia Electrotécnica
+- Curso de Engenharia Mecânica
+- Curso de Engenharia Metalúrgica
+- Curso de Engenharia Química
+- Faculdade de Engenharia
+- Plano de Estudos
+- Universidade do Porto
 relationships:
 - type: amended_by
   target: pt:dre:575556:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:171483:por
+  label: "Substituídos os Anexos II e V, pela PORT.825/85.1985.10.31.ME DR.IS [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/825-1985-171483
+  date: '1985-10-31'
+- type: amended_by
+  target: pt:dre:227979:por
+  label: "Substituídos os anexos II e IV pela PORT.385/86.1986.07.23.MEC, DR.IS [167] de 23/Jul/1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/385-1986-227979
+  date: '1986-07-23'
+- type: amended_by
+  target: pt:dre:421582:por
+  label: "Substituídos os anexos I e IV, na redacção da Port. 385/86, de 23-Jul, pela PORT.417/87.1987.05.19.MEC, DR.IS [114]\
+    \ de 19/Mai/1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/417-1987-421582
+  date: '1987-05-19'
+- type: amended_by
+  target: pt:dre:421404:por
+  label: "Derrogada, no que se refere ao curso de Licenciatura em Engenharia Electrotécnica pela PORT.436/87.1987.05.25.MEC,\
+    \ DR.IS [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/436-1987-421404
+  date: '1987-05-25'
+- type: amended_by
+  target: pt:dre:575556:por
+  label: "Derrogada no que se refere ao curso de Engenharia Metalúrgica, pela PORT.511/90.05.07.1990.ME, DR.IS [153] de 05.07.1990,\
+    \ sem prejuízo do disposto no nº 2 do art. 7º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/511-1990-575556
+  date: '1990-07-05'
+- type: cites
+  target: pt:dre:147199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:10:26Z'
   warnings: []
   errors: []
 ---
@@ -219,9 +268,9 @@ b) Os alunos que por força da cessação da ministração dos planos em que haj
 
 Ministério da Educação.
 
-**Assinada em 6 de Agosto de 1984.**
+Assinada em 6 de Agosto de 1984.
 
-**O Ministro da Educação, José Augusto Seabra.**
+O Ministro da Educação, José Augusto Seabra.
 
 ## ANEXO I — Licenciatura em Engenharia Civil
 
@@ -407,7 +456,7 @@ Faculdade de Engenharia
 
 Do QUADRO I ao QUADRO V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/20500/27232728.pdf))](https://files.diariodarepublica.pt/1s/1984/09/20500/27232728.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/20500/27232728.pdf)
 
 ## ANEXO VI — Universidade do Porto
 
@@ -415,4 +464,4 @@ Faculdade de Engenharia
 
 Do QUADRO I ao QUADRO IX
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/20500/27232728.pdf))](https://files.diariodarepublica.pt/1s/1984/09/20500/27232728.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/20500/27232728.pdf)

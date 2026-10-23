@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/601-1979-367630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 621562fe488c7ec9927e11737524580acde57d969875936d62017880cb8003c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28f058f55c203bf1c07ac18e13903ee78bc2c42c95e5b33f4eae45a001a53cc0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Emolumento
+- Joalharia e Ourivesaria
+- Regulamento das Contrastarias
+relationships:
+- type: cites
+  target: pt:dre:141606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369812:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:37Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +108,7 @@ Nestes termos, e tendo em vista o disposto no artigo 3.º do [Decreto-Lei n.º 3
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Indústria, o seguinte:
 
-###### Artigo 1.º As cauções e os emolumentos pessoais previstos no Regulamento das Contrastarias são os seguintes:
+Artigo 1.º As cauções e os emolumentos pessoais previstos no Regulamento das Contrastarias são os seguintes:
 
 1) Cauções a prestar:
 
@@ -123,7 +134,7 @@ b) Pelos ensaiadores-fundidores (artigo 47.º):
 
 Os mínimos serão estabelecidos em tabela a fixar pela INCM.
 
-###### Artigo 2.º Os emolumentos de ensaio e marca a cobrar pelas contrastarias por serviços prestados nas mesmas contrastarias os da seguinte tabela:
+Artigo 2.º Os emolumentos de ensaio e marca a cobrar pelas contrastarias por serviços prestados nas mesmas contrastarias os da seguinte tabela:
 
 1) Artigos destinados ao mercado interno (n.º 1 do artigo 84.º do Regulamento):
 
@@ -197,13 +208,13 @@ Artigos com toque garantido pelas respectivas marcas - 20%;
 
 Artigos com toque garantido por simples certidão - 10%
 
-###### Art. 3.º Os emolumentos de ensaio e marca a cobrar pelas contrastarias por serviços prestados fora das mesmas contrastarias (alíneas do n.º 1 e n.º 2 do artigo 50.º e n.º 2 (do artigo 93.º do Regulamento) são os seguintes, qualquer que seja o mercado do destino dos artigos:
+Art. 3.º Os emolumentos de ensaio e marca a cobrar pelas contrastarias por serviços prestados fora das mesmas contrastarias (alíneas do n.º 1 e n.º 2 do artigo 50.º e n.º 2 (do artigo 93.º do Regulamento) são os seguintes, qualquer que seja o mercado do destino dos artigos:
 
 1) Exame ou peritagem - os emolumentos do n.º 2 do artigo 1.º com os respectivos mínimos no dobro.
 
 2) Ensaio e marca - os emolumentos devidos nos termos do artigo 2.º, acrescidos de 20% e no mínimo de 1000$00.
 
-###### Art. 4.º Os emolumentos especiais considerados no Regulamento das Contrastarias são os seguintes:
+Art. 4.º Os emolumentos especiais considerados no Regulamento das Contrastarias são os seguintes:
 
 1) Emolumento fixo, consequente de falta de acabamento ou outro motivo (artigo 87.º) - 10$00.
 
@@ -239,7 +250,7 @@ Por cada peça - 10$00
 
 A contestação julgada procedente implica a indemnização do contestante, pela contrastaria, das despesas ocasionadas (n.º 3 do artigo 56.º do Regulamento).
 
-###### Art. 5.º As taxas a cobrar, as isenções de taxas estabelecidas e a propina fixada no Regulamento das Contrastarias são as seguintes:
+Art. 5.º As taxas a cobrar, as isenções de taxas estabelecidas e a propina fixada no Regulamento das Contrastarias são as seguintes:
 
 1) Taxas de matrícula (artigo 82.º):
 
@@ -281,7 +292,7 @@ b) Isenção de taxa de matrícula - em quaisquer exposições com mero fim de p
 
 5) Propina de admissão ao exame de aptidão para ensaiador-fundidor, referido no n.º 1 do artigo 43.º: por candidato - 300$00 (a propina será paga por meio de guia junta ao requerimento).
 
-###### Art. 6.º As multas correspondentes a infracções previstas no Regulamento das Contrastarias serão as seguintes:
+Art. 6.º As multas correspondentes a infracções previstas no Regulamento das Contrastarias serão as seguintes:
 
 1) Da responsabilidade de industriais ou comerciantes:
 

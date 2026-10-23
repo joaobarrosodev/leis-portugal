@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/15700/0414704182.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/65/2018/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9e9a8a60f322b3b233b771a5fcf67d5b7cab86f98775a9dfd37415c69a11256
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c21a8b08e0a7c8e76609e470f6c0f9167c486ad2009e322e13a0ab16801005e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Plano de Estudos
+- Avaliação de Conhecimentos
 - Diploma
+- Direção Geral de Estatísticas da Educação e Ciência
+- Direção Geral do Ensino Superior
+- Ensino Superior
+- Estabelecimento de Ensino
 - Estudante
 - Exame
 - Habilitações Literárias
+- Inspecção Geral da Educação e Ciência
 - Lei de Bases
 - Licenciatura
-- Mestrado
-- Direção Geral do Ensino Superior
-- Direção Geral de Estatísticas da Educação e Ciência
-- Inspecção Geral da Educação e Ciência
-- Política de Educação
-- Estabelecimento de Ensino
-- Propinas
-- Avaliação de Conhecimentos
-- Regime Jurídico
-- Ensino Superior
-- Sistema Educativo
 - Matrícula
+- Mestrado
+- Plano de Estudos
+- Política de Educação
+- Propinas
+- Regime Jurídico
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:923681739:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:161518656:por
+  label: Alterados os arts. 21.º, 22.º e 41.º e revogado o n.º 3 do art. 45.º do Dec Lei 74/2006 de 24-mar, na versão republicada
+    pelo presente diploma pelo(a) Decreto-Lei n.º 27/2021 - Diário da República n.º 74/2021, Série I de 2021-04-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2021-161518656
+  date: '2021-04-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/107/2008/06/25/p/dre
   label: null
@@ -130,16 +136,116 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/78/2016/11/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/78/2016/11/30/p/dre
+- type: cites
+  target: pt:dre:105283924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75319452:por
+  label: null
+  source: null
 article_structure:
-  article_count: 194
-  section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 149
+  section_count: 31
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:52Z'
   warnings: []
   errors: []
 ---
@@ -216,7 +322,9 @@ Os artigos 1.º, 3.º, 4.º, 6.º, 14.º, 16.º, 18.º, 19.º, 20.º, 21.º, 22.
 
 O presente decreto-lei aprova o regime jurídico dos graus e diplomas do ensino superior, em desenvolvimento do disposto nos artigos 13.º a 15.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, na sua redação atual, que aprova a Lei de Bases do Sistema Educativo, bem como o disposto no n.º 4 do artigo 16.º da [Lei n.º 37/2003](https://diariodarepublica.pt/dr/detalhe/lei/37-2003-656107), de 22 de agosto, na sua redação atual, que estabelece as bases do financiamento do ensino superior.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]:
 
@@ -262,7 +370,9 @@ p) [Anterior alínea o).]
 
 q) 'Investigação e Desenvolvimento', abreviadamente 'I&D', o conjunto de atividades de produção e difusão de conhecimento, conforme definido no Manual de Frascati da Organização para a Cooperação e Desenvolvimento Económico, incluindo atividades de investigação derivadas da curiosidade científica e atividades baseadas na prática e orientadas para o aperfeiçoamento profissional.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - As instituições de ensino superior conferem os graus académicos de licenciado, mestre e doutor.
 
@@ -286,7 +396,9 @@ e) [Anterior alínea d).]
 
 6 - Fica reservada às instituições de ensino superior a utilização dos termos 'pós-graduação', 'formação pós-graduada' e outros que sugiram estar em causa formação própria de ensino superior.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - As áreas de formação em que cada instituição de ensino superior confere o grau de licenciado são fixadas pelo seu órgão legal e estatutariamente competente.
 
@@ -332,7 +444,9 @@ c) [...].
 
 8 - [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 [...]:
 
@@ -358,7 +472,9 @@ j) [...];
 
 k) [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -406,7 +522,9 @@ c) Especializado quando um mínimo de 50 % do corpo docente total é constituíd
 
 9 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -432,7 +550,9 @@ b) Em consequência de uma prática estável e consolidada internacionalmente ne
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - No ensino universitário, o grau de mestre pode igualmente ser conferido após um ciclo de estudos integrado, com 300 a 360 créditos e uma duração normal compreendida entre 10 e 12 semestres curriculares de trabalho, nas seguintes áreas de formação:
 
@@ -454,7 +574,9 @@ e) Medicina Veterinária.
 
 5 - [...].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...].
 
@@ -464,13 +586,17 @@ a) Não se aplicam ao ciclo de estudos integrado a que se refere o artigo anteri
 
 b) Podem ser alterados por decisão da Agência de Avaliação e Acreditação do Ensino Superior no caso de acreditação de ciclos de estudos em associação com instituições de ensino superior estrangeiras.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A elaboração da dissertação ou do trabalho de projeto e a realização do estágio são orientadas por doutores ou especialistas de reconhecida experiência e competência profissional, nos termos previstos nas normas regulamentares do mestrado.
 
 2 - [Revogado].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
@@ -484,7 +610,9 @@ b) Podem ser alterados por decisão da Agência de Avaliação e Acreditação d
 
 6 - [...].
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 [...]:
 
@@ -520,7 +648,9 @@ o) [...];
 
 p) [...].
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - O valor das propinas devidas pela inscrição no ciclo de estudos integrado previsto no artigo 19.º é fixado nos termos previstos para o ciclo de estudos conducente ao grau de licenciado no n.º 2 do artigo 16.º da [Lei n.º 37/2003](https://diariodarepublica.pt/dr/detalhe/lei/37-2003-656107), de 22 de agosto, na sua redação atual.
 
@@ -528,7 +658,9 @@ p) [...].
 
 3 - [...].
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Os ramos do conhecimento e especialidades em que cada instituição de ensino superior confere o grau de doutor são fixados pelo seu órgão legal e estatutariamente competente.
 
@@ -566,7 +698,9 @@ d) Polos ou delegações de uma entidade subsidiária de direito privado que cum
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]:
 
@@ -580,7 +714,9 @@ c) Os detentores de um currículo escolar, científico ou profissional que seja 
 
 3 - [...].
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...].
 
@@ -594,13 +730,17 @@ c) Os detentores de um currículo escolar, científico ou profissional que seja 
 
 6 - Quando o ciclo de estudos conducente ao grau de doutor seja ministrado em associação com outras instituições de ensino superior, nacionais ou estrangeiras, ou quando as atividades decorram em diversas entidades com regulamentos próprios de proteção da propriedade intelectual, a titularidade dos direitos de propriedade intelectual resultante das atividades de I&D é regulada por acordo entre as entidades em causa e o estudante.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - Quem reunir as condições para acesso ao ciclo de estudos conducente ao grau de doutor pode requerer a apresentação de uma tese ou dos trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º ao ato público de defesa sem inscrição no ciclo de estudos a que se refere o artigo 31.º e sem a orientação a que se refere o artigo 38.º-A.
 
 2 - Compete ao órgão científico legal e estatutariamente competente da instituição de ensino superior decidir quanto ao pedido, após apreciação do currículo do requerente e da adequação da tese ou dos trabalhos aos objetivos visados pelo grau de doutor, nos termos do artigo 28.º
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - A tese ou os trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º são objeto de apreciação e discussão pública por um júri nomeado pelo órgão legal e estatutariamente competente da instituição de ensino superior.
 
@@ -628,7 +768,9 @@ c) [...].
 
 10 - [...].
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 O órgão legal e estatutariamente competente de cada instituição de ensino superior aprova as normas relativas às seguintes matérias:
 
@@ -658,7 +800,9 @@ m) [...];
 
 n) [...].
 
-###### Artigo 40.º-B — [...]
+Artigo 40.º-B
+
+[...]
 
 1 - [...].
 
@@ -678,7 +822,9 @@ b) Especializado quando o corpo docente não integrado na alínea anterior é co
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 40.º-E — [...]
+Artigo 40.º-E
+
+[...]
 
 1 - [...]:
 
@@ -698,15 +844,21 @@ c) [...].
 
 6 - As regras para a avaliação funcional da deficiência são fixadas pelo órgão legal e estatutariamente competente da instituição de ensino superior, observando os princípios fixados para situações similares no âmbito do regime geral de acesso ao ensino superior.
 
-###### Artigo 40.º-H — [...]
+Artigo 40.º-H
+
+[...]
 
 Pela inscrição nos cursos técnicos superiores profissionais no ensino público é devida uma propina anual, a fixar pelo órgão legal e estatutariamente competente da instituição de ensino superior, de montante não superior ao valor máximo a que se refere o n.º 2 do artigo 16.º da [Lei n.º 37/2003](https://diariodarepublica.pt/dr/detalhe/lei/37-2003-656107), de 22 de agosto, na sua redação atual.
 
-###### Artigo 40.º-I — [...]
+Artigo 40.º-I
+
+[...]
 
 O ciclo de estudos conducente ao diploma de técnico superior profissional tem 120 créditos.
 
-###### Artigo 40.º-T — [...]
+Artigo 40.º-T
+
+[...]
 
 1 - [...].
 
@@ -734,7 +886,9 @@ j) [...].
 
 3 - O despacho de deferimento do registo é notificado à instituição de ensino superior, sendo publicado nos termos definidos por portaria do membro do Governo responsável pela área do ensino superior.
 
-###### Artigo 40.º-U — [...]
+Artigo 40.º-U
+
+[...]
 
 1 - [...].
 
@@ -750,7 +904,9 @@ j) [...].
 
 7 - [...].
 
-###### Artigo 40.º-V — [...]
+Artigo 40.º-V
+
+[...]
 
 1 - [...]:
 
@@ -774,7 +930,9 @@ f) A cessação da ministração do curso por decisão do órgão legal e estatu
 
 5 - Na situação prevista na alínea f) do n.º 1, a decisão de cessação deve incluir os prazos de cessação do funcionamento do curso e as medidas de salvaguarda das expectativas dos estudantes nele inscritos e deve ser comunicada nos termos aprovados por despacho do Diretor-Geral do Ensino Superior.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - As instituições de ensino superior podem associar-se a outras instituições de ensino superior, nacionais ou estrangeiras, para a realização dos ciclos de estudos conducentes aos graus e diplomas a que se referem os capítulos anteriores.
 
@@ -784,7 +942,9 @@ f) A cessação da ministração do curso por decisão do órgão legal e estatu
 
 4 - Tendo em vista o disposto no n.º 7 do artigo 13.º da Lei de Bases do Sistema Educativo, não é permitida a adoção do regime de franquia.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...]:
 
@@ -800,7 +960,9 @@ d) Por cada uma das instituições, separadamente.
 
 3 - A alínea d) do n.º 1 é aplicável apenas no caso de ciclos de estudos em associação com instituições de ensino superior estrangeiras.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [...].
 
@@ -812,7 +974,9 @@ d) Por cada uma das instituições, separadamente.
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - [...]:
 
@@ -844,7 +1008,9 @@ b) Que excedam os limites fixados nos n.os 1 e 2.
 
 5 - A atribuição de créditos ao abrigo das alíneas g) e h) do n.º 1 pode ser total ou parcialmente condicionada à realização de procedimentos de avaliação de conhecimentos específicos.
 
-###### Artigo 45.º-A — [...]
+Artigo 45.º-A
+
+[...]
 
 1 - [...].
 
@@ -862,7 +1028,9 @@ b) Que excedam os limites fixados nos n.os 1 e 2.
 
 8 - A Inspeção-Geral da Educação e Ciência desenvolve anualmente atividades regulares de auditoria e controlo com o objetivo de aferir a regularidade dos procedimentos de creditação efetuados ao abrigo do artigo anterior, podendo, se necessário, recorrer a peritos ou entidades com experiência no tipo de creditação em causa.
 
-###### Artigo 46.º-A — [...]
+Artigo 46.º-A
+
+[...]
 
 1 - [...].
 
@@ -876,7 +1044,9 @@ b) Que excedam os limites fixados nos n.os 1 e 2.
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 46.º-C — [...]
+Artigo 46.º-C
+
+[...]
 
 1 - As instituições de ensino superior devem facultar aos seus estudantes a inscrição e frequência dos seus ciclos de estudos em regime de tempo parcial.
 
@@ -890,7 +1060,9 @@ c) [...];
 
 d) [...].
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - [...].
 
@@ -898,7 +1070,9 @@ d) [...].
 
 3 - Nas provas públicas a que se referem os artigos 23.º e 35.º, o presidente do júri pode autorizar a participação de vogais por teleconferência em qualquer número, desde que haja condições técnicas para a sua plena participação nos trabalhos.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...].
 
@@ -914,7 +1088,9 @@ d) [...].
 
 7 - [...].
 
-###### Artigo 49.º-A — Plataforma de registo de graus, diplomas, teses e dissertações
+Artigo 49.º-A
+
+Plataforma de registo de graus, diplomas, teses e dissertações
 
 1 - [...].
 
@@ -932,7 +1108,9 @@ d) [...].
 
 8 - Os procedimentos de registo referidos nos n.os 1 e 5 são definidos por portaria do membro do Governo responsável pela área do ensino superior.
 
-###### Artigo 54.º-A — [...]
+Artigo 54.º-A
+
+[...]
 
 1 - O procedimento de acreditação dos ciclos de estudos é fixado por regulamento da Agência de Avaliação e Acreditação do Ensino Superior, observando as melhores práticas internacionais em matéria de simplificação administrativa e tendo em consideração os seguintes princípios:
 
@@ -962,7 +1140,9 @@ d) Utilização dos resultados da avaliação desenvolvida pela Fundação para 
 
 10 - Os registos de ciclo de estudos são comunicados pela Direção-Geral do Ensino Superior à Direção-Geral de Estatísticas da Educação e Ciência para a sua inclusão nos exercícios de recolha de dados, análise e estatística realizados por este organismo.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - [...].
 
@@ -992,7 +1172,9 @@ b) Fixar um prazo para efeitos de demonstração do cumprimento integral dos req
 
 c) Considerar como especialista de reconhecida experiência e competência profissional, para efeitos de acreditação de ciclos de estudos no ensino politécnico, aquele que seja detentor de um grau académico e exerça ou tenha exercido profissão na área em que leciona ou se propõe lecionar, possuindo, no mínimo, 10 anos de experiência profissional nessa área, com exercício efetivo durante, pelo menos, cinco anos nos últimos 10 anos, e um currículo profissional de qualidade e relevância comprovadas, devidamente confirmado e aceite pelo órgão técnico-científico da instituição de ensino superior.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - [...].
 
@@ -1010,7 +1192,9 @@ c) Considerar como especialista de reconhecida experiência e competência profi
 
 8 - A partir da revogação da acreditação e do registo, não podem ser admitidos novos estudantes, embora, dentro dos prazos de cessação do funcionamento do ciclo de estudos definidos pela Agência de Avaliação e Acreditação do Ensino Superior, ou na decisão de cessação da ministração, possam ser atribuídos os respetivos graus aos estudantes já inscritos.
 
-###### Artigo 76.º-B — [...]
+Artigo 76.º-B
+
+[...]
 
 1 - [...]:
 
@@ -1020,11 +1204,15 @@ b) Quando modifiquem os seus objetivos, a um procedimento de acreditação nos t
 
 2 - [...].
 
-###### Artigo 76.º-C — Instrução do processo de registo e publicação
+Artigo 76.º-C
+
+Instrução do processo de registo e publicação
 
 Os procedimentos de registo a que se refere o n.º 1 do artigo anterior, bem como da respetiva publicação, são aprovados por portaria do membro do Governo responsável pela área do ensino superior.
 
-###### Artigo 80.º-B — [...]
+Artigo 80.º-B
+
+[...]
 
 1 - As instituições de ensino superior podem atribuir o título de doutor honoris causa quando tenham doutoramentos acreditados.
 
@@ -1048,11 +1236,15 @@ b) Diferenciação da oferta entre subsistemas, suprimindo progressivamente a of
 
 c) Especialização da oferta, concentrando a sua oferta formativa nas áreas em que tenham especial qualidade.
 
-###### Artigo 38.º-A — Orientação
+Artigo 38.º-A
+
+Orientação
 
 Sem prejuízo da possibilidade de dispensa prevista no artigo 33.º, a elaboração da tese de doutoramento ou dos trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º é orientada por doutores, nos termos previstos nas normas regulamentares do doutoramento.
 
-###### Artigo 46.º-D — Entrega de dissertações, trabalhos de projetos, relatórios e teses em formato digital
+Artigo 46.º-D
+
+Entrega de dissertações, trabalhos de projetos, relatórios e teses em formato digital
 
 1 - A entrega de dissertações, trabalhos de projetos, relatórios, teses ou trabalhos que as substituam é realizada exclusivamente em formato digital.
 
@@ -1064,11 +1256,15 @@ Sem prejuízo da possibilidade de dispensa prevista no artigo 33.º, a elaboraç
 
 5 - O disposto nos números anteriores não dispensa a necessidade de entrega de um exemplar em papel para efeitos do depósito legal previsto no n.º 4 do artigo 50.º
 
-###### Artigo 51.º-B — Fixação de taxas e emolumentos
+Artigo 51.º-B
+
+Fixação de taxas e emolumentos
 
 Nas instituições de ensino superior públicas, as taxas e emolumentos devidos pelos atos administrativos necessários à inscrição, frequência e certificação da conclusão dos ciclos de estudos referidos nos capítulos II a V são fixadas pelo órgão legal e estatutariamente competente, ouvidas as estruturas representativas dos estudantes.
 
-###### Artigo 55.º-A — Ciclos de estudos autorizados a funcionar no estrangeiro
+Artigo 55.º-A
+
+Ciclos de estudos autorizados a funcionar no estrangeiro
 
 1 - Na sequência de acordo de cooperação bilateral ou multilateral outorgado pelo membro do Governo responsável pela área do ensino superior, a Agência de Avaliação e Acreditação do Ensino Superior pode acreditar ciclos de estudos conducentes à obtenção de grau académico para funcionamento no estrangeiro, desde que os referidos acordos de cooperação:
 
@@ -1130,15 +1326,15 @@ São revogados o n.º 4 do artigo 6.º, os n.os 4 e 7 do artigo 16.º, o n.º 2 
 
 Visto e aprovado em Conselho de Ministros de 28 de junho de 2018. - Augusto Ernesto Santos Silva - Manuel Frederico Tojal de Valsassina Heitor.
 
-**Promulgado em 7 de agosto de 2018.**
+Promulgado em 7 de agosto de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de agosto de 2018.**
+Referendado em 9 de agosto de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 8.º)
 
@@ -2840,7 +3036,9 @@ A publicação das alterações deve mencionar expressamente o número e a data 
 
 As autoridades competentes nos termos do presente diploma participam na cooperação administrativa, no âmbito dos procedimentos relativos a prestadores provenientes de outro Estado-Membro, nos termos do capítulo VI do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho, nomeadamente através do Sistema de Informação do Mercado Interno.
 
-###### Artigo 80.º-B — Título de doutor honoris causa
+###### Artigo 80.º-B
+
+## Título de doutor honoris causa
 
 1 - As instituições de ensino superior podem atribuir o título de doutor honoris causa quando tenham doutoramentos acreditados.
 
@@ -2875,3 +3073,5 @@ c) Os n.os 1, 2 e 4 do artigo 39.º, o n.º 5 do artigo 53.º, o n.º 1 do artig
 ###### Artigo 85.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+111579731

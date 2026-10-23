@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/136/2004/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecf35f5df1bfe109f98fd983c6c7544fcc9ea2dbf9b9d32947270ade6d648057
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9a1a38a08321d99a59007e557f6b7231ce0b6ebebf4bfe29445a1ba5755eb42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/97/2003/05/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/97/2003/05/07/p/dre
+- type: cites
+  target: pt:dre:195800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580669:por
+  label: null
+  source: null
 article_structure:
-  article_count: 27
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:38Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +131,9 @@ Os artigos 1.º, 3.º, 8.º, 9.º, 10.º, 11.º e 17.º do [Decreto-Lei n.º 221
 
 3 - O Conselho é um órgão independente, que funciona junto do Ministro das Cidades, Ordenamento do Território e Ambiente.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -157,7 +167,9 @@ o) Um elemento a designar pelas associações dos consumidores;
 
 p) Quatro elementos cooptados pelo Conselho de entre personalidades de reconhecido mérito na área do ambiente e do desenvolvimento sustentável, nos termos do regimento interno do Conselho.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -185,7 +197,9 @@ i) Exercer quaisquer outros poderes que lhe sejam atribuídos por lei.
 
 4 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O Conselho dispõe de um secretário executivo, nomeado pelo Ministro das Cidades, Ordenamento do Território e Ambiente, sob proposta do presidente, de entre indivíduos providos na carreira técnica superior ou na carreira técnica, de categoria não inferior a técnico especialista principal.
 
@@ -199,7 +213,9 @@ b) ...
 
 c) ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O Conselho reúne ordinariamente seis vezes por ano e extraordinariamente por iniciativa do presidente, por solicitação do Ministro das Cidades, Ordenamento do Território e Ambiente ou a requerimento de, pelo menos, um terço dos membros do Conselho.
 
@@ -209,13 +225,17 @@ c) ...
 
 4 - Ao funcionamento do Conselho aplicam-se as regras constantes do seu regimento e, supletivamente, as regras relativas aos órgãos colegiais previstas no Código do Procedimento Administrativo.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O Conselho dispõe de uma assessoria técnica e administrativa, assegurada com o apoio da Secretaria-Geral do Ministério das Cidades, Ordenamento do Território e Ambiente e coordenada pelo secretário executivo.
 
 2 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Os encargos com o funcionamento do Conselho são cobertos por dotação orçamental inscrita no orçamento do Ministério das Cidades, Ordenamento do Território e Ambiente.
 
@@ -247,15 +267,15 @@ O [Decreto-Lei n.º 221/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Maria da Graça Martins da Silva Carvalho - António José de Castro Bagão Félix - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 19 de Maio de 2004.**
+Promulgado em 19 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Maio de 2004.**
+Referendado em 26 de Maio de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 221/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1997-195800), de 20 de Agosto
 

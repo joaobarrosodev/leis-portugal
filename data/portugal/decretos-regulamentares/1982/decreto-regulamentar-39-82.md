@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1982-394682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:05:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e82f1f11953db9d46748eeec503f30fb2f9220cb0a6196722209528f8b71a41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23953ff29cd2ff7a1466d5f31900650729d6bfba7d6d6c13ff0c88805d2e1e44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:05:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administrador Hospitalar
+- Integração de Trabalhadores
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570337:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:05:22Z'
   warnings: []
   errors: []
 ---
@@ -94,20 +109,20 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Em execução do artigo 15.º do [Decreto-Lei n.º 101/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1980-475325), de 8 de Maio, a integração dos administradores hospitalares no quadro único aprovado pela [Portaria n.º 21/81](https://diariodarepublica.pt/dr/detalhe/portaria/21-1981-570337), de 10 de Janeiro, efectuar-se-á em conformidade com as regras seguintes:
+Artigo 1.º Em execução do artigo 15.º do [Decreto-Lei n.º 101/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1980-475325), de 8 de Maio, a integração dos administradores hospitalares no quadro único aprovado pela [Portaria n.º 21/81](https://diariodarepublica.pt/dr/detalhe/portaria/21-1981-570337), de 10 de Janeiro, efectuar-se-á em conformidade com as regras seguintes:
 
 a) Os administradores hospitalares que à data da entrada em vigor do [Decreto-Lei n.º 101/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1980-475325) se encontrassem no exercício efectivo das funções de administração hospitalar, serão integrados nos lugares correspondentes aos graus da carreira que detivessem na mesma data;
 
 b) Os diplomados em administração hospitalar que na data referida na alínea anterior não se encontrassem no exercício efectivo das funções de administração hospitalar, serão distribuídos nos lugares correspondentes aos graus que detivessem na mesma data, desde que hajam concorrido ao primeiro concurso que foi aberto nos termos do artigo 13.º do [Decreto-Lei n.º 101/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1980-475325), após a entrada em vigor deste último diploma, e se declararem por escrito aceitar a colocação que lhes for atribuída em resultado do mesmo concurso.
 
-###### Art. 2.º Por força do disposto no artigo 14.º do [Decreto-Lei n.º 101/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1980-475325), os administradores que forem integrados nos lugares do quadro único e que à data da publicação do presente diploma se encontrem legalmente providos em lugares de administrador hospitalar de quadros ou mapas de estabelecimentos dependentes da Secretaria de Estado da Saúde consideram-se, a partir da data da respectiva integração, providos nos mesmos lugares em comissão de serviço.
+Art. 2.º Por força do disposto no artigo 14.º do [Decreto-Lei n.º 101/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1980-475325), os administradores que forem integrados nos lugares do quadro único e que à data da publicação do presente diploma se encontrem legalmente providos em lugares de administrador hospitalar de quadros ou mapas de estabelecimentos dependentes da Secretaria de Estado da Saúde consideram-se, a partir da data da respectiva integração, providos nos mesmos lugares em comissão de serviço.
 
-###### Art. 3.º A integração a que se reporta o presente diploma será feita por diplomas individuais de provimento, visados pelo Tribunal de Contas, de acordo com o disposto no artigo 5.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
+Art. 3.º A integração a que se reporta o presente diploma será feita por diplomas individuais de provimento, visados pelo Tribunal de Contas, de acordo com o disposto no artigo 5.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
 
 Francisco José Pereira Pinto Balsemão - Luís Eduardo da Silva Barbosa - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 28 de Junho de 1982.**
+Promulgado em 28 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

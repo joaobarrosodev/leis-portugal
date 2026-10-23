@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/149/1999/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/149-1999-389820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T04:30:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 159677ad3dc1bf415eef10c5e025371f031190197eeaf555cf03347f242962c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5d565626ddba2e95ff0bcdd21d6e723a4d8494ee7046a911e64a5815bd91375
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:30:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,50 +67,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
+- Bruxelas
 - CE Países
 - CECA
 - CEE
-- Turismo
-- Direitos do Homem
+- Combate à Droga
+- Comércio
 - Comunidade Europeia
 - Convenção
 - Cooperação Aduaneira
 - Cooperação Comercial
-- Cooperação Financeira
-- Portugal
-- Direito de Concorrência
-- Direitos Aduaneiros
-- Combate à Droga
-- Direito de Estabelecimento
-- Livre Prestação de Serviços
-- Livre Circulação de Capitais
-- Livre Circulação de Mercadorias
-- Política Aduaneira
 - Cooperação Cultural
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Política
-- Produto Industrial
-- Agricultura
-- Taxa
-- Comércio
+- Direito de Concorrência
+- Direito de Estabelecimento
+- Direitos Aduaneiros
+- Direitos do Homem
+- Livre Circulação de Capitais
+- Livre Circulação de Mercadorias
+- Livre Prestação de Serviços
+- Política Aduaneira
+- Portugal
 - Produto Agrícola
+- Produto Industrial
+- Taxa
 - Transporte
-- Bruxelas
+- Turismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/47/1999/06/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/47/1999/06/23/p/dre
+- type: cites
+  target: pt:dre:389821:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:30:13Z'
   warnings: []
   errors: []
 ---
@@ -119,16 +123,16 @@ validation:
 
 de 23 de Junho
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo Euro-Mediterrânico Que Cria Uma Associação entre as Comunidades Europeias e os Seus Estados Membros, por um lado, e o Reino Hachemita da Jordânia, por outro, e respectivos anexos e protocolos, bem como a Acta Final com as declarações, assinado em Bruxelas em 24 de Novembro de 1997, aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 47/99](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/47-1999-389821), em 12 de Março de 1999.
 
-**Assinado em 27 de Maio de 1999.**
+Assinado em 27 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Junho de 1999.**
+Referendado em 9 de Junho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

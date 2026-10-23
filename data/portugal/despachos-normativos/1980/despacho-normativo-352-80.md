@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/11/25700/37693770.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/352-1980-457593
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T07:04:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 330509e52da4507f8a5acc796fbaeb936e3c871733e308330232f77e4877baf9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de0f2d499aeeaf890011439222f3f92a991dd8ecbf35b0f354d146ba2e8909e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:04:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Prisional
+- Regulamento dos Estabelecimentos Prisionais Instalados em Edifícios da Polícia Judiciária
 relationships:
 - type: amended_by
   target: pt:dre:276858:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:286514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678426:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:276858:por
+  label: "Revogado, a partir de 10.06.2011, pelo DEC LEI.51/2011.11.04.2011.MJ, DR.IS [71] de 11.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-2011-276858
+  date: '2011-04-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:04:43Z'
   warnings: []
   errors: []
 ---
@@ -96,17 +115,17 @@ Ministério da Justiça, 26 de Outubro de 1980. - O Ministro da Justiça, Mário
 
 Regulamento dos Estabelecimentos Prisionais Instalados em Edifícios da Polícia Judiciária
 
-###### Artigo 1.º Os estabelecimentos prisionais situados nos edifícios da Polícia Judiciária destinam-se à guarda dos detidos que vão ser presentes ao juízo de instrução criminal ou que estejam à ordem destes, bem como de quaisquer presos ou detidos cuja presença seja necessária à instrução de qualquer processo-crime ou à realização de investigações criminais ou diligências a cargo da Polícia Judiciária.
+Artigo 1.º Os estabelecimentos prisionais situados nos edifícios da Polícia Judiciária destinam-se à guarda dos detidos que vão ser presentes ao juízo de instrução criminal ou que estejam à ordem destes, bem como de quaisquer presos ou detidos cuja presença seja necessária à instrução de qualquer processo-crime ou à realização de investigações criminais ou diligências a cargo da Polícia Judiciária.
 
-###### Art. 2.º Os estabelecimentos prisionais referidos no artigo anterior ficam na dependência da Direcção-Geral dos Serviços Prisionais, sujeitos ao regime dos estabelecimentos destinados a arguidos presos preventivamente, com as especialidades constantes dos artigos seguintes.
+Art. 2.º Os estabelecimentos prisionais referidos no artigo anterior ficam na dependência da Direcção-Geral dos Serviços Prisionais, sujeitos ao regime dos estabelecimentos destinados a arguidos presos preventivamente, com as especialidades constantes dos artigos seguintes.
 
-###### Art. 3.º - 1 - Os detidos darão entrada nas cadeias mediante mandado judicial ou ordem escrita assinada por autoridade competente nos termos da lei do processo.
+Art. 3.º - 1 - Os detidos darão entrada nas cadeias mediante mandado judicial ou ordem escrita assinada por autoridade competente nos termos da lei do processo.
 
 2 - Os detidos só poderão sair da cadeia para participar em actos de instrução ou diligências de investigação, mediante ordem assinada pelo juiz de instrução criminal ou por funcionário da Polícia Judiciária mencionado no artigo 10.º do [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro, responsável pela investigação em cujo âmbito se faz a requisição.
 
 3 - A distribuição dos detidos pelas celas é da competência do estabelecimento prisional, devendo, porém, atender às solicitações determinadas por razões de investigação que a Polícia Judiciária atempadamente fizer, por escrito.
 
-###### Art. 4.º - 1 - Os detidos aguardando o primeiro interrogatório serão mantidos rigorosamente incomunicáveis, em celas individuais sempre que se trate de co-arguidos.
+Art. 4.º - 1 - Os detidos aguardando o primeiro interrogatório serão mantidos rigorosamente incomunicáveis, em celas individuais sempre que se trate de co-arguidos.
 
 2 - A incomunicabilidade não abrange o contacto com os funcionários judiciais competentes ou funcionários de investigação criminal com vista à realização de diligências urgentes ou à recolha de elementos identificativos.
 
@@ -118,54 +137,54 @@ Regulamento dos Estabelecimentos Prisionais Instalados em Edifícios da Polícia
 
 6 - Os funcionários prisionais têm a obrigação de, por todos os meios, obstarem à quebra da incomunicabilidade, tendo em conta o fixado no artigo 211.º do [Decreto-Lei n.º 265/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1979-396771).
 
-###### Art. 5.º - 1 - Após a apresentação do detido ao juiz de instrução criminal cessa a incomunicabilidade, com ressalva do que for determinado expressamente pelo juiz de instrução.
+Art. 5.º - 1 - Após a apresentação do detido ao juiz de instrução criminal cessa a incomunicabilidade, com ressalva do que for determinado expressamente pelo juiz de instrução.
 
 2 - A partir da apresentação, e ressalvadas as eventuais limitações impostas pelo juiz de instrução, poderá o detido comunicar com o exterior, recebendo e expedindo telegramas e correspondência e enviando notícias pelo telefone, de acordo com as regras dos artigos seguintes.
 
-###### Art. 6.º Durante o período de incomunicabilidade será facultada ao detido uma entrevista com o advogado, a fim de saber se este aceita ser constituído seu defensor. Essa entrevista processar-se-á por forma que seja resguardada a confidencialidade da relação forense.
+Art. 6.º Durante o período de incomunicabilidade será facultada ao detido uma entrevista com o advogado, a fim de saber se este aceita ser constituído seu defensor. Essa entrevista processar-se-á por forma que seja resguardada a confidencialidade da relação forense.
 
-###### Art. 7.º - 1 - O detido pode ser autorizado, a expensas suas, a expedir telegramas, particularmente quando se trate de contactos com familiares, entregando o texto ao funcionário dos serviços prisionais encarregado desse serviço.
+Art. 7.º - 1 - O detido pode ser autorizado, a expensas suas, a expedir telegramas, particularmente quando se trate de contactos com familiares, entregando o texto ao funcionário dos serviços prisionais encarregado desse serviço.
 
 2 - O detido pode solicitar o envio de mensagens pelo telefone, desde que faça entregar ao funcionário dos serviços destacado para o efeito uma nota com o texto, nome, morada e número de telefone do destinatário e pague a importância correspondente ao custo do telefonema.
 
 3 - São aplicáveis em tudo o mais, por analogia, aos telegramas e chamadas telefónicas as disposições legais e regulamentares em matéria de, respectivamente, visitas e correspondência.
 
-###### Art. 8.º O detido pode enviar ou receber correspondência depois de terminar o período de incomunicabilidade, nos termos dos Decretos-Leis n.os 265/79 e n.º 49/80.
+Art. 8.º O detido pode enviar ou receber correspondência depois de terminar o período de incomunicabilidade, nos termos dos Decretos-Leis n.os 265/79 e n.º 49/80.
 
-###### Art. 9.º - 1 - Os serviços suportarão o encargo com as chamadas telefónicas referidas no n.º 4 do artigo 4.º do presente Regulamento desde que sejam feitas para o território continental ou regiões autónomas por detidos que não possuam disponibilidades económicas para as pagar.
+Art. 9.º - 1 - Os serviços suportarão o encargo com as chamadas telefónicas referidas no n.º 4 do artigo 4.º do presente Regulamento desde que sejam feitas para o território continental ou regiões autónomas por detidos que não possuam disponibilidades económicas para as pagar.
 
 2 - De igual modo os serviços suportarão os encargos com a correspondência remetida por detidos que não possuam suficientes meios económicos, desde que aquela permaneça dentro de um nível razoável.
 
-###### Art. 10.º - 1 - Os serviços tomarão todas as medidas impeditivas de evasões, retirada de presos, violações de incomunicabilidade e comunicações irregulares dos presos entre si ou com o exterior, devendo para tanto passar revistas e buscas aos detidos e seus pertences nas celas ou noutras dependências do estabelecimento.
+Art. 10.º - 1 - Os serviços tomarão todas as medidas impeditivas de evasões, retirada de presos, violações de incomunicabilidade e comunicações irregulares dos presos entre si ou com o exterior, devendo para tanto passar revistas e buscas aos detidos e seus pertences nas celas ou noutras dependências do estabelecimento.
 
 2 - Será exigida a todas as visitas a identificação, com confirmação através do bilhete de identidade ou de cartão suficientemente identificativo, anotando-se os seus números.
 
 3 - Os serviços podem exigir a todas as pessoas que se avistem com os detidos que se deixem revistar, devendo impedir a entrada aos que recusem.
 
-###### Art. 11.º - 1 - Além das pessoas indicadas no artigo 39.º do [Decreto-Lei n.º 265/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1979-396771), de 1 de Agosto, do Provedor de Justiça, dos juízes dos tribunais de execução das penas e dos membros da Comissão dos Direitos do Homem, da Ordem dos Advogados, podem entrar a qualquer hora nos estabelecimentos os juízes de instrução criminal, o director-geral da Polícia Judiciária, os directores-adjuntos, os subdirectores e os inspectores.
+Art. 11.º - 1 - Além das pessoas indicadas no artigo 39.º do [Decreto-Lei n.º 265/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1979-396771), de 1 de Agosto, do Provedor de Justiça, dos juízes dos tribunais de execução das penas e dos membros da Comissão dos Direitos do Homem, da Ordem dos Advogados, podem entrar a qualquer hora nos estabelecimentos os juízes de instrução criminal, o director-geral da Polícia Judiciária, os directores-adjuntos, os subdirectores e os inspectores.
 
 2 - Sem prejuízo do disposto no número anterior, é proibida a entrada no estabelecimento de pessoas estranhas ao serviço, ainda que pertencentes à Polícia Judiciária ou serviços prisionais, sem autorização escrita do director do estabelecimento.
 
 3 - A proibição não se aplica aos médicos ou enfermeiros chamados a prestar serviços profissionais. Estas chamadas serão comunicadas ao director do estabelecimento nas vinte e quatro horas seguintes à visita.
 
-###### Art. 12.º - 1 - As transferências por excesso de lotação do estabelecimento obedecerão ao critério do maior tempo de permanência dos detidos.
+Art. 12.º - 1 - As transferências por excesso de lotação do estabelecimento obedecerão ao critério do maior tempo de permanência dos detidos.
 
 2 - As transferências serão comunicadas previamente ao juiz de instrução e Polícia Judiciária e só por motivo ponderoso poderá ser alterada aquela ordem. Em caso de dúvida decidirá a Direcção-Geral dos Serviços Prisionais.
 
-###### Art. 13.º Todos os factos relevantes ocorridos nos estabelecimentos prisionais, em especial respeitantes a violações da incomunicabilidade, das regras de comunicação com o exterior ou da segurança das instalações, deverão ser imediatamente comunicados à Polícia Judiciária.
+Art. 13.º Todos os factos relevantes ocorridos nos estabelecimentos prisionais, em especial respeitantes a violações da incomunicabilidade, das regras de comunicação com o exterior ou da segurança das instalações, deverão ser imediatamente comunicados à Polícia Judiciária.
 
-###### Art. 14.º A Polícia Judiciária poderá colaborar na realização dos contrôles necessários para assegurar o cumprimento das regras de segurança destes estabelecimentos.
+Art. 14.º A Polícia Judiciária poderá colaborar na realização dos contrôles necessários para assegurar o cumprimento das regras de segurança destes estabelecimentos.
 
-###### Art. 15.º - 1 - É da responsabilidade e encargo da Direcção-Geral dos Serviços Prisionais o fornecimento da alimentação, roupas, transportes, assistência médica, medicamentosa ou qualquer outra aos detidos.
+Art. 15.º - 1 - É da responsabilidade e encargo da Direcção-Geral dos Serviços Prisionais o fornecimento da alimentação, roupas, transportes, assistência médica, medicamentosa ou qualquer outra aos detidos.
 
 2 - São igualmente da responsabilidade da mesma Direcção-Geral as despesas com o pessoal directivo, administrativo, de segurança, auxiliar, de assistência ou outro necessárias para o funcionamento destes estabelecimentos prisionais.
 
 3 - São da responsabilidade da Polícia Judiciária as despesas com as instalações e mobiliário.
 
-###### Art. 16.º Na adopção de medidas concretas de segurança será sempre ouvida a Polícia Judiciária.
+Art. 16.º Na adopção de medidas concretas de segurança será sempre ouvida a Polícia Judiciária.
 
-###### Art. 17.º As lacunas e os casos duvidosos do presente Regulamento serão resolvidos pelo Ministro da Justiça, ouvidos os directores-gerais dos Serviços Prisionais e da Polícia Judiciária.
+Art. 17.º As lacunas e os casos duvidosos do presente Regulamento serão resolvidos pelo Ministro da Justiça, ouvidos os directores-gerais dos Serviços Prisionais e da Polícia Judiciária.
 
-###### Art. 18.º Fica revogado o regulamento aprovado por despacho ministerial de 16 de Outubro de 1964.
+Art. 18.º Fica revogado o regulamento aprovado por despacho ministerial de 16 de Outubro de 1964.
 
-**O Ministro da Justiça, Mário Ferreira Bastos Raposo.**
+O Ministro da Justiça, Mário Ferreira Bastos Raposo.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/63/1991/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1991-308336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f320f0a44be14db6bfd82f83f7ed806b62091af17a67c99f7302a0a50bc95c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d233c78578519cdf373e82de2d769ad5ddb305bd4cb9d8e1aab5d1df8d58837
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Construção Civil
-- Licenciamento de Obras
 - Licença Municipal
+- Licenciamento de Obras
 - Loteamento Urbano
+- Ordenamento do Território
 - Plano de Urbanização
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADA PELA DECLARAÇÃO RECTIFICAÇÃO 8/92, PUBLICADA NO DR.IS-B, 51, 2 SUPL, DE 920229.\020229.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:36Z'
   warnings: []
   errors: []
 ---
@@ -232,12 +240,12 @@ Presidência do Conselho de Ministros, 12 de Agosto de 1991.
 
 Aníbal António Cavaco Silva - José Manuel Nunes Liberato - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 29 de Outubro de 1991.**
+Promulgado em 29 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Novembro de 1991.**
+Referendado em 5 de Novembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

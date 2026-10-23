@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22900/0001000014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/110/2023/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2023-224797136
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 993cbb0151666a24c8d079450bd04ffd91f4459738b746143f87b57819258cbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ddc7104f5e4c8a5bffa5248628db84c0447f50bc3c52caf1ee9aa8c27c88046
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Caixa Geral de Aposentações
+- Complemento Social de Pensão
+- Fundo de Pensões
 - Instituto da Segurança Social
 - Instituto Nacional de Estatística
-- Complemento Social de Pensão
-- Caixa Geral de Aposentações
-- Fundo de Pensões
 - Pensão de Invalidez
 - Pensão de Velhice
 - Pensões
@@ -88,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/441/1995/05/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/441/1995/05/12/p/dre
+- type: cites
+  target: pt:dre:506632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70196968:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:42Z'
   warnings: []
   errors: []
 ---
@@ -244,12 +256,14 @@ Os complementos de pensão cujo encargo passa a pertencer à CGA, I. P., nos ter
 
 Visto e aprovado em Conselho de Ministros de 9 de novembro de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 21 de novembro de 2023.**
+Promulgado em 21 de novembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de novembro de 2023.**
+Referendado em 23 de novembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+117097702

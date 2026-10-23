@@ -46,40 +46,141 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/413-1981-573568
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:45:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8d353934d5b65fabed4c85a03deb6a4c3753b7094f6c4b9bfb260c4cc6d028d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20df3202ca4f1c3f913d937fbc8e3f78976262f7c4873ce7a0b6161bd51f4b50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:45:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aljustrel
+- Almodôvar
+- Beja
+- Castro Verde
+- Cuba.alentejo
+- Hospital Concelhio
+- Moura
+- Odemira
+- Ourique
+- Quadro de Pessoal
+- Serpa
+- Vidigueira
 relationships:
 - type: amended_by
   target: pt:dre:666337:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:309705:por
+  label: "Alterado o quadro de pessoal do Hospital Concelhio de Serpa pela PORT.229/83.1983.03.02.MFP DR.IS [50]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/229-1983-309705
+  date: '1983-03-02'
+- type: amended_by
+  target: pt:dre:443106:por
+  label: "Alterado o quadro de pessoal do Hospital Concelhio de Almodôvar, pela PORT.985/83.1983.11.28.PCM DR.IS [274]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/985-1983-443106
+  date: '1983-11-28'
+- type: amended_by
+  target: pt:dre:443107:por
+  label: "Alterado o quadro de pessoal do Hospital concelhio de Castro Verde, aprovado pelo presente diploma, pela PORT.986/83.1983.11.28.PCM\
+    \ DR.IS [274]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/986-1983-443107
+  date: '1983-11-28'
+- type: amended_by
+  target: pt:dre:443108:por
+  label: "Alterado o quadro de pessoal do Hospital concelhio de Cuba, aprovado pelo presente diploma, pela PORT.987/83.1983.11.28.PCM\
+    \ DR.IS [274]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/987-1983-443108
+  date: '1983-11-28'
+- type: amended_by
+  target: pt:dre:443113:por
+  label: "Alterado o quadro de pessoal do Hospital concelhio de Vidigueira, na parte referente ao pessoal de enfermagem, pela\
+    \ PORT.991/83.1983.11.28.PCM DR.IS [274]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/991-1983-443113
+  date: '1983-11-28'
+- type: amended_by
+  target: pt:dre:443114:por
+  label: "Alterado o quadro de pessoal do Hospital concelhio de Cuba, aprovado pelo presente diploma, pela PORT.992/83.1983.11.28.PCM\
+    \ DR.IS [274\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/992-1983-443114
+  date: '1983-11-28'
+- type: amended_by
+  target: pt:dre:443120:por
+  label: "Alterado o quadro de pessoal do Hospital concelhio de Cuba, aprovado pelo presente diploma, pela PORT.988/83.1983.11.28.PCM\
+    \ DR.IS [274]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/988-1983-443120
+  date: '1983-11-28'
+- type: amended_by
+  target: pt:dre:443121:por
+  label: "Alterado o quadro de pessoal do Hospital concelhio de Moura, aprovado pelo presente diploma, pela PORT.989/83.1983.11.28.PCM\
+    \ DR.IS [274]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/989-1983-443121
+  date: '1983-11-28'
+- type: amended_by
+  target: pt:dre:443122:por
+  label: "Alterado o quadro de pessoal do Hospital concelhio de Cuba, aprovado pelo presente diploma, pela PORT.990/83.1983.11.28.PCM\
+    \ DR.IS [274]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/990-1983-443122
+  date: '1983-11-28'
+- type: amended_by
+  target: pt:dre:386405:por
+  label: "Alterado o quadro de pessoal do Hospital concelhio de Cuba, aprovado pelo presente diploma, pela PORT.342/84.1984.06.07.PCM\
+    \ DR.IS [132]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/342-1984-386405
+  date: '1984-06-07'
+- type: amended_by
+  target: pt:dre:386406:por
+  label: "Alterado o quadro de pessoal do Hospital concelhio de Cuba, aprovado pelo presente diploma, pela PORT.343/84.1984.06.07.PCM\
+    \ DR.IS [132]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/343-1984-386406
+  date: '1984-06-07'
+- type: amended_by
+  target: pt:dre:387328:por
+  label: "Alterado, na parte referente ao pessoal operário e auxiliar, o quadro de pessoal do hospital concelhio de Serpa,\
+    \ aprovado pelo presente diploma, pela PORT.419/84.28.06.1984.PCM, DR.IS [148] de 28.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/419-1984-387328
+  date: '1984-06-28'
+- type: amended_by
+  target: pt:dre:666337:por
+  label: "Alterados alguns quadros de pessoal aprovados pelo presente diploma, na redacção das Ports. 985/83, de 28-Nov, 986/83,\
+    \ de 28-Nov, 987/83, de 28-Nov, 988/83, de 28-Nov, 989/83, de 28-Nov, 990/83, de 28-Nov, 991/83, de 28-Nov, 342/84, de\
+    \ 07-Jun e 343/84, de 07-Jun, pela PORT.321/87.1987.04.18.MF DR.IS [90]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/321-1987-666337
+  date: '1987-04-18'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:45:37Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +201,6 @@ Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Adminis
 
 Quadro de pessoal dos hospitais concelhios do distrito de Beja
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/11600/11681169.pdf))](https://files.diariodarepublica.pt/1s/1981/05/11600/11681169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/11600/11681169.pdf)
 
 Nota. - O funcionário administrativo que desempenhar as funções de tesoureiro manterá o abono mensal de 200$00 para falhas, sem prejuízo da revisão deste quantitativo nos termos previstos na lei geral.

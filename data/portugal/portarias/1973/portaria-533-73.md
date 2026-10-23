@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/533-1973-419001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:09:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61abf9eb69f622e3a9082fe3b71e74910e071208c64d1dae7cf2bdf5c94cc9cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ff923fb2a9beefedd18d5516e163e77233f8d601fc47c5ba9314442beeb072f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:09:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:09:00Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +92,7 @@ Nos termos do artigo 71.º n.º 2, do [Decreto-Lei n.º 413/71](https://diarioda
 
 Manda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência, obtida a concordância do Ministro das Finanças, que o quadro do pessoal não dirigente do Centro de Saúde Mental de Viana do Castelo seja assim constituído:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/08/18300/13771378.pdf))](https://files.diariodarepublica.pt/1s/1973/08/18300/13771378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/08/18300/13771378.pdf)
 
 Notas
 

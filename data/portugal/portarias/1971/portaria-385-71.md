@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/385-1971-642770
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d660f96d04a73348287a3db6d3d5554602acdfcf2f510c9578ce9a4af9df7fdb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 958ca8ff50cca350bb7a680c71f285acce7f800bc6d193dd1131d3b88946db79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414420:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:42Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +117,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Sa�
 
 1.º Os vencimentos do pessoal técnico e auxiliar dos serviços clínicos, do pessoal dos serviços complementares de diagnóstico e terapêutica e as remunerações do pessoal assalariado constantes das Portarias n.os 16808, de 8 de Agosto de 1958, 18045, de 9 de Novembro de 1960, 19081, de 17 de Março de 1962, e 22631, de 13 de Abril de 1967, são alterados da forma seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/07/17000/10611061.pdf))](https://files.diariodarepublica.pt/1s/1971/07/17000/10611061.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/17000/10611061.pdf)
 
 2.º As remunerações do pessoal técnico incluem a quota que lhe é atribuída nas verbas cobradas nos termos do artigo 17.º do [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710), de 27 de Abril de 1965, pelo que não há lugar a concessão futuramente de complementos variáveis.
 

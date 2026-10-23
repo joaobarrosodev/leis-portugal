@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/2/2005/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2005-579534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6e108d77b2938dfa0e7bf37c1065541fb6441be4e25f5b6fcf2fc72c65cdb2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38c4623ac10e24a3801363631f6b7ddcc370a30835b57ab3cc90d80791a01ecc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
+- Câmara Municipal
 - Comissão Directiva
 - Golegã
-- Proteção do Ambiente
+- Ordenamento do Território
 - Política de Solos
-- Câmara Municipal
+- Proteção do Ambiente
 - Reserva Natural
 - Reserva Natural do PAUL de Boquilobo
 - Torres Novas
@@ -112,16 +112,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/49/1997/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/49/1997/11/20/p/dre
+- type: cites
+  target: pt:dre:209591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694207:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:246552:por
+  label: "Revogados os arts. 10º, 11º, 12º, 13º e 16.º do DR 49/97, de 20-Nov, na redacção do presente diploma, pela RES.50/2008.19.03.2008.PCM,\
+    \ DR.IS [56] de 19.03.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/50-2008-246552
+  date: '2008-03-19'
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:14Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +210,9 @@ d) Proceder ao ordenamento das utilizações recreativas e da acessibilidade pú
 
 e) Elaborar estudos científicos, bem como proceder à monitorização de espécies e habitats, que fundamentem as acções de conservação no quadro da rede de zonas de protecção especial para as aves, e de zonas húmidas de importância internacional e de reservas da biosfera.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 ...
 
@@ -186,7 +226,9 @@ e) Elaborar estudos científicos, bem como proceder à monitorização de espéc
 
 6 - (Anterior n.º 7.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -226,15 +268,15 @@ São revogados os anexos I e II ao [Decreto Regulamentar n.º 49/97](https://dia
 
 Visto e aprovado em Conselho de Ministros de 20 de Janeiro de 2005. - Pedro Miguel de Santana Lopes - José Luís Fazenda Arnaut Duarte - Luís José de Mello e Castro Guedes.
 
-**Promulgado em 28 de Fevereiro de 2005.**
+Promulgado em 28 de Fevereiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Março de 2005.**
+Referendado em 3 de Março de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO I — Limites da Reserva Natural do Paul do Boquilobo
 

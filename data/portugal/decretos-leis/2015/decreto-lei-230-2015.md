@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/19900/0883108837.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/230/2015/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2015-70508971
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f35fbc937936f234f4a6a7c66ce960126e8188f65d50d8f23d81f2315a7d8ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: feb6f5e6bd532e883f25a1b41b8648cae5107de84f31f3a8e9c23d109a1a05bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,77 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
-- Investigação Científica e Tecnológica
 - Chefe do Estado Maior da Armada
-- Unidade de Acompanhamento
 - Comissão Paritária
 - Conselho Administrativo
 - Conselho Científico
 - Conselho de Orientação
 - Definição de Competências
 - Diretor Geral
-- Marinha
+- Escola de Hidrografia e Oceanografia
+- Fiscal Único
 - Força Naval
 - Instituto Hidrográfico
+- Investigação Científica e Tecnológica
 - Laboratório do Estado
-- Orgânica
+- Marinha
 - Ministro da Defesa Nacional
+- Orgânica
 - Subdirector Geral
-- Escola de Hidrografia e Oceanografia
+- Unidade de Acompanhamento
 relationships:
 - type: amended_by
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70961383:por
+  label: Determinado que a definição das orientações estratégicas para o Instituto Hidrográfico bem como o acompanhamento
+    da sua execução, sejam exercidos pelo Ministro da Defesa Nacional, em articulação com a Ministra da Agricultura e do Mar
+    e a Ministra da Educação e Ciência pelo(a) Decreto-Lei n.º 249-A/2015 - Diário da República n.º 219/2015, 1º Suplemento,
+    Série I de 2015-11-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-a-2015-70961383
+  date: '2015-11-09'
+- type: amended_by
+  target: pt:dre:72909765:por
+  label: Determinado que a definição das orientações estratégicas bem como a fixação de objetivos e acompanhamento da sua
+    execução para o Instituto Hidrográfico compete ao Ministro da Defesa Nacional em coordenação com o Ministro da Ciência,
+    Tecnologia e Ensino Superior e a Ministra do Mar pelo(a) Decreto-Lei n.º 251-A/2015 - Diário da República n.º 246/2015,
+    1º Suplemento, Série I de 2015-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-2015-72909765
+  date: '2015-12-17'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a definição das orientações estratégicas bem como a fixação de objetivos
+    e acompanhamento da sua execução para o Instituto Hidrográfico, com orgânca aprovada pelo presente diploma, compete ao
+    Ministro da Defesa Nacional em coordenação com o Ministro da Ciência, Tecnologia e Ensino Superior e o Ministro do Mar,
+    pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado com efeitos a 30.03.2022 que a definição das orientações estratégicas bem como a fixação de objetivos
+    e acompanhamento da sua execução para o Instituto Hidrográfico com orgânica aprovada pelo presente diploma compete à Ministra
+    da Defesa Nacional em coordenação com o Ministro da Economia e do Mar e com a Ministra da Ciência, Tecnologia e Ensino
+    Superior pelo(a) Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que sejam definidas pelo Ministro da Defesa Nacional, em coordenação
+    com o Ministro da Educação, Ciência e Inovação e com o Ministro da Economia, as orientações estratégicas, bem como fixados
+    objetivos e acompanhada a sua execução, para o Instituto Hidrográfico pelo(a) Decreto-Lei n.º 32/2024 - Diário da República
+    n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determina, com efeitos a 5 de junho de 2025, que sejam definidas pelo Ministro da Defesa Nacional, em coordenação
+    com o Ministro da Educação, Ciência e Inovação e com o Ministro da Agricultura e Mar, as orientações estratégicas, bem
+    como fixados objetivos e acompanhada a sua execução, para o Instituto Hidrográfico pelo(a) Decreto-Lei n.º 87-A/2025 -
+    Diário da República n.º 142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/e
   label: null
@@ -129,16 +177,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2002/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2002/02/21/p/dre
+- type: cites
+  target: pt:dre:220171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686836:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:54Z'
   warnings: []
   errors: []
 ---
@@ -391,7 +503,7 @@ e) Emitir parecer sobre a criação ou extinção de núcleos de investigação 
 
 f) Emitir parecer sobre o regulamento de atribuição de bolsas de investigação;
 
-g) Dar parecer sobre relatórios dos projetos de investigação, relatórios de atividades de bolseiros e outros assuntos relacionados com as atividades de ID&I;
+g) Dar parecer sobre relatórios dos projetos de investigação, relatórios de atividades de bolseiros e outros assuntos relacionados com as atividades de ID&I
 
 h) Pronunciar-se sobre o recrutamento e contratação do pessoal de investigação;
 
@@ -671,12 +783,12 @@ b) A [Portaria n.º 124/70](https://diariodarepublica.pt/dr/detalhe/portaria/124
 
 Visto e aprovado em Conselho de Ministros de 3 de setembro de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - José Pedro Correia de Aguiar-Branco - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 1 de outubro de 2015.**
+Promulgado em 1 de outubro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de outubro de 2015.**
+Referendado em 5 de outubro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

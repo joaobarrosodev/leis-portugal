@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/122/2005/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2005-240271
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bbec9b41716cc6178a18218dac261cc1e7ea5958fc5898e64945c2e2986f976
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 916f7fb104e63c3a2b8228a010e7ee25e7b98ee5952a08444d76e67812a6a0ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,17 @@ relationships:
   target: pt:dre:249804:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:584640:por
+  label: "Alterado o art. 5º pelo DEC LEI.199/2005.10.11.2005.MJ, DR.IS-A [216] de 10.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/199-2005-584640
+  date: '2005-11-10'
+- type: amended_by
+  target: pt:dre:640637:por
+  label: "Alterado, a partir de 20.10.2007, o art. 9º-A do Dec Lei 142/2000 de 15-Jul, aditado pelo presente diploma, pelo\
+    \ DEC LEI.291/2007.21.08.2007.MFAP, DR.IS [160] de 21.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/291-2007-640637
+  date: '2007-08-21'
 - type: cites
   target: eli:http://data.dre.pt/el
   label: null
@@ -116,16 +127,106 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/94-b/1998/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94-b/1998/04/17/p/dre
+- type: cites
+  target: pt:dre:187476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668324:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:249804:por
+  label: "Revogado, a partir de 01.01.2009, o Dec Lei 142/2000, de 15-Jul, na redacção do presente diploma, pelo DEC LEI.72/2008.16.04.2008.MFAP,\
+    \ DR.IS [75] de 16.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-2008-249804
+  date: '2008-04-16'
 article_structure:
-  article_count: 28
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:59Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +273,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º e 12.º do [Decreto-Lei n.�
 
 2 - Em caso de impossibilidade de emissão do recibo no momento do pagamento do prémio ou fracção inicial, a empresa de seguros emite um recibo provisório, devendo emitir o recibo definitivo dentro do prazo que vier a ser fixado por norma regulamentar a emitir pelo Instituto de Seguros de Portugal.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os prémios ou fracções subsequentes são devidos nas datas estabelecidas na apólice respectiva, sem prejuízo do disposto nos n.os 2 e 3 do presente artigo.
 
@@ -180,7 +283,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º e 12.º do [Decreto-Lei n.�
 
 3 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A cobertura dos riscos apenas se verifica a partir do momento do pagamento do prémio ou fracção.
 
@@ -190,7 +295,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º e 12.º do [Decreto-Lei n.�
 
 4 - A empresa de seguros deve esclarecer devidamente o tomador acerca do teor do presente artigo, quer antes do pagamento do prémio ou fracção quer nas condições gerais ou especiais das apólices.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A empresa de seguros encontra-se obrigada, até 60 dias antes da data em que os prémios ou fracções subsequentes sejam devidos, a avisar, por escrito, o tomador de seguro, indicando a data do pagamento, o valor a pagar e a forma e o lugar de pagamento.
 
@@ -206,7 +313,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º e 12.º do [Decreto-Lei n.�
 
 7 - Nos contratos de seguro de responsabilidade civil automóvel em que o pagamento do prémio seja fraccionado, para efeitos de aplicação do n.º 1 do artigo 3.º do [Decreto-Lei n.º 130/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1994-262840), de 19 de Maio, considera-se que a validade do seguro corresponde ao período para o qual o prémio se encontra pago.
 
-###### Artigo 8.º — Falta de pagamento do prémio ou fracção
+Artigo 8.º
+
+Falta de pagamento do prémio ou fracção
 
 1 - A falta de pagamento do prémio de anuidades subsequentes, ou da primeira fracção deste, impede a renovação do contrato, que por esse facto se não opera, e o não pagamento de uma qualquer fracção do prémio no decurso de uma anuidade determina a resolução automática e imediata do contrato, na data em que o pagamento dessa fracção era devido.
 
@@ -216,7 +325,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º e 12.º do [Decreto-Lei n.�
 
 4 - Nos casos em que a cobrança seja efectuada através de mediadores, estes ficam obrigados a devolver às empresas de seguros os recibos não cobrados dentro do prazo de oito dias subsequentes ao prazo estabelecido nos avisos referidos nos n.os 1 e 2 do artigo anterior, sob pena de incorrerem nas sanções legalmente estabelecidas.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A não renovação ou a resolução dos contratos de seguro obrigatório do ramo de acidentes de trabalho operada por força da falta de pagamento do prémio de anuidades subsequentes ou do não pagamento de uma qualquer fracção do prémio no decurso de uma anuidade deve ser comunicada pela empresa de seguros à Inspecção-Geral do Trabalho através de envio de listagens mensais por correio registado ou por outro meio do qual fique registo escrito ou electrónico.
 
@@ -226,11 +337,15 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º e 12.º do [Decreto-Lei n.�
 
 4 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 A resolução do contrato, nos termos do n.º 2 do artigo 8.º, por falta de pagamento do prémio ou fracção subsequente nos contratos referidos nos n.os 2 e 3 do artigo 5.º, não exonera o tomador de seguro da obrigação de pagamento dos prémios ou fracções em dívida correspondentes ao período em que o contrato esteve em vigor, acrescidos das penalidades contratualmente estabelecidas e dos respectivos juros de mora.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 As relações entre as seguradoras e os mediadores de seguros com poderes de cobrança, designadamente no que respeita a prazos para prestação de contas, regem-se pelas normas específicas em vigor, sem prejuízo do disposto no n.º 4 do artigo 8.º»
 
@@ -302,15 +417,15 @@ Resolução de contrato de seguro obrigatório do ramo automóvel
 
 Visto e aprovado em Conselho de Ministros de 15 de Junho de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Manuel Moreira de Campos e Cunha - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 13 de Julho de 2005.**
+Promulgado em 13 de Julho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Julho de 2005.**
+Referendado em 14 de Julho de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Regime jurídico do pagamento dos prémios de seguro
 

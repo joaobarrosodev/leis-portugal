@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/03/04500/0068800688.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/8/2016/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2016-73783905
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 074902ed7e2d403c47cf213159afffa82cd71525c05546b47854a1e96601b0e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf3ba025fc6ca4e4656e5251eaa132f458212b8e32b1e00d95264cec9a571ca7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência de Gestão da Tesouraria e da Dívida Pública
 - Aquisição de Bens e Serviços
 - Autoridade Tributária e Aduaneira
 - Certificado de Aforro
+- Certificado do Tesouro
 - Concurso
+- Confidencialidade
+- Contribuições e Impostos
 - Definição de Competências
 - Emissão de Títulos
+- Evasão Fiscal
 - Factura
 - Fiscalização
 - Fraude Fiscal
-- Lisboa
-- Contribuições e Impostos
-- Segurança da Informação
 - JURI
-- Santa Casa da Misericórdia
-- Agência de Gestão da Tesouraria e da Dívida Pública
+- Lisboa
 - Número Fiscal de Contribuinte
 - Poupança
-- Certificado do Tesouro
-- Evasão Fiscal
 - Prémio
-- Confidencialidade
 - Receita Fiscal
-- Transacção Comercial
 - Regulamento do Sorteio Fatura da Sorte
+- Santa Casa da Misericórdia
+- Segurança da Informação
+- Transacção Comercial
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/26-a/2014/02/17/p/dre
@@ -99,16 +99,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75-a/2014/09/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75-a/2014/09/30/p/dre
+- type: cites
+  target: pt:dre:282680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:55Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +153,9 @@ Os artigos 6.º e 9.º do [Decreto-Lei n.º 26-A/2014](https://diariodarepublica
 
 2 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -167,12 +177,12 @@ O presente decreto-lei entra em vigor no dia 1 de abril de 2016.
 
 Visto e aprovado em Conselho de Ministros de 18 de fevereiro de 2016. - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Maria Constança Dias Urbano de Sousa - Francisca Eugénia da Silva Dias Van Dunem.
 
-**Promulgado em 24 de fevereiro de 2016.**
+Promulgado em 24 de fevereiro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 2 de março de 2016.**
+Referendado em 2 de março de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

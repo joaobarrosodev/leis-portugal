@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/01/026a00/01680195.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/6/1996/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4d39f6628055d7fa653fd5ddcbededd6ab5dc76449eed469a6b19fa025ca125
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edfd30a0de446fe2f04626d817cb470ce9745beb5190734dcd4bcb992828a9e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ACTO Administrativo
-- Modernização Administrativa
-- Código do Procedimento Administrativo
-- Contrato Administrativo
-- Direito Administrativo
 - Administração Pública
-- Legalidade Administrativa
+- Código do Procedimento Administrativo
+- Contratação Pública
+- Contrato Administrativo
+- Dados Pessoais
 - Direito à Informação
+- Direito Administrativo
+- Legalidade Administrativa
+- Modernização Administrativa
 - Processo Administrativo
 - Processo Administrativo Gracioso
 - Regulamento
 - Responsabilidade Administrativa
-- Dados Pessoais
-- Contratação Pública
 relationships:
 - type: amended_by
   target: pt:dre:66041468:por
@@ -92,16 +92,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/34/1995/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/34/1995/08/18/p/dre
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434620:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:248178:por
+  label: "Revogado, a partir de 30.07.2008, o Cap. III da parte IV do Código do Procedimento Administrativo, aprovado pelo\
+    \ Dec Lei 442/91 de 15-Nov, revisto e republicado pelo presente diploma, pelo DEC LEI.18/2008.29.01.2008.MOPTC, DR.IS\
+    \ [20] de 29.01.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2008-248178
+  date: '2008-01-29'
+- type: repealed_by
+  target: pt:dre:66041468:por
+  label: Revogado a partir de 07.04.2015 o Dec Lei 442/91, de 15-nov, na redação da presente diploma pelo(a) Decreto-Lei n.º
+    4/2015 - Diário da República n.º 4/2015, Série I de 2015-01-07, que mantém em vigor, nos termos do arts. 6.º e 8.º, o
+    n.º 2 do art. 149.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-2015-66041468
+  date: '2015-01-07'
 article_structure:
-  article_count: 227
-  section_count: 37
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 194
+  section_count: 41
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:39Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +196,9 @@ c) ...
 
 7 - No domínio da actividade de gestão pública, as restantes disposições do presente Código aplicam-se supletivamente aos procedimentos especiais, desde que não envolvam diminuição das garantias dos particulares.
 
-###### Artigo 9.º — Princípio da decisão
+Artigo 9.º
+
+Princípio da decisão
 
 1 - ...
 
@@ -184,13 +208,17 @@ b) ...
 
 2 - Não existe o dever de decisão quando, há menos de dois anos contados da data da apresentação do requerimento, o órgão competente tenha praticado um acto administrativo sobre o mesmo pedido formulado pelo mesmo particular com os mesmos fundamentos.
 
-###### Artigo 11.º — Princípio da gratuitidade
+Artigo 11.º
+
+Princípio da gratuitidade
 
 1 - ...
 
 2 - Em caso de comprovada insuficiência económica, demonstrada nos termos da lei sobre o apoio judiciário, a Administração isentará, total ou parcialmente, o interessado do pagamento das taxas ou das despesas referidas no número anterior.
 
-###### Artigo 14.º — Presidente e secretário
+Artigo 14.º
+
+Presidente e secretário
 
 1 - Sempre que a lei não disponha de forma diferente, cada órgão administrativo colegial tem um presidente e um secretário, a eleger pelos membros que o compõem.
 
@@ -200,17 +228,23 @@ b) ...
 
 4 - ...
 
-###### Artigo 22.º — Quórum
+Artigo 22.º
+
+Quórum
 
 1 - Os órgãos colegiais só podem, regra geral, deliberar quando esteja presente a maioria do número legal dos seus membros com direito a voto.
 
 2 - Sempre que se não disponha de forma diferente, não se verificando na primeira convocação o quórum previsto no número anterior, será convocada nova reunião, com o intervalo de, pelo menos, vinte e quatro horas, prevendo-se nessa convocação que o órgão delibere desde que esteja presente um terço dos seus membros com direito a voto, em número não inferior a três.
 
-###### Artigo 23.º — Proibição da abstenção
+Artigo 23.º
+
+Proibição da abstenção
 
 No silêncio da lei, é proibida a abstenção aos membros dos órgãos colegiais consultivos que estejam presentes à reunião e não se encontrem impedidos de intervir.
 
-###### Artigo 24.º — Formas de votação
+Artigo 24.º
+
+Formas de votação
 
 1 - Salvo disposição legal em contrário, as deliberações são tomadas por votação nominal, devendo votar primeiramente os vogais e, por fim, o presidente.
 
@@ -220,7 +254,9 @@ No silêncio da lei, é proibida a abstenção aos membros dos órgãos colegiai
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 31.º — Questões prejudiciais
+Artigo 31.º
+
+Questões prejudiciais
 
 1 - ...
 
@@ -234,7 +270,9 @@ c) [Anterior alínea b).]
 
 3 - (Anterior n.º 3.)
 
-###### Artigo 35.º — Da delegação de poderes
+Artigo 35.º
+
+Da delegação de poderes
 
 1 - ...
 
@@ -242,7 +280,9 @@ c) [Anterior alínea b).]
 
 3 - O disposto no número anterior vale igualmente para a delegação de poderes dos órgãos colegiais nos respectivos presidentes, salvo havendo lei de habilitação específica que estabeleça uma particular repartição de competências entre os diversos órgãos.
 
-###### Artigo 44.º — Casos de impedimento
+Artigo 44.º
+
+Casos de impedimento
 
 1 - Nenhum titular de órgão ou agente da Administração Pública pode intervir em procedimento administrativo ou em acto ou contrato de direito público ou privado da Administração Pública nos seguintes casos:
 
@@ -262,13 +302,17 @@ g) ...
 
 2 - Excluem-se do disposto no número anterior as intervenções que se traduzam em actos de mero expediente, designadamente actos certificativos.
 
-###### Artigo 52.º — Intervenção no procedimento administrativo
+Artigo 52.º
+
+Intervenção no procedimento administrativo
 
 1 - Todos os particulares têm o direito de intervir pessoalmente no procedimento administrativo ou de nele se fazer representar ou assistir, designadamente através de advogado ou solicitador.
 
 2 - ...
 
-###### Artigo 58.º — Prazo geral para a conclusão
+Artigo 58.º
+
+Prazo geral para a conclusão
 
 1 - O procedimento deve ser concluído no prazo de 90 dias, salvo se outro prazo decorrer da lei ou for imposto por circunstâncias excepcionais.
 
@@ -276,7 +320,9 @@ g) ...
 
 3 - A inobservância dos prazos a que se referem os números anteriores deve ser justificada pelo órgão responsável, perante o imediato superior hierárquico ou perante o órgão colegial competente, dentro dos 10 dias seguintes ao termo dos mesmos prazos.
 
-###### Artigo 62.º — Consulta do processo e passagem de certidões
+Artigo 62.º
+
+Consulta do processo e passagem de certidões
 
 1 - Os interessados têm o direito de consultar o processo que não contenha documentos classificados ou que revelem segredo comercial ou industrial ou segredo relativo à propriedade literária, artística ou científica.
 
@@ -284,7 +330,9 @@ g) ...
 
 3 - Os interessados têm o direito, mediante o pagamento das importâncias que forem devidas, de obter certidão, reprodução ou declaração autenticada dos documentos que constem dos processos a que tenham acesso.
 
-###### Artigo 63.º — Certidões independentes de despacho
+Artigo 63.º
+
+Certidões independentes de despacho
 
 1 - Os funcionários competentes são obrigados a passar aos interessados, independentemente de despacho e no prazo de 10 dias a contar da apresentação do requerimento, certidão, reprodução ou declaração autenticada de documentos de que constem, consoante o pedido, todos ou alguns dos seguintes elementos:
 
@@ -298,7 +346,9 @@ d) ...
 
 2 - O dever estabelecido no número anterior não abrange os documentos classificados ou que revelem segredo comercial ou industrial ou segredo relativo à propriedade literária, artística ou científica.
 
-###### Artigo 70.º — Forma das notificações
+Artigo 70.º
+
+Forma das notificações
 
 1 - ...
 
@@ -312,13 +362,17 @@ d) ...
 
 2 - Sempre que a notificação seja feita por telefone, será a mesma confirmada nos termos das alíneas a) e b) do número anterior, consoante os casos, no dia útil imediato, sem prejuízo de a notificação se considerar feita na data da primeira comunicação.
 
-###### Artigo 71.º — Prazo geral
+Artigo 71.º
+
+Prazo geral
 
 1 - Excluindo o disposto nos artigos 108.º e 109.º, e na falta de disposição especial ou de fixação pela Administração, o prazo para os actos a praticar pelos órgãos administrativos é de 10 dias.
 
 2 - É igualmente de 10 dias o prazo para os interessados requererem ou praticarem quaisquer actos, promoverem diligências, responderem sobre os assuntos acerca dos quais se devam pronunciar ou exercerem outros poderes no procedimento.
 
-###### Artigo 72.º — Contagem dos prazos
+Artigo 72.º
+
+Contagem dos prazos
 
 1 - ...
 
@@ -330,7 +384,9 @@ c) ...
 
 2 - Na contagem dos prazos legalmente fixados em mais de seis meses incluem-se os sábados, domingos e feriados.
 
-###### Artigo 84.º — Admissibilidade de medidas provisórias
+Artigo 84.º
+
+Admissibilidade de medidas provisórias
 
 1 - ...
 
@@ -340,11 +396,15 @@ c) ...
 
 4 - O recurso hierárquico necessário das medidas provisórias não suspende a sua eficácia, salvo quando o órgão competente o determine.
 
-###### Artigo 92.º — Realização de diligências por outros serviços
+Artigo 92.º
+
+Realização de diligências por outros serviços
 
 O órgão instrutor pode solicitar a realização de diligências de prova a outros serviços da administração central, regional ou local, quando elas não possam ser por si efectuadas.
 
-###### Artigo 100.º — Audiência dos interessados
+Artigo 100.º
+
+Audiência dos interessados
 
 1 - Concluída a instrução, e salvo o disposto no artigo 103.º, os interessados têm o direito de ser ouvidos no procedimento antes de ser tomada a decisão final, devendo ser informados, nomeadamente, sobre o sentido provável desta.
 
@@ -352,7 +412,9 @@ O órgão instrutor pode solicitar a realização de diligências de prova a out
 
 3 - A realização da audiência dos interessados suspende a contagem de prazos em todos os procedimentos administrativos.
 
-###### Artigo 103.º — Inexistência e dispensa de audiência dos interessados
+Artigo 103.º
+
+Inexistência e dispensa de audiência dos interessados
 
 1 - ...
 
@@ -368,13 +430,17 @@ a) ...
 
 b) ...
 
-###### Artigo 113.º — Falta de pagamento de taxas ou despesas
+Artigo 113.º
+
+Falta de pagamento de taxas ou despesas
 
 1 - O procedimento extingue-se pela falta de pagamento, no prazo devido, de quaisquer taxas ou despesas de que a lei faça depender a realização dos actos procedimentais, salvo os casos previstos no n.º 2 do artigo 11.º
 
 2 - ...
 
-###### Artigo 123.º — Menções obrigatórias
+Artigo 123.º
+
+Menções obrigatórias
 
 1 - Sem prejuízo de outras referências especialmente exigidas por lei, devem sempre constar do acto:
 
@@ -394,7 +460,9 @@ g) ...
 
 2 - Todas as menções exigidas pelo número anterior devem ser enunciadas de forma clara, precisa e completa, de modo a poderem determinar-se inequivocamente o seu sentido e alcance e os efeitos jurídicos do acto administrativo.
 
-###### Artigo 128.º — Eficácia retroactiva
+Artigo 128.º
+
+Eficácia retroactiva
 
 1 - ...
 
@@ -412,7 +480,9 @@ b) ...
 
 c) ...
 
-###### Artigo 149.º — Executoriedade
+Artigo 149.º
+
+Executoriedade
 
 1 - ...
 
@@ -420,7 +490,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 155.º — Execução para pagamento de quantia certa
+Artigo 155.º
+
+Execução para pagamento de quantia certa
 
 1 - Quando por força de um acto administrativo devam ser pagas a uma pessoa colectiva pública, ou por ordem desta, prestações pecuniárias, seguir-se-á, na falta de pagamento voluntário no prazo fixado, o processo de execução fiscal regulado no Código de Processo Tributário.
 
@@ -430,7 +502,9 @@ c) ...
 
 4 - No caso previsto no número anterior, a Administração optará por realizar directamente os actos de execução ou por encarregar terceiro de os praticar, ficando todas as despesas, incluindo indemnizações e sanções pecuniárias, por conta do obrigado.
 
-###### Artigo 163.º — Efeitos da reclamação
+Artigo 163.º
+
+Efeitos da reclamação
 
 1 - ...
 
@@ -442,19 +516,25 @@ c) ...
 
 5 - ...
 
-###### Artigo 164.º — Prazos de recurso
+Artigo 164.º
+
+Prazos de recurso
 
 1 - A reclamação de actos insusceptíveis de recurso contencioso suspende o prazo de interposição do recurso hierárquico necessário.
 
 2 - A reclamação dos demais actos não suspende nem interrompe o prazo de interposição do recurso que no caso couber.
 
-###### Artigo 172.º — Intervenção do órgão recorrido
+Artigo 172.º
+
+Intervenção do órgão recorrido
 
 1 - No mesmo prazo referido no artigo anterior deve também o autor do acto recorrido pronunciar-se sobre o recurso e remetê-lo ao órgão competente para dele conhecer, notificando o recorrente da remessa do processo.
 
 2 - Quando os contra-interessados não hajam deduzido oposição e os elementos constantes do processo demonstrem suficientemente a procedência do recurso, pode o autor do acto recorrido revogar, modificar ou substituir o acto de acordo com o pedido do recorrente, informando da sua decisão o órgão competente para conhecer do recurso.
 
-###### Artigo 175.º — Prazo para a decisão
+Artigo 175.º
+
+Prazo para a decisão
 
 1 - Quando a lei não fixe prazo diferente, o recurso hierárquico deve ser decidido no prazo de 30 dias contado a partir da remessa do processo ao órgão competente para dele conhecer.
 
@@ -462,7 +542,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 182.º — Escolha do co-contratante
+Artigo 182.º
+
+Escolha do co-contratante
 
 1 - Salvo o disposto em legislação especial, nos contratos que visem associar um particular ao desempenho regular de atribuições administrativas o co-contratante deve ser escolhido por uma das seguintes formas:
 
@@ -486,11 +568,15 @@ e) Ajuste directo.
 
 6 - O ajuste directo dispensa quaisquer consultas.
 
-###### Artigo 183.º — Obrigatoriedade de concurso público
+Artigo 183.º
+
+Obrigatoriedade de concurso público
 
 Com ressalva do disposto nas normas que regulam a realização de despesas públicas ou em legislação especial, os contratos administrativos devem ser precedidos de concurso público.
 
-###### Artigo 185.º — Regime da invalidade dos contratos
+Artigo 185.º
+
+Regime da invalidade dos contratos
 
 1 - Os contratos administrativos são nulos ou anuláveis, nos termos do presente Código, quando forem nulos ou anuláveis os actos administrativos de que haja dependido a sua celebração.
 
@@ -518,7 +604,9 @@ a) A confiança suscitada na contraparte pela actuação em causa;
 
 b) O objectivo a alcançar com a actuação empreendida.
 
-###### Artigo 189.º — Legislação subsidiária
+Artigo 189.º
+
+Legislação subsidiária
 
 Em tudo quanto não estiver expressamente regulado no presente Código são aplicáveis aos contratos administrativos os princípios gerais de direito administrativo e, com as necessárias adaptações, as disposições legais que regulam as despesas públicas e as normas que regulem formas específicas de contratação pública.»
 
@@ -532,19 +620,19 @@ O Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 442/91
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - Abílio Manuel Pinto Rodrigues de Almeida Morgado - Manuel Dias Loureiro - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Vítor Ângelo da Costa Martins - António Duarte Silva - Luís Fernando Mira Amaral - Maria Manuela Dias Ferreira Leite - Joaquim Martins Ferreira do Amaral - Adalberto Paulo da Fonseca Mendo - José Bernardo Veloso Falcão e Cunha - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia - António Baptista Duarte Silva - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 13 de Outubro de 1995.**
+Promulgado em 13 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Outubro de 1995.**
+Referendado em 16 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CÓDIGO DO PROCEDIMENTO ADMINISTRATIVO
 
-# PARTE I — Princípios gerais
+## PARTE I — Princípios gerais
 
 ### CAPÍTULO I — Disposições preliminares
 
@@ -646,7 +734,7 @@ A Administração Pública deve ser estruturada de modo a aproximar os serviços
 
 Aos particulares é garantido o acesso à justiça administrativa, a fim de obterem a fiscalização contenciosa dos actos da Administração, bem como para tutela dos seus direitos ou interesses legalmente protegidos, nos termos previstos na legislação reguladora do contencioso administrativo.
 
-# PARTE II — Dos sujeitos
+## PARTE II — Dos sujeitos
 
 ### CAPÍTULO I — Dos órgãos administrativos
 
@@ -986,7 +1074,7 @@ b) Os residentes na circunscrição em que se localize algum bem do domínio pú
 
 4 - Não podem reclamar nem recorrer aqueles que, sem reserva, tenham aceitado, expressa ou tacitamente, um acto administrativo depois de praticado.
 
-# PARTE III — Do procedimento administrativo
+## PARTE III — Do procedimento administrativo
 
 ### CAPÍTULO I — Princípios gerais
 
@@ -1500,7 +1588,7 @@ c) Da data do conhecimento da conclusão das mesmas formalidades, se essa for an
 
 2 - Os interessados podem obstar à extinção do procedimento se realizarem o pagamento em dobro da quantia em falta nos 10 dias seguintes ao termo do prazo fixado para o seu pagamento.
 
-# PARTE IV — Da actividade administrativa
+## PARTE IV — Da actividade administrativa
 
 ### CAPÍTULO I — Do regulamento
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/276/2009/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2009-490974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09f562488c499466e428cae6a107161c56927ac98158dfaf2d8764ff427b2ab9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe1ac9f4eade4904a1aaf59b4d0076613a17bbfb31d2de5d04507a8f27dc25c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ARH
-- Aproximação das Legislações
-- Direção Geral da Agricultura e Desenvolvimento Rural
-- Contra-ordenação
-- Direcção Regional de Agricultura e Pescas
-- Plano de Gestão de Lamas
-- Saúde Pública
-- Fiscalização
-- Comissão de Coordenação e Desenvolvimento Regional
-- Licenciamento
-- Proteção do Ambiente
-- Águas Residuais
-- Fertilizante
-- Tratamento de Resíduos
-- Madeira.região Autónoma
-- Regime Jurídico
-- Agricultura
-- Sanção
 - Açores
+- Agricultura
+- Águas Residuais
+- Aproximação das Legislações
+- ARH
+- Comissão de Coordenação e Desenvolvimento Regional
+- Contra-ordenação
+- Direção Geral da Agricultura e Desenvolvimento Rural
+- Direcção Regional de Agricultura e Pescas
+- Fertilizante
+- Fiscalização
+- Licenciamento
+- Madeira.região Autónoma
+- Plano de Gestão de Lamas
+- Proteção do Ambiente
+- Regime Jurídico
+- Sanção
+- Saúde Pública
 - Taxa
 - Tratamento de ÁGUA
+- Tratamento de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:185224662:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:130893436:por
+  label: Atualizadas as taxas previstas no art. 23.º do presente diploma pelo(a) Lei n.º 2/2020 - Diário da República n.º
+    64/2020, Série I de 2020-03-31 nos termos do seu art. 299.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2020-130893436
+  date: '2020-03-31'
+- type: amended_by
+  target: pt:dre:152639825:por
+  label: Atualizadas, as taxas previstas no art. 23.º do presente diploma, pelo(a) Lei n.º 75-B/2020 - Diário da República
+    n.º 253/2020, 1º Suplemento, Série I de 2020-12-31, nos termos do seu art. 319.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-b-2020-152639825
+  date: '2020-12-31'
+- type: amended_by
+  target: pt:dre:185224662:por
+  label: Atualizadas, em 2022, as taxas previstas no art. 23.º pelo(a) Lei n.º 12/2022 - Diário da República n.º 122/2022,
+    Série I de 2022-06-27 nos termos do art. 241.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2022-185224662
+  date: '2022-06-27'
 - type: cites
   target: celex:31986L0278
   label: null
@@ -100,13 +118,13 @@ relationships:
 article_structure:
   article_count: 32
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:35Z'
   warnings: []
   errors: []
 ---
@@ -559,15 +577,15 @@ O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeir
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Francisco Carlos da Graça Nunes Correia - Luís Medeiros Vieira.
 
-**Promulgado em 18 de Setembro de 2009.**
+Promulgado em 18 de Setembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de Setembro de 2009.**
+Referendado em 21 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Valores limite de concentração relativos a metais pesados, compostos orgânicos e dioxinas e microrganismos
 
@@ -575,7 +593,7 @@ QUADRO N.º 1
 
 Valores limite de concentração de metais pesados nos solos em função do seu pH
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf)
 
 As DRAP indicam o número e a natureza dos locais em causa.
 
@@ -583,25 +601,25 @@ QUADRO N.º 2
 
 Valores limite de concentração de metais pesados nas lamas destinadas à aplicação no solo agrícola
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf)
 
 QUADRO N.º 3
 
 Valores limite para as quantidades anuais de metais pesados que podem ser introduzidas nos solos cultivados, com base numa média de 10 anos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf)
 
 QUADRO N.º 4
 
 Valores limite de concentração de compostos orgânicos nas lamas destinadas à agricultura (aplicável nos casos previstos no n.º 1.1.5 do anexo II)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf)
 
 QUADRO N.º 5
 
 Valores limite de microrganismos nas lamas destinadas à agricultura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf)
 
 ## ANEXO II — Análises a efectuar às lamas e aos solos
 
@@ -663,7 +681,7 @@ QUADRO N.º 6
 
 Frequência anual das análises às lamas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf)
 
 1.2.2 - A frequência das análises para cada parâmetro relativo a metais pesados e microrganismos patogénicos pode ser reduzida caso, no período de dois anos consecutivos, seja demonstrado que o valor obtido para esse parâmetro é sistematicamente inferior a 75 % do valor limite.
 
@@ -675,7 +693,7 @@ QUADRO N.º 7
 
 Frequência reduzida das análises às lamas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf)
 
 1.2.5 - Sempre que surjam variações significativas na qualidade da água bruta ou alterações no funcionamento da estação de tratamento de águas residuais, deve ser realizada uma análise após a primeira produção de lamas.
 
@@ -765,7 +783,7 @@ QUADRO N.º 8
 
 Normas de referência para a análise às lamas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf)
 
 3.2 - Análise dos solos - as normas de referência para as análises dos solos são as que constam do quadro n.º 9.
 
@@ -773,7 +791,7 @@ QUADRO N.º 9
 
 Normas de referência para a análise dos solos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf)
 
 ## ANEXO III — Elementos de instrução do Plano de Gestão de Lamas (PGL)
 
@@ -823,4 +841,4 @@ v) A descrição das formas de acesso aos primeiros socorros.
 
 ## ANEXO IV — Modelo da declaração de planeamento das operações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19200/0715407165.pdf)

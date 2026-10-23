@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/02/02800/03130313.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/4-1986-194665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:59:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7be249304f02c216544e29516c39bc2bb79ed9d362d25dfbe9b89c40579bfe50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2e07eb7cb0db2428cf415bbe00283a56f704c4f4a5359a3bb15b1e32e2c2049
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:59:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embaixador
+- Nomeação
+- Paris
+- Representante Permanente de Portugal Junto da Unesco
+- Unesco
 relationships:
 - type: amended_by
   target: pt:dre:596892:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:596892:por
+  label: Exonerado o Doutor José Augusto Baptista Lopes e Seabra, nomeado pelo presente diploma, pelo(a) Decreto do Presidente
+    da República n.º 45/92 - Diário da República n.º 277/1992, Série I-A de 1992-11-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/45-1992-596892
+  date: '1992-11-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:59:34Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +100,16 @@ validation:
 
 de 3 de Fevereiro
 
-**O Presidente da República decreta, nos termos da alínea a) do artigo 138.º da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos da alínea a) do artigo 138.º da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o Prof. Doutor José Augusto Baptista Lopes e Seabra para o cargo de embaixador representante permanente de Portugal junto da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO), em Paris.
 
-**Assinado em 10 de Janeiro de 1986.**
+Assinado em 10 de Janeiro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro dos Negócios Estrangeiros, Pedro José Rodrigues Pires de Miranda.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro dos Negócios Estrangeiros, Pedro José Rodrigues Pires de Miranda.
 
-**Referendado em 22 de Janeiro de 1986.**
+Referendado em 22 de Janeiro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

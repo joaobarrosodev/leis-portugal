@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/03/07400/10261028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1984-661895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:09:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d65061377b17e3d1111b0d7d461916dea29dce0007fbf8f0875d5db5b536b97f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f51b13144341cc5b1e1fd9059768a883ad34ddfe7e353fe73abcc5a8f0d49de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:09:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comunicações
+- Instalações Radioelétricas
+- Serra de ARGA
+- Servidão Radioelétrica
+- Utilidade Pública
+- Valença
 relationships:
 - type: amended_by
   target: pt:dre:449210:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:275426:por
+  label: Rectificado pela DECL.DD5003.27.06.1984.PCM, DR.IS [150-2SUPL] de 30.06.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-275426
+  date: '1984-06-27'
+- type: repealed_by
+  target: pt:dre:449210:por
+  label: "Revogado pelo DR.47/2002.2002.10.22.MECO, DR.IS-B [264] de 15/Nov/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/47-2002-449210
+  date: '2002-10-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:09:08Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +121,11 @@ Considerando o disposto no n.º 1 do artigo 14.º do [Decreto-Lei n.º 597/73](h
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º As áreas adjacentes ao percurso da ligação hertziana entre os centros radioeléctricos da serra de Arga e de Valença, numa distância de 24,8 km, estão sujeitas a servidão radioeléctrica e, bem assim, a outras restrições de utilidade pública, nos termos do disposto no [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro.
+Artigo 1.º As áreas adjacentes ao percurso da ligação hertziana entre os centros radioeléctricos da serra de Arga e de Valença, numa distância de 24,8 km, estão sujeitas a servidão radioeléctrica e, bem assim, a outras restrições de utilidade pública, nos termos do disposto no [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro.
 
-###### Art. 2.º A ligação hertziana referida no artigo anterior é composta por duas estações terminais, situadas, respectivamente, na elevação denominada «Outeiro do Homem», na serra de Arga, e no lugar de Bugalheira, em Valença.
+Art. 2.º A ligação hertziana referida no artigo anterior é composta por duas estações terminais, situadas, respectivamente, na elevação denominada «Outeiro do Homem», na serra de Arga, e no lugar de Bugalheira, em Valença.
 
-###### Art. 3.º Os centros radioeléctricos da serra de Arga e de Valença utilizam antenas directivas, com cotas, respectivamente, de 841 m e de 60 m em relação ao nível médio do mar, e situam-se em pontos com as seguintes coordenadas geográficas:
+Art. 3.º Os centros radioeléctricos da serra de Arga e de Valença utilizam antenas directivas, com cotas, respectivamente, de 841 m e de 60 m em relação ao nível médio do mar, e situam-se em pontos com as seguintes coordenadas geográficas:
 
 a) Serra de Arga:
 
@@ -115,15 +139,15 @@ Latitude - 42º 01' 22,10" N.;
 
 Longitude - 8º 35' 25,80" W.
 
-###### Art. 4.º A zona de desobstrução a que aludem a alínea b) do n.º 1 do artigo 6.º e o artigo 11.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro, tem uma largura de 25 m.
+Art. 4.º A zona de desobstrução a que aludem a alínea b) do n.º 1 do artigo 6.º e o artigo 11.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro, tem uma largura de 25 m.
 
 Esta zona de desobstrução, que é medida perpendicularmente e para cada lado da projecção horizontal da linha recta que une as antenas dos centros radioeléctricos respectivos, encontra-se demarcada, em plano horizontal, na planta topográfica, à escala de 1:100000, conforme o anexo I a este diploma.
 
-###### Art. 5.º - 1 - Na zona de desobstrução definida no artigo anterior é proibida a implantação ou manutenção de edifícios ou de outros obstáculos que distem da linha recta que une as duas antenas terminais menos de [([ver documento original](https://files.diariodarepublica.pt/1s/1984/03/07400/10261028.pdf))](https://files.diariodarepublica.pt/1s/1984/03/07400/10261028.pdf).
+Art. 5.º - 1 - Na zona de desobstrução definida no artigo anterior é proibida a implantação ou manutenção de edifícios ou de outros obstáculos que distem da linha recta que une as duas antenas terminais menos de [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/03/07400/10261028.pdf).
 
 2 - O elipsóide da 1.ª zona de Fresnel e o perfil do terreno entre as duas antenas consideradas estão representadas em plano vertical, nas escalas de 1:200000 (eixo das abcissas) e de 1:10000 (eixo das ordenadas), conforme o anexo II a este diploma.
 
-###### Art. 6.º O director dos Serviços de Radiocomunicações dos CTT é a entidade competente para:
+Art. 6.º O director dos Serviços de Radiocomunicações dos CTT é a entidade competente para:
 
 a) Ordenar a demolição, remoção, abate ou inutilização dos obstáculos perturbadores, referidos nos termos do n.º 2 do artigo 20.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro;
 
@@ -131,18 +155,18 @@ b) Fiscalizar o cumprimento das disposições legais respeitantes à presente se
 
 c) Aplicar, nos termos do artigo 24.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro, as multas decorrentes das infracções verificadas.
 
-###### Art. 7.º Das decisões tomadas nos termos das alíneas a) e c) do artigo anterior cabe recurso para o Ministro do Equipamento Social.
+Art. 7.º Das decisões tomadas nos termos das alíneas a) e c) do artigo anterior cabe recurso para o Ministro do Equipamento Social.
 
 Mário Soares - Carlos Alberto da Mota Pinto - João Rosado Correia.
 
-**Promulgado em 26 de Fevereiro de 1984.**
+Promulgado em 26 de Fevereiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Fevereiro de 1984.**
+Referendado em 27 de Fevereiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/03/07400/10261028.pdf))](https://files.diariodarepublica.pt/1s/1984/03/07400/10261028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/03/07400/10261028.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/06/12000/0380003807.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/104/2008/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2008-456198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4320e5a31a1c3f67b8eeca64bf158fc7c208a5595699016ff1c16da961c3b83c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14703fc3f1884fa45cd4adc40794e4ee8f910b8f59b6f3b97441dde810238360
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Carreira Profissional
 - Concurso
 - Concurso de Acesso
-- Ministério da Educação
 - Diretor Regional
 - Educador de Infância
-- Carreira Profissional
-- Recrutamento de Pessoal
-- Ensino Secundário
-- JURI
-- Estabelecimento de Ensino
-- Pessoal Docente
 - Ensino Básico
+- Ensino Secundário
+- Estabelecimento de Ensino
+- JURI
 - Madeira.região Autónoma
-- Açores
+- Ministério da Educação
+- Pessoal Docente
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:335228:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:491219:por
+  label: "Alterados os arts. 3º, 5º, 7º, 8º, 10º, 12º, 13º, 16º, 17º, 18º e 21º, aditado o art. 7º-A, revogado o nº 4 do art.\
+    \ 10º e os nºs. 4 e 5 do art. 15º e republicado pelo DEC LEI.270/2009.30.09.2009.ME, DR.IS [190] de 30.09.2009, que \0\
+    \ \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-2009-491219
+  date: '2009-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/2007/01/19/p/dre
   label: null
@@ -109,16 +116,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:482582:por
+  label: "Rectificado o art. 9.º do Dec Lei 270/2009 de 30-Set, [onde se lê \" b) O n.º 4 do artigo 10.º e os n.os 4 e 5 do\
+    \ artigo 15.º do Decreto-Lei n.º 104/2008, de 24 de Junho, deve ler-se \" c) O n.º 4 do artigo 10.º e os n.os 4 e 5 do\
+    \ artigo 15.º do Decreto-Lei n.º 104/2008, de 24 de Junho\" ], e no anexo ii do mesmo diploma, na republicação do presente\
+    \ diploma, nos n.ºs 4 e 5 do artigo 15.º deve ler-se \"revogado\"] pela DECL-RECT.84/2009.18.11.2009.PCM, DR.IS [224]\
+    \ de 18.11.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/84-2009-482582
+  date: '2009-11-18'
+- type: repealed_by
+  target: pt:dre:335228:por
+  label: "Revogado, a partir de 24.06.2010, com a redacção introduzida pelo Dec Lei 270/2009 de 30-Set, pelo DEC LEI.75/2010.23.06.2010.ME,\
+    \ DR.IS [120] de 23.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-2010-335228
+  date: '2010-06-23'
 article_structure:
   article_count: 33
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:52Z'
   warnings: []
   errors: []
 ---
@@ -583,12 +629,12 @@ Aos processos de concurso aplicam-se as disposições do regime geral de recruta
 
 Visto e aprovado em Conselho de Ministros de 17 de Abril de 2008. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Costa Pina - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 30 de Maio de 2008.**
+Promulgado em 30 de Maio de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de Junho de 2008.**
+Referendado em 5 de Junho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/179/2003/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2003-659917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da563b4cd4aabcf95b0804f324e4b92afd834ce72483ccce6c36721f0e9d1dca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0a0d89c93d0267ffa0baec0774122251fde6b493649e658e270bdbe5198e918
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Formação Profissional
-- Seguro
-- Livre Circulação de Trabalhadores
 - Equivalência de Diplomas
+- Formação Profissional
+- Livre Circulação de Trabalhadores
 - Responsabilidade Civil
-- Trabalhador Independente
+- Seguro
 - Trabalhador Comunitário
+- Trabalhador Independente
 - Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
@@ -89,16 +89,21 @@ relationships:
   target: celex:32001L0019
   label: null
   source: http://data.europa.eu/eli/dir/2001/19/oj
+- type: repealed_by
+  target: pt:dre:604779:por
+  label: "Revogado, nos termos do nº 2 do art. 55.º, pela LEI.9/2009.04.03.2009.AR, DR.IS [44] de 04.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2009-604779
+  date: '2009-03-04'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:25Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +142,9 @@ O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [2
 
 3 - Sempre que, em aplicação do sistema de reconhecimento, for exigível, nos termos do artigo 10.º, que o requerente efectue um estágio de adaptação ou se submeta a uma prova de aptidão, a respectiva autoridade competente deve verificar, previamente, se os conhecimentos adquiridos pelo interessado durante a sua actividade profissional podem colmatar, total ou parcialmente, as diferenças substanciais entre o diploma, certificado ou título de formação de que é titular e o diploma ou certificado exigido.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -161,12 +168,12 @@ Capacidade financeira e responsabilidade profissional
 
 Visto e aprovado em Conselho de Ministros de 27 de Maio de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - José David Gomes Justino - Luís Filipe Pereira - António José de Castro Bagão Félix.
 
-**Promulgado em 24 de Julho de 2003.**
+Promulgado em 24 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Agosto de 2003.**
+Referendado em 4 de Agosto de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

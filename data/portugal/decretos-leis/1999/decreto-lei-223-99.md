@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/223/1999/06/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1999-391579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:08:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4099759dc10f59d74063e42c4f10dd824f1e4cc07fbaad56ac2979fde2a33516
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df8a637b2c495792a9c478e45b825288711647bd2b0648ecd3ca2d832f7b9f1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:08:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carvão
-- Transporte Marítimo
-- Serviço Público
 - Portos
+- Serviço Público
 - Sines
 - Tarifa Portuária
 - TAXA de Prestação de Serviços
 - Terminal de Carga
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:576279:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:576279:por
+  label: "Alterada a redacção das bases II, IX, X, XIX e XXXII do anexo do Dec Lei 422/88 de 14-Nov, com a redacção conferida\
+    \ pelo presente diploma, pelo DEC LEI.311/2001.2001.12.10.MES DR.IS-A [284]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/311-2001-576279
+  date: '2001-12-10'
+- type: cites
+  target: pt:dre:357556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374644:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:08:11Z'
   warnings: []
   errors: []
 ---
@@ -141,12 +155,12 @@ c) 5% da receita bruta total anual de exploração.
 
 Visto e aprovado em Conselho de Ministros de 29 de Abril de 1999. - António Manuel de Oliveira Guterres - Fernando Teixeira dos Santos - João Cardona Gomes Cravinho - Vítor Manuel Sampaio Caetano Ramalho.
 
-**Promulgado em 2 de Junho de 1999.**
+Promulgado em 2 de Junho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Junho de 1999.**
+Referendado em 9 de Junho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

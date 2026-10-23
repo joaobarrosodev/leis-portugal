@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/41/2002/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-2002-171679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:27:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f166587c9951f1fffd33734b33d923a18390f6f78d314045acc99d7fb88e22fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b3972222159f0ea4173d68540a19bacbe5d90b7d07cda09e0195f25a4ab434a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:27:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Segurança Rodoviária
 - Regulamento de Sinalização do Trânsito
+- Segurança Rodoviária
 - Sinalização
 - Trânsito
 relationships:
@@ -74,6 +74,27 @@ relationships:
   target: pt:dre:125560578:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614137:por
+  label: "Alterados os arts. 34º e 46º do Regulamento, bem como os quadros XXIX e XXXV anexos ao DR 22-A/98, de 01-Out, na\
+    \ redacção do presente diploma, pelo DEC LEI.39/2010.26.04.2010.MEID, DR.IS [80] de 26.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2010-614137
+  date: '2010-04-26'
+- type: amended_by
+  target: pt:dre:279431:por
+  label: "Dada nova redacção ao art. 34º, e aditados os sinais H43, H44a, H44b, H44c e H45 aos quadros viii e xxix anexos,\
+    \ todos do Regulamento de Sinalização de Trânsito, aprovado pelo DR 22-A/98 de 01-Out, alterado pelo presente diploma,\
+    \ pelo DR.2/2011.03.03.2011.MAI, DR.IS [44] de 03.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/2-2011-279431
+  date: '2011-03-03'
+- type: amended_by
+  target: pt:dre:125560578:por
+  label: Alterados, a partir de 19.04.2020, os arts. 4.º, 12.º, 13.º, 14.º, 15.º, 18.º, 34.º, 35.º, 46.º, 47.º, 54.º, 60.º,
+    62.º, 66.º, 69.º, 71.º, 74.º, 75.º, 78.º e 93.º, bem como são alterados, a partir da referida data, os quadros anexos
+    VIII, XIV , XVI e XXXVI do Regulamento de Sinalização do Trânsito, aprovado pelo DR 22-A/98 de 01-out, com a redação dada
+    pelo presente diploma, pelo(a) Decreto Regulamentar n.º 6/2019 - Diário da República n.º 203/2019, Série I de 2019-10-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-2019-125560578
+  date: '2019-10-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
   label: null
@@ -86,16 +107,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/22-a/1998/10/01/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/22-a/1998/10/01/p/dre
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302974:por
+  label: null
+  source: null
 article_structure:
-  article_count: 27
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:27:57Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +165,9 @@ b) ...
 
 c) Zona regulada por sinalização temporária - troço de via pública no qual, devido à realização de obras ou à existência de obstáculos ocasionais, vigoram regras especiais de circulação impostas por sinalização temporária.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -152,7 +187,9 @@ d) Seja utilizado o painel adicional do modelo n.º 17.
 
 5 - Salvo o disposto no n.º 4 do artigo 14.º, os sinais de regulamentação são válidos até à intersecção de nível mais próxima.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -184,7 +221,9 @@ a) Dos sinais de direcção;
 
 b) Do sinal H1a, que pode ser complementado com painéis adicionais até ao limite de quatro.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -200,7 +239,9 @@ b) [Anterior alínea b) do n.º 3.]
 
 c) O sinal B3 - via com prioridade.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -210,7 +251,9 @@ c) O sinal B3 - via com prioridade.
 
 4 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -250,7 +293,9 @@ b) ...
 
 12 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 Os sinais de cedência de passagem, representados no quadro XXIII, em anexo, são os seguintes:
 
@@ -272,7 +317,9 @@ B8 - ...
 
 B9a, B9b, B9c e B9d - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -292,7 +339,9 @@ B9a, B9b, B9c e B9d - ...
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 Os sinais de informação representados no quadro XXIX, em anexo, indicam a existência de locais com interesse e dão outras indicações úteis e são os seguintes:
 
@@ -398,7 +447,9 @@ H41 - ...
 
 H42 - velocidade média: indicação de via sujeita a controlo de velocidade, através do cálculo da velocidade média.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - O sinal H20a pode ser complementado com o painel adicional do modelo n.º 10b.
 
@@ -406,13 +457,17 @@ H42 - velocidade média: indicação de via sujeita a controlo de velocidade, at
 
 3 - Os sinais de informação devem obedecer às características constantes do quadro VIII, em anexo.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 O sinal de confirmação representado no quadro XXXII, em anexo, é o seguinte:
 
 L1 - ...
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 Os painéis adicionais representados no quadro XXXV, em anexo, destinam-se a completar a indicação dada pelos sinais verticais, a restringir a sua aplicação a certas categorias de utentes da via pública, a limitar a sua validade a determinados períodos de tempo ou a indicar a extensão da via em que vigoram as prescrições e são os seguintes:
 
@@ -454,7 +509,9 @@ Modelos n.os 19a e 19b - painéis indicadores de início ou de fim de zona regul
 
 Modelo n.º 20 - painel indicador de estacionamento pago: destina-se a informar que o estacionamento está sujeito ao pagamento de uma taxa.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - Os painéis do modelo n.º 1 podem ser utilizados quando o local de perigo ou sujeito a outras precauções ou restrições especiais não possa ser imediatamente apercebido pelo condutor ou se situar a uma distância diversa da prevista no presente Regulamento para a colocação dos sinais.
 
@@ -476,7 +533,9 @@ c) ...
 
 7 - ...
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 A sinalização de mensagem variável pode ser utilizada em:
 
@@ -490,7 +549,9 @@ d) ...
 
 e) Certas vias ou troços, para permitir a gestão dos fluxos de trânsito ou interrupção de circulação em situações de alerta ou de perigo ou ainda para transmitir aos utentes a interdição ou a obrigação de determinados comportamentos.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 A sinalização turístico-cultural deve ser utilizada para assinalar, designadamente:
 
@@ -512,7 +573,9 @@ d) ...
 
 e) ...
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - As marcas longitudinais referidas no presente artigo são linhas apostas na faixa de rodagem, separando sentidos ou vias de trânsito e com os significados seguintes:
 
@@ -532,7 +595,9 @@ M7 e M7a - linhas contínua e descontínua: são constituídas por linhas largas
 
 2 - ...
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 As marcas transversais apostas no sentido da largura das faixas de rodagem e que podem ser completadas por símbolos ou inscrições são as seguintes:
 
@@ -544,7 +609,9 @@ M10 e M10a - ...
 
 M11 e M11a - passagem para peões: é constituída por barras longitudinais paralelas ao eixo da via, alternadas por intervalos regulares ou por duas linhas transversais contínuas e indica o local por onde os peões devem efectuar o atravessamento da faixa de rodagem; deve ser usada preferencialmente a marca M11, podendo, eventualmente, ser utilizada a marca M11a quando a passagem esteja regulada por sinalização luminosa.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - Para regular o estacionamento e a paragem podem ser utilizadas as seguintes marcas, de cor amarela:
 
@@ -560,7 +627,9 @@ M14a - paragem e estacionamento para cargas e descargas: área constituída e de
 
 3 - ...
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 As marcas rodoviárias podem ser complementadas por dispositivos retrorreflectores, designadamente:
 
@@ -568,7 +637,9 @@ a) ...
 
 b) Delineadores - dispositivos apoiados no solo ou em equipamentos de segurança, colocados no limite exterior da berma e no lado esquerdo da faixa de rodagem quando afecta a um único sentido de trânsito, que permitem identificar mais facilmente aqueles limites durante a noite ou em condições de visibilidade insuficiente.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - ...
 
@@ -592,7 +663,9 @@ c) ...
 
 5 - O sistema referido no n.º 1, quando destinado ao trânsito de velocípedes em pistas especiais para estes veículos, pode apresentar a figura de um velocípede.
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - O sinal constituído por uma luz circular amarela intermitente ou apresentando a forma de seta negra sobre fundo amarelo autoriza os condutores a passar, desde que o façam com especial prudência, tendo o mesmo significado que o sinal constituído por duas luzes amarelas acendendo alternadamente.
 
@@ -616,7 +689,9 @@ d) ...
 
 7 - O sinal constituído por uma luz circular amarela intermitente com uma silhueta de peão a negro adverte os condutores para a existência de uma passagem de peões cujo sinal se encontra verde em simultâneo com o sinal de passagem autorizada aos condutores.
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - (Anterior corpo do artigo 74.º)
 
@@ -626,7 +701,9 @@ b) [Anterior alínea b) do artigo 74.º]
 
 2 - O sistema referido no número anterior deve ser complementado com um avisador sonoro, destinado a deficientes visuais, em simultâneo com a luz verde.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - ...
 
@@ -648,7 +725,9 @@ b) [Anterior alínea b) do artigo 74.º]
 
 10 - Os sinais destinados a peões e a condutores de velocípedes devem estar a uma altura do solo compreendida entre 1,8 m e 2,2 m.
 
-###### Artigo 78.º — Aplicação
+Artigo 78.º
+
+Aplicação
 
 1 - ...
 
@@ -656,7 +735,9 @@ b) [Anterior alínea b) do artigo 74.º]
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - São proibidos a paragem e o estacionamento de veículos na zona regulada por sinalização temporária.
 
@@ -664,7 +745,9 @@ b) [Anterior alínea b) do artigo 74.º]
 
 3 - ...
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - A sinalização temporária deve ser completada com os seguintes dispositivos complementares, representados no quadro XL, em anexo:
 
@@ -716,33 +799,33 @@ ET13 - ...
 
 Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Henrique Nuno Pires Severiano Teixeira.
 
-**Promulgado em 22 de Março de 2002.**
+Promulgado em 22 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Março de 2002.**
+Referendado em 28 de Março de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO N.º 1 — QUADRO II
 
 Sinais de cedência de passagem
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)
 
 QUADRO III
 
 Sinais de proibição
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)
 
 QUADRO VIII
 
 Sinais de informação
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)
 
 QUADRO XIV
 
@@ -752,11 +835,11 @@ Painéis adicionais para a sinalização em geral
 
 [(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)
 
 Sinais de número e sentido das vias de trânsito e de afectação de vias
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)
 
 Tabela 6
 
@@ -764,21 +847,21 @@ Tabela 6
 
 Sinais complementares
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)
 
 Sinalização turístico-cultural
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)
 
 QUADRO XXXVI
 
 Quadro da altura da letra em função da velocidade
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)
 
 ## ANEXO N.º 2 — QUADRO XXIX
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)
 
 QUADRO XL
 
@@ -786,4 +869,4 @@ QUADRO XL
 
 ## ANEXO N.º 3 — QUADRO XXXV
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)](https://files.diariodarepublica.pt/1s/2002/08/191b00/58715885.pdf)

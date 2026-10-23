@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/20400/21502151.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/552-1977-286484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T05:25:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb9a1056165e9fa317f16245f83484df9fc2bda339445b7f0ddd6ab0a1ce975c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b06c414e923c74cc64f6a22bebf41851dfd34712329b2685a4668babbba800d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:25:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Fixação de Preços
+- Margens de Comercialização
+- Peixe Congelado
+- Pescado
+- Preço de Venda
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:515840:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:279810:por
+  label: Alterado o n.º 4.º pelo(a) Portaria n.º 742/77 - Diário da República n.º 283/1977, Série I de 1977-12-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/742-1977-279810
+  date: '1977-12-09'
+- type: amended_by
+  target: pt:dre:656388:por
+  label: Revistos os preços máximos de venda da pescada congelada semitransformada (sem cabeça e sem vísceras) constantes
+    do quadro anexo pelo(a) Portaria n.º 192-L/78 - Diário da República n.º 81/1978, 2º Suplemento, Série I de 1978-04-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/192-l-1978-656388
+  date: '1978-04-07'
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:278684:por
+  label: Rectificado o quadro anexo pelo(a) Declaração - Diário da República n.º 227/1977, Série I de 1977-09-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-278684
+  date: '1977-09-30'
+- type: repealed_by
+  target: pt:dre:515840:por
+  label: "Revogada pela PORT.172/79.11.04.1979.MAP, DR.IS [85-1º Supl] de 11.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/172-1979-515840
+  date: '1979-04-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:25:17Z'
   warnings: []
   errors: []
 ---
@@ -148,6 +188,6 @@ QUADRO ANEXO
 
 Tabela de preços do pescado congelado inteiro ou semitransformado não fraccionado nem embalado comercialmente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/09/20400/21502151.pdf))](https://files.diariodarepublica.pt/1s/1977/09/20400/21502151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/09/20400/21502151.pdf)
 
-**O Secretário de Estado das Pescas, Pedro Amadeu de Albuquerque Santos Coelho. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.**
+O Secretário de Estado das Pescas, Pedro Amadeu de Albuquerque Santos Coelho. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.

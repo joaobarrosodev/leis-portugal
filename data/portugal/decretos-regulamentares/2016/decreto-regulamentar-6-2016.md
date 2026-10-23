@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/24900/0512605130.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/6/2016/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2016-105643546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:34:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d0b176107c72f3107dc06701071686e773c8a48808e23290e1c5032378007c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea7ba78ee8d7d981baea816b93c011165c0faf621621597945cc7d3437e434fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:34:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Administração Central do Sistema de Saúde
+- Administração Regional de Saúde
+- Confidencialidade
+- Conselho Nacional de Procriação Medicamente Assistida
 - Criação de Serviços
 - Definição de Competências
-- Administração Regional de Saúde
-- Serviço Nacional de Saúde
-- Fiscalização
-- Administração Central do Sistema de Saúde
-- Procriação Medicamente Assistida
-- Conselho Nacional de Procriação Medicamente Assistida
-- Reprodução Humana
 - Doação de Órgãos
-- Confidencialidade
+- Fiscalização
+- Procriação Medicamente Assistida
+- Reprodução Humana
+- Serviço Nacional de Saúde
 - Setor Privado
 - Setor Público
 relationships:
@@ -108,16 +108,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/2007/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/2007/09/04/p/dre
+- type: cites
+  target: pt:dre:248231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74738646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75177806:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:34:08Z'
   warnings: []
   errors: []
 ---
@@ -338,12 +366,12 @@ O presente decreto regulamentar entra em vigor no dia seguinte à sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 17 de novembro de 2016. - António Luís Santos da Costa - Adalberto Campos Fernandes.
 
-**Promulgado em 15 de dezembro de 2016.**
+Promulgado em 15 de dezembro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de dezembro de 2016.**
+Referendado em 22 de dezembro de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

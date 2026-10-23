@@ -46,36 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/511-1980-470659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0906c6761a213e4a0364139c15d330d392e3357528374e22b69a3c28b5ea073b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b404377e26addb0820f7fa62d5c1df85be81a126c12aabd5696bb84833c0acdd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cooperação Económica
+- Gabinete para a Cooperação Económica Externa
+- Ministério das Finanças e do Plano
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:286090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:460873:por
+  label: Rectificada pela DECL.DD6904.16.09.1980.PCM, DR.IS [214] de 16.09.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-460873
+  date: '1980-09-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:26Z'
   warnings: []
   errors: []
 ---
@@ -96,4 +125,4 @@ Quadro de pessoal do Gabinete para a Cooperação Económica Externa do Ministé
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/18500/21512151.pdf))](https://files.diariodarepublica.pt/1s/1980/08/18500/21512151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/18500/21512151.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/23600/44744478.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/94-1989-548984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T07:44:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ea8f53a5648be54d2b24d143a847a4bd9826485250873f13d4eb6e3f4fd783c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5cc7383c4624f7dd1b9caa2f9ec0340cc59e6205f3a0be2c54e6dc70026b4be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:44:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Emprego
+- Formação Profissional
+- FSE
+- Programa Operacional
 relationships:
 - type: amended_by
   target: pt:dre:331414:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:192864:por
+  label: Rectificado pela DECL.DD3571.1989.11.30.PCM DR.IS [276]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-192864
+  date: '1989-11-30'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO EM RELA&#199;&#195;O AOS PEDIDOS APRESENTADOS APOS A ENTRADA EM VIGOR PELO DESPACHO NORMATIVO NUMERO 68/91,\
+    \ PUBLICADO NO DI&#193;RIO DA REP&#218;BLICA, I SERIE-B, NUMERO 70 DE 25/3/91. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:621562:por
+  label: "Revogado pelo DN.68/91.25.03.1991.MESS, DR.IS-B [70] de 25.03.1991, em relação aos pedidos apresentados após a sua\
+    \ entrada em vigor \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/68-1991-621562
+  date: '1991-02-25'
+- type: repealed_by
+  target: pt:dre:331414:por
+  label: "Revogado o artigo 18.º pelo DN.257/91.11.11.1991.MESS, DR.IS-B [259] de 11.11.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/257-1991-331414
+  date: '1991-11-11'
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:44:07Z'
   warnings: []
   errors: []
 ---

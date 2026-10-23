@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/28600/41484152.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1063-1980-459631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T06:09:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 136f8682dd92b8aed813028688ac71f21347b34f57b315f977d62440391e2d68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7828b8c703237641508bdfe3e45286e4733d5e7ce4682a20346c2a38d045a8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:09:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bolsa de Valores
+- Porto
+- Regulamento Interno
 relationships:
 - type: amended_by
   target: pt:dre:322323:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661339:por
+  label: "Alterado o art. 50º do presente Regulamento pela PORT.123/84.1984.02.24.MFP DR.IS [47]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/123-1984-661339
+  date: '1984-02-24'
+- type: cites
+  target: pt:dre:283675:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:322323:por
+  label: "Revogada pelo DEC LEI.142-A/91.10.04.1991.MF, DR.IS-A [83-Supl] de 10.04.199, a partir da data de sua entrada em\
+    \ vigor, e sem prejuízo dos regimes transitórios nele previstos.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-a-1991-322323
+  date: '1991-04-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:09:14Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +112,11 @@ REGULAMENTO INTERNO DA BOLSA DE VALORES DO PORTO
 
 ### CAPÍTULO I — Organização interna
 
-###### Artigo 1.º A Bolsa de Valores do Porto, a seguir designada apenas por Bolsa, reger-se-á pelo presente Regulamento Interno, para além das disposições gerais que lhe são aplicáveis.
+Artigo 1.º A Bolsa de Valores do Porto, a seguir designada apenas por Bolsa, reger-se-á pelo presente Regulamento Interno, para além das disposições gerais que lhe são aplicáveis.
 
-###### Art. 2.º A Bolsa goza de autonomia administrativa e financeira, competindo a sua administração à comissão directiva e à comissão de contas, de acordo com o que se estabelece no [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), de 14 de Janeiro, e neste Regulamento.
+Art. 2.º A Bolsa goza de autonomia administrativa e financeira, competindo a sua administração à comissão directiva e à comissão de contas, de acordo com o que se estabelece no [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), de 14 de Janeiro, e neste Regulamento.
 
-###### Art. 3.º Ao presidente da comissão directiva competirá, para além do que se determina na lei geral:
+Art. 3.º Ao presidente da comissão directiva competirá, para além do que se determina na lei geral:
 
 a) Representar a Bolsa, em juízo ou fora dele;
 
@@ -110,25 +128,25 @@ d) Despachar e assinar o expediente;
 
 e) Dar posse ao pessoal da Bolsa.
 
-###### Art. 4.º - 1 - As reuniões da comissão directiva serão ordinárias e extraordinárias.
+Art. 4.º - 1 - As reuniões da comissão directiva serão ordinárias e extraordinárias.
 
 2 - As reuniões da comissão só poderão efectuar-se desde que se encontrem presentes o presidente e, pelo menos, dois dos restantes membros.
 
 3 - Os membros efectivos, quando estiverem impossibilitados de comparecer a quaisquer reuniões, deverão providenciar no sentido de a elas assistirem os respectivos suplentes.
 
-###### Art. 5.º As reuniões ordinárias terão lugar, pelo menos, quinzenalmente, em dias a fixar pela comissão directiva.
+Art. 5.º As reuniões ordinárias terão lugar, pelo menos, quinzenalmente, em dias a fixar pela comissão directiva.
 
-###### Art. 6.º - 1 - As reuniões extraordinárias da comissão serão convocadas pelo presidente, de sua iniciativa ou a pedido de qualquer dos outros membros.
+Art. 6.º - 1 - As reuniões extraordinárias da comissão serão convocadas pelo presidente, de sua iniciativa ou a pedido de qualquer dos outros membros.
 
 2 - Nas reuniões a que se refere o número anterior só poderão apreciar-se os assuntos que expressamente constarem do aviso convocatório.
 
-###### Art. 7.º As deliberações serão tomadas por maioria de votos dos membros presentes, tendo o presidente, em caso de empate, voto de qualidade.
+Art. 7.º As deliberações serão tomadas por maioria de votos dos membros presentes, tendo o presidente, em caso de empate, voto de qualidade.
 
-###### Art. 8.º As deliberações da comissão directiva que, pela sua natureza, importe tornar públicas serão divulgadas através do boletim de cotação e por qualquer outra forma que se entenda conveniente.
+Art. 8.º As deliberações da comissão directiva que, pela sua natureza, importe tornar públicas serão divulgadas através do boletim de cotação e por qualquer outra forma que se entenda conveniente.
 
-###### Art. 9.º A comissão de contas reunirá sempre que o presidente julgue necessário, sendo aplicável às respectivas deliberações o disposto no artigo 7.º
+Art. 9.º A comissão de contas reunirá sempre que o presidente julgue necessário, sendo aplicável às respectivas deliberações o disposto no artigo 7.º
 
-###### Art. 10.º - 1 - A Bolsa terá os seguintes serviços:
+Art. 10.º - 1 - A Bolsa terá os seguintes serviços:
 
 a) Gabinete de Estudos e Relações Públicas;
 
@@ -142,7 +160,7 @@ c) Contabilidade e Tesouraria.
 
 2 - Por despacho do Ministro das Finanças e do Plano, ou por iniciativa da comissão directiva, poderão ser constituídos e funcionar junto da Bolsa grupos de trabalho com fins específicos sobre matérias relacionadas com o mercado financeiro.
 
-###### Art. 11.º - 1 - O Gabinete de Estudos e Relações Públicas, imediatamente subordinado à comissão directiva, será chefiado por um director.
+Art. 11.º - 1 - O Gabinete de Estudos e Relações Públicas, imediatamente subordinado à comissão directiva, será chefiado por um director.
 
 2 - Compete, especialmente, ao Gabinete:
 
@@ -162,7 +180,7 @@ g) Ter a seu cargo a biblioteca da Bolsa, assegurando a conservação, inventari
 
 h) Manter um serviço de informações ao público.
 
-###### Art. 12.º - 1 - A Secretaria dependerá imediatamente do secretário da Bolsa e comprenderá duas secções.
+Art. 12.º - 1 - A Secretaria dependerá imediatamente do secretário da Bolsa e comprenderá duas secções.
 
 2 - À 1.ª Secção, denominada de Operações de Bolsa, competirá, especialmente:
 
@@ -202,7 +220,7 @@ i) Adquirir e guardar o material;
 
 j) Assegurar o serviço de arquivo dos processos e de expediente geral.
 
-###### Art. 13.º - 1 - O Serviço de Contabilidade e Tesouraria dependerá directamente da comissão de contas, dela constituindo o necessário apoio administrativo, e dividir-se-á nas Secções de Contabilidade e de Tesouraria.
+Art. 13.º - 1 - O Serviço de Contabilidade e Tesouraria dependerá directamente da comissão de contas, dela constituindo o necessário apoio administrativo, e dividir-se-á nas Secções de Contabilidade e de Tesouraria.
 
 2 - Compete à Secção de Contabilidade:
 
@@ -232,35 +250,35 @@ d) Assinar, juntamente com o presidente da comissão directiva ou com quem o sub
 
 e) Zelar pelo perfeito funcionamento da tesouraria, mantendo sempre actualizada a respectiva escrituração.
 
-###### Art. 14.º - 1 - Para garantia das suas responsabilidades, o tesoureiro da Bolsa deverá prestar caução a favor da comissão directiva.
+Art. 14.º - 1 - Para garantia das suas responsabilidades, o tesoureiro da Bolsa deverá prestar caução a favor da comissão directiva.
 
 2 - A caução será de 50000$00 e poderá ser prestada por depósito em numerário ou por seguro de caução.
 
-###### Art. 15.º - 1 - Todas as receitas da Bolsa serão diariamente depositadas na Caixa Geral de Depósitos.
+Art. 15.º - 1 - Todas as receitas da Bolsa serão diariamente depositadas na Caixa Geral de Depósitos.
 
 2 - Os pagamentos deverão ser efectuados com cheques nominativos, assinados pelo presidente da comissão directiva, ou por quem o substituir, e pelo tesoureiro.
 
-###### Art. 16.º Os pagamentos na Tesouraria da Bolsa poderão ser efectuados em numerário e por cheque nominativo ou vale de correio.
+Art. 16.º Os pagamentos na Tesouraria da Bolsa poderão ser efectuados em numerário e por cheque nominativo ou vale de correio.
 
-###### Art. 17.º O pagamento, pelos corretores, da taxa a que se refere o artigo 87.º do [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675) deverá ser efectuado até ao dia 10 do mês seguinte àquele em que se realiza a operação.
+Art. 17.º O pagamento, pelos corretores, da taxa a que se refere o artigo 87.º do [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675) deverá ser efectuado até ao dia 10 do mês seguinte àquele em que se realiza a operação.
 
-###### Art. 18.º A Secretaria e a Tesouraria da Bolsa estarão abertas de segunda-feira a sexta-feira, dentro de horários a fixar pela comissão directiva.
+Art. 18.º A Secretaria e a Tesouraria da Bolsa estarão abertas de segunda-feira a sexta-feira, dentro de horários a fixar pela comissão directiva.
 
 ### CAPÍTULO II — Operações de bolsa
 
 #### SECÇÃO I — Ordens de bolsa
 
-###### Art. 19.º As ordens de bolsa podem ser dadas por escrito ou verbalmente, devendo umas e outras conter todos os elementos exigidos pela lei ou por este Regulamento.
+Art. 19.º As ordens de bolsa podem ser dadas por escrito ou verbalmente, devendo umas e outras conter todos os elementos exigidos pela lei ou por este Regulamento.
 
-###### Art. 20.º As ordens escritas serão dadas em impressos de modelo ou modelos normalizados, a fixar pela comissão directiva.
+Art. 20.º As ordens escritas serão dadas em impressos de modelo ou modelos normalizados, a fixar pela comissão directiva.
 
-###### Art. 21.º As ordens verbais deverão ser imediatamente reduzidas a escrito em impressos aprovados nos termos do artigo anterior e que serão integralmente preenchidos e assinados por quem as receber.
+Art. 21.º As ordens verbais deverão ser imediatamente reduzidas a escrito em impressos aprovados nos termos do artigo anterior e que serão integralmente preenchidos e assinados por quem as receber.
 
-###### Art. 22.º A comissão directiva poderá exigir a remessa, até ao início da primeira sessão para que forem válidas, dos duplicados das ordens escritas, ou reduzidas a escrito nos termos do artigo anterior, omitindo, todavia, a identificação dos comitentes.
+Art. 22.º A comissão directiva poderá exigir a remessa, até ao início da primeira sessão para que forem válidas, dos duplicados das ordens escritas, ou reduzidas a escrito nos termos do artigo anterior, omitindo, todavia, a identificação dos comitentes.
 
-###### Art. 23.º As ordens de bolsa deverão especificar os títulos a que respeitam sempre que os valores neles representados excedam os lotes mínimos.
+Art. 23.º As ordens de bolsa deverão especificar os títulos a que respeitam sempre que os valores neles representados excedam os lotes mínimos.
 
-###### Art. 24.º - 1 - Quanto à cotação, as ordens de bolsa poderão ser:
+Art. 24.º - 1 - Quanto à cotação, as ordens de bolsa poderão ser:
 
 a) Com limite de preço, quando estipulem o preço máximo a que o comprador está disposto a comprar, ou o preço mínimo a que o vendedor aceita vender;
 
@@ -270,9 +288,9 @@ c) Ao melhor, sem forçar (s. f.), quando, no caso da alínea anterior, a ordem 
 
 2 - No cumprimento das ordens a que se refere a alínea c) do número anterior, o corretor não poderá efectuar a compra ou venda de valores que correspondam a menos de três vezes o lote mínimo.
 
-###### Art. 25.º As ordens respeitantes a quantidades inferiores ao lote mínimo serão sempre ao melhor.
+Art. 25.º As ordens respeitantes a quantidades inferiores ao lote mínimo serão sempre ao melhor.
 
-###### Art. 26.º - 1 - Quanto ao seu prazo de validade, as ordens de bolsa serão:
+Art. 26.º - 1 - Quanto ao seu prazo de validade, as ordens de bolsa serão:
 
 a) Por prazo fixado, que poderá limitar-se à primeira bolsa subsequente;
 
@@ -280,13 +298,13 @@ b) Sem limite de data, entendendo-se, nesse caso, que permanecerão válidas at�
 
 2 - Não é obrigatória a aceitação de ordens para execução depois da última sessão do mês em que forem recebidas.
 
-###### Art. 27.º - 1 - As ordens de bolsa para uma determinada sessão deverão ser entregues aos corretores e às instituições de crédito e outras entidades que as possam receber até às 12 horas do dia anterior.
+Art. 27.º - 1 - As ordens de bolsa para uma determinada sessão deverão ser entregues aos corretores e às instituições de crédito e outras entidades que as possam receber até às 12 horas do dia anterior.
 
 2 - A comissão directiva fixará, de harmonia com o horário das sessões e a sua frequência, a hora limite de recebimento pelos corretores das ordens dadas pelas instituições de crédito e demais entidades referidas no número anterior.
 
-###### Art. 28.º As ordens de bolsa dadas pela comissão directiva serão sempre ao melhor e válidas até à sua integral execução, gozando de prioridade sobre quaisquer outras.
+Art. 28.º As ordens de bolsa dadas pela comissão directiva serão sempre ao melhor e válidas até à sua integral execução, gozando de prioridade sobre quaisquer outras.
 
-###### Art. 29.º - 1 - Faltando o corretor ao cumprimento de uma ordem de bolsa, o comitente deverá apresentar a sua reclamação à comissão directiva até três dias depois da data em que tomar conhecimento do facto, sob pena de não o poder invocar posteriormente para qualquer efeito.
+Art. 29.º - 1 - Faltando o corretor ao cumprimento de uma ordem de bolsa, o comitente deverá apresentar a sua reclamação à comissão directiva até três dias depois da data em que tomar conhecimento do facto, sob pena de não o poder invocar posteriormente para qualquer efeito.
 
 2 - O interessado deverá juntar à reclamação, ou indicar nela, a prova a produzir para demonstração da sua procedência e especificar, de entre os referidos no n.º 5, o procedimento que deva ser adoptado.
 
@@ -308,9 +326,9 @@ c) Ordenar a anulação da ordem em causa.
 
 #### SECÇÃO II — Cotações
 
-###### Art. 30.º A cotação deverá fixar-se de modo que seja transaccionada a maior quantidade possível de valores.
+Art. 30.º A cotação deverá fixar-se de modo que seja transaccionada a maior quantidade possível de valores.
 
-###### Art. 31.º Para se fixar a cotação de uma determinada espécie de valores, obedecer-se-á às seguintes regras:
+Art. 31.º Para se fixar a cotação de uma determinada espécie de valores, obedecer-se-á às seguintes regras:
 
 1.ª A cotação deverá ser obtida a partir da última efectuada;
 
@@ -320,17 +338,17 @@ c) Ordenar a anulação da ordem em causa.
 
 4.ª Não existindo esse equilíbrio, e conforme se verifique maior volume de propostas de compra ou de venda, ensaiar-se-á a cotação com base no escalão imediatamente superior ou inferior, e assim sucessivamente, até se encontrar a que respeite a regra fixada no artigo precedente, que será a cotação definitiva.
 
-###### Art. 32.º Se a formação da cotação, nos termos dos artigos anteriores, conduzir à variação máxima admitida, a cotação só se fixará se as operações assim efectuadas representarem uma percentagem das ordens existentes não inferior à que, para o efeito, se encontrar determinada por despacho do Ministro das Finanças e do Plano.
+Art. 32.º Se a formação da cotação, nos termos dos artigos anteriores, conduzir à variação máxima admitida, a cotação só se fixará se as operações assim efectuadas representarem uma percentagem das ordens existentes não inferior à que, para o efeito, se encontrar determinada por despacho do Ministro das Finanças e do Plano.
 
-###### Art. 33.º Quando, em virtude do que se estabelece nos artigos anteriores, não poderem cumprir-se todas as ordens existentes para um determinado preço, observar-se-ão as seguintes regras:
+Art. 33.º Quando, em virtude do que se estabelece nos artigos anteriores, não poderem cumprir-se todas as ordens existentes para um determinado preço, observar-se-ão as seguintes regras:
 
 a) A execução das ordens ao melhor terá prioridade sobre a das ordens a preço determinado;
 
 b) O rateio será feito, atendendo-se apenas aos lotes mínimos e seus múltiplos, na proporção das ordens existentes.
 
-###### Art. 34.º Não são admissíveis compensações de ordens de bolsa, por parte dos corretores, fora das sessões, nestas se efectuando todas as que devam ter lugar.
+Art. 34.º Não são admissíveis compensações de ordens de bolsa, por parte dos corretores, fora das sessões, nestas se efectuando todas as que devam ter lugar.
 
-###### Art. 35.º - 1 - Não poderão fixar-se cotações com base na negociação de lotes inferiores aos mínimos que se encontrem estabelecidos.
+Art. 35.º - 1 - Não poderão fixar-se cotações com base na negociação de lotes inferiores aos mínimos que se encontrem estabelecidos.
 
 2 - Quando numa sessão de bolsa e em relação a determinado valor se realizem unicamente operações abrangidas pelo número precedente, indicar-se-á no boletim de cotações a quantidade transaccionada, podendo a comissão directiva mandar incluir no referido boletim, pela forma que considerar mais conveniente, a indicação do preço efectuado, desde que essa indicação seja feita mantendo-se uma perfeita distinção com os demais preços realizados.
 
@@ -338,7 +356,7 @@ b) O rateio será feito, atendendo-se apenas aos lotes mínimos e seus múltiplo
 
 #### SECÇÃO III — Comunicação das operações
 
-###### Art. 36.º - 1 - Os avisos previstos no artigo 77.º do [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), destinados à comunicação da realização das operações, devem ser entregues pelos corretores nas instituições de crédito e outras entidades autorizadas a negociar em títulos, em mão e no próprio dia em que as operações tenham sido efectuadas, podendo a comissão directiva fixar uma hora limite para essa entrega.
+Art. 36.º - 1 - Os avisos previstos no artigo 77.º do [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), destinados à comunicação da realização das operações, devem ser entregues pelos corretores nas instituições de crédito e outras entidades autorizadas a negociar em títulos, em mão e no próprio dia em que as operações tenham sido efectuadas, podendo a comissão directiva fixar uma hora limite para essa entrega.
 
 2 - Se não houver qualquer reclamação no prazo de duas horas a contar da recepção dos avisos, considerar-se-á que os mesmos respeitam a operações efectivamente ordenadas.
 
@@ -346,31 +364,31 @@ b) O rateio será feito, atendendo-se apenas aos lotes mínimos e seus múltiplo
 
 4 - Quando, nos termos do n.º 3 do artigo 77.º do [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), o aviso for substituído pelo duplicado da nota de compra ou venda, deverá cobrar o recibo da entrega, com indicação da hora da mesma.
 
-###### Art. 37.º - 1 - Os avisos destinados a entidades não abrangidas pelo n.º 1 do artigo anterior deverão ser remetidos no próprio dia em que as operações se efectuarem ou, o mais tardar, no dia seguinte.
+Art. 37.º - 1 - Os avisos destinados a entidades não abrangidas pelo n.º 1 do artigo anterior deverão ser remetidos no próprio dia em que as operações se efectuarem ou, o mais tardar, no dia seguinte.
 
 2 - As reclamações sobre a correcção dos avisos poderão ter lugar até à primeira bolsa subsequente à data da sua recepção.
 
-###### Art. 38.º - 1 - As transacções efectuadas pelos corretores nos respectivos escritórios e que não resultem do cumprimento de ordens de bolsa deverão ser comunicadas à comissão directiva no dia seguinte àquele em que se realizarão, utilizando, para o efeito, impressos de modelo a aprovar pela comissão.
+Art. 38.º - 1 - As transacções efectuadas pelos corretores nos respectivos escritórios e que não resultem do cumprimento de ordens de bolsa deverão ser comunicadas à comissão directiva no dia seguinte àquele em que se realizarão, utilizando, para o efeito, impressos de modelo a aprovar pela comissão.
 
 2 - Sobre as operações referidas no número anterior incidirão os mesmos encargos que correspondam a operações efectuadas directamente na Bolsa.
 
 #### SECÇÃO IV — Liquidações
 
-###### Art. 39.º - 1 - A liquidação das operações far-se-á diariamente na Bolsa, às horas e nas condições a fixar pela comissão directiva.
+Art. 39.º - 1 - A liquidação das operações far-se-á diariamente na Bolsa, às horas e nas condições a fixar pela comissão directiva.
 
 2 - Nas normas que vierem a estabelecer-se para dar execução do disposto no número precedente regular-se-á quer a forma de liquidação dos valores objecto de transacções, quer da liquidação financeira das operações.
 
-###### Art. 40.º - 1 - Quando a liquidação dos valores não for feita na totalidade, por falta imputável a qualquer dos devedores, proceder-se-á obrigatória e imediatamente à recompra dos que faltem, por intermédio do competente serviço da Bolsa.
+Art. 40.º - 1 - Quando a liquidação dos valores não for feita na totalidade, por falta imputável a qualquer dos devedores, proceder-se-á obrigatória e imediatamente à recompra dos que faltem, por intermédio do competente serviço da Bolsa.
 
 2 - Para execução do disposto no número precedente, o corretor que não entregue a totalidade dos títulos indicará qual a entidade responsável por essa falta, fazendo-se a recompra à custa da mesma.
 
-###### Art. 41.º O sistema de compensação das liquidações financeiras, em que obrigatoriamente participarão todos os corretores, processar-se-á através da Tesouraria da Bolsa.
+Art. 41.º O sistema de compensação das liquidações financeiras, em que obrigatoriamente participarão todos os corretores, processar-se-á através da Tesouraria da Bolsa.
 
-###### Art. 42.º - 1 - Havendo lugar a recompras em virtude de faltas ocorridas na liquidação dos títulos, a comissão directiva exigirá do responsável o pagamento da diferença, se existir, devendo esse pagamento efectuar-se no prazo de três dias, a contar da data em que for pedido.
+Art. 42.º - 1 - Havendo lugar a recompras em virtude de faltas ocorridas na liquidação dos títulos, a comissão directiva exigirá do responsável o pagamento da diferença, se existir, devendo esse pagamento efectuar-se no prazo de três dias, a contar da data em que for pedido.
 
 2 - Se o preço da recompra for inferior ao da transacção inicial, a diferença constituirá receita da Bolsa.
 
-###### Art. 43.º - 1 - O portador de títulos irregulares que lhe tenham sido entregues por virtude de operações de bolsa, se pretender a sua substituição nos termos do artigo 53.º do [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), participará o facto à comissão directiva, identificando o corretor responsável e os títulos transaccionados, indicando as irregularidades destes últimos, a data da operação e a data em que foi feita a comunicação a que se refere o n.º 3 do mencionado preceito legal, e entregando na Secretaria da Bolsa os títulos em causa.
+Art. 43.º - 1 - O portador de títulos irregulares que lhe tenham sido entregues por virtude de operações de bolsa, se pretender a sua substituição nos termos do artigo 53.º do [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), participará o facto à comissão directiva, identificando o corretor responsável e os títulos transaccionados, indicando as irregularidades destes últimos, a data da operação e a data em que foi feita a comunicação a que se refere o n.º 3 do mencionado preceito legal, e entregando na Secretaria da Bolsa os títulos em causa.
 
 2 - O corretor será notificado para, em três dias, se pronunciar sobre o pedido, entendendo-se, se não responder nesse prazo, que nada tem a opor à substituição.
 
@@ -394,46 +412,46 @@ c) A operação não haja tido lugar.
 
 ### CAPÍTULO III — Disposições diversas
 
-###### Art. 44.º - 1 - Quando nos termos da lei geral ou deste Regulamento, seja da competência da comissão directiva a fixação de quaisquer normas, as mesmas serão comunicadas aos corretores mediante circular, expedida por carta registada com aviso de recepção.
+Art. 44.º - 1 - Quando nos termos da lei geral ou deste Regulamento, seja da competência da comissão directiva a fixação de quaisquer normas, as mesmas serão comunicadas aos corretores mediante circular, expedida por carta registada com aviso de recepção.
 
 2 - Se as normas forem também obrigatórias para outras entidades, a estas deverá fazer-se idêntica comunicação.
 
 3 - A comunicação prevista nos números anteriores não prejudicará as publicações a que haja lugar nos termos do artigo 8.º
 
-###### Art. 45.º - 1 - As responsabilidades do corretor para com a Bolsa, emergentes do disposto na lei geral e do presente Regulamento, serão satisfeitas através da caução prevista no artigo 101.º do [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675) se, depois de notificado o corretor para proceder ao pagamento das importâncias correspondentes, o não efectuar nos prazos estabelecidos.
+Art. 45.º - 1 - As responsabilidades do corretor para com a Bolsa, emergentes do disposto na lei geral e do presente Regulamento, serão satisfeitas através da caução prevista no artigo 101.º do [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675) se, depois de notificado o corretor para proceder ao pagamento das importâncias correspondentes, o não efectuar nos prazos estabelecidos.
 
 2 - Para a execução das responsabilidades mencionadas no número anterior, a comissão directiva solicitará ao Banco de Portugal que, através da caução do corretor em falta, proceda à entrega das quantias em dívida.
 
-###### Art. 46.º - 1 - A comissão directiva instaurará contra os corretores os processos respeitantes a infracções de natureza disciplinar de que tiver conhecimento.
+Art. 46.º - 1 - A comissão directiva instaurará contra os corretores os processos respeitantes a infracções de natureza disciplinar de que tiver conhecimento.
 
 2 - As transgressões cometidas, quer pelos corretores, quer pelas instituições de crédito, quer por outras entidades, serão participadas ao Banco de Portugal, com vista à instauração dos competentes processos.
 
 3 - Sendo cometida qualquer irregularidade por um corretor ou instituição de crédito, dela dará a comissão directiva conhecimento ao organismo profissional com competência disciplinar sobre a entidade em falta.
 
-###### Art. 47.º - 1 - O preço do boletim de cotações será fixado pela comissão directiva, admitindo-se assinaturas a preço unitário mais baixo, que a mesma comissão estabelecerá.
+Art. 47.º - 1 - O preço do boletim de cotações será fixado pela comissão directiva, admitindo-se assinaturas a preço unitário mais baixo, que a mesma comissão estabelecerá.
 
 2 - O preço de publicações que contenham relatórios ou estudos respeitantes aos mercados de valores mobiliários fixar-se-á na portaria em que se estabeleçam, de conformidade com o disposto no artigo 125.º do [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), as respectivas condições.
 
 3 - Será livremente fixado pela comissão directiva o preço de quaisquer outras publicações que entenda dever fazer.
 
-###### Art. 48.º Pelas publicações efectuadas nos boletins de cotações será cobrada uma taxa por linha, a fixar pela comissão directiva.
+Art. 48.º Pelas publicações efectuadas nos boletins de cotações será cobrada uma taxa por linha, a fixar pela comissão directiva.
 
-###### Art. 49.º - 1 - Publicar-se-á no boletim de cotações a relação dos valores perdidos ou extraviados ou que tenham sido objecto de furto, roubo, burla, abuso de confiança ou falsificação.
+Art. 49.º - 1 - Publicar-se-á no boletim de cotações a relação dos valores perdidos ou extraviados ou que tenham sido objecto de furto, roubo, burla, abuso de confiança ou falsificação.
 
 2 - A publicação referida no número anterior poderá ser solicitada à comissão directiva pelos corretores, instituições de crédito e demais entidades autorizadas a negociar em títulos, pelas sociedades emitentes e pelas autoridades policiais ou judiciais.
 
 3 - As publicações a que se refere este artigo serão isentas de qualquer taxa.
 
-###### Art. 50.º - 1 - Por qualquer certidão passada pelos serviços da Bolsa será cobrado o emolumento de 50$00.
+Art. 50.º - 1 - Por qualquer certidão passada pelos serviços da Bolsa será cobrado o emolumento de 50$00.
 
 2 - Quando a certidão tiver por objecto o valor de mais do que uma espécie de títulos, o emolumento será cobrado em relação a cada uma das espécies.
 
-###### Art. 51.º Pelo aluguer de cada lugar reservado nas instalações da Bolsa será cobrada a taxa anual de 1000$00.
+Art. 51.º Pelo aluguer de cada lugar reservado nas instalações da Bolsa será cobrada a taxa anual de 1000$00.
 
-###### Art. 52.º Não haverá sessões de bolsa nos dias feriados, na segunda-feira e terça-feira de Carnaval, na quinta-feira e sexta-feira anteriores ao domingo de Páscoa e nos dias 24 e 26 de Dezembro.
+Art. 52.º Não haverá sessões de bolsa nos dias feriados, na segunda-feira e terça-feira de Carnaval, na quinta-feira e sexta-feira anteriores ao domingo de Páscoa e nos dias 24 e 26 de Dezembro.
 
-###### Art. 53.º A comissão directiva proibirá a entrada na Bolsa aos indivíduos que, pelo seu comportamento, possam perturbar a ordem ou prejudicar a normal realização das transacções.
+Art. 53.º A comissão directiva proibirá a entrada na Bolsa aos indivíduos que, pelo seu comportamento, possam perturbar a ordem ou prejudicar a normal realização das transacções.
 
-###### Art. 54.º O presente Regulamento entrará em vigor no dia 1 de Janeiro de 1981.
+Art. 54.º O presente Regulamento entrará em vigor no dia 1 de Janeiro de 1981.
 
 Ministério das Finanças e do Plano, 24 de Novembro de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.

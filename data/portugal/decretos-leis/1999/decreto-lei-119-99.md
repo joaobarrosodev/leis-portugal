@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/087a00/19972009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/119/1999/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1999-544611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:05:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4bfc47785dfbbf786845259fd5c67ad6c817f532fd676bf4abf22a94ac9dabb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8687e91fa938092021360fba99334bd92bf9e725f0f1573a38bd1176d7737c0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:05:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,20 @@ reuse:
 subjects:
 - Beneficiário
 - Centro de Emprego
-- Multa
 - Comparticipações da Segurança Social
 - Contra-ordenação
+- Contrato de Trabalho
 - Desempregado
+- Desemprego
+- Emprego
 - Instituições de Segurança Social
+- Multa
 - Pensão de Velhice
 - Política Social
 - Prazo de Garantia
 - Prescrição
 - Prestações de Desemprego
-- Desemprego
-- Emprego
 - Proteção no Desemprego
-- Contrato de Trabalho
 - Regime Geral da Segurança Social
 - Remuneração
 - Sanção
@@ -93,6 +93,16 @@ relationships:
   target: pt:dre:546202:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692254:por
+  label: "Alterado pelo DEC LEI.186-B/99.1999.05.31.MTS, DR.IS-A [126]Supl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-b-1999-692254
+  date: '1999-05-31'
+- type: amended_by
+  target: pt:dre:660486:por
+  label: "Alterado o art. 44º pelo DEC LEI.326/2000.2000.12.22.MTS, DR.IS-A [294]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/326-2000-660486
+  date: '2000-12-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/418/1993/12/24/p/dre
   label: null
@@ -109,16 +119,59 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/9/1999/01/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/9/1999/01/08/p/dre
+- type: cites
+  target: pt:dre:228837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656820:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:406333:por
+  label: "Rectificado pela DECL-RECT.10-AT/99.1999.06.30.PCM, DR.IS-A [150]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-at-1999-406333
+  date: '1999-06-30'
+- type: repealed_by
+  target: pt:dre:546202:por
+  label: "Revogado pelo DEC LEI.220/2006.03.11.2006.MTSSO, DR.IS [212] de 03.11.2006, com a respectiva entrada em vigor nos\
+    \ termos do art. 88.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/220-2006-546202
+  date: '2006-11-03'
 article_structure:
   article_count: 80
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:05:44Z'
   warnings: []
   errors: []
 ---
@@ -879,12 +932,12 @@ O presente diploma entra em vigor no 1.º dia do 3.º mês seguinte ao da sua pu
 
 Visto e aprovado em Conselho de Ministros de 4 de Março de 1999. - António Manuel de Oliveira Guterres - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 30 de Março de 1999.**
+Promulgado em 30 de Março de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Março de 1999.**
+Referendado em 31 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

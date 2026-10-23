@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/09/17900/0478804789.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/73/2018/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2018-116417932
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fbfe8a9f401837da590aa69a844478c8ac52aed036995298ec46e4e160258d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bb0be55ca6ae461b4a15ad9867a64878c8c5f591c2956f72bed4db319d2e572
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
+- Administração Pública
+- Caixa Geral de Aposentações
 - Cálculo de Pensões
+- Carreira Profissional
 - Contribuições da Segurança Social
 - Estatuto da Aposentação
-- Administração Pública
-- Carreira Profissional
-- Caixa Geral de Aposentações
 - Idade de Reforma
 - Idade Mínima
-- Reforma Antecipada
 - Pensão de Aposentação
 - Pensão de Velhice
 - Pensões
 - Proteção Social
+- Reforma Antecipada
 - Regime Geral da Segurança Social
 - Regime Jurídico
+- Segurança Social
 - Setor Privado
 - Setor Público
-- Segurança Social
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:158316443:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117503935:por
+  label: Alterado o art. 35.º do Dec Lei 187/2007, de 10-mai, na redação do presente diploma pelo(a) Decreto-Lei n.º 119/2018
+    - Diário da República n.º 249/2018, Série I de 2018-12-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2018-117503935
+  date: '2018-12-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2016/03/08/p/dre
   label: null
@@ -123,16 +129,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:108269606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66147743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73803671:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:03Z'
   warnings: []
   errors: []
 ---
@@ -215,12 +257,14 @@ O presente decreto-lei produz efeitos a partir de 1 de outubro de 2018.
 
 Visto e aprovado em Conselho de Ministros de 23 de agosto de 2018. - António Luís Santos da Costa - Ricardo Emanuel Martins Mourinho Félix - Cláudia Sofia de Almeida Gaspar Joaquim.
 
-**Promulgado em 29 de agosto de 2018.**
+Promulgado em 29 de agosto de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de agosto de 2018.**
+Referendado em 30 de agosto de 2018.
 
 Pelo Primeiro-Ministro, Maria Manuel de Lemos Leitão Marques, Ministra da Presidência e da Modernização Administrativa.
+
+111644636

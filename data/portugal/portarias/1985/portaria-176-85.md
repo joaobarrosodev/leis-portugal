@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/07700/09000900.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/176-1985-325099
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T08:20:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 602c127dd0e307cfc466e312e997f9c2e81626dd044797c028a355c86c9b3613
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a95d5d5ab092fd67b27fe999b66dd282fc2126b9ac84e85377c197f25d3af6dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:20:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bebida Alcoólica
+- Estabelecimento de Bebidas
+- Estabelecimento de Restauração
+- Preço
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:180665:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654955:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:180665:por
+  label: "Revogada pela PORT.616/85.19.08.1985.MA, DR.IS [189] de 19.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/616-1985-180665
+  date: '1985-08-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:20:14Z'
   warnings: []
   errors: []
 ---
@@ -103,6 +129,6 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Comér
 
 Secretarias de Estado do Comércio e Indústria Agrícolas e do Comércio Interno.
 
-**Assinada em 12 de Março de 1985.**
+Assinada em 12 de Março de 1985.
 
-**O Secretário de Estado do Comércio e Indústria Agrícolas, Carlos Alberto Antunes Filipe. - O Secretário de Estado do Comércio Interno, Agostinho Alberto Bento da Silva Abade.**
+O Secretário de Estado do Comércio e Indústria Agrícolas, Carlos Alberto Antunes Filipe. - O Secretário de Estado do Comércio Interno, Agostinho Alberto Bento da Silva Abade.

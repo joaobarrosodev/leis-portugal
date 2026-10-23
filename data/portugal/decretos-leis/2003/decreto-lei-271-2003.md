@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/271/2003/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2003-466834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:40:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6683020dab84272f82706c8e6f4f37f77484212cb839b4bd32e27f286869e140
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 308a155dfd4a6f957ac865aa83214a8e08d98e1194bd97433e74947e31c06241
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:40:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pobreza
 - Aquisição de Imóveis
 - ÁREA Metropolitana
-- Financiamento
+- Arrendamento Urbano para Habitação
+- Autarquia Local
 - Comparticipação do Estado
 - Cooperativa de Habitação
 - Crédito à Habitação
-- Realojamento
-- Renovação Urbana
 - Empresa Pública Municipal
 - Equipamento Social
-- Lisboa
-- IPSS
+- Financiamento
 - Habitação Social
 - Instituto de Gestão e Alienação do Património Habitacional do Estado
 - Instituto Nacional de Habitação
-- Transmissão da Propriedade
+- IPSS
+- Lisboa
 - PER
-- Renda Apoiada
-- Arrendamento Urbano para Habitação
-- Autarquia Local
+- Pobreza
 - Porto
+- Realojamento
+- Renda Apoiada
+- Renovação Urbana
+- Transmissão da Propriedade
 relationships:
 - type: amended_by
   target: pt:dre:281201:por
@@ -133,16 +133,94 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/34/1996/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/34/1996/08/29/p/dre
+- type: cites
+  target: pt:dre:235308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634925:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:281201:por
+  label: "Revogado o nº 3 do art. 4º pelo DEC LEI.135/2004.03.06.2004.MOPTH, DR.IS-A [130] de 03.06.2004, nos termos do disposto\
+    \ no art. 38º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-2004-281201
+  date: '2004-06-03'
 article_structure:
-  article_count: 49
+  article_count: 35
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:40:21Z'
   warnings: []
   errors: []
 ---
@@ -203,7 +281,7 @@ e) O preço de aquisição de prédios ou fracções autónomas de prédios devo
 
 6 - Para efeito do disposto no presente diploma, considera-se equipamento social as áreas construídas do empreendimento, integradas nos edifícios habitacionais ou constituindo edifício autónomo, destinadas a fins culturais, assistenciais, desportivos e recreativos e de utilização colectiva dos moradores.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - Os financiamentos referidos no n.º 1 do artigo anterior são concedidos em partes iguais de comparticipação e de empréstimo e estão sujeitos aos seguintes limites máximos:
 
@@ -217,7 +295,7 @@ d) No caso de aquisição de prédios ou fracções autónomas de prédios devol
 
 2 - Para efeito do disposto nas alíneas c) e d) do número anterior, quando das obras de recuperação do fogo resulte tipologia diferente da inicial, é a tipologia final que deve ser considerada para efeito de fixação do preço máximo desse fogo.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - Têm acesso a financiamento para qualquer dos fins previstos no n.º 1 do artigo 6.º os municípios aderentes e respectivas empresas públicas municipais.
 
@@ -233,35 +311,35 @@ c) Os agregados familiares registados no levantamento efectuado pelos município
 
 4 - No caso da alínea c) do n.º 2, designado por PER Famílias, os agregados familiares podem ainda beneficiar de uma comparticipação a fundo perdido, a conceder pelo município da respectiva área de recenseamento ou pelo proprietário do terreno de localização das barracas desocupadas por aqueles agregados, destinada a financiar a parte do preço de aquisição do fogo que não é objecto de financiamento nos termos dos artigos anteriores.
 
-###### Artigo 12.º
+Artigo 12.º
 
 Salvo nos casos expressamente previstos nos acordos gerais de adesão celebrados, as comparticipações concedidas ao abrigo do presente diploma não são acumuláveis com apoios financeiros concedidos por outras entidades para o mesmo fim, ficando o beneficiário, em caso de incumprimento, obrigado a restituir ao INH a parte da comparticipação recebida correspondente ao valor do apoio financeiro da outra entidade.
 
-###### Artigo 13.º
+Artigo 13.º
 
 Os prédios e as fracções autónomas de prédios habitacionais financiados ao abrigo do presente diploma destinam-se a atribuição para residência permanente em regime de renda apoiada ou em regime de propriedade resolúvel, nos termos regulados respectivamente nos Decretos-Leis n.os [166/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1993-274240) e [167/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1993-274244), ambos de 7 de Maio, salvo no caso do PER Famílias, em que os fogos se destinam a habitação própria e permanente dos respectivos adquirentes.
 
-###### Artigo 14.º
+Artigo 14.º
 
 Nenhum dos membros dos agregados familiares realojados ou a realojar de acordo com o previsto no artigo anterior pode deter, a qualquer título, outra habitação no concelho do respectivo recenseamento para o PER ou em concelho limítrofe, nem ter inscrita para efeitos fiscais, de segurança social ou outros outra residência no território nacional, bem como não pode estar a usufruir de outros apoios financeiros públicos para fins habitacionais.
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - O incumprimento dos contratos celebrados com o INH ou a falta de prova, perante este, da realização do registo da inalienabilidade a que se refere a alínea b) do n.º 1 do artigo 22.º até 12 meses a contar da data de início do respectivo prazo, salvo quando se comprove que essa falta não é imputável ao beneficiário, determina o reembolso imediato das comparticipações e bonificações concedidas pelo INH, acrescidas de juros à taxa de mora ao Estado, desde a data da respectiva disponibilização, sem prejuízo de outras sanções contratual ou legalmente aplicáveis.
 
 2 - Nos casos previstos no número anterior, os créditos do INH gozam de privilégio creditório imobiliário sobre os prédios e fracções autónomas por ele financiados.
 
-###### Artigo 17.º
+Artigo 17.º
 
 1 - As entidades referidas no n.º l e na alínea a) do n.º 2 do artigo 8.º podem celebrar com o Ministério da Segurança Social e do Trabalho acordos complementares no âmbito do Programa Nacional da Luta contra a Pobreza ou de programa com o mesmo objectivo, tendo em vista a inserção social dos agregados familiares a realojar.
 
 2 - (Anterior n.º 3.)
 
-###### Artigo 18.º
+Artigo 18.º
 
 No caso de fogos atribuídos em regime de renda apoiada pelas entidades a que se referem as alíneas a) e b) do n.º 2 do artigo 8.º, os municípios podem, no âmbito dos acordos referidos no n.º 3 do mesmo artigo, acordar a concessão de comparticipações a fundo perdido destinadas a suportar, total ou parcialmente, o montante correspondente à diferença entre o valor da renda apoiada aplicável ao fogo e o valor do preço técnico correspondente a esse fogo.
 
-###### Artigo 19.º
+Artigo 19.º
 
 1 - O Instituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE) pode, sem exigir qualquer contrapartida, acordar com os municípios aderentes ao Programa a transmissão, para eles próprios ou para empresas municipais que não sejam participadas por entidades privadas com fins lucrativos, da propriedade de prédios ou suas fracções que constituem agrupamentos habitacionais ou bairros, incluindo os espaços exteriores de uso público, equipamentos e outras infra-estruturas, bem como os direitos e obrigações a estes relativos e aos fogos em regime de propriedade resolúvel, podendo os municípios ou as empresas municipais alienar esses fogos aos respectivos moradores, nos termos do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de Abril, com as alterações introduzidas pelo [Decreto-Lei n.º 288/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), de 20 de Agosto.
 
@@ -287,7 +365,7 @@ c) Nos termos estabelecidos no [Decreto-Lei n.º 167/93](https://diariodarepubli
 
 3 - As inscrições relativas aos registos referidos no número anterior devem conter a indicação da norma do n.º 1 aplicável ao caso e o valor da comparticipação do INH e, se for o caso, da do município.
 
-###### Artigo 23.º
+Artigo 23.º
 
 1 - A inalienabilidade prevista na alínea b) do n.º 1 do artigo anterior não prejudica a possibilidade de venda da habitação e partes acessórias da mesma ao respectivo arrendatário ou a um dos membros do seu agregado familiar, mantendo-se a inalienabilidade registada pelo prazo remanescente.
 
@@ -297,7 +375,7 @@ c) Nos termos estabelecidos no [Decreto-Lei n.º 167/93](https://diariodarepubli
 
 4 - A venda ao arrendatário em regime de propriedade resolúvel rege-se nos termos do [Decreto-Lei n.º 167/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1993-274244), de 7 de Maio, não lhe sendo aplicável o disposto nos artigos seguintes.
 
-###### Artigo 24.º
+Artigo 24.º
 
 1 - No caso do n.º 1 do artigo anterior, o preço de venda da habitação e partes acessórias da mesma não pode exceder o valor que foi considerado para efeito de concessão do financiamento à respectiva construção ou aquisição, corrigido pela aplicação da taxa anual de inflação fixada pelo Instituto Nacional de Estatística a partir do ano seguinte ao da aquisição ou da conclusão da construção.
 
@@ -309,7 +387,7 @@ c) Nos termos estabelecidos no [Decreto-Lei n.º 167/93](https://diariodarepubli
 
 5 - O disposto nos números anteriores é aplicável, com as necessárias adaptações, à venda e levantamento da inalienabilidade de prédios ou fracções autónomas de prédios destinados a equipamento social.
 
-###### Artigo 25.º
+Artigo 25.º
 
 1 - A inalienabilidade prevista na alínea a) do n.º 1 do artigo 22.º do presente diploma pode ser levantada a requerimento do proprietário para venda da habitação e partes acessórias da mesma, mediante a devolução dos montantes concedidos pelo INH e, se for o caso, pelo município, a título de bonificação e de comparticipação à respectiva aquisição, acrescidos de 10%.
 
@@ -317,7 +395,7 @@ c) Nos termos estabelecidos no [Decreto-Lei n.º 167/93](https://diariodarepubli
 
 3 - Cabe ao INH emitir as declarações relativas ao levantamento dos ónus referidos nos números anteriores e ao cancelamento dos correspondentes registos.
 
-###### Artigo 26.º
+Artigo 26.º
 
 1 - Pode ser dispensado pelo INH o pagamento dos montantes devidos nos termos do artigo anterior para efeito do levantamento da inalienabilidade em casos excepcionais de inadequação do fogo ao agregado familiar, superveniente à respectiva aquisição, devidamente comprovados pelos proprietários e aceites pelo INH, e desde que se verifique a afectação da totalidade do produto da respectiva venda à aquisição de nova habitação própria e permanente.
 
@@ -333,13 +411,13 @@ b) Da tipologia do fogo, por alteração da composição do agregado familiar, d
 
 5 - As habitações adquiridas nos termos do n.º 1 do presente artigo ficam sujeitas a uma inalienabilidade, sujeita a registo, por prazo igual ao que faltava cumprir da inalienabilidade da habitação anterior, sem prejuízo do disposto no artigo 25.º
 
-###### Artigo 27.º
+Artigo 27.º
 
 1 - No caso de fogos a alienar nos termos dos n.os 1 a 3 do artigo anterior, o município da respectiva área de localização tem direito de preferência na alienação, a exercer no prazo máximo de 30 dias a contar da data da recepção da correspondente comunicação.
 
 2 - Quando de fogos de promoção cooperativa adquiridos ao abrigo do [Decreto-Lei n.º 79/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1996-431037), o direito referido no número anterior prevalece sobre o direito de preferência do INH previsto no n.º 5 do artigo 28.º do [Decreto-Lei n.º 502/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1999-634925), de 19 de Novembro.
 
-###### Artigo 28.º
+Artigo 28.º
 
 O desvio da comparticipação concedida à construção ou aquisição da habitação alienada, pela não aplicação do produto da venda da habitação anterior na compra de nova habitação ou pelo não pagamento ao INH dos montantes que lhe sejam devidos no caso de inadequabilidade da nova habitação, determina a impossibilidade de acesso, por parte do proprietário da habitação alienada, a quaisquer modalidades de apoio financeiro público enquanto não procederem à devolução dos montantes devidos, sem prejuízo de outras sanções legais aplicáveis ao caso.»
 
@@ -365,17 +443,19 @@ Em anexo ao presente diploma, do qual faz parte integrante, é republicado na í
 
 Visto e aprovado em Conselho de Ministros de 31 de Julho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - João Luís Mota de Campos - António José de Castro Bagão Félix - António Pedro de Nobre Carmona Rodrigues - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 6 de Outubro de 2003.**
+Promulgado em 6 de Outubro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Outubro de 2003.**
+Referendado em 15 de Outubro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
-## ANEXO — Artigo 1.º
+## ANEXO
+
+###### Artigo 1.º
 
 1 - Pelo presente diploma é criado o Programa Especial de Realojamento nas Áreas Metropolitanas de Lisboa e do Porto, adiante designado por Programa.
 

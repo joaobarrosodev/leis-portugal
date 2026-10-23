@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/07/158a00/39563957.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/152/2003/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2003-667552
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13c163b8eade5f3e4de49336993fd1ec63e20780f639e5884fcb89cafc611b7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c15480d46eff93b7499f6e32a6b90c1e7b5eaf25d6b7cfb3727f77ed5434876
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,24 @@ subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
 - Contra-ordenação
-- Transporte Ferroviário
 - Especificação Técnica
 - ETI
 - Infraestrutura dos Transportes
 - Normas de Segurança
 - Sistema Ferroviário Transeuropeu de Alta Velocidade
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:279843:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:520837:por
+  label: "Alterado o anexo II e III do Dec Lei 93/2000 de 23-Mai, com a redacção conferida no presente diploma, e remetidas\
+    \ para o Instituto da Mobilidade e dos Transportes Terrestres todas as referências efectuadas ao Instituto Nacional do\
+    \ Transporte Ferroviário, pelo DEC LEI.178/2007.08.05.2007.MOPTC, DR.IS [88] de 08.05.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2007-520837
+  date: '2007-05-08'
 - type: cites
   target: celex:31996L0048
   label: null
@@ -88,16 +95,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/93/2000/05/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/93/2000/05/23/p/dre
+- type: repealed_by
+  target: pt:dre:279843:por
+  label: "Revogado, a partir de 22.02.2011, o Dec Lei 93/2000, de 23-Maio, na redacção do presente diploma, do Dec Lei 178/2007,\
+    \ de 08-Maio, e do Dec Lei 191/2008, de 25-Set, pelo DEC LEI.27/2011.17.02.2011.MOPTC, DR.IS [34] de 17.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2011-279843
+  date: '2011-02-17'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:51Z'
   warnings: []
   errors: []
 ---
@@ -202,12 +215,12 @@ Os comboios devem dispor de uma instalação sonora que permita a transmissão d
 
 Visto e aprovado em Conselho de Ministros de 3 de Junho de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Jorge Fernando Magalhães da Costa.
 
-**Promulgado em 26 de Junho de 2003.**
+Promulgado em 26 de Junho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Junho de 2003.**
+Referendado em 30 de Junho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

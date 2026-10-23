@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/10300/09600964.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/279-1976-427453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T05:00:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fdd0371e16df4b388911a39eadecf4a3a7afdeaa278c077a89588ed9096217a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e28bec6af65ca0a577c0a05979d6d08193979b1e013218bf581e90faa087e9fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:00:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Administração de Portos
+- Embarcação
+- Fiscalização
+- Licença de Pilotagem
+- Navegação Marítima
+- Normas de Segurança
+- Regulamento
+- Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e das Ilhas Adjacentes
+- Serviço de Pilotagem dos Portos e Barras
+- TAXA de Pilotagem
 relationships:
 - type: amended_by
   target: pt:dre:609829:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:429852:por
+  label: Anulada a eficácia do disposto no n.º 7, pelo(a) Portaria n.º 504/76 - Diário da República n.º 185/1976, Série I
+    de 1976-08-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/504-1976-429852
+  date: '1976-08-09'
+- type: cites
+  target: pt:dre:312232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353078:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:00:40Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +124,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha 
 
 1.º São suprimidos ou substituídos pelo articulado do presente diploma os artigos 3.º, 19.º, 20.º e 22.º, a epígrafe da secção III do capítulo II, o artigo 24.º, o corpo do artigo 25.º e o seu n.º 11.º, os artigos 26.º, 27.º, 28.º, 29.º, 30.º e 31.º, os n.os 2.º e 5.º do artigo 33.º, as secções IV e V do capítulo II os artigos 45.º e 48.º, os §§ 7.º e 8.º do artigo 49.º, os §§ 1.º e 2.º do artigo 50.º, os artigos 53.º, 55.º, 56.º, 58.º e 93.º, o n.º 3.º e as alíneas b), c), d) e e) do n.º 5.º do artigo 118.º, a alínea a) e os §§ 1.º e 2.º do artigo 119.º, os artigos 120.º, 122.º, 127.º, 128.º, 129.º, 131.º, 133.º, 137.º, 139.º, 140.º, 144.º, 151.º, 152.º, 154.º, 158.º, 160.º, 162.º, 164.º, 167.º e 170.º, e aditado um § 3.º ao artigo 118.º do Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e das Ilhas Adjacentes, aprovado pelo [Decreto n.º 41668](https://diariodarepublica.pt/dr/detalhe/decreto/41668-1958-353078), de 7 de Junho de 1958.
 
-###### Art. 3.º O pessoal das corporações e secções locais reparte-se pelas seguintes categorias:
+Art. 3.º O pessoal das corporações e secções locais reparte-se pelas seguintes categorias:
 
 Pilotos.
 
@@ -167,13 +192,13 @@ Servente.
 
 ...
 
-###### Art. 19.º A vaga de escrivão é preenchida por ordem de antiguidade entre os ajudantes de escrivão que possuam a habilitação mínima do 2.º ciclo liceal ou outra considerada equivalente.
+Art. 19.º A vaga de escrivão é preenchida por ordem de antiguidade entre os ajudantes de escrivão que possuam a habilitação mínima do 2.º ciclo liceal ou outra considerada equivalente.
 
-###### Art. 20.º (Suprimido.)
+Art. 20.º (Suprimido.)
 
 ...
 
-###### Art. 22.º Os pilotos provisórios fazem tirocínio durante seis meses, sob a vigilância e responsabilidade dos pilotos efectivos.
+Art. 22.º Os pilotos provisórios fazem tirocínio durante seis meses, sob a vigilância e responsabilidade dos pilotos efectivos.
 
 § 1.º Findo esse prazo, se tiverem boas informações, confirmadas pelo chefe da corporação, passam a fazer serviço sob sua responsabilidade individual.
 
@@ -183,29 +208,29 @@ Servente.
 
 #### SECÇÃO III — Funções dos pilotos
 
-###### Art. 24.º Em cada corporação haverá um chefe, o qual será designado pelo director-geral do Pessoal do Mar de entre os membros da respectiva comissão administrativa.
+Art. 24.º Em cada corporação haverá um chefe, o qual será designado pelo director-geral do Pessoal do Mar de entre os membros da respectiva comissão administrativa.
 
-###### Art. 25.º Compete especialmente ao chefe da corporação:
+Art. 25.º Compete especialmente ao chefe da corporação:
 
 ...
 
 11.º (Suprimido.)
 
-###### Art. 26.º O chefe da corporação é substituído nos seus impedimentos por um dos membros da comissão administrativa designado pelo director-geral do Pessoal do Mar.
+Art. 26.º O chefe da corporação é substituído nos seus impedimentos por um dos membros da comissão administrativa designado pelo director-geral do Pessoal do Mar.
 
-###### Art. 27.º (Suprimido.)
+Art. 27.º (Suprimido.)
 
-###### Art. 28.º (Suprimido.)
+Art. 28.º (Suprimido.)
 
-###### Art. 29.º (Suprimido.)
+Art. 29.º (Suprimido.)
 
-###### Art. 30.º (Suprimido.)
+Art. 30.º (Suprimido.)
 
-###### Art. 31.º (Suprimido.)
+Art. 31.º (Suprimido.)
 
 ...
 
-###### Art. 33.º ...
+Art. 33.º ...
 
 2.º Acompanhar o chefe da corporação, ou quem o substituir, nas sondagens da barra ou porto, com o fim de se inteirarem de todas as alterações;
 
@@ -219,7 +244,7 @@ Servente.
 
 #### SECÇÃO V — Remunerações e abonos
 
-###### Art. 36.º O pessoal no activo aufere remunerações certas ordinárias e extraordinárias, remunerações acidentais e abonos.
+Art. 36.º O pessoal no activo aufere remunerações certas ordinárias e extraordinárias, remunerações acidentais e abonos.
 
 § 1.º São remunerações certas ordinárias os vencimentos base.
 
@@ -229,9 +254,9 @@ Servente.
 
 § 4.º Os abonos a conceder serão os referidos nos artigos 41.º e 42.º
 
-###### Art. 37.º Os vencimentos base serão fixados por despacho do Secretário de Estado da Marinha Mercante.
+Art. 37.º Os vencimentos base serão fixados por despacho do Secretário de Estado da Marinha Mercante.
 
-###### Art. 38.º - 1.º O pessoal em serviço activo ou moderado e os aposentados têm direito a um subsídio de Natal, que será pago até ao dia 10 de Dezembro do ano a que diz respeito.
+Art. 38.º - 1.º O pessoal em serviço activo ou moderado e os aposentados têm direito a um subsídio de Natal, que será pago até ao dia 10 de Dezembro do ano a que diz respeito.
 
 2.º O pessoal em serviço activo e moderado tem direito a um subsídio de férias, que se vence em 1 de Janeiro de cada ano e é relativo ao trabalho prestado no ano civil anterior. Este subsídio será pago:
 
@@ -243,41 +268,41 @@ c) Em caso de falecimento, não tendo o trabalhador gozado o período de férias
 
 3.º O valor pecuniário de cada um dos subsídios a que se refere este artigo é igual ao vencimento base.
 
-###### Art. 39.º O pessoal que desempenhar cargos de gerência nas corporações e secções locais receberá um subsídio a fixar por despacho do Secretário de Estado da Marinha Mercante.
+Art. 39.º O pessoal que desempenhar cargos de gerência nas corporações e secções locais receberá um subsídio a fixar por despacho do Secretário de Estado da Marinha Mercante.
 
-###### Art. 40.º - 1.º O pessoal isento de horário de trabalho receberá um subsídio mensal a fixar por despacho do Secretário de Estado da Marinha Mercante.
+Art. 40.º - 1.º O pessoal isento de horário de trabalho receberá um subsídio mensal a fixar por despacho do Secretário de Estado da Marinha Mercante.
 
 2.º A comissão central da Corporação Geral dos Pilotos determinará, sob proposta dos órgãos de gerência locais, qual o pessoal que ficará isento de horário de trabalho.
 
 3.º Pelo trabalho nocturno será devido um subsídio nas condições a estabelecer por despacho do Secretário de Estado da Marinha Mercante.
 
-###### Art. 41.º O pessoal, quando em serviço fora da área de pilotagem, tem direito a receber abonos em dinheiro para a compensação de despesas com transportes, alimentação e outros gastos, nos termos e valor a fixar pela comissão central da Corporação Geral dos Pilotos.
+Art. 41.º O pessoal, quando em serviço fora da área de pilotagem, tem direito a receber abonos em dinheiro para a compensação de despesas com transportes, alimentação e outros gastos, nos termos e valor a fixar pela comissão central da Corporação Geral dos Pilotos.
 
-###### Art. 42.º Além das remunerações e abonos referidos nos artigos anteriores, o pessoal, no activo ou aposentado, tem direito ao abono de família nos mesmos termos que vigorarem para o funcionalismo público.
+Art. 42.º Além das remunerações e abonos referidos nos artigos anteriores, o pessoal, no activo ou aposentado, tem direito ao abono de família nos mesmos termos que vigorarem para o funcionalismo público.
 
-###### Art. 43.º As pessoas de família do pessoal das corporações e secções locais terão direito a receber, por morte destes e mediante processo organizado nos termos do que estiver estabelecido sobre o assunto para o funcionalismo público, subsídio idêntico ao fixado para o mesmo funcionalismo.
+Art. 43.º As pessoas de família do pessoal das corporações e secções locais terão direito a receber, por morte destes e mediante processo organizado nos termos do que estiver estabelecido sobre o assunto para o funcionalismo público, subsídio idêntico ao fixado para o mesmo funcionalismo.
 
 ...
 
-###### Art. 45.º Por motivo de licença pode o pessoal ser substituído por outro de categoria inferior, cabendo a este o direito à diferença de remuneração correspondente.
+Art. 45.º Por motivo de licença pode o pessoal ser substituído por outro de categoria inferior, cabendo a este o direito à diferença de remuneração correspondente.
 
 § único. (Suprimido.)
 
 ...
 
-###### Art. 48.º A competência para a concessão das licenças pertence:
+Art. 48.º A competência para a concessão das licenças pertence:
 
 a) Ao director-geral do Pessoal do Mar, para as licenças superiores a trinta dias;
 
 b) Ao chefe da corporação ou secção local, para as licenças até trinta dias.
 
-###### Art. 49.º ...
+Art. 49.º ...
 
 § 7.º Por motivo de impedimento, pode o pessoal ser substituído por outro de categoria inferior, cabendo a este o direito à diferença de remunerações correspondente.
 
 § 8.º (Suprimido.)
 
-###### Art. 50.º ...
+Art. 50.º ...
 
 § 1.º Na situação de serviços moderados só pode haver pilotos com o mínimo de dez anos de serviço e ainda sob a condição de que a corporação tenha, por cada um deles, mais de oito membros prontos para todo o serviço. De contrário, será esse pessoal aposentado ou demitido, conforme reúna ou não os requisitos necessários para a aposentação.
 
@@ -285,7 +310,7 @@ b) Ao chefe da corporação ou secção local, para as licenças até trinta dia
 
 ...
 
-###### Art. 53.º A pensão de aposentação determina-se fazendo incidir, mensalmente, as percentagens a seguir indicadas sobre os vencimentos base que o aposentado receberia se estivesse no activo com a mesma antiguidade com que foi aposentado:
+Art. 53.º A pensão de aposentação determina-se fazendo incidir, mensalmente, as percentagens a seguir indicadas sobre os vencimentos base que o aposentado receberia se estivesse no activo com a mesma antiguidade com que foi aposentado:
 
 15 anos de antiguidade - 60%;
 
@@ -317,21 +342,21 @@ b) Ao chefe da corporação ou secção local, para as licenças até trinta dia
 
 ...
 
-###### Art. 55.º (Suprimido.)
+Art. 55.º (Suprimido.)
 
-###### Art. 56.º A aposentação é obrigatória aos 65 anos de idade.
-
-...
-
-###### Art. 58.º (Suprimido.)
+Art. 56.º A aposentação é obrigatória aos 65 anos de idade.
 
 ...
 
-###### Art. 93.º As embarcações dos pilotos são tripuladas pelo pessoal auxiliar de pilotagem ou, na sua impossibilidade, pelos próprios pilotos.
+Art. 58.º (Suprimido.)
 
 ...
 
-###### Art. 118.º ...
+Art. 93.º As embarcações dos pilotos são tripuladas pelo pessoal auxiliar de pilotagem ou, na sua impossibilidade, pelos próprios pilotos.
+
+...
+
+Art. 118.º ...
 
 3.º Aprovar os modelos dos livros e impressos a usar no serviço de secretaria das corporações e secções locais e expedir as instruções necessárias à sua escrituração correcta e uniforme;
 
@@ -351,7 +376,7 @@ e) (Suprimida.)
 
 § 3.º Junto da comissão central da Corporação Geral dos Pilotos funcionará um serviço de apoio técnico-administrativo, para o qual será destacado pessoal das corporações.
 
-###### Art. 119.º ...
+Art. 119.º ...
 
 a) Pagamento das remunerações devidas ao pessoal das corporações e secções locais (activo, serviços moderados e aposentado);
 
@@ -361,7 +386,7 @@ a) Pagamento das remunerações devidas ao pessoal das corporações e secções
 
 § 2.º (Suprimido.)
 
-###### Art. 120.º As receitas do fundo permanente de auxílio às corporações e secções locais são constituídas:
+Art. 120.º As receitas do fundo permanente de auxílio às corporações e secções locais são constituídas:
 
 a) Pelos saldos mensais das corporações e secções locais;
 
@@ -371,7 +396,7 @@ c) Por quaisquer outros rendimentos não especificados.
 
 ...
 
-###### Art. 122.º Cada corporação local dispõe, como órgão de direcção e de gerência dos seus bens patrimoniais, de uma comissão administrativa, composta, normalmente, por três pilotos efectivos, eleitos, e pelo escrivão, que será o secretário. Servirá de presidente o membro da comissão administrativa designado para chefe da corporação pelo director-geral do Pessoal do Mar.
+Art. 122.º Cada corporação local dispõe, como órgão de direcção e de gerência dos seus bens patrimoniais, de uma comissão administrativa, composta, normalmente, por três pilotos efectivos, eleitos, e pelo escrivão, que será o secretário. Servirá de presidente o membro da comissão administrativa designado para chefe da corporação pelo director-geral do Pessoal do Mar.
 
 § 1.º Nas corporações locais em que haja mais de vinte pilotos, a comissão administrativa será composta por seis pilotos, eleitos, e pelo escrivão, que será o secretário.
 
@@ -387,9 +412,9 @@ c) Por quaisquer outros rendimentos não especificados.
 
 ...
 
-###### Art. 127.º (Suprimido.)
+Art. 127.º (Suprimido.)
 
-###### Art. 128.º Constituem despesas das corporações e secções locais:
+Art. 128.º Constituem despesas das corporações e secções locais:
 
 a) Remunerações e abonos a que se refere a secção V do Regulamento;
 
@@ -405,11 +430,11 @@ f) Aquisição e grandes reparações de material;
 
 g) Aquisição e reparação de imóveis destinados à instalação do pessoal ou a abrigo do material.
 
-###### Art. 129.º (Suprimido.)
+Art. 129.º (Suprimido.)
 
 ...
 
-###### Art. 131.º Há uma corporação local de pilotos, constituída pelo seguinte pessoal:
+Art. 131.º Há uma corporação local de pilotos, constituída pelo seguinte pessoal:
 
 68 pilotos;
 
@@ -465,11 +490,11 @@ g) Aquisição e reparação de imóveis destinados à instalação do pessoal o
 
 ...
 
-###### Art. 133.º (Suprimido.)
+Art. 133.º (Suprimido.)
 
 ...
 
-###### Art. 137.º Há uma corporação local de pilotos, constituída pelo seguinte pessoal:
+Art. 137.º Há uma corporação local de pilotos, constituída pelo seguinte pessoal:
 
 32 pilotos;
 
@@ -505,21 +530,21 @@ g) Aquisição e reparação de imóveis destinados à instalação do pessoal o
 
 ...
 
-###### Art. 139.º A corporação tem duas estações, com sede em Leixões.
+Art. 139.º A corporação tem duas estações, com sede em Leixões.
 
 § 1.º (Suprimido.)
 
 § 2.º (Suprimido.)
 
-###### Art. 140.º O pessoal será dividido pelas duas estações, segundo as escalas que forem mais apropriadas ao serviço.
+Art. 140.º O pessoal será dividido pelas duas estações, segundo as escalas que forem mais apropriadas ao serviço.
 
 ...
 
-###### Art. 144.º Nas entradas e saídas do rio Douro, o chefe da corporação, ou o seu substituto, assistirá ao movimento da barra em local próprio, donde fará os sinais previstos no artigo 100.º deste Regulamento.
+Art. 144.º Nas entradas e saídas do rio Douro, o chefe da corporação, ou o seu substituto, assistirá ao movimento da barra em local próprio, donde fará os sinais previstos no artigo 100.º deste Regulamento.
 
 ...
 
-###### Art. 151.º Há uma corporação local de pilotos, constituída pelo seguinte pessoal:
+Art. 151.º Há uma corporação local de pilotos, constituída pelo seguinte pessoal:
 
 9 pilotos;
 
@@ -535,11 +560,11 @@ g) Aquisição e reparação de imóveis destinados à instalação do pessoal o
 
 1 servente.
 
-###### Art. 152.º (Suprimido.)
+Art. 152.º (Suprimido.)
 
 ...
 
-###### Art. 154.º Há uma corporação local de pilotos, constituída pelo seguinte pessoal:
+Art. 154.º Há uma corporação local de pilotos, constituída pelo seguinte pessoal:
 
 1 piloto;
 
@@ -553,7 +578,7 @@ g) Aquisição e reparação de imóveis destinados à instalação do pessoal o
 
 ...
 
-###### Art. 158.º Há uma secção de pilotos, constituída pelo seguinte pessoal:
+Art. 158.º Há uma secção de pilotos, constituída pelo seguinte pessoal:
 
 2 pilotos.
 
@@ -561,7 +586,7 @@ g) Aquisição e reparação de imóveis destinados à instalação do pessoal o
 
 ...
 
-###### Art. 160.º Há uma secção local de pilotos, constituída pelo seguinte pessoal:
+Art. 160.º Há uma secção local de pilotos, constituída pelo seguinte pessoal:
 
 4 pilotos;
 
@@ -573,7 +598,7 @@ g) Aquisição e reparação de imóveis destinados à instalação do pessoal o
 
 ...
 
-###### Art. 162.º Há uma secção local de pilotos, constituída pelo seguinte pessoal:
+Art. 162.º Há uma secção local de pilotos, constituída pelo seguinte pessoal:
 
 2 pilotos;
 
@@ -585,7 +610,7 @@ g) Aquisição e reparação de imóveis destinados à instalação do pessoal o
 
 ...
 
-###### Art. 164.º Há uma secção local de pilotos, constituída pelo seguinte pessoal:
+Art. 164.º Há uma secção local de pilotos, constituída pelo seguinte pessoal:
 
 2 pilotos;
 
@@ -593,7 +618,7 @@ g) Aquisição e reparação de imóveis destinados à instalação do pessoal o
 
 ...
 
-###### Art. 167.º Há uma secção local de pilotos, constituída pelo seguinte pessoal:
+Art. 167.º Há uma secção local de pilotos, constituída pelo seguinte pessoal:
 
 1 piloto;
 
@@ -607,7 +632,7 @@ g) Aquisição e reparação de imóveis destinados à instalação do pessoal o
 
 ...
 
-###### Art. 170.º Há uma secção local de pilotos, constituída pelo seguinte pessoal:
+Art. 170.º Há uma secção local de pilotos, constituída pelo seguinte pessoal:
 
 2 pilotos;
 

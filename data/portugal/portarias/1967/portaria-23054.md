@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23054-1967-400616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d4e74c63c1ceb05badbaa3d1df12f87a5994c029be102b693449e23481bc3fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eecb7e1cc34b953630ec90a3d62f23e6b7121d55c52df3fe5d609a7fd0ebfecb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:312664:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:44Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +92,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, estabelecer
 
 REGULAMENTO DA BIBLIOTECA DO MINISTÉRIO DO ULTRAMAR
 
-###### Artigo 1.º O presente Regulamento aplica-se à biblioteca do Ministério, constituída nos termos do artigo 31.º do [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967, e que abrange todos os serviços centrais do Ministério, organismos consultivos e organismos dependentes.
+Artigo 1.º O presente Regulamento aplica-se à biblioteca do Ministério, constituída nos termos do artigo 31.º do [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967, e que abrange todos os serviços centrais do Ministério, organismos consultivos e organismos dependentes.
 
 § 1.º Os organismos dependentes que funcionem fora do edifício do Ministério do Ultramar podem continuar a manter as suas bibliotecas nas instalações actuais. No entanto, os livros, revistas e demais publicações dessas bibliotecas serão devidamente registados, classificados e catalogados nos ficheiros da biblioteca do Ministério, à qual serão remetidos, para o efeito e pelos serviços respectivos, duplicados das fichas respeitantes não só a cada publicação existente nas suas bibliotecas privativas, mas também às que venham a adquirir.
 
@@ -98,13 +102,13 @@ REGULAMENTO DA BIBLIOTECA DO MINISTÉRIO DO ULTRAMAR
 
 § 4.º A biblioteca poderá utilizar, a suas expensas, os serviços técnicos de fotografia, fotocópia, microfilme, microfichas e restauro de livros instalados nos diversos serviços do Ministério.
 
-###### Art. 2.º A biblioteca funciona sob a superintendência técnica da Direcção-Geral de Educação, exercida por intermédio do director do Arquivo Histórico Ultramarino, ao qual compete:
+Art. 2.º A biblioteca funciona sob a superintendência técnica da Direcção-Geral de Educação, exercida por intermédio do director do Arquivo Histórico Ultramarino, ao qual compete:
 
 1.º Submeter a resolução superior, mediante informação ou parecer, os assuntos de ordem técnica e administrativa que careçam de autorização.
 
 2.º Propor, para assegurar o eficiente funcionamento da biblioteca, que nela exerça funções pessoal de outros serviços, ouvidos os respectivos superiores hierárquicos.
 
-###### Art. 3.º A biblioteca dispõe de um gabinete orientador, constituído pelo director do Arquivo Histórico Ultramarino, pelo bibliotecário e por um corpo de assessores.
+Art. 3.º A biblioteca dispõe de um gabinete orientador, constituído pelo director do Arquivo Histórico Ultramarino, pelo bibliotecário e por um corpo de assessores.
 
 § 1.º O corpo de assessores é constituído por representantes da Junta de Investigações do Ultramar, da Agência-Geral do Ultramar, do Centro de Documentação Técnico-Económica e de outros serviços cuja presença se considere necessária, designados pelo Ministro do Ultramar, mediante proposta dos respectivos directores.
 
@@ -114,7 +118,7 @@ REGULAMENTO DA BIBLIOTECA DO MINISTÉRIO DO ULTRAMAR
 
 § 4.º Os assessores a que se refere o § 1.º deste artigo terão direito a senhas de presença, no montante de 150$00, por cada reunião do gabinete.
 
-###### Art. 4.º Compete ao bibliotecário, com o pessoal auxiliar de que disponha:
+Art. 4.º Compete ao bibliotecário, com o pessoal auxiliar de que disponha:
 
 1.º Organizar e manter actualizados os serviços a seu cargo;
 
@@ -140,7 +144,7 @@ REGULAMENTO DA BIBLIOTECA DO MINISTÉRIO DO ULTRAMAR
 
 12.º Elaborar anualmente o relatório circunstanciado dos serviços a seu cargo.
 
-###### Art. 5.º A biblioteca, que dispõe de sala de leitura, funciona dentro das horas normais de expediente. A utilização dos seus serviços, salvo excepções devidamente autorizadas, é reservada aos funcionários do Ministério e das províncias ultramarinas.
+Art. 5.º A biblioteca, que dispõe de sala de leitura, funciona dentro das horas normais de expediente. A utilização dos seus serviços, salvo excepções devidamente autorizadas, é reservada aos funcionários do Ministério e das províncias ultramarinas.
 
 § 1.º O acesso à sala de leitura da biblioteca, bem como a requisição das espécies, far-se-á, sempre que necessário, mediante apresentação de documento suficiente para identificação do leitor.
 
@@ -158,6 +162,6 @@ REGULAMENTO DA BIBLIOTECA DO MINISTÉRIO DO ULTRAMAR
 
 § 8.º A permanência na biblioteca só é permitida por motivo de utilização dos seus serviços, de modo algum podendo ser perturbado o ambiente de trabalho.
 
-###### Art. 6.º Quaisquer dúvidas decorrentes da execução deste Regulamento serão resolvidas pelo bibliotecário ou pelo director do Arquivo Histórico Ultramarino, consoante os casos, ou ainda por despacho ministerial, se necessário for.
+Art. 6.º Quaisquer dúvidas decorrentes da execução deste Regulamento serão resolvidas pelo bibliotecário ou pelo director do Arquivo Histórico Ultramarino, consoante os casos, ou ainda por despacho ministerial, se necessário for.
 
 Ministério do Ultramar, 11 de Dezembro de 1967. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-1977-255250
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2191170d5e5b41a413fa0a62bfb97a99ec8a220561e94c7bfd95e0943a7f580
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93c01f2578f55915a42b6e9238d9c2f6fa12613e6d40dedf5d8b428207722291
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Habitação Social
+- Regulamento dos Concursos para Atribuição de Habitações Sociais
 relationships:
 - type: amended_by
   target: pt:dre:282712:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:138173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621756:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:296238:por
+  label: "Revogados os arts. 22º, 23º, 24º e 25º pelo DR.15/78.18.05.1978.MHOP, DR.IS [114] de 18.05.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/15-1978-296238
+  date: '1978-05-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:13Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +123,15 @@ Considerando o disposto no artigo 8.º do [Decreto-Lei n.º 797/76](https://diar
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Regulamento dos Concursos para Atribuição de Habitações Sociais, anexo ao presente diploma.
+Artigo único. É aprovado o Regulamento dos Concursos para Atribuição de Habitações Sociais, anexo ao presente diploma.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Eduardo Ribeiro Pereira.
 
-**Promulgado em 22 de Julho de 1977.**
+Promulgado em 22 de Julho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 REGULAMENTO DOS CONCURSOS PARA ATRIBUIÇÃO DE HABITAÇÕES SOCIAIS
 
@@ -128,7 +159,7 @@ REGULAMENTO DOS CONCURSOS PARA ATRIBUIÇÃO DE HABITAÇÕES SOCIAIS
 
 3. Para efeitos do disposto no número anterior, considera-se adequada às necessidades do agregado familiar do concorrente a habitação cujo tipo, em relação à composição daquele agregado, se situe entre o máximo e o mínimo previstos no quadro seguinte, de modo que não se verifique sobreocupação ou subocupação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18500/19681973.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18500/19681973.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18500/19681973.pdf)
 
 4. Considera-se como fazendo parte do agregado familiar do concorrente o conjunto de pessoas que com ele vivam em comunhão de mesa e habitação, ligadas por laços de parentesco, casamento, afinidade e adopção ou noutras situações especiais assimiláveis.
 
@@ -214,7 +245,7 @@ As regras a que obedecerá a entrega dos documentos necessários à participaç�
 
 2. O limite a que se refere o número anterior será fixado em função de rendimento mensal por cabeça do respectivo agregado familiar, não sendo admitidos os concorrentes relativamente aos quais esse rendimento exceda, em função do salário mínimo nacional, os limites indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18500/19681973.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18500/19681973.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18500/19681973.pdf)
 
 3. Para efeitos do disposto no n.º 2 do artigo 8.º do [Decreto-Lei n.º 797/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/797-1976-407338), a adequação da habitação que esteja a ser ocupada pelo agregado familiar do concorrente afere-se pelos seguintes factores, de acordo com o mapa de classificação anexo a este decreto:
 
@@ -266,7 +297,7 @@ Para os efeitos do disposto na segunda parte do n.º 3 do artigo 8.º do [Decret
 
 Aos concursos por sorteio somente podem concorrer cidadãos nacionais maiores ou emancipados cujo agregado familiar tenha rendimento mensal por cabeça de valor situado dentro dos limites mínimos e máximos previstos no quadro seguinte e definidos em função do salário mínimo nacional:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18500/19681973.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18500/19681973.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18500/19681973.pdf)
 
 ###### ARTIGO 18.º — (Abertura do concurso)
 
@@ -340,10 +371,10 @@ Só podem candidatar-se à compra destes fogos as pessoas que estejam nas condi�
 
 As dúvidas na aplicação do presente Regulamento serão resolvidas por despacho do Ministro da Habitação, Urbanismo e Construção.
 
-**O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.**
+O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.
 
 ## ANEXO — Mapa de classificação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/18500/19681973.pdf))](https://files.diariodarepublica.pt/1s/1977/08/18500/19681973.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/18500/19681973.pdf)
 
-**O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.**
+O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.

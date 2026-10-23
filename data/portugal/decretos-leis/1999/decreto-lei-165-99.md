@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/165/1999/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1999-321720
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 266fa117fd139e9974da6f7642e2f547d620be36fae65553dc9b7eb54b6ae4d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf4d8c10aa53a0674e0fa3551b53ade52d6429a5cb61feec5ff36cfc8525c5b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema de Verificação de Incapacidades
 - Exame Médico
-- Prestações da Segurança Social
 - Incapacidade Física
+- Incapacidade Temporária
+- Prestações da Segurança Social
 - Protecção na Doença
 - Regime Geral da Segurança Social
-- Incapacidade Temporária
+- Sistema de Verificação de Incapacidades
 - Subsídio de Doença
 relationships:
 - type: amended_by
@@ -84,16 +84,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/360/1997/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/360/1997/12/17/p/dre
+- type: cites
+  target: pt:dre:285146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612243:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:592342:por
+  label: "Revogada a alteração dada ao Dec Lei 132/88, de 20-Abr (na redacção do Dec Lei 287/90, de 19-Set), pelo DEC LEI.28/2004.04.02.2004.MSST,\
+    \ DR.IS-A [29] de 04.02.2004, e consideradas todas as referências legais ao presente diploma como feitas ao citado diploma\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2004-592342
+  date: '2004-02-04'
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:51Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +161,9 @@ c) Comunicar, no prazo de cinco dias, à instituição de segurança social que 
 
 2 - O incumprimento do dever referido na alínea c) do número anterior constitui contra-ordenação punível nos termos da alínea b) do artigo 9.º do [Decreto-Lei n.º 64/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1989-612243), de 25 de Fevereiro.
 
-###### Artigo 22.º — Cessação
+Artigo 22.º
+
+Cessação
 
 1 - O direito ao subsídio de doença cessa quando:
 
@@ -152,7 +181,9 @@ f) O beneficiário não compareça sem motivo justificado ao exame médico para 
 
 2 - O direito ao subsídio de doença cessa igualmente nos casos de ausência do domicílio sem justificação ou, tendo esta sido apresentada, quando não tenha sido considerada atendível.
 
-###### Artigo 31.º — Meio normal de prova da incapacidade
+Artigo 31.º
+
+Meio normal de prova da incapacidade
 
 1 - A certificação da incapacidade temporária para o trabalho é feita por documento médico emitido pelos serviços de saúde competentes, o qual é remetido pelo beneficiário à instituição de segurança social que o abranja, no prazo de cinco dias.
 
@@ -184,12 +215,12 @@ Exame médico domiciliário
 
 Visto e aprovado em Conselho de Ministros de 25 de Fevereiro de 1999. - António Manuel de Oliveira Guterres - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 29 de Abril de 1999.**
+Promulgado em 29 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Maio de 1999.**
+Referendado em 4 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

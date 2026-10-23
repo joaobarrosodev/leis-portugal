@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/03/05200/0127501284.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/19/2018/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2018-114857711
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4f66c1a8302a2288c52b7c8ce058ba7fb3180f604b0dd4c90e2d2c85faf933d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93d0102943b3c7f9345ab1eba231d3bca6820d027941508aee897c3ee30ccfad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
 - Consulado
-- Especificação Técnica
-- Segurança da Informação
 - Documento Eletrónico
-- Programa Simplex
-- Passaporte Electrónico
-- Regime Jurídico
+- Especificação Técnica
+- Modernização Administrativa
 - Passaporte
+- Passaporte Electrónico
+- Programa Simplex
+- Regime Jurídico
+- Segurança da Informação
 relationships:
 - type: cites
   target: celex:31995R1683
@@ -115,16 +115,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:107114304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66997037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671034:por
+  label: null
+  source: null
 article_structure:
-  article_count: 69
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 64
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:13Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +223,9 @@ Os artigos 2.º, 3.º, 23.º, 25.º, 31.º e 38.º-B do [Decreto-Lei n.º 83/200
 
 4 - [...]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O passaporte eletrónico português (PEP), de leitura ótica e por radiofrequência, é constituído por um caderno contendo a folha biográfica e 32 páginas numeradas, ou 48 páginas numeradas no caso de passaporte comum para passageiro frequente, sendo identificado:
 
@@ -189,7 +239,9 @@ ii) [...];
 
 c) No caso de o passaporte ser emitido para pessoas com deficiência visual este conterá, no verso da página biográfica, uma película autocolante transparente com informação em código braille relativa ao nome do titular, número de passaporte e sua validade.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...].
 
@@ -199,7 +251,9 @@ c) No caso de o passaporte ser emitido para pessoas com deficiência visual este
 
 4 - [...].
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...].
 
@@ -215,7 +269,9 @@ c) No caso de o passaporte ser emitido para pessoas com deficiência visual este
 
 7 - O procedimento aplicável aos pedidos previstos no n.º 5 é regulamentado por portaria, a aprovar pelos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, da presidência e da modernização administrativa e da administração interna.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...].
 
@@ -233,7 +289,9 @@ c) [...].
 
 5 - [...].
 
-###### Artigo 38.º-B — [...]
+Artigo 38.º-B
+
+[...]
 
 1 - [...]:
 
@@ -275,15 +333,15 @@ São revogados o n.º 2 do artigo 24.º, os n.os 3 e 6 do artigo 38.º-B, a alí
 
 Visto e aprovado em Conselho de Ministros de 15 de fevereiro de 2018. - António Luís Santos da Costa - Ana Paula Baptista Grade Zacarias - Maria Manuel de Lemos Leitão Marques - Mário José Gomes de Freitas Centeno - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem - Manuel Frederico Tojal de Valsassina Heitor - Manuel de Herédia Caldeira Cabral.
 
-**Promulgado em 1 de março de 2018.**
+Promulgado em 1 de março de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de março de 2018.**
+Referendado em 12 de março de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -727,7 +785,9 @@ A taxa de emissão do passaporte temporário é fixada por portaria dos membros 
 
 2 - Nos casos de destruição, furto ou extravio de passaporte temporário, deve o requerente apresentar declaração, sob compromisso de honra, prestada em impresso próprio, fundamentando o pedido e comprometendo-se a não utilizar e a devolver ao serviço emissor o passaporte substituído, se vier a recuperá-lo.
 
-#### SECÇÃO V — Título de viagem única
+#### SECÇÃO V
+
+## Título de viagem única
 
 ###### Artigo 39.º — Concessão e emissão
 
@@ -828,3 +888,5 @@ São revogados o [Decreto-Lei n.º 438/88](https://diariodarepublica.pt/dr/detal
 O presente diploma entra em vigor 120 dias após a data da sua publicação.
 
 ## ANEXO — [Revogado]
+
+111201565

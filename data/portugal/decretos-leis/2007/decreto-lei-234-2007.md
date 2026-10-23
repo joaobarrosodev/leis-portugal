@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/06/11600/38853890.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/234/2007/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fbd4a6f7a2185bdba3e2199340b8f467a33fc6d38db44bfb71feed019c3b234
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7547acc9331d54f74c36b3d65f75adbaecf6c2aeb8c3ffc6388818a1128ebfe4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
+- Arrendamento Urbano não Habitacional
+- ASAE
 - Associação Nacional Inspectora de Instalações Eléctricas
-- Livro de Reclamações
+- Autoridade Nacional de Protecção Civil
 - Autoridade Sanitária
+- Câmara Municipal
+- Certificado de Qualidade
+- Comércio
 - Comissão Arbitral
 - Contra-ordenação
-- Arrendamento Urbano não Habitacional
 - Direção Geral das Atividades Económicas
 - Direcção Regional de Economia
 - Estabelecimento de Bebidas
 - Estabelecimento de Restauração
 - Fiscalização
-- Higiene Alimentar
-- ASAE
-- Certificado de Qualidade
 - Governo Civil
-- Câmara Municipal
+- Higiene Alimentar
+- Livro de Reclamações
 - Regime de Instalação
 - Regime Jurídico
 - Segurança das Instalações
-- Autoridade Nacional de Protecção Civil
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:919364:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:439091:por
+  label: "Alterado o art. 2º, pelo DEC LEI.209/2008.29.10.2008.PCM, DR.IS [2210] de 29.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2008-439091
+  date: '2008-10-29'
+- type: amended_by
+  target: pt:dre:334077:por
+  label: "Alterado, a partir de 04.08.2010, o art. 3º, pela LEI.16/2010.30.07.2010.AR, DR.IS [147] de 30.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2010-334077
+  date: '2010-07-30'
 - type: cites
   target: celex:32002R0178
   label: null
@@ -109,16 +119,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/168/1997/07/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/168/1997/07/04/p/dre
+- type: repealed_by
+  target: pt:dre:277581:por
+  label: "Revogado o presente diploma, a partir de 02.05.2011, na redacção do Dec Lei 209/2008, de 29-Out, e da Lei 16/2010,\
+    \ de 30-Jul, pelo DEC LEI.48/2011.01.04.2011.PCM, DR.IS [65] de 01.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-2011-277581
+  date: '2011-04-01'
 article_structure:
   article_count: 28
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:24Z'
   warnings: []
   errors: []
 ---
@@ -275,7 +291,9 @@ e) No caso de a vistoria ter imposto condicionantes, termo de responsabilidade a
 
 2 - A declaração a que se refere o número anterior é efectuada através de modelo próprio, a aprovar por portaria dos membros do Governo com a tutela do turismo e das autarquias locais e disponibilizado, electronicamente ou em papel, pelas câmaras municipais e pela DGAE ou em quem esta expressamente delegar.
 
-###### Artigo 12.º — Título de abertura
+###### Artigo 12.º
+
+## Título de abertura
 
 1 - Constitui título válido de abertura do estabelecimento a posse, pelo respectivo explorador, de comprovativo de ter efectuado a declaração prévia prevista no artigo 10.º ou no artigo 11.º do presente decreto-lei.
 
@@ -317,7 +335,9 @@ b) A reserva temporária de parte ou da totalidade dos estabelecimentos.
 
 O período de funcionamento e horário adoptado bem como eventuais períodos anuais de encerramento do estabelecimento devem estar devidamente publicitados, através de afixação em local visível destinado ao efeito.
 
-###### Artigo 16.º — Livro de reclamações
+###### Artigo 16.º
+
+## Livro de reclamações
 
 1 - Em todos os estabelecimentos de restauração ou de bebidas deve existir um livro de reclamações, nos termos e condições estabelecidos no Decreto-Lei n.º 156/2005, de 15 de Setembro, que regula esta matéria.
 
@@ -417,12 +437,12 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Luís Medeiros Vieira - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 5 de Junho de 2007.**
+Promulgado em 5 de Junho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 6 de Junho de 2007.**
+Referendado em 6 de Junho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

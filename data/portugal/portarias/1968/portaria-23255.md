@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23255-1968-235341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76800727f04b3d90d2d40e2b99f9a414b079e986b32f9b218774f8f2a28a07ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53e8ced3cec06f552c9aceb7e6ec09d909a921f4b273f3a83c51961349a0fa55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693410:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:06Z'
   warnings: []
   errors: []
 ---
@@ -116,13 +136,13 @@ Numa coluna de vidro com 25 mm de diâmetro interior e 45 cm de altura, obturada
 
 Quadro n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/03/05400/03190320.pdf))](https://files.diariodarepublica.pt/1s/1968/03/05400/03190320.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/03/05400/03190320.pdf)
 
 6.º São considerados falsificados por alteração, prevista no n.º 3.º do artigo 17.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, os tipos de azeite e o óleo refinado de bagaço de azeitona, bem como a mistura de ambos quando os valores da absorvência máxima na gama da ordem de 270 nm ou os da respectiva variação ultrapassem os limites indicados no quadro seguinte:
 
 Quadro n.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/03/05400/03190320.pdf))](https://files.diariodarepublica.pt/1s/1968/03/05400/03190320.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/03/05400/03190320.pdf)
 
 7.º O resultado positivo do ensaio de Bellier-Carocci-Buzi, descrito na [Portaria n.º 19992](https://diariodarepublica.pt/dr/detalhe/portaria/19992-1963-693410), de 5 de Agosto de 1963, implica, para os tipos de azeite extra, fino, corrente e refinado, a infracção referida no n.º 5.º
 

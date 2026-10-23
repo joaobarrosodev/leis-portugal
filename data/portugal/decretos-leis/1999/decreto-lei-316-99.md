@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/186a00/52375238.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/316/1999/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1999-423059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:10:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da0ca77e081f95e75f40d053209c39260264a97af9642b5645c4fa75a3c720df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1839a0f9c7b4e25ab156f039531b4c3e08b9ae1ee3ae8b4511a20f05fe3f286f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Humanitária
-- Proteção Civil
-- Financiamento
-- Serviço Nacional de Protecção Civil
-- Conta Especial de Emergência
 - Catástrofe
+- Conta Especial de Emergência
+- Financiamento
+- Proteção Civil
+- Serviço Nacional de Protecção Civil
 relationships:
 - type: amended_by
   target: pt:dre:231117:por
@@ -80,16 +80,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/10/1992/04/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/10/1992/04/01/p/dre
+- type: cites
+  target: pt:dre:189078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218905:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:231117:por
+  label: "Revogado o Dec Lei 231/86 de 14-Ago e extinta a conta especial de emergência criada pelo mesmo, com a redacção do\
+    \ presente, pelo DEC LEI.49/2003.2003.03.25.MAI DR.IS-A [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2003-231117
+  date: '2003-03-25'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:10:16Z'
   warnings: []
   errors: []
 ---
@@ -130,12 +144,12 @@ O regime estabelecido pela nova redacção do n.º 2 do artigo 3.º do [Decreto-
 
 Visto e aprovado em Conselho de Ministros de 24 de Junho de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 26 de Julho de 1999.**
+Promulgado em 26 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Julho de 1999.**
+Referendado em 28 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

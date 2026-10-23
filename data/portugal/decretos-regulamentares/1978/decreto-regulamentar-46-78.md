@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 276/1978, 1º Suplemento, Série I de 1978-11-30
   number: '276'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2542-(1) a 2542-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/27601/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1978-223471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T05:59:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c6188ee699576e087e0bbd8eec7be343a2aa781d8acb86487675877ab9c1820
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1580dac1f690699d25d0d49f8d1fa3cb8179ffa03b869e3614b9e77a46bf6070
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:59:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Estatuto
+- Ifadap
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:165048:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447691:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:541441:por
+  label: "REVOGADO PELO DECRETO LEI 414/93 DE 23 DE DEZEMBRO, PUBLICADO NO DR.IS-A, 298, DE 931223.\0223.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/414-1993-541441
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:59:06Z'
   warnings: []
   errors: []
 ---
@@ -98,49 +114,49 @@ Assim, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constitui
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º Na prossecução dos seus objectivos, o IFADAP desenvolverá a sua actuação de acordo com programas ou projectos de desenvolvimento para os sectores da agricultura e das pescas, por forma a atingir os objectivos das políticas agrícola e das pescas, definidas pelo Ministério da Agricultura e Pescas, e a fim de promover o desenvolvimento continuado e global daqueles sectores.
+Artigo 1.º Na prossecução dos seus objectivos, o IFADAP desenvolverá a sua actuação de acordo com programas ou projectos de desenvolvimento para os sectores da agricultura e das pescas, por forma a atingir os objectivos das políticas agrícola e das pescas, definidas pelo Ministério da Agricultura e Pescas, e a fim de promover o desenvolvimento continuado e global daqueles sectores.
 
-###### Art. 2.º O Banco de Portugal, de acordo com a política global de crédito, proporcionará ao IFADAP os meios financeiros complementares que se mostrem necessários à prossecução dos objectivos do Instituto.
+Art. 2.º O Banco de Portugal, de acordo com a política global de crédito, proporcionará ao IFADAP os meios financeiros complementares que se mostrem necessários à prossecução dos objectivos do Instituto.
 
-###### Art. 3.º - 1 - Todas as propostas de refinanciamento de operações de crédito agrícola e às pescas deverão ser apresentadas ao IFADAP, no âmbito da sua competência específica.
+Art. 3.º - 1 - Todas as propostas de refinanciamento de operações de crédito agrícola e às pescas deverão ser apresentadas ao IFADAP, no âmbito da sua competência específica.
 
 2 - A data a partir da qual o disposto no número anterior entra em vigor será determinada em circular a emitir pelo Banco de Portugal.
 
-###### Art. 4.º Para supervisão pelo IFADAP da utilização do crédito à agricultura e às pescas que tenha sido objecto de proposta de refinanciamento, de proposta de pagamento de bonificação de juros ou de pedido de prestação de garantia pelo IFADAP, deverão as instituições de crédito proporcionar prontamente ao IFADAP, a solicitação deste, a consulta dos respectivos processos e habilitar o IFADAP com toda a documentação necessária àquela supervisão.
+Art. 4.º Para supervisão pelo IFADAP da utilização do crédito à agricultura e às pescas que tenha sido objecto de proposta de refinanciamento, de proposta de pagamento de bonificação de juros ou de pedido de prestação de garantia pelo IFADAP, deverão as instituições de crédito proporcionar prontamente ao IFADAP, a solicitação deste, a consulta dos respectivos processos e habilitar o IFADAP com toda a documentação necessária àquela supervisão.
 
 ### CAPÍTULO II — Comissão directiva
 
-###### Art. 5.º - 1 - Os membros da comisão directiva são nomeados e exonerados por despacho conjunto dos Ministros das Finanças e do Plano e da Agricultura e Pescas, por proposta do Banco de Portugal.
+Art. 5.º - 1 - Os membros da comisão directiva são nomeados e exonerados por despacho conjunto dos Ministros das Finanças e do Plano e da Agricultura e Pescas, por proposta do Banco de Portugal.
 
 2 - Os membros da comissão directiva serão nomeados por períodos de três anos renováveis e podem exercer as suas funções em regime de requisição ou comissão de serviço.
 
-###### Art. 6.º - 1 - Um dos membros deverá ser indicado no despacho de nomeação como presidente.
+Art. 6.º - 1 - Um dos membros deverá ser indicado no despacho de nomeação como presidente.
 
 2 - O presidente da comissão directiva é substituído nas suas faltas ou impedimentos pelo membro da comissão que designar ou, não fazendo essa designação, pelo membro mais antigo e em igualdade de circunstâncias pelo mais velho.
 
-###### Art. 7.º - 1 - Os membros da comissão directiva, mesmo findo o período do seu mandato, mantêm-se em exercício de funções até à posse de quem os deva substituir.
+Art. 7.º - 1 - Os membros da comissão directiva, mesmo findo o período do seu mandato, mantêm-se em exercício de funções até à posse de quem os deva substituir.
 
 2 - Em caso de falecimento ou de exoneração de qualquer dos membros será nomeado um substituto, o qual desempenhará as suas funções até ao termo do mandato dos restantes.
 
-###### Art. 8.º As remunerações dos membros da comissão directiva são fixadas por despacho conjunto dos Ministros das Finanças e do Plano e da Agricultura e Pescas, segundo as regras em vigor para a fixação das remunerações dos gestores públicos.
+Art. 8.º As remunerações dos membros da comissão directiva são fixadas por despacho conjunto dos Ministros das Finanças e do Plano e da Agricultura e Pescas, segundo as regras em vigor para a fixação das remunerações dos gestores públicos.
 
-###### Art. 9.º - 1 - A comissão directiva tem reuniões ordinárias e extraordinárias.
+Art. 9.º - 1 - A comissão directiva tem reuniões ordinárias e extraordinárias.
 
 2 - As reuniões ordinárias serão convocadas pelo presidente, terão lugar pelo menos mensalmente e, respeitando este limite, com a periodicidade, hora e local que forem determinados pela comissão directiva.
 
 3 - As reuniões extraordinárias terão lugar por convocação do presidente, por sua iniciativa ou a pedido de, pelo menos, dois dos outros membros.
 
-###### Art. 10.º - 1 - Para a comissão directiva poder deliberar é necessária a presença da maioria absoluta dos seus membros.
+Art. 10.º - 1 - Para a comissão directiva poder deliberar é necessária a presença da maioria absoluta dos seus membros.
 
 2 - As deliberações da comissão directiva são tomadas por maioria de votos dos membros presentes, tendo o presidente, ou quem o substitua, voto de qualidade.
 
-###### Art. 11.º Das reuniões lavrar-se-á acta, que deverá ser assinada por todos os presentes.
+Art. 11.º Das reuniões lavrar-se-á acta, que deverá ser assinada por todos os presentes.
 
-###### Art. 12.º - 1 - Os membros da comissão directiva que reputem ilegal qualquer deliberação devem comunicá-lo por escrito ao órgão de fiscalização.
+Art. 12.º - 1 - Os membros da comissão directiva que reputem ilegal qualquer deliberação devem comunicá-lo por escrito ao órgão de fiscalização.
 
 2 - A comunicação prevista no número anterior não suspende a execução da deliberação.
 
-###### Art. 13.º - 1 - À comissão directiva compete a prática de todos os actos necessários à prossecução dos fins do IFADAP, designadamente:
+Art. 13.º - 1 - À comissão directiva compete a prática de todos os actos necessários à prossecução dos fins do IFADAP, designadamente:
 
 a) Assegurar a gestão do património do Instituto, incluindo a aquisição, alienação e oneração de bens móveis e imóveis;
 
@@ -164,15 +180,15 @@ h) Decidir da orgânica e modo de funcionamento do Instituto e elaborar os regul
 
 ### CAPÍTULO III — Órgão de fiscalização
 
-###### Art. 14.º - 1 - A fiscalização do IFADAP será assegurada por uma sociedade de revisores oficiais de contas designada por despacho conjunto dos Ministros das Finanças e do Plano e da Agricultura e Pescas, por proposta do Banco de Portugal.
+Art. 14.º - 1 - A fiscalização do IFADAP será assegurada por uma sociedade de revisores oficiais de contas designada por despacho conjunto dos Ministros das Finanças e do Plano e da Agricultura e Pescas, por proposta do Banco de Portugal.
 
 2 - A sociedade de revisores oficiais de contas exerce as suas funções por períodos de três anos renováveis.
 
-###### Art. 15.º A sociedade de revisores oficiais de contas, mesmo findo o período do seu mandato, mantém-se em exercício de funções até à designação da que a leva substituir.
+Art. 15.º A sociedade de revisores oficiais de contas, mesmo findo o período do seu mandato, mantém-se em exercício de funções até à designação da que a leva substituir.
 
-###### Art. 16.º A sociedade de revisores oficiais de contas designada para órgão de fiscalização do IFADAP exercerá as suas funções nos termos de contrato de prestação de serviços celebrado com o Instituto.
+Art. 16.º A sociedade de revisores oficiais de contas designada para órgão de fiscalização do IFADAP exercerá as suas funções nos termos de contrato de prestação de serviços celebrado com o Instituto.
 
-###### Art. 17.º - 1 - Compete ao órgão de fiscalização:
+Art. 17.º - 1 - Compete ao órgão de fiscalização:
 
 a) Velar pelo cumprimento das leis e regulamentos que são aplicáveis no funcionamento do IFADAP;
 
@@ -188,7 +204,7 @@ e) Chamar a atenção da comissão directiva para qualquer assunto que entenda d
 
 ### CAPÍTULO IV — Acompanhamento da gestão e da fiscalização pelo Banco de Portugal
 
-###### Art. 18.º - 1 - Para o desempenho das funções que lhe são atribuídas nos termos dos artigos 2.º e 26.º do Estatuto, tem o conselho de administração do Banco de Portugal os poderes conferidos na lei e no Estatuto, nomeadamente:
+Art. 18.º - 1 - Para o desempenho das funções que lhe são atribuídas nos termos dos artigos 2.º e 26.º do Estatuto, tem o conselho de administração do Banco de Portugal os poderes conferidos na lei e no Estatuto, nomeadamente:
 
 a) Obter da comissão directiva as informações e documentos julgados úteis, o que deverá ser por esta satisfeito no mais curto espaço de tempo possível;
 
@@ -198,7 +214,7 @@ c) Dar instruções genéricas sobre as operações do Instituto, no âmbito da 
 
 2 - Sempre que considere necessário ao bom acompanhamento da gestão do Instituto o conselho de administração do Banco de Portugal proporá, para decisão pelos Ministros da Tutela, as acções que entender convenientes.
 
-###### Art. 19.º Para o desempenho das funções que lhe são atribuídas nos termos do artigo 26.º do Estatuto, compete ao conselho de auditoria do Banco de Portugal:
+Art. 19.º Para o desempenho das funções que lhe são atribuídas nos termos do artigo 26.º do Estatuto, compete ao conselho de auditoria do Banco de Portugal:
 
 a) Velar pelo cumprimento das normas disciplinadoras da fiscalização do IFADAP;
 
@@ -210,22 +226,22 @@ d) Dar conhecimento à comissão directiva do IFADAP e ao conselho de administra
 
 ### CAPÍTULO V — Do pessoal
 
-###### Art. 20.º - 1 - O pessoal do IFADAP fica sujeito ao regime jurídico do contrato individual de trabalho.
+Art. 20.º - 1 - O pessoal do IFADAP fica sujeito ao regime jurídico do contrato individual de trabalho.
 
 2 - O IFADAP poderá ser parte, subscrever ou aderir a instrumentos de regulamentação colectiva de trabalho do seu ramo de actividade principal, sem prejuízo das reservas que formular em razão das condições específicas da sua actividade, designadamente quanto à sua estrutura orgânica.
 
-###### Art. 21.º O pessoal requisitado nos termos do n.º 2 do artigo 32.º do Estatuto do IFADAP exercerá as suas funções no IFADAP por período correspondente ao da requisição, podendo optar entre o vencimento anteriormente auferido no seu quadro de origem e o vencimento correspondente às funções que vai desempenhar.
+Art. 21.º O pessoal requisitado nos termos do n.º 2 do artigo 32.º do Estatuto do IFADAP exercerá as suas funções no IFADAP por período correspondente ao da requisição, podendo optar entre o vencimento anteriormente auferido no seu quadro de origem e o vencimento correspondente às funções que vai desempenhar.
 
-###### Art. 22.º O regime de previdência do pessoal do IFADAP é o regime geral de previdência para os trabalhadores das empresas privadas, excepto nos casos em que o pessoal estava sujeito a um regime de direito administrativo ou especial de previdência e declare pretender continuar abrangido por esse regime.
+Art. 22.º O regime de previdência do pessoal do IFADAP é o regime geral de previdência para os trabalhadores das empresas privadas, excepto nos casos em que o pessoal estava sujeito a um regime de direito administrativo ou especial de previdência e declare pretender continuar abrangido por esse regime.
 
-###### Art. 23.º Todo o pessoal contratado pelo IFADAP antes da criação da respectiva estrutura orgânica deverá ser integrado nesta estrutura, logo que criada, sem perda de qualquer regalia ou prejuízo, nas condições contratualmente estabelecidas.
+Art. 23.º Todo o pessoal contratado pelo IFADAP antes da criação da respectiva estrutura orgânica deverá ser integrado nesta estrutura, logo que criada, sem perda de qualquer regalia ou prejuízo, nas condições contratualmente estabelecidas.
 
-###### Art. 24.º Todas as dúvidas que surgirem na aplicação do Estatuto do IFADAP ou dos seus regulamentos serão resolvidas por despacho conjunto dos Ministros das Finanças e do Plano e da Agricultura e Pescas.
+Art. 24.º Todas as dúvidas que surgirem na aplicação do Estatuto do IFADAP ou dos seus regulamentos serão resolvidas por despacho conjunto dos Ministros das Finanças e do Plano e da Agricultura e Pescas.
 
 Alfredo Jorge Nobre da Costa - José da Silva Lopes - Francisco de Paula Ferreira Moniz Borba.
 
-**Promulgado em 27 de Novembro de 1978.**
+Promulgado em 27 de Novembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

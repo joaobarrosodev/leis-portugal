@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/305/2003/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-2003-429177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdfc80a94e2d03274be49e993af1b74361d5c1e0fb0b911361e19e8e7a376c6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce216a1eca366b7c80d66acc86ea1b9659340949311f2efc62575edf2e9a6fe0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,20 @@ subjects:
 - Aquisição de Imóveis
 - Crédito à Habitação
 - Crédito Bonificado
-- Jovem
 - Habitação
+- Jovem
 relationships:
 - type: amended_by
   target: pt:dre:632448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Determinada a cessação, durante o ano de 2013, para os titulares de património financeiro superior a € 100 000,\
+    \ dos benefícios fiscais provenientes do regime de crédito à habitação bonificado previsto no Dec Lei 349/98 de 11-nov,\
+    \ alterado pelo presente diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1-a/2000/01/22/p/dre
   label: null
@@ -105,16 +112,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/32-b/2002/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/32-b/2002/12/30/p/dre
+- type: cites
+  target: pt:dre:234318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667938:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:01Z'
   warnings: []
   errors: []
 ---
@@ -145,12 +180,12 @@ O presente diploma entra em vigor em 1 de Janeiro de 2004.
 
 Visto e aprovado em Conselho de Ministros de 10 de Outubro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Pedro de Nobre Carmona Rodrigues.
 
-**Promulgado em 20 de Novembro de 2003.**
+Promulgado em 20 de Novembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Novembro de 2003.**
+Referendado em 24 de Novembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

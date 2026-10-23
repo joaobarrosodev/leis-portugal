@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/275/1997/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1997-667171
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 542c1f5764f89b3fd76d9fef181b10441c4a2dfe2d3d3404e78ac163dc105cd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a1e606b9268522aca6fce41ddfc29b5afebe1a6e26b8066d00fc7def7001fb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,14 +71,14 @@ subjects:
 - Aproximação das Legislações
 - Autoridade Sanitária Veterinária Nacional
 - Carne
-- Controlo Sanitário
-- Saúde Pública
-- Mercado Interno
 - Comércio
+- Controlo Sanitário
+- Mercado Interno
 - Produto Animal
+- Saúde Animal
+- Saúde Pública
 - Troca Intracomunitária
 - Veterinário
-- Saúde Animal
 relationships:
 - type: amended_by
   target: pt:dre:180602:por
@@ -99,13 +99,13 @@ relationships:
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:41Z'
   warnings: []
   errors: []
 ---
@@ -256,15 +256,15 @@ j) Submeter-se anualmente a entrevista profissional, a realizar perante a DRA, q
 
 Visto e aprovado em Conselho de Ministros de 17 de Julho de 1997. - António Manuel de Carvalho Ferreira Vitorino - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Promulgado em 25 de Agosto de 1997.**
+Promulgado em 25 de Agosto de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Agosto de 1997.**
+Referendado em 28 de Agosto de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — I - Legislação veterinária
 
@@ -326,4 +326,4 @@ II - Legislação zootécnica
 
 5 - Decreto-Lei n.º 226/92, de 21 de Outubro, e Portaria n.º 119/94, de 24 de Fevereiro - relativos às condições zootécnicas e genealógicas para a comercialização de animais de raça.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/233a00/54345438.pdf))](https://files.diariodarepublica.pt/1s/1997/10/233a00/54345438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/233a00/54345438.pdf)

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 297/1980, 5º Suplemento, Série I de 1980-12-26
   number: '297'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 4216-(59) a 4216-(60)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/29705/00590060.pdf
 entry_into_force_dates: []
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1094-d-1980-568098
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:10:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72541f63db0310461489fb8b31a4b15247c23445a7816f1a4e29a2717dfa9877
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8dd3a9aa65948950b9533ae1bd40b3ceb9e3af0115e6cfc32565e663e39c9f4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:10:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Artes de Pesca
+- Pesca
+- Pesca por ARTE de Arrasto
+- Regulamento
+- Regulamento da Pesca de Arrasto Costeira
 relationships:
 - type: amended_by
   target: pt:dre:454348:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:365284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683272:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:454348:por
+  label: Revogado, a partir de 01.01.1984, o n.º 5 e todas as disposições contrárias à Portaria n.º 826/83 - Diário da República
+    n.º 180/1983, Série I de 1983-08-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/826-1983-454348
+  date: '1983-08-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:10:00Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +129,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado das Pescas,
 
 1.º Os artigos 2.º, n.º 2, 27.º e 41.º do Regulamento da Pesca de Arrasto Costeira, aprovado pela Portaria 49/73, de 24 de Janeiro, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 2 - Quanto ao tipo de pescado capturado em maior abundância, os arrastões costeiros classificam-se em:
 
@@ -116,7 +139,7 @@ b) Arrastões de crustáceos.
 
 Para os efeitos do presente Regulamento entender-se-á por crustáceos as espécies vulgarmente designadas por camarões, gambas, carabineiros e lagostins, com excepção de lagostas, lavagantes e espécies semelhantes.
 
-###### Art. 27.º - 1 - ...
+Art. 27.º - 1 - ...
 
 2 - O Ministro da Agricultura e Pescas estabelecerá, por despacho, o número máximo de arrastões de crustáceos que podem exercer a sua actividade na plataforma continental portuguesa e, bem assim, a sua distribuição nas modalidades previstas no presente Regulamento.
 
@@ -124,7 +147,7 @@ Para os efeitos do presente Regulamento entender-se-á por crustáceos as espéc
 
 Tais autorizações permitirão o exercício desta modalidade de pesca, com redes de arrasto de malhagem não inferior a 60 mm, na parte do mar territorial limitada entre 6 e 12 milhas de distância às linhas de base utilizadas para a medição da sua largura e por fora do limite das 12 milhas, na subárea do continente, da zona económica exclusiva.
 
-###### Art. 41.º - 1 - ...
+Art. 41.º - 1 - ...
 
 2 - A pesca directa dos lagostins poderá ser realizada, com redes de malhagem não inferior a 60 mm, nos limites da plataforma continental, por fora da linha isobatimétrica das 200 braças (cerca de 365 m), sendo o número de arrastões que foram autorizados a exercê-la contado dentro do que for estabelecido pelo Ministro da Agricultura e Pescas, ao abrigo do disposto no n.º 3 do artigo 27.º deste Regulamento.
 

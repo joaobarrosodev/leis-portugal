@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 294/1994, 1º Suplemento, Série I-A de 1994-12-22
   number: '294'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7324-(6) a 7324-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/294a01/00060007.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/81-x/1994/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/81-x-1994-478821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:18:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe033acaadf116edbce4d1a8f86e1dbeb5012ba2f99f31fbcff78b5880c51300
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38619f490d308a17e81a0e40e932df04534567cc529c4c726ebaad027328aea8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:18:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,13 +73,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:18:47Z'
   warnings: []
   errors: []
 ---
@@ -88,16 +88,16 @@ validation:
 
 de 22 de Dezembro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea f), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea f), da Constituição, o seguinte:
 
 A pena acessória de expulsão do País aplicada a Maria Teresa Martins Batista, de 30 anos de idade, no processo n.º 238/92 do Tribunal de Círculo de Portimão é revogada, por indulto, por razões humanitárias.
 
-**Assinado em 22 de Dezembro de 1994.**
+Assinado em 22 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Dezembro de 1994.**
+Referendado em 22 de Dezembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

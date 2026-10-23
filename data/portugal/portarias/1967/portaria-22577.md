@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22577-1967-503407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:28:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96f57c10a5fab1999386224a232123dd0c649eef598e9e25d3fb818f4ec22d3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee9d8e524b0d475f896369c0a18cbe7c789f1550007388521533d5d011d61530
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512195:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:28:34Z'
   warnings: []
   errors: []
 ---
@@ -89,15 +109,15 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 2.º São alterados os artigos a seguir designados, conforme as seguintes redacções:
 
-###### Art. 2.º - 1. ...
+Art. 2.º - 1. ...
 
 2. O ciclo preparatório tem a duração de dois anos, é considerado equivalente ao do ensino industrial e comercial e as disciplinas e trabalhos que o constituem, assim como o número de horas semanalmente consignadas ao respectivo ensino, são as que constam do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/03/06400/02810286.pdf))](https://files.diariodarepublica.pt/1s/1967/03/06400/02810286.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/03/06400/02810286.pdf)
 
 3. O ciclo profissional tem a duração de dois anos e a sua constituição em disciplinas e trabalhos é a que consta do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/03/06400/02810286.pdf))](https://files.diariodarepublica.pt/1s/1967/03/06400/02810286.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/03/06400/02810286.pdf)
 
 4. ...
 
@@ -107,13 +127,13 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ...
 
-###### Art. 4.º - 1. Se o número de alunos que pretendam ingressar nas escolas de regentes agrícolas o justificar, poderá o governador da província autorizar que, paralelamente ao ciclo preparatório, seja organizado para esses alunos o ensino da disciplina de Francês.
+Art. 4.º - 1. Se o número de alunos que pretendam ingressar nas escolas de regentes agrícolas o justificar, poderá o governador da província autorizar que, paralelamente ao ciclo preparatório, seja organizado para esses alunos o ensino da disciplina de Francês.
 
 2. A matrícula na disciplina de Francês é facultada quer aos alunos do ciclo preparatório, quer aos do ciclo profissional.
 
 ...
 
-###### Art. 10.º - 1. ...
+Art. 10.º - 1. ...
 
 2. O director é escolhido pelo governador da província de entre os professores técnicos efectivos do ensino agrícola e exerce o cargo em comissão de serviço por tempo indeterminado, podendo, porém, o governador da província dá-la por finda em qualquer momento.
 
@@ -123,7 +143,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 5. ...
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 a) ...
 
@@ -177,13 +197,13 @@ z) ...
 
 ...
 
-###### Art. 13.º - 1. O professor-secretário é nomeado pelo governador da província de entre os professores do quadro da escola.
+Art. 13.º - 1. O professor-secretário é nomeado pelo governador da província de entre os professores do quadro da escola.
 
 2. O cargo de professor-secretário é de aceitação obrigatória e remunerado nos termos do n.º 3 do artigo 9.º do [Decreto n.º 46664](https://diariodarepublica.pt/dr/detalhe/decreto/46664-1965-512195), de 31 de Julho de 1965.
 
 ...
 
-###### Art. 22.º - 1. ...
+Art. 22.º - 1. ...
 
 2. ...
 
@@ -191,11 +211,11 @@ z) ...
 
 ...
 
-###### Art. 24.º O director da escola pode, quando não se conforme com qualquer deliberação do conselho escolar, não lhe dar cumprimento, levando o motivo da divergência ao conhecimento dos Serviços Provinciais de Educação, para que o assunto seja submetido a resolução superior.
+Art. 24.º O director da escola pode, quando não se conforme com qualquer deliberação do conselho escolar, não lhe dar cumprimento, levando o motivo da divergência ao conhecimento dos Serviços Provinciais de Educação, para que o assunto seja submetido a resolução superior.
 
 ...
 
-###### Art. 27.º - 1. As escolas são dotadas de autonomia administrativa e financeira, competindo a sua administração a um conselho constituído pelo director, pelo professor-secretário e por um vogal eleito pelo conselho escolar, que desempenhará as funções de tesoureiro.
+Art. 27.º - 1. As escolas são dotadas de autonomia administrativa e financeira, competindo a sua administração a um conselho constituído pelo director, pelo professor-secretário e por um vogal eleito pelo conselho escolar, que desempenhará as funções de tesoureiro.
 
 2. ...
 
@@ -203,7 +223,7 @@ z) ...
 
 ...
 
-###### Art. 30.º
+Art. 30.º
 
 a) ...
 
@@ -235,7 +255,7 @@ n) Fazer organizar no fim de cada ano económico a respectiva conta de gerência
 
 ...
 
-###### Art. 32.º - 1. ...
+Art. 32.º - 1. ...
 
 2. ...
 
@@ -245,7 +265,7 @@ n) Fazer organizar no fim de cada ano económico a respectiva conta de gerência
 
 5. ...
 
-###### Art. 33.º - 1. ...
+Art. 33.º - 1. ...
 
 2. ...
 
@@ -253,7 +273,7 @@ n) Fazer organizar no fim de cada ano económico a respectiva conta de gerência
 
 ...
 
-###### Art. 47.º - 1. Quando o movimento da biblioteca ou de qualquer das instalações o justifique, pode o professor encarregado da respectiva direcção ser coadjuvado por um auxiliar nomeado pelo governador da província, sob proposta do director, de entre os empregados menores da escola.
+Art. 47.º - 1. Quando o movimento da biblioteca ou de qualquer das instalações o justifique, pode o professor encarregado da respectiva direcção ser coadjuvado por um auxiliar nomeado pelo governador da província, sob proposta do director, de entre os empregados menores da escola.
 
 2. As nomeações são feitas por um ano, considerando-se renovadas enquanto não for determinado o contrário, e os auxiliares têm direito a gratificação, nos termos do n.º 3 do artigo 9.º do [Decreto n.º 46464](https://diariodarepublica.pt/dr/detalhe/decreto/46464-1965-292539), de 31 de Julho de 1965.
 
@@ -261,29 +281,29 @@ n) Fazer organizar no fim de cada ano económico a respectiva conta de gerência
 
 ...
 
-###### Art. 80.º Se, em consequência do serviço docente, for excedido para qualquer professor o número de horas semanais fixado pelo artigo 77.º, o excesso será considerado serviço extraordinário e, mediante prévia autorização do governador da província, remunerado com a gratificação mensal que for fixada, nos termos do n.º 3 do artigo 9.º do [Decreto n.º 46464](https://diariodarepublica.pt/dr/detalhe/decreto/46464-1965-292539), de 31 de Julho de 1965.
+Art. 80.º Se, em consequência do serviço docente, for excedido para qualquer professor o número de horas semanais fixado pelo artigo 77.º, o excesso será considerado serviço extraordinário e, mediante prévia autorização do governador da província, remunerado com a gratificação mensal que for fixada, nos termos do n.º 3 do artigo 9.º do [Decreto n.º 46464](https://diariodarepublica.pt/dr/detalhe/decreto/46464-1965-292539), de 31 de Julho de 1965.
 
 ...
 
-###### Art. 83.º O exercício de cargos não remunerados da Mocidade Portuguesa e a direcção efectiva das oficinas e das secções da exploração agro-pecuária, bem como qualquer actividade circum-escolar, poderá ser considerado serviço docente, até ao limite a fixar, em cada caso, por despacho do governador da província.
+Art. 83.º O exercício de cargos não remunerados da Mocidade Portuguesa e a direcção efectiva das oficinas e das secções da exploração agro-pecuária, bem como qualquer actividade circum-escolar, poderá ser considerado serviço docente, até ao limite a fixar, em cada caso, por despacho do governador da província.
 
 ...
 
-###### Art. 93.º Em matéria disciplinar, o pessoal docente e auxiliar de ensino está sujeito às disposições do Estatuto do Funcionalismo Ultramarino.
+Art. 93.º Em matéria disciplinar, o pessoal docente e auxiliar de ensino está sujeito às disposições do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 94.º - 1. Os quadros do pessoal docente e auxiliar de ensino, bem como os respectivos vencimentos, são, para cada categoria, os que constam do mapa anexo ao [Decreto n.º 46464](https://diariodarepublica.pt/dr/detalhe/decreto/46464-1965-292539), do 31 de Julho de 1965, e ao qual se refere o n.º 1 do artigo 9.º do mesmo diploma.
+Art. 94.º - 1. Os quadros do pessoal docente e auxiliar de ensino, bem como os respectivos vencimentos, são, para cada categoria, os que constam do mapa anexo ao [Decreto n.º 46464](https://diariodarepublica.pt/dr/detalhe/decreto/46464-1965-292539), do 31 de Julho de 1965, e ao qual se refere o n.º 1 do artigo 9.º do mesmo diploma.
 
 2. A remuneração dos professores de serviço eventual será feita nos termos do n.º 3 do artigo 10.º do Decreto a que se refere o número anterior.
 
 3. ...
 
-###### Art. 95.º - 1. O pessoal docente e auxiliar de ensino dos respectivos quadros das escolas tem direito ao aumento de vencimento por diuturnidade ao fim de dez e vinte anos de bom serviço, nos termos do artigo 13.º do [Decreto n.º 46464](https://diariodarepublica.pt/dr/detalhe/decreto/46464-1965-292539), de 31 de Julho de 1965.
+Art. 95.º - 1. O pessoal docente e auxiliar de ensino dos respectivos quadros das escolas tem direito ao aumento de vencimento por diuturnidade ao fim de dez e vinte anos de bom serviço, nos termos do artigo 13.º do [Decreto n.º 46464](https://diariodarepublica.pt/dr/detalhe/decreto/46464-1965-292539), de 31 de Julho de 1965.
 
 2. ...
 
 ...
 
-###### Art. 97.º Não será contado para qualquer efeito o tempo durante o qual os professores, regentes de trabalhos e técnicos auxiliares se encontrem em alguma das seguintes situações:
+Art. 97.º Não será contado para qualquer efeito o tempo durante o qual os professores, regentes de trabalhos e técnicos auxiliares se encontrem em alguma das seguintes situações:
 
 a) De licença sem vencimento;
 
@@ -291,11 +311,11 @@ b) De licença ilimitada;
 
 c) De assistido pela entidade a cujo cargo está a assistência aos funcionários civis tuberculosos.
 
-###### Art. 98.º - 1. Os funcionários dos quadros docentes das escolas práticas de agricultura podem, com prévia autorização do Ministro, ser colocados em comissão de serviço público, nos termos do [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.
+Art. 98.º - 1. Os funcionários dos quadros docentes das escolas práticas de agricultura podem, com prévia autorização do Ministro, ser colocados em comissão de serviço público, nos termos do [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.
 
 ...
 
-###### Art. 115.º É facultada a inscrição para matrícula no 1.º ano do ciclo profissional aos candidatos aprovados no exame final do ciclo preparatório das escolas práticas de agricultura e aos que, não tendo mais de 22 anos no dia 1 de Outubro do ano em que se inscreverem, possuam qualquer das seguintes habilitações:
+Art. 115.º É facultada a inscrição para matrícula no 1.º ano do ciclo profissional aos candidatos aprovados no exame final do ciclo preparatório das escolas práticas de agricultura e aos que, não tendo mais de 22 anos no dia 1 de Outubro do ano em que se inscreverem, possuam qualquer das seguintes habilitações:
 
 a) Curso das escolas elementares de agricultura;
 
@@ -303,7 +323,7 @@ b) Ciclo preparatório do ensino técnico profissional ou 1.º ciclo dos liceus;
 
 c) Aprovação em exame de admissão.
 
-###### Art. 116.º - 1. Para o efeito de inscrição para a matrícula, os candidatos apresentarão na escola, no prazo que em cada província vigorar para o ensino técnico profissional, os seguintes documentos:
+Art. 116.º - 1. Para o efeito de inscrição para a matrícula, os candidatos apresentarão na escola, no prazo que em cada província vigorar para o ensino técnico profissional, os seguintes documentos:
 
 a) Requerimento ao director, com a indicação do nome, filiação, naturalidade, morada, ano em que pretendem matricular-se e ainda nome e morada do encarregado da sua educação;
 
@@ -319,7 +339,7 @@ d) Certidão de idade.
 
 4. ...
 
-###### Art. 117.º - 1. ...
+Art. 117.º - 1. ...
 
 2. Caso não seja possível atender todos os pedidos, observar-se-á a seguinte ordem de preferência:
 
@@ -335,11 +355,11 @@ d) Candidatos à frequência do 1.º ano do ciclo preparatório, com idade legal
 
 ...
 
-###### Art. 119.º Encerrado o prazo de inscrição para a matrícula e até ao dia de abertura das aulas, inclusive, podem os directores, havendo vaga, autorizar a matrícula de candidatos não inscritos no prazo legal mediante o pagamento de propina suplementar a estabelecer pelo governador da província.
+Art. 119.º Encerrado o prazo de inscrição para a matrícula e até ao dia de abertura das aulas, inclusive, podem os directores, havendo vaga, autorizar a matrícula de candidatos não inscritos no prazo legal mediante o pagamento de propina suplementar a estabelecer pelo governador da província.
 
-###### Art. 120.º O exame de admissão a que se refere a alínea c) do artigo 115.º pode ser requerido pelo candidato que haja terminado com aprovação a instrução geral das escolas elementares de agricultura e por aqueles que, para tal efeito, se encontrem inscritos na escola nos termos do artigo seguinte.
+Art. 120.º O exame de admissão a que se refere a alínea c) do artigo 115.º pode ser requerido pelo candidato que haja terminado com aprovação a instrução geral das escolas elementares de agricultura e por aqueles que, para tal efeito, se encontrem inscritos na escola nos termos do artigo seguinte.
 
-###### Art. 121.º - 1. Os filhos de agricultores já aprovados no exame da classe da instrução primária o residentes em locais onde não lhes seja possível frequentar escolas elementares da agricultura ou outros estabelecimentos de ensino poderão receber, no mínimo de dois anos lectivos, o ensino preparatório para o exame de admissão às escolas práticas de agricultura, ministrado por professores de instrução primária ou outros indivíduos com habilitação considerada idónea.
+Art. 121.º - 1. Os filhos de agricultores já aprovados no exame da classe da instrução primária o residentes em locais onde não lhes seja possível frequentar escolas elementares da agricultura ou outros estabelecimentos de ensino poderão receber, no mínimo de dois anos lectivos, o ensino preparatório para o exame de admissão às escolas práticas de agricultura, ministrado por professores de instrução primária ou outros indivíduos com habilitação considerada idónea.
 
 2. ...
 
@@ -347,15 +367,15 @@ d) Candidatos à frequência do 1.º ano do ciclo preparatório, com idade legal
 
 ...
 
-###### Art. 123.º - 1. O requerimento para exame de admissão dos candidatos inscritos, cujo prazo de entrega decorre durante o da inscrição para as matrículas, trará aposto, a título de propina, um selo fiscal da importância que for fixada pelo governador da província e será acompanhado de documento, devidamente reconhecido, no qual a pessoa que haja ministrado o ensino declare sob sua honra considerar o candidato apto a apresentar-se a exame.
+Art. 123.º - 1. O requerimento para exame de admissão dos candidatos inscritos, cujo prazo de entrega decorre durante o da inscrição para as matrículas, trará aposto, a título de propina, um selo fiscal da importância que for fixada pelo governador da província e será acompanhado de documento, devidamente reconhecido, no qual a pessoa que haja ministrado o ensino declare sob sua honra considerar o candidato apto a apresentar-se a exame.
 
 2. Terminado o prazo referido no número anterior e até 48 horas antes do início das provas, podem ainda ser aceites requerimentos, que, nesse caso, trarão aposto um selo fiscal da taxa que virá a ser fixada pelo governador da província.
 
-###### Art. 124.º A falsidade de declarações prestadas nos termos da parte final do n.º 1 do artigo anterior importa procedimento judicial e, para os que forem funcionários públicos, também procedimento disciplinar.
+Art. 124.º A falsidade de declarações prestadas nos termos da parte final do n.º 1 do artigo anterior importa procedimento judicial e, para os que forem funcionários públicos, também procedimento disciplinar.
 
 ...
 
-###### Art. 126.º - 1. ...
+Art. 126.º - 1. ...
 
 2. ...
 
@@ -363,17 +383,17 @@ d) Candidatos à frequência do 1.º ano do ciclo preparatório, com idade legal
 
 4. As matérias versadas nos pontos e interrogatórios estarão obrigatòriamente compreendidas nos programas da instrução geral referidos na [Portaria n.º 21782](https://diariodarepublica.pt/dr/detalhe/portaria/21782-1966-233352), de 12 de Janeiro de 1966.
 
-###### Art. 127.º - 1. ...
+Art. 127.º - 1. ...
 
 2. Os professores deslocados para o serviço de exames serão abonados de despesas de transporte e subsídio diário.
 
 ...
 
-###### Art. 131.º A matrícula é encerrada três dias antes da abertura das aulas, salvo para os candidatos sujeitos a exame de admissão, se até essa data não se encontrarem publicados os resultados.
+Art. 131.º A matrícula é encerrada três dias antes da abertura das aulas, salvo para os candidatos sujeitos a exame de admissão, se até essa data não se encontrarem publicados os resultados.
 
 ...
 
-###### Art. 133.º - 1. Os alunos podem transferir a sua matrícula de uma para outra escola prática de agricultura durante os primeiros vinte dias de cada um dos dois primeiros períodos lectivos.
+Art. 133.º - 1. Os alunos podem transferir a sua matrícula de uma para outra escola prática de agricultura durante os primeiros vinte dias de cada um dos dois primeiros períodos lectivos.
 
 2. ...
 
@@ -381,11 +401,11 @@ d) Candidatos à frequência do 1.º ano do ciclo preparatório, com idade legal
 
 4. A assiduidade do aluno é registada, até à data da guia de transferência, pela escola que a passa e, pela escola para que é transferido, decorrido o tempo mínimo necessário para a deslocação.
 
-###### Art. 134.º - 1. As propinas de frequência de exame, os selos e pensões devidos pelos alunos são os que vierem a ser fixados pelo governador da província.
+Art. 134.º - 1. As propinas de frequência de exame, os selos e pensões devidos pelos alunos são os que vierem a ser fixados pelo governador da província.
 
 2. ...
 
-###### Art. 135.º - 1. ...
+Art. 135.º - 1. ...
 
 2. O pagamento das propinas de frequência é feito nas datas e prazos que vierem a ser fixados pelo governador da província.
 
@@ -397,7 +417,7 @@ d) Candidatos à frequência do 1.º ano do ciclo preparatório, com idade legal
 
 ...
 
-###### Art. 137.º - 1. Aos alunos que não paguem nos prazos fixados nos artigos anteriores alguma das prestações das propinas de frequência ou das pensões será, decorridos quinze dias, anulada a matrícula, após o que ficam impedidos de permanecer no internato e de frequentar a escola.
+Art. 137.º - 1. Aos alunos que não paguem nos prazos fixados nos artigos anteriores alguma das prestações das propinas de frequência ou das pensões será, decorridos quinze dias, anulada a matrícula, após o que ficam impedidos de permanecer no internato e de frequentar a escola.
 
 2. ...
 
@@ -407,17 +427,17 @@ d) Candidatos à frequência do 1.º ano do ciclo preparatório, com idade legal
 
 ...
 
-###### Art. 139.º O internato ou o semi-internato, desde o último dia do mês em que se encerrarem as aulas até ao primeiro dia do mês da sua reabertura, será pago por dia, na proporção da respectiva pensão mensal.
+Art. 139.º O internato ou o semi-internato, desde o último dia do mês em que se encerrarem as aulas até ao primeiro dia do mês da sua reabertura, será pago por dia, na proporção da respectiva pensão mensal.
 
 ...
 
-###### Art. 151.º - 1. Aos alunos das escolas práticas de agricultura podem ser conferidos prémios pecuniários, instituídos por legados ou ofertas, ficando a instituição dependente de autorização do governador da província, a qual deverá ser comunicada ao director-geral do Ensino.
+Art. 151.º - 1. Aos alunos das escolas práticas de agricultura podem ser conferidos prémios pecuniários, instituídos por legados ou ofertas, ficando a instituição dependente de autorização do governador da província, a qual deverá ser comunicada ao director-geral do Ensino.
 
 2. ...
 
 ...
 
-###### Art. 153.º - 1. O ano escolar e o ano lectivo são os que, em cada província, vigorarem para as demais escolas do ensino profissional.
+Art. 153.º - 1. O ano escolar e o ano lectivo são os que, em cada província, vigorarem para as demais escolas do ensino profissional.
 
 2. São de férias os dias que, em cada província, assim forem considerados no respectivo calendário escolar.
 
@@ -427,13 +447,13 @@ d) Candidatos à frequência do 1.º ano do ciclo preparatório, com idade legal
 
 5. ...
 
-###### Art. 154.º - 1. ...
+Art. 154.º - 1. ...
 
 2. ...
 
 3. Nos primeiros quinze dias do ano lectivo será enviado aos Serviços Provinciais de Educação o mapa de distribuição do serviço docente.
 
-###### Art. 155.º - 1. ...
+Art. 155.º - 1. ...
 
 a) ...
 
@@ -451,11 +471,11 @@ f) ...
 
 ...
 
-###### Art. 168.º Serão dispensados pelo governador da província da disciplina da Religião e Moral os alunos cujos pais declarem pretender que eles não sejam educados segundo a religião católica.
+Art. 168.º Serão dispensados pelo governador da província da disciplina da Religião e Moral os alunos cujos pais declarem pretender que eles não sejam educados segundo a religião católica.
 
 ...
 
-###### Art. 170.º - 1. ...
+Art. 170.º - 1. ...
 
 2. ...
 
@@ -467,7 +487,7 @@ f) ...
 
 ...
 
-###### Art. 189.º - 1. ...
+Art. 189.º - 1. ...
 
 2. ...
 
@@ -483,15 +503,15 @@ f) ...
 
 ...
 
-###### Art. 210.º - 1. Os candidatos que, por motivo justificado, faltarem, na época normal, a qualquer prova de exame têm direito a prestá-la em segunda chamada, desde que o requeiram até à véspera do dia designado para a sua realização e paguem a propina especial que, por cada disciplina, vier a ser fixada pelo governador da província.
+Art. 210.º - 1. Os candidatos que, por motivo justificado, faltarem, na época normal, a qualquer prova de exame têm direito a prestá-la em segunda chamada, desde que o requeiram até à véspera do dia designado para a sua realização e paguem a propina especial que, por cada disciplina, vier a ser fixada pelo governador da província.
 
 2. ...
 
 ...
 
-###### Art. 217.º Em casos excepcionais, designadamente quando o tirocínio se realize nas ilhas adjacentes, em províncias metropolitanas ou em província ultramarina que não seja aquela em que a escola se situa, pode o governador da província dispensar os alunos da prestação da prova a que se refere o n.º 1 do artigo anterior, sendo, nesses casos, o tirocínio classificado sòmente com base nos relatórios dos alunos e nas informações dos seus dirigentes.
+Art. 217.º Em casos excepcionais, designadamente quando o tirocínio se realize nas ilhas adjacentes, em províncias metropolitanas ou em província ultramarina que não seja aquela em que a escola se situa, pode o governador da província dispensar os alunos da prestação da prova a que se refere o n.º 1 do artigo anterior, sendo, nesses casos, o tirocínio classificado sòmente com base nos relatórios dos alunos e nas informações dos seus dirigentes.
 
-###### Art. 218.º - 1. ...
+Art. 218.º - 1. ...
 
 2. Os diplomas levarão, colados e inutilizados com a assinatura do director, selos fiscais na importância fixada pelo governador da província.
 
@@ -499,11 +519,11 @@ f) ...
 
 ...
 
-###### Art. 220.º No caso de extravio de diploma, pode o governador da província, a requerimento do interessado, autorizar que lhe seja passada uma segunda via, do que se lavrará novo registo, sendo devido o dobro do selo legalmente fixado para o original.
+Art. 220.º No caso de extravio de diploma, pode o governador da província, a requerimento do interessado, autorizar que lhe seja passada uma segunda via, do que se lavrará novo registo, sendo devido o dobro do selo legalmente fixado para o original.
 
 ...
 
-###### Art. 222.º - 1. Os alunos internos são obrigados a apresentar o enxoval mínimo que, sob proposta do conselho escolar, for aprovado pelo governador da província, o qual compreenderá obrigatòriamente o necessário para que se mantenham sempre limpos e decentemente vestidos.
+Art. 222.º - 1. Os alunos internos são obrigados a apresentar o enxoval mínimo que, sob proposta do conselho escolar, for aprovado pelo governador da província, o qual compreenderá obrigatòriamente o necessário para que se mantenham sempre limpos e decentemente vestidos.
 
 2. ...
 
@@ -515,25 +535,25 @@ f) ...
 
 ...
 
-###### Art. 237.º - 1. ...
+Art. 237.º - 1. ...
 
 2. Haverá em cada escola um enfermeiro e um auxiliar de enfermagem, destacados dos quadros privativos dos Serviços Provinciais de Saúde.
 
-###### Art. 238.º - 1. As disposições do presente diploma relativas ao internato serão completadas pelo regulamento especial de cada escola, que carecerá de aprovação do governador da província.
+Art. 238.º - 1. As disposições do presente diploma relativas ao internato serão completadas pelo regulamento especial de cada escola, que carecerá de aprovação do governador da província.
 
 2. A elaboração do projecto do regulamento é da iniciativa do director, que o submeterá à apreciação do conselho escolar e o enviará aos Serviços Provinciais de Educação dentro dos 60 dias subsequentes à entrada em vigor do presente diploma, ou, para o caso de escolas ainda não criadas à data da publicação da presente portaria, nos 90 dias seguintes ao da posse do primeiro director.
 
-###### Art. 239.º - 1. ...
+Art. 239.º - 1. ...
 
 2. O quadro do pessoal administrativo de cada escola é, nos termos do n.º 1 do artigo 9.º do [Decreto n.º 46464](https://diariodarepublica.pt/dr/detalhe/decreto/46464-1965-292539), de 31 de Julho de 1965, o que consta do mapa anexo a esse diploma.
 
 ...
 
-###### Art. 245.º - 1. O terceiro-oficial e o dactilógrafo coadjuvarão o chefe da secretaria e o tesoureiro segundo a distribuição de serviço que for determinada, cumprindo-lhes executar com lealdade e diligência as instruções recebidas.
+Art. 245.º - 1. O terceiro-oficial e o dactilógrafo coadjuvarão o chefe da secretaria e o tesoureiro segundo a distribuição de serviço que for determinada, cumprindo-lhes executar com lealdade e diligência as instruções recebidas.
 
 2. ...
 
-###### Art. 246.º ...
+Art. 246.º ...
 
 a) ...
 
@@ -545,7 +565,7 @@ d) ...
 
 ...
 
-###### Art. 248.º Quanto a faltas, licenças e acção disciplinar, o pessoal da secretaria das escolas está sujeito ao regime fixado no [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966 (Estatuto do Funcionalismo Ultramarino).
+Art. 248.º Quanto a faltas, licenças e acção disciplinar, o pessoal da secretaria das escolas está sujeito ao regime fixado no [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966 (Estatuto do Funcionalismo Ultramarino).
 
 3.º Deverão ser definidas por portaria do governador da província todas as disposições relativas aos artigos 249.º a 273.º, devendo ser tomado em consideração que o pessoal administrativo será destacado do quadro burocrático dos Serviços Provinciais de Educação, conforme se preceitua no mapa anexo ao [Decreto n.º 46464](https://diariodarepublica.pt/dr/detalhe/decreto/46464-1965-292539), de 31 de Julho de 1965.
 

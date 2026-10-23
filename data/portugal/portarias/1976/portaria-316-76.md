@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/12100/11621162.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/316-1976-426924
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T05:01:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbbbe7098c66e34c87ce854535dd094d0ba57d78d481c442ebedee8bbdeacad0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a6d284d2a27e48933616736c9f482ebea463dcbaf42d6036d888bdfaf505f48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:01:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Estatuto do Oficial da Armada
+- Forças Armadas
+- Marinha
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:487748:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogada pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:01:35Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +112,7 @@ Ao abrigo do disposto no artigo 247.º do Estatuto do Oficial da Armada, aprovad
 
 Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, que o artigo 41.º do referido Estatuto passe a ter a seguinte redacção:
 
-###### Art. 41.º Os candidatos que satisfaçam à condição indicada na alínea d) do artigo 38.º serão admitidos à prestação de provas perante um júri para esse fim designado.
+Art. 41.º Os candidatos que satisfaçam à condição indicada na alínea d) do artigo 38.º serão admitidos à prestação de provas perante um júri para esse fim designado.
 
 § 1.º São fixadas em portaria a composição do júri referido no corpo deste artigo, as provas a prestar pelos candidatos, a maneira como são classificados e as condições de preferência em igualdade de classificações.
 

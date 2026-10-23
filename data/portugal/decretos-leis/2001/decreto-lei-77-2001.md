@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/77/2001/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2001-371212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T02:30:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 522f4118e2c838eb4ef5e4d1d3ead6807d690c3758e6638dcb90261d20a8470f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b8b56b790e736e0b6b1d8dc4100f870b122c8ad45c837c35f1bb0e375b134c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:30:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,91 +68,102 @@ subjects:
 - Acidente de Trabalho
 - Administração Financeira do Estado
 - Administração Fiscal
+- Administração Pública
 - Admissão de Pessoal
 - ADSE
+- Agência Portuguesa de Apoio ao Desenvolvimento
 - Ajuste Direto
 - Alienação de Imóveis
 - Alteração Orçamental
 - Aquisição de Bens e Serviços
 - Autonomia Administrativa
 - Autorização de Despesas
-- Financiamento
-- Ministério da Defesa Nacional
-- Ministério da Administração Interna
-- Gestão Financeira
-- Radioprotecção
 - Concurso
-- Direcção Geral do Tesouro
-- Ministério da Educação
-- IPDT
 - Conta Especial de Emergência
-- EURO
-- Política de Cooperação
-- Segurança Interna
-- Timor Leste
+- Contabilidade Pública
 - Dação em Cumprimento
 - Despesas Públicas
+- Direção Geral do Orçamento
 - Direcção Escolar
-- Instituto de Gestão do Crédito Público
+- Direcção Geral do Tesouro
+- Doença Profissional
 - Dotação Orçamental
 - Duodécimo
-- Administração Pública
-- Sistema Retributivo
+- Ensino Básico
+- Equipamento Informático
+- EURO
 - Execução do Orçamento
+- Financiamento
+- Funcionário Público
 - Fundo de Maneio
-- Recrutamento de Pessoal
+- Gestão Financeira
 - Gestão Orçamental
-- Ministério da Justiça
-- IRS
 - Indep
+- Instituto de Gestão do Crédito Público
 - Instituto de Gestão Financeira da Segurança Social
 - Instituto Politécnico
 - Instituto Tecnológico e Nuclear
+- IPDT
+- IRS
 - Jardim de Infância
-- Tribunal de Contas
-- Veículo
 - Locação Financeira
-- Direção Geral do Orçamento
+- Ministério da Administração Interna
+- Ministério da Defesa Nacional
+- Ministério da Educação
+- Ministério da Justiça
+- Ministério dos Negócios Estrangeiros
 - Missão de PAZ
 - Missão Humanitária
-- Orçamento Geral do Estado
 - Oficial dos Registos e do Notariado
-- Equipamento Informático
+- Orçamento Geral do Estado
 - Organismo Autónomo
-- Doença Profissional
-- Sistema de Informação
+- OSCE
 - Pessoal Docente
-- Ensino Básico
+- Política de Cooperação
 - Quadro de Excedentes
 - Quadro de Pessoal
+- Radioprotecção
+- Recrutamento de Pessoal
 - Remuneração
 - Reposição de Verbas
-- OSCE
 - Retenção na Fonte
-- Ministério dos Negócios Estrangeiros
-- Funcionário Público
-- Contabilidade Pública
+- Segurança Interna
+- Sistema de Informação
+- Sistema Retributivo
+- Timor Leste
+- Tribunal de Contas
+- Veículo
 - Visto do Tribunal de Contas
-- Agência Portuguesa de Apoio ao Desenvolvimento
 relationships:
 - type: amended_by
   target: pt:dre:276450:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:276450:por
+  label: "Alterado o art. 13º do Dec Lei 404-A/98 de 18-Dez, com a redacção do presente diploma, pelo DEC LEI.23/2002.2002.02.01.MF\
+    \ DR.IS-A [27]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2002-276450
+  date: '2002-02-01'
 - type: cites
   target: celex:31993R3605
   label: null
   source: http://data.europa.eu/eli/reg/1993/3605/oj
+- type: corrected_by
+  target: pt:dre:438212:por
+  label: "Rectificado pela DECL-RECT.11-A/2001.2001.05.04.PCM DR.IS-A [103]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-a-2001-438212
+  date: '2001-05-04'
 article_structure:
   article_count: 52
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:30:12Z'
   warnings: []
   errors: []
 ---
@@ -673,12 +684,12 @@ O presente diploma produz efeitos desde 1 de Janeiro de 2001.
 
 Visto e aprovado em Conselho de Ministros de 11 de Janeiro de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Luís Manuel Ferreira Parreirão Gonçalves - Guilherme d'Oliveira Martins - Júlio de Lemos de Castro Caldas - José Carlos das Dores Zorrinho - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Mário Cristina de Sousa - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos - Augusto Ernesto Santos Silva - José Miguel Marques Boquinhas - Rui Nobre Gonçalves - José Estêvão Cangarato Sasportes - José Mariano Rebelo Pires Gago - Alexandre António Cantigas Rosa - Luís Miguel de Oliveira Fontes.
 
-**Promulgado em 15 de Fevereiro de 2001.**
+Promulgado em 15 de Fevereiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Fevereiro de 2001.**
+Referendado em 22 de Fevereiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

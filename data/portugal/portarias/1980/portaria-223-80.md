@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/10400/08650867.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/223-1980-475126
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b320920e19030ba3da114a883a15f051a98cf2910243ec15157f20969f6a362
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47e2b8616497cd282516a1284fb57a3c9fe2572a5dd440fb6a28be2297e6643e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto do Oficial da Armada
+- Forças Armadas
+- Marinha
 relationships:
 - type: amended_by
   target: pt:dre:396311:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:400210:por
+  label: "Alterado o art. 131.º do Estatuto aprovado pelo Decreto 46960, de 14-Abr 1966, na redacção do presente diploma,\
+    \ pelo DEC LEI.340/84.22.10.1984.MDN, DR.IS [245] de 22.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/340-1984-400210
+  date: '1984-10-22'
+- type: amended_by
+  target: pt:dre:396311:por
+  label: "Substituídos os limites de idade das classes de médicos navais e farmacêuticos navais incluídos nos mapas 1 e 4\
+    \ do Estatuto do Oficial da Armada, aprovado pelo Dec 46960, de 14-Abr, com a redacção constante do presente diploma,\
+    \ pela PORT.940/84.19.12.1984.MDN, DR.IS [292] de 19.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/940-1984-396311
+  date: '1984-12-19'
+- type: cites
+  target: pt:dre:487748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679423:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELO DECRETO-LEI NUMERO 34-A/90, PUBLICADO NO DIARIO DA REPUBLIVA, I SERIE, NUMERO 20, SUPLEMENTO, DE 24/1/90.\
+    \ \0. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1990-01-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:42Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +125,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo
 
 1.º O artigo 58.º, o § único do artigo 87.º e as alíneas a) e b) do artigo 131.º do EOA passam a ter as seguintes redacções:
 
-###### Art. 58.º O ingresso na classe dos músicos do quadro de oficiais do activo realiza-se no posto de subtenente, por concurso, entre os sargentos-mores, sargentos-chefes, sargentos-ajudantes e primeiros-sargentos músicos da Armada que satisfaçam às seguintes condições:
+Art. 58.º O ingresso na classe dos músicos do quadro de oficiais do activo realiza-se no posto de subtenente, por concurso, entre os sargentos-mores, sargentos-chefes, sargentos-ajudantes e primeiros-sargentos músicos da Armada que satisfaçam às seguintes condições:
 
 a) Bom comportamento moral e civil;
 
@@ -111,7 +141,7 @@ c) Idade superior a 32 anos e inferior a 56 anos.
 
 § 4.º Por despacho do Chefe do Estado-Maior da Armada serão fixadas as normas que regulam os concursos referidos nos parágrafos anteriores e, bem assim, outras condições a que deverão satisfazer os concorrentes.
 
-###### Art. 87.º ...
+Art. 87.º ...
 
 a) ...
 
@@ -121,7 +151,7 @@ c) ...
 
 § único. Aos oficiais oriundos de sargentos e de praças, pertencentes às classes de oficiais técnicos, do serviço especial ou dos músicos, pode ser concedida autorização de passagem ao quadro de oficiais da reserva da Armada sem direito a pensão desde que tenham prestado, pelo menos, oito anos de serviço efectivo na Armada.
 
-###### Art. 131.º ...
+Art. 131.º ...
 
 a) Na promoção a segundo-tenente dos guardas-marinhas e subtenentes das classes de marinha, engenheiros maquinistas navais, administração naval, oficiais técnicos, serviço especial e músicos, quando completem um ano de permanência no posto;
 
@@ -133,9 +163,9 @@ c) ...
 
 2.º No quadro do artigo 11.º do EOA é aditado um n.º 11, a que correspondem a classe, abreviaturas, letras designativas e postos seguintes:
 
-###### Art. 11.º ...
+Art. 11.º ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/10400/08650867.pdf))](https://files.diariodarepublica.pt/1s/1980/05/10400/08650867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/10400/08650867.pdf)
 
 § 1.º ...
 
@@ -143,7 +173,7 @@ c) ...
 
 3.º É acrescentada uma alínea l) ao artigo 25.º do EOA, com a seguinte redacção:
 
-###### Art. 25.º ...
+Art. 25.º ...
 
 a) ...
 
@@ -163,12 +193,12 @@ MAPA N.º 1
 
 Limites de idade para passagem ao quadro de oficiais da reserva da Armada com direito a pensão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/10400/08650867.pdf))](https://files.diariodarepublica.pt/1s/1980/05/10400/08650867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/10400/08650867.pdf)
 
 MAPA N.º 3
 
 (A que se refere o § único do artigo 146.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/10400/08650867.pdf))](https://files.diariodarepublica.pt/1s/1980/05/10400/08650867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/10400/08650867.pdf)
 
 Estado-Maior da Armada, 10 de Abril de 1980. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante.

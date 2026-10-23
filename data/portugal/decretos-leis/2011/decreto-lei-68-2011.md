@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/68/2011/06/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2011-670050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b00a9100f9ec4ae30e7bdc1e1c318cf94c5e1b3983cc7879276a2f9077a0640
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6800a0491fec78918631fa602d1c6947833817e7da81078354bf9301a1b5f73e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Acumulação de Pensões e Remunerações
 - Aposentação
+- Deficiente
 - Deficiente das Forças Armadas
 - Estatuto da Aposentação
 - Pensão de Aposentação
@@ -87,16 +87,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/89/2010/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/89/2010/07/21/p/dre
+- type: cites
+  target: pt:dre:306615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:43Z'
   warnings: []
   errors: []
 ---
@@ -125,12 +149,12 @@ As limitações ao exercício de funções públicas e à cumulação de pensão
 
 Visto e aprovado em Conselho de Ministros de 31 de Março de 2011. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Augusto Ernesto Santos Silva.
 
-**Promulgado em 18 de Maio de 2011.**
+Promulgado em 18 de Maio de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de Maio de 2011.**
+Referendado em 19 de Maio de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

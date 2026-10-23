@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/271/1997/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1997-663879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df742e914f40ff7cc21c8129371ef9b0bd2c59e7b97cacc850eb1f1822c77d23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 152df18b71420c5b07dd365458848a9e69d4c0502c5b15f1c60de4ef5177d2dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,24 @@ subjects:
 - Enfermagem
 - Ensino Cooperativo
 - Ensino Particular
+- Ensino Superior
 - Ensino Superior Politécnico
 - Escola de Enfermagem
 - Escola Superior de Enfermagem JEAN Piaget
-- Interesse Público
 - Estabelecimento de Ensino
-- Ensino Superior
+- Interesse Público
 - Viseu
 relationships:
 - type: amended_by
   target: pt:dre:1095309146:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:645496:por
+  label: "Alterada a denominação da Escola Superior de Enfermagem Jean Piaget de Viseu, reconhecida de interesse público pelo\
+    \ presente diploma, pelo DEC.33/2002.2002.10.03.MCES, DR.IS-B [229]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/33-2002-645496
+  date: '2002-10-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -89,16 +95,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:35Z'
   warnings: []
   errors: []
 ---
@@ -149,12 +163,12 @@ O reconhecimento a que se refere o presente diploma produz efeitos a partir do a
 
 Visto e aprovado em Conselho de Ministros de 4 de Setembro de 1997. - António Manuel de Oliveira Guterres - Eduardo Carrega Marçal Grilo.
 
-**Promulgado em 19 de Setembro de 1997.**
+Promulgado em 19 de Setembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Setembro de 1997.**
+Referendado em 24 de Setembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

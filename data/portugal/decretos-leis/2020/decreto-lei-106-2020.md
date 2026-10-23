@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/24800/0001000025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106/2020/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2020-152015941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c154bcd42a8f494be4b5af4f819743d8f980fc0416dd0ddf619e341cf25d0dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 336564216a65d729626660a4c13f7f82c422bfe3a5196ea097956fbf5703060b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Atividade Seguradora
-- Contrato de Seguro
-- Reino Unido
-- Valores Mobiliários
-- Moeda Eletrónica
-- Código dos Valores Mobiliários
-- Supervisão Financeira
-- Definição de Competências
-- União Europeia
-- Fiscalização
-- Banco de Portugal
-- Seguro
-- Banca
 - Atividade Bancária
+- Atividade Seguradora
+- Autoridade de Supervisão de Seguros e Fundos de Pensões
+- Banca
+- Banco de Portugal
+- CMVM
+- Código dos Valores Mobiliários
+- Companhia de Seguros
+- Contrato de Seguro
+- Definição de Competências
+- Fiscalização
+- Instituição Financeira
 - Investimento
 - Mercado de Valores
 - Mercado Financeiro
+- Moeda Eletrónica
 - Organismo de Investimento Colectivo
+- Reino Unido
 - Resseguro
 - Sede
-- Companhia de Seguros
-- CMVM
-- Instituição Financeira
+- Seguro
 - Sociedade de Investimento
-- Autoridade de Supervisão de Seguros e Fundos de Pensões
+- Supervisão Financeira
+- União Europeia
+- Valores Mobiliários
 relationships:
 - type: cites
   target: celex:32009L0138
@@ -116,16 +116,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16/2015/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16/2015/02/24/p/dre
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66581992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70237675:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:37Z'
   warnings: []
   errors: []
 ---
@@ -300,21 +324,21 @@ b) De serviços de pagamento e de emissão de moeda eletrónica por instituiçõ
 
 Visto e aprovado em Conselho de Ministros de 10 de dezembro de 2020. - Pedro Gramaxo de Carvalho Siza Vieira - Augusto Ernesto Santos Silva - João Rodrigo Reis Carvalho Leão.
 
-**Promulgado em 17 de dezembro de 2020.**
+Promulgado em 17 de dezembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de dezembro de 2020.**
+Referendado em 18 de dezembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 3.º)
 
 Formulário relativo à notificação para a prestação de serviços e atividades de investimento e serviços auxiliares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24800/0001000025.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24800/0001000025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24800/0001000025.pdf)
 
 A instituição de crédito ou empresa de investimento remete os elementos previstos no presente anexo para o endereço de correio eletrónico brexit@cmvm.pt. A firma, morada e o tipo de atividades e serviços a que a entidade se encontra habilitada a exercer ao abrigo do presente regime serão divulgados no sítio na Internet da Comissão do Mercado de Valores Mobiliários.
 
@@ -326,7 +350,7 @@ Assinatura e função | Signature and job title:
 
 Formulário relativo à notificação para a prestação de serviços relativos a OIC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24800/0001000025.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24800/0001000025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24800/0001000025.pdf)
 
 No caso de entidade gestora de OIA, identificar OIA geridos em Portugal | If AIFM, AIFS managed in Portugal:
 
@@ -340,7 +364,7 @@ Assinatura e função | Signature and job title:
 
 Formulário relativo à notificação para a comercialização de organismos de investimento coletivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24800/0001000025.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24800/0001000025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24800/0001000025.pdf)
 
 A entidade gestora remete os elementos previstos no presente anexo para o endereço de correio eletrónico brexit@cmvm.pt. A firma da entidade gestora, denominação dos organismos de investimento coletivo, respetivo compartimento(s) e classe(s) serão divulgados no sítio na Internet da Comissão do Mercado de Valores Mobiliários.
 
@@ -352,7 +376,7 @@ Assinatura e função | Signature and job title:
 
 Formulário para a prestação de informação sobre os contratos de seguro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24800/0001000025.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24800/0001000025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24800/0001000025.pdf)
 
 ## ANEXO V — (a que se refere o n.º 1 do artigo 15.º)
 
@@ -360,8 +384,10 @@ Formulário para a comunicação de notificação
 
 A notificação referida no artigo 16.º deve ser transmitida por correio eletrónico para o endereço «brexit.notificacoes@bportugal.pt» em ficheiro zip encriptado com password, seguindo a respetiva password de acesso para o mesmo endereço eletrónico, por mensagem de correio eletrónico enviada separadamente e em momento temporalmente distinto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24800/0001000025.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24800/0001000025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24800/0001000025.pdf)
 
 Data | Date:
 
 Assinatura e função | Signature and job title:
+
+113830397

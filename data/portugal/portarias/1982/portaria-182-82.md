@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/182-1982-600342
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T07:10:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59ca8d84e12ea4ccb39ec0fea07f473345bd184db29637390821d2ceaa1bc106
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb9332ec820d0e5909ce868a030db625fee8bb83c68f1d40c701c1d7966fc1bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:10:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Direcção Geral das Relações Colectivas de Trabalho
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:326148:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:326148:por
+  label: "Alterado o quadro de pessoal, criado pelo Dec Lei 47/78, de 21-Mar, na redacção dada pelo presente diploma e pelas\
+    \ Port. 710/79, de 29-Dez, 90-A/80, de 06-Mar, 73/81, de 17-Jan, pela PORT.130/85.1985.03.08.PCM, DR.IS [56]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/130-1985-326148
+  date: '1985-03-08'
+- type: cites
+  target: pt:dre:365767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:10:21Z'
   warnings: []
   errors: []
 ---

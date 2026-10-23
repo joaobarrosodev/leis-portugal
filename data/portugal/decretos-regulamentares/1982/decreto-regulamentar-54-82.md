@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/54-1982-396558
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:05:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b5db9f5c9fedfbb9b976a7b761e94248216e041bac12f621bbd0ae9aa9fe9e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d271222424a89af356670aef2abd4a152afe60f19959c1313fcda29ad2678027
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:05:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Zona Tributária Privilegiada
 relationships:
 - type: amended_by
   target: pt:dre:634689:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601113:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:05:42Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +108,7 @@ A coadunação antecipada, na perspectiva da próxima adesão de Portugal às co
 
 E em cumprimento do disposto no artigo 3.º do [Decreto-Lei n.º 34/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1982-601113), de 4 de Fevereiro, ouvido o Governo Regional dos Açores, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Entende-se por zona franca um enclave territorial onde as mercadorias que nele se encontrem são consideradas como não estando no território aduaneiro para o efeito da aplicação de direitos aduaneiros, de restrições quantitativas e de demais imposições ou medidas de efeito equivalente, sem prejuízo da aplicação de disposições que venham a ser tomadas em casos excepcionais.
+Artigo 1.º - 1 - Entende-se por zona franca um enclave territorial onde as mercadorias que nele se encontrem são consideradas como não estando no território aduaneiro para o efeito da aplicação de direitos aduaneiros, de restrições quantitativas e de demais imposições ou medidas de efeito equivalente, sem prejuízo da aplicação de disposições que venham a ser tomadas em casos excepcionais.
 
 2 - A zona será exteriormente resguardada por uma vedação, em conformidade com o artigo 144.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, fazendo-se todo o movimento de entrada e de saída por um portão devidamente fiscalizado, nas condições que vierem a ser aprovadas pela Direcção-Geral das Alfândegas.
 
@@ -106,13 +116,13 @@ E em cumprimento do disposto no artigo 3.º do [Decreto-Lei n.º 34/82](https://
 
 4 - Toda a construção de imóveis na zona franca carece de autorização prévia das autoridades competentes previstas no artigo 4.º do presente diploma.
 
-###### Art. 2.º - 1 - À entrada do portão da zona franca funcionará uma estância aduaneira, subordinada à Alfândega de Ponta Delgada, cujas despesas de instalação e de manutenção constituirão encargo da entidade que assumir a gestão da zona.
+Art. 2.º - 1 - À entrada do portão da zona franca funcionará uma estância aduaneira, subordinada à Alfândega de Ponta Delgada, cujas despesas de instalação e de manutenção constituirão encargo da entidade que assumir a gestão da zona.
 
 2 - Contíguo à estância aduaneira funcionará também um posto fiscal com os efectivos considerados necessários, que receberá as adequadas instruções para o efeito da fiscalização aduaneira, devendo de igual modo as despesas de instalação e manutenção deste posto constituir encargo da entidade gestora da zona franca.
 
 3 - A Direcção-Geral das Alfândegas e o Comando-Geral da Guarda Fiscal deverão aprovar o projecto das instalações referidas nos números anteriores.
 
-###### Art. 3.º - 1 - Sob reserva das disposições do n.º 2, será permitida a entrada na zona franca de mercadorias de qualquer natureza, seja qual for a sua quantidade e os países de origem, de proveniência ou de destino.
+Art. 3.º - 1 - Sob reserva das disposições do n.º 2, será permitida a entrada na zona franca de mercadorias de qualquer natureza, seja qual for a sua quantidade e os países de origem, de proveniência ou de destino.
 
 2 - As disposições do n.º 1 não impedirão, por parte da entidade gestora da zona, a aplicação de interdições ou restrições que se justifiquem por motivos de moralidade, de segurança pública, de protecção da saúde e da vida das pessoas ou dos animais ou de preservação dos vegetais, de protecção dos tesouros nacionais com valor artístico, histórico ou arqueológico, de protecção da propriedade comercial ou industrial, ou ainda por razões de ordem técnica.
 
@@ -130,7 +140,7 @@ E em cumprimento do disposto no artigo 3.º do [Decreto-Lei n.º 34/82](https://
 
 9 - Face à especificidade económica da zona franca, adoptar-se-ão procedimentos considerados necessários em matéria de comércio externo relativamente às mercadorias entradas na zona.
 
-###### Art. 4.º - 1 - Poderão ser autorizadas na zona franca todas as actividades de natureza industrial, comercial ou financeira, sendo os respectivos pedidos de instalação apreciados, e eventualmente deferidos, pelo Governo Regional, ou quem ele designe, que aquilatará em ordem a 2 parâmetros fundamentais: a idoneidade da firma impetrante e o interesse económico da actividade a desenvolver, podendo no entanto ser revogadas as autorizações concedidas, logo que a empresa em causa deixe de oferecer garantias que serviram de base ao deferimento do pedido de instalação ou não cumpra com as exigências do presente diploma.
+Art. 4.º - 1 - Poderão ser autorizadas na zona franca todas as actividades de natureza industrial, comercial ou financeira, sendo os respectivos pedidos de instalação apreciados, e eventualmente deferidos, pelo Governo Regional, ou quem ele designe, que aquilatará em ordem a 2 parâmetros fundamentais: a idoneidade da firma impetrante e o interesse económico da actividade a desenvolver, podendo no entanto ser revogadas as autorizações concedidas, logo que a empresa em causa deixe de oferecer garantias que serviram de base ao deferimento do pedido de instalação ou não cumpra com as exigências do presente diploma.
 
 2 - Tratando-se de empresas que pretendam realizar operações de carácter industrial, nomeadamente transformações, reparações ou complementos de fabrico, tais operações deverão constar do respectivo pedido de instalação, com a descrição pormenorizada de todo o processo de produção.
 
@@ -184,7 +194,7 @@ u) Todas as manipulações destinadas a assegurar a conservação das mercadoria
 
 7 - No interior da zona franca, as mercadorias poderão ser cedidas por uma empresa a outra.
 
-###### Art. 5.º - 1 - A fiscalização aduaneira no exterior da zona franca pode exercer-se através:
+Art. 5.º - 1 - A fiscalização aduaneira no exterior da zona franca pode exercer-se através:
 
 a) Da vigilância permanente nos limites da zona franca, bem como no portão;
 
@@ -194,7 +204,7 @@ c) Do controle das pessoas que entrem ou saiam da zona.
 
 2 - Poderá ser interdito o acesso à zona a indivíduos condenados em processos de contrabando ou de descaminho de direitos.
 
-###### Art. 6.º - 1 - As empresas que se instalem na zona são, no acto da autorização previsto no n.º 1 do artigo 4.º, obrigadas a:
+Art. 6.º - 1 - As empresas que se instalem na zona são, no acto da autorização previsto no n.º 1 do artigo 4.º, obrigadas a:
 
 a) Elaborar uma contabilidade devidamente organizada por forma a permitir a identificação das mercadorias, assim como a constatação dos movimentos e das operações a que as mesmas foram submetidas;
 
@@ -204,11 +214,11 @@ b) Exibir a sua contabilidade e apresentar as mercadorias que estiverem em seu p
 
 3 - Sem prejuízo do disposto nos artigos 4.º e 9.º do presente diploma, só podem ser consumidas ou utilizadas na zona franca mercadorias nacionais ou nacionalizadas, sob pena de aplicação das sanções previstas na legislação nacional.
 
-###### Art. 7.º - 1 - As empresas instaladas na zona poderão proceder à destruição de mercadorias sujeitas ao regime económico-aduaneiro de que trata o presente regulamento.
+Art. 7.º - 1 - As empresas instaladas na zona poderão proceder à destruição de mercadorias sujeitas ao regime económico-aduaneiro de que trata o presente regulamento.
 
 2 - Admitem-se também, para efeitos fiscais, perdas de mercadorias por virtude de acidente ou motivo de força maior ou ainda por razões que respeitem à sua natureza, desde que seja feita prova suficiente pela empresa instalada na zona.
 
-###### Art. 8.º - 1 - A saída da zona franca de mercadorias estrangeiras para bordo de aeronaves, com destino a um país estrangeiro, não tem quaisquer formalidades aduaneiras.
+Art. 8.º - 1 - A saída da zona franca de mercadorias estrangeiras para bordo de aeronaves, com destino a um país estrangeiro, não tem quaisquer formalidades aduaneiras.
 
 2 - De igual modo, a saída da zona franca de mercadorias estrangeiras para bordo de navios não tem quaisquer formalidades aduaneiras, devendo no entanto ser acompanhadas de fiscalização no seu percurso até ao embarque.
 
@@ -236,16 +246,16 @@ b) No estado em que se apresentarem, se somente utilizarem a zona como entrepost
 
 12 - Para efeito do que se encontra determinado no número anterior processar-se-á guia especial e serão tomados sinais para futuras confrontações.
 
-###### Art. 9.º - 1 - Poderá ser concedida, até à adesão de Portugal às comunidades europeias, a isenção de direitos, em conformidade com a legislação em vigor, a mercadorias ou materiais destinados à implementação de infra-estruturas, bem como a bens de equipamento, que se destinem exclusivamente à zona franca.
+Art. 9.º - 1 - Poderá ser concedida, até à adesão de Portugal às comunidades europeias, a isenção de direitos, em conformidade com a legislação em vigor, a mercadorias ou materiais destinados à implementação de infra-estruturas, bem como a bens de equipamento, que se destinem exclusivamente à zona franca.
 
 2 - A estância aduaneira que funciona na zona franca deverá possuir listas discriminativas de todo o equipamento existente, incluindo as máquinas-ferramentas e seus utensílios, com a indicação de nacional, nacionalizado ou estrangeiro, conforme os casos.
 
-###### Art. 10.º Tudo o que não estiver previsto no presente regulamento será resolvido de acordo com os preceitos da legislação em vigor e, na sua falta, por despacho do Secretário de Estado do Orçamento, se se tratar de questões de natureza aduaneira, e por despacho do Governo Regional dos Açores, nos demais casos.
+Art. 10.º Tudo o que não estiver previsto no presente regulamento será resolvido de acordo com os preceitos da legislação em vigor e, na sua falta, por despacho do Secretário de Estado do Orçamento, se se tratar de questões de natureza aduaneira, e por despacho do Governo Regional dos Açores, nos demais casos.
 
 Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 29 de Julho de 1982.**
+Promulgado em 29 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

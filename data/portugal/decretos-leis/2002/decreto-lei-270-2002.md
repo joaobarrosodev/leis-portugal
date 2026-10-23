@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/12/278a00/75207522.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/270/2002/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2002-441099
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42f35276637cf4311e72c48bad368588b829c62926adb41e7d56c250ac95b7ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ade4adfbb721aff68f98d25957dcdd7b06ea853e09a8af8fb02ea50e87e4578
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,88 @@ reuse:
 subjects:
 - ADSE
 - Assistência Medicamentosa
-- Multa
-- Infarmed
+- Comércio
 - Comparticipação do Estado
 - Contra-ordenação
-- Serviço Nacional de Saúde
 - Etiquetagem
-- Notificação
+- Infarmed
 - Informação do Consumidor
+- Multa
+- Notificação
 - Preço
 - Preço de Venda
-- Comércio
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:227779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:582014:por
+  label: "Prorrogado até 31 de Dezembro de 2004 o prazo previsto no n.º 2 do artigo 6.º, pelo DEC LEI.31/2004.06.02.2004.MS,\
+    \ DR.IS-A [31] de 06.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2004-582014
+  date: '2004-02-06'
+- type: amended_by
+  target: pt:dre:218536:por
+  label: "Alterada a redacção dada aos arts. 9.º-A e 9.º-B do Dec Lei 118/92, de 25-Jun, pelo DEC LEI.81/2004.10.04.2004.MS,\
+    \ DR.IS-A [85] de 10.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-2004-218536
+  date: '2004-04-10'
+- type: amended_by
+  target: pt:dre:624454:por
+  label: "Prorrogado o prazo a que se refere o n.º 2 do art. 6.º do presente diploma, já prorrogado pelo Dec Lei 31/2004,\
+    \ de 06-Fev, pelo DEC LEI.23/2005.26.01.2005.MS, DR.IS-A [18] de 26.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2005-624454
+  date: '2005-01-26'
+- type: amended_by
+  target: pt:dre:203016:por
+  label: "Prorrogado até 30 de Junho de 2006, o prazo a que se refere o nº 2 do art. 6º do presente diploma, pelo DEC LEI.6/2006.03.01.2006.MS,\
+    \ DR.IS-A [2] de 03.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-2006-203016
+  date: '2006-01-03'
+- type: amended_by
+  target: pt:dre:538046:por
+  label: "Alterado o art 6º pelo DEC LEI.127/2006.04.07.2006.MS, DR.IS [127] de 04.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-2006-538046
+  date: '2006-07-04'
+- type: amended_by
+  target: pt:dre:197494:por
+  label: "Prorrogado, até 31 de Dezembro de 2007, o prazo a que se refere o n.º 2 do artigo 6.º, na redacção do Decreto-Lei\
+    \ n.º 127/2006, de 4 de Julho, pelo DEC LEI.242-A/2006.29.12.2006.MS, DR.IS [249]4ºSupl de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-a-2006-197494
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:518420:por
+  label: "Alterado o art. 6º do Dec Lei 118/92, de 25-Jun, na redacção do presente diploma, pelo DEC LEI.65/2007.14.03.2007.MS,\
+    \ DR.IS [52] de 14.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-2007-518420
+  date: '2007-03-14'
+- type: amended_by
+  target: pt:dre:227272:por
+  label: "Prorrogado, até 30.06.2008, o prazo a que refere o nº 2 do art. 6º do presente diploma, na redacção do Dec Lei 127/2006,\
+    \ de 04-Jul, pelo DEC LEI.392-B/2007.28.12.2007.MS, DR.IS [250-3ºSupl] de 28.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/392-b-2007-227272
+  date: '2007-12-28'
+- type: amended_by
+  target: pt:dre:456245:por
+  label: "Prorrogado, até 31.12.2008, o prazo a que se refere o nº 2 do art. 6º do presente diploma, alterado pelo Dec Lei\
+    \ 127/2006, de 04-Jul, pelo DEC LEI.110/2008.27.06.2008.MS, DR.IS [123] de 27.06.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/110-2008-456245
+  date: '2008-06-27'
+- type: amended_by
+  target: pt:dre:443900:por
+  label: "Prorrogado até 31.12.2009 o prazo a que se refere o nº 2 do art. 6º do presente diploma, com a última redacção dada\
+    \ pelo Dec Lei 110/2008 de 27-Jun, pelo DEC LEI.247/2008.18.12.2008.MS, DR.IS [244] de 18.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-2008-443900
+  date: '2008-12-18'
+- type: amended_by
+  target: pt:dre:616814:por
+  label: "Prorrogado, com efeitos desde 01.01.2010, até à data de entrada [em vigor] do novo regime jurídico que revê o sistema\
+    \ de preços de referência, o prazo a que se refere o nº 2 do art. 6º deste diploma, com a última redacção dada pelo Dec\
+    \ Lei 247/2008 de 18-Dez, pelo DEC LEI.6/2010.15.01.2010.MS, DR.IS [10] de 15.01.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-2010-616814
+  date: '2010-01-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/1992/06/25/p/dre
   label: null
@@ -96,16 +162,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/305/1998/10/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/305/1998/10/07/p/dre
+- type: cites
+  target: pt:dre:235927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580872:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:227779:por
+  label: "Revogado, a partir de 01.06.2010, pelo DEC LEI.48-A/2010.13.05.2010.MS, DR.IS [93-Supl] de 13.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-a-2010-227779
+  date: '2010-05-13'
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:24Z'
   warnings: []
   errors: []
 ---
@@ -220,7 +307,9 @@ Notificação da comercialização de medicamentos comparticipados
 
 5 - O regime estabelecido nos n.os 1 a 4 não prejudica o decurso dos prazos de caducidade da comparticipação nos termos do artigo 4.º, n.º 4.
 
-###### Artigo 9.º-B — Sanções
+Artigo 9.º-B
+
+Sanções
 
 1 - A infracção ao disposto nos n.os 1 a 4 do artigo anterior constitui contra-ordenação punível com coima de (euro) 2500 a (euro) 3740 ou a (euro) 44750, consoante o agente seja pessoa singular ou colectiva.
 
@@ -246,12 +335,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Setembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Luís Filipe Pereira.
 
-**Promulgado em 6 de Novembro de 2002.**
+Promulgado em 6 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Novembro de 2002.**
+Referendado em 13 de Novembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20696-1964-579495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a57c0f769c68428e4d511763bf506eefca8d057c02d935e06bd3e9810e7f9c1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19562a0dc4d950db6ad926539a9e736640f1e6107691fccf6082c90831b8c9ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437049:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:28Z'
   warnings: []
   errors: []
 ---
@@ -93,25 +101,25 @@ I
 
 Da finalidade e dos concursos
 
-###### Artigo 1.º As casas de renda económica, construídas pelos Serviços Sociais da Polícia de Segurança Pública nos termos do artigo 6.º do [Decreto-Lei n.º 42794](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42794-1959-437049), de 31 de Dezembro de 1959, destinam-se aos beneficiários que não disponham de habitação permanente em casa própria ou em casa por conta do Estado, ou ainda que não habitem casas fornecidas por organismos oficiais, segundo qualquer das modalidades de casas económicas ou de renda económica.
+Artigo 1.º As casas de renda económica, construídas pelos Serviços Sociais da Polícia de Segurança Pública nos termos do artigo 6.º do [Decreto-Lei n.º 42794](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42794-1959-437049), de 31 de Dezembro de 1959, destinam-se aos beneficiários que não disponham de habitação permanente em casa própria ou em casa por conta do Estado, ou ainda que não habitem casas fornecidas por organismos oficiais, segundo qualquer das modalidades de casas económicas ou de renda económica.
 
 § único. Só podem concorrer às casas de renda económica dos Serviços Sociais da Polícia de Segurança Pública os beneficiários com mais de dois anos de inscritos na instituição e desde que à data da abertura do concurso se encontrem colocados no comando em cuja área se situem as habitações.
 
-###### Art. 2.º A atribuição de casas far-se-á mediante concurso anunciado com a antecedência mínima de 30 dias, no Diário do Governo e em dois jornais de maior circulação na localidade, se os houver, e ainda por quaisquer outros meios de divulgação considerados convenientes.
+Art. 2.º A atribuição de casas far-se-á mediante concurso anunciado com a antecedência mínima de 30 dias, no Diário do Governo e em dois jornais de maior circulação na localidade, se os houver, e ainda por quaisquer outros meios de divulgação considerados convenientes.
 
-###### Art. 3.º Os concursos terão por finalidade seleccionar e classificar os candidatos às casas vagas ou que venham a vagar durante o período da sua validade.
+Art. 3.º Os concursos terão por finalidade seleccionar e classificar os candidatos às casas vagas ou que venham a vagar durante o período da sua validade.
 
 § 1.º Do anúncio constarão o número de fogos a atribuir, seus tipos, sua localização, rendas correspondentes a cada tipo, bem como o prazo, não inferior a 20 dias, em que deverão ser apresentados pelos concorrentes os boletins de inscrição.
 
 § 2.º Os concursos são válidos pelo período de dois anos, a contar da data em que for publicada no Diário do Governo a lista dos candidatos admitidos.
 
-###### Art. 4.º É permitida a atribuição de casas sem dependência de concurso quando esta for requerida dentro do período de validade do último concurso efectuado, no qual não tenham sido classificados candidatos em número suficiente para ocupar todas as casas.
+Art. 4.º É permitida a atribuição de casas sem dependência de concurso quando esta for requerida dentro do período de validade do último concurso efectuado, no qual não tenham sido classificados candidatos em número suficiente para ocupar todas as casas.
 
-###### Art. 5.º A inscrição dos concorrentes será feita em boletins do modelo anexo, os quais, depois de devidamente preenchidos, deverão dar entrada na secretaria dos Serviços Sociais da Polícia de Segurança Pública durante o prazo fixado no programa do concurso.
+Art. 5.º A inscrição dos concorrentes será feita em boletins do modelo anexo, os quais, depois de devidamente preenchidos, deverão dar entrada na secretaria dos Serviços Sociais da Polícia de Segurança Pública durante o prazo fixado no programa do concurso.
 
 § único. A inscrição deve ser feita pelo próprio concorrente, e, quando feita por procurador com poder para tanto, ser por ele confirmada antes da publicação das listas de classificação, ou, logo que possível, quando motivos imperiosos apresentados pelo procurador o impeçam de o fazer.
 
-###### Art. 6.º Em relação aos beneficiários concorrentes devem verificar-se as seguintes condições gerais:
+Art. 6.º Em relação aos beneficiários concorrentes devem verificar-se as seguintes condições gerais:
 
 a) A renda mensal correspondente à casa pretendida não pode exceder um terço do rendimento do agregado familiar;
 
@@ -125,13 +133,13 @@ b) Serem chefes de família.
 
 § 4.º Os Serviços Sociais da Polícia de Segurança Pública reservam-se o direito de verificar, pela via que julgarem mais conveniente, o período de coabitação para efeito do disposto no § 3.º deste artigo.
 
-###### Art. 7.º Podem ser admitidos ao concurso os beneficiários aos quais já tenha sido atribuída uma casa de renda económica dos Serviços Sociais da Polícia de Segurança Pública quando pretendam mudar de domicílio e a pretensão seja aceite nos termos do artigo 30.º do presente diploma.
+Art. 7.º Podem ser admitidos ao concurso os beneficiários aos quais já tenha sido atribuída uma casa de renda económica dos Serviços Sociais da Polícia de Segurança Pública quando pretendam mudar de domicílio e a pretensão seja aceite nos termos do artigo 30.º do presente diploma.
 
 II
 
 Da classificação
 
-###### Art. 8.º Na classificação dos concorrentes serão observadas, autónoma e sucessivamente, as seguintes condições de preferência:
+Art. 8.º Na classificação dos concorrentes serão observadas, autónoma e sucessivamente, as seguintes condições de preferência:
 
 a) Menor rendimento per capita do agregado familiar;
 
@@ -151,15 +159,15 @@ a) A troco de serviço próprio ou de seus familiares beneficiem de habitação,
 
 b) Habitem em bairros camarários, ainda que para demolir.
 
-###### Art. 9.º Para efeito da aplicação das condições de preferência estabelecidas no artigo anterior, atender-se-á, quanto aos concorrentes classificados como efectivos, à situação existente à data do encerramento do prazo para admissão ao concurso, devendo até essa data ser comunicadas, por carta registada, todas as alterações ocorridas posteriormente à apresentação dos boletins de inscrição.
+Art. 9.º Para efeito da aplicação das condições de preferência estabelecidas no artigo anterior, atender-se-á, quanto aos concorrentes classificados como efectivos, à situação existente à data do encerramento do prazo para admissão ao concurso, devendo até essa data ser comunicadas, por carta registada, todas as alterações ocorridas posteriormente à apresentação dos boletins de inscrição.
 
 § 1.º Relativamente aos candidatos classificados como suplentes, atender-se-á à situação existente na data em que passarem a efectivos, devendo, entretanto, os mesmos candidatos, sempre que seja caso disso, fazer a comunicação a que se refere a parte final do corpo deste artigo.
 
 § 2.º No caso previsto no artigo 4.º, considerar-se-á a situação existente à data em que for requerida a atribuição.
 
-###### Art. 10.º De harmonia com a ordem de preferência estabelecida no artigo 8.º, serão classificados como efectivos os concorrentes em número igual ao dos fogos vagos de cada tipo a distribuir, e como suplentes os restantes.
+Art. 10.º De harmonia com a ordem de preferência estabelecida no artigo 8.º, serão classificados como efectivos os concorrentes em número igual ao dos fogos vagos de cada tipo a distribuir, e como suplentes os restantes.
 
-###### Art. 11.º Será excluído do concurso, sem prejuízo de procedimento disciplinar, o candidato que:
+Art. 11.º Será excluído do concurso, sem prejuízo de procedimento disciplinar, o candidato que:
 
 a) Preste declarações falsas, incompletas ou inexactas;
 
@@ -173,7 +181,7 @@ e) Tenha no seu agregado familiar pessoas afectadas de doença contagiosa.
 
 § único. Deixará de ser considerado noutras listas de classificação o concorrente que, durante o prazo de validade do concurso, celebrar com os Serviços Sociais da Polícia de Segurança Pública um contrato de arrendamento.
 
-###### Art. 12.º Compete ao director dos Serviços Sociais da Polícia de Segurança Pública aprovar as listas de classificação dos concorrentes admitidos, elaborada pela secretaria-geral dos mesmos Serviços.
+Art. 12.º Compete ao director dos Serviços Sociais da Polícia de Segurança Pública aprovar as listas de classificação dos concorrentes admitidos, elaborada pela secretaria-geral dos mesmos Serviços.
 
 § 1.º A lista de classificação será publicada no Diário do Governo e poderá ser objecto de reclamações, no prazo de vinte dias a contar da data de publicação, por parte de quaisquer concorrentes que se julguem prejudicados.
 
@@ -193,7 +201,7 @@ III
 
 Da distribuição
 
-###### Art. 13.º A distribuição das casas será feita, tendo em atenção o seu tipo e a composição do agregado familiar dos concorrentes, pela forma seguinte:
+Art. 13.º A distribuição das casas será feita, tendo em atenção o seu tipo e a composição do agregado familiar dos concorrentes, pela forma seguinte:
 
 a) Tipo I, a casal com um filho;
 
@@ -219,25 +227,25 @@ x) Tipo N, n quartos.
 
 § 2.º Serão anuladas as inscrições cujos correspondentes boletins mencionem tipos de casas que não correspondam a agregados familiares com filhos em quantidade e sexo referidos neste artigo.
 
-###### Art. 14.º Publicadas as alterações às listas de classificação referidas no artigo 12.º, as casas postas a concurso, vagas ou a vagar na período de validade da concurso, serão atribuídas aos concorrentes de harmonia com a respectiva classificação.
+Art. 14.º Publicadas as alterações às listas de classificação referidas no artigo 12.º, as casas postas a concurso, vagas ou a vagar na período de validade da concurso, serão atribuídas aos concorrentes de harmonia com a respectiva classificação.
 
-###### Art. 15.º Mantêm a classificação, com todos os direitos inerentes, os concorrentes cujo boletim de inscrição esteja sendo submetido a inquérito e ainda aqueles que obtenham promoção que importe mudança de categoria, sem prejuízo do disposto no § único do artigo 11.º
+Art. 15.º Mantêm a classificação, com todos os direitos inerentes, os concorrentes cujo boletim de inscrição esteja sendo submetido a inquérito e ainda aqueles que obtenham promoção que importe mudança de categoria, sem prejuízo do disposto no § único do artigo 11.º
 
-###### Art. 16.º Quando não houver concorrentes para determinado tipo de habitação, os fogos disponíveis poderão ser atribuídos a concorrentes de idêntica categoria classificados nas listas da mesma localidade.
+Art. 16.º Quando não houver concorrentes para determinado tipo de habitação, os fogos disponíveis poderão ser atribuídos a concorrentes de idêntica categoria classificados nas listas da mesma localidade.
 
-###### Art. 17.º O concorrente a quem for atribuído, de harmonia com o artigo 14.º, um determinado fogo será notificado para, no prazo de dez dias, declarar se o aceita e se continua a obedecer às condições de admissão.
+Art. 17.º O concorrente a quem for atribuído, de harmonia com o artigo 14.º, um determinado fogo será notificado para, no prazo de dez dias, declarar se o aceita e se continua a obedecer às condições de admissão.
 
 IV
 
 Dos contratos de arrendamento e sua rescisão
 
-###### Art. 18.º O contrato de arrendamento será mensal e sempre reduzido a escrito, presumindo-se renovado na falta de despedimento no tempo e pela forma indicados na lei geral.
+Art. 18.º O contrato de arrendamento será mensal e sempre reduzido a escrito, presumindo-se renovado na falta de despedimento no tempo e pela forma indicados na lei geral.
 
-###### Art. 19.º Entende-se que desistem da casa que lhes for distribuída os candidatos que, sem motivo justificado e comprovado no prazo de oito dias, não se apresentem a outorgar o contrato no dia e hora marcados para esse efeito ou a ocupar a habitação no prazo que for designado.
+Art. 19.º Entende-se que desistem da casa que lhes for distribuída os candidatos que, sem motivo justificado e comprovado no prazo de oito dias, não se apresentem a outorgar o contrato no dia e hora marcados para esse efeito ou a ocupar a habitação no prazo que for designado.
 
-###### Art. 20.º Serão mantidas sem alteração as condições de cedência das habitações que se encontrem arrendadas a beneficiários que venham a passar à situação de aposentação, sem prejuízo do disposto no artigo 33.º
+Art. 20.º Serão mantidas sem alteração as condições de cedência das habitações que se encontrem arrendadas a beneficiários que venham a passar à situação de aposentação, sem prejuízo do disposto no artigo 33.º
 
-###### Art. 21.º Além das indicadas na lei geral, são causas específicas de rescisão do contrato e consequente despejo:
+Art. 21.º Além das indicadas na lei geral, são causas específicas de rescisão do contrato e consequente despejo:
 
 a) Perder o inquilino a qualidade de beneficiário dos Serviços Sociais da Polícia de Segurança Pública, incluindo a passagem à situação de licença ilimitada;
 
@@ -267,19 +275,19 @@ b) Até ao prazo máximo de três meses, as restantes.
 
 § 2.º Os inquilinos obrigam-se a avisar os Serviços Sociais da Polícia de Segurança Pública por carta registada, com aviso de recepção, da ocorrência de qualquer dos factos referidos nas alíneas b) e e), sob pena de pagamento em triplo das rendas que se vencerem posteriormente.
 
-###### Art. 22.º Os despejos são ordenados por deliberação do director dos Serviços Sociais da Polícia de Segurança Pública, com recurso para os tribunais ordinários, a interpor no prazo de dez dias a contar da notificação aos inquilinos.
+Art. 22.º Os despejos são ordenados por deliberação do director dos Serviços Sociais da Polícia de Segurança Pública, com recurso para os tribunais ordinários, a interpor no prazo de dez dias a contar da notificação aos inquilinos.
 
-###### Art. 23.º Os despejos serão executados por mandato assinado pelo director, com intervenção da força pública, em caso de necessidade.
+Art. 23.º Os despejos serão executados por mandato assinado pelo director, com intervenção da força pública, em caso de necessidade.
 
 V
 
 Das rendas, sua fixação e actualização
 
-###### Art. 24.º Na fixação das rendas deverá especialmente considerar-se o custo global das edificações do respectivo programa de construção, a rentabilidade dos capitais investidos, a capacidade económica da generalidade dos pretendentes, o nível das rendas na localidade, bem como o interesse social em obter por via de compensação de encargos os ajustamentos exigidos pelas circunstâncias particulares dos diferentes casos.
+Art. 24.º Na fixação das rendas deverá especialmente considerar-se o custo global das edificações do respectivo programa de construção, a rentabilidade dos capitais investidos, a capacidade económica da generalidade dos pretendentes, o nível das rendas na localidade, bem como o interesse social em obter por via de compensação de encargos os ajustamentos exigidos pelas circunstâncias particulares dos diferentes casos.
 
 § único. O pagamento das rendas será feito mediante desconto nos vencimentos, pensões ou subsídios do inquilino ou, não sendo possível, pela forma designada no contrato.
 
-###### Art. 25.º A actualização das rendas é permitida:
+Art. 25.º A actualização das rendas é permitida:
 
 a) Quando se registe variação apreciável do custo de construção ou do custo de vida;
 
@@ -299,7 +307,7 @@ VI
 
 Da transmissão do arrendamento
 
-###### Art. 26.º O direito ao arrendamento, seja qual for o regime matrimonial, não se comunica ao cônjuge do arrendatário e caduca por sua morte, salvo nos casos seguintes:
+Art. 26.º O direito ao arrendamento, seja qual for o regime matrimonial, não se comunica ao cônjuge do arrendatário e caduca por sua morte, salvo nos casos seguintes:
 
 a) Se lhe sobreviver cônjuge não separado de pessoas e bens ou de facto, e este adquirir a qualidade de beneficiário dos Serviços Sociais da Polícia de Segurança Pública ou a tiver já;
 
@@ -311,7 +319,7 @@ c) A favor dos descendentes menores ou filhas solteiras que vivessem pelo menos 
 
 § 2.º As pessoas com direito à transmissão se não tiverem já a qualidade de beneficiários dos Serviços Sociais da Polícia de Segurança Pública terão o prazo de 30 dias para requererem, por si ou representante legal, a sua admissão sob pena de serem havidas como tendo renunciado a esse direito.
 
-###### Art. 27.º No caso de transmissão do direito ao arrendamento nos termos indicados no artigo anterior, observar-se-á o disposto no artigo 21.º, na parte aplicável, se for caso disso.
+Art. 27.º No caso de transmissão do direito ao arrendamento nos termos indicados no artigo anterior, observar-se-á o disposto no artigo 21.º, na parte aplicável, se for caso disso.
 
 § único. Manterá, contudo, o direito à casa que habita a locatária que deixar de ter pessoas de família a seu cargo quando declare que deseja alojamento num lar ou recolhimento até que esta pretensão lhe seja satisfeita.
 
@@ -319,13 +327,13 @@ VII
 
 Disposições diversas
 
-###### Art. 28.º Os beneficiários que prestem declarações falsas, incompletas ou inexactas e que não façam as comunicações a que são obrigados por este diploma, independentemente das sanções disciplinares ou criminais aplicáveis ou das nele cominadas, incorrem em responsabilidade civil por todos os prejuízos que advierem para os Serviços Sociais da Polícia de Segurança Pública.
+Art. 28.º Os beneficiários que prestem declarações falsas, incompletas ou inexactas e que não façam as comunicações a que são obrigados por este diploma, independentemente das sanções disciplinares ou criminais aplicáveis ou das nele cominadas, incorrem em responsabilidade civil por todos os prejuízos que advierem para os Serviços Sociais da Polícia de Segurança Pública.
 
-###### Art. 29.º As trocas de habitação só são permitidas quando delas resultem soluções habitacionais mais perfeitas conforme apreciação discricionária do director dos Serviços Sociais da Polícia de Segurança Pública.
+Art. 29.º As trocas de habitação só são permitidas quando delas resultem soluções habitacionais mais perfeitas conforme apreciação discricionária do director dos Serviços Sociais da Polícia de Segurança Pública.
 
-###### Art. 30.º As inscrições efectuadas ao abrigo do artigo 7.º devem ser fundamentadas pelos interessados e a sua aceitação depende da apreciação discricionária do director dos Serviços Sociais da Polícia de Segurança Pública.
+Art. 30.º As inscrições efectuadas ao abrigo do artigo 7.º devem ser fundamentadas pelos interessados e a sua aceitação depende da apreciação discricionária do director dos Serviços Sociais da Polícia de Segurança Pública.
 
-###### Art. 31.º Considerando-se conveniente que nos aglomerados residenciais, a distribuir futuramente, se preveja sempre representação adequada de graduados a fim de:
+Art. 31.º Considerando-se conveniente que nos aglomerados residenciais, a distribuir futuramente, se preveja sempre representação adequada de graduados a fim de:
 
 Enquadrarem os agentes, em caso de emergência;
 
@@ -335,14 +343,14 @@ Desempenharem, se necessário, funções de defesa civil do território no respe
 
 dever-se-á obrigatòriamente, tratando-se de um só edifício ou de vários edifícios muito próximos, distribuir habitações a um chefe de esquadra e a três graduados, por cada centena de fogos.
 
-###### Art. 32.º As mensalidades serão pagas directamente ao conselho administrativo dos Serviços Sociais da Polícia de Segurança Pública se as casas se situarem na área de Lisboa, ou, quando as casas se situem fora de Lisboa, no conselho administrativo do respectivo comando distrital, conforme consignação em contrato, as duas primeiras no acto da celebração do mesmo e as seguintes até ao dia 8 do mês anterior àquele a que respeitem.
+Art. 32.º As mensalidades serão pagas directamente ao conselho administrativo dos Serviços Sociais da Polícia de Segurança Pública se as casas se situarem na área de Lisboa, ou, quando as casas se situem fora de Lisboa, no conselho administrativo do respectivo comando distrital, conforme consignação em contrato, as duas primeiras no acto da celebração do mesmo e as seguintes até ao dia 8 do mês anterior àquele a que respeitem.
 
-###### Art. 33.º Os Serviços Sociais da Polícia de Segurança Pública procurarão, sempre que possível, que aos beneficiários que venham a passar à situação de aposentação e aos ex-cônjuges dos beneficiários que se encontrem nas condições referidas na alínea b) do artigo 26.º seja atribuída uma habitação, de renda equiparada à que se encontravam pagando, através de outros organismos oficiais, corporativos e das autarquias locais.
+Art. 33.º Os Serviços Sociais da Polícia de Segurança Pública procurarão, sempre que possível, que aos beneficiários que venham a passar à situação de aposentação e aos ex-cônjuges dos beneficiários que se encontrem nas condições referidas na alínea b) do artigo 26.º seja atribuída uma habitação, de renda equiparada à que se encontravam pagando, através de outros organismos oficiais, corporativos e das autarquias locais.
 
-###### Art. 34.º Nos casos omissos, quando as disposições deste diploma não possam aplicar-se por analogia, observar-se-ão, subsidiàriamente, as regras da legislação geral sobre inquilinato para habitação.
+Art. 34.º Nos casos omissos, quando as disposições deste diploma não possam aplicar-se por analogia, observar-se-ão, subsidiàriamente, as regras da legislação geral sobre inquilinato para habitação.
 
 Ministério da Interior, 25 de Julho de 1964. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/07/17400/09250930.pdf))](https://files.diariodarepublica.pt/1s/1964/07/17400/09250930.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/07/17400/09250930.pdf)
 
 Ministério do Interior, 25 de Julho de 1964. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior.

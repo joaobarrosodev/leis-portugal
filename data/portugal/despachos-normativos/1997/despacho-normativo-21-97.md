@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/106b00/22092210.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/21/1997/05/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/21-1997-383452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T08:31:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0a8f8b1a8addc4268afda26045abd842597e86567fa8327fa6b818276da958d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4156c15e270cf7428658b831197de37aebaf9eb3bb4461892e6addb5d82dfebf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:31:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
 - Gado Caprino
-- Prémio aos Produtores de Ovinos e Caprinos
 - Gado Ovino
 - Política Agrícola Comum
-- Agricultor
+- Prémio aos Produtores de Ovinos e Caprinos
 relationships:
 - type: amended_by
   target: pt:dre:546872:por
@@ -96,16 +96,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/370/1993/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/370/1993/11/26/p/dre
+- type: repealed_by
+  target: pt:dre:546872:por
+  label: "Revogado pelo DN.25/2005.04.03.2005.MAPF, DR.IS-B [75] de 18.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/25-2005-546872
+  date: '2005-03-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:31:24Z'
   warnings: []
   errors: []
 ---

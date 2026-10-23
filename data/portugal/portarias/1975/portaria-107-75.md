@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/107-1975-160280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:38:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33a697f86566e1f4d86151aa7cf4b6a871ab5641773bebc917887c976cf9f2f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bb1f71b5e6d1682f7817078912c82034b3b512bcfa6252c9cbd4d59b229aca1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:38:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,20 @@ relationships:
   target: pt:dre:453218:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:473758:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:38:31Z'
   warnings: []
   errors: []
 ---
@@ -196,7 +200,7 @@ Ministério dos Assuntos Sociais, 3 de Fevereiro de 1975. - Pelo Ministro dos As
 
 ## ANEXO I — Esquema programático do curso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/02/04000/02420250.pdf))](https://files.diariodarepublica.pt/1s/1975/02/04000/02420250.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/02/04000/02420250.pdf)
 
 ## ANEXO II — Áreas de aprendizagem
 

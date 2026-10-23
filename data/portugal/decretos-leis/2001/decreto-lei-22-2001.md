@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/22/2001/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2001-315155
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb25b78919e557e2a7d103a5be137f54a2ed27c78633be4aeb1225ca9ec5f1eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a629202202bf8d15fd05b43eada5263aa3387bfa164b7cf7a50196f6043c6f52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Direcção Geral de Protecção das Culturas
+- Comércio
 - Controlo Sanitário
-- Saúde Pública
+- Direcção Geral de Protecção das Culturas
+- Embalagem
 - Etiquetagem
 - Fiscalização
 - Importação
 - Licenciamento
-- Embalagem
-- Proteção do Consumidor
 - Produto Fitofarmacêutico
-- Comércio
+- Proteção do Consumidor
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:519616:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:519616:por
+  label: "Alterados os arts. 32º e 35º do Dec Lei 94/98 de 15-Abr, na redacção do presente diploma, pelo DEC LEI.111/2007.16.04.2007.MADRP,\
+    \ DR.IS [74] de 16.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2007-519616
+  date: '2007-04-16'
 - type: cites
   target: celex:31991L0414
   label: null
@@ -91,16 +97,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/94/1998/04/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94/1998/04/15/p/dre
+- type: corrected_by
+  target: pt:dre:303129:por
+  label: "Rectificado pela DECL-RECT.4-D/2001.2001.02.28.PCM,DR.IS-A [50]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-d-2001-303129
+  date: '2001-02-28'
 article_structure:
-  article_count: 14
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:24Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +146,7 @@ u) Produto de importação paralela: o produto fitofarmacêutico homologado e au
 
 Importação paralela de produtos fitofarmacêuticos
 
-###### Artigo 31.º
+Artigo 31.º
 
 1 - É permitida a importação paralela de produtos fitofarmacêuticos a realizar nos termos estabelecidos no presente capítulo, que estabelece as normas aplicáveis ao respectivo pedido, concessão, revalidação e retirada da autorização.
 
@@ -143,7 +154,7 @@ Importação paralela de produtos fitofarmacêuticos
 
 3 - O pedido de importação paralela é obrigatório, ainda que o produto a importar se destine apenas a ser utilizado pelo próprio requerente.
 
-###### Artigo 32.º
+Artigo 32.º
 
 1 - O pedido de importação paralela é feito em separado para cada produto fitofarmacêutico, através de requerimento dirigido ao director-geral de Protecção das Culturas, indicando:
 
@@ -183,7 +194,7 @@ iv) Rótulo ou cópia.
 
 2 - Sempre que se verifique qualquer alteração das indicações constantes neste artigo o requerente deve informar de imediato a DGPC dessa alteração e do seu novo conteúdo.
 
-###### Artigo 33.º
+Artigo 33.º
 
 1 - A autorização de importação paralela é concedida pela DGPC nas seguintes condições:
 
@@ -197,17 +208,17 @@ d) Exclusivamente para todas ou algumas das finalidades e condições de utiliza
 
 2 - A concessão da autorização de importação paralela a um produto fitofarmacêutico implica a atribuição de um número de importação paralela e a aprovação prévia do respectivo rótulo definitivo.
 
-###### Artigo 34.º
+Artigo 34.º
 
 1 - A autorização de importação paralela tem a duração de um ano, podendo a mesma ser revalidada por igual período durante os três anos seguintes, desde que se mantenham as condições que estiveram na base da concessão da importação paralela.
 
 2 - O requerimento para revalidação da autorização de importação paralela deverá ser apresentado até 30 dias antes do final do prazo de cada ano referido no número anterior e conter os elementos referidos na alínea a) e nos n.os vii) e viii) da alínea b) do artigo 32.º e o número de importação paralela a que se reporta.
 
-###### Artigo 35.º
+Artigo 35.º
 
 Após a concessão da autorização de importação paralela ou da revalidação dessa autorização, o seu titular deve informar a DGPC, até 30 dias antes da data da importação, do local de armazenagem, do(s) número(s) de lote e das quantidades importadas, devendo cada remessa do produto importado manter-se à disposição para controlo pelas autoridades competentes durante os dois dias úteis seguintes à importação e anteriormente à colocação no mercado ou à utilização e, igualmente, uma embalagem inviolada e com o rótulo de origem de cada lote durante todo o período de duração da autorização de importação.
 
-###### Artigo 36.º
+Artigo 36.º
 
 A autorização de importação paralela será retirada quando:
 
@@ -221,11 +232,11 @@ d) Não seja cumprido o estipulado no artigo 35.º;
 
 e) O rótulo definitivo não estiver conforme ao previamente aprovado.
 
-###### Artigo 37.º
+Artigo 37.º
 
 Em caso de retirada ou não revalidação da autorização de importação paralela, a DGPC estipulará um prazo para esgotamento das quantidades de produto de importação paralela existentes ou o seu reenvio, conforme o caso.
 
-###### Artigo 38.º
+Artigo 38.º
 
 Em tudo o que não estiver especialmente previsto neste capítulo aplicam-se as restantes regras deste diploma com as devidas adaptações e, em especial, as previstas nos artigos 18.º, 19.º e 20.º»
 
@@ -245,7 +256,9 @@ Tabela de preços
 
 Os serviços prestados pela DGPC no âmbito deste diploma estão sujeitos ao pagamento dos quantitativos a aprovar por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-###### Artigo 44.º — Infracções
+Artigo 44.º
+
+Infracções
 
 1 - A colocação em circulação e utilização no território nacional de um produto fitofarmacêutico ou de uma substância activa em violação do disposto no artigo 3.º constitui contra-ordenação, nos termos previstos no Decreto-Lei n.º 284/94, de 11 de Novembro.
 
@@ -257,12 +270,12 @@ Até à entrada em vigor da portaria a que se refere o artigo 43.º do Decreto-L
 
 Visto e aprovado em Conselho de Ministros de 23 de Novembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Mário Cristina de Sousa - Luís Manuel Capoulas Santos - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 15 de Janeiro de 2001.**
+Promulgado em 15 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Janeiro de 2001.**
+Referendado em 18 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

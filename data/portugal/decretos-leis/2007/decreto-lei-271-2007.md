@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/14300/0478004785.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/271/2007/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2007-636711
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b45b8a5c8dd1373e26b421aba8dc78a9ad07db54fb877d018ec6e94e59cb55ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1609df546917a624c0b98f0efedf2d608b9dbe609918152bc1fb8bb5afbb917
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
 - Comissão de Ética para a Saúde
-- Unidade de Acompanhamento
-- Gestão Financeira
 - Comissão Paritária
 - Conselho Científico
 - Conselho de Orientação
+- Conselho Diretivo
 - Definição de Competências
 - Extinção de Serviços
-- Conselho Diretivo
+- Fiscal Único
+- Gestão Financeira
 - Ineti
 - Instituto de Genética Médica Dr Jacinto de Magalhães
+- Instituto Nacional de Saúde Dr Ricardo Jorge
 - Instituto Público
 - Orgânica
-- Instituto Nacional de Saúde Dr Ricardo Jorge
+- Porto
 - Serviço Regional
 - Transferência de Competências
-- Porto
+- Unidade de Acompanhamento
 relationships:
 - type: amended_by
   target: pt:dre:261077:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:628856:por
+  label: "Transferidas as competências do INETI, I.P., de acordo com o art. 2º, transferindo para o Instituto de Meteorologia,\
+    \ I.P., cuja orgânica foi aprovada pelo Dec Lei 157/2007 de 27-Abr, o Instituto Nacional de Saúde Dr. Ricardo Jorge, I.P.,\
+    \ cuja orgânica foi aprovada pelo presente diploma, bem como são transferidas as Universidades e, ainda, objecto de externalização,\
+    \ as competências(a sua sucessão é objecto de Dec Lei - nº 8 do art. 2º), desenvolvidas pelas Unidades elencadas no nº\
+    \ 7º, pelo DEC LEI.355/2007.29.10.2007.MEI, DR.IS [208] de 29.10.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/355-2007-628856
+  date: '2007-10-29'
+- type: amended_by
+  target: pt:dre:551989:por
+  label: "Determinado que se mantenha, transitoriamente, até 31 de dezembro de 2012, com a natureza de serviço desconcentrado\
+    \ do INSA, I. P., com as competências fixadas no nº 3 do art. 61º do Regulamento anexo ao DN 15/2009, de 07-abr, o Centro\
+    \ de Genética Médica Doutor Jacinto Magalhães previsto no nº 2 do art. 2º do presente diploma, pela PORT.162/2012.22.05.2012.MF,\
+    \ DR.IS [99] de 22.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/162-2012-551989
+  date: '2012-05-22'
+- type: amended_by
+  target: pt:dre:261077:por
+  label: "Transferidas para o Centro Hospitalar do Porto, E.P.E. (cuja criação e estatutos constam do Dec Lei 326/2007 de\
+    \ 28-set) as competências exercidas pelo Centro de Genética Médica Doutor Jacinto de Magalhães, serviço desconcentrado\
+    \ no Porto, no âmbito do Instituto Nacional de Saúde Doutor Ricardo Jorge, I.P. (INSA, I.P.), cuja orgânica e competências\
+    \ foram aprovadas pelo presente diploma (com as alterações introduzidas pelo Dec Lei 27/2012 de 08-fev e pela Port 162/2012\
+    \ de 22-mai), pelo DEC LEI.68/2013.17.05.2013.MS, DR.IS [95] de 17.05.2013, que determinou a sucessão pelo referido Centro\
+    \ Hospitalar das competências, direitos e obrigações do INSA, I.P. identificadas no seu art. 2º. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-2013-261077
+  date: '2013-05-17'
 - type: cites
   target: eli:http:/
   label: null
@@ -128,16 +155,71 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/89/2006/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/89/2006/07/20/p/dre
+- type: cites
+  target: pt:dre:226629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:543721:por
+  label: "Revogado, a partir de 01.03.2012, - mantendo-se o Centro de Genética Médica Doutor Jacinto Magalhães, previsto no\
+    \ nº 2 do art. 2º, transitoriamente, até 31.12.2012, com a natureza de serviço desconcentrado do INSA, I. P. - , pelo\
+    \ DEC LEI.27/2012.08.02.2012.MS, DR.IS [28] de 08.02.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2012-543721
+  date: '2012-02-08'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:05Z'
   warnings: []
   errors: []
 ---
@@ -490,12 +572,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 12 de Abril de 2007.**
+Promulgado em 12 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Abril de 2007.**
+Referendado em 16 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

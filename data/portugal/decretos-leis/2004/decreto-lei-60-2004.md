@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/60/2004/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2004-541272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1767212e8a6683333ddbfd778a94d39edccf4f7d2cf02baae04b5f1f2b4145ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 160067cfcc7616e28500d6289c8e19a88e1a37870a33f4ccfab5ccd5db4cfb8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Seguradora
+- Companhia de Seguros
 - Contrato de Seguro
-- Seguro
 - ICAE
-- Instituto de Seguros de Portugal
 - Informação do Consumidor
+- Instituto de Seguros de Portugal
 - RAMO VIDA
 - Regime Jurídico
-- Companhia de Seguros
+- Seguro
 - Seguro de VIDA
 relationships:
 - type: amended_by
   target: pt:dre:249804:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241222:por
+  label: "Alterados os arts. 2º e 5º-A do Dec Lei 176/95 de 26-Jul, na redacção conferida pelo presente diploma, pelo DEC\
+    \ LEI.357-A/2007.31.10.2007.MFAP, DR.IS [210-2ºSupl] de 31.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/357-a-2007-241222
+  date: '2007-10-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/176/1995/07/26/p/dre
   label: null
@@ -89,16 +95,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/94-b/1998/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94-b/1998/04/17/p/dre
+- type: cites
+  target: pt:dre:474478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484984:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:249804:por
+  label: "Revogados, a partir de 01.01.2009, os art.s 1º e 2º do Dec Lei 176/95, de 26-Jul, na redacção do presente diploma,\
+    \ pelo DEC LEI.72/2008.16.04.2008.MFAP, DR.IS [75] de 16.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-2008-249804
+  date: '2008-04-16'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:48Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +209,7 @@ z) [Anterior alínea x).]
 
 aa) [Anterior alínea z).]
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - ...
 
@@ -239,12 +259,12 @@ Instrumentos de captação de aforro estruturados
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 10 de Março de 2004.**
+Promulgado em 10 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Março de 2004.**
+Referendado em 14 de Março de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

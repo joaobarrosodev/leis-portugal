@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/20100/0000800022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/94/2023/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2023-222877158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 630fa43c9145e1c90f9925497cb01e80737e638edda80986fbbd38a3dab524b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a622ea8d8f78d977d7ab37d404bd915c553fa5dda1b0a364f9590f2726262bef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
+- Carreira Profissional
 - Colocação de Professores
 - Concurso
 - Contratação de Docentes
-- Regulamentação de Atos Legislativos
 - Direção Geral da Administração Escolar
+- Ensino Artístico
 - Ensino Oficial
-- Carreira Profissional
 - Formulário Eletrónico
-- Recrutamento de Pessoal
 - Impugnação
 - Integração de Trabalhadores
-- Publicitação
-- Página na Internet
-- Política de Educação
-- Pessoal Docente
-- Profissionalização em Exercicio
-- Qualificação Profissional
-- Regime Jurídico
 - Mobilidade de Pessoal
+- Página na Internet
+- Pessoal Docente
+- Política de Educação
+- Profissionalização em Exercicio
+- Publicitação
+- Qualificação Profissional
+- Recrutamento de Pessoal
+- Regime Jurídico
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2014/07/10/p/dre
@@ -119,16 +119,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/233/2022/09/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/233/2022/09/09/p/dre
+- type: cites
+  target: pt:dre:114825661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115138847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115221287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200860990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212770101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
 article_structure:
   article_count: 37
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:09Z'
   warnings: []
   errors: []
 ---
@@ -323,15 +359,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de setembro de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - João Miguel Marques da Costa.
 
-**Promulgado em 5 de outubro de 2023.**
+Promulgado em 5 de outubro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de outubro de 2023.**
+Referendado em 11 de outubro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 15.º)
 
@@ -654,3 +690,5 @@ f) Estabelecimentos de ensino particular ou cooperativo com contrato de associa�
 1 - O período experimental é cumprido no primeiro contrato celebrado em cada ano.
 
 2 - Ao período experimental aplica-se o regime previsto na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual, para os contratos de trabalho em funções públicas.
+
+116944661

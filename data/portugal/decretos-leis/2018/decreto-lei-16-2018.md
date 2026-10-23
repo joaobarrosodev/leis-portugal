@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/03/04700/0119201196.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/16/2018/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2018-114825662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14769233686b582ee19c69f47069b6e70e83337f9358880d172bae1062817578
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43cf770cd1906fbb7e9278872ee8a331e89e3ef28cdd06eb3a27f6bd909f187b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação da Formação de Professores
-- Formação de Professores
+- Educação Pré-escolar
 - Educador de Infância
-- Recrutamento de Pessoal
-- Habilitações Literárias
+- Ensino Básico
 - Ensino Secundário
+- Formação de Professores
+- Habilitações Literárias
+- Língua Gestual Portuguesa
 - Mestrado
 - Pessoal Docente
 - Qualificação Profissional
-- Ensino Básico
-- Educação Pré-escolar
-- Língua Gestual Portuguesa
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:1006464121:por
@@ -107,16 +107,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:178492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64297587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:12Z'
   warnings: []
   errors: []
 ---
@@ -217,15 +245,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de fevereiro de 2018. - António Luís Santos da Costa - Tiago Brandão Rodrigues.
 
-**Promulgado em 27 de fevereiro de 2018.**
+Promulgado em 27 de fevereiro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de março de 2018.**
+Referendado em 5 de março de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -233,7 +261,7 @@ MAPA N.º 6
 
 Educação pré-escolar e 1.º, 2.º e 3.º ciclos do ensino básico e do ensino secundário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/03/04700/0119201196.pdf))](https://files.diariodarepublica.pt/1s/2018/03/04700/0119201196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/03/04700/0119201196.pdf)
 
 ## ANEXO II
 
@@ -241,4 +269,6 @@ Educação pré-escolar e 1.º, 2.º e 3.º ciclos do ensino básico e do ensino
 
 Especialidades do grau de mestre, requisitos mínimos de formação para ingresso e grupos de recrutamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/03/04700/0119201196.pdf))](https://files.diariodarepublica.pt/1s/2018/03/04700/0119201196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/03/04700/0119201196.pdf)
+
+111178602

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/22100/0587405882.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/172/2014/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2014-58895505
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fee8ba351e3116c32fe6099ef9dac74334fae26eb7669653d4508ab2397524b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7f8340fab9a49d5d0d1cfe529f77e9bed7d84f2d6e073f4abf35d5b6ffb4f2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ação Social
 - Apoio Social Extraordinário ao Consumidor de Energia
-- Distribuição de Energia Elétrica
-- Gás Natural
 - Autoridade Tributária e Aduaneira
-- Financiamento
-- Energia Elétrica
-- Multa
+- Comércio
 - Consumo de Energia
 - Contra-ordenação
-- Ação Social
-- Insuficiência Económica
+- Distribuição de Energia Elétrica
+- Energia Elétrica
 - Entidade Reguladora dos Serviços Energéticos
+- Financiamento
+- Gás Natural
+- Insuficiência Económica
+- Multa
 - Preço
 - Rede Nacional de Transporte de Energia Elétrica
 - Segurança Social
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:224427486:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Alterados, com efeitos a partir de 01.07.2016, os arts. 2.º, 2.º-A e 6.º e revogados, com efeitos na mesma data,
+    os n.ºs 8, 9, 10 e 11 do art. 2.º, o n.º 2 do art. 2.º-A e os arts. 10.º e 13.º do Dec. Lei 138-A/2010 de 28-dez, na versão
+    republicada pelo presente diploma, pelo(a) Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I
+    de 2016-03-30 nos termos do n.º 3 do seu art. 199.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-a-2016-73958532
+  date: '2016-03-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/101/2011/09/30/p/dre
   label: null
@@ -116,16 +124,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/109/2001/12/24/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/109/2001/12/24/p/dre
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683861:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:73958532:por
+  label: Revogado, com efeitos a partir de 01.07.2016, o Dec. Lei 102/2011 de 30-set, na redação do presente diploma, pelo(a)
+    Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-a-2016-73958532
+  date: '2016-03-30'
+- type: repealed_by
+  target: pt:dre:177634016:por
+  label: Revogado o Dec Lei 138-A/2010 de 28-dez, na versão republicada pelo presente diploma pelo(a) Decreto-Lei n.º 15/2022
+    - Diário da República n.º 10/2022, Série I de 2022-01-14 nos termos dos seus arts. 305.º e 306.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2022-177634016
+  date: '2022-01-14'
 article_structure:
-  article_count: 30
+  article_count: 24
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:37Z'
   warnings: []
   errors: []
 ---
@@ -196,7 +252,7 @@ f) Os beneficiários da pensão social de velhice.
 
 5 - O rendimento anual máximo deve ser definido de modo a que a tarifa social beneficie os titulares de contratos de fornecimento de energia elétrica nos termos da seguinte expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/22100/0587405882.pdf))](https://files.diariodarepublica.pt/1s/2014/11/22100/0587405882.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/22100/0587405882.pdf)
 
 6 - O fator k, bem como a atualização dos parâmetros da fórmula referida no número anterior relativos aos critérios associados ao universo de titulares de contratos de fornecimento de energia elétrica, pode ser atualizado por portaria dos membros do Governo responsáveis pelas áreas das finanças, da segurança social e da energia, tendo em consideração fatores socioeconómicos e o universo dos titulares de contrato de fornecimento de energia elétrica que sejam beneficiários da tarifa social.
 
@@ -258,7 +314,9 @@ P - É o parâmetro entre zero e 0,1, a definir em portaria dos membros do Gover
 
 S - Corresponde ao semestre a que se reporta o cálculo da atualização.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -270,7 +328,9 @@ S - Corresponde ao semestre a que se reporta o cálculo da atualização.
 
 5 - [Revogado].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -280,7 +340,9 @@ S - Corresponde ao semestre a que se reporta o cálculo da atualização.
 
 4 - Para efeitos do disposto no presente artigo, entende-se por titulares de centros eletroprodutores em regime ordinário, os que exercem a atividade de produção que não esteja abrangida por um regime jurídico especial de produção de eletricidade, nos termos do artigo 18.º do [Decreto-Lei n.º 29/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2006-683861), de 15 de fevereiro, bem como, os titulares dos aproveitamentos hidroelétricos com potência superior a 10 MVA.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]:
 
@@ -294,7 +356,9 @@ c) As instalações serem alimentadas em baixa tensão normal com potência cont
 
 3 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -318,7 +382,9 @@ Monitorização
 
 2 - A Entidade Reguladora dos Serviços Energéticos elabora um relatório, dirigido ao membro do Governo responsável pela área da energia e com periodicidade semestral, com indicação do número de clientes finais que beneficiam da tarifa social.
 
-###### Artigo 8.º-A — Regime sancionatório
+Artigo 8.º-A
+
+Regime sancionatório
 
 1 - Sem prejuízo da responsabilidade criminal a que possa haver lugar nos termos da lei, a prestação de falsas declarações pelo cliente final ao comercializador relativas aos critérios de elegibilidade previstos nos n.os 2 e 3 do artigo 2.º e que visem a aplicação da tarifa social em benefício daquele, constitui contraordenação punível com coima até ao montante máximo de (euro) 2 500,00.
 
@@ -350,7 +416,9 @@ Os artigos 5.º e 9.º do [Decreto-Lei n.º 102/2011](https://diariodarepublica.
 
 3 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os comercializadores de energia elétrica e de gás natural devem promover a divulgação de informação sobre a existência do ASECE e a sua aplicação aos clientes finais economicamente vulneráveis e em documentação que acompanhe as faturas enviadas aos clientes de energia elétrica fornecidos em baixa tensão normal com potência de consumo igual ou inferior a 6,9 kVA e aos clientes de gás natural fornecido em baixa pressão com consumo anual igual ou inferior a 500 m3.
 
@@ -400,15 +468,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de outubro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Jorge Manuel Lopes Moreira da Silva - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 13 de novembro de 2014.**
+Promulgado em 13 de novembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de novembro de 2014.**
+Referendado em 13 de novembro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 
@@ -444,7 +512,7 @@ f) Os beneficiários da pensão social de velhice.
 
 5 - O rendimento anual máximo deve ser definido de modo a que a tarifa social beneficie os titulares de contratos de fornecimento de energia elétrica nos termos da seguinte expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/22100/0587405882.pdf))](https://files.diariodarepublica.pt/1s/2014/11/22100/0587405882.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/22100/0587405882.pdf)
 
 6 - O fator k, bem como a atualização dos parâmetros da fórmula referida no número anterior relativos aos critérios associados ao universo de titulares de contratos de fornecimento de energia elétrica, pode ser atualizado por portaria dos membros do Governo responsáveis pelas áreas das finanças, da segurança social e da energia, tendo em consideração fatores socioeconómicos e o universo dos titulares de contrato de fornecimento de energia elétrica que sejam beneficiários da tarifa social.
 

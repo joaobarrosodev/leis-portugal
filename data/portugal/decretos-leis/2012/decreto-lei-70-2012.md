@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/03/05800/0131401316.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/70/2012/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2012-553660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 080df1a464b858bb7a0c24a449e7750b225e3db29077905a5f23b8334aa53bca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd85c8b8d1076c9691fe1af79d5f2b008c040db8d9de6d0c9dbd6ba77409e5f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Diretor
-- Secretaria Geral
 - Gabinete de Investigação de Segurança e de Acidentes Ferroviários
 - Ministério da Economia e do Emprego
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:106663786:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:58273537:por
+  label: Alterados, a partir de 12.11.2014, os arts 5.º e 8 do presente diploma, pelo(a) Decreto-Lei n.º 151/2014 - Diário
+    da República n.º 197/2014, Série I de 2014-10-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-2014-58273537
+  date: '2014-10-13'
+- type: amended_by
+  target: pt:dre:106663786:por
+  label: Determinada a extinção, sendo objeto de fusão, do Gabinete de Investigação de Segurança e de Acidentes Ferroviários,
+    cuja orgânica, atribuições e competências constam do presente diploma (na redação do Dec Lei 151/2014 de 13-out) que é
+    revogado a partir de 01.04.2017, transitando as suas atribuições para o Gabinete de Prevenção e Investigação de Acidentes
+    com Aeronaves e de Acidentes Ferroviários, pelo(a) Decreto-Lei n.º 36/2017 - Diário da República n.º 62/2017, Série I
+    de 2017-03-28 sem prejuízo do previsto no seu art. 16.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2017-106663786
+  date: '2017-03-28'
 - type: cites
   target: celex:32004L0049
   label: null
@@ -89,13 +104,13 @@ relationships:
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:54Z'
   warnings: []
   errors: []
 ---
@@ -222,18 +237,18 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 9 de fevereiro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira.
 
-**Promulgado em 14 de março de 2012.**
+Promulgado em 14 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de março de 2012.**
+Referendado em 15 de março de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — Mapa de cargos de dirigentes
 
 (a que se refere o artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/05800/0131401316.pdf))](https://files.diariodarepublica.pt/1s/2012/03/05800/0131401316.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/05800/0131401316.pdf)

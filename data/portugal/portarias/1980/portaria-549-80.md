@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/549-1980-469775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:23:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb40586c39881776b26597710927bb84f36501bdbab31f87680072d7d7751480
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53858670c24854989f5c75ad4052db9b8afcdd40e56447d28bfc3bb406eb4da8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:23:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Fardamento
+- Guarda Florestal
+- Mestre Florestal
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:232501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369810:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:23:22Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +108,15 @@ REGULAMENTO DE UNIFORMES DOS MESTRES E GUARDAS FLORESTAIS
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º Em cumprimento do determinado no artigo 5.º do [Decreto-Lei n.º 390/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1979-369810), de 20 de Setembro, destina-se este Regulamento a descrever a composição e características dos uniformes do pessoal florestal, bem como as suas quantidades respectivas, prazos de duração e outras especificações.
+Artigo 1.º Em cumprimento do determinado no artigo 5.º do [Decreto-Lei n.º 390/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1979-369810), de 20 de Setembro, destina-se este Regulamento a descrever a composição e características dos uniformes do pessoal florestal, bem como as suas quantidades respectivas, prazos de duração e outras especificações.
 
-###### Art. 2.º - 1 - Os mestres e os guardas florestais, bem como os guardas florestais auxiliares, envergarão os seus uniformes com o maior aprumo e em perfeita conformidade com os padrões regulamentares, devendo apresentar-se uniformizados quando em serviço.
+Art. 2.º - 1 - Os mestres e os guardas florestais, bem como os guardas florestais auxiliares, envergarão os seus uniformes com o maior aprumo e em perfeita conformidade com os padrões regulamentares, devendo apresentar-se uniformizados quando em serviço.
 
 2 - A inobservância do disposto neste artigo, a não ser em caso de força maior devidamente comprovado, será considerada infracção disciplinar e como tal punida de acordo com a legislação em vigor.
 
-###### Art. 3.º Ao pessoal florestal quando em situação de suspensão de exercício, licença ilimitada ou julgado incapaz para o serviço pela junta médica da Caixa Geral de Aposentações ou aposentado, e quando compareça a reuniões públicas ou tome parte em espectáculos públicos sem prévia e expressa autorização da Direcção-Geral do Ordenamento e Gestão Florestal, é proibido o uso do uniforme distribuído.
+Art. 3.º Ao pessoal florestal quando em situação de suspensão de exercício, licença ilimitada ou julgado incapaz para o serviço pela junta médica da Caixa Geral de Aposentações ou aposentado, e quando compareça a reuniões públicas ou tome parte em espectáculos públicos sem prévia e expressa autorização da Direcção-Geral do Ordenamento e Gestão Florestal, é proibido o uso do uniforme distribuído.
 
-###### Art. 4.º - 1 - O pessoal florestal a quem for distribuído uniforme - equipamento de campo - fica constituído seu fiel depositário, até ao momento em que o restitua ou em que se complete o prazo estabelecido para a sua duração.
+Art. 4.º - 1 - O pessoal florestal a quem for distribuído uniforme - equipamento de campo - fica constituído seu fiel depositário, até ao momento em que o restitua ou em que se complete o prazo estabelecido para a sua duração.
 
 2 - O pessoal florestal é responsável pelo uniforme - equipamento de campo - que lhe for distribuído. podendo ser compelido à sua substituição, no total ou em parte, quando, por efeito comprovado de mau uso o torne incapaz de ser utilizado com plena satisfação do fim a que se destina.
 
@@ -112,41 +124,41 @@ REGULAMENTO DE UNIFORMES DOS MESTRES E GUARDAS FLORESTAIS
 
 4 - No uniforme - equipamento de campo - distribuído aos mestres e guardas florestais deverão ser apostos os distintivos retirados do correspondente uniforme substituído, salvo quando os mesmos se encontrarem deteriorados.
 
-###### Art. 5.º O Estado suportará o encargo do equipamento de campo, competindo aos mestres e guardas florestais suportar integralmente o encargo da farda, a qual deve obedecer, na cor, tipo de tecido, composição e características, às normas fixadas neste Regulamento.
+Art. 5.º O Estado suportará o encargo do equipamento de campo, competindo aos mestres e guardas florestais suportar integralmente o encargo da farda, a qual deve obedecer, na cor, tipo de tecido, composição e características, às normas fixadas neste Regulamento.
 
-###### Art. 6.º Os serviços da DGOGF de que dependa pessoal florestal organizarão verbetes individuais em que serão registados os artigos de uniforme distribuídos aos mestres e guardas florestais que lhe estiverem adstritos, com menção expressa dos respectivos períodos de duração.
+Art. 6.º Os serviços da DGOGF de que dependa pessoal florestal organizarão verbetes individuais em que serão registados os artigos de uniforme distribuídos aos mestres e guardas florestais que lhe estiverem adstritos, com menção expressa dos respectivos períodos de duração.
 
 Verbetes idênticos serão organizados pela Repartição de Administração Patrimonial e Financeira para efeitos de gestão e contrôle do material a que respeita o presente Regulamento e cuja responsabilidade lhe compete especialmente.
 
-###### Art. 7.º - 1 - Os serviços requisitarão à Repartição de Administração Patrimonial e Financeira os artigos de uniforme a distribuir, nos termos deste Regulamento, com uma antecedência mínima de sessenta dias.
+Art. 7.º - 1 - Os serviços requisitarão à Repartição de Administração Patrimonial e Financeira os artigos de uniforme a distribuir, nos termos deste Regulamento, com uma antecedência mínima de sessenta dias.
 
 2 - A fim de facultar àquela Repartição a oportuna e periódica aquisição de artigos previstos no presente Regulamento, deve cada um dos serviços enviar, até 31 de Maio de cada ano, relação dos funcionários a equipar e dos artigos a distribuir durante o ano imediato, justificando nos termos das disposições regulamentares.
 
 3 - Aos serviços requisitantes caberá a distribuição dos artigos requisitados, que lhes serão enviados em tempo oportuno.
 
-###### Art. 8.º Sempre que a necessidade de execução de trabalhos específicos o justificar, serão distribuídos gratuitamente abrigos de lona (calça, casaco, sueste e botas de borracha) e capacetes de protecção.
+Art. 8.º Sempre que a necessidade de execução de trabalhos específicos o justificar, serão distribuídos gratuitamente abrigos de lona (calça, casaco, sueste e botas de borracha) e capacetes de protecção.
 
-###### Art. 9.º Os guardas florestais auxiliares estão sujeitos, além de tudo o que lhes diz respeito, às disposições constantes do presente Regulamento
+Art. 9.º Os guardas florestais auxiliares estão sujeitos, além de tudo o que lhes diz respeito, às disposições constantes do presente Regulamento
 
-###### Art. 10.º É facultativo para os guardas florestais auxiliares, quando não estejam em serviço, o traje denominado «farda».
+Art. 10.º É facultativo para os guardas florestais auxiliares, quando não estejam em serviço, o traje denominado «farda».
 
-###### Art. 11.º Os titulares de propriedades submetidas ao regime florestal que tenham na sua dependência guardas florestais auxiliares são responsáveis pela correcta apresentação dos mesmos no que respeita a uniforme.
+Art. 11.º Os titulares de propriedades submetidas ao regime florestal que tenham na sua dependência guardas florestais auxiliares são responsáveis pela correcta apresentação dos mesmos no que respeita a uniforme.
 
-###### Art. 12.º Os artigos de uniforme - equipamento de campo - destinados aos guardas florestais auxiliares devem ser requisitados pelos proprietários das propriedades sujeitas ao regime florestal à DGOGF, que processará, através da Repartição de Administração Patrimonial e Financeira, as competentes guias para o depósito, na tesouraria, das importâncias correspondentes ao material requisitado.
+Art. 12.º Os artigos de uniforme - equipamento de campo - destinados aos guardas florestais auxiliares devem ser requisitados pelos proprietários das propriedades sujeitas ao regime florestal à DGOGF, que processará, através da Repartição de Administração Patrimonial e Financeira, as competentes guias para o depósito, na tesouraria, das importâncias correspondentes ao material requisitado.
 
-###### Art. 13.º Incumbe aos proprietários o pagamento dos artigos de uniforme entregues aos respectivos guardas florestais auxiliares.
+Art. 13.º Incumbe aos proprietários o pagamento dos artigos de uniforme entregues aos respectivos guardas florestais auxiliares.
 
-###### Art. 14.º A DGOGF poderá fornecer aos guardas florestais auxiliares, mediante requisição dos proprietários, quaisquer dos artigos regulamentares existentes em depósito para uso do seu pessoal, mas, em tal hipótese, as importâncias cobradas deverão ser inscritas em receita no capítulo «Reembolsos e reposições» do Orçamento Geral do Estado.
+Art. 14.º A DGOGF poderá fornecer aos guardas florestais auxiliares, mediante requisição dos proprietários, quaisquer dos artigos regulamentares existentes em depósito para uso do seu pessoal, mas, em tal hipótese, as importâncias cobradas deverão ser inscritas em receita no capítulo «Reembolsos e reposições» do Orçamento Geral do Estado.
 
-###### Art. 15.º Quando não exista em depósito o material requisitado para equipamento de guardas florestais auxiliares, poderá a DGOGF adquiri-lo.
+Art. 15.º Quando não exista em depósito o material requisitado para equipamento de guardas florestais auxiliares, poderá a DGOGF adquiri-lo.
 
 ### CAPÍTULO II — Composição e características do uniforme
 
-###### Art. 16.º - 1 - O uniforme a usar pelos mestres e guardas florestais a que se refere o artigo 51.º do [Decreto-Lei n.º 40721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40721-1956-232501), de 2 de Agosto de 1956, com observância do [Decreto-Lei n.º 390/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1979-369810), de 20 de Setembro, publicado no Diário da República, 1.ª série, n.º 218, de 20 de Setembro de 1979, será a farda e o equipamento de campo.
+Art. 16.º - 1 - O uniforme a usar pelos mestres e guardas florestais a que se refere o artigo 51.º do [Decreto-Lei n.º 40721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40721-1956-232501), de 2 de Agosto de 1956, com observância do [Decreto-Lei n.º 390/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1979-369810), de 20 de Setembro, publicado no Diário da República, 1.ª série, n.º 218, de 20 de Setembro de 1979, será a farda e o equipamento de campo.
 
 2 - Além do uniforme expressamente previsto neste Regulamento, é admissível a concessão de uniforme e outros artigos de vestuário aos cantoneiros ou outros assalariados de idêntica natureza, quando nisso haja conveniência, em condições a fixar por despacho do Ministro da Agricultura e Pescas.
 
-###### Art. 17.º Os artigos que constituem a farda são os seguintes: barrete, dólman, calça, camisa branca, gravata preta e sapatos pretos.
+Art. 17.º Os artigos que constituem a farda são os seguintes: barrete, dólman, calça, camisa branca, gravata preta e sapatos pretos.
 
 1) Barrete:
 
@@ -212,7 +224,7 @@ Duração: cinco anos.
 
 Quantidade: dois pares.
 
-###### Art. 18.º Os artigos que constituem o equipamento de campo, de cor castanha os de pano, com excepção da gravata, são os seguintes: barrete, bivaque, dólman, calça, fato-macaco, samarra, camisola, camisa, gravata e botas.
+Art. 18.º Os artigos que constituem o equipamento de campo, de cor castanha os de pano, com excepção da gravata, são os seguintes: barrete, bivaque, dólman, calça, fato-macaco, samarra, camisola, camisa, gravata e botas.
 
 1) Barrete:
 
@@ -316,8 +328,8 @@ Constituídos pela insígnia florestal, de metal, folha de carvalho de fio prate
 
 ### CAPÍTULO III — Disposições transitórias
 
-###### Art. 19.º O pessoal florestal poderá utilizar até 31 de Dezembro de 1980, com as necessárias adaptações, a farda denominada de passeio, fixada pelo antigo Regulamento.
+Art. 19.º O pessoal florestal poderá utilizar até 31 de Dezembro de 1980, com as necessárias adaptações, a farda denominada de passeio, fixada pelo antigo Regulamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/19800/24342444.pdf))](https://files.diariodarepublica.pt/1s/1980/08/19800/24342444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/19800/24342444.pdf)
 
-**O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.**
+O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.

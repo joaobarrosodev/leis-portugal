@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21948-1966-487882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:15:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6976dff09381f00a8493ad7faf5eca74f0dd3530e7c3c501187ecc9e6d396841
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bebdf4ba67843700d6ae7cc79c4df2901f5f3406651671f6a79f28291c68b685
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:15:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665676:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:15:09Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +97,7 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 9.º-A «Despesas de anos económicos findos» ... 42200000$00
+Artigo 9.º-A «Despesas de anos económicos findos» ... 42200000$00
 
 tomando como contrapartida igual quantia a sair das disponibilidades resultantes do crédito especial, aberto pela [Portaria n.º 14204](https://diariodarepublica.pt/dr/detalhe/portaria/14204-1952-665676), de 18 de Fevereiro de 1966, para reforço da verba do capitulo 8.º, artigo 1588.º, da tabela de despesa ordinária do orçamento geral de Angola para o ano económico de 1965.
 

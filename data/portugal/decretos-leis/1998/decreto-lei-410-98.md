@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/410/1998/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1998-186278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5573ea01ecc778b436bfd691d24dc9ba33a1aacb42038038d045d21ce450f86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 736af8f9197eefbbc226e253ef8ff45b5173cacb6fb3deb38e67d78601d887db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Equipamento de Elevação
-- Imóvel Classificado
+- Açores
 - Construção Civil
 - Edifício Administrativo
 - Edifício Público
+- Equipamento de Elevação
 - Equipamento Eléctrico
 - Equipamento Eletrónico
-- Licenciamento
+- Imóvel Classificado
 - Laboratório Nacional de Engenharia Civil
+- Licenciamento
+- Madeira.região Autónoma
+- Ministro da Administração Interna
 - Ministro do Equipamento do Planeamento e da Administração do Território
 - Normas de Construção
 - Normas de Segurança
 - Obras Públicas
-- Madeira.região Autónoma
+- Prédio Urbano
 - Regulamento
 - Regulamento de Segurança contra Incêndio em Edifícios de TIPO Administrativo
-- Setor Privado
-- Setor Público
 - Segurança dos Edifícios
 - Serviço Nacional de Bombeiros
-- Ministro da Administração Interna
-- Açores
-- Prédio Urbano
+- Setor Privado
+- Setor Público
 - Vistoria
 relationships:
 - type: amended_by
@@ -102,16 +102,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/34/1995/12/16/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/34/1995/12/16/p/dre
+- type: cites
+  target: pt:dre:230334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634904:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:188702:por
+  label: "Rectificado pela DECL-RECT.7-F/99.1999.02.25.PCM, DR.IS-A [49]2ºSUPL de 27/Fev/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-f-1999-188702
+  date: '1999-02-25'
+- type: repealed_by
+  target: pt:dre:439866:por
+  label: "Revogado, a partir de 01.01.2009, pelo DEC LEI.220/2008.12.11.2008.MAI, DR.IS [220] de 12.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/220-2008-439866
+  date: '2008-11-12'
 article_structure:
   article_count: 182
   section_count: 62
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:38Z'
   warnings: []
   errors: []
 ---
@@ -154,15 +176,15 @@ O presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, s
 
 Visto e aprovado em Conselho de Ministros de 28 de Outubro de 1998. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho.
 
-**Promulgado em 4 de Dezembro de 1998.**
+Promulgado em 4 de Dezembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Dezembro de 1998.**
+Referendado em 10 de Dezembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — REGULAMENTO DE SEGURANÇA CONTRA INCÊNDIO EM EDIFÍCIOS DE TIPO ADMINISTRATIVO
 
@@ -256,7 +278,7 @@ g) Outros locais que a entidade licenciadora considere comportarem riscos de inc
 
 2 - Nas zonas em que exista compartimentação definida, a lotação a considerar em cada local não deve ser inferior à correspondente aos índices de ocupação indicados no quadro seguinte, em função da sua finalidade e reportados a área útil, arredondada para o inteiro superior:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
 
 3 - Nas zonas em que não exista compartimentação definida na fase de projecto, o número de ocupantes a considerar não deve ser inferior ao correspondente a um índice de ocupação de 0,10 pessoas por metro quadrado de área bruta, arredondado para o inteiro superior.
 
@@ -410,7 +432,7 @@ e) «Via de evacuação ao ar livre», a via de evacuação protegida, separada 
 
 1 - A classe de resistência ao fogo dos elementos estruturais - EF para elementos de suporte ou CF para elementos com funções de compartimentação e de suporte - deve ser, salvo disposição mais exigente constante do presente Regulamento, a indicada no quadro seguinte, em função da altura do edifício:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
 
 2 - Nos edifícios de altura superior a 60 m, a classe de resistência ao fogo dos elementos estruturais deve ser especificada no estudo referido no n.º 3 do artigo 10.º, não devendo, contudo, ser inferior à correspondente ao escalão 120.
 
@@ -470,7 +492,7 @@ cc) No caso de pátios cobertos, os materiais de revestimento das paredes e os m
 
 3 - As comunicações dispostas nas paredes de compartimentação corta-fogo devem ser evitadas e, quando existam, ser protegidas pelos dispositivos indicados no quadro seguinte, de acordo com a altura do edifício:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
 
 ##### SUBSECÇÃO II — Isolamento e protecção dos espaços do edifício
 
@@ -516,7 +538,7 @@ b) Portas - CF 60.
 
 1 - As vias horizontais de evacuação para as quais se exige protecção devem ser separadas dos restantes espaços do piso por paredes e portas da classe de resistência ao fogo indicada no quadro seguinte, de acordo com a altura do edifício em que se situem:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
 
 2 - As vias horizontais enclausuradas de grande extensão devem ser seccionadas por divisórias transversais equipadas com portas, montadas a intervalos não superiores a 30 m e garantindo a classe de resistência ao fogo PC 15.
 
@@ -530,13 +552,13 @@ b) Portas - CF 60.
 
 3 - Os acessos às vias referidas nos números anteriores devem ser protegidos nas condições indicadas no quadro seguinte, em função da altura do edifício e do tipo de via:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
 
 ###### Artigo 27.º — Isolamento de outras comunicações verticais
 
 1 - As comunicações verticais interiores que não constituam vias de evacuação devem, em regra, ser separadas dos restantes espaços por paredes e portas da classe de resistência ao fogo nos termos indicados no quadro seguinte, de acordo com a altura do edifício em que se situem:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
 
 2 - O disposto no número anterior não se aplica a:
 
@@ -738,7 +760,7 @@ b) Classe M 1, nos restantes locais do edifício.
 
 3 - Os materiais constituintes dos difusores para iluminação, natural ou artificial, dispostos nos tectos ou nos tectos falsos podem apresentar a classe de reacção ao fogo indicada no quadro seguinte, consoante os locais em que se situem, desde que sejam judiciosamente distribuídos e o somatório das suas áreas, medidas em planta, não seja superior a 25% da área do local:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
 
 4 - Os dispositivos de fixação e de suspensão dos tectos falsos devem ser constituídos por materiais da classe M 0 e não estar sujeitos a tensões, determinadas a frio, superiores a 20 N/mm2.
 
@@ -780,11 +802,11 @@ b) Classe M 1, nos restantes locais do edifício.
 
 4 - Nas zonas das fachadas em que existam diedros de abertura inferior a 135º, deve ser estabelecida de cada lado da aresta do diedro uma faixa vertical, garantindo a classe de resistência ao fogo indicada no quadro seguinte, de acordo com a altura do edifício:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
 
 5 - A largura das faixas referidas no número anterior não deve ser inferior à indicada no quadro seguinte, em função do ângulo de abertura do diedro:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
 
 6 - No caso de diedros entre corpos do edifício com alturas diferentes, a faixa estabelecida no corpo mais elevado deve ser prolongada por toda a sua altura, com um máximo exigível de 8 m acima da cobertura do corpo mais baixo.
 
@@ -800,7 +822,7 @@ b) Classe M 1, nos restantes locais do edifício.
 
 Nos edifícios com mais de um piso em elevação, a classe de reacção ao fogo dos revestimentos exteriores das fachadas, dos elementos transparentes das janelas e de outros vãos, da caixilharia e dos estores ou persianas exteriores deve ser a constante do quadro seguinte, de acordo com a altura do edifício:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
 
 ##### SUBSECÇÃO II — Coberturas
 
@@ -810,7 +832,7 @@ Nos edifícios com mais de um piso em elevação, a classe de reacção ao fogo 
 
 2 - Com a excepção prevista no número seguinte, as estruturas devem garantir a classe de resistência ao fogo indicada no quadro seguinte, de acordo com a altura do edifício:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
 
 3 - Não é exigida qualificação de resistência ao fogo às estrutruas de suporte da cobertura dos edifícios nos casos previstos no n.º 1 do artigo 19.º se aquela for visível de qualquer local do último piso e se a sua ruína não provocar o colapso do edifício.
 
@@ -838,11 +860,11 @@ Os materiais de revestimento exterior das coberturas devem ser da classe de reac
 
 1 - As paredes de empena dos edifícios devem garantir as classes de resistência ao fogo indicadas no quadro seguinte, em função da altura do edifício:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
 
 2 - Se o edifício adjacente tiver altura superior, deve ser estabelecida uma faixa na cobertura, adjacente à parede de empena, com a largura mínima de 4 m, a qual deve garantir a classe de resistência ao fogo indicada no quadro seguinte, em função da altura do edifício:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
 
 3 - Se o edifício adjacente tiver a mesma altura, deve ser tomada uma das seguintes disposições:
 
@@ -852,11 +874,11 @@ b) Estabelecer uma faixa na cobertura nas condições do disposto no número ant
 
 4 - Se o edifício adjacente tiver altura inferior, os vãos praticados na parede de empena e situados até 8 m acima da cobertura daquele edifício devem ser protegidos por elementos da classe de resistência ao fogo indicada no quadro seguinte, em função da altura do edifício:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
 
 5 - Se as fachadas dos edifícios formarem um diedro de abertura inferior a 135º, deve ser estabelecida uma faixa vertical, da classe PC 60, adjacente à aresta do diedro e por toda a altura do edifício, com um máximo exigível de 8 m acima da cobertura do edifício adjacente, com a largura indicada no quadro seguinte, em função do ângulo de abertura do diedro:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
 
 6 - A largura da faixa referida no número anterior pode ser reduzida até metade, por dedução da largura de faixas eventualmente estabelecidas nas mesmas condições, no edifício adjacente.
 
@@ -956,7 +978,7 @@ b) Se a evacuação for possível nos dois sentidos, ser do tipo vaivém e compo
 
 A altura mínima das guardas das vias de evacuação elevadas, medida em relação ao pavimento ou ao focinho dos degraus da via, deve ser a indicada no quadro seguinte, em função da diferença de cotas entre o pavimento ou o cobertor do degrau da via, no ponto considerado, e o plano horizontal a que sejam sobranceiras:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)](https://files.diariodarepublica.pt/1s/1998/12/295a00/71327162.pdf)
 
 #### SECÇÃO III — Locais de risco A
 

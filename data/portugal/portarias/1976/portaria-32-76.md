@@ -46,40 +46,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/32-1976-506833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T05:01:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16496d672eab2022041632b6d71a2dd19d5fb7d3e24a31d2c5a557ed27af8c40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10a1ce550247aeceff350d11d568cf4a9683efaa0e583bd03090104eab16d436
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:01:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exploração Agrícola
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:579517:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:461603:por
+  label: "Desanexada uma parcela de terreno do prédio rústico denominado \"Goucha e Atela\" pela PORT.765/80.01.10.1980.MFP,\
+    \ DR.IS [227] de 01.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/765-1980-461603
+  date: '1980-10-01'
+- type: amended_by
+  target: pt:dre:390427:por
+  label: "Desanexada uma parcela de terreno, com a área de 30 400m2, no prédio rústico de Vale do Junco, expropriado ( e referido\
+    \ no n.º 40) do presente diploma pela PORT.28/81.13.01.1981.MFP, DR.IS [10] de 13.01.1981\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/28-1981-390427
+  date: '1981-01-13'
+- type: amended_by
+  target: pt:dre:390199:por
+  label: "Desanexada a totalidade do prédio rústico Chã dos Cardos expropriado pelo presente diploma, pela PORT.99/81.22.01.1981.MFP,\
+    \ DR.IS [18] de 22.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/99-1981-390199
+  date: '1981-01-22'
+- type: amended_by
+  target: pt:dre:580315:por
+  label: "Desanexada uma parcela de terreno, com a área de 1752 m2, do prédio rústicos Casal de S. Sebastião, expropriado\
+    \ pela PORT.583/81.10.07.1981.MFP, DR.IS [156] de 10.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/583-1981-580315
+  date: '1981-07-10'
+- type: amended_by
+  target: pt:dre:579517:por
+  label: "Desanexado e transmitida a respectiva propriedade a favor da Câmara Municipal da Chamusca o prédio rústico denominado\
+    \ \"Casal do Leme\" pela PORT.628/81.22.07.1981.MFP, DR.IS [166] de 22.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/628-1981-579517
+  date: '1981-07-22'
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:426969:por
+  label: Rectificada pela DECL.DD8915.02.06.1976.PCM, DR.IS [129] de 02.06.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-426969
+  date: '1976-06-02'
+- type: corrected_by
+  target: pt:dre:377924:por
+  label: "Rectificada pela PORT.403/79.07.08.1979.MAP, DR.IS [181] de 07.08.1979\09"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/403-1979-377924
+  date: '1979-08-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:01:42Z'
   warnings: []
   errors: []
 ---

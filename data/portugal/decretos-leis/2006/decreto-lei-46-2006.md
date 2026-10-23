@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/46/2006/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2006-694051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80e76027b302659118bfa3f0b196849e54ed3a9162066dc3d4d29ad40f33a8e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e9744243b8390e4537770fd8af6bd3550089d32ce40de24e1a88e57a4832f09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Higiene do Trabalho
+- Condições de Higiene e Segurança no Trabalho
 - Contra-ordenação
 - Definição de Competências
 - Direito do Trabalho
+- Higiene do Trabalho
+- Inspecção Geral do Trabalho
 - Saúde Pública
 - Segurança no Trabalho
-- Inspecção Geral do Trabalho
-- Condições de Higiene e Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:1737149:por
@@ -88,13 +88,13 @@ relationships:
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:47Z'
   warnings: []
   errors: []
 ---
@@ -361,15 +361,15 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Jaime de Jesus Lopes Silva - José António Fonseca Vieira da Silva - António Fernando Correia de Campos.
 
-**Promulgado em 6 de Fevereiro de 2006.**
+Promulgado em 6 de Fevereiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Fevereiro de 2006.**
+Referendado em 7 de Fevereiro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Vibrações transmitidas ao sistema mão-braço
 
@@ -377,15 +377,15 @@ Visto e aprovado em Conselho de Ministros de 5 de Janeiro de 2006. - José Sócr
 
 A exposição diária às vibrações deve ser expressa em termos do valor total da vibração contínua equivalente, ponderada em frequência para um período de oito horas, a(índice hv(eq.8h)). Por razões práticas, representa-se por A(8):
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)
+[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)
 
 O valor total da vibração, a(índice hv), é definido como a soma quadrática das três componentes:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)
+[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)
 
 Se a exposição diária total às vibrações resultar da execução de várias tarefas com amplitudes de vibração diferentes, a exposição diária às vibrações, A(8), deve ser obtida através da equação:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)
+[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)
 
 A exposição diária às vibrações deve ser determinada por referência ao valor mais elevado das medições realizadas para as duas mãos.
 
@@ -393,13 +393,13 @@ A exposição diária às vibrações deve ser determinada por referência ao va
 
 As figuras seguintes evidenciam alguns exemplos práticos de localização:
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)
+[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)
 
 A medição da vibração nas três direcções deve ser realizada, preferencialmente, em simultâneo, e a localização do acelerómetro deve ser sempre indicada no relatório.
 
 A vibração deve ser medida de acordo com o sistema de coordenadas apresentado nas figuras seguintes:
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)
+[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)
 
 Antes e depois de cada sequência de medições, o sistema de medição deve ser verificado através de um calibrador de vibrações.
 
@@ -409,7 +409,7 @@ As medições de vibrações devem ser realizadas independentemente para cada um
 
 3 - Média semanal de exposição. - A média semanal de exposição é calculada de acordo com a seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)
+[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)
 
 A média semanal de exposição é utilizada unicamente nas situações referidas no n.º 2 do artigo 14.º
 
@@ -499,7 +499,7 @@ A determinação da vibração é efectuada com base no valor eficaz mais elevad
 
 A exposição diária às vibrações, A(8), é expressa em metros por segundo quadrado e é obtida usando a fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)
+[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)
 
 Para vibrações horizontais (eixos x e y), k = 1,4 e a(índice w) é obtido usando a ponderação em frequência W(índice d).
 
@@ -507,7 +507,7 @@ Para vibrações verticais (eixo z), k = 1,0 e a(índice w) é obtido usando a p
 
 Quando a exposição a vibrações decorre durante dois ou mais períodos de tempo com diferentes amplitudes e durações, a exposição diária às vibrações, A(8), é obtida com a seguinte expressão:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)
+[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)
 
 2 - Medição. - A vibração que é transmitida ao corpo deve ser medida entre o corpo e a superfície de apoio. O transdutor de vibração deve ser triaxial e estar localizado por forma a indicar a vibração na interface entre o corpo e a fonte da vibração.
 
@@ -517,7 +517,7 @@ A amplitude e a duração da exposição devem ser indicadas no relatório.
 
 3 - Média semanal de exposição. - A média semanal de exposição é calculada de acordo com a seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)
+[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040a00/15311539.pdf)
 
 A média semanal de exposição é utilizada unicamente nas situações referidas no n.º 2 do artigo 14.º
 

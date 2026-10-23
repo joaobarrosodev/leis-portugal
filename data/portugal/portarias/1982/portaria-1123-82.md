@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1123-1982-379971
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T07:03:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc464612547841ebe28a505ed9bb257933d858edf657e2a9229dbf7aa4346344
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6682e8f22f36a81fde02c6a9a2edf4d8b7866c5c97384a7b3f82f6bd36aa016e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:03:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CTT
+- Serviço Postal
+relationships:
+- type: cites
+  target: pt:dre:215770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288622:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:03:28Z'
   warnings: []
   errors: []
 ---
@@ -97,12 +111,12 @@ Manda o Governo da República Portuguesa, pelo Ministro da Habitação, Obras P�
 
 1.º O artigo 13.º do [Decreto n.º 37279](https://diariodarepublica.pt/dr/detalhe/decreto/37279-1949-219338), de 14 de Janeiro de 1949, passa a ter a seguinte redacção:
 
-###### Art. 13.º As correspondências ou os seus invólucros com impressões de franquia incompletas ou defeituosas mas bem legíveis podem ser aceites para efeito de reembolso das respectivas franquias.
+Art. 13.º As correspondências ou os seus invólucros com impressões de franquia incompletas ou defeituosas mas bem legíveis podem ser aceites para efeito de reembolso das respectivas franquias.
 
 Este reembolso só poderá fazer-se na estação competente, ficando sujeita cada impressão ao desconto da taxa para o efeito estabelecida no tarifário, se apresentada para esse fim até ao dia útil seguinte ao indicado na marca do dia.
 
 2.º Nos termos do disposto na alínea i) do n.º 1 do artigo 25.º do anexo I ao [Decreto-Lei n.º 49368](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49368-1969-215770), de 10 de Novembro de 1969, é aprovada e incluída na Tarifa n.º 1 - Correio a seguinte taxa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/27700/40144014.pdf))](https://files.diariodarepublica.pt/1s/1982/11/27700/40144014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/27700/40144014.pdf)
 
 Ministério da Habitação, Obras Públicas e Transportes, 10 de Novembro de 1982. - Pelo Ministro da Habitação, Obras Públicas e Transportes, José da Silva Domingos, Secretário de Estado dos Transportes Exteriores e Comunicações.

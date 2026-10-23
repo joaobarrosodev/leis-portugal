@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/190/2009/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2009-493694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f624aa2588f8dc942f99a2d5c0e47c5ef158186b278131b24d275e715bc1200c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94246e6da5bc96ea06e6f4a3270a5762616efe63d0829e5a5d71f1df05024ac4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Correio Electrónico
 - ÁREA de Jurisdição
+- Correio Electrónico
 - Documento Eletrónico
 - Processo Judicial
-- Tribunal Administrativo e Fiscal
 - Tribunal
+- Tribunal Administrativo e Fiscal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/182/2007/05/09/p/dre
@@ -93,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1417/2003/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1417/2003/12/30/p/dre
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551199:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:15Z'
   warnings: []
   errors: []
 ---
@@ -175,12 +195,12 @@ São revogados os n.os 6 e 7 do artigo 4.º do [Decreto-Lei n.º 325/2003](https
 
 Visto e aprovado em Conselho de Ministros de 16 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Alberto Bernardes Costa.
 
-**Promulgado em 7 de Agosto de 2009.**
+Promulgado em 7 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de Agosto de 2009.**
+Referendado em 10 de Agosto de 2009.
 
 Pelo Primeiro-Ministro, Luís Filipe Marques Amado, Ministro de Estado e dos Negócios Estrangeiros.

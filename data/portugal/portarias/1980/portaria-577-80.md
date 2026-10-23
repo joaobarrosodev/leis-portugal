@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/20600/25562556.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/577-1980-464399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:24:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df861692d9f4badf92811d93fc06da341db45f477326973b9a9f5f4257521d2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb3081b4caa9be1613ede5990540e3cb29fe5e6027873ccd692f468d6bef733b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:24:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cooperativa de Habitação
+- Fundo de Fomento da Habitação
+- Habitação
+- JURO Bonificado
 relationships:
 - type: amended_by
   target: pt:dre:608911:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:330177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377702:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:608911:por
+  label: "Revogada pela PORT.277/82.1982.03.15.MFP, DR.IS [61]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/277-1982-608911
+  date: '1982-03-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:24:02Z'
   warnings: []
   errors: []
 ---
@@ -129,4 +146,4 @@ QUADRO ANEXO À PORTARIA N.º 577/80, DE 6 DE SETEMBRO
 
 Empréstimos a cooperativas de habitação com juros bonificados pelo Estado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/20600/25562556.pdf))](https://files.diariodarepublica.pt/1s/1980/09/20600/25562556.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/20600/25562556.pdf)

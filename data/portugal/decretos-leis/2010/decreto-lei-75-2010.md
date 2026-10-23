@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/75/2010/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2010-335228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65736415e1d9cf1834387a677562738eeff029114a36f6a75ccd93e8d4c3e47a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d61b316c817b8daf721f40c5319750352f610990f260d7af42aaf4cdcfc28e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
+- Avaliação do Pessoal
+- Carreira Profissional
 - Concurso
 - Cooperante
+- Educação Pré-escolar
+- Ensino Básico
 - Ensino Oficial
 - Ensino Português no Estrangeiro
 - Equiparação de Cargos
-- Carreira Profissional
-- Recrutamento de Pessoal
-- Integração de Trabalhadores
-- Faltas
-- Pessoal Docente
-- Qualificação Profissional
-- Ensino Básico
 - Estágio de Formação
+- Faltas
+- Integração de Trabalhadores
+- Pessoal Docente
 - Progressão na Carreira
 - Promoção Profissional
 - Quadro de Pessoal
+- Qualificação Profissional
+- Recrutamento de Pessoal
 - Reestruturação de Carreiras
-- Avaliação do Pessoal
-- Educação Pré-escolar
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:74717230:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:542994:por
+  label: "Alterados os arts. 31.º, 37.º, 40.º, 41.º, 42.º, 43.º, 45.º, 46.º, 47.º e 48.º do Estatuto da Carreira Docente,\
+    \ aprovado pelo Dec Lei 139-A/90, de 28-abr, na redação do presente diploma, pelo DEC LEI.41/2012.21.02.2012.MECI, DR.IS\
+    \ [37] de 21.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2012-542994
+  date: '2012-02-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
   label: null
@@ -131,16 +138,123 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:186123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681638:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:502866:por
+  label: "Revogado o art. 4º do presente diploma pelo DEC LEI.146/2013.22.10.2013.MECI, DR.IS [204] de 22.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/146-2013-502866
+  date: '2013-10-22'
+- type: repealed_by
+  target: pt:dre:74717230:por
+  label: Revogado, a partir de 18.06.2016, o DR 3/2008 de 21-jan, alterado pelo presente diploma, pelo(a) Lei n.º 16/2016
+    - Diário da República n.º 115/2016, Série I de 2016-06-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2016-74717230
+  date: '2016-06-17'
 article_structure:
-  article_count: 41
+  article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:49Z'
   warnings: []
   errors: []
 ---
@@ -205,7 +319,9 @@ f) ...
 
 g) Direito à negociação colectiva nos termos legalmente estabelecidos.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -219,17 +335,23 @@ c) Participação na escola e relação com a comunidade educativa;
 
 d) ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O concurso é o processo de recrutamento e selecção, normal e obrigatório, do pessoal docente.
 
 2 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 A regulamentação dos concursos previstos no presente Estatuto é objecto de decreto-lei, sendo assegurada a negociação colectiva nos termos da lei em vigor.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -277,7 +399,9 @@ e) ...
 
 16 - O tempo de serviço prestado pelo docente em período probatório é contado para efeitos de progressão na carreira docente, desde que classificado com menção qualitativa igual ou superior a Bom.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -287,7 +411,9 @@ e) ...
 
 4 - ...
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -331,7 +457,9 @@ o) Desempenhar as actividades de coordenação administrativa e pedagógica que 
 
 7 - As funções previstas no n.º 4 são atribuídas prioritariamente aos docentes referidos no número anterior.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - O ingresso na carreira docente faz-se mediante concurso destinado ao provimento de lugar do quadro de entre os docentes que satisfaçam os requisitos de admissão a que se refere o artigo 22.º
 
@@ -339,7 +467,9 @@ o) Desempenhar as actividades de coordenação administrativa e pedagógica que 
 
 3 - O ingresso na carreira dos docentes portadores de habilitação profissional adequada faz-se no escalão correspondente ao tempo de serviço prestado em funções docentes e classificado com a menção qualitativa mínima de Bom, independentemente do título jurídico da relação de trabalho subordinado, de acordo com os critérios gerais de progressão, em termos a definir por portaria do membro do Governo responsável pela área da educação.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - A progressão na carreira docente consiste na alteração do índice remuneratório através da mudança de escalão.
 
@@ -373,11 +503,15 @@ b) A progressão aos 5.º e 7.º escalões opera-se na data em que o docente obt
 
 9 - ...
 
-###### Artigo 38.º — Equiparação a serviço docente efectivo
+Artigo 38.º
+
+Equiparação a serviço docente efectivo
 
 É equiparado a serviço efectivo em funções docentes todo aquele que for prestado pelo pessoal docente em cargo ou função cujo regime legal preveja a salvaguarda na carreira de origem do direito à contagem do tempo de serviço prestado.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -423,7 +557,9 @@ a) Na falta da avaliação do desempenho prevista na alínea a) do n.º 6;
 
 b) Tendo sido atribuída a avaliação do desempenho prevista na alínea a) do n.º 6, pretendam a sua alteração.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 ...
 
@@ -435,7 +571,9 @@ c) ...
 
 d) ...
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -459,7 +597,9 @@ d) ...
 
 7 - (Revogado.)
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -489,7 +629,9 @@ b) ...
 
 7 - ...
 
-###### Artigo 45.º — Domínios de avaliação
+Artigo 45.º
+
+Domínios de avaliação
 
 1 - A dimensão de avaliação referida na alínea a) do n.º 2 do artigo 42.º tem um carácter transversal ao exercício da profissão docente.
 
@@ -517,7 +659,9 @@ d) A dinamização de projectos de investigação, desenvolvimento e inovação 
 
 5 - No processo de avaliação do desempenho e durante o ano lectivo devem ser recolhidos elementos relevantes de natureza informativa, designadamente decorrentes de auto-avaliação e observação de aulas.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -545,7 +689,9 @@ e) Insuficiente - de 1 a 4,9 valores.
 
 8 - (Revogado.)
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - Atribuída a avaliação final, esta é dada a conhecer ao avaliado, que dela pode apresentar reclamação escrita no prazo de 10 dias úteis.
 
@@ -553,7 +699,9 @@ e) Insuficiente - de 1 a 4,9 valores.
 
 3 - A composição do júri especial de recurso é definida nos termos do n.º 4 do artigo 40.º
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
@@ -579,7 +727,9 @@ b) ...
 
 6 - ...
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - A aquisição por docentes profissionalizados, integrados na carreira, do grau académico de mestre em domínio directamente relacionado com a área científica que leccionem ou em Ciências da Educação confere direito à redução de um ano no tempo de serviço legalmente exigido para a progressão ao escalão seguinte, desde que, em qualquer caso, na avaliação do desempenho docente lhes tenha sido sempre atribuída menção qualitativa igual ou superior a Bom.
 
@@ -589,7 +739,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 94.º — [...]
+Artigo 94.º
+
+[...]
 
 1 - ...
 
@@ -611,7 +763,9 @@ b) ...
 
 10 - ...
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 1 - O docente pode faltar um dia útil por mês, por conta do período de férias, até ao limite de sete dias úteis por ano.
 
@@ -621,7 +775,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 132.º — [...]
+Artigo 132.º
+
+[...]
 
 1 - ...
 
@@ -631,7 +787,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 133.º — [...]
+Artigo 133.º
+
+[...]
 
 1 - O ingresso na carreira dos docentes oriundos do ensino particular e cooperativo efectua-se para o escalão que lhe competiria caso tivessem ingressado nas escolas da rede pública, desde que verificados os requisitos de tempo de serviço nos termos do presente Estatuto, em termos a definir por portaria do membro do Governo responsável pela área da educação.
 
@@ -811,18 +969,18 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Maria Isabel Girão de Melo Veiga Vilar.
 
-**Promulgado em 14 de Junho de 2010.**
+Promulgado em 14 de Junho de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de Junho de 2010.**
+Referendado em 15 de Junho de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
 ## ANEXO — Tabela a que se referem o n.º 4 do artigo 34.º e o n.º 1 do artigo 59.º do Estatuto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/12000/0222902237.pdf))](https://files.diariodarepublica.pt/1s/2010/06/12000/0222902237.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/12000/0222902237.pdf)

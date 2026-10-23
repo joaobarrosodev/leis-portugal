@@ -46,36 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/449-1980-470252
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 891106adaf6531ce75033cb22aec9e6bd7c9fc67892065bcf2cb0090f9fe5caa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61ae040ccf6ce12226ef3866e15a75022d4b23c46497f904aea4f4083340be1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CASA PIA de Lisboa
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:250656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673829:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:461609:por
+  label: Rectificada pela DECL.DD6782.01.10.1980.PCM, DR.IS [227] de 01.10.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-461609
+  date: '1980-10-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:53Z'
   warnings: []
   errors: []
 ---
@@ -98,6 +133,6 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Mapa a que se refere o n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/17600/19521954.pdf))](https://files.diariodarepublica.pt/1s/1980/08/17600/19521954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/17600/19521954.pdf)
 
-**O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro dos Assuntos Sociais, João António Morais Leitão. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.**
+O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro dos Assuntos Sociais, João António Morais Leitão. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.

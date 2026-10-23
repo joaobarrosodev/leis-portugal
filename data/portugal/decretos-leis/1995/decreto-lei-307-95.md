@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/307/1995/11/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1995-690175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f48ac744c61d143b9f0d06a3bff8c6c30d3024aae5eed79399c535732617080e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a891e78ccbeb11a0fb68c85bd1b907b5fa53dd490f9e519247f1404b9369c44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituição de Crédito
+- Benefícios Fiscais
 - Código do IRC
 - Código do IRS
 - Estatuto dos Benefícios Fiscais
+- ILHA de Santa Maria
+- Instituição de Crédito
+- Instituição Financeira
+- IRC
 - IRS
 - Isenção Fiscal
-- Zona Tributária Privilegiada
-- ILHA de Santa Maria
-- IRC
 - Madeira.região Autónoma
-- Benefícios Fiscais
-- Instituição Financeira
 - Sucursais Financeiras Exteriores
+- Zona Tributária Privilegiada
 relationships:
 - type: amended_by
   target: pt:dre:496766:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:229284:por
+  label: "Alterado o art. 41º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pelo DEC LEI.25/98.10.02.1998.MF, DR.IS-A [34] de 10.02.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-1998-229284
+  date: '1998-02-10'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Alterado o art. 41º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pela LEI.109-B/2001.27.12.2001.AR, DR.IS-A [298-2ºSupl] de 27.12.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:447325:por
+  label: "Alterado o art. 41º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pelo DEC LEI.287/2003.12.11.2003.MF, DR.IS-A [262] de 12.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-2003-447325
+  date: '2003-11-12'
+- type: amended_by
+  target: pt:dre:490420:por
+  label: "Alterado o art. 41º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pelo DEC LEI.249/2009.23.09.2009.MFAP, DR.IS [185] de 23.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-2009-490420
+  date: '2009-09-23'
+- type: amended_by
+  target: pt:dre:496766:por
+  label: "Dada nova redação ao art. 41º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89 de 01-jul, alterado\
+    \ pelo presente diploma, pelo DEC LEI.82/2013.17.06.2013.MF, DR.IS [114] de 17.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-2013-496766
+  date: '2013-06-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/1994/01/13/p/dre
   label: null
@@ -100,16 +130,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634689:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:00Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +178,7 @@ Assim:
 
 No uso da autorização legislativa concedida pelo n.º 8 do artigo 34.º da [Lei n.º 39-B/94](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), de 27 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 41.º do Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, na redacção que lhe foi dada pelos Decretos-Leis n.os [84/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1993-634689), de 18 de Março, e [37/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1994-521446), de 8 de Fevereiro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 41.º do Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, na redacção que lhe foi dada pelos Decretos-Leis n.os [84/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1993-634689), de 18 de Março, e [37/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1994-521446), de 8 de Fevereiro, passa a ter a seguinte redacção:
 
 ###### Artigo 41.º — [...]
 
@@ -180,9 +230,9 @@ b) Entidades não residentes em território português, exceptuados os estabelec
 
 14 - Quando a qualidade de não residente não resulte inequivocamente dos documentos que suportam a operação, deve aquela ser comprovada através de declaração do próprio, contendo todos os elementos de identificação, a qual é considerada documento fiscalmente relevante para todos os efeitos legais.
 
-###### Art. 2.º O artigo 2.º do [Decreto-Lei n.º 10/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1994-508873), de 13 de Janeiro, passa a ter a seguinte redacção:
+Art. 2.º O artigo 2.º do [Decreto-Lei n.º 10/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1994-508873), de 13 de Janeiro, passa a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 2 - ...
 
@@ -190,12 +240,12 @@ b) Entidades não residentes em território português, exceptuados os estabelec
 
 Visto e aprovado em Conselho de Ministros de 31 de Agosto de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 3 de Outubro de 1995.**
+Promulgado em 3 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Outubro de 1995.**
+Referendado em 18 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

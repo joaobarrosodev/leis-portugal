@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06300/18411844.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/77/2007/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2007-520462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dff3ee091489985f86e447d076762257859af228714cd8c3ea95b675fdd83e3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41acf20452f1a9be6114279e78481e68c8306b9ffee2a998c342a4b6b3029a44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Conselho de Segurança Rodoviária
-- Observatório de Segurança Rodoviária
-- Pessoal Dirigente
-- Ministério da Administração Interna
-- Definição de Competências
 - Autoridade Nacional de Segurança Rodoviária
-- Segurança Rodoviária
+- Conselho de Segurança Rodoviária
+- Definição de Competências
+- Ministério da Administração Interna
+- Observatório de Segurança Rodoviária
 - Orgânica
+- Pessoal Dirigente
 - Presidente
+- Segurança Rodoviária
 - Vice-presidente
 relationships:
 - type: amended_by
   target: pt:dre:553608:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o art. 7º, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:306617:por
+  label: "Alterado o art. 2º, pelo DEC LEI.138/2010.28.12.2010.MOPTC, DR.IS [250] de 28.12.2010 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-2010-306617
+  date: '2010-12-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/203/2006/10/27/p/dre
   label: null
@@ -96,16 +106,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/76/2007/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/76/2007/03/29/p/dre
+- type: cites
+  target: pt:dre:520452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683040:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:494035:por
+  label: "Rectificado pela DECL-RECT.22-A/2007.29.03.2007.PCM, DR.IS [64]Supl de 30.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/22-a-2007-494035
+  date: '2007-03-29'
+- type: repealed_by
+  target: pt:dre:553608:por
+  label: "Revogado, a partir de 01.04.2012, o presente diploma, na redacção da Lei 67-A/2007, de 31-dez, e do Dec Lei 138/2010,\
+    \ de 28-dez, pelo DR.28/2012.12.03.2012.MAI, DR.IS [51] de 12.03.2012, nos termos do art. 11º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/28-2012-553608
+  date: '2012-03-12'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:21Z'
   warnings: []
   errors: []
 ---
@@ -270,18 +307,18 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 18 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Mário Lino Soares Correia.
 
-**Promulgado em 19 de Março de 2007.**
+Promulgado em 19 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 21 de Março de 2007.**
+Referendado em 21 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Quadro de cargos de direcção
 
 (a que se refere o artigo 9.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06300/18411844.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06300/18411844.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06300/18411844.pdf)

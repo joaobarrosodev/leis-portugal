@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/47/2010/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2010-615035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79087cdceea2b73ee3491516ee465cd52254abcc0753a1abe34fb5731ccbbcec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6ecfde3e22b2e1d17ca1afae7a57bd8138e2cb7588b6afa3a0791bde33050f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Acidente de Trabalho
 - Actualização de Pensões
-- Pensão por Incapacidade Permanente para o Trabalho
 - Pensão de Invalidez
+- Pensão por Incapacidade Permanente para o Trabalho
 - Pensões
 - Prestações da Segurança Social
 - Proteção Social
@@ -95,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53-b/2006/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53-b/2006/12/29/p/dre
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520664:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:17Z'
   warnings: []
   errors: []
 ---
@@ -163,12 +179,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria Helena dos Santos André.
 
-**Promulgado em 28 de Abril de 2010.**
+Promulgado em 28 de Abril de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de Maio de 2010.**
+Referendado em 3 de Maio de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

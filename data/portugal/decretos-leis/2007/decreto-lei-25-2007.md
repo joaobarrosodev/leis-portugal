@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/02/02700/09720978.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/25/2007/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2007-518190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ea2b6311f5488baab34d01f88e434ea93c6fb008fac581c7d37eb31fe136422
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e0cfe615f10c4951bbcd077b46514f9efa628fa7b03ae6c7ae7e63e989b810a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
+- Administração Pública
 - Criação de Empresas
 - Empresa Pública
-- Gestão Administrativa
 - Estatuto
-- Administração Pública
 - Gerap
+- Gestão Administrativa
 - Gestão de Recursos Humanos
+- Gestão Financeira
 relationships:
 - type: amended_by
   target: pt:dre:411608:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:262834:por
+  label: "Prorrogado, até 31.12.2007, o regime especial previsto no art. 14º do presente diploma, pelo DEC LEI.50-C/2007.06.03.2007.MFAP,\
+    \ DR.IS [46-Supl] de 06.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-a-2007-262834
+  date: '2007-03-06'
+- type: amended_by
+  target: pt:dre:248178:por
+  label: "Alterado, a partir de 30.07.2008, o art 10º, bem como o art. 2º dos Estatutos da GeRAP, publicados em anexo ao presente\
+    \ diploma, pelo DEC LEI.18/2008.29.01.2008.MOPTC, DR.IS [20] de 29.01.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2008-248178
+  date: '2008-01-29'
+- type: amended_by
+  target: pt:dre:144217:por
+  label: "Alterado o art. 11º pelo DEC LEI.29-A/2011.01.03.2011.MFAP, DR.IS [42-Supl] de 01.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-a-2011-144217
+  date: '2011-03-01'
+- type: amended_by
+  target: pt:dre:411608:por
+  label: Extinta a Empresa de Gestão Partilhada de Recursos da Administração Pública, E. P. E.,(GeRAP), à qual sucede a Entidade
+    de Serviços Partilhados da Administração Pública, I. P. (ESPAP) na totalidade das suas atribuições e competências; e revogado
+    o presente diploma, na redação do Dec Lei 18/2008, de 29-jan, e Dec Lei 29-A/2011, de 01-mar, pelo DEC LEI.117-A/2012.14.06.2012.MF,
+    DR.IS [114-Supl] de 14.06.2012
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-a-2012-411608
+  date: '2012-06-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
   label: null
@@ -90,16 +115,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
 article_structure:
   article_count: 33
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:40Z'
   warnings: []
   errors: []
 ---
@@ -328,15 +365,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006 - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 2 de Fevereiro de 2007.**
+Promulgado em 2 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 5 de Fevereiro de 2007.**
+Referendado em 5 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Estatutos da Empresa de Gestão Partilhada de Recursos da Administração Pública, E. P. E.
 

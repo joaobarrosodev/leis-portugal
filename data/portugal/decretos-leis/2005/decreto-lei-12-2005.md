@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/12/2005/01/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2005-456833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a61c074d42ed33303addd9349c7fbd3c5b3abf22828634a0fb847f5e38f330fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d694a07cbc5d5b00ea3991c49618216c2656836e9d9da5e8c3c2ef7e2dd9c587
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distribuição de Energia Elétrica
-- Energia Elétrica
 - Contrato
 - Contrato de Aquisição de Energia
 - Contrato de Concessão
 - Direcção Geral de Geologia e Energia
+- Distribuição de Energia Elétrica
+- Energia Elétrica
 - Entidade Reguladora dos Serviços Energéticos
 - Produção de Energia Elétrica
 - Rede Nacional de Transporte de Energia Elétrica
@@ -94,16 +94,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/52/2004/10/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/52/2004/10/29/p/dre
+- type: corrected_by
+  target: pt:dre:362158:por
+  label: "Declarada sem efeito a publicação do presente diploma, que corresponde por lapso a uma segunda publicação do Decreto-Lei\
+    \ n.º 240/2004, de 27 de Dezembro, pela DECL-RECT.1-B/2005.14.01.2005.PCM, DR.IS-A [11]2ºSupl de 17.01.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/1-b-2005-362158
+  date: '2005-01-14'
 article_structure:
   article_count: 25
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:54Z'
   warnings: []
   errors: []
 ---
@@ -466,15 +472,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Novembro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - António José de Castro Bagão Félix - António Victor Martins Monteiro.
 
-**Promulgado em 20 de Dezembro de 2004.**
+Promulgado em 20 de Dezembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Dezembro de 2004.**
+Referendado em 22 de Dezembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO I — Metodologia de cálculo aplicável à cessação antecipada dos CAE
 
@@ -482,7 +488,7 @@ Visto e aprovado em Conselho de Ministros de 11 de Novembro de 2004. - Pedro Mig
 
 1 - O montante bruto da compensação pela cessação antecipada do CAE afecto ao centro electroprodutor k, CP(índice k), é calculado pela seguinte expressão:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
+[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
 
 2 - Na expressão do número anterior:
 
@@ -524,13 +530,13 @@ m) I(índice ref) representa o índice IPC (continente) sem habitação disponí
 
 4 - O montante global bruto da compensação, pela cessação antecipada do conjunto dos CAE celebrados por cada produtor é calculado de acordo com a seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
+[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
 
 ###### Artigo 2.º — Cálculo do valor anual da parcela fixa da tarifa UGS
 
 1 - O valor anual da parcela fixa da tarifa UGS corresponde à soma dos montantes anuais previstos no n.º 4 do artigo 5.º do presente diploma, sendo calculado, para o ano a, de acordo com a seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
+[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
 
 2 - Na expressão do número anterior:
 
@@ -560,7 +566,7 @@ b) A(índice i) representa o valor dos ajustamentos anuais previstos na alínea 
 
 1 - O valor do ajustamento anual Revisão(índice ki), relativo ao ano civil i para o centro electroprodutor k em função da revisibilidade, é calculado pela expressão:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
+[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
 
 2 - Na expressão do número anterior:
 
@@ -606,7 +612,7 @@ r) I(índice ref) representa o índice IPC (continente) sem habitação à data 
 
 O acerto de contas AC(índice i), relativo ao valor da revisão anual referente ao ano i para os efeitos do disposto no n.º 6 do artigo 3.º do presente diploma, será realizado de acordo com a expressão seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
+[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
 
 ###### Artigo 6.º — Cálculo do valor mensal da parcela de acerto da tarifa UGS
 
@@ -628,7 +634,7 @@ c) A(índice i) representa o valor dos ajustamentos anuais previstos na alínea 
 
 1 - O valor do ajustamento final AF(índice k) da compensação relativa ao centro electroprodutor k, referido a preços do início do 11.º ano após a data de cessação antecipada do respectivo CAE, é calculado pela seguinte expressão:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
+[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
 
 2 - Na expressão do número anterior:
 
@@ -662,13 +668,13 @@ m) As restantes variáveis têm o significado já atribuído no n.º 2 do artigo
 
 5 - O montante global do ajustamento final da compensação pela cessação antecipada do conjunto dos CAE celebrados por cada produtor é calculado de acordo com a seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
+[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
 
 ###### Artigo 8.º — Cálculo do valor anual do ajustamento final a integrar na parcela de acerto da tarifa UGS
 
 1 - Em cada ano civil i, e a partir do 11.º ano após a data de cessação antecipada do CAE, o montante AF(índice i) do pagamento referente ao ajustamento final para todos os produtores é calculado de acordo com a seguinte expressão:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
+[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
 
 2 - No caso de a data de cessação antecipada do CAE não coincidir com o início de um ano civil, a expressão definida no número anterior deve ser ajustada em conformidade.
 
@@ -678,7 +684,7 @@ Entidades produtoras de energia eléctrica integradas no SEP e centros electropr
 
 1 - As entidades produtoras de energia eléctrica integradas no SEP e os centros electroprodutores beneficiários de compensações pela cessação antecipada dos CAE são os seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
 
 2 - A afectação dos centros produtores hidroeléctricos a cada unidade de produção hídrica é a seguinte:
 
@@ -750,7 +756,7 @@ Fratel.
 
 1 - O preço de referência de mercado referido na alínea b) do n.º 1 do artigo 4.º do presente diploma é diferenciado por postos horários, conduzindo aos valores mensais a preços constantes da data de cessação antecipada do CAE que se indicam na tabela seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
 
 Os preços indicados na tabela acima conduzem a um valor médio anual de (euro) 36/MWh e pressupõem o recebimento horário do valor associado à garantia de potência e serviços de sistema.
 
@@ -786,14 +792,14 @@ c) Num prazo de 30 dias úteis antes do final do 10.º ano subsequente à data d
 
 2 - Os encargos com a aquisição de combustíveis a considerar na determinação do montante de CMEC à data de cessação antecipada dos CAE, a preços constantes dessa data, nos termos da alínea i) do artigo 1.º do anexo I, são os indicados na seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
 
 3 - Os encargos com a aquisição de combustíveis referidos no número anterior devem ser acrescidos dos seguintes custos de manuseamento portuário, transporte e outros custos, necessários para colocar os combustíveis nos centros electroprodutores, a preços constantes da data de cessação antecipada do CAE:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
 
 ## ANEXO VI — Valores anuais para cálculo do montante máximo actualizado de compensações devidas pela cessação antecipada dos CAE
 
 O montante compensatório máximo afecto a cada centro electroprodutor pela cessação antecipada do respectivo CAE a preços constantes dessa data é definido a partir dos valores constantes da tabela seguinte, nos termos da metodologia prevista no artigo 13.º do presente diploma:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)](https://files.diariodarepublica.pt/1s/2005/01/005a00/01540169.pdf)

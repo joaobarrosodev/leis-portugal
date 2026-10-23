@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 245/2006, 2º Suplemento, Série I de 2006-12-22
   number: '245'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 8556-(6) a 8556-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/12/24502/00060006.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/138-e/2006/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/138-e-2006-275804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:54:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22bf3e66b19971f2f164b47a201c794de2758e48624f2f0d905b1053bc4f8dce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cea0fa0b9a56fb568898b576c59a2474d99bf98e46707cbf1d7ea55336818c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:54:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:54:05Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +85,7 @@ validation:
 
 de 22 de Dezembro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:
 
 A pena residual de prisão aplicada a Martinho Gomes Viegas, de 61 anos de idade, no processo n.º 2014/97.7PTLSB, da 2.ª Secção da 5.ª Vara Criminal de Lisboa, é reduzida, por indulto, em 6 meses de prisão, por razões de ressocialização.
 
@@ -95,12 +95,12 @@ a) Não se ter o indultado constituído em ausência ilegítima do estabelecimen
 
 b) Não se constituir o indultado em ausência ilegítima do estabelecimento prisional relativamente a medida de flexibilização da pena que esteja a gozar à data da publicação do indulto.
 
-**Assinado em 22 de Dezembro de 2006.**
+Assinado em 22 de Dezembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 22 de Dezembro de 2006.**
+Referendado em 22 de Dezembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

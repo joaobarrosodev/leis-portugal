@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/24600/0587205876.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/116/2018/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2018-117471257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f53f2b95a79104dc4663c48e92e324ddb441bec2ed0ea945572daaec286d157
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55cbc6b6e735e48fe7adfb89561f65b2c138663f22ea065244445cbcaad312b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Advogado
+- Caixa de Previdência
 - Caixa de Previdência dos Advogados e Solicitadores
-- Ordem dos Advogados
 - Conselho de Fiscalização
 - Conselho Geral
 - Direção
+- Doença
+- Estágio de Formação
+- Incapacidade Temporária
 - Insuficiência Económica
 - Invalidez
-- Caixa de Previdência
-- Pensão de Reforma
-- Estágio de Formação
+- Ordem dos Advogados
+- Ordem dos Solicitadores e dos Agentes de Execução
 - Parentalidade
+- Pensão de Reforma
 - Regulamento
 - Remuneração
-- Doença
-- Incapacidade Temporária
 - Senha de Presença
 - Solicitador
-- Ordem dos Solicitadores e dos Agentes de Execução
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/119/2015/06/29/p/dre
@@ -93,16 +93,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/938/1998/10/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/938/1998/10/29/p/dre
+- type: cites
+  target: pt:dre:228790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67626867:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:58Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +163,9 @@ Os artigos 8.º, 12.º, 14.º, 15.º, 19.º, 37.º, 40.º, 79.º e 80.º do Regu
 
 Os membros da direção têm direito a compensação pecuniária pelo exercício efetivo de funções, a fixar pela comissão de remunerações, ouvido o conselho geral.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -159,7 +173,9 @@ Os membros da direção têm direito a compensação pecuniária pelo exercício
 
 3 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -179,19 +195,27 @@ e) Designar a comissão de remunerações referida nos artigos 8.º, 15.º e 19.
 
 4 - A comissão de remunerações prevista na alínea e) do n.º 1 é constituída por três membros que em anteriores mandatos tenham integrado o conselho geral, a direção e o conselho de fiscalização.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 As presenças dos membros do conselho geral às respetivas reuniões podem ser compensadas mediante o pagamento de uma senha de presença, cujo montante é fixado pela comissão de remunerações, sob proposta da direção.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 Os membros do conselho de fiscalização têm direito à compensação pecuniária pelo exercício efetivo de funções, a fixar pela comissão de remunerações, sob proposta da direção e ouvido o conselho geral.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 Os órgãos competentes da Ordem dos Advogados e da Ordem dos Solicitadores e Agentes de Execução comunicam à direção da Caixa, no prazo de 10 dias, as situações relativas à inscrição, suspensão, levantamento da suspensão, cancelamento e reinscrição dos seus advogados e advogados estagiários e dos seus associados e associados estagiários.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -209,7 +233,9 @@ a) Beneficiários inscritos na Caixa a partir de 1 de julho de 2015;
 
 b) Beneficiários que não se enquadrem nas situações previstas nos artigos 101.º, 102.º e 103.º
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - Até ao último dia de cada mês, os beneficiários efetuam o pagamento das contribuições, calculadas pela aplicação da taxa referida no número seguinte à remuneração convencional, correspondente ao escalão escolhido de entre os escalões contributivos previstos no artigo 80.º
 
@@ -227,11 +253,13 @@ c) Beneficiários do subsídio de invalidez.
 
 5 - Os pensionistas referidos na alínea b) do número anterior podem proceder voluntariamente ao pagamento de contribuições.
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - Os escalões contributivos produzem efeitos de 1 de janeiro a 31 de dezembro de cada ano e são os que constam da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/12/24600/0587205876.pdf))](https://files.diariodarepublica.pt/1s/2018/12/24600/0587205876.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/12/24600/0587205876.pdf)
 
 2 - ...
 
@@ -283,7 +311,9 @@ EMV (idade x): Esperança média de vida à idade do beneficiário aquando do in
 
 3 - A melhoria é paga pela Caixa ao beneficiário a partir do mês seguinte àquele em que ocorra o pagamento de cada grupo completo de 12 meses de contribuições.
 
-###### Artigo 79.º-A — Atualização do indexante contributivo
+Artigo 79.º-A
+
+Atualização do indexante contributivo
 
 1 - Os escalões contributivos têm como referência o Indexante Contributivo (IC), atualizado nos termos dos números seguintes.
 
@@ -293,7 +323,9 @@ EMV (idade x): Esperança média de vida à idade do beneficiário aquando do in
 
 4 - Até ao dia 15 de outubro do ano anterior àquele a que respeita, o valor do IC é divulgado pela Caixa no seu portal institucional.
 
-###### Artigo 81.º-A — Suspensão temporária da obrigação do pagamento de contribuições
+Artigo 81.º-A
+
+Suspensão temporária da obrigação do pagamento de contribuições
 
 1 - Podem requerer a suspensão temporária da obrigação do pagamento de contribuições os beneficiários que, por comprovado motivo de doença grave ou de situação particular de parentalidade, reúnam cumulativamente as seguintes condições:
 
@@ -335,7 +367,9 @@ c) Os adotantes durante seis meses após a adoção.
 
 14 - Para efeitos do disposto no presente artigo, a Caixa pode obter informações, solicitar documentos e ordenar a realização de quaisquer diligências e inquéritos que entenda necessários.
 
-###### Artigo 81.º-B — Redução temporária do escalão contributivo
+Artigo 81.º-B
+
+Redução temporária do escalão contributivo
 
 1 - Em alternativa à suspensão da obrigação do pagamento de contribuições prevista no artigo anterior, e desde que verificadas as condições cumulativas referidas no n.º 1 daquele artigo, os beneficiários podem requerer o pagamento de contribuições pelo 4.º escalão contributivo durante o prazo máximo de 6 meses.
 
@@ -381,12 +415,14 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 6 de dezembro de 2018. - António Luís Santos da Costa - Francisca Eugénia da Silva Dias Van Dunem - Cláudia Sofia de Almeida Gaspar Joaquim.
 
-**Promulgado em 12 de dezembro de 2018.**
+Promulgado em 12 de dezembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 17 de dezembro de 2018.**
+Referendado em 17 de dezembro de 2018.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
+
+111922199

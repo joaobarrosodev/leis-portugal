@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/21400/0565205661.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/165/2014/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2014-58752835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13fcaa2ffa3864a5834b0f448591b81085fcb2afc86851c99d96ad08da06e6b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7470e1b678db798cb9e9aa88a3533dac7ef9d70054e93bf5673ce5c226122e08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
-- Ordenamento do Território
 - Contra-ordenação
+- Documento Eletrónico
 - Estabelecimento Industrial
 - Exploração Pecuária
 - Fiscalização
+- Gestão de Resíduos
 - Investimento
 - Licenciamento
-- Documento Eletrónico
-- Proteção do Ambiente
+- Ordenamento do Território
 - Pedreiras
 - Política de Solos
-- Urbanismo
 - Prazo
+- Proteção do Ambiente
 - Servidão Administrativa
+- Urbanismo
 - Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:1148792656:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74967215:por
+  label: Prorrogado até um ano a contar de 24.07.2016 e com efeitos a 02.01. 2016, o prazo previsto no n.º 1 do art. 3.º do
+    presente diploma pelo(a) Lei n.º 21/2016 - Diário da República n.º 137/2016, Série I de 2016-07-19, nos termos do art.
+    1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/21-2016-74967215
+  date: '2016-07-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127
   label: null
@@ -129,16 +136,120 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:174868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670034:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:27Z'
   warnings: []
   errors: []
 ---
@@ -473,7 +584,9 @@ g) Livro de obra;
 
 h) Plano de segurança e saúde.
 
-###### Artigo 15.º — Título de exploração ou de exercício
+###### Artigo 15.º
+
+## Título de exploração ou de exercício
 
 1 - No caso de decisão favorável ou favorável condicionada em sede de conferência decisória é fixado um prazo, com o limite máximo de dois anos a contar do pedido, até ao termo do qual o requerente deve iniciar o procedimento aplicável ao abrigo dos regimes legais sectoriais com vista à obtenção do título de exploração ou de exercício da atividade, sob pena de caducidade do título para a exploração provisória do estabelecimento ou para o exercício da atividade previsto no n.º 6 do artigo 11.º
 
@@ -589,12 +702,12 @@ O presente decreto-lei entra em vigor no 1.º dia útil do segundo mês seguinte
 
 Visto e aprovado em Conselho de Ministros de 11 de setembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - José Pedro Correia de Aguiar-Branco - Manuel Castro Almeida - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 30 de outubro de 2014.**
+Promulgado em 30 de outubro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de outubro de 2014.**
+Referendado em 30 de outubro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

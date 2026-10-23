@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/04/06800/0116801168.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/9/2016/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/9-2016-74076007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T05:27:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c5041391896f915d8a0e710c2c9e7770e1712ba34efe9aafe7d4abe2a6b2686
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8dea5c101a7eed9e0d3638260714794ecc7d46177d527fcc910e0ad6dc205ab9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:27:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira Militar
-- Marinha
 - Graduação Militar
+- Marinha
+- Militar
 - Patente Militar
 - Promoção Profissional
-- Militar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/1-a/2009/07/07/p/dre
@@ -83,13 +83,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:27:37Z'
   warnings: []
   errors: []
 ---
@@ -98,12 +98,12 @@ validation:
 
 de 7 de abril
 
-**O Presidente da República decreta, nos termos do n.º 2 do artigo 25.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/dre/detalhe/lei-organica/1-a-2009-345291), de 7 de julho, alterada e republicada pela [Lei Orgânica n.º 6/2014](https://diariodarepublica.pt/dre/detalhe/lei-organica/6-2014-56384929), de 1 de setembro, o seguinte:**
+O Presidente da República decreta, nos termos do n.º 2 do artigo 25.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/dre/detalhe/lei-organica/1-a-2009-345291), de 7 de julho, alterada e republicada pela [Lei Orgânica n.º 6/2014](https://diariodarepublica.pt/dre/detalhe/lei-organica/6-2014-56384929), de 1 de setembro, o seguinte:
 
 É confirmada a promoção ao posto de Vice-Almirante do Contra-Almirante, da classe de Marinha, Edgar Marcos de Bastos Ribeiro, efetuada por deliberação de 23 de março de 2016 do Conselho de Chefes de Estado-Maior e aprovada por despacho do Ministro da Defesa Nacional de 31 do mesmo mês.
 
-**Assinado em 5 de abril de 2016.**
+Assinado em 5 de abril de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.

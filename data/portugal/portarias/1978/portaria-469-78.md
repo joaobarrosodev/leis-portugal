@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/469-1978-299790
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T05:41:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90e26c92580aea39dfd2a71c396b0c6904bf7fda6462874a5b6410d23951be0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09cf5596e78f1d215efdc24d83fdf6c7fd8d49643a9fefd94acacf7502b724d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:41:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Indústria e Tecnologia
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:381529:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:381529:por
+  label: "Determinada a fusão do quadro de pessoal dirigente e técnico do Gabinete de Organização e Recursos Humanos, constante\
+    \ do presente diploma, com o quadro I anexo ao Decreto Regulamentar n.º 86/77, de 16 de Dezembro pela PORT.382/79.31.07.1979.PCM,\
+    \ DR.IS [175] de 31.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/382-1979-381529
+  date: '1979-07-31'
+- type: cites
+  target: pt:dre:276601:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:41:57Z'
   warnings: []
   errors: []
 ---
@@ -106,10 +121,10 @@ Quadro de pessoal do GORH
 
 Pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/18900/16721673.pdf))](https://files.diariodarepublica.pt/1s/1978/08/18900/16721673.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/18900/16721673.pdf)
 
 Pessoal técnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/18900/16721673.pdf))](https://files.diariodarepublica.pt/1s/1978/08/18900/16721673.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/18900/16721673.pdf)
 
-**O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Reforma Administrativa, Rui Eduardo Ferreira Rodrigues Pena. - O Ministro da Indústria e Tecnologia, Carlos Montês Melancia.**
+O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Reforma Administrativa, Rui Eduardo Ferreira Rodrigues Pena. - O Ministro da Indústria e Tecnologia, Carlos Montês Melancia.

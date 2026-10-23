@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 173/2007, 2º Suplemento, Série I de 2007-09-07
   number: '173'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 6352-(60) a 6352-(66)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/09/17302/0006000066.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/309-a/2007/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-a-2007-683003
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b561d2ad32addad9d833c19481417d7e722fe82097e4082a128564cb272217d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1542f0f031c46d8df57849cdcdadc1937ea8deabfe025d49f21d7cbede274342
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acção Financeira
+- Atividade Bancária
+- Banco de Portugal
+- Bolseiro
+- Empréstimo
+- Ensino Superior
+- Estudante
 - Financiamento
+- Fundo de Contragarantia Mútuo
 - Garantia
 - Instituição de Crédito
-- Bolseiro
 - Investigação Científica e Tecnológica
-- Mudança Tecnológica
-- Empréstimo
-- Estudante
-- Fundo de Contragarantia Mútuo
-- Banco de Portugal
-- Atividade Bancária
 - Microcrédito Bancário
-- Ensino Superior
+- Mudança Tecnológica
 - Sociedade de Garantia Mútua
 relationships:
 - type: amended_by
   target: pt:dre:177528433:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:177528433:por
+  label: Aditado o art. 19.º-A ao Dec Lei 211/98 de 16-jul, na versão republicada pelo presente diploma pelo(a) Decreto-Lei
+    n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12, nos termos do seu art. 7.º, e que procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-2022-177528433
+  date: '2022-01-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/181/1992/08/22/p/dre
   label: null
@@ -99,16 +105,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/211/1998/07/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1998/07/16/p/dre
+- type: cites
+  target: pt:dre:258132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2593890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423245:por
+  label: null
+  source: null
 article_structure:
-  article_count: 27
+  article_count: 25
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:47Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +183,9 @@ Os artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 211/98](https://diariodarepubl
 
 As sociedades de garantia mútua são instituições de crédito que têm por objecto uma actividade bancária restrita à realização de operações financeiras e à prestação de serviços conexos previstos neste diploma em benefício de micro, pequenas e médias empresas, ou outras pessoas colectivas, qualquer que seja a sua natureza jurídica, designadamente associações e agrupamentos complementares de empresas, e pessoas singulares, em especial estudantes e investigadores, regendo-se pelo disposto no presente diploma e pelas disposições aplicáveis do Regime Geral das Instituições de Crédito e Sociedades Financeiras.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 -...
 
@@ -191,7 +215,9 @@ b) Garantias emitidas em benefício de micro, pequenas e médias empresas não a
 
 8 - É assegurado, na contratação das garantias de carteira previstas no n.º 2, que o accionista promotor afecte à linha de crédito uma parte da sua participação no capital social da sociedade de garantia mútua, sobre a qual será constituído penhor, em benefício da sociedade de garantia mútua, como contrapartida da garantia prestada por essa sociedade, em número de acções e nos termos que venham a ser fixados pelo conselho geral do Fundo de Contragarantia Mútuo, podendo esta executar o mesmo, adjudicando a si, ao respectivo valor nominal, ou vendendo-as extrajudicialmente.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 -...
 
@@ -223,15 +249,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros, de 23 de Agosto de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel António Gomes de Almeida de Pinho - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 5 de Setembro de 2007.**
+Promulgado em 5 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Setembro de 2007.**
+Referendado em 6 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 211/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1998-423245), de 16 de Julho
 

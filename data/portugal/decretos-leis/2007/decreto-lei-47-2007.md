@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/02/04100/13861390.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/47/2007/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2007-518860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68667a3759d1a293f9b0e18cd2b82c55060aae35d1098530807e6bff82fa0c24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e053b0ee7c8a6d623d083be0593ae73b85de6621df6d82055c5cddd340944586
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Fiscal Único
 - Casa do Douro
-- Pessoal Dirigente
-- Vinho
-- Denominação de Origem
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Comércio
+- Conselho Consultivo
 - Conselho Interprofissional
 - Controlo de Qualidade
 - Definição de Competências
-- Fiscalização
-- Conselho Consultivo
-- Instituto dos Vinhos do Douro e do Porto
-- Orgânica
+- Denominação de Origem
 - Exportação
+- Fiscal Único
+- Fiscalização
+- Instituto dos Vinhos do Douro e do Porto
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Orgânica
+- Pessoal Dirigente
 - Presidente
-- Região Demarcada do Douro
-- Comércio
-- Vice-presidente
 - Produto Vitivinícola
+- Região Demarcada do Douro
+- Vice-presidente
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:552998:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:247711:por
+  label: "Alterado o art. 6º pelo DEC LEI.32/2008.25.02.2008.MADRP, DR.IS [39] de 25.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2008-247711
+  date: '2008-02-25'
+- type: amended_by
+  target: pt:dre:280482:por
+  label: "Dada nova redacção aos arts. 3º, 4º, 5º e 15º, e aditados os arts. 3º-A e 9º-A pelo DEC LEI.20/2011.08.02.2011.MADRP,\
+    \ DR.IS [27] de 08.02.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2011-280482
+  date: '2011-02-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/190/2001/06/25/p/dre
   label: null
@@ -110,16 +121,51 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:228465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:521041:por
+  label: "Rectificado pela DECL-RECT.35/2007.23.04.2007.PCM, DR.IS [81] de 26.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/35-2007-521041
+  date: '2007-04-23'
+- type: repealed_by
+  target: pt:dre:552998:por
+  label: "Revogado, a partir de 01.05.2012, o presente diploma, na redacção do Dec Lei 32/2008, de 25-fev, e Dec Lei 20/2011,\
+    \ de 08-fev, pelo DEC LEI.97/2012.23.04.2012.MAMAOT, DR.IS [80] de 23.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2012-552998
+  date: '2012-04-23'
 article_structure:
   article_count: 20
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:47Z'
   warnings: []
   errors: []
 ---
@@ -304,7 +350,7 @@ e) Propor ao Governo as medidas convenientes para a concretização dos princíp
 
 ###### Artigo 8.º
 
-#### Secção especializada relativa à denominação de origem «Porto»
+Secção especializada relativa à denominação de origem «Porto»
 
 1 - A secção especializada relativa à denominação de origem «Porto» é composta por:
 
@@ -338,7 +384,7 @@ v) Propor regras quanto à oferta na primeira colocação no mercado, no que res
 
 ###### Artigo 9.º
 
-#### Secção especializada relativa à denominação de origem «Douro»
+Secção especializada relativa à denominação de origem «Douro»
 
 1 - A secção especializada relativa à denominação de origem «Douro» é composta por:
 
@@ -438,12 +484,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 2 de Fevereiro de 2007.**
+Promulgado em 2 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 5 de Fevereiro de 2007.**
+Referendado em 5 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

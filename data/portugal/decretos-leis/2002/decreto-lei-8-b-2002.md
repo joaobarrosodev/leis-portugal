@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 12/2002, 1º Suplemento, Série I-A de 2002-01-15
   number: '12'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 320-(8) a 320-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/01/012a01/00080013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/8-b/2002/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-b-2002-314416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fe8c8dacbca8c19fafc1c62beeef0199a01aaf74c763700c5eca2adb505697d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73d443a030f23f5c4dc4907f2ba3b965f1c8e52789adb1d28499fe990dd123de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,6 +78,43 @@ relationships:
   target: pt:dre:990416:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:235906:por
+  label: "Alterado o nº 4 do art. 4º pelo DEC LEI.111/2005.08.07.2005.MJ, DR.IS-A [130] de 08.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2005-235906
+  date: '2005-07-08'
+- type: amended_by
+  target: pt:dre:356373:por
+  label: "Alterado o artigo 4.º, na redacção do Decreto-Lei 111/2005, de 08 de Julho, pelo DEC LEI.125/2006.29.06.2006.MJ,\
+    \ DR.IS-A [124] de 29.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2006-356373
+  date: '2006-06-29'
+- type: amended_by
+  target: pt:dre:638538:por
+  label: "Atribuídas ao Instituto da Segurança Social, I.P., (ISS, I.P.) as competências do IGFSS, I.P., e suas delegações\
+    \ previstas no presente diploma, com excepção do disposto no cap. IV, pelo DEC LEI.215/2007.29.05.2007.MTSSO, DR.IS [103]\
+    \ de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2007-638538
+  date: '2007-05-29'
+- type: amended_by
+  target: pt:dre:640908:por
+  label: "Alterado o art. 4º, na redacção dos Dec Lei 111/2005 de 08-Jul e 125/2006 de 29-Jun, pela LEI.40/2007.24.08.2007.AR,\
+    \ DR.IS [163] de 24.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/40-2007-640908
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:249803:por
+  label: "Alterado o art. 4º, na redacção dos Dec Lei 111/2005, de 08-Jul, Dec Lei 125/2006, de 29-Jun, e Dec Lei 40/2007,\
+    \ de 24-Ago, pelo DEC LEI.73/2008.16.04.2008.MJ, DR.IS [75] de 16.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2008-249803
+  date: '2008-04-16'
+- type: amended_by
+  target: pt:dre:608757:por
+  label: "Alterados, a partir de 01.10.2009, os art.s 4º (na redacção do Dec Lei 111/2005, de 08-Jul, Dec Lei 125/2006, de\
+    \ 29-Jun, Lei 40/2007, de 24-Ago, e Dec Lei 73/2008, de 16-Abr), 8º, 10º e 11º e revogados a al. d) do nº 1, nº 2 do art.\
+    \ 8º e nº 2 do art. 10º pelo DEC LEI.122/2009.21.05.2009.MJ, DR.IS [98] de 21.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2009-608757
+  date: '2009-05-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1993/04/23/p/dre
   label: null
@@ -98,16 +135,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1039/2001/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1039/2001/08/27/p/dre
+- type: cites
+  target: pt:dre:239980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666341:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado o presente diploma, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela Lei n.º\
+    \ 119/2009, de 30 de Dezembro), na redacção do Dec Lei 111/2005, de 08-Jul, do 125/2006, de 29-Jun, da Lei 40/2007, de\
+    \ 24-Ago, do Dec Lei 73/2008, de 16-Abr e do Dec Lei 122/2009, de 21-Maio, pela LEI.110/2009.16.09.2009.AR, DR.IS [180]\
+    \ de 16.09.2009, , sem prejuízo de, até à entrada em vigor da regulamentação [prevista no art. 4.º] se manter transitoriamente\
+    \ em vigor as disposições procedimentais do presente diploma que não contrariem o disposto no Código aprovado pela citada\
+    \ Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
 article_structure:
   article_count: 37
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:29Z'
   warnings: []
   errors: []
 ---
@@ -406,12 +477,12 @@ O presente diploma produz efeitos a partir de 1 de Janeiro de 2002.
 
 Visto e aprovado em Conselho de Ministros de 13 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Paulo José Fernandes Pedroso.
 
-**Promulgado em 9 de Janeiro de 2002.**
+Promulgado em 9 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Janeiro de 2002.**
+Referendado em 14 de Janeiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

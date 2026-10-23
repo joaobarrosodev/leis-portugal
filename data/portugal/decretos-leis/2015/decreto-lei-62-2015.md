@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/07900/0204202044.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/62/2015/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2015-67059139
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb76ea490971a388f63d044d2a5ed05a99917125fbeb79f0b5fde08f9fc76ea2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c79868e57c18a920a64e64723736aeaf728318589a2f9198a6aa2d8356f3eb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Caixa Geral de Aposentações
 - Estaleiros Navais de Viana do Castelo
 - Extinção de Serviços
-- Caixa Geral de Aposentações
 - Fundo de Pensões
-- Pagamento
 - Gestnave
+- Pagamento
 - Pensão de Invalidez
+- Pensão de Reforma
 - Pensão de Sobrevivência
 - Pensão de Velhice
-- Pensão de Reforma
 - Pensionista
 - Pensões
 - Prestações da Segurança Social
@@ -90,16 +90,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/706/1997/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/706/1997/08/22/p/dre
+- type: cites
+  target: pt:dre:195824:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:00Z'
   warnings: []
   errors: []
 ---
@@ -242,12 +246,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 5 de março de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - José Pedro Correia de Aguiar-Branco.
 
-**Promulgado em 15 de abril de 2015.**
+Promulgado em 15 de abril de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de abril de 2015.**
+Referendado em 17 de abril de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/121-1973-684648
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:59:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 160fa4c8354d389202f653c9712f8552de6dc6f9ee982bfea705c42bc6423fa5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4e70c51aa4c9aaf1a3560b8fa9020a703c7e36584c64852d4cc1083abd79fd2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:59:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:268585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514803:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:59:16Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +97,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1.º As mercadorias produzidas em regime de armazém aduaneiro de natureza especial pela Empresa Cometal Mometal, S. A. R. L., de Moçambique, entradas em consumo naquele Estado, ficam sujeitas aos descontos nos direitos a seguir indicados, em função da percentagem de trabalho nacional nelas incorporada:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/02/04300/02380239.pdf))](https://files.diariodarepublica.pt/1s/1973/02/04300/02380239.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/02/04300/02380239.pdf)
 
 2.º Os descontos nos direitos correspondentes a percentagens intermédias dos escalões indicados serão calculados por interpolação.
 

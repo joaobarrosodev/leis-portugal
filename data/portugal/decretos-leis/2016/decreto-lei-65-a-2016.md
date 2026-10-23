@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 205/2016, 1º Suplemento, Série I de 2016-10-25
   number: '205'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3822-(2) a 3822-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/10/20501/0000200015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/65-a/2016/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-a-2016-75603289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51bdf16fffc622769335d4c729c313209f9d1cb5926990cbee7ca753015503fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b22988c4e79a60d25b704626f52809e730691fb6873a5fdfc132905ad7bf6fd6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Camões - Instituto da Cooperação e da Língua
 - Comissão de Serviço
 - Coordenador
-- Língua Portuguesa
 - Definição de Competências
-- Regime Laboral
 - Ensino Português no Estrangeiro
-- Camões - Instituto da Cooperação e da Língua
+- Língua Portuguesa
 - Pessoal Docente
 - Regime Jurídico
+- Regime Laboral
 relationships:
 - type: amended_by
   target: pt:dre:122869973:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:122869973:por
+  label: Alterado, nos termos do art. 3.º do presente diploma, o art. 22.º do Dec.Lei 165/2006 de 11-ago, na versão republicada
+    pelo presente diploma, pelo(a) Decreto-Lei n.º 88/2019 - Diário da República n.º 125/2019, Série I de 2019-07-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-2019-122869973
+  date: '2019-07-03'
 - type: cites
   target: eli:ht
   label: null
@@ -124,16 +130,112 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/85/2009/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/85/2009/08/27/p/dre
+- type: cites
+  target: pt:dre:145192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74738647:por
+  label: null
+  source: null
 article_structure:
-  article_count: 77
+  article_count: 67
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:32Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +306,9 @@ i) [...].
 
 8 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -230,7 +334,9 @@ i) Na implementação da certificação dos conhecimentos adquiridos na rede do 
 
 3 - [...].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - As funções de coordenador e de adjunto de coordenação são exercidas em comissão de serviço, pelo período de três anos, renovável por iguais períodos.
 
@@ -244,7 +350,9 @@ i) Na implementação da certificação dos conhecimentos adquiridos na rede do 
 
 6 - Aos coordenadores e adjuntos de coordenação aplica-se, relativamente ao exercício do poder disciplinar, o disposto no capítulo vii da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, alterada pelas [Leis n.os 82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, [84/2015](https://diariodarepublica.pt/dr/detalhe/lei/84-2015-69968702), de 7 de agosto, e [18/2016](https://diariodarepublica.pt/dr/detalhe/lei/18-2016-74738647), de 20 de junho.
 
-###### Artigo 19.º-D — [...]
+Artigo 19.º-D
+
+[...]
 
 1 - [Revogado].
 
@@ -256,7 +364,9 @@ a) Ao coordenador ou, na sua falta, ao presidente do Camões, I. P.; e
 
 b) À embaixada ou consulado da respetiva área.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...].
 
@@ -272,7 +382,9 @@ b) À embaixada ou consulado da respetiva área.
 
 7 - [...].
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - O pessoal docente rege-se em matéria de férias, faltas e licenças pelas disposições aplicáveis da LTFP, com as especificidades constantes do presente decreto-lei.
 
@@ -284,19 +396,25 @@ b) À embaixada ou consulado da respetiva área.
 
 5 - [...].
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - O exercício das funções de docente do ensino português no estrangeiro pode ser acumulado com outras funções nos termos da LTFP, mediante despacho de autorização do presidente do Camões, I. P., obtida a concordância da instituição em que preste serviço.
 
 2 - Ao leitor da rede do ensino português no estrangeiro pode ser cometida, pelo presidente do Camões, I. P., a gestão de um centro de língua portuguesa e a inerente responsabilidade pela elaboração e execução do correspondente plano anual de atividades, bem como a direção de um centro cultural português.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Aos docentes do ensino português no estrangeiro aplica-se, relativamente ao exercício do poder disciplinar, o disposto no capítulo VII da LTFP.
 
 2 - [...].
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...].
 
@@ -334,7 +452,9 @@ b) Os métodos e critérios de seleção;
 
 c) A composição e identificação do júri.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...].
 
@@ -344,7 +464,9 @@ c) A composição e identificação do júri.
 
 4 - À contratação local a termo resolutivo aplica-se a LTFP, com as especificidades constantes do presente decreto-lei, com exceção do direito ao suplemento remuneratório referido no n.º 5 do artigo 34.º e ao regime das despesas previstas nos n.os 1 e 2 do artigo 34.º-A.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 Em tudo o que não se encontrar especialmente previsto no presente decreto-lei em matéria de pessoal docente, aplica-se, por esta ordem:
 
@@ -384,15 +506,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de outubro de 2016. - Augusto Ernesto Santos Silva - Maria Margarida Ferreira Marques - Mário José Gomes de Freitas Centeno - Tiago Brandão Rodrigues.
 
-**Promulgado em 24 de outubro de 2016.**
+Promulgado em 24 de outubro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 25 de outubro de 2016.**
+Referendado em 25 de outubro de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -568,7 +690,7 @@ As estruturas de coordenação do ensino português no estrangeiro são constitu
 
 ###### Artigo 13.º — Apoio logístico e administrativo
 
-**O chefe da missão diplomática ou posto consular disponibiliza apoio logístico e administrativo para o desempenho das funções dos responsáveis pela coordenação do ensino português no estrangeiro.**
+O chefe da missão diplomática ou posto consular disponibiliza apoio logístico e administrativo para o desempenho das funções dos responsáveis pela coordenação do ensino português no estrangeiro.
 
 #### SECÇÃO II — Funcionamento
 

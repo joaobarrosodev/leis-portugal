@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 55/1986, 2º Suplemento, Série I de 1986-03-07
   number: '55'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 564-(5) a 564-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/05502/00050005.pdf
 entry_into_force_dates: []
@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/4-i-1986-628071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:59:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16712f36fe8a411a623b73ad36e49825dde7b9c1e18ded774f973b9518ea7c7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62e52b665eb5a66de810b744e32ec05db5cc036eedcd01222f86d3be972fcbd4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:59:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Copenhaga
+- Dinamarca
+- Embaixador
+- Exoneração
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:59:44Z'
   warnings: []
   errors: []
 ---
@@ -85,16 +89,16 @@ validation:
 
 de 7 de Março
 
-**O Presidente da República decreta, nos termos da alínea a) do artigo 138.º da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos da alínea a) do artigo 138.º da Constituição, o seguinte:
 
 É exonerado, sob proposta do Governo, o ministro plenipotenciário de 1.ª classe Carlos Alberto Soares Simões Coelho do cargo de embaixador de Portugal em Copenhaga.
 
-**Assinado em 6 de Março de 1986.**
+Assinado em 6 de Março de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 6 de Março de 1986.**
+Referendado em 6 de Março de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro dos Negócios Estrangeiros, Pedro José Rodrigues Pires de Miranda.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro dos Negócios Estrangeiros, Pedro José Rodrigues Pires de Miranda.

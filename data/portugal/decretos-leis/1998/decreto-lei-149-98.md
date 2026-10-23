@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/120a00/24602467.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/149/1998/05/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-1998-457224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:57:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb27bf730a2384cf7714107ce9376554c6db8d1af00085d3d4988053460cd022
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4783051eb1add089e693f65960f1116f1ea1b7a43ccdb664a57af69afab2e0bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:57:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
 subjects:
 - Auditório Nacional Carlos Alberto
 - CASA das Artes
-- Pessoal Dirigente
-- Inspecção Geral das Actividades Culturais
 - Conselho Administrativo
 - Definição de Competências
 - Diretor
 - Extinção de Serviços
+- Inspecção Geral das Actividades Culturais
 - Instituto das Artes Cénicas
 - Instituto Português das Artes do Espectáculo
 - Integração de Trabalhadores
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Teatro Nacional de DONA Maria II
 - Transferência de Competências
@@ -85,6 +85,22 @@ relationships:
   target: pt:dre:660295:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:191550:por
+  label: "Alterados os arts. 26º e 32º da Lei Orgânica pelo DEC LEI.402/98.1998.12.17.MC, DR.IS-A [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/402-1998-191550
+  date: '1998-12-17'
+- type: amended_by
+  target: pt:dre:138784:por
+  label: "Alterados os arts. 15º, 28º e 31º e revogado o art. 32º (este último na redacção do Dec Lei 402/98 de 17-Dez) pelo\
+    \ DEC LEI.109/99.1999.03.31.MC, DR.IS-A [76]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-1999-138784
+  date: '1999-03-31'
+- type: amended_by
+  target: pt:dre:209042:por
+  label: "Alterado o art. 31º pelo DEC LEI.21/2003.2002.02.03.MC DR.IS-A [28]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2003-209042
+  date: '2002-02-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/243/1997/09/18/p/dre
   label: null
@@ -101,16 +117,51 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/80/1997/04/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/80/1997/04/08/p/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652770:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:582192:por
+  label: "Revogada a al g) do art. 15º e o art. 31º, na parte que se refere ao Teatro Luís de Camões, pelo DEC LEI.354/99.1999.09.03.MC,DR.IS-A\
+    \ [206]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/354-1999-582192
+  date: '1999-09-03'
+- type: repealed_by
+  target: pt:dre:660295:por
+  label: "Revogado pelo DEC LEI.181/2003.2003.08.16.MC DR.IS-A [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-2003-660295
+  date: '2003-08-16'
 article_structure:
   article_count: 35
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:57:33Z'
   warnings: []
   errors: []
 ---
@@ -353,7 +404,9 @@ a) A Divisão de Equipamentos;
 
 b) A Divisão de Coordenação e Programação.
 
-###### Artigo 14.º — Divisão de Equipamentos
+###### Artigo 14.º
+
+##### Divisão de Equipamentos
 
 São funções do Departamento de Descentralização e Difusão, a realizar pela Divisão de Equipamentos:
 
@@ -371,7 +424,9 @@ f) Articular com a Inspecção-Geral das Actividades Culturais os programas e pr
 
 g) Pronunciar-se, quando solicitado, sobre alterações no domínio da exploração de recintos de espectáculo, nomeadamente a afectação a fins diversos ou o seu encerramento.
 
-###### Artigo 15.º — Divisão de Coordenação e Programação
+###### Artigo 15.º
+
+##### Divisão de Coordenação e Programação
 
 São funções do Departamento de Descentralização e Difusão, a realizar pela Divisão de Coordenação e Programação:
 
@@ -621,14 +676,14 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Março de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Manuel Maria Ferreira Carrilho.
 
-**Promulgado em 12 de Maio de 1998.**
+Promulgado em 12 de Maio de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Maio de 1998.**
+Referendado em 14 de Maio de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/05/120a00/24602467.pdf)

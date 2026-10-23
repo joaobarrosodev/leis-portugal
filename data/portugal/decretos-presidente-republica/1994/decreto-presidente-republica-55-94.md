@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/55/1994/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/55-1994-300229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T04:17:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3d20c5bca072170e8b478e682b772cacde050c18329a6501ace6882bfc5c6d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8174e00cb66bb296d2376087376fab2efac5ec83a50cd8fe11c865f95982b143
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:17:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo CE
-- Processo Penal
 - CE Países
 - Comunidade Europeia
 - Convenção
-- Portugal
 - Cooperação Judiciária
+- Portugal
+- Processo Penal
 - Roma
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/38/1994/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/38/1994/07/13/p/dre
+- type: cites
+  target: pt:dre:300231:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:17:16Z'
   warnings: []
   errors: []
 ---
@@ -96,16 +100,16 @@ validation:
 
 de 13 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo entre os Estados Membros da Comunidade Europeia Relativo à Transmissão de Processos Penais, aberto à assinatura a 6 de Dezembro de 1990, aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 38/94](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/38-1994-300231), em 10 de Março de 1994, com a formulação da seguinte declaração interpretativa relativa ao artigo 5.º: a expressão «recolher as observações das pessoas em causa» é interpretada no sentido de a mesma abranger a audição do arguido previamente à decisão sobre o pedido de procedimento. Assim, declara que, enquanto Estado requerido, fará sempre preceder a decisão sobre o pedido de audição do arguido e, enquanto Estado requerente, solicitará ao Estado requerido a audição do arguido.
 
-**Assinado em 1 de Junho de 1994.**
+Assinado em 1 de Junho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Junho de 1994.**
+Referendado em 7 de Junho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

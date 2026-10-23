@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/244a00/69836995.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/415/1999/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1999-667275
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:12:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4266f85ba71391d79176e806c7cc2597073df8c9dcaa0b0d980060136363f153
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e97d5668b570a13455777d80f356fe88153b9a54cc5f4d4d4352ca30875ba62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:12:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
-- Gado Caprino
 - Carne
-- Produto Cárneo
 - Carne de Caprino
+- Carne de Ovino
 - Carne de Suíno
 - Carne de Vaca
 - CEE
 - Contra-ordenação
 - Controlo de Qualidade
-- Direção Geral de Veterinária
 - Controlo Sanitário
+- Direção Geral de Veterinária
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
 - Fiscalização
 - Gado Bovino
-- Carne de Ovino
+- Gado Caprino
+- Gado Ovino
 - Gado Suíno
 - Importação
-- Gado Ovino
 - Países Terceiros
+- Produto Cárneo
 - Regulamento
 relationships:
 - type: amended_by
@@ -141,16 +141,21 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/1
   label: null
   source: http://data.europa.eu/eli/dir/1
+- type: repealed_by
+  target: pt:dre:671385:por
+  label: "Revogado pelo DEC LEI.73/2006.24.03.2006.MADRP, DR.IS-A [60] de 24.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2006-671385
+  date: '2006-03-24'
 article_structure:
   article_count: 30
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:12:17Z'
   warnings: []
   errors: []
 ---
@@ -241,15 +246,15 @@ São revogados o Decreto-Lei n.º 6/92, de 22 de Janeiro, e as Portarias n.os 41
 
 Visto e aprovado em Conselho de Ministros de 9 de Junho de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos.
 
-**Promulgado em 23 de Setembro de 1999.**
+Promulgado em 23 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Outubro de 1999.**
+Referendado em 1 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO A
 
@@ -717,8 +722,8 @@ Todos os encargos ocasionados pela aplicação dos artigos 18.º e 19.º ficarã
 
 O presente diploma só é aplicável às importações provenientes de um país terceiro, das carnes frescas referidas no n.º 1, alínea c), do artigo 1.º ou de produtos à base de carne a partir da entrada em vigor da ou das decisões da Comissão adoptadas segundo o processo comunitariamente previsto.
 
-## ANEXO B — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/10/244a00/69836995.pdf)
+## ANEXO B — [[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/10/244a00/69836995.pdf)](https://files.diariodarepublica.pt/1s/1999/10/244a00/69836995.pdf)](https://files.diariodarepublica.pt/1s/1999/10/244a00/69836995.pdf)
 
-## ANEXO C — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/10/244a00/69836995.pdf)
+## ANEXO C — [[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/10/244a00/69836995.pdf)](https://files.diariodarepublica.pt/1s/1999/10/244a00/69836995.pdf)](https://files.diariodarepublica.pt/1s/1999/10/244a00/69836995.pdf)
 
-## ANEXO D — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/10/244a00/69836995.pdf)
+## ANEXO D — [[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/10/244a00/69836995.pdf)](https://files.diariodarepublica.pt/1s/1999/10/244a00/69836995.pdf)](https://files.diariodarepublica.pt/1s/1999/10/244a00/69836995.pdf)

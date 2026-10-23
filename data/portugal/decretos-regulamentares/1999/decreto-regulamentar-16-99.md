@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/16/1999/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1999-434406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed37d1863f03ccb98f769fe2a7f4a47d660d531e50c68708aad72f35291e91c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21941d59be985bc83690432fed764857e8191fa896f51fa37cbaadd46d826912
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
 - Contra-ordenação
 - Controlo de Qualidade
 - Estabelecimento Hoteleiro
 - Indústria Hoteleira
+- Infraestrutura Turística
 - Proteção do Consumidor
 - Qualidade do Produto
-- Infraestrutura Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:247248:por
@@ -95,16 +95,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/5/1997/03/31/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/5/1997/03/31/p/dre
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659296:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247248:por
+  label: "Revogado o DR 36/97 de 25-Set, com as alterações introduzidas pelo presente diploma,(revogado nos mesmos termos)\
+    \ pela LEI.39/2008.07.03.2008.MEI, DR.IS [48] de 07.03.2008, com a entrada em vigor das portarias nele previstas\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2008-247248
+  date: '2008-03-07'
 article_structure:
-  article_count: 75
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:52Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +167,9 @@ a) As instalações ou os estabelecimentos que, embora destinados a proporcionar
 
 b) ...
 
-###### Artigo 5.º — Unidades de alojamento
+Artigo 5.º
+
+Unidades de alojamento
 
 1 - ...
 
@@ -155,7 +183,9 @@ b) ...
 
 6 - ...
 
-###### Artigo 6.º — Quartos
+Artigo 6.º
+
+Quartos
 
 1 - ...
 
@@ -165,7 +195,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 8.º — Apartamentos
+Artigo 8.º
+
+Apartamentos
 
 1 - ...
 
@@ -185,7 +217,9 @@ b) ...
 
 9 - Os estúdios podem ter uma zona de dormir composta por duas camas fixas individuais ou uma cama fixa dupla, quando estas estiverem separadas esteticamente da zona de estar e da pequena cozinha (kitchenette), e duas camas convertíveis individuais ou uma cama convertível dupla, situadas na zona de estar.
 
-###### Artigo 12.º — Zonas de serviço
+Artigo 12.º
+
+Zonas de serviço
 
 1 - ...
 
@@ -197,13 +231,17 @@ b) ...
 
 5 - A coluna de serviço deve sempre ser organizada de modo que as circulações verticais e horizontais dos utentes e do serviço se processem separadamente.
 
-###### Artigo 13.º — Cozinhas e copas
+Artigo 13.º
+
+Cozinhas e copas
 
 1 - As cozinhas e as copas devem dispor de arejamento, iluminação e ventilação adequadas e de aparelhos que permitam a contínua renovação do ar e a extracção de fumos e cheiros.
 
 2 - As cozinhas devem estar equipadas com lavatórios destinados ao pessoal.
 
-###### Artigo 14.º — Acessos verticais
+Artigo 14.º
+
+Acessos verticais
 
 1 - ...
 
@@ -215,13 +253,17 @@ b) ...
 
 5 - Aplica-se aos monta-cargas, com as necessárias adaptações, o disposto no número anterior.
 
-###### Artigo 15.º — Piscinas
+Artigo 15.º
+
+Piscinas
 
 1 - As piscinas devem ter equipamentos que garantam que as características das águas obedeçam aos parâmetros definidos pelo [Decreto-Lei n.º 236/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1998-430457), de 1 de Agosto, e pelo [Decreto Regulamentar n.º 5/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1997-527662), de 31 de Março.
 
 2 - ...
 
-###### Artigo 20.º — Serviços de recepção/portaria
+Artigo 20.º
+
+Serviços de recepção/portaria
 
 1 - A recepção/portaria deve prestar, durante o período de estada dos utentes, pelo menos, os seguintes serviços:
 
@@ -241,7 +283,9 @@ g) ...
 
 2 - ...
 
-###### Artigo 24.º — Refeições
+Artigo 24.º
+
+Refeições
 
 1 - ...
 
@@ -249,13 +293,17 @@ g) ...
 
 3 - ...
 
-###### Artigo 25.º — Fornecimentos incluídos no preço do alojamento
+Artigo 25.º
+
+Fornecimentos incluídos no preço do alojamento
 
 1 - ...
 
 2 - Nos estabelecimentos hoteleiros situados em zonas termais, na divulgação dos preços do alojamento deve ser claramente indicado se os mesmos incluem ou não os dos serviços de hidroterapia e demais tratamentos existentes, quando o estabelecimento for, simultaneamente, entidade exploradora dos serviços de alojamento e tratamento termal.
 
-###### Artigo 28.º — Hotéis residenciais
+Artigo 28.º
+
+Hotéis residenciais
 
 1 - Os hotéis de 4, 3, 2 e 1 estrelas que ofereçam apenas alojamento e pequeno-almoço são classificados como hotéis residenciais.
 
@@ -267,7 +315,9 @@ g) ...
 
 5 - ...
 
-###### Artigo 30.º — Afectação à exploração turística
+Artigo 30.º
+
+Afectação à exploração turística
 
 1 - Nos hóteis-apartamentos pelo menos 70% das unidades de alojamento devem estar afectas à exploração turística do empreendimento.
 
@@ -275,7 +325,9 @@ g) ...
 
 3 - As unidades de alojamento não se consideram retiradas da exploração turística pelo facto de ter sido reservado aos respectivos proprietários o direito de as utilizarem em proveito próprio por um período não superior a 90 dias em cada ano, nos termos estabelecidos em contrato celebrado entre estes e a entidade exploradora do hotel-apartamento.
 
-###### Artigo 35.º — Comparticipação nas despesas comuns
+Artigo 35.º
+
+Comparticipação nas despesas comuns
 
 1 - A comparticipação do proprietário de cada fracção imobiliária nas despesas de conservação, fruição e funcionamento relativas às instalações e aos equipamentos de uso comum, bem como aos serviços de utilização turística de uso comum, é determinada pela aplicação da fórmula seguinte:
 
@@ -295,7 +347,9 @@ VR = valor relativo da fracção imobiliária.
 
 4 - ...
 
-###### Artigo 36.º — Orçamento e contas
+Artigo 36.º
+
+Orçamento e contas
 
 1 - A entidade administradora do hotel-apartamento apresenta anualmente à assembleia de proprietários um orçamento das despesas respeitantes à conservação, fruição e funcionamento de todas as instalações e equipamentos de uso comum e às do funcionamento dos serviços de utilização turística de uso comum.
 
@@ -319,17 +373,23 @@ f) O valor imputado a cada tipo de fracção imobiliária, de acordo com o estab
 
 5 - ...
 
-###### Artigo 38.º — Pensões residenciais
+Artigo 38.º
+
+Pensões residenciais
 
 1 - As albergarias e as pensões de 1.ª, 2.ª e 3.ª categorias que ofereçam apenas alojamento e pequeno-almoço são classificadas como albergarias ou pensões residenciais.
 
 2 - É aplicável às pensões, com as necessárias adaptações, o disposto nos n.os 2 a 5 do artigo 28.º
 
-###### Artigo 43.º — Pousadas
+Artigo 43.º
+
+Pousadas
 
 Pousadas são os estabelecimentos hoteleiros explorados pela ENATUR - Empresa Nacional de Turismo, S. A., instalados em imóveis classificados como monumentos nacionais, de interesse público, de interesse regional ou municipal e ainda em edifícios que, pela sua antiguidade, valor arquitectónico e histórico, sejam representativos de uma determinada época e se situem fora de zonas dotadas de suficiente apoio hoteleiro.
 
-###### Artigo 44.º — Classificação
+Artigo 44.º
+
+Classificação
 
 1 - As pousadas classificam-se, atendendo à sua localização e ao tipo de edifício em que se encontram instaladas, bem como à qualidade das suas instalações, equipamento e mobiliário e dos serviços que ofereçam, nas categorias de:
 
@@ -341,7 +401,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 46.º — Contra-ordenações
+Artigo 46.º
+
+Contra-ordenações
 
 1 - Constituem contra-ordenações:
 
@@ -361,7 +423,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 47.º — Sanções acessórias
+Artigo 47.º
+
+Sanções acessórias
 
 1 - O encerramento do estabelecimento e a suspensão do respectivo alvará de licença de utilização turística só podem ser determinados como sanção acessória:
 
@@ -371,39 +435,49 @@ b) ...
 
 2 - ...
 
-[(ver anexos I a V no documento original)](https://files.diariodarepublica.pt/1s/1999/08/192b00/54825514.pdf)
+[[(ver anexos I a V no documento original)](https://files.diariodarepublica.pt/1s/1999/08/192b00/54825514.pdf)](https://files.diariodarepublica.pt/1s/1999/08/192b00/54825514.pdf)
 
-###### Artigo 2.º — Republicação
+Artigo 2.º
+
+Republicação
 
 O [Decreto Regulamentar n.º 36/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-1997-659296), de 25 de Setembro, é republicado em anexo com as devidas alterações.
 
-###### Artigo 3.º — Disposições transitórias
+Artigo 3.º
+
+Disposições transitórias
 
 1 - O disposto no presente diploma aplica-se a todos os estabelecimentos hoteleiros existentes à data da sua entrada em vigor, sem prejuízo do disposto nos números seguintes.
 
 2 - Os estabelecimentos hoteleiros existentes à data da entrada em vigor do presente diploma devem preencher os requisitos nele previstos, para o respectivo tipo, devendo as suas entidades exploradoras proceder à realização das obras e à instalação dos equipamentos necessários para esse efeito no prazo de seis meses a contar daquela data.
 
-###### Artigo 4.º — Entrada em vigor
+Artigo 4.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia imediatamente a seguir ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Maria de Belém Roseira Martins Coelho Henriques de Pina - Manuel Maria Ferreira Carrilho - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.**
+Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Julho de 1999.**
+Referendado em 22 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO PREVISTO NO ARTIGO 2.º — CAPÍTULO I
+ANEXO PREVISTO NO ARTIGO 2.º
+
+CAPÍTULO I
 
 Disposições gerais
 
-###### Artigo 1.º — Noção
+Artigo 1.º
+
+Noção
 
 1 - São estabelecimentos hoteleiros os empreendimentos turísticos destinados a proporcionar, mediante remuneração, alojamento temporário e outros serviços acessórios ou de apoio, com ou sem fornecimento de refeições.
 
@@ -413,7 +487,9 @@ a) As instalações ou os estabelecimentos que, embora destinados a proporcionar
 
 b) Os edifícios ou suas fracções autónomas que sejam utilizados como habitação e em que se aceitem, com carácter estável, hóspedes até ao número de três.
 
-###### Artigo 2.º — Grupos
+Artigo 2.º
+
+Grupos
 
 Os estabelecimentos hoteleiros podem ser classificados nos seguintes grupos:
 
@@ -429,17 +505,25 @@ e) Motéis;
 
 f) Pousadas.
 
-###### Artigo 3.º — Categorias
+Artigo 3.º
+
+Categorias
 
 1 - Os estabelecimentos hoteleiros são classificados nas categorias dos respectivos grupos de acordo com o estabelecido no presente diploma e em função do preenchimento dos requisitos mínimos das instalações, do equipamento e do serviço fixados na coluna correspondente a cada categoria constante das tabelas anexas ao presente regulamento e que dele fazem parte integrante.
 
 2 - As instalações e os equipamentos que, não sendo exigidos para determinada categoria de um estabelecimento hoteleiro, sejam nele instalados devem obedecer às normas previstas no presente diploma.
 
-### CAPÍTULO II — Dos estabelecimentos hoteleiros em geral
+CAPÍTULO II
 
-#### SECÇÃO I — Dos requisitos das instalações
+Dos estabelecimentos hoteleiros em geral
 
-###### Artigo 4.º — Condição geral de instalação
+SECÇÃO I
+
+Dos requisitos das instalações
+
+Artigo 4.º
+
+Condição geral de instalação
 
 1 - A instalação das infra-estruturas e todo o equipamento necessário ao funcionamento dos estabelecimentos hoteleiros deve efectuar-se de modo que não se produzam ruídos, vibrações, fumos ou cheiros susceptíveis de perturbar ou, de qualquer modo, afectar o ambiente, a comodidade e a qualidade dos mesmos.
 
@@ -449,7 +533,9 @@ f) Pousadas.
 
 4 - Para efeitos do disposto no número anterior, a captação de água deve possuir as adequadas condições de protecção sanitária e o sistema ser dotado dos processos de tratamento requeridos para potabilização da água ou para a manutenção dessa potabilização, de acordo com as normas de qualidade da água em vigor, devendo para o efeito ser efectuadas análises físico-químicas e ou microbiológicas.
 
-###### Artigo 5.º — Unidades de alojamento
+Artigo 5.º
+
+Unidades de alojamento
 
 1 - Todas as unidades de alojamento devem estar dotadas de mobiliário, equipamento e utensílios adequados ao seu tipo e capacidade e à categoria do estabelecimento.
 
@@ -463,7 +549,9 @@ f) Pousadas.
 
 6 - Todas as divisões das unidades de alojamento devem ser insonorizadas e, com excepção das instalações sanitárias e das pequenas cozinhas (kitchenettes), devem ter janelas ou portadas em comunicação directa com o exterior.
 
-###### Artigo 6.º — Quartos
+Artigo 6.º
+
+Quartos
 
 1 - Considera-se quarto a unidade de alojamento constituída por uma divisão com uma ou mais camas.
 
@@ -473,7 +561,9 @@ f) Pousadas.
 
 4 - Os quartos podem funcionar como unidades independentes ou comunicar com um ou mais quartos, directamente ou através de salas privativas.
 
-###### Artigo 7.º — Suites
+Artigo 7.º
+
+Suites
 
 1 - Considera-se suite o conjunto constituído, no mínimo, por quarto, casa de banho completa e sala, comunicantes entre si através de uma antecâmara de entrada.
 
@@ -485,7 +575,9 @@ f) Pousadas.
 
 5 - As suites onde sejam instaladas pequenas cozinhas (kitchenettes) devem localizar-se em zonas distintas e ser dotadas dos equipamentos necessários de modo a não perturbar os utentes das demais unidades de alojamento.
 
-###### Artigo 8.º — Apartamentos
+Artigo 8.º
+
+Apartamentos
 
 1 - Considera-se apartamento a unidade de alojamento constituída, no mínimo, por um quarto de dormir, uma sala de estar e de refeições, uma pequena cozinha (kitchenette) e uma instalação sanitária privativa.
 
@@ -505,17 +597,23 @@ f) Pousadas.
 
 9 - Os estúdios podem ter uma zona de dormir composta por duas camas fixas individuais ou uma cama fixa dupla, quando estas estiverem separadas esteticamente da zona de estar e da pequena cozinha (kitchenette), e duas camas convertíveis individuais ou uma cama convertível dupla, situadas na zona de estar.
 
-###### Artigo 9.º — Capacidade das unidades de alojamento
+Artigo 9.º
+
+Capacidade das unidades de alojamento
 
 1 - A capacidade das unidades de alojamento é determinada pelo correspondente número e tipo de camas instaladas nos quartos, sem prejuízo do disposto no número seguinte.
 
 2 - Para os únicos efeitos de exploração turística, as camas convertíveis existentes nas salas dos apartamentos contam para a determinação da respectiva capacidade.
 
-###### Artigo 10.º — Instalações sanitárias privativas
+Artigo 10.º
+
+Instalações sanitárias privativas
 
 As instalações sanitárias consideram-se privativas quando estiverem ao serviço exclusivo de uma unidade de alojamento e podem ser casas de banho simples ou completas.
 
-###### Artigo 11.º — Instalações sanitárias comuns
+Artigo 11.º
+
+Instalações sanitárias comuns
 
 1 - Quando nos estabelecimentos hoteleiros existirem salas ou zonas de estar, salas de refeições, salas polivalentes para reuniões ou outras zonas de convívio, estas devem ter a uma cómoda distância instalações sanitárias comuns.
 
@@ -525,7 +623,9 @@ As instalações sanitárias consideram-se privativas quando estiverem ao servi�
 
 4 - Sempre que possível e sem prejuízo do disposto na lei geral, os estabelecimentos hoteleiros devem possuir algumas instalações sanitárias dotadas de equipamentos destinados aos utentes com deficiências motoras.
 
-###### Artigo 12.º — Zonas de serviço
+Artigo 12.º
+
+Zonas de serviço
 
 1 - São zonas de serviço as áreas dos estabelecimentos destinadas a assegurar e servir de suporte material e administrativo à prestação de serviços.
 
@@ -537,13 +637,17 @@ As instalações sanitárias consideram-se privativas quando estiverem ao servi�
 
 5 - A coluna de serviço deve sempre ser organizada de modo que as circulações verticais e horizontais dos utentes e do serviço se processem separadamente.
 
-###### Artigo 13.º — Cozinhas e copas
+Artigo 13.º
+
+Cozinhas e copas
 
 1 - As cozinhas e as copas devem dispor de arejamento, iluminação e ventilação adequadas e de aparelhos que permitam a contínua renovação do ar e a extracção de fumos e cheiros.
 
 2 - As cozinhas devem estar equipadas com lavatórios destinados ao pessoal.
 
-###### Artigo 14.º — Acessos verticais
+Artigo 14.º
+
+Acessos verticais
 
 1 - Os acessos verticais dos estabelecimentos hoteleiros são constituídos pelas escadas para os utentes, escadas de serviço e de incêndio, ascensores, monta-cargas e monta-pratos.
 
@@ -555,33 +659,47 @@ As instalações sanitárias consideram-se privativas quando estiverem ao servi�
 
 5 - Aplica-se aos monta-cargas, com as necessárias adaptações, o disposto no número anterior.
 
-###### Artigo 15.º — Piscinas
+Artigo 15.º
+
+Piscinas
 
 1 - As piscinas devem ter equipamentos que garantam que as características das águas obedeçam aos parâmetros definidos pelo [Decreto-Lei n.º 236/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1998-430457), de 1 de Agosto, e pelo [Decreto Regulamentar n.º 5/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1997-527662), de 31 de Março.
 
 2 - Na proximidade das piscinas devem existir balneários, com separação por sexos, dotados de chuveiros e retretes em cabinas separadas e lavatórios.
 
-###### Artigo 16.º — Lojas
+Artigo 16.º
+
+Lojas
 
 Nos estabelecimentos hoteleiros podem instalar-se lojas, desde que as suas características estejam de acordo com a classificação do estabelecimento e o seu número e localização não afectem as áreas do átrio e zonas de estar.
 
-###### Artigo 17.º — Estabelecimentos instalados em diversos edifícios
+Artigo 17.º
+
+Estabelecimentos instalados em diversos edifícios
 
 1 - Os estabelecimentos hoteleiros podem dispor de unidades de alojamento e zonas comuns fora do edifício principal, desde que os edifícios constituam um conjunto harmónico e articulado entre si, inserido num espaço delimitado, apresentando expressão arquitectónica e características funcionais homogéneas.
 
 2 - Nos estabelecimentos referidos no número anterior a recepção pode ser comum.
 
-#### SECÇÃO II — Dos requisitos de funcionamento
+SECÇÃO II
 
-###### Artigo 18.º — Responsável pelo funcionamento dos estabelecimentos
+Dos requisitos de funcionamento
+
+Artigo 18.º
+
+Responsável pelo funcionamento dos estabelecimentos
 
 Nos hotéis e hotéis-apartamentos de 5 estrelas, bem como em todos os demais estabelecimentos hoteleiros que disponham de 100 ou mais unidades de alojamento, o lugar de responsável pelo seu funcionamento é obrigatoriamente exercido por um director de hotel ou por pessoa com qualificação profissional ou habilitação académica adequada, nos termos previstos no artigo 4.º do [Decreto-Lei n.º 271/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1982-394769), de 13 de Julho.
 
-###### Artigo 19.º — Placa identificativa da classificação
+Artigo 19.º
+
+Placa identificativa da classificação
 
 Em todos os estabelecimentos hoteleiros é obrigatória a afixação no exterior, junto à entrada principal, de uma placa identificativa da classificação do estabelecimento, cujo modelo é aprovado por portaria do membro do Governo responsável pela área do turismo.
 
-###### Artigo 20.º — Serviços de recepção/portaria
+Artigo 20.º
+
+Serviços de recepção/portaria
 
 1 - A recepção/portaria deve prestar, durante o período de estada dos utentes, pelo menos, os seguintes serviços:
 
@@ -601,7 +719,9 @@ g) Prestar um serviço de guarda de valores.
 
 2 - Na recepção/portaria devem ser colocadas em locais bem visíveis as informações respeitantes ao funcionamento do estabelecimento, designadamente sobre os serviços que o mesmo preste e os respectivos preços.
 
-###### Artigo 21.º — Informações
+Artigo 21.º
+
+Informações
 
 1 - É obrigatório entregar ao utente, no momento do seu registo no estabelecimento, um cartão redigido em português e inglês, com as seguintes indicações:
 
@@ -631,19 +751,25 @@ d) A existência de livro de reclamações.
 
 3 - Nas indicações destinadas a dar a conhecer aos utentes quer os serviços que o estabelecimento oferece quer outras informações de carácter geral devem ser usados os sinais normalizados constantes da tabela aprovada pela portaria a que refere o artigo 56.º do [Decreto-Lei n.º 167/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1997-156001), de 4 de Julho.
 
-###### Artigo 22.º — Arrumação e limpeza
+Artigo 22.º
+
+Arrumação e limpeza
 
 1 - As unidades de alojamento devem ser arrumadas e limpas diariamente e, em qualquer caso, antes de serem ocupadas pelos seus utentes.
 
 2 - Em todos os estabelecimentos hoteleiros as roupas de cama e as toalhas das casas de banho das unidades de alojamento e, no caso dos apartamentos, as roupas de mesa e de cozinha devem ser substituídas pelo menos uma vez por semana e sempre que mude o utente.
 
-###### Artigo 23.º — Renovação de estada
+Artigo 23.º
+
+Renovação de estada
 
 1 - O utente deve deixar a unidade de alojamento livre até às 12 horas do dia de saída, ou até à hora convencionada, entendendo-se que, se o não fizer, renova a sua estada por mais um dia.
 
 2 - O responsável pelo estabelecimento hoteleiro não é obrigado a aceitar o prolongamento da estada do utente para além do dia previsto para a sua saída.
 
-###### Artigo 24.º — Refeições
+Artigo 24.º
+
+Refeições
 
 1 - O serviço de pequenos-almoços e de refeições deve compreender, para cada uma delas, um período não inferior a duas horas.
 
@@ -651,21 +777,31 @@ d) A existência de livro de reclamações.
 
 3 - Na carta de vinhos devem indicar-se ainda quaisquer outras bebidas que o estabelecimento forneça e os respectivos preços, salvo se estas tiverem lista própria.
 
-###### Artigo 25.º — Fornecimentos incluídos no preço do alojamento
+Artigo 25.º
+
+Fornecimentos incluídos no preço do alojamento
 
 1 - No preço diário do alojamento está incluído obrigatoriamente o consumo, sem limitações, de água e electricidade.
 
 2 - Nos estabelecimentos hoteleiros situados em zonas termais, na divulgação dos preços do alojamento deve ser claramente indicado se os mesmos incluem ou não os dos serviços de hidroterapia e demais tratamentos existentes, quando o estabelecimento for, simultaneamente, entidade exploradora dos serviços de alojamento e tratamento termal.
 
-###### Artigo 26.º — Pessoal de serviço
+Artigo 26.º
+
+Pessoal de serviço
 
 Todo o pessoal de serviço dos estabelecimentos hoteleiros deve possuir habilitações adequadas ao tipo de serviço que presta, usar o uniforme e estar devidamente identificado.
 
-### CAPÍTULO III — Dos estabelecimentos hoteleiros em especial
+CAPÍTULO III
 
-#### SECÇÃO I — Dos hotéis
+Dos estabelecimentos hoteleiros em especial
 
-###### Artigo 27.º — Classificação
+SECÇÃO I
+
+Dos hotéis
+
+Artigo 27.º
+
+Classificação
 
 1 - Os hotéis classificam-se, atendendo à sua localização, à qualidade das suas instalações, dos seus equipamentos e mobiliário e dos serviços que ofereçam, nas categorias de 5, 4, 3, 2 e 1 estrelas e ainda como hotéis rurais, de acordo com o estabelecido na tabela que constitui o anexo I ao presente regulamento.
 
@@ -673,7 +809,9 @@ Todo o pessoal de serviço dos estabelecimentos hoteleiros deve possuir habilita
 
 3 - Os hotéis cujas instalações tenham as características previstas no artigo 17.º podem, para fins comerciais, usar, conjuntamente com o nome, a expressão «resort» ou «hotel resort», desde que os edifícios que constituem o estabelecimento se distribuam no terreno e disponham entre eles de uma área envolvente de espaços verdes, destinados a serem utilizados pelos utentes.
 
-###### Artigo 28.º — Hotéis residenciais
+Artigo 28.º
+
+Hotéis residenciais
 
 1 - Os hotéis de 4, 3, 2 e 1 estrelas que ofereçam apenas alojamento e pequeno-almoço são classificados como hotéis residenciais.
 
@@ -685,17 +823,27 @@ Todo o pessoal de serviço dos estabelecimentos hoteleiros deve possuir habilita
 
 5 - No caso previsto no número anterior, o serviço de pequenos-almoços pode ser prestado no restaurante, não sendo exigíveis neste caso as instalações a que se refere o n.º 3.
 
-#### SECÇÃO II — Dos hotéis-apartamentos
+SECÇÃO II
 
-##### SUBSECÇÃO I — Da classificação
+Dos hotéis-apartamentos
 
-###### Artigo 29.º — Classificação
+SUBSECÇÃO I
+
+Da classificação
+
+Artigo 29.º
+
+Classificação
 
 Os hotéis-apartamentos classificam-se, atendendo à sua localização, à qualidade das suas instalações, dos seus equipamentos e mobiliário e dos serviços que ofereçam, nas categorias de 5, 4, 3 e 2 estrelas, de acordo com o estabelecido na tabela que constitui o anexo II ao presente regulamento.
 
-##### SUBSECÇÃO II — Exploração
+SUBSECÇÃO II
 
-###### Artigo 30.º — Afectação à exploração turística
+Exploração
+
+Artigo 30.º
+
+Afectação à exploração turística
 
 1 - Nos hóteis-apartamentos pelo menos 70% das unidades de alojamento devem estar afectas à exploração turística do empreendimento.
 
@@ -703,25 +851,37 @@ Os hotéis-apartamentos classificam-se, atendendo à sua localização, à quali
 
 3 - As unidades de alojamento não se consideram retiradas da exploração turística pelo facto de ter sido reservado aos respectivos proprietários o direito de as utilizarem em proveito próprio por um período não superior a 90 dias em cada ano, nos termos estabelecidos em contrato celebrado entre estes e a entidade exploradora do hotel-apartamento.
 
-##### SUBSECÇÃO III — Hotéis-apartamentos com pluralidade de proprietários
+SUBSECÇÃO III
 
-###### Artigo 31.º — Âmbito
+Hotéis-apartamentos com pluralidade de proprietários
+
+Artigo 31.º
+
+Âmbito
 
 As disposições do presente capítulo são aplicáveis aos hotéis-apartamentos cujas fracções imobiliárias sejam propriedade de pessoas diversas.
 
-###### Artigo 32.º — Título constitutivo
+Artigo 32.º
+
+Título constitutivo
 
 No caso dos hotéis-apartamentos referidos no artigo anterior, deve ser elaborado um título constitutivo da sua composição.
 
-###### Artigo 33.º — Fracções imobiliárias
+Artigo 33.º
+
+Fracções imobiliárias
 
 A descrição das fracções imobiliárias deve conter a enumeração de todos os elementos que as compõem, incluindo as áreas dos respectivos logradouros, acessos privativos e quaisquer outras zonas que a elas estejam afectas exclusivamente.
 
-###### Artigo 34.º — Identificação das unidades de alojamento
+Artigo 34.º
+
+Identificação das unidades de alojamento
 
 Todas as fracções imobiliárias que compõem o hotel-apartamento devem ser identificadas com números seguidos, começando pelo n.º 1, independentemente de se destinarem a venda.
 
-###### Artigo 35.º — Comparticipação nas despesas comuns
+Artigo 35.º
+
+Comparticipação nas despesas comuns
 
 1 - A comparticipação do proprietário de cada fracção imobiliária nas despesas de conservação, fruição do funcionamento relativas às instalações e aos equipamentos de uso comum, bem como aos serviços de utilização turística de uso comum, é determinada pela aplicação da fórmula seguinte:
 
@@ -755,7 +915,9 @@ i) Tratando-se de unidades de alojamento, à área do lote ocupada pelo hotel-ap
 
 ii) Tratando-se de instalações ou equipamentos de exploração turística, a área do lote ocupada pelo hotel-apartamento é multiplicada por 1,5 ou por 2, consoante aqueles se destinem a fins desportivos ou a outros.
 
-###### Artigo 36.º — Orçamento e contas
+Artigo 36.º
+
+Orçamento e contas
 
 1 - A entidade administradora do hotel-apartamento apresenta anualmente à assembleia de proprietários um orçamento das despesas respeitantes à conservação, fruição e funcionamento de todas as instalações e equipamentos de uso comum e às do funcionamento dos serviços de utilização turística de uso comum.
 
@@ -779,45 +941,69 @@ f) O valor imputado a cada tipo de fracção imobiliária, de acordo com o estab
 
 5 - A convocatória da reunião da assembleia de proprietários destinada a apreciar as contas é acompanhada de um exemplar das contas e do parecer referidos no número anterior.
 
-#### SECÇÃO III — Das pensões
+SECÇÃO III
 
-###### Artigo 37.º — Classificação
+Das pensões
+
+Artigo 37.º
+
+Classificação
 
 As pensões classificam-se, atendendo à qualidade das suas instalações, do seu equipamento e mobiliário e dos serviços que ofereçam, nas categorias de albergaria e de 1.ª, 2.ª e 3.ª categorias, de acordo com o disposto na tabela que constitui o anexo III ao presente regulamento.
 
-###### Artigo 38.º — Pensões residenciais
+Artigo 38.º
+
+Pensões residenciais
 
 1 - As albergarias e as pensões de 1.ª, 2.ª e 3.ª categorias que ofereçam apenas alojamento e pequeno-almoço são classificadas como albergarias e pensões residenciais.
 
 2 - É aplicável às pensões, com as necessárias adaptações, o disposto nos n.os 2 a 5 do artigo 28.º
 
-#### SECÇÃO IV — Das estalagens
+SECÇÃO IV
 
-###### Artigo 39.º — Estalagens
+Das estalagens
+
+Artigo 39.º
+
+Estalagens
 
 Estalagens são os estabelecimentos hoteleiros instalados em um ou mais edifícios, que, pelas suas características arquitectónicas, estilo do mobiliário e serviço prestado, estejam integrados na arquitectura regional e disponham de zona verde ou logradouro natural envolvente.
 
-###### Artigo 40.º — Classificação
+Artigo 40.º
+
+Classificação
 
 As estalagens classificam-se, atendendo à sua localização, às características do respectivo edifício e zona envolvente, bem como à qualidade das suas instalações, do seu equipamento e mobiliário e dos serviços que ofereçam, nas categorias de 5 e 4 estrelas, de acordo com o estabelecido na tabela que constitui o anexo IV ao presente regulamento.
 
-#### SECÇÃO V — Dos motéis
+SECÇÃO V
 
-###### Artigo 41.º — Motéis
+Dos motéis
+
+Artigo 41.º
+
+Motéis
 
 Motéis são os estabelecimentos hoteleiros situados fora dos centros urbanos e na proximidade das estradas constituídos por unidades de alojamento independentes com entradas directas do exterior e com um lugar de estacionamento privativo e contíguo à unidade de alojamento.
 
-###### Artigo 42.º — Classificação
+Artigo 42.º
+
+Classificação
 
 Os motéis classificam-se, atendendo à qualidade das suas instalações, equipamento e mobiliário e dos serviços que ofereçam, nas categorias de 3 e 2 estrelas, de acordo com o estabelecido na tabela que constitui o anexo V ao presente regulamento.
 
-#### SECÇÃO VI — Das pousadas
+SECÇÃO VI
 
-###### Artigo 43.º — Pousadas
+Das pousadas
+
+Artigo 43.º
+
+Pousadas
 
 Pousadas são os estabelecimentos hoteleiros explorados pela ENATUR - Empresa Nacional de Turismo, S. A., instalados em imóveis classificados como monumentos nacionais, de interesse público, de interesse regional ou municipal e ainda em edifícios que, pela sua antiguidade, valor arquitectónico e histórico, sejam representativos de uma determinada época e se situem fora de zonas dotadas de suficiente apoio hoteleiro.
 
-###### Artigo 44.º — Classificação
+Artigo 44.º
+
+Classificação
 
 1 - As pousadas classificam-se, atendendo à sua localização e ao tipo de edifício em que se encontram instaladas, bem como à qualidade das suas instalações, equipamento e mobiliário e dos serviços que ofereçam, nas categorias de:
 
@@ -829,15 +1015,21 @@ b) Pousadas instaladas em edifícios classificados de interesse regional ou muni
 
 3 - As pousadas referidas na alínea b) do n.º 1 devem preencher, com as necessárias adaptações, os requisitos mínimos das instalações e do funcionamento exigidos no presente diploma para os hotéis de 3 estrelas, salvo se a sua observância se revelar susceptível de afectar as características arquitectónicas ou estruturais dos edifícios.
 
-###### Artigo 45.º — Exploração
+Artigo 45.º
+
+Exploração
 
 1 - As pousadas são exploradas directamente pela ENATUR - Empresa Nacional de Turismo, S. A., ou por terceiros, mediante a celebração, com aquela, de contratos de franquia ou de cessão de exploração.
 
 2 - As minutas dos contratos de franquia e de cessão de exploração referidos no número anterior devem ser aprovadas pelo membro do Governo responsável pela área do turismo.
 
-### CAPÍTULO IV — Contra-ordenações
+CAPÍTULO IV
 
-###### Artigo 46.º — Contra-ordenações
+Contra-ordenações
+
+Artigo 46.º
+
+Contra-ordenações
 
 1 - Constituem contra-ordenações:
 
@@ -857,7 +1049,9 @@ d) A inexistência ou a não prestação dos serviços exigidos no n.º 7 dos an
 
 5 - A tentativa e a negligência são puníveis.
 
-###### Artigo 47.º — Sanções acessórias
+Artigo 47.º
+
+Sanções acessórias
 
 1 - O encerramento do estabelecimento e a suspensão do respectivo alvará de licença de utilização turística só podem ser determinados como sanção acessória:
 
@@ -887,9 +1081,13 @@ i) No caso de violação dos n.os 1.3, 1.4 e 1.5 do anexo IV, o prazo é de 180 
 
 j) No caso de violação dos n.os 1.3 e 1.4 do anexo V, o prazo é de 180 dias.
 
-### CAPÍTULO V — Disposições finais e transitórias
+CAPÍTULO V
 
-###### Artigo 48.º — Estabelecimentos hoteleiros existentes
+Disposições finais e transitórias
+
+Artigo 48.º
+
+Estabelecimentos hoteleiros existentes
 
 1 - Os estabelecimentos hoteleiros existentes à data da entrada em vigor do presente diploma devem satisfazer os requisitos nele previstos para a respectiva categoria, devendo as suas entidades exploradoras proceder à realização das obras e à instalação dos equipamentos necessários para esse efeito no prazo de dois anos a contar daquela data.
 
@@ -897,22 +1095,30 @@ j) No caso de violação dos n.os 1.3 e 1.4 do anexo V, o prazo é de 180 dias.
 
 3 - O não cumprimento do disposto no n.º 1 implica a revisão da classificação do estabelecimento para a categoria correspondente, salvo quando se verifique que o estabelecimento não reúne os requisitos mínimos para poder ser classificado em qualquer grupo e categoria, caso em que deve ser determinado o seu encerramento e apreendido o respectivo alvará.
 
-###### Artigo 49.º — Hotéis de luxo
+Artigo 49.º
+
+Hotéis de luxo
 
 1 - Os hotéis que à data da entrada em vigor do presente diploma estejam classificados como hotéis de luxo consideram-se classificados, independentemente de quaisquer formalidades, na categoria de 5 estrelas.
 
 2 - As entidades exploradoras dos hotéis referidos no número anterior devem, no prazo de seis meses a contar da data da entrada em vigor do presente diploma, alterar a placa identificativa da respectiva classificação, bem como a documentação utilizada em toda a actividade externa, designadamente na publicidade e na correspondência.
 
-###### Artigo 50.º — Pensões
+Artigo 50.º
+
+Pensões
 
 As pensões que à data da entrada em vigor do presente diploma estejam classificadas como pensões de 4, 3 e 2 estrelas consideram-se classificadas, independentemente de quaisquer formalidades, como pensões de 1.ª, 2.ª e 3.ª, aplicando-se, com as necessárias adaptações, o disposto no n.º 2 do artigo anterior.
 
-###### Artigo 51.º — Hospedarias ou casas de hóspedes
+Artigo 51.º
+
+Hospedarias ou casas de hóspedes
 
 Os estabelecimentos hoteleiros que à data da entrada em vigor do presente diploma estejam classificados como hospedarias ou casas de hóspedes podem requerer à Direcção-Geral do Turismo a reclassificação dos mesmos como pensões de 3.ª, desde que preencham os requisitos deste grupo e categoria previstos no presente diploma.
 
-###### Artigo 52.º — Entrada em vigor
+Artigo 52.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia imediatamente a seguir à sua publicação.
 
-[(ver anexos I a V no documento original)](https://files.diariodarepublica.pt/1s/1999/08/192b00/54825514.pdf)
+[[(ver anexos I a V no documento original)](https://files.diariodarepublica.pt/1s/1999/08/192b00/54825514.pdf)](https://files.diariodarepublica.pt/1s/1999/08/192b00/54825514.pdf)

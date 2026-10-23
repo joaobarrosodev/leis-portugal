@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/10/24700/35133513.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/70-1982-376408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T06:06:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ea1bca1dbe3fe765026d4a59dafbf1fffd806a2967859f3c46195e3858c6135
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d3a7c6fc7037f0d45707c8fb5a8755597793b8a88719d8b62945e5c90db0e5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:06:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Jogos de Fortuna e Azar
+- Organização Desportiva
 relationships:
 - type: amended_by
   target: pt:dre:326945:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:394161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394162:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:326945:por
+  label: "Revogado, a partir de 24.03.1985, pelo DR.18/85.1985.03.10.MAI, DR.IS [65]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/18-1985-326945
+  date: '1985-03-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:06:08Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +115,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Quando as concessionárias da exploração de salas de bingo forem colectividades desportivas reconhecidas como instituições de utilidade pública e a prática do jogo for reservada apenas aos seus sócios ou associados, da verba correspondente à receita bruta da venda dos cartões, 50% são reservados para prémio do cartão completo (bingo), 5% dessa importância para o prémio da linha e 25% constituem receita da colectividade exploradora do jogo, revertendo os remanescentes 20% para as seguintes entidades:
+Artigo 1.º Quando as concessionárias da exploração de salas de bingo forem colectividades desportivas reconhecidas como instituições de utilidade pública e a prática do jogo for reservada apenas aos seus sócios ou associados, da verba correspondente à receita bruta da venda dos cartões, 50% são reservados para prémio do cartão completo (bingo), 5% dessa importância para o prémio da linha e 25% constituem receita da colectividade exploradora do jogo, revertendo os remanescentes 20% para as seguintes entidades:
 
 a) 5% para o Fundo de Fomento do Desporto, para apoio aos clubes desportivos com sede no concelho onde forem geradas as receitas ou nos concelhos limítrofes e que não explorem o jogo;
 
@@ -110,16 +125,16 @@ c) 5% para o Fundo de Turismo, a que acrescerão os 5% da alínea anterior quand
 
 d) 5% para o Conselho de Inspecção de Jogos, pelos encargos de fiscalização do jogo do bingo.
 
-###### Art. 2.º Nos casos previstos no artigo anterior, uma percentagem não inferior a 50% da receita da colectividade exploradora do jogo deverá ser obrigatoriamente aplicada na construção e conservação de infra-estruturas desportivas, devendo a verba remanescente ser aplicada no apoio às modalidades amadoras, como tal se considerando aquelas em que os praticantes não recebem quaisquer quantias em dinheiro, seja a que título for.
+Art. 2.º Nos casos previstos no artigo anterior, uma percentagem não inferior a 50% da receita da colectividade exploradora do jogo deverá ser obrigatoriamente aplicada na construção e conservação de infra-estruturas desportivas, devendo a verba remanescente ser aplicada no apoio às modalidades amadoras, como tal se considerando aquelas em que os praticantes não recebem quaisquer quantias em dinheiro, seja a que título for.
 
-###### Art. 3.º O acesso às salas do jogo do bingo previstas neste diploma é condicionado exclusivamente à exibição do cartão de sócio ou associado em vigor nos respectivos termos estatutários do clube desportivo, sem prejuízo das restrições de acesso previstas no artigo 14.º do [Decreto Regulamentar n.º 41/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1982-394162).
+Art. 3.º O acesso às salas do jogo do bingo previstas neste diploma é condicionado exclusivamente à exibição do cartão de sócio ou associado em vigor nos respectivos termos estatutários do clube desportivo, sem prejuízo das restrições de acesso previstas no artigo 14.º do [Decreto Regulamentar n.º 41/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1982-394162).
 
-###### Art. 4.º Nos casos em que as salas de bingo não funcionem todos os dias, bem como nos casos em que a sala não funcione mais de 4 horas diárias, poderá ainda ser dispensada a existência de adjunto de chefe de sala, de caixa auxiliar volante e de contínuo pelo Conselho de Inspecção de Jogos, que determinará ainda as condições de substituição do pessoal das salas.
+Art. 4.º Nos casos em que as salas de bingo não funcionem todos os dias, bem como nos casos em que a sala não funcione mais de 4 horas diárias, poderá ainda ser dispensada a existência de adjunto de chefe de sala, de caixa auxiliar volante e de contínuo pelo Conselho de Inspecção de Jogos, que determinará ainda as condições de substituição do pessoal das salas.
 
 Francisco José Pereira Pinto Balsemão - Gonçalo Pereira Ribeiro Teles - Luís Fernando Cardoso Nandim de Carvalho.
 
-**Promulgado nos termos do artigo 135.º da Constituição da República Portuguesa, em 12 de Outubro de 1982.**
+Promulgado nos termos do artigo 135.º da Constituição da República Portuguesa, em 12 de Outubro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República Interino, FRANCISCO MANUEL LOPES VIEIRA DE OLIVEIRA DIAS.**
+O Presidente da República Interino, FRANCISCO MANUEL LOPES VIEIRA DE OLIVEIRA DIAS.

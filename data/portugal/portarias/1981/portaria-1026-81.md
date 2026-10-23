@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/11/27500/31323132.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1026-1981-567942
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T06:34:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6304f98eb493b7e608ec3d73078c7db0203eb1bebb631c747ba80ed9a3f49f04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8452e14fa2d7be865fd98162f7606a84866345755ca40b11dbd2f1db7e616bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:34:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Preço
+- TAP
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:311449:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:394146:por
+  label: "Alteradas as condições de aplicação da tarifa de execução entre Lisboa e Porto, aprovado pelo presente diploma,\
+    \ pela PORT.708/82.20.07.1982.MFP, DR.IS [165] de 20.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/708-1982-394146
+  date: '1982-07-20'
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682022:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:567257:por
+  label: Rectificada (com publicação do anexo) pela DECL.DD6167.02.12.1981.PCM, DR.IS [287] de 15.12.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-567257
+  date: '1981-12-02'
+- type: repealed_by
+  target: pt:dre:311449:por
+  label: "Revogada pela PORT.158/83.19.02.1983.MFP, DR.IS [41] de 19.02.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/158-1983-311449
+  date: '1983-02-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:34:52Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +137,7 @@ Manda o Governo da República Portuguesa, pelos Ministros de Estado e das Finan�
 
 1.º São aprovadas as seguintes tarifas de transporte aéreo de passageiros a praticar em serviços regulares nas linhas abaixo especificadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/27500/31323132.pdf))](https://files.diariodarepublica.pt/1s/1981/11/27500/31323132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/27500/31323132.pdf)
 
 2.º São aprovadas igualmente as tarifas abaixo referidas para a carga transportada por via aérea nos serviços do continente (preços expressos por quilograma):
 

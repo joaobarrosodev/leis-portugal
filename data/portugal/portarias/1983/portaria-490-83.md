@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/490-1983-311596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T07:41:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63ffeee6b9c89eaeb9483bbfc52f43ab14556455b6dbb8b45acf07d1a9a0493e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e04489bed30f642f458e52c67c7156978e8526587a63edf02894d669629239c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:41:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Central
+- Administração Ultramarina
+- Equivalência de Categorias
 relationships:
 - type: amended_by
   target: pt:dre:575762:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:375831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575937:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:384060:por
+  label: Rectificadas as categorias e eliminada a categoria de enfermeiro-motorista (serviços de saúde) do mapa I anexo ao
+    presente diploma, pela PORT.293/84.16.05.1984.PCM, DR.IS [113] de 16.05.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/293-1984-384060
+  date: '1984-05-16'
+- type: corrected_by
+  target: pt:dre:401371:por
+  label: Rectificada a tabela de equivalências contida no mapa II anexo ao presente diploma, pela PORT.907/84.13.12.1984.PCM,
+    DR.IS [287] de 13.12.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/907-1984-401371
+  date: '1984-12-13'
+- type: corrected_by
+  target: pt:dre:575762:por
+  label: Rectificada a tabela de equivalências contida no mapa I anexo ao presente diploma, pela PORT.553/90.17.07.1990.MF,
+    DR.IS [163] de 17.07.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/553-1990-575762
+  date: '1990-07-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:41:34Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +140,7 @@ Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finança
 
 Ministérios das Finanças e do Plano, da Administração Interna e da Reforma Administrativa.
 
-**Assinada em 13 de Abril de 1983.**
+Assinada em 13 de Abril de 1983.
 
 Pelo Ministro de Estado e das Finanças e do Plano, José Cândido Sousa Carrusca Robin de Andrade, Secretário de Estado das Finanças. - O Ministro da Administração Interna, José Ângelo Ferreira Correira. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
 
@@ -115,16 +148,16 @@ Mapa I a que se refere o n.º 1.º da Portaria n.º 490/83
 
 Categorias específicas da antiga administração ultramarina
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09700/15081515.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09700/15081515.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09700/15081515.pdf)
 
 Mapa II a que se refere o n.º 1.º da Portaria n.º 490/83
 
 Categorias da administração central
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09700/15081515.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09700/15081515.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09700/15081515.pdf)
 
 Mapa III a que se refere o n.º 2.º da Portaria n.º 490/83
 
 Rectificações de tabelas de equivalências contidas no mapa anexo à [Portaria n.º 877/82](https://diariodarepublica.pt/dr/detalhe/portaria/877-1982-375831)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09700/15081515.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09700/15081515.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09700/15081515.pdf)

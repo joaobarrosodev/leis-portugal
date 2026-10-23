@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05400/0002800030.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/20/2025/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2025-911303062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ef5e5ba04342dfabc9f2ac6c652909d339c3ab3e1447b20b30511032f2910c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 563b7ad008ef9c3f54d4642013cece01986b2ac2292347f1473585b1d16adbaf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Residência de Estrangeiros
 - CE Países
 - Cidadão Estrangeiro
 - Concurso de Acesso
 - Concurso de Ingresso
 - Ensino Oficial
 - Ensino Particular
-- Estudante
 - Ensino Superior
+- Estudante
+- Residência de Estrangeiros
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:36/2014
+  label: Altera, a partir de 19 de março de 2025, nos termos do artigo 3.º do presente diploma, o artigo 3.º do Decreto-Lei
+    n.º 36/2014, de 10 de março, Diário da República n.º 48/2014, Série I
+  source: null
+  date: '2014-03-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/113/2014/07/16/p/dre
   label: null
@@ -99,16 +105,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/2003/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/2003/08/22/p/dre
+- type: cites
+  target: pt:dre:115924012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170384602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216512899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656107:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:54Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +163,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à quarta alteração ao [Decreto-Lei n.º 36/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2014-572431), de 10 de março, alterado pelos Decretos-Leis n.<sup>os</sup>[113/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2014-55021010), de 16 de julho, [62/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2018-115924012), de 6 de agosto, e [77-A/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-a-2021-170384602), de 27 de agosto, que regulamenta o estatuto do estudante internacional a que se refere o n.º 7 do artigo 16.º da [Lei n.º 37/2003](https://diariodarepublica.pt/dr/detalhe/lei/37-2003-656107), de 22 de agosto, que estabelece as bases do financiamento do ensino superior.
+O presente decreto-lei procede à quarta alteração ao [Decreto-Lei n.º 36/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2014-572431), de 10 de março, alterado pelos Decretos-Leis n.os[113/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2014-55021010), de 16 de julho, [62/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2018-115924012), de 6 de agosto, e [77-A/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-a-2021-170384602), de 27 de agosto, que regulamenta o estatuto do estudante internacional a que se refere o n.º 7 do artigo 16.º da [Lei n.º 37/2003](https://diariodarepublica.pt/dr/detalhe/lei/37-2003-656107), de 22 de agosto, que estabelece as bases do financiamento do ensino superior.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 36/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2014-572431), de 10 de março
 
@@ -181,12 +211,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de março de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Fernando Alexandre.
 
-**Promulgado em 12 de março de 2025.**
+Promulgado em 12 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 13 de março de 2025.**
+Referendado em 13 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118818686

@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-1979-382447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T05:59:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 821de6b0fb491cc4e0b214322b6d3edacffa67353890c190f7f1ecd73043ddde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96cf3bccb123a1803e5b1c8aaa41267fddef272fbd064998cb300e2864686ea3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:59:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa Sindical de Previdência
+- Previdência Social
+- Regulamento
+- Segurança Social
+relationships:
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:59:45Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +103,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 98.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, passa a ter a seguinte redacção:
+Artigo único. O artigo 98.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, passa a ter a seguinte redacção:
 
-###### Art. 98.º - 1 - Na falta de pessoas referidas no artigo anterior, o subsídio será pago a parentes ou afins do beneficiário até ao 3.º grau da linha colateral que estivessem a seu cargo e com ele vivessem em comunhão de mesa e habitação, desde que os designe, de modo inequívoco, em declaração datada e assinada pelo próprio, ou a seu rogo, com reconhecimento notarial da assinatura.
+Art. 98.º - 1 - Na falta de pessoas referidas no artigo anterior, o subsídio será pago a parentes ou afins do beneficiário até ao 3.º grau da linha colateral que estivessem a seu cargo e com ele vivessem em comunhão de mesa e habitação, desde que os designe, de modo inequívoco, em declaração datada e assinada pelo próprio, ou a seu rogo, com reconhecimento notarial da assinatura.
 
 2 - Quando não exista a declaração referida no número anterior, a simples designação de herdeiro universal, feita em testamento, valerá como designação do titular do subsídio por morte.
 
@@ -107,8 +115,8 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 Carlos Alberto da Mota Pinto - Acácio Manuel Pereira Magro.
 
-**Promulgado em 24 de Abril de 1979.**
+Promulgado em 24 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

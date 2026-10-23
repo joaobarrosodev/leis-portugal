@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/03200/0073000730.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/13/2017/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/13-2017-106448760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T05:28:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28d5804bb15a0239fda02e9b91cf976c05c3309984a7dc318ac7089bdfa19cdf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d32f08082396dce03badb4b0d732c7c45d808090244e1f788859b41482b26c32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:28:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ reuse:
 subjects:
 - Acesso à Informação
 - Belisa
+- Comércio
+- Contribuições e Impostos
 - Convenção
-- Portugal
 - Derrama
 - Direito Fiscal
+- Direito Internacional
 - Imposto do SELO
-- Contribuições e Impostos
 - Imposto sobre o Rendimento
-- IRS
 - Indústria
 - IRC
-- Comércio
+- IRS
+- Portugal
 - Transacção Comercial
-- Direito Internacional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/23/2017/02/14/p/dre
@@ -89,13 +89,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:28:46Z'
   warnings: []
   errors: []
 ---
@@ -104,16 +104,16 @@ validation:
 
 de 14 de fevereiro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo Entre a República Portuguesa e o Belize sobre Troca de Informações em Matéria Fiscal, assinado em Londres em 22 de outubro de 2010, aprovado pela [Resolução da Assembleia da República n.º 23/2017](https://diariodarepublica.pt/web/guest/pesquisa/-/search/106448764/details/normal?l=1), em 6 de janeiro de 2017.
 
-**Assinado em 26 de janeiro de 2017.**
+Assinado em 26 de janeiro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de fevereiro de 2017.**
+Referendado em 8 de fevereiro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

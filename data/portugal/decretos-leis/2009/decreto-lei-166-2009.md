@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/166/2009/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2009-493057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7a146e805313a1ba8f42d49acee55a89b92e782a9fed20dd15baa504acbaee5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7f97e2c8e27a62c97ec1d0975355423224a11cce1fc39b2b59fb4892074d93b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jurisdição
+- ÁREA de Jurisdição
 - Assessor
-- Formação Profissional
 - Conselho Superior dos Tribunais Administrativos e Fiscais
 - Decisão Judicial
 - Definição de Competências
 - Estatuto
 - Fazenda Pública
+- Formação Profissional
 - Formas de Provimento
-- Recrutamento de Pessoal
-- ÁREA de Jurisdição
+- Jurisdição
 - Legitimidade
 - Lei de Bases
 - Magistrado do Ministério Público
 - Magistrado Judicial
-- Notificação
 - Ministério Público
+- Notificação
+- Recrutamento de Pessoal
 - Remuneração
 - Supremo Tribunal Administrativo
 - Tribunal Administrativo de Círculo
@@ -98,6 +98,19 @@ relationships:
   target: pt:dre:70423756:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterados os arts.49.º e 49.º-A do Estatuto dos Tribunais Administrativos e Fiscais, aprovado pela Lei 13/2002,\
+    \ de 19-Fev, na redacção do presente diploma, pela LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:70423756:por
+  label: Alterados nos termos do art. 15.º, os arts. 9.º e 49.º do Estatuto dos Tribunais Administrativos e Fiscais aprovado
+    pela Lei 13/2002, de 19-fev, na redação do presente diploma pelo(a) Decreto-Lei n.º 214-G/2015 - Diário da República n.º
+    193/2015, 3º Suplemento, Série I de 2015-10-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-g-2015-70423756
+  date: '2015-10-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/28/2009/01/28/p/dre
   label: null
@@ -138,16 +151,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673600:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 6
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:53Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +257,9 @@ Constituição, desdobramento e agregação dos tribunais administrativos
 
 4 - ...
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo seguinte, compete aos tribunais tributários conhecer:
 
@@ -224,7 +279,9 @@ f) ...
 
 3 -...
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - ...
 
@@ -258,7 +315,9 @@ c) Juízo de grande instância tributária.
 
 5 - Podem ainda ser criados, por decreto-lei, secções especializadas em função da matéria ou valor das acções, nos tribunais superiores.
 
-###### Artigo 49.º-A — Competência das instâncias especializadas
+Artigo 49.º-A
+
+Competência das instâncias especializadas
 
 1 - Quando tenha havido desdobramento, nos termos do disposto no artigo 9.º-A, compete ao juízo de grande instância tributária decidir:
 
@@ -352,7 +411,9 @@ f) Das demais matérias que lhes sejam deferidas por lei.
 
 5 - As competências referidas no n.º 2 do artigo anterior consideram-se deferidas ao juízo de média instância tributária.
 
-###### Artigo 56.º-A — Gabinetes de apoio
+Artigo 56.º-A
+
+Gabinetes de apoio
 
 1 - É criado, na dependência orgânica do Conselho Superior dos Tribunais Administrativos e Fiscais, um gabinete de apoio aos magistrados da jurisdição administrativa e fiscal.
 
@@ -384,12 +445,12 @@ O presente decreto-lei entra em vigor a 1 de Janeiro de 2010.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Alberto Bernardes Costa.
 
-**Promulgado em 15 de Julho de 2009.**
+Promulgado em 15 de Julho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Julho de 2009.**
+Referendado em 16 de Julho de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

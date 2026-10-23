@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/07800/0202602034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/60/2015/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2015-67051305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75af696b34327fc478365de7d640f1f534bb869e17f5424c5c9c2736ae8b8793
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bc944227052171d12c641055389ad1bd0daec6e56e6c9d1dd6ae703eb528113
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência para o Desenvolvimento e Coesão
+- Agrupamento Europeu de Cooperação Territorial
 - Autoridade Nacional
 - CE Países
-- Inspeção Geral de Finanças
-- Política de Cooperação
+- Cooperação Internacional
 - Cooperação Inter-regional
 - Cooperação Transfronteira
-- Agrupamento Europeu de Cooperação Territorial
 - Definição de Competências
-- União Europeia
 - Fiscalização
-- Fundo de Coesão
 - FSE
-- Cooperação Internacional
+- Fundo de Coesão
+- Inspeção Geral de Finanças
+- Política de Cooperação
 - Regulamento CE
+- União Europeia
 relationships:
 - type: cites
   target: celex:32006R1082
@@ -107,16 +107,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/376/2007/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/376/2007/11/08/p/dre
+- type: cites
+  target: pt:dre:629173:por
+  label: null
+  source: null
 article_structure:
-  article_count: 28
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:59Z'
   warnings: []
   errors: []
 ---
@@ -151,19 +155,25 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º e 12.º do [Decreto-Lei n.º
 
 O presente decreto-lei adota as medidas necessárias para garantir a aplicação do [Regulamento (CE) n.º 1082/2006](https://data.europa.eu/eli/reg/2006/1082/oj?locale=pt), do Parlamento Europeu e do Conselho, de 5 de julho de 2006, tendo em conta as alterações introduzidas pelo [Regulamento (UE) n.º 1302/2013](https://data.europa.eu/eli/reg/2013/1302/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, relativo aos agrupamentos europeus de cooperação territorial (AECT), no que se refere à clarificação, à simplificação e à melhoria da constituição e do funcionamento desses agrupamentos.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Os AECT são pessoas coletivas públicas de natureza associativa constituídas, em regra, por entidades de, pelo menos, dois Estados-Membros da União Europeia, que têm por missão facilitar e promover a cooperação territorial incluindo uma ou mais das vertentes de cooperação, transfronteiriça, transnacional e inter-regional entre os seus membros, com o intuito de reforçar a coesão económica e social no território da União Europeia.
 
 2 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Os AECT têm por atribuição principal a execução de projetos ou ações de cooperação territorial cofinanciados pela União Europeia através do Fundo Europeu de Desenvolvimento Regional, do Fundo Social Europeu e ou do Fundo de Coesão.
 
 2 - Os AECT podem ainda promover a realização de estudos, planos, programas e projetos ou outras formas de relacionamento entre agentes, estruturas e entidades públicas suscetíveis de contribuírem para o desenvolvimento dos respetivos territórios, com ou sem cofinanciamento público, nacional ou da União Europeia, bem como gerir infraestruturas e equipamentos e ainda prestar serviços de interesse público.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]:
 
@@ -185,7 +195,9 @@ h) Autoridades ou organismos nacionais, regionais ou locais ou empresas pública
 
 2 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A constituição de um AECT encontra-se sujeita ao procedimento previsto no presente artigo e inicia-se com notificação dirigida à Agência para o Desenvolvimento e Coesão, I.P., abreviadamente designada por Agência, I.P., subscrita pelos seus potenciais membros.
 
@@ -221,11 +233,15 @@ d) [Anterior alínea e) do n.º 3].
 
 13 - Não há lugar à interrupção do prazo previsto no n.º 8 se o membro potencial do AECT apresentar uma resposta às observações no prazo de 10 dias úteis a contar do início do período de interrupção.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Em tudo o que não for regulado pelo [Regulamento (CE) n.º 1082/2006](https://data.europa.eu/eli/reg/2006/1082/oj?locale=pt), do Parlamento Europeu e do Conselho, de 5 de julho de 2006, alterado pelo [Regulamento (UE) n.º 1302/2013](https://data.europa.eu/eli/reg/2013/1302/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, e pelo presente decreto-lei, aplicam-se aos AECT com sede estatutária em Portugal os princípios e as disposições legais aplicáveis às associações públicas.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Os AECT com sede estatutária em Portugal constituem-se mediante escritura pública, adquirindo personalidade jurídica na data do registo ou publicação da sua constituição.
 
@@ -237,7 +253,9 @@ Em tudo o que não for regulado pelo [Regulamento (CE) n.º 1082/2006](https://d
 
 5 - O AECT assegura, no prazo de 10 dias úteis a contar da publicação do convénio e dos estatutos, o envio ao Comité das Regiões de um pedido de acordo com o modelo constante do anexo ao [Regulamento (UE) n.º 1302/2013](https://data.europa.eu/eli/reg/2013/1302/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, constante do anexo ii ao presente decreto-lei, do qual faz parte integrante.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A Inspeção-Geral de Finanças é a autoridade nacional competente para efeito de controlo da execução dos fundos públicos pelos AECT, prevista no artigo 6.º do [Regulamento (CE) n.º 1082/2006](https://data.europa.eu/eli/reg/2006/1082/oj?locale=pt), do Parlamento Europeu e do Conselho, de 5 de julho de 2006, alterado pelo [Regulamento (UE) n.º 1302/2013](https://data.europa.eu/eli/reg/2013/1302/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013.
 
@@ -289,15 +307,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de fevereiro de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Luís Miguel Poiares Pessoa Maduro.
 
-**Promulgado em 7 de abril de 2015.**
+Promulgado em 7 de abril de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de abril de 2015.**
+Referendado em 9 de abril de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -363,7 +381,9 @@ h) A designação do auditor externo independente das respetivas contas; e
 
 i) Os procedimentos de alteração dos estatutos.
 
-## ANEXO II — (a que se refere o n.º 5 do artigo 7.º)
+ANEXO II
+
+(a que se refere o n.º 5 do artigo 7.º)
 
 Constituição de um agrupamento europeu de cooperação territorial
 
@@ -371,29 +391,39 @@ A designação de um agrupamento europeu de cooperação territorial cujos membr
 
 O asterisco* indica os campos obrigatórios.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07800/0202602034.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07800/0202602034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07800/0202602034.pdf)
 
-## ANEXO II — (a que se refere o artigo 6.º)
+ANEXO II
+
+(a que se refere o artigo 6.º)
 
 Republicação do [Decreto-Lei n.º 376/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-2007-629173), de 8 de novembro
 
-###### Artigo 1.º — Objeto
+Artigo 1.º
+
+Objeto
 
 O presente decreto-lei adota as medidas necessárias para garantir a aplicação do [Regulamento (CE) n.º 1082/2006](https://data.europa.eu/eli/reg/2006/1082/oj?locale=pt), do Parlamento Europeu e do Conselho, de 5 de julho de 2006, tendo em conta as alterações introduzidas pelo [Regulamento (UE) n.º 1302/2013](https://data.europa.eu/eli/reg/2013/1302/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, relativo aos agrupamentos europeus de cooperação territorial (AECT), no que se refere à clarificação, à simplificação e à melhoria da constituição e do funcionamento desses agrupamentos.
 
-###### Artigo 2.º — Natureza e missão
+Artigo 2.º
+
+Natureza e missão
 
 1 - Os AECT são pessoas coletivas públicas de natureza associativa constituídas, em regra, por entidades de, pelo menos, dois Estados-Membros da União Europeia, que têm por missão facilitar e promover a cooperação territorial incluindo uma ou mais das vertentes de cooperação, transfronteiriça, transnacional e inter-regional entre os seus membros, com o intuito de reforçar a coesão económica e social no território da União Europeia.
 
 2 - Os AECT são entidades dotadas de personalidade jurídica e gozam da mais ampla capacidade jurídica reconhecida às pessoas coletivas pela lei portuguesa.
 
-###### Artigo 3.º — Atribuições
+Artigo 3.º
+
+Atribuições
 
 1 - Os AECT têm por atribuição principal a execução de projetos ou ações de cooperação territorial cofinanciados pela União Europeia através do Fundo Europeu de Desenvolvimento Regional, do Fundo Social Europeu e ou do Fundo de Coesão.
 
 2 - Os AECT podem ainda promover a realização de estudos, planos, programas e projetos ou outras formas de relacionamento entre agentes, estruturas e entidades públicas suscetíveis de contribuírem para o desenvolvimento dos respetivos territórios, com ou sem cofinanciamento público, nacional ou da União Europeia, bem como gerir infraestruturas e equipamentos e ainda prestar serviços de interesse público.
 
-###### Artigo 4.º — Membros dos AECT
+Artigo 4.º
+
+Membros dos AECT
 
 1 - Podem ser membros de um AECT:
 
@@ -415,7 +445,9 @@ h) Autoridades ou organismos nacionais, regionais ou locais ou empresas pública
 
 2 - Podem ser igualmente membros de um AECT as associações constituídas por entidades pertencentes a uma ou mais das categorias referidas no número anterior.
 
-###### Artigo 4.º-A — Constituição dos agrupamentos europeus de cooperação territorial
+Artigo 4.º-A
+
+Constituição dos agrupamentos europeus de cooperação territorial
 
 1 - Um AECT pode ser constituído por membros situados no território de, pelo menos, dois Estados-Membros da União Europeia e de um ou mais países terceiros vizinhos de, pelo menos, um dos Estados-Membros, incluindo as suas regiões ultraperiféricas, caso esses Estados-Membros e países terceiros realizem conjuntamente ações de cooperação territorial ou executem programas apoiados pela União Europeia.
 
@@ -431,7 +463,9 @@ h) Autoridades ou organismos nacionais, regionais ou locais ou empresas pública
 
 7 - Sem prejuízo do disposto no n.º 3, um AECT pode também ser constituído por membros situados no território de um único Estado-Membro, da União Europeia incluindo as suas regiões ultraperiféricas, e de um ou mais PTU, com ou sem membros de um ou mais países terceiros.
 
-###### Artigo 5.º — Participação em AECT
+Artigo 5.º
+
+Participação em AECT
 
 1 - A constituição de um AECT encontra-se sujeita ao procedimento previsto no presente artigo e inicia-se com notificação dirigida à Agência para o Desenvolvimento e Coesão, I.P., abreviadamente designada por Agência, I.P., subscrita pelos seus potenciais membros.
 
@@ -467,11 +501,15 @@ d) Indicação do período de vigência do futuro AECT.
 
 13 - Não há lugar à interrupção do prazo previsto no n.º 8 se o membro potencial do AECT apresentar uma resposta às observações no prazo de 10 dias úteis a contar do início do período de interrupção.
 
-###### Artigo 6.º — Direito aplicável
+Artigo 6.º
+
+Direito aplicável
 
 Em tudo o que não for regulado pelo [Regulamento (CE) n.º 1082/2006](https://data.europa.eu/eli/reg/2006/1082/oj?locale=pt), do Parlamento Europeu e do Conselho, de 5 de julho de 2006, alterado pelo [Regulamento (UE) n.º 1302/2013](https://data.europa.eu/eli/reg/2013/1302/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, e pelo presente decreto-lei, aplicam-se aos AECT com sede estatutária em Portugal os princípios e as disposições legais aplicáveis às associações públicas.
 
-###### Artigo 7.º — Forma
+Artigo 7.º
+
+Forma
 
 1 - Os AECT com sede estatutária em Portugal constituem-se mediante escritura pública, adquirindo personalidade jurídica na data do registo ou publicação da sua constituição.
 
@@ -483,7 +521,9 @@ Em tudo o que não for regulado pelo [Regulamento (CE) n.º 1082/2006](https://d
 
 5 - O AECT assegura, no prazo de 10 dias úteis a contar da publicação do convénio e dos estatutos, o envio ao Comité das Regiões de um pedido de acordo com o modelo constante do anexo ao [Regulamento (UE) n.º 1302/2013](https://data.europa.eu/eli/reg/2013/1302/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, constante do anexo ii ao presente decreto-lei, do qual faz parte integrante.
 
-###### Artigo 8.º — Órgãos
+Artigo 8.º
+
+Órgãos
 
 1 - Os AECT constituídos ao abrigo da lei portuguesa devem ter os seguintes órgãos:
 
@@ -495,7 +535,9 @@ c) Um conselho fiscal.
 
 2 - Os estatutos podem prever outros órgãos desde que tenham as competências claramente definidas.
 
-###### Artigo 9.º — Proibição de atividade em Portugal
+Artigo 9.º
+
+Proibição de atividade em Portugal
 
 1 - Caso um AECT exerça uma atividade que viole disposições de ordem pública, segurança pública, saúde pública, moralidade pública ou o interesse público, o membro do Governo responsável pelo desenvolvimento regional pode proibir a sua atividade em Portugal ou exigir que as entidades portuguesas se retirem do AECT, a menos que este cesse a atividade em causa.
 
@@ -503,25 +545,35 @@ c) Um conselho fiscal.
 
 3 - As decisões proferidas nos termos do n.º 1 são impugnáveis nos termos da lei.
 
-###### Artigo 10.º — Cessação de funções
+Artigo 10.º
+
+Cessação de funções
 
 Os AECT com sede estatutária em Portugal podem cessar funções, por decisão do membro do Governo responsável pelo desenvolvimento regional, caso se verifique que deixaram de cumprir os requisitos estabelecidos no n.º 2 do artigo 1.º ou no artigo 7.º do [Regulamento (CE) n.º 1082/2006](https://data.europa.eu/eli/reg/2006/1082/oj?locale=pt), do Parlamento Europeu e do Conselho, de 5 de julho, ou, ainda, por violação de qualquer disposição de direito português que coloque em causa o prosseguimento das atividades do AECT em território nacional.
 
-###### Artigo 11.º — Extinção
+Artigo 11.º
+
+Extinção
 
 A extinção de um AECT opera nos termos previstos no respetivo convénio ou nos estatutos.
 
-###### Artigo 12.º — Controlo
+Artigo 12.º
+
+Controlo
 
 1 - A Inspeção-Geral de Finanças é a autoridade nacional competente para efeito de controlo da execução dos fundos públicos pelos AECT, prevista no artigo 6.º do [Regulamento (CE) n.º 1082/2006](https://data.europa.eu/eli/reg/2006/1082/oj?locale=pt), do Parlamento Europeu e do Conselho, de 5 de julho de 2006, alterado pelo [Regulamento (UE) n.º 1302/2013](https://data.europa.eu/eli/reg/2013/1302/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013.
 
 2 - Sem prejuízo do disposto no número anterior e caso as funções de um AECT abranjam ações cofinanciadas pela União Europeia, são aplicáveis a legislação nacional e da União Europeia, relativa ao controlo dos fundos europeus estruturais e de investimento.
 
-###### Artigo 13.º — Entrada em vigor
+Artigo 13.º
+
+Entrada em vigor
 
 O presente decreto-lei entra no dia seguinte ao da sua publicação.
 
-## ANEXO I — [a que se refere a alínea a) do n.º 2 do artigo 5.º]
+ANEXO I
+
+[a que se refere a alínea a) do n.º 2 do artigo 5.º]
 
 Convénio e estatutos
 
@@ -581,7 +633,9 @@ h) A designação do auditor externo independente das respetivas contas; e
 
 i) Os procedimentos de alteração dos estatutos.
 
-## ANEXO II — (a que se refere o n.º 5 do artigo 7.º)
+ANEXO II
+
+(a que se refere o n.º 5 do artigo 7.º)
 
 Constituição de um agrupamento europeu de cooperação territorial
 
@@ -589,4 +643,4 @@ A designação de um agrupamento europeu de cooperação territorial cujos membr
 
 O asterisco* indica os campos obrigatórios.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07800/0202602034.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07800/0202602034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07800/0202602034.pdf)

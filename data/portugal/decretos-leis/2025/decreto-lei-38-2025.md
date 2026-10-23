@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05900/0000900043.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/38/2025/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2025-912256340
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d9fe66313012eb47df02d27c54a7d33fe6af7b3a114fdbb95e61b4521925846
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a018ced0df65d1fed67f37046ec4ad1979300d39b9058c3dbe3662b2c6a5e49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Transporte Rodoviário
-- Rede de Estradas
-- Isenção de Portagem
-- Veículo
-- Documentos do Veículo
-- Transporte de Mercadorias
-- Portagem
-- Rede Rodoviária Transeuropeia
 - Documento Único Automóvel
+- Documentos do Veículo
+- Isenção de Portagem
+- Portagem
+- Rede de Estradas
+- Rede Rodoviária Transeuropeia
 - Regulamento CE
 - Serviço Electrónico Europeu de Portagem
 - Taxa
+- Transporte de Mercadorias
+- Transporte Rodoviário
+- Veículo
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:178-A/2005
+  label: Altera, a partir de 30 de março de 2025, o anexo ao Decreto-Lei n.º 178-A/2005, de 28 de outubro, Diário da República
+    n.º 208/2005, 1º Suplemento, Série I-A
+  source: null
+  date: '2005-10-28'
 - type: cites
   target: celex:31988L0077
   label: null
@@ -196,6 +202,32 @@ relationships:
   target: eli:http://data.europa.eu/eli/re
   label: null
   source: http://data.europa.eu/eli/re
+- type: cites
+  target: pt:dre:204552603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58228087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:60/2010
+  label: Revoga, a partir de 30 de março de 2025, o Decreto-Lei n.º 60/2010, de 8 de junho, Diário da República n.º 110/2010,
+    Série I
+  source: null
+  date: '2010-06-08'
 - type: transposes
   target: celex:31999L0037
   label: null
@@ -211,13 +243,13 @@ relationships:
 article_structure:
   article_count: 30
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:15Z'
   warnings: []
   errors: []
 ---
@@ -294,21 +326,21 @@ ii) Infraestruturas ou melhorias introduzidas nas infraestruturas, incluindo rep
 
 iii) Infraestruturas ou melhorias introduzidas nas infraestruturas concluídas antes das datas referidas na subalínea anterior caso o Estado-Membro tenha criado um sistema de cobrança prevendo a amortização desses custos através de um contrato com um operador do sistema de cobrança de portagens, ou outro ato jurídico de efeito equivalente, que entre em vigor antes de 10 de junho de 2008 ou o Estado-Membro possa demonstrar que a construção da infraestrutura em causa depende do facto de o seu período de vida predefinido ser superior a 30 anos;
 
-h) «Custo das emissões de CO<sub>2</sub> originadas pelo tráfego», o custo dos danos causados pela libertação de CO<sub>2</sub> durante a condução de um veículo;
+h) «Custo das emissões de CO2 originadas pelo tráfego», o custo dos danos causados pela libertação de CO2 durante a condução de um veículo;
 
 i) «Custos de financiamento», os juros sobre os empréstimos contraídos e a remuneração do financiamento da aquisição de participações por acionistas;
 
-j) «Custo da poluição atmosférica originada pelo tráfego», o custo dos danos para a saúde humana e para o meio ambiente causados pela libertação de partículas e de precursores do ozono, como NO<sub>x</sub>e os compostos orgânicos voláteis, durante a condução de um veículo;
+j) «Custo da poluição atmosférica originada pelo tráfego», o custo dos danos para a saúde humana e para o meio ambiente causados pela libertação de partículas e de precursores do ozono, como NOxe os compostos orgânicos voláteis, durante a condução de um veículo;
 
 k) «Custo da poluição sonora originada pelo tráfego», o custo dos danos para a saúde humana e para o meio ambiente causados pelo ruído emitido por um veículo ou resultante da interação do veículo com a superfície da estrada;
 
-l) «Emissões de referência de CO<sub>2</sub> de um grupo de veículos»:
+l) «Emissões de referência de CO2 de um grupo de veículos»:
 
 i) No caso dos veículos abrangidos pelo [Regulamento (UE) 2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de junho de 2019 [[Regulamento (UE) 2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt)], o valor calculado de acordo com a fórmula constante do ponto 3 do anexo i deste Regulamento;
 
-ii) No caso dos veículos não abrangidos pelo [Regulamento (UE) 2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt), o valor médio de todas as emissões de CO<sub>2</sub> dos veículos desse grupo, comunicado nos termos do [Regulamento (UE) 2024/1610](https://data.europa.eu/eli/reg/2024/1610/oj?locale=pt), do Parlamento Europeu e do Conselho, de 14 de maio de 2024, para o primeiro período de referência que tenha início após a data em que a matrícula, a venda ou a entrada em circulação de veículos desse grupo de veículos que não cumpram as obrigações a que se refere o artigo 9.º do [Regulamento (UE) 2017/2400](https://data.europa.eu/eli/reg/2017/2400/oj?locale=pt) da Comissão, de 12 de dezembro de 2017 [[Regulamento (UE) 2017/2400](https://data.europa.eu/eli/reg/2017/2400/oj?locale=pt)], sejam proibidas nos termos do artigo 24.º do mesmo Regulamento;
+ii) No caso dos veículos não abrangidos pelo [Regulamento (UE) 2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt), o valor médio de todas as emissões de CO2 dos veículos desse grupo, comunicado nos termos do [Regulamento (UE) 2024/1610](https://data.europa.eu/eli/reg/2024/1610/oj?locale=pt), do Parlamento Europeu e do Conselho, de 14 de maio de 2024, para o primeiro período de referência que tenha início após a data em que a matrícula, a venda ou a entrada em circulação de veículos desse grupo de veículos que não cumpram as obrigações a que se refere o artigo 9.º do [Regulamento (UE) 2017/2400](https://data.europa.eu/eli/reg/2017/2400/oj?locale=pt) da Comissão, de 12 de dezembro de 2017 [[Regulamento (UE) 2017/2400](https://data.europa.eu/eli/reg/2017/2400/oj?locale=pt)], sejam proibidas nos termos do artigo 24.º do mesmo Regulamento;
 
-m) «Emissões de CO<sub>2</sub>» de veículos pesados, as emissões de CO<sub>2</sub> específicas destes veículos previstas no ponto 2.3 do respetivo ficheiro de informações ao cliente, tal como definido na parte ii do anexo iv do [Regulamento (UE) 2017/2400](https://data.europa.eu/eli/reg/2017/2400/oj?locale=pt);
+m) «Emissões de CO2» de veículos pesados, as emissões de CO2 específicas destes veículos previstas no ponto 2.3 do respetivo ficheiro de informações ao cliente, tal como definido na parte ii do anexo iv do [Regulamento (UE) 2017/2400](https://data.europa.eu/eli/reg/2017/2400/oj?locale=pt);
 
 n) «Furgão», um veículo ligeiro tal como definido no ponto 4.2 da parte C do anexo i do [Regulamento (UE) 2018/858](https://data.europa.eu/eli/reg/2018/858/oj?locale=pt) do Parlamento Europeu e do Conselho, de 30 de maio de 2018;
 
@@ -348,13 +380,13 @@ i) Poluição atmosférica originada pelo tráfego;
 
 ii) Poluição sonora originada pelo tráfego; ou
 
-iii) Emissões de CO<sub>2</sub> originadas pelo tráfego;
+iii) Emissões de CO2 originadas pelo tráfego;
 
 bb) «Taxa média ponderada de utilização da infraestrutura», a receita total proveniente da cobrança da taxa de utilização da infraestrutura num determinado período, dividida pelo número de quilómetros percorridos pelos veículos pesados, durante esse período, nos troços em que essa taxa é aplicada;
 
 cc) «Taxa de utilização da infraestrutura», uma taxa destinada a recuperar os custos de construção, manutenção, exploração e desenvolvimento da infraestrutura suportados por um Estado-Membro;
 
-dd) «Trajetória de redução das emissões», para o período de referência de um ano (Y) e para o subgrupo de veículos (sg), a saber, ETY,sg: o produto do coeficiente de redução das emissões anuais de CO<sub>2</sub> (R-ETY) multiplicado pelas emissões de referência de CO<sub>2</sub> (rCO<sub>2</sub>sg) do subgrupo (sg), a saber, ETY,sg = R-ETY × rCO<sub>2</sub>sg; para os anos Y ≤ 2030, o R-ETY e o rCO<sub>2</sub>sg são ambos determinados nos termos do ponto 5.1 do anexo i do [Regulamento (UE) 2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt); para os anos Y > 2030, o R-ETY é 0,70; o rCO<sub>2</sub>sg aplica-se conforme ajustado por atos delegados adotados nos termos do n.º 2 do artigo 11.º do [Regulamento (UE) 2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt) para os períodos de referência que têm início após as correspondentes datas de aplicação desses atos delegados;
+dd) «Trajetória de redução das emissões», para o período de referência de um ano (Y) e para o subgrupo de veículos (sg), a saber, ETY,sg: o produto do coeficiente de redução das emissões anuais de CO2 (R-ETY) multiplicado pelas emissões de referência de CO2 (rCO2sg) do subgrupo (sg), a saber, ETY,sg = R-ETY × rCO2sg; para os anos Y ≤ 2030, o R-ETY e o rCO2sg são ambos determinados nos termos do ponto 5.1 do anexo i do [Regulamento (UE) 2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt); para os anos Y > 2030, o R-ETY é 0,70; o rCO2sg aplica-se conforme ajustado por atos delegados adotados nos termos do n.º 2 do artigo 11.º do [Regulamento (UE) 2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt) para os períodos de referência que têm início após as correspondentes datas de aplicação desses atos delegados;
 
 ee) «Transportador», uma empresa dedicada ao transporte rodoviário de mercadorias ou passageiros;
 
@@ -388,7 +420,7 @@ nn) «Veículo pesado com nível baixo de emissões»:
 
 i) Um «veículo pesado com nível baixo de emissões» na aceção do ponto 12 do artigo 3.º do [Regulamento (UE) 2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt); ou
 
-ii) Um veículo pesado não abrangido pelo âmbito de aplicação das alíneas a) a d) do n.º 1 do artigo 2.º do [Regulamento (UE) 2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt) com emissões de CO<sub>2</sub> inferiores a 50 % das emissões de referência de CO<sub>2</sub> do seu grupo de veículos, com exceção de um veículo com nível nulo de emissões;
+ii) Um veículo pesado não abrangido pelo âmbito de aplicação das alíneas a) a d) do n.º 1 do artigo 2.º do [Regulamento (UE) 2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt) com emissões de CO2 inferiores a 50 % das emissões de referência de CO2 do seu grupo de veículos, com exceção de um veículo com nível nulo de emissões;
 
 oo) «Veículo pesado de mercadorias», um veículo pesado destinado ao transporte de mercadorias.
 
@@ -456,7 +488,7 @@ a) Não ser tecnicamente viável introduzir essa diferenciação no sistema de p
 
 b) Provocar o desvio dos veículos mais poluentes, com impactos negativos na segurança rodoviária e na saúde pública.
 
-2 - A decisão de não aplicar a taxa de externalidade relacionada com as emissões de CO<sub>2</sub>aos autocarros, pela utilização de pontes, túneis e passagens de montanha é notificada à Comissão Europeia.
+2 - A decisão de não aplicar a taxa de externalidade relacionada com as emissões de CO2aos autocarros, pela utilização de pontes, túneis e passagens de montanha é notificada à Comissão Europeia.
 
 #### SECÇÃO II — TAXA DE UTILIZAÇÃO DE INFRAESTRUTURA
 
@@ -492,63 +524,63 @@ c) As reduções não excedam 13 % da taxa de utilização da infraestrutura pag
 
 3 - A redução das receitas decorrente do desconto concedido aos utilizadores frequentes previsto no número anterior não pode ser compensada com imposições a utilizadores menos frequentes.
 
-###### Artigo 11.º — Classes de emissão de CO<sub>2</sub>
+###### Artigo 11.º — Classes de emissão de CO2
 
-1 - São estabelecidas para cada categoria de veículo pesado, as seguintes classes de emissões de CO<sub>2</sub>:
+1 - São estabelecidas para cada categoria de veículo pesado, as seguintes classes de emissões de CO2:
 
-a) Classe 1 de emissões de CO<sub>2</sub> - veículos não pertencentes a qualquer uma das classes de emissões de CO<sub>2</sub> a que se referem as alíneas b) a e);
+a) Classe 1 de emissões de CO2 - veículos não pertencentes a qualquer uma das classes de emissões de CO2 a que se referem as alíneas b) a e);
 
-b) Classe 2 de emissões de CO<sub>2</sub> - veículos do subgrupo de veículos sg matriculados pela primeira vez no período de referência do ano Y com uma taxa de emissões de CO<sub>2</sub> que se encontra mais de 5 % abaixo da trajetória de redução das emissões para o período de referência do ano Y e o subgrupo de veículos sg não pertencentes a nenhuma das classes de emissões de CO<sub>2</sub> a que se referem as alíneas c), d) e e);
+b) Classe 2 de emissões de CO2 - veículos do subgrupo de veículos sg matriculados pela primeira vez no período de referência do ano Y com uma taxa de emissões de CO2 que se encontra mais de 5 % abaixo da trajetória de redução das emissões para o período de referência do ano Y e o subgrupo de veículos sg não pertencentes a nenhuma das classes de emissões de CO2 a que se referem as alíneas c), d) e e);
 
-c) Classe 3 de emissões de CO<sub>2</sub> - veículos do subgrupo de veículos sg matriculados pela primeira vez no período de referência do ano Y com uma taxa de emissões de CO<sub>2</sub> que se encontra mais de 8 % abaixo da trajetória de redução das emissões para o período de referência do ano Y e o subgrupo de veículos sg não pertencentes a nenhuma das classes de emissões de CO<sub>2</sub> a que se referem as alíneas d) e e);
+c) Classe 3 de emissões de CO2 - veículos do subgrupo de veículos sg matriculados pela primeira vez no período de referência do ano Y com uma taxa de emissões de CO2 que se encontra mais de 8 % abaixo da trajetória de redução das emissões para o período de referência do ano Y e o subgrupo de veículos sg não pertencentes a nenhuma das classes de emissões de CO2 a que se referem as alíneas d) e e);
 
-d) Classe 4 de emissões de CO<sub>2</sub> - veículos pesados com nível baixo de emissões;
+d) Classe 4 de emissões de CO2 - veículos pesados com nível baixo de emissões;
 
-e) Classe 5 de emissões de CO<sub>2</sub> - veículos com nível nulo de emissões.
+e) Classe 5 de emissões de CO2 - veículos com nível nulo de emissões.
 
-2 - Para as classes de emissões de CO<sub>2</sub> 1, 4 e 5, referidas no número anterior, a taxa de variação de utilização da infraestrutura é aplicável aos grupos de veículos pesados não abrangidos pelas alíneas a) a d) do n.º 1 do artigo 2.º do [Regulamento (UE) 2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt), o mais tardar dois anos após a publicação das emissões de referência de CO<sub>2</sub> nos atos de execução adotados nos termos do n.º 7 da [Diretiva (UE) 2022/362](https://data.europa.eu/eli/dir/2022/362/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de fevereiro de 2022 [[Diretiva (UE) 2022/362](https://data.europa.eu/eli/dir/2022/362/oj?locale=pt)], para o grupo em causa.
+2 - Para as classes de emissões de CO2 1, 4 e 5, referidas no número anterior, a taxa de variação de utilização da infraestrutura é aplicável aos grupos de veículos pesados não abrangidos pelas alíneas a) a d) do n.º 1 do artigo 2.º do [Regulamento (UE) 2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt), o mais tardar dois anos após a publicação das emissões de referência de CO2 nos atos de execução adotados nos termos do n.º 7 da [Diretiva (UE) 2022/362](https://data.europa.eu/eli/dir/2022/362/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de fevereiro de 2022 [[Diretiva (UE) 2022/362](https://data.europa.eu/eli/dir/2022/362/oj?locale=pt)], para o grupo em causa.
 
-3 - Caso o ponto 5.1 do anexo i do [Regulamento (UE) 2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt) seja alterado por um ato legislativo da União de modo a abranger as emissões de referência de CO<sub>2</sub> pertinentes para um grupo de veículos pesados, essas emissões de referência de CO<sub>2</sub> devem deixar de ser determinadas nos termos do n.º 7 da [Diretiva (UE) 2022/362](https://data.europa.eu/eli/dir/2022/362/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de fevereiro de 2022, mas sim nos termos do ponto 5.1 do anexo i do [Regulamento (UE) 2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt).
+3 - Caso o ponto 5.1 do anexo i do [Regulamento (UE) 2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt) seja alterado por um ato legislativo da União de modo a abranger as emissões de referência de CO2 pertinentes para um grupo de veículos pesados, essas emissões de referência de CO2 devem deixar de ser determinadas nos termos do n.º 7 da [Diretiva (UE) 2022/362](https://data.europa.eu/eli/dir/2022/362/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de fevereiro de 2022, mas sim nos termos do ponto 5.1 do anexo i do [Regulamento (UE) 2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt).
 
-4 - Nos casos em que as trajetórias de redução das emissões para os grupos de veículos pesados não abrangidos pelas alíneas a) a d) do n.º 1 do artigo 2.º do [Regulamento (UE) 2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt), sejam determinadas por um ato legislativo de União que altere o ponto 5.1 do anexo i desse Regulamento, as variações para as classes de emissões de CO<sub>2</sub> 2 e 3, tal como definidas no n.º 3 do presente artigo, são aplicáveis a partir da data de entrada em vigor das novas trajetórias de redução das emissões.
+4 - Nos casos em que as trajetórias de redução das emissões para os grupos de veículos pesados não abrangidos pelas alíneas a) a d) do n.º 1 do artigo 2.º do [Regulamento (UE) 2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt), sejam determinadas por um ato legislativo de União que altere o ponto 5.1 do anexo i desse Regulamento, as variações para as classes de emissões de CO2 2 e 3, tal como definidas no n.º 3 do presente artigo, são aplicáveis a partir da data de entrada em vigor das novas trajetórias de redução das emissões.
 
-5 - Cabe ao Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), proceder à reavaliação da classificação dos veículos pertencentes às classes 2 ou 3 de emissões de CO<sub>2</sub>, de seis em seis anos, a partir da data da primeira matrícula do veículo e, se for caso disso, determinar que o veículo é reclassificado na classe de emissões pertinente com base nos limiares aplicáveis nesse momento.
+5 - Cabe ao Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), proceder à reavaliação da classificação dos veículos pertencentes às classes 2 ou 3 de emissões de CO2, de seis em seis anos, a partir da data da primeira matrícula do veículo e, se for caso disso, determinar que o veículo é reclassificado na classe de emissões pertinente com base nos limiares aplicáveis nesse momento.
 
 6 - A reclassificação que resulte da reavaliação prevista no número anterior produz efeitos o mais tardar no seu primeiro dia de validade, a ter lugar no próprio dia da reclassificação ou em dia posterior.
 
 7 - As variações referidas no presente artigo não podem destinar-se a gerar receitas adicionais.
 
-###### Artigo 12.º — Variação da taxa de utilização da infraestrutura aplicável aos veículos pesados em função das classes de emissão de CO<sub>2</sub>
+###### Artigo 12.º — Variação da taxa de utilização da infraestrutura aplicável aos veículos pesados em função das classes de emissão de CO2
 
 1 - À variação das taxas de utilização da infraestrutura para veículos pesados aplica-se o regime do presente artigo.
 
-2 - É aplicada uma variação da taxa de utilização da infraestrutura até dois anos após a publicação das emissões de referência de CO<sub>2</sub> dos subgrupos de veículos pesados nos atos de execução, adotados nos termos do n.º 1 do artigo 11.º do [Regulamento (UE) 2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt), e que seja abrangido pelas alíneas a) a d) do n.º 1 do artigo 2.º deste Regulamento.
+2 - É aplicada uma variação da taxa de utilização da infraestrutura até dois anos após a publicação das emissões de referência de CO2 dos subgrupos de veículos pesados nos atos de execução, adotados nos termos do n.º 1 do artigo 11.º do [Regulamento (UE) 2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt), e que seja abrangido pelas alíneas a) a d) do n.º 1 do artigo 2.º deste Regulamento.
 
-3 - São aplicadas taxas reduzidas aos veículos das classes 2, 3, 4 e 5 de emissões de CO<sub>2</sub>de acordo com as seguintes percentagens:
+3 - São aplicadas taxas reduzidas aos veículos das classes 2, 3, 4 e 5 de emissões de CO2de acordo com as seguintes percentagens:
 
-a) Classe 2 de emissões de CO<sub>2</sub> - redução de 5 % a 15 % relativamente à taxa aplicável à classe 1 de emissões de CO<sub>2</sub>;
+a) Classe 2 de emissões de CO2 - redução de 5 % a 15 % relativamente à taxa aplicável à classe 1 de emissões de CO2;
 
-b) Classe 3 de emissões de CO<sub>2</sub> - redução de 15 % a 30 % relativamente à taxa aplicável à classe 1 de emissões de CO<sub>2</sub>;
+b) Classe 3 de emissões de CO2 - redução de 15 % a 30 % relativamente à taxa aplicável à classe 1 de emissões de CO2;
 
-c) Classe 4 de emissões de CO<sub>2</sub> - redução de 30 % a 50 % relativamente à taxa aplicável à classe 1 de emissões de CO<sub>2</sub>;
+c) Classe 4 de emissões de CO2 - redução de 30 % a 50 % relativamente à taxa aplicável à classe 1 de emissões de CO2;
 
-d) Classe 5 de emissões de CO<sub>2</sub> - redução de 50 % a 75 % relativamente à taxa aplicável à classe 1 de emissões de CO<sub>2</sub>.
+d) Classe 5 de emissões de CO2 - redução de 50 % a 75 % relativamente à taxa aplicável à classe 1 de emissões de CO2.
 
 4 - Caso a taxa de utilização da infraestrutura varie em função da classe de emissões Euro, as reduções referidas no presente artigo aplicam-se mediante comparação com a taxa aplicada às normas de emissões Euro mais rigorosas.
 
-5 - Se uma taxa de externalidade para as emissões de CO<sub>2</sub> for aplicada e objeto de variação de acordo com os valores de referência da taxa de externalidade para as emissões de CO<sub>2</sub> constantes do anexo iv ao presente decreto-lei e do qual faz parte integrante, pode ser decido não aplicar o requisito de variação da taxa de utilização da infraestrutura nos termos do artigo 12.º do presente decreto-lei.
+5 - Se uma taxa de externalidade para as emissões de CO2 for aplicada e objeto de variação de acordo com os valores de referência da taxa de externalidade para as emissões de CO2 constantes do anexo iv ao presente decreto-lei e do qual faz parte integrante, pode ser decido não aplicar o requisito de variação da taxa de utilização da infraestrutura nos termos do artigo 12.º do presente decreto-lei.
 
-6 - Nos troços rodoviários em que circulam veículos comprovadamente sem emissões de CO<sub>2</sub>, podem ser aplicadas, a esses veículos, taxas reduzidas em conformidade com a classe 5 de emissões de CO<sub>2</sub>, aplicando-se-lhes as taxas fixadas para a classe 1 de emissões de CO<sub>2</sub> noutros troços rodoviários.
+6 - Nos troços rodoviários em que circulam veículos comprovadamente sem emissões de CO2, podem ser aplicadas, a esses veículos, taxas reduzidas em conformidade com a classe 5 de emissões de CO2, aplicando-se-lhes as taxas fixadas para a classe 1 de emissões de CO2 noutros troços rodoviários.
 
-7 - A aplicação da variação em função das emissões de CO<sub>2</sub> a que se refere o presente decreto-lei não é obrigatória nos casos em se aplique outra medida da União Europeia em matéria de tarifação do carbono para os combustíveis utilizados nos transportes rodoviários.
+7 - A aplicação da variação em função das emissões de CO2 a que se refere o presente decreto-lei não é obrigatória nos casos em se aplique outra medida da União Europeia em matéria de tarifação do carbono para os combustíveis utilizados nos transportes rodoviários.
 
 ###### Artigo 13.º — Taxa de utilização da infraestrutura por veículos ligeiros
 
-1 - Pode ser aplicada aos veículos ligeiros a diferenciação das portagens em conformidade com o desempenho ambiental do veículo, determinado pelas emissões específicas de CO<sub>2</sub> combinadas, ou combinadas ponderadas, registadas no ponto 49 do certificado de conformidade do veículo, e pelo desempenho segundo a classe de emissões Euro.
+1 - Pode ser aplicada aos veículos ligeiros a diferenciação das portagens em conformidade com o desempenho ambiental do veículo, determinado pelas emissões específicas de CO2 combinadas, ou combinadas ponderadas, registadas no ponto 49 do certificado de conformidade do veículo, e pelo desempenho segundo a classe de emissões Euro.
 
 2 - Sem prejuízo do disposto no número seguinte, aplicam-se as taxas de portagens mais baixas aos veículos ligeiros de passageiros, aos miniautocarros e aos veículos comerciais ligeiros que satisfaçam as duas condições seguintes:
 
-a) As suas emissões específicas de CO<sub>2</sub>, determinadas nos termos do [Regulamento (UE) 2017/1151](https://data.europa.eu/eli/reg/2017/1151/oj?locale=pt), da Comissão, de 1 de junho de 2017 [[Regulamento (UE) 2017/1151](https://data.europa.eu/eli/reg/2017/1151/oj?locale=pt)], são iguais a zero ou inferiores aos níveis a seguir indicados:
+a) As suas emissões específicas de CO2, determinadas nos termos do [Regulamento (UE) 2017/1151](https://data.europa.eu/eli/reg/2017/1151/oj?locale=pt), da Comissão, de 1 de junho de 2017 [[Regulamento (UE) 2017/1151](https://data.europa.eu/eli/reg/2017/1151/oj?locale=pt)], são iguais a zero ou inferiores aos níveis a seguir indicados:
 
 i) Para o período de 2025 a 2029, aos objetivos para a frota da União, determinados nos termos do ponto 6.1.1 da parte A do anexo i ao presente decreto-lei e do ponto 6.1.1 da parte B do [Regulamento (UE) 2019/631](https://data.europa.eu/eli/reg/2019/631/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de abril de 2019 [[Regulamento (UE) 2019/631](https://data.europa.eu/eli/reg/2019/631/oj?locale=pt)];
 
@@ -562,7 +594,7 @@ b) As suas emissões de poluentes, determinadas nos termos do [Regulamento (UE) 
 
 5 - Caso se apliquem reduções apenas a veículos com nível nulo de emissões, sem aplicar qualquer variação a outros veículos, fica dispensada a notificação referida no número anterior.
 
-6 - Sem prejuízo das condições estabelecidas nos n.<sup>os</sup>1 a 3, a melhoria do desempenho ambiental do veículo pode estar associada à sua conversão para a utilização de combustíveis alternativos.
+6 - Sem prejuízo das condições estabelecidas nos n.os1 a 3, a melhoria do desempenho ambiental do veículo pode estar associada à sua conversão para a utilização de combustíveis alternativos.
 
 7 - Podem ser aprovadas medidas excecionais para efeitos da cobrança da taxa de utilização sobre veículos de interesse histórico.
 
@@ -636,7 +668,7 @@ d) Se a portagem incluir uma taxa de externalidade pela poluição atmosférica.
 
 a) As receitas geradas pela majoração sejam investidas no financiamento do desenvolvimento de serviços de transporte ou na construção ou manutenção da infraestrutura de transporte da rede transeuropeia de transportes principal, identificada no capítulo iii do [Regulamento (UE) 2024/1679](https://data.europa.eu/eli/reg/2024/1679/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de junho de 2024 [[Regulamento (UE) 2024/1679](https://data.europa.eu/eli/reg/2024/1679/oj?locale=pt)], que contribuam diretamente para reduzir o congestionamento ou os danos ambientais e se localizem no mesmo corredor que o troço rodoviário a que é aplicada a majoração;
 
-b) A majoração não exceda 15 % da taxa média ponderada de utilização da infraestrutura, calculada nos termos dos n.<sup>os</sup>1 a 3 e 5 a 7 do artigo 9.º, exceto nas seguintes situações:
+b) A majoração não exceda 15 % da taxa média ponderada de utilização da infraestrutura, calculada nos termos dos n.os1 a 3 e 5 a 7 do artigo 9.º, exceto nas seguintes situações:
 
 i) No caso em que as receitas geradas sejam investidas em troços transfronteiriços de um corredor da rede principal, identificado nos termos do capítulo iv do [Regulamento (UE) n.º 2024/1679](https://data.europa.eu/eli/reg/2024/1679/oj?locale=pt), a majoração não pode exceder 25 % dessa taxa média ponderada de utilização da infraestrutura;
 
@@ -654,7 +686,7 @@ d) O período em que a majoração é aplicável seja previamente definido e del
 
 ###### Artigo 17.º — Taxa de externalidade
 
-1 - Pode ser introduzida uma taxa de externalidade relacionada com o custo da poluição atmosférica, da poluição sonora ou das emissões de CO<sub>2</sub> originadas pelo tráfego, ou qualquer combinação entre estas.
+1 - Pode ser introduzida uma taxa de externalidade relacionada com o custo da poluição atmosférica, da poluição sonora ou das emissões de CO2 originadas pelo tráfego, ou qualquer combinação entre estas.
 
 2 - A introdução de uma taxa de externalidade para veículos pesados é fixada de acordo com os requisitos mínimos e com os métodos especificados no anexo iii ao presente decreto-lei, respeitando os valores máximos previstos nos anexos iv e v ao presente decreto-lei, sem prejuízo de poder ser decidido recuperar apenas uma percentagem desses custos.
 
@@ -668,17 +700,17 @@ d) O período em que a majoração é aplicável seja previamente definido e del
 
 2 - A taxa de externalidade relacionada com a poluição atmosférica originada pelo tráfego não se aplica aos veículos pesados que cumpram as normas de emissões Euro mais rigorosas, nos primeiros quatro anos da sua vigência.
 
-3 - Se as portagens concessionadas não variarem nos termos dos artigos 12.º e 15.º para os veículos pesados, e nos termos do artigo 13.º para os veículos ligeiros, pode ser aplicada uma taxa de externalidade para as emissões de CO<sub>2</sub> e para a poluição atmosférica ou descontos relacionados com estas emissões.
+3 - Se as portagens concessionadas não variarem nos termos dos artigos 12.º e 15.º para os veículos pesados, e nos termos do artigo 13.º para os veículos ligeiros, pode ser aplicada uma taxa de externalidade para as emissões de CO2 e para a poluição atmosférica ou descontos relacionados com estas emissões.
 
-###### Artigo 19.º — Taxa de externalidade relacionada com emissões de CO<sub>2</sub>
+###### Artigo 19.º — Taxa de externalidade relacionada com emissões de CO2
 
-1 - Podem ser aplicadas às emissões de CO<sub>2</sub> taxas de externalidade mais elevadas do que os valores de referência estabelecidos no anexo iv ao presente decreto-lei, desde que essas taxas sejam aplicadas de forma não discriminatória e limitadas a não mais do que o dobro dos valores estabelecidos no anexo iv ao presente decreto-lei.
+1 - Podem ser aplicadas às emissões de CO2 taxas de externalidade mais elevadas do que os valores de referência estabelecidos no anexo iv ao presente decreto-lei, desde que essas taxas sejam aplicadas de forma não discriminatória e limitadas a não mais do que o dobro dos valores estabelecidos no anexo iv ao presente decreto-lei.
 
 2 - A aplicação de taxas de externalidade referida no número anterior é notificada à Comissão, com a justificação da sua decisão, nos termos do anexo vii ao presente decreto-lei.
 
-3 - Para os autocarros, pode ser aplicada taxa de externalidade relacionada com a emissão de CO<sub>2</sub> de valores idênticos ou inferiores aos aplicados aos veículos pesados de mercadorias.
+3 - Para os autocarros, pode ser aplicada taxa de externalidade relacionada com a emissão de CO2 de valores idênticos ou inferiores aos aplicados aos veículos pesados de mercadorias.
 
-4 - A taxa de externalidade para as emissões de CO<sub>2</sub> pode ser combinada com uma taxa de utilização da infraestrutura que tenha sido objeto de variação nos termos dos artigos 12.º e 13.º
+4 - A taxa de externalidade para as emissões de CO2 pode ser combinada com uma taxa de utilização da infraestrutura que tenha sido objeto de variação nos termos dos artigos 12.º e 13.º
 
 #### SECÇÃO V — PROJETOS DA REDE TRANSEUROPEIA DE TRANSPORTES PRINCIPAL
 
@@ -750,7 +782,7 @@ b) Redução na fonte da poluição causada pelo transporte rodoviário;
 
 c) Minimização na fonte dos efeitos da poluição causada pelo transporte rodoviário;
 
-d) Melhoria do desempenho dos veículos, tanto no plano energético como no das emissões de CO<sub>2</sub>;
+d) Melhoria do desempenho dos veículos, tanto no plano energético como no das emissões de CO2;
 
 e) Desenvolvimento de infraestruturas de transporte alternativas e/ou aumento da capacidade atual;
 
@@ -794,7 +826,7 @@ a) O nível máximo da taxa de utilização da infraestrutura estabelecido no n.
 
 b) A taxa de externalidade relacionada com a poluição atmosférica aplicável nos termos do n.º 1 do artigo 17.º;
 
-c) A taxa de utilização de infraestrutura de veículos pesados em função das classes de CO<sub>2</sub>, prevista no artigo 12.º;
+c) A taxa de utilização de infraestrutura de veículos pesados em função das classes de CO2, prevista no artigo 12.º;
 
 d) A taxa de utilização de infraestruturas de veículos ligeiros em conformidade com o desempenho ambiental prevista no artigo 13.º;
 
@@ -806,7 +838,7 @@ a) O nível máximo da taxa de utilização da infraestrutura de veículos pesad
 
 b) A taxa de externalidade relacionada com a poluição atmosférica aplicável aos veículos pesados, nos termos do n.º 1 do artigo 17.º;
 
-c) A taxa de utilização de infraestrutura de veículos pesados em função das classes de CO<sub>2</sub>, conforme prevista no artigo 11.º;
+c) A taxa de utilização de infraestrutura de veículos pesados em função das classes de CO2, conforme prevista no artigo 11.º;
 
 d) A taxa de utilização de infraestruturas de veículos ligeiros em conformidade com o desempenho ambiental, conforme previsto no artigo 13.º;
 
@@ -856,15 +888,15 @@ O anexo ao [Decreto-Lei n.º 178-A/2005](https://diariodarepublica.pt/dr/detalhe
 
 Visto e aprovado em Conselho de Ministros de 16 de janeiro de 2025. - Luís Montenegro - Inês Carmelo Rosa Calado Lopes Domingos - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 10 de março de 2025.**
+Promulgado em 10 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de março de 2025.**
+Referendado em 12 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — Limites de emissão
 
@@ -878,36 +910,36 @@ Visto e aprovado em Conselho de Ministros de 16 de janeiro de 2025. - Luís Mont
 
 |  | Massa de monóxido de carbono (CO) g/kWh | Massa de hidrocarbonetos (HC) g/kWh | Massa de óxidos de azoto (NOx) g/kWh | Massa de partículas (PT) g/kWh |
 | --- | --- | --- | --- | --- |
-| Veículo «Euro I» | 4,9 | 1,23 | 9,0 | 0,4 (<sup>1</sup>) |
+| Veículo «Euro I» | 4,9 | 1,23 | 9,0 | 0,4 (1) |
 | Veículo «Euro II» | 4,0 | 1,1 | 7,0 | 0,15 |
 
-(<sup>1</sup>) Ao valor-limite das emissões de partículas aplica-se um coeficiente de 1,7 para os motores de potência igual ou inferior a 85 kW.
+(1) Ao valor-limite das emissões de partículas aplica-se um coeficiente de 1,7 para os motores de potência igual ou inferior a 85 kW.
 
 3 - Veículos «Euro III»/«Euro IV»/«Euro V»/«VEA»
 
-As massas específicas de monóxido de carbono, hidrocarbonetos totais, óxidos de azoto e partículas, determinadas no ensaio ESC, e a opacidade dos fumos, determinada no ensaio ELR, não devem exceder os seguintes valores (<sup>1</sup>):
+As massas específicas de monóxido de carbono, hidrocarbonetos totais, óxidos de azoto e partículas, determinadas no ensaio ESC, e a opacidade dos fumos, determinada no ensaio ELR, não devem exceder os seguintes valores (1):
 
-|  | Massa de monóxido de carbono (CO) g/kWh | Massa de hidrocarbonetos (HC) g/kWh | Massa de óxidos de azoto (NOx) g/kWh | Massa de partículas (PT) g/kWh | Fumos m<sup>-1</sup> |
+|  | Massa de monóxido de carbono (CO) g/kWh | Massa de hidrocarbonetos (HC) g/kWh | Massa de óxidos de azoto (NOx) g/kWh | Massa de partículas (PT) g/kWh | Fumos m-1 |
 | --- | --- | --- | --- | --- | --- |
-| Veículo «Euro III» | 2,1 | 0,66 | 5,0 | 0,10 (<sup>2</sup>) | 0,8 |
+| Veículo «Euro III» | 2,1 | 0,66 | 5,0 | 0,10 (2) | 0,8 |
 | Veículo «Euro IV» | 1,5 | 0,46 | 3,5 | 0,02 | 0,5 |
 | Veículo «Euro V» | 1,5 | 0,46 | 2,0 | 0,02 | 0,5 |
 | Veículo «VEA» | 1,5 | 0,25 | 2,0 | 0,02 | 0,15 |
 
-(<sup>1</sup>) Um ciclo de ensaios é constituído por uma sequência de pontos de ensaio, cada um dos quais com uma velocidade e um binário definidos, que devem ser seguidos pelo motor em condições de funcionamento em estado estacionário (ensaio ESC) ou transiente (ensaios ETC e ELR).
+(1) Um ciclo de ensaios é constituído por uma sequência de pontos de ensaio, cada um dos quais com uma velocidade e um binário definidos, que devem ser seguidos pelo motor em condições de funcionamento em estado estacionário (ensaio ESC) ou transiente (ensaios ETC e ELR).
 
-(<sup>2</sup>) 0,13 para os motores com uma cilindrada unitária inferior a 0,7 dm<sup>3</sup> e um regime nominal superior a 3 000 min<sup>-1</sup>.
+(2) 0,13 para os motores com uma cilindrada unitária inferior a 0,7 dm3 e um regime nominal superior a 3 000 min-1.
 
 Limites de emissões Euro VI
 
-|  | Monóxido de carbono (CO) (mg/kWh) | Hidrocarbonetos totais (THC)(mg/kWh) | Hidrocarbonetos não metânicos (NMHC) (mg/kWh) | Metano (CH4)(mg/kWh) | Óxidos de azoto (NOx) (<sup>1</sup>)(mg/kWh) | Amoníaco <sub>(</sub>NH<sub>3</sub>)(ppm) | Massa de partículas(mg/kWh) | Número de partículas(kWh) |
+|  | Valores-limite |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Valores-limite | Valores-limite | Valores-limite | Valores-limite | Valores-limite | Valores-limite | Valores-limite | Valores-limite |
-| Ciclo de condução em estado estacionário harmonizado a nível mundial (WHSC) (IC) | 1 500 | 130 |  |  | 400 | 10 | 10 | 8,0 x 10<sup>11</sup> |
-| Ciclo de ensaio WHTC (IC) | 4 000 | 160 |  |  | 460 | 10 | 10 | 6,0 x 10<sup>11</sup> |
-| Ciclo de ensaio WHTC (IF) | 4 000 |  | 160 | 500 | 460 | 10 | 10 | 6,0 x 10<sup>11</sup> |
+| Monóxido de carbono (CO) (mg/kWh) | Hidrocarbonetos totais (THC)(mg/kWh) | Hidrocarbonetos não metânicos (NMHC) (mg/kWh) | Metano (CH4)(mg/kWh) | Óxidos de azoto (NOx) (1)(mg/kWh) | Amoníaco (NH3)(ppm) | Massa de partículas(mg/kWh) | Número de partículas(kWh) |  |
+| Ciclo de condução em estado estacionário harmonizado a nível mundial (WHSC) (IC) | 1 500 | 130 |  |  | 400 | 10 | 10 | 8,0 x 1011 |
+| Ciclo de ensaio WHTC (IC) | 4 000 | 160 |  |  | 460 | 10 | 10 | 6,0 x 1011 |
+| Ciclo de ensaio WHTC (IF) | 4 000 |  | 160 | 500 | 460 | 10 | 10 | 6,0 x 1011 |
 
-(<sup>1</sup>) O nível admissível da componente de NO<sub>2</sub> no valor-limite dos NO<sub>x</sub> pode ser definido posteriormente.
+(1) O nível admissível da componente de NO2 no valor-limite dos NOx pode ser definido posteriormente.
 
 Nota:
 
@@ -919,7 +951,7 @@ IC = Ignição por compressão.
 
 ## ANEXO II — Princípios fundamentais de imputação de custos e de cálculo das portagens
 
-O presente anexo estabelece, nos termos dos n.<sup>os</sup> 2 e 3 do artigo 9.º, os princípios fundamentais de cálculo da taxa média ponderada de utilização da infraestrutura.
+O presente anexo estabelece, nos termos dos n.os 2 e 3 do artigo 9.º, os princípios fundamentais de cálculo da taxa média ponderada de utilização da infraestrutura.
 
 A aplicação destes princípios deve ser inteiramente consentânea com outras obrigações decorrentes da legislação da União, especialmente o requisito de os contratos de concessão serem adjudicados nos termos da [Diretiva 2004/18/CE](https://data.europa.eu/eli/dir/2004/18/oj?locale=pt), e de outros instrumentos da União no domínio dos contratos públicos.
 
@@ -981,17 +1013,17 @@ O cálculo das portagens baseia-se no número de quilómetros, real ou previsív
 
 O quadro seguinte estabelece uma série de coeficientes de equivalência indicativos. Sempre que o Estado utilize coeficientes de equivalência com rácios diferentes dos constantes do quadro, tais coeficientes devem basear-se em critérios objetivamente justificáveis e ser tornados públicos.
 
-| Classe do veículo (<sup>1</sup>) | Reparação estrutural (<sup>2</sup>) | Investimentos | Manutenção anual |
+| Classe do veículo (1) | Coeficientes de equivalência |  |  |
 | --- | --- | --- | --- |
-| Classe do veículo (<sup>1</sup>) | Coeficientes de equivalência | Coeficientes de equivalência | Coeficientes de equivalência |
+| Reparação estrutural (2) | Investimentos | Manutenção anual |  |
 | Entre 3,5 t e 7,5 t, classe 0 | 1 | 1 | 1 |
 | > 7,5 t, classe i | 1,96 | 1 | 1 |
 | > 7,5 t, classe ii | 3,47 | 1 | 1 |
 | > 7,5 t, classe iii | 5,72 | 1 | 1 |
 
-(<sup>1</sup>) Para a determinação das classes de veículos, v. anexo iv.
+(1) Para a determinação das classes de veículos, v. anexo iv.
 
-(<sup>2</sup>) As classes de veículos correspondem, respetivamente, à seguinte carga por eixo: 5,5 t; 6,5 t; 7,5 t, e 8,5 t.
+(2) As classes de veículos correspondem, respetivamente, à seguinte carga por eixo: 5,5 t; 6,5 t; 7,5 t, e 8,5 t.
 
 Os sistemas de cobrança de portagens baseados em níveis de tráfego previsíveis incluem um mecanismo de correção segundo o qual as portagens são periodicamente ajustadas de modo a corrigir eventuais amortizações de custos deficitárias ou excedentárias devidas a erros de previsão.
 
@@ -1013,7 +1045,7 @@ Sempre que o Estado tencione aplicar uma taxa de externalidade superior aos valo
 
 Se for o caso, o Estado notifica a Comissão dos períodos de utilização exatos correspondentes ao período noturno durante os quais poderá ser aplicada uma taxa de externalidade mais elevada relacionada com o ruído devido a um nível maior de poluição sonora.
 
-A classificação das estradas como estradas suburbanas (incluindo autoestradas) ou estradas interurbanas (incluindo autoestradas) e a definição dos períodos de utilização devem basear-se em critérios objetivos relacionados com o nível de exposição das estradas e suas imediações à poluição, tais como a densidade populacional e a média anual de poluição atmosférica (nomeadamente para as PM<sub>10</sub> e o NO<sub>2</sub>), assim como o número de dias (para as PM<sub>10</sub>) e horas (para o NO<sub>2</sub>) em que os valores-limite estabelecidos na [Diretiva 2008/50/CE](https://data.europa.eu/eli/dir/2008/50/oj?locale=pt) são excedidos. Os critérios aplicados constam da notificação.
+A classificação das estradas como estradas suburbanas (incluindo autoestradas) ou estradas interurbanas (incluindo autoestradas) e a definição dos períodos de utilização devem basear-se em critérios objetivos relacionados com o nível de exposição das estradas e suas imediações à poluição, tais como a densidade populacional e a média anual de poluição atmosférica (nomeadamente para as PM10 e o NO2), assim como o número de dias (para as PM10) e horas (para o NO2) em que os valores-limite estabelecidos na [Diretiva 2008/50/CE](https://data.europa.eu/eli/dir/2008/50/oj?locale=pt) são excedidos. Os critérios aplicados constam da notificação.
 
 3 - Montante da taxa
 
@@ -1033,15 +1065,15 @@ O Estado deve controlar a eficácia do modelo de tarifação em termos de reduç
 
 Sempre que o Estado aplique uma taxa de externalidade superior aos valores de referência especificados no anexo iv deve calcular o custo imputável da poluição atmosférica originada pelo tráfego aplicando a fórmula que se segue:
 
-PCV<sub>ij</sub> = Σ<sub>k</sub> EF<sub>ik</sub>× PC<sub>jk</sub>
+PCVij = Σk EFik× PCjk
 
 em que:
 
-PCV<sub>ij</sub> = custo da poluição atmosférica para um veículo da classe i e uma estrada do tipo j (euros/veículo.quilómetro);
+PCVij = custo da poluição atmosférica para um veículo da classe i e uma estrada do tipo j (euros/veículo.quilómetro);
 
-EF<sub>ik</sub> = fator de emissão para um poluente k e um veículo da classe i (gramas/veículo.quilómetro);
+EFik = fator de emissão para um poluente k e um veículo da classe i (gramas/veículo.quilómetro);
 
-PC<sub>jk</sub> = custo para um poluente k e uma estrada do tipo j (euros/grama).
+PCjk = custo para um poluente k e uma estrada do tipo j (euros/grama).
 
 Os fatores de emissão devem ser os usados pelos Estados-Membros para estabelecer os inventários nacionais de emissões previstos na [Diretiva (UE) 2016/2284](https://data.europa.eu/eli/dir/2016/2284/oj?locale=pt) do Parlamento Europeu e do Conselho (que exige a utilização do guia EMEP/AEA para o inventário das emissões de poluentes atmosféricos). O custo monetário dos poluentes deve ser estimado pelo Estado, fazendo uso de métodos cientificamente comprovados.
 
@@ -1051,23 +1083,23 @@ A fim de calcular os custos monetários da poluição atmosférica, o Estado pod
 
 Sempre que o Estado tencione aplicar uma taxa de externalidade superior aos valores de referência especificados no anexo iv deve calcular o custo imputável da poluição sonora provocada pelo tráfego aplicando as fórmulas que se seguem:
 
-NCV<sub>j</sub> (daily) = e × Σ<sub>k</sub> NC<sub>jk</sub> × POP<sub>k</sub>/WADT
+NCVj (daily) = e × Σk NCjk × POPk/WADT
 
-NCV<sub>j</sub> (day) = a × NCV<sub>j</sub>
+NCVj (day) = a × NCVj
 
-NCV<sub>j</sub> (night) = b × NCV<sub>j</sub>
+NCVj (night) = b × NCVj
 
 em que:
 
-NCV<sub>j</sub> = custo do ruído para um veículo pesado de mercadorias e uma estrada do tipo j (euros/veículo.quilómetro);
+NCVj = custo do ruído para um veículo pesado de mercadorias e uma estrada do tipo j (euros/veículo.quilómetro);
 
-NC<sub>jk</sub> = custo do ruído por pessoa exposta, para uma estrada do tipo j e um nível de ruído k (euros/pessoa);
+NCjk = custo do ruído por pessoa exposta, para uma estrada do tipo j e um nível de ruído k (euros/pessoa);
 
-POP<sub>k</sub> = população exposta a um nível diário de ruído k por quilómetro (pessoa/quilómetro);
+POPk = população exposta a um nível diário de ruído k por quilómetro (pessoa/quilómetro);
 
 WADT = média ponderada do tráfego diário (equivalente de ligeiro de passageiros);
 
-a e b = são fatores de ponderação determinados pelos Estados-Membros por forma a que a taxa de ruído média ponderada daí resultante por veículo.quilómetro corresponda a NCV<sub>j</sub> (diariamente).
+a e b = são fatores de ponderação determinados pelos Estados-Membros por forma a que a taxa de ruído média ponderada daí resultante por veículo.quilómetro corresponda a NCVj (diariamente).
 
 A poluição sonora originada pelo tráfego tem como referência o impacto do ruído sobre a saúde dos cidadãos na proximidade da estrada.
 
@@ -1079,9 +1111,9 @@ Para determinar o tráfego diário médio ponderado, deve aplicar-se um fator de
 
 Os Estados-Membros podem estabelecer taxas de ruído diferenciadas para recompensar a utilização de veículos mais silenciosos, desde que tal não discrimine os veículos estrangeiros.
 
-4.3 - Custo das emissões de CO<sub>2</sub> originadas pelo tráfego
+4.3 - Custo das emissões de CO2 originadas pelo tráfego
 
-Sempre que o Estado tencione aplicar uma taxa de externalidade para emissões de CO<sub>2</sub> superior aos valores de referência especificados no anexo v, deve calcular o custo imputável com base em dados científicos utilizando uma abordagem de custos evitáveis, tendo em conta e explicando, em especial, os seguintes aspetos:
+Sempre que o Estado tencione aplicar uma taxa de externalidade para emissões de CO2 superior aos valores de referência especificados no anexo v, deve calcular o custo imputável com base em dados científicos utilizando uma abordagem de custos evitáveis, tendo em conta e explicando, em especial, os seguintes aspetos:
 
 a) O nível de emissões escolhido como meta;
 
@@ -1093,7 +1125,7 @@ d) A aversão ao risco e às perdas;
 
 e) A ponderação do capital próprio.
 
-Pelo menos seis meses antes de aplicar essa taxa de externalidade para as emissões de CO<sub>2</sub>, os Estados-Membros notificam a Comissão dessa aplicação.
+Pelo menos seis meses antes de aplicar essa taxa de externalidade para as emissões de CO2, os Estados-Membros notificam a Comissão dessa aplicação.
 
 ## ANEXO IV — Valores de referência da taxa de externalidade
 
@@ -1103,26 +1135,26 @@ QUADRO 1
 
 Valores de referência da taxa de externalidade aplicáveis aos veículos pesados de mercadorias
 
-| Classe de veículo | Cêntimos/veículo.quilómetro | Suburbanas (<sup>1</sup>) | Interurbanas (<sup>2</sup>) |
+| Classe de veículo | Cêntimos/veículo.quilómetro | Suburbanas (1) | Interurbanas (2) |
 | --- | --- | --- | --- |
 | Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível inferior a 12 t ou com 2 eixos | Euro 0 | 18,6 | 9,9 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível inferior a 12 t ou com 2 eixos | Euro I | 12,6 | 6,4 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível inferior a 12 t ou com 2 eixos | Euro II | 12,5 | 6,3 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível inferior a 12 t ou com 2 eixos | Euro III | 9,6 | 4,8 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível inferior a 12 t ou com 2 eixos | Euro IV | 7,3 | 3,4 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível inferior a 12 t ou com 2 eixos | Euro V | 4,4 | 1,8 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível inferior a 12 t ou com 2 eixos | Euro VI | 2,3 | 0,5 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível inferior a 12 t ou com 2 eixos | Menos poluentes do que euro vi, incluindo veículos com nível nulo de emissões | 2,0 | 0,3 |
+| Euro I | 12,6 | 6,4 |  |
+| Euro II | 12,5 | 6,3 |  |
+| Euro III | 9,6 | 4,8 |  |
+| Euro IV | 7,3 | 3,4 |  |
+| Euro V | 4,4 | 1,8 |  |
+| Euro VI | 2,3 | 0,5 |  |
+| Menos poluentes do que euro vi, incluindo veículos com nível nulo de emissões | 2,0 | 0,3 |  |
 | Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 12 t e 18 t ou com 3 eixos | Euro 0 | 24,6 | 13,7 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 12 t e 18 t ou com 3 eixos | Euro I | 15,8 | 8,4 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 12 t e 18 t ou com 3 eixos | Euro II | 15,8 | 8,4 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 12 t e 18 t ou com 3 eixos | Euro III | 12,5 | 6,6 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 12 t e 18 t ou com 3 eixos | Euro IV | 9,2 | 4,5 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 12 t e 18 t ou com 3 eixos | Euro V | 5,6 | 2,7 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 12 t e 18 t ou com 3 eixos | Euro VI | 2,8 | 0,7 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 12 t e 18 t ou com 3 eixos | Menos poluentes do que euro vi, incluindo veículos com nível nulo de emissões | 2,3 | 0,3 |
+| Euro I | 15,8 | 8,4 |  |
+| Euro II | 15,8 | 8,4 |  |
+| Euro III | 12,5 | 6,6 |  |
+| Euro IV | 9,2 | 4,5 |  |
+| Euro V | 5,6 | 2,7 |  |
+| Euro VI | 2,8 | 0,7 |  |
+| Menos poluentes do que euro vi, incluindo veículos com nível nulo de emissões | 2,3 | 0,3 |  |
 | Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 18 t e 32 t ou com 4 eixos | Euro 0 | 27,8 | 15,8 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 18 t e 32 t ou com 4 eixos | Euro I | 20,4 | 11,3 |
+| Euro I | 20,4 | 11,3 |  |
 |  | Euro II | 20,4 | 11,2 |
 |  | Euro III | 16,3 | 8,9 |
 |  | Euro IV | 11,8 | 6,0 |
@@ -1130,65 +1162,65 @@ Valores de referência da taxa de externalidade aplicáveis aos veículos pesado
 |  | Euro VI | 3,1 | 0,8 |
 |  | Menos poluentes do que euro vi, incluindo veículos com nível nulo de emissões | 2,5 | 0,3 |
 | Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível superior a 32 t ou com 5 ou mais eixos | Euro 0 | 33,5 | 19,4 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível superior a 32 t ou com 5 ou mais eixos | Euro I | 25,0 | 14,1 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível superior a 32 t ou com 5 ou mais eixos | Euro II | 24,9 | 13,9 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível superior a 32 t ou com 5 ou mais eixos | Euro III | 20,1 | 11,1 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível superior a 32 t ou com 5 ou mais eixos | Euro IV | 14,2 | 7,5 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível superior a 32 t ou com 5 ou mais eixos | Euro V | 7,6 | 3,8 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível superior a 32 t ou com 5 ou mais eixos | Euro VI | 3,4 | 0,8 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível superior a 32 t ou com 5 ou mais eixos | Menos poluentes do que euro vi, incluindo veículos com nível nulo de emissões | 2,8 | 0,3 |
+| Euro I | 25,0 | 14,1 |  |
+| Euro II | 24,9 | 13,9 |  |
+| Euro III | 20,1 | 11,1 |  |
+| Euro IV | 14,2 | 7,5 |  |
+| Euro V | 7,6 | 3,8 |  |
+| Euro VI | 3,4 | 0,8 |  |
+| Menos poluentes do que euro vi, incluindo veículos com nível nulo de emissões | 2,8 | 0,3 |  |
 
-(<sup>1</sup>) Entende-se por «suburbanas» as áreas com uma densidade populacional entre 150 e 900 habitantes/km<sup>2</sup> (densidade populacional média de 300 habitantes/km<sup>2</sup>).
+(1) Entende-se por «suburbanas» as áreas com uma densidade populacional entre 150 e 900 habitantes/km2 (densidade populacional média de 300 habitantes/km2).
 
-(<sup>2</sup>) Entende-se por «interurbanas» as áreas com uma densidade populacional inferior a 150 habitantes/km<sup>2</sup>.
+(2) Entende-se por «interurbanas» as áreas com uma densidade populacional inferior a 150 habitantes/km2.
 
 Se a menor dispersão, o declive das estradas, a altitude ou as inversões térmicas o justificarem, os valores do quadro 1 podem ser multiplicados por um fator máximo de 2 nas zonas montanhosas e em torno das aglomerações. Se existirem dados científicos que justifiquem um fator de zonas montanhosas ou de aglomerações superior, este valor de referência pode ser aumentado com base numa justificação pormenorizada.
 
-## ANEXO V — Valores de referência da taxa de externalidade aplicáveis às emissões de CO<sub>2</sub>
+## ANEXO V — Valores de referência da taxa de externalidade aplicáveis às emissões de CO2
 
-O presente anexo estabelece os valores de referência da taxa de externalidade tendo em conta o custo das emissões de CO<sub>2</sub>.
+O presente anexo estabelece os valores de referência da taxa de externalidade tendo em conta o custo das emissões de CO2.
 
 QUADRO 1
 
-Valores de referência da taxa de externalidade aplicáveis às emissões de CO<sub>2</sub> de veículos pesados de mercadorias
+Valores de referência da taxa de externalidade aplicáveis às emissões de CO2 de veículos pesados de mercadorias
 
 | Classe de veículo |  | Cêntimos/veículo. quilómetro | Estradas interurbanas (incluindo autoestradas) |
 | --- | --- | --- | --- |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível inferior a 12 t ou com 2 eixos | Classe 1 de emissões de CO<sub>2</sub> | Euro 0 | 4,5 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível inferior a 12 t ou com 2 eixos | Classe 1 de emissões de CO<sub>2</sub> | Euro IEuro IIEuro IIIEuro IVEuro VEuro VI | 4,0 |
-|  | Classe 2 de emissões de CO<sub>2</sub> | Classe 2 de emissões de CO<sub>2</sub> | 3,8 |
-|  | Classe 3 de emissões de CO<sub>2</sub> | Classe 3 de emissões de CO<sub>2</sub> | 3,6 |
-|  | Veículo com nível baixo de emissões | Veículo com nível baixo de emissões | 2,0 |
-|  | Veículo com nível nulo de emissões | Veículo com nível nulo de emissões | 0 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 12 t e 18 t ou com 3 eixos | Classe 1 de emissões de CO<sub>2</sub> | Euro 0 | 6,0 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 12 t e 18 t ou com 3 eixos | Classe 1 de emissões de CO<sub>2</sub> | Euro IEuro IIEuro III | 5,2 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 12 t e 18 t ou com 3 eixos | Classe 1 de emissões de CO<sub>2</sub> | Euro IVEuro VEuro VI | 5,0 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 12 t e 18 t ou com 3 eixos | Classe 2 de emissões de CO<sub>2</sub> | Classe 2 de emissões de CO<sub>2</sub> | 4,8 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 12 t e 18 t ou com 3 eixos | Classe 3 de emissões de CO<sub>2</sub> | Classe 3 de emissões de CO<sub>2</sub> | 4,5 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 12 t e 18 t ou com 3 eixos | Veículo com nível baixo de emissões | Veículo com nível baixo de emissões | 2,5 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 12 t e 18 t ou com 3 eixos | Veículo com nível nulo de emissões | Veículo com nível nulo de emissões | 0 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 18 t e 32 t ou com 4 eixos | Classe 1 de emissões de CO<sub>2</sub> | Euro 0 | 7,9 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 18 t e 32 t ou com 4 eixos | Classe 1 de emissões de CO<sub>2</sub> | Euro I | 6,9 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 18 t e 32 t ou com 4 eixos | Classe 1 de emissões de CO<sub>2</sub> | Euro II | 6,9 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 18 t e 32 t ou com 4 eixos | Classe 1 de emissões de CO<sub>2</sub> | Euro III | 6,9 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 18 t e 32 t ou com 4 eixos | Classe 1 de emissões de CO<sub>2</sub> | Euro IV | 6,7 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 18 t e 32 t ou com 4 eixos | Classe 1 de emissões de CO<sub>2</sub> | Euro V | 6,7 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 18 t e 32 t ou com 4 eixos | Classe 1 de emissões de CO<sub>2</sub> | Euro VI | 6,7 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 18 t e 32 t ou com 4 eixos | Classe 2 de emissões de CO<sub>2</sub> | Classe 2 de emissões de CO<sub>2</sub> | 6,4 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 18 t e 32 t ou com 4 eixos | Classe 3 de emissões de CO<sub>2</sub> | Classe 3 de emissões de CO<sub>2</sub> | 6,0 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 18 t e 32 t ou com 4 eixos | Veículo com nível baixo de emissões | Veículo com nível baixo de emissões | 3,4 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 18 t e 32 t ou com 4 eixos | Veículo com nível nulo de emissões | Veículo com nível nulo de emissões | 0 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível superior a 32 t ou com 5 ou mais eixo | Classe 1 de emissões de CO<sub>2</sub> | Euro 0 | 9,1 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível superior a 32 t ou com 5 ou mais eixo |  | Euro I | 8,1 |
-| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível superior a 32 t ou com 5 ou mais eixo |  | Euro II | 8,1 |
-|  |  | Euro III | 8,1 |
+| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível inferior a 12 t ou com 2 eixos | Classe 1 de emissões de CO2 | Euro 0 | 4,5 |
+| Euro IEuro IIEuro IIIEuro IVEuro VEuro VI | 4,0 |  |  |
+|  | Classe 2 de emissões de CO2 | 3,8 |  |
+|  | Classe 3 de emissões de CO2 | 3,6 |  |
+|  | Veículo com nível baixo de emissões | 2,0 |  |
+|  | Veículo com nível nulo de emissões | 0 |  |
+| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 12 t e 18 t ou com 3 eixos | Classe 1 de emissões de CO2 | Euro 0 | 6,0 |
+| Euro IEuro IIEuro III | 5,2 |  |  |
+| Euro IVEuro VEuro VI | 5,0 |  |  |
+| Classe 2 de emissões de CO2 | 4,8 |  |  |
+| Classe 3 de emissões de CO2 | 4,5 |  |  |
+| Veículo com nível baixo de emissões | 2,5 |  |  |
+| Veículo com nível nulo de emissões | 0 |  |  |
+| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível entre 18 t e 32 t ou com 4 eixos | Classe 1 de emissões de CO2 | Euro 0 | 7,9 |
+| Euro I | 6,9 |  |  |
+| Euro II |  |  |  |
+| Euro III |  |  |  |
+| Euro IV | 6,7 |  |  |
+| Euro V |  |  |  |
+| Euro VI |  |  |  |
+| Classe 2 de emissões de CO2 | 6,4 |  |  |
+| Classe 3 de emissões de CO2 | 6,0 |  |  |
+| Veículo com nível baixo de emissões | 3,4 |  |  |
+| Veículo com nível nulo de emissões | 0 |  |  |
+| Veículo pesado de mercadorias com massa máxima em carga tecnicamente admissível superior a 32 t ou com 5 ou mais eixo | Classe 1 de emissões de CO2 | Euro 0 | 9,1 |
+|  | Euro I | 8,1 |  |
+|  | Euro II |  |  |
+|  |  | Euro III |  |
 |  |  | Euro IV | 8,0 |
-|  |  | Euro V | 8,0 |
-|  |  | Euro VI | 8,0 |
-|  | Classe 2 de emissões de CO<sub>2</sub> | Classe 2 de emissões de CO<sub>2</sub> | 7,6 |
-|  | Classe 3 de emissões de CO<sub>2</sub> | Classe 3 de emissões de CO<sub>2</sub> | 7,2 |
-|  | Veículo com nível baixo de emissões | Veículo com nível baixo de emissões | 4,0 |
-|  | Veículo com nível nulo de emissões | Veículo com nível nulo de emissões | 0 |
+|  |  | Euro V |  |
+|  |  | Euro VI |  |
+|  | Classe 2 de emissões de CO2 | 7,6 |  |
+|  | Classe 3 de emissões de CO2 | 7,2 |  |
+|  | Veículo com nível baixo de emissões | 4,0 |  |
+|  | Veículo com nível nulo de emissões | 0 |  |
 
 ## ANEXO VI — Determinação indicativa das classes de veículos
 
@@ -1200,36 +1232,36 @@ Todos os veículos a motor e conjuntos de veículos com um peso máximo autoriza
 
 Veículos a motor
 
-| Igual ou superior a | Inferior a | Suspensão pneumática ou considerada equivalente (<sup>1</sup>) do(s) eixo(s) motor(es) | Outros sistemas de suspensão do(s) eixo(s) motor(es) |
+| Número de eixos e peso bruto máximo autorizado(em toneladas) | Taxa mínima do imposto(em euros/ano) |  |  |
 | --- | --- | --- | --- |
-| Número de eixos e peso bruto máximo autorizado(em toneladas) | Número de eixos e peso bruto máximo autorizado(em toneladas) | Taxa mínima do imposto(em euros/ano) | Taxa mínima do imposto(em euros/ano) |
-| 2 eixos | 2 eixos | 2 eixos | 2 eixos |
+| Igual ou superior a | Inferior a | Suspensão pneumática ou considerada equivalente (1) do(s) eixo(s) motor(es) | Outros sistemas de suspensão do(s) eixo(s) motor(es) |
+| 2 eixos |  |  |  |
 | 12 | 13 | 0 | 31 |
 | 13 | 14 | 31 | 86 |
 | 14 | 15 | 86 | 121 |
 | 15 | 18 | 121 | 274 |
-| 3 eixos | 3 eixos | 3 eixos | 3 eixos |
+| 3 eixos |  |  |  |
 | 15 | 17 | 31 | 54 |
 | 17 | 19 | 54 | 111 |
 | 19 | 21 | 111 | 144 |
 | 21 | 23 | 144 | 222 |
 | 23 | 25 | 222 | 345 |
 | 25 | 26 | 222 | 345 |
-| 4 eixos | 4 eixos | 4 eixos | 4 eixos |
+| 4 eixos |  |  |  |
 | 23 | 25 | 144 | 146 |
 | 25 | 27 | 146 | 228 |
 | 27 | 29 | 228 | 362 |
 | 29 | 31 | 362 | 537 |
 | 31 | 32 | 362 | 537 |
 
-(<sup>1</sup>) Suspensão considerada equivalente segundo a definição do anexo iii da [Diretiva 96/53/CE](https://data.europa.eu/eli/dir/1996/53/oj?locale=pt) do Conselho, de 25 de julho de 1996, que fixa as dimensões máximas autorizadas no tráfego nacional e internacional e os pesos máximos autorizados no tráfego internacional para certos veículos rodoviários em circulação na Comunidade (JO, n.º L 235, de 17 de setembro de 1996, p. 59).
+(1) Suspensão considerada equivalente segundo a definição do anexo iii da [Diretiva 96/53/CE](https://data.europa.eu/eli/dir/1996/53/oj?locale=pt) do Conselho, de 25 de julho de 1996, que fixa as dimensões máximas autorizadas no tráfego nacional e internacional e os pesos máximos autorizados no tráfego internacional para certos veículos rodoviários em circulação na Comunidade (JO, n.º L 235, de 17 de setembro de 1996, p. 59).
 
 Conjuntos de veículos (veículos articulados e conjuntos veículo-reboque)
 
-| Igual ou superior a | Inferior a | Suspensão pneumática ou considerada equivalente (<sup>1</sup>) do(s) eixo(s) motor(es) | Outros sistemas de suspensão do(s) eixo(s) motor(es) |
+| Número de eixos e peso bruto máximo autorizado(em toneladas) | Taxa mínima do imposto(em euros/ano) |  |  |
 | --- | --- | --- | --- |
-| Número de eixos e peso bruto máximo autorizado(em toneladas) | Número de eixos e peso bruto máximo autorizado(em toneladas) | Taxa mínima do imposto(em euros/ano) | Taxa mínima do imposto(em euros/ano) |
-| 2 + 1 eixos | 2 + 1 eixos | 2 + 1 eixos | 2 + 1 eixos |
+| Igual ou superior a | Inferior a | Suspensão pneumática ou considerada equivalente (1) do(s) eixo(s) motor(es) | Outros sistemas de suspensão do(s) eixo(s) motor(es) |
+| 2 + 1 eixos |  |  |  |
 | 12 | 14 | 0 | 0 |
 | 14 | 16 | 0 | 0 |
 | 16 | 18 | 0 | 14 |
@@ -1238,7 +1270,7 @@ Conjuntos de veículos (veículos articulados e conjuntos veículo-reboque)
 | 22 | 23 | 75 | 97 |
 | 23 | 25 | 97 | 175 |
 | 25 | 28 | 175 | 307 |
-| 2 + 2 eixos | 2 + 2 eixos | 2 + 2 eixos | 2 + 2 eixos |
+| 2 + 2 eixos |  |  |  |
 | 23 | 25 | 30 | 70 |
 | 25 | 26 | 70 | 115 |
 | 26 | 28 | 115 | 169 |
@@ -1247,19 +1279,19 @@ Conjuntos de veículos (veículos articulados e conjuntos veículo-reboque)
 | 31 | 33 | 335 | 465 |
 | 33 | 36 | 465 | 706 |
 | 36 | 38 | 465 | 706 |
-| 2 + 3 eixos | 2 + 3 eixos | 2 + 3 eixos | 2 + 3 eixos |
+| 2 + 3 eixos |  |  |  |
 | 36 | 38 | 370 | 515 |
 | 38 | 40 | 515 | 700 |
-| 3 + 2 eixos | 3 + 2 eixos | 3 + 2 eixos | 3 + 2 eixos |
+| 3 + 2 eixos |  |  |  |
 | 36 | 38 | 327 | 454 |
 | 38 | 40 | 454 | 628 |
 | 40 | 44 | 628 | 929 |
-| 3 + 3 eixos | 3 + 3 eixos | 3 + 3 eixos | 3 + 3 eixos |
+| 3 + 3 eixos |  |  |  |
 | 36 | 38 | 186 | 225 |
 | 38 | 40 | 225 | 336 |
 | 40 | 44 | 336 | 535 |
 
-(<sup>1</sup>) Suspensão considerada equivalente segundo a definição do anexo iii da [Diretiva 96/53/CE](https://data.europa.eu/eli/dir/1996/53/oj?locale=pt) do Conselho, de 25 de julho de 1996, que fixa as dimensões máximos autorizadas no tráfego nacional e internacional e os pesos máximos autorizados no tráfego internacional para certos veículos rodoviários em circulação na Comunidade (JO, n.º L 235, de 17 de setembro de 1996, p. 59).
+(1) Suspensão considerada equivalente segundo a definição do anexo iii da [Diretiva 96/53/CE](https://data.europa.eu/eli/dir/1996/53/oj?locale=pt) do Conselho, de 25 de julho de 1996, que fixa as dimensões máximos autorizadas no tráfego nacional e internacional e os pesos máximos autorizados no tráfego internacional para certos veículos rodoviários em circulação na Comunidade (JO, n.º L 235, de 17 de setembro de 1996, p. 59).
 
 ## ANEXO VII — Requisitos mínimos para a aplicação de taxas de congestionamento
 
@@ -1269,7 +1301,7 @@ O presente anexo estabelece os requisitos mínimos para a aplicação de taxas d
 
 Os Estados-Membros especificam pormenorizadamente:
 
-a) A parte ou partes da sua rede que constitui a sua quota-parte da rede rodoviária transeuropeia e respetivas autoestradas e grandes obras de arte referidas no artigo 14.º, n.º 1, abrangidas por uma taxa de congestionamento, nos termos do artigo 14.º, n.<sup>os</sup>1 e 2;
+a) A parte ou partes da sua rede que constitui a sua quota-parte da rede rodoviária transeuropeia e respetivas autoestradas e grandes obras de arte referidas no artigo 14.º, n.º 1, abrangidas por uma taxa de congestionamento, nos termos do artigo 14.º, n.os1 e 2;
 
 b) A classificação dos troços da rede abrangidos pela taxa de congestionamento enquanto estrada «metropolitana» e «não metropolitana». Os Estados-Membros utilizam os critérios estabelecidos no quadro 1 para efeitos da determinação da classificação de cada troço de estrada.
 
@@ -1346,13 +1378,13 @@ O presente anexo especifica o desempenho em matéria de emissões de poluentes q
 
 | Portagens e direitos de utilização | 5-15 % inferior à taxa mais elevada | 15-25 % inferior à taxa mais elevada | 25-35 % inferior à taxa mais elevada | Até 75 % inferior à taxa mais elevada |
 | --- | --- | --- | --- | --- |
-| Desempenho em matéria de emissões | Euro-6d-temp-x (<sup>1</sup>) | Euro-6d-x (<sup>1</sup>) | Valores máximos declarados para emissões de poluentes em condições reais de condução (RDE) (<sup>2</sup>) < 80 % dos limites de emissões aplicáveis | Veículos com nível nulo de emissões |
+| Desempenho em matéria de emissões | Euro-6d-temp-x (1) | Euro-6d-x (1) | Valores máximos declarados para emissões de poluentes em condições reais de condução (RDE) (2) < 80 % dos limites de emissões aplicáveis | Veículos com nível nulo de emissões |
 
-(<sup>1</sup>) Em que x pode estar vazio ou ser um dos seguintes (EVAP, EVAP-ISC, ISC ou ISC-FCM).
+(1) Em que x pode estar vazio ou ser um dos seguintes (EVAP, EVAP-ISC, ISC ou ISC-FCM).
 
-(<sup>2</sup>) Para NO<sub>x</sub> e o número de partículas (PN), como indicado no ponto 48.2 do certificado de conformidade, no anexo viii, apêndice, do [Regulamento de Execução (UE) 2020/683](https://data.europa.eu/eli/reg/2020/683/oj?locale=pt) da Comissão (<sup>*1</sup>).
+(2) Para NOx e o número de partículas (PN), como indicado no ponto 48.2 do certificado de conformidade, no anexo viii, apêndice, do [Regulamento de Execução (UE) 2020/683](https://data.europa.eu/eli/reg/2020/683/oj?locale=pt) da Comissão (*1).
 
-(<sup>*1</sup>) [Regulamento de Execução (UE) 2020/683](https://data.europa.eu/eli/reg/2020/683/oj?locale=pt) da Comissão, de 15 de abril de 2020, que executa o [Regulamento (UE) 2018/858](https://data.europa.eu/eli/reg/2018/858/oj?locale=pt) do Parlamento Europeu e do Conselho no que diz respeito aos requisitos administrativos para a homologação e a fiscalização do mercado dos veículos a motor e seus reboques e dos sistemas, componentes e unidades técnicas destinados a esses veículos (JO, n.º L 163, de 26 de maio de 2020, p. 1).
+(*1) [Regulamento de Execução (UE) 2020/683](https://data.europa.eu/eli/reg/2020/683/oj?locale=pt) da Comissão, de 15 de abril de 2020, que executa o [Regulamento (UE) 2018/858](https://data.europa.eu/eli/reg/2018/858/oj?locale=pt) do Parlamento Europeu e do Conselho no que diz respeito aos requisitos administrativos para a homologação e a fiscalização do mercado dos veículos a motor e seus reboques e dos sistemas, componentes e unidades técnicas destinados a esses veículos (JO, n.º L 163, de 26 de maio de 2020, p. 1).
 
 ## ANEXO X — (a que se refere o artigo 29.º)
 
@@ -1454,13 +1486,13 @@ O presente anexo especifica o desempenho em matéria de emissões de poluentes q
 
 (V.6) [...]
 
-(V.7) CO<sub>2</sub> (em g/km) ou emissões específicas de CO<sub>2</sub>, se indicadas no ponto 49.5 do certificado CE de conformidade de veículos pesados definido no apêndice do anexo viii do [Regulamento de Execução (UE) 2020/683](https://data.europa.eu/eli/reg/2020/683/oj?locale=pt) da Comissão, de 15 de abril de 2020, na sua redação atual, ou na posição 49.5 do certificado de homologação de veículo individual definido no apêndice 1 do anexo iii desse Regulamento;
+(V.7) CO2 (em g/km) ou emissões específicas de CO2, se indicadas no ponto 49.5 do certificado CE de conformidade de veículos pesados definido no apêndice do anexo viii do [Regulamento de Execução (UE) 2020/683](https://data.europa.eu/eli/reg/2020/683/oj?locale=pt) da Comissão, de 15 de abril de 2020, na sua redação atual, ou na posição 49.5 do certificado de homologação de veículo individual definido no apêndice 1 do anexo iii desse Regulamento;
 
 (V.8) [...]
 
 (V.9) [...]
 
-(V.10) Classe de emissões de CO<sub>2</sub> de veículos pesados determinada no momento da primeira matrícula, nos termos do artigo 7.º-GA, n.º 2, da [Diretiva 1999/62/CE](https://data.europa.eu/eli/dir/1999/62/oj?locale=pt), do Parlamento Europeu e do Conselho, relativa à aplicação de imposições aos veículos pesados de mercadorias pela utilização de certas infraestruturas.
+(V.10) Classe de emissões de CO2 de veículos pesados determinada no momento da primeira matrícula, nos termos do artigo 7.º-GA, n.º 2, da [Diretiva 1999/62/CE](https://data.europa.eu/eli/dir/1999/62/oj?locale=pt), do Parlamento Europeu e do Conselho, relativa à aplicação de imposições aos veículos pesados de mercadorias pela utilização de certas infraestruturas.
 
 (W) [...]
 
@@ -1601,3 +1633,7 @@ O presente anexo especifica o desempenho em matéria de emissões de poluentes q
 3.12.3.1 - [...]
 
 3.12.3.2 - [...]»
+
+118810155
+
+.Tbl1 { border-collapse:collapse; border-width:1px; border-style:none; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl12 { height:17px; } .Tbl13 { height:34px; } .Tbl14 { margin-top:0px; text-align:center; } .Tbl15 { min-height:47px; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl19 { min-height:28px; } .Tbl20 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl21 { min-height:19px; } .Tbl22 { border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl23 { border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl24 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl25 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl26 { min-height:94px; } .Tbl27 { min-height:50px; } .Tbl28 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl29 { border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl30 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl31 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl32 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl33 { height:28px; } .Tbl34 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl35 { min-height:17px; } .Tbl36 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl37 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl38 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl39 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl40 { height:25px; } .Tbl41 { text-align:justify; text-align-last:justify; }

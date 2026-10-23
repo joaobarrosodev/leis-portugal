@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/07800/0202402026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/4/2015/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2015-67051304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c13ad059bac44b1483c12672171ad9dd6e963837d8b3d9f5eecca963661da02b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1abefb1b4be2d93116631d5f3a668976f1edb124d6d96a103079294b5fded4f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -94,15 +94,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/82-d/2014/12/31/p/dre
 article_structure:
-  article_count: 13
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:56Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +141,9 @@ b) [...].
 
 3 - [...].
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]:
 
@@ -167,7 +169,9 @@ b) Deduz-se o valor residual.
 
 7 - [Anterior n.º 6].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -179,7 +183,9 @@ b) Deduz-se o valor residual.
 
 5 - Não são aceites como gastos para efeitos fiscais as depreciações ou amortizações praticadas para além do período máximo de vida útil, ressalvando-se os casos devidamente justificados e aceites pela Autoridade Tributária e Aduaneira.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O cálculo das depreciações e amortizações faz-se, em regra, pelo método da linha reta.
 
@@ -187,7 +193,9 @@ b) Deduz-se o valor residual.
 
 3 - A adoção pelo sujeito passivo de métodos de depreciação e amortização diferentes dos referidos nos números anteriores, de que resulte a aplicação de quotas de depreciação ou amortização superiores às previstas no presente decreto regulamentar, depende de autorização da Autoridade Tributária e Aduaneira, a qual deve ser solicitada até ao termo do período de tributação no qual o sujeito passivo pretenda iniciar a aplicação de tais métodos, através de requerimento em que se indiquem as razões que os justificam.
 
-###### Artigo 5.º — Método da linha reta
+Artigo 5.º
+
+Método da linha reta
 
 1 - No método da linha reta, a quota anual de depreciação ou amortização que pode ser aceite como gasto do período de tributação é determinada aplicando-se aos valores mencionados no n.º 1 do artigo 2.º as taxas de depreciação ou amortização específicas fixadas na tabela I anexa ao presente decreto regulamentar, e que dele faz parte integrante, para os elementos do ativo dos correspondentes ramos de atividade ou, quando estas não estejam fixadas, as taxas genéricas fixadas na tabela II anexa ao presente decreto regulamentar, e que dele faz parte integrante.
 
@@ -199,7 +207,9 @@ b) Deduz-se o valor residual.
 
 5 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -209,7 +219,9 @@ b) Deduz-se o valor residual.
 
 4 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -221,13 +233,17 @@ b) Deduz-se o valor residual.
 
 5 - [...].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Não são aceites como gastos as depreciações das viaturas ligeiras de passageiros ou mistas, incluindo os veículos elétricos, na parte correspondente ao custo de aquisição ou ao valor revalorizado excedente ao montante a definir por portaria do membro do Governo responsável pela área das finanças, bem como dos barcos de recreio e aviões de turismo.
 
 2 - O disposto no número anterior não é aplicável aos bens aí referidos que estejam afetos à exploração de serviço público de transportes ou que se destinem a ser alugados no exercício da atividade normal do sujeito passivo.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Os elementos depreciáveis ou amortizáveis adquiridos ou produzidos por entidades concessionárias que, nos termos das regras de normalização contabilística aplicáveis, sejam reconhecidos como elementos do seu ativo fixo tangível ou intangível e que, nos termos das cláusulas do contrato de concessão, sejam revertíveis no final desta, podem ser depreciados ou amortizados em função do número de anos que restem do período de concessão, quando aquele for inferior ao seu período mínimo de vida útil.
 
@@ -235,7 +251,9 @@ b) Deduz-se o valor residual.
 
 3 - [...].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...].
 
@@ -247,7 +265,9 @@ b) Não é aceite como gasto, para efeitos fiscais, a parte do valor depreciáve
 
 3 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -259,7 +279,9 @@ a) Trespasses de estabelecimentos comerciais, industriais ou agrícolas;
 
 b) [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -269,12 +291,12 @@ b) [...].
 
 Visto e aprovado em Conselho de Ministros de 26 de março de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - António de Magalhães Pires de Lima - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 16 de abril de 2015.**
+Promulgado em 16 de abril de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de abril de 2015.**
+Referendado em 17 de abril de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

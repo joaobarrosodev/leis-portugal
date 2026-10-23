@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/11/23200/0686006863.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/258/2012/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2012-190627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f045c20cc4436702138c5343fdd2d7a8f57d57b3492286eff8c15b5118393730
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9255ce711c4b1829a321bb6454ed88e4b2d8c7f6baddc7c00f2ed31a416c9c27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,21 +69,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Embarcação
 - CE Países
 - Certificado de Conformidade
 - Comboio
-- Transporte Ferroviário
 - Definição de Competências
 - Direção Geral das Atividades Económicas
-- Poluição Atmosférica
-- Instituto da Mobilidade e dos Transportes
-- Veículo
-- Proteção do Ambiente
+- Embarcação
 - Equipamento de Veículo
-- Produtor
-- Poluição
+- Instituto da Mobilidade e dos Transportes
 - Motor
+- Poluição
+- Poluição Atmosférica
+- Produtor
+- Proteção do Ambiente
+- Transporte Ferroviário
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:122110905:por
@@ -121,16 +121,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/236/2005/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/236/2005/12/30/p/dre
+- type: repealed_by
+  target: pt:dre:122110905:por
+  label: Revogado o Dec Lei 236/2005 de 30-dez, na redação do presente diploma, pelo(a) Decreto-Lei n.º 50/2019 - Diário da
+    República n.º 75/2019, Série I de 2019-04-16 nos termos do seu art. 16.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-2019-122110905
+  date: '2019-04-16'
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:52Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +195,9 @@ Os artigos 6.º, 13.º e 19.º do Decreto-Lei n.º 236/2005, de 30 de dezembro, 
 
 9 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -197,7 +205,9 @@ Os artigos 6.º, 13.º e 19.º do Decreto-Lei n.º 236/2005, de 30 de dezembro, 
 
 3 - Os motores de ignição por compressão destinados a uma utilização diferente da propulsão de automotoras ferroviárias e embarcações de navegação interior podem ser colocados no mercado ao abrigo do regime flexível de acordo com o procedimento descrito no anexo xii do presente decreto-lei desde que satisfaçam os requisitos exigíveis previstos no artigo 7.º
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -227,15 +237,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de outubro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Sacadura Cabral Portas - Álvaro Santos Pereira.
 
-**Promulgado em 19 de novembro de 2012.**
+Promulgado em 19 de novembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de novembro de 2012.**
+Referendado em 26 de novembro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -253,7 +263,7 @@ A pedido de um fabricante de equipamentos de origem, e desde que uma autoridade 
 
 1.1.2 - Em alternativa ao disposto no n.º 1.1.1 e à exceção dos motores para propulsão de automotoras ferroviárias e locomotivas ferroviárias, o fabricante de equipamentos de origem pode solicitar autorização para os seus fabricantes de motores colocarem no mercado um número fixo de motores para uso exclusivo do fabricante de equipamentos de origem. O número de motores em cada categoria de motor não deve exceder os limites definidos no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/23200/0686006863.pdf))](https://files.diariodarepublica.pt/1s/2012/11/23200/0686006863.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/23200/0686006863.pdf)
 
 1.2 - Durante a fase iii-B, mas por um período máximo de três anos a contar do início dessa fase, à exceção dos motores para utilização na propulsão de automotoras ferroviárias e locomotivas ferroviárias, o fabricante de equipamentos de origem que desejar utilizar o regime flexível deve solicitar a autorização de uma autoridade de homologação para os seus fabricantes de motores colocarem no mercado motores destinados ao uso exclusivo do fabricante de equipamentos de origem. A quantidade de motores que não respeitem os atuais valores-limite de emissão, mas estejam homologados para a fase imediatamente anterior de limites de emissão, não deve exceder os limites previstos nos n.os 1.2.1 e 1.2.2.
 
@@ -261,7 +271,7 @@ A pedido de um fabricante de equipamentos de origem, e desde que uma autoridade 
 
 1.2.2 - Em alternativa ao disposto no n.º 1.2.1, o fabricante de equipamentos de origem pode solicitar autorização para que os seus fabricantes de motores coloquem no mercado um número definido de motores para uso exclusivo do fabricante de equipamentos de origem. O número de motores em cada categoria de motor não deve exceder os limites definidos no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/23200/0686006863.pdf))](https://files.diariodarepublica.pt/1s/2012/11/23200/0686006863.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/23200/0686006863.pdf)
 
 1.3 - No que diz respeito aos motores para utilização na propulsão de locomotivas ferroviárias, durante a fase iii-B, mas por um período máximo de três anos a contar do início dessa fase, o fabricante de equipamentos de origem pode solicitar autorização para os seus fabricantes de motores colocarem no mercado um máximo de 16 motores para uso exclusivo do fabricante de equipamentos de origem. O fabricante de equipamentos de origem pode igualmente solicitar uma autorização para os seus fabricantes de motores poderem colocar no mercado um máximo de 10 motores adicionais com uma potência nominal superior a 1800 kW destinados a serem instalados em locomotivas ferroviárias concebidas para serem utilizadas exclusivamente na rede do Reino Unido. Só se considerará que as locomotivas ferroviárias cumprem este requisito se dispuserem de um certificado de segurança para o seu funcionamento na rede do Reino Unido ou se preencherem as condições para receber tal certificado.
 

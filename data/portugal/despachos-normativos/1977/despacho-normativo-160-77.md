@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/160-1977-250795
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:36:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbb883b2e49759c81f5c0762c82a28171940127647ced195b061bae69009b396
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8dfa5b7a2323cee6616ff4b9d7ee159103581a30352ec176db201ef296a01ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:36:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa Nacional de Pensões
+- Pensão de Invalidez
+- Proteção Social
+- Reforma
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:251778:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:36:57Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +98,7 @@ Nestes termos, determino:
 
 1. O artigo 2.º do Regulamento Especial do Regime de Pensões de Sobrevivência da Caixa Nacional de Pensões, publicado no Diário do Governo, 2.ª série, n.º 21, de 26 de Janeiro de 1971, e alterado pelo despacho de 19 de Outubro de 1973, publicado no Diário do Governo, 3.ª série, n.º 268, de 16 de Novembro de 1973, passa a ter a seguinte redacção:
 
-###### Art. 2.º O direito à pensão de sobrevivência é reconhecido, nos termos dos artigos subsequentes, aos familiares dos beneficiários que à data da morte contem, pelo menos, trinta e seis meses com contribuições.
+Art. 2.º O direito à pensão de sobrevivência é reconhecido, nos termos dos artigos subsequentes, aos familiares dos beneficiários que à data da morte contem, pelo menos, trinta e seis meses com contribuições.
 
 2. O direito a pensões de sobrevivência legadas por beneficiários inscritos nas caixas sindicais de previdência antes de 5 de Maio de 1977 continua a depender da verificação das condições vigentes à data da publicação do presente despacho.
 

@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/80-1985-170522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:12:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b239cfdcff15556bcb1bd87fb0a5d277397b388d5bf70a28ea3fa556e96b10b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e26841187db78fc80e79b09321a4397f20539142f7a16ee26edbd29129f2a86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:12:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pensão de Invalidez
+- Pensão de Velhice
+- Pensões
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:220135:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:325084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691622:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:546396:por
+  label: Rectificado pela DECL.DD5196.12.12.1985.PCM, DR.IS [301-2.º Supl] de 31.12.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-546396
+  date: '1985-12-12'
 article_structure:
   article_count: 19
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:12:23Z'
   warnings: []
   errors: []
 ---
@@ -242,12 +279,12 @@ O presente diploma produz efeitos a partir de 1 de Dezembro de 1985.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral.
 
-**Promulgado em 26 de Novembro de 1985.**
+Promulgado em 26 de Novembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 26 de Novembro de 1985.**
+Referendado em 26 de Novembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/32-1989-549448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:17:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b0e0b98ada1900ce11014c34874f58a3fcf169002a7f13ef1a6aafb8ed15946
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51d701f15b5cedc50a8477c2e72c622748f1809753b6934bd077f4fc0afc7f79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:17:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direção Geral de Política de Defesa Nacional
+- Direcção Geral de Pessoal e Infra-estruturas
+- Direcção Geral do Armamento
+- Ministério da Defesa Nacional
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:661915:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:175506:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO ANEXO I PELA PORT 164/92 DE 13-MAR DR.IS-B [61]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/164-1992-175506
+  date: '1992-03-13'
+- type: cites
+  target: pt:dre:283165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548439:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:192863:por
+  label: Rectificado pela DECL.DD3276.1989.11.30.PCM DR.IS [276]SUPL DE 30/NOV/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-192863
+  date: '1989-11-30'
+- type: corrected_by
+  target: pt:dre:150288:por
+  label: Rectificado o anexo VII da Declaração DD3176, de 30 de Novembro de 1989, que rectifica o presente diploma, pela DECL.DD3290.31.01.1990.PCM,
+    DR.IS [26]2ºSupl de 31.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-150288
+  date: '1990-01-31'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADO PELO DEC LEI 47/93 DE 26-FEV DR.IS-A [48] A REVOGAÇÃO DESTE DECRETO REGULAMENTAR REPORTA OS SEUS EFEITOS
+    A DATA DA ENTRADA EM VIGOR DOS DIPLOMAS A PUBLICAR, QUE REGULAMENTAM A ORGANIZAÇÃO E COMPETENCIA DOS ÓRGÃOS E SERVIÇOS
+    CENTRAIS
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-02-26'
+- type: repealed_by
+  target: pt:dre:661915:por
+  label: "Revogados os arts. 59º a 63º pelo DR.40/97.1997.10.03.MDN, DR.IS-B [229]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/40-1997-661915
+  date: '1997-10-03'
 article_structure:
   article_count: 67
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 25
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:17:12Z'
   warnings: []
   errors: []
 ---
@@ -207,7 +252,9 @@ b) Repartição de Administração de Pessoal (RAP);
 
 c) Repartição de Administração Financeira e Patrimonial (RAFP).
 
-###### Artigo 7.º — Divisão de Análise Económica e Estatística
+###### Artigo 7.º
+
+##### Divisão de Análise Económica e Estatística
 
 À DAEE compete:
 
@@ -305,7 +352,9 @@ b) Divisão de Recursos Humanos (DRH);
 
 c) Divisão de Sistemas de Informação (DSI).
 
-###### Artigo 11.º — Divisão de Organização
+###### Artigo 11.º
+
+##### Divisão de Organização
 
 À DO compete:
 
@@ -321,7 +370,9 @@ e) Promover a implementação de sistemas de controlo de produtividade e emitir 
 
 f) Pronunciar-se sobre a criação, modificação ou reorganização dos organismos e serviços do Ministério, nos termos da legislação em vigor.
 
-###### Artigo 12.º — Divisão de Recursos Humanos
+###### Artigo 12.º
+
+##### Divisão de Recursos Humanos
 
 À DRH compete:
 
@@ -343,7 +394,9 @@ h) Elaborar, coordenar e avaliar, em colaboração com os restantes serviços do
 
 i) Dar parecer sobre todas as questões relativas à gestão de pessoal que lhe sejam submetidas pelos órgãos e serviços do Ministério.
 
-###### Artigo 13.º — Divisão de Sistemas de Informação
+###### Artigo 13.º
+
+##### Divisão de Sistemas de Informação
 
 À DSI compete:
 
@@ -375,7 +428,9 @@ a) Divisão de Documentação (DD);
 
 b) Divisão de Informação e Relações Públicas (DIRP).
 
-###### Artigo 15.º — Divisão de Documentação
+###### Artigo 15.º
+
+##### Divisão de Documentação
 
 À DD compete:
 
@@ -389,7 +444,9 @@ d) Recolher, seleccionar e tratar a documentação de carácter histórico com i
 
 e) Providenciar quanto à organização e funcionamento da biblioteca do Ministério da Defesa Nacional.
 
-###### Artigo 16.º — Divisão de Informação e Relações Públicas
+###### Artigo 16.º
+
+##### Divisão de Informação e Relações Públicas
 
 À DIRP compete:
 
@@ -457,7 +514,9 @@ c) Divisão de Estudos Técnicos (DET);
 
 d) Divisão de Estudos Sociais (DES).
 
-###### Artigo 22.º — Divisão de Planeamento e Coordenação
+###### Artigo 22.º
+
+##### Divisão de Planeamento e Coordenação
 
 1 - À DPC compete a análise sistemática do quadro conceptual, legal e de planificação da defesa nacional, a coordenação e integração dos relatórios e análises sectoriais, o planeamento e controlo da actividade global do GEPDN e ainda a prestação de apoio técnico ao Conselho Superior de Defesa Nacional e ao Conselho Superior Militar.
 
@@ -519,7 +578,9 @@ e) Assegurar a preparação de reuniões e outros actos de relacionamento intern
 
 3 - A Divisão de Estudos e Cooperação Militar exerce as suas atribuições no âmbito das relações externas de defesa que tenham subjacente a existência de acordos de cooperação militar, em particular com os países de língua oficial portuguesa.
 
-###### Artigo 28.º — Secção Administrativa
+###### Artigo 28.º
+
+#### Secção Administrativa
 
 1 - Na dependência do director-geral ou do responsável em quem este delegar funciona uma Secção Administrativa.
 
@@ -639,13 +700,17 @@ f) Apoiar o Ministro da Defesa Nacional no licenciamento de obras em áreas suje
 
 3 - A Divisão de Infra-Estruturas Industriais e de Saúde exerce as suas atribuições no âmbito dos aspectos relacionados com as restantes infra-estruturas, afectas à componente não militar da defesa nacional, não referidas no número anterior.
 
-###### Artigo 39.º — Divisão de Estudos e Planeamento
+###### Artigo 39.º
+
+##### Divisão de Estudos e Planeamento
 
 1 - Na dependência do director-geral funciona a Divisão de Estudos e Planeamento (DEP).
 
 2 - À DEP compete o apoio ao director-geral no planeamento e controlo dos trabalhos da DGPIE, bem como a coordenação e integração dos relatórios e análises sectoriais elaborados.
 
-###### Artigo 40.º — Secção Administrativa
+###### Artigo 40.º
+
+#### Secção Administrativa
 
 1 - Na dependência do director-geral ou do responsável em quem este delegar funciona uma Secção Administrativa.
 
@@ -705,7 +770,9 @@ b) Divisão de Projectos de Sistemas de Armas e Equipamentos (DPSAE);
 
 c) Divisão de Qualidade, Normalização e Catalogação (DQNC).
 
-###### Artigo 46.º — Divisão de Estudos Industriais
+###### Artigo 46.º
+
+##### Divisão de Estudos Industriais
 
 À DEI compete:
 
@@ -721,7 +788,9 @@ e) Participar nas negociações de contratos de contrapartidas relativas a aquis
 
 f) Participar em grupos de trabalho, de âmbito nacional ou internacional, relacionados com as suas atribuições.
 
-###### Artigo 47.º — Divisão de Projectos de Sistemas de Armas e Equipamentos
+###### Artigo 47.º
+
+##### Divisão de Projectos de Sistemas de Armas e Equipamentos
 
 À DPSAE compete:
 
@@ -731,7 +800,9 @@ b) Dirigir ou coordenar a participação em grupos de Projectos criados com vist
 
 c) Conceder autorizações relativas à produção de material de defesa pela indústria nacional e controlar as actividades decorrentes.
 
-###### Artigo 48.º — Divisão de Qualidade, Normalização e Catalogação
+###### Artigo 48.º
+
+##### Divisão de Qualidade, Normalização e Catalogação
 
 À DQNC compete:
 
@@ -755,7 +826,9 @@ b) Divisão de Relações Comerciais (DRC);
 
 c) Divisão de Programação e Controlo Financeiro (DPCF).
 
-###### Artigo 50.º — Divisão de Procedimentos e Administração de Contratos
+###### Artigo 50.º
+
+##### Divisão de Procedimentos e Administração de Contratos
 
 À DPAC compete:
 
@@ -765,7 +838,9 @@ b) Negociar contratos abertos de aquisição de material e serviços de defesa, 
 
 c) Promover, coordenar e executar a aquisição ou venda conjunta de material de defesa de que venha a ser incumbida pelo Ministro da Defesa Nacional.
 
-###### Artigo 51.º — Divisão de Relações Comerciais
+###### Artigo 51.º
+
+##### Divisão de Relações Comerciais
 
 À DRC compete:
 
@@ -777,7 +852,9 @@ c) Autorizar, quando necessário, para a exportação, o fabrico de material de 
 
 d) Promover, coordenar e, quando necessário, executar a qualificação das organizações contratantes de material e de serviços.
 
-###### Artigo 52.º — Divisão de Programação e Controlo Financeiro
+###### Artigo 52.º
+
+##### Divisão de Programação e Controlo Financeiro
 
 À DPCF compete:
 
@@ -789,7 +866,9 @@ c) Acompanhar a execução dos contratos de contrapartidas, quando se tratar de 
 
 d) Dar parecer sobre os aspectos financeiros dos projectos de investigação e desenvolvimento de interesse para o Ministério da Defesa Nacional, sem prejuízo das competências do Conselho de Ciências e Tecnologia de Defesa.
 
-###### Artigo 53.º — Divisão de Estudos e Planeamento
+###### Artigo 53.º
+
+##### Divisão de Estudos e Planeamento
 
 1 - Na dependência do director-geral funciona a Divisão de Estudos e Planeamento (DEP):
 
@@ -815,7 +894,9 @@ i) Propor e organizar a participação nacional nas actividades de cooperação 
 
 j) Coordenar a participação nacional nos organismos internacionais vocacionados para a cooperação em matéria de investigação e desenvolvimento.
 
-###### Artigo 54.º — Secção Administrativa
+###### Artigo 54.º
+
+#### Secção Administrativa
 
 1 - Na dependência do director-geral ou do responsável em que este delegar funciona uma Secção Administrativa.
 
@@ -951,42 +1032,42 @@ Presidência do Conselho de Ministros, 17 de Agosto de 1989.
 
 Eurico Silva Teixeira de Melo - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 11 de Outubro de 1989.**
+Promulgado em 11 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Outubro de 1989.**
+Referendado em 16 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Quadro próprio de pessoal da Secretaria-Geral do Ministério da Defesa Nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf))](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf)
 
 ## ANEXO II — Quadro próprio de pessoal da Direcção-Geral de Política de Defesa Nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf))](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf)
 
 ## ANEXO III — Quadro próprio de pessoal da Direcção-Geral de Pessoal e Infra-Estruturas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf))](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf)
 
 ## ANEXO IV — Quadro próprio de pessoal da Direcção-Geral de Armamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf))](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf)
 
 ## ANEXO V — Quadro próprio de pessoal da Auditoria Jurídica do Ministério da Defesa Nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf))](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf)
 
 ## ANEXO VI — Quadro comum do Ministério da Defesa Nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf))](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf)
 
 ## ANEXO VII
 
 Conteúdos funcionais das carreiras de técnico superior de informática, programador, operador, desenhador, técnico auxiliar e tradutor-correspondente-intérprete constantes dos quadros do Ministério da Defesa Nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf))](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf)

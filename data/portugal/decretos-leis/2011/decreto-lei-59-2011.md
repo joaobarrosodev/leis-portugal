@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/59/2011/05/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2011-287110
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 434de61793d7a75e01242087d3130c1f2a331397f7ff90459a57aab7fb090a65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c46e06e3823475e99638d5031000b71578e8928e75ebd17bce12f0dff740624
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
+- Equipamento de Veículo
 - Homologação
 - Instituto da Mobilidade e dos Transportes Terrestres
-- Veículo
-- Segurança Rodoviária
-- Equipamento de Veículo
 - Produtor
 - Regulamento
 - Regulamento da Homologação CE de Modelo de Automóveis e Reboques seus Sistemas Componentes e Unidades Técnicas
+- Segurança Rodoviária
+- Veículo
 - Veículo Hibrido
 relationships:
 - type: cites
@@ -96,14 +96,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/2010/19/oj
 article_structure:
   article_count: 36
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:33Z'
   warnings: []
   errors: []
 ---
@@ -494,15 +494,15 @@ Os actos e procedimentos necessários à execução do presente decreto-lei nas 
 
 Visto e aprovado em Conselho de Ministros de 13 de Janeiro de 2011. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - José Manuel Santos de Magalhães - António Augusto da Ascenção Mendonça.
 
-**Promulgado em 6 de Abril de 2011.**
+Promulgado em 6 de Abril de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 7 de Abril de 2011.**
+Referendado em 7 de Abril de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 10.º)
 
@@ -636,7 +636,7 @@ Modelo
 
 Certificado de homologação CE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
 
 Comunicação relativa a:
 
@@ -788,7 +788,7 @@ Modelo
 
 Certificado de homologação CE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
 
 Comunicação relativa a:
 
@@ -866,7 +866,7 @@ Figura n.º 1a
 
 Largura (q) do guarda-lamas (a) e posição de saia lateral (j)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
 
 Nota. - Os números referem-se aos pontos correspondentes do capítulo iii.
 
@@ -874,13 +874,13 @@ Figura n.º 1b
 
 Exemplo de medição do guarda-lamas e da saia exterior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
 
 Figura n.º 2
 
 Dimensões do guarda-lamas e da saia exterior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
 
 Notas
 
@@ -892,7 +892,7 @@ Figura n.º 3
 
 Posição do guarda-lamas e do pára-lamas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
 
 Nota. - Os números referem-se aos pontos correspondentes do capítulo iii.
 
@@ -900,17 +900,17 @@ Figura n.º 4
 
 Esquema de instalação de um sistema antiprojecção (guarda-lamas, pára-lamas, saias exteriores) munido de dispositivos antiprojecção por absorção de energia para eixos múltiplos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
 
 Figura n.º 5
 
 Esquema de instalação de um sistema antiprojecção munido de dispositivos antiprojecção por absorção de energia para eixos equipados com rodas não direccionais ou autodireccionais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
 
 a) Eixos múltiplos em que a distância entre os pneus é inferior a 250 mm.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
 
 b) Eixos simples ou eixos múltiplos em que a distância entre os pneus não é inferior a 250 mm.
 
@@ -918,7 +918,7 @@ Figura n.º 6
 
 Esquema de instalação de um sistema antiprojecção munido de dispositivos antiprojecção separador ar/água para eixos equipados com rodas direccionais, autodireccionais e não direccionais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
 
 Notas
 
@@ -930,7 +930,7 @@ Figura n.º 7
 
 Esquema de instalação de um sistema antiprojecção munido de dispositivos antiprojecção (guarda-lamas, pára-lamas, saias exteriores) para eixos múltiplos em que a distância entre os pneus não é superior a 300 mm.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
 
 Notas
 
@@ -942,7 +942,7 @@ Figura n.º 8
 
 Instalação de aparelhos de ensaio para dispositivos antiprojecção por absorção de energia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
 
 A - entrada de água proveniente da bomba.
 
@@ -964,7 +964,7 @@ Figura n.º 9
 
 Instalação de aparelhos de ensaio para dispositivos antiprojecção de tipo separadores ar/água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
 
 ## ANEXO VIII — (a que se referem os artigos 22.º e 28.º)
 
@@ -974,7 +974,7 @@ Saias exteriores
 
 Suspensão a ar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
 
 Suspensão mecânica:
 
@@ -990,7 +990,7 @@ em que R é o raio do pneu montado no veículo e R(índice v) a distância radia
 
 2 - No caso de eixos únicos ou de eixos múltiplos em que a distância entre os pneus de eixos adjacentes exceda 300 mm, a aresta inferior do dispositivo antiprojecção montado na saia exterior deve ter as seguintes dimensões e raios máximos, a contar do centro da roda (figuras n.os 6 e 7 do anexo vii):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
 
 ## ANEXO IX — (a que se refere o artigo 33.º)
 
@@ -1000,20 +1000,20 @@ A parte i do anexo iv, bem como as partes ii e iv do anexo xi, do Regulamento Qu
 
 ## ANEXO IV — Lista de requisitos de homologação CE de um modelo de veículo
 
-# PARTE I — Lista de directivas específicas
+## PARTE I — Lista de directivas específicas
 
 (eventualmente tendo em conta o âmbito e a última alteração de cada directiva específica enumerada a seguir)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
 
 ## ANEXO XI — Natureza dos veículos para fins especiais e disposições aplicáveis
 
-# PARTE II — Veículos blindados
+## PARTE II — Veículos blindados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
 
-# PARTE IV — Outros veículos para fins especiais (incluindo caravanas)
+## PARTE IV — Outros veículos para fins especiais (incluindo caravanas)
 
 A aplicação das isenções só é autorizada se o fabricante conseguir demonstrar, a contento da entidade de homologação, que o veículo não pode cumprir os requisitos devido ao fim especial a que se destina.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf))](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0255302570.pdf)

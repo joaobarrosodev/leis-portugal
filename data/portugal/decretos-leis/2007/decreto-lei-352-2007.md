@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/352/2007/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-2007-629107
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfa28811de76bb9036949d02e5594e9c8dc1fc1d778a80502f67da617e0c24ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab61dafc01faa97077e0f95f156bfd1536850729e0734bd272e9b7fb964c48de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,20 @@ subjects:
 - Acidente de Trabalho
 - Doença Profissional
 - Incapacidade Física
+- Incapacidade Permanente
 - Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais
 - Tabela Nacional para Avaliação de Incapacidades Permanentes em Direito Civil
-- Incapacidade Permanente
 relationships:
 - type: amended_by
   target: pt:dre:1126675654:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:portaria:1036/2001
+  label: "Determina, até aprovação da Portaria prevista no n.º 1 do artº 3º, a manutenção em funcionamento da comissão constituída\
+    \ pela Portaria n.º 1036/2001, de 23 de Agosto, DR.IS-B [195]\0\0"
+  source: null
+  date: '2001-08-23'
 - type: cites
   target: celex:32003L0010
   label: null
@@ -88,13 +94,13 @@ relationships:
 article_structure:
   article_count: 7
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:43Z'
   warnings: []
   errors: []
 ---
@@ -187,15 +193,15 @@ O presente decreto-lei entra em vigor 90 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 2007. - Fernando Teixeira dos Santos - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - José António Fonseca Vieira da Silva - António Fernando Correia de Campos.
 
-**Promulgado em 27 de Setembro de 2007.**
+Promulgado em 27 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de Outubro de 2007.**
+Referendado em 1 de Outubro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Tabela nacional de incapacidades por acidentes de trabalho ou doenças profissionais
 
@@ -615,27 +621,27 @@ Nota. - Independentemente do número de costelas fracturadas, interessa, para a 
 
 3 - Cintura escapular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 4 - Braço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 5 - Cotovelo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 6 - Antebraço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 7 - Punho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 8 - Mão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 9 - Bacia
 
@@ -1445,11 +1451,11 @@ b) Tetraplegia completa ... 0,95
 
 2.12.2.1 - Hemiparésia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 2.12.2.2 - Hemiplegia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 2.12.3 - Monoparésia ou monoplegia:
 
@@ -1457,7 +1463,7 @@ b) Tetraplegia completa ... 0,95
 
 2.12.3.2 - Membro superior:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 3 - Síndrome cérvico-cefálica
 
@@ -1549,7 +1555,7 @@ Nota. - Lesões múltiplas. - A incapacidade total é a adição das incapacidad
 
 5.1 - Lesões hemimedulares (síndrome de Brown-Sequard) (análoga ao n.º 2.11.1) :
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 5.2 - Lesões medulares (com secção anatómica ou alteração funcional, parcial ou total):
 
@@ -1623,13 +1629,13 @@ Grau 5 - Força normal.
 
 As incapacidades expressas apresentam uma zona de variação entre mínimas e máximas. Para efeitos de avaliação dos casos concretos, na zona de variação, deve ter-se em conta o esquema proporcional que se segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Nota. - As dores e alterações tróficas que acompanham eventualmente as paralisias agravam mais ou menos a impotência e legitimam um aumento da taxa proposta, até um acréscimo de 10 % do défice neurológico (v. n.º 7). Os défices exclusivamente sensitivos:hipostesias, parestesias, disestesias, quando objectiváveis pela clínica ou exames complementares, podem ser considerados como funcionalmente análogos a paresia com força grau 4, devendo portanto ser aplicados os valores mínimos previstos para a paralisia do(s) nervo(s) correspondente(s).
 
 Em caso de lesão simultânea de vários nervos de um mesmo membro, adicionam-se as taxas parciais segundo o princípio da capacidade restante, não se podendo ultrapassar a da paralisia global completa ou de uma desarticulação pela raiz do membro [v. Capítulo I - Aparelho Locomotor», números 3.3.1 ou 10.2.4, alínea c)].
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 6.2 - Membro inferior:
 
@@ -1999,13 +2005,13 @@ Acidente de Trabalho
 
 Ouvido Esquerdo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Ouvido Direito
 
 (dB)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 8.2 - De origem sonotraumática (surdez profissional). - Agente causal:ruído com Leq 87 dB (A) ou mais, calculado através das fórmulas matemáticas contidas na NP-1733 ou na Directiva [2003/10/CE](http://data.europa.eu/eli/dir/2003/10/oj?locale=pt).
 
@@ -2021,13 +2027,13 @@ Surdez profissional
 
 Ouvido Esquerdo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Ouvido Direito
 
 (dB)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Os acufenos são adicionados aritmeticamente à incapacidade por hipoacusia.
 
@@ -4003,7 +4009,7 @@ A) Neurologia
 
 1 - Sequelas motoras e sensitivo-motoras de origem central e medular:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 2 - Sequelas motoras e sentivo-motoras de origem periférica:
 
@@ -4013,15 +4019,15 @@ Os nervos cranianos não contemplados neste artigo constam nos artigos correspon
 
 Face
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Membro superior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Membro inferior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 3 - Perturbações cognitivas:
 
@@ -4031,27 +4037,27 @@ A avaliação da incapacidade deve, portanto, basear-se imperativamente sobre ob
 
 Síndrome frontal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Perturbações da comunicação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Perturbações da memória
 
 Perturbações associando esquecimentos frequentes, condicionando a vida corrente com necessidade de auxiliares de memória, falsos reconhecimentos, eventualmente fabulações, dificuldades de aprendizagem e alterações da capacidade de evocação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Problemas cognitivos menores
 
 Na ausência de síndrome frontal ou de afectação isolada de uma função cognitiva, alguns traumatismos cranianos mais ou menos graves podem condicionar a persistência de queixas objectiváveis constituindo uma síndrome diferente da síndrome pós comocional, associando:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Demências
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 4 - Défices mistos cognitivos e sensitivo-motores:
 
@@ -4061,7 +4067,7 @@ Estas associações originam quadros clínicos variáveis de pessoa para pessoa,
 
 É todavia possível reconhecer no contexto da avaliação médico-legal vários níveis de gravidade em função do défice global.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 5 - Epilepsia:
 
@@ -4071,25 +4077,25 @@ As anomalias isoladas do EEG, na ausência de crises confirmadas, não permitem 
 
 Epilepsias com perturbações da consciência (crises generalizadas e complexas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Epilepsias com crises sem perturbações da consciência (simples)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 6 - Síndrome pós-comocional:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 7 - Nevralgias:
 
 As nevralgias são consecutivas à afectação de um nervo craniano ou periférico, desde que a dor referida seja sustentada por elementos clínicos e ou exames complementares objectivos, necessitando o diagnóstico de certeza de uma opinião especializada. A avaliação tem em consideração a frequência das crises e a eficácia da terapêutica.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 8 - Dores de desaferentação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 B) Psiquiatria
 
@@ -4099,7 +4105,7 @@ B) Psiquiatria
 
 No caso de lesões físicas pós-traumáticas geradoras de sequelas graves e necessitando de tratamento complexo e de longa duração, pode subsistir um estado psíquico permanente doloroso caracterizado por perturbações persistentes do humor (superior a dois anos), com repercussão a nível do funcionamento social, laboral ou de outras áreas importantes da actividade do indivíduo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 10 - Perturbação de stresse pós-traumático:
 
@@ -4107,7 +4113,7 @@ São manifestações psíquicas, mediadas pela ansiedade e provocadas pela ocorr
 
 A sua valorização pericial só deve ter lugar após, pelo menos, dois anos de evolução.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 11 - Perturbações mentais decorrentes de lesão cerebral orgânica.
 
@@ -4117,7 +4123,7 @@ V. artigo 3 (Perturbações cognitivas) do sub-capítulo «Neurologia».
 
 Outras perturbações psíquicas não especificadas, como por exemplo, estados fóbicos, estados obsessivos, quadros psicóticos, desde que estabelecido um nexo de causalidade com o acontecimento traumático podem ser objecto de valorização pericial.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 II - Sistema sensorial e estomatologia (S)
 
@@ -4129,19 +4135,19 @@ As situações não contempladas neste capítulo, nomeadamente as de carácter e
 
 Perda total da visão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 TABELA 1
 
 Visão para longe
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 TABELA 2
 
 Visão para perto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Utilizar a tabela 2 apenas em caso de distorção importante entre a visão de perto e a visão de longe. Neste caso convém fazer a média aritmética das duas taxas.
 
@@ -4151,19 +4157,19 @@ Em traumatologia as diminuições concêntricas dos campos visuais são frequent
 
 Torna-se necessário utilizar várias provas de controlo e avaliar de forma integrada o quadro clínico e o resultado dos exames imagiológicos e neurológicos. Não se pode contudo ignorar as diminuições campimétricas bilaterais orgânicas resultantes de duplas hemianópsias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Oculomotricidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Cristalino
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Anexos do olho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 B) Otorrinolaringologia
 
@@ -4177,11 +4183,11 @@ No caso de existirem associadamente perturbações do equilíbrio, avalia-se o d
 
 Surdez total
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Surdez parcial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 A avaliação faz-se em 2 tempos:com a ajuda das tabelas 3 e 4 da perda auditiva e percentagem de discriminação
 
@@ -4193,7 +4199,7 @@ TABELA 3
 
 Perdas auditivas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Distorções auditivas:
 
@@ -4205,31 +4211,31 @@ TABELA 4
 
 Percentagem de discriminação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Em caso de prótese auditiva, a melhoria é determinada pela comparação das curvas auditivas sem e com prótese, podendo assim reduzir-se a taxa, que deve, no entanto, ter em conta o incómodo gerado pela prótese, especialmente em ambientes ruidosos.
 
 Acufenos isolados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 3 - Perturbações do equilíbrio.
 
 Valorizar estas alterações tendo em conta os resultados da Videonistagmografia e da Posturografia Dinâmica Computorizada.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 4 - Perturbação da ventilação nasal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 5 - Perturbações olfactivas (compreende as alterações das percepções gustativas):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 6 - Perturbações da fonação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 C) Estomatologia
 
@@ -4239,7 +4245,7 @@ As situações não contempladas neste capítulo, nomeadamente as de carácter e
 
 No caso da aparelhagem móvel, reduzir as taxas propostas em 50 %. No caso de aparelhagem fixa, reduzir as taxas propostas em 75 %. A colocação de implantes determina apenas a atribuição de uma taxa entre 1 e 3.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 III - Sistema musculo-esquelético (M)
 
@@ -4265,7 +4271,7 @@ As possibilidades protéticas ao nível dos membros superiores não asseguram ac
 
 No caso de amputação bilateral o valor máximo é de 70, sendo os restantes valores calculados em função do nível de amputação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 2 - Anquiloses e rigidez.
 
@@ -4277,11 +4283,11 @@ Os 3 movimentos essenciais são a flexão (antepulsão), a abdução e a rotaç�
 
 Artrodese ou anquilose em posição funcional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Rigidez.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Cotovelo.
 
@@ -4293,17 +4299,17 @@ O perito deve ter em conta o défice da extensão e da flexão, sendo as respect
 
 Artrodese ou anquilose em posição funcional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Rigidez.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Compromisso da prono-supinação.
 
 Anquilose.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Punho.
 
@@ -4311,11 +4317,11 @@ O arco útil de movimento situa-se entre 0º e 45º para a flexão e entre 0º e
 
 Artrodese ou anquilose em posição funcional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Rigidez.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 No caso de haver compromisso conjugado das articulações do ombro, cotovelo e punho, não sendo possível levar a mão ao pavilhão auricular homolateral, à região inter-glútea e à crista ilíaca contra-lateral, a taxa a atribuir, tendo em conta o estudo da sinergia destas articulações, deve variar entre 15 e 24, não sendo de considerar as taxas correspondentes a cada uma das articulações envolvidas.
 
@@ -4329,17 +4335,17 @@ Nos casos de sequelas múltiplas, em que a utilização desta tabela não se ade
 
 Quando existir um intervalo para os coeficientes propostos, deve ser considerado, entre outros aspectos, o lado dominante e o prejuízo funcional e para as AVD.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 3 - Amputações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Amputação dos dedos.
 
 As amputações parciais de cada dedo deverão ser proporcionais aos valores da amputação total, tendo em conta as repercussões funcionais (incluindo as perturbações na sensibilidade) e nas AVD.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 4 - Anquiloses e rigidez.
 
@@ -4351,7 +4357,7 @@ TABELA 5
 
 Taxas relativas à anquilose na mão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Rigidez.
 
@@ -4361,7 +4367,7 @@ TABELA 6
 
 Códigos de rigidez
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Sinergia.
 
@@ -4387,7 +4393,7 @@ TABELA 7
 
 Códigos de anestesia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Disestesia e hipostesia.
 
@@ -4397,7 +4403,7 @@ TABELA 8
 
 Códigos de disestesia e hipostesia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 C) Membro inferior
 
@@ -4409,7 +4415,7 @@ Uma amputação do membro inferior, excepto se localizada ao nível do pé, não
 
 No caso de amputação bilateral o valor máximo é de 65 pontos, sendo os restantes valores calculados em função do nível de amputação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 6 - Anquiloses e rigidez.
 
@@ -4435,13 +4441,13 @@ Artrodese ou anquilose em posição funcional.
 
 No que se refere às anquiloses em posição não funcional, os pontos a atribuir podem ter um valor superior, de acordo com as repercussões nas AVD, sempre que não seja possível a correcção cirúrgica, e tendo como limite máximo o da amputação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Rigidez.
 
 No que se refere à rigidez cerrada, os pontos a atribuir podem ter um valor superior, de acordo com as repercussões nas AVD, sempre que não seja possível a correcção cirúrgica, e tendo como limite máximo o da amputação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Joelho.
 
@@ -4455,29 +4461,29 @@ Artrodese ou anquilose em posição funcional.
 
 No que se refere às anquiloses em posição não funcional, os pontos a atribuir podem ter um valor superior, de acordo com as repercussões nas AVD, sempre que não seja possível a correcção cirúrgica, e tendo como limite máximo o da amputação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Rigidez.
 
 No que se refere à rigidez cerrada, os pontos a atribuir podem ter um valor superior, de acordo com as repercussões nas AVD, sempre que não seja possível a correcção cirúrgica, e tendo como limite máximo o da amputação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Instabilidades.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Desvios axiais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Síndromes fémuro-patelares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Sequelas de lesões meniscais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Tibio-társica e pé.
 
@@ -4489,15 +4495,15 @@ A perda de alguns graus de flexão dorsal é mais incapacitante do que a perda d
 
 Artrodese ou anquilose em posição funcional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Rigidez.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Laxidez.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Articulação sub-talar.
 
@@ -4511,57 +4517,57 @@ A perda do valgo é mais invalidante que a do varus já que a anquilose em varo 
 
 Artrodese ou anquilose em posição funcional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Rigidez.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Articulações médio-társica (Chopart) e tarso-metatársica (Lisfranc).
 
 Artrodese ou anquilose em posição funcional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Rigidez.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Articulações metatarso-falângicas - dedos do pé.
 
 Anquiloses e rigidez.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Anquiloses e rigidez combinadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 7 - Dismetrias.
 
 A avaliação de alongamentos e encurtamentos dos membros inferiores é efectuada sem ter em conta a compensação por ortótese.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 D) Coluna vertebral
 
 8 - Coluna cervical.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 9 - Coluna torácica (dorsal), lombar e charneira lombo-sagrada.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 10 - Coccix.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 E) Bacia
 
 11 - Bacia-Dores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 F) Outros quadros sequelares
 
@@ -4571,59 +4577,59 @@ As situações contempladas neste grupo só podem ser valorizadas enquanto entid
 
 Cintura escapular.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Clavícula.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Braço.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Cotovelo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Antebraço.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Punho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 13 - Membro inferior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Fémur.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Joelho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Perna.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Tíbio-társica/pé.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 14 - Toráx.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 15 - Coluna Vertebral.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 16 - Pélvis.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 4 - Sistema cárdio-respiratório (C).
 
@@ -4637,13 +4643,13 @@ De entre os dados técnicos, a fracção de ejecção tem uma importância primo
 
 1 - Sequelas cardiológicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 2 - Transplante.
 
 A eventualidade de um transplante deve ter em conta a necessidade de exigências terapêuticas muito importantes e de uma vigilância particularmente apertada.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 B) Aparelho respiratório
 
@@ -4653,17 +4659,17 @@ TABELA 6
 
 Escala das dispneias de Sadoul
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 3 - Perda anatómica total ou parcial de um pulmão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 Estas taxas são acumuláveis com a taxa correspondente à eventual insuficiência respiratória associada.
 
 4 - Insuficiência respiratória crónica.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 CV: Capacidade Vital.
 
@@ -4683,7 +4689,7 @@ DLCO/VA: Medição da capacidade de difusão de monóxido de carbono.
 
 5 - Sequelas dolorosas persistentes de toracotomia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 5 - Sistema vascular (V).
 
@@ -4695,21 +4701,21 @@ A taxa deve ter em conta as exigências terapêuticas e ou a vigilância médica
 
 1 - Arteriais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 2 - Venosas.
 
 Trata-se de sequelas de flebite indiscutível, que devem ser avaliadas tendo em conta um eventual estado anterior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 3 - Linfáticas (ou linfoedema).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 B) Baço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 VI - Sistema digestivo (D)
 
@@ -4719,11 +4725,11 @@ A) Estomias cutâneas definitivas e incontinência
 
 1 - Estomias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 2 - Incontinência fecal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 B) Perturbações comuns às diferentes afectações do aparelho digestivo
 
@@ -4731,11 +4737,11 @@ A taxa inclui a inerente à perda orgânica.
 
 3 - Perturbações da absorção.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 C - Hérnias e aderências.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 VII - Sistema urinário (U)
 
@@ -4745,29 +4751,29 @@ A) Rim
 
 1 - Nefrectomia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 2 - Insuficiência renal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 No caso particular de alteração da função renal de um indivíduo submetido a nefrectomia unilateral, a taxa correspondente à perda anatómica não é cumulativa, devendo, todavia, ser fixada uma taxa mínima de 15 %, em conformidade com o artigo 1 deste capítulo.
 
 3 - Transplante.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 B) Incontinência
 
 4 - Incontinência.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 C) Estomia
 
 5 - Estomia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 VIII - Sistema reprodutor (R)
 
@@ -4779,25 +4785,25 @@ A) Mulher
 
 1 - Perda de órgão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 2 - Esterilidade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 B) Homem
 
 3 - Perda de órgão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 4 - Esterilidade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 5 - Disfunção eréctil.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 IX - Sistema glandular endócrino (G)
 
@@ -4811,27 +4817,27 @@ A avaliação é feita em função da adaptação ao tratamento, do seu controlo
 
 A) Hipófise
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 B) Tiróide
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 C) Paratiróide
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 D) Pâncreas endócrino
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 E) Supra-renais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 F) Gónadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
 
 X - Sistema cutâneo (P)
 
@@ -4845,4 +4851,4 @@ A) Queimaduras profundas ou cicatrizações patológicas
 
 Valorizam-se segundo a percentagem de superfície corporal atingida pelas lesões.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf)

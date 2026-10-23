@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/06/139a00/35913595.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/123/2003/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2003-685033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a96087064bc20138c8a674d6b3dd33761cae870c162ae3f8068f25406dad60e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e7ad8dfb637020d733d1c75dca09ef8e403fd2fc796525ee2adcd6c7362417e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,72 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autonomia Administrativa
-- Pessoal Dirigente
-- Gestão Financeira
 - Definição de Competências
 - Diretor
-- Ministério da Ciência e do Ensino Superior
+- Ensino Superior
+- Gabinete de Gestão Financeira da Ciência e do Ensino Superior
 - Gestão do Património
+- Gestão Financeira
 - Gestão Orçamental
 - Integração de Trabalhadores
-- Gabinete de Gestão Financeira da Ciência e do Ensino Superior
+- Ministério da Ciência e do Ensino Superior
 - Orgânica
+- Pessoal Dirigente
 - Política Financeira
 - Quadro de Pessoal
 - Receita
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:145195:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457005:por
+  label: "Determinado que as atribuições e competências do Gabinete, cuja orgânica foi aprovada no presente diploma, no que\
+    \ se refere à coordenação e gestão orçamental do orçamento de funcionamento dos serviços do Ministério, sejam assumidas\
+    \ pela Secretaria-Geral, cuja orgânica consta do Dec Lei 111/2003, de 06-Jun, pelo DEC LEI.10/2005.06.01.2005.MCIES, DR.IS-A\
+    \ [4] de 06.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2005-457005
+  date: '2005-01-06'
+- type: amended_by
+  target: pt:dre:545643:por
+  label: "Extinto, sendo objecto de fusão, o Gabinete cuja orgânica foi aprovada no presente diploma, pelo DEC LEI.214/2006.27.10.2006.MCTES,\
+    \ DR.IS [208] de 27.10.2006, nos termos dos seus artigos 31.º e 32.º, e integradas as atribuições definidas nos nºs I,\
+    \ II e III da alínea a) do n.º 2 do artigo 26.º, respectivamente no Gabinete de Planeamento, Estratégia, Avaliação e Relações\
+    \ Internacionais, na Secretaria-Geral e na Direcção-Geral do Ensino Superior constantes do citado diploma \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2006-545643
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:520989:por
+  label: "Determinado que a Secretaria-Geral do MCTES suceda nas atribuições, referidas no art. 11º, do Gabinete de Gestão\
+    \ Financeira da Ciência e do ensino Superior, cuja orgânica foi aprovada pelo presente diploma, pelo DEC LEI.150/2007.27.04.2007.MCTES,\
+    \ DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-2007-520989
+  date: '2007-04-27'
+- type: amended_by
+  target: pt:dre:520993:por
+  label: "Determinado que a Direcção Geral do Ensino Superior suceda nas atribuições relativas ao acompanhamento das necessidades\
+    \ de qualificação e adequação das instalações e equipamentos do ensino superior e da rede de acção social, do Gabinete\
+    \ de Gestão Financeira da Ciência e do Ensino Superior (extinto nos termos do art .26º do Dec Lei 214/2006 de 27-Out),\
+    \ e cuja orgânica foi aprovada pelo presente diploma, pelo DEC LEI.151/2007.27.04.2007.MCTES, DR.IS [82] de 27.04.2007\0\
+    07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-2007-520993
+  date: '2007-04-27'
+- type: amended_by
+  target: pt:dre:521012:por
+  label: "Determinado que o Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais, suceda nas atribuições\
+    \ referidas nas letras i), ii) e iii) da al. a) do art. 11º, do Gabinete de Gestão Financeira da Ciência e do Ensino Superior(extinto\
+    \ nos termos do art. 26º do Dec Lei 214/2006 de 27-Out) e cuja orgânica foi aprovada pelo presente diploma, ora revogado\
+    \ nos termos do art. 5º do Dec Lei 201/2006 de 27-Out, pelo DR.60/2007.27.04.2007.MCTES, DR.IS [82] de 27.04.2007, a partir\
+    \ de 01.05.2007 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/60-2007-521012
+  date: '2007-04-27'
+- type: amended_by
+  target: pt:dre:145195:por
+  label: "Extinto, sendo objecto de fusão, o Gabinete de Gestão Financeira, e integradas as suas atribuições na Direcção-Geral\
+    \ de Planeamento e Gestão Financeira, pelo DEC LEI.125/2011.29.12.2011.MECI, DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2011-145195
+  date: '2011-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/193/2002/09/25/p/dre
   label: null
@@ -93,16 +140,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/205/2002/10/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/205/2002/10/07/p/dre
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657223:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:20Z'
   warnings: []
   errors: []
 ---
@@ -351,15 +406,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Abril de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - José David Gomes Justino - Pedro Lynce de Faria.
 
-**Promulgado em 29 de Maio de 2003.**
+Promulgado em 29 de Maio de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Junho de 2003.**
+Referendado em 3 de Junho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 MAPA ANEXO
 

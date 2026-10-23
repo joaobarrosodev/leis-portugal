@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/46-1985-182853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T07:32:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffc3441c1271c7defdfdaf69549b5471d46a5e26251332a0281ba9dfb6a771df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a53a2af17c337196a036080d248b94da78dd8c8ed37e8274d89e96a2e09d13d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:32:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alfândega
+- Reforma Aduaneira
+- Regulamento
+- Regulamento das Alfândegas
+relationships:
+- type: cites
+  target: pt:dre:506178:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:32:51Z'
   warnings: []
   errors: []
 ---
@@ -84,7 +92,7 @@ validation:
 
 Tendo em conta a conveniência de se fixar um prazo legal para a liquidação e cobrança das imposições devidas relativas aos bilhetes de importação processados em regime de draubaque cujo prazo para exportação tenha sido excedido, determino, ao abrigo do [Decreto n.º 17/76](https://diariodarepublica.pt/dr/detalhe/decreto/17-1976-506178), de 14 de Janeiro, que, a título experimental e pelo prazo de um ano, sejam introduzidos dois parágrafos no artigo 443.º-A do Regulamento das Alfândegas em substituição do seu § único, como se enuncia:
 
-###### Art. 443.º-A ...
+Art. 443.º-A ...
 
 § 1.º Se, expirado o prazo legal, a exportação se não tiver efectuado ou tenha sido realizada parcialmente, deverão entrar em receita os direitos de importação e demais imposições devidas no prazo de 30 dias.
 

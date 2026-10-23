@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/199/2012/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-2012-174544
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7faeffd5dc721399ce381dd5a3ae3222550deac57c1e3385ffd28a608802295a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2327805b366173a62895ae7bd0dcb5bbcff6fd179d6deff4394bc54524c250b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência de Turismo
-- Turismo
+- ASAE
+- Comércio
 - Contra-ordenação
 - Definição de Competências
 - FGVT
 - Fiscalização
 - Fundo de Garantia de Viagens e Turismo
 - Instituto de Turismo de Portugal
-- ASAE
 - Preço
 - Prestação de Serviços
-- Comércio
+- Turismo
 - Viagem de Turismo
 relationships:
 - type: amended_by
   target: pt:dre:116152179:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:56384880:por
+  label: Alterado, a partir de 27.11.2014, o art. 40.º do Dec Lei 61/2011 de 06-mai, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 128/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29
+  source: null
+  date: '2014-08-29'
 - type: cites
   target: celex:32006L0123
   label: null
@@ -98,15 +104,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/92/2010/07/26/p/dre
 article_structure:
-  article_count: 68
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 55
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:49Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +161,9 @@ Os artigos 3.º, 7.º, 9.º, 10.º, 11.º, 31.º, 32.º, 33.º, 35.º, 39.º, 40
 
 3 - Encontra-se excluída do disposto no n.º 1 a comercialização de serviços que não constituam viagens organizadas, feita através de meios telemáticos ou da Internet, por empreendimentos turísticos e empresas transportadoras.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -179,7 +187,9 @@ e) ...
 
 6 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -197,7 +207,9 @@ e) [Anterior alínea e) do corpo do artigo.]
 
 3 - Verificando-se o previsto na alínea d) do n.º 1, o Turismo de Portugal, I. P., cancela, de imediato, a inscrição da agência de viagens e turismo.
 
-###### Artigo 10.º — Livre prestação de serviços
+Artigo 10.º
+
+Livre prestação de serviços
 
 1 - As agências de viagens e turismo legalmente estabelecidas noutro Estado membro da União Europeia ou do espaço económico europeu para a prática da atividade de agência de viagens e turismo podem exercer essa mesma atividade em território nacional, de forma ocasional e esporádica, devendo apresentar previamente ao Turismo de Portugal, I. P., a documentação, em forma simples, comprovativa da contratação de garantias equivalentes às previstas nos artigos 31.º, 32.º, 35.º e 36.º
 
@@ -205,7 +217,9 @@ e) [Anterior alínea e) do corpo do artigo.]
 
 3 - As entidades que operem nos termos do n.º 1 ficam sujeitas às demais condições de exercício da atividade que lhes sejam aplicáveis, nomeadamente às constantes dos n.os 3 e 4 do artigo 5.º e dos artigos 14.º a 30.º
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - As associações, misericórdias, instituições privadas de solidariedade social, cooperativas e outras entidades sem fins lucrativos podem organizar viagens estando isentas de inscrição no RNAVT, desde que se verifiquem os seguintes requisitos cumulativos:
 
@@ -221,7 +235,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - É criado o fundo de garantia de viagens e turismo (FGVT), no montante mínimo de (euro) 2 000 000, constituído pelos valores a que se refere o artigo seguinte, dotado de personalidade jurídica e de autonomia administrativa, patrimonial e financeira, que responde solidariamente pelo pagamento dos créditos de consumidores decorrentes do incumprimento de serviços contratados às agências de viagens e turismo.
 
@@ -239,7 +255,9 @@ b) ...
 
 6 - As receitas decorrentes da gestão do FGVT revertem para o mesmo.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - O financiamento do FGVT é assegurado pelas agências de viagens e turismo, mediante uma contribuição única de (euro) 2500, a prestar no momento da inscrição no RNAVT.
 
@@ -253,7 +271,9 @@ b) ...
 
 6 - A contribuição referida no número anterior é efetuada no prazo de 30 dias a contar da data da notificação do Turismo de Portugal, I. P., devendo a agência, em simultâneo, facultar o acesso à informação empresarial simplificada (IES) que tenha apresentado para efeitos fiscais, para comprovação do seu volume de negócios e apuramento do escalão que lhe seja aplicável e respetivo montante a contribuir, nos termos do anexo referido número anterior.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - Os consumidores interessados em obter a satisfação de créditos resultantes do incumprimento de contratos celebrados com agências de viagens e turismo podem acionar o FGVT, devendo requerê-lo ao Turismo de Portugal, I. P., apresentando, em alternativa:
 
@@ -285,7 +305,9 @@ b) Dirija reclamação, sob qualquer forma escrita, à Agência de Viagens e ao 
 
 6 - Por cada processo tramitado na comissão arbitral prevista no artigo seguinte será devida uma taxa administrativa que reverte para o FGVT, em termos a regulamentar por portaria dos membros do Governo responsáveis pelas áreas do turismo e das finanças.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -297,7 +319,9 @@ b) Dirija reclamação, sob qualquer forma escrita, à Agência de Viagens e ao 
 
 5 - Equivale ao seguro referido nos números anteriores a subscrição de qualquer outra garantia financeira, nos termos dos n.os 2 e 3 do artigo 13.º do Decreto-Lei n.º 92/2010, de 26 de julho.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -317,7 +341,9 @@ f) Se a agência não prestar a contribuição adicional prevista nos termos dos
 
 3 - O não cumprimento do disposto nas alíneas c), d) e f) do n.º 1, no prazo de 30 dias, implica o cancelamento automático da inscrição no RNAVT.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -341,19 +367,25 @@ e) A não prestação das garantias exigidas no n.º 1 do artigo 6.º
 
 6 - ...
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
 2 - A decisão de aplicação de qualquer sanção pode ser publicitada, a expensas do infrator, no sítio na Internet da ASAE e em jornal de difusão nacional, regional ou local, de acordo com a importância e os efeitos da infração.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - É da competência da ASAE a aplicação das sanções previstas no presente decreto-lei.
 
 2 - ...
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - O produto das coimas resultantes da infração ao disposto no presente decreto-lei reverte:
 
@@ -419,13 +451,13 @@ São revogados o artigo 2.º, a alínea a) do n.º 1 do artigo 9.º, o n.º 2 do
 
 Visto e aprovado em Conselho de Ministros de 6 de junho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira.
 
-**Promulgado em 7 de agosto de 2012.**
+Promulgado em 7 de agosto de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de agosto de 2012.**
+Referendado em 14 de agosto de 2012.
 
 Pelo Primeiro-Ministro, Vítor Louçã Rabaça Gaspar, Ministro de Estado e das Finanças.
 
@@ -433,7 +465,7 @@ Pelo Primeiro-Ministro, Vítor Louçã Rabaça Gaspar, Ministro de Estado e das 
 
 Quadro único a que se refere o n.º 5 do artigo 32.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16400/0467704691.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16400/0467704691.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16400/0467704691.pdf)
 
 ## ANEXO II — (a que se refere o artigo 7.º)
 
@@ -655,7 +687,9 @@ d) Não sejam utilizados meios publicitários para a sua promoção dirigidos ao
 
 5 - As agências de viagens e turismo previstas no n.º 1 podem alugar os meios de transporte a outras agências.
 
-###### Artigo 14.º — Livro de reclamações
+###### Artigo 14.º
+
+## Livro de reclamações
 
 1 - As agências de viagens e turismo devem dispor de livro de reclamações nos termos e nas condições estabelecidas no Decreto-Lei n.º 156/2005, de 15 de setembro, alterado pelo Decreto-Lei n.º 371/2007, de 6 de novembro, pelo Decreto-Lei n.º 118/2009, de 19 de maio, e pelo Decreto-Lei n.º 317/2009, de 30 de outubro.
 
@@ -1169,4 +1203,4 @@ A tramitação dos procedimentos e comunicações previstos no presente decreto-
 
 ## ANEXO — Quadro único a que se refere o n.º 5 do artigo 32.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16400/0467704691.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16400/0467704691.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16400/0467704691.pdf)

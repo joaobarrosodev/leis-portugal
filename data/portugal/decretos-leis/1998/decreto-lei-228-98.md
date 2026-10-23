@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/228/1998/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1998-425286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a6eccf015e509c22bd091a9c1cd4dfe069da367a8d4fbaac5523007963633bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01a5197d8a13821f805bc1f2e78488cea0d19352d37fe57f1eb976fea051f151
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Fiscal
-- Modernização Administrativa
+- Cobrança de Dívidas
 - Cobrança de Impostos
-- Política Fiscal
-- Dívidas ao Estado
-- Execução Fiscal
-- Pagamento
 - Contribuições e Impostos
 - Crédito
+- Dívidas ao Estado
+- Execução Fiscal
+- Execução por Dívidas
+- Modernização Administrativa
+- Pagamento
 - Pagamento de Contribuições
 - Política Económica
-- Cobrança de Dívidas
+- Política Fiscal
 - Regime Fiscal
-- Execução por Dívidas
 - Taxa
 - Tribunal Tributário
 relationships:
@@ -87,16 +87,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/30/1998/02/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/30/1998/02/11/p/dre
+- type: cites
+  target: pt:dre:229483:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:04Z'
   warnings: []
   errors: []
 ---
@@ -127,12 +131,12 @@ O n.º 3 do artigo único do [Decreto-Lei n.º 30/98](https://diariodarepublica.
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 8 de Julho de 1998.**
+Promulgado em 8 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Julho de 1998.**
+Referendado em 14 de Julho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

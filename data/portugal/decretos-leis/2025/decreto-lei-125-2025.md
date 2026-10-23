@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/125/2025/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2025-962603401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb98517568c4d8799a1d108e3a0b26c6e15d1f47bfbdbe0dbfc28649f1e2da2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88fc685743b8897e01ed55d57b8e15a46df44c227bb680ce81deb6dba18b7d3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Interconexão de Dados
 - Cibercrime
-- Segurança da Informação
 - Gestão de Direitos Digitais
+- Interconexão de Dados
+- Segurança da Informação
 relationships:
+- type: amends
+  target: pt:numero:lei:53/2008
+  label: Altera, a partir de 3 de abril de 2026, o artigo 16.º e adita o artigo 25.º-A à Lei de Segurança Interna, aprovada
+    pela Lei n.º 53/2008, de 29 de agosto, Diário da República n.º 167/2008, Série I
+  source: null
+  date: '2008-08-29'
+- type: amends
+  target: pt:numero:lei:109/2009
+  label: Altera, a partir de 3 de abril de 2026, o artigo 2.º e adita o artigo 8.º-A à Lei do Cibercrime, aprovada pela Lei
+    n.º 109/2009, de 15 de setembro, Diário da República n.º 179/2009, Série I
+  source: null
+  date: '2009-09-15'
+- type: amends
+  target: pt:numero:lei:16/2022
+  label: Altera, a partir de 3 de abril de 2026, o artigo 13.º e revoga, nos termos do n.º 1 do artigo 10.º, os artigos 59.º,
+    60.º, 61.º, 62.º, 63.º, 64.º e 65.º e as alíneas m), n), o), p), q), r), s) e t) do n.º 3 do artigo 178.º da Lei das Comunicações
+    Eletrónicas, aprovada pela Lei n.º 16/2022, de 16 de agosto, Diário da República n.º 157/2022, Série I
+  source: null
+  date: '2022-08-16'
 - type: cites
   target: celex:31991L0271
   label: null
@@ -284,6 +303,120 @@ relationships:
   target: eli:http://data.europa.e
   label: null
   source: http://data.europa.e
+- type: cites
+  target: pt:dre:107791615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116029384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136678512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168697988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174824631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178264070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187481298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55235777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70086390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75177807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:900840740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:941547424:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:3/2012
+  label: Revoga, a partir de 3 de abril de 2026, o artigo 2.º-A do Decreto-Lei n.º 3/2012, de 16 de janeiro, Diário da República
+    n.º 11/2012, Série I
+  source: null
+  date: '2012-01-16'
+- type: repeals
+  target: pt:numero:lei:46/2018
+  label: Revoga, a partir de 3 de abril de 2026, o regime jurídico da segurança do ciberespaço, aprovado pela Lei n.º 46/2018,
+    de 13 de agosto, Diário da República n.º 155/2018, Série I
+  source: null
+  date: '2018-08-13'
+- type: repeals
+  target: pt:numero:decreto-lei:65/2021
+  label: Revoga, a partir de 3 de abril de 2026, o Decreto-Lei n.º 65/2021, de 30 de julho, Diário da República n.º 147/2021,
+    Série I
+  source: null
+  date: '2021-07-30'
 - type: transposes
   target: celex:32018L1972
   label: null
@@ -299,13 +432,13 @@ relationships:
 article_structure:
   article_count: 100
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:14Z'
   warnings: []
   errors: []
 ---
@@ -510,7 +643,7 @@ d) Os artigos 59.º a 65.º e as alíneas m) a t) do n.º 3 do artigo 178.º da 
 
 1 - O disposto na alínea d) do artigo 9.º produz efeitos após a substituição ou revogação, pelas entidades competentes, dos regulamentos e atos adotados pela ANACOM, em matéria de segurança e de integridade das redes e serviços, ao abrigo da [Lei n.º 5/2004](https://diariodarepublica.pt/dr/detalhe/lei/5-2004-581061), de 10 de fevereiro, da [Lei n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), de 18 de agosto, e do [Decreto-Lei n.º 65/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2021-168697988), de 30 de julho, e que não sejam incompatíveis com o disposto no presente decreto-lei.
 
-2 - O disposto nos n.<sup>os</sup>1 e 2 do artigo 27.º, nos artigos 28.º a 30.º, no artigo 33.º e nas alíneas b), c) e f) do n.º 1 do artigo 61.º do regime jurídico da cibersegurança, aprovado em anexo ao presente decreto-lei, produz efeitos 24 meses após a publicação da regulamentação referida nos artigos 8.º, 14.º, 26.º, 31.º, 32.º e 83.º do referido regime.
+2 - O disposto nos n.os1 e 2 do artigo 27.º, nos artigos 28.º a 30.º, no artigo 33.º e nas alíneas b), c) e f) do n.º 1 do artigo 61.º do regime jurídico da cibersegurança, aprovado em anexo ao presente decreto-lei, produz efeitos 24 meses após a publicação da regulamentação referida nos artigos 8.º, 14.º, 26.º, 31.º, 32.º e 83.º do referido regime.
 
 ###### Artigo 11.º — Entrada em vigor
 
@@ -518,15 +651,15 @@ O presente decreto-lei entra em vigor 120 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de novembro de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - António Leitão Amaro - Manuel Castro Almeida.
 
-**Promulgado em 28 de novembro de 2025.**
+Promulgado em 28 de novembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de novembro de 2025.**
+Referendado em 28 de novembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -744,7 +877,7 @@ f) Às entidades privadas que prestem serviços exclusivamente a uma ou mais ent
 
 ###### Artigo 4.º — Delimitação territorial do âmbito de aplicação subjetivo
 
-1 - O presente decreto-lei aplica-se às entidades referidas nos n.<sup>os</sup>1 e 2 do artigo anterior que:
+1 - O presente decreto-lei aplica-se às entidades referidas nos n.os1 e 2 do artigo anterior que:
 
 a) Tenham estabelecimento no território nacional;
 
@@ -854,7 +987,7 @@ f) As entidades públicas empresariais qualificadas como empresas médias nos te
 
 4 - A qualificação prevista no número anterior é devidamente fundamentada pelo CNCS, sendo precedida de audiência prévia da entidade em causa e, quando aplicável, de parecer das autoridades nacionais setoriais de cibersegurança referidas na alínea a) do n.º 2 do artigo 15.º
 
-5 - O CNCS, ou, quando aplicável, as autoridades nacionais setoriais de cibersegurança competentes nos termos da alínea a) do n.º 2 do artigo 15.º, notifica a entidade da sua qualificação nos termos dos n.<sup>os</sup>2 e 3, no prazo máximo de 30 dias a contar da data da referida qualificação.
+5 - O CNCS, ou, quando aplicável, as autoridades nacionais setoriais de cibersegurança competentes nos termos da alínea a) do n.º 2 do artigo 15.º, notifica a entidade da sua qualificação nos termos dos n.os2 e 3, no prazo máximo de 30 dias a contar da data da referida qualificação.
 
 6 - Os prestadores de serviços de registos de nomes de domínio devem identificar-se e comunicar a informação prevista no n.º 2 do artigo 35.º através da plataforma eletrónica disponibilizada pelo CNCS, no prazo de 30 dias após o início da sua atividade.
 
@@ -1144,7 +1277,7 @@ f) As cadeias de produção e fornecimento do fabricante ou fornecedor evidencia
 
 ###### Artigo 20.º — Competências do Centro Nacional de Cibersegurança
 
-1 - O CNCS, no âmbito das responsabilidades atribuídas nos n.<sup>os</sup>1 e 2 do artigo 19.º, prossegue as atribuições e exerce as competências descritas nas alíneas seguintes:
+1 - O CNCS, no âmbito das responsabilidades atribuídas nos n.os1 e 2 do artigo 19.º, prossegue as atribuições e exerce as competências descritas nas alíneas seguintes:
 
 a) Desenvolver as capacidades nacionais de prevenção, monitorização, deteção, reação, análise e correção destinadas a fazer face a incidentes de cibersegurança, a ciberataques, e a ciberameaças;
 
@@ -1516,7 +1649,7 @@ d) A receção das orientações, recomendações, instruções técnicas e orde
 
 1 - As entidades públicas relevantes devem cumprir com as medidas de cibersegurança estabelecidas pelo CNCS nos termos do número seguinte.
 
-2 - O CNCS estabelece, através de regulamento, as medidas de cibersegurança que devem ser cumpridas por parte das entidades públicas relevantes, considerando os critérios previstos no disposto nos n.<sup>os</sup>2 e 3 do artigo 26.º e em termos proporcionais e adequados ao grupo a que pertencem, de acordo com o disposto no artigo 7.º
+2 - O CNCS estabelece, através de regulamento, as medidas de cibersegurança que devem ser cumpridas por parte das entidades públicas relevantes, considerando os critérios previstos no disposto nos n.os2 e 3 do artigo 26.º e em termos proporcionais e adequados ao grupo a que pertencem, de acordo com o disposto no artigo 7.º
 
 3 - As entidades públicas relevantes estão sujeitas às medidas de supervisão e de execução previstas nos artigos 55.º e 56.º, respetivamente.
 
@@ -1558,7 +1691,7 @@ d) As gamas de endereços IP.
 
 3 - As entidades essenciais, importantes, públicas relevantes e os prestadores de serviços de registos de nomes de domínio notificam o CNCS de qualquer alteração aos dados referidos nos números anteriores, no prazo de 30 dias úteis a contar da alteração.
 
-4 - No caso do registo de nomes de TLD, bem como as entidades que sejam prestadores de serviços de DNS, prestadores serviços de registo de nomes de domínio, prestadores de serviços de computação em nuvem, prestadores de serviços de centro de dados, fornecedores de redes de distribuição de conteúdos, prestadores de serviços geridos, prestadores de serviços de segurança geridos, bem como dos prestadores de serviços de mercados em linha, de motores de pesquisa em linha e de plataformas de serviços de redes sociais, a alteração aos dados referidos nos n.<sup>os</sup>1 e 2 é notificada no prazo de três meses a contar da alteração.
+4 - No caso do registo de nomes de TLD, bem como as entidades que sejam prestadores de serviços de DNS, prestadores serviços de registo de nomes de domínio, prestadores de serviços de computação em nuvem, prestadores de serviços de centro de dados, fornecedores de redes de distribuição de conteúdos, prestadores de serviços geridos, prestadores de serviços de segurança geridos, bem como dos prestadores de serviços de mercados em linha, de motores de pesquisa em linha e de plataformas de serviços de redes sociais, a alteração aos dados referidos nos n.os1 e 2 é notificada no prazo de três meses a contar da alteração.
 
 ###### Artigo 36.º — Base de dados relativos ao registo de nomes de domínio
 
@@ -1954,7 +2087,7 @@ b) Ao registo de nomes de TLD ou aos prestadores de serviços de DNS, o bloqueio
 
 4 - Na medida do estritamente necessário para cessar a utilização abusiva de endereços de protocolo IP, o CNCS pode ordenar às empresas que oferecem redes e serviços de comunicações eletrónicas o bloqueio ou redirecionamento de endereço de protocolo IP, dinâmico ou estático, para um servidor seguro do CNCS, quando estes endereços estejam manifestamente dedicados ou envolvidos nos tipos de ciberataques ou incidentes previstos nas alíneas a) a d) do n.º 2.
 
-5 - As medidas referidas nos n.<sup>os</sup>3 e 4 não podem exceder o período de 60 dias, podendo este ser renovado por igual período quando haja forte probabilidade, aferida mediante uma avaliação fundamentada, de os ciberataques ou incidentes com origem nos mesmos endereços persistirem ou serem retomados.
+5 - As medidas referidas nos n.os3 e 4 não podem exceder o período de 60 dias, podendo este ser renovado por igual período quando haja forte probabilidade, aferida mediante uma avaliação fundamentada, de os ciberataques ou incidentes com origem nos mesmos endereços persistirem ou serem retomados.
 
 6 - O disposto no presente artigo aplica-se igualmente aos prestadores de serviços de registo de nomes de domínio.
 
@@ -2034,7 +2167,7 @@ f) O incumprimento do dever de adoção das medidas de cibersegurança estabelec
 
 g) O incumprimento dos deveres previstos no artigo 34.º;
 
-h) O incumprimento dos deveres previstos nos n.<sup>os</sup>1 e 2 do artigo 36.º;
+h) O incumprimento dos deveres previstos nos n.os1 e 2 do artigo 36.º;
 
 i) O incumprimento dos deveres previstos no artigo 37.º;
 
@@ -2076,7 +2209,7 @@ a) O incumprimento dos deveres previstos no artigo 8.º;
 
 b) O incumprimento dos deveres previstos no artigo 35.º;
 
-c) O incumprimento dos deveres previstos nos n.<sup>os</sup>4 e 5 do artigo 36.º;
+c) O incumprimento dos deveres previstos nos n.os4 e 5 do artigo 36.º;
 
 d) O incumprimento dos deveres previstos no artigo 46.º;
 
@@ -2378,7 +2511,7 @@ Por forma a prosseguir atribuições e a exercer as competências previstas no p
 
 ## ANEXO I
 
-[a que se referem os n.<sup>os</sup>1 e 2 e a alínea b) do n.º 2 do artigo 3.º, as alíneas a) e f) do n.º 1 e os n.<sup>os</sup>2 e 3 do artigo 6.º, a alínea a) do n.º 2 do artigo 12.º e a alínea d) do n.º 1 do artigo 35.º]
+[a que se referem os n.os1 e 2 e a alínea b) do n.º 2 do artigo 3.º, as alíneas a) e f) do n.º 1 e os n.os2 e 3 do artigo 6.º, a alínea a) do n.º 2 do artigo 12.º e a alínea d) do n.º 1 do artigo 35.º]
 
 Setores de importância crítica
 
@@ -2436,7 +2569,7 @@ Setores de importância crítica
 
 ## ANEXO II
 
-[a que se referem os n.<sup>os</sup>1 e 2 e a alínea b) do n.º 2 do artigo 3.º, a alínea f) do n.º 1 e os n.<sup>os</sup>2 e 3 do artigo 6.º, a alínea a) do n.º 2 do artigo 12.º e a alínea d) do n.º 1 do artigo 35.º]
+[a que se referem os n.os1 e 2 e a alínea b) do n.º 2 do artigo 3.º, a alínea f) do n.º 1 e os n.os2 e 3 do artigo 6.º, a alínea a) do n.º 2 do artigo 12.º e a alínea d) do n.º 1 do artigo 35.º]
 
 Outros setores críticos
 
@@ -2472,3 +2605,7 @@ Entende-se por empresa qualquer entidade que, independentemente da sua forma jur
 2 - Na categoria das PME, uma pequena empresa é definida como uma empresa que emprega menos de 50 pessoas e cujo volume de negócios anual ou balanço total anual não excede 10 milhões de euros.
 
 3 - Na categoria das PME, uma microempresa é definida como uma empresa que emprega menos de 10 pessoas e cujo volume de negócios anual ou balanço total anual não excede 2 milhões de euros.
+
+119836937
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:47px; } .Tbl6 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { min-height:28px; } .Tbl10 { border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:37px; } .Tbl13 { min-height:57px; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { min-height:18px; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { min-height:85px; } .Tbl19 { min-height:66px; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl21 { min-height:76px; } .Tbl22 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl23 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl24 { min-height:46px; } .Tbl25 { min-height:65px; } .Tbl26 { min-height:122px; } .Tbl27 { min-height:56px; } .Tbl28 { min-height:27px; }

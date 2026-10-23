@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/26-1987-666125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fd9092b1be5fb9ad0bb10947e384284a5d1842baaf1b8810b9d46cd462e7b1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 049f434374aab57f940eed869778ac163ee744715f6a94208138ca81d109f7ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA Crítica de Recuperação e Reconversão Urbanística
+- Aveiro
+- Património Histórico
+relationships:
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:37Z'
   warnings: []
   errors: []
 ---
@@ -92,20 +99,20 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ao abrigo do disposto no artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, é declarada área crítica de recuperação e reconversão urbanística a zona delimitada na planta anexa ao presente diploma, situada na zona do Centro Histórico da Cidade de Aveiro.
+Artigo 1.º Ao abrigo do disposto no artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, é declarada área crítica de recuperação e reconversão urbanística a zona delimitada na planta anexa ao presente diploma, situada na zona do Centro Histórico da Cidade de Aveiro.
 
-###### Art. 2.º Compete à Câmara Municipal de Aveiro promover as acções e o processo de recuperação e reconversão urbanística.
+Art. 2.º Compete à Câmara Municipal de Aveiro promover as acções e o processo de recuperação e reconversão urbanística.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 20 de Março de 1987.**
+Promulgado em 20 de Março de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Março de 1987.**
+Referendado em 25 de Março de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/08300/14591460.pdf))](https://files.diariodarepublica.pt/1s/1987/04/08300/14591460.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/08300/14591460.pdf)

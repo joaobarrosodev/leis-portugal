@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/82/2010/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2010-335184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4badfaa3ff82a61306f8f0dcfda5835411e35b259c740722102a8d9b041cec7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 239c7e2729136c8fb7ff6e3899f30f9cc522e09a0c8c4f339f1e9b4bd0812566
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - ARH
-- Garantia
-- Recursos Hídricos
 - Definição de Competências
+- Garantia
 - Licenciamento
 - Prazo
 - Propriedade Privada
+- Recursos Hídricos
 - Reembolso
 - Regime Jurídico
-- Abastecimento de Água
 - Sistema Nacional de Informação dos Títulos de Utilização dos Recursos Hídricos
 relationships:
 - type: amended_by
   target: pt:dre:221990535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:174798:por
+  label: "Alterados o art. 22º e o anexo I do Dec Lei 226-A/2007, de 31-mai, na redação do presente diploma, pela LEI.44/2012.29.08.2012.AR,\
+    \ DR.IS [167] de 29.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/44-2012-174798
+  date: '2012-08-29'
+- type: amended_by
+  target: pt:dre:25343987:por
+  label: Derrogadas as normas do Dec Lei 226-A/2007 de 31-mai (com as alterações constantes do presente diploma), com a entrada
+    em vigor da legislação complementar prevista no art. 30.º da LEI.17/2014.10.04.2014.AR, DR.IS [71] de 10.04.2014, no que
+    sejam contrárias ao que está disposto naquela lei.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/17-2014-25343987
+  date: '2014-04-10'
 - type: cites
   target: celex:32004L0035
   label: null
@@ -92,15 +105,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:57Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +166,9 @@ Os artigos 22.º e 25.º do Decreto-Lei n.º 226-A/2007, de 31 de Maio, alterado
 
 8 - (Anterior n.º 5.)
 
-###### Artigo 25.º — Contrato de concessão
+Artigo 25.º
+
+Contrato de concessão
 
 1 - ...
 
@@ -191,15 +206,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Maio de 2010. - José Sócrates Carvalho Pinto de Sousa - Pedro Manuel Carqueijeiro Lourtie - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - José António Fonseca Vieira da Silva - António Manuel Soares Serrano - António Augusto da Ascenção Mendonça - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Ana Maria Teodoro Jorge.
 
-**Promulgado em 16 de Junho de 2010.**
+Promulgado em 16 de Junho de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de Junho de 2010.**
+Referendado em 17 de Junho de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 

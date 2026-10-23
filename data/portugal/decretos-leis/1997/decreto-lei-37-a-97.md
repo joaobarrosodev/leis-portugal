@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 26/1997, 1º Suplemento, Série I-A de 1997-01-31
   number: '26'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 542-(2) a 542-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/01/026a01/00020007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/37-a/1997/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-1997-261339
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:54:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0046f7ef621dbb1d215c88ad876448ce1bf3a5349da6e0970ea58d0cded95253
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edb1842867be4bb10123148b484d93264ab46ddcec1438380f92337519bc5bad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:54:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Equipamento
+- Comunicação Social
 - Financiamento
 - Formação Profissional
-- Jornalista
-- Comunicação Social
-- Mudança Tecnológica
-- Instituto da Comunicação Social
 - Imprensa
+- Instituto da Comunicação Social
+- Jornalista
 - Modernização Tecnológica
-- Radiodifusão
+- Mudança Tecnológica
 - Porte PAGO
+- Radiodifusão
 relationships:
 - type: amended_by
   target: pt:dre:319739:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:162666:por
+  label: "Alterados, por ratificação, os art 3º, 4º, 6º, 7º, 10º, 25º e 27º pela LEI.21/97.1997.06.27.AR, DR.IS-A [146]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/21-1997-162666
+  date: '1997-06-27'
+- type: amended_by
+  target: pt:dre:534635:por
+  label: "Alterada a redacção dos artºs. 2º, 3º, 4º, 6º, 10º, 11º, 13º, 14º, 15º, 17º, 19º, 20º, 22º e 23º, na redacção dada\
+    \ pela Lei 21/97 de 27-Jun, pelo DEC LEI.136/99.1999.04.22.PCM, DR.IS-A [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-1999-534635
+  date: '1999-04-22'
+- type: amended_by
+  target: pt:dre:288256:por
+  label: "Alterado o art. 8º pelo DEC LEI.105/2000.2000.06.09.PCM,DR.IS-A [134]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-2000-288256
+  date: '2000-06-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/169-a/1994/03/24/p/dre
   label: null
@@ -94,16 +110,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/45-b/1995/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/45-b/1995/01/19/p/dre
+- type: cites
+  target: pt:dre:278974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553433:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:534635:por
+  label: "Revogada a al. d) do nº 1 do art. 3º e os arts. 18º e 30º do presente diploma, que foi alterado pela Lei 21/97 de\
+    \ 27-Jun, pelo DEC LEI.136/99.1999.04.22.PCM, DR.IS-A [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-1999-534635
+  date: '1999-04-22'
+- type: repealed_by
+  target: pt:dre:319739:por
+  label: "Revogado (com a redacção conferida pela Lei 21/97 de 27-Jun, pelo Dec Lei 136/99 de 22-Abr e pelo Dec Lei 195/2000\
+    \ de 9 de Jun) pelo DEC LEI.56/2001.2001.02.19.PCM DR.IS-A [42], mantendo-se contudo em vigor o regime de porte pago do\
+    \ presente diploma, até à data estabelecida no nº 1 do art. 46º daquele diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-2001-319739
+  date: '2001-02-19'
 article_structure:
   article_count: 30
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:54:46Z'
   warnings: []
   errors: []
 ---
@@ -444,12 +485,12 @@ O presente diploma entra em vigor em 1 de Fevereiro de 1997.
 
 Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 1996. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Maria João Fernandes Rodrigues - Eduardo Luís Barreto Ferro Rodrigues - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 29 de Janeiro de 1997.**
+Promulgado em 29 de Janeiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Janeiro de 1997.**
+Referendado em 29 de Janeiro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

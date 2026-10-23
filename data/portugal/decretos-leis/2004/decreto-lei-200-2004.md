@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/200/2004/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2004-480702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b284438c43e04b1e6ac5ee018cdaf393504f0e2b50c5f3d74ad3386d6c5f1853
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29076e2377fce45eb390ee6694ba066579a9916b25853423b0095104c4eb8a03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,40 +65,103 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Insolvência
-- Liquidação Judicial
+- Administrador da Insolvência
 - Agrupamento Complementar de Empresas
 - Agrupamento Europeu de Interesse Económico
 - Ajuda Judicial
+- Assembleia de Credores
+- Benefícios Fiscais
+- Código da Insolvência e da Recuperação de Empresas
+- Comissão de Credores
 - Crime
+- Custas Judiciais
 - Decisão Judicial
 - Direito Internacional Privado
 - Extinção de Serviços
-- Assembleia de Credores
-- Titularização de Créditos
 - Garantias Reais
-- Pagamento
 - Impugnação
-- Código da Insolvência e da Recuperação de Empresas
-- Comissão de Credores
-- Sentença Declaratoria
-- Publicitação
+- Insolvência
 - Legitimidade
+- Liquidação Judicial
 - Notificação
+- Pagamento
 - Privilégio Creditório
+- Publicitação
 - Recuperação de Empresas
+- Recurso
 - Regulamento CE
 - Regulamento Emolumentar dos Registos e Notariado
-- Benefícios Fiscais
 - Responsabilidade Solidária
-- Administrador da Insolvência
-- Custas Judiciais
+- Sentença Declaratoria
+- Titularização de Créditos
 relationships:
 - type: amended_by
   target: pt:dre:200268065:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:637385:por
+  label: "Alterados os art.s 9º, 34º e 164º , na redacção do presente diploma, pelo DEC LEI.282/2007.07.08.2007.MJ, DR.IS\
+    \ [151] de 07.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/282-2007-637385
+  date: '2007-08-07'
+- type: amended_by
+  target: pt:dre:552804:por
+  label: "Alterados os art.s 35º, 36º, 53º, 82º e 233º do Código da Insolvência e da Recuperação de Empresas, aprovado pelo\
+    \ Dec Lei 53/2004, de 18-mar, na redacção do presente diploma, pela LEI.16/2012.20.04.2012.AR, DR.IS [79] de 20.04.2012\0\
+    2\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2012-552804
+  date: '2012-04-20'
+- type: amended_by
+  target: pt:dre:107596684:por
+  label: Alterados, a partir de 01.07.2017, os arts. 1.º, 7.º, 9.º, 14.º, 16.º, 17.º, 17.º-A, 17.º-B, 17.º-C, 17.º-D, 17.º-E,
+    17.º-F, 17.º-G, 17.º-H, 17.º-I, 25.º, 27.º, 32.º, 35.º, 36.º, 37.º, 38.º, 52.º, 86.º, 87.º, 120.º, 128.º, 129.º, 136.º,
+    139.º, 148.º, 150.º, 152.º, 154.º, 164.º, 182.º, 183.º, 185.º, 188.º, 191.º, 217.º, 220.º, 233.º, 236.º, 238.º, 239.º,
+    241.º, 248.º, 249.º, 264.º, 265.º, 275.º, 288.º, 291.º, 294.º e 296.º, aditados os arts. 17.º-J, 222.º-A, 222.º-B, 222.º-C,
+    222.º-D, 222.º-E, 222.º-F, 222.º-G, 222.º-H, 222.º-I, 222.º-J, e revogados o n.º 4 do art. 136.º, o n.º 5 do art. 226.º
+    e o título XIV, todos do Código da Insolvência e da Recuperação de Empresas, aprovado pelo Dec Lei 53/2004 de 18-mar,
+    na versão republicada pelo presente diploma, pelo Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I
+    de 2017-06-30, sem prejuízo do art. 6.º deste último
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2017-107596684
+  date: '2017-06-30'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Alterados os arts. 268.º e 269.º (ambos com a redação dada pela Lei 66-B/2012 de 31-dez) e revogada a al. b) do art.
+    269.º do Código da Insolvência e da Recuperação de Empresas, aprovado pelo Dec Lei 53/2004 de 18-mar, na versão republicada
+    pelo presente diploma, pelo(a) Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
+- type: amended_by
+  target: pt:dre:122747583:por
+  label: Alterados, a partir de 29.06.2019 e nos termos do art. 210.º, os arts. 28.º e 245.º do Código da Insolvência e da
+    Recuperação de Empresas, aprovado pelo Dec Lei 53/2004 de 18-mar, na versão republicada pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2019-122747583
+  date: '2019-06-28'
+- type: amended_by
+  target: pt:dre:176907512:por
+  label: Alterados, a partir de 30.01.2022, os arts. 55.º e 203.º e revogado o art. 204.º do Código da Insolvência e da Recuperação
+    de Empresas aprovado pelo Dec Lei 53/2004 de 18-mar, na versão republicada do Código pelo presente diploma, pelo(a) Lei
+    n.º 99-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/99-a-2021-176907512
+  date: '2021-12-31'
+- type: amended_by
+  target: pt:dre:177455547:por
+  label: Alterados a partir de 11.04.2022 os arts. 9.º, 17.º-C a 17.º-J, 18.º, 24.º, 38.º, 39.º, 48.º, 49.º, 55.º, 62.º, 88.º,
+    119.º, 128.º, 136.º, 150.º, 158.º, 164.º, 167.º, 169.º, 178.º, 182.º, 186.º, 188.º, 189.º, 195.º, 212.º, 217.º, 222.º-C
+    a 222.º-G, 222.º-I, 222.º-J, 230.º, 235.º, 237.º, 239.º, 241.º, 243.º, 244.º e 248.º aditados, na mesma data, os arts.
+    47.º-A, 241.º-A, 242.º-A e 248.º-A e revogado ainda a partir de 11.04.2022 o n.º 4 do art. 248.º do Código da Insolvência
+    e da Recuperação de Empresas aprovado em anexo ao Dec Lei 53/2004, de 18-mar na versão republicada pelo presente diploma
+    pelo(a) Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2022-177455547
+  date: '2022-01-11'
+- type: amended_by
+  target: pt:dre:200268065:por
+  label: Alterados, a partir de 26.08.2022, os arts. 129.º e 130.º do Código da Insolvência e da Recuperação de Empresas,
+    aprovado em anexo ao Dec Lei 53/2004 de 18-mar, na versão republicada pelo presente e posteriormente alterado, pelo(a)
+    Decreto-Lei n.º 57/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-2022-200268065
+  date: '2022-08-25'
 - type: cites
   target: celex:31986L0635
   label: null
@@ -116,15 +179,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/53/2004/03/18/p/dre
 article_structure:
-  article_count: 343
-  section_count: 57
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 307
+  section_count: 40
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:06Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +234,9 @@ São alterados os artigos 3.º, 9.º, 20.º, 24.º, 25.º, 30.º, 34.º, 35.º, 
 
 4 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -183,7 +248,9 @@ São alterados os artigos 3.º, 9.º, 20.º, 24.º, 25.º, 30.º, 34.º, 35.º, 
 
 5 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -213,7 +280,9 @@ h) ...
 
 2 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -225,13 +294,17 @@ b) ...
 
 3 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
 2 - O requerente deve ainda oferecer todos os meios de prova de que disponha, ficando obrigado a apresentar as testemunhas arroladas, cujo número não pode exceder os limites previstos no artigo 789.º do Código de Processo Civil.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - O devedor pode, no prazo de 10 dias, deduzir oposição, à qual é aplicável o disposto no n.º 2 do artigo 25.º
 
@@ -243,11 +316,15 @@ b) ...
 
 5 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 O disposto nos artigos 38.º, 58.º e 59.º e no n.º 6 do artigo 81.º aplica-se, respectivamente e com as necessárias adaptações, à publicidade e ao registo da nomeação do administrador judicial provisório e dos poderes que lhe forem atribuídos, à fiscalização do exercício do cargo e responsabilidade em que possa incorrer e ainda à eficácia dos actos jurídicos celebrados sem a sua intervenção, quando exigível.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Tendo havido oposição do devedor, ou tendo a audiência deste sido dispensada, é logo marcada audiência de discussão e julgamento para um dos cinco dias subsequentes, notificando-se o requerente e o devedor para comparecerem pessoalmente ou para se fazerem representar por quem tenha poderes para transigir.
 
@@ -265,7 +342,9 @@ O disposto nos artigos 38.º, 58.º e 59.º e no n.º 6 do artigo 81.º aplica-s
 
 8 - ...
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 ...
 
@@ -295,7 +374,9 @@ m) ...
 
 n) ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -305,7 +386,9 @@ n) ...
 
 4 - ...
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - ...
 
@@ -313,7 +396,9 @@ n) ...
 
 3 - ...
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - ...
 
@@ -321,7 +406,9 @@ n) ...
 
 3 - ...
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - ...
 
@@ -335,7 +422,9 @@ n) ...
 
 6 - ...
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - ...
 
@@ -355,7 +444,9 @@ b) ...
 
 7 - ...
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - ...
 
@@ -367,7 +458,9 @@ b) ...
 
 5 - As acções referidas nos n.os 2 a 4 correm por apenso ao processo de insolvência.
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - ...
 
@@ -375,7 +468,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos artigos seguintes, em qualquer contrato bilateral em que, à data da declaração de insolvência, não haja ainda total cumprimento nem pelo insolvente nem pela outra parte, o cumprimento fica suspenso até que o administrador da insolvência declare optar pela execução ou recusar o cumprimento.
 
@@ -385,13 +480,17 @@ b) ...
 
 4 - ...
 
-###### Artigo 106.º — [...]
+Artigo 106.º
+
+[...]
 
 1 - ...
 
 2 - ...
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - Se a entrega de mercadorias, ou a realização de prestações financeiras, que tenham um preço de mercado, tiver de se efectuar em determinada data ou dentro de certo prazo, e a data ocorrer ou o prazo se extinguir depois de declarada a insolvência, a execução não pode ser exigida por nenhuma das partes, e o comprador ou vendedor, consoante o caso, tem apenas direito ao pagamento da diferença entre o preço ajustado e o preço de mercado do bem ou prestação financeira no 2.º dia posterior ao da declaração de insolvência, relativamente a contratos com a mesma data ou prazo de cumprimento, a qual, sendo exigível ao insolvente, constitui crédito sobre a insolvência.
 
@@ -403,13 +502,17 @@ b) ...
 
 5 - ...
 
-###### Artigo 114.º — [...]
+Artigo 114.º
+
+[...]
 
 1 - O disposto no artigo anterior aplica-se aos contratos pelos quais o insolvente, sendo uma pessoa singular, esteja obrigado à prestação de um serviço, salvo se este se integrar na actividade da empresa de que for titular e não tiver natureza infungível.
 
 2 - Sem prejuízo do disposto no número anterior, aos contratos que tenham por objecto a prestação duradoura de um serviço pelo devedor aplica-se o disposto no artigo 111.º, com as necessárias adaptações, mas o dever de indemnizar apenas existe se for da outra parte a iniciativa da denúncia.
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 1 - ...
 
@@ -417,13 +520,17 @@ b) ...
 
 3 - ...
 
-###### Artigo 121.º — [...]
+Artigo 121.º
+
+[...]
 
 1 - ...
 
 2 - O disposto no número anterior cede perante normas legais que excepcionalmente exijam sempre a má fé ou a verificação de outros requisitos.
 
-###### Artigo 131.º — [...]
+Artigo 131.º
+
+[...]
 
 1 - ...
 
@@ -431,11 +538,15 @@ b) ...
 
 3 - A resposta deve ser apresentada dentro dos 10 dias subsequentes ao termo do prazo referido no artigo anterior ou à notificação ao titular do crédito objecto da impugnação, consoante o caso, sob pena de a impugnação ser julgada procedente.
 
-###### Artigo 133.º — [...]
+Artigo 133.º
+
+[...]
 
 Durante o prazo fixado para as impugnações e as respostas, e a fim de poderem ser examinados por qualquer interessado e pela comissão de credores, deve o administrador da insolvência patentear as reclamações de créditos, os documentos que as instruam e os documentos da escrituração do insolvente no local mais adequado, o qual é objecto de indicação no final nas listas de credores reconhecidos e não reconhecidos.
 
-###### Artigo 134.º — [...]
+Artigo 134.º
+
+[...]
 
 1 - Às impugnações e às respostas é aplicável o disposto no n.º 2 do artigo 25.º
 
@@ -447,7 +558,9 @@ Durante o prazo fixado para as impugnações e as respostas, e a fim de poderem 
 
 5 - ...
 
-###### Artigo 141.º — [...]
+Artigo 141.º
+
+[...]
 
 1 - ...
 
@@ -465,7 +578,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 164.º — [...]
+Artigo 164.º
+
+[...]
 
 1 - ...
 
@@ -479,7 +594,9 @@ c) ...
 
 6 - ...
 
-###### Artigo 174.º — [...]
+Artigo 174.º
+
+[...]
 
 1 - ...
 
@@ -493,7 +610,9 @@ b) ...
 
 c) ...
 
-###### Artigo 180.º — [...]
+Artigo 180.º
+
+[...]
 
 1 - ...
 
@@ -503,17 +622,23 @@ c) ...
 
 4 - Sendo o protesto posterior à efectivação de algum rateio, deve ser atribuído aos credores em causa, em rateios ulteriores, o montante adicional necessário ao restabelecimento da igualdade com os credores equiparados, sem prejuízo da manutenção desse montante em depósito se a acção não tiver ainda decisão definitiva.
 
-###### Artigo 184.º — [...]
+Artigo 184.º
+
+[...]
 
 1 - ...
 
 2 - Se o devedor não for uma pessoa singular, o administrador da insolvência entrega às pessoas que nele participem a parte do saldo que lhes pertenceria se a liquidação fosse efectuada fora do processo de insolvência, ou cumpre o que de diverso estiver a este respeito legal ou estatutariamente previsto.
 
-###### Artigo 185.º — [...]
+Artigo 185.º
+
+[...]
 
 A insolvência é qualificada como culposa ou fortuita, mas a qualificação atribuída não é vinculativa para efeitos da decisão de causas penais, nem das acções a que se reporta o n.º 2 do artigo 82.º
 
-###### Artigo 198.º — [...]
+Artigo 198.º
+
+[...]
 
 1 - ...
 
@@ -531,7 +656,9 @@ b) Tais medidas pudessem, segundo a lei e o pacto da sociedade, ser deliberadas 
 
 6 - ...
 
-###### Artigo 209.º — [...]
+Artigo 209.º
+
+[...]
 
 1 - ...
 
@@ -539,7 +666,9 @@ b) Tais medidas pudessem, segundo a lei e o pacto da sociedade, ser deliberadas 
 
 3 - O Plano de insolvência aprovado antes do trânsito em julgado da sentença de verificação e graduação dos créditos acautela os efeitos da eventual procedência das impugnações da lista de credores reconhecidos ou dos recursos interpostos dessa sentença, de forma a assegurar que, nessa hipótese, seja concedido aos créditos controvertidos o tratamento devido.
 
-###### Artigo 212.º — [...]
+Artigo 212.º
+
+[...]
 
 1 - A proposta de plano de insolvência considera-se aprovada se, estando presentes ou representados na reunião credores cujos créditos constituam, pelo menos, um terço do total dos créditos com direito de voto, recolher mais de dois terços da totalidade dos votos emitidos e mais de metade dos votos emitidos correspondentes a créditos não subordinados, não se considerando como tal as abstenções.
 
@@ -549,7 +678,9 @@ b) Tais medidas pudessem, segundo a lei e o pacto da sociedade, ser deliberadas 
 
 4 - ...
 
-###### Artigo 231.º — [...]
+Artigo 231.º
+
+[...]
 
 1 - ...
 
@@ -557,7 +688,9 @@ b) Tais medidas pudessem, segundo a lei e o pacto da sociedade, ser deliberadas 
 
 3 - ...
 
-###### Artigo 233.º — [...]
+Artigo 233.º
+
+[...]
 
 1 - ...
 
@@ -575,7 +708,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 292.º — [...]
+Artigo 292.º
+
+[...]
 
 É liberatório o pagamento efectuado em Portugal ao devedor na ignorância da declaração de insolvência, presumindo-se o conhecimento da declaração de insolvência à qual tenha sido dada publicidade, nos termos do artigo 290.º»
 
@@ -589,19 +724,19 @@ O presente diploma entra em vigor em 15 de Setembro de 2004.
 
 Visto e aprovado em Conselho de Ministros de 1 de Julho de 2004. - Maria Manuela Dias Ferreira Leite - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - António José de Castro Bagão Félix.
 
-**Promulgado em 2 de Agosto de 2004.**
+Promulgado em 2 de Agosto de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Agosto de 2004.**
+Referendado em 5 de Agosto de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS
 
-## TÍTULO I
+TÍTULO I
 
 Disposições introdutórias
 
@@ -761,7 +896,7 @@ Para efeitos processuais, o valor da causa é determinado sobre o valor do activ
 
 O processo de insolvência rege-se pelo Código de Processo Civil em tudo o que não contrarie as disposições do presente Código.
 
-## TÍTULO II
+TÍTULO II
 
 Declaração da situação de insolvência
 
@@ -1131,7 +1266,7 @@ A revogação da sentença de declaração de insolvência não afecta os efeito
 
 Contra a sentença que indefira o pedido de declaração de insolvência só pode reagir o próprio requerente, e unicamente através de recurso.
 
-## TÍTULO III
+TÍTULO III
 
 Massa insolvente e intervenientes no processo
 
@@ -1469,7 +1604,7 @@ O administrador da insolvência presta à assembleia, a solicitação desta, inf
 
 Todas as deliberações da comissão de credores são passíveis de revogação pela assembleia e a existência de uma deliberação favorável da assembleia autoriza por si só a prática de qualquer acto para o qual neste Código se requeira a aprovação da comissão de credores.
 
-## TÍTULO IV
+TÍTULO IV
 
 Efeitos da declaração de insolvência
 
@@ -1977,7 +2112,7 @@ O direito de impugnar a resolução caduca no prazo de seis meses, correndo a ac
 
 3 - Julgada procedente a acção de impugnação, o interesse do credor que a tenha instaurado é aferido, para efeitos do artigo 616.º do Código Civil, com abstracção das modificações introduzidas ao seu crédito por um eventual plano de insolvência ou de pagamentos.
 
-## TÍTULO V
+TÍTULO V
 
 Verificação dos créditos.
 
@@ -2173,7 +2308,7 @@ c) Para a satisfação do crédito referido na última parte da alínea anterior
 
 As acções a que se refere o presente capítulo correm por apenso aos autos da insolvência e seguem, qualquer que seja o seu valor, os termos do processo sumário, ficando as respectivas custas a cargo do autor, caso não venha a ser deduzida contestação.
 
-## TÍTULO VI
+TÍTULO VI
 
 Administração e liquidação da massa insolvente
 
@@ -2405,7 +2540,7 @@ O processado relativo à liquidação constitui um apenso ao processo de insolv�
 
 2 - A dispensa da liquidação supõe uma solicitação nesse sentido por parte do administrador da insolvência, com o acordo prévio do devedor, ficando a decisão sem efeito se o devedor não fizer entrega da importância fixada pelo juiz, no prazo de oito dias.
 
-## TÍTULO VII
+TÍTULO VII
 
 Pagamento aos credores
 
@@ -2503,7 +2638,7 @@ b) Não se verificando a situação descrita na alínea anterior, o administrado
 
 2 - Se o devedor não for uma pessoa singular, o administrador da insolvência entrega às pessoas que nele participem a parte do saldo que lhes pertenceria se a liquidação fosse efectuada fora do processo de insolvência, ou cumpre o que de diverso estiver a este respeito legal ou estatutariamente previsto.
 
-## TÍTULO VIII
+TÍTULO VIII
 
 Incidentes de qualificação da insolvência
 
@@ -2605,7 +2740,7 @@ c) Da sentença que qualifique a insolvência como culposa constam apenas as men
 
 2 - É aplicável o disposto no artigo 83.º na medida do necessário ou conveniente para a elaboração do parecer do administrador da insolvência, sendo-lhe designadamente facultado o exame a todos os elementos da contabilidade do devedor.
 
-## TÍTULO IX
+TÍTULO IX
 
 Plano de insolvência
 
@@ -2921,7 +3056,7 @@ c) Informa de imediato o juiz e a comissão de credores, ou, não existindo esta
 
 2 - A confirmação pelo juiz do fim do período de fiscalização é publicada e registada, nos termos previstos para a decisão de encerramento do processo de insolvência.
 
-## TÍTULO X
+TÍTULO X
 
 Administração pelo devedor
 
@@ -2995,7 +3130,7 @@ e) Se o plano de insolvência não for apresentado pelo devedor no prazo aplicá
 
 A atribuição ao devedor da administração da massa insolvente, a proibição da prática de certos actos sem o consentimento do administrador da insolvência e a decisão que ponha termo a essa administração são objecto de publicidade e registo, nos termos constantes do artigo 38.º
 
-## TÍTULO XI
+TÍTULO XI
 
 Encerramento do processo
 
@@ -3071,7 +3206,7 @@ c) A extinção da instância das acções pendentes contra os responsáveis leg
 
 4 - No caso de encerramento por insuficiência da massa, a liquidação da sociedade prossegue, nos termos gerais.
 
-## TÍTULO XII
+TÍTULO XII
 
 Disposições específicas da insolvência de pessoas singulares
 
@@ -3449,7 +3584,7 @@ c) Sendo a oposição julgada procedente, o incidente do plano de pagamentos seg
 
 Os bens comuns e os bens próprios de cada um dos cônjuges são inventariados, mantidos e liquidados em separado.
 
-## TÍTULO XIII
+TÍTULO XIII
 
 Benefícios emolumentares e fiscais
 
@@ -3493,7 +3628,7 @@ c) As que decorram da dação em cumprimento de bens da empresa e da cessão de 
 
 2 - Estão igualmente isentas de imposto municipal sobre as transmissões onerosas de imóveis os actos de venda, permuta ou cessão da empresa ou de estabelecimentos desta integrados no âmbito de plano de insolvência ou de pagamentos ou praticados no âmbito da liquidação da massa insolvente.
 
-## TÍTULO XIV
+TÍTULO XIV
 
 Execução do Regulamento (CE) n.º [1346/2000](http://data.europa.eu/eli/reg/2000/1346/oj?locale=pt), do Conselho, de 29 de Maio
 
@@ -3523,7 +3658,7 @@ Sempre que do processo resulte a existência de bens do devedor situados noutro 
 
 3 - A publicação prevista no n.º 1 do artigo 21.º do Regulamento é determinada oficiosamente se o devedor for titular de estabelecimento situado em Portugal.
 
-## TÍTULO XV
+TÍTULO XV
 
 Normas de conflitos
 
@@ -3663,7 +3798,7 @@ c) Não são aplicáveis as disposições sobre exoneração do passivo restante
 
 6 - Satisfeitos integralmente os créditos sobre a insolvência, a importância remanescente é remetida ao administrador do processo principal.
 
-## TÍTULO XVI
+TÍTULO XVI
 
 Indiciação de infracção penal
 
@@ -3689,7 +3824,7 @@ Na instrução e julgamento das infracções referidas no n.º 1 do artigo 297.�
 
 2 - A remessa da certidão deve ser ordenada na própria decisão proferida no processo penal.
 
-## TÍTULO XVII
+TÍTULO XVII
 
 Disposições finais
 

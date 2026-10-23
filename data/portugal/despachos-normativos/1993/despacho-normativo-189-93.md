@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/189/1993/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/189-1993-358301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T08:02:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7736fe91ba4601036156ec1fc74853c7876e1e13fdc5b9ced6383547c6c8b25d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c9fa360e23a8f45d6ad8c647989702a4597c0d01ee1e4ff512de5d54e87efe1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:02:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
-- Ensino Nocturno
 - Educação dos Adultos
-- Interpretação do Direito
 - Ensino Básico
+- Ensino Nocturno
+- Interpretação do Direito
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:354678:por
@@ -87,16 +87,63 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/193/1991/09/05/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/193/1991/09/05/p/dre
+- type: cites
+  target: pt:dre:219124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612219:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:451194:por
+  label: "Rectificado o n.º 39.4 pela DECL-RECT.188/93.30.09.1993.PCM, DR.IS-B [230]3ºSupl de 30.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/188-1993-451194
+  date: '1993-09-30'
+- type: repealed_by
+  target: pt:dre:354678:por
+  label: "Revogados os n.ºs 3.4, 3.4.1, 3.4.2, 13, c), 14, 16.2, 16.2.1, 18.1, 18.2, 18.3, 18.4, 23, 23.1, 24, 25, 26, 26.1,\
+    \ 27, 27.1, 28, 28.1, 29 e 30, pelo DN.36/99.1999.06.28.ME DR.IS-B [169] DE 22/JUL/1999o\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/36-1999-354678
+  date: '1999-06-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:02:00Z'
   warnings: []
   errors: []
 ---
@@ -381,4 +428,4 @@ Ministério da Educação, 6 de Julho de 1993. - O Ministro da Educação, Antó
 
 ## ANEXO I — Plano curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/184b00/42394243.pdf))](https://files.diariodarepublica.pt/1s/1993/08/184b00/42394243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/184b00/42394243.pdf)

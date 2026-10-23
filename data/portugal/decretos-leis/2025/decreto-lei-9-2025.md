@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/9/2025/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2025-907097147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54001e4d3970f4e04db92c79ee32a1a95ee3b0f022f6778c5296923c65eda734
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abeba76fa18b5ff28646383728db32c77685a5d7d41dcf8211dcd85bc0637857
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CAE
-- Instituto Nacional de Estatística
 - Conselho Superior de Estatística
+- Instituto Nacional de Estatística
 - Regulamento CE
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:247-B/2008
+  label: Altera, com efeitos a partir de 1 de janeiro de 2025, o artigo 19.º do Decreto-Lei n.º 247-B/2008, de 30 de dezembro,
+    Diário da República n.º 251/2008, 1º Suplemento, Série I
+  source: null
+  date: '2008-12-30'
 - type: cites
   target: celex:32006R1893
   label: null
@@ -90,16 +96,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66/2018/12/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/66/2018/12/03/p/dre
+- type: cites
+  target: pt:dre:117202784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629150:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:381/2007
+  label: Revoga, com efeitos a partir de 1 de janeiro de 2025, o Decreto-Lei n.º 381/2007, de 14 de novembro, Diário da República
+    n.º 219/2007, Série I
+  source: null
+  date: '2007-11-14'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:28Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +154,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 1 - O presente decreto-lei estabelece a Classificação Portuguesa das Atividades Económicas, Revisão 4, adiante designada por CAE-Rev.4, que constitui o quadro comum de classificação de atividades económicas a adotar a nível nacional, assegurando a execução na ordem jurídica do [Regulamento Delegado (UE) 2023/137](https://data.europa.eu/eli/reg/2023/137/oj?locale=pt) da Comissão, de 10 de outubro, que altera o [Regulamento (CE) n.º 1893/2006](https://data.europa.eu/eli/reg/2006/1893/oj?locale=pt) do Parlamento Europeu e do Conselho, que estabelece a nomenclatura estatística das Atividades Económicas da Comunidade Europeia (NACE) Revisão 2 ([Regulamento Delegado (UE) 2023/137](https://data.europa.eu/eli/reg/2023/137/oj?locale=pt) da Comissão).
 
-2 - O presente decreto-lei procede, ainda, à terceira alteração ao [Decreto-Lei n.º 247-B/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), de 30 de dezembro, alterado pelos Decretos-Leis n.<sup>os</sup>201/2015, de 17 de setembro, e 68/2017, de 16 de junho, que cria e regula o cartão da empresa e o Sistema de Informação da Classificação Portuguesa de Atividades Económicas.
+2 - O presente decreto-lei procede, ainda, à terceira alteração ao [Decreto-Lei n.º 247-B/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), de 30 de dezembro, alterado pelos Decretos-Leis n.os201/2015, de 17 de setembro, e 68/2017, de 16 de junho, que cria e regula o cartão da empresa e o Sistema de Informação da Classificação Portuguesa de Atividades Económicas.
 
 ###### Artigo 2.º — Estrutura
 
@@ -192,15 +216,15 @@ O presente decreto-lei produz efeitos a 1 de janeiro de 2025.
 
 Visto e aprovado em Conselho de Ministros de 16 de janeiro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Rita Alarcão Júdice.
 
-**Promulgado em 3 de fevereiro de 2025.**
+Promulgado em 3 de fevereiro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de fevereiro de 2025.**
+Referendado em 6 de fevereiro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -1514,3 +1538,7 @@ Visto e aprovado em Conselho de Ministros de 16 de janeiro de 2025. - Luís Mont
 |  |  | 982 | 9820 | 98200 | Atividades de produção de serviços pelas famílias para uso próprio. |
 | V |  |  |  |  | Atividades dos organismos internacionais e outras instituições extraterritoriais. |
 |  | 99 | 990 | 9900 | 99000 | Atividades dos organismos internacionais e outras instituições extraterritoriais. |
+
+118666746
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:28px; } .Tbl13 { min-height:29px; } .Tbl14 { min-height:19px; } .Tbl15 { min-height:27px; } .Tbl16 { min-height:38px; }

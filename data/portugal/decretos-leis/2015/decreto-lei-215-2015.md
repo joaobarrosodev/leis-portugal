@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/19500/0860608607.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/215/2015/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2015-70462181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da59aa751e8334102f0e70a16b3a63ec54214575a0bcd1945f4e9b81ea6a4d03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d7eb646ae3324da84913380c1e9deec6bbb73d4d8e168c27a34cd5eac7edca2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,55 +67,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Agência para o Desenvolvimento e Coesão
 - Ajuda Comunitária
-- Financiamento
+- Base de Dados
+- CIC Portugal 2020
+- Desenvolvimento Económico
 - Desenvolvimento Rural
-- Gestão Financeira
 - Desenvolvimento Social
 - Feader
-- Gestão Administrativa
-- União Europeia
 - FEDER
+- Financiamento
 - Formulário Eletrónico
+- FSE
 - Fundo de Coesão
-- Projeto de Investimento
 - Fundos CE
-- Base de Dados
+- Gestão Administrativa
+- Gestão Financeira
 - Investimento
 - Investimento Público
-- FSE
-- Desenvolvimento Económico
-- Sistema de Informação
-- Proderam
-- Prorural
-- Programa Operacional
 - Madeira.região Autónoma
-- Regime Jurídico
-- Açores
-- Subsídio
 - PDR 2020
 - PORTUGAL 2020
-- CIC Portugal 2020
+- Proderam
+- Programa Operacional
+- Projeto de Investimento
+- Prorural
+- Regime Jurídico
+- Sistema de Informação
+- Subsídio
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:224728395:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:124283151:por
+  label: Alterados, nos termos do art. 4.º, os arts. 21.º e 25.º do Dec Lei 159/2014, de 27-out, na redação do presente diploma,
+    pelo(a) Decreto-Lei n.º 127/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-2019-124283151
+  date: '2019-08-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/159/2014/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/159/2014/10/27/p/dre
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:38Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +174,9 @@ Os artigos 20.º, 21.º, 24.º, 25.º e 26.º do [Decreto-Lei n.º 159/2014](htt
 
 9 - Sem prejuízo do prazo legalmente previsto para a audiência dos interessados, em caso de apresentação de alegações o prazo previsto no n.º 1 pode ser alargado até 40 dias úteis.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...].
 
@@ -172,7 +184,9 @@ Os artigos 20.º, 21.º, 24.º, 25.º e 26.º do [Decreto-Lei n.º 159/2014](htt
 
 3 - Com a assinatura do termo de aceitação ou com a celebração do contrato, os titulares dos órgãos de direção, de administração ou de gestão e outras pessoas que exerçam funções de administração ou de gestão ficam subsidiariamente responsáveis pelo cumprimento das obrigações previstas no artigo 24.º, sem prejuízo do disposto no n.º 3 daquele artigo.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...].
 
@@ -180,7 +194,9 @@ Os artigos 20.º, 21.º, 24.º, 25.º e 26.º do [Decreto-Lei n.º 159/2014](htt
 
 3 - A responsabilidade subsidiária pela reposição de montantes prevista na alínea f) do n.º 1 cabe aos titulares dos órgãos de direção, de administração ou de gestão, e a outras pessoas que exerçam funções de administração ou de gestão, em exercício de funções à data da prática dos factos que a determinem.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...].
 
@@ -206,7 +222,9 @@ Os artigos 20.º, 21.º, 24.º, 25.º e 26.º do [Decreto-Lei n.º 159/2014](htt
 
 12 - Para os projetos cofinanciados pelo FSE, em situações excecionais, devidamente fundamentadas, pode ser fixado, por deliberação da CIC Portugal 2020, um sistema de financiamento específico.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...].
 
@@ -246,12 +264,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de setembro de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Maria de Barros Serra Marques Guedes - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 1 de outubro de 2015.**
+Promulgado em 1 de outubro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de outubro de 2015.**
+Referendado em 5 de outubro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

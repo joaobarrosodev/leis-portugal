@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-1975-160293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T04:38:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e012f9968a1fa30a3fbc131d69f562c30f69963bfb40918609c088eb68ddec53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 174fea803e19c1caa9e207c12084d2be2e60417c40ddeadcb058213b8ac534a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:38:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:38:36Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +90,7 @@ Gabinete Militar do Comandante-Chefe de Cabo Verde
 
 Quadro orgânico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/02/04200/02610261.pdf))](https://files.diariodarepublica.pt/1s/1975/02/04200/02610261.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/02/04200/02610261.pdf)
 
 Estado-Maior-General das Forças Armadas, 29 de Janeiro de 1975. - O Chefe do Estado-Maior-General das Forças Armadas, Francisco da Costa Gomes. - O Ministro da Coordenação Interterritorial, António de Almeida Santos.
 

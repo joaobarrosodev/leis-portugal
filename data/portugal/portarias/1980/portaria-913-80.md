@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/913-1980-457637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:32:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 579f1bde8d4047ab692be8a4599efbf1801d3366d668b48103df256974aaa979
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f11c1c886e1c1bbe57b7f3527b2e8a38cb833f9e0bf5dfd17f3dce1468167047
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:32:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto
+- Instituto do Trabalho Portuário
+- Trabalhador Portuário
+relationships:
+- type: cites
+  target: pt:dre:364171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631274:por
+  label: null
+  source: null
 article_structure:
-  article_count: 72
+  article_count: 75
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:32:10Z'
   warnings: []
   errors: []
 ---
@@ -254,7 +265,9 @@ A regulamentação do sistema de avaliação do pessoal constará de regulamento
 
 ### CAPÍTULO VI — Condições de provimento
 
-#### SECÇÃO I — Artigo 23.º
+#### SECÇÃO I
+
+###### Artigo 23.º
 
 Condições gerais
 
@@ -278,7 +291,9 @@ Os lugares do quadro do ITP podem ser providos de entre os trabalhadores existen
 
 3 - O tempo de duração da comissão de serviço conta para efeito de antiguidade na categoria de origem.
 
-#### SECÇÃO 2 — Artigo 27.º
+#### SECÇÃO 2
+
+###### Artigo 27.º
 
 Provimento de cargos em comissão de serviço
 
@@ -292,7 +307,9 @@ Provimento de cargos em comissão de serviço
 
 O cargo de secretário do conselho directivo, quando provido nos termos do n.º 1 do artigo 25.º, sê-lo-á por trabalhador do leque de categorias do ITP de categoria não inferior a escriturário de grau 2, sob proposta de um membro do conselho directivo.
 
-#### SECÇÃO 3 — Artigo 29.º
+#### SECÇÃO 3
+
+###### Artigo 29.º
 
 Preenchimento de lugares do quadro
 
@@ -652,6 +669,6 @@ Nos casos em que o conselho directivo entender justificado o uso de fardamento p
 
 1 - A integração dos trabalhadores do ITP nas novas categorias far-se-á de acordo com a seguinte tabela de equivalências:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/25100/36623671.pdf))](https://files.diariodarepublica.pt/1s/1980/10/25100/36623671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/25100/36623671.pdf)
 
 2 - No caso de desdobramento das categorias actualmente existentes, a integração nas novas categorias far-se-á tendo em consideração as funções efectivamente desempenhadas pelos trabalhadores.

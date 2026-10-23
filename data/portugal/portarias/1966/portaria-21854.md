@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21854-1966-489557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:13:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31475d0d9ce22d42cc91f739945b032fe1f586845487e20018121dfbea7e06ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2fff861d5cad64b17fc46199177f836060ae1a17698d209fc68e7acb11464bc2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:13:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:13:03Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +103,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 238.º «Deslocações de pessoal»:
+Artigo 238.º «Deslocações de pessoal»:
 
 N.º 2), alínea a) «Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole» ... 20000$00
 
@@ -101,7 +113,7 @@ Alínea a), 1) «Por motivo de licença graciosa - A pagar na metrópole» ... 7
 
 Alínea b), 1) «Por quaisquer outros motivos - A pagar na metrópole» ... 1400000$00
 
-###### Artigo 239.º, n.º 6), alínea a) «Diversas despesas - Despesas com valores selados e postais - A pagar na metrópole» ... 20000$00
+Artigo 239.º, n.º 6), alínea a) «Diversas despesas - Despesas com valores selados e postais - A pagar na metrópole» ... 20000$00
 
 ... 2190000$00
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/182/2003/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2003-660297
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6643082e2e5775ab6cefc6507de7c810eeed1be3d53eb874ff8a3c13fe90d9d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71644fef933ed5855b7d8bbdf4db0d852d170a91744133bdc424e64c91d5cbd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Estrada
-- Rede de Estradas
-- Estrada Regional
-- Classificação de Estradas
+- Autarquia Local
 - Auto-estrada
+- Classificação de Estradas
+- Estrada
+- Estrada Regional
+- Ordenamento do Território
+- Rede de Estradas
 - Segurança Rodoviária
 - Trânsito
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:932559322:por
@@ -87,16 +87,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/1999/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/1999/07/26/p/dre
+- type: cites
+  target: pt:dre:353346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424689:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:30Z'
   warnings: []
   errors: []
 ---
@@ -139,31 +147,31 @@ LISTA I
 
 Rede fundamental (itinerários principais)
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)
+[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)
 
 LISTA II
 
 Rede complementar (itinerários complementares)
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)
+[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)
 
 LISTA III
 
 Rede complementar (estradas nacionais)
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)
+[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)
 
 LISTA IV
 
 Rede nacional de auto-estradas
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)
+[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)
 
 LISTA V
 
 Estradas regionais
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)
+[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)
 
 b) São acrescentadas as seguintes estradas:
 
@@ -171,13 +179,13 @@ LISTA III
 
 Rede complementar (estradas nacionais)
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)
+[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)
 
 LISTA V
 
 Estradas regionais
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)
+[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)
 
 c) São retiradas as seguintes estradas:
 
@@ -185,13 +193,13 @@ LISTA III
 
 Rede complementar (estradas nacionais)
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)
+[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)
 
 LISTA V
 
 Estradas regionais
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)
+[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51155117.pdf)
 
 ###### Artigo 2.º — Entrada em vigor
 
@@ -199,12 +207,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Junho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Pedro de Nobre Carmona Rodrigues - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 24 de Julho de 2003.**
+Promulgado em 24 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Agosto de 2003.**
+Referendado em 4 de Agosto de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

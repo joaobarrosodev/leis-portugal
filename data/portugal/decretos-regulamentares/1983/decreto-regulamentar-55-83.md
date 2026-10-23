@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14200/22442248.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,108 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1983-452503
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4997ef02d1684eccd2ceddde3d27416989c3ab6ab62ce0df11b5457126dda0a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5fd3aa16e0aae01a0887ded41629124de427429a897810a217febb84cf918a6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete de Gestão Financeira
+- Ministério da Justiça
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:314190:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:466843:por
+  label: Alterado, no referente ao pessoal técnico superior, o quadro de pessoal pelo(a) Despacho Normativo n.º 56/91 - Diário
+    da República n.º 52/1991, Série I-B de 1991-03-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/56-1991-466843
+  date: '1991-03-04'
+- type: amended_by
+  target: pt:dre:466846:por
+  label: Alterado, no referente ao pessoal técnico superior, o quadro de pessoal aprovado pelo presente diploma, pelo(a) Despacho
+    Normativo n.º 55/91 - Diário da República n.º 52/1991, Série I-B de 1991-03-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/55-1991-466846
+  date: '1991-03-04'
+- type: amended_by
+  target: pt:dre:584669:por
+  label: "ALTERADO O QUADRO DE PESSOAL DO GABINETE DE GESTAO FINANCEIRA MINISTERIO DA JUSTICA PELA PORT 1063/92 DE 18-NOV\
+    \ DR.IS-B [267]\067]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1063-1992-584669
+  date: '1992-11-18'
+- type: amended_by
+  target: pt:dre:178540:por
+  label: "Alterado o quadro de pessoal pela PORT.627/96.1996.11.05.PCM DR.IS-B [256]\06]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/627-1996-178540
+  date: '1996-11-05'
+- type: amended_by
+  target: pt:dre:2167154:por
+  label: "Alterado o quadro de pessoal pela PORT.794/99(2ªSÉRIE).1999.05.23.PCM, DR.IIS [183] de 07/Ago/1999\01999\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/794-1999-2167154
+  date: '1999-05-23'
+- type: amended_by
+  target: pt:dre:320560:por
+  label: "Extinto, com a entrada em vigor do diploma orgânico do serviço ou entidade que lhe suceder nas competências, o Gabinete\
+    \ de Gestão Financeira pelo DEC LEI.146/2000.2000.07.18.MJ,DR.IS-A [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/146-2000-320560
+  date: '2000-07-18'
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475299:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:314190:por
+  label: "Revogado, sem prejuízo das disposições relativas a serviços e pessoal, pelo DEC LEI.156/2001.11.05.2001.MJ, DR.IS-A\
+    \ [109] de 11.05.2001, até serem publicadas as portarias referidas no art. 4º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-2001-314190
+  date: '2001-05-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:58Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +162,7 @@ O Governo decreta, nos termos do alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Estrutura geral
 
-###### Artigo 1.º - 1 - O Gabinete de Gestão Financeira (GGF) dispõe de serviços operativos e de serviços de apoio.
+Artigo 1.º - 1 - O Gabinete de Gestão Financeira (GGF) dispõe de serviços operativos e de serviços de apoio.
 
 2 - São serviços operativos:
 
@@ -106,7 +174,7 @@ b) A Direcção de Serviços de Gestão Económica e Financeira.
 
 ### CAPÍTULO II — Serviços operativos
 
-###### Art. 2.º - 1 - Compete à Direcção de Serviços de Estudos de Planeamento, Orçamento e Contas coordenar a gestão dos serviços financeiros do Cofre Geral dos Tribunais e do Cofre dos Conservadores, Notários e Funcionários de Justiça.
+Art. 2.º - 1 - Compete à Direcção de Serviços de Estudos de Planeamento, Orçamento e Contas coordenar a gestão dos serviços financeiros do Cofre Geral dos Tribunais e do Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
 2 - A Direcção de Serviços de Estudos de Planeamento, Orçamento e Contas compreende os seguintes serviços:
 
@@ -114,7 +182,7 @@ a) Divisão de Planeamento Orçamental e Conta;
 
 b) Divisão de Apoio Jurídico, Organização e Informática.
 
-###### Art. 3.º Compete à Divisão de Planeamento Orçamental e Conta:
+Art. 3.º Compete à Divisão de Planeamento Orçamental e Conta:
 
 a) Elaborar as instruções necessárias à preparação e execução dos orçamentos do Cofre Geral dos Tribunais e do Cofre dos Conservadores, Notários e Funcionários de Justiça e dos orçamentos das delegações;
 
@@ -128,7 +196,7 @@ e) Dirigir as operações de regularização e encerramento das contas de gerên
 
 f) Organizar o balanço anual do Cofre Geral dos Tribunais e do Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
-###### Art. 4.º - 1 - A competência da Divisão de Apoio Jurídico, Organização e Informática exerce-se nas áreas de apoio jurídico, de organização e de informática, de acordo com o disposto nos números seguintes.
+Art. 4.º - 1 - A competência da Divisão de Apoio Jurídico, Organização e Informática exerce-se nas áreas de apoio jurídico, de organização e de informática, de acordo com o disposto nos números seguintes.
 
 2 - Compete-lhe, na área de apoio jurídico:
 
@@ -154,7 +222,7 @@ c) Efectuar os estudos de viabilidade e acompanhar o desenvolvimento dos project
 
 d) Definir os boletins de recolha de dados, de acordo com os registos de aplicação.
 
-###### Art. 5.º - 1 - Compete à Direcção de Serviços de Gestão Económica e Financeira dirigir a movimentação dos recursos financeiros do Cofre Geral dos Tribunais e do Cofre dos Conservadores, Notários e Funcionários de Justiça.
+Art. 5.º - 1 - Compete à Direcção de Serviços de Gestão Económica e Financeira dirigir a movimentação dos recursos financeiros do Cofre Geral dos Tribunais e do Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
 2 - A Direcção de Serviços de Gestão Económica e Financeira compreende os seguintes serviços:
 
@@ -162,7 +230,7 @@ a) Repartição de Processamentos;
 
 b) Repartição de Serviços Gerais.
 
-###### Art. 6.º - 1 - À Repartição de Processamentos compete promover a execução dos despachos relativos a despesas referentes aos conservadores, notários e funcionários de justiça.
+Art. 6.º - 1 - À Repartição de Processamentos compete promover a execução dos despachos relativos a despesas referentes aos conservadores, notários e funcionários de justiça.
 
 2 - A Repartição de Processamentos compreende os seguintes serviços:
 
@@ -182,7 +250,7 @@ a) Processar os vencimentos aos funcionários de justiça;
 
 b) Processar e tratar do expediente relativo a abonos de família dos funcionários de justiça aposentados.
 
-###### Art. 7.º - 1 - À Repartição de Serviços Gerais compete promover a execução dos despachos relativos a despesas não incluídas na competência da Repartição de Processamentos.
+Art. 7.º - 1 - À Repartição de Serviços Gerais compete promover a execução dos despachos relativos a despesas não incluídas na competência da Repartição de Processamentos.
 
 2 - A Repartição de Serviços Gerais compreende os seguintes serviços:
 
@@ -208,7 +276,7 @@ c) Promover, nos termos a fixar por despacho do Ministro da Justiça, a realiza�
 
 ### CAPÍTULO III — Serviços de apoio
 
-###### Art. 8.º - 1 - Compete à Direcção de Serviços de Administração garantir o apoio técnico-administrativo no que se refere à gestão económica e financeira, à gestão do pessoal e dos bens patrimoniais do GGF e, bem assim, ao movimento geral do expediente.
+Art. 8.º - 1 - Compete à Direcção de Serviços de Administração garantir o apoio técnico-administrativo no que se refere à gestão económica e financeira, à gestão do pessoal e dos bens patrimoniais do GGF e, bem assim, ao movimento geral do expediente.
 
 2 - A Direcção de Serviços de Administração compreende os seguintes serviços:
 
@@ -216,7 +284,7 @@ a) Repartição de Verificação de Encargos;
 
 b) Repartição Administrativa.
 
-###### Art. 9.º - 1 - Compete à Repartição de Verificação de Encargos garantir o apoio técnico e administrativo no que concerne à gestão económica e financeira.
+Art. 9.º - 1 - Compete à Repartição de Verificação de Encargos garantir o apoio técnico e administrativo no que concerne à gestão económica e financeira.
 
 2 - A Repartição de Verificação de Encargos compreende os seguintes serviços:
 
@@ -246,7 +314,7 @@ b) Efectuar os pagamentos e recebimentos devidamente autorizados.
 
 5 - Compete à Secção de Verificação de Comparticipações processar as despesas e proceder ao cálculo das comparticipações devidas pela utilização de serviços cujos encargos recaiam sobre o Cofre Geral dos Tribunais e verificar e conferir os respectivos encargos emergentes.
 
-###### Art. 10.º - 1 - Compete à Repartição Administrativa prestar o apoio necessário em termos de gestão do pessoal e tratamento do expediente geral e dos bens patrimoniais.
+Art. 10.º - 1 - Compete à Repartição Administrativa prestar o apoio necessário em termos de gestão do pessoal e tratamento do expediente geral e dos bens patrimoniais.
 
 2 - A Repartição Administrativa compreende os seguintes serviços:
 
@@ -278,11 +346,11 @@ d) Processar as despesas de funcionamento e manutenção do GGF.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 11.º - 1 - O GGF dispõe do quadro de pessoal anexo ao presente diploma e que dele faz parte integrante.
+Art. 11.º - 1 - O GGF dispõe do quadro de pessoal anexo ao presente diploma e que dele faz parte integrante.
 
 2 - O pessoal do GGF será distribuído pelos diversos serviços mediante despacho do director.
 
-###### Art. 12.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de 1 ano.
+Art. 12.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de 1 ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -300,27 +368,27 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No lugar do quadro do GGF em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 13.º - 1 - O recrutamento, selecção e promoção do pessoal far-se-á nos termos do [Decreto-Lei n.º 171/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1982-392864), de 10 de Maio, e diplomas complementares.
+Art. 13.º - 1 - O recrutamento, selecção e promoção do pessoal far-se-á nos termos do [Decreto-Lei n.º 171/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1982-392864), de 10 de Maio, e diplomas complementares.
 
 2 - A natureza, métodos e processos de selecção, bem como os respectivos programas, serão definidos por despacho conjunto dos Ministros da Justiça e da Reforma Administrativa.
 
-###### Art. 14.º - 1 - O GGF é dirigido por um director, equiparado, para todos os efeitos legais, a director-geral.
+Art. 14.º - 1 - O GGF é dirigido por um director, equiparado, para todos os efeitos legais, a director-geral.
 
 2 - O director será coadjuvado no exercício das suas funções por um subdirector, equiparado, para todos os efeitos legais, a subdirector-geral.
 
-###### Art. 15.º - 1 - O provimento do pessoal dirigente, com excepção dos chefes de repartição, será efectuado nos termos da lei geral.
+Art. 15.º - 1 - O provimento do pessoal dirigente, com excepção dos chefes de repartição, será efectuado nos termos da lei geral.
 
 2 - Os lugares de chefe de repartição serão providos de entre chefes de secção com, pelo menos, 3 anos de bom e efectivo serviço na categoria ou de entre indivíduos com curso superior e experiência adequada.
 
-###### Art. 16.º - 1 - Os lugares de pessoal técnico superior são providos, nos termos do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, de entre indivíduos habilitados com licenciatura adequada.
+Art. 16.º - 1 - Os lugares de pessoal técnico superior são providos, nos termos do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, de entre indivíduos habilitados com licenciatura adequada.
 
 2 - Os lugares de técnico principal e de técnico de 1.ª classe são providos de entre, respectivamente, técnicos de 1.ª e de 2.ª classes com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
 
 3 - Os lugares de técnico de 2.ª classe são providos de entre indivíduos habilitados com curso superior adequado.
 
-###### Art. 17.º Os lugares correspondentes às carreiras de pessoal de informática serão providos nos termos previstos no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+Art. 17.º Os lugares correspondentes às carreiras de pessoal de informática serão providos nos termos previstos no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
 
-###### Art. 18.º - 1 - Os lugares de chefe de secção serão providos de entre primeiros-oficiais ou técnicos auxiliares principais com um mínimo de 3 anos de bom e efectivo serviço na categoria.
+Art. 18.º - 1 - Os lugares de chefe de secção serão providos de entre primeiros-oficiais ou técnicos auxiliares principais com um mínimo de 3 anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de oficial administrativo são providos nos termos da lei geral.
 
@@ -330,17 +398,17 @@ b) No lugar do quadro do GGF em que vier a ser provido definitivamente, finda a 
 
 5 - O provimento no lugar de tesoureiro depende de prestação de caução, conferindo direito a abonos para falhas, nos termos da legislação aplicável.
 
-###### Art. 19.º - 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe são providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
+Art. 19.º - 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe são providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de técnico auxiliar de 2.ª classe são providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente.
 
-###### Art. 20.º - 1 - Os lugares de operador de reprografia de 1.ª e de 2.ª classes são providos, respectivamente, de entre operadores de 2.ª e de 3.ª classes com, pelo menos, 3 anos de bom e efectivo serviço.
+Art. 20.º - 1 - Os lugares de operador de reprografia de 1.ª e de 2.ª classes são providos, respectivamente, de entre operadores de 2.ª e de 3.ª classes com, pelo menos, 3 anos de bom e efectivo serviço.
 
 2 - Os lugares de operador de reprografia de 3.ª classe são providos de entre indivíduos habilitados com a escolaridade obrigatória.
 
-###### Art. 21.º Os lugares de encarregado de pessoal auxiliar, motorista, telefonista e contínuo serão providos nos termos da lei geral.
+Art. 21.º Os lugares de encarregado de pessoal auxiliar, motorista, telefonista e contínuo serão providos nos termos da lei geral.
 
-###### Art. 22.º - 1 - Para a realização de tarefas que não possam ser asseguradas pelo pessoal provido em lugares do quadro poderá ser requisitado pessoal a outros organismos e serviços, com o acordo prévio do funcionário ou agente a requisitar e a anuência do membro do Governo de que dependa.
+Art. 22.º - 1 - Para a realização de tarefas que não possam ser asseguradas pelo pessoal provido em lugares do quadro poderá ser requisitado pessoal a outros organismos e serviços, com o acordo prévio do funcionário ou agente a requisitar e a anuência do membro do Governo de que dependa.
 
 2 - O período de requisição será previamente fixado, não podendo exceder a duração de 1 ano, prazo este que poderá ser prorrogado por uma só vez.
 
@@ -348,7 +416,7 @@ b) No lugar do quadro do GGF em que vier a ser provido definitivamente, finda a 
 
 4 - Os lugares de que sejam titulares no quadro de origem os funcionários requisitados poderão ser providos interinamente enquanto se mantiver a requisição.
 
-###### Art. 23.º - 1 - Quando as necessidades do serviço o exijam, poderá ser destacado para o GGF pessoal de outros organismos e serviços.
+Art. 23.º - 1 - Quando as necessidades do serviço o exijam, poderá ser destacado para o GGF pessoal de outros organismos e serviços.
 
 2 - Os destacamentos previstos no número anterior dependem de acordo dos interessados e carecem de autorização do membro do Governo de que dependam.
 
@@ -356,13 +424,13 @@ b) No lugar do quadro do GGF em que vier a ser provido definitivamente, finda a 
 
 4 - Os destacamentos não prejudicam por qualquer forma a situação do pessoal destacado perante os serviços de origem, continuando estes a assegurar-lhe as respectivas remunerações.
 
-###### Art. 24.º - 1 - A realização de estudos, inquéritos e outros trabalhos de carácter eventual poderá ser confiada, mediante contrato, a entidades nacionais ou estrangeiras estranhas ao serviço.
+Art. 24.º - 1 - A realização de estudos, inquéritos e outros trabalhos de carácter eventual poderá ser confiada, mediante contrato, a entidades nacionais ou estrangeiras estranhas ao serviço.
 
 2 - O contrato referido no número anterior deverá ser reduzido a escrito e nele fixadas as condições da sua prestação e o prazo de duração.
 
 3 - O exercício da actividade prevista no n.º 1 não confere, por si, ao particular outorgante a qualidade de agente administrativo.
 
-###### Art. 25.º - 1 - Sem prejuízo do disposto nas alíneas a) e b) do artigo 19.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, o pessoal afecto ao GGF transita para o quadro a que se refere o n.º 1 do artigo 11.º do presente diploma, com observância das habilitações legalmente exigidas e de acordo com as seguintes regras:
+Art. 25.º - 1 - Sem prejuízo do disposto nas alíneas a) e b) do artigo 19.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, o pessoal afecto ao GGF transita para o quadro a que se refere o n.º 1 do artigo 11.º do presente diploma, com observância das habilitações legalmente exigidas e de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário já possui;
 
@@ -370,28 +438,28 @@ b) Para categoria correspondente às funções que o funcionário ou agente actu
 
 2 - Os terceiros-oficiais interinos que possuam as habilitações legais são colocados, a título definitivo, naquela categoria.
 
-###### Art. 26.º - 1 - Transitam para a categoria de chefe de repartição os actuais adjuntos do GGF.
+Art. 26.º - 1 - Transitam para a categoria de chefe de repartição os actuais adjuntos do GGF.
 
 2 - Transitam para a categoria da carreira técnica superior remunerada pela mesma letra de vencimento, com observância dos requisitos habilitacionais, os adjuntos do GGF afectos a serviços de natureza técnica.
 
 3 - Na hipótese contemplada no número anterior, o tempo de serviço prestado na categoria de chefe de repartição e de adjunto contará para efeito de progressão na carreira de técnico superior.
 
-###### Art. 27.º - 1 - Ao pessoal do GGF que transitar para categoria diversa será contado nesta última, para todos os efeitos legais, o tempo de serviço prestado na anterior, quando a esta corresponder letra de vencimento igual à da nova categoria.
+Art. 27.º - 1 - Ao pessoal do GGF que transitar para categoria diversa será contado nesta última, para todos os efeitos legais, o tempo de serviço prestado na anterior, quando a esta corresponder letra de vencimento igual à da nova categoria.
 
 2 - Aos funcionários adidos já integrados ou a integrar no GGF será contado, para todos os efeitos legais, o tempo de serviço prestado nos organismos de origem, bem como na situação de vinculados ao quadro geral de adidos.
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 7 de Junho de 1983.**
+Promulgado em 7 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Quadro a que se refere o n.º 1 do artigo 11.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/14200/22442248.pdf))](https://files.diariodarepublica.pt/1s/1983/06/14200/22442248.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14200/22442248.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/09/17800/0478104781.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/64/2018/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/64-2018-116407585
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:33:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b338ff59287c1055065ab7caef9a7b78de438dee5ac26a65c30512c010f95f8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0596292d7fb6e1e87be204e8231a6e5cf7e47c0111c06abf725e223257a1c48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:33:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,22 @@ relationships:
   target: pt:dre:147250983:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147250983:por
+  label: Exonerada pelo(a) Decreto do Presidente da República n.º 51-R/2020 - Diário da República n.º 212/2020, 2º Suplemento,
+    Série I de 2020-10-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/51-r-2020-147250983
+  date: '2020-10-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:33:18Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +98,18 @@ validation:
 
 de 14 de setembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeada, sob proposta do Governo, a ministra plenipotenciária de 1.ª classe Rita Maria Figueiras Henriques Laranjinha para o cargo de Embaixadora de Portugal em Copenhaga, com efeitos a partir de 26 de setembro de 2018.
 
-**Assinado em 10 de setembro de 2018.**
+Assinado em 10 de setembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de setembro de 2018.**
+Referendado em 12 de setembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa. - O Ministro dos Negócios Estrangeiros, Augusto Ernesto Santos Silva.**
+O Primeiro-Ministro, António Luís Santos da Costa. - O Ministro dos Negócios Estrangeiros, Augusto Ernesto Santos Silva.
+
+111651367

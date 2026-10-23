@@ -47,36 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1981-568514
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:04:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3982f72a924d32fcc9bee36bcb67e1f8c34f1f5ffb3bc35a34a2032d21eac00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fed401e1d5fd5c8c563115b426a5bb1e6dde000cd97c5f881951d5979fc63cfc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:04:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estabelecimento de Ensino
+- Integração de Trabalhadores
+- Quadro Geral de Adidos
+relationships:
+- type: cites
+  target: pt:dre:382866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:04:27Z'
   warnings: []
   errors: []
 ---
@@ -89,18 +112,18 @@ Ao abrigo do disposto nos Decretos-Leis n.os [59/76](https://diariodarepublica.p
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 1.º e 10.º do [Decreto Regulamentar n.º 63/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1980-462431), de 20 de Outubro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 1.º e 10.º do [Decreto Regulamentar n.º 63/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1980-462431), de 20 de Outubro, passam a ter a seguinte redacção:
 
-###### Artigo 1.º Os adidos que à data da entrada em vigor do presente diploma se encontrem integrados no quadro de supranumerários criado no Ministério da Educação e Ciência pela [Portaria n.º 136/79](https://diariodarepublica.pt/dr/detalhe/portaria/136-1979-382866), de 28 de Março, e ainda aqueles que, ao abrigo da mesma portaria, o venham a ser até 31 de Dezembro de 1980, além daqueles que tenham sido colocados até 31 de Dezembro de 1980, serão integrados no quadro privativo dos estabelecimentos de ensino básico o secundário, escolas normais de educadoras de infância, escolas do magistério primário, jardins-de-infância e direcções do distrito escolar, de acordo com as regras estabelecidas nos artigos subsequentes.
+Artigo 1.º Os adidos que à data da entrada em vigor do presente diploma se encontrem integrados no quadro de supranumerários criado no Ministério da Educação e Ciência pela [Portaria n.º 136/79](https://diariodarepublica.pt/dr/detalhe/portaria/136-1979-382866), de 28 de Março, e ainda aqueles que, ao abrigo da mesma portaria, o venham a ser até 31 de Dezembro de 1980, além daqueles que tenham sido colocados até 31 de Dezembro de 1980, serão integrados no quadro privativo dos estabelecimentos de ensino básico o secundário, escolas normais de educadoras de infância, escolas do magistério primário, jardins-de-infância e direcções do distrito escolar, de acordo com as regras estabelecidas nos artigos subsequentes.
 
 ...
 
-###### Art. 10.º Para efeitos de aplicação do disposto no presente diploma, ao pessoal adido que foi integrado até 31 de Dezembro de 1980 no quadro de supranumerários a que se refere a [Portaria n.º 136/79](https://diariodarepublica.pt/dr/detalhe/portaria/136-1979-382866), de 28 de Março, e àquele que tenha sido colocado até essa mesma data e que venha posteriormente a ser integrado nesse quadro em categorias resultantes da reclassificação proposta pelo director-geral da Integração Administrativa e aprovada pelos Ministros da Educação e das Universidades e da Reforma Administrativa será contado, como se tivesse sido prestado nessas categorias, todo o tempo de serviço que o mesmo possua desde que iniciou as funções às mesmas inerentes em estabelecimento de ensino ou direcção de distrito escolar.
+Art. 10.º Para efeitos de aplicação do disposto no presente diploma, ao pessoal adido que foi integrado até 31 de Dezembro de 1980 no quadro de supranumerários a que se refere a [Portaria n.º 136/79](https://diariodarepublica.pt/dr/detalhe/portaria/136-1979-382866), de 28 de Março, e àquele que tenha sido colocado até essa mesma data e que venha posteriormente a ser integrado nesse quadro em categorias resultantes da reclassificação proposta pelo director-geral da Integração Administrativa e aprovada pelos Ministros da Educação e das Universidades e da Reforma Administrativa será contado, como se tivesse sido prestado nessas categorias, todo o tempo de serviço que o mesmo possua desde que iniciou as funções às mesmas inerentes em estabelecimento de ensino ou direcção de distrito escolar.
 
 Francisco José Pereira Pinto Balsemão - Vítor Pereira Crespo - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 4 de Novembro de 1981.**
+Promulgado em 4 de Novembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

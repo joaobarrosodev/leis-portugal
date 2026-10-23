@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/19800/0001600020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/93/2023/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2023-222695021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6ab614fda67cfe3ddfe113fcdc37c4f47e89c8bee15df3ef1a8f2189ba3b73d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c61911ce76b456168a23ad705cd3e9265825cef1b7b7bd02c3d18d894254ebd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Documentação
-- Publicitação
 - Instituto da Conservação da Natureza e das Florestas
 - Página na Internet
+- Publicitação
 - ZONA de Protecção Especial do Douro Internacional e VALE do RIO Águeda
 relationships:
 - type: cites
@@ -79,16 +79,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/384-b/1999/09/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/384-b/1999/09/23/p/dre
+- type: cites
+  target: pt:dre:154987:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:08Z'
   warnings: []
   errors: []
 ---
@@ -131,15 +135,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de setembro de 2023. - Maria Helena Chaves Carreiras - Fernando Medina Maciel Almeida Correia - José Duarte Piteira Rica Silvestre Cordeiro - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
 
-**Promulgado em 4 de outubro de 2023.**
+Promulgado em 4 de outubro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de outubro de 2023.**
+Referendado em 9 de outubro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -155,9 +159,9 @@ Zona de Proteção Especial do Douro Internacional e Vale do Rio Águeda
 
 SRC: PT-TM06/ETRS89
 
-|  |  |  |
-| --- | --- | --- |
 | Ponto cartográfico | Coordenada X | Coordenada Y |
+| --- | --- | --- |
+|  |  |  |
 | 1... | 105 364,914 1 | 130 148,045 6 |
 | 2... | 97 605,455 2 | 143 122,265 1 |
 | 3... | 96 593,659 7 | 142 939,475 9 |
@@ -205,6 +209,9 @@ SRC: PT-TM06/ETRS89
 | 45... | 155 483,976 9 | 218 693,170 4 |
 | 46... | 156 411,341 4 | 220 009,378 9 |
 
-![](https://files.diariodarepublica.pt/images/222695021/222695870.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/222695021/222695870.png) |
+| --- |
 
 Na tabela, as coordenadas retangulares (X e Y) referem-se ao Sistema de Referência PT-TM06/ETRS89 (Projeção Transversa de Mercator). As coordenadas retangulares estão representadas na figura pela quadrícula espaçada de 20 000 metros (cruzes).
+
+116934196

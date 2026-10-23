@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/9/2008/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2008-386629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 986efe6f6a2fd38c167fd73ca0625674fee5a828a393460b001a5d2f4bb42a28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c43748ca585cb1735302094ee2365b42c99dcc11526466e255dfccb06a04274
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Aproximação das Legislações
-- Saúde Pública
-- Especificação Técnica
-- Proteção do Consumidor
 - Comércio
+- Especificação Técnica
+- Produto Alimentar
+- Proteção do Consumidor
 - Saúde Animal
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:279840:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:279840:por
+  label: "Alterado o anexo do Dec Lei 98/2000, de 25-Maio, na redacção e republicado o anexo pelo presente diploma, pelo DEC\
+    \ LEI.28/2011.24.02.2011.MADRP, DR.IS [39] de 24.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2011-279840
+  date: '2011-02-24'
 - type: cites
   target: celex:31995L0031
   label: null
@@ -111,13 +117,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:40Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +156,7 @@ O anexo ao Decreto-Lei n.º 98/2000, de 25 de Maio, alterado pelos Decretos-Leis
 
 ## ANEXO — Critérios específicos a que devem obedecer os edulcorantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00900/0044100454.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00900/0044100454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00900/0044100454.pdf)
 
 ###### Artigo 3.º — Republicação
 
@@ -162,18 +168,18 @@ O presente decreto-lei entra em vigor em 15 de Fevereiro de 2008.
 
 Visto e aprovado em Conselho de Ministros de 14 de Novembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - António José de Castro Guerra - Rui Nobre Gonçalves - António Fernando Correia de Campos.
 
-**Promulgado em 6 de Dezembro de 2007.**
+Promulgado em 6 de Dezembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 7 de Dezembro de 2007.**
+Referendado em 7 de Dezembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do anexo ao Decreto-Lei n.º 98/2000, de 25 de Maio
 
 Critérios específicos a que devem obedecer os edulcorantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00900/0044100454.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00900/0044100454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00900/0044100454.pdf)

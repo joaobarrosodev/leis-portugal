@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/40/1993/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1993-674447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:21:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c8de99f569464d66b0d8d878fadac1d4bd5f10945dbad3f0d9d5bb4de963979
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac3548258a07cb2537a25678ab02ac1086081f1f18174b39e40f4766e2af78c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:21:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537044:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:21:10Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +125,15 @@ Assim:
 
 Ao abrigo do disposto nos artigos 1.º e 4.º do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043) e artigo 11.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), ambos de 22 de Outubro de 1964, e na alínea d) do n.º 2 do artigo 2.º do [Decreto-Lei n.º 246/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1979-381295), de 25 de Julho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Fica sujeita a servidão militar e aeronáutica a área confinante com o radiofarol Locator de Santo Isidro, instalado no lugar de Santo Isidro, na freguesia de Gulpilhares, concelho de Vila Nova de Gaia, indicada na planta anexa ao presente diploma e que dele faz parte integrante.
+Artigo 1.º Fica sujeita a servidão militar e aeronáutica a área confinante com o radiofarol Locator de Santo Isidro, instalado no lugar de Santo Isidro, na freguesia de Gulpilhares, concelho de Vila Nova de Gaia, indicada na planta anexa ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º A área sujeita a servidão compreende as seguintes duas zonas:
+Art. 2.º A área sujeita a servidão compreende as seguintes duas zonas:
 
 a) Zona primária do Locator, compreendendo os terrenos situados no interior de uma circunferência de 60 m de raio com centro no Locator (M = -42307,22 e P = 156667,67 em coordenadas rectangulares e referidas ao ponto central - Melriça);
 
 b) Zona secundária do Locator, compreendendo os terrenos confinantes com a zona primária e delimitada exteriormente por uma circunferência de 300 m de raio com centro no Locator.
 
-###### Art. 3.º Os terrenos compreendidos na zona primária definida no artigo anterior ficam sujeitos a servidão geral, nos termos do artigo 9.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, e do artigo 4.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), de 22 de Outubro de 1964, carecendo de autorização da empresa pública Aeroportos e Navegação Aérea, ANA, E. P., a execução dos trabalhos e actividades seguintes:
+Art. 3.º Os terrenos compreendidos na zona primária definida no artigo anterior ficam sujeitos a servidão geral, nos termos do artigo 9.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, e do artigo 4.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), de 22 de Outubro de 1964, carecendo de autorização da empresa pública Aeroportos e Navegação Aérea, ANA, E. P., a execução dos trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas;
 
@@ -127,13 +151,13 @@ g) Montagem e funcionamento da aparelhagem eléctrica que não seja de uso exclu
 
 h) Quaisquer outros trabalhos ou actividades que inequivocamente possam afectar a segurança ou eficiência das instalações.
 
-###### Art. 4.º - 1 - Os terrenos compreendidos na zona secundária do Locator, ficam sujeitos a servidão particular, de harmonia com o disposto no artigo 10.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070) e do artigo 5.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), sendo dispensados da autorização referida no artigo anterior os trabalhos ou actividades constantes das alíneas a), b), c), d) e e), desde que os obstáculos deles resultantes não ultrapassem uma superfície limitativa de obstáculos que se eleva a partir do limite exterior da zona primária do Locator, considerando-se este limite situado à cota absoluta de 60 m.
+Art. 4.º - 1 - Os terrenos compreendidos na zona secundária do Locator, ficam sujeitos a servidão particular, de harmonia com o disposto no artigo 10.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070) e do artigo 5.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), sendo dispensados da autorização referida no artigo anterior os trabalhos ou actividades constantes das alíneas a), b), c), d) e e), desde que os obstáculos deles resultantes não ultrapassem uma superfície limitativa de obstáculos que se eleva a partir do limite exterior da zona primária do Locator, considerando-se este limite situado à cota absoluta de 60 m.
 
 2 - A inclinação da superfície limitativa de obstáculos referida no número anterior é de 1% para os obstáculos metálicos e de 2% para todos os restantes obstáculos.
 
 3 - Para os efeitos do disposto no número anterior, consideram-se obstáculos metálicos as linhas aéreas de transporte de energia, agregados de mais de quatro linhas telefónicas aéreas (oito fios), hangares, armazéns e pavilhões de grande vão com estrutura ou cobertura metálicas, torres para antenas, vedações em rede metálica de comprimento superior a 20 m e ou altura superior a 2 m, grandes depósitos de sucata ou de materiais metálicos.
 
-###### Art. 5.º - 1 - As autorizações previstas no presente diploma serão requeridas ao conselho de gerência da ANA, E. P., por intermédio da Câmara Municipal de Vila Nova de Gaia, conforme o disposto no [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, indicando-se no respectivo requerimento:
+Art. 5.º - 1 - As autorizações previstas no presente diploma serão requeridas ao conselho de gerência da ANA, E. P., por intermédio da Câmara Municipal de Vila Nova de Gaia, conforme o disposto no [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, indicando-se no respectivo requerimento:
 
 a) A descrição precisa e clara dos trabalhos ou actividades cuja execução se pretende, com a pormenorização necessária à sua conveniente caracterização;
 
@@ -153,7 +177,7 @@ c) Volumetria, à escala de 1:200 (conjunto de plantas dos pisos e cobertura, al
 
 5 - Os processos a enviar à ANA, E. P., deverão ser apresentados em triplicado.
 
-###### Art. 6.º - 1 - A fiscalização dos trabalhos e actividades nas zonas sujeitas a servidão é da competência da ANA, E. P., sem prejuízo das competências próprias da respectiva câmara municipal.
+Art. 6.º - 1 - A fiscalização dos trabalhos e actividades nas zonas sujeitas a servidão é da competência da ANA, E. P., sem prejuízo das competências próprias da respectiva câmara municipal.
 
 2 - Compete à ANA, E. P., ordenar a demolição de quaisquer construções ou obstáculos ou a suspensão de obras ou trabalhos nos casos de infracção ao preceituado no presente diploma.
 
@@ -161,14 +185,14 @@ Presidência do Conselho de Ministros, 27 de Setembro de 1993.
 
 Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 3 de Novembro de 1993.**
+Promulgado em 3 de Novembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Novembro de 1993.**
+Referendado em 4 de Novembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/274b00/65026503.pdf))](https://files.diariodarepublica.pt/1s/1993/11/274b00/65026503.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/274b00/65026503.pdf)

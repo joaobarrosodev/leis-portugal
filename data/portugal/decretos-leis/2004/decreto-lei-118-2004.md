@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/05/119a00/32083219.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/118/2004/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4e54cf263d4cb46a06443e8c55a47abda77ea1b880508b360b7f2a0c16b17d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6405e584c91166fc03b5621a48e74479deba465fca9e40d06ef91d0ff6273d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Emprego
-- Função Pública
-- Tempo de Serviço
-- Formação Profissional
+- Administração Pública
+- Bolsa de Estudos
 - Concurso
 - Direcção Geral de Pessoal e Recrutamento Militar
-- Administração Pública
-- Serviço Militar
-- Numerus Clausus
+- Ensino Superior
 - Forças Armadas
+- Formação Profissional
+- Função Pública
+- Militar
+- Numerus Clausus
 - Prestações de Desemprego
 - Quadro de Pessoal
 - Regulamento
-- Ensino Superior
-- Bolsa de Estudos
 - Remuneração
-- Militar
+- Serviço Militar
 - Subsídio
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:116640900:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642062:por
+  label: "Alterados os art.s 21º, 23º, 30º, 33º, 34º, 39º e 47º e revogados os nº 2 e 3 do art. 39º do Regulamento aprovado\
+    \ pelo Dec Lei 320-A/2000, de 15-Dez, na redacção do presente diploma, pelo DEC LEI.320/2007.27.09.2007.MDN, DR.IS [187]\
+    \ de 27.09.2007, com republicação.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-2007-642062
+  date: '2007-09-27'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterados os arts. 23.º e 24.º do Regulamento de Incentivos à Prestação de Serviço Militar nos Regimes de Contrato\
+    \ e de Voluntariado, aprovado pelo Dec Lei n.º 320-A/2000, de 15-Dez, na redacção do presente diploma, pela LEI.55-A/2010.31.12.2010.AR,\
+    \ DR.IS [253-Supl] de 31.12.2010, com aplicação aos subsídios concedidos após a entrada em vigor da mesma lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 21º do Regulamento de Incentivos à Prestação de Serviço Militar nos Regimes de Contrato e de Voluntariado,\
+    \ aprovado pelo Dec Lei 320-A/2000, de 15-Dez, na redacção do presente diploma, pela LEI.64-B/2011.30.12.2011.AR, DR.IS\
+    \ [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/204/1998/07/11/p/dre
   label: null
@@ -125,16 +146,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558204:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:116640900:por
+  label: Revogado, a partir de 12.10.2018, o presente diploma, pelo(a) Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018,
+    Série I de 2018-10-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2018-116640900
+  date: '2018-10-11'
 article_structure:
-  article_count: 73
+  article_count: 57
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:17Z'
   warnings: []
   errors: []
 ---
@@ -183,7 +246,9 @@ Os artigos 5.º, 19.º, 21.º a 26.º, 30.º a 34.º, 36.º, 39.º, 47.º e 53.�
 
 3 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -191,7 +256,9 @@ Os artigos 5.º, 19.º, 21.º a 26.º, 30.º a 34.º, 36.º, 39.º, 47.º e 53.�
 
 3 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Os militares que tenham cumprido serviço efectivo em RV, bem como em RC pelo mínimo de dois anos, têm direito, após o termo da prestação de serviço efectivo naqueles regimes, ao pagamento de uma prestação pecuniária correspondente a:
 
@@ -203,7 +270,9 @@ b) Dois duodécimos da remuneração anual, por cada ano completo de serviço ef
 
 3 - Para os efeitos previstos no presente artigo, entende-se por 'remuneração anual' o produto da multiplicação por 14 do montante de remuneração base ilíquida correspondente ao escalão do posto que o militar detenha no último mês completo de prestação de serviço, acrescido do respectivo suplemento de condição militar.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -213,7 +282,9 @@ b) Dois duodécimos da remuneração anual, por cada ano completo de serviço ef
 
 4 - ...
 
-###### Artigo 23.º — Subsídios para estudos superiores
+Artigo 23.º
+
+Subsídios para estudos superiores
 
 1 - Os cidadãos que tenham cumprido, no mínimo, cinco anos de serviço efectivo em RC, uma vez cessado o vínculo contratual e desde que matriculados em estabelecimento de ensino superior, podem candidatar-se à concessão de um subsídio para estudos superiores.
 
@@ -249,7 +320,9 @@ d) A maior duração de tempo de serviço efectivo;
 
 e) A ocorrência de prestação de serviço militar, durante maior período de tempo, em unidades de maior prontidão operacional ou exercido funções de maior exigência e desgaste.
 
-###### Artigo 24.º — Procedimentos
+Artigo 24.º
+
+Procedimentos
 
 1 - O requerimento inicial de candidatura à concessão do subsídio para estudos superiores é apresentado na DGPRM até 31 de Maio, dele constando, obrigatoriamente, os seguintes dados relativos ao candidato:
 
@@ -269,17 +342,23 @@ a) 1 e 15 de Março de cada ano, devendo ser documentalmente provada a manutenç
 
 b) 1 e 15 de Outubro de cada ano, devendo ser documentalmente provado o aproveitamento escolar no ano lectivo cessante, bem como a renovação da respectiva matrícula para o ano lectivo seguinte.
 
-###### Artigo 25.º — Prestações de desemprego
+Artigo 25.º
+
+Prestações de desemprego
 
 1 - Finda a prestação de serviço, os militares que prestaram serviço efectivo em RC ou RV têm direito às prestações de desemprego nos termos estabelecidos na lei geral aplicável, com as adaptações previstas no número seguinte.
 
 2 - Os cidadãos a que se refere o número anterior têm direito a subsídio de desemprego por período idêntico ao da duração do serviço, não podendo, porém, ultrapassar os 30 meses.
 
-###### Artigo 26.º — Suspensão das prestações de desemprego
+Artigo 26.º
+
+Suspensão das prestações de desemprego
 
 As prestações de desemprego concedidas ao abrigo do artigo anterior são suspensas, para além dos casos previstos no regime jurídico de referência, quando os beneficiários se encontrem a usufruir de subsídio para estudos concedido nos termos do presente diploma ou de qualquer outra prestação para estudos concedida ao abrigo de qualquer outro regime legal, desde que, em ambos os casos, o respectivo montante seja de valor igual ou superior à retribuição mínima mensal.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -301,11 +380,15 @@ As prestações de desemprego concedidas ao abrigo do artigo anterior são suspe
 
 10 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 (Anterior n.º 1.)
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -313,7 +396,9 @@ As prestações de desemprego concedidas ao abrigo do artigo anterior são suspe
 
 3 - ...
 
-###### Artigo 33.º — Admissão aos quadros de pessoal das Forças Armadas
+Artigo 33.º
+
+Admissão aos quadros de pessoal das Forças Armadas
 
 1 - Os militares que tenham prestado serviço em RC pelo período mínimo de três anos beneficiam nos seis anos subsequentes à data da cessação do contrato de um contingente mínimo de 30% do número total de vagas de admissão quer ao conjunto dos concursos para ingresso nos QP dos ramos das Forças Armadas quer nos concursos para ingresso nos respectivos quadros de pessoal civil.
 
@@ -321,7 +406,9 @@ As prestações de desemprego concedidas ao abrigo do artigo anterior são suspe
 
 3 - Os avisos de concursos estarão disponíveis nas unidades, estabelecimentos e órgãos militares nos quais prestem serviço militares em RC.
 
-###### Artigo 34.º — Admissão aos quadros permanentes das forças de segurança
+Artigo 34.º
+
+Admissão aos quadros permanentes das forças de segurança
 
 1 - Os militares que prestem ou tenham prestado serviço em RC, desde que cumpridos dois anos de serviço efectivo militar, beneficiam de exclusividade na admissão aos concursos para ingresso nos quadros de praças da GNR, nos termos previstos no respectivo Estatuto.
 
@@ -335,11 +422,15 @@ b) De um contingente de 15% do número de vagas postas a concurso para ingresso 
 
 4 - Os avisos de concursos estarão disponíveis nas unidades, estabelecimentos e órgãos militares nos quais prestem serviço militares em RC.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 (Anterior n.º 1.)
 
-###### Artigo 39.º — Encargos no âmbito do subsistema de protecção familiar e à maternidade e paternidade
+Artigo 39.º
+
+Encargos no âmbito do subsistema de protecção familiar e à maternidade e paternidade
 
 1 - Os militares em RC e RV, durante a prestação de serviço efectivo, têm direito às prestações abrangidas pelo subsistema de protecção familiar, bem como às que decorrem da LPMP, nos termos estabelecidos para o pessoal dos QP.
 
@@ -347,13 +438,17 @@ b) De um contingente de 15% do número de vagas postas a concurso para ingresso 
 
 3 - Os encargos com as prestações previstas neste artigo impendem sobre o Ministério da Defesa Nacional, cabendo ao Ministério da Segurança Social e do Trabalho a responsabilidade pelo respectivo processamento.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - Em caso de candidatura a concursos para ingresso em quaisquer carreiras ou corpos especiais da Administração Pública, bem como nos casos em que a aplicação de algum dos incentivos previstos no presente Regulamento esteja associada à verificação de limites de idade, o tempo de serviço efectivo prestado em RC e RV é abatido à idade cronológica dos cidadãos, sem prejuízo da verificação das demais condições legalmente previstas para a aplicação de cada incentivo.
 
 2 - O mecanismo de abate à idade cronológica a que se refere o número anterior não se aplica ao estabelecimento dos períodos de concessão do subsídio de desemprego.
 
-###### Artigo 53.º — Cumprimento dos incentivos
+Artigo 53.º
+
+Cumprimento dos incentivos
 
 1 - Compete aos ramos das Forças Armadas onde os candidatos a beneficiários dos incentivos previstos no presente Regulamento hajam prestado serviço militar a emissão de toda a documentação destinada a sustentar direitos decorrentes do presente diploma, bem como a comprovar o preenchimento das respectivas condições de candidatura, designadamente:
 
@@ -381,15 +476,15 @@ O Regulamento de Incentivos à Prestação de Serviço Militar nos Regimes de Co
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Maria da Graça Martins da Silva Carvalho - António José de Castro Bagão Félix.
 
-**Promulgado em 10 de Maio de 2004.**
+Promulgado em 10 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Maio de 2004.**
+Referendado em 12 de Maio de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — REGULAMENTO DE INCENTIVOS À PRESTAÇÃO DE SERVIÇO MILITAR NOS REGIMES DE CONTRATO (RC) E DE VOLUNTARIADO (RV)
 

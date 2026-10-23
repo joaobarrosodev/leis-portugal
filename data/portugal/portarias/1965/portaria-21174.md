@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21174-1965-238599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:57:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 288547d052320e2329c967826873a434e41e85f9d61f7a814429ee767b3a9894
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a977e0f2630327a512704c9b1f939d5423f1d434864925b6e21031f1744380a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:57:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,24 @@ relationships:
   target: pt:dre:292888:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:155472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251422:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:57:43Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +108,6 @@ Presidência do Conselho e Ministério do Ultramar, 18 de Março de 1965. - O Mi
 
 Do MAPA I ao MAPA XV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/03/06500/03000307.pdf))](https://files.diariodarepublica.pt/1s/1965/03/06500/03000307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/03/06500/03000307.pdf)
 
 Presidência do Conselho e Ministério do Ultramar, 18 de Março de 1965. - O Ministro do Ultramar, António Augusto Peixoto Correia. - O Secretário de Estado da Aeronáutica, Francisco António das Chagas.

@@ -46,36 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1985-327141
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:10:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50f442204b8210f112d368fad80d8a14ac70aa19539b5aca274e4d0e2b0e1179
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5565a70fa7a14c687b65cbc16ac349a9fe7c5aa453ac744ce2e306c64abf63b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:10:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro de Informática
+- Orgânica
+- Universidade do Porto
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL ANEXO, PELA PORT 53/87 DE 22-JAN DR.IS [18]\0IS [18]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-01-22'
+- type: cites
+  target: pt:dre:231307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:10:54Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +124,13 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º É criado na dependência da Reitoria da Universidade do Porto o Centro de Informática da Universidade do Porto (CIUP), adiante designado por Centro.
+Artigo 1.º É criado na dependência da Reitoria da Universidade do Porto o Centro de Informática da Universidade do Porto (CIUP), adiante designado por Centro.
 
-###### Art. 2.º - 1 - O Centro tem por finalidade a prestação de serviços informáticos, tanto ao nível de processamento como de apoio técnico e formação, aos organismos da Universidade do Porto, bem como a outros organismos públicos, designadamente os dependentes do Ministério da Educação, podendo, eventualmente, prestar o mesmo tipo de serviços a entidades privadas.
+Art. 2.º - 1 - O Centro tem por finalidade a prestação de serviços informáticos, tanto ao nível de processamento como de apoio técnico e formação, aos organismos da Universidade do Porto, bem como a outros organismos públicos, designadamente os dependentes do Ministério da Educação, podendo, eventualmente, prestar o mesmo tipo de serviços a entidades privadas.
 
 2 - Enquanto organismo prestador de serviços, o Centro não poderá prosseguir projectos de investigação próprios, salvo na estrita medida das suas necessidades de actualização tecnológica.
 
-###### Art. 3.º Para a prossecução dos fins referidos no artigo anterior, o Centro desenvolverá a sua actividade predominantemente nas seguintes áreas operacionais:
+Art. 3.º Para a prossecução dos fins referidos no artigo anterior, o Centro desenvolverá a sua actividade predominantemente nas seguintes áreas operacionais:
 
 a) Aplicações científicas e pedagógicas;
 
@@ -110,7 +138,7 @@ b) Aplicações administrativas;
 
 c) Promoção e divulgação das técnicas informáticas.
 
-###### Art. 4.º As aplicações científicas e pedagógicas, prestadas prioritariamente aos organismos da respectiva Universidade compreendem essencialmente:
+Art. 4.º As aplicações científicas e pedagógicas, prestadas prioritariamente aos organismos da respectiva Universidade compreendem essencialmente:
 
 a) O processamento;
 
@@ -118,7 +146,7 @@ b) A consultadoria a nível da utilização dos sistemas de exploração, compil
 
 c) A implementação e a adaptação de novos sistemas de exploração compiladores, interpretadores, utilitários e outros programas de uso generalizado.
 
-###### Art. 5.º As aplicações administrativas compreendem o seguinte:
+Art. 5.º As aplicações administrativas compreendem o seguinte:
 
 a) A organização e racionalização de processos;
 
@@ -128,9 +156,9 @@ c) A análise, programação e manutenção;
 
 d) O processamento e controle de qualidade dos serviços.
 
-###### Art. 6.º A promoção o a divulgação das técnicas informáticas compreendem a organização e implementação de cursos intensivos de formação de pessoal informático, tanto do próprio Centro como dos diferentes organismos da Universidade, que poderão eventualmente ser extensíveis a entidades exteriores à referida Universidade.
+Art. 6.º A promoção o a divulgação das técnicas informáticas compreendem a organização e implementação de cursos intensivos de formação de pessoal informático, tanto do próprio Centro como dos diferentes organismos da Universidade, que poderão eventualmente ser extensíveis a entidades exteriores à referida Universidade.
 
-###### Art. 7.º O Centro não organizará qualquer apoio sistemático:
+Art. 7.º O Centro não organizará qualquer apoio sistemático:
 
 a) Ao nível de análise e programação propriamente ditas no domínio das aplicações científicas;
 
@@ -138,13 +166,13 @@ b) Ao nível da transcrição e validação de dados.
 
 ### CAPÍTULO II — Órgãos, serviços e suas competências
 
-###### Art. 8.º São órgãos do Centro:
+Art. 8.º São órgãos do Centro:
 
 a) O conselho de gestão;
 
 b) O conselho de utentes.
 
-###### Art. 9.º - 1 - O conselho de gestão será constituído por:
+Art. 9.º - 1 - O conselho de gestão será constituído por:
 
 a) 1 professor doutorado, que presidirá, nomeado pelo reitor;
 
@@ -152,7 +180,7 @@ b) 2 docentes doutorados nomeados pelo reitor, ouvido o conselho científico da 
 
 2 - Os mandatos dos membros do conselho de gestão serão bienais, podendo ser dados por findos a todo o tempo por despacho do reitor.
 
-###### Art. 10.º Compete ao conselho de gestão:
+Art. 10.º Compete ao conselho de gestão:
 
 a) Propor superiormente o plano geral a que deverá subordinar-se o Centro, bem como as medidas legislativas e administrativas necessárias ao bom desempenho das suas atribuições;
 
@@ -178,7 +206,7 @@ l) Elaborar o relatório anual de actividades e submetê-lo a parecer do conselh
 
 m) Praticar os demais actos de administração e gestão necessários ao bom funcionamento do Centro.
 
-###### Art. 11.º - 1 - O cargo de presidente do conselho de gestão, quando desempenhado a tempo inteiro, será equiparado, para todos os efeitos legais, ao de director de serviços.
+Art. 11.º - 1 - O cargo de presidente do conselho de gestão, quando desempenhado a tempo inteiro, será equiparado, para todos os efeitos legais, ao de director de serviços.
 
 2 - Ao presidente do conselho de gestão compete:
 
@@ -190,7 +218,7 @@ c) Submeter à aprovação das entidades competentes os assuntos e propostas que
 
 d) Convocar as reuniões do conselho de gestão e submeter à sua aprovação as propostas que julgue convenientes.
 
-###### Art. 12.º O conselho de utentes terá a seguinte constituição:
+Art. 12.º O conselho de utentes terá a seguinte constituição:
 
 a) 1 docente designado por cada um dos conselhos científicos das escolas;
 
@@ -200,7 +228,7 @@ c) 1 representante dos organismos dependentes da Reitoria não abrangidos nas al
 
 d) 2 alunos designados pelos estudantes membros dos conselhos pedagógicos das escolas.
 
-###### Art. 13.º Compete ao conselho de utentes:
+Art. 13.º Compete ao conselho de utentes:
 
 a) Emitir parecer sobre o plano geral e os planas anuais de actividades e demais questões que lhe sejam apresentadas pelo conselho de gestão;
 
@@ -212,7 +240,7 @@ d) Pronunciar-se sobre as propostas de tarifas e os limites de recursos a que se
 
 e) Elaborar o respectivo regulamento.
 
-###### Art. 14.º - 1 - O Centro dispõe dos seguintes núcleos:
+Art. 14.º - 1 - O Centro dispõe dos seguintes núcleos:
 
 a) Núcleo de exploração;
 
@@ -230,13 +258,13 @@ d) Núcleo de aplicações administrativas.
 
 5 - O núcleo de aplicações administrativas fornece apoio às iniciativas de informatização dos serviços administrativos nos termos dos artigos 6.º e 7.º do presente diploma.
 
-###### Art. 15.º Os serviços de secretariado, documentais e administrativos, designadamente os decorrentes da execução orçamental, serão assegurados por pessoal da Reitoria da Universidade do Porto destacado ou requisitado para o Centro por despacho do reitor.
+Art. 15.º Os serviços de secretariado, documentais e administrativos, designadamente os decorrentes da execução orçamental, serão assegurados por pessoal da Reitoria da Universidade do Porto destacado ou requisitado para o Centro por despacho do reitor.
 
 ### CAPÍTULO III — Gestão patrimonial e financeira
 
-###### Art. 16.º O orçamento do Centro constituirá uma subdivisão orgânica do orçamento da Universidade do Porto.
+Art. 16.º O orçamento do Centro constituirá uma subdivisão orgânica do orçamento da Universidade do Porto.
 
-###### Art. 17.º - 1 - O Centro disporá das seguintes receitas próprias:
+Art. 17.º - 1 - O Centro disporá das seguintes receitas próprias:
 
 a) As importâncias cobradas por serviços prestados a entidades públicas ou privadas;
 
@@ -256,7 +284,7 @@ f) Outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.
 
 4 - Nos termos do número anterior, o conselho de gestão do Centro gozará da competência atribuída aos órgãos responsáveis dos serviços com autonomia administrativa e financeira.
 
-###### Art. 18.º - 1 - O reitor da Universidade do Porto fixará, sob proposta do conselho de gestão do Centro, ouvido o respectivo conselho de utentes, o limite de recursos informáticos do Centro que poderão ser utilizados gratuitamente pelos organismos das universidades ou do Ministério da Educação.
+Art. 18.º - 1 - O reitor da Universidade do Porto fixará, sob proposta do conselho de gestão do Centro, ouvido o respectivo conselho de utentes, o limite de recursos informáticos do Centro que poderão ser utilizados gratuitamente pelos organismos das universidades ou do Ministério da Educação.
 
 2 - Os serviços prestados para além dos limites referidos no número anterior, bem como os prestados a organismos exteriores ao Ministério da Educação, serão cobrados de acordo com as respectivas tarifas.
 
@@ -264,7 +292,7 @@ f) Outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 19.º - 1 - O quadro de pessoal do Centro é o constante do mapa II anexo a este diploma e compreenderá os seguintes grupos de pessoal:
+Art. 19.º - 1 - O quadro de pessoal do Centro é o constante do mapa II anexo a este diploma e compreenderá os seguintes grupos de pessoal:
 
 a) Pessoal informático;
 
@@ -290,11 +318,11 @@ g) Administrador de dados;
 
 h) Planificador.
 
-###### Art. 20.º - 1 - O recrutamento e o provimento nos lugares das carreiras e categorias constantes do n.º 2 do artigo anterior serão feitos de acordo com o disposto no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+Art. 20.º - 1 - O recrutamento e o provimento nos lugares das carreiras e categorias constantes do n.º 2 do artigo anterior serão feitos de acordo com o disposto no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
 
 2 - O recrutamento e o provimento nos lugares de escriturário-dactilógrafo e de guarda serão feitos de acordo com o disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 21.º - 1 - O primeiro provimento no quadro de pessoal do Centro far-se-á, com observância do artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, nos seguintes termos:
+Art. 21.º - 1 - O primeiro provimento no quadro de pessoal do Centro far-se-á, com observância do artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, nos seguintes termos:
 
 a) O pessoal que à data da publicação do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, desempenhava função informática na Universidade do Porto será provido, tendo em conta o disposto no n.º 5 do artigo 30.º desse diploma, de acordo com as características funcionais fixadas, respectivamente, nos n.os 1 e 3 dos artigos 14.º e 15.º, 1 e 4 do artigo 16.º, 1, 2 e 3 do artigo 17.º, 1, 2 e 4 do artigo 18.º e do artigo 20.º desse diploma;
 
@@ -308,70 +336,70 @@ b) Para lugar do quadro de categoria a que corresponda letra quadro vencimento i
 
 3 - A aplicação do disposto na alínea a) do n.º 2 deste artigo fica condicionada a que o serviço certifique, em todos os casos, o exercício efectivo das funções que integram a categoria em que se verifique o provimento.
 
-###### Art. 22.º A transição para as novas categorias será efectuada nos termos da lei geral, mediante listas nominativas aprovada pelo Ministro da Educação ou diplomas individuais de provimento, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
+Art. 22.º A transição para as novas categorias será efectuada nos termos da lei geral, mediante listas nominativas aprovada pelo Ministro da Educação ou diplomas individuais de provimento, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
 
-###### Art. 23.º - 1 - As listas nominativas a que se refere o artigo anterior, depois de elaboradas pelos respectivos serviços de acordo com o disposto no capítulo V do presente diploma, serão afixadas com menção de que delas cabe reclamação, a deduzir no prazo de 8 dias a contar da data da afixação no respectivo serviço.
+Art. 23.º - 1 - As listas nominativas a que se refere o artigo anterior, depois de elaboradas pelos respectivos serviços de acordo com o disposto no capítulo V do presente diploma, serão afixadas com menção de que delas cabe reclamação, a deduzir no prazo de 8 dias a contar da data da afixação no respectivo serviço.
 
 2 - Subsequentemente, serão as listas remetidas à Direcção-Geral do Ensino Superior, bem como as reclamações que os interessados julgarem pertinentes.
 
-###### Art. 24.º Para efeitos de progressão na carreira é contado na nova categoria o tempo de serviço prestado no exercício das funções correspondentes à categoria de integração.
+Art. 24.º Para efeitos de progressão na carreira é contado na nova categoria o tempo de serviço prestado no exercício das funções correspondentes à categoria de integração.
 
-###### Art. 25.º - 1 Os funcionários que à data da aplicação do presente diploma estiverem providos definitivamente serão integrados, com nomeação definitiva, nas novas categorias.
+Art. 25.º - 1 Os funcionários que à data da aplicação do presente diploma estiverem providos definitivamente serão integrados, com nomeação definitiva, nas novas categorias.
 
 2 - O pessoal não provido em lugares do quadro que transita para o novo quadro terá direito, ao fim de um ano de bom e efectivo serviço, ao provimento definitivo.
 
-###### Art. 26.º O pessoal do Centro não poderá, sem prévia autorização do respectivo conselho de gestão, divulgar as actividades que aí desenvolva, bem como o resultado das mesmas.
+Art. 26.º O pessoal do Centro não poderá, sem prévia autorização do respectivo conselho de gestão, divulgar as actividades que aí desenvolva, bem como o resultado das mesmas.
 
-###### Art. 27.º - 1 - Sem prejuízo do disposto nos artigos 9.º e 11.º do presente diploma, os docentes universitários poderão exercer funções no Centro mediante autorização do respectivo conselho cientifico.
+Art. 27.º - 1 - Sem prejuízo do disposto nos artigos 9.º e 11.º do presente diploma, os docentes universitários poderão exercer funções no Centro mediante autorização do respectivo conselho cientifico.
 
 2 - O exercício de funções a que se refere o número anterior poderá conferir o direito a dispensa do serviço docente, sem direito a qualquer remuneração adicional.
 
-###### Art. 28.º São extintos os lugares de mecanógrafo de 1.ª classe, de 2.ª classe e de 3.ª classe da Universidade do Porto, constantes do mapa I anexo ao [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro.
+Art. 28.º São extintos os lugares de mecanógrafo de 1.ª classe, de 2.ª classe e de 3.ª classe da Universidade do Porto, constantes do mapa I anexo ao [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro.
 
-###### Art. 29.º Com o provimento dos seus actuais titulares nos lugares do mapa II anexo ao presente diploma consideram-se automaticamente extintos os lugares dos quadros de pessoal agora ocupados pelos mencionados funcionários.
+Art. 29.º Com o provimento dos seus actuais titulares nos lugares do mapa II anexo ao presente diploma consideram-se automaticamente extintos os lugares dos quadros de pessoal agora ocupados pelos mencionados funcionários.
 
-###### Art. 30.º - 1 - São criados na Universidade do Porto, no mapa I anexo ao [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro, os lugares de monitor, operador de registo de dados principal e operador de registo de dados, em substituição dos lugares de mecanógrafo de 1.ª classe, de 2.ª classe e de 3.ª classe, extintos nos termos do artigo 28.º do presente diploma.
+Art. 30.º - 1 - São criados na Universidade do Porto, no mapa I anexo ao [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro, os lugares de monitor, operador de registo de dados principal e operador de registo de dados, em substituição dos lugares de mecanógrafo de 1.ª classe, de 2.ª classe e de 3.ª classe, extintos nos termos do artigo 28.º do presente diploma.
 
 2 - A transição e provimento dos lugares criados ao abrigo do disposto no número anterior far-se-á nos termos das disposições aplicáveis ao presente diploma.
 
-###### Art. 31.º - 1 - O reitor da Universidade do Porto nomeará, no prazo de 30 dias a contar da data da publicação do presente diploma, de acordo com o disposto no seu artigo 9.º, os membros do conselho de gestão do Centro.
+Art. 31.º - 1 - O reitor da Universidade do Porto nomeará, no prazo de 30 dias a contar da data da publicação do presente diploma, de acordo com o disposto no seu artigo 9.º, os membros do conselho de gestão do Centro.
 
 2 - A primeira reunião do conselho de utentes será convocada pelo reitor nos 30 dias seguintes à posse do conselho de gestão, após ter tomado as medidas adequadas à sua constituição.
 
 3 - Na primeira reunião os membros do conselho de utentes elegerão de entre si o respectivo presidente.
 
-###### Art. 32.º Em virtude das alterações resultantes da aplicação do disposto no presente diploma, o mesmo produzirá efeitos desde 1 de Julho de 1979, no concernente à contagem de tempo de serviço para antiguidade na categoria.
+Art. 32.º Em virtude das alterações resultantes da aplicação do disposto no presente diploma, o mesmo produzirá efeitos desde 1 de Julho de 1979, no concernente à contagem de tempo de serviço para antiguidade na categoria.
 
-###### Art. 33.º Os encargos resultantes da aplicação deste diploma serão satisfeitos no corrente ano por disponibilidades do orçamento da Universidade do Porto.
+Art. 33.º Os encargos resultantes da aplicação deste diploma serão satisfeitos no corrente ano por disponibilidades do orçamento da Universidade do Porto.
 
-###### Art. 34.º Enquanto não for possível estabelecer no orçamento da Universidade do Porto dotação própria do Centro, proceder-se-á da seguinte forma:
+Art. 34.º Enquanto não for possível estabelecer no orçamento da Universidade do Porto dotação própria do Centro, proceder-se-á da seguinte forma:
 
 a) Os encargos com o pessoal serão satisfeitos mediante cativação nas verbas orçamentais por onde vinham a ser abonados;
 
 b) Os encargos resultantes da sua criação e funcionamento serão suportados pelo orçamento da Universidade.
 
-###### Art. 35.º Sem prejuízo do disposto no presente diploma, é aplicável ao Centro o regime estabelecido pelo [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+Art. 35.º Sem prejuízo do disposto no presente diploma, é aplicável ao Centro o regime estabelecido pelo [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
 
-###### Art. 36.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 36.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Mário Soares - Carlos Alberto da Mota Pinto - José Manuel San-Bento de Menezes - Alípio Barrosa Pereira Dias - Joaquim Germano Pinto Machado Correia da Silva.
 
-**Promulgado em 12 de Fevereiro de 1985.**
+Promulgado em 12 de Fevereiro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 13 de Fevereiro de 1985.**
+Referendado em 13 de Fevereiro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/02/04700/04610465.pdf))](https://files.diariodarepublica.pt/1s/1985/02/04700/04610465.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/02/04700/04610465.pdf)
 
 MAPA II
 
 Quadro de pessoal do Centro de Informática da Universidade do Porto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/02/04700/04610465.pdf))](https://files.diariodarepublica.pt/1s/1985/02/04700/04610465.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/02/04700/04610465.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/550/1994/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/550-1994-231877
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T08:21:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b2a1742cfb956d26dd7363eb5f85bcae52a7d55c42bfbc411c8ff273dc43150
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: baa2888aa687ca43e186722197b042191d234933c297f7e862cedcfa27939456
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:21:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Desenvolvimento Industrial
+- Financiamento
 - Indústria
 - Regime de Apoio à Promoção da Qualidade Industrial
 relationships:
@@ -74,6 +74,23 @@ relationships:
   target: pt:dre:208999:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 165/94, DE 20 DE SETEMBRO, PUBLICADA NO DR.IS-B, 227, 3 SUPL, DE 940930.\0\
+    \ 940930."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-09-30'
+- type: amended_by
+  target: pt:dre:559029:por
+  label: "Alterados os arts 5º, 6º, 7º, 10º e 12º pelo DN.6/97.1996.12.31.MECO, DR.IS-B [32] de 1997.02.07\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-1997-559029
+  date: '1996-12-31'
+- type: amended_by
+  target: pt:dre:208999:por
+  label: "Alterada a redacção dos arts. 1º, 2º, 5º, 6º e 8º a 12º, bem como o anexo, alterado pelo DN 6/97 de 31-Dez 1996\
+    \ DR.IS-B [32] de 07/Fev/1997 pelo DN.25/98.1998.03.12.MECO, DR.IS-B [79] de 03/Abr/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/25-1998-208999
+  date: '1998-03-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/177/1994/06/27/p/dre
   label: null
@@ -90,16 +107,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
+- type: cites
+  target: pt:dre:231890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291631:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:21:33Z'
   warnings: []
   errors: []
 ---

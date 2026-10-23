@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/07/16900/10251027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/453-1975-336675
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T04:47:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98fbad9db38371db5a465376c2cbab30addd860b7334bf699721a569df81db5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4834117c188f17ef198227c8c07131439ff1dd0bf47cf57978e77cb5e972e71d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:47:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Movimento das Forças Armadas
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:307388:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:442355:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:307388:por
+  label: Revogada a presente portaria, pelo(a) Portaria n.º 554/75 - Diário do Governo n.º 214/1975, Série I de 1975-09-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/554-1975-307388
+  date: '1975-09-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:47:05Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +114,7 @@ REGULAMENTO PARA A ORGANIZAÇÃO E FUNCIONAMENTO DO MFA NA FORÇA AÉREA
 
 ### CAPÍTULO I — Dos órgãos em geral
 
-###### Artigo 1.º A organização interna do MFA na Força Aérea processar-se-á através dos seguintes órgãos:
+Artigo 1.º A organização interna do MFA na Força Aérea processar-se-á através dos seguintes órgãos:
 
 a) Colégio dos Representantes da Força Aérea no Conselho da Revolução (Colégio);
 
@@ -114,13 +126,13 @@ d) Secções do MFA nas unidades ou órgãos (SECMFA);
 
 e) Assembleias de unidade ou órgão.
 
-###### Art. 2.º Consideram-se como elementos do Movimento das Forças Armadas todos os militares da Força Aérea que se identifiquem objectivamente com os princípios consignados no Programa do MFA, designadamente a defesa intransigente dos interesses das classes mais desfavorecidas, com as conquistas legitimamente obtidas ao longo do processo, com os desenvolvimentos ao Programa do MFA impostos pela dinâmica revolucionária e com a via original e irreversível que levará o País para um verdadeiro socialismo português.
+Art. 2.º Consideram-se como elementos do Movimento das Forças Armadas todos os militares da Força Aérea que se identifiquem objectivamente com os princípios consignados no Programa do MFA, designadamente a defesa intransigente dos interesses das classes mais desfavorecidas, com as conquistas legitimamente obtidas ao longo do processo, com os desenvolvimentos ao Programa do MFA impostos pela dinâmica revolucionária e com a via original e irreversível que levará o País para um verdadeiro socialismo português.
 
-###### Art. 3.º A dinamização interna e a formação política do pessoal das unidades e órgãos da Força Aérea é considerada tarefa prioritária na presente conjuntura.
+Art. 3.º A dinamização interna e a formação política do pessoal das unidades e órgãos da Força Aérea é considerada tarefa prioritária na presente conjuntura.
 
 ### CAPÍTULO II — Do Colégio dos Representantes da Força Aérea no Conselho da Revolução
 
-###### Art. 4.º - 1. O Colégio, constituído pelos representantes da Força Aérea no Conselho da Revolução, é o órgão superior do Movimento das Forças Armadas na Força Aérea.
+Art. 4.º - 1. O Colégio, constituído pelos representantes da Força Aérea no Conselho da Revolução, é o órgão superior do Movimento das Forças Armadas na Força Aérea.
 
 2. São funções deste Colégio:
 
@@ -132,7 +144,7 @@ c) Nomear entre os membros da AFA, mediante proposta do GABCOMFA, os representan
 
 ### CAPÍTULO III — Da Assembleia da Força Aérea
 
-###### Art. 5.º - 1. A assembleia representativa do MFA na Força Aérea tem a designação de Assembleia da Força Aérea (AFA) e é constituída por um máximo de duzentos e quarenta elementos, oficiais, sargentos e praças dos quadros permanentes e de complemento, de todas as unidades e órgãos da Força Aérea.
+Art. 5.º - 1. A assembleia representativa do MFA na Força Aérea tem a designação de Assembleia da Força Aérea (AFA) e é constituída por um máximo de duzentos e quarenta elementos, oficiais, sargentos e praças dos quadros permanentes e de complemento, de todas as unidades e órgãos da Força Aérea.
 
 2. Os representantes da Força Aérea na Assembleia do MFA, dos quais farão parte obrigatoriamente os membros do Colégio e do GABCOMFA, serão membros, por inerência, desta Assembleia.
 
@@ -156,7 +168,7 @@ e) Retirar o mandato a qualquer dos seus membros quando não satisfaçam o dispo
 
 ### CAPÍTULO IV — Do Gabinete de Coordenação do MFA na Força Aérea
 
-###### Art. 6.º - 1. O órgão central de coordenação do Movimento das Forças Armadas na Força Aérea tem a designação de Gabinete de Coordenação do Movimento das Forças Armadas na Força Aérea (GABCOMFA) e funciona na dependência do Colégio dos Representantes, através do Chefe do Estado-Maior da Força Aérea.
+Art. 6.º - 1. O órgão central de coordenação do Movimento das Forças Armadas na Força Aérea tem a designação de Gabinete de Coordenação do Movimento das Forças Armadas na Força Aérea (GABCOMFA) e funciona na dependência do Colégio dos Representantes, através do Chefe do Estado-Maior da Força Aérea.
 
 2. Este Gabinete é um órgão eminentemente político, constituído paritariamente por oficiais, sargentos e praças do MFA, representativos das respectivas classes, nomeados pelo Colégio dos Representantes e em regime de tempo integral sem acumulação de funções.
 
@@ -200,7 +212,7 @@ c) Relações públicas.
 
 ### CAPÍTULO V — Das secções do Movimento das Forças Armadas nas unidades e órgãos
 
-###### Art. 7.º - 1. São instituídas em todas as unidades e órgãos da Força Aérea, na dependência funcional do GABCOMFA e funcionando junto do respectivo comando ou chefia, órgãos de coordenação local do MFA com a designação de Secções do MFA.
+Art. 7.º - 1. São instituídas em todas as unidades e órgãos da Força Aérea, na dependência funcional do GABCOMFA e funcionando junto do respectivo comando ou chefia, órgãos de coordenação local do MFA com a designação de Secções do MFA.
 
 2. Estas Secções são órgãos eminentemente políticos, constituídos por um número variável de oficiais, sargentos e praças do MFA, escolhidos pelo Chefe do Estado-Maior da Força Aérea, ouvido o GABCOMFA, de entre os elementos eleitos pela unidade ou órgão em quantidade dupla do número de lugares a preencher.
 
@@ -240,7 +252,7 @@ b) Todos os assuntos de interesse nacional, por solicitação do GABCOMFA, quand
 
 ### CAPÍTULO VI — Das assembleias de unidade ou órgão
 
-###### Art. 8.º - 1. São instituídas em todas as unidades e órgãos da Força Aérea assembleias representativas designadas por Assembleia de Delegados da Unidade ou Órgão, com composição a definir conjuntamente pelo respectivo comandante ou chefe e pela SECMFA.
+Art. 8.º - 1. São instituídas em todas as unidades e órgãos da Força Aérea assembleias representativas designadas por Assembleia de Delegados da Unidade ou Órgão, com composição a definir conjuntamente pelo respectivo comandante ou chefe e pela SECMFA.
 
 2. A Assembleia reúne mediante convocação da respectiva SECMFA e do comandante ou chefe, por iniciativa própria, ou das entidades referidas no n.º 4 do artigo 5.º
 
@@ -260,6 +272,6 @@ d) Apreciar os actos da SECMFA praticados no exercício das atribuições que lh
 
 e) Retirar o mandato a qualquer dos seus membros quando não satisfaçam o disposto no artigo 2.º ou nos termos do regulamento que vier a ser aprovado.
 
-###### Art. 9.º Todos os casos omissos no presente Regumento são resolvidos pelo Chefe do Estado-Maior da Força Aérea, ouvido o Colégio dos Representantes.
+Art. 9.º Todos os casos omissos no presente Regumento são resolvidos pelo Chefe do Estado-Maior da Força Aérea, ouvido o Colégio dos Representantes.
 
-**O Chefe do Estado-Maior da Força Aérea, José Alberto Morais da Silva, general.**
+O Chefe do Estado-Maior da Força Aérea, José Alberto Morais da Silva, general.

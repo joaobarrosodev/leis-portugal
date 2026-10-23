@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/366/1999/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:11:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb8236e3e778d974521e77638d52eb9258deda0ec795b413c29f76fb4518e7c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e05107a36c4a2bdf84014c5ee047e1aa830eac5dd12bf7fea74c7d30315bed4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:11:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,6 +77,31 @@ relationships:
   target: pt:dre:106579666:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:405937:por
+  label: "Alterado o art. 29º pelo DEC LEI.3/2000.2000.01.29.MF,DR.IS-A [24]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-2000-405937
+  date: '2000-01-29'
+- type: amended_by
+  target: pt:dre:218365:por
+  label: "Alterados os arts. 2º, 9º, 16º, 18º, 19º e 23º do presente diploma, na redacção dada pelo Dec Lei 262/2002 de 25-Nov,\
+    \ pelo DEC LEI.237/2004.18.12.2004.MFAP, DR.IS-A [295] de 18.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-2004-218365
+  date: '2004-12-18'
+- type: amended_by
+  target: pt:dre:624873:por
+  label: "Extintos a Direcção de Finanças da Região Autónoma da Madeira e serviços dela dependentes, previstos nos arts. 32º\
+    \ e 33º do Dec Lei 408/93 de 14-Dez alterado pelo presente diploma, e transferidos para aquela Região Autónoma as atribuições,\
+    \ competências fiscais e patrimoniais bem como os direitos, obrigações, posições contratuais e direitos de arrendamento\
+    \ dos serviços ora extintos, pelo DEC LEI.18/2005.18.01.2005.MFAP, DR.IS-A [12] de 18.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2005-624873
+  date: '2005-01-18'
+- type: amended_by
+  target: pt:dre:145591:por
+  label: "Mantido em vigor o disposto no nº 5 do art. 6º (na redacção do Dec Lei 262/2002, de 25-Nov) e nºs 1 e 2 do art.\
+    \ 23º (na redacção do Dec Lei 237/2004, de 18-Dez), pelo DEC LEI.118/2011.15.12.2011.MF, DR.IS [239] de 15.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-2011-145591
+  date: '2011-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/408/1993/12/14/p/dre
   label: null
@@ -89,16 +114,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559038:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:448153:por
+  label: "Revogado o art. 10º e alterados os arts 6º e 9º pelo DEC LEI.262/2002.2002.11.25.MF, DR.IS-A [272] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/262-2002-448153
+  date: '2002-11-25'
+- type: repealed_by
+  target: pt:dre:197511:por
+  label: "Revogada a al. b) do art. 27º pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: repealed_by
+  target: pt:dre:520434:por
+  label: "Revogado o presente diploma, com excepcção do disposto na parte final do n.º 4 do artigo 5.º, no n.º 5 do artigo\
+    \ 6.º, no n.º 5 do artigo 9.º e nos nºs 1 e 2 do artigo 23.º, pelo DEC LEI.81/2007.29.03.2007.MFAP, DR.IS [63] de 29.03.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-2007-520434
+  date: '2007-03-29'
 article_structure:
   article_count: 29
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:11:12Z'
   warnings: []
   errors: []
 ---
@@ -491,12 +545,12 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 2000, salvo as normas l
 
 Visto e aprovado em Conselho de Ministros de 1 de Julho de 1999. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Fausto de Sousa Correia.
 
-**Promulgado em 7 de Setembro de 1999.**
+Promulgado em 7 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Setembro de 1999.**
+Referendado em 9 de Setembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

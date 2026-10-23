@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 30/1983, 1º Suplemento, Série I de 1983-02-05
   number: '30'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 368-(1) a 368-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/03001/00010001.pdf
 entry_into_force_dates: []
@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/136-a-1983-153344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T07:32:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3a7064279dfe59de9754b065933033061629c1fee966eaab0b1ab785a49aee6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e72f6c7ec2cff64b9b5fb5408785b9adf94e8851ff5150465d24dfe83b1a08f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:32:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral do Tesouro
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:393063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:32:50Z'
   warnings: []
   errors: []
 ---

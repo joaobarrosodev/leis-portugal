@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/17800/17891790.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/389-1979-381475
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1f76a92146592326249b67911228f9dd531b6dd96b3563d9d64bc8ec9e7b776
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83e0a7520ec60df8d015d1f60674f537b7d03168fecd003478a1eb28f984eb86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Academia Militar
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:473686:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:329665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408898:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:473686:por
+  label: "Revogada pela PORT.347/80.24.06.1980.CR, DR.IS [143] de 24.06.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/347-1980-473686
+  date: '1980-06-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:24Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +135,7 @@ c) No caso de os candidatos não terem possibilidades, até à data do encerrame
 
 5.º O artigo 28.º passa a ter a seguinte redacção:
 
-###### Art. 28.º Os candidatos civis e militares realizam as operações do concurso mencionadas.
+Art. 28.º Os candidatos civis e militares realizam as operações do concurso mencionadas.
 
 § único. Os candidatos oriundos directamente dos cursos do Colégio Militar e do Instituto Militar dos Pupilos do Exército que tiverem obtido a classificação final de Bom ou superior (media igual ou superior a 14 valores) no curso complementar do ensino secundário daqueles estabelecimentos de ensino, incluindo as disciplinas de Instrução Militar e de Educação Física, são dispensados das provas de aptidão física e de aptidão cultural e admitidos em primeiro lugar até à concorrência de 25% das vagas abertas.
 
@@ -142,11 +157,11 @@ b) Vogais:
 
 c) Secretário:
 
-**O chefe da Secção de Recrutamento e Admissão da Direcção de Instrução.**
+O chefe da Secção de Recrutamento e Admissão da Direcção de Instrução.
 
 7.º O artigo 73.º passa a ter a seguinte redacção:
 
-###### Art. 73.º - 1 - A prova psicotécnica, 1.ª parte, é constituída por uma bateria de testes factoriais.
+Art. 73.º - 1 - A prova psicotécnica, 1.ª parte, é constituída por uma bateria de testes factoriais.
 
 2 - A prova psicotécnica, 2.ª parte, é constituída por um conjunto de provas de situação.
 
@@ -160,7 +175,7 @@ b) Para a 2.ª parte, que integra a apreciação da 1.ª parte, num parecer qual
 
 8.º O artigo 82.º passa a ter a seguinte redacção:
 
-###### Art. 82.º Em caso de igualdade de aptidão, observar-se-ão as seguintes condições de preferência:
+Art. 82.º Em caso de igualdade de aptidão, observar-se-ão as seguintes condições de preferência:
 
 a) Para candidatos civis:
 
@@ -184,13 +199,13 @@ Menor idade.
 
 9.º São aditados dois artigos com a seguinte redacção:
 
-###### Art. 84.º - 1 - Os candidatos admitidos são incorporados no corpo de alunos da Academia Militar.
+Art. 84.º - 1 - Os candidatos admitidos são incorporados no corpo de alunos da Academia Militar.
 
 2 - Quando se verifiquem desistências ou faltas no acto da incorporação, o comandante da Academia Militar pode promover o completamento das vagas convocando os candidatos seguintes aptos no exame de admissão.
 
 3 - A incorporação é objecto de publicação na Ordem do Exército.
 
-###### Art. 85.º No acto da incorporação, os candidatos assinam um termo de responsabilidade e uma declaração de compromisso referentes às leis e regulamentos a que ficam sujeitos.
+Art. 85.º No acto da incorporação, os candidatos assinam um termo de responsabilidade e uma declaração de compromisso referentes às leis e regulamentos a que ficam sujeitos.
 
 10.º Os artigos 84.º, 85.º, 86.º e 87.º passam a 86.º, 87.º, 88.º e 89.º, respectivamente.
 

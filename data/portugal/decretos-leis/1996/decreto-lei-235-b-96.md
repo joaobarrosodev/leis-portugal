@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 287/1996, 1º Suplemento, Série I-A de 1996-12-12
   number: '287'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4442-(2) a 4442-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/287a01/00020006.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/235-b/1996/12/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-b-1996-504979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:46:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 909f1ab018c6cf932ebe619dd612c640ffe0aa7cf268ae26cf305932fd193f8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d118ca9208002c855f253e80d0ccc2410a02cd716c56dd353894d7119bdba47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:46:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,7 +66,6 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Geral
-- Sociedade Anónima
 - Capital Social
 - Conselho de Administração
 - Conselho Estratégico
@@ -76,11 +75,12 @@ subjects:
 - Estatuto
 - Fiscalização
 - Indep
-- Reestruturação Industrial
 - Ogma-indústria Aeronáutica de Portugal
 - Participação do Estado
+- Reestruturação Industrial
 - Setor Público
 - SGPS
+- Sociedade Anónima
 - Sociedade Holding
 - Transferência de Capitais
 relationships:
@@ -88,6 +88,12 @@ relationships:
   target: pt:dre:25345631:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25345631:por
+  label: "Determinado o início do processo conducente à dissolução e liquidação da EMPORDEF - Empresa Portuguesa de Defesa\
+    \ (SGPS), S.A. (EMPORDEF), criada pelo presente diploma, pela RES.42/2014.27.06.2014.PCM, DR.IS [122] de 27.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/42-2014-25345631
+  date: '2014-06-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/362/1991/10/03/p/dre
   label: null
@@ -96,16 +102,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/42/1994/02/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/42/1994/02/14/p/dre
+- type: cites
+  target: pt:dre:293719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524793:por
+  label: null
+  source: null
 article_structure:
   article_count: 38
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:46:18Z'
   warnings: []
   errors: []
 ---
@@ -240,15 +258,15 @@ As alterações que venham a ser introduzidas nos Estatutos da OGMA - Indústria
 
 Visto e aprovado em Conselho de Ministros de 17 de Outubro de 1996. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - Augusto Carlos Serra Ventura Mateus - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 9 de Dezembro de 1996.**
+Promulgado em 9 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Dezembro de 1996.**
+Referendado em 11 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ESTATUTOS
 

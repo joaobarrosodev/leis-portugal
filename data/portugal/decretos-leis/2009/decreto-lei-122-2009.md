@@ -53,18 +53,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/122/2009/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3a9b8d3531b60dc071d70a6d2a9b4c07a1d0cf6e4c4b21efde0afdaf5deac71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd0cc8a60781d712571e9b8f2f7df1bdbbc53674c09283cdff428104e8075897
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,40 +72,80 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Garantia
-- Modernização Administrativa
 - Cartório Notarial de Competência Especializada
+- Cessação de Actividade
 - Código do IRC
 - Código do IVA
 - Código do Registo Comercial
 - Código do Registo Predial
 - Conservador
-- Instituto dos Registos e do Notariado
 - Emolumento
 - Emparcelamento
-- Cessação de Actividade
 - Entidade Patronal
 - Ficheiro Central de Pessoas Colectivas
-- Instituto Nacional da Propriedade Industrial
-- Transmissão da Propriedade
 - Gabinete para a Resolução Alternativa de Litígios
+- Garantia
+- Instituto dos Registos e do Notariado
+- Instituto Nacional da Propriedade Industrial
+- Modernização Administrativa
 - Oficial dos Registos e do Notariado
 - Oneração de Imóveis
 - Pessoa Coletiva
 - Pessoa Singular
 - Prédio Rústico
+- Registo Comercial
 - Registo de Hipotecas
 - Registo Nacional de Pessoas Coletivas
 - Registo Predial
 - Regulamento Emolumentar dos Registos e Notariado
 - Segurança Social
-- Registo Comercial
 - Taxa
+- Transmissão da Propriedade
 relationships:
 - type: amended_by
   target: pt:dre:122349220:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493506:por
+  label: "Alterado o art. 53º-A do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.185/2009.12.08.2009.MFAP, DR.IS [155] de 12.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-2009-493506
+  date: '2009-08-12'
+- type: amended_by
+  target: pt:dre:176071:por
+  label: "Alterado o art. 8º do diploma prembular bem como os art.s 23º e 27º do Regulamento Emolumentar dos Registos e do\
+    \ Notariado aprovado pelo Dec Lei 322-A/2001, de 14-dez, na redação do presente diploma, pelo DEC LEI.209/2012.19.09.2012.MJ,\
+    \ DR.IS [182] de 19.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2012-176071
+  date: '2012-09-19'
+- type: amended_by
+  target: pt:dre:499550:por
+  label: "Alterado o art. 8º-B do Código do Registo Predial aprovado pelo Dec Lei 224/84, de 06-jul, na redação do presente\
+    \ diploma, pelo DEC LEI.125/2013.30.08.2013.MJ, DR.IS [167] de 30.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2013-499550
+  date: '2013-08-30'
+- type: amended_by
+  target: pt:dre:66414231:por
+  label: Alterados a partir de 03.06.2015 o art. 8º do Dec Lei 322-A/2001, de 14-dez e o art. 23.º do Regulamento Emolumentar
+    dos Registos e do Notariado aprovado em anexo ao mesmo, na redação do presente diploma, pelo(a) Decreto-Lei n.º 19/2015
+    - Diário da República n.º 23/2015, Série I de 2015-02-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-2015-66414231
+  date: '2015-02-03'
+- type: amended_by
+  target: pt:dre:70300348:por
+  label: Alterado, a partir de 01.11.2015, o art. 52.º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86 de 03-dez,
+    com a redação dada pelo presente diploma, pelo(a) Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I
+    de 2015-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-2015-70300348
+  date: '2015-09-17'
+- type: amended_by
+  target: pt:dre:107094725:por
+  label: Alterado o art. 8.º-B do Código do Registo Predial, aprovado pelo Dec Lei 224/84 de 06-jul, na versão republicada
+    do Código pelo Dec Lei 116/2008 de 04-jul, na redação do presente diploma, pelo(a) Lei n.º 30/2017 - Diário da República
+    n.º 104/2017, Série I de 2017-05-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2017-107094725
+  date: '2017-05-30'
 - type: cites
   target: eli:http://data.dre.pt/e
   label: null
@@ -146,16 +186,97 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/8-b/2002/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/8-b/2002/01/15/p/dre
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado o Dec Lei 8-B/2002, de 15-Jan, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada\
+    \ pela Lei n.º 119/2009, de 30 de Dezembro), na redacção do presente diploma, pela LEI.110/2009.16.09.2009.AR, DR.IS [180]\
+    \ de 16.09.2009, sem prejuízo de, até à entrada em vigor da regulamentação [prevista no art. 4.º] se manter transitoriamente\
+    \ em vigor as disposições procedimentais do diploma revogado que não contrariem o disposto no Código aprovado pela citada\
+    \ Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
+- type: repealed_by
+  target: pt:dre:179775:por
+  label: "Revogado, a partir de 01.08.2012, o Dec Lei 129/2007, de 27-abr, na redação do presente diploma, pelo DEC LEI.148/2012.12.07.2012.MJ,\
+    \ DR.IS [134] de 12.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2012-179775
+  date: '2012-07-12'
+- type: repealed_by
+  target: pt:dre:179779:por
+  label: "Revogado, a partir de 01.08.2012, o Dec Lei 132/2007, de 27-abr, na redação do presente diploma, pelo DEC LEI.147/2012.12.07.2012.MJ,\
+    \ DR.IS [134] de 12.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-2012-179779
+  date: '2012-07-12'
 article_structure:
-  article_count: 32
+  article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:09Z'
   warnings: []
   errors: []
 ---
@@ -206,7 +327,9 @@ Os artigos 8.º-B e 56.º do Código do Registo Predial, aprovado pelo [Decreto-
 
 7 - Quando o registo do cancelamento de hipoteca deva ser requerido isoladamente, a respectiva promoção constitui obrigação do titular do direito de propriedade.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - ...
 
@@ -248,7 +371,9 @@ Os artigos 52.º e 53.º-A do Código do Registo Comercial, aprovado pelo [Decre
 
 6 - Se, nos termos do número anterior, o registo for recusado porque o facto é posterior à data da apresentação, deve ser efectuada nova apresentação imediatamente após a última apresentação pessoal do dia em que foi efectuado o despacho de recusa, transferindo-se a totalidade dos emolumentos pagos na primeira apresentação.
 
-###### Artigo 53.º-A — [...]
+Artigo 53.º-A
+
+[...]
 
 1 - ...
 
@@ -330,7 +455,9 @@ Os artigos 4.º, 8.º, 10.º e 11.º do [Decreto-Lei n.º 8-B/2002](https://diar
 
 4 - Consideram-se oficiosamente inscritas na segurança social todas as entidades empregadoras cuja inscrição no registo comercial ou, tratando-se de entidade não sujeita a registo comercial obrigatório, no ficheiro central de pessoas colectivas, seja comunicada pelos serviços de registo.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As entidades empregadoras que não estejam sujeitas a registo comercial ou a inscrição no ficheiro central de pessoas colectivas devem, para efeitos do disposto no artigo anterior, apresentar formulário de modelo próprio devidamente preenchido, acompanhado dos documentos de prova nele exigido, integrando aquele obrigatoriamente os seguintes elementos:
 
@@ -344,13 +471,17 @@ d) (Revogado.)
 
 2 - (Revogado.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - As entidades empregadoras referidas no n.º 1 do artigo 8.º são obrigadas a proceder à respectiva identificação perante o sistema de solidariedade e segurança social no prazo de 10 dias úteis a contar da data em que se tiver verificado o início da actividade.
 
 2 - (Revogado.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -448,7 +579,9 @@ Os artigos 1.º, 2.º, 4.º, 7.º, 8.º, 13.º, 17.º e 26.º do [Decreto-Lei n.
 
 É criado o procedimento especial de transmissão, oneração e registo imediato de prédios em atendimento presencial único.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -460,13 +593,17 @@ b) Prédios rústicos;
 
 c) Prédios urbanos formados, no próprio acto, a partir de outros, por fraccionamento ou emparcelamento.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O procedimento previsto no presente decreto-lei cabe aos serviços com competência para a prática de actos de registo predial, independentemente da área da situação do prédio.
 
 2 - A competência atribuída aos serviços de registo nos termos do número anterior é aplicável à transmissão, oneração e registo de prédios com agendamento da data de realização do negócio jurídico.
 
-###### Artigo 7.º — Formalidades prévias
+Artigo 7.º
+
+Formalidades prévias
 
 1 - ...
 
@@ -488,7 +625,9 @@ c) Prédios urbanos formados, no próprio acto, a partir de outros, por fraccion
 
 10 - (Anterior n.º 7.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -510,7 +649,9 @@ c) Prédios urbanos formados, no próprio acto, a partir de outros, por fraccion
 
 10 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, o registo previsto na secção anterior é aplicável, com as necessárias adaptações, à transmissão, oneração e registo de prédios com agendamento da data da realização do negócio jurídico.
 
@@ -520,7 +661,9 @@ c) Prédios urbanos formados, no próprio acto, a partir de outros, por fraccion
 
 4 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -530,7 +673,9 @@ c) Prédios urbanos formados, no próprio acto, a partir de outros, por fraccion
 
 4 - A redução prevista no número anterior é válida por uma única vez e não pode exceder o valor devido pelo respectivo procedimento.
 
-###### Artigo 26.º — Disponibilização dos procedimentos
+Artigo 26.º
+
+Disponibilização dos procedimentos
 
 1 - (Revogado.)
 
@@ -578,7 +723,9 @@ Declaração do representante para efeitos tributários
 
 No momento do registo do encerramento da liquidação ou da cessação de actividade, consoante o caso, deve ser obrigatoriamente indicado o representante para efeitos tributários, nos termos do n.º 4 do artigo 19.º do [Decreto-Lei n.º 398/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1998-191558), de 17 de Dezembro, para comunicação obrigatória, e por via electrónica, aos serviços da administração tributária.
 
-###### Artigo 72º-A — Comunicações obrigatórias
+Artigo 72º-A
+
+Comunicações obrigatórias
 
 1 - É oficiosa e gratuitamente comunicado, por via electrónica, o conteúdo dos seguintes actos de registo aos serviços da administração tributária e da segurança social:
 
@@ -660,12 +807,12 @@ Os cartórios notariais de competência especializada criados ao abrigo do dispo
 
 Visto e aprovado em Conselho de Ministros de 19 de Fevereiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Costa Pina - José Manuel Vieira Conde Rodrigues - José António Fonseca Vieira da Silva.
 
-**Promulgado em 8 de Maio de 2009.**
+Promulgado em 8 de Maio de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Maio de 2009.**
+Referendado em 12 de Maio de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

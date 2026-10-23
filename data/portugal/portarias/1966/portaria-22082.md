@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22082-1966-472318
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:17:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f5e4f69402fea8a8bdf381e7b2db028bac154aa56d83155c185529ad5edee7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b065a6f932eb0e0b3ca8fd78fbd3b1989b2273cfaed513d0db28bba51774f54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535977:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:17:55Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +112,11 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comérci
 
 a) Preços a pagar aos apanhadores, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/06/14700/11251126.pdf))](https://files.diariodarepublica.pt/1s/1966/06/14700/11251126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/06/14700/11251126.pdf)
 
 b) Preços de venda à indústria nacional, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/06/14700/11251126.pdf))](https://files.diariodarepublica.pt/1s/1966/06/14700/11251126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/06/14700/11251126.pdf)
 
 2.º Os preços de venda à indústria entendem-se para as plantas marinhas entregues à porta dos armazéns da Junta Central das Casas dos Pescadores, em fardos atados com arame.
 

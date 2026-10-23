@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/27/2005/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7997ccc8df8bf9b93d75bc94605c26b9f8d34a2bba9ce6afea86bf4e92227139
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e39204dbf0f33b86e5f26ddee21bc5b3922db0a64c140c45fc8de52a366ff6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imigração
 - ALTO Comissariado para a Imigração e Minorias Étnicas
 - Centro Local de Apoio ao Imigrante
 - Centro Nacional de Apoio ao Imigrante
 - Comissão para a Igualdade e contra a Discriminação Racial
 - Criação de Serviços
 - Definição de Competências
-- Primeiro-ministro
+- Imigração
 - Mediação Sócio-Cultural
 - Orgânica
+- Primeiro-ministro
 relationships:
 - type: amended_by
   target: pt:dre:360114:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:360114:por
+  label: "Mantido o estatuto de coordenador nacional do Programa pelo alto-comissário para a Imigração e Minorias Étnicas,\
+    \ definido no Dec Lei 251/2002 de 22-Nov, na redacção do presente diploma, pela RES.80/2006.25.05.2006.PCM, DR.IS-B [121]\
+    \ de 26.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/80-2006-360114
+  date: '2006-05-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2000/07/04/p/dre
   label: null
@@ -121,16 +128,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:211817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632069:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
+  article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:20Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +222,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º e 7.º do [Decreto-Lei n.º 251/20
 
 2 - ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 ...
 
@@ -193,7 +246,9 @@ h) ...
 
 i) ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -205,7 +260,9 @@ c) [Anterior alínea b).]
 
 d) [Anterior alínea c).]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -233,7 +290,9 @@ g) [Anterior alínea e).]
 
 6 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -285,7 +344,9 @@ d) ...
 
 e) ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -297,7 +358,9 @@ e) ...
 
 5 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -339,15 +402,15 @@ O disposto no presente diploma não prejudica o anteriormente estabelecido para 
 
 Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - Nuno Albuquerque Morais Sarmento - António José de Castro Bagão Félix - António Victor Martins Monteiro - Daniel Viegas Sanches - José Luís Fazenda Arnaut Duarte - Maria do Carmo Félix da Costa Seabra - Fernando Mimoso Negrão - Rui Manuel Lobo Gomes da Silva.
 
-**Promulgado em 20 de Janeiro de 2005.**
+Promulgado em 20 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Janeiro de 2005.**
+Referendado em 26 de Janeiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 251/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2002-448756), de 22 de Novembro
 

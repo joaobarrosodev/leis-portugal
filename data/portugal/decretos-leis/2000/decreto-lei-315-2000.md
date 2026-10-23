@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/278a00/69176919.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/315/2000/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2000-599114
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b518a9b9ab91acedff5ed9ac1e949a5abd8ebf1a1eac40290bfa95bbe602012
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 070db440dd1274591af7fbe9087ba52ff085f6579f51c526eb1a828897827e7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Contabilidade
 - Finanças Locais
 - Gestão Autárquica
 - Plano de Actividades
 - Pocal
 - Relatório e Contas
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:70262478:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:150946:por
+  label: "Alterado o nº 3.3 «Regras Previsionais» do Plano Oficial de Contabilidade das Autarquias Locais, aprovado pelo Dec\
+    \ Lei 54-A/99 de 22-Fev, com a redacção do presente diploma, pelo DEC LEI.84-A/2002.2002.04.05.MAOT DR.IS-A [80]Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-a-2002-150946
+  date: '2002-04-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/226/1993/06/22/p/dre
   label: null
@@ -94,16 +101,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/42/1998/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/42/1998/08/06/p/dre
+- type: cites
+  target: pt:dre:268600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621931:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70262478:por
+  label: Revogado, com efeitos a 01.01.2017, com exceção dos pontos 2.9, 3.3 e 8.3.1, relativos, respetivamente, ao controlo
+    interno, às regras previsionais e às modificações do orçamento, o Dec Lei 54-A/99, de 22-fev, na redação do presente diploma,
+    pelo(a) Decreto-Lei n.º 192/2015 - Diário da República n.º 178/2015, Série I de 2015-09-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-2015-70262478
+  date: '2015-09-11'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:23Z'
   warnings: []
   errors: []
 ---
@@ -142,18 +180,20 @@ Fases de implementação
 
 4 - A elaboração das contas das autarquias locais segundo o Plano aprovado pelo presente diploma é obrigatória a partir do exercício relativo ao ano de 2002.
 
-###### Artigo 12.º — Norma revogatória
+Artigo 12.º
+
+Norma revogatória
 
 Sem prejuízo do disposto no artigo 10.º, são revogados, a partir do dia 1 de Janeiro de 2002, os Decretos-Leis n.os [341/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1983-453822) e [226/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1993-268600), de 21 de Julho e de 22 de Junho, respectivamente, e o [Decreto Regulamentar n.º 92-C/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/92-c-1984-621931), de 28 de Dezembro.»
 
 Visto e aprovado em Conselho de Ministros de 26 de Outubro de 2000. - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes Pina Moura - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 21 de Novembro de 2000.**
+Promulgado em 21 de Novembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Novembro de 2000.**
+Referendado em 23 de Novembro de 2000.
 
 Pelo Primeiro-Ministro, Jorge Paulo Sacadura Almeida Coelho, Ministro de Estado.

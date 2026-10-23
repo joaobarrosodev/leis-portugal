@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/02000/0000300011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/6/2023/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2023-206618938
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e91215d586b408c05188e2da1d5151d7d88d605ef168e874f97f7584f906143
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 564b4a905d25806c635505dbdf25478ffcf603e7a193f8a80c0f01fcb87e428e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
 - Ajuda Comunitária
-- Gás Natural
-- Financiamento
-- Estabelecimento Industrial
-- Gás
-- Indústria
+- Atividade Industrial
+- Balcão 2020
 - Desenvolvimento Económico
+- Emprego
+- Estabelecimento Industrial
+- Financiamento
+- Gás
+- Gás Natural
+- IAPMEI
+- Indústria
+- PORTUGAL 2020
 - Preço
 - Produtividade
-- Emprego
-- IAPMEI
-- Subsídio não Reembolsável
-- PORTUGAL 2020
-- Balcão 2020
 - Programa Apoiar Indústrias Intensivas em Gás
+- Subsídio não Reembolsável
 relationships:
 - type: cites
   target: celex:32003L0096
@@ -114,16 +114,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/87/2022/10/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/87/2022/10/04/p/dre
+- type: cites
+  target: pt:dre:182213907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200734336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201838711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203506992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204552604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
 article_structure:
-  article_count: 23
+  article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:25Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +202,9 @@ b) Apoiar Indústrias Intensivas em Gás 2M;
 
 c) Apoiar Indústrias Intensivas em Gás 5M.
 
-###### Artigo 4.º — Apoiar Indústrias Intensivas em Gás
+Artigo 4.º
+
+Apoiar Indústrias Intensivas em Gás
 
 1 - [...]
 
@@ -190,7 +220,9 @@ c) Apoiar Indústrias Intensivas em Gás 5M.
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -208,7 +240,9 @@ c) Apoiar Indústrias Intensivas em Gás 5M.
 
 8 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -244,7 +278,9 @@ Apoiar Indústrias Intensivas em Gás 2M
 
 9 - O apoio resultante da aplicação do disposto no presente artigo não pode exceder os (euro) 2 000 000 por empresa.
 
-###### Artigo 4.º-B — Apoiar Indústrias Intensivas em Gás 5M
+Artigo 4.º-B
+
+Apoiar Indústrias Intensivas em Gás 5M
 
 1 - Os apoios são atribuídos sob a forma de subvenção não reembolsável.
 
@@ -270,7 +306,9 @@ Apoiar Indústrias Intensivas em Gás 2M
 
 12 - O apoio resultante da aplicação do disposto no presente artigo não pode exceder os (euro) 5 000 000.
 
-###### Artigo 4.º-C — Limite máximo de auxílio
+Artigo 4.º-C
+
+Limite máximo de auxílio
 
 1 - Os apoios cumulativamente atribuídos ao abrigo das modalidades referidas nas alíneas a) e b) do n.º 2 do artigo 1.º não podem exceder o montante total de (euro) 2 000 000 por empresa.
 
@@ -288,15 +326,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de janeiro de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - António José da Costa Silva - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
 
-**Promulgado em 17 de janeiro de 2023.**
+Promulgado em 17 de janeiro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de janeiro de 2023.**
+Referendado em 19 de janeiro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -487,3 +525,5 @@ c) Cessar a atividade.
 ###### Artigo 10.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+116092046

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/225/2001/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2001-524038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bef70ffd1b5c96dbe3dd34219374ac74ee10a22615ffcce35d571869fd2c53e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fc089d41f3703301989cc1d4fb76ddaf883f27078e052e477ce567ced3af6b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,33 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
-- Regulamento de Homologação dos Cintos de Segurança e dos Sistemas de Retenção dos Automóveis
+- Cinto de Segurança
 - Direcção Geral de Viação
+- Equipamento de Veículo
 - Especificação Técnica
 - Homologação
-- Veículo
-- Segurança Rodoviária
 - Normas de Segurança
-- Equipamento de Veículo
 - Regulamento
-- Cinto de Segurança
+- Regulamento de Homologação dos Cintos de Segurança e dos Sistemas de Retenção dos Automóveis
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:502980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:541581:por
+  label: "Alterado o art. 42º do Regulamento de Homologação dos Cintos de Segurança e dos Sistemas de Retenção dos Automóveis,\
+    \ aprovado pelo presente diploma, pelo DEC LEI.190/2006.25.09.2006.MAI, DR.IS [185] de 25.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/190-2006-541581
+  date: '2006-09-25'
+- type: amended_by
+  target: pt:dre:502980:por
+  label: "Dada nova redação ao anexo 6.º do Regulamento de Homologação dos Cintos de Segurança e dos Sistemas de Retenção\
+    \ dos Automóveis pelo DEC LEI.148/2013.24.10.2013.MECO, DR.IS [206] de 24.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2013-502980
+  date: '2013-10-24'
 - type: cites
   target: celex:31970L0156
   label: null
@@ -114,13 +126,13 @@ relationships:
 article_structure:
   article_count: 57
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:30Z'
   warnings: []
   errors: []
 ---
@@ -183,15 +195,15 @@ b) Recusar a matrícula, a venda e a entrada em circulação de veículos novos 
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 2001. - António Manuel de Oliveira Guterres - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Vítor Manuel da Silva Santos.
 
-**Promulgado em 6 de Julho de 2001.**
+Promulgado em 6 de Julho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Julho de 2001.**
+Referendado em 12 de Julho de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — REGULAMENTO DE HOMOLOGAÇÃO DOS CINTOS DE SEGURANÇA E DOS SISTEMAS DE RETENÇÃO DOS AUTOMÓVEIS
 
@@ -939,7 +951,7 @@ c) Atrás de um plano transversal vertical, distando 1,3 m do ponto H.
 
 15 - Um banco é considerado «lugar exposto» se as zonas de protecção no interior do espaço definido no número anterior tiverem uma superfície acumulada inferior a 800 cm2.
 
-16 - Cada lugar sentado indicado no anexo 17.º e marcado com o símbolo [([ver documento original](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf))](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf) deve estar dotado de cintos de três pontos de um tipo especificado no referido anexo, a não ser que uma das seguintes condições seja satisfeita:
+16 - Cada lugar sentado indicado no anexo 17.º e marcado com o símbolo [(ver documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf) deve estar dotado de cintos de três pontos de um tipo especificado no referido anexo, a não ser que uma das seguintes condições seja satisfeita:
 
 a) Haja um banco ou outras peças do veículo que estejam em conformidade com o n.º 3.5 do apêndice n.º 1 do anexo III da Directiva n.º [74/408/CEE](https://data.europa.eu/eli/dir/1974/408/oj?locale=pt), do Conselho, directamente à sua frente; ou
 
@@ -1127,21 +1139,21 @@ O ar comprimido que alimenta o ou os bicos que permitem a pulverização da solu
 
 1 - Os sistemas de retenção para crianças virados para a retaguarda devem ter permanentemente afixados um dístico, visível na posição «instalado», com a seguinte advertência:
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 Este dístico deve estar redigido na língua do país no qual o dispositivo é vendido.
 
 2 - No caso dos sistemas de retenção que podem ser utilizados virados para a frente e virados para a retaguarda, deve ser incluída a seguinte advertência:
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 3 - A lista dos elementos que devem ser submetidos a um procedimento de abrasão e os procedimentos a seguir constam do seguinte quadro:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 4 - O quadro seguinte indica os requisitos aplicáveis a cada procedimento de abrasão:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 A deslocação indicada na quinta coluna do quadro representa a amplitude de um movimento de vaivém dado à precinta.
 
@@ -1151,7 +1163,7 @@ Pictograma
 
 (v. os n.os 18, 19 e 20 do artigo 42.º)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 ## ANEXO 2.º
 
@@ -1283,11 +1295,11 @@ As seguintes informações, se aplicáveis, devem ser fornecidas em triplicado e
 
 9.12.1 - Número e localização dos cintos de segurança e dos sistemas de retenção e bancos nos quais podem ser utilizados:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 9.12.2 - Natureza e posição de sistemas de retenção adicionais (indicar: sim/não/opcional):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 9.12.3 - Número e posição das fixações dos cintos de segurança e prova do cumprimento da Directiva n.º [76/115/CEE](https://data.europa.eu/eli/dir/1976/115/oj?locale=pt) (isto é, número de homologação CE ou relatório do ensaio): ...
 
@@ -1523,25 +1535,25 @@ IRL para a Irlanda.
 
 2.1:
 
-[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 O cinto portador da marca de homologação CE como componente acima é um cinto de três pontos (A) equipado com um absorvedor de energia (e) que foi homologado nos Países Baixos (e4) de acordo com o presente Regulamento (04) com o número de homologação de base 2439.
 
 2.2:
 
-[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 O cinto portador da marca de homologação CE como componente acima é um cinto subabdominal (B) equipado com um retractor do tipo 4 com sensibilidade múltipla que foi homologado nos Países Baixos (e4) de acordo com o presente Regulamento (04) com o número de homologação de base 2439.
 
 2.3:
 
-[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 O cinto portador da marca de homologação CE como componente acima é um cinto de tipo especial (S) equipado com um absorvedor de energia (e) e integrado num sistema de retenção (Z) que foi homologado nos Países Baixos (e4) de acordo com o presente Regulamento (04) com o número de homologação de base 2439.
 
 2.4:
 
-[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 O cinto portador da marca de homologação acima é um cinto de três pontos (A) equipado com um retractor do tipo 4N (r4N) com sensibilidade múltipla (m) que foi objecto de homologação CE como componente nos Países Baixos (e4) de acordo com o presente Regulamento (04) com o número de homologação de base 2439. Este cinto não poderá equipar veículos da categoria M1.
 
@@ -1549,13 +1561,13 @@ Nota. - O número de homologação de base e o(s) símbolo(s) devem figurar na p
 
 2.5:
 
-[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 O cinto portador da marca de homologação acima é um cinto de três pontos (A) equipado com um absorvedor de energia (e), homologado como satisfazendo os requisitos específicos da alínea f) do n.º 11 do artigo 17.º, que possui um retractor do tipo 4N (r4) com sensibilidade múltipla (m) que foi objecto de homologação CE como componente nos Países Baixos (e4) de acordo com o presente Regulamento (04) com o número de homologação de base 2439. Este cinto tem de ser instalado num veículo equipado com uma almofada de ar no lugar sentado dado.
 
 ## ANEXO 7.º — Exemplo de aparelhagem para o ensaio de durabilidade do mecanismo retractor
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 ## ANEXO 8.º — Exemplo de aparelhagem para o ensaio de bloqueamento dos retractores de bloqueamento de emergência
 
@@ -1569,11 +1581,11 @@ Para os ensaios acima indicados, os suportes ou outros elementos fornecidos pelo
 
 Os suportes ou outros elementos indispensáveis para simular a montagem no interior de um veículo devem ser fornecidos pelo fabricante.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 ## ANEXO 9.º — Exemplo de aparelhagem para o ensaio de resistência ao pó dos retractores
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 ## ANEXO 10.º — Descrição do carrinho, do banco, das fixações e do dispositivo de paragem
 
@@ -1671,13 +1683,13 @@ Figura n.º 1
 
 Carrinho, banco e fixação
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 Figura n.º 2
 
 Dispositivo de paragem
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 Figura n.º 3
 
@@ -1685,7 +1697,7 @@ Dispositivo de paragem
 
 (tubo de poliuretano)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 Figura n.º 4
 
@@ -1693,7 +1705,7 @@ Dispositivo de paragem
 
 (saliência em forma de azeitona)
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 ## ANEXO 11.º — Descrição do manequim
 
@@ -1799,27 +1811,27 @@ Deve poder ser substituída.
 
 QUADRO N.º 1
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 QUADRO N.º 2
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 Figura n.º 1
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 Figura n.º 2
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 Figuras n.os 3 e 4
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 Figuras n.os 5 e 6
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 ## ANEXO 12.º — Descrição da curva de desaceleração do carrinho em função do tempo
 
@@ -1887,25 +1899,25 @@ j) O modo de retracção do cinto quando não estiver a ser utilizado.
 
 4.1.6 - No anexo 13.º-A do presente Regulamento figura um exemplo da forma como tal informação deve ser apresentada.
 
-## ANEXO 13.º-A — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+## ANEXO 13.º-A — [[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 ## ANEXO 14.º — Ensaio da fivela comum
 
 (referida no n.º 11 do artigo 31.º)
 
-[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 ## ANEXO 15.º — Ensaios de abrasão e de microdeslizamento
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 ## ANEXO 16.º — Sequência dos ensaios
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 ## ANEXO 17.º — Quadro que indica os requisitos mínimos relativos aos cintos de segurança e retractores
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 ## ANEXO 18.º — Controlo da conformidade da produção
 
@@ -2007,7 +2019,7 @@ Recomendação relativa aos requisitos de instalação de cintos de segurança e
 
 5.2 - Por dispositivo de retenção para crianças da categoria «universal» entende-se um dispositivo de retenção para crianças homologado no âmbito da categoria universal do Regulamento n.º 44 da CEE/NU, série 03 de alterações. Os lugares sentados indicados pelo construtor do veículo como adequados à instalação de dispositivos de retenção para crianças da categoria universal devem ser conformes com o dispositivo no apêndice n.º 2 do presente anexo.
 
-## APÊNDICE N.º 2
+APÊNDICE N.º 2
 
 Disposições relativas à instalação de sistemas de retenção para crianças da categoria «universal» instalados com o equipamento dos cintos de segurança do veículo.
 
@@ -2055,7 +2067,7 @@ Figura n.º 1
 
 Especificação do dispositivo
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 Figura n.º 2
 
@@ -2063,7 +2075,7 @@ Instalação do dispositivo no banco do veículo
 
 (v. o ponto 2.6.1)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 Figura n.º 3
 
@@ -2071,4 +2083,4 @@ Verificação da compatibilidade
 
 (v. os pontos 2.6.1 e 3.2)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
+[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)

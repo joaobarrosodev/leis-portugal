@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1236-1982-318158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T07:06:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e72bd32a0ca56fb4879db3c104a8910c28ca87ce46bdb875bf5bf55f19b1fd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6339e7ccd2382b779125238913d71d2449fc16c6e34ac52165f46b42910ba9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:06:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Hospitalar
+- Hospital Distrital
+- Leiria
+- Pessoal de Enfermagem
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:690240:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:182989:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Leiria aprovado pela Port 760/80 de 01-Out, com a redacção\
+    \ do presente diploma, pela PORT.438/85.08.07.1985.PCM, DR.IS [154] de 08.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/438-1985-182989
+  date: '1985-07-08'
+- type: amended_by
+  target: pt:dre:170342:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Leiria aprovado pela Port 760/80 de 01-Out, com a redacção\
+    \ do presente diploma, pela PORT.903/85.28.11.1985.PCM, DR.IS [274] de 28.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/903-1985-170342
+  date: '1985-11-28'
+- type: amended_by
+  target: pt:dre:494859:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Leiria aprovado pela Port 760/80 de 01-Out, com a redacção\
+    \ do presente diploma, pela PORT.755/87.02.09.1987.MF, DR.IS [201] de 02.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/755-1987-494859
+  date: '1987-09-02'
+- type: cites
+  target: pt:dre:461615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:06:19Z'
   warnings: []
   errors: []
 ---
@@ -96,4 +131,4 @@ Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Adminis
 
 Quadro de pessoal do Hospital Distrital de Leiria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30100/42854285.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30100/42854285.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30100/42854285.pdf)

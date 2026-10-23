@@ -47,36 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/548-1979-364764
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 716b56660c2e6e66da310b0fe2d2b76cf861d7cccecd96a9f9a6fd84ca41ce16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fcdc15cee6ae7fe9136d7449f9eeee00be262d80b5be46f69b5d2a3332d08b3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ANO Propedêutico
+- Concurso
+- Ensino Oficial
+- Ensino Superior
+- Estabelecimento de Ensino
+- Matrícula
+- Numerus Clausus
+- Propinas
+- Universidade
+relationships:
+- type: cites
+  target: pt:dre:281414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419619:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:11Z'
   warnings: []
   errors: []
 ---
@@ -631,11 +668,11 @@ A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
 Ministério da Educação, 3 de Outubro de 1979. - O Ministro da Educação, Luís Eugénio Caldas Veiga da Cunha.
 
-**Publique-se no Boletim Oficial de Macau.**
+Publique-se no Boletim Oficial de Macau.
 
 ## ANEXO I — Disciplinas nucleares
 
-###### ARTIGO 5.º — [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/24000/26762691.pdf))](https://files.diariodarepublica.pt/1s/1979/10/24000/26762691.pdf)
+###### ARTIGO 5.º — [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/24000/26762691.pdf)
 
 ## ANEXO II — Elencos de disciplinas do Ano Propedêutico
 
@@ -671,8 +708,8 @@ Pedem deferimento
 
 (A elaborar em papel selado, em duplicado, e com a assinaturas dos requerentes reconhecidas notarialmente).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/24000/26762691.pdf))](https://files.diariodarepublica.pt/1s/1979/10/24000/26762691.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/24000/26762691.pdf)
 
 ## ANEXO IV — (ARTIGO 42.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/24000/26762691.pdf))](https://files.diariodarepublica.pt/1s/1979/10/24000/26762691.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/24000/26762691.pdf)

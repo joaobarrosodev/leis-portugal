@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-1983-451781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2973839d3a3f1ee5ab783aa6c44beeedf21af7b81a7accfe0269b7c78308853
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44c88e0fce0a3b7b19f7c9518d5198c61b8bc890da06ea35b3dd5fcd9f9cb07e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Serviços Sociais
+- Universidade do Minho
 relationships:
 - type: amended_by
   target: pt:dre:355529:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661485:por
+  label: "Alterada a tabela de equivalências constante do anexo II pelo DR.12/84.1984.02.20.MFP DR.IS [43]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-1984-661485
+  date: '1984-02-20'
+- type: amended_by
+  target: pt:dre:498554:por
+  label: ALARGADO O QUADRO DE PESSOAL PELO DEC LEI 369/87 DE 27-NOV DR.IS [274]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/369-1987-498554
+  date: '1987-11-27'
+- type: amended_by
+  target: pt:dre:355529:por
+  label: "Determinado que o quadro de pessoal dos Serviços Sociais da Universidade do Minho, criado pelo presente diploma\
+    \ e alterado pelo Dec Lei 369/87, de 27-Nov, passe a ser o constante do anexo á PORT.654/88.29.09.1988.MF, DR.IS [226]\
+    \ de 29.09.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/654-1988-355529
+  date: '1988-09-29'
+- type: cites
+  target: pt:dre:392864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:40Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +130,11 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º Os Serviços Sociais da Universidade do Minho, adiante designados por SSUM, são uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, e funcionam junto da Universidade do Minho.
+Artigo 1.º Os Serviços Sociais da Universidade do Minho, adiante designados por SSUM, são uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, e funcionam junto da Universidade do Minho.
 
-###### Art. 2.º Os SSUM têm por fim a concessão de auxílios económicos e a prestação de serviços a estudantes, nos termos e condições que forem fixados no contexto da política de acção social escolar superiormente definida.
+Art. 2.º Os SSUM têm por fim a concessão de auxílios económicos e a prestação de serviços a estudantes, nos termos e condições que forem fixados no contexto da política de acção social escolar superiormente definida.
 
-###### Art. 3.º - 1 - A acção social escolar a desenvolver pelos SSUM beneficiará todos os estudantes interessados, desde que estejam matriculados na Universidade do Minho e preencham as condições legalmente fixadas.
+Art. 3.º - 1 - A acção social escolar a desenvolver pelos SSUM beneficiará todos os estudantes interessados, desde que estejam matriculados na Universidade do Minho e preencham as condições legalmente fixadas.
 
 2 - Os estudantes matriculados em estabelecimentos de ensino superior não integrados na Universidade do Minho que não sejam abrangidos pela acção social de quaisquer outros serviços sociais do ensino superior poderão beneficiar da acção desenvolvida pelos SSUM, nos termos do disposto nos números seguintes.
 
@@ -114,7 +150,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 #### SECÇÃO I — Dos órgãos e seu funcionamento
 
-###### Art. 4.º São órgãos dos SSUM:
+Art. 4.º São órgãos dos SSUM:
 
 a) O presidente;
 
@@ -122,7 +158,7 @@ b) O conselho geral;
 
 c) O conselho administrativo.
 
-###### Art. 5.º - 1 - O reitor da Universidade do Minho é, por inerência, presidente dos SSUM.
+Art. 5.º - 1 - O reitor da Universidade do Minho é, por inerência, presidente dos SSUM.
 
 2 - O presidente será coadjuvado nas suas funções por um vice-presidente, no qual poderá delegar algumas das suas competências.
 
@@ -144,7 +180,7 @@ g) Submeter ao CASES os projectos de regulamentos e os assuntos relativos ao fun
 
 4 - O presidente dos SSUM poderá receber do Ministro da Educação delegação de competência para despachar assuntos relativos a funções de administração geral, considerando-se como tais os que respeitam às actividades correntes dos Serviços Sociais e à gestão dos recursos humanos.
 
-###### Art. 6.º - 1 - O conselho geral é constituído por:
+Art. 6.º - 1 - O conselho geral é constituído por:
 
 a) O presidente dos SSUM, que preside;
 
@@ -172,7 +208,7 @@ f) Um representante das associações de estudantes da Universidade do Minho.
 
 8 - Os membros do conselho geral referidos nas alíneas d), e) e f) do n.º 1 manter-se-ão em funções após o termo dos respectivos mandatos até que sejam designados os novos membros que os irão substituir.
 
-###### Art. 7.º - 1 - Compete ao conselho geral:
+Art. 7.º - 1 - Compete ao conselho geral:
 
 a) Apreciar as propostas dos planos anuais e plurianuais de actividades;
 
@@ -202,7 +238,7 @@ g) Dar parecer sobre todos os assuntos que lhe sejam apresentados pelo president
 
 8 - Poderão participar nas reuniões do conselho geral sem direito a voto, desde que convocados pelo presidente, os funcionários dos SSUM cuja presença se mostre aconselhável face aos assuntos a tratar.
 
-###### Art. 8.º - 1 - O conselho administrativo é constituído por:
+Art. 8.º - 1 - O conselho administrativo é constituído por:
 
 a) O presidente dos SSUM, que preside;
 
@@ -216,7 +252,7 @@ d) O responsável pelos serviços administrativos, que secretaria.
 
 3 - O membro do conselho administrativo a que se refere a alínea c) do n.º 1 será designado de entre funcionários públicos de reconhecida competência nos domínios da Administração Pública.
 
-###### Art. 9.º - 1 - Compete ao conselho administrativo:
+Art. 9.º - 1 - Compete ao conselho administrativo:
 
 a) Promover a elaboração dos planos financeiros anuais e plurianuais;
 
@@ -254,17 +290,17 @@ l) Promover a organização e permanente actualização do inventário e cadastr
 
 8 - Poderão participar nas reuniões do conselho administrativo sem direito a voto, desde que convocados pelo presidente, os funcionários dos SSUM cuja presença se mostre aconselhável face aos assuntos a tratar.
 
-###### Art. 10.º A gestão financeira e patrimonial dos SSUM reger-se-á pelo disposto nos artigos 26.º a 33.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio.
+Art. 10.º A gestão financeira e patrimonial dos SSUM reger-se-á pelo disposto nos artigos 26.º a 33.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio.
 
 #### SECÇÃO II — Dos serviços e seu funcionamento
 
-###### Art. 11.º São serviços dos SSUM:
+Art. 11.º São serviços dos SSUM:
 
 a) Os Serviços Operativos;
 
 b) A Repartição de Administração Geral.
 
-###### Art. 12.º - 1 - Os Serviços Operativos exercem as suas atribuições nos domínios:
+Art. 12.º - 1 - Os Serviços Operativos exercem as suas atribuições nos domínios:
 
 a) Do alojamento;
 
@@ -278,7 +314,7 @@ d) De procuradoria, livraria e material escolar.
 
 3 - O vice-presidente será coadjuvado, em cada um dos domínios de acção dos Serviços Operativos, por um dos elementos neles colocados, a designar para o efeito.
 
-###### Art. 13.º Em matéria de alojamento, incumbe aos SSUM:
+Art. 13.º Em matéria de alojamento, incumbe aos SSUM:
 
 a) Providenciar pela abertura e assegurar o funcionamento de residências estudantis;
 
@@ -294,7 +330,7 @@ f) Zelar pela manutenção e conservação do equipamento de instalações afect
 
 g) Enviar à repartição administrativa os elementos necessários à cobrança pontual das receitas dos alojamentos e à elaboração pontual dos orçamentos e relatórios anuais dos SSUM.
 
-###### Art. 14.º Em matéria de alimentação, compete aos SSUM:
+Art. 14.º Em matéria de alimentação, compete aos SSUM:
 
 a) Providenciar pela abertura e assegurar o funcionamento de cantinas, refeitórios, snacks e bares;
 
@@ -308,7 +344,7 @@ e) Enviar directamente à tesouraria as receitas das cantinas, refeitórios, sna
 
 f) Enviar à Secção Administrativa os elementos necessários à elaboração dos orçamentos e relatórios anuais dos SSUM.
 
-###### Art. 15.º Em matéria de bolsas e empréstimos, compete aos SSUM:
+Art. 15.º Em matéria de bolsas e empréstimos, compete aos SSUM:
 
 a) Propor superiormente a concessão de bolsas de estudo, subsídios, empréstimos e outros benefícios pecuniários a estudantes matriculados em estabelecimentos de ensino superior abrangidos pelos SSUM, de acordo com os regulamentos em vigor e organizar os respectivos processos individuais;
 
@@ -320,7 +356,7 @@ d) Estudar e propor ao presidente dos SSUM a adopção de novos esquemas e tipos
 
 e) Enviar à Secção Administrativa os elementos necessários à elaboração dos orçamentos e os relatórios anuais dos SSUM.
 
-###### Art. 16.º Em matéria de procuradoria, livraria e material escolar, compete aos SSUM:
+Art. 16.º Em matéria de procuradoria, livraria e material escolar, compete aos SSUM:
 
 a) Promover a venda de edições científicas, técnicas e de textos didácticos nacionais ou estrangeiros, bem como os dos próprios estabelecimentos de ensino ou os publicados pelos serviços do Ministério da Educação;
 
@@ -342,13 +378,13 @@ i) Enviar à Secção Administrativa as receitas do serviço;
 
 j) Enviar à Secção Administrativa os elementos necessários à elaboração dos orçamentos e relatórios anuais dos SSUM.
 
-###### Art. 17.º A Repartição de Administração Geral compreende:
+Art. 17.º A Repartição de Administração Geral compreende:
 
 a) A Secção Administrativa;
 
 b) A Secção de Aprovisionamento.
 
-###### Art. 18.º - 1 - A Secção Administrativa é dirigida por um chefe de secção e exerce as suas atribuições nos domínios:
+Art. 18.º - 1 - A Secção Administrativa é dirigida por um chefe de secção e exerce as suas atribuições nos domínios:
 
 a) Da contabilidade, orçamento e conta;
 
@@ -364,7 +400,7 @@ c) Dos transportes e distribuição;
 
 d) Da lavandaria e rouparia.
 
-###### Art. 19.º - 1 - À Secção Administrativa, em matéria de contabilidade, orçamento e conta, incumbe:
+Art. 19.º - 1 - À Secção Administrativa, em matéria de contabilidade, orçamento e conta, incumbe:
 
 a) Executar a escrituração respeitante à contabilidade dos SSUM;
 
@@ -398,7 +434,7 @@ p) Manter rigorosamente actualizada a escrita relativa às operações de tesour
 
 2 - Adstrito à Secção Administrativa funciona um serviço de estatística, ao qual cabe registar e tratar os dados com interesse estatístico, que proporcionem conhecimentos actualizados das actividades dos SSUM.
 
-###### Art. 20.º À Secção Administrativa, em matéria de pessoal, expediente geral e arquivo, compete:
+Art. 20.º À Secção Administrativa, em matéria de pessoal, expediente geral e arquivo, compete:
 
 a) Organizar e movimentar os processos relativos ao recrutamento, selecção e provimento, bem como à transferência, exonoração, rescisão de contratos, demissão e aposentação de pessoal dos SSUM;
 
@@ -418,9 +454,9 @@ h) Assegurar a adequada circulação de documentos e normas pelos serviços;
 
 i) Assegurar o apoio dactilográfico a todos os sectores dos SSUM.
 
-###### Art. 21.º A Secção de Aprovisionamento exerce a sua acção nos domínios de inventariação e conservação do património, gestão de stocks, abastecimentos e economato e é dirigida por um chefe de secção.
+Art. 21.º A Secção de Aprovisionamento exerce a sua acção nos domínios de inventariação e conservação do património, gestão de stocks, abastecimentos e economato e é dirigida por um chefe de secção.
 
-###### Art. 22.º À Secção de Aprovisionamento, em matéria de património, incumbe:
+Art. 22.º À Secção de Aprovisionamento, em matéria de património, incumbe:
 
 a) Organizar e manter actualizado o inventário e cadastro dos bens móveis e imóveis dos SSUM;
 
@@ -430,7 +466,7 @@ c) Gerir o parque automóvel dos SSUM;
 
 d) Organizar os autos de abate e inutilização dos bens deteriorados e sem valor e organizar os processos de venda daqueles que, já sem interesse para os SSUM, possam ainda ter qualquer valor residual.
 
-###### Art. 23.º À Secção de Aprovisionamento, em matéria de economato e armazéns, incumbe:
+Art. 23.º À Secção de Aprovisionamento, em matéria de economato e armazéns, incumbe:
 
 a) Proceder à prospecção de mercados e centralizar os processos de aquisição e de consultas, nos termos das disposições legais vigentes;
 
@@ -444,7 +480,7 @@ e) Registar as entradas e saídas dos artigos de expediente e outros materiais;
 
 f) Providenciar no sentido da conservação e manutenção dos géneros em armazém e do equipamento que lhes esteja afecto.
 
-###### Art. 24.º À Secção de Aprovisionamento, em matéria de transportes e distribuição, incumbe:
+Art. 24.º À Secção de Aprovisionamento, em matéria de transportes e distribuição, incumbe:
 
 a) Assegurar o transporte de mercadorias e artigos dos locais de aquisição para os armazéns dos SSUM;
 
@@ -454,7 +490,7 @@ c) Zelar pela manutenção e conservação do equipamento que lhe estiver adstri
 
 d) Prestar todas as informações que venham a tornar-se necessárias à gestão e controle legais do sector.
 
-###### Art. 25.º À Secção de Aprovisionamento, em matéria de lavandaria e rouparia, incumbe:
+Art. 25.º À Secção de Aprovisionamento, em matéria de lavandaria e rouparia, incumbe:
 
 a) Executar as tarefas de lavagem e tratamento de roupas, incluindo a preparação e funcionamento e desinfecção das respectivas máquinas;
 
@@ -466,9 +502,9 @@ d) Enviar aos serviços competentes os elementos necessários à apreciação de
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-###### Art. 26.º Para a realização dos seus fins os SSUM administrarão os bens do domínio público a seu cargo.
+Art. 26.º Para a realização dos seus fins os SSUM administrarão os bens do domínio público a seu cargo.
 
-###### Art. 27.º - 1 - Os SSUM arrecadarão e administrarão as suas receitas e satisfarão, por meio delas, os encargos que legalmente lhes caibam.
+Art. 27.º - 1 - Os SSUM arrecadarão e administrarão as suas receitas e satisfarão, por meio delas, os encargos que legalmente lhes caibam.
 
 2 - Constituem receitas dos SSUM:
 
@@ -488,29 +524,29 @@ g) Os saldos da conta de gerência do ano anterior;
 
 h) Quaisquer outras receitas que, por lei, contrato ou a outro título, lhes sejam atribuídas.
 
-###### Art. 28.º - 1 - As disponibilidades dos SSUM serão depositadas na Caixa Geral de Depósitos ou nas restantes instituições de crédito, sem prejuízo de poderem levantar e ter em cofre as importâncias indispensáveis ao pagamento de despesas que devem ser feitas em dinheiro.
+Art. 28.º - 1 - As disponibilidades dos SSUM serão depositadas na Caixa Geral de Depósitos ou nas restantes instituições de crédito, sem prejuízo de poderem levantar e ter em cofre as importâncias indispensáveis ao pagamento de despesas que devem ser feitas em dinheiro.
 
 2 - Os pagamentos serão efectuados, em regra, por meio de cheques, e estes entregues em troca dos respectivos recibos devidamente legalizados.
 
-###### Art. 29.º A gestão económica e financeira dos SSUM será disciplinada pelos seguintes instrumentos de previsão:
+Art. 29.º A gestão económica e financeira dos SSUM será disciplinada pelos seguintes instrumentos de previsão:
 
 a) Planos de actividade financeira anuais e plurianuais;
 
 b) Orçamentos privativos anuais e suas actualizações.
 
-###### Art. 30.º - 1 - Com base no programa de trabalho para cada ano económico, o conselho administrativo promoverá a elaboração do orçamento privativo anual, sem prejuízo dos desdobramentos internos necessários à conveniente descentralização de responsabilidades e adequado controle de gestão.
+Art. 30.º - 1 - Com base no programa de trabalho para cada ano económico, o conselho administrativo promoverá a elaboração do orçamento privativo anual, sem prejuízo dos desdobramentos internos necessários à conveniente descentralização de responsabilidades e adequado controle de gestão.
 
 2 - O orçamento privativo será submetido à aprovação do Ministro da Educação, com os pareceres do conselho geral e do CASES, e ao visto do Ministro de Estado e das Finanças e do Plano, nos prazos legais.
 
 3 - Os SSUM poderão ainda submeter a aprovação superior, no decurso de cada ano económico, os orçamentos suplementares previstos na lei geral, destinados quer a reforçar verbas inscritas no orçamento privativo, quer a ocorrer a despesas nele previstas, quer ainda para fins de alteração de rubricas.
 
-###### Art. 31.º O conselho administrativo requisitará mensalmente, nos termos da lei vigente, à delegação competente da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias por conta das dotações orçamentais atribuídas no Orçamento Geral do Estado e constantes de contas de ordem.
+Art. 31.º O conselho administrativo requisitará mensalmente, nos termos da lei vigente, à delegação competente da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias por conta das dotações orçamentais atribuídas no Orçamento Geral do Estado e constantes de contas de ordem.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 32.º Os SSUM dispõem do quadro de pessoal constante do anexo I ao presente diploma.
+Art. 32.º Os SSUM dispõem do quadro de pessoal constante do anexo I ao presente diploma.
 
-###### Art. 33.º O quadro de pessoal dos SSUM compreenderá os seguintes grupos profissionais:
+Art. 33.º O quadro de pessoal dos SSUM compreenderá os seguintes grupos profissionais:
 
 a) Pessoal dirigente;
 
@@ -522,15 +558,15 @@ d) Pessoal administrativo;
 
 e) Pessoal operário e ou auxiliar.
 
-###### Art. 34.º A regulamentação dos concursos para ingresso e acesso nas carreiras a que se refere o presente diploma será objecto de despacho dos Ministros da Educação e da Reforma Administrativa, de acordo com o estabelecido no [Decreto-Lei n.º 171/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1982-392864), de 10 de Maio.
+Art. 34.º A regulamentação dos concursos para ingresso e acesso nas carreiras a que se refere o presente diploma será objecto de despacho dos Ministros da Educação e da Reforma Administrativa, de acordo com o estabelecido no [Decreto-Lei n.º 171/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1982-392864), de 10 de Maio.
 
-###### Art. 35.º - 1 - As formas de recrutamento e regime de provimento do pessoal dirigente são os previstos no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+Art. 35.º - 1 - As formas de recrutamento e regime de provimento do pessoal dirigente são os previstos no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
 2 - O cargo de vice-presidente dos SSUM é equiparado para todos os efeitos legais ao de subdirector-geral.
 
 3 - Os lugares de chefe de repartição serão providos, por despacho do Ministro da Educação, sob proposta do presidente, de entre chefes de secção com, pelo menos, 3 anos de bom e efectivo serviço na categoria ou de entre indivíduos habilitados com curso superior adequado e reconhecida competência para o exercício do cargo.
 
-###### Art. 36.º - 1 - O provimento do pessoal técnico superior, técnico, técnico-profissional, dos oficiais administrativos, dos escriturários-dactilógrafos, do pessoal operário e do pessoal auxiliar, bem como a progressão nas respectivas carreiras, far-se-á nos termos do disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e legislação complementar.
+Art. 36.º - 1 - O provimento do pessoal técnico superior, técnico, técnico-profissional, dos oficiais administrativos, dos escriturários-dactilógrafos, do pessoal operário e do pessoal auxiliar, bem como a progressão nas respectivas carreiras, far-se-á nos termos do disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e legislação complementar.
 
 2 - Os lugares de chefe de secção serão providos de entre:
 
@@ -560,13 +596,13 @@ f) Os lugares de cozinheiro principal são providos de entre cozinheiros de 1.ª
 
 7 - O recrutamento do ajudante de cozinha far-se-á, mediante prestação de provas, de entre indivíduos habilitados com a escolaridade obrigatória.
 
-###### Art. 37.º - 1 - A nomeação e promoção do pessoal do quadro compete ao Ministro da Educação, que poderá delegar, no todo ou em parte, esta competência no presidente dos SSUM.
+Art. 37.º - 1 - A nomeação e promoção do pessoal do quadro compete ao Ministro da Educação, que poderá delegar, no todo ou em parte, esta competência no presidente dos SSUM.
 
 2 - O pessoal das diferentes categorias, incluindo o de chefia, será livremente colocado, sob proposta do vice-presidente, pelo presidente dos SSUM, de acordo com as conveniências do serviço e as necessidades funcionais.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 38.º - 1 - A integração em lugares do quadro anexo dos funcionários e agentes que prestem serviço nos SSUM à data da entrada em vigor do presente diploma, bem como do pessoal abrangido pelo disposto no artigo 40.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, far-se-á com observância dos requisitos habilitacionais legalmente estabelecidos, por diploma individual de provimento, de acordo com as seguintes regras:
+Art. 38.º - 1 - A integração em lugares do quadro anexo dos funcionários e agentes que prestem serviço nos SSUM à data da entrada em vigor do presente diploma, bem como do pessoal abrangido pelo disposto no artigo 40.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, far-se-á com observância dos requisitos habilitacionais legalmente estabelecidos, por diploma individual de provimento, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário possui;
 
@@ -586,24 +622,24 @@ c) Para categoria que resulte da aplicação da tabela de equivalências constan
 
 7 - As regras de transição para o regime referido no número anterior serão fixadas em decreto regulamentar dos Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa.
 
-###### Art. 39.º Os encargos resultantes da aplicação do presente diploma serão suportados pelas dotações do orçamento privativo dos SSUM.
+Art. 39.º Os encargos resultantes da aplicação do presente diploma serão suportados pelas dotações do orçamento privativo dos SSUM.
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - João José Fraústo da Silva - Luís Eduardo da Silva Barbosa - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 11 de Março de 1983.**
+Promulgado em 11 de Março de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 13 de Maio de 1983.**
+Referendado em 13 de Maio de 1983.
 
 Pelo Primeiro-Ministro, Gonçalo Pereira Ribeiro Teles, Ministro de Estado e da Qualidade de Vida.
 
 ## ANEXO I — Quadro do pessoal a que se refere o artigo 34.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, e artigo 32.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/12900/20532060.pdf))](https://files.diariodarepublica.pt/1s/1983/06/12900/20532060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/12900/20532060.pdf)
 
 ## ANEXO II — Tabela de equivalências a que se refere a alínea c) do n.º 1 do artigo 38.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/12900/20532060.pdf))](https://files.diariodarepublica.pt/1s/1983/06/12900/20532060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/12900/20532060.pdf)

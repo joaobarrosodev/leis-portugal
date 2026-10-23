@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/23700/0000400009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/103/2024/12/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e08879e1130f62b430821228b587a1b1dc149b153f70ee9a155ac9d46c37d499
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abd459eee35d4d1b9ef11bbc5fe7d2cde937e3681b2c7a1a5059ea9385892a6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Comissão de Coordenação e Desenvolvimento Regional do Norte
-- Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
-- Comissão de Coordenação e Desenvolvimento Regional do Algarve
 - Comissão de Coordenação e Desenvolvimento Regional
+- Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
 - Comissão de Coordenação e Desenvolvimento Regional do Alentejo
+- Comissão de Coordenação e Desenvolvimento Regional do Algarve
 - Comissão de Coordenação e Desenvolvimento Regional do Centro
-- Orgânica
+- Comissão de Coordenação e Desenvolvimento Regional do Norte
 - Governo XXIV
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:1068974010:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:36/2023
+  label: Altera, a partir de 11 de dezembro de 2024, os artigos 3.º, 4.º, 6.º, 8.º, 13.º e 18.º do anexo ao Decreto-Lei n.º
+    36/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26
+  source: null
+  date: '2023-05-26'
+- type: amends
+  target: pt:numero:decreto-lei:32/2024
+  label: Altera, a partir de 11 de dezembro de 2024, os artigos 15.º e 27.º do Decreto-Lei n.º 32/2024 - Diário da República
+    n.º 91/2024, Série I de 2024-05-10
+  source: null
+  date: '2024-05-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/2023/12/04/p/dre
   label: null
@@ -95,16 +107,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/36/2023/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/36/2023/05/26/p/dre
+- type: cites
+  target: pt:dre:192426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213558633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225125603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864224972:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:23Z'
   warnings: []
   errors: []
 ---
@@ -193,7 +221,9 @@ e) [...]
 
 17 - [...]
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...]
 
@@ -249,7 +279,9 @@ e) Participar na formulação e execução de outras políticas públicas, cujos
 
 f) [Anterior alínea d).]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -297,7 +329,9 @@ t) [Anterior alínea s).]
 
 3 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -311,7 +345,9 @@ t) [Anterior alínea s).]
 
 6 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -329,7 +365,9 @@ d) CCDR Alentejo, I. P.: cinco vice-presidentes;
 
 e) CCDR Algarve, I. P.: quatro vice-presidentes.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -349,7 +387,9 @@ e) CCDR Algarve, I. P.: quatro vice-presidentes.
 
 9 - (Anterior n.º 7.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -379,12 +419,14 @@ g) [Anterior alínea f).]
 
 Visto e aprovado em Conselho de Ministros de 29 de outubro de 2024. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida - José Manuel Fernandes.
 
-**Promulgado em 29 de novembro de 2024.**
+Promulgado em 29 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de dezembro de 2024.**
+Referendado em 3 de dezembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118435303

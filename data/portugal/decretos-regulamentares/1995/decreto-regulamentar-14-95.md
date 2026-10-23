@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/119b00/32023208.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/14/1995/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1995-505190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88db3733190de9fbb4a09ea0e44b2aff3783b99dfaadfeb506a6070c40341813
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d30c645870c59b21002bbb2ef10d722f664f8aeff9b2b96d61739720ea6eef21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Defesa Nacional
-- Pessoal Dirigente
-- Secretaria Geral
 - Integração de Trabalhadores
+- Ministério da Defesa Nacional
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:489502:por
@@ -80,16 +80,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/47/1993/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/47/1993/02/26/p/dre
+- type: cites
+  target: pt:dre:549448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:489502:por
+  label: "Revogado, a partir de 01.11.2009, pelo DR.19/2009.04.09.2009.MDN, DR.IS [172] de 04.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/19-2009-489502
+  date: '2009-09-04'
 article_structure:
   article_count: 26
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:55Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +197,9 @@ a) A Divisão de Orçamento (DO);
 
 b) A Divisão de Programas (DP).
 
-###### Artigo 6.º — Divisão de Orçamento
+###### Artigo 6.º
+
+##### Divisão de Orçamento
 
 Compete à DO:
 
@@ -200,11 +215,13 @@ e) Apreciar e emitir pareceres sobre actos de gestão financeira que, por força
 
 f) Elaborar e manter actualizados indicadores de gestão, efectuar análises comparativas e produzir dados estatísticos de natureza financeira relativos ao orçamento do MDN.
 
-###### Artigo 7.º — Divisão de Programas
+###### Artigo 7.º
+
+##### Divisão de Programas
 
 Compete à DP:
 
-a) Coordenar e acompanhar a elaboração dos projectos e a execução financeira dos programas a desenvolver no âmbito do MDN, designadamente da LPM, PIDDAC e I&D;
+a) Coordenar e acompanhar a elaboração dos projectos e a execução financeira dos programas a desenvolver no âmbito do MDN, designadamente da LPM, PIDDAC e I&D
 
 b) Analisar e informar sobre os relatórios de execução dos programas nos seus aspectos financeiros;
 
@@ -300,7 +317,9 @@ a) A Divisão de Organização (DO);
 
 b) A Divisão de Sistemas de Informação (DSI).
 
-###### Artigo 12.º — Divisão de Organização
+###### Artigo 12.º
+
+##### Divisão de Organização
 
 À DO compete:
 
@@ -318,7 +337,9 @@ f) Coordenar os planos anuais de actividades da SG e acompanhar a sua execução
 
 g) Dar parecer sobre a criação, modificação ou reorganização dos organismos e serviços do MDN, nos termos da legislação em vigor.
 
-###### Artigo 13.º — Divisão de Sistemas de Informação
+###### Artigo 13.º
+
+##### Divisão de Sistemas de Informação
 
 À DSI compete:
 
@@ -348,7 +369,9 @@ a) A Divisão de Gestão de Recursos Humanos (DGRH);
 
 b) A Repartição de Administração Geral (RAG).
 
-###### Artigo 15.º — Divisão de Gestão de Recursos Humanos
+###### Artigo 15.º
+
+##### Divisão de Gestão de Recursos Humanos
 
 À DGRH compete:
 
@@ -422,7 +445,9 @@ f) Coordenar as acções de informação e relações públicas das Forças Arma
 
 2 - O GCRP é dirigido por um director, equiparado a director de serviços.
 
-###### Artigo 18.º — Divisão de Estatística e de Análise Financeira
+###### Artigo 18.º
+
+##### Divisão de Estatística e de Análise Financeira
 
 Na directa dependência do secretário-geral funciona a DEAF, à qual compete:
 
@@ -504,16 +529,16 @@ Presidência do Conselho de Ministros, 13 de Março de 1995.
 
 Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
 
-**Promulgado em 26 de Abril de 1995.**
+Promulgado em 26 de Abril de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1995.**
+Referendado em 27 de Abril de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo a que se refere o artigo 24.º do Decreto Regulamentar n.º 14/95
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/119b00/32023208.pdf))](https://files.diariodarepublica.pt/1s/1995/05/119b00/32023208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/119b00/32023208.pdf)

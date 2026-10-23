@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 42/2007, 2º Suplemento, Série I de 2007-02-28
   number: '42'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1414-(29) a 1414-(37)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/02/04202/00290037.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/50-b/2007/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-b-2007-470072
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc50ec6fab1127b362fd5eedf788fef02d47d4143f8122820a59a3fda1d2e51b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c2582c020d5c63957c9e8580924681bba76198b07b52d2709688f0f96a97243
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Regional de Saúde do Alentejo
-- Financiamento
-- Gestão Financeira
+- Centro de Saúde
+- Contrato de Trabalho
 - Criação de Serviços
 - Definição de Competências
 - Elvas
 - Empresa Pública
 - Estatuto
 - Extinção de Serviços
+- Financiamento
+- Gestão Financeira
 - Hospital de Santa Luzia
 - Hospital Distrital
 - Hospital Doutor José Maria Grande
 - Integração de Trabalhadores
-- Centro de Saúde
 - Portalegre
+- Proteção Social
 - Quadro de Pessoal
 - Recursos Humanos
-- Proteção Social
-- Contrato de Trabalho
 - Segurança Social
 - Serviço Sub-regional
 - Unidade Local de Saúde
@@ -93,6 +93,19 @@ relationships:
   target: pt:dre:223906278:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493009:por
+  label: "Alterado o art. 12º pelo DEC LEI.176/2009.04.08.2009.MS, DR.IS [149] de 04.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-2009-493009
+  date: '2009-08-04'
+- type: amended_by
+  target: pt:dre:223906278:por
+  label: Determinada, a partir de 08.11.2023, com efeitos a 01.01.2024, a reestruturação da Unidade Local de Saúde do Norte
+    Alentejano, E. P. E., criada pelo presente diploma, com integração do Laboratório de Saúde Pública do Alentejo, atualmente
+    a funcionar na dependência da Administração Regional de Saúde do Alentejo, I. P., passando a denominar-se Unidade Local
+    de Saúde do Alto Alentejo, E. P. E., pelo(a) Decreto-Lei n.º 102/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2023-223906278
+  date: '2023-11-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
   label: null
@@ -125,16 +138,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/38-a/2007/02/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/38-a/2007/02/28/p/dre
+- type: cites
+  target: pt:dre:310798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:248178:por
+  label: "Revogado, a partir de 30.07.2008, o art. 11º, pelo DEC LEI.18/2008.29.01.2008.MOPTC, DR.IS [20] de 29.01.2008\0\
+    08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2008-248178
+  date: '2008-01-29'
+- type: repealed_by
+  target: pt:dre:66325236:por
+  label: Revogados o nº 1 do art. 1º, na parte relativa à aprovação dos Estatutos da Unidade Local de Saúde do Norte Alentejano,
+    E.P.E., assim como os arts. 4.º a 10.º, 12º (este último alterado pelo Dec Lei 176/2009 de 04-ago), arts. 14.º a 16.º,
+    o n.º 1 do art. 17.º e os arts. 18.º a 21.º pelo(a) Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I
+    de 2015-01-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-2015-66325236
+  date: '2015-01-26'
 article_structure:
   article_count: 46
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:56Z'
   warnings: []
   errors: []
 ---
@@ -353,15 +416,15 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em conselho de Ministros de 11 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - António Fernando Correia de Campos.
 
-**Promulgado em 27 de Fevereiro de 2007.**
+Promulgado em 27 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 18 de Fevereiro de 2006.**
+Referendado em 18 de Fevereiro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Estatutos da Unidade Local de Saúde do Norte Alentejano, E. P. E.
 

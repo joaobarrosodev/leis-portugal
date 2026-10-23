@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/075b00/14231423.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/15/1997/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/15-1997-527666
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T08:31:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3de0c62e7507cfa5f6a8b83d8a23009c2136575bb9cd9e71c5d04fba38dbbd7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1966c7b918348b9b2d140d0b622752444f7e8025a04ee86f550e5e19f8df960
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:31:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
+- Ensino Básico
 - Habilitações Literárias
 - Pessoal Docente
+- Plano de Estudos
 - Qualificação Profissional
-- Ensino Básico
 relationships:
 - type: amended_by
   target: pt:dre:587421:por
@@ -80,16 +80,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/7/1997/02/07/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/7/1997/02/07/p/dre
+- type: cites
+  target: pt:dre:559026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:587421:por
+  label: "Revogado o DN 7/97 de 07-Fev, com a redacção do presente diploma, pelo DN.3-A/2000.2000.01.10.ME DR.IS-B [14] de\
+    \ 18/Jan/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-a-2000-587421
+  date: '2000-01-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:31:14Z'
   warnings: []
   errors: []
 ---

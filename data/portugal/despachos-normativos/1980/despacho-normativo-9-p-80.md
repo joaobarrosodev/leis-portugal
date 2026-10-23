@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 7/1980, 2º Suplemento, Série I de 1980-01-09
   number: '7'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 26-(33) a 26-(35)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00702/00330035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-p-1980-508638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T07:07:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0d9b51afd5414003478261befd7fbc9c4c735072817c326304cc8803e29bef0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5b28e65f578cad23d6cfc927b9137e6f5e14f23711dd9ac2d841b3dc0c97825
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:07:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CASA PIA de Lisboa
+- Ensino Técnico Profissional
+- Formação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:399210:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ADITADO UM CURSO GERAL ADMINISTRATIVO E COMERCIAL AOS CURSOS DE GRAU III PELO DN 147/84 DE 16-ABR DR.IS [213] DE
+    13/SET/1984.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-09-13'
+- type: cites
+  target: pt:dre:381154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:679027:por
+  label: Rectificado pela DECL.DD6767.25.02.1980.PCM, DR.IS [58] de 10.03.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-679027
+  date: '1980-02-25'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADO PELO DN 6/91 DE 11-DEZ 1990 DR.IS-B [12] DE 15/JAN/1991.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-01-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:07:20Z'
   warnings: []
   errors: []
 ---
@@ -177,21 +204,21 @@ d) Os cursos de relojoeiro, instrumentalista e de radiomontador terão a duraç�
 
 Secretarias de Estado da População e Emprego, dos Ensinos Básicos e Secundário e da Segurança Social, 30 de Novembro de 1979. - O Secretário de Estado da População e Emprego, Luís Fernando Argel de Melo e Silva Biscaia. - O Secretário de Estado dos Ensinos Básico e Secundário, Aldónio Simões Gomes. - O Secretário de Estado da Segurança Social, Coriolano Albino Ferreira.
 
-## Anexo I a que se refere o n.º 5 do presente despacho
+Anexo I a que se refere o n.º 5 do presente despacho
 
 Cursos de grau 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/00702/00330035.pdf))](https://files.diariodarepublica.pt/1s/1980/01/00702/00330035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/01/00702/00330035.pdf)
 
 Cursos de grau 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/00702/00330035.pdf))](https://files.diariodarepublica.pt/1s/1980/01/00702/00330035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/01/00702/00330035.pdf)
 
 Cursos de grau 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/00702/00330035.pdf))](https://files.diariodarepublica.pt/1s/1980/01/00702/00330035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/01/00702/00330035.pdf)
 
-## Anexo II a que se refere o n.º 6 do presente despacho
+Anexo II a que se refere o n.º 6 do presente despacho
 
 Estrutura programática, avaliação e atribuição de diplomas
 

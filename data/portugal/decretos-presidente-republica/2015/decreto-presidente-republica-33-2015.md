@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/10500/0337303373.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/33/2015/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/33-2015-67356984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T05:23:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5de5c2853162398c78d04561add51ab4b7d25121bb2b61f64315939fcac35ccf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfb99f5aa163ac45bff5efe4d14d83dcd2d5be4f4d733e19f56432354ae89076
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:23:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tráfico de Estupefacientes
+- Combate à Droga
 - Convenção
 - Cooperação Bilateral
-- Portugal
-- Combate à Droga
+- Cooperação Judiciária
 - Droga
 - México
-- Cooperação Judiciária
+- Portugal
 - Substância Estupefaciente ou Psicotrópica
+- Tráfico de Estupefacientes
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/55/2015/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/55/2015/06/01/p/dre
+- type: cites
+  target: pt:dre:67356986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:23:09Z'
   warnings: []
   errors: []
 ---
@@ -99,16 +103,16 @@ validation:
 
 de 1 de junho
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b) da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b) da Constituição, o seguinte:
 
 É ratificado o Acordo de Cooperação entre a República Portuguesa e os Estados Unidos Mexicanos no Domínio da Redução da Procura e da Luta contra o Tráfico Ilícito de Estupefacientes e de Substâncias Psicotrópicas, assinado na cidade do México em 16 de outubro de 2013, aprovado pela [Resolução da Assembleia da República n.º 55/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/55-2015-67356986), em 27 de março de 2015.
 
-**Assinado em 25 de maio de 2015.**
+Assinado em 25 de maio de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de maio de 2015.**
+Referendado em 26 de maio de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

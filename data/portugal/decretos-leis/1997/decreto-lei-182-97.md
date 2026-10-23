@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/170a00/37663771.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/182/1997/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1997-144202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67f1da9b09069c92172495f8b4a0a99669265be451f9a5da6b7e03aa4b4b2e44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ee29aa2750f9ea9a6ac6b5c23cf830448a0a946f51266385024519473b1d6b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ação Social
 - Autonomia Administrativa
-- Ministério da Educação
+- Caixa de Previdência
 - Criação de Serviços
 - Definição de Competências
-- Ação Social
-- Caixa de Previdência
+- Funcionário Público
+- Ministério da Educação
 - Orgânica
 - Personalidade Jurídica
 - Pessoal Docente
 - Proteção Social
 - Serviços Sociais
-- Funcionário Público
 - Sistema de Acção Social Complementar
 relationships:
 - type: amended_by
   target: pt:dre:520995:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545651:por
+  label: "Extinto, sendo objecto de fusão, os Serviços Sociais do Ministério da Educação, criados pelo presente diploma, sendo\
+    \ as suas atribuições integradas nos Serviços Sociais da Administração Pública, no âmbito do Ministério das Finanças e\
+    \ da Administração Pública, pelo DEC LEI.213/2006.27.10.2006.ME, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/213-2006-545651
+  date: '2006-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/1993/04/26/p/dre
   label: null
@@ -103,16 +110,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/82/1991/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/82/1991/02/19/p/dre
+- type: cites
+  target: pt:dre:401911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665343:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520995:por
+  label: "Revogado, a partir de 01.05.2007, e nos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, o presente\
+    \ diploma, e determinado que os Serviços Sociais da Administração Pública sucedam nos termos do n.º 1 do artigo 12.º nas\
+    \ atribuições dos Serviços Sociais do Ministério da Educação, cuja orgânica foi aprovada pelo citado diploma, pelo DR.49/2007.27.04.2007.MFAP,\
+    \ DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/49-2007-520995
+  date: '2007-04-27'
 article_structure:
   article_count: 37
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:30Z'
   warnings: []
   errors: []
 ---
@@ -397,7 +432,9 @@ c) A Divisão de Tempos Livres;
 
 d) A Repartição Administrativa.
 
-###### Artigo 20.º — Divisão de Intervenção Social
+###### Artigo 20.º
+
+##### Divisão de Intervenção Social
 
 Compete, nomeadamente, à Divisão de Intervenção Social:
 
@@ -413,7 +450,9 @@ e) A concessão de apoios, designadamente de índole material e económica, a de
 
 f) Promover esquemas de acção social complementar de apoio aos beneficiários aposentados.
 
-###### Artigo 21.º — Divisão de Refeitórios e Alimentação
+###### Artigo 21.º
+
+##### Divisão de Refeitórios e Alimentação
 
 Compete, nomeadamente, à Divisão de Refeitórios e Alimentação:
 
@@ -423,7 +462,9 @@ b) Promover o fornecimento de refeições e o serviço de cafetaria/bar;
 
 c) Apresentar propostas de implantação de refeitórios.
 
-###### Artigo 22.º — Divisão de Tempos Livres
+###### Artigo 22.º
+
+##### Divisão de Tempos Livres
 
 Compete, nomeadamente, à Divisão de Tempos Livres:
 
@@ -573,14 +614,14 @@ No presente ano económico as despesas dos Serviços Sociais continuam a ser sat
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Eduardo Carrega Marçal Grilo - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 3 de Julho de 1997.**
+Promulgado em 3 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Julho de 1997.**
+Referendado em 10 de Julho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/170a00/37663771.pdf))](https://files.diariodarepublica.pt/1s/1997/07/170a00/37663771.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/170a00/37663771.pdf)

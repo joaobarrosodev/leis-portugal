@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/284-1984-385264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T08:00:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca09f3d9bf9777c1b08fa2492b427395901b320aac78897060e85a038bc7ade2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 974fd6ceb9bbfd40880c6a76c859a1c2dd750171ec03a2049a1a9c9cd491a1a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:00:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Apoio ao Investimento
+- Financiamento
+- Incentivos Fiscais
+- Sistema Integrado de Incentivos ao Investimento
+relationships:
+- type: cites
+  target: pt:dre:310440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472943:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:00:44Z'
   warnings: []
   errors: []
 ---
@@ -124,9 +136,9 @@ d) Memória descritiva do projecto, referindo, nomeadamente, os objectivos do in
 
 Ministério das Finanças e do Plano.
 
-**Assinada em 5 de Abril de 1984.**
+Assinada em 5 de Abril de 1984.
 
-**O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes.**
+O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes.
 
 ## ANEXO I — Norma de requerimento (ver nota a)
 
@@ -178,7 +190,7 @@ c) Endereço (estabelecimento ou sede): ...
 
 d) Localização da unidade produtiva:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/10900/15191531.pdf))](https://files.diariodarepublica.pt/1s/1984/05/10900/15191531.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/10900/15191531.pdf)
 
 2.2 - Do projecto:
 
@@ -188,7 +200,7 @@ b) Montante global do investimento: ... contos.
 
 c) Tipo (ver nota 2):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/10900/15191531.pdf))](https://files.diariodarepublica.pt/1s/1984/05/10900/15191531.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/10900/15191531.pdf)
 
 Com os melhores cumprimentos.
 
@@ -202,8 +214,8 @@ Com os melhores cumprimentos.
 
 ## ANEXO III — Mapas normalizados para os fins do Regime Geral de Incentivos Fiscais e Financeiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/10900/15191531.pdf))](https://files.diariodarepublica.pt/1s/1984/05/10900/15191531.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/10900/15191531.pdf)
 
 ## ANEXO IV — Análise macroeconómica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/10900/15191531.pdf))](https://files.diariodarepublica.pt/1s/1984/05/10900/15191531.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/10900/15191531.pdf)

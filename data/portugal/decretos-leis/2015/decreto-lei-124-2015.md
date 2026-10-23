@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13000/0466704670.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/124/2015/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2015-69736205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de4aae388d3a863cecb211de60df2cbfec6520e7ec9b4b295f44ff8b2b3b69e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29ee4051656fc9dd8f3f835505c0b16515296e74875c7e67999707847dee82f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,49 +72,56 @@ reuse:
 subjects:
 - Acção Financeira
 - Aproximação das Legislações
-- Valores Mobiliários
-- Mercado de Títulos
 - Autoridade Europeia dos Seguros e Pensões Complementares de Reforma
 - Autoridade Europeia dos Valores Mobiliários e dos Mercados
-- Financiamento
 - Bolsa de Valores
-- Publicidade
+- CMVM
 - Código dos Valores Mobiliários
-- Gestão Financeira
 - Definição de Competências
 - Emissão de Títulos
-- União Europeia
+- Financiamento
 - Fundo de Investimento
 - Fundo de Pensões
 - Fundos de Garantia
+- Gestão Financeira
+- Instituição Financeira
 - Instituição Financeira de Crédito
 - Investimento
-- Publicitação
+- Investimento Privado
 - Liquidação de Valores Mobiliários
 - Mercado de Capitais
+- Mercado de Títulos
 - Mercado de Valores
 - Mercado Financeiro
 - Mercado Imobiliário
 - Mobilização de Títulos
 - Organismo de Investimento Colectivo
-- Sociedade Gestora de Fundos de Pensões
 - Plano de Pensões
+- Publicidade
+- Publicitação
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
 - Regime Jurídico
 - Registo de Valores Mobiliários
 - Registo Obrigatório
-- Investimento Privado
-- CMVM
-- Instituição Financeira
 - Sociedade de Investimento
 - Sociedade Gestora de Fundos de Investimento
 - Sociedade Gestora de Fundos de Investimento Mobiliário
+- Sociedade Gestora de Fundos de Pensões
 - Sociedade Mediadora
+- União Europeia
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:115660003:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115660003:por
+  label: Alterados os arts. 2.º, 65.º, 110.º, 114.º e 236.º do Regime Geral dos Organismos de Investimento Coletivo, aprovado
+    em anexo à Lei 16/2015 de 24-fev, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei n.º 56/2018 - Diário da
+    República n.º 130/2018, Série I de 2018-07-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-2018-115660003
+  date: '2018-07-09'
 - type: cites
   target: celex:32002L0092
   label: null
@@ -187,6 +194,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16/2015/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16/2015/02/24/p/dre
+- type: cites
+  target: pt:dre:241222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66581992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682983:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32003L0041
   label: null
@@ -208,15 +243,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 10
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:44Z'
   warnings: []
   errors: []
 ---
@@ -275,7 +310,9 @@ Os artigos 37.º e 72.º do [Decreto-Lei n.º 12/2006](https://diariodarepublica
 
 4 - [...].
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - [...].
 
@@ -407,7 +444,9 @@ nn) [...].
 
 2 - [...].
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - [...].
 
@@ -421,7 +460,9 @@ b) [...].
 
 4 - [...].
 
-###### Artigo 110.º — [...]
+Artigo 110.º
+
+[...]
 
 1 - [...].
 
@@ -433,7 +474,9 @@ b) As atividades referidas no n.º 2 e na alínea b) do n.º 3 do artigo 68.º, 
 
 3 - [...].
 
-###### Artigo 114.º — [...]
+Artigo 114.º
+
+[...]
 
 1 - [...].
 
@@ -449,7 +492,9 @@ b) As atividades referidas no n.º 2 e na alínea b) do n.º 3 do artigo 68.º a
 
 5 - [...].
 
-###### Artigo 236.º — [...]
+Artigo 236.º
+
+[...]
 
 1 - [...].
 
@@ -471,12 +516,12 @@ c) O Estado Português e, sendo o caso, o Estado-Membro de origem da entidade ge
 
 Visto e aprovado em Conselho de Ministros de 7 de maio de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Álvaro Barbosa de Campos Ferreira - António de Magalhães Pires de Lima.
 
-**Promulgado em 26 de junho de 2015.**
+Promulgado em 26 de junho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de julho de 2015.**
+Referendado em 1 de julho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

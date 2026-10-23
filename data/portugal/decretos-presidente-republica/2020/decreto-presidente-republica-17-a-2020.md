@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 66/2020, 1º Suplemento, Série I de 2020-04-02
   number: '66'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 31-(2) a 31-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/06601/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/17-a/2020/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/17-a-2020-131068115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T05:39:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 293caae77ae063d86fba794227c636a8307c82763d9b309e527d1be735fef968
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b35156225e5271a4281ae7a36d58d863d7dba42dcf8477450a83bd4771a5f0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:39:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,50 +66,56 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Crime
+- Açores
+- Assembleia da República
+- Catástrofe
+- Circulação de Mercadorias
 - Circulação de Pessoas
-- Liberdade Religiosa
-- Liberdade de Imprensa
-- Direitos do Homem
+- Controlo Sanitário
+- Crime
+- Dados Pessoais
 - Direito à Greve
+- Direitos Cívicos
 - Direitos Civis
+- Direitos do Homem
+- Direitos do Indivíduo
 - Direitos e Liberdades
 - Direitos Económicos
 - Direitos Sociais
-- Controlo Sanitário
-- Saúde Pública
+- Doença Infecciosa
+- Ensino
+- Epidemia
+- Estabelecimento Prisional
 - Estado de Emergência
 - Fiscalização
-- Catástrofe
-- Presidente da República
 - Iniciativa Privada
-- Estabelecimento Prisional
-- Direitos Cívicos
+- Liberdade de Imprensa
 - Liberdade de Reunião
 - Liberdade Provisória
-- Direitos do Indivíduo
+- Liberdade Religiosa
 - Liberdades Fundamentais
-- Medidas Preventivas
-- Circulação de Mercadorias
-- Assembleia da República
-- Doença Infecciosa
-- Epidemia
-- Prazo
-- Ensino
-- Recluso
 - Madeira.região Autónoma
+- Medidas Preventivas
+- Prazo
+- Presidente da República
+- Procuradoria Geral da República
 - Propriedade Privada
 - Provedoria de Justiça
+- Recluso
 - Restrição da Liberdade
-- Açores
-- Dados Pessoais
+- Saúde Pública
 - Trabalhador
-- Procuradoria Geral da República
 relationships:
 - type: amended_by
   target: pt:dre:131908497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:131908497:por
+  label: Renovada a declaração do estado de emergência pelo(a) Decreto do Presidente da República n.º 20-A/2020 - Diário da
+    República n.º 76/2020, 1º Suplemento, Série I de 2020-04-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/20-a-2020-131908497
+  date: '2020-04-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/2-a/2020/03/20/p/dre
   label: null
@@ -126,16 +132,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/22-a/2020/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/22-a/2020/04/02/p/dre
+- type: cites
+  target: pt:dre:130473161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131068116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552035:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:39:15Z'
   warnings: []
   errors: []
 ---
@@ -230,12 +256,14 @@ São ratificadas todas as medidas legislativas e administrativas adotadas no con
 
 O presente Decreto entra imediatamente em vigor, produzindo efeitos nos termos definidos no artigo 3.º
 
-**Assinado em 2 de abril de 2020.**
+Assinado em 2 de abril de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 2 de abril de 2020.**
+Referendado em 2 de abril de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113164147

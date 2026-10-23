@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/19/2008/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2008-248189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ddc01291e0847dff955790e7d16373ed2409fe71516c84e0acf89b5dd875a58
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3919d940dbda4d114949bbb5fc35980c6b7f676b79188a845a60ba03ddb9d71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Retributivo
+- Coimbra
+- Évora
+- Guimarães
 - Lisboa
 - Oficial de Justiça
-- Remuneração Acessória
-- Guimarães
-- Coimbra
+- Porto
 - Prorrogação de Prazo
 - Remuneração
-- Évora
+- Remuneração Acessória
 - Secretaria Judicial
+- Sistema Retributivo
+- Tribunal Central Administrativo
 - Tribunal Central Administrativo Norte
 - Tribunal Central Administrativo SUL
-- Tribunal Central Administrativo
 - Tribunal da Relação
-- Porto
 relationships:
 - type: amended_by
   target: pt:dre:604668:por
@@ -110,16 +110,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/74/2002/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/74/2002/03/26/p/dre
+- type: cites
+  target: pt:dre:300607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683843:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:22Z'
   warnings: []
   errors: []
 ---
@@ -158,12 +182,12 @@ O presente decreto-lei produz os seus efeitos desde 1 de Janeiro de 2008.
 
 Visto e aprovado em Conselho de Ministros de 3 de Janeiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa.
 
-**Promulgado em 18 de Janeiro de 2008.**
+Promulgado em 18 de Janeiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de Janeiro de 2008.**
+Referendado em 21 de Janeiro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/240-1979-382793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T05:53:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38b22902dae896b4f14914dbd6baaef71338f99d0b0fd09aecf94149189ca4b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e5a1a4ec15823440006d64f6d8988a716bdfb10a95bec915778f6f500bac326
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:53:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Estatuto do Pessoal
+- Fundo de Aposentação
+- Instituto Nacional de Pilotagem dos Portos
+- Orgânica
+- Prestação de Serviços
+- Regime Jurídico
+- Regulamento
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:678396:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:53:48Z'
   warnings: []
   errors: []
 ---
@@ -112,13 +125,13 @@ Os artigos a seguir designados do Estatuto do INPP, Estatuto do Pessoal - anexo 
 
 ESTATUTO DO INPP
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Regime jurídico)
 
 O INPP rege-se pelo presente diploma e pelos estatutos e regulamentos que o completam, designadamente o Estatuto do Pessoal, o Estatuto Disciplinar e o Regulamento de Prestação de Serviços e Taxas, os quais são publicados em anexo a este diploma, dele fazendo parte integrante.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Objectivos)
 
@@ -126,7 +139,7 @@ O INPP rege-se pelo presente diploma e pelos estatutos e regulamentos que o comp
 
 ...
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Competência)
 
@@ -136,7 +149,7 @@ a) Elaborar e propor para homologação pelo Governo a regulamentação e medida
 
 ...
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 ...
 
@@ -148,7 +161,7 @@ a) Elaborar e propor para homologação pelo Governo a regulamentação e medida
 
 ...
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Competência)
 
@@ -164,7 +177,7 @@ k) Suprir os deficits pecuniários dos departamentos;
 
 ...
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Funcionamento)
 
@@ -174,7 +187,7 @@ k) Suprir os deficits pecuniários dos departamentos;
 
 ...
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Competência)
 
@@ -182,7 +195,7 @@ k) Suprir os deficits pecuniários dos departamentos;
 
 2 - O conselho geral ou qualquer dos seus membros poderá solicitar ao conselho de gestão elementos de informação necessários ao desempenho das suas funções.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Organização)
 
@@ -192,7 +205,7 @@ k) Suprir os deficits pecuniários dos departamentos;
 
 5 - Nos departamentos onde não se justifique a orgânica consignada no n.º 3 o exercício das funções e competência correspondente àqueles órgãos e serviços serão regulados no regulamento interno do INPP.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Competência)
 
@@ -208,7 +221,7 @@ g) Efectuar as despesas que nos termos das alíneas g) e j) do n.º 2 do artigo 
 
 ...
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Funcionamento)
 
@@ -216,7 +229,7 @@ g) Efectuar as despesas que nos termos das alíneas g) e j) do n.º 2 do artigo 
 
 ...
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Património)
 
@@ -224,7 +237,7 @@ g) Efectuar as despesas que nos termos das alíneas g) e j) do n.º 2 do artigo 
 
 ...
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 (Contabilidade)
 
@@ -232,7 +245,7 @@ g) Efectuar as despesas que nos termos das alíneas g) e j) do n.º 2 do artigo 
 
 ...
 
-###### ARTIGO 46.º
+ARTIGO 46.º
 
 (Balancetes mensais)
 
@@ -240,7 +253,7 @@ g) Efectuar as despesas que nos termos das alíneas g) e j) do n.º 2 do artigo 
 
 2 - Cópias dos extractos da conta «Caixa» e da escrita orçamental, bem como dos balancetes do Caixa e do Razão, serão mensalmente enviados, para conhecimento, aos departamentos de pilotagem.
 
-###### ARTIGO 54.º
+ARTIGO 54.º
 
 (Pessoal requisitado a outros serviços)
 
@@ -248,7 +261,7 @@ g) Efectuar as despesas que nos termos das alíneas g) e j) do n.º 2 do artigo 
 
 3 - O tempo de serviço prestado pelos funcionários requisitados contará, para todos os efeitos, como se tivesse sido prestado nos quadros a que pertencem, mantendo os mesmos durante esse tempo os respectivos direitos, incluindo os relativos a promoção.
 
-###### ARTIGO 64.º
+ARTIGO 64.º
 
 (Quadro de pessoal)
 
@@ -258,19 +271,19 @@ g) Efectuar as despesas que nos termos das alíneas g) e j) do n.º 2 do artigo 
 
 2 - A composição e lotação do quadro do departamento de pilotagem de Sines serão completadas de acordo com o desenvolvimento e as necessidades do porto por portaria do Secretário de Estado da Marinha Mercante, sobre proposta do conselho de gestão.
 
-###### ARTIGO 71.º
+ARTIGO 71.º
 
 (Isenção de impostos)
 
 O INPP está isento de todos os impostos, contribuições ou taxas, custos ou emolumentos e selos nos processos, actos notariais, de registo ou outros em que intervenha, em termos e condições idênticos aos do Estado.
 
-###### ARTIGO 80.º
+ARTIGO 80.º
 
 (Revisão deste diploma)
 
 O conselho de gestão do INPP, ouvido o conselho geral, dois anos após a publicação deste diploma e posteriormente de cinco em cinco anos, deverá reexaminar a presente organização, submetendo à consideração superior as alterações que a experiência torne aconselháveis.
 
-###### ARTIGO 82.º
+ARTIGO 82.º
 
 (Transferências)
 
@@ -278,13 +291,13 @@ Em consequência do disposto no artigo anterior, só serão admitidas transferê
 
 ## ANEXO I — Estatuto do pessoal
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 ...
 
 2 - Os princípios consignados no presente estatuto serão desenvolvidos e efectivados por normas a ele subordinadas, contidas em ordens de serviço dimanadas do conselho de gestão.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 O pessoal dirigente dos departamentos de pilotagem é responsável perante o conselho de gestão pelo bom funcionamento destes, cumprindo-lhe designadamente:
 
@@ -292,7 +305,7 @@ a) Velar pela observância das leis, regulamentos e demais disposições relativ
 
 ...
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1 - São direitos do pessoal, nomeadamente, os seguintes:
 
@@ -302,13 +315,13 @@ g) Desempenhar tarefas mais leves que as anteriormente exercidas, em caso de cap
 
 ...
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1 - É permitida a transferência de trabalhadores da mesma categoria de um departamento para outro, mediante requerimento dos interessados dirigido ao presidente do conselho de gestão. Exceptuam-se as transferências em que o candidato não possa garantir a plena satisfação dos requisitos físicos e sanitários exigidos pelo condicionalismo próprio do serviço de pilotagem do porto onde o departamento para que pretenda ser transferido exerce a sua actividade; nestes casos, a transferência não será autorizada.
 
 ...
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 As categorias do pessoal ao serviço do INPP são as seguintes:
 
@@ -318,47 +331,47 @@ b) Pilotos e outro pessoal técnico especializado;
 
 ...
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 1 - O preenchimento das vagas nos quadros dos departamentos do INPP far-se-á, sempre que possível, por transferência do pessoal já pertencente aos quadros de outros departamentos do Instituto, depois de efectuadas as devidas promoções, para o que o conselho de gestão fará uma consulta a todo o pessoal dos departamentos, no sentido de averiguar dos possíveis interessados.
 
 ...
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 ...
 
 3 - A prova das habilitações e das condições de preferência só pode ser feita por documentos autênticos ou autenticados.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 ...
 
 3 - Findo o período de três meses, a comissão de pilotos procederá nos termos do n.º 4 do artigo anterior.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 À admissão do pessoal auxiliar dos serviços de pilotagem e pessoal administrativo e auxiliar aplicar-se-ão as regras consignadas nos artigos 16.º, 17.º, 18.º, 20.º, 21.º, 22.º, 24.º, 25.º e 26.º em tudo o que não vier regulado especialmente nos artigos seguintes.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 1 - A posse definitiva será conferida pelo presidente do conselho de gestão, que poderá delegar esta função no chefe do respectivo departamento, no prazo de trinta dias, a contar da data da notificação da deliberação do conselho de gestão, homologada pelo Secretário de Estado da Marinha Mercante.
 
 ...
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 ...
 
 4 - Os candidatos ao preenchimento das vagas que ocorrerem nos quadros do Instituto receberão, durante o período de aprendizagem ou experiência a que se referem os artigos 23.º, 27.º e 29.º, 75% do vencimento base da respectiva categoria e as remunerações que o conselho de gestão determinar.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 1 - O presidente do conselho de gestão, o vogal-secretário e os restantes vogais deste mesmo conselho têm direito a perceber uma gratificação mensal de quantitativo fixado na tabela de vencimentos.
 
 ...
 
-###### ARTIGO 53.º
+ARTIGO 53.º
 
 1 - Consideram-se não justificadas todas as faltas não abrangidas nos artigos anteriores. Estas faltas dão lugar a desconto total nas remunerações certas ordinárias, na antiguidade, no período de férias e respectivo subsídio, e são registadas na nota de assentamentos, podendo ainda ser passíveis de procedimento disciplinar, desde que precedido do parecer do chefe do departamento respectivo.
 
@@ -368,7 +381,7 @@ b) Pilotos e outro pessoal técnico especializado;
 
 ...
 
-###### ARTIGO 63.º
+ARTIGO 63.º
 
 1 - Por morte, o pessoal do INPP confere o direito à percepção de um subsídio igual a seis meses do último vencimento base ou pensão de aposentação em relação à data da morte.
 
@@ -376,13 +389,13 @@ b) Pilotos e outro pessoal técnico especializado;
 
 ...
 
-###### ARTIGO 64.º
+ARTIGO 64.º
 
 1 - O direito ao subsídio é conferido aos descendentes do trabalhador que estiverem ou devessem estar a seu cargo na data do falecimento e à pessoa ou pessoas que ele haja designado numa declaração datada e assinada pelo próprio, ou a seu rogo, com reconhecimento notarial da assinatura. Esta declaração deverá conter as moradas das pessoas a quem o subsídio deverá ser atribuído quando o seu autor assim o entenda.
 
 ...
 
-###### ARTIGO 69.º
+ARTIGO 69.º
 
 1 - Até ao final do mês de Janeiro de cada ano, com referência a 31 de Dezembro do ano anterior, elaborar-se-á um mapa de antiguidade, desde constem:
 
@@ -404,13 +417,13 @@ Os dias de inactividade temporária;
 
 O tempo de antiguidade actual.
 
-###### ARTIGO 73.º
+ARTIGO 73.º
 
 Os concursos de admissão já abertos à data da publicação do presente estatuto mantêm as condições indicadas no respectivo aviso de abertura, mas o provimento processar-se-á segundo as normas deste estatuto.
 
 ## ANEXO III — Estatuto disciplinar do pessoal do INPP
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 ...
 
@@ -418,33 +431,33 @@ Os concursos de admissão já abertos à data da publicação do presente estatu
 
 ...
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1 - Os indivíduos abrangidos por este regulamento ficam sujeitos ao poder disciplinar desde a data da posse e, se esta não for exigida, desde a data da entrada ao serviço.
 
 ...
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 1 - As penas dos n.os 1, 2 e 3 do artigo 11.º são da competência dos chefes dos departamentos de pilotagem e do chefe dos serviços administrativos centrais, quanto ao pessoal deles dependente, e do presidente do conselho de gestão, depois de ouvido este conselho, quanto aos chefes dos departamentos de pilotagem, chefe dos serviços administrativos centrais e demais pessoal.
 
 ...
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 A instauração de processos disciplinares para averiguação dos factos a que correspondem as penas dos n.os 4 e seguintes do artigo 11.º é da competência do presidente do conselho de gestão e dos chefes dos departamentos de pilotagem, relativamente ao pessoal deles dependente, mediante participação dos interessados.
 
-###### ARTIGO 55.º
+ARTIGO 55.º
 
 Sempre que um trabalhador deixe de comparecer ao serviço durante cinco dias, depois de ter manifestado a intenção de abandonar o cargo, ou faltar durante trinta dias úteis seguidos e sem justificação, será o facto comunicado pelos responsáveis directos do sector respectivo ao conselho de gestão, que mandará levantar auto de abandono de lugar.
 
-###### ARTIGO 71.º
+ARTIGO 71.º
 
 As recompensas e punições, com a excepção das advertências e repreensões, serão transcritas nos livros de assentamentos, nos precisos termos em que foram redigidas.
 
 ## ANEXO IV — Regulamento de prestação de serviços e taxas
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 ...
 
@@ -470,11 +483,11 @@ Faro - área limitada pelos meridianos longitude = 08 11.3 W. e longitude = 07 4
 
 Vila Real de Santo António - área limitada pelos meridianos longitude = 07.43.0 W. e longitude = 07 25.0 W.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 A assistência às embarcações de que trata o artigo anterior faz-se com a presença do piloto a bordo, podendo, no entanto, fazer-se por sinais ou outros meios de comunicação e orientação sempre que o embarque do piloto não seja possível.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 A pilotagem compreende a assistência às embarcações:
 
@@ -484,29 +497,29 @@ e) Nas manobras de fundear e suspender;
 
 ...
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1 - Considera-se navegação na entrada de portos ou barras, a que se refere a alínea a) do artigo anterior, a efectuada desde o momento em que a embarcação entra nos limites da área de pilotagem a que se refere o artigo 18.º deste regulamento até às zonas de fundeadouro no interior do porto.
 
 2 - Considera-se navegação na saída de portos ou barras, a que se refere a alínea a) do artigo anterior, a efectuada desde as zonas de fundeadouro no interior do porto até a embarcação se encontrar em franquia fora da área obrigatória de pilotagem.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Considera-se navegação no interior dos portos, a que se refere a alínea d) do artigo 3.º, a efectuada pelas embarcações, dentro dos limites do porto, desde as zonas de fundeadouro até ao local de atracação, ou desde o local de atracação até às zonas de fundeadouro.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1 - Considera-se manobra de fundear, a que se refere a alínea e) do artigo 3.º, a efectuada desde que, chegada a embarcação ao local do fundeadouro, é largado o ferro até que este esteja unhado no fundo e a amarra com o comprimento devido.
 
 2 - Considera-se manobra de suspender, a que se refere a alínea e) do artigo 3.º, a efectuada desde que se principia a virar o ferro até este estar ao lume de água.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 1 - Considera-se manobra de amarrar a dois ferros, a que se refere a alínea h) do artigo 3.º, a efectuada desde que, chegada a embarcação ao local do fundeadouro, é largado o primeiro ferro até que o último esteja unhado no fundo e as amarras com o comprimento devido.
 
 ...
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 ...
 
@@ -514,7 +527,7 @@ Considera-se navegação no interior dos portos, a que se refere a alínea d) do
 
 ...
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 1 - O INPP cobra dos navios ou de entidades as seguintes taxas:
 
@@ -526,7 +539,7 @@ c) De aluguer de material.
 
 ...
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 1 - As taxas a que se refere a alínea a) do artigo anterior são devidas:
 
@@ -534,13 +547,13 @@ a) Por todas as embarcações que, utilizando ou não a pilotagem, entrem ou sai
 
 ...
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 ...
 
 4 - Quando os documentos das embarcações mencionem mais do que uma tonelagem da mesma espécie, a taxa é sempre cobrada pela tonelagem maior.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 1 - As taxas de pilotagem a cobrar são as que constam das tabelas A e B anexas a este regulamento - anexo I -, depois de lhes ser aplicado o coeficiente que para cada departamento de pilotagem for estabelecido anualmente por despacho do SEMM, sob proposta do INPP.
 
@@ -548,7 +561,7 @@ a) Por todas as embarcações que, utilizando ou não a pilotagem, entrem ou sai
 
 5 - Não há lugar à cobrança de taxa de pilotagem nos casos referidos na alínea e) do artigo 3.º, quando sejam exclusivamente devidos à má visibilidade ou a fim de dar volta para aproar à corrente de água para imediatamente a seguir ir atracar, fundear ou amarrar no local que lhe foi destinado, exceptuando os casos referidos no número anterior.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 1 - São isentas do pagamento da taxa de pilotagem:
 
@@ -560,35 +573,35 @@ b) As embarcações propriedade do Estado, nacional ou estrangeiro, em missões 
 
 2 - As embarcações referidas nas alíneas a) e b) do número anterior não são isentas da aplicação do disposto no artigo 30.º
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 ...
 
 2 - Aos departamentos de pilotagem será dado conhecimento pelo INPP das nações a cujos navios se deve aplicar a doutrina deste artigo e das alterações que se verifiquem.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 ...
 
 2 - Para efeitos do disposto no número anterior, o horário normal fica definido entre as 8 e as 12 horas e entre as 13 e as 17 horas dos dias úteis, de segunda-feira a sexta-feira, e entre as 8 e as 12 horas de sábado.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 1 - As taxas de ocupação extraordinária de pilotos a cobrar são as que constam de uma tabela C, anexa a este regulamento - anexo II -, estabelecida pelo INPP, depois de lhe ser aplicado o coeficiente determinado anualmente por despacho do SEMM, sob proposta do INPP.
 
 ...
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 1 - Quando as embarcações que provenham de fora dos limites da área de pilotagem cheguem à mesma com atraso superior a duas horas em relação à hora anunciada na sua última comunicação, considera-se que o piloto por elas requisitado esteve às ordens a partir dessas duas horas até ao momento em que for recebida alteração da hora de chegada, ou o seu cancelamento, ou as mesmas se encontrem dentro da área de pilotagem prontas a ser pilotadas.
 
 ...
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 Todas as alterações às taxas constantes das tabelas A, B, C e D serão estabelecidas por despacho do SEMM, sob proposta do INPP.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 1 - A pilotagem é obrigatória para todas as embarcações, nacionais ou estrangeiras, na navegação e ou manobras efectuadas na área para leste do arco de círculo oeste com raio de duas milhas centrado na torre de sinais da sede do Departamento de Pilotagem do Porto de Aveiro (DPPA).
 
@@ -598,7 +611,7 @@ Todas as alterações às taxas constantes das tabelas A, B, C e D serão estabe
 
 4 - Para efeitos do artigo 7.º deste regulamento, considera-se limite exterior do porto o meridiano que passa pela torre da sede do DPPA.
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 ...
 
@@ -606,11 +619,11 @@ Todas as alterações às taxas constantes das tabelas A, B, C e D serão estabe
 
 ...
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 3 - Os serviços de pilotagem efectuados a partir do fundeadouro do porto (zona compreendida entre o triângulo regulador de correntes e a ponte de S. Jacinto) até qualquer outro local no interior do porto serão remunerados por 50% da tabela A.
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 ...
 
@@ -620,7 +633,7 @@ a) No rio Douro, até uma milha a oeste do farolim de Felgueiras;
 
 ...
 
-###### ARTIGO 48.º
+ARTIGO 48.º
 
 1 - As embarcações que, vindas de fora da área de pilotagem, se destinem directamente aos locais de atracação passarão a pagar taxa de pilotagem por ocupação extraordinária de piloto - tabela C - se, duas horas depois da hora indicada no seu aviso de chegada, não estiverem prontas a receber piloto.
 
@@ -634,19 +647,19 @@ Tabela B - pela manobra de atracação.
 
 De saída os navios pagarão as mesmas tabelas pela ordem inversa.
 
-###### ARTIGO 50.º
+ARTIGO 50.º
 
 ...
 
 4 - É indispensável a presença do piloto a bordo na navegação e manobras efectuadas no percurso entre os molhes da barra e o cais comercial de Faro ou entre os mesmos molhes e a doca de Olhão.
 
-###### ARTIGO 54.º
+ARTIGO 54.º
 
 1 - São isentos do pagamento de taxas de pilotagem, quando não utilizem os serviços de pilotagem:
 
 ...
 
-###### ARTIGO 57.º
+ARTIGO 57.º
 
 ...
 
@@ -654,7 +667,7 @@ De saída os navios pagarão as mesmas tabelas pela ordem inversa.
 
 ...
 
-###### ARTIGO 58.º
+ARTIGO 58.º
 
 As requisições de serviços de pilotagem devem ser dirigidas para «Departamento de Pilotagem do Porto da Figueira da Foz (DPPFF)» e feitas normalmente do seguinte modo:
 
@@ -664,15 +677,15 @@ b) Saídas e movimentos no rio - por telefone, devendo ser efectuadas dentro do 
 
 ...
 
-###### ARTIGO 60.º
+ARTIGO 60.º
 
 Quando, por motivo de mau tempo, o piloto não puder embarcar fora da barra, este entrará em contacto com o navio por fonia ou VHF e orientá-lo-á na entrada, processando-se o embarque dentro do rio e o mais próximo possível da barra.
 
-##### DIVISÃO V
+DIVISÃO V
 
 Lisboa
 
-###### ARTIGO 67.º
+ARTIGO 67.º
 
 ...
 
@@ -680,11 +693,11 @@ Lisboa
 
 ...
 
-##### DIVISÃO VI
+DIVISÃO VI
 
 Portimão
 
-###### ARTIGO 75.º
+ARTIGO 75.º
 
 As requisições de serviço de pilotagem devem ser dirigidas para «Pilotagem de Portimão» e feitas normalmente do seguinte modo:
 
@@ -694,13 +707,13 @@ b) Saídas e movimentos no rio - por telefone e devem ser efectuadas dentro do h
 
 ...
 
-##### DIVISÃO VII
+DIVISÃO VII
 
 Setúbal
 
 ...
 
-###### ARTIGO 82.º
+ARTIGO 82.º
 
 ...
 
@@ -708,23 +721,23 @@ Setúbal
 
 ...
 
-##### DIVISÃO VIII
+DIVISÃO VIII
 
 Sines
 
 ...
 
-###### ARTIGO 88.º
+ARTIGO 88.º
 
 Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 40.º
 
-##### DIVISÃO IX
+DIVISÃO IX
 
 Viana do Castelo
 
 ...
 
-###### ARTIGO 93.º
+ARTIGO 93.º
 
 1 - As requisições de serviço de pilotagem devem ser dirigidas para «Pilotagem de Viana - Torre de Vigia» e feitas normalmente do seguinte modo:
 
@@ -750,19 +763,19 @@ Movimento que a embarcação pretende efectuar.
 
 ...
 
-###### ARTIGO 94.º
+ARTIGO 94.º
 
 ...
 
 2 - O embarque e desembarque dos pilotos estão condicionados às horas aproximadas do praia-mar, desde que as condições meteorológicas o permitam, e far-se-á por intermédio da embarcação do DPPVC.
 
-##### DIVISÃO X
+DIVISÃO X
 
 Vila Real de Santo António
 
 ...
 
-###### ARTIGO 99.º
+ARTIGO 99.º
 
 ...
 
@@ -782,6 +795,6 @@ Nota B. - Nos casos previstos no n.º 3.º, começa-se a contar o tempo ao fim d
 
 [Artigo 4.º, n.º 1, alínea d)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11900/10911099.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11900/10911099.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11900/10911099.pdf)
 
 Secretaria de Estado da Marinha Mercante, 9 de Abril de 1979. - O Secretário de Estado da Marinha Mercante, José da Silva Domingos.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/23800/0000200011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/104/2024/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2024-899370945
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b733620f04031962441f9d448797ce802ca52520f02a1ea6d024cabcc93fe61a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7121af25bb5bf6122bf1c8d3087f0d3997c5e70ff79d84e466607e7169dfc0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CE Países
-- União Europeia
-- Países Terceiros
-- Ministério dos Negócios Estrangeiros
 - Dados Pessoais
+- Ministério dos Negócios Estrangeiros
+- Países Terceiros
+- União Europeia
 relationships:
 - type: cites
   target: celex:32015L0637
@@ -105,6 +105,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/229/2021/10/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/229/2021/10/28/p/dre
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165129790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173509616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641127:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32019L0997
   label: null
@@ -116,13 +132,13 @@ relationships:
 article_structure:
   article_count: 14
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:23Z'
   warnings: []
   errors: []
 ---
@@ -279,7 +295,7 @@ c) Do Estado-Membro obrigado, de acordo com o direito internacional ou nacional,
 
 1 - As taxas cobradas pelos SPE do MNE pela emissão de documentos nacionais de emergência, nos termos da Tabela de Emolumentos Consulares, aprovada no anexo i à [Portaria n.º 229/2021](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), de 28 de outubro, são igualmente aplicáveis à emissão do TVP da UE.
 
-2 - Nos casos previstos nos n.<sup>os</sup>5, 6, 7 e 9 do artigo 21.º da Tabela de Emolumentos Consulares, aprovada no anexo i à [Portaria n.º 229/2021](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), de 28 de outubro, o requerente encontra-se isento do pagamento da taxa prevista no número anterior.
+2 - Nos casos previstos nos n.os5, 6, 7 e 9 do artigo 21.º da Tabela de Emolumentos Consulares, aprovada no anexo i à [Portaria n.º 229/2021](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), de 28 de outubro, o requerente encontra-se isento do pagamento da taxa prevista no número anterior.
 
 3 - Aquando da apresentação do pedido, caso os requerentes não possam pagar as taxas aplicáveis, comprometem-se a proceder ao respetivo reembolso ao Estado-Membro da nacionalidade, nos termos do disposto nos artigos 42.º e 43 do Regulamento Consular, utilizando o formulário tipo constante dos anexos i e ii ao presente decreto-lei.
 
@@ -337,17 +353,17 @@ O presente decreto-lei entra em vigor no 1.º dia do segundo mês seguinte ao da
 
 Visto e aprovado em Conselho de Ministros de 6 de novembro de 2024. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Margarida Blasco.
 
-**Promulgado em 28 de novembro de 2024.**
+Promulgado em 28 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de novembro de 2024.**
+Referendado em 29 de novembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
-## ANEXO I — (a que se referem os n.<sup>os</sup>1 e 8 do artigo 6.º e o n.º 3 do artigo 7.º)
+## ANEXO I — (a que se referem os n.os1 e 8 do artigo 6.º e o n.º 3 do artigo 7.º)
 
 Formulário uniforme de título de viagem provisório da União Europeia
 
@@ -383,7 +399,7 @@ Estas páginas são reservadas aos vistos e carimbos de entrada/saída.
 
 Um número de sete algarismos é pré-impresso no formulário uniforme de TVP da UE.
 
-## ANEXO II — (a que se referem os n.<sup>os</sup>1, 2 e 3 do artigo 6.º, o n.º 3 do artigo 7.º e o n.º 4 do artigo 11.º)
+## ANEXO II — (a que se referem os n.os1, 2 e 3 do artigo 6.º, o n.º 3 do artigo 7.º e o n.º 4 do artigo 11.º)
 
 Vinheta uniforme de título de viagem provisório da União Europeia
 
@@ -432,3 +448,5 @@ Informações de leitura ótica
 10 - A vinheta uniforme de TVP da UE deve incluir as informações de leitura ótica, em conformidade com o documento 9303 da OACI, necessárias para facilitar os controlos nas fronteiras externas. As letras maiúsculas «PU» são utilizadas como os dois primeiros carateres da zona de leitura ótica para designar o documento como título de viagem provisório da UE. Na zona de leitura ótica deve figurar um texto integrado na impressão de fundo visível, com a expressão «União Europeia» em todas as línguas oficiais da União. Este texto não pode afetar as características técnicas da zona de leitura ótica nem a respetiva legibilidade.
 
 11 - É reservado um espaço para o eventual aditamento de um código de barras comum bidimensional.
+
+118439921

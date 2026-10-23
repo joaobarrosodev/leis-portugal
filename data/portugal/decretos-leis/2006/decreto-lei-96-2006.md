@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/96/2006/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2006-353539
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf821f84794ec0ed6a6c33999aa76109a197668426e0480a5d65ff1ca535aea7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4d5f73b35f87202fe05dda260831cba51a16355792d35ec4737266aa590bd72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
 subjects:
 - Adjudicação de Obras Públicas
 - Ajuste Direto
+- Campeonato do Mundo de Vela de Classes Olímpicas de 2007
+- Cascais
 - Contrato
 - Empreitada de Obras Públicas
 - Marina
-- Cascais
 - VELA
-- Campeonato do Mundo de Vela de Classes Olímpicas de 2007
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/200/2005/11/14/p/dre
@@ -87,16 +87,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/24/2005/01/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/24/2005/01/28/p/dre
+- type: cites
+  target: pt:dre:152526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620930:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:40Z'
   warnings: []
   errors: []
 ---
@@ -157,12 +169,12 @@ O presente decreto-lei produz efeitos desde 31 de Janeiro de 2005 e vigora até 
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - António José de Castro Guerra - Mário Lino Soares Correia.
 
-**Promulgado em 19 de Maio de 2006.**
+Promulgado em 19 de Maio de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 22 de Maio de 2006.**
+Referendado em 22 de Maio de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/09/185a00/57275745.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/168/2005/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2005-147611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e80ae78b95c871bba03b99fa7adc72ed0a9f770a8d5fdabae5b71ecadf721df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8af53df13ab8bc5971cf03f9e11d9ccf95ac7e37a757f214a04e525691c60d24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Comércio
 - Construção Naval
 - Controlo de Qualidade
 - Embarcação de Recreio
 - Normas de Segurança
-- Proteção do Ambiente
 - Poluição pelos Navios
-- Comércio
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:74672467:por
@@ -104,16 +104,22 @@ relationships:
   target: celex:32003L0044
   label: null
   source: http://data.europa.eu/eli/dir/2003/44/oj
+- type: repealed_by
+  target: pt:dre:74672467:por
+  label: Revogado, a partir de 14.06.2016, pelo(a) Decreto-Lei n.º 26-A/2016 - Diário da República n.º 111/2016, 2º Suplemento,
+    Série I de 2016-06-09 nos termos do seu art. 45.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-a-2016-74672467
+  date: '2016-06-09'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:49Z'
   warnings: []
   errors: []
 ---
@@ -444,15 +450,15 @@ d) Até 31 de Dezembro de 2006 no caso dos motores de ignição a dois tempos qu
 
 Visto e aprovado em Conselho de Ministros de 25 de Agosto de 2005. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia - António Fernando Correia de Campos.
 
-**Promulgado em 9 de Setembro de 2005.**
+Promulgado em 9 de Setembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Setembro de 2005.**
+Referendado em 13 de Setembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Requisitos essenciais
 
@@ -632,7 +638,7 @@ d) Marcação CE, se necessária, em conformidade com o artigo 11.º
 
 QUADRO N.º 1
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57275745.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57275745.pdf)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57275745.pdf)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57275745.pdf)
 
 A, B e n são valores constantes, de acordo com o quadro supra, P(índice N) é a potência nominal em quilowatts e as emissões de gases de escape são medidas em conformidade com a norma harmonizada.
 
@@ -668,7 +674,7 @@ As embarcações de recreio com motor interior ou motor com transmissão por col
 
 QUADRO N.º 2
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57275745.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57275745.pdf)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57275745.pdf)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57275745.pdf)
 
 1.2 - Em alternativa aos ensaios de medição sonora, as embarcações de recreio com motor interior ou motor com transmissão por coluna sem escape integrado podem ser consideradas conformes aos requisitos em matéria de emissões sonoras se apresentarem um número de Froude (igual ou menor que) 1,1 e uma relação potência/deslocamento (igual ou menor que) 40 e se o motor e o sistema de escape estiverem instalados de acordo com as especificações do fabricante do motor.
 
@@ -1068,7 +1074,7 @@ c) As decisões e relatórios do organismo notificado referidos no último pará
 
 2 - Procede-se seguidamente ao cálculo da média aritmética X dos resultados obtidos a partir da amostra para cada parâmetro regulamentado das emissões de gases de escape e sonoras. A série será considerada conforme aos requisitos, decisão de autorização, se for satisfeita a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/09/185a00/57275745.pdf))](https://files.diariodarepublica.pt/1s/2005/09/185a00/57275745.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57275745.pdf)
 
 ## ANEXO XIII — Documentação técnica fornecida pelo fabricante
 
@@ -1156,7 +1162,7 @@ iv) Declaração nos termos da qual os componentes preenchem os requisitos essen
 
 (n.º 2 do artigo 7.º)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57275745.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57275745.pdf)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57275745.pdf)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57275745.pdf)
 
 Definições
 

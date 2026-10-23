@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14700/0000700009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/64/2023/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2023-216406849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05f738dbace190e52dbb0b36cacc259d7e9929bbe0f1a065dc3cdb93124f193e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb9e4d92c102cd64005a0aa734c14e50c12939bcae6ab65e1cf66a0b0a0416e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigador
-- Fundação para a Ciência e a Tecnologia
+- Agregação
+- Avaliação de Conhecimentos
+- Biblioteca Nacional
+- Carreira Docente Universitária
 - Depósito Legal
 - Ensino Oficial
 - Ensino Particular
-- Biblioteca Nacional
-- Agregação
-- Publicitação
+- Ensino Superior
+- Equivalência de Diplomas
+- Fundação para a Ciência e a Tecnologia
+- Investigador
 - JURI
-- Carreira Docente Universitária
-- Universidade
 - Página na Internet
 - Pessoal Docente
-- Avaliação de Conhecimentos
+- Publicitação
 - Regime Jurídico
-- Equivalência de Diplomas
-- Ensino Superior
+- Universidade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/239/2007/06/19/p/dre
@@ -91,16 +91,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/66/2018/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/66/2018/08/16/p/dre
+- type: cites
+  target: pt:dre:116068880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639289:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:30Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +173,9 @@ b) O júri só pode deliberar quando estiverem presentes, fisicamente ou em tele
 
 11 - (Anterior n.º 10.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -177,11 +187,15 @@ b) O júri só pode deliberar quando estiverem presentes, fisicamente ou em tele
 
 5 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 A nomeação do júri, o resultado da apreciação preliminar e o resultado das provas públicas de agregação são divulgados no sítio na Internet da universidade.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -219,12 +233,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de julho de 2023. - António Luís Santos da Costa - Elvira Maria Correia Fortunato.
 
-**Promulgado em 26 de julho de 2023.**
+Promulgado em 26 de julho de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 26 de julho de 2023.**
+Referendado em 26 de julho de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+116722331

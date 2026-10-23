@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/60-1979-393196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 340069a4d5291d603184cd4410579441525fe072662fd887c84f1322cf0e2960
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9c5d9be98a876423077d40dbd075790da1ba671ad42a1461e39074f5e3235c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro de Informática
+- Gabinete de Registo Nacional
+- Ministério da Justiça
+- Pessoa Coletiva
+- Registo Nacional de Identificação
+relationships:
+- type: cites
+  target: pt:dre:327299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412470:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:36Z'
   warnings: []
   errors: []
 ---
@@ -92,6 +105,6 @@ Manda o Governo da República Portuguesa, pelo Ministro da Justiça, nos termos 
 
 Ministério da Justiça, 19 de Janeiro de 1979. - O Ministro da Justiça, Eduardo Henriques da Silva Correia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/02/03000/01690172.pdf))](https://files.diariodarepublica.pt/1s/1979/02/03000/01690172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/02/03000/01690172.pdf)
 
-**O Ministro da Justiça, Eduardo Henriques da Silva Correia.**
+O Ministro da Justiça, Eduardo Henriques da Silva Correia.

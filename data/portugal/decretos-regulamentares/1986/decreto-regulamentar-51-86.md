@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/23000/28922909.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,193 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1986-222604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a3d35af368a09860efba3e1ce2d2952cec4e734d784362f1e491bccac13f5ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1c1f4c7772d6bac8dd329dd5a5cc7ca5cb72d1d9bdf92fc74dfcb7f31d41c3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Florestas
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:234123:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:495339:por
+  label: "Alterado o quadro de pessoal pela PORT.813/87.28.09.1987.MF, DR.IS [223] de 28.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/813-1987-495339
+  date: '1987-09-28'
+- type: amended_by
+  target: pt:dre:615241:por
+  label: "Determinada a transmissão para o Estado da propriedade de diversos prédios rústicos e urbanos sitos na zona de actuação\
+    \ directa do Gabinete da Área de Sines (GAS), reestruturado pelo Dec Lei 487/80 de 17-Out, e afectados em parte à Direcção-Geral\
+    \ das Florestas, cuja orgânica e atribuições constam do presente diploma, pelo DEC LEI.116/89.14.04.1989.MPLAT, DR.IS\
+    \ [87] de 14.04.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-1989-615241
+  date: '1989-04-14'
+- type: amended_by
+  target: pt:dre:611679:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, pela PORT.332/89.09.05.1989.MF, DR.IS [106] de 09.05.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/332-1989-611679
+  date: '1989-05-09'
+- type: amended_by
+  target: pt:dre:332879:por
+  label: "Alterado o mapa a que se refere o nº 1 do art. 19º, pela PORT.129/90.17.02.1990.MF, DR.IS [41] de 17.02.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/129-1990-332879
+  date: '1990-02-17'
+- type: amended_by
+  target: pt:dre:555393:por
+  label: "Alterado, no referente ao pessoal técnico superior, o quadro de pessoal da Direcção-Geral das Florestas pelo DN.124/90.16.10.1990.MF,\
+    \ DR.IS [239] de 16.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/124-1990-555393
+  date: '1990-10-16'
+- type: amended_by
+  target: pt:dre:555398:por
+  label: "Alterado o quadro de pessoal pelo DN.123/90.16.10.1990.MF, DR.IS [239] de 16.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/123-1990-555398
+  date: '1990-10-16'
+- type: amended_by
+  target: pt:dre:566608:por
+  label: "Determinada a transferência para a Direcção-Geral das Florestas das competências atribuídas pela Port 209/90 de\
+    \ 21-mar à Estação Florestal Nacional pela PORT.1116/90.12.11.1990.MAPA, DR.IS [261] de 12.11.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1116-1990-566608
+  date: '1990-11-12'
+- type: amended_by
+  target: pt:dre:564423:por
+  label: "Alterado o quadro de pessoal pelo DN.144/90.17.11.1990.MF, DR.IS [266] de 17.11.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/144-1990-564423
+  date: '1990-11-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO PELO DESPACHO NORMATIVO 45/91, PUBLICADO NO DR.IS-B, 36.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-02-13'
+- type: amended_by
+  target: pt:dre:478055:por
+  label: "Alterado o quadro de pessoal pelo DN.45/91.13.02.1991.MF, DR.IS-B [36] de 13.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/45-1991-478055
+  date: '1991-02-13'
+- type: amended_by
+  target: pt:dre:679844:por
+  label: "Alterado pelo DR.39/91.1991.08.09.MAPA, DR.IS-B [128]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/39-1991-679844
+  date: '1991-08-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA 294/92, PUBLICADA NO DR.IS-B, 79.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-04-03'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORTARIA 917/92, PUBLICADA NO DR.IS-B, 220.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-09-03'
+- type: amended_by
+  target: pt:dre:234123:por
+  label: "Alterado o quadro de pessoal, na parte relativa ao pessoal técnico-profissional das áreas funcionais de biblioteca\
+    \ e documentação e arquivo, pela PORT.917/92.23.09.1992.MF, DR.IS-B [220] de 23.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/917-1992-234123
+  date: '1992-09-23'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 36/93 DO MF/MA, DE 12 DE FEVEREIRO, PUBLICADO NO DR.IS-B, 65,\
+    \ DE 930318.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-03-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 36/94 DO MF/MA, DE 12 DE JANEIRO, PUBLICADO NO DR.IS-B, 23,\
+    \ DE 940128.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-01-28'
+- type: cites
+  target: pt:dre:157049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667910:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571222:por
+  label: "Revogado na parte aplicável o nº 1 do art. 19º pelo DEC LEI.142/90.04.05.1990.MAPA, DR.IS [102] de 04.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-1990-571222
+  date: '1990-05-04'
 article_structure:
   article_count: 31
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:31Z'
   warnings: []
   errors: []
 ---
@@ -976,21 +1129,21 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 8 de Setembro de 1986.**
+Promulgado em 8 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Setembro de 1986.**
+Referendado em 19 de Setembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
 ## Anexo a que se refere o n.º 1 do artigo 19.º do Decreto Regulamentar n.º 51/86
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/23000/28922909.pdf))](https://files.diariodarepublica.pt/1s/1986/10/23000/28922909.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/23000/28922909.pdf)
 
 MAPA II
 
@@ -998,4 +1151,4 @@ MAPA II
 
 Categorias e carreiras a extinguir nos termos do n.º 2 do artigo 2.º do [Decreto Regulamentar n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1984-384385), de 28 de Maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/23000/28922909.pdf))](https://files.diariodarepublica.pt/1s/1986/10/23000/28922909.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/23000/28922909.pdf)

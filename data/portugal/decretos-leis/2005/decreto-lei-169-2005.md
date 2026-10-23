@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/169/2005/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2005-147612
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6ebb0f80d7f4c7a5031328a9ef7a355d3ca12e3e7892a07fc3149ea476e8cc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3caee0995b65db0b90008f387455231d479895ef1d0dfa9ef395e20a316c4005
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da ÁGUA
-- Classificação de Obras
-- Recursos Hídricos
 - Aproveitamento Hidroagrícola
-- Instituto de Desenvolvimento Rural e Hidráulica
+- Classificação de Obras
 - Exploração Agrícola
+- Instituto da ÁGUA
+- Instituto de Desenvolvimento Rural e Hidráulica
+- Recursos Hídricos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/86/2002/04/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/86/2002/04/06/p/dre
+- type: cites
+  target: pt:dre:303136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:49Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +130,9 @@ Os artigos 103.º, 104.º e 107.º do [Decreto-Lei n.º 269/82](https://diarioda
 
 3 - No prazo de seis meses a contar do termo da data prevista no número anterior, o IDRHa e o Instituto da Água (INAG) submetem ao Ministério da Agricultura, do Desenvolvimento Rural e das Pescas e ao Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional uma proposta conjunta sobre as infra-estruturas a integrar nos perímetros de rega a cargo do IDRHa.
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 1 - ...
 
@@ -130,7 +140,9 @@ Os artigos 103.º, 104.º e 107.º do [Decreto-Lei n.º 269/82](https://diarioda
 
 3 - ...
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - Mantém-se em vigor a legislação aplicável às associações de beneficiários e juntas de agricultores até à sua revisão por decreto regulamentar.
 
@@ -142,12 +154,12 @@ O presente diploma produz efeitos desde 1 de Abril de 2005.
 
 Visto e aprovado em Conselho de Ministros de 12 de Agosto de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 9 de Setembro de 2005.**
+Promulgado em 9 de Setembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Setembro de 2005.**
+Referendado em 15 de Setembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

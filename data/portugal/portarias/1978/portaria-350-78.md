@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/350-1978-298231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T05:39:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08b12c406baccb5dcfb33b819c781eeb771a350ea27f902fdf21aa5b3d2a1d8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80edf085cfc13c5a8fd2c5ccd0884fda004a891f06db66d26510a86d523b07f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:39:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Academia da Força Aérea
+- Academia Militar
+- Aluno Militar
+- Força Aérea
+- Formação Profissional
+- Militar
+- Qualificação Profissional
+relationships:
+- type: cites
+  target: pt:dre:259203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331861:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:39:01Z'
   warnings: []
   errors: []
 ---
@@ -217,7 +232,7 @@ Disposições diversas
 
 Estado-Maior da Força Aérea, 23 de Junho de 1978. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general.
 
-## Anexo à Portaria n.º 350/78
+Anexo à Portaria n.º 350/78
 
 Documentos para o processo da admissão à AFA
 
@@ -267,4 +282,4 @@ C - Entrega dos documentos e tramitação do processo
 
 2 - Os processos respeitantes a candidatos militares, com excepção dos documentos indicados em B, 4, são remetidos ao CRM pela DSP depois de autorizados pelo CEMFA ou, por delegação, pelo Subchefe do Estado-Maior da Força Aérea (Pessoal).
 
-**O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general.**
+O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general.

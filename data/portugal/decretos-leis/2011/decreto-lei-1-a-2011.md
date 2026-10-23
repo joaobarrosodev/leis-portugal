@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 1/2011, 1º Suplemento, Série I de 2011-01-03
   number: '1'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8-(2) a 8-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2011/01/00101/0000200003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/1-a/2011/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-a-2011-406906
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d44a46dc9780b3734678761b1ce78d213368e0a7eb8ba5f883ddbe42304ed6a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8f89f0f8dfc06fa6b1b26176a0f5432b9c360562722f71bb57442403ad22b50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adopção
-- Instituto da Segurança Social
 - Caixa de Abono de Família dos Empregados Bancários
 - Cálculo de Pensões
 - Contribuições da Segurança Social
+- Desemprego
+- Doença Profissional
 - Empregado Bancário
 - Extinção de Serviços
-- Pagamento
+- Instituto da Segurança Social
 - Integração de Serviços
 - Integração de Trabalhadores
 - Maternidade
+- Pagamento
 - Paternidade
 - Pensão de Velhice
-- Doença Profissional
 - Prazo de Garantia
 - Prestações da Segurança Social
-- Desemprego
 - Regime Geral da Segurança Social
 - Segurança Social
 - Subsídio de Adopção
@@ -94,6 +94,15 @@ subjects:
 - TAXA Contributiva
 - Transferência de Competências
 relationships:
+- type: amended_by
+  target: pt:dre:1170245:por
+  label: "Declarado concluído, com efeitos reportados a 24.05.2013, o processo de fusão da Caixa de Abono de Família dos Empregados\
+    \ Bancários (CAFEB), constituída nos termos do art. 10.º do Dec Lei 32192, de 13-ago 1942, regendo-se atualmente pelo\
+    \ regulamento aprovado por alvará de 25-nov 1942, publicado no Boletim do Instituto Nacional do Trabalho e Previdência,\
+    \ ano ix, n.º 23, de 15-dez 1942 e extinta por integração no Instituto da Segurança Social (ISS, I. P.) pelo presente\
+    \ diploma, pela DECL.131/2013.11.06.2013.ISS-MSSSOC, DR.IIS [111] de 11.06.2013\013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/131-2013-1170245
+  date: '2013-06-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/2006/10/27/p/dre
   label: null
@@ -118,16 +127,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
+- type: cites
+  target: pt:dre:315169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604649:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:16Z'
   warnings: []
   errors: []
 ---
@@ -240,12 +277,12 @@ O presente decreto-lei entra em vigor no dia seguinte à sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Dezembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Bernardo Luís Amador Trindade - Valter Victorino Lemos.
 
-**Promulgado em 29 de Dezembro de 2010.**
+Promulgado em 29 de Dezembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de Dezembro de 2010.**
+Referendado em 30 de Dezembro de 2010.
 
 Pelo Primeiro-Ministro, Manuel Pedro Cunha da Silva Pereira, Ministro da Presidência.

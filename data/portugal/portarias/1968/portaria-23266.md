@@ -49,40 +49,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23266-1968-234763
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8782befa26201540a74e8d631a473081e71e35fa02aea213e14ae123a763e4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9b1bdb57bcf2498f320d66765a19b76477e3298dbf2a99a5c782da75c11c308
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Estatuto dos Sargentos e Praças da Armada
+- Forças Armadas
+- Formação Profissional
+- Instrução Militar
+- Marinha
+- Militar
 relationships:
 - type: amended_by
   target: pt:dre:389674:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:225850:por
+  label: "Alterado o nº 19º pela PORT.184/70.09.04.1970.MMAR, DG.IS [83] de 09.04.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/184-1970-225850
+  date: '1970-04-09'
+- type: amended_by
+  target: pt:dre:225982:por
+  label: "Alterado o nº 18º pela PORT.218/70.27.04.1970.MMAR, DG.IS [98] de 27.04.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/218-1970-225982
+  date: '1970-04-27'
+- type: amended_by
+  target: pt:dre:389674:por
+  label: "Alterados os n.os 17.º, 18.º e 19.º pela PORT.154/81.30.01.1981.CR, DR.IS [25] de 30.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/154-1981-389674
+  date: '1981-01-30'
+- type: cites
+  target: pt:dre:170534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577495:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:16Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +213,7 @@ A classificação final de cada candidato é obtida pela média, aproximada a ce
 
 O ordenamento dos candidatos aprovados é efectuado de acordo com as classificações finais obtidas e, em caso de igualdade de classificações, serão observadas as condições de preferência estabelecidas pelo artigo 32.º do Estatuto dos Sargentos e Praças da Armada.
 
-**O Ministro da Marinha, a quem as listas de ordenamento serão presentes, designará os candidatos a admitir aos cursos de alistamento. Para os restantes cursos e instruções de ingresso nas classes o Ministro da Marinha delega no superintendente dos Serviços da Armada essa prerrogativa.**
+O Ministro da Marinha, a quem as listas de ordenamento serão presentes, designará os candidatos a admitir aos cursos de alistamento. Para os restantes cursos e instruções de ingresso nas classes o Ministro da Marinha delega no superintendente dos Serviços da Armada essa prerrogativa.
 
 20.º Os cursos de alistamento para os alunos que não tenham sido praças da Armada compreendem uma instrução militar, de acordo com o respectivo plano de curso, em estabelecimento de ensino a designar pelo director do Serviço do Pessoal.
 

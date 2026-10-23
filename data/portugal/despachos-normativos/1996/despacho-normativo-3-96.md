@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/01/005b00/00270028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/3/1996/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-1996-624656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T08:30:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68e4dcdf6264827085400d64925f61c9ab479f441a1fcf711aa5e6e0150509a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55c20636657c591107505dc4d0356fefbe1656ffb8f18d85c8b9d1d34cc7f6bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:30:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Doença Vegetal
+- Controlo Sanitário
 - Definição de Competências
 - Direcção Regional de Agricultura
-- Controlo Sanitário
+- Doença Vegetal
+- Financiamento
 - Indemnização
 - Instituto de Protecção da Produção Agro-Alimentar
-- Proteção Fitossanitária
 - Produção Vegetal
+- Proteção Fitossanitária
 - Vegetais
 relationships:
 - type: amended_by
@@ -102,16 +102,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/344/1994/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/344/1994/06/01/p/dre
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626869:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:430783:por
+  label: "Revogado pelo DN.24/96.21.06.1996.MADRP, DR.IS-B [142] de 21.06.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/24-1996-430783
+  date: '1996-06-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:30:23Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +175,7 @@ e) Qualquer outro tratamento determinado pelos serviços de protecção fitossan
 
 Tabela para cálculo da indemnização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/01/005b00/00270028.pdf))](https://files.diariodarepublica.pt/1s/1996/01/005b00/00270028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/01/005b00/00270028.pdf)
 
 5 - Compete às direcções regionais de agricultura zelar pela aplicação das medidas de protecção fitossanitária por elas definidas, proceder à recolha dos elementos necessários à elaboração dos processos de indemnização e apresentação dos mesmos ao IPPAA, no prazo máximo de cinco dias após a verificação da aplicação das medidas atrás referidas.
 

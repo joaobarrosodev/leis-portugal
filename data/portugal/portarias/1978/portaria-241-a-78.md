@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 99/1978, 1º Suplemento, Série I de 1978-04-29
   number: '99'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 792-(1) a 792-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/04/09901/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/241-a-1978-647172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:36:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14905a41d39ef20cea8400d7974a09f7fe8dbac6814ac160e9603953dffd514a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ce530816b8c7df7e4afd94262fb61fa21f54d6183fb05eafe595ac6bbd9e9bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:36:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Grupo das Lagoas da Serra da Estrela
+- Pesca Desportiva
+- Pesca Fluvial
+- Proteção dos Animais
+- RIO Coura
+- RIO LIMA
+- Serra da Estrela
+- ZONA de Pesca
 relationships:
 - type: amended_by
   target: pt:dre:397320:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:335748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643686:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:392254:por
+  label: "Revogada pela PORT.36/79.1979.01.22.MAP,DG.IS [18]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/36-1979-392254
+  date: '1979-01-22'
+- type: repealed_by
+  target: pt:dre:382670:por
+  label: "Revogada pela PORT.191/79.1979.04.20.MAP,DR.IS [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/191-1979-382670
+  date: '1979-04-20'
+- type: repealed_by
+  target: pt:dre:397320:por
+  label: "Revogada pela PORT.747/82.1982.07.30.MACP,DR.IS [174]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/747-1982-397320
+  date: '1982-07-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:36:24Z'
   warnings: []
   errors: []
 ---

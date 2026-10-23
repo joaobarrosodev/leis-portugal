@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/688-1978-326729
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T05:47:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce98e6648e6086ab2eff970b3ff3fa34c7bf8bce4183cbac2341bae61c72aa67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef36e57ab5292f2fa877b0de82f07fb32b8d617be69bd104568ad2725e3516c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:47:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Apoio à Exportação
+- Comércio Externo
+- Exportação
+- Incentivos à Exportação
+- Prémio Caravela Portuguesa
+- Regulamentação de Atos Legislativos
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:326725:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:47:29Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +103,13 @@ Ministério do Comércio e Turismo, 3 de Novembro de 1978. - O Ministro do Comé
 
 ### CAPÍTULO I — Natureza do prémio e critérios de atribuição
 
-###### Artigo 1.º O Prémio Caravela Portuguesa, destinado a galardoar as entidades que se distingam pelo seu mérito na actividade da exportação, rege-se pelas normas do presente regulamento.
+Artigo 1.º O Prémio Caravela Portuguesa, destinado a galardoar as entidades que se distingam pelo seu mérito na actividade da exportação, rege-se pelas normas do presente regulamento.
 
-###### Art. 2.º Poderão concorrer à atribuição do Prémio Caravela Portuguesa todas as pessoas singulares ou colectivas que tenham prestado relevantes serviços à exportação portuguesa.
+Art. 2.º Poderão concorrer à atribuição do Prémio Caravela Portuguesa todas as pessoas singulares ou colectivas que tenham prestado relevantes serviços à exportação portuguesa.
 
-###### Art. 3.º O Prémio Caravela Portuguesa só poderá ser atribuído a entidades que tenham a sua situação devidamente legalizada, nos termos da legislação em vigor.
+Art. 3.º O Prémio Caravela Portuguesa só poderá ser atribuído a entidades que tenham a sua situação devidamente legalizada, nos termos da legislação em vigor.
 
-###### Art. 4.º - 1 - O Prémio Caravela Portuguesa, a atribuir anualmente, poderá revestir as formas de caravela em filigrana artística e inerente diploma ou de medalha de bronze com o baixo relevo da caravela numa das faces e diploma de menção honrosa.
+Art. 4.º - 1 - O Prémio Caravela Portuguesa, a atribuir anualmente, poderá revestir as formas de caravela em filigrana artística e inerente diploma ou de medalha de bronze com o baixo relevo da caravela numa das faces e diploma de menção honrosa.
 
 2 - As entidades premiadas com a caravela em filigrana terão ainda direito, no ano seguinte ao da atribuição do prémio, ao financiamento gracioso, a suportar pelo Fundo de Fomento de Exportação, de acções promocionais directamente relacionadas com a exportação, no montante de 200000$00.
 
@@ -106,13 +117,13 @@ Ministério do Comércio e Turismo, 3 de Novembro de 1978. - O Ministro do Comé
 
 4 - Anualmente só poderão ser atribuídas caravelas em filigrana no número máximo de dez.
 
-###### Art. 5.º - 1 - A caravela em filigrana artística e respectivo diploma serão atribuídos às empresas exportadoras de bens e ou serviços.
+Art. 5.º - 1 - A caravela em filigrana artística e respectivo diploma serão atribuídos às empresas exportadoras de bens e ou serviços.
 
 2 - As medalhas de bronze e respectivos diplomas de menção honrosa serão atribuídos a empresas exportadoras de bens e ou serviços que, não tendo obtido a caravela em filigrana, se distingam pelo mérito dos resultados na actividade de exportação, bem como a pessoas singulares ou colectivas que tenham prestado relevantes serviços à exportação portuguesa.
 
 3 - As empresas premiadas com a caravela em filigrana só poderão vir a receber idêntica distinção passados que sejam três anos, embora, entretanto, possam vir a ser-lhes atribuídas medalhas de bronze e respectivos diplomas de menção honrosa.
 
-###### Art. 6.º - 1 - Na atribuição do Prémio Caravela Portuguesa o júri tomará em consideração os seguintes critérios de mérito:
+Art. 6.º - 1 - Na atribuição do Prémio Caravela Portuguesa o júri tomará em consideração os seguintes critérios de mérito:
 
 Quantificação percentual do crescimento das exportações da empresa;
 
@@ -142,7 +153,7 @@ Contributo para alcançar os objectivos da exportação no âmbito da política 
 
 ### CAPÍTULO II
 
-###### Art. 7.º O Prémio Caravela Portuguesa será atribuído por um júri constituído pelos seguintes membros:
+Art. 7.º O Prémio Caravela Portuguesa será atribuído por um júri constituído pelos seguintes membros:
 
 a) Presidente do Fundo de Fomento de Exportação;
 
@@ -156,9 +167,9 @@ e) Um representante do Ministério da Indústria e Tecnologia;
 
 f) Dois representantes das organizações empresariais com assento no Conselho Nacional de Comércio Externo, por elas designados.
 
-###### Art. 8.º Os membros do júri que o não sejam a título pessoal serão credenciados por simples carta dirigida ao presidente do júri.
+Art. 8.º Os membros do júri que o não sejam a título pessoal serão credenciados por simples carta dirigida ao presidente do júri.
 
-###### Artigo 9.º Compete ao presidente:
+Artigo 9.º Compete ao presidente:
 
 a) Convocar os membros do júri, devendo as convocatórias ser expedidas com a antecedência mínima de oito dias, por carta registada com aviso de recepção;
 
@@ -166,25 +177,25 @@ b) Dirigir o expediente necessário para a execução do disposto neste regulame
 
 c) Designar temporariamente funcionários do Fundo de Fomento de Exportação para a execução do expediente ou diligências inerentes à organização do processo dos candidatos.
 
-###### Art. 10.º - 1 - O júri está em condições de validamente deliberar, em primeira convocação, sempre que esteja presente a maioria dos seus membros.
+Art. 10.º - 1 - O júri está em condições de validamente deliberar, em primeira convocação, sempre que esteja presente a maioria dos seus membros.
 
 2 - Quando, passados trinta minutos da hora marcada no aviso convocatório, se verificar ausência de quórum, o presidente do júri expedirá novos avisos convocatórios para reunião a realizar a partir dos oito dias seguintes, podendo o júri deliberar em segunda convocação com qualquer número dos seus membros presentes.
 
-###### Art. 11.º A cada membro do júri caberá um voto, que é secreto, não podendo os jurados divulgar o seu voto antes ou depois das reuniões que não são públicas, não obstante poderem solicitar ao presidente ou a qualquer dos outros membros todos os esclarecimentos que entendam necessários.
+Art. 11.º A cada membro do júri caberá um voto, que é secreto, não podendo os jurados divulgar o seu voto antes ou depois das reuniões que não são públicas, não obstante poderem solicitar ao presidente ou a qualquer dos outros membros todos os esclarecimentos que entendam necessários.
 
-###### Art. 12.º O júri delibera por maioria absoluta dos votos expressos dos membros presentes e, uma vez validamente tomadas, as suas deliberações não admitem recurso.
+Art. 12.º O júri delibera por maioria absoluta dos votos expressos dos membros presentes e, uma vez validamente tomadas, as suas deliberações não admitem recurso.
 
-###### Art. 13.º O presidente do júri, ou quem suas vezes fizer, tem voto de qualidade.
+Art. 13.º O presidente do júri, ou quem suas vezes fizer, tem voto de qualidade.
 
 ### CAPÍTULO III — Processo
 
-###### Art. 14.º - 1 - A abertura do concurso para atribuição do Prémio Caravela Portuguesa será feita pelo presidente do júri, mediante aviso publicado na 3.ª série do Diário da República e, pelo menos, em dois dos jornais de maior tiragem do País.
+Art. 14.º - 1 - A abertura do concurso para atribuição do Prémio Caravela Portuguesa será feita pelo presidente do júri, mediante aviso publicado na 3.ª série do Diário da República e, pelo menos, em dois dos jornais de maior tiragem do País.
 
 2 - Independentemente do disposto no número anterior, deverá ser dada difusão à abertura do concurso, nomeadamente através dos serviços competentes da Secretaria de Estado da Comunicação Social.
 
-###### Art. 15.º O prazo de apresentação das candidaturas constará expressamente do aviso de abertura do concurso, nunca podendo ser inferior a trinta dias a contar da data da sua publicação no Diário da República.
+Art. 15.º O prazo de apresentação das candidaturas constará expressamente do aviso de abertura do concurso, nunca podendo ser inferior a trinta dias a contar da data da sua publicação no Diário da República.
 
-###### Art. 16.º - 1 - As candidaturas devem ser apresentadas por escrito ao presidente do júri, quer directamente pelos próprios candidatos, quer por entidades públicas ou privadas que julguem de atribuir o prémio a entidades cuja actuação tenha assumido relevo meritório no plano da exportação nacional.
+Art. 16.º - 1 - As candidaturas devem ser apresentadas por escrito ao presidente do júri, quer directamente pelos próprios candidatos, quer por entidades públicas ou privadas que julguem de atribuir o prémio a entidades cuja actuação tenha assumido relevo meritório no plano da exportação nacional.
 
 2 - Ao apresentarem a sua candidatura, devem os candidatos fazê-la acompanhar de memória descritiva e justificativa da actuação que presumem digna de merecer a atribuição do Prémio Caravela Portuguesa.
 
@@ -194,17 +205,17 @@ c) Designar temporariamente funcionários do Fundo de Fomento de Exportação pa
 
 5 - Em qualquer caso, o presidente do júri, por sua própria iniciativa ou a pedido do júri, poderá exigir aos candidatos os elementos suplementares que se julguem necessários à apreciação dos respectivos processos.
 
-###### Art. 17.º - 1 - Terminado o prazo de apresentação de candidaturas, o júri reunirá para tomar conhecimento das candidaturas apresentadas e deliberar sobre a metodologia a seguir na sua apreciação.
+Art. 17.º - 1 - Terminado o prazo de apresentação de candidaturas, o júri reunirá para tomar conhecimento das candidaturas apresentadas e deliberar sobre a metodologia a seguir na sua apreciação.
 
 2 - O júri poderá delegar num ou mais técnicos especializados o estudo e análise dos processos de candidatura, de forma que lhe seja presente um quadro comparativo dos diversos candidatos e lhe sejam prestados todos os esclarecimentos que vierem a ser solicitados por qualquer dos seus membros.
 
 3 - A fim de se poderem pronunciar sobre a classificação dos candidatos, os membros do júri que o desejarem poderão consultar os processos de candidatura nas horas e local que para o efeito forem determinados pelo presidente do júri, sem prejuízo de não ser permitido que sejam extraídas cópias, fotocópias ou extractos autênticos dos mesmos.
 
-###### Art. 18.º A reunião do júri para deliberar sobre os processos de candidatura apresentados deverá ter lugar no prazo máximo de sessenta dias a contar da data limite de entrega de candidaturas.
+Art. 18.º A reunião do júri para deliberar sobre os processos de candidatura apresentados deverá ter lugar no prazo máximo de sessenta dias a contar da data limite de entrega de candidaturas.
 
-###### Art. 19.º O acto de entrega dos prémios será efectuado em sessão pública, anunciada com antecedência não inferior a dez dias, pelos mesmos meios de comunicação utilizados para abertura do concurso.
+Art. 19.º O acto de entrega dos prémios será efectuado em sessão pública, anunciada com antecedência não inferior a dez dias, pelos mesmos meios de comunicação utilizados para abertura do concurso.
 
-###### Art. 20.º - 1 - Os premiados com o Prémio Caravela Portuguesa deverão comparecer, por si ou por representante devidamente credenciado, no acto público de entrega dos prémios, sob pena de não poderem fruir dos direitos e regalias que este regulamento lhes confere.
+Art. 20.º - 1 - Os premiados com o Prémio Caravela Portuguesa deverão comparecer, por si ou por representante devidamente credenciado, no acto público de entrega dos prémios, sob pena de não poderem fruir dos direitos e regalias que este regulamento lhes confere.
 
 2 - A não comparência na sessão pública de entrega dos prémios apenas poderá ser relevada por despacho do presidente do júri, no caso de impedimento súbito e imprevisto, que deverá ser devidamente justificado até cinco dias depois da data da sua realização.
 
@@ -212,23 +223,23 @@ c) Designar temporariamente funcionários do Fundo de Fomento de Exportação pa
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 21.º Os candidatos ao Prémio Caravela Portuguesa têm direito ao mais rigoroso sigilo sobre processos técnicos de fabrico e quaisquer outros elementos constantes do respectivo processo individual que não sejam por lei de divulgação obrigatória.
+Art. 21.º Os candidatos ao Prémio Caravela Portuguesa têm direito ao mais rigoroso sigilo sobre processos técnicos de fabrico e quaisquer outros elementos constantes do respectivo processo individual que não sejam por lei de divulgação obrigatória.
 
-###### Art. 22.º - 1 - A divulgação ou uso indevido dos elementos constantes dos processos individuais dos candidatos, por parte dos membros do júri ou de quem quer que tenha acesso aos processos, fará os infractores incorrer em responsabilidade penal, civil e disciplinar, a apreciar nos termos da lei geral.
+Art. 22.º - 1 - A divulgação ou uso indevido dos elementos constantes dos processos individuais dos candidatos, por parte dos membros do júri ou de quem quer que tenha acesso aos processos, fará os infractores incorrer em responsabilidade penal, civil e disciplinar, a apreciar nos termos da lei geral.
 
 2 - Caso a quebra do sigilo provenha de qualquer dos membros do júri, às sanções previstas na lei geral e a que se faz referência no número anterior acrescerá a sua expulsão do júri.
 
 3 - A expulsão será determinada pelo júri, carecendo de homologação do respectivo Ministro quanto aos membros referidos nas alíneas a) a e) do artigo 7.º deste Regulamento, e dela será dada publicidade.
 
-###### Art. 23.º - 1 - As entidades a quem tenha sido feita a entrega oficial do Prémio Caravela Portuguesa podem usar os símbolos dos prémios na comercialização ou publicidade dos produtos, conjunto de produtos ou ofertas de prestação de serviços, bem como no timbre dos seus documentos, com identificação correcta do ano e espécie do prémio.
+Art. 23.º - 1 - As entidades a quem tenha sido feita a entrega oficial do Prémio Caravela Portuguesa podem usar os símbolos dos prémios na comercialização ou publicidade dos produtos, conjunto de produtos ou ofertas de prestação de serviços, bem como no timbre dos seus documentos, com identificação correcta do ano e espécie do prémio.
 
 2 - Sem a entrega oficial dos prémios, os contemplados não podem usá-los nem lhes será concedido qualquer diploma, certificado ou benefício.
 
 3 - É proibido a terceiros, clientes, fornecedores ou utentes de bens ou serviços dos titulares dos prémios invocar essa qualidade, utilizando referências ou simbologia alusivas ao prémio.
 
-###### Art. 24.º Fica proibido o uso de marcas, designações ou símbolos que possam confundir ou induzir o público em erro sobre a atribuição do prémio.
+Art. 24.º Fica proibido o uso de marcas, designações ou símbolos que possam confundir ou induzir o público em erro sobre a atribuição do prémio.
 
-###### Art. 25.º - 1 - Todas as despesas originadas com a atribuição do Prémio Caravela Portuguesa serão suportadas pelo Fundo de Fomento de Exportação.
+Art. 25.º - 1 - Todas as despesas originadas com a atribuição do Prémio Caravela Portuguesa serão suportadas pelo Fundo de Fomento de Exportação.
 
 2 - O júri será assistido logisticamente pelo Fundo de Fomento de Exportação, ao qual poderá requisitar os meios humanos e materiais que tiver por convenientes, competindo nomeadamente àquela entidade a organização dos processos de candidatura e a entrega dos prémios.
 

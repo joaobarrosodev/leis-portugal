@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1980-458385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:03:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86dfd1ae577ad80b00e84226930ace7104ef7d18d17972df944fc08f1cc510f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d22eee647f684db5f276c976500193c141e00e51e4dbe072b343346f2a1dd942
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:03:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:1156670556:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:430015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474484:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1156670556:por
+  label: Revogado, a partir de 14 de agosto de 2026, com efeitos a 31 de dezembro de 2026, pelo(a) Decreto-Lei n.º 166/2026
+    - Diário da República n.º 156/2026, Série I de 2026-08-13 nos termos da alínea c) do artigo 62.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-2026-1156670556
+  date: '2026-08-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:03:08Z'
   warnings: []
   errors: []
 ---
@@ -109,25 +124,25 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito do diploma)
 
 O presente diploma regulamenta a atribuição das prestações do esquema de segurança social dirigido a não beneficiários de regime de natureza contributiva previstas nas alíneas a), b), c) e e) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 160/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1980-474484), de 27 de Maio.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Atribuição das prestações)
 
 A atribuição das prestações a que se refere o artigo anterior depende da apresentação do respectivo requerimento e dos documentos de prova estabelecidos para idênticas prestações dos regimes de natureza contributiva.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Quem pode requerer)
 
 As prestações podem ser requeridas por quem provar ter a cargo os titulares do direito ou, na falta da sua apresentação, pelos próprios titulares, se forem maiores de 14 anos.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Elementos a declarar)
 
@@ -143,13 +158,13 @@ d) Situação dos ascendentes ou equiparados, designadamente no tocante à activ
 
 2 - Deverá ainda ser declarada a proveniência dos rendimentos mencionados nas alíneas b) e e) do número anterior.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Meios de prova específicos)
 
 Os elementos declarados nos termos do artigo anterior comprovam-se por declarações das entidades competentes, nomeadamente juntas de freguesia, entidades processadoras de rendimentos ou serviços fiscais.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Verificação dos elementos constantes do processo)
 
@@ -157,7 +172,7 @@ Os elementos declarados nos termos do artigo anterior comprovam-se por declaraç
 
 2 - Compete aos serviços de acção social a elaboração de relatório referente às situações previstas na alínea b) do artigo 5.º do [Decreto-Lei n.º 160/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1980-474484), de 27 de Maio.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Alteração de situações)
 
@@ -165,13 +180,13 @@ Os elementos declarados nos termos do artigo anterior comprovam-se por declaraç
 
 2 - A falta da comunicação a que se refere o número anterior no prazo estabelecido acarreta a extinção do direito.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Pessoas a quem são pagas as prestações)
 
 As prestações são pagas a quem prove ter o titular do direito a seu cargo ou ao próprio titular, caso tenha sido este a requerer.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Inscrição de titulares do direito)
 
@@ -179,7 +194,7 @@ As prestações são pagas a quem prove ter o titular do direito a seu cargo ou 
 
 2 - A inscrição dará origem à constituição de um ficheiro nacional de titulares do direito a prestações de natureza não contributiva.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Processo oficioso para verificação da condição de recursos)
 
@@ -187,13 +202,13 @@ As prestações são pagas a quem prove ter o titular do direito a seu cargo ou 
 
 2 - Verificada a condição de recursos para a atribuição de pensão social, os serviços organizarão o competente processo nos moldes estabelecidos no respectivo diploma regulamentar.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Processo de cálculo de pensão de orfandade)
 
 Quando o titular do direito a pensão de orfandade estiver a cargo do pai ou da mãe sobrevivo ou de pessoa legalmente equiparada a qualquer deles que receba pensão de natureza não contributiva, devem as percentagens de cálculo da pensão de orfandade ser determinadas nas condições definidas no regime contributivo, como se aquela prestação fosse uma pensão de sobrevivência.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Serviços gestores)
 
@@ -203,7 +218,7 @@ Quando o titular do direito a pensão de orfandade estiver a cargo do pai ou da 
 
 3 - A gestão da pensão de orfandade cabe à Caixa Nacional de Pensões, sem prejuízo do disposto no n.º 2 do artigo 6.º do presente diploma.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Continuidade de direitos)
 
@@ -213,13 +228,13 @@ Quando o titular do direito a pensão de orfandade estiver a cargo do pai ou da 
 
 3 - O subsídio vitalício previsto no [Decreto-Lei n.º 513-L/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-l-1979-430015), de 26 de Dezembro, é substituído, para efeitos de aplicação do n.º 1 do presente artigo, pelo abono complementar.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Ficheiro nacional de utentes)
 
 O processo tendente à constituição de um ficheiro nacional de utentes de prestações não contributivas será objecto de estudo e o respectivo regime entrará em vigor até 31 de Dezembro.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Normas orientadoras)
 
@@ -227,8 +242,8 @@ A Direcção-Geral da Segurança Social elaborará as normas orientadoras que se
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva - João António Morais Leitão.
 
-**Promulgado em 28 de Outubro de 1980.**
+Promulgado em 28 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

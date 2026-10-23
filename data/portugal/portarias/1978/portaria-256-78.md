@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/256-1978-295795
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T05:36:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66ee1e69926c7b144a3c0805cadfcd30a4b5d35b36fd53f1423922e09b2932b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89d76a64dadc50ce2d6e0bfb92b6bdbde82acbc45f542a4280014958cd91bf59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:36:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CP
+- Preço
+- Tarifa Geral de Transportes
+- Titulo de Transporte
+- Transporte de Animais
+- Transporte de Mercadorias
+- Transporte de Passageiros
+- Transporte Ferroviário
+- Veículo
+relationships:
+- type: cites
+  target: pt:dre:219555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233959:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:36:45Z'
   warnings: []
   errors: []
 ---
@@ -193,19 +210,19 @@ TABELA DE PREÇOS n.º 20
 
 Bilhetes simples
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/05/10300/08220824.pdf))](https://files.diariodarepublica.pt/1s/1978/05/10300/08220824.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/05/10300/08220824.pdf)
 
 TABELA DE PREÇOS n.º 28
 
 Bilhetes para grupos (viagens simples)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/05/10300/08220824.pdf))](https://files.diariodarepublica.pt/1s/1978/05/10300/08220824.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/05/10300/08220824.pdf)
 
 4.º É incluído um novo serviço no n.º 8 do anexo II desta Tarifa, como a seguir se indica:
 
 ## ANEXO II — Taxas de operações acessórias e especiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/05/10300/08220824.pdf))](https://files.diariodarepublica.pt/1s/1978/05/10300/08220824.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/05/10300/08220824.pdf)
 
 5.º A presente portaria produz efeitos a partir de 1 de Abril.
 

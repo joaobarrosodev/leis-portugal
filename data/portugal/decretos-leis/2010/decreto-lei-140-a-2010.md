@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 252/2010, 2º Suplemento, Série I de 2010-12-30
   number: '252'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 6084-(8) a 6084-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/12/25202/0000800016.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/140-a/2010/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-a-2010-617129
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a0a50bfefd769712b83a28a3eb0886c42085acd20a8297e2a55e2ef79ccfb52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 460156b136164302614826d7990e6fb76229d88aad698db0f0a3da25babcdecf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,81 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Instituição de Crédito
-- Risco Sistémico
-- Supervisão Financeira
-- Definição de Competências
-- Banco Central Europeu
-- União Europeia
-- Banco de Portugal
-- Titularização de Créditos
-- Fundos Próprios
-- Banca
 - Atividade Bancária
-- Instituição Financeira de Crédito
+- Banca
+- Banco Central Europeu
+- Banco de Portugal
 - Crédito
 - Crédito Bancário
-- Regime Geral das Instituições de Crédito e Sociedades Financeiras
-- Riscos de Crédito
+- Definição de Competências
+- Fundos Próprios
+- Instituição de Crédito
 - Instituição Financeira
+- Instituição Financeira de Crédito
+- Regime Geral das Instituições de Crédito e Sociedades Financeiras
+- Risco Sistémico
+- Riscos de Crédito
 - Sucursal
+- Supervisão Financeira
+- Titularização de Créditos
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:58585556:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:669328:por
+  label: "Dada nova redacção, com efeitos a partir de 01.01.2011, ao art. 32º do Dec Lei 104/2007 de 03-Abr, alterado pelo\
+    \ presente diploma, pelo DEC LEI.88/2011.20.07.2011.MFAP, DR.IS [138] de 20.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-2011-669328
+  date: '2011-07-20'
+- type: amended_by
+  target: pt:dre:314946:por
+  label: "Dada nova redação aos arts. 93º e 96º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado\
+    \ pelo Dec Lei 298/92 de 31-dez, alterado pelo presente diploma, pelo DEC LEI.31-A/2012.10.02.2012.MF, DR.IS [30-Supl]\
+    \ de 10.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-a-2012-314946
+  date: '2012-02-10'
+- type: amended_by
+  target: pt:dre:191534:por
+  label: "Alterado o art. 13º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei\
+    \ 298/92, de 31-dez, na redação do presente diploma, pelo DEC LEI.242/2012.07.11.2012.MF, DR.IS [215] de 07.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2012-191534
+  date: '2012-11-07'
+- type: amended_by
+  target: pt:dre:258114:por
+  label: "Alterados os arts. 81º, 93º, 135º-A, 135º-B, 135º-C e 137º-A do Regime Geral das Instituições de Crédito e Sociedades\
+    \ Financeiras, aprovado pelo Dec Lei n.º 298/92, de 31-dez, na redação do presente diploma, pelo DEC LEI.18/2013.06.02.2013.MF,\
+    \ DR.IS [26] de 06.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2013-258114
+  date: '2013-02-06'
+- type: amended_by
+  target: pt:dre:58585556:por
+  label: Alterados, a partir de 23.11.2014, sem prejuízo do disposto nos n.ºs 2 a 7 do art. 26.º, os arts14.º-A, 40.º-A, 56.º-A,
+    81.º, 93.º, 116.º-C, 132.º,135-A, 135-B, 135-C, 199.º-D e 199.º-E, do Regime Geral das Instituições de Crédito e Sociedades
+    Financeiras aprovado pelo Dec Lei 298/92 de 31-dez, e republicado em anexo, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2014-58585556
+  date: '2014-10-24'
+- type: amends
+  target: pt:numero:lei:357-A/2007
+  label: "Altera os arts. 13.º ( na redacção dos Decs Leis nºs 232/96, de 05-Dez, 201/2002, de 26-Set, 104/2007, de 03-Abr\
+    \ e 52/2010, de 26-Mai), 81.º ( na redacção dos Decs Leis nºs 232/96, de 05-Dez, 250/2000, de 13-Out e 357-A/2007, de\
+    \ 31-Out), 93.º, 96.º, 99.º ( o último na redacção do Dec Lei nº 357-A/2007, de 31-Out), 116.º -C ( aditado pelo Dec lei\
+    \ nº 104/2007, de 03-Abr ), 132.º( na redacção dos Decs Leis nºs 145/2006, de 31-Jul, 104/2007, de 03-Abr e 1/2008, de\
+    \ 03-Jan), 135.º -A e 137º-A ( ambos aditados pelo Dec Lei nº 104/2007, de 03-Abr ), 199.º -D e 199.º -E ( ambos na redacção\
+    \ dos Decs Leis nºs 232/96, de 05-Dez e 357-A/2007, de 31-Out ), adita os arts. 14.º -A, 40.º -A, 56.º -A, 135.º -B e\
+    \ 135.º -C e revoga as als e) do n.º 1 do art. 81.º e c), e), f) e g) do n.º 1 do art. 199.º -E do Regime Geral das Instituições\
+    \ de Crédito e Sociedades Financeiras, aprovado pelo Dec -Lei n.º 298/92, de 13-Dez, DR IS-A [301] 6ºSupl\0l\0"
+  source: null
+  date: '1992-12-13'
+- type: amends
+  target: pt:numero:lei:104/2007
+  label: "Altera os arts. 6.º, 12.º, 18.º, 24.º, 32.º e 36.º bem como o anexo do Decreto--Lei n.º 104/2007, de 03-Abr, DR\
+    \ IS [66]\0]\0"
+  source: null
+  date: '2007-04-03'
 - type: cites
   target: celex:32006L0048
   label: null
@@ -118,16 +170,22 @@ relationships:
   target: celex:32009R1060
   label: null
   source: http://data.europa.eu/eli/reg/2009/1060/oj
+- type: repealed_by
+  target: pt:dre:58585556:por
+  label: Revogado, a partir de 23.11.2014, o Dec Lei 104/2007, de 03-abr, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2014-58585556
+  date: '2014-10-24'
 article_structure:
-  article_count: 29
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:27Z'
   warnings: []
   errors: []
 ---
@@ -220,7 +278,9 @@ Para efeitos do presente diploma, entende-se por:
 
 13.º Autoridade responsável pela supervisão numa base consolidada: a autoridade responsável pelo exercício de supervisão numa base consolidada de instituições de crédito mãe com sede na União Europeia e de instituições de crédito controladas por companhias financeiras mãe com sede na União Europeia.
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - ...
 
@@ -248,7 +308,9 @@ g) Outras autoridades com competências para a supervisão dos sistemas de pagam
 
 6 - ...
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - ...
 
@@ -266,7 +328,9 @@ b) Seguir as orientações, recomendações, normas e outras medidas acordadas p
 
 6 - O mandato conferido ao Banco de Portugal nos termos da lei portuguesa não prejudica o desempenho das suas funções enquanto membro do Comité das Autoridades Europeias de Supervisão Bancária ou nos termos da Directiva n.º [2006/48/CE](https://data.europa.eu/eli/dir/2006/48/oj?locale=pt), do Parlamento Europeu e do Conselho, de 14 de Junho.
 
-###### Artigo 96.º — [...]
+Artigo 96.º
+
+[...]
 
 1 - ...
 
@@ -276,7 +340,9 @@ b) Seguir as orientações, recomendações, normas e outras medidas acordadas p
 
 4 - Os elementos que integrem os fundos próprios devem poder ser utilizados para cobrir riscos ou perdas que se verifiquem nas instituições de crédito, sendo distinguidos, na sua qualidade, em função das respectivas características de permanência, grau de subordinação, capacidade e tempestividade de absorção de perdas e, quando aplicável, possibilidade de diferimento ou cancelamento da sua remuneração.
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - ...
 
@@ -294,7 +360,9 @@ f) ...
 
 2 - ...
 
-###### Artigo 116.º-C — [...]
+Artigo 116.º-C
+
+[...]
 
 1 - ...
 
@@ -302,7 +370,9 @@ f) ...
 
 3 - O Banco de Portugal deve impor um requisito específico de fundos próprios, superior ao nível mínimo legalmente estabelecido, às instituições de crédito que não cumpram os requisitos estabelecidos nos termos e ao abrigo das alíneas f) a h) do n.º 1 do artigo 14.º, da alínea d) do n.º 1 do artigo 99.º e do artigo 116.º-A, ou que tenham sido objecto de uma análise negativa nos termos do n.º 2 do mesmo artigo 116.º-A, caso a aplicação de outras medidas não se afigure suficiente, por si só, para melhorar satisfatoriamente, em prazo adequado, as disposições, estratégias, processos e mecanismos aplicados pelas instituições de crédito.
 
-###### Artigo 132.º — [...]
+Artigo 132.º
+
+[...]
 
 1 - ...
 
@@ -314,7 +384,9 @@ f) ...
 
 5 - Sem prejuízo da aplicação das disposições relativas à supervisão complementar de instituições de crédito, empresas de seguros e empresas de investimento de um conglomerado financeiro, nos casos em que a empresa mãe de uma instituição de crédito seja uma companhia financeira mista, o Banco de Portugal pode aplicar as disposições relativas à supervisão em base consolidada, na mesma medida em que tais disposições seriam aplicadas caso não existisse a referida supervisão complementar.
 
-###### Artigo 135.º-A — Competências do Banco de Portugal ao nível da União Europeia
+Artigo 135.º-A
+
+Competências do Banco de Portugal ao nível da União Europeia
 
 1 - Compete ao Banco de Portugal, na qualidade de autoridade competente responsável pelo exercício da supervisão em base consolidada das instituições de crédito mãe na União Europeia e das instituições de crédito controladas por companhias financeiras mãe na União Europeia:
 
@@ -326,7 +398,9 @@ c) O planeamento e coordenação das actividades de supervisão em colaboração
 
 2 - O planeamento e coordenação das actividades de supervisão referidas na alínea c) do número anterior incluem as medidas de excepção referidas na alínea d) do n.º 2 do artigo 137.º-D, a preparação de avaliações conjuntas, a aplicação de planos de contingência e a comunicação ao público.
 
-###### Artigo 137.º-A — [...]
+Artigo 137.º-A
+
+[...]
 
 1 - Caso surja uma situação de emergência, nomeadamente uma evolução negativa dos mercados financeiros, que coloque potencialmente em risco a liquidez do mercado e a estabilidade do sistema financeiro em qualquer dos Estados membros em que as entidades de um grupo tenham sido autorizadas ou onde estejam estabelecidas sucursais significativas na acepção do artigo 40.º-A, e o Banco de Portugal for a autoridade competente responsável pelo exercício da supervisão numa base consolidada ou individual, deve comunicá-la, tão rapidamente quanto possível, às seguintes entidades:
 
@@ -340,7 +414,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 199.º-D — [...]
+Artigo 199.º-D
+
+[...]
 
 1 - O estabelecimento de sucursais e a prestação de serviços em outros Estados membros da União Europeia por empresas de investimento com sede em Portugal rege-se, com as necessárias adaptações, pelo disposto no artigo 36.º, no n.º 1 do artigo 37.º, nos n.os 1 a 3 do artigo 38.º e nos artigos 39.º, 40.º-A e 43.º, com as modificações seguintes:
 
@@ -368,7 +444,9 @@ h) ...
 
 5 - ...
 
-###### Artigo 199.º-E — [...]
+Artigo 199.º-E
+
+[...]
 
 1 - O estabelecimento de sucursais e a prestação de serviços, em Portugal, por empresas de investimento com sede em outros Estados membros da União Europeia rege-se, com as necessárias adaptações, pelo disposto nos artigos 44.º e 46.º a 49.º, no n.º 2 do artigo 50.º, nos artigos 52.º, 54.º a 56.º-A e 60.º e nos n.os 1 e 2 do artigo 61.º, com as seguintes modificações:
 
@@ -414,7 +492,9 @@ Os artigos 6.º, 12.º, 18.º, 24.º, 32.º e 36.º do Decreto-Lei n.º 104/2007
 
 6 - O Banco de Portugal pode, por aviso, delimitar as informações a publicar, em cumprimento do disposto do artigo 29.º, pelas filiais de instituições de crédito mãe na União Europeia ou de companhias financeiras mãe na União Europeia não abrangidas pelo disposto no número anterior.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -430,13 +510,17 @@ Os artigos 6.º, 12.º, 18.º, 24.º, 32.º e 36.º do Decreto-Lei n.º 104/2007
 
 7 - O Banco de Portugal deve divulgar publicamente as características do processo de reconhecimento e uma lista das ECAI por ele reconhecidas.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Quando as posições em risco sobre um OIC preencherem as condições estabelecidas em aviso do Banco de Portugal e as instituições de crédito tiverem conhecimento de todas ou de parte das posições subjacentes ao OIC, devem tomá-las em consideração para efeitos do cálculo das posições ponderadas pelo risco e das perdas esperadas em conformidade com o método IRB.
 
 2 - ...
 
-###### Artigo 24.º — Titularização
+Artigo 24.º
+
+Titularização
 
 1 - ...
 
@@ -452,7 +536,9 @@ a) Até 31 de Dezembro de 2010, os critérios e metodologias gerais utilizados n
 
 b) Sem prejuízo do disposto no artigo 80.º do RGICSF, uma descrição sumária do resultado do exercício de supervisão e das medidas impostas nos casos de não conformidade com o disposto no aviso referido no número anterior que sejam identificados, anualmente, a partir de Dezembro de 2011.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - As instituições de crédito autorizadas a utilizar o método IRB devem deter, até 31 de Dezembro de 2010, requisitos de fundos próprios não inferiores a 80 % do montante total mínimo que a instituição de crédito deveria deter nos termos da regulamentação prudencial em vigor no dia 31 de Dezembro de 2006.
 
@@ -460,7 +546,9 @@ b) Sem prejuízo do disposto no artigo 80.º do RGICSF, uma descrição sumária
 
 3 - Para cumprimento do estabelecido nos números anteriores, os montantes de fundos próprios totais devem ser ajustados de modo a reflectir as diferenças entre o cálculo dos fundos próprios nos termos da regulamentação prudencial em vigor no dia 31 de Dezembro de 2006 e o cálculo dos fundos próprios nos termos do presente decreto-lei e respectiva regulamentação.
 
-###### Artigo 36.º — Composição dos fundos próprios
+Artigo 36.º
+
+Composição dos fundos próprios
 
 1 - ...
 
@@ -508,7 +596,9 @@ c) A obrigação estabelecida no artigo 28.º do Decreto-Lei n.º 104/2007, de 3
 
 4 - Em caso de isenção, os capítulos i e ii do título iii aplicam-se ao conjunto constituído pelo organismo central e pelas instituições nele filiadas.
 
-###### Artigo 40.º-A — Supervisão de sucursais significativas
+Artigo 40.º-A
+
+Supervisão de sucursais significativas
 
 1 - Quando uma sucursal de uma instituição de crédito com sede em Portugal seja considerada como significativa, o Banco de Portugal deve comunicar às autoridades competentes do Estado membro de acolhimento onde esteja estabelecida essa sucursal as seguintes informações essenciais para o exercício das funções de supervisão:
 
@@ -522,7 +612,9 @@ b) Sanções importantes e providências extraordinárias adoptadas pelo Banco d
 
 4 - Sem prejuízo do disposto no artigo 135.º-B, o Banco de Portugal, na qualidade de autoridade responsável pelo exercício da supervisão de uma instituição de crédito com sucursais significativas noutros Estados membros, deve estabelecer e presidir a um colégio de autoridades de supervisão destinado a facilitar a cooperação ao abrigo dos n.os 1 a 3 do presente artigo, sendo aplicável, com as devidas adaptações, o disposto nos n.os 4, 6 e 7 do artigo 135.º-B.
 
-###### Artigo 56.º-A — Sucursal significativa
+Artigo 56.º-A
+
+Sucursal significativa
 
 1 - O Banco de Portugal pode solicitar à autoridade responsável pela supervisão numa base consolidada, ou às autoridades competentes do Estado membro de origem, que uma sucursal estabelecida em Portugal de uma instituição de crédito autorizada noutro Estado membro da União Europeia seja considerada significativa.
 
@@ -546,7 +638,9 @@ c) A dimensão e a importância da sucursal em termos de número de clientes no 
 
 8 - O disposto nos números anteriores é igualmente aplicável, com as necessárias adaptações, aos pedidos apresentados ao Banco de Portugal pelas autoridades competentes de um Estado membro de acolhimento para a qualificação de uma sucursal de uma instituição de crédito sujeita à supervisão do Banco de Portugal como significativa.
 
-###### Artigo 135.º-B — Colégios de autoridades de supervisão
+Artigo 135.º-B
+
+Colégios de autoridades de supervisão
 
 1 - O Banco de Portugal, na qualidade de autoridade responsável pelo exercício da supervisão em base consolidada, deve estabelecer colégios de autoridades de supervisão para facilitar o exercício das funções referidas nos artigos 135.º-A e 137.º-A e, sob reserva dos requisitos previstos no artigo 82.º, deve, se for caso disso, assegurar a coordenação e a cooperação adequadas com as autoridades competentes relevantes de países terceiros.
 
@@ -588,7 +682,9 @@ b) Deve manter todos os membros do colégio de supervisores plenamente informado
 
 8 - O Banco de Portugal deve, sob reserva do dever de segredo imposto pelo artigo 80.º, informar o Comité das Autoridades Europeias de Supervisão Bancária das actividades dos colégios de autoridades de supervisão, incluindo em situações de emergência, e comunicar àquele Comité toda a informação que seja de particular relevância para fins de convergência da supervisão.
 
-###### Artigo 135.º-C — Processos de decisão conjunta
+Artigo 135.º-C
+
+Processos de decisão conjunta
 
 1 - A autoridade responsável pela supervisão numa base consolidada e as autoridades competentes responsáveis pela supervisão das filiais de uma instituição de crédito mãe da União Europeia ou de uma companhia financeira mãe da União Europeia num Estado membro devem empreender os esforços necessários para chegar a uma decisão conjunta relativamente:
 
@@ -650,13 +746,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Novembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos.
 
-**Promulgado em 28 de Dezembro de 2010.**
+Promulgado em 28 de Dezembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de Dezembro de 2010.**
+Referendado em 29 de Dezembro de 2010.
 
 Pelo Primeiro-Ministro, Manuel Pedro Cunha da Silva Pereira, Ministro da Presidência.
 

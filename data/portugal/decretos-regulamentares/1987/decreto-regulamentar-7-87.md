@@ -46,36 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1987-663364
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00a4f3fc18885c0cbbff106296d36e00140b24ea87957732712ee7828d1601ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56a6a473b07a088676c3aa964f75159565246e13de4264c073f842ef9a1b8bb8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Orgânica
+- Serviços Sociais Universitários
+- Universidade Técnica de Lisboa
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DO PESSOAL DOS SERVICOS DE ACCAO SOCIAL DA UNIVERSIDADE TECNICA DE LISBIA, CONSTANTE DO ANEXO\
+    \ I, PELA PORT 237/95 DE 28-MAR DR.IS-B [74]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-03-28'
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655084:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:218169:por
+  label: Rectificado pela DECL.DD3029.1987.05.06.PCM, DR.IS [124]2ºSupl de 30/Mai/1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-218169
+  date: '1987-05-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:37Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +130,15 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º Os Serviços Sociais da Universidade Técnica de Lisboa, também designados por SSUTL, são uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira e funcionam na Universidade Técnica de Lisboa (UTL).
+Artigo 1.º Os Serviços Sociais da Universidade Técnica de Lisboa, também designados por SSUTL, são uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira e funcionam na Universidade Técnica de Lisboa (UTL).
 
-###### Art. 2.º Os SSUTL têm por fim a concessão de auxílios económicos aos estudantes carecidos de recursos, proporcionando-lhes boas condições para se consagrarem ao estudo, bem como a prestação de outros serviços aos estudantes em geral, com vista a melhorar as suas condições de vida, trabalho e uma mais completa formação académica.
+Art. 2.º Os SSUTL têm por fim a concessão de auxílios económicos aos estudantes carecidos de recursos, proporcionando-lhes boas condições para se consagrarem ao estudo, bem como a prestação de outros serviços aos estudantes em geral, com vista a melhorar as suas condições de vida, trabalho e uma mais completa formação académica.
 
-###### Art. 3.º - 1 - A acção dos SSUTL beneficiará os estudantes matriculados nas escolas e institutos superiores pertencentes à UTL, podendo ainda abranger os estudantes de outros estabelecimentos de ensino superior não integrados na UTL mediante despacho de autorização do Ministro da Educação e Cultura (MEC).
+Art. 3.º - 1 - A acção dos SSUTL beneficiará os estudantes matriculados nas escolas e institutos superiores pertencentes à UTL, podendo ainda abranger os estudantes de outros estabelecimentos de ensino superior não integrados na UTL mediante despacho de autorização do Ministro da Educação e Cultura (MEC).
 
 2 - Os trabalhadores dos SSUTL e dos estabelecimentos de ensino superior incluídos no seu âmbito poderão beneficiar dos serviços de alimentação dos SSUTL, mediante acordo a estabelecer com a Obra Social do Ministério da Educação e Cultura, desde que a utilização desses serviços não prejudique os estudantes por eles beneficiados.
 
-###### Art. 4.º - 1 - No domínio da concessão de auxílios económicos aos estudantes carecidos de recursos, compete aos SSUTL:
+Art. 4.º - 1 - No domínio da concessão de auxílios económicos aos estudantes carecidos de recursos, compete aos SSUTL:
 
 a) Conceder bolsas e subsidios de estudo;
 
@@ -132,7 +166,7 @@ g) Desenvolver outras actividades que, pela sua natureza, se enquadrem nos fins 
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 5.º Os SSUTL têm os seguintes órgãos:
+Art. 5.º Os SSUTL têm os seguintes órgãos:
 
 a) O presidente;
 
@@ -140,9 +174,9 @@ b) O conselho geral (CG);
 
 c) O concelho administrativo (CA).
 
-###### Art. 6.º O cargo de presidente dos SSUTL é inerente ao cargo de reitor da UTL.
+Art. 6.º O cargo de presidente dos SSUTL é inerente ao cargo de reitor da UTL.
 
-###### Art. 7.º - 1 - Compete ao presidente dirigir superiormente os SSUTL, orientar e coordenar as suas actividades, designadamente:
+Art. 7.º - 1 - Compete ao presidente dirigir superiormente os SSUTL, orientar e coordenar as suas actividades, designadamente:
 
 a) Assegurar a gestão corrente dos serviços;
 
@@ -164,11 +198,11 @@ h) Submeter ao CASES os projectos de regulamentos e assuntos relativos ao funcio
 
 3 - O presidente será coadjuvado nas suas funções por um vice-presidente, no qual poderá delegar algumas das suas competências.
 
-###### Art. 8.º - 1 - O vice-presidente é nomeado pelo MEC sob proposta do presidente de entre indivíduos com licençiatura e experiência adequada ao cargo.
+Art. 8.º - 1 - O vice-presidente é nomeado pelo MEC sob proposta do presidente de entre indivíduos com licençiatura e experiência adequada ao cargo.
 
 2 - O cargo de vice-presidente é equiparado ao de subdirector-geral, para todos os efeitos legais.
 
-###### Art. 9.º - 1 - O CG é constituído por:
+Art. 9.º - 1 - O CG é constituído por:
 
 a) O presidente dos SSUTL, que preside;
 
@@ -190,7 +224,7 @@ f) Dois representantes das associações de estudantes da UTL.
 
 5 - Os membros do CG referidos nas alíneas d), e) e f) do n.º 1 manter-se-ão em funções após o termo dos respectivos mandatos até que sejam designados novos membros que os irão substituir.
 
-###### Art. 10.º Compete ao CG:
+Art. 10.º Compete ao CG:
 
 a) Aprovar as propostas dos planos anuais e plurianuais de actividades a submeter à aprovação do CASES;
 
@@ -208,7 +242,7 @@ g) Dar parecer sobre os assuntos que lhe sejam apresentados pelo presidente;
 
 h) Acompanhar o funcionamento e consultar a documentação dos serviços operativos e de apoio, podendo, para o efeito, delegar poderes em algum ou alguns dos seus membros.
 
-###### Art. 11.º - 1 - O CG reunirá ordinariamente de três em três meses e extraordinariamente quando convocado pelo presidente, por sua iniciativa ou a pedido de, pelo menos, dois dos seus membros.
+Art. 11.º - 1 - O CG reunirá ordinariamente de três em três meses e extraordinariamente quando convocado pelo presidente, por sua iniciativa ou a pedido de, pelo menos, dois dos seus membros.
 
 2 - A convocatória será acompanhada da lista dos assuntos a tratar na reunião.
 
@@ -218,7 +252,7 @@ h) Acompanhar o funcionamento e consultar a documentação dos serviços operati
 
 5 - O presidente tem voto de qualidade.
 
-###### Art. 12.º - 1 - O CA dos SSUTL é constituído por:
+Art. 12.º - 1 - O CA dos SSUTL é constituído por:
 
 a) O presidente dos SSUTL, que preside;
 
@@ -234,7 +268,7 @@ d) O director dos serviços de apoio, que secretaria.
 
 4 - O membro do CA a que se refere a alínea c) do n.º 1 será designado de entre funcionários públicos de reconhecida competência nos domínios da Administração Pública.
 
-###### Art. 13.º - 1 - Compete ao CA:
+Art. 13.º - 1 - Compete ao CA:
 
 a) Promover a elaboração dos planos financeiros anuais e plurianuais;
 
@@ -260,7 +294,7 @@ l) Promover a organização e permanente actualização do inventário e cadastr
 
 2 - Em matéria de autorização de despesas e de celebração de contratos, o CA terá a competência atribuída na lei geral aos órgãos responsáveis dos serviços dotados de autonomia administrativa e financeira e a que lhe for atribuída por delegação do MEC.
 
-###### Art. 14.º - 1 - O CA reunirá ordinariamente duas vezes por mês e extraordinariamente a solicitação de qualquer dos seus membros.
+Art. 14.º - 1 - O CA reunirá ordinariamente duas vezes por mês e extraordinariamente a solicitação de qualquer dos seus membros.
 
 2 - O CA só poderá deliberar quando se encontre presente a maioria simples dos seus membros.
 
@@ -276,7 +310,7 @@ l) Promover a organização e permanente actualização do inventário e cadastr
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 15.º - 1 - Os SSUTL compreendem:
+Art. 15.º - 1 - Os SSUTL compreendem:
 
 a) Os serviços operativos;
 
@@ -286,7 +320,7 @@ b) Os serviços de apoio.
 
 ##### SUBSECÇÃO I — Serviços operativos
 
-###### Art. 16.º - 1 - Os serviços operativos exercem as suas atribuições nas seguintes áreas:
+Art. 16.º - 1 - Os serviços operativos exercem as suas atribuições nas seguintes áreas:
 
 a) Alojamento;
 
@@ -300,7 +334,7 @@ e) Artes gráficas.
 
 2 - Os serviços operativos serão dirigidos por um director de serviços.
 
-###### Art. 17.º Em matéria de alojamento compete aos SSUTL:
+Art. 17.º Em matéria de alojamento compete aos SSUTL:
 
 a) Providenciar pela abertura e assegurar o funcionamento das residências estudantis;
 
@@ -318,7 +352,7 @@ g) Enviar aos serviços competentes os elementos necessários à cobrança pontu
 
 h) Enviar aos serviços competentes os elementos necessários à elaboração dos orçamentos e relatórios dos SSUTL.
 
-###### Art. 18.º Em matéria de alimentação compete aos SSUTL:
+Art. 18.º Em matéria de alimentação compete aos SSUTL:
 
 a) Providenciar pela abertura e assegurar o funcionamento de refeitórios, snacks e bares;
 
@@ -332,7 +366,7 @@ e) Enviar directamente aos serviços competentes as receitas dos refeitórios, s
 
 f) Enviar aos serviços competentes os elementos necessários à elaboração dos orçamentos e relatórios anuais dos SSUTL.
 
-###### Art. 19.º Em matéria de bolsas, empréstimos e procuradoria compete aos SSUTL:
+Art. 19.º Em matéria de bolsas, empréstimos e procuradoria compete aos SSUTL:
 
 a) Propor superiormente a concessão de bolsas de estudo, subsídios, empréstimos e outros auxílios pecuniários, de acordo com os regulamentos em vigor, e organizar os respectivos processos;
 
@@ -346,7 +380,7 @@ e) Enviar aos serviços competentes os elementos necessários à elaboração do
 
 f) Apoiar os estudantes no cumprimento das formalidades legais e administrativas a que estão obrigados na sua vida académica.
 
-###### Art. 20.º Em matéria de actividades de cultura e turismo compete aos SSUTL:
+Art. 20.º Em matéria de actividades de cultura e turismo compete aos SSUTL:
 
 a) Orientar e coordenar, no âmbito da UTL, as diversas manifestações de cultura e turismo que os SSUTL levarem a cabo;
 
@@ -354,7 +388,7 @@ b) Organizar actividades de cultura e turismo para estudantes, professores e fun
 
 c) Colaborar com outras entidades ou organismos de acordo com as finalidades que lhes estão atribuídas.
 
-###### Art. 21.º Em matéria de artes gráficas compete aos SSUTL:
+Art. 21.º Em matéria de artes gráficas compete aos SSUTL:
 
 a) Promover a edição ou reedição de folhas, textos de apoio ou didácticos;
 
@@ -372,13 +406,13 @@ g) Enviar aos serviços competentes os elementos necessários à elaboração do
 
 ##### SUBSECÇÃO II — Serviços de apoio
 
-###### Art. 22.º Os serviços de apoio, que exercem as suas atribuições nos domínios da gestão administrativa e financeira e do aprovisionamento, serão dirigidos por um director de serviços e compreendem:
+Art. 22.º Os serviços de apoio, que exercem as suas atribuições nos domínios da gestão administrativa e financeira e do aprovisionamento, serão dirigidos por um director de serviços e compreendem:
 
 a) A Repartição Administrativa (RA);
 
 b) A R. Ap.
 
-###### Art. 23.º a RA é dirigida por um chefe de repartição e compreende as seguintes secções:
+Art. 23.º a RA é dirigida por um chefe de repartição e compreende as seguintes secções:
 
 a) Contabilidade e Orçamento (SCO);
 
@@ -390,7 +424,7 @@ d) Pessoal (S. Pes.);
 
 e) Expediente Geral e Arquivo (SEGA).
 
-###### Art. 24.º À SCO compete, designadamente:
+Art. 24.º À SCO compete, designadamente:
 
 a) Preparar e elaborar o orçamento ordinário dos SSUTL e os orçamentos suplementares;
 
@@ -414,7 +448,7 @@ j) Preparar a elaboração do relatório e conta dos SSUTL;
 
 l) Promover a elaboração do balanço anual do património dos SSUTL.
 
-###### Art. 25.º À SSF compete, designadamente:
+Art. 25.º À SSF compete, designadamente:
 
 a) Executar a contabilidade geral e patrimonial dos SSUTL e levar a cabo as acções conducentes à execução da gestão orçamental e à obtenção dos indicadores para informação de gestão;
 
@@ -428,7 +462,7 @@ e) Organizar e processar uma contabilidade analítica para controle de gestão d
 
 f) Conferir os documentos de recebimentos e pagamentos com os balancetes diários de caixa.
 
-###### Art. 26.º À SP compete, designadamente:
+Art. 26.º À SP compete, designadamente:
 
 a) Organizar e manter actualizado o inventário e cadastro dos bens móveis e imóveis dos SSUTL;
 
@@ -438,7 +472,7 @@ c) Gerir o parque automóvel dos SSUTL:
 
 d) Organizar os autos de abate e inutilização de bens deteriorados e sem valor e organizar os processos de venda daqueles que, já sem interesse para os SSUTL, possam ainda ter qualquer valor residual.
 
-###### Art. 27.º À S. Pes. compete, designadamente:
+Art. 27.º À S. Pes. compete, designadamente:
 
 a) Assegurar o expediente relativo à admissão, colocação, promoção, transferência e exoneração ou demissão de pessoal;
 
@@ -456,7 +490,7 @@ g) Organizar os processos individuais de cada funcionário;
 
 h) Processar as folhas de vencimentos, salários, gratificações e outros abonos de pessoal.
 
-###### Art. 28.º À SEGA compete, designadamente:
+Art. 28.º À SEGA compete, designadamente:
 
 a) Assegurar o expediente dos SSUTL, bem como a organização, manutenção e permanente actualização do arquivo geral;
 
@@ -464,7 +498,7 @@ b) Assegurar uma adequada circulação de documentos e normas pelos serviços;
 
 c) Assegurar o apoio dactilográfico a todos os sectores dos SSUTL.
 
-###### Art. 29.º Adstrita à RA funciona a tesouraria, dirigida por um tesoureiro, ao qual compete:
+Art. 29.º Adstrita à RA funciona a tesouraria, dirigida por um tesoureiro, ao qual compete:
 
 a) Efectuar os pagamentos e recebimentos;
 
@@ -482,7 +516,7 @@ g) Responsabilizar-se pela guarda e segurança dos valores em cofre;
 
 h) Enviar aos serviços competentes os elementos necessários à elaboração dos orçamentos e relatórios anuais dos SSUTL.
 
-###### Art. 30.º - 1 - A R. Ap. é dirigida por um chefe de repartição e compreende:
+Art. 30.º - 1 - A R. Ap. é dirigida por um chefe de repartição e compreende:
 
 a) A Secção de Compras (SC);
 
@@ -490,7 +524,7 @@ b) A Secção de Gestão de Stocks e Armazém (SGSA);
 
 c) As oficinas de manutenção.
 
-###### Art. 31.º À SC compete, designadamente:
+Art. 31.º À SC compete, designadamente:
 
 a) Proceder à prospecção de mercado, elaborando o respectivo processo de consultas;
 
@@ -502,7 +536,7 @@ d) Elaborar e manter actualizados os ficheiros de fornecedores;
 
 e) Elaborar o expediente necessário e os diversos mapas estatísticos.
 
-###### Art. 32.º À SGSA compete, designadamente:
+Art. 32.º À SGSA compete, designadamente:
 
 a) Assegurar a existência de stocks mínimos de todos os bens e materiais em armazém;
 
@@ -528,7 +562,7 @@ l) Fornecer aos serviços competentes dados estatísticos sobre consumo e quilom
 
 m) Estudar e implementar circuitos e distribuições adequados.
 
-###### Art. 33.º Às oficinas de manutenção compete:
+Art. 33.º Às oficinas de manutenção compete:
 
 a) Zelar pela conservação, manutenção e aproveitamento de todo o equipamento maquinaria, mobiliário e outros materiais existentes nos vários sectores, assim como das respectivas instalações;
 
@@ -542,7 +576,7 @@ e) Remeter para os serviços competentes, em tempo oportuno e devidamente regist
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-###### Art. 34.º - 1 - Os SSUTL arrecadarão e adminisrão as suas receitas e satisfarão, por seu intermédio, os encargos que legalmente lhes caibam.
+Art. 34.º - 1 - Os SSUTL arrecadarão e adminisrão as suas receitas e satisfarão, por seu intermédio, os encargos que legalmente lhes caibam.
 
 2 - Constituem receitas dos SSUTL:
 
@@ -562,33 +596,33 @@ g) Os saldos da conta de gerência do ano anterior;
 
 h) Quaisquer outras receitas que, por lei, contrato ou a outro título, lhes sejam atribuídas.
 
-###### Art. 35.º - 1 - As disponibilidades dos SSUTL serão depositadas na CGD, sem prejuízo de poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devem ser feitas em dinheiro ou adiantadas a funcionários para custeio de viagens e pagamento de ajudas de custo.
+Art. 35.º - 1 - As disponibilidades dos SSUTL serão depositadas na CGD, sem prejuízo de poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devem ser feitas em dinheiro ou adiantadas a funcionários para custeio de viagens e pagamento de ajudas de custo.
 
 2 - Os pagamentos serão efectuados, em regra, por meio de cheques e estes entregues contra os respectivos recibos devidamente legalizados.
 
-###### Art. 36.º Para a realização dos seus fins, os SSUTL administrarão os bens do domínio público a seu cargo.
+Art. 36.º Para a realização dos seus fins, os SSUTL administrarão os bens do domínio público a seu cargo.
 
-###### Art. 37.º A gestão económica e financeira dos SSUTL será disciplinada pelos seguintes instrumentos de previsão:
+Art. 37.º A gestão económica e financeira dos SSUTL será disciplinada pelos seguintes instrumentos de previsão:
 
 a) Plano de actividades financeiras, anuais e plurianuais;
 
 b) Orçamentos privativos anuais e suas utilizações.
 
-###### Art. 38.º - 1 - Com base no programa de trabalho para cada ano económico, o CA dos SSUTL promoverá a elaboração do respectivo orçamento privativo anual, sem prejuízo dos desdobramentos internos necessários à conveniente descentralização de responsabilidades e adequado controle de gestão.
+Art. 38.º - 1 - Com base no programa de trabalho para cada ano económico, o CA dos SSUTL promoverá a elaboração do respectivo orçamento privativo anual, sem prejuízo dos desdobramentos internos necessários à conveniente descentralização de responsabilidades e adequado controle de gestão.
 
 2 - O orçamento privativo será submetido à aprovação do MEC, após apreciação do CASES, e ao visto do Ministro das Finanças, nos prazos legais.
 
 3 - Os SSUTL poderão ainda submeter à aprovação superior, no decurso de cada ano económico, os orçamentos suplementares previstos na lei geral, destinados quer a reforçar verbas inscritas no orçamento privativo, quer a acorrer a despesas nele não previstas, quer ainda para fins de alteração de rubricas.
 
-###### Art. 39.º O CA dos SSUTL requisitará mensalmente, nos termos da lei vigente, à delegação competente da DGCP as importâncias que forem necessárias, por conta das dotações orçamentais atribuídas no OE e das constantes em conta de ordem.
+Art. 39.º O CA dos SSUTL requisitará mensalmente, nos termos da lei vigente, à delegação competente da DGCP as importâncias que forem necessárias, por conta das dotações orçamentais atribuídas no OE e das constantes em conta de ordem.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 40.º - 1 - Os SSUTL dispõem do quadro de pessoal anexo ao presente diploma.
+Art. 40.º - 1 - Os SSUTL dispõem do quadro de pessoal anexo ao presente diploma.
 
 2 - Sempre que as circunstâncias o justifiquem, poderá ser revisto o quadro do pessoal dos SSUTL por proposta do CASES, mediante portaria conjunta dos Ministros das Finanças e da Educação e Cultura.
 
-###### Art. 41.º O quadro do pessoal dos SSUTL compreenderá os seguintes grupos profissionais:
+Art. 41.º O quadro do pessoal dos SSUTL compreenderá os seguintes grupos profissionais:
 
 a) Pessoal dirigente;
 
@@ -604,7 +638,7 @@ f) Pessoal operário;
 
 g) Pessoal auxiliar.
 
-###### Art. 42.º - 1 - Sem prejuízo do disposto no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, relativamente às carreiras de pessoal de informática, o provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+Art. 42.º - 1 - Sem prejuízo do disposto no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, relativamente às carreiras de pessoal de informática, o provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -622,41 +656,41 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No lugar do quadro em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 43.º As formas de recrutamento e o regime de provimento do pessoal dirigente são os previstos no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+Art. 43.º As formas de recrutamento e o regime de provimento do pessoal dirigente são os previstos no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
-###### Art. 44.º Os lugares de chefe de repartição serão providos de entre:
+Art. 44.º Os lugares de chefe de repartição serão providos de entre:
 
 a) Chefes de secção com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
 b) Indivíduos habilitados com curso superior adequado e reconhecida competência para o exercício do cargo.
 
-###### Art. 45.º O provimento, do pessoal técnico superior e técnico, bem como o acesso nas respectivas carreiras, far-se-á nos termos da lei geral.
+Art. 45.º O provimento, do pessoal técnico superior e técnico, bem como o acesso nas respectivas carreiras, far-se-á nos termos da lei geral.
 
-###### Art. 46.º O provimento do pessoal de informática, bem como a progressão nas respectivas carreiras, far-se-á nos termos do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+Art. 46.º O provimento do pessoal de informática, bem como a progressão nas respectivas carreiras, far-se-á nos termos do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
 
-###### Art. 47.º - 1 - Os lugares de técnico de serviço social principal e de técnico de serviço social de 1.ª classe serão providos de entre, respectivamente, os técnicos de serviço social de 1.ª classe e de 2.ª classe com um mínimo de três anos de bom e efectivo serviço na categoria.
+Art. 47.º - 1 - Os lugares de técnico de serviço social principal e de técnico de serviço social de 1.ª classe serão providos de entre, respectivamente, os técnicos de serviço social de 1.ª classe e de 2.ª classe com um mínimo de três anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de técnico de serviço social de 2.ª classe serão providos de entre indivíduos habilitados com o curso superior de serviço social ou equiparado.
 
-###### Art. 48.º - 1 - O ingresso e acesso nas carreiras de pessoal administrativo serão regulados pelo disposto na lei geral.
+Art. 48.º - 1 - O ingresso e acesso nas carreiras de pessoal administrativo serão regulados pelo disposto na lei geral.
 
 2 - Os chefes de secção serão recrutados nos termos da lei geral.
 
 3 - Os lugares da carreira de oficial administrativo serão providos nos termos da lei geral.
 
-###### Art. 49.º Os lugares de tesoureiro serão providos nos termos do disposto na lei geral.
+Art. 49.º Os lugares de tesoureiro serão providos nos termos do disposto na lei geral.
 
-###### Art. 50.º O tesoureiro tem direito a um abono para falhas no montante que a lei estabelecer.
+Art. 50.º O tesoureiro tem direito a um abono para falhas no montante que a lei estabelecer.
 
-###### Art. 51.º O provimento do pessoal operário, bem como a progressão nas respectivas carreiras, far-se-á de acordo com o disposto na lei geral.
+Art. 51.º O provimento do pessoal operário, bem como a progressão nas respectivas carreiras, far-se-á de acordo com o disposto na lei geral.
 
-###### Art. 52.º - 1 - O recrutamento do encarregado de refeitório far-se-á de entre cozinheiros principais com três anos de serviço na categoria e classificação de serviço não inferior a Bom ou, na sua falta, de entre cozinheiros de 1.ª classe com, pelo menos, seis anos de serviço na categoria e classificação de serviço não inferior a Bom.
+Art. 52.º - 1 - O recrutamento do encarregado de refeitório far-se-á de entre cozinheiros principais com três anos de serviço na categoria e classificação de serviço não inferior a Bom ou, na sua falta, de entre cozinheiros de 1.ª classe com, pelo menos, seis anos de serviço na categoria e classificação de serviço não inferior a Bom.
 
 2 - O recrutamento do encarregado de armazém far-se-á de entre fiéis de armazém principais com, pelo menos, três anos de bom e efectivo serviço na categoria ou, na sua falta, de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e experiência adequada ao exercício do cargo.
 
 3 - O recrutamento do governante de residência far-se-á de entre empregados de andar/quarto de 1.ª classe com, pelo menos, cinco anos de bom e efectivo serviço na categoria e mediante provas de selecção adequadas.
 
-###### Art. 53.º - 1 - As carreiras de cozinheiro, fiel de armazém, empregado de bar/snack, auxiliar de alimentação, operador de caixa, empregado de andar/quarto, auxiliar de armazém e auxiliar de manutenção são carreiras horizontais, cujo recrutamento obedecerá às seguintes regras:
+Art. 53.º - 1 - As carreiras de cozinheiro, fiel de armazém, empregado de bar/snack, auxiliar de alimentação, operador de caixa, empregado de andar/quarto, auxiliar de armazém e auxiliar de manutenção são carreiras horizontais, cujo recrutamento obedecerá às seguintes regras:
 
 a) O ingresso na categoria mais baixa da respectiva carreira fica condicionado à prestação de provas e far-se-á de entre indivíduos habilitados com a escolaridade obrigatória e experiência adequada;
 
@@ -666,11 +700,11 @@ c) Os cozinheiros principais serão recrutados de entre cozinheiros de 1.ª clas
 
 d) Para ingresso na carreira de cozinheiro terão preferência os auxiliares de alimentação que possuam os requisitos consignados na alínea a).
 
-###### Art. 54.º Os lugares de pessoal auxiliar serão providos nos termos da lei geral.
+Art. 54.º Os lugares de pessoal auxiliar serão providos nos termos da lei geral.
 
 ### CAPÍTULO V — Disposições transitórias e finais
 
-###### Art. 55.º - 1 - A integração do pessoal dos SSUTL abrangido pelo disposto no artigo 40.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, em lugares do quadro anexo ao presente decreto regulamentar far-se-á por diploma individual de provimento, de acordo com as seguintes regras:
+Art. 55.º - 1 - A integração do pessoal dos SSUTL abrangido pelo disposto no artigo 40.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, em lugares do quadro anexo ao presente decreto regulamentar far-se-á por diploma individual de provimento, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário já possui;
 
@@ -690,30 +724,30 @@ c) Para categoria que resulte da aplicação da tutela de equivalências constan
 
 7 - As regras de transição para o regime referido no número anterior serão fixadas em decreto regulamentar dos Ministros das Finanças e da Educação e Cultura.
 
-###### Art. 56.º O vice-presidente em exercício, que à data da sua nomeação exercia funções nestes serviços com a categoria de assessor jurídico, será integrado em lugar do quadro, de acordo com a tabela de equivalências anexa.
+Art. 56.º O vice-presidente em exercício, que à data da sua nomeação exercia funções nestes serviços com a categoria de assessor jurídico, será integrado em lugar do quadro, de acordo com a tabela de equivalências anexa.
 
-###### Art. 57.º Transita para um dos lugares de chefe de repartição do quadro anexo ao presente diploma o actual chefe de secção, na situação de requisitado, que tem vindo a desempenhar efectivamente essas funções.
+Art. 57.º Transita para um dos lugares de chefe de repartição do quadro anexo ao presente diploma o actual chefe de secção, na situação de requisitado, que tem vindo a desempenhar efectivamente essas funções.
 
 ## ANEXO I — Quadro de pessoal a que se refere o n.º 1 do artigo 40.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/01600/02600269.pdf))](https://files.diariodarepublica.pt/1s/1987/01/01600/02600269.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/01600/02600269.pdf)
 
 ## ANEXO II — Tabela de equivalências a que se refere a alínea c) do n.º 1 do artigo 55.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/01600/02600269.pdf))](https://files.diariodarepublica.pt/1s/1987/01/01600/02600269.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/01600/02600269.pdf)
 
-###### Art. 58.º O pessoal não vinculado à função pública que, encontrando-se a prestar serviço nos SSUTL à data da entrada em vigor do presente decreto regulamentar, opte pela integração no quadro anexo a este diploma será remunerado com os vencimentos e beneficiará das outras regalias correspondentes às dos funcionários públicos integrados em carreiras com conteúdos funcionais equivalentes, não podendo ter tratamento mais favorável do que o aplicável aos restantes trabalhadores.
+Art. 58.º O pessoal não vinculado à função pública que, encontrando-se a prestar serviço nos SSUTL à data da entrada em vigor do presente decreto regulamentar, opte pela integração no quadro anexo a este diploma será remunerado com os vencimentos e beneficiará das outras regalias correspondentes às dos funcionários públicos integrados em carreiras com conteúdos funcionais equivalentes, não podendo ter tratamento mais favorável do que o aplicável aos restantes trabalhadores.
 
-###### Art. 59.º Os encargos resultantes da aplicação do presente diploma serão suportados por verbas a inscrever no orçamento dos SSUTL.
+Art. 59.º Os encargos resultantes da aplicação do presente diploma serão suportados por verbas a inscrever no orçamento dos SSUTL.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 18 de Dezembro de 1986.**
+Promulgado em 18 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Dezembro de 1986.**
+Referendado em 29 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

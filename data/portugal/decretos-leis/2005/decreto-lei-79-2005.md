@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/79/2005/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2005-547070
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 368f6f274b38a25a2212ee97ee60ae27aa3ca078c94ebedc7acb2e104e16b5f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1b5ed2541462d36fa117cdec339d36ca6a8d077c072e339d7060cb03e087b7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,155 +67,230 @@ reuse:
 subjects:
 - Agência de Inovação
 - Agência Europeia de Segurança Marítima
-- ICEP
-- Ministério das Finanças e da Administração Pública
-- Ministério da Defesa Nacional
-- Instituto do Emprego e Formação Profissional
-- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
-- Ministério da Administração Interna
+- Agência Portuguesa de Segurança Alimentar
+- Centro de Estudos e Formação Autárquica
+- Comissão de Coordenação e Desenvolvimento Regional
 - Comissão de Planeamento de Emergência do Transporte Marítimo
 - Comissão de Segurança
-- Ministro da Saúde
+- Comissão do Mercado Social de Emprego
 - Comissão para a Igualdade no Trabalho e no Emprego
 - Companhia das Lezírias
 - Competência Própria
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Ministério da Educação
 - Conselho Nacional do Consumo
 - Conselho Nacional para a Reabilitação e Integração das Pessoas com Deficiência
-- Instituto Portuário e dos Transportes Marítimos
-- Instituto António Sérgio do Sector Cooperativo
+- Conselho Nacional para a Segurança Higiene e Saúde no Trabalho
 - Criação de Serviços
 - Delegação de Competências
 - Direção Geral das Autarquias Locais
 - Direcção Geral de Protecção das Culturas
+- Direcção Geral do Emprego e das Relações de Trabalho
 - EDIA
 - Escola Náutica Infante Dom Henrique
-- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
 - Estrutura de Apoio Técnico
 - Estrutura de Missão para a Extensão da Plataforma Continental
-- INA
-- Lisboa
-- Ministério das Obras Públicas Transportes e Comunicações
-- Comissão de Coordenação e Desenvolvimento Regional
-- Ministro da Justiça
-- Ministro de Estado e dos Negócios Estrangeiros
-- Secretário de Estado da Administração Interna
-- Secretário de Estado do Turismo
-- Ministério da Cultura
-- Ministro do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
-- Secretário de Estado Adjunto da Agricultura e das Pescas
-- Secretário de Estado Adjunto da Indústria e da Inovação
-- Secretário de Estado Adjunto e da Educação
-- Secretário de Estado da Cultura
-- Secretário de Estado da Defesa Nacional e dos Assuntos do MAR
-- Secretário de Estado da Educação
-- Secretário de Estado do Comércio Serviços e Defesa do Consumidor
-- Secretário de Estado do Desenvolvimento Rural e das Florestas
-- Secretário de Estado do Tesouro e das Finanças
-- Secretário de Estado dos Assuntos Fiscais
-- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
-- Subsecretário de Estado da Administração Interna
-- Ministério da Justiça
-- Ministério do Trabalho e da Solidariedade Social
-- Ministro da Cultura
-- Ministro para os Assuntos Parlamentares
-- Primeiro-ministro
-- Secretário de Estado Adjunto das Obras Públicas e das Comunicações
-- Secretário de Estado Adjunto e da Reabilitação
-- Secretário de Estado Adjunto e do Orçamento
-- Secretário de Estado da Juventude e do Desporto
-- Secretário de Estado da Saúde
-- Secretário de Estado do Emprego e Formação Profissional
-- Secretário de Estado dos Transportes
-- Inspecção Geral da Administração do Território
-- Instituto de Gestão do Fundo Social Europeu
-- Ineti
-- Instituto Nacional da Propriedade Industrial
-- Instituto de Genética Médica Dr Jacinto de Magalhães
-- Instituto do Consumidor
+- Governo XVII
+- IAPMEI
+- ICEP
 - Imoppi
+- INA
+- Inatel
+- Ineti
+- Inspecção Geral da Administração do Território
+- Inspecção Geral do Trabalho
+- Instituto António Sérgio do Sector Cooperativo
+- Instituto de Genética Médica Dr Jacinto de Magalhães
+- Instituto de Gestão do Fundo Social Europeu
+- Instituto de Investigação Científica e Tropical
+- Instituto do Consumidor
+- Instituto do Emprego e Formação Profissional
+- Instituto Geográfico Português
 - Instituto Hidrográfico
+- Instituto Nacional da Propriedade Industrial
 - Instituto Nacional de Investigação Agrária e das Pescas
+- Instituto Nacional de Saúde Dr Ricardo Jorge
+- Instituto para a Gestão das Lojas do Cidadão
 - Instituto para a Qualidade na Formação
 - Instituto para a Segurança Higiene e Saúde no Trabalho
+- Instituto Portuário e dos Transportes Marítimos
 - Intervenção Operacional da Sociedade da Informação
 - Intervenção Operacional Pós-Conhecimento
-- Ministério da Economia e da Inovação
-- Laboratório Nacional de Investigação Veterinária
 - Laboratório Nacional de Engenharia Civil
-- Santa Casa da Misericórdia
-- Secretário de Estado Adjunto e da Administração Interna
-- Instituto de Investigação Científica e Tropical
-- Secretário de Estado da Ciência Tecnologia e Ensino Superior
-- Secretário de Estado da Justiça
-- Governo XVII
-- Secretário de Estado Adjunto e da Saúde
-- Comissão do Mercado Social de Emprego
-- Conselho Nacional para a Segurança Higiene e Saúde no Trabalho
-- Direcção Geral do Emprego e das Relações de Trabalho
-- Inspecção Geral do Trabalho
-- Secretário de Estado do Ambiente
-- Secretário de Estado das Comunidades Portuguesas
-- Secretário de Estado para os Assuntos Europeus
+- Laboratório Nacional de Investigação Veterinária
+- Lisboa
+- Ministério da Administração Interna
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Ministério da Ciência Tecnologia e Ensino Superior
+- Ministério da Cultura
+- Ministério da Defesa Nacional
+- Ministério da Economia e da Inovação
+- Ministério da Educação
+- Ministério da Justiça
+- Ministério da Saúde
+- Ministério das Finanças e da Administração Pública
+- Ministério das Obras Públicas Transportes e Comunicações
+- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
+- Ministério do Trabalho e da Solidariedade Social
+- Ministério dos Negócios Estrangeiros
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
 - Ministro da Ciência Tecnologia e Ensino Superior
+- Ministro da Cultura
+- Ministro da Defesa Nacional
 - Ministro da Economia e da Inovação
-- Centro de Estudos e Formação Autárquica
-- Instituto para a Gestão das Lojas do Cidadão
-- Unidade de Coordenação da Modernização Administrativa
+- Ministro da Educação
+- Ministro da Justiça
+- Ministro da Presidência
+- Ministro da Saúde
+- Ministro das Obras Públicas Transportes e Comunicações
+- Ministro de Estado e da Administração Interna
+- Ministro de Estado e das Finanças
+- Ministro de Estado e dos Negócios Estrangeiros
+- Ministro do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
+- Ministro do Trabalho e da Solidariedade Social
+- Ministro para os Assuntos Parlamentares
 - Observatório do Emprego e Formação Profissional
 - Orgânica
 - Parpública
 - Piddac
-- UMIC
-- Secretário de Estado Adjunto do Primeiro-ministro
-- Secretário de Estado da Presidência do Conselho de Ministros
-- Instituto Nacional de Saúde Dr Ricardo Jorge
-- Ministro de Estado e da Administração Interna
-- Ministro de Estado e das Finanças
 - Presidência do Conselho de Ministros
-- Ministério da Saúde
-- Ministro da Defesa Nacional
-- Ministro da Educação
-- Ministro da Presidência
+- Primeiro-ministro
+- Santa Casa da Misericórdia
+- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
+- Secretário de Estado Adjunto da Agricultura e das Pescas
+- Secretário de Estado Adjunto da Indústria e da Inovação
+- Secretário de Estado Adjunto das Obras Públicas e das Comunicações
+- Secretário de Estado Adjunto do Primeiro-ministro
+- Secretário de Estado Adjunto e da Administração Interna
 - Secretário de Estado Adjunto e da Administração Local
+- Secretário de Estado Adjunto e da Educação
 - Secretário de Estado Adjunto e da Justiça
-- Ministério dos Negócios Estrangeiros
+- Secretário de Estado Adjunto e da Reabilitação
+- Secretário de Estado Adjunto e da Saúde
+- Secretário de Estado Adjunto e do Orçamento
+- Secretário de Estado da Administração Interna
 - Secretário de Estado da Administração Pública
-- Ministério da Ciência Tecnologia e Ensino Superior
+- Secretário de Estado da Ciência Tecnologia e Ensino Superior
+- Secretário de Estado da Cultura
+- Secretário de Estado da Defesa Nacional e dos Assuntos do MAR
+- Secretário de Estado da Educação
+- Secretário de Estado da Justiça
+- Secretário de Estado da Juventude e do Desporto
+- Secretário de Estado da Presidência do Conselho de Ministros
+- Secretário de Estado da Saúde
 - Secretário de Estado da Segurança Social
+- Secretário de Estado das Comunidades Portuguesas
+- Secretário de Estado do Ambiente
+- Secretário de Estado do Comércio Serviços e Defesa do Consumidor
 - Secretário de Estado do Desenvolvimento Regional
+- Secretário de Estado do Desenvolvimento Rural e das Florestas
+- Secretário de Estado do Emprego e Formação Profissional
+- Secretário de Estado do Tesouro e das Finanças
+- Secretário de Estado do Turismo
+- Secretário de Estado dos Assuntos Fiscais
+- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
+- Secretário de Estado dos Transportes
+- Secretário de Estado para os Assuntos Europeus
 - Serviço de Apoio Funcional ao Registo Internacional de Navios da Madeira
-- Ministro das Obras Públicas Transportes e Comunicações
-- IAPMEI
-- Instituto Geográfico Português
+- Subsecretário de Estado da Administração Interna
 - Substituição de Funções
-- Inatel
 - Transferência de Competências
 - Transferência de Serviços
+- UMIC
+- Unidade de Coordenação da Modernização Administrativa
 - Unidade de Coordenação do Plano Tecnológico
-- Ministro do Trabalho e da Solidariedade Social
-- Agência Portuguesa de Segurança Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:642010:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:539447:por
+  label: "Alterado o art. 10º e revogado o nº 6 do art. 17º da Lei Orgânica do XVII Governo Constitucional, aprovada pelo\
+    \ presente diploma, Determinada a transferência para a Presidência do Conselho de Ministros, das verbas afectas à Unidade\
+    \ de Coordenação do Plano Tecnológico e ao Gabinete do respectivo Coordenador, criada no Ministério da Economia e da Inovação\
+    \ pelo presente Decreto Lei, e cuja estrutura orgânica foi aprovada pela Res 92/2005 de 21-Abr, pelo DEC LEI.11/2006.19.01.2006.PCM,\
+    \ DR.IS-A [14] de 19.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2006-539447
+  date: '2006-01-19'
+- type: amended_by
+  target: pt:dre:541195:por
+  label: "Alterado o n.º 3 do art. 3.º da Lei Orgânica do XVII Governo Constitucional, aprovada pelo presente diploma, pelo\
+    \ DEC LEI.16/2006.26.01.2006.PCM, DR.IS-A [19] de 26.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2006-541195
+  date: '2006-01-26'
+- type: amended_by
+  target: pt:dre:539233:por
+  label: "Alterado o art. 3º da lei orgânica do XVII Governo Constitucional aprovada pelo presente diploma, com a redacção\
+    \ conferida no Dec Lei 16/2006 de 26-Jan, pelo DEC LEI.135/2006.26.07.2006.PCM, DR.IS [143] de 26.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-2006-539233
+  date: '2006-07-26'
+- type: amended_by
+  target: pt:dre:545644:por
+  label: "Alterados os arts. 7º, 8º, 9º, 10º e 17º (os dois últimos na redacção do Dec Lei 11/2006 de 19-Jan), 11º, 12º, 13º,\
+    \ 14º, 15º, 16º, 18º, 19º, 20º, 21º, 22º, 23º, 24º, 25º e 27º, revogados o nº 7 do art. 13º, os nºs 6 a 8 do art. 16º,\
+    \ os nºs 5 a 10º do art. 17º, o nº 4 do art. 18º, os nºs 4 a 8 do art. 19º, os nºs 3 a 7 do art. 20º o nº 4 do art. 23º\
+    \ e o art. 26º todos da Lei Orgânica do XVII Governo Constitucional, aprovada pelo presente diploma, pelo DEC LEI.201/2006.27.10.2006.PCM,\
+    \ DR.IS [208] de 27.10.2006, que o republica em anexo\0o\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-2006-545644
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:639315:por
+  label: "Alterados os arts. 2º, 3º, 6º, 10º, 11º, 12º, 13º e 14º e revogados os nºs 9 a 11 do art. 10º, todos da Lei Orgânica\
+    \ do XVII Governo Constitucional aprovada no presente diploma, com as alterações que lhe foram introduzidas pelos Dec\
+    \ Lei 11/2006 de 19-Jan, 16/2006 de 26-Jan, 135/2006 de 26-Jul e 201/2006 de 27-Out, pelo DEC LEI.240/2007.21.06.2007.PCM,\
+    \ DR.IS [118] de 21.06.2007, que o republicou na sua actual redacção. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-2007-639315
+  date: '2007-06-21'
+- type: amended_by
+  target: pt:dre:247024:por
+  label: "Alterados os art.s 1º, 3º (o último na redacção dos Dec Lei 16/2006, de 26-Jan, Dec Lei 135/2006, de 26-Jul, e Dec\
+    \ Lei 240/2007, de 21-Jun), 7.º e 9.º (ambos na redacção do Dec Lei 201/2006, de 27-Out) pelo DEC LEI.44/2008.11.03.2008.PCM,\
+    \ DR.IS [50] de 11.03.2008, com republicação.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2008-247024
+  date: '2008-03-11'
+- type: amended_by
+  target: pt:dre:603879:por
+  label: "Alterado o art 3º (na redacção dos Dec Lei 16/2006, de 26-Jan, 135/2006, de 26-Jul, 240/2007, de 21-Jun e 44/2008\
+    \ de 11-Mar), da Orgânica do XVII Governo Constitucional, aprovada pelo presente diploma, e republicado com a redacção\
+    \ actual, pelo DEC LEI.92/2009.16.04.2009.PCM, DR.IS [74] de 16.04.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2009-603879
+  date: '2009-04-16'
+- type: amended_by
+  target: pt:dre:642010:por
+  label: "Extinto, nos termos dos arts. 45.º e 48.º, sendo objecto de fusão, o Conselho Nacional de planeamento Civil de Emergência,\
+    \ reorganizado pelo Dec Lei 153/91 de 23-Abr, na redacção do presente diploma e integradas as suas atribuições na Autoridade\
+    \ Nacional de Protecção Civil, no âmbito do Ministério da Administração Interna, pelo DEC LEI.126-A/2011.29.12.2011.PCM,\
+    \ DR.IS [249-Supl] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-a-2011-642010
+  date: '2011-12-29'
+- type: amends
+  target: pt:numero:lei:2/2004
+  label: "Determina que relativamente à preparação, elaboração, acompanhamento e avaliação da execução do PIDDAC, bem como\
+    \ à elaboração da proposta das Grandes Opções do Plano, compete ao Ministro de Estado e das Finanças o exercício de poderes\
+    \ de direcção sobre o Departamento de Prospectiva e Planeamento, (integrado no Ministério do Ambiente, do Ordenamento\
+    \ do Território e do Desenvolvimento Regional), criado pelo Dec Lei 4/95, de 17-Jan, DR.IS-A [14], sendo para efeitos\
+    \ do provimento nos cargos de direcção superior (nos termos dos n.ºs 1 e 3 do artigo 19.º da Lei n.º 2/2004, de 15 de\
+    \ Janeiro), é igualmente considerado membro do Governo competente, o Ministro de Estado e das Finanças e o Ministro do\
+    \ Ambiente, do Ordenamento do Território e do Desenvolvimento Regional \0\0"
+  source: null
+  date: '1995-01-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
 article_structure:
   article_count: 30
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:22Z'
   warnings: []
   errors: []
 ---
@@ -342,7 +417,7 @@ b) Pelo Secretário de Estado da Juventude e do Desporto.
 
 ###### Artigo 6.º — Substituição do Primeiro-Ministro
 
-**O Primeiro-Ministro, salvo sua indicação em contrário, será substituído na sua ausência ou impedimento pelo Ministro de Estado e da Administração Interna ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.**
+O Primeiro-Ministro, salvo sua indicação em contrário, será substituído na sua ausência ou impedimento pelo Ministro de Estado e da Administração Interna ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.
 
 ###### Artigo 7.º — Competência dos ministros
 
@@ -644,12 +719,12 @@ A presente lei produz efeitos a partir de 12 de Março de 2005, considerando-se 
 
 Visto e aprovado em Conselho de Ministros de 31 de Março de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Diogo Pinto de Freitas do Amaral - Luís Manuel Moreira de Campos e Cunha - Manuel Pedro Cunha da Silva Pereira - Luís Filipe Marques Amado - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.
 
-**Promulgado em 9 de Abril de 2005.**
+Promulgado em 9 de Abril de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Abril de 2005.**
+Referendado em 11 de Abril de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/06/130a00/14221426.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/70/1996/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1996-437780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5605ebf5fed4b15296a584d1a1831f9891ca90d62b79f9d4906df8c763063e92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13ae381afe2eec49e7ca77129ed2d67a7f5d7c465415ba65233acf290c841bd4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,31 @@ reuse:
 subjects:
 - CASA da Juventude
 - Comissão de Fiscalização
-- Gestão Financeira
+- Comissão Executiva
 - Conselho de Administração
 - Delegado Regional
+- Gestão Financeira
 - Instituto Português da Juventude
 - Orgânica
 - Política de Juventude
 - Serviço Regional
-- Comissão Executiva
 relationships:
 - type: amended_by
   target: pt:dre:521250:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PRORROGADO ATE 31/AGO/1996 O PRAZO ESTABELECIDO PELO PRESENTE DIPLOMA, PELO DC 74/SEAE/SEJ/96 DE 23-JUL DO SEJ-PCM\
+    \ E SEAE-ME DR.IIS [199] DE 28/AGO/1996\028/AGO/1996"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-08-28'
+- type: amended_by
+  target: pt:dre:276467:por
+  label: "Integrado o Instituto Português da Juventude no Ministério da Juventude e do Desporto, pelo DEC LEI.267-A/2000.2000.10.20.PCM\
+    \ DR.IS-A [243]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-a-2000-276467
+  date: '2000-10-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/333/1993/09/29/p/dre
   label: null
@@ -89,16 +101,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/30/1993/09/29/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/30/1993/09/29/p/dre
+- type: cites
+  target: pt:dre:651686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651703:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521250:por
+  label: "Revogado a partir de 01.06.2007 pelo DEC LEI.168/2007.03.05.2007.PCM, DR.IS [85] de 03.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/168-2007-521250
+  date: '2007-05-03'
 article_structure:
   article_count: 26
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:54Z'
   warnings: []
   errors: []
 ---
@@ -459,12 +484,12 @@ São revogados o [Decreto-Lei n.º 333/93](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 18 de Abril de 1996. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 16 de Maio de 1996.**
+Promulgado em 16 de Maio de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Maio de 1996.**
+Referendado em 20 de Maio de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

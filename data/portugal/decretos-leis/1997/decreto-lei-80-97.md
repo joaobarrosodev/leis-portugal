@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/80/1997/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1997-457029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f51720d442d6f9bc0803e49c273f562fe4501e9b069d21aa8ab4bc2e779321ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 074c36254f216094e6908c976e92c323cc04227d099e6ea2a653e270ad635635
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Inspecção Geral das Actividades Culturais
 - Orgânica
 - Pessoal de Inspecção
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
@@ -99,16 +99,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/6/1994/01/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/6/1994/01/12/p/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645305:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636413:por
+  label: "Revogado,a partir de 01.08.2007 e nos termos do art. 4º do Dec lei 215/2006 de 27-Out, o presente diploma, com excepção\
+    \ do disposto no art. 18º, pelo DR.81/2007.30.07.2007.MC, DR.IS [145] de 30.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/81-2007-636413
+  date: '2007-07-30'
 article_structure:
   article_count: 49
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:03Z'
   warnings: []
   errors: []
 ---
@@ -291,7 +333,9 @@ f) Instaurar ou instruir processos de transgressão e contra-ordenação que dec
 
 À Direcção de Serviços de Inspecção compete dirigir e coordenar a actividade da Divisão de Inspecção de Espectáculos e Direito de Autor, da Divisão de Inspecção de Gestão e do Serviço Regional do Porto, na área de inspecção.
 
-###### Artigo 10.º — Divisão de Inspecção de Espectáculos e Direito de Autor
+###### Artigo 10.º
+
+##### Divisão de Inspecção de Espectáculos e Direito de Autor
 
 À Direcção de Serviços de Inspecção, através da Divisão de Inspecção de Espectáculos e Direito de Autor, compete:
 
@@ -309,7 +353,9 @@ f) Assegurar a troca de experiências e de informação com todas as autoridades
 
 g) Efectuar estudos e elaborar relatórios que visem o aperfeiçoamento constante do sistema de inspecção e de controlo das áreas dos espectáculos e dos direitos de autor e conexos.
 
-###### Artigo 11.º — Divisão de Inspecção de Gestão
+###### Artigo 11.º
+
+##### Divisão de Inspecção de Gestão
 
 1 - À Direcção de Serviços de Inspecção, através da Divisão de Inspecção de Gestão, compete:
 
@@ -331,7 +377,9 @@ d) Propor superiormente as medidas correctivas decorrentes da sua actividade.
 
 À Direcção de Serviços de Licenciamento compete dirigir e coordenar a actividade da Divisão de Recintos de Espectáculos e da Divisão de Registo e Controlo de Actividades Culturais.
 
-###### Artigo 13.º — Divisão de Recintos de Espectáculos
+###### Artigo 13.º
+
+##### Divisão de Recintos de Espectáculos
 
 À Direcção de Serviços de Licenciamento, através da Divisão de Recintos de Espectáculos, compete:
 
@@ -345,7 +393,9 @@ d) Apoiar tecnicamente, sempre que necessário, as delegações regionais da cul
 
 e) Estudar e emitir parecer sobre os processos respeitantes à afectação a fins diferentes da exploração teatral ou cinematográfica de recintos licenciados como teatros, cineteatros e cinemas.
 
-###### Artigo 14.º — Divisão de Registo e Controlo de Actividades Culturais
+###### Artigo 14.º
+
+##### Divisão de Registo e Controlo de Actividades Culturais
 
 À Direcção de Serviços de Licenciamento, através da Divisão de Registo e Controlo de Actividades Culturais, compete:
 
@@ -363,7 +413,9 @@ f) Emitir certificados e divulgar as classificações e autenticações referida
 
 g) Emitir certificados de classificação dos videogramas que sejam reprodução de obra cinematográfica já classificada pela União Europeia.
 
-###### Artigo 15.º — Divisão de Estudos, Planeamento e Informação
+###### Artigo 15.º
+
+##### Divisão de Estudos, Planeamento e Informação
 
 A Divisão de Estudos, Planeamento e Informação depende directamente do inspector-geral, competindo-lhe:
 
@@ -745,28 +797,28 @@ O presente diploma entra em vigor no dia imediato ao da respectiva publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Manuel Maria Ferreira Carrilho - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 14 de Março de 1997.**
+Promulgado em 14 de Março de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Março de 1997.**
+Referendado em 19 de Março de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA I
 
 Quadro de pessoal dirigente da IGAC, a que se refere o artigo 21.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/082a00/15831592.pdf))](https://files.diariodarepublica.pt/1s/1997/04/082a00/15831592.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/082a00/15831592.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/082a00/15831592.pdf))](https://files.diariodarepublica.pt/1s/1997/04/082a00/15831592.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/082a00/15831592.pdf)
 
 MAPA III
 
 Transição do pessoal das carreiras de inspector de espectáculos e direitos de autor e de consultor jurídico, a que se referem os artigos 40.º e 41.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/082a00/15831592.pdf))](https://files.diariodarepublica.pt/1s/1997/04/082a00/15831592.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/082a00/15831592.pdf)

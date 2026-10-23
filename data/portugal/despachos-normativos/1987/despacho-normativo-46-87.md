@@ -48,36 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/46-1987-421219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T07:37:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2de507f28360418f4f290f0e541ca3d2878415011d763aa298aecffa6120482f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa5994bb336565bb9b151e3ad52bdc89e6b297c8454583a108448636c395c8d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:37:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CEE
+- Contingentação
+- Importação
+- Lacticínios
+- Queijo
+relationships:
+- type: cites
+  target: pt:dre:214005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546419:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:37:53Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +109,7 @@ No âmbito da organização nacional do mercado do leite e produtos lácteos e d
 
 3 - Os contingentes a que se referem os números anteriores são distribuídos, consoante as origens, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/10100/18471847.pdf))](https://files.diariodarepublica.pt/1s/1987/05/10100/18471847.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/10100/18471847.pdf)
 
 4 - O montante da caução referida no n.º 8.º da [Portaria n.º 63-J/86](https://diariodarepublica.pt/dr/detalhe/portaria/63-j-1986-245106), de 1 de Março, é fixado em 25$00/kg de peso líquido.
 

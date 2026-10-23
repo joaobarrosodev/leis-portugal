@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/602-1974-474103
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:31:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f4e9fb0f4e3bff9ea16ebcbdd6b63d9a00c619ba964eb3f1d006c6c25ab85c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fccf9b69e25c5ec8ea61f823259cbbcaa20153de5392bf32c5e55a454fd732a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:31:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,34 @@ relationships:
   target: pt:dre:431216:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:412598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:431216:por
+  label: Revogado, a partir de 24.06.76, o n.º 1 do presente diploma, pelo(a) Portaria n.º 381/76 - Diário da República n.º
+    146/1976, Série I de 1976-06-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/381-1976-431216
+  date: '1976-06-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:31:21Z'
   warnings: []
   errors: []
 ---

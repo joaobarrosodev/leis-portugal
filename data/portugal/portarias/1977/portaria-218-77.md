@@ -46,36 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/218-1977-139047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T05:17:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b49bf8d7c012332b0d245cb7f8a230711909e390a4cae8e0998849fb008ca1bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b78c86aee312c587f9ad5fa3841a9f9e5b4752ade2003579ae02bb7f85fd67e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:17:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Escola de Enfermagem
+- Évora
+- Quadro de Pessoal
+- Rectificação de Numero de Diploma
+relationships:
+- type: cites
+  target: pt:dre:431440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691817:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:252263:por
+  label: Retificado, no referente, à numeração o sumário e o texto do presente diploma,o qual passa a constituir a Port 219/77,
+    pelo(a) Declaração - Diário da República n.º 111/1977, Série I de 1977-05-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-252263
+  date: '1977-05-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:17:04Z'
   warnings: []
   errors: []
 ---
@@ -90,6 +116,6 @@ Nos termos do artigo 1.º, n.º 2, do [Decreto-Lei n.º 59/76](https://diariodar
 
 Manda o Governo da República Portuguesa, pelos Ministros da Administração Interna, das Finanças e dos Assuntos Sociais, que os quadros de pessoal dirigente e não dirigente da Escola de Enfermagem de S. João de Deus, em Évora, aprovados pelas Portarias n.os [583/72](https://diariodarepublica.pt/dr/detalhe/portaria/583-1972-691817), e [588/72](https://diariodarepublica.pt/dr/detalhe/portaria/588-1972-691807), ambas de 7 de Outubro, sejam alterados da forma seguinte, com produção de efeitos a partir de 1 de Janeiro de 1976:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/04/09400/09200920.pdf))](https://files.diariodarepublica.pt/1s/1977/04/09400/09200920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/04/09400/09200920.pdf)
 
 Ministérios da Administração Interna, das Finanças e dos Assuntos Sociais, 26 de Janeiro de 1977. - O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, Henrique Medina Carreira. - Pelo Ministro dos Assuntos Sociais, Adalberto Paulo da Fonseca Mendo, Secretário de Estado da Saúde.

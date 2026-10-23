@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/54/2011/06/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/54-2011-670013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T05:10:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83889baeb7fc4404b0263e2e5a50572ccf6d46726d41cff037a40247d688c45b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b7e7a360e39e2843c525e5ccba116673a3c6f2a60dac5d24a7595c7da224e3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:10:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,13 +73,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:10:38Z'
   warnings: []
   errors: []
 ---
@@ -88,12 +88,12 @@ validation:
 
 de 15 de Junho
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea n), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea n), da Constituição, o seguinte:
 
 São nomeados vogais do Conselho Superior da Magistratura o Professor Dr. José Manuel Moreira Cardoso da Costa e o Dr. José Alexandre Teixeira de Sousa Machado.
 
-**Assinado em 8 de Junho de 2011.**
+Assinado em 8 de Junho de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.

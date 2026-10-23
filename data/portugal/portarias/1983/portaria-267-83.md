@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/03/05600/08530864.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/267-1983-309933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T07:36:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbbeb984778cb1ce4a51401de872f7888a0989b5b1ffe60e682e47a8b4faf159
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce99a43134150b52d640850cd5f81e304666273d631202b645f71a6e3ec654ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:36:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Contribuições e Impostos
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Repartição de Finanças
 relationships:
 - type: amended_by
   target: pt:dre:454872:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:326736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394552:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600089:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:454872:por
+  label: "Revogada pela PORT.834/83.11.08.1983.MFP, DR.IS [184] de 11.08.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/834-1983-454872
+  date: '1983-08-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:36:07Z'
   warnings: []
   errors: []
 ---
@@ -473,10 +518,10 @@ MAPA I
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/05600/08530864.pdf))](https://files.diariodarepublica.pt/1s/1983/03/05600/08530864.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/05600/08530864.pdf)
 
 MAPA II
 
 Alterações ao quadro geral de pessoal da Direcção-Geral das Contribuições e Impostos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/05600/08530864.pdf))](https://files.diariodarepublica.pt/1s/1983/03/05600/08530864.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/05600/08530864.pdf)

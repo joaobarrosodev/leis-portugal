@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/69-1976-506658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T05:10:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9864e616a2c4ab4cb938508cdeffb27cf5dc62b3c0b6a0f2047185d8fad48708
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e313dd883894c5276e8d8710784d348ff9da1b6810af5fcb2e2994069c21f42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:10:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Adjudicação de Obras Públicas
+- Adjudicação por Concurso Público
+- Aquisição de Bens e Serviços
+- Definição de Competências
+- Obras Públicas
+- Pessoal Dirigente
+relationships:
+- type: cites
+  target: pt:dre:328653:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:10:41Z'
   warnings: []
   errors: []
 ---
@@ -101,18 +111,18 @@ Manda o Governo da República Portuguesa, pelo Ministro do Equipamento Social, o
 
 1.º Os artigos 9.º, 10.º e 11.º da [Portaria n.º 7702](https://diariodarepublica.pt/dr/detalhe/portaria/7702-1933-328653), de 24 de Outubro de 1933, passam a ter a seguinte redacção:
 
-###### Art. 9.º Os concursos para a adjudicação de obras ou fornecimentos de materiais com orçamento superior a 50000000$00 terão lugar nas sedes dos serviços centrais, perante uma comissão composta de, pelo menos, três membros, designados pelo dono da obra e dos quais um servirá de presidente.
+Art. 9.º Os concursos para a adjudicação de obras ou fornecimentos de materiais com orçamento superior a 50000000$00 terão lugar nas sedes dos serviços centrais, perante uma comissão composta de, pelo menos, três membros, designados pelo dono da obra e dos quais um servirá de presidente.
 
-###### Art. 10.º Os concursos para a adjudicação de obras ou fornecimentos de materiais com orçamento não superior a 50000000$00, mas excedendo 25000000$00, terão lugar nas sedes dos serviços centrais ou nas suas delegações regionais, consoante a natureza e complexidade da obra ou fornecimento, perante uma comissão composta de, pelo menos, três membros, designados pelo dono da obra e dos quais um servirá de presidente.
+Art. 10.º Os concursos para a adjudicação de obras ou fornecimentos de materiais com orçamento não superior a 50000000$00, mas excedendo 25000000$00, terão lugar nas sedes dos serviços centrais ou nas suas delegações regionais, consoante a natureza e complexidade da obra ou fornecimento, perante uma comissão composta de, pelo menos, três membros, designados pelo dono da obra e dos quais um servirá de presidente.
 
 § único. Compete ao director do serviço definir, conforme for mais conveniente, os locais onde se encontra patente o processo do concurso e o local do acto público do concurso, devendo este, de preferência, realizar-se na delegação onde estiver situada a obra.
 
-###### Art. 11.º Os concursos para a adjudicação de obras ou fornecimentos de materiais com orçamento não superior a 25000000$00 terão lugar nas sedes dos serviços centrais ou nas suas delegações regionais ou locais, consoante a natureza e complexidade da obra ou fornecimento, perante uma comissão composta de, pelo menos, três membros, designados pelo dono da obra e dos quais um servirá de presidente.
+Art. 11.º Os concursos para a adjudicação de obras ou fornecimentos de materiais com orçamento não superior a 25000000$00 terão lugar nas sedes dos serviços centrais ou nas suas delegações regionais ou locais, consoante a natureza e complexidade da obra ou fornecimento, perante uma comissão composta de, pelo menos, três membros, designados pelo dono da obra e dos quais um servirá de presidente.
 
 § único. Compete ao director do serviço definir, conforme for mais conveniente, os locais onde se encontra patente o processo do concurso e o local do acto público do concurso, devendo este, de preferência, realizar-se na delegação onde estiver a obra.
 
-###### Art. 2.º Os ajustamentos que se tornem necessários à conveniente aplicação das disposições do artigo 1.º serão resolvidos mediante despacho ministerial.
+Art. 2.º Os ajustamentos que se tornem necessários à conveniente aplicação das disposições do artigo 1.º serão resolvidos mediante despacho ministerial.
 
-###### Art. 3.º A presente portaria entra imediatamente em vigor.
+Art. 3.º A presente portaria entra imediatamente em vigor.
 
 Ministério do Equipamento Social, 27 de Janeiro de 1976. - O Ministro do Equipamento Social, Álvaro Augusto Veiga de Oliveira.

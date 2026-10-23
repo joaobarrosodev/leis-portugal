@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/192a00/54615467.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/327/1999/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1999-434421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:10:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 318250b9f319bb17c4b32ce2b54f66018d36d514c8da161cae037ef3522f3434
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ccfa917878f8d3e6c7cb95a56796ae8673181fccf417a63c44618a0585cdfc85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa de Apoio ao Desenvolvimento
 - Conselho Geral
+- Cooperação Económica
 - Estatuto
 - Extinção de Serviços
 - Fundo para a Cooperação Económica
 - Instituto Público
-- Cooperação Económica
-- Agência Portuguesa de Apoio ao Desenvolvimento
 relationships:
 - type: amended_by
   target: pt:dre:175158:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:420787:por
+  label: "Alterados os arts. 1º, 5º, 8º, 15º e 22º dos Estatutos pelo DEC LEI.20/2000.2000.03.01.MNE DR.IS-A [51]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2000-420787
+  date: '2000-03-01'
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Sujeitada a superintendência conjunta, cabendo a tutela funcional e patrimonial ao Ministro dos Negócios Estrangeiros\
+    \ e das Comunidades Portuguesas e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação\
+    \ exercida em articulação com a Ministra de Estado e das Finanças, pelo Dec Lei 120/2002 de 03-Mai, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
+- type: amended_by
+  target: pt:dre:175158:por
+  label: "Fundida com o Instituto da Cooperação Portuguesa a Agência Portuguesa de Cooperação ao Desenvolvimento, criada pelo\
+    \ presente diploma, revogando-o, pelo DEC LEI.5/2003.2003.01.13.MNE DR.IS-A [10]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-2003-175158
+  date: '2003-01-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/1991/05/04/p/dre
   label: null
@@ -86,16 +104,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616630:por
+  label: null
+  source: null
 article_structure:
   article_count: 34
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:10:27Z'
   warnings: []
   errors: []
 ---
@@ -142,15 +168,15 @@ A APAD inicia a sua actividade na data da tomada de posse dos membros do seu pri
 
 Visto e aprovado em Conselho de Ministros de 29 de Abril de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Carlos dos Santos - Fausto de Sousa Correia - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos.
 
-**Promulgado em 26 de Julho de 1999.**
+Promulgado em 26 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Julho de 1999.**
+Referendado em 28 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Estatutos da Agência Portuguesa de Apoio ao Desenvolvimento
 

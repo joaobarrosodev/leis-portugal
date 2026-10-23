@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31
   number: '147'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 31-(2) a 31-(39)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14702/0000200039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/64-a/2023/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3f947dab89c2bf9a4bf5afa48e5002fa69b9f7c5f62c093ef033db420656ce7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03e3ea37fc72d18a3a95ffb998755521177d69bc02cf424c1e762f2b9890b47e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,46 +66,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ação Social
 - Administração do Ensino
 - Atleta de ALTA Competição
-- Financiamento
-- Medicina
 - Bolseiro
 - Cidadão Estrangeiro
 - Comissão Nacional de Acesso ao Ensino Superior
 - Concurso
 - Concurso de Acesso
 - Concurso de Ingresso
-- Timor Leste
-- Plano de Estudos
 - Desporto de ALTA Competição
+- Direção Geral do Ensino Superior
 - Ensino Oficial
 - Ensino Particular
-- Prova de Ingresso
+- Ensino Superior
 - Ensino Superior Politécnico
+- Estabelecimento de Ensino
 - Estudante
-- Ação Social
-- Palop
+- Financiamento
+- Forças Armadas
+- Internet
 - Licenciatura
+- Matrícula
+- Medicina
 - Mestrado
-- Direção Geral do Ensino Superior
+- Militar
 - Missão no Estrangeiro
 - Numerus Clausus
-- Forças Armadas
+- Palop
+- Plano de Estudos
 - Política de Educação
-- Internet
-- Estabelecimento de Ensino
+- Prova de Ingresso
 - Prova Geral de Acesso
 - Publicação Electrónica
 - Reclamação
 - Regulamento
-- Ensino Superior
-- Militar
 - Sistema de Ensino
 - Sistema Educativo
+- Timor Leste
 - Universidade Aberta
 - Universidade Católica Portuguêsa
-- Matrícula
 relationships:
 - type: amended_by
   target: pt:dre:1051282294:por
@@ -151,16 +151,136 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/77-a/2021/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/77-a/2021/08/27/p/dre
+- type: cites
+  target: pt:dre:124392062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131016733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170384602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75319452:por
+  label: null
+  source: null
 article_structure:
-  article_count: 141
+  article_count: 118
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:32Z'
   warnings: []
   errors: []
 ---
@@ -523,7 +643,9 @@ Os artigos 1.º a 5.º, 10.º, 14.º, 15.º, 16.º, 19.º, 20.º, 20.º-A, 21.º
 
 O presente decreto-lei regula o regime geral de acesso e ingresso no ensino superior.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Este regime aplica-se ao acesso e ingresso nas instituições de ensino superior públicas e privadas para a frequência de ciclos de estudos de licenciatura e integrados de mestrado, adiante designados por cursos.
 
@@ -531,19 +653,27 @@ O presente decreto-lei regula o regime geral de acesso e ingresso no ensino supe
 
 3 - O acesso e ingresso na Universidade Católica Portuguesa é realizado nos termos do [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), de 17 de abril, na sua redação atual, sem prejuízo dos deveres de comunicação à Direção-Geral do Ensino Superior (DGES) das vagas e condições de ingresso fixadas para cada ciclo de estudos.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O ingresso em cada par instituição/ciclo de estudos está sujeito a limitações quantitativas, decorrentes do número de vagas fixado nos termos do presente decreto-lei.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 As vagas para os cursos das instituições de ensino superior públicas e privadas são fixadas pelos órgãos legal e estatutariamente competentes de cada instituição nos termos do artigo 64.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, na sua redação atual, e comunicadas à DGES, no prazo fixado nos termos do artigo 40.º
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 Excetuam-se do disposto no artigo anterior as vagas para as instituições de ensino superior militar e policial, que são fixadas por despacho dos membros do Governo responsáveis pelas áreas da defesa nacional e da administração interna, respetivamente
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -553,7 +683,9 @@ Excetuam-se do disposto no artigo anterior as vagas para as instituições de en
 
 4 - Em caso de cessação antecipada do mandato, o novo representante inicia novo mandato.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Os encargos com o funcionamento da CNAES são satisfeitos pelas correspondentes verbas inscritas no orçamento da DGES e pelas receitas decorrentes da sua atividade.
 
@@ -561,11 +693,15 @@ Excetuam-se do disposto no artigo anterior as vagas para as instituições de en
 
 3 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 A DGES afeta à CNAES os meios humanos e materiais necessários ao desempenho das suas funções.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -573,11 +709,15 @@ A DGES afeta à CNAES os meios humanos e materiais necessários ao desempenho da
 
 3 - As instituições de ensino superior militar e policial podem realizar provas de seleção para avaliação das aptidões físicas, funcionais ou vocacionais.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 São utilizadas como provas de ingresso os exames nacionais do ensino secundário.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -591,7 +731,9 @@ São utilizadas como provas de ingresso os exames nacionais do ensino secundári
 
 6 - [...]
 
-###### Artigo 20.º-A — [...]
+Artigo 20.º-A
+
+[...]
 
 1 - [...]
 
@@ -625,7 +767,9 @@ d) [...]
 
 9 - [...]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -645,7 +789,9 @@ g) [...]
 
 2 - (Revogado.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -671,7 +817,9 @@ c) [...]
 
 9 - (Anterior n.º 7.)
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - A candidatura aos cursos ministrados em instituições de ensino superior público é feita através de um concurso nacional organizado pela DGES com a colaboração dos serviços do Ministério da Educação e dos serviços regionais de educação das Regiões Autónomas dos Açores e da Madeira.
 
@@ -689,15 +837,21 @@ c) Os cursos ministrados no regime de ensino à distância.
 
 5 - A apresentação da candidatura ao concurso nacional é realizada através da Internet.
 
-###### Artigo 29.º — Candidatura aos cursos ministrados em estabelecimentos de ensino superior privados
+Artigo 29.º
+
+Candidatura aos cursos ministrados em estabelecimentos de ensino superior privados
 
 A candidatura aos cursos ministrados em estabelecimentos de ensino superior privados é feita através de concursos institucionais organizados por cada estabelecimento de ensino.
 
-###### Artigo 30.º — Regulamento dos concursos institucionais para ingresso nos cursos ministrados em estabelecimentos de ensino superior privados
+Artigo 30.º
+
+Regulamento dos concursos institucionais para ingresso nos cursos ministrados em estabelecimentos de ensino superior privados
 
 Compete ao membro do Governo responsável pela área do ensino superior, ouvida a CNAES, aprovar, por portaria, o regulamento geral dos concursos institucionais para ingresso nos cursos ministrados em estabelecimentos de ensino superior privados, fixando e regulando, nomeadamente, os aspetos a que se refere o artigo 28.º
 
-###### Artigo 41.º — Candidatos emigrantes, familiares que com eles residam e lusodescendentes
+Artigo 41.º
+
+Candidatos emigrantes, familiares que com eles residam e lusodescendentes
 
 Para os candidatos emigrantes, familiares que com eles residam e lusodescendentes, a habilitação a que se refere a alínea a) do artigo 7.º pode, em termos a regular por portaria, ser substituída por um curso terminal do ensino secundário do país estrangeiro de residência aí obtido e que aí constitua habilitação de acesso ao ensino superior.»
 
@@ -711,7 +865,9 @@ Os artigos 2.º e 8.º do [Decreto-Lei n.º 40/2007](https://diariodarepublica.p
 
 O presente decreto-lei aplica-se a todas as unidades orgânicas de instituições de ensino superior públicas que ministram o curso de Medicina, adiante genericamente designadas faculdades.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 As vagas fixadas e não ocupadas são transferidas para a 1.ª fase do concurso nacional de acesso e ingresso no mesmo ciclo de estudos.»
 
@@ -729,7 +885,9 @@ Os artigos 2.º, 8.º, 11.º, 13.º-A, 15.º e 25.º do [Decreto-Lei n.º 113/20
 
 3 - No caso dos cursos ministrados no regime de ensino à distância aplica-se o disposto no [Decreto-Lei n.º 133/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2019-124392062), de 3 de setembro, que aprova o regime jurídico do ensino superior ministrado à distância.
 
-###### Artigo 8.º — Condições específicas
+Artigo 8.º
+
+Condições específicas
 
 1 - A realização da candidatura a um ciclo de estudos de licenciatura de uma instituição de ensino politécnico, incluindo de unidades orgânicas de ensino politécnico integradas em universidades, bem como a ciclos de estudo em associação entre instituições de ensino politécnico e de ensino universitário, está sujeita às condições fixadas pelo órgão legal e estatutariamente competente da instituição.
 
@@ -745,7 +903,9 @@ Os artigos 2.º, 8.º, 11.º, 13.º-A, 15.º e 25.º do [Decreto-Lei n.º 113/20
 
 7 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A realização da candidatura a um ciclo de estudos de licenciatura de uma instituição de ensino politécnico, incluindo de unidades orgânicas de ensino politécnico integradas em universidades, bem como a ciclos de estudo em associação entre instituições de ensino politécnico e de ensino universitário, está sujeita às condições fixadas pelo órgão legal e estatutariamente competente da instituição.
 
@@ -765,7 +925,9 @@ Os artigos 2.º, 8.º, 11.º, 13.º-A, 15.º e 25.º do [Decreto-Lei n.º 113/20
 
 9 - [...]
 
-###### Artigo 13.º-A — [...]
+Artigo 13.º-A
+
+[...]
 
 1 - [...]
 
@@ -783,11 +945,15 @@ f) [...]
 
 2 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 Os critérios de seriação de cada concurso especial são fixados pelo órgão legal e estatutariamente competente da instituição, podendo este fixar prioridades na ocupação de vagas a candidatos com deficiência, emigrantes e familiares que com eles residam e lusodescendentes, estudantes beneficiários de ação social escolar e candidatos oriundos da área de influência regional da instituição de ensino superior.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - O número máximo de vagas para admissão de estudantes ao abrigo dos concursos especiais para acesso e ingresso no ensino superior regulados pelo presente diploma e dos concursos de mudança de par instituição/curso para o 1.º ano curricular é fixado por despacho do membro do Governo responsável pela área do ensino superior.
 
@@ -867,15 +1033,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de julho de 2023. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - Elvira Maria Correia Fortunato.
 
-**Promulgado em 31 de julho de 2023.**
+Promulgado em 31 de julho de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 31 de julho de 2023.**
+Referendado em 31 de julho de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se referem os n.os 1 e 2 do artigo 32.º)
 
@@ -1658,3 +1824,5 @@ d) Os n.os 4 e 6 do artigo 5.º do Regulamento dos Regimes de Mudança de Curso,
 1 - Sem prejuízo do disposto no número seguinte, o presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 2 - O disposto no presente diploma aplica-se aos concursos especiais para acesso e ingresso no ensino superior no ano letivo de 2014-2015 e nos anos letivos seguintes, com exceção do artigo 8.º que só se aplica aos concursos especiais para acesso e ingresso no ensino superior realizados após o ano letivo de 2015-2016.
+
+116735924

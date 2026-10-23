@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/31/2002/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/31-2002-288636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:27:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1deb12743b772cf9ad00b761fe3b724d0a02384483845d43f719c7e9d4a2fd3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f1b1a57724e09654a02499259e2e9b887b82c2365f0f7ec534ba91901993b90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:27:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Ministério da Administração Interna
-- Serviço Nacional de Protecção Civil
-- Sistema Retributivo
 - Carreira Profissional
 - GNR
+- Ministério da Administração Interna
 - Pessoal Auxiliar
 - Pessoal Civil
 - Política Salarial
+- PSP
 - Remuneração
 - Serviço Nacional de Bombeiros
+- Serviço Nacional de Protecção Civil
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a categoria de assistente operacional, nos termos do art. 7º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP) e revogado, a partir da mesma data, pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -110,16 +118,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/879/1992/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/879/1992/09/10/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616779:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:27:46Z'
   warnings: []
   errors: []
 ---
@@ -172,36 +208,36 @@ Em tudo o que não estiver expressamente regulado no presente diploma aplica-se 
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - Alexandre António Cantigas Rosa.
 
-**Promulgado em 22 de Março de 2002.**
+Promulgado em 22 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Março de 2002.**
+Referendado em 28 de Março de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA ANEXO
 
 Quadro único de pessoal do Ministério da Administração Interna
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)
 
 Quadro de pessoal com funções não policiais da Polícia de Segurança Pública
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)
 
 Serviço Nacional de Bombeiros
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)
 
 Serviço Nacional de Protecção Civil
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)
 
 Guarda Nacional Republicana
 
 Pessoal civil
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)](https://files.diariodarepublica.pt/1s/2002/04/094b00/39984000.pdf)

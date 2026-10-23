@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/06/11900/0001300014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85/2025/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2025-922231851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68c5b2fdd4e1d37f1f458d9ca6d42774df3112bb836dc1ba87af8a1d01bb97e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a93d8e90abd42a2682c05679973438232bc20edfa49071ad1cfbf4ea1c82b67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Consumo de Energia
-- Energia Renovável
-- Indústria
-- Energia
-- Prazo
 - Eficiência Energética
-- Transporte
-- Plano de Recuperação e Resiliência
+- Energia
+- Energia Renovável
 - Hidrogénio
+- Indústria
+- Plano de Recuperação e Resiliência
+- Prazo
+- Transporte
 relationships:
 - type: cites
   target: celex:32018L2001
@@ -88,16 +88,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/84/2022/12/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/84/2022/12/09/p/dre
+- type: cites
+  target: pt:dre:204502328:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:84/2022
+  label: Revoga, nos termos do n.º 2 do artigo 3.º e com os efeitos previstos no artigo 4.º do presente diploma, os artigos
+    5.º e 8.º do Decreto-Lei n.º 84/2022, de 9 de dezembro, Diário da República n.º 236/2022, Série I
+  source: null
+  date: '2022-12-09'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:20Z'
   warnings: []
   errors: []
 ---
@@ -126,13 +136,13 @@ O presente decreto-lei define as metas de integração de energia proveniente de
 
 ###### Artigo 2.º — Metas de integração de energia proveniente de fontes renováveis na indústria e nos transportes
 
-As metas e os prazos aplicáveis na ordem jurídica nacional para a integração de energia proveniente de fontes renováveis na indústria e no consumo final de energia no setor dos transportes, designadamente através da utilização de hidrogénio de base renovável, são os definidos, respetivamente, no n.º 1 do artigo 22.º-A e nos n.<sup>os</sup>1 e 2 do artigo 25.º da [Diretiva (UE) 2018/2001](https://data.europa.eu/eli/dir/2018/2001/oj?locale=pt), na redação que lhe foi dada pela [Diretiva (UE) 2023/2413](https://data.europa.eu/eli/dir/2023/2413/oj?locale=pt), do Parlamento Europeu e do Conselho, de 18 de outubro de 2023.
+As metas e os prazos aplicáveis na ordem jurídica nacional para a integração de energia proveniente de fontes renováveis na indústria e no consumo final de energia no setor dos transportes, designadamente através da utilização de hidrogénio de base renovável, são os definidos, respetivamente, no n.º 1 do artigo 22.º-A e nos n.os1 e 2 do artigo 25.º da [Diretiva (UE) 2018/2001](https://data.europa.eu/eli/dir/2018/2001/oj?locale=pt), na redação que lhe foi dada pela [Diretiva (UE) 2023/2413](https://data.europa.eu/eli/dir/2023/2413/oj?locale=pt), do Parlamento Europeu e do Conselho, de 18 de outubro de 2023.
 
 ###### Artigo 3.º — Norma revogatória
 
 1 - São revogados os artigos 5.º e 8.º do [Decreto-Lei n.º 84/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), de 9 de dezembro, na sua redação atual.
 
-2 - As remissões feitas para os artigos revogados no número anterior têm-se por referentes, com as devidas adaptações, ao n.º 1 do artigo 22.º-A e aos n.<sup>os</sup>1 e 2 do artigo 25.º da [Diretiva (UE) 2018/2001](https://data.europa.eu/eli/dir/2018/2001/oj?locale=pt), na sua redação atual, aplicáveis na ordem jurídica nacional por efeito do presente diploma.
+2 - As remissões feitas para os artigos revogados no número anterior têm-se por referentes, com as devidas adaptações, ao n.º 1 do artigo 22.º-A e aos n.os1 e 2 do artigo 25.º da [Diretiva (UE) 2018/2001](https://data.europa.eu/eli/dir/2018/2001/oj?locale=pt), na sua redação atual, aplicáveis na ordem jurídica nacional por efeito do presente diploma.
 
 ###### Artigo 4.º — Entrada em vigor
 
@@ -140,12 +150,14 @@ O presente decreto-lei produz efeitos seis meses após a data da sua publicaçã
 
 Visto e aprovado em Conselho de Ministros de 23 de junho de 2025. - Luís Montenegro - Manuel Castro Almeida - Maria da Graça Carvalho.
 
-**Promulgado em 23 de junho de 2025.**
+Promulgado em 23 de junho de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de junho de 2025.**
+Referendado em 23 de junho de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119210781

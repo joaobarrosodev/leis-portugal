@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/9/2011/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2011-280895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93bcd7d43e3f54d49a2537cbba90668df02a465280ef5310d1d889ebe42c07df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74c64d7b7eb2e678ca42cb25034ef6b7c0369813d9228c34254d44f2942c65fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Embarcação
-- Transporte Marítimo
-- Marinha Mercante
-- Multa
-- Instituto Portuário e dos Transportes Marítimos
 - Contra-ordenação
 - Definição de Competências
+- Embarcação
+- Embarcação de Pesca
 - Equipamento Marítimo
 - Especificação Técnica
 - Fiscalização
+- Instituto Portuário e dos Transportes Marítimos
+- Marinha Mercante
+- Multa
+- Navegação Marítima
 - Regime Jurídico
-- Embarcação de Pesca
 - Regulamento dos Meios de Salvação
 - Salvaguarda da VIDA Humana no MAR
 - Segurança da Navegação
@@ -86,8 +86,8 @@ subjects:
 - Taxa
 - Transporte de Carga
 - Transporte de Passageiros
+- Transporte Marítimo
 - Vistoria
-- Navegação Marítima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/d
@@ -129,16 +129,100 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/51/2005/02/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/51/2005/02/25/p/dre
+- type: cites
+  target: pt:dre:159691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671024:por
+  label: null
+  source: null
 article_structure:
-  article_count: 219
-  section_count: 35
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 186
+  section_count: 37
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:07Z'
   warnings: []
   errors: []
 ---
@@ -223,7 +307,9 @@ t) ...
 
 2 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - As embarcações que arvorem bandeira portuguesa devem possuir a bordo os meios de salvação previstos:
 
@@ -241,7 +327,9 @@ e) No Regulamento para as restantes embarcações.
 
 3 - Os meios de salvação instalados a bordo das embarcações, tal como previsto na parte i do Regulamento, devem cumprir os requisitos previstos no [Decreto-Lei n.º 167/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1999-323077), de 18 de Maio, alterado pelo [Decreto-Lei n.º 24/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2004-608907), de 23 de Janeiro, ou, em alternativa, satisfazer os requisitos previstos na parte ii do Regulamento.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -249,7 +337,9 @@ e) No Regulamento para as restantes embarcações.
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -259,13 +349,17 @@ e) No Regulamento para as restantes embarcações.
 
 4 - O IPTM, I. P., publica, no respectivo sítio da Internet, as referências às normas aplicáveis e às especificações técnicas a ter em conta na aprovação dos meios de salvação.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Compete ao IPTM, I. P., emitir os certificados de aprovação tipo e individual dos meios de salvação, cujo modelo é aprovado por despacho do conselho directivo do IPTM, I. P., e publicado no sítio da Internet daquele instituto.
 
 2 - ...
 
-###### Artigo 12.º — Manutenção, inspecções e exercícios periódicos
+Artigo 12.º
+
+Manutenção, inspecções e exercícios periódicos
 
 1 - Todas as embarcações de passageiros, assim como outras embarcações equipadas com meios de propulsão e de arqueação bruta igual ou superior a 100, devem possuir a bordo instruções claras, precisas e ilustradas, contendo relativamente a cada equipamento:
 
@@ -297,11 +391,15 @@ b) A participação num treino adicional para familiarização dos novos tripula
 
 7 - (Anterior n.º 5.)
 
-###### Artigo 15.º — Aprovação de taxas
+Artigo 15.º
+
+Aprovação de taxas
 
 Pelos serviços prestados relativos às vistorias e à aprovação dos meios de salvação são devidas taxas, cujo montante é fixado por portaria do membro do Governo responsável pelo sector dos transportes.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -309,15 +407,21 @@ Pelos serviços prestados relativos às vistorias e à aprovação dos meios de 
 
 3 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 É aplicada coima de montante mínimo de (euro) 500 e máximo de (euro) 3500 aos comandantes, mestres e arrais que efectuem viagens com embarcações que não possuam a bordo embarcações de sobrevivência ou de socorro, em violação do disposto no artigo 3.º do presente decreto-lei.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 É aplicada coima de montante mínimo de (euro) 250 e máximo de (euro) 2500 aos comandantes, mestres e arrais das embarcações que efectuem viagens com embarcações que não possuam bóias de salvação, coletes de salvação, sinais visuais de socorro e restantes meios de salvação, em violação do disposto no artigo 3.º do presente decreto-lei.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - É aplicada coima de montante mínimo de (euro) 125 e máximo de (euro) 1250 aos comandantes, mestres e arrais das embarcações que efectuem viagens:
 
@@ -351,11 +455,13 @@ a) Tenham equipamento que possibilite a recuperação de uma pessoa caída à á
 
 b) Permitam que a operação de recuperação da pessoa possa ser observada da ponte de comando.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Os navios de carga devem possuir bóias de salvação de acordo com a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
 
 2 - Nos navios de comprimento igual ou superior a 24 m, duas das bóias equipadas com sinal luminoso de auto-ignição devem possuir sinal fumígeno de auto-activação, satisfazendo os requisitos previstos no artigo 74.º
 
@@ -387,11 +493,13 @@ c) Jangadas cuja colocação na água se processe por meios equivalentes, aprova
 
 11 - Os fatos de imersão hipotérmicos e as ajudas térmicas, referidos nos números anteriores, devem satisfazer, respectivamente, os requisitos definidos nos artigos 80.º e 82.º
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
 
 2 - ...
 
@@ -401,11 +509,13 @@ c) Jangadas cuja colocação na água se processe por meios equivalentes, aprova
 
 5 - Os navios de passageiros devem possuir fatos hipotérmicos em número igual ao número de pessoas previstas para tripular a embarcação de socorro.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
 
 2 - Os navios de carga devem possuir um colete de salvação para adulto para cada pessoa a bordo.
 
@@ -413,7 +523,9 @@ c) Jangadas cuja colocação na água se processe por meios equivalentes, aprova
 
 4 - Os navios de carga devem possuir fatos hipotérmicos em número igual ao número de pessoas previstas para tripular a embarcação de socorro.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -421,15 +533,19 @@ c) Jangadas cuja colocação na água se processe por meios equivalentes, aprova
 
 3 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
 
 2 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -439,19 +555,27 @@ c) Jangadas cuja colocação na água se processe por meios equivalentes, aprova
 
 4 - (Revogado.)
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 Os rebocadores do alto devem possuir 12 sinais de pára-quedas.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 As embarcações auxiliares do alto devem satisfazer os requisitos fixados para os navios de carga registados na cabotagem.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 As embarcações auxiliares costeiras devem satisfazer os requisitos fixados para os navios de carga registados na mesma área de navegação.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - As embarcações auxiliares locais devem possuir jangadas, que podem ser pneumáticas de modelo simplificado com equipamento mínimo ou abertas reversíveis, para todas as pessoas embarcadas.
 
@@ -459,11 +583,13 @@ As embarcações auxiliares costeiras devem satisfazer os requisitos fixados par
 
 3 - ...
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - As embarcações auxiliares locais devem possuir bóias de salvação, de acordo com a tabela seguinte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
 
 2 - (Revogado.)
 
@@ -473,11 +599,15 @@ As embarcações auxiliares costeiras devem satisfazer os requisitos fixados par
 
 5 - As embarcações auxiliares locais que não estejam permanentemente atracadas ou amarradas devem possuir coletes de salvação para todas as pessoas embarcadas.
 
-###### Artigo 44.º — Requisitos obrigatórios
+Artigo 44.º
+
+Requisitos obrigatórios
 
 As embarcações marítimo-turísticas abrangidas pelo presente subcapítulo 1 devem satisfazer os requisitos fixados para os navios de carga do longo curso.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
@@ -493,11 +623,13 @@ a) ...
 
 b) Tratando-se de embarcações existentes, podem possuir jangadas SOLAS, com pacote de emergência A ou B, com capacidade para acomodar o número total de pessoas embarcadas e, se operarem a menos de 3 milhas da costa, as jangadas podem ser pneumáticas de modelo simplificado com equipamento mínimo ou abertas reversíveis, podendo ainda ser substituídas por balsas rígidas.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
 
 2 - ...
 
@@ -513,21 +645,27 @@ b) Tratando-se de embarcações existentes, podem possuir jangadas SOLAS, com pa
 
 8 - Os fatos de imersão hipotérmicos e as ajudas térmicas referidos nos números anteriores devem satisfazer, respectivamente, os requisitos definidos nos artigos 80.º e 82.º
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
 
 2 - ...
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
@@ -559,7 +697,9 @@ c) Jangadas cuja colocação na água se processe por meios equivalentes aprovad
 
 12 - As ajudas térmicas referidas nos números anteriores devem satisfazer os requisitos definidos no artigo 82.º
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - ...
 
@@ -571,11 +711,13 @@ a) Jangada ou jangadas SOLAS; ou
 
 b) Jangadas pneumáticas de modelo simplificado com capacidade para acomodar o número total das pessoas embarcadas.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
 
 2 - ...
 
@@ -583,15 +725,19 @@ b) Jangadas pneumáticas de modelo simplificado com capacidade para acomodar o n
 
 4 - Os coletes de salvação devem estar acondicionados de forma acessível para permitir uma imediata utilização, devendo a respectiva localização estar assinalada utilizando sinais internacionalmente aprovados.
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - As embarcações de pesca costeira devem possuir sinais visuais de socorro em função do comprimento (L), de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
 
 2 - Os sinais de socorro devem ser colocados de modo a poderem ser utilizados rapidamente e a sua localização deve estar claramente assinalada.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - ...
 
@@ -603,7 +749,9 @@ b) Jangadas pneumáticas de modelo simplificado com capacidade para acomodar o n
 
 5 - Os coletes de salvação podem ser substituídos por auxiliares de flutuação individuais adequados, com as características e nas condições previstas em portaria dos membros do Governo responsáveis pelas áreas da defesa nacional, das pescas, dos transportes e do trabalho.
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - ...
 
@@ -629,7 +777,9 @@ Instruções aos passageiros
 
 2 - As instruções previstas no número anterior devem estar afixadas em locais visíveis da embarcação ou disponíveis em bolsas junto de cada assento de passageiros e, sempre que possível, ser transmitidas por intermédio de métodos áudio-visuais antes ou imediatamente após o início da viagem.
 
-###### Artigo 9.º-B — Rol de chamada e instruções em caso de emergência
+Artigo 9.º-B
+
+Rol de chamada e instruções em caso de emergência
 
 1 - Todas as embarcações de passageiros, bem como as equipadas com meios de propulsão e de arqueação bruta igual ou superior a 100, devem providenciar instruções claras a serem seguidas em casos de emergência para todas as pessoas embarcadas que não sejam passageiros.
 
@@ -687,15 +837,15 @@ c) O anexo n.º 2 do [Decreto-Lei n.º 191/98](https://diariodarepublica.pt/dr/d
 
 Visto e aprovado em Conselho de Ministros de 23 de Setembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Marcos da Cunha e Lorena Perestrello de Vasconcellos - António Manuel Soares Serrano - António Augusto da Ascenção Mendonça - Pedro Manuel Dias de Jesus Marques.
 
-**Promulgado em 16 de Dezembro de 2010.**
+Promulgado em 16 de Dezembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de Dezembro de 2010.**
+Referendado em 20 de Dezembro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 191/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1998-485046), de 10 de Julho
 
@@ -987,7 +1137,7 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 ## ANEXO N.º 1 — Regulamento dos Meios de Salvação
 
-# PARTE I — Meios de salvação para as embarcações
+## PARTE I — Meios de salvação para as embarcações
 
 ### CAPÍTULO 1 — Embarcações de comércio
 
@@ -1033,7 +1183,7 @@ b) Permitam que a operação de recuperação da pessoa possa ser observada da p
 
 1 - Os navios de carga devem possuir bóias de salvação de acordo com a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
 
 2 - Nos navios de comprimento igual ou superior a 24 m, duas das bóias equipadas com sinal luminoso de auto-ignição devem possuir sinal fumígeno de auto-activação, satisfazendo os requisitos previstos no artigo 74.º
 
@@ -1113,7 +1263,7 @@ c) Possuam capacidade de manobra suficiente que permita aproximarem-se da pessoa
 
 1 - Os navios de passageiros devem possuir bóias de salvação de acordo com a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
 
 2 - Os navios de passageiros devem possuir coletes de salvação para adulto para 100 % das pessoas embarcadas e coletes de salvação para criança para 10 % das pessoas embarcadas.
 
@@ -1171,7 +1321,7 @@ c) Possuam capacidade de manobra suficiente que permita aproximarem-se da pessoa
 
 1 - Os navios de carga devem possuir bóias de salvação de acordo com a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
 
 2 - Os navios de carga devem possuir um colete de salvação para adulto para cada pessoa a bordo.
 
@@ -1203,7 +1353,7 @@ Navios de passageiros registados no tráfego local
 
 1 - Os navios de passageiros devem possuir bóias de salvação de acordo com a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
 
 2 - Os navios de passageiros devem possuir coletes de salvação para adulto para 100 % das pessoas embarcadas e coletes de salvação para criança para 10 % das pessoas embarcadas.
 
@@ -1353,7 +1503,7 @@ Embarcações registadas na área de navegação local
 
 1 - As embarcações auxiliares locais devem possuir bóias de salvação, de acordo com a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
 
 2 - (Revogado.)
 
@@ -1437,7 +1587,7 @@ c) Possuam capacidade de manobra suficiente, de modo a poderem aproximar-se da p
 
 1 - As embarcações marítimo-turísticas costeiras devem possuir bóias de salvação de acordo com a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
 
 2 - As embarcações marítimo-turísticas costeiras devem possuir coletes de salvação para adulto para 100 % das pessoas embarcadas e coletes de salvação para criança para 10 % das pessoas embarcadas.
 
@@ -1479,7 +1629,7 @@ Embarcações registadas na área de navegação local
 
 1 - As embarcações marítimo-turísticas locais devem possuir bóias de salvação de acordo com a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
 
 2 - As embarcações marítimo-turísticas locais devem possuir coletes de salvação para adulto para 100 % das pessoas embarcadas e coletes de salvação para criança para 10 % das pessoas embarcadas.
 
@@ -1495,7 +1645,7 @@ Embarcações registadas na área de navegação local imobilizadas
 
 As embarcações marítimo-turísticas locais que se encontrem permanentemente atracadas ou imobilizadas devem possuir bóias de salvação de acordo com a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
 
 ### CAPÍTULO 5 — Embarcações de pesca
 
@@ -1589,7 +1739,7 @@ Nas embarcações de pesca costeira, as jangadas devem estar colocadas a bordo c
 
 1 - As embarcações de pesca costeira devem possuir bóias de salvação em função do comprimento (L) de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
 
 2 - As embarcações de pesca costeira devem possuir coletes de salvação para 100 % das pessoas embarcadas.
 
@@ -1601,7 +1751,7 @@ Nas embarcações de pesca costeira, as jangadas devem estar colocadas a bordo c
 
 1 - As embarcações de pesca costeira devem possuir sinais visuais de socorro em função do comprimento (L), de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
 
 2 - Os sinais de socorro devem ser colocados de modo a poderem ser utilizados rapidamente e a sua localização deve estar claramente assinalada.
 
@@ -1633,7 +1783,7 @@ As embarcações de pesca local novas e de convés fechado que se afastem mais d
 
 As embarcações de pesca local devem possuir dois fachos de mão e, se operarem para além das 3 milhas da costa, devem também possuir dois sinais de pára-quedas.
 
-# PARTE II — Requisitos dos meios de salvação
+## PARTE II — Requisitos dos meios de salvação
 
 #### SECÇÃO I — Meios de salvação individuais
 
@@ -1939,7 +2089,7 @@ a) Ao número de pessoas embarcadas, com peso médio de 75 kg, usando coletes de
 
 b) Ao número de lugares que se obtêm de acordo com a disposição dos assentos, conforme o previsto na fig. 1;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0032100361.pdf)
 
 O tracejado pode ser sobreposto como está indicado, desde que sejam instalados apoios para os pés e haja suficiente espaço para as pernas e a separação vertical entre os assentos superiores e inferiores seja, num mínimo, de 350 mm.
 

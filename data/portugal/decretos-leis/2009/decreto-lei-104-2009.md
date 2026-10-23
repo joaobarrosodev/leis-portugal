@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/104/2009/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2009-608247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94f38099eb13de37c6105c1c80ad0a57590dc83fbaae3ad3f7c6b1e0098493bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c5c6a6f01b0056899fc89c1502186854966fbcc63003098065ba627b181e569
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,66 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Imóveis
-- Financiamento
 - Conselho Geral
 - Criação de Serviços
 - Definição de Competências
+- Desenvolvimento Económico
+- Financiamento
 - Fundo Imobiliário Especial de Apoio às Empresas
+- IAPMEI
 - Investimento Público
 - Página na Internet
-- Desenvolvimento Económico
-- Presidente
 - Pequenas e Médias Empresas
 - PME
+- Presidente
 - Revisor Oficial de Contas
-- IAPMEI
 - Sociedade Gestora de Empresas
 - Sociedade Gestora de Fundos de Investimentos Imobiliário-f. Turismo
 relationships:
+- type: amended_by
+  target: pt:dre:3225791:por
+  label: "Prorrogado , pelo perído de um ano, o prazo de constituição do Fundo Imobiliário Especial de Apoio às Empresas (FIEAE),\
+    \ pelo DESP.8656/2012.28.06.2012.SEECI-MEE, DR.IIS [124] de 28.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/8656-2012-3225791
+  date: '2012-06-28'
+- type: amended_by
+  target: pt:dre:25703257:por
+  label: "Prorrogado, pelo prazo adicional de um ano, o prazo de constituição do Fundo Imobiliário Especial de Apoio às Empresas\
+    \ (FIEAE), a que se refere o n.º 1 do art. 17.º, do presente diploma pelo DESP.6449/2014.16.05.2014.SEIIC-MECO, DR.IIS\
+    \ [94] de 16.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/6449-2014-25703257
+  date: '2014-05-16'
+- type: amended_by
+  target: pt:dre:25693066:por
+  label: "Prorrogado pelo prazo adicional de um ano o prazo de constituição do Fundo Imobiliário Especial de Apoio às Empresas\
+    \ (FIEAE), a que se refere o n.º 1 do art. 17.º do presente diploma, pelo DESP.7301/2014.04.06.2014.SEIIC-MECO, DR.IIS\
+    \ [107] de 04.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/7301-2014-25693066
+  date: '2014-06-04'
+- type: amended_by
+  target: pt:dre:70152614:por
+  label: Confirmada a prorrogação pelo período de um ano, com efeitos a 12.05.2015, do Fundo Imobiliário Especial de Apoio
+    às Empresas (FIEAE) pelo(a) Despacho n.º 9922/2015 - Diário da República n.º 170/2015, Série II de 2015-09-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/9922-2015-70152614
+  date: '2015-09-01'
+- type: amended_by
+  target: pt:dre:75025850:por
+  label: Confirmada a prorrogação por um período adicional de quatro anos, com efeitos a 12.05.2016, do prazo do Fundo Imobiliário
+    Especial de Apoio às Empresas (FIEAE) pelo(a) Despacho n.º 9508/2016 - Diário da República n.º 141/2016, Série II de 2016-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/9508-2016-75025850
+  date: '2016-07-25'
+- type: amended_by
+  target: pt:dre:130469198:por
+  label: Confirmada a prorrogação, por um período adicional de seis anos, do prazo do FIEAE, criado pelo presente diploma,
+    pelo(a) Despacho n.º 3486/2020 - Diário da República n.º 57/2020, Série II de 2020-03-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/3486-2020-130469198
+  date: '2020-03-20'
+- type: amended_by
+  target: pt:dre:1080130511:por
+  label: Confirmada a prorrogação, por um período adicional de seis anos, do prazo do FIEAE, pelo(a) Despacho n.º 4197/2026
+    - Diário da República n.º 63/2026, Série II de 2026-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/4197-2026-1080130511
+  date: '2026-03-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/60/2002/03/20/p/dre
   label: null
@@ -90,16 +134,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:53Z'
   warnings: []
   errors: []
 ---
@@ -348,15 +404,15 @@ d) Sejam cumpridas as formalidades e obtidas as autorizações das autoridades d
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 2009. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Costa Pina - António José de Castro Guerra.
 
-**Promulgado em 6 de Maio de 2009.**
+Promulgado em 6 de Maio de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 11 de Maio de 2009.**
+Referendado em 11 de Maio de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Instrução de projectos
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/10/25000/19962000.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/740-1973-412602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T04:13:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d496785e27387c1439a51fd2a43dbce46697e10c20312a360145a9f71351078
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 220a88b0af39f67be86c6b776c6824862e595fdb3e1eb7fda005b0ce1619d9bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:13:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Técnico da Madeira
+- Criação de Serviços
+- Definição de Competências
+- Estatuto
+- Secretaria de Estado da Indústria
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "EXTINTO O CENTRO TÉCNICO DA MADEIRA, PELO DECRETO LEI 358/76, PUBLICADO NO DR.IS, 113, DE 760514.\060514.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:428021:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:428021:por
+  label: Extintos os Centros Técnicos da Cerâmica, do Metal e da Madeira, criados ao abrigo do Dec Lei 180/73, de 19-abr,
+    e, respetivamente, pelas Ports 713/73, de 17-out, 733/73, de 24-out, e pela presente, pelo(a) Decreto-Lei n.º 358/76 -
+    Diário da República n.º 113/1976, Série I de 1976-05-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/358-1976-428021
+  date: '1976-05-14'
+- type: cites
+  target: pt:dre:291800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673842:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:13:53Z'
   warnings: []
   errors: []
 ---
@@ -100,19 +124,19 @@ ESTATUTOS DO CENTRO TÉCNICO DA MADEIRA
 
 ### CAPÍTULO I — Denominação, natureza e fins
 
-###### Artigo 1.º - 1. Os presentes estatutos regem o Centro Técnico da Madeira, pessoal colectivo de direito privado sem fim lucrativo, criado ao abrigo do [Decreto-Lei n.º 180/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1973-673842), de 19 de Abril, que fixa as bases legais dos centros técnicos de cooperação industrial.
+Artigo 1.º - 1. Os presentes estatutos regem o Centro Técnico da Madeira, pessoal colectivo de direito privado sem fim lucrativo, criado ao abrigo do [Decreto-Lei n.º 180/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1973-673842), de 19 de Abril, que fixa as bases legais dos centros técnicos de cooperação industrial.
 
 2. O Centro Técnico da Madeira terá a sua sede no Porto e uma delegação central em Lisboa.
 
 3. Por deliberação do conselho de administração poderão criar-se em qualquer local do continente as delegações que forem julgadas necessárias.
 
-###### Art. 2.º - 1. O Centro Técnico da Madeira tem por finalidade apoiar directamente as empresas das indústrias da madeira, celulose e papel, promovendo o desenvolvimento dos respectivos sectores de modo a permitir adequada solução dos problemas decorrentes da evolução da sua actividade.
+Art. 2.º - 1. O Centro Técnico da Madeira tem por finalidade apoiar directamente as empresas das indústrias da madeira, celulose e papel, promovendo o desenvolvimento dos respectivos sectores de modo a permitir adequada solução dos problemas decorrentes da evolução da sua actividade.
 
 2. O Centro Técnico da Madeira deve manter estreita articulação com todos os organismos que exerçam actividades de interesse para os sectores, e, em particular, utilizar os serviços que aqueles lhe possam oferecer, por forma a conseguir a máxima eficácia na sua actuação.
 
 Sob este aspecto devem, designadamente, estreitar-se as relações com as seguintes entidades: Junta Nacional de Investigação Científica e Tecnológica, Instituto Nacional de Estatística, Laboratório Nacional de Engenharia Civil, Junta de Investigações do Ultramar, Direcção-Geral dos Serviços Florestais e Aquícolas, Instituto de Produtos Florestais, Inspecção-Geral dos Produtos Agrícolas e Industriais, Direcção-Geral dos Serviços Industriais, Universidades, as Corporações da Indústria, da Imprensa e Artes Gráficas e da Lavoura, Associação Industrial Portuguesa, Associação Industrial Portuense, Grémio Nacional das Indústrias da Madeira, Grémio Nacional dos Industriais de Fabricação de Papel e Grémio dos Exportadores de Madeiras.
 
-###### Art. 3.º O Centro Técnico da Madeira tem, fundamentalmente, as seguintes atribuições:
+Art. 3.º O Centro Técnico da Madeira tem, fundamentalmente, as seguintes atribuições:
 
 a) Promover a aplicação pelas empresas que exerçam indústrias abrangidas pelo Centro dos conhecimentos e inovações adquiridos no País e no estrangeiro, com vista a facilitar a modernização das mesmas, nos seus diferentes aspectos, sem prejuízo da propriedade e confidencialidade de tecnologias específicas das empresas;
 
@@ -124,7 +148,7 @@ d) Promover a formação e aperfeiçoamento do pessoal de todas as categorias, o
 
 e) Elaborar estudos sectoriais e outros com interesse para a expansão dos sectores e promover acções de índole colectiva.
 
-###### Art. 4.º Para a consecução dos fins previstos no artigo anterior, deve o Centro Técnico da Madeira, nomeadamente:
+Art. 4.º Para a consecução dos fins previstos no artigo anterior, deve o Centro Técnico da Madeira, nomeadamente:
 
 a) Prestar assistência técnica às empresas;
 
@@ -152,9 +176,9 @@ m) Manter ligações de carácter técnico com organismos afins, nacionais, estr
 
 ### CAPÍTULO II — Dos membros
 
-###### Art. 5.º São membros do Centro Técnico da Madeira os empresários em nome individual e as sociedades legalmente autorizadas a exercer actividades de exploração de material lenhoso ou indústrias que laborem com madeiras ou produtos derivados e, bem assim, outras entidades, públicas, privadas ou mistas, com interesse reconhecido para as actividades mencionadas.
+Art. 5.º São membros do Centro Técnico da Madeira os empresários em nome individual e as sociedades legalmente autorizadas a exercer actividades de exploração de material lenhoso ou indústrias que laborem com madeiras ou produtos derivados e, bem assim, outras entidades, públicas, privadas ou mistas, com interesse reconhecido para as actividades mencionadas.
 
-###### Art. 6.º Constituem direitos dos membros do Centro:
+Art. 6.º Constituem direitos dos membros do Centro:
 
 a) Fazer parte dos órgãos directivos do Centro nas condições definidas pelos presentes Estutos;
 
@@ -164,13 +188,13 @@ c) Gozar de preferência em todas as actividades realizadas pelo Centro;
 
 d) Receber as publicações do Centro e outras que se destinem a ser distribuídas gratuitamente.
 
-###### Art. 7.º Constituem deveres dos membros do Centro:
+Art. 7.º Constituem deveres dos membros do Centro:
 
 a) Pagar as quotas que lhes forem fixadas;
 
 b) Cooperar nas actividades do Centro e contribuir para a realização dos seus objectivos.
 
-###### Art. 8.º Perde-se a qualidade de membro do Centro Técnico:
+Art. 8.º Perde-se a qualidade de membro do Centro Técnico:
 
 a) Por interdição, dissolução, falência ou insolvência judicial;
 
@@ -178,9 +202,9 @@ b) Por deliberação do conselho de administração, sancionada pela assembleia 
 
 ### CAPÍTULO III — Dos órgãos de gestão
 
-###### Art. 9.º São órgãos do Centro Técnico da Madeira: a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 9.º São órgãos do Centro Técnico da Madeira: a assembleia geral, o conselho de administração e o conselho fiscal.
 
-###### Art. 10.º - 1. A assembleia geral é constituída pelos representantes dos membros do Centro mencionados no artigo 5.º, os quais serão designados por um período de três anos, renovável, e da forma seguinte:
+Art. 10.º - 1. A assembleia geral é constituída pelos representantes dos membros do Centro mencionados no artigo 5.º, os quais serão designados por um período de três anos, renovável, e da forma seguinte:
 
 Seis representantes designados pelo Grémio Nacional das Indústrias da Madeira e pelo Grémio dos Exportadores de Madeira, cabendo dois a este último organismo;
 
@@ -192,9 +216,9 @@ Seis representantes designados pelos industriais de contraplacados, folheados e 
 
 2. Serão ainda membros da assembleia geral os representantes, em número não superior a seis, de todos os outros membros do Centro não abrangidos no número anterior e designados em reunião desses membros especialmente convocada para o efeito.
 
-###### Art. 11.º A assembleia geral elegerá, de entre os seus membros, um presidente, um vice-presidente e um secretário, por um período de três anos, renovável uma ou mais vezes.
+Art. 11.º A assembleia geral elegerá, de entre os seus membros, um presidente, um vice-presidente e um secretário, por um período de três anos, renovável uma ou mais vezes.
 
-###### Art. 12.º Compete à assembleia geral:
+Art. 12.º Compete à assembleia geral:
 
 a) Apreciar e votar as propostas de alteração dos Estatutos que lhe forem submetidas;
 
@@ -204,21 +228,21 @@ c) Discutir e dar parecer sobre os programas gerais de actividades;
 
 d) Discutir e votar o relatório e contas anuais.
 
-###### Art. 13.º - 1. A assembleia geral reunirá, pelo menos, uma vez por ano para dar cumprimento ao disposto na alínea d) do artigo 12.º, sendo obrigatória a comparência do conselho de administração e do conselho fiscal. Poderá, ainda, reunir extraordinariamente por iniciativa do presidente, a pedido do conselho de administração ou de um terço dos seus membros.
+Art. 13.º - 1. A assembleia geral reunirá, pelo menos, uma vez por ano para dar cumprimento ao disposto na alínea d) do artigo 12.º, sendo obrigatória a comparência do conselho de administração e do conselho fiscal. Poderá, ainda, reunir extraordinariamente por iniciativa do presidente, a pedido do conselho de administração ou de um terço dos seus membros.
 
 2. A assembleia geral delibera validamente quando estiverem presentes pelo menos dois terços dos seus membros.
 
-###### Art. 14.º - 1. O Centro Técnico da Madeira é administrado por um conselho de administração que nomeará o director do Centro e nele delegará todos os poderes necessários à sua direcção, devendo aquela nomeação ser homologada pelo Secretário de Estado da Indústria.
+Art. 14.º - 1. O Centro Técnico da Madeira é administrado por um conselho de administração que nomeará o director do Centro e nele delegará todos os poderes necessários à sua direcção, devendo aquela nomeação ser homologada pelo Secretário de Estado da Indústria.
 
 2. A direcção do Centro Técnico será regionalmente descentralizada nos termos que, atenta a natureza das funções, a localização dos órgãos técnicos de apoio e a distribuição geográfica dos subsectores interessados, se mostrem aconselháveis.
 
 Para o efeito, poderá o director ser coadjuvado por subdirectores regionais, cuja competência específica será definida pelo conselho de administração.
 
-###### Art. 15.º - 1. O conselho de administração compreende cinco representantes das entidades privadas eleitos pela assembleia geral, três personalidades nomeadas pelo Secretário de Estado da Indústria e o director do Centro.
+Art. 15.º - 1. O conselho de administração compreende cinco representantes das entidades privadas eleitos pela assembleia geral, três personalidades nomeadas pelo Secretário de Estado da Indústria e o director do Centro.
 
 2. Na eleição dos representantes das entidades privadas referidas no número anterior ter-se-á em conta a distribuição regional dos subsectores interessados, podendo ser-lhes conferidas as delegações de poderes que se entendam necessárias à expedita e eficiente concretização das actividades regionais do Centro.
 
-###### Art. 16.º - 1. O conselho de administração elegerá um presidente de entre os seus membros representantes das entidades privadas.
+Art. 16.º - 1. O conselho de administração elegerá um presidente de entre os seus membros representantes das entidades privadas.
 
 2. Os membros do conselho de administração eleitos pela assembleia geral exercerão as suas funções por um período de três anos, podendo, no entanto, ser reconduzidos por igual período até metade do seu número.
 
@@ -226,7 +250,7 @@ Para o efeito, poderá o director ser coadjuvado por subdirectores regionais, cu
 
 4. As personalidades referidas no artigo 15.º serão nomedas por um período de três anos, podendo o Secretário de Estado da Indústria, por decisão expressa, renovar os respectivos mandatos.
 
-###### Art. 17.º Ao conselho de administração compete:
+Art. 17.º Ao conselho de administração compete:
 
 a) Definir a política geral do Centro e superintender na sua actividade por forma que este atinja os objectivos que lhe são cometidos;
 
@@ -242,17 +266,17 @@ f) Submeter à assembleia geral o relatório e contas anuais;
 
 g) Apreciar e dicidir sobre os serviços remunerados de assistência técnica ou de investigação solicitados por empresas, grupos de empresas ou outras entidades nacionais ou estrangeiras e que não estejam incluídos no programa de actividade do Centro nem possam ser considerados como ensaios correntes.
 
-###### Art. 18.º - 1. O conselho de administração reunirá ordinariamente uma vez por mês, para dar cumprimento ao disposto no artigo anterior e tomar as decisões que a actividade corrente do Centro justifique. Poderá, ainda, reunir extraordinariamente sempre que o presidente, o director, a maioria dos seus membros ou o presidente do conselho fiscal o solicite.
+Art. 18.º - 1. O conselho de administração reunirá ordinariamente uma vez por mês, para dar cumprimento ao disposto no artigo anterior e tomar as decisões que a actividade corrente do Centro justifique. Poderá, ainda, reunir extraordinariamente sempre que o presidente, o director, a maioria dos seus membros ou o presidente do conselho fiscal o solicite.
 
 2. Às reuniões do conselho de administração assistirá o presidente do conselho fiscal, nos termos do artigo 27.º
 
-###### Art. 19.º O conselho de administração delibera validamente quando estiver presente a maioria absoluta dos seus membros, sendo as deliberações tomadas à pluralidade de votos, tendo o presidente voto de qualidade.
+Art. 19.º O conselho de administração delibera validamente quando estiver presente a maioria absoluta dos seus membros, sendo as deliberações tomadas à pluralidade de votos, tendo o presidente voto de qualidade.
 
-###### Art. 20.º - 1. Os membros do conselho de administração, à excepção do director, terão direito, por cada sessão a que assistam, a uma senha de presença e, bem assim, ao abono das despesas de transportes e de ajudas de custo nos termos e quantitativos a fixar pelo conselho.
+Art. 20.º - 1. Os membros do conselho de administração, à excepção do director, terão direito, por cada sessão a que assistam, a uma senha de presença e, bem assim, ao abono das despesas de transportes e de ajudas de custo nos termos e quantitativos a fixar pelo conselho.
 
 2. O director, como funcionário do Centro, terá direito a uma remuneração mensal, a fixar pelo conselho de administração.
 
-###### Art. 21.º Compete ao director do Centro:
+Art. 21.º Compete ao director do Centro:
 
 a) Orientar e dirigir a actividade do Centro e, bem assim, praticar todos os actos inerentes à sua gestão, de harmonia com as orientações gerais fixadas pelo conselho de administração;
 
@@ -262,11 +286,11 @@ c) Estabelecer a organização interna do Centro e elaborar os respectivos regul
 
 d) Representar o Centro em juízo ou fora dele, designadamente noutros organismos, congressos e reuniões que se ocupem dos problemas relacionados com os fins do Centro, podendo em qualquer dos casos delegar esta competência.
 
-###### Art. 22.º - 1. O conselho fiscal é constituído por um presidente, nomeado pelo Secretário de Estado da Indústria, sob proposta do director do Instituto Nacional de Investigação Industrial, e por dois representantes eleitos em assembleia geral.
+Art. 22.º - 1. O conselho fiscal é constituído por um presidente, nomeado pelo Secretário de Estado da Indústria, sob proposta do director do Instituto Nacional de Investigação Industrial, e por dois representantes eleitos em assembleia geral.
 
 2. É aplicável ao presidente e aos membros eleitos do conselho fiscal, conforme os casos, o disposto nos n.os 2 e 3 do artigo 16.º
 
-###### Art. 23.º Compete ao conselho fiscal:
+Art. 23.º Compete ao conselho fiscal:
 
 a) Zelar por que a actividade do Centro não se desvie dos objectivos e espírito que lhe foram fixados;
 
@@ -284,15 +308,15 @@ g) Verificar a legalidade e a conformidade estatutária das despesas efectuadas;
 
 h) Dar parecer sobre quaisquer outros assuntos que sejam submetidos à sua apreciação pela assembleia geral ou pelo conselho de administração.
 
-###### Art. 24.º Para efeitos da execução das alíneas b), c), d) e g) do artigo anterior, o Centro Técnico da Madeira poderá contratar um revisor oficial de contas ou uma sociedade de revisão de contas, referidos no [Decreto-Lei n.º 1/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1972-291800), de 3 de Janeiro.
+Art. 24.º Para efeitos da execução das alíneas b), c), d) e g) do artigo anterior, o Centro Técnico da Madeira poderá contratar um revisor oficial de contas ou uma sociedade de revisão de contas, referidos no [Decreto-Lei n.º 1/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1972-291800), de 3 de Janeiro.
 
-###### Art. 25.º - 1. O conselho fiscal reunirá ordinariamente uma vez por trimestre e extraordinariamente sempre que o presidente o convocar, quer por iniciativa própria, quer a pedido dos restantes membros, quer a solicitação do conselho de administração.
+Art. 25.º - 1. O conselho fiscal reunirá ordinariamente uma vez por trimestre e extraordinariamente sempre que o presidente o convocar, quer por iniciativa própria, quer a pedido dos restantes membros, quer a solicitação do conselho de administração.
 
 2. O conselho fiscal pode deliberar quando estiver presente pelo menos a maioria dos seus membros, sendo as deliberações tomadas à pluralidade dos votos, tendo o presidente voto de qualidade.
 
-###### Art. 26.º Os membros do conselho fiscal terão direito a uma remuneração a fixar pelo conselho de administração.
+Art. 26.º Os membros do conselho fiscal terão direito a uma remuneração a fixar pelo conselho de administração.
 
-###### Art. 27.º - 1. Ao presidente do conselho fiscal compete:
+Art. 27.º - 1. Ao presidente do conselho fiscal compete:
 
 a) Presidir às reuniões do conselho fiscal, gozando de voto de qualidade em todas as deliberações;
 
@@ -306,7 +330,7 @@ c) Acompanhar a actuação do Centro, por forma a poder informar a Secretaria de
 
 ### CAPÍTULO IV — Do regime financeiro
 
-###### Art. 28.º - 1. As receitas do Centro Técnico da Madeira compreendem, nomeadamente:
+Art. 28.º - 1. As receitas do Centro Técnico da Madeira compreendem, nomeadamente:
 
 a) As quotizações obrigatoriamente pagas pelas empresas ou indivíduos que exerçam total ou parcialmente a sua actividade nos quatro grupos de indústrias seguintes:
 
@@ -334,7 +358,7 @@ h) Os rendimentos dos bens que o Centro possuir ou por qualquer título fruir, i
 
 2. As receitas do Centro Técnico da Madeira serão depositadas na Caixa Geral de Depósitos.
 
-###### Art. 29.º - 1. O valor global das quotizações obrigatórias referidas na alínea a) do artigo anterior será repartido pelos quatro grupos de indústrias indicados, fixando-se a comparticipação relativa de cada um destes, nos cinco primeiros anos de funcionamento do Centro, da forma seguinte:
+Art. 29.º - 1. O valor global das quotizações obrigatórias referidas na alínea a) do artigo anterior será repartido pelos quatro grupos de indústrias indicados, fixando-se a comparticipação relativa de cada um destes, nos cinco primeiros anos de funcionamento do Centro, da forma seguinte:
 
 ... Percentagens
 
@@ -360,32 +384,32 @@ Grupo IV ... 10
 
 Os trabalhos e conclusões de estudos desta natureza serão mantidos sob sigilo até que os interessados autorizem a sua divulgação.
 
-###### Art. 30.º O Secretário de Estado da Indústria definirá por despacho a comparticipação regular do Estado nas despesas de instalação e funcionamento do Centro Técnico da Madeira, através das dotações anuais atribuídas, para o efeito, ao Instituto Nacional de Investigação Industrial.
+Art. 30.º O Secretário de Estado da Indústria definirá por despacho a comparticipação regular do Estado nas despesas de instalação e funcionamento do Centro Técnico da Madeira, através das dotações anuais atribuídas, para o efeito, ao Instituto Nacional de Investigação Industrial.
 
 ### CAPÍTULO V — Do pessoal
 
-###### Art. 31.º - 1. O pessoal do Centro Técnico da Madeira fica sujeito a um regulamento próprio, elaborado tendo em conta as normas legais e regulamentares, bem como os contratos colectivos de trabalho aplicáveis ao pessoal da indústria produtora de pasta celulósica.
+Art. 31.º - 1. O pessoal do Centro Técnico da Madeira fica sujeito a um regulamento próprio, elaborado tendo em conta as normas legais e regulamentares, bem como os contratos colectivos de trabalho aplicáveis ao pessoal da indústria produtora de pasta celulósica.
 
 2. O regulamento referido no número anterior será homologado por despacho conjunto dos Secretários de Estado da Indústria e do Trabalho e Previdência.
 
 3. As remunerações do pessoal devem acompanhar os níveis praticados na generalidade das indústrias abrangidas pelo Centro.
 
-###### Art. 32.º O pessoal do Centro da Madeira poderá compreender funcionários públicos pertencentes aos quadros aprovados por lei, sob proposta do conselho de administração do Centro e mediante prévia autorização do Ministro respectivo, nos termos do disposto no Decreto n.º 180/73, de 19 de Abril.
+Art. 32.º O pessoal do Centro da Madeira poderá compreender funcionários públicos pertencentes aos quadros aprovados por lei, sob proposta do conselho de administração do Centro e mediante prévia autorização do Ministro respectivo, nos termos do disposto no Decreto n.º 180/73, de 19 de Abril.
 
-###### Art. 33.º Em relação aos funcionários públicos que não sejam do quadro, o Centro Técnico da Madeira assegurará a antiguidade que tinham nos seus quadros de origem, nomeadamente no que respeita a férias, indemnização por despedimento e remunerações complementares dependentes do tempo de serviço.
+Art. 33.º Em relação aos funcionários públicos que não sejam do quadro, o Centro Técnico da Madeira assegurará a antiguidade que tinham nos seus quadros de origem, nomeadamente no que respeita a férias, indemnização por despedimento e remunerações complementares dependentes do tempo de serviço.
 
-###### Art. 34.º O pessoal do Centro Técnico da Madeira está obrigado a segredo profissional, ficando sujeito às disposições aplicáveis do Código Penal.
+Art. 34.º O pessoal do Centro Técnico da Madeira está obrigado a segredo profissional, ficando sujeito às disposições aplicáveis do Código Penal.
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 35.º Por proposta do director, o conselho de administração pode autorizar a constituição de comissões técnicas de investigação ou sectoriais, que, no âmbito do Centro, desempenham funções consultivas e de informação técnico-económica.
+Art. 35.º Por proposta do director, o conselho de administração pode autorizar a constituição de comissões técnicas de investigação ou sectoriais, que, no âmbito do Centro, desempenham funções consultivas e de informação técnico-económica.
 
-###### Art. 36.º A constituição e a actividade do Centro Técnico da Madeira estão isentas de todos os impostos, incluindo o do selo, taxas e emolumentos.
+Art. 36.º A constituição e a actividade do Centro Técnico da Madeira estão isentas de todos os impostos, incluindo o do selo, taxas e emolumentos.
 
-###### Art. 37.º Os montantes correspondentes às quotizações obrigatoriamente pagas pelas empresas serão deduzidos da matéria colectável, para efeito das contribuições a pagar ao Estado e aos corpos administrativos.
+Art. 37.º Os montantes correspondentes às quotizações obrigatoriamente pagas pelas empresas serão deduzidos da matéria colectável, para efeito das contribuições a pagar ao Estado e aos corpos administrativos.
 
-###### Art. 38.º - 1. Excepto em casos de mero expediente, o Centro Técnico da Madeira só se obriga pela assinatura conjunta de dois membros do conselho de administração, um dos quais será o director.
+Art. 38.º - 1. Excepto em casos de mero expediente, o Centro Técnico da Madeira só se obriga pela assinatura conjunta de dois membros do conselho de administração, um dos quais será o director.
 
 2. É admitida a constituição de procuradores ou mandatários para os efeitos do n.º 1 deste artigo.
 
-**O Secretário de Estado da Indústria, Hermes Augusto dos Santos.**
+O Secretário de Estado da Indústria, Hermes Augusto dos Santos.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/17500/17601762.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/384-1979-381523
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8b71d936bc14cc5347c2f896f8451586fba3e8481d6b3478402ddad8585c813
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11069a1aef562a5f4626c977f98ec18901a4e0dd5192dd3a7e762a61b488a5e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral de Viação
+- Ensino
+- Escola de Condução
+- Instrutor de Condução
+- Remuneração
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:462581:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:428031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:462581:por
+  label: "Revogada pela PORT.832/80.17.10.1980.MCT, DR.IS [241] de 17.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/832-1980-462581
+  date: '1980-10-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:14Z'
   warnings: []
   errors: []
 ---
@@ -200,7 +227,7 @@ TABELA B
 
 Preços máximos por lição ou por séries de dez e vinte lições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/17500/17601762.pdf))](https://files.diariodarepublica.pt/1s/1979/07/17500/17601762.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17500/17601762.pdf)
 
 TABELA C
 
@@ -208,7 +235,7 @@ TABELA C
 
 Preços máximos por lição ou por série de quinze lições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/17500/17601762.pdf))](https://files.diariodarepublica.pt/1s/1979/07/17500/17601762.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17500/17601762.pdf)
 
 TABELA D
 
@@ -216,7 +243,7 @@ TABELA D
 
 Preços máximos por lição ou por série de dez lições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/17500/17601762.pdf))](https://files.diariodarepublica.pt/1s/1979/07/17500/17601762.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17500/17601762.pdf)
 
 TABELA E
 
@@ -224,7 +251,7 @@ TABELA E
 
 Preços máximos do fornecimento de veículos de instrução para exame:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/17500/17601762.pdf))](https://files.diariodarepublica.pt/1s/1979/07/17500/17601762.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17500/17601762.pdf)
 
 ## ANEXO 2 — (Minuta de requerimento em papel selado)
 

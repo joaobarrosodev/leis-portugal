@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/21300/0000800014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85/2024/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2024-895287958
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8283448a1f8477a79d2ef968b7862161525a3ba383c8da6dca553a2988500ab6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aeb8b2dca04cc3e517b5863495496688118fc2eaf4b9dfa0cef0fc8a9add04f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Agência para a Modernização Administrativa
 - Autoridade de Segurança Alimentar e Económica
 - Contra-ordenação
-- Política de Cooperação
 - Definição de Competências
 - Fiscalização
 - Mercado Interno
 - Notificação
-- Sistema de Informação
-- Agência para a Modernização Administrativa
+- Política de Cooperação
 - Regulamento CE
 - Sanção
+- Sistema de Informação
 relationships:
 - type: cites
   target: celex:31995L0046
@@ -115,16 +115,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/2019/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/2019/08/08/p/dre
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136678512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:24Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +189,7 @@ O presente decreto-lei assegura a execução, na ordem jurídica interna, do [Re
 
 1 - Para efeitos de aplicação do disposto no artigo 7.º do [Regulamento (UE) 2018/1807](http://data.europa.eu/eli/reg/2018/1807/oj?locale=pt), a Agência para a Modernização Administrativa, I. P. (AMA, I. P.), é designada ponto de contacto único nacional.
 
-2 - A AMA, I. P., é, ainda, responsável pela gestão e atualização do ponto de informação nacional em linha único, nos termos do disposto nos n.<sup>os</sup>4 e 5 do artigo 4.º do [Regulamento (UE) 2018/1807](http://data.europa.eu/eli/reg/2018/1807/oj?locale=pt).
+2 - A AMA, I. P., é, ainda, responsável pela gestão e atualização do ponto de informação nacional em linha único, nos termos do disposto nos n.os4 e 5 do artigo 4.º do [Regulamento (UE) 2018/1807](http://data.europa.eu/eli/reg/2018/1807/oj?locale=pt).
 
 ###### Artigo 3.º — Competências da Agência para a Modernização Administrativa, I. P.
 
@@ -257,7 +273,7 @@ Sempre que solicitado, as entidades devem fornecer à autoridade de fiscalizaç�
 
 2 - A aplicação de decisões e sanções acessórias compete ao inspetor-geral da ASAE.
 
-3 - A ASAE pode solicitar a colaboração de quaisquer outras entidades, sempre que o julgue necessário ao exercício das suas funções, designadamente a consulta junto da Comissão Nacional de Proteção de Dados para verificação da existência de dados pessoais envolvidos, nos termos do disposto no Regulamento Geral de Proteção de Dados e nas Leis n.<sup>os</sup>[58/ 2019](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982) e [59/2019](https://diariodarepublica.pt/dr/detalhe/lei/59-2019-123815983), ambas de 8 de agosto.
+3 - A ASAE pode solicitar a colaboração de quaisquer outras entidades, sempre que o julgue necessário ao exercício das suas funções, designadamente a consulta junto da Comissão Nacional de Proteção de Dados para verificação da existência de dados pessoais envolvidos, nos termos do disposto no Regulamento Geral de Proteção de Dados e nas Leis n.os[58/ 2019](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982) e [59/2019](https://diariodarepublica.pt/dr/detalhe/lei/59-2019-123815983), ambas de 8 de agosto.
 
 4 - Sem prejuízo da responsabilidade civil ou criminal, por violação de obrigações legais, designadamente pela prestação de falsas declarações ou por falsificação de documentos, as contraordenações previstas no presente decreto-lei são puníveis nos termos dos artigos seguintes.
 
@@ -317,12 +333,14 @@ O presente decreto-lei entra em vigor decorridos 60 dias após a sua publicaçã
 
 Visto e aprovado em Conselho de Ministros de 9 de outubro de 2024. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - Pedro Reis - Margarida Balseiro Lopes.
 
-**Promulgado em 26 de outubro de 2024.**
+Promulgado em 26 de outubro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de outubro de 2024.**
+Referendado em 29 de outubro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118293465

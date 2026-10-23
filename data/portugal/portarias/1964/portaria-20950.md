@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20950-1964-535652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9da64f84aab491c6bab6ef686044d390f0ce3d504410dfaeaa30e2ec78433fac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e87d7f25bbf0dd9aed631ace6ba8f25bf26bfcf189eb10afedf4ca15312d477
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531248:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:56Z'
   warnings: []
   errors: []
 ---
@@ -93,25 +109,25 @@ Polícia Internacional e de Defesa do Estado
 
 Despesas com o pessoal:
 
-###### Artigo 96.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 10750$00
+Artigo 96.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 10750$00
 
 Corpo de Polícia de S. Tomé e Príncipe
 
 Despesas com o pessoal:
 
-###### Artigo 105.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 47000$00
+Artigo 105.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 47000$00
 
 ### CAPÍTULO 6.º — Serviços de justiça
 
 Despesas com o pessoal:
 
-###### Artigo 176.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 6000$00
+Artigo 176.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 6000$00
 
 Polícia Judiciária
 
 Despesas com o pessoal:
 
-###### Artigo 201.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 2250$00
+Artigo 201.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 2250$00
 
 ### CAPÍTULO 7.º — Serviços de fomento
 
@@ -119,7 +135,7 @@ Serviços meteorológicos
 
 Despesas com o pessoal:
 
-###### Artigo 264.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 34000$00
+Artigo 264.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 34000$00
 
 ... 100000$00
 
@@ -127,7 +143,7 @@ Despesas com o pessoal:
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 274.º «Deslocações de pessoal»:
+Artigo 274.º «Deslocações de pessoal»:
 
 N.º 4) «Passagens de ou para o exterior»:
 
@@ -137,7 +153,7 @@ Alínea b) «Por quaisquer outros motivos - A pagar na metrópole» ... 100000$0
 
 ### CAPÍTULO 11.º — Exercícios findos
 
-###### Artigo 281.º «Para pagamento das despesas de exercícios findos referidos no artigo 57.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e legislação que posteriormente aditou ou alterou tal disposição - A pagar na metrópole» ... 30000$00
+Artigo 281.º «Para pagamento das despesas de exercícios findos referidos no artigo 57.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e legislação que posteriormente aditou ou alterou tal disposição - A pagar na metrópole» ... 30000$00
 
 ... 210000$00
 

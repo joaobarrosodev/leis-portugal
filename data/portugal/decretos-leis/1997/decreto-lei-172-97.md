@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/172/1997/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1997-150765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 062da7b637629dbb9d59cc45c759f3eec62c84022f288abc9cd9e9097e0f5b79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0db31d529919762cc999d735d3bc70a05bc94d7816dd21bae6c427a441ba8545
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,40 @@ reuse:
 subjects:
 - Agência de Inovação
 - Ajuda Comunitária
-- Turismo
-- Formação Profissional
+- Apoio ao Investimento
+- Comércio
 - Construção Civil
 - Contrato Programa
+- Direcção Geral do Desenvolvimento Regional
 - FEDER
 - Fiscalização
-- Apoio ao Investimento
-- Indústria
-- Programa Operacional Iniciativa Comunitária Pequenas e Médias Empresas
-- Fundo de Turismo
-- JURO Bonificado
+- Formação Profissional
 - FSE
-- Direcção Geral do Desenvolvimento Regional
+- Fundo de Turismo
+- IAPMEI
+- Indústria
+- JURO Bonificado
 - Ministro do Equipamento do Planeamento e da Administração do Território
 - Programa Operacional
+- Programa Operacional Iniciativa Comunitária Pequenas e Médias Empresas
 - Regime de Apoio
-- IAPMEI
 - Subsídio não Reembolsável
-- Comércio
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:688416:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:486974:por
+  label: "Alterada a redacção dos arts. 2º, 3º, 4º, 5º, 13º e 14º pelo DEC LEI.178/98.1998.07.03.MEPAT, DR.IS-A [151]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-1998-486974
+  date: '1998-07-03'
+- type: amended_by
+  target: pt:dre:688416:por
+  label: "Alterados os nºs 2 e 3 do art. 15º e o art. 16º pelo DEC LEI.221-A/99.1999.06.21.MEPAT,DR.IS-A [142]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/221-a-1999-688416
+  date: '1999-06-21'
 - type: cites
   target: eli:/application/external/eurolex?96X0280
   label: null
@@ -98,13 +108,13 @@ relationships:
 article_structure:
   article_count: 23
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:15Z'
   warnings: []
   errors: []
 ---
@@ -369,12 +379,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Maio de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Maria João Fernandes Rodrigues - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 26 de Junho de 1997.**
+Promulgado em 26 de Junho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Junho de 1997.**
+Referendado em 27 de Junho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

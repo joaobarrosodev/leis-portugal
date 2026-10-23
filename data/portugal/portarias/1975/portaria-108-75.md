@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/108-1975-160283
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:38:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c1a600de06a8533ca54cdfab72b47bfcce41d183548372717ac330f2f79622d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f4f88348be7dd43e9786659fca6d6095031a5e903671b7fc674aad78af14ee1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:38:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,32 @@ relationships:
   target: pt:dre:313064:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:337043:por
+  label: Alterada a al. b) do n.º 11.º e o n.º 16.º e substituídos os quadros anexos pelo(a) Portaria n.º 382/75 - Diário
+    do Governo n.º 142/1975, Série I de 1975-06-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/382-1975-337043
+  date: '1975-06-23'
+- type: amended_by
+  target: pt:dre:313064:por
+  label: Prorrogado o prazo de sessenta dias, referido no n.º 19.º e o referido no n.º 20.º, alargado até ao fim do 2.º semestre
+    de 1976, constante da presente portaria, pelo(a) Portaria n.º 613/75 - Diário do Governo n.º 245/1975, Série I de 1975-10-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/613-1975-313064
+  date: '1975-10-22'
+- type: cites
+  target: pt:dre:466867:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:38:31Z'
   warnings: []
   errors: []
 ---
@@ -166,14 +182,14 @@ Estado-Maior-General das Forças Armadas, 27 de Dezembro de 1974. - O Chefe do E
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/02/04100/02520255.pdf))](https://files.diariodarepublica.pt/1s/1975/02/04100/02520255.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/02/04100/02520255.pdf)
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/02/04100/02520255.pdf))](https://files.diariodarepublica.pt/1s/1975/02/04100/02520255.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/02/04100/02520255.pdf)
 
 QUADRO N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/02/04100/02520255.pdf))](https://files.diariodarepublica.pt/1s/1975/02/04100/02520255.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/02/04100/02520255.pdf)
 
-**O Chefe do Estado-Maior-General das Forças Armadas, Francisco da Costa Gomes. - O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo.**
+O Chefe do Estado-Maior-General das Forças Armadas, Francisco da Costa Gomes. - O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo.

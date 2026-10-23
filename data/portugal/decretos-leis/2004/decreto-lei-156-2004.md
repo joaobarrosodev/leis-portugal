@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/06/152a00/39683975.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/156/2004/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2004-517473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56dda7293a1a873cbe68e3948be90b98891ba6537ee71eb5b0fb34a76eecec92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ec5289a1105cdd1c685c28337d381f4957afec045f8460d613f5bdbe1de25eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Agência para a Prevenção dos Fogos Florestais
-- Incêndio
-- Prevenção de Incêndios
-- Formação Profissional
+- Arborização
+- Autoridade Florestal Nacional
+- Bombeiro
+- Câmara Municipal
 - Contra-ordenação
 - Corpo Nacional da Guarda Florestal
 - Definição de Competências
 - Direcção Geral dos Recursos Florestais
-- Arborização
-- Proteção da Floresta
-- Segurança Pública
 - Execução Fiscal
-- Fiscalização
-- Informação
-- Bombeiro
-- GNR
-- Forças Armadas
-- Plano Nacional de Prevenção e Protecção da Floresta contra os Incêndios Florestais
-- Guarda Florestal
-- Polícia Marítima
 - Exploração Florestal
-- Autoridade Florestal Nacional
+- Fiscalização
 - Fogueira
-- Câmara Municipal
+- Forças Armadas
+- Formação Profissional
+- GNR
+- Guarda Florestal
+- Incêndio
+- Informação
+- Plano Nacional de Prevenção e Protecção da Floresta contra os Incêndios Florestais
+- Polícia Marítima
+- Prevenção de Incêndios
+- Proteção da Floresta
+- PSP
 - Sapador Florestal
+- Segurança Pública
 - Sinalização de Segurança
 - Sistema Nacional de Prevenção e Protecção da Floresta contra Incêndios
 relationships:
@@ -103,16 +103,21 @@ relationships:
   target: celex:31992R2158
   label: null
   source: http://data.europa.eu/eli/reg/1992/2158/oj
+- type: repealed_by
+  target: pt:dre:358491:por
+  label: "Revogado pelo DEC LEI.124/2006.28.06.2006.MADRP, DR.IS-A [123] de 28.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2006-358491
+  date: '2006-06-28'
 article_structure:
   article_count: 34
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:03Z'
   warnings: []
   errors: []
 ---
@@ -565,12 +570,12 @@ São revogados os Decretos Regulamentares n.os 55/81, de 18 de Dezembro, 67/85, 
 
 Visto e aprovado em Conselho de Ministros de 6 de Maio de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Maria da Graça Martins da Silva Carvalho - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 22 de Junho de 2004.**
+Promulgado em 22 de Junho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Junho de 2004.**
+Referendado em 23 de Junho de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

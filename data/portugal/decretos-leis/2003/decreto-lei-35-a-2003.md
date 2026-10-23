@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 49/2003, 1º Suplemento, Série I-A de 2003-02-27
   number: '49'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1420-(2) a 1420-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/02/049a01/00020004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35-a/2003/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-a-2003-361880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94bcef752d830a5372ec880c4d03e77e31603747198885adfb8a753f2a958e3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35dda4e324cbb5e61546263996415f1117f33cca32cb928b5d2372a081cb0e45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ICEP
-- Reestruturação de Serviços
-- Pessoal Dirigente
 - Conselho de Administração
 - Estatuto
 - IAPMEI
+- ICEP
+- Pessoal Dirigente
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:520986:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:217518:por
+  label: "Alterados os arts. 1º, 4º, 5º, 6º, 7º, 8º, 9º e 29º dos Estatutos do ICEP aprovados pelo Dec Lei 264/2000 de 18-Out,\
+    \ com a redacção do presente diploma, e transferidos para a titularidade do Instituto de Turismo de Portugal (ITP) todos\
+    \ os direitos e obrigações correspondentes às atribuições e competências em matéria de turismo pelo pelo DEC LEI.77/2004.31.03.2004.MECO,\
+    \ DR.IS-A [77] de 31.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2004-217518
+  date: '2004-03-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/129/1999/04/21/p/dre
   label: null
@@ -94,16 +102,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
+- type: cites
+  target: pt:dre:354114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534596:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520986:por
+  label: "Revogado, a partir de 01.05.2007, pelo DEC LEI.140/2007.27.04.2007.MEI, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2007-520986
+  date: '2007-04-27'
 article_structure:
-  article_count: 14
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:27Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +181,9 @@ Os artigos 4.º, 5.º e 7.º do [Decreto-Lei n.º 387/88](https://diariodarepubl
 
 O IAPMEI tem por objecto promover e executar políticas de estímulo ao desenvolvimento empresarial, visando o reforço da competitividade e da produtividade das micro, pequenas e médias empresas portuguesas, com excepção das do sector do turismo.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -184,7 +219,9 @@ e) Prestação de garantias.
 
 3 - Com vista ao cumprimento das suas atribuições, compete ao IAPMEI funcionar como interlocutor único para as micro, pequenas e médias empresas, representando todas as entidades administrativas envolvidas, sem prejuízo das respectivas competências próprias.
 
-###### Artigo 7.º — Composição e natureza
+Artigo 7.º
+
+Composição e natureza
 
 1 - O conselho de administração do IAPMEI é constituído por um presidente e um número par de vogais, até ao máximo de seis, nomeados e exonerados pelo Conselho de Ministros, sob proposta do Ministro da Economia.
 
@@ -224,7 +261,9 @@ b) [Anterior alínea c).]
 
 c) Da imagem de Portugal no exterior, para efeitos de comércio e turismo.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 ...
 
@@ -242,7 +281,9 @@ f) Desenvolver as acções e iniciativas tendentes à divulgação e promoção 
 
 g) Apoiar, coordenar e estimular o desenvolvimento de acções de cooperação externa no domínio do sector empresarial, especialmente com os países de língua oficial portuguesa.
 
-###### Artigo 9.º — Composição e natureza
+Artigo 9.º
+
+Composição e natureza
 
 1 - O conselho de administração do ICEP é constituído por um presidente e um número par de vogais, até ao máximo de seis, nomeados e exonerados pelo Conselho de Ministros, sob proposta dos Ministros dos Negócios Estrangeiros e das Comunidades Portuguesas e da Economia.
 
@@ -288,12 +329,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Janeiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Carlos Manuel Tavares da Silva.
 
-**Promulgado em 21 de Fevereiro de 2003.**
+Promulgado em 21 de Fevereiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Fevereiro de 2003.**
+Referendado em 25 de Fevereiro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

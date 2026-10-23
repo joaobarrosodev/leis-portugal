@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/02/037a00/14091409.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/41/2006/02/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2006-677047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52cee3113a7c26f391ad11bada38a3ff1b9c88e176a9ca0c81aefed5bfe76308
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b448b4048f9b84e5d694934433ac8ff40ea192c2179c0bcbdac57ea2225568c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Subsídio Familiar a Crianças e Jovens
+- Abono de Família
 - Cidadão Estrangeiro
+- Prestações Familiares
 - Proteção à Infância
 - Proteção ao Deficiente
-- Prestações Familiares
-- Abono de Família
+- Subsídio Familiar a Crianças e Jovens
 relationships:
 - type: amended_by
   target: pt:dre:178491:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:443898:por
+  label: "Alterado o art. 40.º do Dec Lei 176/2003 de 02-Ago, na redacção do presente diploma, republicado na redacção actual\
+    \ pelo DEC LEI.245/2008.18.12.2008.MTSSO, DR.IS [244] de 18.12.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-2008-443898
+  date: '2008-12-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/176/2003/08/02/p/dre
   label: null
@@ -85,16 +91,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/32/2002/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/32/2002/12/20/p/dre
+- type: cites
+  target: pt:dre:405483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652702:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:443898:por
+  label: "Revogado, a partir de 01.01.2009, pelo DEC LEI.245/2008.18.12.2008.MTSSO, DR.IS [244] de 18.12.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-2008-443898
+  date: '2008-12-18'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:42Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +156,9 @@ a) Os refugiados ou apátridas portadores de título de protecção temporária 
 
 b) Os cidadãos estrangeiros portadores de títulos válidos de permanência, ou respectivas prorrogações, nos termos e condições a definir em portaria conjunta dos Ministros de Estado e da Administração Interna, da Presidência e do Trabalho e da Solidariedade Social.
 
-###### Artigo 40.º — Prova anual de rendimentos, da composição do agregado familiar e de residência
+Artigo 40.º
+
+Prova anual de rendimentos, da composição do agregado familiar e de residência
 
 1 - ...
 
@@ -153,12 +174,12 @@ O presente decreto-lei entra em vigor no 1.º dia útil do mês seguinte ao da s
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - José António Fonseca Vieira da Silva.
 
-**Promulgado em 6 de Fevereiro de 2006.**
+Promulgado em 6 de Fevereiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Fevereiro de 2006.**
+Referendado em 7 de Fevereiro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

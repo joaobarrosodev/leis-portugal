@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/06500/20402041.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/99/2007/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2007-520209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31f128c30e911164e46944d821d2e99d482aa1a6d3af3c103f70adc130fda1a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6ed9dc68eafeac1af288a29baf48d38d9d965f44a2a9c75b70726e75bb4291c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,16 +83,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1031/1991/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1031/1991/10/09/p/dre
+- type: cites
+  target: pt:dre:288247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:258677:por
+  label: "Revogado, a partir de 20.02.2013, pelo DEC LEI.21/2013.15.02.2013.MF, DR.IS [33] de 15.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2013-258677
+  date: '2013-02-15'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:47Z'
   warnings: []
   errors: []
 ---
@@ -131,12 +144,12 @@ O disposto no artigo 1.º do presente decreto-lei produz efeitos após a publica
 
 Visto e aprovado em Conselho de Ministros de 4 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos.
 
-**Promulgado em 14 de Março de 2007.**
+Promulgado em 14 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 15 de Março de 2007.**
+Referendado em 15 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

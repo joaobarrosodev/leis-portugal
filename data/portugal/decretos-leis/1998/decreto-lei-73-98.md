@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/73/1998/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1998-197755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 000ead98407dfdd3c715d870cbc1dedae3b9086757e20347f1575fff9112fc78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75357538a4338d9f5fde140981aa37f1423233325876b8217a40071d7c7419cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão de Acompanhamento da OBRA da NOVA Travessia do TEJO
-- Ponte de Vasco da GAMA
-- Lisboa
-- RIO TEJO
 - Gabinete da Travessia do TEJO em Lisboa
-- Ponte
 - Gratificação
+- Lisboa
+- Ponte
+- Ponte de Vasco da GAMA
+- RIO TEJO
 - Senha de Presença
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/1996/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/118/1996/08/07/p/dre
+- type: cites
+  target: pt:dre:412043:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:33Z'
   warnings: []
   errors: []
 ---
@@ -117,12 +121,12 @@ O n.º 2 do artigo 2.º do [Decreto-Lei n.º 118/96](https://diariodarepublica.p
 
 Visto e aprovado em Conselho de Ministros de 12 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 9 de Março de 1998.**
+Promulgado em 9 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Março de 1998.**
+Referendado em 17 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

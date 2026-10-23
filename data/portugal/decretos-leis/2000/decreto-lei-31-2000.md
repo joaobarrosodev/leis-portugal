@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/31/2000/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2000-410919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc1b869df219762b3374df57ce75235f24290360e914acf17ee24d8c329ae7e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c730d4f5ae18fd6164db3e2900d6a3eb42b4daabd00899cd28093c8bf9fd2c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,28 @@ subjects:
 - Aveiro
 - Criação de Serviços
 - Ensino Superior Politécnico
-- Universidade de Aveiro
 - Escola Superior de Saúde do Alcoitão
 - Instituto Politécnico
-- Setúbal
 - Regime de Instalação
+- Setúbal
+- Universidade de Aveiro
 relationships:
 - type: amended_by
   target: pt:dre:346742:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:281196:por
+  label: "Prorrogado até 31 de Dezembro de 2004 o período de funcionamento em regime de instalação da Escola Superior de Saúde\
+    \ do Instituto Politécnico de Setúbal, pelo DEC LEI.134/2004.03.06.2004.MCES, DR.IS-A [130] de 03.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-2004-281196
+  date: '2004-06-03'
+- type: amended_by
+  target: pt:dre:346742:por
+  label: "Prorrogado até 31 de Dezembro de 2007 o período de funcionamento no regime de instalação da Escola Superior de Saúde\
+    \ de Setúbal criada pelo presente diploma, pelo DEC LEI.114/2006.12.06.2006.MCTES, DR.IS-A [113] de 12.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-2006-346742
+  date: '2006-06-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/215/1997/08/18/p/dre
   label: null
@@ -94,16 +106,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/140/1998/12/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/140/1998/12/04/p/dre
+- type: cites
+  target: pt:dre:208255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:17Z'
   warnings: []
   errors: []
 ---
@@ -190,12 +222,12 @@ O ano lectivo em que cada Escola inicia as actividades escolares é fixado por d
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Guilherme d'Oliveira Martins - Maria Manuela de Brito Arcanjo Marques da Costa - Alberto de Sousa Martins.
 
-**Promulgado em 25 de Fevereiro de 2000.**
+Promulgado em 25 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Março de 2000.**
+Referendado em 2 de Março de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

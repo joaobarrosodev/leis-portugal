@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/09100/18531903.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1990-332262
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:18:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27dd530a23878bb41af81ffa3e2a7a61065a4aa34f3018c67cc18b2fbebcec10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7ec4a497be4b76408eb63f065e41c1650c16c6cd38d41161f93bab93ffdf448
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:18:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Cuidados de Saúde Primários
+- Euratom
+- Higiene do Trabalho
+- Radioprotecção
+- Saúde Pública
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:204379871:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:168204:por
+  label: "Alterado o art. 36º, pelo DR.3/92.1992.03.06.MS, DR.IS-B [55]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/3-1992-168204
+  date: '1992-03-06'
+- type: amended_by
+  target: pt:dre:241375:por
+  label: "Mantidas em vigor as normas relativas á protecção contra as radiações ionizantes, pelo DEC LEI.153/96.1996.08.30.MAM\
+    \ DR.IS-A [201], em tudo o que não contrarie, e transferidas para a Direcção Geral do Ambiente as competências da DGS,\
+    \ constantes dos arts. 34º, 35º e 54º a 56º pelo mesmo diploma\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/153-1996-241375
+  date: '1996-08-30'
+- type: amended_by
+  target: pt:dre:205669:por
+  label: "Derrogado, com a redacção conferida pelo DR 3/92 de 06-Mar, pelo DEC LEI.165/2002.2002.07.17.MS DR.IS-A [163], relativamente\
+    \ à matéria que contrarie as diposições daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/165-2002-205669
+  date: '2002-07-17'
+- type: amended_by
+  target: pt:dre:185096:por
+  label: "Derrogado pelo DEC LEI.180/2002.2002.08.08.MS DR.IS-A [182], na matéria que contrarie as disposições desse diploma\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-2002-185096
+  date: '2002-08-08'
+- type: amended_by
+  target: pt:dre:243494:por
+  label: "Derrogado pelo DEC LEI.140/2005.17.08.2005.MCTES, DR.IS-A [157] de 17.08.2005, na matéria em que o contrarie\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2005-243494
+  date: '2005-08-17'
+- type: repealed_by
+  target: pt:dre:439846:por
+  label: "Revogados os arts. 1º a 6º, 8º, 12º, 20º a 29º, 31º a 33º, 37º a 43º e 46º a 56º pelo DEC LEI.222/2008.17.11.2008.MS,\
+    \ DR.IS [223] de 17.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-2008-439846
+  date: '2008-11-17'
+- type: repealed_by
+  target: pt:dre:117202785:por
+  label: Revogado, a partir de 02.04.2019, o presente diploma, alterado pelo DR 3/92 de 06-mar, pelo(a) Decreto-Lei n.º 108/2018
+    - Diário da República n.º 232/2018, Série I de 2018-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
 article_structure:
   article_count: 56
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:18:13Z'
   warnings: []
   errors: []
 ---
@@ -552,42 +599,44 @@ Presidência do Conselho de Ministros, 19 de Fevereiro de 1990.
 
 Aníbal António Cavaco Silva - Manuel Pereira - Arlindo Marques da Cunha - Nuno Manuel Franco Ribeiro da Silva - José Augusto Perestrello de Alarcão Troni - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Fernando Nunes Ferreira Real.
 
-**Promulgado em 22 de Março de 1990.**
+Promulgado em 22 de Março de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Março de 1990.**
+Referendado em 24 de Março de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ANEXOS TÉCNICOS
 
-## Anexo I - Conceitos e explicação de termos.
+Anexo I - Conceitos e explicação de termos.
 
-## Anexo II - Isenção do regime de autorização prévia.
+Anexo II - Isenção do regime de autorização prévia.
 
-## Anexo III - Limites mínimos ou de isenção.
+Anexo III - Limites mínimos ou de isenção.
 
-## Anexo IV - Limites de dose.
+Anexo IV - Limites de dose.
 
-## Anexo V - Sinalização. — ANEXO I
+## Anexo V - Sinalização.
+
+## ANEXO I
 
 Conceitos e explicação de termos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09100/18531903.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09100/18531903.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09100/18531903.pdf)
 
 ## ANEXO II — Isenção do regime de autorização prévia e valores de actividade de radionuclidos que não devem ser ultrapassados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09100/18531903.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09100/18531903.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09100/18531903.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09100/18531903.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09100/18531903.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09100/18531903.pdf)
 
 ## ANEXO IV — Limites de dose
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09100/18531903.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09100/18531903.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09100/18531903.pdf)
 
 ## ANEXO V — Sinalização de segurança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09100/18531903.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09100/18531903.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09100/18531903.pdf)

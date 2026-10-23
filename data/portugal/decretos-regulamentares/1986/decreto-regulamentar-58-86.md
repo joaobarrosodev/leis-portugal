@@ -46,40 +46,213 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/58-1986-222468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f0a916a72df4352af20466f6936eb12af24a350544fc19e833537c9ff0f473b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b82b06331062b26b978f3f68f2ab0cdc22cb80fc80dc3a59ccb5fd71043fab4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Regional de Agricultura do Alentejo
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:518853:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:663500:por
+  label: "Alterado o quadro de pessoal constante do Mapa I anexo ao presente diploma, pela PORT.32/87.1987.01.16.MF DR.IS\
+    \ [13]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/32-1987-663500
+  date: '1987-01-16'
+- type: amended_by
+  target: pt:dre:421066:por
+  label: "Alterado o quadro de pessoal constante do Mapa I Anexo ao presente diploma, pela PORT.393/87.1987.05.08.MF DR.IS\
+    \ [105], na redacção da Port 32/87, de 16-Jan\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/393-1987-421066
+  date: '1987-05-08'
+- type: amended_by
+  target: pt:dre:563608:por
+  label: "Alterado, no referente ao pessoal técnico-profissional, o quadro de pessoal da Direcção Regional de Agricultura\
+    \ do Alentejo pelo DR.43/90.19.12.1990.MAPA, DR.IS [291] de 19.12.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/43-1990-563608
+  date: '1990-12-19'
+- type: amended_by
+  target: pt:dre:158633:por
+  label: "Alterado o quadro de pessoal, relativamente às carreiras de biblioteca e documentação, pela PORT.118/92.24.02.1992.MF,\
+    \ DR.IS-B [46] de 24.02.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/118-1992-158633
+  date: '1992-02-24'
+- type: amended_by
+  target: pt:dre:192595:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo I ao presente diploma, pela PORT.293/92.03.04.1992.MF, DR.IS-B\
+    \ [79] de 03.04.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/293-1992-192595
+  date: '1992-04-03'
+- type: amended_by
+  target: pt:dre:226197:por
+  label: "Alterado o quadro de pessoal aprovado pelo mapa anexo I ao presente diploma, pelo DN.186/92.09.10.1992.MF, DR.IS-B\
+    \ [233] de 09.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/186-1992-226197
+  date: '1992-10-09'
+- type: amended_by
+  target: pt:dre:637910:por
+  label: "Alterado o quadro de pessoal, pela PORT.330/93.20.03.1993.MF, DR.IS-B [67] de 20.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/330-1993-637910
+  date: '1993-03-20'
+- type: amended_by
+  target: pt:dre:664773:por
+  label: "Alterado o quadro de pessoal aprovado no presente diploma, pelo DN.58/93.28.04.1993.MF, DR.IS-B [99] de 28.04.1993\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/58-1993-664773
+  date: '1993-04-28'
+- type: amended_by
+  target: pt:dre:300050:por
+  label: "Alterado o quadro de pessoal aprovado pelo mapa anexo I ao presente diploma, pelo DN.61/93.30.04.1993.MF, DR.IS-B\
+    \ [101] de 30.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/61-1993-300050
+  date: '1993-04-30'
+- type: amended_by
+  target: pt:dre:300059:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo I ao presente diploma, pelo DN.62/93.30.04.1993.MF, DR.IS-B\
+    \ [101] de 30.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/62-1993-300059
+  date: '1993-04-30'
+- type: amended_by
+  target: pt:dre:283549:por
+  label: "Alterado o quadro de pessoal aprovado pelo mapa anexo I ao presente diploma, pelo DN.84/93.29.05.1993.MF, DR.IS-B\
+    \ [125] de 29.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/84-1993-283549
+  date: '1993-05-29'
+- type: amended_by
+  target: pt:dre:260911:por
+  label: "Alterado o quadro de pessoal aprovado pelo mapa anexo I ao presente diploma, pelo DN.97/93.09.06.1993.MF, DR.IS-B\
+    \ [134] de 09.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/97-1993-260911
+  date: '1993-06-09'
+- type: amended_by
+  target: pt:dre:374850:por
+  label: "Alterado o quadro de pessoal aprovado pelo mapa anexo I ao presente diploma, pelo DN.122/93.29.06.1993.MF, DR.IS-B\
+    \ [150] de 29.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/122-1993-374850
+  date: '1993-06-29'
+- type: amended_by
+  target: pt:dre:670712:por
+  label: "Alterado o quadro de pessoal aprovado pelo mapa anexo I ao presente diploma, pelo DN.320/93.12.10.1993.MF, DR.IS-B\
+    \ [239] de 12.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/320-1993-670712
+  date: '1993-10-12'
+- type: amended_by
+  target: pt:dre:670719:por
+  label: "Alterado o quadro de pessoal aprovado pelo mapa anexo I ao presente diploma, pelo DN.321/93.12.10.1993.MF, DR.IS-B\
+    \ [239] de 12.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/321-1993-670719
+  date: '1993-10-12'
+- type: amended_by
+  target: pt:dre:690178:por
+  label: "Alterado o quadro de pessoal aprovado pelo mapa anexo I ao presente diploma, pelo DN.358/93.12.11.1993.MF, DR.IS-B\
+    \ [265] de 12.11.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/358-1993-690178
+  date: '1993-11-12'
+- type: amended_by
+  target: pt:dre:498504:por
+  label: "Alterado o ex-quadro de pessoal constante do mapa I do anexo ao presente diploma, pelo DN.48/94.28.01.1994.MF, DR.IS-B\
+    \ [23] de 28.01.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/48-1994-498504
+  date: '1994-01-28'
+- type: amended_by
+  target: pt:dre:498520:por
+  label: "Alterado o ex-quadro de pessoal constante do mapa I do anexo ao presente diploma, pelo DN.46/94.28.01.1994.MF, DR.IS-B\
+    \ [23] de 28.01.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/46-1994-498520
+  date: '1994-01-28'
+- type: amended_by
+  target: pt:dre:498524:por
+  label: "Alterado o ex-quadro de pessoal constante do mapa I do anexo ao presente diploma, pelo DN.43/94.28.01.1994.MF, DR.IS-B\
+    \ [23] de 28.01.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/43-1994-498524
+  date: '1994-01-28'
+- type: amended_by
+  target: pt:dre:518391:por
+  label: "Alterado o ex-quadro de pessoal constante do mapa I do anexo ao presente diploma, pelo DN.116/94.01.03.1994.MF,\
+    \ DR.IS-B [50] de 01.03.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/116-1994-518391
+  date: '1994-03-01'
+- type: amended_by
+  target: pt:dre:518853:por
+  label: "Determinado que a Direcção Regional de Agricultura e Pescas do Alentejo suceda nas atribuições da Direcção Regional\
+    \ de Agricultura do Alentejo, cuja orgânica foi aprovada pelo presente diploma, pelo DR.12/2007.27.02.2007.MADRP, DR.IS\
+    \ [41] de 27.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-2007-518853
+  date: '2007-02-27'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:40Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +327,7 @@ f) Divisão de Protecção à Produção Vegetal;
 
 4) Serviços operativos de âmbito local:
 
-##### Divisão da Zona Agrária.
+Divisão da Zona Agrária.
 
 ###### Artigo 4.º — (Órgãos)
 
@@ -458,22 +631,22 @@ Ficam revogadas as disposições do [Decreto Regulamentar n.º 6-A/79](https://d
 
 Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 5 de Setembro de 1986.**
+Promulgado em 5 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Setembro de 1986.**
+Referendado em 9 de Setembro de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
 
 Mapa anexo I a que se refere o n.º 1 do artigo 19.º do Decreto Regulamentar n.º 58/86
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/23200/29822991.pdf))](https://files.diariodarepublica.pt/1s/1986/10/23200/29822991.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/23200/29822991.pdf)
 
 Mapa anexo II a que se refere o n.º 1 do artigo 19.º do Decreto Regulamentar n.º 58/86
 
 Carreiras e categorias a extinguir nos termos do n.º 2 do artigo 2.º do [Decreto Regulamentar n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1984-384385), de 28 de Maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/23200/29822991.pdf))](https://files.diariodarepublica.pt/1s/1986/10/23200/29822991.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/23200/29822991.pdf)

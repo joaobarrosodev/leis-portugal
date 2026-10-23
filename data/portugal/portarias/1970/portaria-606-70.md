@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/606-1970-146896
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efbf0688f9800d057d00622a77bc63c70e193e3de701259eee56043acba2c3d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69e1797453c3ac1ab3393537816d2d723c293e7291d128cd249f978745b6e51b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:652509:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:59Z'
   warnings: []
   errors: []
 ---
@@ -102,6 +106,6 @@ Manda o Governo da República Portuguesa, pelo Ministro de Ultramar, o seguinte:
 
 2.º Como consequência desta rescisão, deixou a citada companhia de exercer a sua actividade no território da província de Cabo Verde e encerrou já a sua estação no dia 30 de Setembro de 1970, devendo ainda desmontar todas as suas instalações e liquidar os respectivos serviços dentro de prazo de um ano, a partir desta última data, sob pena de tais instalações reverterem, no fim deste prazo, para a posse de Governo de Cabo Verde.
 
-**O Ministro de Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro de Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.

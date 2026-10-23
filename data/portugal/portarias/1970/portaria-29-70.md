@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/29-1970-227261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72ce2796f2313ea84bf0bd1dec111bb89a375c84ad2cbb6b98ea9687cc162fa4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd95b7168a9731384a930f79760dec77a94bd570d8698e7e4607887d2ec99f40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Permanente de Estudos do Espaço Exterior
+- Espaço Aéreo
+- Exploração do Espaço
+- Jnict
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:310443:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA PELA PORTARIA 307/71, PUBLICADA NO DG.IS, 141.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1971-06-17'
+- type: amended_by
+  target: pt:dre:310443:por
+  label: "Alterados os nºs 2º e 3º pela PORT.292/83.1983.03.18.MCCC DR.IS [64]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/292-1983-310443
+  date: '1983-03-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "EXTINTA A COMISSAO PERMANENTE DE ESTUDOS DO ESPAÇO EXTERIOR-CPEE, PELA PORTARIA 244/86, DE 23 DE MAIO, PUBLICADA\
+    \ NO DR.IS, 118.\0NO DR.IS, 118."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-05-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:35Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +154,7 @@ e bem assim por duas entidades, oficiais ou privadas, que se tenham interessado 
 
 Os representantes dos organismos acima referidos serão designados pelos respectivos Ministros.
 
-**O presidente e o vice-presidente da Junta Nacional de Investigação Científica e Tecnológica poderão assistir a quaisquer reuniões da Comissão Permanente.**
+O presidente e o vice-presidente da Junta Nacional de Investigação Científica e Tecnológica poderão assistir a quaisquer reuniões da Comissão Permanente.
 
 3.º O Presidente do Conselho designará de entre os membros que constituem a Comissão Permanente o seu presidente e o seu vice-presidente.
 

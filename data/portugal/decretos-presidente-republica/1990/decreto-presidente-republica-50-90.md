@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/50-1990-557436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T04:07:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5e20c477e2db7249cfd5ca9e861757e7cde8f6fd90b7c572e5a9370c1563cc2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2cc9cc538c063ec6b7ab89dac3a03b6a11f2a1af8077452a54177827a936127
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:07:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Eleição Presidencial
+relationships:
+- type: cites
+  target: pt:dre:564260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655916:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:07:44Z'
   warnings: []
   errors: []
 ---
@@ -84,12 +93,12 @@ validation:
 
 de 21 de Setembro
 
-**O Presidente da República decreta, nos termos dos artigos 136.º, alínea b), e 128.º da Constituição e de harmonia com o disposto no artigo 11.º do [Decreto-Lei n.º 319-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-a-1976-655916), de 3 de Maio, na redacção dada pela [Lei n.º 143/85](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), de 26 de Novembro, o seguinte:**
+O Presidente da República decreta, nos termos dos artigos 136.º, alínea b), e 128.º da Constituição e de harmonia com o disposto no artigo 11.º do [Decreto-Lei n.º 319-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-a-1976-655916), de 3 de Maio, na redacção dada pela [Lei n.º 143/85](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), de 26 de Novembro, o seguinte:
 
 É fixado o dia 13 de Janeiro de 1991 para a eleição do Presidente da República.
 
-**Assinado em 13 de Setembro de 1990.**
+Assinado em 13 de Setembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.

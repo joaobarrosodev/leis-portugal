@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/03100/03710372.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1983-310977
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:08:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89d6e3593da5b02dfad6a410d20a771e766c7ba34bcadfdb5808c3de0c03490e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f6e88c16a1250af33b3479c4a9da89061959658a966293b1c69a0d0a05d7541
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:08:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pensão de Invalidez
+- Pensão de Velhice
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:653127:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:653127:por
+  label: Substituído pelo(a) Decreto-Lei n.º 329/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25, nos seus
+    precisos termos.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-1993-653127
+  date: '1993-09-25'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:08:38Z'
   warnings: []
   errors: []
 ---
@@ -132,12 +141,12 @@ O presente diploma entra em vigor em 1 de Julho de 1983.
 
 Francisco José Pereira Pinto Balsemão - Luís Eduardo da Silva Barbosa.
 
-**Promulgado em 22 de Janeiro de 1983.**
+Promulgado em 22 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 25 de Janeiro de 1983.**
+Referendado em 25 de Janeiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

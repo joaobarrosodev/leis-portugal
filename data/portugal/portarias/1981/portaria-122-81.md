@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/122-1981-389838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:38:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f94fd7088bf8d048c49c7264899d72a635dcd003f5687a7e57a125fe7b9a7ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 231ec86fa6c2600c98344621e676f634c37f4492a5a71f6eb18c17f86012a94e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:38:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Saúde
+- Integração de Trabalhadores
+- Quadro de Pessoal
+- Vila Real
 relationships:
 - type: amended_by
   target: pt:dre:183448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:318335:por
+  label: "Alterado o quadro de pessoal do Centro de Saúde Distrital de Vila Real, aprovado pelo presente diploma pela PORT.1332/82.31.12.1982.MFP,\
+    \ DR.IS [301] de 31.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1332-1982-318335
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:452046:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal aprovado pelo presente diploma, pela\
+    \ PORT.677/83.15.06.1983.MFP, DR.IS [135] de 15.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/677-1983-452046
+  date: '1983-06-15'
+- type: amended_by
+  target: pt:dre:435441:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.807-B3/83.30.07.1983.MFP, DR.IS [174-6ºSupl]\
+    \ de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-b3-1983-435441
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:396500:por
+  label: "Alterado, na parte referente ao pessoal técnico auxiliar sanitário, o quadro de pessoal aprovado pelo presente diploma,\
+    \ pela PORT.979/84.26.12.1984.MS, DR.IS [297] de 26.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/979-1984-396500
+  date: '1984-12-26'
+- type: amended_by
+  target: pt:dre:183448:por
+  label: "Aumentados lugares ao quadro de pessoal aprovado pela PORT.467/85.17.07.1985.PCM, DR.IS [162] de 17.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/467-1985-183448
+  date: '1985-07-17'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:38:13Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +151,7 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Centro de Saúde Distrital de Vila Real
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/02100/02140215.pdf))](https://files.diariodarepublica.pt/1s/1981/01/02100/02140215.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/02100/02140215.pdf)
 
 Notas
 

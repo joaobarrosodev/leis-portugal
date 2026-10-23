@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24491-1969-213019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 223884479c62b97d1e3dd7382fd7d285eb91e6b0e331db489b4a663b19f7199c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 687ee2beef7cbff4707bccaf7ab8ea4ab3bea3fcd274b0ebff93601a31c82ffe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282138:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:33Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +101,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 1.º O artigo 46.º do plano de uniformes para oficiais, aspirantes a oficial e cadetes da Armada passa a ter a seguinte redacção:
 
-###### Art. 46.º A gabardina para oficiais, aspirantes a oficial e cadetes (figs. 44 e 45) é de tecido misto - poliéster e viscose ou algodão - na cor azul-escura e forrada de nylon cinzento; gola voltada com bandas de largura entre 0,070 m e 0,080 m, sem casa. O comprimento vai até 0,050 m abaixo da curva do joelho.
+Art. 46.º A gabardina para oficiais, aspirantes a oficial e cadetes (figs. 44 e 45) é de tecido misto - poliéster e viscose ou algodão - na cor azul-escura e forrada de nylon cinzento; gola voltada com bandas de largura entre 0,070 m e 0,080 m, sem casa. O comprimento vai até 0,050 m abaixo da curva do joelho.
 
 É simples (não assertoada), com uma única ordem de três botões cinzentos de 0,025 m de diâmetro, para usar abotoados; os botões ficam espaçados 0,120 m a 0,160 m, segundo a altura do militar.
 
@@ -107,6 +115,6 @@ Nos ombros tem platinas amovíveis de 0,040 m de largura, do mesmo tecido, entre
 
 Ministério da Marinha, 29 de Dezembro de 1969. - O Ministro da Marinha, Manuel Pereira Crespo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/12/30200/18551856.pdf))](https://files.diariodarepublica.pt/1s/1969/12/30200/18551856.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/12/30200/18551856.pdf)
 
 Ministério da Marinha, 29 de Dezembro de 1969. - O Ministro da Marinha, Manuel Pereira Crespo.

@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/711-1984-399204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T08:11:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc7af09bd6e426d21e65235e92e3a424aa6ef28d968f50ac7a2968bc3bec5ced
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 481fa2e2ce6efaed321b3815dc149b48ac0caaba0db93a9fd933a089b908ddce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:11:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Direcção Geral do Equipamento Regional e Urbano
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:381512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:308135:por
+  label: Rectificada pela DECL.DD5380.19.09.1984.PCM, DR.IS [227]Supl de 29.09.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-308135
+  date: '1984-09-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:11:24Z'
   warnings: []
   errors: []
 ---
@@ -95,6 +116,6 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e do Equipamento Social.
 
-**Assinada em 29 de Agosto de 1984.**
+Assinada em 29 de Agosto de 1984.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro do Equipamento Social, João Rosado Correia. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.

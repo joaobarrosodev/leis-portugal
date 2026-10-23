@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 191/2015, 1º Suplemento, Série I de 2015-09-30
   number: '191'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8560-(224) a 8560-(229)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/19101/0022400229.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/214-d/2015/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-d-2015-70409926
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d673cc2e6359d329db29d0e0f6dba8fbb1ffcf623b8d295f0de514bf0819a4e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53e60a591234466588fd818710f7b65f285ce46b18e96c4d505f6e3b70fd6c6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,8 +71,8 @@ subjects:
 - Aproximação das Legislações
 - Arbitragem
 - Caminhos de Ferro
-- Transporte Ferroviário
 - Segurança Ferroviária
+- Transporte Ferroviário
 - Tribunal Arbitral
 relationships:
 - type: cites
@@ -111,6 +111,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/41-a/2010/04/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/41-a/2010/04/29/p/dre
+- type: cites
+  target: pt:dre:300828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58273537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639146:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32004L0049
   label: null
@@ -122,13 +146,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:33Z'
   warnings: []
   errors: []
 ---
@@ -167,15 +191,15 @@ O presente decreto-lei entra em vigor no primeiro dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 10 de setembro de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Anabela Maria Pinto de Miranda Rodrigues - Sérgio Paulo Lopes da Silva Monteiro.
 
-**Promulgado em 24 de setembro de 2015.**
+Promulgado em 24 de setembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de setembro de 2015.**
+Referendado em 28 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 

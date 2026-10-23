@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/83-1986-222024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T07:36:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b37a9a7e35c24ba74a3047647b078e0bcdce452fa0c82282c40179b243f8071
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc51bf793dc834e2d1a89fa61727606542160792686194a0368edcf6d2e74dbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:36:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Pessoal Docente
+- Universidade do Minho
+relationships:
+- type: cites
+  target: pt:dre:182227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191573:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:36:32Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +105,7 @@ Considerando não haver aumento de encargos, dado tratar-se de docentes com a me
 
 Ouvido o Ministro da Educação e Cultura:
 
-**O Ministro das Finanças determina, ao abrigo do artigo 12.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, e do artigo 1.º do [Decreto-Lei n.º 192/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1985-182227), de 24 de Junho, o seguinte:**
+O Ministro das Finanças determina, ao abrigo do artigo 12.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, e do artigo 1.º do [Decreto-Lei n.º 192/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1985-182227), de 24 de Junho, o seguinte:
 
 1 - A admissão de pessoal docente para a Universidade do Minho, no ano lectivo de 1985-1986, considera-se descongelada no número de unidades e nas categorias constantes do mapa anexo ao presente despacho normativo.
 
@@ -100,4 +115,4 @@ Ministério das Finanças, 29 de Agosto de 1986. - O Ministro das Finanças, Mig
 
 MAPA ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/21300/25632564.pdf))](https://files.diariodarepublica.pt/1s/1986/09/21300/25632564.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/21300/25632564.pdf)

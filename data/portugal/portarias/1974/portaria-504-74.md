@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/504-1974-475701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T04:28:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b12fe2311c58883444331e3f430b2beafac97106e560aa099545a4b28a6e01af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c043d04bb5ee6f34c179a607d464d6a9ab9712b64c98beb9f3d6cb9ee725816
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:28:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:635251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673851:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:28:59Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +105,11 @@ Manda o Governo Provisório da República Portuguesa, pelo Ministro da Coordena�
 
 3.º Os artigos 1.º, 5.º, n.º 2, alínea c), 6.º, n.os 1 e 2, e 8.º, n.º 2, passam a ter a seguinte redacção:
 
-###### Artigo 1.º Compete às Juntas Governativas de Angola e de Moçambique e aos governadores dos restantes territórios ultramarinos decidir sobre os pedidos de reconhecimento de confissões religiosas, nos termos da base IX da [Lei n.º 4/71](https://diariodarepublica.pt/dr/detalhe/lei/4-1971-635251), de 21 de Agosto, bem como proceder à respectiva revogação, nos termos da base X da mesma lei.
+Artigo 1.º Compete às Juntas Governativas de Angola e de Moçambique e aos governadores dos restantes territórios ultramarinos decidir sobre os pedidos de reconhecimento de confissões religiosas, nos termos da base IX da [Lei n.º 4/71](https://diariodarepublica.pt/dr/detalhe/lei/4-1971-635251), de 21 de Agosto, bem como proceder à respectiva revogação, nos termos da base X da mesma lei.
 
 ...
 
-###### Art. 5.º - 1. ...
+Art. 5.º - 1. ...
 
 2. ...
 
@@ -111,7 +119,7 @@ b) ...
 
 c) Documento comprovativo de a constituição obedecer às normas de hierarquia e disciplina da confissão religiosa a que pertença a associação ou o instituto, emitido pelos órgãos competentes dessa confissão.
 
-###### Art. 6.º - 1. Verificada a regularidade da participação a que o artigo anterior se refere, proceder-se-á ao respectivo registo no prazo de trinta dias a contar da data de entrada da participação.
+Art. 6.º - 1. Verificada a regularidade da participação a que o artigo anterior se refere, proceder-se-á ao respectivo registo no prazo de trinta dias a contar da data de entrada da participação.
 
 2. Se a participação não contiver as indicações necessárias ou não se mostrar instruída com os documentos exigidos, será notificado o participante para, no prazo que for fixado, mas não inferior a quinze dias, suprir as deficiências existentes.
 
@@ -119,7 +127,7 @@ c) Documento comprovativo de a constituição obedecer às normas de hierarquia 
 
 ...
 
-###### Art. 8.º - 1. ...
+Art. 8.º - 1. ...
 
 2. A participação a que se refere o número anterior incumbe ao órgão para ela competente segundo as normas de hierarquia e disciplina da confissão religiosa, conterá as indicações relativas às modificações efectuadas na associação ou instituto ou à sua extinção e será instruída com os documentos que se mostrem necessários à prova dos factos a que respeita.
 

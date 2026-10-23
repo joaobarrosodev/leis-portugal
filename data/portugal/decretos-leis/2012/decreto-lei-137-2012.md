@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/137/2012/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2903a3bde0a535487563707123bd7143f78423bb6a0475c9fe09f926102ae4b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d69129baa05ff28007d669c5d5cb9e6f6fc56498d3565378de27a7c59ad8b0ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração do Ensino
-- Eleição
 - Concurso
 - Conselho Administrativo
 - Conselho Geral
 - Conselho Pedagógico
 - Definição de Competências
-- Diretor
 - Direito de Participação
+- Diretor
+- Educação Pré-escolar
+- Eleição
+- Ensino Básico
+- Estabelecimento de Ensino
 - Estudante
 - Gestão Escolar
-- Recrutamento de Pessoal
 - Mandato
 - Organismo do Estado
-- Estabelecimento de Ensino
 - Pessoal Docente
 - Presidente
-- Ensino Básico
+- Recrutamento de Pessoal
 - Regime Jurídico
-- Educação Pré-escolar
 relationships:
 - type: amended_by
   target: pt:dre:1153917395:por
@@ -131,16 +131,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/85/2009/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/85/2009/08/27/p/dre
+- type: cites
+  target: pt:dre:144996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
-  article_count: 121
+  article_count: 85
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:54Z'
   warnings: []
   errors: []
 ---
@@ -225,7 +305,9 @@ e) Dimensão equilibrada e racional.
 
 7 - No exercício da respetiva autonomia, e sem prejuízo do disposto nos números anteriores, podem ainda os agrupamentos de escolas ou as escolas não agrupadas estabelecer com outras escolas, públicas ou privadas, formas temporárias ou duradouras de cooperação e de articulação aos diferentes níveis, podendo para o efeito constituir parcerias, associações, redes ou outras formas de aproximação e partilha que, de algum modo, possam contribuir para a prossecução de algum ou alguns dos objetivos previstos no presente artigo.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -235,7 +317,9 @@ e) Dimensão equilibrada e racional.
 
 4 - O contrato de autonomia é celebrado entre a administração educativa e os agrupamentos de escolas ou escolas não agrupadas, nos termos previstos no capítulo vii do presente decreto-lei.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -255,7 +339,9 @@ e) Dimensão equilibrada e racional.
 
 9 - (Anterior n.º 7.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -305,7 +391,9 @@ s) Aprovar o mapa de férias do diretor.
 
 5 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Os representantes do pessoal docente são eleitos por todos os docentes e formadores em exercício de funções no agrupamento de escolas ou escola não agrupada.
 
@@ -319,7 +407,9 @@ s) Aprovar o mapa de férias do diretor.
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -329,7 +419,9 @@ s) Aprovar o mapa de férias do diretor.
 
 4 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -383,7 +475,9 @@ f) (Revogada.)
 
 8 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -405,7 +499,9 @@ d) Possuam currículo relevante na área da gestão e administração escolar, c
 
 6 - O subdiretor e os adjuntos são nomeados pelo diretor de entre os docentes de carreira que contem pelo menos cinco anos de serviço e se encontrem em exercício de funções no agrupamento de escolas ou escola não agrupada.
 
-###### Artigo 22.º — Abertura do procedimento concursal
+Artigo 22.º
+
+Abertura do procedimento concursal
 
 1 - Não sendo aprovada a recondução do diretor cessante, o conselho geral delibera a abertura do procedimento concursal até 60 dias antes do termo do mandato daquele.
 
@@ -433,7 +529,9 @@ c) Por aviso publicado no Diário da República, 2.ª série, e divulgado em ór
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - (Anterior n.º 2.)
 
@@ -445,7 +543,9 @@ c) Por aviso publicado no Diário da República, 2.ª série, e divulgado em ór
 
 5 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - O diretor toma posse perante o conselho geral nos 30 dias subsequentes à homologação dos resultados eleitorais pelo diretor-geral da Administração Escolar, nos termos do n.º 4 do artigo anterior.
 
@@ -453,7 +553,9 @@ c) Por aviso publicado no Diário da República, 2.ª série, e divulgado em ór
 
 3 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -483,7 +585,9 @@ c) ...
 
 11 - (Anterior n.º 9.)
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 Para além dos deveres gerais dos trabalhadores que exercem funções públicas aplicáveis ao pessoal docente, o diretor e os adjuntos estão sujeitos aos seguintes deveres específicos:
 
@@ -493,11 +597,15 @@ b) ...
 
 c) ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 O conselho pedagógico é o órgão de coordenação e supervisão pedagógica e orientação educativa do agrupamento de escolas ou escola não agrupada, nomeadamente nos domínios pedagógico-didático, da orientação e acompanhamento dos alunos e da formação inicial e contínua do pessoal docente.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - A composição do conselho pedagógico é estabelecida pelo agrupamento de escolas ou escola não agrupada nos termos do respetivo regulamento interno, não podendo ultrapassar o máximo de 17 membros e observando os seguintes princípios:
 
@@ -517,7 +625,9 @@ c) (Revogada.)
 
 6 - Os representantes do pessoal docente no conselho geral não podem ser membros do conselho pedagógico.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 ...
 
@@ -549,13 +659,17 @@ m) Propor mecanismos de avaliação dos desempenhos organizacionais e dos docent
 
 n) Participar, nos termos regulamentados em diploma próprio, no processo de avaliação do desempenho do pessoal docente.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
 2 - Nas reuniões plenárias ou de comissões especializadas, designadamente quando a ordem de trabalhos verse sobre as matérias previstas nas alíneas a), b), e), f) j), e k) do artigo anterior, podem participar, sem direito a voto, a convite do presidente do conselho pedagógico, representantes do pessoal não docente, dos pais e encarregados de educação e dos alunos.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 ...
 
@@ -565,7 +679,9 @@ b) ...
 
 c) O chefe dos serviços administrativos, ou quem o substitua.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -577,7 +693,9 @@ c) O chefe dos serviços administrativos, ou quem o substitua.
 
 5 - ...
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -605,7 +723,9 @@ c) Docentes que, não reunindo os requisitos anteriores, sejam considerados comp
 
 10 - Os coordenadores dos departamentos curriculares podem ser exonerados a todo o tempo por despacho fundamentado do diretor, após consulta ao respetivo departamento.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - ...
 
@@ -613,7 +733,9 @@ c) Docentes que, não reunindo os requisitos anteriores, sejam considerados comp
 
 3 - ...
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - ...
 
@@ -631,7 +753,9 @@ c) Docentes que, não reunindo os requisitos anteriores, sejam considerados comp
 
 8 - ...
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - ...
 
@@ -639,7 +763,9 @@ c) Docentes que, não reunindo os requisitos anteriores, sejam considerados comp
 
 3 - Os resultados do processo eleitoral para o conselho geral produzem efeitos após comunicação ao diretor-geral da Administração Escolar.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - ...
 
@@ -647,11 +773,15 @@ c) Docentes que, não reunindo os requisitos anteriores, sejam considerados comp
 
 3 - Não podem ser eleitos ou designados para os órgãos e estruturas previstos no presente decreto-lei os alunos a quem seja ou tenha sido aplicada nos últimos dois anos escolares medida disciplinar sancionatória superior à de repreensão registada ou sejam ou tenham sido no mesmo período excluídos da frequência de qualquer disciplina ou retidos por excesso de faltas.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 No exercício das suas funções, os titulares dos cargos referidos no presente regime gozam do direito à informação, à colaboração e apoio dos serviços centrais e periféricos do Ministério da Educação e Ciência.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - ...
 
@@ -659,7 +789,9 @@ No exercício das suas funções, os titulares dos cargos referidos no presente 
 
 3 - ...
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - Por contrato de autonomia entende-se o acordo celebrado entre a escola, o Ministério da Educação e Ciência, a câmara municipal e, eventualmente, outros parceiros da comunidade interessados, através do qual se definem objetivos e se fixam as condições que viabilizam o desenvolvimento do projeto educativo apresentado pelos órgãos de administração e gestão de uma escola ou de um agrupamento de escolas.
 
@@ -683,7 +815,9 @@ a) Um projeto educativo contextualizado, consistente e fundamentado;
 
 b) ...
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - ...
 
@@ -719,7 +853,9 @@ c) A evolução dos resultados escolares e do abandono escolar.
 
 4 - ...
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - Para aplicação do regime de autonomia, administração e gestão estabelecido pelo presente decreto-lei constitui-se, em cada unidade orgânica resultante da constituição de agrupamentos ou agregações nele previstas, um conselho geral com caráter transitório.
 
@@ -749,7 +885,9 @@ c) A evolução dos resultados escolares e do abandono escolar.
 
 14 - ...
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
@@ -765,7 +903,9 @@ c) Proceder à eleição do diretor, caso não esteja ainda eleito o conselho ge
 
 4 - Sem prejuízo do disposto no n.º 4 do artigo anterior, até à entrada em vigor do regulamento interno previsto na alínea a) do n.º 1, mantêm-se em vigor, relativamente a cada estabelecimento de educação pré-escolar, escola ou agrupamento integrados na nova unidade orgânica, os respetivos regulamentos internos, os quais são aplicados sempre que as situações a contemplar respeitem aos membros da comunidade escolar em causa.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - No prazo máximo de 30 dias úteis após o início do ano escolar, o presidente do conselho geral cessante da escola não agrupada ou agrupamento de escolas a que pertencia a escola sede da nova unidade orgânica desencadeia os procedimentos necessários à eleição e designação dos membros do conselho geral transitório.
 
@@ -777,7 +917,9 @@ c) Proceder à eleição do diretor, caso não esteja ainda eleito o conselho ge
 
 5 - No caso de o conselho geral não estar constituído até 31 de março, cabe ao conselho geral transitório desencadear o procedimento para recrutamento do diretor e proceder à sua eleição.
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - Os conselhos gerais das escolas não agrupadas ou agrupamentos sujeitos a processos de reorganização nos termos do presente capítulo mantêm-se em funções até à tomada de posse dos membros do conselho geral transitório da nova unidade orgânica.
 
@@ -793,11 +935,15 @@ c) Proceder à eleição do diretor, caso não esteja ainda eleito o conselho ge
 
 7 - (Revogado.)
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 Na inexistência de alterações legislativas que imponham a sua revisão antecipada, os regulamentos internos dos agrupamentos de escolas e das escolas não agrupadas, aprovados nos termos da alínea d) do n.º 1 do artigo 13.º, podem ser revistos ordinariamente quatro anos após a sua aprovação e extraordinariamente, a todo tempo, por deliberação do conselho geral, aprovada por maioria absoluta dos membros em efetividade de funções.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - Nos casos em que não seja possível realizar as operações conducentes ao procedimento concursal para recrutamento do diretor, o procedimento concursal tenha ficado deserto ou todos os candidatos tenham sido excluídos, bem como na situação a que se refere o n.º 4, a sua função é assegurada por uma comissão administrativa provisória constituída por docentes de carreira, com a composição prevista no artigo 19.º, nomeada pelo dirigente dos serviços competentes do Ministério da Educação e Ciência, pelo período máximo de um ano escolar.
 
@@ -831,7 +977,9 @@ e) As escolas com contrato de autonomia.
 
 2 - A integração em agrupamentos ou a agregação das escolas referidas no número anterior depende da sua iniciativa.
 
-###### Artigo 9.º-A — Integração dos instrumentos de gestão
+Artigo 9.º-A
+
+Integração dos instrumentos de gestão
 
 1 - Os instrumentos de gestão a que se refere o artigo anterior, constituindo documentos diferenciados, obedecem a uma lógica de integração e de articulação, tendo em vista a coerência, a eficácia e a qualidade do serviço prestado.
 
@@ -841,7 +989,9 @@ a) No projeto educativo, que constitui um documento objetivo, conciso e rigoroso
 
 b) No plano anual e plurianual de atividades, que concretiza os princípios, valores e metas enunciados no projeto educativo elencando as atividades e as prioridades a concretizar no respeito pelo regulamento interno e o orçamento.
 
-###### Artigo 22.º-A — Candidatura
+Artigo 22.º-A
+
+Candidatura
 
 1 - A admissão ao procedimento concursal é efetuada por requerimento acompanhado, para além de outros documentos exigidos no aviso de abertura, pelo curriculum vitae e por um projeto de intervenção no agrupamento de escolas ou escola não agrupada.
 
@@ -849,7 +999,9 @@ b) No plano anual e plurianual de atividades, que concretiza os princípios, val
 
 3 - No projeto de intervenção o candidato identifica os problemas, define a missão, as metas e as grandes linhas de orientação da ação, bem como a explicitação do plano estratégico a realizar no mandato.
 
-###### Artigo 22.º-B — Avaliação das candidaturas
+Artigo 22.º-B
+
+Avaliação das candidaturas
 
 1 - As candidaturas são apreciadas pela comissão permanente do conselho geral ou por uma comissão especialmente designada para o efeito por aquele órgão.
 
@@ -927,13 +1079,13 @@ As disposições regulamentares aprovadas ao abrigo do [Decreto-Lei n.º 75/2008
 
 Visto e aprovado em Conselho de Ministros de 24 de maio de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 26 de junho de 2012.**
+Promulgado em 26 de junho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de junho de 2012.**
+Referendado em 28 de junho de 2012.
 
 Pelo Primeiro-Ministro, Vítor Louçã Rabaça Gaspar, Ministro de Estado e das Finanças.
 

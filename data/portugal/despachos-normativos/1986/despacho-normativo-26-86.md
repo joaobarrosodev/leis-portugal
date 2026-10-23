@@ -49,36 +49,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1986-196191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T07:35:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8cec109e7c0abf9798bb18eda81fd8668836a4eefdf8b2e400c05de880e568d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1705a2bec75ba7cbf32c8fe4a5bd34f22bef473bcf7a9d9afbf45ea07756f91b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:35:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Aveiro
+- Coimbra
+- Ensino Superior
+- Instituto Superior de Contabilidade e Administração
+- Lisboa
+- Pessoal Docente
+- Porto
+relationships:
+- type: cites
+  target: pt:dre:141216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191573:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578678:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:403124:por
+  label: Rectificado pela DECL.DD4789.07.04.1986.PCM, DR.IS [99]6ºSupl de 30.04.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-403124
+  date: '1986-04-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:35:01Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +134,7 @@ Tornando-se indispensável proceder à necessária alteração;
 
 Ouvido o Ministro da Educação e Cultura:
 
-**O Ministro das Finanças determina, ao abrigo do artigo 12.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, e do artigo 1.º do [Decreto-Lei n.º 192/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1985-182227), de 24 de Junho, o seguinte:**
+O Ministro das Finanças determina, ao abrigo do artigo 12.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, e do artigo 1.º do [Decreto-Lei n.º 192/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1985-182227), de 24 de Junho, o seguinte:
 
 1 - A admissão de pessoal docente para os Institutos Superiores de Contabilidade e Administração de Aveiro, Lisboa, Porto e Coimbra no ano lectivo de 1985-1986 considera-se descongelada no número de unidades e nas categorias constantes do mapa anexo ao presente despacho normativo.
 
@@ -103,4 +144,4 @@ Ministério das Finanças, 10 de Março de 1986. - Pelo Ministro das Finanças, 
 
 MAPA ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/03/07300/07350736.pdf))](https://files.diariodarepublica.pt/1s/1986/03/07300/07350736.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/03/07300/07350736.pdf)

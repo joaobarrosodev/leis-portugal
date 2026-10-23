@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1981-388071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:04:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3f0a578eae5f578a8120632b6ec0895d44f9e3fdf61ac335a901300d74355e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8062c5abf12fe1263e2c7fbb586196b5f2e66ea52ad813c9b493736883bda0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:04:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA NON Aedificandi
+- Coimbra
+- CP
+- Normas de Segurança
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:264553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:04:41Z'
   warnings: []
   errors: []
 ---
@@ -94,21 +107,21 @@ Considerando o disposto no n.º 4 do artigo 30.º do Regulamento para a Explora�
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Até à aprovação dos planos ou anteprojectos de ampliação das infra-estruturas na linha do Norte serão consideradas áreas non aedificandi as faixas de terreno confinantes, à esquerda e à direita, desta linha férrea, entre os quilómetros 197,600 e 216,600, conforme os limites e distâncias expressos nos desenhos n.os L-003660, L-003661, L-003662, L-003663, L-003664, L-003665 e L-003666, anexos a este diploma e referidos ao eixo da via actual, também descritos no quadro junto.
+Artigo 1.º Até à aprovação dos planos ou anteprojectos de ampliação das infra-estruturas na linha do Norte serão consideradas áreas non aedificandi as faixas de terreno confinantes, à esquerda e à direita, desta linha férrea, entre os quilómetros 197,600 e 216,600, conforme os limites e distâncias expressos nos desenhos n.os L-003660, L-003661, L-003662, L-003663, L-003664, L-003665 e L-003666, anexos a este diploma e referidos ao eixo da via actual, também descritos no quadro junto.
 
-###### Art. 2.º A implantação de edifícios, arruamentos, passagens de nível ou qualquer outro tipo de ampliação ou construção na área referida no artigo anterior fica sujeita, caso a caso, a autorização e aprovação especial do Ministro dos Transportes e Comunicações, sob proposta dos Caminhos de Ferro Portugueses, E. P.
+Art. 2.º A implantação de edifícios, arruamentos, passagens de nível ou qualquer outro tipo de ampliação ou construção na área referida no artigo anterior fica sujeita, caso a caso, a autorização e aprovação especial do Ministro dos Transportes e Comunicações, sob proposta dos Caminhos de Ferro Portugueses, E. P.
 
-###### Art. 3.º Os limites e distâncias da área non aedificandi definidos no artigo 1.º serão revistos decorridos cinco anos, para o que se tomará em consideração a evolução dos estudos das ampliações em causa.
+Art. 3.º Os limites e distâncias da área non aedificandi definidos no artigo 1.º serão revistos decorridos cinco anos, para o que se tomará em consideração a evolução dos estudos das ampliações em causa.
 
-###### Art. 4.º Este diploma entra em vigor na data da sua publicação
+Art. 4.º Este diploma entra em vigor na data da sua publicação
 
 Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 20 de Fevereiro de 1981.**
+Promulgado em 20 de Fevereiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro a que se refere o artigo 1.º
 
@@ -118,4 +131,4 @@ Troço Alfarelos-Coimbra
 
 Terrenos a declarar como área «non aedificandi»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/03/06000/06910695.pdf))](https://files.diariodarepublica.pt/1s/1981/03/06000/06910695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/03/06000/06910695.pdf)

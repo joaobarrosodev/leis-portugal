@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10400/36033609.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/223/2007/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-2007-638731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71cb2680c83efe31915244c28018cf949cffcfdf0c9cefe4447bb8de1d638979
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a6ad8955b20c6787c08cd7d663b297ca9cc934e0da9bf10a77eb3883855d8df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
-- Definição de Competências
-- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
-- Conselho Diretivo
 - Conselho Consultivo
+- Conselho Diretivo
+- Definição de Competências
+- Fiscal Único
 - Instituto da Habitação e da Reabilitação Urbana
+- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
 - Orgânica
 relationships:
 - type: amended_by
@@ -109,16 +109,89 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:204029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674051:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:179064:por
+  label: "Revogado, a partir de 01.09.2012, pelo DEC LEI.175/2012.02.08.2012.MAMAOT, DR.IS [149] de 02.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/175-2012-179064
+  date: '2012-08-02'
 article_structure:
   article_count: 26
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:10Z'
   warnings: []
   errors: []
 ---
@@ -521,12 +594,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - Mário Vieira de Carvalho.
 
-**Promulgado em 18 de Maio de 2007.**
+Promulgado em 18 de Maio de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 27 de Maio de 2007.**
+Referendado em 27 de Maio de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

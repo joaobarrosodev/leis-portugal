@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/09000/08690870.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/208-1977-139893
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T05:16:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c93595978e3b3388dce256bb9777ba017d18789db3274f6b26bd801ee5bebbac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0995725b2ae9e130dfbf5d5609b97a988223217b80e89f0b9615f21417c38c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:16:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Administração de Portos
+- Embarcação
+- Fiscalização
+- Licença de Pilotagem
+- Madeira.ilha Adjacente
+- Navegação Marítima
+- Normas de Segurança
+- Regulamento
+- Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e das Ilhas Adjacentes
+- Serviço de Pilotagem dos Portos e Barras
+- TAXA de Pilotagem
+relationships:
+- type: cites
+  target: pt:dre:312232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353078:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:16:49Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +119,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha 
 
 São suprimidos ou substituídos pelo articulado do presente diploma os artigos 107.º, 110.º, 138.º, 143.º e 146.º e as taxas de pilotagem da tabela C do Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e Ilhas Adjacentes, aprovado pelo [Decreto n.º 41668](https://diariodarepublica.pt/dr/detalhe/decreto/41668-1958-353078), de 7 de Junho de 1958:
 
-###### Art. 107.º A pilotagem fora do horário normal é remunerada pelas verbas das tabelas A, AA e B, acrescidas das sobretaxas seguintes:
+Art. 107.º A pilotagem fora do horário normal é remunerada pelas verbas das tabelas A, AA e B, acrescidas das sobretaxas seguintes:
 
 50%: de segunda-feira a sexta-feira, entre as 12 e as 13 horas e entre as 17 e as 24 horas, e ao sábado, entre as 12 e as 17 horas;
 
@@ -107,9 +127,9 @@ São suprimidos ou substituídos pelo articulado do presente diploma os artigos 
 
 § único. Para os fins do corpo deste artigo, o horário normal fica definido entre as 8 e as 12 horas e entre as 13 e as 17 horas dos dias úteis, de segunda-feira a sexta-feira, e entre as 8 e as 12 horas de sábado.
 
-###### Art. 110.º (Suprimido.)
+Art. 110.º (Suprimido.)
 
-###### Art. 138.º A pilotagem de entrada ou de saída do porto do Douro compreende o percurso entre a orla exterior dos bancos de fora e a passagem pelo cais do Marégrafo; a de Leixões, o percurso entre uma distância não superior a duas milhas, contadas a partir do farolim do Esporão, e a linha que une os farolins dos molhes de abrigo (molhe norte e molhe sul).
+Art. 138.º A pilotagem de entrada ou de saída do porto do Douro compreende o percurso entre a orla exterior dos bancos de fora e a passagem pelo cais do Marégrafo; a de Leixões, o percurso entre uma distância não superior a duas milhas, contadas a partir do farolim do Esporão, e a linha que une os farolins dos molhes de abrigo (molhe norte e molhe sul).
 
 § 1.º Toda a navegação feita no rio Douro para montante do limite da zona de entrada será remunerada por 50% da tabela A.
 
@@ -133,9 +153,9 @@ Tabela B - pela manobra de atracação;
 
 De saída os navios pagarão as mesmas tabelas pela ordem inversa.
 
-###### Art. 143.º Os serviços de pilotagem que não estejam previstos no presente diploma serão regulados pelo director-geral do Pessoal do Mar, mediante proposta do chefe da Corporação.
+Art. 143.º Os serviços de pilotagem que não estejam previstos no presente diploma serão regulados pelo director-geral do Pessoal do Mar, mediante proposta do chefe da Corporação.
 
-###### Art. 146.º (Suprimido.)
+Art. 146.º (Suprimido.)
 
 Taxas de pilotagem
 

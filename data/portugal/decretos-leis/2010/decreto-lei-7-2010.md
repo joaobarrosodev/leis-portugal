@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/7/2010/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2010-616805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ee8c89c33a492ef512b8278a613734cfc2b1333eae1d4f0ab64ba33508fe7fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa93ef3d848e286701753735793edf61957d394bc75bbd9d094f5aa0a517bdfe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Aproximação das Legislações
 - CE Países
 - Certificado Fitossanitário
-- Doença Vegetal
 - Controlo Sanitário
-- Importação
-- Proteção do Ambiente
+- Doença Vegetal
 - Exportação
-- Proteção Fitossanitária
+- Importação
 - Produção Vegetal
-- Agricultura
 - Produto Agrícola
+- Proteção do Ambiente
+- Proteção Fitossanitária
 - Vegetais
 relationships:
 - type: amended_by
   target: pt:dre:1153918006:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613403:por
+  label: "Alterados os anexos II, III e IV, do Dec Lei 154/2005, de 06-Set, na redacção do presente diploma, pelo DEC LEI.32/2010.13.04.2010.MADRP,\
+    \ DR.IS [71] de 13.04.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2010-613403
+  date: '2010-04-13'
+- type: amended_by
+  target: pt:dre:58801094:por
+  label: Alterados os anexos II, III, IV e V do Dec Lei 154/2005, de 06-set, na redação do presente diploma pelo(a) Decreto-Lei
+    n.º 170/2014 - Diário da República n.º 216/2014, Série I de 2014-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-2014-58801094
+  date: '2014-11-07'
+- type: amended_by
+  target: pt:dre:114163923:por
+  label: Alterados os anexos II, III, IV e V do Dec Lei 154/2005 de 06-set, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 137/2017 - Diário da República n.º 215/2017, Série I de 2017-11-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-2017-114163923
+  date: '2017-11-08'
+- type: amended_by
+  target: pt:dre:115487880:por
+  label: Alterado o anexo IV do Dec Lei 154/2005, de 06-set, na redação do presente dilpoma, pelo(a) Decreto-Lei n.º 41/2018
+    - Diário da República n.º 111/2018, Série I de 2018-06-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2018-115487880
+  date: '2018-06-11'
+- type: amended_by
+  target: pt:dre:125468544:por
+  label: Alterados os anexos ii, iii, iv e v ao Dec Lei 154/2005 de 06-set, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 154/2019 - Diário da República n.º 201/2019, Série I de 2019-10-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2019-125468544
+  date: '2019-10-18'
 - type: cites
   target: celex:32000L0029
   label: null
@@ -98,16 +128,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/154/2005/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/154/2005/09/06/p/dre
+- type: repealed_by
+  target: pt:dre:142870334:por
+  label: Revogado pelo(a) Decreto-Lei n.º 67/2020 - Diário da República n.º 180/2020, Série I de 2020-09-15, sem prejuízo
+    do disposto no art. 28.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2020-142870334
+  date: '2020-09-15'
 article_structure:
   article_count: 3
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:46Z'
   warnings: []
   errors: []
 ---
@@ -148,25 +184,27 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Dezembro de 2009. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - António Manuel Soares Serrano - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Ana Maria Teodoro Jorge.
 
-**Promulgado em 7 de Janeiro de 2010.**
+Promulgado em 7 de Janeiro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 11 de Janeiro de 2010.**
+Referendado em 11 de Janeiro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
-## ANEXO II — PARTE A
+## ANEXO II
+
+## PARTE A
 
 [...]
 
 [...]
 
-# PARTE B — [...]
+## PARTE B — [...]
 
 a) [...]
 
@@ -174,27 +212,31 @@ a) [...]
 
 b) [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf))](https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf)
 
 c) [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf))](https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf)
 
 d) [...]
 
 [...]
 
-## ANEXO III — PARTE A
+## ANEXO III
+
+## PARTE A
 
 [...]
 
 [...]
 
-# PARTE B — [...]
+## PARTE B — [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf))](https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf)
 
-## ANEXO IV — PARTE A
+## ANEXO IV
+
+## PARTE A
 
 [...]
 
@@ -202,19 +244,19 @@ d) [...]
 
 #### SECÇÃO I — [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf))](https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf)
 
 #### SECÇÃO II — [...]
 
 [...]
 
-# PARTE B — [...]
+## PARTE B — [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf))](https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf)
 
 ## ANEXO V — [...]
 
-# PARTE A — [...]
+## PARTE A — [...]
 
 [...]
 
@@ -240,7 +282,7 @@ a) [...]
 
 b) [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf))](https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf)
 
 1.8 - [...]
 
@@ -270,7 +312,7 @@ b) [...]
 
 [...]
 
-# PARTE B — [...]
+## PARTE B — [...]
 
 #### SECÇÃO I — [...]
 
@@ -290,7 +332,7 @@ a) [...]
 
 b) [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf))](https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/01/01600/0023200239.pdf)
 
 7:
 

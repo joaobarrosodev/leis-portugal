@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/39/2004/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2004-568317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fc1f70e1534ed40c8d1881f2f51128340be89e0af2fe8e16eaaf3db45dd7f28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e29478a3b434fae7aff63903956bac8fd72424524112e734e0b7ef675e8f4fac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,73 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
+- Comércio
 - Controlo Sanitário
-- Saúde Pública
-- Proteção do Consumidor
 - Pesticida
 - Produto Fitofarmacêutico
-- Comércio
+- Produto Químico
+- Proteção do Consumidor
 - Saúde Animal
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:543004:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:624467:por
+  label: "Alterados os arts. 5.º e 6.º, pelo DEC LEI.22/2005.26.01.2005.MAPF, DR.IS-A [18] de 26.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2005-624467
+  date: '2005-01-26'
+- type: amended_by
+  target: pt:dre:641462:por
+  label: "Alterado o Anexo I do Dec Lei 94/98, de 15-Abr, na redacção do presente diploma, pelo DEC LEI.334/2007.10.10.2007.MADRP,\
+    \ DR.IS [195] de 10.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/334-2007-641462
+  date: '2007-10-10'
+- type: amended_by
+  target: pt:dre:246540:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-Abr, na redacção do presente diploma, pelo DEC LEI.61/2008.28.03.2008.MADRP,\
+    \ DR.IS [62] de 28.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2008-246540
+  date: '2008-03-28'
+- type: amended_by
+  target: pt:dre:490243:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-Abr, na redacção do presente diploma, pelo DEC LEI.240/2009.16.09.2009.MADRP,\
+    \ DR.IS [180] de 16.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-2009-490243
+  date: '2009-09-16'
+- type: amended_by
+  target: pt:dre:614299:por
+  label: "Alterado, e publicado em anexo, o anexo i do Dec Lei 94/98, de 15-Abr, na redacção do presente diploma, pelo DEC\
+    \ LEI.44/2010.03.05.2010.MADRP, DR.IS [85] de 03.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2010-614299
+  date: '2010-05-03'
+- type: amended_by
+  target: pt:dre:342790:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-Abr, na redacção do presente diploma, pelo DEC LEI.106/2010.01.10.2010.MADRP,\
+    \ DR.IS [192] de 01.10.2010, de acordo com o respectivo anexo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-2010-342790
+  date: '2010-10-01'
+- type: amended_by
+  target: pt:dre:279674:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-Abr,na redacção do presente diploma, pelo DEC LEI.24/2011.11.02.2011.MADRP,\
+    \ DR.IS [30] de 11.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2011-279674
+  date: '2011-02-11'
+- type: amended_by
+  target: pt:dre:670023:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-Abr, na redacção do presente diploma, pelo DEC LEI.80/2011.20.06.2011.MADRP,\
+    \ DR.IS [117] de 20.06.2011, de acordo com o respectivo anexo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2011-670023
+  date: '2011-06-20'
+- type: amended_by
+  target: pt:dre:543004:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-abr, na redacção do presente diploma, pelo DEC LEI.37/2012.16.02.2012.MAMAOT,\
+    \ DR.IS [34] de 16.02.2012, de acordo com o respectivo anexo.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-2012-543004
+  date: '2012-02-16'
 - type: cites
   target: celex:31991L0414
   label: null
@@ -110,13 +163,13 @@ relationships:
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:23Z'
   warnings: []
   errors: []
 ---
@@ -197,15 +250,15 @@ c) A partir de 1 de Julho de 2004 para as substâncias activas 2,4-DB, beta-cifl
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2003. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 12 de Fevereiro de 2004.**
+Promulgado em 12 de Fevereiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Fevereiro de 2004.**
+Referendado em 17 de Fevereiro de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Entradas a aditar ao quadro do anexo I do Decreto-Lei n.º 94/98, de 15 de Abril
 

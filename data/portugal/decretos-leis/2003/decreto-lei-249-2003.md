@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/249/2003/10/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2003-481731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36a01adbc83c4a74b9f1bb0758e692ad786a695b1096234b727f70ebe59afe38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afdc1766e5625efda0f2f8ecb8a684ec706f94e665a5694d5ec0ed630b775d36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,26 @@ reuse:
 subjects:
 - ADSE
 - Assistência Medicamentosa
-- Indústria Farmacêutica
-- Ministro da Saúde
+- Comércio
 - Comparticipação do Estado
 - Definição de Competências
-- Serviço Nacional de Saúde
-- Medicamento
+- Indústria Farmacêutica
 - Licenciamento
+- Medicamento
+- Ministro da Saúde
 - Preço
-- Comércio
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:518420:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518420:por
+  label: "Alterado o art. 6º do Dec Lei 118/92, de 25-Jun, na redacção do presente diploma, pelo DEC LEI.65/2007.14.03.2007.MS,\
+    \ DR.IS [52] de 14.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-2007-518420
+  date: '2007-03-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/1992/06/25/p/dre
   label: null
@@ -111,16 +117,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/84/2001/08/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/84/2001/08/03/p/dre
+- type: cites
+  target: pt:dre:302737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:540387:por
+  label: "Revogado o Dec Lei 72/91, de 08-Fev, na redacção do presente diploma, pelo Dec Lei.176/2006.30.08.2006.MS, DR.IS\
+    \ [167] de 30.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-2006-540387
+  date: '2006-08-30'
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:50Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +213,9 @@ Os artigos 20.º e 21.º do [Decreto-Lei n.º 72/91](https://diariodarepublica.p
 
 5 - Os medicamentos comparticipados que obtenham a autorização prevista nos n.os 3 e 4 mantêm automaticamente a respectivamente comparticipação, devendo para o efeito notificar as entidades competentes, com a antecedência mínima de 30 dias, do novo preço a praticar, quando for caso disso.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Os medicamentos genéricos são identificados pela denominação comum internacional das substâncias activas, seguida do nome do titular da autorização de introdução no mercado ou de um nome de fantasia, da dosagem e da forma farmacêutica e da sigla «MG», inserida na embalagem exterior do medicamento.
 
@@ -225,12 +271,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Julho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - Carlos Manuel Tavares da Silva - Luís Filipe Pereira.
 
-**Promulgado em 26 de Setembro de 2003.**
+Promulgado em 26 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Setembro de 2003.**
+Referendado em 30 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

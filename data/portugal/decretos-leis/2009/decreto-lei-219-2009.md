@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17400/0609806103.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/219/2009/09/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2009-489245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0714196c8880a3138fc7b13af63b296cdc4b6d3099abf5420de496bf57c7121
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49fdae751dfa617658e2934f90e9ec0ed0e790d2453c366a03769c49065337eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,21 +69,21 @@ subjects:
 - Acumulação de Funções
 - Almada
 - ÁREA Metropolitana
-- Sociedade Anónima
 - Barreiro
-- Ordenamento do Território
 - Contrato de Concessão
-- Renovação Urbana
 - Domínio Privado do Estado
 - Domínio Público do Estado
 - Estatuto
-- Lisboa
-- IVA
 - Interesse Público
+- IVA
+- Lisboa
+- Ordenamento do Território
 - Parque EXPO 98
 - Projecto do ARCO Ribeirinho SUL
 - Reconversão Industrial
+- Renovação Urbana
 - Seixal
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:553605:por
@@ -97,16 +97,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/66/2009/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/66/2009/08/07/p/dre
+- type: cites
+  target: pt:dre:453873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494009:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553605:por
+  label: "Revogado pelo DEC LEI.57/2012.12.03.2012.MAMAOT, DR.IS [51] de 12.03.2012, sendo as atribuições e competências relativas\
+    \ à promoção do Projeto do Arco Ribeirinho Sul transferidas para a Baía do Tejo, S. A.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-2012-553605
+  date: '2012-03-12'
 article_structure:
   article_count: 35
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:43Z'
   warnings: []
   errors: []
 ---
@@ -261,15 +275,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira - Francisco Carlos da Graça Nunes Correia - Fernando Teixeira dos Santos - Mário Lino Soares Correia - José António de Melo Pinto Ribeiro.
 
-**Promulgado em 30 de Agosto de 2009.**
+Promulgado em 30 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de Setembro de 2009.**
+Referendado em 1 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 5.º)
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/062a00/09200923.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/34/2000/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2000-411976
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 510425d007e66ec812befa06459aade17847f1e6cf125cab4b7be8b642263ff9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 539fd4177d15a670916ef77487f607b411a0ce4bd6d9e33f2d643294e16d6485
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Acções
-- Sociedade Anónima
 - Capital Social
-- Criação de Empresas
 - Cisão de Empresas
+- Criação de Empresas
 - Gestão do Património
 - Integração de Trabalhadores
 - Isenção Fiscal
@@ -78,6 +77,7 @@ subjects:
 - Privatização
 - Reestruturação de Empresas
 - SGPS
+- Sociedade Anónima
 - TAP
 - Tap-manutenção e Engenharia
 - TAP-Serviços Portugueses de Handling
@@ -86,6 +86,12 @@ relationships:
   target: pt:dre:176049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:233298:por
+  label: "Alterados os arts. 2º, 8º, 14º e 17º e aditado o art. 19º ao Dec Lei 122/98 de 09-Mai,alterado pelo presente diploma,\
+    \ pelo DEC LEI.57/2003.2003.03.28.MOPTH, DR.IS-A [74]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-2003-233298
+  date: '2003-03-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/122/1998/05/09/p/dre
   label: null
@@ -106,16 +112,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674435:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:176049:por
+  label: "Revogado, a partir de 24.09.2012, o Dec Lei 122/98, de 09-maio, na redação do presente diploma, pelo DEC LEI.210/2012.21.09.2012.MF,\
+    \ DR.IS [184] de 21.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-2012-176049
+  date: '2012-09-21'
 article_structure:
-  article_count: 10
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:03Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +198,9 @@ Os artigos 1.º, 3.º, 9.º, 10.º, 14.º, 15.º e 16.º do [Decreto-Lei n.º 12
 
 3 - O processo de reprivatização regulado pelo presente diploma pode ter sequência em fases posteriores, aprovadas através de decreto-lei.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -164,7 +210,9 @@ Os artigos 1.º, 3.º, 9.º, 10.º, 14.º, 15.º e 16.º do [Decreto-Lei n.º 12
 
 4 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -176,7 +224,9 @@ Os artigos 1.º, 3.º, 9.º, 10.º, 14.º, 15.º e 16.º do [Decreto-Lei n.º 12
 
 5 - A aquisição de acções pelos trabalhadores no âmbito da oferta pública de venda referida no n.º 1 pode ter como contrapartida créditos resultantes de ganhos de produtividade obtidos nos termos do n.º 8 do artigo 15.º, devendo a resolução do Conselho de Ministros que estabelecer as condições finais e concretas das operações da 2.ª fase de reprivatização fixar o número de acções da TAP, SGPS, estritamente necessárias, até ao limite referido no n.º 2, a doar pelo Estado à própria sociedade destinadas à aquisição pelos trabalhadores como contrapartida dos mesmos créditos.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - As acções adquiridas no âmbito da oferta pública de venda referida no artigo anterior ficarão indisponíveis pelos prazos, entre um e cinco anos, fixados, consoante o caso, em resolução do Conselho de Ministros, contados desde o dia da sessão especial de bolsa destinada à execução da oferta pública de venda.
 
@@ -190,7 +240,9 @@ Os artigos 1.º, 3.º, 9.º, 10.º, 14.º, 15.º e 16.º do [Decreto-Lei n.º 12
 
 6 - ...
 
-###### Artigo 14.º — Reestruturação da TAP, S. A.
+Artigo 14.º
+
+Reestruturação da TAP, S. A.
 
 1 - A reestruturação da TAP, S. A., visa, predominantemente, a viabilidade económica sustentada das três áreas de negócios principais da empresa, o transporte aéreo, a assistência em escala e a manutenção e engenharia, a partir de uma acção exaustiva de modernização da estrutura, da organização, dos processos, do funcionamento e dos sistemas de gestão, bem como de redimensionamento empresarial, fortalecendo, sem prejuízo da independência necessária de cada uma das áreas de negócio, a gestão global estratégica.
 
@@ -222,7 +274,9 @@ b) TAP - Manutenção e Engenharia, S. A.
 
 13 - Efectivada a cisão, a obrigação prevista no n.º 5 do artigo 4.º será cumprida através de subscrição de capital social de qualquer das sociedades reestruturadas, nos termos definidos pela TAP, SGPS.
 
-###### Artigo 15.º — Processo de reestruturação
+Artigo 15.º
+
+Processo de reestruturação
 
 1 - Para efeitos do disposto no artigo anterior, na parte aplicável, o conselho de administração da TAP, SGPS, promoverá a identificação do património de cada uma das sociedades reestruturadas referidas no mesmo artigo, a avaliação do mesmo, bem como a determinação dos capitais sociais respectivos.
 
@@ -256,7 +310,9 @@ f) A identificação dos contratos de trabalho e das obrigações inerentes a pr
 
 10 - Para efeitos da aplicação a cada uma das sociedades reestruturadas referidas no artigo anterior, relativamente à actual TAP, S. A., do disposto no n.º 6 do artigo 62.º do Código do IRC, bem como da aplicação ao processo de cisão ora em análise do disposto nos Decretos-Leis n.os [168/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1990-571452), de 24 de Maio, ou [404/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1990-406088), de 21 de Dezembro, conforme o caso, consideram-se verificados todos os respectivos requisitos, sem necessidade de qualquer despacho ministerial.
 
-###### Artigo 16.º — Direitos dos trabalhadores
+Artigo 16.º
+
+Direitos dos trabalhadores
 
 1 - Os trabalhadores ao serviço, pré-reformados e pensionistas da TAP, S. A., que nela ficarem ou que sejam integrados nas sociedades resultantes da cisão ou na TAP, SGPS, mantêm todos os direitos, incluindo a antiguidade, regalias e obrigações que detiverem à data da efectivação da cisão referida nos n.os 2 e 3 do artigo 14.º
 
@@ -276,7 +332,9 @@ Isenções de taxas e emolumentos
 
 2 - A eventual transmissão de acções da TAP, SGPS, do Estado para a PARTEST - Participações do Estado, SGPS, S. A., destinadas a ser alienadas no âmbito da 2.ª fase do processo de reprivatização fica isenta do pagamento de taxa de operações fora de bolsa.
 
-###### Artigo 18.º — Disposições finais
+Artigo 18.º
+
+Disposições finais
 
 1 - O disposto nos n.os 8 e 9 do artigo 15.º poderá concretizar-se na actual TAP, S. A., se motivos relevantes inerentes aos interesses económicos do grupo TAP o justificarem.
 
@@ -290,12 +348,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Fevereiro de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes Pina Moura.
 
-**Promulgado em 24 de Fevereiro de 2000.**
+Promulgado em 24 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Março de 2000.**
+Referendado em 2 de Março de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

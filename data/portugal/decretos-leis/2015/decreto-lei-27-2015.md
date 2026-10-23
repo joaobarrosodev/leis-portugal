@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/02600/0074000766.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/27/2015/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2015-66443116
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2f3ee72bcc1e605cf6de95ad0188cf75ba0a6accd73c2dc07435b9e18842e0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75e04c715a7de8e385cb2f004aa9a0fc02d82f39f3ed929ea3f9b211fb86432f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direito Marítimo
 - Aproximação das Legislações
-- Embarcação
-- Transporte Marítimo
-- Marinha Mercante
-- Pessoal do MAR
-- Fiscalização Marítima
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Direito Marítimo
+- Embarcação
+- Fiscalização Marítima
+- Marinha Mercante
 - OIT
+- Pessoal do MAR
 - Proteção do Ambiente
 - Segurança Marítima
+- Transporte Marítimo
 relationships:
 - type: cites
   target: celex:32004R0725
@@ -147,6 +147,78 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/61/2012/03/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/61/2012/03/14/p/dre
+- type: cites
+  target: pt:dre:218364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673632:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32009L0016
   label: null
@@ -156,15 +228,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 62
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 51
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:23Z'
   warnings: []
   errors: []
 ---
@@ -213,7 +285,9 @@ Os artigos 2.º, 3.º, 4.º, 16.º, 20.º, 25.º, 26.º, 30.º, 31.º, 34.º, 36
 
 6 - As medidas adotadas para efeitos do disposto no presente decreto-lei não conduzem à redução do nível geral de proteção dos marítimos em vigor em Portugal, ao abrigo do direito social da União Europeia nos domínios abrangidos pelo presente decreto-lei.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]:
 
@@ -275,7 +349,9 @@ bb) [...];
 
 cc) [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Para efeitos do disposto no presente decreto-lei, entende-se por «convenções», as seguintes convenções, bem como os respetivos protocolos e alterações, e os códigos conexos com caráter vinculativo, na sua versão atualizada:
 
@@ -303,13 +379,17 @@ k) A Convenção Internacional sobre a Responsabilidade Civil por Danos resultan
 
 2 - Todas as referências feitas no presente decreto-lei a convenções, códigos internacionais e resoluções, inclusive no que respeita a certificados e outros documentos, são consideradas como sendo referências às versões atualizadas dessas convenções, códigos internacionais e resoluções.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Após ter sido realizada a inspeção referida no artigo anterior e sempre que haja motivos inequívocos, nos termos da alínea s) do artigo 3.º, para crer que as condições em que se encontra o navio, o seu equipamento ou a sua tripulação não respeitam substancialmente os requisitos de uma convenção aplicável, é efetuada uma inspeção mais detalhada, incluindo a verificação do cumprimento das exigências operacionais a bordo.
 
 2 - [...].
 
-###### Artigo 20.º — Relatório de inspeção
+Artigo 20.º
+
+Relatório de inspeção
 
 1 - No final da inspeção inicial, da inspeção mais detalhada ou da inspeção expandida, o inspetor entrega ao comandante do navio uma cópia do relatório de inspeção, o qual contém, pelo menos, os elementos constantes do anexo X ao presente decreto-lei e que dele faz parte integrante.
 
@@ -319,7 +399,9 @@ k) A Convenção Internacional sobre a Responsabilidade Civil por Danos resultan
 
 4 - A DGRM pode ainda enviar cópia do relatório da inspeção ao diretor-geral da Organização Internacional do Trabalho, o qual deve ser acompanhado pelas respostas enviadas pelas autoridades competentes do Estado de bandeira do navio dentro do prazo prescrito, a fim de serem tomadas medidas apropriadas e úteis para garantir o registo dessas informações e a sua transmissão às partes que possam estar interessadas em fazer uso dos procedimentos de recurso pertinentes.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...].
 
@@ -341,7 +423,9 @@ b) A DGRM tenha aceite um plano de medidas para corrigir as deficiências confir
 
 8 - A DGRM comunica imediatamente ao capitão do porto as decisões referidas nos n.os 2, 3, 4, 6 e 7.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...].
 
@@ -349,7 +433,9 @@ b) A DGRM tenha aceite um plano de medidas para corrigir as deficiências confir
 
 3 - Sempre que a detenção do navio for devida a infrações graves ou repetidas das disposições obrigatórias da MLC 2006, inclusive dos direitos dos marítimos, ou por as condições de vida e de trabalho a bordo representarem um perigo manifesto para a segurança, saúde ou proteção dos marítimos, a DGRM informa imediatamente as associações representativas em Portugal dos armadores e dos marítimos a bordo e convida a administração do Estado de bandeira do navio detido, sempre que as circunstâncias o permitam, a estar presente a bordo para verificar a situação e a pronunciar-se sobre a mesma em prazo dado para o efeito.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...].
 
@@ -361,7 +447,9 @@ b) A DGRM tenha aceite um plano de medidas para corrigir as deficiências confir
 
 5 - [...].
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - O capitão do porto recusa o acesso a portos e fundeadouros nacionais aos navios referidos no n.º 1 do artigo anterior sempre que se verifique uma das seguintes circunstâncias, com base na informação transmitida previamente pela DGRM, à DGAM:
 
@@ -375,7 +463,9 @@ b) [...].
 
 4 - [...].
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...].
 
@@ -385,7 +475,9 @@ b) [...].
 
 4 - [...].
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - Para além das notificações previstas nos artigos 18.º e 33.º, as autoridades portuárias notificam ainda o capitão do porto e a DGRM das seguintes informações de que disponham:
 
@@ -397,7 +489,9 @@ c) [...].
 
 2 - Sempre que a DGRM tome conhecimento, quando da execução das medidas previstas no presente decreto-lei, de uma violação manifesta do direito da União Europeia a bordo de navios que arvorem o pavilhão de um seu Estado-membro, informa imediatamente a autoridade competente desse Estado-membro.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...]:
 
@@ -467,15 +561,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de janeiro de 2015. - Pedro Passos Coelho. - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Álvaro Barbosa de Campos Ferreira - Berta Maria Correia de Almeida de Melo Cabral - António de Magalhães Pires de Lima - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 30 de janeiro de 2015.**
+Promulgado em 30 de janeiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 2 de fevereiro de 2015.**
+Referendado em 2 de fevereiro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -521,7 +615,9 @@ II - [...]
 
 3 - [...].
 
-## ANEXO V — [...]
+ANEXO V
+
+[...]
 
 1 - [...].
 
@@ -619,7 +715,9 @@ II - [...]
 
 48 - Certificado de seguro ou qualquer outra garantia financeira de responsabilidade civil para o risco de poluição causada por combustível de bancas (Convenção Internacional sobre a Responsabilidade Civil por Danos resultantes da Poluição causada por Combustível de Bancas, 2001).
 
-## ANEXO VI — [...]
+ANEXO VI
+
+[...]
 
 A - [...]
 
@@ -663,7 +761,9 @@ A - [...]
 
 B - [...].
 
-## ANEXO XI — [...]
+ANEXO XI
+
+[...]
 
 1 - [...].
 
@@ -1509,7 +1609,7 @@ c) No caso de um fator imprevisto:
 
 (a que se refere o n.º 2 do artigo 6.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02600/0074000766.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02600/0074000766.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02600/0074000766.pdf)
 
 ## ANEXO IV — Comunicação
 
@@ -1739,7 +1839,7 @@ B - Exemplos de motivos inequívocos para o controlo dos navios em aspetos ligad
 
 (a que se refere o n.º 1 do artigo 19.º)
 
-## Anexo 1, «Procedimentos de Inspeção pelo Estado do Porto (PIEP)» ao Paris MOU e as seguintes instruções do Paris MOU, na sua versão atualizada:
+Anexo 1, «Procedimentos de Inspeção pelo Estado do Porto (PIEP)» ao Paris MOU e as seguintes instruções do Paris MOU, na sua versão atualizada:
 
 - Instruction 33/2000/02: Operational Control on Ferries and Passenger Ships (Controlo operacional de navios de passageiros e ferries);
 
@@ -2073,7 +2173,7 @@ Se a resposta a qualquer destas questões for negativa, tendo em consideração 
 
 3.7 - Áreas abrangidas pelo anexo II da MARPOL 73/78:
 
-1) Falta do manual P&D;
+1) Falta do manual P&D
 
 2) Carregamento não classificado em categorias;
 
@@ -2135,7 +2235,7 @@ Qualquer falha no bom funcionamento (ou manutenção) do sistema de gases inerte
 
 (a que se refere o artigo 5.º)
 
-# PARTE A
+## PARTE A
 
 1 - Os inspetores devem:
 
@@ -2175,7 +2275,7 @@ c) Conhecimento dos princípios, procedimentos e técnicas de inspeção;
 
 d) Conhecimento prático das operações a controlar.
 
-# PARTE B
+## PARTE B
 
 O cartão de identificação dos inspetores deve conter as seguintes informações:
 
@@ -2203,7 +2303,7 @@ f) Tradução no verso, em língua inglesa, dos elementos referidos nas alíneas
 
 2 - Os dados referidos no n.º 1.1 anterior devem ser transmitidos à Comissão Europeia segundo o seguinte modelo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02600/0074000766.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02600/0074000766.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02600/0074000766.pdf)
 
 3 - Os referidos dados devem ser fornecidos a nível nacional e para cada um dos portos nacionais. Para efeitos do presente anexo, deve entender-se por porto um porto específico, ou a área geográfica coberta por um inspetor ou uma equipa de inspetores, área essa que pode incluir vários portos, se adequado.
 

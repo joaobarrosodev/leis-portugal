@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 169/2004, 1º Suplemento, Série I-A de 2004-07-20
   number: '169'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4464-(2) a 4464-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/07/169a01/00020002.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/35-a/2004/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/35-a-2004-413395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T04:47:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 034d6c5e08121144afff0ea73c175941e87b4151d80d3361dedb3014881e9df6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1c93294a0d666f73b6af6dc13cab1c7f4ef4a704122ae40e912720f9710c15a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:47:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,40 +71,44 @@ subjects:
 - CE Países
 - Convenção
 - Cooperação Aduaneira
-- Cooperação Bilateral
-- Cooperação Comercial
-- Cooperação Financeira
-- Cooperação Jurídica
-- Cooperação Técnica
-- Portugal
-- União Europeia
-- Importação
-- Livre Circulação de Capitais
-- Livre Circulação de Mercadorias
 - Cooperação Agrícola
+- Cooperação Bilateral
 - Cooperação Científica
+- Cooperação Comercial
 - Cooperação Cultural
 - Cooperação Económica
 - Cooperação Europeia
+- Cooperação Financeira
 - Cooperação Industrial
 - Cooperação Judiciária
+- Cooperação Jurídica
 - Cooperação Política
+- Cooperação Técnica
 - Exportação
+- Importação
+- Livre Circulação de Capitais
+- Livre Circulação de Mercadorias
+- Portugal
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/52-a/2004/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/52-a/2004/07/20/p/dre
+- type: cites
+  target: pt:dre:413394:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:47:43Z'
   warnings: []
   errors: []
 ---
@@ -113,16 +117,16 @@ validation:
 
 de 20 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo Euro-Mediterrânico Que Cria Uma Associação entre a Comunidade Europeia e os Seus Estados Membros, por um lado, e a República Argelina Democrática e Popular, por outro, assinado em Valência em 22 de Abril de 2002, incluindo os anexos n.os 1 a 6, os Protocolos n.os 1 a 7 e a Acta Final com as declarações, aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 52-A/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-a-2004-413394), em 6 de Maio de 2004.
 
-**Assinado em 2 de Julho de 2004.**
+Assinado em 2 de Julho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Julho de 2004.**
+Referendado em 7 de Julho de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

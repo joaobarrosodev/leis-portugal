@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/486-1979-370634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T05:59:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1e41d67b0b799a1b0a5d7b364dc6f2c581b5f8a3fae12175a1bd5673b5042b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ee064545ae04c01d3fe7f9e835e820e8ab163e3f984567931ba79cba50c2f5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:59:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embarcação de Pesca
+- Pesca
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:420193:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:683268:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:420193:por
+  label: "Revogada a Portaria n.º 51/73, de 25 de Janeiro alterada pelo presente diploma, pelo DEC LEI.278/87.07.07.1987.MAPA,\
+    \ DR.IS [153] de 07.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/278-1987-420193
+  date: '1987-07-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:59:45Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +110,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado das Pescas,
 
 2 - A alínea e) do artigo 9.º da mesma portaria passe a ter a seguinte redacção:
 
-###### Art. 9.º ...
+Art. 9.º ...
 
 ...
 

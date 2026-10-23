@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/30/2011/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2011-278890
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 479f36f3939b0dd64988784311e46fa6f529a291138cef9f4ab7823605f78e6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ad8700e05e800e89c5985a2a89d62afed00ac9a532df1deb2caca0033dd9bec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,39 +70,39 @@ subjects:
 - Águeda
 - Aveiro
 - Capital Social
+- Centro Hospitalar de Coimbra
+- Centro Hospitalar de Leiria-Pombal
+- Centro Hospitalar de São João
 - Centro Hospitalar do Baixo Vouga
 - Centro Hospitalar do Porto
 - Centro Hospitalar e Universitário de Coimbra
 - Centro Hospitalar Psiquiátrico de Coimbra
-- Investigação Científica e Tecnológica
+- Centro Hospitalar Tondela-viseu
+- Coimbra
 - Criação de Serviços
-- Ensino Médico
 - Empresa Pública
+- Ensino Médico
+- Ensino Superior
+- Estabelecimento Hospitalar
 - Estarreja
 - Estatuto
 - Extinção de Serviços
 - Hospitais da Universidade de Coimbra
 - Hospital de Cândido de Figueiredo
-- Centro Hospitalar Tondela-viseu
 - Hospital de Joaquim Urbano
 - Hospital de Nossa Senhora da Conceição
-- Centro Hospitalar de Leiria-Pombal
-- Centro Hospitalar de São João
+- Hospital de São João
 - Hospital de São Teotónio
 - Hospital Distrital
 - Hospital do Visconde de Salreu
-- Hospital de São João
 - Hospital Infante Dom Pedro
-- Centro Hospitalar de Coimbra
 - Integração de Serviços
+- Investigação Científica e Tecnológica
 - Leiria
 - Pombal
-- Coimbra
-- Regime Jurídico
-- Estabelecimento Hospitalar
-- Ensino Superior
-- Tondela
 - Porto
+- Regime Jurídico
+- Tondela
 - Valongo
 - Viseu
 relationships:
@@ -110,6 +110,34 @@ relationships:
   target: pt:dre:223906278:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:504683:por
+  label: "Alterada a denominação do Centro Hospitalar de Leiria-Pombal, E.P.E., criada pelo pelo presente diploma, pelo DEC\
+    \ LEI.157/2013.12.11.2013.MS, DR.IS [219] de 12.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2013-504683
+  date: '2013-11-12'
+- type: amended_by
+  target: pt:dre:223906278:por
+  label: 'Determinada, a partir de 08.11.2023, com efeitos a 01.01.2024, pelo(a) Decreto-Lei n.º 102/2023 - Diário da República
+    n.º 215/2023, Série I de 2023-11-07 e nos termos do seu art. 7.º, a reestruturação das seguintes entidades criadas pelo
+    presente diploma: Centro Hospitalar Universitário de São João, E. P. E. (criado como Centro Hospitalar de S. João, E.
+    P. E., e renomeado Centro Hospitalar Universitário de S. João, E. P. E., pelo Dec Lei 61/2018 de 03-ago), com integração
+    dos Agrupamentos de Centros de Saúde (ACES) do Grande Porto III - Maia/Valongo e do Grande Porto VI - Porto Oriental,
+    passando a denominar-se Unidade Local de Saúde de São João, E. P. E.; Centro Hospitalar Tondela-Viseu, E. P. E., com integração
+    do ACES de Dão-Lafões, passando a denominar-se Unidade Local de Saúde de Viseu Dão-Lafões, E. P. E.; Centro Hospitalar
+    de Leiria, E. P. E. (criado como Centro Hospitalar de Leiria-Pombal, E.P.E., e renomeado Centro Hospitalar de Leiria,
+    E.P.E. pelo Dec Lei 157/2013 de 12-nov), com integração do ACES do Pinhal Litoral, os Centros de Saúde de Ourém e de Fátima,
+    atualmente integrado no ACES do Médio Tejo, e os Centros de Saúde de Alcobaça e da Nazaré, atualmente integrados no ACES
+    do Oeste Norte, passando a denominar-se Unidade Local de Saúde da Região de Leiria, E. P. E.; Centro Hospitalar e Universitário
+    de Coimbra, E. P. E., com integração do Hospital Arcebispo João Crisóstomo - Cantanhede, do Centro de Medicina de Reabilitação
+    da Região Centro - Rovisco Pais, do ACES de Centros de Saúde do Pinhal Interior Norte e dos Centros de Saúde de Cantanhede,
+    de Celas, de Eiras, de Fernão Magalhães, de Norton de Matos, de Santa Clara, de São Martinho do Bispo, de Condeixa-a-Nova,
+    da Mealhada, de Mira, de Mortágua e de Penacova, todos atualmente integrados no ACES do Baixo Mondego, passando a denominar-se
+    Unidade Local de Saúde de Coimbra, E. P. E.; Centro Hospitalar do Baixo Vouga, E. P. E., com integração do Hospital Dr.
+    Francisco Zagalo - Ovar, e o ACES do Baixo Vouga, passando a denominar-se Unidade Local de Saúde da Região de Aveiro,
+    E. P. E.'
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2023-223906278
+  date: '2023-11-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
   label: null
@@ -138,16 +166,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:06Z'
   warnings: []
   errors: []
 ---
@@ -264,14 +320,14 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Ana Maria Teodoro Jorge.
 
-**Promulgado em 18 de Fevereiro de 2011.**
+Promulgado em 18 de Fevereiro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 24 de Fevereiro de 2011.**
+Referendado em 24 de Fevereiro de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/04300/0127401277.pdf))](https://files.diariodarepublica.pt/1s/2011/03/04300/0127401277.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/04300/0127401277.pdf)

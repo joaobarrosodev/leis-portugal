@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/03/04800/0133601338.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/36/2011/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2011-279442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0dbff369aa0437afece10baff87fee04bfa9e0b6d23e5f49fbb3322cfc5a0ae8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5995281505b769c20d7a987c8b14c8a5f2d440892fbcb160c3129d9dc71f68e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
+- Agência Portuguesa do Ambiente
+- ASAE
 - Autoridade Nacional
-- Multa
 - Comércio Internacional
+- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
 - Direcção Regional do Ambiente e do Ordenamento do Território
 - Fiscalização
-- ASAE
-- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
 - Inspecção Geral do Ambiente e do Ordenamento do Território
-- Proteção do Ambiente
-- Poluição
+- Multa
 - Pesticida
-- Agência Portuguesa do Ambiente
+- Poluição
+- Produto Químico
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:66655594:por
@@ -103,16 +103,21 @@ relationships:
   target: celex:32010R0196
   label: null
   source: http://data.europa.eu/eli/reg/2010/196/oj
+- type: repealed_by
+  target: pt:dre:66655594:por
+  label: Revogado pelo(a) Decreto-Lei n.º 33/2015 - Diário da República n.º 44/2015, Série I de 2015-03-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2015-66655594
+  date: '2015-03-04'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:10Z'
   warnings: []
   errors: []
 ---
@@ -277,12 +282,12 @@ A APA divulga, no seu sítio na Internet, os anexos do Regulamento PIC, de forma
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2010. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - Dulce dos Prazeres Fidalgo Álvaro Pássaro.
 
-**Promulgado em 18 de Fevereiro de 2011.**
+Promulgado em 18 de Fevereiro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 24 de Fevereiro de 2011.**
+Referendado em 24 de Fevereiro de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

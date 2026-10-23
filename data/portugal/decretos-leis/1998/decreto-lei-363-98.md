@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/363/1998/11/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1998-230699
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:02:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37dc5ded5129400be8c360f1223fc1fb94de250867712d50dcd52e3af6ce831f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60cd0391359c3d8b319addcb477b3ce424f2718e58606f9a405259245963ac4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:02:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Aditivo Alimentar
 - Alimentação
 - Indústria Alimentar
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:286753:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621962:por
+  label: "Alterado, na redacção dada ao Dec Lei 121/98 de 08-Mai, pelo DEC LEI.274/2000.2000.11.09.MADRP, DR.IS-A [259]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/274-2000-621962
+  date: '2000-11-09'
+- type: amended_by
+  target: pt:dre:432181:por
+  label: "Alterados os anexos I, IV e V do Dec Lei 121/98 de 08-Mai, na redacção dada pelo presente diploma e pelo Dec Lei\
+    \ 274/2000 de 09-Nov pelo DEC.LEI.218/2002.2002.10.22.MADRP, DR.IS-A [244]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-2002-432181
+  date: '2002-10-22'
+- type: amended_by
+  target: pt:dre:568316:por
+  label: "Alterado o anexo IV (rubrica E 425 Konjac) do Dec Lei 121/98 de 08-Mai, alterado pelo presente, pelo DEC LEI.40/2004.27.02.2004.MADRP,\
+    \ DR.IS-A [49] de 27.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2004-568316
+  date: '2004-02-27'
+- type: amended_by
+  target: pt:dre:604193:por
+  label: "Alterados, a partir de 27 de Julho de 2005, os arts. 2º e 7º e os anexos do Dec Lei 121/98 de 08-Mai, com a redacção\
+    \ do presente diploma, pelo DEC LEI.33/2005.15.02.2005.MAPF, DR.IS-A [32] de 15.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2005-604193
+  date: '2005-02-15'
+- type: amended_by
+  target: pt:dre:247718:por
+  label: "Alterados, os arts. 2º e 7º do Dec Lei 121/98 de 08-Mai, na redacção do presente diploma, pelo DEC LEI.33/2008.25.02.2008.MADRP,\
+    \ DR.IS [39] de 25.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2008-247718
+  date: '2008-02-25'
+- type: amended_by
+  target: pt:dre:286753:por
+  label: "Alterados os anexos II, III, IV, V e VI do Dec Lei 121/98, de 08-Mai, na redacção do presente diploma, pelo DEC\
+    \ LEI.64/2011.09.05.2011.MADRP, DR.IS [89] de 09.05.2011, de acordo com o respectivo anexo I\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-2011-286753
+  date: '2011-05-09'
 - type: cites
   target: celex:31995L0002
   label: null
@@ -86,15 +121,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1996/85/oj
 article_structure:
-  article_count: 9
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:02:33Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +160,9 @@ Objecto
 
 3 - Apenas poderão ser utilizados nos géneros alimentícios os aditivos que satisfaçam as especificações adoptadas pelo Comité Científico da Alimentação Humana da União Europeia.
 
-###### Artigo 2.º — Definições
+Artigo 2.º
+
+Definições
 
 1 - Para efeitos do presente diploma, entende-se por:
 
@@ -181,7 +218,9 @@ z) «Espessantes» as substâncias que aumentam a viscosidade dos géneros alime
 
 4 - Na acepção do presente diploma, a expressão «não preparados» significa que não foram submetidos a tratamento de que resulte uma alteração substancial do estado original dos géneros alimentícios, que podem, no entanto, ter sido, por exemplo, divididos, separados, cortados em fatias, desossados, picados, pelados, desbastados, descascados, triturados, cortados, limpos, aparados, ultracongelados ou congelados, refrigerados, moídos ou descorticados, e embalados ou não.
 
-###### Artigo 3.º — Substâncias não consideradas aditivos alimentares
+Artigo 3.º
+
+Substâncias não consideradas aditivos alimentares
 
 Para efeitos do presente diploma, não são considerados aditivos alimentares:
 
@@ -203,7 +242,9 @@ h) Os caseinatos e a caseína;
 
 i) A inulina.
 
-###### Artigo 4.º — Aditivos alimentares utilizados nos géneros alimentícios
+Artigo 4.º
+
+Aditivos alimentares utilizados nos géneros alimentícios
 
 1 - Apenas podem ser utilizadas nos géneros alimentícios, para os fins referidos no artigo 2.º, as substâncias constantes dos anexos I, III, IV e V ao presente diploma, do qual constituem parte integrante.
 
@@ -241,15 +282,21 @@ o) Géneros alimentícios enumerados no anexo II, que apenas podem conter os adi
 
 4 - Os aditivos enumerados nos anexos III e IV apenas podem ser utilizados nos géneros alimentícios indicados nesses anexos e nas condições aí especificadas.
 
-###### Artigo 5.º — Agentes de transporte ou solventes de transporte
+Artigo 5.º
+
+Agentes de transporte ou solventes de transporte
 
 Apenas podem ser utilizados como agentes de transporte ou solventes de transporte de aditivos alimentares os aditivos enumerados no anexo V, devendo ser utilizados nas condições aí especificadas.
 
-###### Artigo 6.º — Indicação dos teores máximos
+Artigo 6.º
+
+Indicação dos teores máximos
 
 Os teores máximos indicados nos anexos dizem respeito aos géneros alimentícios comercializados, salvo indicação em contrário.
 
-###### Artigo 7.º — Presença autorizada de aditivos alimentares nos géneros alimentícios
+Artigo 7.º
+
+Presença autorizada de aditivos alimentares nos géneros alimentícios
 
 1 - Salvo disposição em contrário, a presença de aditivos alimentares nos géneros alimentícios é autorizada nos seguintes casos:
 
@@ -259,24 +306,28 @@ b) Nos géneros alimentícios destinados apenas a serem utilizados na preparaç�
 
 2 - O número anterior não se aplica aos preparados para lactentes, aos alimentos de transição e aos alimentos para desmame, excepto quando expressamente previsto.
 
-###### Artigo 8.º — Legislação específica sobre aditivos
+Artigo 8.º
+
+Legislação específica sobre aditivos
 
 O presente diploma aplica-se sem prejuízo das legislações específicas que autorizam a utilização dos aditivos enumerados nos anexos como edulcorantes ou corantes.
 
-###### Artigo 9.º — Norma revogatória
+Artigo 9.º
+
+Norma revogatória
 
 São revogados as Portarias n.os 646/93, de 6 de Julho, e 747/94, de 13 de Agosto, e os n.os 1.º, 2.º, 3.º, 5.º e 6.º da Portaria n.º 833/89, de 22 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 1 de Outubro de 1998. - António Manuel de Oliveira Guterres - Luís Manuel Capoulas Santos - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 29 de Outubro de 1998.**
+Promulgado em 29 de Outubro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Novembro de 1998.**
+Referendado em 9 de Novembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 [(ver anexos no documento original)](https://files.diariodarepublica.pt/1s/1998/11/268a00/62476258.pdf)

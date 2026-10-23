@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23089-1967-401536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd43ee548d50c7bb9a7a042056b3ecd687b53462144fd259d38ca5dbfd02b957
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf876473c65f3443ea5c22a5418a588432a2165a5d680a686f20870c3aaede31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:180998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391417:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:29Z'
   warnings: []
   errors: []
 ---
@@ -99,27 +111,27 @@ A competência da Direcção-Geral de Justiça será exercida pela Procuradoria 
 
 6.º Os artigos 22.º, 24.º, 25.º, n.º 1, e 27.º, n.º 1, do [Decreto-Lei n.º 47952](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47952-1967-391416) passam a ter a seguinte redacção para o ultramar:
 
-###### Art. 22.º Nenhum veículo automóvel pode atravessar a fronteira da província com destino ao estrangeiro ou a qualquer outro território nacional sem que seja exibido às estâncias alfandegárias do respectivo posto, o título de registo.
+Art. 22.º Nenhum veículo automóvel pode atravessar a fronteira da província com destino ao estrangeiro ou a qualquer outro território nacional sem que seja exibido às estâncias alfandegárias do respectivo posto, o título de registo.
 
 ...
 
-###### Art. 24.º São reconhecidas, para todos os efeitos, as hipotecas legais por venda a prazo registadas sobre veículos automóveis anteriormente a 1 de Janeiro de 1968.
+Art. 24.º São reconhecidas, para todos os efeitos, as hipotecas legais por venda a prazo registadas sobre veículos automóveis anteriormente a 1 de Janeiro de 1968.
 
-###### Art. 25.º - 1. Por cada verbete destinado a actos de registo é devido o imposto do selo que constar da respectiva tabela.
+Art. 25.º - 1. Por cada verbete destinado a actos de registo é devido o imposto do selo que constar da respectiva tabela.
 
 ...
 
-###### Art. 27.º - 1. Pelos actos praticados nas conservatórias do registo de automóveis serão cobrados os emolumentos e as taxas constantes da tabela que vigorar para o efeito em cada província, salvos os casos de gratuitidade ou de isenção previstos na lei.
+Art. 27.º - 1. Pelos actos praticados nas conservatórias do registo de automóveis serão cobrados os emolumentos e as taxas constantes da tabela que vigorar para o efeito em cada província, salvos os casos de gratuitidade ou de isenção previstos na lei.
 
 7.º O artigo 6.º, n.º 6, e o artigo 30.º, n.º 1, do [Decreto n.º 47953](https://diariodarepublica.pt/dr/detalhe/decreto/47953-1967-391417), passam a ter a seguinte redacção para o ultramar:
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 6. Para os veículos cuja matrícula seja provisória ou corresponda às antigas matrículas das províncias pode haver livros-índice privativos.
 
 ...
 
-###### Art. 30.º - 1. A propriedade adquirida anteriormente a 1 de Janeiro de 1968 que ainda não tenha sido registada sê-lo-á em face de requerimento do proprietário, instruído com o livrete de circulação, e do documento emanado da competente comissão técnica de automobilismo ou organismo correspondente comprovativo de o veículo estar matriculado em nome do requerente.
+Art. 30.º - 1. A propriedade adquirida anteriormente a 1 de Janeiro de 1968 que ainda não tenha sido registada sê-lo-á em face de requerimento do proprietário, instruído com o livrete de circulação, e do documento emanado da competente comissão técnica de automobilismo ou organismo correspondente comprovativo de o veículo estar matriculado em nome do requerente.
 
 8.º O presente diploma entra em vigor no dia 1 de Janeiro de 1968.
 

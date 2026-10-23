@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/113/2025/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/113-2025-964137281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T05:53:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6944565c0f3b6266dfa83de0c891edb1cc6626f5e7cc1d419f6840266c2e2ede
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d512db967d52a718f36aea68e76b4b83acc69bd71b6467d0bb00d4885bd11176
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:53:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira Militar
-- Marinha
-- Homologação
 - Forças Armadas
+- Homologação
+- Marinha
 - Promoção Profissional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/2/2021/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2021/08/09/p/dre
+- type: cites
+  target: pt:dre:169256653:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:53:36Z'
   warnings: []
   errors: []
 ---
@@ -94,12 +98,14 @@ validation:
 
 de 5 de dezembro
 
-**O Presidente da República decreta, nos termos do n.º 2 do artigo 26.º da [Lei Orgânica n.º 2/2021](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), de 9 de agosto, o seguinte:**
+O Presidente da República decreta, nos termos do n.º 2 do artigo 26.º da [Lei Orgânica n.º 2/2021](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), de 9 de agosto, o seguinte:
 
 É homologada a promoção ao posto de Contra-Almirante do Comodoro da classe de Médico Naval Francisco Manuel Gamito Ferreira Quaresma Guerreiro, efetuada por deliberação de 24 de novembro de 2025 do Conselho de Chefes de Estado-Maior e aprovada por despacho do Ministro da Defesa Nacional de 28 de novembro de 2025.
 
-**Assinado em 3 de dezembro de 2025.**
+Assinado em 3 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+119848528

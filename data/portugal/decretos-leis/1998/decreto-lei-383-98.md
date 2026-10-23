@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/383/1998/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5247ccae1472a39eb6bd454a3359eeb6f971c9613dce5c47b226734ea81b956
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05c052fddd6d2e59758b3b38f595086b4169b79b5887c14081d38db5a9d136ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aquicultura
 - Autoridade Nacional
-- Multa
-- Mar Territorial
 - Fiscalização
-- Pesca
 - Inspecção Geral das Pescas
 - Licenciamento
 - Lota
-- Recursos do Mar
-- Aquicultura
-- Proteção do Ambiente
+- Mar Territorial
+- Multa
 - Peixe
+- Pesca
+- Proteção do Ambiente
 - Quota de Pesca
+- Recursos do Mar
 relationships:
 - type: amended_by
   target: pt:dre:221990535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:105711870:por
+  label: Alterado o art. 23.º do Dec lei 278/87, de 07-jul, na redação do presente diploma, pelo(a) Decreto-Lei n.º 10/2017
+    - Diário da República n.º 7/2017, Série I de 2017-01-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2017-105711870
+  date: '2017-01-10'
+- type: amended_by
+  target: pt:dre:106824982:por
+  label: Eliminadas todas as referências a «culturas de espécies marinhas» constantes do Dec Lei 278/87, de 07-jul, na redação
+    do presente diploma pelo(a) Decreto-Lei n.º 40/2017 - Diário da República n.º 67/2017, Série I de 2017-04-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2017-106824982
+  date: '2017-04-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/112/1995/05/23/p/dre
   label: null
@@ -107,16 +119,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64/1998/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64/1998/09/02/p/dre
+- type: cites
+  target: pt:dre:152896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658904:por
+  label: null
+  source: null
 article_structure:
-  article_count: 87
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 50
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:02Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +233,9 @@ Objecto
 
 O presente diploma tem por objecto a regulamentação do exercício da pesca marítima e da cultura de espécies marinhas, de modo a assegurar, mediante a definição de medidas adequadas à conservação e preservação a longo prazo, a gestão e o aproveitamento sustentável dos recursos da fauna e da flora existentes nas águas sob soberania e jurisdição portuguesas e que sejam, ou venham a ser, objecto de exploração pela pesca ou cultura para fins não só comerciais mas também científicos ou lúdicos.
 
-###### Artigo 2.º — Definições
+Artigo 2.º
+
+Definições
 
 Para efeitos deste diploma e dos seus regulamentos entende-se por:
 
@@ -215,13 +273,17 @@ q) 'MONICAP' o sistema de monitorização contínua da actividade da pesca basea
 
 r) 'EMC' os equipamentos de monitorização contínua instalados nas embarcações de pesca, também designados, no seu conjunto, 'caixa azul'.
 
-###### Artigo 3.º — Limites legais ao exercício da pesca
+Artigo 3.º
+
+Limites legais ao exercício da pesca
 
 1 - O exercício da pesca em águas sob soberania e jurisdição nacionais e por embarcações nacionais em águas não submetidas a soberania e jurisdição nacionais está sujeito aos regulamentos aplicáveis da Comunidade Europeia e às disposições do presente diploma e seus regulamentos, bem como às dos instrumentos internacionais a que Portugal esteja vinculado.
 
 2 - Em qualquer caso, é sempre proibido manter a bordo, transportar, transbordar, desembarcar, armazenar, expor ou vender espécies marinhas cuja pesca não esteja autorizada ou cujos tamanhos ou pesos mínimos não se conformem com o legalmente estabelecido.
 
-###### Artigo 4.º — Condicionamentos ao exercício da pesca
+Artigo 4.º
+
+Condicionamentos ao exercício da pesca
 
 1 - Sempre que os regulamentos da Comunidade Europeia o permitam ou imponham, compete ao Governo, por via de regulamentação adequada, estabelecer condicionamentos ao exercício da pesca e prever os critérios e condições para a sua aplicação, com vista a adequar a pesca ao estado ou condição dos recursos disponíveis e sua relativa abundância, assegurando, de modo responsável, a sua conservação e gestão.
 
@@ -245,21 +307,29 @@ h) Fixação da percentagem de capturas acessórias nos casos de pesca dirigida 
 
 i) Fixação do tamanho ou peso mínimo dos indivíduos de unidades populacionais das espécies susceptíveis de captura.
 
-###### Artigo 6.º — Exercício da pesca por embarcações estrangeiras
+Artigo 6.º
+
+Exercício da pesca por embarcações estrangeiras
 
 É proibido o exercício da pesca por embarcações estrangeiras em águas sob soberania e jurisdição nacionais, salvo nas condições e dentro dos limites previstos na regulamentação comunitária.
 
-###### Artigo 7.º — Regime da pesca sem fins comerciais
+Artigo 7.º
+
+Regime da pesca sem fins comerciais
 
 O exercício da pesca apenas com fins lúdicos será regulado por diploma próprio, que assegurará que tais actividades não prejudiquem a pesca comercial e não comprometam a conservação e gestão dos recursos, podendo determinar a aplicação de todos ou parte dos condicionamentos previstos neste diploma e seus regulamentos.
 
-###### Artigo 8.º — Competência para a concessão de autorizações
+Artigo 8.º
+
+Competência para a concessão de autorizações
 
 1 - Sem prejuízo do disposto no artigo 34.º, as autorizações referidas nas alíneas a) e b) do artigo 4.º são da competência do membro do Governo que tiver a seu cargo o sector das pescas.
 
 2 - Os pedidos para a concessão das autorizações previstas no número anterior deverão estar conformes às políticas nacional e da Comunidade Europeia, nomeadamente em matérias relativas às estruturas produtivas e à conservação e gestão dos recursos pesqueiros.
 
-###### Artigo 9.º — Afretamento de embarcações de pesca
+Artigo 9.º
+
+Afretamento de embarcações de pesca
 
 1 - Sem prejuízo do disposto no artigo 34.º, o afretamento de embarcações de pesca estrangeiras, por pessoas singulares ou colectivas nacionais ou de um Estado membro da União Europeia ou ainda de um Estado parte do Acordo Económico Europeu, para o exercício da pesca está sujeito a autorização do membro do Governo que tiver a seu cargo o sector das pescas.
 
@@ -275,7 +345,9 @@ b) Experimentar novos tipos de embarcações ou novas artes e técnicas de pesca
 
 5 - O afretamento de embarcações de pesca nacionais fica igualmente sujeito a autorização do membro do Governo que tiver a seu cargo o sector das pescas, com duração de um ano, renovável por iguais períodos.
 
-###### Artigo 10.º — Repartição de quotas, licenças de pesca e máximos de captura autorizados
+Artigo 10.º
+
+Repartição de quotas, licenças de pesca e máximos de captura autorizados
 
 1 - Sempre que as actividades das embarcações de pesca nacionais estejam sujeitas a limitações de volumes de captura resultantes da fixação de quotas, ou de máximos de captura autorizados, ou de número limitado de licenças disponíveis, o membro do Governo que tiver a seu cargo o sector das pescas repartirá pelo conjunto das embarcações registadas nos portos de cada uma das parcelas do território nacional, continente, Região Autónoma da Madeira e Região Autónoma dos Açores, tendo em conta, nomeadamente, a localização dos pesqueiros e recursos exploráveis, bem como o número das embarcações, suas características e zonas de actuação habitual:
 
@@ -287,23 +359,31 @@ c) Os máximos de captura de unidades populacionais de certas espécies, fixados
 
 2 - A repartição de partes das quotas, ou de máximos de captura autorizados por embarcações, ou grupos de embarcações registadas nos portos do continente, bem como a atribuição das respectivas licenças, é da competência do membro do Governo que tiver a seu cargo o sector das pescas, aplicando-se, quanto às embarcações registadas nos portos das Regiões Autónomas, o disposto no artigo 34.º
 
-###### Artigo 11.º — Regime de autorização
+Artigo 11.º
+
+Regime de autorização
 
 1 - A instalação de estabelecimentos de culturas marinhas que utilizem águas salgadas ou salobras e de estabelecimentos conexos e, bem assim, de qualquer actividade de cultura de espécies marinhas praticadas naqueles estabelecimentos está sujeita a autorização a conceder pelo director-geral das Pescas e Aquicultura.
 
 2 - O regime de utilização privativa de áreas do domínio hídrico para efeitos de instalação dos estabelecimentos previstos no número anterior rege-se pelo disposto nos Decretos-Leis n.os [468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro, e [46/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1994-515806), de 22 de Fevereiro.
 
-###### Artigo 12.º — Licenciamento
+Artigo 12.º
+
+Licenciamento
 
 A exploração dos estabelecimentos de culturas marinhas e conexos está sujeita a licenciamento a conferir pelo director-geral das Pescas e Aquicultura.
 
-###### Artigo 13.º — Registos de actividade
+Artigo 13.º
+
+Registos de actividade
 
 1 - Sem prejuízo do disposto no artigo 34.º, para além dos registos da actividade da pesca previstos nos regulamentos da Comunidade Europeia, o Governo poderá estabelecer, através de diploma próprio, outros registos obrigatórios das actividades de pesca e das culturas marinhas, para fins de informação e controlo.
 
 2 - Os registos obrigatórios mencionados no número anterior integrarão o banco nacional de dados para as pescas, gerido pela Direcção-Geral das Pescas e Aquicultura (DGPA).
 
-###### Artigo 14.º — Regime de informação recíproca entre o Governo e as Regiões Autónomas
+Artigo 14.º
+
+Regime de informação recíproca entre o Governo e as Regiões Autónomas
 
 Tendo em vista a definição das políticas de pesca, bem como o cumprimento das obrigações do Estado emergentes dos actos comunitários no domínio da política comum das pescas, deverão ser observadas, entre o Governo e as Regiões Autónomas, as seguintes regras de informação recíproca:
 
@@ -311,23 +391,31 @@ a) Os órgãos de governo próprio das Regiões Autónomas darão conhecimento a
 
 b) O Governo comunicará aos órgãos de governo próprio das Regiões Autónomas todas as informações de que disponha relativas às descargas de pescado efectuadas em portos do continente e estrangeiros, nomeadamente as provenientes de capturas realizadas em águas sob soberania e jurisdição nacional, abrangidas pelas Regiões, sua composição específica e respectivo peso e valor, bem como aos actos relativos às matérias reguladas no presente diploma, sempre que solicitadas pelos órgãos de governo próprio das Regiões Autónomas.
 
-###### Artigo 15.º — Fiscalização de actividades
+Artigo 15.º
+
+Fiscalização de actividades
 
 1 - A fiscalização das actividades de captura, desembarque, cultura e comercialização das espécies marinhas, no âmbito da defesa, conservação e gestão dos recursos, é coordenada a nível nacional pela Inspecção-Geral das Pescas, nos termos do artigo 15.º-A, competindo a sua execução aos órgãos e serviços dos Ministérios da Defesa Nacional, das Finanças, da Administração Interna, da Economia, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, no âmbito das atribuições e competências que lhes estejam legalmente conferidas relativamente à inspecção, vigilância e controlo.
 
 2 - Os órgãos e serviços referidos no número anterior levantarão o respectivo auto de notícia, tomando, de acordo com a lei geral, as necessárias medidas cautelares quando, no exercício das suas funções, verificarem ou comprovarem pessoal e directamente, ainda que por forma não imediata, a prática de qualquer contra-ordenação prevista neste diploma, remetendo-o às entidades competentes para investigação e instrução dos processos, no caso de tal competência não lhes estar atribuída.
 
-###### Artigo 16.º — Legislação subsidiária
+Artigo 16.º
+
+Legislação subsidiária
 
 Em tudo o que não se encontrar especialmente regulado no presente diploma é aplicável o regime geral das contra-ordenações.
 
-###### Artigo 17.º — Punibilidade da negligência e da tentativa
+Artigo 17.º
+
+Punibilidade da negligência e da tentativa
 
 1 - A negligência é sempre punível.
 
 2 - A tentativa é punível nas contra-ordenações previstas no artigo 21.º-A, sendo os limites mínimos e máximos previstos no correspondente tipo legal reduzidos a metade.
 
-###### Artigo 18.º — Responsabilidade por actuação em nome de outrem
+Artigo 18.º
+
+Responsabilidade por actuação em nome de outrem
 
 1 - Quem agir voluntariamente como órgão, membro ou representante de uma pessoa colectiva, de sociedade, ainda que irregularmente constituída, ou de mera associação de facto, ou ainda em representação legal ou voluntária de outrem, será punido mesmo quando o tipo legal de contra-ordenação exija:
 
@@ -339,7 +427,9 @@ b) ...
 
 3 - As pessoas colectivas, sociedades e outras entidades referidas no n.º 1 respondem solidariamente, nos termos da lei civil, pelo pagamento das coimas em que forem condenados os agentes das infracções previstas no presente diploma, nos termos dos números anteriores.
 
-###### Artigo 19.º — Responsabilidade das pessoas colectivas e equiparadas
+Artigo 19.º
+
+Responsabilidade das pessoas colectivas e equiparadas
 
 1 - As pessoas colectivas, sociedades e meras associações de facto são responsáveis pelas infracções quando cometidas pelos seus órgãos ou representantes em seu nome ou no interesse colectivo.
 
@@ -347,7 +437,9 @@ b) ...
 
 3 - Sem prejuízo do disposto no n.º 3 do artigo anterior, a responsabilidade das entidades referidas no n.º 1 não exclui a responsabilidade individual dos respectivos agentes.
 
-###### Artigo 21.º — Destino das receitas das coimas
+Artigo 21.º
+
+Destino das receitas das coimas
 
 1 - O produto das coimas previstas neste diploma e respectiva legislação complementar reverte, transitoriamente, em 60% para os cofres do Estado, percentagem que será afecta a um fundo de compensação salarial, a criar no prazo de um ano.
 
@@ -361,7 +453,9 @@ c) 40% para a IGP.
 
 3 - ...
 
-###### Artigo 22.º — Sanções acessórias
+Artigo 22.º
+
+Sanções acessórias
 
 1 - Sem prejuízo do disposto no n.º 3, poderão ser aplicadas, em simultâneo com a coima, uma ou mais das sanções acessórias a seguir enumeradas, em função da gravidade da infracção e da culpa do agente:
 
@@ -393,7 +487,9 @@ h) Devolução dos espécimes de culturas, apanhados, capturados, transportados 
 
 7 - Sem prejuízo do disposto nos números anteriores, serão destruídos os bens declarados perdidos a título de sanção acessória que não estiverem em conformidade com os requisitos ou características legalmente estabelecidos.
 
-###### Artigo 23.º — Entidades competentes para aplicação das coimas e sanções acessórias
+Artigo 23.º
+
+Entidades competentes para aplicação das coimas e sanções acessórias
 
 1 - A aplicação das coimas e sanções acessórias em matéria de pesca e de culturas marinhas que digam respeito a infracções cometidas em águas sob soberania e jurisdição nacionais compete ao capitão do porto da capitania em cuja área ocorreu o facto ilícito, ou ao capitão do porto de registo da embarcação, ou do primeiro porto em que esta entrar, consoante o que tiver procedido à instrução do respectivo processo de contra-ordenação.
 
@@ -407,11 +503,15 @@ c) Quando as infracções cometidas no âmbito da actividade dos estabelecimento
 
 d) Quando os factos ilícitos tenham sido detectados através do sistema de monitorização contínua de actividades da pesca (MONICAP).
 
-###### Artigo 27.º — Entidades competentes para a investigação e instrução
+Artigo 27.º
+
+Entidades competentes para a investigação e instrução
 
 A investigação e instrução dos processos de contra-ordenações previstas neste diploma são da competência das entidades mencionadas no n.º 1 do artigo 15.º que levantarem o auto de notícia, no âmbito das atribuições que lhes estejam legalmente cometidas relativamente a inspecção, vigilância e polícia, sem prejuízo do disposto no n.º 2 do mesmo artigo.
 
-###### Artigo 28.º — Medidas cautelares
+Artigo 28.º
+
+Medidas cautelares
 
 1 - Como medida cautelar pode ser ordenada a apreensão da embarcação, das artes de pesca, dos veículos, dos instrumentos e dos produtos provenientes da pesca ou das culturas marinhas se os mesmos serviram ou estavam destinados a servir para a prática de contra-ordenação ou dela tenham resultado e, bem assim, quaisquer outros que forem susceptíveis de servir de meios de prova.
 
@@ -421,7 +521,9 @@ A investigação e instrução dos processos de contra-ordenações previstas ne
 
 4 - São ineficazes os negócios jurídicos que tenham por objecto bens apreendidos.
 
-###### Artigo 29.º — Venda antecipada dos bens apreendidos
+Artigo 29.º
+
+Venda antecipada dos bens apreendidos
 
 1 - Os objectos apreendidos nos termos do artigo anterior, logo que se tornem desnecessários para a investigação ou instrução, poderão ser vendidos por ordem da entidade competente para a mesma, observando-se o disposto nos artigos 902.º e seguintes do Código de Processo Civil, desde que haja, relativamente a eles:
 
@@ -441,11 +543,15 @@ c) ...
 
 6 - Quando razões de economia nacional o justifiquem e não haja prejuízo para a saúde do consumidor, o membro do Governo que tiver a seu cargo o sector das pescas poderá determinar que os bens apreendidos sejam aproveitados para os fins e nas condições que estabelecer.
 
-###### Artigo 31.º — Garantia de pagamento
+Artigo 31.º
+
+Garantia de pagamento
 
 Constituem garantias de pagamento da coima, custas e demais encargos legais os bens apreendidos aos agentes infractores ou o valor correspondente.
 
-###### Artigo 32.º — Comunicação das decisões e registo individual dos arguidos
+Artigo 32.º
+
+Comunicação das decisões e registo individual dos arguidos
 
 1 - A autoridade administrativa que aplicar a decisão definitiva e os tribunais que julguem os recursos das decisões que apliquem coimas devem remeter à Inspecção-Geral das Pescas cópia das decisões finais proferidas nos processos respectivos.
 
@@ -453,11 +559,15 @@ Constituem garantias de pagamento da coima, custas e demais encargos legais os b
 
 3 - Nos processos em que deva ser apreciada a responsabilidade de qualquer arguido é sempre junta uma cópia dos registos que lhe digam respeito, podendo o interessado ter acesso ao seu registo sempre que o solicite.
 
-###### Artigo 33.º — Direito de visita
+Artigo 33.º
+
+Direito de visita
 
 No exercício das suas atribuições e a fim de assegurar o cumprimento da legislação em vigor, as entidades com poderes de fiscalização referidas no artigo 15.º poderão visitar quaisquer embarcações de pesca atracadas em portos, no mar, em estuários, rias, lagoas costeiras ou rios, bem como nos estabelecimentos de aquicultura e conexos, locais de descarga de pescado, lotas, postos de vendagem, nas áreas dos portos de pesca e em todos os locais ou estabelecimentos relevantes para o controlo do cumprimento das medidas de defesa e conservação dos recursos piscatórios.
 
-###### Artigo 34.º — Aplicação nas Regiões Autónomas
+Artigo 34.º
+
+Aplicação nas Regiões Autónomas
 
 1 - As competências que neste diploma são atribuídas ao Governo e ao Ministério da Agricultura, do Desenvolvimento Rural e das Pescas consideram-se cometidas aos órgãos de governo próprio das Regiões Autónomas nos casos seguintes:
 
@@ -501,7 +611,9 @@ c) O princípio da equidade intergeracional, de acordo com o qual a actual gera�
 
 d) O princípio da igualdade e da não discriminação, que implica equidade no tratamento dos diferentes problemas, envolvendo eles o mesmo ou diferentes segmentos da frota nacional, bem como os respeitantes a diferentes bandeiras.
 
-###### Artigo 2.º-A — Natureza das medidas
+Artigo 2.º-A
+
+Natureza das medidas
 
 1 - As medidas de conservação e gestão dos recursos vivos marinhos devem assentar na melhor informação científica disponível sobre as espécies e ou unidades populacionais e ter em consideração quer os aspectos de natureza biológica ambiental, quer os respeitantes aos factores sociais e económicos, entre os quais se salientam:
 
@@ -513,15 +625,21 @@ c) Recorrer a uma estratégia de aproximação cautelosa sempre que o conhecimen
 
 2 - As medidas de conservação e gestão devem ser periodicamente reapreciadas em função de novos ou mais actualizados conhecimentos, ser compatíveis entre si e coerentes com o objectivo de preservação dos recursos e consequente sustentabilidade a longo prazo da pesca e da aquicultura.
 
-###### Artigo 12.º-A — Regulamentação
+Artigo 12.º-A
+
+Regulamentação
 
 Os requisitos e condições relativos à instalação e à exploração dos estabelecimentos previstos nos artigos 11.º e 12.º, bem como às condições de transmissão e cessação das autorizações e das licenças, são estabelecidos por diploma específico.
 
-###### Artigo 15.º-A — Autoridade nacional de pesca
+Artigo 15.º-A
+
+Autoridade nacional de pesca
 
 No âmbito da defesa, conservação e gestão dos recursos, compete à Inspecção-Geral das Pescas, na qualidade de autoridade nacional de pesca, programar, coordenar e executar, em colaboração com outros organismos e instituições dotados de poderes de vigilância, fiscalização e controlo da pesca, da aquicultura e das actividades conexas, as acções de controlo da pesca, prevenindo e sancionando o incumprimento das normas nacionais, comunitárias e internacionais.
 
-###### Artigo 21.º-A — Das contra-ordenações
+Artigo 21.º-A
+
+Das contra-ordenações
 
 1 - Constitui contra-ordenação punível com coima de 150000$00 a 10000000$00 o exercício da pesca sem para tal dispor da licença de pesca exigida.
 
@@ -633,17 +751,23 @@ n) Introdução de espécies não indígenas em estabelecimentos de culturas mar
 
 7 - Se o mesmo facto constituir simultaneamente crime e contra-ordenação, será o agente punido a título de crime, sem prejuízo das sanções acessórias previstas para a contra-ordenação.
 
-###### Artigo 21.º-B — Determinação da medida da coima
+Artigo 21.º-B
+
+Determinação da medida da coima
 
 A determinação da medida da coima faz-se em função da gravidade da contra-ordenação, da culpa, da situação económica do agente e do benefício económico que este retirou da prática da infracção, bem como dos antecedentes do infractor relativamente ao não cumprimento das disposições do presente diploma e dos seus regulamentos.
 
-###### Artigo 21.º-C — Pagamento voluntário
+Artigo 21.º-C
+
+Pagamento voluntário
 
 1 - No caso de se tratar de infractor sem qualquer antecedente no respectivo registo individual, poderá este proceder ao pagamento voluntário pelo mínimo legal da coima prevista para a respectiva infracção, até ao limite do prazo que lhe vier a ser fixado para o exercício do direito de audição e defesa.
 
 2 - O pagamento voluntário da coima não exclui a possibilidade de aplicação de sanções acessórias.
 
-###### Artigo 26.º-A — Auto de notícia
+Artigo 26.º-A
+
+Auto de notícia
 
 1 - Quando qualquer autoridade ou agente da autoridade, no exercício das suas funções de fiscalização e controlo das actividades de pesca e culturas marinhas, presenciar a prática de uma contra-ordenação, levanta ou manda levantar auto de notícia, que mencionará os factos que constituem a infracção, o dia, a hora, o local e as circunstâncias em que foi cometida, o nome e a qualidade da autoridade ou agente de autoridade que a presenciou e tudo o que puder averiguar acerca da identificação dos agentes da infracção e, quando possível, de testemunhas que possam depor sobre os factos.
 
@@ -659,13 +783,17 @@ A determinação da medida da coima faz-se em função da gravidade da contra-or
 
 7 - O disposto no número anterior aplica-se aos elementos de prova obtidos através de aparelhos, instrumentos ou equipamentos utilizados nos termos legais, nomeadamente os recolhidos através do sistema de monitorização contínua da actividade da pesca (MONICAP).
 
-###### Artigo 26.º-B — Denúncia
+Artigo 26.º-B
+
+Denúncia
 
 1 - A autoridade ou agente da autoridade que tiver conhecimento, por denúncia, da prática de contra-ordenação prevista neste diploma lavra ou manda lavrar auto de notícia.
 
 2 - É correspondentemente aplicável, com as necessárias adaptações, o disposto no artigo anterior.
 
-###### Artigo 31.º-A — Agentes não domiciliados em Portugal
+Artigo 31.º-A
+
+Agentes não domiciliados em Portugal
 
 1 - Se o responsável pela infracção não for domiciliado em Portugal, e caso não pretenda efectuar o pagamento voluntário da coima, quando admissível, deve prestar caução de valor igual a um terço do montante máximo da coima prevista para a contra-ordenação que lhe é imputada.
 
@@ -677,7 +805,9 @@ A determinação da medida da coima faz-se em função da gravidade da contra-or
 
 5 - A infracção será levada ao conhecimento do Estado de bandeira do responsável pela mesma.
 
-###### Artigo 31.º-B — Abandono
+Artigo 31.º-B
+
+Abandono
 
 1 - São declaradas perdidas a favor do Estado as mercadorias e quaisquer quantias apreendidas no processo, se não reclamadas no prazo de dois meses a contar da notificação do despacho ou decisão que ordenar a sua entrega.
 
@@ -697,17 +827,19 @@ São revogados os artigos 20.º, 24.º, 25.º, 26.º e 30.º do [Decreto-Lei n.�
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - António Luciano Pachedo de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Manuel da Costa Monteiro Consiglieri Pedroso - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 5 de Novembro de 1998.**
+Promulgado em 5 de Novembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Novembro de 1998.**
+Referendado em 13 de Novembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Disposições gerais
 

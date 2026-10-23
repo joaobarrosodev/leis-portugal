@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/57/1995/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1995-174314
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e86752dadbdd3fd46d37f567a675086a1973866d6c6478c255be429ae010c9a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c4168f057c73a02a4fd26e4d4ae638c4a27adbc00d6bddd5364264b49473eee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Acções
-- Sociedade Anónima
 - Capital Social
 - Criação de Empresas
 - Portucel
 - Portucel SGPS
 - Privatização
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/39/1993/02/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/39/1993/02/13/p/dre
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648137:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:06Z'
   warnings: []
   errors: []
 ---
@@ -111,23 +123,23 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovada a alienação, em duas fases, de 35% das acções representativas do capital social da Portucel Recicla - Indústria de Papel Reciclado, S. A. (Portucel Recicla), e de 65% das acções representativas do capital social da Portucel Viana - Empresa Produtora de Papéis Industriais, S. A. (Portucel Viana), detidas pela PORTUCEL - Empresa de Celulose e Papel de Portugal, S. G. P. S., S. A., bem como das acções representativas da totalidade do capital social da GESCARTÃO, S. G. P. S., S. A., detidas igualmente pela PORTUCEL - Empresa de Celulose e Papel de Portugal, S. G. P. S., S. A.
+Artigo 1.º É aprovada a alienação, em duas fases, de 35% das acções representativas do capital social da Portucel Recicla - Indústria de Papel Reciclado, S. A. (Portucel Recicla), e de 65% das acções representativas do capital social da Portucel Viana - Empresa Produtora de Papéis Industriais, S. A. (Portucel Viana), detidas pela PORTUCEL - Empresa de Celulose e Papel de Portugal, S. G. P. S., S. A., bem como das acções representativas da totalidade do capital social da GESCARTÃO, S. G. P. S., S. A., detidas igualmente pela PORTUCEL - Empresa de Celulose e Papel de Portugal, S. G. P. S., S. A.
 
-###### Art. 2.º - 1 - Na 1.ª fase serão alienadas, por concurso público, acções representativas de 90% do capital social da GESCARTÃO, S. G. P. S., S. A., acções representativas de 35% do capital social da Portucel Recicla e acções representativas de 65% do capital social da Portucel Viana.
+Art. 2.º - 1 - Na 1.ª fase serão alienadas, por concurso público, acções representativas de 90% do capital social da GESCARTÃO, S. G. P. S., S. A., acções representativas de 35% do capital social da Portucel Recicla e acções representativas de 65% do capital social da Portucel Viana.
 
 2 - O concurso público é aberto a entidades nacionais e estrangeiras, que poderão apresentar-se ao mesmo individualmente ou em agrupamento.
 
 3 - O vencedor do concurso a que se referem os números anteriores obriga-se a adquirir as acções sobrantes da operação reservada a trabalhadores, pequenos subscritores e emigrantes, ao preço unitário por que tenham sido adquiridas as acções da GESCARTÃO, S. G. P. S., S. A.
 
-###### Art. 3.º - 1 - É autorizada a alienação, numa 2.ª fase, de acções correspondentes a 10% do capital social da GESCARTÃO, S. G. P. S., S. A., que serão reservadas a trabalhadores, pequenos subscritores e emigrantes.
+Art. 3.º - 1 - É autorizada a alienação, numa 2.ª fase, de acções correspondentes a 10% do capital social da GESCARTÃO, S. G. P. S., S. A., que serão reservadas a trabalhadores, pequenos subscritores e emigrantes.
 
 2 - Para efeitos do disposto no número anterior, entende-se por trabalhadores as pessoas que se encontrem nas condições previstas no artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, incluindo os de qualquer das sociedades que resultaram do destaque do património efectuado nos termos do [Decreto-Lei n.º 39/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1993-648137), de 13 de Fevereiro, bem como aqueles que se encontravam ao serviço da PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A., à data da sua transformação em sociedade gestora de participações sociais.
 
-###### Art. 4.º - 1 - No caso de as assembleias gerais da GESCARTÃO, S. G. P. S., S. A., da Portucel Viana ou da Portucel Recicla, após a conclusão do concurso público, deliberarem qualquer aumento de capital social, a PORTUCEL - Empresa de Celulose e Papel de Portugal, S. G. P. S., S. A., enquanto accionista, é autorizada a não exercer os respectivos direitos de subscrição.
+Art. 4.º - 1 - No caso de as assembleias gerais da GESCARTÃO, S. G. P. S., S. A., da Portucel Viana ou da Portucel Recicla, após a conclusão do concurso público, deliberarem qualquer aumento de capital social, a PORTUCEL - Empresa de Celulose e Papel de Portugal, S. G. P. S., S. A., enquanto accionista, é autorizada a não exercer os respectivos direitos de subscrição.
 
 2 - Na situação prevista no número anterior, o vencedor do concurso obriga-se a adquirir os correspondentes direitos de subscrição, nos termos das disposições do caderno de encargos referido no n.º 2 do artigo seguinte.
 
-###### Art. 5.º - 1 - Compete ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar em cada uma das fases para execução do presente diploma.
+Art. 5.º - 1 - Compete ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar em cada uma das fases para execução do presente diploma.
 
 2 - Os termos e condições do concurso público previsto no artigo 2.º constarão de um caderno de encargos, a aprovar pela resolução relativa à 1.ª fase do processo de alienação.
 
@@ -143,11 +155,11 @@ c) Das acções representativas de 90% do capital social da GESCARTÃO, S. G. P.
 
 5 - A resolução do Conselho de Ministros relativa à 2.ª fase da operação de alienação fixará os preços especiais e demais condições para aquisição de acções por trabalhadores, pequenos subscritores e emigrantes, podendo, ainda, prever que o pagamento das acções adquiridas por trabalhadores seja fraccionado ao longo do período de indisponibilidade estabelecido no n.º 1 do artigo 8.º
 
-###### Art. 6.º - 1 - As aquisições de acções por trabalhadores, pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas individuais, a fixar na resolução do Conselho de Ministros referida no n.º 5 do artigo anterior, que fixará igualmente as condições de rateio.
+Art. 6.º - 1 - As aquisições de acções por trabalhadores, pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas individuais, a fixar na resolução do Conselho de Ministros referida no n.º 5 do artigo anterior, que fixará igualmente as condições de rateio.
 
 2 - As propostas de aquisição em condições de serem satisfeitas serão reduzidas, se as excederem, às quantidades máximas referidas no número anterior.
 
-###### Art. 7.º - 1 - Durante dois anos, com início na data da publicação da resolução do Conselho de Ministros que determina o vencedor do concurso público, as acções adquiridas, directa ou indirectamente, ao abrigo do n.º 1 do artigo 2.º, representativas de 51% do capital social de cada uma das sociedades referidas no n.º 1 do artigo 1.º, só serão disponíveis desde que o Governo, mediante despacho conjunto dos Ministros das Finanças e da Indústria e Energia, autorize as respectivas operações, à excepção das transmissões entre entidades que componham um eventual agrupamento vencedor, efectuadas de acordo com a estratégia apresentada no âmbito do concurso público.
+Art. 7.º - 1 - Durante dois anos, com início na data da publicação da resolução do Conselho de Ministros que determina o vencedor do concurso público, as acções adquiridas, directa ou indirectamente, ao abrigo do n.º 1 do artigo 2.º, representativas de 51% do capital social de cada uma das sociedades referidas no n.º 1 do artigo 1.º, só serão disponíveis desde que o Governo, mediante despacho conjunto dos Ministros das Finanças e da Indústria e Energia, autorize as respectivas operações, à excepção das transmissões entre entidades que componham um eventual agrupamento vencedor, efectuadas de acordo com a estratégia apresentada no âmbito do concurso público.
 
 2 - Sem prejuízo do disposto no número anterior, a entidade que adquirir, directa e indirectamente, nos termos do n.º 1 do artigo 2.º, acções das sociedades referidas no n.º 1 do artigo 1.º, deverá, em qualquer circunstância e durante o período de indisponibilidade fixado no número anterior, deter 51% do capital social com direito a voto de cada uma daquelas sociedades, sob pena de nulidade dos respectivos actos, excepto se o Governo, mediante despacho conjunto dos Ministros das Finanças e da Indústria e Energia, autorizar a detenção de uma percentagem inferior.
 
@@ -159,7 +171,7 @@ c) Das acções representativas de 90% do capital social da GESCARTÃO, S. G. P.
 
 6 - São nulos os acordos pelos quais os titulares das acções a que se referem os n.os 1 e 2 se obriguem para com titulares de outras categorias de acções a votar em determinado sentido nas assembleias gerais das respectivas sociedades realizadas durante o período de indisponibilidade.
 
-###### Art. 8.º - 1 - As acções adquiridas ao abrigo do artigo 3.º não podem ser oneradas nem objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de seis meses a contar da data da correspondente aquisição, sob pena de nulidade dos respectivos actos.
+Art. 8.º - 1 - As acções adquiridas ao abrigo do artigo 3.º não podem ser oneradas nem objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de seis meses a contar da data da correspondente aquisição, sob pena de nulidade dos respectivos actos.
 
 2 - O disposto no número anterior é também aplicável, durante o período nele previsto, às acções que venham a ser atribuídas em condições especiais, por força da titularidade daquelas a que o mesmo se refere.
 
@@ -171,28 +183,28 @@ c) Das acções representativas de 90% do capital social da GESCARTÃO, S. G. P.
 
 6 - As acções referidas nos n.os 1 e 2 adquiridas por pequenos subscritores e emigrantes não conferem aos respectivos titulares o direito de voto nas assembleias gerais durante o período de indisponibilidade.
 
-###### Art. 9.º - 1 - A resolução do Conselho de Ministros a que se refere o n.º 2 do artigo 5.º poderá prever a prestação de garantias para assegurar o cumprimento de obrigações impostas ao concorrente vencedor.
+Art. 9.º - 1 - A resolução do Conselho de Ministros a que se refere o n.º 2 do artigo 5.º poderá prever a prestação de garantias para assegurar o cumprimento de obrigações impostas ao concorrente vencedor.
 
 2 - As obrigações mencionadas no número anterior transmitem-se para os cessionários sucessivos.
 
-###### Art. 10.º - 1 - Compete ao conselho de administração da PORTUCEL - Empresa de Celulose e Papel de Portugal, S. G. P. S., S. A., propor ao Ministro das Finanças o valor de cada uma das sociedades referidas no n.º 1 do artigo 1.º, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
+Art. 10.º - 1 - Compete ao conselho de administração da PORTUCEL - Empresa de Celulose e Papel de Portugal, S. G. P. S., S. A., propor ao Ministro das Finanças o valor de cada uma das sociedades referidas no n.º 1 do artigo 1.º, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
 
 2 - Nos 15 dias subsequentes ao termo de cada fase do processo de alienação, cada sociedade envolvida publicará, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos accionistas com participação igual ou superior a 5% do respectivo capital social, indicando a quantidade de acções de que cada um é titular.
 
-###### Art. 11.º Nos 30 dias seguintes à alienação prevista no artigo 2.º, são convocadas, para se realizarem no prazo mínimo permitido por lei, as assembleias gerais das sociedades a que respeitam, a fim de serem eleitos os respectivos membros dos órgãos sociais.
+Art. 11.º Nos 30 dias seguintes à alienação prevista no artigo 2.º, são convocadas, para se realizarem no prazo mínimo permitido por lei, as assembleias gerais das sociedades a que respeitam, a fim de serem eleitos os respectivos membros dos órgãos sociais.
 
-###### Art. 12.º Para realização das operações de alienação previstas e reguladas no presente diploma, são delegados no Ministro das Finanças, com a faculdade de subdelegar, os poderes bastantes para contratar a montagem e determinar as demais condições que se afigurem convenientes.
+Art. 12.º Para realização das operações de alienação previstas e reguladas no presente diploma, são delegados no Ministro das Finanças, com a faculdade de subdelegar, os poderes bastantes para contratar a montagem e determinar as demais condições que se afigurem convenientes.
 
-###### Art. 13.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 13.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Fevereiro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Fernando Mira Amaral.
 
-**Promulgado em 9 de Março de 1995.**
+Promulgado em 9 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Março de 1995.**
+Referendado em 13 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

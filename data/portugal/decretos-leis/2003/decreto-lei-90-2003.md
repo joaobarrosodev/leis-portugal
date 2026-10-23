@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/100a00/27682774.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/90/2003/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2003-571437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:42:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c854838113bab260aa000fa3baceeb94da4bf0265a5d6b672e47625e7f84dd12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4d238aa014adc71e1892104177b3b6f833eec17df003f84657c79de326a7689
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:42:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,40 +66,64 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Seguradora
-- Liquidação Judicial
-- Contrato de Seguro
 - Aproximação das Legislações
-- Garantia
-- Empresa
+- Atividade Seguradora
 - CE Países
-- Comunidade Europeia
-- Direito Comunitário
-- Empresa Europeia
-- Instituto de Seguros de Portugal
-- Recuperação de Empresas
 - Companhia de Seguros
-- Sucursal
+- Comunidade Europeia
+- Contrato de Seguro
+- Direito Comunitário
+- Empresa
 - Empresa Estrangeira
+- Empresa Europeia
+- Garantia
+- Instituto de Seguros de Portugal
+- Liquidação Judicial
+- Recuperação de Empresas
+- Sucursal
 relationships:
 - type: amended_by
   target: pt:dre:70237675:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241222:por
+  label: "Alterado o art. 20º do Dec Lei 94-B/98 de 17-Abr, com a redacção constante do presente diploma, pelo DEC LEI.357-A/2007.31.10.2007.MFAP,\
+    \ DR.IS [210-2ºSupl] de 31.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/357-a-2007-241222
+  date: '2007-10-31'
+- type: amended_by
+  target: pt:dre:396962:por
+  label: "Alterado o art. 120º-I do Dec Lei 94-B/98, de 17-Abr, na redacção do presente diploma, pelo DEC LEI.2/2009.05.01.2009.MFAP,\
+    \ DR.IS [2] de 05.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2009-396962
+  date: '2009-01-05'
 - type: cites
   target: celex:32001L0017
   label: null
   source: http://data.europa.eu/eli/dir/2001/17/oj
+- type: corrected_by
+  target: pt:dre:227273:por
+  label: "Rectificado o Decreto-Lei n.º 357-A/2007, de 31 de Outubro, que alterou o Decreto-Lei n.º 94-B/98, de 17 de Abril,\
+    \ na redacção do presente diploma, pela DECL-RECT.117-A/2007.28.12.2007.PCM, DR.IS [250]3ºSupl de 28.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/117-a-2007-227273
+  date: '2007-12-28'
+- type: repealed_by
+  target: pt:dre:70237675:por
+  label: Revogado, com efeitos a partir de 01.01.2016, pelo(a) Lei n.º 147/2015 - Diário da República n.º 176/2015, Série
+    I de 2015-09-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/147-2015-70237675
+  date: '2015-09-09'
 article_structure:
-  article_count: 45
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 33
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:42:42Z'
   warnings: []
   errors: []
 ---
@@ -148,13 +172,17 @@ Competência e forma da revogação
 
 5 - (Anterior n.º 6.)
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
 2 - À revogação da autorização das sucursais a que se refere a presente secção aplica-se, com as devidas adaptações, o previsto para a revogação da autorização das empresas de seguros com sede em Portugal.
 
-###### Artigo 113.º — [...]
+Artigo 113.º
+
+[...]
 
 1 - ...
 
@@ -176,31 +204,45 @@ Publicidade
 
 3 - Em derrogação do previsto no n.º 1, quando as decisões do Instituto de Seguros de Portugal afectem exclusivamente os direitos dos accionistas, sócios ou empregados da empresa de seguros considerados enquanto tal, o Instituto notifica-os das mesmas por carta registada a enviar para o respectivo último domicílio conhecido.
 
-##### SUBSECÇÃO I — Dimensão transfronteiras
+SUBSECÇÃO I
 
-###### Artigo 120.º-B — Âmbito
+Dimensão transfronteiras
+
+Artigo 120.º-B
+
+Âmbito
 
 A presente subsecção é aplicável às decisões do Instituto de Seguros de Portugal relativas ao saneamento previstas na presente secção que sejam susceptíveis de afectar os direitos preexistentes de terceiros que não a própria empresa de seguros.
 
-###### Artigo 120.º-C — Lei aplicável
+Artigo 120.º-C
+
+Lei aplicável
 
 Salvo disposição em contrário do previsto na subsecção I da secção II do capítulo II do regime transfronteiras do saneamento e da liquidação de empresas de seguros, o processo de saneamento nos termos previstos na presente secção é regulado pela lei portuguesa.
 
-###### Artigo 120.º-D — Produção de efeitos
+Artigo 120.º-D
+
+Produção de efeitos
 
 1 - As decisões do Instituto de Seguros de Portugal relativas ao saneamento previstas na presente secção produzem todos os seus efeitos de acordo com a lei portuguesa em toda a Comunidade, sem nenhuma outra formalidade, inclusivamente em relação a terceiros nos demais Estados membros.
 
 2 - Os efeitos dessas decisões produzem-se nos demais Estados membros logo que se produzam em Portugal.
 
-###### Artigo 120.º-E — Delimitação da decisão administrativa relativa ao saneamento
+Artigo 120.º-E
+
+Delimitação da decisão administrativa relativa ao saneamento
 
 As decisões do Instituto de Seguros de Portugal relativas ao saneamento tomadas nos termos da presente secção indicam, quando for caso disso, se e de que modo abrangem as sucursais da empresa de seguros estabelecidas noutros Estados membros.
 
-###### Artigo 120.º-F — Informação às autoridades de supervisão dos demais Estados membros
+Artigo 120.º-F
+
+Informação às autoridades de supervisão dos demais Estados membros
 
 O Instituto de Seguros de Portugal informa com urgência as autoridades de supervisão de seguros dos demais Estados membros das decisões relativas ao saneamento tomadas nos termos da presente secção, incluindo os possíveis efeitos práticos dessas decisões.
 
-###### Artigo 120.º-G — Publicação
+Artigo 120.º-G
+
+Publicação
 
 1 - Quando o Instituto de Seguros de Portugal deva tornar pública a decisão tomada nos termos da presente secção, promove a publicação no Jornal Oficial da União Europeia, o mais rapidamente possível, e em português, de um extracto do documento que fixa a decisão relativa ao saneamento.
 
@@ -208,7 +250,9 @@ O Instituto de Seguros de Portugal informa com urgência as autoridades de super
 
 3 - As decisões do Instituto de Seguros de Portugal previstas na presente secção são aplicáveis independentemente da publicação prevista no n.º 1 e produzem todos os seus efeitos em relação aos credores.
 
-###### Artigo 120.º-H — Empresas de seguros com sede nos demais Estados membros
+Artigo 120.º-H
+
+Empresas de seguros com sede nos demais Estados membros
 
 1 - As medidas de saneamento de empresas de seguros com sede nos demais Estados membros determinadas pelas autoridades do Estado membro da respectiva sede com competência para o efeito produzem os seus efeitos em Portugal de acordo com a legislação desse Estado membro, sem requisito de formalidade específica à lei portuguesa, e ainda que a lei portuguesa não preveja tais medidas de saneamento ou as sujeite a condições que não se encontrem preenchidas.
 
@@ -216,17 +260,25 @@ O Instituto de Seguros de Portugal informa com urgência as autoridades de super
 
 3 - O Instituto de Seguros de Portugal, quando informado da decisão de aplicação de uma medida das previstas no n.º 1, pode assegurar a sua publicação em Portugal da forma que entenda adequada.
 
-###### Artigo 120.º-I — Informação relativa ao saneamento de empresa de seguros com sede noutro Estado membro
+Artigo 120.º-I
+
+Informação relativa ao saneamento de empresa de seguros com sede noutro Estado membro
 
 Ao Instituto de Seguros de Portugal é aplicável a secção II do capítulo V do título III do presente diploma relativamente à informação que receba das autoridades de supervisão de seguros dos demais Estados membros sobre o saneamento de empresas de seguros com sede nos respectivos Estados.
 
-###### Artigo 120.º-J — Remissão
+Artigo 120.º-J
+
+Remissão
 
 Ao previsto na presente secção é aplicável, com as devidas adaptações, a subsecção I da secção II do capítulo II do regime da dimensão transfronteiras do saneamento e da liquidação de empresas de seguros.
 
-##### SUBSECÇÃO II — Sucursais em Portugal de empresas de seguros com sede fora do território da Comunidade Europeia
+SUBSECÇÃO II
 
-###### Artigo 120.º-L — Regime
+Sucursais em Portugal de empresas de seguros com sede fora do território da Comunidade Europeia
+
+Artigo 120.º-L
+
+Regime
 
 1 - A presente subsecção é aplicável, com as devidas adaptações, às sucursais em Portugal de empresas de seguros com sede fora do território da Comunidade Europeia.
 
@@ -516,12 +568,12 @@ Ao Instituto de Seguros de Portugal é aplicável a secção II do capítulo V d
 
 Visto e aprovado em Conselho de Ministros de 19 de Março de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona.
 
-**Promulgado em 16 de Abril de 2003.**
+Promulgado em 16 de Abril de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Abril de 2003.**
+Referendado em 21 de Abril de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

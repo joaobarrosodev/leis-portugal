@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/100/2006/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2006-353935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4587911c38e3ce467c7ade372d6be3d55d0130ba0fe886378bf21570974d84dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c76205dc44908947260cd9590e597bf4bab0015b22401dd478d490a783d240ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aquisição de Bens e Serviços
-- Terceira Idade
-- Contrato
-- Pessoa em Situação de Dependência
-- Empreitada de Obras Públicas
-- Locação Financeira
 - ALTO Comissariado da Saúde
+- Aquisição de Bens e Serviços
 - Comissão para o Desenvolvimento dos Cuidados de Saúde às Pessoas Idosas e às Pessoas em Situação de Dependência
-- Plano Nacional de Saúde
+- Contrato
 - Cuidados Médicos
-- REDE de Prestação de Cuidados de Saúde
+- Empreitada de Obras Públicas
 - Estabelecimento Hospitalar
+- Locação Financeira
+- Pessoa em Situação de Dependência
+- Plano Nacional de Saúde
+- REDE de Prestação de Cuidados de Saúde
+- Terceira Idade
 relationships:
 - type: amended_by
   target: pt:dre:262091:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:262091:por
+  label: "Alterado o art. único pelo DEC LEI.5/2007.08.01.2007.MS, DR.IS [5] de 08.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-2007-262091
+  date: '2007-01-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/2005/12/09/p/dre
   label: null
@@ -97,16 +102,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/84/2005/04/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/84/2005/04/27/p/dre
+- type: cites
+  target: pt:dre:241792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533215:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:47Z'
   warnings: []
   errors: []
 ---
@@ -145,12 +162,12 @@ A contratação de empreitadas de obras públicas e a aquisição ou locação, 
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos.
 
-**Promulgado em 19 de Maio de 2006.**
+Promulgado em 19 de Maio de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 22 de Maio de 2006.**
+Referendado em 22 de Maio de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

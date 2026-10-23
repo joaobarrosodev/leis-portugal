@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/226/2007/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2007-638764
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51264cb61b30fbed275f1caa9645997e100dd8a6ff3836245dee2ce4579615b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc7fbe5580bc7aed2c78affe76a25aee59e6e29ca45b95c964582ed11771f7b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,23 @@ subjects:
 - Acreditação
 - Aproximação das Legislações
 - Embarcação
-- Pessoal do MAR
-- Segurança das Embarcações
-- Livre Circulação de Trabalhadores
-- Qualificação Profissional
 - Embarcação de Pesca
+- Livre Circulação de Trabalhadores
+- Pessoal do MAR
+- Qualificação Profissional
+- Segurança das Embarcações
 relationships:
 - type: amended_by
   target: pt:dre:125865390:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:75194226:por
+  label: Aditado o art. 56.º-A (que revoga a secção II e todos os modelos constantes da secção V que remetem para os artigos
+    da secção II, ambas do anexo IV do Dec. Lei 280/2001 de 23-out, na redação do presente diploma) ao Dec. Lei 34/2015 de
+    04-mar, pelo(a) Decreto-Lei n.º 53/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2016-75194226
+  date: '2016-08-24'
 - type: cites
   target: celex:32001L0025
   label: null
@@ -91,16 +98,23 @@ relationships:
   target: celex:32005L0023
   label: null
   source: http://data.europa.eu/eli/dir/2005/23/oj
+- type: repealed_by
+  target: pt:dre:125865390:por
+  label: Revogado, com efeitos no dia 01.01.2020, o Dec Lei 280/2001 de 23-out, na redação do presente diploma, mantendo-se
+    válidas, pelo período nelas indicado, as cédulas marítimas emitidas ao seu abrigo, pelo(a) Decreto-Lei n.º 166/2019 -
+    Diário da República n.º 210/2019, Série I de 2019-10-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-2019-125865390
+  date: '2019-10-31'
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:14Z'
   warnings: []
   errors: []
 ---
@@ -157,15 +171,15 @@ Os modelos dos certificados constantes do anexo IV a que se refere o número ant
 
 Visto e aprovado em Conselho de Ministros de 22 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Mário Lino Soares Correia.
 
-**Promulgado em 17 de Maio de 2007.**
+Promulgado em 17 de Maio de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 17 de Maio de 2007.**
+Referendado em 17 de Maio de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 2.º)
 
@@ -189,7 +203,9 @@ Visto e aprovado em Conselho de Ministros de 22 de Março de 2007. - José Sócr
 
 7 - ...
 
-###### Artigo 57.º-A — [...]
+Artigo 57.º-A
+
+[...]
 
 1 - ...
 
@@ -205,7 +221,9 @@ Visto e aprovado em Conselho de Ministros de 22 de Março de 2007. - José Sócr
 
 7 - ...
 
-###### Artigo 57.º-B — [...]
+Artigo 57.º-B
+
+[...]
 
 1 - ...
 
@@ -221,23 +239,23 @@ Visto e aprovado em Conselho de Ministros de 22 de Março de 2007. - José Sócr
 
 Modelo do certificado a que se refere o artigo 46.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/10500/36383643.pdf))](https://files.diariodarepublica.pt/1s/2007/05/10500/36383643.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/10500/36383643.pdf)
 
 Modelos do certificado a que se refere o artigo 47.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/10500/36383643.pdf))](https://files.diariodarepublica.pt/1s/2007/05/10500/36383643.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/10500/36383643.pdf)
 
 Modelo do certificado a que se refere o artigo 57.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/10500/36383643.pdf))](https://files.diariodarepublica.pt/1s/2007/05/10500/36383643.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/10500/36383643.pdf)
 
 Modelo do certificado a que se refere o artigo 57.º-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/10500/36383643.pdf))](https://files.diariodarepublica.pt/1s/2007/05/10500/36383643.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/10500/36383643.pdf)
 
 Modelo do certificado a que se refere o artigo 57.º-B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/10500/36383643.pdf))](https://files.diariodarepublica.pt/1s/2007/05/10500/36383643.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/10500/36383643.pdf)
 
 3 - São aditados ao anexo IV do Decreto-Lei n.º 280/2001, de 23 de Outubro, alterado pelo Decreto-Lei n.º 206/2005, de 28 de Novembro, os artigos 55.º-A e 56.º-A com a seguinte redacção:
 
@@ -259,7 +277,7 @@ Não há lugar à emissão do certificado referido no n.º 1 se o mesmo for incl
 
 Modelo do certificado a que se refere o artigo 55.º-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/10500/36383643.pdf))](https://files.diariodarepublica.pt/1s/2007/05/10500/36383643.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/10500/36383643.pdf)
 
 ###### Artigo 56.º-A — Certificado de segurança dos passageiros
 
@@ -287,4 +305,4 @@ b) Obtiveram aprovação num curso de actualização apropriado.
 
 Modelo do certificado a que se refere o artigo 56.º-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/10500/36383643.pdf))](https://files.diariodarepublica.pt/1s/2007/05/10500/36383643.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/10500/36383643.pdf)

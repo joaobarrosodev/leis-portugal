@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/40/2010/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c3904a07851c59c7ecf0e7e0a8bd3bdf14b0248db6aa2ff0e984e7db5ab09bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30d982c39804c609da0775a9cf84b637e32ff6cc9d1e1387fccbc37fc8f17b2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministro da Saúde
-- Instituto da Droga e da Toxicodependência
-- Coordenador Nacional
-- Criação de Serviços
-- Definição de Competências
 - Álcool
 - Combate à Droga
 - Conselho Interministerial para os Problemas da Droga das Toxicodependências e do USO Nocivo do Álcool
 - Conselho Nacional para os Problemas da Droga das Toxicodependências e do USO Nocivo do Álcool
+- Coordenador Nacional
 - Coordenador Nacional para os Problemas da Droga das Toxicodependências e do USO Nocivo do Álcool
-- Primeiro-ministro
+- Criação de Serviços
+- Definição de Competências
 - Droga
+- Instituto da Droga e da Toxicodependência
+- Ministro da Saúde
+- Primeiro-ministro
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/2003/01/06/p/dre
@@ -96,16 +96,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/30/2000/05/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/30/2000/05/18/p/dre
+- type: cites
+  target: pt:dre:274390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638548:por
+  label: null
+  source: null
 article_structure:
-  article_count: 34
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 19
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:01Z'
   warnings: []
   errors: []
 ---
@@ -134,11 +150,15 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 11.º, 12.º, 1
 
 Conselho Interministerial para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool
 
-###### Artigo 1.º — [...]
+Artigo 1.º
+
+[...]
 
 É criado o Conselho Interministerial para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool, adiante designado por Conselho Interministerial, órgão de coordenação interministerial das políticas relacionadas com a droga, as toxicodependências e, bem assim, o uso nocivo do álcool.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 O Conselho Interministerial é presidido pelo Primeiro-Ministro e é composto pelo Coordenador Nacional para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool e pelos membros do Governo responsáveis pelas seguintes áreas:
 
@@ -168,7 +188,9 @@ m) Da educação;
 
 n) Da ciência e do ensino superior.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Compete ao Conselho Interministerial coordenar a definição e a eficaz execução de políticas relacionadas com a droga, as toxicodependências e o uso nocivo de álcool, em especial:
 
@@ -186,7 +208,9 @@ f) Assegurar a articulação interministerial das políticas prosseguidas pelos 
 
 g) Pronunciar-se, quando solicitado, sobre acções, iniciativas ou projectos de execução da competência do Conselho Interministerial.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -194,11 +218,15 @@ g) Pronunciar-se, quando solicitado, sobre acções, iniciativas ou projectos de
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
 
-**O Ministro da Saúde é o membro do Governo responsável pela coordenação das políticas relacionadas com a droga, as toxicodependências e o uso nocivo do álcool.**
+[...]
 
-###### Artigo 6.º — [...]
+O Ministro da Saúde é o membro do Governo responsável pela coordenação das políticas relacionadas com a droga, as toxicodependências e o uso nocivo do álcool.
+
+Artigo 6.º
+
+[...]
 
 Compete ao Ministro da Saúde, na qualidade de membro do Governo responsável pela coordenação das políticas relacionadas com a droga, as toxicodependências e o uso nocivo do álcool, promover a articulação e a coordenação da acção do Governo em matéria de droga, toxicodependências e uso nocivo de álcool, em tudo o que não esteja especialmente cometido ao Conselho Interministerial, nomeadamente:
 
@@ -210,17 +238,25 @@ c) ...
 
 d) Apresentar ao Conselho Interministerial iniciativas ou projectos concretos de execução da Estratégia Nacional de Luta contra a Droga e as Toxicodependências e do Plano Nacional para a Redução dos Problemas Ligados ao Álcool.
 
-### CAPÍTULO III — Coordenador Nacional para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool
+CAPÍTULO III
 
-###### Artigo 7.º — [...]
+Coordenador Nacional para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool
+
+Artigo 7.º
+
+[...]
 
 É criado o cargo de Coordenador Nacional para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool, adiante designado por Coordenador Nacional, cuja actividade visa garantir uma eficaz coordenação e articulação entre os vários departamentos governamentais envolvidos nos problemas relacionados com a droga, as toxicodependências e o uso nocivo do álcool.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 O Coordenador Nacional é, por inerência de funções, o presidente do conselho directivo do Instituto da Droga e da Toxicodependência, I. P. (IDT).
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 Compete ao Coordenador Nacional:
 
@@ -236,13 +272,19 @@ e) Promover e verificar a inclusão das orientações fundamentais da Estratégi
 
 f) ...
 
-### CAPÍTULO IV — Conselho Nacional para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool
+CAPÍTULO IV
 
-###### Artigo 11.º — [...]
+Conselho Nacional para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool
+
+Artigo 11.º
+
+[...]
 
 O Conselho Nacional para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool, adiante designado por Conselho Nacional, é o órgão de consulta do Primeiro-Ministro e do Governo sobre as políticas relacionadas com a droga, as toxicodependências e o uso nocivo do álcool, competindo-lhe pronunciar-se sobre a definição e execução dos principais instrumentos programáticos nestas matérias, bem como sobre todos os assuntos que sobre as mesmas lhe sejam submetidos pelo Primeiro-Ministro e pelo membro do Governo responsável pela coordenação das políticas relacionadas com a droga, as toxicodependências e o uso nocivo do álcool.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O Conselho Nacional é presidido pelo Primeiro-Ministro, com faculdade de delegação no membro do Governo responsável pela coordenação das políticas relacionadas com a droga, as toxicodependências e o uso nocivo do álcool, e integra, para além do presidente do conselho directivo do IDT, os representantes das seguintes instituições, entidades e organizações:
 
@@ -294,7 +336,9 @@ z) Representantes da indústria e comércio de bebidas contendo álcool.
 
 2 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 ...
 
@@ -304,19 +348,25 @@ b) Pronunciar-se, a título consultivo, sobre o plano de acção plurianual e o 
 
 c) Pronunciar-se, quando solicitado, sobre acções, iniciativas ou projectos concretos de execução da Estratégia Nacional de Luta contra a Droga e as Toxicodependências e do Plano para a Redução dos Problemas Ligados ao Álcool.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O Conselho Nacional reúne sempre que convocado pelo Primeiro-Ministro ou pelo membro do Governo responsável pela coordenação das políticas relacionadas com a droga, as toxicodependências e o uso nocivo do álcool.
 
 2 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
 2 - As atribuições da Missão transitam para o Coordenador Nacional para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 O apoio administrativo ao funcionamento do Conselho Interministerial e do Conselho Nacional é prestado pelo IDT.»
 
@@ -330,15 +380,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de Janeiro de 2010. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Marcos da Cunha e Lorena Perestrello de Vasconcelos - José Manuel Vieira Conde Rodrigues - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - Luís Medeiros Vieira - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Valter Victorino Lemos - Manuel Francisco Pizarro Sampaio e Castro - Maria Isabel Girão de Melo Veiga Vilar - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 13 de Abril de 2010.**
+Promulgado em 13 de Abril de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de Abril de 2010.**
+Referendado em 14 de Abril de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -410,7 +460,7 @@ g) Pronunciar-se, quando solicitado, sobre acções, iniciativas ou projectos de
 
 ###### Artigo 5.º — Designação
 
-**O Ministro da Saúde é o membro do Governo responsável pela coordenação das políticas relacionadas com a droga, as toxicodependências e o uso nocivo do álcool.**
+O Ministro da Saúde é o membro do Governo responsável pela coordenação das políticas relacionadas com a droga, as toxicodependências e o uso nocivo do álcool.
 
 ###### Artigo 6.º — Competências
 

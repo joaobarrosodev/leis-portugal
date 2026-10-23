@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/77/1995/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1995-223808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0aee7f57836cf6529582e390b7375376d5aa83bc2ba40e808ca2d67b600ab36a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e66699cd0cf9abe15b5b5bdea56680477f4e671b3e7a4b561f3adcc15693e1bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Alienação de Participações do Estado
 - Alienação de Participação Social
-- Sociedade Anónima
+- Alienação de Participações do Estado
 - Capital Social
 - Concurso Público
 - Delegação de Competências
 - Governo XII
 - Ministro das Finanças
+- Sociedade Anónima
 - Sociedade Nacional dos Armadores de Bacalhau
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430463:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:36Z'
   warnings: []
   errors: []
 ---
@@ -102,23 +110,23 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovada a alienação, em duas fases, da totalidade das acções representativas do capital social da Sociedade Nacional dos Armadores de Bacalhau, S. A. (SNAB).
+Artigo 1.º É aprovada a alienação, em duas fases, da totalidade das acções representativas do capital social da Sociedade Nacional dos Armadores de Bacalhau, S. A. (SNAB).
 
-###### Art. 2.º - 1 - Na primeira fase será alienado, por concurso público, um lote indivisível de acções representativas de 90% do capital social da SNAB.
+Art. 2.º - 1 - Na primeira fase será alienado, por concurso público, um lote indivisível de acções representativas de 90% do capital social da SNAB.
 
 2 - O concurso público é aberto a entidades nacionais e estrangeiras, que poderão apresentar-se ao mesmo individualmente ou em agrupamento.
 
 3 - O vencedor do concurso a que se referem os números anteriores obriga-se a adquirir as acções sobrantes da operação reservada a trabalhadores, pequenos subscritores e emigrantes de que trata o artigo seguinte, ao preço unitário por que tenham sido adquiridas as acções do respectivo lote.
 
-###### Art. 3.º - 1 - É autorizada a alienação, numa segunda fase, de acções correspondentes a 10% do capital social da SNAB, reservada a trabalhadores, pequenos subscritores e emigrantes.
+Art. 3.º - 1 - É autorizada a alienação, numa segunda fase, de acções correspondentes a 10% do capital social da SNAB, reservada a trabalhadores, pequenos subscritores e emigrantes.
 
 2 - Para efeitos do disposto no número anterior, entendem-se por trabalhadores as pessoas que se encontrem nas condições previstas no artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-###### Art. 4.º - 1 - No caso de a assembleia geral da SNAB, após a conclusão do concurso público, deliberar qualquer aumento de capital social, o Estado é autorizado a não exercer os respectivos direitos de subscrição.
+Art. 4.º - 1 - No caso de a assembleia geral da SNAB, após a conclusão do concurso público, deliberar qualquer aumento de capital social, o Estado é autorizado a não exercer os respectivos direitos de subscrição.
 
 2 - Na situação prevista no número anterior, o vencedor do concurso obriga-se a adquirir os correspondentes direitos de subscrição do Estado, nos termos das disposições do caderno de encargos referido no n.º 2 do artigo seguinte.
 
-###### Art. 5.º - 1 - Compete ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar em cada uma das fases para execução do presente diploma.
+Art. 5.º - 1 - Compete ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar em cada uma das fases para execução do presente diploma.
 
 2 - Os termos e condições do concurso público previsto no artigo 2.º constarão de um caderno de encargos a aprovar pela resolução relativa à primeira fase do processo de alienação.
 
@@ -126,11 +134,11 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 4 - A resolução do Conselho de Ministros relativa à segunda fase da operação de alienação fixará os preços especiais e demais condições para a aquisição de acções por trabalhadores, pequenos subscritores e emigrantes, podendo ainda prever que o pagamento das acções adquiridas por trabalhadores seja fraccionado ao longo do período de indisponibilidade estabelecido no n.º 1 do artigo 8.º
 
-###### Art. 6.º - 1 - As aquisições de acções por trabalhadores, pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas individuais, a fixar na resolução do Conselho de Ministros referida no n.º 4 do artigo anterior, que fixará igualmente as condições de rateio.
+Art. 6.º - 1 - As aquisições de acções por trabalhadores, pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas individuais, a fixar na resolução do Conselho de Ministros referida no n.º 4 do artigo anterior, que fixará igualmente as condições de rateio.
 
 2 - As propostas de aquisição em condições de serem satisfeitas serão reduzidas, se as excederem, às quantidades máximas referidas no número anterior.
 
-###### Art. 7.º - 1 - Durante dois anos, com início na data da publicação da resolução do Conselho de Ministros que determina o vencedor do concurso público, as acções adquiridas ao abrigo do n.º 1 do artigo 2.º, representativas de 51% do capital social da SNAB, só serão disponíveis desde que o Governo, mediante despacho conjunto dos Ministros das Finanças e do Mar, autorize a respectiva operação, à excepção das transmissões entre entidades que componham o agrupamento vencedor, efectuadas de acordo com a estratégia apresentada no âmbito do concurso público.
+Art. 7.º - 1 - Durante dois anos, com início na data da publicação da resolução do Conselho de Ministros que determina o vencedor do concurso público, as acções adquiridas ao abrigo do n.º 1 do artigo 2.º, representativas de 51% do capital social da SNAB, só serão disponíveis desde que o Governo, mediante despacho conjunto dos Ministros das Finanças e do Mar, autorize a respectiva operação, à excepção das transmissões entre entidades que componham o agrupamento vencedor, efectuadas de acordo com a estratégia apresentada no âmbito do concurso público.
 
 2 - Sem prejuízo do disposto no número anterior, a entidade que adquirir, nos termos do n.º 1 do artigo 2.º, o lote indivisível das acções da SNAB deverá, em qualquer circunstância e durante o período de indisponibilidade fixado no número anterior, deter 51% do seu capital social com direito a voto, sob pena de nulidade dos respectivos actos, excepto se o Governo, mediante despacho conjunto dos Ministros das Finanças e do Mar, autorizar a detenção de uma percentagem inferior.
 
@@ -142,7 +150,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 6 - São nulos os acordos pelos quais os titulares das acções a que se referem os n.os 1 e 2 se obriguem a votar em determinado sentido nas assembleias gerais da SNAB realizadas durante o período de indisponibilidade.
 
-###### Art. 8.º - 1 - As acções adquiridas ao abrigo do artigo 3.º não podem ser oneradas nem objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da correspondente aquisição, sob pena de nulidade dos respectivos actos.
+Art. 8.º - 1 - As acções adquiridas ao abrigo do artigo 3.º não podem ser oneradas nem objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da correspondente aquisição, sob pena de nulidade dos respectivos actos.
 
 2 - O disposto no número anterior é também aplicável, durante o período nele previsto, às acções que venham a ser atribuídas em condições especiais, por força da titularidade daquelas a que o mesmo se refere.
 
@@ -154,28 +162,28 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 6 - As acções referidas nos n.os 1 e 2 adquiridas por pequenos subscritores e emigrantes não conferem aos respectivos titulares o direito de voto nas assembleias gerais durante o período de indisponibilidade.
 
-###### Art. 9.º - 1 - A resolução a que se refere o n.º 2 do artigo 5.º poderá prever a prestação de garantias para assegurar o cumprimento de obrigações impostas ao concorrente vencedor.
+Art. 9.º - 1 - A resolução a que se refere o n.º 2 do artigo 5.º poderá prever a prestação de garantias para assegurar o cumprimento de obrigações impostas ao concorrente vencedor.
 
 2 - As obrigações mencionadas no número anterior transmitem-se para os cessionários sucessivos.
 
-###### Art. 10.º - 1 - Compete ao conselho de administração da SNAB propor ao Ministro das Finanças o valor da Sociedade, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
+Art. 10.º - 1 - Compete ao conselho de administração da SNAB propor ao Ministro das Finanças o valor da Sociedade, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
 
 2 - Nos 15 dias subsequentes ao termo de cada fase do processo de alienação, a SNAB publicará, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos accionistas com participação igual ou superior a 5% do respectivo capital social, indicando a quantidade de acções de que cada um é titular.
 
-###### Art. 11.º Nos 30 dias seguintes à alienação prevista no artigo 2.º é convocada, para se realizar no prazo mínimo permitido por lei, a assembleia geral da SNAB, a fim de serem eleitos os membros dos órgãos sociais.
+Art. 11.º Nos 30 dias seguintes à alienação prevista no artigo 2.º é convocada, para se realizar no prazo mínimo permitido por lei, a assembleia geral da SNAB, a fim de serem eleitos os membros dos órgãos sociais.
 
-###### Art. 12.º Para realização das operações de alienação previstas e reguladas no presente diploma são delegados no Ministro das Finanças, com a faculdade de subdelegar, os poderes bastantes para contratar a montagem e determinar as demais condições que se afigurem convenientes.
+Art. 12.º Para realização das operações de alienação previstas e reguladas no presente diploma são delegados no Ministro das Finanças, com a faculdade de subdelegar, os poderes bastantes para contratar a montagem e determinar as demais condições que se afigurem convenientes.
 
-###### Art. 13.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 13.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Março de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 17 de Março de 1995.**
+Promulgado em 17 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Março de 1995.**
+Referendado em 20 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/574-1974-474889
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:30:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22f8f4968a52905f2a20cd312cb6511add3c722f6dbc8939a5977df755ac1453
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2b360ce49a4c3bccc60a0fa9ab167d0bcc776c6966f4d964a55a68af6b7a7e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:30:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:475705:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:30:36Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +96,7 @@ Manda o Governo Provisório da República Portuguesa, pelo Ministro da Coordena�
 
 1.º É tornado extensivo à província ultramarina de Macau o [Decreto-Lei n.º 360/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1974-475705), de 17 de Agosto, passando, porém, o n.º 1 do artigo 2.º a ter a seguinte redacção:
 
-###### Art. 2.º - 1. As funções que, segundo a legislação em vigor, são da competência das juntas consultivas passarão transitoriamente a ser exercidas, nos Estados de Angola e Moçambique, pelo Conselho do Governo, e nas províncias de governo simples, por um conselho presidido pelo Governador e constituído pelos secretários-adjuntos, pelo delegado do procurador da República mais antigo da comarca da capital da província e e pelos chefes dos serviços provinciais de Administração Civil e de Finanças.
+Art. 2.º - 1. As funções que, segundo a legislação em vigor, são da competência das juntas consultivas passarão transitoriamente a ser exercidas, nos Estados de Angola e Moçambique, pelo Conselho do Governo, e nas províncias de governo simples, por um conselho presidido pelo Governador e constituído pelos secretários-adjuntos, pelo delegado do procurador da República mais antigo da comarca da capital da província e e pelos chefes dos serviços provinciais de Administração Civil e de Finanças.
 
 Em Macau, farão ainda parte do conselho três membros a designar pelo Governador, sendo um deles representante da comunidade chinesa, outro representante dos interesses morais e culturais, e o último representante dos interesses económicos da província.
 

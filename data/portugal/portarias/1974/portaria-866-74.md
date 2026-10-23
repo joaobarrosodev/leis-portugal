@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 303/1974, 4º Suplemento, Série I de 1974-12-31
   number: '303'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 1670-(86) a 1670-(87)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30304/00860087.pdf
 entry_into_force_dates: []
@@ -47,40 +47,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/866-1974-236110
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T04:37:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1472718d44b7356d871a00601db32f8e69dbb916245931c1b69cd86cec548fd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa0117b35bf565e1923540017d68da5ff952ccb74e33baf82e0063c3c080c688
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:37:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa de Previdência
+- Caixa Nacional de Pensões
+- Caixa Sindical de Previdência
+- Contribuições da Segurança Social
+- Definição de Competências
+- Junta Central das Casas dos Pescadores
+- Pagamento
+- Pensionista
+- Pensões
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:228859:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:336703:por
+  label: Prorrogado, salvo no que respeita aos infantários e jardins-de-infância, o prazo referido no n.º 9 pelo(a) Portaria
+    n.º 446/75 - Diário do Governo n.º 166/1975, Série I de 1975-07-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/446-1975-336703
+  date: '1975-07-21'
+- type: amended_by
+  target: pt:dre:355350:por
+  label: Prorrogado para 30 de Junho de 1976 o prazo referido no n.º 9 pelo(a) Portaria n.º 804/75 - Diário do Governo n.º
+    300/1975, 7º Suplemento, Série I de 1975-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/804-1975-355350
+  date: '1975-12-31'
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599973:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:37:50Z'
   warnings: []
   errors: []
 ---

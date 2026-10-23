@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/95/2010/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2010-333868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 734b65b448a119cff40c4c12ff62bc872106fb16621bfae2310109aa65633ca2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2641ee9ef476c38e59006df45d356f026ba40eccec202718f2cc85314171882
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração do Porto de Sines
-- Jurisdição
+- Câmara Municipal
 - Domínio Privado do Estado
 - Domínio Público do Estado
-- Transmissão da Propriedade
+- Jurisdição
 - Porto de Sines
-- Câmara Municipal
 - Sines
 - Transferência Patrimonial
+- Transmissão da Propriedade
 relationships:
 - type: amended_by
   target: pt:dre:180720357:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571959:por
+  label: "Alterado o art. 7º do Dec Lei 337/98 de 03-nov, na redação do presente diploma, pelo DEC LEI.44/2014.20.03.2014.MECO,\
+    \ DR.IS [55] de 20.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2014-571959
+  date: '2014-03-20'
 - type: cites
   target: eli:http://data.dre.pt/el
   label: null
@@ -120,16 +126,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/93/2008/06/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/93/2008/06/04/p/dre
+- type: cites
+  target: pt:dre:223019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608704:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:09Z'
   warnings: []
   errors: []
 ---
@@ -272,28 +322,28 @@ O anexo i do [Decreto-Lei n.º 337/98](https://diariodarepublica.pt/dr/detalhe/d
 
 Visto e aprovado em Conselho de Ministros de 20 de Maio de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Augusto da Ascenção Mendonça - Dulce dos Prazeres Fidalgo Álvaro Pássaro.
 
-**Promulgado em 13 de Julho de 2010.**
+Promulgado em 13 de Julho de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Julho de 2010.**
+Referendado em 16 de Julho de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14600/0291202916.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14600/0291202916.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0291202916.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14600/0291202916.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14600/0291202916.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0291202916.pdf)
 
 ## ANEXO III — (a que se refere o n.º 2 do artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14600/0291202916.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14600/0291202916.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0291202916.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 1 do artigo 5.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14600/0291202916.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14600/0291202916.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0291202916.pdf)

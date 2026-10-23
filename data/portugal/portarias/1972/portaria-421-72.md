@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/421-1972-675842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad9e54c5d59e62ae2ddddf1099c3891aaf5d25343fadb6991a99f704dbbefa3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 485aa57ff6d81797cbae27b26aeb635b2d614222552214e3ca73144398083f63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:146730:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:06Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +113,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar:
 
 3.º No artigo 7.º são modificados os n.os 1, 2 e 4 e acrescentado o n.º 5, ficando com a seguinte redacção:
 
-###### Art. 7.º - 1. Considera-se terreno para construção aquele que, podendo ser utilizado para esse fim no estado actual e em face dos regulamentos em vigor, independentemente de quaisquer projectos, planos ou estudos que por alguma forma alterem essa possibilidade, pertença a aglomerado urbano, seja marginado por via pública e disponha de infra-estruturas urbanísticas correspondentes às que sirvam o aglomerado ou, quando este apresente zonas diferenciadas, às que sirvam as zonas em que as construções irão integrar-se.
+Art. 7.º - 1. Considera-se terreno para construção aquele que, podendo ser utilizado para esse fim no estado actual e em face dos regulamentos em vigor, independentemente de quaisquer projectos, planos ou estudos que por alguma forma alterem essa possibilidade, pertença a aglomerado urbano, seja marginado por via pública e disponha de infra-estruturas urbanísticas correspondentes às que sirvam o aglomerado ou, quando este apresente zonas diferenciadas, às que sirvam as zonas em que as construções irão integrar-se.
 
 2. Para o efeito do número anterior, consideram-se infra-estruturas urbanísticas a pavimentação, mesmo elementar, da via pública, a iluminação pública e as redes de abastecimento de água e de electricidade e de drenagem de esgotos.
 
@@ -129,15 +133,15 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar:
 
 6.º O artigo 15.º passará a ter a seguinte redacção:
 
-###### Art. 15.º As quantias em dívida vencem juros, pagáveis anual ou semestralmente, e quando o devedor seja o Estado poderão ser representadas por títulos de dívida pública amortizável, negociáveis nos termos comuns.
+Art. 15.º As quantias em dívida vencem juros, pagáveis anual ou semestralmente, e quando o devedor seja o Estado poderão ser representadas por títulos de dívida pública amortizável, negociáveis nos termos comuns.
 
 7.º A redacção do artigo 40.º passará a ser a seguinte:
 
-###### Art. 40.º Por decreto provincial, poderá ser concedido à Administração direito de preferência nas transmissões a título oneroso, entre particulares, dos terrenos ou edifícios situados em áreas compreendidas num plano de renovação urbana devidamente aprovado e que sejam necessários para a execução desse plano.
+Art. 40.º Por decreto provincial, poderá ser concedido à Administração direito de preferência nas transmissões a título oneroso, entre particulares, dos terrenos ou edifícios situados em áreas compreendidas num plano de renovação urbana devidamente aprovado e que sejam necessários para a execução desse plano.
 
 8.º O artigo 50.º é modificado como a seguir se indica:
 
-###### Art. 50.º - 1. O financiamento do estudo e execução de operações ou trabalhos de urbanização, incluindo a renovação de aglomerados, competirá em cada província ultramarina a um fundo próprio.
+Art. 50.º - 1. O financiamento do estudo e execução de operações ou trabalhos de urbanização, incluindo a renovação de aglomerados, competirá em cada província ultramarina a um fundo próprio.
 
 2. Para esse fim, e conforme as circunstâncias de cada província o aconselharem, adoptar-se-á a modalidade de criação de um fundo especial ou a alternativa de utilizar fundo existente com o seu campo de actuação devidamente ampliado.
 

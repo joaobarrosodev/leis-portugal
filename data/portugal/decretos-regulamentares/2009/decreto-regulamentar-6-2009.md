@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/6/2009/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2009-603232
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:32:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7dd3470d7397c70e1c841b824d822f76bb1b87a763afece8e313509e752783b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f99b9d90487c93b7ea4dc0d0f60f698a52cda0a21c89d9b2ed72f6bfc95e1c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:32:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Mineiro
 - Direcção Regional da Economia do Norte
 - Património Cultural
-- Recursos Geológicos
-- Terras e Pedras
+- Produto Mineiro
 - Proteção do Ambiente
-- Vila Real
-- Rocha Decorativa
 - Protecção do Património
+- Recursos Geológicos
 - Recursos Naturais
-- Serra da Falperra
-- Sabrosa
-- VILA Pouca de Aguiar
 - Rede Natura 2000
+- Rocha Decorativa
+- Sabrosa
+- Serra da Falperra
+- Terras e Pedras
+- VILA Pouca de Aguiar
+- Vila Real
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/270/2001/10/06/p/dre
@@ -100,16 +100,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+- type: cites
+  target: pt:dre:324145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:32:40Z'
   warnings: []
   errors: []
 ---
@@ -194,17 +218,17 @@ São nulas todas as licenças, autorizações e admissões de comunicações pr�
 
 Visto e aprovado em Conselho de Ministros de 5 de Fevereiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra.
 
-**Promulgado em 13 de Março de 2009.**
+Promulgado em 13 de Março de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Março de 2009.**
+Referendado em 16 de Março de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06500/0205002052.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06500/0205002052.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06500/0205002052.pdf)
 
 ## ANEXO II
 
@@ -222,4 +246,4 @@ Sistema de projecção: Hayford-Gauss-Melriça (Datum 73).
 
 Sistema de referenciação: sistema de coordenadas rectangulares referidas ao ponto central.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06500/0205002052.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06500/0205002052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06500/0205002052.pdf)

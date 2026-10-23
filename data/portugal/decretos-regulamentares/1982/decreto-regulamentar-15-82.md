@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1982-608200
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:04:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5b294c4f6174db376e5b6c1610988101883c982b2715c77f74cd5107db7ef3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c611e79d83586cbd8ce3caf4fe468b92681a573da80abfbcbd9c5bd69049e84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:04:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Jogos de Fortuna e Azar
+- Tróia
+- ZONA de JOGO
+relationships:
+- type: cites
+  target: pt:dre:462218:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:04:49Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +117,9 @@ Participar no aumento de capital da Turistrela (40000 contos).
 
 Assim, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º As alíneas a) e b) do n.º 1 do artigo 2.º do [Decreto Regulamentar n.º 56/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/56-1980-462218), de 8 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º As alíneas a) e b) do n.º 1 do artigo 2.º do [Decreto Regulamentar n.º 56/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/56-1980-462218), de 8 de Outubro, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 a) Assegurar a realização na península de Tróia dos seguintes empreendimentos:
 
@@ -132,18 +139,18 @@ Criação e implantação de um parque natural ornitológico, com uma área de c
 
 b) Assegurar a construção, por intermédio da sua accionista TORRALTA - Club Internacional de Férias, S. A. R. L., ou por associação com empresas também interessadas, de um hotel em Coimbra, com grande capacidade de alojamento e satisfazendo os requisitos necessários para ser classificado como hotel de 4 estrelas.
 
-###### Art. 2.º Ao n.º 1 do artigo 2.º do [Decreto Regulamentar n.º 56/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/56-1980-462218) é aditada a seguinte alínea:
+Art. 2.º Ao n.º 1 do artigo 2.º do [Decreto Regulamentar n.º 56/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/56-1980-462218) é aditada a seguinte alínea:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 l) Assegurar a participação, por intermédio de empresa do grupo TORRALTA, no aumento de capital da Turistrela, ou em outras acções na serra da Estrela, até ao montante de 40000 contos e de acordo com programa aprovado pelo Secretário de Estado do Turismo, sob proposta da Comissão Regional de Turismo da Serra da Estrela.
 
-###### Art. 3.º Fica o Secretário de Estado do Turismo autorizado a alterar o respectivo contrato de concessão em conformidade com o disposto no presente diploma.
+Art. 3.º Fica o Secretário de Estado do Turismo autorizado a alterar o respectivo contrato de concessão em conformidade com o disposto no presente diploma.
 
 Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 16 de Março de 1982.**
+Promulgado em 16 de Março de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

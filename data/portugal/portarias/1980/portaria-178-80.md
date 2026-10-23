@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/178-1980-681633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:12:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1314cc59b799a34b42c05d3cbe561da3a92eac3764c27e0571fb13761798399c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75dc62676e0a71e598219e745090e31fae6cf88097854cbe88ea51cf2bf76034
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:12:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ação Social
+- Exército
+- Forças Armadas
+- Manutenção Militar
+- Pessoal Civil
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:154471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365523:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:12:36Z'
   warnings: []
   errors: []
 ---
@@ -95,27 +117,27 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior do Exército, o segu
 
 A alínea a) do n.º 1 do artigo 3.º, na redacção que lhe foi dada pela [Portaria n.º 513/79](https://diariodarepublica.pt/dr/detalhe/portaria/513-1979-365523), de 22 de Setembro, o artigo 5.º, o n.º 3 do artigo 7.º, os artigos 8.º, 12.º e 13.º e o n.º 3 do artigo 17.º do Regulamento aprovado pela [Portaria n.º 681/70](https://diariodarepublica.pt/dr/detalhe/portaria/681-1970-154471), de 31 de Dezembro, passam a ter as seguintes redacções:
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 a) Filhos do funcionário ou do seu cônjuge a quem, nos termos legais, seja atribuído o abono de família;
 
 ...
 
-###### Art. 5.º O fundo comum será gerido pelo Quartel-Mestre-General, assistido pela Comissão Coordenadora de Protecção e Acção Social nos estabelecimentos fabris do Exército (CCPAS), a qual é criada ao abrigo do § único do artigo 8.º do [Decreto-Lei n.º 41892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41892-1958-337641), de 3 de Outubro de 1958, aditado pelo artigo 2.º do [Decreto-Lei n.º 49188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49188-1969-198754), de 13 de Agosto de 1969, e a quem compete providenciar para que seja facultada ao pessoal civil dos estabelecimentos fabris do Exército uma segurança social eficiente e igualitária.
+Art. 5.º O fundo comum será gerido pelo Quartel-Mestre-General, assistido pela Comissão Coordenadora de Protecção e Acção Social nos estabelecimentos fabris do Exército (CCPAS), a qual é criada ao abrigo do § único do artigo 8.º do [Decreto-Lei n.º 41892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41892-1958-337641), de 3 de Outubro de 1958, aditado pelo artigo 2.º do [Decreto-Lei n.º 49188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49188-1969-198754), de 13 de Agosto de 1969, e a quem compete providenciar para que seja facultada ao pessoal civil dos estabelecimentos fabris do Exército uma segurança social eficiente e igualitária.
 
-###### Art. 7.º - 1 - ...
+Art. 7.º - 1 - ...
 
 2 - ...
 
 3 - Os serviços executivos da Comissão Coordenadora de Protecção e Acção Social disporão dos livros necessários ao registo do movimento de valores que executa.
 
-###### Art. 8.º Através de acordos ou contratos a celebrar com as entidades competentes, deve a Comissão Coordenadora de Protecção e Acção Social assegurar a assistência a prestar ao pessoal civil e seus familiares nas modalidades de medicina, cirurgia, obstetrícia e especialidades médicas e cirúrgicas e ainda, em regra, o fornecimento de próteses, em regime de internamento, ambulatório e domiciliário.
+Art. 8.º Através de acordos ou contratos a celebrar com as entidades competentes, deve a Comissão Coordenadora de Protecção e Acção Social assegurar a assistência a prestar ao pessoal civil e seus familiares nas modalidades de medicina, cirurgia, obstetrícia e especialidades médicas e cirúrgicas e ainda, em regra, o fornecimento de próteses, em regime de internamento, ambulatório e domiciliário.
 
-###### Art. 12.º A concessão de subsídios de aposentação ou de compensação de pensões ao pessoal civil é da competência do Quartel-Mestre-General, em face de processo devidamente elaborado pelos estabelecimentos fabris do Exército e informado pela Comissão Coordenadora de Protecção e Acção Social, cabendo estes cargos ao fundo comum quando os estabelecimentos fabris não tenham possibilidade de os liquidar por conta dos seus fundos privativos.
+Art. 12.º A concessão de subsídios de aposentação ou de compensação de pensões ao pessoal civil é da competência do Quartel-Mestre-General, em face de processo devidamente elaborado pelos estabelecimentos fabris do Exército e informado pela Comissão Coordenadora de Protecção e Acção Social, cabendo estes cargos ao fundo comum quando os estabelecimentos fabris não tenham possibilidade de os liquidar por conta dos seus fundos privativos.
 
-###### Art. 13.º Em casos de reconhecida necessidade, poderá o Quartel-Mestre-General autorizar, por conta do fundo comum, os pedidos de quaisquer outros subsídios ou comparticipações apresentados pelos estabelecimentos fabris e informados pela Comissão Coordenadora de Protecção e Acção Social.
+Art. 13.º Em casos de reconhecida necessidade, poderá o Quartel-Mestre-General autorizar, por conta do fundo comum, os pedidos de quaisquer outros subsídios ou comparticipações apresentados pelos estabelecimentos fabris e informados pela Comissão Coordenadora de Protecção e Acção Social.
 
-###### Art. 17.º - 1 - ...
+Art. 17.º - 1 - ...
 
 2 - ...
 

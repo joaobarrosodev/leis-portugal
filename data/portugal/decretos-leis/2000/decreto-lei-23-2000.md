@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/23/2000/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c97246ac0e2806f443e0a1ccb54041493c4199db7f3d74b84a348abd17dd5464
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9081066320f7265aca168005449449e699051ba7a6912169b8ef3cf46cf9a041
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sipac
-- Financiamento
-- Definição de Competências
-- Catástrofe
-- Indemnização
 - Agricultura
-- Ifadap
+- Catástrofe
 - Companhia de Seguros
+- Definição de Competências
+- Financiamento
+- Ifadap
+- Indemnização
 - Seguro Agrícola
 - Seguro contra Danos
+- Sipac
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/20/1996/03/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/20/1996/03/19/p/dre
+- type: cites
+  target: pt:dre:535012:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:20Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +119,7 @@ Os artigos 4.º, 5.º, 9.º, 13.º e 16.º do [Decreto-Lei n.º 20/96](https://d
 
 3 - A bonificação pode ser majorada em função dos riscos cobertos, da taxa de referência aplicável, da localização, das variedades, dos meios de prevenção utilizados e da forma de contratação.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - ...
 
@@ -127,7 +131,7 @@ Os artigos 4.º, 5.º, 9.º, 13.º e 16.º do [Decreto-Lei n.º 20/96](https://d
 
 5 - Para efeitos de perda do direito do tomador às bonificações, a seguradora deve comunicar ao IFADAP todas as situações de incumprimento verificadas.
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - A compensação de sinistralidade tem como objectivo compensar as seguradoras quando o valor das indemnizações exceder uma determinada percentagem do valor dos prémios, de acordo com os termos e condições de atribuição da compensação definidos pela portaria a que alude o artigo 18.º
 
@@ -135,7 +139,7 @@ Os artigos 4.º, 5.º, 9.º, 13.º e 16.º do [Decreto-Lei n.º 20/96](https://d
 
 3 - O incumprimento das condições de atribuição da compensação de sinistralidade determina para a seguradora a perda do direito à compensação, com a respectiva devolução no caso de ter sido paga, sem prejuízo de eventual responsabilização criminal.
 
-###### Artigo 13.º
+Artigo 13.º
 
 ...
 
@@ -173,7 +177,7 @@ c) ...
 
 14) Praticando os demais actos necessários à regular e plena execução do SIPAC.
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - ...
 
@@ -193,12 +197,12 @@ f) ...
 
 Visto e aprovado em Conselho de Ministros de 6 de Janeiro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Luís Manuel Capoulas Santos - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 17 de Fevereiro de 2000.**
+Promulgado em 17 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Fevereiro de 2000.**
+Referendado em 18 de Fevereiro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/709-1979-365745
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:05:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfa84b9b6cd189e685e965402d36559bf942ccc872b56d7ec27f50458e59b49f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c39bf6a0277ec578346913930e7e1f0823d020b14975ba3598ced5442d27863e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:05:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Faculdade de Economia
+- Licenciatura
+- Plano de Estudos
+- Universidade do Porto
 relationships:
 - type: amended_by
   target: pt:dre:420187:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:374466:por
+  label: "Alterado o art. 2.º e revogado o art. 3.º e o anexo II, pela PORT.837/82.1982.09.01.ME DR.IS [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/837-1982-374466
+  date: '1982-09-01'
+- type: cites
+  target: pt:dre:233695:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:678441:por
+  label: Rectificada pela DECL.DD6797.10.03.1980.PCM, DR.IS [68] de 21.03.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-678441
+  date: '1980-03-10'
+- type: corrected_by
+  target: pt:dre:682024:por
+  label: Rectificada pela DECL.DD6876.11.04.1980.PCM, DR.IS [85] de 11.04.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-682024
+  date: '1980-04-11'
+- type: repealed_by
+  target: pt:dre:420187:por
+  label: "Revogada, sem prejuízo do disposto no n.º 7, pela PORT.565/87.1987.07.07.MEC DR.IS [153]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/565-1987-420187
+  date: '1987-07-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:05:13Z'
   warnings: []
   errors: []
 ---
@@ -132,10 +161,10 @@ Licenciatura em Economia
 
 Do QUADRO I ao QUADRO VII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29800/34123414.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29800/34123414.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29800/34123414.pdf)
 
 ## ANEXO II — Precedências
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29800/34123414.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29800/34123414.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29800/34123414.pdf)
 
-**O Ministro da Educação, Luís Eugénio Caldas Veiga da Cunha.**
+O Ministro da Educação, Luís Eugénio Caldas Veiga da Cunha.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/20900/25852593.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/582-1980-464043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:24:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46ee65cf152f7b65e50d1f4e950ee3dc1bd9282471b9c36e7fc8898125b55ec3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 775f2488b9afbb939f40ca7ab6e2c7005e43666cb5a51fa3d70c1d2096a236a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:24:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola do Serviço de Saúde Militar
+- Forças Armadas
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:657445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:385846:por
+  label: "Dada nova redacção ao art. 72.º do presente diploma, pela PORT.470/84.19.07.1984.MDN, DR.IS [166] de 19.07.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/470-1984-385846
+  date: '1984-07-19'
+- type: cites
+  target: pt:dre:140533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381980:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:657445:por
+  label: "Revogada pelo DEC LEI.50/93.26.02.1993.MDN, DR.IS-A [48] de 26.02.1993, que a mantém, contudo, transitoriamente\
+    \ em vigor, nos termos do seu art. 32º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-1993-657445
+  date: '1993-02-26'
 article_structure:
-  article_count: 1
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:24:12Z'
   warnings: []
   errors: []
 ---
@@ -100,21 +127,21 @@ REGULAMENTO DA ESCOLA DO SERVIÇO DE SAÚDE MILITAR
 
 ## TÍTULO I — Definição e missões
 
-###### Artigo 1.º De acordo com os artigos 1.º e 2.º do [Decreto-Lei n.º 266/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1979-381360), de 2 de Agosto, a Escola do Serviço de Saúde Militar (ESSM) é um estabelecimento de ensino técnico-militar que tem por missão:
+Artigo 1.º De acordo com os artigos 1.º e 2.º do [Decreto-Lei n.º 266/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1979-381360), de 2 de Agosto, a Escola do Serviço de Saúde Militar (ESSM) é um estabelecimento de ensino técnico-militar que tem por missão:
 
 a) Formar enfermeiros, técnicos auxiliares dos serviços complementares de diagnóstico e terapêutica, técnicos de farmácia, técnicos veterinários, socorristas e outros profissionais de saúde para os três ramos das forças armadas, dotando-os, além dos conhecimentos técnicos e científicos, de uma adequada formação militar;
 
 b) Valorizar profissionalmente todo o pessoal dos quadros do serviço de saúde dos três ramos das forças armadas, desenvolvendo os correspondentes conhecimentos ao longo das respectivas carreiras profissionais, através da frequência de cursos, estágios, tirocínios e outros meios adequados.
 
-###### Art. 2.º De acordo com o disposto no artigo 11.º do [Decreto-Lei n.º 107/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1977-140533), de 24 de Março, competirá à ESSM participar no ensino de civis não afectos às forças armadas, no âmbito da sua vocação, conforme normas a acordar.
+Art. 2.º De acordo com o disposto no artigo 11.º do [Decreto-Lei n.º 107/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1977-140533), de 24 de Março, competirá à ESSM participar no ensino de civis não afectos às forças armadas, no âmbito da sua vocação, conforme normas a acordar.
 
-###### Art. 3.º - 1 - Para fins de instrução e outros de natureza técnica, a ESSM fica na dependência directa do CEMGFA através do seu órgão coordenador do Serviço de Saúde Militar (Comissão Permanente Interserviços de Saúde das Forças Armadas - CPISFA).
+Art. 3.º - 1 - Para fins de instrução e outros de natureza técnica, a ESSM fica na dependência directa do CEMGFA através do seu órgão coordenador do Serviço de Saúde Militar (Comissão Permanente Interserviços de Saúde das Forças Armadas - CPISFA).
 
 2 - Para assuntos de natureza administrativa, disciplinar e de segurança, a ESSM fica na dependência do CEMGFA através do Comando dos Órgãos de Apoio Geral (COAG/EMGFA).
 
 ## TÍTULO II — Constituição orgânica
 
-###### Art. 4.º A ESSM tem a seguinte constituição orgânica geral:
+Art. 4.º A ESSM tem a seguinte constituição orgânica geral:
 
 a) Direcção;
 
@@ -126,7 +153,7 @@ d) Departamento de Administração e Logística.
 
 ### CAPÍTULO I — Da direcção
 
-###### Art. 5.º O director, oficial general médico ou coronel ou capitão-de-mar-e-guerra médico, dirige superiormente todas as actividades da Escola, sendo o responsável directo pela forma como a Escola desempenha a sua missão, nomeadamente pela formação dos alunos, pelo rendimento dos serviços, pela disciplina e pelo cumprimento das leis, regulamentos, ordens e instruções, competindo-lhe em especial:
+Art. 5.º O director, oficial general médico ou coronel ou capitão-de-mar-e-guerra médico, dirige superiormente todas as actividades da Escola, sendo o responsável directo pela forma como a Escola desempenha a sua missão, nomeadamente pela formação dos alunos, pelo rendimento dos serviços, pela disciplina e pelo cumprimento das leis, regulamentos, ordens e instruções, competindo-lhe em especial:
 
 Dirigir e fiscalizar os serviços da Escola, inspeccionar com frequência as diversas instalações e examinar a forma como decorrem estes serviços, assistindo, quando entender, às aulas e instruções;
 
@@ -142,13 +169,13 @@ Assinar as cartas de curso;
 
 Tomar, em casos urgentes, as resoluções extraordinárias que as circunstâncias reclamarem, comunicando superiormente as providências adoptadas.
 
-###### Art. 6.º - 1 - O director pode corresponder-se directamente em assuntos escolares com entidades particulares que se ocupem de idênticos assuntos fora da organização das forças armadas.
+Art. 6.º - 1 - O director pode corresponder-se directamente em assuntos escolares com entidades particulares que se ocupem de idênticos assuntos fora da organização das forças armadas.
 
 2 - O director nomeará um oficial da Escola para, em acumulação, desempenhar as funções de oficial de relações públicas, a quem compete promover o bom relacionamento da Escola com o público em geral e com a população escolar em particular.
 
-###### Art. 7.º No desempenho das suas funções o director é apoiado directamente pelo subdirector e por um órgão consultivo - o conselho escolar.
+Art. 7.º No desempenho das suas funções o director é apoiado directamente pelo subdirector e por um órgão consultivo - o conselho escolar.
 
-###### Art. 8.º - 1 - O subdirector, coronel do serviço de saúde ou capitão-demar-e-guerra médico, será nomeado, sob proposta do director da Escola, por despacho conjunto do CEMGFA e do chefe do estado-maior do respectivo ramo.
+Art. 8.º - 1 - O subdirector, coronel do serviço de saúde ou capitão-demar-e-guerra médico, será nomeado, sob proposta do director da Escola, por despacho conjunto do CEMGFA e do chefe do estado-maior do respectivo ramo.
 
 2 - O subdirector é o executor imediato das ordens do director, competindo-lhe especialmente velar pela instrução e pela disciplina da Escola, e deve:
 
@@ -158,15 +185,15 @@ Desempenhar as funções de director de Instrução, sendo o primeiro responsáv
 
 Elaborar as instruções necessárias à execução dos serviços a seu cargo, submetendo-as à aprovação do director;
 
-###### Art. 9.º - 1 - O subdirector para o desempenho das suas funções de director de Instrução utiliza o concurso dos adjuntos de instrução (directores de cursos), professores, instrutores e de um gabinete de apoio técnico.
+Art. 9.º - 1 - O subdirector para o desempenho das suas funções de director de Instrução utiliza o concurso dos adjuntos de instrução (directores de cursos), professores, instrutores e de um gabinete de apoio técnico.
 
 2 - No impedimento do subdirector, assumirá as suas funções o oficial mais antigo, sendo as funções de director de Instrução desempenhadas pelo adjunto de instrução mais antigo.
 
 Conselho escolar
 
-###### Art. 10.º O conselho escolar é um órgão de estudo e de consulta do director para assuntos relacionados com a orientação do ensino, os de carácter pedagógico e os de natureza disciplinar no âmbito do corpo de alunos.
+Art. 10.º O conselho escolar é um órgão de estudo e de consulta do director para assuntos relacionados com a orientação do ensino, os de carácter pedagógico e os de natureza disciplinar no âmbito do corpo de alunos.
 
-###### Art. 11.º - 1 - O conselho escolar é presidido pelo director e constituído pelo subdirector e director de Instrução, pelos adjuntos de instrução, pelos professores coordenadores de curso, pelo comandante do Corpo de Alunos, pelo chefe do serviço de educação física, pelos professores e instrutores que a direcção da Escola entenda convocar e pelo secretário escolar, que servirá de secretário do conselho.
+Art. 11.º - 1 - O conselho escolar é presidido pelo director e constituído pelo subdirector e director de Instrução, pelos adjuntos de instrução, pelos professores coordenadores de curso, pelo comandante do Corpo de Alunos, pelo chefe do serviço de educação física, pelos professores e instrutores que a direcção da Escola entenda convocar e pelo secretário escolar, que servirá de secretário do conselho.
 
 2 - O conselho escolar pode reunir em sessão plenária ou em reunião restrita com os elementos de direito que forem expressamente designados pelo director.
 
@@ -176,7 +203,7 @@ Conselho escolar
 
 5 - No impedimento do director, a presidência do conselho escolar será assumida pelo subdirector.
 
-###### Art. 12.º Ao conselho escolar compete pronunciar-se sobre a política de ensino a ser adoptada pela Escola e, eventualmente, sobre problemas relacionados com a disciplina. Tem especialmente por funções:
+Art. 12.º Ao conselho escolar compete pronunciar-se sobre a política de ensino a ser adoptada pela Escola e, eventualmente, sobre problemas relacionados com a disciplina. Tem especialmente por funções:
 
 Dar parecer sobre a nomeação de professores, instrutores e monitores militares e sobre a eventual contratação de docentes civis;
 
@@ -196,13 +223,13 @@ Dar parecer sobre reclamações interpostas pelos alunos;
 
 Dar parecer sobre qualquer aluno que por motivos disciplinares ou morais se encontre sujeito a ser excluído ou punido com a pena de expulsão.
 
-###### Art. 13.º - 1 - A convocação do conselho escolar é da exclusiva competência do director da Escola.
+Art. 13.º - 1 - A convocação do conselho escolar é da exclusiva competência do director da Escola.
 
 2 - Da convocatória fará obrigatoriamente parte uma agenda de trabalho.
 
 3 - Em princípio, os assuntos a tratar nas reuniões do conselho escolar serão limitados aos que constam da respectiva agenda.
 
-###### Art. 14.º - 1 - Da reunião do conselho escolar será lavrada acta em livro próprio.
+Art. 14.º - 1 - Da reunião do conselho escolar será lavrada acta em livro próprio.
 
 2 - Quando a opinião do conselho escolar for tomada por votação, qualquer membro pode lançar na acta a declaração do seu voto.
 
@@ -214,7 +241,7 @@ Dar parecer sobre qualquer aluno que por motivos disciplinares ou morais se enco
 
 Direcção de Instrução
 
-###### Art. 15.º A Direcção de Instrução tem por funções:
+Art. 15.º A Direcção de Instrução tem por funções:
 
 O estudo, o planeamento e a coordenação do ensino e da investigação com vista a obter uma melhor orientação pedagógica e maior rendimento da instrução;
 
@@ -224,7 +251,7 @@ Promover a divulgação das carreiras técnico-militares respeitantes aos cursos
 
 Orientar os assuntos relativos a auxiliares de instrução, à biblioteca e ao museu.
 
-###### Art. 16.º A Direcção de Instrução compreende:
+Art. 16.º A Direcção de Instrução compreende:
 
 a) Director de Instrução;
 
@@ -238,7 +265,7 @@ e) Gabinete de apoio técnico;
 
 f) Biblioteca e museu.
 
-###### Art. 17.º O director de Instrução dirige e coordena todos os órgãos que constituem a Direcção de Instrução, competindo-lhe, em especial:
+Art. 17.º O director de Instrução dirige e coordena todos os órgãos que constituem a Direcção de Instrução, competindo-lhe, em especial:
 
 Propor ao director as medidas que entender deverem ser tomadas sobre a orientação do ensino;
 
@@ -256,7 +283,7 @@ Coordenar a aquisição e distribuição do material de ensino;
 
 Orientar o serviço de publicações escolares e auxiliares de instrução.
 
-###### Art. 18.º Os adjuntos de instrução (directores de cursos) preparam e coordenam os meios necessários ao regular funcionamento, na parte que lhes pertença, dos cursos e estágios ministrados na Escola, competindo-lhes mais:
+Art. 18.º Os adjuntos de instrução (directores de cursos) preparam e coordenam os meios necessários ao regular funcionamento, na parte que lhes pertença, dos cursos e estágios ministrados na Escola, competindo-lhes mais:
 
 Exercer as funções docentes que lhes forem confiadas;
 
@@ -264,7 +291,7 @@ Colaborar com o gabinete de apoio técnico em todos os assuntos relacionados com
 
 Corpo docente
 
-###### Art. 19.º - 1 - O corpo docente é constituído por:
+Art. 19.º - 1 - O corpo docente é constituído por:
 
 Professores e instrutores militares e, eventualmente, civis de reconhecida idoneidade profissional;
 
@@ -280,7 +307,7 @@ Outros instrutores do corpo de alunos.
 
 A esse pessoal civil será atribuída remuneração idêntica àquela que estiver em vigor na administração civil para a sua categoria e regime de trabalho.
 
-###### Art. 20.º - 1 - Os professores e instrutores ministram o ensino teórico das cadeiras, aulas práticas e instruções a seu cargo e intervêm na educação dos alunos, sendo responsáveis para com a direcção pela forma como o fazem.
+Art. 20.º - 1 - Os professores e instrutores ministram o ensino teórico das cadeiras, aulas práticas e instruções a seu cargo e intervêm na educação dos alunos, sendo responsáveis para com a direcção pela forma como o fazem.
 
 Aos professores e instrutores compete, especialmente:
 
@@ -314,7 +341,7 @@ Velar pela conservação e manutenção do material didáctico e das instalaçõ
 
 Conselho pedagógico
 
-###### Art. 21.º - 1 - O conselho pedagógico é um órgão de consulta do director de Instrução e tem por finalidade analisar todos os assuntos respeitantes às actividades escolares, nomeadamente a orientação pedagógica do ensino.
+Art. 21.º - 1 - O conselho pedagógico é um órgão de consulta do director de Instrução e tem por finalidade analisar todos os assuntos respeitantes às actividades escolares, nomeadamente a orientação pedagógica do ensino.
 
 2 - Ao conselho pedagógico compete pronunciar-se sobre as matérias a submeter à apreciação do conselho escolar, conforme indicado no artigo 11.º, e ainda:
 
@@ -324,7 +351,7 @@ Apreciar os calendários e horários das actividades escolares e os planos de pr
 
 Apreciar o andamento do ensino durante o ano lectivo.
 
-###### Art. 22.º - 1 - As reuniões do conselho pedagógico são presididas pelo director de Instrução.
+Art. 22.º - 1 - As reuniões do conselho pedagógico são presididas pelo director de Instrução.
 
 2 - Fazem parte do conselho pedagógico os adjuntos de instrução, os professores coordenadores e os professores e instrutores que o director de Instrução entenda dever convocar.
 
@@ -334,7 +361,7 @@ Apreciar o andamento do ensino durante o ano lectivo.
 
 Gabinete de apoio técnico
 
-###### Art. 23.º - 1 - O gabinete de apoio técnico tem por missão dar assistência a todos os órgãos da Direcção de Instrução.
+Art. 23.º - 1 - O gabinete de apoio técnico tem por missão dar assistência a todos os órgãos da Direcção de Instrução.
 
 2 - O gabinete de apoio técnico é constituído por:
 
@@ -366,7 +393,7 @@ Organizar os processos para atribuição dos prémios escolares.
 
 Biblioteca e museu
 
-###### Art. 24.º - 1 - A biblioteca da Escola destina-se a guardar, cuidar e catalogar os livros, revistas, jornais, manuscritos, mapas, plantas e outras espécies destinadas à consulta e estudo por parte do corpo docente, do quadro de pessoal em serviço na Escola e dos alunos.
+Art. 24.º - 1 - A biblioteca da Escola destina-se a guardar, cuidar e catalogar os livros, revistas, jornais, manuscritos, mapas, plantas e outras espécies destinadas à consulta e estudo por parte do corpo docente, do quadro de pessoal em serviço na Escola e dos alunos.
 
 2 - O museu destina-se a guardar e conservar todos os objectos e materiais que tenham interesse para a história da Escola.
 
@@ -374,9 +401,9 @@ Biblioteca e museu
 
 ### CAPÍTULO III — Departamento do corpo de alunos e aquartelamento
 
-###### Art. 25.º O corpo de alunos enquadra e engloba os alunos.
+Art. 25.º O corpo de alunos enquadra e engloba os alunos.
 
-###### Art. 26.º O corpo de alunos e aquartelamento compreende:
+Art. 26.º O corpo de alunos e aquartelamento compreende:
 
 a) Comando;
 
@@ -388,9 +415,9 @@ d) Serviço de educação física e saúde escolar.
 
 Comando
 
-###### Art. 27.º O comandante do Corpo de Alunos e Aquartelamento é um oficial superior nomeado pelo CEMGFA, sob proposta do director da Escola, ouvido o chefe do estado-maior do ramo respectivo.
+Art. 27.º O comandante do Corpo de Alunos e Aquartelamento é um oficial superior nomeado pelo CEMGFA, sob proposta do director da Escola, ouvido o chefe do estado-maior do ramo respectivo.
 
-###### Art. 28.º Ao comandante do Corpo de Alunos e Aquartelamento compete especialmente velar pela instrução militar, moral e cívica dos alunos e restante pessoal militar sob o seu comando, e deve:
+Art. 28.º Ao comandante do Corpo de Alunos e Aquartelamento compete especialmente velar pela instrução militar, moral e cívica dos alunos e restante pessoal militar sob o seu comando, e deve:
 
 Cuidar, em colaboração com o Departamento de Administração e Logística, da conservação e limpeza e arrumação das instalações da Escola;
 
@@ -406,9 +433,9 @@ Regular os serviços de escala do pessoal militar e civil.
 
 Companhia de alunos
 
-###### Art. 29.º A companhia de alunos é comandada por um capitão ou equivalente de qualquer ramo das forças armadas, coadjuvado por dois oficiais subalternos, um dos quais poderá ser do sexo feminino.
+Art. 29.º A companhia de alunos é comandada por um capitão ou equivalente de qualquer ramo das forças armadas, coadjuvado por dois oficiais subalternos, um dos quais poderá ser do sexo feminino.
 
-###### Art. 30.º Ao comandante de companhia de alunos compete, na parte aplicável, as funções regulamentares prescritas para os comandantes de companhia e, em especial:
+Art. 30.º Ao comandante de companhia de alunos compete, na parte aplicável, as funções regulamentares prescritas para os comandantes de companhia e, em especial:
 
 Cuidar das dependências destinadas aos alunos, providenciando para que se mantenham sempre em completo estado de asseio e arranjo;
 
@@ -418,7 +445,7 @@ Velar pelo bem-estar dos alunos;
 
 Exercer as atribuições disciplinares, nos termos da legislação vigente e do presente Regulamento.
 
-###### Art. 31.º O subalterno do sexo feminino, que será auxiliado por um sargento do mesmo sexo, é responsável perante o comandante de companhia:
+Art. 31.º O subalterno do sexo feminino, que será auxiliado por um sargento do mesmo sexo, é responsável perante o comandante de companhia:
 
 Pela disciplina dos alunos do sexo feminino nas instalações a eles destinadas;
 
@@ -426,7 +453,7 @@ Pelo estado de asseio e arranjo das dependências dos alunos, bem como pela orde
 
 Companhia de serviços
 
-###### Art. 32.º - 1 - A companhia de serviços enquadra os sargentos e praças da Escola.
+Art. 32.º - 1 - A companhia de serviços enquadra os sargentos e praças da Escola.
 
 2 - O pessoal a que se refere este artigo está directamente subordinado ao respectivo comandante de companhia para efeitos administrativos, de instrução geral e disciplinares.
 
@@ -436,9 +463,9 @@ Companhia de serviços
 
 Educação física e saúde escolar
 
-###### Art. 33.º O serviço de educação física e saúde escolar tem por objectivo a melhoria e ou manutenção da condição física e estado sanitário de todo o pessoal que presta serviço na ESSM.
+Art. 33.º O serviço de educação física e saúde escolar tem por objectivo a melhoria e ou manutenção da condição física e estado sanitário de todo o pessoal que presta serviço na ESSM.
 
-###### Art. 34.º Ao serviço da educação física e saúde escolar compete, em especial:
+Art. 34.º Ao serviço da educação física e saúde escolar compete, em especial:
 
 Elaborar e propor superiormente programas de educação física, os quais terão de ter em conta as exigências de aptidão física para as funções profissionais que o referido pessoal desempenha ou venha a desempenhar, as idades dos praticantes e a sua provável inexperiência;
 
@@ -456,9 +483,9 @@ A elaboração de relatórios periódicos que permitam o conhecimento superior d
 
 ### CAPÍTULO IV — Departamento de Administração e Logística
 
-###### Art. 35.º O Departamento de Administração e Logística actua por forma que os objectivos da Escola sejam atingidos com o melhor aproveitamento dos meios disponíveis.
+Art. 35.º O Departamento de Administração e Logística actua por forma que os objectivos da Escola sejam atingidos com o melhor aproveitamento dos meios disponíveis.
 
-###### Art. 36.º O Departamento de Administração e Logística compreende:
+Art. 36.º O Departamento de Administração e Logística compreende:
 
 a) Administrador;
 
@@ -488,15 +515,15 @@ Portaria;
 
 d) Secretaria-geral:
 
-#### Secção de expediente e arquivo;
+Secção de expediente e arquivo;
 
 #### Secção de pessoal;
 
-#### Secção de justiça.
+Secção de justiça.
 
 Administrador
 
-###### Art. 37.º Ao administrador, oficial superior de administração de qualquer ramo das forças armadas, compete, essencialmente:
+Art. 37.º Ao administrador, oficial superior de administração de qualquer ramo das forças armadas, compete, essencialmente:
 
 Superintender em todos os serviços do Departamento, controlando a sua actividade e propondo as medidas necessárias para a melhoria global do seu funcionamento;
 
@@ -522,29 +549,29 @@ Assinar a correspondência expedida pelo Departamento de Administração e Logí
 
 Serviço de administração financeira
 
-###### Art. 38.º Ao serviço de administração financeira, na dependência directa do administrador, compete superintender em todos os actos de administração da Escola.
+Art. 38.º Ao serviço de administração financeira, na dependência directa do administrador, compete superintender em todos os actos de administração da Escola.
 
-###### Art. 39.º - 1 - Tendo em vista a necessidade de uma escola com as características da ESSM vir a dispor de autonomia administrativa, será este assunto objecto de regulamentação própria.
+Art. 39.º - 1 - Tendo em vista a necessidade de uma escola com as características da ESSM vir a dispor de autonomia administrativa, será este assunto objecto de regulamentação própria.
 
 2 - Transitoriamente, ficará a ESSM na dependência administrativa e financeira do conselho administrativo do EMGFA, perante o qual serão responsáveis os serviços de administração financeira da ESSM.
 
 Serviço de contabilidade
 
-###### Art. 40.º Ao serviço de contabilidade, chefiado por um capitão ou primeiro-tenente de administração, compete organizar uma adequada contabilidade, por forma a determinar os reais custos da Escola.
+Art. 40.º Ao serviço de contabilidade, chefiado por um capitão ou primeiro-tenente de administração, compete organizar uma adequada contabilidade, por forma a determinar os reais custos da Escola.
 
 A existência deste serviço está condicionada a legislação a publicar, conforme o n.º 1 do artigo anterior.
 
 Serviço de estatística
 
-###### Art. 41.º Ao serviço de estatística, da responsabilidade de um sargento, compete preparar, tratar e apresentar, dentro de períodos determinados, os elementos estatísticos que permitam avaliar a execução dos planos de actividade dos vários sectores e da própria Escola.
+Art. 41.º Ao serviço de estatística, da responsabilidade de um sargento, compete preparar, tratar e apresentar, dentro de períodos determinados, os elementos estatísticos que permitam avaliar a execução dos planos de actividade dos vários sectores e da própria Escola.
 
 Serviço de aprovisionamento
 
-###### Art. 42.º Ao serviço de aprovisionamento, chefiado por um capitão ou um subalterno de qualquer ramo das forças armadas, compete promover a aquisição dos bens e serviços necessários ao funcionamento da Escola, sua armazenagem e distribuição, bem como receber, registar e distribuir todo o material atribuído à ESSM.
+Art. 42.º Ao serviço de aprovisionamento, chefiado por um capitão ou um subalterno de qualquer ramo das forças armadas, compete promover a aquisição dos bens e serviços necessários ao funcionamento da Escola, sua armazenagem e distribuição, bem como receber, registar e distribuir todo o material atribuído à ESSM.
 
 Serviços gerais
 
-###### Art. 43.º Aos serviços gerais, chefiados por um capitão ou subalterno ou posto equivalente de qualquer ramo das forças armadas, compete o apoio dentro das seguintes áreas:
+Art. 43.º Aos serviços gerais, chefiados por um capitão ou subalterno ou posto equivalente de qualquer ramo das forças armadas, compete o apoio dentro das seguintes áreas:
 
 Serviço de alimentação
 
@@ -604,9 +631,9 @@ Abrir, fechar e vigiar as portas da Escola e impedir a entrada e saída de pesso
 
 Secretaria-Geral
 
-###### Art. 44.º À secretaria-geral, chefiada por um capitão ou subalterno ou equivalente de qualquer ramo das forças armadas, compete o apoio dentro das seguintes áreas:
+Art. 44.º À secretaria-geral, chefiada por um capitão ou subalterno ou equivalente de qualquer ramo das forças armadas, compete o apoio dentro das seguintes áreas:
 
-#### Secção de expediente e arquivo
+Secção de expediente e arquivo
 
 À secção de expediente e arquivo, chefiada por um sargento de qualquer ramo das forças armadas, compete, essencialmente:
 
@@ -626,23 +653,23 @@ Proceder à recolha, tratamento e catalogação de toda a legislação, bem como
 
 À secção de justiça, chefiada por um oficial, em acumulação de funções, nomeado pela direcção da Escola, compete a organização de todos os processos do âmbito da justiça militar.
 
-###### Art. 45.º Todos os serviços do Departamento de Administração e Logística deverão remeter, mensalmente, os elementos indispensáveis à análise de custos que lhes forem superiormente determinados.
+Art. 45.º Todos os serviços do Departamento de Administração e Logística deverão remeter, mensalmente, os elementos indispensáveis à análise de custos que lhes forem superiormente determinados.
 
 ### CAPÍTULO V — Dos quadros do pessoal
 
-###### Art. 46.º Os quadros do pessoal para garantir o funcionamento da estrutura orgânica indicada serão objecto de portaria conjunta do CEMGFA, dos chefes dos estados-maiores dos ramos e do Ministro das Finanças e do Plano.
+Art. 46.º Os quadros do pessoal para garantir o funcionamento da estrutura orgânica indicada serão objecto de portaria conjunta do CEMGFA, dos chefes dos estados-maiores dos ramos e do Ministro das Finanças e do Plano.
 
 ## TÍTULO III — Vida interna e regime disciplinar dos alunos
 
-###### Art. 47.º Durante a permanência na Escola os alunos são mantidos em regime de internato, podendo ser admitida a frequência em regime de semi-internato, em condições especiais a definir pelo director.
+Art. 47.º Durante a permanência na Escola os alunos são mantidos em regime de internato, podendo ser admitida a frequência em regime de semi-internato, em condições especiais a definir pelo director.
 
-###### Art. 48.º Os alunos, além dos vencimentos e regalias inerentes ao seu posto, têm direito a alimentação e são isentos do pagamento de propinas e livros.
+Art. 48.º Os alunos, além dos vencimentos e regalias inerentes ao seu posto, têm direito a alimentação e são isentos do pagamento de propinas e livros.
 
 A Escola disporá do material escolar necessário para serviço dos alunos.
 
-###### Art. 49.º O risco que possa advir do rigoroso cumprimento das actividades escolares beneficia do regime geral de invalidez resultante de doença ou desastre em serviço ou por motivo do mesmo.
+Art. 49.º O risco que possa advir do rigoroso cumprimento das actividades escolares beneficia do regime geral de invalidez resultante de doença ou desastre em serviço ou por motivo do mesmo.
 
-###### Art. 50.º Os alunos militares não pertencentes aos quadros permanentes, além das penas previstas no Regulamento de Disciplina Militar pelas infracções cometidas aos deveres militares previstas no artigo 4.º do mesmo Regulamento e em outras leis militares, ficarão sujeitos às seguintes penas escolares, pela violação da disciplina escolar:
+Art. 50.º Os alunos militares não pertencentes aos quadros permanentes, além das penas previstas no Regulamento de Disciplina Militar pelas infracções cometidas aos deveres militares previstas no artigo 4.º do mesmo Regulamento e em outras leis militares, ficarão sujeitos às seguintes penas escolares, pela violação da disciplina escolar:
 
 Repreensão escolar;
 
@@ -652,13 +679,13 @@ Privação de saídas até quinze dias;
 
 Expulsão.
 
-###### Art. 51.º A repreensão escolar e a repreensão escolar agravada consistem em declarar que o aluno é repreendido por haver praticado qualquer acto que constitua infracção a um ou mais deveres militares.
+Art. 51.º A repreensão escolar e a repreensão escolar agravada consistem em declarar que o aluno é repreendido por haver praticado qualquer acto que constitua infracção a um ou mais deveres militares.
 
-###### Art. 52.º As penas de repreensão escolar e repreensão escolar agravada são registadas, sendo a primeira dada em particular e a segunda na presença de todos os alunos do mesmo ano do curso.
+Art. 52.º As penas de repreensão escolar e repreensão escolar agravada são registadas, sendo a primeira dada em particular e a segunda na presença de todos os alunos do mesmo ano do curso.
 
-###### Art. 53.º A privação de saídas consiste na permanência do aluno dentro do recinto da Escola, do qual só pode sair em serviço, incluindo o escolar.
+Art. 53.º A privação de saídas consiste na permanência do aluno dentro do recinto da Escola, do qual só pode sair em serviço, incluindo o escolar.
 
-###### Art. 54.º - 1 - A pena de expulsão consiste na baixa imediata do corpo de alunos.
+Art. 54.º - 1 - A pena de expulsão consiste na baixa imediata do corpo de alunos.
 
 2 - A pena de expulsão será aplicada quando se verifique falta de idoneidade moral ou grave infracção ao dever militar.
 
@@ -666,13 +693,13 @@ Expulsão.
 
 4 - Aos alunos punidos com penas que, somadas, excedam vinte dias de privação de saída, poderá ser aplicada a pena de expulsão quando o director, ouvido o conselho escolar, assim o entenda.
 
-###### Art. 55.º As penas de repreensão escolar agravada, privação de saídas e expulsão são publicadas na ordem de serviço da Escola e registadas.
+Art. 55.º As penas de repreensão escolar agravada, privação de saídas e expulsão são publicadas na ordem de serviço da Escola e registadas.
 
-###### Art. 56.º Os elementos dos quadros permanentes que frequentem outros cursos ou estágios na Escola ficam sujeitos ao Regulamento de Disciplinar Militar, não lhes podendo ser aplicadas as penas escolares referidas nos artigos anteriores.
+Art. 56.º Os elementos dos quadros permanentes que frequentem outros cursos ou estágios na Escola ficam sujeitos ao Regulamento de Disciplinar Militar, não lhes podendo ser aplicadas as penas escolares referidas nos artigos anteriores.
 
-###### Art. 57.º As punições escolares averbadas durante a frequência dos cursos são arquivadas no seu termo, não produzindo qualquer efeito a partir do ingresso nos quadros permanentes.
+Art. 57.º As punições escolares averbadas durante a frequência dos cursos são arquivadas no seu termo, não produzindo qualquer efeito a partir do ingresso nos quadros permanentes.
 
-###### Art. 58.º A competência disciplinar para aplicação das penas escolares é a seguinte:
+Art. 58.º A competência disciplinar para aplicação das penas escolares é a seguinte:
 
 a) Director:
 
@@ -708,11 +735,11 @@ d) Comandantes de companhia:
 
 3 - Privação de saídas até três dias.
 
-###### Art. 59.º Além da eliminação do corpo de alunos por motivos disciplinares, são também eliminados os alunos que, salvo motivo de saúde, reprovem mais de um ano durante a frequência do curso.
+Art. 59.º Além da eliminação do corpo de alunos por motivos disciplinares, são também eliminados os alunos que, salvo motivo de saúde, reprovem mais de um ano durante a frequência do curso.
 
 ## TÍTULO IV — Organização dos cursos
 
-###### Art. 60.º - 1 - No respeitante à organização dos cursos a ministrar na ESSM, deverá observar-se o determinado nos artigos 14.º a 18.º, inclusive, do [Decreto-Lei n.º 266/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1979-381360), de 2 de Agosto.
+Art. 60.º - 1 - No respeitante à organização dos cursos a ministrar na ESSM, deverá observar-se o determinado nos artigos 14.º a 18.º, inclusive, do [Decreto-Lei n.º 266/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1979-381360), de 2 de Agosto.
 
 2 - A ESSM deve estar preparada para ministrar os cursos abaixo discriminados, sendo responsável pela elaboração dos planos dos vários cursos e da sua orientação, de acordo com as directivas superiores dimanadas do Estado-Maior-General das Forças Armadas (EMGFA), ouvidos os estados-maiores dos ramos:
 
@@ -726,19 +753,19 @@ c) Cursos de formação de técnicos auxiliares de diagnóstico e terapêutica, 
 
 4 - A ESSM cuidará de obter a homologação do Ministro dos Assuntos Sociais dos programas dos cursos de formação e especialização com equivalência aos professados nas escolas e centros dependentes da Secretaria de Estado da Saúde, bem como as condições de idoneidade e de equivalência dos cursos que vierem a ser criados.
 
-###### Art. 61.º - 1 - O ensino das disciplinas relativas aos diversos cursos é ministrado em aulas teóricas e práticas e complementado, conforme os casos, por trabalhos de aplicação, conferências, simpósios, visitas e missões.
+Art. 61.º - 1 - O ensino das disciplinas relativas aos diversos cursos é ministrado em aulas teóricas e práticas e complementado, conforme os casos, por trabalhos de aplicação, conferências, simpósios, visitas e missões.
 
 2 - Deverá constituir preocupação permanente dos professores, instrutores e monitores a participação activa dos alunos em todas as actividades escolares.
 
-###### Art. 62.º Além das disciplinas inerentes a cada um dos cursos, a Escola ministra ainda instrução de educação física a todos os cursos, estágios ou tirocínios, atendendo às exigências da preparação física e do trabalho intelectual dos alunos.
+Art. 62.º Além das disciplinas inerentes a cada um dos cursos, a Escola ministra ainda instrução de educação física a todos os cursos, estágios ou tirocínios, atendendo às exigências da preparação física e do trabalho intelectual dos alunos.
 
-###### Art. 63.º A instrução dos diversos cursos, estágios e tirocínios será ainda completada com actividades circum-escolares adequadas, a regulamentar por disposições internas.
+Art. 63.º A instrução dos diversos cursos, estágios e tirocínios será ainda completada com actividades circum-escolares adequadas, a regulamentar por disposições internas.
 
-###### Art. 64.º As condições de frequência dos cursos, avaliação de conhecimentos, classificações a retribuir e condições de aproveitamento escolar serão fixadas por regulamento interno a propor pela direcção da Escola e aprovado pelo CEMGFA.
+Art. 64.º As condições de frequência dos cursos, avaliação de conhecimentos, classificações a retribuir e condições de aproveitamento escolar serão fixadas por regulamento interno a propor pela direcção da Escola e aprovado pelo CEMGFA.
 
-###### Art. 65.º O aproveitamento final dos cursos de formação e especialização será registado em diploma ou carta de curso de modelo a fixar por portaria conjunta do CEMGFA e do Ministro dos Assuntos Sociais e que poderá servir de base para inscrição nas organizações sócio-profissionais respectivas a nível nacional.
+Art. 65.º O aproveitamento final dos cursos de formação e especialização será registado em diploma ou carta de curso de modelo a fixar por portaria conjunta do CEMGFA e do Ministro dos Assuntos Sociais e que poderá servir de base para inscrição nas organizações sócio-profissionais respectivas a nível nacional.
 
-###### Art. 66.º Os períodos de férias escolares são os seguintes:
+Art. 66.º Os períodos de férias escolares são os seguintes:
 
 Natal - dez dias;
 
@@ -748,24 +775,24 @@ Páscoa - dez dias;
 
 Férias grandes - trinta dias.
 
-###### Art. 67.º Em cada um dos diferentes cursos poderá haver prémios pecuniários honoríficos ou outros de natureza especial a conceder aos alunos nas condições que forem estabelecidas em regulamento próprio, proposto pela direcção da Escola e aprovado pelo CEMGFA.
+Art. 67.º Em cada um dos diferentes cursos poderá haver prémios pecuniários honoríficos ou outros de natureza especial a conceder aos alunos nas condições que forem estabelecidas em regulamento próprio, proposto pela direcção da Escola e aprovado pelo CEMGFA.
 
 ## TÍTULO V — Admissão e distribuição de alunos
 
-###### Art. 68.º - 1 - De acordo com o artigo 19.º do [Decreto-Lei n.º 266/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1979-381360), de 2 de Agosto, as condições de admissão, operações de concurso, selecção e incorporação dos candidatos constarão de regulamento próprio para cada curso, a promulgar por portaria conjunta do CEMGFA e dos chefes dos estados-maiores dos ramos.
+Art. 68.º - 1 - De acordo com o artigo 19.º do [Decreto-Lei n.º 266/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1979-381360), de 2 de Agosto, as condições de admissão, operações de concurso, selecção e incorporação dos candidatos constarão de regulamento próprio para cada curso, a promulgar por portaria conjunta do CEMGFA e dos chefes dos estados-maiores dos ramos.
 
 2 - Nos regulamentos a promulgar serão definidas as atribuições da ESSM nas operações referidas no número anterior.
 
-###### Art. 69.º Compete ao CEMGFA fixar anualmente o número de vagas a preencher em cada um dos cursos, tendo em conta as necessidades estimadas pelos estados-maiores dos três ramos das forças armadas, o número de alunos existentes e a capacidade da Escola.
+Art. 69.º Compete ao CEMGFA fixar anualmente o número de vagas a preencher em cada um dos cursos, tendo em conta as necessidades estimadas pelos estados-maiores dos três ramos das forças armadas, o número de alunos existentes e a capacidade da Escola.
 
 ## TÍTULO VI — Disposições finais e transitórias
 
-###### Art. 70.º - 1 - Compete ao EMGFA a segurança e defesa da ESSM.
+Art. 70.º - 1 - Compete ao EMGFA a segurança e defesa da ESSM.
 
 2 - As normas de segurança em vigor no EMGFA terão aplicação na ESSM, sem prejuízo daquelas que o seu director entender empregar, nomeadamente quanto à circulação e identificação de pessoas e veículos e estacionamento destes.
 
-###### Art. 71.º A assistência jurídica eventualmente necessária será prestada pelo EMGFA.
+Art. 71.º A assistência jurídica eventualmente necessária será prestada pelo EMGFA.
 
-###### Art. 72.º O dia 2 de Agosto, que coincide com a criação da ESSM, será o dia da Escola, devendo ser sempre comemorado com especial solenidade e brilho.
+Art. 72.º O dia 2 de Agosto, que coincide com a criação da ESSM, será o dia da Escola, devendo ser sempre comemorado com especial solenidade e brilho.
 
-###### Art. 73.º Todas as dúvidas que surjam na aplicação do presente diploma serão esclarecidas por despacho conjunto do CEMGFA e dos chefes dos estados-maiores dos ramos.
+Art. 73.º Todas as dúvidas que surjam na aplicação do presente diploma serão esclarecidas por despacho conjunto do CEMGFA e dos chefes dos estados-maiores dos ramos.

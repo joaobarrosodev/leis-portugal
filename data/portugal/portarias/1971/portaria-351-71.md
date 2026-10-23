@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 152/1971, 1º Suplemento, Série I de 1971-06-30
   number: '152'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 980-(1) a 980-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/06/15201/00010010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/351-1971-217374
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ab03b7d61910b915723c3d50c637c6abdd72f087072e66832e6c16dfa9e3bba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b70005f6f1ffec088bc61a3b840e779796f49e32c93c55a160456bac950b738
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alvará
+- Construção Civil
+- Empreiteiro de Obras Públicas
+- Obras Públicas
 relationships:
 - type: amended_by
   target: pt:dre:285742:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:473969:por
+  label: "Alteradas as notas (8) e (9) ao mapa IV anexo do presente diploma, pela PORT.265/80.19.05.1980.MHOP, DR.IS [115]\
+    \ de 19.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/265-1980-473969
+  date: '1980-05-19'
+- type: cites
+  target: pt:dre:146734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627642:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:285742:por
+  label: "Revogada a partir de 01.08.1988, com excepção dos arts. 1º a 6, nº 1 do art. 7º e nºs 1 e 2 do art. 10º, pelo DEC\
+    \ LEI.100/88.23.03.1988.MOPTC, DR.IS [69] de 23.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-1988-285742
+  date: '1988-03-23'
+- type: repealed_by
+  target: pt:dre:285743:por
+  label: "Revogados os artigos 1.º a 6.º, o n.º 1 do artigo 7.º e os n.os 1 e 2 do artigo 10.º do regulamento, pelo DEC LEI.99/88.23.03.1988.MOPTC,\
+    \ DR.IS [69] de 23.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-1988-285743
+  date: '1988-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:52Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +137,7 @@ Regulamento da Comissão de Inscrição e Classificação dos Empreiteiros de Ob
 
 ### CAPÍTULO I — Constituição, competência e funcionamento
 
-###### Artigo 1.º - 1. A Comissão de Inscrição e Classificação dos Empreiteiros de Obras Públicas e dos Industriais da Construção Civil tem a seguinte composição:
+Artigo 1.º - 1. A Comissão de Inscrição e Classificação dos Empreiteiros de Obras Públicas e dos Industriais da Construção Civil tem a seguinte composição:
 
 a) O presidente do Conselho Superior de Obras Públicas, que presidirá;
 
@@ -133,7 +175,7 @@ o) Um secretário sem direito a voto.
 
 4. Os vogais da Comissão serão substituídos nos seus impedimentos pelos substitutos legais e no caso dos representantes dos organismos corporativos e dos municípios por suplentes especialmente designados.
 
-###### Art. 2.º - 1. Compete à Comissão:
+Art. 2.º - 1. Compete à Comissão:
 
 a) Conceder o alvará de empreiteiro de obras públicas às empresas que o requeiram e que satisfaçam às condições exigidas;
 
@@ -145,7 +187,7 @@ d) Modificar, suspender, cancelar ou cassar os alvarás concedidos.
 
 2. A Comissão poderá delegar no presidente e nos vice-presidentes os poderes para suspender os alvarás dos empreiteiros de obras públicas e dos industriais da construção civil por períodos não superiores a três meses.
 
-###### Art. 3.º - 1. A Comissão funciona por meio de duas secções distintas, tendo cada uma o seu vice-presidente.
+Art. 3.º - 1. A Comissão funciona por meio de duas secções distintas, tendo cada uma o seu vice-presidente.
 
 2. Cada uma das secções reúne ordinàriamente uma vez por mês e extraordinàriamente sempre que se torne necessário.
 
@@ -153,7 +195,7 @@ d) Modificar, suspender, cancelar ou cassar os alvarás concedidos.
 
 4. A ordem do dia das sessões é levada ao conhecimento dos vogais da Comissão pelo respectivo aviso convocatório.
 
-###### Art. 4.º A 1.ª secção tem a competência consignada nas alíneas a), c) e d) do n.º 1 do artigo 2.º quanto a alvarás dos empreiteiros de obras públicas e é constituída pelos seguintes vogais:
+Art. 4.º A 1.ª secção tem a competência consignada nas alíneas a), c) e d) do n.º 1 do artigo 2.º quanto a alvarás dos empreiteiros de obras públicas e é constituída pelos seguintes vogais:
 
 a) Os directores-gerais do Ministério das Obras Públicas;
 
@@ -173,7 +215,7 @@ h) Um representante do Sindicato Nacional dos Construtores Civis;
 
 i) Um representante de cada um dos grémios regionais dos industriais da construção civil e obras públicas.
 
-###### Art. 5.º A 2.ª secção tem a competência consignada nas alíneas b), c) e d) do n.º 1 do artigo 2.º quanto a alvarás dos industriais da construção civil e é constituída pelos seguintes vogais:
+Art. 5.º A 2.ª secção tem a competência consignada nas alíneas b), c) e d) do n.º 1 do artigo 2.º quanto a alvarás dos industriais da construção civil e é constituída pelos seguintes vogais:
 
 a) Um procurador da República;
 
@@ -193,7 +235,7 @@ h) Um representante do agrupamento dos Municípios de Lisboa, Sintra, Oeiras, Ca
 
 i) Um representante do agrupamento dos Municípios do Porto, Vila Nova de Gaia, Espinho, Matosinhos, Valongo, Gondomar e Maia.
 
-###### Art. 6.º - 1. Compete ao presidente:
+Art. 6.º - 1. Compete ao presidente:
 
 a) Convocar os membros para as sessões e presidir a estas;
 
@@ -209,7 +251,7 @@ e) Assinar a correspondência.
 
 3. O presidente terá sempre voto de qualidade, bem como os vice-presidentes quando o substituam.
 
-###### Art. 7.º - 1. Compete ao secretário da Comissão:
+Art. 7.º - 1. Compete ao secretário da Comissão:
 
 a) Dirigir os serviços de secretaria;
 
@@ -225,7 +267,7 @@ f) Promover a publicação, no Diário do Governo, de todas as resoluções da C
 
 2. São considerados reservados todos os documentos constantes de processos de inscrição e classificação de empreiteiros e industriais, pelo que deles não podem ser passadas certidões.
 
-###### Art. 8.º - 1. Os empreiteiros de obras públicas e os industriais da construção civil que pretenderem obter alvará requerê-lo-ão à Comissão, instruindo o pedido com os seguintes documentos:
+Art. 8.º - 1. Os empreiteiros de obras públicas e os industriais da construção civil que pretenderem obter alvará requerê-lo-ão à Comissão, instruindo o pedido com os seguintes documentos:
 
 1) Certidão da inscrição no grémio regional dos industriais da construção civil e obras públicas respectivo;
 
@@ -251,13 +293,13 @@ f) Promover a publicação, no Diário do Governo, de todas as resoluções da C
 
 4. Para os efeitos previstos no número anterior, o grémio regional dos industriais da construção civil e obras públicas respectivo deverá pronunciar-se no prazo de sessenta dias, entendendo-se nada ter a opor se o não fizer dentro deste prazo.
 
-###### Art. 9.º - 1. O secretário promoverá a junção, pelos requerentes, dos documentos em falta e dos que se tornem complementarmente necessários à instrução, consultando quaisquer organismos públicos ou entidades particulares.
+Art. 9.º - 1. O secretário promoverá a junção, pelos requerentes, dos documentos em falta e dos que se tornem complementarmente necessários à instrução, consultando quaisquer organismos públicos ou entidades particulares.
 
 2. O processo será distribuído a um relator, designado pelo presidente.
 
 3. O relator elaborará o seu relatório, com proposta fundamentada de resolução, em prazo que não deverá exceder quinze dias, contados da data da recepção do processo.
 
-###### Art. 10.º - 1. As deliberações serão tomadas por maioria de votos e só serão válidas quando estejam presentes às reuniões de cada uma das secções, para além do presidente e do procurador da República, o número mínimo de seis vogais.
+Art. 10.º - 1. As deliberações serão tomadas por maioria de votos e só serão válidas quando estejam presentes às reuniões de cada uma das secções, para além do presidente e do procurador da República, o número mínimo de seis vogais.
 
 2. Exceptuam-se do disposto no número anterior as deliberações de suspensão ou cessação de alvarás, que só serão válidas estando presentes todos os membros da Comissão, sendo estes convocados para o efeito com aviso de recepção.
 
@@ -271,17 +313,17 @@ f) Promover a publicação, no Diário do Governo, de todas as resoluções da C
 
 Efeitos dos alvarás
 
-###### Art. 11.º - 1. Os empreiteiros de obras públicas inscritos serão agrupados, segundo as suas especialidades, nas categorias e subcategorias constantes do mapa I anexo a este regulamento.
+Art. 11.º - 1. Os empreiteiros de obras públicas inscritos serão agrupados, segundo as suas especialidades, nas categorias e subcategorias constantes do mapa I anexo a este regulamento.
 
 2. Os industriais da construção civil serão inscritos na categoria e, segundo as sua especialidades, nas subcategorias referidas no mapa II também anexo a este regulamento.
 
-###### Art. 12.º - 1. A inscrição em cada uma das categorias habilita o empreiteiro de obras públicas à execução dos trabalhos compreendidos nas subcategorias assinaladas no mapa I e, bem assim, a coordenar a realização de todos os abrangidos pelas respectivas subcategorias, que deverão, todavia, ser executados por empresas habilitadas com os respectivos alvarás.
+Art. 12.º - 1. A inscrição em cada uma das categorias habilita o empreiteiro de obras públicas à execução dos trabalhos compreendidos nas subcategorias assinaladas no mapa I e, bem assim, a coordenar a realização de todos os abrangidos pelas respectivas subcategorias, que deverão, todavia, ser executados por empresas habilitadas com os respectivos alvarás.
 
 2. A inscrição na categoria habilita o industrial da construção civil a executar os trabalhos que se enquadrem nas subcategorias assinaladas no mapa II e, bem assim, a orientar a execução de todos os abrangidos pelas restantes subcategorias, que deverão, todavia, ser realizados por empresas habilitadas com os respectivos alvarás.
 
-###### Art. 13.º A correspondência entre as categorias, subcategorias e classes dos alvarás de empreiteiros de obras públicas e de industriais da construção civil é a estabelecida no mapa III, anexo a este regulamento.
+Art. 13.º A correspondência entre as categorias, subcategorias e classes dos alvarás de empreiteiros de obras públicas e de industriais da construção civil é a estabelecida no mapa III, anexo a este regulamento.
 
-###### Art. 14.º - 1. Para a inscrição nas várias classes devem, em regra, os quadros dos empreiteiros de obras públicas e dos industriais da construção civil incluir um director técnico e os técnicos permanentes de especialização adequada às categorias e subcategorias requeridas, de harmonia com o constante do mapa IV anexo a este regulamento, sem prejuízo do que se encontre fixado em legislação especial.
+Art. 14.º - 1. Para a inscrição nas várias classes devem, em regra, os quadros dos empreiteiros de obras públicas e dos industriais da construção civil incluir um director técnico e os técnicos permanentes de especialização adequada às categorias e subcategorias requeridas, de harmonia com o constante do mapa IV anexo a este regulamento, sem prejuízo do que se encontre fixado em legislação especial.
 
 2. Os técnicos diplomados que pertençam aos quadros permanentes dos empreiteiros ou industriais não poderão fazer parte de quadro da mesma natureza de outro empreiteiro ou industrial inscrito e classificado.
 
@@ -293,19 +335,19 @@ Efeitos dos alvarás
 
 6. A apresentação de reclamações contra a inscrição feita pela Comissão será regulada, quanto a formalidades e prazos, pelo disposto nos n.os 1 e 2 dos artigos 20.º e 21.º
 
-###### Art. 15.º A inscrição dos empreiteiros de obras públicas e dos industriais da construção civil nas classes constantes do mapa III atenderá à organização técnica, à dimensão empresarial e aos meios de acção disponíveis para o exercício da actividade.
+Art. 15.º A inscrição dos empreiteiros de obras públicas e dos industriais da construção civil nas classes constantes do mapa III atenderá à organização técnica, à dimensão empresarial e aos meios de acção disponíveis para o exercício da actividade.
 
-###### Art. 16.º - 1. Os empreiteiros de obras públicas e os industriais da construção civil podem requerer a elevação ou baixa de classe e a alteração de subcategorias, mediante a adequada instrução do respectivo processo e o pagamento das taxas devidas; procedimento idêntico será adoptado pelos empreiteiros que pretendam a alteração da sua categoria.
+Art. 16.º - 1. Os empreiteiros de obras públicas e os industriais da construção civil podem requerer a elevação ou baixa de classe e a alteração de subcategorias, mediante a adequada instrução do respectivo processo e o pagamento das taxas devidas; procedimento idêntico será adoptado pelos empreiteiros que pretendam a alteração da sua categoria.
 
 2. Mensalmente, serão publicadas no Diário do Governo as listas dos empreiteiros e dos industriais a quem foram passados alvarás, com a indicação das respectivas categorias, subcategorias e classes.
 
 ### CAPÍTULO III — Fiscalização
 
-###### Art. 17.º - 1. As direcções-gerais, ou organismos equiparados, dos Ministérios das Obras Públicas e das Comunicações enviarão à Comissão, até ao fim de Fevereiro de cada ano e com referência ao ano anterior, uma relação dos empreiteiros que executaram obras públicas nesse ano, com a indicação, para cada um deles, do nome e morada, designação das obras executadas ou em execução, sua localização administrativa e seu valor.
+Art. 17.º - 1. As direcções-gerais, ou organismos equiparados, dos Ministérios das Obras Públicas e das Comunicações enviarão à Comissão, até ao fim de Fevereiro de cada ano e com referência ao ano anterior, uma relação dos empreiteiros que executaram obras públicas nesse ano, com a indicação, para cada um deles, do nome e morada, designação das obras executadas ou em execução, sua localização administrativa e seu valor.
 
 2. Compete às entidades referidas no número anterior e às administrações que tenham a seu cargo a realização de obras públicas informar a Comissão sobre o modo como os empreiteiros cumpriram as suas obrigações contratuais referindo os factos que possam dar lugar à aplicação de sanção, nos termos deste regulamento.
 
-###### Art. 18.º - 1. Quando se trate de obras particulares, sujeitas ao condicionamento previsto no [Decreto-Lei n.º 582/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1970-146734) e a licenciamento municipal, compete aos serviços municipais informar sobre a forma como decorreu a sua execução, nos termos do artigo 25.º do citado diploma.
+Art. 18.º - 1. Quando se trate de obras particulares, sujeitas ao condicionamento previsto no [Decreto-Lei n.º 582/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1970-146734) e a licenciamento municipal, compete aos serviços municipais informar sobre a forma como decorreu a sua execução, nos termos do artigo 25.º do citado diploma.
 
 2. Para os devidos efeitos do disposto no n.º 4 do artigo 12.º do [Decreto-Lei n.º 582/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1970-146734), ter-se-á em conta que o empreiteiro de obras públicas ou o industrial da construção civil deve ser titular de alvará de classe correspondente ao valor da estimativa global do custo da obra a realizar, incluindo os trabalhos especializados que devam ser executados por outra empresa, mas de cuja coordenação é responsável.
 
@@ -313,33 +355,33 @@ Efeitos dos alvarás
 
 ### CAPÍTULO IV — Penalidades
 
-###### Art. 19.º - 1. Tendo em conta as informações a que se refere o artigo 25.º do [Decreto-Lei n.º 582/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1970-146734) e o n.º 2 do artigo 17.º deste regulamento, e ouvidas as partes em causa, a Comissão apreciará se há lugar para aplicação de alguma das sanções previstas nos artigos 28.º e 29.º do [Decreto-Lei n.º 582/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1970-146734) e nos artigos 10.º e 11.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), com a redacção dada pelo artigo único do [Decreto-Lei n.º 42200](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42200-1959-586252) e artigo 1.º do [Decreto-Lei n.º 45041](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45041-1963-627642).
+Art. 19.º - 1. Tendo em conta as informações a que se refere o artigo 25.º do [Decreto-Lei n.º 582/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1970-146734) e o n.º 2 do artigo 17.º deste regulamento, e ouvidas as partes em causa, a Comissão apreciará se há lugar para aplicação de alguma das sanções previstas nos artigos 28.º e 29.º do [Decreto-Lei n.º 582/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1970-146734) e nos artigos 10.º e 11.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), com a redacção dada pelo artigo único do [Decreto-Lei n.º 42200](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42200-1959-586252) e artigo 1.º do [Decreto-Lei n.º 45041](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45041-1963-627642).
 
 2. As suspensões ou cassações de alvarás serão imediatamente comunicadas, com aviso de recepção, ao interessado ou seu representante e à entidade participante, mas só terão efeito depois de decididas as eventuais reclamações formuladas nos termos dos artigos seguintes.
 
-###### Art. 20.º - 1. Os interessados podem reclamar para a Comissão dentro do prazo de quinze dias sobre a data da recepção do aviso a que se refere o artigo anterior.
+Art. 20.º - 1. Os interessados podem reclamar para a Comissão dentro do prazo de quinze dias sobre a data da recepção do aviso a que se refere o artigo anterior.
 
 2. A deliberação tomada sobre a reclamação será comunicada ao interessado e à entidade participante, com aviso de recepção.
 
 3. As reclamações sobre suspensões de alvarás motivadas por falta do cumprimento do disposto nos artigos 22.º, 23.º, 24.º, 25.º e 26.º só serão aceites quando nelas se produz prova da entrega, nos prazos legais, dos documentos cuja falta motivou a aplicação dessa penalidade.
 
-###### Art. 21.º - 1. O recurso para o Ministro das Obras Públicas da deliberação tomada pela Comissão deverá ser interposto no prazo de quinze dias, contados da data da recepção do aviso a que se refere o n.º 2 do artigo anterior.
+Art. 21.º - 1. O recurso para o Ministro das Obras Públicas da deliberação tomada pela Comissão deverá ser interposto no prazo de quinze dias, contados da data da recepção do aviso a que se refere o n.º 2 do artigo anterior.
 
 2. Decorrido esse prazo sem apresentação de reclamação, considera-se definitiva a resolução tomada.
 
 3. As resoluções definitivas serão publicadas no Diário do Governo.
 
-###### Art. 22.º - 1. Os empreiteiros de obras públicas e os industriais da construção civil inscritos entregarão à Comissão, até ao último dia de Fevereiro de cada ano, e com referência ao ano anterior, relações, utilizando o modelo n.º 1 ou n.º 1-A anexo a este regulamento, das obras executadas e em execução, sob pena de suspensão do alvará.
+Art. 22.º - 1. Os empreiteiros de obras públicas e os industriais da construção civil inscritos entregarão à Comissão, até ao último dia de Fevereiro de cada ano, e com referência ao ano anterior, relações, utilizando o modelo n.º 1 ou n.º 1-A anexo a este regulamento, das obras executadas e em execução, sob pena de suspensão do alvará.
 
 2. Incorrem também na penalidade estabelecida no número anterior os empreiteiros e os industriais inscritos que, não tendo executado ou em execução qualquer obra no ano anterior, não entregarem à Comissão, no prazo nele fixado, a respectiva declaração relativa a cada alvará, utilizando o modelo n.º 2 anexo a este regulamento.
 
-###### Art. 23.º Quando se verificarem alterações nos quadros técnicos dos empreiteiros de obras públicas e dos industriais da construção civil inscritos, deverão estes participá-las à Comissão, sob pena de aplicação da penalidade prevista no artigo 27.º
+Art. 23.º Quando se verificarem alterações nos quadros técnicos dos empreiteiros de obras públicas e dos industriais da construção civil inscritos, deverão estes participá-las à Comissão, sob pena de aplicação da penalidade prevista no artigo 27.º
 
-###### Art. 24.º Os empreiteiros de obras públicas e os industriais da construção civil inscritos, cujos técnicos passem a estar abrangidos, respectivamente, pelo disposto nos n.os 2, 3 e 4 do artigo 14.º, deverão comunicar o facto à Comissão no prazo de oito dias, contados da data da nomeação dos mesmos técnicos para o cargo incompatível e providenciarão imediatamente no sentido da sua substituição, sob pena de suspensão dos alvarás concedidos.
+Art. 24.º Os empreiteiros de obras públicas e os industriais da construção civil inscritos, cujos técnicos passem a estar abrangidos, respectivamente, pelo disposto nos n.os 2, 3 e 4 do artigo 14.º, deverão comunicar o facto à Comissão no prazo de oito dias, contados da data da nomeação dos mesmos técnicos para o cargo incompatível e providenciarão imediatamente no sentido da sua substituição, sob pena de suspensão dos alvarás concedidos.
 
-###### Art. 25.º Os empreiteiros de obras públicas ou industriais da construção civil inscritos são obrigados a participar à Comissão qualquer alteração nos seus meios de acção que possa importar variação na categoria, subcategoria ou classe, sem o que se aplicará a penalidade prevista no artigo 27.º
+Art. 25.º Os empreiteiros de obras públicas ou industriais da construção civil inscritos são obrigados a participar à Comissão qualquer alteração nos seus meios de acção que possa importar variação na categoria, subcategoria ou classe, sem o que se aplicará a penalidade prevista no artigo 27.º
 
-###### Art. 26.º - 1. Deverão ser sempre comunicadas à Comissão todas as alterações do pacto social das sociedades titulares de alvará de empreiteiro de obras públicas ou de industrial da construção civil, nomeadamente mudanças de sede, cessões de quotas, alterações de participações no capital, nomeação ou demissão de gerentes, juntando-se certidões das respectivas escrituras ou outros documentos equivalentes.
+Art. 26.º - 1. Deverão ser sempre comunicadas à Comissão todas as alterações do pacto social das sociedades titulares de alvará de empreiteiro de obras públicas ou de industrial da construção civil, nomeadamente mudanças de sede, cessões de quotas, alterações de participações no capital, nomeação ou demissão de gerentes, juntando-se certidões das respectivas escrituras ou outros documentos equivalentes.
 
 2. As empresas individuais deverão comunicar sempre à Comissão as mudanças quer da firma comercial que usam, quer da situação do seu escritório ou estabelecimento, juntando no primeiro caso notas de averbamento e no segundo notas de averbamento ou certidões da nova matrícula no registo comercial, consoante a situação do novo escritório ou estabelecimento for na área da conservatória onde estiver feita a matrícula ou na de outra conservatória.
 
@@ -347,17 +389,17 @@ Efeitos dos alvarás
 
 4. O não cumprimento do disposto nos números anteriores dará lugar à aplicação da penalidade prevista no artigo seguinte.
 
-###### Art. 27.º - 1. A falta de cumprimento do disposto nos artigos 23.º, 25.º e 26.º no prazo de sessenta dias, contados da data em que se verificou o facto por eles abrangido, implica a suspensão do alvará.
+Art. 27.º - 1. A falta de cumprimento do disposto nos artigos 23.º, 25.º e 26.º no prazo de sessenta dias, contados da data em que se verificou o facto por eles abrangido, implica a suspensão do alvará.
 
 2. Os grémios regionais dos industriais da construção civil e obras públicas devem participar à Comissão todos os factos que interessem à aplicação do disposto no número anterior ou confirmar as participações que os empreiteiros ou industriais façam da ocorrência dos mesmos.
 
-###### Art. 28.º Poderão ser suspensos os alvarás das empresas que não exerçam a actividade para que estão tituladas em período que indicie incapacidade para o exercício efectivo da mesma, devendo, nesse caso, o empreiteiro de obras públicas ou o industrial da construção civil solicitar, no prazo de seis meses, o levantamento da suspensão com fundamento no reinício da actividade da empresa.
+Art. 28.º Poderão ser suspensos os alvarás das empresas que não exerçam a actividade para que estão tituladas em período que indicie incapacidade para o exercício efectivo da mesma, devendo, nesse caso, o empreiteiro de obras públicas ou o industrial da construção civil solicitar, no prazo de seis meses, o levantamento da suspensão com fundamento no reinício da actividade da empresa.
 
-###### Art. 29.º - 1. Serão cassados definitivamente os alvarás dos empreiteiros de obras públicas e dos industriais da construção civil a quem venha a reconhecer-se falta de idoneidade moral ou profissional, e bem assim os que, sem motivo que a Comissão considere justificado, se mantenham suspensos por mais de seis meses.
+Art. 29.º - 1. Serão cassados definitivamente os alvarás dos empreiteiros de obras públicas e dos industriais da construção civil a quem venha a reconhecer-se falta de idoneidade moral ou profissional, e bem assim os que, sem motivo que a Comissão considere justificado, se mantenham suspensos por mais de seis meses.
 
 2. Se durante o período da suspensão a titular do alvará incorrer em qualquer falta, a suspensão converter-se-á em cassação.
 
-###### Art. 30.º - 1. Resolvida a suspensão, o cancelamento ou a cassação, o empreiteiro de obras públicas ou o industrial da construção civil deverá fazer a entrega do alvará nos quinze dias seguintes à publicação da resolução definitiva no Diário do Governo, sob pena de apreensão pelas autoridades policiais.
+Art. 30.º - 1. Resolvida a suspensão, o cancelamento ou a cassação, o empreiteiro de obras públicas ou o industrial da construção civil deverá fazer a entrega do alvará nos quinze dias seguintes à publicação da resolução definitiva no Diário do Governo, sob pena de apreensão pelas autoridades policiais.
 
 2. Os empreiteiros ou industriais que sonegarem os alvarás que tenham sido suspensos, cancelados ou cassados, impedindo assim a sua apreensão, serão considerados em exercício ilegal da profissão.
 
@@ -365,11 +407,11 @@ Efeitos dos alvarás
 
 Disposições finais
 
-###### Art. 31.º As dúvidas e omissões que se verifiquem na aplicação deste regulamento serão resolvidas por despacho do Ministro das Obras Públicas.
+Art. 31.º As dúvidas e omissões que se verifiquem na aplicação deste regulamento serão resolvidas por despacho do Ministro das Obras Públicas.
 
-###### Art. 32.º Ficam revogadas as disposições do regulamento aprovado pela [Portaria n.º 18475](https://diariodarepublica.pt/dr/detalhe/portaria/18475-1961-170939), de 16 de Maio de 1961.
+Art. 32.º Ficam revogadas as disposições do regulamento aprovado pela [Portaria n.º 18475](https://diariodarepublica.pt/dr/detalhe/portaria/18475-1961-170939), de 16 de Maio de 1961.
 
-**O Secretário de Estado das Obras Públicas, José Adolfo Pinto Eliseu.**
+O Secretário de Estado das Obras Públicas, José Adolfo Pinto Eliseu.
 
 MAPA I
 
@@ -627,13 +669,13 @@ Categoria única - Construção civil.
 
 2.ª subcategoria - Fundações especiais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/15201/00010010.pdf))](https://files.diariodarepublica.pt/1s/1971/06/15201/00010010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/15201/00010010.pdf)
 
 MAPA IV
 
 Direcção técnica, quadros permanente e complementar (ver nota 1) (ver nota 2) (ver nota 3)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/15201/00010010.pdf))](https://files.diariodarepublica.pt/1s/1971/06/15201/00010010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/15201/00010010.pdf)
 
 (nota 1) As declarações dos directores técnicos referentes às habilitações escolares mínimas, à experiência profissional e ao exclusivo da prestação de serviços à empresa serão visadas pela Ordem dos Engenheiros ou sindicatos profissionais interessados, que fundamentarão qualquer parecer que julguem de emitir.
 
@@ -643,14 +685,14 @@ Direcção técnica, quadros permanente e complementar (ver nota 1) (ver nota 2)
 
 Modelo n.º 1 (n.º 1 do artigo 22.º do Regulamento)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/15201/00010010.pdf))](https://files.diariodarepublica.pt/1s/1971/06/15201/00010010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/15201/00010010.pdf)
 
 Modelo n.º 1-A (n.º 1 do artigo 22.º do Regulamento)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/15201/00010010.pdf))](https://files.diariodarepublica.pt/1s/1971/06/15201/00010010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/15201/00010010.pdf)
 
 Modelo n.º 2 (n.º 2 do artigo 22.º do Regulamento)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/15201/00010010.pdf))](https://files.diariodarepublica.pt/1s/1971/06/15201/00010010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/15201/00010010.pdf)
 
-**O Secretário de Estado das Obras Públicas, José Adolfo Pinto Eliseu.**
+O Secretário de Estado das Obras Públicas, José Adolfo Pinto Eliseu.

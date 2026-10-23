@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 288/2001, 1º Suplemento, Série I-A de 2001-12-14
   number: '288'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8278-(12) a 8278-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/12/288a01/00120015.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/322-b/2001/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-b-2001-330633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:28:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49acb28ced0e4036d60b4906af4f2332992407330fce0d2d4fb4c5ac2b2cc028
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a38c53f94e1c0105d7a9a86dbbb90dd0d2ed2c31eb75c2a2818d1aa8f76cc976
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,93 @@ relationships:
   target: pt:dre:874170160:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Alterado o art. 6.º do Código do Imposto do Selo, aprovado pela Lei 150/99, de 11-Set DR.IS-A [213], na redacção\
+    \ da Lei 176-A/99, de 30-Dez, da Lei 30-C/2000, de 29-Dez, do presente diploma e da Lei 109-B/2001, de 27-Dez, pela LEI.32-B/2002.2002.12.30.AR\
+    \ DR.IS-A [301]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:447325:por
+  label: "Alterados os arts. 1.º a 37.º (na redacção do presente diploma e da Lei 176-A/99, de 30-Dez, da Lei 3-B/2000, de\
+    \ 04-Abr, da Lei 109-B/2001, de 27-Dez, da Lei 16-A/2002, de 31-Mai, da Lei 32-B/2002, de 30-Dez e do Dec Lei 160/2003,\
+    \ 19-Jul) do Código do Imposto de Selo, aprovado pela Lei 150/99, de 11-Set, e republicado em anexo bem como a respectiva\
+    \ Tabela Geral, pelo DEC LEI.287/2003.12.11.2003.MF, DR.IS-A [262] de 12.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-2003-447325
+  date: '2003-11-12'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art 3º e renumerado o art. 33º do Código do Imposto do Selo, aprovado pela Lei 150/99 de 11-Set, na redacção\
+    \ do presente diploma, republicado pelo Dec Lei 287/2003 de 12-Nov, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl]\
+    \ de 29.12.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 6.º do Código do Imposto de Selo, aprovado pela Lei 150/99 de 11-Set, na redacção do presente diploma,\
+    \ republicado pelo Dec Lei 287/2003 de 12-Nov, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:493013:por
+  label: "Alterado, a partir de 01.09.2009, o art. 3º do Código do Imposto de Selo, aprovado pela Lei 150/99 de 11-Set, na\
+    \ redacção do presente diploma, pelo DEC LEI.175/2009.04.08.2009.MFAP, DR.IS [149] de 04.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/175-2009-493013
+  date: '2009-08-04'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterado o art. 3.º do Código do Imposto do Selo, aprovado pelo Dec Lei 150/99 de 11-Set, na redacção do presente\
+    \ diploma, republicado pelo Dec Lei 287/2003 de 12-Nov, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:146237:por
+  label: "Alterado, a partir de 30.10.2012, o art. 3º do Código do Imposto do Selo, aprovado pela Lei 150/99, de 11-set ,\
+    \ na redação do presente diploma, pela LEI.55-A/2012.29.10.2012.AR, DR.IS [209-Supl] de 29.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2012-146237
+  date: '2012-10-29'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação ao art. 3º do Código do Imposto do Selo, aprovado pela Lei 150/99 de 11-set, alterado pelo presente\
+    \ diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Alterado o art 3.º, do Código do Imposto do Selo, aprovado pela Lei 150/99, de 11-set, na redação do presente diploma,
+    pelo(a) Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66145328:por
+  label: Alterado o art. 3.º do Código do Imposto do Selo aprovado pela Lei 150/99, de 11-set, alterado e republicado pelo
+    Dec Lei 287/2003, de 12-nov, na redação do presente diploma, pelo(a) Decreto-Lei n.º 7/2015 - Diário da República n.º
+    8/2015, Série I de 2015-01-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2015-66145328
+  date: '2015-01-13'
+- type: amended_by
+  target: pt:dre:874170160:por
+  label: Alterado, a partir de 1 de agosto de 2024, com efeitos a 1 de agosto de 2024, o artigo 28.º do Regulamento Emolumentar
+    dos Registos e Notariado, aprovado pelo presente diploma, pelo(a) Decreto-Lei n.º 48-D/2024 - Diário da República n.º
+    147/2024, Suplemento, Série I de 2024-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-d-2024-874170160
+  date: '2024-07-31'
 - type: cites
   target: celex:31969L0335
   label: null
   source: http://data.europa.eu/eli/dir/1969/335/oj
 article_structure:
-  article_count: 8
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:28:46Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +241,9 @@ r) Na transferência de sede estatutária ou de direcção efectiva de uma socie
 
 s) [Anterior alínea p).]
 
-###### Artigo 6.º — Outras isenções
+Artigo 6.º
+
+Outras isenções
 
 1 - ...
 
@@ -208,7 +283,9 @@ r) A constituição e o aumento do capital resultante da entrega por uma ou mais
 
 s) A constituição e o aumento do capital social de sociedades gestoras de participações sociais (SGPS).
 
-###### Artigo 13.º — Nascimento da obrigação tributária
+Artigo 13.º
+
+Nascimento da obrigação tributária
 
 Para efeitos das obrigações previstas no presente capítulo, a obrigação tributária considera-se constituída:
 
@@ -240,7 +317,9 @@ n) ...
 
 o) Nos actos referidos no n.º 26 da Tabela anexa ao presente Código, no momento da celebração da escritura que os titule.
 
-###### Artigo 31.º — Sociedade de capitais
+Artigo 31.º
+
+Sociedade de capitais
 
 1 - Para efeitos do presente Código, consideram-se sociedade de capitais as sociedades anónimas, sociedades por quotas e sociedades em comandita por acções, nos termos do artigo 3.º da Directiva n.º [69/335/CE](http://data.europa.eu/eli/dir/1969/335/oj?locale=pt), de 17 de Julho.
 
@@ -316,12 +395,12 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 2002.
 
 Visto e aprovado em Conselho de Ministros de 28 de Outubro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Guilherme d'Oliveira Martins - António Luís Santos Costa - Eduardo Guimarães de Oliveira Fernandes.
 
-**Promulgado em 11 de Dezembro de 2001.**
+Promulgado em 11 de Dezembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Dezembro de 2001.**
+Referendado em 13 de Dezembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

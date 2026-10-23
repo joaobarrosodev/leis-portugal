@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/32/1998/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1998-232134
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:01:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 974a64cfe0f18fad589f858055811944b17af1796a0d5aae0f1773e16332767a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c555a7e476867ab0d38997384ef7aefe1a317a99628a198880c319de78f31e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:01:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,14 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Aquisição de Equipamento
-- Transporte Aéreo
+- Aviação Civil
+- Comunicações
 - Controlo Técnico
 - Eurocontrol
 - Europa
-- Aviação Civil
-- Comunicações
-- Tráfego Aéreo
 - Normalização
+- Tráfego Aéreo
+- Transporte Aéreo
 relationships:
 - type: cites
   target: celex:31993L0065
@@ -87,15 +87,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1997/15/oj
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:01:41Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +128,7 @@ Os artigos 3.º e 4.º do Decreto-Lei n.º 242/95, de 13 de Setembro, passam a t
 
 3 - À medida em que as normas Eurocontrol previstas nos números anteriores forem sendo adoptadas pela Comissão das Comunidades Europeias, a lista identificativa das mesmas será publicada e actualizada por decreto-lei, quando constar de directiva comunitária, ou por portaria do Ministro do Equipamento, do Planeamento e da Administração do Território, nos restantes casos.
 
-###### Artigo 4.º
+Artigo 4.º
 
 Nos documentos gerais ou nos cadernos de encargos relativos aos contratos de aquisição de equipamentos ou de sistemas para a gestão do tráfego aéreo, a entidade adjudicante fará remissão para as normas Eurocontrol cuja observância for obrigatória de acordo com as normas publicadas nos termos do presente diploma.»
 
@@ -150,13 +150,13 @@ O anexo ao Decreto-Lei n.º 242/95, de 13 de Setembro, passa a ter a redacção 
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 1997. - O Primeiro-Ministro, António Manuel de Oliveira Guterres. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.
 
-**Promulgado em 26 de Janeiro de 1998.**
+Promulgado em 26 de Janeiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Janeiro de 1998.**
+Referendado em 29 de Janeiro de 1998.
 
 Pelo Primeiro-Ministro, Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros.
 

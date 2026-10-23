@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/134a00/33133320.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/210/1999/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1999-308516
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:07:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ea95952d95800b90f33f3226d2aa1cd3a6cca5be1a56bf98286bfd40312dcb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 358f92a75adc935b4d2e76a30dc00bdd60ed83235d971457ce00dc0bce01d8ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:07:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
-- Secretaria Geral
-- Recrutamento de Pessoal
 - Ministério da Cultura
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:520456:por
@@ -94,16 +94,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/681/1998/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/681/1998/09/01/p/dre
+- type: cites
+  target: pt:dre:469652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566634:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520456:por
+  label: "Revogado pelo DEC LEI.89/2007.29.03.2007.MC, DR.IS [63] de 29.03.2007, a partir de 01.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-2007-520456
+  date: '2007-03-29'
 article_structure:
   article_count: 29
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:07:55Z'
   warnings: []
   errors: []
 ---
@@ -218,7 +239,9 @@ a) A Divisão Administrativa e Financeira;
 
 b) A Divisão de Património e Aprovisionamento.
 
-###### Artigo 8.º — Divisão Administrativa e Financeira
+###### Artigo 8.º
+
+##### Divisão Administrativa e Financeira
 
 1 - À Divisão Administrativa e Financeira compete assegurar a gestão financeira e orçamental, bem como a organização e manutenção dos registos contabilísticos dos orçamentos geridos pela SG, e ainda o expediente e arquivo a esta relativo.
 
@@ -266,7 +289,9 @@ g) Assegurar a recepção, expedição e acompanhamento das chamadas telefónica
 
 h) Realizar o expediente relativo à publicação de diplomas emanados dos membros do Governo da área da cultura.
 
-###### Artigo 9.º — Divisão de Património e Aprovisionamento
+###### Artigo 9.º
+
+##### Divisão de Património e Aprovisionamento
 
 1 - À Divisão de Património e Aprovisionamento compete assegurar a gestão do património afecto à SG, aos gabinetes dos membros do Governo da área da cultura e aos serviços, comissões e grupos de trabalho a quem a SG presta apoio, assim como o aprovisionamento dos bens necessários ao funcionamento dos referidos serviços.
 
@@ -304,7 +329,9 @@ a) A Divisão de Recursos Humanos;
 
 b) A Divisão de Organização e Formação.
 
-###### Artigo 11.º — Divisão de Recursos Humanos
+###### Artigo 11.º
+
+##### Divisão de Recursos Humanos
 
 1 - À Divisão de Recursos Humanos compete:
 
@@ -348,7 +375,9 @@ h) Instruir os processos relativos a acidentes em serviço do pessoal da SG, dos
 
 i) Ocupar-se de outras tarefas, no âmbito da gestão administrativa do pessoal, de que for incumbida.
 
-###### Artigo 12.º — Divisão de Organização e Formação
+###### Artigo 12.º
+
+##### Divisão de Organização e Formação
 
 À Divisão de Organização e Formação compete:
 
@@ -384,7 +413,9 @@ b) A Divisão de Acompanhamento e Controlo.
 
 3 - O Gabinete de Planeamento e Controlo é dirigido por um director de serviços.
 
-###### Artigo 14.º — Divisão de Estudos e Planeamento
+###### Artigo 14.º
+
+##### Divisão de Estudos e Planeamento
 
 Compete à Divisão de Estudos e Planeamento:
 
@@ -396,7 +427,9 @@ c) Elaborar estudos de diagnóstico da situação na área da cultura, necessár
 
 d) Proceder de forma sistemática à recolha, análise, tratamento e consolidação de informação estatística relativa à área da cultura, realizando estudos sobre a situação, sua evolução, perspectivas e definição de metas de desenvolvimento.
 
-###### Artigo 15.º — Divisão de Acompanhamento e Controlo
+###### Artigo 15.º
+
+##### Divisão de Acompanhamento e Controlo
 
 À Divisão de Acompanhamento e Controlo compete:
 
@@ -446,7 +479,9 @@ a) A Divisão de Relações Públicas;
 
 b) A Divisão de Informação e Documentação.
 
-###### Artigo 18.º — Divisão de Relações Públicas
+###### Artigo 18.º
+
+##### Divisão de Relações Públicas
 
 À Divisão de Relações Públicas compete:
 
@@ -464,7 +499,9 @@ f) Preparar e organizar, no âmbito do Ministério da Cultura, quando tal for de
 
 g) Apoiar a organização de seminários, congressos, conferências e outras actividades, quando assim lhe for solicitado.
 
-###### Artigo 19.º — Divisão de Informação e Documentação
+###### Artigo 19.º
+
+##### Divisão de Informação e Documentação
 
 À Divisão de Informação e Documentação compete:
 
@@ -594,14 +631,14 @@ O presente diploma revoga o [Decreto-Lei n.º 59/97](https://diariodarepublica.p
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Manuel Maria Ferreira Carrilho.
 
-**Promulgado em 14 de Maio de 1999.**
+Promulgado em 14 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Maio de 1999.**
+Referendado em 25 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134a00/33133320.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/174a00/47644765.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/288/1999/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1999-345534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 574c6c60bafec4cfab186405be994e73906e7f642c6d74c160950759ef09ecee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 880a70e69123e707f5492b8b6762a501d0bd694b92035ace3ba250c07b45147a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Doença Animal
+- Alimento para Animais
 - BSE
-- Saúde Pública
+- Doença Animal
 - Fabrico Industrial
 - Proteção do Consumidor
-- Alimento para Animais
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:106647823:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:319734:por
+  label: "Alterados os arts. 2º e 3º do Dec Lei 393-B/98 de 04-Dez, com a redacção do presente diploma, pelo DEC LEI.61/2001.2001.02.19.MADRP\
+    \ DR.IS-A [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2001-319734
+  date: '2001-02-19'
+- type: amended_by
+  target: pt:dre:684611:por
+  label: "Alterado o art. 6º do Dec Lei 387/98 de 04-Dez, na redacção do presente diploma, pelo DEC LEI.26/2006.10.02.2006.MADRP,\
+    \ DR.IS-A [30] de 10.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-2006-684611
+  date: '2006-02-10'
 - type: cites
   target: celex:31996D0449
   label: null
@@ -89,16 +101,27 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/393-b/1998/12/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/393-b/1998/12/04/p/dre
+- type: repealed_by
+  target: pt:dre:580783:por
+  label: "Revogado o art. 2º pelo DEC LEI.211/2000.2000.09.02.MADRP, DR.IS-A [203]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2000-580783
+  date: '2000-09-02'
+- type: repealed_by
+  target: pt:dre:106647823:por
+  label: Revogado, a partir de 28.03.2017, o Dec Lei 387/98 de 04-dez, alterado pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 33/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2017-106647823
+  date: '2017-03-23'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:31Z'
   warnings: []
   errors: []
 ---
@@ -151,12 +174,12 @@ O presente diploma entra em vigor no primeiro dia útil após a sua publicação
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Joaquim Augusto Nunes de Pina Moura - Luís Medeiros Vieira - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 8 de Julho de 1999.**
+Promulgado em 8 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Julho de 1999.**
+Referendado em 14 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

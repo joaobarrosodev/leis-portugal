@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/576-1979-363887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b41e430e764d0958b18a9e719dec17995ddfa9ad937161da703e0c14a4c19bc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6422ba070c4f24b374e6501f8e80af0c526b83597b979dbcd2c01f870a575878
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Instituições de Previdência Social
+- Pessoal Técnico de Construção e Conservação de Edifícios
+- Reestruturação de Carreiras
+- Regime Jurídico
+- Trabalhador das Instituições de Previdência
 relationships:
 - type: amended_by
   target: pt:dre:547609:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:276873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382621:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:57Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +113,7 @@ Ao abrigo do disposto no artigo 1.º do [Decreto Regulamentar n.º 68/77](https:
 
 Manda o Governo da República Portuguesa, pelos Secretários de Estado da Administração Pública, do Orçamento, da Segurança Social e do Trabalho;
 
-###### Artigo 1.º São aditados aos artigos 8.º e 177.º e aos anexos II e III da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, respectivamente, o quadro G-1, os n.os 3 a 13, a tabela G-1 e o n.º 7-A, com a seguinte redacção:
+Artigo 1.º São aditados aos artigos 8.º e 177.º e aos anexos II e III da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, respectivamente, o quadro G-1, os n.os 3 a 13, a tabela G-1 e o n.º 7-A, com a seguinte redacção:
 
 ###### Artigo 8.º
 
@@ -237,7 +251,7 @@ TABELA G-1
 
 Quadro do pessoal técnico de construção e conservação de edifícios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25300/27862789.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25300/27862789.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25300/27862789.pdf)
 
 ...
 
@@ -267,7 +281,7 @@ Compete aos auxiliares técnicos, de um modo geral, manter os arquivos técnicos
 
 ...
 
-###### Art. 2.º Depois do artigo 63.º da mesma portaria são, antecedidos da menção «Quadro G-1 - Pessoal técnico de construção e conservação de edifícios», acrescentados os artigos 63.º-A, 63.º-B, 63.º-C, 63.º-D, 63.º-E, 63.º-F, 63.º-G, 63.º-H, 63.º-I e 63.º-J, com a redacção seguinte:
+Art. 2.º Depois do artigo 63.º da mesma portaria são, antecedidos da menção «Quadro G-1 - Pessoal técnico de construção e conservação de edifícios», acrescentados os artigos 63.º-A, 63.º-B, 63.º-C, 63.º-D, 63.º-E, 63.º-F, 63.º-G, 63.º-H, 63.º-I e 63.º-J, com a redacção seguinte:
 
 ###### Artigo 63.º-A — (Directores de serviços e chefes de divisão)
 
@@ -343,10 +357,10 @@ Os lugares de director de serviços e de chefe de divisão são providos entre e
 
 3 - Os lugares de auxiliar técnico de 2.ª classe são providos entre indivíduos habilitados com a escolaridade obrigatória.
 
-###### Art. 3.º - 1 - Os trabalhadores que presentemente praticam o regime de trabalho de jornada contínua de trinta e quatro horas semanais poderão mantê-lo, a título transitório, durante seis meses, contados da data da entrada em vigor da presente portaria, ou até à sua integração na função pública, se efectuada antes do termo daquele prazo.
+Art. 3.º - 1 - Os trabalhadores que presentemente praticam o regime de trabalho de jornada contínua de trinta e quatro horas semanais poderão mantê-lo, a título transitório, durante seis meses, contados da data da entrada em vigor da presente portaria, ou até à sua integração na função pública, se efectuada antes do termo daquele prazo.
 
 2 - Decorrido o prazo referido no número anterior sem que a integração na função pública se tenha verificado, aplicar-se-ão, ao pessoal a que aquele número se refere, as disposições sobre o período e horário de trabalho da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621).
 
-###### Art. 4.º A presente portaria, no que se refere a reclassificações e gratificações de chefia, produz efeitos desde 1 de Janeiro de 1979.
+Art. 4.º A presente portaria, no que se refere a reclassificações e gratificações de chefia, produz efeitos desde 1 de Janeiro de 1979.
 
 Presidência do Conselho de Ministros e Ministérios das Finanças, dos Assuntos Sociais e do Trabalho, 23 de Outubro de 1979. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado da Segurança Social, Coriolano Albino Ferreira. - O Secretário de Estado do Trabalho, Vasco Ribeiro Ferreira.

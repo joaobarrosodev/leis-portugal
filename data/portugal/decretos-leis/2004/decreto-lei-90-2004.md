@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/90/2004/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2004-223427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92b1c4f828238b834dc0e94e5d41f2341678bc65f0849daea54fbe106f38e570
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02bd9c324160146143d4ac1891848aa0ec5f8e3567619dd31ecbb10d1f4c9f9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
+- Comparticipação do Estado
+- Estabelecimento Hospitalar
 - Indústria Farmacêutica
 - Infarmed
-- Comparticipação do Estado
 - Licenciamento
 - Medicamento Manipulado
 - Preço
-- Estabelecimento Hospitalar
+- Produto Químico
 - TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:197511:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241811:por
+  label: "Alterado o art. 2.º do Dec Lei 118/92, de 25-Jun, na redacção do presente diploma, e republicado em anexo na versão\
+    \ actual, pelo DEC LEI.129/2005.11.08.2005.MS, DR.IS-A [154] de 11.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/129-2005-241811
+  date: '2005-08-11'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 2º do Dec Lei 118/92 de 25-Jun, alterado e republicado pelo Dec Lei 129/2005 de 11-Ago, e na redacção\
+    \ do presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-le
   label: null
@@ -121,16 +133,85 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/14/2000/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/14/2000/08/08/p/dre
+- type: cites
+  target: pt:dre:223070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668482:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:223251:por
+  label: "Revogadas as als. c) e d) do art. 2.º do Dec Lei 72/91, de 08-Fev, alterado no presente diploma e nos Dec Lei 291/98,\
+    \ de 17-Set, Dec Lei 242/2000, de 26-Set, e Dec Lei 249/93, de 09-Set, pelo DEC LEI.95/2004.22.04.2004.MS, DR.IS-A [95]\
+    \ de 22.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-2004-223251
+  date: '2004-04-22'
+- type: repealed_by
+  target: pt:dre:540387:por
+  label: "Revogado o Dec Lei 72/91, de 08-Fev, na redacção do presente diploma, pelo Dec Lei.176/2006.30.08.2006.MS, DR.IS\
+    \ [167] de 30.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-2006-540387
+  date: '2006-08-30'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:19Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +272,9 @@ m) ...
 
 2 - Para os efeitos do disposto na alínea c) do número anterior, é aceite qualquer farmacopeia ou formulário reconhecido em Portugal, neles se incluindo as farmacopeias e formulários oficiais aprovados legalmente ou reconhecidos pelo INFARMED.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - ...
 
@@ -255,12 +338,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - Carlos Manuel Tavares da Silva - Luís Filipe Pereira.
 
-**Promulgado em 5 de Abril de 2004.**
+Promulgado em 5 de Abril de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Abril de 2004.**
+Referendado em 7 de Abril de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/073a00/13521380.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/74/1998/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1998-198113
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d59adc9542ad2c7f042d4f9b4c9a42a388a82b669fe755f903b3859ba2d27a08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3389594e51050dda58f7d788aed97b66586a72bee042b432e30672b7f1c2956
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contabilidade
+- Desporto
 - Federação Desportiva
 - Organização Desportiva
 - Plano Oficial de Contabilidade
-- Desporto
 relationships:
 - type: amended_by
   target: pt:dre:647296:por
@@ -79,16 +79,26 @@ relationships:
   target: celex:31978L0660
   label: null
   source: http://data.europa.eu/eli/dir/1978/660/oj
+- type: corrected_by
+  target: pt:dre:276578:por
+  label: "Rectificado pela DECL-RECT.9-D/98.1998.04.30.PCM DR.IS-A [100]Supl de 30/Abr/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/9-d-1998-276578
+  date: '1998-04-30'
+- type: repealed_by
+  target: pt:dre:647296:por
+  label: "Revogado pelo DEC LEI.36-A/2011.09.03.2011.MFAP, DR.IS [48-Supl] de 09.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-a-2011-647296
+  date: '2011-03-09'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:33Z'
   warnings: []
   errors: []
 ---
@@ -151,15 +161,15 @@ O disposto no presente diploma entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 13 de Março de 1998.**
+Promulgado em 13 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Março de 1998.**
+Referendado em 17 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 PLANO OFICIAL DE CONTABILIDADE PARA AS FEDERAÇÕES DESPORTIVAS, ASSOCIAÇÕES E AGRUPAMENTOS DE CLUBES
 
@@ -323,7 +333,7 @@ Se a construção for por partes isoláveis, logo que cada parte estiver complet
 
 4 - Demonstrações financeiras
 
-[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/1998/03/073a00/13521380.pdf)
+[[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/1998/03/073a00/13521380.pdf)](https://files.diariodarepublica.pt/1s/1998/03/073a00/13521380.pdf)
 
 5 - Anexo ao balanço e à demonstração de resultados
 
@@ -425,7 +435,7 @@ Responsabilidades assumidas relativamente a pensões de reforma dos antigos memb
 
 37 - Informação de carácter qualitativo sobre os terrenos cedidos à entidade e sobre os quais ela não tenha quaisquer direitos de venda.
 
-[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/1998/03/073a00/13521380.pdf)
+[[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/1998/03/073a00/13521380.pdf)](https://files.diariodarepublica.pt/1s/1998/03/073a00/13521380.pdf)
 
 8 - Códigos de contas
 

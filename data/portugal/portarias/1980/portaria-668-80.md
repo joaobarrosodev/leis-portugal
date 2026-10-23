@@ -46,40 +46,129 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/668-1980-460811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:26:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fdd57e10ab639f3b0c1705f2432e3b1bfbd51755998941a3c1b1679f177d8d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb2f31c762984c1fc3c62c6c78c249a4590fd60073a69916899a944a5b8321e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:26:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital Distrital
+- Quadro de Pessoal
+- Viseu
 relationships:
 - type: amended_by
   target: pt:dre:479379:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:546584:por
+  label: "Alterado o quadro de pessoal, pela PORT.1115/81.1981.12.31.MFP DR.IS [300]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1115-1981-546584
+  date: '1981-12-31'
+- type: amended_by
+  target: pt:dre:318304:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Viseu, aprovado pelo presente diploma, pela Port.1305/82.31.12.1982.MFP,\
+    \ DR.IS [301] de 31.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1305-1982-318304
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:312636:por
+  label: "Alterado o quadro de pessoal pela PORT.349/83.1983.03.29.MFP DR.IS [73]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/349-1983-312636
+  date: '1983-03-29'
+- type: amended_by
+  target: pt:dre:452523:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, na redacção da Port 1115/81, de 31-Dez, pela PORT.700/83.1983.06.22.MFP\
+    \ DR.IS [141]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/700-1983-452523
+  date: '1983-06-22'
+- type: amended_by
+  target: pt:dre:381548:por
+  label: "Alargado o quadro de pessoal aprovado pelo presente diploma, na redacção das Ports. 1115/81, de 31-Dez e 700/83,\
+    \ de 22-Jun, pela PORT.551/84.1984.08.02.PCM DR.IS [178]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/551-1984-381548
+  date: '1984-08-02'
+- type: amended_by
+  target: pt:dre:180451:por
+  label: "Alargado o quadro de pessoal aprovado pelo presente diploma, na redacção das Ports. 1115/81, de 31-Dez, 700/83,\
+    \ de 22-Jun e 551/84, de 02-Ago, pela PORT.582/85.1985.08.14.PCM DR.IS [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/582-1985-180451
+  date: '1985-08-14'
+- type: amended_by
+  target: pt:dre:599725:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, na redacção das Ports. 700/83, de 22-Jun, 726/83, de\
+    \ 24-Jun, 551/84, de 02-Ago e 582/85, de 14-Ago, pela PORT.4/87.1987.01.02.MF DR.IS [1]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/4-1987-599725
+  date: '1987-01-02'
+- type: amended_by
+  target: pt:dre:420597:por
+  label: "Alterado o quadro de pessoal do Hospital de Viseu, aprovado pela presente portaria, alterado pelas Ports 1115/81,\
+    \ de 31-Dez, 1305/82, de 31-Dez, 349/83, de 29-Mar, 700/83, de 22-Jun, 726/83, de 24-Jun, 551/84, de 02-Ago, 582/85, de\
+    \ 14-Ago e 4/87, de 02-Jan, pela PORT.638/87.22.07.1987.MF, DR.IS [166] de 22.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/638-1987-420597
+  date: '1987-07-22'
+- type: amended_by
+  target: pt:dre:496722:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, com as alterações constantes das Port 1115/81 de 31-Dez,\
+    \ 1305/82 de 31-Dez, 700/83 de 22-Jun, 726/83 de 24-Jun, 551/84 de 02-Ago, 582/85 de 14-Ago e 4/87 de 02-Jan, pela PORT.888/87.20.11.1987.MF,\
+    \ DR.IS [268] de 20.11.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/888-1987-496722
+  date: '1987-11-20'
+- type: amended_by
+  target: pt:dre:498134:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Viseu, aprovado pelo presente diploma, alterado pelas Ports.\
+    \ 1115/81, de 31-Dez, 1305/82, de 31-Dez, 349/83, de 29-Mar, 700/83, de 22-Jun, 726/83, de 24-Jun, 551/84, de 02-Ago,\
+    \ 582/85, de 14-Ago, 4/87, de 02-Jan, 491/87, de 11-Jun e 638/87, de 22-Jul, pela PORT.934/87.11.12.1987.MF, DR.IS [284]\
+    \ de 11.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/934-1987-498134
+  date: '1987-12-11'
+- type: amended_by
+  target: pt:dre:334637:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Viseu, pela PORT.113/90.12.02.1990.MS, DR.IS [36] de 12.02.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/113-1990-334637
+  date: '1990-02-12'
+- type: amended_by
+  target: pt:dre:642185:por
+  label: Substituído o quadro de pessoal médico do Hospital Distrital de Viseu pelo(a) Portaria n.º 413/91 - Diário da República
+    n.º 112/1991, Série I-B de 1991-05-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1991-642185
+  date: '1991-05-16'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:26:13Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +189,6 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Hospital Distrital de Viseu
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/21400/27292731.pdf))](https://files.diariodarepublica.pt/1s/1980/09/21400/27292731.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21400/27292731.pdf)
 
 Nota. - Ao funcionário administrativo que exercer as funções de tesoureiro será atribuída a remuneração mensal de 600$00 para falhas.

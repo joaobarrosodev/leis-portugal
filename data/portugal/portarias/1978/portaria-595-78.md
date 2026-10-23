@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/595-1978-329189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T05:45:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 826b3d15d314f782ca0867174fadc0cc6fb48104675f918e5be4d54137533ab5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6617ae6d0914d2f7967f90d76ecf9f4a48e8d4eb64703f3c04d717ed7a4706a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:45:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CAÇA
+- Mafra
+- Proteção do Ambiente
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:311643:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:45:03Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +108,6 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado das Florest
 
 Secretaria de Estado das Florestas, 26 de Julho de 1978. - O Secretário de Estado das Florestas, António Manuel Chambica Azevedo Gomes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/22300/20362037.pdf))](https://files.diariodarepublica.pt/1s/1978/09/22300/20362037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/22300/20362037.pdf)
 
-**O Secretário de Estado das Florestas, António Manuel Chambica Azevedo Gomes.**
+O Secretário de Estado das Florestas, António Manuel Chambica Azevedo Gomes.

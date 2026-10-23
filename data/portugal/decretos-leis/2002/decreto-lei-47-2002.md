@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/47/2002/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2002-251983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:35:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 711d5ef2461a61626167eee5ff2af0f804ddb079d505b2f871a4f62c798eba66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fcf5394586b064c943ca27677db67903b744bbbb3924eaf60c607183f7c4f9a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:35:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Registo de Navios
 - Estatuto
 - Instituto Marítimo-portuário
 - Integração de Trabalhadores
 - Pessoal de Inspecção
+- Registo de Navios
 relationships:
 - type: amended_by
   target: pt:dre:448755:por
@@ -79,16 +79,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/331/1998/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/331/1998/11/03/p/dre
+- type: cites
+  target: pt:dre:223012:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:448755:por
+  label: "Revogado o Dec Lei 331/98 de 03-Nov, com execpção do seu art. 5º e com a redacção dada pelo presente diploma, pelo\
+    \ DEC LEI.257/2002.2002.11.22.MOPTH DR.IS-A [270]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-2002-448755
+  date: '2002-11-22'
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:35:44Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +161,9 @@ c) O regulamento de carreiras e o regulamento disciplinar;
 
 d) O regime retributivo.
 
-###### Artigo 4.º — Atribuições do IMP
+Artigo 4.º
+
+Atribuições do IMP
 
 São atribuições do IMP:
 
@@ -191,7 +203,9 @@ q) Efectuar o pagamento das ajudas e dos apoios à marinha mercante e assegurar 
 
 r) Conceder garantias a favor de armadores para a aquisição de navios, nos termos da legislação aplicável.
 
-###### Artigo 8.º — Conselho de administração
+Artigo 8.º
+
+Conselho de administração
 
 1 - O conselho de administração do IMP é composto por um presidente e por dois vogais, nomeados por despacho conjunto do Primeiro-Ministro e dos Ministros das Finanças e do Equipamento Social.
 
@@ -283,7 +297,9 @@ f) Planear, instalar e operar o sistema costeiro de controlo de tráfego maríti
 
 9 - As atribuições e competências do conselho de administração do IMP não prejudicam as dos órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira nas matérias do respectivo interesse específico.
 
-###### Artigo 9.º — Presidente do conselho de administração
+Artigo 9.º
+
+Presidente do conselho de administração
 
 1 - ...
 
@@ -307,7 +323,9 @@ g) Desempenhar as funções de autoridade de controlo de tráfego marítimo, com
 
 4 - As atribuições e competências do presidente do conselho de administração do IMP não prejudicam as dos órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira nas matérias do respectivo interesse específico.
 
-###### Artigo 22.º — Controlo financeiro e prestação de contas
+Artigo 22.º
+
+Controlo financeiro e prestação de contas
 
 1 - ...
 
@@ -321,12 +339,12 @@ O presente diploma entra em vigor cinco dias após a data da sua publicação, e
 
 Visto e aprovado em Conselho de Ministros de 5 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Eduardo Luís Barreto Ferro Rodrigues - Alberto de Sousa Martins.
 
-**Promulgado em 31 de Janeiro de 2002.**
+Promulgado em 31 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Fevereiro de 2002.**
+Referendado em 7 de Fevereiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

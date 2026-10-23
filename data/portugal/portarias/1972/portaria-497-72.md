@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/497-1972-676587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 538480e814316c029081f4887af2cd92e01846c8bfa1ec587528b18792eaf98d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e2d22036246a80614dc7fe81f449bdb9dbaeaa58456374e2b52266437869461
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,40 @@ relationships:
   target: pt:dre:252002:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:252002:por
+  label: Determinado no sentido clarificar, que os arts. 48.º e 49.º e as als.a) e b) dos n.os 1.º e 2.º do art. 262.º e a
+    supressão do § único do art. 262.º os do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha
+    Mercante e da Pesca (RIM), aprovado pelo Dec Lei 45969, de 15-out 1964, na redação do presente diploma, pelo(a) Portaria
+    n.º 283/77 - Diário da República n.º 118/1977, Série I de 1977-05-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/283-1977-252002
+  date: '1977-05-21'
+- type: cites
+  target: pt:dre:147454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:52Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +125,13 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 1. O corpo do artigo 43.º e seu § 1.º, a alínea b) do artigo 45º, os artigos 48.º, 49.º, 50.º e 141.º e as subalíneas a) e b) das alíneas 1 e 2 do artigo 262.º do Regulamento de Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca, aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, passam ter a seguinte redacção:
 
-###### Art. 43.º Os oficiais radiotelegrafistas desempenham a bordo as funções da sua especialidade, nomeadamente as de operadores radiotelegrafistas e radiotelefonistas e as de chefes das estações radiotelegráficas das embarcações, sendo responsáveis, perante o comandante, pelo cumprimento das leis e disposições regulamentares de radiocomunicações e pela conservação e eficiência do material radioeléctrico de comunicações e de radioajudas.
+Art. 43.º Os oficiais radiotelegrafistas desempenham a bordo as funções da sua especialidade, nomeadamente as de operadores radiotelegrafistas e radiotelefonistas e as de chefes das estações radiotelegráficas das embarcações, sendo responsáveis, perante o comandante, pelo cumprimento das leis e disposições regulamentares de radiocomunicações e pela conservação e eficiência do material radioeléctrico de comunicações e de radioajudas.
 
 § 1.º Para o desempenho das funções de operador radiotelegrafista, dentro dos limites impostos pelo artigo 262.º, poderão ser matriculados como pertencentes à classe mestrança indivíduos portadores de certificado de radiotelegrafista da classe A ou B, passado nas condições indicadas no artigo 50.º
 
 ...
 
-###### Art. 45.º ...
+Art. 45.º ...
 
 a) ...
 
@@ -115,15 +139,15 @@ b) Ter efectuado 5400 horas de navegação depois da obtenção da categoria de 
 
 ...
 
-###### Art. 48.º Os certificados gerais de radiotelefonista serão passados pela Direcção do Serviço de Electricidade e Comunicações aos indivíduos que, mediante exame efectuado nas condições estabelecidas por aquele Serviço, provem satisfazer ao exigido para o efeito pelo Regulamento de Radiocomunicações anexo à Convenção Internacional de Telecomunicações.
+Art. 48.º Os certificados gerais de radiotelefonista serão passados pela Direcção do Serviço de Electricidade e Comunicações aos indivíduos que, mediante exame efectuado nas condições estabelecidas por aquele Serviço, provem satisfazer ao exigido para o efeito pelo Regulamento de Radiocomunicações anexo à Convenção Internacional de Telecomunicações.
 
 § único. Este certificado habilita o titular a operar qualquer equipamento radiotelefónico e é tirado por uma só vez.
 
-###### Art. 49.º Os certificados restritos de radiotelefonista serão passados pela Direcção do Serviço de Electricidade e Comunicações aos indivíduos que, mediante exame nas condições expressas no Regulamento do Serviço Radioeléctrico das Embarcações Mercantes, de Pesca e de Recreio Nacionais, provem satisfazer ao exigido para o efeito pelo Regulamento de Radiocomunicações anexo à Convenção Internacional de Telecomunicações.
+Art. 49.º Os certificados restritos de radiotelefonista serão passados pela Direcção do Serviço de Electricidade e Comunicações aos indivíduos que, mediante exame nas condições expressas no Regulamento do Serviço Radioeléctrico das Embarcações Mercantes, de Pesca e de Recreio Nacionais, provem satisfazer ao exigido para o efeito pelo Regulamento de Radiocomunicações anexo à Convenção Internacional de Telecomunicações.
 
 § único. O certificado restrito de radiotelefonista só será válido por um ano e para equipamento do mesmo tipo.
 
-###### Art. 50.º As categorias de radiotelegrafista prático das classes A e B serão atribuídas a indivíduos possuidores de certificado de radiotelegrafista, respectivamente da classe A e da classe B, desde que satisfaçam aos restantes requisitos da inscrição marítima.
+Art. 50.º As categorias de radiotelegrafista prático das classes A e B serão atribuídas a indivíduos possuidores de certificado de radiotelegrafista, respectivamente da classe A e da classe B, desde que satisfaçam aos restantes requisitos da inscrição marítima.
 
 § 1.º O certificado de radiotelegrafista da classe A, sem prazo de validade, será considerado equivalente ao certificado limitado de radiotelegrafista de 2.ª classe, consignado no Regulamento de Radiocomunicações anexo à Convenção Internacional de Telecomunicações e será passado pela Direcção do Serviço de Electricidade e Comunicações aos indivíduos que o requeiram e satisfaçam às seguintes condições:
 
@@ -141,7 +165,7 @@ b) Ser radiotelegrafista prático da classe B, ter mais de quatro anos de embarq
 
 ...
 
-###### Art. 141.º Os exames a que se refere este diploma, que não compitam a outros organismos, realizar-se-ão, em qualquer época do ano, nas capitanias e perante os júris a seguir indicados:
+Art. 141.º Os exames a que se refere este diploma, que não compitam a outros organismos, realizar-se-ão, em qualquer época do ano, nas capitanias e perante os júris a seguir indicados:
 
 1.º Para as funções de maquinista prático de 1.ª classe, motorista prático de 1.ª classe e electricista de 1.ª classe, nas Capitanias dos Portos de Lisboa, Ponta Delgada e nas principais capitanias das províncias ultramarinas onde se possam efectuar estes exames, sendo o júri presidido pelo capitão do porto ou seu adjunto e tendo como vogais:
 
@@ -173,7 +197,7 @@ c) Para as funções de banheiro, o patrão-mor e um agente da Polícia Marítim
 
 ...
 
-###### Art. 262.º ...
+Art. 262.º ...
 
 1.º ...
 
@@ -199,19 +223,19 @@ b) Nas embarcações de pesca: um operador, oficial radiotelegrafista ou radiote
 
 2. São acrescentados aos artigos 45.º e 47.º os seguintes parágrafos:
 
-###### Art. 45.º ...
+Art. 45.º ...
 
 § único. A aprovação no curso complementar de radiotelegrafista da Escola Náutica confere ao respectivo titular o direito de requerer a passagem de um certificado de radiotelegrafista de 1.ª classe nos termos do Regulamento de Radiocomunicações anexo à Convenção Internacional de Telecomunicações.
 
 ...
 
-###### Art. 47.º ...
+Art. 47.º ...
 
 § único. A aprovação no curso geral de radiotelegrafista da Escola Náutica confere ao respectivo titular o direito de requerer a passagem de um certificado de radiotelegrafista de 2.ª classe, nos termos do Regulamento de Radiocomunicações anexo à Convenção Internacional de Telecomunicações.
 
 3. É acrescentado ao mesmo Regulamento de Inscrição Marítima o artigo seguinte:
 
-###### Art. 157.º-A Os programas de exames para passagem dos certificados de radiotelegrafista prático constam das alíneas seguintes:
+Art. 157.º-A Os programas de exames para passagem dos certificados de radiotelegrafista prático constam das alíneas seguintes:
 
 a) O programa do exame para radiotelegrafista prático da classe A é o programa que estiver sendo ministrado no curso de aplicação do 2.º grau para os radiotelegrafistas da Armada, com excepção das matérias de índole especìficamente militar;
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/09/21000/13361338.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/549-1975-307427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T04:49:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 829bf3c4cfa107f43d5eda761386288f1c6a44e244a5a56de2e3a10ffff54ca0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f903057817b8e4c2e19a3ba97ca972ab81dee6ee692abcad78b4b60b8ae9ecbc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:49:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Regime Jurídico
+- TAXA de JURO
+- Venda a Prestações
 relationships:
 - type: amended_by
   target: pt:dre:367607:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:204403:por
+  label: "Alterado o n.º 6 e a al. h) do mapa anexo ao presente diploma, pela PORT.72/77.1977.02.12.MPCE DR.IS [36]2ºSUPL\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/72-1977-204403
+  date: '1977-02-12'
+- type: amended_by
+  target: pt:dre:328667:por
+  label: "Aditado um n.º 3 ao n.º 6, pela PORT.613/78.1978.10.12.MFP DR.IS [235]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/613-1978-328667
+  date: '1978-10-12'
+- type: cites
+  target: pt:dre:314912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:367607:por
+  label: "Revogada pela PORT.602/79.1979.11.21.MF DR.IS [269]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/602-1979-367607
+  date: '1979-11-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:49:26Z'
   warnings: []
   errors: []
 ---
@@ -134,6 +166,6 @@ Ministérios para o Planeamento e Coordenação Económica e das Finanças, 22 d
 
 Mapa a que se refere o n.º 3 da Portaria n.º 549/75, de 11 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/09/21000/13361338.pdf))](https://files.diariodarepublica.pt/1s/1975/09/21000/13361338.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/09/21000/13361338.pdf)
 
-**O Ministro para o Planeamento e Coordenação Económica, Mário Luís da Silva Murteira. - O Ministro das Finanças, José Joaquim Fragoso.**
+O Ministro para o Planeamento e Coordenação Económica, Mário Luís da Silva Murteira. - O Ministro das Finanças, José Joaquim Fragoso.

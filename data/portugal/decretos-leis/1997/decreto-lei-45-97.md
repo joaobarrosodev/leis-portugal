@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/02/046a00/08370839.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/45/1997/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1997-507416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac7d76609b028b13fb9f45f9219a151de10186b7b54feffb3d829e04812b7d59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f34b918ab4e79a9a10e60d297d2b482ce0854bb68cd87c6baa10b343e1ff0209
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto Nacional de Meteorologia e Geofísica
-- Criação de Lugares
 - Carreira Profissional
+- Criação de Lugares
+- Instituto Nacional de Meteorologia e Geofísica
 - Pessoal Técnico
 - Quadro de Pessoal
 relationships:
@@ -76,20 +76,64 @@ relationships:
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a Carreira Geral de Técnico Superior, nos termos do art. 2º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP) e revogado a partir da mesma data, pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/16/1991/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/16/1991/04/11/p/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616427:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:17Z'
   warnings: []
   errors: []
 ---
@@ -166,17 +210,17 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Elisa Maria da Costa Guimarães Ferreira - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 31 de Janeiro de 1997.**
+Promulgado em 31 de Janeiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Janeiro de 1997.**
+Referendado em 31 de Janeiro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/046a00/08370839.pdf))](https://files.diariodarepublica.pt/1s/1997/02/046a00/08370839.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/046a00/08370839.pdf)
 
 ## ANEXO II — Conteúdos funcionais
 
@@ -184,4 +228,4 @@ Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 1996. - António 
 
 2 - Técnico geofísico. - O técnico geofísico estuda, elabora e executa trabalhos técnicos superiormente determinados, no âmbito da geofísica, incluindo o ensino e formação profissionais e a verificação técnica dos equipamentos. Integra, no âmbito das suas funções grupos de equipa ou de projecto.
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/046a00/08370839.pdf))](https://files.diariodarepublica.pt/1s/1997/02/046a00/08370839.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/046a00/08370839.pdf)

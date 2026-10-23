@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1987-417258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 111ca58762c3a2f9b665d6346e9eae26e0d43b5bfd08bd783bfe242890071a5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99b1528f85c544c8f5557f18468466b647386e8b2d02469502dcadf53dabf026
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- Carta de Condução
+- Código da Estrada
+- Direcção Geral de Viação
+- Exame de Condução
 relationships:
 - type: amended_by
   target: pt:dre:596890:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:687812:por
+  label: "Alterados os artigos 46.º, 47º, 48º e 49.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 39672, de 20 de Maio\
+    \ de 1954, na redacção do presente diploma, pelo DEC LEI.268/91.06.08.1991.MOPTC, DR.IS-A [[179]] de 06.08.1991\091\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-1991-687812
+  date: '1991-08-06'
+- type: amended_by
+  target: pt:dre:596890:por
+  label: "Alterados os arts. 47.º e 48.º do Código da Estrada, aprovado pelo Dec Lei 39672, de 20-Mai 1954, na redacção do\
+    \ presente diploma, pelo DEC LEI.270/92.30.11.1992.MAI, DR.IS-A [277] de 30.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-1992-596890
+  date: '1992-11-30'
+- type: corrected_by
+  target: pt:dre:487497:por
+  label: Rectificado pela DECL.DD4258.09.10.1987.PCM, DR.IS [251]3ºSupl de 31.10.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-487497
+  date: '1987-10-09'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:06Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +122,7 @@ De acordo com o disposto no § único do artigo 1.º do Decreto-Lei n.º 39672, 
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São alterados os artigos 7.º, 46.º, 47.º, 48.º e 49.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 39672, de 20 de Maio de 1954:
+Artigo 1.º São alterados os artigos 7.º, 46.º, 47.º, 48.º e 49.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 39672, de 20 de Maio de 1954:
 
 ###### Artigo 7.º — Velocidades
 
@@ -270,9 +292,9 @@ b) Prática de condução, com a finalidade de serem apreciadas a calma, prudên
 
 8 - ...
 
-###### Art. 2.º Os n.os 4 e 5 do artigo 19.º do Decreto lamentar n.º 65/83, de 12 de Julho, passam a ter a seguinte redacção:
+Art. 2.º Os n.os 4 e 5 do artigo 19.º do Decreto lamentar n.º 65/83, de 12 de Julho, passam a ter a seguinte redacção:
 
-###### Art. 19.º - 1 - ...
+Art. 19.º - 1 - ...
 
 2 - ...
 
@@ -286,16 +308,16 @@ O reboque para ministrar o ensino da condução de veículos da categoria E, qua
 
 ...
 
-###### Art. 3.º O presente diploma entra em vigor 30 dias após a sua publicação, com excepção do disposto na alínea f) do n.º 1 do artigo 46.º e do n.º 7 do artigo 47.º do Código da Estrada quanto às licenças de condução emitidas nos Estados membros das Comunidades Europeias, que entram imediatamente em vigor.
+Art. 3.º O presente diploma entra em vigor 30 dias após a sua publicação, com excepção do disposto na alínea f) do n.º 1 do artigo 46.º e do n.º 7 do artigo 47.º do Código da Estrada quanto às licenças de condução emitidas nos Estados membros das Comunidades Europeias, que entram imediatamente em vigor.
 
 Aníbal António Cavaco Silva - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 8 de Julho de 1987.**
+Promulgado em 8 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Julho de 1987.**
+Referendado em 15 de Julho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

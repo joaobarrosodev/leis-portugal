@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/166/2000/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2000-335901
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:17:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 122f32db25eb0a7c355a4ab1ec0b7a774fc994aeb9918c0d319232b5d1985365
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80731242d8f5993939d42d0658331163344860e7922d3065ebd7e56d61906204
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Banana
-- Gado Caprino
+- Arroz
 - Azeite
+- Banana
+- CAÇA
 - Comissão Consultiva da Protecção das Culturas
 - Comissão Consultiva da Vinha e do Vinho
 - Comissão Consultiva do Desenvolvimento Rural
 - Comissão Consultiva Veterinária
-- Leite
-- CAÇA
 - Conselho Consultivo Florestal
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Conselho Nacional da CAÇA e da Conservação da Fauna
 - Conselho Nacional da Pesca
 - Conselho Nacional de Agricultura e do Desenvolvimento Rural
 - Direcção Geral das Florestas
-- Arroz
-- Pesca
 - Gabinete de Planeamento e Política Agro-alimentar
 - Gado Bovino
+- Gado Caprino
+- Gado Ovino
 - Gado Suíno
 - Horticultura
 - Lacticínios
+- Leite
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
 - Orgânica
-- Tabaco
-- Gado Ovino
+- Pesca
 - Saúde Animal
+- Tabaco
 relationships:
 - type: amended_by
   target: pt:dre:455151:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609994:por
+  label: "Alterados os arts. 18º e 23º, pelo DEC LEI.260/2001.2001.09.25.MADRP, DR.IS-A [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-2001-609994
+  date: '2001-09-25'
+- type: amended_by
+  target: pt:dre:582035:por
+  label: "Alterados os arts. 15º e 16º e aditados os arts. 16º-A e 16º-B pelo DEC LEI.307/2001.2001.12.06.MADRP DR.IS-A [282]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/307-2001-582035
+  date: '2001-12-06'
+- type: amended_by
+  target: pt:dre:425486:por
+  label: "Alterados os arts. 1º, 4º, 5º, 6º, 7º, 8º, 10º, 11º, 13º, 15º, 16º, 17º, 18º, 19º, 20º, 21º e 22º do Dec Lei 74/96\
+    \ de 18-Jun, na redacção do presente diploma e dos Decs Leis 128/97 de 24-Mai e 526/99 de 10-Dez, pelo DEC LEI.246/2002.2002.11.08.MADRP,DR.IS-A\
+    \ [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-2002-425486
+  date: '2002-11-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/100/1997/04/26/p/dre
   label: null
@@ -134,16 +152,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+- type: cites
+  target: pt:dre:381752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532254:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:455151:por
+  label: "Revogadas, a partir de 01.09.2008, as alíneas a), b) e d) do artigo 2.º, os artigos 7.º a 15.º, e 16.º, 16.º-A,\
+    \ 16.º-B (os três últimos na redacção do Decreto-Lei n.º 307/2001, de 6 de Dezembro), 19.º, 20.º e 25.º do Decreto-Lei\
+    \ n.º 166/2000, de 5 de Agosto, pelo DEC LEI.160/2008.08.08.2008.MADRP, DR.IS [153] de 08.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-2008-455151
+  date: '2008-08-08'
+- type: repeals
+  target: pt:dre:384601:por
+  label: "Revoga o art. 7º do DR 20/97 de 09-Mai DR.IS-B [107]\0\0"
+  source: null
+  date: '1997-05-09'
 article_structure:
   article_count: 28
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:17:55Z'
   warnings: []
   errors: []
 ---
@@ -656,12 +722,12 @@ h) O artigo 6.º do [Decreto-Lei n.º 75/96](https://diariodarepublica.pt/dr/det
 
 Visto e aprovado em Conselho de Ministros de 8 de Junho de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Luís Medeiros Vieira - José Sócrates Carvalho Pinto de Sousa - Armando António Martins Vara.
 
-**Promulgado em 26 de Julho de 2000.**
+Promulgado em 26 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Julho de 2000.**
+Referendado em 27 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

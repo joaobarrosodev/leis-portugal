@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/004a00/00950102.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/8/2005/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2005-457013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40446c06c8c055b4a0fdf3c75df9db32e3828c01d1cf2f4002c5218d06463a5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db4c631894d7232f1a5e76d4957f4fa1c8a0b2f573dc3e16bac6a3ec42da8108
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,50 +65,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ICEP
-- Reestruturação de Serviços
+- Agência Portuguesa para o Investimento
 - Autoridade da Concorrência
-- Instituto do Emprego e Formação Profissional
-- Pessoal Dirigente
-- Ministério das Actividades Económicas e do Trabalho
+- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
+- Comissão de Planeamento Energético de Emergência
 - Comissão Nacional para a Promoção dos Ofícios e Microempresas Artesanais
 - Comissão para a Igualdade no Trabalho e no Emprego
+- Conselho de Garantias Financeiras
+- Conselho Geral para a Dinamização Empresarial
+- Conselho Nacional para a Segurança Higiene e Saúde no Trabalho
 - Criação de Serviços
+- Direcção Geral da Empresa
+- Direcção Geral de Geologia e Energia
+- Direcção Geral do Emprego e das Relações de Trabalho
 - Direcção Regional de Economia
-- Dre-lisboa e VALE do TEJO
 - Dre-alentejo
 - Dre-algarve
 - Dre-centro
+- Dre-lisboa e VALE do TEJO
 - Dre-norte
 - Entidade Gestora de Reservas Estratégicas de Produtos Petrolíferos
 - Extinção de Serviços
-- Setor Empresarial do Estado
-- Secretaria Geral
-- Inspecção Geral das Actividades Económicas
-- Ministro de Estado das Actividades Económicas e do Trabalho
-- Instituto de Gestão do Fundo Social Europeu
-- Instituto Nacional da Propriedade Industrial
-- Instituto para a Qualidade na Formação
-- Integração de Trabalhadores
-- Instituto Português da Qualidade
-- Conselho Geral para a Dinamização Empresarial
-- Direcção Geral da Empresa
-- Agência Portuguesa para o Investimento
-- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
-- Comissão de Planeamento Energético de Emergência
-- Conselho de Garantias Financeiras
-- Conselho Nacional para a Segurança Higiene e Saúde no Trabalho
-- Direcção Geral de Geologia e Energia
-- Direcção Geral do Emprego e das Relações de Trabalho
 - Gabinete de Coordenação dos Assuntos Europeus e Relações Internacionais
 - Gabinete de Estratégia e Estudos
+- IAPMEI
+- ICEP
+- Inatel
+- Inspecção Geral das Actividades Económicas
 - Inspecção Geral do Trabalho
+- Instituto de Gestão do Fundo Social Europeu
+- Instituto do Emprego e Formação Profissional
+- Instituto Nacional da Propriedade Industrial
+- Instituto para a Qualidade na Formação
+- Instituto Português da Qualidade
 - Instituto Português de Acreditação
+- Integração de Trabalhadores
+- Ministério das Actividades Económicas e do Trabalho
+- Ministro de Estado das Actividades Económicas e do Trabalho
 - Observatório do Emprego e Formação Profissional
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
-- IAPMEI
-- Inatel
+- Reestruturação de Serviços
+- Secretaria Geral
+- Setor Empresarial do Estado
 - Transferência de Competências
 - Tutela
 relationships:
@@ -116,6 +116,20 @@ relationships:
   target: pt:dre:521016:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinado que os serviços, organismos e entidades compreendidos no agora extinto Ministério, cuja orgânica foi\
+    \ aprovada no presente diploma, transitem para o Ministério da Economia e da Inovação, pelo DEC LEI.79/2005.15.04.2005.PCM,\
+    \ DR.IS-A [74] de 15.04.2005, com excepção dos referidos no seu n.º 3 do artigo 20.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:521016:por
+  label: "Determinado que a Secretaria-Geral suceda nos termos do artigo 11.º nas atribuições da Secretaria-Geral do Ministério\
+    \ das Actividades Económicas e do Trabalho, cuja orgânica foi aprovada pelo presente diploma, pelo DEC LEI.138/2007.27.04.2007.MEI,\
+    \ DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-2007-521016
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/171/2004/07/17/p/dre
   label: null
@@ -136,16 +150,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/215-a/2004/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/215-a/2004/09/03/p/dre
+- type: cites
+  target: pt:dre:527834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656113:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:545649:por
+  label: "Revogado o presente diploma e determinada: - a extinção, sendo objecto de fusão, do Gabinete de Coordenação dos\
+    \ Assuntos Europeus e Relações Internacionais, sendo as suas atribuições integradas na Direcção-Geral das Actividades\
+    \ Económicas, nos termos da al. b) do n.º 3 do art. 27.º; - do Instituto Nacional de Engenharia, Tecnologia(s) e Inovação,\
+    \ sendo as suas atribuições integradas no Laboratório Nacional de Energia e Geologia, I.P., no Instituto Português da\
+    \ Qualidade, no Instituto Nacional de Recursos Biológicos, I.P., no Instituto Nacional de Saúde Dr. Ricardo Jorge, I.P.,\
+    \ e no Instituto de Meteorologia, I.P.,nos termos da al. f) do n.º 3 do art. 27.º; - do ICEP-Portugal, sendo as suas atribuições\
+    \ integradas na Agência Portuguesa para o Investimento, E. P. E., que é objecto de reestruturação e passa a denominar-se\
+    \ Agência para o Investimento e Comércio Externo de Portugal, E. P. E., nos termos da al. g) do n.º 3 do art. 27.º; -\
+    \ e da Direcção-Geral da Empresa, sendo as suas atribuições integradas na Direcção-Geral das Actividades Económicas, nos\
+    \ termos da al. h) do n.º 3 do art. 27.º; - a reestruturação da Direcção-Geral de Geologia e Energia, que passa a designar-se\
+    \ Direcção-Geral de Energia e Geologia, nos termos da al. a) do n.º 4 do art. 27.º, do Instituto de Apoio às Pequenas\
+    \ e Médias Empresas e ao Investimento, sendo algumas das suas atribuições, transferidas nos termos da al. c) do n.º 4\
+    \ do art. 27.º; transferido o Instituto Nacional da Propriedade Industrial para o âmbito do Ministério da Justiça, nos\
+    \ termos do n.º 6 do art. 27.º, e o Conselho de Garantias Financeiras para o âmbito do Ministério das Finanças e da Administração\
+    \ Pública, passando a designar-se Conselho de Garantias Financeiras à Exportação e ao Investimento, nos termos do n.º\
+    \ 7 do art. 27.º; - e determinada a saída da administração central do Estado (externalização) do Instituto Português de\
+    \ Acreditação, nos termos da al. a) do art. 29.º\0.º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2006-545649
+  date: '2006-10-27'
 article_structure:
   article_count: 53
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:22Z'
   warnings: []
   errors: []
 ---
@@ -598,15 +653,15 @@ Os saldos das dotações orçamentais e os saldos de gerência dos serviços ext
 
 Visto e aprovado em Conselho de Ministros de 28 de Outubro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - Paulo Sacadura Cabral Portas - Nuno Albuquerque Morais Sarmento - António José de Castro Bagão Félix - António Victor Martins Monteiro - José Pedro Aguiar Branco - Carlos Henrique da Costa Neves - Maria do Carmo Félix da Costa Seabra - Maria da Graça Martins da Silva Carvalho - Fernando Mimoso Negrão - António Luís Guerra Nunes Mexia - Telmo Augusto Gomes de Noronha Correia - Henrique José Monteiro Chaves.
 
-**Promulgado em 23 de Dezembro de 2004.**
+Promulgado em 23 de Dezembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Dezembro de 2004.**
+Referendado em 23 de Dezembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO — (mapa a que se refere o artigo 44.º)
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/01/00700/0038100383.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/10/2017/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2017-105711870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39faa992d60c33ea778bf3587a41fa96ec6816b6a6a498fa2a8708d800b9e47c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42283449366d363af874b59533e23c647cb52780da09029215c89313debc5ade
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Licenciamento
 - Mar
 - Mar Territorial
 - Pesca
-- Licenciamento
-- Recursos do Mar
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
 - Proteção do Ambiente
 - Quota de Pesca
+- Recursos do Mar
 - Regulamento CE
 relationships:
 - type: cites
@@ -120,16 +120,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/383/1998/11/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/383/1998/11/27/p/dre
+- type: cites
+  target: pt:dre:217326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658904:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:05Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +186,9 @@ Entidades competentes para a decisão e aplicação do sistema de pontos
 
 3 - Compete ao Diretor-Geral de Recursos Naturais, Segurança e Serviços Marítimos, sempre que estejam em causa contraordenações previstas no Anexo, suscetíveis de serem qualificadas como infrações graves, a aplicação de coimas e sanções acessórias, bem como aplicar o sistema de pontos, assegurando ainda a centralização do respetivo registo e informação.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...].
 
@@ -204,7 +218,9 @@ d) A coação, a falsificação, as falsas declarações, a simulação ou outro
 
 3 - A qualificação de uma infração como grave determina a aplicação dos pontos previstos no anexo ao presente decreto-lei.
 
-###### Artigo 22.º-B — Imputação dos pontos
+Artigo 22.º-B
+
+Imputação dos pontos
 
 1 - Os pontos a que se refere o artigo anterior são imputados à licença de pesca da embarcação utilizada na prática da contraordenação.
 
@@ -214,7 +230,9 @@ d) A coação, a falsificação, as falsas declarações, a simulação ou outro
 
 4 - O certificado referido no número anterior é requerido pelo interessado na venda ou no afretamento da embarcação de pesca e junto ao respetivo pedido de autorização.
 
-###### Artigo 22.º-C — Da aplicação e da anulação de pontos
+Artigo 22.º-C
+
+Da aplicação e da anulação de pontos
 
 1 - A condenação por duas ou mais contraordenações qualificadas como infrações graves, detetadas na mesma ação de inspeção, determina o registo dos pontos correspondentes a cada uma, até ao limite máximo de 12 pontos.
 
@@ -234,11 +252,15 @@ d) Participação em pescaria abrangida por um regime de rótulo ecológico conc
 
 5 - São, ainda, anulados todos os pontos aplicados à licença de pesca da embarcação que não cometam outra contraordenação qualificada como infração grave, no prazo de três anos, contados a partir da data da prática da última contraordenação qualificada como tal.
 
-###### Artigo 22.º-D — Efeitos da aplicação de pontos
+Artigo 22.º-D
+
+Efeitos da aplicação de pontos
 
 Quanto aos efeitos da aplicação de pontos, rege o disposto nos artigos 129.º e seguintes do Regulamento de Execução (UE) n.º [404/2011](http://data.europa.eu/eli/reg/2011/404/oj?locale=pt), da Comissão, de 8 de abril de 2011, alterado pelo Regulamento de Execução (UE) n.º [2015/1962](http://data.europa.eu/eli/reg/2015/1962/oj?locale=pt), da Comissão, de 28 de abril de 2015.
 
-###### Artigo 22.º-E — Imputação de pontos aos capitães de embarcações de pesca
+Artigo 22.º-E
+
+Imputação de pontos aos capitães de embarcações de pesca
 
 1 - Aos capitães de embarcações de pesca condenados pela prática de uma contraordenação qualificada como infração grave são aplicados os pontos nos termos do disposto no artigo 22.º-A.
 
@@ -260,7 +282,9 @@ d) A partir de 130 pontos - 12 meses.
 
 6 - No caso das embarcações com comprimento fora-a-fora até 12 metros, sendo o capitão simultaneamente proprietário da embarcação com licença de pesca, só são aplicados pontos, pela prática de contraordenação qualificada como infração grave, ao capitão.
 
-###### Artigo 22.º-F — Direito subsidiário
+Artigo 22.º-F
+
+Direito subsidiário
 
 Em tudo o que não encontrar disposto no presente Decreto-Lei, aplicam-se subsidiariamente as disposições do [Regulamento (CE) n.º 1224/2009](http://data.europa.eu/eli/reg/2009/1224/oj?locale=pt), do Conselho, de 20 de novembro de 2009, alterado pelos Regulamentos (UE) n.os [1379/2013](http://data.europa.eu/eli/reg/2013/1379/oj?locale=pt) e [1380/2013](http://data.europa.eu/eli/reg/2013/1380/oj?locale=pt), do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013, [1385/2013](http://data.europa.eu/eli/reg/2013/1385/oj?locale=pt), do Conselho, de 17 de dezembro de 2013, [508/2014](http://data.europa.eu/eli/reg/2014/508/oj?locale=pt), do Parlamento Europeu e do Conselho, de 15 de maio de 2014 e [2015/812](http://data.europa.eu/eli/reg/2015/812/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de maio de 2015, e no Regulamento de Execução (UE) n.º [404/2011](http://data.europa.eu/eli/reg/2011/404/oj?locale=pt), da Comissão, de 8 de abril de 2011, alterado pelo Regulamento de Execução (UE) [2015/1962](http://data.europa.eu/eli/reg/2015/1962/oj?locale=pt), da Comissão, de 28 de abril de 2015.»
 
@@ -274,15 +298,15 @@ O presente decreto-lei produz efeitos a 1 de janeiro de 2017.
 
 Visto e aprovado em Conselho de Ministros de 15 de dezembro de 2016. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - José Alberto de Azeredo Ferreira Lopes - Francisca Eugénia da Silva Dias Van Dunem - Ana Paula Mendes Vitorino.
 
-**Promulgado em 29 de dezembro de 2016.**
+Promulgado em 29 de dezembro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de janeiro de 2017.**
+Referendado em 3 de janeiro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -290,4 +314,4 @@ Visto e aprovado em Conselho de Ministros de 15 de dezembro de 2016. - Augusto E
 
 (a que se refere o n.º 3 do artigo 22.º-A)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/01/00700/0038100383.pdf))](https://files.diariodarepublica.pt/1s/2017/01/00700/0038100383.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/01/00700/0038100383.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/30/1995/06/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/30-1995-517400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T08:28:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5eceec770d8321f7c5d0052014d8c12586a885f854a07037d4fb8c155e12abf8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cf28e9ce108df4d3faabf7c75c69bd0c5a9a535b00a87b97bc30a28e5b6f6c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:28:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Turismo
-- Promoção Turística
 - Apoio ao Investimento
-- Projeto de Investimento
-- Fundo de Turismo
+- Autarquia Local
 - Equipamento Informático
+- Financiamento
+- Fundo de Turismo
+- Normalização
+- Projeto de Investimento
+- Promoção Turística
 - Prorrogação de Prazo
 - Sinalização
 - Sinalização Turística
-- Autarquia Local
-- Normalização
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:187306:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:566808:por
+  label: "Mantido em vigor pelo DEC LEI.247/95.1995.09.20.MCT, DR.IS-A [218]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-1995-566808
+  date: '1995-09-20'
+- type: amended_by
+  target: pt:dre:187306:por
+  label: "Prorrogado o prazo a que alude o corpo do nº 29 do anexo do DN 469/94 de 23-Jun, na redacção do presente diploma,\
+    \ pelo DN.53/96.1996.11.15.MECO DR.IS-B [286] de 11/Dez/1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/53-1996-187306
+  date: '1996-11-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/469/1994/07/04/p/dre
   label: null
@@ -92,16 +103,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/670/1994/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/670/1994/09/22/p/dre
+- type: cites
+  target: pt:dre:214264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620728:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:28:18Z'
   warnings: []
   errors: []
 ---

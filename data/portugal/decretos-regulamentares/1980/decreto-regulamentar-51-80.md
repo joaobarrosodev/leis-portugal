@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1980-461777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b55b392b14e2626df73db87f201cbc5dfc59640fc05e37d6dfea3d573a79ea2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 954e3d45ee8c2a489bf52c250dd34b760c1d43462d6b96be313b194e8becaeff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Espetáculos e Divertimentos Públicos
+- Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:177825:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:381284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439641:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:41Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +106,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Nas vistorias a efectuar nos termos dos artigos 8.º, n.º 2, do [Decreto-Lei n.º 42663](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42663-1959-439641), de 20 de Novembro de 1959, e 12.º do Decreto-Lei n.º 42664, da mesma data, proceder-se-á da forma seguinte:
+Artigo 1.º Nas vistorias a efectuar nos termos dos artigos 8.º, n.º 2, do [Decreto-Lei n.º 42663](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42663-1959-439641), de 20 de Novembro de 1959, e 12.º do Decreto-Lei n.º 42664, da mesma data, proceder-se-á da forma seguinte:
 
 1) O requerente depositará na tesouraria da câmara municipal a importância devida por lei para o pagamento da respectiva vistoria;
 
@@ -106,14 +116,14 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 4) O pagamento aos peritos far-se-á nos dias 1 a 10 do mês seguinte à realização da vistoria, através da rubrica destinada ao pagamento a diversas entidades por consignação de receitas.
 
-###### Art. 2.º Ficam revogados, na parte correspondente ao disposto no artigo 1.º, os artigos 9.º e 10.º do Regulamento dos Espectáculos e Divertimentos Públicos, aprovado pelo Decreto-Lei n.º 42661, de 20 de Novembro de 1959.
+Art. 2.º Ficam revogados, na parte correspondente ao disposto no artigo 1.º, os artigos 9.º e 10.º do Regulamento dos Espectáculos e Divertimentos Públicos, aprovado pelo Decreto-Lei n.º 42661, de 20 de Novembro de 1959.
 
-###### Art. 3.º O presente diploma entra em vigor logo após a sua publicação.
+Art. 3.º O presente diploma entra em vigor logo após a sua publicação.
 
 Francisco Sá Carneiro - Eurico de Melo.
 
-**Promulgado em 11 de Setembro de 1980.**
+Promulgado em 11 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

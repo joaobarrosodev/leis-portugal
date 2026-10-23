@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/01/01200/01090111.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,131 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1981-390388
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:03:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b774d69e7966d942298fc2cd8d59d2dbf9f8a95655d41c72b646bcd1e2874f67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7708fa856ca7d0d309752594bb74123c46ba58189367d02f357825fd51245a11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:03:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Regional de Segurança Social
+- Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:346485:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:309934:por
+  label: Prorrogado, por mais um ano, o regime de instalação estabelecido pelo art. 3.º, pelo(a) Portaria n.º 269/83 - Diário
+    da República n.º 56/1983, Série I de 1983-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/269-1983-309934
+  date: '1983-03-09'
+- type: amended_by
+  target: pt:dre:622288:por
+  label: Integrado o Centro de Apoio Social, criado pelo Dec Lei 301/78, de 07-out, no Centro Regional de Segurança Social
+    de Lisboa, criado pelo presente, pelo(a) Decreto-Lei n.º 6/85 - Diário da República n.º 5/1985, Série I de 1985-01-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-1985-622288
+  date: '1985-01-07'
+- type: amended_by
+  target: pt:dre:232160:por
+  label: Integrados os contribuintes beneficiários e acções da Caixa Sindical de Previdência dos Profissionais de Seguros
+    cujo regulamento foi aprovado por Alvará de 27-jul de 1956, nos Centros Regionais de Segurança Social de Aveiro, aprovado
+    pela Port 511/85, de 27-jul, de Beja, aprovado pela Port 528/85, de 31-jul, de Braga, aprovado pela Port 536/85, de 03-ago,
+    de Bragança, aprovado pela Port 486/85, de 19-jul, de Castelo Branco, aprovado pela Port 525/86, de 16-set, de Coimbra,
+    aprovado pela Port 498/85, de 23-jul, de Évora, aprovado pela Port 532/85, de 01-ago, da Guarda, aprovado pela Port 556/85,
+    de 09-ago, de Leiria, aprovado pela Port 382/85, de Portalegre, aprovado pela Port 501/85, de 24-jul, do Porto, aprovado
+    pela Port 64/87, de 29-jan, de Santarém, aprovado pela Port 389/85, de 26-jun, de Setúbal, aprovado pela Port 487/85,
+    de 19-jul, de Viana do Castelo, aprovado pela Port 548/85, de 07-ago, de Vila Real, aprovado pela Port 509/85, de 26-jul,
+    e de Viseu, aprovado pela Port 555/85, de09-ago, bem como no Centro Regional de Segurança Social de Lisboa, criado pelo
+    presente, e integrada a orgânica e funcionalmente a Caixa Sindical de Previdência dos Profissional de Seguros e o respectivo
+    pessoal, bem como a titularidade do património neste último Centro Regional de Segurança Social, pelo(a) Portaria n.º
+    935/92 - Diário da República n.º 222/1992, Série I-B de 1992-09-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/935-1992-232160
+  date: '1992-09-25'
+- type: amended_by
+  target: pt:dre:588262:por
+  label: Integrados os contribuintes beneficiários e acções da Caixa de Previdência dos Profissionais de Espectáculos, criada
+    pelo Dec Lei 32748, de 15-abr de 1943, nos Centros Regionais de Segurança Social de Aveiro, aprovado pela Port 511/85,
+    de 27-jul, de Beja, aprovado pela Port 528/85, de 31-jul, de Braga, aprovado pela Port 536/85, de 03-ago, de Bragança,
+    aprovado pela Port 486/85, de 19-jul, de Castelo Branco, aprovado pela Port 525/86, de 16-set, de Coimbra, aprovado pela
+    Port 498/85, de 23-jul, de Évora, aprovado pela Port 532/85, de 01-ago, de Faro, aprovado pela Port 383/85, de 22-jun,
+    da Guarda, aprovado pela Port 556/85, de 09-ago, de Leiria, aprovado pela Port 382/85, de 21-jun, de Portalegre, aprovado
+    pela Port 501/85, de 24-jul, do Porto, aprovado pela Port 64/87, de 29-jan, de Santarém, aprovado pela Port 389/85, de
+    26-jun, de Setúbal, aprovado pela Port 487/85, de 19-jul, de Viana do Castelo, aprovado pela Port 548/85, de 07-ago, de
+    Vila Real, aprovado pela Port 509/85, de 26-jul, e de Viseu, aprovado pela Port 555/85, de 09-ago, bem como no Centro
+    Regional de Segurança Social de Lisboa, criado pelo presente, e integrada orgânica e funcionalmente a Caixa de Previdência
+    dos Profissionais de Espectáculos, o respectivo pessoal, bem como a titularidade do património imobiliário e equipamentos
+    da referida Caixa, neste último Centro Regional da Segurança Social, pelo(a) Portaria n.º 58/93 - Diário da República
+    n.º 10/1993, Série I-B de 1993-01-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/58-1993-588262
+  date: '1993-01-13'
+- type: amended_by
+  target: pt:dre:585029:por
+  label: Integrada a Caixa de Previdência do Pessoal da Companhia Carris de Ferro de Lisboa no Centro Regional de Segurança
+    Social, criado pelo presente, pelo(a) Portaria n.º 74/93 - Diário da República n.º 15/1993, Série I-B de 1993-01-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/74-1993-585029
+  date: '1993-01-19'
+- type: amended_by
+  target: pt:dre:346485:por
+  label: Extinto o Centro Regional de Segurança Social de Lisboa, criado pelo presente, e revogado este diploma, pelo(a) Decreto-Lei
+    n.º 260/93 - Diário da República n.º 171/1993, Série I-A de 1993-07-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-1993-346485
+  date: '1993-07-23'
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:03:56Z'
   warnings: []
   errors: []
 ---
@@ -240,8 +331,8 @@ As dúvidas surgidas na aplicação deste diploma serão resolvidas por despacho
 
 Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva - João António Morais Leitão.
 
-**Promulgado em 31 de Dezembro de 1980.**
+Promulgado em 31 de Dezembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
